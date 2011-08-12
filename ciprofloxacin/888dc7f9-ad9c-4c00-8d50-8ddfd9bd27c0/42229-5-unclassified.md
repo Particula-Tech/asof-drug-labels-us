@@ -76,7 +76,7 @@ Streptococcus pneumoniae (penicillin-resistant strains only)
 
 Most strains of Burkholderia cepacia and some strains of Stenotrophomonas maltophilia are resistant to ciprofloxacin as are most anaerobic bacteria, including Bacteroides fragilis and Clostridium difficile.
 
-Susceptibility Tests
+## Susceptibility Tests
 
 - Dilution Techniques: Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
   These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.

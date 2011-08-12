@@ -20,15 +20,21 @@ CIPRO can cause side effects that may be serious or even cause death.
 If you get any of the following serious side effects, get medical help right away.
 Talk with your healthcare provider about whether you should continue to take CIPRO.
 
-- Tendon rupture or swelling of the tendon (tendinitis)
-  - Tendons are tough cords of tissue that connect muscles to bones.
-  - Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites can happen in people of all ages who take fluoroquinolone antibiotics, including CIPRO.
-    The risk of getting tendon problems is higher if you:
+1.
+Tendon rupture or swelling of the tendon (tendinitis)
+
+- Tendon problems can happen in people of all ages who take CIPRO.
+  Tendons are tough cords of tissue that connect muscles to bones.
+  Symptoms of tendon problems may include:
+  - Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+- The risk of getting tendon problems while you take CIPRO is higher if you:
+  - 
     - are over 60 years of age
     - are taking steroids (corticosteroids)
     - have had a kidney, heart or lung transplant
-  - Swelling of the tendon (tendinitis) and tendon rupture (breakage) have also happened in patients who take fluoroquinolones who do not have the above risk factors.
-  - Other reasons for tendon ruptures can include:
+- Tendon problems can happen in people who do not have the above risk factors when they take CIPRO.
+  Other reasons that can increase your risk of tendon problems can include:
+  - 
     - physical activity or exercise
     - kidney failure
     - tendon problems in the past, such as in people with rheumatoid arthritis (RA)
@@ -37,7 +43,7 @@ Talk with your healthcare provider about whether you should continue to take CIP
   Avoid exercise and using the affected area.
   The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
   This can also happen with other tendons.
-  Talk to your healthcare provider about the risk of tendon rupture with continued use of CIPRO.
+- Talk to your healthcare provider about the risk of tendon rupture with continued use of CIPRO.
   You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
 - Tendon rupture can happen while you are taking or after you have finished taking CIPRO.
   Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone.
@@ -45,9 +51,11 @@ Talk with your healthcare provider about whether you should continue to take CIP
   - hear or feel a snap or pop in a tendon area
   - bruising right after an injury in a tendon area
   - unable to move the affected area or bear weight
-- Worsening of myasthenia gravis (a disease which causes muscle weakness).
-  Fluoroquinolones like CIPRO may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
-  Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
+
+2.
+Worsening of myasthenia gravis (a disease which causes muscle weakness).
+Fluoroquinolones like CIPRO may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
 See the section “What are the possible side effects of CIPRO?” for more information about side effects.
 
