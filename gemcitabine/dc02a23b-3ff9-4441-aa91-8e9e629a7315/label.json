@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA200795"
+  ],
+  "inn": "gemcitabine",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-0181-01",
+    "0409-0182-01",
+    "0409-0183-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "gemcitabine hydrochloride",
+      "name": "Gemcitabine"
+    }
+  ],
+  "setid": "dc02a23b-3ff9-4441-aa91-8e9e629a7315",
+  "source": "dailymed"
+}
