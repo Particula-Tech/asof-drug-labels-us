@@ -165,8 +165,6 @@ Gram-positive bacteria:
 
 Staphylococcus epidermidis (methicillin susceptible isolates only) Streptococcus pneumoniae (penicillin-intermediate isolates)
 
-Note: Methicillin-resistant Staphylococcus epidermidis are resistant to ertapenem.
-
 Gram-negative bacteria:
 
 Citrobacter freundii Citrobacter koseri Enterobacter aerogenes Enterobacter cloacae Haemophilus influenzae Haemophilus parainfluenzae Klebsiella oxytoca (excluding ESBL producing isolates) Morganella morganii Proteus vulgaris Providencia rettgeri Providencia stuartii Serratia marcescens
