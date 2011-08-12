@@ -6,7 +6,8 @@ SPIRIVA HandiHaler has been used concomitantly with short-acting and long-acting
 
 ## 7.2 Anticholinergics
 
-The co-administration of SPIRIVA HandiHaler with other anticholinergic-containing drugs (e.g., ipratropium) has not been studied and is therefore not recommended.
+There is potential for an additive interaction with concomitantly used anticholinergic medications.
+Therefore, avoid coadministration of SPIRIVA HandiHaler with other anticholinergic-containing drugs as this may lead to an increase in anticholinergic adverse effects [see Warnings and Precautions (5.4, 5.5) and Adverse Reactions (6)].
 
 ## 7.3 Cimetidine, Ranitidine
 

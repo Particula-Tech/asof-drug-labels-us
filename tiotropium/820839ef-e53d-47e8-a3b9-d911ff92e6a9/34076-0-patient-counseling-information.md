@@ -1,10 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Patient Labeling (17.6)
+See FDA-approved Patient Labeling
 
 ## 17.1 Instructions for Administering SPIRIVA HandiHaler
 
-It is important for patients to understand how to correctly administer SPIRIVA capsules using the HandiHaler device [see Patient Counseling Information (17.6)].
+It is important for patients to understand how to correctly administer SPIRIVA capsules using the HandiHaler device [see Patient Counseling Information (17)].
 Patients should be instructed that SPIRIVA capsules should only be administered via the HandiHaler device and the HandiHaler device should not be used for administering other medications.
 The contents of SPIRIVA capsules are for oral inhalation only and must not be swallowed.
 
@@ -34,10 +34,6 @@ Patients should be told that care must be taken not to allow the powder to enter
 
 Patients should understand that SPIRIVA HandiHaler is a once-daily maintenance bronchodilator and should not be used for immediate relief of breathing problems (i.e., as a rescue medication).
 
-## 17.6 FDA-approved Patient Labeling
-
-Patient Information and Patient’s Instructions for Use are supplied as tear-off leaflets following the full prescribing information and should be dispensed with each new prescription and refill.
-
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA and Pfizer Inc New York, NY 10017 USA
@@ -48,8 +44,8 @@ Address medical inquiries to: (800) 542-6257 or (800) 459-9906 TTY.
 
 SPIRIVA® and HandiHaler® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH.
 
-©Copyright 2010 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT1600XF1410 10004551/08
+IT1600YH042011 10004551/09
 
-IT5300B 75740-03
+IT5300C 75740-04

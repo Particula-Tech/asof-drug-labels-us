@@ -13,9 +13,7 @@ It is a synthetic, non-chiral, quaternary ammonium compound.
 Tiotropium bromide is a white or yellowish white powder.
 It is sparingly soluble in water and soluble in methanol.
 
-The structural formula is:
-
-Tiotropium bromide (monohydrate) has a molecular mass of 490.4 and a molecular formula of C19H22NO4S2Br • H2O.
+The structural formula is: Tiotropium bromide (monohydrate) has a molecular mass of 490.4 and a molecular formula of C19H22NO4S2Br • H2O.
 
 The HandiHaler device is an inhalation device used to inhale the dry powder contained in the SPIRIVA capsule.
 The dry powder is delivered from the HandiHaler device at flow rates as low as 20 L/min.
