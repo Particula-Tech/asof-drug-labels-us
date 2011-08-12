@@ -8,7 +8,7 @@ DITROPAN XL® (oxybutynin chloride) Extended-release tablets
 
 Rx only
 
-Ditropan XL® and OROS® are registered trademarks of ALZA Corporation.
+Ditropan XL®and OROS®are registered trademarks of ALZA Corporation.
 
 # PRINCIPAL DISPLAY PANEL - 10 mg 100 tablet bottle
 
@@ -20,7 +20,7 @@ DITROPAN XL® (oxybutynin chloride) Extended-release tablets
 
 Rx only
 
-Ditropan XL® and OROS® are registered trademarks of ALZA Corporation.
+Ditropan XL®and OROS®are registered trademarks of ALZA Corporation.
 
 # PRINCIPAL DISPLAY PANEL - 15 mg 100 tablet bottle
 
@@ -32,4 +32,4 @@ DITROPAN XL® (oxybutynin chloride) Extended-release tablets
 
 Rx only
 
-Ditropan XL® and OROS® are registered trademarks of ALZA Corporation.
+Ditropan XL®and OROS®are registered trademarks of ALZA Corporation.

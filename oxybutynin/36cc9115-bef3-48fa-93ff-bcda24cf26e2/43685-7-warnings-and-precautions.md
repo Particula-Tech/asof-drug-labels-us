@@ -1,3 +1,10 @@
+# WARNINGS
+
+Angioedema of the face, lips, tongue and/or larynx has been reported with oxybutynin.
+In some cases, angioedema occurred after the first dose.
+Angioedema associated with upper airway swelling may be life-threatening.
+If involvement of the tongue, hypopharynx, or larynx occurs, oxybutynin should be promptly discontinued and appropriate therapy and/or measures necessary to ensure a patent airway should be promptly provided.
+
 # PRECAUTIONS
 
 ## Central Nervous System Effects
@@ -30,6 +37,9 @@ There have been rare reports of obstructive symptoms in patients with known stri
 
 ## Information for Patients
 
+Patients should be informed that oxybutynin may produce angioedema that could result in life-threatening airway obstruction.
+Patients should be advised to promptly discontinue oxybutynin therapy and seek immediate medical attention if they experience edema of the tongue, edema of the laryngopharynx, or difficulty breathing.
+
 Patients should be informed that heat prostration (fever and heat stroke due to decreased sweating) can occur when anticholinergics such as oxybutynin chloride are administered in the presence of high environmental temperature.
 
 Because anticholinergic agents such as oxybutynin may produce drowsiness (somnolence) or blurred vision, patients should be advised to exercise caution.
@@ -51,7 +61,7 @@ Anticholinergic agents may potentially alter the absorption of some concomitantl
 This may be of concern for drugs with a narrow therapeutic index.
 
 Mean oxybutynin chloride plasma concentrations were approximately 2 fold higher when DITROPAN XL® was administered with ketoconazole, a potent CYP3A4 inhibitor.
-Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., itraconazole and miconazole) or macrolide antibiotics (e.g., erythromycin and clarithromycin), may alter oxybutynin mean pharmacokinetic parameters (i.e., Cmax and AUC).
+Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., itraconazole and miconazole) or macrolide antibiotics (e.g., erythromycin and clarithromycin), may alter oxybutynin mean pharmacokinetic parameters (i.e., Cmaxand AUC).
 The clinical relevance of such potential interactions is not known.
 Caution should be used when such drugs are co-administered.
 
@@ -60,7 +70,7 @@ Caution should be used when such drugs are co-administered.
 A 24-month study in rats at dosages of oxybutynin chloride of 20, 80, and 160 mg/kg/day showed no evidence of carcinogenicity.
 These doses are approximately 6, 25, and 50 times the maximum human exposure, based on surface area.
 
-Oxybutynin chloride showed no increase of mutagenic activity when tested in Schizosaccharomyces pompholiciformis, Saccharomyces cerevisiae, and Salmonella typhimurium test systems.
+Oxybutynin chloride showed no increase of mutagenic activity when tested inSchizosaccharomyces pompholiciformis, Saccharomyces cerevisiae, andSalmonella typhimurium test systems.
 
 Reproduction studies with oxybutynin chloride in the mouse, rat, hamster, and rabbit showed no definite evidence of impaired fertility.
 

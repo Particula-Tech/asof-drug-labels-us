@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-DITROPAN XL® (oxybutynin chloride) is an antispasmodic, anticholinergic agent.
+DITROPAN XL®(oxybutynin chloride) is an antispasmodic, anticholinergic agent.
 Each DITROPAN XL® Extended Release Tablet contains 5 mg, 10 mg, or 15 mg of oxybutynin chloride USP, formulated as a once-a-day controlled-release tablet for oral administration.
 Oxybutynin chloride is administered as a racemate of R- and S-enantiomers.
 
