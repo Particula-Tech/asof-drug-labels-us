@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA200890"
+  ],
+  "inn": "pilocarpine",
+  "labeler": "Falcon Pharmaceuticals, Ltd.",
+  "package_ndcs": [
+    "61314-203-15",
+    "61314-204-15",
+    "61314-206-15"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "pilocarpine hydrochloride",
+      "name": "PILOCARPINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "53fa0b7a-f982-48a7-92c4-6f098683c1ed",
+  "source": "dailymed"
+}
