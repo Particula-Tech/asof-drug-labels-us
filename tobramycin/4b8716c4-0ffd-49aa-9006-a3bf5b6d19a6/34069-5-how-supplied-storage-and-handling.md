@@ -5,15 +5,3 @@
 Storage: Store at 8° - 27°C (46° - 80°F).
 
 Rx Only
-
-© 2000-2003 Alcon, Inc.
-
-ALCON LABORATORIES, INC.
-
-Fort Worth, Texas 76134 USA
-
-Printed in USA
-
-September 2003
-
-340328-0903

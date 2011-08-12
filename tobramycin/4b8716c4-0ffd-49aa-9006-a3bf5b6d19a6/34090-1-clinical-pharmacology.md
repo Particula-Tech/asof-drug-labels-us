@@ -1,8 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## In Vitro Data
-
-In vitro studies have demonstrated tobramycin is active against susceptible strains of the following microorganisms: Staphylococci, including S. aureus and S. epidermidis (coagulase-positive and coagulase-negative), including penicillin-resistant strains.
+In Vitro Data: In vitro studies have demonstrated tobramycin is active against susceptible strains of the following microorganisms: Staphylococci, including S. aureus and S. epidermidis (coagulase-positive and coagulase-negative), including penicillin-resistant strains.
 
 Streptococci, including some of the Group A-beta-hemolytic species, some nonhemolytic species, and some Streptococcus pneumoniae.
 

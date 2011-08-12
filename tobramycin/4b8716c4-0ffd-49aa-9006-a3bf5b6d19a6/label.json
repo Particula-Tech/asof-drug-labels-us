@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050541"
+  ],
   "inn": "tobramycin",
-  "labeler": "ALCON LABORATORIES, INC.",
+  "labeler": "Alcon Laboratories, Inc.",
   "package_ndcs": [
     "0065-0643-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tobramycin",
+      "name": "Tobrex"
+    }
+  ],
   "setid": "4b8716c4-0ffd-49aa-9006-a3bf5b6d19a6",
   "source": "dailymed"
 }
