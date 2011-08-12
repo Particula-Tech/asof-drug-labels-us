@@ -10,4 +10,4 @@ It is a synthetic catecholamine.
 
 Molecular Weight: 337.85
 
-Molecular Formula: C18H23NO3• HCl
+Molecular Formula: C18H23NO3 • HCl
