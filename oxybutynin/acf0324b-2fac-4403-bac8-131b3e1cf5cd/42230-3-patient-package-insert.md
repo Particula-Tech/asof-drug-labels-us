@@ -74,7 +74,7 @@ Applying GELNIQUE:
 1.
 Selecting your application site:
 
-Apply GELNIQUE only to 1 of the shaded areas shown in the figure below: (see Figure A)
+Apply GELNIQUE only to 1 of the shaded areas shown in the figure below: (See Figure A)
 
 - stomach (abdomen)
 - upper arms
@@ -92,27 +92,27 @@ You must prime the GELNIQUE pump before you use it for the first time.
 
 To prime the pump:
 
-- To prime GELNIQUE, hold the pump upright (see Figure B) and fully press down (depress) the pump several times with your thumb or index finger until you see gel come out (typically, this will take four or more depressions).
+- To prime GELNIQUE, hold the pump upright (See Figure B) and fully press down (depress) the pump several times with your thumb or index finger until you see gel come out (typically, this will take four or more depressions).
   After gel is observed, fully depress the pump one more time, and discard this portion of the product to assure precise dose delivery.
   The pump is now primed and GELNIQUE is ready to use.
 
 Dispensing your dose of GELNIQUE:
 
-- Place your hand under the GELNIQUE pump (see Figure C). Press the pump all the way down 1 time.
+- Place your hand under the GELNIQUE pump (See Figure C). Press the pump all the way down 1 time.
   You can also place the pump right over the application site then press the pump all the way down 1 time to dispense your dose.
   The amount of gel dispensed with one full pump equals one daily dose of GELNIQUE.
 - The amount of gel that equals your dose will be about the size of a nickel.
 
-- Apply the gel to your skin in the selected body area (see Figure A) and wash your hands with soap and water right away.
+- Apply the gel to your skin in the selected body area (See Figure A) and wash your hands with soap and water right away.
 - After you have used GELNIQUE pump 30 times, throw it away.
 
 3.
 How to use the GELNIQUE packets (sachets):
 
 - Find the notch at the top of your GELNIQUE packet.
-  Tear off the top of the GELNIQUE packet at the notch (see Figure D).
+  Tear off the top of the GELNIQUE packet at the notch (See Figure D).
 
-- Squeeze all of the GELNIQUE out of the packet onto your hand (palm or fingertips) or you can squeeze all of the GLENIQUE from the packet right onto the application site (see Figure E).
+- Squeeze all of the GELNIQUE out of the packet onto your hand (palm or fingertips) or you can squeeze all of the GLENIQUE from the packet right onto the application site (See Figure E).
 - Squeeze from the bottom of the packet toward the open end.
   Repeat until the packet is empty.
   The amount of GELNIQUE in each packet will be about the size of a nickel.
@@ -179,9 +179,8 @@ Active Ingredient: oxybutynin chloride
 
 Inactive Ingredients: alcohol, USP; glycerin, USP; hydroxypropyl cellulose, NF; sodium hydroxide, NF; and purified water, USP.
 
-Address medical inquiries to: WATSON Medical Communications P.O.
-Box 1953 Morristown, NJ 07962-1953 800-272-5525
+For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 800-272-5525
 
-Distributed By: Watson Pharma, Inc. Morristown, NJ 07962 USA
+Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: 03/2011
+Revised: June 2011

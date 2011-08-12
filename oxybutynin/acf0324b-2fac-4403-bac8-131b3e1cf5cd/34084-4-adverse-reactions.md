@@ -5,7 +5,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 ## 6.1 Clinical Studies Experience
 
 The safety of GELNIQUE was evaluated in 789 patients (389 randomized to GELNIQUE 1 g and 400 randomized to placebo) during a randomized, placebo-controlled, double-blind, 12-week clinical efficacy and safety study.
-A subset of these 789 patients (N=216) participated in the 14-week open-label safety extension that followed the placebo-controlled study.
+A subset of these 789 patients (N = 216) participated in the 14-week open-label safety extension that followed the placebo-controlled study.
 Of 216 patients in the safety extension, 107 were randomized to placebo gel during the double-blind, placebo-controlled 12-week study.
 In the combined double-blind, placebo-controlled study and the open-label safety extension, a total of 496 patients were exposed to at least one dose of GELNIQUE.
 Four hundred thirty-one (431) patients received at least 12 weeks of GELNIQUE treatment and 85 patients received 26 weeks of GELNIQUE treatment.

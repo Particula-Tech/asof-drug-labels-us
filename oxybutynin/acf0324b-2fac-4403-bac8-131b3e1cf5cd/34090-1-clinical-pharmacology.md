@@ -4,7 +4,7 @@
 
 Oxybutynin acts as a competitive antagonist of acetylcholine at postganglionic muscarinic receptors, resulting in relaxation of bladder smooth muscle.
 Oxybutynin is a racemic (50:50) mixture of R- and S- isomers.
-Antimuscarinic activity resides predominantly with the R-isomer.
+Antimuscarinic activity resides predominantly with the R- isomer.
 The active metabolite, N-desethyloxybutynin, has pharmacological activity on the human detrusor muscle that is similar to that of oxybutynin in in vitro studies.
 
 ## 12.3 Pharmacokinetics
