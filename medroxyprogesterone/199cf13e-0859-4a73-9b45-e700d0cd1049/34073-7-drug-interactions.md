@@ -24,18 +24,13 @@ Antibiotics: There have been reports of pregnancy while taking hormonal contrace
 
 Consult the labeling of all concurrently-used drugs to obtain further information about interactions with hormonal contraceptives or the potential for enzyme alterations.
 
-## 7.2 Aminoglutethimide
-
-Aminoglutethimide administered concomitantly with the Depo-Provera CI may significantly depress the serum concentrations of medroxyprogesterone acetate.
-Users of Depo-Provera CI should be warned of the possibility of decreased efficacy with the use of this or any related drugs.
-
-## 7.3 Laboratory Test Interactions
+## 7.2 Laboratory Test Interactions
 
 The pathologist should be advised of progestin therapy when relevant specimens are submitted.
 
 The following laboratory tests may be affected by progestins including Depo-Provera CI:
 
-- (a)Plasma and urinary steroid levels are decreased (e.g., progesterone, estradiol, pregnanediol, testosterone, cortisol).
+- (a) Plasma and urinary steroid levels are decreased (e.g., progesterone, estradiol, pregnanediol, testosterone, cortisol).
 - (b)Gonadotropin levels are decreased.
 - (c)Sex-hormone-binding-globulin concentrations are decreased.
 - (d)Protein-bound iodine and butanol extractable protein-bound iodine may increase.

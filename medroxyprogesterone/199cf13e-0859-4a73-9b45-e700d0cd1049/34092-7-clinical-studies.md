@@ -44,9 +44,18 @@ Mean Percent Change from Baseline in BMD in Adolescents Receiving ≥4 Injection
 |  | N | Mean % Change | N | Mean % Change |
 | --- | --- | --- | --- | --- |
 | Duration of Treatment | Depo-Provera CI (150 mg IM) |  | Unmatched, Untreated Cohort |  |
-| Total Hip BMD Week 60 (1.2 years) Week 120 (2.3 years) Week 240 (4.6 years) | 113 73 28 | -2.75 -5.40 -6.40 | 166 109 84 | 1.22 2.19 1.71 |
-| Femoral Neck BMD Week 60 Week 120 Week 240 | 113 73 28 | -2.96 -5.30 -5.40 | 166 108 84 | 1.75 2.83 1.94 |
-| Lumbar Spine BMD Week 60 Week 120 Week 240 | 114 73 27 | -2.47 -2.74 -2.11 | 167 109 84 | 3.39 5.28 6.40 |
+| Total Hip BMD |  |  |  |  |
+| Week 60 (1.2 years) | 113 | -2.75 | 166 | 1.22 |
+| Week 120 (2.3 years) | 73 | -5.40 | 109 | 2.19 |
+| Week 240 (4.6 years) | 28 | -6.40 | 84 | 1.71 |
+| Femoral Neck BMD |  |  |  |  |
+| Week 60 | 113 | -2.96 | 166 | 1.75 |
+| Week 120 | 73 | -5.30 | 108 | 2.83 |
+| Week 240 | 28 | -5.40 | 84 | 1.94 |
+| Lumbar Spine BMD |  |  |  |  |
+| Week 60 | 114 | -2.47 | 167 | 3.39 |
+| Week 120 | 73 | -2.74 | 109 | 5.28 |
+| Week 240 | 27 | -2.11 | 84 | 6.40 |
 
 BMD recovery post-treatment in adolescent women
 
@@ -62,8 +71,36 @@ Table 6: Extent of BMD Recovery (Months Post-Treatment) in Adolescents by Years 
 | --- | --- | --- | --- | --- |
 | Duration of Treatment | 2 years or less |  | More than 2 years |  |
 | Total Hip BMD |  |  |  |  |
-| End of Treatment 12 M post-treatment 24 M post-treatment 36 M post-treatment 48 M post-treatment 60 M post-treatment | 49 33 18 12 10 3 | -1.5% -1.4% 0.3% 2.1% 1.3% 0.2% | 49 24 17 11 9 2 | -6.2% -4.6% -3.6% -4.6% -2.5% -1.0% |
+| End of Treatment | 49 | -1.5% | 49 | -6.2% |
+| 12 M post-treatment | 33 | -1.4% | 24 | -4.6% |
+| 24 M post-treatment | 18 | 0.3% | 17 | -3.6% |
+| 36 M post-treatment | 12 | 2.1% | 11 | -4.6% |
+| 48 M post-treatment | 10 | 1.3% | 9 | -2.5% |
+| 60 M post-treatment | 3 | 0.2% | 2 | -1.0% |
 | Femoral Neck BMD |  |  |  |  |
-| End of Treatment 12 M post-treatment 24 M post-treatment 36 M post-treatment 48 M post-treatment 60 M post-treatment | 49 33 18 12 10 3 | -1.6% -1.4% 0.5% 1.2% 2.0% 1.0% | 49 24 17 11 9 2 | -5.8% -4.3% -3.8% -3.8% -1.7% -1.9% |
+| End of Treatment | 49 | -1.6% | 49 | -5.8% |
+| 12 M post-treatment | 33 | -1.4% | 24 | -4.3% |
+| 24 M post-treatment | 18 | 0.5% | 17 | -3.8% |
+| 36 M post-treatment | 12 | 1.2% | 11 | -3.8% |
+| 48 M post-treatment | 10 | 2.0% | 9 | -1.7% |
+| 60 M post-treatment | 3 | 1.0% | 2 | -1.9% |
 | Lumbar Spine BMD |  |  |  |  |
-| End of Treatment 12 M post-treatment 24 M post-treatment 36 M post-treatment 48 M post-treatment 60 M post-treatment | 49 33 18 12 10 3 | -0.9% 0.4% 2.6% 2.4% 6.5% 6.2% | 49 23 17 11 9 2 | -3.5% -1.1% 1.9% 0.6% 3.5% 5.7% |
+| End of Treatment | 49 | -0.9% | 49 | -3.5% |
+| 12 M post-treatment | 33 | 0.4% | 23 | -1.1% |
+| 24 M post-treatment | 18 | 2.6% | 17 | 1.9% |
+| 36 M post-treatment | 12 | 2.4% | 11 | 0.6% |
+| 48 M post-treatment | 10 | 6.5% | 9 | 3.5% |
+| 60 M post-treatment | 3 | 6.2% | 2 | 5.7% |
+
+## 14.4 Relationship of fracture incidence to use of DMPA 150 mg IM or non-use by women of reproductive age
+
+A retrospective cohort study to assess the association between DMPA injection and the incidence of bone fractures was conducted in 312,395 female contraceptive users in the UK.
+The incidence rates of fracture were compared between DMPA users and contraceptive users who had no recorded use of DMPA.
+The Incident Rate Ratio (IRR) for any fracture during the follow-up period (mean = 5.5 years) was 1.41 (95% CI 1.35, 1.47).
+It is not known if this is due to DMPA use or to other related lifestyle factors that have a bearing on fracture rate.
+
+In the study, when cumulative exposure to DMPA was calculated, the fracture rate in users who received fewer than 8 injections was higher than that in women who received 8 or more injections.
+However, it is not clear that cumulative exposure, which may include periods of intermittent use separated by periods of non-use, is a useful measure of risk, as compared to exposure measures based on continuous use.
+
+There were very few osteoporotic fractures (fracture sites known to be related to low BMD) in the study overall, and the incidence of osteoporotic fractures was not found to be higher in DMPA users compared to non-users.
+Importantly, this study could not determine whether use of DMPA has an effect on fracture rate later in life.

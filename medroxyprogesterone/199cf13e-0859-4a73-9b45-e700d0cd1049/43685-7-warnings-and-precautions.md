@@ -24,8 +24,8 @@ There have been reports of serious thrombotic events in women using Depo-Provera
 However, Depo-Provera CI has not been causally associated with the induction of thrombotic or thromboembolic disorders.
 Any patient who develops thrombosis while undergoing therapy with Depo-Provera CI should discontinue treatment unless she has no other acceptable options for birth control.
 
-Do not readminister Depo-Provera CI pending examination if there is a sudden partial or complete loss of vision or if there is a sudden onset of proptosis, diplopia, or migraine.
-Do not readminister if examination reveals papilledema or retinal vascular lesions.
+Do not re-administer Depo-Provera CI pending examination if there is a sudden partial or complete loss of vision or if there is a sudden onset of proptosis, diplopia, or migraine.
+Do not re-administer if examination reveals papilledema or retinal vascular lesions.
 
 ## 5.3 Cancer Risks
 
@@ -136,4 +136,4 @@ A woman who is taking hormonal contraceptive should have a yearly visit with her
 ## 5.18 Interference with Laboratory Tests
 
 The use of Depo-Provera CI may change the results of some laboratory tests, such as coagulation factors, lipids, glucose tolerance, and binding proteins.
-[See Drug Interactions (7.3)].
+[See Drug Interactions (7.2)].

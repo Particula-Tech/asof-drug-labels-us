@@ -13,7 +13,7 @@ The following important adverse reactions observed with the use of Depo-Provera 
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In the two pivotal clinical trials with Depo-Provera CI, over 3,900 women, who were treated for up to 7 years, reported the following adverse reactions, which may or may not be related to the use of Depo-Provera CI.
+In the two clinical trials with Depo-Provera CI, over 3,900 women, who were treated for up to 7 years, reported the following adverse reactions, which may or may not be related to the use of Depo-Provera CI.
 The population studied ranges in age from 15 to 51 years, of which 46% were White, 50% Non-White, and 4.9% Unknown race.
 The patients received 150 mg Depo-Provera CI every 3-months (90 days).
 The median study duration was 13 months with a range of 1–84 months.
@@ -51,7 +51,7 @@ There have been cases of osteoporosis including osteoporotic fractures reported 
 
 Table 3 Adverse Reactions Reported during Post-Marketing Experience
 
-| Body System | Adverse Reactions |
+| Body SystemBody System represented from COSTART medical dictionary. | Adverse Reactions |
 | --- | --- |
 | Body as a Whole | Chest pain, Allergic reactions, Fever, Pain at injection site, Chills, Axillary swelling |
 | Cardiovascular | Syncope, Tachycardia, Thrombophlebitis, Deep vein thrombosis, Pulmonary embolus, Varicose veins |
@@ -62,4 +62,3 @@ Table 3 Adverse Reactions Reported during Post-Marketing Experience
 | Respiratory | Dyspnea and asthma, Hoarseness |
 | Skin and Appendages | Hirsutism, Excessive sweating and body odor, Dry skin, Scleroderma |
 | Urogenital | Cervical cancer, Breast cancer, Lack of return to fertility, Unexpected pregnancy, Prevention of lactation, Changes in breast size, Breast lumps or nipple bleeding, Galactorrhea, Melasma, Chloasma, Increased libido, Uterine hyperplasia, Genitourinary infections, Vaginal cysts, Dyspareunia |
-| * Body System represented from COSTART medical dictionary. |  |

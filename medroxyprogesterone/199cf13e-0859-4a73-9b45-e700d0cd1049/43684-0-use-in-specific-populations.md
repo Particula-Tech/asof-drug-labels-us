@@ -3,7 +3,7 @@
 ## 8.1 Pregnancy
 
 Depo-Provera CI should not be administered during pregnancy.
-See Warnings and Precautions (5.16).
+[See Contraindications and Warnings and Precautions (5.16).]
 
 ## 8.3 Nursing Mothers
 
