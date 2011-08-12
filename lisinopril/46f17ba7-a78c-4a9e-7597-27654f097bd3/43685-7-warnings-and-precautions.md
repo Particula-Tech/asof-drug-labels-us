@@ -23,7 +23,7 @@ Patients with a history of angioedema unrelated to ACE inhibitor therapy may be 
 Anaphylactoid Reactions During Desensitization: Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions.
 In the same patients, these reactions were avoided when ACE inhibitors were temporarily withheld, but they reappeared upon inadvertent rechallenge.
 
-Anaphylactoid Reactions During Membrane Exposure: Sudden and potentially life—threatening anaphylactoid reactions have been reported in some patients dialyzed with high-flux membranes (e.g., AN69®AN69 is a registered trademark of Hospal Ltd.) and treated concomitantly with an ACE inhibitor.
+Anaphylactoid Reactions During Membrane Exposure: Sudden and potentially life—threatening anaphylactoid reactions have been reported in some patients dialyzed with high-flux membranes (e.g., AN69®AN69 is a registered trademark of HOSPAL Ltd.) and treated concomitantly with an ACE inhibitor.
 In such patients, dialysis must be stopped immediately, and aggressive therapy for anaphylactoid reactions must be initiated.
 Symptoms have not been relieved by antihistamines in these situations.
 In these patients, consideration should be given to using a different type of dialysis membrane or a different class of antihypertensive agent.
@@ -167,9 +167,11 @@ Antidiabetics: Epidemiological studies have suggested that concomitant administr
 This phenomenon appeared to be more likely to occur during the first weeks of combined treatment and in patients with renal impairment.
 In diabetic patients treated with oral antidiabetic agents or insulin, glycemic control should be closely monitored for hypoglycemia, especially during the first month of treatment with an ACE inhibitor.
 
-Non-steroidal Anti-inflammatory Agents: In some patients with comprised renal function who are being treated with non-steroidal anti-inflammatory drugs, the co-administration of lisinopril may result in further deterioration of renal function.
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including lisinopril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
-In a study in 36 patients with mild to moderate hypertension where the antihypertensive effects of ZESTRIL alone were compared to ZESTRIL given concomitantly with indomethacin, the use of indomethacin was associated with a reduced effect, although the difference between the two regimens was not significant.
+Monitor renal function periodically in patients receiving lisinopril and NSAID therapy.
+
+The antihypertensive effect of ACE inhibitors, including lisinopril, may be attenuated by NSAIDs.
 
 Other Agents: ZESTRIL has been used concomitantly with nitrates and/or digoxin without evidence of clinically significant adverse interactions.
 This included post myocardial infarction patients who were receiving intravenous or transdermal nitroglycerin.

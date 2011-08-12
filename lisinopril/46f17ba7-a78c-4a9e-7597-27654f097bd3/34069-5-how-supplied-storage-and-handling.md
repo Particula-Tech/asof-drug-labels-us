@@ -14,28 +14,20 @@
 
 ## Storage
 
-Store at controlled room temperature, 20-25ºC (68-77ºF)[see USP].
+Store at controlled room temperature, 20-25ºC (68-77ºF) [see USP].
 Protect from moisture, freezing and excessive heat.
 Dispense in a tight container.
 
 ZESTRIL is a trademark of the AstraZeneca group of companies.
 
-©AstraZeneca 2009
+©AstraZeneca 2011
 
-Manufactured for:
+Distributed by:
 
 AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-By: AstraZeneca UK Limited
-
-Macclesfield, UK
-
-Made in the United Kingdom
-
-35333–02
-
-Rev 11/09
+Rev XX/2011
 
 AstraZeneca

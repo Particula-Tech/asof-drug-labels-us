@@ -18,7 +18,7 @@ The diuretic should be discontinued, if possible, for two to three days before b
 The dosage of ZESTRIL should be adjusted according to blood pressure response.
 If the patient's blood pressure is not controlled with ZESTRIL alone, diuretic therapy may be resumed as described above.
 
-If the diuretic cannot be discontinued, an initial dose of 5 mg should be used under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour (See WARNINGS and PRECAUTIONS, Drug Interactions),
+If the diuretic cannot be discontinued, an initial dose of 5 mg should be used under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour (See WARNINGS and PRECAUTIONS, Drug Interactions).
 
 Concomitant administration of ZESTRIL with potassium supplements, potassium salt substitutes, or potassium-sparing diuretics may lead to increases of serum potassium (See PRECAUTIONS).
 
@@ -47,7 +47,7 @@ The usual effective dosage range is 5 to 40 mg per day administered as a single 
 The dose of ZESTRIL can be increased by increments of no greater than 10 mg, at intervals of no less than 2 weeks to the highest tolerated dose, up to a maximum of 40 mg daily.
 Dose adjustment should be based on the clinical response of individual patients.
 
-Dosage Adjustment in Patients with Heart Failure and Renal Impairment or Hyponatremia: In patients with heart failure who have hyponatremia (serum sodium < 130 mEq/L) or moderate to severe renal impairment (creatinine clearance ≤ 30 mL/min or serum creatinine > 3 mg/dL), therapy with ZESTRIL should be initiated at a dose of 2.5 mg once a day under close medical supervision (See WARNINGS and PRECAUTIONS, Drug Interactions),
+Dosage Adjustment in Patients with Heart Failure and Renal Impairment or Hyponatremia: In patients with heart failure who have hyponatremia (serum sodium < 130 mEq/L) or moderate to severe renal impairment (creatinine clearance ≤ 30 mL/min or serum creatinine > 3 mg/dL), therapy with ZESTRIL should be initiated at a dose of 2.5 mg once a day under close medical supervision (See WARNINGS and PRECAUTIONS, Drug Interactions).
 
 ## Acute Myocardial Infarction
 

@@ -69,7 +69,8 @@ Abrupt withdrawal of ZESTRIL has not been associated with a rapid increase in bl
 
 Two dose-response studies utilizing a once-daily regimen were conducted in 438 mild to moderate hypertensive patients not on a diuretic.
 Blood pressure was measured 24 hours after dosing.
-An antihypertensive effect of ZESTRIL was seen with 5 mg in some patients; however, in both studies blood pressure reduction occurred sooner and was greater in patients treated with 10, 20 or 80 mg of ZESTRIL.
+An antihypertensive effect of ZESTRIL was seen with 5 mg in some patients.
+However, in both studies blood pressure reduction occurred sooner and was greater in patients treated with 10, 20 or 80 mg of ZESTRIL.
 In controlled clinical studies, ZESTRIL 20-80 mg has been compared in patients with mild to moderate hypertension to hydrochlorothiazide 12.5-50 mg and with atenolol 50-200 mg; and in patients with moderate to severe hypertension to metoprolol 100-200 mg.
 It was superior to hydrochlorothiazide in effects on systolic and diastolic pressure in a population that was 3/4 Caucasian.
 ZESTRIL was approximately equivalent to atenolol and metoprolol in effects on diastolic blood pressure, and had somewhat greater effects on systolic blood pressure.
