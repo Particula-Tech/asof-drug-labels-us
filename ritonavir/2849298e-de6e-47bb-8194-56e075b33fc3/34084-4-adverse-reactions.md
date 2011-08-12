@@ -22,9 +22,9 @@ Similar adverse event profiles were reported in adult patients receiving ritonav
 Table 3.
 Percentage of Patients with Treatment-emergent Adverse Events1 of Moderate or Severe Intensity Occurring in ≥ 2% of Adult Patients Receiving NORVIR
 
-|  | NORVIR + ZDV n = 116 | NORVIR n = 117 | ZDV n = 119 | NORVIR n = 541 | Placebo n = 545 | NORVIR + Saquinavir n= 141 |
-| --- | --- | --- | --- | --- | --- | --- |
 | Adverse Events | Study 245 Naive Patients2 |  |  | Study 247 Advanced Patients3 |  | Study 462 PI-Naive Patients4 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | NORVIR + ZDV n = 116 | NORVIR n = 117 | ZDV n = 119 | NORVIR n = 541 | Placebo n = 545 | NORVIR + Saquinavir n= 141 |
 | Body as a Whole |  |  |  |  |  |  |
 | Abdominal Pain | 5.2 | 6.0 | 5.9 | 8.3 | 5.1 | 2.1 |
 | Asthenia | 28.4 | 10.3 | 11.8 | 15.3 | 6.4 | 16.3 |
@@ -70,7 +70,7 @@ Percentage of Patients with Treatment-emergent Adverse Events1 of Moderate or Se
 | Taste Perversion | 17.2 | 11.1 | 8.4 | 7.0 | 2.2 | 5.0 |
 | Urogenital |  |  |  |  |  |  |
 | Nocturia | 0.0 | 0.0 | 0.0 | 0.2 | 0.0 | 2.8 |
-| 1 Includes those adverse events at least possibly related to study drug or of unknown relationship and excludes concurrent HIV conditions.2 The median duration of treatment for patients randomized to regimens containing NORVIR in Study 245 was 9.1 months.3 The median duration of treatment for patients randomized to regimens containing NORVIR in Study 247 was 9.4 months.4 The median duration of treatment for patients in Study 462 was 48 weeks. |  |  |  |  |  |  |
+| 1 Includes those adverse events at least possibly related to study drug or of unknown relationship and excludes concurrent HIV conditions. 2 The median duration of treatment for patients randomized to regimens containing NORVIR in Study 245 was 9.1 months. 3 The median duration of treatment for patients randomized to regimens containing NORVIR in Study 247 was 9.4 months. 4 The median duration of treatment for patients in Study 462 was 48 weeks. |  |  |  |  |  |  |
 
 Adverse events occurring in less than 2% of adult patients receiving NORVIR in all phase II/phase III studies and considered at least possibly related or of unknown relationship to treatment and of at least moderate intensity are listed below by body system.
 
@@ -129,9 +129,9 @@ Table 4 shows the percentage of adult patients who developed marked laboratory a
 Table 4.
 Percentage of Adult Patients, by Study and Treatment Group, with Chemistry and Hematology Abnormalities Occurring in > 3% of Patients Receiving NORVIR
 
-| Variable | Limit | NORVIR + ZDV | NORVIR | ZDV | NORVIR | Placebo | NORVIR + Saquinavir |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Study 245 Naive Patients |  |  | Study 247 Advanced Patients |  | Study 462 PI-Naive Patients |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Variable | Limit | NORVIR + ZDV | NORVIR | ZDV | NORVIR | Placebo | NORVIR + Saquinavir |
 | Chemistry | High |  |  |  |  |  |  |
 | Cholesterol | > 240 mg/dL | 30.7 | 44.8 | 9.3 | 36.5 | 8.0 | 65.2 |
 | CPK | > 1000 IU/L | 9.6 | 12.1 | 11.0 | 9.1 | 6.3 | 9.9 |

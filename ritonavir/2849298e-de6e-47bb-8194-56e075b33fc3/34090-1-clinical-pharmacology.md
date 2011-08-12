@@ -59,7 +59,7 @@ Ritonavir Pharmacokinetic Characteristics
 | CLR | 62 | < 0.1 L/h |
 | RBC/Plasma Ratio |  | 0.14 |
 | Percent Bound* |  | 98 to 99% |
-| † SS = steady state; patients taking ritonavir 600 mg q12h.‡ Single ritonavir 600 mg dose.* Primarily bound to human serum albumin and alpha-1 acid glycoprotein over the ritonavir concentration range of 0.01 to 30 µg/mL. |  |  |
+| † SS = steady state; patients taking ritonavir 600 mg q12h. ‡ Single ritonavir 600 mg dose. * Primarily bound to human serum albumin and alpha-1 acid glycoprotein over the ritonavir concentration range of 0.01 to 30 µg/mL. |  |  |
 
 ### Effects on Electrocardiogram
 
@@ -151,7 +151,7 @@ Drug Interactions - Pharmacokinetic Parameters for Co-administered Drug in the P
 |  | 400 q12h, 1 d; then 200 q12h, 8 d | 100 q12h, 9 d |  | ↓ 39% | ↓ 24% |  |
 | Warfarin S-Warfarin R-Warfarin | 5, single dose | 400 q12h, 12d | 12 | ↑ 9% (-17, 44%)4 ↓ 33% (-38, -27%)4 | ↓ 9% (-16, -2%)4 ↔ | ND ND |
 | Zidovudine | 200 q8h, 4 d | 300 q6h, 4 d | 9 | ↓ 25% (15, 34%) | ↓ 27% (4, 45%) | ND |
-| 1 Ritonavir and indinavir were co-administered for 15 days; Day 14 doses were administered after a 15%-fat breakfast (757 Kcal) and 9%-fat evening snack (236 Kcal), and Day 15 doses were administered after a 15%-fat breakfast (757 Kcal) and 32%-fat dinner (815 Kcal). Indinavir Cmin was also increased 4-fold. Effects were assessed relative to an indinavir 800 mg q8h regimen under fasting conditions.2 Effects were assessed on a dose-normalized comparison to a methadone 20 mg single dose.3 Sulfamethoxazole and trimethoprim taken as single combination tablet.4 90% CI presented for R- and S-warfarin AUC and Cmax ratios.5 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in plasma cortisol AUC.↑ Indicates increase.↓ Indicates decrease.↔ Indicates no change.* Parallel group design; entries are subjects receiving combination and control regimens, respectively. |  |  |  |  |  |  |
+| 1 Ritonavir and indinavir were co-administered for 15 days; Day 14 doses were administered after a 15%-fat breakfast (757 Kcal) and 9%-fat evening snack (236 Kcal), and Day 15 doses were administered after a 15%-fat breakfast (757 Kcal) and 32%-fat dinner (815 Kcal). Indinavir Cmin was also increased 4-fold. Effects were assessed relative to an indinavir 800 mg q8h regimen under fasting conditions. 2 Effects were assessed on a dose-normalized comparison to a methadone 20 mg single dose. 3 Sulfamethoxazole and trimethoprim taken as single combination tablet. 4 90% CI presented for R- and S-warfarin AUC and Cmax ratios. 5 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in plasma cortisol AUC. ↑ Indicates increase. ↓ Indicates decrease. ↔ Indicates no change. * Parallel group design; entries are subjects receiving combination and control regimens, respectively. |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 

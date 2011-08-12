@@ -46,4 +46,4 @@ Pediatric Dosage Guidelines
 | 1.25 | 3.9 mL (312.5 mg) | 4.7 mL (375 mg) | 5.5 mL (437.5 mg) | 6.25 mL (500 mg) |
 | 1.50 | 4.7 mL (375 mg) | 5.6 mL (450 mg) | 6.6 mL (525 mg) | 7.5 mL (600 mg) |
 
-Body surface area (BSA) can be calculated as follows 1 :
+Body surface area (BSA) can be calculated as follows1:
