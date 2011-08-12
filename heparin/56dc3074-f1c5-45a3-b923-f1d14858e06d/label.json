@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA201370"
+  ],
+  "inn": "heparin",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
+  "package_ndcs": [
+    "0069-0043-01",
+    "0069-0043-02",
+    "0069-0058-01",
+    "0069-0058-02",
+    "0069-0059-01",
+    "0069-0059-02",
+    "0069-0059-03",
+    "0069-0059-04",
+    "0069-0062-01",
+    "0069-0062-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "heparin sodium",
+      "name": "Heparin Sodium"
+    }
+  ],
+  "setid": "56dc3074-f1c5-45a3-b923-f1d14858e06d",
+  "source": "dailymed"
+}
