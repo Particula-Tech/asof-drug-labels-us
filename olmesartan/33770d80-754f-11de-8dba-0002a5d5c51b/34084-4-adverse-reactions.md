@@ -36,4 +36,4 @@ Pediatric Hypertension No relevant differences were identified between the adver
 The following adverse reactions have been reported in post-marketing experience.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole: Asthenia, angioedema Gastrointestinal: Vomiting Metabolic and Nutritional Disorders: Hyperkalemia Musculoskeletal: Rhabdomyolysis Urogenital System: Acute renal failure, increased blood creatinine levels Skin and Appendages: Alopecia, pruritus, urticaria
+Body as a Whole: Asthenia, angioedema, anaphylactic reactions Gastrointestinal: Vomiting Metabolic and Nutritional Disorders: Hyperkalemia Musculoskeletal: Rhabdomyolysis Urogenital System: Acute renal failure, increased blood creatinine levels Skin and Appendages: Alopecia, pruritus, urticaria
