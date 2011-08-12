@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA090700"
+  ],
+  "inn": "verapamil",
+  "labeler": "Glenmark Generics Inc.,USA",
+  "package_ndcs": [
+    "68462-292-01",
+    "68462-292-05",
+    "68462-292-90",
+    "68462-293-01",
+    "68462-293-05",
+    "68462-293-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "verapamil",
+      "name": "Verapamil"
+    }
+  ],
+  "setid": "ba1bf1ae-9347-4d17-998b-14bf7b5984ce",
+  "source": "dailymed"
+}
