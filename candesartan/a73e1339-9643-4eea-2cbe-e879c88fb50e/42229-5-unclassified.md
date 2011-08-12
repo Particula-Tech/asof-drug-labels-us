@@ -36,7 +36,7 @@ For children who weighed < 50 kg the doses of ATACAND were 2, 8, or 16 mg once d
 For those > 50 kg the ATACAND doses were 4, 16 or 32 mg once daily.
 Those enrolled were 47% Black and 29% were female; mean age +/- SD was 12.9 +/- 2.6 years.
 
-The placebo subtracted effect at trough for sitting systolic blood pressure/sitting diastolic blood pressure for the different doses were from 4.9/3.0 to 7.5/7.2 mmHg.
+The placebo subtracted effect at trough for sitting systolic blood pressure/sitting diastolic blood pressure for the different doses were from 4.9/3.0 to 7.5/6.2 mmHg.
 
 In children 6 to < 17 years there was a trend for a lesser blood pressure effect for Blacks compared to other patients.
 There were too few individuals in the age group of 1 - 6 years old to determine whether Blacks respond differently than other patients to ATACAND.
