@@ -3,7 +3,7 @@
 BEFORE THERAPY WITH CEFAZOLIN IS INSTITUTED, CAREFUL INQUIRY SHOULD BE MADE TO DETERMINE WHETHER THE PATIENT HAS HAD PREVIOUS HYPERSENSITIVITY REACTIONS TO CEFAZOLIN, CEPHALOSPORINS, PENICILLINS, OR OTHER DRUGS.
 IF THIS PRODUCT IS GIVEN TO PENICILLIN-SENSITIVE PATIENTS, CAUTION SHOULD BE EXERCISED BECAUSE CROSS-HYPERSENSITIVITY AMONG BETA-LACTAM ANTIBIOTICS HAS BEEN CLEARLY DOCUMENTED AND MAY OCCUR IN UP TO 10% OF PATIENTS WITH A HISTORY OF PENICILLIN ALLERGY.
 IF AN ALLERGIC REACTION TO CEFAZOLIN OCCURS, DISCONTINUE TREATMENT WITH THE DRUG.
-SERIOUS ACUTE HYPERSENSITIVITY REACTIONS MAY REQUIRE TREATMENT WITH EPINEPHRINE AND OTHER EMERGENCY MEASURES, INCLUDING OXYGEN, IV FLUIDS, IV ANTIHISTAMINES, CORTICOSTEROIDS, PRESSOR AMINES AND AIRWAY MANAGEMENT, AS CLINICALLY INDICATED.
+SERIOUS ACUTE HYPERSENSITIVITY REACTIONS MAY REQUIRE TREATMENT WITH EPINEPHRINE AND OTHER EMERGENCY MEASURES, INCLUDING OXYGEN, IV FLUIDS, IV ANTIHISTAMINES, CORTICOSTEROIDS, PRESSOR AMINES, AND AIRWAY MANAGEMENT, AS CLINICALLY INDICATED.
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including cefazolin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -41,7 +41,7 @@ Diarrhea is a common problem caused by antibiotics which usually ends when the a
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
 
-Patients should be counseled that antibacterial drugs including cefazolin should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including cefazolin, should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When cefazolin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by cefazolin or other antibacterial drugs in the future.

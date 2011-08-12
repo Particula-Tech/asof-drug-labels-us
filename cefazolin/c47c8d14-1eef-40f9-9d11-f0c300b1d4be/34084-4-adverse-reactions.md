@@ -39,7 +39,7 @@ Genital and anal pruritus (including vulvar pruritus, genital moniliasis and vag
 
 In addition to the adverse reactions listed above that have been observed in patients treated with cefazolin, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics:
 
-Adverse Reactions: Allergic reactions, urticaria, serum sickness-like reaction, erythema multiforme, toxic epidermal necrolysis, colitis, renal dysfunction, toxic nephropathy, abdominal pain, reversible hyperactivity, hypertonia, hepatic dysfunction including cholestasis, aplastic anemia, hemolytic anemia, hemorrhage, and superinfection.
+Adverse Reactions: Allergic reactions, urticaria, serum sickness-like reaction, erythema multiforme, toxic epidermal necrolysis, colitis, renal dysfunction, toxic nephropathy, abdominal pain, reversible hyperactivity, hypertonia, hepatic dysfunction including cholestasis, aplastic anemia, haemolytic anemia, hemorrhage, and superinfection.
 
 Altered Laboratory Tests: Prolonged prothrombin time, positive direct Coombs’ test, false-positive test for urinary glucose, elevated bilirubin, elevated LDH, increased creatinine, pancytopenia, and agranulocytosis.
 

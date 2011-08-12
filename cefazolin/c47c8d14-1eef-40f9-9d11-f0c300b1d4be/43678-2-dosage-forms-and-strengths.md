@@ -17,10 +17,3 @@ SHAKE WELL.
 | --- | --- | --- | --- |
 | 500 mg | 2 mL | 225 mg/mL | 2.2 mL |
 | 1 gram | 2.5 mL | 330 mg/mL | 3 mL |
-
-## Piggyback Vials
-
-Reconstitute with 50 to 100 mL of Sodium Chloride Injection or other IV solution listed under ADMINISTRATION.
-When adding diluent to vial, allow air to escape by using a small vent needle or by pumping the syringe.
-SHAKE WELL.
-Administer with primary IV fluids, as a single dose.

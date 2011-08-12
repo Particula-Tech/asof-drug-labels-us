@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Usual Adult Dosage
+Usual Adult Dosage:
 
 | Type of Infection | Dose | Frequency |
 | --- | --- | --- |
@@ -8,9 +8,9 @@ Usual Adult Dosage
 | Mild infections caused by susceptible gram-positive cocci | 250 mg to 500 mg | every 8 hours |
 | Acute, uncomplicated urinary tract infections | 1 gram | every 12 hours |
 | Pneumococcal pneumonia | 500 mg | every 12 hours |
-| Severe, life-threatening infections (e.g., endocarditis, septicemia)* | 1 gram to 1.5 grams | every 6 hours |
+| Severe, life threatening infections (e.g., endocarditis, septicemia)* | 1 gram to 1.5 grams | every 6 hours |
 
-*In rare instances, doses of up to 12 grams of cefazolin per day have been used
+*In rare instances, doses of up to 12 grams of cefazolin per day have been used.
 
 ## Perioperative Prophylactic Use
 
@@ -29,10 +29,10 @@ In surgery where the occurrence of infection may be particularly devastating (e.
 ## Dosage Adjustment for Patients with Reduced Renal Function
 
 Cefazolin may be used in patients with reduced renal function with the following dosage adjustments.
-Patients with a creatinine clearance of 55 mL/min or greater or a serum creatinine 1.5 mg % or less can be given full doses.
-Patients with creatinine clearance rates of 35 to 54 mL/min or serum creatinine of 1.6 to 3 mg% can also be given full doses but dosage should be restricted to at least 8 hour intervals.
+Patients with a creatinine clearance of 55 mL/min or greater or a serum creatinine of 1.5 mg % or less can be given full doses.
+Patients with creatinine clearance rates of 35 to 54 mL/min or serum creatinine of 1.6 to 3 mg % can also be given full doses but dosage should be restricted to at least 8 hour intervals.
 Patients with creatinine clearance rates of 11 to 34 mL/min or serum creatinine of 3.1 to 4.5 mg % should be given one half the usual dose every 12 hours.
-Patients with creatinine clearance rates of 10 mL/min or less or serum creatinine 4.6 mg % or greater should be given one half the usual dose every 18 to 24 hours.
+Patients with creatinine clearance rates of 10 mL/min or less or serum creatinine of 4.6 mg % or greater should be given one half the usual dose every 18 to 24 hours.
 All reduced dosage recommendations apply after an initial loading dose appropriate to the severity of the infection.
 Patients undergoing peritoneal dialysis, see CLINICAL PHARMACOLOGY.
 
@@ -44,37 +44,19 @@ Since safety for use in premature infants and in neonates has not been establish
 
 Pediatric Dosage Guide
 
-| Weight |  | 25 mg/kg/Day Divided into 3 Doses |  |
+| Weight |  | 25 mg/kg/day Divided into 3 Doses |  |
 | --- | --- | --- | --- |
-| lbs | kg | Approximate Single Dose mg/q8h | Vol (mL) needed with dilution of 125 mg/mL |
-| 10 | 4.5 | 40 mg | 0.35 mL |
-| 20 | 9 | 75 mg | 0.6 mL |
-| 30 | 13.6 | 115 mg | 0.9 mL |
-| 40 | 18.1 | 150 mg | 1.2 mL |
-| 50 | 22.7 | 190 mg | 1.5 mL |
-| Weight |  | 25 mg/kg/Day Divided into 4 Doses |  |
-| lbs | kg | Approximate Single Dose mg/q6h | Vol (mL) needed with dilution of 125 mg/mL |
-| 10 | 4.5 | 30 mg | 0.25 mL |
-| 20 | 9 | 55 mg | 0.45 mL |
-| 30 | 13.6 | 85 mg | 0.7 mL |
-| 40 | 18.1 | 115 mg | 0.9 mL |
-| 50 | 22.7 | 140 mg | 1.1 mL |
-
-| Weight |  | 50 mg/kg/Day Divided into 3 Doses |  |
-| --- | --- | --- | --- |
-| lbs | kg | Approximate Single Dose mg/q8h | Vol (mL) needed with dilution of 225 mg/mL |
-| 10 | 4.5 | 75 mg | 0.35 mL |
-| 20 | 9 | 150 mg | 0.7 mL |
-| 30 | 13.6 | 225 mg | 1 mL |
-| 40 | 18.1 | 300 mg | 1.35 mL |
-| 50 | 22.7 | 375 mg | 1.7 mL |
-| Weight |  | 50 mg/kg/Day Divided into 4 Doses |  |
-| lbs | kg | Approximate Single Dose mg/q6h | Vol (mL) needed with dilution of 225 mg/mL |
-| 10 | 4.5 | 55 mg | 0.25 mL |
-| 20 | 9 | 110 mg | 0.5 mL |
-| 30 | 13.6 | 170 mg | 0.75 mL |
-| 40 | 18.1 | 225 mg | 1 mL |
-| 50 | 22.7 | 285 mg | 1.25 mL |
+| lbs | kg | Approximate Single Dosemg/q8h | Vol (mL) needed with dilution of 125 mg/mL |
+| 1020304050 | 4.5913.618.122.7 | 40 mg75 mg115 mg150 mg190 mg | 0.35 mL0.6 mL0.9 mL1.2 mL1.5 mL |
+| Weight |  | 25 mg/kg/day Divided into 4 Doses |  |
+| lbs | kg | Approximate Single Dosemg/q6h | Vol (mL) needed with dilution of 125 mg/mL |
+| 1020304050 | 4.5913.618.122.7 | 30 mg55 mg85 mg115 mg140 mg | 0.25 mL0.45 mL0.7 mL0.9 mL1.1 mL |
+| Weight |  | 50 mg/kg/day Divided into 3 Doses |  |
+| lbs | kg | Approximate Single Dosemg/q8h | Vol (mL) needed with dilution of 225 mg/mL |
+| 1020304050 | 4.5913.618.122.7 | 75 mg150 mg225 mg300 mg375 mg | 0.35 mL0.7 mL1 mL1.35 mL1.7 mL |
+| Weight |  | 50 mg/kg/day Divided into 4 Doses |  |
+| lbs | kg | Approximate Single Dosemg/q6h | Vol (mL) needed with dilution of 225 mg/mL |
+| 1020304050 | 4.5913.618.122.7 | 55 mg110 mg170 mg225 mg285 mg | 0.25 mL0.5 mL0.75 mL1 mL1.25 mL |
 
 In pediatric patients with mild to moderate renal impairment (creatinine clearance of 70 to 40 mL/min), 60% of the normal daily dosage given in equally divided doses every 12 hours should be sufficient.
 In patients with moderate impairment (creatinine clearance of 40 to 20 mL/min), 25% of the normal daily dose given in equally divided doses every 12 hours should be adequate.
