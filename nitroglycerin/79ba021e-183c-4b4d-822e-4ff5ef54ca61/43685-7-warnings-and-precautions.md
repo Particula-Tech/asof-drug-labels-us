@@ -20,9 +20,9 @@ Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy.
 As tolerance to other forms of nitroglycerin develops, the effects of sublingual nitroglycerin on exercise tolerance, although still observable, is blunted.
 
 In industrial workers who have had long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance rarely occurs.
-Chest pain, acute myocardial infraction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence.
+Chest pain, acute myocardial infarction, and even sudden death have occurred during temporary withdrawal of nitrates from these workers, demonstrating the existence of true physical dependence.
 
-Several clinical trials of nitroglycerin patches or infusions in patients with angina pectoris have evaluated regimens which incorporated a 10- to 12-hour nitrate free interval.
+Several clinical trials of nitroglycerin patches or infusions in patients with angina pectoris have evaluated regimens that incorporated a 10- to 12-hour nitrate free interval.
 In some of these trials, an increase in the frequency of anginal attacks during the nitrate free interval was observed in a small number of patients.
 In one trial, patients had decreased exercise tolerance at the end of the nitrate interval.
 Hemodynamic rebound has been observed only rarely; on the other hand, few studies were so designed that rebound, if it had occurred, would have been detected.
@@ -41,18 +41,18 @@ If possible, patients should sit down when taking NITROSTAT tablets and should u
 This eliminates the possibility of falling due to lightheadedness or dizziness.
 
 One tablet should be dissolved under the tongue or in the buccal pouch at the first sign of an acute anginal attack.
-The dose may be repeated approximately every 5 minutes, until relief is obtained.
+The dose may be repeated approximately every 5 minutes until relief is obtained.
 
-If chest pain persists after a total of 3 tablets in a 15-minute period, or the pain is different than is typically experienced, prompt medical attention is recommended.
+If chest pain persists after a total of 3 tablets in a 15-minute period, or if the pain is different than is typically experienced, prompt medical attention is recommended.
 
-Nitrostat may be used prophylactically 5 to 10 minutes prior to engaging in activities which might precipitate an acute attack.
+NITROSTAT may be used prophylactically 5 to 10 minutes prior to engaging in activities that might precipitate an acute attack.
 
 Nitroglycerin may produce a burning or tingling sensation when administered sublingually; however, the ability to produce a burning or tingling sensation should not be considered a reliable method for determining the potency of the tablets.
 
 Headaches can sometimes accompany treatment with nitroglycerin.
 In patients who get these headaches, the headaches may be a marker of the activity of the drug.
 
-Treatment with nitroglycerin may be associated with lightheadedness on standing, especially just after rising from a recumbent or seated position.
+Treatment with nitroglycerin may be associated with lightheadedness upon standing, especially just after rising from a recumbent or seated position.
 This effect may be more frequent in patients who have also consumed alcohol.
 
 Nitroglycerin should be kept in the original glass container and must be tightly capped after each use to prevent loss of tablet potency.
@@ -80,12 +80,12 @@ Oral administration of nitroglycerin markedly decreases the first-pass metabolis
 Ergotamine is known to precipitate angina pectoris.
 Therefore, patients receiving sublingual nitroglycerin should avoid ergotamine and related drugs or be monitored for symptoms of ergotism if this is not possible.
 
-Administration of nitroglycerin is contraindicated in patients who are using Viagra (sildenafil citrate).
-Viagra has been shown to potentiate the hypotensive effects of organic nitrates.
+Administration of nitroglycerin is contraindicated in patients who are using PDE-5 inhibitors (e.g., sildenafil citrate, tadalafil, vardenafil hydrochloride).
+These compounds have been shown to potentiate the hypotensive effects of organic nitrates.
 
 A decrease in therapeutic effect of sublingual nitroglycerin may result from use of long-acting nitrates.
 
-## Drug/Laboratory test Interactions
+## Drug/Laboratory Test Interactions
 
 Nitrates may interfere with the Zlatkis-Zak color reaction, causing a false report of decreased serum cholesterol.
 
@@ -95,7 +95,7 @@ Animal carcinogenesis studies with sublingually administered nitroglycerin have 
 
 Rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes.
 At high dose, the incidences of hepatocellular carcinomas in males was 48% and in females was 33%, compared to 0% in untreated controls.
-Incidences of testicular tumors were 52% vs 8% in controls.
+Incidences of testicular tumors were 52% vs. 8% in controls.
 Lifetime dietary administration of up to 1058 mg/kg/day of nitroglycerin was not tumorigenic in mice.
 
 Nitroglycerin was weakly mutagenic in Ames tests performed in 2 different laboratories.
@@ -105,7 +105,7 @@ In a 3-generation reproduction study, rats received dietary nitroglycerin at dos
 The high dose was associated with decreased feed intake and body weight gain in both sexes at all matings.
 No specific effect on the fertility of the F0 generation was seen.
 Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high-dose males.
-In this 3-generation study there was no clear evidence of teratogenicity.
+In this 3-generation study, there was no clear evidence of teratogenicity.
 
 ## Pregnancy Category C
 

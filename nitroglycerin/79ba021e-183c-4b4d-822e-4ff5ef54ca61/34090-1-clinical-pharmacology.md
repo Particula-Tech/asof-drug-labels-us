@@ -39,7 +39,7 @@ Table 1
 |  | Mean Nitroglycerin (SD) Values |  |
 |  | 2 × 0.3 mg | 1 × 0.6 mg |
 | Cmax, ng/mL | 2.3 (1.7) | 2.1 (1.5) |
-| tmax, min | 6.4 (2.5) | 7.2 (3.2) |
+| Tmax, min | 6.4 (2.5) | 7.2 (3.2) |
 | AUC(0–∞), min | 14.9 (8.2) | 14.9 (11.4) |
 | t½, min | 2.8 (1.1) | 2.6 (0.6) |
 
