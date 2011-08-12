@@ -174,8 +174,8 @@ Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
 Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: May 2011
+Revised: July 2011
 
-OT1200NE182011 090340194/9
+OT1200PH082011 090340194/10
 
-IT12004J 10005385/6
+IT12004L 10005385/7
