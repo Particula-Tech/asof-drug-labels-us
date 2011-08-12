@@ -25,7 +25,7 @@ The magnitude of reduction in blood pressure with amlodipine besylate is also co
 Normotensive subjects experienced no clinically significant change in blood pressures (+1/–2 mmHg).
 In hypertensive patients with normal renal function, therapeutic doses of amlodipine besylate resulted in a decrease in renal vascular resistance and an increase in glomerular filtration rate and effective renal plasma flow without change in filtration fraction or proteinuria.
 As with other calcium channel blockers, hemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with amlodipine besylate have generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume.
-In hemodynamic studies, amlodipine besylate has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when coadministered with beta-blockers to man.
+In hemodynamic studies, amlodipine besylate has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when co-administered with beta-blockers to man.
 Similar findings, however, have been observed in normal or well-compensated patients with heart failure with agents possessing significant negative inotropic effects.
 Electrophysiologic Effects: Amlodipine besylate does not change sinoatrial nodal function or atrioventricular conduction in intact animals or man.
 In patients with chronic stable angina, intravenous administration of 10 mg did not significantly alter A-H and H-V conduction and sinus node recovery time after pacing.

@@ -6,10 +6,10 @@
 
 There are no adequate and well-controlled studies in pregnant women.
 Amlodipine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses up to 10 mg amlodipine/kg/day (respectively, 8 times and 23 times the maximum recommended human dose of 10 mg on a mg/m 2 basis) during their respective periods of major organogenesis.
+No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses up to 10 mg amlodipine/kg/day (respectively, 8 times 2 and 23 times 2 the maximum recommended human dose of 10 mg on a mg/m 2 basis) during their respective periods of major organogenesis.
 However, litter size was significantly decreased (by about 50%) and the number of intrauterine deaths was significantly increased (about 5-fold) in rats receiving amlodipine maleate at a dose equivalent to 10 mg amlodipine/kg/day for 14 days before mating and throughout mating and gestation.
 Amlodipine maleate has been shown to prolong both the gestation period and the duration of labor in rats at this dose.
-Based on patient weight of 50 kg.
+2 Based on patient weight of 50 kg.
 
 ## 8.3 Nursing Mothers
 

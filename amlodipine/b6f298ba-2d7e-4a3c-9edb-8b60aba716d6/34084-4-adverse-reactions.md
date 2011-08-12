@@ -40,19 +40,18 @@ For several adverse experiences that appear to be drug and dose related, there w
 
 The following events occurred in <1% but >0.1% of patients in controlled clinical trials or under conditions of open trials or marketing experience where a causal relationship is uncertain; they are listed to alert the physician to a possible relationship: Cardiovascular: arrhythmia (including ventricular tachycardia and atrial fibrillation), bradycardia, chest pain, hypotension, peripheral ischemia, syncope, tachycardia, postural dizziness, postural hypotension, vasculitis.
 Central and Peripheral Nervous System: hypoesthesia, neuropathy peripheral, paresthesia, tremor, vertigo.
-Gastrointestinal: anorexia, constipation, dyspepsia, dysphagia, diarrhea, flatulence, pancreatitis, vomiting, gingival hyperplasia.
-General: allergic reaction, asthenia, back pain, hot flushes, malaise, pain, rigors, weight gain, weight decrease.
-Musculoskeletal System: arthralgia, arthrosis, muscle cramps, myalgia.
-Psychiatric: sexual dysfunction (male and female), insomnia, nervousness, depression, abnormal dreams, anxiety, depersonalization.
-Respiratory System: dyspnea, epistaxis.
-Skin and Appendages: angioedema, erythema multiforme, pruritus, rash, rash erythematous, rash maculopapular.
+Gastrointestinal: anorexia, constipation, dyspepsia, 1 dysphagia, diarrhea, flatulence, pancreatitis, vomiting, gingival hyperplasia.
+General: allergic reaction, asthenia, 1 back pain, hot flushes, malaise, pain, rigors, weight gain, weight decrease.
+Musculoskeletal System: arthralgia, arthrosis, muscle cramps, 1 myalgia.
+Psychiatric: sexual dysfunction (male 1 and female), insomnia, nervousness, depression, abnormal dreams, anxiety, depersonalization.
+Respiratory System: dyspnea, 1 epistaxis.
+Skin and Appendages: angioedema, erythema multiforme, pruritus, 1 rash, 1 rash erythematous, rash maculopapular.
 Special Senses: abnormal vision, conjunctivitis, diplopia, eye pain, tinnitus.
 Urinary System: micturition frequency, micturition disorder, nocturia.
 Autonomic Nervous System: dry mouth, sweating increased.
 Metabolic and Nutritional: hyperglycemia, thirst.
 Hemopoietic: leukopenia, purpura, thrombocytopenia.
-These events occurred in less than 1% in placebo-controlled trials, but the incidence of these side effects was between 1% and 2% in all multiple dose studies.
-
+1 These events occurred in less than 1% in placebo-controlled trials, but the incidence of these side effects was between 1% and 2% in all multiple dose studies.
 The following events occurred in <0.1% of patients: cardiac failure, pulse irregularity, extrasystoles, skin discoloration, urticaria, skin dryness, alopecia, dermatitis, muscle weakness, twitching, ataxia, hypertonia, migraine, cold and clammy skin, apathy, agitation, amnesia, gastritis, increased appetite, loose stools, coughing, rhinitis, dysuria, polyuria, parosmia, taste perversion, abnormal visual accommodation, and xerophthalmia.
 Other reactions occurred sporadically and cannot be distinguished from medications or concurrent disease states such as myocardial infarction and angina.
 Amlodipine besylate therapy has not been associated with clinically significant changes in routine laboratory tests.
