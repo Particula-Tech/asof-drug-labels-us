@@ -14,7 +14,7 @@ The area under the curve (AUC) was dose proportional following doses of 70 mg/m 
 Docetaxel’s pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with half-lives for the α, β, and γ phases of 4 min, 36 min, and 11.1 hr, respectively.
 Mean total body clearance was 21 L/h/m 2 .
 Distribution: The initial rapid decline represents distribution to the peripheral compartments and the late (terminal) phase is due, in part, to a relatively slow efflux of docetaxel from the peripheral compartment.
-Mean steady state volume of distribution was 113 L. In vitro studies showed that docetaxel is about 94% protein bound, mainly to a 1 -acid glycoprotein, albumin, and lipoproteins.
+Mean steady state volume of distribution was 113 L. In vitro studies showed that docetaxel is about 94% protein bound, mainly to α 1 -acid glycoprotein, albumin, and lipoproteins.
 In three cancer patients, the in vitro binding to plasma proteins was found to be approximately 97%.
 Dexamethasone does not affect the protein binding of docetaxel.
 Metabolism: In vitro drug interaction studies revealed that docetaxel is metabolized by the CYP3A4 isoenzyme, and its metabolism may be modified by the concomitant administration of compounds that induce, inhibit, or are metabolized by cytochrome P450 3A4 [see Drug Interactions (7)] .

@@ -63,19 +63,19 @@ Table 1- Reconstitution of DOCEFREZ (docetaxel) for Injection
 
 DOCEFREZ (Lyophilized Powder for Injection and Diluent) A. Preparation of the Reconstituted Solution
 
-1. DOCEFREZ vials should be stored between 2°C and 8°C (36°F and 47°F).
+1. DOCEFREZ vials should be stored between 2°C and 8°C (36°F and 46°F).
    Allow the appropriate number of vials of DOCEFREZ (docetaxel) for Injection and diluent (35.4% ethanol in polysorbate 80) vials to stand at room temperature for approximately 5 minutes.
-2. Aseptically withdraw 1 mL from the diluent vial for DOCEFREZ 20 mg or 4 ml from the diluent vial for DOCEFREZ 80 mg into a syringe by partially inverting the vial, and transfer it to the appropriate vial of DOCEFREZ (docetaxel) for Injection.
-   Shake the reconstituted vial well in order to completely dissolve the docetaxel powder present in the vial.
+2. a) For DOCEFREZ 20: Use 1 mL syringe with needle of 18- to 21-gauge, 1½-inch for withdrawing diluent for DOCEFREZ 20. b) For DOCEFREZ 80: Use 4 mL syringe with needle of 18- to 21-gauge, 1½-inch for withdrawing diluent for DOCEFREZ 80.
+3. a) For DOCEFREZ 20: Aseptically withdraw 1 mL from the diluent vial into a syringe by partially inverting the vial, and transfer it to product vial of DOCEFREZ (docetaxel) for Injection. b) For DOCEFREZ 80: Aseptically withdraw 4 mL from the diluent vial into a syringe by partially inverting the vial, and transfer it to product vial of DOCEFREZ (docetaxel) for Injection.
+4. Shake the reconstituted vial well in order to completely dissolve the docetaxel powder present in the vial.
    For the 20 mg vial, the resultant concentration is 20 mg/0.8 mL.
    For the 80 mg vial, the resultant concentration is 24 mg/mL.
-3. The reconstituted DOCEFREZ solution should be clear; however, there may be some air bubbles in the solution due to the polysorbate 80.
-   Allow the solution to stand for a few minutes to allow any air bubbles to dissipate.
+   The reconstituted DOCEFREZ solution should be clear; however, there may be some air bubbles in the solution due to the polysorbate 80.
 
 The reconstituted solution may be used immediately or stored either in the refrigerator or at room temperature for a maximum of 8 hours.
 B. Preparation of the Infusion Solution
 
-1. Aseptically withdraw the required amount of reconstituted DOCEFREZ solution with a calibrated syringe and inject into a 250 ml infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 to 0.74 mg/ml.
+1. Aseptically withdraw the required amount of reconstituted DOCEFREZ solution with a calibrated syringe and inject into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 to 0.74 mg/mL.
    If a dose greater than 200 mg of DOCEFREZ is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/ml docetaxel is not exceeded.
 2. Thoroughly mix the infusion by manual rotation.
 3. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
