@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA017029"
+  ],
+  "inn": "heparin",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-262-55",
+    "63323-540-57"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "heparin sodium",
+      "name": "Heparin Sodium"
+    }
+  ],
+  "setid": "ed937dd2-8fab-4875-a1e8-627b71ccb7fb",
+  "source": "dailymed"
+}
