@@ -33,7 +33,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 ## 8.4 Pediatric Use
 
 A prospective, open-label, single-arm trial was conducted to evaluate the safety and efficacy of AFINITOR in patients with SEGA associated with TS.
-In total, 28 patients received treatment with AFINITOR; median age was 11 years (range 3 34).
+In total, 28 patients received treatment with AFINITOR; median age was 11 years (range 3-34).
 AFINITOR has not been studied in patients with SEGA < 3 years of age.
 
 ## 8.5 Geriatric Use
