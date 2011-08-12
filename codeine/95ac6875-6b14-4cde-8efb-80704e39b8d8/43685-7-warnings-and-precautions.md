@@ -124,7 +124,7 @@ The effect of codeine, if any, on the later growth, development, and functional 
 ## Nursing Mothers
 
 Acetaminophen is excreted in breast milk in small amounts, but the significance of its effects on nursing infants is not known.
-Because of the potential for serious adverse reactions in nursing infants from acetaminophen, a decision should be made whether to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for serious adverse reactions in nursing infants from acetaminophen, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
 Codeine is secreted into human milk.
 In women with normal codeine metabolism (normal CYP2D6 activity), the amount of codeine secreted into human milk is low and dose-dependent.
