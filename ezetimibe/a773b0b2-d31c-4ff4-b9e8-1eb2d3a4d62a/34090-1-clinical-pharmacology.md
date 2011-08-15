@@ -25,8 +25,8 @@ Epidemiologic studies have established that cardiovascular morbidity and mortali
 Like LDL, cholesterol-enriched triglyceride-rich lipoproteins, including very-low-density lipoproteins (VLDL), intermediate-density lipoproteins (IDL), and remnants, can also promote atherosclerosis.
 The independent effect of raising HDL-C or lowering TG on the risk of coronary and cardiovascular morbidity and mortality has not been determined.
 
-ZETIA reduces total-C, LDL-C, Apo B, and TG, and increases HDL-C in patients with hyperlipidemia.
-Administration of ZETIA with a statin is effective in improving serum total-C, LDL-C, Apo B, TG, and HDL-C beyond either treatment alone.
+ZETIA reduces total-C, LDL-C, Apo B, non-HDL-C, and TG, and increases HDL-C in patients with hyperlipidemia.
+Administration of ZETIA with a statin is effective in improving serum total-C, LDL-C, Apo B, non-HDL-C, TG, and HDL-C beyond either treatment alone.
 Administration of ZETIA with fenofibrate is effective in improving serum total-C, LDL-C, Apo B, and non-HDL-C in patients with mixed hyperlipidemia as compared to either treatment alone.
 The effects of ezetimibe given either alone or in addition to a statin or fenofibrate on cardiovascular morbidity and mortality have not been established.
 
@@ -94,7 +94,7 @@ TABLE 4: Effect of Co-Administered Drugs on Total Ezetimibe
 |  | Change in AUC | Change in Cmax |
 | --- | --- | --- |
 | Co-Administered Drug and Dosing Regimen | Total Ezetimibe Based on 10 mg dose of ezetimibe |  |
-| Cyclosporine-stable dose required (75–150 mg BID)See Drug Interactions (7),Post-renal transplant patients with mild impaired or normal renal function. In a different study, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m2) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects. | ↑240% | ↑290% |
+| Cyclosporine-stable dose required (75–150 mg BID)See Drug Interactions (7).,Post-renal transplant patients with mild impaired or normal renal function. In a different study, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m2) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects. | ↑240% | ↑290% |
 | Fenofibrate, 200 mg QD, 14 days | ↑48% | ↑64% |
 | Gemfibrozil, 600 mg BID, 7 days | ↑64% | ↑91% |
 | Cholestyramine, 4 g BID, 14 days | ↓55% | ↓4% |
@@ -114,7 +114,7 @@ TABLE 5: Effect of Ezetimibe Co-Administration on Systemic Exposure to Other Dru
 | --- | --- | --- | --- |
 | Warfarin, 25 mg single dose on day 7 | 10 mg QD, 11 days | ↓2% (R-warfarin) ↓4% (S-warfarin) | ↑3% (R-warfarin) ↑1% (S-warfarin) |
 | Digoxin, 0.5 mg single dose | 10 mg QD, 8 days | ↑2% | ↓7% |
-| Gemfibrozil, 600 mg BID, 7 daysSee Drug Interactions (7) | 10 mg QD, 7 days | ↓1% | ↓11% |
+| Gemfibrozil, 600 mg BID, 7 daysSee Drug Interactions (7). | 10 mg QD, 7 days | ↓1% | ↓11% |
 | Ethinyl estradiol & Levonorgestrel, QD, 21 days | 10 mg QD, days 8–14 of 21d oral contraceptive cycle | Ethinyl estradiol 0% Levonorgestrel 0% | Ethinyl estradiol ↓9% Levonorgestrel ↓5% |
 | Glipizide, 10 mg on days 1 and 9 | 10 mg QD, days 2–9 | ↓3% | ↓5% |
 | Fenofibrate, 200 mg QD, 14 days | 10 mg QD, 14 days | ↑11% | ↑7% |

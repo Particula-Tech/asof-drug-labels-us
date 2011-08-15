@@ -53,7 +53,7 @@ The frequency of less common adverse reactions was comparable between ZETIA and 
 
 Combination with a Statin
 
-In 28 double-blind, controlled (placebo- or active-controlled) clinical trials, 11,308 patients with primary hyperlipidemia (age range 10–93 years, 48% women, 85% Caucasians, 7% Blacks, 4% Hispanics, 3% Asians) and elevated LDL-C were treated with ZETIA 10 mg/day concurrently with or added to on-going statin therapy for a median treatment duration of 8 weeks (range 0 to 112 weeks).
+In 28 double-blind, controlled (placebo or active-controlled) clinical trials, 11,308 patients with primary hyperlipidemia (age range 10–93 years, 48% women, 85% Caucasians, 7% Blacks, 4% Hispanics, 3% Asians) and elevated LDL-C were treated with ZETIA 10 mg/day concurrently with or added to on-going statin therapy for a median treatment duration of 8 weeks (range 0 to 112 weeks).
 
 The incidence of consecutive increased transaminases (≥3 × ULN) was higher in patients receiving ZETIA administered with statins (1.3%) than in patients treated with statins alone (0.4%).
 [See Warnings and Precautions (5.2).]

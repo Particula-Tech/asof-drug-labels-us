@@ -73,4 +73,4 @@ No overall differences in safety and effectiveness were observed between these p
 
 ZETIA is not recommended in patients with moderate to severe hepatic impairment [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
-ZETIA given concomitantly with a statin is contraindicated in patients with active liver disease or unexplained persistent elevations of hepatic transaminase levels [see Contraindications (4); Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
+ZETIA given concomitantly with a statin is contraindicated in patients with active liver disease or unexplained persistent elevations of hepatic transaminase levels [see Contraindications (4); Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].

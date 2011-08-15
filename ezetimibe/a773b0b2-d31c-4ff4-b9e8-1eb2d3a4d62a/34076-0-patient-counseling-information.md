@@ -27,8 +27,8 @@ Patients who have a lipid disorder and are breastfeeding should be advised to di
 
 ## 17.5 FDA-approved Patient Labeling
 
-32147054T REV 21
+32147062T REV 22
 
-Issued July 2009 U.S. Patent Nos. 5,846,966; 7,030,106 and RE37,721.
+Issued July 2011 U.S. Patent Nos. 5,846,966; 7,030,106 and RE 42,461.
 
 Manufactured for: Merck/Schering-Plough Pharmaceuticals North Wales, PA 19454, USA By: Schering Corporation Kenilworth, NJ 07033, USA or Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
