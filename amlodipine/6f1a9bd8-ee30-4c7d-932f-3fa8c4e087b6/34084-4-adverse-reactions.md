@@ -15,9 +15,9 @@ The following information is based on the clinical experience with amlodipine an
 Amlodipine has been evaluated for safety in more than 11,000 patients in U.S. and foreign clinical trials.
 In general, treatment with amlodipine was well tolerated at doses up to 10 mg daily.
 Most adverse reactions reported during therapy with amlodipine were of mild or moderate severity.
-In controlled clinical trials directly comparing amlodipine (N=1730) in doses up to 10 mg to placebo (N=1250), discontinuation of amlodipine due to adverse reactions was required in only about 1.5% of patients and was not significantly different from placebo (about 1%).
+In controlled clinical trials directly comparing amlodipine (N=1730) at doses up to 10 mg to placebo (N=1250), discontinuation of amlodipine due to adverse reactions was required in only about 1.5% of patients and was not significantly different from placebo (about 1%).
 The most common side effects are headache and edema.
-The incidence (%) of side effects which occurred in a dose related manner are as follows:
+The incidence (%) of side effects that occurred in a dose related manner are as follows:
 
 |  | 2.5 mg N=275 | 5.0 mg N=296 | 10.0 mg N=268 | Placebo N=520 |
 | --- | --- | --- | --- | --- |
@@ -27,7 +27,7 @@ The incidence (%) of side effects which occurred in a dose related manner are as
 | Flushing | 0.7 | 1.4 | 2.6 | 0.0 |
 | Palpitations | 0.7 | 1.4 | 4.5 | 0.6 |
 
-Other adverse experiences which were not clearly dose related but which were reported with an incidence greater than 1.0% in placebo-controlled clinical trials include the following:
+Other adverse experiences that were not clearly dose related but were reported with an incidence greater than 1.0% in placebo-controlled clinical trials include the following:
 
 ### Placebo-Controlled Studies
 
@@ -84,12 +84,15 @@ Other reactions occurred sporadically and cannot be distinguished from medicatio
 Amlodipine therapy has not been associated with clinically significant changes in routine laboratory tests.
 No clinically relevant changes were noted in serum potassium, serum glucose, total triglycerides, total cholesterol, HDL cholesterol, uric acid, blood urea nitrogen, or creatinine.
 
-In the CAMELOT and PREVENT studies (see CLINICAL PHARMACOLOGY Clinical Studies, Clinical Studies with Amlodipine) the adverse event profile was similar to that reported previously (see above), with the most common adverse event being peripheral edema.
+In the CAMELOT and PREVENT studies (see CLINICAL PHARMACOLOGY Clinical Studies) the adverse event profile was similar to that reported previously (see above), with the most common adverse event being peripheral edema.
+
+The following adverse reactions have been identified during post-approval use of amlodipine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 The following postmarketing event has been reported infrequently with amlodipine treatment where a causal relationship is uncertain: gynecomastia.
-In postmarketing experience, jaundice and hepatic enzyme elevations (mostly consistent with cholestasis or hepatitis) in some cases severe enough to require hospitalization have been reported in association with use of amlodipine.
+In postmarketing experience, jaundice and hepatic enzyme elevations (mostly consistent with cholestasis or hepatitis), in some cases severe enough to require hospitalization, have been reported in association with use of amlodipine.
 
-Amlodipine has been used safely in patients with chronic obstructive pulmonary disease, well-compensated congestive heart failure, peripheral vascular disease, diabetes mellitus, and abnormal lipid profiles.
+Amlodipine has been used safely in patients with chronic obstructive pulmonary disease, well-compensated congestive heart failure, coronary artery disease, peripheral vascular disease, diabetes mellitus, and abnormal lipid profiles.
 
 ## The Atorvastatin Component of CADUET
 
@@ -162,7 +165,7 @@ The proportions of subjects who experienced non-cardiovascular death were numeri
 
 ### Postintroduction Reports with Atorvastatin
 
-The following adverse reactions have been identified during postapproval use of the atorvastatin component of CADUET.
+The following adverse reactions have been identified during post-approval use of the atorvastatin component of CADUET.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Adverse reactions associated with atorvastatin therapy reported since market introduction, that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, fatigue, tendon rupture, hepatic failure, dizziness, memory impairment, depression, and peripheral neuropathy.

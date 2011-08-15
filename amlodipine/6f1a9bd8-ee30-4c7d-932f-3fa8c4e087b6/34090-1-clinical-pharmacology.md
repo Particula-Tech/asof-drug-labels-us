@@ -234,7 +234,7 @@ In hypertensive patients with normal renal function, therapeutic doses of amlodi
 
 As with other calcium channel blockers, hemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with amlodipine have generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume.
 In hemodynamic studies, amlodipine has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when co-administered with beta-blockers to man.
-Similar findings, however, have been observed in normals or well-compensated patients with heart failure with agents possessing significant negative inotropic effects.
+Similar findings, however, have been observed in normal or well-compensated patients with heart failure with agents possessing significant negative inotropic effects.
 
 ### Electrophysiologic Effects of Amlodipine
 
@@ -271,8 +271,8 @@ Effects were similar in black patients and in white patients.
 ##### Pediatric Patients
 
 Two-hundred sixty-eight hypertensive patients aged 6 to 17 years were randomized first to amlodipine 2.5 or 5 mg once daily for 4 weeks and then randomized again to the same dose or to placebo for another 4 weeks.
-Patients receiving 5 mg amlodipine at the end of 8 weeks had lower blood pressure than those secondarily randomized to placebo.
-The magnitude of the treatment effect is difficult to interpret, but it is probably less than 5 mmHg systolic on the 5 mg dose.
+Patients receiving 2.5 mg or 5 mg amlodipine at the end of 8 weeks had significantly lower systolic blood pressure than those secondarily randomized to placebo.
+The magnitude of the treatment effect is difficult to interpret, but it is probably less than 5 mmHg systolic on the 5 mg dose and 3.3 mmHg on the 2.5 mg dose.
 Adverse events were similar to those seen in adults.
 
 #### Amlodipine Effects in Chronic Stable Angina
@@ -298,17 +298,17 @@ CAMELOT enrolled 1318 patients with CAD recently documented by angiography, with
 Patients (76% males, 89% Caucasian, 93% enrolled at US sites, 89% with a history of angina, 52% without PCI, 4% with PCI and no stent, and 44% with a stent) were randomized to double-blind treatment with either amlodipine (5 – 10 mg once daily) or placebo in addition to standard care that included aspirin (89%), statins (83%), beta-blockers (74%), nitroglycerin (50%), anti-coagulants (40%), and diuretics (32%), but excluded other calcium channel blockers.
 The mean duration of follow-up was 19 months.
 The primary endpoint was the time to first occurrence of one of the following events: hospitalization for angina pectoris, coronary revascularization, myocardial infarction, cardiovascular death, resuscitated cardiac arrest, hospitalization for heart failure, stroke/TIA, or peripheral vascular disease.
-A total of 110 (16.6%) and 151 (23.1%) first events occurred in the amlodipine and placebo groups respectively for a hazard ratio of 0.691 (95% CI: 0.540–0.884, p= 0.003).
+A total of 110 (16.6%) and 151 (23.1%) first events occurred in the amlodipine and placebo groups respectively for a hazard ratio of 0.691 (95% CI: 0.540–0.884, p = 0.003).
 The primary endpoint is summarized in Figure 1 below.
 The outcome of this study was largely derived from the prevention of hospitalizations for angina and the prevention of revascularization procedures (see Table 4).
 Effects in various subgroups are shown in Figure 2.
 
-In a angiographic substudy (n=274) conducted within CAMELOT, there was no significant difference between amlodipine and placebo on the change of atheroma volume in the coronary artery as assessed by intravascular ultrasound.
+In an angiographic substudy (n=274) conducted within CAMELOT, there was no significant difference between amlodipine and placebo on the change of atheroma volume in the coronary artery as assessed by intravascular ultrasound.
 
-| Figure 1: Kaplan-Meier analysis of composite clinical outcomes for amlodipine versus placebo |
+| Figure 1: Kaplan-Meier Analysis of Composite Clinical Outcomes for Amlodipine versus Placebo |
 | --- |
 
-| Figure 2 – Effects on primary endpoint of amlodipine versus placebo across sub-groups |
+| Figure 2 – Effects on Primary Endpoint of Amlodipine versus Placebo across Sub-Groups |
 | --- |
 
 Table 4 below summarizes the significant composite endpoint and clinical outcomes from the composites of the primary endpoint.
@@ -323,14 +323,14 @@ Incidence of Significant Clinical Outcomes for CAMELOT
 | Hospitalization for AnginaTotal patients with these events | 51 (7.7) | 84 (12.8) | 42% (0.002) |
 | Coronary Revascularization | 78 (11.8) | 103 (15.7) | 27% (0.033) |
 
-#### Amlodipine Effects in Patients with Congestive Heart Failure
+#### Amlodipine Effects in Patients with Heart Failure
 
-Amlodipine has been compared to placebo in four 8–12 week studies of patients with NYHA class II/III heart failure, involving a total of 697 patients.
+Amlodipine has been compared to placebo in four 8–12 week studies of patients with NYHA Class II/III heart failure, involving a total of 697 patients.
 In these studies, there was no evidence of worsened heart failure based on measures of exercise tolerance, NYHA classification, symptoms, or LVEF.
-In a long-term (follow-up at least 6 months, mean 13.8 months) placebo-controlled mortality/morbidity study of amlodipine 5–10 mg in 1153 patients with NYHA classes III (n=931) or IV (n=222) heart failure on stable doses of diuretics, digoxin, and ACE inhibitors, amlodipine had no effect on the primary endpoint of the study which was the combined endpoint of all-cause mortality and cardiac morbidity (as defined by life-threatening arrhythmia, acute myocardial infarction, or hospitalization for worsened heart failure), or on NYHA classification, or symptoms of heart failure.
+In a long-term (follow-up at least 6 months, mean 13.8 months) placebo-controlled mortality/morbidity study of amlodipine 5–10 mg in 1153 patients with NYHA Classes III (n=931) or IV (n=222) heart failure on stable doses of diuretics, digoxin, and ACE inhibitors, amlodipine had no effect on the primary endpoint of the study which was the combined endpoint of all-cause mortality and cardiac morbidity (as defined by life-threatening arrhythmia, acute myocardial infarction, or hospitalization for worsened heart failure), or on NYHA classification, or symptoms of heart failure.
 Total combined all-cause mortality and cardiac morbidity events were 222/571 (39%) for patients on amlodipine and 246/583 (42%) for patients on placebo; the cardiac morbid events represented about 25% of the endpoints in the study.
 
-Another study (PRAISE-2) randomized patients with NYHA class III (80%) or IV (20%) heart failure without clinical symptoms or objective evidence of underlying ischemic disease, on stable doses of ACE inhibitor (99%), digitalis (99%) and diuretics (99%), to placebo (n=827) or amlodipine (n=827) and followed them for a mean of 33 months.
+Another study (PRAISE-2) randomized patients with NYHA Class III (80%) or IV (20%) heart failure without clinical symptoms or objective evidence of underlying ischemic disease, on stable doses of ACE inhibitors (99%), digitalis (99%) and diuretics (99%), to placebo (n=827) or amlodipine (n=827) and followed them for a mean of 33 months.
 There was no statistically significant difference between amlodipine and placebo in the primary endpoint of all cause mortality (95% confidence limits from 8% reduction to 29% increase on amlodipine).
 With amlodipine there were more reports of pulmonary edema.
 

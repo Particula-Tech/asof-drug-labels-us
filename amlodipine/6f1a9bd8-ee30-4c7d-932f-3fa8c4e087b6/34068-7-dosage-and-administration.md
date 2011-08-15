@@ -7,15 +7,14 @@ Dosage of CADUET must be individualized on the basis of both effectiveness and t
 ### Adults
 
 The usual initial antihypertensive oral dose of amlodipine is 5 mg once daily with a maximum dose of 10 mg once daily.
-Small, fragile, or elderly individuals, or patients with hepatic insufficiency may be started on 2.5 mg once daily and this dose may be used when adding amlodipine to other antihypertensive therapy.
+Small, fragile, or elderly patients, or patients with hepatic insufficiency may be started on 2.5 mg once daily and this dose may be used when adding amlodipine to other antihypertensive therapy.
 
-Dosage should be adjusted according to each patient's need.
+Adjust dosage according to each patient's need.
 In general, titration should proceed over 7 to 14 days so that the physician can fully assess the patient's response to each dose level.
 Titration may proceed more rapidly, however, if clinically warranted, provided the patient is assessed frequently.
 
 The recommended dose of amlodipine for chronic stable or vasospastic angina is 5–10 mg, with the lower dose suggested in the elderly and in patients with hepatic insufficiency.
-Most patients will require 10 mg for adequate effect.
-See ADVERSE REACTIONS section for information related to dosage and side effects.
+Most patients will require 10 mg for adequate effect (see ADVERSE REACTIONS).
 
 The recommended dose range of amlodipine for patients with coronary artery disease is 5–10 mg once daily.
 In clinical studies the majority of patients required 10 mg (see CLINICAL PHARMACOLOGY, Clinical studies).

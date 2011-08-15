@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-CADUET tablets contain amlodipine besylate and atorvastatin calcium equivalent to amlodipine and atorvastatin in the dose strengths described below.
+CADUET® tablets contain amlodipine besylate and atorvastatin calcium equivalent to amlodipine and atorvastatin in the dose strengths described below.
 
 CADUET tablets are differentiated by tablet color/size and are engraved with "Pfizer" on one side and a unique number on the other side.
 CADUET tablets are supplied for oral administration in the following strengths and package configurations:

@@ -111,18 +111,26 @@ In vitro data in human plasma indicate that amlodipine has no effect on the prot
 
 Cimetidine: Co-administration of amlodipine with cimetidine did not alter the pharmacokinetics of amlodipine.
 
-Maalox® (antacid): Co-administration of the antacid Maalox with a single dose of amlodipine had no significant effect on the pharmacokinetics of amlodipine.
+Grapefruit Juice: Co-administration of 240 mL of grapefruit juice with a single oral dose of amlodipine 10 mg in 20 healthy volunteers had no significant effect on the pharmacokinetics of amlodipine.
 
-Sildenafil: A single 100 mg dose of sildenafil (Viagra®) in subjects with essential hypertension had no effect on the pharmacokinetic parameters of amlodipine.
+Magnesium and Aluminum Hydroxide Antacid: Co-administration of a magnesium and aluminum hydroxide antacid with a single dose of amlodipine had no significant effect on the pharmacokinetics of amlodipine.
+
+Sildenafil: A single 100 mg dose of sildenafil in subjects with essential hypertension had no effect on the pharmacokinetic parameters of amlodipine.
 When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect.
 
 Digoxin: Co-administration of amlodipine with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.
 
-Ethanol (alcohol): Single and multiple 10 mg doses of amlodipine had no significant effect on the pharmacokinetics of ethanol.
+Ethanol (Alcohol): Single and multiple 10 mg doses of amlodipine had no significant effect on the pharmacokinetics of ethanol.
 
 Warfarin: Co-administration of amlodipine with warfarin did not change the warfarin prothrombin response time.
 
-In clinical trials, amlodipine has been safely administered with thiazide diuretics, beta-blockers, angiotensin-converting enzyme inhibitors, long-acting nitrates, sublingual nitroglycerin, digoxin, warfarin, non-steroidal anti-inflammatory drugs, antibiotics, and oral hypoglycemic drugs.
+CYP3A4 Inhibitors: Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
+Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
+However, strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, ritonavir) may increase the plasma concentrations of amlodipine to a greater extent.
+Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A4 inhibitors.
+
+CYP3A4 Inducers: No information is available on the quantitative effects of CYP3A4 inducers on amlodipine.
+Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A4 inducers.
 
 ### Studies with Atorvastatin
 
@@ -205,10 +213,10 @@ Atherosclerosis is a chronic process, and discontinuation of lipid-lowering drug
 
 #### Studies with amlodipine
 
-No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses up to 10 mg amlodipine/kg/day (respectively 8 times and 23 times the maximum recommended human dose of 10 mg/day on a mg/m2 basis) during their respective periods of major organogenesis.
+There are no adequate and well-controlled studies in pregnant women.
+No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses up to 10 mg amlodipine/kg/day (respectively, 8 times and 23 times the maximum recommended human dose of 10 mg/day on a mg/m2 basis) during their respective periods of major organogenesis.
 However, litter size was significantly decreased (by about 50%) and the number of intrauterine deaths was significantly increased (about 5-fold) in rats receiving amlodipine maleate at 10 mg amlodipine/kg/day for 14 days before mating and throughout mating and gestation.
 Amlodipine maleate has been shown to prolong both the gestation period and the duration of labor in rats at this dose.
-There are no adequate and well-controlled studies in pregnant women.
 
 #### Studies with atorvastatin
 
