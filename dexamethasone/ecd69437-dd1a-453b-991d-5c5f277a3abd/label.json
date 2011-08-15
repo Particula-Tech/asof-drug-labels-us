@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA013422"
+  ],
   "inn": "dexamethasone",
-  "labeler": "ALCON LABORATORIES, INC.",
+  "labeler": "Alcon Laboratories, Inc.",
   "package_ndcs": [
     "0998-0615-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "dexamethasone",
+      "name": "Maxidex"
+    }
+  ],
   "setid": "ecd69437-dd1a-453b-991d-5c5f277a3abd",
   "source": "dailymed"
 }
