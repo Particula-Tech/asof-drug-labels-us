@@ -56,7 +56,7 @@ Therefore, tell your doctor about all the medicines you take including:
 - quinidine (used to correct disturbances in heart rhythm)
 - amitriptyline or nortriptyline for depression
 - pimozide for psychiatric illness
-- amphotericin B for fungal infections
+- amphotericin B or voriconazole for fungal infections
 - erythromycin for bacterial infections
 - cyclophosphamide or vinca alkaloids such as vincristine or vinblastine for treatment of cancer
 - fentanyl, afentanil or methadone for chronic pain
@@ -152,4 +152,4 @@ You can ask your pharmacist or doctor for information about DIFLUCAN that is wri
 
 You can also visit the DIFLUCAN Internet site at www.diflucan.com.
 
-LAB-0380-4.0 December 2010
+LAB-0380-5.0 June 2011

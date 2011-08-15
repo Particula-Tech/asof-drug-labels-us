@@ -106,7 +106,7 @@ Further adjustment may be needed depending upon clinical condition.
 
 When serum creatinine is the only measure of renal function available, the following formula (based on sex, weight, and age of the patient) should be used to estimate the creatinine clearance in adults:
 
-Males: Weight (kg) × (140–age) 72 × serum creatinine (mg/100 mL)
+Males: Weight (kg) × (140 – age) 72 × serum creatinine (mg/100 mL)
 
 Females: 0.85 × above value
 
