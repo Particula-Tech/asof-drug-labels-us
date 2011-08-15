@@ -21,7 +21,7 @@ AVELOX is indicated for the treatment of Acute Bacterial Exacerbation of Chronic
 
 ## 1.3 Community Acquired Pneumonia
 
-AVELOX is indicated for the treatment of Community Acquired Pneumonia caused by Streptococcus pneumoniae (including multi-drug resistant strains*), Haemophilus influenzae, Moraxella catarrhalis, methicillin-susceptible Staphylococcus aureus, Klebsiella pneumoniae, Mycoplasma pneumoniae, or Chlamydophilia pneumoniae.
+AVELOX is indicated for the treatment of Community Acquired Pneumonia caused by Streptococcus pneumoniae (including multi-drug resistant strains*), Haemophilus influenzae, Moraxella catarrhalis, methicillin-susceptible Staphylococcus aureus, Klebsiella pneumoniae, Mycoplasma pneumoniae, or Chlamydophila pneumoniae.
 
 * MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are strains resistant to two or more of the following antibiotics: penicillin (minimum inhibitory concentrations [MIC] ≥ 2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole [see Clinical Studies (14.2)].
 

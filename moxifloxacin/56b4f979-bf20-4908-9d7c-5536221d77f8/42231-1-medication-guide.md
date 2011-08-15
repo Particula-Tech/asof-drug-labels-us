@@ -3,7 +3,7 @@
 AVELOX® (AV-eh-locks) (moxifloxacin hydrochloride) Tablets
 
 AVELOX® I.V.
-(AV-eh-locks) (moxifloxacin hydrochloride in sodium chloride injection)
+(AV-eh-locks) (moxifloxacin hydrochloride) Injection Solution for IV use
 
 Read the Medication Guide that comes with AVELOX® before you start taking it and each time you get a refill.
 There may be new information.
@@ -16,15 +16,21 @@ AVELOX can cause side effects that may be serious or even cause death.
 If you get any of the following serious side effects, get medical help right away.
 Talk with your healthcare provider about whether you should continue to take AVELOX.
 
-- Tendon rupture or swelling of the tendon (tendinitis)
-  - Tendons are tough cords of tissue that connect muscles to bones.
-  - Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites can happen in people of all ages who take fluoroquinolone antibiotics, including AVELOX.
-    The risk of getting tendon problems is higher if you:
+1.
+Tendon rupture or swelling of the tendon (tendinitis).
+
+- Tendon problems can happen in people of all ages who take AVELOX.
+  Tendons are tough cords of tissue that connect muscles to bones.
+  Symptoms of tendon problems may include:
+  - Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+- The risk of getting tendon problems while you take Avelox is higher if you:
   - Are over 60 years of age
   - Are taking steroids (corticosteroids)
   - Have had a kidney, heart or lung transplant
-- Swelling of the tendon (tendinitis) and tendon rupture (breakage) have also happened in patients who take fluoroquinolones who do not have the above risk factors.
-- Other reasons for tendon ruptures can include:
+
+Tendon problems can happen in people who do not have the above risk factors when they take Avelox.
+
+- Other reasons that can increase your risk of tendon problems can include:
   - Physical activity or exercise
   - Kidney failure
   - Tendon problems in the past, such as in people with rheumatoid arthritis (RA)
@@ -33,7 +39,7 @@ Talk with your healthcare provider about whether you should continue to take AVE
   Avoid exercise and using the affected area.
   The most common area of pain and swelling is in the Achilles tendon at the back of your ankle.
   This can also happen with other tendons.
-  Talk to your healthcare provider about the risk of tendon rupture with continued use of AVELOX.
+- Talk to your healthcare provider about the risk of tendon rupture with continued use of AVELOX.
   You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
 - Tendon rupture can happen while you are taking or after you have finished taking AVELOX.
   Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone.
@@ -41,9 +47,11 @@ Talk with your healthcare provider about whether you should continue to take AVE
   - Hear or feel a snap or pop in a tendon area
   - Bruising right after an injury in a tendon area
   - Unable to move the affected area or bear weight
-- Worsening of myasthenia gravis (a disease which causes muscle weakness).
-  Fluoroquinolones like AVELOX may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
-  Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
+
+2.
+Worsening of myasthenia gravis (a disease which causes muscle weakness).
+Fluoroquinolones like AVELOX may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
 See the section “What are the possible side effects of AVELOX?” for more information about side effects.
 
@@ -263,7 +271,7 @@ What are the ingredients in AVELOX?
   - Active ingredient: moxifloxacin hydrochloride
   - Inactive ingredients: sodium chloride, USP, water for injection, USP, and may include hydrochloric acid and/or sodium hydroxide for pH adjustment
 
-Revised February 2011
+Revised August 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -280,7 +288,5 @@ Whitehouse Station, NJ 08889, USA
 AVELOX is a registered trademark of Bayer Aktiengesellschaft and is used under license by Schering Corporation.
 
 Rx Only
-
-81532312, R.5 02/11 15830
 
 ©2011 Bayer HealthCare Pharmaceuticals Inc. Printed in U.S.A.
