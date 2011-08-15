@@ -8,16 +8,13 @@ Risperidone tablets are indicated for the acute and maintenance treatment of sch
 
 Adolescents
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with schizophrenia.Pediatric use information for the treatment of pediatric patients with schizophrenia, 13 to 17 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.
+Risperidone tablets are indicated for the treatment of schizophrenia in adolescents aged 13-17 years [see Clinical Studies (14.1)].
 
 ## 1.2 Bipolar Mania
 
 Monotherapy - Adults and Pediatrics
 
-Risperidone tablets are indicated for the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder in adults [see Clinical Studies (14.2)].
-
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with bipolar mania.
-Pediatric use information for the treatment of pediatric patients with bipolar mania, 10 to 17 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.
+Risperidone tablets are indicated for the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder in adults and in children and adolescents aged 10-17 years [see Clinical Studies (14.2)].
 
 Combination Therapy – Adults
 

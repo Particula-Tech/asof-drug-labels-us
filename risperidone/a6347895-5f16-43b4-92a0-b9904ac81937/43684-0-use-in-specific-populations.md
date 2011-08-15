@@ -20,7 +20,12 @@ Placental transfer of risperidone occurs in rat pups.
 There are no adequate and well-controlled studies in pregnant women.
 However, there was one report of a case of agenesis of the corpus callosum in an infant exposed to risperidone in utero.
 The causal relationship to risperidone therapy is unknown.
-Reversible extrapyramidal symptoms in the neonate were observed following postmarketing use of risperidone during the last trimester of pregnancy.
+
+Non-Teratogenic Effects
+
+Neonates exposed to antipsychotic drugs (including risperidone) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in these neonates.
+These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
 
 Risperidone should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -36,12 +41,14 @@ Therefore, women receiving risperidone should not breast-feed.
 
 ## 8.4 Pediatric Use
 
+The efficacy and safety of risperidone in the treatment of schizophrenia were demonstrated in 417 adolescents, aged 13 - 17 years, in two short-term (6 and 8 weeks, respectively) double-blind controlled trials [see Indications and Usage (1.1), Adverse Reactions (6.1), and Clinical Studies (14.1)].
+Additional safety and efficacy information was also assessed in one long-term (6-month) open-label extension study in 284 of these adolescent patients with schizophrenia.
+
 Safety and effectiveness of risperidone in children less than 13 years of age with schizophrenia have not been established.
 
-Safety and effectiveness of risperidone in children less than 10 years of age with bipolar disorder have not been established.
+The efficacy and safety of risperidone in the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder in 169 children and adolescent patients, aged 10 - 17 years, were demonstrated in one double-blind, placebo-controlled, 3-week trial [see Indications and Usage (1.2), Adverse Reactions (6.2), and Clinical Studies (14.2)]
 
-Due to Janssen Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with schizophrenia or bipolar mania.
-Information on clinical trials and risperidone use for pediatric patients with schizophrenia, 13 to 17 years of age, and bipolar mania, 10 to 17 years of age, is approved for Janssen Pharmaceuticals Corporation's risperidone drug products.
+Safety and effectiveness of risperidone in children less than 10 years of age with bipolar disorder have not been established.
 
 The efficacy and safety of risperidone in the treatment of irritability associated with autistic disorder were established in two 8-week, double-blind, placebo-controlled trials in 156 children and adolescent patients, aged 5 to 16 years [see Indications and Usage (1.3), Adverse Reactions (6.3) and Clinical Studies (14.4)].
 Additional safety information was also assessed in a long-term study in patients with autistic disorder, or in short- and long-term studies in more than 1200 pediatric patients with psychiatric disorders other than autistic disorder, schizophrenia, or bipolar mania who were of similar age and weight, and who received similar dosages of risperidone as patients treated for irritability associated with autistic disorder.

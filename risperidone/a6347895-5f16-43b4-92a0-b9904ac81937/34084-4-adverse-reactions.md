@@ -161,7 +161,7 @@ Adult Patients with Bipolar Mania
 Table 3 lists the adverse reactions reported in 1% or more of risperidone-treated adult patients with bipolar mania in four 3-week, double-blind, placebo-controlled monotherapy trials.
 
 Table 3.
-Adverse Reactions in ≥1% Risperidone-Treated Adult Patients with Bipolar Mania in Double-Blind, Placebo-Controlled Monotherapy Trials.
+Adverse Reactions in ≥1% Risperidone-Treated Adult Patients with Bipolar Mania in Double-Blind, Placebo-Controlled Monotherapy Trials
 
 | Adverse Reaction | (N=448) |  |
 | --- | --- | --- |
@@ -187,7 +187,7 @@ Adverse Reactions in ≥1% Risperidone-Treated Adult Patients with Bipolar Mania
 | Investigations |  |  |
 | Aspartate aminotransferase increased | 1 | <1 |
 | Nervous System Disorders |  |  |
-| ParkinsonismParkinsonism includes extrapyramidal disorder, parkinsonism, musculoskeletal stiffness, hypokinesia, muscle rigidity, muscle tightness, bradykinesia, cogwheel rigidity. Akathisia includes akathisia and restlessness. Tremor includes tremor and parkinsonian rest tumor. Dystonia includes dystonia, muscle spasms, oculogyration, torticollis. Dyskinesia includes muscle twitching and dyskinesia. | 25 | 9 |
+| ParkinsonismParkinsonism includes extrapyramidal disorder, parkinsonism, musculoskeletal stiffness, hypokinesia, muscle rigidity, muscle tightness, bradykinesia, cogwheel rigidity. Akathisia includes akathisia and restlessness. Tremor includes tremor and parkinsonian rest tremor. Dystonia includes dystonia, muscle spasms, oculogyration, torticollis. Dyskinesia includes muscle twitching and dyskinesia. | 25 | 9 |
 | Akathisia | 9 | 3 |
 | Tremor* | 6 | 3 |
 | Dizziness | 6 | 5 |
@@ -310,7 +310,7 @@ Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients Treated for
 | Infections and Infestations |  |  |
 | Nasopharyngitis | 21 | 10 |
 | Rhinitis | 13 | 10 |
-| Urinary respiratory tract infection | 8 | 3 |
+| Upper respiratory tract infection | 8 | 3 |
 | Investigations |  |  |
 | Weight increased | 5 | 0 |
 | Metabolism and Nutrition Disorders |  |  |
@@ -331,12 +331,14 @@ Adverse Reactions in ≥5% of Risperidone-Treated Pediatric Patients Treated for
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 11 | 8 |
 
-## 6.4 Other Adverse Reactions Observed During the Premarketing Evaluation of Risperidone.
+In another study with patients treated for irritability associated with autistic disorder, headache (6%), epistaxis (6%) and pyrexia (6%) were also observed in risperidone-treated pediatric subjects.
+
+## 6.4 Other Adverse Reactions Observed During the Clinical Trial Evaluation of Risperidone
 
 The following adverse reactions occurred in < 1% of the adult patients and in < 5% of the pediatric patients treated with risperidone in the above double-blind, placebo-controlled clinical trial data sets.
 In addition, the following also includes adverse reactions reported in risperidone-treated patients who participated in other studies, including double-blind, active-controlled and open-label studies in schizophrenia and bipolar mania studies in pediatric patients with psychiatric disorders other than schizophrenia, bipolar mania, or autistic disorder, and studies in elderly patients with dementia.
 
-Blood and Lymphatic System Disorders: granulocytopenia
+Blood and Lymphatic System Disorders: granulocytopenia, neutropenia
 
 Cardiac Disorders: sinus bradycardia, sinus tachycardia, atrioventricular block first degree, bundle branch block left, bundle branch block right, atrioventricular block
 
@@ -360,9 +362,9 @@ Metabolism and Nutrition Disorders: polydipsia, anorexia
 
 Musculoskeletal and Connective Tissue Disorders: joint swelling, musculoskeletal chest pain, posture abormal, myalgia, neck pain, muscular weakness, rhabdomyolysis
 
-Nervous System Disorders: balance disorder, disturbance in attention, dysarthria, unresponsive to stimuli, depressed level of consciousness, movement disorder, hypersomnia, transient ischemic attack, coordination abnormal, cerebrovascular accident, speech disorder, loss of consciousness, hypoesthesia, tardive dyskinesia, cerebral ischemia, cerebrovascular disorder, neuroleptic malignant syndrome, diabetic coma
+Nervous System Disorders: balance disorder, disturbance in attention, dysarthria, unresponsive to stimuli, depressed level of consciousness, movement disorder, hypersomnia, transient ischemic attack, coordination abnormal, cerebrovascular accident, speech disorder, loss of consciousness, hypoesthesia, tardive dyskinesia, cerebral ischemia, cerebrovascular disorder, neuroleptic malignant syndrome, diabetic coma, head titubation
 
-Psychiatric Disorders: agitation, blunted affect, confusional state, middle insomnia, sleep disorder, listless, libido decreased, anorgasmia
+Psychiatric Disorders: agitation, blunted affect, confusional state, middle insomnia, sleep disorder, listlessness, libido decreased, anorgasmia
 
 Renal and Urinary Disorders: enuresis, dysuria, pollakiuria
 
@@ -483,11 +485,11 @@ In pooled placebo-controlled acute mania trials in adults, there were small decr
 In the two placebo-controlled trials in children and adolescents with autistic disorder (aged 5 - 16 years) mean changes in heart rate were an increase of 8.4 beats per minute in the risperidone groups and 6.5 beats per minute in the placebo group.
 There were no other notable ECG changes.
 
-Due to Janssen Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with schizophrenia or bipolar mania.
-Information regarding changes in ECG during the treatment of pediatric patients with schizophrenia, 13 to 17 years of age, and the treatment of pediatric patients with bipolar mania, 10 to 17 years of age, is approved for Janssen Pharmaceuticals Corporation's risperidone drug products.
+In a placebo-controlled acute mania trial in children and adolescents (aged 10 - 17 years), there were no significant changes in ECG parameters, other than the effect of risperidone to transiently increase pulse rate (< 6 beats per minute).
+In two controlled schizophrenia trials in adolescents (aged 13 - 17 years), there were no clinically meaningful changes in ECG parameters including corrected QT intervals between treatment groups or within treatment groups over time.
 
 ## 6.9 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, diabetes mellitus, diabetic ketoacidosis in patients with impaired glucose metabolism, hypoglycemia, hypothermia, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, priapism, QT prolongation, sleep apnea syndrome, thrombocytopenia, urinary retention, and water intoxication.
+The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, blood cholesterol increased, blood triglycerides increased, diabetes mellitus, diabetic ketoacidosis in patients with impaired glucose metabolism, drug withdrawal syndrome neonatal, dysgeusia, hypoglycemia, hypothermia, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, priapism, QT prolongation, sleep apnea syndrome, thrombocytopenia, urinary retention, and water intoxication.
 
 Other adverse events reported since market introduction, which were temporally related to risperidone but not necessarily causally related, include the following: pituitary adenoma, pulmonary embolism, precocious puberty, cardiopulmonary arrest, and sudden death.

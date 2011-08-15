@@ -22,8 +22,15 @@ Patients should be periodically reassessed to determine the need for maintenance
 
 Adolescents
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with schizophrenia.
-Dosage and administration information for pediatric patients with schizophrenia, 13 to 17 years of age, is approved for Janssen Pharmaceuticals Corporation’s risperidone drug product.
+The dosage of risperidone tablets should be initiated at 0.5 mg once daily, administered as a single-daily dose in either the morning or evening.
+Dosage adjustments, if indicated, should occur at intervals not less than 24 hours, in increments of 0.5 or 1 mg/day, as tolerated, to a recommended dose of 3 mg/day.
+Although efficacy has been demonstrated in studies of adolescent patients with schizophrenia at doses between 1 and 6 mg/day, no additional benefit was seen above 3 mg/day, and higher doses were associated with more adverse events.
+Doses higher than 6 mg/day have not been studied.
+
+Patients experiencing persistent somnolence may benefit from administering half the daily dose twice daily.
+
+There are no controlled data to support the longer term use of risperidone tablets beyond 8 weeks in adolescents with schizophrenia.
+The physician who elects to use risperidone tablets for extended periods in adolescents with schizophrenia should periodically re-evaluate the long-term risks and benefits of the drug for the individual patient.
 
 Reinitiation of Treatment in Patients Previously Discontinued
 
@@ -50,8 +57,12 @@ Risperidone tablet doses higher than 6 mg per day were not studied.
 
 Pediatrics
 
-Due to Janssen Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled for use in pediatric patients with bipolar mania.
-Dosage and administration information for the treatment of pediatric patients with bipolar disorder is approved for Janssen Pharmaceuticals Corporation’s risperidone drug products.
+The dosage of risperidone tablets should be initiated at 0.5 mg once daily, administered as a single-daily dose in either the morning or evening.
+Dosage adjustments, if indicated, should occur at intervals not less than 24 hours, in increments of 0.5 or 1 mg/day, as tolerated, to a recommended dose of 2.5 mg/day.
+Although efficacy has been demonstrated in studies of pediatric patients with bipolar mania at doses between 0.5 and 6 mg/day, no additional benefit was seen above 2.5 mg/day, and higher doses were associated with more adverse events.
+Doses higher than 6 mg/day have not been studied.
+
+Patients experiencing persistent somnolence may benefit from administering half the daily dose twice daily.
 
 Maintenance Therapy
 
