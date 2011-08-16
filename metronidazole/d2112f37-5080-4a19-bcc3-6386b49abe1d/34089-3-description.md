@@ -1,9 +1,9 @@
 # DESCRIPTION
 
-Metronidazole Injection, USP RTU®, is a parenteral dosage form of the synthetic antibacterial agent 1-(ß-hydroxyethyl)-2-methyl-5-nitroimidazole.
+Metronidazole Injection, USP RTU, is a parenteral dosage form of the synthetic antibacterial agent 1-(ß-hydroxyethyl)-2-methyl-5-nitroimidazole.
 
-Metronidazole Injection, USP RTU®, in 100 mL VIAFLEX Plus single dose plastic container, is a sterile, nonpyrogenic, iso-osmotic, buffered solution of 500 mg Metronidazole, USP, 790 mg Sodium Chloride, USP, 47.6 mg Dibasic Sodium Phosphate Dried, USP and 22.9 mg Citric Acid Anhydrous, USP.
-Metronidazole Injection, USP RTU® has an osmolarity of 310 mOsmol/L (calc) and a pH of 5.5 (4.5 to 7.0).
+Metronidazole Injection, USP RTU, in 100 mL VIAFLEX Plus single dose plastic container, is a sterile, nonpyrogenic, iso-osmotic, buffered solution of 500 mg Metronidazole, USP, 790 mg Sodium Chloride, USP, 47.6 mg Dibasic Sodium Phosphate Dried, USP and 22.9 mg Citric Acid Anhydrous, USP.
+Metronidazole Injection, USP RTU has an osmolarity of 310 mOsmol/L (calc) and a pH of 5.5 (4.5 to 7.0).
 Each container contains 14 mEq of sodium.
 
 The plastic container is fabricated from a specially formulated polyvinyl chloride plastic.

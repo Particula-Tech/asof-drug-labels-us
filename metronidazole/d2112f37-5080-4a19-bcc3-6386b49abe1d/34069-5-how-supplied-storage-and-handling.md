@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Metronidazole Injection, USP RTU® is supplied in 100 mL single dose plastic containers, each containing an iso-osmotic, buffered solution of 500 mg metronidazole as follows:
+Metronidazole Injection, USP RTU is supplied in 100 mL single dose plastic containers, each containing an iso-osmotic, buffered solution of 500 mg metronidazole as follows:
 
 2B3421 NDC 0338-1055-48 500 mg/100 mL
 

@@ -1,11 +1,11 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Metronidazole Injection, USP RTU® and other antibacterial drugs, Metronidazole Injection, USP RTU® should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Metronidazole Injection, USP RTU and other antibacterial drugs, Metronidazole Injection, USP RTU should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
 # DIRECTIONS FOR USE OF VIAFLEX PLUS PLASTIC CONTAINER
 
-Metronidazole Injection, USP RTU® is a ready-to-use iso-osmotic solution.
+Metronidazole Injection, USP RTU is a ready-to-use iso-osmotic solution.
 No dilution or buffering is required.
 Do not refrigerate.
-Each container of Metronidazole Injection, USP RTU® contains 14 mEq of sodium.
+Each container of Metronidazole Injection, USP RTU contains 14 mEq of sodium.
 
 Warning: Do not use plastic containers in series connections.
 Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is completed.
@@ -22,13 +22,11 @@ Do not add supplementary medication.
 ## Preparation for Administration
 
 1. Suspend container from eyelet support.
-2. Remove plastic protector from outlet port at bottom of container.
+2. Remove protector from outlet port at bottom of container.
 3. Attach administration set.
    Refer to complete directions accompanying set.
 
-Baxter Healthcare Corporation
-
-Deerfield, IL 60015 USA
+Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Printed in USA
 
@@ -36,13 +34,13 @@ Printed in USA
 
 All rights reserved.
 
-BAXTER and VIAFLEX are trademarks of Baxter International Inc.
+Baxter and Viaflex are registered trademarks of Baxter International Inc. ATTC is a registered trademark of the American Type Culture Collection
 
-Metronidazole Injection, USP RTU® is manufactured under sublicense from SCS
+Metronidazole Injection, USP RTU is manufactured under sublicense from SCS
 
 Pharmaceuticals, Chicago, IL 60680
 
 by Baxter Healthcare Corporation, Deerfield, IL 60015
 
-07-19-59-414 Rev.
-June, 2009
+07-19-66-437 Rev.
+April, 2011

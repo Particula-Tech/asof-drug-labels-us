@@ -48,19 +48,50 @@ Peptococcus species
 
 Peptostreptococcus species
 
+Many nonspore-forming, gram-positive anaerobic rods are resistant to metronidazole1
+
 ## Susceptibility Tests:
 
 Bacteriologic studies should be performed to determine the causative organisms and their susceptibility to metronidazole; however, the rapid, routine susceptibility testing of individual isolates of anaerobic bacteria is not always practical, and therapy may be started while awaiting these results.
 
 Quantitative methods give the most accurate estimates of susceptibility to antibacterial drugs.
 A standardized agar dilution method and a broth microdilution method are recommended1.
+Interpretive criteria for determining the susceptibility of an organism to metronidazole are:
+
+| DilutionMIC values for agar or broth microdilution are considered equivalent. |  |
+| --- | --- |
+| MIC (mcg/mL) | Interpretation |
+| ≤ 8 | (S) Susceptible |
+| 16 | (I) Intermediate |
+| ≥ 32 | (R) Resistant |
+
+A bacterial isolate may be considered susceptible if the MIC value for metronidazole is not more than 8 mcg/mL.
+An organism with a metronidazole MIC of 16 mcg/mL is considered intermediate in susceptibility.
+An organism is considered resistant if the MIC is greater than 16 mcg/mL.
+The intermediate range was established because of the difficulty in reading endpoints and the clustering of MICs at or near breakpoint concentrations.
+Where data are available, the interpretive guidelines are based on pharmacokinetic data, population distributions of MICs, and studies of clinical efficacy.
+To achieve the best possible levels of a drug in abscesses and/or poorly perfused tissues, which are encountered commonly in these infections, maximum approved dosages of antimicrobial agents are recommended for therapy of anaerobic infections.
+When maximum dosages are used along with appropriate ancillary therapy, it is believed that organisms with susceptible endpoints are generally amenable to therapy, and those with intermediate endpoints may respond, but patient response should be carefully monitored.
+Ancillary therapy, such as drainage procedures and debridement, are of great importance for the proper management of anaerobic infections.
+A report of "resistant" from the laboratory indicates that the infecting organism is not likely to respond to therapy.
+Routine testing of metronidazole for management of C difficile-associated diarrhea is not recommended because correlation with clinical failures has not been established.1
 
 Control strains are recommended for standardized susceptibility testing.
-Each time the test is performed, one or more of the following strains should be included: Eubacterium lentum ATCC 43055, Bacteroides fragilis ATCC 25285, and Bacteroides thetaiotaomicron ATCC 29741.
-The mode metronidazole MICs for those three strains are reported to be 0.125, 0.25, and 0.5 mcg/mL, respectively.
+Each time the test is performed, one or more control strains should be included.
+A clinical laboratory test is considered under acceptable control if the results of the control strains are within the MIC ranges reported below.2
 
-A clinical laboratory test is considered under acceptable control if the results of the control strains are within one doubling dilution of the mode MICs reported for metronidazole.
+For reference agar dilution testing, metronidazole MIC ranges associated with control strains are:
 
-A bacterial isolate may be considered susceptible if the MIC value for metronidazole is not more than 16 mcg/mL.
-An organism is considered resistant if the MIC is greater than 16 mcg/mL.
-A report of "resistant" from the laboratory indicates that the infecting organism is not likely to respond to therapy.
+| Control Strain | ATCC® number ATTC is a registered trademark of the American Type Culture Collection | MIC range (mcg/mL) |
+| --- | --- | --- |
+| Bacteroides fragilis | 25285 | 0.25 - 1 |
+| Bacteroides thetaiotaomicron | 2974 | 0.5 - 2 |
+| Clostridium difficile | 700057 | 0.125 – 0.5 |
+
+For broth microdilution testing, metronidazole MIC ranges associated with control strains are:
+
+| Control Strain | ATCC® number ATTC is a registered trademark of the American Type Culture Collection | MIC range (mcg/mL) |
+| --- | --- | --- |
+| Bacteroides fragilis | 25285 | 0.25 - 2 |
+| Bacteroides thetaiotaomicron | 2974 | 0.5 - 4 |
+| Eubacterium lentum | 43055 | 0.125 – 0.5 |

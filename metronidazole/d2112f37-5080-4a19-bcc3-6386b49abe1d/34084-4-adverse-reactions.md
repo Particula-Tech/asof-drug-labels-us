@@ -3,7 +3,7 @@
 The most serious adverse reactions reported in patients treated with metronidazole injection have been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity.
 Since persistent peripheral neuropathy has been reported in some patients receiving prolonged oral administration of metronidazole, patients should be observed carefully if neurologic symptoms occur and a prompt evaluation made of the benefit/risk ratio of the continuation of therapy.
 
-The following reactions have also been reported during treatment with Metronidazole Injection, USP RTU®.
+The following reactions have also been reported during treatment with Metronidazole Injection, USP RTU.
 
 Gastrointestinal: Nausea, vomiting, abdominal discomfort, diarrhea and an unpleasant metallic taste.
 
@@ -47,4 +47,4 @@ Rare cases of pancreatitis, which abated on withdrawal of the drug, have been re
 Crohn's disease patients are known to have an increased incidence of gastrointestinal and certain extraintestinal cancers.
 There have been some reports in the medical literature of breast and colon cancer in Crohn's disease patients who have been treated with metronidazole at high doses for extended periods of time.
 A cause and effect relationship has not been established.
-Crohn's disease is not an approved indication for Metronidazole Injection, USP RTU®.
+Crohn's disease is not an approved indication for Metronidazole Injection, USP RTU.
