@@ -1,29 +1,20 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Signs and Symptoms
+In case of an overdose, patients should contact a physician, poison control centre (1-800-222-1222), or emergency room.
 
-The signs and symptoms of overdosage are headache; nausea; vomiting; blurred vision; dilated pupils; hot, dry skin; dizziness; dryness of the mouth; difficulty in swallowing; and CNS stimulation.
+The signs and symptoms of overdosage include: headache; nausea; vomiting; blurred vision; dilated pupils; hot, dry skin; dizziness; dryness of the mouth; difficulty in swallowing; and CNS stimulation including convulsion.
 A curare-like action may occur (i.e., neuromuscular blockade leading to muscular weakness and possible paralysis).
 
-A 37-year-old female reported numbness on the left side, cold fingertips, blurred vision, abdominal and flank pain, decreased appetite, dry mouth, and nervousness following ingestion of 320 mg daily (four 20 mg tablets QID) for four days.
+One reported event included a 37-year-old female who reported numbness on the left side, cold fingertips, blurred vision, abdominal and flank pain, decreased appetite, dry mouth, and nervousness following ingestion of 320 mg daily (four 20 mg tablets four times daily.)
 These events resolved after discontinuing the dicyclomine.
-
-Oral LD50
 
 The acute oral LD50 of the drug is 625 mg/kg in mice.
 
-Minimum Human Lethal Dose/Maximum Human Dose Recorded
-
 The amount of drug in a single dose that is ordinarily associated with symptoms of overdosage or that is likely to be life-threatening, has not been defined.
 The maximum human oral dose recorded was 600 mg by mouth in a 10-month-old child and approximately 1500 mg in an adult, each of whom survived.
-
-In three of the infants who died following administration of dicyclomine hydrochloride (see WARNINGS), the blood concentrations of drug were 200, 220, and 505 ng/mL, respectively.
-
-Dialysis
+In three of the infants who died following administration of dicyclomine hydrochloride [see Warnings and Precautions (5.1)], the blood concentrations of drug were 200, 220, and 505 ng/mL.
 
 It is not know if BENTYL is dialyzable.
-
-Treatment
 
 Treatment should consist of gastric lavage, emetics, and activated charcoal.
 Sedatives (e.g., short-acting barbiturates, benzodiazepines) may be used for management of overt signs of excitement.

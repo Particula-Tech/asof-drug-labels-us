@@ -1,12 +1,11 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-1. Obstructive uropathy
-2. Obstructive disease of the gastrointestinal tract
-3. Severe ulcerative colitis (See PRECAUTIONS)
-4. Reflux esophagitis
-5. Unstable cardiovascular status in acute hemorrhage
-6. Glaucoma
-7. Myasthenia gravis
-8. Evidence of prior hypersensitivity to dicyclomine hydrochloride or other ingredients of these formulations
-9. Infants less than 6 months of age (See WARNINGS and PRECAUTIONS: Information for Patients.)
-10. Nursing Mothers (See WARNINGS and PRECAUTIONS: Information for Patients.)
+BENTYL is contraindicated in infants less than 6 months of age [see Use in Specific Populations (8.4)], nursing mothers [see Use in Specific Populations (8.3)], and in patients with:
+
+- unstable cardiovascular status in acute hemorrhage
+- myasthenia gravis [see Warnings and Precautions (5.4)]
+- glaucoma [see Adverse Reactions (6.3) and Drug Interactions (7.1)]
+- obstructive uropathy [see Warnings and Precautions (5.8)]
+- obstructive disease of the gastrointestinal tract [see Warnings and Precautions (5.5)]
+- severe ulcerative colitis [see Warnings and Precautions (5.4)]
+- reflux esophagitis

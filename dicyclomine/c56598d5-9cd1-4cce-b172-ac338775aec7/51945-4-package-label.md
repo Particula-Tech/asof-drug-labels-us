@@ -1,11 +1,11 @@
 # Principal Display Panel
 
-Bentyl Capsules:
+BENTYL Capsules:
 
-Bentyl Injection, Ampule:
+BENTYL Injection, Ampule:
 
-Bentyl Injection, Box:
+BENTYL Injection, Box:
 
-Bentyl, Syrup:
+BENTYL, Syrup:
 
-Bentyl, Tablets:
+BENTYL, Tablets:

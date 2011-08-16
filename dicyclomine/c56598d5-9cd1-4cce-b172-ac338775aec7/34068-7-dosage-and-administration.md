@@ -1,25 +1,25 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-DOSAGE MUST BE ADJUSTED TO INDIVIDUAL PATIENT NEEDS (See CLINICAL PHARMACOLOGY.)
+Dosage must be adjusted to individual patients needs.
 
-Adults-Oral.
-The only oral dose clearly shown to be effective is 160 mg per day (in 4 equally divided doses).
-Since this dose is associated with a significant incidence of side effects, it is prudent to begin with 80 mg per day (in 4 equally divided doses).
-Depending upon the patient’s response during the first week of therapy, the dose should be increased to 160 mg per day unless side effects limit dosage escalation.
+## 2.1 Oral Dosage and Administration in Adults
 
+The recommended initial dose is 20 mg four times a day.
+After one week treatment with the initial dose, the dose may be increased to 40 mg four times a day unless side effects limit dosage escalation.
 If efficacy is not achieved within 2 weeks or side effects require doses below 80 mg per day, the drug should be discontinued.
 Documented safety data are not available for doses above 80 mg daily for periods longer than 2 weeks.
 
-Adults-Intramuscular Injection.
-NOT FOR INTRAVENOUS USE.
+## 2.2 Intramuscular Dosage and Administration in Adults
 
-The intramuscular dosage form is to be used temporarily when the patient cannot take oral medication.
-Intramuscular injection is about twice as bioavailable as oral dosage forms; consequently, the recommended intramuscular dose is 80 mg daily (in 4 equally divided doses).
-Oral dicyclomine hydrochloride should be started as soon as possible and the intramuscular form should not be used for periods longer than 1 or 2 days.
+BENTYL Intramuscular Injection must be administered via intramuscular route only.
+Do not administer by an other route.
+The recommended intramuscular dose is 10 mg to 20 mg four times a day.
+[see Clinical Pharmacology (12)] The intramuscular injection is to be used only for 1 or 2 days when the patient cannot take oral medication.
 
-ASPIRATE THE SYRINGE BEFORE INJECTING TO AVOID INTRAVASCULAR INJECTION, SINCE THROMBOSIS MAY OCCUR IF THE DRUG IS INADVERTENTLY INJECTED INTRAVASCULARLY.
+Intramuscular injection is about twice as bioavailable as oral dosage forms.
+
+## 2.3 Preparation for Intramuscular Administration
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-Elderly: In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-(See PRECAUTIONS:Geriatric Use.)
+Aspirate the syringe before injecting to avoid intravascular injection, since thrombosis may occur if the drug is inadvertently injected intravascularly.
