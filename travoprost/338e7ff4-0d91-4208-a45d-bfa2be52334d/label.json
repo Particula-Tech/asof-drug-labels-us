@@ -1,14 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021257"
+  ],
   "inn": "travoprost",
-  "labeler": "ALCON LABORATORIES, INC.",
+  "labeler": "Alcon Laboratories, Inc.",
   "package_ndcs": [
-    "0065-0266-08",
     "0065-0266-17",
     "0065-0266-25",
     "0065-0266-34"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "travoprost",
+      "name": "TRAVATAN"
+    }
+  ],
   "setid": "338e7ff4-0d91-4208-a45d-bfa2be52334d",
   "source": "dailymed"
 }

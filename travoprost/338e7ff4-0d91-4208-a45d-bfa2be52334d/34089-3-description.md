@@ -1,15 +1,13 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Travoprost is a synthetic prostaglandin F2α analogue.
-Its chemical name is isopropyl (Z)-7-[(1R,2R,3R,5S)-3,5-dihydroxy-2-[(1E,3R)-3-hydroxy-4-[(α,α,α - trifluoro-m-tolyl)oxy]-1-butenyl]cyclopentyl]-5-heptenoate.
-It has a molecular formula of C26H35F3O6 and a molecular weight of 500.56.
+Travoprost is a synthetic prostaglandin F analogue.
+Its chemical name is [1R-[1α(Z),2β(1E,3R*),3α,5α]]-7-[3,5-Dihydroxy-2-[3-hydroxy-4-[3-(trifluoromethyl) phenoxy]-1-butenyl]cyclopentyl]-5-heptenoic acid, 1-methylethylester.
+It has a molecular formula of C26H35F3O6 and a molecular weight of 500.55.
 The chemical structure of travoprost is:
 
 Travoprost is a clear, colorless to slightly yellow oil that is very soluble in acetonitrile, methanol, octanol, and chloroform.
 It is practically insoluble in water.
 
-TRAVATAN® Ophthalmic Solution 0.004% is supplied as sterile, buffered aqueous solution of travoprost with a pH of approximately 6.0 and an osmolality of approximately 290 mOsmol/kg.
+TRAVATAN® (travoprost ophthalmic solution) 0.004% is supplied as sterile, buffered aqueous solution of travoprost with a pH of approximately 6.0 and an osmolality of approximately 290 mOsmol/kg.
 
-Each mL of TRAVATAN® Ophthalmic Solution 0.004% contains 40 µg travoprost.
-Benzalkonium chloride 0.015% is added as a preservative.
-Inactive ingredients are: polyoxyl 40 hydrogenated castor oil, tromethamine, boric acid, mannitol, edetate disodium, sodium hydroxide and/or hydrochloric acid (to adjust pH) and purified water.
+TRAVATAN® contains Active: travoprost 0.04 mg/mL; Preservative: benzalkonium chloride 0.15 mg/mL; Inactives: polyoxyl 40 hydrogenated castor oil, tromethamine, boric acid, mannitol, edetate disodium, sodium hydroxide and/or hydrochloric acid (to adjust pH) and purified water.

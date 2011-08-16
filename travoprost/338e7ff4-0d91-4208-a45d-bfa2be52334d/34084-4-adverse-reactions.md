@@ -1,10 +1,13 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The most common ocular adverse event observed in controlled clinical studies with TRAVATAN® Ophthalmic Solution 0.004% was ocular hyperemia which was reported in 35 to 50% of patients.
-Approximately 3% of patients discontinued therapy due to conjunctival hyperemia.
+## 6.1 Clinical Studies Experience
 
-Ocular adverse events reported at an incidence of 5 to 10% included decreased visual acuity, eye discomfort, foreign body sensation, pain, and pruritus.
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-Ocular adverse events reported at an incidence of 1 to 4% included abnormal vision, blepharitis, blurred vision, cataract, cells, conjunctivitis, dry eye, eye disorder, flare, iris discoloration, keratitis, lid margin crusting, photophobia, subconjunctival hemorrhage, and tearing.
+The most common adverse reaction observed in controlled clinical studies with TRAVATAN® (travoprost ophthalmic solution) 0.004% and TRAVATAN Z® (travoprost ophthalmic solution) 0.004% was ocular hyperemia which was reported in 30 to 50% of patients.
+Up to 3% of patients discontinued therapy due to conjunctival hyperemia.
+Ocular adverse reactions reported at an incidence of 5 to 10% in these clinical studies included decreased visual acuity, eye discomfort, foreign body sensation, pain and pruritus.
 
-Nonocular adverse events reported at a rate of 1 to 5% were accidental injury, angina pectoris, anxiety, arthritis, back pain, bradycardia, bronchitis, chest pain, cold syndrome, depression, dyspepsia, gastrointestinal disorder, headache, hypercholesterolemia, hypertension, hypotension, infection, pain, prostate disorder, sinusitis, urinary incontinence, and urinary tract infection.
+Ocular adverse reactions reported at an incidence of 1 to 4% in clinical studies with TRAVATAN® or TRAVATAN Z® included abnormal vision, blepharitis, blurred vision, cataract, conjunctivitis, corneal staining, dry eye, iris discoloration, keratitis, lid margin crusting, ocular inflammation, photophobia, subconjunctival hemorrhage and tearing.
+
+Nonocular adverse reactions reported at an incidence of 1 to 5% in these clinical studies were allergy, angina pectoris, anxiety, arthritis, back pain, bradycardia, bronchitis, chest pain, cold/flu syndrome, depression, dyspepsia, gastrointestinal disorder, headache, hypercholesterolemia, hypertension, hypotension, infection, pain, prostate disorder, sinusitis, urinary incontinence and urinary tract infections.
