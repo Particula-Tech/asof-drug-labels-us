@@ -11,7 +11,7 @@ Storage of Opened Vials
 This product does not contain an antimicrobial agent, and care must be taken to minimize contamination of the sterile solution.
 If only a portion of the solution in a vial is used, store the remainder in a refrigerator and use for inhalation only within 96 hours.
 
-Nebulization— Face Mask, Mouth Piece, Tracheostomy
+Nebulization — Face Mask, Mouth Piece, Tracheostomy
 
 When nebulized into a face mask, mouth piece or tracheostomy, 1 to 10 mL of the 20% solution or 2 to 20 mL of the 10% solution may be given every 2 to 6 hours; the recommended dose for most patients is 3 to 5 mL of the 20% solution or 6 to 10 mL of the 10% solution 3 to 4 times a day.
 
@@ -106,7 +106,7 @@ Do not store unused mixtures.
 | IN VITRO COMPATIBILITY1 TESTS OF ACETYLCYSTEINE |  |  |  |
 | --- | --- | --- | --- |
 |  |  | RATIO TESTED6 |  |
-| PRODUCT AND/OR AGENT | COMPATIBILITYRATING | ACETYL-CYSTEINE | PRODUCT OR AGENT |
+| PRODUCT AND/OR AGENT | COMPATIBILITYRATING | ACETYL-CYSTEINE | PRODUCTOR AGENT |
 | ANESTHETIC, GAS |  |  |  |
 | Halothane | Compatible | 20% | Infinite |
 | Nitrous Oxide | Compatible | 20% | Infinite |
@@ -117,17 +117,17 @@ Do not store unused mixtures.
 | ANTIBACTERIALS (A parenteral form of each antibiotic was used) |  |  |  |
 | Bacitracin2.3 (mix and use at once) | Compatible | 10% | 5,000 U/mL |
 | Chloramonenicol Sodium Succinate | Compatible | 20% | 20 mg/mL |
-| Carbenicillin Disodium2 (mix and use at once) | Compatible | 10% | 125 mg/mL |
+| Carbenicillin Disodium2(mix and use at once) | Compatible | 10% | 125 mg/mL |
 | Gentamicin Sulfate2 | Compatible | 10% | 20 mg/mL |
-| Kanamycin Sulfate2 (mix and use at once) | Compatible | 10% | 167 mg/mL |
+| Kanamycin Sulfate2(mix and use at once) | Compatible | 10% | 167 mg/mL |
 |  | Compatible | 17% | 85 mg/mL |
 | Lincomycin HCl2 | Compatible | 10% | 150 mg/mL |
 | Neomycin Sulfate2 | Compatible | 10% | 100 mg/mL |
 | Novobiocin Sodium2 | Compatible | 10% | 25 mg/mL |
-| Penicillin G Potassium2 (mix and use at once) | CompatibleCompatible | 10%10% | 25,000 U/mL100,000 U/mL |
+| Penicillin G Potassium2(mix and use at once) | CompatibleCompatible | 10%10% | 25,000 U/mL100,000 U/mL |
 | Polymyxin B Sulfate2 | Compatible | 10% | 50,000 U/mL |
 | Cephalothin Sodium | Compatible | 10% | 110 mg/mL |
-| Colistimethate Sodium2 (mix and use at once) | Compatible | 10% | 37.5 mg/mL |
+| Colistimethate Sodium2(mix and use at once) | Compatible | 10% | 37.5 mg/mL |
 | Vancomycin HCl2 | Compatible | 10% | 25 mg/mL |
 | Amphotercin B | Incompatible | 4%-15% | 1-4 mg/mL |
 | Chlortetracycline HCl2 | Incompatible | 10% | 12.5 mg/mL |
@@ -159,19 +159,10 @@ Do not store unused mixtures.
 | OTHER AGENTS |  |  |  |
 | Hydrogen Peroxide | Incompatible | (All ratios) |  |
 | Sodium Bicarbonate | Compatible | 20% (1 part) | 4.2% (1 part) |
+| The rating, Incompatible, is based on the formation of a precipitate, a change in clarity, immiscibility or a rapid loss of potency of acetylcysteine or the active ingredient of the PRODUCT AND/OR AGENT in the admixture.The rating, Compatible, means that there was no significant physical change in the admixture when compared with a control solution of the PRODUCT AND/OR AGENT, and that there was no predicted chemical incompatibility. All of the admixtures have been tested for short-term chemical compatibility by assaying for the concentration of acetylcysteine after mixing.The active ingredient in the PRODUCT AND/OR AGENT was also assayed after mixing. Some of the admixtures developed minor physical changes which were considered to be insufficient to rate the admixtures incompatible. These are listed in footnotes 3, 4, and 5.A strong odor developed after storage for 24 hours at room temperature.The admixture was a slightly darker shade of yellow than a control solution of the PRODUCT AND/OR AGENT.A light tan color developed after storage for 24 hours at room temperature.Entries are final concentrations. Values in parentheses relate volumes of acetylcysteine solutions to volume of test solutions. |  |  |  |
 
-1. The rating, Incompatible, is based on the formation of a precipitate, a change in clarity, immiscibility or a rapid loss of potency of acetylcysteine or the active ingredient of the PRODUCT AND/OR AGENT in the admixture.The rating, Compatible, means that there was no significant physical change in the admixture when compared with a control solution of the PRODUCT AND/OR AGENT, and that there was no predicted chemical incompatibility.
-   All of the admixtures have been tested for short-term chemical compatibility by assaying for the concentration of acetylcysteine after mixing.
-2. The active ingredient in the PRODUCT AND/OR AGENT was also assayed after mixing.
-   Some of the admixtures developed minor physical changes which were considered to be insufficient to rate the admixtures incompatible.
-   These are listed in footnotes 3, 4, and 5.
-3. A strong odor developed after storage for 24 hours at room temperature.
-4. The admixture was a slightly darker shade of yellow than a control solution of the PRODUCT AND/OR AGENT.
-5. A light tan color developed after storage for 24 hours at room temperature.
-6. Entries are final concentrations.
-   Values in parentheses relate volumes of acetylcysteine solutions to volume of test solutions.
-
-Acetylcysteine As An Antidote For Acetaminophen Overdose
+| Acetylcysteine As An Antidote For Acetaminophen Overdose |
+| --- |
 
 # DOSAGE AND ADMINISTRATION
 
@@ -195,14 +186,14 @@ The following procedures are recommended:
    Predetoxification plasma acetaminophen level is clearly in the toxic range (See Acetaminophen Assays - Interpretation and Methodology below):Administer a first maintenance dose (70 mg/kg acetylcysteine) 4 hours after the loading dose.
    The maintenence dose is then repeated at 4-hour intervals for a total of 17 doses.
    Monitor hepatic and renal function and electrolytes throughout the detoxification process.B.
-   Predetoxification acetaminophen level could not be obtained: Proceed as in A.C.
-   Predetoxification acetaminophen level is clearly in the nontoxic range (beneath the dashed line on the nomogram) and you know that acetaminophen overdose occured at least 4 hours before the predetoxification acetaminophen plasma assays: Discontinue administration of acetylcysteine.D.
+   Predetoxification acetaminophen level could not be obtained:Proceed as in A.C.
+   Predetoxification acetaminophen level is clearly in the nontoxic range (beneath the dashed line on the nomogram) and you know that acetaminophen overdose occured at least 4 hours before the predetoxification acetaminophen plasma assays:Discontinue administration of acetylcysteine.D.
    Predetoxification acetaminophen level was in the non-toxic range, but time of ingestion was unknown or less than 4 hours.Because the level of acetaminophen at the time of the predetoxification assay may not be a peak value (peak may not be achieved before 4 hours post-ingestion), obtain a second plasma level in order to decide whether or not the full 17-dose detoxification treatment is necessary.
 6. If the patient vomits any oral dose within 1 hour of administration, repeat that dose.
 7. In the occasional instances where the patient is persistently unable to retain the orally administered acetylcysteine, the antidote may be administered by duodenal intubation.
 8. Repeat SGOT, SGPT, bilirubin, prothrombin time, creatinine, BUN, blood sugar and electrolytes daily if the acetaminophen plasma level is in the potentially toxic range as discussed below.
 
-Preparation of Acetylcysteine For Oral Administration —Oral administration requires dilution of the 20% solution with diet cola, or other diet soft drinks, to a final concentration of 5% (see Dosage Guide and Preparation table).
+Preparation of Acetylcysteine For Oral Administration — Oral administration requires dilution of the 20% solution with diet cola, or other diet soft drinks, to a final concentration of 5% (see Dosage Guide and Preparation table).
 If administered via gastric tube or Miller-Abbott tube, water may be used as the diluent.
 The dilutions should be freshly prepared and utilized within one hour.
 Remaining undiluted solutions in opened vials can be stored in the refrigerator up to 96 hours.
@@ -233,14 +224,25 @@ Selected techniques (non-inclusive)
 
 HPLC:
 
-1. Blair, D and Rumack, BH, Clin Chem.
-   1977; 23(4):743−745.
-2. Howie, D, Andriaenssens, Pl, Prescott, LF.
-   J Pharm Pharmacol 1977; 29(4):235−237.GLC:
-3. Prescott, LF.
-   J Pharm Pharmacol 1971; 23(10);807−808.Colorimetric:
-4. Glynn, JP and Kendal, SE.
-   Lancet 1975; 1(May 17):1147-1148.
+1.
+Blair, D and Rumack, BH, Clin Chem.
+1977; 23(4):743−745.
+
+2.
+Howie, D, Andriaenssens, Pl, Prescott, LF.
+J Pharm Pharmacol 1977; 29(4):235−237.
+
+GLC:
+
+3.
+Prescott, LF.
+J Pharm Pharmacol 1971; 23(10);807−808.
+
+Colorimetric:
+
+4.
+Glynn, JP and Kendal, SE.
+Lancet 1975; 1(May 17):1147-1148.
 
 SUPPORTIVE TREATMENT OF ACETAMINOPHEN OVERDOSE
 
@@ -249,9 +251,10 @@ SUPPORTIVE TREATMENT OF ACETAMINOPHEN OVERDOSE
 3. Administer vitamin K1 if prothrombin time ratio exceeds 1.5 or fresh frozen plasma if the prothrombin time ratio exceeds 3.0.
 4. Diuretics and forced diuresis should be avoided (See table on preceding page).
 
-| DOSAGE GUIDE AND PREPARATION |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
+DOSAGE GUIDE AND PREPARATION
+
 | Doses in relation to body weight are: |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
 |  |  | Loading Dose of Acetylcysteine** |  |  |  |
 |  |  | Grams | mL of 20% | mL of | Total mL of |
 | Body Weight |  | Acetylcysteine | Acetylcysteine | Diluent | 5% Solution |
@@ -276,13 +279,7 @@ SUPPORTIVE TREATMENT OF ACETAMINOPHEN OVERDOSE
 | 40 − 49 | 88 −108 | 3.5 | 18 | 52 | 70 |
 | 30 − 39 | 66 − 86 | 3 | 15 | 45 | 60 |
 | 20 − 29 | 44 − 64 | 2 | 10 | 30 | 40 |
-
-**If patient weighs less than 20 kg (usually patients younger than 6 years), calculate the doses of Acetylcysteine Solution.
-Each mL of 20% Acetylcysteine Solution, contains 200 mg of acetylcysteine.
-The loading dose is 140 mg per kilogram of body weight.
-The maintenance dose is 70 mg/kg.
-Three (3) mL of diluent are added to each mL of 20% Acetylcysteine Solution.
-Do not decrease the proportion of diluent.
+| **If patient weighs less than 20 kg (usually patients younger than 6 years), calculate the doses of Acetylcysteine Solution. Each mL of 20% Acetylcysteine Solution, contains 200 mg of acetylcysteine. The loading dose is 140 mg per kilogram of body weight. The maintenance dose is 70 mg/kg. Three (3) mL of diluent are added to each mL of 20% Acetylcysteine Solution. Do not decrease the proportion of diluent. |  |  |  |  |  |
 
 Estimating Potential for Hepatotoxicity:
 

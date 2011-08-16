@@ -17,4 +17,5 @@ Each mL of the 20% solution contains acetylcysteine 200 mg; edetate disodium, di
 The solutions also contain sodium hydroxide and may contain hydrochloric acid for pH adjustment, pH 7.0 (6.0 to 7.5).
 Acetylcysteine Solution, USP is oxygen sensitive.
 
-Acetylcysteine As A Mucolytic Agent
+| Acetylcysteine As A Mucolytic Agent |
+| --- |

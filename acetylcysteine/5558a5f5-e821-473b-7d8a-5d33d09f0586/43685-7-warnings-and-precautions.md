@@ -9,7 +9,7 @@ If bronchospasm progresses, this medication should be discontinued immediately.
 
 # PRECAUTIONS
 
-## General
+General
 
 With the administration of acetylcysteine, the patient may initially notice a slight disagreeable odor that is soon noticeable.
 With a face mask there may be a stickiness on the face after nebulization.
@@ -47,9 +47,7 @@ Females after mating were continued on treatment for the next 42 days.
 Reproductive toxicity studies of acetylcysteine in the rat given oral doses of acetylcysteine up to 1,000 mg/kg (5.2 times the human mucolytic dose) have also been reported in the literature1.
 The only adverse effect observed was a slight non-dose-related reduction in fertility at dose levels of 500 or 1,000 mg/kg/day (2.6 or 5.2 times the human dose) in the Segment 1 study.
 
-## Pregnancy:
-
-Teratogenic Effects: Pregnancy Category B
+Pregnancy: Teratogenic Effects: Pregnancy Category B
 
 In a teratology study of acetylcysteine in the rabbit, oral doses of 500 mg/kg/day (2.6 times the human mucolytic dose) were administered to pregnant does by intubation on days 6 through 16 of gestation.
 Acetylcysteine was found to be nonteratogenic under the conditions of study.
@@ -63,12 +61,12 @@ No teratogenic effects were observed among the offspring.
 
 In the pregnant rat (30 rats per group), twice-daily exposure to an aerosol of acetylcysteine and isoproterenol for 30 or 35 minutes from the 15th day of gestation through the 21st day postpartum was without adverse effect on dams or newborns.
 
-Reproduction studies of acetylcysteinewith isoproterenol have been performed in rats and of acetylcysteine alone in rabbits at doses up to 2.6 times the human dose.
+Reproduction studies of acetylcysteine with isoproterenol have been performed in rats and of acetylcysteine alone in rabbits at doses up to 2.6 times the human dose.
 These have revealed no evidence of impaired fertility or harm to the fetus due to acetylcysteine.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies may not always be predictive of human responses, this drug should be used during pregnancy only if clearly needed.
 
-## Nursing Mothers
+Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when acetylcysteine is administered to a nursing woman.

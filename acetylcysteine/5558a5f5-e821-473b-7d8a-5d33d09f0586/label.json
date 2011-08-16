@@ -1,12 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA073664",
+    "ANDA074037"
+  ],
   "inn": "acetylcysteine",
-  "labeler": "HOSPIRA, INC.",
+  "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-3307-03",
     "0409-3308-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "acetylcysteine",
+      "name": "Acetylcysteine"
+    }
+  ],
   "setid": "5558a5f5-e821-473b-7d8a-5d33d09f0586",
   "source": "dailymed"
 }
