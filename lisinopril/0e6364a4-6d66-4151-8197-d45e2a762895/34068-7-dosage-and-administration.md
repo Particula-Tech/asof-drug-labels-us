@@ -31,7 +31,7 @@ The dosage may be titrated upward until blood pressure is controlled or to a max
 | Normal Renal Function to Mild Impairment | >30 | 10 |
 | Moderate to Severe Impairment | ≥10 ≤30 | 5 |
 | Dialysis Patients* | <10 | 2.5** |
-| * See WARNINGS, Anaphylactoid Reactions During Membrane Exposure. **Dosage or dosing interval should be adjusted depending on the blood pressure response. |  |  |
+| * See WARNINGS, Anaphylactoid Reactions During Membrane Exposure. ** Dosage or dosing interval should be adjusted depending on the blood pressure response. |  |  |
 
 ## Heart Failure
 
@@ -71,11 +71,14 @@ Pharmacokinetic studies, however indicate that maximum blood levels and area und
 The usual recommended starting dose is 0.07 mg/kg once daily (up to 5 mg total).
 Dosage should be adjusted according to blood pressure response.
 Doses above 0.61 mg/kg (or in excess of 40 mg) have not been studied in pediatric patients (see CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism and Pharmacodynamics and Clinical Effects ).
-Lisinopril is not recommended in pediatric patients < 6 years or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73m 2 (see CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism and Pharmacodynamics and Clinical Effects and PRECAUTIONS ).
+Lisinopril is not recommended in pediatric patients < 6 years or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73 m 2 (see CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism and Pharmacodynamics and Clinical Effects and PRECAUTIONS ).
 
 ## Preparation of Suspension (for 200 mL of a 1 mg/mL suspension)
 
 Add 10 mL of Purified Water USP to a polyethylene terephthalate (PET) bottle containing ten 20 mg tablets of lisinopril and shake for at least one minute.
-Add 30 mL of Bicitra ®† diluent and 160 mL of Ora-Sweet SF ™†† to the concentrate in the PET bottle and gently shake for several seconds to disperse the ingredients.
+Add 30 mL of Bicitra ®3 diluent and 160 mL of Ora-Sweet SF ™4 to the concentrate in the PET bottle and gently shake for several seconds to disperse the ingredients.
 The suspension should be stored at or below 25ºC (77ºF) and can be stored for up to four weeks.
-Shake the suspension before each use. † Registered trademark of Alza Corporation †† Trademark of Paddock Laboratories, Inc.
+Shake the suspension before each use.
+3.
+Registered trademark of Alza Corporation 4.
+Trademark of Paddock Laboratories, Inc.

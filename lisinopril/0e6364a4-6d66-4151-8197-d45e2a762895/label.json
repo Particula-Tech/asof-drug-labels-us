@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077622"
+  ],
   "inn": "lisinopril",
   "labeler": "Aurobindo Pharma Limited",
   "package_ndcs": [
@@ -17,15 +19,24 @@
     "65862-039-30",
     "65862-040-00",
     "65862-040-01",
+    "65862-040-05",
     "65862-040-30",
     "65862-041-00",
     "65862-041-01",
+    "65862-041-05",
     "65862-041-30",
     "65862-042-00",
     "65862-042-01",
+    "65862-042-05",
     "65862-042-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "lisinopril",
+      "name": "Lisinopril"
+    }
+  ],
   "setid": "0e6364a4-6d66-4151-8197-d45e2a762895",
   "source": "dailymed"
 }
