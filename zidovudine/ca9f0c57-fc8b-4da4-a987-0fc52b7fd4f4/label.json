@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090092"
+  ],
+  "inn": "zidovudine",
+  "labeler": "Camber Pharmaceuticals",
+  "package_ndcs": [
+    "31722-509-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "zidovudine",
+      "name": "Zidovudine"
+    }
+  ],
+  "setid": "ca9f0c57-fc8b-4da4-a987-0fc52b7fd4f4",
+  "source": "dailymed"
+}
