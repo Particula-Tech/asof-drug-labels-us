@@ -6,15 +6,11 @@ REMERONSolTab® (mirtazapine) Orally Disintegrating Tablets are supplied as:
 
 | Box of 30 | 5 × 6 Unit Dose Blisters | NDC 0052-0106-30 |
 | --- | --- | --- |
-| Long Term Care Carton |  |  |
-| Box of 30 | 5 × 6 Unit Dose Blisters | NDC 0052-0106-93 |
 
 30 mg Tablets — round, white, with "T2Z" debossed on 1 side.
 
 | Box of 30 | 5 × 6 Unit Dose Blisters | NDC 0052-0108-30 |
 | --- | --- | --- |
-| Long Term Care Carton |  |  |
-| Box of 30 | 5 × 6 Unit Dose Blisters | NDC 0052-0108-93 |
 
 45 mg Tablets — round, white, with "T4Z" debossed on 1 side.
 

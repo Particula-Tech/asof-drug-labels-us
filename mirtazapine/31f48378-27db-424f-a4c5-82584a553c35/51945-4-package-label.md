@@ -10,7 +10,9 @@ Rx only
 
 15 mg
 
-Organon Manufactured for Organon USA Inc., Roseland, NJ 07068 by CIMA Labs Inc., Eden Prairie, MN 55344
+Manufactured by: CIMA® LABS INC., Eden Prairie, MN 55344, USA Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+
+CIMA® is a registered trademark of CIMA LABS INC.
 
 # PRINCIPAL DISPLAY PANEL - 30 mg Carton
 
@@ -24,7 +26,9 @@ Rx only
 
 30 mg
 
-Organon Manufactured for Organon USA Inc., Roseland, NJ 07068 by CIMA Labs Inc., Eden Prairie, MN 55344
+Manufactured by: CIMA® LABS INC., Eden Prairie, MN 55344, USA Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+
+CIMA® is a registered trademark of CIMA LABS INC.
 
 # PRINCIPAL DISPLAY PANEL - 45 mg Carton
 
@@ -38,4 +42,6 @@ Rx only
 
 45 mg
 
-Organon Manufactured for Organon USA Inc., Roseland, NJ 07068 by CIMA Labs Inc., Eden Prairie, MN 55344
+Manufactured by: CIMA® LABS INC., Eden Prairie, MN 55344, USA Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+
+CIMA® is a registered trademark of CIMA LABS INC.

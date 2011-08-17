@@ -85,7 +85,7 @@ At the time that a medical decision is made to discontinue treatment with REMERO
 
 ### Akathisia/Psychomotor Restlessness
 
-The use of antidepressants has been associated with the development of akathisia, characterized by a subjectively unpleasant or distressing restlessness and need to move, often accompanied by an inability to sit or stand still.
+The use of antidepressants has been associated with the development of akathisia, characterized by a subjectively unpleasant or distressing restlessness and need to move often accompanied by an inability to sit or stand still.
 This is most likely to occur within the first few weeks of treatment.
 In patients who develop these symptoms, increasing the dose may be detrimental.
 

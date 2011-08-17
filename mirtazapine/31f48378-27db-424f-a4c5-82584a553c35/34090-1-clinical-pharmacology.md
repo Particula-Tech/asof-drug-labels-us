@@ -24,7 +24,7 @@ The presence of food in the stomach has a minimal effect on both the rate and ex
 REMERONSolTab Orally Disintegrating Tablets are bioequivalent to REMERON® (mirtazapine) Tablets.
 
 Mirtazapine is extensively metabolized after oral administration.
-Major pathways of bio-transformation are demethylation and hydroxylation followed by glucuronide conjugation.
+Major pathways of biotransformation are demethylation and hydroxylation followed by glucuronide conjugation.
 In vitro data from human liver microsomes indicate that cytochrome 2D6 and 1A2 are involved in the formation of the 8-hydroxy metabolite of mirtazapine, whereas cytochrome 3A is considered to be responsible for the formation of the N-desmethyl and N-oxide metabolite.
 Mirtazapine has an absolute bioavailability of about 50%.
 It is eliminated predominantly via urine (75%) with 15% in feces.
@@ -32,7 +32,7 @@ Several unconjugated metabolites possess pharmacological activity but are presen
 The (–) enantiomer has an elimination half-life that is approximately twice as long as the (+) enantiomer and therefore achieves plasma levels that are about 3 times as high as that of the (+) enantiomer.
 
 Plasma levels are linearly related to dose over a dose range of 15 to 80 mg.
-The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs 26 hours for males).
+The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs. 26 hours for males).
 Steady state plasma levels of mirtazapine are attained within 5 days, with about 50% accumulation (accumulation ratio = 1.5).
 
 Mirtazapine is approximately 85% bound to plasma proteins over a concentration range of 0.01 to 10 mcg/mL.
