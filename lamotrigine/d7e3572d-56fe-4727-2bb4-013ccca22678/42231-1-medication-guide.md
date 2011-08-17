@@ -9,7 +9,7 @@ There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 If you have questions about LAMICTAL, ask your healthcare provider or pharmacist.
 
-What is the most important information I should know about LAMICTAL
+What is the most important information I should know about LAMICTAL?
 
 1.
 LAMICTAL may cause a serious skin rash that may cause you to be hospitalized or to stop LAMICTAL; it may rarely cause death.
@@ -21,8 +21,7 @@ Children between 2 to 16 years of age have a higher chance of getting this serio
 
 The risk of getting a rash is higher if you:
 
-- take LAMICTAL while taking valproate [DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium)].
-- take a higher starting dose of LAMICTAL than your healthcare provider prescribed.
+- take LAMICTAL while taking valproate (DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium))take a higher starting dose of LAMICTAL than your healthcare provider prescribed.
 - increase your dose of LAMICTAL faster than prescribed.
 
 LAMICTAL can also cause other types of allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
@@ -259,27 +258,31 @@ Inactive ingredients: artificial cherry flavor, crospovidone, ethylcellulose, ma
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAMICTAL is a registered trademark of GlaxoSmithKline.
-
-DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
-
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
 LAMICTAL Tablets and Chewable Dispersible Tablets are manufactured by
 
-DSM Pharmaceuticals, Inc., Greenville, NC 27834 or
+DSM Pharmaceuticals, Inc.,
 
-GlaxoSmithKline, Research Triangle Park, NC 27709
+Greenville, NC 27834 or
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
 
 LAMICTAL Orally Disintegrating Tablets are manufactured by
 
 Eurand, Inc., Vandalia, OH 45377
 
-©2010, GlaxoSmithKline.
+LAMICTAL is a registered trademark of GlaxoSmithKline.
+
+DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
+
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-October 2010
+August 2011
 
-LMT:3MG
+LMT:4MG

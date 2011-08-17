@@ -52,31 +52,31 @@ No dosage adjustment is needed in patients with mild liver impairment.
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
 Escalation and maintenance doses may be adjusted according to clinical response.
 
-Patients With Renal Impairment: Initial doses of LAMICTAL should be based on patients' concomitant medications (see Tables 1-3 or Table 5); reduced maintenance doses may be effective for patients with significant renal impairment [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+Patients With Renal Impairment: Initial doses of LAMICTAL should be based on patients’concomitant medications (see Tables 1-3 or Table 5); reduced maintenance doses may be effective for patients with significant renal impairment [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 Few patients with severe renal impairment have been evaluated during chronic treatment with LAMICTAL.
 Because there is inadequate experience in this population, LAMICTAL should be used with caution in these patients.
 
 Discontinuation Strategy:Epilepsy: For patients receiving LAMICTAL in combination with other AEDs, a reevaluation of all AEDs in the regimen should be considered if a change in seizure control or an appearance or worsening of adverse reactions is observed.
 
-If a decision is made to discontinue therapy with LAMICTAL, a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) is recommended unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.10)].
+If a decision is made to discontinue therapy with LAMICTAL, a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) is recommended unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.9)].
 
 Discontinuing carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation should prolong the half-life of lamotrigine; discontinuing valproate should shorten the half-life of lamotrigine.
 
 Bipolar Disorder: In the controlled clinical trials, there was no increase in the incidence, type, or severity of adverse reactions following abrupt termination of LAMICTAL.
 In clinical trials in patients with Bipolar Disorder, 2 patients experienced seizures shortly after abrupt withdrawal of LAMICTAL.
 However, there were confounding factors that may have contributed to the occurrence of seizures in these bipolar patients.
-Discontinuation of LAMICTAL should involve a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.10)].
+Discontinuation of LAMICTAL should involve a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.9)].
 
 ## 2.2 Epilepsy – Adjunctive Therapy
 
-This section provides specific dosing recommendations for patients greater than 12 years of age and patients aged 2 to 12 years.
-Within each of these age-groups, specific dosing recommendations are provided depending upon concomitant AED or other concomitant medications (Table 1 for patients greater than 12 years of age and Table 2 for patients aged 2 to 12 years).
-A weight-based dosing guide for patients aged 2 to 12 years on concomitant valproate is provided in Table 3.
+This section provides specific dosing recommendations for patients greater than 12 years of age and patients 2 to 12 years of age.
+Within each of these age-groups, specific dosing recommendations are provided depending upon concomitant AED or other concomitant medications (Table 1 for patients greater than 12 years of age and Table 2 for patients 2 to 12 years of age).
+A weight-based dosing guide for patients 2 to 12 years of age on concomitant valproate is provided in Table 3.
 
-Patients Greater Than 12 Years of Age: Recommended dosing guidelines are summarized in Table 1.
+Patients Over 12 Years of Age: Recommended dosing guidelines are summarized in Table 1.
 
 Table 1.
-Escalation Regimen for LAMICTAL in Patients Greater Than 12 Years of Age With Epilepsy
+Escalation Regimen for LAMICTAL in Patients Over 12 Years of Age With Epilepsy
 
 |  | For Patients TAKING Valproatea | For Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone,b or Valproatea | For Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb and NOT TAKING Valproatea |
 | --- | --- | --- | --- |
@@ -92,7 +92,7 @@ Other drugs that have similar effects include estrogen-containing oral contracep
 Dosing recommendations for oral contraceptives can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
 Patients on rifampin, or other drugs that induce lamotrigine glucuronidation and increase clearance, should follow the same dosing titration/maintenance regimen as that used with anticonvulsants that have this effect.
 
-Patients Aged 2 to 12 Years: Recommended dosing guidelines are summarized in Table 2.
+Patients 2 to 12 Years of Age: Recommended dosing guidelines are summarized in Table 2.
 
 Smaller starting doses and slower dose escalations than those used in clinical trials are recommended because of the suggestion that the risk of rash may be decreased by smaller starting doses and slower dose escalations.
 Therefore, maintenance doses will take longer to reach in clinical practice than in clinical trials.
@@ -103,7 +103,7 @@ The smallest available strength of LAMICTAL Chewable Dispersible Tablets is 2 mg
 If the calculated dose cannot be achieved using whole tablets, the dose should be rounded down to the nearest whole tablet [see How Supplied/Storage and Handling (16) and Medication Guide].
 
 Table 2.
-Escalation Regimen for LAMICTAL in Patients Aged 2 to 12 Years With Epilepsy
+Escalation Regimen for LAMICTAL in Patients 2 to 12 Years of Age With Epilepsy
 
 |  | For Patients TAKING Valproatea | For Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone,b or Valproatea | For Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb and NOT TAKING Valproate a |
 | --- | --- | --- | --- |
@@ -123,7 +123,7 @@ Dosing recommendations for oral contraceptives can be found in General Dosing Co
 Patients on rifampin, or other drugs that induce lamotrigine glucuronidation and increase clearance, should follow the same dosing titration/maintenance regimen as that used with anticonvulsants that have this effect.
 
 Table 3.
-The Initial Weight-Based Dosing Guide for Patients Aged 2 to 12 Years Taking Valproate (Weeks 1 to 4) With Epilepsy
+The Initial Weight-Based Dosing Guide for Patients 2 to 12 Years of Age Taking Valproate (Weeks 1 to 4) With Epilepsy
 
 | If the patient’s weight is |  | Give this daily dose, using the most appropriate combination of LAMICTAL 2-mg and 5-mg tablets |  |
 | --- | --- | --- | --- |
