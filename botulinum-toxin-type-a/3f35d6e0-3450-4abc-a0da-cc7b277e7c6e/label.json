@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "BLA125360"
+  ],
+  "inn": "botulinum-toxin-type-a",
+  "labeler": "Merz Aesthetics. Inc",
+  "package_ndcs": [
+    "46783-160-01",
+    "46783-161-01",
+    "46783-165-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "botulinum toxin type a",
+      "name": "Xeomin"
+    }
+  ],
+  "setid": "3f35d6e0-3450-4abc-a0da-cc7b277e7c6e",
+  "source": "dailymed"
+}
