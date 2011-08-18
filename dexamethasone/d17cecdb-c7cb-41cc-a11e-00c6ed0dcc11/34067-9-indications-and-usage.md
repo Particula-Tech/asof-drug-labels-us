@@ -7,8 +7,6 @@ They are also indicated in chronic anterior uveitis and corneal injury from chem
 
 The use of a combination drug with an anti-infective component is indicated where the risk of infection is high or where there is an expectation that potentially dangerous numbers of bacteria will be present in the eye.
 
-The particular anti-infective drug in this product is active against the following common bacterial eye pathogens:
-
-Staphylococcus aureus, Escherichia coli, Haemophilus influenzae, Klebsiella/Enterobacter species, Neisseria species, and Pseudomonas aeruginosa.
+The particular anti-infective drug in this product is active against the following common bacterial eye pathogens: Staphylococcus aureus, Escherichia coli, Haemophilus influenzae, Klebsiella/Enterobacter species, Neisseria species, and Pseudomonas aeruginosa.
 
 This product does not provide adequate coverage against: Serratia marcescens and Streptococci, including Streptococcus pneumoniae.
