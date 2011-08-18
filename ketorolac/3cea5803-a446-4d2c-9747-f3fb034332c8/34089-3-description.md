@@ -14,4 +14,4 @@ This white to off-white crystalline substance discolors on prolonged exposure to
 The osmolality of ACUVAIL® solution is approximately 285 mOsml/kg.
 
 Contains: Active: ketorolac tromethamine 0.45%.
-Inactives: Carboxymethylcellulose; sodium chloride; sodium citrate dihydrate; and purified water with sodium hydroxide and/or hydrochloric acid to adjust pH.
+Inactives: carboxymethylcellulose sodium; sodium chloride; sodium citrate dihydrate; and purified water with sodium hydroxide and/or hydrochloric acid to adjust pH.

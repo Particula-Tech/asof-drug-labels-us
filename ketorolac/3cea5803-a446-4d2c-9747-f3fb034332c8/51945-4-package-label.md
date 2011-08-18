@@ -1,6 +1,6 @@
-Principal Display Panel
+ACUVAIL®
 
-Ketorolac tromethamine ophthalmic solution 0.45%
+(ketorolac tromethamine ophthalmic solution) 0.45%
 
 Allergan, Inc.
 
@@ -14,20 +14,18 @@ Preservative-Free
 
 Sterile
 
-Ketorolac tromethamine ophthalmic solution 0.45%
+ACUVAIL®
+
+(ketorolac tromethamine ophthalmic solution) 0.45%
 
 FOR SINGLE-USE ONLY
 
 Store the vials in the pouch, protected from light.
 Fold pouch ends closed.
 
-Rx only
+Rx only ALLERGAN
 
-ALLERGAN
-
-ALLERGAN
-
-NDC 0023-3507-30
+ALLERGAN NDC 0023-3507-30
 
 ACUVAIL®
 
@@ -39,6 +37,6 @@ FOR SINGLE-USE ONLY
 
 Rx only
 
-Sterile
+sterile
 
 30 Single-Use Vials 0.4 mL Each

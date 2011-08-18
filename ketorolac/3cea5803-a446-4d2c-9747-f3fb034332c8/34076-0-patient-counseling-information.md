@@ -28,4 +28,6 @@ If more than one topical ophthalmic medication is being used, the medicines shou
 
 Rx Only
 
-© 2009 Allergan, Inc., Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. U.S. Patent Pending 72220US11A
+© 2011 Allergan, Inc., Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. U.S. Patent 7,842,714 Made in the U.S.A.
+
+72220US12C
