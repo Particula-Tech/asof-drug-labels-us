@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA089987"
+  ],
+  "inn": "butalbital",
+  "labeler": "Qualitest Pharmaceuticals",
+  "package_ndcs": [
+    "0603-2540-21"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "butalbital and acetaminophen",
+      "name": "butalbital and acetaminophen"
+    }
+  ],
+  "setid": "e619b656-4123-4878-b601-b0edad3c428b",
+  "source": "dailymed"
+}
