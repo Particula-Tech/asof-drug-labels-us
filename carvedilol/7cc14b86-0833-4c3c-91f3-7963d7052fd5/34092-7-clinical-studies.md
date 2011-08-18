@@ -30,3 +30,10 @@ In general, as is true for other β-blockers, responses were smaller in black th
 There were no age- or gender-related differences in response.
 The peak antihypertensive effect occurred 1 to 2 hours after a dose.
 The dose-related blood pressure response was accompanied by a dose-related increase in adverse effects [see Adverse Reactions (6)] .
+
+## 14.4 Hypertension With Type 2 Diabetes Mellitus
+
+In a double-blind study (GEMINI), carvedilol, added to an ACE inhibitor or angiotensin receptor blocker, was evaluated in a population with mild-to-moderate hypertension and well-controlled type 2 diabetes mellitus.
+The mean HbA1c at baseline was 7.2%.
+Carvedilol was titrated to a mean dose of 17.5 mg twice daily and maintained for 5 months.
+Carvedilol had no adverse effect on glycemic control, based on HbA1c measurements (mean change from baseline of 0.02%, 95% CI -0.06 to 0.1, p = NS) [see Warnings and Precautions (5.6)].

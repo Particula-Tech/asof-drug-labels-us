@@ -2,13 +2,13 @@
 
 ## 5.1 Cessation of Therapy
 
-Patients with coronary artery disease, who are being treated with CARVEDILOL, should be advised against abrupt discontinuation of therapy.
+Patients with coronary artery disease, who are being treated with carvedilol, should be advised against abrupt discontinuation of therapy.
 Severe exacerbation of angina and the occurrence of myocardial infarction and ventricular arrhythmias have been reported in angina patients following the abrupt discontinuation of therapy with β-blockers.
 The last 2 complications may occur with or without preceding exacerbation of the angina pectoris.
-As with other β-blockers, when discontinuation of CARVEDILOL is planned, the patients should be carefully observed and advised to limit physical activity to a minimum.
-CARVEDILOL should be discontinued over 1 to 2 weeks whenever possible.
-If the angina worsens or acute coronary insufficiency develops, it is recommended that CARVEDILOL be promptly reinstituted, at least temporarily.
-Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue therapy with CARVEDILOL abruptly even in patients treated only for hypertension or heart failure.
+As with other β-blockers, when discontinuation of carvedilol is planned, the patients should be carefully observed and advised to limit physical activity to a minimum.
+Carvedilol should be discontinued over 1 to 2 weeks whenever possible.
+If the angina worsens or acute coronary insufficiency develops, it is recommended that carvedilol be promptly reinstituted, at least temporarily.
+Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue therapy with carvedilol abruptly even in patients treated only for hypertension or heart failure.
 
 ## 5.2 Bradycardia
 
@@ -36,7 +36,7 @@ Such episodes do not preclude subsequent successful titration of, or a favorable
 Patients with bronchospastic disease (e.g., chronic bronchitis and emphysema) should, in general, not receive β-blockers.
 Carvedilol may be used with caution, however, in patients who do not respond to, or cannot tolerate, other antihypertensive agents.
 It is prudent, if carvedilol is used, to use the smallest effective dose, so that inhibition of endogenous or exogenous β-agonists is minimized.
-In clinical trials, patients with bronchospastic disease were enrolled if they did not require oral or inhaled medication to treat their bronchospastic disease.
+In clinical trials of patients with bronchospastic disease were enrolled if they did not require oral or inhaled medication to treat their bronchospastic disease.
 In such patients, it is recommended that carvedilol be used with caution.
 The dosing recommendations should be followed closely and the dose should be lowered if any evidence of bronchospasm is observed during up-titration.
 
@@ -46,6 +46,7 @@ In general, β-blockers may mask some of the manifestations of hypoglycemia, par
 Nonselective β-blockers may potentiate insulin-induced hypoglycemia and delay recovery of serum glucose levels.
 Patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, should be cautioned about these possibilities.
 Studies designed to examine the effects of carvedilol on glycemic control in patients with diabetes and heart failure have not been conducted.
+In a study designed to examine the effects of carvedilol on glycemic control in a population with mild-to-moderate hypertension and well-controlled type 2 diabetes mellitus, carvedilol had no adverse effect on glycemic control, based on HbA1c measurements [see Clinical Studies (14.4)].
 
 ## 5.7 Peripheral Vascular Disease
 
@@ -59,9 +60,9 @@ Patients at risk appear to be those with low blood pressure (systolic blood pres
 Renal function has returned to baseline when carvedilol was stopped.
 In patients with these risk factors it is recommended that renal function be monitored during up-titration of carvedilol and the drug discontinued or dosage reduced if worsening of renal function occurs.
 
-## 5.9 Anesthesia and Major Surgery
+## 5.9 Major Surgery
 
-If treatment with carvedilol is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10) for information on treatment of bradycardia and hypertension].
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 ## 5.10 Thyrotoxicosis
 
@@ -84,3 +85,10 @@ However, caution should be taken in the administration of carvedilol to patients
 
 While taking β-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
+
+## 5.14 Intraoperative Floppy Iris Syndrome
+
+Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients treated with alpha-1 blockers (carvedilol is an alpha/beta blocker).
+This variant of small pupil syndrome is characterized by the combination of a flaccid iris that billows in response to intraoperative irrigation currents, progressive intraoperative miosis despite preoperative dilation with standard mydriatic drugs, and potential prolapse of the iris toward the phacoemulsification incisions.
+The patient’s ophthalmologist should be prepared for possible modifications to the surgical technique, such as utilization of iris hooks, iris dilator rings, or viscoelastic substances.
+There does not appear to be a benefit of stopping alpha-1 blocker therapy prior to cataract surgery.

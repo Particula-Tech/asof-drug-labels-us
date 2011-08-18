@@ -1,71 +1,72 @@
 # 17.2 FDA-Approved Patient Labeling
 
-PATIENT INFORMATION CARVEDILOL TABLETS Read the Patient Information that comes with CARVEDILOL before you start taking it and each time you get a refill.
+PATIENT INFORMATION Carvedilol Tablets, USP Read the Patient Information that comes with carvedilol tablets before you start taking them and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
-If you have any questions about CARVEDILOL, ask your doctor or pharmacist.
-WHAT IS CARVEDILOL?
-CARVEDILOL is a prescription medicine that belongs to a group of medicines called “beta-blockers”.
-CARVEDILOL is used, often with other medicines, for the following conditions:
+If you have any questions about carvedilol tablets, ask your doctor or pharmacist.
+What are carvedilol tablets?
+Carvedilol tablets are a prescription medicine that belongs to a group of medicines called “beta-blockers”.
+Carvedilol tablets are used, often with other medicines, for the following conditions:
 
-- To treat patients with high blood pressure (hypertension)
 - To treat patients who had a heart attack that worsened how well the heart pumps
+- To treat patients with high blood pressure (hypertension)
 
-CARVEDILOL is not approved for use in children under 18 years of age.
-WHO SHOULD NOT TAKE CARVEDILOL?
-Do not take CARVEDILOL if you:
+Carvedilol tablets are not approved for use in children under 18 years of age.
+Who should not take carvedilol tablets?
+Do not take carvedilol tablets if you:
 
 - Have severe heart failure and are hospitalized in the intensive care unit or require certain intravenous medications that help support circulation (inotropic medications)
 - Are prone to asthma or other breathing problems
 - Have a slow heartbeat or a heart that skips a beat (irregular heartbeat)
 - Have liver problems
-- Are allergic to any of the ingredients in CARVEDILOL TABLETS.
+- Are allergic to any of the ingredients in carvedilol tablets.
   The active ingredient is carvedilol.
-  See the end of this leaflet for a list of all the ingredients in CARVEDILOL TABLETS.
+  See the end of this leaflet for a list of all the ingredients in carvedilol tablets.
 
-WHAT SHOULD I TELL MY DOCTOR BEFORE TAKING CARVEDILOL?
+What should I tell my doctor before taking carvedilol tablets?
 Tell your doctor about all of your medical conditions, including if you:
 
 - Have asthma or other lung problems (such as bronchitis or emphysema)
-- Have problems with blood flow in your feet and legs (peripheral vascular disease) CARVEDILOL can make some of your symptoms worse.
+- Have problems with blood flow in your feet and legs (peripheral vascular disease) carvedilol tablets can make some of your symptoms worse.
 - Have diabetes
 - Have thyroid problems
 - Have a condition called pheochromocytoma
 - Have had severe allergic reactions
 - Are pregnant or trying to become pregnant.
-  It is not known if CARVEDILOL is safe for your unborn baby.
+  It is not known if carvedilol tablets are safe for your unborn baby.
   You and your doctor should talk about the best way to control your high blood pressure during pregnancy.
 - Are breastfeeding.
-  It is not known if CARVEDILOL passes into your breast milk.
-  You should not breastfeed while using CARVEDILOL.
+  It is not known if carvedilol passes into your breast milk.
+  You should not breastfeed while using carvedilol tablets.
 - Are scheduled for surgery and will be given anesthetic agents
+- Are scheduled for cataract surgery and have taken or are currently taking carvedilol tablets.
 - Are taking prescription or non-prescription medicines, vitamins, and herbal supplements.
-  CARVEDILOL and certain other medicines can affect each other and cause serious side effects.
-  CARVEDILOL may affect the way other medicines work.
-  Also, other medicines may affect how well CARVEDILOL works.
+  Carvedilol tablets and certain other medicines can affect each other and cause serious side effects.
+  Carvedilol tablets may affect the way other medicines work.
+  Also, other medicines may affect how well carvedilol tablets work.
 
 Keep a list of all the medicines you take.
 Show this list to your doctor and pharmacist before you start a new medicine.
-HOW SHOULD I TAKE CARVEDILOL?
+How should I take carvedilol tablets?
 It is important for you to take your medicine every day as directed by your doctor.
-If you stop taking CARVEDILOL suddenly, you could have chest pain and/or a heart attack.
-If your doctor decides that you should stop taking CARVEDILOL, your doctor may slowly lower your dose over a period of time before stopping it completely.
+If you stop taking carvedilol tablets suddenly, you could have chest pain and/or a heart attack.
+If your doctor decides that you should stop taking carvedilol tablets, your doctor may slowly lower your dose over a period of time before stopping them completely.
 
-- Take CARVEDILOL exactly as prescribed.
+- Take carvedilol tablets exactly as prescribed.
   Your doctor will tell you how many tablets to take and how often.
   In order to minimize possible side effects, your doctor might begin with a low dose and then slowly increase the dose.
-- Do not stop taking CARVEDILOL and do not change the amount of CARVEDILOL you take without talking to your doctor.
-- Tell your doctor if you gain weight or have trouble breathing while taking CARVEDILOL.
-- Take CARVEDILOL with food.
-- If you miss a dose of CARVEDILOL, take your dose as soon as you remember, unless it is time to take your next dose.
+- Do not stop taking carvedilol tablets and do not change the amount of carvedilol tablets you take without talking to your doctor.
+- Tell your doctor if you gain weight or have trouble breathing while taking carvedilol tablets.
+- Take carvedilol tablets with food.
+- If you miss a dose of carvedilol tablets, take your dose as soon as you remember, unless it is time to take your next dose.
   Take your next dose at the usual time.
   Do not take 2 doses at the same time.
-- If you take too much CARVEDILOL, call your doctor or poison control center right away.
+- If you take too much carvedilol, call your doctor or poison control center right away.
 
-WHAT SHOULD I AVOID WHILE TAKING CARVEDILOL?
-CARVEDILOL can cause you to feel dizzy, tired, or faint.
+What should I avoid while taking carvedilol tablets?
+Carvedilol tablets can cause you to feel dizzy, tired, or faint.
 Do not drive a car, use machinery, or do anything that needs you to be alert if you have these symptoms.
-WHAT ARE POSSIBLE SIDE EFFECTS OF CARVEDILOL?
+What are possible side effects of carvedilol tablets?
 
 - Low blood pressure (which may cause dizziness or fainting when you stand up).
   If these happen, sit or lie down right away and tell your doctor.
@@ -74,31 +75,38 @@ WHAT ARE POSSIBLE SIDE EFFECTS OF CARVEDILOL?
 - Slow heartbeat.
 - Changes in your blood sugar.
   If you have diabetes, tell your doctor if you have any changes in your blood sugar levels.
-- CARVEDILOL may hide some of the symptoms of low blood sugar, especially a fast heartbeat.
-- CARVEDILOL may mask the symptoms of hyperthyroidism (overactive thyroid).
+- Carvedilol tablets may hide some of the symptoms of low blood sugar, especially a fast heartbeat.
+- Carvedilol tablets may mask the symptoms of hyperthyroidism (overactive thyroid).
 - Worsening of severe allergic reactions.
-- Rare but serious allergic reactions (including hives or swelling of the face, lips, tongue and/or throat that may cause difficulty breathing or swallowing) have happened in patients who were on CARVEDILOL.
+- Rare but serious allergic reactions (including hives or swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing) have happened in patients who were on carvedilol tablets.
   These reactions can be life-threatening.
 
-Other side effects of CARVEDILOL include shortness of breath, weight gain, diarrhea, and fewer tears or dry eyes that become bothersome if you wear contact lenses.
+Other side effects of carvedilol tablets include shortness of breath, weight gain, diarrhea, and fewer tears or dry eyes that become bothersome if you wear contact lenses.
 Call your doctor if you have any side effects that bother you or don’t go away.
-HOW SHOULD I STORE CARVEDILOL TABLETS?
+How should I store carvedilol tablets?
 
-- Store CARVEDILOL TABLETS at 20 to 25°C (68 to 77°F).
+- Store carvedilol tablets at 20 to 25°C (68 to 77°F).
   Keep the tablets dry.
-- Safely, throw away CARVEDILOL TABLETS that are out of date or no longer needed.
-- Keep CARVEDILOL TABLETS and all medicines out of the reach of children.
+- Safely, throw away carvedilol tablets that are out of date or no longer needed.
+- Keep carvedilol tablets and all medicines out of the reach of children.
 
-GENERAL INFORMATION ABOUT CARVEDILOL Medicines are sometimes prescribed for conditions other than those described in patient information leaflets.
-Do not use CARVEDILOL for a condition for which it was not prescribed.
-Do not give CARVEDILOL to other people, even if they have the same symptoms you have.
-It may harm them.
-This leaflet summarizes the most important information about CARVEDILOL.
+General information about carvedilol tablets Medicines are sometimes prescribed for conditions other than those described in patient information leaflets.
+Do not use carvedilol tablets for a condition for which it was not prescribed.
+Do not give carvedilol tablets to other people, even if they have the same symptoms you have.
+They may harm them.
+This leaflet summarizes the most important information about carvedilol tablets.
 If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about CARVEDILOL that is written for healthcare professionals.
-You can also find out more about CARVEDILOL by calling 1-866-850-2876.
+You can ask your doctor or pharmacist for information about carvedilol tablets that is written for healthcare professionals.
+You can also find out more about carvedilol tablets by calling 1-866-850-2876.
 This call is free.
-WHAT ARE THE INGREDIENTS IN CARVEDILOL TABLETS?
-Active Ingredient: Carvedilol Inactive Ingredients: lactose monohydrate, colloidal silicon dioxide, crospovidone, povidone, sucrose, magnesium stearate, polyethylene glycol 400, polysorbate 80, titanium dioxide, and hypromellose.
-Carvedilol tablets come in the following strengths: 3.125 mg, 6.25 mg, 12.5 mg, 25 mg.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 09/2009
+What are the ingredients in carvedilol tablets?
+Active Ingredient: Carvedilol.
+Inactive Ingredients: lactose monohydrate, colloidal silicon dioxide, crospovidone, povidone, sucrose, magnesium stearate, polyethylene glycol 400, polysorbate 80, titanium dioxide, and hypromellose.
+Carvedilol tablets come in the following strengths: 3.125 mg, 6.25 mg, 12.5 mg, or 25 mg.
+What is high blood pressure (hypertension)?
+Blood pressure is the force of blood in your blood vessels when your heart beats and when your heart rests.
+You have high blood pressure when the force is too much.
+High blood pressure makes the heart work harder to pump blood through the body and causes damage to blood vessels.
+Carvedilol tablets can help your blood vessels relax so your blood pressure is lower.
+Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 03/2011

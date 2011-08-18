@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In 2-year studies conducted in rats given carvedilol at doses up to 75 mg/kg/day (12 times the MRHD when compared on a mg/m 2 basis) or in mice given up to 200 mg/kg/day (16 times the MRHD on a mg/m 2 basis), carvedilol had no carcinogenic effect.
 Carvedilol was negative when tested in a battery of genotoxicity assays, including the Ames and the CHO/HGPRT assays for mutagenicity and the in vitro hamster micronucleus and in vivo human lymphocyte cell tests for clastogenicity.

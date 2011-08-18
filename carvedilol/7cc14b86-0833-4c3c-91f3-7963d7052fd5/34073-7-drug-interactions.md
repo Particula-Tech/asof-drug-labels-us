@@ -39,10 +39,14 @@ Patients should be observed for signs of bradycardia or heart block, particularl
 
 ## 7.7 Calcium Channel Blockers
 
-Conduction disturbance (rarely with hemodynamic compromise) has been observed when carvedilol is co-administered with diltiazem.
+Conduction disturbance (rarely with hemodynamic compromise) has been observed when carvedilol is coadministered with diltiazem.
 As with other agents with β-blocking properties, if carvedilol is to be administered with calcium channel blockers of the verapamil or diltiazem type, it is recommended that ECG and blood pressure be monitored.
 
 ## 7.8 Insulin or Oral Hypoglycemics
 
 Agents with β-blocking properties may enhance the blood-sugar-reducing effect of insulin and oral hypoglycemics.
 Therefore, in patients taking insulin or oral hypoglycemics, regular monitoring of blood glucose is recommended [see Warnings and Precautions (5.6)] .
+
+## 7.9 Anesthesia
+
+If treatment with carvedilol is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10)] .

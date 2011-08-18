@@ -13,17 +13,17 @@ Patients were treated for an average of 12.9 months and 12.8 months with carvedi
 The following adverse events were reported with a frequency of >1% but ≤3% and more frequently with carvedilol: Flu syndrome, cerebrovascular accident, peripheral vascular disorder, hypotonia, depression, gastrointestinal pain, arthritis, and gout.
 The overall rates of discontinuations due to adverse events were similar in both groups of patients.
 In this database, the only cause of discontinuation >1%, and occurring more often on carvedilol was hypotension (1.5% on carvedilol, 0.2% on placebo).
-Hypertension: Carvedilol has been evaluated for safety in hypertension in more than 2,193 patients in US clinical trials and in 2,976 patients in international clinical trials.
+Hypertension: Carvedilol has been evaluated for safety in hypertension in more than 2,193 patients in U.S. clinical trials and in 2,976 patients in international clinical trials.
 Approximately 36% of the total treated population received carvedilol for at least 6 months.
 Most adverse events reported during therapy with carvedilol were of mild to moderate severity.
-In US controlled clinical trials directly comparing carvedilol in doses up to 50 mg (n = 1,142) to placebo (n = 462), 4.9% of patients receiving carvedilol discontinued for adverse events versus 5.2% of placebo patients.
+In U.S. controlled clinical trials directly comparing carvedilol in doses up to 50 mg (n = 1,142) to placebo (n = 462), 4.9% of patients receiving carvedilol discontinued for adverse events versus 5.2% of placebo patients.
 Although there was no overall difference in discontinuation rates, discontinuations were more common in the carvedilol group for postural hypotension (1% versus 0).
-The overall incidence of adverse events in US placebo-controlled trials increased with increasing dose of carvedilol.
+The overall incidence of adverse events in U.S. placebo-controlled trials increased with increasing dose of carvedilol.
 For individual adverse events this could only be distinguished for dizziness, which increased in frequency from 2% to 5% as total daily dose increased from 6.25 mg to 50 mg.
-Table 1 shows adverse events in US placebo-controlled clinical trials for hypertension that occurred with an incidence of ≥1% regardless of causality, and that were more frequent in drug-treated patients than placebo-treated patients.
+Table 1 shows adverse events in U.S. placebo-controlled clinical trials for hypertension that occurred with an incidence of ≥1% regardless of causality, and that were more frequent in drug-treated patients than placebo-treated patients.
 
 Table 1.
-Adverse Events (%) Occurring in US Placebo-Controlled Hypertension Trials (Incidence ≥1%, Regardless of Causality)*
+Adverse Events (%) Occurring in U.S. Placebo-Controlled Hypertension Trials (Incidence ≥1%, Regardless of Causality)*
 
 | (n = 1,142) | (n = 462) |  |
 | --- | --- | --- |
@@ -73,5 +73,5 @@ No clinically relevant changes were noted in fasting serum glucose in hypertensi
 The following adverse reactions have been identified during post-approval use of carvedilol.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Reports of aplastic anemia and severe skin reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, and erythema multiforme) have been rare and received only when carvedilol was administered concomitantly with other medications associated with such reactions.
-Rare reports of hypersensitivity reactions (e.g., anaphylactic reaction, angioedema, and urticaria) have been received for carvedilol.
+Rare reports of hypersensitivity reactions (e.g., anaphylactic reaction, angioedema, and urticaria) have been received for carvedilol tablets and carvedilol phosphate extended-release capsules, including cases occurring after the initiation of carvedilol phosphate extended-release capsules in patients previously treated with carvedilol tablets.
 Urinary incontinence in women (which resolved upon discontinuation of the medication) and interstitial pneumonitis have been reported rarely.
