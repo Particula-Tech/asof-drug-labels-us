@@ -113,9 +113,9 @@ Immediately call your pharmacist if you receive a LAMICTAL XR tablet that does n
 
 LAMICTAL XR (lamotrigine) Extended-Release Tablets
 
-| 25 mg, yellow with white centerImprinted withLAMICTAL XR 25 | 50 mg, green with white centerImprinted withLAMICTAL XR 50 |  |
+| 25 mg, yellow with white centerImprinted withLAMICTAL XR 25 | 50 mg, green with white centerImprinted withLAMICTALXR 50 | 100 mg, orange with white centerImprinted withLAMICTALXR 100 |
 | --- | --- | --- |
-| 100 mg, orange with white centerImprinted withLAMICTAL XR 100 | 200 mg, blue with white centerImprinted withLAMICTAL XR 200 | 300 mg, gray with white centerImprinted withLAMICTAL XR 300 |
+| 200 mg, blue with white centerImprinted withLAMICTALXR 200 | 250 mg, purple with white centerImprinted withLAMICTALXR 250 | 300 mg, gray with white centerImprinted withLAMICTALXR 300 |
 
 What is LAMICTAL XR?
 
@@ -178,7 +178,7 @@ How should I take LAMICTAL XR?
 
 What should I avoid while taking LAMICTAL XR?
 
-- Do not drive a car or operate complex, hazardous machinery until you know how LAMICTAL XR affects you.
+Do not drive a car or operate complex, hazardous machinery until you know how LAMICTAL XR affects you.
 
 What are possible side effects of LAMICTAL XR?
 
@@ -224,7 +224,7 @@ What are the ingredients in LAMICTAL XR?
 
 Active ingredient: Lamotrigine.
 
-Inactive ingredients: glycerol monostearate, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer dispersion, polyethylene glycol 400, polysorbate 80, silicon dioxide (25-mg and 50-mg tablets only), titanium dioxide, triethyl citrate, iron oxide black (50-mg and 300-mg tablets only), iron oxide yellow (25-mg, 50-mg, 100-mg tablets only), iron oxide red (100-mg tablet only), FD&C Blue No. 2 Aluminum Lake (200-mg tablet only).
+Inactive ingredients: glycerol monostearate, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer dispersion, polyethylene glycol 400, polysorbate 80, silicon dioxide (25- and 50-mg tablets only), titanium dioxide, triethyl citrate, carmine (250-mg tablet only), iron oxide black (50-, 250-, and 300-mg tablets only), iron oxide yellow (25-, 50-, 100-mg tablets only), iron oxide red (100-mg tablet only), FD&C Blue No. 2 Aluminum Lake (200- and 250-mg tablets only).
 Tablets are printed with edible black ink.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
@@ -240,6 +240,6 @@ Research Triangle Park, NC 27709
 ©2011, GlaxoSmithKline.
 All rights reserved.
 
-April 2011
+June 2011
 
-LXR:6MG
+LXR:7MG

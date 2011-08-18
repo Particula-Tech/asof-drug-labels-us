@@ -6,23 +6,25 @@ See FDA-approved patient labeling (Medication Guide).
 
 Prior to initiation of treatment with LAMICTAL XR, the patient should be instructed that a rash or other signs or symptoms of hypersensitivity (e.g., fever, lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately.
 
-## 17.2 Suicidal Thinking and Behavior
+## 17.2 Multiorgan Hypersensitivity Reactions, Blood Dyscrasias and Organ Failure
+
+Patients should be instructed that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with LAMICTAL.
+Isolated organ failure or isolated blood dyscrasias without evidence of multiorgan hypersensitivity may also occur.
+Patients should contact their physician immediately if they experience any signs or symptoms of these conditions [see Warnings andPrecautions (5.2, 5.3)].
+
+## 17.3 Suicidal Thinking and Behavior
 
 Patients, their caregivers, and families should be counseled that AEDs, including LAMICTAL XR, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression; any unusual changes in mood or behavior; or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 17.3 Worsening of Seizures
+## 17.4 Worsening of Seizures
 
 Patients should be advised to notify their physicians if worsening of seizure control occurs.
 
-## 17.4 Central Nervous System Adverse Effects
+## 17.5 Central Nervous System Adverse Effects
 
 Patients should be advised that LAMICTAL XR may cause dizziness, somnolence, and other symptoms and signs of central nervous system depression.
 Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on LAMICTAL XR to gauge whether or not it adversely affects their mental and/or motor performance.
-
-## 17.5 Blood Dyscrasias and/or Acute Multiorgan Failure
-
-Patients should be advised of the possibility of blood dyscrasias and/or acute multiorgan failure and to contact their physician immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.3, 5.4)].
 
 ## 17.6 Pregnancy
 
@@ -36,7 +38,7 @@ To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Spe
 ## 17.7 Oral Contraceptive Use
 
 Women should be advised to notify their physicians if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
-Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.8), Clinical Pharmacology (12.3)].
+Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.7), Clinical Pharmacology (12.3)].
 Women should also be advised to promptly notify their physicians if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving LAMICTAL XR in combination with these medications.
 
 ## 17.8 Discontinuing LAMICTAL XR
@@ -71,6 +73,6 @@ Research Triangle Park, NC 27709
 ©2011, GlaxoSmithKline.
 All rights reserved.
 
-April 2011
+August 2011
 
-LXR:7PI
+LXR:9PI

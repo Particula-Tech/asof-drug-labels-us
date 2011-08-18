@@ -63,7 +63,7 @@ Because there is inadequate experience in this population, LAMICTAL XR should be
 
 Discontinuation Strategy: For patients receiving LAMICTAL XR in combination with other AEDs, a re-evaluation of all AEDs in the regimen should be considered if a change in seizure control or an appearance or worsening of adverse reactions is observed.
 
-If a decision is made to discontinue therapy with LAMICTAL XR, a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) is recommended unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.9)].
+If a decision is made to discontinue therapy with LAMICTAL XR, a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) is recommended unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.8)].
 
 Discontinuing carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation should prolong the half-life of lamotrigine; discontinuing valproate should shorten the half-life of lamotrigine.
 

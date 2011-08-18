@@ -10,6 +10,8 @@
 
 200 mg, blue with white center, round, biconvex, film-coated tablets printed with “LAMICTAL” and “XR 200.”
 
+250 mg, purple with white center, caplet-shaped, film-coated tablets printed with “LAMICTAL” and “XR 250.”
+
 300 mg, gray with white center, caplet-shaped, film-coated tablets printed with “LAMICTAL” and “XR 300.”
 
 ## 3.2 Potential Medication Errors

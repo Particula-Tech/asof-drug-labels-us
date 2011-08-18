@@ -10,6 +10,8 @@ LAMICTAL XR (lamotrigine) Extended-Release Tablets
 
 200 mg, blue with a white center, round, biconvex, film-coated tablets printed on one face in black ink with “LAMICTAL” and “XR 200”, unit-of-use bottles of 30 with orange caps (NDC 0173-0757-00).
 
+250 mg, purple with a white center, caplet-shaped, film-coated tablets printed on one face in black ink with “LAMICTAL” and “XR 250”, unit-of-use bottles of 30 with orange caps (NDC 0173-0781-00).
+
 300 mg, gray with a white center, caplet-shaped, film-coated tablets printed on one face in black ink with “LAMICTAL” and “XR 300”, unit-of-use bottles of 30 with orange caps (NDC 0173-0761-00).
 
 LAMICTAL XR (lamotrigine) Patient Titration Kit for Patients Taking Valproate (Blue XR Kit)

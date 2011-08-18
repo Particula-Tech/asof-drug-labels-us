@@ -38,7 +38,7 @@ For example, 44% of patients randomized to LAMICTAL XR experienced a 50% or grea
 
 The effectiveness of LAMICTAL XR as monotherapy for partial onset seizures was established in a historical-control trial in 223 adults with partial seizures.
 The historical control methodology is described in a publication by French, et al. [see References (15)].
-Briefly, in this study, patients were randomized to ultimately receive either Lamictal XR 300 mg or 250 mg once a day, and their responses were compared to those of a historical control group.
+Briefly, in this study, patients were randomized to ultimately receive either LAMICTAL XR 300 mg or 250 mg once a day, and their responses were compared to those of a historical control group.
 The historical control consisted of a pooled analysis of the control groups from 8 studies of similar design, which utilized a subtherapeutic dose of an AED as a comparator.
 Statistical superiority to the historical control was considered to be demonstrated if the upper 95% confidence interval for the proportion of patients meeting escape criteria in patients receiving LAMICTAL XR remained below the lower 95% prediction interval of 65.3% derived from the historical control data.
 

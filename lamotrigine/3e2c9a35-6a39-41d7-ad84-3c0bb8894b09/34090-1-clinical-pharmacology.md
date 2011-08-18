@@ -109,7 +109,7 @@ The numbers in parentheses below each parameter mean represent the range of indi
 b Carbamazepine, phenobarbital, phenytoin, and primidone have been shown to increase the apparent clearance of lamotrigine.
 Estrogen-containing oral contraceptives and other drugs such as rifampin that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
 
-Drug Interactions: The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8, 5.12), Drug Interactions (7)].
+Drug Interactions: The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.7, 5.11), Drug Interactions (7)].
 
 The net effects of drug interactions with lamotrigine are summarized in Table 8.
 Details of the drug interaction studies, which were done using immediate-release lamotrigine, are provided in Table 8.

@@ -156,6 +156,45 @@ Rev.
 
 A043352
 
+NDC 0173-0781-00
+
+LAMICTAL® XRTM
+
+(LAMOTRIGINE)
+
+EXTENDED- RELEASE TABLETS
+
+250 mg
+
+Rx only
+
+30 tablets
+
+CAUTION: Verify Product Dispensed
+
+Dispense the accompanying Medication Guide to each patient.
+
+Once A Day
+
+See prescribing information for dosage information.
+
+Do not use if printed safety seal under cap is broken or missing.
+
+Store at 25oC (77oF); excursion permitted to 15 – 30oC (59 – 86oF).
+
+Visit www.LAMICTALXR.com
+
+GlaxoSmithKline
+
+RTP, NC 27709
+
+Made in England
+
+Rev.
+7/11
+
+A097701
+
 Principal Display Panel
 
 NDC 0173-0758-00
