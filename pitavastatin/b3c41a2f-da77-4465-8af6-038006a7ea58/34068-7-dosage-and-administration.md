@@ -10,8 +10,7 @@ After initiation or upon titration of LIVALO, lipid levels should be analyzed af
 
 ## 2.2 Dosage in Patients with Renal Impairment
 
-Patients with moderate renal impairment (glomerular filtration rate 30 to < 60 mL/min/1.73 m2) and end –stage renal disease receiving hemodialysis should receive a starting dose of LIVALO 1 mg once daily and a maximum dose of LIVALO 2 mg once daily.
-LIVALO should not be used in patients with severe renal impairment (glomerular filtration rate < 30 mL/min/1.73 m2) not yet on hemodialysis.
+Patients with moderate and severe renal impairment (glomerular filtration rate 30 – 59 mL/min/1.73 m2 and 15 – 29 mL/min/1.73 m2 not receiving hemodialysis, respectively) as well as end-stage renal disease receiving hemodialysis should receive a starting dose of LIVALO 1 mg once daily and a maximum dose of LIVALO 2 mg once daily.
 
 ## 2.3 Use with Erythromycin
 

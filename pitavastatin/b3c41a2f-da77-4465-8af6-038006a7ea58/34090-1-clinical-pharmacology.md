@@ -25,7 +25,7 @@ Distribution: Pitavastatin is more than 99% protein bound in human plasma, mainl
 Metabolism: Pitavastatin is marginally metabolized by CYP2C9 and to a lesser extent by CYP2C8.
 The major metabolite in human plasma is the lactone which is formed via an ester-type pitavastatin glucuronide conjugate by uridine 5'-diphosphate (UDP) glucuronosyltransferase (UGT1A3 and UGT2B7).
 
-Excretion: A mean of 15% of radioactivity of orally administered single 32 mg 14C-labeled pitavastatin dose was excreted in urine, whereas a mean of 79% of the dose was excreted in feces within 7 days.
+Excretion: A mean of 15% of radioactivity of orally administered, single 32 mg 14C-labeled pitavastatin dose was excreted in urine, whereas a mean of 79% of the dose was excreted in feces within 7 days.
 The mean plasma elimination half-life is approximately 12 hours.
 
 Race: In pharmacokinetic studies pitavastatin Cmax and AUC were 21 and 5% lower, respectively in Black or African American healthy volunteers compared with those of Caucasian healthy volunteers.
@@ -37,10 +37,15 @@ This had no effect on the efficacy or safety of LIVALO in women in clinical stud
 Geriatric: In a pharmacokinetic study which compared healthy young and elderly (≥65 years) volunteers, pitavastatin Cmax and AUC were 10 and 30% higher, respectively, in the elderly.
 This had no effect on the efficacy or safety of LIVALO in elderly subjects in clinical studies.
 
-Renal Impairment: In patients with moderate renal impairment (glomerular filtration rate of 30 to <60 mL/min/1.73 m2) and end stage renal disease receiving hemodialysis, pitavastatin AUC0-inf is 79 and 86% higher than those of healthy volunteers, respectively, while pitavastatin Cmax is 60 and 40% higher than those of healthy volunteers, respectively.
+Renal Impairment: In patients with moderate renal impairment (glomerular filtration rate of 30 – 59 mL/min/1.73 m2) and end stage renal disease receiving hemodialysis, pitavastatin AUC0-inf is 102 and 86% higher than those of healthy volunteers, respectively, while pitavastatin Cmax is 60 and 40% higher than those of healthy volunteers, respectively.
 Patients received hemodialysis immediately before pitavastatin dosing and did not undergo hemodialysis during the pharmacokinetic study.
 Hemodialysis patients have 33 and 36% increases in the mean unbound fraction of pitavastatin as compared to healthy volunteers and patients with moderate renal impairment, respectively.
-The effect of mild and severe renal impairment on pitavastatin exposure is unknown.
+
+In another pharmacokinetic study, patients with severe renal impairment (glomerular filtration rate 15 – 29 mL/min/1.73 m2) not receiving hemodialysis were administered a single dose of LIVALO 4 mg.
+The AUC0-inf and the Cmax were 36 and 18% higher, respectively, compared with those of healthy volunteers.
+For both patients with severe renal impairment and healthy volunteers, the mean percentage of protein-unbound pitavastatin was approximately 0.6%.
+
+The effect of mild renal impairment on pitavastatin exposure has not been studied.
 
 Hepatic Impairment: The disposition of pitavastatin was compared in healthy volunteers and patients with various degrees of hepatic impairment.
 The ratio of pitavastatin Cmax between patients with moderate hepatic impairment (Child-Pugh B disease) and healthy volunteers was 2.7.
@@ -64,7 +69,7 @@ Effect of Co-Administered Drugs on Pitavastatin Systemic Exposure
 | Erythromycin | Pitavastatin 4 mg single dose on Day 4 + erythromycin 500 mg 4 times daily for 6 days | ↑ 2.8 fold † | ↑ 3.6 fold † |
 | Rifampin | Pitavastatin 4 mg QD + rifampin 600 mg QD for 5 days | ↑ 29% | ↑ 2.0 fold |
 | Atazanavir | Pitavastatin 4 mg QD + atazanavir 300 mg daily for 5 days | ↑ 31% | ↑ 60% |
-| Lopinavir/Ritonavir | Pitavastatin 4 mg QD on Days 1-5 and 20-24 + lopinavir/ritonavir 400 mg/100 mg BID on Days 9 - 24 | ↓ 20% | ↓ 4% |
+| Lopinavir/Ritonavir | Pitavastatin 4 mg QD on Days 1-5 and 20-24 + lopinavir/ritonavir 400 mg/100 mg BID on Days 9 – 24 | ↓ 20% | ↓4 % |
 | Gemfibrozil | Pitavastatin 4 mg QD + gemfibrozil 600 mg BID for 7 days | ↑ 45% | ↑ 31% |
 | Fenofibrate | Pitavastatin 4 mg QD + fenofibrate 160 mg QD for 7 days | ↑18% | ↑ 11% |
 | Ezetimibe | Pitavastatin 2 mg QD + ezetimibe 10 mg for 7 days | ↓ 2% | ↓0.2% |
@@ -82,8 +87,8 @@ Effect of Pitavastatin Co-Administration on Systemic Exposure to Other Drugs
 | Co-administered drug | Dose regimen |  | Change in AUC* | Change in Cmax* |
 | --- | --- | --- | --- | --- |
 | Atazanavir | Pitavastatin 4 mg QD + atazanavir 300 mg daily for 5 days |  | ↑ 6% | ↑ 13% |
-| Lopinavir | Pitavastatin 4 mg QD on Days 1-5 and 20-24 + lopinavir/ritonavir 400 mg/100 mg BID on Days 9 - 24 |  | ↓ 9% | ↓ 7% |
-| Ritonavir | Pitavastatin 4 mg QD on Days 1-5 and 20-24 + lopinavir/ritonavir 400 mg/100 mg BID on Days 9 - 24 |  | ↓ 11% | ↓ 11% |
+| Lopinavir | Pitavastatin 4 mg QD on Days 1-5 and 20-24 + lopinavir/ritonavir 400 mg/100 mg BID on Days 9 – 24 |  | ↓ 9% | ↓ 7% |
+| Ritonavir | Pitavastatin 4 mg QD on Days 1-5 and 20-24 + lopinavir/ritonavir 400 mg/100 mg BID on Days 9 – 24 |  | ↓ 11% | ↓ 11% |
 | Enalapril | Pitavastatin 4 mg QD + enalapril 20 mg daily for 5 days | Enalapril | ↑ 12% | ↑ 12% |
 | Enalaprilat | ↓ 1% | ↓ 1% |  |  |
 | Warfarin | Individualized maintenance dose of warfarin (2 - 7 mg) for 8 days + pitavastatin 4 mg QD for 9 days | R-warfarin | ↑ 7% | ↑ 3% |
@@ -91,5 +96,5 @@ Effect of Pitavastatin Co-Administration on Systemic Exposure to Other Drugs
 | Ezetimibe | Pitavastatin 2 mg QD + ezetimibe 10 mg for 7 days |  | ↑ 9% | ↑ 2% |
 | Digoxin | Pitavastatin 4 mg QD + digoxin 0.25 mg for 7 days |  | ↓ 3% | ↓ 4% |
 | Rifampin | Pitavastatin 4 mg QD + rifampin 600 mg QD for 5 days |  | ↓ 15% | ↓ 18% |
-| * Data presented as % change represent % difference relative to the investigated drug alone (i.e., 0% = no change). |  |  |  |  |
+| Data presented as % change represent % difference relative to the investigated drug alone (i.e., 0% = no change). |  |  |  |  |
 | BID = twice daily; QD = once daily |  |  |  |  |

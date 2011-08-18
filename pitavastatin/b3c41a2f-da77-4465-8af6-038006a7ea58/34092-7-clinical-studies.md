@@ -33,7 +33,7 @@ Response by Dose of LIVALO and Atorvastatin in Patients with Primary Hyperlipide
 | LIVALO 4 mg daily | 298 | -45 | -35 | -32 | -19 | 5 | -41 |
 | Atorvastatin 10 mg daily | 102 | -38 | -29 | -28 | -18 | 3 | -35 |
 | Atorvastatin 20 mg daily | 102 | -44 | -36 | -33 | -22 | 2 | -41 |
-| Atorvastatin 40 mg daily Atorvastatin 80 mg daily | -----------------------------------------Not Studied---------------------------------------------------------- -----------------------------------------Not Studied---------------------------------------------------------- |  |  |  |  |  |  |
+| Atorvastatin 40 mg daily Atorvastatin 80 mg daily | -----------------------------------------Not Studied---------------------------------------------------------- ----------------------------------------Not Studied--------------------------------------------------------- |  |  |  |  |  |  |
 
 Active-controlled study with simvastatin (NK-104-302): LIVALO was compared with the HMG-CoA reductase inhibitor simvastatin in a randomized, multicenter, double-blind, double-dummy, active-controlled, non-inferiority Phase 3 study of 843 patients with primary hyperlipidemia or mixed dyslipidemia.
 Patients entered a 6- to 8-week wash-out/dietary lead-in period and then were randomized to a 12 week treatment with either LIVALO or simvastatin (Table 6).

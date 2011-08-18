@@ -44,7 +44,7 @@ However, greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
 
-Patients with moderate renal impairment (glomerular filtration rate 30 to < 60 mL/min/1.73 m2) and end-stage renal disease receiving hemodialysis should receive a starting dose of LIVALO 1 mg once daily and a maximum dose of LIVALO 2 mg once daily[see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+Patients with moderate and severe renal impairment (glomerular filtration rate 30 – 59 mL/min/1.73 m2 and 15 – 29 mL/min/1.73 m2 not receiving hemodialysis, respectively) as well as end-stage renal disease receiving hemodialysis should receive a starting dose of LIVALO 1 mg once daily and a maximum dose of LIVALO 2 mg once daily [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

@@ -14,7 +14,4 @@ Do not exceed 4 mg once daily dosing of LIVALO.
 
 The effect of LIVALO on cardiovascular morbidity and mortality has not been determined.
 
-LIVALO has not been studied in patients with severe renal impairment (glomerular filtration rate < 30 mL/min/1.73 m2) not on hemodialysis.
-LIVALO should not be used in this patient population.
-
 LIVALO has not been studied in Fredrickson Type I, III, and V dyslipidemias.
