@@ -6,21 +6,3 @@ Each mL contains trimethoprim sulfate equivalent to 1 mg trimethoprim and polymy
 Storage: Store at 15° - 25°C (59° - 77°F) and protect from light.
 
 Rx Only
-
-Dist. by:
-
-FALCON Pharmaceuticals, Ltd.
-
-Fort Worth, Texas 76134
-
-Mfd. by:
-
-ALCON LABORATORIES, INC.
-
-Fort Worth, Texas 76134 USA
-
-Rev: January 2003
-
-Printed in USA
-
-340176-0103

@@ -1,0 +1,21 @@
+# PRINCIPAL DISPLAY PANEL
+
+NDC 61314-628-10 Rx Only
+
+FALCON PHARMACEUTICALS®
+
+Polymyxin B Sulfate
+
+and Trimethoprim
+
+Ophthalmic
+
+Solution, USP
+
+10 mL STERILE
+
+AFFILIATE OF
+
+ALCON LABORATORIES, INC.
+
+QUALITY RX

@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA064211"
+  ],
   "inn": "trimethoprim",
-  "labeler": "Falcon Pharmaceuticals, Ltd",
+  "labeler": "Falcon Pharmaceuticals, Ltd.",
   "package_ndcs": [
     "61314-628-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "polymyxin b sulfate and trimethoprim",
+      "name": "Polymyxin B Sulfate and Trimethoprim"
+    }
+  ],
   "setid": "71900075-5288-4f4b-afe2-098436fa2173",
   "source": "dailymed"
 }
