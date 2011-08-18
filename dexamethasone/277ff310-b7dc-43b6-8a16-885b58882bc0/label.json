@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050023"
+  ],
   "inn": "dexamethasone",
   "labeler": "Alcon Laboratories, Inc.",
   "package_ndcs": [
     "0998-0630-06"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "neomycin sulfate, polymyxin b sulfate and dexamethasone",
+      "name": "Maxitrol"
+    }
+  ],
   "setid": "277ff310-b7dc-43b6-8a16-885b58882bc0",
   "source": "dailymed"
 }

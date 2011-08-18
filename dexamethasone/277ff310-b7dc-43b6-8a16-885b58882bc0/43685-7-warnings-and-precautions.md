@@ -11,7 +11,6 @@ Acute purulent infections of the eye may be masked or activity enhanced by the p
 If this product is used for 10 days or longer, intraocular pressure should be routinely monitored even though it may be difficult in children and uncooperative patients.
 Steroids should be used with caution in the presence of glaucoma.
 Intraocular pressure should be checked frequently.
-
 The use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation.
 
 Use of ocular steroids may prolong the course and may exacerbate the severity of many viral infections of the eye (including herpes simplex).
@@ -19,7 +18,6 @@ Employment of a corticosteroid medication in the treatment of patients with a hi
 
 MAXITROL® (neomycin and polymyxin B sulfates and dexamethasone ophthalmic suspension) is not for injection.
 It should never be injected subconjunctivally, nor should it be directly introduced into the anterior chamber of the eye.
-
 Products containing neomycin sulfate may cause cutaneous sensitization.
 
 # PRECAUTIONS
@@ -33,7 +31,6 @@ As fungal infections of the cornea are particularly prone to develop coincidenta
 Fungal cultures should be taken when appropriate.
 
 If this product is used for 10 days or longer, intraocular pressure should be monitored (see WARNINGS).
-
 Prolonged use of topical anti-bacterial agents may give rise to overgrowth of nonsusceptible organisms including fungi.
 
 ## Information for Patients
@@ -49,21 +46,18 @@ Keep out of reach of children.
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies in animals to evaluate carcinogenic or mutagenic potential have not been conducted with polymyxin B sulfate.
-Treatment of cultured human lymphocytes in vitro with neomycin increased the frequency of chromosome aberrations at the highest concentration (80 µg/mL) tested.
+Treatment of cultured human lymphocytes in vitro with neomycin increased the frequency of chromosome aberrations at the highest concentration (80 μg/mL) tested.
 However, the effects of neomycin on carcinogenesis and mutagenesis in humans are unknown.
-
 Polymyxin B has been reported to impair the motility of equine sperm, but its effects on male or female fertility are unknown.
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category C.
+## Teratogenic Effects
 
-Dexamethasone has been shown to be teratogenic in mice and rabbits following topical ophthalmic application in multiples of the therapeutic dose.
+Pregnancy Category C. Dexamethasone has been shown to be teratogenic in mice and rabbits following topical ophthalmic application in multiples of the therapeutic dose.
 
 In the mouse, corticosteroids produce fetal resorptions and a specific abnormality, cleft palate.
-In the rabbit, corticosteroids have produced fetal resorptions and multiple abnormalities involving the head, ears, limbs, palate, etc.
-
-There are no adequate or well-controlled studies in pregnant women.
+In the rabbit, corticosteroids have produced fetal resorptions and multiple abnormalities involving the head, ears, limbs, palate, etc. There are no adequate or well-controlled studies in pregnant women.
 MAXITROL® Suspension should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the embryo or fetus.
 Infants born of mothers who have received substantial doses of corticosteroids during pregnancy should be observed carefully for signs of hypoadrenalism.
 
