@@ -92,6 +92,17 @@ Weight Changes (kg) from Baseline During Double-Blind Clinical Trials with Piogl
 | Insulin | 0.2 (-1.4/1.4) n=182 | 2.3 (0.5/4.3) n=190 | 3.3 (0.9/6.3) n=522 | 4.1 (1.4/6.8) n=338 |  |
 | Note: Trial durations of 16 to 26 weeks |  |  |  |  |  |
 
+Urinary Bladder Tumors: Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study (see Carcinogenesis, Mutagenesis and Impairment of Fertility, Pioglitazone hydrochloride).
+In two 3-year trials in which ACTOS was compared to placebo or glyburide, there were 16/3656 (0.44%) reports of bladder cancer in patients taking ACTOS compared to 5/3679 (0.14%) in patients not taking ACTOS.
+After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six (0.16%) cases on ACTOS and two (0.05%) cases on placebo.
+
+A five-year interim report of an ongoing 10-year observational cohort study found a non-significant increase in the risk for bladder cancer in subjects ever exposed to ACTOS, compared to subjects never exposed to ACTOS (HR 1.2 [95% CI 0.9 – 1.5]).
+Compared to never exposure, a duration of ACTOS therapy longer than 12 months was associated with an increase in risk (HR 1.4 [95% CI 0.9 – 2.1]), which reached statistical significance after more than 24 months of ACTOS use (HR 1.4 [95% CI 1.03 – 2.0]).
+Interim results from this study suggested that taking pioglitazone longer than 12 months increased the relative risk of developing bladder cancer in any given year by 40% which equates to an absolute increase of 3 cases in 10,000 (from approximately 7 in 10,000 [without ACTOS] to approximately 10 in 10,000 [with ACTOS]).
+
+There are insufficient data to determine whether pioglitazone is a tumor promoter for urinary bladder tumors.
+Consequently, DUETACT should not be used in patients with active bladder cancer and the benefits of glycemic control versus unknown risks for cancer recurrence with DUETACT should be considered in patients with a prior history of bladder cancer.
+
 Ovulation: Therapy with pioglitazone, like other thiazolidinediones, may result in ovulation in some premenopausal anovulatory women.
 Thus, adequate contraception in premenopausal women should be recommended while taking DUETACT.
 This possible effect has not been investigated in clinical studies so the frequency of this occurrence is not known.
@@ -188,6 +199,8 @@ This possible effect has not been investigated in clinical studies so the freque
 Thus, adequate contraception in premenopausal women should be recommended.
 Patients who become pregnant while on DUETACT or are planning a pregnancy should be advised to discuss with their physician a regimen appropriate for maintaining adequate glycemic control (see PRECAUTIONS, Pregnancy: Pregnancy Category C).
 
+Patients should be told to promptly report any sign of macroscopic hematuria or other symptoms such as dysuria or urinary urgency that develop or increase during treatment as these may be due to bladder cancer.
+
 Patients should be told to take a single dose of DUETACT once daily with the first main meal and instructed that any change in dosing should be made only if directed by their physician (see DOSAGE AND ADMINISTRATION, Maximum Recommended Dose).
 
 ## Drug Interactions
@@ -217,10 +230,6 @@ Drug-induced tumors were not observed in any organ except for the urinary bladde
 Benign and/or malignant transitional cell neoplasms were observed in male rats at 4 mg/kg/day and above (approximately equal to the maximum recommended human oral dose based on mg/m2).
 A two-year carcinogenicity study was conducted in male and female mice at oral doses up to 100 mg/kg/day (approximately 11 times the maximum recommended human oral dose based on mg/m2).
 No drug-induced tumors were observed in any organ.
-
-During prospective evaluation of urinary cytology involving more than 1800 patients receiving pioglitazone in clinical trials up to one year in duration, no new cases of bladder tumors were identified.
-In two 3 year studies in which pioglitazone was compared to placebo or glyburide, there were 16/3656 (0.44%) reports of bladder cancer in patients taking pioglitazone compared to 5/3679 (0.14%) in patients not taking pioglitazone.
-After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six cases (0.16%) on pioglitazone and two (0.05%) on placebo.
 
 Pioglitazone hydrochloride was not mutagenic in a battery of genetic toxicology studies, including the Ames bacterial assay, a mammalian cell forward gene mutation assay (CHO/HPRT and AS52/XPRT), an in vitro cytogenetics assay using CHL cells, an unscheduled DNA synthesis assay, and an in vivo micronucleus assay.
 

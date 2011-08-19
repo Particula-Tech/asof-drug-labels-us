@@ -52,7 +52,7 @@ Do not take DUETACT if you:
   Diabetic ketoacidosis should be treated with insulin.
 
 People with severe heart failure should not start taking DUETACT.
-See "What is the most important information I should know about DUETACT?".
+See "What is the most important information I should know about DUETACT?"
 
 What should I tell my doctor before taking DUETACT?
 
@@ -124,7 +124,7 @@ DUETACT can cause other serious side effects including:
 - Weight gain.
   Pioglitazone, one of the medicines in DUETACT, can cause weight gain that may be due to fluid retention or extra body fat.
   Weight gain due to fluid retention can be a serious problem for people with certain heart problems.
-  See "What is the most important information I should know about DUETACT?".
+  See "What is the most important information I should know about DUETACT?"
 - Liver problems.
   It is important for your liver to be working normally when you take DUETACT.
   Your doctor should do blood tests to check your liver before you start taking DUETACT and during treatment as needed.
@@ -141,14 +141,18 @@ DUETACT can cause other serious side effects including:
 - Fractures (broken bones), usually in the hand, upper arm, or foot in women.
   Talk to your doctor for advice on how to keep your bones healthy.
   It is not known if DUETACT can affect the bones of children.
+- Bladder cancer.
+  There may be an increased chance of having bladder cancer when you take DUETACT.
+  You should not take DUETACT if you are receiving treatment for bladder cancer.
+  Tell your doctor right away if you have any of the following symptoms of bladder cancer:
+  - blood or a red color in your urine
+  - an increased need to urinate
+  - pain while you urinate
 - Low red blood cell count (anemia).
 - Ovulation (release of an egg from an ovary in a woman) leading to pregnancy.
   Ovulation may happen when premenopausal women who do not have regular monthly periods take DUETACT.
   This can increase the chance of pregnancy.
-  See "What should I tell my doctor before taking DUETACT?".
-
-In studies of pioglitazone (one of the medicines in DUETACT), bladder cancer occurred in a few more people who were taking pioglitazone than in people who were taking other diabetes medicines.
-There were too few cases to know if the bladder cancer was related to pioglitazone.
+  See "What should I tell my doctor before taking DUETACT?"
 
 Other common side effects of DUETACT are:
 
@@ -206,8 +210,8 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
-© 2009 Takeda Pharmaceuticals America, Inc.
+© 2009, 2011 Takeda Pharmaceuticals America, Inc.
 
-September 2009
+July 2011
 
-DTA0509-R1/MG
+DTA007 R9

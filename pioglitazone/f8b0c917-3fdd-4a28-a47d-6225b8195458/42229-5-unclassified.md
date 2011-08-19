@@ -82,10 +82,12 @@ Ophthalmic examinations were carried out during long-term studies using the meth
 
 Rx only
 
-ACTOS® and DUETACT® are registered trademarks of Takeda Pharmaceutical Company Limited and used under license by Takeda Pharmaceuticals America, Inc.
+DUETACT® is a registered trademark of Takeda Pharmaceutical Company Limited and used under license by Takeda Pharmaceuticals America, Inc.
+
+All other trademarks are the property of their respective owners.
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
-© 2006, 2009 Takeda Pharmaceuticals America, Inc.
+© 2006, 2009, 2011 Takeda Pharmaceuticals America, Inc.
 
-July 2009 DTA0709-R7
+July 2011 DTA007 R9
