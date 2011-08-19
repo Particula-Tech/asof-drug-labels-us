@@ -1,10 +1,15 @@
 # CLINICAL PHARMACOLOGY
 
-Nystatin is an antifungal antibiotic which is both fungistatic and fungicidal in vitro against a wide variety of yeasts and yeast-like fungi.
-It probably acts by binding to sterols in the cell membrane of the fungus with a resultant change in membrane permeability allowing leakage of intracellular components.
-Nystatin is the first well tolerated antifungal antibiotic of dependable efficacy for the treatment of cutaneous, oral and intestinal infections caused by Candida (Monilia) albicans and other Candida species.
-It exhibits no appreciable activity against bacteria.
+## Pharmacokinetics
 
-Nystatin provides specific therapy for all localized forms of candidiasis.
-Symptomatic relief is rapid, often occurring within 24 to 72 hours after the initiation of treatment.
-Cure is effected both clinically and mycologically in most cases of localized candidiasis.
+Nystatin is not absorbed from intact skin or mucous membrane.
+
+## Microbiology
+
+Nystatin is an antibiotic which is both fungistatic and fungicidal in vitro against a wide variety of yeasts and yeast-like fungi, including Candida albicans, C. parapsilosis, C. tropicalis, C. guilliermondi, C. pseudotropicalis, C. krusei, Torulopsis glabrata, Tricophyton rubrum, T. mentagrophytes.
+Nystatin acts by binding to sterols in the cell membrane of susceptible species resulting in a change in membrane permeability and the subsequent leakage of intracellular components.
+On repeated subculturing with increasing levels of nystatin, Candida albicans does not develop resistance to nystatin.
+Generally, resistance to nystatin does not develop during therapy.
+However, other species of Candida (C. tropicalis, C. guilliermondi, C. krusei, and C. stellatoides) become quite resistant on treatment with nystatin and simultaneously become cross resistant to amphotericin as well.
+This resistance is lost when the antibiotic is removed.
+Nystatin exhibits no appreciable activity against bacteria, protozoa, or viruses.

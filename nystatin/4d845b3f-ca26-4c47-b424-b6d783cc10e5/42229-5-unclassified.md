@@ -1,9 +1,11 @@
 Rx only
 
-Mfd. by: Taro Pharmaceuticals Inc. Brampton, Ontario, Canada L6T 1C1
+FOR TOPICAL USE ONLY • NOT FOR OPHTHALMIC USE
 
-Dist. by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532
+Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1
 
-Revised: June, 2005
+Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
 
-PK-1161-3 262
+Revised: August, 2010
+
+PK-1161-4 107

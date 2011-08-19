@@ -1,4 +1,6 @@
 # ADVERSE REACTIONS
 
-Nystatin is virtually nontoxic and nonsensitizing and is well tolerated by all age groups including debilitated infants, even on prolonged administration.
-If irritation on topical application should occur, discontinue medication.
+The frequency of adverse events reported in patients using nystatin cream is less than 0.1%.
+The more common events that were reported include allergic reactions, burning, itching, rash, eczema, and pain on application.
+
+(See PRECAUTIONS: General.)
