@@ -23,7 +23,7 @@ In controlled clinical trials, ACTOS had an additive effect on glycemic control 
 
 Patients with lipid abnormalities were included in clinical trials with ACTOS.
 Overall, patients treated with ACTOS had mean decreases in serum triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL and total cholesterol.
-There is no conclusive evidence of macrovascular benefit with ACTOS or any other antidiabetic medication [see Warnings and Precautions (5.8) and Adverse Reactions (6.1)].
+There is no conclusive evidence of macrovascular benefit with ACTOS or any other antidiabetic medication [see Warnings and Precautions (5.9) and Adverse Reactions (6.1)].
 
 In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15 mg, 30 mg, and 45 mg ACTOS dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with ACTOS than in the placebo-treated patients.

@@ -41,12 +41,25 @@ The majority of fractures observed in female patients were nonvertebral fracture
 No increase in the incidence of fracture was observed in men treated with ACTOS (1.7%) versus placebo (2.1%).
 The risk of fracture should be considered in the care of patients, especially female patients, treated with ACTOS and attention should be given to assessing and maintaining bone health according to current standards of care.
 
-## 5.5 Hypoglycemia
+## 5.5 Urinary Bladder Tumors
+
+Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study [see Nonclinical Toxicology (13.1)].
+In two 3-year trials in which ACTOS was compared to placebo or glyburide, there were 16/3656 (0.44%) reports of bladder cancer in patients taking ACTOS compared to 5/3679 (0.14%) in patients not taking ACTOS.
+After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were six (0.16%) cases on ACTOS and two (0.05%) cases on placebo.
+
+A five-year interim report of an ongoing 10-year observational cohort study found a non-significant increase in the risk for bladder cancer in subjects ever exposed to ACTOS, compared to subjects never exposed to ACTOS (HR 1.2 [95% CI 0.9 – 1.5]).
+Compared to never exposure, a duration of ACTOS therapy longer than 12 months was associated with an increase in risk (HR 1.4 [95% CI 0.9 – 2.1]), which reached statistical significance after more than 24 months of ACTOS use (HR 1.4 [95% CI 1.03 – 2.0]).
+Interim results from this study suggested that taking ACTOS longer than 12 months increased the relative risk of developing bladder cancer in any given year by 40% which equates to an absolute increase of 3 cases in 10,000 (from approximately 7 in 10,000 [without ACTOS] to approximately 10 in 10,000 [with ACTOS]).
+
+There are insufficient data to determine whether pioglitazone is a tumor promoter for urinary bladder tumors.
+Consequently, ACTOS should not be used in patients with active bladder cancer and the benefits of glycemic control versus unknown risks for cancer recurrence with ACTOS should be considered in patients with a prior history of bladder cancer.
+
+## 5.6 Hypoglycemia
 
 Patients receiving ACTOS in combination with insulin or other anti-diabetic medications (particularly insulin secretagogues such as sulfonylureas) may be at risk for hypoglycemia.
 A reduction in the dose of the concomitant anti-diabetic medication may be necessary to reduce the risk of hypoglycemia [see Dosage and Administration (2.2)].
 
-## 5.6 Macular Edema
+## 5.7 Macular Edema
 
 Macular edema has been reported in postmarketing experience in diabetic patients who were taking ACTOS or another thiazolidinedione.
 Some patients presented with blurred vision or decreased visual acuity, but others were diagnosed on routine ophthalmologic examination.
@@ -57,13 +70,13 @@ Some patients had improvement in their macular edema after discontinuation of th
 Patients with diabetes should have regular eye exams by an ophthalmologist according to current standards of care.
 Patients with diabetes who report any visual symptoms should be promptly referred to an ophthalmologist, regardless of the patient's underlying medications or other physical findings [see Adverse Reactions (6.1)].
 
-## 5.7 Ovulation
+## 5.8 Ovulation
 
 Therapy with ACTOS, like other thiazolidinediones, may result in ovulation in some premenopausal anovulatory women.
 As a result, these patients may be at an increased risk for pregnancy while taking ACTOS [see Use in Specific Populations (8.1)].
 This effect has not been investigated in clinical trials, so the frequency of this occurrence is not known.
 Adequate contraception in all premenopausal women treated with ACTOS is recommended.
 
-## 5.8 Macrovascular Outcomes
+## 5.9 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOS or any other anti-diabetic drug.

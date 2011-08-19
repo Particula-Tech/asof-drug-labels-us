@@ -48,7 +48,7 @@ Talk to your doctor before taking ACTOS if you have either of these conditions.
 
 What should I tell my doctor before taking ACTOS?
 
-Before you take starting ACTOS, tell your doctor if you:
+Before you start taking ACTOS, tell your doctor if you:
 
 - have heart failure
 - have type 1 ("juvenile") diabetes or had diabetic ketoacidosis
@@ -109,7 +109,14 @@ ACTOS may cause serious side effects including:
   - yellowing of your skin or the whites of your eyes
 - broken bones (fractures).
   Usually in the hand, upper arm, or foot in women.
-  Talk to your doctor for advice on how to keep your bones healthy
+  Talk to your doctor for advice on how to keep your bones healthy.
+- bladder cancer.
+  There may be an increased chance of having bladder cancer when you take ACTOS.
+  You should not take ACTOS if you are receiving treatment for bladder cancer.
+  Tell your doctor right away if you have any of the following symptoms of bladder cancer:
+  - blood or a red color in your urine
+  - an increased need to urinate
+  - pain while you urinate
 - low blood sugar (hypoglycemia).
   This can happen if you skip meals, if you also use another medicine that lowers blood sugar, or if you have certain medical problems.
   Lightheadedness, dizziness, shakiness, or hunger may happen if your blood sugar is too low.
@@ -120,10 +127,6 @@ ACTOS may cause serious side effects including:
 - release of an egg from an ovary in a woman (ovulation) leading to pregnancy.
   Ovulation may happen when premenopausal women who do not have regular monthly periods take ACTOS.
   This can increase your chance of getting pregnant
-- bladder cancer.
-  There may be a small chance of bladder cancer with ACTOS.
-  This is still being tested.
-  Tell your doctor right away if you see blood or a red color in your urine.
 
 The most common side effects of ACTOS include:
 
@@ -171,4 +174,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015 © 2009-2011 Takeda Pharmaceuticals America, Inc.
 
-January 2011 ACT003 R15/MG
+July 2011 ACT003 R16

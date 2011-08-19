@@ -47,7 +47,7 @@ Table 18: Glycemic Parameters in a 24-Week Placebo-Controlled Forced-Titration M
 | Fasting Plasma Glucose (mg/dL) | N=78 | N=82 | N=85 |
 | Baseline (mean) | 279 | 268 | 281 |
 | Change from baseline (adjusted mean) | 18 | -44 | -50 |
-| Difference from placebo (adjusted mean) 95% Confidence Interval |  | -62 (-82, -.41) | -68 (-88, -.48) |
+| Difference from placebo (adjusted mean) 95% Confidence Interval |  | -62 (-82, -0.41) | -68 (-88, -0.48) |
 
 In a 16-week monotherapy trial, 197 patients with type 2 diabetes were randomized to treatment with 30 mg of ACTOS or placebo once daily.
 Therapy with any previous antidiabetic agent was discontinued 6 weeks prior to the double-blind period.
@@ -170,7 +170,7 @@ Table 24: Glycemic Parameters in a 16-Week Placebo-Controlled, Add-on to Insulin
 
 |  | Placebo + Insulin | ACTOS 15 mg + Insulin | ACTOS 30 mg + Insulin |
 | --- | --- | --- | --- |
-| Total Population A1C (%) |  |  |  |
+| Total Population |  |  |  |
 | HbA1C (%) | N=177 | N=177 | N=185 |
 | Baseline (mean) | 9.8 | 9.8 | 9.8 |
 | Change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | -0.3 | -1.0 | -1.3 |
