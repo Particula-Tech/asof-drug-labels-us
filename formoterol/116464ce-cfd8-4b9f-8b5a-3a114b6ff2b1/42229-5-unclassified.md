@@ -4,6 +4,4 @@ Copyright © 2010 Schering Corporation, a subsidiary of Merck & Co., Inc. All ri
 U.S. Patent Nos. 6,068,832; 7,067,502; and 7,566,705.
 The trademarks depicted in this piece are owned by their respective companies.
 
-Issued Month Year
-
-XXXXXXX
+07/2011 35196102T

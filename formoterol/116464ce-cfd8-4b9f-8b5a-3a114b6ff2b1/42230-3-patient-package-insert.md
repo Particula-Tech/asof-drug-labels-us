@@ -61,7 +61,7 @@ Figure 3
 - 8.When you have finished breathing in, hold your breath as long as you comfortably can, up to 10 seconds.
   Then remove the inhaler from your mouth and breathe out through your nose, while keeping your lips closed.
 - 9.Wait at least 30 seconds, to take your second puff of DULERA.
-- 10.Shake the inhaler well again and repeat steps 3 through 5 before you take your second puff of DULERA.
+- 10.Shake the inhaler well again and repeat steps 6 through 8 before you take your second puff of DULERA.
 
 After using your DULERA inhaler:
 
@@ -103,13 +103,13 @@ Routine cleaning instructions:
 - Do not attempt to unblock the actuator with a sharp object, such as a pin.
 - Do not wash or put any parts of your inhaler in water.
 
-Manufactured by 3M Health Care Ltd., Loughborough, United Kingdom.
-Manufactured for Schering Corporation, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889 USA.
+Manufactured by: 3M Health Care Ltd., Loughborough, United Kingdom.
 
-Month Year
+Issued Month Year
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Copyright © 2010 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
-The trademarks depicted in this piece are owned by their respective companies.
+Copyright © 2010 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved The trademarks depicted in this piece are owned by their respective companies.
 FORADIL is a registered trademark of Astellas Pharma Inc. AEROLIZER is a registered trademark of Novartis AG.
 NORVIR and KALETRA are registered trademarks of Abbott Laboratories.
+
+XXXXXXX
