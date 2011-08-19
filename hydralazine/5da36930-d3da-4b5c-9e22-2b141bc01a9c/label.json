@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA040901"
+  ],
+  "inn": "hydralazine",
+  "labeler": "Camber Pharmaceuticals",
+  "package_ndcs": [
+    "31722-519-01",
+    "31722-519-05",
+    "31722-519-10",
+    "31722-520-01",
+    "31722-520-05",
+    "31722-520-10",
+    "31722-521-01",
+    "31722-521-05",
+    "31722-521-10",
+    "31722-522-01",
+    "31722-522-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydralazine hydrochloride",
+      "name": "Hydralazine Hydrochloride"
+    }
+  ],
+  "setid": "5da36930-d3da-4b5c-9e22-2b141bc01a9c",
+  "source": "dailymed"
+}
