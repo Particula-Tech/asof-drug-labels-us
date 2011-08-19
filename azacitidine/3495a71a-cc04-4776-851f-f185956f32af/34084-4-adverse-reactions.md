@@ -210,4 +210,4 @@ Vascular disorders: orthostatic hypotension.
 
 ## 6.3 Postmarketing Experience
 
-Adverse reactions identified from spontaneous reports have been similar to those reported during clinical trials with VIDAZA.
+Reports of interstitial lung disease have been received in the post-marketing setting.

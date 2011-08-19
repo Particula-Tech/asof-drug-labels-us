@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050794"
+  ],
   "inn": "azacitidine",
   "labeler": "Celgene Corporation",
   "package_ndcs": [
     "59572-102-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "azacitidine",
+      "name": "VIDAZA"
+    }
+  ],
   "setid": "3495a71a-cc04-4776-851f-f185956f32af",
   "source": "dailymed"
 }

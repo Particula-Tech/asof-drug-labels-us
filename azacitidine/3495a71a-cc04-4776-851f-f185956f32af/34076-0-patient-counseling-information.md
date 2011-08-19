@@ -15,3 +15,5 @@ Advise men not to father a child while receiving treatment with VIDAZA.
 |  | Or |
 |  | Baxter Oncology GmbH |
 |  | 33790 Halle/Westfalen Germany |
+
+VIDAZA® is a registered trademark of Celgene Corporation. ©2004-2011 Celgene Corporation, All Rights Reserved.
