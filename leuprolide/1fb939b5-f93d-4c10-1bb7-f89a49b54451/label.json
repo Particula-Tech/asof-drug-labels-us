@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020263",
+    "PART333"
+  ],
+  "inn": "leuprolide",
+  "labeler": "Abbott Laboratories",
+  "package_ndcs": [
+    "0074-3779-03",
+    "0074-9694-03"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "leuprolide acetate",
+      "name": "Lupron Depot-PED"
+    }
+  ],
+  "setid": "1fb939b5-f93d-4c10-1bb7-f89a49b54451",
+  "source": "dailymed"
+}
