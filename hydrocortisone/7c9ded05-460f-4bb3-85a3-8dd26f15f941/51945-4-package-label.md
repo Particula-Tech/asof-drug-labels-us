@@ -1,7 +1,8 @@
 # PRINCIPAL DISPLAY PANEL
 
-15mg
+NDC 14290-313-15
 
-45 mg
+Locoid Lipocream® (hydrocortisone butyrate 0.1%) Cream
 
-60mg
+Net Wt.
+15 grams

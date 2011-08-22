@@ -17,9 +17,9 @@ No treatment related effects on embryofetal toxicity or teratogenicity were note
 
 Subcutaneous doses of 0.1, 0.2 and 0.3 mg/kg/day hydrocortisone butyrate were administered to pregnant female rabbits during gestation days 7 - 20.
 An increased incidence of abortion was noted at 0.3 mg/kg/day (0.2X MTHD).
-In the absence of maternal toxicity, a dose dependent decrease in fetal body weight was noted at doses =0.1 mg/kg/day (0.1X MTHD).
-Additional indicators of embryofetal toxicity (reduction in litter size, decreased number of viable fetuses, increased post-implantation loss) were noted at doses =0.2 mg/kg/day (0.2X MTHD).
-Additional fetal effects noted in this study included delayed ossification noted at doses =0.1 mg/kg/day and an increased incidence of fetal malformations (primarily skeletal malformations) noted at doses =0.2 mg/kg/day.
+In the absence of maternal toxicity, a dose dependent decrease in fetal body weight was noted at doses ≥0.1 mg/kg/day (0.1X MTHD).
+Additional indicators of embryofetal toxicity (reduction in litter size, decreased number of viable fetuses, increased post-implantation loss) were noted at doses ≥0.2 mg/kg/day (0.2X MTHD).
+Additional fetal effects noted in this study included delayed ossification noted at doses ≥0.1 mg/kg/day and an increased incidence of fetal malformations (primarily skeletal malformations) noted at doses ≥0.2 mg/kg/day.
 A dose at which no treatment related effects on embryofetal toxicity or teratogenicity were observed was not established in this study.
 
 Additional systemic embryofetal development studies were conducted in rats and mice.
@@ -41,7 +41,7 @@ No treatment related effects on teratogenicity were noted at a dose of 10% hydro
 
 A peri- and post-natal development study was conducted in rats.
 Subcutaneous doses of 0.6, 1.8 and 5.4 mg/kg/day hydrocortisone butyrate were administered to pregnant female rats from gestation day 6 - lactation day 20.
-In the presence of maternal toxicity, a dose dependent decrease in fetal weight was noted at doses =1.8 mg/kg/day (0.7X MTHD).
+In the presence of maternal toxicity, a dose dependent decrease in fetal weight was noted at doses ≥1.8 mg/kg/day (0.7X MTHD).
 No treatment related effects on fetal toxicity were noted at 0.6 mg/kg/day (0.2X MTHD).
 A delay in sexual maturation was noted at 5.4 mg/kg/day (2X MTHD).
 No treatment related effects on sexual maturation were noted at 1.8 mg/kg/day.
