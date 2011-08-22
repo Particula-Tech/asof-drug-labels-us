@@ -19,7 +19,8 @@ Caution should be exercised when administering LEVOXYL® to patients with underl
 
 ## Specific Patient Populations:
 
-Hypothyroidism in Adults and in Children in Whom Growth and Puberty are Complete (see WARNINGS and PRECAUTIONS,Laboratory Tests)Therapy may begin at full replacement doses in otherwise healthy individuals less than 50 years old and in those older than 50 years who have been recently treated for hyperthyroidism or who have been hypothyroid for only a short time (such as a few months).
+Hypothyroidism in Adults and in Children in Whom Growth and Puberty are Complete (see WARNINGS and PRECAUTIONS,Laboratory Tests).
+Therapy may begin at full replacement doses in otherwise healthy individuals less than 50 years old and in those older than 50 years who have been recently treated for hyperthyroidism or who have been hypothyroid for only a short time (such as a few months).
 The average full replacement dose of levothyroxine sodium is approximately 1.7 mcg/kg/day (e.g., 100—125 mcg/day for a 70 kg adult).
 Older patients may require less than 1 mcg/kg/day.
 Levothyroxine sodium doses greater than 200 mcg/day are seldom required.

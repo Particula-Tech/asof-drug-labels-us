@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021301"
+  ],
   "inn": "levothyroxine",
   "labeler": "King Pharmaceuticals, Inc.",
   "package_ndcs": [
@@ -26,7 +28,13 @@
     "60793-860-01",
     "60793-860-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levothyroxine sodium",
+      "name": "LEVOXYL"
+    }
+  ],
   "setid": "758588c3-c63e-491b-0aa2-4f50d80cb174",
   "source": "dailymed"
 }
