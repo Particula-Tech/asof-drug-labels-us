@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL- 5 mg vial box
 
-NSN 6505-00-268-8530 NDC 0045-0255-01
+NSN 6505-00-268-8530 NDC 50458-255-01
 
 Usual Dosage For dosage and other prescribing information, see accompanying product literature.
 

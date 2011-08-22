@@ -76,7 +76,7 @@ HALDOL should be used during pregnancy only if the potential benefit justifies t
 
 ## Combined Use of HALDOL and Lithium
 
-An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN, and FBS) followed by irreversible brain damage has occurred in a few patients treated with lithium plus HALDOL.
+An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN, and fasting blood sugar) followed by irreversible brain damage has occurred in a few patients treated with lithium plus HALDOL.
 A causal relationship between these events and the concomitant administration of lithium and HALDOL has not been established; however, patients receiving such combined therapy should be monitored closely for early evidence of neurological toxicity and treatment discontinued promptly if such signs appear.
 
 ## General
@@ -86,11 +86,6 @@ It has been postulated that lethargy and decreased sensation of thirst due to ce
 Therefore, if the above signs and symptoms appear, especially in the elderly, the physician should institute remedial therapy promptly.
 
 Although not reported with HALDOL, decreased serum cholesterol and/or cutaneous and ocular changes have been reported in patients receiving chemically-related drugs.
-
-HALDOL may impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle.
-The ambulatory patient should be warned accordingly.
-
-The use of alcohol with this drug should be avoided due to possible additive effects and hypotension.
 
 # PRECAUTIONS
 
@@ -119,19 +114,67 @@ HALDOL (haloperidol) should be administered cautiously to patients:
 - –with known allergies, or with a history of allergic reactions to drugs.
 - –receiving anticoagulants, since an isolated instance of interference occurred with the effects of one anticoagulant (phenindione).
 
+When HALDOL is used to control mania in cyclic disorders, there may be a rapid mood swing to depression.
+
+Severe neurotoxicity (rigidity, inability to walk or talk) may occur in patients with thyrotoxicosis who are also receiving antipsychotic medication, including HALDOL.
+
+## Drug Interactions
+
+Drug-drug interactions can be pharmacodynamic (combined pharmacologic effects) or pharmacokinetic (alteration of plasma levels).
+The risks of using haloperidol in combination with other drugs have been evaluated as described below.
+
+### Pharmacodynamic Interactions
+
+Since QT-prolongation has been observed during Haldol treatment, caution is advised when prescribing to a patient with QT-prolongation conditions (long QT-syndrome, hypokalemia, electrolyte imbalance) or to patients receiving medications known to prolong the QT-interval or known to cause electrolyte imbalance.
+
 If concomitant antiparkinson medication is required, it may have to be continued after HALDOL is discontinued because of the difference in excretion rates.
 If both are discontinued simultaneously, extrapyramidal symptoms may occur.
 The physician should keep in mind the possible increase in intraocular pressure when anticholinergic drugs, including antiparkinson agents, are administered concomitantly with HALDOL.
 
-As with other antipsychotic agents, it should be noted that HALDOL may be capable of potentiating CNS depressants such as anesthetics, opiates, and alcohol.
+As with other antipsychotic agents, it should be noted that HALDOL may be capable of potentiating CNS depressants such as anesthetics, opiates and alcohol.
 
-In a study of 12 schizophrenic patients coadministered haloperidol and rifampin, plasma haloperidol levels were decreased by a mean of 70% and mean scores on the Brief Psychiatric Rating Scale were increased from baseline.
+Ketoconazole is a potent inhibitor of CYP3A4.
+Increases in QTc have been observed when haloperidol was given in combination with the metabolic inhibitors ketoconazole (400 mg/day) and paroxetine (20 mg/day).
+It may be necessary to reduce the haloperidol dosage.
+
+### Pharmacokinetic Interactions
+
+#### The Effect of Other Drugs on Haldol®
+
+Haloperidol is metabolized by several routes, including the glucuronidation and the cytochrome P450 enzyme system.
+Inhibition of these routes of metabolism by another drug may result in increased haloperidol concentrations and potentially increase the risk of certain adverse events, including QT-prolongation.
+
+#### Drugs Characterized as Substrates, Inhibitors or Inducers of CYP3A4, CYP2D6 or Glucuronidation
+
+In pharmacokinetic studies, mild to moderately increased haloperidol concentrations have been reported when haloperidol was given concomitantly with drugs characterized as substrates or inhibitors of CYP3A4 or CYP2D6 isoenzymes, such as itraconazole, nefazodone, buspirone, venlafaxine, alprazolam, fluvoxamine, quinidine, fluoxetine, sertraline, chlorpromazine, and promethazine.
+
+When prolonged treatment (1–2 weeks) with enzyme-inducing drugs such as rifampin or carbamazepine is added to Haldol therapy, this results in a significant reduction of haloperidol plasma levels.
+
+#### Rifampin
+
+In a study of 12 schizophrenic patients coadministered oral haloperidol and rifampin, plasma haloperidol levels were decreased by a mean of 70% and mean scores on the Brief Psychiatric Rating Scale were increased from baseline.
 In 5 other schizophrenic patients treated with haloperidol and rifampin, discontinuation of rifampin produced a mean 3.3-fold increase in haloperidol concentrations.
-Thus, careful monitoring of clinical status is warranted when rifampin is administered or discontinued in haloperidol-treated patients.
 
-When HALDOL is used to control mania in cyclic disorders, there may be a rapid mood swing to depression.
+#### Carbamazepine
 
-Severe neurotoxicity (rigidity, inability to walk or talk) may occur in patients with thyrotoxicosis who are also receiving antipsychotic medication, including HALDOL.
+In a study in 11 schizophrenic patients co-administered haloperidol and increasing doses of carbamazepine, haloperidol plasma concentrations decreased linearly with increasing carbamazepine concentrations.
+
+Thus, careful monitoring of clinical status is warranted when enzyme inducing drugs such as rifampin or carbamazepine are administered or discontinued in haloperidol-treated patients.
+During combination treatment, the Haldol dose should be adjusted, when necessary.
+After discontinuation of such drugs, it may be necessary to reduce the dosage of Haldol.
+
+#### Valproate
+
+Sodium valproate, a drug know to inhibit glucuronidation, does not affect haloperidol plasma concentrations.
+
+## Information for Patients
+
+HALDOL may impair the mental and/or physical abilities required for the performance of hazardous tasks such as operating machinery or driving a motor vehicle.
+The ambulatory patient should be warned accordingly.
+
+The use of alcohol with this drug should be avoided due to possible additive effects and hypotension.
+
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 No mutagenic potential of haloperidol was found in the Ames Salmonella microsomal activation assay.
 Negative or inconsistent positive findings have been obtained in in vitro and in vivo studies of effects of haloperidol on chromosome structure and number.
@@ -155,7 +198,10 @@ There are no well controlled studies with HALDOL (haloperidol) in pregnant women
 There are reports, however, of cases of limb malformations observed following maternal use of HALDOL along with other drugs which have suspected teratogenic potential during the first trimester of pregnancy.
 Causal relationships were not established in these cases.
 Since such experience does not exclude the possibility of fetal damage due to HALDOL, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus.
-Infants should not be nursed during drug treatment.
+
+## Nursing Mothers
+
+Since haloperidol is excreted in human breast milk, infants should not be nursed during drug treatment with haloperidol.
 
 ## Pediatric Use
 
