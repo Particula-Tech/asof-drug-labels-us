@@ -85,23 +85,23 @@ Who should not take paroxetine tablets?
 
 Do not take paroxetine tablets if you:
 
-- are allergic to paroxetine hydrochloride or any of the ingredients in paroxetine tablets.
+- are allergic to paroxetine or any of the ingredients in paroxetine tablets.
   See the end of this Medication Guide for a complete list of ingredients in paroxetine tablets.
-- take a Monoamine Oxidase Inhibitor (MAOI), such as PARNATE®* (tranylcypromine), NARDIL®* (phenelzine) or the antibiotic ZYVOX®* (linezolid).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI.
-  - Do not take an MAOI within 2 weeks of stopping paroxetine tablets.
-  - Do not start paroxetine tablets if you stopped taking an MAOI in the last 2 weeks.
-  - People who take paroxetine tablets close in time to an MAOI may have serious or even life threatening side effects.
-    Get medical help right away if you have any of these symptoms:
-    - high fever
-    - uncontrolled muscle spasms
-    - stiff muscles
-    - rapid changes in heart rate or blood pressure
-    - confusion
-    - loss of consciousness (pass out)
-  - take MELLARIL®* (thioridazine).
-    Do not take MELLARIL®* together with paroxetine tablets because this can cause serious heart rhythm problems or sudden death.
-  - take the antipsychotic medicine pimozide (ORAP®*) because this can cause serious heart problems.
+- take a Monoamine Oxidase Inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+- Do not take an MAOI within 2 weeks of stopping paroxetine tablets unless directed to do so by your physician.
+- Do not start paroxetine tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
+- People who take paroxetine tablets close in time to an MAOI may have serious or even life threatening side effects.
+  Get medical help right away if you have any of these symptoms:
+  - high fever
+  - uncontrolled muscle spasms
+  - stiff muscles
+  - rapid changes in heart rate or blood pressure
+  - confusion
+  - loss of consciousness (pass out)
+- take MELLARIL®* (thioridazine).
+  Do not take MELLARIL®* together with paroxetine tablets because this can cause serious heart rhythm problems or sudden death.
+- take the antipsychotic medicine pimozide (ORAP®*) because this can cause serious heart problems.
 
 What should I tell my healthcare provider before taking paroxetine tablets?
 Ask if you are not sure.
@@ -217,4 +217,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED MAY 2011 PXTT:R6mpbmt/MG:PXTT:R1mpb/MG:PXTT:R1mt
+REVISED AUGUST 2011 PXTT:R7mpbmt/MG:PXTT:R2mpb/MG:PXTT:R2mt

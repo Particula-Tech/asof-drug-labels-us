@@ -55,12 +55,9 @@ It should be noted that paroxetine hydrochloride is not approved for use in trea
 
 ## Potential for Interaction With Monoamine Oxidase Inhibitors
 
-In patients receiving another serotonin reuptake inhibitor drug in combination with a monoamine oxidase inhibitor (MAOI), there have been reports of serious, sometimes fatal, reactions including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
+In patients receiving another serotonin reuptake inhibitor drug in combination with monoamine oxidase inhibitor (MAOIs), including reversible MAOIs such as linezolid and methylene blue, there have been reports of serious, sometimes fatal, reactions including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
 These reactions have also been reported in patients who have recently discontinued that drug and have been started on an MAOI.
-Some cases presented with features resembling neuroleptic malignant syndrome.
-While there are no human data showing such an interaction with paroxetine hydrochloride, limited animal data on the effects of combined use of paroxetine and MAOIs suggest that these drugs may act synergistically to elevate blood pressure and evoke behavioral excitation.
-Therefore, it is recommended that paroxetine hydrochloride not be used in combination with an MAOI (including linezolid, an antibiotic which is a reversible nonselective MAOI) and methylthioninium chloride [methylene blue] or within 14 days of discontinuing treatment with an MAOI (see CONTRADICATIONS).
-At least 2 weeks should be allowed after stopping paroxetine hydrochloride before starting an MAOI.
+Some cases presented with features resembling serotonin syndrome or NMS-like reactions (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
 ## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
@@ -239,7 +236,7 @@ Paroxetine tablets should not be chewed or crushed, and should be swallowed whol
 Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of paroxetine hydrochloride and triptans, tramadol, or other serotonergic agents.
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with paroxetine hydrochloride and should counsel them in its appropriate use.
-A patient Medication Guide about ‘Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions’ is available for paroxetine hydrochloride.
+A patient Medication Guide is available for paroxetine hydrochloride.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
