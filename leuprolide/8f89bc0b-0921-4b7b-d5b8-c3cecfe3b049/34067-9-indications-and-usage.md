@@ -1,17 +1,9 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-LUPRON DEPOT-PED is indicated in the treatment of children with central precocious puberty.
-Children should be selected using the following criteria:
+LUPRON DEPOT-PED is indicated in the treatment of children with central precocious puberty (CPP).
 
-1. Clinical diagnosis of CPP (idiopathic or neurogenic) with onset of secondary sexual characteristics earlier than 8 years in females and 9 years in males.
-2. Clinical diagnosis should be confirmed prior to initiation of therapy:
-   - Confirmation of diagnosis by a pubertal response to a GnRH stimulation test.
-     The sensitivity and methodology of this assay must be understood.
-   - Bone age advanced one year beyond the chronological age.
-3. Baseline evaluation should also include:
-   - Height and weight measurements.
-   - Sex steroid levels.
-   - Adrenal steroid level to exclude congenital adrenal hyperplasia.
-   - Beta human chorionic gonadotropin level to rule out a chorionic gonadotropin-secreting tumor.
-   - Pelvic/adrenal/testicular ultrasound to rule out a steroid secreting tumor.
-   - Computerized tomography of the head to rule out intracranial tumor.
+CPP is defined as early onset of secondary sexual characteristics (generally earlier than 8 years of age in girls and 9 years of age in boys) associated with pubertal pituitary gonadotropin activation.
+It may show a significantly advanced bone age that can result in diminished adult height.
+
+Prior to initiation of treatment a clinical diagnosis of CPP should be confirmed by measurement of blood concentrations of luteinizing hormone (LH) (basal or stimulated with a GnRH analog), sex steroids, and assessment of bone age versus chronological age.
+Baseline evaluations should include height and weight measurements, diagnostic imaging of the brain (to rule out intracranial tumor), pelvic/testicular/adrenal ultrasound (to rule out steroid secreting tumors), human chorionic gonadotropin levels (to rule out a chorionic gonadotropin secreting tumor), and adrenal steroid measurements to exclude congenital adrenal hyperplasia.

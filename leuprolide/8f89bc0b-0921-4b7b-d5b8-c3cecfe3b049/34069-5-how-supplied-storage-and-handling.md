@@ -1,6 +1,6 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-LUPRON DEPOT-PED is packaged as follows:
+LUPRON DEPOT-PED–1 Month is packaged as follows:
 
 | Kit with prefilled dual-chamber syringe | 7.5 mg | NDC 0074-2108-03 |
 | --- | --- | --- |
@@ -12,11 +12,9 @@ When mixed with 1 milliliter of accompanying diluent, LUPRON DEPOT-PED is admini
 
 Each kit contains:
 
-- one prefilled dual-chamber syringe containing 1½ inch needle with LuproLocTM safety device
+- one prefilled dual-chamber syringe containing 1½ inch needle with LuproLoc® safety device
 - one plunger
 - two alcohol swabs
-- instructions for how to mix and administer
-- an information pamphlet for patients
 - a complete prescribing information enclosure
 
 Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [See USP Controlled Room Temperature]

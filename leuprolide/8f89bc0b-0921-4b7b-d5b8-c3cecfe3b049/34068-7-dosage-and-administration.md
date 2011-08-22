@@ -1,46 +1,54 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 Dose and Principles of Dosing
 
 LUPRON DEPOT-PED must be administered under the supervision of a physician.
 
-The dose of LUPRON DEPOT-PED must be individualized for each child.
-The dose is based on a mg/kg ratio of drug to body weight.
-Younger children require higher doses on a mg/kg ratio.
+LUPRON DEPOT-PED is administered as a single intramuscular injection once a month.
+The starting dose will be dictated by the child's weight, as indicated in the table below.
 
-For each dosage form, after 1-2 months of initiating therapy or changing doses, the child must be monitored with a GnRH stimulation test, sex steroids, and Tanner staging to confirm downregulation.
-Measurements of bone age for advancement should be monitored every 6-12 months.
-The dose should be titrated upward until no progression of the condition is noted either clinically and/or by laboratory parameters.
+Table 1.
+Dosing Recommendations Based on Body Weight for LUPRON DEPOT-PED–1 Month Formulations
 
-The first dose found to result in adequate downregulation can probably be maintained for the duration of therapy in most children.
-However, there are insufficient data to guide dosage adjustment as patients move into higher weight categories after beginning therapy at very young ages and low dosages.
-It is recommended that adequate downregulation be verified in such patients whose weight has increased significantly while on therapy.
-
-Discontinuation of LUPRON DEPOT-PED should be considered before age 11 for females and age 12 for males.
-
-The recommended starting dose is 0.3 mg/kg/4 weeks (minimum 7.5 mg) administered as a single intramuscular injection.
-The starting dose will be dictated by the child's weight.
-
-| ≤ 25 kg | 7.5 mg |
+| Body Weight | Recommended Dose |
 | --- | --- |
+| ≤ 25 kg | 7.5 mg |
 | > 25-37.5 kg | 11.25 mg |
 | > 37.5 kg | 15 mg |
 
-If total downregulation is not achieved, the dose should be titrated upward in increments of 3.75 mg every 4 weeks.
-This dose will be considered the maintenance dose.
+The dose of LUPRON DEPOT-PED must be individualized for each child.
+If adequate hormonal and clinical suppression is not achieved with the starting dose, it should be increased to the next available higher dose (e.g.
+11.25 mg or 15 mg at the next monthly injection).
+Similarly, the dose may be adjusted with changes in body weight.
+The injection site should be varied periodically.
 
-The lyophilized microspheres are to be reconstituted and administered as a single intramuscular injection.
-For optimal performance of the prefilled dual chamber syringe (PDS), read and follow the following instructions:
+The goal of therapy is to suppress pituitary gonadotropins and peripheral sex steroids, and to arrest progression of secondary sexual characteristics.
+Hormonal and clinical parameters should be monitored after 1–2 months of initiating therapy and with each dose change to ensure adequate pituitary gonadotropin suppression.
+Once a dose that results in adequate hormonal suppression is found, it can often be maintained for the duration of therapy in most children.
+It is recommended, however, that adequate hormonal suppression be verified in such patients as weight can increase significantly while on therapy.
+
+Each LUPRON DEPOT-PED strength and formulation has different release characteristics.
+Do not use partial syringes or a combination of syringes to achieve a particular dose.
+
+LUPRON DEPOT-PED should be discontinued at the appropriate age of onset of puberty at the discretion of the physician.
+
+For optimal performance of the prefilled dual chamber syringe (PDS), read and follow the instructions in Section 2.2.
+
+## 2.2 Reconstitution and Administration Instructions
 
 - The lyophilized microspheres are to be reconstituted and administered as a single intramuscular injection.
-- Since LUPRON DEPOT-PED does not contain a preservative, the suspension should be discarded if not used immediately.
+- Since LUPRON DEPOT-PED does not contain a preservative, the suspension should be injected immediately or discarded if not used within two hours.
 
-1. The LUPRON DEPOT powder should be visually inspected and the syringe should NOT BE USED if clumping or caking is evident.
-   A thin layer of powder on the wall of the syringe is considered normal.
+- As with other drugs administered by injection, the injection site should be varied periodically.
+
+1. The LUPRON DEPOT-PED powder should be visually inspected and the syringe should NOT BE USED if clumping or caking is evident.
+   A thin layer of powder on the wall of the syringe is considered normal prior to mixing with the diluent.
    The diluent should appear clear.
 2. To prepare for injection, screw the white plunger into the end stopper until the stopper begins to turn.
 3. Hold the syringe UPRIGHT.
    Release the diluent by SLOWLY PUSHING (6 to 8 seconds) the plunger until the first stopper is at the blue line in the middle of the barrel.
 4. Keep the syringe UPRIGHT.
-   Gently mix the microspheres (powder) thoroughly to form a uniform suspension.
+   Mix the microspheres (powder) thoroughly by gently shaking the syringe until the powder forms a uniform suspension.
    The suspension will appear milky.
    If the powder adheres to the stopper or caking/clumping is present, tap the syringe with your finger to disperse.
    DO NOT USE if any of the powder has not gone into suspension.
@@ -48,16 +56,16 @@ For optimal performance of the prefilled dual chamber syringe (PDS), read and fo
    With the opposite hand pull the needle cap upward without twisting.
 6. Keep the syringe UPRIGHT.
    Advance the plunger to expel the air from the syringe.
-   NOTE: Aspirated blood would be visible just below the luer lock connection if a blood vessel is accidentally penetrated.
-   If present, blood can be seen through the transparent LuproLoc™ safety device.
+   Now the syringe is ready for injection.
+7. After cleaning the injection site with an alcohol swab, the intramuscular injection should be performed by inserting the needle at a 90 degree angle into the gluteal area, anterior thigh, or shoulder; injection sites should be alternated.NOTE: Aspirated blood would be visible just below the luer lock connection if a blood vessel is accidentally penetrated.
+   If present, blood can be seen through the transparent LuproLoc® safety device.
    If blood is present remove the needle immediately.
    Do not inject the medication.
-7. Inject the entire contents of the syringe intramuscularly at the time of reconstitution.
-   The suspension settles very quickly following reconstitution; therefore, LUPRON DEPOT should be mixed and used immediately.
-   AFTER INJECTION
-8. Withdraw the needle.
-   Immediately activate the LuproLoc™ safety device by pushing the arrow forward with the thumb or finger until the device is fully extended and a CLICK is heard or felt.
+8. Inject the entire contents of the syringe intramuscularly at the time of reconstitution.
+   The suspension settles very quickly following reconstitution; therefore, LUPRON DEPOT-PED should be mixed and used immediately.AFTER INJECTION
+9. Withdraw the needle.
+   Once the syringe has been withdrawn, activate immediately the LuproLoc® safety device by pushing the arrow on the lock upward towards the needle tip with the thumb or finger, as illustrated, until the needle cover of the safety device is fully extended over the needle and a CLICK is heard or felt.
 
-Since the product does not contain a preservative, the suspension should be discarded if not used immediately.
+ADDITIONAL INFORMATION
 
-As with other drugs administered by injection, the injection site should be varied periodically.
+- Dispose of the syringe according to local regulations/procedures.

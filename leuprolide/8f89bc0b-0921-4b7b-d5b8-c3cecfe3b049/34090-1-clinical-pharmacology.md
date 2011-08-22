@@ -1,4 +1,6 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
 
 Leuprolide acetate, a GnRH agonist, acts as a potent inhibitor of gonadotropin secretion when given continuously and in therapeutic doses.
 Human studies indicate that following an initial stimulation of gonadotropins, chronic stimulation with leuprolide acetate results in suppression or "downregulation" of these hormones and consequent suppression of ovarian and testicular steroidogenesis.
@@ -6,13 +8,13 @@ These effects are reversible on discontinuation of drug therapy.
 
 Leuprolide acetate is not active when given orally.
 
-## Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 ### Absorption
 
-Following a single LUPRON DEPOT 7.5 mg injection to adult patients, mean peak leuprolide plasma concentration was almost 20 ng/mL at 4 hours and then declined to 0.36 ng/mL at 4 weeks.
+Following a single LUPRON DEPOT-PED–1 Month 7.5 mg injection to adult patients, mean peak leuprolide plasma concentration was almost 20 ng/mL at 4 hours and then declined to 0.36 ng/mL at 4 weeks.
 However, intact leuprolide and an inactive major metabolite could not be distinguished by the assay which was employed in the study.
-Nondetectable leuprolide plasma concentrations have been observed during chronic LUPRON DEPOT 7.5 mg administration, but testosterone levels appear to be maintained at castrate levels.
+Nondetectable leuprolide plasma concentrations have been observed during chronic LUPRON DEPOT-PED 7.5 mg administration, but testosterone levels appear to be maintained at castrate levels.
 
 ### Distribution
 
@@ -32,6 +34,11 @@ One week after dosing, mean plasma M-I concentrations were approximately 20% of 
 
 Following administration of LUPRON DEPOT 3.75 mg to 3 patients, less than 5% of the dose was recovered as parent and M-I metabolite in the urine.
 
-### Special Populations
+### Specific Populations
 
-The pharmacokinetics of the drug in hepatically and renally impaired patients have not been determined.
+The pharmacokinetics of the drug has not been determined in patients with hepatic and renal impairment.
+
+### Drug-Drug Interactions
+
+No pharmacokinetic-based drug-drug interaction studies have been conducted with LUPRON DEPOT-PED–1 Month.
+However, because leuprolide acetate is a peptide that is primarily degraded by peptidase and not by cytochrome P-450 enzymes as noted in specific studies, and the drug is only about 46% bound to plasma proteins, drug interactions are not expected to occur.

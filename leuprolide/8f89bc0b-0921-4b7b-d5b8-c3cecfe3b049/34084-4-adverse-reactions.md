@@ -1,19 +1,27 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Clinical Trials
+The most common adverse reactions with GnRH agonists including LUPRON DEPOT-PED are injection site reactions/pain including abscess, general pain, headache, emotional lability and hot flushes/sweating.
 
-Potential exacerbation of signs and symptoms during the first few weeks of treatment (See PRECAUTIONS section.) is a concern in patients with rapidly advancing central precocious puberty.
+During the early phase of therapy, gonadotropins and sex steroids rise above baseline because of the natural initial stimulatory effect of the drug (hormonal flare effect).
+Therefore, an increase in clinical signs and symptoms may be observed [see Warnings and Precautions(5.1)].
+
+## 6.1 LUPRON DEPOT-PED–1 Month (7.5 mg, 11.25 mg, and 15 mg Injection) - Clinical Trials Experience
+
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
 In two studies of children with central precocious puberty, in 2% or more of the patients receiving the drug, the following adverse reactions were reported to have a possible or probable relationship to drug as ascribed by the treating physician.
 Reactions which are not considered drug-related are excluded.
 
-|  | N = 421 | (%) |
+Table 2.
+Percentage of Patients with Treatment-Emergent Adverse Reactions Occurring in ≥2% of Pediatric Patients Receiving LUPRON DEPOT-PED–1 Month.
+
+|  | Number of Patients (N = 421) |  |
 | --- | --- | --- |
-|  | Number of Patients |  |
+|  | N | (%) |
 | Body as a Whole |  |  |
+| Injection Site Reactions Including Abscess* | 37 | (9) |
 | General Pain | 12 | (3) |
 | Headache | 11 | (3) |
-| Injection Site Reactions Including Abscess* | 37 | (9) |
 | Cardiovascular System |  |  |
 | Vasodilation | 9 | (2) |
 | Integumentary System (Skin and Appendages) |  |  |
@@ -23,24 +31,41 @@ Reactions which are not considered drug-related are excluded.
 | Emotional Lability | 19 | (5) |
 | Urogenital System |  |  |
 | Vaginitis/Vaginal Bleeding/Vaginal Discharge | 13 | (3) |
-| *Most events were mild or moderate in severity. |  |  |
 
-In those same studies, the following adverse reactions were reported in less than 2% of the patients.
+*Most events were mild or moderate in severity.
 
-Body as a Whole – Aggravation of preexisting tumor and decreased vision, Allergic Reaction, Body Odor, Fever, Flu Syndrome, Hypertrophy, Infection; Cardiovascular System – Bradycardia, Hypertension, Peripheral Vascular Disorder, Syncope; Digestive System – Constipation, Dyspepsia, Dysphagia, Gingivitis, Increased Appetite, Nausea/Vomiting; Endocrine System - Accelerated Sexual Maturity, Feminization, Goiter; Hemic and Lymphatic System – Purpura; Metabolic and Nutritional Disorders – Growth Retarded, Peripheral Edema, Weight Gain; Musculoskeletal System – Arthralgia, Joint Disorder, Myalgia, Myopathy; Nervous System – Depression, Hyperkinesia, Nervousness, Somnolence; Respiratory System – Asthma, Epistaxis, Pharyngitis, Rhinitis, Sinusitis; Integumentary System (Skin and Appendages) - Alopecia, Hair Disorder, Hirsutism, Luekoderma, Nail Disorder, Skin Hypertrophy; Urogenital System - Cervix Disorder/Neoplasm, Dysmenorrhea, Gynecomastia/Breast Disorders, Menstrual Disorder, Urinary Incontinence.
+Less Common Adverse Reactions
 
-Laboratory: The following laboratory events were reported as adverse reactions, antinuclear antibody present and increased sedimentation rate.
+The following treatment-emergent adverse reactions were reported in less than 2% of the patients and are listed below by body system.
 
-## Postmarketing
+Body as a Whole – aggravation of preexisting tumor and decreased vision, allergic reaction, body odor, fever, flu syndrome, hypertrophy, infection; Cardiovascular System – bradycardia, hypertension, peripheral vascular disorder, syncope; Digestive System – constipation, dyspepsia, dysphagia, gingivitis, increased appetite, nausea/vomiting; Endocrine System - accelerated sexual maturity, feminization, goiter; Hemic and Lymphatic System – purpura; Metabolic and Nutritional Disorders – growth retarded, peripheral edema, weight gain; Musculoskeletal System – arthralgia, joint disorder, myalgia, myopathy; Nervous System – depression, hyperkinesia, nervousness, somnolence; Respiratory System – asthma, epistaxis, pharyngitis, rhinitis, sinusitis; Integumentary System (Skin and Appendages) – alopecia, hair disorder, hirsutism, leukoderma, nail disorder, skin hypertrophy; Urogenital System – cervix disorder/neoplasm, dysmenorrhea, gynecomastia/breast disorders, menstrual disorder, urinary incontinence.
 
-During postmarketing surveillance, which includes other dosage forms, the following adverse events were reported.
+Laboratory: The following laboratory events were reported as adverse reactions: antinuclear antibody present and increased sedimentation rate.
 
-Symptoms consistent with an anaphylactoid or asthmatic process have been rarely reported.
-Rash, urticaria, and photosensitivity reactions have also been reported.
+## 6.2 Postmarketing
 
-Localized reactions including induration and abscess have been reported at the site of injection.
+The following adverse events have been observed with this or other formulations of leuprolide acetate injection.
+As leuprolide has multiple indications, and therefore patient populations, some of these adverse events may not be applicable to every patient.
 
-Cardiovascular System - Hypotension; Hemic and Lymphatic System - Decreased WBC; Central/Peripheral Nervous System - Peripheral neuropathy, Convulsion, Spinal fracture/paralysis; Musculoskeletal System - Tenosynovitis-like symptoms; Urogenital System - Prostate pain.
+Allergic reactions (anaphylactic, rash, urticaria, and photosensitivity reactions) have also been reported.
+
+Gastrointestinal Disorders: nausea, abdominal pain, vomiting;
+
+General Disorders and Administration Site Conditions: chest pain, injection site reactions including induration and abscess have been reported;
+
+Investigations: decreased WBC, weight increased;
+
+Metabolism and Nutrition Disorders: diabetes mellitus;
+
+Musculoskeletal and Connective Tissue Disorders: tenosynovitis-like symptoms;
+
+Nervous System Disorders: neuropathy peripheral, convulsion, spinal fracture/paralysis;
+
+Skin and Subcutaneous Tissue Disorders: hot flush, flushing, hyperhidrosis;
+
+Reproductive System and Breast Disorders: prostate pain;
+
+Vascular Disorders: hypertension, hypotension.
 
 Pituitary apoplexy: During post-marketing surveillance, rare cases of pituitary apoplexy (a clinical syndrome secondary to infarction of the pituitary gland) have been reported after the administration of gonadotropin-releasing hormone agonists.
 In a majority of these cases, a pituitary adenoma was diagnosed, with a majority of pituitary apoplexy cases occurring within 2 weeks of the first dose, and some within the first hour.
