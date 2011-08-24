@@ -1,6 +1,6 @@
-# PRINCIPAL DISPLAY PANEL- 50 mg/mL box
+# PRINCIPAL DISPLAY PANEL - 50 mg/mL box
 
-NDC 0045-0253-03
+NDC 50458-253-03
 
 IM Use Only
 
@@ -27,11 +27,11 @@ The dose of HALDOL Decanoate 50 should be expressed in terms of its haloperidol 
 
 Dispense in a light-resistant container as defined in the official compendium.
 
-ORTHO-McNEIL
+ORTHO-McNEIL NEUROLOGICS, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
 
-# PRINCIPAL DISPLAY PANEL - 100 mg/mL Carton
+# PRINCIPAL DISPLAY PANEL - 100 mg/mL Box
 
-NDC 0045-0254-14
+NDC 50458-254-14
 
 IM Use Only
 
@@ -58,4 +58,4 @@ The dose of HALDOL Decanoate 100 should be expressed in terms of its haloperidol
 
 Dispense in a light-resistant container as defined in the official compendium.
 
-ORTHO-McNEIL NEUROLOGICS® Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
+ORTHO-McNEIL NEUROLOGICS Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.

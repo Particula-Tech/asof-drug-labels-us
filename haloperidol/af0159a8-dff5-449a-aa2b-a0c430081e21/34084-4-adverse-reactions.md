@@ -72,6 +72,7 @@ Neuroleptic malignant syndrome (NMS), hyperpyrexia and heat stroke have been rep
 
 Reports have appeared citing the occurrence of mild and usually transient leukopenia and leukocytosis, minimal decreases in red blood cell counts, anemia, or a tendency toward lymphomonocytosis.
 Agranulocytosis has rarely been reported to have occurred with the use of HALDOL, and then only in association with other medication.
+(See PRECAUTIONS: Leukopenia, Neutropenia, and Agranulocytosis.)
 
 ## Liver Effects
 
