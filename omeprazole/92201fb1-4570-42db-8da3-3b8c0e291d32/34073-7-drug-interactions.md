@@ -31,6 +31,9 @@ There are also some antiretroviral drugs of which unchanged serum levels have be
 ## 7.2 Drugs for Which Gastric pH Can Affect Bioavailablity
 
 Because of its profound and long lasting inhibition of gastric acid secretion, it is theoretically possible that omeprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (e.g., ketoconazole, ampicillin esters, and iron salts).
+The absorption of digoxin can increase during treatment with omeprazole.
+Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
+Therefore patients may need to be monitored when digoxin is taken concomitantly with omeprazole.
 In the clinical trials, antacids were used concomitantly with the administration of Omeprazole Delayed-Release Capsules.
 
 ## 7.3 Effects on Hepatic Metabolism/Cytochrome P-450 Pathways
@@ -41,14 +44,12 @@ Increases in INR and prothrombin time may lead to abnormal bleeding and even dea
 Patients treated with proton pump inhibitors and warfarin may need to be monitored for increases in INR and prothrombin time.
 
 Although in normal subjects no interaction with theophylline or propranolol was found, there have been clinical reports of interaction with other drugs metabolized via the cytochrome P450 system (e.g., cyclosporine, dandulfiram, benzodiazepines).
-Patients should be monitored t.o dete.rmine if it is necessary to adjust the dosage of these drugs when taken concomitantly with Omeprazole Delayed-Release Capsules.
+Patients should be monitored to determine if it is necessary to adjust the dosage of these drugs when taken concomitantly with Omeprazole Delayed-Release Capsules.
 
-Concomitant.admini.stration of omeprazole and voriconazole (a combined inhibitor of CYP2C19 and CYP3A4) resulted in more than doublin.g of t.he omeprazole exposure.
+Concomitant administration of omeprazole and voriconazole (a combined inhibitor of CYP2C19 and CYP3A4) resulted in more than doubling of the omeprazole exposure.
 Dose adjustment of omeprazole is not normally required.
-However, in patients with Zollinge.r-Ellison syndrome, who may require higher doses up to 240 mg/day, dose adjustment may be considered.
-When voriconazole (400 mg Q12h x 1 day, then 200 mg x 6 days) was given with omeprazole (40 mg once daily x 7 days) to healthy subjects, it significantly increased the steady-state Cmax and
-
-AUC0-24 of omeprazole, an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4) respectively as compared to when omeprazole was given without voriconazole.
+However, in patients with Zollinger-Ellison syndrome, who may require higher doses up to 240 mg/day, dose adjustment may be considered.
+When voriconazole (400 mg Q12h x 1 day, then 200 mg x 6 days) was given with omeprazole (40 mg once daily x 7 days) to healthy subjects, it significantly increased the steady-state Cmax and AUC0-24 of omeprazole, an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4) respectively as compared to when omeprazole was given without voriconazole.
 
 Omeprazole acts as an inhibitor of CYP 2C19.
 Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in crossover study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
@@ -74,3 +75,7 @@ There are no adequate combination studies of a lower dose of omeprazole or a hig
 ## 7.4 Tacrolimus
 
 Concomitant administration of omeprazole and tacrolimus may increase the serum levels of tacrolimus.
+
+## 7.5 Interactions with Investigations of Neurodocrine Tumors
+
+Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.7) and Clinical Pharmacology (12)].

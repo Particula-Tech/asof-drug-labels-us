@@ -5,7 +5,7 @@ In the clinical trials, antacids were used concomitantly with Omeprazole Delayed
 
 Patients should be informed that the Omeprazole Delayed-Release Capsules should be swallowed whole.
 
-For patSents unable to swallow an intact capsule, alternative administration options are available [see Dosage and Administration (2.8)].
+For patients unable to swallow an intact capsule, alternative administration options are available [see Dosage and Administration (2.8)].
 
 ## 2.1 Short-Term Treatment of Active Duodenal Ulcer
 

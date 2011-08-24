@@ -1,4 +1,4 @@
-FDA-Approved Patient Labeling
+# FDA-Approved Patient Labeling
 
 Omeprazole Delayed-Release Capsules
 
@@ -15,10 +15,8 @@ Omeprazole Delayed-Release Capsules reduce the amount of acid in your stomach.
 Omeprazole Delayed-Release Capsules are used in adults:
 
 - for up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
-
-GERD is a chronic condition (lasts a long time) that occurs when acid from the stomach backs up into the esophagus (food pipe) causing symptoms, such as heartburn, or damage to the lining of the esophagus.
-Common symptoms include frequent heartburn that will not go away, a sour or bitter taste in the mouth, and difficulty swallowing.
-
+  GERD is a chronic condition (lasts a long time) that occurs when acid from the stomach backs up into the esophagus (food pipe) causing symptoms, such as heartburn, or damage to the lining of the esophagus.
+  Common symptoms include frequent heartburn that will not go away, a sour or bitter taste in the mouth, and difficulty swallowing.
 - for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE)
 - to maintain healing of the esophagus.
   Omeprazole Delayed-Release Capsules have not been studied for treatment lasting longer than 12 months (1 year)
@@ -76,6 +74,8 @@ Especially tell your doctor if you take:
 - phenytoin (Dilantin)
 - disulfiram (Antabuse)
 - clopidogrel (Plavix)
+- St. John's Wort (Hypericum perforatum)
+- rifampin
 
 HOW SHOULD I TAKE OMEPRAZOLE DELAYED-RELEASE CAPSULES?
 
@@ -91,8 +91,7 @@ HOW SHOULD I TAKE OMEPRAZOLE DELAYED-RELEASE CAPSULES?
   If it is almost time for your next dose, do not take the missed dose.
   Take the next dose on time.
   Do not take a double dose to make up for a missed dose.
-
-If you take too much Omeprazole Delayed-Release Capsules, tell your doctor right away.
+- If you take too much Omeprazole Delayed-Release Capsules, tell your doctor right away.
 
 WHAT ARE THE POSSIBLE SIDE EFFECTS OF OMEPRAZOLE DELAYED-RELEASE CAPSULES?
 
@@ -161,7 +160,7 @@ It may harm them.
 This Patient Information leaflet provides a summary of the most important information about Omeprazole Delayed-Release Capsules.
 For more information, ask your doctor.
 You can ask your doctor or pharmacist for information that is written for healthcare professionals.
-For more information, go to www. kremersurbanllc.com or call toll free 1-800-477-7877.
+For more information, go to www. kremersurban.com or call toll free 1-866-822-0068.
 
 PATIENT INSTRUCTIONS FOR USE
 
@@ -187,6 +186,6 @@ Kremers Urban Pharmaceuticals Inc.
 
 Princeton, NJ 08540, USA
 
-L3599X
+L3599Y
 
-Revised: 8E 06/2011
+Revised: 9E 07/2011

@@ -36,7 +36,7 @@ None of these occurred at a higher frequency than that reported by patients taki
 ## 6.3 Post-marketing Experience
 
 The following adverse reactions have been identified during post-approval use of Omeprazole Delayed-Release Capsules.
-Because these reactions are voluntarily. reported from a population of uncertain size, it is not always possible t1-o reliably estimate their actual frequency or establish a causal relationship to drug exposure.
+Because these reactions are voluntarily. reported from a population of uncertain size, it is not always possible to reliably estimate their actual frequency or establish a causal relationship to drug exposure.
 
 Body As a Whole: Hypersensitivity reactions including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria, (see also Skin below); fever; pain; fatigue; malaise;
 
