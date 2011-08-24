@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090199"
+  ],
+  "inn": "levocetirizine",
+  "labeler": "Teva Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-7701-98"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "levocetirizine dihydrochloride",
+      "name": "Levocetirizine Dihydrochloride"
+    }
+  ],
+  "setid": "4f43d057-cba8-4366-86ba-4be361e4c71f",
+  "source": "dailymed"
+}
