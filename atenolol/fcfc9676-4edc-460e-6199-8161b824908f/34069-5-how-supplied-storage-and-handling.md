@@ -27,6 +27,4 @@ By: IPR Pharmaceuticals, Inc.
 
 Canovanas, PR 00729
 
-6102–04
-
-Rev 04/08
+July 2011
