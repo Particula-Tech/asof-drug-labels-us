@@ -13,6 +13,6 @@ Pump the unit firmly and quickly until the first appearance of spray.
 Then prime the pump an additional 2 times.
 Now the nasal spray is ready for use.
 The unit must be re-primed before each dose.
-Prime the pump once immediately before each administration of dose 2 through 8.
+Prime the pump once immediately before each administration of dose 2 through 4.
 
 See LABORATORY TESTS for monitoring B12 levels and adjustment of dosage.

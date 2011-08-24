@@ -9,14 +9,14 @@ To report suspected adverse reactions, contact Par Pharmaceutical Companies, Inc
 
 Distributed by:
 
-Par Pharmaceutical, Inc
+Par Pharmaceutical Companies, Inc
 
 Spring Valley, NY 10977
 
-OS270-01-01
+OS270-01-03
 
 Rev.
-08/2011
+07/2011
 
 FOR NASAL USE ONLY
 
