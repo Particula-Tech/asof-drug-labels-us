@@ -1,22 +1,27 @@
 NDC 0074–6624–90
 
-90 Tablets SYNTHROID® (levothyroxine sodium tablets, USP) 100mcg (0.1 mg) Rx only Abbott
+Synthroid® Levothyroxine Sodium Tablets, USP 100 mcg (0.1 mg) 90 Tablets
+
+Rx only Abbott
 
 NDC 0074–6624–13
 
-100 TABLETS SYNTHROID® (levothyroxine sodium tablets, USP) 100mcg (0.1 mg) Rx only
+100 TABLETS
+
+Synthroid® Levothyroxine Sodium Tablets, USP 100 mcg (0.1 mg)
+
+Rx only Abbott
 
 NDC 0074–6624–19
 
-1000 TABLETS SYNTHROID® (levothyroxine sodium tablets, USP) 100mcg (0.1 mg) Rx only
+Synthroid® Levothyroxine Sodium Tablets, USP 100 mcg (0.1 mg) 1000Tablets
+
+Rx only Abbott
 
 NDC 0074–6624–11
 
-100 Tablets Abbo-Pac® AbboPac unit dose
+Synthroid® Levothyroxine Sodium Tablets, USP 100 mcg (0.1 mg) 100 Tablets
 
-SYNTHROID® (levothyroxine sodium tablets, USP) 100mcg (0.1 mg)
-
-Tablet identification marking change adopted August, 2002 Rx only
-
-Tamper-Evident: do not accept if sealed blister unit has been opened or broken.
 THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
+
+Rx only Abbott
