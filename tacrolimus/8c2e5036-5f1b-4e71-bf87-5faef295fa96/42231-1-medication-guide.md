@@ -156,10 +156,10 @@ Deerfield, IL 60015-2548
 
 Manufactured by:
 
-Astellas Toyama Co., Ltd. Toyama Plant, 2-178 Kojin-machi, Toyama 930-0809, Japan
+Astellas Pharma Tech Co., Ltd., Toyama Technology Center, 2-178 Kojin-machi, Toyama city, Toyama 930-0809, Japan
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised: June 2009
+Revised: June 2011
 
-09F001-PRT-CPI
+11E039-PRT-SPL

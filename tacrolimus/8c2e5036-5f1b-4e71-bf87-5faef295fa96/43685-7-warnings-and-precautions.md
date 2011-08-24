@@ -11,7 +11,7 @@ Therefore:
 - If signs and symptoms of atopic dermatitis do not improve within 6 weeks, patients should be re-examined by their healthcare provider and their diagnosis be confirmed (see PRECAUTIONS: General).
 - The safety of PROTOPIC Ointment has not been established beyond one year of non-continuous use.
 
-(See CLINICAL PHARMACOLOGY, boxed WARNINGS, INDICATIONS AND USAGE, and DOSAGE AND ADMINISTRATION).
+(See CLINICAL PHARMACOLOGY, boxed WARNING, INDICATIONS AND USAGE, and DOSAGE AND ADMINISTRATION).
 
 # PRECAUTIONS
 
@@ -26,8 +26,7 @@ The safety of PROTOPIC Ointment has not been established in patients with genera
 The use of PROTOPIC Ointment may cause local symptoms such as skin burning (burning sensation, stinging, soreness) or pruritus.
 Localized symptoms are most common during the first few days of PROTOPIC Ointment application and typically improve as the lesions of atopic dermatitis resolve.
 With PROTOPIC Ointment 0.1%, 90% of the skin burning events had a duration between 2 minutes and 3 hours (median 15 minutes).
-90% of the pruritus events had a duration between 3 minutes and 10 hours (median 20 minutes).
-(see ADVERSE REACTIONS).
+90% of the pruritus events had a duration between 3 minutes and 10 hours (median 20 minutes) (see ADVERSE REACTIONS).
 
 ## Bacterial and Viral Skin Infections
 

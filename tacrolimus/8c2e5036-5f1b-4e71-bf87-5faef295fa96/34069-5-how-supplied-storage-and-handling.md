@@ -38,4 +38,4 @@ Deerfield, IL 60015-2548
 
 Manufactured by:
 
-Astellas Toyama Co., Ltd. Toyama Plant, 2-178 Kojin-machi, Toyama 930-0809, Japan
+Astellas Pharma Tech Co., Ltd., Toyama Technology Center, 2-178 Kojin-machi, Toyama city, Toyama 930-0809, Japan

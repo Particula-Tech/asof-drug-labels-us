@@ -2,4 +2,4 @@ Rx Only
 
 Prescribing Information
 
-See boxed WARNINGS concerning long-term safety of topical calcineurin inhibitors
+See boxed WARNING concerning long-term safety of topical calcineurin inhibitors
