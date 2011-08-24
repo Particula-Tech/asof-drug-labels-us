@@ -1,18 +1,12 @@
 # PRINCIPAL DISPLAY PANEL
 
-Package Label - 10-Count Carton, 250 mg Vials
-
 NDC 65293-001-01
 
-Angiomax® (bivalirudin)
-
-For Injection
+Angiomax® (bivalirudin) FOR INJECTION
 
 250 mg
 
-For Intravenous Use Only
-
-Rx Only
+For Intravenous Use Only Rx Only
 
 Store at 20-25°C (68-77°F) Excursions to 15-30°C permitted [See USP Controlled Room Temperature]
 

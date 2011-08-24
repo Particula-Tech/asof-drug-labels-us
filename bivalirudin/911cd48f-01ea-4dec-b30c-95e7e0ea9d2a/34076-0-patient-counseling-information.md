@@ -9,7 +9,9 @@ Manufactured by: Ben Venue Laboratories Bedford, OH
 
 Distributed by: ICS Louisville, KY
 
-Marketed by: The Medicines Company Parsippany, NJ 07054 For information call: (800) 264-4662
+Marketed by: The Medicines Company Parsippany, NJ 07054
+
+For information call: (800) 264-4662
 
 U.S. Patent 5,196,404
 

@@ -54,7 +54,7 @@ Study outcomes are shown in Table 7.
 Table 7.
 Incidences of Clinical Endpoints at 30 Days for REPLACE-2, a Randomized Double-blind Clinical Trial
 
-| Intent-to-treat Population | ANGIOMAX with "Provisional" GPI n=2994 | HEPARIN+GPI n=3008 |
+| Intent-to-treat Population | ANGIOMAX with "Provisional" GPI n=2994 | HEPARIN + GPI n=3008 |
 | --- | --- | --- |
 | Efficacy Endpoints |  |  |
 | Death, MI, or urgent revascularization | 7.6% | 7.1% |

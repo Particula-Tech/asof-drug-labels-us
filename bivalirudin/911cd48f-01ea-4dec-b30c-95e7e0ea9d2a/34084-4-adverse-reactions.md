@@ -11,7 +11,7 @@ In 6010 patients undergoing PCI treated in the REPLACE-2 trial, Angiomax patient
 Table 2.
 Major Hematologic Outcomes REPLACE-2 Study (Safety Population)
 
-|  | Angiomax with "provisional" GPI1 (n=2914) | HEPARIN + GPI (n=2987) | p-value |
+|  | Angiomax with "provisional" GPI1 n=2914 | HEPARIN + GPI (n=2987) | p-value |
 | --- | --- | --- | --- |
 | Protocol defined major hemorrhage2 (%) | 2.3% | 4.0% | <0.001 |
 | Protocol defined minor hemorrhage3 (%) | 13.6% | 25.8% | <0.001 |
@@ -77,9 +77,9 @@ Most frequent (≥0.2%) treatment-related adverse events (reactions) (through 30
 Table 5.
 Adverse Events Other Than Bleeding Occurring In ≥5% Of Patients In Either Treatment Group In BAT Trial
 
-| EVENT | Angiomax N=2161 | Heparin N=2151 |
-| --- | --- | --- |
 |  | Treatment Group |  |
+| --- | --- | --- |
+| EVENT | Angiomax N=2161 | Heparin N=2151 |
 |  | Number of Patients (%) |  |
 | CARDIOVASCULAR |  |  |
 | Hypotension | 262 (12) | 371 (17) |
