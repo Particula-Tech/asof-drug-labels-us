@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA202123"
+  ],
+  "inn": "emtricitabine",
+  "labeler": "Gilead Sciences, Inc.",
+  "package_ndcs": [
+    "61958-1101-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "emtricitabine, rilpivirine hydrochloride, and tenofovir disoproxil fumarate",
+      "name": "COMPLERA"
+    }
+  ],
+  "setid": "d637cfab-f1e8-4eb3-a1b3-f85ca3bec612",
+  "source": "dailymed"
+}
