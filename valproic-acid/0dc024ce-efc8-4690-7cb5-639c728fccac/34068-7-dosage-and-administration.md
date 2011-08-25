@@ -88,9 +88,9 @@ For patients whose Depakote total daily dose cannot be directly converted to Dep
 Table 1.
 Dose Conversion
 
-| Total Daily Dose (mg) | (mg) |
-| --- | --- |
 | Depakote | Depakote ER |
+| --- | --- |
+| Total Daily Dose (mg) | (mg) |
 | 500* - 625 | 750 |
 | 750* - 875 | 1000 |
 | 1000*-1125 | 1250 |

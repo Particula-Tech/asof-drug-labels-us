@@ -41,9 +41,9 @@ Additionally, valproate Cmax was lower, and Cmin was either higher or not differ
 Table 9.
 Bioavailability of Depakote ER Tablets Relative to Depakote When Depakote ER Dose is 8 to 20% Higher
 
-|  | Depakote ER vs. Depakote | AUC24 | Cmax | Cmin |
-| --- | --- | --- | --- | --- |
 | Study Population | Regimens | Relative Bioavailability |  |  |
+| --- | --- | --- | --- | --- |
+|  | Depakote ER vs. Depakote | AUC24 | Cmax | Cmin |
 | Healthy Volunteers (N=35) | 1000 & 1500 mg Depakote ER vs. 875 & 1250 mg Depakote | 1.059 | 0.882 | 1.173 |
 | Patients with epilepsy on concomitant enzyme-inducing antiepilepsy drugs (N = 64) | 1000 to 5000 mg Depakote ER vs. 875 to 4250 mg Depakote | 1.008 | 0.899 | 1.022 |
 
