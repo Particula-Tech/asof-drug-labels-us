@@ -6,7 +6,7 @@ Pediatric Population: The incidence of serious rash associated with hospitalizat
 When 14 of these cases were reviewed by 3 expert dermatologists, there was considerable disagreement as to their proper classification.
 To illustrate, one dermatologist considered none of the cases to be Stevens-Johnson syndrome; another assigned 7 of the 14 to this diagnosis.
 There was 1 rash-related death in this 1,983-patient cohort.
-Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in U.S. and foreign postmarketing experience.
+Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in US and foreign postmarketing experience.
 
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in pediatric patients.
 In pediatric patients who used valproate concomitantly, 1.2% (6 of 482) experienced a serious rash compared with 0.6% (6 of 952) patients not taking valproate.
@@ -66,13 +66,14 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanism of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
+Table 7 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 7 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 7.
 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo patients with events per 1,000 patients | Drug patients with events per 1,000 patients | Relative Risk: Incidence of events in drug patients/incidence in placebo patients | Relative Risk: Additional Drug Patients with events per 1,000 patients |
+| Indication | Placebo patients with events per 1,000 patients | Drug patients with events per 1,000 patients | Relative Risk: Incidence of events in drug patients/incidence in placebo patients | Risk Difference: Additional Drug Patients with events per 1,000 patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -92,35 +93,52 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 Acute Treatment of Mood Episodes: Safety and effectiveness of lamotrigine in the acute treatment of mood episodes have not been established.
 
-Children and Adolescents (Less Than 18 Years of Age): Safety and effectiveness of lamotrigine in patients below the age of 18 years with mood disorders have not been established [see Suicidal Behavior and Ideation (5.5)].
+Children and Adolescents (less than 18 years of age): Safety and effectiveness of lamotrigine in patients below the age of 18 years with mood disorders have not been established [see Suicidal Behavior and Ideation (5.5)].
 
 Clinical Worsening and Suicide Risk Associated With Bipolar Disorder: Patients with bipolar disorder may experience worsening of their depressive symptoms and/or the emergence of suicidal ideation and behaviors (suicidality) whether or not they are taking medications for bipolar disorder.
 Patients should be closely monitored for clinical worsening (including development of new symptoms) and suicidality, especially at the beginning of a course of treatment, or at the time of dose changes.
 
 In addition, patients with a history of suicidal behavior or thoughts, those patients exhibiting a significant degree of suicidal ideation prior to commencement of treatment, and young adults are at an increased risk of suicidal thoughts or suicide attempts, and should receive careful monitoring during treatment [see Suicidal Behavior and Ideation (5.5)].
 
-Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients who experience clinical worsening (including development of new symptoms) and/or the emergence of suicidal ideation/behavior especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
+Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients who experience clinical worsening (including development of new symptoms) and/or the emergence of suicidal ideation/behavior especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
 Prescriptions for lamotrigine should be written for the smallest quantity of tablets consistent with good patient management in order to reduce the risk of overdose.
 Overdoses have been reported for lamotrigine, some of which have been fatal [see Overdosage (10.1)].
 
-## 5.7 Potential Medication Errors
+## 5.7 Aseptic Meningitis
+
+Therapy with lamotrigine increases the risk of developing aseptic meningitis.
+Because of the potential for serious outcomes of untreated meningitis due to other causes, patients should also be evaluated for other causes of meningitis and treated as appropriate.
+
+Postmarketing cases of aseptic meningitis have been reported in pediatric and adult patients taking lamotrigine for various indications.
+Symptoms upon presentation have included headache, fever, nausea, vomiting, and nuchal rigidity.
+Rash, photophobia, myalgia, chills, altered consciousness, and somnolence were also noted in some cases.
+Symptoms have been reported to occur within 1 day to one and a half months following the initiation of treatment.
+In most cases, symptoms were reported to resolve after discontinuation of lamotrigine.
+Re-exposure resulted in a rapid return of symptoms (from within 30 minutes to 1 day following re-initiation of treatment) that were frequently more severe.
+Some of the patients treated with lamotrigine who developed aseptic meningitis had underlying diagnosis of systemic lupus erythematosus or other autoimmune diseases.
+
+Cerebrospinal fluid (CSF) analyzed at the time of clinical presentation in reported cases was characterized by a mild to moderate pleocytosis, normal glucose levels, and mild to moderate increase in protein.
+CSF white blood cell count differentials showed a predominance of neutrophils in a majority of the cases, although a predominance of lymphocytes was reported in approximately one third of the cases.
+Some patients also had new onset of signs and symptoms of involvement of other organs (predominantly hepatic and renal involvement), which may suggest that in these cases the aseptic meningitis observed was part of a hypersensitivity reaction [see Warning and Precautions (5.2)].
+
+## 5.8 Potential Medication Errors
 
 Medication errors involving lamotrigine have occurred.
 In particular, the name lamotrigine can be confused with the names of other commonly used medications.
 Medication errors may also occur between the different formulations of lamotrigine.
 To reduce the potential of medication errors, write and say lamotrigine clearly.
-Descriptions of the lamotrigine tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the Lamotrigine tablets and thus may help reduce the risk of medication errors.
-To avoid the medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription.
+Description of the Lamotrigine tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the Lamotrigine Tablets and thus may help reduce the risk of medication errors.
+To avoid the medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are Lamotrigine, as well as the correct formulation of Lamotrigine, each time they fill their prescription.
 
-## 5.8 Concomitant Use With Oral Contraceptives
+## 5.9 Concomitant Use With Oral Contraceptives
 
 Some estrogen-containing oral contraceptives have been shown to decrease serum concentrations of lamotrigine [see Clinical Pharmacology (12.3)].
 Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking lamotrigine [see Dosage and Administration (2.1)].
-During the week of inactive hormone preparation (“pill-free” week) of oral contraceptive therapy, plasma lamotrigine levels are expected to rise, as much as doubling at the end of the week.
+During the week of inactive hormone preparation ("pill-free" week) of oral contraceptive therapy, plasma lamotrigine levels are expected to rise, as much as doubling at the end of the week.
 Adverse reactions consistent with elevated levels of lamotrigine, such as dizziness, ataxia, and diplopia, could occur.
 
-## 5.9 Withdrawal Seizures
+## 5.10 Withdrawal Seizures
 
 As with other AEDs, lamotrigine should not be abruptly discontinued.
 In patients with epilepsy there is a possibility of increasing seizure frequency.
@@ -128,13 +146,13 @@ In clinical trials in patients with Bipolar Disorder, 2 patients experienced sei
 However, there were confounding factors that may have contributed to the occurrence of seizures in these bipolar patients.
 Unless safety concerns require a more rapid withdrawal, the dose of lamotrigine should be tapered over a period of at least 2 weeks (approximately 50% reduction per week) [see Dosage and Administration (2.1)].
 
-## 5.10 Status Epilepticus
+## 5.11 Status Epilepticus
 
 Valid estimates of the incidence of treatment-emergent status epilepticus among patients treated with lamotrigine are difficult to obtain because reporters participating in clinical trials did not all employ identical rules for identifying cases.
 At a minimum, 7 of 2,343 adult patients had episodes that could unequivocally be described as status epilepticus.
 In addition, a number of reports of variably defined episodes of seizure exacerbation (e.g., seizure clusters, seizure flurries, etc.) were made.
 
-## 5.11 Sudden Unexplained Death in Epilepsy (SUDEP)
+## 5.12 Sudden Unexplained Death in Epilepsy (SUDEP)
 
 During the premarketing development of lamotrigine, 20 sudden and unexplained deaths were recorded among a cohort of 4,700 patients with epilepsy (5,747 patient-years of exposure).
 
@@ -146,11 +164,11 @@ Probably most reassuring is the similarity of estimated SUDEP rates in patients 
 Importantly, that drug is chemically unrelated to lamotrigine.
 This evidence suggests, although it certainly does not prove, that the high SUDEP rates reflect population rates, not a drug effect.
 
-## 5.12 Addition of Lamotrigine to a Multidrug Regimen That Includes Valproate
+## 5.13 Addition of Lamotrigine to a Multidrug Regimen That Includes Valproate
 
 Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigine in the presence of valproate is less than half of that required in its absence.
 
-## 5.13 Binding in the Eye and Other Melanin-Containing Tissues
+## 5.14 Binding in the Eye and Other Melanin-Containing Tissues
 
 Because lamotrigine binds to melanin, it could accumulate in melanin-rich tissues over time.
 This raises the possibility that lamotrigine may cause toxicity in these tissues after extended use.
@@ -159,7 +177,7 @@ Moreover, the capacity of available tests to detect potentially adverse conseque
 
 Accordingly, although there are no specific recommendations for periodic ophthalmological monitoring, prescribers should be aware of the possibility of long-term ophthalmologic effects.
 
-## 5.14 Laboratory Tests
+## 5.15 Laboratory Tests
 
 The value of monitoring plasma concentrations of lamotrigine in patients treated with lamotrigine has not been established.
 Because of the possible pharmacokinetic interactions between lamotrigine and other drugs including AEDs (see Table 15), monitoring of the plasma levels of lamotrigine and concomitant drugs may be indicated, particularly during dosage adjustments.
