@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA070010"
+  ],
   "inn": "aminocaproic-acid",
-  "labeler": "Hospira",
+  "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-4346-73"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "aminocaproic acid",
+      "name": "Aminocaproic Acid"
+    }
+  ],
   "setid": "1c5bc1dd-e9ec-44c1-9281-67ad482315d9",
   "source": "dailymed"
 }

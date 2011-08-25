@@ -7,6 +7,6 @@ Grune and Stratton, pp.
 
 Revised: March, 2007
 
-| Printed in USA | EN-1485 |
-| --- | --- |
-| Hospira, Inc., Lake Forest, IL 60045 USA |  |
+Printed in USA EN-1485
+
+Hospira, Inc., Lake Forest, IL 60045 USA

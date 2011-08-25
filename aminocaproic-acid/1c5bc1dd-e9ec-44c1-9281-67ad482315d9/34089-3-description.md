@@ -11,9 +11,9 @@ Hydrochloric acid may be added to adjust pH to approximately 6.8 during manufact
 
 Its chemical structure is:
 
-| NH2 - CH2 - CH2 - CH2 - CH2 - CH2 - COOH |  |
-| --- | --- |
-|  | Molecular Weight: 131.17 |
+NH2 - CH2 - CH2 - CH2 - CH2 - CH2 - COOH
+
+Molecular Weight: 131.17
 
 The semi-rigid vial is fabricated from a specifically formulated polyolefin.
 It is a copolymer of ethylene and propylene.
