@@ -99,7 +99,7 @@ No information is available on dosing adjustments necessary for pediatric patien
 
 Vials (Injection Concentrate): THIS PREPARATION MUST BE DILUTED BEFORE USE.
 The intravenous dose should be prepared by aseptically withdrawing the concentrate from the vial of CIPRO I.V.
-This should be diluted with a suitable intravenous solution to a final concentration of 1–2mg/mL.
+This should be diluted with a suitable intravenous solution to a final concentration of 1–2 mg/mL.
 (See COMPATIBILITY AND STABILITY.)
 The resulting solution should be infused over a period of 60 minutes by direct infusion or through a Y-type intravenous infusion set which may already be in place.
 

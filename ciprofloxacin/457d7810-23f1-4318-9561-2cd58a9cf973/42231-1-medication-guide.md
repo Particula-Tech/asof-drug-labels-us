@@ -7,7 +7,9 @@ CIPRO® (Sip-row) (ciprofloxacin) ORAL SUSPENSION
 CIPRO® XR (Sip-row) (ciprofloxacin extended-release tablets)
 
 CIPRO® I.V.
-(Sip-row) (ciprofloxacin) For Intravenous Infusion
+(Sip-row) (ciprofloxacin)
+
+For Intravenous Infusion
 
 Read the Medication Guide that comes with CIPRO® before you start taking it and each time you get a refill.
 There may be new information.
@@ -23,20 +25,19 @@ Talk with your healthcare provider about whether you should continue to take CIP
 1.
 Tendon rupture or swelling of the tendon (tendinitis)
 
-- 
-  - Tendon problems can happen in people of all ages who take CIPRO.
-    Tendons are tough cords of tissue that connect muscles to bones.
-    Symptoms of tendon problems may include:
-  - Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
-  - The risk of getting tendon problems while you take Cipro is higher if you:
-    - are over 60 years of age
-    - are taking steroids (corticosteroids)
-    - have had a kidney, heart or lung transplant
-  - Tendon problems can happen in people who do not have the above risk factors when they take CIPRO.
-    Other reasons that can increase your risk of tendon problems can include:
-    - physical activity or exercise
-    - kidney failure
-    - tendon problems in the past, such as in people with rheumatoid arthritis (RA)
+- Tendon problems can happen in people of all ages who take CIPRO.
+  Tendons are tough cords of tissue that connect muscles to bones.
+  Symptoms of tendon problems may include:
+- Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+- The risk of getting tendon problems while you take Cipro is higher if you:
+  - are over 60 years of age
+  - are taking steroids (corticosteroids)
+  - have had a kidney, heart or lung transplant
+- Tendon problems can happen in people who do not have the above risk factors when they take CIPRO.
+  Other reasons that can increase your risk of tendon problems can include:
+  - physical activity or exercise
+  - kidney failure
+  - tendon problems in the past, such as in people with rheumatoid arthritis (RA)
 - Call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
   Stop taking CIPRO until tendinitis or tendon rupture has been ruled out by your healthcare provider.
   Avoid exercise and using the affected area.
@@ -56,7 +57,7 @@ Worsening of myasthenia gravis (a disease which causes muscle weakness).
 Fluoroquinolones like CIPRO may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
 Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
-See the section “What are the possible side effects of CIPRO?” for more information about side effects.
+See the section "What are the possible side effects of CIPRO?" for more information about side effects.
 
 What is CIPRO?
 
@@ -328,21 +329,28 @@ It may harm them.
 This Medication Guide summarizes the most important information about CIPRO.
 If you would like more information about CIPRO, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about CIPRO that is written for healthcare professionals.
-For more information go to www.CIPRO.com or call 1-800-526-4099.
+For more information call 1-888-84 BAYER (1-888-842-2937).
 
 What are the ingredients in CIPRO?
 
-- CIPRO Tablets
+CIPRO Tablets
+
 - Active ingredient: ciprofloxacin
 - Inactive ingredients: cornstarch, microcrystalline cellulose, silicon dioxide, crospovidone, magnesium stearate, hypromellose, titanium dioxide, and polyethylene glycol
-- CIPRO Oral Suspension:
+
+CIPRO Oral Suspension
+
 - Active ingredient: ciprofloxacin
 - Inactive ingredients: The components of the suspension have the following compositions: Microcapsules—ciprofloxacin, povidone, methacrylic acid copolymer, hypromellose, magnesium stearate, and Polysorbate 20.
   Diluent—medium-chain triglycerides, sucrose, lecithin, water, and strawberry flavor.
-- CIPRO XR:
+
+CIPRO XR
+
 - Active ingredient: ciprofloxacin
 - Inactive ingredients: crospovidone, hypromellose, magnesium stearate, polyethylene glycol, silica colloidal anhydrous, succinic acid, and titanium dioxide.
-- CIPRO I.V.:
+
+CIPRO I.V.
+
 - Active ingredient: ciprofloxacin
 - Inactive ingredients: lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
 
