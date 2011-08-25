@@ -1,7 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA072489",
+    "ANDA072547"
+  ],
   "inn": "acetylcysteine",
-  "labeler": "AMERICAN REGENT, INC.",
+  "labeler": "American Regent, Inc.",
   "package_ndcs": [
     "0517-7504-25",
     "0517-7510-03",
@@ -9,7 +12,13 @@
     "0517-7610-03",
     "0517-7630-03"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INHALANT",
+      "generic": "acetylcysteine",
+      "name": "Acetylcysteine"
+    }
+  ],
   "setid": "f56b4087-db48-4fd7-84ec-9c927962b805",
   "source": "dailymed"
 }
