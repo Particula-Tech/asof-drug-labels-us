@@ -39,59 +39,18 @@ in boxes of 10 ampuls…………………………………………………�
 Store and Dispense: At temperatures below 30°C (86°F).
 Protect from light.
 
-Sandimmune® Soft Gelatin Capsules (cyclosporine capsules, USP)
-
-Manufactured by:
-
-Catalent Pharma Solutions, LLC
-
-St. Petersburg, Florida 33716
-
-or
-
-R.P.
-Scherer GmbH
-
-Eberbach/Baden, Germany
-
-Distributed by:
-
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
-
-Sandimmune® Oral Solution (cyclosporine oral solution, USP)
-
-Manufactured by:
-
-Novartis Pharma S.A.S.
-
-Huningue, France
-
-Distributed by:
-
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
-
-Sandimmune® Injection (cyclosporine injection, USP)
-
 FOR INFUSION ONLY
 
-Manufactured by:
-
-Novartis Pharma Stein AG
-
-Stein, Switzerland
+*Cremophor® is the registered trademark of BASF Aktiengesellschaft.
 
 Distributed by:
 
 Novartis Pharmaceuticals Corporation
 
 East Hanover, New Jersey 07936
-
-REV: OCTOBER 2009 T2010-03
 
 © Novartis
 
-*Cremophor® is the registered trademark of BASF Aktiengesellschaft.
+T2011-39
+
+July 2011
