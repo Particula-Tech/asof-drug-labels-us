@@ -26,7 +26,7 @@ Study 1
 | Group | Baseline1 | BL to Wk 32 | Difference3 |
 | Placebo | 31.8 | 0.0 |  |
 | DEPAKOTE | 30.3 | + 18.1 | 18.1 |
-| 1. Mean score at baseline2. Change from baseline to Week 3 (LOCF)3. Difference in change from baseline to Week 3 endpoint (LOCF) between DEPAKOTE and placebo |  |  |  |
+| 1. Mean score at baseline 2. Change from baseline to Week 3 (LOCF) 3. Difference in change from baseline to Week 3 endpoint (LOCF) between DEPAKOTE and placebo |  |  |  |
 
 DEPAKOTE was statistically significantly superior to placebo on all three measures of outcome.
 
@@ -55,7 +55,7 @@ Study 2
 | Placebo | 16.4 | - 1.4 |  |
 | Lithium | 16.0 | - 3.8 | 2.4 |
 | DEPAKOTE | 15.7 | - 3.2 | 1.8 |
-| 1. Mean score at baseline2. Change from baseline to Day 21 (LOCF)3. Difference in change from baseline to Day 21 endpoint (LOCF) between DEPAKOTE and placebo and lithium and placebo |  |  |  |
+| 1. Mean score at baseline 2. Change from baseline to Day 21 (LOCF) 3. Difference in change from baseline to Day 21 endpoint (LOCF) between DEPAKOTE and placebo and lithium and placebo |  |  |  |
 
 DEPAKOTE was statistically significantly superior to placebo on all three measures of outcome.
 An exploratory analysis for age and gender effects on outcome did not suggest any differential responsiveness on the basis of age or gender.
