@@ -44,4 +44,10 @@ Exjade has not been studied in patients with renal impairment [see Warnings and 
 
 ## 8.7 Hepatic Impairment
 
-Exjade has not been studied in patients with hepatic impairment.
+In a single dose (20 mg/kg) study in patients with varying degrees of hepatic impairment, deferasirox exposure was increased compared to patients with normal hepatic function.
+The average total (free and bound) AUC of deferasirox increased 16% in 6 subjects with mild (Child-Pugh A) hepatic impairment, and 76% in 6 subjects with moderate (Child-Pugh B) hepatic impairment compared to 6 subjects with normal hepatic function.
+The impact of severe (Child-Pugh C) hepatic impairment was assessed in only one subject.
+
+Avoid the use of Exjade in patients with severe (Child-Pugh C) hepatic impairment.
+For patients with moderate (Child-Pugh B) hepatic impairment, the starting dose should be reduced by 50%.
+Closely monitor patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment for efficacy and adverse reactions that may require dose titration [See Dosage and Administration (2.2), and Warnings and Precautions (5.2].

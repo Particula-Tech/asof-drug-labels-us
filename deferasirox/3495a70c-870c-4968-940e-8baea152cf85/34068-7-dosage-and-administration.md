@@ -41,3 +41,9 @@ Concomitant UGT inducers or Cholestyramine
 Concomitant use of UGT inducers or cholestyramine decreases deferasirox systemic exposure (AUC).
 Avoid the concomitant use of cholestyramine or potent UGT inducers (e.g., rifampicin, phenytoin, phenobarbital, ritonavir) with Exjade.
 If you must co-administer these agents together, consider increasing the initial dose of Exjade to 30 mg/kg, and monitor serum ferritin levels and clinical responses for further dose modification [see Drug Interactions (7.4, 7.5)].
+
+Hepatic Impairment
+
+Avoid the use of Exjade in patients with severe (Child-Pugh C) hepatic impairment.
+Reduce the starting dose by 50% in patients with moderate (Child-Pugh B) hepatic impairment.
+Closely monitor patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment for efficacy and adverse reactions that may require dose titration [see Warnings and Precautions (5.2), and Use in Specific Populations (8.7).

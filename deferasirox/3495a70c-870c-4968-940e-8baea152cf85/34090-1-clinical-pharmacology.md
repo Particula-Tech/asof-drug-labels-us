@@ -57,6 +57,10 @@ Hepatic Impairment: Deferasirox is principally excreted by glucuronidation and i
 Exjade treatment has been initiated in patients with baseline liver transaminase levels up to 5 times the upper limit of the normal range.
 The pharmacokinetics of deferasirox were not influenced by such transaminase levels.
 
+The average AUC of deferasirox in 6 subjects with mild hepatic impairment (Child-Pugh A) increased 16% over that found in 6 subjects with normal hepatic function, while the average AUC of deferasirox in 6 subjects with moderate hepatic impairment (Child-Pugh B) increased 76% over that found in 6 subjects with normal hepatic function.
+The average Cmax of deferasirox in subjects with mild or moderate hepatic impairment increased 22% over that found in subjects with normal hepatic function.
+The impact of severe hepatic impairment (Child-Pugh C) was assessed in only one subject [see Dosage and Administration (2.2), Warnings and Precautions (5.2), and Use in Specific Populations (8.7)].
+
 ## 12.6 QT Prolongation
 
 The effect of 20 and 40 mg/kg per day of deferasirox on the QT interval was evaluated in a single-dose, double-blind, randomized, placebo- and active-controlled (moxifloxacin 400 mg), parallel group study in 182 healthy male and female volunteers age 18-65 years.

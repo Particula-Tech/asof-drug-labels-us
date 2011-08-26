@@ -26,6 +26,10 @@ The majority of these patients were children and adolescents with ß-thalassemia
 
 ## 5.2 Hepatic Dysfunction and Failure
 
+Avoid the use of Exjade in patients with severe (Child-Pugh C) hepatic impairment.
+For patients with moderate (Child-Pugh B) hepatic impairment, a 50% reduction in the starting dose is recommended [see Dosage and Administration (2.2), and Use in Specific Populations (8.7)].
+Closely monitor patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment for efficacy and adverse reactions that may require dose titration.
+
 In Study 1, 4 patients discontinued Exjade because of hepatic abnormalities (drug-induced hepatitis in 2 patients and increased serum transaminases in 2 additional patients).
 There have been postmarketing reports of hepatic failure, some with a fatal outcome, in patients treated with Exjade.
 Most of these events occurred in patients greater than 55 years of age.

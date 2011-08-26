@@ -33,7 +33,7 @@ Serious allergic reactions (which include swelling of the throat) have been repo
 If reactions are severe, advise patients to stop taking EXJADE and contact their doctor immediately.
 
 Certain patients should not receive Exjade.
-These include patients with creatinine clearance <40 mL/min or serum creatinine >2 times the age-appropriate upper limit of normal, patients with poor performance status and high-risk myelodysplastic syndromes or advanced malignancies, patients with platelet counts <50 x 109/L, and those with hypersensitivity to deferasirox or any component of Exjade.
+These include patients with severe (Child-Pugh C) hepatic impairment, creatinine clearance <40 mL/min or serum creatinine >2 times the age-appropriate upper limit of normal, patients with poor performance status and high-risk myelodysplastic syndromes or advanced malignancies, patients with platelet counts <50 x 109/L, and those with hypersensitivity to deferasirox or any component of Exjade.
 
 Manufactured by:
 
@@ -49,4 +49,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2011-67
+T2011-106
