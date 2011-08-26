@@ -14,7 +14,7 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
-The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+The risk did not vary substantially by age (5–100 years) in the clinical trials analyzed.
 
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
@@ -75,6 +75,18 @@ This represents an incidence of 0.0038 deaths per patient-year.
 Although this rate exceeds that expected in a healthy population matched for age and sex, it is within the range of estimates for the incidence of sudden unexplained deaths in patients with epilepsy not receiving gabapentin (ranging from 0.0005 for the general population of epileptics to 0.003 for a clinical trial population similar to that in the gabapentin program, to 0.005 for patients with refractory epilepsy).
 Consequently, whether these figures are reassuring or raise further concern depends on comparability of the populations reported upon to the gabapentin cohort and the accuracy of the estimates provided.
 
+## Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan hypersensitivity
+
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan hypersensitivity, has been reported in patients taking antiepileptic drugs, including gabapentin.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its expression, other organ systems not noted here may be involved.
+
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+Gabapentin should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
+
 # PRECAUTIONS
 
 ## Information for Patients
@@ -94,6 +106,8 @@ Patients should be carefully observed for signs of CNS depression, such as somno
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy section).
+
+Prior to initiation of treatment with gabapentin, the patient should be instructed that a rash or other signs or symtoms of hypersensitivity (such as fever or lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately.
 
 ## Laboratory Tests
 

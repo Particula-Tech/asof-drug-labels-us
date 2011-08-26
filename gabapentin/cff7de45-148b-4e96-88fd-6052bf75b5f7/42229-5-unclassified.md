@@ -1,3 +1,3 @@
 Rx only
 
-LAB-0290-10.0 March 2011
+LAB-0290-11.0 August 2011

@@ -35,6 +35,21 @@ GABAPENTIN can cause serious side effects including:
   - Stopping GABAPENTIN suddenly can cause serious problems.
     Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
 - 2.Changes in behavior and thinking - Using GABAPENTIN in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
+- 3.GABAPENTIN may cause a serious or life-threatening allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.
+  You may or may not have rash when you get this type of reaction.
+  It may cause you to be hospitalized or to stop GABAPENTIN.
+  Call a healthcare provider right away if you have any of the following symptoms:These symptoms may be the first signs of a serious reaction.
+  A healthcare provider should examine you to decide if you should continue taking GABAPENTIN.
+  - skin rash
+  - hives
+  - fever
+  - swollen glands that do not go away
+  - swelling of your lip and tongue
+  - yellowing of your skin or of the whites of the eyes
+  - unusual bruising or bleeding
+  - severe fatigue or weakness
+  - unexpected muscle pain
+  - frequent infections
 
 What is GABAPENTIN?
 
@@ -146,4 +161,4 @@ Inactive ingredients in the oral solution: glycerin, xylitol, purified water, an
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0437-2.0 March 2011
+LAB-0437-3.0 August 2011
