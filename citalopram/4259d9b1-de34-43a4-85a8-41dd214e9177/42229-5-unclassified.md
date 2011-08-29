@@ -42,11 +42,25 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION—Discontinuation of Treatment with Celexa, for a description of the risks of discontinuation of Celexa.
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION—Discontinuation of Treatment with Celexa, for a description of the risks of discontinuation of Celexa).
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for Celexa should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+
+## QT-Prolongation and Torsade de Pointes
+
+Citalopram causes dose-dependent QT prolongation and should not be dosed above 40 mg/day.
+Torsade de Pointes has been reported postmarketing.
+Celexa should not be used in patients with congenital long QT syndrome.
+Hypokalemia and hypomagnesemia should be corrected prior to initiation of treatment and periodically monitored.
+ECG monitoring is recommended in patients with congestive heart failure, bradyarrhythmias, or patients on concomitant medications that prolong the QT interval.
+Dose escalations over 20 mg/day in CYP2C19 poor metabolizers or patients taking concomitant cimetidine or another CYP2C19 inhibitor are not recommended.
+
+Individually corrected QTc (QTcNi) interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple-dose study in 119 healthy subjects.
+The maximum mean (upper bound of the 95% one-sided confidence interval) difference from placebo were 8.5 (10.8) and 18.5 (21.0) msec for 20 mg and 60 mg citalopram, respectively.
+Based on the established exposure-response relationship, the predicted QTcNi change from placebo (upper bound of the 95% one-sided confidence interval) under the Cmax for the dose of 40 mg is 12.6 (14.3) msec.
+In those patients who are CYP2C19 poor metabolizers or those patients who may be taking concomitant cimetidine or another CYP2C19 inhibitor, higher citalopram exposure would be expected, along with any concomitant risks.
 
 Screening Patients for Bipolar Disorder: A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.

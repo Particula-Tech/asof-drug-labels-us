@@ -1,16 +1,18 @@
 # DOSAGE AND ADMINISTRATION
 
+Celexa should be administered once daily, in the morning or evening, with or without food.
+
 ## Initial Treatment
 
-Celexa (citalopram HBr) should be administered at an initial dose of 20 mg once daily, generally with an increase to a dose of 40 mg/day.
-Dose increases should usually occur in increments of 20 mg at intervals of no less than one week.
-Although certain patients may require a dose of 60 mg/day, the only study pertinent to dose response for effectiveness did not demonstrate an advantage for the 60 mg/day dose over the 40 mg/day dose; doses above 40 mg are therefore not ordinarily recommended.
-
-Celexa should be administered once daily, in the morning or evening, with or without food.
+Celexa (citalopram HBr) should be administered at an initial dose of 20 mg once daily, with an increase to a maximum dose of 40 mg/day.
+Dose increase should usually occur in increments of 20 mg at intervals of no less than one week.
+Doses above 40 mg/day are not recommended due to the risk of QT prolongation.
+Additionally, the only study pertinent to dose response for effectiveness did not demonstrate an advantage for the 60 mg/day dose over the 40 mg/day dose.
 
 ## Special Populations
 
 20 mg/day is the recommended dose for most elderly patients and patients with hepatic impairment, with titration to 40 mg/day only for nonresponding patients.
+20 mg/day is the maximum recommended dose for CYP2C19 poor metabolizers or those patients taking cimetidine or another CYP2C19 inhibitor.
 
 No dosage adjustment is necessary for patients with mild or moderate renal impairment.
 Celexa should be used with caution in patients with severe renal impairment.

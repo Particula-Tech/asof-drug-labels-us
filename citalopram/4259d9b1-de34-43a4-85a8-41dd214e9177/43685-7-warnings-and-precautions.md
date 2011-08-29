@@ -16,23 +16,24 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 
 #### Abnormal Bleeding
 
-SSRIs and SNRIs, including Lexapro, may increase the risk of bleeding events.
+SSRIs and SNRIs, including Celexa, may increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to the risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of Lexapro and NSAIDs, aspirin, or other drugs that affect coagulation.
+Patients should be cautioned about the risk of bleeding associated with the concomitant use of Celexa and NSAIDs, aspirin, or other drugs that affect coagulation.
 
 #### Hyponatremia
 
 Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including Celexa.
-In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiureic hormone secretion (SIADH), and was reversible when Celexa was discontinued.
+In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH), and was reversible when Celexa was discontinued.
 Cases with serum sodium lower than 110 mmol/L have been reported.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
 Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk (see Geriatric Use).
 Discontinuation of Celexa should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
 
-Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls. signs and symptoms associated with more severe and/or acute cases have included hallucination, syncompe, seizure, coma, respiratory arrest, and death.
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
+Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
 #### Activation of Mania/Hypomania
 
@@ -55,7 +56,8 @@ Because any psychoactive drug may impair judgment, thinking, or motor skills, ho
 #### Use in Patients with Concomitant Illness
 
 Clinical experience with Celexa in patients with certain concomitant systemic illnesses is limited.
-Caution is advisable in using Celexa in patients with diseases or conditions that produce altered metabolism or hemodynamic responses.
+Due to the risk of QT prolongation, ECG monitoring is advised when using Celexa in patients with congestive heart failure, bradyarrhythmias, or who are taking medications that prolong the QT interval.
+Caution is advised in treating patients with diseases or conditions that cause hypokalemia or hypomagnesemia.
 
 Celexa has not been systematically evaluated in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were generally excluded from clinical studies during the product's premarketing testing.
@@ -104,7 +106,18 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 There are no specific laboratory tests recommended.
 
+## QT-Prolongation and Torsade de Pointes
+
+Citalopram causes dose dependent QT prolongation and should not be dosed above 40 mg/day.
+Torsade de Pointes has been reported postmarketing.
+Celexa should not be used in patients with congenital long QT syndrome.
+Hypokalemia and hypomagnesemia should be corrected prior to initiation of treatment and periodically monitored.
+ECG monitoring is recommended in patients with congestive heart failure, bradyarrhythmias, or patients on concomitant medications that prolong the QT interval.
+Dose escalations over 20 mg/day in CYP2C19 poor metabolizers or patients taking concomitant cimetidine or another CYP2C19 inhibitor are not recommended.
+
 ## Drug Interactions
+
+Drugs that Prolong the QT interval: ECG monitoring is recommended with concomitant medications that have demonstrated prolongation of the QT interval (see WARNINGS- QT-Prolongation and Torsade de Pointes).
 
 Serotonergic Drugs: Based on the mechanism of action of SNRIs and SSRIs including Celexa, and the potential for serotonin syndrome, caution is advised when Celexa is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS-Serotonin Syndrome).
 The concomitant use of Celexa with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS - Drug Interactions).
@@ -118,15 +131,14 @@ Alcohol - Although citalopram did not potentiate the cognitive and motor effects
 
 Monoamine Oxidase Inhibitors (MAOIs) - See CONTRAINDICATIONS and WARNINGS.
 
-Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)- Serotonin release by platelets plays an important role in hemostasis.
-Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding.
-These studies have also shown that concurrent use of an NSAID or aspirin may potentiate the risk of bleeding.
-
+Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.) - Serotonin release by platelets plays an important role in hemostasis.
+Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate the risk of bleeding.
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.
-Patients receiving warfarin therapy should be carefully monitored when Lexapro is initiated or discontinued.
+Patients receiving warfarin therapy should be carefully monitored when Celexa is initiated or discontinued.
 
 Cimetidine - In subjects who had received 21 days of 40 mg/day Celexa, combined administration of 400 mg/day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.
-The clinical significance of these findings is unknown.
+
+Celexa 20 mg/day is the maximum recommended dose for patients taking concomitant cimetidine because of the risk of QT prolongation (see DOSAGE AND ADMINISTRATION).
 
 Digoxin - In subjects who had received 21 days of 40 mg/day Celexa, combined administration of Celexa and digoxin (single dose of 1 mg) did not significantly affect the pharmacokinetics of either citalopram or digoxin.
 
@@ -157,6 +169,8 @@ Ketoconazole - Combined administration of Celexa (40 mg) and ketoconazole (200 m
 CYP3A4 and 2C19 Inhibitors - In vitro studies indicated that CYP3A4 and 2C19 are the primary enzymes involved in the metabolism of citalopram.
 However, coadministration of citalopram (40 mg) and ketoconazole (200 mg), a potent inhibitor of CYP3A4, did not significantly affect the pharmacokinetics of citalopram.
 Because citalopram is metabolized by multiple enzyme systems, inhibition of a single enzyme may not appreciably decrease citalopram clearance.
+
+Celexa 20 mg/day is the maximum recommended dose for patients taking concomitant CYP2C19 inhibitors because of the risk of QT prolongation (see DOSAGE AND ADMINISTRATION).
 
 Metoprolol - Administration of 40 mg/day Celexa for 22 days resulted in a two-fold increase in the plasma levels of the beta-adrenergic blocker metoprolol.
 Increased metoprolol plasma levels have been associated with decreased cardioselectivity.
@@ -240,9 +254,12 @@ The decision whether to continue or discontinue either nursing or Celexa therapy
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS—Clinical Worsening and Suicide Risk).
+Safety and effectiveness in the pediatric population have not been established (see BOXED WARNING and WARNINGS—Clinical Worsening and Suicide Risk).
 Two placebo-controlled trials in 407 pediatric patients with MDD have been conducted with Celexa, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of Celexa in a child or adolescent must balance the potential risks with the clinical need.
+
+Decreased appetite and weight loss have been observed in association with the use of SSRIs.
+Consequently, regular monitoring of weight and growth should be performed in children and adolescents treated with Celexa.
 
 ## Geriatric Use
 

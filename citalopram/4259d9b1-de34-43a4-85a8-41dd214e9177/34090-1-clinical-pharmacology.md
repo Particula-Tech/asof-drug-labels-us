@@ -41,6 +41,7 @@ In vitro studies using human liver microsomes indicated that CYP3A4 and CYP2C19 
 Age - Citalopram pharmacokinetics in subjects ≥ 60 years of age were compared to younger subjects in two normal volunteer studies.
 In a single-dose study, citalopram AUC and half-life were increased in the elderly subjects by 30% and 50%, respectively, whereas in a multiple-dose study they were increased by 23% and 30%, respectively.
 20 mg is the recommended dose for most elderly patients (see DOSAGE AND ADMINISTRATION).
+20 mg/day is the maximum recommended dose for those who are CYP2C19 poor metabolizers or who are also taking a CYP2C19 inhibitor such as cimetidine, due to the risk of QT prolongation.
 
 Gender - In three pharmacokinetic studies (total N=32), citalopram AUC in women was one and a half to two times that in men.
 This difference was not observed in five other pharmacokinetic studies (total N=114).
@@ -66,6 +67,7 @@ However, coadministration of citalopram and the potent 3A4 inhibitor ketoconazol
 Because citalopram is metabolized by multiple enzyme systems, inhibition of a single enzyme may not appreciably decrease citalopram clearance.
 Citalopram steady state levels were not significantly different in poor metabolizers and extensive 2D6 metabolizers after multiple-dose administration of Celexa, suggesting that coadministration, with Celexa, of a drug that inhibits CYP2D6, is unlikely to have clinically significant effects on citalopram metabolism.
 See Drug Interactions under PRECAUTIONS for more detailed information on available drug interaction data.
+Celexa 20 mg/day is the maximum recommended dose for patients taking concomitant cimetidine or another CYP2C19 inhibitor because of the risk of QT prolongation.
 
 ## Clinical Efficacy Trials
 

@@ -146,9 +146,13 @@ These analyses revealed no clinically important changes in laboratory test param
 
 ### ECG Changes
 
-Electrocardiograms from Celexa (N=802) and placebo (N=241) groups were compared with respect to (1) mean change from baseline in various ECG parameters, and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
-The only statistically significant drug-placebo difference observed was a decrease in heart rate for Celexa of 1.7 bpm compared to no change in heart rate for placebo.
-There were no observed differences in QT or other ECG intervals.
+In a thorough QT study, Celexa was found to be associated with a dose-dependent increase in the QTc interval (see WARNINGS - QT-Prolongation and Torsade de Pointes).
+
+Electrocardiograms from Celexa (N=802) and placebo (N=241) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
+In the Celexa group 1.9% of the patients had a change from baseline in QTcF >60 msec compared to 1.2% of the patients in the placebo group.
+None of the patients in the placebo group had a post-dose QTcF >500 msec compared to 0.5% of the patients in the Celexa group.
+The incidence of tachycardic outliers was 0.5% in the Celexa group and 0.4% in the placebo group.
+The incidence of bradycardic outliers was 0.9% in the Celexa group and 0.4% in the placebo group.
 
 ## Other Events Observed During the Premarketing Evaluation of Celexa (citalopram HBr)
 
