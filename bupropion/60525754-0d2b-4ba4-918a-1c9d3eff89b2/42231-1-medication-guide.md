@@ -198,6 +198,8 @@ General Information about WELLBUTRIN.
   Do not give WELLBUTRIN to other people, even if they have the same symptoms you have.
   It may harm them.
   Keep WELLBUTRIN out of the reach of children.
+- If you take a urine drug screening test, WELLBUTRIN may make the test result positive for amphetamines.
+  If you tell the person giving you the drug screening test that you are taking WELLBUTRIN, they can do a more specific drug screening test that should not have this problem.
 
 This Medication Guide summarizes important information about WELLBUTRIN.
 For more information, talk to your doctor.
@@ -208,8 +210,6 @@ What are the ingredients in WELLBUTRIN?
 Active ingredient: bupropion hydrochloride.
 
 Inactive ingredients: 75-mg tablet − D&C Yellow No. 10 Lake, FD&C Yellow No. 6 Lake, hydroxypropyl cellulose, hypromellose, microcrystalline cellulose, polyethylene glycol, talc, and titanium dioxide; 100-mg tablet − FD&C Red No. 40 Lake, FD&C Yellow No. 6 Lake, hydroxypropyl cellulose, hypromellose, microcrystalline cellulose, polyethylene glycol, talc, and titanium dioxide.
-
-Rx only
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -233,9 +233,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2010, GlaxoSmithKline.
-All rights reserve.
+©2011, GlaxoSmithKline.
+All rights reserved.
 
-May 2010
+August 2011
 
-WLT:6MG
+WLT:7MG

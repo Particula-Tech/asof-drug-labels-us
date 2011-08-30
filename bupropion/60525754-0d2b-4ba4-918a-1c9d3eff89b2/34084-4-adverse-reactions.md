@@ -94,96 +94,52 @@ Events of major clinical importance are also described in WARNINGS and PRECAUTIO
 The following definitions of frequency are used: Frequent adverse events are defined as those occurring in at least 1/100 patients.
 Infrequent adverse events are those occurring in 1/100 to 1/1,000 patients, while rare events are those occurring in less than 1/1,000 patients.
 
-### Cardiovascular
+Cardiovascular: Frequent was edema; infrequent were chest pain, electrocardiogram (ECG) abnormalities (premature beats and nonspecific ST-T changes), and shortness of breath/dyspnea; rare were flushing, pallor, phlebitis, and myocardial infarction.
 
-Frequent was edema; infrequent were chest pain, electrocardiogram (ECG) abnormalities (premature beats and nonspecific ST-T changes), and shortness of breath/dyspnea; rare were flushing, pallor, phlebitis, and myocardial infarction.
+Dermatologic: Frequent were nonspecific rashes; infrequent were alopecia and dry skin; rare were change in hair color, hirsutism, and acne.
 
-### Dermatologic
+Endocrine: Infrequent was gynecomastia; rare were glycosuria and hormone level change.
 
-Frequent were nonspecific rashes; infrequent were alopecia and dry skin; rare were change in hair color, hirsutism, and acne.
+Gastrointestinal: Infrequent were dysphagia, thirst disturbance, and liver damage/jaundice; rare were rectal complaints, colitis, gastrointestinal bleeding, intestinal perforation, and stomach ulcer.
 
-### Endocrine
+Genitourinary: Frequent was nocturia; infrequent were vaginal irritation, testicular swelling, urinary tract infection, painful erection, and retarded ejaculation; rare were dysuria, enuresis, urinary incontinence, menopause, ovarian disorder, pelvic infection, cystitis, dyspareunia, and painful ejaculation.
 
-Infrequent was gynecomastia; rare were glycosuria and hormone level change.
+Hematologic/Oncologic: Rare were lymphadenopathy, anemia, and pancytopenia.
 
-### Gastrointestinal
+Musculoskeletal: Rare was musculoskeletal chest pain.
 
-Infrequent were dysphagia, thirst disturbance, and liver damage/jaundice; rare were rectal complaints, colitis, gastrointestinal bleeding, intestinal perforation, and stomach ulcer.
+Neurological: (see WARNINGS) Frequent were ataxia/incoordination, seizure, myoclonus, dyskinesia, and dystonia; infrequent were mydriasis, vertigo, and dysarthria; rare were electroencephalogram (EEG) abnormality, abnormal neurological exam, impaired attention, sciatica, and aphasia.
 
-### Genitourinary
+Neuropsychiatric: (see PRECAUTIONS) Frequent were mania/hypomania, increased libido, hallucinations, decrease in sexual function, and depression; infrequent were memory impairment, depersonalization, psychosis, dysphoria, mood instability, paranoia, formal thought disorder, and frigidity; rare was suicidal ideation.
 
-Frequent was nocturia; infrequent were vaginal irritation, testicular swelling, urinary tract infection, painful erection, and retarded ejaculation; rare were dysuria, enuresis, urinary incontinence, menopause, ovarian disorder, pelvic infection, cystitis, dyspareunia, and painful ejaculation.
+Oral Complaints: Frequent was stomatitis; infrequent were toothache, bruxism, gum irritation, and oral edema; rare was glossitis.
 
-### Hematologic/Oncologic
+Respiratory: Infrequent were bronchitis and shortness of breath/dyspnea; rare were epistaxis, rate or rhythm disorder, pneumonia, and pulmonary embolism.
 
-Rare were lymphadenopathy, anemia, and pancytopenia.
+Special Senses: Infrequent was visual disturbance; rare was diplopia.
 
-### Musculoskeletal
-
-Rare was musculoskeletal chest pain.
-
-### Neurological
-
-(see WARNINGS) Frequent were ataxia/incoordination, seizure, myoclonus, dyskinesia, and dystonia; infrequent were mydriasis, vertigo, and dysarthria; rare were electroencephalogram (EEG) abnormality, abnormal neurological exam, impaired attention, sciatica, and aphasia.
-
-### Neuropsychiatric
-
-(see PRECAUTIONS) Frequent were mania/hypomania, increased libido, hallucinations, decrease in sexual function, and depression; infrequent were memory impairment, depersonalization, psychosis, dysphoria, mood instability, paranoia, formal thought disorder, and frigidity; rare was suicidal ideation.
-
-### Oral Complaints
-
-Frequent was stomatitis; infrequent were toothache, bruxism, gum irritation, and oral edema; rare was glossitis.
-
-### Respiratory
-
-Infrequent were bronchitis and shortness of breath/dyspnea; rare were epistaxis, rate or rhythm disorder, pneumonia, and pulmonary embolism.
-
-### Special Senses
-
-Infrequent was visual disturbance; rare was diplopia.
-
-### Nonspecific
-
-Frequent were flu-like symptoms; infrequent was nonspecific pain; rare were body odor, surgically related pain, infection, medication reaction, and overdose.
+Nonspecific: Frequent were flu-like symptoms; infrequent was nonspecific pain; rare were body odor, surgically related pain, infection, medication reaction, and overdose.
 
 ## Postintroduction Reports
 
 Voluntary reports of adverse events temporally associated with bupropion that have been received since market introduction and which may have no causal relationship with the drug include the following:
 
-### Body (General)
-
-arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
+Body (General): arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
 These symptoms may resemble serum sickness (see PRECAUTIONS).
 
-### Cardiovascular
+Cardiovascular: hypertension (in some cases severe, see PRECAUTIONS), orthostatic hypotension, third degree heart block
 
-hypertension (in some cases severe, see PRECAUTIONS), orthostatic hypotension, third degree heart block
+Endocrine: syndrome of inappropriate antidiuretic hormone secretion, hyperglycemia, hypoglycemia
 
-### Endocrine
+Gastrointestinal: esophagitis, hepatitis, liver damage
 
-syndrome of inappropriate antidiuretic hormone secretion, hyperglycemia, hypoglycemia
-
-### Gastrointestinal
-
-esophagitis, hepatitis, liver damage
-
-### Hemic and Lymphatic
-
-ecchymosis, leukocytosis, leukopenia, thrombocytopenia.
+Hemic and Lymphatic: ecchymosis, leukocytosis, leukopenia, thrombocytopenia.
 Altered PT and/or INR, infrequently associated with hemorrhagic or thrombotic complications, were observed when bupropion was coadministered with warfarin.
 
-### Musculoskeletal
+Musculoskeletal: arthralgia, myalgia, muscle rigidity/fever/rhabdomyolysis, muscle weakness
 
-arthralgia, myalgia, muscle rigidity/fever/rhabdomyolysis, muscle weakness
+Nervous: aggression, coma, completed suicide, delirium, dream abnormalities, paranoid ideation, paresthesia, restlessness, suicide attempt, unmasking of tardive dyskinesia
 
-### Nervous
+Skin and Appendages: Stevens-Johnson syndrome, angioedema, exfoliative dermatitis, urticaria
 
-aggression, coma, completed suicide, delirium, dream abnormalities, paranoid ideation, paresthesia, restlessness, suicide attempt, unmasking of tardive dyskinesia
-
-### Skin and Appendages
-
-Stevens-Johnson syndrome, angioedema, exfoliative dermatitis, urticaria
-
-### Special Senses
-
-tinnitus, increased intraocular pressure
+Special Senses: tinnitus, increased intraocular pressure
