@@ -65,6 +65,15 @@ Thiazide diuretics have been reported to cause exacerbation or activation of sys
 
 Lithium generally should not be given with thiazides (see PRECAUTIONS, Drug Interactions, Hydrochlorothiazide, Lithium).
 
+## Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma.
+Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation.
+Untreated acute angle-closure glaucoma can lead to permanent vision loss.
+The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible.
+Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
+Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
 # PRECAUTIONS
 
 ## General
@@ -167,6 +176,9 @@ These effects are usually reversible.
 Monitor renal function periodically in patients receiving losartan and NSAID therapy.
 
 The antihypertensive effect of angiotensin II receptor antagonists, including losartan, may be attenuated by NSAIDs, including selective COX-2 inhibitors.
+
+Dual blockade of the renin-angiotensin-aldosterone system: It has been reported in the literature that in patients with established atherosclerotic disease, heart failure, or with diabetes with end organ damage, dual blockade of the renin-angiotensin-aldosterone system is associated with a higher frequency of hypotension, syncope, hyperkalemia, and changes in renal function (including acute renal failure) as compared to use of a single renin-angiotensin-aldosterone system agent.
+Dual blockade (e.g., by adding an ACE inhibitor to an angiotensin II receptor antagonist) should be limited to individually defined cases with close monitoring of renal function.
 
 ### Hydrochlorothiazide
 

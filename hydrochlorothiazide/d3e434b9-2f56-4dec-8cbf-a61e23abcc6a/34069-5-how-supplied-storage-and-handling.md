@@ -10,9 +10,7 @@
 | NDC |  |  |  |
 | Bottle: 30 tablets | 0006-0717-31 | 0006-0745-31 | 0006-0747-31 |
 | Bottle: 90 tablets | 0006-0717-54 | 0006-0745-54 | 0006-0747-54 |
-| Unit dose packs of 100 | ---- | 0006-0745-28 | --- |
 | Bottle: 1000 tablets | 0006-0717-82 | 0006-0745-82 | 0006-0747-82 |
-| Bottle: 5000 tablets | ---- | 0006-0745-86 | ---- |
 
 ## Storage
 
@@ -22,8 +20,8 @@ Protect from light.
 
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued February 2011
+Issued August 2011
 
-9964303
+9964305
 
-Copyright © 1995, 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+Copyright © 1995, 2005, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved

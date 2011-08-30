@@ -73,7 +73,8 @@ Especially tell your doctor if you are taking:
 - salt substitutes containing potassium
 - water pills (diuretics)
 - lithium (a medicine used to treat a certain kind of depression)
-- medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors.
+- medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
+- other medicines to reduce blood pressure.
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your doctor and pharmacist when you get a new medicine.
@@ -103,10 +104,16 @@ HYZAAR may cause the following side effects that may be serious:
   Lie down if you feel faint or dizzy.
   Call your doctor right away.
 - a new or worsening condition called systemic lupus erythematosus (Lupus; SLE)
-- if you have kidney problems, you may see a worsening in how well your kidneys work.
+- If you have kidney problems, you may see a worsening in how well your kidneys work.
   Call your doctor if you get swelling in your feet, ankles, or hands, or unexplained weight gain.
 - If you have liver problems, you may see a worsening in how well your liver works.
   Call your doctor if you get nausea, pain in the right upper stomach area (abdomen), yellow eyes or skin (which can be itchy).
+- Eye problems.
+  One of the medicines in HYZAAR can cause eye problems that, if left untreated, may lead to vision loss.
+  Symptoms of eye problems can happen within hours to weeks of starting HYZAAR.
+  Tell your doctor right away if you have:
+  - decrease in vision
+  - eye pain
 
 The most common side effects of HYZAAR in people with high blood pressure are:
 
@@ -150,8 +157,8 @@ HYZAAR 50-12.5, HYZAAR 100-12.5, and HYZAAR 100-25 may also contain carnauba wax
 
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued February 2011
+Issued August 2011
 
-9964303
+9964305
 
-Copyright © 2006 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+Copyright © 2006, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
