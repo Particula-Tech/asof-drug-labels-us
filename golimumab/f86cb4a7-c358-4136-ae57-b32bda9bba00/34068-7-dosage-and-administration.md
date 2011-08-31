@@ -2,7 +2,7 @@
 
 ## 2.1 Rheumatoid Arthritis, Psoriatic Arthritis, Ankylosing Spondylitis
 
-The SIMPONI dose regimen is 50 mg administered by subcutaneous (SC) injection once a month.
+The SIMPONI dose regimen is 50 mg administered by subcutaneous injection once a month.
 
 For patients with rheumatoid arthritis (RA), SIMPONI should be given in combination with methotrexate and for patients with psoriatic arthritis (PsA) or ankylosing spondylitis (AS), SIMPONI may be given with or without methotrexate or other non-biologic Disease Modifying Antirheumatic Drugs (DMARDs).
 For patients with RA, PsA, or AS, corticosteroids, non-biologic DMARDs, and/or NSAIDs may be continued during treatment with SIMPONI.
@@ -10,6 +10,7 @@ For patients with RA, PsA, or AS, corticosteroids, non-biologic DMARDs, and/or N
 ## 2.2 Monitoring to Assess Safety
 
 Prior to initiating SIMPONI and periodically during therapy, patients should be evaluated for active tuberculosis and tested for latent infection [see Warnings and Precautions (5.1)].
+Prior to initiating SIMPONI, patients should be tested for hepatitis B viral infection [see Warnings and Precautions (5.1)].
 
 ## 2.3 General Considerations for Administration
 

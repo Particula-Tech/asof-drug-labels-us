@@ -44,4 +44,6 @@ If the autoinjector is pulled away from the skin before the injection is complet
 A puncture-resistant container for disposal of needles and syringes should be used.
 Patients or caregivers should be instructed in the technique of proper syringe and needle disposal, and be advised not to reuse these items.
 
-Manufactured by: Centocor Ortho Biotech Inc. Horsham, PA 19044 US License No. 1821
+Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864
+
+© Janssen Biotech, Inc. 2011

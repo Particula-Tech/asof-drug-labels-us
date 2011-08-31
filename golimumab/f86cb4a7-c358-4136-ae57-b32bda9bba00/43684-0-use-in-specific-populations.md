@@ -14,6 +14,10 @@ A pre- and post-natal developmental study was performed in which pregnant cynomo
 Golimumab was present in the neonatal serum from the time of birth and for up to six months postpartum.
 Exposure to golimumab during gestation and during the postnatal period caused no developmental defects in the infants.
 
+IgG antibodies are known to cross the placenta during pregnancy and have been detected in the serum of infants born to patients treated with these antibodies.
+Since SIMPONI is an IgG antibody, infants born to women treated with SIMPONI during their pregnancy may be at increased risk of infection for up to 6 months.
+Administration of live vaccines to infants exposed to SIMPONI in utero is not recommended for 6 months following the mother's last SIMPONI injection during pregnancy [see Warnings and Precautions (5.9)].
+
 ## 8.3 Nursing Mothers
 
 It is not known whether SIMPONI is excreted in human milk or absorbed systemically after ingestion.

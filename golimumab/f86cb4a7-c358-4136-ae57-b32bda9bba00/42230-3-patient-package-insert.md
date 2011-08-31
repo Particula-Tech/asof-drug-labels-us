@@ -41,7 +41,7 @@ See Figure 2.
 - Check the expiration date ("EXP") on the SmartJect autoinjector.
 - You can also check the expiration date printed on the back panel of the SIMPONI carton, to the left of the SIMPONI logo.
 - If the expiration date has passed, do not use the SmartJect autoinjector.
-  Call your doctor or pharmacist, or call 1-800-457-6399 for help.
+  Call your doctor or pharmacist, or call 1-800-JANSSEN (1-800-526-7736) for help.
 
 1.2 Check Security Seal
 
@@ -150,7 +150,7 @@ Step 4: After the injection
   This means the SmartJect autoinjector has worked the right way.
   Figure 14
 - If you do not think you received your injection, check the yellow indicator again to confirm that the dose was delivered.
-- If you do not see the yellow indicator in the viewing window, call 1-800-457-6399 for help.
+- If you do not see the yellow indicator in the viewing window, call 1-800-JANSSEN (1-800-526-7736) for help.
   Do not administer a second dose without speaking to your doctor.
 
 4.2 Dispose of the used SmartJect autoinjector
@@ -171,9 +171,9 @@ Step 4: After the injection
   Do not rub the injection site.
 - You may cover the injection site with a small adhesive bandage, if needed.
 
-Manufactured by: Centocor Ortho Biotech Inc. Horsham, PA 19044 US License No. 1821
+Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864
 
-Revised: 12/2010
+Revised: 8/2011
 
 Patient Instructions for Use SIMPONI® Prefilled Syringe
 
@@ -223,7 +223,7 @@ Step 2: Get ready to use your prefilled syringe
 
 - Look for the expiration date printed on the back panel of the SIMPONI carton, to the left of the SIMPONI logo.
 - If the expiration date has passed, do not use the prefilled syringe.
-  Call your doctor or pharmacist or call 1-800-457-6399 for help.
+  Call your doctor or pharmacist or call 1-800-JANSSEN (1-800-526-7736) for help.
 
 2.2 Wait 30 minutes
 
@@ -329,6 +329,6 @@ Step 5: After the injection
   Do not rub the injection site.
 - You may cover the injection site with a small adhesive bandage, if needed.
 
-Manufactured by: Centocor Ortho Biotech Inc. Horsham, PA 19044 US License No. 1821
+Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864
 
-Revised: 12/2010
+Revised: 8/2011

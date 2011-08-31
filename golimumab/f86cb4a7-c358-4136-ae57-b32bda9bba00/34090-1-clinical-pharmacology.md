@@ -17,16 +17,16 @@ In clinical studies, decreases in C-reactive protein (CRP), interleukin (IL)-6, 
 
 ## 12.3 Pharmacokinetics
 
-Following subcutaneous (SC) administration of SIMPONI to healthy subjects and patients with active RA, the median time to reach maximum serum concentrations (Tmax) ranged from 2 to 6 days.
-A SC injection of 50 mg SIMPONI to healthy subjects produced a mean maximum serum concentration (Cmax) of approximately 2.5 µg/mL.
+Following subcutaneous administration of SIMPONI to healthy subjects and patients with active RA, the median time to reach maximum serum concentrations (Tmax) ranged from 2 to 6 days.
+A subcutaneous injection of 50 mg SIMPONI to healthy subjects produced a mean maximum serum concentration (Cmax) of approximately 2.5 µg/mL.
 SIMPONI exhibited dose-proportional pharmacokinetics (PK) in patients with active RA over the dose range of 0.1 to 10.0 mg/kg following a single intravenous (IV) dose.
 Following a single IV administration over the same dose range in patients with active RA, mean systemic clearance of SIMPONI was estimated to be 4.9 to 6.7 mL/day/kg, and mean volume of distribution ranged from 58 to 126 mL/kg.
 The volume of distribution for SIMPONI indicates that SIMPONI is distributed primarily in the circulatory system with limited extravascular distribution.
 Median terminal half-life values were estimated to be approximately 2 weeks in healthy subjects and patients with active RA, PsA or AS.
-By cross-study comparisons of mean AUCinf values following an IV or SC administration of SIMPONI, the absolute bioavailability of SC SIMPONI was estimated to be approximately 53%.
+By cross-study comparisons of mean AUCinf values following an IV or subcutaneous administration of SIMPONI, the absolute bioavailability of subcutaneous SIMPONI was estimated to be approximately 53%.
 
-When 50 mg SIMPONI was administered SC to patients with RA, PsA, or AS every 4 weeks, serum concentrations appeared to reach steady state by Week 12.
-With concomitant use of methotrexate (MTX), treatment with 50 mg SIMPONI SC every 4 weeks resulted in a mean steady-state trough serum concentration of approximately 0.4–0.6 µg/mL in patients with active RA, approximately 0.5 µg/mL in patients with active PsA, and approximately 0.8 µg/mL in patients with active AS.
+When 50 mg SIMPONI was administered subcutaneous to patients with RA, PsA, or AS every 4 weeks, serum concentrations appeared to reach steady state by Week 12.
+With concomitant use of methotrexate (MTX), treatment with 50 mg SIMPONI subcutaneous every 4 weeks resulted in a mean steady-state trough serum concentration of approximately 0.4–0.6 µg/mL in patients with active RA, approximately 0.5 µg/mL in patients with active PsA, and approximately 0.8 µg/mL in patients with active AS.
 Patients with RA, PsA, and AS treated with SIMPONI 50 mg and MTX had approximately 52%, 36% and 21% higher mean steady-state trough concentrations of golimumab, respectively compared with those treated with SIMPONI 50 mg without MTX.
 The presence of MTX also decreased anti-golimumab antibody incidence from 7% to 2% [see Adverse Reactions (6.1)].
 For RA, SIMPONI should be used with MTX.

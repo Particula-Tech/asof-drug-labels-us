@@ -15,6 +15,9 @@ There is insufficient information to provide recommendations regarding the conco
 
 Live vaccines should not be given concurrently with SIMPONI [see Warnings and Precautions (5.9)].
 
+Infants born to women treated with SIMPONI during their pregnancy may be at increased risk of infection for up to 6 months.
+Administration of live vaccines to infants exposed to SIMPONI in utero is not recommended for 6 months following the mother's last SIMPONI injection during pregnancy (see Use in Specific Populations (8.1)].
+
 ## 7.4 Cytochrome P450 Substrates
 
 The formation of CYP450 enzymes may be suppressed by increased levels of cytokines (e.g., TNFα) during chronic inflammation.

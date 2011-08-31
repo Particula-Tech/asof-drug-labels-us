@@ -58,7 +58,8 @@ The use of TNF-blockers including SIMPONI has been associated with reactivation 
 In some instances, HBV reactivation occurring in conjunction with TNF-blocker therapy has been fatal.
 The majority of these reports have occurred in patients who received concomitant immunosuppressants.
 
-Patients at risk for HBV infection should be evaluated for prior evidence of HBV infection before initiating TNF-blocker therapy.
+All patients should be tested for HBV infection before initiating TNF-blocker therapy.
+For patients who test positive for hepatitis B surface antigen, consultation with a physician with expertise in the treatment of hepatitis B is recommended before initiating TNF-blocker therapy.
 The risks and benefits of treatment should be considered prior to prescribing TNF-blockers, including SIMPONI, to patients who are carriers of HBV.
 Adequate data are not available on whether anti-viral therapy can reduce the risk of HBV reactivation in HBV carriers who are treated with TNF-blockers.
 Patients who are carriers of HBV and require treatment with TNF-blockers should be closely monitored for clinical and laboratory signs of active HBV infection throughout therapy and for several months following termination of therapy.
@@ -132,3 +133,9 @@ No data are available on the response to live vaccination or the risk of infecti
 In the Phase 3 PsA study, after pneumococcal vaccination, a similar proportion of SIMPONI-treated and placebo-treated patients were able to mount an adequate immune response of at least a 2-fold increase in antibody titers to pneumococcal polysaccharide vaccine.
 In both SIMPONI-treated and placebo-treated patients, the proportions of patients with response to pneumococcal vaccine were lower among patients receiving MTX compared with patients not receiving MTX.
 The data suggest that SIMPONI does not suppress the humoral immune response to the pneumococcal vaccine.
+
+## 5.10 Hypersensitivity Reactions
+
+In post-marketing experience, serious systemic hypersensitivity reactions (including anaphylactic reaction) have been reported following SIMPONI administration.
+Some of these reactions occurred after the first administration of SIMPONI.
+If an anaphylactic or other serious allergic reaction occurs, administration of SIMPONI should be discontinued immediately and appropriate therapy instituted.

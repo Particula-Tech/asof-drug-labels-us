@@ -75,7 +75,7 @@ Adverse Drug Reactions Reported by ≥ 1% of SIMPONI-Treated Patients and with a
 | Hypertension | 3% | 2% |
 | Nervous system disorders |  |  |
 | Dizziness | 2% | 1% |
-| Paraesthesia | 2% | 1% |
+| Paresthesia | 2% | 1% |
 | Gastrointestinal Disorders |  |  |
 | Constipation | 1% | <1% |
 
@@ -85,6 +85,15 @@ Adverse drug reactions that occurred <1% in SIMPONI-treated patients during the 
 
 Infections and infestations: Septic shock, atypical mycobacterial infection, pyelonephritis, arthritis bacterial, bursitis infective
 
+Neoplasms benign, malignant and unspecified: leukemia
+
 Skin and subcutaneous tissue disorders: psoriasis (new onset or worsening, palmar/plantar and pustular), vasculitis (cutaneous)
 
 Vascular disorders: Vasculitis (systemic)
+
+## 6.2 Post-marketing Experience
+
+The following adverse reactions have been identified during post-approval use of SIMPONI.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to SIMPONI exposure.
+
+Immune System Disorders: Serious systemic hypersensitivity reactions (including anaphylactic reaction) [see Warnings and Precautions (5.10)].

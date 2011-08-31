@@ -12,7 +12,7 @@ SIMPONI can lower the ability of your immune system to fight infections.
 Some people have serious infections while taking SIMPONI, including tuberculosis (TB), and infections caused by bacteria, fungi, or viruses that spread throughout their body.
 Some people have died from these serious infections.
 
-- Your doctor should test you for TB before starting SIMPONI.
+- Your doctor should test you for TB and hepatitis B before starting SIMPONI.
 - Your doctor should monitor you closely for signs and symptoms of TB during treatment with SIMPONI.
 
 You should not start taking SIMPONI if you have any kind of infection unless your doctor says it is okay.
@@ -63,6 +63,9 @@ Before starting SIMPONI, tell your doctor about all your medical conditions, inc
 - have recently received or are scheduled to receive a vaccine.
   People taking SIMPONI should not receive live vaccines.
   People taking SIMPONI can receive non-live vaccines.
+- have a baby and you were using SIMPONI during your pregnancy.
+  Tell your baby's doctor before your baby receives any vaccine.
+  Your baby may have an increased chance of getting an infection for up to 6 months after birth.
 - are allergic to rubber or latex.
   The needle cover on the prefilled syringe and SmartJect® autoinjector contains dry natural rubber.
 - are pregnant or planning to become pregnant.
@@ -74,7 +77,7 @@ Before starting SIMPONI, tell your doctor about all your medical conditions, inc
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Especially, tell your doctor if you:
 
-- use ORENCIA (abatacept), KINERET (anakinra).
+- use ORENCIA (abatacept) or KINERET (anakinra).
   You should not take SIMPONI while you are also taking ORENCIA (abatacept) or KINERET (anakinra).
 - use other TNF-blocker medicines, including REMICADE (infliximab), HUMIRA (adalimumab), ENBREL (etanercept), or CIMZIA (certolizumab pegol).
 - receive RITUXAN (rituximab) or ACTEMRA (tocilizumab).
@@ -85,7 +88,7 @@ Keep a list of all your medications with you to show your doctor and pharmacist 
 
 How should I use SIMPONI?
 
-- SIMPONI is given as an injection under the skin (subcutaneous injection or SC).
+- SIMPONI is given as an injection under the skin (subcutaneous injection).
 - SIMPONI should be injected one time each month.
 - If your doctor decides that you or a caregiver may be able to give your injections of SIMPONI at home, you should receive training on the right way to prepare and inject SIMPONI.
   Do not try to inject SIMPONI yourself until you have been shown the right way to give the injections by your doctor or nurse.
@@ -107,7 +110,7 @@ See "What is the most important information I should know about SIMPONI?"
 Hepatitis B infection in people who carry the virus in their blood.
 
 - If you are a carrier of the hepatitis B virus (a virus that affects the liver), the virus can become active while you use SIMPONI.
-  Your doctor may do blood tests before you start treatment with SIMPONI and while you are using SIMPONI.
+  Your doctor should do blood tests before you start treatment with SIMPONI and while you are using SIMPONI.
   Tell your doctor if you have any of the following symptoms of a possible hepatitis B infection: feel very tireddark urineskin or eyes look yellowlittle or no appetitevomitingmuscle aches clay-colored bowel movementsfeverschillsstomach discomfortskin rash
 
 Heart failure, including new heart failure or worsening of heart failure that you already have.
@@ -165,7 +168,9 @@ Other side effects with SIMPONI include:
   Tell your doctor if you develop red scaly patches or raised bumps that are filled with pus.
   Your doctor may decide to stop your treatment with SIMPONI.
 - Allergic Reactions.
-  Allergic reactions can happen in people who use TNF-blocker medicines.
+  Allergic reactions can happen in people who use TNF-blocker medicines including SIMPONI.
+  Some reactions may be serious and can be life-threatening.
+  Some of these reactions can happen after receiving your first dose of SIMPONI.
   Call your doctor right away if you have any of these symptoms of an allergic reaction:
   - hives
   - swollen face
@@ -195,7 +200,7 @@ General Information about SIMPONI
 - This Medication Guide summarizes the most important information about SIMPONI.
   If you would like more information, talk to your doctor.
   You can ask your doctor or pharmacist for information about SIMPONI that is written for health professionals.
-  For more information go to www.simponi.com or call 1-800-457-6399.
+  For more information go to www.simponi.com or call 1-800-JANSSEN (1-800-526-7736).
 
 What are the ingredients in SIMPONI?
 
@@ -204,6 +209,10 @@ Active ingredient: golimumab.
 Inactive ingredients: L-histidine, L-histidine monohydrochloride monohydrate, sorbitol, polysorbate 80, and water for injection.
 SIMPONI does not contain preservatives.
 
-Revised: 3/2011
+Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864
+
+© Janssen Biotech, Inc. 2011
+
+Revised: 8/2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

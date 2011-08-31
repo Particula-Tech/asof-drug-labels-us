@@ -15,7 +15,7 @@ This Product Contains Dry Natural Rubber.
 
 Rx only.
 
-Simponi™ golimumab
+Simponi® golimumab
 
 50 mg / 0.5 mL
 
