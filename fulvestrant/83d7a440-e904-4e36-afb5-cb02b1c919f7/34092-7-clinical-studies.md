@@ -14,12 +14,12 @@ FASLODEX 250 mg was administered as two 5 mL injections (one containing FASLODEX
 The median age of study participants was 61.
 All patients had ER+ advanced breast cancer.
 Approximately 30% of subjects had no measurable disease.
-Approximately 64% of patients had visceral disease.
+Approximately 55% of patients had visceral disease.
 
 Results of Study 1 after a minimum follow-up duration of 18 months are summarized in Table 4.
 The efficacy of FASLODEX 500 mg was compared to that of FASLODEX 250 mg.
-Figure 1 shows a Kaplan-Meier plot of the Progression Free Survival (PFS) data demonstrating statistically significant superiority of FASLODEX 500 mg vs FASLODEX 250 mg.
-Figure 2 shows a Kaplan-Meier plot of the Overall Survival (OS) data.
+Figure 4 shows a Kaplan-Meier plot of the Progression Free Survival (PFS) data demonstrating statistically significant superiority of FASLODEX 500 mg vs FASLODEX 250 mg.
+Figure 5 shows a Kaplan-Meier plot of the Overall Survival (OS) data.
 There was no statistically significant difference in OS between the two treatment groups.
 
 Table 4: Efficacy Results Study 1: Intent To Treat (ITT) Population
@@ -34,9 +34,9 @@ Table 4: Efficacy Results Study 1: Intent To Treat (ITT) Population
 | Hazard Ratio (95% CI) | 0.84 (0.69-1.03) |  |
 | ORRORR (Objective Response Rate), defined as number (%) of patients with complete response or partial response, was analyzed in the evaluable patients with measurable disease at baseline (fulvestrant 500 mg N=240; fulvestrant 250 mg N=261).(95% CI) | 13.8% (9.7%, 18.8%) (33/240) | 14.6% (10.5%, 19.4%) (38/261) |
 
-Figure 1: Kaplan-Meier PFS: Study 1 ITT Population
+Figure 4 Kaplan-Meier PFS: Study 1 ITT Population
 
-Figure 2: Kaplan-Meier OS: Study 1 ITT Population
+Figure 5 Kaplan-Meier OS: Study 1 ITT Population
 
 Comparison of FASLODEX 250 mg and Anastrozole 1 mg in Combined Data (Studies 2 and 3)
 
@@ -69,7 +69,7 @@ Table 5: Efficacy Results
 | Objective tumor response |  |  |  |  |
 | Number (%) of subjects with CRCR = Complete Response + PRPR = Partial Response | 35 (17.0) | 33 (17.0) | 45 (20.3) | 34 (14.9) |
 | % Difference in Tumor Response Rate (FASFAS = FASLODEX —ANAANA = anastrozole) 2–sided 95.4% CICI = Confidence Interval | 0.0 (-6.3, 8.9) |  | 5.4 (-1.4, 14.8) |  |
-| Time to progression (TTP) Median TTP (days) | 165 | 103 | 166 | 156 |
+| Time to progression (TTP)Median TTP (days) | 165 | 103 | 166 | 156 |
 | Hazard ratio 2-sided 95.4% CI¶ | 0.9 (0.7, 1.1) |  | 1.0 (0.8, 1.2) |  |
 | Stable Disease for ≥ 24 weeks (%) | 26.7 | 19.1 | 24.3 | 30.1 |
 | Overall Survival (OS) |  |  |  |  |

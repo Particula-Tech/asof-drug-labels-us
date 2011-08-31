@@ -123,7 +123,5 @@ By: Vetter Pharma-Fertigung GMBH & Co. KG
 
 Ravensburg, Germany
 
-Made in Germany
-
 Rev.
-05/11
+09/2011

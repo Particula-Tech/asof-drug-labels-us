@@ -52,7 +52,7 @@ Table 2 lists adverse reactions reported with an incidence of 5% or greater, reg
 
 Table 2: Combined Data from Studies 2 and 3, Adverse Reactions ≥ 5%
 
-| Body System and Adverse ReactionA patient may have more than one adverse Reaction. | FASLODEX 250 mg N=423 (%) | Anastrozole 1 mg N=423 (%) |
+| Body System and Adverse ReactionA patient may have more than one adverse reaction. | FASLODEX 250 mg N=423 (%) | Anastrozole 1 mg N=423 (%) |
 | --- | --- | --- |
 | Body as a Whole | 68.3 | 67.6 |
 | Asthenia | 22.7 | 27.0 |

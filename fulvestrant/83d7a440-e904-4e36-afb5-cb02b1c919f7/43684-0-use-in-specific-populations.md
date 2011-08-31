@@ -50,7 +50,7 @@ Pharmacokinetics
 The pharmacokinetics of fulvestrant was characterized using a population pharmacokinetic analysis with sparse samples per patient obtained from 30 female pediatric patients aged 1 to 8 years with PPP associated with MAS.
 Pharmacokinetic data from 294 postmenopausal women with breast cancer who received 125 or 250 mg monthly dosing regimen were also included in the analysis.
 
-In these pediatric patients receiving 4 mg/kg monthly intramuscular dose of fulvestrant, the geometric mean (SD) CL/F was 444 (1625) mL/min which was 32% lower than adults.
+In these pediatric patients receiving 4 mg/kg monthly intramuscular dose of fulvestrant, the geometric mean (SD) CL/F was 444 (625) mL/min which was 32% lower than adults.
 The geometric mean (SD) steady state trough concentration (Cmin,ss) and AUCss was 4.19 (0.
 87) ng/mL and 3680 (1020) ng*hr/mL, respectively.
 
