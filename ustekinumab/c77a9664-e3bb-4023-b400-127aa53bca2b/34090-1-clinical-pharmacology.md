@@ -16,7 +16,7 @@ Absorption
 
 In psoriasis subjects, the median time to reach the maximum serum concentration (Tmax) was 13.5 days and 7 days, respectively, after a single subcutaneous administration of 45 mg (N=22) and 90 mg (N=24) of ustekinumab.
 In healthy subjects (N=30), the median Tmax value (8.5 days) following a single subcutaneous administration of 90 mg of ustekinumab was comparable to that observed in psoriasis subjects.
-Following multiple subcutaneous doses of STELARA™, the steady-state serum concentrations of ustekinumab were achieved by Week 28.
+Following multiple subcutaneous doses of STELARA®, the steady-state serum concentrations of ustekinumab were achieved by Week 28.
 The mean (±SD) steady-state trough serum concentration ranged from 0.31 ± 0.33 mcg/mL (45 mg) to 0.64 ± 0.64 mcg/mL (90 mg).
 There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
 

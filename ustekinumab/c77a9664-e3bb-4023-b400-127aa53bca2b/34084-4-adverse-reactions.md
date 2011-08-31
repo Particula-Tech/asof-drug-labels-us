@@ -8,18 +8,18 @@ The following serious adverse reactions are discussed elsewhere in the label:
 
 ## 6.1 Clinical Studies Experience
 
-The safety data reflect exposure to STELARA™ in 2266 psoriasis subjects, including 1970 exposed for at least 6 months, 1285 exposed for at least one year, and 373 exposed for at least 18 months.
+The safety data reflect exposure to STELARA® in 2266 psoriasis subjects, including 1970 exposed for at least 6 months, 1285 exposed for at least one year, and 373 exposed for at least 18 months.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Table 1 summarizes the adverse reactions that occurred at a rate of at least 1% and at a higher rate in the STELARA™ groups than the placebo group during the placebo-controlled period of STUDY 1 and STUDY 2.
+Table 1 summarizes the adverse reactions that occurred at a rate of at least 1% and at a higher rate in the STELARA® groups than the placebo group during the placebo-controlled period of STUDY 1 and STUDY 2.
 
 Table 1.
 Adverse reactions reported by ≥1% of subjects through Week 12 in STUDY 1 and STUDY 2
 
 |  | Placebo | 45 mg | 90 mg |
 | --- | --- | --- | --- |
-|  |  | STELARA™ |  |
+|  |  | STELARA® |  |
 | Subjects treated | 665 | 664 | 666 |
 | Nasopharyngitis | 51 (8%) | 56 (8%) | 49 (7%) |
 | Upper respiratory tract infection | 30 (5%) | 36 (5%) | 28 (4%) |
@@ -39,16 +39,16 @@ One case of RPLS occurred during clinical trials [see Warnings and Precautions (
 
 Infections
 
-In the placebo-controlled period of clinical studies of psoriasis subjects (average follow-up of 12.6 weeks for placebo-treated subjects and 13.4 weeks for STELARA™-treated subjects), 27% of STELARA™-treated subjects reported infections (1.39 per subject-year of follow-up) compared with 24% of placebo-treated subjects (1.21 per subject-year of follow-up).
-Serious infections occurred in 0.3% of STELARA™-treated subjects (0.01 per subject-year of follow-up) and in 0.4% of placebo-treated subjects (0.02 per subject-year of follow-up) [see Warnings and Precautions (5.1)].
+In the placebo-controlled period of clinical studies of psoriasis subjects (average follow-up of 12.6 weeks for placebo-treated subjects and 13.4 weeks for STELARA®-treated subjects), 27% of STELARA®-treated subjects reported infections (1.39 per subject-year of follow-up) compared with 24% of placebo-treated subjects (1.21 per subject-year of follow-up).
+Serious infections occurred in 0.3% of STELARA®-treated subjects (0.01 per subject-year of follow-up) and in 0.4% of placebo-treated subjects (0.02 per subject-year of follow-up) [see Warnings and Precautions (5.1)].
 
-In the controlled and non-controlled portions of psoriasis clinical trials, 61% of STELARA™-treated subjects reported infections (1.24 per subject-year of follow-up).
+In the controlled and non-controlled portions of psoriasis clinical trials, 61% of STELARA®-treated subjects reported infections (1.24 per subject-year of follow-up).
 Serious infections were reported in 0.9% of subjects (0.01 per subject-year of follow-up).
 
 Malignancies
 
-In the controlled and non-controlled portions of psoriasis clinical trials, 0.4% of STELARA™-treated subjects reported malignancies excluding non-melanoma skin cancers (0.36 per 100 subject-years of follow-up).
-Non-melanoma skin cancer was reported in 0.8% of STELARA™-treated subjects (0.80 per 100 subject-years of follow-up) [see Warnings and Precautions (5.4)].
+In the controlled and non-controlled portions of psoriasis clinical trials, 0.4% of STELARA®-treated subjects reported malignancies excluding non-melanoma skin cancers (0.36 per 100 subject-years of follow-up).
+Non-melanoma skin cancer was reported in 0.8% of STELARA®-treated subjects (0.80 per 100 subject-years of follow-up) [see Warnings and Precautions (5.4)].
 
 Serious malignancies included breast, colon, head and neck, kidney, prostate, and thyroid cancers.
 
@@ -74,7 +74,7 @@ For these reasons, comparison of the incidence of antibodies to ustekinumab with
 
 ## 6.2 Post-marketing Experience
 
-Adverse reactions have been reported during post-approval use with STELARA™.
-Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to STELARA™ exposure.
+Adverse reactions have been reported during post-approval use with STELARA®.
+Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to STELARA® exposure.
 
 - Immune system disorders: Serious allergic reactions (including angioedema, dyspnea and hypotension), hypersensitivity reactions (including rash and urticaria).

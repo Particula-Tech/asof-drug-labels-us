@@ -5,9 +5,9 @@ Subjects with guttate, erythrodermic, or pustular psoriasis were excluded from t
 
 STUDY 1 enrolled 766 subjects and STUDY 2 enrolled 1230 subjects.
 The studies had the same design through Week 28.
-In both studies, subjects were randomized in equal proportion to placebo, 45 mg or 90 mg of STELARA™.
-Subjects randomized to STELARA™ received 45 mg or 90 mg doses, regardless of weight, at Weeks 0, 4, and 16.
-Subjects randomized to receive placebo at Weeks 0 and 4 crossed over to receive STELARA™ (either 45 mg or 90 mg) at Weeks 12 and 16.
+In both studies, subjects were randomized in equal proportion to placebo, 45 mg or 90 mg of STELARA®.
+Subjects randomized to STELARA® received 45 mg or 90 mg doses, regardless of weight, at Weeks 0, 4, and 16.
+Subjects randomized to receive placebo at Weeks 0 and 4 crossed over to receive STELARA® (either 45 mg or 90 mg) at Weeks 12 and 16.
 
 In both studies, the endpoints were the proportion of subjects who achieved at least a 75% reduction in PASI score (PASI 75) from baseline to Week 12 and treatment success (cleared or minimal) on the Physician's Global Assessment (PGA).
 The PGA is a 6-category scale ranging from 0 (cleared) to 5 (severe) that indicates the physician's overall assessment of psoriasis focusing on plaque thickness/induration, erythema, and scaling.
@@ -27,12 +27,12 @@ Clinical Outcomes STUDY 1 and STUDY 2
 |  | Placebo | 45 mg | 90 mg | Placebo | 45 mg | 90 mg |
 | --- | --- | --- | --- | --- | --- | --- |
 | Week 12 | STUDY 1 |  |  | STUDY 2 |  |  |
-|  |  | STELARA™ |  |  | STELARA™ |  |
+|  |  | STELARA® |  |  | STELARA® |  |
 | Subjects randomized | 255 | 255 | 256 | 410 | 409 | 411 |
 | PASI 75 response | 8 (3%) | 171 (67%) | 170 (66%) | 15 (4%) | 273 (67%) | 311 (76%) |
 | PGA of Cleared or Minimal | 10 (4%) | 151 (59%) | 156 (61%) | 18 (4%) | 277 (68%) | 300 (73%) |
 
-Examination of age, gender, and race subgroups did not identify differences in response to STELARA™ among these subgroups.
+Examination of age, gender, and race subgroups did not identify differences in response to STELARA® among these subgroups.
 
 In subjects who weighed <100 kg, response rates were similar with both the 45 mg and 90 mg doses; however, in subjects who weighed >100 kg, higher response rates were seen with 90 mg dosing compared with 45 mg dosing (Table 4 below).
 
@@ -42,7 +42,7 @@ Clinical Outcomes by Weight STUDY 1 and STUDY 2
 |  | Placebo | 45 mg | 90 mg | Placebo | 45 mg | 90 mg |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | STUDY 1 |  |  | STUDY 2 |  |  |
-|  |  | STELARA™ |  |  | STELARA™ |  |
+|  |  | STELARA® |  |  | STELARA® |  |
 | Subjects randomized | 255 | 255 | 256 | 410 | 409 | 411 |
 | Week 12 |  |  |  |  |  |  |
 | PASI 75 response |  |  |  |  |  |  |
@@ -57,5 +57,5 @@ Clinical Outcomes by Weight STUDY 1 and STUDY 2
 |  | 3/89 | 43/87 | 53/92 | 4/120 | 57/112 | 84/121 |
 
 Subjects in STUDY 1 were evaluated through Week 52.
-At Week 40, those who were PASI 75 responders at both Weeks 28 and 40 were re-randomized to either continued dosing of STELARA™ (STELARA™ at Week 40) or to withdrawal of therapy (placebo at Week 40).
-At Week 52, 89% (144/162) of subjects re-randomized to STELARA™ treatment were PASI 75 responders compared with 63% (100/159) of subjects re-randomized to placebo (treatment withdrawal after Week 28 dose).
+At Week 40, those who were PASI 75 responders at both Weeks 28 and 40 were re-randomized to either continued dosing of STELARA® (STELARA® at Week 40) or to withdrawal of therapy (placebo at Week 40).
+At Week 52, 89% (144/162) of subjects re-randomized to STELARA® treatment were PASI 75 responders compared with 63% (100/159) of subjects re-randomized to placebo (treatment withdrawal after Week 28 dose).

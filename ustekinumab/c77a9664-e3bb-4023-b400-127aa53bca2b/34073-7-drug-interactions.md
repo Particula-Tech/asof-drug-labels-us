@@ -1,14 +1,14 @@
 # 7 DRUG INTERACTIONS
 
-Drug interaction studies have not been conducted with STELARA™.
+Drug interaction studies have not been conducted with STELARA®.
 
 ## 7.1 Live Vaccines
 
-Live vaccines should not be given concurrently with STELARA™ [see Warnings and Precautions (5.7)].
+Live vaccines should not be given concurrently with STELARA® [see Warnings and Precautions (5.7)].
 
 ## 7.2 Concomitant Therapies
 
-The safety of STELARA™ in combination with immunosuppressive agents or phototherapy has not been evaluated [see Warnings and Precautions (5.8)].
+The safety of STELARA® in combination with immunosuppressive agents or phototherapy has not been evaluated [see Warnings and Precautions (5.8)].
 
 ## 7.3 CYP450 Substrates
 

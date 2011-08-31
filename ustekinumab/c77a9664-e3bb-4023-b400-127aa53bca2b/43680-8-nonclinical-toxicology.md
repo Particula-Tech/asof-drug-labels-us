@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Animal studies have not been conducted to evaluate the carcinogenic or mutagenic potential of STELARA™.
+Animal studies have not been conducted to evaluate the carcinogenic or mutagenic potential of STELARA®.
 Published literature showed that administration of murine IL-12 caused an anti-tumor effect in mice that contained transplanted tumors and IL-12/IL-23p40 knockout mice or mice treated with anti-IL-12/IL-23p40 antibody had decreased host defense to tumors.
 Mice genetically manipulated to be deficient in both IL-12 and IL-23 or IL-12 alone developed UV-induced skin cancers earlier and more frequently compared to wild-type mice.
 The relevance of these experimental findings in mouse models for malignancy risk in humans is unknown.
