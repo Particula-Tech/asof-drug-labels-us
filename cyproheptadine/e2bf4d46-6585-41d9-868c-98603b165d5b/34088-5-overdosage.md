@@ -6,7 +6,7 @@ Also, atropine-like signs and symptoms (dry mouth; fixed, dilated pupils; flushi
 If vomiting has not occurred spontaneously, the patient should be induced to vomit with syrup of ipecac.
 
 If the patient is unable to vomit, perform gastric lavage followed by activated charcoal.
-Isotonic or ½ isotonic saline is the lavage of choice.
+Isotonic or 1/2 isotonic saline is the lavage of choice.
 Precautions against aspiration must be taken especially in infants and children.
 When life-threatening CNS signs and symptoms are present, intravenous physostigmine salicylate may be considered.
 Dosage and frequency of administration are dependent on age, clinical response and recurrence after response.
