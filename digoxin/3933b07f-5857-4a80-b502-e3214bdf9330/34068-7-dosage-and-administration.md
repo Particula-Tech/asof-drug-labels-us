@@ -57,7 +57,7 @@ If a discrepancy exists between the reported serum concentration and the observe
 
 ## Heart Failure
 
-### Adults
+### ADULTS
 
 Digitalization may be accomplished by either of two general approaches that vary in dosage and frequency of administration, but reach the same endpoint in terms of total amount of digoxin accumulated in the body.
 
@@ -67,7 +67,7 @@ Digitalization may be accomplished by either of two general approaches that vary
    Steady-state serum digoxin concentrations will be achieved in approximately five half-lives of the drug for the individual patient.
    Depending upon the patient’s renal function, this will take between 1 and 3 weeks.
 
-### Rapid Digitalization with a Loading Dose
+### RAPID DIGITALIZATION WITH A LOADING DOSE
 
 Digoxin Injection is frequently used to achieve rapid digitalization, with conversion to digoxin tablets or digoxin capsules for maintenance therapy.
 If patients are switched from intravenous to oral digoxin formulations, allowances must be made for differences in bioavailability when calculating maintenance dosages (see Table 1, CLINICAL PHARMACOLOGY, Pharmacokinetics and dosing Table 5 below).
@@ -85,7 +85,7 @@ A single initial intravenous dose of 400 to 600 mcg (0.4 to 0.6 mg) of Digoxin I
 Additional doses of 100 to 300 mcg (0.1 to 0.3 mg) may be given cautiously at 6- to 8-hour intervals until clinical evidence of an adequate effect is noted.
 The usual amount of Digoxin Injection that a 70-kg patient requires to achieve 8- to 12-mcg/kg peak body stores is 600 to 1000 mcg (0.6 to 1 mg).
 
-### Maintenance Dosing
+### MAINTENANCE DOSING
 
 The doses of oral digoxin used in controlled trials in patients with heart failure have ranged from 125 to 500 mcg (0.125 to 0.5 mg) once daily.
 In these studies, the digoxin dose has been generally titrated according to the patient’s age, lean body weight, and renal function.
@@ -124,23 +124,15 @@ Table 5: Usual Daily Maintenance Dose Requirements (mcg) of Digoxin Injection fo
 | 90 |  | 150 | 200 | 225 | 250 | 300 | 325 | 8 |
 | 100 |  | 175 | 200 | 250 | 275 | 300 | 350 | 7 |
 
-* Daily maintenance doses have been rounded to the nearest 25-mcg increment
-
-† Ccr is creatinine clearance, corrected to 70 kg body weight or 1.73 m2 body surface area.
+* Daily maintenance doses have been rounded to the nearest 25-mcg increment † Ccr is creatinine clearance, corrected to 70 kg body weight or 1.73 m2 body surface area.
 For adults, if only serum creatinine concentrations (Scr) are available, a Ccr (corrected to 70 kg body weight) may be estimated in men as (140 - Age)/Scr.
 For women, this result should be multiplied by 0.85.
-Note: This equation cannot be used for estimating creatinine clearance in infants or children.
-
-‡ If no loading dose administered
-
-§ 75 mcg = 0.075 mg
-
-Example: Based on the above table, a patient in heart failure with an estimated lean body weight of 70 kg and a Ccr of 60 mL/min should be given a dose of 175 mcg (0.175 mg) daily of Digoxin Injection.
+Note: This equation cannot be used for estimating creatinine clearance in infants or children. ‡ If no loading dose administered § 75 mcg = 0.075 mg EXAMPLE: Based on the above table, a patient in heart failure with an estimated lean body weight of 70 kg and a Ccr of 60 mL/min should be given a dose of 175 mcg (0.175 mg) daily of Digoxin Injection.
 If no loading dose is administered, steady-state serum concentrations in this patient should be anticipated at approximately 11 days
 
 ## Infants and Children
 
-See the full prescribing information for pediatric digoxin injection (not available from Baxter Healthcare) for specific recommendations.
+See the full prescribing information for pediatric digoxin injection (not available from West-Ward) for specific recommendations.
 
 It cannot be overemphasized that dosage guidelines provided are based upon average patient response and substantial individual variation can be expected.
 Accordingly, ultimate dosage selection must be based upon clinical assessment of the patient.

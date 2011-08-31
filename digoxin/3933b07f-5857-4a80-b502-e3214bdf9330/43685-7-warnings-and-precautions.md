@@ -65,10 +65,10 @@ For discussion of serum digoxin concentrations, see DOSAGE AND ADMINISTRATION.
 Potassium-depleting diuretics are a major contributing factor to digitalis toxicity.
 Calcium, particularly if administered rapidly by the intravenous route, may produce serious arrhythmias in digitalized patients.
 Quinidine, verapamil, amiodarone, propafenone, indomethacin, itraconazole, alprazolam, and spironolactone raise the serum digoxin concentration due to a reduction in clearance and/or in volume of distribution of the drug, with the implication that digitalis intoxication may result.
-Erythromycin and clarithromycin (and possibly other macrolide antibiotics) andtetracycline may increase digoxin absorption in patients who inactivate digoxin by bacterial metabolism in the lower intestine, so that digitalis intoxication may result.
+Erythromycin and clarithromycin (and possibly other macrolide antibiotics) and tetracycline may increase digoxin absorption in patients who inactivate digoxin by bacterial metabolism in the lower intestine, so that digitalis intoxication may result.
 Propantheline and diphenoxylate, by decreasing gut motility, may increase digoxin absorption.
 Antacids, kaolin-pectin, sulfasalazine, neomycin, cholestyramine, certain anticancer drugs, and metoclopramide may interfere with intestinal digoxin absorption, resulting in unexpectedly low serum concentrations.
-Rifampinmay decrease serum digoxin concentration, especially in patients with renal dysfunction, by increasing the non-renal clearance of digoxin.
+Rifampin may decrease serum digoxin concentration, especially in patients with renal dysfunction, by increasing the non-renal clearance of digoxin.
 There have been inconsistent reports regarding the effects of other drugs (e.g., quinine, penicillamine) on serum digoxin concentration.
 Thyroid administration to a digitalized, hypothyroid patient may increase the dose requirement of digoxin.
 Concomitant use of digoxin and sympathomimetics increases the risk of cardiac arrhythmias.
@@ -90,7 +90,7 @@ There have been no long-term studies performed in animals to evaluate carcinogen
 
 ## Pregnancy
 
-### Teratogenic Effects–Pregnancy Category C.
+### TERATOGENIC EFFECTS-PREGNANCY CATERGORY C.
 
 Animal reproduction studies have not been conducted with digoxin.
 It is also not known whether digoxin can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.

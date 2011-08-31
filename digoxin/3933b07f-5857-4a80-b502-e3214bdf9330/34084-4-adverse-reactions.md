@@ -13,7 +13,7 @@ In this trial, the most common manifestations of digoxin toxicity included gastr
 
 ## Adults
 
-### Cardiac
+### CARDIAC
 
 Therapeutic doses of digoxin may cause heart block in patients with pre-existing sinoatrial or AV conduction disorders; heart block can be avoided by adjusting the dose of digoxin.
 Prophylactic use of a cardiac pacemaker may be considered if the risk of heart block is considered unacceptable.
@@ -21,7 +21,7 @@ High doses of digoxin may produce a variety of rhythm disturbances, such as firs
 Digoxin produces PR prolongation and ST segment depression which should not by themselves be considered digoxin toxicity.
 Cardiac toxicity can also occur at therapeutic doses in patients who have conditions which may alter their sensitivity to digoxin (see WARNINGS and PRECAUTIONS).
 
-### Gastrointestinal
+### GASTROINTESTINAL
 
 Digoxin may cause anorexia, nausea, vomiting, and diarrhea.
 Rarely, the use of digoxin has been associated with abdominal pain, intestinal ischemia, and hemorrhagic necrosis of the intestines.
@@ -30,7 +30,7 @@ Rarely, the use of digoxin has been associated with abdominal pain, intestinal i
 
 Digoxin can produce visual disturbances (blurred or yellow vision), headache, weakness, dizziness, apathy, confusion, and mental disturbances (such as anxiety, depression, delirium, and hallucination).
 
-### Other
+### OTHER
 
 Gynecomastia has been occasionally observed following the prolonged use of digoxin.
 Thrombocytopenia and maculopapular rash and other skin reactions have been rarely observed.

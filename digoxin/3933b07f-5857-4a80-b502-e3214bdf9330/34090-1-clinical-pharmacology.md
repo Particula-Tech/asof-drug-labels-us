@@ -15,7 +15,7 @@ This increase in sympathetic activity may be an important factor in digitalis to
 
 Note–The following data are from studies performed in adults, unless otherwise stated.
 
-### Absorption
+### ABSORPTION
 
 Comparisons of the systemic availability and equivalent doses for preparations of digoxin are shown in Table 1:
 
@@ -30,13 +30,13 @@ Table 1: Comparisons of the Systemic Availability and Equivalent Doses for Prepa
 
 *For example, 125 mcg Digoxin Tablets equivalent to 125 mcg Digoxin Elixir Pediatric equivalent to 100 mcg Digoxin Capsules equivalent to 100 mcg Digoxin Injection/IV.
 
-### Distribution
+### DISTRIBUTION
 
 Following drug administration, a 6- to 8-hour tissue distribution phase is observed.
 This is followed by a much more gradual decline in the serum concentration of the drug, which is dependent on the elimination of digoxin from the body.
 The peak height and slope of the early portion (absorption/distribution phases) of the serum concentration-time curve are dependent upon the route of administration and the absorption characteristics of the formulation.
 Clinical evidence indicates that the early high serum concentrations do not reflect the concentration of digoxin at its site of action, but that with chronic use, the steady-state post-distribution serum concentrations are in equilibrium with tissue concentrations and correlate with pharmacologic effects.
-In individual patients, these post-distribution serum concentrations may be useful in evaluating therapeutic and toxic effects (seeDOSAGE AND ADMINISTRATION, Serum Digoxin Concentrations).
+In individual patients, these post-distribution serum concentrations may be useful in evaluating therapeutic and toxic effects (see DOSAGE AND ADMINISTRATION, Serum Digoxin Concentrations).
 
 Digoxin is concentrated in tissues and therefore has a large apparent volume of distribution.
 Digoxin crosses both the blood-brain barrier and the placenta.
@@ -44,13 +44,13 @@ At delivery, the serum digoxin concentration in the newborn is similar to the se
 Approximately 25% of digoxin in the plasma is bound to protein.
 Serum digoxin concentrations are not significantly altered by large changes in fat tissue weight, so that its distribution space correlates best with lean (i.e., ideal) body weight, not total body weight.
 
-### Metabolism
+### METABOLISM
 
 Only a small percentage (16%) of a dose of digoxin is metabolized.
-The end metabolites, which include 3β-digoxigenin, 3-keto-digoxigenin, and their glucuronide and sulfate conjugates, are polar in nature and are postulated to be formed via hydrolysis, oxidation, and conjugation.
+The end metabolites, which include 3 β-digoxigenin, 3-keto-digoxigenin, and their glucuronide and sulfate conjugates, are polar in nature and are postulated to be formed via hydrolysis, oxidation, and conjugation.
 The metabolism of digoxin is not dependent upon the cytochrome P-450 system, and digoxin is not known to induce or inhibit the cytochrome P-450 system.
 
-### Excretion
+### EXCRETION
 
 Elimination of digoxin follows first-order kinetics (that is, the quantity of digoxin eliminated at any time is proportional to the total body content).
 Following intravenous administration to healthy volunteers, 50% to 70% of a digoxin dose is excreted unchanged in the urine.
@@ -59,7 +59,7 @@ In healthy volunteers with normal renal function, digoxin has a half-life of 1.5
 The half-life in anuric patients is prolonged to 3.5 to 5 days.
 Digoxin is not effectively removed from the body by dialysis, exchange transfusion, or during cardiopulmonary bypass because most of the drug is bound to tissue and does not circulate in the blood.
 
-### Special Populations
+### SPECIAL POPULATIONS
 
 Race differences in digoxin pharmacokinetics have not been formally studied.
 Because digoxin is primarily eliminated as unchanged drug via the kidney and because there are no important differences in creatinine clearance among races, pharmacokinetic differences due to race are not expected.
@@ -87,13 +87,13 @@ Table 2: Times to Onset of Pharmacologic Effect and to Peak Effect of Preparatio
 
 † Depending upon rate of infusion.
 
-### Hemodynamic Effects
+### HEMODYNAMIC EFFECTS
 
 Digoxin produces hemodynamic improvement in patients with heart failure.
 Short- and long-term therapy with the drug increases cardiac output and lowers pulmonary artery pressure, pulmonary capillary wedge pressure, and systemic vascular resistance.
 These hemodynamic effects are accompanied by an increase in the left ventricular ejection fraction and a decrease in end-systolic and end-diastolic dimensions.
 
-### Chronic Heart Failure
+### CHRONIC HEART FAILURE
 
 Two 12-week, double-blind, placebo-controlled studies enrolled 178 (RADIANCE trial) and 88 (PROVED trial) patients with NYHA class II or III heart failure previously treated with oral digoxin, a diuretic, and an ACE inhibitor (RADIANCE only) and randomized them to placebo or treatment with digoxin tablets.
 Both trials demonstrated better preservation of exercise capacity in patients randomized to digoxin.
@@ -117,24 +117,20 @@ Table 3: Subgroup Analyses of Mortality and Hospitalization During the First Two
 |  |  | Risk of All-Cause Mortality or All-Cause Hospitalization* |  |  | Risk of HF-Related Mortality or HF-Related Hospitalization* |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | n | Placebo | Digoxin | Relative Risk† | Placebo | Digoxin | Relative Risk† |
-| All patients (EF (0.45) | 680 | 604 | 593 | 0.94 (0.88-1.00) | 294 | 217 | 0.69 (0.63-0.76) |
-| NYHA I/II | 457 | 549 | 541 | 0.96 (0.89-1.04) | 242 | 178 | 0.70 (0.62-0.80) |
-| EF 0.25-0.45 | 454 | 568 | 571 | 0.99 (0.91-1.07) | 244 | 190 | 0.74 (0.66-0.84) |
-| CTR (0.55 | 445 | 561 | 563 | 0.98 (0.91-1.06) | 239 | 180 | 0.71 (0.63-0.81) |
-| NYHA III/IV | 222 | 719 | 696 | 0.88 (0.80-0.97) | 402 | 295 | 0.65 (0.57-0.75) |
-| EF <0.25 | 225 | 677 | 637 | 0.84 (0.76-0.93) | 394 | 270 | 0.61 (0.53-0.71) |
-| CTR>0.55 | 234 | 687 | 650 | 0.85 (0.77-0.94) | 398 | 287 | 0.65 (0.57-0.75) |
-| EF>0.45‡ | 987 | 571 | 585 | 1.04 (0.88-1.23) | 179 | 136 | 0.72 (0.53-0.99) |
+| All patients (EF ≤0.45) | 6801 | 604 | 593 | 0.94 (0.88-1.00) | 294 | 217 | 0.69 (0.63-0.76) |
+| NYHA I/II | 4571 | 549 | 541 | 0.96 (0.89-1.04) | 242 | 178 | 0.70 (0.62-0.80) |
+| EF 0.25-0.45 | 4543 | 568 | 571 | 0.99 (0.91-1.07) | 244 | 190 | 0.74 (0.66-0.84) |
+| CTR ≤0.55 | 4455 | 561 | 563 | 0.98 (0.91-1.06) | 239 | 180 | 0.71 (0.63-0.81) |
+| NYHA III/IV | 2224 | 719 | 696 | 0.88 (0.80-0.97) | 402 | 295 | 0.65 (0.57-0.75) |
+| EF <0.25 | 2258 | 677 | 637 | 0.84 (0.76-0.93) | 394 | 270 | 0.61 (0.53-0.71) |
+| CTR >0.55 | 2346 | 687 | 650 | 0.85 (0.77-0.94) | 398 | 287 | 0.65 (0.57-0.75) |
+| EF >0.45‡ | 987 | 571 | 585 | 1.04 (0.88-1.23) | 179 | 136 | 0.72 (0.53-0.99) |
 
-* Number of patients with an event during the first 2 years per 1000 randomized patients.
-
-† Relative risk (95% confidence interval).
-
-‡ DIG Ancillary Study.
+* Number of patients with an event during the first 2 years per 1000 randomized patients. † Relative risk (95% confidence interval). ‡ DIG Ancillary Study.
 
 In situations where there is no statistically significant benefit of treatment evident from a trial’s primary endpoint, results pertaining to a secondary endpoint should be interpreted cautiously.
 
-### Chronic Atrial Fibrillation
+### CHRONIC ATRIAL FIBRILLATION
 
 In patients with chronic atrial fibrillation, digoxin slows rapid ventricular response rate in a linear dose-response fashion from 0.25 to 0.75 mg/day.
 Digoxin should not be used for the treatment of multifocal atrial tachycardia.

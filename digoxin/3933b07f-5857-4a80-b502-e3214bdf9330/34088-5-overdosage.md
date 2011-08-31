@@ -15,7 +15,7 @@ However, asymptomatic bradycardia or heart block related to digoxin may require 
 If the rhythm disturbance is a ventricular arrhythmia, consideration should be given to the correction of electrolyte disorders, particularly if hypokalemia (see below) or hypomagnesemia is present.
 Digoxin Immune Fab (Ovine) is a specific antidote for digoxin and may be used to reverse potentially life-threatening ventricular arrhythmias due to digoxin overdosage.
 
-### Administration of Potassium
+### ADMINISTRATION OF POTASSIUM
 
 Every effort should be made to maintain the serum potassium concentration between 4 and 5.5 mmol/L.
 Potassium is usually administered orally, but when correction of the arrhythmia is urgent and the serum potassium concentration is low, potassium may be administered cautiously by the intravenous route.

@@ -1,11 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA083391"
+  ],
   "inn": "digoxin",
-  "labeler": "Baxter Healthcare Corporation",
+  "labeler": "West-ward Pharmaceutical Corp.",
   "package_ndcs": [
+    "0641-1410-31",
     "0641-1410-35"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "digoxin",
+      "name": "Digoxin"
+    }
+  ],
   "setid": "3933b07f-5857-4a80-b502-e3214bdf9330",
   "source": "dailymed"
 }
