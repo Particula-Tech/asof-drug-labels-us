@@ -81,7 +81,7 @@ In addition, very little, if any, l-methylphenidate is systemically available af
 The mean elimination t1/2 from plasma of d-methylphenidate after removal of Daytrana in children aged 6 to 12 years and adolescents aged 13-17 years was approximately 4 to 5 hours.
 The t1/2 of l-methylphenidate was shorter than for d-methylphenidate and ranged from 1.4 to 2.9 hours, on average.
 
-The Cmax and AUC of d-methylphenidate were approximately 50% lower in adolescents, compared to children, following either a 1-day or 7 day administration of Daytrana (10mg/9hr).
+The Cmax and AUC of d-methylphenidate were approximately 50% lower in adolescents, compared to children, following either a 1-day or 7-day administration of Daytrana (10mg/9hr).
 Multiple-dose administration of Daytrana did not result in significant accumulation of methylphenidate; following 7 days of Daytrana administration (10mg/9hr) in children and adolescents, the accumulation index of methylphenidate was 1.1, based on the mean steady state area under the plasma concentration-time curve (AUCss) relative to that anticipated on the basis of single dose pharmacokinetics (AUC0-∞).
 
 Food Effects

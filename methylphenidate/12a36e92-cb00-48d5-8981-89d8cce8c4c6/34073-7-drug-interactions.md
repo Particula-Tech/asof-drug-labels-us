@@ -17,8 +17,3 @@ Methylphenidate may decrease the effectiveness of drugs used to treat hypertensi
 Human pharmacologic studies have shown that methylphenidate may inhibit the metabolism of coumarin anticoagulants, anticonvulsants (e.g., phenobarbital, phenytoin, primidone), and some tricyclic drugs (e.g., imipramine, clomipramine, desipramine) and selective serotonin reuptake inhibitors.
 Downward dose adjustments of these drugs may be required when given concomitantly with methylphenidate.
 It may be necessary to adjust the dosage and monitor plasma drug concentrations (or, in the case of coumarin, coagulation times), when initiating or discontinuing methylphenidate.
-
-## 7.5 Clonidine
-
-Serious adverse events have been reported in concomitant use of methylphenidate with clonidine, although no causality for the combination has been established.
-The safety of using methylphenidate in combination with clonidine or other centrally acting alpha-2-agonists has not been systematically evaluated.

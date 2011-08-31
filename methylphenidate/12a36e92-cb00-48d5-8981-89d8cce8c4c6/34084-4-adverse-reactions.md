@@ -1,5 +1,7 @@
 # 6 ADVERSE REACTIONS
 
+1. 
+
 Detailed information on serious and adverse reactions of particular importance is provided in the BoxedWarning and Warnings and Precautions (5) sections:
 
 - Drug dependence [see box Warning]
