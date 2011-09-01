@@ -1,0 +1,19 @@
+{
+  "application_numbers": [],
+  "inn": "vasopressin",
+  "labeler": "American Regent, Inc.",
+  "package_ndcs": [
+    "0517-0410-10",
+    "0517-0510-25",
+    "0517-1020-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "vasopressin",
+      "name": "Vasopressin"
+    }
+  ],
+  "setid": "0ab267f4-9ec9-44fd-8521-f975074667d9",
+  "source": "dailymed"
+}
