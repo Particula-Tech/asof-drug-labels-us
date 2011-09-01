@@ -88,9 +88,9 @@ As with other inhaled medications, bronchospasm may occur with an immediate incr
 If bronchospasm occurs following dosing with FLOVENT DISKUS, it should be treated immediately with a fast-acting inhaled bronchodilator.
 Treatment with FLOVENT DISKUS should be discontinued immediately and alternative therapy instituted.
 
-## 5.11 Drug Interaction With Strong Cytochrome P450 3A4 Inhibitors
+## 5.11 Drug Interactions With Strong Cytochrome P450 3A4 Inhibitors
 
-The use of strong cytochrome P450 [CYP] 3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with FLOVENT DISKUS is not recommended because increased systemic corticosteroid adverse effects may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+The use of strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with FLOVENT DISKUS is not recommended because increased systemic corticosteroid adverse effects may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
 ## 5.12 Eosinophilic Conditions and Churg-Strauss Syndrome
 

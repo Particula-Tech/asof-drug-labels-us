@@ -55,7 +55,7 @@ The percentage of fluticasone propionate bound to human plasma proteins averages
 Fluticasone propionate is weakly and reversibly bound to erythrocytes and is not significantly bound to human transcortin.
 
 Metabolism: The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for less than 0.02% of the total.
-The only circulating metabolite detected in man is the 17β-carboxylic acid derivative of fluticasone propionate, which is formed through the CYP 3A4 pathway.
+The only circulating metabolite detected in man is the 17β-carboxylic acid derivative of fluticasone propionate, which is formed through the CYP3A4 pathway.
 This metabolite had less affinity (approximately 1/2,000) than the parent drug for the corticosteroid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
 
@@ -73,8 +73,8 @@ Hepatic and Renal Impairment: Formal pharmacokinetic studies using FLOVENT DISKU
 However, since fluticasone propionate is predominantly cleared by hepatic metabolism, impairment of liver function may lead to accumulation of fluticasone propionate in plasma.
 Therefore, patients with hepatic disease should be closely monitored.
 
-Drug Interactions:Ritonavir: Fluticasone propionate is a substrate of CYP 3A4.
-Coadministration of fluticasone propionate and the strong CYP 3A4 inhibitor ritonavir is not recommended based upon a multiple-dose, crossover drug interaction study in 18 healthy subjects.
+Drug Interactions:Ritonavir: Fluticasone propionate is a substrate of CYP3A4.
+Coadministration of fluticasone propionate and the strong CYP3A4 inhibitor ritonavir is not recommended based upon a multiple-dose, crossover drug interaction study in 18 healthy subjects.
 Fluticasone propionate aqueous nasal spray (200 mcg once daily) was coadministered for 7 days with ritonavir (100 mg twice daily).
 Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (<10 pg/mL) in most subjects, and when concentrations were detectable, peak levels (Cmax) averaged 11.9 pg/mL (range: 10.8 to 14.1 pg/mL) and AUC(0-τ) averaged 8.43 pg•hr/mL (range: 4.2 to 18.8 pg•hr/mL).
 Fluticasone propionate Cmax and AUC(0-τ) increased to 318 pg/mL (range: 110 to 648 pg/mL) and 3,102.6 pg•hr/mL (range: 1,207.1 to 5,662.0 pg•hr/mL), respectively, after coadministration of ritonavir with fluticasone propionate aqueous nasal spray.

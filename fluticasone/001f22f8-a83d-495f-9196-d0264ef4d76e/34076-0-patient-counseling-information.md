@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling accompanying the product.
+See FDA-Approved patient labeling (Patient Information).
 
 ## 17.1 Oral Candidiasis
 
@@ -11,7 +11,7 @@ Rinsing the mouth after inhalation is advised.
 ## 17.2 Status Asthmaticus and Acute Asthma Symptoms
 
 Patients should be advised that FLOVENT DISKUS is not a bronchodilator and is not intended for use as rescue medication for acute asthma exacerbations.
-Acute asthma symptoms should be treated with an inhaled, short-acting beta-2 agonist such as albuterol.
+Acute asthma symptoms should be treated with an inhaled, short-acting beta2-agonist such as albuterol.
 Patients should be instructed to contact their physicians immediately if there is deterioration of their asthma.
 
 ## 17.3 Immunosuppression
@@ -56,9 +56,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2010, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-May 2010
+August 2011
 
-FLD:4PI
+FLD:5PI

@@ -2,10 +2,10 @@
 
 ## 7.1 Strong Cytochrome P450 3A4 Inhibitors
 
-Fluticasone propionate is a substrate of CYP 3A4.
-The use of strong CYP 3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with FLOVENT DISKUS is not recommended because increased systemic corticosteroid adverse effects may occur.
+Fluticasone propionate is a substrate of CYP3A4.
+The use of strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with FLOVENT DISKUS is not recommended because increased systemic corticosteroid adverse effects may occur.
 
-A drug interaction study with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a strong CYP 3A4 inhibitor) can significantly increase plasma fluticasone propionate concentration, resulting in significantly reduced serum cortisol concentrations [see Clinical Pharmacology (12.3)].
+A drug interaction study with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a strong CYP3A4 inhibitor) can significantly increase plasma fluticasone propionate concentration, resulting in significantly reduced serum cortisol concentrations [see Clinical Pharmacology (12.3)].
 During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing syndrome and adrenal suppression.
 Therefore, coadministration of fluticasone propionate and ritonavir is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects.
 

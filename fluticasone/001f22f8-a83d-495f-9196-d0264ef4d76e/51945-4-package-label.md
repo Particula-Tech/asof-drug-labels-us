@@ -1,4 +1,4 @@
-PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0600-02
 
@@ -12,14 +12,14 @@ FOR ORAL INHALATION ONLY
 
 Each blister contains 50 mcg of fluticasone propionate with lactose.
 
-IMPORTANT: Read accompanying Patient’s Instructions for Use leaflet carefully for further information.
+IMPORTANT: Read accompanying Patient Information leaflet carefully for further information.
 
 Discard the Diskus® 6 weeks after removal from the overwrap.
 Fill in the dates on the Diskus appropriately.
 
 Dosage: Use only as directed by your doctor.
 
-Store at controlled room temperature (see USP), 20o to 25 C (68o to 77oF) in a dry place away from direct heat or sunlight.
+Store at controlled room temperature (see USP), 20o to 25oC (68o to 77oF) in a dry place away from direct heat or sunlight.
 
 1 Diskus® Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
@@ -29,10 +29,10 @@ RTP, NC 27709
 
 Made in Singapore
 
-10000000071828 Rev.
-7/09
+10000000086572 Rev.
+9/10
 
-PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0602-02
 
@@ -46,7 +46,7 @@ FOR ORAL INHALATION ONLY
 
 Each blister contains 100 mcg of fluticasone propionate with lactose.
 
-IMPORTANT: Read accompanying Patient’s Instructions for Use leaflet carefully for further information.
+IMPORTANT: Read accompanying Patient Information leaflet carefully for further information.
 
 Discard the Diskus® 2 months after removal from the overwrap.
 Fill in the dates on the Diskus appropriately.
@@ -63,10 +63,10 @@ RTP, NC 27709
 
 Made in Singapore
 
-10000000071856 Rev.
-7/09
+10000000086576 Rev.
+9/10
 
-PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0601-02
 
@@ -80,7 +80,7 @@ FOR ORAL INHALATION ONLY
 
 Each blister contains 250 mcg of fluticasone propionate with lactose.
 
-IMPORTANT: Read accompanying Patient’s Instructions for Use leaflet carefully for further information.
+IMPORTANT: Read accompanying Patient Information leaflet carefully for further information.
 
 Discard the Diskus® 2 months after removal from the overwrap.
 Fill in the dates on the Diskus appropriately.
@@ -97,5 +97,5 @@ RTP, NC 27709
 
 Made in Singapore
 
-10000000071858 Rev.
-7/09
+10000000086579 Rev.
+10/10

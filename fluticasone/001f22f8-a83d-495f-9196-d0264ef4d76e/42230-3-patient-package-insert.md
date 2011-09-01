@@ -34,8 +34,9 @@ Do not use FLOVENT DISKUS
 
 - to treat sudden symptoms of asthma.
   FLOVENT DISKUS is not a rescue inhaler and should not be used to give you fast relief from your asthma attack.
-  Always use a rescue inhaler such as albuterol, during a sudden asthma attack.
-- if you have severe allergy to milk proteins or fluticasone propionate Ask your doctor if you are not sure.
+  Always use a rescue inhaler, such as albuterol, during a sudden asthma attack.
+- if you have severe allergy to milk proteins or fluticasone propionate.
+  Ask your doctor if you are not sure.
 
 What should I tell my doctor before taking FLOVENT DISKUS?
 
@@ -289,8 +290,9 @@ Do not use FLOVENT DISKUS
 
 - to treat sudden symptoms of asthma.
   FLOVENT DISKUS is not a rescue inhaler and should not be used to give you fast relief from your asthma attack.
-  Always use a rescue inhaler such as albuterol, during a sudden asthma attack.
-- if you have severe allergy to milk proteins or fluticasone propionate Ask your doctor if you are not sure.
+  Always use a rescue inhaler, such as albuterol, during a sudden asthma attack.
+- if you have severe allergy to milk proteins or fluticasone propionate.
+  Ask your doctor if you are not sure.
 
 What should I tell my doctor before taking FLOVENT DISKUS?
 
