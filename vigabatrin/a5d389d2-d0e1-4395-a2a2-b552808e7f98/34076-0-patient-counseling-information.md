@@ -42,14 +42,8 @@ In controlled clinical studies in adults with CPS, vigabatrin was tapered by dec
 
 ## 17.5 FDA-Approved Medication Guide
 
-Manufactured by: Patheon
+Manufactured by: Patheon Cincinnati, OH 45237, U.S.A.
 
-Cincinnati, OH 45237, U.S.A.
+For: Lundbeck Inc. Deerfield, IL 60015, U.S.A.
 
-For: Lundbeck Inc.
-
-Deerfield, IL 60015, U.S.A.
-
-® Trademark of Lundbeck Inc.
-
-Issued: February 2010 70020971
+® Trademark of Lundbeck Inc. Revised: February 2010

@@ -12,7 +12,7 @@ Monitoring of vision by an ophthalmic professional with expertise in visual fiel
 Vision testing at baseline (no later than 4 weeks after starting SABRIL) and at least every 3 months is required for adults on SABRIL.
 Vision testing is also required about 3 to 6 months after the discontinuation of SABRIL therapy.
 
-The diagnostic approach should be individualized for the patient and clinical situation, but for all patients attempts to monitor vision periodically must be documented under the SHARE program.
+The diagnostic approach should be individualized for the patient and clinical situation, but for all patients attempts to monitor vision periodically and/or formal exemptions must be documented under the SHARE program.
 Perimetry is recommended, preferably by automated threshold visual field testing.
 Additional testing may also include electrophysiology (e.g., electroretinography [ERG]), retinal imaging (e.g., optical coherence tomography [OCT]), and/or other methods appropriate for the patient.
 In patients in whom vision testing is not possible, treatment may continue according to clinical judgment, with appropriate patient counseling and with documentation in the SHARE program of the inability to test vision.

@@ -6,5 +6,5 @@ Each SABRIL film-coated tablet contains 500 mg vigabatrin and is white, film-coa
 
 NDC 67386-111-01: Bottles of 100.
 
-Store at 20-25 °C (68-77 °F).
+Store at 20-25°C (68-77°F).
 See USP controlled room temperature.

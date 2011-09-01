@@ -4,7 +4,7 @@
   In some cases, SABRIL also can damage the central retina and may decrease visual acuity.
 - The onset of vision loss from SABRIL is unpredictable, and can occur within weeks of starting treatment or sooner, or at any time during treatment, even after months or years
 - The risk of vision loss increases with increasing dose and cumulative exposure, but there is no dose or exposure known to be free of risk of vision loss
-- Vision testing at baseline (no later than 4 weeks after starting SABRIL) and at least every 3 months during therapy is required for adults on SABRIL.
+- Vision Testing at baseline (no later than 4 weeks after starting SABRIL) and at least every 3 months during therapy is required for adults on SABRIL.
   Vision testing is also required about 3 to 6 months after the discontinuation of SABRIL therapy.
   Once detected, vision loss due to SABRIL is not reversible.
   It is expected that, even with frequent monitoring, some patients will develop severe vision loss.
