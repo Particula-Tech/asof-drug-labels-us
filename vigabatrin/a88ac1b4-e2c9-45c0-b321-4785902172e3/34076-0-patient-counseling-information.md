@@ -49,14 +49,8 @@ In a controlled clinical study in patients with IS, vigabatrin was tapered by de
 
 ## 17.6 FDA-Approved Medication Guide
 
-Manufactured by: Patheon
+Manufactured by: Patheon Cincinnati, OH 45237, U.S.A.
 
-Cincinnati, OH 45237, U.S.A.
+For: Lundbeck Inc. Deerfield, IL 60015, U.S.A.
 
-For: Lundbeck Inc.
-
-Deerfield, IL 60015, U.S.A.
-
-® Trademark of Lundbeck Inc.
-
-Issued: February 2010 30142/1
+® Trademark of Lundbeck Inc. Revised: February 2010

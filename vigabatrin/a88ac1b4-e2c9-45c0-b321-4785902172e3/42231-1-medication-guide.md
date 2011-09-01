@@ -1,8 +1,6 @@
 # MEDICATION GUIDE
 
-Sabril® (SAY-bril) (vigabatrin) Tablet
-
-Sabril® (SAY-bril) (vigabatrin) for Oral Solution
+Sabril® (SAY-bril) (vigabatrin) Tablet Sabril® (SAY-bril) (vigabatrin) for Oral Solution
 
 Read the Medication Guide that comes with SABRIL before you or your baby starts taking SABRIL and each time you get a refill.
 There may be new information.
@@ -12,12 +10,20 @@ What is the most important information I should know about SABRIL?
 
 SABRIL can cause serious side effects, including:
 
-- Permanent vision damage: SABRIL can damage the vision of anyone who takes it.
-  The most noticeable loss is in your ability to see to the side when you look straight ahead (peripheral vision).
-  If this happens, it will not get better.
-  People who take SABRIL do not lose all of their vision, but some people can have severe loss particularly to their peripheral vision.
-  With severe vision loss you may only be able to see things straight in front of you (sometimes called 'tunnel vision').
-  You may also have blurry vision.
+1. Permanent vision damage
+2. Magnetic resonance imaging (MRI) changes
+3. Risk of suicidal thoughts or actions
+
+1.
+Permanent vision damage:
+
+SABRIL can damage the vision of anyone who takes it.
+The most noticeable loss is in your ability to see to the side when you look straight ahead (peripheral vision).
+If this happens, it will not get better.
+People who take SABRIL do not lose all of their vision, but some people can have severe loss particularly to their peripheral vision.
+With severe vision loss you may only be able to see things straight in front of you (sometimes called 'tunnel vision').
+You may also have blurry vision.
+
 - Vision loss and use of SABRIL in adults: Because of the risk of vision loss, SABRIL is used to treat complex partial seizures (CPS) only in people who do not respond well enough to several other medicines.
 
 Tell your doctor right away if you:
@@ -61,11 +67,15 @@ As part of the SHARE program, among other things, your doctor will have to test 
 You also have to agree to be in the SHARE program, and agree to have your or your baby's vision tested regularly.
 Your doctor will explain the details of the SHARE program to you.
 
-MRI changes.
+2.
+Magnetic resonance imaging (MRI) changes:
+
 Brain pictures taken by magnetic resonance imaging (MRI) show changes in some babies after they are given SABRIL.
 It is not known if these changes are harmful.
 
-Risk of suicidal thoughts or actions.
+3.
+Risk of suicidal thoughts or actions:
+
 Like other antiepileptic drugs, SABRIL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500 people taking it.
 Call a doctor right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -240,7 +250,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store SABRIL?
 
-Store SABRIL tablets and SABRIL packets at room temperature, between 68 °F to 77 °F (20 °C to 25 °C).
+Store SABRIL tablets and SABRIL packets at room temperature, between 68°F to 77°F (20°C to 25°C).
 
 Keep SABRIL tablets and SABRIL powder in the container they come in.
 
@@ -270,6 +280,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Marketed by: Lundbeck Inc., Deerfield, IL 60015, U.S.A.
 
-® Trademark of Lundbeck Inc.
-
-Issued: August 2009
+® Trademark of Lundbeck Inc. Revised: September 2010

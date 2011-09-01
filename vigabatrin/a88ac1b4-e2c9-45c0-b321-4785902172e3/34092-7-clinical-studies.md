@@ -22,9 +22,9 @@ Primary efficacy results are shown in Table 7.
 Table 7.
 Spasm Freedom by Primary Criteria (Study 1A)
 
-|  | 18-36 mg/kg/day [N=114] n (%) | 100-148 mg/kg/day [N=107] n (%) |
-| --- | --- | --- |
 |  | SABRIL Treatment Group |  |
+| --- | --- | --- |
+|  | 18-36 mg/kg/day [N=114] n (%) | 100-148 mg/kg/day [N=107] n (%) |
 | Patients who Achieved Spasm Freedom | 8 (7.0) | 17 (15.9) |
 | p=0.0375 Note: Primary criteria were evaluated based on caregiver assessment plus CCTV EEG confirmation within 3 days of the seventh day of spasm freedom. |  |  |
 

@@ -72,7 +72,7 @@ Because controlled trials in infants were of short duration and enrolled few pat
 Table 5 lists the treatment emergent adverse reactions that occurred in ≥2% of SABRIL patients and that occurred more frequently than in placebo patients from 2 U.S. add-on clinical studies of refractory complex partial seizures in adults.
 
 Table 5.
-Treatment Emergent Adverse Reactions Occurring in ≥ 2% of SABRIL Patients and More Frequently than in Placebo Patients (Studies 024 and 025)
+Treatment Emergent Adverse Reactions Occurring in ≥2% of SABRIL Patients and More Frequently than in Placebo Patients (Studies 024 and 025)
 
 | Body System Preferred Term | SABRIL [N=222] % | Placebo [N=135] % |
 | --- | --- | --- |

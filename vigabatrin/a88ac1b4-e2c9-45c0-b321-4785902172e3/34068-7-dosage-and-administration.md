@@ -55,9 +55,7 @@ In patients with mild renal impairment (CLcr >50 to 80 mL/min), the dose should 
 
 CLcr in mL/min may be estimated from a serum creatinine (mg/dL) determination using the following formula:
 
-CLcr *= [140-age (years)]x weight (kg)/72x serum creatinine (mg/dL)]
-
-*[x 0.85 for female patients]
+CLcr *= [140-age (years)]× weight (kg)/72× serum creatinine (mg/dL)] *[× 0.85 for female patients]
 
 The effect of dialysis on SABRIL clearance has not been adequately studied.
 

@@ -10,7 +10,7 @@ Coma, unconsciousness, and/or drowsiness were described in the majority of cases
 Other less commonly reported symptoms included vertigo, psychosis, apnea or respiratory depression, bradycardia, agitation, irritability, confusion, headache, hypotension, abnormal behavior, increased seizure activity, status epilepticus, and speech disorder.
 These symptoms resolved with supportive care.
 
-10.2 Treatment or Management for Overdosage
+## 10.2 Treatment or Management for Overdosage
 
 There is no specific antidote for SABRIL overdose.
 Standard measures to remove unabsorbed drug should be used, including elimination by emesis or gastric lavage.
