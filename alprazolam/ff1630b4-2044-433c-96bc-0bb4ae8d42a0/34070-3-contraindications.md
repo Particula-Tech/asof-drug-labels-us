@@ -1,6 +1,7 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Alprazolam orally disintegrating tablets are contraindicated in patients with known sensitivity to this drug or other benzodiazepines.
-Alprazolam orally disintegrating tablets may be used in patients with open angle glaucoma who are receiving appropriate therapy, but is contraindicated in patients with acute narrow angle glaucoma.
+Alprazolam is contraindicated in patients with acute narrow angle glaucoma.
+Alprazolam can exacerbate narrow angle closure.
+Alprazolam may be used in patients with open angle glaucoma who are receiving appropriate therapy.
 
-Alprazolam orally disintegrating tablets are contraindicated with ketoconazole and itraconazole, since these medications significantly impair the oxidative metabolism mediated by cytochrome P450 3A (CYP3A) (see CLINICAL PHARMACOLOGY, WARNINGS and PRECAUTIONS–Drug Interactions).
+Alprazolam is contraindicated in patients treated with potent CYP3A4 inhibitors (e.g., ketoconazole and itraconazole), because these medications significantly impair the oxidative metabolism mediated by cytochrome P450 3A (CYP3A) and can increase alprazolam exposures [see Clinical Pharmacology (12.3), Warnings and Precautions (5.7), and Drug Interactions (7.4)].

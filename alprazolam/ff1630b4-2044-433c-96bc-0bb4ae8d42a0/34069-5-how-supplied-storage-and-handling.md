@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Alprazolam orally disintegrating tablets 0.25 mg are white to off-white, round, scored, flat face, beveled edge tablets debossed ‘110’ on the scored side and plain on the other.
 They are supplied as follows:
