@@ -4,15 +4,17 @@
 
 NDC 0093-2204-05
 
+New Product Appearance
+
 METOCLOPRAMIDE
 
 Tablets, USP
 
 5 mg
 
-PHARMACIST: PLEASE DISPENSE WITH
+PHARMACIST: Dispense the accompanying
 
-ATTACHED MEDICATION GUIDE
+Medication Guide to each patient.
 
 Rx only
 
@@ -26,15 +28,17 @@ TEVA
 
 NDC 0093-2203-05
 
+New Product Appearance
+
 METOCLOPRAMIDE
 
 Tablets, USP
 
 10 mg
 
-PHARMACIST: PLEASE DISPENSE WITH
+PHARMACIST: Dispense the accompanying
 
-ATTACHED MEDICATION GUIDE
+Medication Guide to each patient.
 
 Rx only
 

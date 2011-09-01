@@ -190,6 +190,14 @@ Inactive ingredients: corn starch, dibasic calcium phosphate, magnesium stearate
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+Manufactured In Croatia By:
+
+PLIVA HRVATSKA d.o.o.
+
+Zagreb, Croatia
+
+Manufactured For:
+
 TEVA PHARMACEUTICALS USA
 
 Sellersville, PA 18960

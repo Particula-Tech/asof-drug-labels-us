@@ -1,9 +1,9 @@
 # HOW SUPPLIED
 
-Each white, round, unscored, debossed “BL” on one side and “92” on the other side, compressed metoclopramide tablet contains 5 mg metoclopramide (present as the hydrochloride).
+Each white, round, unscored, debossed “TV” on one side and “2204” on the other side, compressed metoclopramide tablet contains 5 mg metoclopramide (present as the hydrochloride).
 Available in bottles of 100 and 500.
 
-Each white, round, scored, debossed “BL” on one side and “93” above the score on the other side, compressed metoclopramide tablet contains 10 mg metoclopramide (present as the hydrochloride).
+Each white, round, scored, debossed “TEVA” on one side and “2203” above the score on the other side, compressed metoclopramide tablet contains 10 mg metoclopramide (present as the hydrochloride).
 Available in bottles of 100, 500 and 1000.
 
 Dispense in a tight, light-resistant container.
@@ -13,9 +13,17 @@ It should be inspected before use and discarded if either color or particulate i
 
 Tablets should be stored at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
+Manufactured In Croatia By:
+
+PLIVA HRVATSKA d.o.o.
+
+Zagreb, Croatia
+
+Manufactured For:
+
 TEVA PHARMACEUTICALS USA
 
 Sellersville, PA 18960
 
 Rev.
-L 11/2010
+M 12/2010
