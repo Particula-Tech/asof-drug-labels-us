@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA091195"
+  ],
+  "inn": "tacrolimus",
+  "labeler": "Accord Heathcare, Inc.",
+  "package_ndcs": [
+    "16729-041-01",
+    "16729-042-01",
+    "16729-043-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tacrolimus",
+      "name": "Tacrolimus"
+    }
+  ],
+  "setid": "bd447ffa-9196-4c3c-accf-5adf29b84665",
+  "source": "dailymed"
+}
