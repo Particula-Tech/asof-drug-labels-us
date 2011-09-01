@@ -26,6 +26,6 @@ Greenville, NC 27834
 ©2010, GlaxoSmithKline.
 All rights reserved.
 
-September 2010
+August 2011
 
-ZYB:5PI
+ZYB:6PI

@@ -30,9 +30,7 @@ Patients who fail to quit smoking during an attempt may benefit from interventio
 Patients who are unsuccessful should be evaluated to determine why they failed.
 A new quit attempt should be encouraged when factors that contributed to failure can be eliminated or reduced, and conditions are more favorable.
 
-### Maintenance
-
-Nicotine dependence is a chronic condition.
+Maintenance: Nicotine dependence is a chronic condition.
 Some patients may need continuous treatment.
 Systematic evaluation of ZYBAN 300 mg/day for maintenance therapy demonstrated that treatment for up to 6 months was efficacious.
 Whether to continue treatment with ZYBAN for periods longer than 12 weeks for smoking cessation must be determined for individual patients.

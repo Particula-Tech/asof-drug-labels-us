@@ -133,74 +133,50 @@ Adverse events for which frequencies are not provided occurred in clinical trial
 Only those adverse events not previously listed for sustained-release bupropion are included.
 The extent to which these events may be associated with ZYBAN is unknown.
 
-### Body (General)
-
-Frequent were asthenia, fever, and headache.
+Body (General): Frequent were asthenia, fever, and headache.
 Infrequent were back pain, chills, inguinal hernia, musculoskeletal chest pain, pain, and photosensitivity.
 Rare was malaise.
 Also observed were arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
 These symptoms may resemble serum sickness (see PRECAUTIONS).
 
-### Cardiovascular
-
-Infrequent were flushing, migraine, postural hypotension, stroke, tachycardia, and vasodilation.
+Cardiovascular: Infrequent were flushing, migraine, postural hypotension, stroke, tachycardia, and vasodilation.
 Rare was syncope.
 Also observed were cardiovascular disorder, complete AV block, extrasystoles, hypotension, hypertension (in some cases severe, see PRECAUTIONS), myocardial infarction, phlebitis, and pulmonary embolism.
 
-### Digestive
-
-Frequent were dyspepsia, flatulence, and vomiting.
+Digestive: Frequent were dyspepsia, flatulence, and vomiting.
 Infrequent were abnormal liver function, bruxism, dysphagia, gastric reflux, gingivitis, glossitis, jaundice, and stomatitis.
 Rare was edema of tongue.
 Also observed were colitis, esophagitis, gastrointestinal hemorrhage, gum hemorrhage, hepatitis, increased salivation, intestinal perforation, liver damage, pancreatitis, stomach ulcer, and stool abnormality.
 
-### Endocrine
+Endocrine: Also observed were hyperglycemia, hypoglycemia, and syndrome of inappropriate antidiuretic hormone.
 
-Also observed were hyperglycemia, hypoglycemia, and syndrome of inappropriate antidiuretic hormone.
-
-### Hemic and Lymphatic
-
-Infrequent was ecchymosis.
+Hemic and Lymphatic: Infrequent was ecchymosis.
 Also observed were anemia, leukocytosis, leukopenia, lymphadenopathy, pancytopenia, and thrombocytopenia.
 Altered PT and/or INR, infrequently associated with hemorrhagic or thrombotic complications, were observed when bupropion was coadministered with warfarin.
 
-### Metabolic and Nutritional
-
-Infrequent were edema, increased weight, and peripheral edema.
+Metabolic and Nutritional: Infrequent were edema, increased weight, and peripheral edema.
 Also observed was glycosuria.
 
-### Musculoskeletal
-
-Infrequent were leg cramps and twitching.
+Musculoskeletal: Infrequent were leg cramps and twitching.
 Also observed were arthritis and muscle rigidity/fever/rhabdomyolysis, and muscle weakness.
 
-### Nervous System
-
-Frequent were agitation, depression, and irritability.
+Nervous System: Frequent were agitation, depression, and irritability.
 Infrequent were abnormal coordination, CNS stimulation, confusion, decreased libido, decreased memory, depersonalization, emotional lability, hostility, hyperkinesia, hypertonia, hypesthesia, paresthesia, suicidal ideation, and vertigo.
 Rare were amnesia, ataxia, derealization, and hypomania.
 Also observed were abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, completed suicide, delirium, delusions, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hallucinations, hypokinesia, increased libido, manic reaction, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, and unmasking tardive dyskinesia.
 
-### Respiratory
-
-Rare was bronchospasm.
+Respiratory: Rare was bronchospasm.
 Also observed was pneumonia.
 
-### Skin
-
-Frequent was sweating.
+Skin: Frequent was sweating.
 Infrequent was acne and dry skin.
 Rare was maculopapular rash.
 Also observed were alopecia, angioedema, exfoliative dermatitis, and hirsutism.
 
-### Special Senses
-
-Frequent was blurred vision or diplopia.
+Special Senses: Frequent was blurred vision or diplopia.
 Infrequent were accommodation abnormality and dry eye.
 Also observed were deafness, increased intraocular pressure, and mydriasis.
 
-### Urogenital
-
-Frequent was urinary frequency.
+Urogenital: Frequent was urinary frequency.
 Infrequent were impotence, polyuria, and urinary urgency.
 Also observed were abnormal ejaculation, cystitis, dyspareunia, dysuria, gynecomastia, menopause, painful erection, prostate disorder, salpingitis, urinary incontinence, urinary retention, urinary tract disorder, and vaginitis.

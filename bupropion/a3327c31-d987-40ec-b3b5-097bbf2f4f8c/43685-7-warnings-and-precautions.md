@@ -16,7 +16,7 @@ All patients being treated with ZYBAN should be observed for neuropsychiatric sy
 Patients with serious psychiatric illness such as schizophrenia, bipolar disorder, and major depressive disorder did not participate in the premarketing studies of ZYBAN.
 
 Advise patients and caregivers that the patient should stop taking ZYBAN and contact a healthcare provider immediately if agitation, depressed mood, or changes in behavior or thinking that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
-In many post-marketing cases, resolution of symptoms after discontinuation of ZYBAN was reported, although in some cases the symptoms persisted, therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
+In many postmarketing cases, resolution of symptoms after discontinuation of ZYBAN was reported, although in some cases the symptoms persisted, therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
 
 The risks of ZYBAN should be weighed against the benefits of its use.
 ZYBAN has been demonstrated to increase the likelihood of abstinence from smoking for as long as six months compared to treatment with placebo.
@@ -94,9 +94,7 @@ In addition, the estimated seizure incidence increases almost tenfold between 45
 - Clinical situations: Circumstances associated with an increased seizure risk include, among others, excessive use of alcohol or sedatives (including benzodiazepines); addiction to opiates, cocaine, or stimulants; use of over-the-counter stimulants and anorectics; and diabetes treated with oral hypoglycemics or insulin.
 - Concomitant medications: Many medications (e.g., antipsychotics, antidepressants, theophylline, systemic steroids) are known to lower seizure threshold.
 
-### Recommendations for Reducing the Risk of Seizure
-
-Retrospective analysis of clinical experience gained during the development of bupropion suggests that the risk of seizure may be minimized if
+Recommendations for Reducing the Risk of Seizure: Retrospective analysis of clinical experience gained during the development of bupropion suggests that the risk of seizure may be minimized if
 
 - the total daily dose of ZYBAN does not exceed 300 mg (the maximum recommended dose for smoking cessation), and
 - the recommended daily dose for most patients (300 mg/day) is administered in divided doses (150 mg twice daily).
@@ -119,18 +117,14 @@ In dogs receiving large doses of bupropion chronically, various histologic chang
 
 ## General
 
-### Allergic Reactions
-
-Anaphylactoid/anaphylactic reactions characterized by symptoms such as pruritus, urticaria, angioedema, and dyspnea requiring medical treatment have been reported at a rate of about 1 to 3 per thousand in clinical trials of ZYBAN.
+Allergic Reactions: Anaphylactoid/anaphylactic reactions characterized by symptoms such as pruritus, urticaria, angioedema, and dyspnea requiring medical treatment have been reported at a rate of about 1 to 3 per thousand in clinical trials of ZYBAN.
 In addition, there have been rare spontaneous postmarketing reports of erythema multiforme, Stevens-Johnson syndrome, and anaphylactic shock associated with bupropion.
 A patient should stop taking ZYBAN and consult a doctor if experiencing allergic or anaphylactoid/anaphylactic reactions (e.g., skin rash, pruritus, hives, chest pain, edema, and shortness of breath) during treatment.
 
 Arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity have been reported in association with bupropion.
 These symptoms may resemble serum sickness.
 
-### Insomnia
-
-In the dose-response smoking cessation trial, 29% of patients treated with 150 mg/day of ZYBAN and 35% of patients treated with 300 mg/day of ZYBAN experienced insomnia, compared to 21% of placebo-treated patients.
+Insomnia: In the dose-response smoking cessation trial, 29% of patients treated with 150 mg/day of ZYBAN and 35% of patients treated with 300 mg/day of ZYBAN experienced insomnia, compared to 21% of placebo-treated patients.
 Symptoms were sufficiently severe to require discontinuation of treatment in 0.6% of patients treated with ZYBAN and none of the patients treated with placebo.
 
 In the comparative trial, 40% of the patients treated with 300 mg/day of ZYBAN, 28% of the patients treated with 21 mg/day of NTS, and 45% of the patients treated with the combination of ZYBAN and NTS experienced insomnia compared to 18% of placebo-treated patients.
@@ -138,22 +132,16 @@ Symptoms were sufficiently severe to require discontinuation of treatment in 0.8
 
 Insomnia may be minimized by avoiding bedtime doses and, if necessary, reduction in dose.
 
-### Psychosis, Confusion, and Other Neuropsychiatric Phenomena
-
-Depressed patients treated with bupropion in depression trials have been reported to show a variety of neuropsychiatric signs and symptoms including delusions, hallucinations, psychosis, concentration disturbance, paranoia, and confusion.
+Psychosis, Confusion, and Other Neuropsychiatric Phenomena: Depressed patients treated with bupropion in depression trials have been reported to show a variety of neuropsychiatric signs and symptoms including delusions, hallucinations, psychosis, concentration disturbance, paranoia, and confusion.
 In some cases, these symptoms abated upon dose reduction and/or withdrawal of treatment.
 In clinical trials with ZYBAN conducted in nondepressed smokers, the incidence of neuropsychiatric side effects was generally comparable to placebo.
 However, in the postmarketing experience, patients taking ZYBAN to quit smoking have reported similar types of neuropsychiatric symptoms to those reported by patients in the clinical trials of bupropion for depression.
 
-### Activation of Psychosis and/or Mania
-
-Antidepressants can precipitate manic episodes in bipolar disorder patients during the depressed phase of their illness and may activate latent psychosis in other susceptible individuals.
+Activation of Psychosis and/or Mania: Antidepressants can precipitate manic episodes in bipolar disorder patients during the depressed phase of their illness and may activate latent psychosis in other susceptible individuals.
 The sustained-release formulation of bupropion is expected to pose similar risks.
 There were no reports of activation of psychosis or mania in clinical trials with ZYBAN conducted in nondepressed smokers.
 
-### Cardiovascular Effects
-
-In clinical practice, hypertension, in some cases severe, requiring acute treatment, has been reported in patients receiving bupropion alone and in combination with nicotine replacement therapy.
+Cardiovascular Effects: In clinical practice, hypertension, in some cases severe, requiring acute treatment, has been reported in patients receiving bupropion alone and in combination with nicotine replacement therapy.
 These events have been observed in both patients with and without evidence of preexisting hypertension.
 
 Data from a comparative study of ZYBAN, nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of ZYBAN and NTS.
@@ -167,17 +155,13 @@ Therefore, care should be exercised if it is used in these groups.
 Bupropion was well tolerated in depressed patients who had previously developed orthostatic hypotension while receiving tricyclic antidepressants, and was also generally well tolerated in a group of 36 depressed inpatients with stable congestive heart failure (CHF).
 However, bupropion was associated with a rise in supine blood pressure in the study of patients with CHF, resulting in discontinuation of treatment in 2 patients for exacerbation of baseline hypertension.
 
-### Hepatic Impairment
-
-ZYBAN should be used with extreme caution in patients with severe hepatic cirrhosis.
+Hepatic Impairment: ZYBAN should be used with extreme caution in patients with severe hepatic cirrhosis.
 In these patients, a reduced frequency of dosing is required.
 ZYBAN should be used with caution in patients with hepatic impairment (including mild-to-moderate hepatic cirrhosis) and reduced frequency of dosing should be considered in patients with mild-to-moderate hepatic cirrhosis.
 
 All patients with hepatic impairment should be closely monitored for possible adverse effects that could indicate high drug and metabolite levels (see CLINICAL PHARMACOLOGY, WARNINGS, and DOSAGE AND ADMINISTRATION).
 
-### Renal Impairment
-
-There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
+Renal Impairment: There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
 An inter-study comparison between normal subjects and patients with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3– and 2.8–fold increase, respectively, in AUC for patients with end-stage renal failure.
 A second study, comparing normal subjects and patients with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that exposure to a single 150-mg dose of sustained-release bupropion was approximately 2-fold higher in patients with impaired renal function while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and subsequently excreted by the kidneys.
@@ -195,22 +179,16 @@ The complete text of the Medication Guide is reprinted at the end of this docume
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking ZYBAN.
 
-### Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
-
-Patients should be informed that quitting smoking, with or without ZYBAN, may be associated with nicotine withdrawal symptoms (including depression or agitation), or exacerbation of pre-existing psychiatric illness.
+Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment: Patients should be informed that quitting smoking, with or without ZYBAN, may be associated with nicotine withdrawal symptoms (including depression or agitation), or exacerbation of pre-existing psychiatric illness.
 Furthermore, some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide when attempting to quit smoking while taking ZYBAN.
 If patients develop agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to report these symptoms to their healthcare provider immediately.
 
-### Clinical Worsening and Suicide Risk in Treating Psychiatric Disorders
-
-Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
+Clinical Worsening and Suicide Risk in Treating Psychiatric Disorders: Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
-### Bupropion-Containing Products
-
-Patients should be made aware that ZYBAN contains the same active ingredient found in WELLBUTRIN, WELLBUTRIN SR, and WELLBUTRIN XL used to treat depression and that ZYBAN should not be used in conjunction with WELLBUTRIN, the immediate-release formulation; WELLBUTRIN SR, the sustained-release formulation; WELLBUTRIN XL, the extended-release formulation; or any other medications that contain bupropion hydrochloride.
+Bupropion-Containing Products: Patients should be made aware that ZYBAN contains the same active ingredient found in WELLBUTRIN, WELLBUTRIN SR, and WELLBUTRIN XL used to treat depression and that ZYBAN should not be used in conjunction with WELLBUTRIN, the immediate-release formulation; WELLBUTRIN SR, the sustained-release formulation; WELLBUTRIN XL, the extended-release formulation; or any other medications that contain bupropion hydrochloride.
 
 ## Laboratory Tests
 
@@ -220,14 +198,14 @@ There are no specific laboratory tests recommended.
 
 In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by the CYP2B6 isoenzyme.
 Therefore, the potential exists for a drug interaction between ZYBAN and drugs that are substrates of or inhibitors/inducers of the CYP2B6 isoenzyme (e.g., orphenadrine, thiotepa, cyclophosphamide, ticlopidine, and clopidogrel).
-In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir and efavirenz inhibit the hydroxylation of bupropion.
+In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir inhibit the hydroxylation of bupropion.
 No clinical studies have been performed to evaluate this finding.
 The threohydrobupropion metabolite of bupropion does not appear to be produced by the cytochrome P450 isoenzymes.
-Few systemic data have been collected on the metabolism of ZYBAN following concomitant administration with other drugs or, alternatively, the effect of concomitant administration of ZYBAN on the metabolism of other drugs.
 
 In a series of studies in healthy volunteers, ritonavir (100 mg twice daily or 600 mg twice daily) or ritonavir 100 mg plus lopinavir 400 mg (KALETRA) twice daily reduced the exposure of bupropion and its major metabolites in a dose dependent manner by approximately 20% to 80%.
-This effect is thought to be due to the induction of bupropion metabolism.
-Patients receiving ritonavir may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded (see CLINICAL PHARMACOLOGY: Metabolism).
+Similarly, efavirenz 600 mg once daily for 2 weeks reduced the exposure of bupropion by approximately 55%.
+This effect of ritonavir, KALETRA, and efavirenz is thought to be due to the induction of bupropion metabolism.
+Patients receiving of these drugs with bupropion may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded (see CLINICAL PHARMACOLOGY: Metabolism).
 
 Multiple oral doses of bupropion had no statistically significant effects on the single dose pharmacokinetics of lamotrigine in 12 healthy volunteers.
 
@@ -239,9 +217,7 @@ The effects of concomitant administration of cimetidine on the pharmacokinetics 
 Following oral administration of two 150-mg ZYBAN tablets with and without 800 mg of cimetidine, the pharmacokinetics of bupropion and its hydroxy metabolite were unaffected.
 However, there were 16% and 32% increases, respectively, in the AUC and Cmax of the combined moieties of threohydro- and erythrohydro- bupropion.
 
-### Drugs Metabolized by Cytochrome P450IID6 (CYP2D6)
-
-Many drugs, including most antidepressants (SSRIs, many tricyclics), beta-blockers, antiarrhythmics, and antipsychotics are metabolized by the CYP2D6 isoenzyme.
+Drugs Metabolized by Cytochrome P450IID6 (CYP2D6): Many drugs, including most antidepressants (SSRIs, many tricyclics), beta-blockers, antiarrhythmics, and antipsychotics are metabolized by the CYP2D6 isoenzyme.
 Although bupropion is not metabolized by this isoenzyme, bupropion and hydroxybupropion are inhibitors of the CYP2D6 isoenzyme in vitro.
 In a study of 15 male subjects (aged 19 to 35 years) who were extensive metabolizers of the CYP2D6 isoenzyme, daily doses of bupropion given as 150 mg twice daily followed by a single dose of 50 mg desipramine increased the Cmax, AUC, and t1/2 of desipramine by an average of approximately 2-, 5- and 2-fold, respectively.
 The effect was present for at least 7 days after the last dose of bupropion.
@@ -250,34 +226,24 @@ Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been
 Therefore, coadministration of bupropion with drugs that are metabolized by CYP2D6 isoenzyme including certain antidepressants (e.g., nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution and should be initiated at the lower end of the dose range of the concomitant medication.
 If bupropion is added to the treatment regimen of a patient already receiving a drug metabolized by CYP2D6, the need to decrease the dose of the original medication should be considered, particularly for those concomitant medications with a narrow therapeutic index.
 
+Drugs which require metabolic activation by CYP2D6 in order to be effective (e.g., tamoxifen) theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
+
 Although citalopram is not primarily metabolized by CYP2D6, in one study bupropion increased the Cmax and AUC of citalopram by 30% and 40%, respectively.
 Citalopram did not affect the pharmacokinetics of bupropion and its three metabolites.
 
-### MAO Inhibitors
+MAO Inhibitors: Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine (see CONTRAINDICATIONS).
 
-Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine (see CONTRAINDICATIONS).
-
-### Levodopa and Amantadine
-
-Limited clinical data suggest a higher incidence of adverse experiences in patients receiving bupropion concurrently with either levodopa or amantadine.
+Levodopa and Amantadine: Limited clinical data suggest a higher incidence of adverse experiences in patients receiving bupropion concurrently with either levodopa or amantadine.
 Administration of ZYBAN to patients receiving either levodopa or amantadine concurrently should be undertaken with caution, using small initial doses and gradual dose increases.
 
-### Drugs that Lower Seizure Threshold
+Drugs that Lower Seizure Threshold: Concurrent administration of ZYBAN and agents (e.g., antipsychotics, antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold should be undertaken only with extreme caution (see WARNINGS).
 
-Concurrent administration of ZYBAN and agents (e.g., antipsychotics, antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold should be undertaken only with extreme caution (see WARNINGS).
+Nicotine Transdermal System: (see PRECAUTIONS: Cardiovascular Effects).
 
-### Nicotine Transdermal System
-
-(see PRECAUTIONS: Cardiovascular Effects).
-
-### Smoking Cessation
-
-Physiological changes resulting from smoking cessation itself, with or without treatment with ZYBAN, may alter the pharmacokinetics of some concomitant medications, which may require dosage adjustment.
+Smoking Cessation: Physiological changes resulting from smoking cessation itself, with or without treatment with ZYBAN, may alter the pharmacokinetics of some concomitant medications, which may require dosage adjustment.
 Blood concentrations of concomitant medications that are extensively metabolized, such as theophylline and warfarin, may be expected to increase following smoking cessation due to de-induction of hepatic enzymes.
 
-### Alcohol
-
-In post-marketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with ZYBAN.
+Alcohol: In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with ZYBAN.
 The consumption of alcohol during treatment with ZYBAN should be minimized or avoided (also see CONTRAINDICATIONS).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -294,9 +260,7 @@ A fertility study in rats at doses up to 300 mg/kg revealed no evidence of impai
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-Pregnancy Category C, In studies conducted in rats and rabbits, bupropion was administered orally at doses up to 450 and 150 mg/kg/day, respectively (approximately 14 and 10 times the MRHD, respectively, on a mg/m2 basis), during the period of organogenesis.
+Teratogenic Effects: Pregnancy Category C, In studies conducted in rats and rabbits, bupropion was administered orally at doses up to 450 and 150 mg/kg/day, respectively (approximately 14 and 10 times the MRHD, respectively, on a mg/m2 basis), during the period of organogenesis.
 No clear evidence of teratogenic activity was found in either species; however, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg/kg/day, approximately 2 times the MRHD on a mg/m2 basis) and greater.
 Decreased fetal weights were seen at 50 mg/kg and greater.
 
