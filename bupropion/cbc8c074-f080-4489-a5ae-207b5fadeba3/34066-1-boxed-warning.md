@@ -1,4 +1,4 @@
-# WARNING
+WARNING
 
 Suicidality and Antidepressant Drugs
 

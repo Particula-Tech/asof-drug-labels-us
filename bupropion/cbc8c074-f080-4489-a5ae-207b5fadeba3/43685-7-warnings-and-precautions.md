@@ -12,7 +12,7 @@ The pooled analyses of placebo-controlled trials in children and adolescents wit
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
+The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
 
 Table 1
@@ -37,10 +37,9 @@ All patients being treated with antidepressants for any indication should be mon
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 
-Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
+Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 
-Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
-Such monitoring should include daily observation by families and caregivers.
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.Such monitoring should include daily observation by families and caregivers.
 Prescriptions for WELLBUTRIN SR should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 ## Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
@@ -59,7 +58,8 @@ All patients being treated with bupropion as part of smoking cessation treatment
 
 Patients with serious psychiatric illness such as schizophrenia, bipolar disorder, and major depressive disorder did not participate in the pre-marketing studies of ZYBAN.
 
-Advise patients and caregivers that the patient using bupropion for smoking cessation should stop taking bupropion and contact a healthcare provider immediately if agitation, depressed mood, or changes in behavior or thinking that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.In many postmarketing cases, resolution of symptoms after discontinuation of ZYBAN was reported, although in some cases the symptoms persisted, therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
+Advise patients and caregivers that the patient using bupropion for smoking cessation should stop taking bupropion and contact a healthcare provider immediately if agitation, depressed mood, or changes in behavior or thinking that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
+In many postmarketing cases, resolution of symptoms after discontinuation of ZYBAN was reported, although in some cases the symptoms persisted, therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
 
 The risks of using bupropion for smoking cessation should be weighed against the benefits of its use.
 ZYBAN has been demonstrated to increase the likelihood of abstinence from smoking for as long as six months compared to treatment with placebo.
@@ -87,7 +87,7 @@ WELLBUTRIN SR should be discontinued and not restarted in patients who experienc
 
 Data for the immediate-release formulation of bupropion revealed a seizure incidence of approximately 0.4% (i.e., 13 of 3,200 patients followed prospectively) in patients treated at doses in a range of 300 to 450 mg/day.
 The 450-mg/day upper limit of this dose range is close to the currently recommended maximum dose of 400 mg/day for WELLBUTRIN SR.
-This seizure incidence (0.4%) may exceed that of other marketed antidepressants and WELLBUTRIN SR up to 300 mg/day by as much as 4-fold.
+This seizure incidence (0.4%) may exceed that of other marketed antidepressants and WELLBUTRIN SR up to 300 mg/dayby as much as 4-fold.
 This relative risk is only an approximate estimate because no direct comparative studies have been conducted.
 
 Additional data accumulated for the immediate-release formulation of bupropion suggested that the estimated seizure incidence increases almost tenfold between 450 and 600 mg/day, which is twice the usual adult dose and one and one-half the maximum recommended daily dose (400 mg) of WELLBUTRIN SR.
@@ -95,15 +95,13 @@ This disproportionate increase in seizure incidence with dose incrementation cal
 
 Data for WELLBUTRIN SR revealed a seizure incidence of approximately 0.1% (i.e., 3 of 3,100 patients followed prospectively) in patients treated at doses in a range of 100 to 300 mg/day.
 It is not possible to know if the lower seizure incidence observed in this study involving the sustained-release formulation of bupropion resulted from the different formulation or the lower dose used.
-However, as noted above, the immediate-release and sustained-release formulations are bioequivalent with regard to both rate and extent of absorption during steady state (the most pertinent condition to estimating seizure incidence), since most observed seizures occur under steady-state conditions.
+However, as noted above, theimmediate-release and sustained-release formulations are bioequivalent with regard to both rate and extent of absorption during steady state (the most pertinent condition to estimating seizure incidence), since most observed seizures occur under steady-state conditions.
 
 - Patient factors: Predisposing factors that may increase the risk of seizure with bupropion use include history of head trauma or prior seizure, central nervous system (CNS) tumor, the presence of severe hepatic cirrhosis, and concomitant medications that lower seizure threshold.
 - Clinical situations: Circumstances associated with an increased seizure risk include, among others, excessive use of alcohol or sedatives (including benzodiazepines); addiction to opiates, cocaine, or stimulants; use of over-the-counter stimulants and anorectics; and diabetes treated with oral hypoglycemics or insulin.
 - Concomitant medications: Many medications (e.g., antipsychotics, antidepressants, theophylline, systemic steroids) are known to lower seizure threshold.
 
-### Recommendations for Reducing the Risk of Seizure
-
-Retrospective analysis of clinical experience gained during the development of bupropion suggests that the risk of seizure may be minimized if
+Recommendations for Reducing the Risk of Seizure:Retrospective analysis of clinical experience gained during the development of bupropion suggests that the risk of seizure may be minimized if
 
 - the total daily dose of WELLBUTRIN SR does not exceed 400 mg,
 - the daily dose is administered twice daily, and
@@ -127,9 +125,7 @@ In dogs receiving large doses of bupropion chronically, various histologic chang
 
 ## General
 
-### Agitation and Insomnia
-
-Patients in placebo-controlled trials with WELLBUTRIN SR experienced agitation, anxiety, and insomnia as shown in Table 2.
+Agitation and Insomnia: Patients in placebo-controlled trials with WELLBUTRIN SR experienced agitation, anxiety, and insomnia as shown in Table 2.
 
 Table 2.
 Incidence of Agitation, Anxiety, and Insomnia in Placebo-Controlled Trials
@@ -144,19 +140,13 @@ In clinical studies, these symptoms were sometimes of sufficient magnitude to re
 
 Symptoms were sufficiently severe to require discontinuation of treatment in 1% and 2.6% of patients treated with 300 and 400 mg/day, respectively, of WELLBUTRIN SR and 0.8% of patients treated with placebo.
 
-### Psychosis, Confusion, and Other Neuropsychiatric Phenomena
-
-Depressed patients treated with an immediate-release formulation of bupropion or with WELLBUTRIN SR have been reported to show a variety of neuropsychiatric signs and symptoms, including delusions, hallucinations, psychosis, concentration disturbance, paranoia, and confusion.
+Psychosis, Confusion, and Other Neuropsychiatric Phenomena: Depressed patients treated with an immediate-release formulation of bupropion or with WELLBUTRIN SR have been reported to show a variety of neuropsychiatric signs and symptoms, including delusions, hallucinations, psychosis, concentration disturbance, paranoia, and confusion.
 In some cases, these symptoms abated upon dose reduction and/or withdrawal of treatment.
 
-### Activation of Psychosis and/or Mania
-
-Antidepressants can precipitate manic episodes in bipolar disorder patients during the depressed phase of their illness and may activate latent psychosis in other susceptible patients.
+Activation of Psychosis and/or Mania: Antidepressants can precipitate manic episodes in bipolar disorder patients during the depressed phase of their illness and may activate latent psychosis in other susceptible patients.
 WELLBUTRIN SR is expected to pose similar risks.
 
-### Altered Appetite and Weight
-
-In placebo-controlled studies, patients experienced weight gain or weight loss as shown in Table 3.
+Altered Appetite and Weight: In placebo-controlled studies, patients experienced weight gain or weight loss as shown in Table 3.
 
 Table 3.
 Incidence of Weight Gain and Weight Loss in Placebo-Controlled Trials
@@ -169,18 +159,14 @@ Incidence of Weight Gain and Weight Loss in Placebo-Controlled Trials
 In studies conducted with the immediate-release formulation of bupropion, 35% of patients receiving tricyclic antidepressants gained weight, compared to 9% of patients treated with the immediate-release formulation of bupropion.
 If weight loss is a major presenting sign of a patient’s depressive illness, the anorectic and/or weight-reducing potential of WELLBUTRIN SR should be considered.
 
-### Allergic Reactions
-
-Anaphylactoid/anaphylactic reactions characterized by symptoms such as pruritus, urticaria, angioedema, and dyspnea requiring medical treatment have been reported in clinical trials with bupropion.
+Allergic Reactions:Anaphylactoid/anaphylactic reactions characterized by symptoms such as pruritus, urticaria, angioedema, and dyspnea requiring medical treatment have been reported in clinical trials with bupropion.
 In addition, there have been rare spontaneous postmarketing reports of erythema multiforme, Stevens-Johnson syndrome, and anaphylactic shock associated with bupropion.
 A patient should stop taking WELLBUTRIN SR and consult a doctor if experiencing allergic or anaphylactoid/anaphylactic reactions (e.g., skin rash, pruritus, hives, chest pain, edema, and shortness of breath) during treatment.
 
 Arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity have been reported in association with bupropion.
 These symptoms may resemble serum sickness.
 
-### Cardiovascular Effects
-
-In clinical practice, hypertension, in some cases severe, requiring acute treatment, has been reported in patients receiving bupropion alone and in combination with nicotine replacement therapy.
+Cardiovascular Effects: In clinical practice, hypertension, in some cases severe, requiring acute treatment, has been reported in patients receiving bupropion alone and in combination with nicotine replacement therapy.
 These events have been observed in both patients with and without evidence of preexisting hypertension.
 
 Data from a comparative study of the sustained-release formulation of bupropion (ZYBAN® Sustained-Release Tablets), nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.
@@ -194,18 +180,14 @@ Therefore, care should be exercised if it is used in these groups.
 Bupropion was well tolerated in depressed patients who had previously developed orthostatic hypotension while receiving tricyclic antidepressants, and was also generally well tolerated in a group of 36 depressed inpatients with stable congestive heart failure (CHF).
 However, bupropion was associated with a rise in supine blood pressure in the study of patients with CHF, resulting in discontinuation of treatment in 2 patients for exacerbation of baseline hypertension.
 
-### Hepatic Impairment
-
-WELLBUTRIN SR should be used with extreme caution in patients with severe hepatic cirrhosis.
+Hepatic Impairment: WELLBUTRIN SR should be used with extreme caution in patients with severe hepatic cirrhosis.
 In these patients, a reduced frequency and/or dose is required.
 WELLBUTRIN SR should be used with caution in patients with hepatic impairment (including mild-to-moderate hepatic cirrhosis) and reduced frequency and/or dose should be considered in patients with mild-to-moderate hepatic cirrhosis.
 
 All patients with hepatic impairment should be closely monitored for possible adverse effects that could indicate high drug and metabolite levels (see CLINICAL PHARMACOLOGY, WARNINGS, and DOSAGE AND ADMINISTRATION).
 
-### Renal Impairment
-
-There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
-An inter-study comparison between normal subjects and patients with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3– and 2.8–fold increase, respectively, in AUC for patients with end-stage renal failure.
+Renal Impairment: There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
+An inter-study comparison between normal subjects and patients with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for patients with end-stage renal failure.
 A second study, comparing normal subjects and patients with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that exposure to a single 150-mg dose of sustained-release bupropion was approximately 2-fold higher in patients with impaired renal function while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and subsequently excreted by the kidneys.
 WELLBUTRIN SR should be used with caution in patients with renal impairment and a reduced frequency and/or dose should be considered as bupropion and the metabolites of bupropion may accumulate in such patients to a greater extent than usual.
@@ -221,17 +203,23 @@ The complete text of the Medication Guide is reprinted at the end of this docume
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking WELLBUTRIN SR.
 
-Clinical Worsening and Suicide Risk in Treating Psychiatric Disorders: Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
+### Clinical Worsening and Suicide Risk in Treating Psychiatric Disorders
+
+Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
-Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment: Although WELLBUTRIN SR is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN which is approved for this use.
+### Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
+
+Although WELLBUTRIN SR is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN which is approved for this use.
 Patients should be informed that quitting smoking, with or without ZYBAN, may be associated with nicotine withdrawal symptoms (including depression or agitation), or exacerbation of pre-existing psychiatric illness.
 Furthermore, some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide when attempting to quit smoking while taking ZYBAN.
 If patients develop agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to report these symptoms to their healthcare provider immediately.
 
-Bupropion-Containing Products: Patients should be made aware that WELLBUTRIN SR contains the same active ingredient found in ZYBAN, used as an aid to smoking cessation treatment, and that WELLBUTRIN SR should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN, the immediate-release formulation and WELLBUTRIN XL, the extended-release formulation).
+### Bupropion-Containing Products
+
+Patients should be made aware that WELLBUTRIN SR contains the same active ingredient found in ZYBAN, used as an aid to smoking cessation treatment, and that WELLBUTRIN SR should not be used in combination with ZYBAN or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN, the immediate-release formulation and WELLBUTRIN XL, the extended-release formulation).
 
 As dose is increased during initial titration to doses above 150 mg/day, patients should be instructed to take WELLBUTRIN SR in 2 divided doses, preferably with at least 8 hours between successive doses, to minimize the risk of seizures.
 
@@ -260,7 +248,8 @@ There are no specific laboratory tests recommended.
 
 Because bupropion is extensively metabolized, the coadministration of other drugs may affect its clinical activity.
 In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by the CYP2B6 isoenzyme.
-Therefore, the potential exists for a drug interaction between WELLBUTRIN SR and drugs that are substrates of or inhibitors/inducers of the CYP2B6 isoenzyme (e.g., orphenadrine, thiotepa, cyclophosphamide, ticlopidine, and clopidogrel).In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir inhibit the hydroxylation of bupropion.
+Therefore, the potential exists for a drug interaction between WELLBUTRIN SR and drugs that are substrates of or inhibitors/inducers of the CYP2B6 isoenzyme (e.g., orphenadrine, thiotepa, cyclophosphamide, ticlopidine, and clopidogrel).
+In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, and fluvoxamine as well as nelfinavir inhibit the hydroxylation of bupropion.
 No clinical studies have been performed to evaluate this finding.
 The threohydrobupropion metabolite of bupropion does not appear to be produced by the cytochrome P450 isoenzymes.
 The effects of concomitant administration of cimetidine on the pharmacokinetics of bupropion and its active metabolites were studied in 24 healthy young male volunteers.
@@ -280,9 +269,7 @@ Animal data indicated that bupropion may be an inducer of drug-metabolizing enzy
 In one study, following chronic administration of bupropion, 100 mg 3 times daily to 8 healthy male volunteers for 14 days, there was no evidence of induction of its own metabolism.
 Nevertheless, there may be the potential for clinically important alterations of blood levels of coadministered drugs.
 
-### Drugs Metabolized By Cytochrome P450IID6 (CYP2D6)
-
-Many drugs, including most antidepressants (SSRIs, many tricyclics), beta-blockers, antiarrhythmics, and antipsychotics are metabolized by the CYP2D6 isoenzyme.
+Drugs Metabolized By Cytochrome P450IID6 (CYP2D6): Many drugs, including most antidepressants (SSRIs, many tricyclics), beta-blockers, antiarrhythmics, and antipsychotics are metabolized by the CYP2D6 isoenzyme.
 Although bupropion is not metabolized by this isoenzyme, bupropion and hydroxybupropion are inhibitors of CYP2D6 isoenzyme in vitro.
 In a study of 15 male subjects (aged 19 to 35 years) who were extensive metabolizers of the CYP2D6 isoenzyme, daily doses of bupropion given as 150 mg twice daily followed by a single dose of 50 mg desipramine increased the Cmax, AUC, and t1/2 of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.
 The effect was present for at least 7 days after the last dose of bupropion.
@@ -296,30 +283,20 @@ Drugs which require metabolic activation by CYP2D6 in order to be effective (e.g
 Although citalopram is not primarily metabolized by CYP2D6, in one study bupropion increased the Cmax and AUC of citalopram by 30% and 40%, respectively.
 Citalopram did not affect the pharmacokinetics of bupropion and its 3 metabolites.
 
-### MAO Inhibitors
+MAO Inhibitors: Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine (see CONTRAINDICATIONS).
 
-Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine (see CONTRAINDICATIONS).
-
-### Levodopa and Amantadine
-
-Limited clinical data suggest a higher incidence of adverse experiences in patients receiving bupropion concurrently with either levodopa or amantadine.
+Levodopa and Amantadine: Limited clinical data suggest a higher incidence of adverse experiences in patients receiving bupropion concurrently with either levodopa or amantadine.
 Administration of WELLBUTRIN SR to patients receiving either levodopa or amantadine concurrently should be undertaken with caution, using small initial doses and gradual dose increases.
 
-### Drugs That Lower Seizure Threshold
-
-Concurrent administration of WELLBUTRIN SR and agents (e.g., antipsychotics, other antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold should be undertaken only with extreme caution (see WARNINGS).
+Drugs That Lower Seizure Threshold: Concurrent administration of WELLBUTRIN SR and agents (e.g., antipsychotics, other antidepressants, theophylline, systemic steroids, etc.) that lower seizure threshold should be undertaken only with extreme caution (see WARNINGS).
 Low initial dosing and gradual dose increases should be employed.
 
-### Nicotine Transdermal System
+Nicotine Transdermal System: (see PRECAUTIONS: Cardiovascular Effects).
 
-(see PRECAUTIONS: Cardiovascular Effects).
-
-### Alcohol
-
-In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with WELLBUTRIN SR.
+Alcohol: In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with WELLBUTRIN SR.
 The consumption of alcohol during treatment with WELLBUTRIN SR should be minimized or avoided (also see CONTRAINDICATIONS).
 
-### Drug/Laboratory Test Interactions
+## Drug-Laboratory Test Interactions
 
 False-positive urine immunoassay screening tests for amphetamines have been reported in patients taking bupropion.
 This is due to lack of specificity of some screening tests.
@@ -340,9 +317,7 @@ A fertility study in rats at doses up to 300 mg/kg/day revealed no evidence of i
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-Pregnancy Category C. In studies conducted in rats and rabbits, bupropion was administered orally at doses up to 450 and 150 mg/kg/day, respectively (approximately 11 and 7 times the MRHD, respectively, on a mg/m2 basis), during the period of organogenesis.
+Teratogenic Effects: Pregnancy Category C. In studies conducted in rats and rabbits, bupropion was administered orally at doses up to 450 and 150 mg/kg/day, respectively (approximately 11 and 7 times the MRHD, respectively, on a mg/m2 basis), during the period of organogenesis.
 No clear evidence of teratogenic activity was found in either species; however, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg/kg/day, approximately equal to the MRHD on a mg/m2 basis) and greater.
 Decreased fetal weights were seen at 50 mg/kg and greater.
 

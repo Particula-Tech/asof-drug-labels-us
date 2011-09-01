@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-WELLBUTRIN SR ® (WELL byu-trin)
+WELLBUTRIN SR® (WELL byu-trin)
 
 (bupropion hydrochloride) Sustained-Release Tablets
 
@@ -12,10 +12,10 @@ If you have any questions about WELLBUTRIN SR, ask your doctor or pharmacist.
 IMPORTANT: Be sure to read the three sections of this Medication Guide.
 The first section is about the risk of suicidal thoughts and actions with antidepressant medicines; the second section is about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with medicines used to quit smoking; and the third section is entitled “What Other Important Information Should I Know About WELLBUTRIN SR?”
 
-Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
+## Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
 This section of the Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
-Talk to your, or your family member's, healthcare provider about:
+Talk to your, or your family member’s, healthcare provider about:
 
 - all risks and benefits of treatment with antidepressant medicines
 - all treatment choices for depression or other serious mental illness
@@ -33,7 +33,7 @@ What is the most important information I should know about antidepressant medici
    - Keep all follow-up visits with the healthcare provider as scheduled.
      Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
-Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
+Call a healthcare provider right away if you or your family member has any of the followingsymptoms, especially if they are new, worse, or worry you:
 
 | thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietyfeeling very agitated or restlesspanic attacks | trouble sleeping (insomnia)new or worse irritabilityacting aggressive, being angry, or violentacting on dangerous impulsesan extreme increase in activity and talking (mania)other unusual changes in behavior or mood |
 | --- | --- |
@@ -56,7 +56,7 @@ What else do I need to know about antidepressant medicines?
 
 WELLBUTRIN SR has not been studied in children under the age of 18 and is not approved for use in children and teenagers.
 
-Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions
+## Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions
 
 This section of the Medication Guide is only about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with drugs used to quit smoking.
 
@@ -67,7 +67,7 @@ These symptoms can develop during treatment with bupropion or after stopping tre
 
 If you, your family member, or your caregiver notice agitation, hostility, depression, or changes in thinking or behavior that are not typical for you, or you have any of the following symptoms, stop taking bupropion and call your healthcare provider right away:
 
-| thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietypanic attacksfeeling very agitated or restlessacting aggressive, being angry, or violentacting on dangerous impulses | an extreme increase in activity and talking (mania) abnormal thoughts or sensationsseeing or hearing things that are not there (hallucinations)feeling people are against you (paranoia)feeling confusedother unusual changes in behavior or mood |
+| thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietypanic attacksfeeling very agitated or restlessacting aggressive, being angry, or violentacting on dangerous impulses | an extreme increase in activity and talking (mania)abnormal thoughts or sensationsseeing or hearing things that are not there (hallucinations)feeling people are against you (paranoia)feeling confusedother unusual changes in behavior or mood |
 | --- | --- |
 
 When you try to quit smoking, with or without bupropion, you may have symptoms that may be due to nicotine withdrawal, including urge to smoke, depressed mood, trouble sleeping, irritability, frustration, anger, feeling anxious, difficulty concentrating, restlessness, decreased heart rate, and increased appetite or weight gain.
@@ -77,7 +77,7 @@ Sometimes quitting smoking can lead to worsening of mental health problems that 
 Before taking bupropion, tell your healthcare provider if you have ever had depression or other mental illnesses.
 You should also tell your doctor about any symptoms you had during other times you tried to quit smoking, with or without bupropion.
 
-What Other Important Information Should I Know About WELLBUTRIN SR?
+## What Other Important Information Should I Know About WELLBUTRIN SR?
 
 - Seizures: There is a chance of having a seizure (convulsion, fit) with WELLBUTRIN SR, especially in people:
   - with certain medical problems.
@@ -124,12 +124,14 @@ Tell your doctor if you have ever had depression, suicidal thoughts or actions, 
 See “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions.”
 
 - Tell your doctor about your other medical conditions including if you:
+
+- 
   - are pregnant or plan to become pregnant.
     It is not known if WELLBUTRIN SR can harm your unborn baby.
   - are breastfeeding.
     WELLBUTRIN SR passes through your milk.
     It is not known if WELLBUTRIN SR can harm your baby.
-  - have liver problems, especially cirrhosis of the liver.
+  - have liverproblems, especially cirrhosis of the liver.
   - have kidney problems.
   - have an eating disorder such as anorexia nervosa or bulimia.
   - have had a head injury.
@@ -203,6 +205,9 @@ Do not give WELLBUTRIN SR to other people, even if they have the same symptoms y
 It may harm them.
 Keep WELLBUTRIN SR out of the reach of children.
 
+If you take a urine drug screening test, WELLBUTRIN SR may make the test result positive for amphetamines.
+If you tell the person giving you the drug screening test that you are taking WELLBUTRIN SR, they can do a more specific drug screening test that should not have this problem.
+
 This Medication Guide summarizes important information about WELLBUTRIN SR.
 For more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about WELLBUTRIN SR that is written for health professionals.
@@ -215,13 +220,11 @@ Inactive ingredients: carnauba wax, cysteine hydrochloride, hypromellose, magnes
 In addition, the 100-mg tablet contains FD&C Blue No. 1 Lake, the 150-mg tablet contains FD&C Blue No. 2 Lake and FD&C Red No. 40 Lake, and the 200-mg tablet contains FD&C Red No. 40 Lake.
 The tablets are printed with edible black ink.
 
-Rx only
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL, ZYBAN, and PARNATE are registered trademarks of GlaxoSmithKline.
 
-*The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.
+The following are registered trademarks of their respective manufacturers: NARDIL®/Warner Lambert Company; MARPLAN®/Oxford Pharmaceutical Services, Inc.
 
 Distributed by:
 
@@ -239,9 +242,9 @@ or DSM Pharmaceuticals, Inc.
 
 Greenville, NC 27834
 
-©2010, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-May 2010
+August 2011
 
-WLS:6MG
+WLS:7MG
