@@ -1,0 +1,12 @@
+# DOSAGE AND ADMINISTRATION
+
+Parenteral Administration: IM, IV and SC routes may be used if the disease is exceptionally severe or if gastrointestinal absorption may be, or is known to be, impaired.
+
+Usual Therapeutic Dosage—In adults and children (regardless of age): up to 1 mg daily.Resistant cases may require larger doses.
+
+Maintenance Level: When clinical symptoms have subsided and the blood picture has become normal, a maintenance level should be used, i.e., 0.1 mg for infants and up to 0.3 mg for children under four years of age, 0.4 mg for adults and children four or more years of age and 0.8 mg for pregnant and lactating women, per day, but never less than 0.1 mg per day.
+Patient should be kept under close supervision and adjustment of the maintenance level made if relapse appears imminent.
+
+In the presence of alcoholism, hemolytic anemia, anticonvulsant therapy or chronic infection, the maintenance level may need to be increased.
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.

@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA089202"
+  ],
+  "inn": "folic-acid",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-184-10",
+    "63323-184-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "folic acid",
+      "name": "Folic Acid"
+    }
+  ],
+  "setid": "e215318c-4f8b-4711-ae76-f370d1da0f3b",
+  "source": "dailymed"
+}
