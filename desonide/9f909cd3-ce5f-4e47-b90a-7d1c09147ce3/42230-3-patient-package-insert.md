@@ -44,11 +44,11 @@ How should I use Verdeso Foam?
 - Do not get Verdeso Foam in your eyes, mouth, or vagina.
 - Verdeso Foam is usually applied to the affected skin areas 2 times each day.
 - Talk to your doctor if your skin does not improve after using Verdeso Foam for 4 weeks.
-- You should not use Verdeso Foam for more than 4 weeks in a row without talking with your doctor.
+- You should not use Verdeso Foam for more than 4 weeks in a row without talking with your doctor
 - Verdeso Foam contains alcohol.
   Alcohol based products are flammable.
-  Avoid fire, flames or smoking while applying Verdeso Foam to your skin and right after you apply it.
-- Applying Verdeso Foam.
+  Avoid fire, flames or smoking while applying Verdeso foam to your skin and right after you apply it.
+  Applying Verdeso Foam.
 
 1.
 Before applying Verdeso Foam for the first time, break the tiny plastic seal at the base of the nozzle by gently pushing it back away from the seal.
@@ -120,16 +120,18 @@ Active ingredient: desonide
 Inactive Ingredients: anhydrous citric acid, cetyl alcohol, cyclomethicone, isopropyl myristate, light mineral oil, white petrolatum, polyoxyl 20 cetostearyl ether, potassium citrate (monohydrate), propylene glycol, purified water, sorbitan monolaurate, and phenoxyethanol as a preservative.
 The can is pressurized with a hydrocarbon (propane/butane) propellant.
 
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Issued 08/2011
+
 Manufactured for
 
 Stiefel Laboratories, Inc.
 
-Coral Gables, FL 33134
+Research Triangle Park, NC 27709
 
-USA
+August 2011
 
-July 2010
+VDS:3PIL VERDESO is a registered trademarks of Stiefel Laboratories, Inc.
 
-VDS:2PIL VERDESO, VERSAFOAM-EF, VERSAFOAM-EF & Design, STIEFEL, and STIEFEL & DESIGN are registered trademarks of Stiefel Laboratories, Inc.
-
-© 2010 Stiefel Laboratories, Inc.
+© 2011 Stiefel Laboratories, Inc.

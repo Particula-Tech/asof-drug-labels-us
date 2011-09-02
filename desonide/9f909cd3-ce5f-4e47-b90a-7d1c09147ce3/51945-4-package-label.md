@@ -2,22 +2,18 @@ Principal Display Panel
 
 NDC 63032-111-50
 
-VerdesoTM
+Verdeso®
 
 (desonide)
 
 Foam, 0.05%
 
+EMULSION
+
+FORMULATION
+
+FOR TOPICAL USE ONLY
+
 50 g Rx only
 
-EMULSION FORMULATION
-
-DELIVERED IN
-
-V®
-
-VersaFoam-EFTM
-
-EMULSION FORMULATION
-
-STIEFEL®
+DEVCOMP-0001639

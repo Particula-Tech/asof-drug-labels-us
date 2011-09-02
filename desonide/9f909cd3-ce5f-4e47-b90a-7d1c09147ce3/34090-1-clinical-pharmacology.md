@@ -2,12 +2,9 @@
 
 ## 12.1 Mechanism of Action
 
-Topical corticosteroids share anti-inflammatory, anti-pruritic, and vasoconstrictive actions.
+Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action in the treatment of atopic dermatatis is unknown.
 
-The mechanism of anti-inflammatory activity of the topical corticosteroids is unclear.
-However, corticosteroids are thought to act by the induction of phospholipase A2 inhibitory proteins, collectively called lipocortins.
-It is postulated that these proteins control the biosynthesis of potent mediators of inflammation such as prostaglandins and leukotrienes by inhibiting the release of their common precursor arachidonic acid.
-Arachidonic acid is released from membrane phospholipids by phospholipase A2.
+The contribution to efficacy by individual components of the vehicle has not been established.
 
 ## 12.2 Pharmacodynamics
 
