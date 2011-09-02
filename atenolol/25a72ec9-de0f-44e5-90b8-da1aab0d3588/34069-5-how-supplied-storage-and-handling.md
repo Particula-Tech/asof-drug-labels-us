@@ -4,7 +4,7 @@ Atenolol tablets USP, 25 mg (white to off-white marble finish, round, flat bevel
 
 Atenolol tablets USP, 50 mg (round, flat, white tablets identified with score on one side, debossed with the numbers "93" above and "752" below the score and "TEVA" on the other side) are supplied in bottles of 100 and 1000.
 
-Atenolol tablets USP, 100 mg (round, flat, white tablets, unscored, debossed with the numbers "93" and "753" on one side and "TEVA" on the other side) are supplied in bottles of 100 and 500.
+Atenolol tablets USP, 100 mg (round, flat, white tablets, unscored, debossed with "753" on one side and "TEVA" on the other side) are supplied in bottles of 100 and 500.
 
 ## Storage
 
@@ -26,4 +26,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-X 12/2010
+Y 8/2011
