@@ -4,8 +4,7 @@
 
 The precise mechanism of action has not been clearly established.
 
-Manufactured by: Janssen Pharmaceutica N.V.
-Beerse, Belgium
+Manufactured by: GlaxoSmithKline Manufacturing SpA Parma, Italy
 
 Manufactured for: Ortho-McNeil Neurologics, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 

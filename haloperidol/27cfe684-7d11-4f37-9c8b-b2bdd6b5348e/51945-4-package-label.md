@@ -20,7 +20,7 @@ HALOPERIDOL INJECTION (For Immediate Release)
 
 Rx only.
 
-ORTHO-McNEIL
+Ortho-McNeil Neurologics, Division of Ortho-McNeil-Janssen Pharmaceuticals
 
 Each mL contains: Haloperidol 5 mg (as the lactate) and lactic acid for pH adjustment to 3.0-3.6
 
