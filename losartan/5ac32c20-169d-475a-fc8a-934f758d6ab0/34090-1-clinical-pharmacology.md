@@ -164,7 +164,7 @@ Blood pressure reduction measured at trough was similar for both treatment group
 At the end of study or at the last visit before a primary endpoint, the mean blood pressures were 144.1/81.3 mmHg for the group treated with COZAAR and 145.4/80.9 mmHg for the group treated with atenolol [the difference in systolic blood pressure (SBP) of 1.3 mmHg was significant (p<0.001), while the difference of 0.4 mmHg in diastolic blood pressure (DBP) was not significant (p=0.098)].
 
 The primary endpoint was the first occurrence of cardiovascular death, nonfatal stroke, or nonfatal myocardial infarction.
-Patients with non-fatal events remained in the trial, so that there was also an examination of the first event of each type even if it was not the first event (e.g., a stroke following an initial myocardial infarction would be counted in the analysis of stroke).
+Patients with nonfatal events remained in the trial, so that there was also an examination of the first event of each type even if it was not the first event (e.g., a stroke following an initial myocardial infarction would be counted in the analysis of stroke).
 Treatment with COZAAR resulted in a 13% reduction (p=0.021) in risk of the primary endpoint compared to the atenolol group (see Figure 1 and Table 2); this difference was primarily the result of an effect on fatal and nonfatal stroke.
 Treatment with COZAAR reduced the risk of stroke by 25% relative to atenolol (p=0.001) (see Figure 2 and Table 2).
 

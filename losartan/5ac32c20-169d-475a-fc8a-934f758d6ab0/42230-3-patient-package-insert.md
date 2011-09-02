@@ -4,7 +4,7 @@ Patient Information COZAAR® (CO-zar) (losartan potassium tablets) 25mg, 50mg, 1
 
 Rx only
 
-Read the Patient Information that comes with COZAARRegistered trademark of E.I. du Pont de Nemours and Company, Wilmington, Delaware, USA COPYRIGHT © 2006 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved. before you start taking it and each time you get a refill.
+Read the Patient Information that comes with COZAAR before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition and treatment.
 
@@ -66,6 +66,7 @@ Especially tell your doctor if you are taking:
 - salt substitutes containing potassium
 - water pills (diuretics)
 - medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
+- other medicines to reduce blood pressure
 
 ## How should I take COZAAR?
 
@@ -138,8 +139,10 @@ Active ingredients: losartan potassium
 Inactive ingredients: microcrystalline cellulose, lactose hydrous, pregelatinized starch, magnesium stearate, hydroxypropyl cellulose, hypromellose, and titanium dioxide.
 COZAAR 25 mg, COZAAR 50 mg, and COZAAR 100 mg may also contain carnauba wax.
 
-Issued June 2010
+Issued July 2011
 
 Manufactured For: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-9964202
+Copyright © 2006, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+
+9964204

@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-COZAARRegistered trademark of E.I. du Pont de Nemours and Company, Wilmington, Delaware, USA Copyright © 2003 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved (losartan potassium) is an angiotensin II receptor (type AT1) antagonist.
+COZAAR (losartan potassium) is an angiotensin II receptor (type AT1) antagonist.
 Losartan potassium, a non-peptide molecule, is chemically described as 2-butyl-4-chloro-1-[p-(o-1H-tetrazol-5-ylphenyl)benzyl]imidazole-5-methanol monopotassium salt.
 
 Its empirical formula is C22H22ClKN6O, and its structural formula is:
