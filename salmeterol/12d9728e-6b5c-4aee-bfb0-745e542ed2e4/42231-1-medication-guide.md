@@ -13,7 +13,8 @@ What is the most important information I should know about SEREVENT DISKUS?
 SEREVENT DISKUS can cause serious side effects, including:
 
 1. People with asthma who take long-acting beta2-adrenergic agonist (LABA) medicines such as salmeterol (SEREVENT DISKUS), have an increased risk of death from asthma problems.
-   - Call your healthcare provider if breathing problems worsen over time while using SEREVENT DISKUS.You may need a different treatment.
+   - Call your healthcare provider if breathing problems worsen over time while using SEREVENT DISKUS.
+     You may need a different treatment.
    - Get emergency medical care if:
      - breathing problems worsen quickly, and
      - you use your rescue inhaler medicine, but it does not relieve your breathing problems.
@@ -121,7 +122,7 @@ Ask your healthcare provider or pharmacist if you have any questions.
   - you use 1 whole canister of your rescue inhaler medicine in 8 weeks’ time
   - your peak flow meter results decrease.
     Your healthcare provider will tell you the numbers that are right for you.
-  - you have asthma and your symptoms do not improve after using SEREVENT DISKUS regularly for 1 week
+  - you have asthma and your symptoms do not improve after using SEREVENT DISKUS regularly for 1 week.
   - after a change in your asthma medicines you have any worsening of your asthma symptoms or an increase in the need for your rescue inhaler medicine.
 
 What are the possible side effects with SEREVENT DISKUS?
