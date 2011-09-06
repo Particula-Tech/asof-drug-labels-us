@@ -1,3 +1,7 @@
+Phytonadione
+
+Injectable Emulsion, USP
+
 Aqueous Dispersion of Vitamin K1
 
 Ampul

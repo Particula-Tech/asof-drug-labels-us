@@ -12,7 +12,7 @@ Directions for Dilution
 
 Vitamin K1 Injection may be diluted with 0.9% Sodium Chloride Injection, 5% Dextrose Injection, or 5% Dextrose and Sodium Chloride Injection.
 Benzyl alcohol as a preservative has been associated with toxicity in newborns.
-Therefore,all of the above diluents should be preservative-free (see WARNINGS).
+Therefore, all of the above diluents should be preservative-free (see WARNINGS).
 Other diluents should not be used.
 When dilutions are indicated, administration should be started immediately after mixture with the diluent, and unused portions of the dilution should be discarded, as well as unused contents of the ampul.
 
@@ -39,28 +39,15 @@ In rare instances 50 mg may be required.
 Frequency and amount of subsequent doses should be determined by prothrombin time response or clinical condition (see WARNINGS).
 If in 6 to 8 hours after parenteral administration the prothrombin time has not been shortened satisfactorily, the dose should be repeated.
 
-| Vitamin K1 Injection (Phytonadione Injectable Emulsion, USP) |  |
-| --- | --- |
-| Summary of Dosage Guidelines (See circular text for details) |  |
+Vitamin K1 Injection (Phytonadione Injectable Emulsion, USP) Summary of Dosage Guidelines (See circular text for details)
+
 | Newborns | Dosage |
-| Hemorrhagic Disease |  |
-| of the Newborn |  |
-| Prophylaxis | 0.5 to 1 mg IM within 1 hour of birth |
-| Treatment | 1 mg SC or IM |
-|  | (Higher doses may be necessary if the |
-|  | mother has been receiving oral |
-|  | anticoagulants) |
+| --- | --- |
+| Hemorrhagic Disease of the Newborn Prophylaxis | 0.5 to 1 mg IM within 1 hour of birth |
+| Treatment | 1 mg SC or IM(Higher doses may be necessary if the mother has been receiving oral anticoagulants) |
 | Adults | Initial Dosage |
-| Anticoagulant-Induced | 2.5 mg to 10 mg or |
-| Prothrombin Deficiency | up to 25 mg |
-| (caused by coumarin or | (rarely 50 mg) |
-| indanedione derivatives) |  |
-| Hypoprothrombinemia | 2.5 mg to 25 mg or |
-| Due to other causes | more (rarely up to |
-| (Antibiotics; | 50 mg) |
-| Salicylates or other drugs; |  |
-| Factors limiting absorption |  |
-| or synthesis) |  |
+| Anticoagulant-InducedProthrombin Deficiency(caused by coumarin or indanedione derivatives) | 2.5 mg to 10 mg orup to 25 mg(rarely 50 mg) |
+| HypoprothrombinemiaDue to other causes(Antibiotics; Salicylates or other drugs; Factors limiting absorption or synthesis) | 2.5 mg to 25 mg ormore (rarely up to50 mg) |
 
 In the event of shock or excessive blood loss, the use of whole blood or component therapy is indicated.
 

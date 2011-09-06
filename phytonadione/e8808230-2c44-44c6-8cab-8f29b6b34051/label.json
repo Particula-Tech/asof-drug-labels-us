@@ -1,12 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA087954",
+    "ANDA087955"
+  ],
   "inn": "phytonadione",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-9157-01",
     "0409-9158-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, EMULSION",
+      "generic": "phytonadione",
+      "name": "Vitamin K1"
+    }
+  ],
   "setid": "e8808230-2c44-44c6-8cab-8f29b6b34051",
   "source": "dailymed"
 }
