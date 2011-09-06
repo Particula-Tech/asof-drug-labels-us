@@ -22,11 +22,13 @@ Dispense in tight, light-resistant container per USP.
 
 Dosage: See Package Insert.
 
+2011 © Amgen Inc. This product, or its use, may be covered by US Patents including US Patent Nos. 6,313,146; 6,211,244; 6,031,003; 6,011,068 and 7,829,595 in addition to others, including patents pending.
+
 Lot
 
 Exp.
 
-LB-5663/S
+2000004019
 
 Distributed by: Amgen, One Amgen Center Drive, Thousand Oaks, CA 91320-1799
 
@@ -56,11 +58,13 @@ Dispense in tight, light-resistant container per USP.
 
 Dosage: See Package Insert.
 
+2011 © Amgen Inc. This product, or its use, may be covered by US Patents including US Patent Nos. 6,313,146; 6,211,244; 6,031,003; 6,011,068 and 7,829,595 in addition to others, including patents pending.
+
 Lot
 
 Exp.
 
-LB-5664/S
+2000004020
 
 Distributed by: Amgen, One Amgen Center Drive, Thousand Oaks, CA 91320-1799
 
@@ -90,11 +94,13 @@ Dispense in tight, light-resistant container per USP.
 
 Dosage: See Package Insert.
 
+2011 © Amgen Inc. This product, or its use, may be covered by US Patents including US Patent Nos. 6,313,146; 6,211,244; 6,031,003; 6,011,068 and 7,829,595 in addition to others, including patents pending.
+
 Lot
 
 Exp.
 
-LB-5665/S
+2000004021
 
 Distributed by: Amgen, One Amgen Center Drive, Thousand Oaks, CA 91320-1799
 

@@ -10,6 +10,8 @@ In three double-blind, placebo-controlled clinical trials, 1126 patients with CK
 The most frequently reported adverse reactions (incidence of at least 5% in the Sensipar group and greater than placebo) are provided in Table 1.
 The most frequently reported adverse reactions in the Sensipar group were nausea, vomiting, and diarrhea.
 
+Seizures were observed in 1.4% (13/910) of cinacalcet-treated patients and 0.7% (5/641) of placebo-treated patients across all completed placebo controlled trials.
+
 Table 1.
 Adverse Reaction Incidence (≥ 5%) in Patients on Dialysis
 
@@ -46,6 +48,8 @@ Severe or prolonged cases of nausea and vomiting can lead to dehydration and wor
 Eight patients died while on study, 7 with Parathyroid Carcinoma (24%) and 1 (6%) with intractable pHPT.
 Causes of death were cardiovascular (5 patients), multi-organ failure (1 patient), gastrointestinal hemorrhage (1 patient) and metastatic carcinoma (1 patient).
 Adverse events of hypocalcemia were reported in three patients (7%).
+
+Seizures were observed in 0.7% (1/140) of cinacalcet-treated patients and 0.0% (0/46) of placebo-treated patients in all clinical studies.
 
 Table 2.
 Adverse Reactions Occurring in ≥ 10% of Total Subjects

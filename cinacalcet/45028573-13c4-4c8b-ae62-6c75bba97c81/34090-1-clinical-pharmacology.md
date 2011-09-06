@@ -51,7 +51,7 @@ In vitro induction studies indicate that cinacalcet is not an inducer of CYP450 
 Tables 3 and 4 list the findings from in vivo drug-drug interaction studies.
 
 Table 3.
-Effects of co-administered drugs on cinacalcet
+Effect of co-administered drugs on cinacalcet
 
 | Co-administered drug and dosing regimen | Cinacalcet |  |  |
 | --- | --- | --- | --- |
@@ -66,7 +66,7 @@ Effect of cinacalcet co-administration on other drugs
 
 | Cinacalcet dosing regimen | Co-administered drug |  |  |
 | --- | --- | --- | --- |
-| Name and Dose | Mean change in AUC0-∞ | Mean change in Cmax |  |
+| Name and Dose | Mean change in AUC(0-inf) | Mean change in Cmax |  |
 | 30 mg twice daily for 8 days | 25 mg warfarinNo significant change in prothrombin time. tablet† | ↑1 % for R-warfarin↓1% S-warfarin | ↓10 % for R-warfarin ↓12 % for S-warfarin |
 | 90 mg daily for 7 days to CYP2D6 extensive metabolizers | 50 mg desipramineSingle dose on day 5. | ↑264% | ↑75% |
 | 90 mg daily for 5 days | 2 mg midazolam | ↑5% | ↓5% |

@@ -22,10 +22,7 @@ In a phase 3 study of 32 weeks duration and including 404 patients with CKD not 
 
 ## 5.2 Seizures
 
-In three clinical studies of patients with CKD on dialysis, 5% of the patients in both the Sensipar and placebo groups reported a history of seizure disorder at baseline.
-During the studies, seizures (primarily generalized or tonic-clonic) were observed in 1.4% (9/656) of Sensipar-treated patients and 0.4% (2/470) of placebo-treated patients.
-Five of the nine Sensipar-treated patients had a history of a seizure disorder and two were receiving antiseizure medication at the time of their seizure.
-Both placebo-treated patients had a history of seizure disorder and were receiving antiseizure medication at the time of their seizure.
+In clinical studies, seizures (primarily generalized or tonic-clonic) were observed in 1.4% (43/3049) of Sensipar-treated patients and 0.7% (5/687) of placebo-treated patients.
 While the basis for the reported difference in seizure rate is not clear, the threshold for seizures is lowered by significant reductions in serum calcium levels.
 Therefore, serum calcium levels should be closely monitored in patients receiving Sensipar, particularly in patients with a history of a seizure disorder [see Warnings and Precautions (5.1)].
 
