@@ -26,4 +26,4 @@ Vertical Pharmaceuticals, Inc. Sayerville, NJ 08872 USA
 
 by: Galephar P R, Inc. Juncos, Puerto Rico 00777
 
-To report side effects call: 1-877-VERTI (1-877-968-3784)
+To report side effects call: 1-877-95-VERTI (1-877-958-3784)
