@@ -24,5 +24,3 @@ The recombinant protein in Follistim AQ Cartridge has been standardized for FSH 
 Under current storage conditions, Follistim AQ may contain up to 11% of oxidized follitropin beta.
 
 In clinical trials with Follistim, serum antibodies to FSH or anti-CHO cell derived proteins were not detected in any of the treated patients after exposure to Follistim for up to three cycles.
-
-Therapeutic Class: Infertility.

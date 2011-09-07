@@ -23,7 +23,7 @@ Administration of follitropin beta with the Follistim Pen resulted an 18% increa
 The 18% difference in serum FSH concentrations resulting from administration of the two formulations was due to differences between the anticipated and actual volume delivered with the conventional syringe.
 The pharmacokinetic parameters for Follistim AQ Cartridge are as follows:
 
-TABLE 5: Mean (SD) Pharmacokinetic Parameters of a Single Subcutaneous Injection of 150 IU of Follistim AQ Cartridge (n=20)
+Table 5: Mean (SD) Pharmacokinetic Parameters of a Single Subcutaneous Injection of 150 IU of Follistim AQ Cartridge (n=20)
 
 |  | AUC0–∞ (IU/L*h) | Cmax (IU/L) | tmax (h) | t1/2 (h) | CLapp (L/h/kg) |
 | --- | --- | --- | --- | --- | --- |
@@ -58,12 +58,12 @@ No PK studies were conducted using Follistim AQ Cartridge in men.
 Exposures of follitropin beta from Follistim AQ Cartridge and Follistim are expected to be equivalent after adjusting for the 18% difference in dose [see Dosage and Administration (2)].
 
 Serum levels of FSH were measured in a clinical study that compared the effects of two different dosing schedules of Follistim (150 international units three times a week or 225 international units twice a week) administered by subcutaneous injection concurrently with chorionic gonadotropin for induction of spermatogenesis in hypogonadotropic hypogonadal men.
-Administration of Follistim was started at week 17.
+Administration of Follistim was started at Week 17.
 Mean serum trough concentrations of FSH remained fairly constant over the treatment period.
-At the end of treatment (week 64), the mean serum trough concentrations of FSH were 2.09 international units/L in the 150 international units group and 3.22 international units/L in the 225 international units group.
-Serum trough concentrations of FSH measured prior to the first Follistim injection on the Mondays of active treatment period (weeks 17 to 64) and one week after the end of treatment period are presented in Figure 1.
+At the end of treatment (Week 64), the mean serum trough concentrations of FSH were 2.09 international units/L in the 150 international units group and 3.22 international units/L in the 225 international units group.
+Serum trough concentrations of FSH measured prior to the first Follistim injection on the Mondays of active treatment period (Weeks 17 to 64) and one week after the end of treatment period are presented in Figure 1.
 
-FIGURE 1: Mean (SD) Serum Trough Concentrations of FSH in Men Following Subcutaneous Administration of Follistim Using Two Different Dosing Schedules (150 International Units Three Times a Week or 225 International Units Twice a Week)
+Figure 1: Mean (SD) Serum Trough Concentrations of FSH in Men Following Subcutaneous Administration of Follistim Using Two Different Dosing Schedules (150 International Units Three Times a Week or 225 International Units Twice a Week)
 
 Distribution:
 

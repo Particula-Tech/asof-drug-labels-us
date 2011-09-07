@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling
+"See FDA-Approved Patient Labeling (Patient Information)"
 
 ## 17.1 Dosing and Use of Follistim AQ Cartridge with Pen
 

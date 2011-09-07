@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category X: Follistim AQ Cartridge should not be used during pregnancy [see Contraindications (4)]
+Pregnancy Category X: Follistim AQ Cartridge should not be used during pregnancy [see Contraindications (4).]
 
 ## 8.3 Nursing Mothers
 

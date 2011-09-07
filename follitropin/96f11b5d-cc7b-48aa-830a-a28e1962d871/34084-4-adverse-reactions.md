@@ -6,7 +6,7 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 - Atelectasis [see Warnings and Precautions (5.3)]
 - Thromboembolism [see Warnings and Precautions (5.3)]
 - Ovarian Torsion [see Warnings and Precautions (5.4)]
-- Multi-fetal Gestation [see Warnings and Precautions (5.5)]
+- Multi-fetal Gestation and Birth [see Warnings and Precautions (5.5)]
 - Congenital Anomalies [see Warnings and Precautions (5.6)]
 - Ectopic Pregnancy [see Warnings and Precautions (5.7)]
 - Spontaneous Abortion [see Warnings and Precautions (5.8)]
@@ -20,7 +20,7 @@ Ovulation Induction
 In a single cycle, multi-center, assessor-blind, parallel group, comparative study, a total of 172 chronic anovulatory women who had failed to ovulate and/or conceive with clomiphene citrate therapy, were randomized and treated with Follistim (105) or a urofollitropin comparator.
 Adverse reactions with an incidence of greater than 2% in either treatment group are listed in Table 2.
 
-TABLE 2: Common Adverse Reactions Reported at a Frequency of ≥2% in an Assessor-Blind, Comparative Study of Women Receiving Ovulation Induction
+Table 2: Common Adverse Reactions Reported at a Frequency of ≥2% in an Assessor-Blind, Comparative Study of Anovulatory Women Receiving Ovulation Induction
 
 | Follistim N=105 n (%) | Comparator N=67 n (%) |  |
 | --- | --- | --- |
@@ -37,32 +37,25 @@ TABLE 2: Common Adverse Reactions Reported at a Frequency of ≥2% in an Assesso
 
 Adverse reactions reported commonly (greater than or equal to 2% of women treated with Follistim) in other ovulation induction clinical trials were headache, abdominal distension, constipation, diarrhea, nausea, pelvic pain, uterine enlargement, vaginal hemorrhage and injection site reaction.
 
-The following medical events have been reported subsequent to pregnancies resulting from Follistim AQ Cartridge therapy:
+In Vitro Fertilization/Intracytoplasmic Sperm Injection
 
-- Ectopic pregnancy [see Warnings and Precautions (5.7)]
-- Spontaneous abortion [see Warnings and Precautions (5.8)]
+In a single cycle, multi-center, double-blind, parallel group, comparative study, a total of 1509 women were randomized to receive controlled ovarian stimulation with either Follistim AQ Cartridge (751 women were treated with Follistim AQ Cartridge) or a comparator and pituitary suppression with a gonadotropin releasing hormone (GnRH) antagonist as part of an in vitro fertilization (IVF) or intracytoplasmic sperm injection (ICSI) cycle.
+Table 3 lists adverse reactions with an incidence of greater than 2% in the group of women treated with Follistim AQ Cartridge.
 
-ART
+Table 3: Common Adverse Reactions Reported At a Frequency of ≥2% in a Randomized, Double-blind, Active-controlled, Comparative Study of Normal Ovulatory Women Undergoing Controlled Ovarian Stimulation as Part of an In Vitro Fertilization or Intracytoplasmic Sperm Injection Cycle
 
-In a multiple cycle, multi-center, assessor-blind, parallel group, comparative study, after pituitary suppression with a gonadotropin release hormone (GnRH) agonist, a total of 989 women were randomized and treated with Follistim (N=591) or a urofollitropin comparator as part of in vitro fertilization therapy (IVF).
-Adverse reactions with an incidence of greater than 2% in either treatment group are listed in Table 3.
-
-TABLE 3: Common Adverse Reactions Reported at a Frequency of ≥2% in an Assessor-Blind, Comparative Study of Women Receiving In Vitro Fertilization (IVF)
-
-| Follistim N=591 n (%) | Comparator N=398 n (%) |  |
-| --- | --- | --- |
-| System Organ Class/Adverse Reactions | Treatment Number (%) of Women |  |
-| Gastrointestinal disorders |  |  |
-| Abdominal pain | 13 (2.2) | 4 (1.0) |
-| Reproductive system and breast disorders |  |  |
-| Ovarian hyperstimulation syndrome | 31 (5.2) | 17 (4.3) |
-
-Adverse reactions reported commonly (greater than or equal to 2% of women treated with Follistim) in other IVF clinical trials were headache, abdominal distension, constipation, diarrhea, nausea, pelvic pain, breast tenderness, metrorrhagia, ovarian enlargement, vaginal hemorrhage, injection site reaction and rash.
-
-The following medical events have been reported subsequent to pregnancies resulting from Follistim AQ Cartridge therapy:
-
-- Ectopic pregnancy [see Warnings and Precautions (5.7)]
-- Spontaneous abortion [see Warnings and Precautions (5.8)]
+| System Organ Class/Adverse Reactions | Follistim AQ Cartridge Treatment N = 751 nn = number of women with the adverse reaction (%) |
+| --- | --- |
+| Nervous System disorders |  |
+| Headache | 55 (7.3%) |
+| Gastrointestinal disorders |  |
+| Nausea | 29 (3.9%) |
+| Reproductive system and breast disorders |  |
+| Ovarian Hyperstimulation Syndrome | 48 (6.4%) |
+| Pelvic discomfort | 62 (8.3%) |
+| Pelvic Pain | 41 (5.5%) |
+| General disorders and Administration site conditions |  |
+| Fatigue | 17 (2.3%) |
 
 Induction of Spermatogenesis
 
@@ -70,7 +63,7 @@ In an open-label, non-comparative clinical trial, 49 men with hypogonadotropic h
 Of the 49 men, 30 received weekly Follistim doses of 450 international units; 24 of these 30 men received a total of 48 weeks of treatment with Follistim.
 Adverse reactions occurring with an incidence of greater than 2% in the 30 men treated with Follistim are listed in Table 4.
 
-TABLE 4: Common Adverse Reactions Reported At a Frequency of ≥2% in an Open-Label Clinical Trial in Men with Hypogonadotropic Hypogonadism
+Table 4: Common Adverse Reactions Reported At a Frequency of ≥2% in an Open-Label Clinical Trial in Men with Hypogonadotropic Hypogonadism
 
 | System Organ Class/Adverse Reactions | Follistim Treatment N=30 n (%) |
 | --- | --- |
@@ -91,6 +84,22 @@ TABLE 4: Common Adverse Reactions Reported At a Frequency of ≥2% in an Open-La
 
 The following adverse reactions have been identified during post approval use of Follistim and/or Follistim AQ Cartridge.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Gastrointestinal disorders
+
+Abdominal distension, abdominal pain, constipation, diarrhea
+
+General disorders and administration site conditions
+
+Injection site reaction
+
+Reproductive system and breast disorders
+
+Breast tenderness, metrorrhagia, ovarian enlargement, vaginal hemorrhage
+
+Skin and subcutaneous tissue disorders
+
+Rash
 
 Vascular disorders
 

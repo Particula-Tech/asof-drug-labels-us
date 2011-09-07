@@ -10,8 +10,6 @@ For use only with Follistim Pen®, available separately
 
 For Subcutaneous Use
 
-Organon
-
 Rx only
 
 PRINCIPAL DISPLAY PANEL - 600 IU Carton
@@ -26,8 +24,6 @@ For use only with Follistim Pen®, available separately
 
 For Subcutaneous Use
 
-Organon
-
 Rx only
 
 PRINCIPAL DISPLAY PANEL - 900 IU Carton
@@ -41,7 +37,5 @@ Follistim®AQ Cartridge 900 IU (follitropin beta injection)
 For use only with Follistim Pen®, available separately
 
 For Subcutaneous Use
-
-Organon
 
 Rx only

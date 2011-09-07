@@ -7,7 +7,7 @@ Follistim AQ Cartridge is contraindicated in women and men who exhibit:
 - Presence of uncontrolled non-gonadal endocrinopathies (e.g., thyroid, adrenal, or pituitary disorders) [see Indications and Usage (1.1, 1.2, 1.3)]
 - Hypersensitivity reactions to streptomycin or neomycin.
   Follistim AQ may contain traces of these antibiotics
-- Tumor of the ovary, breast, uterus, testis, hypothalamus or pituitary gland
+- Tumors of the ovary, breast, uterus, testis, hypothalamus or pituitary gland
 
 Follistim AQ Cartridge is also contraindicated in women who exhibit:
 
