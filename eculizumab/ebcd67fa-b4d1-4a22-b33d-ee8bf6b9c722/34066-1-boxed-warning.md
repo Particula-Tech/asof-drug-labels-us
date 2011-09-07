@@ -1,4 +1,4 @@
-WARNING: SERIOUS MENINGOCOCCAL INFECTIONS
+# WARNING: SERIOUS MENINGOCOCCAL INFECTIONS
 
 Soliris increases the risk of meningococcal infections.
 Meningococcal infection may become rapidly life-threatening or fatal if not recognized and treated early (5.1).

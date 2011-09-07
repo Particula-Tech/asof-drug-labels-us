@@ -8,7 +8,7 @@ Soliris was administered as an intravenous infusion over 25 - 45 minutes.
 Study 1:
 
 PNH patients with at least four transfusions in the prior 12 months, flow cytometric confirmation of at least 10% PNH cells and platelet counts of at least 100,000/microliter were randomized to either Soliris (n = 43) or placebo (n = 44).
-Prior to randomization, all patients underwent an initial observation period to confirm the need for RBC transfusion and to identify the hemoglobin concentration (the "set-point") which would define each patient’s hemoglobin stabilization and transfusion outcomes.
+Prior to randomization, all patients underwent an initial observation period to confirm the need for RBC transfusion and to identify the hemoglobin concentration (the "set-point") which would define each patient's hemoglobin stabilization and transfusion outcomes.
 The hemoglobin set-point was less than or equal to 9 g/dL in patients with symptoms and was less than or equal to 7 g/dL in patients without symptoms.
 Endpoints related to hemolysis included the numbers of patients achieving hemoglobin stabilization, the number of RBC units transfused, fatigue, and health-related quality of life.
 To achieve a designation of hemoglobin stabilization, a patient had to maintain a hemoglobin concentration above the hemoglobin set-point and avoid any RBC transfusion for the entire 26 week period.
@@ -43,7 +43,7 @@ TABLE 3 STUDY 1 RESULTS
 |  | Placebo N = 44 | Soliris N = 43 |
 | --- | --- | --- |
 | Percentage of patients with stabilized hemoglobin levels | 0 | 49 |
-| Packed RBC units transfused per patient (median) (range) | 10(2 - 21) | 0 (0 - 16) |
+| Packed RBC units transfused per patient (median) (range) | 10 (2 - 21) | 0 (0 - 16) |
 | Transfusion avoidance (%) | 0 | 51 |
 | LDH levels at end of study (median, U/L) | 2,167 | 239 |
 | Free hemoglobin at end of study (median, mg/dL) | 62 | 5 |

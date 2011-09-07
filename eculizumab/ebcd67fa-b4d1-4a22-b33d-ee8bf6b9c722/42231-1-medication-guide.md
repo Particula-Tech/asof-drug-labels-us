@@ -1,12 +1,6 @@
 # MEDICATION GUIDE
 
-MEDICATION GUIDE
-
-Soliris® (eculizumab)
-
-(so-leer-is)
-
-_______________________________________
+Soliris® (eculizumab) (so-leer-is)
 
 Read the Medication Guide before you start Soliris and before each dose (infusion).
 This Medication Guide does not take the place of talking with your doctor about your condition or your treatment.
@@ -17,20 +11,21 @@ What Is The Most Important Information I Should Know About Soliris?
 Soliris is a medicine that affects your immune system.
 Soliris can lower the ability of your immune system to fight infections.
 
-• Soliris increases your chance of getting serious and life-threatening meningococcal infections.
-
-1. You must receive a meningococcal vaccine at least 2 weeks before your first dose of Soliris unless you have already had this vaccine.
-2. If you had a meningococcal vaccine in the past, you might need a booster dose before starting Soliris.
-   Your doctor will decide if you need another dose of a meningococcal vaccine.
-3. A meningococcal vaccine does not prevent all meningococcal infections.
-   You must be aware of the following signs and symptoms of a meningococcal infection:
-   - moderate to severe headache with nausea or vomiting
-   - moderate to severe headache and a fever
-   - moderate to severe headache with a stiff neck or stiff back
-   - fever of 103° F (39.4° C) or higher
-   - fever and a rash
-   - confusion
-   - severe muscle aches with flu-like symptoms, and eyes sensitive to light
+- Soliris increases your chance of getting serious and life-threatening meningococcal infections.
+  Meningococcal infections may be fatal if not recognized and treated early.
+  1. You must receive a meningococcal vaccine at least 2 weeks before your first dose of Soliris unless you have already had this vaccine.
+  2. If you had a meningococcal vaccine in the past, you might need a booster dose before starting Soliris.
+     Your doctor will decide if you need another dose of a meningococcal vaccine.
+  3. A meningococcal vaccine does not prevent all meningococcal infections.
+     You must be aware of the following signs and symptoms of a meningococcal infection:
+     - Headache with nausea or vomiting
+     - Headache and a fever
+     - Headache with a stiff neck or stiff back
+     - Fever of 103° F (39.4° C) or higher
+     - Fever and a rash
+     - Confusion
+     - Severe muscle aches with flu-like symptoms
+     - Sensitivity to light
 
 Call your doctor or get emergency medical care right away if you have any of these symptoms.
 
@@ -56,7 +51,7 @@ Do not receive Soliris if you:
 
 - have a meningococcal infection
 - have not been vaccinated with, or you are not up-to-date with a meningococcal vaccine.
-  See “What is the most important information about Soliris?”
+  See "What is the most important information I should know about Soliris?"
 
 Tell your doctor if you:
 
@@ -89,7 +84,7 @@ What Are The Possible Side Effects With Soliris?
 Serious side effects with Soliris include:
 
 - Serious and life-threatening infections.
-  See “What is the most important information I should know about Soliris?”
+  See "What is the most important information I should know about Soliris?"
 
 Common side effects with Soliris include:
 
@@ -113,6 +108,6 @@ Soliris contains eculizumab in a solution of water, polysorbate, sodium phosphat
 
 Manufactured by Alexion Pharmaceuticals, Inc., 352 Knotter Drive, Cheshire, CT 06410 USA.
 
-Revised: June 2009
+Revised: June 2011
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration
+This Medication Guide has been approved by the U.S. Food and Drug Administration.

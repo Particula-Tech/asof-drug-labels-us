@@ -18,7 +18,7 @@ Table 1 summarizes the adverse reactions that occurred at a numerically higher r
 
 TABLE 1 ADVERSE REACTIONS REPORTED IN 5% OR MORE OF SOLIRIS TREATED PATIENTS AND GREATER THAN PLACEBO IN THE CONTROLLED CLINICAL STUDY
 
-| Reaction | Soliris N = 43N (%) | Placebo N = 44 N (%) |
+| Reaction | Soliris N = 43 N (%) | Placebo N = 44 N (%) |
 | --- | --- | --- |
 | Headache | 19 (44) | 12 (27) |
 | Nasopharyngitis | 10 (23) | 8 (18) |

@@ -19,7 +19,7 @@ Soliris must be diluted to a final admixture concentration of 5 mg/mL using the 
 
 - Withdraw the required amount of Soliris from the vial into a sterile syringe.
 - Transfer the recommended dose to an infusion bag.
-- Dilute Soliris to a final concentration of 5 mg/mL by adding the appropriate amount (equal volume of diluent to drug volume) of 0.9% Sodium Chloride Injection, USP; 0.45% Sodium Chloride Injection, USP; 5% Dextrose in Water Injection, USP; or Ringer’s Injection, USP to the infusion bag.
+- Dilute Soliris to a final concentration of 5 mg/mL by adding the appropriate amount (equal volume of diluent to drug volume) of 0.9% Sodium Chloride Injection, USP; 0.45% Sodium Chloride Injection, USP; 5% Dextrose in Water Injection, USP; or Ringer's Injection, USP to the infusion bag.
 
 The final admixed Soliris 5 mg/mL infusion volume is 120 mL for 600 mg doses or 180 mL for 900 mg doses.
 Gently invert the infusion bag containing the diluted Soliris solution to ensure thorough mixing of the product and diluent.
