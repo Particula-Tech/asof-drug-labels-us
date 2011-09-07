@@ -24,7 +24,7 @@ The effects of pantoprazole on median pH from one double-blind crossover study a
 
 Table 4: Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
 
-| ––––––––––––––––––––––––––Median pH on day 7–––––––––––––––––––––––––––– |  |  |  |  |
+|  | ––––––––––––––––––––––––––Median pH on day 7–––––––––––––––––––––––––––– |  |  |  |
 | --- | --- | --- | --- | --- |
 | Time | Placebo | 20 mg | 40 mg | 80 mg |
 | 8 a.m. - 8 a.m. (24 hours) | 1.3 | 2.9* | 3.8*# | 3.9*# |

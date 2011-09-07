@@ -25,7 +25,7 @@ Pantoprazole was negative in the in vitro Ames mutation assay, the in vitro unsc
 
 There were no effects on fertility or reproductive performance when pantoprazole was given at oral doses up to 500 mg/kg/day in male rats (98 times the recommended human dose based on body surface area) and 450 mg/kg/day in female rats (88 times the recommended human dose based on body surface area).
 
-## 13.2 Animal Toxicology and/or Pharmacology
+## 13.2 Animal Toxicology And/Or Pharmacology
 
 Studies in neonatal/juvenile and adult rats and dogs were performed.
 The data from these studies revealed that animals in both age groups respond to pantoprazole in a similar manner.

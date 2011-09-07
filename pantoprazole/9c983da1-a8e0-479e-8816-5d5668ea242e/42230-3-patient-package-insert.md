@@ -1,3 +1,5 @@
+FDA-Approved Patient Labeling
+
 PATIENT INFORMATION
 
 Pantoprazole sodium delayed-release tablets, USP
@@ -64,7 +66,6 @@ How should I take pantoprazole sodium delayed-release tablets?
   Do not take two doses to try to make up for a missed dose.
 - If you take too much pantoprazole sodium delayed-release tablets, call your doctor right away.
 - See the Patient Instructions for Use at the end of this leaflet for detailed instructions about:
-
 - how to take pantoprazole sodium delayed-release tablets
 
 What are the possible side effects of pantoprazole sodium delayed-release tablets?
@@ -131,6 +132,7 @@ You can ask your doctor or pharmacist for information that is written for health
 For more information, call 1-269-544-2299.
 
 What are the ingredients in pantoprazole sodium delayed-release tablets?
+
 Active ingredient: pantoprazole sodium (sesquihydrate), USP
 
 Inactive ingredients in pantoprazole sodium delayed-release tablets: calcium stearate, crospovidone, hydroxypropyl cellulose, hypromellose, mannitol, methacrylic acid copolymer dispersion, propylene glycol, sodium carbonate, talc, titanium dioxide, and triethyl citrate.
@@ -153,4 +155,4 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8017178 Revised September 2010
+8029761 Revised July 2011
