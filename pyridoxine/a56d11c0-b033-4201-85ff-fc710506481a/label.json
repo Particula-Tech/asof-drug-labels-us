@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA080618"
+  ],
+  "inn": "pyridoxine",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-180-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "pyridoxine hydrochloride",
+      "name": "Pyridoxine Hydrochloride"
+    }
+  ],
+  "setid": "a56d11c0-b033-4201-85ff-fc710506481a",
+  "source": "dailymed"
+}
