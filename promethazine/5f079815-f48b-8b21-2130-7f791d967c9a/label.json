@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA040428"
+  ],
+  "inn": "promethazine",
+  "labeler": "GW Laboratories, Inc.",
+  "package_ndcs": [
+    "0713-0526-10",
+    "0713-0526-12",
+    "0713-0536-10",
+    "0713-0536-12"
+  ],
+  "products": [
+    {
+      "form": "SUPPOSITORY",
+      "generic": "promethazine hydrochloride",
+      "name": "PROMETHEGAN"
+    }
+  ],
+  "setid": "5f079815-f48b-8b21-2130-7f791d967c9a",
+  "source": "dailymed"
+}
