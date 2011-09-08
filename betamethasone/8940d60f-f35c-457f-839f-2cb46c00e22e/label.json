@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA014215"
+  ],
   "inn": "betamethasone",
   "labeler": "Schering Corporation",
   "package_ndcs": [
     "0085-0942-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "betamethasone",
+      "name": "CELESTONE"
+    }
+  ],
   "setid": "8940d60f-f35c-457f-839f-2cb46c00e22e",
   "source": "dailymed"
 }

@@ -61,7 +61,7 @@ During prolonged corticosteroid therapy, these patients should receive chemoprop
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
 However, the response to such vaccines cannot be predicted.
-Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, eg, for Addison's disease.
+Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison's disease.
 
 ### Viral Infections
 
@@ -104,22 +104,23 @@ Therefore, in any situation of stress occurring during that period, naturally oc
 ## Gastrointestinal
 
 Steroids should be used with caution in active or latent peptic ulcers, diverticulitis, fresh intestinal anastomoses, and nonspecific ulcerative colitis, since they may increase the risk of a perforation.
+
 Signs of peritoneal irritation following gastrointestinal perforation in patients receiving corticosteroids may be minimal or absent.
 
 There is an enhanced effect of corticosteroids in patients with cirrhosis.
 
 ## Musculoskeletal
 
-Corticosteroids decrease bone formation and increase bone resorption both through their effect on calcium regulation (ie, decreasing absorption and increasing excretion) and inhibition of osteoblast function.
+Corticosteroids decrease bone formation and increase bone resorption both through their effect on calcium regulation (i.e., decreasing absorption and increasing excretion) and inhibition of osteoblast function.
 This, together with a decrease in the protein matrix of the bone secondary to an increase in protein catabolism, and reduced sex hormone production, may lead to inhibition of bone growth in pediatric patients and the development of osteoporosis at any age.
-Special consideration should be given to patients at increased risk of osteoporosis (eg, postmenopausal women) before initiating corticosteroid therapy.
+Special consideration should be given to patients at increased risk of osteoporosis (e.g., postmenopausal women) before initiating corticosteroid therapy.
 
-## Neuro-psychiatric
+## Neuropsychiatric
 
 Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that they affect the ultimate outcome or natural history of the disease.
 The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect (see DOSAGE AND ADMINISTRATION).
 
-An acute myopathy has been observed with the use of high doses of corticosteroids, most often occurring in patients with disorders of neuromuscular transmission (eg, myasthenia gravis), or in patients receiving concomitant therapy with neuromuscular blocking drugs (eg, pancuronium).
+An acute myopathy has been observed with the use of high doses of corticosteroids, most often occurring in patients with disorders of neuromuscular transmission (e.g., myasthenia gravis), or in patients receiving concomitant therapy with neuromuscular blocking drugs (e.g., pancuronium).
 This acute myopathy is generalized, may involve ocular and respiratory muscles, and may result in quadriparesis.
 Elevation of creatinine kinase may occur.
 Clinical improvement or recovery after stopping corticosteroids may require weeks to years.
@@ -147,7 +148,7 @@ Aminoglutethimide may lead to a loss of corticosteroid-induced adrenal suppressi
 
 ### Amphotericin B Injection and Potassium-Depleting Agents
 
-When corticosteroids are administered concomitantly with potassium-depleting agents (eg, amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.
+When corticosteroids are administered concomitantly with potassium-depleting agents (e.g., amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.
 There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure.
 
 ### Antibiotics
@@ -178,7 +179,7 @@ Cholestyramine may increase the clearance of corticosteroids.
 
 ### Cyclosporine
 
-Increased activity of both cyclosporine and corticosteroids may occur when the two are used concurrently.
+Increased activity of both cyclosporine and corticosteroids may occur when the 2 are used concurrently.
 Convulsions have been reported with this concurrent use.
 
 ### Digitalis Glycosides
@@ -189,7 +190,7 @@ Patients on digitalis glycosides may be at increased risk of arrhythmias due to 
 
 Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereby increasing their effect.
 
-### Hepatic Enzyme Inducers (eg, barbiturates, phenytoin, carbamazepine, rifampin)
+### Hepatic Enzyme Inducers (e.g., barbiturates, phenytoin, carbamazepine, rifampin)
 
 Drugs which induce hepatic microsomal drug-metabolizing enzyme activity may enhance the metabolism of corticosteroids and require that the dosage of the corticosteroid be increased.
 
@@ -240,12 +241,12 @@ Caution should be exercised when corticosteroids are administered to a nursing w
 
 The efficacy and safety of corticosteroids in the pediatric population are based on the well-established course of effect of corticosteroids, which is similar in pediatric and adult populations.
 Published studies provide evidence of efficacy and safety in pediatric patients for the treatment of nephrotic syndrome (>2 years of age), and aggressive lymphomas and leukemias (>1 month of age).
-Other indications for pediatric use of corticosteroids, eg, severe asthma and wheezing, are based on adequate and well-controlled trials conducted in adults, on the premises that the course of the diseases and their pathophysiology are considered to be substantially similar in both populations.
+Other indications for pediatric use of corticosteroids, e.g., severe asthma and wheezing, are based on adequate and well-controlled trials conducted in adults, on the premises that the course of the diseases and their pathophysiology are considered to be substantially similar in both populations.
 
 The adverse effects of corticosteroids in pediatric patients are similar to those in adults (see ADVERSE REACTIONS).
 Like adults, pediatric patients should be carefully observed with frequent measurements of blood pressure, weight, height, intraocular pressure, and clinical evaluation for the presence of infection, psychosocial disturbances, thromboembolism, peptic ulcers, cataracts, and osteoporosis.
 Pediatric patients who are treated with corticosteroids by any route, including systemically administered corticosteroids, may experience a decrease in their growth velocity.
-This negative impact of corticosteroids on growth has been observed at low systemic doses and in the absence of laboratory evidence of HPA axis suppression (ie, cosyntropin stimulation and basal cortisol plasma levels).
+This negative impact of corticosteroids on growth has been observed at low systemic doses and in the absence of laboratory evidence of HPA axis suppression (i.e., cosyntropin stimulation and basal cortisol plasma levels).
 Growth velocity may therefore be a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA axis function.
 The linear growth of pediatric patients treated with corticosteroids should be monitored, and the potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the availability of treatment alternatives.
 In order to minimize the potential growth effects of corticosteroids, pediatric patients should be titrated to the lowest effective dose.
