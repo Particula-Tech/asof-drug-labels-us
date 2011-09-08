@@ -16,6 +16,8 @@ Discard unused suspension after 30 days.
 
 PEPCID (famotidine) for Oral Suspension is manufactured by: Paddock Laboratories, Inc. Minneapolis, MN 55427
 
-For: Salix Pharmaceuticals, Inc. Morrisville, NC 27560
+Manufactured for:
+
+Salix Pharmaceuticals, Inc. Raleigh, NC 27615
 
 VENART-69-2/APR 2010
