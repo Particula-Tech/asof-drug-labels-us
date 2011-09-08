@@ -1,5 +1,12 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+A 5 mg dose of Reclast administered intravenously is recommended for patients with creatinine clearance ≥35 mL/min [see Warnings and Precautions (5.3)].
+
+Reclast is contraindicated in patients with creatinine clearance <35 mL/min and in those with evidence of acute renal impairment [see Contraindications (4.2)].
+
+There are no safety or efficacy data to support the adjustment of the Reclast dose based on baseline renal function.
+Therefore, no dose adjustment is required in patients with CrCl ≥35 mL/min.
+
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
 Patients must be appropriately hydrated prior to administration of Reclast [see Warnings and Precautions (5.3)].
@@ -7,8 +14,6 @@ Patients must be appropriately hydrated prior to administration of Reclast [see 
 The i.v. infusion should be followed by a 10 mL normal saline flush of the intravenous line.
 
 Administration of acetaminophen following Reclast administration may reduce the incidence of acute-phase reaction symptoms.
-
-A 5 mg dose of Reclast administered intravenously is recommended for patients with creatinine clearance >35 mL/min [see Warnings and Precautions (5.3)].
 
 ## 2.1 Treatment of Osteoporosis in Postmenopausal Women
 

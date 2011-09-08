@@ -78,8 +78,8 @@ Adverse Reactions Occurring in ≥ 2.0% of Patients with Osteoporosis and More F
 Renal Impairment
 
 Treatment with intravenous bisphosphonates, including zoledronic acid, has been associated with renal impairment manifested as deterioration in renal function (i.e., increased serum creatinine) and in rare cases, acute renal failure.
-In the clinical trial for postmenopausal osteoporosis, patients with baseline creatinine clearance < 30 mL/min, urine dipstick ≥2+ protein or increase in serum creatinine of >0.5 mg/dL during the screening visits were excluded.
-The change in creatinine clearance (measured annually prior to dosing) and the incidence of renal failure and impairment was comparable for both the Reclast and placebo treatment groups over 3 years, including patients with mild to moderate renal impairment (creatinine clearance between 30-60 mL/min) at baseline.
+In the clinical trial for postmenopausal osteoporosis, patients with baseline creatinine clearance < 30 mL/min (based on actual body weight), urine dipstick ≥2+ protein or increase in serum creatinine of >0.5 mg/dL during the screening visits were excluded.
+The change in creatinine clearance (measured annually prior to dosing) and the incidence of renal failure and impairment was comparable for both the Reclast and placebo treatment groups over 3 years, including patients with creatinine clearance between 30-60 mL/min at baseline.
 Overall, there was a transient increase in serum creatinine observed within 10 days of dosing in 1.8% of Reclast-treated patients versus 0.8% of placebo-treated patients which resolved without specific therapy [see Warnings and Precautions (5.3)].
 
 Acute Phase Reaction
@@ -248,7 +248,7 @@ Table 3: Adverse Reactions Occurring in > 2% of Men with Osteoporosis and More F
 
 Renal Impairment
 
-Creatinine clearance was measured annually prior to dosing and changes in long-term renal function over 24 months was comparable in the Reclast and active control groups [see Warnings and Precautions (5.3)].
+Creatinine clearance was measured annually prior to dosing and changes in long-term renal function over 24 months were comparable in the Reclast and active control groups [see Warnings and Precautions (5.3)].
 
 Acute Phase Reaction
 
@@ -401,10 +401,11 @@ Acute Phase Reactions
 Fever, headache, flu-like symptoms, nausea, vomiting, diarrhea, arthralgia, and myalgia.
 Symptoms may be significant and lead to dehydration.
 
-Acute Renal Impairment
+Acute Renal Failure
 
-Transient rise in serum creatinine correctable with intravenous fluids; acute renal failure requiring hospitalization and/or dialysis.
-Increased serum creatinine was reported in patients with 1) underlying renal disease, 2) dehydration secondary to fever, gastrointestinal losses, or diuretic therapy, or 3) other risk factors such as concomitant nephrotoxic drugs in the post-infusion period.
+Cases of acute renal failure requiring hospitalization and/or dialysis or with a fatal outcome have been rarely reported.
+Increased serum creatinine was reported in patients with 1) underlying renal disease, 2) dehydration secondary to fever, sepsis, gastrointestinal losses, or diuretic therapy, or 3) other risk factors such as advanced age, or concomitant nephrotoxic drugs in the post-infusion period.
+Transient rise in serum creatinine can be correctable with intravenous fluids.
 
 Allergic Reactions
 

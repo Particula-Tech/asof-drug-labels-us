@@ -6,6 +6,8 @@ Information for Patients
 
 Patients should be made aware that Reclast contains the same active ingredient (zoledronic acid) found in Zometa®, and that patients being treated with Zometa should not be treated with Reclast.
 
+Reclast is contraindicated in patients with creatinine clearance < 35 mL/min [see Contraindications (4.2)].
+
 Before being given Reclast, patients should tell their doctor if they have kidney problems and what medications they are taking.
 
 Reclast should not be given if the patient is pregnant or plans to become pregnant, or if she is breast-feeding [see Warnings and Precautions (5.6)].
@@ -42,4 +44,4 @@ Consider withholding future Reclast treatment if severe symptoms develop.
 
 Atypical femur fractures in patients on bisphosphonate therapy have been reported; patients with thigh or groin pain should be evaluated to rule out a femoral fracture.
 
-T2011-41
+T2011-108

@@ -43,7 +43,7 @@ Zoledronic acid clearance was independent of dose but dependent upon the patient
 In a study in patients with cancer and bone metastases, increasing the infusion time of a 4 mg dose of zoledronic acid from 5 minutes (n=5) to 15 minutes (n=7) resulted in a 34% decrease in the zoledronic acid concentration at the end of the infusion ([mean ± SD] 403 ± 118 ng/mL vs. 264 ± 86 ng/mL) and a 10% increase in the total AUC (378 ± 116 ng x h/mL vs. 420 ± 218 ng x h/mL).
 The difference between the AUC means was not statistically significant.
 
-Special Populations
+Specific Populations
 
 Pediatrics: Reclast is not indicated for use in children [see Pediatric Use (8.4)].
 
@@ -54,6 +54,6 @@ Race: The pharmacokinetics of zoledronic acid was not affected by race in patien
 Hepatic Impairment: No clinical studies were conducted to evaluate the effect of hepatic impairment on the pharmacokinetics of zoledronic acid.
 
 Renal Impairment: The pharmacokinetic studies conducted in 64 cancer patients represented typical clinical populations with normal to moderately-impaired renal function.
-Compared to patients with normal renal function (creatinine clearance > 80 mL/min, N=37), patients with mild renal impairment (creatinine clearance = 50-80 mL/min, N=15) showed an average increase in plasma AUC of 15%, whereas patients with moderate renal impairment (creatinine clearance = 30-50 mL/min, N=11) showed an average increase in plasma AUC of 43%.
+Compared to patients with creatinine clearance > 80 mL/min (N=37), patients with creatinine clearance = 50-80 mL/min (N=15) showed an average increase in plasma AUC of 15%, whereas patients with creatinine clearance = 30-50 mL/min (N=11) showed an average increase in plasma AUC of 43%.
 No dosage adjustment is required in patients with a creatinine clearance of ≥ 35 mL/min.
-Reclast is not recommended for patients with severe renal impairment (creatinine clearance <35 mL/min) due to lack of clinical experience in this population [see Warnings and Precautions (5.3), Use in Specific Populations (8.6)].
+Reclast is contraindicated in patients with CrCl < 35 mL/min and in those with evidence of acute renal impairment due to an increased risk of renal failure [see Contraindications (4.2), Warnings and Precautions (5.3), Use in Specific Populations (8.6)].

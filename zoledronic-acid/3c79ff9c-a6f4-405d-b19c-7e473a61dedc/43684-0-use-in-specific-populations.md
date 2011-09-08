@@ -60,9 +60,10 @@ However, because decreased renal function occurs more commonly in the elderly, s
 
 ## 8.6 Renal Impairment
 
-Reclast should not be used in patients with severe renal impairment (creatinine clearance <35 mL/min) due to lack of adequate clinical experience in this population.
-No dosage adjustment is required in patients with a creatinine clearance of ≥ 35 mL/min [see Warnings and Precautions (5.3), Clinical Pharmacology (12.3)].
-Risk of renal impairment may increase with underlying renal disease and dehydration secondary to fever, gastrointestinal losses, diuretic therapy, etc. [see Post-Marketing Experience (6.2)].
+Reclast is contraindicated in patients with creatinine clearance <35 mL/min and in those with evidence of acute renal impairment.
+There are no safety or efficacy data to support the adjustment of the Reclast dose based on baseline renal function.
+Therefore, no dosage adjustment is required in patients with a creatinine clearance of ≥ 35 mL/min [see Warnings and Precautions (5.3), Clinical Pharmacology (12.3)].
+Risk of acute renal failure may increase with underlying renal disease and dehydration secondary to fever, sepsis, gastrointestinal losses, diuretic therapy, advanced age, etc. [see Post-Marketing Experience (6.2)].
 
 ## 8.7 Hepatic Impairment
 

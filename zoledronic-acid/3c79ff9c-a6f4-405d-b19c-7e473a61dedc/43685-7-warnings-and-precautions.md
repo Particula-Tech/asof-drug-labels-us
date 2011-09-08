@@ -18,18 +18,21 @@ All osteoporosis patients should be instructed on the importance of calcium and 
 
 A single dose of Reclast should not exceed 5 mg and the duration of infusion should be no less than 15 minutes [see Dosage and Administration (2.1)].
 
-Reclast should not be used in patients with severe renal impairment (creatinine clearance <35 mL/min) due to lack of adequate clinical experience in this population [see Adverse Reactions (6.1)].
+Reclast is contraindicated in patients with creatinine clearance <35 mL/min and in those with evidence of acute renal impairment [see Contraindications (4.2)].
+If history or physical signs suggest dehydration, Reclast therapy should be withheld until normovolemic status has been achieved [see Postmarketing Experience (6.2)].
 
-Renal impairment has been observed following the administration of zoledronic acid, especially in patients with pre-existing renal compromise or other risk factors including concomitant nephrotoxic medications, concomitant diuretic therapy, or severe dehydration occurring before or after Reclast administration.
-Renal impairment has been observed in patients after a single administration.
-Rare reports of hospitalization and/or dialysis occurred in patients with underlying moderate to severe renal impairment [see Post-Marketing Experience (6.2)].
-Renal impairment may lead to increased exposure of concomitant medications that are primarily renally excreted [see Drug Interactions (7.4)].
+Reclast should be used with caution in patients with chronic renal impairment.
+Acute renal impairment, including renal failure, has been observed following the administration of zoledronic acid, especially in patients with pre-existing renal compromise, advanced age, concomitant nephrotoxic medications, concomitant diuretic therapy, or severe dehydration occurring before or after Reclast administration.
+Acute renal failure (ARF) has been observed in patients after a single administration.
+Rare reports of hospitalization and/or dialysis or fatal outcome occurred in patients with underlying moderate to severe renal impairment or with any of the risk factors described in this section [see Post-Marketing Experience (6.2)].
+Renal impairment may lead to increased exposure of concomitant medications and/or their metabolites that are primarily renally excreted [see Drug Interactions (7.4)].
 
-Serum creatinine should be measured before each Reclast dose.
-Transient increase in serum creatinine may be greater in patients with impaired renal function; consider interim monitoring of serum creatinine in at-risk patients.
-Patients, especially those receiving diuretic therapy, should be appropriately hydrated prior to administration of Reclast.
+Creatinine clearance should be calculated based on actual body weight using Cockcroft-Gault formula before each Reclast dose.
+Transient increase in serum creatinine may be greater in patients with impaired renal function; interim monitoring of creatinine clearance should be performed in at-risk patients.
+Elderly patients and those receiving diuretic therapy are at increased risk of acute renal failure.
+These patients should have their fluid status assessed and be appropriately hydrated prior to administration of Reclast.
 Reclast should be used with caution with other nephrotoxic drugs [see Drug Interactions (7.3)].
-Consider monitoring serum creatinine in patients at risk for renal impairment who are taking concomitant medications that are primarily excreted by the kidney [see Drug Interactions (7.4)].
+Consider monitoring creatinine clearance in patients at-risk for ARF who are taking concomitant medications that are primarily excreted by the kidney [see Drug Interactions (7.4)].
 
 ## 5.4 Osteonecrosis of the Jaw
 

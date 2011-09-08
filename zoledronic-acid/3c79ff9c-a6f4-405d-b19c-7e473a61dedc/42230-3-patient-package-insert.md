@@ -43,11 +43,16 @@ Take calcium and vitamin D as your doctor tells you to.
 Severe kidney problems.
 
 Severe kidney problems may happen when you take Reclast.
+Severe kidney problems may lead to hospitalization or kidney dialysis and can be life-threatening.
 Your risk of kidney problems is higher if you:
 
 - already have kidney problems
 - take a diuretic or “water pill”
 - do not have enough water in your body (dehydrated) before or after you receive Reclast
+- are of advanced age since the risk increases as you get older
+- take any medicines known to harm your kidneys
+
+You should drink at least 2 glasses of fluid within a few hours before receiving Reclast to reduce the risk of kidney problems.
 
 3.
 Severe jaw bone problems (osteonecrosis).
@@ -189,6 +194,8 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-T2011-41/T2011-05
+©Novartis
 
-March 2011/January 2011
+T2011-108/T2011-109
+
+August 2011/August 2011
