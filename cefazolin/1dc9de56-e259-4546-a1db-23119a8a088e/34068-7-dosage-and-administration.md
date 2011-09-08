@@ -16,7 +16,7 @@
 
 ## Perioperative Prophylactic Use
 
-To prevent postoperative infection in contaminated or potentially contaminated surgery, recommended doses are;
+To prevent postoperative infection in contaminated or potentially contaminated surgery, recommended doses are:
 
 1. 1 gram IV or IM administered 1/2 hour to 1 hour prior to the start of surgery.
 2. For lengthy operative procedures (e.g., 2 hours or more), 500 mg to 1 gram IV or IM during surgery (administration modified depending on the duration of the operative procedure).
@@ -33,7 +33,7 @@ Patients with creatinine clearance rates of 11 to 34 mL/min. or serum creatinine
 Patients with creatinine clearance rates of 10 mL/min. or less or serum creatinine of 4.6 mg % or greater should be given 1/2 the usual dose every 18 to 24 hours.
 
 All reduced dosage recommendations apply after an initial loading dose appropriate to the severity of the infection.
-Patients undergoing peritoneal dialysis; See Human Pharmacology.
+Patients undergoing peritoneal dialysis: See Human Pharmacology.
 
 ## Pediatric Dosage
 
@@ -104,12 +104,16 @@ Administer with primary IV fluids, as a single dose.
 
 ## ADMINISTRATION
 
-Intramuscular Administration - Reconstitute vials with Sterile Water for Injection according to the dilution table above.
+### Intramuscular Administration
+
+Reconstitute vials with Sterile Water for Injection according to the dilution table above.
 Shake well until dissolved.
 Cefazolin should be injected into a large muscle mass.
 Pain on injection is infrequent with cefazolin.
 
-Intravenous Administration - Direct (bolus) injection: Following reconstitution according to the above table, further dilute vials with approximately 5 mL Sterile Water for Injection.
+### Intravenous Administration
+
+Direct (bolus) injection: Following reconstitution according to the above table, further dilute vials with approximately 5 mL Sterile Water for Injection.
 Inject the solution slowly over 3 to 5 minutes, directly or through tubing for patients receiving parenteral fluids (see list below).
 
 Intermittent or continuous infusion: Dilute reconstituted cefazolin in 50 to 100 mL of one of the following solutions:

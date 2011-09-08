@@ -6,7 +6,7 @@ In the absence of such data, local epidemiology and susceptibility patterns may 
 
 Cefazolin for injection, USP is indicated in the treatment of the following serious infections due to susceptible organisms:
 
-RESPIRATORY TRACT INFECTIONS due to Streptococcus pneumoniae, Klebsiella species, Haemophilus influenzae, Staphylococcus aureus (penicillin-sensitive and penicillin-resistant) and group A beta-hemolytic streptococci.
+RESPIRATORY TRACT INFECTIONS due to Streptococcus pneumoniae, Klebsiella species, Haemophilus influenzae, Staphylococcusaureus (penicillin-sensitive and penicillin-resistant) and group A beta-hemolytic streptococci.
 
 Injectable benzathine penicillin is considered to be the drug of choice in treatment and prevention of streptococcal infections including the prophylaxis of rheumatic fever.
 
@@ -21,8 +21,6 @@ BILIARY TRACT INFECTIONS due to Escherichia coli, various strains of streptococc
 BONE AND JOINT INFECTIONS due to Staphylococcus aureus.
 
 GENITAL INFECTIONS (i.e., prostatitis, epididymitis) due to Escherichia coli, Proteus mirabilis, Klebsiella species and some strains of enterococci.
-
-SEPTICEMIA due to Streptococcus pneumoniae, Staphylococcus aureus (penicillin-sensitive and penicillin-resistant), Proteus mirabilis, Escherichia coli, and Klebsiella species.
 
 ENDOCARDITIS due to Staphylococcus aureus (penicillin-sensitive and penicillin-resistant) and group A beta hemolytic streptococci.
 

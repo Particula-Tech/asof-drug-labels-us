@@ -1,6 +1,8 @@
 # CLINICAL PHARMACOLOGY
 
-Human Pharmacology: After intramuscular administration of cefazolin to normal volunteers, the mean serum concentrations were 37 mcg/mL at 1 hour and 3 mcg/mL at 8 hours following a 500 mg dose, and 64 mcg/mL at 1 hour and 7 mcg/mL at 8 hours following a 1 gram dose.
+## Human Pharmacology
+
+After intramuscular administration of cefazolin to normal volunteers, the mean serum concentrations were 37 mcg/mL at 1 hour and 3 mcg/mL at 8 hours following a 500 mg dose, and 64 mcg/mL at 1 hour and 7 mcg/mL at 8 hours following a 1 gram dose.
 
 Studies have shown that following intravenous administration of cefazolin to normal volunteers, mean serum concentrations peaked at approximately 185 mcg/mL and were approximately 4 mcg/mL at 8 hours for a 1 gram dose.
 
@@ -24,9 +26,11 @@ In patients undergoing peritoneal dialysis (2 L/hr), cefazolin produced mean ser
 Mean peak levels were 29 mcg/mL (range 13-44 mcg/mL) with 50 mg/L (three patients), and 72 mcg/mL (range 26-142 mcg/mL) with 150 mg/L (six patients).
 Intraperitoneal administration of cefazolin is usually well tolerated.
 
-Controlled studies on adult normal volunteers, receiving 1 gram 4 times a day for 10 days, monitoring CBC, SGOT, SGPT, bilirubin, alkaline phosphatase, BUN, creatinine and urialysis, indicated no clinically significant changes attributed to cefazolin.
+Controlled studies on adult normal volunteers, receiving 1 gram 4 times a day for 10 days, monitoring CBC, SGOT, SGPT, bilirubin, alkaline phosphatase, BUN, creatinine and urinalysis, indicated no clinically significant changes attributed to cefazolin.
 
-Microbiology:In vitro tests demonstrate that the bactericidal action of cephalosporins results from inhibition of cell wall synthesis.
+## Microbiology
+
+In vitro tests demonstrate that the bactericidal action of cephalosporins results from inhibition of cell wall synthesis.
 
 Cefazolin is active against the following organisms in vitro and in clinical infections:
 
@@ -55,7 +59,9 @@ Serratia, Pseudomonas, Mima, Herellea species are almost uniformly resistant to 
 
 ## Disk Susceptibility Tests
 
-Disk diffusion technique - Quantitative methods that require measurement of zone diameters give the most precise estimates of antibiotic susceptibility.
+### Disk diffusion technique
+
+Quantitative methods that require measurement of zone diameters give the most precise estimates of antibiotic susceptibility.
 One such procedureBauer, A.W.;Kirby, W.M.M.; Sherris, J.C., and Turck, M.: Antibiotic Testing by a Standardized Single Disc Method, Am-J.
 Clin.
 Path.
@@ -68,7 +74,7 @@ Reports from a laboratory using the standardized single-disk susceptibility test
 - Organisms of intermediate susceptibility produce zones 15 to 17 mm, indicating that the tested organism would be susceptible if high dosage is used or if the infection is confined to tissues and fluids (e.g., urine), in which high antibiotic levels are attained,
 - Resistant organisms produce zones of 14 mm or less, indicating that other therapy should be selected.
 
-For gram-positive isolates, a zone of 18 mm is indicative of a cefazolin-susceptible organism when tested with eitherthe cephalosporin-class disk (30 mcg cephalothin) or the cefazolin disk (30 mcg cefazolin).
+For gram-positive isolates, a zone of 18 mm is indicative of a cefazolin-susceptible organism when tested with either the cephalosporin-class disk (30 mcg cephalothin) or the cefazolin disk (30 mcg cefazolin).
 
 Gram-negative organisms should be tested with the cefazolin disk (using the above criteria), since cefazolin has been shown by in vitro tests to have activity against certain strains of enterobacteriaceae found resistant when tested with the cephalothin disk.
 Gram-negative organisms having zones of less than 18 mm around the cephalothin disk may be susceptible to cefazolin.
@@ -76,9 +82,11 @@ Gram-negative organisms having zones of less than 18 mm around the cephalothin d
 Standardized procedures require use of control organisms.
 The 30 mcg cefazolin disk should give zone diameter between 23 and 29 mm for E. coli ATCC 25922 and between 29 and 35 mm for S. aureus ATCC 25923.
 
-The cefazolin disk should not be used fortesting susceptibility to other cephalosporins.
+The cefazolin disk should not be used for testing susceptibility to other cephalosporins.
 
-Dilution techniques - A bacterial isolate may be considered susceptible if the minimal inhibitory concentration (MIC) for cefazolin is not more than 16 mcg per mL Organisms are considered resistant if the MIC is equal to or greater than 64 mcg per mL.
+### Dilution techniques
+
+A bacterial isolate may be considered susceptible if the minimal inhibitory concentration (MIC) for cefazolin is not more than 16 mcg per mL Organisms are considered resistant if the MIC is equal to or greater than 64 mcg per mL.
 
 The range of MIC's for the control strains are as follows:
 

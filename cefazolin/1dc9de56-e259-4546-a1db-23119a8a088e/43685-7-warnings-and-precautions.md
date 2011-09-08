@@ -17,7 +17,9 @@ In moderate to severe cases, consideration should be given to management with fl
 
 # PRECAUTIONS
 
-General - Prolonged use of Cefazolin for Injection may result in the overgrowth of nonsusceptible organisms.
+## General
+
+Prolonged use of Cefazolin for Injection may result in the overgrowth of nonsusceptible organisms.
 Careful clinical observation of the patient is essential.
 
 Prescribing Cefazolin for Injection, USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
@@ -28,28 +30,44 @@ As with other beta-lactam antibiotics, seizures may occur if inappropriately hig
 
 Cefazolin, as with all cephalosporins, should be prescribed with caution in individuals with a history of gastrointestinal disease, particularly colitis.
 
-Drug Interactions - Probenicid may decrease renal tubular secretion of cephalosporins when used concurrently, resulting in increased and more prolonged cephalosporin blood levels.
+## Drug Interactions
 
-Drug/Laboratory Test Interactions - A false positive reaction for glucose in the urine may occur with Benedict's solution, Fehling's solution or with Clinitest® tablets, but not with enzyme-base tests such as Clinistix®.
+Probenicid may decrease renal tubular secretion of cephalosporins when used concurrently, resulting in increased and more prolonged cephalosporin blood levels.
+
+## Drug/Laboratory Test Interactions
+
+A false positive reaction for glucose in the urine may occur with Benedict's solution, Fehling's solution or with Clinitest® tablets, but not with enzyme-base tests such as Clinistix®.
 
 Positive direct and indirect antiglobulin (Coombs) tests have occurred; these may also occur in neonates whose mothers received cephalosporins before delivery.
 
-Carcinogenesis/Mutagenesis - Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of Cefazolin for Injection, USP have not been performed.
+## Carcinogenesis/Mutagenesis
 
-Pregnancy - Teratogenic Effects - Pregnancy Category B. Reproduction studies have been performed in rats, mice and rabbits at doses up to 25 times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to cefazolin.
+Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of Cefazolin for Injection, USP have not been performed.
+
+## Pregnancy
+
+Teratogenic Effects - Pregnancy Category B. Reproduction studies have been performed in rats, mice and rabbits at doses up to 25 times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to cefazolin.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-Labor and Delivery - When cefazolin has been administered prior to caesarian section, drug levels in cord blood have been approximately one quarter to one third of maternal drug levels.
+## Labor and Delivery
+
+When cefazolin has been administered prior to caesarian section, drug levels in cord blood have been approximately one quarter to one third of maternal drug levels.
 The drug appears to have no adverse effect on the fetus.
 
-Nursing Mothers - Cefazolin is present in very low concentrations in the milk of nursing mothers.
+## Nursing Mothers
+
+Cefazolin is present in very low concentrations in the milk of nursing mothers.
 Caution should be exercised when cefazolin is administered to a nursing woman.
 
-Pediatric Use - Safety and effectiveness for use in prematures, infants and neonates have not been established.
+## Pediatric Use
+
+Safety and effectiveness for use in prematures, infants and neonates have not been established.
 See DOSAGE AND ADMINISTRATION for recommended dosage in pediatric patients over 1 month.
 
-Information for Patients - Patients should be counseled that antibacterial drugs including Cefazolin for Injection, USP should only be used to treat bacterial infections.
+## Information for Patients
+
+Patients should be counseled that antibacterial drugs including Cefazolin for Injection, USP should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When Cefazolin for Injection, USP is prescnbed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may:

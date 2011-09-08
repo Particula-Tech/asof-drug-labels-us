@@ -1,13 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA065047"
+  ],
   "inn": "cefazolin",
-  "labeler": "West-Ward Pharmaceutical Corp.",
+  "labeler": "West-ward Pharmaceutical Corp",
   "package_ndcs": [
     "0143-9923-90",
-    "0143-9924-90",
-    "0143-9925-91"
+    "0143-9924-90"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "cefazolin",
+      "name": "Cefazolin"
+    }
+  ],
   "setid": "1dc9de56-e259-4546-a1db-23119a8a088e",
   "source": "dailymed"
 }
