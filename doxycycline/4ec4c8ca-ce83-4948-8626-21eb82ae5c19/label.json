@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA062396"
+  ],
+  "inn": "doxycycline",
+  "labeler": "West-ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9803-05",
+    "0143-9803-14",
+    "0143-9803-20",
+    "0143-9803-50"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "doxycycline hyclate",
+      "name": "Doxycyclate Hyclate"
+    }
+  ],
+  "setid": "4ec4c8ca-ce83-4948-8626-21eb82ae5c19",
+  "source": "dailymed"
+}
