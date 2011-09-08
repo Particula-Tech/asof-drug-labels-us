@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The symptoms associated with benign prostatic hyperplasia are related to bladder outlet obstruction, which is comprised of two underlying components: static and dynamic.
+The symptoms associated with benign prostatic hyperplasia (BPH) are related to bladder outlet obstruction, which is comprised of two underlying components: static and dynamic.
 The static component is related to an increase in prostate size caused, in part, by a proliferation of smooth muscle cells in the prostatic stroma.
 However, the severity of BPH symptoms and the degree of urethral obstruction do not correlate well with the size of the prostate.
 The dynamic component is a function of an increase in smooth muscle tone in the prostate and bladder neck leading to constriction of the bladder outlet.
@@ -11,7 +11,7 @@ Blockade of these adrenoceptors can cause smooth muscles in the bladder neck and
 
 Tamsulosin, an alpha1 adrenoceptor blocking agent, exhibits selectivity for alpha1 receptors in the human prostate.
 At least three discrete alpha1 adrenoceptor subtypes have been identified: alpha1A, alpha1B, and alpha1D; their distribution differs between human organs and tissue.
-Approximately 70% of the alpha1 receptors in human prostate are of the alpha1A subtype.
+Approximately 70% of the alpha1 receptors in the human prostate are of the alpha1A subtype.
 
 Tamsulosin hydrochloride capsules are not intended for use as an antihypertensive drug.
 
@@ -30,7 +30,7 @@ Tamsulosin hydrochloride exhibits linear kinetics following single and multiple 
 
 Effect of Food
 
-The time to maximum concentration (Tmax) is reached by four to five hours under fasting conditions and by six to seven hours when tamsulosin hydrochloride capsules are administered with food.
+The time to maximum concentration (Tmax) is reached by 4 to 5 hours under fasting conditions and by 6 to 7 hours when tamsulosin hydrochloride capsules are administered with food.
 Taking tamsulosin hydrochloride capsules under fasted conditions results in a 30% increase in bioavailability (AUC) and 40% to 70% increase in peak concentrations (Cmax) compared to fed conditions (Figure 1).
 
 Figure 1
@@ -56,7 +56,7 @@ Pharmacokinetic Parameters Following Tamsulosin Hydrochloride Capsules, 0.4 mg O
 
 Distribution
 
-The mean steady-state apparent volume of distribution of tamsulosin hydrochloride after intravenous administration to ten healthy male adults was 16 L, which is suggestive of distribution into extracellular fluids in the body.
+The mean steady-state apparent volume of distribution of tamsulosin hydrochloride after intravenous administration to 10 healthy male adults was 16 L, which is suggestive of distribution into extracellular fluids in the body.
 
 Tamsulosin hydrochloride is extensively bound to human plasma proteins (94% to 99%), primarily alpha1 acid glycoprotein (AAG), with linear binding over a wide concentration range (20 to 600 ng/mL).
 The results of two-way in vitro studies indicate that the binding of tamsulosin hydrochloride to human plasma proteins is not affected by amitriptyline, diclofenac, glyburide, simvastatin plus simvastatinhydroxy acid metabolite, warfarin, diazepam, propranolol, trichlormethiazide, or chlormadinone.
@@ -67,7 +67,7 @@ Metabolism
 There is no enantiomeric bioconversion from tamsulosin hydrochloride [R(-) isomer] to the S(+) isomer in humans.
 Tamsulosin hydrochloride is extensively metabolized by cytochrome P450 enzymes in the liver and less than 10% of the dose is excreted in urine unchanged.
 However, the pharmacokinetic profile of the metabolites in humans has not been established.
-Tamsulosin is extensively metabolized, mainly by CYP3A4 and CYP2D6, as well as via some minor participation of other CYP isoenzymes.
+Tamsulosin is extensively metabolized, mainly by CYP3A4 and CYP2D6 as well as via some minor participation of other CYP isoenzymes.
 Inhibition of hepatic drug-metabolizing enzymes may lead to increased exposure to tamsulosin [see WARNINGS AND PRECAUTIONS (5.2) and DRUG INTERACTIONS (7.1)].
 The metabolites of tamsulosin hydrochloride undergo extensive conjugation to glucuronide or sulfate prior to renal excretion.
 
@@ -78,12 +78,12 @@ Excretion
 
 On administration of the radiolabeled dose of tamsulosin hydrochloride to four healthy volunteers, 97% of the administered radioactivity was recovered, with urine (76%) representing the primary route of excretion compared to feces (21%) over 168 hours.
 
-Following intravenous or oral administration of an immediate-release formulation, the elimination half-life of tamsulosin hydrochloride in plasma ranged from five to seven hours.
+Following intravenous or oral administration of an immediate-release formulation, the elimination half-life of tamsulosin hydrochloride in plasma ranged from 5 to 7 hours.
 Because of absorption rate-controlled pharmacokinetics with tamsulosin hydrochloride capsules, the apparent half-life of tamsulosin hydrochloride is approximately 9 to 13 hours in healthy volunteers and 14 to 15 hours in the target population.
 
 Tamsulosin hydrochloride undergoes restrictive clearance in humans, with a relatively low systemic clearance (2.88 L/h).
 
-Special Populations
+Specific Populations
 
 Pediatric Use
 
@@ -99,7 +99,7 @@ Renal Impairment
 The pharmacokinetics of tamsulosin hydrochloride have been compared in 6 subjects with mild-moderate (30 ≤ CLcr < 70 mL/min/1.73 m2) or moderate-severe (10 ≤ CLcr < 30 mL/min/1.73 m2) renal impairment and 6 normal subjects (CLcr > 90 mL/min/1.73 m2).
 While a change in the overall plasma concentration of tamsulosin hydrochloride was observed as the result of altered binding to AAG, the unbound (active) concentration of tamsulosin hydrochloride, as well as the intrinsic clearance, remained relatively constant.
 Therefore, patients with renal impairment do not require an adjustment in tamsulosin hydrochloride capsules dosing.
-However, patients with endstage renal disease (CLcr < 10 mL/min/1.73 m2) have not been studied [see USE IN SPECIFIC POPULATIONS (8.6)].
+However, patients with end-stage renal disease (CLcr < 10 mL/min/1.73 m2) have not been studied [see USE IN SPECIFIC POPULATIONS (8.6)].
 
 Hepatic Impairment
 
@@ -118,7 +118,7 @@ The effects of ketoconazole (a strong inhibitor of CYP3A4) at 400 mg once daily 
 Concomitant treatment with ketoconazole resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 2.2 and 2.8, respectively [see WARNINGS AND PRECAUTIONS (5.2) and CLINICAL PHARMACOLOGY (12.3)].
 The effects of concomitant administration of a moderate CYP3A4 inhibitor (e.g., erythromycin) on the pharmacokinetics of tamsulosin hydrochloride have not been evaluated [see WARNINGS AND PRECAUTIONS (5.2) and DRUG INTERACTIONS (7.1)].
 
-The effects of paroxetine (a strong inhibitor of CYP2D6) at 20 mg once daily for 9 days on the pharmacokinetics of a single tamsulosin hydrochloride capsule, 0.4 mg dose was in vestigated in 24 healthy volunteers (age range 23 to 47 years).
+The effects of paroxetine (a strong inhibitor of CYP2D6) at 20 mg once daily for 9 days on the pharmacokinetics of a single tamsulosin hydrochloride capsule, 0.4 mg dose was investigated in 24 healthy volunteers (age range 23 to 47 years).
 Concomitant treatment with paroxetine resulted in an increase in the Cmax and AUC of tamsulosin by a factor of 1.3 and 1.6, respectively [see WARNINGS AND PRECAUTIONS (5.2) and DRUG INTERACTIONS (7.1)].
 A similar increase in exposure is expected in CYP2D6 poor metabolizers (PM) as compared to extensive metabolizers (EM).
 A fraction of the population (about 7% of Caucasians and 2% of African Americans) are CYP2D6 PMs.
@@ -152,7 +152,7 @@ Therefore, caution should be exercised with concomitant administration of warfar
 
 Nifedipine, Atenolol, Enalapril
 
-In three studies in hypertensive subjects (age range 47 to 79 years) whose blood pressure was controlled with stable doses of nifedipine, atenolol, or enalapril for at least 3 months, tamsulosin hydrochloride capsules, 0.4 mg for 7 days followed by tamsulosin hydrochloride capsules, 0.8 mg for another 7 days (n=8 per study) resulted in no clinically significant effects on blood pressure and pulse rate compared to placebo (n=4 per study).
+In three studies in hypertensive subjects (age range 47 to 79 years) whose blood pressure was controlled with stable doses of nifedipine, atenolol, or enalapril for at least 3 months, tamsulosin hydrochloride capsules 0.4 mg for 7 days followed by tamsulosin hydrochloride capsules 0.8 mg for another 7 days (n=8 per study) resulted in no clinically significant effects on blood pressure and pulse rate compared to placebo (n=4 per study).
 Therefore, dosage adjustments are not necessary when tamsulosin hydrochloride capsules are administered concomitantly with nifedipine, atenolol, or enalapril [see DRUG INTERACTIONS (7.5)].
 
 Digoxin and Theophylline
@@ -162,6 +162,6 @@ Therefore, dosage adjustments are not necessary when a tamsulosin hydrochloride 
 
 Furosemide
 
-The pharmacokinetic and pharmacodynamic interaction between tamsulosin hydrochloride capsules, 0.8 mg/day (steady-state) and furosemide 20 mg intravenously (single dose) was evaluated in ten healthy volunteers (age range 21 to 40 years).
+The pharmacokinetic and pharmacodynamic interaction between tamsulosin hydrochloride capsules, 0.8 mg/day (steady-state) and furosemide 20 mg intravenously (single dose) was evaluated in 10 healthy volunteers (age range 21 to 40 years).
 Tamsulosin hydrochloride capsules had no effect on the pharmacodynamics (excretion of electrolytes) of furosemide.
 While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride Cmax and AUC, these changes are expected to be clinically insignificant and do not require adjustment of the tamsulosin hydrochloride capsules dosage [see DRUG INTERACTIONS (7.7)].

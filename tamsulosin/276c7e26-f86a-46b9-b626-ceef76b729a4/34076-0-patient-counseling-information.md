@@ -1,6 +1,6 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-See FDA-approved Patient Labeling (17.6).
+See FDA-Approved Patient Labeling (17.6).
 
 ## 17.1 Hypotension
 

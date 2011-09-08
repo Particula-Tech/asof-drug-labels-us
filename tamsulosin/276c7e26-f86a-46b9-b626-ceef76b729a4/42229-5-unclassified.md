@@ -4,9 +4,9 @@ Cadila Healthcare Ltd.
 
 Ahmedabad, India
 
-Rev.: 04/11
+Rev.: 09/11
 
-Revision Date.: 04/29/2011
+Revision Date.: 09/05/2011
 
 SPL PATIENT PACKAGE INSERT
 
@@ -84,10 +84,11 @@ Allergic reactions may include:
 - itching
 - hives
 
-Rare and more serious allergic reactions may also include:
+Rare and more serious allergic reactions may also occur: Get medical help right away if you have any of the following reactions:
 
 - swelling of face, tongue, or throat
 - difficulty breathing
+- blistering of the skin
 
 Get medical help right away if you have swelling of the face, tongue or throat, or difficulty breathing.
 
@@ -154,6 +155,6 @@ Cadila Healthcare Ltd.
 
 Ahmedabad, India
 
-Rev.: 04/11
+Rev.: 09/11
 
-Rivision Date: 04/29/2011
+Rivision Date: 09/05/2011

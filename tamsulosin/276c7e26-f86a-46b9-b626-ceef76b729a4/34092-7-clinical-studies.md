@@ -3,8 +3,8 @@
 Four placebo-controlled clinical studies and one active-controlled clinical study enrolled a total of 2296 patients (1003 received tamsulosin hydrochloride capsules, 0.4 mg once daily, 491 received tamsulosin hydrochloride capsules, 0.8 mg once daily, and 802 were control patients) in the U.S. and Europe.
 
 In the two U.S. placebo-controlled, double-blind, 13-week, multicenter studies [Study 1 (US92-03A) and Study 2 (US93-01)], 1486 men with the signs and symptoms of BPH were enrolled.
-In both studies, patients were randomized to either placebo, tamsulosin hydrochloride capsules, 0.4 mg once daily, or tamsulosin hydrochloride capsules, 0.8 mg once daily.
-Patients in tamsulosin hydrochloride capsules, 0.8 mg once-daily treatment groups received a dose of 0.4 mg once daily for one week before increasing to the 0.8 mg once-daily dose.
+In both studies, patients were randomized to either placebo, tamsulosin hydrochloride capsules 0.4 mg once daily, or tamsulosin hydrochloride capsules 0.8 mg once daily.
+Patients in tamsulosin hydrochloride capsules 0.8 mg once-daily treatment groups received a dose of 0.4 mg once daily for one week before increasing to the 0.8 mg once-daily dose.
 The primary efficacy assessments included: 1) total American Urological Association (AUA) Symptom Score questionnaire, which evaluated irritative (frequency, urgency, and nocturia), and obstructive (hesitancy, incomplete emptying, intermittency, and weak stream) symptoms, where a decrease in score is consistent with improvement in symptoms; and 2) peak urine flow rate, where an increased peak urine flow rate value over baseline is consistent with decreased urinary obstruction.
 
 Mean changes from baseline to Week 13 in total AUA Symptom Score were significantly greater for groups treated with tamsulosin hydrochloride capsules, 0.4 mg and 0.8 mg once daily compared to placebo in both U.S. studies (Table 3, Figures 2A and 2B).
@@ -31,9 +31,13 @@ Changes from Baseline to Week 13 in Total AUA Symptom Score**and Peak Urine Flow
 | 0.4 mg once daily | n=248 | n=244 | n=248 | n=244 |
 | Placebo | 19.2 ± 6.0 | -3.6 ± 5.7 | 9.95 ± 3.12 | 0.93 ± 3.28 |
 |  | n=239 | n=235 | n=239 | n=235 |
-| *Statistically significant difference from placebo (p-value ≤ 0.050; Bonferroni-Holm multiple testprocedure). **Total AUA Symptom Scores ranged from 0 to 35. †Peak urine flow rate measured 4 to 8 hours post dose at Week 13. ‡Peak urine flow rate measured 24 to 27 hours post dose at Week 13. Week 13: For patients not completing the 13-week study, the last observation was carried forward. |  |  |  |  |
+| *Statistically significant difference from placebo (p-value ≤ 0.050; Bonferroni-Holm multiple testprocedure). |  |  |  |  |
+| **Total AUA Symptom Scores ranged from 0 to 35. |  |  |  |  |
+| †Peak urine flow rate measured 4 to 8 hours post dose at Week 13. |  |  |  |  |
+| ‡Peak urine flow rate measured 24 to 27 hours post dose at Week 13. |  |  |  |  |
+| Week 13: For patients not completing the 13-week study, the last observation was carried forward. |  |  |  |  |
 
-Mean total AUA Symptom Scores for both tamsulosin hydrochloride capsules, 0.4 mg and 0.8 mg once-daily groups showed a rapid decrease starting at one week after dosing and remained decreased through 13 weeks in both studies (Figures 2A and 2B).
+Mean total AUA Symptom Scores for both tamsulosin hydrochloride capsules, 0.4 mg and 0.8 mg once-daily groups showed a rapid decrease starting at 1 week after dosing and remained decreased through 13 weeks in both studies (Figures 2A and 2B).
 
 In Study 1, 400 patients (53% of the originally randomized group) elected to continue in their originally assigned treatment groups in a double-blind, placebo-controlled, 40-week extension trial (138 patients on 0.4 mg, 135 patients on 0.8 mg and 127 patients on placebo).
 Three hundred twenty-three patients (43% of the originally randomized group) completed one year.
@@ -70,7 +74,7 @@ Note: Total AUA Symptom Scores range from 0 to 35.
 
 Figure 3A
 
-Mean Increase in Peak Urine Flow Rate (mL/sec) Study 1
+Mean Increase in Peak Urine Flow Rate (mL/Sec) Study 1
 
 *indicates significant difference from placebo (p-value ≤ 0.050).
 
@@ -84,11 +88,11 @@ Note: The uroflowmetry assessments at Week 0 were recorded 4 to 8 hours after pa
 
 Measurements at each visit were scheduled 4 to 8 hours after dosing (approximate peak plasma tamsulosin concentration).
 
-Note: Patients in the 0.8 mg treatment groups received 0.4 for the first week.
+Note: Patients in the 0.8 mg treatment groups received 0.4 mg for the first week.
 
 Figure 3B
 
-Mean Increase in Peak Urine Flow Rate (mL/sec) Study 2
+Mean Increase in Peak Urine Flow Rate (mL/Sec) Study 2
 
 *indicates significant difference from placebo (p-value ≤ 0.050).
 

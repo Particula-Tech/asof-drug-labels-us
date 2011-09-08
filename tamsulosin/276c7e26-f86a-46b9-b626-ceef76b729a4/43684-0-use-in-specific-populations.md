@@ -29,7 +29,7 @@ No overall differences in safety or effectiveness were observed between these su
 ## 8.6 Renal Impairment
 
 Patients with renal impairment do not require an adjustment in tamsulosin hydrochloride capsules dosing.
-However, patients with endstage renal disease (CLcr < 10 mL/min/1.73 m2) have not been studied [see CLINICAL PHARMACOLOGY (12.3)].
+However, patients with end-stage renal disease (CLcr < 10 mL/min/1.73 m2) have not been studied [see CLINICAL PHARMACOLOGY (12.3)].
 
 ## 8.7 Hepatic Impairment
 

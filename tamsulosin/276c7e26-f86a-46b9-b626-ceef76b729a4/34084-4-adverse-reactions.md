@@ -37,7 +37,12 @@ Table 1Treatment-Emergent1 Adverse Events Occurring in ≥ 2% of Tamsulosin Hydr
 | Abnormal ejaculation | 42 (8.4%) | 89 (18.1%) | 1 (0.2%) |
 | SPECIAL SENSES |  |  |  |
 | Blurred vision | 1 (0.2%) | 10 (2.0%) | 2 (0.4%) |
-| 1A treatment-emergent adverse event was defined as any event satisfying one of the following criteria: • The adverse event occurred for the first time after initial dosing with double-blind study medication. • The adverse event was present prior to or at the time of initial dosing with double-blind study medication and subsequently increased in severity during double-blind treatment; or • The adverse event was present prior to or at the time of initial dosing with double-blind study medication, disappeared completely, and then reappeared during double-blind treatment. 2Coding preferred terms also include cold, common cold, head cold, flu, and flu-like symptoms. 3Coding preferred terms also include nasal congestion, stuffy nose, runny nose, sinus congestion, and hay fever. |  |  |  |
+| 1A treatment-emergent adverse event was defined as any event satisfying one of the following criteria: |  |  |  |
+| • The adverse event occurred for the first time after initial dosing with double-blind study medication. |  |  |  |
+| • The adverse event was present prior to or at the time of initial dosing with double-blind study medication and subsequently increased in severity during double-blind treatment; or |  |  |  |
+| • The adverse event was present prior to or at the time of initial dosing with double-blind study medication, disappeared completely, and then reappeared during double-blind treatment. |  |  |  |
+| 2Coding preferred terms also include cold, common cold, head cold, flu, and flu-like symptoms. |  |  |  |
+| 3Coding preferred terms also include nasal congestion, stuffy nose, runny nose, sinus congestion, and hay fever. |  |  |  |
 
 Signs and Symptoms of Orthostasis
 
@@ -77,8 +82,8 @@ Decisions to include these reactions in labeling are typically based on one or m
 2. frequency of reporting, or
 3. strength of causal connection to tamsulosin hydrochloride capsules.
 
-Allergic-type reactions such as skin rash, urticaria, pruritus, angioedema and respiratory symptoms have been reported with positive rechallenge in some cases.
+Allergic-type reactions such as skin rash, urticaria, pruritus, angioedema, and respiratory symptoms have been reported with positive rechallenge in some cases.
 Priapism has been reported rarely.
-Infrequent reports of palpitations, hypotension, skin desquamation, constipation and vomiting have been received during the postmarketing period.
+Infrequent reports of dyspnea, palpitations, hypotension, atrial fibrillation, arrhythmia, tachycardia, skin desquamation including reports of Stevens-Johnson syndrome, constipation, and vomiting have been received during the postmarketing period.
 
 During cataract surgery, a variant of small pupil syndrome known as Intraoperative Floppy Iris Syndrome (IFIS) has been reported in association with alpha1 blocker therapy [see WARNINGS AND PRECAUTIONS (5.5)].

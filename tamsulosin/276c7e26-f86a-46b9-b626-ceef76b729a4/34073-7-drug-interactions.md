@@ -43,9 +43,9 @@ Dosage adjustments are not necessary when tamsulosin hydrochloride capsules are 
 
 ## 7.6 Digoxin and Theophylline
 
-Dosage adjustments are not necessary when a tamsulosin hydrochloride capsule is administered concomitantly with digoxin or theophylline [see WARNINGS AND PRECAUTIONS (5.2) and CLINICAL PHARMACOLOGY (12.3)].
+Dosage adjustments are not necessary when a tamsulosin hydrochloride capsule is administered concomitantly with digoxin or theophylline [see CLINICAL PHARMACOLOGY (12.3)].
 
 ## 7.7 Furosemide
 
 Tamsulosin hydrochloride capsules had no effect on the pharmacodynamics (excretion of electrolytes) of furosemide.
-While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride Cmax and AUC, these changes are expected to be clinically insignificant and do not require adjustment of the tamsulosin hydrochloride capsules dosage [see WARNINGS AND PRECAUTIONS (5.2) and CLINICAL PHARMACOLOGY (12.3)].
+While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride Cmax and AUC, these changes are expected to be clinically insignificant and do not require adjustment of the tamsulosin hydrochloride capsules dosage [see CLINICAL PHARMACOLOGY (12.3)].
