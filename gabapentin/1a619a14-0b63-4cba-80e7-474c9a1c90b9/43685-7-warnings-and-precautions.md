@@ -124,7 +124,7 @@ Effect of Probenecid Probenecid is a blocker of renal tubular secretion.
 Gabapentin pharmacokinetic parameters without and with probenecid were comparable.
 This indicates that gabapentin does not undergo renal tubular secretion by the pathway that is blocked by probenecid.
 
-## Drug/Laboratory Test Interactions
+## Drug/Laboratory Tests Interactions
 
 Because false positive readings were reported with the Ames N-Multistix SG ® dipstick test for urinary protein when gabapentin was added to other antiepileptic drugs, the more specific sulfosalicylic acid precipitation procedure is recommended to determine the presence of urine protein.
 
@@ -143,7 +143,7 @@ No adverse effects on fertility or reproduction were observed in rats at doses u
 
 ## Pregnancy
 
-### Teratogenic effects
+### Teratogenic Effects
 
 Pregnancy Category C. Gabapentin has been shown to be fetotoxic in rodents, causing delayed ossification of several bones in the skull, vertebrae, forelimbs, and hindlimbs.
 These effects occurred when pregnant mice received oral doses of 1000 or 3000 mg/kg/day during the period of organogenesis, or approximately 1 to 4 times the maximum dose of 3600 mg/day given to epileptic patients on a mg/m 2 basis.

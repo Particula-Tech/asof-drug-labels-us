@@ -76,7 +76,7 @@ How should I take gabapentin capsules?
     Always swallow gabapentin capsules whole with plenty of water.
 - Gabapentin capsules can be taken with or without food.
   If you take an antacid containing aluminum and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of gabapentin capsules.
-- If you take too much gabapentin capsules, call your healthcare provider or your local PoisonControlCenter right away.
+- If you take too much gabapentin capsules, call your healthcare provider or your local Poison Control Center right away.
 
 What should I avoid while taking gabapentin capsules?
 
@@ -127,4 +127,4 @@ The empty hard gelatin capsule shell consists of gelatin, titanium dioxide, and 
 In addition 300 mg also contains yellow iron oxide and 400 mg also contains yellow iron oxide and red iron oxide.
 The capsules are printed with edible ink containing black iron oxide and shellac.
 This Medication Guide has been approved by the U.S. Food and Drug Administration. * All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 10/2010
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 07/2011
