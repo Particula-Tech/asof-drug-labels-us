@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017830"
+  ],
   "inn": "carbidopa",
-  "labeler": "Bristol-Myers Squibb Company",
+  "labeler": "Bristol-Myers Squibb Pharma Company",
   "package_ndcs": [
     "0056-0511-68"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "carbidopa",
+      "name": "LODOSYN"
+    }
+  ],
   "setid": "0b2e55d0-3b2c-42be-a649-80c4d961a12c",
   "source": "dailymed"
 }
