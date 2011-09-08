@@ -1,12 +1,19 @@
 {
-  "application_numbers": [],
-  "inn": "ciprofloxacin",
-  "labeler": "Alcon",
-  "package_ndcs": [
-    "0065-8531-10",
-    "0065-8531-23"
+  "application_numbers": [
+    "NDA020805"
   ],
-  "products": [],
+  "inn": "ciprofloxacin",
+  "labeler": "Alcon Laboratories, Inc.",
+  "package_ndcs": [
+    "0065-8531-10"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "ciprofloxacin hydrochloride and hydrocortisone",
+      "name": "CIPRO"
+    }
+  ],
   "setid": "70b19501-34b6-4f95-a8dd-dd3e67d22399",
   "source": "dailymed"
 }

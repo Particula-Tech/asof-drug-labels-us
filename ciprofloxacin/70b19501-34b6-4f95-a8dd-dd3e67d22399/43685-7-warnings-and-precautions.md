@@ -9,12 +9,12 @@ Serious acute hypersensitivity reactions may require immediate emergency treatme
 
 # PRECAUTIONS
 
-## GENERAL
+## GENERAL:
 
 As with other antibiotic preparations, use of this product may result in overgrowth of nonsusceptible organisms, including fungi.
 If the infection is not improved after one week of therapy, cultures should be obtained to guide further treatment.
 
-## Information for Patients
+## Information for Patients:
 
 If rash or allergic reaction occurs, discontinue use immediately and contact your physician.
 
@@ -28,7 +28,7 @@ Shake well immediately before using.
 
 Discard unused portion after therapy is completed.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Eight in vitro mutagenicity tests have been conducted with ciprofloxacin, and the test results are listed below:
 
@@ -66,11 +66,7 @@ This would be over 1000 times the maximum recommended clinical dose of ototopica
 Long term studies have not been performed to evaluate the carcinogenic potential or the effect on fertility of topical hydrocortisone.
 Mutagenicity studies with hydrocortisone were negative.
 
-## Pregnancy
-
-### Teratogenic Effects
-
-#### Pregnancy Category C
+## Pregnancy: Teratogenic Effects. Pregnancy Category C:
 
 Reproduction studies have been performed in rats and mice using oral doses of up to 100 mg/kg and IV doses up to 30 mg/kg and have revealed no evidence of harm to the fetus as a result of ciprofloxacin.
 In rabbits, ciprofloxacin (30 and 100 mg/kg orally) produced gastrointestinal disturbances resulting in maternal weight loss and an increased incidence of abortion, but no teratogenicity was observed at either dose.
@@ -83,14 +79,8 @@ Animal reproduction studies have not been conducted with CIPRO® HC OTIC.
 No adequate and well controlled studies have been performed in pregnant women.
 Caution should be exercised when CIPRO® HC OTIC is used by a pregnant woman.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 Ciprofloxacin is excreted in human milk with systemic use.
 It is not known whether ciprofloxacin is excreted in human milk following topical otic administration.
 Because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-
-## Pediatric use
-
-The safety and efficacy of CIPRO® HC OTIC have been established in pediatric patients 2 years and older (131 patients) in adequate and well-controlled clinical trials.
-Although no data are available on patients less than age 2 years, there are no known safety concerns or differences in the disease process in this population which would preclude use of this product in patients one year and older.
-See DOSAGE AND ADMINISTRATION.
