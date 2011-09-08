@@ -1,4 +1,4 @@
-# This is a representative sample of the packaging. Please see How Supplied section for a complete list of available packaging. PRINCIPAL DISPLAY PANEL - Bottle Label 5 mg
+# PRINCIPAL DISPLAY PANEL - Bottle Label 5 mg
 
 Prinivil® 5 mg (Lisinopril)
 
@@ -22,7 +22,7 @@ USUAL ADULT DOSAGE: See accompanying circular.
 
 Rx only
 
-9965100 90 | No. 8110
+7001165500 90 | No. 8110
 
 # PRINCIPAL DISPLAY PANEL - Bottle Label 10 mg
 
@@ -48,7 +48,7 @@ USUAL ADULT DOSAGE: See accompanying circular.
 
 Rx only
 
-9965300 90 | No. 8111
+7001165300 90 | No. 8111
 
 # PRINCIPAL DISPLAY PANEL - Bottle Label 20 mg
 
@@ -74,4 +74,4 @@ USUAL ADULT DOSAGE: See accompanying circular.
 
 Rx only
 
-9964900 90 | No. 8112
+7001165400 90 | No. 8112

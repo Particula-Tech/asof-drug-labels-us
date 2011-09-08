@@ -23,8 +23,12 @@ Dispense in a tight container, if product package is subdivided.
 
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
+by:
 
-Issued February 2010
+MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
 
-9763204
+Issued June 2011
+
+9763205
+
+Copyright © 1988, 1989, 1992, 1993, 1995, 2005, 2006, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
