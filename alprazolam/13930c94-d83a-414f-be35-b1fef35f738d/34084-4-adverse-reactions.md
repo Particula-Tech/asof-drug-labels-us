@@ -181,4 +181,4 @@ Minor changes in EEG patterns, usually low-voltage fast activity have been obser
 Various adverse drug reactions have been reported in association with the use of alprazolam since market introduction.
 The majority of these reactions were reported through the medical event voluntary reporting system.
 Because of the spontaneous nature of the reporting of medical events and the lack of controls, a causal relationship to the use of alprazolam cannot be readily determined.
-Reported events include: gastrointestinal disorder, hypomania, mania, liver enzyme elevations hepatitis, hepatic failure, Stevens-Johnson syndrome, hyperprolactinemia, gynecomastia and galactorrhea (SEE PRECAUTIONS).
+Reported events include: gastrointestinal disorder, hypomania, mania, liver enzyme elevations hepatitis, hepatic failure, Stevens-Johnson syndrome, angioedema, peripheral edema, hyperprolactinemia, gynecomastia and galactorrhea (see PRECAUTIONS).
