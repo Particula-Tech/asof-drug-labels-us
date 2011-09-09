@@ -9,5 +9,5 @@ A saturated solution in pure water has a solubility of 1.8 mg/mL.
 It is freely soluble in methanol, slightly soluble in ethanol, and sparingly soluble in isopropanol.
 
 The 150 mg capsule for oral administration contains 172.95 mg dabigatran etexilate mesylate, which is equivalent to 150 mg of dabigatran etexilate, and the following inactive ingredients: acacia, dimethicone, hypromellose, hydroxypropyl cellulose, talc, and tartaric acid.
-The capsule shell is composed of carrageenan, FD&C Blue No. 2, FD&C Yellow No. 6, hypromellose, potassium chloride, titanium dioxide, and black edible ink.
+The capsule shell is composed of carrageenan, FD&C Blue No. 2 (150 mg only), FD&C Yellow No. 6, hypromellose, potassium chloride, titanium dioxide, and black edible ink.
 The 75 mg capsule contains 86.48 mg dabigatran etexilate mesylate, equivalent to 75 mg dabigatran etexilate, and is otherwise similar to the 150 mg capsule.

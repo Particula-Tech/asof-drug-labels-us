@@ -1,11 +1,11 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-PRADAXA 75 mg capsules have a light blue opaque cap imprinted with the Boehringer Ingelheim company symbol and a cream-colored opaque body imprinted with "R75".
+PRADAXA 75 mg capsules have a cream-colored opaque cap imprinted with the Boehringer Ingelheim company symbol and a cream-colored opaque body imprinted with "R75".
 The color of the imprinting is black.
 The capsules are supplied in the packages listed:
 
-- NDC 0597-0107-54 Unit of use bottle of 60 capsules
-- NDC 0597-0107-60 Blister package containing 60 capsules (10 x 6 capsule blister cards)
+- NDC 0597-0149-54 Unit of use bottle of 60 capsules
+- NDC 0597-0149-60 Blister package containing 60 capsules (10 x 6 capsule blister cards)
 
 PRADAXA 150 mg capsules have a light blue opaque cap imprinted with the Boehringer Ingelheim company symbol and a cream-colored opaque body imprinted with "R150".
 The color of the imprinting is black.

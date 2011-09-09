@@ -157,16 +157,16 @@ What are the ingredients in PRADAXA?
 Active ingredient: dabigatran etexilate mesylate
 
 Inactive ingredients: acacia, dimethicone, hypromellose, hydroxypropyl cellulose, talc, and tartaric acid.
-The capsule shell is composed of carrageenan, FD&C Blue No. 2, FD&C Yellow No. 6, hypromellose, potassium chloride, titanium dioxide, and black edible ink.
+The capsule shell is composed of carrageenan, FD&C Blue No. 2 (150 mg strength only), FD&C Yellow No. 6, hypromellose, potassium chloride, titanium dioxide, and black edible ink.
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Revised: March 2011 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised: August 2011 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Copyright 2011 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-02 IT5060BC072011
+75461-03 IT5060DH162011
 
-75457-02 IT5400B
+75457-03 IT5400D
 
 Coumadin® is a registered trademark for Bristol-Myers Squibb Jantoven® is a registered trademark for USL Pharma Plavix® is a registered trademark of sanofi aventis Effient® is a registered trademark of Eli Lilly and Company
