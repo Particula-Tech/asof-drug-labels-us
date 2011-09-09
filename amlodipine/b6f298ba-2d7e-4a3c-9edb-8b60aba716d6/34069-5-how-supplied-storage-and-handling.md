@@ -15,4 +15,5 @@ Amlodipine Besylate Tablets 10 mg (amlodipine besylate equivalent to 10 mg of am
 ## 16.4 Storage
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
-Dispense in tight, light-resistant containers as defined in the USP.
+Dispense in tight, light-resistant containers as defined in the USP .
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 08/2011

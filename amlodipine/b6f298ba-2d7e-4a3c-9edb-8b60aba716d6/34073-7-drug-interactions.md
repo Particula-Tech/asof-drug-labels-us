@@ -37,6 +37,18 @@ Single and multiple 10 mg doses of amlodipine besylate had no significant effect
 
 Coadministration of amlodipine besylate with warfarin did not change the warfarin prothrombin response time.
 
-## 7.10 Drug/Laboratory Test Interactions
+## 7.10 CYP3A4 Inhibitors
+
+Coadministration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
+Erythromycin coadministration in healthy volunteers did not significantly change amlodipine systemic exposure.
+However, strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, ritonavir) may increase the plasma concentrations of amlodipine to a greater extent.
+Monitor for symptoms of hypotension and edema when amlodipine is coadministered with CYP3A4 inhibitors.
+
+## 7.11 CYP3A4 Inducers
+
+No information is available on the quantitative effects of CYP3A4 inducers on amlodipine.
+Blood pressure should be closely monitored when amlodipine is coadministered with CYP3A4 inducers.
+
+## 7.12 Drug/Laboratory Test Interactions
 
 None known.

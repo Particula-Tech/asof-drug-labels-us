@@ -34,7 +34,6 @@ Tell your doctor if you:
 How should I take amlodipine besylate tablets?
 
 - Take amlodipine besylate tablets once a day, with or without food.
-  You can take amlodipine besylate tablets with most drinks, including grapefruit juice.
 - It may be easier to take your dose if you do it at the same time every day, such as with breakfast or dinner, or at bedtime.
   Do not take more than one dose of amlodipine besylate tablets at a time.
 - If you miss a dose, take it as soon as you remember.
@@ -80,4 +79,4 @@ Only use amlodipine besylate tablets the way your doctor told you to.
 Do not give amlodipine besylate tablets to other people, even if they have the same symptoms you have.
 They may harm them.
 You can ask your pharmacist or doctor for information about amlodipine besylate tablets , or you can call 1-866-850-2876.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 07/2010
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 08/2011
