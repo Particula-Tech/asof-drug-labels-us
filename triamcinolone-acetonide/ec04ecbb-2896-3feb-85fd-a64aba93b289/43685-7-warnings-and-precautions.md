@@ -12,8 +12,8 @@ If the patient requires more than the recommended dosages or other medications c
 Because Kenalog-10 Injection (triamcinolone acetonide injectable suspension, USP) is a suspension, it should not be administered intravenously.
 Strict aseptic technique is mandatory.
 
-Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroid therapy (see ADVERSE REACTIONS).
-Cases of serious anaphylactic reactions and anaphylactic shock, including death, have been reported in individuals receiving triamcinolone acetonide injection, regardless of the route of administration.
+Rare instances of anaphylaxis have occurred in patients receiving corticosteroid therapy (see ADVERSE REACTIONS).
+Cases of serious anaphylaxis, including death, have been reported in individuals receiving triamcinolone acetonide injection, regardless of the route of administration.
 
 Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy subjected to any unusual stress before, during, and after the stressful situation.
 

@@ -8,4 +8,4 @@ Bristol-Myers Squibb Company Princeton, NJ 08543 USA Product of Italy
 
 1221154A5
 
-Rev June 2011
+Rev August 2011

@@ -5,3 +5,4 @@ Kenalog®-10 Injection (triamcinolone acetonide injectable suspension, USP) is s
 ## Storage
 
 Store at controlled room temperature, 20°–25°C (68°–77°F), avoid freezing and protect from light.
+Do not refrigerate.
