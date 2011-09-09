@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Diclofenac sodium delayed-release is a benzene-acetic acid derivative.
+Diclofenac sodium delayed-release tablets are a benzeneacetic acid derivative.
 The chemical name is 2-[(2,6-dichlorophenyl)amino] benzeneacetic acid, monosodium salt.
 The molecular weight is 318.13.
 Its molecular formula is C14H10Cl2NNaO2, and it has the following structural formula

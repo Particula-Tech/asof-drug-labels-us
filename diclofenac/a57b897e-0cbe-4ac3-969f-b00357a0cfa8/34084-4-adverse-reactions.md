@@ -8,42 +8,42 @@ Abnormal renal function, anemia, dizziness, edema, elevated liver enzymes, heada
 
 Additional adverse experiences reported occasionally include:
 
-Body As A Whole:fever, infection, sepsis
+Body as a Whole: fever, infection, sepsis
 
-Cardiovascular System:congestive heart failure, hypertension, tachycardia, syncope
+Cardiovascular System: congestive heart failure, hypertension, tachycardia, syncope
 
-Digestive System:dry mouth, esophagitis, gastric/peptic ulcers, gastritis, gastrointestinal bleeding, glossitis, hematemesis, hepatitis, jaundice
+Digestive System: dry mouth, esophagitis, gastric/peptic ulcers, gastritis, gastrointestinal bleeding, glossitis, hematemesis, hepatitis, jaundice
 
-Hemic And Lymphatic System:ecchymosis, eosinophilia, leukopenia, melena, purpura, rectal bleeding, stomatitis, thrombocytopenia
+Hemic and Lymphatic System: ecchymosis, eosinophilia, leukopenia, melena, purpura, rectal bleeding, stomatitis, thrombocytopenia
 
-Metabolic And Nutritional:weight changes
+Metabolic and Nutritional: weight changes
 
-Nervous System:anxiety, asthenia, confusion, depression, dream abnormalities, drowsiness, insomnia, malaise, nervousness, paresthesia, somnolence, tremors, vertigo
+Nervous System: anxiety, asthenia, confusion, depression, dream abnormalities, drowsiness, insomnia, malaise, nervousness, paresthesia, somnolence, tremors, vertigo
 
-Respiratory System:asthma, dyspnea
+Respiratory System: asthma, dyspnea
 
-Skin And Appendages:alopecia, photosensitivity, sweating increased
+Skin and Appendages: alopecia, photosensitivity, sweating increased
 
-Special Senses:blurred vision
+Special Senses: blurred vision
 
-Urogenital System:cystitis, dysuria, hematuria, interstitial nephritis, oliguria/polyuria, proteinuria, renal failure
+Urogenital System: cystitis, dysuria, hematuria, interstitial nephritis, oliguria/polyuria, proteinuria, renal failure
 
 Other adverse reactions, which occur rarely are:
 
-Body As A Whole:anaphylactic reactions, appetite changes, death
+Body as a Whole: anaphylactic reactions, appetite changes, death
 
-Cardiovascular System:arrhythmia, hypotension, myocardial infarction, palpitations, vasculitis
+Cardiovascular System: arrhythmia, hypotension, myocardial infarction, palpitations, vasculitis
 
-Digestive System:colitis, eructation, liver failure, pancreatitis
+Digestive System: colitis, eructation, fulminant hepatitis with and without jaundice, liver failure, liver necrosis, pancreatitis
 
-Hemic And Lymphatic System:agranulocytosis, hemolytic anemia, aplastic anemia, lymphadenopathy, pancytopenia
+Hemic and Lymphatic System: agranulocytosis, hemolytic anemia, aplastic anemia, lymphadenopathy, pancytopenia
 
-Metabolic And Nutritional:hyperglycemia
+Metabolic and Nutritional: hyperglycemia
 
-Nervous System:convulsions, coma, hallucinations, meningitis
+Nervous System: convulsions, coma, hallucinations, meningitis
 
-Respiratory System:respiratory depression, pneumonia
+Respiratory System: respiratory depression, pneumonia
 
-Skin And Appendages:angioedema, toxic epidermal necrolysis, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, urticaria
+Skin and Appendages: angioedema, toxic epidermal necrolysis, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, urticaria
 
-Special Senses:conjunctivitis, hearing impairment
+Special Senses: conjunctivitis, hearing impairment

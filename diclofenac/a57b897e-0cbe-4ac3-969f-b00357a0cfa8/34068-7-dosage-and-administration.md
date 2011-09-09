@@ -3,7 +3,7 @@
 Carefully consider the potential benefits and risks of diclofenac sodium delayed-release tablets and other treatment options before deciding to use diclofenac sodium delayed-release.
 Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS).
 
-After observing the response to initial therapy with diclofenac sodium delayed-release tablets, the dose and frequency should be adjusted to suit an individual patient’s needs.
+After observing the response to initial therapy with diclofenac sodium delayed-release, the dose and frequency should be adjusted to suit an individual patient’s needs.
 
 For the relief of osteoarthritis, the recommended dosage is 100-150 mg/day in divided doses (50 mg b.i.d. or t.i.d., or 75 mg b.i.d.).
 

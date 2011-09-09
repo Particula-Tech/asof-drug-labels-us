@@ -2,13 +2,15 @@
 
 Diclofenac Sodium Delayed-Release Tablets, USP are available as follows:
 
-50 mg — Each white, round, enteric-coated tablet printed with on one side and 550 on the other side with black ink contains 50 mg of Diclofenac Sodium, USP.
-Tablets are supplied in bottles of 60 (NDC 0228-2550-06), 100 (NDC 0228-2550-11) and 1000 (NDC 0228-2550-96).
+- 50 mg — Each white, round, enteric-coated tablet printed with on one side and 550 on the other side with black ink contains 50 mg of Diclofenac Sodium, USP.
+  Tablets are supplied in bottles of 60 (NDC 0228-2550-06), 100 (NDC 0228-2550-11) and 1000 (NDC 0228-2550-96).
 
-75 mg — Each white, round, enteric-coated tablet printed with on one side and 551 on the other side with black ink contains 75 mg of Diclofenac Sodium, USP.
-Tablets are supplied in bottles of 60 (NDC 0228-2551-06), 100 (NDC 0228-2551-11), and 1000 (NDC 0228-2551-96).
+- 
+  - 75 mg — Each white, round, enteric-coated tablet printed with on one side and 551 on the other side with black ink contains 75 mg of Diclofenac Sodium, USP.
+    Tablets are supplied in bottles of 60 (NDC 0228-2551-06), 100 (NDC 0228-2551-11), and 1000 (NDC 0228-2551-96).
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+
 Protect from moisture.
 
 Dispense in a tight, light-resistant container as defined in the USP.
@@ -19,21 +21,27 @@ Manufactured by: Actavis Elizabeth LLC
 
 40-8780
 
-Revised — January 2008
+Revised — March 2011
 
-## Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
+Medication Guide for
+
+Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
 (See the end of this Medication Guide for a list of prescription NSAID medicines.)
 
 What is the most important information I should know about medicines called Non- Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
-NSAID medicines may increase the chance of a heart attack or stroke that can lead to death.
-This chance increases:
+- NSAID medicines may increase the chance of a heart attack or stroke that can lead to death.
+
+- 
+  - This chance increases:
 
 - with longer use of NSAID medicines
 - in people who have heart disease
 
-NSAID medicines should never be used right before or after a heart surgery called a “coronary artery bypass graft (CABG).”
+NSAID medicines should never be used right before or after a heart surgery called a
+
+- “coronary artery bypass graft (CABG).”
 
 NSAID medicines can cause ulcers and bleeding in the stomach and intestines at any time during treatment.
 Ulcers and bleeding:
@@ -85,44 +93,41 @@ What are the possible side effects of Non-Steroidal Anti-Inflammatory Drugs (NSA
 
 | Serious side effects include: | Other side effects include: |
 | --- | --- |
-| ·heart attack | ·stomach pain |
-| ·stroke | ·constipation |
-| ·high blood pressure | ·diarrhea |
-| ·heart failure from body swelling (fluid retention) | ·gas |
-| ·kidney problems including kidney failure | ·heartburn |
-| ·bleeding and ulcers in the stomach and intestine | ·nausea |
-| ·low red blood cells (anemia) | ·vomiting |
-| ·life-threatening skin reactions | ·dizziness |
-| ·life-threatening allergic reactions |  |
-| ·liver problems including |  |
-| ·liver failure |  |
-| ·asthma attacks in people who have asthma |  |
+| • heart attack | • stomach pain |
+| • stroke | • constipation |
+| • high blood pressure | • diarrhea |
+| • heart failure from body swelling (fluid retention) | • gas |
+| • kidney problems including kidney failure | • heartburn |
+| • bleeding and ulcers in the stomach and intestine | • nausea |
+| • low red blood cells (anemia) | • vomiting |
+| • life-threatening skin reactions |  |
+| • life-threatening allergic reactions |  |
+|  | Continued on reverse side |
+| Continued |  |
+| Serious side effects include: | Other side effects include: |
+| • liver problems including liver failure | • dizziness |
+| • asthma attacks in people who have asthma |  |
 
 Get emergency help right away if you have any of the following symptoms:
 
-| ·shortness of breath or trouble breathing | ·slurred speech |
+| • shortness of breath or trouble breathing | • slurred speech |
 | --- | --- |
-| ·chest pain | ·swelling of the face or throat |
-| ·weakness in one part or side of your body |  |
+| • chest pain | • swelling of the face |
+| • weakness in one part or side of your body | • or throat |
 
-Stop your NSAID medicine and call your healthcare provider right away if you have any
+Stop your NSAID medicine and call your healthcare provider right away if you have any of the following symptoms:
 
-of the following symptoms:
-
-| ·nausea | ·there is blood in your bowel movement or it is |
+| • nausea | •there is blood in your bowel movement or it is black and sticky like tar |
 | --- | --- |
-| ·more tired or weaker than usual | black and sticky like tar |
-| ·itching | ·skin rash or blisters with fever |
-| ·your skin or eyes look yellow | ·unusual weight gain |
-| ·stomach pain | ·swelling of the arms and legs, hands and feet |
-| ·flu-like symptoms |  |
-| ·vomit blood |  |
+| • more tired or weaker than usual |  |
+| • itching | •unusual weight gain |
+| • your skin or eyes look yellow | • skin rash or blisters with fever |
+| • stomach pain | • swelling of the arms and legs, hands and feet |
+| • flu-like symptoms |  |
+| • vomit blood |  |
 
 These are not all the side effects with NSAID medicines.
-Talk to your healthcare provider or
-
-pharmacist for more information about NSAID medicines.
-
+Talk to your healthcare provider or pharmacist for more information about NSAID medicines.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
@@ -144,7 +149,7 @@ NSAID medicines that need a prescription
 | Etodolac | Lodine, Lodine XL |
 | Fenoprofen | Nalfon, Nalfon 200 |
 | Flurbirofen | Ansaid |
-| Ibuprofen | Motrin, Tab-Profen, Vicoprofen* (combined with hydrocodone), Combunox (combined with oxycodone) |
+| Ibuprofen | Motrin, Tab-Profen, Vicoprofen (combined with hydrocodone), Combunox (combined with oxycodone) |
 | Indomethacin | Indocin, Indocin SR, Indo-Lemmon, Indomethagan |
 | Ketoprofen | Oruvail |
 | Ketorolac | Toradol |
@@ -156,6 +161,5 @@ NSAID medicines that need a prescription
 | Piroxicam | Feldene |
 | Sulindac | Clinoril |
 | Tolmetin | Tolectin, Tolectin DS, Tolectin 600 |
-| *Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain. The OTC label warns that long term continuous use may increase the risk of heart attack or stroke. |  |
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+| * Vicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain. The OTC NSAID label warns that long term continuous use may increase the risk of heart attack or stroke. |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |

@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074514"
+  ],
   "inn": "diclofenac",
   "labeler": "Actavis Elizabeth LLC",
   "package_ndcs": [
@@ -10,7 +12,13 @@
     "0228-2551-11",
     "0228-2551-96"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "diclofenac sodium",
+      "name": "Diclofenac Sodium"
+    }
+  ],
   "setid": "a57b897e-0cbe-4ac3-969f-b00357a0cfa8",
   "source": "dailymed"
 }
