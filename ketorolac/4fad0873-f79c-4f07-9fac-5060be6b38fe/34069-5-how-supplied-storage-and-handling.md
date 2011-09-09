@@ -8,9 +8,8 @@ Note: Store at 15°C - 25°C (59°F- 77°F).
 
 Rx only
 
-Revised: 09/2009
+Revised: 05/2011
 
-© 2009 Allergan, Inc., Irvine, CA 92612, U.S.A. ACULAR LS® is a registered trademark of Roche Palo Alto LLC.
-This product is manufactured and distributed by Allergan, Inc. under license from its developer, Roche Palo Alto LLC, Palo Alto, CA, U.S.A. ® marks owned by Allergan, Inc. U.S. Patent 5,110,493
+© 2011 Allergan, Inc., Irvine, CA 92612, U.S.A. ACULAR LS® is manufactured and distributed by Allergan, Inc. under license from its developer, Roche Palo Alto LLC, Palo Alto, CA, U.S.A. ® marks owned by Allergan, Inc. U.S. Patent Pending Made in the U.S.A.
 
-71654US12A
+71654US13C
