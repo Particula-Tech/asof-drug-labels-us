@@ -15,4 +15,4 @@ Analyses of the relationship between treatment outcome and gender did not sugges
 
 Rx only
 
-LAB-0006-5.0 June 2011
+LAB-0006-6.0 August 2011
