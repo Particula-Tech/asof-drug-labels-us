@@ -68,7 +68,7 @@ All the four metabolites are not known to have any in vivo pharmacological activ
 
 Meloxicam excretion is predominantly in the form of metabolites, and occurs to equal extents in the urine and feces.
 Only traces of the unchanged parent compound are excreted in the urine (0.2%) and feces (1.6%).
-The extent of the urinary excretion was confirmed for unlabeled multiple 7.5 mg doses: 0.5%, 6%, and 13% of the dose were found in urine in the form of meloxicam, and the 5' hydroxymethyl and 5' carboxy metabolites, respectively.
+The extent of the urinary excretion was confirmed for unlabeled multiple 7.5 mg doses: 0.5%, 6%, and 13% of the dose were found in urine in the form of meloxicam, and the 5'-hydroxymethyl and 5'-carboxy metabolites, respectively.
 There is significant biliary and/or enteral secretion of the drug.
 This was demonstrated when oral administration of cholestyramine following a single IV dose of meloxicam decreased the AUC of meloxicam by 50%.
 
@@ -81,7 +81,7 @@ Plasma clearance ranges from 7 to 9 mL/min.
 Pediatric
 
 After single (0.25 mg/kg) dose administration and after achieving steady state (0.375 mg/kg/day), there was a general trend of approximately 30% lower exposure in younger patients (2 to 6 years old) as compared to the older patients (7 to 16 years old).
-The older patients had meloxicam exposures similar (single dose) or slightly reduced (steady state) to those in the adult patients, when using AUC values normalized to a dose of 0.25 mg/kg [see Dosage and Administration (2.2)].
+The older patients had meloxicam exposures similar (single dose) or slightly reduced (steady state) to those in the adult patients, when using AUC values normalized to a dose of 0.25 mg/kg [see Dosage and Administration (2.4)].
 The meloxicam mean (SD) elimination half-life was 15.2 (10.1) and 13.0 hours (3.0) for the 2 to 6 year old patients, and 7 to 16 year old patients, respectively.
 
 In a covariate analysis, utilizing population pharmacokinetics body-weight, but not age, was the single predictive covariate for differences in the meloxicam apparent oral plasma clearance.

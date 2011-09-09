@@ -47,3 +47,8 @@ The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that use
 
 Monitor anticoagulant activity, particularly in the first few days after initiating or changing MOBIC therapy in patients receiving warfarin or similar agents, since these patients are at an increased risk of bleeding than with the use of either drug alone.
 Use caution when administering MOBIC with warfarin since patients on warfarin may experience changes in INR and an increased risk of bleeding complications when a new medication is introduced [see Clinical Pharmacology (12.3)].
+
+## 7.8 Kayexalate® (sodium polystyrene sulfonate)
+
+Cases of intestinal necrosis (possibly fatal) have been described in patients who received concomitant sorbitol and Kayexalate® (sodium polystyrene sulfonate).
+Due to the presence of sorbitol in MOBIC Oral Suspension, use with Kayexalate® is not recommended.

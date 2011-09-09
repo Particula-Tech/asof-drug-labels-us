@@ -22,7 +22,7 @@ Patients should be apprised of the importance of this follow-up [see Warnings an
 
 ## 17.4 Hepatotoxicity
 
-Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu like" symptoms).
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
 If these occur, instruct patients to stop therapy and seek immediate medical therapy [see Warnings and Precautions (5.3)].
 
 ## 17.5 Adverse Skin Reactions

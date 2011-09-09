@@ -14,7 +14,7 @@ Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatm
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
 The concurrent use of aspirin and an NSAID does increase the risk of serious GI events [see Warnings and Precautions (5.2)].
 
-## 5.2 Gastrointestinal (GI) Effects - Risk of GI Ulceration, Bleeding, and Perforation
+## 5.2 Gastrointestinal (GI) Effects – Risk of GI Ulceration, Bleeding, and Perforation
 
 NSAIDs, including MOBIC, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
