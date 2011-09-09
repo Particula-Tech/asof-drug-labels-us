@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020616"
+  ],
   "inn": "morphine",
   "labeler": "Alpharma Pharmaceuticals LLC",
   "package_ndcs": [
@@ -12,7 +14,13 @@
     "63857-410-11",
     "63857-412-11"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "morphine sulfate",
+      "name": "KADIAN"
+    }
+  ],
   "setid": "ac279229-f781-4098-9c17-6c22804a31d4",
   "source": "dailymed"
 }
