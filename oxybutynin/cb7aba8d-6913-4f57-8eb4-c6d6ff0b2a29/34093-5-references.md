@@ -22,5 +22,5 @@ Drugs & Aging.
 
 TEVA PHARMACEUTICALS USA Sellersville, PA 18960
 
-Iss.
-10/2009
+Rev.
+A 8/2011

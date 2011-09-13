@@ -1,11 +1,12 @@
 # HOW SUPPLIED
 
-Oxybutynin Chloride Tablets USP:
+Oxybutynin chloride tablets USP.
 
-5 mg — Very pale blue, round biconvex, scored tablets in bottles of 100, 500, and 1000.
+5 mg – Very pale blue, round, biconvex, scored tablets debossed with PLIVA 456.
+Available in bottles of 100, 500, and 1000 tablets.
 
-Debossed: PLIVA 456
+Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
-Dispense in a tight, light-resistant container.
+Store at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.

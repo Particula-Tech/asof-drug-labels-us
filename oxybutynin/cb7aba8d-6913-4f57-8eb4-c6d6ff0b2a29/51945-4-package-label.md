@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-## Oxybutynin Chloride Tablets 5 mg 100s Label Text
+## Oxybutynin Chloride Tablets USP 5 mg 100s Label Text
 
 NDC 50111-456-01
 
