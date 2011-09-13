@@ -9,7 +9,7 @@ The increased risk of suicidal thoughts or behavior with AEDs was observed as ea
 Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
-The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 2 Risk by indication for antiepileptic drugs in the pooled analysis
@@ -27,10 +27,10 @@ Epilepsy and many other illnesses for which AEDs are prescribed are themselves a
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts,behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
-Neuropsychiatric Adverse Events—Pediatric Patients 3-12 years of age Gabapentin use in pediatric patients with epilepsy 3–12 years of age is associated with the occurrence of central nervous system related adverse events.
+Neuropsychiatric Adverse Events—Pediatric Patients 3 to 12 years of age Gabapentin use in pediatric patients with epilepsy 3 to 12 years of age is associated with the occurrence of central nervous system related adverse events.
 The most significant of these can be classified into the following categories: 1) emotional lability (primarily behavioral problems), 2) hostility, including aggressive behaviors, 3) thought disorder, including concentration problems and change in school performance, and 4) hyperkinesia (primarily restlessness and hyperactivity).
 Among the gabapentin-treated patients, most of the events were mild to moderate in intensity.
-In controlled trials in pediatric patients 3–12 years of age the incidence of these adverse events was: emotional lability 6% (gabapentin-treated patients) vs 1.3% (placebo-treated patients); hostility 5.2% vs 1.3%; hyperkinesia 4.7% vs 2.9%; and thought disorder 1.7% vs 0%.
+In controlled trials in pediatric patients 3 to 12 years of age the incidence of these adverse events was: emotional lability 6% (gabapentin-treated patients) vs 1.3% (placebo-treated patients); hostility 5.2% vs 1.3%; hyperkinesia 4.7% vs 2.9%; and thought disorder 1.7% vs 0%.
 One of these events, a report of hostility, was considered serious.
 Discontinuation of gabapentin treatment occurred in 1.3% of patients reporting emotional lability and hyperkinesia and 0.9% of gabapentin-treated patients reporting hostility and thought disorder.
 One placebo-treated patient (0.4%) withdrew due to emotional lability.
@@ -77,8 +77,8 @@ Gabapentin may be used in combination with other antiepileptic drugs without con
 ## Drug Interactions
 
 In vitro studies were conducted to investigate the potential of gabapentin to inhibit the major cytochrome P450 enzymes (CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4) that mediate drug and xenobiotic metabolism using isoform selective marker substrates and human liver microsomal preparations.
-Only at the highest concentration tested (171 µg/mL; 1 mM) was a slight degree of inhibition (14%-30%) of isoform CYP2A6 observed.
-No inhibition of any of the other isoforms tested was observed at gabapentin concentrations up to 171 µg/mL (approximately 15 times the Cmax at 3600 mg/day).
+Only at the highest concentration tested (171 mcg/mL; 1 mM) was a slight degree of inhibition (14% to 30%) of isoform CYP2A6 observed.
+No inhibition of any of the other isoforms tested was observed at gabapentin concentrations up to 171 mcg/mL (approximately 15 times the Cmax at 3600 mg/day).
 
 Gabapentin is not appreciably metabolized nor does it interfere with the metabolism of commonly coadministered antiepileptic drugs.
 The drug interaction data described in this section were obtained from studies involving healthy adults and adult patients with epilepsy.

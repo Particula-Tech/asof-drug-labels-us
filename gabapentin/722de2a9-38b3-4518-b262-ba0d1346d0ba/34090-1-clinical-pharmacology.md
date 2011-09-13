@@ -27,7 +27,7 @@ Gabapentin elimination rate constant, plasma clearance, and renal clearance are 
 In elderly patients, and in patients with impaired renal function, gabapentin plasma clearance is reduced.
 Gabapentin can be removed from plasma by hemodialysis.
 Dosage adjustment in patients with compromised renal function or undergoing hemodialysis is recommended (see DOSAGE AND ADMINISTRATION , Table 6).
-Special Populations Adult Patients With Renal Insufficiency Subjects (N=60) with renal insufficiency (mean creatinine clearance ranging from 13-114 mL/min) were administered single 400 mg oral doses of gabapentin.
+Special Populations Adult Patients With Renal Insufficiency Subjects (N=60) with renal insufficiency (mean creatinine clearance ranging from 13 to 114 mL/min) were administered single 400 mg oral doses of gabapentin.
 The mean gabapentin half-life ranged from about 6.5 hours (patients with creatinine clearance >60 mL/min) to 52 hours (creatinine clearance <30 mL/min) and gabapentin renal clearance from about 90 mL/min (>60 mL/min group) to about 10 mL/min (<30 mL/min).
 Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min.
 Dosage adjustment in adult patients with compromised renal function is necessary (see DOSAGE AND ADMINISTRATION ).
@@ -122,7 +122,7 @@ In the figure, treatment effect magnitude, measured on the Y axis in terms of th
 Although no formal analysis by gender has been performed, estimates of response (Response Ratio) derived from clinical trials (398 men, 307 women) indicate no important gender differences exist.
 There was no consistent pattern indicating that age had any effect on the response to gabapentin.
 There were insufficient numbers of patients of races other than Caucasian to permit a comparison of efficacy among racial groups.
-A fourth study in pediatric patients age 3 to 12 years compared 25 – 35 mg/kg/day gabapentin (N=118) with placebo (N=127).
+A fourth study in pediatric patients age 3 to 12 years compared 25 to 35 mg/kg/day gabapentin (N=118) with placebo (N=127).
 For all partial seizures in the intent-to-treat population, the response ratio was statistically significantly better for the gabapentin group (–0.146) than for the placebo group (–0.079).
 For the same population, the responder rate for gabapentin (21%) was not significantly different from placebo (18%).
 A study in pediatric patients age 1 month to 3 years compared 40 mg/kg/day gabapentin (N=38) with placebo (N=38) in patients who were receiving at least one marketed antiepileptic drug and had at least one partial seizure during the screening period (within 2 weeks prior to baseline).
