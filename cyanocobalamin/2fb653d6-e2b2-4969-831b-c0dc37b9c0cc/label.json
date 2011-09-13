@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA080737"
+  ],
   "inn": "cyanocobalamin",
-  "labeler": "AMERICAN REGENT, INC.",
+  "labeler": "American Regent, Inc.",
   "package_ndcs": [
     "0517-0031-25",
     "0517-0032-25",
     "0517-0130-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "cyanocobalamin",
+      "name": "Cyanocobalamin"
+    }
+  ],
   "setid": "2fb653d6-e2b2-4969-831b-c0dc37b9c0cc",
   "source": "dailymed"
 }
