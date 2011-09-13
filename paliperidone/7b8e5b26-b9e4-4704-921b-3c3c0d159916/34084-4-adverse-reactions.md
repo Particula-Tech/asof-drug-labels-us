@@ -2,7 +2,7 @@
 
 ## 6.1 Overall Adverse Reaction Profile
 
-The following are discussed in more detail in other sections of the labeling:
+The following adverse reactions are discussed in more detail in other sections of the labeling:
 
 - Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
 - Cerebrovascular adverse reactions, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
