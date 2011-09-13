@@ -23,8 +23,7 @@ The following are discussed in more detail in other sections of the labeling:
 
 The most common adverse reactions in clinical trials (≥ 10%) were somnolence, increased appetite, fatigue, insomnia, sedation, parkinsonism, akathisia, vomiting, cough, constipation, nasopharyngitis, drooling, rhinorrhea, dry mouth, abdominal pain upper, dizziness, nausea, anxiety, headache, nasal congestion, rhinitis, tremor, and rash.
 
-The most common adverse reactions that were associated with discontinuation from clinical trials (causing discontinuation in >1% of adults and/or >2% of pediatrics) were nausea, somnolence, sedation, vomiting, dizziness, and akathisia.
-[see Adverse Reactions (6.5)].
+The most common adverse reactions that were associated with discontinuation from clinical trials (causing discontinuation in >1% of adults and/or >2% of pediatrics) were nausea, somnolence, sedation, vomiting, dizziness, and akathisia [see Adverse Reactions (6.5)].
 
 The data described in this section are derived from a clinical trial database consisting of 9712 adult and pediatric patients exposed to one or more doses of RISPERDAL® for the treatment of schizophrenia, bipolar mania, autistic disorder, and other psychiatric disorders in pediatrics and elderly patients with dementia.
 Of these 9712 patients, 2626 were patients who received RISPERDAL® while participating in double-blind, placebo-controlled trials.

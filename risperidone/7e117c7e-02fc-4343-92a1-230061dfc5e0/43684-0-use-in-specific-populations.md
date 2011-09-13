@@ -94,7 +94,18 @@ Increases were dose-dependent and generally greater in females than in males acr
 
 In clinical trials in 1885 children and adolescents, galactorrhea was reported in 0.8% of RISPERDAL®-treated patients and gynecomastia was reported in 2.3% of RISPERDAL®-treated patients.
 
-The long-term effects of RISPERDAL® on growth and sexual maturation have not been fully evaluated.
+Juvenile dogs were treated for 40 weeks with oral risperidone doses of 0.31, 1.25, or 5 mg/kg/day.
+Decreased bone length and density were seen, with a no-effect dose of 0.31 mg/kg/day.
+This dose produced plasma levels (AUC) of risperidone plus its active metabolite paliperidone (9-hydroxy-risperidone) which were similar to those in children and adolescents receiving the maximum recommended human dose (MRHD) of 6 mg/day.
+In addition, a delay in sexual maturation was seen at all doses in both males and females.
+The above effects showed little or no reversibility in females after a 12 week drug-free recovery period.
+
+In a study in which juvenile rats were treated with oral risperidone from days 12 to 50 of age, a reversible impairment of performance in a test of learning and memory was seen, in females only, with a no-effect dose of 0.63 mg/kg/day.
+This dose produced plasma levels (AUC) of risperidone plus paliperidone about half those observed in humans at the MRHD.
+No other consistent effects on neurobehavioral or reproductive development were seen up to the highest testable dose (1.25 mg/kg/day).
+This dose produced plasma levels (AUC) of risperidone plus paliperidone which were about two thirds of those observed in humans at the MRHD.
+
+The long-term effects of RISPERDAL® on growth and sexual maturation have not been fully evaluated in children and adolescents.
 
 ## 8.5 Geriatric Use
 
