@@ -21,7 +21,8 @@ Children between 2 to 16 years of age have a higher chance of getting this serio
 
 The risk of getting a rash is higher if you:
 
-- take LAMICTAL while taking valproate (DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium))take a higher starting dose of LAMICTAL than your healthcare provider prescribed.
+- take LAMICTAL while taking valproate [DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium)].
+- take a higher starting dose of LAMICTAL than your healthcare provider prescribed.
 - increase your dose of LAMICTAL faster than prescribed.
 
 LAMICTAL can also cause other types of allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
@@ -158,9 +159,10 @@ Before taking LAMICTAL, tell your healthcare provider about all of your medical 
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
 - are breastfeeding.
-  LAMICTAL can pass into your breast milk.
-  You and your healthcare provider should decide if you should take LAMICTAL or breastfeed.
-  Breastfeeding while taking LAMICTAL is not recommended.
+  LAMICTAL passes into breast milk and may cause side effects in a breastfed baby.
+  If you breastfeed while taking LAMICTAL, watch your baby closely for trouble breathing, episodes of temporarily stopping breathing, sleepiness, or poor sucking.
+  Call your baby’s healthcare provider right away if you see any of these problems.
+  Talk to your healthcare provider about the best way to feed your baby if you take LAMICTAL.
 
 Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Using LAMICTAL with certain other medicines can affect each other, causing side effects.
@@ -258,6 +260,10 @@ Inactive ingredients: artificial cherry flavor, crospovidone, ethylcellulose, ma
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+LAMICTAL is a registered trademark of GlaxoSmithKline.
+
+DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
+
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
@@ -276,13 +282,9 @@ LAMICTAL Orally Disintegrating Tablets are manufactured by
 
 Eurand, Inc., Vandalia, OH 45377
 
-LAMICTAL is a registered trademark of GlaxoSmithKline.
-
-DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
-
 ©2011, GlaxoSmithKline.
 All rights reserved.
 
-August 2011
+September 2011
 
-LMT:4MG
+LMT:5MG

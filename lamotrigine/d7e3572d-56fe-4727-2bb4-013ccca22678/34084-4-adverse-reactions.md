@@ -116,9 +116,9 @@ Dose-Related Adverse Reactions From a Randomized, Placebo-Controlled Adjunctive 
 | Nausea | 11 | 18 | 25a |
 | Vomiting | 4 | 11 | 18a |
 
-aSignificantly greater than placebo group (P<0.05).
+aSignificantly greater than placebo group (P <0.05).
 
-bSignificantly greater than group receiving LAMICTAL 300 mg (P<0.05).
+bSignificantly greater than group receiving LAMICTAL 300 mg (P <0.05).
 
 The overall adverse reaction profile for LAMICTAL was similar between females and males, and was independent of age.
 Because the largest non-Caucasian racial subgroup was only 6% of patients exposed to LAMICTAL in placebo-controlled trials, there are insufficient data to support a statement regarding the distribution of adverse reaction reports by race.
@@ -240,7 +240,7 @@ Adverse reactions that occurred in at least 5% of patients and were numerically 
 
 During the monotherapy phase of the double-blind, placebo-controlled trials of 18 months’ duration, 13% of 227 patients who received LAMICTAL (100 to 400 mg/day), 16% of 190 patients who received placebo, and 23% of 166 patients who received lithium discontinued therapy because of an adverse reaction.
 The adverse reactions which most commonly led to discontinuation of LAMICTAL were rash (3%) and mania/hypomania/mixed mood adverse reactions (2%).
-Approximately 16% of 2,401 patients who received LAMICTAL (50 to 500 mg/day) for Bipolar Disorder in premarketing trials discontinued therapy because of an adverse reaction; most commonly due to rash (5%) and mania/hypomania/mixed mood adverse reactions (2%).
+Approximately 16% of 2,401 patients who received LAMICTAL (50 to 500 mg/day) for Bipolar Disorder in premarketing trials discontinued therapy because of an adverse reaction, most commonly due to rash (5%) and mania/hypomania/mixed mood adverse reactions (2%).
 
 The overall adverse reaction profile for LAMICTAL was similar between females and males, between elderly and nonelderly patients, and among racial groups.
 
@@ -282,7 +282,7 @@ General: Fever, neck pain.
 
 Cardiovascular: Migraine.
 
-Digestive: Flatulence
+Digestive: Flatulence.
 
 Metabolic and Nutritional: Weight gain, edema.
 
@@ -351,7 +351,7 @@ Rare: Acute kidney failure, anorgasmia, breast abscess, breast neoplasm, creatin
 The following adverse events (not listed above in clinical trials or other sections of the prescribing information) have been identified during postapproval use of LAMICTAL.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic: Agranulocytosis, hemolytic anemia, lymphadenopathy not associated with hypersensitivity disorder.
+Blood and Lymphatic: Agranulocytosis, hemolytic anemia.
 
 Gastrointestinal: Esophagitis.
 

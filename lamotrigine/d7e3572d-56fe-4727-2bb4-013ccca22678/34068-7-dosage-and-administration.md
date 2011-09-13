@@ -27,15 +27,17 @@ Women Taking Estrogen-Containing Oral Contraceptives:Starting LAMICTAL in Women 
 Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with LAMICTAL based on the concomitant AED or other concomitant medications (see Table 1 or Table 5).
 See below for adjustments to maintenance doses of LAMICTAL in women taking estrogen-containing oral contraceptives.
 
-Adjustments to the Maintenance Dose of LAMICTAL in Women Taking Estrogen-Containing Oral Contraceptives:(1) Taking Estrogen-Containing Oral Contraceptives: For women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of LAMICTAL will in most cases need to be increased, by as much as 2-fold over the recommended target maintenance dose, in order to maintain a consistent lamotrigine plasma level [see Clinical Pharmacology (12.3)].
+Adjustments to the Maintenance Dose of LAMICTAL in Women Taking Estrogen-Containing Oral Contraceptives:
+
+(1) Taking Estrogen-Containing Oral Contraceptives: For women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of LAMICTAL will in most cases need to be increased, by as much as 2-fold over the recommended target maintenance dose, in order to maintain a consistent lamotrigine plasma level [see Clinical Pharmacology (12.3)].
 
 (2) Starting Estrogen-Containing Oral Contraceptives: In women taking a stable dose of LAMICTAL and not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose will in most cases need to be increased by as much as 2-fold in order to maintain a consistent lamotrigine plasma level.
 The dose increases should begin at the same time that the oral contraceptive is introduced and continue, based on clinical response, no more rapidly than 50 to 100 mg/day every week.
 Dose increases should not exceed the recommended rate (see Table 1 or Table 5) unless lamotrigine plasma levels or clinical response support larger increases.
-Gradual transient increases in lamotrigine plasma levels may occur during the week of inactive hormonal preparation (pill-free week), and these increases will be greater if dose increases are made in the days before or during the week of inactive hormonal preparation.
+Gradual transient increases in lamotrigine plasma levels may occur during the week of inactive hormonal preparation (“pill-free” week), and these increases will be greater if dose increases are made in the days before or during the week of inactive hormonal preparation.
 Increased lamotrigine plasma levels could result in additional adverse reactions, such as dizziness, ataxia, and diplopia.
-If adverse reactions attributable to LAMICTAL consistently occur during the pill-free week, dose adjustments to the overall maintenance dose may be necessary.
-Dose adjustments limited to the pill-free week are not recommended.
+If adverse reactions attributable to LAMICTAL consistently occur during the “pill-free” week, dose adjustments to the overall maintenance dose may be necessary.
+Dose adjustments limited to the “pill-free” week are not recommended.
 For women taking LAMICTAL in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], no adjustment to the dose of LAMICTAL should be necessary.
 
 (3) Stopping Estrogen-Containing Oral Contraceptives: For women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of LAMICTAL will in most cases need to be decreased by as much as 50% in order to maintain a consistent lamotrigine plasma level.
@@ -52,7 +54,7 @@ No dosage adjustment is needed in patients with mild liver impairment.
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
 Escalation and maintenance doses may be adjusted according to clinical response.
 
-Patients With Renal Impairment: Initial doses of LAMICTAL should be based on patients’concomitant medications (see Tables 1-3 or Table 5); reduced maintenance doses may be effective for patients with significant renal impairment [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+Patients With Renal Impairment: Initial doses of LAMICTAL should be based on patients’ concomitant medications (see Tables 1-3 or Table 5); reduced maintenance doses may be effective for patients with significant renal impairment [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 Few patients with severe renal impairment have been evaluated during chronic treatment with LAMICTAL.
 Because there is inadequate experience in this population, LAMICTAL should be used with caution in these patients.
 
@@ -105,12 +107,12 @@ If the calculated dose cannot be achieved using whole tablets, the dose should b
 Table 2.
 Escalation Regimen for LAMICTAL in Patients 2 to 12 Years of Age With Epilepsy
 
-|  | For Patients TAKING Valproatea | For Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone,b or Valproatea | For Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb and NOT TAKING Valproate a |
+|  | For Patients TAKING Valproatea | For Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone,b or Valproatea | For Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb and NOT TAKING Valproatea |
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 0.15 mg/kg/dayin 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight-based dosing guide) | 0.3 mg/kg/dayin 1 or 2 divided doses, rounded down to the nearest whole tablet | 0.6 mg/kg/dayin 2 divided doses, rounded down to the nearest whole tablet |
 | Weeks 3 and 4 | 0.3 mg/kg/dayin 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight-based dosing guide) | 0.6 mg/kg/dayin 2 divided doses, rounded down to the nearest whole tablet | 1.2 mg/kg/dayin 2 divided doses, rounded down to the nearest whole tablet |
 | Week 5 onwards to maintenance | The dose should be increased every 1 to 2 weeks as follows: calculate 0.3 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose | The dose should be increased every 1 to 2 weeks as follows: calculate 0.6 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose | The dose should be increased every 1 to 2 weeks as follows: calculate 1.2 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose |
-| Usual maintenance dose | 1 to 5 mg/kg/day (maximum 200 mg/day in 1 or 2 divided doses)1 to 3 mg/kg/day with valproate alone | 4.5 to 7.5 mg/kg/day(maximum 300 mg/day in 2 divided doses) | 5 to 15 mg/kg/day (maximum 400 mg/day in 2 divided doses) |
+| Usual maintenance dose | 1 to 5 mg/kg/day(maximum 200 mg/day in 1 or 2 divided doses)1 to 3 mg/kg/daywith valproate alone | 4.5 to 7.5 mg/kg/day(maximum 300 mg/day in 2 divided doses) | 5 to 15 mg/kg/day(maximum 400 mg/day in 2 divided doses) |
 | Maintenance dose in patients less than 30 kg | May need to be increased by as much as 50%, based on clinical response | May need to be increased by as much as 50%, based on clinical response | May need to be increased by as much as 50%, based on clinical response |
 
 Note: Only whole tablets should be used for dosing.

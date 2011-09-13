@@ -26,7 +26,7 @@ Patients should be advised to notify their physician if worsening of seizure con
 Patients should be advised that LAMICTAL may cause dizziness, somnolence, and other symptoms and signs of CNS depression.
 Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on LAMICTAL to gauge whether or not it adversely affects their mental and/or motor performance.
 
-## 17.6 Pregnancy
+## 17.6 Pregnancy and Nursing
 
 Patients should be advised to notify their physicians if they become pregnant or intend to become pregnant during therapy.
 Patients should be advised to notify their physicians if they intend to breastfeed or are breastfeeding an infant.
@@ -34,6 +34,9 @@ Patients should be advised to notify their physicians if they intend to breastfe
 Patients should also be encouraged to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
+
+Patients who intend to breastfeed should be informed that LAMICTAL is present in breast milk and that they should monitor their child for potential adverse effects of this drug.
+Benefits and risks of continuing breastfeeding should be discussed with the patient.
 
 ## 17.7 Oral Contraceptive Use
 
@@ -80,6 +83,6 @@ Eurand, Inc., Vandalia, OH 45377
 ©2011, GlaxoSmithKline.
 All rights reserved.
 
-August 2011
+September 2011
 
-LMT:5PI
+LMT:6PI

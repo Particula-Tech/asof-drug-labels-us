@@ -12,7 +12,7 @@ Criteria for escape relative to baseline were: (1) doubling of average monthly s
 The primary efficacy variable was the proportion of patients in each treatment group who met escape criteria.
 
 The percentages of patients who met escape criteria were 42% (32/76) in the group receiving LAMICTAL and 69% (55/80) in the valproate group.
-The difference in the percentage of patients meeting escape criteria was statistically significant (p = 0.0012) in favor of LAMICTAL.
+The difference in the percentage of patients meeting escape criteria was statistically significant (P = 0.0012) in favor of LAMICTAL.
 No differences in efficacy based on age, sex, or race were detected.
 
 Patients in the control group were intentionally treated with a relatively low dose of valproate; as such, the sole objective of this study was to demonstrate the effectiveness and safety of monotherapy with LAMICTAL, and cannot be interpreted to imply the superiority of LAMICTAL to an adequate dose of valproate.
@@ -61,10 +61,10 @@ Drop attacks were significantly reduced by LAMICTAL (34%) compared with placebo 
 
 Adjunctive Therapy With LAMICTAL in Pediatric and Adult Patients With Primary Generalized Tonic-Clonic Seizures: The effectiveness of LAMICTAL as adjunctive therapy in patients with primary generalized tonic-clonic seizures was established in a multicenter, double-blind, placebo-controlled trial in 117 pediatric and adult patients ≥2 years (n = 58 on LAMICTAL, n = 59 on placebo).
 Patients with at least 3 primary generalized tonic-clonic seizures during an 8-week baseline phase were randomized to 19 to 24 weeks of treatment with LAMICTAL or placebo added to their current AED regimen of up to 2 drugs.
-Patients were dosed on a fixed-dose regimen, with target doses ranging from 3 mg/day to 12 mg/kg/day for pediatric patients and from 200 mg/day to 400 mg/day for adult patients based on concomitant AED.
+Patients were dosed on a fixed-dose regimen, with target doses ranging from 3 mg/kg/day to 12 mg/kg/day for pediatric patients and from 200 mg/day to 400 mg/day for adult patients based on concomitant AED.
 
 The primary efficacy endpoint was percentage change from baseline in primary generalized tonic-clonic seizures.
-For the intent-to-treat population, the median percent reduction of primary generalized tonic-clonic seizures was 66% in patients treated with LAMICTAL and 34% on placebo, a difference that was statistically significant (p = 0.006).
+For the intent-to-treat population, the median percent reduction of primary generalized tonic-clonic seizures was 66% in patients treated with LAMICTAL and 34% on placebo, a difference that was statistically significant (P = 0.006).
 
 ## 14.2 Bipolar Disorder
 
