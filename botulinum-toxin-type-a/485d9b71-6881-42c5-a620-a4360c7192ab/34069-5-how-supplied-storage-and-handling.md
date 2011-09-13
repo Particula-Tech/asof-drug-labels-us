@@ -21,6 +21,6 @@ Reconstituted BOTOX® Cosmetic should be clear, colorless and free of particulat
 Do not use after the expiration date on the vial.
 All vials, including expired vials, or equipment used with the drug should be disposed of carefully as is done with all medical waste.
 
-Revised: 07/2011 © 2011 Allergan, Inc. ® mark owned by Allergan, Inc. U.S. Patents 6,974,578; 6,683,049; and 6,896,886
+Revised: 07/2011 © 2011 Allergan, Inc. ® marks owned by Allergan, Inc. U.S. Patents 5,437,291; 5,714,468; 6,667,041; 6,683,049; 6,896,886; 6,974,578; 7,001,602; 7,429,387; and 7,449,192
 
 Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc., 2525 Dupont Dr., Irvine, CA 92612
