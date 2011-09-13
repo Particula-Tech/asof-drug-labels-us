@@ -18,7 +18,8 @@ Adverse Events within 30 Days of Therapy in the Multicenter Study*
 | Other Bleeding | 6 | 13 |
 | Intraventricular Hemorrhage, All Grades | 29 | 24 |
 | Apnea | 28 | 26 |
-| Gastrointestinal Disorders non-Necrotizing Enterocolitis | 22 | 18 |
+| Gastrointestinal Disorders | 22 | 18 |
+| non-Necrotizing Enterocolitis |  |  |
 | Total Renal Events** | 21 | 15 |
 | Renal Failure | 1 | 3 |
 | Renal Insufficiency, Impairment | 6 | 4 |
