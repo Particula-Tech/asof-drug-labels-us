@@ -50,13 +50,12 @@ The relationship of these events to pioglitazone therapy is unknown.
 
 Rx only
 
-ACTOS® and ACTOPLUS MET® are trademarks of Takeda Pharmaceutical Company Limited and used under license by Takeda Pharmaceuticals America, Inc.
+ACTOS® and ACTOPLUS MET® are registered trademarks of Takeda Pharmaceutical Company Limited and used under license by Takeda Pharmaceuticals America, Inc.
 
-GLUCOPHAGE® is a registered trademark of Merck Sante S.A.S., an associate of Merck KGaA of Darmstadt, Germany.
-Licensed to Bristol-Myers Squibb Company.
+All other trademarks are the property of their respective owners.
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
-©2005 Takeda Pharmaceuticals America, Inc.
+©2005, 2011 Takeda Pharmaceuticals America, Inc.
 
-December 2008 APM0808-R6
+July 2011 APM001 R9

@@ -184,6 +184,13 @@ ACTOPLUS MET can cause other serious side effects including:
 - Fractures (broken bones), usually in the hand, upper arm, or foot in women.
   Talk to your doctor for advice on how to keep your bones healthy.
   It is not known if ACTOPLUS MET can affect the bones of children.
+- Bladder cancer.
+  There may be an increased chance of having bladder cancer when you take ACTOPLUS MET.
+  You should not take ACTOPLUS MET if you are receiving treatment for bladder cancer.
+  Tell your doctor right away if you have any of the following symptoms of bladder cancer:
+  - blood or a red color in your urine
+  - an increased need to urinate
+  - pain while you urinate
 - Low red blood cell count (anemia).
 - Low blood sugar (hypoglycemia).
   Lightheadedness, dizziness, shakiness, or hunger may indicate that your blood sugar is too low.
@@ -193,9 +200,6 @@ ACTOPLUS MET can cause other serious side effects including:
   Ovulation may happen when premenopausal women who do not have regular monthly periods take ACTOPLUS MET.
   This can increase the chance of pregnancy.
   See "What should I tell my doctor before taking ACTOPLUS MET?".
-
-In studies of pioglitazone (one of the medicines in ACTOPLUS MET), bladder cancer occurred in a few more people who were taking pioglitazone than in people who were taking other diabetes medicines.
-There were too few cases to know if the bladder cancer was related to pioglitazone.
 
 The most common side effects of ACTOPLUS MET reported in clinical trials included diarrhea, nausea, and upset stomach.
 These side effects usually happen during the first few weeks of treatment.
@@ -259,6 +263,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
-© 2009 Takeda Pharmaceuticals America, Inc.
+© 2009, 2011 Takeda Pharmaceuticals America, Inc.
 
-September 2009 APM0509-R1/MG
+July 2011 APM001 R9
