@@ -13,7 +13,7 @@ Levofloxacin should be discontinued if the patient experiences pain, swelling, i
 Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
 [see Adverse Reactions (6.3); Patient Counseling Information (17.3)].
 
-## 5.2 Exacerbation of myasthenia gravis
+## 5.2 Exacerbation of Myasthenia Gravis
 
 Fluoroquinolones, including levofloxacin, have neuromuscular blocking activity and may exacerbate muscle weakness in persons with myasthenia gravis.
 Postmarketing serious adverse events, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in persons with myasthenia gravis.
@@ -89,7 +89,7 @@ Elderly patients may be more susceptible to drug-associated effects on the QT in
 ## 5.10 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
 
 Levofloxacin is indicated in pediatric patients (≥ 6 months of age) only for the prevention of inhalational anthrax (post-exposure) [see Indications and Usage (1.13)].
-An increased incidence of musculoskeletal disorders (arthralgia, arthritis, tendonopathy, and gait abnormality) compared to controls has been observed in pediatric patients receiving levofloxacin [see Use in Specific Populations (8.4)].
+An increased incidence of musculoskeletal disorders (arthralgia, arthritis, tendinopathy, and gait abnormality) compared to controls has been observed in pediatric patients receiving levofloxacin [see Use in Specific Populations (8.4)].
 
 In immature rats and dogs, the oral and intravenous administration of levofloxacin resulted in increased osteochondrosis.
 Histopathological examination of the weight-bearing joints of immature dogs dosed with levofloxacin revealed persistent lesions of the cartilage.

@@ -73,7 +73,7 @@ Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials w
 | Gastrointestinal Disorders | gastritis stomatitis pancreatitis esophagitis gastroenteritis glossitis pseudomembraneous/ C. difficile colitis [see Warnings and Precautions (5.7)] |
 | Hepatobiliary Disorders | abnormal hepatic function increased hepatic enzymes increased alkaline phosphatase |
 | Skin and Subcutaneous Tissue Disorders | urticaria [see Warnings and Precautions (5.3)] |
-| Musculoskeletal and Connective Tissue Disorders | arthralgia tendonitis [see Warnings and Precautions (5.1)] myalgia skeletal pain |
+| Musculoskeletal and Connective Tissue Disorders | arthralgia tendinitis [see Warnings and Precautions (5.1)] myalgia skeletal pain |
 | Renal and Urinary Disorders | abnormal renal function acute renal failure [see Warnings and Precautions (5.4)] |
 | a N = 7274 |  |
 
@@ -98,7 +98,7 @@ Table 6: Postmarketing Reports Of Adverse Drug Reactions
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.9)] tachycardia |
 | Vascular Disorders | vasodilatation |
 | Respiratory, Thoracic and Mediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings and Precautions (5.4)] |
-| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.4),(5.5)] |
+| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.4), (5.5)] |
 | Skin and Subcutaneous Tissue Disorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis erythema multiforme [see Warnings and Precautions (5.4)] photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.12)] leukocytoclastic vasculitis |
 | Musculoskeletal and Connective Tissue Disorders | tendon rupture [see Warnings and Precautions (5.1)] muscle injury, including rupture rhabdomyolysis |
 | Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.4)] |

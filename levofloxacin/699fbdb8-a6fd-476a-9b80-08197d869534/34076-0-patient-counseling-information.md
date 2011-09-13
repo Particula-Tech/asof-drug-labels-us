@@ -19,7 +19,7 @@ Patients should be informed of the following serious adverse reactions that have
 
 - Tendon Disorders: Patients should contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue levofloxacin treatment.
   The risk of severe tendon disorders with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
-- Exacerbation of myasthenia gravis: Patients should inform their physician of any history of myasthenia gravis.
+- Exacerbation of Myasthenia Gravis: Patients should inform their physician of any history of myasthenia gravis.
   Patients should notify their physician if they experience any symptoms of muscle weakness, including respiratory difficulties.
 - Hypersensitivity Reactions: Patients should be informed that levofloxacin can cause hypersensitivity reactions, even following the first dose.
   Patients should discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (e.g., swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
@@ -52,6 +52,6 @@ SAGENT™
 
 Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2011 Sagent Pharmaceuticals, Inc.
 
-Revised: March 2011
+Revised: July 2011
 
 ## 17.5 FDA-Approved Medication Guide

@@ -6,7 +6,7 @@ Levofloxacin is a member of the fluoroquinolone class of antibacterial agents [s
 
 ## 12.3 Pharmacokinetics
 
-The mean ±SD pharmacokinetic parameters of levofloxacin determined under single and steady-state conditions following oral tablet, oral solution, or intravenous (IV) doses of levofloxacin are summarized in Table 8.
+The mean ± SD pharmacokinetic parameters of levofloxacin determined under single and steady-state conditions following oral tablet, oral solution, or intravenous (IV) doses of levofloxacin are summarized in Table 8.
 
 Table 8: Mean ±SD Levofloxacin PK Parameters
 
@@ -56,13 +56,13 @@ Absorption
 Levofloxacin is rapidly and essentially completely absorbed after oral administration.
 Peak plasma concentrations are usually attained one to two hours after oral dosing.
 The absolute bioavailability of levofloxacin from a 500 mg tablet and a 750 mg tablet of levofloxacin are both approximately 99%, demonstrating complete oral absorption of levofloxacin.
-Following a single intravenous dose of levofloxacin to healthy volunteers, the mean ±SD peak plasma concentration attained was 6.2 ±1.0 mcg/mL after a 500 mg dose infused over 60 minutes and 11.5 ±4.0 mcg/mL after a 750 mg dose infused over 90 minutes.
+Following a single intravenous dose of levofloxacin to healthy volunteers, the mean ± SD peak plasma concentration attained was 6.2 ± 1.0 mcg/mL after a 500 mg dose infused over 60 minutes and 11.5 ± 4.0 mcg/mL after a 750 mg dose infused over 90 minutes.
 Levofloxacin Oral Solution and Tablet formulations are bioequivalent.
 
 Levofloxacin pharmacokinetics are linear and predictable after single and multiple oral or IV dosing regimens.
 Steady-state conditions are reached within 48 hours following a 500 mg or 750 mg once-daily dosage regimen.
-The mean ±SD peak and trough plasma concentrations attained following multiple once-daily oral dosage regimens were approximately 5.7 ±1.4 and 0.5 ±0.2 mcg/mL after the 500 mg doses, and 8.6 ±1.9 and 1.1 ±0.4 mcg/mL after the 750 mg doses, respectively.
-The mean ±SD peak and trough plasma concentrations attained following multiple once-daily IV regimens were approximately 6.4 ±0.8 and 0.6 ±0.2 mcg/mL after the 500 mg doses, and 12.1 ±4.1 and 1.3 ±0.71 mcg/mL after the 750 mg doses, respectively.
+The mean ± SD peak and trough plasma concentrations attained following multiple once-daily oral dosage regimens were approximately 5.7 ± 1.4 and 0.5 ± 0.2 mcg/mL after the 500 mg doses, and 8.6 ± 1.9 and 1.1 ± 0.4 mcg/mL after the 750 mg doses, respectively.
+The mean ± SD peak and trough plasma concentrations attained following multiple once-daily IV regimens were approximately 6.4 ± 0.8 and 0.6 ± 0.2 mcg/mL after the 500 mg doses, and 12.1 ± 4.1 and 1.3 ± 0.71 mcg/mL after the 750 mg doses, respectively.
 Oral administration of a 500 mg dose of levofloxacin with food prolongs the time to peak concentration by approximately 1 hour and decreases the peak concentration by approximately 14% following tablet and approximately 25% following oral solution administration.
 Therefore, Levofloxacin Tablets can be administered without regard to food.
 It is recommended that Levofloxacin Oral Solution be taken 1 hour before, or 2 hours after eating.
@@ -80,7 +80,7 @@ The mean volume of distribution of levofloxacin generally ranges from 74 to 112 
 Levofloxacin reaches its peak levels in skin tissues and in blister fluid of healthy subjects at approximately 3 hours after dosing.
 The skin tissue biopsy to plasma AUC ratio is approximately 2 and the blister fluid to plasma AUC ratio is approximately 1 following multiple once-daily oral administration of 750 mg and 500 mg doses of levofloxacin, respectively, to healthy subjects.
 Levofloxacin also penetrates well into lung tissues.
-Lung tissue concentrations were generally 2- to 5- fold higher than plasma concentrations and ranged from approximately 2.4 to 11.3 mcg/g over a 24-hour period after a single 500 mg oral dose.
+Lung tissue concentrations were generally 2- to 5-fold higher than plasma concentrations and ranged from approximately 2.4 to 11.3 mcg/g over a 24-hour period after a single 500 mg oral dose.
 
 In vitro, over a clinically relevant range (1 to 10 mcg/mL) of serum/plasma levofloxacin concentrations, levofloxacin is approximately 24 to 38% bound to serum proteins across all species studied, as determined by the equilibrium dialysis method.
 Levofloxacin is mainly bound to serum albumin in humans.
@@ -253,7 +253,7 @@ Susceptibility testing for levofloxacin should be performed, as it is the optima
 - Diffusion techniques: Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
   One such standardized procedure2 requires the use of standardized inoculums concentrations.
   This procedure uses paper disks impregnated with 5 mcg levofloxacin to test the susceptibility of microorganisms to levofloxacin.
-  Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according the criteria outlined in Table 9.
+  Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according to the criteria outlined in Table 9.
   Interpretation involves correlation of the diameter obtained in the disk test with the MIC for levofloxacin.
   Table 9: Susceptibility Interpretive Criteria for Levofloxacin S = Susceptible, I = Intermediate, R = Resistant a These interpretive standards are applicable only to broth microdilution susceptibility testing with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium.1b The current absence of data on resistant strains precludes defining any categories other than "Susceptible."
   Strains yielding MIC /zone diameter results suggestive of a "nonsusceptible" category should be submitted to a reference laboratory for further testing. c These interpretive standards are applicable only to disk diffusion susceptibility testing with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium.2d These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2-5% lysed horse blood. e These zone diameter standards for Streptococcus spp. including S. pneumoniae apply only to tests performed using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2.
@@ -270,15 +270,16 @@ Table 10: Quality Control for Susceptibility Testing
 
 | Microorganism | Microorganism QC Number | MIC (mcg/mL) | Disk Diffusion (zone diameter in mm) |
 | --- | --- | --- | --- |
-| Enterococcus faecalis | ATCC 29212 | 0.25 – 2 | Not applicable |
+| Enterococcus faecalis | ATCC 29212 | 0.25 – 2 | -- |
 | Escherichia coli | ATCC 25922 | 0.008 – 0.06 | 29 – 37 |
-| Escherichia coli | ATCC 35218 | 0.015 – 0.06 | Not applicable |
+| Escherichia coli e | ATCC 35218 | 0.015 – 0.06 | -- |
 | Haemophilus influenzae | ATCC 49247 | 0.008 – 0.03a | 32 – 40b |
 | Pseudomonas aeruginosa | ATCC 27853 | 0.5 – 4 | 19 – 26 |
-| Staphylococcus aureus | ATCC 29213 | 0.06 – 0.5 | Not applicable |
-| Staphylococcus aureus | ATCC 25923 | Not applicable | 25 – 30 |
+| Staphylococcus aureus | ATCC 29213 | 0.06 – 0.5 | -- |
+| Staphylococcus aureus | ATCC 25923 | -- | 25 – 30 |
 | Streptococcus pneumoniae | ATCC 49619 | 0.5 – 2c | 20 – 25d |
 | a This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM).1 |  |  |  |
 | b This quality control range is applicable to only H. influenzae ATCC 49247 tested by a disk diffusion procedure using Haemophilus Test Medium (HTM).2 |  |  |  |
 | c This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2-5% lysed horse blood. |  |  |  |
 | d This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a disk diffusion procedure using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2. |  |  |  |
+| e Careful maintenance of this organism is required as the strain may lose its plasmid. |  |  |  |

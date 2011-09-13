@@ -70,7 +70,7 @@ Who should not take LEVOFLOXACIN?
 
 Do not take LEVOFLOXACIN if you have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone, or if you are allergic to any of the ingredients in LEVOFLOXACIN.
 Ask your healthcare provider if you are not sure.
-See the list of the ingredients in LEVOFLOXACIN at end of this Medication Guide.
+See the list of the ingredients in LEVOFLOXACIN at the end of this Medication Guide.
 
 What should I tell my healthcare provider before taking LEVOFLOXACIN?
 
@@ -281,7 +281,7 @@ LEVOFLOXACIN Injection in 5% dextrose in Single-Use Flexible Containers:
 - Inactive ingredients: Dextrose (D5W).
   Solutions of hydrochloric acid and sodium hydroxide may have been added to adjust the pH.
 
-Revised: March 2011
+Revised: July 2011
 
 SAGENT™
 
