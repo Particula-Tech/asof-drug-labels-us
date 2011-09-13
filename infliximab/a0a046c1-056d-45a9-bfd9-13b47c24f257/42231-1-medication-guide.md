@@ -277,7 +277,7 @@ You can ask your doctor or pharmacist for information about REMICADE that is wri
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-For more information go to www.remicade.com, or call 1-800-457-6399.
+For more information go to www.remicade.com, or call 1-800-JANSSEN (1-800-526-7736).
 
 What are the ingredients in REMICADE?
 
@@ -286,12 +286,12 @@ The active ingredient is Infliximab.
 The inactive ingredients in REMICADE include: sucrose, polysorbate 80, monobasic sodium phosphate monohydrate, and dibasic sodium phosphate dihydrate.
 No preservatives are present.
 
-Product developed and manufactured by: Centocor Ortho Biotech Inc. 200 Great Valley Parkway Malvern, PA 19355
+Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044
 
-License # 1821
+U.S. License No. 1864
 
-Revised February 2011
+Revised August 2011
 
-©Centocor Ortho Biotech Inc. 2011
+©Janssen Biotech, Inc. 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
