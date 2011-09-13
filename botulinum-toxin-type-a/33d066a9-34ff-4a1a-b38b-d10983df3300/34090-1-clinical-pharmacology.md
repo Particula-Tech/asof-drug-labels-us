@@ -10,6 +10,9 @@ There is evidence that reinnervation of the muscle may occur, thus slowly revers
 
 When injected intradermally, BOTOX produces temporary chemical denervation of the sweat gland resulting in local reduction in sweating.
 
+Following intradetrusor injection, BOTOX affects the efferent pathways of detrusor activity via inhibition of acetylcholine release.
+In addition, BOTOX is believed to inhibit afferent neurotransmitters and sensory pathways.
+
 ## 12.3 Pharmacokinetics
 
 Using currently available analytical technology, it is not possible to detect BOTOX in the peripheral blood following intramuscular injection at the recommended doses.

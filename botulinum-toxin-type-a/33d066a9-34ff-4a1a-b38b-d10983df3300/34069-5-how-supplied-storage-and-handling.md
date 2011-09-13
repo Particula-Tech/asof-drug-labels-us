@@ -15,7 +15,3 @@ Unopened vials of BOTOX should be stored in a refrigerator (2° to 8°C) for up 
 Do not use after the expiration date on the vial.
 Administer BOTOX within 24 hours of reconstitution; during this period reconstituted BOTOX should be stored in a refrigerator (2° to 8°C).
 Reconstituted BOTOX should be clear, colorless, and free of particulate matter.
-
-All vials, including expired vials, or equipment used with the drug should be disposed of carefully, as is done with all medical waste.
-
-Rx Only

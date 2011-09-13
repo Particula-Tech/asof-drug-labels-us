@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+“See FDA-approved patient labeling (Medication Guide)”
+
 Provide a copy of the Medication Guide and review the contents with the patient.
 
 ## 17.1 Swallowing, Speaking or Breathing Difficulties, or Other Unusual Symptoms
@@ -10,4 +12,6 @@ Patients should be advised to inform their doctor or pharmacist if they develop 
 
 Patients should be counseled that if loss of strength, muscle weakness, blurred vision, or drooping eyelids occur, they should avoid driving a car or engaging in other potentially hazardous activities.
 
-## 17.3 Medication Guide
+## 17.3 Voiding Difficulties after Bladder Injections
+
+After bladder injections for urinary incontinence, patients should be instructed to contact their physician if they experience difficulties in voiding.

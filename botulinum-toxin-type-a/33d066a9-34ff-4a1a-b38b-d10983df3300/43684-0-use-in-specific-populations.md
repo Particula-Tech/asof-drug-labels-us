@@ -24,11 +24,19 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## 8.4 Pediatric Use
 
+Urinary Incontinence due to Detrusor Overactivity associated with a Neurologic Condition
+
+Safety and effectiveness in patients below the age of 18 years have not been established.
+
 Prophylaxis of Headaches in Chronic Migraine
 
 Safety and effectiveness in patients below the age of 18 years have not been established.
 
 Spasticity
+
+Safety and effectiveness in patients below the age of 18 years have not been established.
+
+Axillary Hyperhidrosis
 
 Safety and effectiveness in patients below the age of 18 years have not been established.
 
@@ -39,10 +47,6 @@ Safety and effectiveness in pediatric patients below the age of 16 years have no
 Blepharospasm and Strabismus
 
 Safety and effectiveness in pediatric patients below the age of 12 years have not been established.
-
-Axillary Hyperhidrosis
-
-Safety and effectiveness in patients below the age of 18 years have not been established.
 
 ## 8.5 Geriatric Use
 

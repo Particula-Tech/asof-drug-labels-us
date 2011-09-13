@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-BOTOX (onabotulinumtoxinA) for injection is a sterile, vacuum-dried purified botulinum toxin type A, produced from fermentation of Hall strain Clostridium botulinum type A, and intended for intramuscular and intradermal use.
+BOTOX (onabotulinumtoxinA) for injection is a sterile, vacuum-dried purified botulinum toxin type A, produced from fermentation of Hall strain Clostridium botulinum type A, and intended for intramuscular, intradetrusor and intradermal use.
 It is purified from the culture solution by dialysis and a series of acid precipitations to a complex consisting of the neurotoxin, and several accessory proteins.
 The complex is dissolved in sterile sodium chloride solution containing Albumin Human and is sterile filtered (0.2 microns) prior to filling and vacuum-drying.
 
