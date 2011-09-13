@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA200503"
+  ],
+  "inn": "tramadol",
+  "labeler": "LUPIN PHARMACEUTICALS INC",
+  "package_ndcs": [
+    "68180-383-01",
+    "68180-383-02",
+    "68180-383-06",
+    "68180-384-01",
+    "68180-384-02",
+    "68180-384-06",
+    "68180-385-01",
+    "68180-385-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "tramadol hydrochloride",
+      "name": "Tramadol Hydrochloride"
+    }
+  ],
+  "setid": "3e0ccb95-3e8e-477c-b4d2-6060ee05f930",
+  "source": "dailymed"
+}
