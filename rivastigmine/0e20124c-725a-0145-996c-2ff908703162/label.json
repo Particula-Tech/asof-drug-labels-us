@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA077130"
+  ],
+  "inn": "rivastigmine",
+  "labeler": "Dr.Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-352-05",
+    "55111-352-60",
+    "55111-353-05",
+    "55111-353-60",
+    "55111-354-05",
+    "55111-354-60",
+    "55111-355-05",
+    "55111-355-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "rivastigmine tartrate",
+      "name": "Rivastigmine Tartrate"
+    }
+  ],
+  "setid": "0e20124c-725a-0145-996c-2ff908703162",
+  "source": "dailymed"
+}
