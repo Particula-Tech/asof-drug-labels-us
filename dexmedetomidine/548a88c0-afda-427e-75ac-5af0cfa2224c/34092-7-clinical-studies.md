@@ -34,17 +34,12 @@ Table 10: Midazolam Use as Rescue Medication During Intubation (ITT) Study One
 
 |  | Placebo N=175 | Precedex N=178 | p-value |
 | --- | --- | --- | --- |
-| Mean Total Dose (mg) of MidazolamStandard deviation | 19 mg53 mg | 5 mg19 mg | 0.0011* |
+| Mean Total Dose (mg) of Midazolam Standard deviation | 19 mg53 mg | 5 mg19 mg | 0.0011* |
 | Categorized Midazolam Use |  |  |  |
 | 0 mg | 43 (25%) | 108 (61%) | <0.001** |
 | 0-4 mg | 34 (19%) | 36 (20%) |  |
 | >4 mg | 98 (56%) | 34 (19%) |  |
-
-ITT (intent-to-treat) population includes all randomized patients.
-
-* ANOVA model with treatment center.
-
-** Chi-square
+| ITT (intent-to-treat) population includes all randomized patients.* ANOVA model with treatment center.** Chi-square |  |  |  |
 
 A prospective secondary analysis assessed the dose of morphine sulfate administered to patients in the Precedex and placebo groups.
 On average, Precedex-treated patients received less morphine sulfate for pain than placebo-treated patients (0.47 versus 0.83 mg/h).
@@ -64,15 +59,12 @@ Table 11: Propofol Use as Rescue Medication During Intubation (ITT) Study Two
 
 |  | Placebo N=198 | Precedex N=203 | p-value |
 | --- | --- | --- | --- |
-| Mean Total Dose (mg) of PropofolStandard deviation | 513 mg782 mg | 72 mg249 mg | <0.0001* |
+| Mean Total Dose (mg) of Propofol Standard deviation | 513 mg782 mg | 72 mg249 mg | <0.0001* |
 | Categorized Propofol Use |  |  |  |
 | 0 mg | 47 (24%) | 122 (60%) | <0.001** |
 | 0-50 mg | 30 (15%) | 43 (21%) |  |
 | >50 mg | 121 (61%) | 38 (19%) |  |
-
-* ANOVA model with treatment center.
-
-** Chi-square
+| * ANOVA model with treatment center.** Chi-square. |  |  |  |
 
 A prospective secondary analysis assessed the dose of morphine sulfate administered to patients in the Precedex and placebo groups.
 On average, Precedex-treated patients received less morphine sulfate for pain than placebo-treated patients (0.43 versus 0.89 mg/h).
@@ -124,7 +116,4 @@ Table 13: Key Efficacy Results of Procedural Sedation Studies
 | placebo | 63 | 3 | — | 4.1 (3.0) | — |  |
 | Study 2 | Precedex 1 mcg/kg | 55 | 53 | 39 (20, 57) | 1.1 (1.5) | -1.8 (-2.7, -0.9) |
 | placebo | 50 | 14 | — | 2.9 (3.0) | — |  |
-
-aBased on ITT population defined as all randomized and treated patients.
-
-bNormal approximation to the binomial with continuity correction.
+| a Based on ITT population defined as all randomized and treated patients.b Normal approximation to the binomial with continuity correction. |  |  |  |  |  |  |

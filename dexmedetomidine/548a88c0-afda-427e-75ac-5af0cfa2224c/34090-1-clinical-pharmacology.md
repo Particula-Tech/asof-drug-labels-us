@@ -26,14 +26,8 @@ Table 8: Mean ± SD Pharmacokinetic Parameters
 | Parameter | Loading Infusion (min)/Total Infusion Duration (hrs) |  |  |  |
 | 10 min/12 hrs | 10 min/24 hrs | 10 min/24 hrs | 35 min/24 hrs |  |
 | Precedex Target Plasma Concentration (ng/mL) and Dose (mcg/kg/hr) |  |  |  |  |
-| t1/2*, hourCL, liter/hourVss, liter Avg Css #, ng/mL | 1.78 ± 0.3046.3 ± 8.388.7 ± 22.90.27 ± 0.05 | 2.22 ± 0.5943.1 ± 6.5102.4 ± 20.30.27 ± 0.05 | 2.23 ± 0.2135.3 ± 6.893.6 ± 17.00.67 ± 0.10 | 2.50 ± 0.6136.5 ± 7.599.6 ± 17.81.37 ± 0.20 |
-
-* Presented as harmonic mean and pseudo standard deviation.
-
-# Mean Css = Average steady-state concentration of Precedex.
-The mean Css was calculated based on post-dose sampling from 2.5 to 9 hours samples for 12 hour infusion and post-dose sampling from 2.5 to 18 hours for 24 hour infusions.
-
-The loading doses for each of the above indicated groups were 0.5, 0.5, 1 and 2.2 mcg/kg, respectively.
+| t1/2*, hourCL, liter/hourVss, liter Avg Css#, ng/mL | 1.78 ± 0.3046.3 ± 8.388.7 ± 22.90.27 ± 0.05 | 2.22 ± 0.5943.1 ± 6.5102.4 ± 20.30.27 ± 0.05 | 2.23 ± 0.2135.3 ± 6.893.6 ± 17.00.67 ± 0.10 | 2.50 ± 0.6136.5 ± 7.599.6 ± 17.81.37 ± 0.20 |
+| * Presented as harmonic mean and pseudo standard deviation.# Mean Css = Average steady-state concentration of Precedex. The mean Css was calculated based on post-dose sampling from 2.5 to 9 hours samples for 12 hour infusion and post-dose sampling from 2.5 to 18 hours for 24 hour infusions. The loading doses for each of the above indicated groups were 0.5, 0.5, 1 and 2.2 mcg/kg, respectively. |  |  |  |  |
 
 Dexmedetomidine pharmacokinetic parameters after Precedex maintenance doses of 0.2 to 1.4 mcg/kg/hr for >24 hours were similar to the PK parameters after Precedex maintenance dosing for < 24 hours in other studies.
 The values for clearance (CL), volume of distribution (V), and t1/2 were 39.4 L/hr, 152 L, and 2.67 hours, respectively.
