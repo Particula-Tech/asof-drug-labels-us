@@ -28,9 +28,9 @@ Bottles of 30 NDC 55111-684-30
 
 Bottles of 50 NDC 55111-684-50
 
-Bottles of 60 NDC 55111-684-6
+Bottles of 60 NDC 55111-684-60
 
-0Bottles of 90 NDC 55111-684-09
+Bottles of 90 NDC 55111-684-09
 
 Bottles of 100 NDC 55111-684-01
 
@@ -45,4 +45,4 @@ Dr. Reddy’s Laboratories, Inc.
 
 Bridgewater, NJ 08807 USA
 
-Issued February, 2010
+Issued May, 2011
