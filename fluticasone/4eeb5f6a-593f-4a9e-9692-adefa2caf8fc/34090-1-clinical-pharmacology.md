@@ -40,17 +40,17 @@ The potential effect of salmeterol on the effects of fluticasone propionate on t
 HPA Axis Effects: No significant differences across treatments were observed in 24-hour urinary cortisol excretion and, where measured, 24-hour plasma cortisol AUC.
 The systemic pharmacodynamic effects of fluticasone propionate were not altered by the presence of salmeterol in ADVAIR DISKUS in healthy subjects.
 
-Asthma:Adults and Adolescent Patients: Cardiovascular Effects: In clinical studies with ADVAIR DISKUS in adult and adolescent patients aged 12 years and older with asthma, no significant differences were observed in the systemic pharmacodynamic effects of salmeterol (pulse rate, blood pressure, QTc interval, potassium, and glucose) whether the salmeterol was given alone or as ADVAIR DISKUS.
-In 72 adolescent and adult patients with asthma given either ADVAIR DISKUS 100/50 or ADVAIR DISKUS 250/50, continuous 24-hour electrocardiographic monitoring was performed after the first dose and after 12 weeks of therapy, and no clinically significant dysrhythmias were noted.
+Asthma:Adult and Adolescent Patients: Cardiovascular Effects: In clinical studies with ADVAIR DISKUS in adult and adolescent patients aged 12 years and older with asthma, no significant differences were observed in the systemic pharmacodynamic effects of salmeterol (pulse rate, blood pressure, QTc interval, potassium, and glucose) whether the salmeterol was given alone or as ADVAIR DISKUS.
+In 72 adult and adolescent patients with asthma given either ADVAIR DISKUS 100/50 or ADVAIR DISKUS 250/50, continuous 24-hour electrocardiographic monitoring was performed after the first dose and after 12 weeks of therapy, and no clinically significant dysrhythmias were noted.
 
-HPA Axis Effects: In a 28-week study in adolescent and adult patients with asthma, ADVAIR DISKUS 500/50 twice daily was compared with the concurrent use of salmeterol powder 50 mcg plus fluticasone propionate powder 500 mcg from separate inhalers or fluticasone propionate powder 500 mcg alone.
+HPA Axis Effects: In a 28-week study in adult and adolescent patients with asthma, ADVAIR DISKUS 500/50 twice daily was compared with the concurrent use of salmeterol powder 50 mcg plus fluticasone propionate powder 500 mcg from separate inhalers or fluticasone propionate powder 500 mcg alone.
 No significant differences across treatments were observed in serum cortisol AUC after 12 weeks of dosing or in 24-hour urinary cortisol excretion after 12 and 28 weeks.
 
-In a 12-week study in adolescent and adult patients with asthma, ADVAIR DISKUS 250/50 twice daily was compared with fluticasone propionate powder 250 mcg alone, salmeterol powder 50 mcg alone, and placebo.
+In a 12-week study in adult and adolescent patients with asthma, ADVAIR DISKUS 250/50 twice daily was compared with fluticasone propionate powder 250 mcg alone, salmeterol powder 50 mcg alone, and placebo.
 For most patients, the ability to increase cortisol production in response to stress, as assessed by 30-minute cosyntropin stimulation, remained intact with ADVAIR DISKUS.
 One patient (3%) who received ADVAIR DISKUS 250/50 had an abnormal response (peak serum cortisol <18 mcg/dL) after dosing, compared with 2 patients (6%) who received placebo, 2 patients (6%) who received fluticasone propionate 250 mcg, and no patients who received salmeterol.
 
-In a repeat-dose, 3-way crossover study, 1 inhalation twice daily of ADVAIR DISKUS 100/50, FLOVENT® DISKUS® 100 mcg (fluticasone propionate inhalation powder, 100 mcg), or placebo was administered to 20 adolescent and adult patients with asthma.
+In a repeat-dose, 3-way crossover study, 1 inhalation twice daily of ADVAIR DISKUS 100/50, FLOVENT® DISKUS® 100 mcg (fluticasone propionate inhalation powder, 100 mcg), or placebo was administered to 20 adult and adolescent patients with asthma.
 After 28 days of treatment, geometric mean serum cortisol AUC over 12 hours showed no significant difference between ADVAIR DISKUS and FLOVENT DISKUS or between either active treatment and placebo.
 
 Pediatric Patients:HPA Axis Effects: In a 12-week study in patients with asthma aged 4 to 11 years who were receiving inhaled corticosteroids at study entry, ADVAIR DISKUS 100/50 twice daily was compared with fluticasone propionate inhalation powder 100 mcg administered twice daily via the DISKUS.
@@ -66,7 +66,7 @@ No significant differences in ventricular or supraventricular arrhythmias and he
 One (1) subject in the fluticasone propionate group experienced atrial flutter/atrial fibrillation, and 1 subject in the group given ADVAIR DISKUS 500/50 experienced heart block.
 There were 3 cases of nonsustained ventricular tachycardia (1 each in the placebo, salmeterol, and fluticasone propionate 500-mcg treatment groups).
 
-In 24-week clinical studies in patients with COPD, the incidence of clinically significant electrocardiogram (ECG) abnormalities (myocardial ischemia, ventricular hypertrophy, clinically significant conduction abnormalities, clinically significant arrhythmias) was lower for patients who received salmeterol (1%, 9 of 688 patients who received either salmeterol 50 mcg or ADVAIR DISKUS) compared with placebo (3%, 10 of 370 patients).
+In 24-week clinical studies in patients with COPD, the incidence of clinically significant ECG abnormalities (myocardial ischemia, ventricular hypertrophy, clinically significant conduction abnormalities, clinically significant arrhythmias) was lower for patients who received salmeterol (1%, 9 of 688 patients who received either salmeterol 50 mcg or ADVAIR DISKUS) compared with placebo (3%, 10 of 370 patients).
 
 No significant differences with salmeterol 50 mcg alone or in combination with fluticasone propionate as ADVAIR DISKUS 500/50 were observed on pulse rate and systolic and diastolic blood pressure in a subset of patients with COPD who underwent 12-hour serial vital sign measurements after the first dose (N = 183) and after 12 weeks of therapy (N = 149).
 Median changes from baseline in pulse rate and systolic and diastolic blood pressure were similar to those seen with placebo.
@@ -95,7 +95,7 @@ The effects of rising doses of inhaled salmeterol and standard inhaled doses of 
 Salmeterol doses up to 84 mcg administered as inhalation aerosol resulted in heart rate increases of 3 to 16 beats/min, about the same as albuterol dosed at 180 mcg by inhalation aerosol (4 to 10 beats/min).
 Adolescent and adult patients receiving 50-mcg doses of salmeterol inhalation powder (N = 60) underwent continuous electrocardiographic monitoring during two 12-hour periods after the first dose and after 1 month of therapy, and no clinically significant dysrhythmias were noted.
 
-Concomitant Use of ADVAIR DISKUS With Other Respiratory Medications: Short-Acting Beta2-Agonists: In clinical trials with patients with asthma, the mean daily need for albuterol by 166 adult and adolescent patients aged 12 years and older using ADVAIR DISKUS was approximately 1.3 inhalations/day, and ranged from 0 to 9 inhalations/day.
+Concomitant Use of ADVAIR DISKUS With Other Respiratory Medications: Short-Acting Beta2-Agonists: In clinical trials with patients with asthma, the mean daily need for albuterol by 166 adult and adolescent patients aged 12 years and older using ADVAIR DISKUS was approximately 1.3 inhalations/day and ranged from 0 to 9 inhalations/day.
 Five percent (5%) of patients using ADVAIR DISKUS in these trials averaged 6 or more inhalations per day over the course of the 12-week trials.
 No increase in frequency of cardiovascular adverse reactions was observed among patients who averaged 6 or more inhalations per day.
 

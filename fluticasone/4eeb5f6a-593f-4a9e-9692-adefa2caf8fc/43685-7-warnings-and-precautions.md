@@ -5,7 +5,7 @@
 LABAs, such as salmeterol, one of the active ingredients in ADVAIR DISKUS, increase the risk of asthma-related death.
 Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABAs.
 Available data from controlled clinical trials suggest that LABAs increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
-Therefore, when treating patients with asthma, physicians should only prescribe ADVAIR DISKUS for patients not adequately controlled on a long-term asthma-control medication, such as an inhaled corticosteroid, or whose disease severity clearly warrants initiation of treatment with both an inhaled corticosteroid and a LABA.
+Therefore, when treating patients with asthma, physicians should only prescribe ADVAIR DISKUS for patients not adequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid, or whose disease severity clearly warrants initiation of treatment with both an inhaled corticosteroid and a LABA.
 Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue ADVAIR DISKUS) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
 Do not use ADVAIR DISKUS for patients whose asthma is adequately controlled on low- or medium-dose inhaled corticosteroids.
 
@@ -168,7 +168,7 @@ Therefore, ADVAIR DISKUS, like all products containing sympathomimetic amines, s
 
 Salmeterol, a component of ADVAIR DISKUS, can produce a clinically significant cardiovascular effect in some patients as measured by pulse rate, blood pressure, and/or symptoms.
 Although such effects are uncommon after administration of salmeterol at recommended doses, if they occur, the drug may need to be discontinued.
-In addition, beta-agonists have been reported to produce ECG changes, such as flattening of the T wave, prolongation of the QTc interval, and ST segment depression.
+In addition, beta-agonists have been reported to produce electrocardiogram (ECG) changes, such as flattening of the T wave, prolongation of the QTc interval, and ST segment depression.
 The clinical significance of these findings is unknown.
 Large doses of inhaled or oral salmeterol (12 to 20 times the recommended dose) have been associated with clinically significant prolongation of the QTc interval, which has the potential for producing ventricular arrhythmias.
 Fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs.

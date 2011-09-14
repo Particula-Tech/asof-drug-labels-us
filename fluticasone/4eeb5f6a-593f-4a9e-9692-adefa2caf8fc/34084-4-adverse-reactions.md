@@ -19,7 +19,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 ## 6.1 Clinical Trials Experience in Asthma
 
 Adult and Adolescent Patients Aged 12 Years and Older: The incidence of adverse reactions associated with ADVAIR DISKUS in Table 2 is based upon 2 placebo-controlled, 12-week, US clinical studies (Studies 1 and 2).
-A total of 705 adolescent and adult patients (349 females and 356 males) previously treated with salmeterol or inhaled corticosteroids were treated twice daily with ADVAIR DISKUS (100/50- or 250/50-mcg doses), fluticasone propionate inhalation powder (100- or 250-mcg doses), salmeterol inhalation powder 50 mcg, or placebo.
+A total of 705 adult and adolescent patients (349 females and 356 males) previously treated with salmeterol or inhaled corticosteroids were treated twice daily with ADVAIR DISKUS (100/50- or 250/50-mcg doses), fluticasone propionate inhalation powder (100- or 250-mcg doses), salmeterol inhalation powder 50 mcg, or placebo.
 The average duration of exposure was 60 to 79 days in the active treatment groups compared with 42 days in the placebo group.
 
 Table 2.

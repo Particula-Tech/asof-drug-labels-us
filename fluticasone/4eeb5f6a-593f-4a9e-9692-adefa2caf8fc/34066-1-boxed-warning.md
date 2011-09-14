@@ -1,7 +1,7 @@
 # WARNING: ASTHMA-RELATED DEATH
 
 Long-acting beta2-adrenergic agonists (LABAs), such as salmeterol, one of the active ingredients in ADVAIR DISKUS®, increase the risk of asthma-related death.
-Data from a large placebo-controlled US study that compared the safety of salmeterol (SEREVENT® Inhalation Aerosol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol (13 deaths out of 13,176 patients treated for 28 weeks on salmeterol versus 3 out of 13,179 patients on placebo).
+Data from a large placebo-controlled US study that compared the safety of salmeterol (SEREVENT®showed an increase in asthma-related deaths in patients receiving salmeterol (13 deaths out of 13,176 patients treated for 28 weeks on salmeterol versus 3 o Inhalation Aerosol) or placebo added to usual asthma therapy ut of 13,179 patients on placebo).
 Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABAs.
 Available data from controlled clinical trials suggest that LABAs increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 
