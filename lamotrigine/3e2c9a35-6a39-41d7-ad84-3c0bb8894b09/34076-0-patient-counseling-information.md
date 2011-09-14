@@ -6,7 +6,7 @@ See FDA-approved patient labeling (Medication Guide).
 
 Prior to initiation of treatment with LAMICTAL XR, the patient should be instructed that a rash or other signs or symptoms of hypersensitivity (e.g., fever, lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately.
 
-## 17.2 Multiorgan Hypersensitivity Reactions, Blood Dyscrasias and Organ Failure
+## 17.2 Multiorgan Hypersensitivity Reactions, Blood Dyscrasias, and Organ Failure
 
 Patients should be instructed that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with LAMICTAL.
 Isolated organ failure or isolated blood dyscrasias without evidence of multiorgan hypersensitivity may also occur.
@@ -26,7 +26,7 @@ Patients should be advised to notify their physicians if worsening of seizure co
 Patients should be advised that LAMICTAL XR may cause dizziness, somnolence, and other symptoms and signs of central nervous system depression.
 Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on LAMICTAL XR to gauge whether or not it adversely affects their mental and/or motor performance.
 
-## 17.6 Pregnancy
+## 17.6 Pregnancy and Nursing
 
 Patients should be advised to notify their physicians if they become pregnant or intend to become pregnant during therapy.
 Patients should be advised to notify their physicians if they intend to breastfeed or are breastfeeding an infant.
@@ -34,6 +34,9 @@ Patients should be advised to notify their physicians if they intend to breastfe
 Patients should also be encouraged to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
+
+Patients who intend to breastfeed should be informed that LAMICTAL XR is present in breast milk and that they should monitor their child for potential adverse effects of this drug.
+Benefits and risks of continuing breastfeeding should be discussed with the patient.
 
 ## 17.7 Oral Contraceptive Use
 
@@ -73,6 +76,6 @@ Research Triangle Park, NC 27709
 ©2011, GlaxoSmithKline.
 All rights reserved.
 
-August 2011
+September 2011
 
-LXR:9PI
+LXR:10PI

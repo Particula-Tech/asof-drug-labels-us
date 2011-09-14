@@ -122,8 +122,7 @@ What is LAMICTAL XR?
 LAMICTAL XR is a prescription medicine used:
 
 - together with other medicines to treat primary generalized tonic-clonic seizures and partial onset seizures in people 13 years of age and older.
-- alone to treat partial seizures when changing from certain other medicines used in people 13 years and older.
-  It is not known if LAMICTAL XR is safe or effective in children less than 13 years of age.
+- alone to treat partial seizures when changing from certain other medicines used in people 13 years and older.It is not known if LAMICTAL XR is safe or effective in children less than 13 years of age.
   Other forms of lamotrigine can be used in children aged 2 to 12 years.
 
 Who should not take LAMICTAL XR?
@@ -148,8 +147,10 @@ Before taking LAMICTAL XR, tell your healthcare provider about all of your medic
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
 - are breastfeeding.
-  LAMICTAL XR can pass into your breast milk.
-  You and your healthcare provider should decide if you should take LAMICTAL XR or breastfeed.
+  LAMICTAL XR passes into breast milk and may cause side effects in a breastfed baby.
+  If you breastfeed while taking LAMICTAL XR, watch your baby closely for trouble breathing, episodes of temporarily stopping breathing, sleepiness, or poor sucking.
+  Call your baby’s healthcare provider right away if you see any of these problems.
+  Talk to your healthcare provider about the best way to feed your baby if you take LAMICTAL XR.
 
 Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Using LAMICTAL XR with certain other medicines can affect each other, causing side effects.
@@ -240,6 +241,6 @@ Research Triangle Park, NC 27709
 ©2011, GlaxoSmithKline.
 All rights reserved.
 
-June 2011
+September 2011
 
-LXR:7MG
+LXR:8MG

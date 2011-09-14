@@ -102,11 +102,11 @@ Meana Pharmacokinetic Parameters of Immediate-Release Lamotrigine in Healthy Vol
 | Single-dose lamotrigine | 24 | 14.4(6.4-30.4) | 1.10(0.51-2.22) |
 | Multiple-dose lamotrigine | 17 | 12.6(7.5-23.1) | 1.21(0.66-1.82) |
 
-a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for Tmax.
+aThe majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for Tmax.
 The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/patients in each study.
 The numbers in parentheses below each parameter mean represent the range of individual volunteer/patient values across studies.
 
-b Carbamazepine, phenobarbital, phenytoin, and primidone have been shown to increase the apparent clearance of lamotrigine.
+bCarbamazepine, phenobarbital, phenytoin, and primidone have been shown to increase the apparent clearance of lamotrigine.
 Estrogen-containing oral contraceptives and other drugs such as rifampin that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
 
 Drug Interactions: The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.7, 5.11), Drug Interactions (7)].
@@ -254,7 +254,7 @@ The patients with severe hepatic impairment were without ascites (n = 2) or with
 The mean apparent clearances of lamotrigine in patients with mild (n = 12), moderate (n = 5), severe without ascites (n = 2), and severe with ascites (n = 5) liver impairment were 0.30 ± 0.09, 0.24 ± 0.1, 0.21 ± 0.04, and 0.15 ± 0.09 mL/min/kg, respectively, as compared with 0.37 ± 0.1 mL/min/kg in the healthy controls.
 Mean half-lives of lamotrigine in patients with mild, moderate, severe without ascites, and severe with ascites hepatic impairment were 46 ± 20, 72 ± 44, 67 ± 11, and 100 ± 48 hours, respectively, as compared with 33 ± 7 hours in healthy controls [see Dosage and Administration (2.1)].
 
-Elderly: The pharmacokinetics of lamotrigine following a single 150 mg dose of immediate-release lamotrigine were evaluated in 12 elderly volunteers between the ages of 65 and 76 years (mean creatinine clearance: 61 mL/min, range: 33 to 108 mL/min).
+Elderly: The pharmacokinetics of lamotrigine following a single 150-mg dose of immediate-release lamotrigine were evaluated in 12 elderly volunteers between the ages of 65 and 76 years (mean creatinine clearance: 61 mL/min, range: 33 to 108 mL/min).
 The mean half-life of lamotrigine in these subjects was 31.2 hours (range: 24.5 to 43.4 hours), and the mean clearance was 0.40 mL/min/kg (range: 0.26 to 0.48 mL/min/kg).
 
 Gender: The clearance of lamotrigine is not affected by gender.

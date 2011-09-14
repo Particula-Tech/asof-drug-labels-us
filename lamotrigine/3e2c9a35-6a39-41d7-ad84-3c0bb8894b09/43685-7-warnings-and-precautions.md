@@ -84,7 +84,7 @@ Anyone considering prescribing LAMICTAL XR or any other AED must balance the ris
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression; any unusual changes in mood or behavior; or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.5 Aseptic Meningitis

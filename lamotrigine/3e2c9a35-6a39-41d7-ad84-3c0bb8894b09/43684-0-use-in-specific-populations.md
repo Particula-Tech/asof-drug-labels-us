@@ -35,7 +35,14 @@ The effect of LAMICTAL XR on labor and delivery in humans is unknown.
 
 ## 8.3 Nursing Mothers
 
-Preliminary data indicate that lamotrigine is excreted in human milk.
+Lamotrigine is present in milk from lactating women taking LAMICTAL XR.
+Data from multiple small studies indicate that lamotrigine plasma levels in human milk-fed infants have been reported to be as high as 50% of the maternal serum levels.
+Neonates and young infants are at risk for high serum levels because maternal serum and milk levels can rise to high levels postpartum if lamotrigine dosage has been increased during pregnancy but not later reduced to the pre-pregnancy dosage.
+Lamotrigine exposure is further increased due to the immaturity of the infant glucuronidation capacity needed for drug clearance.
+Events including apnea, drowsiness, and poor sucking have been reported in infants who have been human milk-fed by mothers using lamotrigine; whether or not these events were caused by lamotrigine is unknown.
+Human milk-fed infants should be closely monitored for adverse events resulting from lamotrigine.
+Measurement of infant serum levels should be performed to rule out toxicity if concerns arise.
+Human milk-feeding should be discontinued in infants with lamotrigine toxicity.
 Caution should be exercised when LAMICTAL XR is administered to a nursing woman.
 
 ## 8.4 Pediatric Use

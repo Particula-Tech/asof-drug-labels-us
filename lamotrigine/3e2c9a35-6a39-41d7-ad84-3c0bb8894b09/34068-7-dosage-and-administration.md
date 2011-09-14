@@ -20,7 +20,7 @@ The greater the interval of time since the previous dose, the greater considerat
 If a patient has discontinued lamotrigine for a period of more than 5 half-lives, it is recommended that initial dosing recommendations and guidelines be followed.
 The half-life of lamotrigine is affected by other concomitant medications [see Clinical Pharmacology (12.3)].
 
-LAMICTAL XR Added to Drugs Known to Induce or Inhibit Glucuronidation: Drugs other than those listed in the Clinical Pharmacology section [seeClinical Pharmacology(12.3)] have not been systematically evaluated in combination with lamotrigine.
+LAMICTAL XR Added to Drugs Known to Induce or Inhibit Glucuronidation: Drugs other than those listed in the Clinical Pharmacology section [see Clinical Pharmacology (12.3)] have not been systematically evaluated in combination with lamotrigine.
 Because lamotrigine is metabolized predominantly by glucuronic acid conjugation, drugs that are known to induce or inhibit glucuronidation may affect the apparent clearance of lamotrigine and doses of LAMICTAL XR may require adjustment based on clinical response.
 
 Target Plasma Levels: A therapeutic plasma concentration range has not been established for lamotrigine.
@@ -87,7 +87,7 @@ Escalation Regimen for LAMICTAL XR in Patients ≥13 Years of Age
 aValproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
 bThese drugs induce lamotrigine glucuronidation and increase clearance [see Drug Interactions (7), Clinical Pharmacology (12.3)].
-Other drugs which have similar effects include estrogen-containing oral contraceptives [see Drug Interactions (7), Clinical Pharmacology (12.3)].
+Other drugs that have similar effects include estrogen-containing oral contraceptives [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 Dosing recommendations for oral contraceptives can be found in General Dosing Considerations [see Dosage and Administration (2.1)].
 Patients on rifampin, or other drugs that induce lamotrigine glucuronidation and increase clearance, should follow the same dosing titration/maintenance regimen as that used with anticonvulsants that have this effect.
 
