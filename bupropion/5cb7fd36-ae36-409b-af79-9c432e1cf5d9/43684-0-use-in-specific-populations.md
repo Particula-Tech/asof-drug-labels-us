@@ -38,11 +38,11 @@ In addition, several hundred patients 65 and over participated in clinical trial
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 Reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
-A single-dose pharmacokinetic study demonstrated that the disposition of bupropion and its metabolites in elderly subjects was similar to that of younger subjects; however, another pharmacokinetic study, single and multiple dose, has suggested that the elderly are at increased risk for accumulation of bupropion and its metabolites [see CLINICAL PHARMACOLOGY: Pharmacokinetics (12.3)].
+A single-dose pharmacokinetic study demonstrated that the disposition of bupropion and its metabolites in elderly subjects was similar to that of younger subjects; however, another pharmacokinetic study, single and multiple dose, has suggested that the elderly are at increased risk for accumulation of bupropion and its metabolites [see CLINICAL PHARMACOLOGY, Pharmacokinetics (12.3)].
 
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and excreted by the kidneys.
 The risk of toxic reaction to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see DOSAGE AND ADMINISTRATION: Dosage Adjustment in Patients With Impaired Renal Function (2.6) and USE IN SPECIFIC POPULATIONS: Renal Impairment (8.6)].
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see DOSAGE AND ADMINISTRATION: Dosage Adjustment in Patients With Impaired Renal Function (2.6), USE IN SPECIFIC POPULATIONS: Renal Impairment (8.6)].
 
 ## 8.6 Renal Impairment
 
@@ -60,5 +60,4 @@ The dose should not exceed 174 mg every other day in these patients.
 
 Aplenzin should be used with caution in patients with hepatic impairment (including mild to moderate hepatic cirrhosis) and reduced frequency and/or dose should be considered in patients with mild to moderate hepatic cirrhosis.
 
-All patients with hepatic impairment should be closely monitored for possible adverse effects that could indicate high drug and metabolite levels.
-[see DOSAGE AND ADMINISTRATION: Dosage Adjustment for Patients With Impaired Hepatic Function (2.5) and CLINICAL PHARMACOLOGY: Pharmacokinetics (12.3)].
+All patients with hepatic impairment should be closely monitored for possible adverse effects that could indicate high drug and metabolite levels [see DOSAGE AND ADMINISTRATION: Dosage Adjustment for Patients With Impaired Hepatic Function (2.5) and CLINICAL PHARMACOLOGY: Pharmacokinetics (12.3)].

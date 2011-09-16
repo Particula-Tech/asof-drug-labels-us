@@ -5,7 +5,6 @@
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-
 Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) show that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
@@ -18,13 +17,12 @@ These risk differences (drug-placebo difference in the number of cases of suicid
 
 Table 1
 
-| Age Range |  |
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
-| Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |  |
-|  | Increases Compared to Placebo |
+| Increases Compared to Placebo |  |
 | <18 | 14 additional cases |
 | 18-24 | 5 additional cases |
-|  | Decreases Compared to Placebo |
+| Decreases Compared to Placebo |  |
 | 25-64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
@@ -34,8 +32,7 @@ There were suicides in the adult trials, but the number was not sufficient to re
 It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
 
-All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
-[See BOXED WARNING and USE IN SPECIFIC POPULATIONS: Pediatric Use (8.4)]
+All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases [see BOXED WARNING and USE IN SPECIFIC POPULATIONS: Pediatric Use (8.4)].
 
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
@@ -43,8 +40,7 @@ Although a causal link between the emergence of such symptoms and either the wor
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
-Such monitoring should include daily observation by families and caregivers.
-[See also PATIENT COUNSELING INFORMATION (17)] Prescriptions for Aplenzin should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Such monitoring should include daily observation by families and caregivers.[See also PATIENT COUNSELING INFORMATION (17)] Prescriptions for Aplenzin should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 Families and caregivers of adults being treated for depression should be similarly advised.
 
 ## 5.2 Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
@@ -84,7 +80,7 @@ However, prior to initiating treatment with an antidepressant, patients with dep
 It should be noted that Aplenzin is not approved for use in treating bipolar depression.
 
 Patients should be made aware that Aplenzin contains bupropion, the same active ingredient found in ZYBAN, used as an aid to smoking cessation treatment, and that Aplenzin should not be used in combination with ZYBAN, or any other medications that contain bupropion, such as WELLBUTRIN XL (bupropion hydrochloride extended-release formulation), WELLBUTRIN SR (bupropion hydrochloride sustained-release formulation), or WELLBUTRIN (bupropion hydrochloride immediate-release formulation).
-[See also PATIENT COUNSELING INFORMATION (17)]
+[See also PATIENT COUNSELING INFORMATION (17)].
 
 ## 5.5 Seizures
 
@@ -94,7 +90,7 @@ Aplenzin should be discontinued and not restarted in patients who experience a s
 
 The seizure incidence with Aplenzin has not been formally evaluated in clinical trials.
 Studies in mice suggest the potential for a significant reduction in the risk of seizure with bupropion HBr as compared to bupropion HCl.
-The seizure incidence is not expected to be worse than presented below for comparable doses of the immediate-release and sustained release formulations of bupropion HCl.
+The seizure incidence is not expected to be worse than presented below for comparable doses of the immediate-release and sustained-release formulations of bupropion HCl.
 
 - Dose
 
@@ -138,7 +134,7 @@ Aplenzin should be used with caution in patients with hepatic impairment (includ
 
 All patients with hepatic impairment should be closely monitored for possible adverse effects that could indicate high drug and metabolite levels.
 
-See DOSAGE AND ADMINISTRATION: Dosage Adjustment for Patients With Impaired Hepatic Function (2.5), USE IN SPECIFIC POPULATIONS: Hepatic Impairment (8.7) and CLINICAL PHARMACOLOGY: Pharmacokinetics (12.3).
+See DOSAGE AND ADMINISTRATION: Dosage Adjustment for Patients With Impaired Hepatic Function (2.5), USE IN SPECIFIC POPULATIONS: Hepatic Impairment (8.7), and CLINICAL PHARMACOLOGY: Pharmacokinetics (12.3).
 
 ## 5.7 Potential for Hepatotoxicity
 
@@ -152,7 +148,7 @@ Increased restlessness, agitation, anxiety, and insomnia, especially shortly aft
 Patients in placebo-controlled trials of major depressive disorder with WELLBUTRIN SR, the sustained-release formulation of bupropion hydrochloride, experienced agitation, anxiety, and insomnia as shown in Table 2.
 
 Table 2.
-Incidence of Agitation, Anxiety, and Insomnia in Placebo-Controlled Trials of WELLBUTRIN® SR (Bupropion HCl Sustained-release Tablets) for Major Depressive Disorder
+Incidence of Agitation, Anxiety, and Insomnia in Placebo-Controlled Trials of WELLBUTRIN SR (Bupropion HCl Sustained-release Tablets) for Major Depressive Disorder
 
 | Adverse Reaction Term | WELLBUTRIN® SR (Bupropion HCl) 300 mg/dayEquivalent to 348 mg/day bupropion HBr (n = 376) | WELLBUTRIN® SR (Bupropion HCl) 400 mg/dayEquivalent to 464 mg/day bupropion HBr (n = 114) | Placebo (n = 385) |
 | --- | --- | --- | --- |
@@ -171,7 +167,7 @@ In some cases, these symptoms abated upon dose reduction and/or withdrawal of tr
 
 ## 5.10 Altered Appetite and Weight
 
-In placebo-controlled studies of major depressive disorder using WELLBUTRIN SR, the sustained-release formulation of bupropion hydrochloride, patients experienced weight gain or weight loss as shown in Table 3.
+In placebo-controlled studies of major depressive disorder using WELLBUTRIN SR®, the sustained-release formulation of bupropion hydrochloride, patients experienced weight gain or weight loss as shown in Table 3.
 
 Table 3.
 Incidence of Weight Gain and Weight Loss in Placebo-Controlled Trials of WELLBUTRIN® SR (Bupropion Hydrochloride Sustained-release Tablets) for Major Depressive Disorder

@@ -1,11 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide) below.
-
-## 17.1 Counseling Information
+See FDA-approved Medication Guide below.
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with Aplenzin and should counsel them in its appropriate use.
-A patient Medication Guide [see below: PATIENT COUNSELING INFORMATION: FDA-Approved Patient Labeling (17.2)] about "Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions" "Quit Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior," and other important information about using Aplenzin is available for Aplenzin.
+
+A patient Medication Guide [see below] about "Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions," "Quit Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior,"and other important information about using Aplenzin is available for Aplenzin.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.

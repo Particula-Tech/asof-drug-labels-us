@@ -1,6 +1,4 @@
-| Medication Guide |
-| --- |
-| APLENZIN (uh-PLEN-zin) (bupropion hydrobromide) extended-release tablets |
+Medication Guide APLENZIN (uh-PLEN-zin) (bupropion hydrobromide) extended-release tablets
 
 Read this Medication Guide for APLENZIN before you start taking it and each time you get a refill.
 There may be new information.
@@ -204,6 +202,9 @@ Do not use APLENZIN for a condition for which it was not prescribed.
 Do not give APLENZIN to other people, even if they have the same condition.
 It may harm them.
 
+If you take a urine drug screening test, APLENZIN may make the test result positive for amphetamines.
+If you tell the person giving you the drug screening test that you are taking APLENZIN, they can do a more specific drug screening test that should not have this problem.
+
 This Medication Guide summarizes the most important information about APLENZIN.
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about APLENZIN that is written for healthcare professionals.
@@ -212,27 +213,25 @@ For more information about APLENZIN call 1-800-633-1610 or go to www.APLENZIN.co
 
 What are the ingredients in APLENZIN?
 
-Active ingredient: bupropion hydrobromide Inactive ingredients: ethylcellulose, glyceryl behenate, polyvinyl alcohol, polyethylene glycol, povidone, and dibutyl sebacate.
+Active ingredient: bupropion hydrobromide
+
+Inactive ingredients: ethylcellulose, glyceryl behenate, polyvinyl alcohol, polyethylene glycol, povidone, and dibutyl sebacate.
 Carnauba wax is included in the 174 mg and 348 mg strengths.
 The tablets are printed with edible black ink.
 
-The following are registered trademarks of their respective manufacturers: WELLBUTRIN®/GlaxoSmithKline; WELLBUTRIN XL®/GlaxoSmithKline; ZYBAN®/GlaxoSmithKline
+The following are registered trademarks of their respective manufacturers: WELLBUTRIN®/GlaxoSmithKline; WELLBUTRIN XL®/GlaxoSmithKline; ZYBAN®/GlaxoSmithKline; KALETRA®/Abbott Laboratories
 
-Revised 09/2009
+Revised: 06/2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Rx only
 
-Manufactured by:
+Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, MB Canada R5G 1Z7
 
-Valeant Pharmaceuticals International, Inc. Steinbach, MB Canada R5G 1Z7
+Manufactured for: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 Made in Canada
 
-Manufactured for: sanofi-aventis U.S. LLC Bridgewater, NJ 08807
-
-Made in Canada
-
-LB0060-01 Rev.
-09/2009
+Rev.
+06/2011
 
 Aplenzin® is a registered trademark of sanofi-aventis U.S. LLC

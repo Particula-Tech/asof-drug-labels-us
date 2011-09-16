@@ -18,7 +18,7 @@ Following chronic dosing of Aplenzin 348 mg Tablets, the mean peak steady-state 
 Steady-state plasma concentrations of bupropion were reached within 8 days.
 The elimination half-life (±SD) of bupropion after a single dose is 21.3 (± 6.7) hours.
 
-In a study comparing 10-day dosing with Aplenzin Tablets 348 mg once daily and WELLBUTRIN XL Tablets 300 mg once daily, following a 3-day titration with once daily WELLBUTRIN XL Tablets 150 mg, Aplenzin peak plasma concentration and area under the curve for bupropion and the 3 metabolites (hydroxybupropion, threohydrobupropion, and erythrohydrobupropion) were equivalent to WELLBUTRIN XL Tablets 300 mg, with the average being 8 to 14% lower.
+In a study comparing 10-day dosing with Aplenzin Tablets 348 mg once daily and WELLBUTRIN XL Tablets 300 mg once daily, following a 3-day titration with once daily WELLBUTRIN XL Tablets 150 mg, Aplenzin peak plasma concentration and area under the curve for bupropion and the 3 metabolites (hydroxybupropion, threohydrobupropion, and erythrohydrobupropion) were equivalent to WELLBUTRIN XL Tablets 300 mg, with the average being 8 to14% lower.
 
 In a single dose study, two Aplenzin Tablets 174 mg once daily and one Aplenzin Tablet 348 mg once daily were evaluated.
 Equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the 3 metabolites.
@@ -50,8 +50,20 @@ The potency and toxicity of the metabolites relative to bupropion have not been 
 However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5-fold less potent than bupropion.
 This may be of clinical importance because the plasma concentrations of the metabolites are as high or higher than those of bupropion.
 
-Because bupropion is extensively metabolized, there is the potential for drug-drug interactions, particularly with those agents that are metabolized by the cytochrome P450IIB6 (CYP2B6) isoenzyme.
-Although bupropion is not metabolized by cytochrome P450IID6 (CYP2D6), there is the potential for drug-drug interactions when bupropion is co-administered with drugs metabolized by this isoenzyme [see DRUG INTERACTIONS: Drugs Metabolized by Cytochrome P450IID6 (CYP2D6) (7.1)].
+Because bupropion is extensively metabolized, there is the potential for drug-drug interactions, particularly with those agents that are metabolized by or which inhibit/induce the cytochrome P450IIB6 (CYP2B6) isoenzyme, such as ritonavir or efavirenz.
+In a healthy volunteer study, ritonavir at a dose of 100 mg twice daily reduced AUC and Cmax of bupropion by 22% and 21%, respectively.
+The exposure of the hydroxybupropion metabolite was decreased by 23%, the threohydrobupropion decreased by 38%, and the erythrohydrobupropion decreased by 48%.
+
+In a second healthy volunteer study, ritonavir at a dose of 600 mg twice daily decreased the AUC and Cmax of bupropion by 66% and 62%, respectively.
+The exposure of the hydroxybupropion metabolite was decreased by 78%, the threohydrobupropion decreased by 50%, and the erythrohydrobupropion decreased by 68%.
+
+In another healthy volunteer study, KALETRA® (lopinavir 400mg/ritonavir 100 mg twice daily) decreased bupropion AUC and Cmax by 57%.
+The AUC and Cmax of hydroxybupropion metabolite were decreased by by 50% and 31%, respectively [see DRUG INTERACTIONS (7)].
+
+In a study of healthy volunteers, efavirenz 600mg once daily for 2 weeks reduced the AUC and Cmax of bupropion by approximately 55% and 34%, respectively.
+The AUC of hydroxybupropion was unchanged, whereas Cmax of hydroxybupropion was increased by 50%.
+
+Although bupropion is not metabolized by cytochrome P450IID6 (CYP2D6), there is the potential for drug-drug interactions when bupropion is coadministered with drugs metabolized by this isoenzyme [see DRUG INTERACTIONS: Drugs Metabolized by Cytochrome P450IID6 (CYP2D6) (7.1)].
 
 Following chronic administration in healthy volunteers, peak plasma concentration of hydroxybupropion occurred approximately 6 hours after administration of Aplenzin tablets.
 The peak plasma concentrations of hydroxybupropion were approximately 9 times the peak level of the parent drug at steady state.
@@ -85,7 +97,7 @@ For the metabolite hydroxybupropion, the mean Cmax was approximately 69% lower.
 For the combined amino-alcohol isomers threohydrobupropion and erythrohydrobupropion, the mean Cmax was approximately 31% lower.
 The mean AUC increased by about 1½-fold for hydroxybupropion and about 2½-fold for threo/erythrohydrobupropion.
 The median Tmax was observed 19 hours later for hydroxybupropion and 31 hours later for threo/erythrohydrobupropion.
-The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5- and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers [see DOSAGE AND ADMINISTRATION: Dosage Adjustment for Patients With Impaired Hepatic Function (2.5), WARNINGS AND PRECAUTIONS: Hepatic Impairment (5.6) and USE IN SPECIFIC POPULATIONS: Hepatic Impairment (8.7)].
+The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5- and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers [see DOSAGE AND ADMINISTRATION: Dosage Adjustment for Patients With Impaired Hepatic function (2.5), WARNINGS AND PRECAUTIONS: Hepatic Impairment (5.6), and USE IN SPECIFIC POPULATIONS: Hepatic Impairment (8.7)].
 
 Renal
 

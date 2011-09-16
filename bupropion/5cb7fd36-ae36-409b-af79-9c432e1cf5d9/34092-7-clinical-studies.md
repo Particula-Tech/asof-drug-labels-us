@@ -8,7 +8,7 @@ This trial demonstrated the effectiveness of bupropion, but only at the 450-mg/d
 In the third study, outpatients received 300 mg/day of the immediate-release formulation of bupropion hydrochloride.
 This study demonstrated the effectiveness of bupropion on the HDRS total score, HDRS item 1, the Montgomery-Asberg Depression Rating Scale, the CGI severity score, and the CGI improvement score.
 
-In a longer-term study, outpatients meeting DSM-IV criteria for major depressive disorder, recurrent type, who had responded during an 8-week open trial on bupropion hydrochloride (150 mg twice daily of the sustained-release formulation) were randomized to continuation of their same dose of bupropion or placebo, for up to 44 weeks of observation for relapse.
+In a longer-term study, outpatients meeting DSM-IV criteria for major depressive disorder, recurrent type, who had responded during an 8-week open trial on bupropion hydrochloride (150 mg twice daily of the sustained-release formulation), were randomized to continuation of their same dose of bupropion or placebo, for up to 44 weeks of observation for relapse.
 Response during the open phase was defined as CGI Improvement score of 1 (very much improved) or 2 (much improved) for each of the final 3 weeks.
 Relapse during the double-blind phase was defined as the investigator's judgment that drug treatment was needed for worsening depressive symptoms.
 Patients receiving continued bupropion treatment experienced significantly lower relapse rates over the subsequent 44 weeks compared to those receiving placebo.

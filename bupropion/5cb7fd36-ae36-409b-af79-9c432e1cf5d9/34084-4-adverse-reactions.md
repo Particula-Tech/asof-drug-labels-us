@@ -2,9 +2,9 @@
 
 The following risks are discussed in greater detail in other sections of the labeling:
 
-- Clinical worsening and suicide risk [see WARNINGS AND PRECAUTIONS: Clinical Worsening and Suicide Risk (5.1)]
+- Clinical worsening and suicide risk [see WARNINGS AND PRECAUTIONS Clinical Worsening and Suicide Risk in Treating Psychiatric Disorders (5.1)]
 - Activation of Psychosis and/or Mania [see WARNINGS AND PRECAUTIONS: Activation of Psychosis and/or Mania (5.3) and WARNINGS AND PRECAUTIONS: Screening Patients for Bipolar Disorder (5.4)]
-- Hepatotoxicity [see WARNINGS AND PRECAUTIONS: Potential for Hepatotoxicity (5.7)]
+- Hepatotoxicity [see WARNINGS AND PRECAUTIONS: Potential for Hepatotoxicity(5.7)]
 - Agitation and Insomnia [see WARNINGS AND PRECAUTIONS: Agitation and Insomnia (5.8)]
 - Psychosis, confusion and other neuropsychiatric phenomena [see WARNINGS AND PRECAUTIONS: Psychosis, Confusion, and Other Neuropsychiatric Phenomena (5.9)]
 - Altered appetite [see WARNINGS AND PRECAUTIONS: Altered Appetite and Weight (5.10)]
@@ -20,7 +20,7 @@ Adverse reactions from Table 5 occurring in at least 5% of patients treated with
 400 mg/day of WELLBUTRIN SR (equivalent to 464 mg/day bupropion HBr): Abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
 
 Aplenzin is bioequivalent to WELLBUTRIN XL, which has been demonstrated to have similar bioavailability both to the immediate-release formulation of bupropion and to the sustained-release formulation of bupropion.
-The information included under this subsection and under subsections 6.2 and 6.3 is based primarily on data from controlled clinical trials with WELLBUTRIN SR Tablets, the sustained-release formulation of bupropion hydrochloride.
+The information included under this subsection and under the subsections 6.2 and 6.3 is based primarily on data from controlled clinical trials with WELLBUTRIN SR Tablets, the sustained-release formulation of bupropion hydrochloride.
 
 ## 6.2 Adverse Reactions Leading to Discontinuation of Treatment With WELLBUTRIN or WELLBUTRIN SR
 
@@ -51,7 +51,7 @@ Estimates are influenced by drug dose, detection technique, setting, physician j
 These incidence figures also cannot be compared with those obtained from other clinical studies involving related drug products as each group of drug trials is conducted under a different set of conditions.
 
 Finally, it is important to emphasize that the tabulation does not reflect the relative severity and/or clinical importance of the reactions.
-A better perspective on the serious adverse reactions associated with the use of bupropion is provided in the WARNINGS AND PRECAUTIONS section (5).
+A better perspective on the serious adverse reactions associated with the use of bupropion is provided in WARNINGS AND PRECAUTIONS section (5).
 
 Table 5.
 Treatment-Emergent Adverse Reactions in Placebo-Controlled TrialsAdverse reactions that occurred in at least 1% of patients treated with either 300 or 400 mg/day of the sustained-release formulation of bupropion hydrochloride, but equally or more frequently in the placebo group, were: abnormal dreams, accidental injury, acne, appetite increased, back pain, bronchitis, dysmenorrhea, dyspepsia, flatulence, flu syndrome, hypertension, neck pain, respiratory disorder, rhinitis, and tooth disorder. for Major Depressive Disorder
@@ -125,7 +125,7 @@ In addition to the adverse events noted above, the following events have been re
 Adverse events for which frequencies are provided below occurred in clinical trials with the sustained-release formulation of bupropion hydrochloride.
 The frequencies represent the proportion of patients who experienced a treatment-emergent adverse event on at least one occasion in placebo-controlled studies for depression (n = 987) or smoking cessation (n = 1,013), or patients who experienced an adverse event requiring discontinuation of treatment in an open-label surveillance study with the sustained-release formulation of bupropion hydrochloride (n = 3,100).
 All treatment-emergent adverse events are included except those listed in Tables 2 through 5, those events listed in other safety-related sections, those adverse events subsumed under COSTART terms that are either overly general or excessively specific so as to be uninformative, those events not reasonably associated with the use of the drug, and those events that were not serious and occurred in fewer than 2 patients.
-Events of major clinical importance are described in the WARNINGS AND PRECAUTIONS section (5).
+Events of major clinical importance are described in WARNINGS AND PRECAUTIONS section (5).
 
 Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions of frequency: Frequent adverse events are defined as those occurring in at least 1/100 patients.
 Infrequent adverse events are those occurring in 1/100 to 1/1,000 patients, while rare events are those occurring in less than 1/1,000 patients.

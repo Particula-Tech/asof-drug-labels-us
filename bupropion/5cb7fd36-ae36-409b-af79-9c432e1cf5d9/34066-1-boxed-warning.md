@@ -1,14 +1,12 @@
 # WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS
 
 Use in treating Psychiatric Disorders: Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders.
-Anyone considering the use of Aplenzin® or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need.
+Anyone considering the use of Aplenzin™ or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older.
 Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide.
 Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior.
-
 Families and caregivers should be advised of the need for close observation and communication with the prescriber.
-Aplenzin is not approved for use in pediatric patients.
-[See WARNINGS AND PRECAUTIONS: Clinical Worsening and Suicide Risk (5.1) and USE IN SPECIFIC POPULATIONS: Pediatric Use (8.4)]
+Aplenzin is not approved for use in pediatric patients [See WARNINGS AND PRECAUTIONS, Clinical Worsening and Suicide Risk in Treating Psychiatric Disorders (5.1) and USE IN SPECIFIC POPULATIONS, Pediatric Use (8.4)].
 
 Use in Smoking Cessation Treatment: Aplenzin is not approved for smoking cessation treatment, but bupropion under the name ZYBAN® is approved for this use.
 Serious neuropsychiatric events, including but not limited to depression, suicidal ideation, suicide attempt, and completed suicide have been reported in patients taking bupropion for smoking cessation.
@@ -28,7 +26,7 @@ In many post-marketing cases, resolution of symptoms after discontinuation of ZY
 
 The risks of using bupropion for smoking cessation should be weighed against the benefits of its use.
 ZYBAN has been demonstrated to increase the likelihood of abstinence from smoking for as long as six months compared to treatment with placebo.
-The health benefits of quitting smoking are immediate and substantial [See WARNINGS AND PRECAUTIONS: Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment (5.2) and PATIENT COUNSELING INFORMATION (17.1)]
+The health benefits of quitting smoking are immediate and substantial [See WARNINGS AND PRECAUTIONS: Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment (5.2) and PATIENT COUNSELING INFORMATION (17)]
 
 If you take APLENZIN, you should not take any other medicines that contain (bupropion) including: (i.e., ZYBAN®, WELLBUTRIN® Tablets, WELLBUTRIN® SR Sustained-Release Tablets, or WELLBUTRIN XL® Extended-Release Tablets.
 Bupropion is the same active ingredient that is in Aplenzin.
