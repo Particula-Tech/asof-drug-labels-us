@@ -1,30 +1,30 @@
 # HOW SUPPLIED
 
-Neurontin (gabapentin) capsules, tablets and oral solution are supplied as follows:
+Neurontin (gabapentin) capsules, tablets, and oral solution are supplied as follows:
 
-100 mg capsules;
+100 mg capsules:
 
-White hard gelatin capsules printed with "PD" on one side and "Neurontin/100 mg" on the other; available in: Bottles of 100: N 0071-0803-24 Unit dose 50's: N 0071-0803-40
+White hard gelatin capsules printed with "PD" on one side and "Neurontin/100 mg" on the other; available in: Bottles of 100: NDC 0071-0803-24
 
-300 mg capsules;
+300 mg capsules:
 
-Yellow hard gelatin capsules printed with "PD" on one side and "Neurontin/300 mg" on the other; available in: Bottles of 100: N 0071-0805-24 Unit dose 50's: N 0071-0805-40
+Yellow hard gelatin capsules printed with "PD" on one side and "Neurontin/300 mg" on the other; available in: Bottles of 100: NDC 0071-0805-24 Unit dose 50's: NDC 0071-0805-40
 
-400 mg capsules;
+400 mg capsules:
 
-Orange hard gelatin capsules printed with "PD" on one side and "Neurontin/400 mg" on the other; available in: Bottles of 100: N 0071-0806-24 Unit dose 50's: N 0071-0806-40
+Orange hard gelatin capsules printed with "PD" on one side and "Neurontin/400 mg" on the other; available in: Bottles of 100: NDC 0071-0806-24 Unit dose 50's: NDC 0071-0806-40
 
-600 mg tablets;
+600 mg tablets:
 
-White elliptical film-coated scored tablets debossed with "NT" and "16" on one side; available in: Bottles of 100: N 0071-0513-24
+White elliptical film-coated scored tablets debossed with "NT" and "16" on one side; available in: Bottles of 100: NDC 0071-0513-24
 
-800 mg tablets;
+800 mg tablets:
 
-White elliptical film-coated scored tablets debossed with "NT" and "26" on one side; available in: Bottles of 100: N 0071-0401-24
+White elliptical film-coated scored tablets debossed with "NT" and "26" on one side; available in: Bottles of 100: NDC 0071-0401-24
 
-250 mg/5 mL oral solution;
+250 mg/5 mL oral solution:
 
-Clear colorless to slightly yellow solution; each 5 mL of oral solution contains 250 mg of gabapentin; available in: Bottles containing 470 mL: N0071-2012-23
+Clear colorless to slightly yellow solution; each 5 mL of oral solution contains 250 mg of gabapentin; available in: Bottles containing 470 mL: NDC 0071-2012-23
 
 Storage (Capsules)
 

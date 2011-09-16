@@ -8,9 +8,9 @@ The 300 mg capsule shell contains gelatin, titanium dioxide, and yellow iron oxi
 The 400 mg capsule shell contains gelatin, red iron oxide, titanium dioxide, and yellow iron oxide.
 The imprinting ink contains FD&C Blue No. 2 and titanium dioxide.
 
-The inactive ingredients for the tablets are poloxamer 407, copolyvidonum, cornstarch, magnesium stearate, hydroxypropyl cellulose, talc, candelilla wax and purified water.
+The inactive ingredients for the tablets are poloxamer 407, copolyvidonum, cornstarch, magnesium stearate, hydroxypropyl cellulose, talc, candelilla wax, and purified water.
 
-The inactive ingredients for the oral solution are glycerin, xylitol, purified water and artificial cool strawberry anise flavor.
+The inactive ingredients for the oral solution are glycerin, xylitol, purified water, and artificial cool strawberry anise flavor.
 
 Gabapentin is described as 1-(aminomethyl)cyclohexaneacetic acid with a molecular formula of C9H17NO2 and a molecular weight of 171.24.
 The structural formula of gabapentin is:

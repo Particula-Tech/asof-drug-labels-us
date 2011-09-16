@@ -62,7 +62,7 @@ Because there were few patients whose race was reported as other than white, the
 ## Epilepsy
 
 The most commonly observed adverse events associated with the use of Neurontin in combination with other antiepileptic drugs in patients >12 years of age, not seen at an equivalent frequency among placebo-treated patients, were somnolence, dizziness, ataxia, fatigue, and nystagmus.
-The most commonly observed adverse events reported with the use of Neurontin in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility (see WARNINGS, Neuropsychiatric Adverse Events).
+The most commonly observed adverse events reported with the use of Neurontin in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility (see WARNINGS, Neuropsychiatric Adverse Events-Pediatric Patients 3–12 years of age).
 
 Approximately 7% of the 2074 patients >12 years of age and approximately 7% of the 449 pediatric patients 3 to 12 years of age who received Neurontin in premarketing clinical trials discontinued treatment because of an adverse event.
 The adverse events most commonly associated with withdrawal in patients >12 years of age were somnolence (1.2%), ataxia (0.8%), fatigue (0.6%), nausea and/or vomiting (0.6%), and dizziness (0.6%).
@@ -132,7 +132,7 @@ Treatment-Emergent Adverse Event Incidence in Controlled Add-On Trials In Patien
 
 Other events in more than 1% of patients >12 years of age but equally or more frequent in the placebo group included: headache, viral infection, fever, nausea and/or vomiting, abdominal pain, diarrhea, convulsions, confusion, insomnia, emotional lability, rash, acne.
 
-Among the treatment-emergent adverse events occurring at an incidence of at least 10% of Neurontin-treated patients, somnolence and ataxia appeared to exhibit a positive dose-response relationship.
+Among the treatment-emergent adverse events occurring at an incidence of at least 10% in Neurontin-treated patients, somnolence and ataxia appeared to exhibit a positive dose-response relationship.
 
 The overall incidence of adverse events and the types of adverse events seen were similar among men and women treated with Neurontin.
 The incidence of adverse events increased slightly with increasing age in patients treated with either Neurontin or placebo.
@@ -187,7 +187,7 @@ Digestive System: Frequent: anorexia, flatulence, gingivitis; Infrequent: glossi
 
 Endocrine System: Rare: hyperthyroid, hypothyroid, goiter, hypoestrogen, ovarian failure, epididymitis, swollen testicle, cushingoid appearance.
 
-Hematologic and Lymphatic System: Frequent: purpura most often described as bruises resulting from physical trauma; Infrequent: anemia, thrombocytopenia, lymphadenopathy; Rare: WBC count increased, lymphocytosis, non-Hodgkin's lymphoma, bleeding time increased.
+Hematologic and Lymphatic Systems: Frequent: purpura most often described as bruises resulting from physical trauma; Infrequent: anemia, thrombocytopenia, lymphadenopathy; Rare: WBC count increased, lymphocytosis, non-Hodgkin's lymphoma, bleeding time increased.
 
 Musculoskeletal System: Frequent: arthralgia; Infrequent: tendinitis, arthritis, joint stiffness, joint swelling, positive Romberg test; Rare: costochondritis, osteoporosis, bursitis, contracture.
 
@@ -201,7 +201,7 @@ Urogenital System: Infrequent: hematuria, dysuria, urination frequency, cystitis
 
 Special Senses: Frequent: abnormal vision; Infrequent: cataract, conjunctivitis, eyes dry, eye pain, visual field defect, photophobia, bilateral or unilateral ptosis, eye hemorrhage, hordeolum, hearing loss, earache, tinnitus, inner ear infection, otitis, taste loss, unusual taste, eye twitching, ear fullness; Rare: eye itching, abnormal accommodation, perforated ear drum, sensitivity to noise, eye focusing problem, watery eyes, retinopathy, glaucoma, iritis, corneal disorders, lacrimal dysfunction, degenerative eye changes, blindness, retinal degeneration, miosis, chorioretinitis, strabismus, eustachian tube dysfunction, labyrinthitis, otitis externa, odd smell.
 
-#### Clinical trials in Pediatric Patients With Epilepsy
+#### Clinical Trials in Pediatric Patients With Epilepsy
 
 Adverse events occurring during epilepsy clinical trials in 449 pediatric patients 3 to 12 years of age treated with gabapentin that were not reported in adjunctive trials in adults are:
 
@@ -209,7 +209,7 @@ Body as a Whole: dehydration, infectious mononucleosis
 
 Digestive System: hepatitis
 
-Hemic and Lymphatic System: coagulation defect
+Hematologic and Lymphatic Systems: coagulation defect
 
 Nervous System: aura disappeared, occipital neuralgia
 
@@ -217,7 +217,7 @@ Psychobiologic Function: sleepwalking
 
 Respiratory System: pseudocroup, hoarseness
 
-#### Clinical Trials in Adults With Neuropathic Pain of Various Etiologies
+#### Clinical Trials in Adults with Neuropathic Pain of Various Etiologies
 
 Safety information was obtained in 1173 patients during double-blind and open-label clinical trials including neuropathic pain conditions for which efficacy has not been demonstrated.
 Adverse events reported by investigators were grouped into standardized categories using modified COSTART IV terminology.
@@ -233,7 +233,7 @@ Digestive System: Infrequent: gastroenteritis, increased appetite, gastrointesti
 
 Endocrine System: Infrequent: diabetes mellitus.
 
-Hemic and Lymphatic System: Infrequent: ecchymosis, anemia; Rare: lymphadenopathy, lymphoma-like reaction, prothrombin decreased.
+Hematologic and Lymphatic Systems: Infrequent: ecchymosis, anemia; Rare: lymphadenopathy, lymphoma-like reaction, prothrombin decreased.
 
 Metabolic and Nutritional: Infrequent: edema, gout, hypoglycemia, weight loss; Rare: alkaline phosphatase increased, diabetic ketoacidosis, lactic dehydrogenase increased.
 
@@ -253,7 +253,7 @@ Urogenital System: Infrequent: urinary tract infection, dysuria, impotence, urin
 
 In addition to the adverse experiences reported during clinical testing of Neurontin, the following adverse experiences have been reported in patients receiving marketed Neurontin.
 These adverse experiences have not been listed above and data are insufficient to support an estimate of their incidence or to establish causation.
-The listing is alphabetized: angioedema, blood glucose fluctuation, breast enlargement, erythema multiforme, elevated liver function tests, fever, hyponatremia, jaundice, movement disorder, Stevens-Johnson syndrome.
+The listing is alphabetized: angioedema, blood glucose fluctuation, breast enlargement, elevated liver function tests, erythema multiforme, fever, hyponatremia, jaundice, movement disorder, Stevens-Johnson syndrome.
 
 Adverse events following the abrupt discontinuation of gabapentin have also been reported.
-The most frequently reported events were anxiety, insomnia, nausea, pain and sweating.
+The most frequently reported events were anxiety, insomnia, nausea, pain, and sweating.

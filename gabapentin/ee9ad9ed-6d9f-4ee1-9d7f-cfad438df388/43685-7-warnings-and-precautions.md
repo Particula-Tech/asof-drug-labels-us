@@ -14,7 +14,7 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
-The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+The risk did not vary substantially by age (5–100 years) in the clinical trials analyzed.
 
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
@@ -36,13 +36,13 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## Neuropsychiatric Adverse Events—Pediatric Patients 3–12 years of age
+## Neuropsychiatric Adverse Events-Pediatric Patients 3–12 years of age
 
 Gabapentin use in pediatric patients with epilepsy 3–12 years of age is associated with the occurrence of central nervous system related adverse events.
 The most significant of these can be classified into the following categories: 1) emotional lability (primarily behavioral problems), 2) hostility, including aggressive behaviors, 3) thought disorder, including concentration problems and change in school performance, and 4) hyperkinesia (primarily restlessness and hyperactivity).
 Among the gabapentin-treated patients, most of the events were mild to moderate in intensity.
 
-In controlled trials in pediatric patients 3–12 years of age the incidence of these adverse events was: emotional lability 6% (gabapentin-treated patients) vs 1.3% (placebo-treated patients); hostility 5.2% vs 1.3%; hyperkinesia 4.7% vs 2.9%; and thought disorder 1.7% vs 0%.
+In controlled trials in pediatric patients 3–12 years of age, the incidence of these adverse events was: emotional lability 6% (gabapentin-treated patients) vs. 1.3% (placebo-treated patients); hostility 5.2% vs. 1.3%; hyperkinesia 4.7% vs. 2.9%; and thought disorder 1.7% vs. 0%.
 One of these events, a report of hostility, was considered serious.
 Discontinuation of gabapentin treatment occurred in 1.3% of patients reporting emotional lability and hyperkinesia and 0.9% of gabapentin-treated patients reporting hostility and thought disorder.
 One placebo-treated patient (0.4%) withdrew due to emotional lability.
@@ -51,15 +51,15 @@ One placebo-treated patient (0.4%) withdrew due to emotional lability.
 
 Antiepileptic drugs should not be abruptly discontinued because of the possibility of increasing seizure frequency.
 
-In the placebo-controlled studies in patients >12 years of age, the incidence of status epilepticus in patients receiving Neurontin was 0.6% (3 of 543) versus 0.5% in patients receiving placebo (2 of 378).
-Among the 2074 patients >12 years of age treated with Neurontin across all studies (controlled and uncontrolled) 31 (1.5%) had status epilepticus.
+In the placebo-controlled studies in patients >12 years of age, the incidence of status epilepticus in patients receiving Neurontin was 0.6% (3 of 543) vs. 0.5% in patients receiving placebo (2 of 378).
+Among the 2074 patients >12 years of age treated with Neurontin across all studies (controlled and uncontrolled), 31 (1.5%) had status epilepticus.
 Of these, 14 patients had no prior history of status epilepticus either before treatment or while on other medications.
 Because adequate historical data are not available, it is impossible to say whether or not treatment with Neurontin is associated with a higher or lower rate of status epilepticus than would be expected to occur in a similar population not treated with Neurontin.
 
 ## Tumorigenic Potential
 
 In standard preclinical in vivo lifetime carcinogenicity studies, an unexpectedly high incidence of pancreatic acinar adenocarcinomas was identified in male, but not female, rats.
-(See PRECAUTIONS: Carcinogenesis, Mutagenesis, Impairment of Fertility.)
+(See PRECAUTIONS, Carcinogenesis, Mutagenesis, Impairment of Fertility.)
 The clinical significance of this finding is unknown.
 Clinical experience during gabapentin's premarketing development provides no direct means to assess its potential for inducing tumors in humans.
 
@@ -68,7 +68,7 @@ Without knowledge of the background incidence and recurrence in a similar popula
 
 ## Sudden and Unexplained Death in Patients With Epilepsy
 
-During the course of premarketing development of Neurontin 8 sudden and unexplained deaths were recorded among a cohort of 2203 patients treated (2103 patient-years of exposure).
+During the course of premarketing development of Neurontin, 8 sudden and unexplained deaths were recorded among a cohort of 2203 patients treated (2103 patient-years of exposure).
 
 Some of these could represent seizure-related deaths in which the seizure was not observed, e.g., at night.
 This represents an incidence of 0.0038 deaths per patient-year.
@@ -97,15 +97,15 @@ Instruct patients to take Neurontin only as prescribed.
 Patients, their caregivers, and families should be counseled that AEDs, including Neurontin, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-Patients should be advised that Neurontin may cause dizziness, somnolence and other symptoms and signs of CNS depression.
+Patients should be advised that Neurontin may cause dizziness, somnolence, and other symptoms and signs of CNS depression.
 Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on Neurontin to gauge whether or not it affects their mental and/or motor performance adversely.
 
 Patients who require concomitant treatment with morphine may experience increases in gabapentin concentrations.
-Patients should be carefully observed for signs of CNS depression, such as somnolence, and the dose of Neurontin or morphine should be reduced appropriately (see Drug Interactions).
+Patients should be carefully observed for signs of CNS depression, such as somnolence, and the dose of Neurontin or morphine should be reduced appropriately (see PRECAUTIONS, Drug Interactions).
 
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy section).
+To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy).
 
 Prior to initiation of treatment with Neurontin, the patient should be instructed that a rash or other signs or symtoms of hypersensitivity (such as fever or lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately.
 
@@ -158,14 +158,14 @@ The magnitude of interaction at other doses is not known.
 
 ### Morphine
 
-A literature article reported that when a 60-mg controlled-release morphine capsule was administered 2 hours prior to a 600-mg Neurontin capsule (N=12), mean gabapentin AUC increased by 44% compared to gabapentin administered without morphine (see PRECAUTIONS).
+A literature article reported that when a 60 mg controlled-release morphine capsule was administered 2 hours prior to a 600 mg Neurontin capsule (N=12), mean gabapentin AUC increased by 44% compared to gabapentin administered without morphine (see PRECAUTIONS).
 Morphine pharmacokinetic parameter values were not affected by administration of Neurontin 2 hours after morphine.
 The magnitude of interaction at other doses is not known.
 
 ### Cimetidine
 
-In the presence of cimetidine at 300 mg QID (N=12) the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
-Thus cimetidine appeared to alter the renal excretion of both gabapentin and creatinine, an endogenous marker of renal function.
+In the presence of cimetidine at 300 mg QID (N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
+Thus, cimetidine appeared to alter the renal excretion of both gabapentin and creatinine, an endogenous marker of renal function.
 This small decrease in excretion of gabapentin by cimetidine is not expected to be of clinical importance.
 The effect of gabapentin on cimetidine was not evaluated.
 
@@ -186,7 +186,7 @@ Probenecid is a blocker of renal tubular secretion.
 Gabapentin pharmacokinetic parameters without and with probenecid were comparable.
 This indicates that gabapentin does not undergo renal tubular secretion by the pathway that is blocked by probenecid.
 
-## Drug/Laboratory Tests Interactions
+## Drug/Laboratory Test Interactions
 
 Because false positive readings were reported with the Ames N-Multistix SG® dipstick test for urinary protein when gabapentin was added to other antiepileptic drugs, the more specific sulfosalicylic acid precipitation procedure is recommended to determine the presence of urine protein.
 
@@ -194,8 +194,8 @@ Because false positive readings were reported with the Ames N-Multistix SG® dip
 
 Gabapentin was given in the diet to mice at 200, 600, and 2000 mg/kg/day and to rats at 250, 1000, and 2000 mg/kg/day for 2 years.
 A statistically significant increase in the incidence of pancreatic acinar cell adenomas and carcinomas was found in male rats receiving the high dose; the no-effect dose for the occurrence of carcinomas was 1000 mg/kg/day.
-Peak plasma concentrations of gabapentin in rats receiving the high dose of 2000 mg/kg were 10 times higher than plasma concentrations in humans receiving 3600 mg per day, and in rats receiving 1000 mg/kg/day peak plasma concentrations were 6.5 times higher than in humans receiving 3600 mg/day.
-The pancreatic acinar cell carcinomas did not affect survival, did not metastasize and were not locally invasive.
+Peak plasma concentrations of gabapentin in rats receiving the high dose of 2000 mg/kg were 10 times higher than plasma concentrations in humans receiving 3600 mg per day, and in rats receiving 1000 mg/kg/day, peak plasma concentrations were 6.5 times higher than in humans receiving 3600 mg/day.
+The pancreatic acinar cell carcinomas did not affect survival, did not metastasize, and were not locally invasive.
 The relevance of this finding to carcinogenic risk in humans is unclear.
 
 Studies designed to investigate the mechanism of gabapentin-induced pancreatic carcinogenesis in rats indicate that gabapentin stimulates DNA synthesis in rat pancreatic acinar cells in vitro and, thus, may be acting as a tumor promoter by enhancing mitogenic activity.
@@ -214,9 +214,9 @@ Gabapentin has been shown to be fetotoxic in rodents, causing delayed ossificati
 These effects occurred when pregnant mice received oral doses of 1000 or 3000 mg/kg/day during the period of organogenesis, or approximately 1 to 4 times the maximum dose of 3600 mg/day given to epileptic patients on a mg/m2 basis.
 The no-effect level was 500 mg/kg/day or approximately ½ of the human dose on a mg/m2 basis.
 
-When rats were dosed prior to and during mating, and throughout gestation, pups from all dose groups (500, 1000 and 2000 mg/kg/day) were affected.
+When rats were dosed prior to and during mating, and throughout gestation, pups from all dose groups (500, 1000, and 2000 mg/kg/day) were affected.
 These doses are equivalent to less than approximately 1 to 5 times the maximum human dose on a mg/m2 basis.
-There was an increased incidence of hydroureter and/or hydronephrosis in rats in a study of fertility and general reproductive performance at 2000 mg/kg/day with no effect at 1000 mg/kg/day, in a teratology study at 1500 mg/kg/day with no effect at 300 mg/kg/day, and in a perinatal and postnatal study at all doses studied (500, 1000 and 2000 mg/kg/day).
+There was an increased incidence of hydroureter and/or hydronephrosis in rats in a study of fertility and general reproductive performance at 2000 mg/kg/day with no effect at 1000 mg/kg/day, in a teratology study at 1500 mg/kg/day with no effect at 300 mg/kg/day, and in a perinatal and postnatal study at all doses studied (500, 1000, and 2000 mg/kg/day).
 The doses at which the effects occurred are approximately 1 to 5 times the maximum human dose of 3600 mg/day on a mg/m2 basis; the no-effect doses were approximately 3 times (Fertility and General Reproductive Performance study) and approximately equal to (Teratogenicity study) the maximum human dose on a mg/m2 basis.
 Other than hydroureter and hydronephrosis, the etiologies of which are unclear, the incidence of malformations was not increased compared to controls in offspring of mice, rats, or rabbits given doses up to 50 times (mice), 30 times (rats), and 25 times (rabbits) the human daily dose on a mg/kg basis, or 4 times (mice), 5 times (rats), or 8 times (rabbits) the human daily dose on a mg/m2 basis.
 
@@ -253,4 +253,4 @@ Other reported clinical experience has not identified differences in responses b
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and dose should be adjusted based on creatinine clearance values in these patients (see CLINICAL PHARMACOLOGY, ADVERSE REACTIONS, and DOSAGE AND ADMINISTRATION sections).
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and dose should be adjusted based on creatinine clearance values in these patients (see CLINICAL PHARMACOLOGY, ADVERSE REACTIONS, and DOSAGE AND ADMINISTRATION).

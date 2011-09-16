@@ -4,7 +4,7 @@ Neurontin is given orally with or without food.
 Patients should be informed that, should they break the scored 600 or 800 mg tablet in order to administer a half-tablet, they should take the unused half-tablet as the next dose.
 Half-tablets not used within several days of breaking the scored tablet should be discarded.
 
-If Neurontin dose is reduced, discontinued or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).
+If Neurontin dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).
 
 ## Postherpetic Neuralgia
 
@@ -27,9 +27,9 @@ The maximum time between doses in the TID schedule should not exceed 12 hours.
 
 Pediatric Patients Age 3–12 years: The starting dose should range from 10–15 mg/kg/day in 3 divided doses, and the effective dose reached by upward titration over a period of approximately 3 days.
 The effective dose of Neurontin in patients 5 years of age and older is 25–35 mg/kg/day and given in divided doses (three times a day).
-The effective dose in pediatric patients ages 3 and 4 years is 40 mg/kg/day and given in divided doses (three times a day) (see CLINICAL PHARMACOLOGY, Pediatrics.)
+The effective dose in pediatric patients ages 3 and 4 years is 40 mg/kg/day and given in divided doses (three times a day) (see CLINICAL PHARMACOLOGY, Pediatric).
 Neurontin may be administered as the oral solution, capsule, or tablet, or using combinations of these formulations.
-Dosages up to 50 mg/kg/day have been well-tolerated in a long-term clinical study.
+Dosages up to 50 mg/kg/day have been well tolerated in a long-term clinical study.
 The maximum time interval between doses should not exceed 12 hours.
 
 It is not necessary to monitor gabapentin plasma concentrations to optimize Neurontin therapy.
@@ -46,7 +46,7 @@ for females CCr=(0.85)(140-age)(weight)/[(72)(SCr)]
 
 for males CCr=(140-age)(weight)/[(72)(SCr)]
 
-where age is in years, weight is in kilograms and SCr is serum creatinine in mg/dL.
+in which age is in years, weight is in kilograms, and SCr is serum creatinine in mg/dL.
 
 Dosage adjustment in patients ≥12 years of age with compromised renal function or undergoing hemodialysis is recommended as follows (see dosing recommendations above for effective doses in each indication).
 
