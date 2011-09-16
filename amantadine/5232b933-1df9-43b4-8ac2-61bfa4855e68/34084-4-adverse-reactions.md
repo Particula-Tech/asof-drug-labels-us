@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The adverse reactions reported most frequently at the recommended dose of amantadine (5 - 10%) are: nausea, dizziness (lightheadedness), and insomnia.
+The adverse reactions reported most frequently at the recommended dose of amantadine hydrochloride (5 - 10%) are: nausea, dizziness (lightheadedness), and insomnia.
 
 Less frequently (1 - 5%) reported adverse reactions are: depression, anxiety and irritability, hallucinations, confusion, anorexia, dry mouth, constipation, ataxia, livedo reticularis, peripheral edema, orthostatic hypotension, headache, somnolence, nervousness, dream abnormality, agitation, dry nose, diarrhea and fatigue.
 
@@ -8,7 +8,7 @@ Infrequently (0.1 - 1%) occurring adverse reactions are: congestive heart failur
 
 Rare (less than 0.1%) occurring adverse reactions are: instances of convulsion, leukopenia, neutropenia, eczematoid determatitis, oculogyric episodes, suicidal attempt, suicide, and suicidal ideation (see WARNINGS).
 
-Other adverse reactions reported during postmarketing experience with amantadine usage include:
+Other adverse reactions reported during postmarketing experience with amantadine hydrochloride usage include:
 
 Nervous System/Psychiatric – coma, stupor, delirium, hypokinesia, hypertonia, delusions, aggressive behavior, paranoid reaction, manic reaction, involuntary muscle contractions, gait abnormalities, paresthesia, EEG changes, and tremor.
 Abrupt discontinuation may also precipitate delirium, agitation, delusions, hallucinations, paranoid reaction, stupor, anxiety, depression and slurred speech;

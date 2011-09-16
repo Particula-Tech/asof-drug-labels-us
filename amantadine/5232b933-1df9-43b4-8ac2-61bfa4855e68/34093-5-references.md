@@ -16,8 +16,6 @@ J. Med.
 Berkowitz, J. Pediatr.
 95:144, 1979.
 
-Manufactured by: Banner Pharmacaps, Inc. High Point, NC 27261-2210
+Manufactured for: UPSHER-SMITH LABORATORIES, INC. Minneapolis, MN 55447 MADE IN CANADA
 
-Manufactured for: UPSHER-SMITH LABORATORIES, INC. Minneapolis, MN 55447
-
-103262-00 Revised 0209
+104853-01 Revised 0311

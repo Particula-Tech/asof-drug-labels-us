@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
-  "inn": "amantadine",
-  "labeler": "UPSHER-SMITH LABORATORIES, INC.",
-  "package_ndcs": [
-    "0832-0111-00",
-    "0832-0111-50"
+  "application_numbers": [
+    "ANDA070589"
   ],
-  "products": [],
+  "inn": "amantadine",
+  "labeler": "Upsher-Smith Laboratories, Inc",
+  "package_ndcs": [
+    "0832-1015-00",
+    "0832-1015-50"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, GELATIN COATED",
+      "generic": "amantadine hydrochloride",
+      "name": "Amantadine Hydrochloride"
+    }
+  ],
   "setid": "5232b933-1df9-43b4-8ac2-61bfa4855e68",
   "source": "dailymed"
 }

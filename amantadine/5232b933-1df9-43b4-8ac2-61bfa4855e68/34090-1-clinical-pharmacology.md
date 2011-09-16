@@ -18,13 +18,13 @@ Influenza viruses with reduced in vitro sensitivity have been shown to be transm
 The quantitative relationship between the in vitro sensitivity of influenza A variants to amantadine and the clinical response to therapy has not been established.
 
 Mechanism of Action: Parkinson's Disease- The mechanism of action of amantadine in the treatment of Parkinson's disease and drug-induced extrapyramidal reactions is not known.
-Data from earlier animal studies suggest that amantadine may have direct and indirect effects on dopamine neurons.
+Data from earlier animal studies suggest that amantadine hydrochloride may have direct and indirect effects on dopamine neurons.
 More recent studies have demonstrated that amantadine is a weak, non-competitive NMDA receptor antagonist (Ki = 10μM).
 Although amantadine has not been shown to possess direct anticholinergic activity in animal studies, clinically, it exhibits anticholinergic-like side effects such as dry mouth, urinary retention, and constipation.
 
 ## Pharmacokinetics
 
-Amantadine is well absorbed orally.
+Amantadine hydrochloride is well absorbed orally.
 Maximum plasma concentrations are directly related to dose for doses up to 200 mg/day.
 Doses above 200 mg/day may result in a greater than proportional increase in maximum plasma concentrations.
 It is primarily excreted unchanged in the urine by glomerular filtration and tubular secretion.
@@ -69,5 +69,5 @@ Compared with otherwise healthy adult individuals, the clearance of amantadine i
 The elimination half-life increases two to three fold or greater when creatinine clearance is less than 40 mL/min/1.73 m2 and averages eight days in patients on chronic maintenance hemodialysis.
 Amantadine is removed in negligible amounts by hemodialysis.
 
-The pH of the urine has been reported to influence the excretion rate of amantadine.
-Since the excretion rate of amantadine increases rapidly when the urine is acidic, the administration of urine acidifying drugs may increase the elimination of the drug from the body.
+The pH of the urine has been reported to influence the excretion rate of amantadine hydrochloride.
+Since the excretion rate of amantadine hydrochloride increases rapidly when the urine is acidic, the administration of urine acidifying drugs may increase the elimination of the drug from the body.
