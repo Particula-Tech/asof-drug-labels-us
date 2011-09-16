@@ -134,12 +134,11 @@ High blood pressure makes the heart work harder to pump blood through the body a
 Carvedilol tablets can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
 
-Manufactured In Israel By:
+Manufactured In India By:
 
-TEVA PHARMACEUTICAL IND.
-LTD.
+PIRAMAL HEALTHCARE LIMITED
 
-Jerusalem, 91010, Israel
+Pithampur, Madhya Pradesh, India
 
 Manufactured For:
 

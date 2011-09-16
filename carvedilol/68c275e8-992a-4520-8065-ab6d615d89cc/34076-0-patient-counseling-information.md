@@ -20,12 +20,11 @@ Patients taking carvedilol tablets should be advised of the following:
 
 Patient labeling is provided at the end of this full prescribing information.
 
-Manufactured In Israel By:
+Manufactured In India By:
 
-TEVA PHARMACEUTICAL IND.
-LTD.
+PIRAMAL HEALTHCARE LIMITED
 
-Jerusalem, 91010, Israel
+Pithampur, Madhya Pradesh, India
 
 Manufactured For:
 
@@ -34,7 +33,7 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-L 4/2011
+O 7/2011
 
 PHARMACIST - DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
