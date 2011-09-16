@@ -59,6 +59,6 @@ Research Triangle Park, NC 27709
 ©2011, GlaxoSmithKline.
 All rights reserved.
 
-August 2011
+September 2011
 
 FLD:5PI
