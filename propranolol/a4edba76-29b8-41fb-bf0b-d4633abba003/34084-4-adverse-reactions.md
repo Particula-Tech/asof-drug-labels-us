@@ -33,7 +33,7 @@ Systemic lupus erythematosus (SLE).
 
 ## Skin and mucous membranes:
 
-Stevens-Johnson Syndrome, toxic epidermal necrolysis, dry eyes, exfoliative dermatitis, erythema multiforme, urticaria, alopecia, SLE-like reactions, and psoriasisiform rashes.
+Stevens-Johnson Syndrome, toxic epidermal necrolysis, dry eyes, exfoliative dermatitis, erythema multiforme, urticaria, alopecia, SLE-like reactions, and psoriasiform rashes.
 Oculomucocutaneous syndrome involving the skin, serous membranes, and conjunctivae reported for a beta-blocker (practolol) have not been associated with propranolol.
 
 ## Genitourinary:

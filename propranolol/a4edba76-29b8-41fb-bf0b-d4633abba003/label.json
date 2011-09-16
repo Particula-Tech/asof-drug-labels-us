@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA078494"
+  ],
   "inn": "propranolol",
   "labeler": "Actavis Elizabeth LLC",
   "package_ndcs": [
@@ -12,7 +14,13 @@
     "0228-2781-11",
     "0228-2781-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "propranolol hydrochloride",
+      "name": "Propranolol Hydrochloride"
+    }
+  ],
   "setid": "a4edba76-29b8-41fb-bf0b-d4633abba003",
   "source": "dailymed"
 }

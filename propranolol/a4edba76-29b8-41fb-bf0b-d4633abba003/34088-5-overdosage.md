@@ -3,7 +3,7 @@
 Propranolol is not significantly dialyzable.
 In the event of overdosage or exaggerated response, the following measures should be employed:
 
-General:
+## General:
 
 If ingestion is or may have been recent, evacuate gastric contents, taking care to prevent pulmonary aspiration.
 
@@ -11,7 +11,7 @@ If ingestion is or may have been recent, evacuate gastric contents, taking care 
 
 Hypotension and bradycardia have been reported following propranolol overdose and should be treated appropriately.
 Glucagon can exert potent inotropic and chronotropic effects and may be particularly useful for the treatment of hypotension or depressed myocardial function after a propranolol overdose.
-Glucagon should be administered as 50-150 mcg/kg intravenously followed by continuous drip of 1-5 mg/hour for positive chronotropic effect.
+Glucagon should be administered as 50 to 150 mcg/kg intravenously followed by continuous drip of 1 to 5 mg/hour for positive chronotropic effect.
 Isoproterenol, dopamine or phosphodiesterase inhibitors may also be useful.
 Epinephrine, however, may provoke uncontrolled hypertension.
 Bradycardia can be treated with atropine or isoproterenol.

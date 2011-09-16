@@ -28,11 +28,7 @@ Propranolol should be administered with caution in this setting since it may pro
 
 ## Major Surgery
 
-The necessity or desirability of withdrawal of beta-blocking therapy prior to major surgery is controversial.
-It should be noted, however, that the impaired ability of the heart to respond to reflex adrenergic stimuli in propranolol-treated patients may augment the risks of general anesthesia and surgical procedures.
-
-Propranolol is a competitive inhibitor of beta-receptor agonists and its effects can be reversed by administration of such agents, e.g., dobutamine or isoproterenol.
-However, such patients may be subject to protracted severe hypotension.
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 ## Diabetes and Hypoglycemia
 
@@ -59,10 +55,10 @@ In one case, this result was reported after an initial dose of 5 mg propranolol.
 ## General
 
 Propranolol should be used with caution in patients with impaired hepatic or renal function.
-Propranolol hydrochloride extended-release is not indicated for the treatment of hypertensive emergencies.
+Propranolol hydrochloride extended-release capsules are not indicated for the treatment of hypertensive emergencies.
 
 Beta-adrenergic receptor blockade can cause reduction of intraocular pressure.
-Patients should be told that propranolol hydrochloride extended-release may interfere with the glaucoma screening test.
+Patients should be told that propranolol hydrochloride extended-release capsules may interfere with the glaucoma screening test.
 Withdrawal may lead to a return of increased intraocular pressure.
 
 While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
@@ -75,8 +71,8 @@ In severe heart failure, the use of propranolol has been associated with increas
 
 ## Drug Interactions
 
-Caution should be exercised when propranolol hydrochloride extended-release is administered with drugs that have an affect on CYP2D6, 1A2, or 2C19 metabolic pathways.
-Co-administration of such drugs with propranolol may lead to clinically relevant drug interactions and changes on its efficacy and/or toxicity (see Drug Interactionsin PHARMACOKINETICS AND DRUG METABOLISM).
+Caution should be exercised when propranolol hydrochloride extended-release capsules are administered with drugs that have an affect on CYP2D6, 1A2, or 2C19 metabolic pathways.
+Co-administration of such drugs with propranolol may lead to clinically relevant drug interactions and changes on its efficacy and/or toxicity (see Drug Interactions in PHARMACOKINETICS AND DRUG METABOLISM).
 
 Alcohol when used concomitantly with propranolol, may increase plasma levels of propranolol.
 
@@ -93,7 +89,7 @@ Amiodarone is an antiarrhythmic agent with negative chronotropic properties that
 The clearance of lidocaine is reduced with administration of propranolol.
 Lidocaine toxicity has been reported following co-administration with propranolol.
 
-Caution should be exercised when administering propranolol hydrochloride extended-release with drugs that slow A-V nodal conduction, e.g., lidocaine and calcium channel blockers.
+Caution should be exercised when administering propranolol hydrochloride extended-release capsules with drugs that slow A-V nodal conduction, e.g., lidocaine and calcium channel blockers.
 
 ### Digitalis Glycosides
 
@@ -102,7 +98,7 @@ Concomitant use can increase the risk of bradycardia.
 
 ### Calcium Channel Blockers
 
-Caution should be exercised when patients receiving a beta-blocker are administered a calcium channel-blocking drug with negative inotropic and/or chronotropic effects.
+Caution should be exercised when patients receiving a beta-blocker are administered a calcium-channel-blocking drug with negative inotropic and/or chronotropic effects.
 Both agents may depress myocardial contractility or atrioventricular conduction.
 
 There have been reports of significant bradycardia, heart failure, and cardiovascular collapse with concurrent use of verapamil and beta-blockers.
@@ -114,7 +110,7 @@ ACE Inhibitors
 When combined with beta-blockers, ACE inhibitors can cause hypotension, particularly in the setting of acute myocardial infarction.
 
 The antihypertensive effects of clonidine may be antagonized by beta-blockers.
-Propranolol hydrochloride extended-release should be administered cautiously to patients withdrawing from clonidine.
+Propranolol hydrochloride extended-release capsules should be administered cautiously to patients withdrawing from clonidine.
 
 ### Alpha Blockers
 
@@ -174,7 +170,7 @@ Based on differing results from Ames Tests performed by different laboratories, 
 
 ## Pregnancy
 
-### Pregnancy Category C
+Pregnancy Category C
 
 In a series of reproductive and developmental toxicology studies, propranolol was given to rats by gavage or in the diet throughout pregnancy and lactation.
 At doses of 150 mg/kg/day, but not at doses of 80 mg/kg/day (equivalent to the MRHD on a body surface area basis), treatment was associated with embryotoxicity (reduced litter size and increased resorption rates) as well as neonatal toxicity (deaths).
@@ -185,12 +181,12 @@ There are no adequate and well-controlled studies in pregnant women.
 Intrauterine growth retardation, small placentas, and congenital abnormalities have been reported in neonates whose mothers received propranolol during pregnancy.
 Neonates whose mothers are receiving propranolol at parturition have exhibited bradycardia, hypoglycemia and/or respiratory depression.
 Adequate facilities for monitoring such infants at birth should be available.
-Propranolol hydrochloride extended-release should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Propranolol hydrochloride extended-release capsules should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers
 
 Propranolol is excreted in human milk.
-Caution should be exercised when propranolol hydrochloride extended-release is administered to a nursing woman.
+Caution should be exercised when propranolol hydrochloride extended-release capsules are administered to a nursing woman.
 
 ## Pediatric Use
 
@@ -200,6 +196,6 @@ Bronchospasm and congestive heart failure have been reported coincident with the
 
 ## Geriatric Use
 
-Clinical studies of propranolol hydrochloride extended-release did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of propranolol hydrochloride extended-release capsules did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of the decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.

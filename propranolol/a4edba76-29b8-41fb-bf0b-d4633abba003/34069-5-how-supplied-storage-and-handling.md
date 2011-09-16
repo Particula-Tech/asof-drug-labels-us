@@ -1,6 +1,7 @@
 # HOW SUPPLIED
 
-Propranolol hydrochloride extended-release capsules, USP are available as follows:
+- 
+  - Propranolol hydrochloride extended-release capsules, USP are available as follows:
 
 60 mg – Each #3 capsule with white opaque cap and yellow opaque body printed with and 2778 on the cap and body in black ink contains 60 mg of propranolol hydrochloride, USP.
 Capsules are supplied in bottles of 100 (NDC 0228-2778-11) with a child-resistant closure and 500 (NDC 0228-2778-50) without a child-resistant closure.
@@ -14,7 +15,7 @@ Capsules are supplied in bottles of 100 (NDC 0228-2780-11) with a child-resistan
 160 mg – Each #1 capsule with gray opaque cap and gray opaque body printed with and 2781 on the cap and body in black ink contains 160 mg of propranolol hydrochloride, USP.
 Capsules are supplied in bottles of 100 (NDC 0228-2781-11) with a child-resistant closure and 500 (NDC 0228-2781-50) without a child-resistant closure.
 
-Store at 20° to 25°C (68° to 77°F)[See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Protect from light, moisture, freezing, and excessive heat.
 
@@ -30,4 +31,4 @@ Elizabeth, NJ 07207 USA
 
 40-9084
 
-Revised - February 2008
+Revised - June 2011

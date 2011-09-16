@@ -17,4 +17,4 @@ The efficacy of propranolol in the treatment of a migraine attack that has start
 
 ## Hypertrophic Subaortic Stenosis
 
-Propranolol hydrochloride extended-release improves NYHA functional class in symptomatic patients with hypertrophic subaortic stenosis.
+Propranolol hydrochloride extended-release capsules improve NYHA functional class in symptomatic patients with hypertrophic subaortic stenosis.
