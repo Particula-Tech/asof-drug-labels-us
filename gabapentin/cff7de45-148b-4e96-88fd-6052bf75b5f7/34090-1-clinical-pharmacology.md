@@ -3,7 +3,7 @@
 ## Mechanism of Action
 
 The mechanism by which gabapentin exerts its analgesic action is unknown, but in animal models of analgesia, gabapentin prevents allodynia (pain-related behavior in response to a normally innocuous stimulus) and hyperalgesia (exaggerated response to painful stimuli).
-In particular, gabapentin prevents pain-related responses in several models of neuropathic pain in rats or mice (e.g. spinal nerve ligation models, streptozocin-induced diabetes model, spinal cord injury model, acute herpes zoster infection model).
+In particular, gabapentin prevents pain-related responses in several models of neuropathic pain in rats or mice (e.g., spinal nerve ligation models, streptozocin-induced diabetes model, spinal cord injury model, acute herpes zoster infection model).
 Gabapentin also decreases pain-related responses after peripheral inflammation (carrageenan footpad test, late phase of formalin test).
 Gabapentin did not alter immediate pain-related behaviors (rat tail flick test, formalin footpad acute phase, acetic acid abdominal constriction test, footpad heat irradiation test).
 The relevance of these models to human pain is not known.
@@ -32,7 +32,7 @@ Food has only a slight effect on the rate and extent of absorption of gabapentin
 ### Distribution
 
 Less than 3% of gabapentin circulates bound to plasma protein.
-The apparent volume of distribution of gabapentin after 150 mg intravenous administration is 58±6 L (Mean ±SD).
+The apparent volume of distribution of gabapentin after 150 mg intravenous administration is 58±6 L (mean ±SD).
 In patients with epilepsy, steady-state predose (Cmin) concentrations of gabapentin in cerebrospinal fluid were approximately 20% of the corresponding plasma concentrations.
 
 ### Elimination
@@ -41,7 +41,7 @@ Gabapentin is eliminated from the systemic circulation by renal excretion as unc
 Gabapentin is not appreciably metabolized in humans.
 
 Gabapentin elimination half-life is 5 to 7 hours and is unaltered by dose or following multiple dosing.
-Gabapentin elimination rate constant, plasma clearance, and renal clearance are directly proportional to creatinine clearance (see Special Populations: Patients With Renal Insufficiency, below).
+Gabapentin elimination rate constant, plasma clearance, and renal clearance are directly proportional to creatinine clearance (see CLINICAL PHARMACOLOGY, Special Populations: Adult Patients With Renal Insufficiency, below).
 In elderly patients, and in patients with impaired renal function, gabapentin plasma clearance is reduced.
 Gabapentin can be removed from plasma by hemodialysis.
 
@@ -145,7 +145,7 @@ The effectiveness of gabapentin as adjunctive therapy (added to other antiepilep
 Evidence of effectiveness was obtained in three trials conducted in 705 patients (age 12 years and above) and one trial conducted in 247 pediatric patients (3 to 12 years of age).
 The patients enrolled had a history of at least 4 partial seizures per month in spite of receiving one or more antiepileptic drugs at therapeutic levels and were observed on their established antiepileptic drug regimen during a 12-week baseline period (6 weeks in the study of pediatric patients).
 In patients continuing to have at least 2 (or 4 in some studies) seizures per month, gabapentin or placebo was then added on to the existing therapy during a 12-week treatment period.
-Effectiveness was assessed primarily on the basis of the percent of patients with a 50% or greater reduction in seizure frequency from baseline to treatment (the "responder rate") and a derived measure called response ratio, a measure of change defined as (T - B)/(T + B), where B is the patient's baseline seizure frequency and T is the patient's seizure frequency during treatment.
+Effectiveness was assessed primarily on the basis of the percent of patients with a 50% or greater reduction in seizure frequency from baseline to treatment (the "responder rate") and a derived measure called response ratio, a measure of change defined as (T - B)/(T + B), in which B is the patient's baseline seizure frequency and T is the patient's seizure frequency during treatment.
 Response ratio is distributed within the range -1 to +1.
 A zero value indicates no change while complete elimination of seizures would give a value of -1; increased seizure rates would give positive values.
 A response ratio of -0.33 corresponds to a 50% reduction in seizure frequency.
@@ -174,10 +174,10 @@ There were several response ratio comparisons that showed a statistically signif
 Analysis of responder rate using combined data from all three studies and all doses (N=162, gabapentin; N=89, placebo) also showed a significant advantage for gabapentin over placebo in reducing the frequency of secondarily generalized tonic-clonic seizures.
 
 In two of the three controlled studies, more than one dose of gabapentin was used.
-Within each study the results did not show a consistently increased response to dose.
+Within each study, the results did not show a consistently increased response to dose.
 However, looking across studies, a trend toward increasing efficacy with increasing dose is evident (see Figure 4).
 
-In the figure, treatment effect magnitude, measured on the Y axis in terms of the difference in the proportion of gabapentin and placebo assigned patients attaining a 50% or greater reduction in seizure frequency from baseline, is plotted against the daily dose of gabapentin administered (X axis).
+In the figure, treatment effect magnitude, measured on the Y axis in terms of the difference in the proportion of gabapentin and placebo-assigned patients attaining a 50% or greater reduction in seizure frequency from baseline, is plotted against the daily dose of gabapentin administered (X axis).
 
 Although no formal analysis by gender has been performed, estimates of response (Response Ratio) derived from clinical trials (398 men, 307 women) indicate no important gender differences exist.
 There was no consistent pattern indicating that age had any effect on the response to gabapentin.

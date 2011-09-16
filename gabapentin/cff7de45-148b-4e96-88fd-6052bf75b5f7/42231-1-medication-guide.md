@@ -93,7 +93,7 @@ How should I take GABAPENTIN?
 - Take GABAPENTIN exactly as prescribed.
   Your healthcare provider will tell you how much GABAPENTIN to take.
   - Do not change your dose of GABAPENTIN without talking to your healthcare provider.
-    If you break a tablet in half the unused half of the tablet should be taken at your next scheduled dose.
+    If you break a tablet in half, the unused half of the tablet should be taken at your next scheduled dose.
     Half tablets not used within several days of breaking should be thrown away.
     If taking capsules, always swallow them whole with plenty of water.
 - GABAPENTIN can be taken with or without food.
@@ -161,4 +161,4 @@ Inactive ingredients in the oral solution: glycerin, xylitol, purified water, an
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0437-3.0 August 2011
+LAB-0437-4.0 September 2011
