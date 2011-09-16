@@ -1,14 +1,23 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA016640",
+    "NDA019669"
+  ],
   "inn": "cholestyramine",
-  "labeler": "Bristol-Myers Squibb Company",
+  "labeler": "Par Pharmaceutical Inc.",
   "package_ndcs": [
     "49884-791-65",
     "49884-791-66",
     "49884-792-65",
     "49884-792-89"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "cholestyramine",
+      "name": "QUESTRAN"
+    }
+  ],
   "setid": "5ca13e46-0a0d-4730-8c0a-366fd036b0ab",
   "source": "dailymed"
 }
