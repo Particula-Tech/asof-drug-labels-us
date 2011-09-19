@@ -6,7 +6,10 @@ Hypersensitivity reactions, including anaphylaxis and bronchospasm, have been re
 
 ## 5.2 Electrocardiographic Changes
 
-Rarely and predominantly with intravenous ondansetron, transient ECG changes including QT/QTc interval prolongation have been reported.
+ECG changes including QT interval prolongation have been seen in patients receiving ondansetron.
+In addition, post-marketing cases of Torsade de Pointes have been reported in patients using ondansetron.
+Avoid ZOFRAN in patients with congenital long QT syndrome.
+ECG monitoring is recommended in patients with electrolyte abnormalities (e.g., hypokalemia or hypomagnesemia), congestive heart failure, bradyarrhythmias, or patients taking other medicinal products that lead to QT prolongation.
 
 ## 5.3 Masking of Progressive Ileus and Gastric Distension
 
