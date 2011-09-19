@@ -1,0 +1,17 @@
+{
+  "application_numbers": [],
+  "inn": "barium-sulfate",
+  "labeler": "E-Z-EM Canada Inc",
+  "package_ndcs": [
+    "32909-764-01"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "barium sulfate",
+      "name": "E-Z-HD"
+    }
+  ],
+  "setid": "a4330804-7179-472a-91cb-84bbd5079bb8",
+  "source": "dailymed"
+}
