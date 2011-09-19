@@ -19,11 +19,11 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8026424 Revised January 2011
+8029540 Revised July 2011
 
 DONEPEZIL HYDROCHLORIDE TABLETS PATIENT PACKAGE INSERT
 
-Donepezil Hydrochloride Tablets
+Donepezil Hydrochloride Tablets, USP
 
 Rx Only
 
@@ -170,7 +170,7 @@ For more information, call 1-269-544-2299.
 
 What are the ingredients in donepezil hydrochloride tablets?
 
-Active ingredient: donepezil hydrochloride
+Active ingredient: donepezil hydrochloride, USP
 
 Inactive ingredients:
 
@@ -187,4 +187,4 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8026424 Revised January 2011
+8029540 Revised July 2011
