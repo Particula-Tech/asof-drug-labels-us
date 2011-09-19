@@ -33,6 +33,7 @@ Synergism or antagonism between clotrimazole and nystatin, or amphotericin B, or
 An 18-month oral dosing study with clotrimazole in rats has not revealed any carcinogenic effect.
 
 In tests for mutagenesis, chromosomes of the spermatophores of Chinese hamsters which had been exposed to clotrimazole were examined for structural changes during the metaphase.
+
 Prior to testing, the hamsters had received five oral clotrimazole doses of 100 mg/kg body weight.
 The results of this study showed that clotrimazole had no mutagenic effect.
 

@@ -1,7 +1,10 @@
 FOR EXTERNAL USE ONLY.
+
 NOT FOR OPHTHALMIC USE.
 
 This product is also available without a prescription.
+
+Rx Only
 
 Mfd. by: TARO Pharmaceuticals Inc. Brampton, Ontario, CANADA L6T 1C1
 

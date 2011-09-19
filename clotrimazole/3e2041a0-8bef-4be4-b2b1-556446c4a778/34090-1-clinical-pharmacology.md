@@ -13,6 +13,7 @@ Only a single isolate of Candida guilliermondi has been reported to have primary
 No single-step or multiple-step resistance to clotrimazole has developed during successive passages of Candida albicans and Trichophyton mentagrophytes.
 No appreciable change in sensitivity was detected after successive passages of isolates of C. albicans, C. krusei, or C. pseudotropicalis in liquid or solid media containing clotrimazole.
 Also, resistance could not be developed in chemically induced mutant strains of polyene-resistant isolates of C. albicans.
+
 Slight, reversible resistance was noted in three isolates of C. albicans tested by one investigator.
 There is a single report that records the clinical emergence of a C. albicans strain with considerable resistance to flucytosine and miconazole, and with cross-resistance to clotrimazole; the strain remained sensitive to nystatin and amphotericin B.
 
@@ -23,7 +24,9 @@ Clotrimazole appears to be well absorbed in humans following oral administration
 Following topical and vaginal administration, however, clotrimazole appears to be minimally absorbed.
 
 Six hours after the application of radioactive clotrimazole 1% cream and 1% solution onto intact and acutely inflamed skin, the concentration of clotrimazole varied from 100 mcg/cm3, in the stratum corneum to 0.5 to 1 mcg/cm3 in the stratum reticulare, and 0.1 mcg/cm3 in the subcutis.
+
 No measurable amount of radioactivity (≤0.001 mcg/mL) was found in the serum within 48 hours after application under occlusive dressing of 0.5 mL of the solution or 0.8 g of the cream.
+
 Only 0.5% or less of the applied radioactivity was excreted in the urine.
 
 Following intravaginal administration of 100 mg 14C-clotrimazole vaginal tablets to nine adult females, an average peak serum level, corresponding to only 0.03 µg equivalents/mL of clotrimazole, was reached 1 to 2 days after application.
