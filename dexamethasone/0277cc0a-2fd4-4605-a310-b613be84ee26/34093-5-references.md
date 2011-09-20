@@ -25,14 +25,10 @@ Surg.
 100: 405-408, Apr.
 1970.
 
-Baxter and Dosette are trademarks of Baxter International Inc., or its subsidiaries.
+Manufactured by:
 
-Manufactured by
+WEST-WARD PHARMACEUTICALS Eatontown, NJ 07724 USA
 
-Baxter Healthcare Corporation
+Revised June 2011
 
-Deerfield, IL 60015 USA
-
-For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
-
-MLT-21 /2.0
+462-331-01

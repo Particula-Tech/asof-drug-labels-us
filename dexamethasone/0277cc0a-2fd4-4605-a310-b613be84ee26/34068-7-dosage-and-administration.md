@@ -13,7 +13,7 @@ Since infusion solutions generally do not contain preservatives, mixtures should
 
 DOSAGE REQUIREMENTS ARE VARIABLE AND MUST BE INDIVIDUALIZED ON THE BASIS OF THE DISEASE AND THE RESPONSE OF THE PATIENT.
 
-## INTRAVENOUS AND INTRAMUSCULAR INJECTION
+## Intravenous and Intramuscular Injection
 
 The initial dosage of Dexamethasone Sodium Phosphate Injection varies from 0.5 to 9 mg a day depending on the disease being treated.
 In less severe diseases doses lower than 0.5 mg may suffice, while in severe diseases doses higher than 9 mg may be required.
@@ -32,7 +32,7 @@ When the intravenous route of administration is used, dosage usually should be t
 In certain overwhelming, acute, life-threatening situations, however, administration in dosages exceeding the usual dosages may be justified and may be in multiples of the oral dosages.
 The slower rate of absorption by intramuscular administration should be recognized.
 
-### Shock
+### SHOCK
 
 There is a tendency in current medical practice to use high (pharmacologic) doses of corticosteroids for the treatment of unresponsive shock.
 The following dosages of Dexamethasone Sodium Phosphate Injection have been suggested by various authors:
@@ -49,13 +49,13 @@ Administration of high dose corticosteroid therapy should be continued only unti
 
 Although adverse reactions associated with high dose, short term corticosteroid therapy are uncommon, peptic ulceration may occur.
 
-### Cerebral Edema
+### CEREBRAL EDEMA
 
 Dexamethasone Sodium Phosphate Injection is generally administered initially in a dosage of 10 mg intravenously followed by four mg every six hours intramuscularly until the symptoms of cerebral edema subside.
 Response is usually noted within 12 to 24 hours and dosage may be reduced after two to four days and gradually discontinued over a period of five to seven days.
 For palliative management of patients with recurrent or inoperable brain tumors, maintenance therapy with two mg two or three times a day may be effective.
 
-### Acute Allergic Disorders
+### ACUTE ALLERGIC DISORDERS
 
 In acute, self-limited allergic disorders or acute exacerbations of chronic allergic disorders the following dosage schedule combining parenteral and oral therapy is suggested:
 

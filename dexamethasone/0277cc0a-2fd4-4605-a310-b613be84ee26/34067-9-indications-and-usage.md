@@ -2,7 +2,8 @@
 
 ## A. By Intravenous or Intramuscular Injection When Oral Therapy is not Feasible:
 
-### 1. Endocrine Disorders
+1.
+ENDOCRINE DISORDERS
 
 Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the drug of choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy, mineralocorticoid supplementation is of particular importance)
 
@@ -18,7 +19,8 @@ Nonsuppurative thyroiditis
 
 Hypercalcemia associated with cancer
 
-### 2. Rheumatic Disorders
+2.
+RHEUMATIC DISORDERS
 
 As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in:
 
@@ -40,7 +42,8 @@ Psoriatic arthritis
 
 Ankylosing spondylitis
 
-### 3. Collagen Diseases
+3.
+COLLAGEN DISEASES
 
 During an exacerbation or as maintenance therapy in selected cases of:
 
@@ -48,7 +51,8 @@ Systemic lupus erythematosus
 
 Acute rheumatic carditis
 
-### 4. Dermatologic Diseases
+4.
+DERMATOLOGIC DISEASES
 
 Pemphigus
 
@@ -64,7 +68,8 @@ Severe psoriasis
 
 Mycosis fungoides
 
-### 5. Allergic States
+5.
+ALLERGIC STATES
 
 Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in:
 
@@ -84,7 +89,8 @@ Urticarial transfusion reactions
 
 Acute noninfectious laryngeal edema (epinephrine is the drug of first choice)
 
-### 6. Ophthalmic Diseases
+6.
+OPHTHALMIC DISEASES
 
 Severe acute and chronic allergic and inflammatory processes involving the eye, such as:
 
@@ -108,7 +114,8 @@ Keratitis
 
 Allergic corneal marginal ulcers
 
-### 7. Gastrointestinal Diseases
+7.
+GASTROINTESTINAL DISEASES
 
 To tide the patient over a critical period of the disease in:
 
@@ -116,7 +123,8 @@ Ulcerative colitis (Systemic therapy)
 
 Regional enteritis (Systemic therapy)
 
-### 8. Respiratory Diseases
+8.
+RESPIRATORY DISEASES
 
 Symptomatic sarcoidosis
 
@@ -124,11 +132,12 @@ Berylliosis
 
 Fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy
 
-Loeffler's syndrome not manageable by other means
+Loeffler"s syndrome not manageable by other means
 
 Aspiration pneumonitis
 
-### 9. Hematologic Disorders
+9.
+HEMATOLOGIC DISORDERS
 
 Acquired (autoimmune) hemolytic anemia
 
@@ -140,7 +149,8 @@ Erythroblastopenia (RBC anemia)
 
 Congenital (erythroid) hypoplastic anemia
 
-### 10. Neoplastic Diseases
+10.
+NEOPLASTIC DISEASES
 
 For palliative management of:
 
@@ -148,19 +158,24 @@ Leukemias and lymphomas in adults
 
 Acute leukemia of childhood
 
-### 11. Edematous States
+11.
+EDEMATOUS STATES
 
 To induce diuresis or remission of proteinuria in the nephrotic syndrome, without uremia, of the idiopathic type, or that due to lupus erythematosus
 
-### 12. Miscellaneous
+12.
+MISCELLANEOUS
 
 Tuberculous meningitis with subarachnoid block or impending block when used concurrently with appropriate antituberculous chemotherapy
 
 Trichinosis with neurologic or myocardial involvement
 
-### 13. Diagnostic Testing Of Adrenocortical Hyperfunction
+13.
+DIAGNOSTIC TESTING OF ADRENOCORTICAL HYPERFUNCTION
 
-### 14. Cerebral Edema associated with primary or metastatic brain tumor, craniotomy or head injury. Use in cerebral edema is not a substitute for careful neurosurgical evaluation and definitive management such as neurosurgery or other specific therapy.
+14.
+CEREBRAL EDEMA associated with primary or metastatic brain tumor, craniotomy or head injury.
+Use in cerebral edema is not a substitute for careful neurosurgical evaluation and definitive management such as neurosurgery or other specific therapy.
 
 ## B. By Intra-Articular or Soft Tissue Injection
 
