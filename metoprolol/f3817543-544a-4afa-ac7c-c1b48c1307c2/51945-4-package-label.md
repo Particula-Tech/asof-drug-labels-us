@@ -7,13 +7,3 @@ PROFESSIONAL SAMPLE – NOT FOR SALE
 Rx only
 
 Metoprolo Tartrate Injection, USP 5 mg per 5 mL
-
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – CARTON
-
-NDC 25021-303-05
-
-PROFESSIONAL SAMPLE – NOT FOR SALE
-
-Rx only
-
-Metoprolo Tartrate Injection, USP 5 mg per 5 mL
