@@ -2,11 +2,18 @@
 
 For intranasal use only.
 
-Patients who do not have need of antidiuretic hormone for its antidiuretic effect, in particular those who are young or elderly, should be cautioned to ingest only enough fluid to satisfy thirst, in order to decrease the potential occurrence of water intoxication and hyponatremia.
+Very rare cases of hyponatremia have been reported from world-wide postmarketing experience in patients treated with Stimate (desmopressin acetate).
+Stimate is a potent antidiuretic which, when administered, may lead to water intoxication and/or hyponatremia.
+Unless properly diagnosed and treated hyponatremia can be fatal.
+Therefore, fluid restriction is recommended and should be discussed with the patient and/or guardian.
+Careful medical supervision is required.
 
-Fluid intake should be adjusted downward, particularly in very young and elderly patients, in order to decrease the potential occurrence of water intoxication and hyponatremia.1
+When Stimate Nasal Spray is administered, in particular in pediatric and geriatric patients, fluid intake should be adjusted downward in order to decrease the potential occurrence of water intoxication and hyponatremia (See PRECAUTIONS, Pediatric Use and Geriatric Use.)
+All patients receiving Stimate therapy should be observed for the following signs or symptoms associated with hyponatremia: headache, nausea/vomiting, decreased serum sodium, weight gain, restlessness, fatigue, lethargy, disorientation, depressed reflexes, loss of appetite, irritability, muscle weakness, muscle spasms or cramps and abnormal mental status such as hallucinations, decreased consciousness and confusion.
+Severe symptoms may include one or a combination of the following: seizure, coma and/or respiratory arrest.
+Particular attention should be paid to the possibility of the rare occurrence of an extreme decrease in plasma osmolality that may result in seizures that could lead to coma.
 
-Particular attention should be paid to the possibility of the rare occurrence of an extreme decrease in plasma osmolality that may result in seizures which could lead to coma.
+Stimate should be used with caution in patients with habitual or psychogenic polydipsia, who may be more likely to drink excessive amounts of fluids, putting them at greater risk of hyponatremia.
 
 Stimate® Nasal Spray should not be used to treat patients with Type IIB von Willebrand's disease since platelet aggregation may be induced.
 
@@ -17,7 +24,7 @@ Stimate® Nasal Spray should not be used to treat patients with Type IIB von Wil
 Desmopressin acetate has infrequently produced changes in blood pressure causing either a slight elevation in blood pressure or a transient fall in blood pressure and a compensatory increase in heart rate.
 The drug should be used with caution in patients with coronary artery insufficiency and/or hypertensive cardiovascular disease.
 
-Stimate® Nasal Spray should be used with caution in patients with conditions associated with fluid and electrolyte imbalance, such as cystic fibrosis, because these patients are prone to hyponatremia.
+Stimate® Nasal Spray should be used with caution in patients with conditions associated with fluid and electrolyte imbalance, such as cystic fibrosis, heart failure and renal disorders because these patients are prone to hyponatremia.
 
 There have been rare reports of thrombotic events (thrombosis7, acute cerebrovascular thrombosis, acute myocardial infarction) following desmopressin acetate injection in patients predisposed to thrombus formation.
 No causality has been determined; however, the drug should be used with caution in these patients.
@@ -45,12 +52,12 @@ If Factor VIII coagulant activity is present at less than 5% of normal, Stimate�
 
 ## von Willebrand's Disease
 
-Laboratory tests for assessing patient status include levels of Factor VIII coagulant activity, Factor VIII ristocetin cofactor activity, and Factor VIII von Willebrand factor antigen.
-The skin bleeding time may be helpful in following these patients.
+Laboratory tests for assessing patient status include levels of Factor VIII coagulant activity, VWF:RCo and VWF:Ag.
 
 ## Drug Interactions
 
 Although the pressor activity of desmopressin acetate is very low, its use with other pressor agents should be done only with careful patient monitoring.
+The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDS, lamotrigine and carbamazepine) should be performed with caution.
 
 DDAVP® Injection has been used with epsilon aminocaproic acid without adverse effects.
 
@@ -84,11 +91,11 @@ Stimate® Nasal Spray should not be used in infants younger than 11 months in th
 ## Geriatric Use
 
 Clinical studies of Stimate® did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently than younger subjects.
-However, other post-marketing experience has reported the occurrence of hyponatremia with the use of desmopressin acetate and fluid overload.
+However, other post-marketing experience has indicated the occurrence of hyponatremia with the use of desmopressin acetate and fluid overload.
 
 Therefore, in elderly patients fluid intake should be adjusted downward in an effort to decrease the potential occurrence of water intoxication and hyponatremia.
-Particular attention should be paid to the possibility of the rare occurrence of an extreme decrease in plasma osmolality that may result in seizures, which could lead to coma.
+Particular attention should be paid to the possibility of the rare occurrence of an extreme decrease in plasma osmolality that may result in seizures, and that could lead to coma.
 
 Patients who do not have need of antidiuretic hormone for its antidiuretic effect should be cautioned to ingest only enough fluid to satisfy thirst, in an effort to decrease the potential occurrence of water intoxication and hyponatremia.
 
-As for all patients, dosing for geriatric patients should be appropriate to their overall situation.
+As for all patients, dosing for geriatric patients should be appropriate to their clinical condition.

@@ -1,6 +1,7 @@
 # OVERDOSAGE
 
-See ADVERSE REACTIONS above.
+Signs of overdose may include confusion, drowsiness, continuing headache, problems with passing urine and rapid weight gain due to fluid retention.
+(See WARNINGS.)
 In cases of overdosage, the dosage should be reduced, frequency of administration decreased, or the drug withdrawn according to the severity of the condition.
 
 There is no known specific antidote for desmopressin acetate or Stimate® Nasal Spray.
