@@ -8,7 +8,7 @@
    Annals of Internal Medicine, 2002;136:210-215.
 4. Dieck J., C. Rizo-Patron, et al. (1990).
    “A New Manifestation and Treatment Alternative for Heparin-Induced Thrombosis.”
-   Chest 98(1524-26).
+   Chest.1990;98:1524-26.
 5. Smythe M, Stephens J, Mattson.
    Delayed-Onset Heparin Induced Thrombocytopenia.
    Annals of Emergency Medicine, 2005;45(4):417-419.
@@ -18,6 +18,6 @@
 
 SAGENT™
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2010 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2011 Sagent Pharmaceuticals, Inc.
 
-PSLEA-019233-00 Revised: July 2010
+PSLEA-019233-01 Revised: June 2011

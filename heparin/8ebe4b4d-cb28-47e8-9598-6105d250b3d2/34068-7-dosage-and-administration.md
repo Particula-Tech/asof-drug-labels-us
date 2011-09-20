@@ -68,7 +68,7 @@ Frequently, a dose of 300 units per kilogram is used for procedures estimated to
 ## Low-Dose Prophylaxis of Postoperative Thromboembolism
 
 A number of well-controlled clinical trials have demonstrated that low-dose heparin prophylaxis, given just prior to and after surgery, will reduce the incidence of postoperative deep vein thrombosis in the legs (as measured by the I-125 fibrinogen technique and venography) and of clinical pulmonary embolism.
-The most widely used dosage has been 5000 units 2 hours before surgery and 5000 units every 8 to 12 hours thereafter for 7 days or until the patient is fully ambulatory, whichever is longer.
+The most widely used dosage has been 5,000 units 2 hours before surgery and 5,000 units every 8 to 12 hours thereafter for 7 days or until the patient is fully ambulatory, whichever is longer.
 The heparin is given by deep subcutaneous injection in the arm or abdomen with a fine needle (25 to 26 gauge) to minimize tissue trauma.
 A concentrated solution of heparin sodium is recommended.
 Such prophylaxis should be reserved for patients over the age of 40 who are undergoing major surgery.

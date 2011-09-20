@@ -48,25 +48,35 @@ If the coagulation test is unduly prolonged or if hemorrhage occurs, heparin sod
 
 ## Thrombocytopenia
 
-Thrombocytopenia has been reported to occur in patients receiving heparin with a reported incidence of 0 to 30%.
+Thrombocytopenia has been reported to occur in patients receiving heparin with a reported incidence of up to 30%.
 Platelet counts should be obtained at baseline and periodically during heparin administration.
 Mild thrombocytopenia (count greater than 100,000/mm3) may remain stable or reverse even if heparin is continued.
 However, thrombocytopenia of any degree should be monitored closely.
-If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis), the heparin product should be discontinued and, if necessary, an alternative anticoagulant administered.
+If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see Heparin-induced Thrombocytopenia (HIT) With or Without Thrombosis), the heparin product should be discontinued and, if necessary, an alternative anticoagulant administered.
 
-## Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT)
+## Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis)
 
-Heparin-induced Thrombocytopenia (HIT) is a serious antibody-mediated reaction resulting from irreversible aggregation of platelets.
-HIT may progress to the development of venous and arterial thromboses, a condition referred to as Heparin-induced Thrombocytopenia and Thrombosis (HITT).
-Thrombotic events may also be the initial presentation for HITT.
-These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and possibly death.
+HIT is a serious immune-mediated reaction resulting from irreversible aggregation of platelets.
+HIT may progress to the development of venous and arterial thromboses, a condition referred to as HIT with thrombosis.
+Thrombotic events may also be the initial presentation for HIT.
+These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and fatal outcomes.
+
+Once HIT (with or without thrombosis) is diagnosed or strongly suspected, all heparin sodium sources (including heparin flushes) should be discontinued and an alternative anticoagulant used.
+Future use of heparin sodium, especially within 3 to 6 months following the diagnosis of HIT (with or without thrombosis), and while patients test positive for HIT antibodies, should be avoided.
+
+Immune-mediated HIT is diagnosed based on clinical findings supplemented by laboratory tests confirming the presence of antibodies to heparin sodium, or platelet activation induced by heparin sodium.
+A drop in platelet count greater than 50% from baseline is considered indicative of HIT.
+Platelet counts begin to fall 5 to 10 days after exposure to heparin sodium in heparin sodium-naïve individuals, and reach a threshold by days 7 to 14.
+In contrast, "rapid onset" HIT can occur very quickly (within 24 hours following heparin sodium initiation), especially in patients with a recent exposure to heparin sodium (i.e. previous 3 months).
+Thrombosis development shortly after documenting thrombocytopenia is a characteristic finding in almost half of all patients with HIT.
+
 Thrombocytopenia of any degree should be monitored closely.
-If the count falls below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be promptly discontinued and alternative anticoagulants considered, if patients require continued anticoagulation.
+If the platelet count falls below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be promptly discontinued and alternative anticoagulants considered if patients require continued anticoagulation.
 
-## Delayed Onset of HIT and HITT
+## Delayed Onset of HIT (With or Without Thrombosis)
 
-Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis can occur up to several weeks after the discontinuation of heparin therapy.
-Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT and HITT.
+Heparin-induced Thrombocytopenia (with or without thrombosis) can occur up to several weeks after the discontinuation of heparin therapy.
+Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin sodium should be evaluated for HIT (with or without thrombosis).
 
 ## Use in Neonates
 
@@ -81,7 +91,7 @@ Pediatric patients, including neonates, have died as a result of medication erro
 
 ## General
 
-Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT)
+Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis) and Delayed Onset of HIT (With or Without Thrombosis.)
 
 See WARNINGS.
 
@@ -123,7 +133,7 @@ Since aminotransferase determinations are important in the differential diagnosi
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-No long-term studies in animals have been performed to evaluate the carcinogenic potential of heparin.
+No long-term studies in animals have been performed to evaluate carcinogenic potential of heparin.
 Also, no reproduction studies in animals have been performed concerning mutagenesis or impairment of fertility.
 
 ## Pregnancy
