@@ -32,15 +32,21 @@ While patients may notice improvement with Cymbalta therapy in 1 to 4 weeks, the
 
 Patients should be cautioned about the concomitant use of duloxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.5)].
 
-## 17.6 Concomitant Medications
+## 17.6 Severe Skin Reactions
 
-Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter medications, since there is a potential for interactions [see Dosage and Administration (2.5), Contraindications (4.1), Warnings and Precautions (5.4 and 5.10), and Drug Interactions (7)].
+Patients should be cautioned that Cymbalta may cause serious skin reactions.
+This may need to be treated in a hospital and may be life-threatening.
+Patients should be counseled to call their doctor right away or get emergency help if they have skin blisters, peeling rash, sores in their mouth, hives, or any other allergic reactions [see Warnings and Precautions (5.6)].
 
-## 17.7 Serotonin Syndrome
+## 17.7 Concomitant Medications
+
+Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter medications, since there is a potential for interactions [see Dosage and Administration (2.5), Contraindications (4.1), Warnings and Precautions (5.4 and 5.11), and Drug Interactions (7)].
+
+## 17.8 Serotonin Syndrome
 
 Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Cymbalta and triptans, tramadol or other serotonergic agents [see Warnings and Precautions (5.4) and Drug Interactions (7.14)].
 
-## 17.8 Pregnancy and Breast Feeding
+## 17.9 Pregnancy and Breast Feeding
 
 Patients should be advised to notify their physician if they
 
@@ -51,16 +57,16 @@ Patients should be advised to notify their physician if they
 Lilly maintains a pregnancy registry to monitor the pregnancy outcomes of women exposed to Cymbalta while pregnant.
 Healthcare providers are encouraged to register any patient who is exposed to Cymbalta during pregnancy by calling the Cymbalta Pregnancy Registry at 1-866-814-6975 or by visiting www.cymbaltapregnancyregistry.com
 
-## 17.9 Alcohol
+## 17.10 Alcohol
 
 Although Cymbalta does not increase the impairment of mental and motor skills caused by alcohol, use of Cymbalta concomitantly with heavy alcohol intake may be associated with severe liver injury.
 For this reason, Cymbalta should not be prescribed for patients with substantial alcohol use [see Warnings and Precautions (5.2) and Drug Interactions (7.16)].
 
-## 17.10 Orthostatic Hypotension and Syncope
+## 17.11 Orthostatic Hypotension and Syncope
 
 Patients should be advised of the risk of orthostatic hypotension and syncope, especially during the period of initial use and subsequent dose escalation, and in association with the use of concomitant drugs that might potentiate the orthostatic effect of duloxetine [see Warnings and Precautions (5.3)].
 
-## 17.11 Interference with Psychomotor Performance
+## 17.12 Interference with Psychomotor Performance
 
 Any psychoactive drug may impair judgment, thinking, or motor skills.
 Although in controlled studies Cymbalta has not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.

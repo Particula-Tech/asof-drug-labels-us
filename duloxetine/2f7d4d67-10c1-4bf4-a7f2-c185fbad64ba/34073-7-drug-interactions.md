@@ -5,12 +5,12 @@ Both CYP1A2 and CYP2D6 are responsible for duloxetine metabolism.
 ## 7.1 Inhibitors of CYP1A2
 
 When duloxetine 60 mg was co-administered with fluvoxamine 100 mg, a potent CYP1A2 inhibitor, to male subjects (n=14) duloxetine AUC was increased approximately 6-fold, the Cmax was increased about 2.5-fold, and duloxetine t1/2 was increased approximately 3-fold.
-Other drugs that inhibit CYP1A2 metabolism include cimetidine and quinolone antimicrobials such as ciprofloxacin and enoxacin [see Warnings and Precautions (5.10)].
+Other drugs that inhibit CYP1A2 metabolism include cimetidine and quinolone antimicrobials such as ciprofloxacin and enoxacin [see Warnings and Precautions (5.11)].
 
 ## 7.2 Inhibitors of CYP2D6
 
 Concomitant use of duloxetine (40 mg once daily) with paroxetine (20 mg once daily) increased the concentration of duloxetine AUC by about 60%, and greater degrees of inhibition are expected with higher doses of paroxetine.
-Similar effects would be expected with other potent CYP2D6 inhibitors (e.g., fluoxetine, quinidine) [see Warnings and Precautions (5.10)].
+Similar effects would be expected with other potent CYP2D6 inhibitors (e.g., fluoxetine, quinidine) [see Warnings and Precautions (5.11)].
 
 ## 7.3 Dual Inhibition of CYP1A2 and CYP2D6
 
@@ -40,7 +40,7 @@ In extremely acidic conditions, Cymbalta, unprotected by the enteric coating, ma
 Caution is advised in using Cymbalta in patients with conditions that may slow gastric emptying (e.g., some diabetics).
 Drugs that raise the gastrointestinal pH may lead to an earlier release of duloxetine.
 However, co-administration of Cymbalta with aluminum- and magnesium-containing antacids (51 mEq) or Cymbalta with famotidine, had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.
-It is unknown whether the concomitant administration of proton pump inhibitors affects duloxetine absorption [see Warnings and Precautions (5.12)].
+It is unknown whether the concomitant administration of proton pump inhibitors affects duloxetine absorption [see Warnings and Precautions (5.13)].
 
 ## 7.8 Drugs Metabolized by CYP1A2
 
@@ -51,7 +51,7 @@ Duloxetine is an inhibitor of the CYP1A2 isoform in in vitro studies, and in two
 ## 7.9 Drugs Metabolized by CYP2D6
 
 Duloxetine is a moderate inhibitor of CYP2D6.
-When duloxetine was administered (at a dose of 60 mg twice daily) in conjunction with a single 50 mg dose of desipramine, a CYP2D6 substrate, the AUC of desipramine increased 3-fold [see Warnings and Precautions (5.10)].
+When duloxetine was administered (at a dose of 60 mg twice daily) in conjunction with a single 50 mg dose of desipramine, a CYP2D6 substrate, the AUC of desipramine increased 3-fold [see Warnings and Precautions (5.11)].
 
 ## 7.10 Drugs Metabolized by CYP2C9
 
@@ -87,11 +87,11 @@ If concomitant treatment of Cymbalta with a triptan is clinically warranted, car
 When Cymbalta and ethanol were administered several hours apart so that peak concentrations of each would coincide, Cymbalta did not increase the impairment of mental and motor skills caused by alcohol.
 
 In the Cymbalta clinical trials database, three Cymbalta-treated patients had liver injury as manifested by ALT and total bilirubin elevations, with evidence of obstruction.
-Substantial intercurrent ethanol use was present in each of these cases, and this may have contributed to the abnormalities seen [see Warnings and Precautions (5.2 and 5.10)].
+Substantial intercurrent ethanol use was present in each of these cases, and this may have contributed to the abnormalities seen [see Warnings and Precautions (5.2 and 5.11)].
 
 ## 7.17 CNS Drugs
 
-[See Warnings and Precautions (5.10)].
+[See Warnings and Precautions (5.11)].
 
 ## 7.18 Drugs Highly Bound to Plasma Protein
 

@@ -58,7 +58,7 @@ Of the 1,074 patients in the DPNP premarketing studies, 33% (357) were 65 years 
 Of the 1,761 patients in FM premarketing studies, 7.9% (140) were 65 years of age or over.
 Premarketing clinical studies of GAD did not include sufficient numbers of subjects age 65 or over to determine whether they respond differently from younger subjects.
 In the MDD, DPNP, FM, OA, and CLBP studies, no overall differences in safety or effectiveness were generally observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-SSRIs and SNRIs, including Cymbalta have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.11)].
+SSRIs and SNRIs, including Cymbalta have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.12)].
 In a subgroup analysis of patients 65 years of age and older (N=3278) from all placebo-controlled trials, 1.1% of patients treated with duloxetine reported one or more falls, compared with 0.4% of patients treated with placebo.
 While many patients with falls had underlying potential risk factors for falls (e.g., medications; medical comorbidities; gait disturbances), the impact of these factors on falls is unclear.
 Fall with serious consequences including bone fractures and hospitalizations have been reported [see Other Adverse Reactions Observed During the Premarketing and Postmarketing Clinical Trial Evaluation of Duloxetine (6.11)].
@@ -86,7 +86,7 @@ No specific pharmacokinetic study was conducted to investigate the effects of ra
 
 Patients with clinically evident hepatic insufficiency have decreased duloxetine metabolism and elimination.
 After a single 20 mg dose of Cymbalta, 6 cirrhotic patients with moderate liver impairment (Child-Pugh Class B) had a mean plasma duloxetine clearance about 15% that of age- and gender-matched healthy subjects, with a 5-fold increase in mean exposure (AUC).
-Although Cmax was similar to normals in the cirrhotic patients, the half-life was about 3 times longer [see Dosage and Administration (2.3) and Warnings and Precautions (5.12)].
+Although Cmax was similar to normals in the cirrhotic patients, the half-life was about 3 times longer [see Dosage and Administration (2.3) and Warnings and Precautions (5.13)].
 
 ## 8.10 Severe Renal Impairment
 
@@ -94,4 +94,4 @@ Limited data are available on the effects of duloxetine in patients with end-sta
 After a single 60 mg dose of duloxetine, Cmax and AUC values were approximately 100% greater in patients with end-stage renal disease receiving chronic intermittent hemodialysis than in subjects with normal renal function.
 The elimination half-life, however, was similar in both groups.
 The AUCs of the major circulating metabolites, 4-hydroxy duloxetine glucuronide and 5-hydroxy, 6-methoxy duloxetine sulfate, largely excreted in urine, were approximately 7- to 9-fold higher and would be expected to increase further with multiple dosing.
-Population PK analyses suggest that mild to moderate degrees of renal dysfunction (estimated CrCl 30-80 mL/min) have no significant effect on duloxetine apparent clearance [see Dosage and Administration (2.3) and Warnings and Precautions (5.12)].
+Population PK analyses suggest that mild to moderate degrees of renal dysfunction (estimated CrCl 30-80 mL/min) have no significant effect on duloxetine apparent clearance [see Dosage and Administration (2.3) and Warnings and Precautions (5.13)].

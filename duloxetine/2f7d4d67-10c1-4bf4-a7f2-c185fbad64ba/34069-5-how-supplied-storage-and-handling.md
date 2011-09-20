@@ -6,7 +6,7 @@ Cymbalta is available as delayed release capsules in the following strengths, co
 
 | Features | Strengths |  |  |  |
 | --- | --- | --- | --- | --- |
-| 20 mga | 30 mga | 60 mga |  |  |
+|  | 20 mga | 30 mga | 60 mga |  |
 | Body color | Opaque green | Opaque white | Opaque green |  |
 | Cap color | Opaque green | Opaque blue | Opaque blue |  |
 | Cap imprint | Lilly 3235 | Lilly 3240 | Lilly 3237 | Lilly 3270 |

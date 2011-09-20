@@ -9,4 +9,4 @@ Some cases presented with features resembling neuroleptic malignant syndrome [se
 
 ## 4.2 Uncontrolled Narrow-Angle Glaucoma
 
-In clinical trials, Cymbalta use was associated with an increased risk of mydriasis; therefore, its use should be avoided in patients with uncontrolled narrow-angle glaucoma [see Warnings and Precautions (5.12)].
+In clinical trials, Cymbalta use was associated with an increased risk of mydriasis; therefore, its use should be avoided in patients with uncontrolled narrow-angle glaucoma [see Warnings and Precautions (5.13)].

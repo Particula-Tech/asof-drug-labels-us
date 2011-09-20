@@ -55,9 +55,9 @@ Chronic Musculoskeletal Pain — The efficacy of Cymbalta has not been establish
 
 ## 2.3 Dosing in Special Populations
 
-Hepatic Insufficiency — It is recommended that Cymbalta should ordinarily not be administered to patients with any hepatic insufficiency [see Warnings and Precautions (5.12) and Use in Specific Populations (8.9)].
+Hepatic Insufficiency — It is recommended that Cymbalta should ordinarily not be administered to patients with any hepatic insufficiency [see Warnings and Precautions (5.13) and Use in Specific Populations (8.9)].
 
-Severe Renal Impairment — Cymbalta is not recommended for patients with end-stage renal disease or severe renal impairment (estimated creatinine clearance <30 mL/min) [see Warnings and Precautions (5.12) and Use in Specific Populations (8.10)].
+Severe Renal Impairment — Cymbalta is not recommended for patients with end-stage renal disease or severe renal impairment (estimated creatinine clearance <30 mL/min) [see Warnings and Precautions (5.13) and Use in Specific Populations (8.10)].
 
 Elderly Patients — No dose adjustment is recommended for elderly patients on the basis of age.
 As with any drug, caution should be exercised in treating the elderly.
@@ -73,7 +73,7 @@ Nursing Mothers — Because the safety of duloxetine in infants is not known, nu
 ## 2.4 Discontinuing Cymbalta
 
 Symptoms associated with discontinuation of Cymbalta and other SSRIs and SNRIs have been reported.
-A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible [see Warnings and Precautions (5.6)].
+A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible [see Warnings and Precautions (5.7)].
 
 ## 2.5 Switching Patients to or from a Monoamine Oxidase Inhibitor
 

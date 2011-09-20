@@ -13,7 +13,7 @@ In all of these clinical studies, analyses of the relationship between treatment
 In another study, 533 patients meeting DSM-IV criteria for MDD received Cymbalta 60 mg once daily during an initial 12-week open-label treatment phase.
 Two hundred and seventy-eight patients who responded to open label treatment (defined as meeting the following criteria at weeks 10 and 12: a HAMD-17 total score ≤9, Clinical Global Impressions of Severity (CGI-S) ≤2, and not meeting the DSM-IV criteria for MDD) were randomly assigned to continuation of Cymbalta at the same dose (N=136) or to placebo (N=142) for 6 months.
 Patients on Cymbalta experienced a statistically significantly longer time to relapse of depression than did patients on placebo.
-Relapse was defined as an increase in the CGI–S score of ≥2 points compared with that obtained at week 12, as well as meeting the DSM-IV criteria for MDD at 2 consecutive visits at least 2 weeks apart, where the 2-week temporal criterion had to be satisfied at only the second visit.
+Relapse was defined as an increase in the CGI-S score of ≥2 points compared with that obtained at week 12, as well as meeting the DSM-IV criteria for MDD at 2 consecutive visits at least 2 weeks apart, where the 2-week temporal criterion had to be satisfied at only the second visit.
 The effectiveness of Cymbalta in hospitalized patients with major depressive disorder has not been studied.
 
 ## 14.2 Generalized Anxiety Disorder

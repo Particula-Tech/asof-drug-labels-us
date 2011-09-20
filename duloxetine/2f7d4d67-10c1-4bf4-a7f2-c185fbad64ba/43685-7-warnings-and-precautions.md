@@ -40,7 +40,7 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that discontinuation can be associated with certain symptoms [see Dosage and Administration (2.4) and Warnings and Precautions (5.6) for descriptions of the risks of discontinuation of Cymbalta].
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that discontinuation can be associated with certain symptoms [see Dosage and Administration (2.4) and Warnings and Precautions (5.7) for descriptions of the risks of discontinuation of Cymbalta].
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
@@ -73,7 +73,7 @@ Because it is possible that duloxetine and alcohol may interact to cause liver i
 
 Orthostatic hypotension and syncope have been reported with therapeutic doses of duloxetine.
 Syncope and orthostatic hypotension tend to occur within the first week of therapy but can occur at any time during duloxetine treatment, particularly after dose increases.
-The risk of blood pressure decreases may be greater in patients taking concomitant medications that induce orthostatic hypotension (such as antihypertensives) or are potent CYP1A2 inhibitors [see Warnings and Precautions (5.10) and Drug Interactions (7.1)] and in patients taking duloxetine at doses above 60 mg daily.
+The risk of blood pressure decreases may be greater in patients taking concomitant medications that induce orthostatic hypotension (such as antihypertensives) or are potent CYP1A2 inhibitors [see Warnings and Precautions (5.11) and Drug Interactions (7.1)] and in patients taking duloxetine at doses above 60 mg daily.
 Consideration should be given to discontinuing duloxetine in patients who experience symptomatic orthostatic hypotension and/or syncope during duloxetine therapy.
 
 ## 5.4 Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
@@ -100,7 +100,15 @@ Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hema
 
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of duloxetine and NSAIDs, aspirin, or other drugs that affect coagulation.
 
-## 5.6 Discontinuation of Treatment with Cymbalta
+## 5.6 Severe Skin Reactions
+
+Severe skin reactions, including erythema multiforme and Stevens-Johnson Syndrome (SJS), can occur with Cymbalta.
+The reporting rate of SJS associated with Cymbalta use exceeds the general population background incidence rate for this serious skin reaction (1 to 2 cases per million person years).
+The reporting rate is generally accepted to be an underestimate due to underreporting.
+
+Cymbalta should be discontinued at the first appearance of blisters, peeling rash, mucosal erosions, or any other sign of hypersensitivity if no other etiology can be identified.
+
+## 5.7 Discontinuation of Treatment with Cymbalta
 
 Discontinuation symptoms have been systematically evaluated in patients taking duloxetine.
 Following abrupt or tapered discontinuation in placebo-controlled clinical trials, the following symptoms occurred at 1% or greater and at a significantly higher rate in duloxetine-treated patients compared to those discontinuing from placebo: dizziness, nausea, headache, paresthesia, fatigue, vomiting, irritability, insomnia, diarrhea, anxiety, and hyperhidrosis.
@@ -113,20 +121,20 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate [see Dosage and Administration (2.4)].
 
-## 5.7 Activation of Mania/Hypomania
+## 5.8 Activation of Mania/Hypomania
 
 In placebo-controlled trials in patients with major depressive disorder, activation of mania or hypomania was reported in 0.1% (3/3007) of duloxetine-treated patients and 0.1% (1/1883) of placebo-treated patients.
 No activation of mania or hypomania was reported in GAD, fibromyalgia, or chronic musculoskeletal pain placebo-controlled trials.
 Activation of mania or hypomania has been reported in a small proportion of patients with mood disorders who were treated with other marketed drugs effective in the treatment of major depressive disorder.
 As with these other agents, Cymbalta should be used cautiously in patients with a history of mania.
 
-## 5.8 Seizures
+## 5.9 Seizures
 
 Duloxetine has not been systematically evaluated in patients with a seizure disorder, and such patients were excluded from clinical studies.
 In placebo-controlled clinical trials, seizures/convulsions occurred in 0.03% (3/11,305) of patients treated with duloxetine and 0.01% (1/8224) of patients treated with placebo.
 Cymbalta should be prescribed with care in patients with a history of a seizure disorder.
 
-## 5.9 Effect on Blood Pressure
+## 5.10 Effect on Blood Pressure
 
 In placebo-controlled clinical trials across indications from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.5 mm Hg in systolic blood pressure and 0.8 mm Hg in diastolic blood pressure compared to mean decreases of 0.6 mm Hg systolic and 0.3 mm Hg diastolic in placebo-treated patients.
 There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure.
@@ -135,7 +143,7 @@ At the highest 200 mg twice daily dose, the increase in mean pulse rate was 5.0 
 
 Blood pressure should be measured prior to initiating treatment and periodically measured throughout treatment [see Adverse Reactions (6.7)].
 
-## 5.10 Clinically Important Drug Interactions
+## 5.11 Clinically Important Drug Interactions
 
 Both CYP1A2 and CYP2D6 are responsible for duloxetine metabolism.
 
@@ -156,9 +164,9 @@ Other Clinically Important Drug Interactions
 Alcohol — Use of Cymbalta concomitantly with heavy alcohol intake may be associated with severe liver injury.
 For this reason, Cymbalta should not be prescribed for patients with substantial alcohol use [see Warnings and Precautions (5.2) and Drug Interactions (7.16)].
 
-CNS Acting Drugs — Given the primary CNS effects of Cymbalta, it should be used with caution when it is taken in combination with or substituted for other centrally acting drugs, including those with a similar mechanism of action [see Warnings and Precautions (5.10) and Drug Interactions (7.17)].
+CNS Acting Drugs — Given the primary CNS effects of Cymbalta, it should be used with caution when it is taken in combination with or substituted for other centrally acting drugs, including those with a similar mechanism of action [see Warnings and Precautions (5.11) and Drug Interactions (7.17)].
 
-## 5.11 Hyponatremia
+## 5.12 Hyponatremia
 
 Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including Cymbalta.
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
@@ -170,7 +178,7 @@ Discontinuation of Cymbalta should be considered in patients with symptomatic hy
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 More severe and/or acute cases have been associated with hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
-## 5.12 Use in Patients with Concomitant Illness
+## 5.13 Use in Patients with Concomitant Illness
 
 Clinical experience with Cymbalta in patients with concomitant systemic illnesses is limited.
 There is no information on the effect that alterations in gastric motility may have on the stability of Cymbalta's enteric coating.
@@ -193,7 +201,7 @@ In the 12-week acute treatment phase of these studies, Cymbalta was associated w
 In the extension phase of these studies, which lasted up to 52 weeks, mean fasting blood glucose increased by 12 mg/dL in the Cymbalta group and decreased by 11.5 mg/dL in the routine care group.
 HbA1c increased by 0.5% in the Cymbalta and by 0.2% in the routine care groups.
 
-## 5.13 Urinary Hesitation and Retention
+## 5.14 Urinary Hesitation and Retention
 
 Cymbalta is in a class of drugs known to affect urethral resistance.
 If symptoms of urinary hesitation develop during treatment with Cymbalta, consideration should be given to the possibility that they might be drug-related.
@@ -201,6 +209,6 @@ If symptoms of urinary hesitation develop during treatment with Cymbalta, consid
 In post marketing experience, cases of urinary retention have been observed.
 In some instances of urinary retention associated with duloxetine use, hospitalization and/or catheterization has been needed.
 
-## 5.14 Laboratory Tests
+## 5.15 Laboratory Tests
 
 No specific laboratory tests are recommended.

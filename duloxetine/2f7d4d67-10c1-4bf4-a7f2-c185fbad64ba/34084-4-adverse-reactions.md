@@ -50,9 +50,9 @@ Table 2 gives the incidence of treatment-emergent adverse reactions in placebo-c
 
 Table 2: Treatment-Emergent Adverse Reactions: Incidence of 5% or More in Placebo-Controlled Trials of Approved Indicationsa
 
-| Adverse Reaction | Percentage of Patients Reporting Reaction |  |
+|  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| Cymbalta (N=6801) | Placebo (N=4487) |  |
+| Adverse Reaction | Cymbalta (N=6801) | Placebo (N=4487) |
 | Nausea | 24 | 8 |
 | Headache | 14 | 13 |
 | Dry mouth | 13 | 5 |
@@ -71,7 +71,7 @@ Table 2: Treatment-Emergent Adverse Reactions: Incidence of 5% or More in Placeb
 | d Also includes middle insomnia, early morning awakening, and initial insomnia. |  |  |
 | e Also includes hypersomnia and sedation. |  |  |
 | f Also includes anorexia. |  |  |
-| g Also includes abdominal discomfort,abdominal pain lower, abdominal pain upper, abdominal tenderness, and gastrointestinal pain. |  |  |
+| g Also includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness, and gastrointestinal pain. |  |  |
 
 ## 6.5 Adverse Reactions Occurring at an Incidence of 2% or More Among Duloxetine-Treated Patients in Placebo-Controlled Trials
 
@@ -137,9 +137,9 @@ DPNP, FM, OA, and CLBP — Table 4 gives the incidence of treatment-emergent adv
 
 Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in DPNP, FM, OA, and CLBP Placebo-Controlled Trialsa
 
-| System Organ Class / Adverse Reaction | Percentage of Patients Reporting Reaction |  |
+|  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| Cymbalta (N=2884) | Placebo (N=1939) |  |
+| System Organ Class / Adverse Reaction | Cymbalta (N=2884) | Placebo (N=1939) |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 24 | 8 |
 | Dry Mouthb | 11 | 3 |
@@ -156,7 +156,8 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in DPNP, 
 | Influenza | 2 | 2 |
 | Metabolism and Nutrition Disorders |  |  |
 | Decreased Appetiteb,f | 9 | 1 |
-| Musculoskeletal and Connective Tissue Musculoskeletal Painb,g | 4 | 4 |
+| Musculoskeletal and Connective Tissue |  |  |
+| Musculoskeletal Painb,g | 4 | 4 |
 | Muscle Spasms | 3 | 2 |
 | Back pain | 3 | 3 |
 | Nervous System Disorders |  |  |
@@ -222,7 +223,7 @@ Table 5: Mean Change in ASEX Scores by Gender in MDD Placebo-Controlled Trials
 ## 6.7 Vital Sign Changes
 
 In placebo-controlled clinical trials across approved indications for change from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.17 mm Hg in systolic blood pressure and 0.70 mm Hg in diastolic blood pressure compared to mean decreases of 1.16 mm Hg systolic and 0.59 mm Hg diastolic in placebo-treated patients.
-There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure [see Warnings and Precautions (5.3 and 5.9)].
+There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure [see Warnings and Precautions (5.3 and 5.10)].
 
 Duloxetine treatment, for up to 26 weeks in placebo-controlled trials across approved indications, typically caused a small increase in heart rate for change from baseline to endpoint compared to placebo of up to 1.36 beats per minute.
 
@@ -292,6 +293,4 @@ Vascular Disorders — Frequent: hot flush; Infrequent: flushing, orthostatic hy
 The following adverse reactions have been identified during postapproval use of Cymbalta.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, erythema multiforme, extrapyramidal disorder, galactorrhea, glaucoma, gynecological bleeding, hallucinations, hyperglycemia, hyperprolactinemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.
-
-Serious skin reactions including Stevens-Johnson Syndrome that have required drug discontinuation and/or hospitalization have been reported with duloxetine.
+Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, extrapyramidal disorder, galactorrhea, glaucoma, gynecological bleeding, hallucinations, hyperglycemia, hyperprolactinemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.
