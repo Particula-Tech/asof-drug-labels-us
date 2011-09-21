@@ -22,7 +22,7 @@ Patients should also be advised that if they develop an intercurrent ocular cond
 
 ## 17.5 Use with Contact Lenses
 
-Contact lenses should be removed prior to instillation of TRAVATAN® and may be reinserted 15 minutes following its administration.
+Contact lenses should be removed prior to instillation of TRAVATAN Z® and may be reinserted 15 minutes following its administration.
 
 ## 17.6 Use with Other Ophthalmic Drugs
 
@@ -40,4 +40,6 @@ ALCON LABORATORIES, INC.
 
 Fort Worth, Texas 76134 USA
 
-© 2006, 2010 Alcon, Inc.
+© 2006, 2010, 2011 Novartis
+
+AAA2503-0811
