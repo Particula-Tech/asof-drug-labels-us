@@ -82,3 +82,42 @@ in a nonliquefying base
 Rx only
 
 Wyeth®
+
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 0.625 mg - TUBE
+
+NDC 0046-0872-04
+
+PROFESSIONAL SAMPLE – NOT FOR SALE
+
+premarin®
+
+(conjugated estrogens)
+
+vaginal cream
+
+Each gram contains 0.625mg conjugated estrogens, USP.
+
+Rx only
+
+Net Wt.0.14 oz.
+(4g)
+
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 0.625 mg - CARTON
+
+NDC 0046-0872-04
+
+PROFESSIONAL SAMPLE – NOT FOR SALE
+
+premarin®
+
+(conjugated estrogens)
+
+vaginal cream
+
+Rx only
+
+Net Wt.
+0.14 oz.
+(4g)
+
+Pfizer
