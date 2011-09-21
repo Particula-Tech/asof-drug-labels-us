@@ -41,4 +41,6 @@ ALCON LABORATORIES, INC.
 
 Fort Worth, Texas 76134 USA
 
-© 2006, 2010 Alcon, Inc.
+© 2006, 2010, 2011 Novartis
+
+AAA2502-0811

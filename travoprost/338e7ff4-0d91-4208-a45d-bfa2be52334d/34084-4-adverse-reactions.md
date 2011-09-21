@@ -11,3 +11,5 @@ Ocular adverse reactions reported at an incidence of 5 to 10% in these clinical 
 Ocular adverse reactions reported at an incidence of 1 to 4% in clinical studies with TRAVATAN® or TRAVATAN Z® included abnormal vision, blepharitis, blurred vision, cataract, conjunctivitis, corneal staining, dry eye, iris discoloration, keratitis, lid margin crusting, ocular inflammation, photophobia, subconjunctival hemorrhage and tearing.
 
 Nonocular adverse reactions reported at an incidence of 1 to 5% in these clinical studies were allergy, angina pectoris, anxiety, arthritis, back pain, bradycardia, bronchitis, chest pain, cold/flu syndrome, depression, dyspepsia, gastrointestinal disorder, headache, hypercholesterolemia, hypertension, hypotension, infection, pain, prostate disorder, sinusitis, urinary incontinence and urinary tract infections.
+
+In postmarketing use with prostaglandin analogs, periorbital and lid changes including deepening of the eyelid sulcus have been observed.
