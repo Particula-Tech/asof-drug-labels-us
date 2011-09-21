@@ -185,10 +185,11 @@ DO NOT use the two-vial formulation (Injection Concentrate and diluent) with the
 One-vial TAXOTERE (Injection Concentrate)
 
 TAXOTERE Injection Concentrate (20 mg/mL) requires NO prior dilution with a diluent and is ready to add to the infusion solution.
+Use only a 21 gauge needle to withdraw TAXOTERE from the vial because larger bore needles (e.g., 18 and 19 gauge) may result in stopper coring and rubber particulates.
 
 1. TAXOTERE vials should be stored between 2 and 25°C (36 and 77°F).
    If the vials are stored under refrigeration, allow the appropriate number of vials of TAXOTERE Injection Concentrate vials to stand at room temperature for approximately 5 minutes before use.
-2. Aseptically withdraw the required amount of TAXOTERE injection concentrate (20 mg docetaxel/mL) with a calibrated syringe and inject into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
+2. Using only a 21 gauge needle aseptically withdraw the required amount of TAXOTERE injection concentrate (20 mg docetaxel/mL) with a calibrated syringe and inject into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
    If a dose greater than 200 mg of TAXOTERE is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL TAXOTERE is not exceeded
 3. Thoroughly mix the infusion by gentle manual rotation.
 4. As with all parenteral products, TAXOTERE should be inspected visually for particulate matter or discoloration prior to administration whenever the solution and container permit.

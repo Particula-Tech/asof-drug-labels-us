@@ -321,7 +321,7 @@ Table 7 - Treatment Emergent Adverse Reactions Regardless of Relationship to Tre
 | Anemia |  |  |  |
 | Any | 91 | 55 | 91 |
 | Grade 3/4 | 9 | 12 | 14 |
-| Febrile NeutropeniaFebrile Neutropenia: ANC grade 4 with fever >38°C with intravenous antibiotics and/or hospitalization | 6 | NANot Applicable | 1 |
+| Febrile NeutropeniaFebrile Neutropenia: ANC grade 4 with fever >38°C with intravenous antibiotics and/or hospitalization | 6 | NANot Applicable; | 1 |
 | Infection |  |  |  |
 | Any | 34 | 29 | 30 |
 | Grade 3/4 | 10 | 6 | 9 |
