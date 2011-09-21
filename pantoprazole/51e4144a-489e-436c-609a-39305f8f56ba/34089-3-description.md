@@ -1,7 +1,11 @@
-# DESCRIPTION
+# 11 DESCRIPTION
+
+Therapeutic class: Proton Pump Inhibitor (PPI)
+
+Route of administration: For Intravenous use only
 
 The active ingredient in PROTONIX® I.V.
-(pantoprazole sodium) for Injection is a substituted benzimidazole, sodium 5-(difluoromethoxy)-2-[[(3,4-dimethoxy-2-pyridinyl)methyl] sulfinyl]-1H-benzimidazole, a compound that inhibits gastric acid secretion.
+(intravenous pantoprazole sodium) for Injection is a substituted benzimidazole, sodium 5-(difluoromethoxy)-2-[[(3,4-dimethoxy-2-pyridinyl)methyl] sulfinyl]-1H-benzimidazole, a compound that inhibits gastric acid secretion.
 Its empirical formula is C16H14F2N3NaO4S, with a molecular weight of 405.4.
 The structural formula is:
 
