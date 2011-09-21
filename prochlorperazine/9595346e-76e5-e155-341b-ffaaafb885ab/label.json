@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040058"
+  ],
   "inn": "prochlorperazine",
-  "labeler": "G&W Laboratories, Inc.",
+  "labeler": "G & W LABORATORIES, INC.",
   "package_ndcs": [
     "0713-0135-10",
     "0713-0135-12"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SUPPOSITORY",
+      "generic": "prochlorperazine",
+      "name": "Prochlorperazine"
+    }
+  ],
   "setid": "9595346e-76e5-e155-341b-ffaaafb885ab",
   "source": "dailymed"
 }

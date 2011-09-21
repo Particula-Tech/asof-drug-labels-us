@@ -1,8 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-## Dosage and Administration - Adults
-
-Dosage should be increased more gradually in debilitated or emaciated patients.
+Dosage and Administration - Adults Dosage should be increased more gradually in debilitated or emaciated patients.
 
 Elderly Patients: In general, dosages in the lower range are sufficient for most elderly patients.
 Since they appear to be more susceptible to hypotension and neuromuscular reactions, such patients should be observed closely.

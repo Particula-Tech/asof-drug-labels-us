@@ -12,9 +12,7 @@ Leukopenia and agranulocytosis have occurred.
 Warn patients to report the sudden appearance of sore throat or other signs of infection.
 If white blood cell and differential counts indicate leukocyte depression, stop treatment and start antibiotic and other suitable therapy.
 
-## Neuromuscular (Extrapyramidal) Reactions
-
-These symptoms are seen in a significant number of hospitalized mental patients.
+Neuromuscular (Extrapyramidal) Reactions These symptoms are seen in a significant number of hospitalized mental patients.
 They may be characterized by motor restlessness, be of the dystonic type, or they may resemble parkinsonism.
 
 Depending on the severity of symptoms, dosage should be reduced or discontinued.
@@ -33,9 +31,9 @@ Dosage should not be increased until these side effects have subsided.
 If these symptoms become too troublesome, they can usually be controlled by a reduction of dosage or change of drug.
 Treatment with anti-parkinsonian agents, benzodiazepines or propranolol may be helpful.
 
-## Extrapyramidal Symptoms Dystonia
+These usually subside within a few hours, and almost always within 24 to 48 hours, after the drug has been discontinued.
 
-Class effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Extrapyramidal Symptoms Dystonia Class effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
