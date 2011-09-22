@@ -6,9 +6,8 @@ Active Duodenal Ulcer— In a multicenter, double-blind, placebo-controlled stud
 
 Treatment of Active Duodenal Ulcer % of Patients Healed
 
-|  | (n=99) | (n=48) |
+|  | Omeprazole 20 mg a.m.(n=99) | Placebo a.m.(n=48) |
 | --- | --- | --- |
-|  | Omeprazole 20 mg a.m. | Placebo a.m. |
 | Week 2 | (p ≤ 0.01)41 | 13 |
 | Week 4 | 75 | 27 |
 
@@ -56,7 +55,7 @@ The combination of omeprazole plus clarithromycin plus amoxicillin was effective
 
 Table 6
 
-|  | Per-Protocol Patients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. Pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer. | Intent-to-Treat Patients were included in the analysis if they had documented H. Pylori infection at baseline and had confirmed duodenal ulcer disease. All dropouts were included as failures of therapy. | Per-Protocol | Intent-to-Treat |
+|  | Per-Protocol Patients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer. | Intent-to-Treat Patients were included in the analysis if they had documented H. pylori infection at baseline and had confirmed duodenal ulcer disease. All dropouts were included as failures of therapy. | Per-Protocol | Intent-to-Treat |
 | --- | --- | --- | --- | --- |
 | Per-Protocol and Intent-to-Treat H. pylori Eradication Rates % of Patients Cured [95% Confidence Interval] |  |  |  |  |
 |  | Omeprazole +clarithromycin +amoxicillin |  | Clarithromycin +amoxicillin |  |
@@ -81,10 +80,10 @@ The combination of omeprazole and clarithromycin was effective in eradicating H.
 
 Table 7
 
-| U.S. Studies |  |  |  |
+|  | Omeprazole + Clarithromycin | Omeprazole | Clarithromycin |
 | --- | --- | --- | --- |
 | H. pylori Eradication Rates (Per-Protocol Analysis at 4 to 6 Weeks) % of Patients Cured [95% Confidence Interval] |  |  |  |
-|  | Omeprazole +Clarithromycin | Omeprazole | Clarithromycin |
+| U.S. Studies |  |  |  |
 | Study 4 | 74 [60, 85]Statistically significantly higher than clarithromycin monotherapy (p < 0.05) Statistically significantly higher than omeprazole monotherapy (p < 0.05)(n=53) | 0 [0, 7] (n=54) | 31 [18, 47] (n=42) |
 | Study 5 | 64 [51, 76](n=61) | 0 [0, 6] (n=59) | 39 [24, 55] (n=44) |
 | Non U.S. Studies |  |  |  |
@@ -100,10 +99,10 @@ Table 8
 | Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status% of Patients with Ulcer Recurrence |  |  |
 | --- | --- | --- |
 |  | H. pylori eradicated H. pylori eradication status assessed at same time point as ulcer recurrence | H. pylori not eradicated |
-| U.S. StudiesCombined results for omeprazole + clarithromycin, omeprazole, and clarithromycin treatment arms 6 months post-treatment |  |  |
-| Study 4 | (p ≤ 0.01) versus proportion with duodenal ulcer recurrence who were not H. pylori eradicated35 (n=49) | 60 (n=88) |
+| U.S. StudiesCombined results for omeprazole + clarithromycin, omeprazole, and clarithromycin treatment arms6 months post-treatment |  |  |
+| Study 4 | Combined results for omeprazole + clarithromycin and omeprazole treatment arms 35 (n=49) | 60 (n=88) |
 | Study 5 | 8 (n=53) | 60 (n=106) |
-| Non U.S. StudiesCombined results for omeprazole + clarithromycin and omeprazole treatment arms 6 months post-treatment |  |  |
+| Non U.S. Studies(p ≤ 0.01) versus proportion with duodenal ulcer recurrence who were not H. pylori eradicated6 months post-treatment |  |  |
 | Study 6 | 5 (n=43) | 46 (n=78) |
 | Study 7 | 6 (n=53) | 43 (n=107) |
 | 12 months post-treatment |  |  |
@@ -139,7 +138,7 @@ Results are shown below.
 
 % Successful Symptomatic Outcome Defined as complete resolution of heartburn
 
-|  | Omeprazole 20 mg a.m. | Omeprazole 10 mg a.m. | PLACEBO a.m. |
+|  | Omeprazole 20 mg a.m. | Omeprazole 10 mg a.m. | Placebo a.m. |
 | --- | --- | --- | --- |
 | All patients | 46 (p < 0.005) versus 10 mg(p < 0.005) versus placebo(n=205) | 31(n=199) | 13 (n=105) |
 | Patients with confirmed GERD | 56 (n=115) | 36 (n=109) | 14 (n=59) |
@@ -187,19 +186,19 @@ In patients who initially had grades 3 or 4 erosive esophagitis, for maintenance
 In open studies of 136 patients with pathological hypersecretory conditions, such as Zollinger-Ellison (ZE) syndrome with or without multiple endocrine adenomas, omeprazole delayed-release capsules significantly inhibited gastric acid secretion and controlled associated symptoms of diarrhea, anorexia, and pain.
 Doses ranging from 20 mg every other day to 360 mg per day maintained basal acid secretion below 10 mEq/hr in patients without prior gastric surgery, and below 5 mEq/hr in patients with prior gastric surgery.
 
-Initial doses were titrated to the individual patient need, and adjustments were necessary with time in some patients [see Dosage and Administration (2)] omeprazole was well tolerated at these high dose levels for prolonged periods (> 5 years in some patients).
+Initial doses were titrated to the individual patient need, and adjustments were necessary with time in some patients [see DOSAGE AND ADMINISTRATION (2)] omeprazole was well tolerated at these high dose levels for prolonged periods (> 5 years in some patients).
 In most ZE patients, serum gastrin levels were not modified by omeprazole.
 However, in some patients serum gastrin increased to levels greater than those present prior to initiation of omeprazole therapy.
 At least 11 patients with ZE syndrome on long-term treatment with omeprazole developed gastric carcinoids.
 These findings are believed to be a manifestation of the underlying condition, which is known to be associated with such tumors, rather than the result of the administration of omeprazole.
-[See Adverse Reactions (6)]
+[See ADVERSE REACTIONS (6)]
 
 ## 14.6 Pediatric GERD
 
 Symptomatic GERD
 
-The effectiveness of omeprazole for the treatment of nonerosive GERD in pediatric patients 2 to 16 years of age is based in part on data obtained from pediatric patients in two uncontrolled Phase III studies.
-[See Use in Specific Populations (8.4)]
+The effectiveness of omeprazole for the treatment of nonerosive GERD in pediatric patients 2 to 16 years of age is based in part on data obtained from pediatric patients in an uncontrolled Phase III study.
+[See USE IN SPECIFIC POPULATIONS (8.4)]
 
 The study enrolled 113 pediatric patients 2 to 16 years of age with a history of symptoms suggestive of nonerosive GERD.
 Patients were administered a single dose of omeprazole (10 mg or 20 mg, based on body weight) for 4 weeks either as an intact capsule or as an open capsule in applesauce.
@@ -208,7 +207,7 @@ Results showed success rates of 60% (9/15; 10 mg omeprazole) and 59% (58/98; 20 
 
 Healing of Erosive Esophagitis
 
-In an uncontrolled, open-label dose-titration study, healing of erosive esophagitis in pediatric patients 1 to 16 years of age required doses that ranged from 0.7 to 3.5 mg/kg/day (80 mg/day).
+In an uncontrolled, open-label dose-titration study, healing of erosive esophagitis in pediatric patients 2 to 16 years of age required doses that ranged from 0.7 to 3.5 mg/kg/day (80 mg/day).
 Doses were initiated at 0.7 mg/kg/day.
 Doses were increased in increments of 0.7 mg/kg/day (if intraesophageal pH showed a pH of < 4 for less than 6% of a 24-hour study).
 After titration, patients remained on treatment for 3 months.
