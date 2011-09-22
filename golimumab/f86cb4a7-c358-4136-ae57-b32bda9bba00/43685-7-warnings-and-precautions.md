@@ -1,15 +1,17 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-(see Boxed WARNINGS)
+(see Boxed WARNING)
 
 ## 5.1 Serious Infections
 
-Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, protozoal, or other opportunistic pathogens have been reported in patients receiving TNF-blockers including SIMPONI.
-Among opportunistic infections, tuberculosis, histoplasmosis, aspergillosis, candidiasis, coccidioidomycosis, listeriosis, and pneumocystosis were the most commonly reported with TNF-blockers.
-Patients have frequently presented with disseminated rather than localized disease, and were often taking concomitant immunosuppressants such as methotrexate or corticosteroids.
-The concomitant use of a TNF-blocker and abatacept or anakinra was associated with a higher risk of serious infections; therefore, the concomitant use of SIMPONI and these biologic products is not recommended [see Warning and Precautions (5.5, 5.6) and Drug Interactions (7.2)].
+Patients treated with SIMPONI are at increased risk for developing serious infections involving various organ systems and sites that may lead to hospitalization or death.
+
+Opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, or parasitic organisms including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis, and tuberculosis have been reported with TNF-blockers.
+Patients have frequently presented with disseminated rather than localized disease.
+The concomitant use of a TNF-blocker and abatacept or anakinra was associated with a higher risk of serious infections; therefore, the concomitant use of SIMPONI and these biologic products is not recommended [see Warnings and Precautions (5.5, 5.6) and Drug Interactions (7.2)].
 
 Treatment with SIMPONI should not be initiated in patients with an active infection, including clinically important localized infections.
+Patients greater than 65 years of age, patients with co-morbid conditions and/or patients taking concomitant immunosuppressants such as corticosteroids or methotrexate may be at greater risk of infection.
 The risks and benefits of treatment should be considered prior to initiating SIMPONI in patients:
 
 - with chronic or recurrent infection;
@@ -18,9 +20,13 @@ The risks and benefits of treatment should be considered prior to initiating SIM
 - who have resided or traveled in areas of endemic tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis; or
 - with underlying conditions that may predispose them to infection.
 
+Monitoring
+
 Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with SIMPONI.
 SIMPONI should be discontinued if a patient develops a serious infection, an opportunistic infection, or sepsis.
 A patient who develops a new infection during treatment with SIMPONI should undergo a prompt and complete diagnostic workup appropriate for an immunocompromised patient, appropriate antimicrobial therapy should be initiated, and the patient should be closely monitored.
+
+Serious Infection in Clinical Trials
 
 In controlled Phase 3 trials through Week 16 in patients with RA, PsA, and AS, serious infections were observed in 1.4% of SIMPONI-treated patients and 1.3% of control-treated patients.
 In the controlled Phase 3 trials through Week 16 in patients with RA, PsA, and AS, the incidence of serious infections per 100 patient-years of follow-up was 5.7 (95% CI: 3.8, 8.2) for the SIMPONI group and 4.2 (95% CI: 1.8, 8.2) for the placebo group.

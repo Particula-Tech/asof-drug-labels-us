@@ -121,7 +121,7 @@ New or worse heart failure can happen in people who use TNF-blocker medicines in
 
 Nervous System Problems
 
-Rarely, people using TNF-blocker medicine have nervous system problems such as multiple sclerosis or Guillain-Barré syndrome.
+Rarely, people using TNF-blocker medicines, including SIMPONI, have nervous system problems such as multiple sclerosis or Guillain-Barré syndrome.
 
 - Tell your doctor right away if you get any of these symptoms:
   - vision changes
