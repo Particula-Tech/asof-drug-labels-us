@@ -1,37 +1,36 @@
 # INDICATIONS AND USAGE
 
-IMPLANON™ (etonogestrel implant) is indicated for women for the prevention of pregnancy.
-IMPLANON™ is a long-acting (up to 3 years), reversible, contraceptive method.
-IMPLANON™ must be removed by the end of the third year and may be replaced by a new IMPLANON™ at the time of removal, if continued contraceptive protection is desired.
+IMPLANON® (etonogestrel implant) is indicated for women for the prevention of pregnancy.
+IMPLANON is a long-acting (up to 3 years), reversible, contraceptive method.
+IMPLANON must be removed by the end of the third year and may be replaced by a new IMPLANON at the time of removal, if continued contraceptive protection is desired.
 
-In clinical trials involving 923 subjects and 1,854 women-years of IMPLANON™ use, the total exposure in 28-day cycles by year was
+In clinical trials involving 923 subjects and 1854 women-years of IMPLANON use, the total exposure in 28-day cycles by year was
 
 - Year 1: 10,867 cycles
-- Year 2: 8,595 cycles
-- Year 3: 3,492 cycles
+- Year 2: 8595 cycles
+- Year 3: 3492 cycles
 
 The clinical trials excluded women who
 
 - Weighed more than 130% of their ideal body weight
 - Were chronically taking medications that induce liver enzymes
 
-Among women aged 18–35 years of age at entry, six pregnancies during 20,648 cycles of use were reported.
-Two pregnancies occurred in each of Years 1, 2 and 3.
-Each conception was likely to have occurred shortly before or within two weeks after IMPLANON™ removal.
-With these six pregnancies, the cumulative Pearl Index was 0.38 pregnancies per 100 women-years of use.
+Among women aged 18 to 35 years of age at entry, 6 pregnancies during 20,648 cycles of use were reported.
+Two pregnancies occurred in each of Years 1, 2, and 3.
+Each conception was likely to have occurred shortly before or within 2 weeks after IMPLANON removal.
+With these 6 pregnancies, the cumulative Pearl Index was 0.38 pregnancies per 100 women-years of use.
 
-The efficacy of IMPLANON™ does not depend on patient self-administration.
-IMPLANON™ may be less effective in women who are overweight or who are taking medications that induce liver enzymes.
-See CLINICAL PHARMACOLOGY, Special Populations, Overweight Women, and PRECAUTIONS, Drug Interactions.
+The efficacy of IMPLANON does not depend on patient self-administration.
+IMPLANON may be less effective in women who are overweight or who are taking medications that induce liver enzymes (see CLINICAL PHARMACOLOGY, Special Populations, Overweight Women, and PRECAUTIONS, Drug Interactions sections).
 
-The following Table shows pregnancy rates in the first year of use for other contraceptive methods.
+The following table shows pregnancy rates in the first year of use for other contraceptive methods.
 
-PERCENTAGE OF WOMEN EXPERIENCING AN UNINTENDED PREGNANCY DURING THE FIRST YEAR OF TYPICAL AND PERFECT USE OF CONTRACEPTION AND THE PERCENTAGE CONTINUING USE AT THE END OF THE FIRST YEAR: UNITED STATES.
+Percentage of Women Experiencing an Unintended Pregnancy During the First Year of Typical and Perfect Use of Contraception and the Percentage Continuing Use at the End of the First Year: United States
 
 | Method (1) | Typical UseAmong typical couples who initiate use of a method (not necessarily for the first time), the percentage who experience an accidental pregnancy during the first year if they do not stop use for any other reason. (2) | Perfect UseAmong couples who initiate use of a method (not necessarily for the first time) and who use it perfectly (both consistently and correctly), the percentage who experience an accidental pregnancy during the first year if they do not stop use for any other reason. (3) | (4) |
 | --- | --- | --- | --- |
-|  | % of Women Experiencing an Unintended Pregnancy within the First Year of Use |  | % of Women Continuing Use at One YearAmong couples attempting to avoid pregnancy, the percentage who continue to use a method for one year. |
-| ChanceThe percents becoming pregnant in columns (2) and (3} are based on data from populations where contraception is not used and from women who cease using contraception in order to become pregnant. Among such populations, about 89% become pregnant within one year. This estimate was lowered slightly (to 85%) to represent the percent who would become pregnant within one year among women now relying on reversible methods of contraception if they abandoned contraception altogether. | 85 | 85 |  |
+|  | % of Women Experiencing an Unintended Pregnancy within the First Year of Use |  | % of Women Continuing Use at 1 YearAmong couples attempting to avoid pregnancy, the percentage who continue to use a method for 1 year. |
+| ChanceThe percents becoming pregnant in columns (2) and (3) are based on data from populations where contraception is not used and from women who cease using contraception in order to become pregnant. Among such populations, about 89% become pregnant within 1 year. This estimate was lowered slightly (to 85%) to represent the percent who would become pregnant within 1 year among women now relying on reversible methods of contraception if they abandoned contraception altogether. | 85 | 85 |  |
 | SpermicidesFoams, creams, gels, vaginal suppositories, and vaginal film. | 26 | 6 | 40 |
 | Periodic abstinence | 25 |  | 63 |
 | Calendar |  | 9 |  |
@@ -60,4 +59,6 @@ PERCENTAGE OF WOMEN EXPERIENCING AN UNINTENDED PREGNANCY DURING THE FIRST YEAR O
 | Norplant & Norplant-2 | 0.05 | 0.05 | 88 |
 | Female sterilization | 0.5 | 0.5 | 100 |
 | Male sterilization | 0.15 | 0.10 | 100 |
-| Emergency Contraceptive Pills: Treatment initiated within 72 hours after unprotected intercourse reduces the risk of pregnancy by at least 75%.The treatment schedule is one dose within 72 hours after unprotected intercourse, and a second dose 12 hours after the first dose. The FDA has declared the following brands of oral contraceptives to be safe and effective for emergency contraception: Ovral (one dose is two white pills), Alesse (one dose is five pink pills), Nordette or Levlen (one dose is four yellow pills). Lactation Amenorrhea Method: LAM is a highly effective, temporary method of contraception.However, to maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breastfeeds is reduced, bottle feeds are introduced, or the baby reaches six months of age. Adapted from Hatcher et al., Contraceptive Technology, 17th Revised Edition, New York, NY: Irvington Publishers, 1998. |  |  |  |
+| Emergency Contraceptive Pills: Treatment initiated within 72 hours after unprotected intercourse reduces the risk of pregnancy by at least 75%.The treatment schedule is 1 dose within 72 hours after unprotected intercourse, and a second dose 12 hours after the first dose. The FDA has declared the following brands of oral contraceptives to be safe and effective for emergency contraception: Ovral (1 dose is 2 white pills), Alesse (1 dose is 5 pink pills), Nordette or Levlen (1 dose is 4 yellow pills). |  |  |  |
+| Lactation Amenorrhea Method: LAM is a highly effective, temporary method of contraception.However, to maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breast feeds is reduced, bottle feeds are introduced, or the baby reaches 6 months of age. |  |  |  |
+| Adapted from Hatcher et al., Contraceptive Technology, 17th Revised Edition. New York, NY: Irvington Publishers, 1998. |  |  |  |
