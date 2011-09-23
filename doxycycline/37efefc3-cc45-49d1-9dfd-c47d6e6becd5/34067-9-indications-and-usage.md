@@ -62,10 +62,8 @@ Infections caused by Clostridium species.
 ## 1.8 Adjunctive therapy for acute intestinal amebiasis and severe acne
 
 In acute intestinal amebiasis, doxycycline may be a useful adjunct to amebicides.
-
 In severe acne, doxycycline may be useful adjunctive therapy.
 
 ## 1.9 Prophylaxis of malaria
 
-Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (<4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains.
-[see DOSAGE AND ADMINISTRATION (2.2) and PATIENT COUNSELING INFORMATION (17).]
+Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (<4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains [see DOSAGE AND ADMINISTRATION (2.2) and PATIENT COUNSELING INFORMATION (17)].

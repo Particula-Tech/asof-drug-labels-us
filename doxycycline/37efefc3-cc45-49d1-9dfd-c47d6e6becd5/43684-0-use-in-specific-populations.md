@@ -11,7 +11,7 @@ There are no human data available to assess the effects of long-term therapy of 
 An expert review of published data on experiences with doxycycline use during pregnancy by TERIS - the Teratogen Information System - concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no risk.1
 
 A case-control study (18,515 mothers of infants with congenital anomalies and 32,804 mothers of infants with no congenital anomalies) shows a weak but marginally statistically significant association with total malformations and use of doxycycline anytime during pregnancy.
-Sixty-three (0.19%) of the controls and 56 (0.30%) of the cases were treated with doxycycline.
+Sixty-three (0.19 percent) of the controls and 56 (0.30 percent) of the cases were treated with doxycycline.
 This association was not seen when the analysis was confined to maternal treatment during the period of organogenesis (i.e., in the second and third months of gestation), with the exception of a marginal relationship with neural tube defect based on only two-exposed cases.2
 
 A small prospective study of 81 pregnancies describes 43 pregnant women treated for 10 days with doxycycline during early first trimester.
@@ -22,13 +22,11 @@ Nonteratogenic effects: [see WARNINGS AND PRECAUTIONS (5.1, 5.6)].
 ## 8.3 Nursing Mothers
 
 Tetracyclines are excreted in human milk, however, the extent of absorption of tetracyclines including doxycycline, by the breastfed infant is not known.
-Short-term use by lactating women is not necessarily contraindicated; however, the effects of prolonged exposure to doxycycline in breast milk are unknown.4 Because of the potential for serious adverse reactions in nursing infants from doxycycline, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-[see WARNINGS AND PRECAUTIONS (5.1, 5.6)].
+Short-term use by lactating women is not necessarily contraindicated; however, the effects of prolonged exposure to doxycycline in breast milk are unknown.4 Because of the potential for serious adverse reactions in nursing infants from doxycycline, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother [see WARNINGS AND PRECAUTIONS (5.1, 5.6)].
 
 ## 8.4 Pediatric use
 
-Because of the effects of drugs of the tetracycline-class on tooth development and growth, DORYX should not be used in pediatric patients to the age of 8 years, except for inhalational anthrax (post-exposure), unless other drugs are not likely to be effective or are contraindicated.
-[see WARNINGS AND PRECAUTIONS (5.1, 5.6) and DOSAGE AND ADMINISTRATION (2.1, 2.3)].
+Because of the effects of drugs of the tetracycline-class on tooth development and growth, DORYX should not be used in pediatric patients to the age of 8 years, except for inhalational anthrax (post-exposure), unless other drugs are not likely to be effective or are contraindicated [see WARNINGS AND PRECAUTIONS (5.1, 5.6) and DOSAGE AND ADMINISTRATION (2.1, 2.3)].
 
 ## 8.5 Geriatric use
 

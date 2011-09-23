@@ -85,13 +85,17 @@ Store at 25° C (77° F); excursions permitted to 15° - 30° C (59° - 86° F) 
 
 # DORYX 150 mg TRADE LABEL
 
-DORYX (Doxycycline Hyclate Delayed-Release Tablets, USP)
+NEW NDC NUMBER NEW TABLET SHAPE AND SCORING
+
+DORYX (doxycycline hyclate delayed-release tablets, USP)
 
 150 mg
 
 Rx only
 
-Each tablet contains specially coated pellets of doxycycline hydrate equivalent to 150 mg of doxycycline.
+Do not chew or crush tablets.
+
+Each tablet contains specially coated pellets of doxycycline hyclate equivalent to 150 mg of doxycycline.
 
 60 TABLETS
 
@@ -101,22 +105,26 @@ Keep this and all drugs out of the reach of children.
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
-Store at 25° C (77° F); excursions permitted to 15° - 30° C (59° - 86° F) [see USP Controlled Room Temperature].
+Store at 25° C (77° F); excursions permitted to 15° - 30° C (59° - 86° F) [see USP Controlled Room Temperature]; dispense in a tight, light-resistant container (USP).
 
 # DORYX 150 mg Sample Carton
 
-DORYX (Doxycycline Hyclate Delayed-Release Tablets, USP)
+NEW NDC NUMBER NEW TABLET SHAPE AND SCORING
 
-150 mg
+DORYX (doxycycline hyclate delayed-release tablets, USP)
+
+150 mg per tablet
+
+Take with adequate amounts of fluid Do not chew or crush tablets
 
 Rx only
 
 Physician's Sample - NOT FOR SALE
 
-3 Tablets
+3 TABLETS
 
 Usual Adult Dosage: See Package Insert for Full Prescribing Information.
 
 Keep this and all drugs out of the reach of children.
 
-Store at 25° C (77° F); excursions permitted to 15° - 30° C (59° - 86° F) [see USP Controlled Room Temperature].
+Store at 25° C (77° F); excursions permitted to 15° - 30° C (59° - 86° F) [see USP Controlled Room Temperature]; dispense in a tight, light-resistant container (USP).

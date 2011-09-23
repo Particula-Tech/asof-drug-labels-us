@@ -8,15 +8,15 @@ Doxycycline is an antimicrobial drug [see CLINICAL PHARMACOLOGY (12.4)].
 
 Doxycycline is virtually completely absorbed after oral administration.
 Following administration of a single 200 mg dose to adult volunteers, average peak serum doxycycline levels were 2.6 mcg/mL at 2 hours, decreasing to 1.45 mcg/mL at 24 hours.
-The mean Cmax and AUC 0-∞ of doxycycline are 24% and 13% lower, respectively, following single dose administration of DORYX Tablets, 100 mg with a high fat meal (including milk) compared to fasted conditions.
-The mean Cmax of doxycycline is 19% lower and the AUC 0-∞ is unchanged following single dose administration of DORYX Tablets, 150 mg with a high fat meal (including milk) compared to fasted conditions.
+The mean Cmax and AUC 0-∞ of doxycycline are 24 percent and 13 percent lower, respectively, following single dose administration of DORYX Tablets, 100 mg with a high fat meal (including milk) compared to fasted conditions.
+The mean Cmax of doxycycline is 19 percent lower and the AUC 0-∞ is unchanged following single dose administration of DORYX Tablets, 150 mg with a high fat meal (including milk) compared to fasted conditions.
 The clinical significance of these decreases is unknown.
 
 When DORYX Tablets are sprinkled over applesauce and taken with or without water, the extent of doxycycline absorption is unchanged, but the rate of absorption is increased slightly.
 
 Tetracyclines are concentrated in bile by the liver and excreted in the urine and feces at high concentrations and in a biologically active form.
-Excretion of doxycycline by the kidney is about 40%/72 hours in individuals with a creatinine clearance of about 75 mL/min.
-This percentage may fall as low as 1 to 5%/72 hours in individuals with a creatinine clearance below 10 mL/min.
+Excretion of doxycycline by the kidney is about 40 percent/72 hours in individuals with a creatinine clearance of about 75 mL/min.
+This percentage may fall as low as 1 to 5 percent/72 hours in individuals with a creatinine clearance below 10 mL/min.
 
 Studies have shown no significant difference in the serum half-life of doxycycline (range 18 to 22 hours) in individuals with normal and severely impaired renal function.
 Hemodialysis does not alter the serum half-life.

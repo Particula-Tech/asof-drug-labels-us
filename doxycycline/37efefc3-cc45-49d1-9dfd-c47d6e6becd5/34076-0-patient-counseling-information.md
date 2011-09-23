@@ -3,7 +3,7 @@
 Patients taking doxycycline for malaria prophylaxis should be advised:
 
 - that no present-day antimalarial agent, including doxycycline, guarantees protection against malaria.
-- to avoid being bitten by mosquitoes by using personal protective measures that help avoid contact with mosquitoes, especially from dusk to dawn (e.g., staying in well-screened areas, using mosquito nets, covering the body with clothing, and using an effective insect repellant).
+- to avoid being bitten by mosquitoes by using personal protective measures that help avoid contact with mosquitoes, especially from dusk to dawn (for example, staying in well-screened areas, using mosquito nets, covering the body with clothing, and using an effective insect repellent).
 - that doxycycline prophylaxis:
   - should begin 1 to 2 days before travel to the malarious area,
   - should be continued daily while in the malarious area and after leaving the malarious area,
@@ -28,3 +28,16 @@ Patients should be counseled that antibacterial drugs including DORYX should onl
 They do not treat viral infections (for example, the common cold).
 When DORYX is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by DORYX or other antibacterial drugs in the future.
+
+## 17.1 Instructions for Breaking the 150 mg DORYX Dual-Scored Tablet
+
+The tablet is marked with separation lines (score lines) and may be broken at these score lines to provide any of the following doses.
+
+- 150 mg treatment (the entire tablet is taken)
+
+- 100 mg treatment (two thirds of the tablet or two 50 mg tablet segments are taken)
+
+- 50 mg treatment (one third of the tablet is taken)
+
+To break the tablet, the tablet is held between the thumbs and index fingers close to the appropriate score line.
+Then, with the score line facing the patient, enough pressure is applied to snap the tablet segments apart (segments that do not break along the score line should not be used).
