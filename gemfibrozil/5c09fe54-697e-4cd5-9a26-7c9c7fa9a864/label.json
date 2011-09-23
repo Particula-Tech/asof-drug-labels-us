@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA077836"
+  ],
+  "inn": "gemfibrozil",
+  "labeler": "Exelan Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "76282-225-01",
+    "76282-225-05",
+    "76282-225-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "gemfibrozil",
+      "name": "Gemfibrozil"
+    }
+  ],
+  "setid": "5c09fe54-697e-4cd5-9a26-7c9c7fa9a864",
+  "source": "dailymed"
+}
