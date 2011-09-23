@@ -30,7 +30,7 @@ Keep any unused NovoLog Mix 70/30 FlexPen in the carton so it will stay clean an
 
 These storage conditions are summarized in the following table:
 
-|  | Not in-use (unopened)Room Temperature(below 30°C[86°F]) | Not in-use (unopened)Refrigerated(2°C - 8°C [36°F- 46°F]) | In-use (opened)Room Temperature(below 30°C[86°F]) |
+|  | Not in-use (unopened)Room Temperature(below 30°C [86°F]) | Not in-use (unopened)Refrigerated(2°C - 8°C [36°F- 46°F]) | In-use (opened)Room Temperature(below 30°C [86°F]) |
 | --- | --- | --- | --- |
 | 10 mL vial | 28 days | Until expiration date | 28 days (refrigerated/room temperature) |
-| 3mL NovoLog Mix 70/30 FlexPen | 14 days | Until expiration date | 14 days (Do not refrigerate) |
+| 3 mL NovoLog Mix 70/30 FlexPen | 14 days | Until expiration date | 14 days (Do not refrigerate) |

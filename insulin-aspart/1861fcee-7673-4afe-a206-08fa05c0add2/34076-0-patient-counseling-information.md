@@ -19,17 +19,17 @@ Patients should be instructed to always carefully check that they are administer
 The prescription for NovoLog Mix 70/30 should be written clearly in order to avoid confusion with other insulin products, for example, NovoLog or Novolin 70/30.
 In addition, the written prescription should clearly indicate the presentation, for example FlexPen or vial.
 
-Date of Issue: May 7, 2010
+Date of Issue: September 20, 2011
 
-Version: 9
+Version: 10
 
-Novo Nordisk®, NovoLog®, FlexPen®, and Novolin®, are trademarks owned by Novo Nordisk® A/S.
+Novo Nordisk®, NovoLog®, FlexPen®, and Novolin® are registered trademarks of Novo Nordisk® A/S.
 
 NovoLog® Mix 70/30 is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
 
 FlexPen® is covered by US Patent Nos. 6,582,404, 6,004,297, 6,235,004 and other patents pending.
 
-© 2002 – 2010 Novo Nordisk A/S
+© 2002 – 2011 Novo Nordisk
 
 Manufactured by:
 
@@ -40,6 +40,8 @@ DK-2880 Bagsvaerd, Denmark
 For information about NovoLog Mix 70/30 contact:
 
 Novo Nordisk Inc.
+
+100 College Road West
 
 Princeton, New Jersey 08540
 

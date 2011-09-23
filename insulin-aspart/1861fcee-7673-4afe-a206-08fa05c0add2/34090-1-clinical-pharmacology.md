@@ -10,7 +10,7 @@ Insulins, including NovoLog Mix 70/30, bind to the insulin receptors on muscle, 
 The two euglycemic clamp studies described below [see Clinical Pharmacology (12.3)] assessed glucose utilization after dosing of healthy volunteers.
 NovoLog Mix 70/30 has an earlier onset of action than human premix 70/30 in studies of normal volunteers and patients with diabetes.
 The onset of action is between 10-20 minutes for NovoLog Mix 70/30 compared to 30 minutes for Novolin 70/30.
-The mean ± SD time to peak activity for NovoLog Mix 70/30 is 2.4 hr ± 0.8hr compared to 4.2 hr ± 0.4 hr for Novolin 70/30.
+The mean ± SD time to peak activity for NovoLog Mix 70/30 is 2.4 hr ± 0.8 hr compared to 4.2 hr ± 0.4 hr for Novolin 70/30.
 The duration of action may be as long as 24 hours (see Figure 2).
 
 ## 12.3 Pharmacokinetics

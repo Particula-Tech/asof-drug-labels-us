@@ -55,7 +55,7 @@ How should I take NovoLog® Mix 70/30?
 - Take NovoLog® Mix 70/30 exactly as your healthcare provider tells you to take it.
 - Your healthcare provider will tell you how much NovoLog® Mix 70/30 to take and when to take it.
 - Do not make any changes to your dose or type of insulin unless your healthcare provider tells you to.
-- NovoLog Mix 70/30 starts acting fast.
+- NovoLog® Mix 70/30 starts acting fast.
   If you have Type 1 diabetes, inject it up to 15 minutes before you eat a meal.
   Do not inject NovoLog® Mix 70/30 if you are not planning to eat within 15 minutes.
 - If you have Type 2 diabetes, you may inject NovoLog® Mix 70/30 up to 15 minutes before or after starting your meal.
@@ -202,25 +202,24 @@ For more information call 1-800-727-6500 or go to www.novonordisk-us.com.
 
 What are the ingredients in NovoLog® Mix 70/30?
 
-- Active Ingredients NovoLog® Mix 70/30 FlexPen® and Vial: 70% Insulin aspart protamine suspension and 30% insulin aspart injection (rDNA origin).
-- Inactive Ingredients NovoLog® Mix 70/30 FlexPen®: glycerol, phenol, metacresol, zinc, disodium hydrogen phosphate dihydrate, sodium chloride, protamine sulfate, water for injection, hydrochloric acid or sodium hydroxide.
-- Inactive Ingredients NovoLog® Mix 70/30 Vial: mannitol, phenol, metacresol, zinc, disodium hydrogen phosphate dihydrate, sodium chloride, protamine sulfate, water for injection, hydrochloric acid or sodium hydroxide.
+- Active Ingredients in NovoLog® Mix 70/30: 70% insulin aspart protamine suspension and 30% insulin aspart injection (rDNA origin).
+- Inactive Ingredients in NovoLog® Mix 70/30: glycerol, phenol, metacresol, zinc, disodium hydrogen phosphate dihydrate, sodium chloride, protamine sulfate, water for injection, hydrochloric acid or sodium hydroxide.
 
 All NovoLog® Mix 70/30 vials and NovoLog® Mix 70/30 FlexPen® are latex free.
 
-Helpful information for people with diabetes is published by the American Diabetes Association, 1701 N Beauregard Street, Alexandria, VA 22311 and is available www.diabetes.org.
+Helpful information for people with diabetes is published by the American Diabetes Association, 1701 N Beauregard Street, Alexandria, VA 22311 and is available at www.diabetes.org.
 
-Date of Issue: May 7, 2010
+Date of Issue: September 20, 2011
 
-Version: 7
+Version: 8
 
-NovoLog®, FlexPen®, NovoFine®, are trademarks of Novo Nordisk A/S.
+Novo Nordisk®, NovoLog®, and FlexPen® are registered trademarks of Novo Nordisk A/S.
 
 NovoLog® is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
 
 FlexPen® is covered by US Patent Nos. 6,582,404, 6,004,297, 6,235,004 and other patents pending.
 
-© 2002-2010 Novo Nordisk A/S
+© 2002-2011 Novo Nordisk
 
 Manufactured by:
 
@@ -228,7 +227,7 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-For information about NovoLog Mix 70/30® contact:
+For information about NovoLog® Mix 70/30 contact:
 
 Novo Nordisk Inc.
 
@@ -236,13 +235,17 @@ Novo Nordisk Inc.
 
 Princeton, New Jersey 08540
 
+1-800-727-6500
+
+www.novonordisk-us.com
+
 PATIENT INSTRUCTIONS FOR USE
 
 NovoLog® Mix 70/30 10 mL vial (100 Units/mL, U-100)
 
-Read the following Patient Instructions for Use carefully before you start using your NovoLog® Mix 70/30 10mL vial and each time you get a refill.
+Read the following Patient Instructions for Use carefully before you start using your NovoLog® Mix 70/30 10 mL vial and each time you get a refill.
 There may be new information.
-You should read the instructions even if you have used NovoLog® Mix 70/30 10mL vials before.
+You should read the instructions even if you have used NovoLog® Mix 70/30 10 mL vials before.
 
 Before starting, gather all of the supplies that you will need to use for preparing and giving your insulin injection.
 
@@ -277,12 +280,12 @@ How should I prepare and deliver the injection using the NovoLog® Mix 70/30 10 
 11. Pull the syringe out of the vial’s rubber stopper.
 12. If there is a delay after you rolled the vial, you will have to roll it again to remix the insulin and redraw your medicine.
     Your healthcare provider should tell you if you need to pinch the skin before inserting the needle.
-    This can be different from person to person so it is important to ask your doctor if you did not receive instructions on pinching the skin.
+    This can be different from person to person so it is important to ask your healthcare provider if you did not receive instructions on pinching the skin.
     Insert the needle into the skin right away.
     Push the plunger to inject the insulin under your skin.
     Keep the needle under your skin for at least 6 seconds to make sure you have injected all the insulin.
     When you are finished injecting the insulin, pull the needle out of your skin.
-13. Your may see a drop of NovoLog® Mix 70/30 at the needle tip.
+13. You may see a drop of NovoLog® Mix 70/30 at the needle tip.
     This is normal and has no effect on the dose you just received.
     If blood appears after you pull the needle from your skin, press the injection site lightly with an alcohol swab.
     Do not rub the area.
@@ -299,11 +302,17 @@ Date of Issue: May 7, 2010
 
 Version: 6
 
-Novo Nordisk®, NovoLog®, FlexPen® and NovoFine® are trademarks owned by Novo Nordisk A/S.
+Novo Nordisk® and NovoLog® are registered trademarks of Novo Nordisk A/S.
 
-© 2002–2010 Novo Nordisk A/S
+© 2002–2010 Novo Nordisk
 
 NovoLog® Mix 70/30 is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
+
+Manufactured by:
+
+Novo Nordisk A/S
+
+DK-2880 Bagsvaerd, Denmark
 
 For information about NovoLog® Mix 70/30 contact:
 
@@ -317,19 +326,13 @@ Princeton, New Jersey 08540
 
 www.novonordisk-us.com
 
-Manufactured by:
-
-Novo Nordisk A/S
-
-DK-2880 Bagsvaerd, Denmark
-
 PATIENT INSTRUCTIONS FOR USE
 
 NovoLog® Mix 70/30 FlexPen®
 
 Read the following instructions carefully before you start using your NovoLog® Mix 70/30 FlexPen® and each time you get a refill.
 There may be new information.
-You should read the instructions even if you have used Novolog® Mix 70/30 FlexPen® before.
+You should read the instructions even if you have used NovoLog® Mix 70/30 FlexPen® before.
 
 NovoLog® Mix 70/30 FlexPen® is a disposable dial-a-dose insulin pen.
 You can select doses from 1 to 60 units in increments of 1 unit.
@@ -515,13 +518,13 @@ Date of Issue: May 7, 2010
 
 Version: 8
 
-NovoLog®, FlexPen®, NovoFine®, are trademarks of Novo Nordisk A/S.
+Novo Nordisk®, NovoLog®, FlexPen®, and NovoFine® are registered trademarks of Novo Nordisk A/S.
 
-NovoLog® is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
+NovoLog® Mix 70/30 is covered by US Patent Nos. 5,547,930, 5,618,913, 5,834,422, 5,840,680, 5,866,538 and other patents pending.
 
 FlexPen® is covered by US Patent Nos. 6,582,404, 6,004,297, 6,235,004 and other patents pending.
 
-© 2002-2010 Novo Nordisk A/S
+© 2002-2010 Novo Nordisk
 
 Manufactured by:
 
@@ -529,10 +532,14 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-For information about NovoLog Mix 70/30® contact:
+For information about NovoLog® Mix 70/30 contact:
 
 Novo Nordisk Inc.
 
-100 College Road West,
+100 College Road West
 
 Princeton, New Jersey 08540
+
+1-800-727-6500
+
+www.novonordisk-us.com
