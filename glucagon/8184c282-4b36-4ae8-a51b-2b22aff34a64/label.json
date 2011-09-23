@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020918"
+  ],
+  "inn": "glucagon",
+  "labeler": "Bedford Laboratories",
+  "package_ndcs": [
+    "55390-004-01",
+    "55390-004-10"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "glucagon hydrochloride",
+      "name": "GlucaGen"
+    }
+  ],
+  "setid": "8184c282-4b36-4ae8-a51b-2b22aff34a64",
+  "source": "dailymed"
+}
