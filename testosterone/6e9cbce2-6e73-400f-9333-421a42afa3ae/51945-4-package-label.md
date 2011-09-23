@@ -4,6 +4,8 @@ If the seal is broken before first use, contact your pharmacist
 
 NDC 0002-1975-90
 
+TS 1975
+
 Axiron®
 
 (testosterone) topical solution
