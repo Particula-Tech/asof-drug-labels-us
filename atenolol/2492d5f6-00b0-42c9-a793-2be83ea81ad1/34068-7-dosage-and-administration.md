@@ -31,9 +31,9 @@ In patients who tolerate the full intravenous dose (10 mg), atenolol tablets 50 
 Thereafter, atenolol can be given orally either 100 mg once daily or 50 mg twice a day for a further 6 to 9 days or until discharge from the hospital.
 If bradycardia or hypotension requiring treatment or any other untoward effects occur, atenolol should be discontinued (see full prescribing information prior to initiating therapy with atenolol tablets).
 
-Data from other beta-blocker trials suggest that if there is any question concerning the use of IV beta-blocker or clinical estimate that there is a contraindication, the IV beta-blocker may be eliminated and patients fulfilling the safety criteria may be given atenolol tablets 50 mg twice daily or 100 mg once a day for at least seven days (if the IV dosing is excluded).
+Data from other beta blocker trials suggest that if there is any question concerning the use of IV beta blocker or clinical estimate that there is a contraindication, the IV beta blocker may be eliminated and patients fulfilling the safety criteria may be given atenolol tablets 50 mg twice daily or 100 mg once a day for at least seven days (if the IV dosing is excluded).
 
-Although the demonstration of efficacy of atenolol is based entirely on data from the first seven postinfarction days, data from other beta-blocker trials suggest that treatment with beta-blockers that are effective in the postinfarction setting may be continued for one to three years if there are no contraindications.
+Although the demonstration of efficacy of atenolol is based entirely on data from the first seven postinfarction days, data from other beta blocker trials suggest that treatment with beta blockers that are effective in the postinfarction setting may be continued for one to three years if there are no contraindications.
 
 Atenolol is an additional treatment to standard coronary care unit therapy.
 

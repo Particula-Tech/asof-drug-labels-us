@@ -33,8 +33,8 @@ Where frequency of adverse effects of atenolol and placebo is similar, causal re
 
 ## Acute Myocardial Infarction
 
-In a series of investigations in the treatment of acute myocardial infarction, bradycardia and hypotension occurred more commonly, as expected for any beta-blocker, in atenolol-treated patients than in control patients.
-However, these usually responded to atropine and/or to withholding further dosages of atenolol.
+In a series of investigations in the treatment of acute myocardial infarction, bradycardia and hypotension occurred more commonly, as expected for any beta blocker, in atenolol-treated patients than in control patients.
+However, these usually responded to atropine and/or to withholding further dosage of atenolol.
 The incidence of heart failure was not increased by atenolol.
 Inotropic agents were infrequently used.
 The reported frequency of these and other events occurring during these investigations is given in the following table.
@@ -76,5 +76,5 @@ In the subsequent International Study of Infarct Survival (ISIS-1) including ove
 | Arrhythmias | 3 | (.04%) | 22 | (.27%) |
 | Bronchospasm | 1 | (.01%) | 50 | (.62%) |
 
-During postmarketing experience with atenolol, the following have been reported in temporal relationship to the use of the drug: elevated liver enzymes and/or bilirubin, hallucinations, headache, impotence, Peyronie's disease, postural hypotension which may be associated with syncope, psoriasiform rash or exacerbation of psoriasis, psychoses, purpura, reversible alopecia, thrombocytopenia, visual disturbances, sick sinus syndrome, and dry mouth.
-Atenolol, like other beta-blockers, has been associated with the development of antinuclear antibodies (ANA), lupus syndrome, and Raynaud’s phenomenon.
+During postmarketing experience with atenolol, the following have been reported in temporal relationship to the use of the drug: elevated liver enzymes and/or bilirubin, hallucinations, headache, impotence, Peyronie's disease, postural hypotension which may be associated with syncope, psoriasiform rash or exacerbation of psoriasis, psychoses, purpura, reversible alopecia, thrombocytopenia, visual disturbance, sick sinus syndrome, and dry mouth.
+Atenolol, like other beta blockers, has been associated with the development of antinuclear antibodies (ANA), lupus syndrome, and Raynaud’s phenomenon.

@@ -32,7 +32,7 @@ However, as has been shown for all beta-blocking agents, the antihypertensive ef
 
 In normal subjects, the beta1 selectivity of atenolol has been shown by its reduced ability to reverse the beta2-mediated vasodilating effect of isoproterenol as compared to equivalent beta-blocking doses of propranolol.
 In asthmatic patients, a dose of atenolol producing a greater effect on resting heart rate than propranolol resulted in much less increase in airway resistance.
-In a placebo controlled comparison of approximately equipotent oral doses of several beta-blockers, atenolol produced a significantly smaller decrease of FEV1 than nonselective beta-blockers such as propranolol and, unlike those agents, did not inhibit bronchodilation in response to isoproterenol.
+In a placebo controlled comparison of approximately equipotent oral doses of several beta blockers, atenolol produced a significantly smaller decrease of FEV1 than nonselective beta blockers such as propranolol and, unlike those agents, did not inhibit bronchodilation in response to isoproterenol.
 
 Consistent with its negative chronotropic effect due to beta blockade of the SA node, atenolol increases sinus cycle length and sinus node recovery time.
 Conduction in the AV node is also prolonged.
@@ -52,13 +52,13 @@ On the other hand, atenolol can increase oxygen requirements by increasing left 
 
 In a multicenter clinical trial (ISIS-1) conducted in 16,027 patients with suspected myocardial infarction, patients presenting within 12 hours (mean = 5 hours) after the onset of pain were randomized to either conventional therapy plus atenolol (n = 8,037), or conventional therapy alone (n = 7,990).
 Patients with a heart rate of < 50 bpm or systolic blood pressure < 100 mm Hg, or with other contraindications to beta blockade were excluded.
-Thirty-eight percent of each group was treated within 4 hours of onset of pain.
+Thirty-eight percent of each group were treated within 4 hours of onset of pain.
 The mean time from onset of pain to entry was 5.0 ± 2.7 hours in both groups.
 Patients in the atenolol group were to receive atenolol injection 5 to 10 mg given over 5 minutes plus atenolol tablets 50 mg every 12 hours orally on the first study day (the first oral dose administered about 15 minutes after the IV dose) followed by either atenolol tablets 100 mg once daily or atenolol tablets 50 mg twice daily on days 2 to 7.
-The groups were similar in demographic and medical history characteristics and in electrocardiographic evidence of myocardial infarction, bundle branch block, and first-degree atrioventricular block at entry.
+The groups were similar in demographic and medical history characteristics and in electrocardiographic evidence of myocardial infarction, bundle branch block, and first degree atrioventricular block at entry.
 
 During the treatment period (days 0 to 7), the vascular mortality rates were 3.89% in the atenolol group (313 deaths) and 4.57% in the control group (365 deaths).
-This absolute difference in rates, 0.68%, is statistically significant at the P< 0.05 levels.
+This absolute difference in rates, 0.68%, is statistically significant at the P< 0.05 level.
 The absolute difference translates into a proportional reduction of 15% (3.89-4.57/4.57 = -0.15).
 The 95% confidence limits are 1%-27%.
 Most of the difference was attributed to mortality in days 0 to 1 (atenolol - 121 deaths; control - 171 deaths).
@@ -68,7 +68,7 @@ Good clinical judgment suggests, however, that patients who are dependent on sym
 Indeed, the trial protocol reflected that judgment by excluding patients with blood pressure consistently below 100 mm Hg systolic.
 The overall results of the study are compatible with the possibility that patients with borderline blood pressure (less than 120 mm Hg systolic), especially if over 60 years of age, are less likely to benefit.
 
-The mechanism through which atenolol improves survival in patients with definite or suspected acute myocardial infarction is unknown, as is the case for other beta-blockers in the postinfarction setting.
+The mechanism through which atenolol improves survival in patients with definite or suspected acute myocardial infarction is unknown, as is the case for other beta blockers in the postinfarction setting.
 Atenolol, in addition to its effects on survival, has shown other clinical benefits including reduced frequency of ventricular premature beats, reduced chest pain, and reduced enzyme elevation.
 
 ## Atenolol Geriatric Pharmacology

@@ -4,7 +4,7 @@
 
 Sympathetic stimulation is necessary in supporting circulatory function in congestive heart failure, and beta blockade carries the potential hazard of further depressing myocardial contractility and precipitating more severe failure.
 
-In patients with acute myocardial infarction, cardiac failure, which is not promptly and effectively controlled by 80 mg of intravenous furosemide or equivalent therapy, is a contraindication to beta-blocker treatment.
+In patients with acute myocardial infarction, cardiac failure, which is not promptly and effectively controlled by 80 mg of intravenous furosemide or equivalent therapy, is a contraindication to beta blocker treatment.
 
 ## In Patients Without a History of Cardiac Failure
 
@@ -14,29 +14,25 @@ If cardiac failure continues despite adequate treatment, atenolol should be with
 
 ## Concomitant Use of Calcium Channel Blockers
 
-Bradycardia and heart block can occur and the left ventricular end diastolic pressure can rise when beta-blockers are administered with verapamil or diltiazem.
+Bradycardia and heart block can occur and the left ventricular end diastolic pressure can rise when beta blockers are administered with verapamil or diltiazem.
 Patients with preexisting conduction abnormalities or left ventricular dysfunction are particularly susceptible (see PRECAUTIONS).
 
 ## Bronchospastic Diseases
 
-PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS.
+PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA BLOCKERS.
 Because of its relative beta1 selectivity, however, atenolol may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
 Since beta1 selectivity is not absolute, the lowest possible dose of atenolol should be used with therapy initiated at 50 mg and a beta2- stimulating agent (bronchodilator) should be made available.
 If dosage must be increased, dividing the dose should be considered in order to achieve lower peak blood levels.
 
-## Anesthesia and Major Surgery
+## Major Surgery
 
-It is not advisable to withdraw beta-adrenoreceptor blocking drugs prior to surgery in the majority of patients.
-However, care should be taken when using anesthetic agents such as those, which may depress the myocardium.
-Vagal dominance, if it occurs, may be corrected with atropine (1 to 2 mg IV).
-
-Atenolol, like other beta-blockers, is a competitive inhibitor of beta-receptor agonists and its effects on the heart can be reversed by administration of such agents: e.g., dobutamine or isoproterenol with caution (see section on OVERDOSAGE).
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 ## Diabetes and Hypoglycemia
 
 Atenolol should be used with caution in diabetic patients if a beta-blocking agent is required.
-Beta-blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
-At recommended doses atenolol does not potentiate insulin-induced hypoglycemia and, unlike nonselective beta-blockers, does not delay recovery of blood glucose to normal levels.
+Beta blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
+At recommended doses atenolol does not potentiate insulin-induced hypoglycemia and, unlike nonselective beta blockers, does not delay recovery of blood glucose to normal levels.
 
 ## Thyrotoxicosis
 
@@ -55,7 +51,7 @@ Administration of atenolol, starting in the second trimester of pregnancy, has b
 No studies have been performed on the use of atenolol in the first trimester and the possibility of fetal injury cannot be excluded.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
-Neonates born to mothers who are receiving atenolol at parturition or breast-feeding may be at risk for hypoglycemia.
+Neonates born to mothers who are receiving atenolol at parturition or breast-feeding may be at risk for hypoglycemia and bradycardia.
 Caution should be exercised when atenolol is administered during pregnancy or to a woman who is breast-feeding (see PRECAUTIONS/ Nursing Mothers).
 
 Atenolol has been shown to produce a dose-related increase in embryo/fetal resorptions in rats at doses equal to or greater than 50 mg/kg/day or 25 or more times the maximum recommended human antihypertensive dose*.
@@ -69,7 +65,7 @@ ________________________________________________________________________
 
 ## General
 
-Patients already on a beta-blocker must be evaluated carefully before atenolol is administered.
+Patients already on a beta blocker must be evaluated carefully before atenolol is administered.
 Initial and subsequent atenolol dosages can be adjusted downward depending on clinical observations including pulse and blood pressure.
 Atenolol may aggravate peripheral arterial circulatory disorders.
 
@@ -85,23 +81,23 @@ Patients treated with atenolol plus a catecholamine depletor should therefore be
 Calcium channel blockers may also have an additive effect when given with atenolol (see WARNINGS).
 
 Disopyramide is a Type I antiarrhythmic drug with potent negative inotropic and chronotropic effects.
-Disopyramide has been associated with severe bardycardia, asystole and heart failure when administered with beta blockers.
+Disopyramide has been associated with severe bradycardia, asystole and heart failure when administered with beta blockers.
 
 Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with beta blockers.
 
-Beta-blockers may exacerbate the rebound hypertension, which can follow the withdrawal of clonidine.
-If the two drugs are coadministered, the beta-blocker should be withdrawn several days before the gradual withdrawal of clonidine.
-If replacing clonidine by beta-blocker therapy, the introduction of beta-blockers should be delayed for several days after clonidine administration has stopped.
+Beta blockers may exacerbate the rebound hypertension, which can follow the withdrawal of clonidine.
+If the two drugs are coadministered, the beta blocker should be withdrawn several days before the gradual withdrawal of clonidine.
+If replacing clonidine by beta blocker therapy, the introduction of beta blockers should be delayed for several days after clonidine administration has stopped.
 
-Concomitant use of prostaglandin synthase inhibiting drugs, e.g., indomethacin, may decrease the hypotensive effects of beta-blockers.
+Concomitant use of prostaglandin synthase inhibiting drugs, e.g., indomethacin, may decrease the hypotensive effects of beta blockers.
 
 Information on concurrent usage of atenolol and aspirin is limited.
-Data from several studies, i.e., TIMI-II, ISIS-2, currently do not suggest any clinical interaction between aspirin and beta-blockers in the acute myocardial infarction setting.
+Data from several studies, i.e., TIMI-II, ISIS-2, currently do not suggest any clinical interaction between aspirin and beta blockers in the acute myocardial infarction setting.
 
-While taking beta-blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, accidental, diagnostic or therapeutic.
+While taking beta blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, either accidental, diagnostic or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat the allergic reaction.
 
-Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
+Both digitalis glycosides and beta blockers slow atrioventricular conduction and decrease heart rate.
 Concomitant use can increase the risk of bradycardia.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
@@ -131,7 +127,7 @@ Caution should be exercised when atenolol is administered to a nursing woman.
 Clinically significant bradycardia has been reported in breast fed infants.
 Premature infants, or infants with impaired renal function, may be more likely to develop adverse effects.
 
-Neonates born to mothers who are receiving atenolol at parturition or breast-feeding may be at risk for hypoglycemia.
+Neonates born to mothers who are receiving atenolol at parturition or breast-feeding may be at risk for hypoglycemia and bradycardia.
 Caution should be exercised when atenolol is administered during pregnancy or to a woman who is breast-feeding (see WARNING, Pregnancy and Fetal Injury).
 
 ## Pediatric Use
@@ -149,7 +145,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 ## Acute Myocardial Infarction
 
 Of the 8,037 patients with suspected acute myocardial infarction randomized to atenolol in the ISIS-1 trial (see CLINICAL PHARMACOLOGY), 33% (2,644) were 65 years of age and older.
-It was not possible to identify significant differences in efficacy and safety between older and younger patients; however, elderly patients with systolic blood pressure <120 mm Hg seemed less likely to benefit (see INDICATIONS AND USAGE).
+It was not possible to identify significant differences in efficacy and safety between older and younger patients; however, elderly patients with systolic blood pressure <120 mmHg seemed less likely to benefit (see INDICATIONS AND USAGE).
 
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 Evaluation of patients with hypertension or myocardial infarction should always include assessment of renal function.
