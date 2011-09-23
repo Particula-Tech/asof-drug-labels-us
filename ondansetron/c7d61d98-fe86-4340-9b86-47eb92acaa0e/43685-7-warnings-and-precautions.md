@@ -2,6 +2,11 @@
 
 Hypersensitivity reactions have been reported in patients who have exhibited hypersensitivity to other selective 5-HT3 receptor antagonists.
 
+ECG changes including QT interval prolongation has been seen in patients receiving ondansetron.
+In addition, post-marketing cases of Torsade de Pointes have been reported in patients using ondansetron.
+Avoid ZOFRAN in patients with congenital long QT syndrome.
+ECG monitoring is recommended in patients with electrolyte abnormalities (e.g., hypokalemia or hypomagnesemia), congestive heart failure, bradyarrhythmias or patients taking other medicinal products that lead to QT prolongation.
+
 # PRECAUTIONS
 
 ## General
@@ -9,8 +14,6 @@ Hypersensitivity reactions have been reported in patients who have exhibited hyp
 Ondansetron is not a drug that stimulates gastric or intestinal peristalsis.
 It should not be used instead of nasogastric suction.
 The use of ondansetron in patients following abdominal surgery or in patients with chemotherapy-induced nausea and vomiting may mask a progressive ileus and/or gastric distension.
-
-Rarely and predominantly with intravenous ondansetron, transient ECG changes including QT interval prolongation have been reported.
 
 ## Information for Patients
 

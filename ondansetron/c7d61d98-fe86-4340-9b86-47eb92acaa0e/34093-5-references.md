@@ -35,9 +35,9 @@ by Catalent UK Swindon Zydis Ltd.
 
 Blagrove, Swindon, Wiltshire, UK SN5 8RU
 
-©2010, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-May 2010
+September 2011
 
-ZFT:2PI
+ZFT:3PI
