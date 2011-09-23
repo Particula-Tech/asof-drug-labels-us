@@ -10,9 +10,9 @@ Table 1 summarizes the treatment-emergent adverse events that occurred in ≥2% 
 
 Table 1 Treatment-Emergent1 Adverse Events Occurring in ≥2% of Tamsulosin Hydrochloride Capsules or Placebo Patients in Two U.S. Short-Term Placebo-Controlled Clinical Studies
 
-|  | 0.4 mg n=502 | 0.8 mg n=492 | n=493 |
-| --- | --- | --- | --- |
 | BODY SYSTEM/ADVERSE EVENT | TAMSULOSIN HYDROCHLORIDE CAPSULES GROUPS |  | PLACEBO |
+| --- | --- | --- | --- |
+|  | 0.4 mg n=502 | 0.8 mg n=492 | n=493 |
 | BODY AS WHOLE |  |  |  |
 | Headache | 97 (19.3%) | 104 (21.1%) | 99 (20.1%) |
 | Infection2 | 45 (9%) | 53 (10.8%) | 37 (7.5%) |
@@ -37,11 +37,9 @@ Table 1 Treatment-Emergent1 Adverse Events Occurring in ≥2% of Tamsulosin Hydr
 | Abnormal ejaculation | 42 (8.4%) | 89 (18.1%) | 1 (0.2%) |
 | SPECIAL SENSES |  |  |  |
 | Blurred vision | 1 (0.2%) | 10 (2%) | 2 (0.4%) |
-| 1 A treatment-emergent adverse event was defined as any event satisfying one of the following criteria: The adverse event occurred for the first time after initial dosing with double-blind study medication.The adverse event was present prior to or at the time of initial dosing with double-blind study medication and subsequently increased in severity during double-blind treatment; orThe adverse event was present prior to or at the time of initial dosing with double-blind study medication, disappeared completely, and then reappeared during double-blind treatment. |  |  |  |
-| 2 Coding preferred terms also include cold, common cold, head cold, flu, and flu-like symptoms. |  |  |  |
-| 3 Coding preferred terms also include nasal congestion, stuffy nose, runny nose, sinus congestion, and hay fever. |  |  |  |
+| 1 A treatment-emergent adverse event was defined as any event satisfying one of the following criteria: The adverse even occurred for the first time after initial dosing with double-blind study medication. The adverse event was present prior to or at the time of initial dosing with double-blind study medication and subsequently increased in severity during double-blind treatment; or The adverse event was present prior to or at the time of initial dosing with double-blind study medication, disappeared completely, and then reappeared during double-blind treatment. 2 Coding preferred terms also include cold, common cold, head cold, flu, and flu-like symptoms. 3 Coding preferred terms also include nasal congestion, stuffy nose, runny nose, sinus congestion, and hay fever. |  |  |  |
 
-### Signs and Symptoms of Orthostasis
+Signs and Symptoms of Orthostasis
 
 In the two U.S. studies, symptomatic postural hypotension was reported by 0.2% of patients (1 of 502) in the 0.4 mg group, 0.4% of patients (2 of 492) in the 0.8 mg group, and by no patients in the placebo group.
 Syncope was reported by 0.2% of patients (1 of 502) in the 0.4 mg group, 0.4% of patients (2 of 492) in the 0.8 mg group, and 0.6% of patients (3 of 493) in the placebo group.
@@ -56,15 +54,15 @@ At 8 hours post-dose, a positive orthostatic test result was observed for 6% of 
 
 In Studies 1 and 2, at least one positive orthostatic test result was observed during the course of these studies for 81 of the 502 patients (16%) in the tamsulosin hydrochloride capsules 0.4 mg once-daily group, 92 of the 491 patients (19%) in the tamsulosin hydrochloride capsules 0.8 mg once-daily group, and 54 of the 493 patients (11%) in the placebo group.
 
-Because orthostasis was detected more frequently in tamsulosin hydrochloride capsule-treated patients than in placebo recipients, there is a potential risk of syncope [see Warnings and Precautions (5.1)].
+Because orthostasis was detected more frequently in tamsulosin hydrochloride capsule-treated patients than in placebo recipients, there is a potential risk of syncope [see Warnings and Precautions(5.1)].
 
-### Abnormal Ejaculation
+Abnormal Ejaculation
 
 Abnormal ejaculation includes ejaculation failure, ejaculation disorder, retrograde ejaculation and ejaculation decrease.
 As shown in Table 1, abnormal ejaculation was associated with tamsulosin hydrochloride capsules administration and was dose-related in the U.S. studies.
-Withdrawal from these clinical studies of tamsulosin hydrochloride capsules because of abnormal ejaculation was also dose-dependent with 8 of 492 patients (1.6%) in the 0.8 mg group, and no patients in the 0.4 mg or placebo groups discontinuing treatment due to abnormal ejaculation.
+Withdrawal from these clinical studies of tamsulosin hydrochloride capsules because of abnormal ejaculation was also dose-dependent, with 8 of 492 patients (1.6%) in the 0.8 mg group and no patients in the 0.4 mg or placebo groups discontinuing treatment due to abnormal ejaculation.
 
-### Laboratory Tests
+Laboratory Tests
 
 No laboratory test interactions with tamsulosin hydrochloride capsules are known.
 Treatment with tamsulosin hydrochloride capsules for up to 12 months had no significant effect on prostate-specific antigen (PSA).
@@ -77,6 +75,6 @@ Decisions to include these reactions in labeling are typically based on one or m
 
 Allergic-type reactions such as skin rash, urticaria, pruritus, angioedema and respiratory symptoms have been reported with positive rechallenge in some cases.
 Priapism has been reported rarely.
-Infrequent reports of palpitations, hypotension, skin desquamation, constipation and vomiting have been received during the postmarketing period.
+Infrequent reports of dyspnea, palpitations, hypotension, atrial fibrillation, arrhythmia, tachycardia, skin desquamation including reports of Stevens-Johnson syndrome, constipation, and vomiting have been received during the postmarketing period.
 
-During cataract surgery, a variant of small pupil syndrome known as Intraoperative Floppy Iris Syndrome (IFIS) has been reported in association with alpha1 blocker therapy [see Warnings and Precautions (5.5)].
+During cataract surgery, a variant of small pupil syndrome known as Intraoperative Floppy Iris Syndrome (IFIS) has been reported in association with alpha1 blocker therapy [see Warnings and Precautions(5.5)].

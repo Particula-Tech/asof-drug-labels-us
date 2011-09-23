@@ -6,6 +6,6 @@ NDC 0781-2076-01 in bottles of 100 capsules
 
 NDC 0781-2076-10 in bottles of 1000 capsules
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
-Keep tamsulsoin hydrochloride capsules, USP and all medicines out of reach of children.
+Keep tamsulosin hydrochloride capsules, USP and all medicines out of reach of children.

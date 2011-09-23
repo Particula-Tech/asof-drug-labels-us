@@ -19,7 +19,7 @@ There were no mutagenic effects in the in vivo sister chromatid exchange and mou
 
 Studies in rats revealed significantly reduced fertility in males dosed with single or multiple daily doses of 300 mg/kg/day of tamsulosin hydrochloride (AUC exposure in rats about 50 times the human exposure with the maximum therapeutic dose).
 The mechanism of decreased fertility in male rats is considered to be an effect of the compound on the vaginal plug formation possibly due to changes of semen content or impairment of ejaculation.
-The effects on fertility were reversible showing improvement by 3 days after a single dose and 4 weeks after multiple dosing.
+The effects on fertility were reversible, showing improvement by 3 days after a single dose and 4 weeks after multiple dosing.
 Effects on fertility in males were completely reversed within nine weeks of discontinuation of multiple dosing.
 Multiple doses of 10 and 100 mg/kg/day tamsulosin hydrochloride (1/5 and 16 times the anticipated human AUC exposure) did not significantly alter fertility in male rats.
 Effects of tamsulosin hydrochloride on sperm counts or sperm function have not been evaluated.
