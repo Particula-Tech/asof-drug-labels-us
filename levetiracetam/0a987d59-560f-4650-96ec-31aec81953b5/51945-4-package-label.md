@@ -2,14 +2,15 @@ PRINCIPAL DISPLAY PANEL - 250 mg
 
 NDC 0378-5613-78
 
-LEVETIRACETAM TABLETS 250 mg
+Levetiracetam Tablets, USP
 
-PHARMACIST: PLEASE DISPENSE WITH ATTACHED MEDICATION GUIDE.
-
-120 TABLETS (Rx only)
-
-Each film-coated tablet contains: Levetiracetam.....
 250 mg
+
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+
+Rx only 120 TABLETS
+
+Each film-coated tablet contains: Levetiracetam, USP 250 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -22,22 +23,25 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM5613DA1
+www.mylan.com
+
+RM5613DA3
 
 PRINCIPAL DISPLAY PANEL - 500 mg
 
 NDC 0378-5615-78
 
-LEVETIRACETAM TABLETS 500 mg
+Levetiracetam Tablets, USP
 
-PHARMACIST: PLEASE DISPENSE WITH ATTACHED MEDICATION GUIDE.
-
-120 TABLETS (Rx only)
-
-Each film-coated tablet contains: Levetiracetam.....
 500 mg
+
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+
+Rx only 120 TABLETS
+
+Each film-coated tablet contains: Levetiracetam, USP 500 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -50,22 +54,25 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM5615DA1
+www.mylan.com
+
+RM5615DA3
 
 PRINCIPAL DISPLAY PANEL - 750 mg
 
 NDC 0378-5617-78
 
-LEVETIRACETAM TABLETS 750 mg
+Levetiracetam Tablets, USP
 
-PHARMACIST: PLEASE DISPENSE WITH ATTACHED MEDICATION GUIDE.
-
-120 TABLETS (Rx only)
-
-Each film-coated tablet contains: Levetiracetam.....
 750 mg
+
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+
+Rx only 120 TABLETS
+
+Each film-coated tablet contains: Levetiracetam, USP 750 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -80,22 +87,25 @@ Usual Dosage: See accompanying prescribing information.
 
 This container is not intended for dispensing for household use.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM5617DA1
+www.mylan.com
+
+RM5617DA3
 
 PRINCIPAL DISPLAY PANEL - 1000 mg
 
 NDC 0378-5619-91
 
-LEVETIRACETAM TABLETS 1000 mg
+Levetiracetam Tablets, USP
 
-PHARMACIST: PLEASE DISPENSE WITH ATTACHED MEDICATION GUIDE.
-
-60 TABLETS (Rx only)
-
-Each film-coated tablet contains: Levetiracetam.....
 1000 mg
+
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+
+Rx only 120 TABLETS
+
+Each film-coated tablet contains: Levetiracetam, USP 1000 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -108,6 +118,8 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM5619D1
+www.mylan.com
+
+RM5619D3

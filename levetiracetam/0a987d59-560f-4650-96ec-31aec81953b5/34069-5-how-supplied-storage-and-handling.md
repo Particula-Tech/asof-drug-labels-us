@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Levetiracetam Tablets are available containing 250 mg, 500 mg, 750 mg or 1000 mg of levetiracetam.
+Levetiracetam Tablets, USP are available containing 250 mg, 500 mg, 750 mg or 1000 mg of levetiracetam, USP.
 
 The 250 mg tablets are white, film-coated, round tablets debossed with M above the score and 613 below the score on one side of the tablet and blank on the other side.
 They are available as follows:
@@ -38,7 +38,3 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 PHARMACIST: Dispense a Medication Guide with each prescription.
 
 FOR MEDICAL INFORMATION Toll free 1-877-446-3679 (1-877-4-INFO-RX)
-
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
-
-REVISED APRIL 2009 LVTC:R4mpbmt

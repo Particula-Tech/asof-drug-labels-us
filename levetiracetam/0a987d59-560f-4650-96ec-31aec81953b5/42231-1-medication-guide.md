@@ -1,8 +1,10 @@
-# MEDICATION GUIDE LEVETIRACETAM TABLETS
+# MEDICATION GUIDE LEVETIRACETAM TABLETS, USP
+
+(lee'' va tye ra' se tam).
 
 250 mg, 500 mg, 750 mg and 1000 mg
 
-Read this Medication Guide before you start taking levetiracetam and each time you get a refill.
+Read this Medication Guide before you start taking levetiracetam tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
@@ -43,6 +45,8 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 Levetiracetam tablets are a prescription medicine taken by mouth that are used with other medicines to treat:
 
 - partial onset seizures in people 4 years of age and older with epilepsy
+- myoclonic seizures in people 12 years of age and older with juvenile myoclonic epilepsy
+- primary generalized tonic-clonic seizures in people 6 years of age and older with certain types of generalized epilepsy.
 
 It is not known if levetiracetam tablets are safe or effective in children under 4 years of age.
 
@@ -135,9 +139,12 @@ Tell your healthcare provider if you have any side effect that bothers you or th
 These are not all the possible side effects of levetiracetam tablets.
 For more information, ask your healthcare provider or pharmacist.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 ## How should I store levetiracetam tablets?
 
-- Store levetiracetam tablets at room temperature away from heat and light.
+- Store levetiracetam tablets at room temperatureroom temperature, 20° to 25°C (68° to 77°F) away from heat and light.
 - Keep levetiracetam tablets and all medicines out of the reach of children.
 
 ## General information about levetiracetam tablets.
@@ -152,19 +159,16 @@ If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about levetiracetam tablets that is written for health professionals.
 You can also call 1-877-446-3679 (1-877-4-INFO-RX) for more information.
 
-## What are the ingredients of levetiracetam tablets?
+## What are the ingredients of levetiracetam tablets, USP?
 
-Levetiracetam tablets active ingredient: levetiracetam.
+Levetiracetam tablets active ingredient: levetiracetam, USP.
 
 Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, povidone, sodium lauryl sulfate, titanium dioxide and triacetin.
 
 Levetiracetam tablets do not contain lactose or gluten.
 
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-APRIL 2009 MG:LVTC:R1
+REVISED AUGUST 2011 LVTC:R6mpbmt/MG:LVTC:R3
