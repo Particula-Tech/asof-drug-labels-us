@@ -14,9 +14,6 @@ Marketed by: VISTAKON® Pharmaceuticals, LLC Jacksonville, FL 32256 USA
 
 Licensed from: Daiichi Sankyo Co., Ltd., Tokyo, Japan
 
-U.S. PAT.
-NO. 5,053,407
+January 2011 Version
 
-April 2007 Version
-
-3220665/11
+3220665/12
