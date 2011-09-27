@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA091416"
+  ],
+  "inn": "naproxen",
+  "labeler": "Marksans Pharma Limited",
+  "package_ndcs": [
+    "25000-138-03",
+    "25000-138-14",
+    "25000-138-21",
+    "25000-138-31",
+    "25000-139-03",
+    "25000-139-14",
+    "25000-139-22",
+    "25000-139-32",
+    "25000-140-03",
+    "25000-140-14",
+    "25000-140-19",
+    "25000-140-29"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "naproxen",
+      "name": "Naproxen"
+    }
+  ],
+  "setid": "1fdb4cbd-e9e8-47bb-b3d8-1f1ec8f411c8",
+  "source": "dailymed"
+}
