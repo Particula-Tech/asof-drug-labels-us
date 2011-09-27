@@ -4,7 +4,7 @@ Pseudomembranous colitis has been reported with nearly all antibacterial agents,
 Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
 
 Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is one primary cause of "antibiotic-associated colitis".
+Studies indicate that a toxin produced by Clostridium difficile is one primary cause of “antibiotic-associated colitis”.
 
 After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
 Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
@@ -12,7 +12,7 @@ In moderate to severe cases, consideration should be given to management with fl
 
 # PRECAUTIONS
 
-## General
+## General -
 
 For topical use only; not for ophthalmic use.
 Concomitant topical acne therapy should be used with caution because a possible cumulative irritancy effect may occur, especially with the use of peeling, desquamating, or abrasive agents.
@@ -22,28 +22,35 @@ If this occurs, discontinue use and take appropriate measures.
 
 Avoid contact with eyes and all mucous membranes.
 
-## Information for Patients
+## Information for Patients -
 
 Patients using Ery 2% Pads should receive the following information and instructions:
 
-1. This medication is to be used as directed by the physician.
-   It is for external use only.
-   Avoid contact with the eyes, nose, mouth, and all mucous membranes.
-2. This medication should not be used for any disorder other than that for which it was prescribed.
-3. Patients should not use any other topical acne medication unless otherwise directed by their physician.
-4. Patients should report to their physician any signs of local adverse reactions.
+1.
+This medication is to be used as directed by the physician.
+It is for external use only.
+Avoid contact with the eyes, nose, mouth, and all mucous membranes.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+2.
+This medication should not be used for any disorder other than that for which it was prescribed.
+
+3.
+Patients should not use any other topical acne medication unless otherwise directed by their physician.
+
+4.
+Patients should report to their physician any signs of local adverse reactions.
+
+## Carcinogenesis, Mutagenesis, Impairment of Fertility -
 
 No animal studies have been performed to evaluate the carcinogenic and mutagenic potential or effects on fertility of topical erythromycin.
 However, long-term (2-year) oral studies in rats with erythromycin ethylsuccinate and erythromycin base did not provide evidence of tumorigenicity.
 There was no apparent effect on male or female fertility in rats fed erythromycin (base) at levels up to 0.25% of diet.
 
-## Pregnancy
+## Pregnancy:
 
-### Teratogenic Effects
+### Teratogenic Effects:
 
-#### Pregnancy Category B
+#### Pregnancy Category B -
 
 There was no evidence of teratogenicity or any other adverse effect on reproduction in female rats fed erythromycin base (up to 0.25% diet) prior to and during mating, during gestation and through weaning of two successive litters.
 
@@ -51,12 +58,12 @@ There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used in pregnancy only if clearly needed.
 Erythromycin has been reported to cross the placental barrier in humans, but fetal plasma levels are generally low.
 
-## Nursing Women
+## Nursing Women -
 
 It is not known whether erythromycin is excreted in human milk after topical application.
 However, erythromycin is excreted in human milk following oral and parenteral erythromycin administration.
 Therefore, caution should be exercised when erythromycin is administered to a nursing woman.
 
-## Pediatric Use
+## Pediatric Use -
 
 Safety and effectiveness of this product in pediatric patients have not been established.

@@ -4,9 +4,13 @@ For Dermatologic Use Only
 
 Not for Ophthalmic Use
 
-MANUFACTURED BY STIEFEL LABORATORIES, INC. CORAL GABLES, FL 33134
+Made in Israel
 
-DISTRIBUTED BY PERRIGO® ALLEGAN, MI 49010
+Manufactured by Perrigo
+
+Yeruham 80500, Israel
 
 Rev.
-12/08 302414 6E500 RC J3
+08/11
+
+6E500 RC J4

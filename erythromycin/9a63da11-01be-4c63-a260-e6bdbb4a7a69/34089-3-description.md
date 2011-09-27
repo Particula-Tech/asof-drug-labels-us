@@ -3,6 +3,7 @@
 Ery 2% Pads contain erythromycin, USP for topical dermatologic use.
 Erythromycin is a macrolide antibiotic produced from a strain of Saccaropolyspora erythraea (formerly Streptomyces erythreus).
 It is a base and readily forms salts with acids.
+
 Chemically, erythromycin is C37H67NO13.
 It has the following structural formula:
 
@@ -13,5 +14,5 @@ It is a white or slightly yellow, crystalline powder, slightly soluble in water,
 It is odorless or practically odorless.
 It has a pH range between 8.0 and 10.5 in a methanol and water solution prepared by diluting 1 volume of a methanol solution, containing 40 mg per mL, with 19 volumes of water.
 
-Each mL of expressible liquid contains 20 mg erythromycin in a base of alcohol (68.5% denatured with tert-butyl alcohol and denatonium benzoate), propylene glycol and citric acid to adjust pH.
+Each mL of expressible liquid contains 20 mg erythromycin in a base of dehydrated alcohol, propylene glycol and citric acid to adjust pH.
 Each pledget is filled to contain 0.8 mL of Erythromycin Topical Solution 2%.
