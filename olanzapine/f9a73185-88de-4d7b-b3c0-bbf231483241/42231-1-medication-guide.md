@@ -188,15 +188,15 @@ Inactive ingredients: carboxymethylcellulose sodium, mannitol, polysorbate 80, s
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide issued December 11, 2009
+Medication Guide revised July 5, 2011
 
-Eli Lilly and Company
+Marketed by: Lilly USA, LLC
 
 Indianapolis, IN 46285, USA
 
 www.zyprexarelprevv.com
 
-Copyright © 2009, Eli Lilly and Company.
+Copyright © 2009, 2011, Eli Lilly and Company.
 All rights reserved.
 
-PV 5940 AMP
+PV 5941 AMP
