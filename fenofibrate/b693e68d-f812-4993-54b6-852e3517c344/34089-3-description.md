@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 TRICOR (fenofibrate tablets), is a lipid regulating agent available as tablets for oral administration.
 Each tablet contains 48 mg or 145 mg of fenofibrate.
@@ -8,16 +8,16 @@ The empirical formula is C20H21O4Cl and the molecular weight is 360.83; fenofibr
 The melting point is 79-82°C.
 Fenofibrate is a white solid which is stable under ordinary conditions.
 
-## Inactive Ingredients
+Inactive Ingredients
 
 Each tablet contains hypromellose 2910 (3 cps), docusate sodium, sucrose, sodium lauryl sulfate, lactose monohydrate, silicified microcrystalline cellulose, crospovidone, and magnesium stearate.
 
 In addition, individual tablets contain:
 
-### 48 mg tablets
+48 mg tablets
 
 polyvinyl alcohol, titanium dioxide, talc, soybean lecithin, xanthan gum, D&C Yellow #10 aluminum lake, FD&C Yellow #6 /sunset yellow FCF aluminum lake, FD&C Blue #2 /indigo carmine aluminum lake.
 
-### 145 mg tablets
+145 mg tablets
 
 polyvinyl alcohol, titanium dioxide, talc, soybean lecithin, xanthan gum.

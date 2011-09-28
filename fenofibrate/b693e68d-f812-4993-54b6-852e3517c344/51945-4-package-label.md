@@ -1,11 +1,15 @@
 NDC 0074–6122–90
 
-TriCor® Fenofibrate Tablets 48 mg
+TriCor®
 
-90 Tablets
+Fenofibrate Tablets 48 mg 90 Tablets
+
+Rx only Abbott
 
 NDC 0074–6123–90
 
-TriCor® Fenofibrate Tablets 145 mg
+TriCor®
 
-90 Tablets
+Fenofibrate Tablets 145 mg 90 Tablets
+
+Rx only Abbott
