@@ -23,7 +23,7 @@ Both piperacillin and tazobactam are approximately 30% bound to plasma proteins.
 The protein binding of either piperacillin or tazobactam is unaffected by the presence of the other compound.
 Protein binding of the tazobactam metabolite is negligible.
 
-Piperacillin and tazobactam are widely distributed into tissues and body fluids including intestinal mucosa, gallbladder, lung, female reproductive tissues (uterus, ovary and fallopian tube), interstitial fluid, and bile.
+Piperacillin and tazobactam are widely distributed into tissues and body fluids including intestinal mucosa, gallbladder, lung, female reproductive tissues (uterus, ovary, and fallopian tube), interstitial fluid, and bile.
 Mean tissue concentrations are generally 50% to 100% of those in plasma.
 Distribution of piperacillin and tazobactam into cerebrospinal fluid is low in subjects with non-inflamed meninges, as with other penicillins.
 
@@ -32,7 +32,7 @@ At creatinine clearance below 20 mL/min, the increase in half-life is twofold fo
 Dosage adjustments for ZOSYN are recommended when creatinine clearance is below 40 mL/min in patients receiving the usual recommended daily dose of ZOSYN.
 (See DOSAGE AND ADMINISTRATION section for specific recommendations for the treatment of patients with renal insufficiency.)
 
-Hemodialysis removes 30 to 40% of a piperacillin/tazobactam dose with an additional 5% of the tazobactam dose removed as the tazobactam metabolite.
+Hemodialysis removes 30% to 40% of a piperacillin/tazobactam dose with an additional 5% of the tazobactam dose removed as the tazobactam metabolite.
 Peritoneal dialysis removes approximately 6% and 21% of the piperacillin and tazobactam doses, respectively, with up to 16% of the tazobactam dose removed as the tazobactam metabolite.
 For dosage recommendations for patients undergoing hemodialysis, see DOSAGE AND ADMINISTRATION section.
 
@@ -54,7 +54,7 @@ TABLE 2 STEADY STATE MEAN PLASMA CONCENTRATIONS IN ADULTS AFTER 30-MINUTE INTRAV
 | 2.25 g | 8 | 14.8 (14) | 7.2 (22) | 2.6 (30) | 1.1 (35) | 0.7 (6)c | <0.5 | 16.0 (21) |
 | 3.375 g | 6 | 24.2 (14) | 10.7 (7) | 4.0 (18) | 1.4 (21) | 0.7 (16)b | <0.5 | 25.0 (8) |
 | 4.5 g | 8 | 33.8 (15) | 17.3 (16) | 6.8 (24) | 2.8 (25) | 1.3 (30) | <0.5 | 39.8 (15) |
-| ** Numbers in parentheses are coefficients of variation (CV%).a: Piperacillin and tazobactam were given in combination. b: N = 4 c: N = 3 |  |  |  |  |  |  |  |  |
+| ** Numbers in parentheses are coefficients of variation (CV%).a Piperacillin and tazobactam were given in combination. b N = 4 c N = 3 |  |  |  |  |  |  |  |  |
 
 ## Pediatrics
 
@@ -77,11 +77,11 @@ Tazobactam does not induce chromosomally-mediated β-lactamases at tazobactam co
 
 Piperacillin/tazobactam has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-### Aerobic and facultative Gram-positive microorganisms:
+### Aerobic and facultative gram-positive microorganisms:
 
 Staphylococcus aureus (excluding methicillin and oxacillin-resistant isolates)
 
-### Aerobic and facultative Gram-negative microorganisms:
+### Aerobic and facultative gram-negative microorganisms:
 
 Acinetobacter baumanii
 
@@ -102,7 +102,7 @@ The following in vitro data are available, but their clinical significance is un
 At least 90% of the following microorganisms exhibit in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for piperacillin/tazobactam.
 However, the safety and effectiveness of piperacillin/tazobactam in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
-### Aerobic and facultative Gram-positive microorganisms:
+### Aerobic and facultative gram-positive microorganisms:
 
 Enterococcus faecalis (ampicillin or penicillin-susceptible isolates only)
 
@@ -116,7 +116,7 @@ Streptococcus pyogenes†
 
 Viridans group streptococci†
 
-### Aerobic and facultative Gram-negative microorganisms:
+### Aerobic and facultative gram-negative microorganisms:
 
 Citrobacter koseri
 
@@ -152,7 +152,7 @@ Prevotella melaninogenica
 
 ## Susceptibility Testing Methods
 
-As is recommended with all antimicrobials, the results of in vitro susceptibility tests, when available, should be provided to the physician as periodic reports, which describe the susceptibility profile of nosocomial and community acquired pathogens.
+As is recommended with all antimicrobials, the results of in vitro susceptibility tests, when available, should be provided to the physician as periodic reports, which describe the susceptibility profile of nosocomial and community—acquired pathogens.
 These reports should aid the physician in selecting the most effective antimicrobial.
 
 ### Dilution Techniques:
@@ -185,7 +185,7 @@ TABLE 3 SUSCEPTIBILITY INTERPRETIVE CRITERIA FOR PIPERACILLIN/TAZOBACTAM
 | Pseudomonas aeruginosa | ≤ 64 | - | ≥ 128 | ≥ 18 | - | ≤ 17 |
 | Staphylococcus aureus | ≤ 8 | - | ≥ 16 | ≥ 20 | - | ≤ 19 |
 | Bacteroides fragilis group | ≤ 32 | 64 | ≥ 128 | - | - | - |
-| a: These interpretive criteria for Haemophilus influenzae are applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. |  |  |  |  |  |  |
+| a These interpretive criteria for Haemophilus influenzae are applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. |  |  |  |  |  |  |
 
 A report of S (“Susceptible”) indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of I (“Intermediate”) indicates that the results should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -211,4 +211,4 @@ TABLE 4 ACCEPTABLE QUALITY CONTROL RANGES FOR PIPERACILLIN/TAZOBACTAM TO BE USED
 | Staphylococcus aureus ATCC 25923 | - | 27 - 36 |
 | Bacteroides fragilis ATCC 25285 | 0.12 - 0.5 | - |
 | Bacteroides thetaiotaomicron ATCC 29741 | 4 - 16 | - |
-| a: This quality control range for Haemophilus influenzae is applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. |  |  |
+| a This quality control range for Haemophilus influenzae is applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. |  |  |

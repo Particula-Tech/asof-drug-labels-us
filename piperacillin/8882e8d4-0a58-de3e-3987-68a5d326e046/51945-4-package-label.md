@@ -12,17 +12,17 @@ NOVAPLUS®
 
 GALAXY
 
-Single Dose Container
+Single Dose
 
-50 mL
+Container
 
-Iso-osmotic
+Code 2G3585
+
+50 mL Iso-osmotic
 
 Sterile Nonpyrogenic
 
 Rx ONLY
-
-Wyeth®
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 2.25 G - LABEL UNIT
 
@@ -36,7 +36,7 @@ ZOSYN®
 
 NOVAPLUS®
 
-GALAXY Container
+Code 2G3585
 
 12 – 50 mL Single Dose Containers
 
@@ -47,8 +47,6 @@ Store at or below -20°C/-4°F.
 Do not refreeze
 
 Rx ONLY
-
-Wyeth®
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 3.375 G - SINGLE DOSE CONTAINER
 
@@ -64,17 +62,17 @@ NOVAPLUS®
 
 GALAXY
 
-Single Dose Container
+Single Dose
 
-50 mL
+Container
 
-Iso-osmotic
+50 mL Iso-osmotic
+
+Code 2G3586
 
 Sterile Nonpyrogenic
 
 Rx ONLY
-
-Wyeth®
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 3.375 G - LABEL UNIT
 
@@ -88,7 +86,7 @@ ZOSYN®
 
 NOVAPLUS®
 
-GALAXY Container
+Code 2G3586
 
 12 – 50 mL Single Dose Containers
 
@@ -99,8 +97,6 @@ Store at or below -20°C/-4°F.
 Do not refreeze
 
 Rx ONLY
-
-Wyeth®
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 4.5 G - SINGLE DOSE CONTAINER
 
@@ -116,17 +112,17 @@ NOVAPLUS®
 
 GALAXY
 
-Single Dose Container
+Single Dose
 
-100 mL
+Container
 
-Iso-osmotic
+100 mL Iso-osmotic
+
+Code 2G3587
 
 Sterile Nonpyrogenic
 
 Rx ONLY
-
-Wyeth®
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 4.5 G - LABEL UNIT
 
@@ -140,7 +136,7 @@ ZOSYN®
 
 NOVAPLUS®
 
-GALAXY Container
+Code 2G3587
 
 6 – 100 mL Single Dose Containers
 
@@ -151,5 +147,3 @@ Store at or below -20°C/-4°F.
 Do not refreeze
 
 Rx ONLY
-
-Wyeth®

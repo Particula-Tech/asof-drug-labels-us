@@ -2,7 +2,7 @@
 
 ZOSYN should be administered by intravenous infusion over 30 minutes.
 
-The usual daily dose of ZOSYN for adults is 3.375 g every six hours totaling 13.5 g (12 g piperacillin/1.5 g tazobactam).
+The usual daily dose of ZOSYN for adults is 3.375 g every six hours totaling 13.5 g (12.0 g piperacillin/1.5 g tazobactam).
 
 ## Nosocomial Pneumonia
 

@@ -5,7 +5,7 @@ ZOSYN is indicated for the treatment of patients with moderate to severe infecti
 Appendicitis (complicated by rupture or abscess) and peritonitis caused by piperacillin-resistant, β‑lactamase producing strains of Escherichia coli or the following members of the Bacteroides fragilis group: B. fragilis, B. ovatus, B. thetaiotaomicron, or B. vulgatus.
 The individual members of this group were studied in less than 10 cases.
 
-Uncomplicated and complicated skin and skin structure infections, including cellulitis, cutaneous abscesses and ischemic/diabetic foot infections caused by piperacillin-resistant, β‑lactamase producing strains of Staphylococcus aureus.
+Uncomplicated and complicated skin and skin structure infections, including cellulitis, cutaneous abscesses, and ischemic/diabetic foot infections caused by piperacillin-resistant, β‑lactamase producing strains of Staphylococcus aureus.
 
 Postpartum endometritis or pelvic inflammatory disease caused by piperacillin-resistant, β‑lactamase producing strains of Escherichia coli.
 

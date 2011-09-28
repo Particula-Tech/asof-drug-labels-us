@@ -26,14 +26,12 @@ Galaxy is a registered trademark of Baxter International Inc.
 |  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1‑800‑934‑5556. |  |
 | --- | --- | --- |
 
-Distributed by Wyeth Pharmaceuticals Inc.
+Distributed by Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.
 
 Manufactured by Baxter Healthcare Corporation, Deerfield, IL 60015
 
 NOVAPLUS is a registered trademark of Novation, LLC
 
-W10545C002
+LAB-0449-2.0
 
-ET01
-
-Rev 08/10
+Revised January 2011
