@@ -10,7 +10,7 @@ The patient's medical history and urinary diary during the treatment-free baseli
 Reductions in urinary frequency, urge incontinence episodes and urinary void volume for placebo and SANCTURA® treatment groups are summarized in Table 2 and Figures 2 and 3.
 
 Table 2.
-Mean (SE) change from baseline to end of treatment (Week 12 or last observation carried forward) for urinary frequency, urge incontinence episodes, and void volume in Study 1.
+Mean (SE) change from baseline to end of treatment (Week 12 or last observation carried forward) for urinary frequency, urge incontinence episodes, and void volume in Study 1
 
 | Efficacy endpoint | Placebo N=256 | SANCTURA® N=253 | P-value |
 | --- | --- | --- | --- |
@@ -40,7 +40,7 @@ Entry criteria were identical to Study 1.
 Reductions in urinary frequency, urge incontinence episodes, and urinary void volume for placebo and SANCTURA® treatment groups are summarized in Table 3 and Figures 4 and 5.
 
 Table 3.
-Mean (SE) change from baseline to end of treatment (Week 12 or last observation carried forward) for urinary frequency, urge incontinence episodes, and void volume in Study 2.
+Mean (SE) change from baseline to end of treatment (Week 12 or last observation carried forward) for urinary frequency, urge incontinence episodes, and void volume in Study 2
 
 | Efficacy endpoint | Placebo N=325 | SANCTURA® N=323 | P-value |
 | --- | --- | --- | --- |

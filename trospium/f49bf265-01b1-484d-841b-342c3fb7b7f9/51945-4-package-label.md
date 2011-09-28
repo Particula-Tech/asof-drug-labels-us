@@ -4,8 +4,8 @@ NDC 0023-3513-60
 
 60 tablets
 
-SANCTURA®
+SANCTURA ®
 
 Trospium Chloride Tablets
 
-®ALLERGAN
+® ALLERGAN
