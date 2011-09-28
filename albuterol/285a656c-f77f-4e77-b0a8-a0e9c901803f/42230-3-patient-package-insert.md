@@ -123,9 +123,9 @@ The most common side effects with albuterol sulfate inhalation solution include 
 
 How should albuterol sulfate inhalation solution be stored?
 
-- Store albuterol sulfate inhalation solution at room temperature, or 36°F to 77°F (2°C to 25°C) in its tightly closed container.
+- Store albuterol sulfate inhalation solution at room temperature, or 36 to 77°F (2 to 25°C) in its tightly closed container.
 - Protect vials from light before use.
-  Therefore, keep unused vials in the foil pouch or carton.
+  Therefore, keep unused vial(s) in the foil pouch or carton.
   Once removed from the foil pouch, use vial(s) within one week.
 - Do not use albuterol sulfate inhalation solution after the expiration date printed on the vial.
 - Do not use albuterol sulfate inhalation solution that is not clear and colorless.

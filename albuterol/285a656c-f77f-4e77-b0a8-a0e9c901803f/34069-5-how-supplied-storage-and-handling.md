@@ -1,15 +1,15 @@
 # HOW SUPPLIED
 
-Albuterol sulfate inhalation solution is supplied as a prediluted 3 mL, clear, colorless, sterile, preservative-free, aqueous solution in two different strengths, 0.63 mg (0.021%) of albuterol (equivalent to 0.75 mg of albuterol sulfate in 3 mL) and 1.25 mg (0.042%) of albuterol (equivalent to 1.5 mg of albuterol sulfate in 3 mL) in unit-dose low-density polyethylene (LDPE) vials.
-Each unit-dose LDPE vial is protected in a foil-pouch, and each foil pouch contains 1 unit-dose LDPE vial.
+Albuterol sulfate inhalation solution is supplied as a 3 mL, clear, colorless, sterile, preservative-free, aqueous solution in two different strengths, 0.63 mg (0.021%) of albuterol (equivalent to 0.75 mg of albuterol sulfate in 3 mL) and 1.25 mg (0.042%) of albuterol (equivalent to 1.5 mg of albuterol sulfate in 3 mL) in unit-dose low-density polyethylene (LDPE) vials.
+Each unit-dose LDPE vial is protected in a foil pouch, and each foil pouch contains 1 unit-dose LDPE vial.
 Each strength of albuterol sulfate inhalation solution is available in a shelf carton containing multiple foil pouches.
 
 Albuterol Sulfate Inhalation Solution 0.021% (0.63 mg / 3 mL) (potency expressed as albuterol equivalent to 0.75 mg albuterol sulfate per 3 mL) in unit-dose vials and is available in the following packaging configurations:
 
-- NDC 0487-0301-01 30 foil pouches, each containing 1 vial, total 25 vials per carton
+- NDC 0487-0301-01: 30 foil pouches, each containing 1 vial, total 30 vials per carton
 
 - 
-  - NDC 0487-0301-02 30 foil pouches, each containing 1 vial, total 30 vials, robot ready
+  - NDC 0487-0301-02 30 foil pouches, each containing 1 vial, total 30 vials per carton, robot ready
 
 Albuterol Sulfate Inhalation Solution, 0.042% (1.25 mg / 3 mL) (potency expressed as albuterol equivalent to 1.5 mg albuterol sulfate per 3 mL) in unit-dose vials and is available in the following packaging configurations:
 
@@ -19,7 +19,7 @@ Albuterol Sulfate Inhalation Solution, 0.042% (1.25 mg / 3 mL) (potency expresse
   - NDC 0487-9904-01 30 foil pouches, each containing 1 vial, total 30 vials per carton
 
 - 
-  - NDC 0487-9904-02 30 foil pouches, each containing 1 vial, total 30 vials, robot ready
+  - NDC 0487-9904-02 30 foil pouches, each containing 1 vial, total 30 vials, per carton, robot ready
 
 ## Storage and Handling
 
@@ -37,3 +37,6 @@ Rx Only
 Manufactured By: Nephron Pharmaceuticals Corporation Orlando, FL 32811
 
 For Customer Service, call 1-800-443-4313.
+
+IC#228 Rev.
+03-16-11
