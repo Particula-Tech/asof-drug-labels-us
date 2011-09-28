@@ -7,6 +7,9 @@ Dosage should be reduced for children, elderly and debilitated patients and pati
 The maximum single recommended doses of chloroprocaine in adults are: without epinephrine, 11 mg/kg, not to exceed a maximum total dose of 800 mg; with epinephrine (1:200,000), 14 mg/kg, not to exceed a maximum total dose of 1000 mg.
 For specific techniques and procedures, refer to standard textbooks.
 
+There have been adverse event reports of chondrolysis in patients receiving intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures.
+Nesacaine is not approved for this use (see WARNINGS and DOSAGE AND ADMINISTRATION).
+
 Caudal and Lumbar Epidural Block: In order to guard against adverse experiences sometimes noted following unintended penetration of the subarachnoid space, the following procedure modifications are recommended:
 
 1. Use an adequate test dose (3 mL of Nesacaine-MPF 3% Injection or 5 mL of Nesacaine-MPF 2% Injection) prior to induction of complete block.
@@ -18,12 +21,11 @@ Caudal and Lumbar Epidural Block: In order to guard against adverse experiences 
 
 As a guide for some routine procedures, suggested doses are given below:
 
-1.
-Infiltration and Peripheral Nerve Block: NESACAINE or NESACAINE-MPF (chloroprocaine HCl Injection, USP)
+1. Infiltration and Peripheral Nerve Block: NESACAINE or NESACAINE-MPF (chloroprocaine HCl Injection, USP)
 
-| Anesthetic Procedure | Solution Concentration % | Volume (mL) |
-| --- | --- | --- |
-| Mandibular Infraorbital Brachial plexus Digital (without epinephrine) Pudendal Paracervical (see also PRECAUTIONS) | 222121 | 2 – 30.5 – 130 – 403 – 410 on each side3 per each of 4 sites |
+| Anesthetic Procedure | Solution Concentration % | Volume (mL) | Total Dose (mg) |
+| --- | --- | --- | --- |
+| Mandibular Infraorbital Brachial plexus Digital (without epinephrine) Pudendal Paracervical (see also PRECAUTIONS) | 222121 | 2 – 30.5 – 130 – 403 – 410 each side3 per each of 4 sites | 40 – 6010 – 20600 – 80030 – 40400up to 120 |
 
 2.
 Caudal and Lumbar Epidural Block: NESACAINE-MPF INJECTION.

@@ -5,6 +5,12 @@ DELAY IN PROPER MANAGEMENT OF DOSE RELATED TOXICITY, UNDERVENTILATION FROM ANY C
 NESACAINE (chloroprocaine HCl Injection, USP) contains methylparaben and should not be used for lumbar or caudal epidural anesthesia because safety of this antimicrobial preservative has not been established with regard to intrathecal injection, either intentional or unintentional.
 NESACAINE-MPF Injection contains no preservative; discard unused injection remaining in vial after initial use.
 
+Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
+The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humeral chondrolysis have been described in pediatric and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
+There is insufficient information to determine whether shorter infusion periods are not associated with these findings.
+The time of onset of symptoms, such as joint pain, stiffness and loss of motion can be variable, but may begin as early as the 2nd month after surgery.
+Currently, there is no effective treatment for chondrolysis; patients who experienced chondrolysis have required additional diagnostic and therapeutic procedures and some required arthroplasty or shoulder replacement.
+
 Vasopressors should not be used in the presence of ergot-type oxytocic drugs, since a severe persistent hypertension may occur.
 
 To avoid intravascular injection, aspiration should be performed before the anesthetic solution is injected.
@@ -42,6 +48,7 @@ Patients with peripheral vascular disease and those with hypertensive vascular d
 Ischemic injury or necrosis may result.
 
 Since ester-type local anesthetics are hydrolyzed by plasma cholinesterase produced by the liver, chloroprocaine should be used cautiously in patients with hepatic disease.
+
 Local anesthetics should also be used with caution in patients with impaired cardiovascular function since they may be less able to compensate for functional changes associated with the prolongation of A-V conduction produced by these drugs.
 
 Use in Ophthalmic Surgery: When local anesthetic injections are employed for retrobulbar block, lack of corneal sensation should not be relied upon to determine whether or not the patient is ready for surgery.

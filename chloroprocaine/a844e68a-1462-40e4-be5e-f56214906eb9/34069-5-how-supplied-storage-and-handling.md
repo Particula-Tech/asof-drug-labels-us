@@ -4,15 +4,15 @@ NESACAINE (chloroprocaine HCl Injection, USP) with preservatives is supplied as 
 
 | Product No. | NDC No. | Strength | Vial size |
 | --- | --- | --- | --- |
-| 470530 | 63323-475-30 | 1% (10 mg/mL) | 30 mL multiple dose vial packaged individually. |
-| 470630 | 63323-476-30 | 2% (20 mg/mL) | 30 mL multiple dose vial packaged individually. |
+| 470537 | 63323-475-37 | 1% (10 mg/mL) | 30 mL multiple dose vial packaged in trays of 25. |
+| 470637 | 63323-476-37 | 2% (20 mg/mL) | 30 mL multiple dose vial packaged in trays of 25. |
 
 NESACAINE-MPF (chloroprocaine HCl Injection, USP) without preservatives and without EDTA is supplied as follows:
 
 | Product No. | NDC No. | Strength | Vial size |
 | --- | --- | --- | --- |
-| 470720 | 63323-477-20 | 2% (20 mg/mL) | 20 mL single dose vial packaged individually. |
-| 470820 | 63323-478-20 | 3% (30 mg/mL) | 20 mL single dose vial packaged individually. |
+| 470727 | 63323-477-27 | 2% (20 mg/mL) | 20 mL single dose vial packaged in trays of 25. |
+| 470827 | 63323-478-27 | 3% (30 mg/mL) | 20 mL single dose vial packaged in trays of 25. |
 
 Keep from freezing.
 Protect from light.

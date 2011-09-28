@@ -12,4 +12,5 @@ Table 1: Composition of Available Injections
 
 The solutions are adjusted to pH 2.7–4.0 by means of sodium hydroxide and/or hydrochloric acid.
 Filled under nitrogen.
+
 Nesacaine and Nesacaine-MPF Injections should not be resterilized by autoclaving.

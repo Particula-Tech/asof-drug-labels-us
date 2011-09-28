@@ -1,5 +1,3 @@
 For Infiltration and Nerve Block
 
-Manufactured for:
-
-451109B/Revised: August 2009
+451109D/Revised: July 2010
