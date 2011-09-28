@@ -5,7 +5,7 @@ Citalopram HBr is a racemic bicyclic phthalane derivative designated (±)-1-(3-d
 
 The molecular formula is C20H22BrFN2O and its molecular weight is 405.35.
 
-Citalopram HBr occurs as a fine, white to off-white powder.Citalopram HBr is sparingly soluble in water and soluble in ethanol.
+Citalopram HBr, USP occurs as a fine, white to off-white powder.Citalopram HBr is sparingly soluble in water and soluble in ethanol.
 Citalopram hydrobromide is available as tablets.
 
 Citalopram hydrobromide 10 mg tablets are film-coated, round shaped tablets containing citalopram HBr in strengths equivalent to 10 mg citalopram base.

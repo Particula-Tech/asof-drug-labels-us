@@ -20,12 +20,13 @@ Among 1063 depressed patients who received citalopram at doses ranging from 10 t
 The adverse events associated with discontinuation and considered drug-related (i.e., associated with discontinuation in at least 1% of citalopram-treated patients at a rate at least twice that of placebo) are shown in TABLE 2.
 It should be noted that one patient can report more than one reason for discontinuation and be counted more than once in this table.
 
-TABLE 2 Adverse Events Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled, Depression Trials
+TABLE 2
 
-|  | (N=1063) | (N=446) |
+| Adverse Events Associated with Discontinuation of Treatment in Short-Term, Placebo- Controlled, Depression Trials |  |  |
 | --- | --- | --- |
-|  | (Percentage of Patients Discontinuing Due to Adverse Event) |  |
+| Percentage of Patients Discontinuing Due to Adverse Event |  |  |
 |  | Citalopram | Placebo |
+|  | (N=1063) | (N=446) |
 | Body System/Adverse Event |  |  |
 | General |  |  |
 | Asthenia | 1% | <1% |
@@ -52,12 +53,14 @@ The cited figures, however, do provide the prescribing physician with some basis
 
 The only commonly observed adverse event that occurred in citalopram patients with an incidence of 5% or greater and at least twice the incidence in placebo patients was ejaculation disorder (primarily ejaculatory delay) in male patients (see TABLE 3).
 
-TABLE 3 Treatment-Emergent Adverse Events:Incidence in Placebo-Controlled Clinical Trials*
+TABLE 3
 
-|  | (N=1063) | (N=446) |
+| Treatment-Emergent Adverse Events: |  |  |
 | --- | --- | --- |
+| Incidence in Placebo-Controlled Clinical Trials* |  |  |
 |  | (Percentage of Patients Reporting Event) |  |
 | Body System/Adverse Event | Citalopram HBr | Placebo |
+|  | (N=1063) | (N=446) |
 | Autonomic Nervous System |  |  |
 | Disorders |  |  |
 | Dry Mouth | 20% | 14% |
@@ -94,7 +97,10 @@ TABLE 3 Treatment-Emergent Adverse Events:Incidence in Placebo-Controlled Clinic
 | Urogenital |  |  |
 | Ejaculation Disorder2,3 | 6% | 1% |
 | Impotence3 | 3% | <1% |
-| * Events reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo ≥ citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain. 1 Denominator used was for females only (N=638 citalopram; N=252 placebo). 2 Primarily ejaculatory delay. 3 Denominator used was for males only (N=425 citalopram; N=194 placebo). |  |  |
+| * Events reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo ≥ citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain. |  |  |
+| 1 Denominator used was for females only (N=638 citalopram; N=252 placebo). |  |  |
+| 2 Primarily ejaculatory delay. |  |  |
+| 3 Denominator used was for males only (N=425 citalopram; N=194 placebo). |  |  |
 
 Dose Dependency of Adverse Events
 
@@ -111,15 +117,11 @@ Accordingly, estimates of the incidence of untoward sexual experience and perfor
 
 The table below displays the incidence of sexual side effects reported by at least 2% of patients taking citalopram in a pool of placebo-controlled clinical trials in patients with depression.
 
-|  | (425 males) | (194 males) |
+| Treatment | Citalopram (425 males) | Placebo (194 males) |
 | --- | --- | --- |
-| Treatment | Citalopram | Placebo |
-| Abnormal Ejaculation | 6.1% | 1% |
-| (mostly ejaculatory delay) | (males only) | (males only) |
-| Libido Decreased | 3.8% | 1% |
-|  | (males only) | (males only) |
-| Impotence | 2.8% | <1% |
-|  | (males only) | (males only) |
+| Abnormal Ejaculation (mostly ejaculatory delay) | 6.1% (males only) | 1% (males only) |
+| Libido Decreased | 3.8% (males only) | <1% (males only) |
+| Impotence | 2.8% (males only) | <1% (males only) |
 
 In female depressed patients receiving citalopram, the reported incidence of decreased libido and anorgasmia was 1.3% (n=638 females) and 1.1% (n=252 females), respectively.
 
@@ -146,9 +148,13 @@ These analyses revealed no clinically important changes in laboratory test param
 
 ECG Changes
 
-Electrocardiograms from citalopram (N=802) and placebo (N=241) groups were compared with respect to (1) mean change from baseline in various ECG parameters, and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
-The only statistically significant drug-placebo difference observed was a decrease in heart rate for citalopram of 1.7 bpm compared to no change in heart rate for placebo.
-There were no observed differences in QT or other ECG intervals.
+In a thorough QT study, citalopram was found to be associated with a dose-dependent increase in the QTc interval (see WARNINGS - QT-Prolongation and Torsade de Pointes).
+
+Electrocardiograms from citalopram (N=802) and placebo (N=241) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
+In the citalopram group 1.9% of the patients had a change from baseline in QTcF >60 msec compared to 1.2% of the patients in the placebo group.
+None of the patients in the placebo group had a post-dose QTcF >500 msec compared to 0.5% of the patients in the citalopram group.
+The incidence of tachycardic outliers was 0.5% in the citalopram group and 0.4% in the placebo group.
+The incidence of bradycardic outliers was 0.9% in the citalopram group and 0.4% in the placebo group.
 
 ## Other Events Observed During the Premarketing Evaluation of Citalopram HBr
 
