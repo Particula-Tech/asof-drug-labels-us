@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA076684"
+  ],
+  "inn": "enoxaparin",
+  "labeler": "Amphastar Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0548-5601-00",
+    "0548-5602-00",
+    "0548-5603-00",
+    "0548-5604-00",
+    "0548-5605-00",
+    "0548-5606-00",
+    "0548-5607-00"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "enoxaparin sodium",
+      "name": "Enoxaparin Sodium"
+    }
+  ],
+  "setid": "3e6bf2b3-9339-4104-bda3-ad86a1949703",
+  "source": "dailymed"
+}

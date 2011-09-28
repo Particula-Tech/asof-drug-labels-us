@@ -1,0 +1,115 @@
+PRINCIPAL DISPLAY PANEL - 10 x 30 mg Syringe Carton
+
+ENOXAPARIN SODIUM INJECTION 30 mg/0.3 mL
+
+NDC 0548-5601-00
+
+Rx ONLY
+
+FOR SUBCUTANEOUS INJECTION
+
+10 x 30 mg Single Dose Syringes with Automatic Safety Device
+
+AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730, U.S.A.
+
+Made in U.S.A. © 2008
+
+PRINCIPAL DISPLAY PANEL - 10 x 40 mg Syringe Carton
+
+ENOXAPARIN SODIUM INJECTION 40 mg/0.4 mL
+
+NDC 0548-5602-00
+
+Rx ONLY
+
+FOR SUBCUTANEOUS INJECTION
+
+10 x 40 mg Single Dose Syringes with Automatic Safety Device
+
+AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730, U.S.A.
+
+Made in U.S.A. © 2008
+
+PRINCIPAL DISPLAY PANEL - 10 x 60 mg Syringe Carton
+
+ENOXAPARIN SODIUM INJECTION 60 mg/0.6 mL
+
+NDC 0548-5603-00
+
+Rx ONLY
+
+FOR SUBCUTANEOUS INJECTION
+
+10 x 60 mg Single Dose Syringes with Automatic Safety Device
+
+AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730, U.S.A.
+
+Made in U.S.A. © 2008
+
+PRINCIPAL DISPLAY PANEL - 10 x 80 mg Syringe Carton
+
+ENOXAPARIN SODIUM INJECTION 80 mg/0.8 mL
+
+NDC 0548-5604-00
+
+Rx ONLY
+
+FOR SUBCUTANEOUS INJECTION
+
+10 x 80 mg Single Dose Syringes with Automatic Safety Device
+
+AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730, U.S.A.
+
+Made in U.S.A. © 2008
+
+PRINCIPAL DISPLAY PANEL - 10 x 100 mg Syringe Carton
+
+ENOXAPARIN SODIUM INJECTION 100 mg / mL
+
+NDC 0548-5605-00
+
+1 mL Syringe
+
+Rx ONLY
+
+FOR SUBCUTANEOUS INJECTION
+
+10 x 100 mg Single Dose Syringes with Automatic Safety Device
+
+AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730, U.S.A.
+
+Made in U.S.A. © 2008
+
+PRINCIPAL DISPLAY PANEL - 10 x 120 mg Syringe Carton
+
+ENOXAPARIN SODIUM INJECTION 120 mg/0.8 mL
+
+NDC 0548-5606-00
+
+Rx ONLY
+
+FOR SUBCUTANEOUS INJECTION
+
+10 x 120 mg Single Dose Syringes with Automatic Safety Device
+
+AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730, U.S.A.
+
+Made in U.S.A. © 2008
+
+PRINCIPAL DISPLAY PANEL - 10 x 150 mg Syringe Carton
+
+ENOXAPARIN SODIUM INJECTION 150 mg / mL
+
+NDC 0548-5607-00
+
+1 mL Syringe
+
+Rx ONLY
+
+FOR SUBCUTANEOUS INJECTION
+
+10 x 150 mg Single Dose Syringes with Automatic Safety Device
+
+AMPHASTAR PHARMACEUTICALS, INC. Rancho Cucamonga, CA 91730, U.S.A.
+
+Made in U.S.A. © 2008
