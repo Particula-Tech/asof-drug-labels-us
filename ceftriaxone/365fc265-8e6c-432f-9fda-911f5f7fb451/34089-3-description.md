@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Ceftriaxone for injection is a sterile, semisynthetic, broad-spectrum cephalosporin antibiotic for intravenous or intramuscular administration.
+Ceftriaxone for injection, USP is a sterile, semisynthetic, broad-spectrum cephalosporin antibiotic for intravenous or intramuscular administration.
 Ceftriaxone sodium is (6R, 7R)-7-[2-(2-Amino-4-thiazolyl) glyoxylamido]-8-oxo-3-[[(1,2,5,6-tetrahydro-2-methyl-5,6-dioxo-as-triazin-3-yl)thio]methyl]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid, 72-(Z)-(O-methyloxime), disodium salt, sesquaterhydrate.
 
 The chemical formula of ceftriaxone sodium is C18H16N8Na2O7S3•3.5H2O.

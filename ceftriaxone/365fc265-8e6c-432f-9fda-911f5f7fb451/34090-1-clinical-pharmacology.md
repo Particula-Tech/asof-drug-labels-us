@@ -164,7 +164,7 @@ Peptostreptococcus species
 NOTE: Most strains of Clostridium difficile are resistant.
 
 The following in vitro data are available, but their clinical significance is unknown.
-Ceftriaxone exhibits in vitro minimal inhibitory concentrations (MICs) of ≤8 mcg/mL or less against most strains of the following microorganisms, however, the safety and effectiveness of ceftriaxone in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
+Ceftriaxone exhibits in vitro minimal inhibitory concentrations (MICs) of ≤1 mcg/mL or less against most strains of the following microorganisms, however, the safety and effectiveness of ceftriaxone in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
 
 ### Aerobic Gram-negative Microorganisms
 
@@ -280,7 +280,7 @@ This category also provides a buffer zone which prevents small uncontrolled tech
 A report of “Resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
 
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Standardized ceftriaxone powder should provide the following MIC values:2
+Standardized ceftriaxone powder should provide the following MIC values:
 
 | Microorganism | ATCC® # | MIC (mcg/mL) |
 | --- | --- | --- |
