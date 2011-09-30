@@ -6,7 +6,7 @@ Supplied as White film-coated, capsule shaped, biconvex tablets de-bossed with I
 
 NDC 76282-225-60: Bottles of 60
 
-NDC 76282-225-01: Bottles of 100
+NDC 76282-225-18: Bottles of 180
 
 NDC 76282-225-05: Bottles of 500
 
