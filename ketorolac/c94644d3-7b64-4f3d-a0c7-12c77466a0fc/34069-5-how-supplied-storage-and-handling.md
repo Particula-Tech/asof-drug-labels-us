@@ -8,12 +8,12 @@ Store at 15°C - 25°C (59°F- 77°F) with protection from light.
 
 Rx Only
 
-Revised: 09/2009
+Revised: 05/2011
 
-© 2009 Allergan, Inc.
+© 2011 Allergan, Inc.
 
 Irvine, CA 92612, U.S.A.
 
-ACULAR® (a registered trademark of Roche Palo Alto L.L.C.) is manufactured and distributed by Allergan, Inc. under license from its developer, Roche Palo Alto L.L.C., Palo Alto, CA, U.S.A. ® marks owned by Allergan, Inc. U.S. Patent 5,110,493
+ACULAR® is manufactured and distributed by Allergan, Inc. under license from its developer, Roche Palo Alto LLC, Palo Alto, CA, U.S.A. ® marks owned by Allergan, Inc. Made in the U.S.A.
 
-71590US12A
+71590US13C
