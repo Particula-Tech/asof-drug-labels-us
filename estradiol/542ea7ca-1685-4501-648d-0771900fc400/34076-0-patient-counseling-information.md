@@ -1,144 +1,158 @@
-# Information for the Patient About
+# PATIENT INFORMATION
+
+(Updated June 23, 2004)
 
 DELESTROGEN®
 
 (estradiol valerate injection, USP)
 
-## INTRODUCTION
+Read this PATIENT INFORMATION before you start taking DELESTROGEN and read what you get each time you refill DELESTROGEN.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-This leaflet describes when and how to use estrogens, and the risks and benefits of estrogen treatment.
+## What is DELESTROGEN?
 
-Estrogens have important benefits but also some risks.
-You must decide, with your doctor, whether the risks to you of estrogen use are acceptable because of their benefits.
-If you use estrogens, check with your doctor to be sure you are using the lowest possible dose that works, and that you don’t use them longer than necessary.
-How long you need to use estrogens will depend on the reason for use.
+DELESTROGEN is a medicine that contains estrogen hormones.
 
-## USES OF ESTROGEN
+## What is DELESTROGEN used for?
 
-(Not every estrogen drug is approved for every use listed in this section.
-If you want to know which of these possible uses are approved for the medicine prescribed for you, ask your doctor or pharmacist to show you the professional labeling.
-You can also look up the specific estrogen product in a book called the “Physicians’ Desk Reference”, which is available in many book stores and public libraries.
-Generic drugs carry virtually the same labeling information as their brand name versions.)
+DELESTROGEN is used after menopause to:
 
-- To reduce moderate or severe menopausal symptoms.Estrogens are hormones made by the ovaries of normal women.
-  Between ages 45 and 55, the ovaries normally stop making estrogens.
-  This leads to a drop in body estrogen levels which causes the “change of life’’ or menopause (the end of monthly menstrual periods).
-  If both ovaries are removed during an operation before natural menopause takes place, the sudden drop in estrogen levels causes “surgical menopause”.
-  When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden intense episodes of heat and sweating (“hot flashes” or “hot flushes”).
-  Using estrogen drugs can help the body adjust to lower estrogen levels and reduce these symptoms.
-  Most women have only mild menopausal symptoms or none at all and do not need to use estrogen drugs for these symptoms.
-  Others may need to take estrogens for a few months while their bodies adjust to lower estrogen levels.
-  The majority of women do not need estrogen replacement for longer than six months for these symptoms.
-- To treat vulval and vaginal atrophy (itching, burning, dryness in or around the vagina, difficulty or burning on urination) associated with menopause.
-- To treat certain conditions in which a young woman’s ovaries do not produce enough estrogen naturally.
-- To treat certain types of abnormal vaginal bleeding due to hormonal imbalance when your doctor has found no serious cause of the bleeding.
-- To treat certain cancers in special situations, in men and women.
-- To prevent thinning of bones.Osteoporosis is a thinning of the bones that makes them weaker and allows them to break more easily.
-  The bones of the spine, wrists and hips break most often in osteoporosis.
-  Both men and women start to lose bone mass after about age 40, but women lose bone mass faster after the menopause.
-  Using estrogens after the menopause slows down bone thinning and may prevent bones from breaking.
-  Lifelong adequate calcium intake, either in the diet (such as dairy products) or by calcium supplements (to reach a total daily intake of 1000 milligrams per day before menopause or 1500 milligrams per day after menopause), may help to prevent osteoporosis.
-  Regular weight-bearing exercise (like walking and running for an hour, two or three times a week) may also help to prevent osteoporosis.
-  Before you change your calcium intake or exercise habits, it is important to discuss these lifestyle changes with your doctor to find out if they are safe for you.
-  Since estrogen use has some risks, only women who are likely to develop osteoporosis should use estrogens for prevention.
-  Women who are likely to develop osteoporosis often have the following characteristics: white or Asian race, slim, cigarette smokers, and a family history of osteoporosis in a mother, sister, or aunt.
-  Women who have relatively early menopause, often because their ovaries were removed during an operation (“surgical menopause”), are more likely to develop osteoporosis than women whose menopause happens at the average age.
+- reduce moderate to severe hot flashes.
+  Estrogens are hormones made by a woman’s ovaries.
+  The ovaries normally stop making estrogens when a woman is between 45 to 55 years old.
+  This drop in body estrogen levels causes the “change of life” or menopause (the end of monthly menstrual periods).
+  Sometimes, both ovaries are removed during an operation before natural menopause takes place.
+  The sudden drop in estrogen levels causes “surgical menopause.”
+- When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feeling of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating (“hot flashes” or “hot flushes”).
+  In some women, the symptoms are mild, and they will not need estrogens.
+  In other women, symptoms can be more severe.
+  You and your healthcare provider should talk regularly about whether you still need treatment with DELESTROGEN.
 
-## WHO SHOULD NOT USE ESTROGENS
+- treat moderate to severe dryness, itching, and burning in and around the vagina.
+  You and your healthcare provider should talk regularly about whether you still need treatment with DELESTROGEN to control these problems.
+  If you use DELESTROGEN only to treat your dryness, itching, and burning in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.
 
-Estrogens should not be used:
+## Who should not take DELESTROGEN?
 
-- During pregnancy (see Boxed WARNINGS).If you think you may be pregnant, do not use any form of estrogen-containing drug.
-  Using estrogens while you are pregnant may cause your unborn child to have birth defects.
-  Estrogens do not prevent miscarriage.
-- If you have unusual vaginal bleeding which has not been evaluated by your doctor (see Boxed WARNINGS).Unusual vaginal bleeding can be a warning sign of cancer of the uterus, especially if it happens after menopause.
-  Your doctor must find out the cause of the bleeding so that he or she can recommend the proper treatment.
-  Taking estrogens without visiting your doctor can cause you serious harm if your vaginal bleeding is caused by cancer of the uterus.
-- If you have had cancer.
-  Since estrogens increase the risk of certain types of cancer, you should not use estrogens if you have ever had cancer of the breast or uterus, unless your doctor recommends that the drug may help in the cancer treatment.
-  (For certain patients with breast or prostate cancer, estrogens may help.)
-- If you have any circulation problems.Estrogen drugs should not be used except in unusually special situations in which your doctor judges that you need estrogen therapy so much that the risks are acceptable.
-  Men and women with abnormal blood clotting conditions should avoid estrogen use (see DANGERS OF ESTROGENS).
-- When they do not work.During menopause, some women develop nervous symptoms or depression.
-  Estrogens do not relieve these symptoms.
-  You may have heard that taking estrogens for years after menopause will keep your skin soft and supple and keep you feeling young.
-  There is no evidence for these claims and such long-term estrogen use may have serious risks.
-- After childbirth or when breastfeeding a baby.
-  Estrogens should not be used to try to stop the breasts from filling with milk after a baby is born.
-  Such treatment may increase the risk of developing blood clots (see DANGERS OF ESTROGENS).
-  If you are breastfeeding, you should avoid using any drugs because many drugs pass through to the baby in the milk.
-  While nursing a baby, you should take drugs only on the advice of your health care provider.
+Do not start taking DELESTROGEN if you:
 
-## DANGERS OF ESTROGENS
+- have unusual vaginal bleeding.
+- currently have or have had certain cancers.
+  Estrogens may increase the chances of getting certain types of cancers, including cancer of the breast or uterus.
+  If you have or had cancer, talk with your healthcare provider about whether you should take DELESTROGEN.
+- had a stroke or heart attack in the past year.
+- currently have or have had blood clots.
+- currently have or have had liver problems.
+- are allergic to DELESTROGEN or any of its ingredients.
+  See the end of this leaflet for a list of ingredients in DELESTROGEN.
+- think you may be pregnant.
 
-- Cancer of the uterus.
-  Your risk of developing cancer of the uterus gets higher the longer you use estrogens and the larger doses you use.
-  One study showed that after women stop taking estrogens, this higher cancer risk quickly returns to the usual level of risk (as if you had never used estrogen therapy).
-  Three other studies showed that the cancer risk stayed high for 8 to more than 15 years after stopping estrogen treatment.
-  Because of this risk, IT IS IMPORTANT TO TAKE THE LOWEST DOSE THAT WORKS AND TO TAKE IT ONLY AS LONG AS YOU NEED IT.Using progestin therapy together with estrogen therapy may reduce the higher risk of uterine cancer related to estrogen use (but see OTHER INFORMATION).
-  If you have had your uterus removed (total hysterectomy), there is no danger of developing cancer of the uterus.
-- Cancer of the breast.Studies examining the risk of breast cancer among women using estrogen alone and combined estrogen/progestin therapy have suggested that there may be a mildly increased risk of breast cancer in women taking the combined therapy.
-  If you do not have your uterus, there is no need for combined estrogen/progestin therapy since estrogen alone therapy is sufficient and may pose less risk for breast cancer.
-  If you do have your uterus, you should discuss the benefits and risks of combined estrogen/progestin therapy with your health care provider.
-  Regular breast exams by a health professional and monthly self-exams are recommended for all women.
-  Mammography may also be recommended depending on your age and risk factors.
-- Gallbladder disease.Women who use estrogens after menopause are more likely to develop gallbladder disease needing surgery than women who do not use estrogens.
-- Abnormal blood clotting.Taking estrogens may cause changes in your blood clotting system.
-  These changes allow the blood to clot more easily, possibly allowing clots to form in your bloodstream.
-  If blood clots do form in your bloodstream, they can cut off the blood supply to vital organs, causing serious problems.
-  These problems may include a stroke (by cutting off blood to the brain), a heart attack (by cutting off blood to the heart), a pulmonary embolus (by cutting off blood to the lungs), or other problems.
-  Any of these conditions may cause death or serious long term disability.
-  However, most studies of low dose estrogen usage by women do not show an increased risk of these complications.
+Tell your healthcare provider:
 
-## SIDE EFFECTS
+- if you are breastfeeding.
+  The hormone in DELESTROGEN can pass into your milk.
+- about all of your medical problems.
+  Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), migraine, endometriosis, lupus, problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
+- about all the medicines you take.
+  This includes prescription and nonprescription medicines, vitamins, and herbal supplements.
+  Some medicines may affect how DELESTROGEN works.
+  DELESTROGEN may also affect how your other medicines work.
+- if you are going to have surgery or will be on bed rest.
+  You may need to stop taking estrogens.
 
-In addition to the risks listed above, the following side effects have been reported with estrogen use.
+## How should I take DELESTROGEN?
 
-Nausea and vomiting.
+DELESTROGEN should be injected deeply into the upper, outer quadrant of the gluteal muscle following the usual precautions for intramuscular administration.
+By virtue of the low viscosity of the vehicles, the various preparations of DELESTROGEN (estradiol valerate injection, USP) may be administered with a small gauge needle.
+Since the 40 mg potency provides a high concentration in a small volume, particular care should be observed to administer the full dose.
 
-Breast tenderness or enlargement.
+DELESTROGEN should be visually inspected for particulate matter and color prior to administration; the solution is clear, colorless to pale yellow.
+Storage at low temperatures may result in the separation of some crystalline material which redissolves readily on warming.
 
-Enlargement of benign tumors (“fibroids”) of the uterus.
+Note: A dry needle and syringe should be used.
+Use of a wet needle or syringe may cause the solution to become cloudy; however, this does not affect the potency of the material.
 
-Retention of excess fluid.
-This may make some conditions worsen, such as asthma, epilepsy, migraine, heart disease, or kidney disease.
+1. Start at the lowest dose and talk to your healthcare provider about how well that dose is working for you.
+2. Estrogens should be used at the lowest dose possible for your treatment only as long as needed.
+   The lowest effective dose of DELESTROGEN has not been determined.
+   You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are taking and whether you still need treatment with DELESTROGEN.
 
-A spotty darkening of the skin, particularly on the face.
+## What are the possible side effects of estrogens?
 
-## REDUCING RISK OF ESTROGEN USE
+- Less common but serious side effects include:
+- Breast cancer
+- Cancer of the uterus
+- Stroke
+- Heart attack
+- Blood clots
+- Dementia
+- Gallbladder disease
+- Ovarian cancer
 
-If you use estrogens, you can reduce your risks by doing these things:
+These are some of the warning signs of serious side effects:
 
-- See your doctor regularly.
-  While you are using estrogens, it is important to visit your doctor at least once a year for a check-up.
-  If you develop vaginal bleeding while taking estrogens, you may need further evaluation.
-  If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram (breast x-ray), you may need to have more frequent breast examinations.
-- Reassess your need for estrogens.You and your doctor should reevaluate whether or not you still need estrogens at least every six months.
-- Be alert for signs of trouble.If any of these warning signals (or any other unusual symptoms) happen while you are using estrogens, call your doctor immediately: Abnormal bleeding from the vagina (possible uterine cancer) Pains in the calves or chest, sudden shortness of breath, or coughing blood (possible clot in the legs, heart, or lungs) Severe headache or vomiting, dizziness, faintness, changes in vision or speech, weakness or numbness of an arm or leg (possible clot in the brain or eye) Breast lumps (possible breast cancer; ask your doctor or health professional to show you how toexamine your breasts monthly) Yellowing of the skin or eyes (possible liver problem) Pain, swelling, or tenderness in the abdomen (possible gallbladder problem)
+- Breast lumps
+- Unusual vaginal bleeding
+- Dizziness and faintness
+- Changes in speech
+- Severe headaches
+- Chest pain
+- Shortness of breath
+- Pains in your legs
+- Changes in vision
+- Vomiting
 
-## OTHER INFORMATION
+Call your healthcare provider right away if you get any of these warning signs, or any other unusual symptom that concerns you.
 
-1. Estrogens increase the risk of developing a condition (endometrial hyperplasia) that may lead to cancer of the lining of the uterus.
-   Taking progestins, another hormone drug, with estrogens lowers the risk of developing this condition.
-   Therefore, if your uterus has not been removed, your doctor may prescribe a progestin for you to take together with the estrogen.
-   You should know, however, that taking estrogens with progestins may have additional risks.
-   These include: (a) unhealthy effects on blood fats (especially the lowering of HDL blood cholesterol, the “good” blood fat which protects against heart disease); (b) unhealthy effects on blood sugar (which might make a diabetic condition worse); and (c) a possible further increase in breast cancer risk which may be associated with long-term estrogen use.
-   Some research has shown that estrogens taken without progestins may protect women against developing heart disease.
-   However, this is not certain.
-   The protection shown may have been caused by the characteristics of the estrogentreated women, and not by the estrogen treatment itself.
-   In general, treated women were slimmer, more physically active, and were less likely to have diabetes than the untreated women.
-   These characteristics are known to be associated with a reduced risk for heart disease.
-   You are cautioned to discuss very carefully with your doctor or health care provider all the possible risks and benefits of long-term estrogen and progestin treatment as they affect you personally.
-2. Your doctor has prescribed this drug for you and you alone.
-   Do not give the drug to anyone else.
-3. If you will be taking calcium supplements as part of the treatment to help prevent osteoporosis, check with your doctor about how much to take.
-4. Keep this and all drugs out of the reach of children.
-   In case of overdose, call your doctor, hospital or poison control center immediately.
-5. This leaflet provides a summary of the most important information about estrogens.
-   If you want more information, ask your doctor or pharmacist to show you the professional labeling.
-   The professional labeling is also published in a book called the “Physicians’ Desk Reference,” which is available in book stores and public libraries.
-   Generic drugs carry virtually the same labeling information as their brand name versions.
+Common side effects include:
 
-Distributed by: Monarch Pharmaceuticals, Inc., Bristol, TN 37620
+- Headache
+- Breast pain
+- Irregular vaginal bleeding or spotting
+- Stomach/abdominal cramps, bloating
+- Nausea and vomiting
+- Hair loss
 
-Manufactured by: Bristol-Myers Squibb Company, Princeton, NJ 08543 USA
+Other side effects include:
+
+- High blood pressure
+- Liver problems
+- High blood sugar
+- Fluid retention
+- Enlargement of benign tumors of the uterus (“fibroids”)
+- Vaginal yeast infection
+
+These are not all the possible side effects of DELESTROGEN.
+For more information, ask your healthcare provider or pharmacist.
+
+## What can I do to lower my chances of a serious side effect with DELESTROGEN?
+
+Talk with your healthcare provider regularly about whether you should continue taking DELESTROGEN.
+If you have a uterus, talk to your healthcare provider about whether the addition of a progestin is right for you.
+See your healthcare provider right away if you get vaginal bleeding while taking DELESTROGEN.
+Have a breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
+If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
+If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
+Ask your healthcare provider for ways to lower your chances for getting heart disease.
+
+## General information about safe and effective use of DELESTROGEN
+
+Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
+Do not take DELESTROGEN for conditions for which it was not prescribed.
+Do not give DELESTROGEN to other people, even if they have the same symptoms you have.
+It may harm them.
+
+## Keep DELESTROGEN out of the reach of children.
+
+This leaflet provides a summary of the most important information about DELESTROGEN.
+If you would like more information, talk with your healthcare provider or pharmacist.
+You can ask for information about DELESTROGEN that is written for health professionals.
+You can get more information by calling the toll free number 1-800-776-3637, select option 5.
+
+## What are the ingredients in DELESTROGEN?
+
+DELESTROGEN is supplied in three 5 mL multiple dose vials; 10 mg/mL, 20 mg/mL, and 40 mg/mL strengths.
+The 10 mg/mL strength contains 10 mg estradiol valerate in a solution of chlorobutanol and sesame oil.
+The 20 mg/mL strength contains 20 mg estradiol valerate in a solution of benzyl benzoate, benzyl alcohol, and castor oil.
+The 40 mg/mL strength contains 40 mg estradiol valerate in a solution of benzyl benzoate, benzyl alcohol, and castor oil.

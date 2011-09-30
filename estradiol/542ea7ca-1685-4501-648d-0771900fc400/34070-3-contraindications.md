@@ -1,10 +1,15 @@
 # Contraindications
 
-Estrogens should not be used in individuals with any of the following conditions:
+DELESTROGEN should not be used in women with any of the following conditions:
 
-1. Known or suspected pregnancy (see Boxed WARNINGS).
-   Estrogens may cause fetal harm when administered to a pregnant woman.
-2. Undiagnosed abnormal genital bleeding.
-3. Known or suspected cancer of the breast except in appropriately selected patients being treated for metastatic disease.
-4. Known or suspected estrogen-dependent neoplasia.
-5. Active thrombophlebitis or thromboembolic disorders.
+1. Undiagnosed abnormal genital bleeding.
+2. Known, suspected, or history of cancer of the breast.
+3. Known or suspected estrogen-dependent neoplasia.
+4. Active deep vein thrombosis, pulmonary embolism or a history of these conditions.
+5. Active or recent (e.g., within the past year) arterial thromboembolic disease (e.g., stroke, myocardial infarction).
+6. Liver dysfunction or disease.
+7. DELESTROGEN should not be used in patients with known hypersensitivity to its ingredients.
+8. Known or suspected pregnancy.
+   There is no indication for DELESTROGEN in pregnancy.
+   There appears to be little or no increased risk of birth defects in children born to women who have used estrogens and progestins from oral contraceptives inadvertently during early pregnancy.
+   (See PRECAUTIONS.)
