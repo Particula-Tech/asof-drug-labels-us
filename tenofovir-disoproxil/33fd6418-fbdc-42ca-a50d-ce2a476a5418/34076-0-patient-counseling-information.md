@@ -1,4 +1,6 @@
-# 17 PATIENT COUNSELING INFORMATION AND FDA-APPROVED PATIENT LABELING
+# 17 PATIENT COUNSELING INFORMATION
+
+See FDA-approved patient labeling (Patient Information)
 
 Information for Patients
 
@@ -22,7 +24,7 @@ Patients should be advised that:
 - Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported.
   VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent [See Warnings and Precautions (5.3)].
   Dosing interval of VIREAD may need adjustment in patients with renal impairment [See Dosage and Administration (2.3)].
-- VIREAD should not be coadministered with the fixed-dose combination products TRUVADA and ATRIPLA since it is a component of these products [See Warnings and Precautions (5.4)].
+- VIREAD should not be coadministered with the fixed-dose combination products ATRIPLA, COMPLERA, and TRUVADA since it is a component of these products [See Warnings and Precautions (5.4)].
 - VIREAD should not be administered in combination with HEPSERA [See Warnings and Precautions (5.4)].
 - Decreases in bone mineral density have been observed with the use of VIREAD in patients with HIV.
   Bone mineral density monitoring should be considered in patients who have a history of pathologic bone fracture or at risk for osteopenia [See Warnings and Precautions (5.6)].

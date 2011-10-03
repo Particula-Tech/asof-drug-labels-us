@@ -90,7 +90,7 @@ VIREAD may affect the way other medicines work, and other medicines may affect h
 
 Do not take VIREAD if you also take:
 
-- other medicines that contain tenofovir (TRUVADA, ATRIPLA)
+- other medicines that contain tenofovir (ATRIPLA, COMPLERA, TRUVADA)
 - adefovir (HEPSERA)
 
 Especially tell your healthcare provider if you take the following medications, as the dose of these other medications may need to be changed:

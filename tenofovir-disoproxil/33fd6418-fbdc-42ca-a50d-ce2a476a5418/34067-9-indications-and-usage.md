@@ -6,7 +6,7 @@ VIREAD® is indicated in combination with other antiretroviral agents for the tr
 
 The following points should be considered when initiating therapy with VIREAD for the treatment of HIV-1 infection:
 
-- VIREAD should not be used in combination with TRUVADA® or ATRIPLA® [See Warnings and Precautions (5.4)].
+- VIREAD should not be used in combination with ATRIPLA®, COMPLERA™, or TRUVADA® [See Warnings and Precautions (5.4)].
 
 ## 1.2 Chronic Hepatitis B
 
