@@ -20,11 +20,11 @@ The maximum early effect on exercise tolerance occurs with doses of 50 to 100 mg
 
 ## Acute Myocardial Infarction
 
-In patients with definite or suspected acute myocardial infarction, treatment with atenolol injection should be initiated as soon as possible after the patient's arrival in the hospital and after eligibility is established.
+In patients with definite or suspected acute myocardial infarction, treatment with atenolol I.V. injection should be initiated as soon as possible after the patient's arrival in the hospital and after eligibility is established.
 Such treatment should be initiated in a coronary care or similar unit immediately after the patient's hemodynamic condition has stabilized.
 Treatment should begin with the intravenous administration of 5 mg atenolol over 5 minutes followed by another 5 mg intravenous injection 10 minutes later.
-Atenolol injection should be administered under carefully controlled conditions including monitoring of blood pressure, heart rate, and electrocardiogram.
-Dilutions of atenolol injection in Dextrose Injection USP, Sodium Chloride Injection USP, or Sodium Chloride and Dextrose Injection may be used.
+Atenolol I.V. injection should be administered under carefully controlled conditions including monitoring of blood pressure, heart rate, and electrocardiogram.
+Dilutions of atenolol I.V. injection in Dextrose Injection USP, Sodium Chloride Injection USP, or Sodium Chloride and Dextrose Injection may be used.
 These admixtures are stable for 48 hours if they are not used immediately.
 
 In patients who tolerate the full intravenous dose (10 mg), atenolol tablets USP, 50 mg should be initiated 10 minutes after the last intravenous dose followed by another 50 mg oral dose 12 hours later.

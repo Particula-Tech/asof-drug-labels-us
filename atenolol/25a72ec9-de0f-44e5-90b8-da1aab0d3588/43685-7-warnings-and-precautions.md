@@ -24,13 +24,9 @@ Because of its relative beta1 selectivity, however, atenolol may be used with ca
 Since beta1 selectivity is not absolute, the lowest possible dose of atenolol should be used with therapy initiated at 50 mg and a beta2-stimulating agent (bronchodilator) should be made available.
 If dosage must be increased, dividing the dose should be considered in order to achieve lower peak blood levels.
 
-## Anesthesia and Major Surgery
+## Major Surgery
 
-It is not advisable to withdraw beta-adrenoreceptor blocking drugs prior to surgery in the majority of patients.
-However, care should be taken when using anesthetic agents such as those which may depress the myocardium.
-Vagal dominance, if it occurs, may be corrected with atropine (1 to 2 mg IV).
-
-Atenolol, like other beta blockers, is a competitive inhibitor of beta-receptor agonists and its effects on the heart can be reversed by administration of such agents: e.g., dobutamine or isoproterenol with caution (see OVERDOSAGE).
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 ## Diabetes and Hypoglycemia
 
