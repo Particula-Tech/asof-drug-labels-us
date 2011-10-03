@@ -6,4 +6,5 @@ Progesterone Injection USP, 50 mg/mL is available in 10 mL multiple dose vials, 
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-Issued: 10/2010
+Rev.
+05/2011

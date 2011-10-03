@@ -81,10 +81,10 @@ Other information
    Do not use it for another condition.
 3. Keep this and all drugs out of the reach of children.
 
-How to use progesterone injection Progesterone injection will be administered to you by a health-care provider or your caregiver.
+How to use progesterone injection Progesterone injection will be administered to you by a healthcare provider or your caregiver.
 Your doctor will provide instructions regarding the dose and manner in which the medication should be injected.
 Follow your doctor’s instructions closely.
-If you have any questions about product administration, ask your doctor or health-care provider.
+If you have any questions about product administration, ask your doctor or healthcare provider.
 
 How Supplied Progesterone Injection, USP 50 mg/mL is available in 10 mL multiple dose vials.
 Vials are individually boxed.
