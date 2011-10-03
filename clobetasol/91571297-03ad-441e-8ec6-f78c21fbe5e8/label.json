@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075633"
+  ],
   "inn": "clobetasol",
   "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "51672-1297-2",
     "51672-1297-3"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "clobetasol propionate",
+      "name": "Clobetasol Propionate"
+    }
+  ],
   "setid": "91571297-03ad-441e-8ec6-f78c21fbe5e8",
   "source": "dailymed"
 }
