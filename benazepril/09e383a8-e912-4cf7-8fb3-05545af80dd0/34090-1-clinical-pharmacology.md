@@ -1,8 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
-
-Benazepril and benazeprilat inhibit angiotensin-converting enzyme (ACE) in human subjects and animals.
+Mechanism of Action Benazepril and benazeprilat inhibit angiotensin-converting enzyme (ACE) in human subjects and animals.
 ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II.
 Angiotensin II also stimulates aldosterone secretion by the adrenal cortex.
 Inhibition of ACE results in decreased plasma angiotensin II, which leads to decreased vasopressor activity and to decreased aldosterone secretion.
@@ -17,7 +15,7 @@ While the mechanism through which benazepril lowers blood pressure is believed t
 
 ## Pharmacokinetics and Metabolism
 
-Following oral administration of benazepril, peak plasma concentrations of benazepril are reached within 0.5 to 1.0 hours.
+Following oral administration of benazepril, peak plasma concentrations of benazepril are reached within 0.5 to 1 hours.
 The extent of absorption is at least 37% as determined by urinary recovery and is not significantly influenced by the presence of food in the GI tract.
 Cleavage of the ester group (primarily in the liver) converts benazepril to its active metabolite, benazeprilat.
 Peak plasma concentrations of benazeprilat are reached 1 to 2 hours after drug intake in the fasting state and 2 to 4 hours after drug intake in the nonfasting state.
@@ -49,9 +47,7 @@ Pressor responses to exogenous angiotensin I were inhibited by 60% to 90% (up to
 
 ## Hypertension
 
-### Adult
-
-Administration of benazepril to patients with mild-to-moderate hypertension results in a reduction of both supine and standing blood pressure to about the same extent with no compensatory tachycardia.
+Adult Administration of benazepril to patients with mild-to-moderate hypertension results in a reduction of both supine and standing blood pressure to about the same extent with no compensatory tachycardia.
 Symptomatic postural hypotension is infrequent, although it can occur in patients who are salt- and/or volume-depleted (see WARNINGS ).
 In single-dose studies, benazepril lowered blood pressure within 1 hour, with peak reductions achieved 2 to 4 hours after dosing.
 The antihypertensive effect of a single dose persisted for 24 hours.
@@ -69,10 +65,7 @@ In hemodynamic studies in dogs, blood pressure reduction was accompanied by a re
 In normal human volunteers, single doses of benazepril caused an increase in renal blood flow but had no effect on glomerular filtration rate.
 Use of benazepril in combination with thiazide diuretics gives a blood-pressure-lowering effect greater than that seen with either agent alone.
 By blocking the renin-angiotensin-aldosterone axis, administration of benazepril tends to reduce the potassium loss associated with the diuretic.
-
-### Pediatric
-
-In a clinical study of 107 pediatric patients, 7 to 16 years of age, with either systolic or diastolic pressure above the 95 th percentile, patients were given 0.1 or 0.2 mg/kg then titrated up to 0.3 or 0.6 mg/kg with a maximum dose of 40 mg once daily.
+Pediatric In a clinical study of 107 pediatric patients, 7 to 16 years of age, with either systolic or diastolic pressure above the 95 th percentile, patients were given 0.1 or 0.2 mg/kg then titrated up to 0.3 or 0.6 mg/kg with a maximum dose of 40 mg once daily.
 After four weeks of treatment, the 85 patients whose blood pressure was reduced on therapy were then randomized to either placebo or benazepril and were followed up for an additional two weeks.
 At the end of two weeks, blood pressure (both systolic and diastolic) in children withdrawn to placebo rose by 4 to 6 mmHg more than in children on benazepril.
 No dose-response was observed for the three doses.
