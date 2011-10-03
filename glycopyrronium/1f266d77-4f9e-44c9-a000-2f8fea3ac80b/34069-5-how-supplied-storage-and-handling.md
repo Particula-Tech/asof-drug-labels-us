@@ -22,10 +22,6 @@ Par Pharmaceutical Companies, Inc.
 
 Spring Valley, NY 10977
 
-Issued: 09/05
+Rev: 07/2010
 
-OS065-01-36-01
-
-## Container Label 1 mg 100s
-
-## Container Label 2 mg 100s
+OS065-01-1-02

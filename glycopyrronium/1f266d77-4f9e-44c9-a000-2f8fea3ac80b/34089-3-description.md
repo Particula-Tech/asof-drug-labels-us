@@ -6,12 +6,8 @@ Glycopyrrolate is a quaternary ammonium compound with the following chemical nam
 3-[(cyclopentylhydroxyphenylacetyl)oxy]-1,1-dimethylpyrrolidinium bromide.
 Its empirical formula is C19H28BrNO3, its molecular weight is 398.33, and its structural formula is:
 
-Each 1 mg tablet contains:
+Each 1 mg tablet contains: Glycopyrrolate, USP 1mg
 
-Glycopyrrolate, USP 1 mg
-
-Each 2 mg tablet contains:
-
-Glycopyrrolate, USP 2 mg
+Each 2 mg tablet contains: Glycopyrrolate, USP 2mg
 
 Inactive Ingredients: Dibasic Calcium Phosphate, Lactose, Magnesium Stearate, Povidone, Sodium Starch Glycolate
