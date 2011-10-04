@@ -1,4 +1,4 @@
-# Patient Instructions For Use
+# PATIENT INSTRUCTIONS FOR USE
 
 NitroMist® [nī-trō-mĭst] (nitroglycerin) lingual aerosol
 
@@ -52,6 +52,6 @@ Marketed and Distributed by: Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 USA
 
 NitroMist is a registered trademark of NovaDel Pharma Inc., used by permission.
 
-NDC 24090-410-08
+NDC 24090-410-08 NDC 24090-410-04
 
-141P003 Revised 03/2011
+141P004 Revised 05/2011
