@@ -57,11 +57,11 @@ Given these confounders, the relationship between atypical antipsychotic use and
 However, epidemiological studies suggest an increased risk of treatment-emergent hyperglycemia-related adverse events in patients treated with the atypical antipsychotics.
 Precise risk estimates for hyperglycemia-related adverse events in patients treated with atypical antipsychotics are not available.
 
-Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics should be monitored regularly for worsening of glucose control.
-Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
-Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
-Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
-In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
+Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics, including risperidone, should be monitored regularly for worsening of glucose control.
+Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics, including risperidone, should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
+Any patient treated with atypical antipsychotics, including risperidone, should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
+Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics, including risperidone, should undergo fasting blood glucose testing.
+In some cases, hyperglycemia has resolved when the atypical antipsychotic, including risperidone, was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
 
 ## 5.6 Hyperprolactinemia
 
@@ -124,7 +124,7 @@ Severe priapism may require surgical intervention.
 
 ## 5.13 Thrombotic Thrombocytopenic Purpura (TTP)
 
-A single case of TTP was reported in a 28 year old female patient receiving risperidone in a large, open premarketing experience (approximately 1300 patients).
+A single case of TTP was reported in a 28 year old female patient receiving oral risperidone in a large, open premarketing experience (approximately 1300 patients).
 She experienced jaundice, fever, and bruising, but eventually recovered after receiving plasmapheresis.
 The relationship to risperidone therapy is unknown.
 
