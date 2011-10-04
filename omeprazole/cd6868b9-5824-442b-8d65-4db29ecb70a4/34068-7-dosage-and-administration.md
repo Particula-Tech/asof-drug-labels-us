@@ -52,3 +52,8 @@ DO NOT USE OTHER LIQUIDS OR FOODS.
 Stir well and administer immediately.
 An appropriately-sized syringe should be used to instill the suspension in the tube.
 The suspension should be washed through the tube with 20 mL of water.
+
+Use with clopidogrel
+
+Avoid concomitant use of clopidogrel and omeprazole.
+Coadministration of clopidogrel with 80 mg omeprazole, a proton pump inhibitor that is an inhibitor of CYP2C19, reduces the pharmacological activity of clopidogrel if given concomitantly or if given 12 hours apart [see Warnings and Precautions (5.6) and Drug Interactions (7)].

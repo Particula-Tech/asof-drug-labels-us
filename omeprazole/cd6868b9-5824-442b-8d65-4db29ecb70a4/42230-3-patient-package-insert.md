@@ -77,6 +77,7 @@ Be sure to tell your doctor if you are taking:
 - tacrolimus (Prograf)®
 - saquinavir (Fortovase)®
 - clarithromycin
+- clopidogrel (Plavix)
 
 How should I take ZEGERID?
 
@@ -203,7 +204,7 @@ Active Ingredients: omeprazole / sodium bicarbonate
 
 For prescription only
 
-Revised May 2011
+Revised September 2011
 
 ZEGERID® is a registered trademark of Santarus, Inc.
 

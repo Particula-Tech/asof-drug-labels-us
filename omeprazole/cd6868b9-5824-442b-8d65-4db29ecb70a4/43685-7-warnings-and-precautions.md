@@ -38,3 +38,11 @@ In most patients, treatment of hypomagnesemia required magnesium replacement and
 
 For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
 [See Adverse Reactions (6.2)]
+
+## 5.6 Diminished Anti-platelet Activity of clopidogrel due to Impaired CYP2C19 Function by Omeprazole
+
+Clopidogrel is a prodrug.
+Inhibition of platelet aggregation by clopidogrel is entirely due to an active metabolite.
+The metabolism of clopidogrel to its active metabolite can be impaired by use with concomitant medications, such as omeprazole, that interfere with CYP2C19 activity.
+Avoid concomitant use of clopidogrel and omeprazole.
+Co-administration of clopidogrel with 80 mg omeprazole, a proton pump inhibitor that is an inhibitor of CYP2C19, reduces the pharmacological activity of clopidogrel if given concomitantly or if given 12 hours apart [see Drug Interactions (7)].

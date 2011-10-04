@@ -112,7 +112,7 @@ Body as a Whole: Hypersensitivity reactions, including anaphylaxis, anaphylactic
 
 Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitation, elevated blood pressure, and peripheral edema.
 
-Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, flatulence, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, dry mouth, stomatitis.
+Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, flatulence, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, dry mouth, stomatitis and abdominal swelling.
 During treatment with omeprazole, gastric fundic gland polyps have been noted rarely.
 These polyps are benign and appear to be reversible when treatment is discontinued.
 Gastroduodenal carcinoids have been reported in patients with Zollinger-Ellison syndrome on long-term treatment with omeprazole.
