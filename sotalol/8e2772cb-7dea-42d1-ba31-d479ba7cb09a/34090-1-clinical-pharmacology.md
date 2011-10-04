@@ -25,12 +25,12 @@ No significant alteration in QRS interval is observed.
 
 In a small study (n = 25) of patients with implanted defibrillators treated concurrently with sotalol, the average defibrillatory threshold was 6 joules (range 2 to 15 joules) compared to a mean of 16 joules for a nonrandomized comparative group primarily receiving amiodarone.
 
-Twenty-five children in an unblinded, multicenter trial with supraventricular (SVT) and/or ventricular (VT) tachyarrhythmias, aged between 3 days and 12 years (mostly neonates and infants), received an ascending titration regimen with daily doses of 30, 90 and 210 mg/m2 with dosing every 8 hours for a total of 9 doses.
+Twenty-five children in an unblinded, multicenter trial with supraventricular (SVT) and/or ventricular (VT) tachyarrhythmias, aged between 3 days and 12 years (mostly neonates and infants), received an ascending titration regimen with daily doses of 30, 90 and 210 mg/m2 with dosing every 8 hours for a total 9 doses.
 During steady-state, the respective average increases above baseline of the QTc interval, in msec (%), were 2(+1%), 14(+4%) and 29(+7%) msec at the 3 dose levels.
 The respective mean maximum increases above baseline of the QTc interval, in msec (%), were 23(+6%), 36(+9%) and 55(+14%) msec at the 3 dose levels.
 The steady-state percent increases in the RR interval were 3, 9 and 12%.
-The smallest children (BSA < 0.33 m2) showed a tendency for larger Class III effects (Δ QTc) and an increased frequency of prolongations of the QTc interval as compared with larger children (BSA ≥ 0.33 m2).
-The beta-blocking effects also tended to be greater in the smaller children (BSA < 0.33 m2).
+The smallest children (BSA < 0.33m2) showed a tendency for larger Class III effects (ΔQTc) and an increased frequency of prolongations of the QTc interval as compared with larger children (BSA ≥ 0.33m2).
+The beta-blocking effects also tended to be greater in the smaller children (BSA < 0.33m2).
 Both the Class III and beta-blocking effects of sotalol were linearly related with the plasma concentrations.
 
 ## Hemodynamics

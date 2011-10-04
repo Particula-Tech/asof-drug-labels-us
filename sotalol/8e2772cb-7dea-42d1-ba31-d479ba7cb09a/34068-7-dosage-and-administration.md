@@ -1,18 +1,18 @@
 # DOSAGE AND ADMINISTRATION
 
-As with other antiarrhythmic agents, sotalol should be initiated and doses increased in a hospital with facilities for cardiac rhythm monitoring and assessment (see INDICATIONS AND USAGE).
-Sotalol should be administered only after appropriate clinical assessment (see INDICATIONS AND USAGE), and the dosage of sotalol must be individualized for each patient on the basis of therapeutic response and tolerance.
+As with other antiarrhythmic agents, sotalol hydrochloride tablets USP should be initiated and doses increased in a hospital with facilities for cardiac rhythm monitoring and assessment (see INDICATIONS AND USAGE).
+Sotalol hydrochloride tablets USP should be administered only after appropriate clinical assessment (see INDICATIONS AND USAGE), and the dosage of sotalol hydrochloride tablets USP must be individualized for each patient on the basis of therapeutic response and tolerance.
 Proarrhythmic events can occur not only at initiation of therapy, but also with each upward dosage adjustment.
 
 ## Adults
 
-Dosage of sotalol should be adjusted gradually, allowing 3 days between dosing increments in order to attain steady-state plasma concentrations, and to allow monitoring of QT intervals.
+Dosage of sotalol hydrochloride tablets USP should be adjusted gradually, allowing 3 days between dosing increments in order to attain steady-state plasma concentrations, and to allow monitoring of QT intervals.
 Graded dose adjustment will help prevent the usage of doses which are higher than necessary to control the arrhythmia.
 The recommended initial dose is 80 mg twice daily.
 This dose may be increased, if necessary, after appropriate evaluation to 240 or 320 mg/day (120 to 160 mg twice daily).
 In most patients, a therapeutic response is obtained at a total daily dose of 160 to 320 mg/day, given in two or three divided doses.
 Some patients with life-threatening refractory ventricular arrhythmias may require doses as high as 480 to 640 mg/day; however, these doses should only be prescribed when the potential benefit outweighs the increased risk of adverse events, in particular proarrhythmia.
-Because of the long terminal elimination half-life of sotalol, dosing on more than a BID regimen is usually not necessary.
+Because of the long terminal elimination half-life of sotalol hydrochloride tablets USP, dosing on more than a BID regimen is usually not necessary.
 
 ## Children
 
@@ -70,11 +70,11 @@ Sotalol elimination is predominantly via the kidney in the unchanged form.
 Use of sotalol in any age group with decreased renal function should be at lower doses or at increased intervals between doses.
 Monitoring of heart rate and QTc is more important and it will take much longer to reach steady-state with any dose and/or frequency of administration.
 
-## Transfer to Sotalol
+## Transfer to Sotalol Hydrochloride Tablets USP
 
-Before starting sotalol, previous antiarrhythmic therapy should generally be withdrawn under careful monitoring for a minimum of 2 to 3 plasma half-lives if the patient’s clinical condition permits (see Drug Interactions).
+Before starting sotalol hydrochloride tablets USP, previous antiarrhythmic therapy should generally be withdrawn under careful monitoring for a minimum of 2 to 3 plasma half-lives if the patient’s clinical condition permits (see Drug Interactions).
 Treatment has been initiated in some patients receiving I.V. lidocaine without ill effect.
-After discontinuation of amiodarone, sotalol should not be initiated until the QT interval is normalized (see WARNINGS).
+After discontinuation of amiodarone, sotalol hydrochloride tablets USP should not be initiated until the QT interval is normalized (see WARNINGS).
 
 ## Preparation of Extemporaneous Oral Solution
 
@@ -83,7 +83,7 @@ Sotalol Hydrochloride Syrup 5 mg/mL can be compounded using Simple Syrup contain
 1. Measure 120 mL of Simple Syrup.
 2. Transfer the syrup to a 6 ounce amber plastic (polyethylene terephthalate [PET]) prescription bottle.
    NOTE: An oversized bottle is used to allow for a headspace, so that there will be more effective mixing during shaking of the bottle.
-3. Add five (5) sotalol hydrochloride tablets, 120 mg to the bottle.
+3. Add five (5) sotalol hydrochloride tablets USP, 120 mg to the bottle.
    These tablets are added intact; it is not necessary to crush the tablets.
    NOTE: The addition of the tablets can also be done first.
    The tablets can also be crushed if preferred.

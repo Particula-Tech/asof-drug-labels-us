@@ -16,7 +16,7 @@ Store at 20o to 25oC (68o to 77oF) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
-Betapace AF® is a trademark of Berlex.
+All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
 Manufactured In Canada By:
 
@@ -31,4 +31,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-K 2/2011
+L 8/2011

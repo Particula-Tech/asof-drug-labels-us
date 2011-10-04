@@ -100,8 +100,7 @@ The incidence of 2nd or 3rd degree AV block is approximately 1%.
 ## Recent Acute MI
 
 Sotalol can be used safely and effectively in the long-term treatment of life-threatening ventricular arrhythmias following a myocardial infarction.
-However, experience in the use of sotalol to treat cardiac arrhythmias in the early phase of recovery from acute MI is limited and at least at high initial doses is not reassuring.
-(See WARNINGS, Mortality.)
+However, experience in the use of sotalol to treat cardiac arrhythmias in the early phase of recovery from acute MI is limited and at least at high initial doses is not reassuring (see WARNINGS, Mortality).
 In the first 2 weeks post-MI caution is advised and careful dose titration is especially important, particularly in patients with markedly impaired ventricular function.
 
 The following warnings are related to the beta-blocking activity of sotalol.
@@ -116,9 +115,7 @@ If angina or acute coronary insufficiency develops, appropriate therapy should b
 Patients should be warned against interruption or discontinuation of therapy without the physician’s advice.
 Because coronary artery disease is common and may be unrecognized in patients receiving sotalol, abrupt discontinuation in patients with arrhythmias may unmask latent coronary insufficiency.
 
-## Non-Allergic Bronchospasm
-
-(e.g., chronic bronchitis and emphysema)
+## Non-Allergic Bronchospasm (e.g., chronic bronchitis and emphysema)
 
 PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD IN GENERAL NOT RECEIVE BETA-BLOCKERS.
 It is prudent, if sotalol hydrochloride is to be administered, to use the smallest effective dose, so that inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta2 receptors may be minimized.
@@ -128,10 +125,9 @@ It is prudent, if sotalol hydrochloride is to be administered, to use the smalle
 While taking beta-blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, either accidental, diagnostic or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat the allergic reaction.
 
-## Anesthesia
+## Major Surgery
 
-The management of patients undergoing major surgery who are being treated with beta-blockers is controversial.
-Protracted severe hypotension and difficulty in restoring and maintaining normal cardiac rhythm after anesthesia have been reported in patients receiving beta-blockers.
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 ## Diabetes
 
