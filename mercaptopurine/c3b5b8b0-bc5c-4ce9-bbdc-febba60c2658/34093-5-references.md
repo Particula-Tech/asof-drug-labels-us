@@ -30,6 +30,6 @@
    Am J Health-Syst Pharm.
    1996;53:1669-1685.
 
-10002106/03Revised February 2007
+10002106/05 Revised June 2011
 
-© RLI, 2007
+© RLI, 2011

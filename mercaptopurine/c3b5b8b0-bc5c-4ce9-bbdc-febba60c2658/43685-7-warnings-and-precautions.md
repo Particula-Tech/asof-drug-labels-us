@@ -1,5 +1,9 @@
 # WARNINGS
 
+Mercaptopurine is mutagenic in animals and humans, carcinogenic in animals, and may increase the patient's risk of neoplasia.
+Cases of hepatosplenic T-cell lymphoma have been reported in patients treated with mercaptopurine for inflammatory bowel disease.
+The safety and efficacy of mercaptopurine in patients with inflammatory bowel disease have not been established.
+
 ## Bone Marrow Toxicity
 
 The most consistent, dose-related toxicity is bone marrow suppression.
@@ -18,7 +22,7 @@ If a patient has clinical or laboratory evidence of severe toxicity, particularl
 In patients who exhibit excessive myelosuppression due to 6-mercaptopurine, it may be possible to adjust the mercaptopurine dose and administer the usual dosage of other myelosuppressive chemotherapy as required for treatment (see DOSAGE AND ADMINISTRATION).
 
 Bone marrow toxicity may be more profound in patients treated with concomitant allopurinol (see PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION).
-This problem could be exacerbated by co-administration with drugs that inhibit TPMT, such as olsalazine, mesalamine, or sulfasalazine.
+This problem could be exacerbated by coadministration with drugs that inhibit TPMT, such as olsalazine, mesalamine, or sulfasalazine.
 
 ## Hepatotoxicity
 
@@ -91,7 +95,7 @@ The decision to increase, decrease, continue, or discontinue a given dosage of m
 In many instances, particularly during the induction phase of acute leukemia, complete blood counts will need to be done more frequently than once weekly in order to evaluate the effect of the therapy.
 If a patient has clinical or laboratory evidence of severe bone marrow toxicity, particularly myelosuppression, TPMT testing should be considered.
 
-## TPMT Testing
+### TPMT Testing
 
 Genotypic and phenotypic testing of TPMT status are available.
 Genotypic testing can determine the allelic pattern of a patient.

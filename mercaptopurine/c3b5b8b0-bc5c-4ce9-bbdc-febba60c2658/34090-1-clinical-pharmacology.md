@@ -28,7 +28,7 @@ Plasma protein binding averages 19% over the concentration range 10 to 50 mcg/mL
 
 A reduction in mercaptopurine dosage is required if patients are receiving both mercaptopurine and allopurinol (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
-## Metabolism and Genetic Polymorphism
+### Metabolism and Genetic Polymorphism
 
 Variability in mercaptopurine metabolism is one of the major causes of interindividual differences in systemic exposure to the drug and its active metabolites.
 Mercaptopurine activation occurs via hypoxanthine-guanine phosphoribosyl transferase (HGPRT) and several enzymes to form 6-thioguanine nucleotides (6-TGNs).
@@ -42,7 +42,7 @@ Homozygous-deficient patients (two non-functional alleles), if given usual doses
 Heterozygous patients with low or intermediate TPMT activity accumulate higher concentrations of active thioguanine nucleotides than people with normal TPMT activity and are more likely to experience mercaptopurine toxicity (see WARNINGS and PRECAUTIONS).
 TMPT genotyping or phenotyping (red blood cell TPMT activity) can identify patients who are homozygous deficient or have low or intermediate TPMT activity (see WARNINGS, PRECAUTIONS: Laboratory Tests, and DOSAGE AND ADMINISTRATION sections).
 
-Another inactivation pathway is oxidation, which is catalyzed by Xanthine oxidase (XO) and forms 6-thiouric acid.
+Another inactivation pathway is oxidation, which is catalyzed by xanthine oxidase (XO) and forms 6-thiouric acid.
 Xanathine oxidase is inhibited by ZYLOPRIM® (allopurinol).
 Concomitant use of allopurinol with mercaptopurine decreases the catabolism of mercaptopurine and its active metabolites leading to mercaptopurine toxicity.
 A reduction in mercaptopurine dosage is therefore required if patients are receiving both mercaptopurine and allopurinol (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).

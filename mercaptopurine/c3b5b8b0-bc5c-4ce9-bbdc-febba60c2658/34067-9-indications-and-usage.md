@@ -5,4 +5,4 @@ The response to this agent depends upon the particular subclassification of acut
 
 Mercaptopurine is not effective prophylaxis or treatment of central nervous system leukemia.
 
-Mercaptopurine is not effective in acute myelogenous leukemia, chronic lymphatic leukemia, the lymphomas (including Hodgkin’s Disease), or solid tumors.
+Mercaptopurine is not effective in acute myelogenous leukemia, chronic lymphatic leukemia, the lymphomas (including Hodgkins Disease), or solid tumors.
