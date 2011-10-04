@@ -34,7 +34,8 @@ Incidence (%) of adverse events judged at least possibly related to treatment wi
 | Renal and Urinary Disorders |  |  |
 | Urinary retention | 2 (0.3) | 7 (1.2) |
 | Eye Disorders |  |  |
-| Dry eyes not otherwise specified | 2 (0.3) | 7 (1.2) |
+| Dry eyes NOS | 2 (0.3) | 7 (1.2) |
+| Abbreviations: NOS=not otherwise specified |  |  |
 
 Other adverse events from the Phase 3, U.S., placebo-controlled trials judged possibly related to treatment with SANCTURA® by the investigator, occurring in greater than or equal to 0.5% of SANCTURA® treated patients, and more common with SANCTURA® than placebo are: tachycardia NOS, vision blurred, abdominal distension, vomiting NOS, dysgeusia, dry throat, and dry skin.
 
