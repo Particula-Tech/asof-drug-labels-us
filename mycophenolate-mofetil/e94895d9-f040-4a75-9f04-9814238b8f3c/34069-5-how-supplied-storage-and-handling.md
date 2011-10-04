@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-Mycophenolate Mofetil Capsules, 250 mg are supplied as caramel opaque/blue opaque capsules with "54 848" printed in black ink on the capsule and body, containing a white to an off-white powder.
+Mycophenolate Mofetil Capsules USP, 250 mg are supplied as caramel opaque/blue opaque capsules with "54 848" printed in black ink on the capsule and body, containing a white to an off-white powder.
 
-Mycophenolate Mofetil Tablets, 500 mg are supplied as white, modified oval tablets debossed with product identification "54 135" on one side and plain on the other side.
+Mycophenolate Mofetil Tablets USP, 500 mg are supplied as white, modified oval tablets debossed with product identification "54 135" on one side and plain on the other side.
 
 | 0054-0163-25 | 250 mg, caramel opaque/blue opaque capsules, bottle of 100 |
 | --- | --- |
