@@ -12,7 +12,7 @@ Local conjunctival hyperemia was observed; however, less than 1% of the patients
 
 In addition to the above listed ocular events/signs and symptoms, the following were reported in 1 to 4% of the patients: dry eye, excessive tearing, eye pain, lid crusting, lid discomfort/pain, lid edema, lid erythema, and photophobia.
 
-The following events were reported in less than 1% of the patients: conjunctivitis, diplopia and discharge from the eye.
+The following events were reported in less than 1% of the patients: conjunctivitis, diplopia, and discharge from the eye.
 
 During clinical studies, there were extremely rare reports of the following: retinal artery embolus, retinal detachment, and vitreous hemorrhage from diabetic retinopathy.
 
@@ -23,4 +23,4 @@ Chest pain/angina pectoris, muscle/joint/back pain, and rash/allergic skin react
 
 The following events have been identified during postmarketing use of XALATAN in clinical practice.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-The events, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to XALATAN, or a combination of these factors, include: asthma and exacerbation of asthma; corneal edema and erosions; dyspnea; eyelash and vellus hair changes (increased length, thickness, pigmentation, and number); eyelid skin darkening; herpes keratitis; intraocular inflammation (iritis/uveitis); keratitis; macular edema, including cystoid macular edema; misdirected eyelashes sometimes resulting in eye irritation; dizziness, headache, and toxic epidermal necrolysis.
+The events, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to XALATAN, or a combination of these factors, include: asthma and exacerbation of asthma; corneal edema and erosions; dyspnea; eyelash and vellus hair changes (increased length, thickness, pigmentation, and number); eyelid skin darkening; herpes keratitis; intraocular inflammation (iritis/uveitis); keratitis; macular edema, including cystoid macular edema; misdirected eyelashes sometimes resulting in eye irritation; dizziness, headache, and toxic epidermal necrolysis; periorbital and lid changes resulting in deepening of the eyelid sulcus.

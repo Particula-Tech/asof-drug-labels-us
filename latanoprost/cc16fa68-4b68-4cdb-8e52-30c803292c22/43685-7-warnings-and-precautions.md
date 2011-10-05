@@ -52,7 +52,7 @@ Eyelash changes are usually reversible upon discontinuation of treatment.
 Patients should be instructed to avoid allowing the tip of the dispensing container to contact the eye or surrounding structures because this could cause the tip to become contaminated by common bacteria known to cause ocular infections.
 Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions.
 
-Patients also should be advised that if they develop an intercurrent ocular condition (e.g., trauma, or infection) or have ocular surgery, they should immediately seek their physician's advice concerning the continued use of the multiple-dose container.
+Patients also should be advised that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, they should immediately seek their physician's advice concerning the continued use of the multiple-dose container.
 
 Patients should be advised that if they develop any ocular reactions, particularly conjunctivitis and lid reactions, they should immediately seek their physician's advice.
 
@@ -65,15 +65,15 @@ If more than one topical ophthalmic drug is being used, the drugs should be admi
 ## Drug Interactions
 
 In vitro studies have shown that precipitation occurs when eye drops containing thimerosal are mixed with XALATAN.
-If such drugs are used they should be administered at least five (5) minutes apart.
+If such drugs are used, they should be administered at least five (5) minutes apart.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Latanoprost was not mutagenic in bacteria, in mouse lymphoma or in mouse micronucleus tests.
+Latanoprost was not mutagenic in bacteria, in mouse lymphoma, or in mouse micronucleus tests.
 
 Chromosome aberrations were observed in vitro with human lymphocytes.
 
-Latanoprost was not carcinogenic in either mice or rats when administered by oral gavage at doses of up to 170 µg/kg/day (approximately 2,800 times the recommended maximum human dose) for up to 20 and 24 months, respectively.
+Latanoprost was not carcinogenic in either mice or rats when administered by oral gavage at doses of up to 170 µg/kg/day (approximately 2800 times the recommended maximum human dose) for up to 20 and 24 months, respectively.
 
 Additional in vitro and in vivo studies on unscheduled DNA synthesis in rats were negative.
 Latanoprost has not been found to have any effect on male or female fertility in animal studies.
@@ -85,7 +85,7 @@ Latanoprost has not been found to have any effect on male or female fertility in
 #### Pregnancy Category C
 
 Reproduction studies have been performed in rats and rabbits.
-In rabbits an incidence of 4 of 16 dams had no viable fetuses at a dose that was approximately 80 times the maximum human dose, and the highest nonembryocidal dose in rabbits was approximately 15 times the maximum human dose.
+In rabbits, an incidence of 4 of 16 dams had no viable fetuses at a dose that was approximately 80 times the maximum human dose, and the highest nonembryocidal dose in rabbits was approximately 15 times the maximum human dose.
 There are no adequate and well-controlled studies in pregnant women.
 XALATAN should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
