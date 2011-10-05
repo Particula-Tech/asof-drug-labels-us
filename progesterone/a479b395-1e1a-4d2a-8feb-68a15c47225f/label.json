@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA075906"
+  ],
+  "inn": "progesterone",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-261-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "progesterone",
+      "name": "Progesterone"
+    }
+  ],
+  "setid": "a479b395-1e1a-4d2a-8feb-68a15c47225f",
+  "source": "dailymed"
+}

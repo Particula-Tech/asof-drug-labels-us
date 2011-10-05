@@ -1,0 +1,9 @@
+IN SESAME OIL
+
+FOR INTRAMUSCULAR USE ONLY
+
+Rx only
+
+45918D
+
+Revised: June 2011
