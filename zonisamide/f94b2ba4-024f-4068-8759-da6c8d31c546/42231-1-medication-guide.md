@@ -8,6 +8,17 @@ This information does not take the place of talking to your healthcare provider 
 
 What is the most important information I should know about ZONEGRAN?
 
+ZONEGRAN may cause serious side effects, including:
+
+1. Serious skin rash that can cause death.
+2. Less sweating and increase in your body temperature (fever).
+3. Suicidal thoughts or actions in some people.
+4. Increased level of acid in your blood (metabolic acidosis).
+5. Problems with your concentration, attention, memory, thinking, speech, or language.
+6. Blood cell changes such as reduced red and white blood cell counts.
+
+These serious side effects are described below.
+
 1. ZONEGRAN may cause a serious skin rash that can cause death.
    These serious skin reactions are more likely to happen when you begin taking ZONEGRAN within the first 4 months of treatment but may occur at later times.
 2. ZONEGRAN may cause you to sweat less and to increase your body temperature (fever).
@@ -171,7 +182,7 @@ Active ingredient: zonisamide
 
 Inactive ingredients: microcrystalline cellulose, hydrogenated vegetable oil, sodium lauryl sulfate, gelatin, and colorants.
 
-Issued April 2009
+Issued Month 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

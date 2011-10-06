@@ -206,16 +206,6 @@ Estimates of the incidence of treatment emergent status epilepticus in ZONEGRAN-
 Nonetheless, in controlled trials, 1.1% of patients treated with ZONEGRAN had an event labeled as status epilepticus compared to none of the patients treated with placebo.
 Among patients treated with ZONEGRAN across all epilepsy studies (controlled and uncontrolled), 1.0% of patients had an event reported as status epilepticus.
 
-## Creatine Phosphokinase (CPK) Elevation and Pancreatitis
-
-In the post-market setting, the following rare adverse events have been observed (<1:1000):
-
-If patients taking zonisamide develop severe muscle pain and/or weakness, either in the presence or absence of a fever, markers of muscle damage should be assessed, including serum CPK and aldolase levels.
-If elevated, in the absence of another obvious cause such as trauma, grand mal seizures, etc., tapering and/or discontinuance of zonisamide should be considered and appropriate treatment initiated.
-
-Patients taking zonisamide that manifest clinical signs and symptoms of pancreatitis should have pancreatic lipase and amylase levels monitored.
-If pancreatitis is evident, in the absence of another obvious cause, tapering and/or discontinuation of zonisamide should be considered and appropriate treatment initiated.
-
 ## Information for Patients
 
 Patients should be informed of the availability of a Medication Guide, and they should be instructed to read the Medication Guide prior to taking Zonegran.
@@ -239,7 +229,6 @@ Patients should be advised as follows: (See Medication Guide)
    Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
    This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
    To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy subsection).
-9. Patients should contact their physician immediately if they develop severe muscle pain and/or weakness.
 
 ## Laboratory Tests
 
