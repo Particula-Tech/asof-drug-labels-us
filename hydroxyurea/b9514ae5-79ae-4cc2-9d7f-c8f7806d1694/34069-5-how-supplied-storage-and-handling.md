@@ -1,13 +1,10 @@
 # HOW SUPPLIED
 
-Hydroxyurea Capsules, USP are available as:
+Hydroxyurea capsules USP 500 mg are available as a two-piece hard gelatin capsule with purple opaque cap and pink opaque body filled with white powder, imprinted in black ink barr 882.
+Available in bottles of 100 capsules.
 
-500 mg: Purple opaque cap and pink opaque body filled with white powder.
-Imprinted in black ink stylized barr 882.
-Available in bottles of:
+Store at 20º to 25ºC (68º to 77ºF) (See USP Controlled Room Temperature).
 
-100 NDC 0555-0882-02
+Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
-Dispense with a child-resistant closure in a tight container.
-
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.

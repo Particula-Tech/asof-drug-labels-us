@@ -1,5 +1,1 @@
-Revised FEBRUARY 2006
-
-11001019
-
 Rx only
