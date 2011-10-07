@@ -1,11 +1,14 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not predict the rates observed in broader patient populations in clinical practice.
+
+Adverse Reactions in Adults
 
 The data described herein reflect exposure to REMICADE in 4779 adult patients (1304 patients with rheumatoid arthritis, 1106 patients with Crohn's disease, 202 with ankylosing spondylitis, 293 with psoriatic arthritis, 484 with ulcerative colitis, 1373 with plaque psoriasis, and 17 patients with other conditions), including 2625 patients exposed beyond 30 weeks and 374 exposed beyond 1 year.
 [For information on adverse reactions in pediatric patients see Adverse Reactions (6.1).]
 One of the most-common reasons for discontinuation of treatment was infusion-related reactions (e.g., dyspnea, flushing, headache and rash).
-Adverse events have been reported in a higher proportion of rheumatoid arthritis patients receiving the 10 mg/kg dose than the 3 mg/kg dose, however, no differences were observed in the frequency of adverse events between the 5 mg/kg dose and 10 mg/kg dose in patients with Crohn's disease.
 
 Infusion-related Reactions
 
@@ -31,21 +34,8 @@ In all cases, REMICADE treatment was discontinued and/or other treatment institu
 
 Delayed Reactions/Reactions Following Re-administration
 
-Plaque Psoriasis
-
 In psoriasis studies, approximately 1% of REMICADE-treated patients experienced a possible delayed hypersensitivity reaction, generally reported as serum sickness or a combination of arthralgia and/or myalgia with fever and/or rash.
 These reactions generally occurred within 2 weeks after repeat infusion.
-
-Crohn's disease
-
-In a study where 37 of 41 patients with Crohn's disease were retreated with infliximab following a 2- to 4-year period without infliximab treatment, 10 patients experienced adverse events manifesting 3 to 12 days following infusion of which 6 were considered serious.
-Signs and symptoms included myalgia and/or arthralgia with fever and/or rash, with some patients also experiencing pruritus, facial, hand or lip edema, dysphagia, urticaria, sore throat, and headache.
-Patients experiencing these adverse events had not experienced infusion-related adverse events associated with their initial infliximab therapy.
-These adverse events occurred in 39% (9/23) of patients who had received liquid formulation which is no longer in use and 7% (1/14) of patients who received lyophilized formulation.
-The clinical data are not adequate to determine if occurrence of these reactions is due to differences in formulation.
-Patients' signs and symptoms improved substantially or resolved with treatment in all cases.
-There are insufficient data on the incidence of these events after drug-free intervals of 1 to 2 years.
-These events have been observed only infrequently in clinical studies and post-marketing surveillance with retreatment intervals up to 1 year.
 
 Infections
 
@@ -63,9 +53,6 @@ During the 54-week Crohn's II Study, 15% of patients with fistulizing Crohn's di
 
 In REMICADE clinical studies in patients with ulcerative colitis, infections treated with antimicrobials were reported in 27% of REMICADE-treated patients (average of 41 weeks of follow-up) and in 18% of placebo-treated patients (average 32 weeks of follow-up).
 The types of infections, including serious infections, reported in patients with ulcerative colitis were similar to those reported in other clinical studies.
-
-In post-marketing experience in the various indications, infections have been observed with various pathogens including viral, bacterial, fungal, and protozoal organisms.
-Infections have been noted in all organ systems and have been reported in patients receiving REMICADE alone or in combination with immunosuppressive agents.
 
 The onset of serious infections may be preceded by constitutional symptoms such as fever, chills, weight loss, and fatigue.
 The majority of serious infections, however, may also be preceded by signs or symptoms localized to the site of the infection.
@@ -85,8 +72,6 @@ Of these REMICADE-treated patients, 9 developed a malignancy, including 1 lympho
 There was 1 reported malignancy among 77 control patients for a rate of 1.63 cases per 100 patient-years of follow-up (median duration of follow-up 0.8 years; 95% CI 0.04 – 9.10).
 The majority of the malignancies developed in the lung or head and neck.
 
-Malignancies, including non-Hodgkin's lymphoma and Hodgkin's disease, have also been reported in patients receiving REMICADE during post-approval use.
-
 Patients with Heart Failure
 
 In a randomized study evaluating REMICADE in moderate to severe heart failure (NYHA Class III/IV; left ventricular ejection fraction ≤35%), 150 patients were randomized to receive treatment with 3 infusions of REMICADE 10 mg/kg, 5 mg/kg, or placebo, at 0, 2, and 6 weeks.
@@ -98,6 +83,7 @@ REMICADE has not been studied in patients with mild heart failure (NYHA Class I/
 Immunogenicity
 
 Treatment with REMICADE can be associated with the development of antibodies to infliximab.
+The assay used to measure anti-infliximab antibodies in patient samples is subject to interference by serum infliximab, possibly resulting in an underestimation of the rate of patient antibody formation.
 The incidence of antibodies to infliximab in patients given a 3-dose induction regimen followed by maintenance dosing was approximately 10% as assessed through 1 to 2 years of REMICADE treatment.
 A higher incidence of antibodies to infliximab was observed in Crohn's disease patients receiving REMICADE after drug-free intervals >16 weeks.
 In a study of psoriatic arthritis in which 191 patients received 5 mg/kg with or without MTX, antibodies to infliximab occurred in 15% of patients.
@@ -135,29 +121,9 @@ Table 1 Proportion of patients with elevated ALT in clinical trials
 | Psoriatic arthritisMedian follow-up was 39 weeks for the REMICADE group and 18 weeks for the placebo group. | 16% | 50% | 0% | 7% | 0% | 2% |
 | Plaque psoriasisALT values are obtained in 2 Phase 3 psoriasis studies with median follow-up of 50 weeks for REMICADE and 16 weeks for placebo. | 24% | 49% | <1% | 8% | 0% | 3% |
 
-Adverse Reactions in Pediatric Crohn's Disease
-
-There were some differences in the adverse reactions observed in the pediatric patients receiving REMICADE compared to those observed in adults with Crohn's disease.
-These differences are discussed in the following paragraphs.
-
-The following adverse events were reported more commonly in 103 randomized pediatric Crohn's disease patients administered 5 mg/kg REMICADE through 54 weeks than in 385 adult Crohn's disease patients receiving a similar treatment regimen: anemia (11%), blood in stool (10%), leukopenia (9%), flushing (9%), viral infection (8%), neutropenia (7%), bone fracture (7%), bacterial infection (6%), and respiratory tract allergic reaction (6%).
-
-Infections were reported in 56% of randomized pediatric patients in Study Peds Crohn's and in 50% of adult patients in Study Crohn's I. In Study Peds Crohn's, infections were reported more frequently for patients who received every 8-week as opposed to every 12-week infusions (74% and 38%, respectively), while serious infections were reported for 3 patients in the every 8-week and 4 patients in the every 12-week maintenance treatment group.
-The most commonly reported infections were upper respiratory tract infection and pharyngitis, and the most commonly reported serious infection was abscess.
-Pneumonia was reported for 3 patients, (2 in the every 8-week and 1 in the every 12-week maintenance treatment groups).
-Herpes zoster was reported for 2 patients in the every 8-week maintenance treatment group.
-
-In Study Peds Crohn's, 18% of randomized patients experienced 1 or more infusion reactions, with no notable difference between treatment groups.
-Of the 112 patients in Study Peds Crohn's, there were no serious infusion reactions, and 2 patients had non-serious anaphylactoid reactions.
-
-In Study Peds Crohn's, in which all patients received stable doses of 6-MP, AZA, or MTX, 3% (3/105) of patients developed antibodies to REMICADE.
-
-Elevations of ALT up to 3 times the upper limit of normal (ULN) were seen in 18% of pediatric patients in Crohn's disease clinical trials; 4% had ALT elevations ≥3 × ULN, and 1% had elevations ≥5 × ULN.
-(Median follow-up was 53 weeks.)
-
 Adverse Reactions in Psoriasis Studies
 
-During the placebo-controlled portion across the 3 clinical trials up to week 16, the proportion of patients who experienced at least 1 SAE (defined as resulting in death, life threatening, requires hospitalization, or persistent or significant disability/incapacity) was 1.7% in the 3 mg/kg REMICADE group, 3.2% in the placebo group, and 3.9% in the 5 mg/kg REMICADE group.
+During the placebo-controlled portion across the 3 clinical trials up to week 16, the proportion of patients who experienced at least 1 serious adverse reaction (SAE; defined as resulting in death, life threatening, requires hospitalization, or persistent or significant disability/incapacity) was 0.5% in the 3 mg/kg REMICADE group, 1.9% in the placebo group, and 1.6% in the 5 mg/kg REMICADE group.
 
 Among patients in the 2 Phase 3 studies, 12.4% of patients receiving REMICADE 5 mg/kg every 8 weeks through 1 year of maintenance treatment experienced at least 1 SAE in Study I. In Study II, 4.1% and 4.7% of patients receiving REMICADE 3 mg/kg and 5 mg/kg every 8 weeks, respectively, through 1 year of maintenance treatment experienced at least 1 SAE.
 
@@ -177,7 +143,7 @@ Other Adverse Reactions
 
 Safety data are available from 4779 REMICADE-treated adult patients, including 1304 with rheumatoid arthritis, 1106 with Crohn's disease, 484 with ulcerative colitis, 202 with ankylosing spondylitis, 293 with psoriatic arthritis, 1373 with plaque psoriasis and 17 with other conditions.
 [For information on other adverse reactions in pediatric patients, see Adverse Reactions (6.1)].
-Adverse events reported in ≥5% of all patients with rheumatoid arthritis receiving 4 or more infusions are in Table 2.
+Adverse reactions reported in ≥5% of all patients with rheumatoid arthritis receiving 4 or more infusions are in Table 2.
 The types and frequencies of adverse reactions observed were similar in REMICADE-treated rheumatoid arthritis, ankylosing spondylitis, psoriatic arthritis, plaque psoriasis and Crohn's disease patients except for abdominal pain, which occurred in 26% of REMICADE-treated patients with Crohn's disease.
 In the Crohn's disease studies, there were insufficient numbers and duration of follow-up for patients who never received REMICADE to provide meaningful comparisons.
 
@@ -216,8 +182,6 @@ Table 2 Adverse reactions occurring in 5% or more of patients receiving 4 or mor
 | Cardiovascular disorders, general |  |  |
 | Hypertension | 5% | 7% |
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not predict the rates observed in broader patient populations in clinical practice.
-
 The most common serious adverse reactions observed in clinical trials were infections [see Adverse Reactions (6.1)].
 Other serious, medically relevant adverse reactions ≥0.2% or clinically significant adverse reactions by body system were as follows:
 
@@ -238,16 +202,64 @@ Other serious, medically relevant adverse reactions ≥0.2% or clinically signif
 - Vascular (Extracardiac): thrombophlebitis
 - White Cell and Reticuloendothelial: leukopenia, lymphadenopathy
 
+Adverse Reactions in Pediatric Patients
+
+Pediatric Crohn's Disease
+
+There were some differences in the adverse reactions observed in the pediatric patients receiving REMICADE compared to those observed in adults with Crohn's disease.
+These differences are discussed in the following paragraphs.
+
+The following adverse reactions were reported more commonly in 103 randomized pediatric Crohn's disease patients administered 5 mg/kg REMICADE through 54 weeks than in 385 adult Crohn's disease patients receiving a similar treatment regimen: anemia (11%), leukopenia (9%), flushing (9%), viral infection (8%), neutropenia (7%), bone fracture (7%), bacterial infection (6%), and respiratory tract allergic reaction (6%).
+
+Infections were reported in 56% of randomized pediatric patients in Study Peds Crohn's and in 50% of adult patients in Study Crohn's I. In Study Peds Crohn's, infections were reported more frequently for patients who received every 8-week as opposed to every 12-week infusions (74% and 38%, respectively), while serious infections were reported for 3 patients in the every 8-week and 4 patients in the every 12-week maintenance treatment group.
+The most commonly reported infections were upper respiratory tract infection and pharyngitis, and the most commonly reported serious infection was abscess.
+Pneumonia was reported for 3 patients, (2 in the every 8-week and 1 in the every 12-week maintenance treatment groups).
+Herpes zoster was reported for 2 patients in the every 8-week maintenance treatment group.
+
+In Study Peds Crohn's, 18% of randomized patients experienced 1 or more infusion reactions, with no notable difference between treatment groups.
+Of the 112 patients in Study Peds Crohn's, there were no serious infusion reactions, and 2 patients had non-serious anaphylactoid reactions.
+
+In Study Peds Crohn's, in which all patients received stable doses of 6-MP, AZA, or MTX, excluding inconclusive samples, 3 of 24 patients had antibodies to infliximab.
+Although 105 patients were tested for antibodies to infliximab, 81 patients were classified as inconclusive because they could not be ruled as negative due to assay interference by the presence of infliximab in the sample.
+
+Elevations of ALT up to 3 times the upper limit of normal (ULN) were seen in 18% of pediatric patients in Crohn's disease clinical trials; 4% had ALT elevations ≥3 × ULN, and 1% had elevations ≥5 × ULN.
+(Median follow-up was 53 weeks.)
+
+Pediatric Ulcerative Colitis
+
+Overall, the adverse reactions reported in the pediatric ulcerative colitis trial and adult ulcerative colitis (Study UC I and Study UC II) studies were generally consistent.
+In a pediatric UC trial, the most common adverse reactions were upper respiratory tract infection, pharyngitis, abdominal pain, fever, and headache.
+
+Infections were reported in 31 (52%) of 60 treated patients in the pediatric UC trial and 22 (37%) required oral or parenteral antimicrobial treatment.
+The proportion of patients with infections in the pediatric UC trial was similar to that in the pediatric Crohn's disease study (Study Peds Crohn's) but higher than the proportion in the adults' ulcerative colitis studies (Study UC I and Study UC II).
+The overall incidence of infections in the pediatric UC trial was 13/22 (59%) in the every 8 week maintenance treatment group.
+Upper respiratory tract infection (7/60 [12%]) and pharyngitis (5/60 [8%]) were the most frequently reported respiratory system infections.
+Serious infections were reported in 12% (7/60) of all treated patients.
+
+In the pediatric UC trial, excluding inconclusive samples, 4 of 19 patients had antibodies to infliximab.
+Although 52 patients were tested, 33 patients were classified as inconclusive because they could not be ruled as negative due to assay interference by the presence of infliximab in the sample.
+
+Elevations of ALT up to 3 times the upper limit of normal (ULN) were seen in 17% (10/60) of pediatric patients in the pediatric UC trial; 7% (4/60) had ALT elevations ≥3 × ULN, and 2% (1/60) had elevations ≥5 × ULN (median follow-up was 49 weeks).
+
+Overall, 8 of 60 (13%) treated patients experienced one or more infusion reactions, including 4 of 22 (18%) patients in the every 8-week treatment maintenance group.
+No serious infusion reactions were reported.
+
+In the pediatric UC trial, 45 patients were in the 12 to 17 year age group and 15 in the 6 to 11 year age group.
+The numbers of patients in each subgroup are too small to make any definitive conclusions about the effect of age on safety events.
+There were higher proportions of patients with serious adverse events (40% vs. 18%) and discontinuation due to adverse events (40% vs. 16%) in the younger age group than in the older age group.
+While the proportion of patients with infections was also higher in the younger age group (60% vs. 49%), for serious infections, the proportions were similar in the two age groups (13% in the 6 to 11 year age group vs. 11% in the 12 to 17 year age group).
+Overall proportions of adverse reactions, including infusion reactions, were similar between the 6 to 11 and 12 to 17 year age groups (13%).
+
 ## 6.2 Post-marketing Experience
 
 Adverse reactions have been reported during post approval use of REMICADE in adult and pediatric patients.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to REMICADE exposure.
 
-The following adverse reactions, some with fatal outcome, have been reported during post-approval use of REMICADE: neutropenia [see Warnings and Precautions (5.6)], interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and very rare rapidly progressive disease), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pericardial effusion, systemic and cutaneous vasculitis, erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy), new onset and worsening psoriasis (all subtypes including pustular, primarily palmoplantar), transverse myelitis, and neuropathies (additional neurologic events have also been observed) [see Warnings and Precautions (5.8)] and acute liver failure, jaundice, hepatitis, and cholestasis [see Warnings and Precautions (5.4)].
+The following adverse reactions, some with fatal outcome, have been reported during post-approval use of REMICADE: neutropenia [see Warnings and Precautions (5.6)], interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and very rare rapidly progressive disease), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pericardial effusion, systemic and cutaneous vasculitis, erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy), new onset and worsening psoriasis (all subtypes including pustular, primarily palmoplantar), transverse myelitis, and neuropathies (additional neurologic reactions have also been observed) [see Warnings and Precautions (5.8)], acute liver failure, jaundice, hepatitis, and cholestasis [see Warnings and Precautions (5.4)], serious infections [see Warnings and Precautions (5.1)] and malignancies [see Warnings and Precautions (5.2)].
 
 Infusion-related Reactions
 
-In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal edema and severe bronchospasm, and seizure have been associated with REMICADE administration.
+In post-marketing experience, cases of anaphylactic reactions, including laryngeal/pharyngeal edema and severe bronchospasm, and seizure have been associated with REMICADE administration.
 
 Cases of myocardial ischemia/infarction and transient visual loss have also been rarely reported in association with REMICADE during or within 2 hours of infusion.
 

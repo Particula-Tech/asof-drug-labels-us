@@ -16,3 +16,6 @@
    A randomized study.
    N Engl J Med.
    1987;317(26):1625–1629.
+6. Turner D, Otley AR, Mack D, et al. Development, validation, and evaluation of a pediatric ulcerative colitis activity index: A prospective multicenter study.
+   Gastroenterology.
+   2007;133:423–432.

@@ -44,12 +44,12 @@ Risk of Cancer
 
 - There have been cases of unusual cancers in children and teenage patients using TNF-blocking agents.
 - For children and adults taking TNF-blocker medicines, including REMICADE, the chances of getting lymphoma or other cancers may increase.
-- People who have been treated for rheumatoid arthritis, Crohn's disease, ankylosing spondylitis, psoriatic arthritis and plaque psoriasis for a long time may be more likely to develop lymphoma.
-  This is especially true for people with very active disease.
-- Some patients with Crohn's disease or ulcerative colitis who have received REMICADE have developed a rare type of cancer called Hepatosplenic T-cell Lymphoma.
-  Most of these patients were teenage or young adult males.
+- Some patients with Crohn's disease or ulcerative colitis have developed Hepatosplenic T-cell Lymphoma, a rare type of cancer.
+  Most of the patients were teenage or young adult males.
   This type of cancer results in death.
-  All of these patients had also received drugs known as azathioprine or 6-mercaptopurine together with REMICADE.
+  All of these patients had received medicines known as azathioprine or 6-mercaptopurine together with REMICADE.
+- People who have been treated for rheumatoid arthritis, Crohn's disease, ulcerative colitis, ankylosing spondylitis, psoriatic arthritis and plaque psoriasis for a long time may be more likely to develop lymphoma.
+  This is especially true for people with very active disease.
 - Patients with COPD (a specific type of lung disease) may have an increased risk for getting cancer while being treated with REMICADE.
 - Tell your doctor if you have ever had any type of cancer.
   Discuss with your doctor any need to adjust medicines you may be taking.
@@ -61,11 +61,11 @@ What is REMICADE?
 REMICADE is a prescription medicine that is approved for patients with:
 
 - Rheumatoid Arthritis - adults with moderately to severely active rheumatoid arthritis, along with the medicine methotrexate
-- Crohn's Disease - children over the age of 6 and adults with Crohn's disease who have not responded well enough to other medicines
+- Crohn's Disease - children 6 years and older and adults with Crohn's disease who have not responded well to other medicines
 - Ankylosing Spondylitis
 - Psoriatic Arthritis
 - Plaque Psoriasis - adult patients with plaque psoriasis that is chronic (doesn't go away) severe, extensive, and/or disabling.
-- Ulcerative Colitis - adults with moderately to severely active ulcerative colitis who have not responded well enough to other medicines.
+- Ulcerative Colitis - children 6 years and older and adults with moderately to severely active ulcerative colitis who have not responded well to other medicines.
 
 REMICADE blocks the action of a protein in your body called tumor necrosis factor-alpha (TNF-alpha).
 TNF-alpha is made by your body's immune system.
@@ -102,7 +102,7 @@ Tell your doctor about all of your medical conditions, including if you:
   - if you have had a seizure.
 - have recently received or are scheduled to receive a vaccine.
   Adults and children should not receive a live vaccine while taking REMICADE.
-  Children with Crohn's disease should have all of their vaccines brought up to date before starting treatment with REMICADE.
+  Children should have all of their vaccines brought up to date before starting treatment with REMICADE.
 - are pregnant or planning to become pregnant.
   It is not known if REMICADE harms your unborn baby.
   REMICADE should be given to a pregnant woman only if clearly needed.
@@ -250,16 +250,27 @@ Some people using REMICADE had new psoriasis or worsening of psoriasis they alre
 Tell your doctor if you develop red scaly patches or raised bumps on the skin that are filled with pus.
 Your doctor may decide to stop your treatment with REMICADE.
 
-The most common side effects of REMICADE are
+The most common side effects of REMICADE include:
 
 - respiratory infections, such as sinus infections and sore throat
 - headache
-- rash
 - coughing
 - stomach pain
 
+Infusion reactions can happen up to 2 hours after your infusion of REMICADE.
+Symptoms of infusion reactions may include:
+
+- fever
+- chills
+- chest pain
+- low blood pressure or high blood pressure
+- shortness of breath
+- rash
+- itching
+
 Children who took REMICADE in studies for Crohn's disease showed some differences in side effects compared with adults who took REMICADE for Crohn's disease.
-The side effects that happened more in children were: anemia (low red blood cells), blood in stool, leukopenia (low white blood cells), flushing (redness or blushing), viral infections, neutropenia (low neutrophils, the white blood cells that fight infection), bone fracture, bacterial infection and allergic reactions of the breathing tract.
+The side effects that happened more in children were: anemia (low red blood cells), leukopenia (low white blood cells), flushing (redness or blushing), viral infections, neutropenia (low neutrophils, the white blood cells that fight infection), bone fracture, bacterial infection and allergic reactions of the breathing tract.
+Among patients who took REMICADE for ulcerative colitis in clinical studies, more children had infections as compared with adults.
 
 Tell your doctor about any side effect that bothers you or does not go away.
 
@@ -290,7 +301,7 @@ Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044
 
 U.S. License No. 1864
 
-Revised August 2011
+Revised September 2011
 
 ©Janssen Biotech, Inc. 2011
 

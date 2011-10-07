@@ -1,20 +1,23 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-(see Boxed WARNINGS)
-
 ## 5.1 Serious Infections
 
-Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in patients receiving TNF-blocking agents.
-Among opportunistic infections, tuberculosis, histoplasmosis, aspergillosis, candidiasis, coccidioidomycosis, listeriosis, and pneumocystosis were the most commonly reported.
-Patients have frequently presented with disseminated rather than localized disease, and are often taking concomitant immunosuppressants such as methotrexate or corticosteroids with REMICADE.
+Patients treated with REMICADE are at increased risk for developing serious infections involving various organ systems and sites that may lead to hospitalization or death.
+
+Opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, or parasitic organisms including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis and tuberculosis have been reported with TNF-blockers.
+Patients have frequently presented with disseminated rather than localized disease.
 
 Treatment with REMICADE should not be initiated in patients with an active infection, including clinically important localized infections.
+Patients greater than 65 years of age, patients with co-morbid conditions and/or patients taking concomitant immunosuppressants such as corticosteroids or methotrexate may be at greater risk of infection.
 The risks and benefits of treatment should be considered prior to initiating therapy in patients:
 
 - with chronic or recurrent infection;
 - who have been exposed to tuberculosis;
+- with a history of an opportunistic infection
 - who have resided or traveled in areas of endemic tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis; or
 - with underlying conditions that may predispose them to infection.
+
+Tuberculosis
 
 Cases of reactivation of tuberculosis or new tuberculosis infections have been observed in patients receiving REMICADE, including patients who have previously received treatment for latent or active tuberculosis.
 Patients should be evaluated for tuberculosis risk factors and tested for latent infection prior to initiating REMICADE and periodically during therapy.
@@ -27,11 +30,15 @@ Consultation with a physician with expertise in the treatment of tuberculosis is
 
 Tuberculosis should be strongly considered in patients who develop a new infection during REMICADE treatment, especially in patients who have previously or recently traveled to countries with a high prevalence of tuberculosis, or who have had close contact with a person with active tuberculosis.
 
+Monitoring
+
 Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with REMICADE, including the development of tuberculosis in patients who tested negative for latent tuberculosis infection prior to initiating therapy.
 Tests for latent tuberculosis infection may also be falsely negative while on therapy with REMICADE.
 
 REMICADE should be discontinued if a patient develops a serious infection or sepsis.
 A patient who develops a new infection during treatment with REMICADE should be closely monitored, undergo a prompt and complete diagnostic workup appropriate for an immunocompromised patient, and appropriate antimicrobial therapy should be initiated.
+
+Invasive Fungal Infections
 
 For patients who reside or travel in regions where mycoses are endemic, invasive fungal infection should be suspected if they develop a serious systemic illness.
 Appropriate empiric antifungal therapy should be considered while a diagnostic workup is being performed.
@@ -47,17 +54,7 @@ The malignancies occurred after a median of 30 months (range 1 to 84 months) aft
 Most of the patients were receiving concomitant immunosuppressants.
 These cases were reported post-marketing and are derived from a variety of sources, including registries and spontaneous postmarketing reports.
 
-Postmarketing cases of hepatosplenic T-cell lymphoma (HSTCL), a rare type of T-cell lymphoma, have been reported in patients treated with TNF blockers including REMICADE.
-These cases have had a very aggressive disease course and have been fatal.
-All reported REMICADE cases have occurred in patients with Crohn's disease or ulcerative colitis and the majority were in adolescent and young adult males.
-All of these patients had received treatment with the immunosuppressants azathioprine or 6-mercaptopurine concomitantly with REMICADE at or prior to diagnosis.
-It is uncertain whether the occurrence of HSTCL is related to REMICADE or REMICADE in combination with these other immunosuppressants.
-When treating patients with inflammatory bowel disease, particularly in adolescents and young adults, consideration of whether to use REMICADE alone or in combination with other immunosuppressants should take into account a possibility that there is a higher risk of HSTCL with combination therapy versus an observed increased risk of immunogenicity and hypersensitivity reactions with REMICADE monotherapy from the clinical trial data [see Warnings and Precautions (5.7) and Adverse Reactions, Immunogenicity (6.1)].
-
-In the controlled portions of clinical trials of some TNF-blocking agents including REMICADE, more malignancies (excluding lymphoma and nonmelanoma skin cancer [NMSC]) have been observed in patients receiving those TNF-blockers compared with control patients.
-During the controlled portions of REMICADE trials in patients with moderately to severely active rheumatoid arthritis, Crohn's disease, psoriatic arthritis, ankylosing spondylitis, ulcerative colitis, and plaque psoriasis, 14 patients were diagnosed with malignancies (excluding lymphoma and NMSC) among 4019 REMICADE-treated patients vs. 1 among 1597 control patients (at a rate of 0.52/100 patient-years among REMICADE-treated patients vs. a rate of 0.11/100 patient-years among control patients), with median duration of follow-up 0.5 years for REMICADE-treated patients and 0.4 years for control patients.
-Of these, the most common malignancies were breast, colorectal, and melanoma.
-The rate of malignancies among REMICADE-treated patients was similar to that expected in the general population whereas the rate in control patients was lower than expected.
+Lymphomas
 
 In the controlled portions of clinical trials of all the TNF-blocking agents, more cases of lymphoma have been observed among patients receiving a TNF blocker compared with control patients.
 In the controlled and open-label portions of REMICADE clinical trials, 5 patients developed lymphomas among 5707 patients treated with REMICADE (median duration of follow-up 1.0 years) vs. 0 lymphomas in 1600 control patients (median duration of follow-up 0.4 years).
@@ -66,6 +63,21 @@ In the combined clinical trial population for rheumatoid arthritis, Crohn's dise
 Patients with Crohn's disease, rheumatoid arthritis or plaque psoriasis, particularly patients with highly active disease and/or chronic exposure to immunosuppressant therapies, may be at a higher risk (up to several fold) than the general population for the development of lymphoma, even in the absence of TNF-blocking therapy.
 Cases of acute and chronic leukemia have been reported with postmarketing TNF-blocker use in rheumatoid arthritis and other indications.
 Even in the absence of TNF blocker therapy, patients with rheumatoid arthritis may be at a higher risk (approximately 2-fold) than the general population for the development of leukemia.
+
+Hepatosplenic T-cell lymphoma (HSTCL)
+
+Postmarketing cases of hepatosplenic T-cell lymphoma (HSTCL), a rare type of T-cell lymphoma, have been reported in patients treated with TNF blockers including REMICADE.
+These cases have had a very aggressive disease course and have been fatal.
+All reported REMICADE cases have occurred in patients with Crohn's disease or ulcerative colitis and the majority were in adolescent and young adult males.
+All of these patients had received treatment with the immunosuppressants azathioprine or 6-mercaptopurine concomitantly with REMICADE at or prior to diagnosis.
+It is uncertain whether the occurrence of HSTCL is related to REMICADE or REMICADE in combination with these other immunosuppressants.When treating patients with inflammatory bowel disease, particularly in adolescents and young adults, consideration of whether to use REMICADE alone or in combination with other immunosuppressants should take into account a possibility that there is a higher risk of HSTCL with combination therapy versus an observed increased risk of immunogenicity and hypersensitivity reactions with REMICADE monotherapy from the clinical trial data [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
+
+Other Malignancies
+
+In the controlled portions of clinical trials of some TNF-blocking agents including REMICADE, more malignancies (excluding lymphoma and nonmelanoma skin cancer [NMSC]) have been observed in patients receiving those TNF-blockers compared with control patients.
+During the controlled portions of REMICADE trials in patients with moderately to severely active rheumatoid arthritis, Crohn's disease, psoriatic arthritis, ankylosing spondylitis, ulcerative colitis, and plaque psoriasis, 14 patients were diagnosed with malignancies (excluding lymphoma and NMSC) among 4019 REMICADE-treated patients vs. 1 among 1597 control patients (at a rate of 0.52/100 patient-years among REMICADE-treated patients vs. a rate of 0.11/100 patient-years among control patients), with median duration of follow-up 0.5 years for REMICADE-treated patients and 0.4 years for control patients.
+Of these, the most common malignancies were breast, colorectal, and melanoma.
+The rate of malignancies among REMICADE-treated patients was similar to that expected in the general population whereas the rate in control patients was lower than expected.
 
 In a clinical trial exploring the use of REMICADE in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, the majority of lung or head and neck origin, were reported in REMICADE-treated patients compared with control patients.
 All patients had a history of heavy smoking [see Adverse Reactions (6.1)].
@@ -110,7 +122,7 @@ There have also been rare post-marketing reports of new onset heart failure, inc
 Some of these patients have been under 50 years of age.
 If a decision is made to administer REMICADE to patients with heart failure, they should be closely monitored during therapy, and REMICADE should be discontinued if new or worsening symptoms of heart failure appear [see Contraindications (4) and Adverse Reactions (6.1)].
 
-## 5.6 Hematologic Events
+## 5.6 Hematologic Reactions
 
 Cases of leukopenia, neutropenia, thrombocytopenia, and pancytopenia, some with a fatal outcome, have been reported in patients receiving REMICADE.
 The causal relationship to REMICADE therapy remains unclear.
@@ -134,7 +146,7 @@ In rheumatoid arthritis, Crohn's disease and psoriasis clinical trials, re-admin
 In general, the benefit-risk of re-administration of REMICADE after a period of no-treatment, especially as a re-induction regimen given at weeks 0, 2 and 6, should be carefully considered.
 In the case where REMICADE maintenance therapy for psoriasis is interrupted, REMICADE should be reinitiated as a single dose followed by maintenance therapy.
 
-## 5.8 Neurologic Events
+## 5.8 Neurologic Reactions
 
 REMICADE and other agents that inhibit TNF have been associated in rare cases with CNS manifestation of systemic vasculitis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis and optic neuritis, and peripheral demyelinating disorders, including Guillain-Barré syndrome.
 Prescribers should exercise caution in considering the use of REMICADE in patients with these neurologic disorders and should consider discontinuation of REMICADE if these disorders develop.
@@ -142,7 +154,7 @@ Prescribers should exercise caution in considering the use of REMICADE in patien
 ## 5.9 Use with Anakinra
 
 Serious infections and neutropenia were seen in clinical studies with concurrent use of anakinra and another TNFα-blocking agent, etanercept, with no added clinical benefit compared to etanercept alone.
-Because of the nature of the adverse events seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNFα-blocking agents.
+Because of the nature of the adverse reactions seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNFα-blocking agents.
 Therefore, the combination of REMICADE and anakinra is not recommended.
 
 ## 5.10 Use with Abatacept
@@ -164,5 +176,5 @@ If a patient develops symptoms suggestive of a lupus-like syndrome following tre
 No data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines in patients receiving anti-TNF therapy.
 It is recommended that live vaccines not be given concurrently.
 
-It is recommended that all pediatric Crohn's disease patients be brought up to date with all vaccinations prior to initiating REMICADE therapy.
+It is recommended that all pediatric patients be brought up to date with all vaccinations prior to initiating REMICADE therapy.
 The interval between vaccination and initiation of REMICADE therapy should be in accordance with current vaccination guidelines.

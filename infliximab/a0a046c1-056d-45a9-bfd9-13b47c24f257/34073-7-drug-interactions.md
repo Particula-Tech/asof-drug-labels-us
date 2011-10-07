@@ -3,7 +3,7 @@
 ## 7.1 Use with Anakinra or Abatacept
 
 An increased risk of serious infections was seen in clinical studies of other TNFα-blocking agents used in combination with anakinra or abatacept, with no added clinical benefit.
-Because of the nature of the adverse events seen with these combinations with TNF-blocker therapy, similar toxicities may also result from the combination of anakinra or abatacept with other TNFα-blocking agents.
+Because of the nature of the adverse reactions seen with these combinations with TNF-blocker therapy, similar toxicities may also result from the combination of anakinra or abatacept with other TNFα-blocking agents.
 Therefore, the combination of REMICADE and anakinra or abatacept is not recommended [see Warnings and Precautions (5.9 and 5.10)].
 
 ## 7.2 Use with Tocilizumab
@@ -23,3 +23,9 @@ Concomitant MTX use may decrease the incidence of anti-infliximab antibody produ
 
 Patients with Crohn's disease who received immunosuppressants tended to experience fewer infusion reactions compared to patients on no immunosuppressants [see Adverse Reactions (6.1)].
 Serum infliximab concentrations appeared to be unaffected by baseline use of medications for the treatment of Crohn's disease including corticosteroids, antibiotics (metronidazole or ciprofloxacin) and aminosalicylates.
+
+## 7.5 Cytochrome P450 Substrates
+
+The formation of CYP450 enzymes may be suppressed by increased levels of cytokines (e.g., TNFα, IL-1, IL-6, IL-10, IFN) during chronic inflammation.
+Therefore, it is expected that for a molecule that antagonizes cytokine activity, such as infliximab, the formation of CYP450 enzymes could be normalized.
+Upon initiation or discontinuation of REMICADE in patients being treated with CYP450 substrates with a narrow therapeutic index, monitoring of the effect (e.g., warfarin) or drug concentration (e.g., cyclosporine or theophylline) is recommended and the individual dose of the drug product may be adjusted as needed.

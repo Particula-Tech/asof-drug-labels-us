@@ -35,6 +35,6 @@ At 8 weeks after a maintenance dose of 3 to 10 mg/kg of REMICADE, median inflixi
 No major differences in clearance or volume of distribution were observed in patient subgroups defined by age, weight, or gender.
 It is not known if there are differences in clearance or volume of distribution in patients with marked impairment of hepatic or renal function.
 
-Infliximab peak and trough concentrations were similar in pediatric (aged 6 to 17 years old) and adult patients with Crohn's disease following the administration of the recommended regimen [see Dosage and Administration (2.1)].
+Infliximab pharmacokinetic characteristics (including peak and trough concentrations and terminal half-life) were similar in pediatric (aged 6 to 17 years) and adult patients with Crohn's disease or ulcerative colitis following the administration of 5 mg/kg infliximab.
 
 Population pharmacokinetic analysis showed that in children with juvenile rheumatoid arthritis (JRA) with a body weight of up to 35 kg receiving 6 mg/kg REMICADE and children with JRA with body weight greater than 35 kg up to adult body weight receiving 3mg/kg REMICADE, the steady state area under the concentration curve (AUCss) was similar to that observed in adults receiving 3 mg/kg of REMICADE.

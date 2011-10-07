@@ -77,10 +77,10 @@ Patients who had not achieved a response by Week 14 were unlikely to respond to 
 
 Similar proportions of patients in either group developed new fistulas (17% overall) and similar numbers developed abscesses (15% overall).
 
-Active Crohn's Disease in Pediatric Patients
+## 14.2 Pediatric Crohn's Disease
 
 The safety and efficacy of REMICADE were assessed in a randomized, open-label study (Study Peds Crohn's) in 112 pediatric patients aged 6 to 17 years old with moderately to severely active Crohn's disease and an inadequate response to conventional therapies.
-The median age was 13 years and the median Pediatric Crohn's disease Activity Index (PCDAI) was 40 (on a scale of 0 to 100).
+The median age was 13 years and the median Pediatric Crohn's Disease Activity Index (PCDAI) was 40 (on a scale of 0 to 100).
 All patients were required to be on a stable dose of 6-MP, AZA, or MTX; 35% were also receiving corticosteroids at baseline.
 
 All patients received induction dosing of 5 mg/kg REMICADE at Weeks 0, 2, and 6.
@@ -110,7 +110,7 @@ Table 4 Response and remission in study peds Crohn's
 | Week 30 | 60%P-value <0.05 | 35% |
 | Week 54 | 56% | 24% |
 
-## 14.2 Ulcerative Colitis
+## 14.3 Ulcerative Colitis
 
 The safety and efficacy of REMICADE were assessed in 2 randomized, double-blind, placebo-controlled clinical studies in 728 patients with moderately to severely active ulcerative colitis (UC) (Mayo score5 6 to 12 [of possible range 0 to 12], Endoscopy subscore ≥2) with an inadequate response to conventional oral therapies (Studies UC I and UC II).
 Concomitant treatment with stable doses of aminosalicylates, corticosteroids and/or immunomodulatory agents was permitted.
@@ -189,7 +189,37 @@ Table 6 Proportion of patients in Study UC I with Mayo subscores indicating inac
 | Week 30 | 26% | 51% | 52% |
 | Week 54 | 21% | 50% | 51% |
 
-## 14.3 Rheumatoid Arthritis
+## 14.4 Pediatric Ulcerative Colitis
+
+The safety and effectiveness of REMICADE for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients aged 6 years and older with moderately to severely active ulcerative colitis who have had an inadequate response to conventional therapy are supported by evidence from adequate and well-controlled studies of REMICADE in adults.
+Additional safety and pharmacokinetic data were collected in an open-label pediatric UC trial in 60 pediatric patients aged 6 through 17 years (median age 14.5 years) with moderately to severely active ulcerative colitis (Mayo score of 6 to 12; Endoscopic subscore ≥ 2) and an inadequate response to conventional therapies.
+At baseline, the median Mayo score was 8, 53% of patients were receiving immunomodulator therapy (6-MP/AZA/MTX), and 62% of patients were receiving corticosteroids (median dose 0.5 mg/kg/day in prednisone equivalents).
+Discontinuation of immunomodulators and corticosteroid taper were permitted after Week 0.
+
+All patients received induction dosing of 5 mg/kg REMICADE at Weeks 0, 2, and 6.
+Patients who did not respond to REMICADE at Week 8 received no further REMICADE and returned for safety follow-up.
+At Week 8, 45 patients were randomized to a maintenance regimen of 5 mg/kg REMICADE given either every 8 weeks through Week 46 or every 12 weeks through Week 42.
+Patients were allowed to change to a higher dose and/or more frequent administration schedule if they experienced loss of response.
+
+Clinical response at Week 8 was defined as a decrease from baseline in the Mayo score by ≥ 30% and ≥ 3 points, including a decrease in the rectal bleeding subscore by ≥ 1 points or achievement of a rectal bleeding subscore of 0 or 1.
+
+Clinical remission at Week 8 was measured by the Mayo score, defined as a Mayo score of ≤2 points with no individual subscore >1.
+Clinical remission was also assessed at Week 8 and Week 54 using the Pediatric Ulcerative Colitis Activity Index (PUCAI)6 score and was defined by a PUCAI score of <10 points.
+
+Endoscopies were performed at baseline and at Week 8.
+A Mayo endoscopy subscore of 0 indicated normal or inactive disease and a subscore of 1 indicated mild disease (erythema, decreased vascular pattern, or mild friability).
+
+Of the 60 patients treated, 44 were in clinical response at Week 8.
+Of 32 patients taking concomitant immunomodulators at baseline, 23 achieved clinical response at Week 8, compared to 21 of 28 of those not taking concomitant immunomodulators at baseline.
+At Week 8, 24 of 60 patients were in clinical remission as measured by the Mayo score and 17 of 51 patients were in remission as measured by the PUCAI score.
+
+At Week 54, 8 of 21 patients in the every 8-week maintenance group and 4 of 22 patients in the every 12-week maintenance group achieved remission as measured by the PUCAI score.
+
+During maintenance phase, 23 of 45 randomized patients (9 in the every 8-week group and 14 in the every 12-week group) required an increase in their dose and/or increase in frequency of REMICADE administration due to loss of response.
+Nine of the 23 patients who required a change in dose had achieved remission at Week 54.
+Seven of those patients received the 10 mg/kg every 8-week dosing.
+
+## 14.5 Rheumatoid Arthritis
 
 The safety and efficacy of REMICADE were assessed in 2 multicenter, randomized, double-blind, pivotal trials: ATTRACT (Study RA I) and ASPIRE (Study RA II).
 Concurrent use of stable doses of folic acid, oral corticosteroids (≤10 mg/day) and/or non-steroidal anti-inflammatory drugs (NSAIDs) was permitted.
@@ -300,7 +330,7 @@ Approximately 80% of patients in all doses/schedules of REMICADE + MTX remained 
 In Study RA II, both REMICADE treatment groups showed greater improvement in HAQ-DI from baseline averaged over time through Week 54 compared to MTX alone; 0.7 for REMICADE + MTX vs. 0.6 for MTX alone (P≤0.001).
 No worsening in the SF-36 mental component summary score was observed.
 
-## 14.4 Ankylosing Spondylitis
+## 14.6 Ankylosing Spondylitis
 
 The safety and efficacy of REMICADE were assessed in a randomized, multicenter, double-blind, placebo-controlled study in 279 patients with active ankylosing spondylitis.
 Patients were between 18 and 74 years of age, and had ankylosing spondylitis as defined by the modified New York criteria for Ankylosing Spondylitis.4 Patients were to have had active disease as evidenced by both a Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) score >4 (possible range 0–10) and spinal pain >4 (on a Visual Analog Scale [VAS] of 0–10).
@@ -324,7 +354,7 @@ Table 10 Components of ankylosing spondylitis disease activity
 | BASFIBath Ankylosing Spondylitis Functional Index (BASFI), average of 10 questions | 5.8 | 5.6 | 5.7 | 3.6 | <0.001 |
 | InflammationInflammation, average of last 2 questions on the 6-question BASDAI | 6.9 | 5.8 | 6.9 | 3.4 | <0.001 |
 | Acute Phase Reactants |  |  |  |  |  |
-| Median CRPCRP normal range 0-1.0 mg/dL (mg/dL) | 1.7 | 1.5 | 1.5 | 0.4 | <0.001 |
+| Median CRPCRP normal range 0–1.0 mg/dL (mg/dL) | 1.7 | 1.5 | 1.5 | 0.4 | <0.001 |
 | Spinal Mobility (cm, Mean) |  |  |  |  |  |
 | Modified Schober's testSpinal mobility normal values: modified Schober's test: >4 cm; chest expansion:>6 cm; tragus to wall: <15 cm; lateral spinal flexion: >10 cm | 4.0 | 5.0 | 4.3 | 4.4 | 0.75 |
 | Chest expansion | 3.6 | 3.7 | 3.3 | 3.9 | 0.04 |
@@ -336,7 +366,7 @@ There was no change in the SF-36 mental component summary score in either the RE
 
 Results of this study were similar to those seen in a multicenter double-blind, placebo-controlled study of 70 patients with ankylosing spondylitis.
 
-## 14.5 Psoriatic Arthritis
+## 14.7 Psoriatic Arthritis
 
 Safety and efficacy of REMICADE were assessed in a multicenter, double-blind, placebo-controlled study in 200 adult patients with active psoriatic arthritis despite DMARD or NSAID therapy (≥5 swollen joints and ≥5 tender joints) with 1 or more of the following subtypes: arthritis involving DIP joints (n=49), arthritis mutilans (n=3), asymmetric peripheral arthritis (n=40), polyarticular arthritis (n=100), and spondylitis with peripheral arthritis (n=8).
 Patients also had plaque psoriasis with a qualifying target lesion ≥2 cm in diameter.
@@ -365,20 +395,20 @@ Table 11 Components of ACR 20 and percentage of patients with 1 or more joints w
 |  | Placebo |  | REMICADE 5mg/kgP<0.001 for percent change from baseline in all components of ACR 20 at Week 24, P<0.05 for % of patients with dactylitis, and P=0.004 for % of patients with enthesopathy at Week 24 |  |
 | Patients Randomized | (n=100) |  | (n=100) |  |
 | Parameter (medians) |  |  |  |  |
-| No. of Tender JointsScale 0-68 | 24 | 20 | 20 | 6 |
-| No. of Swollen JointsScale 0-66 | 12 | 9 | 12 | 3 |
+| No. of Tender JointsScale 0–68 | 24 | 20 | 20 | 6 |
+| No. of Swollen JointsScale 0–66 | 12 | 9 | 12 | 3 |
 | PainVisual Analog Scale (0=best, 10=worst) | 6.4 | 5.6 | 5.9 | 2.6 |
 | Physician's Global Assessment | 6.0 | 4.5 | 5.6 | 1.5 |
 | Patient's Global Assessment | 6.1 | 5.0 | 5.9 | 2.5 |
 | Disability Index (HAQ-DI)Health Assessment Questionnaire, measurement of 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities (0=best, 3=worst) | 1.1 | 1.1 | 1.1 | 0.5 |
-| CRP (mg/dL)Normal range 0-0.6 mg/dL | 1.2 | 0.9 | 1.0 | 0.4 |
+| CRP (mg/dL)Normal range 0–0.6 mg/dL | 1.2 | 0.9 | 1.0 | 0.4 |
 | % Patients with 1 or more digits with dactylitis | 41 | 33 | 40 | 15 |
 | % Patients with enthesopathy | 35 | 36 | 42 | 22 |
 
 Improvement in Psoriasis Area and Severity Index (PASI) in psoriatic arthritis patients with baseline body surface area (BSA) ≥3% (n=87 placebo, n=83 REMICADE) was achieved at Week 14, regardless of concomitant methotrexate use, with 64% of REMICADE-treated patients achieving at least 75% improvement from baseline vs. 2% of placebo-treated patients; improvement was observed in some patients as early as Week 2.
 At 6 months, the PASI 75 and PASI 90 responses were achieved by 60% and 39%, respectively, of patients receiving REMICADE compared to 1% and 0%, respectively, of patients receiving placebo.
 The PASI response was generally maintained through Week 54.
-[See also Clinical Studies (14.6)].
+[See also Clinical Studies (14.8)].
 
 Radiographic response
 
@@ -399,7 +429,7 @@ During the placebo-controlled portion of the trial (24 weeks), 54% of REMICADE-t
 REMICADE-treated patients also demonstrated greater improvement in the SF-36 physical and mental component summary scores than placebo-treated patients.
 The responses were maintained for up to 2 years in an open-label extension study.
 
-## 14.6 Plaque Psoriasis
+## 14.8 Plaque Psoriasis
 
 The safety and efficacy of REMICADE were assessed in 3 randomized, double-blind, placebo-controlled studies in patients 18 years of age and older with chronic, stable plaque psoriasis involving ≥10% BSA, a minimum PASI score of 12, and who were candidates for systemic therapy or phototherapy.
 Patients with guttate, pustular, or erythrodermic psoriasis were excluded from these studies.

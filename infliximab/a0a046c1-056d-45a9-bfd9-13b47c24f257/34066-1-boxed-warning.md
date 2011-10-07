@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNING: SERIOUS INFECTIONS and MALIGNANCY
 
 SERIOUS INFECTIONS
 
@@ -15,7 +15,7 @@ Reported infections include:
   Patients with histoplasmosis or other invasive fungal infections may present with disseminated, rather than localized, disease.
   Antigen and antibody testing for histoplasmosis may be negative in some patients with active infection.
   Empiric anti-fungal therapy should be considered in patients at risk for invasive fungal infections who develop severe systemic illness.
-- Bacterial, viral and other infections due to opportunistic pathogens.
+- Bacterial, viral and other infections due to opportunistic pathogens, including Legionella and Listeria.
 
 The risks and benefits of treatment with REMICADE should be carefully considered prior to initiating therapy in patients with chronic or recurrent infection.
 

@@ -1,41 +1,47 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Crohn's Disease or Fistulizing Crohn's Disease
+## 2.1 Crohn's Disease
 
 The recommended dose of REMICADE is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of adults with moderately to severely active Crohn's disease or fistulizing Crohn's disease.
 For adult patients who respond and then lose their response, consideration may be given to treatment with 10 mg/kg.
 Patients who do not respond by Week 14 are unlikely to respond with continued dosing and consideration should be given to discontinue REMICADE in these patients.
 
-The recommended dose of REMICADE for children with moderately to severely active Crohn's disease is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks.
+## 2.2 Pediatric Crohn's Disease
 
-## 2.2 Ulcerative Colitis
+The recommended dose of REMICADE for pediatric patients 6 years and older with moderately to severely active Crohn's disease is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks.
 
-The recommended dose of REMICADE is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of moderately to severely active ulcerative colitis.
+## 2.3 Ulcerative Colitis
 
-## 2.3 Rheumatoid Arthritis
+The recommended dose of REMICADE is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of adult patients with moderately to severely active ulcerative colitis.
+
+## 2.4 Pediatric Ulcerative Colitis
+
+The recommended dose of REMICADE for pediatric patients 6 years and older with moderately to severely active ulcerative colitis is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks.
+
+## 2.5 Rheumatoid Arthritis
 
 The recommended dose of REMICADE is 3 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 3 mg/kg every 8 weeks thereafter for the treatment of moderately to severely active rheumatoid arthritis.
 REMICADE should be given in combination with methotrexate.
 For patients who have an incomplete response, consideration may be given to adjusting the dose up to 10 mg/kg or treating as often as every 4 weeks bearing in mind that risk of serious infections is increased at higher doses [see Adverse Reactions (6.1)].
 
-## 2.4 Ankylosing Spondylitis
+## 2.6 Ankylosing Spondylitis
 
 The recommended dose of REMICADE is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 6 weeks thereafter for the treatment of active ankylosing spondylitis.
 
-## 2.5 Psoriatic Arthritis
+## 2.7 Psoriatic Arthritis
 
 The recommended dose of REMICADE is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of psoriatic arthritis.
 REMICADE can be used with or without methotrexate.
 
-## 2.6 Plaque Psoriasis
+## 2.8 Plaque Psoriasis
 
 The recommended dose of REMICADE is 5 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 5 mg/kg every 8 weeks thereafter for the treatment of chronic severe (i.e., extensive and/or disabling) plaque psoriasis.
 
-## 2.7 Monitoring to Assess Safety
+## 2.9 Monitoring to Assess Safety
 
 Prior to initiating REMICADE and periodically during therapy, patients should be evaluated for active tuberculosis and tested for latent infection [see Warnings and Precautions (5.1)].
 
-## 2.8 Administration Instructions Regarding Infusion Reactions
+## 2.10 Administration Instructions Regarding Infusion Reactions
 
 Adverse effects during administration of REMICADE have included flu-like symptoms, headache, dyspnea, hypotension, transient fever, chills, gastrointestinal symptoms, and skin rashes.
 Anaphylaxis might occur at any time during REMICADE infusion.
@@ -50,7 +56,7 @@ During or following infusion, patients who have severe infusion-related hypersen
 The management of severe infusion reactions should be dictated by the signs and symptoms of the reaction.
 Appropriate personnel and medication should be available to treat anaphylaxis if it occurs.
 
-## 2.9 General Considerations and Instructions for Preparation and Administration
+## 2.11 General Considerations and Instructions for Preparation and Administration
 
 REMICADE is intended for use under the guidance and supervision of a physician.
 The reconstituted infusion solution should be prepared by a trained medical professional using aseptic technique by the following procedure:

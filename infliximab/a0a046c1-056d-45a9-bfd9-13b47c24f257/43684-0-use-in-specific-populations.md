@@ -17,14 +17,30 @@ A decision should be made whether to discontinue nursing or to discontinue the d
 
 ## 8.4 Pediatric Use
 
-REMICADE is indicated for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients with moderately to severely active Crohn's disease who have had an inadequate response to conventional therapy [see Boxed WARNINGS, Warnings and Precautions (5), Indications and Usage (1.1), Dosage and Administration (2.1), Clinical Studies (14.1) and Adverse Reactions (6.1)].
+The safety and effectiveness of REMICADE have been established in pediatric patients 6 to 17 years of age for induction and maintenance treatment of Crohn's disease or ulcerative colitis.
+However, REMICADE has not been studied in children with Crohn's disease or ulcerative colitis <6 years of age.
 
-Remicade has been studied only in combination with conventional immunosuppressive therapy in children with Crohn's disease.
-REMICADE has not been studied in children with Crohn's disease <6 years of age.
-Use of REMICADE in the absence of other immunosuppressants may increase the likelihood of infliximab-specific antibody formation and increase the risk of developing hypersensitivity reactions [see Warnings and Precautions (5.7) and Adverse Reactions, Immunogenicity (6.1)].
+Pediatric Crohn's Disease
+
+REMICADE is indicated for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients with moderately to severely active Crohn's disease who have had an inadequate response to conventional therapy [see Boxed Warnings, Warnings and Precautions (5), Indications and Usage (1.2), Dosage and Administration (2.2), Clinical Studies (14.2) and Adverse Reactions (6.1)].
+
+REMICADE has been studied only in combination with conventional immunosuppressive therapy in pediatric Crohn's disease.
 The longer term (greater than 1 year) safety and effectiveness of REMICADE in pediatric Crohn's disease patients have not been established in clinical trials.
 
-Safety and effectiveness of REMICADE in pediatric patients with ulcerative colitis and plaque psoriasis have not been established.
+Pediatric Ulcerative Colitis
+
+The safety and effectiveness of REMICADE for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients aged 6 years and older with moderately to severely active ulcerative colitis who have had an inadequate response to conventional therapy are supported by evidence from adequate and well-controlled studies of REMICADE in adults.
+Additional safety and pharmacokinetic data were collected in 60 pediatric patients ages 6 years and older [see Clinical Pharmacology (12.3), Dosage and Administration (2.4), Adverse Reactions (6.1), and Clinical Studies, (14.4)].
+The effectiveness of REMICADE in inducing and maintaining mucosal healing could not be established.
+Although 41 patients had a Mayo endoscopy subscore of 0 or 1 at the Week 8 endoscopy, the induction phase was open-label and lacked a control group.
+Only 9 patients had an optional endoscopy at Week 54.
+
+In the pediatric UC trial, approximately half of the patients were on concomitant immunomodulators (AZA, 6-MP, MTX) at study start.
+Due to the risk of HSTCL, a careful risk-benefit assessment should be made when REMICADE is used in combination with other immunosuppressants.
+
+The longer term (greater than 1 year) safety and effectiveness of REMICADE in pediatric ulcerative colitis patients have not been established in clinical trials.
+
+Juvenile Rheumatoid Arthritis (JRA)
 
 The safety and efficacy of REMICADE in patients with juvenile rheumatoid arthritis (JRA) were evaluated in a multicenter, randomized, placebo-controlled, double-blind study for 14 weeks, followed by a double-blind, all-active treatment extension, for a maximum of 44 weeks.
 Patients with active JRA between the ages of 4 and 17 years who had been treated with MTX for at least 3 months were enrolled.
@@ -52,6 +68,6 @@ Other notable infections included primary varicella infection in 1 patient and h
 
 ## 8.5 Geriatric Use
 
-In rheumatoid arthritis and plaque psoriasis clinical trials, no overall differences were observed in effectiveness or safety in 181 patients with rheumatoid arthritis and 75 patients with plaque psoriasis, aged 65 or older who received REMICADE, compared to younger patients - although the incidence of serious adverse events in patients aged 65 or older was higher in both REMICADE and control groups compared to younger patients.
+In rheumatoid arthritis and plaque psoriasis clinical trials, no overall differences were observed in effectiveness or safety in 181 patients with rheumatoid arthritis and 75 patients with plaque psoriasis, aged 65 or older who received REMICADE, compared to younger patients - although the incidence of serious adverse reactions in patients aged 65 or older was higher in both REMICADE and control groups compared to younger patients.
 In Crohn's disease, ulcerative colitis, ankylosing spondylitis and psoriatic arthritis studies, there were insufficient numbers of patients aged 65 and over to determine whether they respond differently from patients aged 18 to 65.
 Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly [see Adverse Reactions (6.1)].
