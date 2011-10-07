@@ -2,4 +2,4 @@
 
 Rx only
 
-LAB-0430-01 November 2010
+LAB-0430-2.0 August 2011
