@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-## Budesonide inhalation suspension, 0.25 mg/2 mL Carton Text
+## Budesonide Inhalation Suspension, 0.25 mg/2 mL Carton Text
 
 NDC 0093-6815-73
 
@@ -14,7 +14,7 @@ Each unit-dose vial delivers 2 mL of a sterile suspension containing
 
 0.25 mg of micronized budesonide.
 
-Steri-Neb tm
+Steri-Neb TM
 
 brand of
 
@@ -37,7 +37,7 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## Budesonide inhalation suspension, 0.5 mg/2 mL Carton
+## Budesonide Inhalation Suspension, 0.5 mg/2 mL Carton Text
 
 NDC 0093-6816-73
 
@@ -51,7 +51,7 @@ Each unit-dose vial delivers 2 mL of a sterile suspension containing
 
 0.5 mg of micronized budesonide.
 
-Steri-Neb tm
+Steri-Neb TM
 
 brand of
 

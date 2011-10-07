@@ -1,10 +1,7 @@
-Please read this leaflet carefully before taking budesonide inhalation suspension.
+For inhalation only.
 
-It provides a summary of information about this medication.
-Following these instructions helps to ensure that you are using the medication correctly.
+Do not swallow.
 
-The medication named budesonide inhalation suspension is intended for inhalation use only with compressed air driven nebulizer systems, also known as jet nebulizers.
+Only use budesonide inhalation suspension with a jet nebulizer machine that is connected to an air compressor.
 
 Do not use with an ultrasonic nebulizer.
-
-For further information, ask your doctor or pharmacist.

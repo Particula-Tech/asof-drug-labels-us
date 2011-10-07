@@ -3,9 +3,11 @@
     "ANDA077519"
   ],
   "inn": "budesonide",
-  "labeler": "TEVA Pharmaceuticals USA",
+  "labeler": "Teva Pharmaceuticals USA Inc",
   "package_ndcs": [
+    "0093-6815-45",
     "0093-6815-73",
+    "0093-6816-45",
     "0093-6816-73"
   ],
   "products": [
