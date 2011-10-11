@@ -14,19 +14,19 @@ As illustrated in Table 4 and Figures 2 and 3, SANCTURA XR® demonstrated statis
 
 Table 4: Mean (SE) Change from Baseline in Urinary Frequency, Urge Incontinence Episodes and Void Volume in Study 1
 
-| Efficacy Endpoint a | Week | Placebo | SANCTURA XR® | P-Value |
+| Efficacy Endpointa | Week | Placebo | SANCTURA XR® | P-Value |
 | --- | --- | --- | --- | --- |
-| Urinary frequency / 24 hours |  | (N = 300) | (N = 292) |  |
+| Urinary frequency / 24 hours |  | (N=300) | (N=292) |  |
 | Mean Baseline | 0 | 12.7 (0.2) | 12.8 (0.2) |  |
 | Mean Change from Baseline | 1 | -1.2 (0.1) | -1.7 (0.1) | 0.0092 |
 |  | 4 | -1.6 (0.2) | -2.4 (0.2) | <0.0001 |
 |  | 12 | -2.0 (0.2) | -2.8 (0.2) | <0.0001 |
-| Urge incontinence episodes / week |  | (N = 300) | (N = 292) |  |
+| Urge incontinence episodes / week |  | (N=300) | (N=292) |  |
 | Mean Baseline | 0 | 29.0 (1.3) | 28.8 (1.3) |  |
 | Mean Change from Baseline | 1 | -8.7 (1.0) | -13.0 (0.9) | 0.0003 |
 |  | 4 | -12.2 (1.1) | -16.5 (1.2) | 0.0054 |
 |  | 12 | -13.5 (1.1) | -17.3 (1.2) | 0.0024 |
-| Urinary volume / void (mL) |  | (N = 300) | (N = 290) |  |
+| Urinary volume / void (mL) |  | (N=300) | (N=290) |  |
 | Mean Baseline | 0 | 155.9 (3.0) | 151.0 (2.9) |  |
 | Mean Change from Baseline | 1 | 12.1 (2.1) | 21.6 (2.8) | 0.0036 |
 |  | 4 | 17.2 (2.5) | 30.0 (3.1) | 0.0007 |
@@ -43,19 +43,19 @@ However, at Week 1, statistically significant reductions were seen in urinary in
 
 Table 5: Mean (SE) Change from Baseline in Urinary Frequency, Urge Incontinence Episodes and Void Volume in Study 2
 
-| Efficacy Endpoint a | Week | Placebo | SANCTURA XR® | P-Value |
+| Efficacy Endpointa | Week | Placebo | SANCTURA XR® | P-Value |
 | --- | --- | --- | --- | --- |
-| Urinary frequency / 24 hours |  | (N = 276) | (N = 267) |  |
+| Urinary frequency / 24 hours |  | (N=276) | (N=267) |  |
 | Mean Baseline | 0 | 12.9 (0.2) | 12.8 (0.2) |  |
 | Mean Change from Baseline | 1 | -1.2 (0.2) | -1.4 (0.2) | 0.0759 |
 |  | 4 | -1.7 (0.2) | -2.3 (0.2) | 0.0047 |
 |  | 12 | -1.8 (0.2) | -2.5 (0.2) | 0.0009 |
-| Urge incontinence episodes / week |  | (N = 276) | (N = 267) |  |
+| Urge incontinence episodes / week |  | (N=276) | (N=267) |  |
 | Mean Baseline | 0 | 28.3 (1.4) | 28.2 (1.2) |  |
 | Mean Change from Baseline | 1 | -7.3 (1.0) | -11.9 (1.0) | <0.0001 |
 |  | 4 | -10.6 (1.1) | -15.8 (1.1) | <0.0001 |
 |  | 12 | -11.3 (1.2) | -16.4 (1.3) | <0.0001 |
-| Urinary volume / void (mL) |  | (N = 276) | (N = 266) |  |
+| Urinary volume / void (mL) |  | (N=276) | (N=266) |  |
 | Mean Baseline | 0 | 151.8 (2.8) | 149.6 (2.9) |  |
 | Mean Change from Baseline | 1 | 11.9 (2.5) | 24.1 (2.4) | <0.0001 |
 |  | 4 | 19.6 (3.1) | 29.3 (3.0) | 0.0020 |

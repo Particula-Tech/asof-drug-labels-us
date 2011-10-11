@@ -12,4 +12,4 @@ extended release capsules)
 
 60 mg
 
-ALLERGAN®
+ALLERGAN ®

@@ -22,7 +22,7 @@ In patients being treated for narrow-angle glaucoma, SANCTURA XR® should only b
 
 ## 5.5 Patients with Severe Renal Impairment
 
-SANCTURA XR® is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/minute) (see Dosage and Administration (2), Use in Specific Populations (8), and Clinical Pharmacology (12)).
+SANCTURA XR® is not recommended for use in patients with severe renal impairment (creatinine clearance < 30 mL/minute) (see Dosage and Administration (2), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)).
 
 ## 5.6 Alcohol Interaction
 

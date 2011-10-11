@@ -4,20 +4,21 @@ Trospium is metabolized by ester hydrolysis and excreted by the kidneys through 
 Based on in vitro data, no clinically relevant metabolic drug-drug interactions are anticipated with SANCTURA XR®.
 However, some drugs which are actively secreted by the kidney may interact with SANCTURA XR® by competing for renal tubular secretion.
 
-The concomitant use of SANCTURA XR® with other antimuscarinic agents that produce dry mouth and constipation and other anticholinergic effects may increase the frequency and/or severity of such effects.
-SANCTURA XR® capsules may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on GI motility.
+The concomitant use of SANCTURA XR® with other antimuscarinic agents that produce dry mouth, constipation, and other anticholinergic effects may increase the frequency and/or severity of such effects.
+SANCTURA XR® may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility.
 
 ## 7.1 Digoxin
 
-Concomitant use of trospium chloride 20mg BID and digoxin did not affect the pharmacokinetics of either drug.
+Concomitant use of trospium chloride 20mg twice daily and digoxin did not affect the pharmacokinetics of either drug (see Pharmacokinetics (12.3)).
 
 ## 7.2 Antacid
 
-A drug interaction study was conducted to evaluate the effect of an antacid containing aluminum hydroxide and magnesium carbonate on the PK of SANCTURA XR® (n =11).
-While the systemic exposure of trospium on average was comparable with and without antacid, 5 individuals demonstrated either an increase or decrease in trospium exposure, in presence of antacid.
-The clinical relevance of these findings is not known.
+While the systemic exposure of trospium on average was comparable with and without antacid containing aluminum hydroxide and magnesium carbonate, 5 out of 11 individuals in a drug interaction study demonstrated either an increase or decrease in trospium exposure, in presence of antacid.
+The clinical relevance of these findings is not known (see Pharmacokinetics (12.3)).
 
-## 7.3 Food Interaction
+## 7.3 Metformin
 
-Administration of SANCTURA XR® immediately after a high fat-content meal reduced the oral bioavailability of trospium chloride by 35% for AUC(0-Tlast) and by 60% for Cmax.
-It is therefore recommended that SANCTURA XR® be taken on an empty stomach at least one hour before a meal.
+Co-administration of 500 mg metformin immediate release tablets twice daily reduced the steady-state systemic exposure of trospium by approximately 29% for mean AUC0-24 and by 34% for mean Cmax.
+The effect of a decrease in trospium exposure on the efficacy of SANCTURA XR® is unknown.
+The steady-state pharmacokinetics of metformin were comparable when administered with or without 60 mg SANCTURA XR® once daily under fasted condition.
+The effect of metformin at higher doses on trospium PK is unknown (see Pharmacokinetics (12.3)).

@@ -39,8 +39,7 @@ Tell your doctor about all of your medical conditions including if you:
   It is not known if SANCTURA XR® can harm your unborn baby.
 - are breastfeeding.
   It is not known if SANCTURA XR® passes into breast milk and if it can harm your baby.
-
-You should talk to your doctor about the best way to feed your baby if you are taking SANCTURA XR®.
+  You should talk to your doctor about the best way to feed your baby if you are taking SANCTURA XR®.
 
 Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
 SANCTURA XR® and certain other medicines can interact and make some side effects worse.
@@ -102,13 +101,13 @@ You can also call Allergan's product information department at 1-800-433-8871.
 What are the ingredients in SANCTURA XR®?
 
 Active Ingredient: trospium chloride.
-
 Inactive Ingredients: sugar spheres, methacrylic acid copolymer, ethyl cellulose, hydroxypropyl methylcellulose, triethyl citrate, talc, and Opadry® white.
 
 Manufactured for: Allergan, Inc. Irvine, CA 92612, U.S.A.
 
 Manufactured by: Catalent Pharma Solutions, Inc. Somerset, NJ 08873, U.S.A.
 
-© 2011 Allergan, Inc. Irvine, CA 92612, U.S.A. ® mark owned by Allergan, Inc. Opadry is a registered trademark of BPSI Holdings, Inc.
+© 2011 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Opadry® is a registered trademark of BPSI Holdings, Inc. Glucophage® is a registered trademark of Bristol Myers Squibb.
+Made in the U.S.A.
 
-71996US14C
+71966US15C
