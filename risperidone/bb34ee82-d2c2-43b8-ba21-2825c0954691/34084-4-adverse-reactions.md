@@ -6,7 +6,7 @@ The following are discussed in more detail in other sections of the labeling:
 - Cerebrovascular adverse events, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
 - Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
 - Tardive dyskinesia [see Warnings and Precautions (5.4)]
-- Hyperglycemia and diabetes mellitus [see Warnings and Precautions (5.5)]
+- Metabolic changes [see Warnings and Precautions (5.5)]
 - Hyperprolactinemia [see Warnings and Precautions (5.6)]
 - Orthostatic hypotension [see Warnings and Precautions (5.7)]
 - Leukopenia/Neutropenia and Agranulocytosis [see Warnings and Precautions (5.8)]
@@ -59,9 +59,9 @@ The majority of all adverse reactions were mild to moderate in severity.
 
 ## 6.1 Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials - Schizophrenia
 
-Table 1 lists the adverse reactions reported in 2% or more of RISPERDAL® CONSTA®-treated patients with schizophrenia in one 12-week double-blind, placebo-controlled trial.
+Table 4 lists the adverse reactions reported in 2% or more of RISPERDAL® CONSTA®-treated patients with schizophrenia in one 12-week double-blind, placebo-controlled trial.
 
-Table 1.
+Table 4.
 Adverse Reactions in ≥ 2% of RISPERDAL® CONSTA®-Treated Patients with Schizophrenia in a 12-Week Double-Blind, Placebo-Controlled Trial
 
 | Adverse Reaction | (N=99) | (N=103) | (N=98) |
@@ -108,9 +108,9 @@ Adverse Reactions in ≥ 2% of RISPERDAL® CONSTA®-Treated Patients with Schizo
 
 ## 6.2 Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials – Bipolar Disorder
 
-Table 2 lists the treatment-emergent adverse reactions reported in 2% or more of RISPERDAL® CONSTA®-treated patients in the 24-month double-blind, placebo-controlled treatment period of the trial assessing the efficacy and safety of RISPERDAL® CONSTA® when administered as monotherapy for maintenance treatment in patients with Bipolar I Disorder.
+Table 5 lists the treatment-emergent adverse reactions reported in 2% or more of RISPERDAL® CONSTA®-treated patients in the 24-month double-blind, placebo-controlled treatment period of the trial assessing the efficacy and safety of RISPERDAL® CONSTA® when administered as monotherapy for maintenance treatment in patients with Bipolar I Disorder.
 
-Table 2.
+Table 5.
 Adverse Reactions in ≥ 2% of Patients with Bipolar I Disorder Treated with RISPERDAL® CONSTA® as Monotherapy in a 24-Month Double-Blind, Placebo-Controlled Trial
 
 | System/Organ Class Adverse Reaction | RISPERDAL® CONSTA® (N=154) | Placebo (N=149) |
@@ -123,9 +123,9 @@ Adverse Reactions in ≥ 2% of Patients with Bipolar I Disorder Treated with RIS
 | Vascular disorders |  |  |
 | Hypertension | 3 | 1 |
 
-Table 3 lists the treatment-emergent adverse reactions reported in 4% or more of patients in the 52-week double-blind, placebo-controlled treatment phase of a trial assessing the efficacy and safety of RISPERDAL® CONSTA® when administered as adjunctive maintenance treatment in patients with bipolar disorder.
+Table 6 lists the treatment-emergent adverse reactions reported in 4% or more of patients in the 52-week double-blind, placebo-controlled treatment phase of a trial assessing the efficacy and safety of RISPERDAL® CONSTA® when administered as adjunctive maintenance treatment in patients with bipolar disorder.
 
-Table 3.
+Table 6.
 Adverse Reactions in ≥ 4% of Patients with Bipolar Disorder Treated with RISPERDAL® CONSTA® as Adjunctive Therapy in a 52-Week Double-Blind, Placebo-Controlled Trial
 
 | System/Organ Class Adverse Reaction | RISPERDAL® CONSTA® + Treatment as UsualPatients received double-blind RISPERDAL® CONSTA® or placebo in addition to continuing their treatment as usual, which included mood stabilizers, antidepressants, and/or anxiolytics. (N=72) | Placebo + Treatment as Usual (N=67) |
@@ -269,15 +269,7 @@ Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to t
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
 
-## 6.6 Changes in Body Weight
-
-In the 12-week double-blind, placebo-controlled trial in patients with schizophrenia, 9% of patients treated with RISPERDAL® CONSTA®, compared with 6% of patients treated with placebo, experienced a weight gain of >7% of body weight at endpoint.
-
-In the 24-month double-blind, placebo-controlled treatment period of a trial assessing the efficacy and safety of RISPERDAL® CONSTA® when administered as monotherapy for maintenance treatment in patients with bipolar I disorder, 11.6% of patients treated with RISPERDAL® CONSTA® compared with 2.8% of patients treated with placebo experienced a weight gain of >7% of body weight at endpoint.
-
-In the 52-week double-blind, placebo-controlled trial in patients with bipolar disorder, 26.8% of patients treated with RISPERDAL® CONSTA® as adjunctive treatment in addition to continuing their treatment as usual, compared with 27.3% of patients treated with placebo in addition to continuing their treatment as usual, experienced a weight gain of >7% of body weight at endpoint.
-
-## 6.7 Changes in ECG
+## 6.6 Changes in ECG
 
 The electrocardiograms of 202 schizophrenic patients treated with 25 mg or 50 mg RISPERDAL® CONSTA® and 98 schizophrenic patients treated with placebo in the 12-week double-blind, placebo-controlled trial were evaluated.
 Compared with placebo, there were no statistically significant differences in QTc intervals (using Fridericia's and linear correction factors) during treatment with RISPERDAL® CONSTA®.
@@ -288,7 +280,7 @@ There were no clinically relevant differences in QTc intervals (using Fridericia
 The electrocardiograms of 85 patients with bipolar disorder were evaluated in the 52-week double-blind, placebo-controlled trial.
 There were no statistically significant differences in QTc intervals (using Fridericia's and linear correction factors) during treatment with RISPERDAL® CONSTA® 25 mg, 37.5 mg, or 50 mg when administered as adjunctive treatment in addition to continuing treatment as usual compared to placebo.
 
-## 6.8 Pain Assessment and Local Injection Site Reactions
+## 6.7 Pain Assessment and Local Injection Site Reactions
 
 The mean intensity of injection pain reported by patients with schizophrenia using a visual analog scale (0 = no pain to 100 = unbearably painful) decreased in all treatment groups from the first to the last injection (placebo: 16.7 to 12.6; 25 mg: 12.0 to 9.0; 50 mg: 18.2 to 11.8).
 After the sixth injection (Week 10), investigator ratings indicated that 1% of patients treated with 25 mg or 50 mg RISPERDAL® CONSTA® experienced redness, swelling, or induration at the injection site.
@@ -298,7 +290,7 @@ Clinician ratings indicated that only mild redness, swelling, or induration at t
 All ratings returned to baseline at the predose assessment of the next injection 2 weeks later.
 No moderate or severe reactions were observed in any subject.
 
-## 6.9 Postmarketing Experience
+## 6.8 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, blood cholesterol increased, blood triglycerides increased, diabetes mellitus, diabetic ketoacidosis in patients with impaired glucose metabolism, drug withdrawal syndrome neonatal, dysgeusia, hypoglycemia, hypothermia, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, priapism, QT prolongation, sleep apnea syndrome, thrombocytopenia, urinary retention, and water intoxication.
 In addition, the following adverse reactions have been observed during postapproval use of RISPERDAL® CONSTA®: cerebrovascular disorders, including cerebrovascular accidents, and diabetes mellitus aggravated.

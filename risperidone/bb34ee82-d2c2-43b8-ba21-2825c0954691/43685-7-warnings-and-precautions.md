@@ -48,7 +48,13 @@ The need for continued treatment should be reassessed periodically.
 If signs and symptoms of tardive dyskinesia appear in a patient treated with RISPERDAL® CONSTA®, drug discontinuation should be considered.
 However, some patients may require treatment with RISPERDAL® CONSTA® despite the presence of the syndrome.
 
-## 5.5 Hyperglycemia and Diabetes Mellitus
+## 5.5 Metabolic Changes
+
+Atypical antipsychotic drugs have been associated with metabolic changes that may increase cardiovascular/cerebrovascular risk.
+These metabolic changes include hyperglycemia, dyslipidemia, and body weight gain.
+While all of the drugs in the class have been shown to produce some metabolic changes, each drug has its own specific risk profile.
+
+Hyperglycemia and Diabetes Mellitus
 
 Hyperglycemia and diabetes mellitus, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, have been reported in patients treated with atypical antipsychotics including RISPERDAL®.
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
@@ -61,6 +67,68 @@ Patients with risk factors for diabetes mellitus (e.g., obesity, family history 
 Any patient treated with atypical antipsychotics, including RISPERDAL®, should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics, including RISPERDAL®, should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic, including RISPERDAL®, was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of RISPERDAL®.
+
+Pooled data from 3 double-blind, placebo-controlled studies in subjects with schizophrenia and 4 double-blind, placebo-controlled monotherapy studies in subjects with bipolar mania with oral risperidone are presented in Table 1.
+
+Table 1.
+Change in Random Glucose From Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects With Schizophrenia or Bipolar Mania With Oral Risperidone
+
+|  | Placebo | 1–8 mg/day | >8–16 mg/day |
+| --- | --- | --- | --- |
+|  |  | RISPERDAL® |  |
+|  | Mean change from baseline (mg/dL) |  |  |
+|  | n=555 | n=748 | n=164 |
+| Serum Glucose | -1.4 | 0.8 | 0.6 |
+|  | Proportion of patients with shifts |  |  |
+| Serum Glucose | 0.6% | 0.4% | 0% |
+| (<140 mg/dL to ≥200 mg/dL) | (3/525) | (3/702) | (0/158) |
+
+In longer-term, controlled and uncontrolled studies in adult subjects, RISPERDAL® was associated with a mean change in glucose of +2.8 mg/dL at Week 24 (n=151) and +4.1 mg/dL at Week 48 (n=50).
+
+Dyslipidemia
+
+Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics.
+
+Pooled data from 7 placebo-controlled, 3- to 8- week, fixed- or flexible-dose studies in adult subjects with schizophrenia or bipolar mania are presented in Table 2.
+
+Table 2.
+Change in Random Lipids From Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects With Schizophrenia or Bipolar Mania With Oral Risperidone
+
+|  | Placebo | 1–8 mg/day | >8–16 mg/day |
+| --- | --- | --- | --- |
+|  |  | RISPERDAL® |  |
+|  | Mean change from baseline (mg/dL) |  |  |
+| Cholesterol | n=559 | n=742 | n=156 |
+| Change from baseline | 0.6 | 6.9 | 1.8 |
+| Triglycerides | n=183 | n=307 | n=123 |
+| Change from baseline | -17.4 | -4.9 | -8.3 |
+|  | Proportion of patients With Shifts |  |  |
+| Cholesterol | 2.7% | 4.3% | 6.3% |
+| (<200 mg/dL to ≥240 mg/dL) | (10/368) | (22/516) | (6/96) |
+| Triglycerides | 1.1% | 2.7% | 2.5% |
+| (<500 mg/dL to ≥500 mg/dL) | (2/180) | (8/301) | (3/121) |
+
+In longer-term, controlled and uncontrolled studies, RISPERDAL® was associated with a mean change in (a) non-fasting cholesterol of +4.4 mg/dL at Week 24 (n=231) and +5.5 mg/dL at Week 48 (n=86); and (b) non-fasting triglycerides of +19.9 mg/dL at Week 24 (n=52).
+
+Weight Gain
+
+Weight gain has been observed with atypical antipsychotic use.
+Clinical monitoring of weight is recommended.
+
+Data from a placebo-controlled, 12-week, fixed-dose study in adult subjects with schizophrenia are presented in Table 3.
+
+Table 3.
+Mean Change in Body Weight (kg) and the Proportion of Subjects With ≥7% Gain in Body Weight From a Placebo-Controlled, 12-Week, Fixed-Dose Study in Adult Subjects With Schizophrenia
+
+|  | Placebo (n=83) | 25 mg (n=90) | 50 mg (n=87) |
+| --- | --- | --- | --- |
+|  |  | RISPERDAL® CONSTA® |  |
+| Weight (kg) |  |  |  |
+| Change from baseline | -1.4 | 0.5 | 1.2 |
+| Weight Gain |  |  |  |
+| ≥7% increase from baseline | 6% | 10% | 8% |
+
+In an uncontrolled, longer-term, open-label study, RISPERDAL® CONSTA® was associated with a mean change in weight of +2.1 kg at Week 24 (n=268) and +2.8 kg at Week 50 (n=199).
 
 ## 5.6 Hyperprolactinemia
 
@@ -116,7 +184,7 @@ RISPERDAL® CONSTA® and other antipsychotic drugs should be used cautiously in 
 
 ## 5.12 Priapism
 
-Priapism has been reported during postmarketing surveillance [see Adverse Reactions (6.9)].
+Priapism has been reported during postmarketing surveillance [see Adverse Reactions (6.8)].
 Severe priapism may require surgical intervention.
 
 ## 5.13 Thrombotic Thrombocytopenic Purpura (TTP)
@@ -134,7 +202,7 @@ Caution is advised when prescribing RISPERDAL® CONSTA® for patients who will b
 ## 5.15 Administration
 
 RISPERDAL® CONSTA® should be injected into the deltoid or gluteal muscle, and care must be taken to avoid inadvertent injection into a blood vessel.
-[see Dosage and Administration (2) and Adverse Reactions (6.8)]
+[see Dosage and Administration (2) and Adverse Reactions (6.7)]
 
 ## 5.16 Antiemetic Effect
 
