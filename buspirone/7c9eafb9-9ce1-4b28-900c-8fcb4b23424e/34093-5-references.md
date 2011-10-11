@@ -4,4 +4,4 @@
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED DECEMBER 2010 BUSPAS:R10ppt
+REVISED SEPTEMBER 2011 BUSPAS:R12ppt

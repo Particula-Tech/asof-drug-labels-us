@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL - 5 mg
 
 NDC 0378-1140-01
 
-Buspirone HCl Tablets, USP 5 mg
+busPIRone HCl Tablets, USP 5 mg
 
 Rx only 100 TABLETS
 
@@ -23,13 +23,13 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 www.mylan.com
 
-RM1140A5
+RM1140A6
 
 PRINCIPAL DISPLAY PANEL - 10 mg
 
 NDC 0378-1150-01
 
-Buspirone HCl Tablets, USP 10 mg
+busPIRone HCl Tablets, USP 10 mg
 
 Rx only 100 TABLETS
 
@@ -50,13 +50,13 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 www.mylan.com
 
-RM1150A5
+RM1150A6
 
 PRINCIPAL DISPLAY PANEL - 15 mg
 
 NDC 0378-1165-91
 
-Buspirone HCl Tablets, USP 15 mg
+busPIRone HCl Tablets, USP 15 mg
 
 PHARMACIST: Dispense the accompanying Patient Instruction Sheet to each patient.
 
@@ -79,13 +79,13 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 www.mylan.com
 
-RM1165D5
+RM1165D6
 
 PRINCIPAL DISPLAY PANEL - 30 mg
 
 NDC 0378-1175-91
 
-Buspirone HCl Tablets, USP 30 mg
+busPIRone HCl Tablets, USP 30 mg
 
 PHARMACIST: Dispense the accompanying Patient Instruction Sheet to each patient.
 
