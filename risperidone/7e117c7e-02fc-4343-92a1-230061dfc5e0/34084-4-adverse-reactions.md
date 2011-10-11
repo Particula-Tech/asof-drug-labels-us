@@ -6,7 +6,7 @@ The following are discussed in more detail in other sections of the labeling:
 - Cerebrovascular adverse events, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
 - Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
 - Tardive dyskinesia [see Warnings and Precautions (5.4)]
-- Hyperglycemia and diabetes mellitus [see Warnings and Precautions (5.5)]
+- Metabolic changes [see Warnings and Precautions (5.5)]
 - Hyperprolactinemia [see Warnings and Precautions (5.6)]
 - Orthostatic hypotension [see Warnings and Precautions (5.7)]
 - Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.8)]
@@ -44,9 +44,9 @@ The majority of all adverse reactions were mild to moderate in severity.
 
 Adult Patients with Schizophrenia
 
-Table 1 lists the adverse reactions reported in 1% or more of RISPERDAL®-treated adult patients with schizophrenia in three 4- to 8-week, double-blind, placebo-controlled trials.
+Table 4 lists the adverse reactions reported in 1% or more of RISPERDAL®-treated adult patients with schizophrenia in three 4- to 8-week, double-blind, placebo-controlled trials.
 
-Table 1.
+Table 4.
 Adverse Reactions in ≥1% of RISPERDAL®-Treated Adult Patients with Schizophrenia in Double-Blind, Placebo-Controlled Trials
 
 | System/Organ Class Adverse Reaction | 2–8 mg per day (N=366) | >8–16 mg per day (N=198) | Placebo (N=225) |
@@ -130,9 +130,9 @@ Adverse Reactions in ≥1% of RISPERDAL®-Treated Adult Patients with Schizophre
 
 Pediatric Patients with Schizophrenia
 
-Table 2 lists the adverse reactions reported in 5% or more of RISPERDAL®-treated pediatric patients with schizophrenia in a 6-week double-blind, placebo-controlled trial.
+Table 5 lists the adverse reactions reported in 5% or more of RISPERDAL®-treated pediatric patients with schizophrenia in a 6-week double-blind, placebo-controlled trial.
 
-Table 2.
+Table 5.
 Adverse Reactions in ≥5% of RISPERDAL®-Treated Pediatric Patients with Schizophrenia in a Double-Blind Trial
 
 | System/Organ Class Adverse Reaction | 1–3 mg per day (N=55) | 4–6 mg per day (N=51) | Placebo (N=54) |
@@ -156,9 +156,9 @@ Adverse Reactions in ≥5% of RISPERDAL®-Treated Pediatric Patients with Schizo
 
 Adult Patients with Bipolar Mania
 
-Table 3 lists the adverse reactions reported in 1% or more of RISPERDAL®-treated adult patients with bipolar mania in four 3-week, double-blind, placebo-controlled monotherapy trials.
+Table 6 lists the adverse reactions reported in 1% or more of RISPERDAL®-treated adult patients with bipolar mania in four 3-week, double-blind, placebo-controlled monotherapy trials.
 
-Table 3.
+Table 6.
 Adverse Reactions in ≥1% of RISPERDAL®-Treated Adult Patients with Bipolar Mania in Double-Blind, Placebo-Controlled Monotherapy Trials
 
 | System/Organ Class Adverse Reaction | RISPERDAL® 1–6 mg per day (N=448) | Placebo (N=424) |
@@ -197,9 +197,9 @@ Adverse Reactions in ≥1% of RISPERDAL®-Treated Adult Patients with Bipolar Ma
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Acne | 1 | 0 |
 
-Table 4 lists the adverse reactions reported in 2% or more of RISPERDAL®-treated adult patients with bipolar mania in two 3-week, double-blind, placebo-controlled adjuvant therapy trials.
+Table 7 lists the adverse reactions reported in 2% or more of RISPERDAL®-treated adult patients with bipolar mania in two 3-week, double-blind, placebo-controlled adjuvant therapy trials.
 
-Table 4.
+Table 7.
 Adverse Reactions in ≥2% of RISPERDAL®-Treated Adult Patients with Bipolar Mania in Double-Blind, Placebo-Controlled Adjuvant Therapy Trials
 
 | System/Organ Class Adverse Reaction | RISPERDAL® + Mood Stabilizer (N=127) | Placebo + Mood Stabilizer (N=126) |
@@ -241,9 +241,9 @@ Adverse Reactions in ≥2% of RISPERDAL®-Treated Adult Patients with Bipolar Ma
 
 Pediatric Patients with Bipolar Mania
 
-Table 5 lists the adverse reactions reported in 5% or more of RISPERDAL®-treated pediatric patients with bipolar mania in a 3-week double-blind, placebo-controlled trial.
+Table 8 lists the adverse reactions reported in 5% or more of RISPERDAL®-treated pediatric patients with bipolar mania in a 3-week double-blind, placebo-controlled trial.
 
-Table 5.
+Table 8.
 Adverse Reactions in ≥5% of RISPERDAL®-Treated Pediatric Patients with Bipolar Mania in Double-Blind, Placebo-Controlled Trials
 
 | System/Organ Class Adverse Reaction | 0.5–2.5 mg per day (N=50) | 3–6 mg per day (N=61) | Placebo (N=58) |
@@ -279,9 +279,9 @@ Adverse Reactions in ≥5% of RISPERDAL®-Treated Pediatric Patients with Bipola
 
 ## 6.3 Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials - Autistic Disorder
 
-Table 6 lists the adverse reactions reported in 5% or more of RISPERDAL®-treated pediatric patients treated for irritability associated with autistic disorder in two 8-week, double-blind, placebo-controlled trials.
+Table 9 lists the adverse reactions reported in 5% or more of RISPERDAL®-treated pediatric patients treated for irritability associated with autistic disorder in two 8-week, double-blind, placebo-controlled trials.
 
-Table 6.
+Table 9.
 Adverse Reactions in ≥5% of RISPERDAL®-Treated Pediatric Patients Treated for Irritability Associated with Autistic Disorder in Double-Blind, Placebo-Controlled Trials
 
 | System/Organ Class Adverse Reaction | RISPERDAL® 0.5–4.0 mg per day (N=76) | Placebo (N=80) |
@@ -404,7 +404,7 @@ Schizophrenia - Adults
 Approximately 7% (39/564) of RISPERDAL®-treated patients in double-blind, placebo-controlled trials discontinued treatment due to an adverse event, compared with 4% (10/225) who were receiving placebo.
 The adverse reactions associated with discontinuation in 2 or more RISPERDAL®-treated patients were:
 
-Table 7.
+Table 10.
 Adverse Reactions Associated With Discontinuation in 2 or More RISPERDAL®-Treated Adult Patients in Schizophrenia Trials
 
 | Adverse Reaction | 2–8 mg/day (N=366) | >8–16 mg/day (N=198) | Placebo (N=225) |
@@ -433,7 +433,7 @@ Bipolar Mania - Adults
 In double-blind, placebo-controlled trials with RISPERDAL® as monotherapy, approximately 6% (25/448) of RISPERDAL®-treated patients discontinued treatment due to an adverse event, compared with approximately 5% (19/424) of placebo-treated patients.
 The adverse reactions associated with discontinuation in RISPERDAL®-treated patients were:
 
-Table 8.
+Table 11.
 Adverse Reactions Associated With Discontinuation in 2 or More RISPERDAL®-Treated Adult Patients in Bipolar Mania Clinical Trials
 
 | Adverse Reaction | RISPERDAL® 1–6 mg/day (N=448) | Placebo (N=424) |
@@ -485,14 +485,7 @@ Other Adverse Reactions
 Adverse event data elicited by a checklist for side effects from a large study comparing 5 fixed doses of RISPERDAL® (1, 4, 8, 12, and 16 mg/day) were explored for dose-relatedness of adverse events.
 A Cochran-Armitage Test for trend in these data revealed a positive trend (p<0.05) for the following adverse reactions: somnolence, vision abnormal, dizziness, palpitations, weight increase, erectile dysfunction, ejaculation disorder, sexual function abnormal, fatigue, and skin discoloration.
 
-## 6.7 Changes in Body Weight
-
-The proportions of RISPERDAL® and placebo-treated adult patients with schizophrenia meeting a weight gain criterion of ≥ 7% of body weight were compared in a pool of 6- to 8-week, placebo-controlled trials, revealing a statistically significantly greater incidence of weight gain for RISPERDAL® (18%) compared to placebo (9%).
-In a pool of placebo-controlled 3-week studies in adult patients with acute mania, the incidence of weight increase of ≥ 7% at endpoint was comparable in the RISPERDAL® (2.5%) and placebo (2.4%) groups, and was slightly higher in the active-control group (3.5%).
-
-Changes in body weight were also evaluated in pediatric patients [see Use in Specific Populations (8.4)]
-
-## 6.8 Changes in ECG
+## 6.7 Changes in ECG
 
 Between-group comparisons for pooled placebo-controlled trials in adults revealed no statistically significant differences between risperidone and placebo in mean changes from baseline in ECG parameters, including QT, QTc, and PR intervals, and heart rate.
 When all RISPERDAL® doses were pooled from randomized controlled trials in several indications, there was a mean increase in heart rate of 1 beat per minute compared to no change for placebo patients.
@@ -505,7 +498,7 @@ There were no other notable ECG changes.
 In a placebo-controlled acute mania trial in children and adolescents (aged 10 – 17 years), there were no significant changes in ECG parameters, other than the effect of RISPERDAL® to transiently increase pulse rate (< 6 beats per minute).
 In two controlled schizophrenia trials in adolescents (aged 13 – 17 years), there were no clinically meaningful changes in ECG parameters including corrected QT intervals between treatment groups or within treatment groups over time.
 
-## 6.9 Postmarketing Experience
+## 6.8 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, blood cholesterol increased, blood triglycerides increased, diabetes mellitus, diabetic ketoacidosis in patients with impaired glucose metabolism, drug withdrawal syndrome neonatal, dysgeusia, hypoglycemia, hypothermia, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, priapism, QT prolongation, sleep apnea syndrome, thrombocytopenia, urinary retention, and water intoxication.
 
