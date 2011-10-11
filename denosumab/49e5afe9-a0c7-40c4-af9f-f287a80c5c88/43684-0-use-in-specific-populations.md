@@ -2,13 +2,12 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category C
+Pregnancy Category C
 
 There are no adequate and well-controlled studies of Prolia in pregnant women.
 In genetically engineered mice in which RANK ligand (RANKL) was turned off by gene removal (a “knockout mouse”), absence of RANKL (the target of denosumab) caused fetal lymph node agenesis and led to postnatal impairment of dentition and bone growth.
 Pregnant RANKL knockout mice also showed altered maturation of the maternal mammary gland, leading to impaired lactation postpartum [see Use in Specific Populations (8.3)].
 
-Prolia is approved only for use in postmenopausal women.
 Prolia should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Women who become pregnant during Prolia treatment are encouraged to enroll in Amgen's Pregnancy Surveillance Program.
 Patients or their physicians should call 1-800-77-AMGEN (1-800-772-6436) to enroll.
@@ -32,7 +31,7 @@ Prolia is not recommended in pediatric patients.
 The safety and effectiveness of Prolia in pediatric patients have not been established.
 
 Treatment with Prolia may impair bone growth in children with open growth plates and may inhibit eruption of dentition.
-In neonatal rats, inhibition of RANKL (the target of Prolia therapy) with a construct of osteoprotegerin bound to Fc (OPG-Fc) at doses ≤10 mg/kg was associated with inhibition of bone growth and tooth eruption.
+In neonatal rats, inhibition of RANKL (the target of Prolia therapy) with a construct of osteoprotegerin bound to Fc (OPG-Fc) at doses ≤ 10 mg/kg was associated with inhibition of bone growth and tooth eruption.
 Adolescent primates dosed with denosumab at 10 and 50 times (10 and 50 mg/kg dose) higher than the recommended human dose of 60 mg administered once every 6 months, based on body weight (mg/kg), had abnormal growth plates [see Nonclinical Toxicology (13.2)].
 
 ## 8.5 Geriatric Use
@@ -44,10 +43,10 @@ No overall differences in safety or efficacy were observed between these patient
 
 No dose adjustment is necessary in patients with renal impairment.
 
-In clinical studies, patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis were at greater risk of developing hypocalcemia.
+In clinical studies, patients with severe renal impairment (CrCL < 30 mL/min) or receiving dialysis were at greater risk of developing hypocalcemia.
 Consider the benefit-risk profile when administering Prolia to patients with severe renal impairment or receiving dialysis.
 Clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended.
-Adequate intake of calcium and vitamin D is important in patients with severe renal impairment or receiving dialysis [see Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)].
+Adequate intake of calcium and vitamin D is important in patients with severe renal impairment or receiving dialysis [see Warnings and Precautions (5.2), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

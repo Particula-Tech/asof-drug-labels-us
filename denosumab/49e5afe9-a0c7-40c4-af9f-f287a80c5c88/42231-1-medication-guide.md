@@ -1,10 +1,10 @@
 # MEDICATION GUIDE
 
-Prolia™ (PRÓ-lee-a)
+Prolia® (PRÓ-lee-a)
 
 (denosumab)
 
-Injection
+Injection, for subcutaneous use
 
 Read the Medication Guide that comes with Prolia before you start taking it and each time you get a refill.
 There may be new information.
@@ -12,6 +12,8 @@ This Medication Guide does not take the place of talking with your doctor about 
 Talk to your doctor if you have any questions about Prolia.
 
 What is the most important information I should know about Prolia?
+If you receive Prolia, you should not receive XGEVA®.
+Prolia contains the same medicine as Xgeva (denosumab).
 
 Prolia can cause serious side effects including:
 
@@ -20,7 +22,7 @@ Prolia can cause serious side effects including:
    If you have low blood calcium before you start receiving Prolia, it may get worse during treatment.
    Your low blood calcium must be treated before you receive Prolia.
    Most people with low blood calcium levels do not have symptoms, but some people may have symptoms.
-   Call your doctor right away if you have symptoms of low blood calcium such as:Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood while you take Prolia.
+   Call your doctor right away if you have symptoms of low blood calcium such as: Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood while you take Prolia.
    Take calcium and vitamin D as your doctor tells you to.
    - Spasms, twitches, or cramps in your muscles
    - Numbness or tingling in your fingers, toes, or around your mouth
@@ -54,10 +56,15 @@ Call your doctor right away if you have any of these side effects.
 
 What is Prolia?
 
-Prolia is a prescription medicine used to treat osteoporosis (thinning and weakening of bone) in women after menopause (“change of life”) who
+Prolia is a prescription medicine used to:
 
-- Have an increased risk for fractures (broken bones).
-- Cannot use another osteoporosis medicine or other osteoporosis medicines did not work well.
+- Treat osteoporosis (thinning and weakening of bone) in women after menopause (“change of life”) who:
+  - have an increased risk for fractures (broken bones).
+  - cannot use another osteoporosis medicine or other osteoporosis medicines did not work well.
+- Treat bone loss in men who have an increased risk for fractures receiving certain treatments for prostate cancer that has not spread to other parts of the body.
+- Treat bone loss in women who have an increased risk for fractures receiving certain treatments for breast cancer that has not spread to other parts of the body.
+
+Prolia is not recommended for use in children.
 
 Who should not receive Prolia?
 
@@ -67,6 +74,8 @@ What should I tell my doctor before receiving Prolia?
 
 Before taking Prolia, tell your doctor if you:
 
+- Are taking a medicine called Xgeva (denosumab).
+  Xgeva contains the same medicine as Prolia.
 - Have low blood calcium.
 - Cannot take daily calcium and vitamin D.
 - Had parathyroid or thyroid surgery (glands located in your neck).
@@ -107,13 +116,22 @@ Prolia may cause serious side effects.
 - See “What is the most important information I should know about Prolia?”
 - Long-term effects on bone: It is not known if the use of Prolia over a long period of time may cause slow healing of broken bones or unusual fractures.
 
-The most common side effects of Prolia are:
+The most common side effects of Prolia in women who are being treated for osteoporosis after menopause are:
 
-- Back pain
-- Pain in your arms and legs
-- High cholesterol
-- Muscle pain
-- Bladder infection
+- back pain
+- pain in your arms and legs
+- high cholesterol
+- muscle pain
+- bladder infection
+
+The most common side effects of Prolia in patients receiving certain treatments for prostate or breast cancer are:
+
+- joint pain
+- back pain
+- pain in your arms and legs
+- muscle pain
+
+Tell your doctor if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of Prolia.
 For more information, ask your doctor or pharmacist.
@@ -121,7 +139,7 @@ For more information, ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I handle Prolia if I need to pick it up from a pharmacy?
+How should I store Prolia if I need to pick it up from a pharmacy?
 
 - Keep Prolia in a refrigerator at 36°F to 46°F (2°C to 8°C) in the original carton.
 - Do not freeze Prolia.
@@ -133,7 +151,7 @@ How should I handle Prolia if I need to pick it up from a pharmacy?
 
 Keep Prolia and all medicines out of reach of children.
 
-General information about Prolia
+General information about Prolia.
 
 Do not give Prolia to other people even if they have the same symptoms that you have.
 It may harm them.
@@ -145,44 +163,12 @@ You can ask your doctor or pharmacist for information about Prolia that is writt
 For more information, go to www.Prolia.com or call Amgen at 1-800-772-6436.
 
 What are the ingredients in Prolia?
+Active ingredient: denosumab Inactive ingredients: sorbitol, acetate, polysorbate 20 (prefilled syringe only), Water for Injection (USP), and sodium hydroxide
 
-Active ingredient: denosumab
+[Amgen Logo]
 
-Inactive ingredients: sorbitol, acetate, polysorbate 20 (prefilled syringe only), Water for Injection (USP), and sodium hydroxide
+Amgen Manufacturing Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799
 
-What is osteoporosis?
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Osteoporosis is a disease in which the bones become thin and weak, increasing the chance of having a broken bone.
-Osteoporosis usually causes no symptoms until a fracture happens.
-The most common fractures are in the spine (backbone).
-They can shorten height, even without causing pain.
-Over time, the spine can become curved or deformed and the body bent over.
-Fractures from osteoporosis can also happen in almost any bone in the body, for example: the wrist, rib, or hip.
-Once you have had a fracture, the chance for more fractures greatly increases.
-
-The following risk factors increase your chance of getting fractures from osteoporosis:
-
-- Past broken bones from osteoporosis
-- Very low bone mineral density (BMD)
-- Frequent falls
-- Limited movement, such as using a wheelchair
-- Medical conditions likely to cause bone loss, such as some kinds of arthritis
-- Taking steroid medicines called glucocorticoids, such as prednisone
-- Other medicines that may cause bone loss, for example: seizure medicines (such as phenytoin), blood thinners (such as heparin), high doses of vitamin A
-
-What can I do to treat osteoporosis?
-
-There are many steps you can take to treat osteoporosis.
-Taking Prolia, along with calcium and vitamin D, may be one option for you.
-
-Amgen Manufacturing Limited, a subsidiary of Amgen Inc.
-
-One Amgen Center Drive
-
-Thousand Oaks, California 91320-1799
-
-This Medication Guide has been approved by the US Food and Drug Administration.
-
-1xxxxxx - v1
-
-Issued: 06/2010
+1xxxxxx - v3 Revised: 09/2011

@@ -6,7 +6,7 @@ Prolia should be administered by a healthcare professional.
 
 The recommended dose of Prolia is 60 mg administered as a single subcutaneous injection once every 6 months.
 Administer Prolia via subcutaneous injection in the upper arm, the upper thigh, or the abdomen.
-All patients should receive calcium 1000 mg daily and at least 400 IU vitamin D daily [see Warnings and Precautions (5.1)].
+All patients should receive calcium 1000 mg daily and at least 400 IU vitamin D daily [see Warnings and Precautions (5.2)].
 
 If a dose of Prolia is missed, administer the injection as soon as the patient is available.
 Thereafter, schedule injections every 6 months from the date of the last injection.
@@ -21,17 +21,17 @@ Latex Allergy: People sensitive to latex should not handle the grey needle cap o
 
 Prior to administration, Prolia may be removed from the refrigerator and brought to room temperature (up to 25°C/77°F) by standing in the original container.
 This generally takes 15 to 30 minutes.
-Do not warm Prolia in any other way[see How Supplied/Storage and Handling (16)].
+Do not warm Prolia in any other way [see How Supplied/Storage and Handling (16)].
 
 Instructions for Prefilled Syringe with Needle Safety Guard
 
 IMPORTANT: In order to minimize accidental needlesticks, the Prolia single-use prefilled syringe will have a green safety guard; manually activate the safety guard after the injection is given.
 
-DO NOT slide the green safety guard forward over the needle before administering the injection – it will lock in place and prevent injection.
+DO NOT slide the green safety guard forward over the needle before administering the injection; it will lock in place and prevent injection.
 
 Activate the green safety guard (slide over the needle) after the injection.
 
-The grey needle cap on the single use prefilled syringe contains dry natural rubber (a derivative of latex); people sensitive to latex should not handle the cap.
+The grey needle cap on the single-use prefilled syringe contains dry natural rubber (a derivative of latex); people sensitive to latex should not handle the cap.
 
 Step 1: Remove Grey Needle Cap
 
