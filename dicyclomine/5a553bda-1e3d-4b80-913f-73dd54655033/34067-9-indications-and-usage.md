@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-For the treatment of functional bowel/irritable bowel syndrome.
+Dicyclomine hydrochloride is indicated for the treatment of patients with functional bowel/irritable bowel syndrome.
