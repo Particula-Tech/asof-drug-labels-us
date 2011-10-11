@@ -21,7 +21,7 @@ Due to its extremely low water solubility, paliperidone palmitate dissolves slow
 Following a single intramuscular dose, the plasma concentrations of paliperidone gradually rise to reach maximum plasma concentrations at a median Tmax of 13 days.
 The release of the drug starts as early as day 1 and lasts for as long as 126 days.
 
-Following intramuscular injection of single doses (39 mg – 234 mg) in the deltoid muscle, on average, a 28% higher Cmax was observed compared with injection in the gluteal muscle.
+Following intramuscular injection of single doses (39 mg–234 mg) in the deltoid muscle, on average, a 28% higher Cmax was observed compared with injection in the gluteal muscle.
 The two initial deltoid intramuscular injections of 234 mg on day 1 and 156 mg on day 8 help attain therapeutic concentrations rapidly.
 The release profile and dosing regimen of INVEGA® SUSTENNA® results in sustained therapeutic concentrations.
 The AUC of paliperidone following INVEGA® SUSTENNA® administration was dose-proportional over a 39 mg – 234 mg dose range, and less than dose-proportional for Cmax for doses exceeding 78 mg.

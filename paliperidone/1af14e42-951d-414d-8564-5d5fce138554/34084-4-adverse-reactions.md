@@ -7,22 +7,21 @@ The following are discussed in more detail in other sections of the labeling:
 - Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
 - QT prolongation [see Warnings and Precautions (5.4)]
 - Tardive dyskinesia [see Warnings and Precautions (5.5)]
-- Hyperglycemia and diabetes mellitus [see Warnings and Precautions (5.6)]
-- Weight gain [see Warnings and Precautions (5.7)]
-- Hyperprolactinemia [see Warnings and Precautions (5.8)]
-- Orthostatic hypotension and syncope [see Warnings and Precautions (5.9)]
-- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.10)]
-- Potential for cognitive and motor impairment [see Warnings and Precautions (5.11)]
-- Seizures [see Warnings and Precautions (5.12)]
-- Dysphagia [see Warnings and Precautions (5.13)]
-- Suicide [see Warnings and Precautions (5.14)]
-- Priapism [see Warnings and Precautions (5.15)]
-- Thrombotic Thrombocytopenic Purpura [see Warnings and Precautions (5.16)]
-- Disruption of body temperature regulation [see Warnings and Precautions (5.17)]
-- Avoidance of inadvertent injection into a blood vessel [see Warnings and Precautions (5.18)]
-- Antiemetic effect [see Warnings and Precautions (5.19)]
-- Increased sensitivity in patients with Parkinson's disease or those with dementia with Lewy bodies [see Warnings and Precautions (5.20)]
-- Diseases or conditions that could affect metabolism or hemodynamic responses [see Warnings and Precautions (5.20)]
+- Metabolic changes [see Warnings and Precautions (5.6)]
+- Hyperprolactinemia [see Warnings and Precautions (5.7)]
+- Orthostatic hypotension and syncope [see Warnings and Precautions (5.8)]
+- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.9)]
+- Potential for cognitive and motor impairment [see Warnings and Precautions (5.10)]
+- Seizures [see Warnings and Precautions (5.11)]
+- Dysphagia [see Warnings and Precautions (5.12)]
+- Suicide [see Warnings and Precautions (5.13)]
+- Priapism [see Warnings and Precautions (5.14)]
+- Thrombotic Thrombocytopenic Purpura [see Warnings and Precautions (5.15)]
+- Disruption of body temperature regulation [see Warnings and Precautions (5.16)]
+- Avoidance of inadvertent injection into a blood vessel [see Warnings and Precautions (5.17)]
+- Antiemetic effect [see Warnings and Precautions (5.18)]
+- Increased sensitivity in patients with Parkinson's disease or those with dementia with Lewy bodies [see Warnings and Precautions (5.19)]
+- Diseases or conditions that could affect metabolism or hemodynamic responses [see Warnings and Precautions (5.19)]
 
 Throughout this section, a distinction is made between adverse events and adverse reactions.
 Adverse events are events reported by the clinician investigator and there is no attempt to assign causality to the study drug.
@@ -45,9 +44,9 @@ The majority of all adverse reactions were mild to moderate in severity.
 
 ## 6.1 Commonly-Observed Adverse Events in Double-Blind, Placebo-Controlled Clinical Trials
 
-Table 2 lists the adverse events reported in 2% or more of INVEGA® SUSTENNA®-treated subjects with schizophrenia in the four fixed-dose, double-blind, placebo-controlled trials.
+Table 5 lists the adverse events reported in 2% or more of INVEGA® SUSTENNA®-treated subjects with schizophrenia in the four fixed-dose, double-blind, placebo-controlled trials.
 
-Table 2.
+Table 5.
 Incidence of Treatment Emergent Adverse Events in ≥ 2% of INVEGA® SUSTENNA®-Treated Subjects with Schizophrenia in Four Fixed-Dose, Double-Blind, Placebo-Controlled Trials
 
 | System Organ Class Adverse Event | PlaceboPlacebo group is pooled from all studies and included either deltoid or gluteal injection depending on study design. (N=510) | 39 mg (N=130) | 78 mg (N=302) | 156 mg (N=312) | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [See Clinical Studies (14)] (N=160) | 234/156 mg (N=165) | 234/234 mg (N=163) |
@@ -147,9 +146,9 @@ An examination of population subgroups in the double-blind placebo-controlled tr
 ## 6.6 Extrapyramidal Symptoms (EPS)
 
 Pooled data from the two double-blind, placebo-controlled, 13-week, fixed-dose trials provided information regarding treatment-emergent EPS.
-Several methods were used to measure EPS: (1) the Simpson-Angus global score (mean change from baseline or score at the end of trial) which broadly evaluates Parkinsonism, (2) the Barnes Akathisia Rating Scale global clinical rating score (mean change from baseline or score at the end of trial) which evaluates akathisia, (3) use of anticholinergic medications to treat emergent EPS, (4) the Abnormal Involuntary Movement Scale scores (mean change from baseline or scores at the end of trial) (Table 3), and (5) incidence of spontaneous reports of EPS (Table 4).
+Several methods were used to measure EPS: (1) the Simpson-Angus global score (mean change from baseline or score at the end of trial) which broadly evaluates Parkinsonism, (2) the Barnes Akathisia Rating Scale global clinical rating score (mean change from baseline or score at the end of trial) which evaluates akathisia, (3) use of anticholinergic medications to treat emergent EPS, (4) the Abnormal Involuntary Movement Scale scores (mean change from baseline or scores at the end of trial) (Table 6), and (5) incidence of spontaneous reports of EPS (Table 7).
 
-Table 3.
+Table 6.
 Treatment-Emergent Extrapyramidal Symptoms (EPS) Assessed by Incidence of Rating Scales and Use of Anticholinergic Medication
 
 | Scale | Placebo (N=262) | 39 mg (N=130) | 78 mg (N=223) | 156 mg (N=228) |
@@ -161,7 +160,7 @@ Treatment-Emergent Extrapyramidal Symptoms (EPS) Assessed by Incidence of Rating
 | DyskinesiaFor Dyskinesia, percent of subjects with a score ≥ 3 on any of the first 7 items or a score ≥ 2 on two or more of any of the first 7 items of the Abnormal Involuntary Movement Scale at endpoint | 3 | 4 | 6 | 4 |
 | Use of Anticholinergic MedicationsPercent of subjects who received anticholinergic medications to treat emergent EPS | 12 | 10 | 12 | 11 |
 
-Table 4.
+Table 7.
 Treatment-Emergent Extrapyramidal Symptoms (EPS)-Related Adverse Events by MedDRA Preferred Term
 
 | EPS Group | (N=262) | (N=130) | (N=223) | (N=228) |
@@ -194,7 +193,7 @@ An elevated risk of acute dystonia is observed in males and younger age groups.
 
 In the pooled data from the two double-blind, placebo-controlled, 13-week, fixed-dose trials, a between-group comparison revealed no medically important differences between INVEGA® SUSTENNA® and placebo in the proportions of subjects experiencing potentially clinically significant changes in routine serum chemistry, hematology, or urinalysis parameters.
 Similarly, there were no differences between INVEGA® SUSTENNA® and placebo in the incidence of discontinuations due to changes in hematology, urinalysis, or serum chemistry, including mean changes from baseline in fasting glucose, insulin, c-peptide, triglyceride, HDL, LDL, and total cholesterol measurements.
-However, INVEGA® SUSTENNA® was associated with increases in serum prolactin [see Warnings and Precautions (5.8)].
+However, INVEGA® SUSTENNA® was associated with increases in serum prolactin [see Warnings and Precautions (5.7)].
 The results from the 13-week study involving 234 mg initiation dosing, the 9-week, fixed-dose, double-blind, placebo-controlled trial, and the double-blind phase of the maintenance trial exhibited comparable findings.
 
 ## 6.8 Pain Assessment and Local Injection Site Reactions

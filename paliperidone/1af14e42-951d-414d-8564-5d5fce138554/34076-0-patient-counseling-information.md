@@ -5,11 +5,11 @@ See FDA-approved patient labeling (Information for Patients and Caregivers).
 
 ## 17.1 Orthostatic Hypotension
 
-Patients should be advised that there is risk of orthostatic hypotension, particularly at the time of initiating treatment, re-initiating treatment, or increasing the dose [see Warnings and Precautions (5.9)].
+Patients should be advised that there is risk of orthostatic hypotension, particularly at the time of initiating treatment, re-initiating treatment, or increasing the dose [see Warnings and Precautions (5.8)].
 
 ## 17.2 Interference with Cognitive and Motor Performance
 
-As INVEGA® SUSTENNA® has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that INVEGA® SUSTENNA® therapy does not affect them adversely [see Warnings and Precautions (5.11)].
+As INVEGA® SUSTENNA® has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that INVEGA® SUSTENNA® therapy does not affect them adversely [see Warnings and Precautions (5.10)].
 
 ## 17.3 Pregnancy
 
@@ -29,4 +29,4 @@ Patients should be advised to avoid alcohol while taking INVEGA® SUSTENNA® [se
 
 ## 17.7 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.17)].
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.16)].

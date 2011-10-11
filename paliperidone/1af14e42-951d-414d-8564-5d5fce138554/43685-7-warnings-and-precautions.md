@@ -64,13 +64,20 @@ The need for continued treatment should be reassessed periodically.
 If signs and symptoms of tardive dyskinesia appear in a patient treated with INVEGA® SUSTENNA®, drug discontinuation should be considered.
 However, some patients may require treatment with INVEGA® SUSTENNA® despite the presence of the syndrome.
 
-## 5.6 Hyperglycemia and Diabetes Mellitus
+## 5.6 Metabolic Changes
 
-Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with all atypical antipsychotics.
+Atypical antipsychotic drugs have been associated with metabolic changes that may increase cardiovascular/cerebrovascular risk.
+These metabolic changes include hyperglycemia, dyslipidemia, and body weight gain.
+While all of the drugs in the class have been shown to produce some metabolic changes, each drug has its own specific risk profile.
+
+Hyperglycemia and Diabetes Mellitus
+
+Hyperglycemia and diabetes mellitus, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, have been reported in patients treated with all atypical antipsychotics.
 These cases were, for the most part, seen in post-marketing clinical use and epidemiologic studies, not in clinical trials, and there have been few reports of hyperglycemia or diabetes in trial subjects treated with INVEGA® SUSTENNA®.
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
 Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse events is not completely understood.
 However, epidemiological studies suggest an increased risk of treatment-emergent hyperglycemia-related adverse events in patients treated with the atypical antipsychotics.
+Because INVEGA® SUSTENNA® was not marketed at the time these studies were performed, it is not known if INVEGA® SUSTENNA® is associated with this risk.
 
 Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics should be monitored regularly for worsening of glucose control.
 Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
@@ -78,18 +85,80 @@ Any patient treated with atypical antipsychotics should be monitored for symptom
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
 
-## 5.7 Weight Gain
+Pooled data from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies in subjects with schizophrenia are presented in Table 2.
 
-Weight gain has been observed with INVEGA® SUSTENNA® and other atypical antipsychotics.
-In the 13-week study involving 234 mg initiation dosing, the proportion of subjects with an abnormal weight increase ≥ 7% showed a dose-related trend, with a 5% incidence rate in the placebo group compared with rates of 6%, 8%, and 13% in the INVEGA® SUSTENNA® 39 mg, 156 mg, and 234 mg groups, respectively.
-In the two 13-week, fixed-dose, double-blind, placebo-controlled trials (pooled data), the proportions of subjects meeting a weight gain criterion of ≥ 7% of body weight were 6%, 9%, and 10% in the INVEGA® SUSTENNA® 39 mg, 78 mg, and 156 mg groups, respectively, compared with 2% in the placebo group.
-In the 9-week, fixed-dose, double-blind, placebo-controlled trial, 8% and 6% in the INVEGA® SUSTENNA® 78 mg and 156 mg groups, respectively, met this criterion compared with 4% in the placebo group.
+Table 2.
+Change in Fasting Glucose from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
 
-During the 33-week open-label period (9-week flexible-dose transition phase followed by a 24-week maintenance phase flexible-dose and minimum 12-week fixed dose) of the maintenance trial, 12% of INVEGA® SUSTENNA®-treated subjects met this criterion; the mean (SD) weight change from open-label baseline was +0.7 (4.79) kg.
-In the variable length double-blind phase, this criterion (weight gain of ≥ 7% from double-blind phase to endpoint) was met by 6% of INVEGA® SUSTENNA®-treated subjects compared with 3% of placebo-treated subjects; the mean weight change from double-blind baseline was +0.5 kg for INVEGA® SUSTENNA® compared with –1.0 kg for placebo.
-Similar results were observed in the open-label extension phase of this study.
+|  | n=367 | n=86 | n=244 | n=238 | n=110 | n=126 | n=115 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | INVEGA® SUSTENNA® |  |  |  |  |  |
+|  | Placebo | 39 mg | 78 mg | 156 mg | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [See Clinical Studies (14)]. | 234/156 mg | 234/234 mg |
+|  | Mean change from baseline (mg/dL) |  |  |  |  |  |  |
+| Serum Glucose Change from baseline | -1.3 | 1.3 | 3.5 | 0.1 | 3.4 | 1.8 | -0.2 |
+|  | Proportion of Patients with Shifts |  |  |  |  |  |  |
+| Serum Glucose Normal to High | 4.6% | 6.3% | 6.4% | 3.9% | 2.5% | 7.0% | 6.6% |
+| (<100 mg/dL to ≥126 mg/dL) | (11/241) | (4/64) | (11/173) | (6/154) | (2/79) | (6/86) | (5/76) |
 
-## 5.8 Hyperprolactinemia
+In a long-term open-label pharmacokinetic and safety study in which the highest dose available (234 mg) was evaluated, INVEGA® SUSTENNA® was associated with a mean change in glucose of -0.4 mg/dL at Week 29 (n=109) and +6.8 mg/dL at Week 53 (n=100).
+
+Dyslipidemia
+
+Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics.
+
+Pooled data from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies in subjects with schizophrenia are presented in Table 3.
+
+Table 3.
+Change in Fasting Lipids from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
+
+|  | Placebo | 39 mg | 78 mg | 156 mg | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [See Clinical Studies (14)]. | 234/156 mg | 234/234 mg |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | INVEGA® SUSTENNA® |  |  |  |  |  |
+|  | Mean change from baseline (mg/dL) |  |  |  |  |  |  |
+| Cholesterol | n=366 | n=89 | n=244 | n=232 | n=105 | n=119 | n=120 |
+| Change from baseline | -6.6 | -6.4 | -5.8 | -7.1 | -0.9 | -4.2 | 9.4 |
+| LDL | n=275 | n=80 | n=164 | n=141 | n=104 | n=117 | n=108 |
+| Change from baseline | -6.0 | -4.8 | -5.6 | -4.8 | 0.9 | -2.4 | 5.2 |
+| HDL | n=286 | n=89 | n=165 | n=150 | n=105 | n=118 | n=115 |
+| Change from baseline | 0.7 | 2.1 | 0.6 | 0.3 | 1.5 | 1.1 | 0.0 |
+| Triglycerides | n=366 | n=89 | n=244 | n=232 | n=105 | n=119 | n=120 |
+| Change from baseline | -16.7 | 7.6 | -9.0 | -11.5 | -14.1 | -20.0 | 11.9 |
+|  | Proportion of Patients with Shifts |  |  |  |  |  |  |
+| Cholesterol |  |  |  |  |  |  |  |
+| Normal to High | 3.2% | 2.0% | 2.0% | 2.1% | 0% | 3.1% | 7.1% |
+| (<200 mg/dL to ≥240 mg/dL) | (7/222) | (1/51) | (3/147) | (3/141) | (0/69) | (2/65) | (6/84) |
+| LDL |  |  |  |  |  |  |  |
+| Normal to High | 1.1% | 0% | 0% | 0% | 0% | 0% | 0% |
+| (<100 mg/dL to ≥160 mg/dL) | (1/95) | (0/29) | (0/67) | (0/46) | (0/41) | (0/37) | (0/44) |
+| HDL |  |  |  |  |  |  |  |
+| Normal to Low | 13.8% | 14.8% | 9.6% | 14.2% | 12.7% | 10.5% | 16.0% |
+| (≥40 mg/dL to <40 mg/dL) | (28/203) | (9/61) | (11/115) | (15/106) | (9/71) | (8/76) | (13/81) |
+| Triglycerides |  |  |  |  |  |  |  |
+| Normal to High | 3.6% | 6.1% | 9.2% | 7.2% | 1.3% | 3.7% | 10.7% |
+| (<150 mg/dL to ≥200 mg/dL) | (8/221) | (3/49) | (14/153) | (10/139) | (1/79) | (3/82) | (9/84) |
+
+In a long-term open-label pharmacokinetic and safety study in which the highest dose available (234 mg) was evaluated, INVEGA® SUSTENNA® was associated with a mean change in (a) total cholesterol of -1.2 mg/dL at Week 29 (n=112) and +0.1 mg/dL at Week 53 (n=100); (b) LDL of -2.7 mg/dL at Week 29 (n=107) and -2.3 mg/dL at Week 53 (n=89); (c) HDL of -0.8 mg/dL at Week 29 (n=112) and -2.6 mg/dL at Week 53 (n=98); and (d) triglycerides of +16.2 mg/dL at Week 29 (n=112) and +37.4 mg/dL at Week 53 (n=100).
+
+Weight Gain
+
+Weight gain has been observed with atypical antipsychotic use.
+Clinical monitoring of weight is recommended.
+
+Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of ≥ 7% of body weight from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies in subjects with schizophrenia are presented in Table 4.
+
+Table 4.
+Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
+
+|  | n=451 | n=116 | n=280 | n=267 | n=137 | n=144 | n=145 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | INVEGA® SUSTENNA® |  |  |  |  |  |
+|  | Placebo | 39 mg | 78 mg | 156 mg | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [See Clinical Studies (14)]. | 234/156 mg | 234/234 mg |
+| Weight (kg) Change from baseline | -0.4 | 0.4 | 0.8 | 1.4 | 0.4 | 0.7 | 1.4 |
+| Weight Gain ≥ 7% increase from baseline | 3.3% | 6.0% | 8.9% | 9.0% | 5.8% | 8.3% | 13.1% |
+
+In a long-term open-label pharmacokinetic and safety study in which the highest dose available (234 mg) was evaluated, INVEGA® SUSTENNA® was associated with a mean change in weight of +2.4 kg at Week 29 (n=134) and +4.3 kg at Week 53 (n=113).
+
+## 5.7 Hyperprolactinemia
 
 Like other drugs that antagonize dopamine D2 receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
 Paliperidone has a prolactin-elevating effect similar to that seen with risperidone, a drug that is associated with higher levels of prolactin than other antipsychotic drugs.
@@ -103,7 +172,7 @@ Tissue culture experiments indicate that approximately one-third of human breast
 An increase in the incidence of pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
 
-## 5.9 Orthostatic Hypotension and Syncope
+## 5.8 Orthostatic Hypotension and Syncope
 
 Paliperidone can induce orthostatic hypotension and syncope in some patients because of its alpha-blocking activity.
 Syncope was reported in < 1% (4/1293) of subjects treated with INVEGA® SUSTENNA® in the recommended dose range of 39 mg to 234 mg in the four fixed-dose, double-blind, placebo-controlled trials compared with 0% (0/510) of subjects treated with placebo.
@@ -113,7 +182,7 @@ Incidences of orthostatic hypotension and syncope in the long-term studies were 
 INVEGA® SUSTENNA® should be used with caution in patients with known cardiovascular disease (e.g., heart failure, history of myocardial infarction or ischemia, conduction abnormalities), cerebrovascular disease, or conditions that predispose the patient to hypotension (e.g., dehydration, hypovolemia, and treatment with antihypertensive medications).
 Monitoring of orthostatic vital signs should be considered in patients who are vulnerable to hypotension.
 
-## 5.10 Leukopenia, Neutropenia, and Agranulocytosis
+## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
 
 Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including INVEGA®, an oral form of paliperidone.
 Agranulocytosis has also been reported.
@@ -124,55 +193,55 @@ Patients with a history of a clinically significant low WBC or a drug-induced le
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue INVEGA® SUSTENNA® and have their WBC followed until recovery.
 
-## 5.11 Potential for Cognitive and Motor Impairment
+## 5.10 Potential for Cognitive and Motor Impairment
 
 Somnolence, sedation, and dizziness were reported as adverse reactions in subjects treated with INVEGA® SUSTENNA®[see Adverse Reactions (6.1)].
 Antipsychotics, including INVEGA® SUSTENNA®, have the potential to impair judgment, thinking, or motor skills.
 Patients should be cautioned about performing activities requiring mental alertness, such as operating hazardous machinery or operating a motor vehicle, until they are reasonably certain that paliperidone therapy does not adversely affect them.
 
-## 5.12 Seizures
+## 5.11 Seizures
 
 In the four fixed-dose double-blind placebo-controlled studies, <1% (1/1293) of subjects treated with INVEGA® SUSTENNA® in the recommended dose range of 39 mg to 234 mg experienced an adverse event of convulsion compared with <1% (1/510) of placebo-treated subjects who experienced an adverse event of grand mal convulsion.
 
 Like other antipsychotic drugs, INVEGA® SUSTENNA® should be used cautiously in patients with a history of seizures or other conditions that potentially lower the seizure threshold.
 Conditions that lower the seizure threshold may be more prevalent in patients 65 years or older.
 
-## 5.13 Dysphagia
+## 5.12 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's dementia.
 INVEGA® SUSTENNA® and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 
-## 5.14 Suicide
+## 5.13 Suicide
 
 The possibility of suicide attempt is inherent in psychotic illnesses, and close supervision of high-risk patients should accompany drug therapy.
 
-## 5.15 Priapism
+## 5.14 Priapism
 
 Drugs with alpha-adrenergic blocking effects have been reported to induce priapism.
 Although no cases of priapism have been reported in clinical trials with INVEGA® SUSTENNA®, priapism has been reported with oral paliperidone during postmarketing surveillance.
 Severe priapism may require surgical intervention.
 
-## 5.16 Thrombotic Thrombocytopenic Purpura (TTP)
+## 5.15 Thrombotic Thrombocytopenic Purpura (TTP)
 
 No cases of TTP were observed during clinical studies with oral paliperidone or INVEGA® SUSTENNA®.
 Although cases of TTP have been reported in association with risperidone administration, the relationship to risperidone therapy is unknown.
 
-## 5.17 Body Temperature Regulation
+## 5.16 Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing INVEGA® SUSTENNA® to patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
 
-## 5.18 Administration
+## 5.17 Administration
 
 INVEGA® SUSTENNA® is intended for intramuscular injection, and care must be taken to avoid inadvertent injection into a blood vessel [see Dosage and Administration (2.3)].
 
-## 5.19 Antiemetic Effect
+## 5.18 Antiemetic Effect
 
 An antiemetic effect was observed in preclinical studies with paliperidone.
 This effect, if it occurs in humans, may mask the signs and symptoms of overdosage with certain drugs or of conditions such as intestinal obstruction, Reye's syndrome, and brain tumor.
 
-## 5.20 Use in Patients with Concomitant Illness
+## 5.19 Use in Patients with Concomitant Illness
 
 Clinical experience with INVEGA® SUSTENNA® in patients with certain concomitant illnesses is limited [see Clinical Pharmacology (12.3)].
 
@@ -181,8 +250,8 @@ Manifestations of this increased sensitivity include confusion, obtundation, pos
 
 INVEGA® SUSTENNA® has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from premarketing clinical trials.
-Because of the risk of orthostatic hypotension with INVEGA® SUSTENNA®, caution should be observed in patients with known cardiovascular disease [see Warnings and Precautions (5.9)].
+Because of the risk of orthostatic hypotension with INVEGA® SUSTENNA®, caution should be observed in patients with known cardiovascular disease [see Warnings and Precautions (5.8)].
 
-## 5.21 Monitoring: Laboratory Tests
+## 5.20 Monitoring: Laboratory Tests
 
 No specific laboratory tests are recommended.

@@ -7,7 +7,7 @@ Since paliperidone palmitate is hydrolyzed to paliperidone [see Clinical Pharmac
 Given the primary CNS effects of paliperidone [see Adverse Reactions (6.1)], INVEGA® SUSTENNA® should be used with caution in combination with other centrally acting drugs and alcohol.
 Paliperidone may antagonize the effect of levodopa and other dopamine agonists.
 
-Because of its potential for inducing orthostatic hypotension, an additive effect may be observed when INVEGA® SUSTENNA® is administered with other therapeutic agents that have this potential [see Warnings and Precautions (5.9)].
+Because of its potential for inducing orthostatic hypotension, an additive effect may be observed when INVEGA® SUSTENNA® is administered with other therapeutic agents that have this potential [see Warnings and Precautions (5.8)].
 
 Paliperidone is not expected to cause clinically important pharmacokinetic interactions with drugs that are metabolized by cytochrome P450 isozymes.
 In vitro studies in human liver microsomes showed that paliperidone does not substantially inhibit the metabolism of drugs metabolized by cytochrome P450 isozymes, including CYP1A2, CYP2A6, CYP2C8/9/10, CYP2D6, CYP2E1, CYP3A4, and CYP3A5.

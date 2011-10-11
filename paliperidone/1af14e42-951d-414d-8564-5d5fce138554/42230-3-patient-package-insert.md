@@ -178,6 +178,6 @@ If you have any questions about this information, talk with your doctor or treat
 
 You can also visit the website at www.invegasustenna.com or call the toll-free number at 1-800-JANSSEN (1-800-526-7736) for more information about INVEGA® SUSTENNA®.
 
-Janssen, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-© Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2009 June 2011
+© Janssen Pharmaceuticals, Inc. 2009 September 2011
