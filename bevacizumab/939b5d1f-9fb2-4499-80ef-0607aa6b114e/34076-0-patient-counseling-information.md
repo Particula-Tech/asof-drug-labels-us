@@ -7,3 +7,4 @@ Advise patients:
 - Of increased risk of wound healing complications during and following Avastin.
 - Of increased risk of an arterial thromboembolic event.
 - Of the potential risk to the fetus during and following Avastin and the need to continue adequate contraception for at least 6 months following last dose of Avastin.
+- Of the increased risk for ovarian failure following Avastin treatment.

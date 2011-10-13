@@ -10,6 +10,7 @@ The following serious adverse reactions are discussed in greater detail in other
 - Hypertensive Crisis [See Dosage and Administration (2.4), Warnings and Precautions (5.6).]
 - Reversible Posterior Leukoencephalopathy Syndrome [See Dosage and Administration (2.4), Warnings and Precautions (5.7).]
 - Proteinuria [See Dosage and Administration (2.4), Warnings and Precautions (5.8).]
+- Ovarian Failure [See Warnings and Precautions (5.10), Use in Specific Populations (8.6).]
 
 The most common adverse reactions observed in Avastin patients at a rate > 10% and at least twice the control arm rate, are epistaxis, headache, hypertension, rhinitis, proteinuria, taste alteration, dry skin, rectal hemorrhage, lacrimation disorder, back pain and exfoliative dermatitis.
 
@@ -19,10 +20,10 @@ Across all studies, Avastin was discontinued in 8.4 to 21% of patients because o
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data below reflect exposure to Avastin in 2661 patients with mCRC, non‑squamous NSCLC, MBC, glioblastoma, or mRCC in controlled (Studies 1, 2, 4, 5, 6 and 9) or uncontrolled, single arm (Study 7) trials treated at the recommended dose and schedule for a median of 8 to 16 doses of Avastin.
+The data below reflect exposure to Avastin in 4024 patients with CRC, non‑squamous NSCLC, MBC, glioblastoma, or mRCC trials including controlled (Studies 1, 2, 4, 5, 6 and 9) or uncontrolled, single arm (Study 7) treated at the recommended dose and schedule for a median of 8 to 23 doses of Avastin.
 [See Clinical Studies (14).]
-The population was aged 21–88 years (median 59), 46.0% male and 84.1% white.
-The population included 1089 first‑ and second‑line mCRC patients who received a median of 11 doses of Avastin, 480 first‑line metastatic NSCLC patients who received a median of 8 doses of Avastin, 592 MBC patients who had not received chemotherapy for metastatic disease received a median of 8 doses of Avastin, 163 glioblastoma patients who received a median of 9 doses of Avastin, and 337 mRCC patients who received a median of 16 doses of Avastin.
+The population was aged 18–88 years (median 59), 41% male and 85.1% white.
+The population included 1783 first‑ and second‑line mCRC patients who received a median of 10 doses of Avastin, 669 female adjuvant CRC patients who received a median of 23 doses of Avastin, 480 first‑line metastatic NSCLC patients who received a median of 8 doses of Avastin, 592 MBC patients who had not received chemotherapy for metastatic disease received a median of 8 doses of Avastin, 163 glioblastoma patients who received a median of 9 doses of Avastin, and 337 mRCC patients who received a median of 16 doses of Avastin.
 
 Surgery and Wound Healing Complications
 
@@ -41,13 +42,17 @@ Grade 1 or 2 hemorrhagic events were more frequent in patients receiving bolus�
 
 Venous Thromboembolic Events
 
-The incidence of Grade 3–4 venous thromboembolic events was higher in patients with mCRC or NSCLC receiving Avastin with chemotherapy as compared to those receiving chemotherapy alone.
-The risk of developing a second subsequent thromboembolic event in mCRC patients receiving Avastin and chemotherapy was increased compared to patients receiving chemotherapy alone.
-In Study 1, 53 patients (14%) on the bolus‑IFL plus Avastin arm and 30 patients (8%) on the bolus‑IFL plus placebo arm received full dose warfarin following a venous thromboembolic event.
-Among these patients, an additional thromboembolic event occurred in 21% (11/53) of patients receiving bolus‑IFL plus Avastin and 3% (1/30) of patients receiving bolus‑IFL alone.
+The overall incidence of Grade 3−4 venous thromboembolic events in Study 1 was 15.1% in patients receiving bolus-IFL plus Avastin and 13.6% in patients receiving bolus-IFL plus placebo.
+In Study 1, more patients in the Avastin containing arm experienced deep venous thrombosis (34 vs. 19 patients) and intra-abdominal venous thrombosis (10 vs. 5 patients).
 
-The overall incidence of Grade 3–4 venous thromboembolic events in Study 1 was 15.1% in patients receiving bolus‑IFL plus Avastin and 13.6% in patients receiving bolus‑IFL plus placebo.
-In Study 1, the incidence of the following Grade 3–4 venous thromboembolic events was higher in patients receiving bolus‑IFL plus Avastin as compared to patients receiving bolus‑IFL plus placebo: deep venous thrombosis (34 vs. 19 patients) and intra‑abdominal venous thrombosis (10 vs. 5 patients).
+The risk of developing a second thromboembolic event while on Avastin and oral anticoagulants was evaluated in two randomized studies.
+In Study 1, 53 patients (14%) on the bolus-IFL plus Avastin arm and 30 patients (8%) on the bolus-IFL plus placebo arm received full dose warfarin following a venous thromboembolic event (VTE).
+Among these patients, an additional thromboembolic event occurred in 21% (11/53) of patients receiving bolus-IFL plus Avastin and 3% (1/30) of patients receiving bolus-IFL alone.
+
+In a second, randomized, 4-arm study in 1401 patients with mCRC, prospectively evaluating the incidence of VTE (all grades), the overall incidence of first VTE was higher in the Avastin containing arms (13.5%) than the chemotherapy alone arms (9.6%).
+Among the 116 patients treated with anticoagulants following an initial VTE event (73 in the Avastin plus chemotherapy arms and 43 in the chemotherapy alone arms), the overall incidence of subsequent VTEs was also higher among the Avastin treated patients (31.5% vs. 25.6%).
+In this subgroup of patients treated with anticoagulants, the overall incidence of bleeding, the majority of which were Grade 1, was higher in the Avastin treated arms than the chemotherapy arms (27.4% vs. 20.9%).
+[See Dosage and Administration (2.4).]
 
 Neutropenia and Infection
 
@@ -76,6 +81,15 @@ The incidence of Grade ≥ 3 left ventricular dysfunction was 1.0% in patients r
 In patients with MBC, the incidence of Grade 3–4 congestive heart failure (CHF) was increased in patients in the Avastin plus paclitaxel arm (2.2 %) as compared to the control arm (0.3%).
 Among patients receiving prior anthracyclines for MBC, the rate of CHF was 3.8% for patients receiving Avastin as compared to 0.6 % for patients receiving paclitaxel alone.
 The safety of continuation or resumption of Avastin in patients with cardiac dysfunction has not been studied.
+
+Ovarian Failure
+
+The incidence of new cases of ovarian failure (defined as amenorrhoea lasting 3 or more months, FSH level ≥30 mIU/mL and a negative serum β-HCG pregnancy test) was prospectively evaluated in a subset of 179 women receiving mFOLFOX chemotherapy alone (n=84 or with Avastin (n=95).
+New cases of ovarian failure were identified in 34% (32/95) of women receiving Avastin in combination with chemotherapy compared with 2% (2/84) of women receiving chemotherapy alone [relative risk of 14 (95% CI 4, 53)].
+After discontinuation of Avastin treatment, recovery of ovarian function at all time points during the post-treatment period was demonstrated in 22% (7/32) of the Avastin-treated women.
+Recovery of ovarian function is defined as resumption of menses, a positive serum β -HCG pregnancy test, or a FSH level <30 mIU/mL during the post-treatment period.
+Long term effects of Avastin exposure on fertility are unknown.
+[See Warnings and Precautions (5.10), Use in Specific Populations (8.6).]
 
 Metastatic Colorectal Cancer (mCRC)
 
@@ -273,6 +287,8 @@ Eye disorders (reported from unapproved use for treatment of various ocular diso
 Gastrointestinal: Gastrointestinal ulcer, Intestinal necrosis, Anastomotic ulceration
 
 Hemic and lymphatic: Pancytopenia
+
+Musculoskeletal: Osteonecrosis of the jaw
 
 Renal: Renal thrombotic microangiopathy (manifested as severe proteinuria)
 

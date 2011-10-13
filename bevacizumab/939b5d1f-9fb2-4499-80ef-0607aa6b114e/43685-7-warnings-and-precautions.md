@@ -116,3 +116,9 @@ In clinical studies, infusion reactions with the first dose of Avastin were unco
 
 Stop infusion if a severe infusion reaction occurs and administer appropriate medical therapy.
 [See Dosage and Administration (2.4).]
+
+## 5.10 Ovarian Failure
+
+The incidence of ovarian failure was higher (34% vs. 2%) in premenopausal women receiving Avastin in combination with mFOLFOX chemotherapy as compared to those receiving mFOLFOX chemotherapy alone for adjuvant treatment for colorectal cancer, a use for which Avastin is not approved.
+Inform females of reproductive potential of the risk of ovarian failure prior to starting treatment with Avastin.
+[See Adverse Reactions (6.1), Use in Specific Populations (8.6).]

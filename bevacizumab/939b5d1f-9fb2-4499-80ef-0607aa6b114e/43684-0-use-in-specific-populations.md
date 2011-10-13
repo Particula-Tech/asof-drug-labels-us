@@ -4,19 +4,19 @@
 
 Pregnancy Category C
 
-There are no studies of bevacizumab in pregnant women.
-Reproduction studies in rabbits treated with approximately 1 to 12 times the recommended human dose of bevacizumab resulted in teratogenicity, including an increased incidence of specific gross and skeletal fetal alterations.
+There are no adequate or well controlled studies of bevacizumab in pregnant women.
+While it is not known if bevacizumab crosses the placenta, human IgG is known to cross the placenta.
+Reproduction studies in rabbits treated with approximately 1 to 12 times the recommended human dose of bevacizumab demonstrated teratogenicity, including an increased incidence of specific gross and skeletal fetal alterations.
 Adverse fetal outcomes were observed at all doses tested.
 Other observed effects included decreases in maternal and fetal body weights and an increased number of fetal resorptions.
 [See Nonclinical Toxicology (13.3).]
 
-Human IgG is known to cross the placental barrier; therefore, bevacizumab may be transmitted from the mother to the developing fetus, and has the potential to cause fetal harm when administered to pregnant women.
-Because of the observed teratogenic effects of known inhibitors of angiogenesis in humans, bevacizumab should be used during pregnancy only if the potential benefit to the pregnant woman justifies the potential risk to the fetus.
+Because of the observed teratogenic effects of bevacizumab in animals and of other inhibitors of angiogenesis in humans, bevacizumab should be used during pregnancy only if the potential benefit to the pregnant woman justifies the potential risk to the fetus.
 
 ## 8.3 Nursing Mothers
 
-It is not known whether Avastin is secreted in human milk, but human IgG is excreted in human milk.
-Published data suggest that breast milk antibodies do not enter the neonatal and infant circulation in substantial amounts.
+It is not known whether Avastin is secreted in human milk.
+Human IgG is excreted in human milk, but published data suggest that breast milk antibodies do not enter the neonatal and infant circulation in substantial amounts.
 Because many drugs are secreted in human milk and because of the potential for serious adverse reactions in nursing infants from bevacizumab, a decision should be made whether to discontinue nursing or discontinue drug, taking into account the half‑life of the bevacizumab (approximately 20 days [range 11–50 days]) and the importance of the drug to the mother.
 [See Clinical Pharmacology (12.3).]
 
@@ -49,3 +49,13 @@ In an exploratory, pooled analysis of 1745 patients treated in five randomized, 
 The overall incidence of arterial thromboembolic events was increased in all patients receiving Avastin with chemotherapy as compared to those receiving chemotherapy alone, regardless of age.
 However, the increase in arterial thromboembolic events incidence was greater in patients aged ≥ 65 years (8.5% vs. 2.9%) as compared to those < 65 years (2.1% vs. 1.4%).
 [See Warnings and Precautions (5.5).]
+
+## 8.6 Females of Reproductive Potential
+
+Avastin increases the risk of ovarian failure and may impair fertility.
+Inform females of reproductive potential of the risk of ovarian failure prior to starting treatment with Avastin.
+Long term effects of Avastin exposure on fertility are unknown.
+
+In a prospectively designed substudy of 179 premenopausal women randomized to receive chemotherapy with or without Avastin, the incidence of ovarian failure was higher in the Avastin arm (34%) compared to the control arm (2%).
+After discontinuation of Avastin and chemotherapy, recovery of ovarian function occurred in 22% (7/32) of these Avastin-treated patients.
+[See Warnings and Precautions (5.10), Adverse Reactions (6.1).]

@@ -13,10 +13,10 @@ Discontinue Avastin in patients with wound dehiscence.
 The appropriate interval between termination of Avastin and subsequent elective surgery required to reduce the risks of impaired wound healing/wound dehiscence has not been determined.
 Discontinue at least 28 days prior to elective surgery.
 Do not initiate Avastin for at least 28 days after surgery and until the surgical wound is fully healed.
-[See Dosage and Administration (2.4), Warnings and Precautions (5.2), and Adverse Reactions (6.1).]
+[See Dosage and Administration (2.4), Warnings and Precautions (5.2), Adverse Reactions (6.1).]
 
 Hemorrhage
 
 Severe or fatal hemorrhage, including hemoptysis, gastrointestinal bleeding, central nervous systems (CNS) hemorrhage, epistaxis, and vaginal bleeding occurred up to five‑fold more frequently in patients receiving Avastin.
 Do not administer Avastin to patients with serious hemorrhage or recent hemoptysis.
-[See Dosage and Administration (2.4), Warnings and Precautions (5.3), and Adverse Reactions (6.1).]
+[See Dosage and Administration (2.4), Warnings and Precautions (5.3), Adverse Reactions (6.1).]

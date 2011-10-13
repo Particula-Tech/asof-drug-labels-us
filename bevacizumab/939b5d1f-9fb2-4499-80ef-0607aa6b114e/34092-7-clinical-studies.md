@@ -170,5 +170,5 @@ The study population was characterized by Motzer scores as follows: 28% favorabl
 
 The results are presented in Figure 3.
 PFS was statistically significantly prolonged among patients receiving Avastin plus IFN‑α2a compared to those receiving IFN‑α2a alone; median PFS was 10.2 months vs. 5.4 months [HR 0.60 (95% CI 0.49, 0.72), p‐value < 0.0001, stratified log‑rank test].
-Among the 595 patients with measureable disease, ORR was also significantly higher (30% vs. 12%, p < 0.0001, stratified CMH test).
+Among the 595 patients with measurable disease, ORR was also significantly higher (30% vs. 12%, p < 0.0001, stratified CMH test).
 There was no improvement in OS based on the final analysis conducted after 444 deaths, with a median OS of 23 months in the Avastin plus IFN‑α2a arm and 21 months in the IFN‑α2a plus placebo arm [HR 0.86, (95% CI 0.72, 1.04)].
