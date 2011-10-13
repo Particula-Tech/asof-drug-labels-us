@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA approved Patient Labeling
+“See FDA-approved Patient Labeling (Patient Information)”
 
 ## 17.1 Nitrates
 
@@ -19,11 +19,12 @@ Physicians should advise patients who experience symptoms upon initiation of sex
 
 ## 17.3 Concomitant Use with Drugs Which Lower Blood Pressure
 
-Physicians should discuss with patients the potential for CIALIS to augment the blood-pressure-lowering effect of alpha blockers and antihypertensive medications [see Warnings and Precautions (5.6), Drug Interactions (7.1), and Clinical Pharmacology (12.2)].
+Physicians should discuss with patients the potential for CIALIS to augment the blood-pressure-lowering effect of alpha-blockers and antihypertensive medications [see Warnings and Precautions (5.6), Drug Interactions (7.1), and Clinical Pharmacology (12.2)].
 
 ## 17.4 Potential for Drug Interactions When Taking CIALIS for Once Daily Use
 
-Physicians should discuss with patients the clinical implications of continuous exposure to tadalafil when prescribing CIALIS for once daily use, especially the potential for interactions with medications (e.g., nitrates, alpha blockers, antihypertensives and potent inhibitors of cytochrome P450 3A4) and with substantial consumption of alcohol.
+Physicians should discuss with patients the clinical implications of continuous exposure to tadalafil when prescribing CIALIS for once daily use, especially the potential for interactions with medications (e.g., nitrates, alpha-blockers, antihypertensives and potent inhibitors of cytochrome P450 3A4) and with substantial consumption of alcohol.
+[See Dosage and Administration (2.7), Warnings and Precautions (5.6), Drug Interactions (7.1, 7.2), Clinical Pharmacology (12.2), and Clinical Studies (14.2)].
 
 ## 17.5 Priapism
 
@@ -42,7 +43,7 @@ Physicians should also discuss with patients the increased risk of NAION in indi
 
 Physicians should advise patients to stop taking PDE5 inhibitors, including CIALIS, and seek prompt medical attention in the event of sudden decrease or loss of hearing.
 These events, which may be accompanied by tinnitus and dizziness, have been reported in temporal association to the intake of PDE5 inhibitors, including CIALIS.
-It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors [see Adverse Reactions (6.1) and (6.2)].
+It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors [see Adverse Reactions (6.1, 6.2)].
 
 ## 17.8 Alcohol
 
@@ -57,10 +58,12 @@ Counseling of patients about the protective measures necessary to guard against 
 
 ## 17.10 Recommended Administration
 
-CIALIS is available in two dosing regimens; therefore, physicians should instruct patients on the appropriate administration to allow optimal use.
+Physicians should instruct patients on the appropriate administration of CIALIS to allow optimal use.
 
-For CIALIS for use as needed, patients should be instructed to take one tablet at least 30 minutes before anticipated sexual activity.
+For CIALIS for use as needed in men with ED, patients should be instructed to take one tablet at least 30 minutes before anticipated sexual activity.
 In most patients, the ability to have sexual intercourse is improved for up to 36 hours.
 
-For CIALIS for once daily use, patients should be instructed to take one tablet at approximately the same time every day without regard for the timing of sexual activity.
+For CIALIS for once daily use in men with ED or ED/BPH, patients should be instructed to take one tablet at approximately the same time every day without regard for the timing of sexual activity.
 Cialis is effective at improving erectile function over the course of therapy.
+
+For CIALIS for once daily use in men with BPH, patients should be instructed to take one tablet at approximately the same time every day.

@@ -1,6 +1,8 @@
 Patient Information
 
-CIALIS®(See-AL-iss) (tadalafil) tablets
+CIALIS® (See-AL-iss)
+
+(tadalafil) tablets
 
 Read this important information before you start taking CIALIS and each time you get a refill.
 There may be new information.
@@ -22,7 +24,7 @@ Angina is a symptom of heart disease and can cause pain in your chest, jaw, or d
   Nitrates can also be found in other medicines such as isosorbide dinitrate or isosorbide mononitrate.
   Some recreational drugs called “poppers” also contain nitrates, such as amyl nitrite and butyl nitrite.
 - Ask your healthcare provider or pharmacist if you are not sure if any of your medicines are nitrates.
-  (See “Who should not take CIALIS?”)
+  (See “Who Should Not Take CIALIS?”)
 
 Tell all of your healthcare providers that you take CIALIS.
 If you need emergency medical care for a heart problem, it will be important for your healthcare provider to know when you last took CIALIS.
@@ -37,7 +39,13 @@ See also “What Are The Possible Side Effects Of CIALIS?”
 
 What Is CIALIS?
 
-CIALIS is a prescription medicine taken by mouth for the treatment of erectile dysfunction (ED) in men.
+CIALIS is a prescription medicine taken by mouth for the treatment of:
+
+- men with erectile dysfunction (ED)
+- men with symptoms of benign prostatic hyperplasia (BPH)
+- men with both ED and BPH
+
+CIALIS for the Treatment of ED
 
 ED is a condition where the penis does not fill with enough blood to harden and expand when a man is sexually excited, or when he cannot keep an erection.
 A man who has trouble getting or keeping an erection should see his healthcare provider for help if the condition bothers him.
@@ -54,7 +62,16 @@ CIALIS does not:
   Speak to your healthcare provider about ways to guard against sexually transmitted diseases.
 - serve as a male form of birth control
 
-CIALIS is only for men over the age of 18 who have ED, including men with diabetes or who have undergone prostatectomy
+CIALIS is only for men over the age of 18, including men with diabetes or who have undergone prostatectomy.
+
+CIALIS for the Treatment of Symptoms of BPH
+
+BPH is a condition that happens in men, where the prostate gland enlarges which can cause urinary symptoms.
+
+CIALIS for the Treatment of ED and Symptoms of BPH
+
+ED and symptoms of BPH may happen in the same person and at the same time.
+Men who have both ED and symptoms of BPH may take CIALIS for the treatment of both conditions.
 
 CIALIS is not for women or children.
 
@@ -67,6 +84,15 @@ Do not take CIALIS if you:
 - take any medicines called “nitrates”.
 - use recreational drugs called “poppers” like amyl nitrite and butyl nitrite.
   (See “What Is The Most Important Information I Should Know About CIALIS?”)
+- are allergic to CIALIS or ADCIRCA®, or any of its ingredients.
+  See the end of this leaflet for a complete list of ingredients in CIALIS.
+  Symptoms of an allergic reaction may include:
+  - rash
+  - hives
+  - swelling of the lips, tongue, or throat
+  - difficulty breathing or swallowing
+
+Call your healthcare provider or get help right away if you have any of the symptoms of an allergic reaction listed above.
 
 What Should I Tell My Healthcare Provider Before Taking CIALIS?
 
@@ -74,8 +100,6 @@ CIALIS is not right for everyone.
 Only your healthcare provider and you can decide if CIALIS is right for you.
 Before taking CIALIS, tell your healthcare provider about all your medical problems, including if you:
 
-- are allergic to CIALIS or ADCIRCATM or any of its ingredients.
-  See the end of this leaflet for a complete list of ingredients in CIALIS.
 - have heart problems such as angina, heart failure, irregular heartbeats, or have had a heart attack.
   Ask your healthcare provider if it is safe for you to have sexual activity.
   You should not take CIALIS if your healthcare provider has told you not to have sexual activity because of your health problems.
@@ -96,23 +120,23 @@ Can Other Medicines Affect CIALIS?
 Tell your healthcare provider about all the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.
 CIALIS and other medicines may affect each other.
 Always check with your healthcare provider before starting or stopping any medicines.
-Especially tell your healthcare provider if you take any of the following:*
+Especially tell your healthcare provider if you take any of the following*:
 
 - medicines called nitrates (see “What Is The Most Important Information I Should Know About CIALIS?”)
 - medicines called alpha blockers.
-  These include Hytrin® (terazosin HCl), Flomax® (tamsulosin HCl), Cardura® (doxazosin mesylate), Minipress® (prazosin HCl) or Uroxatral® (alfuzosin HCl).
-  Alpha blockers are sometimes prescribed for prostate problems or high blood pressure.
+  These include Hytrin® (terazosin HCl), Flomax® (tamsulosin HCl), Cardura® (doxazosin mesylate), Minipress® (prazosin HCl), Uroxatral® (alfuzosin HCl), Jalyn® (dutasteride and tamsulosin HCl) or Rapaflo® (silodosin).
+  Alpha-blockers are sometimes prescribed for prostate problems or high blood pressure.
   If CIALIS is taken with certain alpha blockers, your blood pressure could suddenly drop.
   You could get dizzy or faint.
 - other medicines to treat high blood pressure (hypertension)
 - medicines called HIV protease inhibitors, such as ritonavir (Norvir®, Kaletra®)
-- ketoconazole (Nizoral®)
-- itraconazole (Sporanox®)
-- erythromycin
+- some types of oral antifungals such as ketoconazole (Nizoral®), itraconazole (Sporanox®)
+- some types of antibiotics such as clarithromycin (Biaxin®), telithromycin (Ketek®), erythromycin (several brand names exist.
+  Please consult your healthcare provider to determine if you are taking this medicine).
 - other medicines or treatments for ED.
 - CIALIS is also marketed as ADCIRCA for the treatment of pulmonary arterial hypertension.
   Do not take both CIALIS and ADCIRCA.
-  Do not take sildenafil citrate (RevatioTM) with CIALIS.
+  Do not take sildenafil citrate (Revatio®) with CIALIS.
 
 How Should I Take CIALIS?
 
@@ -124,7 +148,17 @@ How Should I Take CIALIS?
 - CIALIS may be taken with or without meals.
 - If you take too much CIALIS, call your healthcare provider or emergency room right away.
 
-There are two ways to take CIALIS:
+How Should I Take CIALIS for Symptoms of BPH?
+
+For symptoms of BPH, CIALIS is taken once daily.
+
+- Do not take CIALIS more than one time each day.
+- Take one CIALIS tablet every day at about the same time of day.
+- If you miss a dose, you may take it when you remember but do not take more than one dose per day.
+
+How Should I Take CIALIS for ED?
+
+For ED, there are two ways to take CIALIS - either for use as needed OR for use once daily.
 
 CIALIS for use as needed:
 
@@ -137,14 +171,24 @@ CIALIS for use as needed:
 
 OR
 
-CIALIS for once daily use:
+CIALIS for once daily use is a lower dose you take every day.
+
+- Do not take CIALIS more than one time each day.
+- Take one CIALIS tablet every day at about the same time of day.
+  You may attempt sexual activity at any time between doses.
+- If you miss a dose, you may take it when you remember but do not take more than one dose per day.
+  Some form of sexual stimulation is needed for an erection to happen with CIALIS.
+- Your healthcare provider may change your dose of CIALIS depending on how you respond to the medicine, and on your health condition.
+
+How Should I Take CIALIS for Both ED and the Symptoms of BPH?
+
+For both ED and the symptoms of BPH, CIALIS is taken once daily.
 
 - Do not take CIALIS more than one time each day.
 - Take one CIALIS tablet every day at about the same time of day.
   You may attempt sexual activity at any time between doses.
 - If you miss a dose, you may take it when you remember but do not take more than one dose per day.
 - Some form of sexual stimulation is needed for an erection to happen with CIALIS.
-- Your healthcare provider may change your dose of CIALIS depending on how you respond to the medicine, and on your health condition.
 
 What Should I Avoid While Taking CIALIS?
 
@@ -206,6 +250,8 @@ Active Ingredient: tadalafil
 
 Inactive Ingredients: croscarmellose sodium, hydroxypropyl cellulose, hypromellose, iron oxide, lactose monohydrate, magnesium stearate, microcrystalline cellulose, sodium lauryl sulfate, talc, titanium dioxide, and triacetin.
 
+This Patient Information has been approved by the U.S. Food and Drug Administration
+
 Rx only
 
 CIALIS® (tadalafil) is a registered trademark of Eli Lilly and Company.
@@ -213,10 +259,13 @@ CIALIS® (tadalafil) is a registered trademark of Eli Lilly and Company.
 *The brands listed are trademarks of their respective owners and are not trademarks of Eli Lilly and Company.
 The makers of these brands are not affiliated with and do not endorse Eli Lilly and Company or its products.
 
-Literature revised July 28, 2009
+Revision Date October 2011
 
-| Eli Lilly and Company Indianapolis, IN 46285, USA |  |
-| --- | --- |
-| www.cialis.com |  |
-| Copyright © 2003, 2009, Eli Lilly and Company. All rights reserved. |  |
-| PV 5226 AMP |  |
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
+
+www.cialis.com
+
+Copyright © 2003, 2011, Eli Lilly and Company.
+All rights reserved.
+
+PV 5227 AMP

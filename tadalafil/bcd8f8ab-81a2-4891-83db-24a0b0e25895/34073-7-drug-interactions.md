@@ -5,12 +5,13 @@
 Nitrates — Administration of CIALIS to patients who are using any form of organic nitrate, is contraindicated.
 In clinical pharmacology studies, CIALIS was shown to potentiate the hypotensive effect of nitrates.
 In a patient who has taken CIALIS, where nitrate administration is deemed medically necessary in a life-threatening situation, at least 48 hours should elapse after the last dose of CIALIS before nitrate administration is considered.
-In such circumstances, nitrates should still only be administered under close medical supervision with appropriate hemodynamic monitoring [see Contraindications (4.1), Dosage and Administration (2.4) and Clinical Pharmacology (12.2)].
+In such circumstances, nitrates should still only be administered under close medical supervision with appropriate hemodynamic monitoring [see Dosage and Administration (2.7), Contraindications (4.1), and Clinical Pharmacology (12.2)].
 
-Alpha Blockers — Caution is advised when PDE5 inhibitors are coadministered with alpha blockers.
+Alpha-Blockers — Caution is advised when PDE5 inhibitors are coadministered with alpha-blockers.
 PDE5 inhibitors, including CIALIS, and alpha-adrenergic blocking agents are both vasodilators with blood-pressure-lowering effects.
 When vasodilators are used in combination, an additive effect on blood pressure may be anticipated.
-Clinical pharmacology studies have been conducted with coadministration of tadalafil with doxazosin or tamsulosin [see Warnings and Precautions (5.6), Dosage and Administration (2.4) and Clinical Pharmacology (12.2)].
+Clinical pharmacology studies have been conducted with coadministration of tadalafil with doxazosin, tamsulosin or alfuzosin.
+[See Dosage and Administration (2.7), Warnings and Precautions (5.6), and Clinical Pharmacology (12.2)].
 
 Antihypertensives — PDE5 inhibitors, including tadalafil, are mild systemic vasodilators.
 Clinical pharmacology studies were conducted to assess the effect of tadalafil on the potentiation of the blood-pressure-lowering effects of selected antihypertensive medications (amlodipine, angiotensin II receptor blockers, bendrofluazide, enalapril, and metoprolol).
@@ -25,24 +26,24 @@ Tadalafil did not affect alcohol plasma concentrations and alcohol did not affec
 
 ## 7.2 Potential for Other Drugs to Affect CIALIS
 
-[See Dosage and Administration (2.4) and Warnings and Precautions (5.10)].
+[See Dosage and Administration (2.7) and Warnings and Precautions (5.10)].
 
 Antacids — Simultaneous administration of an antacid (magnesium hydroxide/aluminum hydroxide) and tadalafil reduced the apparent rate of absorption of tadalafil without altering exposure (AUC) to tadalafil.
 
-H2Antagonists (e.g.
+H2 Antagonists (e.g.
 Nizatidine) — An increase in gastric pH resulting from administration of nizatidine had no significant effect on pharmacokinetics.
 
 Cytochrome P450 Inhibitors — CIALIS is a substrate of and predominantly metabolized by CYP3A4.
 Studies have shown that drugs that inhibit CYP3A4 can increase tadalafil exposure.
 
 CYP3A4 (e.g., Ketoconazole) — Ketoconazole (400 mg daily), a selective and potent inhibitor of CYP3A4, increased tadalafil 20 mg single-dose exposure (AUC) by 312% and Cmax by 22%, relative to the values for tadalafil 20 mg alone.
-Ketoconazole (200 mg daily) increased tadalafil 10-mg single-dose exposure (AUC) by 107% and Cmax by 15%, relative to the values for tadalafil 10 mg alone [see Dosage and Administration (2.4)].
+Ketoconazole (200 mg daily) increased tadalafil 10-mg single-dose exposure (AUC) by 107% and Cmax by 15%, relative to the values for tadalafil 10 mg alone [see Dosage and Administration (2.7)].
 
 Although specific interactions have not been studied, other CYP3A4 inhibitors, such as erythromycin, itraconazole, and grapefruit juice, would likely increase tadalafil exposure.
 
 HIV Protease inhibitor — Ritonavir (500 mg or 600 mg twice daily at steady state), an inhibitor of CYP3A4, CYP2C9, CYP2C19, and CYP2D6, increased tadalafil 20-mg single-dose exposure (AUC) by 32% with a 30% reduction in Cmax, relative to the values for tadalafil 20 mg alone.
 Ritonavir (200 mg twice daily), increased tadalafil 20-mg single-dose exposure (AUC) by 124% with no change in Cmax, relative to the values for tadalafil 20 mg alone.
-Although specific interactions have not been studied, other HIV protease inhibitors would likely increase tadalafil exposure [see Dosage and Administration (2.4)].
+Although specific interactions have not been studied, other HIV protease inhibitors would likely increase tadalafil exposure [see Dosage and Administration (2.7)].
 
 Cytochrome P450 Inducers — Studies have shown that drugs that induce CYP3A4 can decrease tadalafil exposure.
 

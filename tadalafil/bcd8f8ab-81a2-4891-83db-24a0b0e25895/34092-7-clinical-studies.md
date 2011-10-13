@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 CIALIS for Use as Needed
+## 14.1 CIALIS for Use as Needed for ED
 
 The efficacy and safety of tadalafil in the treatment of erectile dysfunction has been evaluated in 22 clinical trials of up to 24-weeks duration, involving over 4000 patients.
 CIALIS, when taken as needed up to once per day, was shown to be effective in improving erectile function in men with erectile dysfunction (ED).
@@ -27,15 +27,15 @@ The population was 78% White, 14% Black, 7% Hispanic, and 1% of other ethnicitie
 Most (>90%) patients reported ED of at least 1-year duration.
 Study A was conducted primarily in academic centers.
 Study B was conducted primarily in community-based urology practices.
-In each of these 2 trials, CIALIS 20 mg showed clinically meaningful and statistically significant improvements in all 3 primary efficacy variables (see Table 10).
+In each of these 2 trials, CIALIS 20 mg showed clinically meaningful and statistically significant improvements in all 3 primary efficacy variables (see Table 11).
 The treatment effect of CIALIS did not diminish over time.
 
-Table 10: Mean Endpoint and Change from Baseline for the Primary Efficacy Variables in the Two Primary US Trials
+Table 11: Mean Endpoint and Change from Baseline for the Primary Efficacy Variables in the Two Primary US Trials
 
 |  | Study A |  |  | Study B |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo | CIALIS 20 mg |  | Placebo | CIALIS 20 mg |  |
-|  | (N=49) | (N=146) | p-value | (N=48) | (N=159) | p-value |
+| Placebo | CIALIS 20 mg |  | Placebo | CIALIS 20 mg |  |  |
+| (N=49) | (N=146) | p-value | (N=48) | (N=159) | p-value |  |
 | EF Domain Score |  |  |  |  |  |  |
 | Endpoint | 13.5 | 19.5 |  | 13.6 | 22.5 |  |
 | Change from baseline | -0.2 | 6.9 | <.001 | 0.3 | 9.3 | <.001 |
@@ -49,10 +49,10 @@ Table 10: Mean Endpoint and Change from Baseline for the Primary Efficacy Variab
 Results in General ED Population in Trials Outside the US — The 5 primary efficacy and safety studies conducted in the general ED population outside the US included 1112 patients, with a mean age of 59 years (range 21 to 82 years).
 The population was 76% White, 1% Black, 3% Hispanic, and 20% of other ethnicities, and included patients with ED of various severities, etiologies (organic, psychogenic, mixed), and with multiple co-morbid conditions, including diabetes mellitus, hypertension, and other cardiovascular disease.
 Most (90%) patients reported ED of at least 1-year duration.
-In these 5 trials, CIALIS 5, 10, and 20 mg showed clinically meaningful and statistically significant improvements in all 3 primary efficacy variables (see Tables 11, 12 and 13).
+In these 5 trials, CIALIS 5, 10, and 20 mg showed clinically meaningful and statistically significant improvements in all 3 primary efficacy variables (see Tables 12, 13 and 14).
 The treatment effect of CIALIS did not diminish over time.
 
-Table 11: Mean Endpoint and Change from Baseline for the EF Domain of the IIEF in the General ED Population in Five Primary Trials Outside the US
+Table 12: Mean Endpoint and Change from Baseline for the EF Domain of the IIEF in the General ED Population in Five Primary Trials Outside the US
 
 |  | Placebo | CIALIS 5 mg | CIALIS 10 mg | CIALIS 20 mg |
 | --- | --- | --- | --- | --- |
@@ -73,7 +73,7 @@ Table 11: Mean Endpoint and Change from Baseline for the EF Domain of the IIEF i
 |  |  |  | p<.001 | p<.001 |
 | a Treatment duration in Study F was 6 months |  |  |  |  |
 
-Table 12: Mean Post-Baseline Success Rate and Change from Baseline for SEP Question 2 (“Were you able to insert your penis into the partner's vagina?”) in the General ED Population in Five Pivotal Trials Outside the US
+Table 13: Mean Post-Baseline Success Rate and Change from Baseline for SEP Question 2 (“Were you able to insert your penis into the partner's vagina?”) in the General ED Population in Five Pivotal Trials Outside the US
 
 |  | Placebo | CIALIS 5 mg | CIALIS 10 mg | CIALIS 20 mg |
 | --- | --- | --- | --- | --- |
@@ -94,7 +94,7 @@ Table 12: Mean Post-Baseline Success Rate and Change from Baseline for SEP Quest
 |  |  |  | p<.001 | p<.001 |
 | a Treatment duration in Study F was 6 months |  |  |  |  |
 
-Table 13: Mean Post-Baseline Success Rate and Change from Baseline for SEP Question 3 (“Did your erection last long enough for you to have successful intercourse?”) in the General ED Population in Five Pivotal Trials Outside the US
+Table 14: Mean Post-Baseline Success Rate and Change from Baseline for SEP Question 3 (“Did your erection last long enough for you to have successful intercourse?”) in the General ED Population in Five Pivotal Trials Outside the US
 
 |  | Placebo | CIALIS 5 mg | CIALIS 10 mg | CIALIS 20 mg |
 | --- | --- | --- | --- | --- |
@@ -121,13 +121,13 @@ Therefore, in all 7 primary efficacy and safety studies, CIALIS showed statistic
 
 Efficacy Results in ED Patients with Diabetes Mellitus — CIALIS was shown to be effective in treating ED in patients with diabetes mellitus.
 Patients with diabetes were included in all 7 primary efficacy studies in the general ED population (N=235) and in one study that specifically assessed CIALIS in ED patients with type 1 or type 2 diabetes (N=216).
-In this randomized, placebo-controlled, double-blinded, parallel-arm design prospective trial, CIALIS demonstrated clinically meaningful and statistically significant improvement in erectile function, as measured by the EF domain of the IIEF questionnaire and Questions 2 and 3 of the SEP diary (see Table 14).
+In this randomized, placebo-controlled, double-blinded, parallel-arm design prospective trial, CIALIS demonstrated clinically meaningful and statistically significant improvement in erectile function, as measured by the EF domain of the IIEF questionnaire and Questions 2 and 3 of the SEP diary (see Table 15).
 
-Table 14: Mean Endpoint and Change from Baseline for the Primary Efficacy Variables in a Study in ED Patients with Diabetes
+Table 15: Mean Endpoint and Change from Baseline for the Primary Efficacy Variables in a Study in ED Patients with Diabetes
 
 |  | Placebo | CIALIS 10 mg | CIALIS 20 mg |  |
 | --- | --- | --- | --- | --- |
-|  | (N=71) | (N=73) | (N=72) | p-value |
+| (N=71) | (N=73) | (N=72) | p-value |  |
 | EF Domain Score |  |  |  |  |
 | Endpoint [Change from baseline] | 12.2 [0.1] | 19.3 [6.4] | 18.7 [7.3] | <.001 |
 | Insertion of Penis (SEP2) |  |  |  |  |
@@ -136,13 +136,13 @@ Table 14: Mean Endpoint and Change from Baseline for the Primary Efficacy Variab
 | Endpoint [Change from baseline] | 20% [2%] | 48% [28%] | 42% [29%] | <.001 |
 
 Efficacy Results in ED Patients following Radical Prostatectomy — CIALIS was shown to be effective in treating patients who developed ED following bilateral nerve-sparing radical prostatectomy.
-In 1 randomized, placebo-controlled, double-blinded, parallel-arm design prospective trial in this population (N=303), CIALIS demonstrated clinically meaningful and statistically significant improvement in erectile function, as measured by the EF domain of the IIEF questionnaire and Questions 2 and 3 of the SEP diary (see Table 15).
+In 1 randomized, placebo-controlled, double-blinded, parallel-arm design prospective trial in this population (N=303), CIALIS demonstrated clinically meaningful and statistically significant improvement in erectile function, as measured by the EF domain of the IIEF questionnaire and Questions 2 and 3 of the SEP diary (see Table 16).
 
-Table 15: Mean Endpoint and Change from Baseline for the Primary Efficacy Variables in a Study in Patients who Developed ED Following Bilateral Nerve-Sparing Radical Prostatectomy
+Table 16: Mean Endpoint and Change from Baseline for the Primary Efficacy Variables in a Study in Patients who Developed ED Following Bilateral Nerve-Sparing Radical Prostatectomy
 
 |  | Placebo | CIALIS 20 mg |  |
 | --- | --- | --- | --- |
-|  | (N=102) | (N=201) | p-value |
+| (N=102) | (N=201) | p-value |  |
 | EF Domain Score |  |  |  |
 | Endpoint [Change from baseline] | 13.3 [1.1] | 17.7 [5.3] | <.001 |
 | Insertion of Penis (SEP2) |  |  |  |
@@ -171,7 +171,7 @@ In this study, the results demonstrated a statistically significant difference b
 At the 24-hour timepoint, the mean, per patient percentage of attempts resulting in successful intercourse were 42, 56, and 67% for the placebo, CIALIS 10-, and 20-mg groups, respectively.
 At the 36-hour timepoint, the mean, per-patient percentage of attempts resulting in successful intercourse were 33, 56, and 62% for placebo, CIALIS 10-, and 20-mg groups, respectively.
 
-## 14.2 CIALIS for Once Daily Use
+## 14.2 CIALIS for Once Daily Use for ED
 
 The efficacy and safety of CIALIS for once daily use in the treatment of erectile dysfunction has been evaluated in 2 clinical trials of 12-weeks duration and 1 clinical trial of 24-weeks duration, involving a total of 853 patients.
 CIALIS, when taken once daily, was shown to be effective in improving erectile function in men with erectile dysfunction (ED).
@@ -191,18 +191,17 @@ The primary efficacy and safety study conducted outside the US included 268 pati
 The population was 86% White, 3% Black, 0.4% Hispanic, and 10% of other ethnicities, and included patients with ED of various severities, etiologies (organic, psychogenic, mixed), and with multiple co-morbid conditions, including diabetes mellitus, hypertension, and other cardiovascular disease.
 Ninety-three percent of patients reported ED of at least 1-year duration.
 
-In each of these trials, conducted without regard to the timing of dose and sexual intercourse, CIALIS demonstrated clinically meaningful and statistically significant improvement in erectile function, as measured by the EF domain of the IIEF questionnaire and Questions 2 and 3 of the SEP diary (see Table 16).
+In each of these trials, conducted without regard to the timing of dose and sexual intercourse, CIALIS demonstrated clinically meaningful and statistically significant improvement in erectile function, as measured by the EF domain of the IIEF questionnaire and Questions 2 and 3 of the SEP diary (see Table 17).
 When taken as directed, CIALIS was effective at improving erectile function.
 
-In the 6 month double blind study, the treatment effect of CIALIS did not diminish over time.
+In the 6 month double-blind study, the treatment effect of CIALIS did not diminish over time.
 
-Table 16: Mean Endpoint and Change from Baseline for the Primary Efficacy Variables in the Two CIALIS for Once Daily Use Studies
+Table 17: Mean Endpoint and Change from Baseline for the Primary Efficacy Variables in the Two CIALIS for Once Daily Use Studies
 
 |  | Study Ha |  |  |  | Study Ib |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo | CIALIS | CIALIS |  | Placebo | CIALIS |  |
-|  | 2.5 mg | 5 mg |  |  | 5 mg |  |  |
-|  | (N=94) | (N=96) | (N=97) | p-value | (N=54) | (N=109) | p-value |
+| Placebo | CIALIS 2.5 mg | CIALIS 5 mg |  | Placebo | CIALIS 5 mg |  |  |
+| (N=94) | (N=96) | (N=97) | p-value | (N=54) | (N=109) | p-value |  |
 | EF Domain Score |  |  |  |  |  |  |  |
 | Endpoint | 14.6 | 19.1 | 20.8 |  | 15.0 | 22.8 |  |
 | Change from baseline | 1.2 | 6.1c | 7.0c | <.001 | 0.9 | 9.7c | <.001 |
@@ -214,18 +213,18 @@ Table 16: Mean Endpoint and Change from Baseline for the Primary Efficacy Variab
 | Change from baseline | 10% | 31%c | 35%c | <.001 | 13% | 46%c | <.001 |
 | a Twenty-four-week study conducted in the US. |  |  |  |  |  |  |  |
 | b Twelve-week study conducted outside the US. |  |  |  |  |  |  |  |
-| c Statistically significantly different from placebo |  |  |  |  |  |  |  |
+| c Statistically significantly different from placebo. |  |  |  |  |  |  |  |
 
 Efficacy Results in ED Patients with Diabetes Mellitus — CIALIS for once daily use was shown to be effective in treating ED in patients with diabetes mellitus.
 Patients with diabetes were included in both studies in the general ED population (N=79).
 A third randomized, multicenter, double-blinded, placebo-controlled, parallel-arm design trial included only ED patients with type 1 or type 2 diabetes (N=298).
-In this third trial, CIALIS demonstrated clinically meaningful and statistically significant improvement in erectile function, as measured by the EF domain of the IIEF questionnaire and Questions 2 and 3 of the SEP diary (see Table 17).
+In this third trial, CIALIS demonstrated clinically meaningful and statistically significant improvement in erectile function, as measured by the EF domain of the IIEF questionnaire and Questions 2 and 3 of the SEP diary (see Table 18).
 
-Table 17: Mean Endpoint and Change from Baseline for the Primary Efficacy Variables in a CIALIS for Once Daily Use Study in ED Patients with Diabetes
+Table 18: Mean Endpoint and Change from Baseline for the Primary Efficacy Variables in a CIALIS for Once Daily Use Study in ED Patients with Diabetes
 
 |  | Placebo | CIALIS 2.5 mg | CIALIS 5 mg |  |
 | --- | --- | --- | --- | --- |
-|  | (N=100) | (N=100) | (N=98) | p-value |
+| (N=100) | (N=100) | (N=98) | p-value |  |
 | EF Domain Score |  |  |  |  |
 | Endpoint | 14.7 | 18.3 | 17.2 |  |
 | Change from baseline | 1.3 | 4.8a | 4.5a | <.001 |
@@ -235,4 +234,84 @@ Table 17: Mean Endpoint and Change from Baseline for the Primary Efficacy Variab
 | Maintenance of Erection (SEP3) |  |  |  |  |
 | Endpoint | 28% | 46% | 41% |  |
 | Change from baseline | 8% | 26%a | 25%a | <.001 |
-| a Statistically significantly different from placebo |  |  |  |  |
+| a Statistically significantly different from placebo. |  |  |  |  |
+
+## 14.3 CIALIS 5 mg for Once Daily Use for Benign Prostatic Hyperplasia (BPH)
+
+The efficacy and safety of CIALIS for once daily use for the treatment of the signs and symptoms of BPH was evaluated in 3 randomized, multinational, double-blinded, placebo-controlled, parallel-design, efficacy and safety studies of 12 weeks duration.
+Two of these studies were in men with BPH and one study was specific to men with both ED and BPH [see Clinical Studies (14.4)].
+The first study (Study J) randomized 1058 patients to receive either CIALIS 2.5 mg, 5 mg, 10 mg or 20 mg for once daily use or placebo.
+The second study (Study K) randomized 325 patients to receive either CIALIS 5 mg for once daily use or placebo.
+The full study population was 87% White, 2% Black, 11% other races; 15% was of Hispanic ethnicity.
+Patients with multiple co-morbid conditions such as diabetes mellitus, hypertension, and other cardiovascular disease were included.
+
+The primary efficacy endpoint in the two studies that evaluated the effect of CIALIS for the signs and symptoms of BPH was the International Prostate Symptom Score (IPSS), a four week recall questionnaire that was administered at the beginning and end of a placebo run-in period and subsequently at follow-up visits after randomization.
+The IPSS assesses the severity of irritative (frequency, urgency, nocturia) and obstructive symptoms (incomplete emptying, stopping and starting, weak stream, and pushing or straining), with scores ranging from 0 to 35; higher numeric scores representing greater severity.
+Maximum urinary flow rate (Qmax), an objective measure of urine flow, was assessed as a secondary efficacy endpoint in Study J and as a safety endpoint in Study K.
+
+The results for BPH patients with moderate to severe symptoms and a mean age of 63.2 years (range 44 to 87) who received either CIALIS 5 mg for once daily use or placebo (N=748) in Studies J and K are shown in Table 19 and Figures 5 and 6, respectively.
+
+In each of these 2 trials, CIALIS 5 mg for once daily use resulted in statistically significant improvement in the total IPSS compared to placebo.
+Mean total IPSS showed a decrease starting at the first scheduled observation (4 weeks) in Study K and remained decreased through 12 weeks.
+
+Table 19: Mean IPSS Changes in BPH Patients in Two CIALIS for Once Daily Use Studies
+
+|  | Study J |  |  | Study K |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Placebo | CIALIS 5 mg |  | Placebo | CIALIS 5 mg |  |  |
+| (N=205) | (N=205) | p-value | (N=164) | (N=160) | p-value |  |
+| Total Symptom Score (IPSS) |  |  |  |  |  |  |
+| Baseline | 17.1 | 17.3 |  | 16.6 | 17.1 |  |
+| Change from Baseline to Week 12 | -2.2 | -4.8 | <.001 | -3.6 | -5.6 | .004 |
+
+In Study J, the effect of CIALIS 5 mg once daily on maximum urinary flow rate (Qmax) was evaluated as a secondary efficacy endpoint.
+Mean Qmax increased from baseline in both the treatment and placebo groups (CIALIS 5 mg: 1.6 mL/sec, placebo: 1.2 mL/sec); however, these changes were not significantly different between groups.
+
+In Study K, the effect of CIALIS 5 mg once daily on Qmax was evaluated as a safety endpoint.
+Mean Qmax increased from baseline in both the treatment and placebo groups (CIALIS 5 mg: 1.6 mL/sec, placebo: 1.1 mL/sec); however, these changes were not significantly different between groups.
+
+## 14.4 CIALIS 5 mg for Once Daily Use for ED and BPH
+
+The efficacy and safety of CIALIS for once daily use for the treatment of ED, and the signs and symptoms of BPH, in patients with both conditions was evaluated in one placebo-controlled, multinational, double-blind, parallel-arm study which randomized 606 patients to receive either CIALIS 2.5 mg, 5 mg, for once daily use or placebo.
+ED severity ranged from mild to severe and BPH severity ranged from moderate to severe.
+The full study population had a mean age of 63 years (range 45 to 83) and was 93% White, 4% Black, 3% other races; 16% were of Hispanic ethnicity.
+Patients with multiple co-morbid conditions such as diabetes mellitus, hypertension, and other cardiovascular disease were included.
+
+In this study, the co-primary endpoints were total IPSS and the Erectile Function (EF) domain score of the International Index of Erectile Function (IIEF).
+One of the key secondary endpoints in this study was Question 3 of the Sexual Encounter Profile diary (SEP3).
+Timing of sexual activity was not restricted relative to when patients took CIALIS.
+
+The efficacy results for patients with both ED and BPH, who received either CIALIS 5 mg for once daily use or placebo (N=408) are shown in Tables 20 and 21 and Figure 7.
+
+CIALIS 5 mg for once daily use resulted in statistically significant improvements in the total IPSS and in the EF domain of the IIEF questionnaire.
+CIALIS 5 mg for once daily use also resulted in statistically significant improvement in SEP3.
+CIALIS 2.5 mg did not result in statistically significant improvement in the total IPSS.
+
+Table 20: Mean IPSS and IIEF EF Domain Changes in the CIALIS 5 mg for Once Daily Use Study in Patients with ED and BPH
+
+|  | Placebo | CIALIS 5 mg | p-value |
+| --- | --- | --- | --- |
+| Total Symptom Score (IPSS) |  |  |  |
+|  | (N=193) | (N=206) |  |
+| Baseline | 18.2 | 18.5 |  |
+| Change from Baseline to Week 12 | -3.8 | -6.1 | <.001 |
+| EF Domain Score (IIEF EF) |  |  |  |
+|  | (N=188) | (N=202) |  |
+| Baseline | 15.6 | 16.5 |  |
+| Endpoint | 17.6 | 22.9 |  |
+| Change from Baseline to Week 12 | 1.9 | 6.5 | <.001 |
+
+Table 21: Mean SEP Question 3 Changes in the CIALIS 5 mg for Once Daily Use Study in Patients with ED and BPH
+
+|  | Placebo | CIALIS 5 mg |  |
+| --- | --- | --- | --- |
+| (N=187) | (N=199) | p-value |  |
+| Maintenance of Erection (SEP3) |  |  |  |
+| Baseline | 36% | 43% |  |
+| Endpoint | 48% | 72% |  |
+| Change from Baseline to Week 12 | 12% | 32% | <.001 |
+
+CIALIS for once daily use resulted in improvement in the IPSS total score at the first scheduled observation (week 2) and throughout the 12 weeks of treatment (see Figure 7).
+
+In this study, the effect of CIALIS 5 mg once daily on Qmax was evaluated as a safety endpoint.
+Mean Qmax increased from baseline in both the treatment and placebo groups (CIALIS 5 mg: 1.6 mL/sec, placebo: 1.2 mL/sec); however, these changes were not significantly different between groups.

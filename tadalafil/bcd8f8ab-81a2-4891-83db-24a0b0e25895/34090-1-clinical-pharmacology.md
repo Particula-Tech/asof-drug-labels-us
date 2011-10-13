@@ -9,8 +9,11 @@ The inhibition of phosphodiesterase type 5 (PDE5) enhances erectile function by 
 Tadalafil inhibits PDE5.
 Because sexual stimulation is required to initiate the local release of nitric oxide, the inhibition of PDE5 by tadalafil has no effect in the absence of sexual stimulation.
 
+The effect of PDE5 inhibition on cGMP concentration in the corpus cavernosum and pulmonary arteries is also observed in the smooth muscle of the prostate, the bladder and their vascular supply.
+The mechanism for reducing BPH symptoms has not been established.
+
 Studies in vitro have demonstrated that tadalafil is a selective inhibitor of PDE5.
-PDE5 is found in corpus cavernosum smooth muscle, vascular and visceral smooth muscle, skeletal muscle, platelets, kidney, lung, cerebellum, and pancreas.
+PDE5 is found in the smooth muscle of the corpus cavernosum, prostate, and bladder as well as in vascular and visceral smooth muscle, skeletal muscle, platelets, kidney, lung, cerebellum, and pancreas.
 
 In vitro studies have shown that the effect of tadalafil is more potent on PDE5 than on other phosphodiesterases.
 These studies have shown that tadalafil is >10,000-fold more potent for PDE5 than for PDE1, PDE2, PDE4, and PDE7 enzymes, which are found in the heart, brain, blood vessels, liver, leukocytes, skeletal muscle, and other organs.
@@ -18,7 +21,7 @@ Tadalafil is >10,000-fold more potent for PDE5 than for PDE3, an enzyme found in
 Additionally, tadalafil is 700-fold more potent for PDE5 than for PDE6, which is found in the retina and is responsible for phototransduction.
 Tadalafil is >9,000-fold more potent for PDE5 than for PDE8, PDE9, and PDE10.
 Tadalafil is 14-fold more potent for PDE5 than for PDE11A1 and 40-fold more potent for PDE5 than for PDE11A4, two of the four known forms of PDE11.
-PDE11 is an enzyme found in human prostate, testes, skeletal muscle and in other tissues.
+PDE11 is an enzyme found in human prostate, testes, skeletal muscle and in other tissues (e.g., adrenal cortex).
 In vitro, tadalafil inhibits human recombinant PDE11A1 and, to a lesser degree, PDE11A4 activities at concentrations within the therapeutic range.
 The physiological role and clinical consequence of PDE11 inhibition in humans have not been defined.
 
@@ -46,18 +49,18 @@ Therefore, CIALIS administration with nitrates is contraindicated.
 In a patient who has taken CIALIS, where nitrate administration is deemed medically necessary in a life-threatening situation, at least 48 hours should elapse after the last dose of CIALIS before nitrate administration is considered.
 In such circumstances, nitrates should still only be administered under close medical supervision with appropriate hemodynamic monitoring [see Contraindications (4.1)].
 
-Effect on Blood Pressure When Administered With Alpha Blockers
+Effect on Blood Pressure When Administered With Alpha-Blockers
 
-Six randomized, double-blinded, crossover clinical pharmacology studies were conducted to investigate the potential interaction of tadalafil with alpha-blocker agents in healthy male subjects [see Dosage and Administration (2.4) and Warnings and Precautions (5.6)].
-In four studies, a single oral dose of tadalafil was administered to healthy male subjects taking daily (at least 7 days duration) oral alpha blocker.
-In two studies, daily oral alpha blocker (at least 7 days duration) was administered to healthy male subjects taking repeated daily doses of tadalafil.
+Six randomized, double-blinded, crossover clinical pharmacology studies were conducted to investigate the potential interaction of tadalafil with alpha-blocker agents in healthy male subjects [see Dosage and Administration (2.7) and Warnings and Precautions (5.6)].
+In four studies, a single oral dose of tadalafil was administered to healthy male subjects taking daily (at least 7 days duration) an oral alpha-blocker.
+In two studies, a daily oral alpha-blocker (at least 7 days duration) was administered to healthy male subjects taking repeated daily doses of tadalafil.
 
 Doxazosin — Three clinical pharmacology studies were conducted with tadalafil and doxazosin, an alpha[1]-adrenergic blocker.
 
 In the first doxazosin study, a single oral dose of tadalafil 20 mg or placebo was administered in a 2-period, crossover design to healthy subjects taking oral doxazosin 8 mg daily (N=18 subjects).
-Doxazosin was administered at the same time as tadalafil or placebo after a minimum of seven days of doxazosin dosing (see Table 4 and Figure 2).
+Doxazosin was administered at the same time as tadalafil or placebo after a minimum of seven days of doxazosin dosing (see Table 5 and Figure 2).
 
-Table 4: Doxazosin Study 1: Mean Maximal Decrease (95% CI) in Systolic Blood Pressure
+Table 5: Doxazosin (8 mg/day) Study 1: Mean Maximal Decrease (95% CI) in Systolic Blood Pressure
 
 | Placebo-subtracted mean maximal decrease in systolic blood pressure (mm Hg) | Tadalafil 20 mg |
 | --- | --- |
@@ -90,9 +93,9 @@ There was no placebo control.
 In part C (N=24), subjects were titrated to doxazosin 8 mg administered daily at 8 a.m.
 In this part, tadalafil or placebo were administered at either 8 a.m. or 8 p.m.
 
-The placebo-subtracted mean maximal decreases in systolic blood pressure over a 12-hour period after dosing in the placebo-controlled portion of the study (part C) are shown in Table 5 and Figure 3.
+The placebo-subtracted mean maximal decreases in systolic blood pressure over a 12-hour period after dosing in the placebo-controlled portion of the study (part C) are shown in Table 6 and Figure 3.
 
-Table 5: Doxazosin Study 2 (Part C): Mean Maximal Decrease in Systolic Blood Pressure
+Table 6: Doxazosin (8 mg/day) Study 2 (Part C): Mean Maximal Decrease in Systolic Blood Pressure
 
 | Placebo-subtracted mean maximal decrease in systolic blood pressure (mm Hg) | Tadalafil 20 mg at 8 a.m. | Tadalafil 20 mg at 8 p.m. |
 | --- | --- | --- |
@@ -116,9 +119,9 @@ In the period prior to tadalafil dosing, one severe event (dizziness) was report
 
 In the third doxazosin study, healthy subjects (N=45 treated; 37 completed) received 28 days of once per day dosing of tadalafil 5 mg or placebo in a two-period crossover design.
 After 7 days, doxazosin was initiated at 1 mg and titrated up to 4 mg daily over the last 21 days of each period (7 days on 1 mg; 7 days of 2 mg; 7 days of 4 mg doxazosin).
-The results are shown in Table 6.
+The results are shown in Table 7.
 
-Table 6: Doxazosin Study 3: Mean Maximal Decrease (95% CI) in Systolic Blood Pressure
+Table 7: Doxazosin Study 3: Mean Maximal Decrease (95% CI) in Systolic Blood Pressure
 
 | Placebo-subtracted mean maximal decrease in systolic blood pressure |  | Tadalafil 5 mg |
 | --- | --- | --- |
@@ -142,7 +145,7 @@ There were two episodes of syncope in this study, one subject following a dose o
 Tamsulosin — In the first tamsulosin study, a single oral dose of tadalafil 10, 20 mg, or placebo was administered in a 3 period, crossover design to healthy subjects taking 0.4 mg once per day tamsulosin, a selective alpha[1A]-adrenergic blocker (N=18 subjects).
 Tadalafil or placebo was administered 2 hours after tamsulosin following a minimum of seven days of tamsulosin dosing.
 
-Table 7: Tamsulosin Study 1: Mean Maximal Decrease (95% CI) in Systolic Blood Pressure
+Table 8: Tamsulosin (0.4 mg/day) Study 1: Mean Maximal Decrease (95% CI) in Systolic Blood Pressure
 
 | Placebo-subtracted mean maximal decrease in systolic blood pressure (mm Hg) | Tadalafil 10 mg | Tadalafil 20 mg |
 | --- | --- | --- |
@@ -158,13 +161,13 @@ No syncope was reported.
 In the second tamsulosin study, healthy subjects (N=39 treated; and 35 completed) received 14 days of once per day dosing of tadalafil 5 mg or placebo in a two-period crossover design.
 Daily dosing of tamsulosin 0.4 mg was added for the last seven days of each period.
 
-Table 8: Tamsulosin Study 2: Mean Maximal Decrease (95% CI) in Systolic Blood Pressure
+Table 9: Tamsulosin Study 2: Mean Maximal Decrease (95% CI) in Systolic Blood Pressure
 
 | Placebo-subtracted mean maximal decrease in systolic blood pressure |  | Tadalafil 5 mg |
 | --- | --- | --- |
-| Day 1 of Tamsulosin | Supine | -0.1 (-2.2, 1.9) |
+| Day 1 of 0.4 mg Tamsulosin | Supine | -0.1 (-2.2, 1.9) |
 | Standing | 0.9 (-1.4, 3.2) |  |
-| Day 7 of Tamsulosin | Supine | 1.2 (-1.2, 3.6) |
+| Day 7 of 0.4 mg Tamsulosin | Supine | 1.2 (-1.2, 3.6) |
 | Standing | 1.2 (-1.0, 3.5) |  |
 
 Blood pressure was measured manually pre-dose at two time points (-30 and -15 minutes) and then at 1, 2, 3, 4, 5, 6, 7, 8, 10, 12, and 24 hours post dose on the first, sixth and seventh days of tamsulosin administration.
@@ -176,7 +179,7 @@ No syncope was reported.
 Alfuzosin — A single oral dose of tadalafil 20 mg or placebo was administered in a 2-period, crossover design to healthy subjects taking once-daily alfuzosin HCl 10 mg extended-release tablets, an alpha[1]-adrenergic blocker (N=17 completed subjects).
 Tadalafil or placebo was administered 4 hours after alfuzosin following a minimum of seven days of alfuzosin dosing.
 
-Table 9: Alfuzosin Study: Mean Maximal Decrease (95% CI) in Systolic Blood Pressure
+Table 10: Alfuzosin (10 mg/day) Study: Mean Maximal Decrease (95% CI) in Systolic Blood Pressure
 
 | Placebo-subtracted mean maximal decrease in systolic blood pressure (mm Hg) | Tadalafil 20 mg |
 | --- | --- |
@@ -276,7 +279,7 @@ The major circulating metabolite is the methylcatechol glucuronide.
 Methylcatechol concentrations are less than 10% of glucuronide concentrations.
 In vitro data suggests that metabolites are not expected to be pharmacologically active at observed metabolite concentrations.
 
-Elimination — The mean oral clearance for tadalafil is 2.5 L/hr and the mean terminal half-life is 17.5 hours in healthy subjects.
+Excretion — The mean oral clearance for tadalafil is 2.5 L/hr and the mean terminal half-life is 17.5 hours in healthy subjects.
 Tadalafil is excreted predominantly as metabolites, mainly in the feces (approximately 61% of the dose) and to a lesser extent in the urine (approximately 36% of the dose).
 
 Geriatric — Healthy male elderly subjects (65 years or over) had a lower oral clearance of tadalafil, resulting in 25% higher exposure (AUC) with no effect on Cmax relative to that observed in healthy subjects 19 to 45 years of age.
@@ -286,4 +289,7 @@ However, greater sensitivity to medications in some older individuals should be 
 Pediatric — Tadalafil has not been evaluated in individuals less than 18 years old [see Use in Specific Populations (8.4)].
 
 Patients with Diabetes Mellitus — In male patients with diabetes mellitus after a 10 mg tadalafil dose, exposure (AUC) was reduced approximately 19% and Cmax was 5% lower than that observed in healthy subjects.
+No dose adjustment is warranted.
+
+Patients with BPH — In patients with BPH following single and multiple-doses of 20 mg tadalafil, no statistically significant differences in exposure (AUC and Cmax) were observed between elderly (70 to 85 years) and younger (≤60 years of age) subjects.
 No dose adjustment is warranted.

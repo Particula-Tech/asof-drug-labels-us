@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-Evaluation of erectile dysfunction should include an appropriate medical assessment to identify potential underlying causes, as well as treatment options.
+Evaluation of erectile dysfunction and BPH should include an appropriate medical assessment to identify potential underlying causes, as well as treatment options.
 
 Before prescribing CIALIS, it is important to note the following:
 
@@ -23,7 +23,7 @@ The following groups of patients with cardiovascular disease were not included i
 - myocardial infarction within the last 90 days
 - unstable angina or angina occurring during sexual intercourse
 - New York Heart Association Class 2 or greater heart failure in the last 6 months
-- uncontrolled arrhythmias, hypotension (<90/50 mm Hg), or uncontrolled hypertension (>170/100 mm Hg)
+- uncontrolled arrhythmias, hypotension (<90/50 mm Hg), or uncontrolled hypertension
 - stroke within the last 6 months.
 
 As with other PDE5 inhibitors, tadalafil has mild systemic vasodilatory properties that may result in transient decreases in blood pressure.
@@ -33,7 +33,7 @@ Patients with severely impaired autonomic control of blood pressure may be parti
 
 ## 5.2 Potential for Drug Interactions When Taking CIALIS for Once Daily Use
 
-Physicians should be aware that CIALIS for once daily use provides continuous plasma tadalafil levels and should consider this when evaluating the potential for interactions with medications (e.g., nitrates, alpha-blockers, anti-hypertensives and potent inhibitors of CYP3A4) and with substantial consumption of alcohol [see Drug Interactions (7.1), (7.2), (7.3)].
+Physicians should be aware that CIALIS for once daily use provides continuous plasma tadalafil levels and should consider this when evaluating the potential for interactions with medications (e.g., nitrates, alpha-blockers, anti-hypertensives and potent inhibitors of CYP3A4) and with substantial consumption of alcohol [see Drug Interactions (7.1, 7.2, 7.3)].
 
 ## 5.3 Prolonged Erection
 
@@ -56,64 +56,78 @@ Patients with known hereditary degenerative retinal disorders, including retinit
 
 Physicians should advise patients to stop taking PDE5 inhibitors, including CIALIS, and seek prompt medical attention in the event of sudden decrease or loss of hearing.
 These events, which may be accompanied by tinnitus and dizziness, have been reported in temporal association to the intake of PDE5 inhibitors, including CIALIS.
-It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors [see Adverse Reactions (6.1) and (6.2)].
+It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors [see Adverse Reactions (6.1, 6.2)].
 
-## 5.6 Alpha blockers and Antihypertensives
+## 5.6 Alpha-blockers and Antihypertensives
 
 Physicians should discuss with patients the potential for CIALIS to augment the blood-pressure-lowering effect of alpha blockers and antihypertensive medications [see Drug Interactions (7.1) and Clinical Pharmacology (12.2)].
 
 Caution is advised when PDE5 inhibitors are coadministered with alpha blockers.
 PDE5 inhibitors, including CIALIS, and alpha-adrenergic blocking agents are both vasodilators with blood-pressure-lowering effects.
 When vasodilators are used in combination, an additive effect on blood pressure may be anticipated.
-In some patients, concomitant use of these two drug classes can lower blood pressure significantly [see Clinical Pharmacology (12.2) and Drug Interactions (7.1)], which may lead to symptomatic hypotension (e.g., fainting).
+In some patients, concomitant use of these two drug classes can lower blood pressure significantly [see Drug Interactions (7.1) and Clinical Pharmacology (12.2)], which may lead to symptomatic hypotension (e.g., fainting).
 Consideration should be given to the following:
+
+ED
 
 - Patients should be stable on alpha-blocker therapy prior to initiating a PDE5 inhibitor.
   Patients who demonstrate hemodynamic instability on alpha-blocker therapy alone are at increased risk of symptomatic hypotension with concomitant use of PDE5 inhibitors.
 - In those patients who are stable on alpha-blocker therapy, PDE5 inhibitors should be initiated at the lowest recommended dose.
 - In those patients already taking an optimized dose of PDE5 inhibitor, alpha-blocker therapy should be initiated at the lowest dose.
   Stepwise increase in alpha-blocker dose may be associated with further lowering of blood pressure when taking a PDE5 inhibitor.
-- Safety of combined use of PDE5 inhibitors and alpha blockers may be affected by other variables, including intravascular volume depletion and other antihypertensive drugs.
+- Safety of combined use of PDE5 inhibitors and alpha-blockers may be affected by other variables, including intravascular volume depletion and other antihypertensive drugs.
 
-[See Dosage and Administration (2.4) and Drug Interactions (7.1)].
+[See Dosage and Administration (2.7) and Drug Interactions (7.1)].
 
-## 5.7 Renal Insufficiency
+BPH
+
+- The efficacy of the co-administration of an alpha-blocker and CIALIS for the treatment of BPH has not been adequately studied, and due to the potential vasodilatory effects of combined use resulting in blood pressure lowering, the combination of CIALIS and alpha-blockers is not recommended for the treatment of BPH.
+  [See Dosage and Administration (2.7), Drug Interactions (7.1), and Clinical Pharmacology (12.2.)].
+- Patients on alpha-blocker therapy for BPH should discontinue their alpha-blocker at least one day prior to starting CIALIS for once daily use for the treatment of BPH.
+
+## 5.7 Renal Impairment
 
 CIALIS for Use as Needed
 
-CIALIS should be limited to 5 mg not more than once in every 72 hours in patients with severe renal insufficiency or end-stage renal disease on hemodialysis.
-The starting dose of CIALIS in patients with a moderate degree of renal insufficiency should be 5 mg not more than once per day, and the maximum dose should be limited to 10 mg not more than once in every 48 hours.
-No dose adjustment is required in patients with mild renal insufficiency [see Use in Specific Populations (8.7)].
+CIALIS should be limited to 5 mg not more than once in every 72 hours in patients with creatinine clearance less than 30 mL/min or end-stage renal disease on hemodialysis.
+The starting dose of CIALIS in patients with creatinine clearance 30 – 50 mL/min should be 5 mg not more than once per day, and the maximum dose should be limited to 10 mg not more than once in every 48 hours.
+[See Use in Specific Populations (8.7)].
 
 CIALIS for Once Daily Use
 
-Due to increased tadalafil exposure (AUC), limited clinical experience, and the lack of ability to influence clearance by dialysis, CIALIS for once daily use is not recommended in patients with severe renal insufficiency.
-No dose adjustment is required in patients with mild or moderate renal insufficiency [see Use in Specific Populations (8.7)].
+ED
+
+Due to increased tadalafil exposure (AUC), limited clinical experience, and the lack of ability to influence clearance by dialysis, CIALIS for once daily use is not recommended in patients with creatinine clearance less than 30 mL/min [see Use in Specific Populations (8.7)].
+
+BPH and ED/BPH
+
+Due to increased tadalafil exposure (AUC), limited clinical experience, and the lack of ability to influence clearance by dialysis, CIALIS for once daily use is not recommended in patients with creatinine clearance less than 30 mL/min.
+In patients with creatinine clearance 30 – 50 mL/min, start dosing at 2.5 mg once daily, and increase the dose to 5 mg once daily based upon individual response [see Dosage and Administration (2.6), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
 
 ## 5.8 Hepatic Impairment
 
 CIALIS for Use as Needed
 
 In patients with mild or moderate hepatic impairment, the dose of CIALIS should not exceed 10 mg.
-Because of insufficient information in patients with severe hepatic impairment, use of CIALIS in this group is not recommended [see Use In Specific Populations (8.6)].
+Because of insufficient information in patients with severe hepatic impairment, use of CIALIS in this group is not recommended [see Use in Specific Populations (8.6)].
 
 CIALIS for Once Daily Use
 
-CIALIS for once daily use has not been extensively evaluated in patients with mild or moderate hepatic insufficiency.
+CIALIS for once daily use has not been extensively evaluated in patients with mild or moderate hepatic impairment.
 Therefore, caution is advised if CIALIS for once daily use is prescribed to these patients.
-Because of insufficient information in patients with severe hepatic impairment, use of CIALIS in this group is not recommended [see Use In Specific Populations (8.6)].
+Because of insufficient information in patients with severe hepatic impairment, use of CIALIS in this group is not recommended [see Use in Specific Populations (8.6)].
 
 ## 5.9 Alcohol
 
 Patients should be made aware that both alcohol and CIALIS, a PDE5 inhibitor, act as mild vasodilators.
 When mild vasodilators are taken in combination, blood-pressure-lowering effects of each individual compound may be increased.
-Therefore, physicians should inform patients that substantial consumption of alcohol (e.g., 5 units or greater) in combination with CIALIS can increase the potential for orthostatic signs and symptoms, including increase in heart rate, decrease in standing blood pressure, dizziness, and headache [see Dosage and Administration (2.4) and Clinical Pharmacology (12.2)].
+Therefore, physicians should inform patients that substantial consumption of alcohol (e.g., 5 units or greater) in combination with CIALIS can increase the potential for orthostatic signs and symptoms, including increase in heart rate, decrease in standing blood pressure, dizziness, and headache [see Clinical Pharmacology (12.2)].
 
 ## 5.10 Concomitant Use of Potent Inhibitors of Cytochrome P450 3A4 (CYP3A4)
 
 CIALIS is metabolized predominantly by CYP3A4 in the liver.
-The dose of CIALIS should be limited to 10 mg no more than once every 72 hours in patients taking potent inhibitors of CYP3A4 such as ritonavir, ketoconazole, and itraconazole [see Drug Interactions (7.2)].
-In patients taking potent inhibitors of CYP3A4 and CIALIS for once daily use, the dose of CIALIS should not exceed 2.5 mg [see Dosage and Administration (2.4)].
+The dose of CIALIS for use as needed should be limited to 10 mg no more than once every 72 hours in patients taking potent inhibitors of CYP3A4 such as ritonavir, ketoconazole, and itraconazole [see Drug Interactions (7.2)].
+In patients taking potent inhibitors of CYP3A4 and CIALIS for once daily use, the maximum recommended dose is 2.5 mg [see Dosage and Administration (2.7)].
 
 ## 5.11 Combination With Other PDE5 Inhibitors or Erectile Dysfunction Therapies
 
@@ -132,3 +146,8 @@ Although CIALIS has not been shown to increase bleeding times in healthy subject
 
 The use of CIALIS offers no protection against sexually transmitted diseases.
 Counseling patients about the protective measures necessary to guard against sexually transmitted diseases, including Human Immunodeficiency Virus (HIV) should be considered.
+
+## 5.14 Consideration of Other Urological Conditions Prior to Initiating Treatment for BPH
+
+Prior to initiating treatment with CIALIS for BPH, consideration should be given to other urological conditions that may cause similar symptoms.
+In addition, prostate cancer and BPH may coexist.
