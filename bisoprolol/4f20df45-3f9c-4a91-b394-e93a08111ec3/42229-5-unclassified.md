@@ -12,51 +12,9 @@ Marketed by:
 
 Rochelle Park, NJ 07662
 
-Issue Date: August 2009
+13004178
 
-PSEUSA047-00
-
-PRINCIPAL DISPLAY PANEL – 5 MG
-
-NDC 29300-126-13
-
-Bisoprolol Fumarate Tablets USP
-
-5 mg
-
-Rx Only
-
-30 Tablets
-
-Each tablet contains:
-
-Bisoprolol Fumarate USP………..5 mg
-
-Inactive ingredients include Colloidal Silicon Dioxide, Corn Starch (Pregelatinized), Crospovidone, Dibasic Calcium Phosphate, Hypromellose, Magnesium Stearate, Microcrystalline Cellulose, Polyethylene Glycol, Polysorbate 80, Titanium Dioxide, Red and Yellow Iron Oxide.
-
-Store at 200 to 250C (680 to 770F) [See USP Controlled Room Temperature].
-
-Protect from moisture.
-Dispense in a tight, light-resistant container.
-
-Dosage: For complete directions for use, see accompanying circular.
-
-PSEUSA167-00
-
-I 01/2009
-
-Manufactured by:
-
-UNICHEM LABORATORIES LTD.
-
-Pilerne Ind.
-Estate, Pilerne, Bardez,
-
-Goa 403 511, India
-
-Marketed by:
-
-Rochelle Park, NJ 07662.
+R-01-07/2011
 
 PRINCIPAL DISPLAY PANEL – 5 MG
 
@@ -76,16 +34,16 @@ Bisoprolol Fumarate USP………..5 mg
 
 Inactive ingredients include Colloidal Silicon Dioxide, Corn Starch (Pregelatinized), Crospovidone, Dibasic Calcium Phosphate, Hypromellose, Magnesium Stearate, Microcrystalline Cellulose, Polyethylene Glycol, Polysorbate 80, Titanium Dioxide, Red and Yellow Iron Oxide.
 
-Store at 200 to 250C (680 to 770F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Protect from moisture.
 Dispense in a tight, light-resistant container.
 
 Dosage: For complete directions for use, see accompanying circular.
 
-PSEUSA168-00
+13004178
 
-I 01/2009
+R-01-07/2011
 
 Manufactured by:
 
@@ -118,16 +76,16 @@ Bisoprolol Fumarate USP………..10 mg
 
 Inactive ingredients include Colloidal Silicon Dioxide, Corn Starch (Pregelatinized), Crospovidone, Dibasic Calcium Phosphate, Hypromellose, Magnesium Stearate, Microcrystalline Cellulose, Polyethylene Glycol, Polysorbate 80, Titanium Dioxide.
 
-Store at 200 to 250C (680 to 770F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Protect from moisture.
 Dispense in a tight, light-resistant container.
 
 Dosage: For complete directions for use, see accompanying circular.
 
-PSEUSA169-00
+13004178
 
-I 08/2009
+R-01-07/2011
 
 Manufactured by:
 
@@ -160,16 +118,16 @@ Bisoprolol Fumarate USP……….10 mg
 
 Inactive ingredients include Colloidal Silicon Dioxide, Corn Starch (Pregelatinized), Crospovidone, Dibasic Calcium Phosphate, Hypromellose, Magnesium Stearate, Microcrystalline Cellulose, Polyethylene Glycol, Polysorbate 80, Titanium Dioxide.
 
-Store at 200 to 250C (680 to 770F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Protect from moisture.
 Dispense in a tight, light-resistant container.
 
 Dosage: For complete directions for use, see accompanying circular.
 
-PSEUSA170-00
+13004178
 
-I 01/2009
+R-01-07/2011
 
 Manufactured by:
 

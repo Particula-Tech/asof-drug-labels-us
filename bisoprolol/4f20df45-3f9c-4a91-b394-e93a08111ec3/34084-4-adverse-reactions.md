@@ -44,7 +44,7 @@ Of the adverse events listed in the table, bradycardia, diarrhea, asthenia, fati
 | dyspnea | 0.8 | 1.1 | 1.5 |
 | pharyngitis | 2.3 | 2.2 | 2.2 |
 | rhinitis | 3.0 | 2.9 | 4.0 |
-| Sinusitis | 1.5 | 2.2 | 2.2 |
+| sinusitis | 1.5 | 2.2 | 2.2 |
 | URI | 3.8 | 4.8 | 5.0 |
 | Body as a Whole |  |  |  |
 | asthenia | 0 | 0.4 | 1.5 |

@@ -34,8 +34,7 @@ A beta2 agonist (bronchodilator) should be made available.
 
 ## Anesthesia and Major Surgery
 
-If BISOPROLOL FUMARATE treatment is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used.
-See OVERDOSAGE for information on treatment of bradycardia and hypotension.
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risk of general anesthesia and surgical procedures.
 
 ## Diabetes and Hypoglycemia
 
@@ -68,7 +67,7 @@ Concomitant use can increase the risk of bradycardia.
 
 Concurrent use of rifampin increases the metabolic clearance of BISOPROLOL FUMARATE, resulting in a shortened elimination half-life of BISOPROLOL FUMARATE.
 However, initial dose modification is generally not necessary.
-Pharmacokinetic studies document no clinically relevant interactions with other agents given concomitantly, including thiazide diuretics, digoxin and cimetidine.
+Pharmacokinetic studies document no clinically relevant interactions with other agents given concomitantly, including thiazide diuretics and cimetidine.
 There was no effect of BISOPROLOL FUMARATE on prothrombin time in patients on stable doses of warfarin.
 
 Risk of Anaphylactic Reaction: While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
