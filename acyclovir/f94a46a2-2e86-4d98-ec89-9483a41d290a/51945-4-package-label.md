@@ -1,4 +1,4 @@
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0991-55
 
@@ -27,7 +27,7 @@ Made in India
 A058921 Rev.
 7/08
 
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0953-96
 
@@ -60,7 +60,7 @@ Made in India
 A076757 Rev.
 12/09
 
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0949-55
 
@@ -68,7 +68,9 @@ ZOVIRAX®
 
 (acyclovir)
 
-Tablets Each tablet contains 400 mg
+Tablets
+
+Each tablet contains 400 mg
 
 Rx only
 
@@ -89,7 +91,7 @@ NC 27709
 10000000076613 Rev.
 1/10
 
-# Principal Display Panel
+Principal Display Panel
 
 NDC 0173-0945-55
 
