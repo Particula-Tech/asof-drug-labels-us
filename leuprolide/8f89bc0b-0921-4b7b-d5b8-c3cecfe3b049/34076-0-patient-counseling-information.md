@@ -11,6 +11,6 @@ Prior to starting therapy with LUPRON DEPOT-PED, patients should be informed tha
 - During the first weeks of treatment, signs of puberty, e.g., vaginal bleeding, may occur.
   This is a common initial effect of the drug.
   If these symptoms continue beyond the second month of treatment, the physician should be notified.
-- The most common side effects related to treatment with 1-Month or 3-Month LUPRON DEPOT-PED in clinical studies are: pain, acne/seborrhea, injection site reactions including pain, swelling and abscess, rash including erythema multiforme, vaginitis/bleeding/discharge, increased weight, headache, and altered mood.
+- The most common side effects related to treatment with 1-month or 3-month LUPRON DEPOT-PED in clinical studies are: pain, acne/seborrhea, injection site reactions including pain, swelling and abscess, rash including erythema multiforme, vaginitis/bleeding/discharge, increased weight, headache, and altered mood.
 - After injection, some pain and irritation is expected; however if more severe symptoms occur, the physician should be contacted.
   Any unusual signs or symptoms should be reported to the physician.

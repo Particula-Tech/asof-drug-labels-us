@@ -3,7 +3,7 @@
 The most common adverse reactions with GnRH agonists including LUPRON DEPOT-PED are injection site reactions/pain including abscess, general pain, headache, emotional lability and hot flushes/sweating.
 
 During the early phase of therapy, gonadotropins and sex steroids rise above baseline because of the natural initial stimulatory effect of the drug (hormonal flare effect).
-Therefore, an increase in clinical signs and symptoms may be observed [see Warnings and Precautions(5.1)].
+Therefore, an increase in clinical signs and symptoms may be observed [see Warnings and Precautions (5.1)].
 
 ## 6.1 LUPRON DEPOT-PED–1 Month (7.5 mg, 11.25 mg, and 15 mg Injection) - Clinical Trials Experience
 
@@ -12,11 +12,9 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 In two studies of children with central precocious puberty, in 2% or more of the patients receiving the drug, the following adverse reactions were reported to have a possible or probable relationship to drug as ascribed by the treating physician.
 Reactions which are not considered drug-related are excluded.
 
-Table 2.
-Percentage of Patients with Treatment-Emergent Adverse Reactions Occurring in ≥2% of Pediatric Patients Receiving LUPRON DEPOT-PED–1 Month.
-
-|  | Number of Patients (N = 421) |  |
+| Table 2. Percentage of Patients with Treatment-Emergent Adverse Reactions Occurring in ≥2% of Pediatric Patients Receiving LUPRON DEPOT-PED–1 Month |  |  |
 | --- | --- | --- |
+|  | Number of Patients (N = 421) |  |
 |  | N | (%) |
 | Body as a Whole |  |  |
 | Injection Site Reactions Including Abscess* | 37 | (9) |
@@ -31,14 +29,13 @@ Percentage of Patients with Treatment-Emergent Adverse Reactions Occurring in �
 | Emotional Lability | 19 | (5) |
 | Urogenital System |  |  |
 | Vaginitis/Vaginal Bleeding/Vaginal Discharge | 13 | (3) |
-
-*Most events were mild or moderate in severity.
+| * Most events were mild or moderate in severity. |  |  |
 
 Less Common Adverse Reactions
 
 The following treatment-emergent adverse reactions were reported in less than 2% of the patients and are listed below by body system.
 
-Body as a Whole – aggravation of preexisting tumor and decreased vision, allergic reaction, body odor, fever, flu syndrome, hypertrophy, infection; Cardiovascular System – bradycardia, hypertension, peripheral vascular disorder, syncope; Digestive System – constipation, dyspepsia, dysphagia, gingivitis, increased appetite, nausea/vomiting; Endocrine System - accelerated sexual maturity, feminization, goiter; Hemic and Lymphatic System – purpura; Metabolic and Nutritional Disorders – growth retarded, peripheral edema, weight gain; Musculoskeletal System – arthralgia, joint disorder, myalgia, myopathy; Nervous System – depression, hyperkinesia, nervousness, somnolence; Respiratory System – asthma, epistaxis, pharyngitis, rhinitis, sinusitis; Integumentary System (Skin and Appendages) – alopecia, hair disorder, hirsutism, leukoderma, nail disorder, skin hypertrophy; Urogenital System – cervix disorder/neoplasm, dysmenorrhea, gynecomastia/breast disorders, menstrual disorder, urinary incontinence.
+Body as a Whole – aggravation of preexisting tumor and decreased vision, allergic reaction, body odor, fever, flu syndrome, hypertrophy, infection; Cardiovascular System – bradycardia, hypertension, peripheral vascular disorder, syncope; Digestive System – constipation, dyspepsia, dysphagia, gingivitis, increased appetite, nausea/vomiting; Endocrine System – accelerated sexual maturity, feminization, goiter; Hemic and Lymphatic System – purpura; Metabolic and Nutritional Disorders – growth retarded, peripheral edema, weight gain; Musculoskeletal System – arthralgia, joint disorder, myalgia, myopathy; Nervous System – depression, hyperkinesia, nervousness, somnolence; Respiratory System – asthma, epistaxis, pharyngitis, rhinitis, sinusitis; Integumentary System (Skin and Appendages) – alopecia, hair disorder, hirsutism, leukoderma, nail disorder, skin hypertrophy; Urogenital System – cervix disorder/neoplasm, dysmenorrhea, gynecomastia/breast disorders, menstrual disorder, urinary incontinence.
 
 Laboratory: The following laboratory events were reported as adverse reactions: antinuclear antibody present and increased sedimentation rate.
 

@@ -16,6 +16,15 @@ Following a single LUPRON DEPOT-PED–1 Month 7.5 mg injection to adult patients
 However, intact leuprolide and an inactive major metabolite could not be distinguished by the assay which was employed in the study.
 Nondetectable leuprolide plasma concentrations have been observed during chronic LUPRON DEPOT-PED 7.5 mg administration, but testosterone levels appear to be maintained at castrate levels.
 
+In a study of 55 children with central precocious puberty, doses of 7.5 mg, 11.25 mg and 15.0 mg of LUPRON DEPOT-PED were given every 4 weeks and in a subset of 22 children, trough leuprolide plasma levels were determined according to weight categories as summarized below:
+
+| Patient Weight Range (kg) | Group Weight Average (kg) | Dose (mg) | Trough Plasma Leuprolide Level Mean ±SD (ng/mL)* |
+| --- | --- | --- | --- |
+| 20.2 - 27.0 | 22.7 | 7.5 | 0.77±0.033 |
+| 28.4 - 36.8 | 32.5 | 11.25 | 1.25±1.06 |
+| 39.3 - 57.5 | 44.2 | 15.0 | 1.59±0.65 |
+| * Group average values determined at Week 4 immediately prior to leuprolide injection. Drug levels at 12 and 24 weeks were similar to respective 4 week levels. |  |  |  |
+
 ### Distribution
 
 The mean steady-state volume of distribution of leuprolide following intravenous bolus administration to healthy male volunteers was 27 L. In vitro binding to human plasma proteins ranged from 43% to 49%.

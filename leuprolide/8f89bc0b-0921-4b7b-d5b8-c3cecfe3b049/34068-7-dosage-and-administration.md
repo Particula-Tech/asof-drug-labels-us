@@ -7,11 +7,9 @@ LUPRON DEPOT-PED must be administered under the supervision of a physician.
 LUPRON DEPOT-PED is administered as a single intramuscular injection once a month.
 The starting dose will be dictated by the child's weight, as indicated in the table below.
 
-Table 1.
-Dosing Recommendations Based on Body Weight for LUPRON DEPOT-PED–1 Month Formulations
-
-| Body Weight | Recommended Dose |
+| Table 1. Dosing Recommendations Based on Body Weight for LUPRON DEPOT-PED–1 Month Formulations |  |
 | --- | --- |
+| Body Weight | Recommended Dose |
 | ≤ 25 kg | 7.5 mg |
 | > 25-37.5 kg | 11.25 mg |
 | > 37.5 kg | 15 mg |
