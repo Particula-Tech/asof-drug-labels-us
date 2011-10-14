@@ -6,4 +6,4 @@ Manufactured for:
 
 Cubist Pharmaceuticals, Inc. Lexington, MA 02421 USA
 
-November 2010 (1004-11)
+October 2011 (1004-11-2)

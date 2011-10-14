@@ -258,5 +258,5 @@ Acceptable Quality Control Ranges for Daptomycin to Be Used in Validation of Sus
 | Quality Control Strain | Broth Dilution MIC RangeThe quality control ranges for S. aureus and E. faecalis are applicable only to tests performed by broth dilution using Mueller-Hinton broth adjusted to a calcium content of 50 mg/L; the quality control range for Streptococcus pneumoniae is applicable only to tests performed by broth dilution using Mueller-Hinton broth adjusted to a calcium content of 50 mg/L, supplemented with 2 to 5% lysed horse blood, inoculated with a direct colony suspension and incubated in ambient air at 35ºC for 20 to 24 hours. (mcg/mL) |
 | --- | --- |
 | Enterococcus faecalis ATCC 29212 | 1–4 |
-| Staphylococcus aureus ATCC 29213 | 0.25–1 |
+| Staphylococcus aureus ATCC 29213 | 0.12–1 |
 | Streptococcus pneumoniae ATCC 49619This strain may be used for validation of susceptibility test results when testing Streptococcus spp. other than S. pneumoniae. | 0.06–0.5 |
