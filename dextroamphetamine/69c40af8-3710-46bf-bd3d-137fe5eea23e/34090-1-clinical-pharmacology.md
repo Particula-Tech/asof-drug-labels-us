@@ -2,9 +2,7 @@
 
 Amphetamines are noncatecholamine, sympathomimetic amines with CNS stimulant activity.
 Peripheral actions include elevations of systolic and diastolic blood pressures and weak bronchodilator and respiratory stimulant action.
-
 There is neither specific evidence that clearly establishes the mechanism whereby amphetamines produce mental and behavioral effects in children, nor conclusive evidence regarding how these effects relate to the condition of the central nervous system.
-
 Dextroamphetamine sulfate extended-release capsules are formulated to release the active drug substance in vivo in a more gradual fashion than the standard formulation, as demonstrated by blood levels.
 The formulation has not been shown superior in effectiveness over the same dosage of the standard, noncontrolled-release formulations given in divided doses.
 
@@ -16,5 +14,4 @@ Following administration of three 5 mg tablets, average maximal dextroamphetamin
 Following administration of one 15 mg sustained-release capsule, maximal dextroamphetamine plasma concentrations were obtained approximately 8 hours after dosing.
 The average Cmax was 23.5 ng/mL.
 The average plasma T1/2 was similar for both the tablet and sustained-release capsule and was approximately 12 hours.
-
 In 12 healthy subjects, the rate and extent of dextroamphetamine absorption were similar following administration of the sustained-release capsule formulation in the fed (58 to 75 gm fat) and fasted state.

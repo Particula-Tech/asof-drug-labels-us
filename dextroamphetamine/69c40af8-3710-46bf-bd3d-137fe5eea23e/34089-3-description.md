@@ -8,7 +8,4 @@ Structural formula:
 ## Dextroamphetamine Sulfate Extended-Release Capsules
 
 Each dextroamphetamine sulfate extended-release capsule is so prepared that an initial dose is released promptly and the remaining medication is released gradually over a prolonged period.
-
-Active Ingredient: Dextroamphetamine Sulfate USP
-
-Inactive Ingredients: Sugar Spheres NF, Titanium Dioxide USP, Gelatin NF, Shellac Glaze-45%, SD-45 Alcohol, Iron Oxide Black, Propylene Glycol USP, FD&C Blue #2/Indigo Carmine Lake, FD&C Red #40/Allura Red AC Lake, FD&C Blue #1/Brilliant Blue FCF Lake, D&C Yellow #10 Lake, SD3A Alcohol, Shellac NF, Dehydrated Alcohol USP, Isopropyl Alcohol USP, Butyl Alcohol NF, Strong Ammonia Solution NF, FD&C Blue #2 Aluminum Lake, D&C Red #7 Calcium Lake, Hydroxypropyl Methylcellulose USP/Hypromellose USP, Macrogol/Polyethylene Glycol NF, Purified Water USP, Ethylcellulose NF, Ammonium Hydroxide 28% NF, Medium Chain Triglycerides, Oleic Acid NF.
+Active Ingredient: dextroamphetamine sulfate USP Inactive Ingredients: sugar spheres, titanium dioxide, gelatin, shellac glaze-45%, SD-45 alcohol, iron oxide black, propylene glycol, FD&C Blue #2/Indigo Carmine Lake, FD&C Red #40/Allura Red AC Lake, FD&C Blue #1/Brilliant Blue FCF Lake, D&C Yellow #10 Lake, SD3A alcohol, shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, strong ammonia solution, FD&C Blue #2 Aluminum Lake, D&C Red #7 Calcium Lake, hydroxypropyl methylcellulose/hypromellose, macrogol/polyethylene glycol, purified water, ethylcellulose, ammonium hydroxide 28%, medium chain triglycerides, oleic acid

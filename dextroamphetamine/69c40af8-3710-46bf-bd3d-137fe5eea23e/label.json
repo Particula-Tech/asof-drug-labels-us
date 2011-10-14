@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076353"
+  ],
   "inn": "dextroamphetamine",
   "labeler": "Mallinckrodt Inc.",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "0406-8961-01",
     "0406-8962-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "dextroamphetamine sulfate",
+      "name": "Dextroamphetamine Sulfate"
+    }
+  ],
   "setid": "69c40af8-3710-46bf-bd3d-137fe5eea23e",
   "source": "dailymed"
 }

@@ -2,13 +2,9 @@
 
 Individual patient response to amphetamines varies widely.
 While toxic symptoms occasionally occur as an idiosyncrasy at doses as low as 2 mg, they are rare with doses of less than 15 mg; 30 mg can produce severe reactions, yet doses of 400 to 500 mg are not necessarily fatal.
-
 In rats, the oral LD50 of dextroamphetamine sulfate is 96.8 mg/kg.
-
 Manifestations of acute overdosage with amphetamines include restlessness, tremor, hyperreflexia, rhabdomyolysis, rapid respiration, hyperpyrexia, confusion, assaultiveness, hallucinations, panic states.
-
 Fatigue and depression usually follow the central stimulation.
-
 Cardiovascular effects include arrhythmias, hypertension or hypotension and circulatory collapse.
 Gastrointestinal symptoms include nausea, vomiting, diarrhea and abdominal cramps.
 Fatal poisoning is usually preceded by convulsions and coma.
@@ -21,8 +17,6 @@ Experience with hemodialysis or peritoneal dialysis is inadequate to permit reco
 Acidification of the urine increases amphetamine excretion, but is believed to increase risk of acute renal failure if myoglobinuria is present.
 If acute, severe hypertension complicates amphetamine overdosage, administration of intravenous phentolamine (Bedford Laboratories) has been suggested.
 However, a gradual drop in blood pressure will usually result when sufficient sedation has been achieved.
-
 Chlorpromazine antagonizes the central stimulant effects of amphetamines and can be used to treat amphetamine intoxication.
-
 Since much of the dextroamphetamine sulfate extended-release capsule medication is coated for gradual release, therapy directed at reversing the effects of the ingested drug and at supporting the patient should be continued for as long as overdosage symptoms remain.
 Saline cathartics are useful for hastening the evacuation of pellets that have not already released medication.
