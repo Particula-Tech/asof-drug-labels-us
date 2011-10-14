@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA077541"
+  ],
+  "inn": "ondansetron",
+  "labeler": "West-ward Pharmaceutical Corp.",
+  "package_ndcs": [
+    "0641-6080-01",
+    "0641-6080-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ondansetron",
+      "name": "Ondansetron"
+    }
+  ],
+  "setid": "97713356-f42b-4a67-95f6-561afa68c0c2",
+  "source": "dailymed"
+}
