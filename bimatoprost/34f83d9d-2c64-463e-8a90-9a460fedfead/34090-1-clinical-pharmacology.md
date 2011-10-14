@@ -26,6 +26,6 @@ Bimatoprost then undergoes oxidation, N-deethylation, and glucuronidation to for
 
 Elimination
 
-Following an intravenous dose of radiolabeled bimatoprost (3.12 μg/kg) to six healthy subjects, the maximum blood concentration of unchanged drug was 12.2 ng/mL and decreased rapidly with an elimination half-life of approximately 45 minutes.
+Following an intravenous dose of radiolabeled bimatoprost (3.12 mcg/kg) to six healthy subjects, the maximum blood concentration of unchanged drug was 12.2 ng/mL and decreased rapidly with an elimination half-life of approximately 45 minutes.
 The total blood clearance of bimatoprost was 1.5 L/hr/kg.
 Up to 67% of the administered dose was excreted in the urine while 25% of the dose was recovered in the feces.

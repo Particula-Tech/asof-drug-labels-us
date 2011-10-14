@@ -4,7 +4,7 @@
 
 Patients should be informed that LATISSE® (bimatoprost ophthalmic solution) should be applied every night using only the accompanying sterile applicators.
 They should start by ensuring their face is clean, all makeup is removed, and their contact lenses removed (if applicable).
-Then carefully place one drop of LATISSE® solution on the disposable sterile applicator and brush cautiously along the skin of the upper eyelid margin at the base of the eyelashes.
+Then, carefully place one drop of LATISSE® solution on the disposable sterile applicator and brush cautiously along the skin of the upper eyelid margin at the base of the eyelashes.
 If any LATISSE® solution gets into the eye proper, it will not cause harm.
 The eye should not be rinsed.
 
@@ -35,8 +35,8 @@ Patients should be informed about the possibility of eyelid skin darkening, whic
 
 ## 17.5 Potential for Iris Darkening
 
-Although iridal pigmentation was not reported in clinical studies with LATISSE®, patients should be advised about the potential for increased brown iris pigmentation which is likely to be permanent.
-Increased iris pigmentation has occurred when the same formulation of bimatoprost ophthalmic solution (LUMIGAN®) was instilled directly onto the eye.
+Patients should be advised about the potential for increased brown iris pigmentation which is likely to be permanent.
+Increased iris pigmentation has occurred when bimatoprost solution was administered.
 
 ## 17.6 Potential for Unexpected Hair Growth or Eyelash Changes
 
@@ -54,4 +54,6 @@ Patients on IOP-lowering medications should not use LATISSE® without prior cons
 Patients should be advised that LATISSE® solution contains benzalkonium chloride, which may be absorbed by soft contact lenses.
 Contact lenses should be removed prior to application of LATISSE® and may be reinserted 15 minutes following its administration.
 
-## 17.9 FDA-Approved Patient Package Insert
+----------------Cut Here-------------------------------------------------------------------------
+
+## 17.9 FDA-approved Patient Labeling

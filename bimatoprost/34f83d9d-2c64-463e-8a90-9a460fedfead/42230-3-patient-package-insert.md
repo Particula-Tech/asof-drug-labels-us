@@ -77,6 +77,10 @@ Dispose of the applicator after one use.
 Repeat for the opposite upper eyelid margin using a new sterile applicator.
 This helps minimize any potential for contamination from one eyelid to another.
 
+Illustration 1
+
+Illustration 2
+
 DO NOT APPLY in your eye or to the lower lid.
 ONLY use the sterile applicators supplied with LATISSE® to apply the product.
 If you miss a dose, don't try to “catch up.”
@@ -94,7 +98,8 @@ Use of LATISSE® more than once a day will not increase the growth of eyelashes 
 
 Store LATISSE® solution at 36° to 77°F (2° to 25°C).
 
-General Information about LATISSE®.
+General Information about LATISSE®
+
 Prescription treatments are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use LATISSE® solution for a condition for which it was not prescribed.
 Do not give LATISSE® to other people.
@@ -106,10 +111,12 @@ You can also call Allergan's product information department at 1-800-433-8871.
 
 What are the ingredients in LATISSE®?
 
-Active ingredient: bimatoprost Inactive ingredients: benzalkonium chloride; sodium chloride; sodium phosphate, dibasic; citric acid; and purified water.
+Active ingredient: bimatoprost
+
+Inactive ingredients: benzalkonium chloride; sodium chloride; sodium phosphate, dibasic; citric acid; and purified water.
 Sodium hydroxide and/or hydrochloric acid may be added to adjust pH.
 The pH during its shelf life ranges from 6.8 - 7.8.
 
-© 2009 Allergan, Inc. Irvine, CA 92612 ® marks owned by Allergan, Inc. U.S. Patents 6,403,649; 7,351,404; and 7,388,029
+© 2011 Allergan, Inc. Irvine, CA 92612 ® marks owned by Allergan, Inc. U.S. Patents 6,403,649; 7,351,404; and 7,388,029
 
-72041US11A
+72303US11C
