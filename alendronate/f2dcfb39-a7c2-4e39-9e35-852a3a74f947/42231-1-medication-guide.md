@@ -28,7 +28,7 @@ FOSAMAX can cause serious side effects including:
    If you have low blood calcium before you start taking FOSAMAX, it may get worse during treatment.
    Your low blood calcium must be treated before you take FOSAMAX.
    Most people with low blood calcium levels do not have symptoms, but some people may have symptoms.
-   Call your doctor right away if you have symptoms of low blood calcium such as:Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood, while you take FOSAMAX.
+   Call your doctor right away if you have symptoms of low blood calcium such as: Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood, while you take FOSAMAX.
    Take calcium and vitamin D as your doctor tells you to.
    - Spasms, twitches, or cramps in your muscles
    - Numbness or tingling in your fingers, toes, or around your mouth
@@ -176,8 +176,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about FOSAMAX.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about FOSAMAX that is written for health professionals.
-
-For more information, go to: www.FOSAMAX.com or call 1-877-408-4699.
+For more information, go to: www.FOSAMAX.com or call 1-800-622-4477 (toll-free).
 
 What are the ingredients in FOSAMAX?
 
@@ -199,8 +198,8 @@ Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station,
 
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
 
-Revised January 2011
+Revised July 2011
 
-6013411
+6013412
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

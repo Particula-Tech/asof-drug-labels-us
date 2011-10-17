@@ -1,4 +1,4 @@
-# This is a representative sample of the packaging. Please see How Supplied section for a complete list of available packaging. PRINCIPAL DISPLAY PANEL - Bottle Label 10 mg
+# PRINCIPAL DISPLAY PANEL - Bottle Label 10 mg
 
 Fosamax® 10 mg (Alendronate Sodium Tablets)
 
