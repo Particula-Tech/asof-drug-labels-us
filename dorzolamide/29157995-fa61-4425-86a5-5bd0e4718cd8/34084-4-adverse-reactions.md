@@ -1,6 +1,4 @@
-# ADVERSE REACTIONS
-
-Controlled clinical trials:
+# ADVERSE REACTIONS Controlled clinical trials:
 
 The most frequent adverse events associated with Dorzolamide Hydrochloride Ophthalmic Solution were ocular burning, stinging, or discomfort immediately following ocular administration (approximately one-third of patients).
 Approximately one-quarter of patients noted a bitter taste following administration.

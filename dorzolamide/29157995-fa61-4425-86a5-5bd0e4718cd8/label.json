@@ -3,7 +3,7 @@
     "ANDA078981"
   ],
   "inn": "dorzolamide",
-  "labeler": "Falcon Pharmaceuticals, LTD",
+  "labeler": "Falcon Pharmaceuticals, Ltd.",
   "package_ndcs": [
     "61314-019-05",
     "61314-019-10"
@@ -11,8 +11,8 @@
   "products": [
     {
       "form": "SOLUTION/ DROPS",
-      "generic": "dorzolamide hydrochloride ophthalmic solution",
-      "name": "Dorzolamide Hydrochloride Ophthalmic Solution"
+      "generic": "dorzolamide hydrochloride",
+      "name": "DORZOLAMIDE HYDROCHLORIDE"
     }
   ],
   "setid": "29157995-fa61-4425-86a5-5bd0e4718cd8",

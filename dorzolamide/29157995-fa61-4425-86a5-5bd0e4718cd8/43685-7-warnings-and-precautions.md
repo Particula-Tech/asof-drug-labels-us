@@ -43,9 +43,11 @@ Patients should be instructed to avoid allowing the tip of the dispensing contai
 
 Patients should also be instructed that ocular solutions, if handled improperly or if the tip of the dispensing container contacts the eye or surrounding structures, can become contaminated by common bacteria known to cause ocular infections.
 Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions.
+
 Patients also should be advised that if they have ocular surgery or develop an intercurrent ocular condition (e.g., trauma or infection), they should immediately seek their physician's advice concerning the continued use of the present multidose container.
 
 If more than one topical ophthalmic drug is being used, the drugs should be administered at least ten minutes apart.
+
 Patients should be advised that Dorzolamide Hydrochloride Ophthalmic Solution contains benzalkonium chloride which may be absorbed by soft contact lenses.
 Contact lenses should be removed prior to administration of the solution.
 Lenses may be reinserted 15 minutes following Dorzolamide Hydrochloride Ophthalmic Solution administration.
@@ -66,14 +68,14 @@ Rats are particularly prone to developing papillomas in response to foreign bodi
 
 No changes in bladder urothelium were seen in dogs given oral dorzolamide hydrochloride for one year at 2 mg/kg/day (25 times the recommended human ophthalmic dose) or monkeys dosed topically to the eye at 0.4 mg/kg/day (~5 times the recommended human ophthalmic dose) for one year.
 
-The following tests for mutagenic potential were negative: (1) in vivo(mouse) cytogenetic assay; (2) in vitro chromosomal aberration assay; (3) alkaline elution assay; (4) V-79 assay; and (5) Ames test.
+The following tests for mutagenic potential were negative: (1) in vivo (mouse) cytogenetic assay; (2) in vitro chromosomal aberration assay; (3) alkaline elution assay; (4) V-79 assay; and (5) Ames test.
 
 In reproduction studies of dorzolamide hydrochloride in rats, there were no adverse effects on the reproductive capacity of males or females at doses up to 188 or 94 times, respectively, the recommended human ophthalmic dose.
 
 ## Pregnancy
 
 Teratogenic Effects.
-Pregnancy Category C. Developmental toxicity studies with dorzolamide hydrochloride in rabbits at oral doses of = 2.5 mg/kg/day (31 times the recommended human ophthalmic dose) revealed malformations of the vertebral bodies.
+Pregnancy Category C. Developmental toxicity studies with dorzolamide hydrochloride in rabbits at oral doses of ≥ 2.5 mg/kg/day (31 times the recommended human ophthalmic dose) revealed malformations of the vertebral bodies.
 These malformations occurred at doses that caused metabolic acidosis with decreased body weight gain in dams and decreased fetal weights.
 No treatment-related malformations were seen at 1.0 mg/kg/day (13 times the recommended human ophthalmic dose).
 There are no adequate and well-controlled studies in pregnant women.
@@ -83,7 +85,6 @@ Dorzolamide Hydrochloride Ophthalmic Solution should be used during pregnancy on
 
 In a study of dorzolamide hydrochloride in lactating rats, decreases in body weight gain of 5 to 7% in offspring at an oral dose of 7.5 mg/kg/day (94 times the recommended human ophthalmic dose) were seen during lactation.
 A slight delay in postnatal development (incisor eruption, vaginal canalization and eye openings), secondary to lower fetal body weight, was noted.
-
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from Dorzolamide Hydrochloride Ophthalmic Solution, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 

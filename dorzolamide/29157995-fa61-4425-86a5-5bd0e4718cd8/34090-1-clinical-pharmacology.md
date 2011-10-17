@@ -31,7 +31,7 @@ The inhibition of CA-II and total carbonic anhydrase activities was below the de
 
 ## Clinical Studies
 
-The efficacy of Dorzolamide Hydrochloride Ophthalmic Solution was demonstrated in clinical studies in the treatment of elevated intraocular pressure in patients with glaucoma or ocular hypertension (baseline IOP ≥ 23 mmHg).
+The efficacy of Dorzolamide Hydrochloride Ophthalmic Solution was demonstrated in clinical studies in the treatment of elevated intraocular pressure in patients with glaucoma or ocular hypertension (baseline IOP = 23 mmHg).
 The IOP-lowering effect of Dorzolamide Hydrochloride Ophthalmic Solution was approximately 3 to 5 mmHg throughout the day and this was consistent in clinical studies of up to one year duration.
 
 The efficacy of Dorzolamide Hydrochloride Ophthalmic Solution when dosed less frequently than three times a day (alone or in combination with other products) has not been established.

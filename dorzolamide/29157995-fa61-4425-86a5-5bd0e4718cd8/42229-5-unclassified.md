@@ -1,4 +1,4 @@
-# How to Use The DROP-TAINER®* Bottle
+# HOW TO USE THE DROP-TAINER®* BOTTLE
 
 The DROP-TAINER®* bottle is designed to assure the delivery of a precise dose of medication.
 Before using your DROP-TAINER® bottle, read the complete instructions carefully.
@@ -19,7 +19,7 @@ Tear off the Safety Seal to break the seal.
 Before each use, shake once and remove the screw cap.
 
 6.
-Invert the bottle and hold the bottle between your thumb and middle finger, with the tips of the fingers pointing toward you.
+Invert the bottle and hold the bottle between your thumb and middle finger, with the tips of the fingers pointing towards you.
 
 7.
 Tilt your head back and position the bottle above the affected eye.
@@ -28,7 +28,7 @@ Tilt your head back and position the bottle above the affected eye.
 With the opposite hand, place a finger under the eye.
 Gently pull down until a "V" pocket is made between your eye and lower lid.
 
-DO NOT TOUCH THE EYE WITH THE TIP OF THE DROPPER
+DO NOT TOUCH THE EYE WITH THE TIP OF THE DROPPER.
 
 9.
 With the hand holding the bottle, place your index finger on the bottom of the bottle.
@@ -60,8 +60,6 @@ If you have any questions about the use of Dorzolamide Hydrochloride Ophthalmic 
 
 *DROP-TAINER® is a registered trademark of Alcon Manufacturing, Ltd.
 
-FALCON PHARMACEUTICALS
-
 Dist. by:
 
 FALCON Pharmaceuticals, Ltd.
@@ -72,6 +70,6 @@ Mfd. by:
 
 ALCON LABORATORIES, INC.
 
-Forth Worth, Texas 76134 USA
+Fort Worth, Texas 76134 USA
 
-9003054-0308
+9004908-0809
