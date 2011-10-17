@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA090705"
+  ],
+  "inn": "gabapentin",
+  "labeler": "Exelan Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "76282-221-01",
+    "76282-221-05",
+    "76282-222-01",
+    "76282-222-05",
+    "76282-223-01",
+    "76282-223-05"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "gabapentin",
+      "name": "GABAPENTIN"
+    }
+  ],
+  "setid": "41d1ead3-046e-4abf-ae0a-cb126a1f5848",
+  "source": "dailymed"
+}
