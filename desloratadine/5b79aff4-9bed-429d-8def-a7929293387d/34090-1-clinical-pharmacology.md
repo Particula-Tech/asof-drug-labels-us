@@ -118,6 +118,6 @@ Table 2 Changes in Desloratadine and 3-Hydroxydesloratadine Pharmacokinetics in 
 |  | Desloratadine |  | 3-Hydroxydesloratadine |  |
 | Erythromycin (500 mg Q8h) | + 24% | + 14% | + 43% | + 40% |
 | Ketoconazole (200 mg Q12h) | + 45% | + 39% | + 43% | + 72% |
-| Azithromycin (500 mg day 1, 250 mg QD × 4 days) | + 15% | + 5% | + 15% | + 4% |
+| Azithromycin (500 mg day 1, 250 mg QD x 4 days) | + 15% | + 5% | + 15% | + 4% |
 | Fluoxetine (20 mg QD) | + 15% | + 0% | + 17% | + 13% |
 | Cimetidine (600 mg Q12h) | + 12% | + 19% | - 11% | - 3% |

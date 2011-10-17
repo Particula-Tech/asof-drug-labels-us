@@ -36,7 +36,6 @@ Before you take CLARINEX, tell your doctor if you:
 
 - have liver or kidney problems.
 - have any other medical conditions.
-
 - are pregnant or plan to become pregnant.
   It is not known if CLARINEX will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
@@ -62,7 +61,6 @@ How should I take CLARINEX?
 
 - Take CLARINEX exactly as your doctor tells you to take it.
 - Do not change your dose of CLARINEX or take more often than prescribed.
-
 - CLARINEX can be taken with or without food.
 - Place CLARINEX RediTabs Tablet on your tongue and allow it to dissolve before swallowing.
   CLARINEX RediTabs can be taken with or without water.
@@ -141,11 +139,17 @@ It also contains granulated sugar, natural and artificial flavor for bubble gum 
 
 Inactive ingredients in CLARINEX RediTabs: mannitol USP, microcrystalline cellulose NF, pregelatinized starch NF, sodium starch glycolate USP, magnesium stearate NF, butylated methacrylate copolymer, crospovidone NF, aspartame NF, citric acid USP, sodium bicarbonate USP, colloidal silicon dioxide NF, ferric oxide red NF and tutti frutti flavoring.
 
-CLARINEX RediTabs brand of desloratadine orally-disintegrating tablets are manufactured by CIMA LABS INC. ®, Eden Prairie, MN 55344.
-Distributed by Schering Corporation, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889 USA.
+CLARINEX RediTabs brand of desloratadine orally-disintegrating tablets are manufactured by CIMA LABS INC.®, Eden Prairie, MN 55344.
+Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ, 08889 USA
 
-CLARINEX Tablets and Oral Solution are manufactured by Schering Corporation, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889 USA.
+CLARINEX Tablets are manufactured by Schering Corporation, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889 USA
 
-U.S. Patent Nos.: Tablets: 6,100,274; 7,214,683 RediTabs: 7,214,683; 7,618,649; 5,607,697; 6,100,274 Oral Solution: 7,214,683; 6,514,520
+CLARINEX Oral Solution is manufactured by Schering-Plough Canada, Inc., Pointe Claire, Quebec, Canada.
+Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+U.S. Patent Nos: Tablets: 6,100,274; 7,214,683 RediTabs: 5,607,697; 6,100,274; 7,214,683; 7,618,649 Oral Solution: 6,514,520; 7,214,683
 
 Copyright © 2010 Schering Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+34964807T Rev.
+04/11
