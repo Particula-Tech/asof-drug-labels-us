@@ -7,7 +7,8 @@ The recommended dosages for hydroxyzine hydrochloride intramuscular solution are
 | Nausea and vomiting excluding nausea and vomiting of pregnancy. | Adults: 25-100 mg IM Children: 0.5 mg/lb body weight IM |
 | Pre- and postoperative adjunctive medication. | Adults: 25-100 mg IM Children: 0.5 mg/lb body weight IM |
 | Pre- and postpartum adjunctive therapy. | 25-100 mg IM |
-| As with all potent medications, the dosage should be adjusted according to the patient's response to therapy. |  |
+
+As with all potent medications, the dosage should be adjusted according to the patient's response to therapy.
 
 FOR ADDITIONAL INFORMATION OF THE ADMINISTRATION AND SITE OF SELECTION SEE PRECAUTIONS SECTION.
 NOTE: Hydroxyzine hydrochloride intramuscular solution may be administered without further dilution.

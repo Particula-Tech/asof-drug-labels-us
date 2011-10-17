@@ -1,14 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA087408"
+  ],
   "inn": "hydroxyzine",
-  "labeler": "AMERICAN REGENT LABORTORIES, INC.",
+  "labeler": "American Regent, Inc.",
   "package_ndcs": [
     "0517-4201-25",
     "0517-5601-25",
     "0517-5602-25",
     "0517-5610-25"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "hydroxyzine hydrochloride",
+      "name": "Hydroxyzine Hydrochloride"
+    }
+  ],
   "setid": "8af7e5ce-d9d9-44cc-9f2f-4ddbc89e758a",
   "source": "dailymed"
 }
