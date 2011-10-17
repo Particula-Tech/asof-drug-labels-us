@@ -12,8 +12,6 @@ For I.V. infusion only.
 
 Rx only
 
-Wyeth®
-
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 40 MG - CARTON
 
 NDC 0008-0923-51
@@ -32,7 +30,7 @@ No filter required
 
 Rx only
 
-Wyeth®
+Pfizer Injectables
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 40 MG – CARTON BUNDLE
 
@@ -42,7 +40,7 @@ Protonix® I.V.
 
 (pantoprazole sodium) for Injection
 
-40 mg
+Equivalent to 40 mg pantoprazole per vial
 
 1 Bundle of 10 unit cartons
 
@@ -50,4 +48,31 @@ For I.V. infusion only.
 
 Rx only
 
-Wyeth®
+Pfizer Injectables
+
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 40 MG – 25 X 40 VIALS
+
+NDC 0008-0923-60
+
+Contains 25 of NDC 0008-0923-51
+
+Rx only
+
+25 x 40 mg Vials
+
+PROTONIX® I.V.
+
+(pantoprazole sodium)
+
+For Injection
+
+Equivalent to
+
+40 mg
+
+Pantoprazole per vial
+
+For I.V.
+Injection only.
+
+Pfizer Injectables
