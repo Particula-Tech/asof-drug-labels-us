@@ -17,7 +17,7 @@ Parlodel® (bromocriptine mesylate) Capsules
 5 mg
 
 Caramel and white capsules, each containing 5 mg bromocriptine (as the mesylate).
-Imprinted in red ink “PARLODEL 5 mg’’ on one half and “’’ on other half.
+Imprinted in red ink “PARLODEL 5 mg’’ on one half and ““ on other half.
 
 Packages of 30……………………………………………………..NDC 0078-0102-15
 
