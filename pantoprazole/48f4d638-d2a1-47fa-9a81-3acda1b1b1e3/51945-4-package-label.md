@@ -4,15 +4,17 @@ NDC 0008-0941-01
 
 Protonix® I.V.
 
-(pantoprazole sodium) for Injection
+(pantoprazole sodium)
+
+for Injection
 
 Equivalent to 40 mg pantoprazole per vial
 
 For I.V. infusion only.
 
-NovaPlus®
+Rx only
 
-Rx Only
+NOVAPLUS®
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 40 MG - CARTON
 
@@ -20,7 +22,9 @@ NDC 0008-0941-01
 
 Protonix® I.V.
 
-(pantoprazole sodium) for Injection
+(pantoprazole sodium)
+
+for Injection
 
 Equivalent to 40 mg pantoprazole per vial
 
@@ -30,9 +34,9 @@ Contains 1 mg edetate disodium
 
 No filter required
 
-NovaPlus®
-
 Rx only
+
+NOVAPLUS®
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 40 MG – CARTON BUNDLE
 
@@ -40,14 +44,16 @@ NDC 0008-0941-02
 
 Protonix® I.V.
 
-(pantoprazole sodium) for Injection
+(pantoprazole sodium)
 
-Equivalent to 40 mg pantoprazole per vial
+for Injection
 
 1 Bundle of 10 unit cartons
 
 For I.V. infusion only.
 
-NovaPlus®
+Equivalent to 40 mg pantoprazole per vial
 
 Rx only
+
+NOVAPLUS®

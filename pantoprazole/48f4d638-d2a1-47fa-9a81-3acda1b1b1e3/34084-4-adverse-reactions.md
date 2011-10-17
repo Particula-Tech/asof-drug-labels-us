@@ -1,108 +1,71 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-## Safety Experience with Intravenous Pantoprazole
+Worldwide, approximately 80,500 patients have been treated with pantoprazole in clinical trials involving various dosages and duration of treatment.
 
-Intravenous pantoprazole has been studied in clinical trials in several populations including patients with GERD and a history of erosive esophagitis, patients with Zollinger-Ellison Syndrome, patients involved in clinical trials for other disorders which may respond to proton pump inhibitor therapy, and healthy subjects.
-Adverse experiences occurring in >1% of patients treated with intravenous pantoprazole (n=836) in domestic or international clinical trials are shown below by body system.
-In most instances, the relationship to pantoprazole was unclear.
+## 6.1 Clinical Trials Experience
 
-BODY AS A WHOLE: abdominal pain, headache, injection site reaction (including thrombophlebitis and abscess).
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-DIGESTIVE SYSTEM: constipation, dyspepsia, nausea, diarrhea.
+### Gastroesophageal Reflux Disease (GERD)
 
-NERVOUS SYSTEM: insomnia, dizziness.
+Safety in nine randomized comparative US clinical trials in patients with GERD included 1,473 patients on oral pantoprazole (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another proton pump inhibitor, and 82 patients on placebo.
+The most frequently occurring adverse reactions are listed in Table 1.
 
-RESPIRATORY SYSTEM: rhinitis.
+The number of patients treated in comparative studies with I.V. pantoprazole is limited; however, the adverse reactions seen were similar to those seen in the oral studies.
+Thrombophlebitis was the only new adverse reaction identified with I.V. pantoprazole.
 
-Head-to-head comparative studies between PROTONIX I.V. for Injection and oral PROTONIX, other proton pump inhibitors (oral or I.V.), or H2 receptor antagonists (oral or I.V.) have been limited.
-The available information does not provide sufficient evidence to distinguish the safety profile of these regimens.
+Table 1: Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of > 2%
 
-## Safety Experience with Oral Pantoprazole
+|  | PROTONIX (n=1473) % | Comparators (n=345) % | Placebo (n=82) % |
+| --- | --- | --- | --- |
+| Headache | 12.2 | 12.8 | 8.5 |
+| Diarrhea | 8.8 | 9.6 | 4.9 |
+| Nausea | 7.0 | 5.2 | 9.8 |
+| Abdominal pain | 6.2 | 4.1 | 6.1 |
+| Vomiting | 4.3 | 3.5 | 2.4 |
+| Flatulence | 3.9 | 2.9 | 3.7 |
+| Dizziness | 3.0 | 2.9 | 1.2 |
+| Arthralgia | 2.8 | 1.4 | 1.2 |
 
-In short-term clinical trials in patients with erosive esophagitis associated with GERD treated with oral pantoprazole, the following adverse events, regardless of causality, occurred at a rate of ≥1%.
+Additional adverse reactions that were reported for PROTONIX in US clinical trials with a frequency of ≤ 2% are listed below by body system:
 
-BODY AS A WHOLE: headache, asthenia, back pain, chest pain, neck pain, flu syndrome, infection, pain.
+Body as a Whole: allergic reaction, fever, photosensitivity reaction, facial edema, thrombophlebitis (I.V. only)
 
-CARDIOVASCULAR SYSTEM: migraine.
+Gastrointestinal: constipation, dry mouth, hepatitis
 
-DIGESTIVE SYSTEM: diarrhea, flatulence, abdominal pain, eructation, constipation, dyspepsia, gastroenteritis, gastrointestinal disorder, nausea, rectal disorder, vomiting.
+Hematologic: leukopenia (reported in ex-US clinical trials only), thrombocytopenia
 
-HEPATO-BILIARY SYSTEM: liver function tests abnormal, SGPT increased.
+Metabolic/Nutritional: elevated CPK (creatine phosphokinase), generalized edema, elevated triglycerides, liver function tests abnormal
 
-METABOLIC AND NUTRITIONAL: hyperglycemia, hyperlipemia.
+Musculoskeletal: myalgia
 
-MUSCULOSKELETAL SYSTEM: arthralgia.
+Nervous: depression, vertigo
 
-NERVOUS SYSTEM: insomnia, anxiety, dizziness, hypertonia.
+Skin and Appendages: urticaria, rash, pruritus
 
-RESPIRATORY SYSTEM: bronchitis, cough increased, dyspnea, pharyngitis, rhinitis, sinusitis, upper respiratory tract infection.
+Special Senses: blurred vision
 
-SKIN AND APPENDAGES: rash.
+### Zollinger-Ellison Syndrome
 
-UROGENITAL SYSTEM: urinary frequency, and urinary tract infection.
+In clinical studies of Zollinger-Ellison Syndrome, adverse reactions reported in 35 patients taking PROTONIX 80 mg/day to 240 mg/day for up to 2 years were similar to those reported in adult patients with GERD.
 
-Additional adverse experiences occurring in <1% of patients with erosive esophagitis associated with GERD receiving oral pantoprazole based on pooled results from either short-term domestic or international trials are shown below within each body system.
-In most instances, the relationship to pantoprazole was unclear.
+## 6.2 Postmarketing Experience
 
-BODY AS A WHOLE: abscess, allergic reaction, chills, cyst, face edema, fever, generalized edema, heat stroke, hernia, laboratory test abnormal, malaise, moniliasis, neoplasm, non-specified drug reaction.
+The following adverse reactions have been identified during postapproval use of PROTONIX.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-CARDIOVASCULAR SYSTEM: abnormal electrocardiogram, angina pectoris, arrhythmia, cardiovascular disorder, chest pain substernal, congestive heart failure, hemorrhage, hypertension, hypotension, myocardial ischemia, palpitation, retinal vascular disorder, syncope, tachycardia, thrombophlebitis, thrombosis, vasodilatation.
+These adverse reactions are listed below by body system:
 
-DIGESTIVE SYSTEM: anorexia, aphthous stomatitis, cardiospasm, colitis, dry mouth, duodenitis, dysphagia, enteritis, esophageal hemorrhage, esophagitis, gastrointestinal carcinoma, gastrointestinal hemorrhage, gastrointestinal moniliasis, gingivitis, glossitis, halitosis, hematemesis, increased appetite, melena, mouth ulceration, oral moniliasis, periodontal abscess, periodontitis, rectal hemorrhage, stomach ulcer, stomatitis, stools abnormal, tongue discoloration, ulcerative colitis.
+Immune System Disorders: anaphylaxis (including anaphylactic shock)
 
-ENDOCRINE SYSTEM: diabetes mellitus, glycosuria, goiter.
+Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN), and angioedema (Quincke’s edema)
 
-HEPATO-BILIARY SYSTEM: biliary pain, hyperbilirubinemia, cholecystitis, cholelithiasis, cholestatic jaundice, hepatitis, alkaline phosphatase increased, gamma glutamyl transpeptidase increased, SGOT increased.
+Musculoskeletal Disorders: rhabdomyolysis, bone fracture
 
-HEMIC AND LYMPHATIC SYSTEM: anemia, ecchymosis, eosinophilia, hypochromic anemia, iron deficiency anemia, leukocytosis, leukopenia, thrombocytopenia.
+Renal and Urinary Disorders: interstitial nephritis
 
-METABOLIC AND NUTRITIONAL: dehydration, edema, gout, peripheral edema, thirst, weight gain, weight loss.
+Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic failure
 
-MUSCULOSKELETAL SYSTEM: arthritis, arthrosis, bone disorder, bone pain, bursitis, joint disorder, leg cramps, neck rigidity, myalgia, tenosynovitis.
+Psychiatric Disorder: hallucinations, confusion
 
-NERVOUS SYSTEM: abnormal dreams, confusion, convulsion, depression, dry mouth, dysarthria, emotional lability, hallucinations, hyperkinesia, hypesthesia, libido decreased, nervousness, neuralgia, neuritis, paresthesia, reflexes decreased, sleep disorder, somnolence, thinking abnormal, tremor, vertigo.
-
-RESPIRATORY SYSTEM: asthma, epistaxis, hiccup, laryngitis, lung disorder, pneumonia, voice alteration.
-
-SKIN AND APPENDAGES: acne, alopecia, contact dermatitis, dry skin, eczema, fungal dermatitis, hemorrhage, herpes simplex, herpes zoster, lichenoid dermatitis, maculopapular rash, pain, pruritus, skin disorder, skin ulcer, sweating, urticaria.
-
-SPECIAL SENSES: abnormal vision, amblyopia, cataract specified, deafness, diplopia, ear pain, extraocular palsy, glaucoma, otitis externa, taste perversion, tinnitus.
-
-UROGENITAL SYSTEM: albuminuria, balanitis, breast pain, cystitis, dysmenorrhea, dysuria, epididymitis, hematuria, impotence, kidney calculus, kidney pain, nocturia, prostatic disorder, pyelonephritis, scrotal edema, urethral pain, urethritis, urinary tract disorder, urination impaired, vaginitis.
-
-In addition, the following adverse experiences occurred at a rate of <1% in long-term clinical trials in patients treated with oral pantoprazole: atrial fibrillation/flutter, myocardial infarction, neuropathy, photosensitivity reaction.
-In most instances, the relationship to pantoprazole was unclear.
-
-## Postmarketing Reports
-
-The postmarketing safety profile of intravenous pantoprazole is not substantially different from that of oral pantoprazole (described below).
-
-There have been spontaneous reports of adverse events with postmarketing use of intravenous or oral pantoprazole.
-These reports include the following:
-
-BODY AS A WHOLE: anaphylaxis (including anaphylactic shock), angioedema (Quincke's edema).
-
-DIGESTIVE SYSTEM: increased salivation, nausea, pancreatitis.
-
-HEMIC AND LYMPHATIC SYSTEM: pancytopenia.
-
-HEPATO-BILIARY SYSTEM: hepatocellular damage leading to jaundice and hepatic failure.
-
-MUSCULOSKELETAL SYSTEM: elevated CPK (creatine phosphokinase), rhabdomyolysis, bone fracture.
-
-NERVOUS SYSTEM: confusion, hypokinesia, speech disorder, vertigo.
-
-SKIN AND APPENDAGES: severe dermatologic reactions, including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN, some fatal).
-
-SPECIAL SENSES: anterior ischemic optic neuropathy, blurred vision, tinnitus.
-
-UROGENITAL SYSTEM: interstitial nephritis.
-
-## Laboratory Values
-
-In U.S. clinical trials of patients with GERD and a history of erosive esophagitis and international clinical trials of patients with erosive esophagitis associated with GERD, the overall percentages of transaminase elevations did not increase during treatment with intravenous pantoprazole.
-For other laboratory parameters, there were no clinically important changes identified.
-
-In two U.S. controlled trials of oral pantoprazole in patients with erosive esophagitis associated with GERD, 0.4% of the patients on 40 mg oral pantoprazole experienced SGPT elevations of greater than three times the upper limit of normal at the final treatment visit.
-Except in those patients where there was a clear alternative explanation for a laboratory value change, such as intercurrent illness, the elevations tended to be mild and sporadic.
-The following changes in laboratory parameters were reported as adverse events: creatinine increased, hypercholesterolemia, and hyperuricemia.
+Metabolism and Nutritional Disorders: hypomagnesemia

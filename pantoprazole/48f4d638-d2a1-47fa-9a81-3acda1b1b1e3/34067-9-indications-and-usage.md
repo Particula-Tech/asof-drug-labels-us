@@ -1,9 +1,11 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-## Treatment of Gastroesophageal Reflux Disease Associated With a History of Erosive Esophagitis
+## 1.1 Gastroesophageal Reflux Disease Associated with a History of Erosive Esophagitis
 
-PROTONIX I.V. for Injection is indicated for short-term treatment (7 to 10 days) of patients with gastroesophageal reflux disease (GERD) and a history of erosive esophagitis.
+PROTONIX I.V. for Injection is indicated for short-term treatment (7 to 10 days) of adult patients with gastroesophageal reflux disease (GERD) and a history of erosive esophagitis.
 
-## Pathological Hypersecretion Associated with Zollinger-Ellison Syndrome
+Safety and efficacy of PROTONIX I.V. for Injection as a treatment of patients with GERD and a history of erosive esophagitis for more than 10 days have not been demonstrated.
 
-PROTONIX I.V. for Injection is indicated for the treatment of pathological hypersecretory conditions associated with Zollinger-Ellison Syndrome or other neoplastic conditions.
+## 1.2 Pathological Hypersecretion Including Zollinger-Ellison Syndrome
+
+PROTONIX I.V. for Injection is indicated for the treatment of pathological hypersecretory conditions including Zollinger-Ellison Syndrome in adults.
