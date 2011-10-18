@@ -7,9 +7,11 @@ DUPLEX® DRUG DELIVERY SYSTEM
 Cat.
 No. 3153-11
 
-50 mL 1 g
+50 mL
 
 CefTRIaxONE for Injection and Dextrose Injection
+
+1 g
 
 Use only after mixing contents of both chambers.
 
@@ -48,6 +50,18 @@ LD-206-1 Y37-002-380
 U.S. Patent Nos. 5,944,709, 6,165,161, 6,203,535, 6,846,305, and 6,996,951.
 DUPLEX is a registered trademark of B. Braun Medical Inc.
 
+PEEL HERE
+
+Drug Chamber
+
+Discard unit if foil strip is damaged.
+Peel foil strip only when ready for use.
+Visually inspect drug prior to reconstitution.
+
+See package insert for complete directions for reconstitution and administration.
+
+LD-336-1 X27-001-485
+
 # PRINCIPAL DISPLAY PANEL - 50 mL Container Label
 
 NDC 0264-3155-11
@@ -57,9 +71,11 @@ DUPLEX® DRUG DELIVERY SYSTEM
 Cat.
 No. 3155-11
 
-50 mL 2 g
+50 mL
 
 CefTRIaxONE for Injection and Dextrose Injection
+
+2 g
 
 Use only after mixing contents of both chambers.
 
@@ -98,3 +114,15 @@ LD-207-1 Y37-002-381
 
 U.S. Patent Nos. 5,944,709, 6,165,161, 6,203,535, 6,846,305, and 6,996,951.
 DUPLEX is a registered trademark of B. Braun Medical Inc.
+
+PEEL HERE
+
+Drug Chamber
+
+Discard unit if foil strip is damaged.
+Peel foil strip only when ready for use.
+Visually inspect drug prior to reconstitution.
+
+See package insert for complete directions for reconstitution and administration.
+
+LD-336-1 X27-001-485

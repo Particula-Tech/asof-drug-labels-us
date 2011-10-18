@@ -19,9 +19,9 @@ Ceftriaxone concentrations in urine are high, as shown in Table 2.
 TABLE 2.
 Urinary Concentrations of Ceftriaxone After Single Dose Administration
 
-| Dose/Route | 0–2 hr | 2–4 hr | 4–8 hr | 8–12 hr | 12–24 hr | 24–48 hr |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | Average Urinary Concentrations (mcg/mL) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Dose/Route | 0–2 hr | 2–4 hr | 4–8 hr | 8–12 hr | 12–24 hr | 24-48 hr |
 | 0.5 g IV | 526 | 366 | 142 | 87 | 70 | 15 |
 | 1 g IV | 995 | 855 | 293 | 147 | 132 | 32 |
 | 2 g IV | 2692 | 1976 | 757 | 274 | 198 | 40 |
