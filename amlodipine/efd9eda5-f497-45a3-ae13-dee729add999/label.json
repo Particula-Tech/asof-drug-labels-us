@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA077955"
+  ],
+  "inn": "amlodipine",
+  "labeler": "Exelan Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "76282-237-05",
+    "76282-237-10",
+    "76282-237-90",
+    "76282-238-05",
+    "76282-238-10",
+    "76282-238-90",
+    "76282-239-05",
+    "76282-239-10",
+    "76282-239-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amlodipine besylate",
+      "name": "Amlodipine besylate"
+    }
+  ],
+  "setid": "efd9eda5-f497-45a3-ae13-dee729add999",
+  "source": "dailymed"
+}
