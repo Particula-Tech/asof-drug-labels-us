@@ -19,7 +19,7 @@ VALTREX is used in adults:
 - to treat cold sores (also called fever blisters or herpes labialis)
 - to treat shingles (also called herpes zoster)
 - to treat or control genital herpes outbreaks in adults with normal immune systems
-- to control genital herpes outbreaks in adults infected with the human immunodeficiency virus (HIV) with CD4+ cell count greater than 100 cells/mm3
+- to control genital herpes outbreaks in adults infected with the human immunodeficiency virus (HIV-1) with CD4+ cell count greater than 100 cells/mm3
 - with safer sex practices to lower the chances of spreading genital herpes to others.
   Even with safer sex practices, it is still possible to spread genital herpes.
 
@@ -30,8 +30,8 @@ VALTREX used daily with the following safer sex practices can lower the chances 
 
 VALTREX is used in children:
 
-- to treat cold sores (for children ≥12 years of age)
-- to treat chickenpox (for children 2 to <18 years of age).
+- to treat cold sores (for children aged greater than or equal to 12 years)
+- to treat chickenpox (for children aged 2 to less than 18 years).
 
 VALTREX does not cure herpes infections (cold sores, chickenpox, shingles, or genital herpes).
 
@@ -74,13 +74,13 @@ Before taking VALTREX, tell your healthcare provider:
 
 About all your medical conditions, including:
 
-- if you have had a bone marrow transplant or kidney transplant, or if you have advanced HIV disease or "AIDS".
+- if you have had a bone marrow transplant or kidney transplant, or if you have advanced HIV-1 disease or "AIDS".
   Patients with these conditions may have a higher chance for getting a blood disorder called thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS).
   TTP/HUS can result in death.
 - if you have kidney problems.
   Patients with kidney problems may have a higher chance for getting side effects or more kidney problems with VALTREX.
   Your healthcare provider may give you a lower dose of VALTREX.
-- if you are 65 years of age or older.
+- if you are aged 65 years or older.
   Elderly patients have a higher chance of certain side effects.
   Also, elderly patients are more likely to have kidney problems.
   Your healthcare provider may give you a lower dose of VALTREX.
@@ -118,12 +118,12 @@ Always tell your healthcare provider if you have kidney problems before taking V
 Call your doctor right away if you get a nervous system problem while you are taking VALTREX.
 
 Common side effects of VALTREX in adults include headache, nausea, stomach pain, vomiting, and dizziness.
-Side effects in HIV-infected adults include headache, tiredness, and rash.
+Side effects in HIV-1-infected adults include headache, tiredness, and rash.
 These side effects usually are mild and do not cause patients to stop taking VALTREX.
 
 Other less common side effects in adults include painful periods in women, joint pain, depression, low blood cell counts, and changes in tests that measure how well the liver and kidneys work.
 
-The most common side effect seen in children <18 years of age was headache.
+The most common side effect seen in children aged less than 18 years was headache.
 
 Talk to your healthcare provider if you develop any side effects that concern you.
 
@@ -161,7 +161,9 @@ Distributed by: GlaxoSmithKline Research Triangle Park, NC 27709
 
 Manufactured by: GlaxoSmithKline Research Triangle Park, NC 27709 or DSM Pharmaceuticals, Inc. Greenville, NC 27834
 
-©2008, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-September 2008 VTX:2PIL
+October 2011
+
+VTX:3PIL

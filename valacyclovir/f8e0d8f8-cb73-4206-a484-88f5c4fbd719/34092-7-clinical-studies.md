@@ -2,20 +2,20 @@
 
 ## 14.1 Cold Sores (Herpes Labialis)
 
-Two double-blind, placebo-controlled clinical trials were conducted in 1,856 healthy adults and adolescents (≥12 years old) with a history of recurrent cold sores.
+Two double-blind, placebo-controlled clinical trials were conducted in 1,856 healthy adults and adolescents (aged greater than or equal to 12 years) with a history of recurrent cold sores.
 Patients self-initiated therapy at the earliest symptoms and prior to any signs of a cold sore.
 The majority of patients initiated treatment within 2 hours of onset of symptoms.
 Patients were randomized to VALTREX 2 grams twice daily on Day 1 followed by placebo on Day 2, VALTREX 2 grams twice daily on Day 1 followed by 1 gram twice daily on Day 2, or placebo on Days 1 and 2.
 
 The mean duration of cold sore episodes was about 1 day shorter in treated subjects as compared with placebo.
-The 2 day regimen did not offer additional benefit over the 1-day regimen.
+The 2-day regimen did not offer additional benefit over the 1-day regimen.
 
 No significant difference was observed between subjects receiving VALTREX or placebo in the prevention of progression of cold sore lesions beyond the papular stage.
 
 ## 14.2 Genital Herpes Infections
 
 Initial Episode: Six hundred forty-three immunocompetent adults with first-episode genital herpes who presented within 72 hours of symptom onset were randomized in a double-blind trial to receive 10 days of VALTREX 1 gram twice daily (n = 323) or oral acyclovir 200 mg 5 times a day (n = 320).
-For both treatment groups: the median time to lesion healing was 9 days, the median time to cessation of pain was 5 days, the median time to cessation of viral shedding was 3 days.
+For both treatment groups the median time to lesion healing was 9 days, the median time to cessation of pain was 5 days, and the median time to cessation of viral shedding was 3 days.
 
 Recurrent Episodes: Three double-blind trials (2 of them placebo-controlled) in immunocompetent adults with recurrent genital herpes were conducted.
 Patients self-initiated therapy within 24 hours of the first sign or symptom of a recurrent genital herpes episode.
@@ -29,7 +29,7 @@ In a third study, patients were randomized to receive VALTREX 500 mg twice daily
 The median time to lesion healing was about 4½ days in both treatment groups.
 The median time to cessation of pain was about 3 days in both treatment groups.
 
-Suppressive Therapy: Two clinical studies were conducted, one in immunocompetent adults and one in HIV-infected adults.
+Suppressive Therapy: Two clinical studies were conducted, one in immunocompetent adults and one in HIV-1-infected adults.
 
 A double-blind, 12-month, placebo- and active-controlled study enrolled immunocompetent adults with a history of 6 or more recurrences per year.
 Outcomes for the overall study population are shown in Table 5.
@@ -47,14 +47,14 @@ Recurrence Rates in Immunocompetent Adults at 6 and 12 Months
 
 Subjects with 9 or fewer recurrences per year showed comparable results with VALTREX 500 mg once daily.
 
-In a second study, 293 HIV-infected adults on stable antiretroviral therapy with a history of 4 or more recurrences of ano-genital herpes per year were randomized to receive either VALTREX 500 mg twice daily (n = 194) or matching placebo (n = 99) for 6 months.
+In a second study, 293 HIV-1-infected adults on stable antiretroviral therapy with a history of 4 or more recurrences of ano-genital herpes per year were randomized to receive either VALTREX 500 mg twice daily (n = 194) or matching placebo (n = 99) for 6 months.
 The median duration of recurrent genital herpes in enrolled subjects was 8 years, and the median number of recurrences in the year prior to enrollment was 5.
 Overall, the median prestudy HIV-1 RNA was 2.6 log10 copies/mL.
-Among patients who received VALTREX, the prestudy median CD4+ cell count was 336 cells/mm3; 11% had <100 cells/mm3, 16% had 100 to 199 cells/mm3, 42% had 200 to 499 cells/mm3, and 31% had ≥500 cells/mm3.
+Among patients who received VALTREX, the prestudy median CD4+ cell count was 336 cells/mm3; 11% had less than 100 cells/mm3, 16% had 100 to 199 cells/mm3, 42% had 200 to 499 cells/mm3, and 31% had greater than or equal to 500 cells/mm3.
 Outcomes for the overall study population are shown in Table 6.
 
 Table 6.
-Recurrence Rates in HIV-Infected Adults at 6 Months
+Recurrence Rates in HIV-1-Infected Adults at 6 Months
 
 | Outcome | VALTREX 500 mg twice daily(n = 194) | Placebo(n = 99) |
 | --- | --- | --- |
@@ -85,22 +85,22 @@ Percentage of Susceptible Partners Who Acquired HSV-2 Defined by the Primary and
 ## 14.3 Herpes Zoster
 
 Two randomized double-blind clinical trials in immunocompetent adults with localized herpes zoster were conducted.
-VALTREX was compared with placebo in patients less than 50 years of age, and with oral acyclovir in patients greater than 50 years of age.
+VALTREX was compared with placebo in patients aged less than 50 years, and with oral acyclovir in patients aged greater than 50 years.
 All patients were treated within 72 hours of appearance of zoster rash.
-In patients less than 50 years of age, the median time to cessation of new lesion formation was 2 days for those treated with VALTREX compared with 3 days for those treated with placebo.
-In patients greater than 50 years of age, the median time to cessation of new lesions was 3 days in patients treated with either VALTREX or oral acyclovir.
-In patients less than 50 years of age, no difference was found with respect to the duration of pain after healing (post-herpetic neuralgia) between the recipients of VALTREX and placebo.
-In patients greater than 50 years of age, among the 83% who reported pain after healing (post-herpetic neuralgia), the median duration of pain after healing [95% confidence interval] in days was: 40 [31, 51], 43 [36, 55], and 59 [41, 77] for 7-day VALTREX, 14-day VALTREX, and 7-day oral acyclovir, respectively.
+In patients aged less than 50 years, the median time to cessation of new lesion formation was 2 days for those treated with VALTREX compared with 3 days for those treated with placebo.
+In patients aged greater than 50 years, the median time to cessation of new lesions was 3 days in patients treated with either VALTREX or oral acyclovir.
+In patients aged less than 50 years, no difference was found with respect to the duration of pain after healing (post-herpetic neuralgia) between the recipients of VALTREX and placebo.
+In patients aged greater than 50 years, among the 83% who reported pain after healing (post-herpetic neuralgia), the median duration of pain after healing [95% confidence interval] in days was: 40 [31, 51], 43 [36, 55], and 59 [41, 77] for 7-day VALTREX, 14-day VALTREX, and 7-day oral acyclovir, respectively.
 
 ## 14.4 Chickenpox
 
-The use of VALTREX for treatment of chickenpox in pediatric patients 2 to <18 years of age is based on single-dose pharmacokinetic and multiple-dose safety data from an open-label trial with valacyclovir and supported by safety and extrapolated efficacy data from 3 randomized, double-blind, placebo-controlled trials evaluating oral acyclovir in pediatric patients.
+The use of VALTREX for treatment of chickenpox in pediatric patients aged 2 to less than 18 years is based on single-dose pharmacokinetic and multiple-dose safety data from an open-label trial with valacyclovir and supported by safety and extrapolated efficacy data from 3 randomized, double-blind, placebo-controlled trials evaluating oral acyclovir in pediatric patients.
 
-The single-dose pharmacokinetic and multiple-dose safety study enrolled 27 pediatric patients 1 to <12 years of age with clinically suspected VZV infection.
+The single-dose pharmacokinetic and multiple-dose safety study enrolled 27 pediatric patients aged 1 to less than 12 years with clinically suspected VZV infection.
 Each subject was dosed with valacyclovir oral suspension, 20 mg/kg 3 times daily for 5 days.
 Acyclovir systemic exposures in pediatric patients following valacyclovir oral suspension were compared with historical acyclovir systemic exposures in immunocompetent adults receiving the solid oral dosage form of valacyclovir or acyclovir for the treatment of herpes zoster.
-The mean projected daily acyclovir exposures in pediatric patients across all age-groups (1 to <12 years of age) were lower (Cmax: ↓13%, AUC: ↓30%) than the mean daily historical exposures in adults receiving valacyclovir 1 gram 3 times daily, but were higher (daily AUC: ↑50%) than the mean daily historical exposures in adults receiving acyclovir 800 mg 5 times daily.
+The mean projected daily acyclovir exposures in pediatric patients across all age-groups (1 to less than 12 years) were lower (Cmax: ↓13%, AUC: ↓30%) than the mean daily historical exposures in adults receiving valacyclovir 1 gram 3 times daily, but were higher (daily AUC: ↑50%) than the mean daily historical exposures in adults receiving acyclovir 800 mg 5 times daily.
 The projected daily exposures in pediatric patients were greater (daily AUC approximately 100% greater) than the exposures seen in immunocompetent pediatric patients receiving acyclovir 20 mg/kg 4 times daily for the treatment of chickenpox.
-Based on the pharmacokinetic and safety data from this study and the safety and extrapolated efficacy data from the acyclovir studies, oral valacyclovir 20 mg/kg 3 times a day for 5 days (not to exceed 1 gram 3 times daily) is recommended for the treatment of chickenpox in pediatric patients 2 to <18 years of age.
-Because the efficacy and safety of acyclovir for the treatment of chickenpox in children <2 years of age have not been established, efficacy data cannot be extrapolated to support valacyclovir treatment in children <2 years of age with chickenpox.
+Based on the pharmacokinetic and safety data from this study and the safety and extrapolated efficacy data from the acyclovir studies, oral valacyclovir 20 mg/kg 3 times a day for 5 days (not to exceed 1 gram 3 times daily) is recommended for the treatment of chickenpox in pediatric patients aged 2 to less than 18 years.
+Because the efficacy and safety of acyclovir for the treatment of chickenpox in children aged less than 2 years have not been established, efficacy data cannot be extrapolated to support valacyclovir treatment in children aged less than 2 years with chickenpox.
 Valacyclovir is also not recommended for the treatment of herpes zoster in children because safety data up to 7 days’ duration are not available [see Use in Specific Populations (8.4)].

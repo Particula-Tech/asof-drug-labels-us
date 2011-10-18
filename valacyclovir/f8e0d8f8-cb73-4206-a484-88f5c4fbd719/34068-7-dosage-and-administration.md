@@ -17,7 +17,7 @@ Initiate treatment at the first sign or symptom of an episode.
 Suppressive Therapy: The recommended dosage of VALTREX for chronic suppressive therapy of recurrent genital herpes is 1 gram once daily in patients with normal immune function.
 In patients with a history of 9 or fewer recurrences per year, an alternative dose is 500 mg once daily.
 
-In HIV-infected patients with a CD4+ cell count ≥100 cells/mm3, the recommended dosage of VALTREX for chronic suppressive therapy of recurrent genital herpes is 500 mg twice daily.
+In HIV-1 infected patients with a CD4+ cell count greater than or equal to 100 cells/mm3, the recommended dosage of VALTREX for chronic suppressive therapy of recurrent genital herpes is 500 mg twice daily.
 
 Reduction of Transmission: The recommended dosage of VALTREX for reduction of transmission of genital herpes in patients with a history of 9 or fewer recurrences per year is 500 mg once daily for the source partner.
 
@@ -26,10 +26,10 @@ Therapy should be initiated at the earliest sign or symptom of herpes zoster and
 
 ## 2.2 Pediatric Dosing Recommendations
 
-Cold Sores (Herpes Labialis): The recommended dosage of VALTREX for the treatment of cold sores in pediatric patients ≥12 years of age is 2 grams twice daily for 1 day taken 12 hours apart.
+Cold Sores (Herpes Labialis): The recommended dosage of VALTREX for the treatment of cold sores in pediatric patients aged greater than or equal to 12 years is 2 grams twice daily for 1 day taken 12 hours apart.
 Therapy should be initiated at the earliest symptom of a cold sore (e.g., tingling, itching, or burning).
 
-Chickenpox: The recommended dosage of VALTREX for treatment of chickenpox in immunocompetent pediatric patients 2 to <18 years of age is 20 mg/kg administered 3 times daily for 5 days.
+Chickenpox: The recommended dosage of VALTREX for treatment of chickenpox in immunocompetent pediatric patients aged 2 to less than 18 years is 20 mg/kg administered 3 times daily for 5 days.
 The total dose should not exceed 1 gram 3 times daily.
 Therapy should be initiated at the earliest sign or symptom [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
 
@@ -60,7 +60,7 @@ Prepare Suspension at Time of Dispensing as Follows:
 ## 2.4 Patients With Renal Impairment
 
 Dosage recommendations for adult patients with reduced renal function are provided in Table 1 [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
-Data are not available for the use of VALTREX in pediatric patients with a creatinine clearance <50 mL/min/1.73 m2.
+Data are not available for the use of VALTREX in pediatric patients with a creatinine clearance less than 50 mL/min/1.73 m2.
 
 Table 1.
 VALTREX Dosage Recommendations for Adults With Renal Impairment
@@ -73,8 +73,8 @@ VALTREX Dosage Recommendations for Adults With Renal Impairment
 | Genital herpes: Recurrent episode | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
 | Genital herpes: Suppressive therapy |  |  |  |  |
 | Immunocompetent patients | 1 gram every 24 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
-| Alternate dose for immunocompetent patients with ≤9 recurrences/year | 500 mg every 24 hours | no reduction | 500 mg every 48 hours | 500 mg every 48 hours |
-| HIV-infected patients | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
+| Alternate dose for immunocompetent patients with greater than or equal to 9 recurrences/year | 500 mg every 24 hours | no reduction | 500 mg every 48 hours | 500 mg every 48 hours |
+| HIV-1 infected patients | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
 | Herpes zoster | 1 gram every 8 hours | 1 gram every 12 hours | 1 gram every 24 hours | 500 mg every 24 hours |
 
 Hemodialysis: Patients requiring hemodialysis should receive the recommended dose of VALTREX after hemodialysis.

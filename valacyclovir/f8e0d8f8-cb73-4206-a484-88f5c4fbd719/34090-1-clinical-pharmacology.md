@@ -6,11 +6,11 @@ Valacyclovir is an antiviral drug [see Clinical Pharmacology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of valacyclovir and acyclovir after oral administration of VALTREX have been investigated in 14 volunteer studies involving 283 adults and in 3 studies involving 112 pediatric subjects from 1 month to <12 years of age.
+The pharmacokinetics of valacyclovir and acyclovir after oral administration of VALTREX have been investigated in 14 volunteer studies involving 283 adults and in 3 studies involving 112 pediatric subjects aged 1 month to less than 12 years.
 
 Pharmacokinetics in Adults: Absorption and Bioavailability: After oral administration, valacyclovir hydrochloride is rapidly absorbed from the gastrointestinal tract and nearly completely converted to acyclovir and L-valine by first-pass intestinal and/or hepatic metabolism.
 
-The absolute bioavailability of acyclovir after administration of VALTREX is 54.5% ± 9.1% as determined following a 1 gram oral dose of VALTREX and a 350 mg intravenous acyclovir dose to 12 healthy volunteers.
+The absolute bioavailability of acyclovir after administration of VALTREX is 54.5% ± 9.1% as determined following a 1-gram oral dose of VALTREX and a 350 mg intravenous acyclovir dose to 12 healthy volunteers.
 Acyclovir bioavailability from the administration of VALTREX is not altered by administration with food (30 minutes after an 873 Kcal breakfast, which included 51 grams of fat).
 
 Acyclovir pharmacokinetic parameter estimates following administration of VALTREX to healthy adult volunteers are presented in Table 3.
@@ -45,7 +45,7 @@ After single-dose administration of 1 gram of VALTREX, average plasma valacyclov
 Elimination: The pharmacokinetic disposition of acyclovir delivered by valacyclovir is consistent with previous experience from intravenous and oral acyclovir.
 Following the oral administration of a single 1 gram dose of radiolabeled valacyclovir to 4 healthy subjects, 46% and 47% of administered radioactivity was recovered in urine and feces, respectively, over 96 hours.
 Acyclovir accounted for 89% of the radioactivity excreted in the urine.
-Renal clearance of acyclovir following the administration of a single 1 gram dose of VALTREX to 12 healthy volunteers was approximately 255 ± 86 mL/min which represents 42% of total acyclovir apparent plasma clearance.
+Renal clearance of acyclovir following the administration of a single 1-gram dose of VALTREX to 12 healthy volunteers was approximately 255 ± 86 mL/min which represents 42% of total acyclovir apparent plasma clearance.
 
 The plasma elimination half-life of acyclovir typically averaged 2.5 to 3.3 hours in all studies of VALTREX in volunteers with normal renal function.
 
@@ -53,25 +53,25 @@ Specific Populations: Renal Impairment: Reduction in dosage is recommended in pa
 
 Following administration of VALTREX to volunteers with ESRD, the average acyclovir half-life is approximately 14 hours.
 During hemodialysis, the acyclovir half-life is approximately 4 hours.
-Approximately one third of acyclovir in the body is removed by dialysis during a 4-hour hemodialysis session.
+Approximately one-third of acyclovir in the body is removed by dialysis during a 4-hour hemodialysis session.
 Apparent plasma clearance of acyclovir in dialysis patients was 86.3 ± 21.3 mL/min/1.73 m2 compared with 679.16 ± 162.76 mL/min/1.73 m2 in healthy volunteers.
 
 Hepatic Impairment: Administration of VALTREX to patients with moderate (biopsy-proven cirrhosis) or severe (with and without ascites and biopsy-proven cirrhosis) liver disease indicated that the rate but not the extent of conversion of valacyclovir to acyclovir is reduced, and the acyclovir half-life is not affected.
 Dosage modification is not recommended for patients with cirrhosis.
 
-HIV Disease: In 9 patients with HIV disease and CD4+ cell counts <150 cells/mm3 who received VALTREX at a dosage of 1 gram 4 times daily for 30 days, the pharmacokinetics of valacyclovir and acyclovir were not different from that observed in healthy volunteers.
+HIV-1 Disease: In 9 patients with HIV-1 disease and CD4+ cell counts less than 150 cells/mm3 who received VALTREX at a dosage of 1 gram 4 times daily for 30 days, the pharmacokinetics of valacyclovir and acyclovir were not different from that observed in healthy volunteers.
 
 Geriatrics: After single-dose administration of 1 gram of VALTREX in healthy geriatric volunteers, the half-life of acyclovir was 3.11 ± 0.51 hours, compared with 2.91 ± 0.63 hours in healthy younger adult volunteers.
 The pharmacokinetics of acyclovir following single- and multiple-dose oral administration of VALTREX in geriatric volunteers varied with renal function.
 Dose reduction may be required in geriatric patients, depending on the underlying renal status of the patient [see Dosage and Administration (2.4), Use in Specific Populations (8.5), (8.6)].
 
-Pediatrics: Acyclovir pharmacokinetics have been evaluated in a total of 98 pediatric patients (1 month to <12 years of age) following administration of the first dose of an extemporaneous oral suspension of valacyclovir [see Adverse Reactions (6.2), Use in Specific Populations (8.4)].
-Acyclovir pharmacokinetic parameter estimates following a 20 mg/kg dose are provided in Table 4.
+Pediatrics: Acyclovir pharmacokinetics have been evaluated in a total of 98 pediatric patients (aged 1 month to less than 12 years) following administration of the first dose of an extemporaneous oral suspension of valacyclovir [see Adverse Reactions (6.2), Use in Specific Populations (8.4)].
+Acyclovir pharmacokinetic parameter estimates following a 20-mg/kg dose are provided in Table 4.
 
 Table 4.
-Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameter Estimates Following First-Dose Administration of 20 mg/kg Valacyclovir Oral Suspension to Pediatric Patients vs. 1 Gram Single Dose of VALTREX to Adults
+Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameter Estimates Following First-Dose Administration of 20 mg/kg Valacyclovir Oral Suspension to Pediatric Patients vs. 1-Gram Single Dose of VALTREX to Adults
 
-| Parameter | Pediatric Patients(20 mg/kg Oral Suspension) |  |  | Adults1 gram Solid Dose of VALTREXa(N = 15) |
+| Parameter | Pediatric Patients(20 mg/kg Oral Suspension) |  |  | Adults1-gram Solid Dose of VALTREXa(N = 15) |
 | --- | --- | --- | --- | --- |
 | 1 - <2 yr(N = 6) | 2 - <6 yr(N = 12) | 6 - <12 yr(N = 8) |  |  |
 | AUC (mcg•hr/mL) | 14.4 (±6.26) | 10.1 (±3.35) | 13.1 (±3.43) | 17.2 (±3.10) |

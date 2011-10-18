@@ -29,7 +29,7 @@ If medical management of a genital herpes recurrence is indicated, patients shou
 There are no data on the effectiveness of treatment initiated more than 72 hours after the onset of signs and symptoms of a first episode of genital herpes or more than 24 hours after the onset of signs and symptoms of a recurrent episode.
 
 There are no data on the safety or effectiveness of chronic suppressive therapy of more than 1 year’s duration in otherwise healthy patients.
-There are no data on the safety or effectiveness of chronic suppressive therapy of more than 6 months’ duration in HIV-infected patients.
+There are no data on the safety or effectiveness of chronic suppressive therapy of more than 6 months’ duration in HIV-1 infected patients.
 
 ## 17.4 Herpes Zoster
 
@@ -42,17 +42,16 @@ Patients should be advised to initiate treatment at the earliest sign or symptom
 
 chickenpox.
 
-This product's prescribing information may have been updated.
-Please refer to www.gsk.com for the most current version.
-
 Distributed by: GlaxoSmithKline Research Triangle Park, NC 27709
 
 Manufactured by: GlaxoSmithKline Research Triangle Park, NC 27709 or DSM Pharmaceuticals, Inc. Greenville, NC 27834
 
-©2010, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-March 2010 VTX:3PI
+October 2011
+
+VTX:4PI
 
 PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
