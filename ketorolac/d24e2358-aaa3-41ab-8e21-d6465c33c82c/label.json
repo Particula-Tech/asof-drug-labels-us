@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020811"
+  ],
   "inn": "ketorolac",
-  "labeler": "Allergan",
+  "labeler": "Allergan, Inc.",
   "package_ndcs": [
     "0023-9055-04"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "ketorolac tromethamine",
+      "name": "ACULAR PF"
+    }
+  ],
   "setid": "d24e2358-aaa3-41ab-8e21-d6465c33c82c",
   "source": "dailymed"
 }

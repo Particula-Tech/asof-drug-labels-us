@@ -38,7 +38,7 @@ To avoid contamination, do not touch tip of unit-dose vial to eye or any other s
 Ketorolac tromethamine was not carcinogenic in rats given up to 5 mg/kg/day orally for 24 months (151 times the maximum recommended human topical ophthalmic dose, on a mg/kg basis, assuming 100% absorption in humans and animals) nor in mice given 2 mg/kg/day orally for 18 months (60 times the maximum recommended human topical ophthalmic dose, on a mg/kg basis, assuming 100% absorption in humans and animals).
 
 Ketorolac tromethamine was not mutagenic in vitro in the Ames assay or in forward mutation assays.
-Similarly, it did not result in an in vitro increase in unscheduled DNA synthesis or anin vivo increase in chromosome breakage in mice.
+Similarly, it did not result in an in vitro increase in unscheduled DNA synthesis or an in vivo increase in chromosome breakage in mice.
 However, ketorolac tromethamine did result in an increased incidence in chromosomal aberrations in Chinese hamster ovary cells.
 
 Ketorolac tromethamine did not impair fertility when administered orally to male and female rats at doses up to 272 and 484 times the maximum recommended human topical ophthalmic dose, respectively, on a mg/kg basis, assuming 100% absoprtion in humans and animals.

@@ -8,6 +8,8 @@ Store ACULAR® PF at 15°C-30°C (59°F - 86°F) with protection from light.
 
 Rx only
 
+Revised June 2004
+
 © 2004 Allergan Irvine, CA 92612, U.S.A.
 
 ACULAR® is a registered trademark of Roche L.L.C.
