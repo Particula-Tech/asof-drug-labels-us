@@ -97,9 +97,9 @@ Incidence of Treatment Emergent Adverse Events in ≥ 2% of INVEGA® SUSTENNA®-
 | Percentages are rounded to whole numbers. Table includes adverse events that were reported in 2% or more of subjects in any of the INVEGA® SUSTENNA® dose groups and which occurred at greater incidence than in the placebo group. |  |  |  |  |  |  |  |
 | Adverse events for which the INVEGA® SUSTENNA® incidence was equal to or less than placebo are not listed in the table, but included the following: dyspepsia, psychotic disorder, schizophrenia, and tremor. The following terms were combined: somnolence/sedation, breast tenderness/breast pain, abdominal discomfort/abdominal pain upper/stomach discomfort, and tachycardia/sinus tachycardia/heart rate increased. All injection site reaction-related adverse events were collapsed and are grouped under "Injection site reactions". |  |  |  |  |  |  |  |
 
-## 6.2 Adverse Reactions Observed During the Clinical Trial Evaluation of INVEGA® SUSTENNA® and Not Listed in Table 2
+## 6.2 Adverse Reactions Observed During the Clinical Trial Evaluation of INVEGA® SUSTENNA® and Not Listed in Table 5
 
-The following additional adverse reactions occurred in INVEGA® SUSTENNA®-treated subjects in the above four fixed-dose, double-blind, placebo-controlled trials, in the double-blind phase of the maintenance trial, or in INVEGA® SUSTENNA®-treated subjects with schizophrenia who participated in other clinical trials, and were not reported in Table 2.
+The following additional adverse reactions occurred in INVEGA® SUSTENNA®-treated subjects in the above four fixed-dose, double-blind, placebo-controlled trials, in the double-blind phase of the maintenance trial, or in INVEGA® SUSTENNA®-treated subjects with schizophrenia who participated in other clinical trials, and were not reported in Table 5.
 They were determined to be adverse reactions based upon reasons to suspect causality such as timing of onset or termination with respect to drug use, plausibility in light of the drug's known pharmacology, occurrence at a frequency above that expected in the treated population or occurrence of an event typical of drug-induced adverse reactions.
 
 Cardiac disorders: atrioventricular block first degree, bradycardia, bundle branch block, electrocardiogram QT prolonged, palpitations, postural orthostatic tachycardia syndrome, tachycardia
