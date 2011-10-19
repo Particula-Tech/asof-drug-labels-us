@@ -30,7 +30,7 @@ The 10/80 mg dose should only be used by people who:
 
 If you are unable to reach your LDL-cholesterol goal using VYTORIN 10/40 mg, your doctor should switch you to another cholesterol-lowering medicine.
 
-For more information about cholesterol, see the section called “What should I know about high cholesterol?”
+For more information about cholesterol, see the section called "What should I know about high cholesterol?"
 
 Who should not take VYTORIN?
 
@@ -55,7 +55,7 @@ Ask your doctor if you are not sure if your medicine is listed above.
 Also do not take VYTORIN:
 
 - If you are allergic to ezetimibe or simvastatin, the active ingredients in VYTORIN, or to the inactive ingredients.
-  For a list of inactive ingredients, see the “Inactive ingredients” section at the end of this information sheet.
+  For a list of inactive ingredients, see the "Inactive ingredients" section at the end of this information sheet.
 - If you have active liver disease or repeated blood tests indicating possible liver problems.
 - If you are pregnant, or think you may be pregnant, or planning to become pregnant or breast-feeding.
 - If you are a woman of childbearing age, you should use an effective method of birth control to prevent pregnancy while using VYTORIN.
@@ -123,7 +123,14 @@ Contact your doctor immediately.
 What are the possible side effects of VYTORIN?
 
 See your doctor regularly to check your cholesterol level and to check for side effects.
-Your doctor may do blood tests to check your liver before you start taking VYTORIN and during treatment.
+Your doctor should do blood tests to check your liver before you start taking VYTORIN and if you have any symptoms of liver problems while you take VYTORIN.
+Call your doctor right away if you have the following symptoms of liver problems:
+
+- feel tired or weak
+- loss of appetite
+- upper belly pain
+- dark urine
+- yellowing of your skin or the whites of your eyes
 
 In clinical studies patients reported the following common side effects while taking VYTORIN: headache, muscle pain, and diarrhea (see What should I tell my doctor before and while taking VYTORIN?).
 
@@ -142,12 +149,12 @@ Cholesterol comes from two sources.
 It is produced by your body and it comes from the food you eat.
 Your total cholesterol is made up of both LDL and HDL cholesterol.
 
-LDL cholesterol is called “bad” cholesterol because it can build up in the wall of your arteries and form plaque.
+LDL cholesterol is called "bad" cholesterol because it can build up in the wall of your arteries and form plaque.
 Over time, plaque build-up can cause a narrowing of the arteries.
 This narrowing can slow or block blood flow to your heart, brain, and other organs.
 High LDL cholesterol is a major cause of heart disease and one of the causes for stroke.
 
-HDL cholesterol is called “good” cholesterol because it keeps the bad cholesterol from building up in the arteries.
+HDL cholesterol is called "good" cholesterol because it keeps the bad cholesterol from building up in the arteries.
 
 Triglycerides also are fats found in your body.
 
@@ -166,11 +173,3 @@ For additional information, visit the following web site: vytorin.com.
 Inactive ingredients:
 
 Butylated hydroxyanisole NF, citric acid monohydrate USP, croscarmellose sodium NF, hypromellose USP, lactose monohydrate NF, magnesium stearate NF, microcrystalline cellulose NF, and propyl gallate NF.
-
-9619518
-
-Manufactured for: Merck/Schering-Plough Pharmaceuticals North Wales, PA 19454, USA
-
-This patient information has been approved by the U.S. Food and Drug Administration
-
-Issued June 2011

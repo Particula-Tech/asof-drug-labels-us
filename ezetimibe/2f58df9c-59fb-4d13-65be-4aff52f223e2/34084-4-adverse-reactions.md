@@ -65,8 +65,12 @@ This was attributable to the noncardiac fraction of CK [see Warnings and Precaut
 
 Because the below reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The following adverse reactions have been reported in post-marketing experience for VYTORIN or ezetimibe or simvastatin: pruritus; alopecia; erythema multiforme; a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails); dizziness; muscle cramps; myalgia; arthralgia; pancreatitis; memory impairment; paresthesia; peripheral neuropathy; vomiting; nausea; anemia; erectile dysfunction; interstitial lung disease; myopathy/rhabdomyolysis [see Warnings and Precautions (5.1)]; hepatitis/jaundice; hepatic failure; depression; cholelithiasis; cholecystitis; thrombocytopenia; elevations in liver transaminases; elevated creatine phosphokinase.
+The following adverse reactions have been reported in post-marketing experience for VYTORIN or ezetimibe or simvastatin: pruritus; alopecia; erythema multiforme; a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails); dizziness; muscle cramps; myalgia; arthralgia; pancreatitis; paresthesia; peripheral neuropathy; vomiting; nausea; anemia; erectile dysfunction; interstitial lung disease; myopathy/rhabdomyolysis [see Warnings and Precautions (5.1)]; hepatitis/jaundice; fatal and non-fatal hepatic failure; depression; cholelithiasis; cholecystitis; thrombocytopenia; elevations in liver transaminases; elevated creatine phosphokinase.
 
 Hypersensitivity reactions, including anaphylaxis, angioedema, rash, and urticaria have been reported.
 
 In addition, an apparent hypersensitivity syndrome has been reported rarely that has included one or more of the following features: anaphylaxis, angioedema, lupus erythematous-like syndrome, polymyalgia rheumatica, dermatomyositis, vasculitis, purpura, thrombocytopenia, leukopenia, hemolytic anemia, positive ANA, ESR increase, eosinophilia, arthritis, arthralgia, urticaria, asthenia, photosensitivity, fever, chills, flushing, malaise, dyspnea, toxic epidermal necrolysis, erythema multiforme, including Stevens-Johnson syndrome.
+
+There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
+These cognitive issues have been reported for all statins.
+The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).

@@ -4,7 +4,7 @@
 
 VYTORIN
 
-## 7.1 Strong CYP3A4 Inhibitors, cyclosporine or danazol
+## 7.1 Strong CYP3A4 Inhibitors, cyclosporine, or danazol
 
 Strong CYP3A4 inhibitors: The risk of myopathy is increased by reducing the elimination of the simvastatin component of VYTORIN.
 Hence when VYTORIN is used with an inhibitor of CYP3A4 (e.g., as listed below), elevated plasma levels of HMG-CoA reductase inhibitory activity increases the risk of myopathy and rhabdomyolysis, particularly with higher doses of VYTORIN.

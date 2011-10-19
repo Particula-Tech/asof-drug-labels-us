@@ -34,7 +34,9 @@ Periodic CK determinations may be considered in patients starting therapy with s
 
 Many of the patients who have developed rhabdomyolysis on therapy with simvastatin have had complicated medical histories, including renal insufficiency usually as a consequence of long-standing diabetes mellitus.
 Such patients taking VYTORIN merit closer monitoring.
-Therapy with VYTORIN should be temporarily stopped a few days prior to elective major surgery and when any major medical or surgical condition supervenes.
+
+VYTORIN therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
+VYTORIN therapy should also be temporarily withheld in any patient experiencing an acute or serious condition predisposing to the development of renal failure secondary to rhabdomyolysis, e.g., sepsis; hypotension; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy.
 
 Drug Interactions
 
@@ -70,8 +72,8 @@ Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
 | Itraconazole Ketoconazole Posaconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Nefazodone Gemfibrozil Cyclosporine Danazol | Contraindicated with VYTORIN |
-| Amiodarone Verapamil Diltiazem | Do not exceed 10/10 mg VYTORIN daily |
-| Amlodipine Ranolazine | Do not exceed 10/20 mg VYTORIN daily |
+| Verapamil Diltiazem | Do not exceed 10/10 mg VYTORIN daily |
+| Amiodarone Amlodipine Ranolazine | Do not exceed 10/20 mg VYTORIN daily |
 | Grapefruit juice | Avoid large quantities of grapefruit juice (>1 quart daily) |
 
 ## 5.2 Liver Enzymes
@@ -81,8 +83,9 @@ In controlled long-term (48-week) extensions, which included both newly-treated 
 These elevations in transaminases were generally asymptomatic, not associated with cholestasis, and returned to baseline after discontinuation of therapy or with continued treatment.
 
 It is recommended that liver function tests be performed before the initiation of treatment with VYTORIN, and thereafter when clinically indicated.
-Patients who develop increased transaminase levels should be monitored with a second liver function evaluation to confirm the finding and be followed thereafter with frequent liver function tests until the abnormality(ies) return to normal.
-Should an increase in AST or ALT of 3 X ULN or greater persist, withdrawal of therapy with VYTORIN is recommended.
+There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including simvastatin.
+If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with VYTORIN, promptly interrupt therapy.
+If an alternate etiology is not found do not restart VYTORIN.
 Note that ALT may emanate from muscle, therefore ALT rising with CK may indicate myopathy [see Warnings and Precautions (5.1)].
 
 VYTORIN should be used with caution in patients who consume substantial quantities of alcohol and/or have a past history of liver disease.
@@ -92,3 +95,7 @@ Active liver diseases or unexplained persistent transaminase elevations are cont
 
 Due to the unknown effects of the increased exposure to ezetimibe in patients with moderate or severe hepatic impairment, VYTORIN is not recommended in these patients.
 [See Clinical Pharmacology (12.3).]
+
+## 5.4 Endocrine Function
+
+Increases in HbA1c and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including simvastatin.

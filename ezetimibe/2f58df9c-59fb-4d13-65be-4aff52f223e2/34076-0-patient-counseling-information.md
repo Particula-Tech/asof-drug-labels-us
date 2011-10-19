@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling (17.5).]
+See FDA-Approved Patient Labeling (Patient Information).
 
 Patients should be advised to adhere to their National Cholesterol Education Program (NCEP)-recommended diet, a regular exercise program, and periodic testing of a fasting lipid panel.
 
@@ -17,6 +17,7 @@ Patients should discuss all medication, both prescription and over the counter, 
 ## 17.2 Liver Enzymes
 
 It is recommended that liver function tests be performed before the initiation of VYTORIN, and thereafter when clinically indicated.
+All patients treated with VYTORIN should be advised to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
 
 ## 17.3 Pregnancy
 
@@ -28,5 +29,3 @@ Patients should be advised that if they become pregnant they should stop taking 
 
 Women who are breast-feeding should be advised to not use VYTORIN.
 Patients who have a lipid disorder and are breast-feeding should be advised to discuss the options with their healthcare professional.
-
-## 17.5 FDA-Approved Patient Labeling
