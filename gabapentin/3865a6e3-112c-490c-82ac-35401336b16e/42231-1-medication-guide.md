@@ -46,7 +46,28 @@ Stopping a seizure medicine suddenly in a patient who has epilepsy can cause sei
 Suicidal thoughts or actions can be caused by things other than medicines.
 If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
-2.Changes in behavior and thinking - Using gabapentin in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
+2.
+Changes in behavior and thinking - Using gabapentin in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
+
+3.
+Gabapentin may cause a serious or life-threatening allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.
+You may or may not have rash when you get this type of reaction.
+It may cause you to be hospitalized or to stop gabapentin.
+Call a healthcare provider right away if you have any of the following symptoms:
+
+- skin rash
+- hives
+- fever
+- swollen glands that do not go away
+- swelling of your lip and tongue
+- yellowing of your skin or of the whites of the eyes
+- unusual bruising or bleeding
+- severe fatigue or weakness
+- unexpected muscle pain
+- frequent infections
+
+These symptoms may be the first signs of a serious reaction.
+A healthcare provider should examine you to decide if you should continue taking gabapentin.
 
 ## What is gabapentin?
 
@@ -157,4 +178,4 @@ Questions?
 
 www.glenmarkgenerics.com
 
-June 2011
+September 2011
