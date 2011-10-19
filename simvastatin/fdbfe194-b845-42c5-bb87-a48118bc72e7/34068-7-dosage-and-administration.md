@@ -18,11 +18,11 @@ Due to the increased risk of myopathy, including rhabdomyolysis, associated with
 
 ## 2.3 Coadministration with Other Drugs
 
-Patients taking Amiodarone, Verapamil, or Diltiazem
+Patients taking Verapamil or Diltiazem
 
 - The dose of ZOCOR should not exceed 10 mg/day [see Warnings and Precautions (5.1), Drug Interactions (7.3), and Clinical Pharmacology (12.3)].
 
-Patients taking Amlodipine or Ranolazine
+Patients taking Amiodarone, Amlodipine or Ranolazine
 
 - The dose of ZOCOR should not exceed 20 mg/day [see Warnings and Precautions (5.1), Drug Interactions (7.3), and Clinical Pharmacology (12.3)].
 

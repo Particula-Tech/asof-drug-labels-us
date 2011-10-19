@@ -31,7 +31,8 @@ Periodic CK determinations may be considered in patients starting therapy with s
 
 Many of the patients who have developed rhabdomyolysis on therapy with simvastatin have had complicated medical histories, including renal insufficiency usually as a consequence of long-standing diabetes mellitus.
 Such patients merit closer monitoring.
-Therapy with simvastatin should be temporarily stopped a few days prior to elective major surgery and when any major medical or surgical condition supervenes.
+ZOCOR therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
+ZOCOR therapy should also be temporarily withheld in any patient experiencing an acute or serious condition predisposing to the development of renal failure secondary to rhabdomyolysis, e.g., sepsis; hypotension; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy.
 
 Drug Interactions
 
@@ -67,8 +68,8 @@ TABLE 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
 | ItraconazoleKetoconazolePosaconazoleErythromycinClarithromycinTelithromycinHIV protease inhibitorsNefazodoneGemfibrozilCyclosporineDanazol | Contraindicated with simvastatin |
-| Amiodarone Verapamil Diltiazem | Do not exceed 10 mg simvastatin daily |
-| AmlodipineRanolazine | Do not exceed 20 mg simvastatin daily |
+| Verapamil Diltiazem | Do not exceed 10 mg simvastatin daily |
+| AmiodaroneAmlodipineRanolazine | Do not exceed 20 mg simvastatin daily |
 | Grapefruit juice | Avoid large quantities of grapefruit juice (>1 quart daily) |
 
 ## 5.2 Liver Dysfunction
@@ -88,8 +89,9 @@ In 2 controlled clinical studies in 1,105 patients, the 12-month incidence of pe
 No patients developed persistent liver function abnormalities following the initial 6 months of treatment at a given dose.
 
 It is recommended that liver function tests be performed before the initiation of treatment, and thereafter when clinically indicated.
-Patients who develop increased transaminase levels should be monitored with a second liver function evaluation to confirm the finding and be followed thereafter with frequent liver function tests until the abnormality(ies) return to normal.
-Should an increase in AST or ALT of 3X ULN or greater persist, withdrawal of therapy with ZOCOR is recommended.
+There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including simvastatin.
+If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with ZOCOR, promptly interrupt therapy.
+If an alternate etiology is not found do not restart ZOCOR.
 Note that ALT may emanate from muscle, therefore ALT rising with CK may indicate myopathy [see Warnings and Precautions (5.1)].
 
 The drug should be used with caution in patients who consume substantial quantities of alcohol and/or have a past history of liver disease.
@@ -97,3 +99,7 @@ Active liver diseases or unexplained transaminase elevations are contraindicatio
 
 As with other lipid-lowering agents, moderate (less than 3X ULN) elevations of serum transaminases have been reported following therapy with simvastatin.
 These changes appeared soon after initiation of therapy with simvastatin, were often transient, were not accompanied by any symptoms and did not require interruption of treatment.
+
+## 5.3 Endocrine Function
+
+Increases in HbA1c and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including ZOCOR.

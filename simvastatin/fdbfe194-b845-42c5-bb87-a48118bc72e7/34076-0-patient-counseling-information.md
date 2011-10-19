@@ -14,6 +14,7 @@ Patients should discuss all medication, both prescription and over the counter, 
 ## 17.2 Liver Enzymes
 
 It is recommended that liver function tests be performed before the initiation of ZOCOR, and thereafter when clinically indicated.
+All patients treated with ZOCOR should be advised to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
 
 ## 17.3 Pregnancy
 
@@ -25,11 +26,3 @@ Patients should be advised that if they become pregnant they should stop taking 
 
 Women who are breastfeeding should not use ZOCOR.
 Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professional.
-
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-By: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
-
-Issued June 2011
-
-9992856

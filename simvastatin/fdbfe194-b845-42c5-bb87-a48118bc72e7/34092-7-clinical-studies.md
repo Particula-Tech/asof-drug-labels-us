@@ -92,7 +92,7 @@ TABLE 5: Mean Response in Patients with Primary Hyperlipidemia and Combined (mix
 | ZOCOR 40 mg q.p.m. | 123 | -25 | -29 | 13 | -28 |
 | ZOCOR 80 mg q.p.m. | 124 | -31 | -36 | 16 | -33 |
 
-Hypertriglyceridemia (Frederickson type IV)
+Hypertriglyceridemia (Fredrickson type IV)
 
 The results of a subgroup analysis in 74 patients with type lV hyperlipidemia from a 130-patient, double-blind, placebo-controlled, 3-period crossover study are presented in Table 6.
 
