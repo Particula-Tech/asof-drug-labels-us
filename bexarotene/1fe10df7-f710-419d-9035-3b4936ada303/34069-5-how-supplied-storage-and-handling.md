@@ -14,5 +14,5 @@ Protect from light.
 
 Targretin® is a registered Trademark of Eisai Inc.
 
-| © 2011 Eisai Inc. | Revised 04/11 |
+| © 2011 Eisai Inc. | Revised 11/11 |
 | --- | --- |

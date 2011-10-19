@@ -36,15 +36,15 @@ The renal elimination of bexarotene and its metabolites was examined in patients
 Neither bexarotene nor its metabolites were excreted in urine in appreciable amounts.
 Bexarotene is thought to be eliminated primarily through the hepatobiliary system.
 
-### Special Populations
+### Phamacokinetics in Special Populations
 
-Elderly: Bexarotene Cmax and AUC were similar in advanced cancer patients <60 years old and in patients >60 years old, including a subset of patients >70 years old.
+Age: Based on the population pharmacokinetic analysis of data for 232 patients aged ≥ 65 years and 343 patients aged < 65 years, age has no statistically significant effect on bexarotene pharmacokinetics.
 
-Pediatric: Studies to evaluate bexarotene pharmacokinetics in the pediatric population have not been conducted (see PRECAUTIONS: Pediatric Use).
+Body Weight and Gender: Based on the population pharmacokinetics analysis of data for 614 patients with a weight range of 26 to 145 kg, the bexarotene apparent clearance increases with increasing body weight.
+Gender has no statistically significant effect on bexarotene pharmacokinetics.
 
-Gender: The pharmacokinetics of bexarotene were similar in male and female patients with advanced cancer.
-
-Ethnic Origin: The effect of ethnic origin on bexarotene pharmacokinetics is unknown.
+Race: Based on the population pharmacokinetic analysis of data for 540 Caucasian and 44 Black patients, bexarotene pharmacokinetics are similar in Blacks and Caucasians.
+There are insufficient data to evaluate potential differences in the pharmacokinetics of bexarotene for other races.
 
 Renal Insufficiency: No formal studies have been conducted with Targretin capsules in patients with renal insufficiency.
 Urinary elimination of bexarotene and its known metabolites is a minor excretory pathway (<1% of administered dose), but because renal insufficiency can result in significant protein binding changes, pharmacokinetics may be altered in patients with renal insufficiency (see PRECAUTIONS: Renal Insufficiency).

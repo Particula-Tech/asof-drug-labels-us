@@ -115,4 +115,4 @@ Targretin® (bexarotene) is a registered trademark of Eisai Inc.
 Manufactured for: Eisai Inc. Woodcliff Lake, NJ 07677
 
 © 2011 Eisai Inc. (Rev.
-04/11)
+11/11)
