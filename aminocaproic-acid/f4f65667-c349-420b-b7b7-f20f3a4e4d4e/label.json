@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA071192"
+  ],
   "inn": "aminocaproic-acid",
-  "labeler": "AMERICAN REGENT, INC.",
+  "labeler": "American Regent, Inc.",
   "package_ndcs": [
     "0517-9120-25"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "aminocaproic acid",
+      "name": "Aminocaproic Acid"
+    }
+  ],
   "setid": "f4f65667-c349-420b-b7b7-f20f3a4e4d4e",
   "source": "dailymed"
 }
