@@ -4,9 +4,9 @@ The following adverse reactions described elsewhere in the labeling include:
 
 - Respiratory depression [see Boxed Warning, Warnings and Precautions (5.1, 5.4) and Overdosage (10)]
 - CNS depression [see Warnings and Precautions (5.1, 5.2) and Overdosage (10)]
-- Hypotensive effects [see Warning and Precautions (5.7) and Overdosage (10)]
+- Hypotensive effects [see Warning and Precautions (5.8) and Overdosage (10)]
 - Drug abuse, addiction, and dependence [see Drug Abuse and Dependence (9.2, 9.3)]
-- Paralytic ileus [see Warnings and Precautions (5.10)]
+- Paralytic ileus [see Warnings and Precautions (5.6)]
 - Seizures [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trial Experience

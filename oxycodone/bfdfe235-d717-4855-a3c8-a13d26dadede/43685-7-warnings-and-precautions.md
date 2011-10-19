@@ -22,8 +22,7 @@ Hypotension, profound sedation, coma or respiratory depression may result if Oxy
 Therefore, use caution when deciding to initiate therapy with OxyContin in patients who are taking other CNS depressants.
 Take into account the types of other medications being taken, the duration of therapy with them, and the patient's response to those medicines, including the degree of tolerance that has developed to CNS depression.
 Consider the patient's use, if any, of alcohol and/or illicit drugs that cause CNS depression.
-If the decision to begin OxyContin is made, start with a lower OxyContin dose than usual.
-[see Drug Interactions (7.3)]
+If the decision to begin OxyContin is made, start with a lower OxyContin dose than usual [see Drug Interactions (7.3)].
 
 Consider using a lower initial dose of a CNS depressant when given to a patient currently taking OxyContin due to the potential of additive CNS depressant effects.
 
@@ -51,20 +50,34 @@ In addition to further decreasing consciousness, hypoxia, along with hypercapnia
 Oxycodone, as with other opioids, may aggravate convulsions in patients with convulsive disorders, and may induce or aggravate seizures in some clinical settings.
 Use OxyContin with caution in patients with a history of seizure disorders.
 
-## 5.6 Head Injury
+## 5.6 Difficulty Swallowing and Gastrointestinal Effects
+
+There have been post-marketing reports of difficulty in swallowing OxyContin tablets.
+These reports included choking, gagging, regurgitation and tablets stuck in the throat.
+Instruct patients not to pre-soak, lick or otherwise wet OxyContin tablets prior to placing in the mouth, and to take one tablet at a time with enough water to ensure complete swallowing immediately after placing in the mouth.
+
+There have been rare post-marketing reports of cases of intestinal obstruction, and exacerbation of diverticulitis, some of which have required medical intervention to remove the tablet.
+Patients with underlying GI disorders such as esophageal cancer or colon cancer with a small gastrointestinal lumen are at greater risk of developing these complications.
+
+Use caution when prescribing OxyContin for patients who have difficulty swallowing or have underlying GI disorders that may predispose them to obstruction.
+
+The administration of OxyContin may obscure the diagnosis or clinical course in patients with acute abdominal conditions.
+Use OxyContin with caution in patients who are at risk of developing ileus.
+
+## 5.7 Head Injury
 
 The respiratory depressant effects of opioids include carbon dioxide retention, which can lead to an elevation of cerebrospinal fluid pressure.
 This effect may be exaggerated in the presence of head injury, intracranial lesions, or other sources of pre-existing increased intracranial pressure.
 Oxycodone may produce miosis that is independent of ambient light, and altered consciousness, either of which may obscure neurologic signs associated with increased intracranial pressure in persons with head injuries.
 
-## 5.7 Hypotensive Effect
+## 5.8 Hypotensive Effect
 
 OxyContin may cause severe hypotension.
 There is an added risk to individuals whose ability to maintain blood pressure has been compromised by a depleted blood volume, or after concurrent administration with drugs such as phenothiazines or other agents which compromise vasomotor tone.
 Oxycodone may produce orthostatic hypotension in ambulatory patients.
 Administer OxyContin with caution to patients in circulatory shock, since vasodilation produced by the drug may further reduce cardiac output and blood pressure.
 
-## 5.8 Cytochrome P450 3A4 Inhibitors and Inducers
+## 5.9 Cytochrome P450 3A4 Inhibitors and Inducers
 
 Since the CYP3A4 isoenzyme plays a major role in the metabolism of OxyContin, drugs that alter CYP3A4 activity may cause changes in clearance of oxycodone which could lead to changes in oxycodone plasma concentrations.
 
@@ -72,22 +85,19 @@ The expected clinical results with CYP3A4 inhibitors would be an increase in oxy
 The expected clinical results with CYP3A4 inducers would be a decrease in oxycodone plasma concentrations, lack of efficacy or, possibly, development of an abstinence syndrome in a patient who had developed physical dependence to oxycodone.
 
 If co-administration is necessary, caution is advised when initiating OxyContin treatment in patients currently taking, or discontinuing, CYP3A4 inhibitors or inducers.
-Evaluate these patients at frequent intervals and consider dose adjustments until stable drug effects are achieved [see Drug Interactions (7.2) and Clinical Pharmacology (12)].
+Evaluate these patients at frequent intervals and consider dose adjustments until stable drug effects are achieved [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
-## 5.9 Interactions with Mixed Agonist/Antagonist Opioid Analgesics
+## 5.10 Interactions with Mixed Agonist/Antagonist Opioid Analgesics
 
 It is generally not advisable to administer mixed agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, and butorphanol) to a patient receiving OxyContin.
 In this situation, mixed agonist/antagonist analgesics may reduce the analgesic effect and may precipitate withdrawal symptoms in these patients.
 
-## 5.10 Use in Pancreatic/Biliary Tract Disease and Other Gastrointestinal Conditions
+## 5.11 Use in Pancreatic/Biliary Tract Disease
 
 Oxycodone may cause spasm of the sphincter of Oddi and should be used with caution in patients with biliary tract disease, including acute pancreatitis.
 Opioids may cause increases in the serum amylase.
 
-The administration of OxyContin may obscure the diagnosis or clinical course in patients with acute abdominal conditions.
-Use OxyContin with caution in patients who are at risk of developing ileus.
-
-## 5.11 Tolerance
+## 5.12 Tolerance
 
 Tolerance to opioids is demonstrated by the need for increasing doses to maintain adequate analgesic effect (in the absence of disease progression or other external factors).
 If tolerance develops, or if pain severity increases, a gradual increase in dose may be required.
@@ -95,21 +105,21 @@ The first sign of tolerance is usually a reduced duration of effect.
 Tolerance to different effects of opioids may develop to varying degrees and at varying rates in a given individual.
 There is also inter-patient variability in the rate and extent of tolerance that develops to various opioid effects, whether the effect is desirable (e.g., analgesia) or undesirable (e.g., nausea).
 
-## 5.12 Special Risk Groups
+## 5.13 Special Risk Groups
 
 Use OxyContin with caution in the following conditions, due to increased risk of adverse reactions: alcoholism; delirium tremens; adrenocortical insufficiency; CNS depression; debilitation; kyphoscoliosis associated with respiratory compromise; myxedema or hypothyroidism; prostatic hypertrophy or urethral stricture; severe impairment of hepatic, pulmonary or renal function; and toxic psychosis.
 
-## 5.13 Driving and Operating Machinery
+## 5.14 Driving and Operating Machinery
 
 OxyContin may impair the mental and physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Caution patients accordingly.
 
-## 5.14 Use in Addiction Treatment
+## 5.15 Use in Addiction Treatment
 
 OxyContin has no approved use in the treatment of addiction.
 Its proper usage in individuals with drug or alcohol addiction (substance dependence), either active or in remission, is for the management of pain requiring opioid analgesia.
 
-## 5.15 Laboratory Monitoring
+## 5.16 Laboratory Monitoring
 
 Not every urine drug test for "opioids" or "opiates" detects oxycodone reliably, especially those designed for in-office use.
 Further, many laboratories will report urine drug concentrations below a specified "cut-off" value as "negative".

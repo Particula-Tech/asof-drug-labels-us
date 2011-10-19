@@ -47,7 +47,6 @@ Healthcare professionals should contact their State Professional Licensing Board
 Physical dependence to an opioid is manifested by characteristic withdrawal signs and symptoms after abrupt discontinuation of a drug, significant dose reduction or upon administration of an antagonist.
 Physical dependence and tolerance are not unusual during chronic opioid therapy.
 
-The opioid abstinence or withdrawal syndrome in adults is characterized by some or all of the following: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, piloerection, myalgia, mydriasis, irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
-[See Use In Specific Populations (8.2)]
+The opioid abstinence or withdrawal syndrome in adults is characterized by some or all of the following: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, piloerection, myalgia, mydriasis, irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate [see Use In Specific Populations (8.2)].
 
 In general, opioids should not be abruptly discontinued [see Dosage and Administration (2.9)].

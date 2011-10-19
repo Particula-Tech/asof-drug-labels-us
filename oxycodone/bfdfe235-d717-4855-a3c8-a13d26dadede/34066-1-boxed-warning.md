@@ -14,6 +14,8 @@ OxyContin is not intended for use on an as-needed basis.
 (1)
 
 Patients considered opioid tolerant are those who are taking at least 60 mg oral morphine/day, 25 mcg transdermal fentanyl/hour, 30 mg oral oxycodone/day, 8 mg oral hydromorphone/day, 25 mg oral oxymorphone/day, or an equianalgesic dose of another opioid for one week or longer.
+(2.7)
+
 OxyContin 60 mg and 80 mg tablets, a single dose greater than 40 mg, or a total daily dose greater than 80 mg are only for use in opioid-tolerant patients, as they may cause fatal respiratory depression when administered to patients who are not tolerant to the respiratory-depressant or sedating effects of opioids.
 (2.7)
 

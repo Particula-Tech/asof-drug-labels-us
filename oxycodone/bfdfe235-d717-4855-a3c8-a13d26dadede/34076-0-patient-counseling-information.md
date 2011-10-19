@@ -29,11 +29,11 @@ Healthcare professionals can telephone Purdue Pharma's Medical Services Departme
 
 CAUTION DEA Order Form Required.
 
-©2010, Purdue Pharma L.P.
+©2011, Purdue Pharma L.P.
 
 Purdue Pharma L.P.
 Stamford, CT 06901-3431
 
-U.S. Patent Numbers 5,508,042; 6,488,963; 7,129,248; 7,674,799; 7,674,800 and 7,683,072
+U.S. Patent Numbers 5,508,042; 6,488,963; 7,129,248; 7,674,799; 7,674,800; 7,683,072; and 7,776,314
 
-301734-0D
+301734-0E

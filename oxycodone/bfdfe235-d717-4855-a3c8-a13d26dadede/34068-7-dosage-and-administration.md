@@ -70,7 +70,6 @@ For patients with hepatic impairment, start dosing patients at 1/3 to 1/2 the us
 
 Most patients receiving OxyContin, especially those who are opioid-naive, will experience adverse reactions.
 Patients do not usually become tolerant to the constipating effects of opioids, therefore, anticipate constipation and treat aggressively and prophylactically with a stimulant laxative with or without a stool softener.
-
 If nausea persists and is unacceptable to the patient, consider treatment with antiemetics or other modalities to relieve these symptoms.
 
 ## 2.6 Individualization of Dosage

@@ -28,7 +28,7 @@ Antitussive effects may occur with doses lower than those usually required for a
 
 Oxycodone causes miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origin may produce similar findings).
-Marked mydriasis rather than miosis may be seen with hypoxia in the setting of oxycodone overdose [See Overdosage (10)].
+Marked mydriasis rather than miosis may be seen with hypoxia in the setting of oxycodone overdose [see Overdosage (10)].
 
 Gastrointestinal Tract and Other Smooth Muscle
 
@@ -177,5 +177,4 @@ The formation of oxymorphone may be blocked by a variety of drugs (such as antip
 However, in a study involving ten subjects using quinidine, a known inhibitor of CYP2D6, the pharmacodynamic effects of oxycodone were unchanged.
 The genetic expression of CYP2D6 may have some influence in the pharmacokinetic properties of oxycodone.
 
-The in vitro drug-drug interaction studies with noroxymorphone using human liver microsomes showed no significant inhibition of CYP2D6 and CYP3A4 activities which suggests that noroxymorphone may not alter the metabolism of other drugs that are metabolized by CYP2D6 and CYP3A4, and such blockade has not been shown to be of clinical significance with oxycodone.
-[see Drug Interactions (7.2)]
+The in vitro drug-drug interaction studies with noroxymorphone using human liver microsomes showed no significant inhibition of CYP2D6 and CYP3A4 activities which suggests that noroxymorphone may not alter the metabolism of other drugs that are metabolized by CYP2D6 and CYP3A4, and such blockade has not been shown to be of clinical significance with oxycodone [see Drug Interactions (7.2)].

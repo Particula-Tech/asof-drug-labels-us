@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Category B:
+Pregnancy Category B
 
 There are no adequate and well-controlled studies of oxycodone use during pregnancy.
 Based on limited human data in the literature, oxycodone does not appear to increase the risk of congenital malformations.
@@ -14,8 +14,7 @@ Teratogenic Effects
 The effect of oxycodone in human reproduction has not been adequately studied.
 Studies with oral doses of oxycodone hydrochloride in rats up to 8 mg/kg/day and rabbits up to 125 mg/kg/day, equivalent to 0.5 and 15 times an adult human dose of 160 mg/day, respectively on a mg/m2 basis, did not reveal evidence of harm to the fetus due to oxycodone.
 In a pre- and postnatal toxicity study, female rats received oxycodone during gestation and lactation.
-There were no long-term developmental or reproductive effects in the pups.
-[see Nonclinical Toxicology (13)]
+There were no long-term developmental or reproductive effects in the pups [see Nonclinical Toxicology (13.1)].
 
 Non-Teratogenic Effects
 
@@ -57,7 +56,7 @@ Compared to young adults, the plasma concentrations of oxycodone were increased 
 Of the total number of subjects (445) in clinical studies of oxycodone hydrochloride controlled-release tablets, 148 (33.3%) were age 65 and older (including those age 75 and older) while 40 (9.0%) were age 75 and older.
 In clinical trials with appropriate initiation of therapy and dose titration, no untoward or unexpected adverse reactions were seen in the elderly patients who received oxycodone hydrochloride controlled-release tablets.
 Thus, the usual doses and dosing intervals may be appropriate for elderly patients.
-However, reduce the starting dose to 1/3 to ½ the usual dosage in debilitated, non-opioid-tolerant patients.
+However, reduce the starting dose to 1/3 to 1/2 the usual dosage in debilitated, non-opioid-tolerant patients.
 Respiratory depression is the chief risk in elderly or debilitated patients, usually the result of large initial doses in patients who are not tolerant to opioids, or when opioids are given in conjunction with other agents that depress respiration.
 Titrate the dose of OxyContin cautiously in these patients.
 
