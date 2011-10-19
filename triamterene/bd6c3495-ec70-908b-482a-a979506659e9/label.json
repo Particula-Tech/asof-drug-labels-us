@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA071251"
+  ],
+  "inn": "triamterene",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-2656-1",
+    "60505-2656-5",
+    "60505-2656-7",
+    "60505-2657-1",
+    "60505-2657-5",
+    "60505-2657-7"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "triamterene and hydrochlorothiazide",
+      "name": "Triamterene and Hydrochlorothiazide"
+    }
+  ],
+  "setid": "bd6c3495-ec70-908b-482a-a979506659e9",
+  "source": "dailymed"
+}
