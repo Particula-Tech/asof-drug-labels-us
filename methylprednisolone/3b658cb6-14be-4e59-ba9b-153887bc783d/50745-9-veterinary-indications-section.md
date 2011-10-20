@@ -1,0 +1,7 @@
+# INDICATIONS
+
+The indications for MEDROL Tablets are the same as those for other anti-inflammatory steroids and comprise the various collagen, dermal, allergic, ocular, otic, and musculoskeletal conditions known to be responsive to the anti-inflammatory corticosteroids.
+Representative of the conditions in which the use of steroid therapy and the benefits to be derived therefrom have had repeated confirmation in the veterinary literature are: (1) dermal conditions, such as non-specific eczema, summer dermatitis, and burns; (2) allergic manifestations, such as acute urticaria, allergic dermatitis, drug and serum reactions, bronchial asthma, and pollen sensitivities; (3) ocular conditions, such as iritis, iridocyclitis, secondary glaucoma, uveitis, and chorioretinitis; (4) otic conditions, such as otitis externa; (5) musculoskeletal conditions, such as myositis, rheumatoid arthritis, osteoarthritis, and bursitis; (6) various chronic or recurrent diseases of unknown etiology such as ulcerative colitis and nephrosis.
+
+In acute adrenal insufficiency, MEDROL may be effective because of its ability to correct the defect in carbohydrate metabolism and relieve the impaired diuretic response to water characteristic of primary or secondary adrenal insufficiency.
+However, because this agent lacks significant mineralocorticoid activity, the parent hormones, SOLU-CORTEF® containing hydrocortisone sodium succinate, CORTEF® containing hydrocortisone, or cortisone should be used when salt retention is indicated.
