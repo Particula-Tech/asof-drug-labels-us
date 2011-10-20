@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 Prograf Capsules (tacrolimus capsules)
+## 16.1 Prograf (tacrolimus) Capsules
 
 | strength | 0.5 mg(containing the equivalent of 0.5 mg anhydrous tacrolimus) | 1 mg(containing the equivalent of 1 mg anhydrous tacrolimus) | 5 mg(containing the equivalent of 5 mg anhydrous tacrolimus) |
 | --- | --- | --- | --- |
@@ -18,7 +18,7 @@ Store and Dispense
 
 Store at 25°C (77°F); excursions permitted to 15°C-30°C (59°F-86°F).
 
-## 16.2 Prograf Injection (tacrolimus injection)
+## 16.2 Prograf (tacrolimus) Injection
 
 (for IV infusion only)
 

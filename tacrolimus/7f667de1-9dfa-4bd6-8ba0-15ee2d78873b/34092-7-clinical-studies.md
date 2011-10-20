@@ -53,7 +53,7 @@ Approximately 80% of patients maintained tacrolimus whole blood concentrations b
 Table 18.
 Tacrolimus Whole Blood Trough Concentrations (Study 1)
 
-| Time | Median (P10-P9010 to the 90th Percentile: range of Ctrough,Tac that excludes lowest 10% and highest 10% of Ctrough, Tac) tacrolimus whole blood trough concentrations(ng/mL) |
+| Time | Median (P10-P9010 to 90th Percentile: range of Ctrough,Tac that excludes lowest 10% and highest 10% of Ctrough, Tac) tacrolimus whole blood trough concentrations(ng/mL) |
 | --- | --- |
 | Day 30 (N=366) | 6.9 (4.4 – 11.3) |
 | Day 90 (N=351) | 6.8 (4.1 – 10.7) |
@@ -121,7 +121,7 @@ Approximately 63% and 55% of these MMF dose reductions were because of adverse r
 Table 22.
 MMF Dose Over Time in the Prograf/MMF Group (Study 2)
 
-| Time period (Days) | Time-averaged MMF dose (grams per day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two g per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |
+| Time period (Days) | Time-averaged MMF dose (grams per day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two grams per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |
 | --- | --- | --- | --- |
 | Less than 2.0 | 2.0 | Greater than 2.0 |  |
 | 0-30 (N=212) | 25% | 69% | 6% |

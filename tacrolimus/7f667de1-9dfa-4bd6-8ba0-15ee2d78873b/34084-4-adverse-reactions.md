@@ -366,7 +366,7 @@ Bile duct stenosis, colitis, enterocolitis, gastroenteritis, gastrooesophageal r
 
 Hemic/Lymphatic
 
-Disseminated intravascular coagulation, neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia [see Warnings and Precautions (5.16)]
+Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia [see Warnings and Precautions (5.16)]
 
 Infections
 

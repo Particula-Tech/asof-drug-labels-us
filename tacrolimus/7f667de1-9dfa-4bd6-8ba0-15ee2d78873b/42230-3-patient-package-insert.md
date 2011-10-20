@@ -28,13 +28,11 @@ Prograf can cause serious side effects, including:
       - muscle aches
       - warm, red, or painful areas on your skin
 
-.
-
 What is PROGRAF?
 
 PROGRAF is a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant and
 
-PROGRAF is not for use with medicines called cyclosporines (Gengraf®, Neoral®, and Sandimmue®).
+PROGRAF is not for use with medicines called cyclosporines (Gengraf®, Neoral®, and Sandimune®).
 
 PROGRAF is not for use with a medicine called sirolimus (Rapamune®) in people who have had a liver or heart transplants.
 
@@ -65,7 +63,7 @@ Tell your doctor about all the medicines you take, including prescription and no
 
 Especially tell your doctor if you take:
 
-- cyclosporine (Gengraf®, Neoral®, and Sandimmue®)
+- cyclosporine (Gengraf®, Neoral®, and Sandimune®)
 - sirolimus (Rapamune®)
 - nelfinavir (Viracept®)
 
@@ -228,7 +226,7 @@ What are the ingredients in PROGRAF?
 
 Active ingredient: tacrolimus
 
-Inactive ingredients: lactose monohydrate, hypromellose, croscarmellose sodium, and magnesium stearate, gelatin, titanium dioxide and ferric oxide.
+Inactive ingredients: lactose monohydrate, hypromellose, croscarmellose sodium, magnesium stearate, gelatin, titanium dioxide and ferric oxide.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -238,6 +236,6 @@ Astellas Pharma US, Inc.
 
 Deerfield, IL 60015-2548
 
-Issued July 2011
+Issued September 2011
 
-09F003-PRG-PI
+11G058-PRG-PI
