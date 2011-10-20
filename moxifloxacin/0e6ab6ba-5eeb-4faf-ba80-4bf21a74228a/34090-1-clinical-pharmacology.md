@@ -1,12 +1,17 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Pharmacokinetics: Plasma concentrations of moxifloxacin were measured in healthy adult male and female subjects who received bilateral topical ocular doses of VIGAMOX® solution 3 times a day.
-The mean steady-state Cmax (2.7 ng/mL) and estimated daily exposure AUC (45 ng·hr/mL) values were 1,600 and 1,000 times lower than the mean Cmax and AUC reported after therapeutic 400 mg oral doses of moxifloxacin.
+## 12.1 Mechanism of Action
+
+Moxifloxacin is a member of the fluoroquinolone class of anti-infective drugs (See 12.4 Microbiology).
+
+## 12.3 Pharmacokinetics
+
+Plasma concentrations of moxifloxacin were measured in healthy adult male and female subjects who received bilateral topical ocular doses of VIGAMOX® solution 3 times a day.
+The mean steady-state Cmax (2.7 ng/mL) and estimated daily exposure AUC (45 ng•hr/mL) values were 1,600 and 1,000 times lower than the mean Cmax and AUC reported after therapeutic 400 mg doses of moxifloxacin.
 The plasma half-life of moxifloxacin was estimated to be 13 hours.
 
-Microbiology:
+## 12.4 Microbiology
 
-Moxifloxacin is an 8-methoxy fluoroquinolone with a diazabicyclononyl ring at the C7 position.
 The antibacterial action of moxifloxacin results from inhibition of the topoisomerase II (DNA gyrase) and topoisomerase IV.
 DNA gyrase is an essential enzyme that is involved in the replication, transcription and repair of bacterial DNA.
 Topoisomerase IV is an enzyme known to play a key role in the partitioning of the chromosomal DNA during bacterial cell division.
@@ -17,43 +22,15 @@ There is no cross-resistance between moxifloxacin and the aforementioned classes
 Cross resistance has been observed between systemic moxifloxacin and some other quinolones.
 
 In vitro resistance to moxifloxacin develops via multiple-step mutations.
-Resistance to moxifloxacin occurs in vitro at a general
-
-frequency of between 1.8 x 10-9 to < 1 x 10-11 for Gram-positive bacteria.
+Resistance to moxifloxacin occurs in vitro at a general frequency of between 1.8 x 10-9 to < 1 x 10-11 for Gram-positive bacteria.
 
 Moxifloxacin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section:
 
-Aerobic Gram-positive microorganisms:
+Aerobic Gram-positive microorganisms: Corynebacterium species* Micrococcus luteus* Staphylococcus aureus Staphylococcus epidermidis Staphylococcus haemolyticus Staphylococcus hominis Staphylococcus warneri* Streptococcus pneumoniae Streptococcus viridans group
 
-Corynebacterium species*
+Aerobic Gram-negative microorganisms: Acinetobacter lwoffii* Haemophilus influenzae Haemophilus parainfluenzae*
 
-Micrococcus luteus*
-
-Staphylococcus aureus
-
-Staphylococcus epidermidis
-
-Staphylococcus haemolyticus
-
-Staphylococcus hominis
-
-Staphylococcus warneri*
-
-Streptococcus pneumoniae
-
-Streptococcus viridans group
-
-Aerobic Gram-negative microorganisms:
-
-Acinetobacter lwoffii*
-
-Haemophilus influenzae
-
-Haemophilus parainfluenzae*
-
-Other microorganisms:
-
-Chlamydia trachomatis
+Other microorganisms: Chlamydia trachomatis
 
 *Efficacy for this organism was studied in fewer than 10 infections.
 
@@ -63,72 +40,12 @@ The safety and effectiveness of VIGAMOX® solution in treating ophthalmological 
 The following organisms are considered susceptible when evaluated using systemic breakpoints.
 However, a correlation between the in vitro systemic breakpoint and ophthalmological efficacy has not been established.
 The list of organisms is provided as guidance only in assessing the potential treatment of conjunctival infections.
-Moxifloxacin exhibits in vitro minimal inhibitory concentrations (MICs) of 2 μg/ml or less (systemic susceptible breakpoint) against most (≥ 90%) of strains of the following ocular pathogens.
+Moxifloxacin exhibits in vitro minimal inhibitory concentrations (MICs) of 2 μg/ml or less (systemic susceptible breakpoint) against most (≥ 90%) strains of the following ocular pathogens.
 
-Aerobic Gram-positive microorganisms:
+Aerobic Gram-positive microorganisms: Listeria monocytogenes Staphylococcus saprophyticus Streptococcus agalactiae Streptococcus mitis Streptococcus pyogenes Streptococcus Group C, G and F
 
-Listeria monocytogenes
+Aerobic Gram-negative microorganisms: Acinetobacter baumannii Acinetobacter calcoaceticus Citrobacter freundii Citrobacter koseri Enterobacter aerogenes Enterobacter cloacae Escherichia coli Klebsiella oxytoca Klebsiella pneumoniae Moraxella catarrhalis Morganella morganii Neisseria gonorrhoeae Proteus mirabilis Proteus vulgaris Pseudomonas stutzeri
 
-Staphylococcus saprophyticus
+Anaerobic microorganisms: Clostridium perfringens Fusobacterium species Prevotella species Propionibacterium acnes
 
-Streptococcus agalactiae
-
-Streptococcus mitis
-
-Streptococcus pyogenes
-
-Streptococcus Group C, G and F
-
-Aerobic Gram-negative microorganisms:
-
-Acinetobacter baumannii
-
-Acinetobacter calcoaceticus
-
-Citrobacter freundii
-
-Citrobacter koseri
-
-Enterobacter aerogenes
-
-Enterobacter cloacae
-
-Escherichia coli
-
-Klebsiella oxytoca
-
-Klebsiella pneumoniae
-
-Moraxella catarrhalis
-
-Morganella morganii
-
-Neisseria gonorrhoeae
-
-Proteus mirabilis
-
-Proteus vulgaris
-
-Pseudomonas stutzeri
-
-Anaerobic microorganisms:
-
-Clostridium perfringens
-
-Fusobacterium species
-
-Prevotella species
-
-Propionibacterium acnes
-
-Other microorganisms:
-
-Chlamydia pneumoniae
-
-Legionella pneumophila
-
-Mycobacterium avium
-
-Mycobacterium marinum
-
-Mycoplasma pneumoniae
+Other microorganisms: Chlamydia pneumoniae Legionella pneumophila Mycobacterium avium Mycobacterium marinum Mycoplasma pneumoniae

@@ -2,14 +2,6 @@
 
 NDC 0065-4013-03 STERILE
 
-VIGAMOX®
+VIGAMOX® (moxifloxacin hydrochloride ophthalmic solution) 0.5% as base
 
-(moxifloxacin hydrochloride
-
-ophthalmic solution)
-
-0.5% as base
-
-3 mL
-
-ALCON®
+3 mL ALCON®
