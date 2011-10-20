@@ -120,7 +120,7 @@ Standardized procedures are based on a dilution method1 (broth or agar) or equiv
 
 The recommended dilution pattern utilizes a constant amoxicillin/clavulanate potassium ratio of 2 to 1 in all tubes with varying amounts of amoxicillin.
 MICs are expressed in terms of the amoxicillin concentration in the presence of clavulanic acid at a constant 2 parts amoxicillin to 1 part clavulanic acid.
-The MIC values should be interpreted according to the following criteria: RECOMMENDED RANGES FOR AMOXICILLIN/CLAVULANIC ACID SUSCEPTIBILITY TESTING
+The MIC values should be interpreted according to the following criteria: INTERPRETIVE CRITERIA FOR AMOXICILLIN/CLAVULANIC ACID SUSCEPTIBILITY TESTING
 
 For Gram-Negative Enteric Aerobes:
 
@@ -130,14 +130,14 @@ For Gram-Negative Enteric Aerobes:
 | 16/8 | Intermediate (I) |
 | ≥ 32/16 | Resistant (R) |
 
-For Staphylococcusg and Haemophilus species:
+For Staphylococcus aureusg and Haemophilus influenzae:
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
 | ≤ 4/2 | Susceptible (S) |
 | ≥ 8/4 | Resistant (R) |
 
-g Staphylococci which are susceptible to amoxicillin/clavulanic acid but resistant to methicillin/oxacillin must be considered as resistant.
+g Staphylococci which are susceptible to amoxicillin/clavulanic acid but resistant to methicillin or oxacillin must be considered as resistant.
 
 For S. pneumoniae from non-meningitis sources:
 
@@ -164,7 +164,6 @@ Standard amoxicillin/clavulanate potassium powder should provide the following M
 | --- | --- |
 | E. coli ATCC 25922 | 2 to 8 |
 | E. coli ATCC 35218 | 4 to 16 |
-| E. faecalis ATCC 29212 | 0.25 to 1.0 |
 | H. influenzae ATCC 49247 | 2 to 16 |
 | S. aureus ATCC 29213 | 0.12 to 0.5 |
 | S. pneumoniae ATCC 49619 | 0.03 to 0.12 |
@@ -177,16 +176,9 @@ Quantitative methods that require measurement of zone diameters also provide rep
 One such standardized procedure2 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 30 mcg of amoxicillin/clavulanate potassium (20 mcg amoxicillin plus 10 mcg clavulanate potassium) to test the susceptibility of microorganisms to amoxicillin/clavulanic acid.
 
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30-mcg amoxicillin/clavulanate potassium (20 mcg amoxicillin plus 10 mcg clavulanate potassium) disk should be interpreted according to the following criteria: RECOMMENDED RANGES FOR AMOXICILLIN/CLAVULANIC ACID SUSCEPTIBILITY TESTING
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30-mcg amoxicillin/clavulanate potassium (20 mcg amoxicillin plus 10 mcg clavulanate potassium) disk should be interpreted according to the following criteria: INTERPRETIVE CRITERIA FOR AMOXICILLIN/CLAVULANIC ACID SUSCEPTIBILITY TESTING
 
-For Staphylococcusi species and H. influenzaej:
-
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥ 20 | Susceptible (S) |
-| ≤ 19 | Resistant (R) |
-
-For Other Organisms Except S.pneumoniaek and N. gonorrhoeael:
+For Gram-Negative Enteric Aerobes:
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
@@ -194,16 +186,17 @@ For Other Organisms Except S.pneumoniaek and N. gonorrhoeael:
 | 14 to 17 | Intermediate (I) |
 | ≤ 13 | Resistant (R) |
 
-i Staphylococci which are resistant to methicillin/oxacillin must be considered as resistant to amoxicillin/clavulanic acid.
+For Staphylococcus aureusi and Haemophilus influenzaej:
 
-j A broth microdilution method should be used for testing H. influenzae.
+| Zone Diameter (mm) | Interpretation |
+| --- | --- |
+| ≥ 20 | Susceptible (S) |
+| ≤ 19 | Resistant (R) |
+
+i Staphylococcus aureus which are resistant to methicillin or oxacillin must be considered as resistant to amoxicillin/clavulanic acid.
+
+j A broth microdilution method should be used for testing Haemophilus influenzae.
 Beta-lactamase−negative, ampicillin-resistant strains must be considered resistant to amoxicillin/clavulanic acid.
-
-k Susceptibility of S. pneumoniae should be determined using a 1-mcg oxacillin disk.
-Isolates with oxacillin zone sizes of ≥ 20 mm are susceptible to amoxicillin/clavulanic acid.
-An amoxicillin/clavulanic acid MIC should be determined on isolates of S. pneumoniae with oxacillin zone sizes of ≤ 19 mm.
-
-l A broth microdilution method should be used for testing N. gonorrhoeae and interpreted according to penicillin breakpoints.
 
 Interpretation should be as stated above for results using dilution techniques.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for amoxicillin/clavulanic acid.
@@ -213,6 +206,7 @@ For the diffusion technique, the 30-mcg amoxicillin/clavulanate potassium (20 mc
 
 | Microorganism | Zone Diameter (mm) |
 | --- | --- |
-| E. coli ATCC 25922 | 19 to 25 mm |
-| E. coli ATCC 35218 | 18 to 22 mm |
+| E. coli ATCC 25922 | 18 to 24 mm |
+| E. coli ATCC 35218 | 17 to 22 mm |
 | S. aureus ATCC 25923 | 28 to 36 mm |
+| H. influenza ATCC 49247 | 15 to 23 mm |
