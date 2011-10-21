@@ -1,19 +1,25 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA016273"
+  ],
   "inn": "furosemide",
-  "labeler": "sanofi-aventis U.S. LLC",
+  "labeler": "Sanofi-Aventis U.S. LLC",
   "package_ndcs": [
-    "0039-0060-11",
     "0039-0060-13",
     "0039-0060-50",
     "0039-0060-70",
     "0039-0066-05",
     "0039-0066-50",
     "0039-0067-10",
-    "0039-0067-50",
     "0039-0067-70"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "furosemide",
+      "name": "Lasix"
+    }
+  ],
   "setid": "eadfe464-720b-4dcd-a0d8-45dba706bd33",
   "source": "dailymed"
 }

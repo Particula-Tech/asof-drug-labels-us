@@ -35,9 +35,9 @@ Central Nervous System Reactions
 
 Hematologic Reactions
 
-1. aplastic anemia (rare)
+1. aplastic anemia
 2. thrombocytopenia
-3. agranulocytosis (rare)
+3. agranulocytosis
 4. hemolytic anemia
 5. leukopenia
 6. anemia
@@ -45,14 +45,18 @@ Hematologic Reactions
 
 Dermatologic-Hypersensitivity Reactions
 
-1. exfoliative dermatitis
-2. bullous pemphigoid
+1. toxic epidermal necrolysis
+2. Stevens-Johnson Syndrome
 3. erythema multiforme
-4. purpura
-5. photosensitivity
-6. urticaria
-7. rash
-8. pruritus
+4. drug rash with eosinophilia and systemic symptoms
+5. acute generalized exanthematous pustulosis
+6. exfoliative dermatitis
+7. bullous pemphigoid
+8. purpura
+9. photosensitivity
+10. rash
+11. pruritis
+12. urticaria
 
 Cardiovascular Reaction
 
@@ -70,9 +74,5 @@ Other Reactions
 7. urinary bladder spasm
 8. thrombophlebitis
 9. fever
-
-In premature infants LASIX may precipitate nephrocalcinosis/nephrolithiasis.
-
-If LASIX is administered to premature infants during the first weeks of life, it may increase the risk of persistence of patent ductus arteriosus.
 
 Whenever adverse reactions are moderate or severe, LASIX dosage should be reduced or therapy withdrawn.

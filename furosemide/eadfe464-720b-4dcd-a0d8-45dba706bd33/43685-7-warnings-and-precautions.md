@@ -7,9 +7,10 @@ Supplemental potassium chloride and, if required, an aldosterone antagonist are 
 
 If increasing azotemia and oliguria occur during treatment of severe progressive renal disease, LASIX should be discontinued.
 
-Cases of tinnitus and reversible or irreversible hearing impairment have been reported.
-Usually, reports indicate that LASIX ototoxicity is associated with rapid injection, severe renal impairment, doses exceeding several times the usual recommended dose, or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
+Cases of tinnitus and reversible or irreversible hearing impairment and deafness have been reported.
+Reports usually indicate that LASIX ototoxicity is associated with rapid injection, severe renal impairment, the use of higher than recommended doses, hypoproteinemia or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
 If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg LASIX per minute has been used).
+(See PRECAUTIONS: Drug Interactions)
 
 # PRECAUTIONS
 
@@ -23,13 +24,12 @@ Digitalis therapy may exaggerate metabolic effects of hypokalemia, especially my
 All patients receiving LASIX therapy should be observed for these signs or symptoms of fluid or electrolyte imbalance (hyponatremia, hypochloremic alkalosis, hypokalemia, hypomagnesemia or hypocalcemia): dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, arrhythmia, or gastrointestinal disturbances such as nausea and vomiting.
 Increases in blood glucose and alterations in glucose tolerance tests (with abnormalities of the fasting and 2-hour postprandial sugar) have been observed, and rarely, precipitation of diabetes mellitus has been reported.
 
-Urinary outflow must be secured.
-Patients with partial obstruction of urinary outflow (e.g., in patients with bladder-emptying disorders, prostatic hyperplasia or narrowing of the urethra), increased production and retention of urine may provoke or aggravate complaints.
+In patients with severe symptoms of urinary retention (because of bladder emptying disorders, prostatic hyperplasia, urethral narrowing), the administration of furosemide can cause acute urinary retention related to increased production and retention of urine.
 Thus, these patients require careful monitoring, especially during the initial stages of treatment.
 
 In patients at high risk for radiocontrast nephropathy LASIX can lead to a higher incidence of deterioration in renal function after receiving radiocontrast compared to high-risk patients who received only intravenous hydration prior to receiving radiocontrast.
 
-In patients with hypoproteinemia (e.g., associated with nephrotic syndrome) the effect of LASIX may be weakened and its ototoxicity potentiated, cautious dose titration is required.
+In patients with hypoproteinemia (e.g., associated with nephrotic syndrome) the effect of LASIX may be weakened and its ototoxicity potentiated.
 
 Asymptomatic hyperuricemia can occur and gout may rarely be precipitated.
 
@@ -64,6 +64,7 @@ LASIX may lower serum levels of calcium (rarely cases of tetany have been report
 Accordingly, serum levels of these electrolytes should be determined periodically.
 
 In premature infants LASIX may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed.
+(See PRECAUTIONS: Pediatric Use)
 
 ## Drug Interactions
 
@@ -80,7 +81,8 @@ LASIX has a tendency to antagonize the skeletal muscle relaxing effect of tubocu
 
 Lithium generally should not be given with diuretics because they reduce lithium's renal clearance and add a high risk of lithium toxicity.
 
-LASIX may add to or potentiate the therapeutic effect of other antihypertensive drugs, necessitating a reduction in the dosage of these drugs.
+LASIX combined with angiotensin converting enzyme inhibitors or angiotensin II receptor blockers may lead to severe hypotension and deterioration in renal function, including renal failure.
+An interruption or reduction in the dosage of LASIX, angiotensin converting enzyme inhibitors, or angiotensin receptor blockers may be necessary.
 
 Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs.
 
@@ -95,12 +97,13 @@ In isolated cases, intravenous administration of LASIX within 24 hours of taking
 Use of LASIX concomitantly with chloral hydrate is, therefore, not recommended.
 
 Phenytoin interferes directly with renal action of LASIX.
+There is evidence that treatment with phenytoin leads to decrease intestinal absorption of LASIX, and consequently to lower peak serum furosemide concentrations.
 
-Probenecid, methotrexate and other drugs which, like LASIX, undergo significant renal tubular secretion may reduce the effect of LASIX.
-Conversely, LASIX may decrease renal elimination of these drugs.
-High-dose treatment of both LASIX and the other drugs, may lead to increased serum levels and an increased risk of adverse effects due to LASIX or the concomitant medication.
+Methotrexate and other drugs that, like LASIX, undergo significant renal tubular secretion may reduce the effect of LASIX.
+Conversely, LASIX may decrease renal elimination of other drugs that undergo tubular secretion.
+High-dose treatment of both LASIX and these other drugs may result in elevated serum levels of these drugs and may potentiate their toxicity as well as the toxicity of LASIX.
 
-The cephalosporin antibiotics should be used with caution in the presence of even minor transient renal impairment and particularly if LASIX is being given concurrently
+LASIX can increase the risk of cephalosporin-induced nephrotoxicity even in the setting of minor or transient renal impairment.
 
 Concomitant use of cyclosporine and LASIX is associated with increased risk of gouty arthritis secondary to LASIX-induced hyperurecemia and cyclosporine impairment of renal urate excretion.
 
@@ -131,7 +134,7 @@ PREGNANCY CATEGORY C - Furosemide has been shown to cause unexplained maternal d
 There are no adequate and well-controlled studies in pregnant women.
 LASIX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Treatment during pregnancy requires monitoring of fetal growth.
+Treatment during pregnancy requires monitoring of fetal growth because of the potential for higher birth weights.
 
 The effects of furosemide on embryonic and fetal development and on pregnant dams were studied in mice, rats and rabbits.
 
@@ -147,6 +150,15 @@ The results of the mouse study and one of the three rabbit studies also showed a
 Because it appears in breast milk, caution should be exercised when LASIX is administered to a nursing mother.
 
 LASIX may inhibit lactation.
+
+## Pediatric Use
+
+In premature infants LASIX may precipitate nephrocalcinosis/nephrolithiasis.
+
+Nephrocalcinosis/nephrolithiasis has also been observed in children under 4 years of age with no history of prematurity who have been treated chronically with LASIX.
+Monitor renal function, and renal ultrasonography should be considered, in pediatric patients receiving LASIX.
+
+If LASIX is administered to premature infants during the first weeks of life, it may increase the risk of persistence of patent ductus arteriosus
 
 ## Geriatric Use
 
