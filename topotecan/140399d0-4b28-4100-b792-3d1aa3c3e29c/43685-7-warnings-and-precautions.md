@@ -55,16 +55,10 @@ Patients should be monitored for pulmonary symptoms indicative of interstitial l
 
 Pregnancy Category D
 
-HYCAMTIN may cause fetal harm when administered to a pregnant woman.
-The effects of topotecan on pregnant women have not been studied.
-Women should be warned to avoid becoming pregnant.
-[See Contraindications (4).]
-In rabbits, an IV dose of 0.10 mg/kg/day (about equal to the clinical IV dose on a mg/m2 basis) given on days 6 through 20 of gestation caused maternal toxicity, embryolethality, and reduced fetal body weight.
-In the rat, an IV dose of 0.23 mg/kg/day (about equal to the clinical IV dose on a mg/m2 basis) given for 14 days before mating through gestation day 6 caused fetal resorption, microphthalmia, pre-implant loss, and mild maternal toxicity.
-An IV dose of 0.10 mg/kg/day (about half the clinical IV dose on a mg/m2 basis) given to rats on days 6 through 17 of gestation caused an increase in post-implantation mortality.
-This dose also caused an increase in total fetal malformations.
-The most frequent malformations were of the eye (microphthalmia, anophthalmia, rosette formation of the retina, coloboma of the retina, ectopic orbit), brain (dilated lateral and third ventricles), skull, and vertebrae.
-If this drug is used during pregnancy, or if a patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+HYCAMTIN can cause fetal harm when administered to a pregnant woman.
+Topotecan caused embryolethality, fetotoxicity, and teratogenicity in rats and rabbits when administered during organogenesis.
+There are no adequate and well controlled studies of HYCAMTIN in pregnant women.
+If this drug is used during pregnancy, or if a patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus [see Use in Specific Populations, Pregnancy (8.1)].
 
 ## 5.5 Drug Interactions
 
