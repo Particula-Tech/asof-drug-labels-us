@@ -30,7 +30,7 @@ Dosing During Pregnancy and the Postpartum Period:
     There are insufficient data to recommend a REYATAZ dose for use with both an H2-receptor antagonist and tenofovir in treatment-experienced pregnant women.
 - No dose adjustment is required for postpartum patients.
   However, patients should be closely monitored for adverse events because atazanavir exposures could be higher during the first 2 months after delivery.
-  [See Dosage and Administration (2, 2.3), and Clinical Pharmacology (12.3).]
+  [See Dosage and Administration (2, 2.3) and Clinical Pharmacology (12.3).]
 
 Human Data
 
@@ -79,7 +79,7 @@ REYATAZ should not be administered to pediatric patients below the age of 3 mont
 The safety, activity, and pharmacokinetic profiles of REYATAZ in pediatric patients ages 3 months to less than 6 years have not been established.
 
 The safety, pharmacokinetic profile, and virologic response of REYATAZ were evaluated in pediatric patients in an open-label, multicenter clinical trial PACTG 1020A [see Clinical Pharmacology (12.3) and Clinical Studies (14.3)].
-The safety profile in pediatric patients was comparable to that observed in adults [see Adverse Reactions (6.2)].
+The safety profile in pediatric patients was generally similar to that observed in adults [see Adverse Reactions (6.2)].
 Please see Dosage and Administration (2.2) for dosing recommendations for pediatric patients 6 years of age and older.
 
 ## 8.5 Geriatric Use
@@ -102,7 +102,7 @@ Atazanavir was not appreciably cleared during hemodialysis.
 In a 4-hour dialysis session, 2.1% of the administered dose was removed.
 When atazanavir was administered either prior to, or following hemodialysis (n=10), the geometric means for Cmax, AUC, and Cmin were approximately 25 to 43% lower compared to subjects with normal renal function.
 The mechanism of this decrease is unknown.
-REYATAZ should not be administered to HIV-treatment experienced patients with end stage renal disease managed with hemodialysis.
+REYATAZ should not be administered to HIV-treatment-experienced patients with end stage renal disease managed with hemodialysis.
 [See Dosage and Administration (2.4).]
 
 ## 8.8 Impaired Hepatic Function

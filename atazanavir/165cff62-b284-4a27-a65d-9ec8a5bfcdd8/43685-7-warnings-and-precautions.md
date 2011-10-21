@@ -2,15 +2,15 @@
 
 ## 5.1 Drug Interactions
 
-See Table 4 for a listing of drugs that are contraindicated for use with REYATAZ due to potentially life-threatening adverse events, significant drug interactions, or loss of virologic activity.
+See Table 3 for a listing of drugs that are contraindicated for use with REYATAZ due to potentially life-threatening adverse events, significant drug interactions, or loss of virologic activity.
 [See Contraindications (4).]
-Please refer to Table 14 for established and other potentially significant drug interactions [see Drug Interactions (7.3)].
+Please refer to Table 13 for established and other potentially significant drug interactions [see Drug Interactions (7.3)].
 
 ## 5.2 Cardiac Conduction Abnormalities
 
 Atazanavir has been shown to prolong the PR interval of the electrocardiogram in some patients.
 In healthy volunteers and in patients, abnormalities in atrioventricular (AV) conduction were asymptomatic and generally limited to first-degree AV block.
-There have been rare reports of second-degree AV block and other conduction abnormalities [see Adverse Reactions (6.4) and Overdosage (10)].
+There have been reports of second-degree AV block and other conduction abnormalities [see Adverse Reactions (6.4) and Overdosage (10)].
 In clinical trials that included electrocardiograms, asymptomatic first-degree AV block was observed in 5.9% of atazanavir-treated patients (n=920), 5.2% of lopinavir/ritonavir-treated patients (n=252), 10.4% of nelfinavir-treated patients (n=48), and 3.0% of efavirenz-treated patients (n=329).
 In Study AI424-045, asymptomatic first-degree AV block was observed in 5% (6/118) of atazanavir/ritonavir-treated patients and 5% (6/116) of lopinavir/ritonavir-treated patients who had on-study electrocardiogram measurements.
 Because of limited clinical experience in patients with preexisting conduction system disease (eg, marked first-degree AV block or second- or third-degree AV block), atazanavir should be used with caution in these patients.
@@ -51,7 +51,7 @@ Dose reduction of atazanavir is not recommended since long-term efficacy of redu
 Caution should be exercised when administering REYATAZ to patients with hepatic impairment because atazanavir concentrations may be increased.
 [See Dosage and Administration (2.5).]
 Patients with underlying hepatitis B or C viral infections or marked elevations in transaminases before treatment may be at increased risk for developing further transaminase elevations or hepatic decompensation.
-In these patients, appropriate laboratory testing should be conducted prior to initiating therapy with REYATAZ and these patients should be monitored during treatment.
+In these patients, hepatic laboratory testing should be conducted prior to initiating therapy with REYATAZ and during treatment.
 [See Adverse Reactions (6.3) and Use in Specific Populations (8.8).]
 
 ## 5.6 Nephrolithiasis

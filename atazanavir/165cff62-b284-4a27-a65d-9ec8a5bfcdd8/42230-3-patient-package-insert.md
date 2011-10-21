@@ -1,4 +1,4 @@
-FDA-Approved Patient Labeling Patient Information
+Patient Information
 
 REYATAZ® (RAY-ah-taz)
 
@@ -7,7 +7,7 @@ REYATAZ® (RAY-ah-taz)
 Capsules
 
 ALERT: Find out about medicines that should NOT be taken with REYATAZ.
-Read the section "What important information should I know about taking REYATAZ with other medicines?"
+Read the section “What important information should I know about taking REYATAZ with other medicines?”
 
 Read the Patient Information that comes with REYATAZ before you start using it and each time you get a refill.
 There may be new information.
@@ -43,7 +43,7 @@ Who should not take REYATAZ?
 Do not take REYATAZ if you:
 
 - are taking certain medicines.
-  (See "What important information should I know about taking REYATAZ with other medicines?")
+  (See “What important information should I know about taking REYATAZ with other medicines?”)
   Serious life-threatening side effects or death may happen.
   Before you take REYATAZ, tell your healthcare provider about all medicines you are taking or planning to take.
   These include other prescription and nonprescription medicines, vitamins, and herbal supplements.
@@ -61,21 +61,21 @@ Tell your healthcare provider:
   Pregnant women have experienced serious side effects when taking REYATAZ with other HIV medicines called nucleoside analogues.
   You and your healthcare provider will need to decide if REYATAZ is right for you.
   If you use REYATAZ while you are pregnant, talk to your healthcare provider about the Antiretroviral Pregnancy Registry.
-  - After your baby is born, tell your healthcare provider if your baby's skin or the white part of his/her eyes turns yellow.
+  - After your baby is born, tell your healthcare provider if your baby’s skin or the white part of his/her eyes turns yellow.
 - If you are breast-feeding.
   You should not breast-feed if you are HIV-positive because of the chance of passing HIV to your baby.
   Also, it is not known if REYATAZ can pass into your breast milk and if it can harm your baby.
   If you are a woman who has or will have a baby, talk with your healthcare provider about the best way to feed your baby.
 - If you have liver problems or are infected with the hepatitis B or C virus.
-  See "What are the possible side effects of REYATAZ?"
+  See “What are the possible side effects of REYATAZ?”
 - If you have end stage kidney disease managed with hemodialysis.
 - If you have diabetes.
-  See "What are the possible side effects of REYATAZ?"
+  See “What are the possible side effects of REYATAZ?”
 - If you have hemophilia.
-  See "What are the possible side effects of REYATAZ?"
+  See “What are the possible side effects of REYATAZ?”
 - About all the medicines you take including prescription and nonprescription medicines, vitamins, and herbal supplements.
   Keep a list of your medicines with you to show your healthcare provider.
-  For more information, see "What important information should I know about taking REYATAZ with other medicines?" and "Who should not take REYATAZ?"
+  For more information, see “What important information should I know about taking REYATAZ with other medicines?” and “Who should not take REYATAZ?”
   Some medicines can cause serious side effects if taken with REYATAZ.
 
 How should I take REYATAZ?
@@ -89,7 +89,7 @@ How should I take REYATAZ?
 - If you are taking antacids or didanosine (VIDEX® or VIDEX® EC), take REYATAZ 2 hours before or 1 hour after these medicines.
 - If you are taking medicines for indigestion, heartburn, or ulcers such as AXID® (nizatidine), PEPCID AC® (famotidine), TAGAMET® (cimetidine), ZANTAC® (ranitidine), AcipHex® (rabeprazole), NEXIUM® (esomeprazole), PREVACID® (lansoprazole), PRILOSEC® (omeprazole), or PROTONIX® (pantoprazole), talk to your healthcare provider.
 - Do not change your dose or stop taking REYATAZ without first talking with your healthcare provider.
-  It is important to stay under a healthcare provider's care while taking REYATAZ.
+  It is important to stay under a healthcare provider’s care while taking REYATAZ.
 - When your supply of REYATAZ starts to run low, get more from your healthcare provider or pharmacy.
   It is important not to run out of REYATAZ.
   The amount of HIV in your blood may increase if the medicine is stopped for even a short time.
@@ -115,10 +115,10 @@ The following side effects have been reported with REYATAZ:
 - severe rash: Rash may develop in association with other symptoms which could be serious and potentially cause death.
   If you develop a rash with any of the following symptoms stop using REYATAZ and call your healthcare provider right away:
   - shortness of breath
-  - general ill feeling or "flu-like" symptoms
+  - general ill feeling or “flu-like” symptoms
   - fever
   - muscle or joint aches
-  - conjunctivitis (red or inflamed eyes, like "pink eye")
+  - conjunctivitis (red or inflamed eyes, like “pink eye”)
   - blisters
   - mouth sores
   - swelling of your face
@@ -136,7 +136,7 @@ The following side effects have been reported with REYATAZ:
   If you develop signs or symptoms of kidney stones (pain in your side, blood in your urine, pain when you urinate) tell your healthcare provider promptly.
 - some patients with hemophilia have increased bleeding problems with protease inhibitors like REYATAZ.
 - changes in body fat.
-  These changes may include an increased amount of fat in the upper back and neck ("buffalo hump"), breast, and around the trunk.
+  These changes may include an increased amount of fat in the upper back and neck (“buffalo hump”), breast, and around the trunk.
   Loss of fat from the legs, arms, and face may also happen.
   The cause and long-term health effects of these conditions are not known at this time.
 - immune reconstitution syndrome.
@@ -260,4 +260,4 @@ Other brands listed are the trademarks of their respective owners and are not tr
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1246226A9 Rev February 2011
+1246226B0 Rev October 2011

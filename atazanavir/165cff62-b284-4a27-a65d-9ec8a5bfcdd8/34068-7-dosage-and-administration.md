@@ -3,10 +3,11 @@
 General Dosing Recommendations:
 
 - REYATAZ Capsules must be taken with food.
+- Do not open the capsules.
 - The recommended oral dosage of REYATAZ depends on the treatment history of the patient and the use of other coadministered drugs.
   When coadministered with H2-receptor antagonists or proton-pump inhibitors, dose separation may be required [see Dosage and Administration (2.1)].
 - When coadministered with didanosine buffered or enteric-coated formulations, REYATAZ should be given (with food) 2 hours before or 1 hour after didanosine.
-- REYATAZ without ritonavir is not recommended for treatment-experienced patients with prior virologic failure [see Clinical Studies (14)].
+- REYATAZ without ritonavir is not recommended for treatment-experienced adult or pediatric patients with prior virologic failure [see Clinical Studies (14)].
 - Efficacy and safety of REYATAZ with ritonavir in doses greater than 100 mg once daily have not been established.
   The use of higher ritonavir doses might alter the safety profile of atazanavir (cardiac effects, hyperbilirubinemia) and, therefore, is not recommended.
   Prescribers should consult the complete prescribing information for NORVIR® (ritonavir) when using this agent.
@@ -36,45 +37,23 @@ Table 1: REYATAZ Dosing Regimens
 
 ## 2.2 Recommended Pediatric Dosage
 
-The recommended dosage of REYATAZ for pediatric patients (6 to less than 18 years of age) is based on body weight and should not exceed the recommended adult dosage.
+The recommended daily dosage of REYATAZ for pediatric patients (6 to less than 18 years of age) is based on body weight and should not exceed the recommended adult dosage.
 REYATAZ Capsules must be taken with food.
-The data are insufficient to recommend dosing of REYATAZ for any of the following: (1) patients less than 6 years of age, (2) without ritonavir in patients less than 13 years of age, and (3) treatment-experienced pediatric patients with body weight less than 25 kg.
+The data are insufficient to recommend dosing of REYATAZ for any of the following: (1) patients less than 6 years of age, (2) without ritonavir in any pediatric patient less than 13 years of age, and (3) patients less than 40 kg receiving concomitant tenofovir, H2-receptor antagonists, or proton-pump inhibitors.
 
-Treatment-Naive Pediatric Patients
+The recommended dosage of REYATAZ with ritonavir in pediatric patients at least 6 years of age is shown in Table 2.
 
-The recommended dosage of REYATAZ with ritonavir in treatment-naive patients at least 6 years of age is shown in Table 2.
+Table 2: Dosage for Pediatric Patients (6 to less than 18 years of age) for REYATAZ Capsules with ritonavira
 
-For treatment-naive patients at least 13 years of age and at least 39 kg, who are unable to tolerate ritonavir, the recommended dose is REYATAZ 400 mg (without ritonavir) once daily with food.
+| Body Weight | REYATAZ dose | ritonavir dose |
+| --- | --- | --- |
+| 15 kg to less than 20 kg | 150 mg | 100 mg |
+| 20 kg to less than 40 kg | 200 mg | 100 mg |
+| at least 40 kg | 300 mg | 100 mg |
+| a The REYATAZ and ritonavir dose should be taken once daily with food. |  |  |
 
-Table 2: Dosage for Treatment-Naive Pediatric Patients (6 to less than 18 years of age) for REYATAZ Capsules with ritonavir
-
-| (kg) | (lbs) | (mg) | (mg) |
-| --- | --- | --- | --- |
-| Body Weight |  | REYATAZ dosea,b | ritonavir doseb |
-| 15 to less than 25 | 33 to less than 55 | 150 | 80c |
-| 25 to less than 32 | 55 to less than 70 | 200 | 100d |
-| 32 to less than 39 | 70 to less than 86 | 250 | 100d |
-| at least 39 | at least 86 | 300 | 100d |
-| a The recommended dosage of REYATAZ can be achieved using a combination of commercially available capsule strengths. |  |  |  |
-| b The dosage of REYATAZ and ritonavir was calculated as follows: 15 kg to less than 20 kg: REYATAZ 8.5 mg/kg with ritonavir 4 mg/kg once daily with food.at least 20 kg: REYATAZ 7 mg/kg with ritonavir 4 mg/kg once daily with food not to exceed REYATAZ 300 mg and ritonavir 100 mg. |  |  |  |
-| c Ritonavir liquid. |  |  |  |
-| d Ritonavir capsule or liquid. |  |  |  |
-
-Treatment-Experienced Pediatric Patients
-
-The recommended dosage of REYATAZ with ritonavir in treatment-experienced patients at least 6 years of age is shown in Table 3.
-
-Table 3: Dosage for Treatment-Experienced Pediatric Patients (6 to less than 18 years of age) for REYATAZ Capsules with ritonavir
-
-| (kg) | (lbs) | (mg) | (mg) |
-| --- | --- | --- | --- |
-| Body Weight |  | REYATAZ dosea,b | ritonavir doseb |
-| 25 to less than 32 | 55 to less than 70 | 200 | 100c |
-| 32 to less than 39 | 70 to less than 86 | 250 | 100c |
-| at least 39 | at least 86 | 300 | 100c |
-| a The recommended dosage of REYATAZ can be achieved using a combination of commercially available capsule strengths. |  |  |  |
-| b The dosage was calculated as REYATAZ 7 mg/kg with ritonavir 4 mg/kg once daily with food not to exceed REYATAZ 300 mg and ritonavir 100 mg. |  |  |  |
-| c Ritonavir capsule or liquid. |  |  |  |
+For treatment-naive patients at least 13 years of age and at least 40 kg, who are unable to tolerate ritonavir, the recommended dose is REYATAZ 400 mg (without ritonavir) once daily with food.
+For patients at least 13 years of age and at least 40 kg receiving concomitant tenofovir, H2-receptor antagonists, or proton-pump inhibitors, REYATAZ should not be administered without ritonavir.
 
 ## 2.3 Pregnancy
 
