@@ -7,7 +7,7 @@ Activation of the A2A adenosine receptor by regadenoson produces coronary vasodi
 
 ## 12.2 Pharmacodynamics
 
-• Coronary Blood Flow
+Coronary Blood Flow
 
 Lexiscan causes a rapid increase in CBF which is sustained for a short duration.
 In patients undergoing coronary catheterization, pulsed-wave Doppler ultrasonography was used to measure the average peak velocity (APV) of coronary blood flow before and up to 30 minutes after administration of regadenoson (0.4 mg, intravenously).
@@ -23,16 +23,19 @@ Aminophylline (100 mg, administered by slow iv injection over 60 seconds) inject
 
 Effect of Caffeine
 
-A placebo-controlled clinical study assessed the effects of oral caffeine (200 mg) on the regadenoson-induced increase in coronary flow reserve (CFR) using positron emission tomography (PET) with radio labeled water.
-Healthy subjects took caffeine 200 mg orally or placebo approximately 2 hours prior to Lexiscan administration.
-Following Lexiscan administration, the median CFR in caffeinated subjects was 92% of the CFR in non-caffeinated subjects [see Drug Interactions (7.1) and Patient Counseling Information (17.1)].
+Ingestion of caffeine decreases the ability to detect reversible ischemic defects.
+In a placebo-controlled, parallel group clinical study, patients with known or suspected myocardial ischemia received a baseline rest/stress MPI followed by a second stress MPI.
+Patients received caffeine or placebo 90 minutes before the second Lexiscan stress MPI.
+Following caffeine administration (200 or 400 mg), the mean number of reversible defects identified was reduced by approximately 60%.
+This decrease was statistically significant.
+[see Drug Interactions (7.1) and Patient Counseling Information (17.1)].
 
-• Hemodynamic Effects
+Hemodynamic Effects
 
 In clinical studies, the majority of patients had an increase in heart rate and a decrease in blood pressure within 45 minutes after administration of Lexiscan.
-Maximum hemodynamic changes after Lexiscan and Adenoscan in Studies 1 and 2 are summarized in Table 3.
+Maximum hemodynamic changes after Lexiscan and Adenoscan in Studies 1 and 2 are summarized in Table 4.
 
-Table 3 Hemodynamic Effects in Studies 1 and 2
+Table 4 Hemodynamic Effects in Studies 1 and 2
 
 | Vital Sign Parameter | Lexiscan N = 1,337 | Adenoscan N = 678 |
 | --- | --- | --- |
@@ -51,10 +54,13 @@ Table 3 Hemodynamic Effects in Studies 1 and 2
 | ≥ 115 mm Hg | 0.9% | 0.9% |
 | Increase ≥ 30 mm Hg | 0.5% | 1.1% |
 
-• Respiratory Effects
+Respiratory Effects
 
 The A2B and A3 adenosine receptors have been implicated in the pathophysiology of bronchoconstriction in susceptible individuals (i.e., asthmatics).
 In in vitro studies, regadenoson has not been shown to have appreciable binding affinity for the A2B and A3 adenosine receptors.
+
+In a randomized, placebo-controlled clinical trial (Study 3) of 999 subjects with a diagnosis, or risk factors for, coronary artery disease and concurrent asthma or COPD, the incidence of respiratory adverse reactions (dyspnea, wheezing) was greater with Lexiscan compared to placebo.
+Moderate (2.5%) or severe (<1%) respiratory reactions were observed more frequently in the Lexiscan group compared to placebo [see Adverse Reactions (6.1)].
 
 ## 12.3 Pharmacokinetics
 

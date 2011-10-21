@@ -13,7 +13,7 @@ In rabbits, there were no Teratogenic effects in offspring at regadenoson doses 
 At regadenoson doses equivalent to 12 and 20 times the MRHD, maternal toxicity occurred along with increased embryo-fetal loss and fetal malformations.
 It is not clear whether malformations that occurred at maternally toxic doses of regadenoson in both animal species were due to fetal drug effects or only to the maternal toxic effects.
 
-Because animals received repeated doses of regadenoson, their exposure was significantly higher than that achieved with the standard single dose administered to humans [see Animal Toxicology and Pharmacology (13.2)].
+Because animals received repeated doses of regadenoson, their exposure was significantly higher than that achieved with the standard single dose administered to humans [see Nonclinical Toxicology (13.2)].
 
 ## 8.3 Nursing Mothers
 
@@ -30,3 +30,8 @@ Safety and effectiveness in pediatric patients (< 18 years of age) have not been
 
 Of the 1,337 patients receiving Lexiscan in Studies 1 and 2, 56% were 65 years of age and over and 24% were 75 years of age and over.
 Older patients (> 75 years of age) had a similar adverse event profile compared to younger patients (< 65 years of age), but had a higher incidence of hypotension (2% vs. < 1%).
+
+## 8.6 Renal Impairment
+
+Lexiscan was assessed in a randomized, placebo-controlled trial of patients with NKFK/DOQI Stage III or IV renal impairment (defined as a GFR 15-59 mL/min/1.73 m2).
+No serious adverse events were reported through the 24-hour follow-up period [see Adverse Reactions (6.1)].
