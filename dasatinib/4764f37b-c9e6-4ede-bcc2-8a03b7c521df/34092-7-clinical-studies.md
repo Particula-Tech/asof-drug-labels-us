@@ -22,7 +22,7 @@ Table 6: Efficacy Results in Newly Diagnosed Patients with Chronic Phase CML
 |  | Response rate (95% CI) |  |  |
 | --- | --- | --- | --- |
 |  | SPRYCEL (n=259) | Imatinib (n=260) | p-value |
-| Confirmed CCYR within 12 monthsa | 76.8% (71.2–81.8) | 66.2% (60.1–71.9) | p=0.007* |
+| Confirmed CCyR within 12 monthsa | 76.8% (71.2–81.8) | 66.2% (60.1–71.9) | p=0.007* |
 | Major Molecular Responseb | 52.1% (45.9–58.3) | 33.8% (28.1–39.9) | p<0.0001* |
 | a Confirmed CCyR is defined as a CCyR noted on two consecutive occasions at least 28 days apart. |  |  |  |
 | b Major molecular response (at any time) was defined as BCR-ABL ratios ≤0.1% by RQ-PCR in peripheral blood samples standardized on the International scale. |  |  |  |
@@ -67,9 +67,9 @@ Table 7: Efficacy of SPRYCEL in Imatinib Resistant or Intolerant Chronic Phase C
 
 |  | 100 mg Once Daily (n=167) |
 | --- | --- |
-| CHRa % (95% CI) | 92% (86–95) |
+| CHRa% (95% CI) | 92% (86–95) |
 | MCyRb% (95% CI) | 63% (56–71) |
-| CCyR % (95% CI) | 50% (42–58) |
+| CCyR% (95% CI) | 50% (42–58) |
 | a CHR (response confirmed after 4 weeks): WBC ≤ institutional ULN, platelets <450,000/mm3, no blasts or promyelocytes in peripheral blood, <5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood <20%, and no extramedullary involvement. |  |
 | b MCyR combines both complete (0% Ph+ metaphases) and partial (>0%–35%) responses. |  |
 
@@ -85,7 +85,7 @@ A total of 611 patients were randomized to either the SPRYCEL 140 mg once daily 
 Median duration of treatment was approximately 6 months for both treatment groups.
 The once daily schedule demonstrated comparable efficacy (non-inferiority) to the twice daily schedule on the primary efficacy endpoint.
 
-The efficacy and safety of SPRYCEL were also investigated in patients with Ph+ ALL in one Phase 3 randomized study (starting dosage 140 mg once daily or 70 mg twice daily) and one Phase 2 single-arm study (starting dosage 70 mg twice daily).
+The efficacy and safety of SPRYCEL were also investigated in patients with Ph+ ALL in one randomized study (starting dosage 140 mg once daily or 70 mg twice daily) and one single-arm study (starting dosage 70 mg twice daily).
 The primary efficacy endpoint was MaHR.
 A total of 130 patients were enrolled in these studies.
 The median duration of therapy was 3 months.

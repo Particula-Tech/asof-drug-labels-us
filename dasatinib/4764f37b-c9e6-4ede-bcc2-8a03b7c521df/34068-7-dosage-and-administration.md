@@ -11,7 +11,7 @@ The effect of stopping treatment after the achievement of a complete cytogenetic
 ## 2.1 Dose Modification
 
 Concomitant Strong CYP3A4 inducers: The use of concomitant strong CYP3A4 inducers may decrease dasatinib plasma concentrations and should be avoided (eg, dexamethasone, phenytoin, carbamazepine, rifampin, rifabutin, phenobarbital).
-St. John's Wort may decrease dasatinib plasma concentrations unpredictably and should be avoided.
+St. John’s Wort may decrease dasatinib plasma concentrations unpredictably and should be avoided.
 If patients must be coadministered a strong CYP3A4 inducer, based on pharmacokinetic studies, a SPRYCEL dose increase should be considered.
 If the dose of SPRYCEL is increased, the patient should be monitored carefully for toxicity [see Drug Interactions (7.2)].
 

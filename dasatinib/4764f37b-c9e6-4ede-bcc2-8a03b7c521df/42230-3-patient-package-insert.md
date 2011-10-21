@@ -30,7 +30,7 @@ Before you take SPRYCEL, tell your healthcare provider if you:
 - have liver problems
 - have heart problems
 - are lactose intolerant
-- have any other medical conditions.
+- have any other medical conditions
 - are pregnant or planning to become pregnant.
   SPRYCEL may harm your unborn baby.
   Women should not become pregnant while taking SPRYCEL.
@@ -44,24 +44,24 @@ Tell your healthcare provider about all the medicines you take, including prescr
 
 Especially tell your healthcare provider if you take:
 
-- medicines that increase the amount of SPRYCEL in your bloodstream such as:
+- medicines that increase the amount of SPRYCEL in your bloodstream, such as:
 
 |  | Nizoral® (ketoconazole), | Nefazodone (serzone, nefadar), |  |
 | --- | --- | --- | --- |
 |  | Sporanox® (itraconazole), | Invirase® (saquinavir), |  |
 |  | Norvir® (ritonavir), | Ketek® (telithromycin), |  |
-|  | Reyataz® (atazanvir sulfate), | E-mycin® (erythromycin), |  |
+|  | Reyataz® (atazanavir sulfate), | E-mycin® (erythromycin), |  |
 |  | Crixivan® (indinavir), | Biaxin® (clarithromycin). |  |
 |  | Viracept® (nelfinavir), |  |  |
 
-- medicines that decrease the amount of SPRYCEL in your bloodstream such as:
+- medicines that decrease the amount of SPRYCEL in your bloodstream, such as:
 
 |  | Decadron® (dexamethasone), | Rimactane® (rifampin), |  |
 | --- | --- | --- | --- |
 |  | Dilantin® (phenytoin), | Luminal® (phenobarbital). |  |
 |  | Tegretol® (carbamazepine), |  |  |
 
-- medicines whose blood levels might change by taking SPRYCEL such as:
+- medicines whose blood levels might change by taking SPRYCEL, such as:
 
 |  | Sandimmune® (cyclosporine), | Rapamune® (sirolimus), |  |
 | --- | --- | --- | --- |
@@ -70,7 +70,7 @@ Especially tell your healthcare provider if you take:
 |  | Orap® (pimozide), |  |  |
 
 SPRYCEL is best absorbed from your stomach into your bloodstream in the presence of stomach acid.
-You should avoid taking medicines that reduce stomach acid such as:
+You should avoid taking medicines that reduce stomach acid, such as:
 
 |  | Tagamet® (cimetidine), | Protonix® (pentoprazole sodium), |  |
 | --- | --- | --- | --- |
@@ -78,7 +78,7 @@ You should avoid taking medicines that reduce stomach acid such as:
 |  | Zantac® (ranitidine), | AcipHex® (rabeprazole), |  |
 |  | Prilosec® (omeprazole), | Prevacid® (lansoprazole). |  |
 
-Medicines that neutralize stomach acid, such as Maalox® (aluminum hydroxide/magnesium hydroxide), Tums® (calcium carbonate), or Rolaids® (calcium carbonate and magnesia) may be taken up to 2 hours before or 2 hours after SPRYCEL.
+Medicines that neutralize stomach acid, such as Maalox® (aluminum hydroxide/magnesium hydroxide), Tums® (calcium carbonate), or Rolaids® (calcium carbonate and magnesia), may be taken up to 2 hours before or 2 hours after SPRYCEL.
 
 Since SPRYCEL therapy may cause bleeding, tell your healthcare provider if you are using blood thinner medicine, such as Coumadin® (warfarin sodium) or aspirin.
 
@@ -122,7 +122,13 @@ SPRYCEL may cause serious side effects, including:
   - shortness of breath and cough.
 - Heart problems.
   SPRYCEL may cause an abnormal heart rate, heart problems or a heart attack.
+  It may also cause changes in the blood vessels supplying the lungs.
   Your healthcare provider will monitor the potassium and magnesium levels in your blood, and your heart function.
+- Pulmonary Arterial Hypertension (PAH).
+  SPRYCEL may cause high blood pressure in the vessels of your lungs.
+  PAH may happen at anytime during your treatment with SPRYCEL.
+  Your healthcare provider should check your heart and lungs before and during your treatment with SPRYCEL.
+  Call your healthcare provider right away if you have shortness of breath, tiredness, or swelling all over your body (fluid retention).
 
 Other common side effects of SPRYCEL therapy include:
 
@@ -144,7 +150,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store SPRYCEL?
 
-- Store SPRYCEL at room temperature, 59°F to 86°F (15°C to 30°C).
+- Store SPRYCEL at room temperature, between 68°F to 77°F (20°C to 25°C).
 - Ask your healthcare provider or pharmacist about the right way to throw away outdated or unused SPRYCEL.
 - Women who are pregnant should not handle crushed or broken SPRYCEL tablets.
 - Keep SPRYCEL and all medicines out of the reach of children and pets.
@@ -169,12 +175,12 @@ Active ingredient: dasatinib
 Inactive ingredients: lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hydroxypropyl cellulose, and magnesium stearate.
 The tablet coating consists of hypromellose, titanium dioxide, and polyethylene glycol.
 
+This Patient Package Insert has been approved by the U.S. Food and Drug Administration.
+
 Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-The Patient Information leaflet was last revised: 10/2010
-
-Issued: June 2006
+Revised: October 2011
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1284903 Rev October 2010
+1284903A0 Rev October 2011

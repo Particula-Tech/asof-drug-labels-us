@@ -18,7 +18,7 @@ Patients should be informed of the possibility of developing fluid retention (sw
 
 Patients should be informed that dasatinib may cause fetal harm when administered to a pregnant woman.
 Women should be advised of the potential hazard to the fetus and to avoid becoming pregnant.
-If SPRYCEL is used during pregnancy, or if the patient becomes pregnant while taking SPRYCEL, the patient should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.6)].
+If SPRYCEL is used during pregnancy, or if the patient becomes pregnant while taking SPRYCEL, the patient should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.7)].
 
 ## 17.5 Gastrointestinal Complaints
 

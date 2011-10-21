@@ -7,6 +7,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Fluid retention [see Warnings and Precautions (5.3)].
 - QT prolongation [see Warnings and Precautions (5.4)].
 - Congestive heart failure, left ventricular dysfunction, and myocardial infarction [see Warnings and Precautions (5.5)].
+- Pulmonary Arterial Hypertension [see Warnings and Precautions (5.6)].
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -35,8 +36,7 @@ The most frequently reported serious adverse reactions in patients with resistan
 
 Adverse reactions (excluding laboratory abnormalities) that were reported in at least 10% of patients are shown in Table 2 for newly diagnosed patients with chronic phase CML and Table 3 for CML patients with resistance or intolerance to prior imatinib therapy.
 
-Table 2.
-Adverse Reactions Reported in ≥10% of Patients with Newly Diagnosed Chronic Phase CML
+Table 2: Adverse Reactions Reported in ≥10% of Patients with Newly Diagnosed Chronic Phase CML
 
 | Preferred Term | Percent (%) of Patients |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -68,8 +68,7 @@ Adverse Reactions Reported in ≥10% of Patients with Newly Diagnosed Chronic Ph
 | c Adverse reaction of special interest with <10% frequency. |  |  |  |  |
 | d Includes conjunctival hemorrhage, ear hemorrhage, ecchymosis, epistaxis, eye hemorrhage, gingival bleeding, hematoma, hematuria, hemoptysis, intra-abdominal hematoma, petechiae, scleral hemorrhage, uterine hemorrhage, and vaginal hemorrhage. |  |  |  |  |
 
-Table 3.
-Adverse Reactions Reported in ≥10% of Patients with CML Resistant or Intolerant to Prior Imatinib Therapy
+Table 3: Adverse Reactions Reported in ≥10% of Patients with CML Resistant or Intolerant to Prior Imatinib Therapy
 
 | Percent (%) of Patients |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -165,7 +164,7 @@ Table 5: CTC Grade 3/4 Laboratory Abnormalities in Clinical Studies of CML: Resi
 A total of 135 patients with Ph+ ALL were treated with SPRYCEL in clinical studies.
 The median duration of treatment was 3 months (range 0.03–31 months).
 The safety profile of patients with Ph+ ALL was similar to those with lymphoid blast phase CML.
-The most frequently reported adverse reactions included fluid retention events such as pleural effusion (24%) and superficial edema (19%), and gastrointestinal disorders such as diarrhea (31%), nausea (24%), and vomiting (16%).
+The most frequently reported adverse reactions included fluid retention events, such as pleural effusion (24%) and superficial edema (19%), and gastrointestinal disorders, such as diarrhea (31%), nausea (24%), and vomiting (16%).
 Hemorrhage (19%), pyrexia (17%), rash (16%), and dyspnea (16%) were also frequently reported.
 The most frequently reported serious adverse reactions included pleural effusion (11%), gastrointestinal bleeding (7%), febrile neutropenia (6%), infection (5%), pyrexia (4%), pneumonia (3%), diarrhea (3%), nausea (2%), vomiting (2%), and colitis (2%).
 
@@ -225,4 +224,4 @@ Cardiac disorders: atrial fibrillation/atrial flutter
 
 Vascular disorders: thrombosis/embolism (including pulmonary embolism, deep vein thrombosis)
 
-Respiratory, thoracic, and mediastinal disorders: interstitial lung disease
+Respiratory, thoracic, and mediastinal disorders: interstitial lung disease, pulmonary arterial hypertension

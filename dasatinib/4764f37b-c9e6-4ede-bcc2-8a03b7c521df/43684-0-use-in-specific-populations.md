@@ -13,7 +13,7 @@ In nonclinical studies, at plasma concentrations below those observed in humans 
 Fetal death was observed in rats.
 In both rats and rabbits, the lowest doses of dasatinib tested (rat: 2.5 mg/kg/day [15 mg/m2/day] and rabbit: 0.5 mg/kg/day [6 mg/m2/day]) resulted in embryo-fetal toxicities.
 These doses produced maternal AUCs of 105 ng•hr/mL (0.3-fold the human AUC in females at a dose of 70 mg twice daily) and 44 ng•hr/mL (0.1-fold the human AUC) in rats and rabbits, respectively.
-Embryo-fetal toxicities included skeletal malformations at multiple sites (scapula, humerus, femur, radius, ribs, clavicle), reduced ossification (sternum; thoracic, lumbar, and sacral vertebrae; forepaw phalanges; pelvis; and hyoid body), edema, and microhepatia.
+Embryo-fetal toxicities included skeletal malformations at multiple sites (scapula, humerus, femur, radius, ribs, and clavicle), reduced ossification (sternum; thoracic, lumbar, and sacral vertebrae; forepaw phalanges; pelvis; and hyoid body), edema, and microhepatia.
 
 ## 8.3 Nursing Mothers
 
