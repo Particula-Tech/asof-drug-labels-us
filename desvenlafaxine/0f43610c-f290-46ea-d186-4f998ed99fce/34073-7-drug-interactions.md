@@ -70,3 +70,10 @@ The pharmacokinetics of PRISTIQ are unlikely to be affected by drugs that inhibi
 ## 7.9 Electroconvulsive Therapy
 
 There are no clinical data establishing the risks and/or benefits of electroconvulsive therapy combined with PRISTIQ treatment.
+
+## 7.10 Drug-Laboratory Test Interactions
+
+False-positive urine immunoassay screening tests for phencyclidine (PCP) and amphetamine have been reported in patients taking desvenlafaxine.
+This is due to lack of specificity of the screening tests.
+False positive test results may be expected for several days following discontinuation of desvenlafaxine therapy.
+Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish desvenlafaxine from PCP and amphetamine.

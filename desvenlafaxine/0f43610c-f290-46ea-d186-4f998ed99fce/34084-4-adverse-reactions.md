@@ -124,7 +124,7 @@ Nervous system disorders – Convulsion, syncope, extrapyramidal disorder.
 
 Musculoskeletal and connective tissue disorders – Musculoskeletal stiffness.
 
-Psychiatric disorders – Depersonalization, hypomania.
+Psychiatric disorders – Depersonalization, hypomania, bruxism.
 
 Respiratory, thoracic and mediastinal disorders – Epistaxis.
 
