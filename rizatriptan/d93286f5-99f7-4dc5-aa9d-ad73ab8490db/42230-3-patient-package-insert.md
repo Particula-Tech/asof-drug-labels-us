@@ -124,12 +124,13 @@ If you experience dizziness, sleepiness, tiredness or fatigue, you should evalua
 Other, less common side effects reported in studies or general use were related to the:
 
 Heart and blood vessels - Alterations in heartbeat, increased blood pressure and spasm of blood vessels of the extremities including coldness and numbness of the hands or feet.
+Abnormalities of the electrocardiogram (a test that records the electrical activity of your heart) have also been reported.
 
 Muscles - Muscle weakness, stiffness, and spasm; and muscle and bone pain.
 
 Nervous system - Nervousness, decreased mental sharpness, tremor, headache, abnormal sensation, vertigo, sleep disturbance, mood and personality changes, alterations in speech and movement, memory impairment, confusion, dream abnormality and seizure.
 
-Digestive system - Stomach upset, diarrhea, dry mouth, constipation, gas, thirst, acid reflux, difficulty swallowing, changes in appetite, burping and inability of the tongue to move.
+Digestive system - Stomach upset, diarrhea, dry mouth, constipation, gas, thirst, acid reflux, difficulty swallowing, changes in appetite, burping, inability of the tongue to move, spasm of the blood vessels of the colon (large bowel).
 
 Skin - Flushing (redness of the face lasting a short time), hot flashes, sweating, itching, rash, acne and skin reaction to sunlight.
 
@@ -218,6 +219,6 @@ By: Catalent UK Swindon, Zydis Ltd. Swindon, Wiltshire, SN5 8RU, UK
 
 US Patent No.: 5,298,520
 
-Issued August 2010
+Issued August 2011
 
-9652508
+9652509

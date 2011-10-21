@@ -1,4 +1,4 @@
-# This is a representative sample of the packaging. Please see How Supplied section for a complete list of available packaging. PRINCIPAL DISPLAY PANEL - Tablets - Carton 5 mg
+# PRINCIPAL DISPLAY PANEL - Tablets - Carton 5 mg
 
 Maxalt® (rizatriptan benzoate)
 

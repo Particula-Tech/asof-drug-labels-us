@@ -93,9 +93,11 @@ The events enumerated represent reports arising from both domestic and non-domes
 The events enumerated include all except those already listed in the ADVERSE REACTIONS section above or those too general to be informative.
 Because the reports cite events reported spontaneously from worldwide postmarketing experience, frequency of events and the role of rizatriptan in their causation cannot be reliably determined.
 
-Cardiovascular: Myocardial ischemia, myocardial infarction, peripheral vascular ischemia (see WARNINGS).
+Cardiovascular: Myocardial ischemia, myocardial infarction, peripheral vascular ischemia, ECG abnormalities (see WARNINGS).
 
 Cerebrovascular: Stroke.
+
+Digestive: Ischemic colitis.
 
 Neurological/Psychiatric: Serotonin syndrome (see WARNINGS), seizure.
 
