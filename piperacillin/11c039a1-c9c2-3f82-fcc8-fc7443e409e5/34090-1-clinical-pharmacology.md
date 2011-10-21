@@ -2,22 +2,22 @@
 
 ## Adults
 
-Peak plasma concentrations of piperacillin and tazobactam are attained immediately after completion of an intravenous infusion of Zosyn.
-Piperacillin plasma concentrations, following a 30-minute infusion of Zosyn, were similar to those attained when equivalent doses of piperacillin were administered alone, with mean peak plasma concentrations of approximately 134, 242 and 298 μg/mL for the 2.25 g, 3.375 g and 4.5 g Zosyn (piperacillin/tazobactam) doses, respectively.
-The corresponding mean peak plasma concentrations of tazobactam were 15, 24 and 34 μg/mL, respectively.
+Peak plasma concentrations of piperacillin and tazobactam are attained immediately after completion of an intravenous infusion of ZOSYN.
+Piperacillin plasma concentrations, following a 30-minute infusion of ZOSYN, were similar to those attained when equivalent doses of piperacillin were administered alone, with mean peak plasma concentrations of approximately 134, 242, and 298 μg/mL for the 2.25 g, 3.375 g, and 4.5 g ZOSYN (piperacillin/tazobactam) doses, respectively.
+The corresponding mean peak plasma concentrations of tazobactam were 15, 24, and 34 μg/mL, respectively.
 
-Following a 30-minute I.V. infusion of 3.375 g Zosyn every 6 hours, steady-state plasma concentrations of piperacillin and tazobactam were similar to those attained after the first dose.
-In like manner, steady-state plasma concentrations were not different from those attained after the first dose when 2.25 g or 4.5 g doses of Zosyn were administered via 30-minute infusions every 6 hours.
+Following a 30-minute I.V. infusion of 3.375 g ZOSYN every 6 hours, steady-state plasma concentrations of piperacillin and tazobactam were similar to those attained after the first dose.
+In like manner, steady-state plasma concentrations were not different from those attained after the first dose when 2.25 g or 4.5 g doses of ZOSYN were administered via 30-minute infusions every 6 hours.
 Steady-state plasma concentrations after 30-minute infusions every 6 hours are provided in Table 1.
 
-Following single or multiple Zosyn doses to healthy subjects, the plasma half-life of piperacillin and of tazobactam ranged from 0.7 to 1.2 hours and was unaffected by dose or duration of infusion.
+Following single or multiple ZOSYN doses to healthy subjects, the plasma half-life of piperacillin and of tazobactam ranged from 0.7 to 1.2 hours and was unaffected by dose or duration of infusion.
 
 Piperacillin is metabolized to a minor microbiologically active desethyl metabolite.
 Tazobactam is metabolized to a single metabolite that lacks pharmacological and antibacterial activities.
 Both piperacillin and tazobactam are eliminated via the kidney by glomerular filtration and tubular secretion.
 Piperacillin is excreted rapidly as unchanged drug with 68% of the administered dose excreted in the urine.
 Tazobactam and its metabolite are eliminated primarily by renal excretion with 80% of the administered dose excreted as unchanged drug and the remainder as the single metabolite.
-Piperacillin, tazobactam and desethyl piperacillin are also secreted into the bile.
+Piperacillin, tazobactam, and desethyl piperacillin are also secreted into the bile.
 
 Both piperacillin and tazobactam are approximately 30% bound to plasma proteins.
 The protein binding of either piperacillin or tazobactam is unaffected by the presence of the other compound.
@@ -29,7 +29,7 @@ Distribution of piperacillin and tazobactam into cerebrospinal fluid is low in s
 
 After the administration of single doses of piperacillin/tazobactam to subjects with renal impairment, the half-life of piperacillin and of tazobactam increases with decreasing creatinine clearance.
 At creatinine clearance below 20 mL/min, the increase in half-life is twofold for piperacillin and fourfold for tazobactam compared to subjects with normal renal function.
-Dosage adjustments for Zosyn are recommended when creatinine clearance is below 40 mL/min in patients receiving the usual recommended daily dose of Zosyn (piperacillin and tazobactam for injection, USP).
+Dosage adjustments for ZOSYN are recommended when creatinine clearance is below 40 mL/min in patients receiving the usual recommended daily dose of ZOSYN (piperacillin and tazobactam for injection, USP).
 (See DOSAGE AND ADMINISTRATION section for specific recommendations for the treatment of patients with renal insufficiency.)
 
 Hemodialysis removes 30% to 40% of a piperacillin/tazobactam dose with an additional 5% of the tazobactam dose removed as the tazobactam metabolite.
@@ -37,7 +37,7 @@ Peritoneal dialysis removes approximately 6% and 21% of the piperacillin and taz
 For dosage recommendations for patients undergoing hemodialysis, see DOSAGE AND ADMINISTRATION section.
 
 The half-life of piperacillin and of tazobactam increases by approximately 25% and 18%, respectively, in patients with hepatic cirrhosis compared to healthy subjects.
-However, this difference does not warrant dosage adjustment of Zosyn due to hepatic cirrhosis.
+However, this difference does not warrant dosage adjustment of ZOSYN due to hepatic cirrhosis.
 
 TABLE 1 STEADY STATE MEAN PLASMA CONCENTRATIONS IN ADULTS AFTER 30-MINUTE INTRAVENOUS INFUSION OF PIPERACILLIN/TAZOBACTAM EVERY 6 HOURS
 
@@ -77,11 +77,11 @@ Tazobactam does not induce chromosomally-mediated β-lactamases at tazobactam co
 
 Piperacillin/tazobactam has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-### Aerobic and facultative Gram-positive microorganisms:
+### Aerobic and facultative gram-positive microorganisms:
 
 Staphylococcus aureus (excluding methicillin and oxacillin-resistant isolates)
 
-### Aerobic and facultative Gram-negative microorganisms:
+### Aerobic and facultative gram-negative microorganisms:
 
 Acinetobacter baumanii
 
@@ -116,7 +116,7 @@ Streptococcus pyogenes†
 
 Viridans group streptococci†
 
-### Aerobic and facultative Gram-negative microorganisms:
+### Aerobic and facultative gram-negative microorganisms:
 
 Citrobacter koseri
 
@@ -185,7 +185,7 @@ TABLE 2 SUSCEPTIBILITY INTERPRETIVE CRITERIA FOR PIPERACILLIN/TAZOBACTAM
 | Pseudomonas aeruginosa | ≤ 64 | - | ≥ 128 | ≥ 18 | - | ≤ 17 |
 | Staphylococcus aureus | ≤ 8 | - | ≥ 16 | ≥ 20 | - | ≤ 19 |
 | Bacteroides fragilis group | ≤ 32 | 64 | ≥ 128 | - | - | - |
-| a: These interpretive criteria for Haemophilus influenzae are applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. |  |  |  |  |  |  |
+| a These interpretive criteria for Haemophilus influenzae are applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. |  |  |  |  |  |  |
 
 A report of S (“Susceptible”) indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentration usually achievable.
 A report of I (“Intermediate”) indicates that the results should be considered equivocal, and if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -212,4 +212,4 @@ TABLE 3 ACCEPTABLE QUALITY CONTROL RANGES FOR PIPERACILLIN/TAZOBACTAM TO BE USED
 | Staphylococcus aureus ATCC 25923 | - | 27 - 36 |
 | Bacteroides fragilis ATCC 25285 | 0.12 - 0.5 | - |
 | Bacteroides thetaiotaomicron ATCC 29741 | 4 - 16 | - |
-| a: This quality control range for Haemophilus influenzae is applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. |  |  |
+| a This quality control range for Haemophilus influenzae is applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. |  |  |

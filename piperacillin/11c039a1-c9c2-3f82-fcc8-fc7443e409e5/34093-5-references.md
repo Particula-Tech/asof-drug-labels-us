@@ -13,11 +13,11 @@
    NCCLS document M11-A5.
    NCCLS, Wayne, PA, 2001.
 
-CLINITEST® and DIASTIX® are registered trademarks of Ames Division, Miles Laboratories, Inc.
+DIASTIX® is a registered trademark of Bayer Healthcare LLC.
 
-TES-TAPE® is a registered trademark of Eli Lilly and Company.
+CLINITEST® is a registered trademark of Siemens Healthcare Diagnostics Inc.
 
-Galaxy® is a registered trademark of Baxter International, Inc.
+Galaxy is a registered trademark of Baxter International Inc.
 
 |  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1‑800‑934‑5556. |  |
 | --- | --- | --- |
@@ -26,14 +26,12 @@ NOVAPLUS®
 
 Distributed by
 
-Wyeth Pharmaceuticals Inc.
+Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.
 
 Philadelphia, PA 19101
 
 NOVAPLUS is a registered trademark of Novation, LLC
 
-W10544C001
+LAB-0447-2.0
 
-ET02
-
-Rev 04/10
+Revised January 2011
