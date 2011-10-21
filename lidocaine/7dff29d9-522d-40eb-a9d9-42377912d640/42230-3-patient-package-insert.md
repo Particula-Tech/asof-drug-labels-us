@@ -12,12 +12,14 @@ If leaks are found, discard solution as sterility may be impaired.
 
 NOTE: Before use, perform the following checks:
 
-- Inspect each container.
-  Read the label.
-  Ensure solution is the one ordered and is within the expiration date.
-- Invert container and carefully inspect the solution in good light for cloudiness, haze, or particulate matter.
-  Any container which is suspect should not be used.
-- Use only if solution is clear and container and seals are intact.
+Inspect each container.
+Read the label.
+Ensure solution is the one ordered and is within the expiration date.
+
+Invert container and carefully inspect the solution in good light for cloudiness, haze, or particulate matter.
+Any container which is suspect should not be used.
+
+Use only if solution is clear and container and seals are intact.
 
 Preparation for Administration
 

@@ -2,15 +2,13 @@ Do not admix with other drugs.
 
 Rx only
 
-Revised: March 2011
+Revised: August 2011
 
 EXCEL is a registered trademark of B. Braun Medical Inc.
 
-B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA
+B. Braun Medical Inc. Irvine, CA 92614-5895 USA 1-800-227-2862 www.bbraun.com Made in USA
 
-In Canada, distributed by: B. Braun Medical Inc. Scarborough, Ontario M1H 2W4
-
-Y36-002-770 LD-236-2
+Y36-002-784 LD-236-3
 
 # PRINCIPAL DISPLAY PANEL - 500 mL Container Label
 
