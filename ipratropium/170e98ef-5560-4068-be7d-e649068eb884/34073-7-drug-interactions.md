@@ -6,4 +6,4 @@ With the exception of albuterol, there are no formal studies fully evaluating th
 ## 7.1 Anticholinergic Agents
 
 There is potential for an additive interaction with concomitantly used anticholinergic medications.
-Therefore, avoid co administration of ATROVENT HFA with other anticholinergic-containing drugs as this may lead to an increase in anticholinergic adverse effects [see Warnings and Precautions (5.4, 5.5)].
+Therefore, avoid coadministration of ATROVENT HFA with other anticholinergic-containing drugs as this may lead to an increase in anticholinergic adverse effects [see Warnings and Precautions (5.4, 5.5)].

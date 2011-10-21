@@ -18,7 +18,7 @@ Figure 1 Day 1 and Day 85 (Primary Endpoint) Results
 
 In this study, both ATROVENT HFA and ATROVENT CFC formulations were equally effective in patients over 65 years of age and under 65 years of age.
 
-The median time to improvement in pulmonary function (FEV1 increase of 15% or more) was within approximately 15 minutes, reached a peak in 1-2 hours, and persisted for 2 to 4 hours in the majority of the patients.
+The median time to improvement in pulmonary function (FEV1 increase of 15% or more) was within approximately 15 minutes, reached a peak in 1 to 2 hours, and persisted for 2 to 4 hours in the majority of the patients.
 Improvements in Forced Vital Capacity (FVC) were also demonstrated.
 
 The other study was a 12-week, randomized, double-blind, active-controlled clinical study in 174 adults with COPD, in which ATROVENT HFA 42 mcg (n=118) was compared to ATROVENT CFC 42 mcg (n=56).

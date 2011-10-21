@@ -43,4 +43,4 @@ Patients do not have to shake the ATROVENT HFA canister before use [see FDA-appr
 
 ## 17.8 FDA-Approved Patient Labeling
 
-Remind patients to read and follow the accompanying "Patient's Instructions for Use", which should be dispensed with the product.
+Remind patients to read and follow the accompanying "Instructions for Use", which should be dispensed with the product.

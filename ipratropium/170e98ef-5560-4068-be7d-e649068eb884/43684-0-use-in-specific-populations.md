@@ -4,12 +4,14 @@
 
 Teratogenic Effects: Pregnancy Category B.
 
-There are no adequate and well-controlled studies of ATROVENT HFA (ipratropium bromide) in pregnant women.
-Because animal reproduction studies are not always predictive of human response, ATROVENT HFA should be used during pregnancy only if clearly needed.
-No teratogenic effects occurred in oral reproduction studies in mice, rats or rabbits at approximately 200, 40,000, and 10,000 times the maximum recommended human daily inhalation dose (MRHDID) in adults on a mg/m2 basis.
-Inhalation reproduction studies were conducted in rats and rabbits at approximately 60 and 140 times the MRHDID in adults on a mg/m2 basis.
-Embryotoxicity was observed in rats as increased resorption at oral doses approximately 3600 times the MRHDID in adults on a mg/m2 basis.
-This effect is not considered relevant to human use due to the large doses at which it was observed and the difference in route of administration [see Animal Toxicology and/or Pharmacology (13.2)].
+There are no adequate and well-controlled studies of ATROVENT HFA (ipratropium bromide) Inhalation Aerosol in pregnant women.
+ATROVENT HFA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Oral reproduction studies were performed in mice, rats and rabbits at doses approximately 200, 40,000, and 10,000 times, respectively, the maximum recommended human daily inhalation dose (MRHDID) in adults (on a mg/m2 basis at maternal doses in each species of 10, 1,000, and 125 mg/kg/day, respectively).
+Inhalation reproduction studies were conducted in rats and rabbits at doses approximately 60 and 140 times, respectively, the MRHDID in adults (on a mg/m2 basis at maternal doses of 1.5 and 1.8 mg/kg/day, respectively).
+These studies demonstrated no evidence of teratogenic effects as a result of ipratropium bromide.
+Embryotoxicity was observed as increased resorption in rats at oral doses approximately 3,600 times the MRHDID in adults (on a mg/m2 basis at maternal doses of 90 mg/kg/day and above).
+This effect is not considered relevant to human use due to the large doses at which it was observed and the difference in route of administration.
 
 ## 8.3 Nursing Mothers
 
