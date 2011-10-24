@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020647"
+  ],
+  "inn": "selegiline",
+  "labeler": "Dey Pharma L.P.",
+  "package_ndcs": [
+    "49502-420-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "selegiline hydrochloride",
+      "name": "Eldepryl"
+    }
+  ],
+  "setid": "106429ad-859a-4b29-babf-42cb85f7236e",
+  "source": "dailymed"
+}
