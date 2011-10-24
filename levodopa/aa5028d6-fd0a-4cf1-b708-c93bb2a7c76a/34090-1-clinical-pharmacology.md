@@ -27,7 +27,7 @@ Patients treated with levodopa therapy for Parkinson's disease may develop motor
 The advanced form of motor fluctuations (‘on-off’ phenomenon) is characterized by unpredictable swings from mobility to immobility.
 Although the causes of the motor fluctuations are not completely understood, in some patients they may be attenuated by treatment regimens that produce steady plasma levels of levodopa.
 
-Each tablet contains either 25 mg of carbidopa and 100 mg of levodopa or 50 mg of carbidopa and 200 mg of levodopa, in a sustained-release dosage form designed to release these ingredients over a 4 to 6 hour period.
+Carbidopa and levodopa extended-release tablets contain either 25 mg of carbidopa and 100 mg of levodopa or 50 mg of carbidopa and 200 mg of levodopa, in a sustained-release dosage form designed to release these ingredients over a 4 to 6 hour period.
 With carbidopa and levodopa extended-release there is less variation in plasma levodopa levels than with carbidopa and levodopa immediate-release, the conventional formulation.
 However, carbidopa and levodopa extended-release is less systemically bioavailable than carbidopa and levodopa immediate-release and may require increased daily doses to achieve the same level of symptomatic relief as provided by carbidopa and levodopa immediate-release.
 
@@ -37,25 +37,25 @@ In patients without motor fluctuations, carbidopa and levodopa extended-release 
 
 ## Pharmacokinetics
 
-Carbidopa reduces the amount of levodopa required to produce a given response by about 75 percent and, when administered with levodopa, increases both plasma levels and the plasma half-life of levodopa, and decreases plasma and urinary dopamine and homovanillic acid.
+Carbidopa reduces the amount of levodopa required to produce a given response by about 75% and, when administered with levodopa, increases both plasma levels and the plasma half-life of levodopa, and decreases plasma and urinary dopamine and homovanillic acid.
 
 Elimination half-life of levodopa in the presence of carbidopa is about 1.5 hours.
 Following carbidopa and levodopa extended-release, the apparent half-life of levodopa may be prolonged because of continuous absorption.
 
 In healthy elderly subjects (56 to 67 years old) the mean time-to-peak concentration of levodopa after a single dose of 50 mg/200 mg carbidopa and levodopa extended-release was about 2 hours as compared to 0.5 hours after standard carbidopa and levodopa immediate-release.
-The maximum concentration of levodopa after a single dose of carbidopa and levodopa extended-release was about 35% of the standard carbidopa and levodopa immediate-release (1151 vs 3256 ng/mL).
-The extent of availability of levodopa from carbidopa and levodopa extended-release was about 70 to 75% relative to intravenous levodopa or standard carbidopa and levodopa immediate-release in the elderly.
+The maximum concentration of levodopa after a single dose of carbidopa and levodopa extended-release was about 35% of the standard carbidopa and levodopa immediate-release (1151 vs. 3256 ng/mL).
+The extent of availability of levodopa from carbidopa and levodopa extended-release was about 70% to 75% relative to intravenous levodopa or standard carbidopa and levodopa immediate-release in the elderly.
 The absolute bioavailability of levodopa from carbidopa and levodopa extended-release (relative to I.V.) in young subjects was shown to be only about 44%.
-The extent of availability and the peak concentrations of levodopa were comparable in the elderly after a single dose and at steady state after t.i.d. administration of 50 mg/200 mg carbidopa and levodopa extended-release.
-In elderly subjects, the average trough levels of levodopa at steady state after the extended-release tablet were about 2 fold higher than after the standard carbidopa and levodopa immediate-release (163 vs 74 ng/mL).
+The extent of availability and the peak concentrations of levodopa were comparable in the elderly after a single dose and at steady-state after t.i.d. administration of 50 mg/200 mg carbidopa and levodopa extended-release.
+In elderly subjects, the average trough levels of levodopa at steady-state after the extended-release tablet were about 2-fold higher than after the standard carbidopa and levodopa immediate-release (163 vs. 74 ng/mL).
 
 In these studies, using similar total daily doses of levodopa, plasma levodopa concentrations with carbidopa and levodopa extended-release fluctuated in a narrower range than with carbidopa and levodopa immediate-release.
-Because the bioavailability of levodopa from carbidopa and levodopa extended-release relative to carbidopa and levodopa immediate-release is approximately 70 to 75%, the daily dosage of levodopa necessary to produce a given clinical response with the extended-release formulation will usually be higher.
+Because the bioavailability of levodopa from carbidopa and levodopa extended-release relative to carbidopa and levodopa immediate-release is approximately 70% to 75%, the daily dosage of levodopa necessary to produce a given clinical response with the extended-release formulation will usually be higher.
 
 The extent of availability and peak concentrations of levodopa after a single dose of 50 mg/200 mg carbidopa and levodopa extended-release increased by about 50% and 25%, respectively, when administered with food.
 
-At steady state, the bioavailability of carbidopa from carbidopa and levodopa immediate-release tablets is approximately 99% relative to the concomitant administration of carbidopa and levodopa.
-At steady state, carbidopa bioavailability from 50 mg/200 mg carbidopa and levodopa extended-release is approximately 58% relative to that from carbidopa and levodopa immediate-release.
+At steady-state, the bioavailability of carbidopa from carbidopa and levodopa immediate-release tablets is approximately 99% relative to the concomitant administration of carbidopa and levodopa.
+At steady-state, carbidopa bioavailability from 50 mg/200 mg carbidopa and levodopa extended-release is approximately 58% relative to that from carbidopa and levodopa immediate-release.
 
 Pyridoxine hydrochloride (vitamin B6), in oral doses of 10 mg to 25 mg, may reverse the effects of levodopa by increasing the rate of aromatic amino acid decarboxylation.
 Carbidopa inhibits this action of pyridoxine.

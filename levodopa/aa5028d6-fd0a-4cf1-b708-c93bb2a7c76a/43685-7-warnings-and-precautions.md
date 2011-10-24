@@ -1,8 +1,8 @@
 # WARNINGS
 
-When patients are receiving levodopa without a decarboxylase inhibitor, levodopa must be discontinued at least twelve hours before carbidopa and levodopa extended-release is started.
+When patients are receiving levodopa without a decarboxylase inhibitor, levodopa must be discontinued at least 12 hours before carbidopa and levodopa extended-release is started.
 In order to reduce adverse reactions, it is necessary to individualize therapy.
-Carbidopa and levodopa extended-release should be substituted at a dosage that will provide approximately 25 percent of the previous levodopa dosage (see DOSAGE AND ADMINISTRATION).
+Carbidopa and levodopa extended-release should be substituted at a dosage that will provide approximately 25% of the previous levodopa dosage (see DOSAGE AND ADMINISTRATION).
 
 Carbidopa does not decrease adverse reactions due to central effects of levodopa.
 By permitting more levodopa to reach the brain, particularly when nausea and vomiting is not a dose-limiting factor, certain adverse CNS effects, e.g., dyskinesias, will occur at lower dosages and sooner during therapy with carbidopa and levodopa extended-release than with levodopa alone.
@@ -29,7 +29,7 @@ Sporadic cases of a symptom complex resembling NMS have been reported in associa
 
 Therefore, patients should be observed carefully when the dosage of carbidopa and levodopa extended-release is reduced abruptly or discontinued, especially if the patient is receiving neuroleptics.
 
-NMS is an uncommon but life-threatening syndrome characterized by fever or hyperthermia.
+NMS is an uncommon but life threatening syndrome characterized by fever or hyperthermia.
 Neurological findings, including muscle rigidity, involuntary movements, altered consciousness, mental status changes; other disturbances, such as autonomic dysfunction, tachycardia, tachypnea, sweating, hyper- or hypotension; laboratory findings, such as creatine phosphokinase elevation, leukocytosis, myoglobinuria, and increased serum myoglobin have been reported.
 
 The early diagnosis of this condition is important for the appropriate management of these patients.
@@ -48,6 +48,19 @@ As with levodopa, periodic evaluations of hepatic, hematopoietic, cardiovascular
 
 Patients with chronic wide-angle glaucoma may be treated cautiously with carbidopa and levodopa extended-release provided the intraocular pressure is well controlled and the patient is monitored carefully for changes in intraocular pressure during therapy.
 
+Dopaminergic agents, including levodopa, may be associated with somnolence and very rarely episodes of sudden onset of sleep.
+In some cases, these episodes may occur without awareness or warning during daily activities.
+Patients must be informed of this and advised to exercise caution while driving or operating machines while being treated with dopaminergic agents, including levodopa.
+Patients who have experienced somnolence and/or an episode of sudden sleep onset must refrain from driving or operating machines (see Information for Patients).
+
+## Melanoma
+
+Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
+Whether the increased risk observed was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
+
+For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using carbidopa and levodopa extended-release for any indication.
+Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
+
 ## Information for Patients
 
 The patient should be informed that carbidopa and levodopa extended-release tablets are a sustained-release formulation of carbidopa and levodopa which releases these ingredients over a 4 to 6 hour period.
@@ -56,7 +69,7 @@ The patient should be cautioned not to change the prescribed dosage regimen and 
 
 If abnormal involuntary movements appear or get worse during treatment with carbidopa and levodopa extended-release, the physician should be notified, as dosage adjustment may be necessary.
 
-Patients should be advised that sometimes the onset of effect of the first morning dose of carbidopa and levodopa extended-release may be delayed for up to 1 hour compared with the response usually obtained from the first morning dose of carbidopa and levodopa immediate-release.
+Patients should be advised that sometimes the onset of effect of the first morning dose of carbidopa and levodopa extended-release may be delayed for up to one hour compared with the response usually obtained from the first morning dose of carbidopa and levodopa immediate-release.
 The physician should be notified if such delayed responses pose a problem in treatment.
 
 Patients should be advised that, occasionally, dark color (red, brown, or black) may appear in saliva, urine, or sweat after ingestion of carbidopa and levodopa extended-release.
@@ -69,6 +82,15 @@ The above factors may reduce the clinical effectiveness of the levodopa or carbi
 
 Patients must be advised that the whole or half tablet should be swallowed without chewing or crushing.
 
+Patients should be alerted to the possibility of sudden onset of sleep during daily activities, in some cases without awareness or warning signs, when they are taking dopaminergic agents, including levodopa.
+Patients should be advised to exercise caution while driving or operating machinery and that if they have experienced somnolence and/or sudden sleep onset, they must refrain from these activities (see PRECAUTIONS: General).
+
+There have been reports of patients experiencing intense urges to gamble, increased sexual urges, and other intense urges, and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone and that are generally used for the treatment of Parkinson’s disease, including carbidopa and levodopa extended-release.
+Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
+Prescribers should ask patients about the development of new or increased gambling urges, sexual urges or other urges while being treated with carbidopa and levodopa extended-release.
+Patients should inform their physician if they experience new or increased gambling urges, increased sexual urges, or other intense urges while taking carbidopa and levodopa extended-release.
+Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking carbidopa and levodopa extended-release.
+
 NOTE: The suggested advice to patients being treated with carbidopa and levodopa extended-release tablets is intended to aid in the safe and effective use of this medication.
 It is not a disclosure of all possible adverse or intended effects.
 
@@ -78,7 +100,7 @@ Abnormalities in laboratory tests may include elevations of liver function tests
 Abnormalities in blood urea nitrogen and positive Coombs test have also been reported.
 Commonly, levels of blood urea nitrogen, creatinine, and uric acid are lower during administration of carbidopa and levodopa preparations than with levodopa.
 
-Carbidopa and levodopa preparations may cause a false-positive reaction for urinary ketone bodies when a test tape is used for determination of ketonuria.
+Carbidopa and levodopa preparations, such as carbidopa and levodopa immediate-release and carbidopa and levodopa extended-release, may cause a false-positive reaction for urinary ketone bodies when a test tape is used for determination of ketonuria.
 This reaction will not be altered by boiling the urine specimen.
 False-negative tests may result with the use of glucose-oxidase methods of testing for glucosuria.
 
@@ -90,7 +112,7 @@ Caution should be exercised when interpreting the plasma and urine levels of cat
 Caution should be exercised when the following drugs are administered concomitantly with carbidopa and levodopa extended-release.
 
 Symptomatic postural hypotension has occurred when carbidopa and levodopa preparations were added to the treatment of patients receiving some antihypertensive drugs.
-Therefore, when therapy with carbidopa and levodopa is started, dosage adjustment of the antihypertensive drug may be required.
+Therefore, when therapy with carbidopa and levodopa extended-release is started, dosage adjustment of the antihypertensive drug may be required.
 
 For patients receiving monoamine oxidase (MAO) inhibitors (Type A or B), see CONTRAINDICATIONS.
 Concomitant therapy with selegiline and carbidopa-levodopa may be associated with severe orthostatic hypotension not attributable to carbidopa-levodopa alone (see CONTRAINDICATIONS).
@@ -108,9 +130,9 @@ Although metoclopramide may increase the bioavailability of levodopa by increasi
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In a two-year bioassay of carbidopa and levodopa immediate-release, no evidence of carcinogenicity was found in rats receiving doses of approximately two times the maximum daily human dose of carbidopa and four times the maximum daily human dose of levodopa (equivalent to 8 carbidopa and levodopa extended-release tablets).
+In a 2-year bioassay of carbidopa and levodopa immediate-release, no evidence of carcinogenicity was found in rats receiving doses of approximately 2 times the maximum daily human dose of carbidopa and 4 times the maximum daily human dose of levodopa (equivalent to 8 carbidopa and levodopa extended-release tablets).
 
-In reproduction studies with carbidopa and levodopa immediate-release, no effects on fertility were found in rats receiving doses of approximately two times the maximum daily human dose of carbidopa and four times the maximum daily human dose of levodopa (equivalent to 8 carbidopa and levodopa extended-release tablets).
+In reproduction studies with carbidopa and levodopa immediate-release, no effects on fertility were found in rats receiving doses of approximately 2 times the maximum daily human dose of carbidopa and 4 times the maximum daily human dose of levodopa (equivalent to 8 carbidopa and levodopa extended-release tablets).
 
 ## Pregnancy
 
@@ -119,18 +141,18 @@ In reproduction studies with carbidopa and levodopa immediate-release, no effect
 ### Pregnancy Category C
 
 No teratogenic effects were observed in a study in mice receiving up to 20 times the maximum recommended human dose of carbidopa and levodopa immediate-release.
-There was a decrease in the number of live pups delivered by rats receiving approximately two times the maximum recommended human dose of carbidopa and approximately five times the maximum recommended human dose of levodopa during organogenesis.
+There was a decrease in the number of live pups delivered by rats receiving approximately 2 times the maximum recommended human dose of carbidopa and approximately 5 times the maximum recommended human dose of levodopa during organogenesis.
 Carbidopa and levodopa immediate-release caused both visceral and skeletal malformations in rabbits at all doses and ratios of carbidopa/levodopa tested, which ranged from 10 times/5 times the maximum recommended human dose of carbidopa/levodopa to 20 times/10 times the maximum recommended human dose of carbidopa/levodopa.
 
-There are no adequate or well-controlled studies in pregnant women.
+There are no adequate or well controlled studies in pregnant women.
 It has been reported from individual cases that levodopa crosses the human placental barrier, enters the fetus, and is metabolized.
 Carbidopa concentrations in fetal tissue appeared to be minimal.
 Use of carbidopa and levodopa extended-release in women of childbearing potential requires that the anticipated benefits of the drug be weighed against possible hazards to mother and child.
 
 ## Nursing Mothers
 
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when carbidopa and levodopa extended-release is administered to a nursing woman.
+In a study of one nursing mother with Parkinson’s disease, excretion of levodopa in human breast milk was reported.
+Therefore, caution should be exercised when carbidopa and levodopa extended-release is administered to a nursing woman.
 
 ## Pediatric Use
 

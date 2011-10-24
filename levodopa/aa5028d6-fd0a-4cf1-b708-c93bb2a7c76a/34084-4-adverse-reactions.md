@@ -1,9 +1,9 @@
 # ADVERSE REACTIONS
 
 In controlled clinical trials, patients predominantly with moderate to severe motor fluctuations while on carbidopa and levodopa immediate-release were randomized to therapy with either carbidopa and levodopa immediate-release or carbidopa and levodopa extended-release.
-The adverse experience frequency profile of carbidopa and levodopa extended-release did not differ substantially from that of carbidopa and levodopa immediate-release, as shown in Table I.
+The adverse experience frequency profile of carbidopa and levodopa extended-release did not differ substantially from that of carbidopa and levodopa immediate-release, as shown in Table 1.
 
-Table I Clinical Adverse Experiences Occurring In 1% or Greater of Patients
+Table 1 Clinical Adverse Experiences Occurring In 1% or Greater of Patients
 
 | Adverse Experience | Carbidopa and Levodopa Extended-release n=491 % | Carbidopa and Levodopa Immediate-release n=524 % |
 | --- | --- | --- |
@@ -14,22 +14,22 @@ Table I Clinical Adverse Experiences Occurring In 1% or Greater of Patients
 | Dizziness | 2.9 | 2.3 |
 | Depression | 2.2 | 1.3 |
 | Urinary tract infection | 2.2 | 2.3 |
-| Headache | 2.0 | 1.9 |
+| Headache | 2 | 1.9 |
 | Dream abnormalities | 1.8 | 0.8 |
 | Dystonia | 1.8 | 0.8 |
 | Vomiting | 1.8 | 1.9 |
-| Upper respiratory infection | 1.8 | 1.0 |
+| Upper respiratory infection | 1.8 | 1 |
 | Dyspnea | 1.6 | 0.4 |
 | ‘On-Off’ phenomena | 1.6 | 1.1 |
 | Back pain | 1.6 | 0.6 |
 | Dry mouth | 1.4 | 1.1 |
 | Anorexia | 1.2 | 1.1 |
 | Diarrhea | 1.2 | 0.6 |
-| Insomnia | 1.2 | 1.0 |
-| Orthostatic hypotension | 1.0 | 1.1 |
-| Shoulder pain | 1.0 | 0.6 |
-| Chest pain | 1.0 | 0.8 |
-| Muscle cramps | 0.8 | 1.0 |
+| Insomnia | 1.2 | 1 |
+| Orthostatic hypotension | 1 | 1.1 |
+| Shoulder pain | 1 | 0.6 |
+| Chest pain | 1 | 0.8 |
+| Muscle cramps | 0.8 | 1 |
 | Paresthesia | 0.8 | 1.1 |
 | Urinary frequency | 0.8 | 1.1 |
 | Dyspepsia | 0.6 | 1.1 |
@@ -71,7 +71,7 @@ Gastrointestinal: Taste alterations, dark saliva.
 
 Hypersensitivity: Angioedema, urticaria, pruritus, bullous lesions (including pemphigus-like reactions).
 
-Nervous System/Psychiatric: Neuroleptic malignant syndrome (see WARNINGS), increased tremor, peripheral neuropathy, psychotic episodes including delusions and paranoid ideation, increased libido.
+Nervous System/Psychiatric: Neuroleptic malignant syndrome (NMS), (see WARNINGS), increased tremor, peripheral neuropathy, psychotic episodes including delusions and paranoid ideation, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
 
 Skin: Alopecia, flushing, dark sweat.
 
