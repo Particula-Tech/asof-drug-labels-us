@@ -70,11 +70,6 @@ How should I take MICARDIS tablets?
 - Read the "How to Open the Blister" at the end of this leaflet before you use MICARDIS.
   Talk with your doctor if you do not understand the instructions.
 
-What important safety information should I know about MICARDIS tablets?
-
-- You may experience sleepiness, dizziness, lightheadedness, or fainting when taking medicines such as MICARDIS tablets.
-  Use caution when engaging in activities such as driving a car or operating appliances or machinery.
-
 What are the possible side effects of MICARDIS tablets?
 
 MICARDIS tablets may cause serious side effects, including:
@@ -106,7 +101,7 @@ Tell your doctor right away if you get any of these symptoms:
 
 - swelling of the face, tongue, throat
 - difficulty breathing
-- blistering of the skin or rash
+- skin rash
 
 The most common side effects of MICARDIS tablets include:
 
@@ -174,8 +169,8 @@ Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
 Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: July 2011
+Revised: October 2011
 
-OT1200PH082011 090340194/10
+OT1200RJ112011 090340194/11
 
-IT12004L 10005385/7
+IT12004N 10005385/8
