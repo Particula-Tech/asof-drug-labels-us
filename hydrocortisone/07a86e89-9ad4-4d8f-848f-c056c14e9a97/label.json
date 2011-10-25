@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022076"
+  ],
+  "inn": "hydrocortisone",
+  "labeler": "Triax Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "14290-314-61",
+    "14290-314-62"
+  ],
+  "products": [
+    {
+      "form": "LOTION",
+      "generic": "hydrocortisone butyrate",
+      "name": "Locoid"
+    }
+  ],
+  "setid": "07a86e89-9ad4-4d8f-848f-c056c14e9a97",
+  "source": "dailymed"
+}
