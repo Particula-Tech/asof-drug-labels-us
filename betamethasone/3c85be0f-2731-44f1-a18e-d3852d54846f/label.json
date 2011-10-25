@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA072041"
+  ],
   "inn": "betamethasone",
   "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
   "package_ndcs": [
     "51672-1269-1",
     "51672-1269-6"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "betamethasone valerate",
+      "name": "BETAMETHASONE VALERATE"
+    }
+  ],
   "setid": "3c85be0f-2731-44f1-a18e-d3852d54846f",
   "source": "dailymed"
 }
