@@ -1,5 +1,11 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-The recommended dose is 5 mg orally once a day.
-Finasteride may be administered with or without meals.
-No dosage adjustment is necessary for patients with renal impairment or for the elderly (see CLINICAL PHARMACOLOGY, Pharmacokinetics ).
+Finasteride tablets may be administered with or without meals.
+
+## 2.1 Monotherapy
+
+The recommended dose of finasteride tablets is one tablet (5 mg) taken once a day [see Clinical Studies (14.1)] .
+
+## 2.2 Combination with Alpha-Blocker
+
+The recommended dose of finasteride tablets is one tablet (5 mg) taken once a day in combination with the alpha-blocker doxazosin [see Clinical Studies (14.2)].

@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 Patients have received single doses of finasteride up to 400 mg and multiple doses of finasteride up to 80 mg/day for three months without adverse effects.
 Until further experience is obtained, no specific treatment for an overdose with finasteride can be recommended.
