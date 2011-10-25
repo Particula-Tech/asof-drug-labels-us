@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA076534"
+  ],
+  "inn": "olanzapine",
+  "labeler": "Dr.Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-262-79",
+    "55111-262-81",
+    "55111-263-79",
+    "55111-263-81",
+    "55111-264-79",
+    "55111-264-81",
+    "55111-265-79",
+    "55111-265-81"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "olanzapine",
+      "name": "Olanzapine"
+    }
+  ],
+  "setid": "aff02cff-d079-bc82-6182-a24c4c6e09a6",
+  "source": "dailymed"
+}
