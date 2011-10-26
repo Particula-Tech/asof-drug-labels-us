@@ -60,7 +60,7 @@ Patients should be advised that transient blurred vision or visual disturbance, 
 
 *TIMOPTIC is a Registered trademark of Merck & Co., Inc.
 
-**DROP-TAINER® is a registered trademark of Alcon Manufacturing, Ltd.
+**DROP-TAINER® is a registered trademark of Alcon Research, Ltd.
 
 Distributed by:
 
@@ -74,4 +74,4 @@ ALCON LABORATORIES, INC.
 
 Fort Worth, Texas 76134
 
-9002739-0807
+9005450-0310
