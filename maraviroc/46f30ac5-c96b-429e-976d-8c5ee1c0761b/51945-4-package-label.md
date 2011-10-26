@@ -36,12 +36,12 @@ Pfizer Manufacturing Deutschland GmbH
 
 Freiburg, Germany
 
-Made in Ireland
+Made in Belgium
 
 Rev.
-4/11
+9/11
 
-413001
+413168
 
 Principal Display Panel
 
@@ -81,9 +81,9 @@ Pfizer Manufacturing Deutschland GmbH
 
 Freiburg, Germany
 
-Made in Ireland
+Made in Belgium
 
 Rev.
-4/11
+9/11
 
-413002
+413169

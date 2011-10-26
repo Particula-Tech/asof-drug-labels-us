@@ -1,3 +1,7 @@
+# PHARMACIST-DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ _ _ _ _ _ _ _ _
+
 MEDICATION GUIDE
 
 SELZENTRY® (sell-ZEN-tree) Tablets

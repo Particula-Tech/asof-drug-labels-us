@@ -7,7 +7,7 @@ Severe rash or evidence of systemic allergic reaction including drug-related ras
 These events occurred approximately 1 month after starting treatment.
 Among reported cases of hepatitis, some were observed in the absence of allergic features or with no pre-existing hepatic disease.
 
-Appropriate laboratory testing including ALS, AST, and bilirubin should be conducted prior to initiating therapy with SELZENTRY and at other time points during treatment as clinically indicated.
+Appropriate laboratory testing including ALT, AST, and bilirubin should be conducted prior to initiating therapy with SELZENTRY and at other time points during treatment as clinically indicated.
 Hepatic laboratory parameters should be obtained in any patient who develops rash, or signs or symptoms of hepatitis, or allergic reaction.
 Discontinuation of SELZENTRY should be considered in any patient with signs or symptoms of hepatitis, or with increased liver transaminases combined with rash or other systemic symptoms.
 
