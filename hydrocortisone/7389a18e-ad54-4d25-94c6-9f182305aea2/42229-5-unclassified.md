@@ -7,10 +7,26 @@ Inflammation and/or other disease processes in the skin increase percutaneous ab
 Occlusive dressings substantially increase the percutaneous absorption of topical corticosteroids.
 
 Thus, occlusive dressings may be a valuable therapeutic adjunct for treatment of resistant dermatoses.
-
 (See DOSAGE AND ADMINISTRATION.)
 
 Once absorbed through the skin, topical corticosteroids are handled through pharmacokinetic pathways similar to systemically administered corticosteroids.
 Corticosteroids are bound to plasma proteins in varying degrees.
 Corticosteroids are metabolized primarily in the liver and are then excreted by the kidneys.
 Some of the topical corticosteroids and their metabolites are also excreted into the bile.
+
+# STORAGE
+
+Store at controlled temperature between 36° - 86°F (2° - 30°C).
+
+Rx Only.
+
+Manufactured for Triax Pharmaceuticals, LLC Cranford, NJ 07016
+
+By Ferndale Laboratories, Inc. Ferndale, MI 48220
+
+Marketed and Distributed by Triax Pharmaceuticals, LLC Cranford, NJ 07016
+
+Locoid ® is a registered trademark of Astellas Pharma Europe B.V.licensed to Triax Pharmaceuticals, LLC.
+
+131F100 Rev.
+01/08
