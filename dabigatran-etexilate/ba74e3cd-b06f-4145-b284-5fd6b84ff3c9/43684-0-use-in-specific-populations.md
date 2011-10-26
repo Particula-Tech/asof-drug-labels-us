@@ -33,6 +33,5 @@ The risk of stroke and bleeding increases with age, but the risk-benefit profile
 
 ## 8.6 Renal Impairment
 
-No dose adjustment of PRADAXA is recommended in patients with mild or moderate renal impairment.
-Reduce the dose of PRADAXA in patients with severe renal impairment (CrCl 15-30 mL/min) [see Dosage and Administration (2.1)].
-Dosing recommendations for patients with CrCl <15 mL/min or on dialysis cannot be provided.
+Renal function should be assessed in clinical situations which may be associated with or are suggestive of a decline in renal function.
+In patients with CrCl <50 mL/min or >75 years of age, renal function should be assessed at least once a year [see Dosage and Administration (2), Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].

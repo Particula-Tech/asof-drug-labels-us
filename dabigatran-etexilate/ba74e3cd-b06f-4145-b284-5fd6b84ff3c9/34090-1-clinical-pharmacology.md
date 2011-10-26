@@ -8,12 +8,14 @@ Both free and clot-bound thrombin, and thrombin-induced platelet aggregation are
 
 ## 12.2 Pharmacodynamics
 
+PRADAXA treatment does not require anticoagulation monitoring.
 At recommended therapeutic doses, dabigatran etexilate prolongs the aPTT, ECT, and TT.
 With an oral dose of 150 mg twice daily the median peak aPTT is approximately 2x control.
 Twelve hours after the last dose the median aPTT is 1.5x control, with less than 10% of patients exceeding 2x control.
 In the RE-LY trial, the median (10th to 90th percentile) trough aPTT in patients receiving the 150 mg dose was 52 (40 to 76) seconds.
 The median (10th to 90th percentile) trough ECT in patients receiving the 150 mg dose was 63 (44 to 103) seconds.
-The INR test is relatively insensitive to the activity of dabigatran and may or may not be elevated in patients on PRADAXA.
+The INR test should be avoided as it is unreliable in patients on PRADAXA.
+In patients on PRADAXA, the INR may or may not be elevated and false positive INR elevations have been reported.
 When converting a patient from PRADAXA to warfarin therapy, the INR is unlikely to be useful until at least 2 days after discontinuation of PRADAXA.
 
 Cardiac Electrophysiology
@@ -92,9 +94,10 @@ By Day 7 after cessation of rifampin treatment, dabigatran exposure was close to
 In studies with the P-gp inhibitors ketoconazole, amiodarone, verapamil, and quinidine, the time to peak, terminal half-life, and mean residence time of dabigatran were not affected.
 Any observed changes in Cmax and AUC are described below.
 
-Dronedarone: Exposure to dabigatran is higher when it is administered with dronedarone than when it is administered alone (1.7- to 2-fold).
+Dronedarone: Exposure to dabigatran is higher when it is administered with dronedarone bid than when it is administered alone.
+The dabigatran AUC and Cmax increased by 136% and 125%, respectively (i.e., more than doubled).
 
-Ketoconazole: Ketoconazole increased dabigatran AUC0-∞ and Cmax values by 138% and 135%, respectively, after a single dose of 400 mg, and 153%, and 149%, respectively, after multiple daily doses of 400 mg.
+Ketoconazole: Systemic ketoconazole increased dabigatran AUC0-∞ and Cmax values by 138% and 135%, respectively, after a single dose of 400 mg, and 153%, and 149%, respectively, after multiple daily doses of 400 mg.
 
 Verapamil: When dabigatran etexilate was coadministered with oral verapamil, the Cmax and AUC of dabigatran were increased.
 The extent of increase depends on the formulation of verapamil and timing of administration.

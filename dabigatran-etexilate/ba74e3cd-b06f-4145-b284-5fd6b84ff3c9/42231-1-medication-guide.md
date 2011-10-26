@@ -8,6 +8,7 @@ What is the most important information I should know about PRADAXA?
 
 - PRADAXA can cause bleeding which can be serious, and sometimes lead to death.
   This is because PRADAXA is a blood thinner medicine that lowers the chance of blood clots forming in your body.
+- To find the best dose of PRADAXA for you, your doctor should test your kidney function before you take your first dose of PRADAXA, and in some instances yearly there after.
 - You may have a higher risk of bleeding if you take PRADAXA and:
   - are over 75 years old
   - have kidney problems
@@ -20,6 +21,7 @@ What is the most important information I should know about PRADAXA?
     - a medicine that contains heparin
     - clopidogrel (Plavix®)
     - prasugrel (Effient®)
+    - selective serotonin re-uptake inhibitors (Paxil®, Prozac®, Zoloft®)
 - PRADAXA can increase your risk of bleeding because it lessens the ability of your blood to clot.
   While you take PRADAXA: Call your doctor or get medical help right away if you have any of these signs or symptoms of bleeding: Take PRADAXA exactly as prescribed.
   Do not stop taking PRADAXA without first talking to the doctor who prescribes it for you.
@@ -60,6 +62,7 @@ Do not take PRADAXA if you:
   Talk to your doctor, before taking PRADAXA if you currently have unusual bleeding.
 - have had a serious allergic reaction to PRADAXA.
   Ask your doctor if you are not sure.
+- have certain kidney problems and also take the medicines dronedarone (Multaq®) or ketoconazole tablets (Nizoral®)
 
 What should I tell my doctor before taking PRADAXA?
 
@@ -161,12 +164,12 @@ The capsule shell is composed of carrageenan, FD&C Blue No. 2 (150 mg strength o
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Revised: August 2011 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised: October 2011 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Copyright 2011 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-03 IT5060DH162011
+75461-04 IT5060GJ242011
 
-75457-03 IT5400D
+75457-04 IT5400G
 
-Coumadin® is a registered trademark for Bristol-Myers Squibb Jantoven® is a registered trademark for USL Pharma Plavix® is a registered trademark of sanofi aventis Effient® is a registered trademark of Eli Lilly and Company
+The brands listed above are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The owners of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.

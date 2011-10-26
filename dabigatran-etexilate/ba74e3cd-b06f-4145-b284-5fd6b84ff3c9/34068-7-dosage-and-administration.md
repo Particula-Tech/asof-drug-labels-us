@@ -1,10 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dose
-
-For patients with creatinine clearance (CrCl) >30 mL/min, the recommended dose of PRADAXA is 150 mg taken orally, twice daily, with or without food.
-For patients with CrCl 15-30 mL/min, the recommended dose is 75 mg twice daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
-Dosing recommendations for patients with a CrCL <15 mL/min or on dialysis cannot be provided.
+Renal function should be assessed by calculating the creatinine clearance (CrCl) prior to initiation of treatment with PRADAXA.
+While on treatment, renal function should be assessed in clinical situations which may be associated with a decline in renal function.
+In patients with CrCl <50 mL/min or >75 years of age, renal function should be assessed at least once a year.
 
 Instruct patients to swallow the capsules whole.
 Breaking, chewing, or emptying the contents of the capsule can result in increased exposure [see Clinical Pharmacology (12.3)].
@@ -12,14 +10,20 @@ Breaking, chewing, or emptying the contents of the capsule can result in increas
 If a dose of PRADAXA is not taken at the scheduled time, the dose should be taken as soon as possible on the same day; the missed dose should be skipped if it cannot be taken at least 6 hours before the next scheduled dose.
 The dose of PRADAXA should not be doubled to make up for a missed dose.
 
+## 2.1 Recommended Dose
+
+For patients with CrCl >30 mL/min, the recommended dose of PRADAXA is 150 mg taken orally, twice daily, with or without food.
+For patients with severe renal impairment (CrCl 15-30 mL/min), the recommended dose of PRADAXA is 75 mg twice daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+For patients on dialysis, dosing recommendations cannot be provided.
+
 ## 2.2 Converting from or to Warfarin
 
 When converting patients from warfarin therapy to PRADAXA, discontinue warfarin and start PRADAXA when the international normalized ratio (INR) is below 2.0.
 
 When converting from PRADAXA to warfarin, adjust the starting time of warfarin based on creatinine clearance as follows:
 
-- For CrCl >50 mL/min, start warfarin 3 days before discontinuing PRADAXA.
-- For CrCl 31-50 mL/min, start warfarin 2 days before discontinuing PRADAXA.
+- For CrCl ≥50 mL/min, start warfarin 3 days before discontinuing PRADAXA.
+- For CrCl 30-50 mL/min, start warfarin 2 days before discontinuing PRADAXA.
 - For CrCl 15-30 mL/min, start warfarin 1 day before discontinuing PRADAXA.
 - For CrCl <15 mL/min, no recommendations can be made.
 
@@ -39,5 +43,6 @@ Consider longer times for patients undergoing major surgery, spinal puncture, or
 If surgery cannot be delayed, there is an increased risk of bleeding [see Warnings and Precautions (5.1)].
 This risk of bleeding should be weighed against the urgency of intervention [see Warnings and Precautions (5.2)].
 Bleeding risk can be assessed by the ecarin clotting time (ECT).
-This test is a better marker of the anticoagulant activity of dabigatran than activated partial thromboplastin time (aPTT), prothrombin time (PT)/INR, or thrombin time (TT).
-If ECT is not available, the aPTT test provides an approximation of PRADAXA’s anticoagulant activity [see Clinical Pharmacology (12.2)].
+This test is a better marker of the anticoagulant activity of dabigatran than activated partial thromboplastin time (aPTT), or thrombin time (TT).
+If ECT is not available, the aPTT test provides an approximation of PRADAXA’s anticoagulant activity.
+INR tests are unreliable in patients on PRADAXA [see Clinical Pharmacology (12.2)].
