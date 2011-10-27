@@ -1,3 +1,5 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-There is one report of acute overdosage with testosterone enanthate injection: testosterone levels of up to 11,400 ng/dL were implicated in a cerebrovascular accident.
+No cases of overdose with ANDRODERM have been reported in clinical trials.
+There is one report of acute overdosage by injection of testosterone enanthate: testosterone concentrations of up to 11,400 ng/dL were implicated in a cerebrovascular accident.
+Treatment of overdosage would consist of discontinuation of ANDRODERM together with appropriate symptomatic and supportive care.

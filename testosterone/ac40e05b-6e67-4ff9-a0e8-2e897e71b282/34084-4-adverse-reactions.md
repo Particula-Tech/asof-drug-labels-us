@@ -1,69 +1,46 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Adverse Events Associated with Androderm (testosterone transdermal system)
+## 6.1 Clinical Trials Experience
 
-In clinical studies of 122 patients treated with Androderm, the most common adverse events reported were skin reactions at the site of system application.
-Transient mild to moderate erythema was observed at the site of application in the majority of patients at some time during treatment.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The adverse reactions reported by more than 1% of patients are listed below shown in order of decreasing frequency.
+Table 1 shows the adverse reactions that were reported by > 3% of 36 hypogonadal men who were treated with ANDRODERM 2 mg/day, 4 mg/day, or 6 mg/day for 28 days.
+Of note, all hypogonadal men studied had been stable users of topical testosterone replacement products prior to the study and there was no washout period between therapies.
+Furthermore, there was only one subject titrated to 6 mg/day and he withdrew from the study prematurely.
 
-| Event | Percent of Patients |
+Table 1.
+Adverse Reactions Seen With the Use of ANDRODERM 2 mg/day, 4 mg/day, or 6 mg/day (> 3%)
+
+| Adverse Reaction | Overall N = 36 % |
 | --- | --- |
-| pruritus at application site | 37% |
-| burn-like blister reaction under system | 12% |
-| erythema at application site | 7% |
-| vesicles at application site | 6% |
-| prostate abnormalities | 5% |
-| headache | 4% |
-| allergic contact dermatitis to the system | 4% |
-| burning at application site | 3% |
-| induration at application site | 3% |
-| depression | 3% |
-| rash | 2% |
-| gastrointestinal bleeding | 2% |
+| Application site pruritus | 17 |
+| Application site vesicles | 6 |
+| Back pain | 6 |
 
-The following reactions occurred in less than 1% of patients: fatigue; body pain; pelvic pain; hypertension; peripheral vascular disease; increased appetite; accelerated growth; anxiety; confusion; decreased libido; paresthesia; thinking abnormalities; vertigo; acne; bullae at application site; mechanical irritation at application site; rash at application site; contamination of application site; prostate carcinoma; dysuria; hematuria; impotence; urinary incontinence; urinary tract infection; testicular abnormalities.
+Other less common adverse reactions reported by < 3% of patients included: application site erythema, application site exfoliation, chills, diarrhea, fatigue, gastroesophageal reflux disease, hemarthrosis, hematuria, headache, polyuria, and prostatitis.
+The overall incidence of application site reactions of any kind was 28% (10 subjects with 13 adverse reactions).
 
-Three types of application site reactions occurred: irritation which included mild to moderate erythema, induration or burning; allergic contact dermatitis; and burn-like blister reactions.
+No serious adverse reactions to ANDRODERM 2 mg/day and 4 mg/day were reported during the clinical trial.
 
-Chronic skin irritation caused 5% of patients to discontinue treatment.
-Mild skin irritation may be ameliorated by treatment of affected skin with over-the-counter topical hydrocortisone cream applied after system removal.
+Table 2 shows the adverse reactions that were reported in > 3% of 122 patients in clinical studies with ANDRODERM dosage strengths of 2.5 mg/day, 5 mg/day, and 7.5 mg/day.
+The most common adverse reactions reported were application site reactions.
+Transient mild to moderate erythema was observed at the site of application in the majority of patients at some time during treatment.
+The overall incidence of application site reactions of any kind was 48% (59 subjects with 107 adverse reactions).
 
-Applying a small amount of 0.1% triamcinolone acetonide cream (Rx) to the skin under the central drug reservoir of the Androderm system has been shown to reduce the incidence and severity of skin irritation.
-The administration of 0.1% triamcinolone acetonide cream (Rx) does not significantly alter transdermal absorption of testosterone from the system.
-Ointment formulations should not be used for pretreatment as they may significantly reduce testosterone absorption.
+Table 2.
+Adverse Reactions Seen With the Use of ANDRODERM 2.5 mg/day, 5 mg/day, or 7.5 mg/day (> 3%)
 
-Five patients (4%) developed allergic contact dermatitis after 3 to 8 weeks treatment that required discontinuation.
-These reactions were characterized by pruritus, erythema, induration and in some instances vesicles or bullae, which recurred with each system application.
-Rechallenge with components of the system showed ethanol sensitization in 4 patients.
-One patient’s reaction was attributed to testosterone.
-None of these patients had adverse sequelae related to oral alcohol ingestion or to injectable testosterone use.
-Older patients may be more prone to develop allergic contact dermatitis.
+| Adverse Reaction | Overall N = 122 % |
+| --- | --- |
+| Application site pruritus | 37 |
+| Application site blistering | 12 |
+| Application site erythema | 7 |
+| Application site vesicles | 6 |
+| Prostate abnormalities | 5 |
+| Headache | 4 |
+| Contact dermatitis to system | 4 |
+| Application site burning | 3 |
+| Application site induration | 3 |
+| Depression | 3 |
 
-Fourteen patients (12%) had burn-like blister reactions that involved bullae, epidermal necrosis or the development of ulcerated lesions.
-These reactions typically occurred once, at a single application site; 5 patients experienced a single recurrence.
-None withdrew from the clinical trials.
-These reactions occurred at a rate of approximately 1 in 6,500 system applications (1 in 3,250 treatment days).
-The majority of these lesions were associated with system application over bony prominences or on parts of the body that may have been subject to prolonged pressure during sleep or sitting (e.g., over the deltoid region of the upper arm, the greater trochanter of the femur, or the ischial tuberosity).
-The more severe lesions healed over several weeks with scarring in some cases.
-Such lesions should be treated as burns.
-
-Adverse Events Associated with Injection or Oral Treatments
-
-Skin and Appendages: Hirsutism, male pattern of baldness, seborrhea, and acne.
-
-Endocrine and Urogenital: Gynecomastia and excessive frequency and duration of penile erections.
-Oligospermia may occur at high dosages (see CLINICAL PHARMACOLOGY).
-
-Fluid and Electrolyte Disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates.
-
-Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests.
-Rare instances of hepatocellular neoplasms and peliosis hepatis have occurred (see WARNINGS).
-
-Hematologic: Suppression of clotting factors II, V, VII, and X; bleeding in patients on concomitant anticoagulant therapy and polycythemia.
-
-Nervous System: Increased or decreased libido, headache, anxiety, depression and generalized paresthesia.
-
-Metabolic: Increased serum cholesterol.
-
-Miscellaneous: Rarely, anaphylactoid reactions.
+The following reactions occurred in less than 3% of patients: rash, gastrointestinal bleeding, fatigue, body pain, pelvic pain, hypertension, peripheral vascular disease, increased appetite, accelerated growth, anxiety, confusion, decreased libido, paresthesia, thinking abnormalities, vertigo, acne, bullae at application site, mechanical irritation at application site, rash at application site, contamination of application site, prostate carcinoma, dysuria, hematuria, impotence, urinary incontinence, urinary tract infection, and testicular abnormalities.
