@@ -189,7 +189,7 @@ Issued: 08/2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2011 Allergan, Inc. ® mark owned by Allergan, Inc. U.S. Patents 6,974,578; 6,683,049; and 6,896,886
+Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2011 Allergan, Inc. ® marks owned by Allergan, Inc. U.S. Patents 5,437,291; 5,714,468; 6,667,041; 6,683,049; 6,896,886; 6,974,578; 7,001,602; 7,429,387; and 7,449,192
 
 Myobloc® is a registered trademark of Solstice Neurosciences, Inc. Dysport® is a registered trademark of Ipsen Biopharm Limited Company.
 Xeomin® is a registered trademark of Merz Pharma GmbH & Co KGaA.
