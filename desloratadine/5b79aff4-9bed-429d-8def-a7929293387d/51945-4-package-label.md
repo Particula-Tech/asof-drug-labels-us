@@ -10,13 +10,13 @@ Rx only 100 Tablets (Unit-Dose Box)
 
 actual size
 
-PRINCIPAL DISPLAY PANEL - 2.5 mg Syrup Carton
+PRINCIPAL DISPLAY PANEL - 0.5 mg Solution Carton
 
 NDC 0085-1334-01
 
 16 fl oz
 
-CLARINEX® SYRUP (desloratadine) 0.5 mg per 1 mL
+CLARINEX® ORAL SOLUTION (desloratadine) 0.5 mg per 1 mL
 
 Usual Dose: See package insert.
 
@@ -26,7 +26,7 @@ Read accompanying directions carefully.
 
 Rx only
 
-™
+®
 
 PRINCIPAL DISPLAY PANEL - 5 mg Orally-Disintegrating Tablet Carton
 
