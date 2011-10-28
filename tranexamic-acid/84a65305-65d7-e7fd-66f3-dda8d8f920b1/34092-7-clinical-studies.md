@@ -77,7 +77,8 @@ Mean Reduction from Baseline in MBL
 Limitations on social, leisure, and physical activities were also statistically significantly reduced in the LYSTEDA group compared to placebo (see Table 7).
 No statistically significant treatment difference was observed in response rates on the number of large stains.
 
-Table 7: Secondary Outcomes in 6-Cycle Study
+Table 7.
+Secondary Outcomes in 6-Cycle Study
 
 | Outcome Measure | N | Baseline Meana | Least Squares Mean Reductionb |
 | --- | --- | --- | --- |

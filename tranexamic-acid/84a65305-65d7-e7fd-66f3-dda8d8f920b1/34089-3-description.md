@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 LYSTEDA is an antifibrinolytic drug.
-The chemical name is trans-4-Aminomethyl-cyclohexanecarboxylic acid.
+The chemical name is trans-4-aminomethyl-cyclohexanecarboxylic acid.
 The structural formula is:
 
 Tranexamic acid is a white crystalline powder.

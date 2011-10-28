@@ -73,7 +73,7 @@ A case of severe allergic reaction to LYSTEDA was reported in the extension tria
 The following adverse reactions have been identified from postmarketing experience with tranexamic acid.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Based on worldwide postmarketing reports, the following have been reported in patients receiving tranexamic acid for various indications:
+Based on U.S. and worldwide postmarketing reports, the following have been reported in patients receiving tranexamic acid for various indications:
 
 - Nausea, vomiting, and diarrhea
 - Allergic skin reactions
