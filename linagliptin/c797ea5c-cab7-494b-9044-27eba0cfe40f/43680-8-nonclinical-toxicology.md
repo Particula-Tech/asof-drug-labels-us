@@ -9,4 +9,4 @@ Higher doses of linagliptin in female mice (80 mg/kg) increased the incidence of
 
 Linagliptin was not mutagenic or clastogenic with or without metabolic activation in the Ames bacterial mutagenicity assay, a chromosomal aberration test in human lymphocytes, and an in vivo micronucleus assay.
 
-In fertility studies in rats, linagliptin had no adverse effects on early embryonic development, mating, fertility, or bearing live young up to the highest dose of 240 mg/kg (approximately 943 times the clinical dose based on AUC exposure).
+In fertility studies in rats, linagliptin had no adverse effects on early embryonic development, mating, fertility, or bearing live young up to the highest dose of 240 mg/kg (approximately 943-times the clinical dose based on AUC exposure).

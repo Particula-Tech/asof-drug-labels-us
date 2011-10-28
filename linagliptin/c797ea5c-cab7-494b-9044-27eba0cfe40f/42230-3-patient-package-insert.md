@@ -56,7 +56,7 @@ How should I take TRADJENTA?
   See “What are the possible side effects of TRADJENTA?”
 - If you take too much TRADJENTA, call your doctor or Poison Control Center at 1-800-222-1222 or go to the nearest hospital emergency room right away.
 - When your body is under some types of stress, such as fever, trauma (such as a car accident), infection, or surgery, the amount of diabetes medicine that you need may change.
-  Tell your doctor right away if you have any of these conditions and follow your doctor’s instructions.
+  Tell your doctor right away if you have any of these conditions and follow your doctor's instructions.
 - Check your blood sugar as your doctor tells you to.
 - Stay on your prescribed diet and exercise program while taking TRADJENTA.
 - Talk to your doctor about how to prevent, recognize and manage low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and complications of diabetes.
@@ -121,7 +121,7 @@ The film coating contains the following inactive ingredients: hypromellose, tita
 
 What is type 2 diabetes?
 
-Type 2 diabetes is a condition in which your body does not make enough insulin, and or the insulin that your body produces does not work as well as it should.
+Type 2 diabetes is a condition in which your body does not make enough insulin, and/or the insulin that your body produces does not work as well as it should.
 Your body can also make too much sugar.
 When this happens, sugar (glucose) builds up in the blood.
 This can lead to serious medical problems.
@@ -141,8 +141,10 @@ Licensed from: Boehringer Ingelheim International GmbH Ingelheim, Germany
 
 Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5253BE211 10007261/01
+IT5253DG132011 10007261/02
 
-IT5437BE211 10007237/01
+IT5437D 10007237/02
 
-Revised May 2011
+IT5520A 10007443/01
+
+Revised July 2011

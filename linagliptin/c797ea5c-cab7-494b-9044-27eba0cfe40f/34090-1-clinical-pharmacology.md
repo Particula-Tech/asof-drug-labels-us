@@ -6,20 +6,20 @@ Linagliptin is an inhibitor of DPP-4, an enzyme that degrades the incretin hormo
 Thus, linagliptin increases the concentrations of active incretin hormones, stimulating the release of insulin in a glucose-dependent manner and decreasing the levels of glucagon in the circulation.
 Both incretin hormones are involved in the physiological regulation of glucose homeostasis.
 Incretin hormones are secreted at a low basal level throughout the day and levels rise immediately after meal intake.
-GLP-1 and GIP increase insulin biosynthesis and secretion from pancreatic beta cells in the presence of normal and elevated blood glucose levels.
-Furthermore, GLP-1 also reduces glucagon secretion from pancreatic alpha cells, resulting in a reduction in hepatic glucose output.
+GLP-1 and GIP increase insulin biosynthesis and secretion from pancreatic beta-cells in the presence of normal and elevated blood glucose levels.
+Furthermore, GLP-1 also reduces glucagon secretion from pancreatic alpha-cells, resulting in a reduction in hepatic glucose output.
 
 ## 12.2 Pharmacodynamics
 
 Linagliptin binds to DPP-4 in a reversible manner and thus increases the concentrations of incretin hormones.
-Linagliptin glucose-dependently increases insulin secretion and lowers glucagon secretion thus resulting in a better regulation of the glucose homeostasis.
-Linagliptin binds selectively to DPP-4 and selectively inhibits DPP-4 but not DPP-8 or DPP-9 activity in vitro at concentrations approximating therapeutic exposures.
+Linagliptin glucose-dependently increases insulin secretion and lowers glucagon secretion, thus resulting in better regulation of glucose homeostasis.
+Linagliptin binds selectively to DPP-4, and selectively inhibits DPP-4 but not DPP-8 or DPP-9 activity in vitro at concentrations approximating therapeutic exposures.
 
 ### Cardiac Electrophysiology
 
 In a randomized, placebo-controlled, active-comparator, 4-way crossover study, 36 healthy subjects were administered a single oral dose of linagliptin 5 mg, linagliptin 100 mg (20 times the recommended dose), moxifloxacin, and placebo.
-No increase in QTc was observed with either the recommended dose of 5 mg or the 100 mg dose.
-At the 100-mg dose, peak linagliptin plasma concentrations were approximately 38-fold higher than the peak concentrations following a 5 mg dose.
+No increase in QTc was observed with either the recommended dose of 5 mg or the 100-mg dose.
+At the 100-mg dose, peak linagliptin plasma concentrations were approximately 38-fold higher than the peak concentrations following a 5-mg dose.
 
 ## 12.3 Pharmacokinetics
 
@@ -31,7 +31,7 @@ The prolonged elimination phase does not contribute to the accumulation of the d
 The effective half-life for accumulation of linagliptin, as determined from oral administration of multiple doses of linagliptin 5 mg, is approximately 12 hours.
 After once-daily dosing, steady-state plasma concentrations of linagliptin 5 mg are reached by the third dose, and Cmax and AUC increased by a factor of 1.3 at steady state compared with the first dose.
 The intra-subject and inter-subject coefficients of variation for linagliptin AUC were small (12.6% and 28.5%, respectively).
-Plasma AUC of linagliptin increased in a less than dose proportional manner in the dose range of 1 to 10 mg.
+Plasma AUC of linagliptin increased in a less than dose-proportional manner in the dose range of 1 to 10 mg.
 The pharmacokinetics of linagliptin is similar in healthy subjects and in patients with type 2 diabetes.
 
 ### Absorption
@@ -78,7 +78,7 @@ Results of this study, supported by results of population pharmacokinetic analys
 
 #### Hepatic Impairment
 
-In patients with mild hepatic impairment (Child-Pugh class A) steady-state exposure (AUCτ,ss) of linagliptin was approximately 25% lower and Cmax,ss was approximately 36% lower than in healthy subjects.
+In patients with mild hepatic impairment (Child-Pugh class A), steady-state exposure (AUCτ,ss) of linagliptin was approximately 25% lower and Cmax,ss was approximately 36% lower than in healthy subjects.
 In patients with moderate hepatic impairment (Child-Pugh class B), AUCss of linagliptin was about 14% lower and Cmax,ss was approximately 8% lower than in healthy subjects.
 Patients with severe hepatic impairment (Child-Pugh class C) had comparable exposure of linagliptin in terms of AUC0-24 and approximately 23% lower Cmax compared with healthy subjects.
 Reductions in the pharmacokinetic parameters seen in patients with hepatic impairment did not result in reductions in DPP-4 inhibition.
@@ -133,7 +133,7 @@ Table 2 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | Pioglitazone | 45 mg QD | 10 mg QD | 1.13 | 1.07 |
 | Ritonavir | 200 mg BID | 5 mg# | 2.01 | 2.96 |
 | Rifampin | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
-| *Multiple dose (steady state) unless otherwise noted # Single dose †AUC = AUC(0 to 24 hours) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments QD = once daily BID = twice daily TID = three times daily |  |  |  |  |
+| *Multiple dose (steady state) unless otherwise noted #Single dose †AUC = AUC(0 to 24 hours) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments QD = once daily BID = twice daily TID = three times daily |  |  |  |  |
 
 Table 3 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 
@@ -147,4 +147,4 @@ Table 3 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 | Simvastatin | 40 mg QD | 10 mg QD | simvastatin simvastatin acid | 1.34 1.33 | 1.10 1.21 |
 | Warfarin | 10 mg# | 5 mg QD | R-warfarin S-warfarin INR PT | 0.99 1.03 0.93** 1.03** | 1.00 1.01 1.04** 1.15** |
 | Ethinylestradiol and levonorgestrel | ethinylestradiol 0.03 mg and levonorgestrel 0.150 mg QD | 5 mg QD | ethinylestradiol levonorgestrel | 1.01 1.09 | 1.08 1.13 |
-| * Multiple dose (steady state) unless otherwise noted # Single dose †AUC = AUC(INF) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments **AUC=AUC(0-168) and Cmax=Emax for pharmacodynamic endpoints INR = International Normalized Ratio PT = Prothrombin Time QD = once daily BID = twice daily TID = three times daily |  |  |  |  |  |
+| *Multiple dose (steady state) unless otherwise noted #Single dose †AUC = AUC(INF) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments **AUC=AUC(0-168) and Cmax=Emax for pharmacodynamic endpoints INR = International Normalized Ratio PT = Prothrombin Time QD = once daily BID = twice daily TID = three times daily |  |  |  |  |  |
