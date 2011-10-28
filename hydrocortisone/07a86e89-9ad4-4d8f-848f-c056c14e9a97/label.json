@@ -5,8 +5,10 @@
   "inn": "hydrocortisone",
   "labeler": "Triax Pharmaceuticals, LLC",
   "package_ndcs": [
+    "14290-314-04",
+    "14290-314-18",
     "14290-314-61",
-    "14290-314-62"
+    "14290-314-63"
   ],
   "products": [
     {
