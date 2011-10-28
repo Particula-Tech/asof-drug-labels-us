@@ -11,12 +11,12 @@ Out of 36 patients who entered the study, 31 (86%) patients remained on the 4 mg
 The one patient that was titrated to 6 mg/day discontinued from the study for a non-safety related reason.
 Of the patients who were receiving ANDRODERM 5 mg/day prior to study entry (n = 11), 10 remained at 4 mg/day after titration, and 1 was titrated down to the 2 mg/day dose.
 
-After a total of 28 days of therapy, 34 of the 35 subjects (97%) had serum testosterone Cavg within the normal range during the dosing period, with the lower bound of the 95% confidence interval for this estimate being 85% (Table 4).
+After a total of 28 days of therapy, 34 of the 35 subjects (97%) had serum testosterone Cavg within the normal range during the dosing period, with the lower bound of the 95% confidence interval for this estimate being 85% (Table 3).
 One subject who received ANDRODERM 4 mg/day treatment had serum testosterone Cavg below 300 ng/dL and none had Cavg concentrations above 1030 ng/dL.
 The mean (SD) serum testosterone Cmax following treatment with the 2 mg/day (N = 4) and 4 mg/day (N = 31) systems was 648 (145) ng/dL and 696 (158) ng/dL, respectively.
-Table 4 summarizes testosterone Cavg categories by treatment.
+Table 3 summarizes testosterone Cavg categories by treatment.
 
-| Table 4. Testosterone Cavg Categories on Day 28 after One Titration on Day 15 |  |
+| Table 3. Testosterone Cavg Categories on Day 28 after One Titration on Day 15 |  |
 | --- | --- |
 | Cavg Category | Current Testosterone User N = 35 |
 | 300 - 1030 ng/dL (n (%)) (95% CI) | 34/35 (97%) (85%, 100%) |
@@ -27,6 +27,3 @@ Figure 2 summarizes the pharmacokinetic profiles of total testosterone in 35 pat
 In separate clinical studies using the ANDRODERM 2.5 mg/day system, 1% used 2.5 mg daily, 93% of patients used 5 mg daily, and 6% used 7.5 mg daily.
 The hormonal effects of ANDRODERM 2.5 mg/day system as a treatment for male hypogonadism was demonstrated in four open-label trials that included 94 hypogonadal men, ages 15 to 65 years.
 In these trials, ANDRODERM produced average morning serum testosterone concentrations within the normal reference range in 92% of patients.
-
-Figure 3 shows the mean (SD) steady-state serum testosterone concentrations during nightly application of ANDRODERM 2.5 mg/day systems in 29 hypogonadal male patients, 27 patients used 2 systems nightly and 2 patients used 3 systems nightly.
-Area between the dashed lines shows the 95% confidence interval for the circadian variation observed in healthy men.

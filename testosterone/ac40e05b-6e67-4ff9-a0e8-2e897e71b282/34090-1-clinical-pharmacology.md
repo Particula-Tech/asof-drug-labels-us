@@ -23,30 +23,6 @@ ANDRODERM delivers physiologic amounts of testosterone, producing circulating te
 ANDRODERM provides a continuous daily dose of testosterone in a self-contained transdermal system.
 Following ANDRODERM application, testosterone is continuously absorbed during the 24-hour dosing period with a median (range) Tmax of 8 (4-12) hours.
 
-In a group of 34 hypogonadal men, application of two ANDRODERM 2.5 mg/day systems to the abdomen, back, thighs, or upper arms resulted in average testosterone absorption of 4 to 5 mgs over 24 hours.
-The serum testosterone concentration profiles during application were similar for these sites (Table 3).
-Applications to the chest and shins resulted in greater inter-individual variability and average 24 hour absorption of 3 to 4 mgs.
-
-Table 3: Mean serum testosterone concentrations (ng/dL) measured during single-dose applications of two ANDRODERM 2.5 mg/day systems applied at night to different sites in 34 hypogonadal men.
-
-| Sample Time (hr) | Abdomen |  | Back |  | Thigh |  | Upper Arm |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mean | SD | Mean | SD | Mean | SD | Mean | SD |  |
-| 0 | 90 | 82 | 80 | 74 | 85 | 76 | 81 | 69 |
-| 3 | 286 | 201 | 429 | 252 | 271 | 201 | 308 | 226 |
-| 6 | 476 | 236 | 608 | 250 | 489 | 254 | 468 | 245 |
-| 9 | 570 | 234 | 613 | 214 | 592 | 251 | 534 | 204 |
-| 12 | 575 | 244 | 588 | 233 | 594 | 247 | 527 | 199 |
-| 24 | 352 | 164 | 403 | 174 | 367 | 161 | 332 | 124 |
-
-In a steady-state study of 12 hypogonadal men, nightly application of 1, 2, or 3 ANDRODERM 2.5 mg/day systems resulted in increases in the mean morning serum testosterone concentrations.
-These concentrations averaged 424 ng/dL, 584 ng/dL, and 766 ng/dL with the application of 1, 2, and 3 systems, respectively.
-The mean baseline serum testosterone concentration was 76 ng/dL.
-
-In a study of 20 hypogonadal patients, two ANDRODERM 2.5 mg/day systems and a single ANDRODERM 5 mg/day system produced equivalent serum testosterone concentration profiles.
-Average steady-state concentrations over 24 hours (Cssavg) were 613 ± 169 ng/dL and 621 ± 176 ng/dL for the two 2.5 mg/day and single 5 mg/day systems, respectively.
-Cmax values were 925 ± 340 ng/dL for the two 2.5 mg/day systems and 905 ± 254 ng/dL for the single 5 mg/day system.
-
 Distribution
 
 Circulating testosterone is primarily bound in the serum to sex hormone-binding globulin (SHBG) and albumin.

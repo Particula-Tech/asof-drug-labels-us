@@ -63,7 +63,7 @@ Keep a list of them and show it to your healthcare provider and pharmacist when 
 How should I use ANDRODERM?
 
 - It is important that you apply ANDRODERM exactly as your healthcare provider tells you to.
-- ANDRODERM patches come in 4 different doses and different patch sizes.
+- ANDRODERM patches come in 2 different doses and different patch sizes.
 - Your healthcare provider will tell you how many ANDRODERM patches to apply and when to apply them.
 - Your healthcare provider may change your ANDRODERM dose.
   Do not change your ANDRODERM dose without talking with your healthcare provider.
@@ -87,7 +87,7 @@ Applying ANDRODERM:
 - ANDRODERM is to be applied to your back, stomach area (abdomen), upper arms, or thighs only (See Figure A and Figure B). Do not apply ANDRODERM to any other parts of your body such as your scrotum, buttocks or over a bony area.
 
 - Maintain Normal Activities: A patch applied to clean, dry skin will remain in place during normal activities.
-  ANDRODERM may be worn during sex.
+  ANDRODERMmay be worn during sex.
   Also, contact with water, such as showering or swimming, 3 hours after application will not affect the patch.
   Strenuous exercise or excessive perspiration may loosen a patch or cause it to fall off.
 - What to Do if a Patch Becomes Loose, or Falls Off: If the patch becomes loose, smooth it down again by rubbing your finger firmly around the edges.
@@ -95,10 +95,10 @@ Applying ANDRODERM:
   If it falls off later in the day, do not replace it until you apply a fresh patch(es) that evening.
   If a patch falls off do not tape it to skin.
 
-| 1. Open the pouch. Tear along the edge along the edge and remove the patch from the pouch (See Figure C). Do not cut the ANDRODERM protective pouch. |  |  |  |
+| 1. Open the foil pouch. Tear along the edge and remove the patch from the pouch (See Figure C). Do not cut the ANDRODERM protective pouch. |  |  |  |
 | --- | --- | --- | --- |
 | 2. Remove the protective plastic liner and silver disc from the patch. Hold on to the tabs on the patch and the protective plastic liner and gently pull the two apart to remove the plastic liner and silver disc from the patch (See Figure D).This will expose the adhesive and central reservoir area on the patch (See Figure E). The patch should separate easily from the protective liner. Throw away the patch if the liner is hard to remove. There should not be any adhesive (glue) sticking to the liner.Throw away the clear plastic liner and silver disc. |  |  |  |
-| 3. Apply the patch. Apply the patch right away after you remove the patch from the protecive pouch and remove the plastic liner. Place the patch flat on the skin with the sticky side down and firmly press around the edges. Make sure that the patch sticks well to the skin. |  |  |  |
+| 3. Apply the patch. Apply the patch right away after you remove the patch from the protective pouch and remove the plastic liner. Place the patch flat on the skin with the sticky side down and firmly press around the edges. Make sure that the patch sticks well to the skin. |  |  |  |
 
 What are the possible side effects of ANDRODERM?
 
@@ -178,8 +178,12 @@ Inactive ingredients:
 - Disc: a five-layer laminate containing polyester/polyesturethane adhesive/aluminum foil/polyester-urethane adhesive/polyethylene
 - Release Liner: a silicone-coated polyester film, which is removed before the system can be used
 
+For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 800-272-5525
+
+Manufactured By: Watson Laboratories, Inc. Salt Lake City, UT 84108 USA
+
 Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-This Patient Information has been approved by the U.S. Food and Drug Administration
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Issued: 10/2011
+Issued: 10/2011 196664-00

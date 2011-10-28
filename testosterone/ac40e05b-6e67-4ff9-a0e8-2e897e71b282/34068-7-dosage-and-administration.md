@@ -2,14 +2,9 @@
 
 ## 2.1 Dosing Information
 
-ANDRODERM 2 mg/day and 4 mg/day system: The recommended starting dose is one ANDRODERM 4 mg/day system (not two 2 mg/day systems) applied nightly for 24 hours, delivering approximately 4 mg of testosterone per day.
+The recommended starting dose is one ANDRODERM 4 mg/day system (not two 2 mg/day systems) applied nightly for 24 hours, delivering approximately 4 mg of testosterone per day.
 To ensure proper dosing, approximately 2 weeks after starting therapy, the early morning serum testosterone concentration should be measured following system application the previous evening.
 Serum concentrations outside the range of 400 - 930 ng/dL require increasing the daily dose to 6 mg (i.e., one 4 mg/day and one 2 mg/day system) or decreasing the daily dose to 2 mg (i.e., one 2 mg/day system), maintaining nightly application.
-
-ANDRODERM 2.5 mg/day and 5 mg/day system: The recommended starting dose is one ANDRODERM 5 mg/day system (or two 2.5 mg/day systems) applied nightly for 24 hours, delivering approximately 5 mg of testosterone per day.
-To ensure proper dosing, approximately 2 weeks after starting therapy the early morning serum testosterone concentration should be measured following system application the previous evening.
-If the serum concentration is outside the normal range (300 - 1030 ng/dL), sampling should be repeated with assurance of proper system adhesion as well as appropriate application time.
-Confirmed serum concentrations outside the normal range requires increasing the daily dose to 7.5 mg (i.e., one 5 mg/day and one 2.5 mg/day system) or decreasing the daily dose to 2.5 mg (i.e., one 2.5 mg/day system), maintaining nightly application.
 
 Patients Switching from ANDRODERM 2.5 mg/day, 5 mg/day, and 7.5 mg/day system to ANDRODERM 2 mg/day, 4 mg/day, and 6 mg/day system: Patients currently maintained on ANDRODERM 2.5 mg/day, 5 mg/day, and 7.5 mg/day may be switched to the 2 mg/day, 4 mg/day, and 6 mg/day dosage using the following schema:
 

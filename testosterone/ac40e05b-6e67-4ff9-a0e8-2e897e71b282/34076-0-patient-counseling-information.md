@@ -30,7 +30,7 @@ Patients should be informed that treatment with androgens may lead to adverse re
   If it falls off later in the day, do not replace it until you apply a fresh patch(es) that evening.
   If it falls off do not tape ANDRODERM to skin.
 - If patients or caregivers experience difficulty separating the patch from the release liner or observe transfer of adhesive to the liner, tearing and/or other damage to the patch during removal from the liner, the patch should be discarded, and a new patch should be applied.
-- Androderm should be applied immediately after opening the individual pouch and removing the protective liner.
+- ANDRODERM should be applied immediately after opening the individual pouch and removing the protective liner.
   Do not use if the individual pouch seal is broken or if the patch appears to be damaged.
   Do not cut patches.
   Only intact patches should be applied.
