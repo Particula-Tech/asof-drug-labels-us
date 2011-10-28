@@ -4,26 +4,15 @@ In elderly patients the pharmacokinetics of metronidazole may be altered and the
 
 ## TREATMENT OF ANAEROBIC INFECTIONS
 
-The recommended dosage schedule for adults is:
+The recommended dosage schedule for Adults is:
 
 | Loading Dose | 15 mg/kg infused over one hour (approximately 1 g for a 70-kg adult). |
 | --- | --- |
 | Maintenance Dose | 7.5 mg/kg infused over one hour every six hours (approximately 500 mg for a 70-kg adult). The first maintenance dose should be instituted six hours following the initiation of the loading dose. |
 
-Parenteral therapy may be changed to oral metronidazole when conditions warrant, based upon the severity of the disease and the response of the patient to Metronidazole Injection USP treatment.
-The usual adult oral dosage is 7.5 mg/kg every six hours.
-
-A maximum of 4 g should not be exceeded during a 24-hour period.
-
 Patients with severe hepatic disease metabolize metronidazole slowly, with resultant accumulation of metronidazole and its metabolites in the plasma.
 Accordingly, for such patients, doses below those usually recommended should be administered cautiously.
-Close monitoring of plasma metronidazole levelsRalph ED, Kirby WMM: Bioassay of Metronidazole With Either Anaerobic or Aerobic Incubation, J. Infect.
-Dis.
-132:587–591 (Nov.)
-1975, or Gulaid, et al.: Determination of Metronidazole and its Major Metabolites in Biological Fluids by High Pressure Liquid Chromatography, Br.
-J. Clin.
-Pharmacol.
-6:430–432, 1978. and toxicity is recommended.
+Close monitoring of plasma metronidazole levels and toxicity is recommended.2
 
 In patients receiving metronidazole injection in whom gastric secretions are continuously removed by nasogastric aspiration, sufficient metronidazole may be removed in the aspirate to cause a reduction in serum levels.
 
@@ -41,11 +30,16 @@ For surgical prophylactic use, to prevent postoperative infection in contaminate
 It is important that (1) administration of the initial preoperative dose be completed approximately one hour before surgery so that adequate drug levels are present in the serum and tissues at the time of initial incision, and (2) Metronidazole Injection USP be administered, if necessary, at 6-hour intervals to maintain effective drug levels.
 Prophylactic use of Metronidazole Injection USP should be limited to the day of surgery only, following the above guidelines.
 
-Caution: Metronidazole Injection USP is to be administered by slow intravenous drip infusion only, either as a continuous or intermittent infusion.
+Parenteral therapy may be changed to oral metronidazole when conditions warrant, based upon the severity of the disease and the response of the patient to treatment with Metronidazole Injection USP.
+The usual adult oral dosage is 7.5 mg/kg every six hours.
+
+A maximum of 4 g should not be exceeded during a 24-hour period.
+
+CAUTION: Metronidazole Injection USP is to be administered by slow intravenous drip infusion only, either as a continuous or intermittent infusion.
 IV admixtures containing metronidazole and other drugs should be avoided.
-Additives should not be introduced into the Metronidazole Injection USP solution.
+Additives should not be introduced into this solution.
 If used with a primary intravenous fluid system, the primary solution should be discontinued during metronidazole infusion.
-DO NOT USE EQUIPMENT CONTAINING ALUMINUM (E.G., NEEDLES, CANNULAE, ETC.) THAT MAY CONTACT THE DRUG SOLUTION.
+DO NOT USE EQUIPMENT CONTAINING ALUMINUM (E.G., NEEDLES, CANNULAE) THAT WOULD COME IN CONTACT WITH THE DRUG SOLUTION.
 
 Metronidazole Injection USP is a ready-to-use isotonic solution.
 NO DILUTION OR BUFFERING IS REQUIRED.

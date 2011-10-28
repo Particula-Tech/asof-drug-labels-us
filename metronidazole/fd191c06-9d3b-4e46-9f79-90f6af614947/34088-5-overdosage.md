@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Use of dosages of metronidazole higher than those recommended has been reported.
+The use of dosages of metronidazole higher than those recommended has been reported.
 These include the use of 27 mg/kg three times a day for 20 days, and the use of 75 mg/kg as a single loading dose followed by 7.5 mg/kg maintenance doses.
 No adverse reactions were reported in either of the two cases.
 
@@ -12,4 +12,4 @@ Neurotoxic effects, including seizures and peripheral neuropathy, have been repo
 
 ## TREATMENT
 
-There is no specific antidote for overdose, therefore, management of the patient should consist of symptomatic and supportive therapy.
+There is no specific antidote for overdose; therefore, management of the patient should consist of symptomatic and supportive therapy.

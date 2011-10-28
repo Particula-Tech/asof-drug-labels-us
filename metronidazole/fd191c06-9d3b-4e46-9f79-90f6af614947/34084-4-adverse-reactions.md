@@ -1,9 +1,9 @@
 # ADVERSE REACTIONS
 
-The two most serious adverse reactions reported in patients treated with metronidazole have been convulsive seizures and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity.
+The most serious adverse reactions reported in patients treated with metronidazole injection have been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity.
 Since persistent peripheral neuropathy has been reported in some patients receiving prolonged oral administration of metronidazole, patients should be observed carefully if neurologic symptoms occur and a prompt evaluation made of the benefit/risk ratio of the continuation of therapy.
 
-The following reactions have also been reported during treatment with intravenous metronidazole:
+The following reactions have also been reported during treatment with metronidazole injection:
 
 GASTROINTESTINAL: Nausea, vomiting, abdominal discomfort, diarrhea, and an unpleasant metallic taste.
 
@@ -11,7 +11,7 @@ HEMATOPOIETIC: Reversible neutropenia (leukopenia).
 
 DERMATOLOGIC: Erythematous rash and pruritus.
 
-CENTRAL NERVOUS SYSTEM: Headache, dizziness, syncope, ataxia and confusion.
+CENTRAL NERVOUS SYSTEM: Encephalopathy, aseptic meningitis, convulsive seizures, optic neuropathy, peripheral neuropathy, dizziness, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia.
 
 LOCAL REACTIONS: Thrombophlebitis after intravenous infusion.
 This reaction can be minimized or avoided by avoiding prolonged use of indwelling intravenous catheters.
@@ -25,19 +25,20 @@ The following adverse reactions have been reported during treatment with oral me
 GASTROINTESTINAL: Nausea, sometimes accompanied by headache, anorexia, and occasionally vomiting, diarrhea, epigastric distress, abdominal cramping, and constipation.
 
 MOUTH: A sharp, unpleasant metallic taste is not unusual.
-Furry tongue, glossitis, stomatitis have occurred; these may be associated with a sudden overgrowth of Candida which may occur during effective therapy.
+Furry tongue, glossitis, and stomatitis have occurred; these may be associated with a sudden overgrowth of Candida which may occur during effective therapy.
 
 HEMATOPOIETIC: Reversible neutropenia (leukopenia); rarely, reversible thrombocytopenia.
 
 CARDIOVASCULAR: Flattening of the T-wave may be seen in electrocardiographic tracings.
 
-CENTRAL NERVOUS SYSTEM: Convulsive seizures, peripheral neuropathy, dizziness, vertigo, incoordination, ataxia, confusion, irritability, depression, weakness, and insomnia.
+CENTRAL NERVOUS SYSTEM: Encephalopathy, aseptic meningitis, convulsive seizures, optic neuropathy, peripheral neuropathy, dizziness, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia.
 
-HYPERSENSITIVITY: Urticaria, erythematous rash, flushing, nasal congestion, dryness of mouth (or vagina or vulva), and fever.
+HYPERSENSITIVITY: Urticaria, erythematous rash, Stevens-Johnson Syndrome, flushing, nasal congestion, dryness of mouth (or vagina or vulva), and fever.
 
 RENAL: Dysuria, cystitis, polyuria, incontinence, a sense of pelvic pressure, and darkened urine.
 
-OTHER: Proliferation of Candida in the vagina, dyspareunia, decrease of libido, proctitis, and fleeting joint pains sometimes resembling "serum sickness".
+OTHER: Hiccup.
+Proliferation of Candida in the vagina, dyspareunia, decrease of libido, proctitis, and fleeting joint pains sometimes resembling "serum sickness".
 If patients receiving metronidazole drink alcoholic beverages, they may experience abdominal distress, nausea, vomiting, flushing, or headache.
 A modification of the taste of alcoholic beverages has also been reported.
 

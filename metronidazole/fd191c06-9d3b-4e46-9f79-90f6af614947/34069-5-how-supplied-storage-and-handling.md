@@ -4,8 +4,7 @@ Metronidazole Injection USP, sterile, is supplied in 100 mL PAB® plastic contai
 
 | NDC | Cat. No. | Size |
 | --- | --- | --- |
-| Metronidazole Injection USP |  |  |
-| 0264-5535-32 | D5353-5224 | 100 mL |
+| Metronidazole Injection USP 0264-5535-32 | D5353-5224 | 100 mL |
 
 Exposure of pharmaceutical products to heat should be minimized.
 Avoid excessive heat.

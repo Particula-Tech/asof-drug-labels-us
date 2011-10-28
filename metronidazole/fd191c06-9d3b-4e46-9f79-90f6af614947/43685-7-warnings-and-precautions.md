@@ -1,15 +1,13 @@
 # WARNINGS
 
-## CONVULSIVE SEIZURES AND PERIPHERAL NEUROPATHY
+## CENTRAL AND PERIPHERAL NERVOUS SYSTEM EFFECTS
 
-Convulsive seizures and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with metronidazole.
+Convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with metronidazole.
 The appearance of abnormal neurologic signs demands the prompt evaluation of the benefit/risk ratio of the continuation of therapy.
 
 # PRECAUTIONS
 
 ## GENERAL
-
-Prescribing Metronidazole Injection USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 Patients with severe hepatic disease metabolize metronidazole slowly, with resultant accumulation of metronidazole and its metabolites in the plasma.
 Accordingly, for such patients, doses below those usually recommended should be administered cautiously.
@@ -19,17 +17,19 @@ Care should be taken when administering Metronidazole Injection USP to patients 
 
 Known or previously unrecognized candidiasis may present more prominent symptoms during therapy with Metronidazole Injection USP and requires treatment with a candicidal agent.
 
+Prescribing Metronidazole Injection USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+
 ## INFORMATION FOR PATIENTS
 
 Patients should be counseled that antibacterial drugs including Metronidazole Injection USP should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Metronidazole Injection USP is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+When Metronidazole Injection USP is prescribed to treat bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Metronidazole Injection USP or other antibacterial drugs in the future.
 
 ## LABORATORY TESTS
 
 Metronidazole is a nitroimidazole, and Metronidazole Injection USP should be used with caution in patients with evidence of or history of blood dyscrasia.
-A mild leukopenia has been observed during metronidazole administration; however, no persistent hematologic abnormalities attributable to metronidazole have been observed in clinical studies.
+A mild leukopenia has been observed during its administration; however, no persistent hematologic abnormalities attributable to metronidazole have been observed in clinical studies.
 Total and differential leukocyte counts are recommended before and after therapy.
 
 ## DRUG INTERACTIONS
@@ -50,7 +50,7 @@ Metronidazole should not be given to patients who have taken disulfiram within t
 
 Metronidazole may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides, and hexokinase glucose.
 Values of zero may be observed.
-All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation-reduction of nicotinamide adenine dinucleotide (NAD NADH).
+All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation-reduction of nicotinamide adenine dinucleotide (NAD+ NADH).
 Interference is due to the similarity in absorbance peaks of NADH (340 nm) and metronidazole (322 nm) at pH 7.
 
 ## CARCINOGENESIS, MUTAGENESIS, IMPAIRMENT OF FERTILITY
@@ -62,20 +62,18 @@ Also, metronidazole has shown mutagenic activity in a number of in vitro assay s
 
 ## PREGNANCY
 
-### Teratogenic Effects
-
-#### Pregnancy Category B
+### Teratogenic Effects-Pregnancy Category B
 
 Metronidazole crosses the placental barrier and enters the fetal circulation rapidly.
 Reproduction studies have been performed in rats at doses up to five times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to metronidazole.
 Metronidazole administered intraperitoneally to pregnant mice at approximately the human dose caused fetotoxicity; administered orally to pregnant mice, no fetotoxicity was observed.
 There are, however, no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, and because metronidazole is a carcinogen in rodents, this drug should be used during pregnancy only if clearly needed.
+Because animal reproduction studies are not always predictive of human response, and because metronidazole is a carcinogen in rodents, this drug should be used during pregnancy only if clearly needed (see CONTRAINDICATIONS).
 
 ## NURSING MOTHERS
 
-Because of the potential for tumorigenicity shown for metronidazole in mouse and rat studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 Metronidazole is secreted in human milk in concentrations similar to those found in plasma.
+Because of the potential for tumorigenicity shown for metronidazole in mouse and rat studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## PEDIATRIC USE
 
