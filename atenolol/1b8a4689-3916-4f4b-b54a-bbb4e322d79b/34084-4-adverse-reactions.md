@@ -5,7 +5,7 @@ The frequency estimates in the following table were derived from controlled stud
 The reported frequency of elicited adverse effects was higher for both atenolol and placebo-treated patients than when these reactions were volunteered.
 Where frequency of adverse effects of atenolol and placebo is similar, causal relationship to atenolol is uncertain.
 
-|  | Volunteered (U.S. Studies) |  | Total - Volunteered and Elicited (Foreign+U.S. Studies) |  |
+|  | Volunteered (U.S. Studies) |  | Total – Volunteered and Elicited (Foreign+U.S. Studies) |  |
 | --- | --- | --- | --- | --- |
 | Atenolol (n=164) % | Placebo (n=206) % | Atenolol (n=399) % | Placebo (n=407) % |  |
 | CARDIOVASCULAR |  |  |  |  |
@@ -30,9 +30,7 @@ Where frequency of adverse effects of atenolol and placebo is similar, causal re
 | Wheeziness | 0 | 0 | 3 | 3 |
 | Dyspnea | 0.6 | 1 | 6 | 4 |
 
-## Acute Myocardial Infarction
-
-In a series of investigations in the treatment of acute myocardial infarction, bradycardia and hypotension occurred more commonly, as expected for any beta-blocker, in atenolol-treated patients than in control patients.
+Acute Myocardial Infarction In a series of investigations in the treatment of acute myocardial infarction, bradycardia and hypotension occurred more commonly, as expected for any beta-blocker, in atenolol-treated patients than in control patients.
 However, these usually responded to atropine and/or to withholding further dosage of atenolol.
 The incidence of heart failure was not increased by atenolol.
 Inotropic agents were infrequently used.
@@ -63,9 +61,9 @@ In a study of 477 patients, the following adverse events were reported during ei
 
 In the subsequent International Study of Infarct Survival (ISIS-1) including over 16,000 patients of whom 8,037 were randomized to receive atenolol treatment, the dosage of intravenous and subsequent oral atenolol was either discontinued or reduced for the following reasons:
 
-|  | Reasons for Reduced Dosage |  |  |  |
-| --- | --- | --- | --- | --- |
 | IV Atenolol Reduced Dose (< 5 mg)* |  | Oral Partial Dose |  |  |
+| --- | --- | --- | --- | --- |
+|  | Reasons for Reduced Dosage |  |  |  |
 | Hypotension/Bradycardia | 105 | (1.3%) | 1168 | (14.5%) |
 | Cardiogenic Shock | 4 | (.04%) | 35 | (.44%) |
 | Reinfarction | 0 | (0%) | 5 | (.06%) |
@@ -74,14 +72,11 @@ In the subsequent International Study of Infarct Survival (ISIS-1) including ove
 | Cardiac Failure | 1 | (.01%) | 233 | (2.9%) |
 | Arrhythmias | 3 | (.04%) | 22 | (.27%) |
 | Bronchospasm | 1 | (.01%) | 50 | (.62%) |
-| *Full dosage was 10 mg and some patients received less than 10 mg but more than 5 mg. |  |  |  |  |
 
+*Full dosage was 10 mg and some patients received less than 10 mg but more than 5 mg.
 During postmarketing experience with atenolol, the following have been reported in temporal relationship to the use of the drug: elevated liver enzymes and/or bilirubin, hallucinations, headache, impotence, Peyronie's disease, postural hypotension which may be associated with syncope, psoriasiform rash or exacerbation of psoriasis, psychoses, purpura, reversible alopecia, thrombocytopenia, visual disturbance, sick sinus syndrome, and dry mouth.
 Atenolol, like other beta-blockers, has been associated with the development of antinuclear antibodies (ANA), lupus syndrome, and Raynaud’s phenomenon.
-
-## POTENTIAL ADVERSE EFFECTS
-
-In addition, a variety of adverse effects have been reported with other beta-adrenergic blocking agents, and may be considered potential adverse effects of atenolol.
+POTENTIAL ADVERSE EFFECTS In addition, a variety of adverse effects have been reported with other beta-adrenergic blocking agents, and may be considered potential adverse effects of atenolol.
 Hematologic: Agranulocytosis.
 Allergic: Fever, combined with aching and sore throat, laryngospasm, and respiratory distress.
 Central Nervous System: Reversible mental depression progressing to catatonia; an acute reversible syndrome characterized by disorientation of time and place; short-term memory loss; emotional lability with slightly clouded sensorium; and, decreased performance on neuropsychometrics.

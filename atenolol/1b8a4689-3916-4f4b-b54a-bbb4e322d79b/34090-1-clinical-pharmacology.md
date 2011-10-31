@@ -2,10 +2,7 @@
 
 Atenolol is a beta 1 -selective (cardioselective) beta-adrenergic receptor blocking agent without membrane stabilizing or intrinsic sympathomimetic (partial agonist) activities.
 This preferential effect is not absolute, however, and at higher doses, atenolol inhibits beta 2 -adrenoreceptors, chiefly located in the bronchial and vascular musculature.
-
-## Pharmacokinetics and Metabolism
-
-In man, absorption of an oral dose is rapid and consistent but incomplete.
+Pharmacokinetics and Metabolism In man, absorption of an oral dose is rapid and consistent but incomplete.
 Approximately 50% of an oral dose is absorbed from the gastrointestinal tract, the remainder being excreted unchanged in the feces.
 Peak blood levels are reached between two (2) and four (4) hours after ingestion.
 Unlike propranolol or metoprolol, but like nadolol, atenolol undergoes little or no metabolism by the liver, and the absorbed portion is eliminated primarily by renal excretion.
@@ -18,10 +15,7 @@ Declines from peak levels are rapid (5- to 10-fold) during the first 7 hours; th
 Following oral doses of 50 mg or 100 mg, both beta-blocking and antihypertensive effects persist for at least 24 hours.
 When renal function is impaired, elimination of atenolol is closely related to the glomerular filtration rate; significant accumulation occurs when the creatinine clearance falls below 35 mL/min/1.73 m 2 .
 (See DOSAGE AND ADMINISTRATION .)
-
-## Pharmacodynamics
-
-In standard animal or human pharmacological tests, beta-adrenoreceptor blocking activity of atenolol has been demonstrated by: (1) reduction in resting and exercise heart rate and cardiac output, (2) reduction of systolic and diastolic blood pressure at rest and on exercise, (3) inhibition of isoproterenol induced tachycardia, and (4) reduction in reflex orthostatic tachycardia.
+Pharmacodynamics In standard animal or human pharmacological tests, beta-adrenoreceptor blocking activity of atenolol has been demonstrated by: (1) reduction in resting and exercise heart rate and cardiac output, (2) reduction of systolic and diastolic blood pressure at rest and on exercise, (3) inhibition of isoproterenol induced tachycardia, and (4) reduction in reflex orthostatic tachycardia.
 A significant beta-blocking effect of atenolol, as measured by reduction of exercise tachycardia, is apparent within one hour following oral administration of a single dose.
 This effect is maximal at about 2 to 4 hours, and persists for at least 24 hours.
 Maximum reduction in exercise tachycardia occurs within 5 minutes of an intravenous dose.
@@ -61,9 +55,6 @@ Indeed, the trial protocol reflected that judgment by excluding patients with bl
 The overall results of the study are compatible with the possibility that patients with borderline blood pressure (less than 120 mmHg systolic), especially if over 60 years of age, are less likely to benefit.
 The mechanism through which atenolol improves survival in patients with definite or suspected acute myocardial infarction is unknown, as is the case for other beta-blockers in the postinfarction setting.
 Atenolol, in addition to its effects on survival, has shown other clinical benefits including reduced frequency of ventricular premature beats, reduced chest pain, and reduced enzyme elevation.
-
-## Atenolol Geriatric Pharmacology
-
-In general, elderly patients present higher atenolol plasma levels with total clearance values about 50% lower than younger subjects.
+Atenolol Geriatric Pharmacology In general, elderly patients present higher atenolol plasma levels with total clearance values about 50% lower than younger subjects.
 The half-life is markedly longer in the elderly compared to younger subjects.
 The reduction in atenolol clearance follows the general trend that the elimination of renally excreted drugs is decreased with increasing age.
