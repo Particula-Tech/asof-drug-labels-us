@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA200292"
+  ],
+  "inn": "donepezil",
+  "labeler": "Solco Healthcare US LLC",
+  "package_ndcs": [
+    "43547-275-03",
+    "43547-275-09",
+    "43547-275-11",
+    "43547-276-03",
+    "43547-276-09",
+    "43547-276-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "donepezil hydrochloride",
+      "name": "donepezil hydrochloride"
+    }
+  ],
+  "setid": "042a59ea-131a-4806-b0f4-2f791d4414e2",
+  "source": "dailymed"
+}
