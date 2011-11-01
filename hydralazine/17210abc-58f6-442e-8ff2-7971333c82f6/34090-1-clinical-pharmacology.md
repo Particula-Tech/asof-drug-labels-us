@@ -2,7 +2,9 @@
 
 Although the precise mechanism of action of hydralazine is not fully understood, the major effects are on the cardiovascular system.
 Hydralazine apparently lowers blood pressure by exerting a peripheral vasodilating effect through a direct relaxation of vascular smooth muscle.
-Hydralazine, by altering cellular calcium metabolism, interferes with the calcium movements within the vascular smooth muscle that are responsible for initiating or maintaining the contractile state.
+Hydralazine, by altering cellular calcium metabolism, interferes with the calcium movements within the vascular smooth muscle that are responsible for
+
+initiating or maintaining the contractile state.
 
 The peripheral vasodilating effect of hydralazine results in decreased arterial blood pressure (diastolic more than systolic); decreased peripheral vascular resistance; and an increased heart rate, stroke volume, and cardiac output.
 The preferential dilatation of arterioles, as compared to veins, minimizes postural hypotension and promotes the increase in cardiac output.

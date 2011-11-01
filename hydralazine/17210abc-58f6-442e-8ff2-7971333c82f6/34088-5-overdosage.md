@@ -1,16 +1,22 @@
 # OVERDOSAGE
 
-Acute Toxicity: No deaths due to acute poisoning have been reported.
+## Acute Toxicity:
+
+No deaths due to acute poisoning have been reported.
 
 Highest known dose survived: adults, 10 g orally.
 
 Oral LD50 in rats: 173 and 187 mg/kg.
 
-Signs and Symptoms: Signs and symptoms of overdosage include hypotension, tachycardia, headache, and generalized skin flushing.
+## Signs and Symptoms:
+
+Signs and symptoms of overdosage include hypotension, tachycardia, headache, and generalized skin flushing.
 
 Complications can include myocardial ischemia and subsequent myocardial infarction, cardiac arrhythmia, and profound shock.
 
-Treatment: There is no specific antidote.
+## Treatment:
+
+There is no specific antidote.
 
 Support of the cardiovascular system is of primary importance.
 Shock should be treated with plasma expanders.

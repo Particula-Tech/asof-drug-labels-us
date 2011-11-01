@@ -8,11 +8,13 @@ Long-term treatment with steroids may be necessary.
 
 # PRECAUTIONS
 
-General: Myocardial stimulation produced by hydralazine can cause anginal attacks and ECG changes of myocardial ischemia.
+## General
+
+Myocardial stimulation produced by hydralazine can cause anginal attacks and ECG changes of myocardial ischemia.
 The drug has been implicated in the production of myocardial infarction.
 It must, therefore, be used with caution in patients with suspected coronary artery disease.
 
-The ``hyperdynamic′′ circulation caused by hydralazine may accentuate specific cardiovascular inadequacies.
+The “hyperdynamic” circulation caused by hydralazine may accentuate specific cardiovascular inadequacies.
 For example, hydralazine may increase pulmonary artery pressure in patients with mitral valvular disease.
 The drug may reduce the pressor responses to epinephrine.
 Postural hypotension may result from hydralazine but is less common than with ganglionic blocking agents.
@@ -25,7 +27,9 @@ However, as with any antihypertensive agent, hydralazine should be used with cau
 Peripheral neuritis, evidenced by paresthesia, numbness, and tingling, has been observed.
 Published evidence suggests an antipyridoxine effect, and that pyridoxine should be added to the regimen if symptoms develop.
 
-Laboratory Tests: Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic.
+## Laboratory Tests
+
+Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydralazine even though the patient is asymptomatic.
 These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms.
 
 A positive antinuclear antibody titer requires that the physician carefully weigh the implications of the test results against the benefits to be derived from antihypertensive therapy with hydralazine hydrochloride.
@@ -33,12 +37,16 @@ A positive antinuclear antibody titer requires that the physician carefully weig
 Blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, and purpura, have been reported.
 If such abnormalities develop, therapy should be discontinued.
 
-Drug Interactions: MAO inhibitors should be used with caution in patients receiving hydralazine.
+## Drug Interactions
+
+MAO inhibitors should be used with caution in patients receiving hydralazine.
 
 When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure.
 Profound hypotensive episodes may occur when diazoxide injection and hydralazine injection are used concomitantly.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility: In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose).
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose).
 In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group.
 Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group.
 The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment.
@@ -48,15 +56,22 @@ Additional in vivo and in vitro studies using lymphoma cells, germinal cells, an
 The extent to which these findings indicate a risk to man is uncertain.
 While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions.
 
-Pregnancy:Teratogenic effects.
+## Pregnancy
+
+### Teratogenic Effects
+
 Pregnancy Category C: Animal studies indicate that hydralazine is teratogenic in mice at 20-30 times the maximum daily human dose of 200-300 mg and possibly in rabbits at 10-15 times the maximum daily human dose, but that it is nonteratogenic in rats.
 Teratogenic effects observed were cleft palate and malformations of facial and cranial bones.
 
 There are no adequate and well-controlled studies in pregnant women.
 Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus.
 
-Nursing Mothers: It is not known whether this drug is excreted in human milk.
+## Nursing Mothers
+
+It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when hydralazine injection is administered to a nursing woman.
 
-Pediatric Use: Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine hydrochloride in children.
+## Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine hydrochloride in children.
 The usual recommended parenteral dosage, administered intramuscularly or intravenously, is 1.7-3.5 mg/kg of body weight daily, divided into four to six doses.
