@@ -10,14 +10,14 @@ In continued therapy, gradually reduce dosage to the lowest effective maintenanc
 Increase parenteral dosage only if hypotension has not occurred.
 Before using IM, see Important Notes On Injection.
 
-### Elderly Patients
+### ELDERLY PATIENTS
 
 In general, dosages in the lower range are sufficient for most elderly patients.
 Since they appear to be more susceptible to hypotension and neuromuscular reactions, such patients should be observed closely.
 Dosage should be tailored to the individual, response carefully monitored, and dosage adjusted accordingly.
 Dosage should be increased more gradually in elderly patients.
 
-### Psychotic Disorders
+### PSYCHOTIC DISORDERS
 
 Increase dosage gradually until symptoms are controlled.
 Maximum improvement may not be seen for weeks or even months.
@@ -38,7 +38,7 @@ IM: 25 mg (1 mL).
 If necessary, repeat in 1 hour.
 Subsequent doses should be oral, 25-50 mg tid.
 
-### Nausea and Vomiting
+### NAUSEA AND VOMITING
 
 IM: 25 mg (1 mL).
 If no hypotension occurs, give 25 to 50 mg q3-4h prn, until vomiting stops.
@@ -52,21 +52,21 @@ IV: 2 mg per fractional injection, at 2-minute intervals.
 Do not exceed 25 mg.
 Dilute to 1 mg/mL, i.e., 1 mL (25 mg) mixed with 24 mL of saline.
 
-### Presurgical Apprehension
+### PRESURGICAL APPREHENSION
 
 IM: 12.5 to 25 mg (0.5-1 mL), 1 to 2 hours before operation.
 
-### Intractable Hiccups
+### INTRACTABLE HICCUPS
 
 If symptoms persist for 2-3 days after trial with oral therapy, give 25 to 50 mg (1-2 mL) IM.
 Should symptoms persist, use slow IV infusion with patient flat in bed: 25 to 50 mg (1-2 mL) in 500 to 1000 mL of saline.
 Follow blood pressure closely.
 
-### Acute Intermittent Porphyria
+### ACUTE INTERMITTENT PORPHYRIA
 
 IM: 25 mg (1 mL) tid or qid until patient can take oral therapy.
 
-### Tetanus
+### TETANUS
 
 IM:25 to 50 mg (1-2 mL) given 3 or 4 times daily, usually in conjunction with barbiturates.
 Total doses and frequency of administration must be determined by the patient’s response, starting with low doses and increasing gradually.
@@ -78,7 +78,7 @@ Dilute to at least 1 mg per mL and administer at a rate of 1 mg per minute.
 Chlorpromazine should generally not be used in pediatric patients under 6 months of age except where potentially lifesaving.
 It should not be used in conditions for which specific pediatric dosages have not been established.
 
-### Severe Behavioral Problems
+### SEVERE BEHAVIORAL PROBLEMS
 
 #### Outpatients
 
@@ -92,7 +92,7 @@ In severe behavior disorders, higher dosages (50-100 mg daily, and in older chil
 There is little evidence that behavior improvement in severely disturbed mentally retarded patients is further enhanced by doses beyond 500 mg per day.
 Maximum IM Dosage: Patients up to 5 years (or 50 lbs.), not over 40 mg/day;5-12 years (or 50-100 lbs.), not over 75 mg/day except in unmanageable cases.
 
-### Nausea and Vomiting
+### NAUSEA AND VOMITING
 
 Dosage and frequency of administration should be adjusted according to the severity of the symptoms and response of the patient.
 The duration of activity following intramuscular administration may last up to 12 hours.
@@ -107,11 +107,11 @@ Repeat in 1/2 hour if necessary and if no hypotension occurs.
 IV: 1 mg per fractional injection at 2-minute intervals and not exceeding recommended IM dosage.
 Always dilute to 1 mg/mL, i.e., 1 mL (25 mg) mixed with 24 mL of saline.
 
-### Presurgical Apprehension
+### PRESURGICAL APPREHENSION
 
 1/4 mg/lb body weight IM 1 to 2 hours before operation.
 
-### Tetanus
+### TETANUS
 
 IM or IV: 1/4 mg/lb body weight q6-8h.
 When given IV, dilute to at least 1 mg/mL and administer at a rate of 1 mg per 2 minutes.

@@ -1,4 +1,4 @@
-WARNING
+# WARNING
 
 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 

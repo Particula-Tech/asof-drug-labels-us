@@ -3,7 +3,7 @@
     "ANDA083329"
   ],
   "inn": "chlorpromazine",
-  "labeler": "Baxter Healthcare Corporation",
+  "labeler": "West-ward Pharmaceutical Corp.",
   "package_ndcs": [
     "0641-1397-31",
     "0641-1397-35",
@@ -12,9 +12,9 @@
   ],
   "products": [
     {
-      "form": "INJECTION, SOLUTION",
+      "form": "INJECTION",
       "generic": "chlorpromazine hydrochloride",
-      "name": "Chlorpromazine Hydrochloride"
+      "name": "Chlorpromazine hydrochloride"
     }
   ],
   "setid": "c0f1fcfd-8863-4032-bf80-185df60a4ba0",

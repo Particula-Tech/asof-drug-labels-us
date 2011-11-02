@@ -1,52 +1,11 @@
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
-Carton Label
+Chlorpromazine HCI Injection, USP 25 mg/mL, 1 mL Ampul NDC 0641-1397-31
 
-Lot:
+Chlorpromazine HCI Injection, USP 25 mg/mL 25 x 1 mL Ampuls NDC 0641-1397-35
 
-Exp:
+# PRINCIPAL PACKAGE PANEL
 
-NDC 0641-1397-35
+Chlorpromazine HCI Injection, USP 50 mg/2 mL (25 mg/mL) 2 mL Ampul NDC 0641-1398-31
 
-Chlorpromazine HCl Injection, USP
-
-25 mg/mL
-
-Rx only
-
-FOR DEEP INTRAMUSCULAR USE
-
-25 x 1 mL DOSETTE Ampuls
-
-Each mL contains chlorpromazine hydrochloride 25 mg, ascorbic acid 2 mg, sodium metabisulfite 1 mg, sodium sulfite 1 mg and sodium chloride 6 mg in Water for Injection. pH 3.4-5.4.
-
-Usage Dosage: See package insert for complete prescribing information.
-
-PROTECT FROM LIGHT: Keep covered in carton until time of use.
-
-Store at 20°-25°C (68°-77°F), excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
-Protect from freezing.
-
-To open ampuls, ignore color line; break at constriction.
-
-Baxter logo Manufactured by Baxter Healthcare Corporation Deerfield, IL 60015 USA 462-325-00
-
-N 3 0641-1397-35 8
-
-NDC 0641-1397-31
-
-Chlorpromazine HCl Injection, USP
-
-25 mg/mL
-
-Rx only
-
-1 mL DOSETTE Ampul
-
-FOR DEEP IM USE
-
-PROTECT FROM LIGHT
-
-Manufactured by Baxter Deerfield, IL 60015 USA 462-324-00
-
-(01)00306411397310
+Chlorpromazine HCI Injection, USP 50 mg/2 mL (25 mg/mL) 25 x 2 mL Ampuls NDC 0641-1398-35

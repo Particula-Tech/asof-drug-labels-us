@@ -25,7 +25,7 @@ Liver function tests in jaundice induced by the drug may mimic extrahepatic obst
 
 Hematological Disorders, including agranulocytosis, eosinophilia, leukopenia, hemolytic anemia, aplastic anemia, thrombocytopenic purpura and pancytopenia have been reported.
 
-### Agranulocytosis
+### AGRANULOCYTOSIS
 
 Warn patients to report the sudden appearance of sore throat or other signs of infection.
 If white blood cell and differential counts indicate cellular depression, stop treatment and start antibiotic and other suitable therapy.
@@ -36,7 +36,7 @@ Moderate suppression of white blood cells is not an indication for stopping trea
 
 ## Cardiovascular
 
-### Hypotensive Effects
+### HYPOTENSIVE EFFECTS
 
 Postural hypotension, simple tachycardia, momentary fainting and dizziness may occur after the first injection; occasionally after subsequent injections; rarely, after the first oral dose.
 Usually recovery is spontaneous and symptoms disappear within 1/2 to 2 hours.
@@ -47,7 +47,7 @@ To control hypotension, place patient in head-low position with legs raised.
 If a vasoconstrictor is required, norepinephrine and phenylephrine are the most suitable.
 Other pressor agents, including epinephrine, should not be used as they may cause a paradoxical further lowering of blood pressure.
 
-### EKG Changes
+### EKG CHANGES
 
 Particularly nonspecific, usually reversible Q and T wave distortions–have been observed in some patients receiving phenothiazine tranquilizers, including chlorpromazine.
 
@@ -55,7 +55,7 @@ Note: Sudden death, apparently due to cardiac arrest, has been reported.
 
 ## CNS Reactions
 
-### Neuromuscular (Extrapyramidal) Reactions
+### NEUROMUSCULAR (EXTRAPYRAMIDAL) REACTIONS
 
 Neuromuscular reactions include dystonia, motor restlessness, pseudo-parkinsonism and tardive dyskinesia, and appear to be dose-related.
 They are discussed in the following paragraphs:
@@ -104,11 +104,11 @@ If clinically feasible, it is suggested that all antipsychotic agents be discont
 Should it be necessary to reinstitute treatment, or increase the dosage of the agent, or switch to a different antipsychotic agent, the syndrome may be masked.
 It has been reported that fine vermicular movements of the tongue may be an early sign of the syndrome and if the medication is stopped at that time the syndrome may not develop.
 
-### Adverse Behavioral Effects
+### ADVERSE BEHAVIORAL EFFECTS
 
 Psychotic symptoms and catatonic-like states have been reported rarely.
 
-### Other CNS Effects
+### OTHER CNS EFFECTS
 
 Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs.
 (See WARNINGS.)
@@ -143,14 +143,14 @@ Occasional dry mouth; nasal congestion; nausea; obstipation; constipation; adyna
 
 Skin pigmentation and ocular changes have occurred in some patients taking substantial doses of chlorpromazine for prolonged periods.
 
-### Skin Pigmentation
+### SKIN PIGMENTATION
 
 Rare instances of skin pigmentation have been observed in hospitalized mental patients, primarily females who have received the drug usually for 3 years or more in dosages ranging from 500 mg to 1500 mg daily.
 The pigmentary changes, restricted to exposed areas of the body, range from an almost imperceptible darkening of the skin to a slate gray color, sometimes with a violet hue.
 Histological examination reveals a pigment, chiefly in the dermis, which is probably a melanin-like complex.
 The pigmentation may fade following discontinuance of the drug.
 
-### Ocular Changes
+### OCULAR CHANGES
 
 Ocular changes have occurred more frequently than skin pigmentation and have been observed both in pigmented and nonpigmented patients receiving chlorpromazine usually for 2 years or more in dosages of 300 mg daily and higher.
 Eye changes are characterized by deposition of fine particulate matter in the lens and cornea.
@@ -161,7 +161,7 @@ In addition to these corneal and lenticular changes, epithelial keratopathy and 
 Reports suggest that the eye lesions may regress after withdrawal of the drug.
 Since the occurrence of eye changes seems to be related to the dosage levels and/or duration of therapy, it is suggested that long-term patients on moderate to high dosage levels have periodic ocular examinations.
 
-### Etiology
+### ETIOLOGY
 
 The etiology of both of these reactions is not clear, but exposure to light, along with dosage/duration of therapy, appears to be the most significant factor.
 If either of these reactions is observed, the physician should weigh the benefits of continued therapy against the possible risks and, on the merits of the individual case, determine whether or not to continue present therapy, lower the dosage, or withdraw the drug.

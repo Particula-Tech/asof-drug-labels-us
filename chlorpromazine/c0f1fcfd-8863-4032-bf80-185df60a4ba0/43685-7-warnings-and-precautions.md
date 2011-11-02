@@ -66,7 +66,7 @@ Chlorpromazine may counteract the antihypertensive effect of guanethidine and re
 
 ## Pregnancy
 
-### Non-teratogenic Effects
+### NON-TERATOGENIC EFFECTS
 
 Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
