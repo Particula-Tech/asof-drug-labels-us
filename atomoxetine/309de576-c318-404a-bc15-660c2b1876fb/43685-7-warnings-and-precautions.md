@@ -56,34 +56,33 @@ Patients who develop symptoms such as exertional chest pain, unexplained syncope
 
 ## 5.4 Effects on Blood Pressure and Heart Rate
 
-STRATTERA should be used with caution in patients with hypertension, tachycardia, or cardiovascular or cerebrovascular disease because it can increase blood pressure and heart rate.
-Pulse and blood pressure should be measured at baseline, following STRATTERA dose increases, and periodically while on therapy.
+STRATTERA should be used with caution in patients whose underlying medical conditions could be worsened by increases in blood pressure or heart rate such as certain patients with hypertension, tachycardia, or cardiovascular or cerebrovascular disease.
+It should not be used in patients with severe cardiovascular disorders whose condition would be expected to deteriorate if they experienced clinically important increases in blood pressure or heart rate[see Contraindications (4.5)].
+Pulse and blood pressure should be measured at baseline, following STRATTERA dose increases, and periodically while on therapy to detect possible clinically important increases.
 
-In pediatric placebo-controlled trials, STRATTERA-treated subjects experienced a mean increase in heart rate of about 6 beats/minute compared with placebo subjects.
-At the final study visit before drug discontinuation, 2.5% (36/1434) of STRATTERA-treated subjects had heart rate increases of at least 25 beats/minute and a heart rate of at least 110 beats/minute, compared with 0.2% (2/850) of placebo subjects.
-There were 1.1% (15/1417) pediatric STRATTERA-treated subjects with a heart rate increase of at least 25 beats/minute and a heart rate of at least 110 beats/minute on more than one occasion.
-Tachycardia was identified as an adverse event for 0.3% (5/1597) of these pediatric subjects compared with 0% (0/934) of placebo subjects.
+The following table provides short-term, placebo-controlled clinical trial data for the proportions of patients having an increase in: diastolic blood pressure ≥15 mm Hg; systolic blood pressure ≥20 mm Hg; heart rate greater than or equal to 20 bpm, in both the pediatric and adult populations (see Table 1).
+
+Table 1a
+
+|  | Maximumb |  | Endpoint |  | Maximumb |  | Endpoint |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Pediatric Acute Placebo-Controlled |  |  |  | Adult Acute Placebo-Controlled |  |  |  |
+|  | Atomoxetine | Placebo | Atomoxetine | Placebo | Atomoxetine | Placebo | Atomoxetine | Placebo |
+|  | % | % | % | % | % | % | % | % |
+| DBP (≥15 mm Hg) | 21.5 | 14.1 | 9.3 | 4.8 | 12.6 | 8.7 | 4.8 | 3.5 |
+| SBP (≥20 mm Hg) | 12.5 | 8.7 | 4.9 | 3.3 | 12.4 | 7.8 | 4.2 | 3.2 |
+| HR (≥20 bpm) | 23.4 | 11.5 | 12.2 | 3.8 | 22.4 | 8.3 | 10.2 | 2.0 |
+| a Abbreviations: bpm=beats per minute; DBP=diastolic blood pressure; HR=heart rate; mm Hg=millimeters mercury; SBP=systolic blood pressure. b Proportion of patients meeting threshold at any one time during clinical trial. |  |  |  |  |  |  |  |  |
+
+In placebo-controlled registration studies involving pediatric patients, tachycardia was identified as an adverse event for 0.3% (5/1597) of these STRATTERA patients compared with 0% (0/934) of placebo patients.
 The mean heart rate increase in extensive metabolizer (EM) patients was 5.0 beats/minute, and in poor metabolizer (PM) patients 9.4 beats/minute.
 
-STRATTERA-treated pediatric subjects experienced mean increases of about 1.6 and 2.4 mm Hg in systolic and diastolic blood pressures, respectively compared with placebo.
-At the final study visit before drug discontinuation, 4.8% (59/1226) of STRATTERA-treated pediatric subjects had high systolic blood pressure measurements compared with 3.5% (26/748) of placebo subjects.
-High systolic blood pressures were measured on 2 or more occasions in 4.4% (54/1226) of STRATTERA-treated subjects and 1.9% (14/748) of placebo subjects.
-At the final study visit before drug discontinuation, 4.0% (50/1262) of STRATTERA-treated pediatric subjects had high diastolic blood pressure measurements compared with 1.1% (8/759) of placebo subjects.
-High diastolic blood pressures were measured on 2 or more occasions in 3.5% (44/1262) of STRATTERA-treated subjects and 0.5% (4/759) of placebo subjects.
-(High systolic and diastolic blood pressure measurements were defined as those exceeding the 95th percentile, stratified by age, gender, and height percentile - National High Blood Pressure Education Working Group on Hypertension Control in Children and Adolescents.)
-
-In adult placebo-controlled trials, STRATTERA-treated subjects experienced a mean increase in heart rate of 5 beats/minute compared with placebo subjects.
-Tachycardia was identified as an adverse event for 1.5% (8/540) of these adult atomoxetine subjects compared with 0.5% (2/402) of placebo subjects.
-
-STRATTERA-treated adult subjects experienced mean increases in systolic (about 2.0 mm Hg) and diastolic (about 1.0 mm Hg) blood pressures compared with placebo.
-At the final study visit before drug discontinuation, 2.2% (11/510) of STRATTERA-treated adult subjects had systolic blood pressure measurements ≥150 mm Hg compared with 1.0% (4/393) of placebo subjects.
-At the final study visit before drug discontinuation, 0.4% (2/510) of STRATTERA-treated adult subjects had diastolic blood pressure measurements ≥100 mm Hg compared with 0.5% (2/393) of placebo subjects.
-No adult subject had a high systolic or diastolic blood pressure detected on more than one occasion.
+In placebo-controlled registration studies involving adult patients, tachycardia was identified as an adverse event for 1.5% (8/540) of STRATTERA patients compared with 0.5% (2/402) of placebo patients.
 
 Orthostatic hypotension and syncope have been reported in patients taking STRATTERA.
-In child and adolescent trials, 0.2% (12/5596) of STRATTERA-treated patients experienced orthostatic hypotension and 0.8% (46/5596) experienced syncope.
-In short-term child and adolescent controlled trials, 1.8% (6/340) of STRATTERA-treated patients experienced orthostatic hypotension compared with 0.5% (1/207) of placebo-treated patients.
-Syncope was not reported during short-term child and adolescent placebo-controlled ADHD trials.
+In child and adolescent registration studies, 0.2% (12/5596) of STRATTERA-treated patients experienced orthostatic hypotension and 0.8% (46/5596) experienced syncope.
+In short-term child and adolescent registration studies, 1.8% (6/340) of STRATTERA-treated patients experienced orthostatic hypotension compared with 0.5% (1/207) of placebo-treated patients.
+Syncope was not reported during short-term child and adolescent placebo-controlled ADHD registration studies.
 STRATTERA should be used with caution in any condition that may predispose patients to hypotension, or conditions associated with abrupt heart rate or blood pressure changes.
 
 Peripheral vascular effects — There have been spontaneous postmarketing reports of Raynaud's phenomenon (new onset and exacerbation of preexisting condition).

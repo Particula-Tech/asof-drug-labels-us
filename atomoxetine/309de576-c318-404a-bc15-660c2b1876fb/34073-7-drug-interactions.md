@@ -13,9 +13,9 @@ In EM individuals treated with paroxetine or fluoxetine, the AUC of atomoxetine 
 
 In vitro studies suggest that coadministration of cytochrome P450 inhibitors to PMs will not increase the plasma concentrations of atomoxetine.
 
-## 7.3 Pressor Agents
+## 7.3 Antihypertensive Drugs and Pressor Agents
 
-Because of possible effects on blood pressure, STRATTERA should be used cautiously with pressor agents (e.g., dopamine, dobutamine).
+Because of possible effects on blood pressure, STRATTERA should be used cautiously with antihypertensive drugs and pressor agents (e.g., dopamine, dobutamine) or other drugs that increase blood pressure.
 
 ## 7.4 Albuterol
 

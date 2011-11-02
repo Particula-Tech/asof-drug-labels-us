@@ -17,11 +17,13 @@ Seizures — STRATTERA has not been systematically evaluated in pediatric patien
 In the clinical development program, seizures were reported in 0.2% (12/5073) of children whose average age was 10 years (range 6 to 16 years).
 In these clinical trials, the seizure risk among poor metabolizers was 0.3% (1/293) compared to 0.2% (11/4741) for extensive metabolizers.
 
-Commonly observed adverse reactions in acute child and adolescent, placebo-controlled trials — Commonly observed adverse reactions associated with the use of STRATTERA (incidence of 2% or greater) and not observed at an equivalent incidence among placebo-treated patients (STRATTERA incidence greater than placebo) are listed in Table 1.
-Results were similar in the BID and the QD trial except as shown in Table 2, which shows both BID and QD results for selected adverse reactions based on statistically significant Breslow-Day tests.
-The most commonly observed adverse reactions in patients treated with STRATTERA (incidence of 5% or greater and at least twice the incidence in placebo patients, for either BID or QD dosing) were: nausea, vomiting, fatigue, decreased appetite, abdominal pain, and somnolence (see Tables 1 and 2).
+Commonly observed adverse reactions in acute child and adolescent, placebo-controlled trials — Commonly observed adverse reactions associated with the use of STRATTERA (incidence of 2% or greater) and not observed at an equivalent incidence among placebo-treated patients (STRATTERA incidence greater than placebo) are listed in Table 2.
+Results were similar in the BID and the QD trial except as shown in Table 3, which shows both BID and QD results for selected adverse reactions based on statistically significant Breslow-Day tests.
+The most commonly observed adverse reactions in patients treated with STRATTERA (incidence of 5% or greater and at least twice the incidence in placebo patients, for either BID or QD dosing) were: nausea, vomiting, fatigue, decreased appetite, abdominal pain, and somnolence (see Tables 2 and 3).
 
-Table 1: Common Treatment-Emergent Adverse Reactions Associated with the Use of STRATTERA in Acute (up to 18 weeks) Child and Adolescent Trials
+Additional data from ADHD clinical trials (controlled and uncontrolled) has shown that approximately 5 to 10% of pediatric patients experienced potentially clinically important changes in heart rate (≥20 beats per min) or blood pressure (≥15 to 20 mm Hg) [see Contraindications (4) and Warnings and Precautions (5)].
+
+Table 2: Common Treatment-Emergent Adverse Reactions Associated with the Use of STRATTERA in Acute (up to 18 weeks) Child and Adolescent Trials
 
 | Adverse Reactiona | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -49,7 +51,7 @@ Table 1: Common Treatment-Emergent Adverse Reactions Associated with the Use of 
 | b Abdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, epigastric discomfort. |  |  |
 | c Somnolence includes the terms: sedation, somnolence. |  |  |
 
-Table 2: Common Treatment-Emergent Adverse Reactions Associated with the Use of STRATTERA in Acute (up to 18 weeks) Child and Adolescent Trials
+Table 3: Common Treatment-Emergent Adverse Reactions Associated with the Use of STRATTERA in Acute (up to 18 weeks) Child and Adolescent Trials
 
 | Adverse Reaction | Percentage of Patients Reporting Reaction from BID Trials |  | Percentage of Patients Reporting Reaction from QD Trials |  |
 | --- | --- | --- | --- | --- |
@@ -80,10 +82,12 @@ Seizures — STRATTERA has not been systematically evaluated in adult patients w
 In the clinical development program, seizures were reported on 0.1% (1/748) of adult patients.
 In these clinical trials, no poor metabolizers (0/43) reported seizures compared to 0.1% (1/705) for extensive metabolizers.
 
-Commonly observed adverse reactions in acute adult placebo-controlled trials — Commonly observed adverse reactions associated with the use of STRATTERA (incidence of 2% or greater) and not observed at an equivalent incidence among placebo-treated patients (STRATTERA incidence greater than placebo) are listed in Table 3.
-The most commonly observed adverse reactions in patients treated with STRATTERA (incidence of 5% or greater and at least twice the incidence in placebo patients) were: constipation, dry mouth, nausea, fatigue, decreased appetite, insomnia, erectile dysfunction, urinary hesitation and/or urinary retention and/or dysuria, dysmenorrhea, and hot flush (see Table 3).
+Commonly observed adverse reactions in acute adult placebo-controlled trials — Commonly observed adverse reactions associated with the use of STRATTERA (incidence of 2% or greater) and not observed at an equivalent incidence among placebo-treated patients (STRATTERA incidence greater than placebo) are listed in Table 4.
+The most commonly observed adverse reactions in patients treated with STRATTERA (incidence of 5% or greater and at least twice the incidence in placebo patients) were: constipation, dry mouth, nausea, fatigue, decreased appetite, insomnia, erectile dysfunction, urinary hesitation and/or urinary retention and/or dysuria, dysmenorrhea, and hot flush (see Table 4).
 
-Table 3: Common Treatment-Emergent Adverse Reactions Associated with the Use of STRATTERA in Acute (up to 25 weeks) Adult Trials
+Additional data from ADHD clinical trials (controlled and uncontrolled) has shown that approximately 5 to 10% of adult patients experienced potentially clinically important changes in heart rate (≥20 beats per min) or blood pressure (≥15 to 20 mm Hg) [see Contraindications (4) and Warnings and Precautions (5)].
+
+Table 4: Common Treatment-Emergent Adverse Reactions Associated with the Use of STRATTERA in Acute (up to 25 weeks) Adult Trials
 
 | Adverse Reactiona | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -139,7 +143,7 @@ Table 3: Common Treatment-Emergent Adverse Reactions Associated with the Use of 
 Male and female sexual dysfunction — Atomoxetine appears to impair sexual function in some patients.
 Changes in sexual desire, sexual performance, and sexual satisfaction are not well assessed in most clinical trials because they need special attention and because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling are likely to underestimate the actual incidence.
-Table 3 above displays the incidence of sexual side effects reported by at least 2% of adult patients taking STRATTERA in placebo-controlled trials.
+Table 4 above displays the incidence of sexual side effects reported by at least 2% of adult patients taking STRATTERA in placebo-controlled trials.
 
 There are no adequate and well-controlled studies examining sexual dysfunction with STRATTERA treatment.
 While it is difficult to know the precise risk of sexual dysfunction associated with the use of STRATTERA, physicians should routinely inquire about such possible side effects.
