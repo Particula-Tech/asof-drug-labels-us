@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Do not initiate Soliris therapy in patients:
+Soliris is contraindicated in:
 
-- with unresolved serious Neisseria meningitidis infection.
-- who are not currently vaccinated against Neisseria meningitidis.
+- Patients with unresolved serious Neisseria meningitidis infection
+- Patients who are not currently vaccinated against Neisseria meningitidis, unless the risks of delaying Soliris treatment outweigh the risks of developing a meningococcal infection [see Warnings and Precautions (5.1)].

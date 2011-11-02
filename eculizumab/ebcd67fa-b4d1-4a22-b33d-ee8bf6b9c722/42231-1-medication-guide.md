@@ -1,92 +1,140 @@
 # MEDICATION GUIDE
 
-Soliris® (eculizumab) (so-leer-is)
+Soliris® (so-leer-is)
 
-Read the Medication Guide before you start Soliris and before each dose (infusion).
-This Medication Guide does not take the place of talking with your doctor about your condition or your treatment.
+(eculizumab)
+
+Read the Medication Guide before you start Soliris and before each infusion.
+This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
 Talk to your doctor if you have any questions about your treatment with Soliris.
 
-What Is The Most Important Information I Should Know About Soliris?
+What is the most important information I should know about Soliris?
 
 Soliris is a medicine that affects your immune system.
 Soliris can lower the ability of your immune system to fight infections.
 
-- Soliris increases your chance of getting serious and life-threatening meningococcal infections.
-  Meningococcal infections may be fatal if not recognized and treated early.
+- Soliris increases your risk of getting serious and life-threatening meningococcal infections.
+  Meningococcal infections may quickly become life-threatening and cause death if not recognized and treated early.
   1. You must receive a meningococcal vaccine at least 2 weeks before your first dose of Soliris unless you have already had this vaccine.
+     If your doctor decides that urgent treatment with Soliris is needed, you should receive a meningococcal vaccine as soon as possible.
   2. If you had a meningococcal vaccine in the past, you might need a booster dose before starting Soliris.
      Your doctor will decide if you need another dose of a meningococcal vaccine.
   3. A meningococcal vaccine does not prevent all meningococcal infections.
-     You must be aware of the following signs and symptoms of a meningococcal infection:
-     - Headache with nausea or vomiting
-     - Headache and a fever
-     - Headache with a stiff neck or stiff back
-     - Fever of 103° F (39.4° C) or higher
-     - Fever and a rash
-     - Confusion
-     - Severe muscle aches with flu-like symptoms
-     - Sensitivity to light
+     Call your doctor or get emergency medical care right away if you get any of these signs and symptoms of a meningococcal infection:
+     - headache with nausea or vomiting
+     - headache and a fever
+     - headache with a stiff neck or stiff back
+     - fever of 103° F (39.4° C) or higher
+     - fever and a rash
+     - confusion
+     - muscle aches with flu-like symptoms
+     - eyes sensitive to light
 
-Call your doctor or get emergency medical care right away if you have any of these symptoms.
+Your doctor will give you a Patient Safety Card about the risk of meningococcal infection.
+Carry it with you at all times during treatment and for 3 months after your last Soliris dose.
+Your risk of meningococcal infection may continue for several weeks after your last dose of Soliris.
+It is important to show this card to any doctor or nurse who treats you.
+This will help them diagnose and treat you quickly.
 
-You will receive a Patient Safety Card that lists these symptoms and what to do if you have them.
-Carry it with you at all times.
-You will need to show the card to any healthcare provider that treats you.
+Soliris is only available through a program called the Soliris REMS.
+Before you can receive Soliris, your doctor must:
 
-What Is Soliris?
+- enroll in the Soliris REMS program
+- counsel you about the risk of meningococcal infection
+- give you information about the symptoms of meningococcal infection
+- give you a Patient Safety Card about your risk of meningococcal infection, as discussed above.
+- make sure that you are vaccinated with a meningococcal vaccine
 
-Soliris is a medicine called a monoclonal antibody.
-Soliris is used for the treatment of patients with a disease that affects red blood cells called Paroxysmal Nocturnal Hemoglobinuria (PNH).
+Soliris may also increase the risk of other types of serious infections.
+If your child is treated with Soliris, make sure that your child receives vaccinations against Streptococcus pneumoniae and Haemophilus influenza type b (Hib).
+
+What is Soliris?
+
+Soliris is a prescription medicine called a monoclonal antibody.
+Soliris is used to treat people with:
+
+- a disease called Paroxysmal Nocturnal Hemoglobinuria (PNH).
+  PNH affects red blood cells.
+- a disease called atypical Hemolytic Uremic Syndrome (aHUS). aHUS affects the blood system, kidney, and sometimes other body organs.
 
 Soliris works by blocking part of your immune system.
-This can help your PNH symptoms but it can also increase your chance for infection.
+This can help your symptoms but it can also increase your chance for infection.
+
 It is important that you:
 
-- have all recommended immunizations and vaccines before you start Soliris
-- stay up-to-date with all recommended immunizations and vaccines during treatment with Soliris
+- have all recommended vaccinations before you start Soliris
+- stay up-to-date with all recommended vaccinations during treatment with Soliris
 
-Who Should Not Receive Soliris?
+Who should not receive Soliris?
 
 Do not receive Soliris if you:
 
 - have a meningococcal infection
-- have not been vaccinated with, or you are not up-to-date with a meningococcal vaccine.
+- have not been vaccinated against meningitis infection, unless your doctor decides that urgent treatment with Soliris is needed.
   See "What is the most important information I should know about Soliris?"
 
-Tell your doctor if you:
+What should I tell my doctor before receiving Soliris?
+
+Before receiving Soliris, tell your doctor if you:
 
 - have an infection or fever
-- are pregnant, become pregnant, or are breastfeeding.
-  Soliris has not been studied in pregnant or nursing women.
+- are pregnant or plan to become pregnant.
+  It is not known if Soliris will harm your unborn baby.
+- are breastfeeding or plan to breastfeed.
+  It is not known if Soliris passes into your breast milk.
 
-How Do I Receive Soliris?
+Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
-- Soliris is given through a vein (I.V. infusion) over 35 minutes.
-- You will usually receive a Soliris infusion:
-  - every 7 days for five weeks, then
-  - every 14 day
-- Following each infusion, you may be monitored for one hour for allergic reactions.
+Know the medicines you take.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
-What If I Miss a Dose or Stop Soliris Treatment?
+How will I receive Soliris?
 
+- Soliris is given through a vein (I.V. or intravenous infusion) usually over 35 minutes.
+  If you have an allergic reaction during your Soliris infusion, your doctor may decide to give Soliris more slowly or stop your infusion.
+- If you are an adult, you will usually receive a Soliris infusion by your doctor:
+  - weekly for five weeks, then
+  - every 2 weeks
+- If you are less than 18 years of age, your doctor will decide how often you will receive Soliris depending on your age and body weight.
+- After each infusion, you should be monitored for one hour for allergic reactions.
+  See "What are the possible side effects of Soliris?"
 - If you forget or miss a Soliris infusion, call your doctor right away.
-- Stopping treatment with Soliris may cause a sudden and serious breakdown of your red blood cells.
-  Symptoms or problems from red blood cell breakdown include:
-  - a large drop in your red blood cell count causing anemia
+- If you have PNH, your doctor will need to monitor you closely for at least 8 weeks after stopping Soliris.
+  Stopping treatment with Soliris may cause breakdown of your red blood cells due to PNH.
+  Symptoms or problems that can happen due to red blood cell breakdown include:
+  - drop in the number of your red blood cells
+  - drop in your platelet count
   - confusion
   - chest pain
   - kidney problems
   - blood clots
-- Your doctor will need to monitor you closely for at least 8 weeks after stopping Soliris.
+  - difficulty breathing
+- If you have aHUS, your doctor will need to monitor you closely during and for at least 12 weeks after stopping treatment for signs of worsening aHUS symptoms or problems related to abnormal clotting (thrombotic microangiopathy).
+  Symptoms or problems that can happen with abnormal clotting may include:
+  - stroke
+  - confusion
+  - seizures
+  - chest pain (angina)
+  - difficulty breathing
+  - kidney problems
+  - swelling in arms or legs
+  - a drop in your platelet count
 
-What Are The Possible Side Effects With Soliris?
+What are the possible side effects of Soliris?
 
-Serious side effects with Soliris include:
+Soliris can cause serious side effects, including:
 
-- Serious and life-threatening infections.
-  See "What is the most important information I should know about Soliris?"
+- See "What is the most important information I should know about Soliris?"
+- Serious allergic reactions.
+  Serious allergic reactions can happen during your Soliris infusion.
+  Tell your doctor or nurse right away if you get any of these symptoms during your Soliris infusion:If you have an allergic reaction to Soliris, your doctor may need to infuse Soliris more slowly, or stop Soliris.
+  See "How will I receive Soliris?"
+  - chest pain
+  - trouble breathing or shortness of breath
+  - swelling of your face, tongue, or throat
+  - feel faint or pass out
 
-Common side effects with Soliris include:
+Common side effects in people with PNH treated with Soliris include:
 
 - headaches
 - runny nose and colds
@@ -94,20 +142,39 @@ Common side effects with Soliris include:
 - back pain
 - nausea
 
-Call your doctor if you have any of these side effects.
-These are not all the side effects with Soliris.
-Ask your doctor for more information.
+Common side effects in people with aHUS treated with Soliris include:
 
-General Information About Soliris
+- high blood pressure
+- common cold (upper respiratory infection)
+- diarrhea
+- headache
+- nausea and vomiting
+- low red blood cell count
+- low white blood cell count
+- urinary tract infection
+
+Tell your doctor about any side effect that bothers you or that does not go away.
+These are not all the possible side effects of Soliris.
+For more information, ask your doctor or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+General information about Soliris
 
 Medicines are sometimes prescribed for conditions other than those listed in a Medication Guide.
-If you have any concerns about Soliris, ask your doctor.
-Your doctor or pharmacist can give you information about Soliris that was written for health care professionals.
+This Medication Guide summarizes the most important information about Soliris.
+If you would like more information, talk with your doctor.
+You can ask your doctor or pharmacist for information about Soliris that is written for healthcare professionals.
 
-Soliris contains eculizumab in a solution of water, polysorbate, sodium phosphate and sodium chloride.
+What are the ingredients in Soliris?
 
-Manufactured by Alexion Pharmaceuticals, Inc., 352 Knotter Drive, Cheshire, CT 06410 USA.
+Active ingredient: eculizumab
 
-Revised: June 2011
+Inactive ingredients: sodium phosphate monobasic, sodium phosphate dibasic, sodium chloride, polysorbate 80 (vegetable origin) and Water for Injection.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by Alexion Pharmaceuticals, Inc. 352 Knotter Drive, Cheshire, CT 06410 USA.
+
+Revised: 09/2011

@@ -1,7 +1,13 @@
 # WARNING: SERIOUS MENINGOCOCCAL INFECTIONS
 
-Soliris increases the risk of meningococcal infections.
+Life-threatening and fatal meningococcal infections have occurred in patients treated with Soliris.
 Meningococcal infection may become rapidly life-threatening or fatal if not recognized and treated early (5.1).
 
-- Vaccinate patients with a meningococcal vaccine at least 2 weeks prior to receiving the first dose of Soliris; revaccinate according to current medical guidelines for vaccine use.
-- Monitor patients for early signs of meningococcal infections, evaluate immediately if infection is suspected, and treat with antibiotics if necessary.
+- Comply with the most current Advisory Committee on Immunization Practices (ACIP) recommendations for meningococcal vaccination in patients with complement deficiencies.
+- Immunize patients with a meningococcal vaccine at least 2 weeks prior to administering the first dose of Soliris, unless the risks of delaying Soliris therapy outweigh the risk of developing a meningococcal infection.
+  (See Serious Meningococcal Infections (5.1) for additional guidance on the management of the risk of meningococcal infection.)
+- Monitor patients for early signs of meningococcal infections and evaluate immediately if infection is suspected.
+
+Soliris is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS).
+Under the Soliris REMS, prescribers must enroll in the program (5.2).
+Enrollment in the Soliris REMS program and additional information are available by telephone: 1-888-SOLIRIS (1-888-765-4747).

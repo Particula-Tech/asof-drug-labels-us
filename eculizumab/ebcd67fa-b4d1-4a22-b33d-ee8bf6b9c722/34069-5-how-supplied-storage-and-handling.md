@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED / STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Soliris (eculizumab) is supplied as 300 mg single-use vials containing 30 mL of 10 mg/mL sterile, preservative-free Soliris solution per vial.
 

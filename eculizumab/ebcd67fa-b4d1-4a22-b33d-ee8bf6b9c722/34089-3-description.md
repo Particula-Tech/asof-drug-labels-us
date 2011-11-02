@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Soliris is a formulation of eculizumab which is a recombinant humanized monoclonal IgG2/4κ antibody produced by murine myeloma cell culture and purified by standard bioprocess technology.
+Soliris, a complement inhibitor, is a formulation of eculizumab which is a recombinant humanized monoclonal IgG2/4κ antibody produced by murine myeloma cell culture and purified by standard bioprocess technology.
 Eculizumab contains human constant regions from human IgG2 sequences and human IgG4 sequences and murine complementarity-determining regions grafted onto the human framework light- and heavy-chain variable regions.
 Eculizumab is composed of two 448 amino acid heavy chains and two 214 amino acid light chains and has a molecular weight of approximately 148 kDa.
 

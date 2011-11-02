@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide.
+See FDA-approved patient labeling (Medication Guide).
 
 Prior to treatment, patients should fully understand the risks and benefits of Soliris, in particular the risk of meningococcal infection.
 Ensure that patients receive the Medication Guide.
@@ -11,22 +11,26 @@ Patients should also be informed that vaccination may not prevent meningococcal 
 Patients should be educated about any of the signs and symptoms of meningococcal infection, and strongly advised to seek immediate medical attention if these signs or symptoms occur.
 These signs and symptoms are as follows:
 
-- moderate to severe headache with nausea or vomiting
-- moderate to severe headache and a fever
-- moderate to severe headache with a stiff neck or stiff back
+- headache with nausea or vomiting
+- headache and a fever
+- headache with a stiff neck or stiff back
 - fever of 103° F (39.4° C) or higher
 - fever and a rash
 - confusion
-- severe muscle aches with flu-like symptoms, and eyes sensitive to light
+- muscle aches with flu-like symptoms
+- eyes sensitive to light
 
-Patients should be informed that they would be provided with the Patient Safety Card that they should carry with them at all times.
+Patients should be informed that they will be given a Soliris Patient Safety Information Card that they should carry with them at all times.
 This card describes symptoms which, if experienced, should prompt the patient to immediately seek medical evaluation.
 
-Patients should be informed that there is a potential for serious hemolysis when Soliris is discontinued and that they will be monitored by their healthcare professional for at least 8 weeks following Soliris discontinuation.
+Patients should also be informed that there may be an increased risk of other types of infections, particularly those due to encapsulated bacteria.
+Parents or caregivers of children receiving Soliris for the treatment of aHUS should be informed that their child should be vaccinated against Streptococcus pneumoniae and Haemophilus influenza type b (Hib) according to current medical guidelines.
 
-Manufactured by:
+Patients with PNH should be informed that they may develop hemolysis due to PNH when Soliris is discontinued and that they will be monitored by their healthcare professional for at least 8 weeks following Soliris discontinuation.
+Patients with aHUS should be informed that there is a potential for TMA complications due to aHUS when Soliris is discontinued and that they will be monitored by their healthcare professional for at least 12 weeks following Soliris discontinuation.
+Patients who discontinue Soliris should be instructed to keep the Soliris Patient Safety Information Card with them for three months after the last Soliris dose, because the increased risk of meningococcal infection persists for several weeks following discontinuation of Soliris.
 
-Alexion Pharmaceuticals, Inc. 352 Knotter Drive Cheshire, CT 06410 USA
+Manufactured by: Alexion Pharmaceuticals, Inc. 352 Knotter Drive Cheshire, CT 06410 USA
 
 US License Number 1743
 
