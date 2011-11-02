@@ -1,4 +1,4 @@
-## PATIENT INSTRUCTIONS
+# PATIENT INSTRUCTIONS
 
 Retin-A® (tretinoin)
 
@@ -8,7 +8,7 @@ IMPORTANT
 
 Read Directions Carefully Before Using
 
-Cream · Gel · Liquid
+Cream • Gel • Liquid
 
 For Topical Use Only
 
@@ -25,7 +25,8 @@ Overexposure to the sun over many years may cause premature aging of the skin an
 The chance of these effects occurring will vary depending on skin type, the climate and the care taken to avoid overexposure to the sun.
 Therapy with RETIN-A may make your skin more susceptible to sunburn and other adverse effects of the sun, so unprotected exposure to natural or artificial sunlight should be minimized.
 
-Laboratory findings.When laboratory mice are exposed to artificial sunlight, they often develop skin tumors.
+Laboratory findings.
+When laboratory mice are exposed to artificial sunlight, they often develop skin tumors.
 These sunlight-induced tumors may appear more quickly and in greater number if the mouse is also topically treated with the active ingredient in RETIN-A, tretinoin.
 In some studies, under different conditions, however, when mice treated with tretinoin were exposed to artificial sunlight, the incidence and rate of development of skin tumors was reduced.
 There is no evidence to date that tretinoin alone will cause the development of skin tumors in either laboratory animals or humans.
@@ -91,8 +92,10 @@ To help you use the medication correctly, keep these simple instructions in mind
 
 - Apply RETIN-A once daily before bedtime, or as directed by your physician.
   Your physician may advise, especially if your skin is sensitive, that you start your therapy by applying RETIN-A every other night.
-  First, wash with a mild soap and dry your skin gently.WAIT 20 to 30 MINUTES BEFORE APPLYING MEDICATION; it is important for skin to be completely dry in order to minimize possible irritation.
-- It is better not to use more than the amount suggested by your physician or to apply more frequently than instructed.Too much may irritate the skin, waste medication and won't give faster or better results.
+  First, wash with a mild soap and dry your skin gently.
+  WAIT 20 to 30 MINUTES BEFORE APPLYING MEDICATION; it is important for skin to be completely dry in order to minimize possible irritation.
+- It is better not to use more than the amount suggested by your physician or to apply more frequently than instructed.
+  Too much may irritate the skin, waste medication and won't give faster or better results.
 - Keep the medication away from the corners of the nose, mouth, eyes and open wounds.
   Spread away from these areas when applying.
 - Cream: Squeeze about a half inch or less of medication onto the fingertip.
@@ -141,12 +144,14 @@ For more information about RETIN-A (tretinoin), call our toll-free number: 800-4
 Call between 9:00 a.m. and 3:00 p.m.
 Eastern Time, Monday through Friday.
 
-ORTHO DERMATOLOGICAL
+Ortho Dermatologics™
 
-Division of Ortho-McNeil
+Marketed by: Ortho Dermatologics™
 
-Pharmaceutical, Inc.
+Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.,
 
-Skillman, New Jersey 08558
+Los Angeles, CA 90045
 
-©OMP 2001 Revised February 2001 Printed in U.S.A. 643-10-490-9
+Manufactured by: DRAXIS Specialty Pharmaceuticals, Inc., Qc, Canada H9H 4J4
+
+©OMJPI 2010 30012823 Made in Canada 201691

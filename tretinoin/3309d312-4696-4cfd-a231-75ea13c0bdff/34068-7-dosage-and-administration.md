@@ -3,7 +3,7 @@
 RETIN-A Gel, Cream or Liquid should be applied once a day, before retiring, to the skin where acne lesions appear, using enough to cover the entire affected area lightly.
 Liquid: The liquid may be applied using a fingertip, gauze pad, or cotton swab.
 If gauze or cotton is employed, care should be taken not to oversaturate it to the extent that the liquid would run into areas where treatment is not intended.
-Gel: Excessive application results in “pilling” of the gel, which minimizes the likelihood of over application by the patient.
+Gel: Excessive application results in "pilling" of the gel, which minimizes the likelihood of over application by the patient.
 
 Application may cause a transitory feeling of warmth or slight stinging.
 In cases where it has been necessary to temporarily discontinue therapy or to reduce the frequency of application, therapy may be resumed or frequency of application increased when the patients become able to tolerate the treatment.
