@@ -1,12 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021108"
+  ],
   "inn": "tretinoin",
-  "labeler": "Ortho Neutrogena",
+  "labeler": "Ortho-McNeil Janssen Pharmaceuticals, Inc.",
   "package_ndcs": [
     "0062-0187-02",
-    "0062-0187-04"
+    "0062-0187-04",
+    "0062-0187-09",
+    "0062-0187-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "tretinoin",
+      "name": "Renova"
+    }
+  ],
   "setid": "e334034e-36d5-4e2d-b2ec-d1410b3374c3",
   "source": "dailymed"
 }

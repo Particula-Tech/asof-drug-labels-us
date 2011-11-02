@@ -1,0 +1,12 @@
+# PRINCIPAL DISPLAY PANEL - 40g Tube Carton
+
+NDC 0062-0187-02
+
+RENOVA® (TRETINOIN CREAM) 0.02%
+
+TUBE
+
+For Topical Use Only Rx Only
+
+NET WT.
+40g
