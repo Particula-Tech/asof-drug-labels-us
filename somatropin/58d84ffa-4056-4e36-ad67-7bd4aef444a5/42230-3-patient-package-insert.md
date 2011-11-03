@@ -36,8 +36,6 @@ Guarantee
 
 Important Personal Notes
 
-Service Materials
-
 READ FIRST: Important Safety Information
 
 1.
@@ -375,8 +373,6 @@ Care and Storage
 Guarantee
 
 Important Personal Notes
-
-Service Materials
 
 READ FIRST: Important Safety Information
 
@@ -788,10 +784,10 @@ Manufactured in Austria by Sandoz GmbH
 
 Distributed by Sandoz Inc., Princeton, NJ 08540
 
-07-2011M
+09-2011M
 
-46067363
+46072249
 
-46067349
+46072250
 
-46067362
+46072251
