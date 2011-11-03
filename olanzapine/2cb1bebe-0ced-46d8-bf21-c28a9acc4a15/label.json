@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA091415"
+  ],
+  "inn": "olanzapine",
+  "labeler": "Torrent Pharmaceuticals Limited",
+  "package_ndcs": [
+    "13668-086-05",
+    "13668-086-30",
+    "13668-086-74",
+    "13668-086-90",
+    "13668-088-05",
+    "13668-088-30",
+    "13668-088-74",
+    "13668-088-90",
+    "13668-089-05",
+    "13668-089-30",
+    "13668-089-74",
+    "13668-089-90",
+    "13668-090-05",
+    "13668-090-30",
+    "13668-090-74",
+    "13668-090-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "olanzapine",
+      "name": "Olanzapine"
+    }
+  ],
+  "setid": "2cb1bebe-0ced-46d8-bf21-c28a9acc4a15",
+  "source": "dailymed"
+}
