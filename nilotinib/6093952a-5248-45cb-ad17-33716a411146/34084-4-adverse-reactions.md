@@ -118,7 +118,7 @@ Table 6: Most Frequently Reported Non-hematologic Adverse Reactions in Patients 
 |  | Pyrexia | 22 | <1 | 28 | 2 |
 |  | Asthenia | 16 | 0 | 14 | 1 |
 |  | Edema, peripheral | 15 | <1 | 12 | 0 |
-|  | Myaglia | 19 | 2 | 16 | <1 |
+|  | Myalgia | 19 | 2 | 16 | <1 |
 | Musculoskeletal and connective tissue disorders | Arthralgia | 26 | 2 | 16 | 0 |
 |  | Muscle spasms | 13 | <1 | 15 | 0 |
 |  | Bone pain | 14 | <1 | 15 | 2 |
@@ -259,11 +259,3 @@ Unknown frequency: feeling hot, localized edema.
 Investigations: Common: blood amylase increased, gamma-glutamyltransferase increased, blood creatinine phosphokinase increased, weight decreased, weight increased.
 Uncommon: hemoglobin decreased, blood lactate dehydrogenase increased, blood urea increased.
 Unknown frequency: blood insulin increased, very low density lipoprotein increased, blood parathyroid hormone increased, blood pressure increased.
-
-## 6.3 Postmarketing Experience
-
-The following additional adverse reactions have been reported during post approval use of Tasigna.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
-Cases of tumor lysis syndrome have been reported in Tasigna treated patients with resistant or intolerant CML.
-Malignant disease progression, high WBC counts and/or dehydration were present in the majority of these cases.

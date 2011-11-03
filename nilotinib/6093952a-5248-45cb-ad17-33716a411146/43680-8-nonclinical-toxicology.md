@@ -2,7 +2,9 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenicity studies with nilotinib have not been performed.
+A 2-year carcinogenicity study was conducted orally in rats at nilotinib doses of 5, 15 and 40 mg/kg/day.
+Exposures in animals at the highest dose tested were approximately 2-3 fold the human exposure (based on AUC) at the nilotinib dose of 400 mg twice daily.
+The study was negative for carcinogenic findings.
 
 Nilotinib was not mutagenic in a bacterial mutagenesis (Ames) assay, was not clastogenic in a chromosome aberration assay in human lymphocytes, did not induce DNA damage (comet assay) in L5178Y mouse lymphoma cells, nor was it clastogenic in an in vivo rat bone marrow micronucleus assay with two oral treatments at doses up to 2000 mg/kg/dose.
 

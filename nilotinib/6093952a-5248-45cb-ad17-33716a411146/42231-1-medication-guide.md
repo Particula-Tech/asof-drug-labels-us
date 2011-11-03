@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+Medication guide
 
 TASIGNA® (ta-sig-na)
 
@@ -97,8 +97,13 @@ How should I take Tasigna?
   Take Tasigna at least 2 hours after you eat and at least 1 hour before you eat.
 - Swallow Tasigna capsules whole with water.
   If you cannot swallow Tasigna capsules whole, tell your doctor
-- If you cannot swallow Tasigna capsules whole: ○ Open the Tasigna capsules and sprinkle the contents in 1 teaspoon of applesauce (puréed apple). ▪ Do not use more than 1 teaspoon of applesauce. ▪ Only use applesauce.
-  Do not sprinkle Tasigna onto other foods. ○ Swallow the mixture right away (within 15 minutes).
+- If you cannot swallow Tasigna capsules whole:
+  - Open the Tasigna capsules and sprinkle the contents in 1 teaspoon of applesauce (puréed apple).
+    - Do not use more than 1 teaspoon of applesauce.
+    - Only use applesauce.
+      Do not sprinkle Tasigna onto other foods.
+  - Swallow the mixture right away (within 15 minutes).
+
 - Do not drink grapefruit juice, eat grapefruit, or take supplements containing grapefruit extract at any time during treatment.
   See “What is the most important information I should know about Tasigna?”
 - If you miss a dose, just take your next dose as scheduled.
@@ -106,7 +111,7 @@ How should I take Tasigna?
 - If you take too much Tasigna, call your doctor or poison control center right away.
   Symptoms may include vomiting and drowsiness.
   During treatment with Tasigna your doctor will do tests to check for side effects and to see how well Tasigna is working for you.
-  The tests will check your: ○ Heart ○ blood cells (white blood cells, red blood cells, and platelets).
+  The tests will check your: ○ heart ○ blood cells (white blood cells, red blood cells, and platelets).
   Your blood cells should be checked every two weeks for the first two months and then monthly. ○ electrolytes (potassium, magnesium) ○ pancreas and liver function ○ bone marrow samples
 - Your doctor may change your dose.
   Your doctor may have you stop Tasigna for some time or lower your dose if you have side effects with it.
@@ -126,6 +131,13 @@ Tasigna may cause serious side effects including:
   Symptoms include sudden stomach area pain with nausea and vomiting.
 - Bleeding in the brain.
   Symptoms include sudden headache, changes in your eyesight, not being aware of what is going on around you and becoming unconscious.
+- Tumor Lysis Syndrome (TLS).
+  TLS is caused by a fast breakdown of cancer cells.
+  TLS can cause you to have:
+  - kidney failure and the need for dialysis treatment
+  - an abnormal heart beat
+
+Your doctor may do blood tests to check you for TLS.
 
 The most common side effects of Tasigna include:
 
@@ -169,10 +181,10 @@ The capsule shell contains gelatin, titanium dioxide (E171), iron oxide yellow (
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-T2010-104/T2010-105
-
 Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
+
+T2011-124/T2011-125 October 2011/October 2011

@@ -59,24 +59,30 @@ Grapefruit products and other foods that are known to inhibit CYP3A4 should be a
 Nilotinib exposure is increased in patients with impaired hepatic function.
 A lower starting dose is recommended for patients with mild to severe hepatic impairment (at baseline) and QT interval should be monitored closely [see Boxed Warning, Dosage and Administration (2.2) and Use in Specific Populations (8.7)].
 
-## 5.10 Total Gastrectomy
+## 5.10 Tumor Lysis Syndrome
+
+Cases of tumor lysis syndrome have been reported in Tasigna treated patients with resistant or intolerant CML.
+Malignant disease progression, high WBC counts and/or dehydration were present in the majority of these cases.
+Due to potential for tumor lysis syndrome, maintain adequate hydration and correct uric acid levels prior to initiating therapy with Tasigna.
+
+## 5.11 Total Gastrectomy
 
 The exposure of nilotinib is reduced in patients with total gastrectomy.
 More frequent follow-up of these patients should be considered.
 Dose increase or alternative therapy may be considered in patients with total gastrectomy [see Clinical Pharmacology 12.3)].
 
-## 5.11 Lactose
+## 5.12 Lactose
 
 Since the capsules contain lactose, Tasigna is not recommended for patients with rare hereditary problems of galactose intolerance, severe lactase deficiency with a severe degree of intolerance to lactose-containing products or of glucose-galactose malabsorption.
 
-## 5.12 Monitoring Laboratory Tests
+## 5.13 Monitoring Laboratory Tests
 
 Complete blood counts should be performed every two weeks for the first two months and then monthly thereafter.
 Chemistry panels, including the lipid profile, should be checked periodically.
 ECGs should be obtained at baseline, seven days after initiation and periodically thereafter, as well as following dose adjustments [see Warnings and Precautions (5.2)].
 Laboratory monitoring for patients receiving Tasigna may need to be performed more or less frequently at the physician’s discretion.
 
-## 5.13 Use in Pregnancy
+## 5.14 Use in Pregnancy
 
 There are no adequate and well controlled studies of Tasigna in pregnant women.
 However, Tasigna may cause fetal harm when administered to a pregnant woman.
