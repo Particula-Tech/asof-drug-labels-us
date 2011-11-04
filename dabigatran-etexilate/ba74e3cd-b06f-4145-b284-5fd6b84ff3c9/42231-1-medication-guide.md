@@ -13,15 +13,16 @@ What is the most important information I should know about PRADAXA?
   - are over 75 years old
   - have kidney problems
   - have stomach or intestine bleeding that is recent or keeps coming back, or you have a stomach ulcer
-  - take other medicines that increase your risk of bleeding, including: Tell your doctor if you take any of these medicines.
-    Ask your doctor or pharmacist if you are not sure if your medicine is one listed above.
+  - take other medicines that increase your risk of bleeding, including:
     - aspirin or aspirin containing products
     - long-term (chronic) use of non-steroidal anti-inflammatory drugs (NSAIDs)
     - warfarin sodium (Coumadin®, Jantoven®)
     - a medicine that contains heparin
     - clopidogrel (Plavix®)
     - prasugrel (Effient®)
-    - selective serotonin re-uptake inhibitors (Paxil®, Prozac®, Zoloft®)
+  - have certain kidney problems and also take the medicines dronedarone (Multaq®) or ketoconazole tablets (Nizoral®).
+    Tell your doctor if you take any of these medicines.
+    Ask your doctor or pharmacist if you are not sure if your medicine is one listed above.
 - PRADAXA can increase your risk of bleeding because it lessens the ability of your blood to clot.
   While you take PRADAXA: Call your doctor or get medical help right away if you have any of these signs or symptoms of bleeding: Take PRADAXA exactly as prescribed.
   Do not stop taking PRADAXA without first talking to the doctor who prescribes it for you.
@@ -62,7 +63,6 @@ Do not take PRADAXA if you:
   Talk to your doctor, before taking PRADAXA if you currently have unusual bleeding.
 - have had a serious allergic reaction to PRADAXA.
   Ask your doctor if you are not sure.
-- have certain kidney problems and also take the medicines dronedarone (Multaq®) or ketoconazole tablets (Nizoral®)
 
 What should I tell my doctor before taking PRADAXA?
 
@@ -91,6 +91,13 @@ How should I take PRADAXA?
 - Take PRADAXA exactly as prescribed by your doctor.
 - Do not take PRADAXA more often than your doctor tells you to.
 - You can take PRADAXA with or without food.
+- PRADAXA comes in a bottle or in a blister package.
+- Only open 1 bottle of PRADAXA at a time.
+  Finish your opened bottle of PRADAXA before opening a new bottle.
+- After opening a bottle of PRADAXA, use within 4 months.
+  See "How should I store PRADAXA?"
+- When it is time for you to take a dose of PRADAXA, only remove your prescribed dose of PRADAXA from your open bottle or blister package.
+- Tightly close your bottle of PRADAXA right away after you take your dose.
 - Swallow PRADAXA capsules whole.
   Do not break, chew, or empty the pellets from the capsule.
 - If you miss a dose of PRADAXA, take it as soon as you remember.
@@ -104,7 +111,7 @@ How should I take PRADAXA?
   If you plan to have surgery, or a medical or a dental procedure, tell your doctor and dentist that you are taking PRADAXA.
   You may have to stop taking PRADAXA for a short time.
   See "What is the most important information I should know about PRADAXA?"
-- If you take too much PRADAXA, go to the nearest hospital emergency room or call your doctor or the Poison Control Center right away.
+- If you take too much PRADAXA, go to the nearest hospital emergency room or call your doctor.
 
 What are the possible side effects of PRADAXA?
 
@@ -135,10 +142,11 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store PRADAXA?
 
 - Store PRADAXA at room temperature between 59°F to 86°F (15°C to 30°C).
-  After opening the bottle, use PRADAXA within 30 days.
-  Safely throw away any unused PRADAXA after 30 days.
-- Store PRADAXA in the original package to keep it dry.
-  Keep the bottle tightly closed.
+  After opening the bottle, use PRADAXA within 4 months.
+  Safely throw away any unused PRADAXA after4 months.
+- Keep PRADAXA in the original bottle or blister package to keep it dry (protect the capsules from moisture).
+  Do not put PRADAXA in pill boxes or pill organizers.
+- Tightly close your bottle of PRADAXA right away after you take your dose
 
 Keep PRADAXA and all medicines out of the reach of children.
 
@@ -162,14 +170,16 @@ Active ingredient: dabigatran etexilate mesylate
 Inactive ingredients: acacia, dimethicone, hypromellose, hydroxypropyl cellulose, talc, and tartaric acid.
 The capsule shell is composed of carrageenan, FD&C Blue No. 2 (150 mg strength only), FD&C Yellow No. 6, hypromellose, potassium chloride, titanium dioxide, and black edible ink.
 
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Revised: October 2011 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised: November 2011
+
+The brands listed above are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The owners of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
 Copyright 2011 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-04 IT5060GJ242011
+75461-04 IT5060GK012011
 
 75457-04 IT5400G
-
-The brands listed above are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The owners of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.

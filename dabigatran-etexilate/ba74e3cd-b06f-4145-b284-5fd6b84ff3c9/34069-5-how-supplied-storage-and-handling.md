@@ -17,7 +17,7 @@ The capsules are supplied in the packages listed:
 Bottles
 
 Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
-Once opened, the product must be used within 30 days.
+Once opened, the product must be used within 4 months.
 Keep the bottle tightly closed.
 Store in the original package to protect from moisture.
 

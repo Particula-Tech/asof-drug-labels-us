@@ -1,5 +1,7 @@
 # 6 ADVERSE REACTIONS
 
+Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
 ## 6.1 Clinical Trials Experience
 
 The RE-LY study provided safety information on the use of two doses of PRADAXA and warfarin [see Clinical Studies (14)].
@@ -16,8 +18,6 @@ Table 1 Summary of Treatment Exposure in RE-LY
 | > 24 months | 2387 | 2405 | 2470 |
 | Mean exposure (months) | 20.5 | 20.3 | 21.3 |
 | Total patient-years | 10,242 | 10,261 | 10,659 |
-
-Because clinical studies are conducted under widely varying conditions and over varying lengths of time, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
 Drug Discontinuation in RE-LY
 

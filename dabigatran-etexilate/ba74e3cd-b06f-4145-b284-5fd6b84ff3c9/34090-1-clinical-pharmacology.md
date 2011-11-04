@@ -65,16 +65,18 @@ Four positional isomers, 1-O, 2-O, 3-O, and 4-O-acylglucuronide exist, and each 
 Renal Impairment
 
 An open, parallel-group single-center study compared dabigatran pharmacokinetics in healthy subjects and patients with mild to moderate renal impairment receiving a single dose of PRADAXA 150 mg.
-Based on pharmacokinetic modeling, estimated exposure to dabigatran increases with the severity of renal function impairment (Table 3).
+Exposure to dabigatran increases with severity of renal function impairment (Table 3).
 Similar findings were observed in the RE-LY trial.
 
-Table 3 Estimated Pharmacokinetic Parameters of Dabigatran by Renal Function
+Table 3 Impact of Renal Impairment on Dabigatran Pharmacokinetics
 
 | Renal Function | CrCl (mL/min) | Increase in AUC | Increase in Cmax | t1/2 (h) |
 | --- | --- | --- | --- | --- |
-| Normal | 80 | 1x | 1x | 13 |
-| Mild | 50 | 1.5x | 1.1x | 15 |
-| Moderate | 30 | 3.2x | 1.7x | 18 |
+| Normal | ≥ 80 | 1x | 1x | 13 |
+| Mild | 50-80 | 1.5x | 1.1x | 15 |
+| Moderate | 30-50 | 3.2x | 1.7x | 18 |
+| Severe+ | 15-30 | 6.3x | 2.1x | 27 |
+| +Patients with severe renal impairment were not studied in RE-LY. Dosing recommendations in subjects with severe renal impairment are based on pharmacokinetic modeling [see Dosage and Administration (2.1) and Use in Specific Populations (8.6)]. |  |  |  |  |
 
 Hepatic Impairment
 
@@ -94,10 +96,9 @@ By Day 7 after cessation of rifampin treatment, dabigatran exposure was close to
 In studies with the P-gp inhibitors ketoconazole, amiodarone, verapamil, and quinidine, the time to peak, terminal half-life, and mean residence time of dabigatran were not affected.
 Any observed changes in Cmax and AUC are described below.
 
-Dronedarone: Exposure to dabigatran is higher when it is administered with dronedarone bid than when it is administered alone.
-The dabigatran AUC and Cmax increased by 136% and 125%, respectively (i.e., more than doubled).
+Dronedarone: Exposure to dabigatran is higher when it is administered with dronedarone than when it is administered alone (73%-99%).
 
-Ketoconazole: Systemic ketoconazole increased dabigatran AUC0-∞ and Cmax values by 138% and 135%, respectively, after a single dose of 400 mg, and 153%, and 149%, respectively, after multiple daily doses of 400 mg.
+Ketoconazole: Systemic ketoconazole increased dabigatran AUC and Cmax values by 138% and 135%, respectively, after a single dose of 400 mg, and 153%, and 149%, respectively, after multiple daily doses of 400 mg.
 
 Verapamil: When dabigatran etexilate was coadministered with oral verapamil, the Cmax and AUC of dabigatran were increased.
 The extent of increase depends on the formulation of verapamil and timing of administration.

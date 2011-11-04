@@ -1,12 +1,17 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide
+See FDA-approved patient labeling (Medication Guide)
 
 ## 17.1 Instructions for Patients
 
 - Tell patients to take PRADAXA exactly as prescribed.
 - Remind patients not to discontinue PRADAXA without talking to the health care provider who prescribed it.
-- Advise patients not to chew or break the capsules before swallowing them and not to open the capsules and take the pellets alone (e.g., sprinkled over food or into beverages).
+- Keep PRADAXA in the original bottle to protect from moisture.
+  Do not put PRADAXA in pill boxes or pill organizers.
+- When more than one bottle is dispensed to the patient, instruct them to open only one bottle at a time.
+- Instruct patient to remove only one capsule from the opened bottle at the time of use.
+  The bottle should be immediately and tightly closed.
+- Advise patients not to chew or break the capsules before swallowing them and not to open the capsules and take the pellets alone.
 
 ## 17.2 Bleeding
 
@@ -43,12 +48,12 @@ Instruct patients to inform their health care provider that they are taking PRAD
 
 ## 17.5 Concomitant Medications
 
-Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take so their health care provider knows about other treatments that may affect bleeding risk (e.g., aspirin or NSAIDs) or dabigatran exposure.
+Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take so their health care provider knows about other treatments that may affect bleeding risk (e.g., aspirin or NSAIDs) or dabigatran exposure (e.g., dronedarone or systemic ketoconazole).
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Copyright 2011 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-04 IT5060GJ242011
+75461-04 IT5060GK012011
 
 75457-04 IT5400G

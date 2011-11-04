@@ -1,6 +1,15 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Renal function should be assessed by calculating the creatinine clearance (CrCl) prior to initiation of treatment with PRADAXA.
+## 2.1 Recommended Dose
+
+For patients with creatinine clearance (CrCl) >30 mL/min, the recommended dose of PRADAXA is 150 mg taken orally, twice daily, with or without food.
+For patients with severe renal impairment (CrCl 15-30 mL/min), the recommended dose of PRADAXA is 75 mg twice daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Dosing recommendations for patients with a CrCl <15 mL/min or on dialysis cannot be provided.
+
+In patients with moderate renal impairment (CrCl 30-50 mL/min), concomitant use of the P-gp inhibitor dronedarone or systemic ketoconazole can be expected to produce dabigatran exposure similar to that observed in severe renal impairment.
+Consider reducing the dose of PRADAXA to 75 mg twice daily [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+
+Renal function should be assessed by calculating the CrCl prior to initiation of treatment with PRADAXA.
 While on treatment, renal function should be assessed in clinical situations which may be associated with a decline in renal function.
 In patients with CrCl <50 mL/min or >75 years of age, renal function should be assessed at least once a year.
 
@@ -9,12 +18,6 @@ Breaking, chewing, or emptying the contents of the capsule can result in increas
 
 If a dose of PRADAXA is not taken at the scheduled time, the dose should be taken as soon as possible on the same day; the missed dose should be skipped if it cannot be taken at least 6 hours before the next scheduled dose.
 The dose of PRADAXA should not be doubled to make up for a missed dose.
-
-## 2.1 Recommended Dose
-
-For patients with CrCl >30 mL/min, the recommended dose of PRADAXA is 150 mg taken orally, twice daily, with or without food.
-For patients with severe renal impairment (CrCl 15-30 mL/min), the recommended dose of PRADAXA is 75 mg twice daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
-For patients on dialysis, dosing recommendations cannot be provided.
 
 ## 2.2 Converting from or to Warfarin
 
@@ -43,6 +46,6 @@ Consider longer times for patients undergoing major surgery, spinal puncture, or
 If surgery cannot be delayed, there is an increased risk of bleeding [see Warnings and Precautions (5.1)].
 This risk of bleeding should be weighed against the urgency of intervention [see Warnings and Precautions (5.2)].
 Bleeding risk can be assessed by the ecarin clotting time (ECT).
-This test is a better marker of the anticoagulant activity of dabigatran than activated partial thromboplastin time (aPTT), or thrombin time (TT).
+This test is a better marker of the anticoagulant activity of dabigatran than activated partial thromboplastin time (aPTT) or thrombin time (TT).
 If ECT is not available, the aPTT test provides an approximation of PRADAXA’s anticoagulant activity.
-INR tests are unreliable in patients on PRADAXA [see Clinical Pharmacology (12.2)].
+INR tests are unreliable in patients on PRADAXA[see Clinical Pharmacology (12.2)].
