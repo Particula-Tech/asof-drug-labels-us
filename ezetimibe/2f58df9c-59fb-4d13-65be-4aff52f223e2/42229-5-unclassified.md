@@ -20,14 +20,14 @@ Ltd. Singapore 637766
 
 U.S. Patent Nos. 5,846,966 and RE37,721
 
-Revised: 10/2011
+Revised: 11/2011
 
-9619519
+9619520
 
 Manufactured for: Merck/Schering-Plough Pharmaceuticals North Wales, PA 19454, USA
 
 This patient information has been approved by the U.S. Food and Drug Administration
 
-Revised: 10/2011
+Revised: 11/2011
 
-9619519
+9619520

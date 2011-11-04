@@ -36,23 +36,22 @@ Store at 20-25°C (68-77°F).
 [See USP Controlled Room Temperature.]
 Keep container tightly closed.
 
-Rx only
-
-USUAL ADULT DOSAGE: See accompanying circular.
-
 30 Tablets
 
 NDC 66582-312-31
 
+Rx only
+
+USUAL ADULT DOSAGE: See accompanying circular.
+
 Dist. by: MERCK/Schering-Plough Pharmaceuticals North Wales, PA 19454, U. S. A.
 
-Jointly manuf. by: Merck Sharp & Dohme (Italia) S.p.A.
-Via Emilia, 21 27100 - Pavia, Italy and MSD Technology Singapore Pte.
+Manuf. by: MSD Technology Singapore Pte.
 Ltd. Singapore 637766
 
 Product of Singapore.
 
-9732402 30 | No. 3874
+9732401 30 | No. 3874
 
 PRINCIPAL DISPLAY PANEL - Bottle Label 10/40
 
