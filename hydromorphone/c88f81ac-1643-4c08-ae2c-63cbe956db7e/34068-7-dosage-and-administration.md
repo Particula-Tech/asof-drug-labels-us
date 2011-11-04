@@ -17,7 +17,7 @@ Opioid analgesics, including DILAUDID INJECTION and DILAUDID-HP INJECTION, have 
 Initiate the dosing regimen for each patient individually, taking into account the patient’s prior analgesic treatment.
 Give attention to the following:
 
-- the age, general condition and medical status of the patient;
+- the age, general condition, and medical status of the patient;
 - the patient's degree of opioid tolerance;
 - the daily dose, potency, and specific characteristics of the opioid the patient has been taking previously;
 - concurrent medications

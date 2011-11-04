@@ -17,7 +17,7 @@ DILAUDID INJECTION (hydromorphone hydrochloride) is supplied in COLORLESS ampule
 Each 1 mL of sterile, aqueous solution contains 1 mg, 2 mg, or 4 mg hydromorphone hydrochloride with 0.2% sodium citrate and 0.2% citric acid solution.
 DILAUDID INJECTION contains no added preservative and is supplied as follows:
 
-NDC 59011-441-10: Box of ten 1 mL (1 mL) ampules NDC 59011-442-10: Box of ten 1 mL (2 mg/mL) ampules NDC 59011-442-25: Box of twenty-five 1 mL (2 mg/mL) ampules NDC 59011-444-10: Box of ten 1 mL (4 mL) ampules
+NDC 59011-441-10: Box of ten 1 mL (1 mg/mL) ampules NDC 59011-442-10: Box of ten 1 mL (2 mg/mL) ampules NDC 59011-442-25: Box of twenty-five 1 mL (2 mg/mL) ampules NDC 59011-444-10: Box of ten 1 mL (4 mg/mL) ampules
 
 DILAUDID-HP INJECTION
 
