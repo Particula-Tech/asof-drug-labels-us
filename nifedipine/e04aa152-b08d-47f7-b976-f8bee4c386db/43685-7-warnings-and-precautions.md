@@ -13,11 +13,6 @@ Severe hypotension and/or increased fluid volume requirements have been reported
 The interaction with high dose fentanyl appears to be due to the combination of PROCARDIA and a beta blocker, but the possibility that it may occur with PROCARDIA alone, with low doses of fentanyl, in other surgical procedures, or with other narcotic analgesics cannot be ruled out.
 In PROCARDIA treated patients where surgery using high dose fentanyl anesthesia is contemplated, the physician should be aware of these potential problems and, if the patient's condition permits, sufficient time (at least 36 hours) should be allowed for PROCARDIA to be washed out of the body prior to surgery.
 
-## Essential Hypertension
-
-PROCARDIA and other immediate-release nifedipine capsules have also been used for the long-term control of essential hypertension, although PROCARDIA capsules have not been approved for this purpose and no properly controlled studies have been conducted to define an appropriate dose or dose interval for such treatment.
-PROCARDIA capsules should not be used for the control of essential hypertension.
-
 ## Increased Angina and/or Myocardial Infarction
 
 Rarely, patients, particularly those who have severe obstructive coronary artery disease, have developed well documented increased frequency, duration, and/or severity of angina or acute myocardial infarction on starting PROCARDIA or at the time of dosage increase.
@@ -27,6 +22,11 @@ Several well-controlled, randomized trials studied the use of immediate-release 
 In none of these trials did immediate-release nifedipine appear to provide any benefit.
 In some of the trials, patients who received immediate-release nifedipine had significantly worse outcomes than patients who received placebo.
 PROCARDIA capsules should not be administered within the first week or two after myocardial infarction, and they should also be avoided in the setting of acute coronary syndrome (when infarction may be imminent).
+
+## Use in Essential Hypertension
+
+PROCARDIA and other immediate-release nifedipine capsules have also been used for the long-term control of essential hypertension, although PROCARDIA capsules have not been approved for this purpose and no properly controlled studies have been conducted to define an appropriate dose or dose interval for such treatment.
+PROCARDIA capsules should not be used for the control of essential hypertension.
 
 ## Beta Blocker Withdrawal
 

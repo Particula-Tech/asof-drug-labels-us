@@ -1,5 +1,3 @@
-Rx only
+LAB-0178-4.0
 
-LAB-0178-3.0
-
-November 2010
+August 2011
