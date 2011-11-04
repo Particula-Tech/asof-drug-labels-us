@@ -18,7 +18,7 @@ GELNIQUE is a prescription medicine used to treat the symptoms of overactive bla
 
 - Urge urinary incontinence (a strong need to urinate with leaking or wetting accidents).
 - Urgency (a strong need to urinate right away).
-- Frequency (urinating often)
+- Frequency (urinating often).
 
 Who should not use GELNIQUE?
 
@@ -86,37 +86,16 @@ Apply GELNIQUE only to 1 of the shaded areas shown in the figure below: (See Fig
 - Wash your hands with soap and water.
 
 2.
-How to use the GELNIQUE pump:
-
-You must prime the GELNIQUE pump before you use it for the first time.
-
-To prime the pump:
-
-- To prime GELNIQUE, hold the pump upright (See Figure B) and fully press down (depress) the pump several times with your thumb or index finger until you see gel come out (typically, this will take four or more depressions).
-  After gel is observed, fully depress the pump one more time, and discard this portion of the product to assure precise dose delivery.
-  The pump is now primed and GELNIQUE is ready to use.
-
-Dispensing your dose of GELNIQUE:
-
-- Place your hand under the GELNIQUE pump (See Figure C). Press the pump all the way down 1 time.
-  You can also place the pump right over the application site then press the pump all the way down 1 time to dispense your dose.
-  The amount of gel dispensed with one full pump equals one daily dose of GELNIQUE.
-- The amount of gel that equals your dose will be about the size of a nickel.
-
-- Apply the gel to your skin in the selected body area (See Figure A) and wash your hands with soap and water right away.
-- After you have used GELNIQUE pump 30 times, throw it away.
-
-3.
 How to use the GELNIQUE packets (sachets):
 
 - Find the notch at the top of your GELNIQUE packet.
-  Tear off the top of the GELNIQUE packet at the notch (See Figure D).
+  Tear off the top of the GELNIQUE packet at the notch (See Figure B).
 
-- Squeeze all of the GELNIQUE out of the packet onto your hand (palm or fingertips) or you can squeeze all of the GLENIQUE from the packet right onto the application site (See Figure E).
+- Squeeze all of the GELNIQUE out of the packet onto your hand (palm or fingertips) or you can squeeze all of the GLENIQUE from the packet right onto the application site (See Figure C).
 - Squeeze from the bottom of the packet toward the open end.
   Repeat until the packet is empty.
   The amount of GELNIQUE in each packet will be about the size of a nickel.
-  Apply GELNIQUE to your skin (shown in Figure E).
+  Apply GELNIQUE to your skin (shown in Figure C).
 
 - Wash your hands with soap and water right away.
 - Throw away the packet in the trash out of the reach of children to avoid accidental exposure.
@@ -156,7 +135,7 @@ How should I store GELNIQUE?
 - Store GELNIQUE at 68°F to 77°F (20°C to 25°C).
 - Safely throw away GELNIQUE in household trash.
   Be careful to prevent accidental exposure to children or pets.
-- Keep GELNIQUE metered-dose pump and sachets in a dry place.
+- Keep GELNIQUE sachets in a dry place.
 
 Keep GELNIQUE and all medicines out of the reach of children.
 
@@ -183,4 +162,4 @@ For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 
 
 Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: June 2011
+Revised: October 2011
