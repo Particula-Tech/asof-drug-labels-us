@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA017881"
+  ],
+  "inn": "albumin-aggregated",
+  "labeler": "Jubilant DraxImage Inc.",
+  "package_ndcs": [
+    "65174-270-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "kit for the preparation of technetium tc 99m albumin aggregated",
+      "name": "DRAXIMAGE MAA"
+    }
+  ],
+  "setid": "bbefaa05-1dc0-3ae7-7264-ce1eddf0da2b",
+  "source": "dailymed"
+}
