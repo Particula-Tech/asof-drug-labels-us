@@ -66,7 +66,7 @@ Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials w
 | Gastrointestinal Disorders | gastritis stomatitis pancreatitis esophagitis gastroenteritis glossitis pseudomembraneous/C. difficile colitis [see Warnings and Precautions (5.7)] |
 | Hepatobiliary Disorders | abnormal hepatic function increased hepatic enzymes increased alkaline phosphatase |
 | Skin and Subcutaneous Tissue Disorders | urticaria [see Warnings and Precautions (5.3)] |
-| Musculoskeletal and Connective Tissue Disorders | arthralgia tendonitis [see Warnings and Precautions (5.1)] myalgia skeletal pain |
+| Musculoskeletal and Connective Tissue Disorders | arthralgia tendinitis [see Warnings and Precautions (5.1)] myalgia skeletal pain |
 | Renal and Urinary Disorders | abnormal renal function acute renal failure [see Warnings and Precautions (5.4)] |
 | a N = 7274 |  |
 

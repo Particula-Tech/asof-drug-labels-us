@@ -55,7 +55,7 @@ Call your healthcare provider if you think your condition is not getting better 
 Who should not take levofloxacin tablets?
 Do not take levofloxacin tablets if you have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone, or if you are allergic to any of the ingredients in levofloxacin tablets.
 Ask your healthcare provider if you are not sure.
-See the list of the ingredients in levofloxacin tablets at end of this Medication Guide.
+See the list of the ingredients in levofloxacin tablets at the end of this Medication Guide.
 What should I tell my healthcare provider before taking levofloxacin tablets?
 See “What is the most important information I should know about levofloxacin tablets?”
 Tell your healthcare provider about all your medical conditions, including if you:
@@ -252,4 +252,4 @@ For more information call 1-866-850-2876.
 What are the ingredients in levofloxacin tablets?
 Active ingredient: levofloxacin Inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, polysorbate 80, and titanium dioxide.
 In addition 250 mg contains iron oxide red and 500 mg contains iron oxide red and iron oxide yellow This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Issued: March 2011
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 06/2011

@@ -49,7 +49,7 @@ The mean ± SD peak and trough plasma concentrations attained following multiple
 The mean ± SD peak and trough plasma concentrations attained following multiple once-daily IV regimens were approximately 6.4 ± 0.8 and 0.6 ± 0.2 mcg/mL after the 500 mg doses, and 12.1 ± 4.1 and 1.3 ± 0.71 mcg/mL after the 750 mg doses, respectively.
 Oral administration of a 500 mg dose of levofloxacin with food prolongs the time to peak concentration by approximately 1 hour and decreases the peak concentration by approximately 14% following tablet and approximately 25% following oral solution administration.
 Therefore, levofloxacin tablets can be administered without regard to food.
-It is recommended that levofloxacin oral solution be taken 1 hour before, or 2 hours after eating.
+It is recommended that levofloxacin oral solution be taken 1 hour before or 2 hours after eating.
 The plasma concentration profile of levofloxacin after IV administration is similar and comparable in extent of exposure (AUC) to that observed for levofloxacin tablets when equal doses (mg/mg) are administered.
 Therefore, the oral and IV routes of administration can be considered interchangeable (see Figure 2 and Figure 3).
 Distribution The mean volume of distribution of levofloxacin generally ranges from 74 to 112 L after single and multiple 500 mg or 750 mg doses, indicating widespread distribution into body tissues.
@@ -124,7 +124,7 @@ The MIC values should be interpreted according to the criteria outlined in Table
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure 2 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 5 mcg levofloxacin to test the susceptibility of microorganisms to levofloxacin.
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according the criteria outlined in Table 9.
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg levofloxacin disk should be interpreted according to the criteria outlined in Table 9.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for levofloxacin.
 
 Table 9: Susceptibility Interpretive Criteria for Levofloxacin
@@ -158,12 +158,12 @@ Table 10: Quality Control for Susceptibility Testing
 
 | Microorganism | Microorganism QC Number | MIC (mcg/mL) | Disk Diffusion (zone diameter in mm) |
 | --- | --- | --- | --- |
-| Enterococcus faecalis | ATCC 29212 | 0.25 – 2 | Not applicable |
+| Enterococcus faecalis | ATCC 29212 | 0.25 – 2 | -- |
 | Escherichia coli | ATCC 25922 | 0.008 – 0.06 | 29 – 37 |
-| Escherichia coli | ATCC 35218 | 0.015 – 0.06 | Not applicable |
+| Escherichia coli** | ATCC 35218 | 0.015 – 0.06 | -- |
 | Haemophilus influenzae | ATCC 49247 | 0.008 – 0.03a | 32 – 40b |
 | Pseudomonas aeruginosa | ATCC 27853 | 0.5 – 4 | 19 – 26 |
-| Staphylococcus aureus | ATCC 29213 | 0.06 – 0.5 | Not applicable |
-| Staphylococcus aureus | ATCC 25923 | Not applicable | 25 – 30 |
+| Staphylococcus aureus | ATCC 29213 | 0.06 – 0.5 | -- |
+| Staphylococcus aureus | ATCC 25923 | -- | 25 – 30 |
 | Streptococcus pneumoniae | ATCC 49619 | 0.5 – 2c | 20 – 25d |
-| a This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM).1 b This quality control range is applicable to only H. influenzae ATCC 49247 tested by a disk diffusion procedure using Haemophilus Test Medium (HTM).2 c This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood. d This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a disk diffusion procedure using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2. |  |  |  |
+| a This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM).1 b This quality control range is applicable to only H. influenzae ATCC 49247 tested by a disk diffusion procedure using Haemophilus Test Medium (HTM).2 c This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood. d This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a disk diffusion procedure using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2. **Careful maintenance of this organism is required as the strain may lose its plasmid. |  |  |  |
