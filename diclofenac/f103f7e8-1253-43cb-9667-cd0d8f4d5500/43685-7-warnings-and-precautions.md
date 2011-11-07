@@ -37,7 +37,7 @@ For high risk patients, consider alternate therapies that do not involve NSAIDs.
 Borderline elevations (less than 3 times the upper limit of the normal [ULN] range) or greater elevations of transaminases occurred in about 15% of oral diclofenac-treated patients in clinical trials of indications other than acute pain.
 Of the markers of hepatic function, ALT (SGPT) is recommended for the monitoring of liver injury.
 
-In clinical trials of an oral diclofenac – misoprostol combination product, meaningful elevations (i.e., more than 3 times the ULN) of AST (SGOT) occurred in about 2% of approximately 5,7000 patients at some time during diclofenac treatment (ALT was not measured in all studies).
+In clinical trials of an oral diclofenac – misoprostol combination product, meaningful elevations (i.e., more than 3 times the ULN) of AST (SGOT) occurred in about 2% of approximately 5,700 patients at some time during diclofenac treatment (ALT was not measured in all studies).
 
 In an open-label, controlled trial of 3,700 patients treated for 2-6 months, patients with oral diclofenac were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks.
 Meaningful elevations of ALT and/or AST occurred in about 4% of the 3,700 patients and included marked elevations (>8 times the ULN) in about 1% of the 3,700 patients.
