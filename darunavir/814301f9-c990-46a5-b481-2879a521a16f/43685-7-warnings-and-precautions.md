@@ -34,11 +34,15 @@ Rash (all grades, regardless of causality) occurred in 10.3% of subjects treated
 Rash was mostly mild-to-moderate, often occurring within the first four weeks of treatment and resolving with continued dosing.
 The discontinuation rate due to rash in subjects using PREZISTA/ritonavir was 0.5%.
 
+Rash occurred more commonly in treatment-experienced subjects receiving regimens containing PREZISTA/ritonavir + raltegravir compared to subjects receiving PREZISTA/ritonavir without raltegravir or raltegravir without PREZISTA/ritonavir.
+However, rash that was considered drug related occurred at similar rates for all three groups.
+These rashes were mild to moderate in severity and did not limit therapy; there were no discontinuations due to rash.
+
 ## 5.4 Sulfa Allergy
 
 Darunavir contains a sulfonamide moiety.
 PREZISTA should be used with caution in patients with a known sulfonamide allergy.
-In clinical studies with PREZISTA/ritonavir, the incidence and severity of rash was similar in subjects with or without a history of sulfonamide allergy.
+In clinical studies with PREZISTA/ritonavir, the incidence and severity of rash were similar in subjects with or without a history of sulfonamide allergy.
 
 ## 5.5 Drug Interactions
 

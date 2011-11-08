@@ -5,7 +5,7 @@
 Carcinogenesis and Mutagenesis
 
 Darunavir was evaluated for carcinogenic potential by oral gavage administration to mice and rats up to 104 weeks.
-Daily doses of 150, 450 and 1000 mg/kg were administered to mice and doses of 50, 150 and 500 mg/kg were administered to rats.
+Daily doses of 150, 450 and 1000 mg/kg were administered to mice and doses of 50, 150 and 500 mg/kg was administered to rats.
 A dose-related increase in the incidence of hepatocellular adenomas and carcinomas were observed in males and females of both species as well as an increase in thyroid follicular cell adenomas in male rats.
 The observed hepatocellular findings in rodents are considered to be of limited relevance to humans.
 Repeated administration of darunavir to rats caused hepatic microsomal enzyme induction and increased thyroid hormone elimination, which predispose rats, but not humans, to thyroid neoplasms.

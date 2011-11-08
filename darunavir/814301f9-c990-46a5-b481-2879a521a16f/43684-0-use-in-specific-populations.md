@@ -40,12 +40,13 @@ Please see Dosage and Administration (2.2) for dosing recommendations for pediat
 ## 8.5 Geriatric Use
 
 Clinical studies of PREZISTA did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
-In general, caution should be exercised in the administration and monitoring of PREZISTA in elderly patients reflecting the greater frequency of decreased hepatic function, and of concomitant disease or other drug therapy [see Clinical Pharmacology (12.3)].
+In general, caution should be exercised in the administration and monitoring of PREZISTA in elderly patients, reflecting the greater frequency of decreased hepatic function, and of concomitant disease or other drug therapy [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Hepatic Impairment
 
 No dose adjustment of PREZISTA/ritonavir is necessary for patients with either mild or moderate hepatic impairment.
-No pharmacokinetic or safety data are available regarding the use of PREZISTA/ritonavir in subjects with severe hepatic impairment, therefore, PREZISTA/ritonavir is not recommended for use in patients with severe hepatic impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+No pharmacokinetic or safety data are available regarding the use of PREZISTA/ritonavir in subjects with severe hepatic impairment.
+Therefore, PREZISTA/ritonavir is not recommended for use in patients with severe hepatic impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

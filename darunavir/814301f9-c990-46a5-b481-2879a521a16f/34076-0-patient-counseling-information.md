@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling]
+[See FDA-Approved Patient Labeling (Patient Information)]
 
 A statement to patients and healthcare providers is included on the product's bottle label: ALERT: Find out about medicines that should NOT be taken with PREZISTA.
 A Patient Package Insert for PREZISTA is available for patient information.

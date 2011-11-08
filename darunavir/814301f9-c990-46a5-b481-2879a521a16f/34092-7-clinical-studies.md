@@ -2,8 +2,8 @@
 
 ## 14.1 Description of Adult Clinical Studies
 
-The evidence of efficacy of PREZISTA/ritonavir is based on the analyses of 96-week data from 2 randomized, controlled open-label Phase 3 trials in treatment-naïve (TMC114-C211) and antiretroviral treatment-experienced (TMC114-C214) HIV-1-infected adult subjects.
-In addition, 96-week data is included from 2 randomized, controlled Phase 2b trials, TMC114-C213 and TMC114-C202, in antiretroviral treatment-experienced HIV-1-infected adult subjects.
+The evidence of efficacy of PREZISTA/ritonavir is based on the analyses of 192-week data from a randomized, controlled open-label Phase 3 trial in treatment-naïve (TMC114-C211) HIV-1 infected adult subjects and 96-week data from a randomized, controlled, open-label Phase 3 trial in antiretroviral treatment-experienced (TMC114-C214) HIV-1-infected adult subjects.
+In addition, 96-week data are included from 2 randomized, controlled Phase 2b trials, TMC114-C213 and TMC114-C202, in antiretroviral treatment-experienced HIV-1-infected adult subjects.
 
 ## 14.2 Treatment-Naïve Adult Subjects
 
@@ -15,7 +15,7 @@ Both arms used a fixed background regimen consisting of tenofovir disoproxil fum
 HIV-1-infected subjects who were eligible for this trial had plasma HIV-1 RNA ≥ 5000 copies/mL.
 Randomization was stratified by screening plasma viral load (HIV-1 RNA < 100,000 copies/mL or ≥ 100,000 copies/mL) and screening CD4+ cell count (< 200 cells/mm3 or ≥ 200 cells/mm3).
 Virologic response was defined as a confirmed plasma HIV-1 RNA viral load < 50 copies/mL.
-Analyses included 689 subjects in Study TMC114-C211 who had completed 96 weeks of treatment or discontinued earlier.
+Analyses included 689 subjects in Study TMC114-C211 who had completed 192 weeks of treatment or discontinued earlier.
 
 Demographics and baseline characteristics were balanced between the PREZISTA/ritonavir arm and the lopinavir/ritonavir arm (see Table 14).
 Table 14 compares the demographic and baseline characteristics between subjects in the PREZISTA/ritonavir 800/100 mg once daily arm and subjects in the lopinavir/ritonavir 800/200 mg per day arm in Study TMC114-C211.
@@ -41,21 +41,23 @@ Table 14: Demographic and Baseline Characteristics of Subjects in Study TMC114-C
 | Percentage of Patients with Baseline Viral Load ≥ 100,000 copies/mL | 34% | 35% |
 | Percentage of Patients with Baseline CD4+ Cell Count < 200 cells/mm3 | 41% | 43% |
 
-Week 96 outcomes for subjects on PREZISTA/ritonavir 800/100 mg once daily from Study TMC114-C211 are shown in Table 15.
+Week 192 outcomes for subjects on PREZISTA/ritonavir 800/100 mg once daily from Study TMC114-C211 are shown in Table 15.
 
-Table 15: Virologic Outcome of Randomized Treatment of Study TMC114-C211 at 96 Weeks
+Table 15: Virologic Outcome of Randomized Treatment of Study TMC114-C211 at 192 Weeks
 
 |  | PREZISTA/ritonavir 800/100 mg once daily + TDF/FTC N = 343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N = 346 |
 | --- | --- | --- |
-| Virologic success HIV-1 RNA < 50 copies/mL | 78% | 74% |
-| Virologic failureIncludes patients who discontinued prior to Week 96 for lack or loss of efficacy and patients who are ≥ 50 copies in the 96 week window and patients who had a change in their background regimen that was not permitted by the protocol. | 11% | 12% |
-| No virologic data at Week 96 windowWindow 90–102 Weeks Reasons |  |  |
-| Discontinued study due to adverse event or deathIncludes patients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 4% | 9% |
-| Discontinued study for other reasonsOther includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was < 50 copies/mL. | 6% | 5% |
-| Missing data during window but on study | 1% | < 1% |
+| Virologic success HIV-1 RNA < 50 copies/mL | 70%95% CI: 1.9; 16.1 | 61% |
+| Virologic failureIncludes patients who discontinued prior to Week 192 for lack or loss of efficacy and patients who are ≥ 50 copies in the 192-week window and patients who had a change in their background regimen that was not permitted by the protocol | 12% | 15% |
+| No virologic data at Week 192 windowWindow 186-198 Weeks Reasons |  |  |
+| Discontinued study due to adverse event or deathIncludes patients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window | 5% | 13% |
+| Discontinued study for other reasonsOther includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was < 50 copies/mL | 13% | 12% |
+| Missing data during window but on study | <1% | 0% |
 | N = total number of subjects with data |  |  |
 
-In Study TMC114-C211 at 96 weeks of treatment, the median increase from baseline in CD4+ cell counts was 171 cells/mm3 in the PREZISTA/ritonavir 800/100 mg once daily arm and 188 cells/mm3 in the lopinavir/ritonavir 800/200 mg per day arm.
+In Study TMC114-C211 at 192 weeks of treatment, the median increase from baseline in CD4+ cell counts was 258 cells/mm3 in the PREZISTA/ritonavir 800/100 mg once daily arm and 263 cells/mm3 in the lopinavir/ritonavir 800/200 mg per day arm.
+Of the PREZISTA/ritonavir subjects with a confirmed virologic response of < 50 copies/mL at Week 48, 81% remained undetectable at Week 192 versus 68% with lopinavir/ritonavir.
+In the 192 week analysis, statistical superiority of the PREZISTA/ritonavir regimen over the lopinavir/ritonavir regimen was demonstrated for both ITT and OP populations.
 
 ## 14.3 Treatment-Experienced Adult Subjects
 
@@ -116,7 +118,7 @@ Table 17: Virologic Outcome of Randomized Treatment of Study TMC114-C229 at 48 W
 | --- | --- | --- |
 |  | Randomized Study TMC114-C229 |  |
 | Virologic success HIV-1 RNA < 50 copies/mL | 69% | 69% |
-| Virologic failureIncludes patients who discontinued prior to Week 48 for lack or loss of efficacy, patients who are ≥ 50 copies in the 48 week window, patients who had a change in their background regimen that was not permitted in the protocol (provided the switch occurred before the earliest onset of an AE leading to permanent stop of study medication) and patients who discontinued for reasons other than AEs/death and lack or loss of efficacy (provided their last available viral load was detectable (HIV RNA ≥ 50 copies/mL). | 26% | 23% |
+| Virologic failureIncludes patients who discontinued prior to Week 48 for lack or loss of efficacy, patients who are ≥ 50 copies in the 48-week window, patients who had a change in their background regimen that was not permitted in the protocol (provided the switch occurred before the earliest onset of an AE leading to permanent stop of study medication) and patients who discontinued for reasons other than AEs/death and lack or loss of efficacy (provided their last available viral load was detectable (HIV RNA ≥ 50 copies/mL). | 26% | 23% |
 | No virologic data at Week 48 windowWindow 42–54 Weeks Reasons |  |  |
 | Discontinued study due to adverse event or deathPatients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 3% | 4% |
 | Discontinued study for other reasonsOther includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was < 50 copies/mL. | 2% | 3% |
@@ -180,7 +182,7 @@ Table 19: Virologic Outcome of Randomized Treatment of Study TMC114-C214 at 96 W
 |  | PREZISTA/ritonavir 600/100 mg twice daily + OBR N = 298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N = 297 |
 | --- | --- | --- |
 | Virologic success HIV-1 RNA < 50 copies/mL | 58% | 52% |
-| Virologic failureIncludes patients who discontinued prior to Week 96 for lack or loss of efficacy and patients who are ≥ 50 copies in the 96 week window and patients who had a change in their OBR that was not permitted by the protocol. | 26% | 33% |
+| Virologic failureIncludes patients who discontinued prior to Week 96 for lack or loss of efficacy and patients who are ≥ 50 copies in the 96-week window and patients who had a change in their OBR that was not permitted by the protocol. | 26% | 33% |
 | No virologic data at Week 96 windowWindow 90–102 Weeks Reasons |  |  |
 | Discontinued study due to adverse event or deathIncludes patients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 7% | 8% |
 | Discontinued study for other reasonsOther includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was < 50 copies/mL. | 8% | 7% |
@@ -245,7 +247,7 @@ Week 96 outcomes for subjects on the recommended dose PREZISTA/ritonavir 600/100
 
 Table 21: Outcomes of Randomized Treatment Through Week 96 of the Studies TMC114-C213 and TMC114-C202 (Pooled Analysis)
 
-| PREZISTA/ritonavir 600/100 mg twice daily + OBR N=131 | Comparator PI + OBR N=124 |  |
+| PREZISTA/ritonavir 600/100 mg twice daily + OBR N=131 | Comparator PI(s) + OBR N=124 |  |
 | --- | --- | --- |
 |  | Randomized Studies TMC114-C213 and TMC114-C202 |  |
 | Virologic Responders confirmed at least 1 log10 HIV-1 RNA below baseline through Week 96 (< 50 copies/mL at Week 96) | 57% (39%) | 10% (9%) |
@@ -274,7 +276,7 @@ The mean baseline plasma HIV-1 RNA was 4.64 log10 copies/mL, and the median base
 Overall, 38% of pediatric subjects had baseline plasma HIV-1 RNA ≥ 100,000 copies/mL.
 Most pediatric subjects (79%) had previous use of at least one NNRTI and 96% of pediatric subjects had previously used at least one PI.
 
-Seventy-seven pediatric subjects (96%) completed the 24 week period.
+Seventy-seven pediatric subjects (96%) completed the 24-week period.
 Of the patients who discontinued, one patient discontinued treatment due to an adverse event.
 An additional 2 patients discontinued for other reasons, one patient due to compliance and another patient due to relocation.
 
