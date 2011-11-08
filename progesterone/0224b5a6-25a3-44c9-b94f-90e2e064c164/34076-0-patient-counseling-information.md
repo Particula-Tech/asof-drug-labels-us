@@ -2,13 +2,13 @@
 
 PROMETRIUM® (progesterone, USP) Capsules 100 mg Capsules 200 mg
 
-Read this PATIENT INFORMATION before you start taking PROMETRIUM® Capsules and read what you get each time you refill your PROMETRIUM Capsules prescription.
+Read this PATIENT INFORMATION before you start taking PROMETRIUM Capsules and read what you get each time you refill your PROMETRIUM Capsules prescription.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
 | WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT PROMETRIUM CAPSULES (A Progesterone Hormone)? |
 | --- |
-| Progesterone with or without estrogens should not be used to prevent heart disease, heart attacks, strokes, or dementia. Using estrogens with or without progestins may increase your chance of getting heart attacks, strokes, breast cancer, and blood clots. Using estrogens with or without progestins may increase your chance of getting dementia, based on a study of women age 65 and older. You and your healthcare provider should talk regularly about whether you still need treatment with PROMETRIUM Capsules. |
+| Progestins with estrogens should not be used to prevent heart disease, heart attacks, strokes, or dementia.Using progestins with estrogens may increase your chance of getting heart attacks, strokes, breast cancer, and blood clots.Using progestins with estrogens may increase your chance of getting dementia, based on a study of women age 65 and older.You and your healthcare provider should talk regularly about whether you still need treatment with PROMETRIUM Capsules. |
 
 THIS PRODUCT CONTAINS PEANUT OIL AND SHOULD NOT BE USED IF YOU ARE ALLERGIC TO PEANUTS.
 
@@ -26,87 +26,77 @@ If your healthcare provider has determined your body does not produce enough pro
 
 Protection of the Endometrium (Lining of the Uterus)
 
-PROMETRIUM Capsules are used in combination with estrogen-containing medications in postmenopausal women with a uterus.
-Taking estrogens alone increases the chance of developing a condition called endometrial hyperplasia, that may lead to cancer of the lining of the uterus.
-The addition of a progestin is generally recommended for women with a uterus to reduce the chance of getting cancer of the uterus.
+PROMETRIUM Capsules are used in combination with estrogen-containing medications in a postmenopausal woman with a uterus (womb).
+Taking estrogen-alone increases the chance of developing a condition called endometrial hyperplasia that may lead to cancer of the lining of the uterus (womb).
+The addition of a progestin is generally recommended for a woman with a uterus to reduce the chance of getting cancer of the uterus (womb).
 
 Who should not take PROMETRIUM Capsules?
 
 Do not start taking PROMETRIUM Capsules if you:
 
-- Are allergic to peanuts.
-- Have unusual vaginal bleeding.
-- Currently have or have had certain cancers.
-  Estrogens/progestins may increase the chance of getting certain types of cancers, including cancer of the breast or uterus.
+- Are allergic to peanuts
+- Have unusual vaginal bleeding
+- Currently have or have had certain cancers Estrogen plus progestin treatment may increase the chance of getting certain types of cancers, including cancer of the breast or uterus.
   If you have or have had cancer, talk with your healthcare provider about whether you should take PROMETRIUM Capsules.
-- Had a stroke or heart attack.
-- Currently have or have had blood clots.
-- Currently have or have had liver problems.
-- Are allergic to any of the ingredients in PROMETRIUM Capsules.
-  See the list of ingredients at the end of this leaflet.
-- Think you may be pregnant.
+- Had a stroke or heart attack
+- Currently have or have had blood clots
+- Currently have or have had liver problems
+- Are allergic to PROMETRIUM Capsules or any of its ingredientsSee the list of ingredients in PROMETRIUM Capsules at the end of this leaflet.
+- Think you may be pregnant
 
 Tell your healthcare provider:
 
 - If you are breastfeeding.
-  The hormones in PROMETRIUM Capsules can pass into your milk.
+  The hormone in PROMETRIUM Capsules can pass into your breast milk.
 - About all of your medical problems.
-  Your healthcare provider may need to check you more carefully if you have certain conditions, such as diabetes, asthma (wheezing), epilepsy (seizures), migraine, endometriosis, lupus, problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
+  Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, problems with your heart, liver, thyroid, or kidneys, or have high calcium levels in your blood.
 - About all the medicines you take.
   This includes prescription and nonprescription medicines, vitamins, and herbal supplements.
-  Some medicines may affect how PROMETRIUM Capsules works.
+  Some medicines may affect how PROMETRIUM Capsules work.
   PROMETRIUM Capsules may also affect how your other medicines work.
-- If you have an abnormal PAP smear: Your healthcare provider should be told that you are taking progesterone.
 
 How should I take PROMETRIUM Capsules?
 
-1. Prevention of Endometrial Hyperplasia: Postmenopausal women with a uterus who are taking estrogens should take a single daily dose of 200 mg PROMETRIUM Capsules at bedtime for 12 continuous days per 28-day cycle.
+1. Prevention of Endometrial Hyperplasia: A postmenopausal woman with a uterus who is taking estrogens should take a single daily dose of 200 mg PROMETRIUM Capsules at bedtime for 12 continuous days per 28-day cycle.
 2. Secondary Amenorrhea: PROMETRIUM Capsules may be given as a single daily dose of 400 mg at bedtime for 10 days.
 3. PROMETRIUM Capsules are to be taken at bedtime as some women become very drowsy and/or dizzy after taking PROMETRIUM Capsules.
-   In a small percentage of these women, these effects may be increased including blurred vision, difficulty speaking, difficulty walking, and feeling abnormal.
-   If you experience these symptoms, discuss them with your healthcare provider immediately.
-   Taking PROMETRIUM Capsules at bedtime may minimize the impact of these symptoms.
-
-If you experience difficulty in swallowing PROMETRIUM Capsules, it is recommended that you take your daily dose at bedtime with a glass of water while in the standing position.
+   In a few cases, symptoms may include blurred vision, difficulty speaking, difficulty with walking, and feeling abnormal.
+   If you experience these symptoms, discuss them with your healthcare provider right away.
+4. If you experience difficulty in swallowing PROMETRIUM Capsules, it is recommended that you take your daily dose at bedtime with a glass of water while in the standing position.
 
 What are the possible side effects of PROMETRIUM Capsules?
 
-The following side effects are grouped by how serious they are and how often they happen when you are treated:
+Side effects are grouped by how serious they are and how often they happen when you are treated:
 
-Serious but less common side effects include:
+Serious, but less common side effects include:
 
-- Risk to the Fetus: Rare cases of cleft palate, cleft lip, hypospadias, ventricular septal defect, patent ductus arteriosus, and other congenital heart defects.
-- Abnormal Blood Clotting: stroke (cutting off blood to part of the brain), heart attack (cutting off blood to part of the heart), pulmonary embolus (cutting off blood to part of the lungs), visual loss or blindness (cutting off blood vessels in the eye).
+- Risk to the Fetus: Cases of cleft palate, cleft lip, hypospadias, ventricular septal defect, patent ductus arteriosus, and other congenital heart defects.
+- Abnormal Blood Clotting: Stroke, heart attack, pulmonary embolus, visual loss or blindness.
 
-Less serious but common side effects include:
+Some of the warning signs of serious side effects include:
+
+- Changes in vision or speech
+- Sudden new severe headaches
+- Severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
+- Dizziness and faintness
+- Vomiting
+
+Call your healthcare provider right away if you get any of these warning signs, or any other unusual symptoms that concern you.
+
+Less serious, but common side effects include:
 
 - Headaches
 - Breast pain
 - Irregular vaginal bleeding or spotting
-- Stomach/abdominal cramps, bloating
+- Stomach or abdominal cramps, bloating
 - Nausea and vomiting
 - Hair loss
 - Fluid retention
 - Vaginal yeast infection
 
 These are not all the possible side effects of PROMETRIUM Capsules.
-For more information, ask your healthcare provider or pharmacist.
-
-Some of the warning signs of serious side effects include:
-
-- Breast lumps (Ask your healthcare provider to show you how to examine your breasts monthly.)
-- Unusual bleeding from the vagina
-- Dizziness and faintness
-- Changes in speech
-- Severe headaches
-- Chest pain
-- Shortness of breath
-- Pains in your legs
-- Changes in vision
-- Vomiting
-- Yellowing of the skin, eyes or nail beds
-
-Call your healthcare provider right away if you get any of these warning signs, or any other unusual symptoms that concern you.
+For more information, ask your healthcare provider or pharmacist for advice about side effects.
+You may report side effects to Abbott Laboratories at 1-800-241-1643 or to FDA at 1-800-FDA-1088.
 
 What can I do to lower my chances of getting a serious side effect with PROMETRIUM Capsules?
 
@@ -126,9 +116,8 @@ General information about safe and effective use of PROMETRIUM Capsules
   It may harm them.
 - PROMETRIUM Capsules should be taken as a single daily dose at bedtime.
   Some women may experience extreme dizziness and/or drowsiness during initial therapy.
-  In a small percentage of women, these effects may be increased including blurred vision, difficulty speaking, difficulty walking, and feeling abnormal.
-  If you experience these symptoms, discuss them with your healthcare provider immediately.
-  A single bedtime dose may reduce the impact of these symptoms.
+  In a few cases, symptoms may include blurred vision, difficulty speaking, difficulty with walking, and feeling abnormal.
+  If you experience these symptoms, discuss them with your healthcare provider right away.
 - Use caution when driving a motor vehicle or operating machinery as dizziness or drowsiness may occur.
 
 Keep PROMETRIUM Capsules out of the reach of children.
@@ -148,9 +137,9 @@ The inactive ingredients for PROMETRIUM Capsules 200 mg include: peanut oil NF, 
 
 HOW SUPPLIED
 
-PROMETRIUM Capsules 100 mg are round, peach-colored capsules branded with black imprint “SV.”
+PROMETRIUM Capsules 100 mg are round, peach-colored capsules branded with black imprint “aC.”
 
-PROMETRIUM Capsules 200 mg are oval, pale yellow-colored capsules branded with black imprint “SV2.”
+PROMETRIUM Capsules 200 mg are oval, pale yellow-colored capsules branded with black imprint “aCM.”
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 
@@ -160,7 +149,7 @@ Manufactured by: Catalent Pharma Solutions St. Petersburg, FL 33716
 
 Marketed by: Abbott Laboratories North Chicago, IL 60064, U.S.A.
 
-© 2010 Abbott Laboratories.
+© 2011 Abbott Laboratories.
 All rights reserved.
 
-500033 3E Rev Mar 2010
+Revised: 11/2011

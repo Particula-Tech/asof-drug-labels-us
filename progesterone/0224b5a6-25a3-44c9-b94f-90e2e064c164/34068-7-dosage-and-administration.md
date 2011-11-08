@@ -2,7 +2,7 @@
 
 ## Prevention of Endometrial Hyperplasia
 
-PROMETRIUM Capsules should be given as a single daily dose at bedtime, 200 mg orally for 12 days sequentially per 28-day cycle, to postmenopausal women with a uterus who are receiving daily conjugated estrogens tablets.
+PROMETRIUM Capsules should be given as a single daily dose at bedtime, 200 mg orally for 12 days sequentially per 28-day cycle, to a postmenopausal woman with a uterus who is receiving daily conjugated estrogens tablets.
 
 ## Treatment of Secondary Amenorrhea
 
