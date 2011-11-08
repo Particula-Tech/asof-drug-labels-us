@@ -65,11 +65,11 @@ Frequency of Monitoring based on Stage of Therapy or Results from WBC Count and 
 | 12 months of therapy | All results for WBC ≥3500/mm3 and ANC ≥2000/mm3 | Every 4 weeks ad infinitum |
 | Immature forms present | N/A | Repeat WBC and ANC |
 | Discontinuation of Therapy | N/A | Weekly for at least 4 weeks from day of discontinuation or until WBC ≥3500/mm3 and ANC >2000/mm3 |
-| Substantial drop in WBC or ANC | Single Drop or cumulative drop within 3 weeks of WBC ≥3000/mm3 or ANC ≥1500/mm3 | 1. Repeat WBC and ANC 2. If repeat values are 3000/mm3 ≤WBC ≤3500/mm3 and ANC <2000/mm3, then monitor twice weekly |
+| Substantial drop in WBC or ANC | Single Drop or cumulative drop within 3 weeks of WBC ≥3000/mm3 or ANC ≥1500/mm3 | Repeat WBC and ANC If repeat values are 3000/mm3 ≤WBC ≤3500/mm3 and ANC <2000/mm3, then monitor twice weekly |
 | Mild Leukopenia -------------------------- Mild Granulocytopenia | 3500/mm3 >WBC ≥3000/mm3 and/or 2000/mm3 >ANC ≥1500/mm3 | Twice-weekly until WBC >3500/mm3 and ANC >2000/mm3 then return to previous monitoring frequency |
-| Moderate Leukopenia --------------------------- Moderate Granulocytopenia | 3000/mm3 >WBC ≥2000/mm3 and/or 1500/mm3 > ANC ≥1000/mm3 | 1. Interrupt therapy 2. Daily until WBC >3000/mm3 and ANC >1500/mm3 3. Twice-weekly until WBC >3500/mm3 and ANC >2000/mm3 4. May rechallenge when WBC >3500/mm3 and ANC >2000/mm3 5. If rechallenged, monitor weekly for 1 year before returning to the usual monitoring schedule of every 2 weeks for 6 months and then every 4 weeks ad infinitum |
-| Severe Leukopenia ------------------------ Severe Granulocytopenia | WBC <2000/mm3 and/or ANC <1000/mm3 | 1. Discontinue treatment and do not rechallenge patient 2. Monitor until normal and for at least four weeks from day of discontinuation as follows: Daily until WBC >3000/mm3 and ANC >1500/mm3 Twice weekly until WBC >3500/mm3 and ANC >2000/mm3 Weekly after WBC >3500/mm3 |
-| Agranulocytosis | ANC ≤500/mm3 | 1. Discontinue treatment and do not rechallenge patient 2. Monitor until normal and for at least four weeks from day of discontinuation as follows: Daily until WBC >3000/mm3 and ANC >1500/mm3 Twice weekly until WBC >3500/mm3 and ANC >2000/mm3 Weekly after WBC >3500/mm3 |
+| Moderate Leukopenia --------------------------- Moderate Granulocytopenia | 3000/mm3 >WBC ≥2000/mm3 and/or 1500/mm3 > ANC ≥1000/mm3 | Interrupt therapy Daily until WBC >3000/mm3 and ANC >1500/mm3 Twice-weekly until WBC >3500/mm3 and ANC >2000/mm3 May rechallenge when WBC >3500/mm3 and ANC >2000/mm3 If rechallenged, monitor weekly for 1 year before returning to the usual monitoring schedule of every 2 weeks for 6 months and then every 4 weeks ad infinitum |
+| Severe Leukopenia ------------------------ Severe Granulocytopenia | WBC <2000/mm3 and/or ANC <1000/mm3 | Discontinue treatment and do not rechallenge patient Monitor until normal and for at least four weeks from day of discontinuation as follows: Daily until WBC >3000/mm3 and ANC >1500/mm3 Twice weekly until WBC >3500/mm3 and ANC >2000/mm3 Weekly after WBC >3500/mm3 |
+| Agranulocytosis | ANC ≤500/mm3 | Discontinue treatment and do not rechallenge patient Monitor until normal and for at least four weeks from day of discontinuation as follows: Daily until WBC >3000/mm3 and ANC >1500/mm3 Twice weekly until WBC >3500/mm3 and ANC >2000/mm3 Weekly after WBC >3500/mm3 |
 | *WBC=white blood cell count; ANC=absolute neutrophil count |  |  |
 
 Decrements in WBC Count and/or ANC
@@ -89,7 +89,7 @@ To reduce the chances of rechallenge occurring in patients who have experienced 
 Treatment of Rechallengeable Patients
 
 Patients may be rechallenged with CLOZARIL® (clozapine) if their WBC count does not fall below 2000/mm3 and the ANC does not fall below 1000/mm3.
-However, analysis of data from the Clozaril® National Registry suggests that patients who have an initial episode of moderate leukopenia (3000/mm3 >WBC ≥2000/mm3) have up to a 12-fold increased risk of having a subsequent episode of agranulocytosis when rechallenged compared to the full cohort of patients treated with CLOZARIL® (clozapine).
+However, analysis of data from the Clozaril® National Registry suggests that patients who have an initial episode of moderate leukopenia (3000/mm3>WBC≥2000/mm3) have up to a 12-fold increased risk of having a subsequent episode of agranulocytosis when rechallenged compared to the full cohort of patients treated with CLOZARIL® (clozapine).
 Although CLOZARIL® (clozapine) therapy may be resumed if no symptoms of infection develop, and when the WBC count rises above 3500/mm3 and the ANC rises above 2000/mm3, prescribers are strongly advised to consider whether the benefit of continuing CLOZARIL® (clozapine) treatment outweighs the increased risk of agranulocytosis.
 
 Analyses of the Clozaril® National Registry have shown an increased risk of having a subsequent episode of granulopoietic suppression up to a year after recovery from the initial episode.
@@ -137,6 +137,31 @@ Therefore, tachycardia during the first month of therapy warrants close monitori
 
 Prompt discontinuation of CLOZARIL treatment is warranted upon suspicion of myocarditis.
 Patients with clozapine-related myocarditis should not be rechallenged with CLOZARIL.
+
+QT Prolongation
+
+QT prolongation is associated with an increased risk for life-threatening ventricular arrhythmias including Torsades de Pointes.
+Treatment with CLOZARIL has been associated with QT prolongation as well as ventricular arrthymia, Torsades de Pointes, cardiac arrest, and sudden death.
+
+Caution should be exercised when CLOZARIL is prescribed in patients with a history of long QT syndrome or QT prolongation, or other conditions that may increase their risk for QT prolongation or sudden death, including recent acute myocardial infarction, uncompensated heart failure, or clinically significant cardiac arrhythmia.
+Caution is also indicated when treating patients with cardiovascular disease or family history of long QT syndrome.
+
+Caution should be exercised when CLOZARIL is used in combination with other medications known to prolong the QTc interval.
+These include antipsychotic medication (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), certain antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), antiarrhythmic medication in Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol), and other medications known to prolong the QT interval (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) (see DRUG INTERACTIONS).
+
+Hypokalemia, (which can result from diuretic therapy, diarrhea, and other causes), and/or hypomagnesemia can also increase the risk of QT prolongation.
+Use caution when treating patients at risk for significant electrolyte disturbance, particularly hypokalemia.
+Baseline measurements of serum potassium and magnesium levels, as well as periodic monitoring of electrolytes, should be performed.
+Electrolyte abnormalities should be corrected before initiating treatment with CLOZARIL.
+
+Persistent QT prolongation predisposes patients to further QTc prolongation and potentially to significant and life-threatening cardiac arrhythmias.
+Routine ECG assessment may detect QTc prolongation but is not always effective in preventing arrhythmias.
+CLOZARIL treatment should be discontinued if the QTc interval exceeds 500 msec.
+Patients taking CLOZARIL who experience symptoms that could indicate the occurrence of Torsades de Pointes, (e.g., syncope, dizziness and palpitations) should have further evaluation, including cardiac monitoring.
+
+Use caution when prescribing CLOZARIL concomitantly with drugs that inhibit the metabolism of CLOZARIL.
+CLOZARIL is primarily metabolized by CYP isoenzymes 1A2, 2D6, and 3A4.
+Use caution when prescribing CLOZARIL in patients with reduced activity of 1A2, 2D6, and 3A4 (see DRUG INTERACTIONS AND CLINICAL PHARMACOLOGY).
 
 ## Other Adverse Cardiovascular and Respiratory Effects
 
@@ -331,6 +356,11 @@ Although it has not been established that there is an interaction between CLOZAR
 CLOZARIL may potentiate the hypotensive effects of antihypertensive drugs and the anticholinergic effects of atropine-type drugs.
 The administration of epinephrine should be avoided in the treatment of drug-induced hypotension because of a possible reverse epinephrine effect.
 
+QT prolongation: Treatment with CLOZARIL has been associated with QT interval prolongation and fatal arrhythmia.
+CLOZARIL should be used with caution when co-administered with medications known to prolong the QTc interval.
+Such medications include: Class 1A (e.g., quinidine, procainamide), Class III (e.g., amiodarone, sotalol) antiarrrythmic medications, certain antipsychotic medications (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), certain antibiotics (e.g. gatifloxacin, moxifloxacin, sparfloxacin), and other medications known to prolong the QT interval (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol and tacrolimus).
+Use caution when co-administering CLOZARIL with medications that can cause electrolyte imbalance (e.g., diuretics) [see WARNINGS].
+
 Pharmacokinetic-Related Interactions
 
 Clozapine is a substrate for many CYP450 isozymes, in particular 1A2, 2D6, and 3A4.
@@ -339,6 +369,10 @@ Nevertheless, caution should be used in patients receiving concomitant treatment
 
 Concomitant administration of drugs known to induce cytochrome P450 enzymes may decrease the plasma levels of clozapine.
 Phenytoin, tobacco smoke, and rifampin may decrease CLOZARIL plasma levels, resulting in a decrease in effectiveness of a previously effective CLOZARIL dose.
+
+QT Prolongation: Use caution when prescribing CLOZARIL concomitantly with drugs that inhibit CLOZARIL metabolism.
+CLOZARIL is primarily metabolized by CYP isoenzymes 1A2, 2D6, and 3A4.
+Use caution when prescribing CLOZARIL in patients with reduced activity 1A2, 2D6, and 3A4.
 
 Concomitant administration of drugs known to inhibit the activity of cytochrome P450 isozymes may increase the plasma levels of clozapine.
 Cimetidine, caffeine, citalopram, ciprofloxacin, and erythromycin may increase plasma levels of CLOZARIL, potentially resulting in adverse effects.
@@ -377,7 +411,7 @@ Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
 These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
 
-Antipsychotic drugs, including Clozaril, should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Antipsychotic drugs, including CLOZARIL, should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers
 

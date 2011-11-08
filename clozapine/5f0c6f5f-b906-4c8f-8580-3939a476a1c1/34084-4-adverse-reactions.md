@@ -108,6 +108,8 @@ These rates are not adjusted for duration of exposure.
 
 Treatment-Emergent Adverse Experience Incidence1 Among Patients Taking CLOZARIL® (clozapine) or Zyprexa® (olanzapine) in the InterSePT™ Study (Percentage of Patients Reporting)
 
+Treatment-Emergent Adverse Experience Incidence Among Patients Taking CLOZARIL® (clozapine) in Clinical Trials (excluding the InterSePT™ Study) (N = 842) (Percentage of Patients Reporting)
+
 |  | Clozaril® N=479 % Reporting | Zyprexa® N=477 % Reporting |
 | --- | --- | --- |
 | Adverse Events |  |  |
@@ -159,6 +161,8 @@ Voluntary reports of adverse events temporally associated with CLOZARIL not ment
 Central Nervous System: delirium; EEG abnormal; exacerbation of psychosis; myoclonus; overdose; paresthesia; possible mild cataplexy, and status epilepticus, and obsessive compulsive symptoms.
 
 Cardiovascular System: atrial or ventricular fibrillation and periorbital edema.
+
+Ventricular tachycardia, cardiac arrest, QT prolongation, and Torsades de Pointes.
 
 Gastrointestinal System: acute pancreatitis; dysphagia; fecal impaction; intestinal obstruction/paralytic ileus; and salivary gland swelling.
 

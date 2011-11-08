@@ -16,7 +16,9 @@ In addition, the need for continuing treatment in patients exhibiting beneficial
 Reduction in the Risk of Recurrent Suicidal Behavior in Schizophrenia or Schizoaffective Disorders
 
 CLOZARIL is indicated for reducing the risk of recurrent suicidal behavior in patients with schizophrenia or schizoaffective disorder who are judged to be at chronic risk for reexperiencing suicidal behavior, based on history and recent clinical state.
-Suicidal behavior refers to actions by a patient that puts him/herself at risk for death.
+Suicidal behavior refers to actions by a patient that
+
+puts him/herself at risk for death.
 
 The effectiveness of CLOZARIL in reducing the risk of recurrent suicidal behavior was demonstrated over a 2-year treatment period in the InterSePT Trial (see Clinical Trial Data under CLINICAL PHARMACOLOGY).
 Therefore, CLOZARIL treatment to reduce the risk of suicidal behavior should be continued for at least 2 years (see DOSAGE AND ADMINISTRATION).
