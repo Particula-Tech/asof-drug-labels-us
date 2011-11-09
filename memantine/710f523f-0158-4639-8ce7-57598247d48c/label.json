@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "NDA022525"
+  ],
+  "inn": "memantine",
+  "labeler": "Forest Laboratories, Inc.",
+  "package_ndcs": [
+    "0456-3400-29",
+    "0456-3407-33",
+    "0456-3414-11",
+    "0456-3414-33",
+    "0456-3414-63",
+    "0456-3414-90",
+    "0456-3421-33",
+    "0456-3428-11",
+    "0456-3428-33",
+    "0456-3428-63",
+    "0456-3428-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "memantine hydrochloride",
+      "name": "Namenda"
+    },
+    {
+      "form": "KIT",
+      "generic": "memantine hydrochloride",
+      "name": "Namenda"
+    }
+  ],
+  "setid": "710f523f-0158-4639-8ce7-57598247d48c",
+  "source": "dailymed"
+}
