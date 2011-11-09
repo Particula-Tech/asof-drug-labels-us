@@ -92,7 +92,7 @@ PREVACID SoluTab Delayed-Release Orally Disintegrating Tablets
     - After the tablet has dispersed, administer the contents within 15 minutes.
     - Refill the syringe with approximately 2 mL (5 mL for the 30 mg tablet) of water, shake gently, and administer any remaining contents.
 
-- PREVACID SoluTab – Nasogastric Tube (≥ 8 French) Administration
+- PREVACID SoluTab – Nasogastric Tube (≥8 French) Administration
   - For administration via a nasogastric tube, PREVACID SoluTab can be administered as follows:
     - Place a 15 mg tablet in a syringe and draw up 4 mL of water, or place a 30 mg tablet in a syringe and draw up 10 mL of water.
     - Shake gently to allow for a quick dispersal.

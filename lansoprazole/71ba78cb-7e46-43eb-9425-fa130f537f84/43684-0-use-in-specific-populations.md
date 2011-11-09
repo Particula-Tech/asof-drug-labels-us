@@ -102,23 +102,23 @@ Treatment-related dizziness, reported in this package insert as occurring in les
 ## 8.5 Geriatric Use
 
 No dosage adjustment of PREVACID is necessary in geriatric patients.
-The incidence rates of PREVACID-associated adverse reactions and laboratory test abnormalities are similar to those seen in younger patients [see Clinical Pharmacology (12.4)].
+The incidence rates of PREVACID-associated adverse reactions and laboratory test abnormalities are similar to those seen in younger patients [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
 No dosage adjustment of PREVACID is necessary in patients with renal impairment.
-The pharmacokinetics of lansoprazole in patients with various degrees of renal impairment were not substantially different compared to those in subjects with normal renal function [see Clinical Pharmacology (12.4)].
+The pharmacokinetics of lansoprazole in patients with various degrees of renal impairment were not substantially different compared to those in subjects with normal renal function [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 In patients with various degrees of chronic hepatic impairment, an increase in the mean AUC of up to 500% was observed at steady state compared to healthy subjects.
-Consider dose reduction in patients with severe hepatic impairment [see Clinical Pharmacology (12.4)].
+Consider dose reduction in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.8 Gender
 
 Over 4,000 women were treated with PREVACID.
 Ulcer healing rates in females were similar to those in males.
-The incidence rates of adverse reactions in females were similar to those seen in males [see Clinical Pharmacology (12.4)].
+The incidence rates of adverse reactions in females were similar to those seen in males [see Clinical Pharmacology (12.3)].
 
 ## 8.9 Race
 

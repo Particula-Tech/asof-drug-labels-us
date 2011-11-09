@@ -93,7 +93,7 @@ One patient on the 14-day triple therapy regimen had an unconfirmed pretreatment
 
 Table 6: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pretreatment clarithromycin susceptibility test results
 
-|  |  |  | SSusceptible (S) MIC ≤0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥2 mcg/mL | I | R | No MIC |
+|  |  | SSusceptible (S) MIC ≤0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥2 mcg/mL | I | R | No MIC |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Clarithromycin Pretreatment Results |  | Clarithromycin Post-treatment Results |  |  |  |  |
 |  |  | H. pylori negative - eradicated | H. pylori positive – not eradicated Post-treatment susceptibility results |  |  |  |
@@ -170,7 +170,7 @@ Elimination: Following single-dose oral administration of PREVACID, virtually no
 In one study, after a single oral dose of 14C-lansoprazole, approximately one-third of the administered radiation was excreted in the urine and two-thirds was recovered in the feces.
 This implies a significant biliary excretion of the lansoprazole metabolites.
 
-## 12.4 Specific Populations
+Specific Populations
 
 Pediatric Use:
 
@@ -201,11 +201,11 @@ Hepatic Impairment: In patients with various degrees of chronic hepatic impairme
 An increase in the mean AUC of up to 500% was observed at steady state in hepatically-impaired patients compared to healthy subjects.
 Consider dose reduction in patients with severe hepatic impairment [see Use in Specific Populations (8.7)].
 
-Gender: In a study comparing 12 male and 6 female human subjects who received lansoprazole, no gender differences were found in pharmacokinetics and intragastric pH results [see Use in Specific Populations (8.5)].
+Gender: In a study comparing 12 male and 6 female human subjects who received lansoprazole, no gender differences were found in pharmacokinetics and intragastric pH results [see Use in Specific Populations (8.8)].
 
-## 12.5 Drug-Drug Interactions
+Drug-Drug Interactions
 
-It is theoretically possible that PREVACID may interfere with the absorption of other drugs where gastric pH is an important determinant of bioavailability (e.g., ketoconazole, ampicillin esters, iron salts, digoxin).
+PREVACID may interfere with the absorption of other drugs where gastric pH is an important determinant of bioavailability (e.g., ketoconazole, ampicillin esters, iron salts, digoxin).
 
 PREVACID is metabolized through the cytochrome P450 system, specifically through the CYP3A and CYP2C19 isozymes.
 Studies have shown that PREVACID does not have clinically significant interactions with other drugs metabolized by the cytochrome P450 system, such as warfarin, antipyrine, indomethacin, ibuprofen, phenytoin, propranolol, prednisone, diazepam, or clarithromycin in healthy subjects.
@@ -232,3 +232,9 @@ Amoxicillin: PREVACID has also been shown to have no clinically significant inte
 Sucralfate: In a single-dose crossover study examining PREVACID 30 mg and omeprazole 20 mg each administered alone and concomitantly with sucralfate 1 gram, absorption of the proton pump inhibitors was delayed and their bioavailability was reduced by 17% and 16%, respectively, when administered concomitantly with sucralfate.
 Therefore, proton pump inhibitors should be taken at least 30 minutes prior to sucralfate.
 In clinical trials, antacids were administered concomitantly with PREVACID and there was no evidence of a change in the efficacy of PREVACID.
+
+Clopidogrel: Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
+A study of healthy subjects who were CYP2C19 extensive metabolizers, receiving once daily administration of clopidogrel 75 mg alone or concomitantly with PREVACID 30 mg (n=40), for 9 days was conducted.
+The mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (mean AUC ratio was 86%, with 90% CI of 80 to 92%) when PREVACID was coadministered compared to administration of clopidogrel alone.
+Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 mcM ADP) was related to the change in the exposure to clopidogrel active metabolite.
+The clinical significance of this finding is not clear.

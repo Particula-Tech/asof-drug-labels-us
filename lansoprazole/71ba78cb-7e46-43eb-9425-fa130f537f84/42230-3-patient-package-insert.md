@@ -149,8 +149,8 @@ Tell your doctor if you have any side effect that bothers you or that does not g
 
 These are not all the possible side effects of PREVACID.
 For more information, ask your doctor or pharmacist.
-
 Call your doctor for medical advice about side effects.
+
 You may report side effects to the FDA at 1-800-FDA-1088.
 
 How should I store PREVACID?
@@ -159,7 +159,7 @@ How should I store PREVACID?
 
 Keep PREVACID and all medicines out of the reach of children.
 
-General information about PREVACID.
+General information about PREVACID
 
 Medicines are sometimes prescribed for conditions other than those listed in a Patient Information Leaflet.
 Do not use PREVACID for conditions for which it was not prescribed.

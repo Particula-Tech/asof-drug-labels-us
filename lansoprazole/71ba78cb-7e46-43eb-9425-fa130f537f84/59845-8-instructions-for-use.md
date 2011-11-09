@@ -8,31 +8,29 @@ PREVACID Delayed-Release Capsules
   Do not crush or chew them.
 - You should take PREVACID before eating.
 
-- PREVACID Delayed-Release Capsule with certain food:
-  - You can only use applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
-    1. 1Open the capsule.
-    2. 2Sprinkle the granules on 1 tablespoon of either applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
-    3. 3Swallow right away.
-- PREVACID Delayed-Release Capsule with certain juices:
-  - You can only use apple juice, orange juice or tomato juice.
-    - 1Open the capsule.
-    - 2Sprinkle the granules into 60 mL (about ¼ cup) of either apple juice, orange juice or tomato juice.
-    - 3Stir.
-    - 4Swallow right away.
-    - 5To make sure that the entire dose is taken, rinse the glass with 1/2 cup or more of juice to get out any leftover granules.
-      Swallow the juice right away.
-- PREVACID Delayed-Release Capsules through a nasogastric tube (NG tube) 16 French or larger, as prescribed by your doctor:
-  - You can only use apple juice.
-    - 1Open the capsule and empty the granules into a syringe.
-    - 2Do not break or crush the granules.
-    - 3Mix with 40 mL of apple juice.
-      Do not use other liquids.
-    - 4Attach the syringe to the NG tube and give the medicine in the syringe through the NG tube into the stomach.
-    - 5After giving the granules, flush the NG tube with more apple juice to clear the tube.
+- PREVACID Delayed-Release Capsule with certain food: You can only use applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
+  - 1Open the capsule.
+  - 2Sprinkle the granules on 1 tablespoon of either applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
+  - 3Swallow right away.
+- PREVACID Delayed-Release Capsule with certain juices: You can only use apple juice, orange juice or tomato juice.
+  - 1Open the capsule.
+  - 2Sprinkle the granules into 60 mL (about ¼ cup) of either apple juice, orange juice or tomato juice.
+  - 3Stir.
+  - 4Swallow right away.
+  - 5To make sure that the entire dose is taken, rinse the glass with 1/2 cup or more of juice to get out any leftover granules.
+    Swallow the juice right away.
+
+- PREVACID Delayed-Release Capsules through a nasogastric tube (NG tube) 16 French or larger, as prescribed by your doctor: You can only use apple juice.
+  - 1Open the capsule and empty the granules into a syringe.
+  - 2Do not break or crush the granules.
+  - 3Mix with 40 mL of apple juice.
+    Do not use other liquids.
+  - 4Attach the syringe to the NG tube and give the medicine in the syringe through the NG tube into the stomach.
+  - 5After giving the granules, flush the NG tube with more apple juice to clear the tube.
 
 PREVACID should not be used in foods or liquids not listed above.
 
-- PREVACID SoluTab Delayed-Release Orally Disintegrating Tablets:
+- PREVACID SoluTab Delayed-Release Orally Disintegrating Tablets
   - 1Do not chew, crush, cut or break tablets.
   - 2Put the tablet on the tongue and let it dissolve, with or without water.
   - 3Swallow after the tablet dissolves.
@@ -56,10 +54,10 @@ Keep PREVACID and all medicines out of the reach of children.
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
-PREVACID is a trademark registered in the U.S. Patent and Trademark Office and SoluTab is a trademark of Takeda Pharmaceuticals North America, Inc. and used under license by Takeda Pharmaceuticals America, Inc.
+PREVACID is a trademark registered in the U.S. Patent and Trademark office and SoluTab is a trademark of Takeda Pharmaceuticals North America, Inc. and used under license by Takeda Pharmaceuticals America, Inc.
 
 All other trademark names are the property of their respective owners.
 
-© 1995-2011 Takeda Pharmaceuticals America, Inc.
+©1995 - 2011 Takeda Pharmaceuticals America, Inc.
 
-PRV012 R39-1; June 2011
+PRV012 R40 October 2011
