@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017760"
+  ],
   "inn": "fluorometholone",
   "labeler": "Allergan, Inc.",
   "package_ndcs": [
     "0023-0316-04"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "fluorometholone",
+      "name": "FML"
+    }
+  ],
   "setid": "3102d420-8842-4809-9aa1-7be91ac7d0ab",
   "source": "dailymed"
 }
