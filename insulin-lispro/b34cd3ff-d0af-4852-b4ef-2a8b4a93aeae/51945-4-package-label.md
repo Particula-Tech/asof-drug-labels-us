@@ -35,3 +35,33 @@ U-100
 www.humalog.com
 
 Lilly
+
+PACKAGE CARTON – HUMALOG Mix50/50 KwikPen
+
+NDC 0002-8798-59
+
+Humalog® Mix50/50TM
+
+50% insulin lispro protamine suspension
+
+50% insulin lispro injection (rDNA origin)
+
+prefilled insulin delivery device
+
+HP-8798
+
+U-100
+
+Rx only
+
+100 units per mL
+
+Needles not included
+
+This device is recommended for use with Becton, Dickinson and Company's insulin pen needles
+
+For subcutaneous use only.
+
+5 x 3 mL Prefilled Pens
+
+Read User Manual for Instructions
