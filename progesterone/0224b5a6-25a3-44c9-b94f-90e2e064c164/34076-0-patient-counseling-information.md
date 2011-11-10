@@ -137,9 +137,9 @@ The inactive ingredients for PROMETRIUM Capsules 200 mg include: peanut oil NF, 
 
 HOW SUPPLIED
 
-PROMETRIUM Capsules 100 mg are round, peach-colored capsules branded with black imprint “aC.”
+PROMETRIUM Capsules 100 mg are round, peach-colored capsules branded with black imprint “SV.”
 
-PROMETRIUM Capsules 200 mg are oval, pale yellow-colored capsules branded with black imprint “aCM.”
+PROMETRIUM Capsules 200 mg are oval, pale yellow-colored capsules branded with black imprint “SV2.”
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 
