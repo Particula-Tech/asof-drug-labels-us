@@ -35,3 +35,33 @@ U-100
 www.humalog.com
 
 Lilly
+
+PACKAGE CARTON – HUMALOG Mix75/25 Vial 10 mL 1ct
+
+NDC 0002-8797-59
+
+Humalog® Mix75/25TM
+
+75% insulin lispro protamine suspension
+
+25% insulin lispro injection (rDNA origin)
+
+prefilled insulin delivery device
+
+HP-8797
+
+U-100
+
+Rx only
+
+100 units per mL
+
+Needles not included
+
+This device is recommended for sue with Becton, Dickinson and Company's insulin pen needles
+
+For subcutaneous use only.
+
+5 x 3 mL Prefilled Pens
+
+Read User Manual for instructions
