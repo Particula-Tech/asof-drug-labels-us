@@ -16,9 +16,7 @@ Humulin® R
 
 REGULAR
 
-insulin human injection, USP
-
-(rDNA origin)
+insulin human injection, USP (rDNA origin)
 
 500 units per mL
 

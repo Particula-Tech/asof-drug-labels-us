@@ -2,7 +2,7 @@ PATIENT INFORMATION
 
 Humulin®(HU-mu-lin) R
 
-Regular U-500 (Concentrated) insulin human injection, (rDNA origin)
+Regular U-500 (Concentrated) insulin human injection, USP (rDNA origin)
 
 Read the Patient Information that comes with Humulin® R U-500 before you start taking it and each time you get a refill.
 There may be new information.
@@ -85,7 +85,7 @@ How should I take Humulin R U-500?
 - Choose an injection area (upper arm, abdomen, buttocks, or thigh).
   Change injection sites within the area you choose for each dose.
   Do not inject into the exact same spot for each injection.
-  Never inject Humulin U-500 into a vein or muscle.
+  Never inject Humulin R U-500 into a vein or muscle.
 - Inject Humulin R U-500 under your skin (subcutaneous), as shown to you by your healthcare provider.
 - Your healthcare provider should regularly check your diabetes with blood tests, including your blood sugar levels and hemoglobin A1C.
 - If you take too much Humulin R U-500, your blood sugar may fall too low (hypoglycemia).
@@ -245,8 +245,8 @@ Inactive ingredients: glycerin, metacresol, zinc oxide, water for injection, sod
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Patient Information issued March 21, 2011
+Patient Information revised May 20, 2011
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-PA 8900 AMP
+PA 8901 AMP
