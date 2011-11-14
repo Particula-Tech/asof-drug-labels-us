@@ -67,8 +67,8 @@ Studies have been performed with the racemic cetirizine [see Drug Interactions (
 Data from a pediatric pharmacokinetic study with oral administration of a single dose of 5 mg levocetirizine in 14 children age 6 to 11 years with body weight ranging between 20 and 40 kg show that Cmax and AUC values are about 2-fold greater than that reported in healthy adult subjects in a cross-study comparison.
 The mean Cmax was 450 ng/mL, occurring at a mean time of 1.2 hours, weight-normalized, total body clearance was 30% greater, and the elimination half-life 24% shorter in this pediatric population than in adults.
 
-Pharmacokinetic information in pediatric patients (age 1 to 5 years) is approved for UCB Inc.'s levocetirizine dihydrochloride drug product.
-However, due to UCB Inc.'s marketing exclusivity rights; this drug product is not labeled for such use in those pediatric patients.
+Pharmacokinetic information in pediatric patients (age 1 to 5 years) is approved for UCB Inc.’s levocetirizine dihydrochloride drug product.
+However, due to UCB Inc.’s marketing exclusivity rights; this drug product is not labeled for such use in those pediatric patients.
 
 - Geriatric Patients
 
@@ -76,7 +76,7 @@ Limited pharmacokinetic data are available in elderly subjects.
 Following once daily repeat oral administration of 30 mg levocetirizine for 6 days in 9 elderly subjects (65–74 years of age), the total body clearance was approximately 33% lower compared to that in younger adults.
 The disposition of racemic cetirizine has been shown to be dependent on renal function rather than on age.
 This finding would also be applicable for levocetirizine, as levocetirizine and cetirizine are both predominantly excreted in urine.
-Therefore, the levocetirizine dihydrochloride tablets dose should be adjusted in accordance with renal function in elderly patients [see Dosage and Administration (2)].
+Therefore, the levocetirizine dihydrochloride dose should be adjusted in accordance with renal function in elderly patients [see Dosage and Administration (2)].
 
 - Gender
 
@@ -100,12 +100,12 @@ Therefore, it is recommended to adjust the dose and dosing intervals of levoceti
 In end-stage renal disease patients (CLCR < 10 mL/min) levocetirizine is contraindicated.
 The amount of levocetirizine removed during a standard 4-hour hemodialysis procedure was <10%.
 
-The dosage of levocetirizine dihydrochloride tablets should be reduced in patients with mild renal impairment.
+The dosage of levocetirizine dihydrochloride should be reduced in patients with mild renal impairment.
 Both the dosage and frequency of administration should be reduced in patients with moderate or severe renal impairment [see Dosage and Administration (2.4)].
 
 - Hepatic Impairment
 
-Levocetirizine dihydrochloride tablets have not been studied in patients with hepatic impairment.
+Levocetirizine dihydrochloride has not been studied in patients with hepatic impairment.
 The non-renal clearance (indicative of hepatic contribution) was found to constitute about 28% of the total body clearance in healthy adult subjects after oral administration.
 
 As levocetirizine is mainly excreted unchanged by the kidney, it is unlikely that the clearance of levocetirizine is significantly decreased in patients with solely hepatic impairment [see Dosage and Administration (2)].

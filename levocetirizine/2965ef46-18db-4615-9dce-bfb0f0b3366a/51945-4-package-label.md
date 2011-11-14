@@ -1,15 +1,13 @@
-PRINCIPAL DISPLAY PANEL - 90 Tablet Bottle Label
+# Principal display panel- tablets
 
 Rx Only
 
-PERRIGO®
-
-NDC 45802-594-75
-
-Levocetirizine Dihydrochloride Tablets
-
-5 mg
+Levocetirizine Dihydrochloride Tablets 5 mg
 
 For oral administration
 
-90 Tablets
+# principal display panel- solution
+
+Rx Only
+
+Levocetirizine Dihydrochloride Oral Solution 2.5 mg/5 mL (0.5 mg/mL)

@@ -1,20 +1,26 @@
 {
   "application_numbers": [
-    "ANDA090229"
+    "ANDA090229",
+    "ANDA091263"
   ],
   "inn": "levocetirizine",
-  "labeler": "Perrigo",
+  "labeler": "Perrigo New York Inc",
   "package_ndcs": [
-    "45802-594-01",
     "45802-594-65",
     "45802-594-75",
-    "45802-594-87"
+    "45802-594-87",
+    "45802-680-28"
   ],
   "products": [
     {
       "form": "TABLET",
       "generic": "levocetirizine dihydrochloride",
       "name": "Levocetirizine dihydrochloride"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "levocetirizine dihydrochloride",
+      "name": "levocetirizine dihydrochloride"
     }
   ],
   "setid": "2965ef46-18db-4615-9dce-bfb0f0b3366a",
