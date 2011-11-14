@@ -351,7 +351,7 @@ Rare: Acute kidney failure, anorgasmia, breast abscess, breast neoplasm, creatin
 The following adverse events (not listed above in clinical trials or other sections of the prescribing information) have been identified during postapproval use of LAMICTAL.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic: Agranulocytosis, hemolytic anemia.
+Blood and Lymphatic: Agranulocytosis, hemolytic anemia, lymphadenopathy not associated with hypersensitivity disorder.
 
 Gastrointestinal: Esophagitis.
 

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide that accompanies the product.
+See FDA-approved patient labeling (Medication Guide).
 
 ## 17.1 Rash
 
@@ -83,6 +83,6 @@ Eurand, Inc., Vandalia, OH 45377
 ©2011, GlaxoSmithKline.
 All rights reserved.
 
-September 2011
+November 2011
 
-LMT:6PI
+LMT:7PI
