@@ -4,7 +4,7 @@ Rx only
    Generally, women should be started at 0.3 mg PREMARIN daily.
    Subsequent dosage adjustment may be made based upon the individual patient response.
    This dose should be periodically reassessed by the healthcare provider.PREMARIN therapy may be given continuously, with no interruption in therapy, or in cyclical regimens (regimens such as 25 days on drug followed by five days off drug), as is medically appropriate on an individualized basis.
-2. For prevention of postmenopausal osteoporosis:When prescribing solely for the prevention of postmenopausal osteoporosis, therapy should be considered only for women at significant risk of osteoporosis and for whom non-estrogen medications are not considered to be appropriate.
+2. For prevention of postmenopausal osteoporosis:When prescribing solely for the prevention of postmenopausal osteoporosis, therapy should be considered only for women at significant risk of osteoporosis and non-estrogen medications should be carefully considered.
    Patients should be treated with the lowest effective dose.
    Generally, women should be started at 0.3 mg PREMARIN daily.
    Subsequent dosage adjustment may be made based upon the individual clinical and bone mineral density responses.

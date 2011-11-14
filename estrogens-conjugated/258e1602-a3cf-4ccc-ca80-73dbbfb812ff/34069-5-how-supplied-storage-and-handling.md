@@ -12,8 +12,12 @@ PREMARIN® (conjugated estrogens tablets, USP)
 
 — Each oval yellow tablet contains 1.25 mg, in bottles of 100 (NDC 0046-1104-81) and 1,000 (NDC 0046-1104-91).
 
-The appearance of these tablets is a trademark of Wyeth Pharmaceuticals.
+The appearance of these tablets is a trademark of Wyeth LLC.
 
-Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 Dispense in a well-closed container, as defined in the USP.
+
+LAB-0467-3.0
+
+Rev 10/2011

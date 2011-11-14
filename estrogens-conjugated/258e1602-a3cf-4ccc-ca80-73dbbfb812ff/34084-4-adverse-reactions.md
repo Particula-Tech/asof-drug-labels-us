@@ -4,11 +4,11 @@ See BOXED WARNINGS, WARNINGS, and PRECAUTIONS.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-During the first year of a 2-year clinical trial with 2,333 postmenopausal women between 40 and 65 years of age (88% Caucasian), 1,012 women were treated with conjugated estrogens and 332 were treated with placebo.
-Table 6 summarizes adverse events that occurred at a rate of ≥ 5%.
+During the first year of a 2-year clinical trial with 2,333 postmenopausal women between 40 and 65 years of age (88 percent Caucasian), 1,012 women were treated with conjugated estrogens and 332 were treated with placebo.
+Table 6 summarizes adverse events that occurred at a rate of ≥ 5 percent.
 
 TABLE 6.
-NUMBER (%) OF PATIENTS REPORTING ≥ 5% TREATMENT EMERGENT ADVERSE EVENTS
+NUMBER (%) OF PATIENTS REPORTING ≥ 5 PERCENT TREATMENT EMERGENT ADVERSE EVENTS
 
 |  | --Conjugated Estrogens Treatment Group-- |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -30,132 +30,41 @@ NUMBER (%) OF PATIENTS REPORTING ≥ 5% TREATMENT EMERGENT ADVERSE EVENTS
 | Urogenital System |  |  |  |  |
 | Breast pain Leukorrhea Vaginal hemorrhage Vaginal moniliasis Vaginitis | 38 (11%) 18 (5%) 47 (14%) 20 (6%) 24 (7%) | 41 (12%) 22 (7%) 14 (4%) 18 (5%) 20 (6%) | 24 (7%) 13 (4%) 7 (2%) 17 (5%) 16 (5%) | 29 (9%) 9 (3%) 0 6 (2%) 4 (1%) |
 
-The following additional adverse reactions have been reported with estrogen and/or progestin therapy:
+## Postmarketing Experience
 
-## 1. Genitourinary system
+The following additional adverse reactions have been identified during post approval use of PREMARIN.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Abnormal uterine bleeding/spotting
+### Genitourinary System
 
-Dysmenorrhea/pelvic pain
+Abnormal uterine bleeding, dysmenorrhea or pelvic pain, increase in size of uterine leiomyomata, vaginitis, including vaginal candidiasis, change in cervical secretion, ovarian cancer, endometrial hyperplasia, endometrial cancer, leukorrhea.
 
-Increase in size of uterine leiomyomata
+### Breast
 
-Vaginitis, including vaginal candidiasis
+Tenderness, enlargement, pain, discharge, galactorrhea, fibrocystic breast changes, breast cancer, gynecomastia in males.
 
-Change in amount of cervical secretion
+### Cardiovascular
 
-Change in cervical ectropion
+Deep and superficial venous thrombosis, pulmonary embolism, thrombophlebitis, myocardial infarction, stroke, increase in blood pressure.
 
-Ovarian cancer
+### Gastrointestinal
 
-Endometrial hyperplasia
+Nausea, vomiting, abdominal pain, bloating, cholestatic jaundice, increased incidence of gallbladder disease, pancreatitis, enlargement of hepatic hemangiomas, ischemic colitis.
 
-Endometrial cancer
+### Skin
 
-## 2. Breasts
+Chloasma or melasma that may persist when drug is discontinued, erythema multiforme, erythema nodosum, loss of scalp hair, hirsutism, pruritus, rash.
 
-Tenderness, enlargement, pain, discharge, galactorrhea
+### Eyes
 
-Fibrocystic breast changes
+Retinal vascular thrombosis, intolerance to contact lenses.
 
-Breast cancer
+### Central Nervous System
 
-## 3. Cardiovascular
+Headache, migraine, dizziness, mental depression, nervousness, mood disturbances, irritability, exacerbation of epilepsy, dementia, possible growth potentiation of benign meningioma.
 
-Deep and superficial venous thrombosis
+### Miscellaneous
 
-Pulmonary embolism
+Increase or decrease in weight, glucose intolerance, aggravation of porphyria, edema, arthralgias, leg cramps, changes in libido, urticaria, exacerbation of asthma, increased triglycerides, hypersensitivity.
 
-Thrombophlebitis
-
-Myocardial infarction
-
-Stroke
-
-Increase in blood pressure
-
-## 4. Gastrointestinal
-
-Nausea, vomiting
-
-Abdominal cramps, bloating
-
-Cholestatic jaundice
-
-Increased incidence of gallbladder disease
-
-Pancreatitis
-
-Enlargement of hepatic hemangiomas
-
-Ischemic colitis
-
-## 5. Skin
-
-Chloasma or melasma that may persist when drug is discontinued
-
-Erythema multiforme
-
-Erythema nodosum
-
-Hemorrhagic eruption
-
-Loss of scalp hair
-
-Hirsutism
-
-Pruritus, rash
-
-## 6. Eyes
-
-Retinal vascular thrombosis
-
-Intolerance to contact lenses
-
-## 7. Central Nervous System
-
-Headache
-
-Migraine
-
-Dizziness
-
-Mental depression
-
-Exacerbation of chorea
-
-Nervousness
-
-Mood disturbances
-
-Irritability
-
-Exacerbation of epilepsy
-
-Dementia
-
-Possible growth potentiation of benign meningioma
-
-## 8. Miscellaneous
-
-Increase or decrease in weight
-
-Glucose intolerance
-
-Aggravation of porphyria
-
-Edema
-
-Arthralgias
-
-Leg cramps
-
-Changes in libido
-
-Urticaria, angioedema, anaphylactoid/anaphylactic reactions
-
-Hypocalcemia (preexisting condition)
-
-Exacerbation of asthma
-
-Increased triglycerides
+Additional postmarketing adverse reactions have been reported in patients receiving other forms of hormone therapy.

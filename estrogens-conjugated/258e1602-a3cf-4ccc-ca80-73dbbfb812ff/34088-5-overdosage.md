@@ -1,4 +1,4 @@
 # OVERDOSAGE
 
-Overdosage of estrogen may cause nausea and vomiting, breast tenderness, abdominal pain, drowsiness/fatigue and withdrawal bleeding may occur in females.
-Treatment of overdose consists of discontinuation of PREMARIN together with institution of appropriate symptomatic care.
+Overdosage of estrogen may cause nausea, vomiting, breast tenderness, abdominal pain, drowsiness and fatigue and withdrawal bleeding may occur in women.
+Treatment of overdose consists of discontinuation of PREMARIN therapy with institution of appropriate symptomatic care.

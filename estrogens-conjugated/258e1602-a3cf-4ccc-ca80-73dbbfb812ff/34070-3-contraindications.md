@@ -3,11 +3,11 @@
 PREMARIN therapy should not be used in individuals with any of the following conditions:
 
 1. Undiagnosed abnormal genital bleeding.
-2. Known, suspected, or history of cancer of the breast except in appropriately selected patients being treated for metastatic disease.
+2. Known, suspected, or history of breast cancer except in appropriately selected patients being treated for metastatic disease.
 3. Known or suspected estrogen-dependent neoplasia.
-4. Active deep vein thrombosis, pulmonary embolism or a history of these conditions.
-5. Active or recent (within the past year) arterial thromboembolic disease (for example, stroke, myocardial infarction).
-6. Liver dysfunction or disease.
-7. Known thrombophilic disorders (e.g., protein C, protein S, or antithrombin deficiency).
-8. Known hypersensitivity to any of the ingredients in PREMARIN.
+4. Active DVT, PE, or a history of these conditions.
+5. Active arterial thromboembolic disease (for example, stroke and MI), or a history of these conditions.
+6. Known anaphylactic reaction or angioedema to PREMARIN tablets.
+7. Known liver dysfunction or disease.
+8. Known protein C, protein S, or antithrombin deficiency or other known thrombophilic disorders.
 9. Known or suspected pregnancy.
