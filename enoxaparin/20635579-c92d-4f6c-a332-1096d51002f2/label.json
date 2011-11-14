@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA020164"
+  ],
+  "inn": "enoxaparin",
+  "labeler": "Winthrop U.S.",
+  "package_ndcs": [
+    "0955-1003-10",
+    "0955-1004-10",
+    "0955-1006-10",
+    "0955-1008-10",
+    "0955-1010-10",
+    "0955-1012-10",
+    "0955-1015-10",
+    "0955-1016-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "enoxaparin sodium",
+      "name": "Enoxaparin sodium"
+    }
+  ],
+  "setid": "20635579-c92d-4f6c-a332-1096d51002f2",
+  "source": "dailymed"
+}
