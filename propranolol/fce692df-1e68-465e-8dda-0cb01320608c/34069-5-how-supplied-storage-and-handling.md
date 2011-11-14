@@ -18,4 +18,4 @@ Protect from light, moisture, freezing, and excessive heat.
 Dispense in a tight, light-resistant container as defined in the USP.
 
 This product's label may have been updated.
-For current package insert and further product information, please visit www.akrimax.com or call our medical communications department toll-free at 1-888-383-1733
+For current package insert and further product information, please call 1-800-438-1985.

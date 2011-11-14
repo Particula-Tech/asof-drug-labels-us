@@ -28,8 +28,7 @@ Propranolol should be administered with caution in this setting since it may pro
 
 Major Surgery
 
-Avoid initiation of high-dose extended release metoprolol in patients undergoing non-cardiac surgery because it has been associated with bradycardia, hypotension, stroke and death.
-Do not routinely withdraw chronic beta blocker therapy prior to surgery.
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 Diabetes and Hypoglycemia
 
