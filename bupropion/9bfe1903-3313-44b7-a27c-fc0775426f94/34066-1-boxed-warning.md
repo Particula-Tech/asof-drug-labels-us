@@ -22,7 +22,6 @@ All patients treated with Bupropion for smoking cessation treatment should be ob
 These symptoms, as well as worsening of pre-existing psychiatric illness and completed suicide have been reported in some patients attempting to quit smoking while taking ZYBAN in the post-marketing experience.
 When symptoms were reported, most were during treatment with ZYBAN, but some were following discontinuation of treatment with ZYBAN.
 These events have occurred in patients with and without pre-existing psychiatric disease; some have experienced worsening of their psychiatric illnesses.
-
 Patients with serious psychiatric illness such as schizophrenia, bipolar disorder, and major depressive disorder did not participate in the pre-marketing studies of ZYBAN.
 
 Advise patients and caregivers that the patient using bupropion for smoking cessation should stop taking bupropion and contact a healthcare provider immediately if agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.

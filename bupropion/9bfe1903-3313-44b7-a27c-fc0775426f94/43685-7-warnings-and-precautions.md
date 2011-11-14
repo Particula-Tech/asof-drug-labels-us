@@ -252,8 +252,9 @@ Following oral administration of two 150-mg tablets of the sustained-release for
 However, there were 16% and 32% increases in the AUC and Cmax, respectively, of the combined moieties of threohydrobupropion and erythrohydrobupropion.
 
 In a series of studies in healthy volunteers, ritonavir (100 mg twice daily or 600 mg twice daily) or ritonavir 100 mg plus lopinavir (KALETRA) 400 mg twice daily reduced the exposure of bupropion and its major metabolites in a dose dependent manner by approximately 20% to 80%.
-This effect is thought to be due to the induction of bupropion metabolism.
-Patients receiving ritonavir may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded (see CLINICAL PHARMACOLOGY: Metabolism).
+Similarly, efavirenz 600mg once daily for 2 weeks reduced the exposure of bupropion by approximately 55%.
+This effect of ritonavir, KALETRA, and efavirenz is thought to be due to the induction of bupropion metabolism.
+Patients receiving any of these drugs with bupropion may need increased doses of bupropion, but the maximum recommended dose of bupropion should not be exceeded (see CLINICAL PHARMACOLOGY: Metabolism).
 
 While not systematically studied, certain drugs may induce the metabolism of bupropion (e.g., carbamazepine, phenobarbital, phenytoin).
 
@@ -271,6 +272,9 @@ Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been
 
 Therefore, coadministration of bupropion with drugs that are metabolized by CYP2D6 isoenzyme including certain antidepressants (e.g., nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution and should be initiated at the lower end of the dose range of the concomitant medication.
 If bupropion is added to the treatment regimen of a patient already receiving a drug metabolized by CYP2D6, the need to decrease the dose of the original medication should be considered, particularly for those concomitant medications with a narrow therapeutic index.
+
+Drugs which require metabolic activation by CYP2D6 in order to be effective (e.g., tamoxifen) theorectically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
+
 Although citalopram is not primarily metabolized by CYP2D6, in one study bupropion increased the Cmax and AUC of citalopram by 30% and 40%, respectively.
 Citalopram did not affect the pharmacokinetics of bupropion and its three metabolites.
 
@@ -286,6 +290,11 @@ Nicotine Transdermal System: (see PRECAUTIONS: Cardiovascular Effects).
 
 Alcohol: In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with bupropion.
 The consumption of alcohol during treatment with WELLBUTRIN XL should be minimized or avoided (also see CONTRAINDICATIONS).
+
+Drug-Laboratory Test Interactions: False-positive urine immunoassay screening tests for amphetamines have been reported in patients taking bupropion.
+This is due to lack of specificity of some screening tests.
+False-positive test results may result even following discontinuation of bupropion therapy.
+Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish bupropion from amphetamines.
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility: Lifetime carcinogenicity studies were performed in rats and mice at doses up to 300 and 150 mg/kg/day, respectively.
 These doses are approximately 7 and 2 times the maximum recommended human dose (MRHD), respectively, on a mg/m2 basis.

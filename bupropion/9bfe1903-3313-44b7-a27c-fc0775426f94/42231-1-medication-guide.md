@@ -206,6 +206,8 @@ General Information about WELLBUTRIN XL.
   Do not give WELLBUTRIN XL to other people, even if they have the same symptoms you have.
   It may harm them.
   Keep WELLBUTRIN XL out of the reach of children.
+- If you take a urine drug screening test, WELLBUTRIN XL may make the test result positive for amphetamines.
+  If you tell the person giving you the drug screening test that you are taking WELLBUTRIN XL, they can do a more specific drug screening test that should not have this problem.
 
 This Medication Guide summarizes important information about WELLBUTRIN XL.
 For more information, talk with your doctor.
@@ -230,4 +232,4 @@ Manufactured by: Biovail Corporation Mississauga, ON L5N 8M5, Canada
 For: BTA Pharmaceuticals, Inc. (subsidiary of Biovail Corporation) Bridgewater, NJ 08807
 
 Rev.
-02/10 LB0033-09
+06/11
