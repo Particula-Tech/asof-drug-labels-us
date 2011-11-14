@@ -2,8 +2,7 @@
 
 AVELOX® (AV-eh-locks) (moxifloxacin hydrochloride) Tablets
 
-AVELOX® I.V.
-(AV-eh-locks) (moxifloxacin hydrochloride) Injection Solution for IV use
+AVELOX® IV (AV-eh-locks) (moxifloxacin hydrochloride) Injection Solution for IV use
 
 Read the Medication Guide that comes with AVELOX® before you start taking it and each time you get a refill.
 There may be new information.
@@ -23,12 +22,12 @@ Tendon rupture or swelling of the tendon (tendinitis).
   Tendons are tough cords of tissue that connect muscles to bones.
   Symptoms of tendon problems may include:
   - Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
-- The risk of getting tendon problems while you take Avelox is higher if you:
+- The risk of getting tendon problems while you take AVELOX is higher if you:
   - Are over 60 years of age
   - Are taking steroids (corticosteroids)
   - Have had a kidney, heart or lung transplant
 
-Tendon problems can happen in people who do not have the above risk factors when they take Avelox.
+Tendon problems can happen in people who do not have the above risk factors when they take AVELOX.
 
 - Other reasons that can increase your risk of tendon problems can include:
   - Physical activity or exercise
@@ -271,13 +270,13 @@ What are the ingredients in AVELOX?
   - Active ingredient: moxifloxacin hydrochloride
   - Inactive ingredients: sodium chloride, USP, water for injection, USP, and may include hydrochloric acid and/or sodium hydroxide for pH adjustment
 
-Revised August 2011
+Revised October 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470
+Manufactured for: Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470
 
-Avelox Tablets made in Germany Avelox IV made in Germany or Avelox IV made in Norway by Fresenius Kabi Norge AS NO-1753 Halden, Norway
+AVELOX Tablets made in Germany AVELOX IV made in Germany or AVELOX IV made in Norway by Fresenius Kabi Norge AS NO-1753 Halden, Norway
 
 Distributed by: Schering Corporation, a subsidiary of
 
@@ -285,8 +284,10 @@ MERCK& CO., INC.
 
 Whitehouse Station, NJ 08889, USA
 
-AVELOX is a registered trademark of Bayer Aktiengesellschaft and is used under license by Schering Corporation.
+AVELOX® is a registered trademark of Bayer Aktiengesellschaft and is used under license by Schering Corporation, a subsidiary of Merck & Co., Inc.
 
 Rx Only
 
 ©2011 Bayer HealthCare Pharmaceuticals Inc. Printed in U.S.A.
+
+83680831, R.1

@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-AVELOX is a member of the flouroquinolone class of antibacterial agents [see Clinical Pharmacology (12.4)].
+AVELOX is a member of the fluoroquinolone class of antibacterial agents [see Clinical Pharmacology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -57,6 +57,27 @@ Moxifloxacin is widely distributed throughout the body, with tissue concentratio
 Moxifloxacin has been detected in the saliva, nasal and bronchial secretions, mucosa of the sinuses, skin blister fluid, subcutaneous tissue, skeletal muscle, and abdominal tissues and fluids following oral or intravenous administration of 400 mg.
 Moxifloxacin concentrations measured post-dose in various tissues and fluids following a 400 mg oral or IV dose are summarized in Table 7.
 The rates of elimination of moxifloxacin from tissues generally parallel the elimination from plasma.
+
+Table 7: Moxifloxacin Concentrations (mean ± SD) in Tissues and the Corresponding Plasma Concentrations After a Single 400 mg Oral or Intravenous DoseAll moxifloxacin concentrations were measured 3 hours after a single 400 mg dose, except the abdominal tissue and exudate concentrations which were measured at 2 hours post-dose and the sinus concentrations which were measured 3 hours post-dose after 5 days of dosing.
+
+| Tissue or Fluid | N | Plasma Concentration (mcg/mL) | Tissue or Fluid Concentration (mcg/mL or mcg/g) | Tissue Plasma Ratio |
+| --- | --- | --- | --- | --- |
+| Respiratory |  |  |  |  |
+| Alveolar Macrophages | 5 | 3.3 ± 0.7 | 61.8 ± 27.3 | 21.2 ± 10 |
+| Bronchial Mucosa | 8 | 3.3 ± 0.7 | 5.5 ± 1.3 | 1.7 ± 0.3 |
+| Epithelial Lining Fluid | 5 | 3.3 ± 0.7 | 24.4 ± 14.7 | 8.7 ± 6.1 |
+| Sinus |  |  |  |  |
+| Maxillary Sinus Mucosa | 4 | 3.7 ± 1.1N = 5 | 7.6 ± 1.7 | 2 ± 0.3 |
+| Anterior Ethmoid Mucosa | 3 | 3.7 ± 1.1 | 8.8 ± 4.3 | 2.2 ± 0.6 |
+| Nasal Polyps | 4 | 3.7 ± 1.1 | 9.8 ± 4.5 | 2.6 ± 0.6 |
+| Skin, Musculoskeletal |  |  |  |  |
+| Blister Fluid | 5 | 3 ± 0.5N = 7 | 2.6 ± 0.9 | 0.9 ± 0.2 |
+| Subcutaneous Tissue | 6 | 2.3 ± 0.4N = 12 | 0.9 ± 0.3Reflects only non-protein bound concentrations of drug. | 0.4 ± 0.6 |
+| Skeletal Muscle | 6 | 2.3 ± 0.4 | 0.9 ± 0.2 | 0.4 ± 0.1 |
+| Intra-Abdominal |  |  |  |  |
+| Abdominal tissue | 8 | 2.9 ± 0.5 | 7.6 ± 2 | 2.7 ± 0.8 |
+| Abdominal exudate | 10 | 2.3 ± 0.5 | 3.5 ±1.2 | 1.6 ± 0.7 |
+| Abscess fluid | 6 | 2.7 ± 0.7 | 2.3 ±1.5 | 0.8±0.4 |
 
 ### Metabolism
 
@@ -227,30 +248,30 @@ No significant change in prothrombin time was observed [see Adverse Reactions (6
 
 ### Mechanism of Action
 
-Moxifloxacin has in vitro activity against a wide range of Gram-positive and Gram-negative microorganisms.
 The bactericidal action of moxifloxacin results from inhibition of the topoisomerase II (DNA gyrase) and topoisomerase IV required for bacterial DNA replication, transcription, repair, and recombination.
 It appears that the C8-methoxy moiety contributes to enhanced activity and lower selection of resistant mutants of Gram-positive bacteria compared to the C8-H moiety.
 The presence of the bulky bicycloamine substituent at the C-7 position prevents active efflux, associated with the NorA or pmrA genes seen in certain Gram-positive bacteria.
 
-The mechanism of action for fluoroquinolones, including moxifloxacin, is different from that of macrolides, beta-lactams, aminoglycosides, or tetracyclines; therefore, microorganisms resistant to these classes of drugs may be susceptible to moxifloxacin and other fluoroquinolones.
-There is no known cross-resistance between moxifloxacin and other classes of antimicrobials.
+### Mechanism of Resistance
 
-### Drug Resistance
-
+The mechanism of action for fluoroquinolones, including moxifloxacin, is different from that of macrolides, beta-lactams, aminoglycosides, or tetracyclines; therefore, microorganisms resistant to these classes of drugs may be susceptible to moxifloxacin.
+Resistance to fluoroquinolones occurs primarily by a mutation in topoisomerase II (DNA gyrase) or topoisomerase IV genes, decreased outer membrane permeability or drug efflux.
 In vitro resistance to moxifloxacin develops slowly via multiple-step mutations.
 Resistance to moxifloxacin occurs in vitro at a general frequency of between 1.8 x 10–9 to < 1 x 10–11 for Gram-positive bacteria.
 
+### Cross Resistance
+
 Cross-resistance has been observed between moxifloxacin and other fluoroquinolones against Gram-negative bacteria.
 Gram-positive bacteria resistant to other fluoroquinolones may, however, still be susceptible to moxifloxacin.
+There is no known cross-resistance between moxifloxacin and other classes of antimicrobials.
 
-### Activity in vitro and in vivo
+Moxifloxacin has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections.
+[see Indications and Usage (1)].
 
-Moxifloxacin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
+Gram-positive bacteria
 
-Aerobic Gram-positive microorganisms
-
-- Enterococcus faecalis (many strains are only moderately susceptible)
-- Staphylococcus aureus (methicillin-susceptible strains only)
+- Enterococcus faecalis
+- Staphylococcus aureus
 - Streptococcus anginosus
 - Streptococcus constellatus
 - Streptococcus pneumoniae (including multi-drug resistant strains [MDRSP]*)
@@ -258,7 +279,7 @@ Aerobic Gram-positive microorganisms
 
 *MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are strains resistant to two or more of the following antibiotics: penicillin (MIC) ≥2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
 
-Aerobic Gram-negative microorganisms
+#### Gram-negative bacteria
 
 - Enterobacter cloacae
 - Escherichia coli
@@ -268,160 +289,97 @@ Aerobic Gram-negative microorganisms
 - Moraxella catarrhalis
 - Proteus mirabilis
 
-Anaerobic microorganisms
+#### Anaerobic bacteria
 
 - Bacteroides fragilis
 - Bacteroides thetaiotaomicron
 - Clostridium perfringens
 - Peptostreptococcus species
 
-Other microorganisms
+#### Other microorganisms
 
 - Chlamydophila pneumoniae
 - Mycoplasma pneumoniae
 
 The following in vitro data are available, but their clinical significance is unknown.
-Moxifloxacin exhibits in vitro MICs of 2 mcg/mL or less against most (≥ 90%) strains of the following microorganisms; however, the safety and effectiveness of AVELOX in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for moxifloxacin.
+However, the efficacy of AVELOX in treating clinical infections due to these bacteria has not been established in adequate and well controlled clinical trials.
 
-Aerobic Gram-positive microorganisms
+#### Gram-positive bacteria
 
-- Staphylococcus epidermidis (methicillin-susceptible strains only)
+- Staphylococcus epidermidis
 - Streptococcus agalactiae
 - Streptococcus viridans group
 
-Aerobic Gram-negative microorganisms
+#### Gram-negative bacteria
 
 - Citrobacter freundii
 - Klebsiella oxytoca
 - Legionella pneumophila
 
-Anaerobic microorganisms
+#### Anaerobic bacteria
 
 - Fusobacterium species
 - Prevotella species
 
-### Susceptibility Tests
+### Susceptibility Tests Methods
 
-#### Dilution Techniques
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-Quantitative methods are used to determine antimicrobial MICs.
+- Dilution Techniques:
+
+Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method1 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of moxifloxacin powder.
-The MIC values should be interpreted according to the following criteria:
+Standardized procedures are based on a dilution method (broth and/or agar).
+1 The MIC values should be interpreted according to the criteria in Table 8.
 
-For testing Enterobacteriaceae and methicillin-susceptible Staphylococcus aureus:
+#### Diffusion Techniques:
 
-| MIC (mcg/mL) | Interpretation |
-| --- | --- |
-| ≤ 2 | Susceptible (S) |
-| 4 | Intermediate (I) |
-| ≥ 8 | Resistant (R) |
+Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
+The zone size prove should be determined using a standardized test method.2,3 This procedure uses paper disks impregnated with 5 mcg moxifloxacin to test the susceptibility of bacteria to moxifloxacin.
+The disc diffusion interpretive criteria are provided in Table 8.
 
-For testing Haemophilus influenzae and Haemophilus parainfluenzaea:
+#### Anaerobic Techniques:
 
-| MIC (mcg/mL) | Interpretation |
-| --- | --- |
-| ≤ 1 | Susceptible (S) |
-| a This interpretive standard is applicable only to broth microdilution susceptibility tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium1. |  |
+For anaerobic bacteria, the susceptibility to moxifloxacin can be determined by a standardized test method.4 The MIC values obtained should be interpreted according to the criteria provided in Table 8.
 
-The current absence of data on resistant strains precludes defining any results other than “Susceptible.”
-Strains yielding MIC results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing.
+| Table 8: Susceptibility Test Interpretive Criteria for Moxifloxacin |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | MIC (mcg/mL) |  |  | Zone Diameter (mm) |  |  |
+| Species | S | I | R | S | I | R |
+| Enterobacteriacae | ≤2 | 4 | ≥8 | ≥19 | 16–18 | ≤15 |
+| Enterococcus faecalis | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14 |
+| Staphylococcus aureus | ≤2 | 4 | ≥8 | ≥19 | 16–18 | ≤15 |
+| Haemophilus influenzae | ≤1 | a | a | ≥18 | a | a |
+| Haemophilus parainfluenzae | ≤1 | a | a | ≥18 | a | a |
+| Streptococcus pneumoniae | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14d |
+| Streptococcus species | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14d |
+| Anaerobic bacteria | ≤2 | 4 | ≥8 | - | - | - |
+| S=susceptible, I=Intermediate, and R=resistant.a The current absence of data on moxifloxacin-resistant isolates precludes defining any results other than “Susceptible”. Isolates yielding test results (MIC or zone diameter) other than susceptible, should be submitted to a reference laboratory for additional testing. |  |  |  |  |  |  |
 
-For testing Streptococcus species including Streptococcus pneumoniae b and Enterococcus faecalis:
-
-| MIC (mcg/mL) | Interpretation |
-| --- | --- |
-| ≤ 1 | Susceptible (S) |
-| 2 | Intermediate (I) |
-| ≥ 4 | Resistant (R) |
-| b These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2 - 5% lysed horse blood. |  |
-
-A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
+A report of “Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of drug can be used.
-This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of “Resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of the drug product can be used.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of “Resistant” indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Standard moxifloxacin powder should provide the following MIC values:
+#### Quality Control
 
-| Microorganism |  | MIC (mcg/mL) |
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay and the techniques of the individuals performing the test.1,2,3,4 Standard moxifloxacin powder should provide the following range of MIC values noted in Table 9.
+For the diffusion technique using the 5 mcg moxifloxacin disk, the criteria in Table 9 should be achieved.
+
+| Table 9: Acceptable Control Ranges for Moxifloxacin |  |  |
 | --- | --- | --- |
-| Enterococcus faecalis | ATCC 29212 | 0.06 - 0.5 |
-| Escherichia coli | ATCC 25922 | 0.008 - 0.06 |
-| Haemophilus influenzae | ATCC 49247c | 0.008 - 0.03 |
-| Staphylococcus aureus | ATCC 29213 | 0.015 - 0.06 |
-| Streptococcus pneumoniae | ATCC 49619d | 0.06 - 0.25 |
-| c This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM)1. |  |  |
-| d This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2 - 5% lysed horse blood. |  |  |
-
-#### Diffusion Techniques
-
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure2 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 5-mcg moxifloxacin to test the susceptibility of microorganisms to moxifloxacin.
-
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5-mcg moxifloxacin disk should be interpreted according to the following criteria:
-
-The following zone diameter interpretive criteria should be used for testing Enterobacteriaceae and methicillin-susceptible Staphylococcus aureus:
-
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥ 19 | Susceptible (S) |
-| 16 – 18 | Intermediate (I) |
-| ≤ 15 | Resistant (R) |
-
-For testing Haemophilus influenzae and Haemophilus parainfluenzaee:
-
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥ 18 | Susceptible (S) |
-| eThis zone diameter standard is applicable only to tests with Haemophilus influenzae and Haemophilus parainfluenzae using Haemophilus Test Medium (HTM)2. |  |
-
-The current absence of data on resistant strains precludes defining any results other than “Susceptible”.
-Strains yielding zone diameter results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing.
-
-For testing Streptococcus species including Streptococcus pneumoniae f and Enterococcus faecalis:
-
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥ 18 | Susceptible (S) |
-| 15 – 17 | Intermediate (I) |
-| ≤ 14 | Resistant (R) |
-| f These interpretive standards are applicable only to disk diffusion tests using Mueller-Hinton agar supplemented with 5% sheep blood incubated in 5% CO2. |  |
-
-Interpretation should be as stated above for results using dilution techniques.
-Interpretation involves correlation of the diameter obtained in the disk test with the MIC for moxifloxacin.
-As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
-For the diffusion technique, the 5-mcg moxifloxacin disk should provide the following zone diameters in these laboratory test quality control strains:
-
-| Microorganism |  | Zone Diameter (mm) |
-| --- | --- | --- |
-| Escherichia coli | ATCC 25922 | 28 – 35 |
-| Haemophilus influenzae | ATCC 49247g | 31 – 39 |
-| Staphylococcus aureus | ATCC 25923 | 28 – 35 |
-| Streptococcus pneumoniae | ATCC 49619h | 25 – 31 |
-| gThese quality control limits are applicable to only H. influenzae ATCC 49247 testing using Haemophilus Test Medium (HTM)2. |  |  |
-| h These quality control limits are applicable only to tests conducted with S. pneumoniae ATCC 49619 tested by a disk diffusion procedure using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2. |  |  |
-
-#### Anaerobic Techniques
-
-For anaerobic bacteria, the susceptibility to moxifloxacin as MICs can be determined by standardized procedures3 such as reference agar dilution methodsi.
-The MICs obtained should be interpreted according to the following criteria:
-
-| MIC (mcg/mL) | Interpretation |
-| --- | --- |
-| ≤2 | Susceptible (S) |
-| 4 | Intermediate (I) |
-| ≥ 8 | Resistant (R) |
-| i This interpretive standard is applicable to reference agar dilution susceptibility tests using Brucella agar supplemented with hemin, vitamin K1 and 5% laked sheep blood. |  |
-
-Acceptable ranges of MICs (mcg/mL) for control strains for reference agar dilution testing j:
-
-| Microorganism |  | MIC (mcg/mL) |
-| --- | --- | --- |
-| Bacteroides fragilis | ATCC 25285 | 0.12-0.5 |
-| Bacteroides thetaiotaomicron | ATCC 29741 | 1-4 |
-| Eubacterium lentum | ATCC 43055 | 0.12-0.5 |
-| jThese quality control ranges are applicable to reference agar dilution tests using Brucella agar supplemented with hemin, vitamin K1 and 5% laked sheep blood. |  |  |
+| Strains | MIC range (mcg/mL) | Zone Diameter (mm) |
+| Enterococcus faecalis ATCC 29212 | 0.06–0.5 | - |
+| Escherichia coli ATCC 25922 | 0.008–0.06 | 28–35 |
+| Haemophilus influenzaeATCC 49247 | 0.008–0.03 | 31–39 |
+| Staphylococcus aureus ATCC29213 | 0.015–0.06 | - |
+| Staphylococcus aureus ATCC25923 | - | 28–35 |
+| Streptococcus pneumoniaeATCC 49619 | 0.06–0.25 | 25–31 |
+| Bacteroides fragilisATCC 25285 | 0.125–0.5 | - |
+| Bacteroides thetaiotaomicronATCC 29741 | 1–4 | - |
+| Eubacterium lentumATCC 43055 | 0.125–0.5 | - |

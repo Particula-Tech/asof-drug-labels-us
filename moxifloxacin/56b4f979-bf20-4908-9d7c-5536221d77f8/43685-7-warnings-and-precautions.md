@@ -64,13 +64,13 @@ The drug should be discontinued immediately at the first appearance of a skin ra
 
 ## 5.6 Central Nervous System Effects
 
-Quinolones, including AVELOX, may cause central nervous system (CNS) events, including: nervousness, agitation, insomnia, anxiety, nightmares or paranoia [see Adverse Reactions (6.2, 6.4)].
+Fluoroquinolones, including AVELOX, may cause central nervous system (CNS) events, including: nervousness, agitation, insomnia, anxiety, nightmares or paranoia [see Adverse Reactions (6.2, 6.4)].
 
-Convulsions have been reported in patients receiving quinolones.
-Quinolones may also cause central nervous system (CNS) events including: dizziness, confusion, tremors, hallucinations, depression, and, rarely, suicidal thoughts or acts.
+Convulsions and increased intracranial pressure (including pseudotumor cerebri) have been reported in patients receiving fluoroquinolones.
+Fluoroquinolones may also cause central nervous system (CNS) events including: dizziness, confusion, tremors, hallucinations, depression, and, rarely, suicidal thoughts or acts.
 These reactions may occur following the first dose.
 If these reactions occur in patients receiving AVELOX, the drug should be discontinued and appropriate measures instituted.
-As with all quinolones, AVELOX should be used with caution in patients with known or suspected CNS disorders (for example, severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold [see Drug Interactions (7.4) Adverse Reactions (6.2, 6.4) and Patient Counseling Information (17.3)].
+As with all fluoroquinolones, AVELOX should be used with caution in patients with known or suspected CNS disorders (for example, severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold [see Drug Interactions (7.4) Adverse Reactions (6.2, 6.4) and Patient Counseling Information (17.3)].
 
 ## 5.7 Clostridium Difficile-Associated Diarrhea
 

@@ -176,7 +176,7 @@ It cannot be determined if any of the above laboratory abnormalities were caused
 
 ## 6.4 Postmarketing Experience
 
-Table 4 lists adverse reactions that have been identified during post-approval use of Avelox.
+Table 4 lists adverse reactions that have been identified during post-approval use of AVELOX.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Table 4: Postmarketing Reports of Adverse Drug Reactions

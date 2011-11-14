@@ -7,7 +7,7 @@ The duration of therapy depends on the type of infection as described in Table 1
 
 Table 1: Dosage and Duration of Therapy in Adult Patients
 
-| Type of InfectionDue to the designated pathogens [see Indications and Usage (1), for IV use, see Use in Specific Populations (8.5)]. | Dose Every 24 hours | Duration (days) |
+| Type of InfectionDue to the designated pathogens [see Indications and Usage (1), for IV use, see Use in Specific Populations (8.5)]. | Dose Every 24 hours | DurationSequential therapy (intravenous to oral) may be instituted at the discretion of the physician (days) |
 | --- | --- | --- |
 | Acute Bacterial Sinusitis (1.1) | 400 mg | 10 |
 | Acute Bacterial Exacerbation of Chronic Bronchitis (1.2) | 400 mg | 5 |

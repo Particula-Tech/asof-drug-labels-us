@@ -51,7 +51,7 @@ Table 9: Clinical Success Rates By Pathogen (Pooled CAP Studies)
 
 ## 14.3 Community Acquired Pneumonia caused by Multi-Drug Resistant Streptococcus pneumoniae (MDRSP)*
 
-Avelox was effective in the treatment of community acquired pneumonia (CAP) caused by multi-drug resistant Streptococcus pneumoniae MDRSP* isolates.
+AVELOX was effective in the treatment of community acquired pneumonia (CAP) caused by multi-drug resistant Streptococcus pneumoniae MDRSP* isolates.
 Of 37 microbiologically evaluable patients with MDRSP isolates, 35 patients (95%) achieved clinical and bacteriological success post-therapy.
 The clinical and bacteriological success rates based on the number of patients treated are shown in Table 10.
 
@@ -138,7 +138,7 @@ The overall clinical success rates in the clinically evaluable patients are show
 
 Table 14: Clinical Success Rates in Patients with Complicated Intra-Abdominal Infections
 
-| Study | AVELOX n/ N (%) | Comparator n/N (%) | 95% Confidence Intervalof difference in success rates between Avelox and comparator (Avelox – comparator) |
+| Study | AVELOX n/ N (%) | Comparator n/N (%) | 95% Confidence Intervalof difference in success rates between AVELOX and comparator (AVELOX – comparator) |
 | --- | --- | --- | --- |
 | North America (overall) | 146/183 (79.8 %) | 153/196 (78.1 %) | (-7.4%, 9.3%) |
 | Abscess | 40/57 (70.2 %) | 49/63 (77.8 %)Excludes 2 patients who required additional surgery within the first 48 hours. | NANA - not applicable |
