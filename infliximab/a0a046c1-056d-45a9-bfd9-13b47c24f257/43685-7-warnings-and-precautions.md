@@ -70,7 +70,8 @@ Postmarketing cases of hepatosplenic T-cell lymphoma (HSTCL), a rare type of T-c
 These cases have had a very aggressive disease course and have been fatal.
 All reported REMICADE cases have occurred in patients with Crohn's disease or ulcerative colitis and the majority were in adolescent and young adult males.
 All of these patients had received treatment with the immunosuppressants azathioprine or 6-mercaptopurine concomitantly with REMICADE at or prior to diagnosis.
-It is uncertain whether the occurrence of HSTCL is related to REMICADE or REMICADE in combination with these other immunosuppressants.When treating patients with inflammatory bowel disease, particularly in adolescents and young adults, consideration of whether to use REMICADE alone or in combination with other immunosuppressants should take into account a possibility that there is a higher risk of HSTCL with combination therapy versus an observed increased risk of immunogenicity and hypersensitivity reactions with REMICADE monotherapy from the clinical trial data [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
+It is uncertain whether the occurrence of HSTCL is related to REMICADE or REMICADE in combination with these other immunosuppressants.
+When treating patients with inflammatory bowel disease, particularly in adolescents and young adults, consideration of whether to use REMICADE alone or in combination with other immunosuppressants should take into account a possibility that there is a higher risk of HSTCL with combination therapy versus an observed increased risk of immunogenicity and hypersensitivity reactions with REMICADE monotherapy from the clinical trial data [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
 Other Malignancies
 
@@ -95,8 +96,8 @@ Caution should be exercised in considering REMICADE treatment in patients with a
 Use of TNF blockers, including REMICADE, has been associated with reactivation of hepatitis B virus (HBV) in patients who are chronic carriers of this virus.
 In some instances, HBV reactivation occurring in conjunction with TNF blocker therapy has been fatal.
 The majority of these reports have occurred in patients concomitantly receiving other medications that suppress the immune system, which may also contribute to HBV reactivation.
-Patients at risk for HBV infection should be evaluated for prior evidence of HBV infection before initiating TNF blocker therapy.
-Prescribers should exercise caution in prescribing TNF blockers, including REMICADE, for patients identified as carriers of HBV.
+Patients should be tested for HBV infection before initiating TNF blocker therapy, including REMICADE.
+For patients who test positive for hepatitis B surface antigen, consultation with a physician with expertise in the treatment of hepatitis B is recommended.
 Adequate data are not available on the safety or efficacy of treating patients who are carriers of HBV with anti-viral therapy in conjunction with TNF blocker therapy to prevent HBV reactivation.
 Patients who are carriers of HBV and require treatment with TNF blockers should be closely monitored for clinical and laboratory signs of active HBV infection throughout therapy and for several months following termination of therapy.
 In patients who develop HBV reactivation, TNF blockers should be stopped and antiviral therapy with appropriate supportive treatment should be initiated.
@@ -175,6 +176,7 @@ If a patient develops symptoms suggestive of a lupus-like syndrome following tre
 
 No data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines in patients receiving anti-TNF therapy.
 It is recommended that live vaccines not be given concurrently.
+Caution is advised in the administration of live vaccines to infants born to female patients treated with REMICADE during pregnancy since REMICADE is known to cross the placenta and has been detected up to 6 months in the serum of infants born to female patients treated with REMICADE during pregnancy.
 
 It is recommended that all pediatric patients be brought up to date with all vaccinations prior to initiating REMICADE therapy.
 The interval between vaccination and initiation of REMICADE therapy should be in accordance with current vaccination guidelines.

@@ -76,7 +76,8 @@ The reconstituted infusion solution should be prepared by a trained medical prof
    Slowly add the total volume of reconstituted REMICADE solution to the 250 mL infusion bottle or bag.
    Gently mix.
    The resulting infusion concentration should range between 0.4 mg/mL and 4 mg/mL.
-4. The infusion solution must be administered over a period of not less than 2 hours and must use an infusion set with an in-line, sterile, non-pyrogenic, low-protein-binding filter (pore size of 1.2 µm or less).
+4. The REMICADE infusion should begin within 3 hours of reconstitution and dilution.
+   The infusion must be administered over a period of not less than 2 hours and must use an infusion set with an in-line, sterile, non-pyrogenic, low-protein-binding filter (pore size of 1.2 µm or less).
    The vials do not contain antibacterial preservatives.
    Therefore, any unused portion of the infusion solution should not be stored for reuse.
 5. No physical biochemical compatibility studies have been conducted to evaluate the co-administration of REMICADE with other agents.

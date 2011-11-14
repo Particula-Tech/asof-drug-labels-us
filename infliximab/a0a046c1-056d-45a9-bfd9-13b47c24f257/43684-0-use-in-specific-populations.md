@@ -9,6 +9,9 @@ No evidence of maternal toxicity, embryotoxicity or teratogenicity was observed 
 Doses of 10 to 15 mg/kg in pharmacodynamic animal models with the anti-TNF analogous antibody produced maximal pharmacologic effectiveness.
 Doses up to 40 mg/kg were shown to produce no adverse effects in animal reproduction studies.
 
+As with other IgG antibodies, REMICADE crosses the placenta and has been detected up to 6 months in the serum of infants born to female patients treated with REMICADE during pregnancy.
+Consequently, these infants may be at increased risk of infection, and caution is advised in the administration of live vaccines to these infants [see Warnings and Precautions (5.13)].
+
 ## 8.3 Nursing Mothers
 
 It is not known whether REMICADE is excreted in human milk or absorbed systemically after ingestion.
@@ -30,7 +33,7 @@ The longer term (greater than 1 year) safety and effectiveness of REMICADE in pe
 Pediatric Ulcerative Colitis
 
 The safety and effectiveness of REMICADE for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients aged 6 years and older with moderately to severely active ulcerative colitis who have had an inadequate response to conventional therapy are supported by evidence from adequate and well-controlled studies of REMICADE in adults.
-Additional safety and pharmacokinetic data were collected in 60 pediatric patients ages 6 years and older [see Clinical Pharmacology (12.3), Dosage and Administration (2.4), Adverse Reactions (6.1), and Clinical Studies, (14.4)].
+Additional safety and pharmacokinetic data were collected in 60 pediatric patients aged 6 years and older [see Clinical Pharmacology (12.3), Dosage and Administration (2.4), Adverse Reactions (6.1), and Clinical Studies, (14.4)].
 The effectiveness of REMICADE in inducing and maintaining mucosal healing could not be established.
 Although 41 patients had a Mayo endoscopy subscore of 0 or 1 at the Week 8 endoscopy, the induction phase was open-label and lacked a control group.
 Only 9 patients had an optional endoscopy at Week 54.
@@ -70,4 +73,5 @@ Other notable infections included primary varicella infection in 1 patient and h
 
 In rheumatoid arthritis and plaque psoriasis clinical trials, no overall differences were observed in effectiveness or safety in 181 patients with rheumatoid arthritis and 75 patients with plaque psoriasis, aged 65 or older who received REMICADE, compared to younger patients - although the incidence of serious adverse reactions in patients aged 65 or older was higher in both REMICADE and control groups compared to younger patients.
 In Crohn's disease, ulcerative colitis, ankylosing spondylitis and psoriatic arthritis studies, there were insufficient numbers of patients aged 65 and over to determine whether they respond differently from patients aged 18 to 65.
-Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly [see Adverse Reactions (6.1)].
+There is a greater incidence of infections in the elderly population in general.
+The incidence of serious infections in REMICADE-treated patients 65 years and older was greater than in those under 65 years of age; therefore caution should be used in treating the elderly [see Adverse Reactions (6.1)].

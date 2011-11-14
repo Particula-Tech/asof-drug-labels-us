@@ -12,14 +12,17 @@ One of the most-common reasons for discontinuation of treatment was infusion-rel
 
 Infusion-related Reactions
 
-An infusion reaction was defined in clinical trials as any adverse event occurring during an infusion or within 1 to 2 hours after an infusion.
-Approximately 20% of REMICADE-treated patients in all clinical studies experienced an infusion reaction compared to approximately 10% of placebo-treated patients.
+An infusion reaction was defined in clinical trials as any adverse event occurring during an infusion or within 1 hour after an infusion.
+In phase 3 clinical studies, 18% of REMICADE-treated patients experienced an infusion reaction compared to 5% of placebo-treated patients.
+Of infliximab-treated patients who had an infusion reaction during the induction period, 27% experienced an infusion reaction during the maintenance period.
+Of patients who did not have an infusion reaction during the induction period, 9% experienced an infusion reaction during the maintenance period.
+
 Among all REMICADE infusions, 3% were accompanied by nonspecific symptoms such as fever or chills, 1% were accompanied by cardiopulmonary reactions (primarily chest pain, hypotension, hypertension or dyspnea), and <1% were accompanied by pruritus, urticaria, or the combined symptoms of pruritus/urticaria and cardiopulmonary reactions.
 Serious infusion reactions occurred in <1% of patients and included anaphylaxis, convulsions, erythematous rash and hypotension.
 Approximately 3% of patients discontinued REMICADE because of infusion reactions, and all patients recovered with treatment and/or discontinuation of the infusion.
 REMICADE infusions beyond the initial infusion were not associated with a higher incidence of reactions.
 The infusion reaction rates remained stable in psoriasis through 1 year in psoriasis Study I. In psoriasis Study II, the rates were variable over time and somewhat higher following the final infusion than after the initial infusion.
-Across the 3 psoriasis studies, the percent of total infusions resulting in infusion reactions (i.e., an adverse event occurring within 1 to 2 hours) was 7% in the 3 mg/kg group, 4% in the 5 mg/kg group, and 1% in the placebo group.
+Across the 3 psoriasis studies, the percent of total infusions resulting in infusion reactions (i.e., an adverse event occurring within 1 hour) was 7% in the 3 mg/kg group, 4% in the 5 mg/kg group, and 1% in the placebo group.
 
 Patients who became positive for antibodies to infliximab were more likely (approximately two- to three-fold) to have an infusion reaction than were those who were negative.
 Use of concomitant immunosuppressant agents appeared to reduce the frequency of both antibodies to infliximab and infusion reactions [see Adverse Reactions (6.1) and Drug Interactions (7.3)].
@@ -196,7 +199,7 @@ Other serious, medically relevant adverse reactions ≥0.2% or clinically signif
 - Platelet, Bleeding and Clotting: thrombocytopenia
 - Neoplasms:lymphoma
 - Red Blood Cell: anemia, hemolytic anemia
-- Resistance Mechanism: cellulitis, sepsis, serum sickness
+- Resistance Mechanism: cellulitis, sepsis, serum sickness, sarcoidosis
 - Respiratory: lower respiratory tract infection (including pneumonia), pleurisy, pulmonary edema
 - Skin and Appendages: increased sweating
 - Vascular (Extracardiac): thrombophlebitis

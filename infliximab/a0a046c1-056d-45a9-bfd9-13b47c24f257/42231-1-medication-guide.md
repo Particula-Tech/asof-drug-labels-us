@@ -112,6 +112,8 @@ Tell your doctor about all of your medical conditions, including if you:
   Talk to your doctor about the best way to feed your baby while taking REMICADE.
   You should not breast-feed while taking REMICADE.
 
+If you have a baby and you were using REMICADE during your pregnancy, tell your baby's doctor about your REMICADE use before the baby receives any vaccine.
+
 How should I receive REMICADE?
 
 - You will be given REMICADE through a needle placed in a vein (IV or intravenous infusion) in your arm.
@@ -142,7 +144,7 @@ See "What is the most important information I should know about REMICADE?".
 
 Serious Infections
 
-- Some patients have had serious infections while receiving REMICADE.
+- Some patients, especially those 65 years and older have had serious infections while receiving REMICADE.
   These serious infections include TB and infections caused by viruses, fungi, or bacteria that have spread throughout the body.
   Some patients die from these infections.
   If you get an infection while receiving treatment with REMICADE your doctor will treat your infection and may need to stop your REMICADE treatment.
@@ -158,7 +160,7 @@ Serious Infections
   Patients who had a negative TB skin test before receiving REMICADE have developed active TB.
 - If you are a chronic carrier of the hepatitis B virus, the virus can become active while you are being treated with REMICADE.
   In some cases, patients have died as a result of hepatitis B virus being reactivated.
-  Your doctor may do a blood test before you start treatment with REMICADE and occasionally while you are being treated.
+  Your doctor should do a blood test for hepatitis B virus before you start treatment with REMICADE and occasionally while you are being treated.
   Tell your doctor if you have any of the following symptoms:
   - feel unwell
   - poor appetite
@@ -301,7 +303,7 @@ Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044
 
 U.S. License No. 1864
 
-Revised September 2011
+Revised October 2011
 
 ©Janssen Biotech, Inc. 2011
 
