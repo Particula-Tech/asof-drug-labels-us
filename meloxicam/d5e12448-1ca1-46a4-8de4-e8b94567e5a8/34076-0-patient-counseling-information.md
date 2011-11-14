@@ -41,4 +41,4 @@ Instruct patients to seek immediate emergency help [see Warnings and Precautions
 ## 17.8 Effects During Pregnancy
 
 Starting at 30 weeks gestation, meloxicam should be avoided as premature closure of the ductus arteriosus in the fetus may occur [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 12/2010
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 09/2011

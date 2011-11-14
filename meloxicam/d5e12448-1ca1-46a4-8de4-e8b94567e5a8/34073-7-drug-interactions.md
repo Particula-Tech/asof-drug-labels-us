@@ -9,7 +9,7 @@ This interaction should be given consideration in patients taking meloxicam conc
 
 ## 7.2 Aspirin
 
-When meloxicam is administered with aspirin (1000 mg three times daily) to healthy volunteers, an increase the AUC (10%) and C max (24%) of meloxicam was noted.
+When meloxicam is administered with aspirin (1000 mg three times daily) to healthy volunteers, an increase in the AUC (10%) and C max (24%) of meloxicam was noted.
 The clinical significance of this interaction is not known; however, as with other NSAIDs concomitant administration of meloxicam and aspirin is not generally recommended because of the potential for increased adverse effects.
 Concomitant administration of low-dose aspirin with meloxicam may result in an increased rate of GI ulceration or other complications, compared to use of meloxicam alone.
 Meloxicam is not a substitute for aspirin for cardiovascular prophylaxis.
