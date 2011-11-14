@@ -11,15 +11,16 @@ LEVAQUIN® can cause side effects that may be serious or even cause death.
 If you get any of the following serious side effects, get medical help right away.
 Talk with your healthcare provider about whether you should continue to take LEVAQUIN®.
 
-- Tendon rupture or swelling of the tendon (tendinitis).
-  - Tendons are tough cords of tissue that connect muscles to bones.
-  - Pain, swelling, tears, and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites can happen in people of all ages who take fluoroquinolone antibiotics, including LEVAQUIN®.
-    The risk of getting tendon problems is higher if you:
+- 1.Tendon rupture or swelling of the tendon (tendinitis).
+  - Tendon problems can happen in people of all ages who take LEVAQUIN®.
+    Tendons are tough cords of tissue that connect muscles to bones.
+    - Some tendon problems include pain, swelling, tears, and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+  - The risk of getting tendon problems while you take LEVAQUIN® is higher if you:
     - are over 60 years of age
     - are taking steroids (corticosteroids)
     - have had a kidney, heart or lung transplant.
-  - Swelling of the tendon (tendinitis) and tendon rupture (breakage) have also happened in patients who take fluoroquinolones who do not have the above risk factors.
-  - Other reasons for tendon ruptures can include:
+  - Tendon problems can happen in people who do not have the above risk factors when they take LEVAQUIN®.
+    Other reasons that can increase your risk of tendon problems can include:
     - physical activity or exercise
     - kidney failure
     - tendon problems in the past, such as in people with rheumatoid arthritis (RA).
@@ -28,7 +29,7 @@ Talk with your healthcare provider about whether you should continue to take LEV
     Avoid exercise and using the affected area.
     The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
     This can also happen with other tendons.
-    Talk to your healthcare provider about the risk of tendon rupture with continued use of LEVAQUIN®.
+  - Talk to your healthcare provider about the risk of tendon rupture with continued use of LEVAQUIN®.
     You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
   - Tendon rupture can happen while you are taking or after you have finished taking LEVAQUIN®.
     Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone.
@@ -36,7 +37,7 @@ Talk with your healthcare provider about whether you should continue to take LEV
     - hear or feel a snap or pop in a tendon area
     - bruising right after an injury in a tendon area
     - unable to move the affected area or bear weight
-- Worsening of myasthenia gravis (a disease that causes muscle weakness).
+- 2.Worsening of myasthenia gravis (a disease that causes muscle weakness).
   Fluoroquinolones like LEVAQUIN® may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
   Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
@@ -201,6 +202,7 @@ Other serious side effects of LEVAQUIN® include:
   - feel lightheaded
   - feel more suspicious (paranoia)
   - suicidal thoughts or acts
+  - persistent headache with or without blurred vision.
 
 - Serious allergic reactions.
   Allergic reactions can happen in people taking fluoroquinolones, including LEVAQUIN®, even after only one dose.
@@ -321,14 +323,20 @@ What are the ingredients in LEVAQUIN®?
   - Inactive ingredients: Dextrose (D5W).
     Solutions of hydrochloric acid and sodium hydroxide may have been added to adjust the pH.
 
-Revised June 2011
+Revised October 2011
 
-Manufactured by: Janssen Ortho LLC, Gurabo, Puerto Rico 00778 (Tablets).
-Janssen Pharmaceutica N.V., Beerse, Belgium (Oral Solution, Injection Single-Use Vials).
-Hospira, Inc., Austin, TX 78728 (Injection Premix).
+Active Ingredient Made in Japan
 
-Manufactured for: PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Raritan, NJ 08869 (Tablets, Oral Solution) Ortho-McNeil, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc., Raritan, NJ 08869 (Injection Single-Use Vials, Injection Premix)
+Finished Product Manufactured by:
 
-©Ortho-McNeil-Janssen Pharmaceuticals, Inc.
+- Janssen Ortho LLC, Gurabo, Puerto Rico 00778 (Tablets).
+- Janssen Pharmaceutica N.V., Beerse, Belgium (Oral Solution, Injection Single-Use Vials).
+- Hospira, Inc., Austin, TX 78728 (Injection Premix).
+
+Manufactured for:
+
+- Janssen Pharmaceuticals, Inc., Titusville, NJ 08560.
+
+© Janssen Pharmaceuticals, Inc.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

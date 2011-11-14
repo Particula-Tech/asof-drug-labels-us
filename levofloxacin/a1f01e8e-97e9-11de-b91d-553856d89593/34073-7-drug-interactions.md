@@ -5,7 +5,7 @@
 LEVAQUIN® Tablets and Oral Solution
 
 While the chelation by divalent cations is less marked than with other fluoroquinolones, concurrent administration of LEVAQUIN® Tablets and Oral Solution with antacids containing magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc may interfere with the gastrointestinal absorption of levofloxacin, resulting in systemic levels considerably lower than desired.
-Tablets with antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron, and multivitamins preparations with zinc or didanosine may substantially interfere with the gastrointestinal absorption of levofloxacin, resulting in systemic levels considerably lower than desired.
+Tablets with antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine may substantially interfere with the gastrointestinal absorption of levofloxacin, resulting in systemic levels considerably lower than desired.
 These agents should be taken at least two hours before or two hours after oral LEVAQUIN® administration.
 
 LEVAQUIN® Injection
