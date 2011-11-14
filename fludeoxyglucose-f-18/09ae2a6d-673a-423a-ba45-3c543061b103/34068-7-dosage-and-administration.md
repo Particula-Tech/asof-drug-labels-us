@@ -76,7 +76,7 @@ Estimated Absorbed Radiation Doses (rem/mCi) After Intravenous Administration of
 - Aseptically withdraw Fludeoxyglucose F18 Injection from its container.
 - Inspect Fludeoxyglucose F18 Injection visually for particulate matter and discoloration before administration, whenever solution and container permit.
 - Do not administer the drug if it contains particulate matter or discoloration; dispose of these unacceptable or unused preparations in a safe manner, in compliance with applicable regulations.
-- Use Fludeoxyglucose F 18 Injection within 18 hours from the EOS.
+- Use Fludeoxyglucose F 18 Injection within 12 hours from the EOS.
 
 ## 2.7 Imaging Guidelines
 
