@@ -18,12 +18,11 @@ Table 8 - Efficacy of Docetaxel in the Treatment of Breast Cancer Patients Previ
 | Efficacy Parameter | Docetaxel (n=203) | Mitomycin/Vinblastine(n=189) | p-value |
 | --- | --- | --- | --- |
 | Median Survival | 11.4 months | 8.7 months | p=0.01 Log Rank |
-| Risk Ratio*, Mortality (Docetaxel: Control) 95% CI (Risk Ratio) | 0.73 0.58–0.93 |  |  |
+| Risk Ratio*, Mortality (Docetaxel: Control)95% CI (Risk Ratio) | 0.730.58–0.93 |  |  |
 | Median Time to Progression | 4.3 months | 2.5 months | p=0.01Log Rank |
-| Risk Ratio*,Progression(Docetaxel: Control) 95% CI (Risk Ratio) | 0.75 0.61–0.94 |  |  |
+| Risk Ratio*,Progression(Docetaxel: Control)95% CI (Risk Ratio) | 0.75 0.61–0.94 |  |  |
 | Overall Response RateComplete Response Rate | 28.1% 3.4% | 9.5% 1.6% | p<0.0001 Chi Square |
-
-*For the risk ratio, a value less than 1.00 favors docetaxel.
+| *For the risk ratio, a value less than 1.00 favors docetaxel. |  |  |  |
 
 In a second randomized trial, patients previously treated with an alkylating-containing regimen were assigned to treatment with docetaxel (100 mg/m2) or doxorubicin (75 mg/m2) every 3 weeks.
 One hundred sixty-one patients were randomized to docetaxel and 165 patients to doxorubicin.
@@ -37,12 +36,11 @@ Table 9 - Efficacy of Docetaxel in the Treatment of Breast Cancer Patients Previ
 | Efficacy Parameter | Docetaxel(n=161) | Doxorubicin(n=165) | p-value |
 | --- | --- | --- | --- |
 | Median Survival | 14.7 months | 14.3 months | p=0.39 Log Rank |
-| Risk Ratio*, Mortality (Docetaxel: Control) 95% CI (Risk Ratio) | 0.89 0.68–1.16 |  |  |
+| Risk Ratio*, Mortality (Docetaxel: Control)95% CI (Risk Ratio) | 0.89 0.68–1.16 |  |  |
 | Median Time to Progression | 6.5 months | 5.3 months | p=0.45 Log Rank |
-| Risk Ratio*,Progression(Docetaxel: Control) 95% CI (Risk Ratio) | 0.93 0.71–1.16 |  |  |
+| Risk Ratio*,Progression(Docetaxel: Control)95% CI (Risk Ratio) | 0.93 0.71–1.16 |  |  |
 | Overall Response Rate Complete Response Rate | 45.3% 6.8% | 29.7% 4.2% | p=0.004Chi Square |
-
-*For the risk ratio, a value less than 1.00 favors docetaxel.
+| *For the risk ratio, a value less than 1.00 favors docetaxel. |  |  |  |
 
 In another multicenter open-label, randomized trial (TAX313), in the treatment of patients with advanced breast cancer who progressed or relapsed after one prior chemotherapy regimen, 527 patients were randomized to receive docetaxel monotherapy 60 mg/m2 (n=151), 75 mg/m2 (n=188) or 100 mg/m2 (n=188).
 In this trial, 94% of patients had metastatic disease and 79% had received prior anthracycline therapy.
@@ -85,10 +83,11 @@ Table 10 - Subset Analyses-Adjuvant Breast Cancer Study
 |  |  | Disease Free Survival |  | Overall Survival |  |
 | --- | --- | --- | --- | --- | --- |
 | Patient subset | Number of patients | Hazard ratio* | 95% CI | Hazard ratio* | 95% CI |
-| No. of positive nodes Overall 1–3 4+ | 744 467 277 | 0.74 0.64 0.84 | (0.60, 0.92) (0.47, 0.87) (0.63, 1.12) | 0.69 0.45 0.93 | (0.53, 0.90) (0.29, 0.70) (0.66, 1.32) |
-| Receptor statusPositive Negative | 566 178 | 0.76 0.68 | (0.59, 0.98) (0.48, 0.97) | 0.69 0.66 | (0.48, 0.99)(0.44, 0.98) |
-
-*a hazard ratio of less than 1 indicates that TAC is associated with a longer disease free survival or overall survival compared to FAC.
+| No. of positive nodes |  |  |  |  |  |
+| Overall 1–3 4+ | 744 467 277 | 0.74 0.64 0.84 | (0.60, 0.92)(0.47, 0.87)(0.63, 1.12) | 0.69 0.45 0.93 | (0.53, 0.90)(0.29, 0.70)(0.66, 1.32) |
+| Receptor status |  |  |  |  |  |
+| Positive Negative | 566 178 | 0.76 0.68 | (0.59, 0.98)(0.48, 0.97) | 0.69 0.66 | (0.48, 0.99)(0.44, 0.98) |
+| *a hazard ratio of less than 1 indicates that TAC is associated with a longer disease free survival or overall survival compared to FAC. |  |  |  |  |  |
 
 ## 14.3 Non-Small Cell Lung Cancer (NSCLC)
 
@@ -114,20 +113,13 @@ Table 11 - Efficacy of Docetaxel in the Treatment of Non-Small Cell Lung Cancer 
 |  | TAX317 |  |  | TAX320 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Docetaxel75 mg/m2n=55 |  | Best SupportiveCaren=49 | Docetaxel75 mg/m2n=125 |  | Control (V/I*)n=123 |
-| Overall SurvivalLog-rank Test | p=0.01 |  |  | p=0.13 |  |  |
-| Risk Ratio††, Mortality (Docetaxel: Control)95% CI (Risk Ratio) | 0.56(0.35, 0.88) |  |  | 0.82(0.63, 1.06) |  |  |
+| Overall Survival Log-rank Test | p=0.01 |  |  | p=0.13 |  |  |
+| Risk Ratio††, Mortality(Docetaxel: Control)95% CI (Risk Ratio) | 0.56(0.35, 0.88) |  |  | 0.82(0.63, 1.06) |  |  |
 | Median Survival 95% CI | 7.5 months** (5.5, 12.8) |  | 4.6 months(3.7, 6.1) | 5.7 months (5.1, 7.1) |  | 5.6 months (4.4, 7.9) |
 | % 1-year Survival 95% CI | 37%**† (24, 50) |  | 12%(2, 23) | 30%**†(22, 39) |  | 20% (13, 27) |
 | Time to Progression 95% CI | 12.3 weeks** (9.0, 18.3) |  | 7.0 weeks (6.0, 9.3) | 8.3 weeks (7.0, 11.7) |  | 7.6 weeks (6.7, 10.1) |
 | Response Rate 95% CI | 5.5% (1.1, 15.1) |  | Not Applicable | 5.7% (2.3, 11.3) |  | 0.8% (0.0, 4.5) |
-
-*Vinorelbine/Ifosfamide
-
-††a value less than 1.00 favors docetaxel.
-
-**p≤0.05
-
-†uncorrected for multiple comparisons
+| *Vinorelbine/Ifosfamide ††a value less than 1.00 favors docetaxel. **p≤0.05 †uncorrected for multiple comparisons |  |  |  |  |  |  |
 
 Only one of the two trials (TAX317) showed a clear effect on survival, the primary endpoint; that trial also showed an increased rate of survival to one year.
 In the second study (TAX320) the rate of survival at one year favored docetaxel 75 mg/m2.
@@ -156,13 +148,7 @@ Table 12 - Survival Analysis of Docetaxel in Combination Therapy for Chemotherap
 | p-valuea | 0.122 |  |
 | Estimated Hazard Ratiob | 0.88 |  |
 | Adjusted 95% CIc | (0.74, 1.06) |  |
-
-aFrom the superiority test (stratified log rank) comparing docetaxel+cisplatin to vinorelbine+cisplatin
-
-bHazard ratio of docetaxel+cisplatin vs. vinorelbine+cisplatin.
-A hazard ratio of less than 1 indicates that docetaxel+cisplatin is associated with a longer survival.
-
-cAdjusted for interim analysis and multiple comparisons.
+| aFrom the superiority test (stratified log rank) comparing docetaxel+cisplatin to vinorelbine+cisplatin bHazard ratio of docetaxel+cisplatin vs. vinorelbine+cisplatin. A hazard ratio of less than 1 indicates that docetaxel+cisplatin is associated with a longer survival. cAdjusted for interim analysis and multiple comparisons. |  |  |
 
 The second comparison in the same three-arm study, vinorelbine+cisplatin versus docetaxel+carboplatin, did not demonstrate superior survival associated with the docetaxel arm (Kaplan-Meier estimate of median survival was 9.1 months for docetaxel +carboplatin compared to 10.0 months on the vinorelbine+cisplatin arm) and the docetaxel+carboplatin arm did not demonstrate preservation of at least 50% of the survival effect of vinorelbine added to cisplatin.
 Secondary endpoints evaluated in the trial included objective response and time to progression.
@@ -174,10 +160,7 @@ Table 13 - Response and TTP Analysis of Docetaxel in Combination Therapy for Che
 | --- | --- | --- | --- |
 | Objective Response Rate(95% CI)a | 31.6%(26.5%, 36.8%) | 24.4%(19.8%, 29.2%) | Not Significant |
 | Median Time to Progressionb(95% CI)a | 21.4 weeks(19.3, 24.6) | 22.1 weeks(18.1, 25.6) | Not Significant |
-
-aAdjusted for multiple comparisons.
-
-bKaplan-Meier estimates.
+| aAdjusted for multiple comparisons. bKaplan-Meier estimates. |  |  |  |
 
 ## 14.4 Hormone Refractory Prostate Cancer
 
@@ -198,9 +181,7 @@ Table 14 - Efficacy of Docetaxel in the Treatment of Patients with Androgen Inde
 
 |  | Docetaxel+Prednisone every 3 weeks | Mitoxantrone+Prednisone every 3 weeks |
 | --- | --- | --- |
-| Number of patientsMedian survival (months) 95% CI Hazard ratio 95% CI p-value* | 335 18.9(17.0–21.2)0.761(0.619–0.936)0.0094 | 337 16.5(14.4–18.6)------ |
-
-*Stratified log rank test.
-Threshold for statistical significance = 0.0175 because of 3 arms.
+| Number of patientsMedian survival (months) 95% CI Hazard ratio 95% CI p-value* | 33518.9(17.0–21.2)0.761(0.619–0.936)0.0094 | 33716.5(14.4–18.6)------ |
+| *Stratified log rank test. Threshold for statistical significance = 0.0175 because of 3 arms. |  |  |
 
 Figure 5 - TAX327 Survival K-M Curves

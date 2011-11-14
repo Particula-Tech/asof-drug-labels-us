@@ -171,3 +171,7 @@ Manufactured by: Hospira Australia Pty., Ltd., Mulgrave, Australia
 Manufactured by: Zydus Hospira Oncology Private Ltd., Gujarat, India
 
 Distributed by: Hospira, Inc., Lake Forest, IL 60045 USA
+
+GUJ DRUGS/G/28/1267
+
+EN-2836

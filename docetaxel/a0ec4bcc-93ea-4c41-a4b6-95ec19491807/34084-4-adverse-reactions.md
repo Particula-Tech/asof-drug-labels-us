@@ -36,7 +36,7 @@ Table 1 - Summary of Adverse Reactions in Patients Receiving Docetaxel at 100 mg
 | Infections Any Severe | 226 | 3316 | 226 |
 | Fever in Absence of Infection Any Severe | 312 | 418 | 352 |
 | Hypersensitivity Reactions Regardless of Premedication Any Severe With 3-day Premedication Any Severe | 214n=92 152 | 2010n=3 330 | 183n=92 152 |
-| Fluid Retention Regardless of Premedication Any SevereWith 3-dayPremedication Any Severe | 477 n=92647 | 398 n=36733 | 609 n=92647 |
+| Fluid Retention Regardless of Premedication Any SevereWith 3-day Premedication Any Severe | 477 n=92647 | 398 n=36733 | 609 n=92647 |
 | Neurosensory Any Severe | 494 | 340 | 586 |
 | Cutaneous Any Severe | 485 | 5410 | 475 |
 | Nail Changes Any Severe | 313 | 235 | 414 |
@@ -47,12 +47,7 @@ Table 1 - Summary of Adverse Reactions in Patients Receiving Docetaxel at 100 mg
 | Myalgia Any Severe | 192 | 162 | 212 |
 | Arthralgia | 9 | 7 | 8 |
 | Infusion Site Reactions | 4 | 3 | 4 |
-
-*Normal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN
-
-**Elevated Baseline LFTs: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN
-
-***Febrile Neutropenia: ANC grade 4 with fever >38°C with intravenous antibiotics and/or hospitalization
+| *Normal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN **Elevated Baseline LFTs: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN ***Febrile Neutropenia: ANC grade 4 with fever >38°C with intravenous antibiotics and/or hospitalization |  |  |  |
 
 Hematologic Reactions
 
@@ -121,7 +116,7 @@ Table 2 - Hematologic Adverse Reactions in Breast Cancer Patients Previously Tre
 
 |  | Docetaxel100 mg/m2 |  | Docetaxel60 mg/m2 |
 | --- | --- | --- | --- |
-|  | Normal LFTs *n=730% | Elevated LFTs**n=18% | Normal LFTs * |
+|  | Normal LFTs*n=730% | Elevated LFTs**n=18% | Normal LFTs* |
 | Adverse Reaction | n=174 |  |  |
 |  | % |  |  |
 | Neutropenia Any <2000 cells/mm3 Grade 4 <500 cells/mm3 | 98 84 | 100 94 | 95 75 |
@@ -131,14 +126,7 @@ Table 2 - Hematologic Adverse Reactions in Breast Cancer Patients Previously Tre
 | Febrile Neutropenia**** By Patient By Course | 12 2 | 33 9 | 0 0 |
 | Septic Death | 2 | 6 | 1 |
 | Non-Septic Death | 1 | 11 | 0 |
-
-*Normal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN
-
-**Elevated Baseline LFTs: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN
-
-***Incidence of infection requiring hospitalization and/or intravenous antibiotics was 8.5% (n=62) among the 730 patients with normal LFTs at baseline; 7 patients had concurrent grade 3 neutropenia, and 46 patients had grade 4 neutropenia.
-
-****Febrile Neutropenia: For 100 mg/m2, ANC grade 4 and fever >38°C with intravenous antibiotics and/or hospitalization; for 60 mg/m2, ANC grade 3/4 and fever >38.1°C
+| *Normal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN **Elevated Baseline LFTs: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN ***Incidence of infection requiring hospitalization and/or intravenous antibiotics was 8.5% (n=62) among the 730 patients with normal LFTs at baseline; 7 patients had concurrent grade 3 neutropenia, and 46 patients had grade 4 neutropenia. ****Febrile Neutropenia: For 100 mg/m2, ANC grade 4 and fever >38°C with intravenous antibiotics and/or hospitalization; for 60 mg/m2, ANC grade 3/4 and fever >38.1°C |  |  |  |
 
 Table 3 - Non-Hematologic Adverse Reactions in Breast Cancer Patients Previously Treated with Chemotherapy Treated at Docetaxel 100 mg/m2 with Normal or Elevated Liver Function Tests or 60 mg/m2 with Normal Liver Function Tests
 
@@ -155,14 +143,7 @@ Table 3 - Non-Hematologic Adverse Reactions in Breast Cancer Patients Previously
 | Asthenia Any Severe | 6517 | 4422 | 660 |
 | Diarrhea Any Severe | 426 | 2811 | NA |
 | Stomatitis Any Severe | 538 | 6739 | 191 |
-
-NA = not available
-
-*Normal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN
-
-**Elevated Baseline Liver Function: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN
-
-***Fluid Retention includes (by COSTART): edema (peripheral, localized, generalized, lymphedema, pulmonary edema, and edema otherwise not specified) and effusion (pleural, pericardial, and ascites); no premedication given with the 60 mg/m2 dose
+| NA = not available *Normal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN **Elevated Baseline Liver Function: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN ***Fluid Retention includes (by COSTART): edema (peripheral, localized, generalized, lymphedema, pulmonary edema, and edema otherwise not specified) and effusion (pleural, pericardial, and ascites); no premedication given with the 60 mg/m2 dose |  |  |  |
 
 In the three-arm monotherapy trial, TAX313, which compared docetaxel 60 mg/m2, 75 mg/m2 and 100 mg/m2 in advanced breast cancer, grade 3/4 or severe adverse reactions occurred in 49.0% of patients treated with docetaxel 60 mg/m2 compared to 55.3% and 65.9% treated with 75 mg/m2 and 100 mg/m2 respectively.
 Discontinuation due to adverse reactions was reported in 5.3% of patients treated with 60 mg/m2 vs. 6.9% and 16.5% for patients treated at 75 mg/m2 and 100 mg/m2 respectively.
@@ -216,8 +197,7 @@ Table 4 - Clinically Important Treatment Emergent Adverse Reactions Regardless o
 | Arthralgia | 19 | 1 | 9 | 0 |
 | Lacrimation disorder | 11 | 0 | 7 | 0 |
 | Conjunctivitis | 5 | 0 | 7 | 0 |
-
-*COSTART term and grading system for events related to treatment.
+| *COSTART term and grading system for events related to treatment. |  |  |  |  |
 
 Of the 744 patients treated with TAC, 36.3% experienced severe treatment emergent adverse reactions compared to 26.6% of the 736 patients treated with FAC.
 Dose reductions due to hematologic toxicity occurred in 1% of cycles in the TAC arm versus 0.1% of cycles in the FAC arm.
@@ -274,7 +254,7 @@ Table 5 - Treatment Emergent Adverse Reactions Regardless of Relationship to Tre
 | Neurosensory Any Grade 3/4 | 232 | 146 | 295 |
 | Neuromotor Any Grade 3/4 | 165 | 86 | 103 |
 | Skin Any Grade 3/4 | 201 | 62 | 171 |
-| Gastrointestinal Nausea Any Grade 3/4 Vomiting Any Grade 3/4 Diarrhea Any Grade 3/4 | 345 223 233 | 314 272 60 | 318 226 124 |
+| GastrointestinalNausea Any Grade 3/4Vomiting Any Grade 3/4Diarrhea Any Grade 3/4 | 345 223 233 | 314 272 60 | 318 226 124 |
 | Alopecia | 56 | 35 | 50 |
 | Asthenia Any Severe*** | 5318 | 5739 | 5423 |
 | Stomatitis Any Grade 3/4 | 262 | 60 | 81 |
@@ -283,16 +263,7 @@ Table 5 - Treatment Emergent Adverse Reactions Regardless of Relationship to Tre
 | Myalgia Any Severe*** | 60 | 00 | 30 |
 | Arthralgia Any Severe*** | 30 | 20 | 21 |
 | Taste Perversion Any Severe*** | 61 | 00 | 00 |
-
-*Normal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN
-
-**Febrile Neutropenia: ANC grade 4 with fever >38°C with intravenous antibiotics and/or hospitalization
-
-†Not Applicable
-
-††Not Done
-
-***COSTART term and grading system
+| *Normal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN **Febrile Neutropenia: ANC grade 4 with fever >38°C with intravenous antibiotics and/or hospitalization †Not Applicable ††Not Done ***COSTART term and grading system |  |  |  |
 
 Combination therapy with docetaxel in chemotherapy-naïve advanced unresectable or metastatic NSCLC
 
@@ -323,10 +294,7 @@ Table 6 - Adverse Reactions Regardless of Relationship to Treatment in Chemother
 | Asthenia** Any All severe or life-threatening events | 74 12 | 7514 |
 | Nail Disorder** Any All severe events | 14 <1 | <1 0 |
 | Myalgia** Any All severe events | 18 <1 | 12 <1 |
-
-*Replaces NCI Term "Allergy"
-
-**COSTART term and grading system
+| *Replaces NCI Term "Allergy"**COSTART term and grading system |  |  |
 
 Deaths within 30 days of last study treatment occurred in 31 patients (7.6%) in the docetaxel+cisplatin arm and 37 patients (9.3%) in the vinorelbine+cisplatin arm.
 Deaths within 30 days of last study treatment attributed to study drug occurred in 9 patients (2.2%) in the docetaxel+cisplatin arm and 8 patients (2.0%) in the vinorelbine+cisplatin arm.
@@ -370,8 +338,7 @@ Table 7 - Clinically Important Treatment Emergent Adverse Reactions (Regardless 
 | Myalgia | 15 | 0 | 13 | 1 |
 | Tearing | 10 | 1 | 2 | 0 |
 | Arthralgia | 8 | 1 | 5 | 1 |
-
-*Related to treatment
+| *Related to treatment |  |  |  |  |
 
 ## 6.2 Post-Marketing Experiences
 

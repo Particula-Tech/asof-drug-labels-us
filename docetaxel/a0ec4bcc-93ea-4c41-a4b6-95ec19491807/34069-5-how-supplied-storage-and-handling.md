@@ -14,7 +14,7 @@ The following strengths are available:
 Store at 25°C (77°F); excursions permitted to 15° - 30°C (59° - 86°F).
 Retain in the original package to protect from bright light.
 Freezing does not adversely affect the product.
-After first use and following multiple needle entries and product withdrawals, Docetaxel Injection multi-use vials are stable for up to 28 days when stored between 2°C and 8°C (36°F and 46°F and protected from light.
+After first use and following multiple needle entries and product withdrawals, Docetaxel Injection multi-use vials are stable for up to 28 days when stored between 2°C and 8°C (36°F and 46°F) and protected from light.
 
 ## 16.3 Handling and Disposal
 

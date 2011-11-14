@@ -32,7 +32,7 @@ The pharmacokinetics of docetaxel were not influenced by age.
 
 Effect of Gender: The population pharmacokinetics analysis described above also indicated that gender did not influence the pharmacokinetics of docetaxel.
 
-Hepatic Impairment: The population pharmacokinetic analysis described above indicated that in patients with clinical chemistry data suggestive of mild to moderate liver impairment (AST and/or ALT >1.5 times ULN concomitant with alkaline phosphatase >2.5 times ULN), total body clearance was lowered by an average of 27%, resulting in a 38% increase in systemic exposure (AUC).
+Hepatic Impairment: The population pharmacokinetic analysis described above indicated that in patients with clinical chemistry data suggestive of mild to moderate liver impairment (AST and/or ALT>1.5 times ULN concomitant with alkaline phosphatase >2.5 times ULN), total body clearance was lowered by an average of 27%, resulting in a 38% increase in systemic exposure (AUC).
 This average, however, includes a substantial range and there is, at present, no measurement that would allow recommendation for dose adjustment in such patients.
 Patients with combined abnormalities of transaminase and alkaline phosphatase should not be treated with Docetaxel Injection.
 Patients with severe hepatic impairment have not been studied.
