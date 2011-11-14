@@ -12,5 +12,5 @@ The extent of percutaneous absorption of topical corticosteroids is determined b
 Occlusive dressings with hydrocortisone for up to 24 hours has not been demonstrated to increase penetration; however, occlusion of hydrocortisone for 96 hours markedly enhances penetration.
 Topical corticosteroids can be absorbed from normal intact skin.
 Inflammation and/or other disease processes in the skin may increase percutaneous absorption.
-
-Studies performed with clobetasol propionate cream indicate that it is in the super-high range of potency as compared with other topical corticosteroids.
+Greater absorption was observed for the clobetasol propionate gel formulation as compared to the cream formulation in in vitro human skin penetration studies.
+Studies performed with clobetasol propionate gel, cream and ointment indicate that they are in the super-high range of potency as compared with other topical corticosteroids.

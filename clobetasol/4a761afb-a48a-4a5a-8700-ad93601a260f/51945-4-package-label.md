@@ -1,0 +1,50 @@
+# PRINCIPAL DISPLAY PANEL - 60 g Tube Carton
+
+NDC 51672-1294-3
+
+Clobetasol Propionate Gel 0.05%
+
+FOR EXTERNAL USE ONLY.
+NOT FOR OPHTHALMIC USE.
+
+Keep this and all medications out of the reach of children.
+
+60 g
+
+Rx only
+
+TARO
+
+# PRINCIPAL DISPLAY PANEL - 15 g Tube Carton
+
+NDC 51672-1258-1
+
+Clobetasol Propionate Cream USP, 0.05%
+
+FOR EXTERNAL USE ONLY.
+NOT FOR OPHTHALMIC USE.
+
+Keep this and all medications out of the reach of children.
+
+15 g
+
+Rx only
+
+TARO
+
+# PRINCIPAL DISPLAY PANEL - 30 g Tube Carton
+
+NDC 51672-1259-2
+
+Clobetasol Propionate Ointment USP, 0.05%
+
+FOR EXTERNAL USE ONLY.
+NOT FOR OPHTHALMIC USE.
+
+Keep this and all medications out of the reach of children.
+
+30 g
+
+Rx only
+
+TARO
