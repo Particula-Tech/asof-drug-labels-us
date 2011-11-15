@@ -20,8 +20,9 @@ Therefore:
 The use of PROTOPIC Ointment should be avoided on pre-malignant and malignant skin conditions.
 Some malignant skin conditions, such as cutaneous T-cell lymphoma (CTCL), may mimic atopic dermatitis.
 
-The use of PROTOPIC Ointment in patients with Netherton’s Syndrome or other skin diseases where there is the potential for increased systemic absorption of tacrolimus is not recommended.
-The safety of PROTOPIC Ointment has not been established in patients with generalized erythroderma.
+The use of tacrolimus ointment is not recommended in patients having skin conditions with a skin barrier defect where there is the potential for increased systemic absorption of tacrolimus, including but not limited to, Netherton's syndrome, lamellar ichthyosis, generalized erthroderma or cutaneous Graft Versus Host Disease.
+Oral application is also not recommended.
+Post-marketing cases of increased tacrolimus blood level have been reported in these conditions.
 
 The use of PROTOPIC Ointment may cause local symptoms such as skin burning (burning sensation, stinging, soreness) or pruritus.
 Localized symptoms are most common during the first few days of PROTOPIC Ointment application and typically improve as the lesions of atopic dermatitis resolve.

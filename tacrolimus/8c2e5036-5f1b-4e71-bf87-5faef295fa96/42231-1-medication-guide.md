@@ -160,6 +160,6 @@ Astellas Pharma Tech Co., Ltd., Toyama Technology Center, 2-178 Kojin-machi, Toy
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised: June 2011
+Revised: November 2011
 
-11E039-PRT-SPL
+11J082-PRT-SPL

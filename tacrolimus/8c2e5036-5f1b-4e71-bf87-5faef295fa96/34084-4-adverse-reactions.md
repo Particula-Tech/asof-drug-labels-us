@@ -105,13 +105,11 @@ CNS
 
 Seizures
 
-Neoplasms
-
-Lymphomas, basal cell carcinoma, squamous cell carcinoma, malignant melanoma
-
 Infections
 
-Bullous impetigo, osteomyelitis, septicemia
+Bullous impetigo, osteomyelitis, septicemia Neoplasms
+
+Lymphomas, basal cell carcinoma, squamous cell carcinoma, malignant melanoma
 
 Renal
 
@@ -119,7 +117,7 @@ Acute renal failure in patients with or without Netherton’s syndrome, renal im
 
 Skin
 
-Rosacea
+Rosacea, application site edema
 
 ## OVERDOSAGE
 
