@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA018602"
+  ],
+  "inn": "diltiazem",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-0771-47",
+    "0187-0771-55",
+    "0187-0772-47",
+    "0187-0791-47",
+    "0187-0792-47"
+  ],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "diltiazem hydrochloride",
+      "name": "Cardizem"
+    }
+  ],
+  "setid": "f3e7ecef-f360-4987-a4f5-933214130ab2",
+  "source": "dailymed"
+}
