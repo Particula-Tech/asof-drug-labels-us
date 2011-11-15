@@ -17,6 +17,11 @@ Before applying the first dose from a new applicator, the pump should be primed 
 The container should be held upright and vertical for spraying.
 
 One, two or three sprays are applied each morning to adjacent, non-overlapping areas on the inner surface of the forearm, starting near the elbow.
-Sprays should be allowed to dry for approximately 2 minutes and the site should not be washed for 30 minutes.
+Sprays should be allowed to dry for approximately 2 minutes before covering the site with clothing.
+The site should not be washed for at least one hour.
 Application of Evamist to other skin surfaces has not been adequately studied.
 Evamist should not be applied to skin surfaces other than the forearm.
+
+Strict adherence to the following precautions is advised in order to minimize the potential for secondary exposure to estradiol from Evamist-treated skin.
+Women should cover the Evamist application site with clothing if another person may come into contact with that area of skin after the spray dries.
+Additional precautions to minimize unintentional secondary exposure are outlined in Patient Counseling Information [see Patient Counseling Information (17.2)] and in the Patient Information Leaflet at the end of the prescribing information.

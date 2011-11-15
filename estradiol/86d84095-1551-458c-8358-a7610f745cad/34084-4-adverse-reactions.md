@@ -11,10 +11,10 @@ The adverse reactions that occurred in at least 5 percent of women in any treatm
 Table 1.
 Frequency of Adverse Reactions (≥ 5%) in Any Treatment Group in a Controlled Study of Evamist
 
-|  |  | Frequency n (%) |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| System Organ Class Preferred Term | 1 Spray |  | 2 Sprays |  | 3 Sprays |  |
 | Placebo (N = 77) | Evamist (N = 76) | Placebo (N = 76) | Evamist (N = 74) | Placebo (N = 75) | Evamist (N = 76) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Frequency n (%) |  |  |  |  |  |
+| System Organ Class Preferred Term | 1 Spray |  | 2 Sprays |  | 3 Sprays |  |
 | Reproductive System and Breast Disorders |  |  |  |  |  |  |
 | Breast tenderness | 0 (0) | 4 (5) | 4 (5) | 5 (7) | 0 (0) | 4 (5) |
 | Nipple pain | 0 (0) | 2 (3) | 0 (0) | 5 (7) | 0 (0) | 1 (1) |

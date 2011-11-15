@@ -1,3 +1,5 @@
+Patient Information
+
 Evamist (estradiol transdermal spray)
 
 Instructions for use.
@@ -6,10 +8,6 @@ Read carefully.
 Read this PATIENT INFORMATION before you start using Evamist and read the patient information each time you refill your Evamist prescription.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your menopausal symptoms and their treatment.
-
-| WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT EVAMIST (AN ESTROGEN HORMONE)? |
-| --- |
-| Estrogens increase the chance of getting cancer of the uterus. Report any unusual vaginal bleeding right away while you are using Evamist. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause. Do not use estrogens with or without progestins to prevent heart disease, heart attacks, strokes or dementia. Using estrogens, with or without progestins, may increase your chance of getting heart attacks, strokes, breast cancer, and blood clots. Using estrogen, with or without progestins, may increase your chance of getting dementia, based on a study of women 65 years of age or older. You and your healthcare provider should talk regularly about whether you still need treatment with Evamist. |
 
 What is Evamist?
 
@@ -83,20 +81,36 @@ It is important that you read and follow these directions on how to use Evamist 
    After priming, the applicator is ready to use.
    The applicator should be primed only once when you first start using a new applicator.
    DO NOT PRIME THE APPLICATOR BEFORE EACH DAY'S DOSE.
-2. Apply Evamist at the same time each day.
+   Illustration 2
+2. Apply Evamist once a day each morning.
 3. Apply your daily dose of Evamist to clean, dry, unbroken skin on the inside of the forearm between the elbow and the wrist (see Illustration 3).
    Do not apply Evamist to other areas of the skin.
    To apply the dose, remove the plastic cover, hold the applicator upright and rest the plastic cone flat against the skin.
    You may need to change the position of your arm or the position of the cone on your arm so that the cone is flat against your skin and there are no gaps between the cone and your skin.
    Depress the pump fully once.
+   Illustration 3
 4. If your healthcare provider tells you to increase the dose to 2 or 3 sprays, you should move the cone before applying the second or third spray to an area of the skin next to but not touching the area of the previous spray (see Illustration 4).
+   Illustration 4
 5. Always place the protective cover back on the cone of the applicator.
-6. Do not massage or rub Evamist into the skin.
-   Simply allow the spray to dry for at least 2 minutes before dressing, and at least 30 minutes before washing.
-7. Evamist contains alcohol, and alcohol-based liquids are flammable.
-   Avoid fire, flame or smoking when using Evamist until the spray has dried.
-   Do not apply Evamist while standing near a flame.
-8. Never apply Evamist directly to the breast or in or around the vagina.
+6. Do not rub Evamist into the skin.
+   Evamist spray should dry on your skin for at least 2 minutes before you get dressed, and at least one hour before you wash your skin.
+   After you spray Evamist on your skin, do not allow other people and pets to make contact with the area of skin where you applied the spray after application.
+   Cover your skin with clothing where you sprayed Evamist if you think another person will come in contact with that area of skin.
+   If you get Evamist spray on another area of your skin like your hands, wash that area of your skin with soap and water right away.
+7. The estrogen in Evamist spray can transfer from the area of skin where it was sprayed to other people.
+   Do not allow others, especially children, to come into contact with the area of your skin where you sprayed Evamist.
+   Young children who are accidentally exposed to estrogen through contact with women using Evamist may show signs of puberty that are not expected (for example, breast budding).
+8. If another person accidentally touches the area of your skin where you sprayed Evamist, tell that person to wash the area of their skin with soap and water right away.
+   The longer the Evamist stays on the skin before it is washed off, the greater the chance the estrogen hormone may be absorbed.
+9. If a child under your care unexpectedly starts to develop breasts or has other sexual changes:Talk to you healthcare provider to discuss other treatments for your menopause symptoms if accidental exposure to Evamist cannot be avoided.
+   - Have the child checked right away by their healthcare provider.
+   - Talk to your healthcare provider about the correct use of Evamist when around children.
+   - Stop using Evamist and call your healthcare provider right away if you see any signs and symptoms (breast development or other sexual changes) in a child that may have occurred through accidental exposure to Evamist.
+     In most cases the child’s breasts will go back to normal when they are no longer exposed to Evamist.
+10. Evamist contains alcohol, and alcohol-based liquids are flammable.
+    Avoid fire, flame or smoking when using Evamist until the spray has dried.
+    Do not apply Evamist while standing near a flame.
+11. Never apply Evamist directly to the breast or in or around the vagina.
 
 Start at the lowest dose (1 spray) and talk to your healthcare provider about how well that dose is working for you.
 Treatment with estrogen should be started at the lowest dose possible, and used only for as long as needed to provide relief of moderate to severe hot flashes associated with menopause.
@@ -120,9 +134,12 @@ If it is more than 12 hours until the next dose, apply the dose you missed and r
 
 What should I avoid while using Evamist?
 
-- Do not allow others to make contact with the area of skin where you applied the spray for at least 30 minutes after application.
+- Do not allow others to make contact with the area of skin where you applied the spray.
 - Evamist contains alcohol and alcohol-based liquids are flammable.
   Avoid fire, flame or smoking until the spray has dried.
+- Do not let pets lick or touch your arm where you sprayed Evamist, especially small pets.
+  Evamist may harm them.
+  Cover your skin with clothing where you sprayed Evamist if you think a pet could come in contact with that area of your skin.
 
 What are the possible side effects of estrogens?
 
@@ -203,7 +220,3 @@ What are the ingredients in Evamist?
 Active ingredient: estradiol (an estrogen hormone)
 
 Inactive ingredients: octisalate (a common active ingredient in some sunscreens used to enhance skin penetration), alcohol (to dissolve the drug)
-
-Manufactured by DPT San Antonio, TX 78215
-
-for Ther-Rx Corporation St. Louis, MO 63044

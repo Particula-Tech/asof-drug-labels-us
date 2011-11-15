@@ -29,9 +29,7 @@ Effect of Treatment on the Daily Frequency of Moderate to Severe Vasomotor Sympt
 | Placebo (N=75) | 12.55 (11.94) | -4.54 (7.40) | -5.32 (6.30) |
 | Differenceb | — | -2.10 | -3.12 |
 | p-valuec | — | 0.0002 | <0.0001 |
-| a Mean change and difference based on raw data |  |  |  |
-| b Evamist versus placebo |  |  |  |
-| c Tests for pairwise differences using ANCOVA |  |  |  |
+| a Mean change and difference based on raw data b Evamist versus placebo c Tests for pairwise differences using ANCOVA |  |  |  |
 
 Table 4.
 Effect of Treatment on the Weekly Severity of Moderate to Severe Vasomotor Symptoms at Week 4 and Week 12 (Intent-To-Treat Population, LOCF) a
@@ -54,22 +52,9 @@ Effect of Treatment on the Weekly Severity of Moderate to Severe Vasomotor Sympt
 | Placebo (N=75) | 2.54 (0.24) | -0.13 (0.53) | -0.31 (0.75) |
 | Differencec | — | -0.30 | -0.76 |
 | p-valued | — | 0.0031 | <0.0001 |
-| a Severity score calculated as: (2 x number moderate +3 x number severe)/ number moderate + number severe) |  |  |  |
-| b Mean change and difference based on raw data |  |  |  |
-| c Evamist versus placebo |  |  |  |
-| d Tests for pairwise differences using ANCOVA |  |  |  |
+| a Severity score calculated as: (2 x number moderate +3 x number severe)/ number moderate + number severe) b Mean change and difference based on raw data c Evamist versus placebo d Tests for pairwise differences using ANCOVA |  |  |  |
 
-## 14.2 Effect of Application Site Washing
-
-Site washing one hour after the application of three 90-mcL sprays to the inner forearm did not have a significant effect on average 24-hour serum concentrations of estradiol.
-
-## 14.3 Potential for Estradiol Transfer
-
-The effect of estradiol transfer was evaluated in 20 healthy postmenopausal women who applied three 90-mcL sprays of Evamist to the inner forearm once daily.
-One hour after applying Evamist, subjects held the dosed forearm against the inner forearm of a non-dosed (recipient) male subject for one 5-minute period of continual contact.
-No significant transfer of estradiol was observed in persons who came in contact with the application site of estradiol-treated individuals.
-
-## 14.4 Women's Health Initiative Studies
+## 14.2 Women's Health Initiative Studies
 
 The Women's Health Initiative (WHI) enrolled approximately 27,000 predominantly healthy postmenopausal women in two substudies to assess the risks and benefits of either the use of daily oral conjugated estrogens (CE 0.625 mg) alone or in combination with medroxyprogesterone acetate (MPA 2.5 mg) compared to placebo in the prevention of certain chronic diseases.
 The primary endpoint was the incidence of coronary heart disease (CHD) (nonfatal myocardial infarction [MI], silent MI and CHD death), with invasive breast cancer as the primary adverse outcome studied.
@@ -81,7 +66,7 @@ Results of the estrogen alone substudy, which included 10,739 women (average 63 
 
 For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 6 fewer hip fractures.
 The absolute excess risk of events included in the “global index” was a non-significant 2 events per 10,000 women-years.
-There was no difference between the groups in terms of all-cause mortality [see Warnings and Precautions (5)].
+There was no difference between the groups in terms of all-cause mortality [see Warnings and Precautions (5.1)].
 
 Final centrally adjudicated results for CHD events and centrally adjudicated results for invasive breast cancer incidence from the estrogen alone substudy, after an average follow-up of 7.1 years, reported no overall difference for primary CHD events (nonfatal MI, silent MI and CHD death) and invasive breast cancer incidence in women receiving CE alone compared to placebo (see Table 5).2,4
 
@@ -92,7 +77,7 @@ The estrogen plus progestin substudy was also stopped early.
 According to the predefined stopping rule, after an average follow-up of 5.2 years of treatment, the increased risk of breast cancer and cardiovascular events exceeded the specified benefits included in the “global index.”
 The absolute excess risk of events included in the “global index” was 19 per 10,000 women-years (relative risk [RR] 1.15, 95 percent nCI, 1.03-1.28).
 
-For those outcomes included in the WHI “global index” that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE/MPA were 6 more CHD events, 7 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reduction per 10,000 women-years were 7 fewer colorectal cancers and 5 fewer hip fractures [see Warnings and Precautions (5)].
+For those outcomes included in the WHI “global index” that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE/MPA were 6 more CHD events, 7 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reduction per 10,000 women-years were 7 fewer colorectal cancers and 5 fewer hip fractures [see Warnings and Precautions (5.1)].
 
 Results of the estrogen plus progestin substudy, which included 16,608 women (average 63 years of age, range 50 to 79 years of age; 83.9 percent White, 6.5 percent Black, 5.4 percent Hispanic, 3.9 percent Other) are presented in Table 6.
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
@@ -103,8 +88,8 @@ Relative and Absolute Risk Seen in the Estrogen Alone Substudy of WHI
 | Absolute Risk per 10,000 Women-Years |  |  |  |
 | --- | --- | --- | --- |
 | Event | Relative Risk CE vs. Placebo (95% nCIa) | Placebo (n = 5,429) | CE (n = 5,310) |
-| CHD eventsb Non-fatal MIb CHD deathb | 0.95 (0.79-1.16) 0.91 (0.73-1.14) 1.01 (0.71-1.43) | 56 43 16 | 53 40 16 |
-| Strokeb Ischemicb | 1.37 (1.09-1.73) 1.55 (1.19-2.01) | 33 25 | 45 38 |
+| CHD eventsb Non-fatal MI b CHD death b | 0.95 (0.79-1.16) 0.91 (0.73-1.14) 1.01 (0.71-1.43) | 56 43 16 | 53 40 16 |
+| Strokeb Ischemic b | 1.37 (1.09-1.73) 1.55 (1.19-2.01) | 33 25 | 45 38 |
 | Deep vein thrombosisb,d | 1.47 (1.06-2.06) | 15 | 23 |
 | Pulmonary embolismb | 1.37 (0.90-2.07) | 10 | 14 |
 | Invasive breast cancerb | 0.80 (0.62-1.04) | 34 | 28 |
@@ -115,16 +100,11 @@ Relative and Absolute Risk Seen in the Estrogen Alone Substudy of WHI
 | Death due to other causes | 1.08 (0.88-1.32) | 50 | 53 |
 | Overall mortalityc,d | 1.04 (0.88-1.22) | 78 | 81 |
 | Global indexc,f | 1.01 (0.91-1.12) | 190 | 192 |
-| a Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. |  |  |  |
-| b Results are based on centrally adjudicated data for an average follow-up of 7.1 years. |  |  |  |
-| c Results are based on an average follow-up of 6.8 years. |  |  |  |
-| d Not included in global index. |  |  |  |
-| e All deaths, except from breast or colorectal cancer, definite/probable CHD, PE or cerebrovascular disease. |  |  |  |
-| f A subset of the events was combined in a “global index,” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
+| a Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. b Results are based on centrally adjudicated data for an average follow-up of 7.1 years. c Results are based on an average follow-up of 6.8 years. d Not included in global index. e All deaths, except from breast or colorectal cancer, definite/probable CHD, PE or cerebrovascular disease. f A subset of the events was combined in a “global index,” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
 
-## 14.5 Women's Health Initiative Memory Study
+## 14.3 Women's Health Initiative Memory Study
 
-The estrogen alone Women's Health Initiative Memory Study (WHIMS), a substudy of theWHI, enrolled 2,947 predominantly healthy postmenopausal women 65 years of age and older (45 percent were 65 to 69 years of age, 36 percent were 70 to 74 years of age, and 19 percent were 75 years of age and older) to evaluate the effects of daily conjugated estrogen (CE 0.625 mg) on the incidence of probable dementia (primary outcome) compared to placebo.
+The estrogen alone Women's Health Initiative Memory Study (WHIMS), a substudy of the WHI, enrolled 2,947 predominantly healthy postmenopausal women 65 years of age and older (45 percent were 65 to 69 years of age, 36 percent were 70 to 74 years of age, and 19 percent were 75 years of age and older) to evaluate the effects of daily conjugated estrogen (CE 0.625 mg) on the incidence of probable dementia (primary outcome) compared to placebo.
 
 After an average follow-up of 5.2 years, 28 women in the estrogen alone group (37 per 10,000 women-years) and 19 in the placebo group (25 per 10,000 women-years) were diagnosed with probable dementia.
 The relative risk of probable dementia in the estrogen alone group was 1.49 (95 percent CI, 0.83-2.66) compared to placebo.
@@ -157,6 +137,4 @@ Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI a
 | Vertebral fractures | 0.65 (0.46-0.92) | 17 | 11 |
 | Lower arm/wrist fractures | 0.71 (0.59-0.85) | 62 | 44 |
 | Total fractures | 0.76 (0.69-0.83) | 199 | 152 |
-| a Results are based on centrally adjudicated data. Mortality data was not part of the adjudicated data; however, data at 5.2 years of follow-up showed no difference between the groups in terms of all-cause mortality (RR 0.98, 95 percent nCI, 0.82-1.18). |  |  |  |
-| b Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. |  |  |  |
-| c Includes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. |  |  |  |
+| a Results are based on centrally adjudicated data. Mortality data was not part of the adjudicated data; however, data at 5.2 years of follow-up showed no difference between the groups in terms of all-cause mortality (RR 0.98, 95 percent nCI, 0.82-1.18). b Nominal confidence intervals unadjusted for multiple looks and multiple comparisons. c Includes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer. |  |  |  |

@@ -34,8 +34,7 @@ Estradiol Pharmacokinetic Parameters on Day 14 (Unadjusted for Baseline)
 | --- | --- | --- | --- |
 | PK Parameter | Number of Daily Sprays of Evamist |  |  |
 | Cmax (pg/mL)1 Cmin (pg/mL)1 Cavg (pg/mL)1 AUC0-24 (pg*hr/mL)1 Tmax (hours)2 | 36.4 (62) 11.3 (52) 19.6 (49) 471 (49) 20 (0-24) | 57.4 (94) 18.1 (51) 30.7 (43) 736 (43) 18 (0-24) | 54.1 (50) 19.6 (27) 30.9 (30) 742 (30) 20 (0-24) |
-| 1 Values expressed are arithmetic means (%CV) |  |  |  |
-| 2 Values expressed are medians (minimum-maximum) |  |  |  |
+| 1 Values expressed are arithmetic means (%CV) 2 Values expressed are medians (minimum-maximum) |  |  |  |
 
 Distribution
 
@@ -55,3 +54,15 @@ In postmenopausal women, a significant proportion of the circulating estrogens e
 Excretion
 
 Estradiol, estrone and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
+
+Effect of Application Site Washing
+
+The effect of application site washing was evaluated in 20 healthy postmenopausal women who applied three 90-mcL sprays of Evamist to the inner forearm.
+Application site washing with warm water and soap one hour after the application of three 90-mcL sprays to the inner forearm did not have a significant effect on average 24-hour serum concentrations of estradiol.
+
+Potential for Estradiol Transfer
+
+The effect of estradiol transfer was evaluated in 20 healthy postmenopausal women who applied three 90-mcL sprays of Evamist to the inner forearm.
+One hour after applying Evamist, subjects held the dosed forearm against the inner forearm of a non-dosed (recipient) male subject for one 5-minute period of continual contact without rubbing.
+A 4% increase in serum estradiol exposure was observed in persons who came in contact with the application site.
+The possibility of unintentional secondary exposure to Evamist should be brought to the attention of the physicians and Evamist users.

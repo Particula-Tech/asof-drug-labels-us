@@ -13,4 +13,4 @@ One spray of Evamist contains 1.53 mg estradiol.
 The metered-dose pump should be held upright and vertical for spraying.
 Before a new applicator is used for the first time, the pump should be primed by spraying 3 times into the cover.
 
-One, two or three sprays are applied daily to adjacent non-overlapping 20 cm2 areas on the inner surface of the arm between the elbow and the wrist and allowed to dry.
+One, two or three sprays are applied daily each morning to adjacent non-overlapping 20 cm2 areas on the inner surface of the arm between the elbow and the wrist and allowed to dry.
