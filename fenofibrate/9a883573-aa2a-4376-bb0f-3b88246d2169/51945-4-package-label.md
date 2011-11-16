@@ -1,5 +1,3 @@
-# Principal Display Panel
-
 Principal Display Panel – 50mg Bottle Label
 
 NDC 66869-137-30
@@ -20,7 +18,7 @@ Kowa Pharmaceuticals
 
 America, Inc.
 
-# Principal Display Panel – 150mg Bottle Label
+Principal Display Panel – 150mg Bottle Label
 
 NDC 66869-147-30
 

@@ -1,58 +1,36 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-CLINICAL: Adverse events reported by 2% or more of patients treated with fenofibrate during the double-blind, placebo-controlled trials, regardless of causality, are listed in the table below.
+## 6.1 Clinical Trial Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rate observed in clinical practice.
+
+Adverse reactions reported by 2% or more of patients treated with fenofibrate (and greater than placebo) during the double-blind, placebo-controlled trials, regardless of causality, are listed in Table 1 below.
 Adverse events led to discontinuation of treatment in 5.0% of patients treated with fenofibrate and in 3.0% treated with placebo.
 Increases in liver function tests were the most frequent events, causing discontinuation of fenofibrate treatment in 1.6% of patients in double-blind trials.
 
-| BODY SYSTEM | Fenofibrate* | Placebo |
+Table 1.
+Adverse Reactions Reported by 2% or More of Patients Treated with Fenofibrate and Greater than Placebo During the Double-Blind, Placebo-Controlled Trials
+
+| BODY SYSTEM Adverse Event | Fenofibrate* (N=439) | Placebo (N=365) |
 | --- | --- | --- |
-| Adverse Event | (N=439) | (N=365) |
 | BODY AS A WHOLE |  |  |
 | Abdominal Pain | 4.6% | 4.4% |
 | Back Pain | 3.4% | 2.5% |
 | Headache | 3.2% | 2.7% |
-| Asthenia | 2.1% | 3.0% |
-| Flu Syndrome | 2.1% | 2.7% |
 | DIGESTIVE |  |  |
-| Liver Function Tests Abnormal | 7.5%** | 1.4% |
-| Diarrhea | 2.3% | 4.1% |
+| Abnormal Liver Function Tests | 7.5%** | 1.4% |
 | Nausea | 2.3% | 1.9% |
 | Constipation | 2.1% | 1.4% |
-| METABOLIC AND |  |  |
-| NUTRITIONAL DISORDERS |  |  |
-| SGPT Increased | 3.0% | 1.6% |
+| METABOLIC AND NUTRITIONAL DISORDERS |  |  |
+| Increased ALT | 3.0% | 1.6% |
 | Creatine Phosphokinase Increased | 3.0% | 1.4% |
-| SGOT Increased | 3.4%** | 0.5% |
+| Increased AST | 3.4%** | 0.5% |
 | RESPIRATORY |  |  |
 | Respiratory Disorder | 6.2% | 5.5% |
 | Rhinitis | 2.3% | 1.1% |
-| * Dosage equivalent to 150 mg LIPOFEN® |  |  |
-| ** Significantly different from Placebo |  |  |
+| * Dosage equivalent to 150 mg LIPOFEN |  |  |
+| ** Significantly different from placebo |  |  |
 
-Additional adverse events reported by three or more patients in placebo-controlled trials or reported in other controlled or open trials, regardless of causality are listed below.
+## 6.2 Postmarketing Experience
 
-BODY AS A WHOLE: Chest pain, pain (unspecified), infection, malaise, allergic reaction, cyst, hernia, fever, photosensitivity reaction, and accidental injury.
-
-CARDIOVASCULAR SYSTEM: Angina pectoris, hypertension, vasodilatation, coronary artery disorder, electrocardiogram abnormal, ventricular extrasystoles, myocardial infarction, peripheral vascular disorder, migraine, varicose vein, cardiovascular disorder, hypotension, palpitation, vascular disorder, arrhythmia, phlebitis, tachycardia, extrasystoles, and atrial fibrillation.
-
-DIGESTIVE SYSTEM: Dyspepsia, flatulence, nausea, increased appetite, gastroenteritis, cholelithiasis, rectal disorder, esophagitis, gastritis, colitis, tooth disorder, vomiting, anorexia, gastrointestinal disorder, duodenal ulcer, nausea and vomiting, peptic ulcer, rectal hemorrhage, liver fatty deposit, cholecystitis, eructation, gamma glutamyl transpeptidase, and diarrhea.
-
-ENDOCRINE SYSTEM: Diabetes mellitus
-
-HEMIC AND LYMPHATIC SYSTEM: Anemia, leukopenia, ecchymosis, eosinophilia, lymphadenopathy, and thrombocytopenia.
-
-METABOLIC AND NUTRITIONAL DISORDERS: Creatinine increased, weight gain, hypoglycemia, gout, weight loss, edema, hyperuricemia, and peripheral edema.
-
-MUSCULOSKELETAL SYSTEM: Myositis, myalgia, arthralgia, arthritis, tenosynovitis, joint disorder, arthrosis, leg cramps, bursitis, and myasthenia.
-
-NERVOUS SYSTEM: Dizziness, insomnia, depression, vertigo, libido decreased, anxiety, paresthesia, dry mouth, hypertonia, nervousness, neuralgia, and somnolence.
-
-RESPIRATORY SYSTEM: Pharyngitis, bronchitis, cough increased, dyspnea, asthma, pneumonia, laryngitis, and sinusitis.
-
-SKIN AND APPENDAGES: Rash, pruritus, eczema, herpes, zoster, urticaria, acne, sweating, fungal dermatitis, skin disorder, alopecia, contact dermatitis, herpes simplex, maculopapular rash, nail disorder, and skin ulcer.
-
-SPECIAL SENSES: Conjunctivitis, eye disorder, amblyopia, ear pain, otitis media, abnormal vision, cataract specified, and refraction disorder.
-
-UROGENITAL SYSTEM: Urinary frequency, prostatic disorder, dysuria, kidney function abnormal, urolithiasis, gynecomastia, unintended pregnancy, vaginal moniliasis, and cystitis.
-
-To report SUSPECTED ADVERSE REACTIONS, contact Kowa Pharmaceuticals America, Inc. at 1 (877) 334-3464 or FDA at 1 (888) 463-6332 or via the web at www.fda.gov/medwatch/index.html for voluntary reporting of adverse reactions.
+The following adverse reactions have been identified during postapproval use of fenofibrate: myalgia, rhabdomyolysis, pancreatitis, acute renal failure, muscle spasm, hepatitis, cirrhosis, anemia, arthralgia, decreases in hemoglobin, decreases in hematocrit, white blood cell decreases and asthenia Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

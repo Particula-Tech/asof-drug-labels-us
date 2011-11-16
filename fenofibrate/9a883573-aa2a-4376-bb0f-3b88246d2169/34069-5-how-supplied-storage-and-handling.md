@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 LIPOFEN® (fenofibrate capsules, USP) is available in two strengths:
 
@@ -6,8 +6,6 @@ LIPOFEN® (fenofibrate capsules, USP) is available in two strengths:
 
 150 mg: Size 1 white opaque/white opaque gelatin capsule, imprinted in green ink with “150” between lines on the body, “G 248” on the cap and containing a white to almost white paste, available in bottles of 30 (NDC 66869-147-20) and 90 (NDC 66869-147-30).
 
-## Storage
-
-Store at Controlled Room Temperature, 15°C - 30°C (59°F - 86°F).
+Store at Controlled Room Temperature, 15ºC - 30ºC (59ºF - 86ºF).
 Keep out of the reach of children.
 Protect from moisture and light.
