@@ -1,6 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling.]
+[See FDA-approved patient labeling (Patient Information).]
+
+Patients should be informed that severe and potentially life-threatening rash has been reported.
+Patients should be advised to immediately contact their healthcare provider if they develop rash.
+Instruct patients to immediately stop taking ISENTRESS and other suspect agents, and seek medical attention if they develop a rash associated with any of the following symptoms as it may be a sign of a more serious reaction such as Stevens-Johnson syndrome, toxic epidermal necrolysis or severe hypersensitivity: fever, generally ill feeling, extreme tiredness, muscle or joint aches, blisters, oral lesions, eye inflammation, facial swelling, swelling of the eyes, lips, mouth, breathing difficulty, and/or signs and symptoms of liver problems (e.g., yellowing of the skin or whites of the eyes, dark or tea colored urine, pale colored stools/bowel movements, nausea, vomiting, loss of appetite, or pain, aching or sensitivity on the right side below the ribs).
+Patients should understand that if severe rash occurs, they will be closely monitored, laboratory tests will be ordered and appropriate therapy will be initiated.
 
 Patients should be informed that ISENTRESS is not a cure for HIV infection or AIDS.
 They should also be told that people taking ISENTRESS may still get infections or other conditions common in people with HIV (opportunistic infections).

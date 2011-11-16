@@ -1,8 +1,6 @@
-FDA-Approved Patient Labeling
+Patient Information ISENTRESS®(eye sen tris) (raltegravir) Tablets
 
-Patient Information ISENTRESS® (eye sen tris) (raltegravir) Tablets
-
-Read the patient information that comes with ISENTRESS before you start taking it and each time you get a refill.
+Read the patient information that comes with ISENTRESS® before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet is a summary of the information for patients.
 Your doctor or pharmacist can give you additional information.
@@ -39,8 +37,7 @@ No. ISENTRESS does not reduce the chance of passing HIV to others through sexual
 - Use latex or polyurethane condoms or other barrier methods to lower the chance of sexual contact with any body fluids.
   This includes semen from a man, vaginal secretions from a woman, or blood.
 - Never re-use or share needles.
-
-Ask your doctor if you have any questions about safer sex or how to prevent passing HIV to other people.
+  Ask your doctor if you have any questions about safer sex or how to prevent passing HIV to other people.
 
 What should I tell my doctor before and during treatment with ISENTRESS?
 
@@ -116,7 +113,10 @@ When ISENTRESS has been given with other anti-HIV drugs, side effects included:
 - depression
 - suicidal thoughts and actions
 
-Other side effects include: rash, severe skin reactions, feeling anxious, paranoia, low blood platelet count, diarrhea, liver failure.
+Other side effects include: feeling anxious, paranoia, low blood platelet count, diarrhea, liver failure, clumsiness and lack of coordination.
+
+Contact your doctor promptly if you develop a rash.
+Severe and life-threatening skin reactions and allergic reactions have been reported in some patients taking ISENTRESS.
 
 A condition called Immune Reconstitution Syndrome can happen in some patients with advanced HIV infection (AIDS) when combination antiretroviral treatment is started.
 Signs and symptoms of inflammation from opportunistic infections that a person has or had may occur as the medicines work to treat the HIV infection and help to strengthen the immune system.
@@ -124,8 +124,6 @@ Call your doctor right away if you notice any signs or symptoms of an infection 
 
 Contact your doctor promptly if you experience unexplained muscle pain, tenderness, or weakness while taking ISENTRESS.
 This is because on rare occasions, muscle problems can be serious and can lead to kidney damage.
-
-Rash occurred more often in patients taking ISENTRESS and darunavir together than with either drug separately, but was generally mild.
 
 Tell your doctor if you have any side effects that bother you.
 
@@ -157,11 +155,3 @@ Active ingredient: Each film-coated tablet contains 400 mg of raltegravir.
 
 Inactive ingredients: Microcrystalline cellulose, lactose monohydrate, calcium phosphate dibasic anhydrous, hypromellose 2208, poloxamer 407 (contains 0.01% butylated hydroxytoluene as antioxidant), sodium stearyl fumarate, magnesium stearate.
 In addition, the film coating contains the following inactive ingredients: polyvinyl alcohol, titanium dioxide, polyethylene glycol 3350, talc, red iron oxide and black iron oxide.
-
-Distributed by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
-
-Revised February 2011
-
-9795112
-
-U.S. Patent Nos. US 7,169,780

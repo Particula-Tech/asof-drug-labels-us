@@ -16,7 +16,7 @@ In addition, no treatment-related external, visceral, or skeletal changes were o
 However, treatment-related increases over controls in the incidence of supernumerary ribs were seen in rats at 600 mg/kg/day (exposures 3-fold the exposure at the recommended human dose).
 
 Placenta transfer of drug was demonstrated in both rats and rabbits.
-At a maternal dose of 600 mg/kg/day in rats, mean drug concentrations in fetal plasma were approximately 1.5- to 2.5-fold greater than in maternal plasma at 1 hour and 24 hours postdose, respectively.
+At a maternal dose of 600 mg/kg/day in rats, mean drug concentrations in fetal plasma were approximately 1.5-to 2.5-fold greater than in maternal plasma at 1 hour and 24 hours postdose, respectively.
 Mean drug concentrations in fetal plasma were approximately 2% of the mean maternal concentration at both 1 and 24 hours postdose at a maternal dose of 1000 mg/kg/day in rabbits.
 
 Antiretroviral Pregnancy Registry

@@ -220,6 +220,6 @@ Hepatobiliary Disorders: hepatic failure (with and without associated hypersensi
 
 Musculoskeletal and Connective Tissue Disorders: rhabdomyolysis
 
-Psychiatric Disorders: anxiety, paranoia
+Nervous System Disorders: cerebellar ataxia
 
-Skin and Subcutaneous Tissue Disorders: rash, Stevens-Johnson syndrome
+Psychiatric Disorders: anxiety, paranoia

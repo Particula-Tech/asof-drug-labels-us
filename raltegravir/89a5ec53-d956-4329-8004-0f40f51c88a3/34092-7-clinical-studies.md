@@ -155,7 +155,7 @@ Table 12: Virologic Outcomes of Randomized Treatment of Protocols 018 and 019 at
 | No virologic data at Week 96 Window |  |  |
 | Reasons |  |  |
 | Discontinued study due to AE or deathIncludes subjects who discontinued due to AE or Death at any time point from Day 1 through the Week 96 window if this resulted in no virologic data on treatment during the Week 96 window. | 3% | 3% |
-| Discontinued study for other reasons Other includes: withdrew consent, loss to follow-up, moved etc., if the viral load at the time of discontinuation was <50 copies/mL. | 4% | 4% |
+| Discontinued study for other reasonsOther includes: withdrew consent, loss to follow-up, moved etc., if the viral load at the time of discontinuation was <50 copies/mL. | 4% | 4% |
 | Missing data during window but on study | 4% | <1% |
 
 The mean changes in CD4 count from baseline were 118 cells/mm3 in the group receiving ISENTRESS 400 mg twice daily and 47 cells/mm3 for the control group.
