@@ -10,7 +10,7 @@ The structural formula is:
 Montelukast sodium is a hygroscopic, optically active, white to off-white powder.
 Montelukast sodium is freely soluble in ethanol, methanol, and water and practically insoluble in acetonitrile.
 
-Each 10-mg film-coated SINGULAIR tablet contains 10.4 mg montelukast sodium, which is equivalent to 10 mg of montelukast, and the following inactive ingredients: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, hydroxypropyl cellulose, and magnesium stearate.
+Each 10-mg film-coated SINGULAIR tablet contains 10.4 mg montelukast sodium, which is equivalent to 10 mg of montelukast, and the following inactive ingredients: microcrystalline cellulose, lactose monohydrate (89.3 mg), croscarmellose sodium, hydroxypropyl cellulose, and magnesium stearate.
 The film coating consists of: hydroxypropyl methylcellulose, hydroxypropyl cellulose, titanium dioxide, red ferric oxide, yellow ferric oxide, and carnauba wax.
 
 Each 4-mg and 5-mg chewable SINGULAIR tablet contains 4.2 and 5.2 mg montelukast sodium, respectively, which are equivalent to 4 and 5 mg of montelukast, respectively.

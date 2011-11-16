@@ -48,11 +48,3 @@ Store bottles of 1000 SINGULAIR 5-mg chewable tablets and 8000 SINGULAIR 10-mg f
 Protect from moisture and light.
 Store in original container.
 When product container is subdivided, repackage into a well-closed, light-resistant container.
-
-US Patent No.: 5,565,473
-
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Issued April 2011
-
-9989620

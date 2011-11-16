@@ -18,4 +18,4 @@ Reproductive Toxicology Studies
 
 No teratogenicity was observed at oral doses up to 400 mg/kg/day and 300 mg/kg/day in rats and rabbits, respectively.
 These doses were approximately 100 and 110 times the maximum recommended daily oral dose in adults, respectively, based on AUCs.
-Montelukast crosses the placenta following oral dosing in rats and rabbits [see Pregnancy (8.1)].
+Montelukast crosses the placenta following oral dosing in rats and rabbits [see Use in Specific Populations (8.1)].

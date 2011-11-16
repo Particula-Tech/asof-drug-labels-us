@@ -12,7 +12,7 @@ Adults and Adolescents 15 Years of Age and Older with Asthma
 SINGULAIR has been evaluated for safety in approximately 2950 adult and adolescent patients 15 years of age and older in clinical trials.
 In placebo-controlled clinical trials, the following adverse experiences reported with SINGULAIR occurred in greater than or equal to 1% of patients and at an incidence greater than that in patients treated with placebo:
 
-TABLE 1: Adverse Experiences Occurring in ≥1% of Patients with an Incidence Greater than that in Patients Treated with Placebo
+Table 1: Adverse Experiences Occurring in ≥1% of Patients with an Incidence Greater than that in Patients Treated with Placebo
 
 |  | SINGULAIR 10 mg/day (%) (n=1955) | Placebo (%) (n=1180) |
 | --- | --- | --- |
@@ -105,7 +105,7 @@ Gastrointestinal disorders: diarrhea, dyspepsia, nausea, pancreatitis, vomiting.
 Hepatobiliary disorders: Cases of cholestatic hepatitis, hepatocellular liver-injury, and mixed-pattern liver injury have been reported in patients treated with SINGULAIR.
 Most of these occurred in combination with other confounding factors, such as use of other medications, or when SINGULAIR was administered to patients who had underlying potential for liver disease such as alcohol use or other forms of hepatitis.
 
-Skin and subcutaneous tissue disorders: angioedema, bruising, erythema nodosum, pruritus, urticaria.
+Skin and subcutaneous tissue disorders: angioedema, bruising, erythema multiforme, erythema nodosum, pruritus, urticaria.
 
 Musculoskeletal and connective tissue disorders: arthralgia, myalgia including muscle cramps.
 

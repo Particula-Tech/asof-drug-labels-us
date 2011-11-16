@@ -4,7 +4,7 @@ SINGULAIR® (montelukast sodium) Chewable Tablets
 
 SINGULAIR® (montelukast sodium) Oral Granules
 
-Read the Patient Information Leaflet that comes with SINGULAIR before you start taking it and each time you get a refill.
+Read the Patient Information Leaflet that comes with SINGULAIR® before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your healthcare provider about your medical condition or your treatment.
 
@@ -159,7 +159,7 @@ Other side effects with SINGULAIR include:
 - nose bleed, stuffy nose
 - diarrhea, heartburn, indigestion, inflammation of the pancreas, nausea, stomach or intestinal upset, vomiting
 - hepatitis
-- bruising, rash
+- bruising, rash, severe skin reactions (erythema multiforme) that may occur without warning
 - joint pain, muscle aches and muscle cramps
 - tiredness, swelling
 
@@ -199,15 +199,15 @@ Inactive ingredients:
 - 4-mg oral granules: mannitol, hydroxypropyl cellulose, and magnesium stearate.
 - 4-mg and 5-mg chewable tablets: mannitol, microcrystalline cellulose, hydroxypropyl cellulose, red ferric oxide, croscarmellose sodium, cherry flavor, aspartame, and magnesium stearate.
   People with Phenylketonuria: SINGULAIR 4-mg chewable tablets contain 0.674 mg of phenylalanine, and SINGULAIR 5-mg chewable tablets contain 0.842 mg of phenylalanine.
-- 10-mg tablet: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, hydroxypropyl cellulose, and magnesium stearate.
+- 10-mg tablet: microcrystalline cellulose, lactose monohydrate (89.3 mg), croscarmellose sodium, hydroxypropyl cellulose, and magnesium stearate.
   The film coating contains: hydroxypropyl methylcellulose, hydroxypropyl cellulose, titanium dioxide, red ferric oxide, yellow ferric oxide, and carnauba wax.
-
-SINGULAIR is a registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 1998-2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued April 2011
-
 US Patent No.: 5,565,473
 
-9989620
+Copyright © 1998-2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+
+Revised: 09/2011
+
+9989621
