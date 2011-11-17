@@ -176,9 +176,9 @@ Active ingredient: lansoprazole.
 
 Inactive ingredients in lansoprazole delayed-release capsules USP:
 
-black iron oxide, gelatin, hypromellose, magnesium carbonate, methacrylic acid copolymer dispersion, red iron oxide, shellac, sugar spheres (which contain sucrose and corn starch), talc, titanium dioxide, and triethyl citrate.
+black iron oxide, gelatin, hypromellose, magnesium carbonate, methacrylic acid copolymer dispersion, propylene glycol, red iron oxide, shellac, sugar spheres (which contain sucrose and corn starch), talc, titanium dioxide, and triethyl citrate.
 Additionally, 15 mg capsule contains brilliant blue FCF - FD&C blue 1.
-The imprinting ink may contain antifoam DC 1510, propylene glycol, and soya lecithin.
+The imprinting ink may contain potassium hydroxide.
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
@@ -196,7 +196,7 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-A 5/2011
+B 8/2011
 
 ## Patient Instructions for Use
 
