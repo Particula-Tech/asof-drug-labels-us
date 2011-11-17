@@ -9,12 +9,23 @@
     "0009-0018-20",
     "0009-0039-28",
     "0009-0047-22",
+    "0009-0113-12",
+    "0009-0113-19",
+    "0009-0190-16",
     "0009-0698-01",
-    "0009-0758-01"
+    "0009-0758-01",
+    "0009-0765-02",
+    "0009-0796-01",
+    "0009-3389-01"
   ],
   "products": [
     {
       "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "methylprednisolone sodium succinate",
+      "name": "SOLU-MEDROL"
+    },
+    {
+      "form": "KIT",
       "generic": "methylprednisolone sodium succinate",
       "name": "Solu-Medrol"
     }

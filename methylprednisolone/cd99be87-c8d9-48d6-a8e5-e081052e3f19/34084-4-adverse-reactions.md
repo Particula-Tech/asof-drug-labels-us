@@ -1,34 +1,26 @@
 # ADVERSE REACTIONS
 
-Fluid and Electrolyte Disturbances
+The following adverse reactions have been reported with SOLU-MEDROL or other corticosteroids:
 
-Sodium retention Fluid retention Congestive heart failure in susceptible patients Potassium loss Hypokalemic alkalosis Hypertension
+Allergic reactions: Allergic or hypersensitivity reactions, anaphylactoid reaction, anaphylaxis, angioedema.
 
-Musculoskeletal
+Cardiovascular: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertension, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction (see WARNINGS), pulmonary edema, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis.
 
-Muscle weakness Steroid myopathy Loss of muscle mass Severe arthralgia Vertebral compression fractures Aseptic necrosis of femoral and humeral heads Pathologic fracture of long bones Osteoporosis Tendon rupture, particularly of the Achilles tendon
+Dermatologic: Acne, allergic dermatitis, burning or tingling (especially in the perineal area after intravenous injection), cutaneous and subcutaneous atrophy, dry scaly skin, ecchymoses and petechiae, edema, erythema, hyperpigmentation, hypopigmentation, impaired wound healing, increased sweating, rash, sterile abscess, striae, suppressed reactions to skin tests, thin fragile skin, thinning scalp hair, urticaria.
 
-Gastrointestinal
+Endocrine: Decreased carbohydrate and glucose tolerance, development of cushingoid state, glycosuria, hirsutism, hypertrichosis, increased requirements for insulin or oral hypoglycemic agents in diabetes, manifestations of latent diabetes mellitus, menstrual irregularities, secondary adrenocortical and pituitary unresponsiveness (particularly in times of stress, as in trauma, surgery, or illness), suppression of growth in pediatric patients.
 
-Peptic ulcer with possible perforation and hemorrhage Pancreatitis Abdominal distention Ulcerative esophagitis Increases in alanine transaminase (ALT, SGPT), aspartate transaminase (AST, SGOT), and alkaline phosphatase have been observed following corticosteroid treatment.
-These changes are usually small, not associated with any clinical syndrome and are reversible upon discontinuation.
+Fluid and electrolyte disturbances: Congestive heart failure in susceptible patients, fluid retention, hypokalemic alkalosis, potassium loss, sodium retention.
 
-Dermatologic
+Gastrointestinal: Abdominal distention, bowel/bladder dysfunction (after intrathecal administration), elevation in serum liver enzyme levels (usually reversible upon discontinuation), hepatomegaly, increased appetite, nausea, pancreatitis, peptic ulcer with possible perforation and hemorrhage, perforation of the small and large intestine (particularly in patients with inflammatory bowel disease), ulcerative esophagitis.
 
-Impaired wound healing Thin fragile skin Petechiae and ecchymoses Facial erythema Increased sweating May suppress reactions to skin tests
+Metabolic: Negative nitrogen balance due to protein catabolism.
 
-Neurological
+Musculoskeletal: Aseptic necrosis of femoral and humeral heads, Charcot-like arthropathy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, postinjection flare (following intra-articular use), steroid myopathy, tendon rupture, vertebral compression fractures.
 
-Increased intracranial pressure with papilledema (pseudo-tumor cerebri) usually after treatment Convulsions Vertigo Headache
+Neurologic/Psychiatric: Convulsions, depression, emotional instability, euphoria, headache, increased intracranial pressure with papilledema (pseudotumor cerebri) usually following discontinuation of treatment, insomnia, mood swings, neuritis, neuropathy, paresthesia, personality changes, psychic disorders, vertigo.
+Arachnoiditis, meningitis, paraparesis/paraplegia, and sensory disturbances have occurred after intrathecal administration (see WARNINGS, Neurologic).
 
-Endocrine
+Ophthalmic: Exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, rare instances of blindness associated with periocular injections.
 
-Development of Cushingoid state Suppression of growth in children Secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery or illness Menstrual irregularities Decreased carbohydrate tolerance Manifestations of latent diabetes mellitus Increased requirements for insulin or oral hypoglycemic agents in diabetics
-
-Ophthalmic
-
-Posterior subcapsular cataracts Increased intraocular pressure Glaucoma Exophthalmos
-
-Metabolic
-
-Negative nitrogen balance due to protein catabolism The following additional adverse reactions are related to parenteral corticosteroid therapy: Hyperpigmentation or hypopigmentation Subcutaneous and cutaneous atrophy Sterile abscess Anaphylactic reaction with or without circulatory collapse, cardiac arrest, bronchospasm Urticaria Nausea and vomiting Cardiac arrhythmias; hypotension or hypertension
+Other: Abnormal fat deposits, decreased resistance to infection, hiccups, increased or decreased motility and number of spermatozoa, injection site infections following non-sterile administration (see WARNINGS), malaise, moon face, weight gain.
