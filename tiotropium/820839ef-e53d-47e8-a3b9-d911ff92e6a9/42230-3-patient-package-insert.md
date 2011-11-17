@@ -14,27 +14,32 @@ This leaflet does not take the place of talking with your doctor about your medi
 
 What is SPIRIVA HandiHaler?
 
-SPIRIVA HandiHaler is a prescription medicine that you use one time every day (a maintenance medicine) to control symptoms of chronic obstructive pulmonary disease (COPD).
-SPIRIVA HandiHaler helps make your lungs work better for 24 hours.
-SPIRIVA HandiHaler relaxes your airways and helps keep them open.
-You may start to feel like it is easier to breathe on the first day, but it may take longer for you to feel the full effects of the medicine.
-SPIRIVA HandiHaler works best and may help make it easier to breathe when you use it every day.
-
-SPIRIVA HandiHaler also reduces the likelihood of flare-ups and worsening of COPD symptoms (COPD exacerbations).
-A COPD exacerbation is defined as an increase or new onset of more than one COPD symptom such as cough, mucus, shortness of breath, and wheezing that requires medicine beyond your rescue medicine.
+- SPIRIVA HandiHaler is a prescription medicine used each day (a maintenance medicine) to control symptoms of chronic obstructive pulmonary disease (COPD), including chronic bronchitis and emphysema.
+- SPIRIVA HandiHaler helps make your lungs work better for 24 hours.
+  SPIRIVA HandiHaler relaxes your airways and helps keep them open.
+  You may start to feel like it is easier to breathe on the first day, but it may take longer for you to feel the full effects of the medicine.
+  SPIRIVA HandiHaler works best and may help make it easier to breathe when you use it every day.
+- SPIRIVA HandiHaler reduces the likelihood of flare-ups and worsening of COPD symptoms (COPD exacerbations).
+  A COPD exacerbation is defined as an increase or new onset of more than one COPD symptom such as cough, mucus, shortness of breath, and wheezing that requires medicine beyond your rescue medicine.
 
 SPIRIVA HandiHaler is not a rescue medicine and should not be used for treating sudden breathing problems.
 Your doctor may give you other medicine to use for sudden breathing problems.
 
-SPIRIVA HandiHaler has not been studied in children.
+It is not known if SPIRIVA HandiHaler is safe and effective in children.
 
 Who should not take SPIRIVA HandiHaler?
 
 Do not use SPIRIVA HandiHaler if you:
 
-- are allergic to tiotropium.
-  See the end of this leaflet for a complete list of ingredients.
-- have had an allergic reaction to ipratropium (Atrovent®).
+- are allergic to tiotropium, ipratropium (Atrovent®), or any of the ingredients in SPIRIVA HandiHaler.
+  See the end of this leaflet for a complete list of ingredients in SPIRIVA HandiHaler.
+- Symptoms of a serious allergic reaction to SPIRIVA HandiHaler may include:
+  - raised red patches on your skin (hives)
+  - itching
+  - rash
+  - swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing
+
+If you have these symptoms of an allergic reaction, stop taking SPIRIVA HandiHaler and call your doctor right away or go to the nearest hospital emergency room.
 
 Allergic reactions may include itching, rash, or swelling of the lips, tongue, or throat (trouble swallowing).
 
@@ -87,23 +92,43 @@ How should I take SPIRIVA HandiHaler?
 
 What should I avoid while using SPIRIVA HandiHaler?
 
-Do not let the powder from the SPIRIVA capsule get into your eyes.
-Your vision may get blurry and the pupil in your eye may get larger (dilate).
-If this happens, call your doctor.
+- Do not let the powder from the SPIRIVA capsule get into your eyes.
+  Your vision may get blurry and the pupil in your eye may get larger (dilate).
+  If this happens, call your doctor.
+- SPIRIVA HandiHaler can cause dizziness and blurred vision.
+  Should you experience these symptoms you should use caution when engaging in activities such as driving a car or operating appliances or other machines.
 
 What are the possible side effects of SPIRIVA HandiHaler?
 
-SPIRIVA HandiHaler can cause serious side effects.
-If you get any of the following side effects, stop taking SPIRIVA HandiHaler and get medical help right away.
+SPIRIVA HandiHaler can cause serious side effects,including: Allergic reaction.
+Symptoms may include:
 
-- Allergic reaction.
-  Symptoms may include: itching, rash, swelling of the lips, tongue, or throat (trouble swallowing).
+- 
+  - raised red patches on your skin (hives)
+  - itching
+  - rash
+  - swelling of the lips, tongue, or throat that may cause difficulty in breathing or swallowing
+
+If you have these symptoms of an allergic reaction, stop taking SPIRIVA HandiHaler and call your doctor right away or go to the nearest hospital emergency room.
+
 - Sudden narrowing and blockage of the airways into the lungs (bronchospasm).
   Your breathing suddenly gets worse.
+
+If you have these symptoms of bronchospasm, stop taking SPIRIVA HandiHaler and call your doctor right away or go to the nearest hospital emergency room.
+
 - New or worsened increased pressure in the eyes (acute narrow-angle glaucoma).
-  Symptoms of acute narrow-angle glaucoma may include: eye pain, blurred vision, seeing halos (visual halos) or colored images along with red eyes.
+  Symptoms of acute narrow-angle glaucoma may include:
+  - eye pain
+  - blurred vision
+  - seeing halos (visual halos) or colored images along with red eyes
+
+Using only eye drops to treat these symptoms may not work.
+If you have these symptoms, stop taking SPIRIVA HandiHaler and call your doctor right away.
+
 - New or worsened urinary retention.
   Symptoms of blockage in your bladder and/or enlarged prostate may include: difficulty passing urine, painful urination.
+
+If you have these symptoms of urinary retention, stop taking SPIRIVA HandiHaler and call your doctor right away.
 
 Other side effects with SPIRIVA HandiHaler include:
 
@@ -128,7 +153,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How do I store SPIRIVA HandiHaler?
 
 - Do not store SPIRIVA capsules in the HandiHaler device.
-- Store SPIRIVA capsules in the sealed blister package at room temperature between 68°F–77°F (20°–25°C).
+- Store SPIRIVA capsules in the sealed blister package at room temperature between 68°F to 77°F (20° to 25°C).
 - Keep SPIRIVA capsules away from heat and cold (do not freeze).
 - Store SPIRIVA capsules in a dry place.
   Throw away any unused SPIRIVA capsules that have been open to air.
@@ -145,7 +170,7 @@ It may harm them.
 For more information about SPIRIVA HandiHaler, talk with your doctor.
 You can ask your doctor or pharmacist for information about SPIRIVA HandiHaler that is written for health professionals.
 
-For more information about SPIRIVA HandiHaler, you may call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or (TTY) 1-800-459-9906.
+For more information about SPIRIVA HandiHaler, go to www.SPIRIVA.com or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or (TTY) 1-800-459-9906.
 
 What are the ingredients in SPIRIVA HandiHaler?
 
@@ -159,6 +184,8 @@ When you have COPD, your airways become narrow.
 So, air moves out of your lungs more slowly.
 This makes it hard to breathe.
 
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA and Pfizer Inc New York, NY 10017 USA
@@ -169,11 +196,11 @@ SPIRIVA® and HandiHaler® are registered trademarks and are used under license 
 
 Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: July 2011
+Revised: November 2011
 
-IT1600YH042011 10004551/09
+IT1600ZK092011 10004551/09
 
-IT5300C 75740-04
+IT5300D 75740-04
 
 Instructions for Use
 
@@ -213,7 +240,7 @@ Use the new HandiHaler device provided with your medicine.
 |  | Hold your HandiHaler device with the mouthpiece pointed up. (See Figure K) Press the green piercing button once until it is flat (flush) against the base, then release. This is how you make holes in the SPIRIVA capsule so that you get your medicine when you breathe in.Do not press the green button more than one time.Do not shake your HandiHaler device.The piercing of the SPIRIVA capsule may produce small gelatin pieces. Some of these small pieces may pass through the screen of your HandiHaler device into your mouth or throat when you breathe in your medicine. This is normal. The small pieces of gelatin should not harm you. |
 | Step 4. Taking your full daily dose (2 inhalations from the same SPIRIVA capsule): |  |
 |  | Breathe out completely in 1 breath, emptying your lungs of any air. (See Figure L) Important: Do not breathe into your HandiHaler device. |
-|  | With your next breath, take your medicine: Hold your head in an upright position while you are looking straight ahead. (See Figure M)Raise your HandiHaler device to your mouth in a horizontal position. Do not block the air intake vents.Close your lips tightly around the mouthpiece. Breathe in deeply until your lungs are full. You should hear or feel the SPIRIVA capsule vibrate (rattle). (See Figure M)Hold your breath for a few seconds and, at the same time, take your HandiHaler device out of your mouth. Breathe normally again. The rattle tells you that you breathed in correctly. If you do not hear or feel a rattle, see the section, “If you do not hear or feel the SPIRIVA capsule rattle as you breathe in your medicine.” |
+|  | With your next breath, take your medicine: Hold your head in an upright position while you are looking straight ahead. (See Figure M)Raise your HandiHaler device to your mouth in a horizontal position. Do not block the air intake vents.Close your lips tightly around the mouthpiece. Breathe in deeply until your lungs are full. You should hear or feel the SPIRIVA capsule vibrate (rattle). (See Figure M)Hold your breath for a few seconds and, at the same time, take your HandiHaler device out of your mouth. Breathe normally again. The rattle tells you that you breathed in correctly. If you do not hear or feel a rattle, see the section, “If you do not hear or feel the SPIRIVA capsule rattle as you breathe in your medicine." |
 |  | To get your full daily dose, you must again, breathe out completely (See Figure N) and for a second time, breathe in (See Figure O) from the same SPIRIVA capsule. Important: Do not press the green piercing button again. |
 |  | Remember: To get your full medicine dose each day, you must breathe in 2 times from the same SPIRIVA capsule. Make sure you breathe out completely each time before you breathe in from your HandiHaler device. |
 | Caring for and storing your SPIRIVA HandiHaler: |  |
@@ -240,8 +267,8 @@ SPIRIVA® and HandiHaler® are registered trademarks and are used under license 
 
 Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: July 2011
+Revised: November 2011
 
-IT1600YH042011 10004551/09
+IT1600ZK092011 10004551/09
 
-IT5300C 75740-04
+IT5300D 75740-04

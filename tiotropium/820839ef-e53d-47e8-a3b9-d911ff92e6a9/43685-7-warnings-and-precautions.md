@@ -6,14 +6,14 @@ SPIRIVA HandiHaler is intended as a once-daily maintenance treatment for COPD an
 
 ## 5.2 Immediate Hypersensitivity Reactions
 
-Immediate hypersensitivity reactions, including angioedema (including swelling of the lips, tongue, or throat), itching, or rash may occur after administration of SPIRIVA HandiHaler.
+Immediate hypersensitivity reactions, including urticaria, angioedema (including swelling of the lips, tongue, or throat), rash, bronchospasm, anaphylaxis, or itching, may occur after administration of SPIRIVA HandiHaler.
 If such a reaction occurs, therapy with SPIRIVA HandiHaler should be stopped at once and alternative treatments should be considered.
 Given the similar structural formula of atropine to tiotropium, patients with a history of hypersensitivity reactions to atropine should be closely monitored for similar hypersensitivity reactions to SPIRIVA HandiHaler.
 In addition, SPIRIVA HandiHaler should be used with caution in patients with severe hypersensitivity to milk proteins.
 
 ## 5.3 Paradoxical Bronchospasm
 
-Inhaled medicines, including SPIRIVA HandiHaler, may cause paradoxical bronchospasm.
+Inhaled medicines, including SPIRIVA HandiHaler, can produce paradoxical bronchospasm.
 If this occurs, treatment with SPIRIVA HandiHaler should be stopped and other treatments considered.
 
 ## 5.4 Worsening of Narrow-Angle Glaucoma

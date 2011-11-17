@@ -17,7 +17,7 @@ The following packages are available:
 - carton containing 30 SPIRIVA capsules (3 unit-dose blister cards) and 1 HandiHaler inhalation device (NDC 0597-0075-41)
 - carton containing 90 SPIRIVA capsules (9 unit-dose blister cards) and 1 HandiHaler inhalation device (NDC 0597-0075-47)
 
-Storage Store at 25°C (77°F); excursions permitted to 15°–30°C (59°–86°F) [see USP Controlled Room Temperature].
+Storage Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 The SPIRIVA capsules should not be exposed to extreme temperature or moisture.
 Do not store SPIRIVA capsules in the HandiHaler device.
