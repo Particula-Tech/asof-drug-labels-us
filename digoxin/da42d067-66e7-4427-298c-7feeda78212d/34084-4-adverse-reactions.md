@@ -48,7 +48,7 @@ Adverse Experiences In 2 Parallel, Double-Blind, Placebo-Controlled Withdrawal T
 | --- | --- | --- |
 | Cardiac |  |  |
 | Palpitation | 1 | 4 |
-| Ventricular extrasystole | 1 | 1 |
+| V entricular extrasystole | 1 | 1 |
 | Tachycardia | 2 | 1 |
 | Heart arrest | 1 | 1 |
 | Gastrointestinal |  |  |

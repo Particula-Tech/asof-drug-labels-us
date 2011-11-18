@@ -99,7 +99,8 @@ These electrophysiologic effects reflect an expected effect of the drug and are 
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-There have been no long-term studies performed in animals to evaluate carcinogenic potential, nor have studies been conducted to assess the mutagenic potential of digoxin or its potential to affect fertility.
+Digoxin showed no genotoxic potential in in vitro studies (Ames test and mouse lymphoma).
+No data are available on the carcinogenic potential of digoxin, nor have studies been conducted to assess its potential to affect fertility.
 
 ## Pregnancy
 
