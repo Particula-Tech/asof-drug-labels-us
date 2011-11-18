@@ -14,23 +14,32 @@ This Medication Guide does not take the place of talking to your healthcare prov
 
 What is the most important information I should know about SEROQUEL XR?
 
-Serious side effects may happen when you take SEROQUEL XR, including:
+SEROQUEL XR may cause serious side effects, including:
 
-- Risk of death in the elderly with dementia: Medicines like SEROQUEL XR can raise the risk of death in elderly people who have lost touch with reality due to confusion and memory loss (dementia).
-  SEROQUEL XR is not approved for treating psychosis in the elderly with dementia.
-- Risk of suicidal thoughts or actions: Antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions:
+1. Risk of death in the elderly with dementia
+2. Risk of suicidal thoughts or actions
+3. High blood sugar (hyperglycemia)
+4. High fat levels in your blood (increased cholesterol and triglycerides)
+5. Weight gain
 
-1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-   Some people may have a particularly high risk of having suicidal thoughts or actions.
-   These include people who have (or have a family history of) depression, bipolar illness (also called manic-depressive illness), or suicidal thoughts or actions.
-3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+These serious side effects are described below:
 
-- Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-  This is very important when an antidepressant medicine is started or when the dose is changed.
-- Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-- Keep all follow-up visits with the healthcare provider as scheduled.
-  Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+1. Risk of death in the elderly with dementia: Medicines like SEROQUEL XR can increase the risk of death in elderly people who have memory loss (dementia).
+   SEROQUEL XR is not approved for treating psychosis in the elderly with dementia.
+2. Risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions):Talk to your, or your family member’s, healthcare provider about:
+   - all risks and benefits of treatment with antidepressant medicines.
+   - all treatment choices for depression or other serious mental illness.
+
+- Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+- Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+  Some people may have a particularly high risk of having suicidal thoughts or actions.
+  These include people who have (or have a family history of) depression, bipolar illness (also called manic-depressive illness), or suicidal thoughts or actions.
+- How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+  - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+    This is very important when an antidepressant medicine is started or when the dose is changed.
+  - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+  - Keep all follow-up visits with the healthcare provider as scheduled.
+    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
@@ -63,6 +72,34 @@ What else do I need to know about antidepressant medicines?
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child’s healthcare provider for more information.
 
+3.High blood sugar (hyperglycemia): High blood sugar can happen if you have diabetes already or if you have never had diabetes.
+High blood sugar could lead to:
+
+1. Build up of acid in your blood due to ketones (ketoacidosis)
+2. Coma
+3. Death
+
+Increases in blood sugar can happen in some people who take SEROQUEL XR.
+Extremely high blood sugar can lead to coma or death.
+If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes) your healthcare provider should check your blood sugar before you start SEROQUEL XR and during therapy.
+
+Call your doctor if you have any of these symptoms of high blood sugar (hyperglycemia) while taking SEROQUEL XR:
+
+- feel very thirsty
+- need to urinate more than usual
+- feel very hungry
+- feel weak or tired
+- feel sick to your stomach
+- feel confused, or your breath smells fruity.
+
+4.
+High fat levels in your blood (increased cholesterol and triglycerides): High fat levels may happen in people treated with SEROQUEL XR.
+You may not have any symptoms, so your doctor may decide to check your cholesterol and triglycerides during your treatment with SEROQUEL XR.
+
+5.
+Increase in weight (weight gain): Weight gain is common in people who take SEROQUEL XR so you and your doctor should check your weight regularly.
+Talk to your doctor about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
+
 What is SEROQUEL XR?
 
 - SEROQUEL XR is a prescription medicine used to treat schizophrenia in adults.
@@ -78,7 +115,7 @@ What should I tell my healthcare provider before taking SEROQUEL XR?
 
 Before taking SEROQUEL XR, tell your healthcare provider if you have or have had:
 
-- diabetes or high blood sugar in you or your family: your healthcare provider should check your blood sugar before you start SEROQUEL XR and also during therapy.
+- diabetes or high blood sugar in you or your family: your healthcare provider should check your blood sugar before you start SEROQUEL XR and also during therapy
 - high levels of total cholesterol, triglycerides or LDL-cholesterol or low levels of HDL- cholesterol
 - low or high blood pressure
 - low white blood cell count
@@ -96,7 +133,7 @@ Before taking SEROQUEL XR, tell your healthcare provider if you have or have had
   You and your healthcare provider should decide if you will take SEROQUEL XR or breast-feed.
   You should not do both.
 
-Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, non-prescription medicines, herbal supplements and vitamins.
+Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, nonprescription medicines, herbal supplements and vitamins.
 
 SEROQUEL XR and other medicines may affect each other causing serious side effects.
 SEROQUEL XR may affect the way other medicines work, and other medicines may affect how SEROQUEL XR works.
@@ -166,22 +203,14 @@ Serious side effects have been reported with SEROQUEL XR including:
 
 Also see “What is the most important information I should know about SEROQUEL XR?” at the beginning of this Medication Guide.
 
-- Neuroleptic malignant syndrome (NMS): Tell your healthcare provider right away if you have some or all of the following symptoms: high fever, stiff muscles, confusion, sweating, changes in pulse, heart rate, and blood pressure.
-  These may be symptoms of a rare and serious condition that can lead to death.
-  Stop SEROQUEL XR and call your healthcare provider right away.
-- High blood sugar (hyperglycemia): Increases in blood sugar can happen in some people who take SEROQUEL XR.
-  Extremely high blood sugar can lead to coma or death.
-  If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes) your healthcare provider should check your blood sugar before you start SEROQUEL XR and during therapy.
-  Call your healthcare provider if you have any of these symptoms of high blood sugar while taking SEROQUEL XR:
-  - feel very thirsty
-  - need to urinate more than usual
-  - feel very hungry
-  - feel weak or tired
-  - feel sick to your stomach
-  - feel confused, or your breath smells fruity.
-- High cholesterol and triglyceride levels in the blood (fat in the blood) Increases in total cholesterol, triglycerides and LDL (bad) cholesterol and decreases in HDL (good) cholesterol have been reported in clinical trials with SEROQUEL XR.
-  You may not have any symptoms, so your healthcare provider should do blood tests to check your cholesterol and triglyceride levels before you start taking SEROQUEL XR and during therapy.
-- Increase in weight (weight gain): Weight gain has been seen in patients who take SEROQUEL XR so you and your healthcare provider should check your weight regularly.
+- Neuroleptic malignant syndrome (NMS): NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including SEROQUEL XR.
+  NMS can cause death and must be treated in a hospital.
+  Call your doctor right away if you become severely ill and have some or all of these symptoms:
+- high fever
+- excessive sweating
+- rigid muscles
+- confusion
+- changes in your breathing, heartbeat, and blood pressure
 - Tardive dyskinesia: Tell your healthcare provider about any movements you cannot control in your face, tongue, or other body parts.
   These may be signs of a serious condition.
   Tardive dyskinesia may not go away, even if you stop taking SEROQUEL XR.
@@ -245,7 +274,7 @@ The symptoms of Schizophrenia include:
 
 - Having lost touch with reality (psychosis)
 - Seeing things that are not there or hearing voices (hallucinations)
-- Believing things that are not true (delusions) and
+- Believing things that are not true (delusions)
 - Being suspicious (paranoia).
 
 The symptoms of Bipolar Disorder include:
@@ -270,7 +299,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 SEROQUEL XR is a trademark of the AstraZeneca group of companies.
 
-©AstraZeneca 2010
+©AstraZeneca 2011
 
 Distributed by:
 
@@ -278,7 +307,7 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-SIC 35537–04
+SIC 35537–XX
 
 Rev.
-07/2011
+11/2011
