@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA202515"
+  ],
+  "inn": "morphine",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-1890-01",
+    "0409-1890-11",
+    "0409-1891-01",
+    "0409-1891-11",
+    "0409-1892-01",
+    "0409-1892-11",
+    "0409-1893-01",
+    "0409-1893-11",
+    "0409-1894-01",
+    "0409-1894-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "morphine sulfate",
+      "name": "Morphine Sulfate"
+    }
+  ],
+  "setid": "be420e8b-bcb0-49b5-bb4d-1df8b9959809",
+  "source": "dailymed"
+}
