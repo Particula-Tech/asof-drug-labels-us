@@ -28,11 +28,11 @@ Tilt your head back and position the bottle above the affected eye.
 With the opposite hand, place a finger under the eye.
 Gently pull down until a "V" pocket is made between your eye and lower lid.
 
-DO NOT TOUCH THE EYE WITH THE TIP OF THE DROPPER.
-
 9.
 With the hand holding the bottle, place your index finger on the bottom of the bottle.
 Push the bottom of the bottle to dispense one drop of medication.
+
+DO NOT TOUCH THE EYE WITH THE TIP OF THE DROPPER.
 
 DO NOT SQUEEZE THE SIDES OF THE BOTTLE.
 
@@ -58,18 +58,10 @@ WARNING: Keep out of reach of children.
 
 If you have any questions about the use of Dorzolamide Hydrochloride Ophthalmic Solutions, please consult your doctor.
 
-*DROP-TAINER® is a registered trademark of Alcon Manufacturing, Ltd.
+*DROP-TAINER® is a registered trademark of Alcon Research, Ltd.
 
-Dist. by:
+SANDOZ
 
-FALCON Pharmaceuticals, Ltd.
+Manufactured by Alcon Laboratories, Inc. Fort Worth, Texas 76134 for Sandoz Inc. Princeton, NJ 08540
 
-Fort Worth, Texas 76134 USA
-
-Mfd. by:
-
-ALCON LABORATORIES, INC.
-
-Fort Worth, Texas 76134 USA
-
-9004908-0809
+9006757-0511

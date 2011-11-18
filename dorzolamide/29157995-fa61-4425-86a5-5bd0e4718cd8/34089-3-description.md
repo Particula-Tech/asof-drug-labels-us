@@ -7,7 +7,6 @@ Dorzolamide hydrochloride is optically active.
 The specific rotation is
 
 α 25° (C=1, water) = ~ -17°.
-
 405
 
 Its empirical formula is C10H16N2O4S3•HCl and its structural formula is:

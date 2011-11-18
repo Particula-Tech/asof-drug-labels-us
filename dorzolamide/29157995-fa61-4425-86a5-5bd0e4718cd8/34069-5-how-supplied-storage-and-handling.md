@@ -4,9 +4,7 @@ Dorzolamide Hydrochloride Ophthalmic Solution is a slightly opalescent, nearly c
 
 Dorzolamide Hydrochloride Ophthalmic Solution is supplied in a white LDPE plastic DROP-TAINER® bottle, a natural dropper tip and an orange polypropylene cap as follows:
 
-NDC 61314-019-05 5 mL, in a 8 mL capacity bottle
-
-NDC 61314-019-10 10 mL, in a 10 mL capacity bottle
+NDC 61314-019-05 5 mL, in a 8 mL bottle NDC 61314-019-10 10 mL, in a 10 mL bottle
 
 Storage
 

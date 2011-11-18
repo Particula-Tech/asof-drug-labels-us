@@ -1,13 +1,17 @@
 # PRINCIPLE DISPLAY PANEL
 
-NDC 61314-019-05 Rx Only
+NDC 61314-019-10
 
 Dorzolamide HCl Ophthalmic Solution
 
-2% Sterile 5 mL
+2%*
 
-dorzolamide equivalent
+dorzolamide equivalent (dorzolamide HCl 22.3 mg/mL)
 
-(dorzolamide HCl 22.3 mg/mL)
+Rx only
+
+STERILE 10 mL
 
 FOR TOPICAL APPLICATION IN THE EYE
+
+SANDOZ
