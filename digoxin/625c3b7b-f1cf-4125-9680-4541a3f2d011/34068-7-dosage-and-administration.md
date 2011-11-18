@@ -145,7 +145,9 @@ In children with renal disease, digoxin must be carefully titrated based upon cl
 It cannot be overemphasized that both the adult and pediatric dosage guidelines provided are based upon average patient response and substantial individual variation can be expected.
 Accordingly, ultimate dosage selection must be based upon clinical assessment of the patient.
 
-Atrial Fibrillation: Peak digoxin body stores larger than the 8 to 12 mcg/kg required for most patients with heart failure and normal sinus rhythm have been used for control of ventricular rate in patients with atrial fibrillation.
+## Atrial Fibrillation
+
+Peak digoxin body stores larger than the 8 to 12 mcg/kg required for most patients with heart failure and normal sinus rhythm have been used for control of ventricular rate in patients with atrial fibrillation.
 Doses of digoxin used for the treatment of chronic atrial fibrillation should be titrated to the minimum dose that achieves the desired ventricular rate control without causing undesirable side effects.
 Data are not available to establish the appropriate resting or exercise target rates that should be achieved.
 
