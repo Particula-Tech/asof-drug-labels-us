@@ -1,0 +1,1 @@
+Antifibrinolytic agent

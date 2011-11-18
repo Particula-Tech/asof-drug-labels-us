@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA091657"
+  ],
+  "inn": "tranexamic-acid",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-197-00",
+    "67457-197-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "tranexamic acid",
+      "name": "Tranexamic Acid"
+    }
+  ],
+  "setid": "6f033f1e-8c78-4c87-b870-6493944315ff",
+  "source": "dailymed"
+}
