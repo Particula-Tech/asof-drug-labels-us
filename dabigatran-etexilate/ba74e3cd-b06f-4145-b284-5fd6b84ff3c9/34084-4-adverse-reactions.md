@@ -1,8 +1,8 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
 ## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The RE-LY study provided safety information on the use of two doses of PRADAXA and warfarin [see Clinical Studies (14)].
 The numbers of patients and their exposures are described in Table 1.

@@ -48,4 +48,4 @@ This risk of bleeding should be weighed against the urgency of intervention [see
 Bleeding risk can be assessed by the ecarin clotting time (ECT).
 This test is a better marker of the anticoagulant activity of dabigatran than activated partial thromboplastin time (aPTT) or thrombin time (TT).
 If ECT is not available, the aPTT test provides an approximation of PRADAXA’s anticoagulant activity.
-INR tests are unreliable in patients on PRADAXA[see Clinical Pharmacology (12.2)].
+INR tests are unreliable in patients on PRADAXA [see Clinical Pharmacology (12.2)].

@@ -143,10 +143,10 @@ How should I store PRADAXA?
 
 - Store PRADAXA at room temperature between 59°F to 86°F (15°C to 30°C).
   After opening the bottle, use PRADAXA within 4 months.
-  Safely throw away any unused PRADAXA after4 months.
+  Safely throw away any unused PRADAXA after 4 months.
 - Keep PRADAXA in the original bottle or blister package to keep it dry (protect the capsules from moisture).
   Do not put PRADAXA in pill boxes or pill organizers.
-- Tightly close your bottle of PRADAXA right away after you take your dose
+- Tightly close your bottle of PRADAXA right away after you take your dose.
 
 Keep PRADAXA and all medicines out of the reach of children.
 
@@ -180,6 +180,6 @@ The brands listed above are trademarks of their respective owners and are not tr
 
 Copyright 2011 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-04 IT5060GK012011
+75461-04 IT5060KK142011
 
-75457-04 IT5400G
+75457-04 IT5400I

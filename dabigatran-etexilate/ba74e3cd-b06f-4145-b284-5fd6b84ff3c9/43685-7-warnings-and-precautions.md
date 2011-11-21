@@ -23,4 +23,4 @@ P-gp inhibition and impaired renal function are the major independent factors th
 Concomitant use of P-gp inhibitors in patients with renal impairment is expected to produce increased exposure of dabigatran compared to that seen with either factor alone.
 
 Consider reducing the dose of PRADAXA to 75 mg twice daily when dronedarone or systemic ketoconazole is coadministered with PRADAXA in patients with moderate renal impairment (CrCl 30-50 mL/min).
-The use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) should be avoided [see Drug Interactions (7) and Use in Specific Populations (8.6)]
+The use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) should be avoided [see Drug Interactions (7) and Use in Specific Populations (8.6)].

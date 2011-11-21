@@ -9,3 +9,5 @@ PRADAXA (dabigatran etexilate mesylate) 150 mg capsules NDC 0597-0135-54
 PRADAXA (dabigatran etexilate mesylate) 150 mg capsules NDC 0597-0135-60
 
 PRADAXA (dabigatran etexilate mesylate) 150 mg capsules NDC 0597-0135-12
+
+PRADAXA (dabigatran etexilate mesylate) 150 mg capsules NDC 0597-0135-54
