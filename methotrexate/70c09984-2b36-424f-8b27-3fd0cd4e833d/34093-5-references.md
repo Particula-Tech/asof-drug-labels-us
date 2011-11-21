@@ -11,4 +11,6 @@
 5. American Society of Hospital Pharmacists technical assistance bulletin on handling cytotoxic and hazardous drugs.
    Am J Hosp Pharm 1990; 47:1033–1049.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 REVISED MARCH 2004 MTX:R15
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+REVISED NOVEMBER 2011 MTX:R16

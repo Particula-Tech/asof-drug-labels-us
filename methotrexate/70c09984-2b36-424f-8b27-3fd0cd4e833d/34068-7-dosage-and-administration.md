@@ -6,7 +6,7 @@ Oral administration in tablet form is often preferred when low doses are being a
 
 ### Choriocarcinoma and Similar Trophoblastic Diseases
 
-Methotrexate is administered orally in doses of 15 to 30 mg daily for a five-day course.
+Methotrexate tablets are administered orally in doses of 15 mg to 30 mg daily for a 5-day course.
 Such courses are usually repeated for 3 to 5 times as required, with rest periods of one or more weeks interposed between courses, until any manifesting toxic symptoms subside.
 The effectiveness of therapy is ordinarily evaluated by 24 hour quantitative analysis of urinary chorionic gonadotropin (hCG), which should return to normal or less than 50 IU/24 hr usually after the third or fourth course and usually be followed by a complete resolution of measurable lesions in 4 to 6 weeks.
 One to two courses of methotrexate after normalization of hCG is usually recommended.
@@ -16,18 +16,18 @@ Cyclic combination therapy of methotrexate with other antitumor drugs has been r
 Since hydatidiform mole may precede choriocarcinoma, prophylactic chemotherapy with methotrexate has been recommended.
 
 Chorioadenoma destruens is considered to be an invasive form of hydatidiform mole.
-Methotrexate is administered in these disease states in doses similar to those recommended for choriocarcinoma.
+Methotrexate tablets are administered in these disease states in doses similar to those recommended for choriocarcinoma.
 
 ### Leukemia
 
 Acute lymphoblastic leukemia in pediatric patients and young adolescents is the most responsive to present day chemotherapy.
 In young adults and older patients, clinical remission is more difficult to obtain and early relapse is more common.
 
-Methotrexate alone or in combination with steroids was used initially for induction of remission in acute lymphoblastic leukemias.
+Methotrexate tablets alone or in combination with steroids was used initially for induction of remission in acute lymphoblastic leukemias.
 More recently corticosteroid therapy, in combination with other antileukemic drugs or in cyclic combinations with methotrexate included, has appeared to produce rapid and effective remissions.
-When used for induction, methotrexate in doses of 3.3 mg/m2 in combination with 60 mg/m2 of prednisone, given daily, produced remissions in 50% of patients treated, usually within a period of 4 to 6 weeks.
-Methotrexate in combination with other agents appears to be the drug of choice for securing maintenance of drug-induced remissions.
-When remission is achieved and supportive care has produced general clinical improvement, maintenance therapy is initiated, as follows: Methotrexate is administered 2 times weekly by mouth in total weekly doses of 30 mg/m2.
+When used for induction, methotrexate tablets in doses of 3.3 mg/m2 in combination with 60 mg/m2 of prednisone, given daily, produced remissions in 50% of patients treated, usually within a period of 4 to 6 weeks.
+Methotrexate tablets in combination with other agents appears to be the drug of choice for securing maintenance of drug-induced remissions.
+When remission is achieved and supportive care has produced general clinical improvement, maintenance therapy is initiated, as follows: Methotrexate tablets are administered 2 times weekly by mouth in total weekly doses of 30 mg/m2.
 If and when relapse does occur, reinduction of remission can again usually be obtained by repeating the initial induction regimen.
 
 A variety of combination chemotherapy regimens have been used for both induction and maintenance therapy in acute lymphoblastic leukemia.
@@ -37,15 +37,16 @@ The physician should be familiar with the new advances in antileukemic therapy.
 
 In Burkitt's tumor, Stages I–II, methotrexate has produced prolonged remissions in some cases.
 Recommended dosage is 10 to 25 mg/day orally for 4 to 8 days.
-In Stage III, methotrexate is commonly given concomitantly with other antitumor agents.
+In Stage III, methotrexate tablets are commonly given concomitantly with other antitumor agents.
 Treatment in all stages usually consists of several courses of the drug interposed with 7 to 10 day rest periods.
 Lymphosarcomas in Stage III may respond to combined drug therapy with methotrexate given in doses of 0.625 to 2.5 mg/kg daily.
 
 ### Mycosis Fungoides (cutaneous T cell lymphoma)
 
-Therapy with methotrexate as a single agent appears to produce clinical responses in up to 50% of patients treated.
-Dosage in early stages is usually 5 to 50 mg once weekly.
+Therapy with methotrexate tablets as a single agent appears to produce clinical responses in up to 50% of patients treated.
+Dosage in early stages is usually 5 mg to 50 mg once weekly.
 Dose reduction or cessation is guided by patient response and hematologic monitoring.
+Methotrexate has also been administered twice weekly in doses ranging from 15 mg to 37.5 mg in patients who have responded poorly to weekly therapy.
 
 ## Psoriasis, Rheumatoid Arthritis, and Juvenile Rheumatoid Arthritis
 
@@ -67,21 +68,26 @@ Although there is experience with doses up to 30 mg/m2/wk in children, there are
 Therapeutic response usually begins within 3 to 6 weeks and the patient may continue to improve for another 12 weeks or more.
 
 The optimal duration of therapy is unknown.
-Limited data available from long-term studies in adults indicate that the initial clinical improvement is maintained for at least two years with continued therapy.
+Limited data available from long-term studies in adults indicate that the initial clinical improvement is maintained for at least 2 years with continued therapy.
 When methotrexate is discontinued, the arthritis usually worsens within 3 to 6 weeks.
 
 The patient should be fully informed of the risks involved and should be under constant supervision of the physician.
-(See Information for Patients under PRECAUTIONS.)
+(See PRECAUTIONS: Information for Patients.)
 Assessment of hematologic, hepatic, renal, and pulmonary function should be made by history, physical examination, and laboratory tests before beginning, periodically during, and before reinstituting methotrexate therapy.
 (See PRECAUTIONS.)
 Appropriate steps should be taken to avoid conception during methotrexate therapy.
 (See PRECAUTIONS and CONTRAINDICATIONS.)
 
+All schedules should be continually tailored to the individual patient.
+An initial test dose may be given prior to the regular dosing schedule to detect any extreme sensitivity to adverse effects.
+(See ADVERSE REACTIONS.)
+Maximal myelosuppression usually occurs in 7 to 10 days.
+
 ### Psoriasis
 
 Recommended Starting Dose Schedule
 
-1. Weekly single oral dose schedule: 10 to 25 mg per week until adequate response is achieved.
+1. Weekly single oral dose schedule: 10 mg to 25 mg per week until adequate response is achieved.
 2. Divided oral dose schedule: 2.5 mg at 12 hour intervals for three doses.
 
 Dosages in each schedule may be gradually adjusted to achieve optimal clinical response; 30 mg/week should not ordinarily be exceeded.

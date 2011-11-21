@@ -7,12 +7,12 @@ Methotrexate Tablets, USP 2.5 mg* Rx only 100 TABLETS
 *Each tablet contains methotrexate sodium equivalent to 2.5 mg of methotrexate, USP.
 
 Caution: Pharmacist: Because of its potential to cause severe toxicity, methotrexate therapy requires close supervision of the patient by the physician.
-Pharmacists should dispense no more than a seven (7) day supply of the drug at one time.
-Refill of such prescriptions should be done by direct order (written or oral) of the physician only.
-See package insert for complete directions for use.
 
-WARNING: Blood counts should be taken weekly.
-Discontinue or reduce dosage immediately at first sign of ulceration or bleeding in the mouth, gastrointestinal ulceration or bleeding, diarrhea, or marked depression of bone marrow.
+Prescriptions should not be written or refilled on a PRN basis.
+Refill of such prescriptions should be by direct order (written or oral) of the physician only.
+See Boxed Warnings for complete directions for use.
+
+WARNING: Discontinue or reduce dosage immediately at first sign of ulceration or bleeding in the mouth, gastrointestinal ulceration or bleeding, diarrhea, or marked depression of bone marrow.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
@@ -24,4 +24,4 @@ Mylan Pharmaceuticals Inc., Morgantown, WV 26505 U.S.A.
 
 www.mylan.com
 
-RM0014A11
+RM0014A12

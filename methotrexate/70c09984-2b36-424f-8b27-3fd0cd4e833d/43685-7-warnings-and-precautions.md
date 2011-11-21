@@ -48,18 +48,20 @@ Pulmonary function tests may be useful if methotrexate-induced lung disease is s
 
 ## Drug Interactions
 
+Concomitant administration of some NSAIDs with high dose methotrexate therapy has been reported to elevate and prolong serum methotrexate levels, resulting in deaths from severe hematologic and gastrointestinal toxicity.
+
 Caution should be used when NSAIDs and salicylates are administered concomitantly with lower doses of methotrexate.
 These drugs have been reported to reduce the tubular secretion of methotrexate in an animal model and may enhance its toxicity.
 
 Despite the potential interactions, studies of methotrexate in patients with rheumatoid arthritis have usually included concurrent use of constant dosage regimens of NSAIDs, without apparent problems.
-It should be appreciated, however, that the doses used in rheumatoid arthritis (7.5 to 15 mg/week) are somewhat lower than those used in psoriasis and that larger doses could lead to unexpected toxicity.
+It should be appreciated, however, that the doses used in rheumatoid arthritis (7.5 to 20 mg/week) are somewhat lower than those used in psoriasis and that larger doses could lead to unexpected toxicity.
 
 Methotrexate is partially bound to serum albumin, and toxicity may be increased because of displacement by certain drugs, such as salicylates, phenylbutazone, phenytoin, and sulfonamides.
 Renal tubular transport is also diminished by probenecid; use of methotrexate with this drug should be carefully monitored.
 
 Oral antibiotics such as tetracycline, chloramphenicol, and nonabsorbable broad spectrum antibiotics, may decrease intestinal absorption of methotrexate or interfere with the enterohepatic circulation by inhibiting bowel flora and suppressing metabolism of the drug by bacteria.
 
-Penicillins may reduce the renal clearance of methotrexate; increased serum concentrations of methotrexate with concomitant hematologic and gastrointestinal toxicity have been observed with high and low dose methotrexate.
+Penicillins may reduce the renal clearance of methotrexate; increased serum concentrations of methotrexate with concomitant hematologic and gastrointestinal toxicity have been observed with methotrexate.
 Use of methotrexate with penicillins should be carefully monitored.
 
 The potential for increased hepatotoxicity when methotrexate is administered with other hepatotoxic agents has not been evaluated.
@@ -120,9 +122,9 @@ Methotrexate should be used with extreme caution in the presence of peptic ulcer
 
 ### Hematologic
 
-Methotrexate can suppress hematopoiesis and cause anemia, aplastic anemia, leukopenia, and/or thrombocytopenia.
+Methotrexate can suppress hematopoiesis and cause anemia, aplastic anemia, pancytopenia, leukopenia, neutropenia, and/or thrombocytopenia.
 In patients with malignancy and preexisting hematopoietic impairment, the drug should be used with caution, if at all.
-In controlled clinical trials in rheumatoid arthritis (n = 128), leukopenia (WBC < 3000/mm3) was seen in 2 patients, thrombocytopenia (platelets < 100,000/mm3) in 6 patients, and pancytopenia in 2 patients.
+In controlled clinical trials in rheumatoid arthritis (n = 128), leukopenia (WBC < 3000/mm3) was seen in two patients, thrombocytopenia (platelets < 100,000/mm3) in six patients, and pancytopenia in two patients.
 
 In psoriasis and rheumatoid arthritis, methotrexate should be stopped immediately if there is a significant drop in blood counts.
 In the treatment of neoplastic diseases, methotrexate should be continued only if the potential benefit warrants the risk of severe myelosuppression.
@@ -131,7 +133,7 @@ Patients with profound granulocytopenia and fever should be evaluated immediatel
 ### Hepatic
 
 Methotrexate has the potential for acute (elevated transaminases) and chronic (fibrosis and cirrhosis) hepatotoxicity.
-Chronic toxicity is potentially fatal; it generally has occurred after prolonged use (generally two years or more) and after a total dose of at least 1.5 grams.
+Chronic toxicity is potentially fatal; it generally has occurred after prolonged use (generally 2 years or more) and after a total dose of at least 1.5 grams.
 In studies in psoriatic patients, hepatotoxicity appeared to be a function of total cumulative dose and appeared to be enhanced by alcoholism, obesity, diabetes and advanced age.
 An accurate incidence rate has not been determined; the rate of progression and reversibility of lesions is not known.
 Special caution is indicated in the presence of preexisting liver damage or impaired hepatic function.
@@ -172,7 +174,7 @@ When a patient presents with pulmonary symptoms, the possibility of Pneumocystis
 ### Pulmonary
 
 Pulmonary symptoms (especially a dry nonproductive cough) or a nonspecific pneumonitis occurring during methotrexate therapy may be indicative of a potentially dangerous lesion and require interruption of treatment and careful investigation.
-Although clinically variable, the typical patient with methotrexate induced lung disease presents with fever, cough, dyspnea, hypoxemia, and an infiltrate on chest X-ray; infection needs to be excluded.
+Although clinically variable, the typical patient with methotrexate induced lung disease presents with fever, cough, dyspnea, hypoxemia, and an infiltrate on chest X-ray; infection (including pneumonia) needs to be excluded.
 This lesion can occur at all dosages.
 
 ### Renal

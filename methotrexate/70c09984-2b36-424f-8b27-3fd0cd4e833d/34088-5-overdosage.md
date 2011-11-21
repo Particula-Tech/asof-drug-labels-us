@@ -9,7 +9,7 @@ In cases of massive overdosage, hydration and urinary alkalinization may be nece
 Generally speaking, neither hemodialysis nor peritoneal dialysis have been shown to improve methotrexate elimination.
 However, effective clearance of methotrexate has been reported with acute, intermittent hemodialysis using a high-flux dialyzer (Wall, SM et al: Am J Kidney Dis 28(6): 846–854, 1996).
 
-In postmarketing experience, overdose with methotrexate has generally occurred with oral administration.
+In post-marketing experience, overdose with methotrexate has generally occurred with oral administration.
 
 Reports of oral overdose often indicate accidental daily administration instead of weekly (single or divided doses).
 Symptoms commonly reported following oral overdose include those symptoms and signs reported at pharmacologic doses, particularly hematologic and gastrointestinal reaction.
