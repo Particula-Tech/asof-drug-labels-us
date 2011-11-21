@@ -2,5 +2,5 @@
 
 XARELTO is contraindicated in patients with:
 
-- hypersensitivity to XARELTO
-- active major bleeding [see Warnings and Precautions (5.2)]
+- active pathological bleeding [see Warnings and Precautions (5.2)]
+- severe hypersensitivity reaction to XARELTO [see Warnings and Precautions (5.5)]

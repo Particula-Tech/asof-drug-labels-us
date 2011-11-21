@@ -1,7 +1,8 @@
 # 10 OVERDOSAGE
 
 Overdose of XARELTO may lead to hemorrhage.
-A specific antidote of rivaroxaban is not available.
+A specific antidote for rivaroxaban is not available.
+Rivaroxaban systemic exposure is not further increased at single doses >50 mg due to limited absorption.
 Discontinue XARELTO and initiate appropriate therapy if bleeding complications associated with overdosage occur.
 The use of activated charcoal to reduce absorption in case of XARELTO overdose may be considered.
-Due to the high plasma protein binding, rivaroxaban is not expected to be dialyzable [see Clinical Pharmacology (12.3)].
+Due to the high plasma protein binding, rivaroxaban is not expected to be dialyzable [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].

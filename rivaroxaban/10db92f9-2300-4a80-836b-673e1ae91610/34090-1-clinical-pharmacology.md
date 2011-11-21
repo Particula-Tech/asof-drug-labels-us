@@ -9,26 +9,27 @@ Activation of factor X to factor Xa (FXa) via the intrinsic and extrinsic pathwa
 
 Dose-dependent inhibition of factor Xa activity was observed in humans and the Neoplastin® prothrombin time (PT), activated partial thromboplastin time (aPTT) and HepTest® are prolonged dose-dependently.
 Anti-factor Xa activity is also influenced by rivaroxaban.
-There are no data on the use of the International Normalized Ratio (INR).
-The predictive value of these coagulation parameters for bleeding risk or efficacy has not been established.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
-The absolute bioavailability of rivaroxaban is high (estimated to be 80% to 100%) for the 10 mg dose.
-Rivaroxaban is rapidly absorbed with maximum concentrations (Cmax) appearing 2 to 4 hours after tablet intake.
+The absolute bioavailability of rivaroxaban is dose-dependent.
+For the 10 mg dose, it is estimated to be 80% to 100% and is not affected by food.
+XARELTO 10 mg tablets can be taken with or without food [see Dosage and Administration (2.2)].
 
-Rivaroxaban pharmacokinetics are linear with no relevant accumulation beyond steady-state after multiple doses.
-Intake with food does not affect rivaroxaban AUC or Cmax at the 10 mg dose.
+The absolute bioavailability of rivaroxaban at a dose of 20 mg in the fasted state is approximately 66%.
+Coadministration of XARELTO with food increases the bioavailability of the 20 mg dose (mean AUC and Cmax increasing by 39% and 76% respectively with food).
+XARELTO 15 mg and 20 mg tablets should be taken with the evening meal [see Dosage and Administration (2.1)].
 
+The maximum concentrations (Cmax) of rivaroxaban appear 2 to 4 hours after tablet intake.
 The pharmacokinetics of rivaroxaban were not affected by drugs altering gastric pH.
-Coadministration of XARELTO (30 mg single dose) with the H2-receptor antagonist ranitidine (150 mg twice daily) or the antacid aluminum hydroxide/magnesium hydroxide (10 mL) did not show an effect on the bioavailability and exposure of rivaroxaban.
+Coadministration of XARELTO (30 mg single dose) with the H2-receptor antagonist ranitidine (150 mg twice daily), the antacid aluminum hydroxide/magnesium hydroxide (10 mL) or XARELTO (20 mg single dose) with the PPI omeprazole (40 mg once daily) did not show an effect on the bioavailability and exposure of rivaroxaban.
 
 Absorption of rivaroxaban is dependent on the site of drug release in the GI tract.
-A 29% and 56% decrease in AUC and Cmax compared to tablet was reported when rivaroxaban granulate is released in proximal small intestine.
+A 29% and 56% decrease in AUC and Cmax compared to tablet was reported when rivaroxaban granulate is released in the proximal small intestine.
 Exposure is further reduced when drug is released in the distal small intestine, or ascending colon.
-Avoid administration of rivaroxaban via a method that could deposit drug directly into the proximal small intestine (e.g., feeding tube) which can result in reduced absorption and related drug exposure [see Dosage and Administration (2)].
+Avoid administration of rivaroxaban via a method that could deposit drug directly into the proximal small intestine (e.g., feeding tube) which can result in reduced absorption and related drug exposure.
 
 Distribution
 
@@ -51,7 +52,7 @@ Rivaroxaban's affinity for influx transporter proteins is unknown.
 Rivaroxaban is a low-clearance drug, with a systemic clearance of approximately 10 L/hr in healthy volunteers following intravenous administration.
 The terminal elimination half-life of rivaroxaban is 5 to 9 hours in healthy subjects aged 20 to 45 years.
 
-Special Populations
+Specific Populations
 
 Gender
 
@@ -59,7 +60,8 @@ Gender did not influence the pharmacokinetics or pharmacodynamics of XARELTO.
 
 Race
 
-Healthy Japanese subjects were found to have 50% higher exposures compared to other ethnicities including Chinese.
+Healthy Japanese subjects were found to have 20 to 40% on average, higher exposures compared to other ethnicities including Chinese.
+However, these differences in exposure are reduced when values are corrected for body weight.
 
 Elderly
 
@@ -69,7 +71,7 @@ The terminal elimination half-life is 11 to 13 hours in the elderly [see Use in 
 
 Body Weight
 
-Extremes in body weight (<50 kg or >120 kg) did not influence rivaroxaban exposure.
+Extremes in body weight (<50 kg or >120 kg) did not influence (less than 25%) rivaroxaban exposure.
 
 Drug Interactions
 
@@ -79,6 +81,6 @@ In vitro data also indicates a low rivaroxaban inhibitory potential for P-gp and
 
 In addition, there were no significant pharmacokinetic interactions observed in studies comparing concomitant rivaroxaban 20 mg and 7.5 mg single dose of midazolam (substrate of CYP3A4), 0.375 mg once-daily dose of digoxin (substrate of P-gp), or 20 mg once daily dose of atorvastatin (substrate of CYP3A4 and P-gp) in healthy volunteers.
 
-## 12.4 QT/QTc Prolongation
+## 12.6 QT/QTc Prolongation
 
 In a thorough QT study in healthy men and women aged 50 years and older, no QTc prolonging effects were observed for XARELTO (15 mg and 45 mg, single-dose).
