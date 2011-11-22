@@ -1,15 +1,16 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-## Heart Failure
+## 1.1 Heart Failure
 
 Digoxin Oral Solution, USP is indicated for the treatment of mild to moderate heart failure.
-Digoxin increases left ventricular ejection fraction and improves heart failure symptoms as evidenced by exercise capacity and heart failure-related hospitalizations and emergency care, while having no effect on mortality.
+Digoxin increases left ventricular ejection fraction and improves heart failure symptoms as evidenced by increased exercise capacity and decreased heart failure-related hospitalizations and emergency care, while having no effect on mortality.
 Where possible, digoxin should be used with a diuretic and an angiotensin-converting enzyme inhibitor, but an optimal order for starting these three drugs cannot be specified.
 
-Digoxin increases myocardial contractility in children with congestive heart failure.
+## 1.2 Heart Failure in Pediatric Patients
 
-## Atrial Fibrillation
+Digoxin increases myocardial contractility in pediatric patients with heart failure.
+
+## 1.3 Atrial Fibrillation in Adults
 
 Digoxin Oral Solution, USP is indicated for the control of resting ventricular response rate in patients with chronic atrial fibrillation.
-
-There are no controlled randomized studies of digoxin in children with atrial tachyarrhythmias.
+Digoxin should not be used for the treatment of multifocal atrial tachycardia.
