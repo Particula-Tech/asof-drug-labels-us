@@ -1,7 +1,7 @@
 # 6. ADVERSE REACTIONS
 
 Serious adverse reactions with anastrozole tablets occurring in less than 1 in 10,000 patients, are: 1) skin reactions such as lesions, ulcers, or blisters; 2) allergic reactions with swelling of the face, lips, tongue, and/or throat.
-This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [see ADVERSE REACTIONS,(6.2)].
+This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [see ADVERSE REACTIONS (6.2)].
 
 Common adverse reactions (occurring with an incidence of >10%) in women taking anastrozole tablets included: hot flashes, asthenia, arthritis, pain, arthralgia, pharyngitis, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, pain, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
 
@@ -164,6 +164,18 @@ Vaginal bleeding occurred more frequently in the tamoxifen-treated patients vers
 
 Patients receiving anastrozole tablets had a lower incidence of hot flashes, vaginal bleeding, vaginal discharge, endometrial cancer, venous thromboembolic events and ischemic cerebrovascular events compared with patients receiving tamoxifen.
 
+10 year median follow-up Safety Results from the ATAC Trial
+
+- Results are consistent with the previous analyses.
+- Serious adverse reactions were similar between anastrozole (50 %) and tamoxifen (51 %).
+- Cardiovascular events were consistent with the known safety profiles of anastrozole and tamoxifen.
+- The cumulative incidences of all first fractures (both serious and non-serious, occurring either during or after treatment) was higher in the anastrozole group (15 %) compared to the tamoxifen group (11 %).
+  This increased first fracture rate during treatment did not continue in the post-treatment follow-up period.
+- The cumulative incidence of new primary cancers was similar in the anastrozole group (13.7 %) compared to the tamoxifen group (13.9 %).
+  Consistent with the previous analyses, endometrial cancer was higher in the tamoxifen group (0.8 %) compared to the anastrozole group (0.2 %).
+- The overall number of deaths (during or off-trial treatment) was similar between the treatment groups.
+  There were more deaths related to breast cancer in the tamoxifen than in the anastrozole treatment group.
+
 First-Line Therapy
 
 Adverse reactions occurring with an incidence of at least 5% in either treatment group of trials 0030 and 0027 during or within 2 weeks of the end of treatment are shown in Table 3.
@@ -217,7 +229,7 @@ No significant differences were seen between treatment groups.
 
 Table 4 Number of Patients with Pre-specified Adverse Reactions in Trials 0030 and 0027
 
-| Adverse ReactionA patient may have had more than 1 adverse event. | Number (n) and Percentage of Patients |  |
+| Adverse ReactionA patient may have had more than 1 adverse reaction. | Number (n) and Percentage of Patients |  |
 | --- | --- | --- |
 |  | Anastrozole Tablets | NOLVADEX®$ |
 |  | 1 mg | 20 mg |
@@ -303,7 +315,7 @@ Skin and Appendages: Hair thinning (alopecia); pruritus
 
 Urogenital: Urinary tract infection; breast pain
 
-The incidences of the following adverse event groups potentially causally related to one or both of the therapies because of their pharmacology, were statistically analyzed: weight gain, edema, thromboembolic disease, gastrointestinal disturbance, hot flushes, and vaginal dryness.
+The incidences of the following adverse reaction groups potentially causally related to one or both of the therapies because of their pharmacology, were statistically analyzed: weight gain, edema, thromboembolic disease, gastrointestinal disturbance, hot flushes, and vaginal dryness.
 These six groups, and the adverse reactions captured in the groups, were prospectively defined.
 The results are shown in the table below.
 
@@ -313,7 +325,7 @@ Table 6 Number (n) and Percentage of Patients with Pre-specified Adverse Reactio
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 1 mg |  | 10 mg |  | 160 mg |  |
 |  | (N=262) |  | (N=246) |  | (N=253) |  |
-| Adverse Event Group | N | (%) | N | (%) | N | (%) |
+| Adverse Reaction Group | N | (%) | N | (%) | N | (%) |
 | Gastrointestinal Disturbance | 77 | (29) | 81 | (33) | 54 | (21) |
 | Hot Flushes | 33 | (13) | 29 | (12) | 35 | (14) |
 | Edema | 19 | (7) | 28 | (11) | 35 | (14) |

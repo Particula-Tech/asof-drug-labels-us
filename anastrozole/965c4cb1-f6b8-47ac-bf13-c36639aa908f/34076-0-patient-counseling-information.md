@@ -1,5 +1,7 @@
 # 17. PATIENT COUNSELING INFORMATION
 
+"see FDA Approved Patient Labeling"
+
 ## 17.1 Pregnancy
 
 Patients should be advised that anastrozole tablets may cause fetal harm.
@@ -26,6 +28,16 @@ Patients should be informed that an increased level of cholesterol might be seen
 ## 17.6 Tamoxifen
 
 Patients should be advised not to take anastrozole tablets with Tamoxifen.
+
+Manufactured by:
+
+Cadila Healthcare Ltd.
+
+Ahmedabad, India
+
+Rev.: 11/11
+
+Revision date: 19/11/2011
 
 ## 17.7 FDA-Approved Patient Labeling
 
@@ -60,10 +72,10 @@ Do not take anastrozole tablet if you:
 - are pregnant, think you may be pregnant, or plan to get pregnant.
   Anastrozole tablet may harm your unborn child.
   If you become pregnant while taking anastrozole tablet, tell your doctor right away.
-- have not finished menopause (are premenopausal)
+- have not finished menopause (are premenopausal).
 - are allergic to any of the ingredients in anastrozole tablet.
   See the end of this leaflet for a list of the ingredients in anastrozole tablet.
-- are a man or child
+- are a man or child.
 
 What is the most important information I should know about anastrozole tablet?
 
