@@ -46,4 +46,4 @@ These subgroup analyses must be interpreted cautiously.
 | --- |
 
 Figure 2: The size of each box is proportional to the sample size as well as the event rate.
-ACEI denotes angiotensin-converting enzyme inhibitor, LVEF denotes left ventricular ejection fraction, Cr Clearance denotes creatinine clearance and Ser Creatinine denotes serum creatinine.
+LVEF denotes left ventricular ejection fraction, Ser Creatinine denotes serum creatinine, Cr Clearance denotes creatinine clearance, and ACEI denotes angiotensin-converting enzyme inhibitor.
