@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA075638"
+  ],
+  "inn": "ketoconazole",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-1298-1",
+    "51672-1298-2",
+    "51672-1298-3"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "ketoconazole",
+      "name": "Ketoconazole"
+    }
+  ],
+  "setid": "39b85d6a-9133-42e6-b7f8-58f045e9b9f0",
+  "source": "dailymed"
+}
