@@ -39,5 +39,3 @@ Patients should be advised of the following:
 - Do not change dose or stop taking Tasigna without first consulting their doctor.
 - If a dose is missed, take the next dose as scheduled.
   Do not take a double dose to make up for the forgotten capsules.
-
-T2011-124

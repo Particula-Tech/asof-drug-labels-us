@@ -1,4 +1,4 @@
-Medication guide
+Medication Guide
 
 TASIGNA® (ta-sig-na)
 
@@ -187,4 +187,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2011-124/T2011-125 October 2011/October 2011
+T2011-126/T2011-125 November 2011/October 2011

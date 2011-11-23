@@ -57,7 +57,7 @@ Grapefruit products and other foods that are known to inhibit CYP3A4 should be a
 ## 5.9 Hepatic Impairment
 
 Nilotinib exposure is increased in patients with impaired hepatic function.
-A lower starting dose is recommended for patients with mild to severe hepatic impairment (at baseline) and QT interval should be monitored closely [see Boxed Warning, Dosage and Administration (2.2) and Use in Specific Populations (8.7)].
+A lower starting dose is recommended for patients with mild to severe hepatic impairment (at baseline) and QT interval should be monitored closely [see Dosage and Administration (2.2) and Use in Specific Populations (8.7)].
 
 ## 5.10 Tumor Lysis Syndrome
 

@@ -42,4 +42,4 @@ If Tasigna is administered with drugs that inhibit P-gp, increased concentration
 
 ## 7.5 Drugs that May Prolong the QT Interval
 
-The administration of Tasigna with agents that may prolong the QT interval “such as anti-arrhythmic medicines” should be avoided [see Boxed Warning, Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.7)].
+The administration of Tasigna with agents that may prolong the QT interval such as anti-arrhythmic medicines should be avoided [see Boxed Warning, Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.7)].

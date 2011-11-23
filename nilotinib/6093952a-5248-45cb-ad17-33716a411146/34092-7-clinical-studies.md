@@ -2,7 +2,7 @@
 
 ## 14.1 Newly Diagnosed Ph+ CML-CP
 
-An open label, multicenter, randomized trial was conducted to determine the efficacy of Tasigna versus Gleevec® (imatinib mesylate) Tablets in adult patients with cytogenetically confirmed newly diagnosed Ph+ CML-CP.
+An open label, multicenter, randomized trial was conducted to determine the efficacy of Tasigna versus imatinib tablets in adult patients with cytogenetically confirmed newly diagnosed Ph+ CML-CP.
 Patients were within six months of diagnosis and were previously untreated for CML-CP, except for hydroxyurea and/or anagrelide.
 Efficacy was based on a total of 846 patients: 283 patients in the imatinib 400 mg once daily group, 282 patients in the nilotinib 300 mg twice daily group, 281 patients in the nilotinib 400 mg twice daily group.
 
@@ -11,23 +11,26 @@ There were slightly more male than female patients in all groups (56%, 56% and 6
 More than 60% of all patients were Caucasian, and 25% were Asian.
 
 The primary data analysis was performed when all 846 patients completed 12 months of treatment (or discontinued earlier).
-The median time on treatment was 18.6 months in all three treatment groups.
-This study is on-going.
+A second data analysis was performed when all 846 patients completed 24 months of treatment (or discontinued earlier).
+The median time on treatment at the time of the second analysis was 25 months in all three treatment groups.
+This study is on-going and further data will be required to determine long-term outcome.
 
 The primary efficacy endpoint was major molecular response (MMR) at 12 months after the start of study medication.
 MMR was defined as ≤0.1% BCR-ABL/ABL % by international scale measured by RQ-PCR, which corresponds to a ≥3 log reduction of BCR-ABL transcript from standardized baseline.
 Efficacy endpoints are summarized in Table 9 below.
 
-Two patients on the nilotinib arm progressed to either accelerated phase or blast crisis while 17 patients on the imatinib arm progressed to either accelerated phase or blast crisis.
+After 24 months of minimum follow-up, two patients on the nilotinib arm progressed to either accelerated phase or blast crisis while 17 patients on the imatinib arm progressed to either accelerated phase or blast crisis.
 
-Table 9: Efficacy of TASIGNA Compared to GLEEVEC in Newly Diagnosed Ph+ CML-CP
+Table 9: Efficacy (MMR and CCyR) of TASIGNA Compared to Imatinib in Newly Diagnosed Ph+ CML-CP
 
-|  | TASIGNA 300 mg twice daily | GLEEVEC 400 mg once daily |
+|  | TASIGNA 300 mg twice daily | Imatinib 400 mg once daily |
 | --- | --- | --- |
 |  | N = 282 | N = 283 |
 | MMR at 12 months (95% CI) | 44% (38.4, 50.3) | 22% (17.6, 27.6) |
 | P-Valuea | <0.0001 |  |
 | CCyRb by 12 months (95% CI) | 80% (75.0, 84.6) | 65% (59.2, 70.6) |
+| MMR at 24 months (95% CI) | 62% (55.8,67.4) | 38% (31.8,43.4) |
+| CCyRb by 24 months (95% CI) | 87% (82.4,90.6) | 77% (71.7, 81.8) |
 
 a CMH test stratified by Sokal risk group
 
@@ -47,7 +50,7 @@ The median time of prior imatinib treatment was approximately 32 (CML-CP) and 28
 Prior therapy included hydroxyurea in 85% of patients, interferon in 56% and stem cell or bone marrow transplant in 8%.
 The median highest prior imatinib dose was 600 mg/day for patients with CML-CP and CML-AP, and the highest prior imatinib dose was ≥600 mg/day in 74% of all patients with 40% of patients receiving imatinib doses ≥800 mg/day.
 
-Median duration of nilotinib treatment was 18.4months in patients with CML-CP and 8.7 months in patients with CML-AP.
+Median duration of nilotinib treatment was 18.4 months in patients with CML-CP and 8.7 months in patients with CML-AP.
 
 The efficacy endpoint in CML-CP was unconfirmed major cytogenetic response (MCyR) which included complete and partial cytogenetic responses.
 
@@ -74,11 +77,11 @@ Cytogenetic responses were based on the percentage of Ph-positive metaphases amo
 
 b Hematologic response = CHR + NEL (all responses confirmed after 4 weeks).
 
-CHR (CML-CP): WBC <10 x 109 /L, platelets <450,000/mm3, no blasts or promyelocytes in peripheral blood, <5% myelocytes + metamyelocytes in bone marrow, <20% basophils in peripheral blood, and no extramedullary involvement.
+CHR (CML-CP): WBC <10 x 109/L, platelets <450,000/mm3, no blasts or promyelocytes in peripheral blood, <5% myelocytes + metamyelocytes in bone marrow, <20% basophils in peripheral blood, and no extramedullary involvement.
 
-CHR (CML-AP): neutrophils >1.5 x 109 /L, platelets >100 x 109 /L, no myeloblasts in peripheral blood, myeloblasts <5% in bone marrow, and no extramedullary involvement.
+CHR (CML-AP): neutrophils >1.5 x 109/L, platelets >100 x 109 /L, no myeloblasts in peripheral blood, myeloblasts <5% in bone marrow, and no extramedullary involvement.
 
-NEL: same criteria as for CHR but neutrophils >1.0 x 109 /L and platelets >20 x 109 /L without transfusions or bleeding.
+NEL: same criteria as for CHR but neutrophils >1.0 x 109/L and platelets >20 x 109/L without transfusions or bleeding.
 
 Patients with Chronic Phase
 

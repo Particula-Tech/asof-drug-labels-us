@@ -44,10 +44,10 @@ See Table 3 for dose adjustments for elevations of lipase, amylase, bilirubin, a
 
 Table 3: Dose Adjustments for Selected Non-hematologic Laboratory Abnormalities
 
-| Elevated serum lipase or amylase ≥Grade 3 | 1. Withhold Tasigna, and monitor serum lipase or amylase 2. Resume treatment at 400 mg once daily if serum lipase or amylase return to ≤Grade 1 |
+| Elevated serum lipase or amylase ≥Grade 3 | 1. Withhold Tasigna, and monitor serum lipase or amylase 2. Resume treatment at 400 mg once daily if serum lipase or amylase returns to ≤Grade 1 |
 | --- | --- |
-| Elevated bilirubin ≥Grade 3 | 1. Withhold Tasigna, and monitor bilirubin 2. Resume treatment at 400 mg once daily if bilirubin return to ≤Grade 1 |
-| Elevated hepatic transaminases ≥Grade 3 | 1. Withhold Tasigna, and monitor hepatic transaminases 2. Resume treatment at 400 mg once daily if hepatic transaminases return to ≤Grade 1 |
+| Elevated bilirubin ≥Grade 3 | 1. Withhold Tasigna, and monitor bilirubin 2. Resume treatment at 400 mg once daily if bilirubin returns to ≤Grade 1 |
+| Elevated hepatic transaminases ≥Grade 3 | 1. Withhold Tasigna, and monitor hepatic transaminases 2. Resume treatment at 400 mg once daily if hepatic transaminases returns to ≤Grade 1 |
 
 Other Non-hematologic Toxicities
 
@@ -70,7 +70,7 @@ Table 4: Dose Adjustments for Hepatic Impairment (At Baseline)
 | Resistant or intolerant Ph+ CML in chronic phase or accelerated phase at 400 mg twice daily | Mild or Moderate* | An initial dosing regimen of 300 mg twice daily followed by dose escalation to 400 mg twice daily based on tolerability |
 |  | Severe* | A starting dose of 200 mg twice daily followed by a sequential dose escalation to 300 mg twice daily and then to 400 mg twice daily based on tolerability |
 
-* Mild = mild hepatic impairment (Child-Pugh Class A); Moderate = moderate hepatic impairment (Child-Pugh Class B); Severe = severe hepatic impairment (Child-Pugh Class C) [see Boxed Warning, Warnings and Precautions (5.9), Use in Specific Populations (8.7)].
+* Mild = mild hepatic impairment (Child-Pugh Class A); Moderate = moderate hepatic impairment (Child-Pugh Class B); Severe = severe hepatic impairment (Child-Pugh Class C) [see Warnings and Precautions (5.9), Use in Specific Populations (8.7)].
 
 Concomitant Strong CYP3A4 Inhibitors
 
