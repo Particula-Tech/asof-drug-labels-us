@@ -24,5 +24,4 @@ Manufactured by: Lannett Company, Inc. Philadelphia, PA 19136
 
 Made in the USA
 
-Rev.
-09/10 10-980
+Revised 11/11, Revision 1 10-980
