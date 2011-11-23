@@ -144,7 +144,7 @@ The BOTOX dose was divided among the affected muscles [see Clinical Studies (14.
 
 Dosing in initial and sequential treatment sessions should be tailored to the individual patient based on the patient's head and neck position, localization of pain, muscle hypertrophy, patient response, and adverse event history.
 The initial dose for a patient without prior use of BOTOX should be at a lower dose, with subsequent dosing adjusted based on individual response.
-Limiting the total dose injected into the sternocleidomastoid muscle to 100 Units or less may decrease the occurrence of dysphagia [see Warnings and Precautions (5.2, 5.4, 5.5)].
+Limiting the total dose injected into the sternocleidomastoid muscle to 100 Units or less may decrease the occurrence of dysphagia [see Warnings and Precautions (5.2, 5.5, 5.6)].
 
 The recommended dilution is 200 Units/2 mL, 200 Units/4 mL, 100 Units/1 mL, or 100 Units/2 mL with 0.9% non-preserved sterile saline, depending on volume and number of injection sites desired to achieve treatment objectives (see Table 1).
 In general, no more than 50 Units per site should be administered.

@@ -6,7 +6,7 @@ Provide a copy of the Medication Guide and review the contents with the patient.
 
 ## 17.1 Swallowing, Speaking or Breathing Difficulties, or Other Unusual Symptoms
 
-Patients should be advised to inform their doctor or pharmacist if they develop any unusual symptoms (including difficulty with swallowing, speaking, or breathing), or if any existing symptom worsens [see Boxed Warning and Warnings and Precautions (5.2, 5.4)].
+Patients should be advised to inform their doctor or pharmacist if they develop any unusual symptoms (including difficulty with swallowing, speaking, or breathing), or if any existing symptom worsens [see Boxed Warning and Warnings and Precautions (5.2, 5.5)].
 
 ## 17.2 Ability to Operate Machinery or Vehicles
 

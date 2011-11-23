@@ -257,7 +257,7 @@ Table 20: Number of Patients Treated per Muscle and Fraction of Total Dose Injec
 | Semispinalis | 16 | 21 | 13-25 |
 | Scalene | 15 | 15 | 6-21 |
 | Longissimus | 8 | 29 | 17-41 |
-| *The mid-range of dose is calculated as the 25th to 75th percentiles. |  |  |  |
+| * The mid-range of dose is calculated as the 25th to 75th percentiles. |  |  |  |
 
 There were several randomized studies conducted prior to the double-blind, placebo-controlled study, which were supportive but not adequately designed to assess or quantitatively estimate the efficacy of BOTOX.
 

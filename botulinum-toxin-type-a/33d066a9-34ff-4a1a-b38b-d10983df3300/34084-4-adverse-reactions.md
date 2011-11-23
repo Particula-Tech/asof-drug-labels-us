@@ -3,9 +3,9 @@
 The following adverse reactions to BOTOX (onabotulinumtoxinA) for injection are discussed in greater detail in other sections of the labeling:
 
 - Spread of Toxin Effects [see Warnings and Precautions (5.2)]
-- Hypersensitivity [see Contraindications (4.1) and Warnings and Precautions (5.3)]
-- Dysphagia and Breathing Difficulties in Treatment of Cervical Dystonia [see Warnings and Precautions (5.4)]
-- Bronchitis and Upper Respiratory Tract Infections in Patients Treated for Spasticity [see Warnings and Precautions (5.9)]
+- Hypersensitivity [see Contraindications (4.1) and Warnings and Precautions (5.4)]
+- Dysphagia and Breathing Difficulties in Treatment of Cervical Dystonia [see Warnings and Precautions (5.5)]
+- Bronchitis and Upper Respiratory Tract Infections in Patients Treated for Spasticity [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -82,11 +82,11 @@ In cervical dystonia patients evaluated for safety in double-blind and open-labe
 Other events reported in 2-10% of patients in any one study in decreasing order of incidence include: increased cough, flu syndrome, back pain, rhinitis, dizziness, hypertonia, soreness at injection site, asthenia, oral dryness, speech disorder, fever, nausea, and drowsiness.
 Stiffness, numbness, diplopia, ptosis, and dyspnea have been reported.
 
-Dysphagia and symptomatic general weakness may be attributable to an extension of the pharmacology of BOTOX resulting from the spread of the toxin outside the injected muscles [see Warnings and Precautions (5.2, 5.4)].
+Dysphagia and symptomatic general weakness may be attributable to an extension of the pharmacology of BOTOX resulting from the spread of the toxin outside the injected muscles [see Warnings and Precautions (5.2, 5.5)].
 
-The most common severe adverse reaction associated with the use of BOTOX injection in patients with cervical dystonia is dysphagia with about 20% of these cases also reporting dyspnea [see Warnings and Precautions (5.2, 5.4)].
+The most common severe adverse reaction associated with the use of BOTOX injection in patients with cervical dystonia is dysphagia with about 20% of these cases also reporting dyspnea [see Warnings and Precautions (5.2, 5.5)].
 Most dysphagia is reported as mild or moderate in severity.
-However, it may be associated with more severe signs and symptoms [see Warnings and Precautions (5.4)].
+However, it may be associated with more severe signs and symptoms [see Warnings and Precautions (5.5)].
 
 Additionally, reports in the literature include a case of a female patient who developed brachial plexopathy two days after injection of 120 Units of BOTOX for the treatment of cervical dystonia, and reports of dysphonia in patients who have been treated for cervical dystonia.
 
@@ -135,7 +135,7 @@ The potential for antibody formation may be minimized by injecting with the lowe
 
 ## 6.3 Post-Marketing Experience
 
-There have been spontaneous reports of death, sometimes associated with dysphagia, pneumonia, and/or other significant debility or anaphylaxis, after treatment with botulinum toxin [see Warnings and Precautions (5.3, 5.4)].
+There have been spontaneous reports of death, sometimes associated with dysphagia, pneumonia, and/or other significant debility or anaphylaxis, after treatment with botulinum toxin [see Warnings and Precautions (5.4, 5.5)].
 
 There have also been reports of adverse events involving the cardiovascular system, including arrhythmia and myocardial infarction, some with fatal outcomes.
 Some of these patients had risk factors including cardiovascular disease.
@@ -144,6 +144,6 @@ The exact relationship of these events to the botulinum toxin injection has not 
 New onset or recurrent seizures have also been reported, typically in patients who are predisposed to experiencing these events.
 The exact relationship of these events to the botulinum toxin injection has not been established.
 
-The following adverse events have been identified during postapproval use of BOTOX: abdominal pain; anorexia; brachial plexopathy; diarrhea; dyspnea; facial palsy; facial paresis; hyperhidrosis; hypoacusis; hypoaesthesia; localized numbness; malaise; muscle weakness; myalgia; paresthesia; pyrexia; radiculopathy; skin rash (including erythema multiforme, and psoriasiform eruption); tinnitus; vertigo; visual disturbances; and vomiting.
+The following adverse events have been identified during postapproval use of BOTOX: abdominal pain; anorexia; brachial plexopathy; diarrhea; dyspnea; facial palsy; facial paresis; hyperhidrosis; hypoacusis; hypoaesthesia; localized numbness; malaise; muscle weakness; myalgia; paresthesia; pyrexia; radiculopathy; skin rash (including erythema multiforme,and psoriasiform eruption); tinnitus; vertigo; visual disturbances; and vomiting.
 
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

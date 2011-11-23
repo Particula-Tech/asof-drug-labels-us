@@ -1,12 +1,15 @@
 # 10 OVERDOSAGE
 
 Excessive doses of BOTOX (onabotulinumtoxinA) for injection may be expected to produce neuromuscular weakness with a variety of symptoms.
-Respiratory support may be required where excessive doses cause paralysis of respiratory muscles.
-In the event of overdose, the patient should be medically monitored for symptoms of excessive muscle weakness or muscle paralysis [see Boxed Warning and Warnings and Precautions (5.2, 5.4)].
-Symptomatic treatment may be necessary.
 
 Symptoms of overdose are likely not to be present immediately following injection.
-Should accidental injection or oral ingestion occur, the person should be medically supervised for several weeks for signs and symptoms of excessive muscle weakness or paralysis.
+Should accidental injection or oral ingestion occur or overdose be suspected, the person should be medically supervised for several weeks for signs and symptoms of systemic muscular weakness which could be local, or distant from the site of injection [see Boxed Warning and Warnings and Precautions (5.2, 5.5)].
+
+If the musculature of the oropharynx and esophagus are affected, aspiration may occur which may lead to development of aspiration pneumonia.
+If the respiratory muscles become paralyzed or sufficiently weakened, intubation and assisted respiration may be necessary until recovery takes place.
+Supportive care could involve the need for a tracheostomy and/or prolonged mechanical ventilation, in addition to other general supportive care.
+
+These patients should be considered for further medical evaluation and appropriate medical therapy immediately instituted, which may include hospitalization.
 
 In the event of overdose, antitoxin raised against botulinum toxin is available from the Centers for Disease Control and Prevention (CDC) in Atlanta, GA.
 However, the antitoxin will not reverse any botulinum toxin-induced effects already apparent by the time of antitoxin administration.

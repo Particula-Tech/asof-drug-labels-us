@@ -192,4 +192,4 @@ Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc
 Myobloc® is a registered trademark of Solstice Neurosciences, Inc. Dysport® is a registered trademark of Ipsen Biopharm Limited Company.
 Xeomin® is a registered trademark of Merz Pharma GmbH & Co KGaA.
 
-72309US10C and 72312US10C 72284US13C
+72309US11C and 72312US11C 72284US13C
