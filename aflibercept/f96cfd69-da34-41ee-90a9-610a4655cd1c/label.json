@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA125387"
+  ],
+  "inn": "aflibercept",
+  "labeler": "Regeneron Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "61755-005-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "aflibercept",
+      "name": "EYLEA"
+    }
+  ],
+  "setid": "f96cfd69-da34-41ee-90a9-610a4655cd1c",
+  "source": "dailymed"
+}

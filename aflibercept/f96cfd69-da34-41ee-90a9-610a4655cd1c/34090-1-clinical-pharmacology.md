@@ -1,0 +1,43 @@
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+Vascular endothelial growth factor-A (VEGF-A) and placental growth factor (PlGF) are members of the VEGF family of angiogenic factors that can act as mitogenic, chemotactic, and vascular permeability factors for endothelial cells.
+VEGF acts via two receptor tyrosine kinases, VEGFR-1 and VEGFR-2, present on the surface of endothelial cells.
+PlGF binds only to VEGFR-1, which is also present on the surface of leucocytes.
+Activation of these receptors by VEGF-A can result in neovascularization and vascular permeability.
+
+Aflibercept acts as a soluble decoy receptor that binds VEGF-A and PlGF, and thereby can inhibit the binding and activation of these cognate VEGF receptors.
+
+## 12.2 Pharmacodynamics
+
+In the phase 3 studies anatomic measures of disease activity improved similarly in all treatment groups from baseline to week 52.
+Anatomic data were not used to influence treatment decisions.
+
+## 12.3 Pharmacokinetics
+
+EYLEA is administered intravitreally to exert local effects in the eye.
+In patients with wet AMD, following intravitreal administration of EYLEA, a fraction of the administered dose is expected to bind with endogenous VEGF in the eye to form an inactive aflibercept: VEGF complex.
+Once absorbed into the systemic circulation, aflibercept presents in the plasma as free aflibercept (unbound to VEGF) and a more predominant stable inactive form with circulating endogenous VEGF (i.e., aflibercept: VEGF complex).
+
+Absorption/Distribution
+
+Following intravitreal administration of 2 mg per eye of EYLEA to patients with wet AMD, the mean Cmax of free aflibercept in the plasma was 0.02 mcg/mL (range: 0 to 0.054 mcg/mL) and was attained in 1 to 3 days.
+The free aflibercept plasma concentrations were undetectable two weeks post-dosing in all patients.
+Aflibercept did not accumulate in plasma when administered as repeated doses intravitreally every 4 weeks.
+It is estimated that after intravitreal administration of 2 mg to patients, the mean maximum plasma concentration of free aflibercept is more than 100 fold lower than the concentration of aflibercept required to half-maximally bind systemic VEGF.
+
+The volume of distribution of free aflibercept following intravenous (I.V.) administration of aflibercept has been determined to be approximately 6L.
+
+Metabolism/Elimination
+
+Aflibercept is a therapeutic protein and no drug metabolism studies have been conducted.
+Aflibercept is expected to undergo elimination through both target-mediated disposition via binding to free endogenous VEGF and metabolism via proteolysis.
+The terminal elimination half-life (t1/2) of free aflibercept in plasma was approximately 5 to 6 days after I.V. administration of doses of 2 to 4 mg/kg aflibercept.
+
+Specific Populations
+
+Renal Impairment
+
+Pharmacokinetic analysis of a subgroup of patients (n=492) in one Phase 3 study, of which 43% had renal impairment (mild n=120, moderate n=74, and severe n=16), revealed no differences with respect to plasma concentrations of free aflibercept after intravitreal administration every 4 or 8 weeks.
+No dose adjustment based on renal impairment status is needed.
