@@ -14,20 +14,20 @@ What is the most important information I should know about metoclopramide tablet
 
 Metoclopramide tablets, USP can cause serious side effects, including:
 
-Abnormal muscle movements called tardive dyskinesia (TD).
+Tardive dyskinesia (abnormal muscle movements).
 These movements happen mostly in the face muscles.
 You can not control these movements.
 They may not go away even after stopping metoclopramide tablets, USP.
-There is no treatment for TD, but symptoms may lessen or go away over time after you stop taking metoclopramide tablets, USP.
+There is no treatment for tardive dyskinesia, but symptoms may lessen or go away over time after you stop taking metoclopramide tablets, USP.
 
-Your chances for getting TD go up:
+Your chances for getting tardive dyskinesia go up:
 
 - the longer you take metoclopramide tablets, USP and the more metoclopramide tablets, USP you take.
   You should not take metoclopramide tablets, USP for more than 12 weeks.
 - if you are older, especially if you are a woman
 - if you have diabetes
 
-It is not possible for your doctor to know if you will get TD if you take metoclopramide tablets, USP.
+It is not possible for your doctor to know if you will get tardive dyskinesia if you take metoclopramide tablets, USP.
 
 Call your doctor right away if you get movements you can not stop or control, such as:
 
@@ -119,7 +119,7 @@ What are the possible side effects of metoclopramide tablets, USP?
 
 Metoclopramide tablets, USP can cause serious side effects, including:
 
-- Abnormal muscle movements.
+- Tardive dyskinesia (abnormal muscle movements).
   See "What is the most important information I need to know about metoclopramide tablets, USP?"
 - Uncontrolled spasms of your face and neck muscles, or muscles of your body, arms, and legs (dystonia).
   These muscle spasms can cause abnormal movements and body positions.
@@ -202,5 +202,5 @@ TEVA PHARMACEUTICALS USA
 
 Sellersville, PA 18960
 
-Iss.
-7/2009
+Rev.
+A 9/2011
