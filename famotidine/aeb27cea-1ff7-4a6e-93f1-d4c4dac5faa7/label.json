@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA075813"
+  ],
+  "inn": "famotidine",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-739-12"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "famotidine",
+      "name": "Famotidine"
+    }
+  ],
+  "setid": "aeb27cea-1ff7-4a6e-93f1-d4c4dac5faa7",
+  "source": "dailymed"
+}
