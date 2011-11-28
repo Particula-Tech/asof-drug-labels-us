@@ -9,7 +9,7 @@ The structural formula of azathioprine is:
 
 It is an imidazolyl derivative of 6-mercaptopurine and many of its biological effects are similar to those of the parent compound.
 
-Azathioprine is a pale yellow, odorless powder.
+Azathioprine, USP is a pale yellow, odorless powder.
 It is insoluble in water, soluble in dilute solutions of alkali hydroxides, sparingly soluble in dilute mineral acids, very slightly soluble in alcohol and in chloroform.
 The sodium salt of azathioprine is sufficiently soluble to make a 10 mg/mL water solution which is stable for 24 hours at 59° to 77°F (15° to 25°C).
 Azathioprine is stable in solution at neutral or acid pH but hydrolysis to mercaptopurine occurs in excess sodium hydroxide (0.1N), especially on warming.

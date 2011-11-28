@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
 The principal and potentially serious toxic effects of azathioprine tablets are hematologic and gastrointestinal.
-The risks of secondary infection and neoplasia are also significant (see WARNINGS).
+The risks of secondary infection and malignancy are also significant (see WARNINGS).
 The frequency and severity of adverse reactions depend on the dose and duration of azathioprine tablets as well as on the patient’s underlying disease or concomitant therapies.
 The incidence of hematologic toxicities and neoplasia encountered in groups of renal homograft recipients is significantly higher than that in studies employing azathioprine tablets for rheumatoid arthritis.
 The relative incidences in clinical studies are summarized below:
@@ -11,8 +11,8 @@ The relative incidences in clinical studies are summarized below:
 | Leukopenia (any degree) | >50% | 28% |
 | <2,500 cells/mm3 | 16% | 5.3% |
 | Infections | 20% | <1% |
-| Neoplasia |  |  |
-| Lymphoma | 0.5% | * |
+| Neoplasia |  | * |
+| Lymphoma | 0.5% |  |
 | Others | 2.8% |  |
 | *Data on the rate and risk of neoplasia among persons with rheumatoid arthritis treated with azathioprine are limited. The incidence of lymphoproliferative disease in patients with RA appears to be significantly higher than that in the general population. In one completed study, the rate of lymphoproliferative disease in RA patients receiving higher than recommended doses of azathioprine (5 mg/kg per day) was 1.8 cases per 1000 patient-years of follow-up, compared with 0.8 cases per 1000 patient-years of follow-up in those not receiving azathioprine.However, the proportion of the increased risk attributable to the azathioprine dosage or to other therapies (i.e., alkylating agents) received by patients treated with azathioprine cannot be determined. |  |  |
 
@@ -21,7 +21,7 @@ The relative incidences in clinical studies are summarized below:
 Leukopenia and/or thrombocytopenia are dose-dependent and may occur late in the course of therapy with azathioprine tablets.
 Dose reduction or temporary withdrawal may result in reversal of these toxicities.
 Infection may occur as a secondary manifestation of bone marrow suppression or leukopenia, but the incidence of infection in renal homotransplantation is 30 to 60 times that in rheumatoid arthritis.
-Macrocytic anemia and/or bleeding have been reported.
+Anemias, including macrocytic anemia and/or bleeding have been reported.
 
 TPMT genotyping or phenotyping can help identify patients with low or absent TPMT activity (homozygous for non-functional alleles) who are at increased risk for severe, life-threatening myelosuppression from azathioprine tablets (see CLINICAL PHARMACOLOGY, WARNINGSand PRECAUTIONS: Laboratory Tests).
 Death associated with pancytopenia has been reported in patients with absent TPMT activity receiving azathioprine.6, 20
@@ -41,4 +41,4 @@ If hepatic veno-occlusive disease is clinically suspected, azathioprine tablets 
 ## Others
 
 Additional side effects of low frequency have been reported.
-These include skin rashes, alopecia, fever, arthralgias, diarrhea, steatorrhea, negative nitrogen balance, reversible interstitial pneumonitis and hepatosplenic T-cell lymphoma.
+These include skin rashes, alopecia, fever, arthralgias, diarrhea, steatorrhea, negative nitrogen balance, reversible interstitial pneumonitis and hepatosplenic T-cell lymphoma (see Warnings Malignancy), and Sweet’s Syndrome (acute febrile neutrophilic dermatosis).

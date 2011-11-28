@@ -13,8 +13,6 @@ Early drug discontinuation may be considered in patients with abnormal CBC resul
 The dose of azathioprine tablets required to prevent rejection and minimize toxicity will vary with individual patients; this necessitates careful management.
 The initial dose is usually 3 to 5 mg/kg daily, beginning at the time of transplant.
 Azathioprine tablets are usually given as a single daily dose on the day of, and in a minority of cases 1 to 3 days before, transplantation.
-Azathioprine is often initiated with the intravenous administration of the sodium salt, with subsequent use of tablets (at the same dose level) after the postoperative period.
-Intravenous administration of the sodium salt is indicated only in patients unable to tolerate oral medications.
 Dose reduction to maintenance levels of 1 to 3 mg/kg daily is usually possible.
 The dose of azathioprine tablets should not be increased to toxic levels because of threatened rejection.
 Discontinuation may be necessary for severe hematologic or other toxicity, even if rejection of the homograft may be a consequence of drug withdrawal.
@@ -36,3 +34,6 @@ Azathioprine tablets can be discontinued abruptly, but delayed effects are possi
 ## Use in Renal Dysfunction
 
 Relatively oliguric patients, especially those with tubular necrosis in the immediate postcadaveric transplant period, may have delayed clearance of azathioprine tablets or its metabolites, may be particularly sensitive to this drug, and are usually given lower doses.
+
+Procedures for proper handling and disposal of this immunosuppressive antimetabolite drug should be considered.
+Several guidelines on this subject have been published.25-31 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.

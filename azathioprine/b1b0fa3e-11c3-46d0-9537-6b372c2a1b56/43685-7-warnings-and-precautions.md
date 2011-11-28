@@ -1,32 +1,53 @@
 # WARNINGS
 
-Severe leukopenia, thrombocytopenia, macrocytic anemia, and/or pancytopenia may occur in patients being treated with azathioprine tablets.
+Malignancy Patients receiving immunosuppressants, including azathioprine, are at increased risk of developing lymphoma and other malignancies, particularly of the skin.
+Physicians should inform patients of the risk of malignancy with azathioprine.
+As usual for patients with increased risk for skin cancer, exposure to sunlight and ultraviolet light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+
+Post-transplant
+
+Renal transplant patients are known to have an increased risk of malignancy, predominantly skin cancer and reticulum cell or lymphomatous tumors.
+The risk of post-transplant lymphomas may be increased in patients who receive aggressive treatment with immunosuppressive drugs, including azathioprine.
+Therefore, immunosuppressive drug therapy should be maintained at the lowest effective levels.
+
+Rheumatoid Arthritis
+
+Information is available on the risk of malignancy with the use of azathioprine in rheumatoid arthritis (see ADVERSE REACTIONS).
+It has not been possible to define the precise risk of malignancy due to azathioprine.
+The data suggest the risk may be elevated in patients with rheumatoid arthritis, though lower than for renal transplant patients.
+However, acute myelogenous leukemia as well as solid tumors have been reported in patients with rheumatoid arthritis who have received azathioprine.
+
+Inflammatory Bowel Disease
+
+Postmarketing cases of hepatosplenic T-cell lymphoma (HSTCL), a rare type of T-cell lymphoma, have been reported in patients treated with azathioprine.
+These cases have had a very aggressive disease course and have been fatal.
+The majority of reported cases have occurred in patients with Crohn's disease or ulcerative colitis and the majority were in adolescent and young adult males.
+Some of the patients were treated with azathioprine as monotherapy and some had received concomitant treatment with a TNFα blocker at or prior to diagnosis.
+The safety and efficacy of azathioprine for the treatment of Crohn's disease and ulcerative colitis have not been established.
+
+Cytopenias
+
+Severe leukopenia, thrombocytopenia, anemias including macrocytic anemia, and/or pancytopenia may occur in patients being treated with azathioprine.
 Severe bone marrow suppression may also occur.
-Patients with intermediate thiopurine S-methyl transferase (TPMT) activity may be at an increased risk of myelotoxicity if receiving conventional doses of azathioprine tablets.
-Patients with low or absent TPMT activity are at an increased risk of developing severe, life-threatening myelotoxicity if receiving conventional doses of azathioprine tablets.
-TPMT genotyping or phenotyping can help identify patients who are at an increased risk for developing azathioprine tablets toxicity2-9 (see PRECAUTIONS: Laboratory Tests).
+Patients with intermediate thiopurine S-methyl transferase (TPMT) activity may be at an increased risk of myelotoxicity if receiving conventional doses of azathioprine.
+Patients with low or absent TPMT activity are at an increased risk of developing severe, life-threatening myelotoxicity if receiving conventional doses of azathioprine.
+TPMT genotyping or phenotyping can help identify patients who are at an increased risk for developing azathioprine toxicity.2-9 (See PRECAUTIONS: Laboratory Tests).
 Hematologic toxicities are dose-related and may be more severe in renal transplant patients whose homograft is undergoing rejection.
-It is suggested that patients on azathioprine tablets have complete blood counts, including platelet counts, weekly during the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage alterations or other therapy changes are necessary.
+It is suggested that patients on azathioprine have complete blood counts, including platelet counts, weekly during the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage alterations or other therapy changes are necessary.
 Delayed hematologic suppression may occur.
 Prompt reduction in dosage or temporary withdrawal of the drug may be necessary if there is a rapid fall in or persistently low leukocyte count, or other evidence of bone marrow depression.
 Leukopenia does not correlate with therapeutic effect; therefore the dose should not be increased intentionally to lower the white blood cell count.
+
+Serious infections
 
 Serious infections are a constant hazard for patients receiving chronic immunosuppression, especially for homograft recipients.
 Fungal, viral, bacterial, and protozoal infections may be fatal and should be treated vigorously.
 Reduction of azathioprine dosage and/or use of other drugs should be considered.
 
-Azathioprine tablets are mutagenic in animals and humans, carcinogenic in animals, and may increase the patient’s risk of neoplasia.
-Renal transplant patients are known to have an increased risk of malignancy, predominantly skin cancer and reticulum cell or lymphomatous tumors.
-The risk of post-transplant lymphomas may be increased in patients who receive aggressive treatment with immunosuppressive drugs.
-The degree of immunosuppression is determined, not only by the immunosuppressive regimen, but also by a number of other patient factors.
-The number of immunosuppressive agents may not necessarily increase the risk of post-transplant lymphomas.
-However, transplant patients who receive multiple immunosuppressive agents may be at risk for over-immunosuppression; therefore, immunosuppressive drug therapy should be maintained at the lowest effective levels.
-Information is available on the spontaneous neoplasia risk in rheumatoid arthritis, and on neoplasia following immunosuppressive therapy of other autoimmune diseases.
-It has not been possible to define the precise risk of neoplasia due to azathioprine tablets.The data suggest the risk may be elevated in patients with rheumatoid arthritis, though lower than for renal transplant patients.
-However, acute myelogenous leukemia as well as solid tumors have been reported in patients with rheumatoid arthritis who have received azathioprine.
-Data on neoplasia in patients receiving azathioprine tabletscan be found under ADVERSE REACTIONS.
+Effect on Sperm in Animals
 
-Azathioprine tablets have been reported to cause temporary depression in spermatogenesis and reduction in sperm viability and sperm count in mice at doses 10 times the human therapeutic dose;10 a reduced percentage of fertile matings occurred when animals received 5 mg/kg.11
+Azathioprine has been reported to cause temporary depression in spermatogenesis and reduction in sperm viability and sperm count in mice at doses 10 times the human therapeutic dose;10 a reduced percentage of fertile matings occurred when animals received 5 mg/kg.
+11
 
 ## Pregnancy
 
@@ -67,7 +88,7 @@ Patients being started on azathioprine tablets should be informed of the necessi
 They should be informed of the danger of infection while receiving azathioprine tablets and asked to report signs and symptoms of infection to their physician.
 Careful dosage instructions should be given to the patient, especially when azathioprine tablets are being administered in the presence of impaired renal function or concomitantly with allopurinol (see Drug Interactionssubsection and DOSAGE AND ADMINISTRATION).
 Patients should be advised of the potential risks of the use of azathioprine tablets during pregnancy and during the nursing period.
-The increased risk of neoplasia following therapy with azathioprine tablets should be explained to the patient.
+The increased risk of malignancy following therapy with azathioprine tablets should be explained to the patient.
 
 ## Laboratory Tests
 
@@ -111,9 +132,16 @@ Use with Warfarin
 
 Azathioprine tablets may inhibit the anticoagulant effect of warfarin.
 
+Use with ribavirin
+
+The use of ribavirin for hepatitis C in patients receiving azathioprine has been reported to induce severe pancytopenia and may increase the risk of azathioprine-related myelotoxicity.
+Inosine monophosphate dehydrogenase (IMDH) is required for one of the metabolic pathways of azathioprine.
+Ribavirin is known to inhibit IMDH, thereby leading to accumulation of an azathioprine metabolite, 6-methylthioionosine monophosphate (6MTITP), which is associated with myelotoxicity (neutropenia, thrombocytopenia, and anemia).
+Patients receiving azathioprine with ribavirin should have complete blood counts, including platelet counts, monitored weekly for the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage or other therapy changes are necessary.
+
 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-See WARNINGSsection.
+See WARNINGS section.
 
 ## Pregnancy:
 

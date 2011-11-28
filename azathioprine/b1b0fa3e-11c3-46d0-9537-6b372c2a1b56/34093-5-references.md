@@ -98,3 +98,5 @@
     1990; 47:1033-1049.
 31. Yodaiken RE, Bennett D. OSHA Work-Practice guidelines for personnel dealing with cytotoxic (antineoplastic) drugs.
     Am J Hosp Pharm, 1996; 43:1193-1204.
+
+*ZYLOPRIM® is registered trademarks of Prometheus Laboratories Inc.
