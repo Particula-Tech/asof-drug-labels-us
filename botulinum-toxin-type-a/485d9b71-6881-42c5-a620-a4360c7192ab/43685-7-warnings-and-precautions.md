@@ -24,6 +24,15 @@ No definitive serious adverse event reports of distant spread of toxin effect as
 
 No definitive serious adverse event reports of distant spread of toxin effect associated with BOTOX® for blepharospasm at the recommended dose (30 Units and below) or for strabismus at the labeled doses have been reported.
 
+## Injections In or Near Vulnerable Anatomic Structures
+
+Care should be taken when injecting in or near vulnerable anatomic structures.
+Serious adverse events including fatal outcomes have been reported in patients who had received BOTOX® injected directly into salivary glands, the oro-lingual-pharyngeal region, esophagus and stomach.
+Some patients had pre-existing dysphagia or significant debility.
+(Safety and effectiveness have not been established for indications pertaining to these injection sites.)
+Pneumothorax associated with injection procedure has been reported following the administration of BOTOX® near the thorax.
+Caution is warranted when injecting in proximity to the lung, particularly the apices.
+
 ## Hypersensitivity Reactions
 
 Serious and/or immediate hypersensitivity reactions have been reported.
@@ -69,7 +78,7 @@ No cases of transmission of viral diseases or CJD have ever been identified for 
 # PRECAUTIONS
 
 The safe and effective use of BOTOX® Cosmetic depends upon proper storage of the product, selection of the correct dose, and proper reconstitution and administration techniques.
-Physicians administering BOTOX® Cosmetic must understand the relevant neuromuscular and/or orbital anatomy of the area involved, as well as any alterations to the anatomy due to prior surgical procedures and avoid injection into vulnerable anatomic areas.
+Physicians administering BOTOX® Cosmetic must understand the relevant neuromuscular and/or orbital anatomy of the area involved, as well as any alterations to the anatomy due to prior surgical procedures (see WARNINGS).
 
 Caution should be used when BOTOX® Cosmetic treatment is used in the presence of inflammation at the proposed injection site(s) or when excessive weakness or atrophy is present in the target muscle(s).
 
