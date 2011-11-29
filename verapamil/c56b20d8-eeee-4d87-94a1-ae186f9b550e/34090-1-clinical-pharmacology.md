@@ -156,7 +156,7 @@ Verapamil reduces afterload and myocardial contractility.
 In most patients, including those with organic cardiac disease, the negative inotropic action of verapamil is countered by reduction of afterload and cardiac index remains unchanged.
 During isometric or dynamic exercise, verapamil does not alter systolic cardiac function in patients with normal ventricular function.
 Improved left ventricular diastolic function in patients with Idiopathic Hypertrophic Subaortic Stenosis (IHSS) and those with coronary heart disease has also been observed with verapamil.
-In patients with severe left ventricular dysfunction (eg, pulmonary wedge pressure above 20 mm Hg or ejection fraction less than 30%), or in patients taking beta-adrenergic blocking agents or other cardiodepressant drugs, deterioration of ventricular function may occur (see PRECAUTIONS, Drug interactions).
+In patients with severe left ventricular dysfunction (e.g., pulmonary wedge pressure above 20 mm Hg or ejection fraction less than 30%), or in patients taking beta-adrenergic blocking agents or other cardiodepressant drugs, deterioration of ventricular function may occur (see PRECAUTIONS, Drug interactions).
 
 ## Pulmonary function
 

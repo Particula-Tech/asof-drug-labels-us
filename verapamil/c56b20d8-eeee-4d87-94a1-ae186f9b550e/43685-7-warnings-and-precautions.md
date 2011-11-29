@@ -4,7 +4,7 @@
 
 Verapamil has a negative inotropic effect, which in most patients is compensated by its afterload reduction (decreased systemic vascular resistance) properties without a net impairment of ventricular performance.
 In previous clinical experience with 4,954 patients primarily with immediate-release verapamil, 1.8% developed congestive heart failure or pulmonary edema.
-Verapamil should be avoided in patients with severe left ventricular dysfunction (eg, ejection fraction less than 30%) or moderate to severe symptoms of cardiac failure and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker (see PRECAUTIONS, Drug interactions).
+Verapamil should be avoided in patients with severe left ventricular dysfunction (e.g., ejection fraction less than 30%) or moderate to severe symptoms of cardiac failure and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker (see PRECAUTIONS, Drug interactions).
 Patients with milder ventricular dysfunction should, if possible, be controlled with optimum doses of digitalis and/or diuretics before verapamil treatment is started.
 (Note interactions with digoxin under PRECAUTIONS.)
 
@@ -85,7 +85,16 @@ The patient should not be concerned if they occasionally observe this outer shel
 ### Drug interactions: Effects of other drugs on verapamil pharmacokinetics
 
 In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450 CYP3A4, CYP1A2, and CYP2C.
-Clinically significant interactions have been reported with inhibitors of CYP3A4 (eg, erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (eg, rifampin) have caused a lowering of plasma levels of verapamil.
+Clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g., erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil.
+
+### HMG-CoA reductase inhibitors
+
+The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.
+
+Co-administration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone.
+Limit the dose of simvastatin in patients on verapamil to 10 mg daily.
+Limit the daily dose of lovastatin to 40 mg.
+Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.
 
 ### Alcohol
 
@@ -93,7 +102,7 @@ Verapamil may increase blood alcohol concentrations and prolong its effects.
 
 ### Aspirin
 
-In a few reported cases, coadministration of verapamil with aspirin has led to increased bleeding times greater than observed with aspirin alone.
+In a few reported cases, co-administration of verapamil with aspirin has led to increased bleeding times greater than observed with aspirin alone.
 
 ### Grapefruit juice
 
@@ -131,7 +140,7 @@ In previous clinical trials with other verapamil formulations related to the con
 
 ### Antihypertensive agents
 
-Verapamil administered concomitantly with oral antihypertensive agents (eg, vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta-blockers) will usually have an additive effect on lowering blood pressure.
+Verapamil administered concomitantly with oral antihypertensive agents (e.g., vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta-blockers) will usually have an additive effect on lowering blood pressure.
 Patients receiving these combinations should be appropriately monitored.
 Concomitant use of agents that attenuate alpha-adrenergic function with verapamil may result in a reduction in blood pressure that is excessive in some patients.
 Such an effect was observed in one study following the concomitant administration of verapamil and prazosin.
@@ -186,9 +195,9 @@ Therapy with rifampin may markedly reduce oral verapamil bioavailability.
 
 Phenobarbital therapy may increase verapamil clearance.
 
-#### Cyclosporin
+#### Cyclosporine
 
-Verapamil therapy may increase serum levels of cyclosporin.
+Verapamil therapy may increase serum levels of cyclosporine.
 
 #### Theophylline
 

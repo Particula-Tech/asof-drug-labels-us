@@ -57,7 +57,7 @@ Other: allergy aggravated, dyspnea.
 ## Treatment of acute cardiovascular adverse reactions
 
 The frequency of cardiovascular adverse reactions that require therapy is rare; hence, experience with their treatment is limited.
-Whenever severe hypotension or complete AV block occurs following oral administration of verapamil, the appropriate emergency measures should be applied immediately; eg, intravenously administered norepinephrine bitartrate, atropine sulfate, isoproterenol HCl (all in usual doses), or calcium gluconate (10% solution).
+Whenever severe hypotension or complete AV block occurs following oral administration of verapamil, the appropriate emergency measures should be applied immediately; e.g., intravenously administered norepinephrine bitartrate, atropine sulfate, isoproterenol HCl (all in usual doses), or calcium gluconate (10% solution).
 In patients with hypertrophic cardiomyopathy (IHSS), alpha-adrenergic agents (phenylephrine HCl, metaraminol bitartrate, or methoxamine HCl) should be used to maintain blood pressure, and isoproterenol and norepinephrine should be avoided.
 If further support is necessary, dopamine HCl or dobutamine HCl may be administered.
 Actual treatment and dosage should depend on the severity of the clinical situation and the judgement and experience of the treating physician.
