@@ -26,10 +26,9 @@ Therefore, ALIMTA should not be administered to patients whose creatinine cleara
 
 One patient with severe renal impairment (creatinine clearance 19 mL/min) who did not receive folic acid and vitamin B12 died of drug-related toxicity following administration of ALIMTA alone.
 
-## 5.4 Use with Non-Steroidal Anti-Inflammatory Drugs with Mild to Moderate Renal Insufficiency
+## 5.4 Use with Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) with Mild to Moderate Renal Insufficiency
 
-Caution should be used when administering ibuprofen concurrently with ALIMTA to patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 mL/min).
-Other NSAIDs should also be used with caution [see Drug Interactions (7.1)].
+Caution should be used when administering NSAIDs concurrently with ALIMTA to patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 mL/min) [see Drug Interactions (7.1)].
 
 ## 5.5 Required Laboratory Monitoring
 
@@ -42,8 +41,3 @@ Pemetrexed administered intraperitoneally to mice during organogenesis was embry
 If ALIMTA is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant.
 Women should be advised to use effective contraceptive measures to prevent pregnancy during treatment with ALIMTA [see Use in Specific Populations (8.1)].
-
-## 5.7 Third Space Fluid
-
-The effect of third space fluid, such as pleural effusion and ascites, on ALIMTA is unknown.
-In patients with clinically significant third space fluid, consideration should be given to draining the effusion prior to ALIMTA administration.

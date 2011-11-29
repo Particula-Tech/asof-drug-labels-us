@@ -46,6 +46,8 @@ The total systemic clearance of pemetrexed is 91.8 mL/min and the elimination ha
 
 The pharmacokinetics of pemetrexed in special populations were examined in about 400 patients in controlled and single arm studies.
 
+In vitro studies indicate that pemetrexed is a substrate of OAT3 (organic anion transporter 3), a transporter that may play a role in active secretion of pemetrexed.
+
 Effect of Age
 
 No effect of age on the pharmacokinetics of pemetrexed was observed over a range of 26 to 80 years.
@@ -69,6 +71,16 @@ Effect of Renal Insufficiency
 Pharmacokinetic analyses of pemetrexed included 127 patients with reduced renal function.
 Plasma clearance of pemetrexed decreases as renal function decreases, with a resultant increase in systemic exposure.
 Patients with creatinine clearances of 45, 50, and 80 mL/min had 65%, 54%, and 13% increases, respectively in pemetrexed total systemic exposure (AUC) compared to patients with creatinine clearance of 100 mL/min [see Warnings and Precautions (5.4) and Dosage and Administration (2.4)].
+
+Effect of Third Space Fluid
+
+The effect of third space fluid, such as pleural effusion and ascites, on ALIMTA is not fully defined.
+A study of ALIMTA 500 mg/m2 was performed in 31 solid tumor patients with stable third space fluid (All but 2 of the 31 patients included in study had mild or moderate amounts of third space fluid).
+Moderate pleural effusion was defined in the study as less than 1/3 the way up on one side with obscuring of the entire hemidiaphragm.
+Moderate ascites was defined as that detectable on physical exam.
+The pemetrexed plasma concentrations in these patients were comparable to those observed in previous clinical trials in patients without third space fluid collections.
+Thus, drainage of mild or moderate third space fluid collection prior to ALIMTA treatment should be considered, but is probably not necessary.
+The effect of severe third space fluid on pharmacokinetics is not known.
 
 Effect of Ibuprofen
 

@@ -106,9 +106,9 @@ The most common side effects of ALIMTA when given alone or in combination with c
   Talk to your doctor if this is a problem for you.
 - Rash.
   You may get a rash or itching during treatment.
-  These usually appear between treatments with ALIMTA and usually go away before the next treatment.
-  Rarely, these reactions may be severe (can lead to Stevens-Johnson Syndrome or Toxic epidermal necrolysis) and could lead to death.
-  Call your doctor if you get a severe rash, itching, or blistering.
+  These reactions usually appear between treatments with ALIMTA and usually go away before the next treatment.
+  Skin reactions or rashes that include blistering or peeling may be severe and could lead to death.
+  Call your doctor if you have any of these symptoms.
 
 Talk with your doctor, nurse or pharmacist about any side effect that bothers you or that doesn't go away.
 
@@ -125,10 +125,10 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ALIMTA that is written for health professionals.
 You can also call 1-800-LILLY-RX (1-800-545-5979) or visit www.ALIMTA.com.
 
-Patient information revised March 17, 2011
+Patient information revised November 2011
 
 Eli Lilly and Company Indianapolis, IN 46285, USA www.ALIMTA.com
 
 | Copyright © 2004, 2011, Eli Lilly and Company. All rights reserved. |  |
 | --- | --- |
-| PV 6754 AMP |  |
+| PV 6755 AMP |  |

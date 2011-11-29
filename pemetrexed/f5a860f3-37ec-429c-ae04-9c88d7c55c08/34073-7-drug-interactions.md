@@ -2,17 +2,14 @@
 
 ## 7.1 Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
-Ibuprofen
-
 Although ibuprofen (400 mg four times a day) can decrease the clearance of pemetrexed, it can be administered with ALIMTA in patients with normal renal function (creatinine clearance ≥80 mL/min).
-Caution should be used when administering ibuprofen concurrently with ALIMTA to patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 mL/min) [see Clinical Pharmacology (12.3)].
+No dose adjustment of ALIMTA is needed with concomitant NSAIDs in patients with normal renal function [see Clinical Pharmacology (12.3)].
 
-Other NSAIDs
+Caution should be used when administering NSAIDs concurrently with ALIMTA to patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 mL/min).
+NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of 2 days before, the day of, and 2 days following administration of ALIMTA.
 
-Patients with mild to moderate renal insufficiency should avoid taking NSAIDs with short elimination half-lives for a period of 2 days before, the day of, and 2 days following administration of ALIMTA.
-
-In the absence of data regarding potential interaction between ALIMTA and NSAIDs with longer half-lives, all patients taking these NSAIDs should interrupt dosing for at least 5 days before, the day of, and 2 days following ALIMTA administration.
-If concomitant administration of an NSAID is necessary, patients should be monitored closely for toxicity, especially myelosuppression, renal, and gastrointestinal toxicity.
+In the absence of data regarding potential interaction between ALIMTA and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least 5 days before, the day of, and 2 days following ALIMTA administration.
+If concomitant administration of NSAIDs is necessary, patients should be monitored closely for toxicity, especially myelosuppression, renal, and gastrointestinal toxicity.
 
 ## 7.2 Nephrotoxic Drugs
 

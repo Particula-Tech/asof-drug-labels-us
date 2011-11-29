@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling
+See FDA-Approved Patient Labeling (PPI)
 
 Patients should be instructed to read the patient package insert carefully.
 
