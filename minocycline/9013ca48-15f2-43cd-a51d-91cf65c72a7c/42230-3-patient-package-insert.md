@@ -19,7 +19,7 @@ Minocycline hydrochloride is not recommended for pregnant women or children up t
 
 1. Minocycline hydrochloride may harm an unborn baby
 2. Minocycline hydrochloride may permanently turn a baby's or child's teeth yellow-gray-brown during tooth development.
-   Tooth development happens in the last half of pregnancy and birth to age 8 year.
+   Tooth development happens in the last half of pregnancy and birth to age 8 years.
 
 What should I tell my doctor before starting minocycline hydrochloride capsules?
 Tell your doctor about all of your medical conditions, including if you:
@@ -32,7 +32,7 @@ Tell your doctor about all of your medical conditions, including if you:
   Minocycline hydrochloride passes into your milk and may harm your baby.
   You should decide whether to use minocycline hydrochloride or breastfeed, but not both.
 
-Tell your doctor about all the medicines you are taking including prescription and non prescription medications, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you are taking including prescription and non-prescription medications, vitamins, and herbal supplements.
 Minocycline hydrochloride and other medicines may interact.
 Especially tell your doctor if you take:
 
@@ -51,8 +51,8 @@ How should I take minocycline hydrochloride capsules?
 
 - Take minocycline hydrochloride capsules exactly as your doctor tells you to take them.
   Skipping doses or not taking all your minocycline hydrochloride may:
-
-Decrease the effectiveness of the treatment Increase the chance that bacteria will develop resistance to minocycline hydrochloride
+  - Decrease the effectiveness of the treatment
+  - Increase the chance that bacteria will develop resistance to minocycline hydrochloride
 
 - Take minocycline hydrochloride with a full glass of liquid.
   Taking minocycline hydrochloride with enough liquid may lower your chance of getting irritation or ulcers in your esophagus.
@@ -109,4 +109,4 @@ Active ingredient: minocycline hydrochloride 50 mg, 75 mg, and 100 mg Inactive i
 The empty hard gelatin capsule shells contain titanium dioxide, sodium lauryl sulfate, and gelatin.
 In addition, the 50 mg capsule shells contain FD&C Red #3, D&C Red #33, and FD&C Yellow #6; the 75 mg capsule shells contain black iron oxide; and the 100 mg capsule shells contain FD&C Blue #1, D&C Red #28, FD&C Red #40, and red iron oxide.
 The capsules are printed with edible ink containing shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, black iron oxide, and potassium hydroxide.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 09/2008
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 11/2011

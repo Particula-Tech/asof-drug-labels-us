@@ -19,7 +19,7 @@ In the treatment of meningococcal carrier state, the recommended dosage is 100 m
 Mycobacterium marinum infections : Although optimal doses have not been established, 100 mg every 12 hours for 6 to 8 weeks have been used successfully in a limited number of cases.
 Uncomplicated urethral, endocervical, or rectal infection in adults caused by Chlamydia trachomatis or Ureaplasma urealyticum: 100 mg orally, every 12 hours for at least 7 days.
 Ingestion of adequate amounts of fluids along with capsule and tablet forms of drugs in the tetracycline-class is recommended to reduce the risk of esophageal irritation and ulceration.
-The pharmacokinetics of minocycline in patients with renal impairment (CL CR (80 mL/min)) have not been fully characterized.
+The pharmacokinetics of minocycline in patients with renal impairment (CL CR <80 mL/min) have not been fully characterized.
 Current data are insufficient to determine if a dosage adjustment is warranted.
 The total daily dosage should not exceed 200 mg in 24 hours.
 However, due to the anti-anabolic effect of tetracyclines, BUN and creatinine should be monitored.

@@ -11,6 +11,8 @@ A decrease in the fibula growth rate has been observed in premature human infant
 This reaction was shown to be reversible when the drug was discontinued.
 Results of animal studies indicate that tetracyclines cross the placenta, are found in fetal tissues, and can have toxic effects on the developing fetus (often related to retardation of skeletal development).
 Evidence of embryotoxicity has been noted in animals treated early in pregnancy.
+Drug Rash with Eosinophilia and Systemic Symptoms (DRESS) including fatal cases have been reported with minocycline use.
+If this syndrome is recognized, the drug should be discontinued immediately.
 The anti-anabolic action of the tetracyclines may cause an increase in BUN.
 While this is not a problem in those with normal renal function, in patients with significantly impaired function, higher serum levels of tetracycline may lead to azotemia, hyperphosphatemia, and acidosis.
 Under such conditions, monitoring of creatinine and BUN is recommended, and the total daily dosage should not exceed 200 mg in 24 hours.
@@ -44,7 +46,7 @@ Hepatotoxicity has been reported with minocycline; therefore, minocycline should
 Incision and drainage or other surgical procedures should be performed in conjunction with antibiotic therapy when indicated.
 Prescribing minocycline hydrochloride capsules in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## Information for Patients
+## Information For Patients
 
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
@@ -99,7 +101,7 @@ Pregnancy Category D. (See WARNINGS .)
 All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
 There are no adequate and well-controlled studies on the use of minocycline in pregnant women.
 Minocycline, like other tetracycline-class antibiotics, crosses the placenta and may cause fetal harm when administered to a pregnant woman.
-Rare spontaneous reports of congenital anomalies including limb reduction have been reported in post-marketing experience.
+Rare spontaneous reports of congenital anomalies including limb reduction have been reported in postmarketing experience.
 Only limited information is available regarding these reports; therefore, no conclusion on causal association can be established.
 If minocycline is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
