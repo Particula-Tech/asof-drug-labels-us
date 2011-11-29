@@ -25,30 +25,35 @@ When NORVASC and sildenafil were used in combination, each agent independently e
 
 Co-administration of multiple 10 mg doses of NORVASC with 80 mg of atorvastatin resulted in no significant change in the steady-state pharmacokinetic parameters of atorvastatin.
 
-## 7.7 Digoxin
+## 7.7 Simvastatin
+
+Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone.
+Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
+
+## 7.8 Digoxin
 
 Co-administration of NORVASC with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.
 
-## 7.8 Ethanol (Alcohol)
+## 7.9 Ethanol (Alcohol)
 
 Single and multiple 10 mg doses of NORVASC had no significant effect on the pharmacokinetics of ethanol.
 
-## 7.9 Warfarin
+## 7.10 Warfarin
 
 Co-administration of NORVASC with warfarin did not change the warfarin prothrombin response time.
 
-## 7.10 CYP3A4 Inhibitors
+## 7.11 CYP3A4 Inhibitors
 
 Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
 Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
 However, strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, ritonavir) may increase the plasma concentrations of amlodipine to a greater extent.
 Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A4 inhibitors.
 
-## 7.11 CYP3A4 Inducers
+## 7.12 CYP3A4 Inducers
 
 No information is available on the quantitative effects of CYP3A4 inducers on amlodipine.
 Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A4 inducers.
 
-## 7.12 Drug/Laboratory Test Interactions
+## 7.13 Drug/Laboratory Test Interactions
 
 None known.
