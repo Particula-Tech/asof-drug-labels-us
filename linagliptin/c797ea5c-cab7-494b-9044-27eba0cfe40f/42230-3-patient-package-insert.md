@@ -53,7 +53,7 @@ How should I take TRADJENTA?
   Do not take two doses of TRADJENTA at the same time.
 - Your doctor may tell you to take TRADJENTA along with other diabetes medicines.
   Low blood sugar can happen more often when TRADJENTA is taken with certain other diabetes medicines.
-  See “What are the possible side effects of TRADJENTA?”
+  See "What are the possible side effects of TRADJENTA?"
 - If you take too much TRADJENTA, call your doctor or Poison Control Center at 1-800-222-1222 or go to the nearest hospital emergency room right away.
 - When your body is under some types of stress, such as fever, trauma (such as a car accident), infection, or surgery, the amount of diabetes medicine that you need may change.
   Tell your doctor right away if you have any of these conditions and follow your doctor's instructions.
