@@ -73,6 +73,16 @@ These complications have varied in severity; while in some cases symptoms have b
 
 Haloperidol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
+Rodents given 2 to 20 times the usual maximum human dose of haloperidol by oral or parenteral routes showed an increase in incidence of resorption, reduced fertility, delayed delivery and pup mortality.
+No teratogenic effect has been reported in rats, rabbits or dogs at dosages within this range, but cleft palate has been observed in mice given 15 times the usual maximum human does.
+Cleft palate in mice appears to be a nonspecific response to stress or nutritional imbalance as well as to a variety of drugs, and there is no evidence to relate this phenomenon to predictable human risk for most of these agents.
+
+There are no well controlled studies with haloperidol in pregnant women.
+There are reports, however, of cases of limb malformations observed following maternal use of haloperidol along with other drugs which have suspected teratogenic potential during the first trimester of pregnancy.
+Causal relationships were not established in these cases.
+Since such experience does not exclude the possibility of fetal damage due to haloperidol, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus.
+Infants should not be nursed during drug treatment.
+
 ## Combined Use of Haloperidol and Lithium
 
 An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN, and FBS) followed by irreversible brain damage has occurred in a few patients treated with lithium plus haloperidol.
@@ -92,6 +102,17 @@ The ambulatory patient should be warned accordingly.
 The use of alcohol with this drug should be avoided due to possible additive effects and hypotension.
 
 # PRECAUTIONS
+
+## Leukopenia, Neutropenia and Agranulocytosis
+
+In clinical trial and post-marketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including haloperidol.
+Agranulocytosis (including fatal cases) has also been reported.
+
+Possible risk factors for leukopenia/neutropenia include preexisting low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia.
+Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue haloperidol at the first sign of a decline in WBC in the absence of other causative factors.
+
+Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
+Patients with severe neutropenia (absolute neutrophil count < 1,000/mm3) should discontinue haloperidol and have their WBC followed until recovery.
 
 Haloperidol should be administered cautiously to patients:
 
@@ -153,14 +174,3 @@ Clinical studies of haloperidol did not include sufficient numbers of subjects a
 Other reported clinical experience has not consistently identified differences in responses between the elderly and younger patients.
 However, the prevalence of tardive dyskinesia appears to be highest among the elderly, especially elderly women (see WARNINGS: Tardive Dyskinesia).
 Also, the pharmacokinetics of haloperidol in geriatric patients generally warrants the use of lower doses (see DOSAGE AND ADMINISTRATION).
-
-## Leukopenia, Neutropenia and Agranulocytosis
-
-In clinical trial and post-marketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including haloperidol.
-Agranulocytosis (including fatal cases) has also been reported.
-
-Possible risk factors for leukopenia/neutropenia including preexisting low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia.
-Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue haloperidol at the first sign of a decline in WBC in the absence of other causative factors.
-
-Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count < 1,000/mm3) should discontinue haloperidol and have their WBC followed until recovery.
