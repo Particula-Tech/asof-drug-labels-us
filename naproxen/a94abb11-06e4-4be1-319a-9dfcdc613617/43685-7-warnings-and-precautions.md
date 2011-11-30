@@ -163,10 +163,10 @@ In addition, cases of severe hepatic reactions, including jaundice and fatal ful
 A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with TREXIMET.
 If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash), TREXIMET should be discontinued.
 
-## Overuse
-
-Overuse of acute migraine treatments has been associated with the exacerbation of headache (medication overuse headache) in susceptible patients.
-Withdrawal of the treatment may be necessary.
+Overuse of acute migraine drugs (e.g., ergotamine, triptans, opioids, or a combination of drugs for 10 or more days per month) may lead to exacerbation of headache (medication overuse headache).
+Medication overuse headache may present as migraine-like daily headaches, or as a marked increase in frequency of migraine attacks.
+Detoxification of patients, including withdrawal of the overused drugs, and treatment of withdrawal symptoms (which often includes a transient worsening of headache) may be necessary.
+Migraine patients should be informed about the risks of medication overuse, and encouraged to record headache frequency and drug use.
 
 ## Binding to Melanin-Containing Tissues
 

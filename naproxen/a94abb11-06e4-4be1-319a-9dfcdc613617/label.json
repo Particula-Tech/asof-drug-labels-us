@@ -6,12 +6,13 @@
   "labeler": "GlaxoSmithKline LLC",
   "package_ndcs": [
     "0173-0750-00",
+    "0173-0750-03",
     "0173-0750-61"
   ],
   "products": [
     {
       "form": "TABLET, FILM COATED",
-      "generic": "sumatriptan succinate and naproxen sodium",
+      "generic": "sumatriptan and naproxen sodium",
       "name": "TREXIMET"
     }
   ],
