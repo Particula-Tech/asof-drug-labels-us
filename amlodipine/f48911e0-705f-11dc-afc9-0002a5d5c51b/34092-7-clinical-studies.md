@@ -37,6 +37,8 @@ Upon completing the 8-week, double-blind, placebo-controlled study, 1684 patient
 During the open-label extension, patients whose blood pressure was not adequately controlled (i.e., did not achieve a blood pressure goal of <140/90 mmHg, or <130/80 mmHg for those patients with diabetes) on amlodipine/olmesartan medoxomil 5/40 mg were titrated to amlodipine/olmesartan medoxomil 10/40 mg.
 Patients whose blood pressure was still not adequately controlled were offered additional hydrochlorothiazide 12.5 mg and subsequently 25 mg as required to achieve adequate blood pressure goal.
 
+There are no trials of Azor demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.
+
 ## 14.2 Amlodipine
 
 The antihypertensive efficacy of amlodipine has been demonstrated in a total of 15 double-blind, placebo-controlled, randomized studies involving 800 patients on amlodipine and 538 on placebo.

@@ -24,16 +24,12 @@ Atorvastatin: Co-administration of multiple 10 mg doses of amlodipine with 80 mg
 Digoxin: Co-administration of amlodipine with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.
 Ethanol (alcohol): Single and multiple 10 mg doses of amlodipine had no significant effect on the pharmacokinetics of ethanol.
 Warfarin: Co-administration of amlodipine with warfarin did not change the warfarin prothrombin response time.
+Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone.
+Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
 
 In clinical trials, amlodipine has been safely administered with thiazide diuretics, beta-blockers, angiotensin-converting enzyme inhibitors, long-acting nitrates, sublingual nitroglycerin, digoxin, warfarin, non-steroidal anti-inflammatory drugs, antibiotics, and oral hypoglycemic drugs.
 
 ## 7.3 Drug Interactions with Olmesartan Medoxomil
-
-No significant drug interactions were reported in studies in which olmesartan medoxomil was co-administered with digoxin or warfarin in healthy volunteers.
-
-The bioavailability of olmesartan medoxomil was not significantly altered by the co-administration of antacids [Al(OH)3/Mg(OH)2].
-
-Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; thus, interactions with drugs that inhibit, induce, or are metabolized by those enzymes are not expected.
 
 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
@@ -42,3 +38,9 @@ These effects are usually reversible.
 Monitor renal function periodically in patients receiving olmesartan medoxomil and NSAID therapy.
 
 The antihypertensive effect of angiotensin II receptor antagonists, including olmesartan medoxomil may be attenuated by NSAIDs including selective COX-2 inhibitors.
+
+No significant drug interactions were reported in studies in which olmesartan medoxomil was co-administered with digoxin or warfarin in healthy volunteers.
+
+The bioavailability of olmesartan medoxomil was not significantly altered by the co-administration of antacids [Al(OH)3/Mg(OH)2].
+
+Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; thus, interactions with drugs that inhibit, induce, or are metabolized by those enzymes are not expected.

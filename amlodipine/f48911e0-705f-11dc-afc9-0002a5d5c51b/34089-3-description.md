@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Azor is a combination of the calcium channel receptor blocker (CCB) amlodipine besylate and the angiotensin II receptor blocker (ARB) olmesartan medoxomil.
+Azor provided as a tablet for oral administration, is a combination of the calcium channel blocker (CCB) amlodipine besylate and the angiotensin II receptor blocker (ARB) olmesartan medoxomil.
 
 The amlodipine besylate component of Azor is chemically described as 3-ethyl-5-methyl (±)-2-[(2-aminoethoxy)methyl]-4-(2-chlorophenyl)-1,4-dihydro-6-methyl-3,5-pyridinedicarboxylate, monobenzenesulphonate.
 Its empirical formula is C20H25CIN2O5•C6H6O3S.

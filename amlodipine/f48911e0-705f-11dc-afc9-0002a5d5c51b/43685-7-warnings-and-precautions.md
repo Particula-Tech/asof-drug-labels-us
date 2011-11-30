@@ -53,7 +53,6 @@ The mechanism of this effect has not been elucidated.
 ## 5.5 Patients with Congestive Heart Failure
 
 Amlodipine.
-In general, calcium channel blockers should be used with caution in patients with heart failure.
 Amlodipine (5-10 mg per day) has been studied in a placebo-controlled trial of 1153 patients with NYHA Class III or IV heart failure on stable doses of ACE inhibitor, digoxin, and diuretics.
 Follow-up was at least 6 months, with a mean of about 14 months.
 There was no overall adverse effect on survival or cardiac morbidity (as defined by life-threatening arrhythmia, acute myocardial infarction, or hospitalization for worsened heart failure).
