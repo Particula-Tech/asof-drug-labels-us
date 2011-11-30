@@ -18,21 +18,6 @@ Rx only
 
 2 Single-Dose Syringe Cartridges
 
-TAMPER-EVIDENT SEAL
-
-Each syringe cartridge contains 0.5 mL of solution containing 4 mg of sumatriptan (as the succinate salt) and 3.8 mg of sodium chloride.
-
-Sterile, nonpyrogenic.
-
-Store between 2o and 30oC (36o and 86oF).
-Protect from light.
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Made in Singapore
-
 10000000054701 Rev.
 4/08
 
@@ -55,21 +40,6 @@ For subcutaneous injection only.
 Rx only
 
 2 Single-Dose Syringe Cartridges
-
-TAMPER-EVIDENT SEAL
-
-Each syringe cartridge contains 0.5 mL of solution containing 6 mg of sumatriptan (as the succinate salt) and 3.5 mg of sodium chloride.
-
-Sterile, nonpyrogenic.
-
-Store between 2o and 30oC (36o and 86oF).
-Protect from light.
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Made in Singapore
 
 10000000054708 Rev.
 4/08
@@ -97,22 +67,9 @@ Discard unused portion.
 
 Rx only
 
-Each 0.5 mL of solution contains 6mg of sumatriptan (as the succinate salt) and 3.5 mg of sodium chloride.
-
-Sterile, nonpyrogenic.
-
-See prescribing information for dosage information.
-
-Store between 2o and 30oC (36o and 86oF).
-Protect from light.
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Made in Singapore
-
 ©2008, GlaxoSmithKline
+
+10000000054384
 
 # Principal Display Panel
 
@@ -140,3 +97,7 @@ Injection
 - Prescribing Information
 
 Rx only
+
+©2008, GlaxoSmithKline
+
+10000000054710

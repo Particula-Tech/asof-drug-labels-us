@@ -36,51 +36,33 @@ The effect of sumatriptan on the protein binding of other drugs has not been eva
 
 ## Special Populations
 
-### Renal Impairment
+Renal Impairment: The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined, but little clinical effect would be expected as sumatriptan is largely metabolized to an inactive substance.
 
-The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined, but little clinical effect would be expected as sumatriptan is largely metabolized to an inactive substance.
-
-### Hepatic Impairment
-
-The effect of hepatic disease on the pharmacokinetics of subcutaneously and orally administered sumatriptan has been evaluated.
+Hepatic Impairment: The effect of hepatic disease on the pharmacokinetics of subcutaneously and orally administered sumatriptan has been evaluated.
 There were no statistically significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in hepatically impaired patients compared with healthy controls.
 However, the liver plays an important role in the presystemic clearance of orally administered sumatriptan.
 Accordingly, the bioavailability of sumatriptan following oral administration may be markedly increased in patients with liver disease.
 In 1 small study of hepatically impaired patients (N = 8) matched for sex, age, and weight with healthy subjects, the hepatically impaired patients had an approximately 70% increase in AUC and Cmax and a Tmax 40 minutes earlier compared with the healthy subjects.
 
-### Age
+Age: The pharmacokinetics of sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in patients with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years) (see PRECAUTIONS: Geriatric Use).
 
-The pharmacokinetics of sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in patients with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years) (see PRECAUTIONS: Geriatric Use).
-
-### Race
-
-The systemic clearance and Cmax of sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.
+Race: The systemic clearance and Cmax of sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.
 
 ## Drug Interactions
 
-### Monoamine Oxidase Inhibitors
-
-In vitro studies with human microsomes suggest that sumatriptan is metabolized by monoamine oxidase (MAO), predominantly the A isoenzyme.
+Monoamine Oxidase Inhibitors: In vitro studies with human microsomes suggest that sumatriptan is metabolized by monoamine oxidase (MAO), predominantly the A isoenzyme.
 In a study of 14 healthy females, pretreatment with MAO-A inhibitor decreased the clearance of sumatriptan.
 Under the conditions of this experiment, the result was a 2-fold increase in the area under the sumatriptan plasma concentration x time curve (AUC), corresponding to a 40% increase in elimination half-life.
 No significant effect was seen with an MAO-B inhibitor.
 
 ## Pharmacodynamics
 
-### Typical Physiologic Responses
+Typical Physiologic Responses:
 
-#### Blood Pressure
+Blood Pressure: See WARNINGS: Increase in Blood Pressure.
 
-See WARNINGS: Increase in Blood Pressure.
+Peripheral (Small) Arteries: In healthy volunteers (N = 18), a study evaluating the effects of sumatriptan on peripheral (small vessel) arterial reactivity failed to detect a clinically significant increase in peripheral resistance.
 
-#### Peripheral (Small) Arteries
+Heart Rate: Transient increases in blood pressure observed in some patients in clinical studies carried out during sumatriptan’s development as a treatment for migraine were not accompanied by any clinically significant changes in heart rate.
 
-In healthy volunteers (N = 18), a study evaluating the effects of sumatriptan on peripheral (small vessel) arterial reactivity failed to detect a clinically significant increase in peripheral resistance.
-
-#### Heart Rate
-
-Transient increases in blood pressure observed in some patients in clinical studies carried out during sumatriptan’s development as a treatment for migraine were not accompanied by any clinically significant changes in heart rate.
-
-#### Respiratory Rate
-
-Experience gained during the clinical development of sumatriptan as a treatment for migraine failed to detect an effect of the drug on respiratory rate.
+Respiratory Rate: Experience gained during the clinical development of sumatriptan as a treatment for migraine failed to detect an effect of the drug on respiratory rate.

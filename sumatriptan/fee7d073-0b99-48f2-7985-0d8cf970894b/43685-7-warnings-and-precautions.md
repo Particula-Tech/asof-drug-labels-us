@@ -26,9 +26,7 @@ Considering the extent of use of sumatriptan in patients with migraine, the inci
 The fact that sumatriptan can cause coronary vasospasm, that some of these events have occurred in patients with no prior cardiac disease history and with documented absence of CAD, and the close proximity of the events to sumatriptan use support the conclusion that some of these cases were caused by the drug.
 In many cases, however, where there has been known underlying CAD, the relationship is uncertain.
 
-### Premarketing Experience With Sumatriptan
-
-Among the more than 1,900 patients with migraine who participated in premarketing controlled clinical trials of subcutaneous sumatriptan, there were 8 patients who sustained clinical events during or shortly after receiving sumatriptan that may have reflected coronary artery vasospasm.
+Premarketing Experience With Sumatriptan: Among the more than 1,900 patients with migraine who participated in premarketing controlled clinical trials of subcutaneous sumatriptan, there were 8 patients who sustained clinical events during or shortly after receiving sumatriptan that may have reflected coronary artery vasospasm.
 Six of these 8 patients had ECG changes consistent with transient ischemia, but without accompanying clinical symptoms or signs.
 Of these 8 patients, 4 had either findings suggestive of CAD or risk factors predictive of CAD prior to study enrollment.
 
@@ -37,9 +35,7 @@ Neither of these adverse events was associated with a serious clinical outcome.
 
 Among approximately 4,000 patients with migraine who participated in premarketing controlled and uncontrolled clinical trials of sumatriptan nasal spray, 1 patient experienced an asymptomatic subendocardial infarction possibly subsequent to a coronary vasospastic event.
 
-### Postmarketing Experience With Sumatriptan
-
-Serious cardiovascular events, some resulting in death, have been reported in association with the use of IMITREX Injection or IMITREX Tablets.
+Postmarketing Experience With Sumatriptan: Serious cardiovascular events, some resulting in death, have been reported in association with the use of IMITREX Injection or IMITREX Tablets.
 The uncontrolled nature of postmarketing surveillance, however, makes it impossible to determine definitively the proportion of the reported cases that were actually caused by sumatriptan or to reliably assess causation in individual cases.
 On clinical grounds, the longer the latency between the administration of IMITREX and the onset of the clinical event, the less likely the association is to be causative.
 Accordingly, interest has focused on events beginning within 1 hour of the administration of IMITREX.
@@ -143,24 +139,16 @@ No specific laboratory tests are recommended for monitoring patients prior to an
 
 ## Drug Interactions
 
-### Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome
+Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome: Cases of life-threatening serotonin syndrome have been reported during combined use of SSRIs or SNRIs and triptans (see WARNINGS).
 
-Cases of life-threatening serotonin syndrome have been reported during combined use of SSRIs or SNRIs and triptans (see WARNINGS).
-
-### Migraine Prophylactic Medications
-
-There is no evidence that concomitant use of migraine prophylactic medications has any effect on the efficacy of sumatriptan.
+Migraine Prophylactic Medications: There is no evidence that concomitant use of migraine prophylactic medications has any effect on the efficacy of sumatriptan.
 In 2 Phase III trials in the US, a retrospective analysis of 282 patients who had been using prophylactic drugs (verapamil n = 63, amitriptyline n = 57, propranolol n = 94, for 45 other drugs n = 123) were compared with those who had not used prophylaxis (N = 452).
 There were no differences in relief rates at 60 minutes postdose for IMITREX Injection, whether or not prophylactic medications were used.
 
-### Ergot-Containing Drugs
-
-Ergot-containing drugs have been reported to cause prolonged vasospastic reactions.
+Ergot-Containing Drugs: Ergot-containing drugs have been reported to cause prolonged vasospastic reactions.
 Because there is a theoretical basis that these effects may be additive, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) and sumatriptan within 24 hours of each other should be avoided (see CONTRAINDICATIONS).
 
-### Monoamine Oxidase-A Inhibitors
-
-MAO-A inhibitors reduce sumatriptan clearance, significantly increasing systemic exposure.
+Monoamine Oxidase-A Inhibitors: MAO-A inhibitors reduce sumatriptan clearance, significantly increasing systemic exposure.
 Therefore, the use of sumatriptan in patients receiving MAO-A inhibitors is not ordinarily recommended.
 If the clinical situation warrants the combined use of sumatriptan and an MAOI, the dose of sumatriptan employed should be reduced (see CLINICAL PHARMACOLOGY: Drug Interactions: Monoamine Oxidase Inhibitors and WARNINGS: Concomitant Drug Use).
 
@@ -191,26 +179,20 @@ IMITREX Injection should be used during pregnancy only if the potential benefit 
 
 In assessing this information, the following additional findings should be considered.
 
-### Embryolethality
-
-When given intravenously to pregnant rabbits daily throughout the period of organogenesis, sumatriptan caused embryolethality at doses at or close to those producing maternal toxicity.
+Embryolethality: When given intravenously to pregnant rabbits daily throughout the period of organogenesis, sumatriptan caused embryolethality at doses at or close to those producing maternal toxicity.
 The mechanism of the embryolethality is not known.
 These doses were approximately equivalent to the maximum single human dose of 6 mg on a mg/m2 basis.
 
 The intravenous administration of sumatriptan to pregnant rats throughout organogenesis at doses that are approximately 20 times a human dose of 6 mg on a mg/m2 basis, did not cause embryolethality.
 Additionally, in a study of pregnant rats given subcutaneous sumatriptan daily prior to and throughout pregnancy, there was no evidence of increased embryo/fetal lethality.
 
-### Teratogenicity
-
-Term fetuses from Dutch Stride rabbits treated during organogenesis with oral sumatriptan exhibited an increased incidence of cervicothoracic vascular and skeletal abnormalities.
+Teratogenicity: Term fetuses from Dutch Stride rabbits treated during organogenesis with oral sumatriptan exhibited an increased incidence of cervicothoracic vascular and skeletal abnormalities.
 The functional significance of these abnormalities is not known.
 The highest no-effect dose for these effects was 15 mg/kg/day, approximately 50 times the maximum single dose of 6 mg on a mg/m2 basis.
 
 In a study in rats dosed daily with subcutaneous sumatriptan prior to and throughout pregnancy, there was no evidence of teratogenicity.
 
-### Pregnancy Registry
-
-To monitor fetal outcomes of pregnant women exposed to IMITREX, GlaxoSmithKline maintains a Sumatriptan Pregnancy Registry.
+Pregnancy Registry: To monitor fetal outcomes of pregnant women exposed to IMITREX, GlaxoSmithKline maintains a Sumatriptan Pregnancy Registry.
 Physicians are encouraged to register patients by calling (800) 336-2176.
 
 ## Nursing Mothers
