@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA020607"
+  ],
+  "inn": "misoprostol",
+  "labeler": "Greenstone LLC",
+  "package_ndcs": [
+    "59762-0028-1",
+    "59762-0028-2",
+    "59762-0028-4",
+    "59762-0029-1",
+    "59762-0029-3"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "diclofenac sodium and misoprostol",
+      "name": "Diclofenac sodium and Misoprostol"
+    }
+  ],
+  "setid": "a7701e8c-4e16-4165-8b83-de2c08d5ded3",
+  "source": "dailymed"
+}
