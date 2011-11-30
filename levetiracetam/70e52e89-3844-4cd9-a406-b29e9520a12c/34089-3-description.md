@@ -1,0 +1,22 @@
+# 11 DESCRIPTION
+
+Levetiracetam in Sodium Chloride Injection is an antiepileptic drug available as a clear, colorless, sterile solution for intravenous administration.
+
+The chemical name of levetiracetam, a single enantiomer, is (-)-(S)-α-ethyl-2-oxo-1-pyrrolidine acetamide, its molecular formula is C8H14N2O2 and its molecular weight is 170.21.
+
+Levetiracetam is chemically unrelated to existing antiepileptic drugs (AEDs).
+It has the following structural formula:
+
+Levetiracetam is a white to off-white crystalline powder with a faint odor and a bitter taste.
+It is very soluble in water (104.0 g/100 mL).
+It is freely soluble in chloroform (65.3 g/100 mL) and in methanol (53.6 g/100 mL), soluble in ethanol (16.5 g/100 mL), sparingly soluble in acetonitrile (5.7 g/100 mL) and practically insoluble in n-hexane.
+(Solubility limits are expressed as g/100 mL solvent.)
+
+Levetiracetam in Sodium Chloride Injection is a clear, colorless, sterile solution that is available in a single-use100 mL dual port bag with an aluminum over wrap.
+The container closure is not made with natural rubber latex.
+
+500 mg: One 100 mL bag contains 500 mg of levetiracetam (5 mg/mL), water for injection, 820 mg sodium chloride, 5.5 mg of glacial acetic acid and buffered at approximately pH 5.5 with glacial acetic acid and 164 mg sodium acetate trihydrate.
+
+1000 mg: One 100 mL bag contains 1000 mg of levetiracetam (10 mg/mL), water for injection, 750 mg sodium chloride, 6.5 mg of glacial acetic acid and buffered at approximately pH 5.5 with glacial acetic acid and 164 mg sodium acetate trihydrate.
+
+1500 mg: One 100 mL bag contains 1500 mg of levetiracetam (15 mg/mL), water for injection, 540 mg sodium chloride, 7.5 mg of glacial acetic acid and buffered at approximately pH 5.5 with glacial acetic acid and 164 mg sodium acetate trihydrate.

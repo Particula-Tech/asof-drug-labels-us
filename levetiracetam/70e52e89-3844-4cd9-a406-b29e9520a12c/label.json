@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA202543"
+  ],
+  "inn": "levetiracetam",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-255-00",
+    "67457-255-10",
+    "67457-265-00",
+    "67457-265-10",
+    "67457-266-00",
+    "67457-266-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "levetiracetam",
+      "name": "Levetiracetam"
+    }
+  ],
+  "setid": "70e52e89-3844-4cd9-a406-b29e9520a12c",
+  "source": "dailymed"
+}
