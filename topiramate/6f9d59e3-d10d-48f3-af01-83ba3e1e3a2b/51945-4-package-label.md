@@ -1,25 +1,17 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-15 mg Label Text
-
-NDC 68382-004-14 in bottle of 60 Capsules
+NDC 65841-651-14 in bottle of 60 capsules
 
 Topiramate Capsules (Sprinkle), 15 mg
 
 Rx only
 
-60 CAPSULES
+60 capsules
 
-ZYDUS
-
-25 mg Label Text
-
-NDC 68382-005-14 in bottle of 60 Capsules
+NDC 65841-652-14 in bottle of 60 capsules
 
 Topiramate Capsules (Sprinkle), 25 mg
 
 Rx only
 
-60 CAPSULES
-
-ZYDUS
+60 capsules

@@ -1,4 +1,48 @@
-# HOW SUPPLIED
+# 16. HOW SUPPLIED/STORAGE AND HANDLING
+
+TopiramateTablets
+
+Topiramate Tablets USP, 25 mg are white to off-white, round-shaped, biconvex, beveled-edge, film-coated tablets debossed with "ZD 16" on one side and plain on the other side and are supplied as follows:
+
+NDC 65841-647-14 in bottle of 60 tablets
+
+NDC 65841-647-16 in bottle of 90 tablets
+
+NDC 65841-647-01 in bottle of 100 tablets
+
+NDC 65841-647-05 in bottle of 500 tablets
+
+Topiramate Tablets USP, 50 mg are white to off-white, round-shaped, biconvex, beveled-edge, film-coated tablets debossed with "ZD 15" on one side and plain on the other side and are supplied as follows:
+
+NDC 65841-648-14 in bottle of 60 tablets
+
+NDC 65841-648-16 in bottle of 90 tablets
+
+NDC 65841-648-01 in bottle of 100 tablets
+
+NDC 65841-648-05 in bottle of 500 tablets
+
+Topiramate Tablets USP, 100 mg are white to off-white, round-shaped, biconvex, beveled-edge, film-coated tablets debossed with "ZD 14" on one side and plain on the other side and are supplied as follows:
+
+NDC 65841-649-14 in bottle of 60 tablets
+
+NDC 65841-649-16 in bottle of 90 tablets
+
+NDC 65841-649-01 in bottle of 100 tablets
+
+NDC 65841-649-05 in bottle of 500 tablets
+
+Topiramate Tablets USP, 200 mg are white to off-white, round-shaped, biconvex, beveled-edge, film-coated tablets debossed with "ZD 13" on one side and plain on the other side and are supplied as follows:
+
+NDC 65841-650-14 in bottle of 60 tablets
+
+NDC 65841-650-16 in bottle of 90 tablets
+
+NDC 65841-650-01 in bottle of 100 tablets
+
+NDC 65841-650-05 in bottle of 500 tablets
+
+Topiramate Capsules (Sprinkle)
 
 Topiramate Capsules (Sprinkle), 15 mg are white to off-white pellets filled in size ‘2’ empty hard gelatin capsules with white opaque cap imprinted with "ZA63" and white opaque body imprinted with "15 mg" in black ink and are supplied as follows:
 
@@ -26,7 +70,7 @@ NDC 65841-652-05 in bottle of 500 capsules
 
 NDC 65841-652-10 in bottle of 1000 capsules
 
-## Storage:
+Storage and Handling
 
 Store at 20o to 25o C (68o to 77o F) [See USP Controlled Room Temperature].
 Protect from moisture.
