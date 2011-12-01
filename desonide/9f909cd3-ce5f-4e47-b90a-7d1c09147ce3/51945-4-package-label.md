@@ -16,4 +16,6 @@ FOR TOPICAL USE ONLY
 
 50 g Rx only
 
-DEVCOMP-0001639
+©2011 Stiefel Laboratories, Inc.
+
+10000000091540
