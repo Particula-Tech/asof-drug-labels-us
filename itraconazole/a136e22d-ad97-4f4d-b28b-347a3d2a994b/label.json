@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022484"
+  ],
+  "inn": "itraconazole",
+  "labeler": "Stiefel Laboratories Inc",
+  "package_ndcs": [
+    "0145-2500-02",
+    "0145-2500-04"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "itraconazole",
+      "name": "ONMEL"
+    }
+  ],
+  "setid": "a136e22d-ad97-4f4d-b28b-347a3d2a994b",
+  "source": "dailymed"
+}
