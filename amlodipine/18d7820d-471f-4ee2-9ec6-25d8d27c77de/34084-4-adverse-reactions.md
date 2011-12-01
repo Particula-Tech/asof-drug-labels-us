@@ -49,7 +49,7 @@ Metabolism and Nutrition Disorders: hypokalaemia, diabetes mellitus, hyperlipide
 
 Musculoskeletal and Connective Tissue Disorders: pain in extremity, arthralgia, musculoskeletal pain, muscular weakness, musculoskeletal weakness, musculoskeletal stiffness, joint swelling, neck pain, osteoarthritis, tendonitis
 
-Nervous System Disorders: paraesthesia, somnolence, syncope, carpal tunnel syndrome, disturbance in attention, dizziness postural, dysgeusia, head discomfort, lethargy, sinus headache, tremor
+Nervous System Disorders: parasthesia, somnolence, syncope, carpal tunnel syndrome, disturbance in attention, dizziness postural, dysgeusia, head discomfort, lethargy, sinus headache, tremor
 
 Psychiatric Disorders: anxiety, depression, insomnia
 
@@ -103,7 +103,7 @@ Valsartan
 
 Valsartan has been evaluated for safety in more than 4,000 hypertensive patients in clinical trials.
 In trials in which valsartan was compared to an ACE inhibitor with or without placebo, the incidence of dry cough was significantly greater in the ACE inhibitor group (7.9%) than in the groups who received valsartan (2.6%) or placebo (1.5%).
-In a 129 patient trial limited to patients who had had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, HCTZ, or lisinopril were 20%, 19%, and 69% respectively (p<0.001).
+In a 129 patient trial limited to patients who had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, HCTZ, or lisinopril were 20%, 19%, and 69% respectively (p<0.001).
 
 Other adverse reactions, not listed above, occurring in >0.2% of patients in controlled clinical trials with valsartan are:
 

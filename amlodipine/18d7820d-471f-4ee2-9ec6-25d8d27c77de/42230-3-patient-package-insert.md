@@ -172,8 +172,6 @@ Drugs that lower blood pressure lower your chance of having a stroke or heart at
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to blood vessels.
 If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure and vision problems.
 
-T2011-10
-
 Distributed by:
 
 Novartis Pharmaceuticals Corporation
@@ -181,3 +179,7 @@ Novartis Pharmaceuticals Corporation
 East Hanover, New Jersey 07936
 
 © Novartis
+
+T2011-134/T2011-97
+
+October 2011/February 2011
