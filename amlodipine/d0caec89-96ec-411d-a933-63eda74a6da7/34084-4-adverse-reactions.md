@@ -41,7 +41,7 @@ Metabolism and Nutrition Disorders: Gout, non-insulin dependent diabetes mellitu
 
 Musculoskeletal and Connective Tissue Disorders: Arthralgia, back pain, muscle spasms, pain in extremity, myalgia, osteoarthritis, joint swelling, musculoskeletal chest pain
 
-Nervous System Disorders: Headache, sciatica, parasthesia, cerviocobrachial syndrome, carpal tunnel syndrome, hypoaesthesia, sinus headache, somnolence
+Nervous System Disorders: Headache, sciatica, paresthesia, cervicobrachial syndrome, carpal tunnel syndrome, hypoesthesia, sinus headache, somnolence
 
 Psychiatric Disorders: Insomnia, anxiety, depression
 
@@ -80,7 +80,7 @@ Skin and Appendages: angioedema, erythema multiforme, rash erythematous, rash ma
 
 Special Senses: abnormal vision, conjunctivitis, diplopia, eye pain, tinnitus
 
-Urinary System: micturation frequency, micturation disorder, nocturia
+Urinary System: micturition frequency, micturition disorder, nocturia
 
 Autonomic Nervous System: sweating increased
 

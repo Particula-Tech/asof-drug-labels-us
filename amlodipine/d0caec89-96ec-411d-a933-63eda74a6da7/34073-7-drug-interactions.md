@@ -23,6 +23,9 @@ Digoxin: Co-administration of amlodipine with digoxin did not change serum digox
 
 Warfarin: Co-administration of amlodipine with warfarin did not change the warfarin prothrombin response time.
 
+Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone.
+Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
+
 Studies with Valsartan
 
 No clinically significant pharmacokinetic interactions were observed when valsartan was co-administered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin.
