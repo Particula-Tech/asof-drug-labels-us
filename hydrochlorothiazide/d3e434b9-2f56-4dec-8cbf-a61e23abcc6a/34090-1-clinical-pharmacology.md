@@ -176,7 +176,7 @@ In addition, blood pressure reductions in both treatment groups were consistent 
 Given the difficulty in interpreting subset differences in large trials, it cannot be known whether the observed difference is the result of chance.
 However, the LIFE study provides no evidence that the benefits of losartan on reducing the risk of cardiovascular events in hypertensive patients with left ventricular hypertrophy apply to Black patients.
 
-### Losartan Potassium-Hydrochlorothiazide
+### Losartan Potassium and Hydrochlorothiazide
 
 The 3 controlled studies of losartan and hydrochlorothiazide included over 1300 patients assessing the antihypertensive efficacy of various doses of losartan (25, 50 and 100 mg) and concomitant hydrochlorothiazide (6.25, 12.5 and 25 mg).
 A factorial study compared the combination of losartan/hydrochlorothiazide 50/12.5 mg with its components and placebo.
@@ -195,7 +195,7 @@ The overall response to the combination was similar for Black and non-Black pati
 ### Severe Hypertension (Sitting Diastolic Blood Pressure [SiDBP] ≥110 mmHg)
 
 The safety and efficacy of HYZAAR as initial therapy for severe hypertension (defined as a mean SiDBP ≥110 mmHg confirmed on 2 separate occasions off all antihypertensive therapy) was studied in a 6-week double-blind, randomized, multicenter study.
-Patients were randomized to either losartan and hydrochlorothiazide (50-12.5 mg, once daily) or to losartan (50 mg, once daily) and followed for blood pressure response.
+Patients were randomized to either losartan and hydrochlorothiazide (50/12.5 mg, once daily) or to losartan (50 mg, once daily) and followed for blood pressure response.
 Patients were titrated at 2-week intervals if their SiDBP did not reach goal (<90 mmHg).
 Patients on combination therapy were titrated from losartan 50 mg/hydrochlorothiazide 12.5 mg to losartan 50 mg/hydrochlorothiazide 12.5 mg (sham titration to maintain the blind) to losartan 100 mg/hydrochlorothiazide 25 mg.
 Patients on monotherapy were titrated from losartan 50 mg to losartan 100 mg to losartan 150 mg, as needed.

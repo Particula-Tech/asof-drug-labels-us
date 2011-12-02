@@ -44,7 +44,7 @@ This condition should be corrected prior to administration of HYZAAR (see DOSAGE
 
 ## Impaired Hepatic Function
 
-### Losartan Potassium-Hydrochlorothiazide
+### Losartan Potassium and Hydrochlorothiazide
 
 HYZAAR is not recommended for patients with hepatic impairment who require titration with losartan.
 The lower starting dose of losartan recommended for use in patients with hepatic impairment cannot be given using HYZAAR.
@@ -81,7 +81,7 @@ Risk factors for developing acute angle-closure glaucoma may include a history o
 Hypersensitivity: Angioedema.
 See ADVERSE REACTIONS, Post-Marketing Experience.
 
-### Losartan Potassium-Hydrochlorothiazide
+### Losartan Potassium and Hydrochlorothiazide
 
 In double-blind clinical trials of various doses of losartan potassium and hydrochlorothiazide, the incidence of hypertensive patients who developed hypokalemia (serum potassium <3.5 mEq/L) was 6.7% versus 3.5% for placebo; the incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4%.
 No patient discontinued due to increases or decreases in serum potassium.
@@ -177,8 +177,8 @@ Monitor renal function periodically in patients receiving losartan and NSAID the
 
 The antihypertensive effect of angiotensin II receptor antagonists, including losartan, may be attenuated by NSAIDs, including selective COX-2 inhibitors.
 
-Dual blockade of the renin-angiotensin-aldosterone system: It has been reported in the literature that in patients with established atherosclerotic disease, heart failure, or with diabetes with end organ damage, dual blockade of the renin-angiotensin-aldosterone system is associated with a higher frequency of hypotension, syncope, hyperkalemia, and changes in renal function (including acute renal failure) as compared to use of a single renin-angiotensin-aldosterone system agent.
-Dual blockade (e.g., by adding an ACE inhibitor to an angiotensin II receptor antagonist) should be limited to individually defined cases with close monitoring of renal function.
+Dual blockade of the renin-angiotensin-aldosterone system: Dual blockade of the renin-angiotensin-aldosterone system is associated with increased risk of hypotension, syncope, hyperkalemia, and changes in renal function (including acute renal failure).
+Closely monitor blood pressure, renal function, and electrolytes in patients on HYZAAR and ACE inhibitors.
 
 ### Hydrochlorothiazide
 
@@ -212,11 +212,11 @@ Monitor renal function periodically in patients receiving hydrochlorothiazide, l
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-### Losartan Potassium-Hydrochlorothiazide
+### Losartan Potassium and Hydrochlorothiazide
 
-No carcinogenicity studies have been conducted with the losartan potassium-hydrochlorothiazide combination.
+No carcinogenicity studies have been conducted with the losartan potassium and hydrochlorothiazide combination.
 
-Losartan potassium-hydrochlorothiazide when tested at a weight ratio of 4:1 was negative in the Ames microbial mutagenesis assay and the V-79 Chinese hamster lung cell mutagenesis assay.
+Losartan potassium and hydrochlorothiazide when tested at a weight ratio of 4:1 was negative in the Ames microbial mutagenesis assay and the V-79 Chinese hamster lung cell mutagenesis assay.
 In addition, there was no evidence of direct genotoxicity in the in vitro alkaline elution assay in rat hepatocytes and in vitro chromosomal aberration assay in Chinese hamster ovary cells at noncytotoxic concentrations.
 
 Losartan potassium, coadministered with hydrochlorothiazide, had no effect on the fertility or mating behavior of male rats at dosages up to 135 mg/kg/day of losartan and 33.75 mg/kg/day of hydrochlorothiazide.
@@ -269,7 +269,7 @@ Safety and effectiveness of HYZAAR in pediatric patients have not been establish
 In a controlled clinical study for the reduction in the combined risk of cardiovascular death, stroke and myocardial infarction in hypertensive patients with left ventricular hypertrophy, 2857 patients (62%) were 65 years and over, while 808 patients (18%) were 75 years and over.
 In an effort to control blood pressure in this study, patients were coadministered losartan and hydrochlorothiazide 74% of the total time they were on study drug.
 No overall differences in effectiveness were observed between these patients and younger patients.
-Adverse events were somewhat more frequent in the elderly compared to non-elderly patients for both the losartan-hydrochlorothiazide and the control groups (see CLINICAL PHARMACOLOGY, Special Populations).
+Adverse events were somewhat more frequent in the elderly compared to non-elderly patients for both the losartan and hydrochlorothiazide and the control groups (see CLINICAL PHARMACOLOGY, Special Populations).
 
 ## Race
 

@@ -1,17 +1,17 @@
 # ADVERSE REACTIONS
 
-Losartan potassium-hydrochlorothiazide has been evaluated for safety in 858 patients treated for essential hypertension and 3889 patients treated for hypertension and left ventricular hypertrophy.
-In clinical trials with losartan potassium-hydrochlorothiazide, no adverse experiences peculiar to this combination have been observed.
+Losartan potassium and hydrochlorothiazide has been evaluated for safety in 858 patients treated for essential hypertension and 3889 patients treated for hypertension and left ventricular hypertrophy.
+In clinical trials with losartan potassium and hydrochlorothiazide, no adverse experiences peculiar to this combination have been observed.
 Adverse experiences have been limited to those that were reported previously with losartan potassium and/or hydrochlorothiazide.
 The overall incidence of adverse experiences reported with the combination was comparable to placebo.
 
-In general, treatment with losartan potassium-hydrochlorothiazide was well tolerated.
+In general, treatment with losartan potassium and hydrochlorothiazide was well tolerated.
 For the most part, adverse experiences have been mild and transient in nature and have not required discontinuation of therapy.
 In controlled clinical trials, discontinuation of therapy due to clinical adverse experiences was required in only 2.8% and 2.3% of patients treated with the combination and placebo, respectively.
 
-In these double-blind controlled clinical trials, the following adverse experiences reported with losartan-hydrochlorothiazide occurred in ≥1 percent of patients, and more often on drug than placebo, regardless of drug relationship:
+In these double-blind controlled clinical trials, the following adverse experiences reported with losartan and hydrochlorothiazide occurred in ≥1 percent of patients, and more often on drug than placebo, regardless of drug relationship:
 
-|  | Losartan Potassium- Hydrochlorothiazide (n=858) | Placebo (n=173) |
+|  | Losartan Potassium and Hydrochlorothiazide (n=858) | Placebo (n=173) |
 | --- | --- | --- |
 | Body as a Whole Abdominal pain Edema/swelling | 1.2 1.3 | 0.6 1.2 |
 | Cardiovascular Palpitation | 1.4 | 0.0 |
@@ -23,7 +23,7 @@ In these double-blind controlled clinical trials, the following adverse experien
 The following adverse events were also reported at a rate of 1% or greater, but were as, or more, common in the placebo group in studies of essential hypertension: asthenia/fatigue, diarrhea, nausea, headache, bronchitis, pharyngitis.
 
 Adverse events occurred at about the same rates in men and women.
-Adverse events were somewhat more frequent in the elderly compared to non-elderly patients and somewhat more frequent in Blacks compared to non-Blacks for both the losartan-hydrochlorothiazide and the control groups.
+Adverse events were somewhat more frequent in the elderly compared to non-elderly patients and somewhat more frequent in Blacks compared to non-Blacks for both the losartan and hydrochlorothiazide and the control groups.
 
 A patient with known hypersensitivity to aspirin and penicillin, when treated with losartan potassium, was withdrawn from study due to swelling of the lips and eyelids and facial rash, reported as angioedema, which returned to normal 5 days after therapy was discontinued.
 

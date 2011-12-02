@@ -1,6 +1,4 @@
-# PATIENT PACKAGE INSERT
-
-Patient Information HYZAAR® ("HY-zar") (losartan potassium-hydrochlorothiazide tablets) 50-12.5 mg, 100-12.5 mg, 100-25 mg Rx only
+Patient Information HYZAAR® ("HY-zar") (losartan potassium and hydrochlorothiazide tablets) 50/12.5 mg, 100/12.5 mg, 100/25 mg Rx only
 
 Read the Patient Information that comes with HYZAAR® before you start taking it and each time you get a refill.
 There may be new information.
@@ -30,7 +28,7 @@ You have high blood pressure when the force is too much.
 The losartan ingredient in HYZAAR can help your blood vessels relax so your blood pressure is lower.
 The hydrochlorothiazide ingredient in HYZAAR works by making your kidneys pass more water and salt.
 
-Left Ventricular Hypertrophy (LVH) is an enlargement of the walls of the left chamber of the heart (the heart’s main pumping chamber).
+Left Ventricular Hypertrophy (LVH) is an enlargement of the walls of the left chamber of the heart (the heart's main pumping chamber).
 LVH can happen from several things.
 High blood pressure is the most common cause of LVH.
 
@@ -152,13 +150,14 @@ Active ingredients: losartan potassium, hydrochlorothiazide
 Inactive ingredients:
 
 microcrystalline cellulose, lactose hydrous, pregelatinized starch, magnesium stearate, hydroxypropyl cellulose, hypromellose, titanium dioxide.
-HYZAAR 50-12.5 and HYZAAR 100-25 also contain D&C yellow No. 10 aluminum lake.
-HYZAAR 50-12.5, HYZAAR 100-12.5, and HYZAAR 100-25 may also contain carnauba wax.
+HYZAAR 50/12.5 and HYZAAR 100/25 also contain D&C yellow No. 10 aluminum lake.
+
+HYZAAR 50/12.5, HYZAAR 100/12.5, and HYZAAR 100/25 may also contain carnauba wax.
 
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued August 2011
+Copyright © 2006, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-9964305
+Revised: 11/2011
 
-Copyright © 2006, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+9964306
