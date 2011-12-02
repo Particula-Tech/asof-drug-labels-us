@@ -5,9 +5,9 @@ Isosorbide dinitrate (ISDN) is 1,4:3,6-dianhydro-D-glucitol 2,5-dinitrate, an or
 and whose molecular weight is 236.14.
 The organic nitrates are vasodilators, active on both arteries and veins.
 
-ISDN is a white, crystalline, odorless compound which is stable in air and in solution, has a melting point of 70°C and has an optical rotation of +134° (c=1.0, alcohol.
+Isosorbide dinitrate is a white, crystalline, odorless compound which is stable in air and in solution, has a melting point of 70°C and has an optical rotation of +134° (c=1.0, alcohol.
 20°C).
-ISDN is freely soluble in organic solvents such as acetone, alcohol, and ether, but is only sparingly soluble in water.
+Isosorbide dinitrate is freely soluble in organic solvents such as acetone, alcohol, and ether, but is only sparingly soluble in water.
 
 Each isosorbide dinitrate tablet contains 5 mg, 10 mg, or 20 mg of ISDN.
 

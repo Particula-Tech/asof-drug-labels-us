@@ -1,7 +1,11 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA086066",
+    "ANDA086067",
+    "ANDA088088"
+  ],
   "inn": "isosorbide-dinitrate",
-  "labeler": "West-ward Pharmaceutical Corp.",
+  "labeler": "West-ward Pharmaceutical Corp",
   "package_ndcs": [
     "0143-1769-01",
     "0143-1769-05",
@@ -21,7 +25,13 @@
     "0143-1772-25",
     "0143-1772-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "isosorbide dinitrate",
+      "name": "Isosorbide Dinitrate"
+    }
+  ],
   "setid": "f0b9b320-0bf8-4342-b654-135ccb6755c2",
   "source": "dailymed"
 }

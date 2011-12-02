@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Isosorbide Dinitrate Tablets USP (Oral) 5 mg: White, round, scored tablets imprinted "West-ward 769".
+Isosorbide Dinitrate Tablets, USP (Oral) 5 mg: White, Round, Scored Tablets; Debossed "West-ward 769".
 
 - Bottles of 30 tablets.
 - Bottles of 90 tablets.
@@ -9,7 +9,7 @@ Isosorbide Dinitrate Tablets USP (Oral) 5 mg: White, round, scored tablets impri
 - Bottles of 1000 tablets.
 - Unit Dose Boxes of 100 tablets.
 
-Isosorbide Dinitrate Tablets USP (Oral) 10 mg: White, round, scored tablets imprinted "WW" on one side and "771" on the other side.
+Isosorbide Dinitrate Tablets, USP (Oral) 10 mg: White, Round, Scored Tablets; Debossed "WW" on one side and "771" on the other side.
 
 - Bottles of 30 tablets.
 - Bottles of 90 tablets.
@@ -18,7 +18,7 @@ Isosorbide Dinitrate Tablets USP (Oral) 10 mg: White, round, scored tablets impr
 - Bottles of 1000 tablets.
 - Unit Dose Boxes of 100 tablets.
 
-Isosorbide Dinitrate Tablets USP (Oral) 20 mg: Green, round, scored tablet imprinted "WW" on one side and "772" on the other side.
+Isosorbide Dinitrate Tablets, USP (Oral) 20 mg: Green, Round, Scored Tablets; Debossed "WW" on one side and "772" on the other side.
 
 - Bottles of 30 tablets.
 - Bottles of 90 tablets.
@@ -37,4 +37,5 @@ Also available: Isosorbide Dinitrate Sublingual Tablets in the following dosage 
 
 5 mg; in bottles of 100, 1000 or unit dose boxes of 100 tablets.
 
-Manufactured by: West-ward Pharmaceutical Corp. Eatontown, NJ 07724 Rev April 2006
+Manufactured by: West-ward Pharmaceutical Corp. Eatontown, NJ 07724 Rev.
+November 2010

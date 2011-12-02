@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Adverse reactions to ISDN are generally dose-related, and most all of these reactions are the result of ISDN's activity as a vasodilator.
+Adverse reactions to isosorbide dinitrate are generally dose-related, and most all of these reactions are the result of isosorbide dinitrate's activity as a vasodilator.
 Headache, which may be severe, is the most commonly reported side effect.
 Headache may be recurrent with each daily dose, especially at higher doses.
 Transient episodes of lightheadedness, occasionally related to blood pressure changes, may also occur.
@@ -10,4 +10,6 @@ Syncope, crescendo angina, and rebound hypertension have been reported but are u
 Extremely rarely, ordinary doses of organic nitrates have caused methemoglobinemia in normal-seeming patients.
 Methemoglobinemia is so infrequent at these doses that further discussion of its diagnosis and treatment is deferred (see OVERDOSAGE).
 
-Data are not available to allow estimation of the frequency of adverse reactions during treatment of isosorbide dinitrate oral tablets.
+Data are not available to allow estimation of the frequency of adverse reactions during treatment of isosorbide dinitrate tablets (oral).
+
+To report SUSPECTED ADVERSE REACTIONS, contact West-ward Pharmaceutical Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
