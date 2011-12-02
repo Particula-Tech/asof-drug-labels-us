@@ -1,10 +1,6 @@
-# PATIENT PACKAGE INSERT
+Patient Information COZAAR® (CO-zar) (losartan potassium tablets) 25 mg, 50 mg, 100 mg Rx only
 
-Patient Information COZAAR® (CO-zar) (losartan potassium tablets) 25mg, 50mg, 100mg
-
-Rx only
-
-Read the Patient Information that comes with COZAAR before you start taking it and each time you get a refill.
+Read the Patient Information that comes with COZAAR® before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition and treatment.
 
@@ -32,7 +28,7 @@ Blood pressure is the force in your blood vessels when your heart beats and when
 You have high blood pressure when the force is too much.
 COZAAR can help your blood vessels relax so your blood pressure is lower.
 
-Left Ventricular Hypertrophy (LVH) is an enlargement of the walls of the left chamber of the heart (the heart’s main pumping chamber).
+Left Ventricular Hypertrophy (LVH) is an enlargement of the walls of the left chamber of the heart (the heart's main pumping chamber).
 LVH can happen from several things.
 High blood pressure is the most common cause of LVH.
 
@@ -50,7 +46,7 @@ If you have diabetic nephropathy it means that your kidneys do not work properly
 Tell your doctor about all of your medical conditions including if you:
 
 - are pregnant or planning to become pregnant.
-  See “What is the most important information I should know about COZAAR?”
+  See "What is the most important information I should know about COZAAR?"
 - are breast-feeding.
   It is not known if COZAAR passes into your breast milk.
   You should choose either to take COZAAR or breast-feed, but not both.
@@ -83,7 +79,7 @@ Especially tell your doctor if you are taking:
 COZAAR may cause the following side effects that may be serious:
 
 - Injury or death of unborn babies.
-  See “What is the most important information I should know about COZAAR?”
+  See "What is the most important information I should know about COZAAR?"
 - Allergic reaction.
   Symptoms of an allergic reaction are swelling of the face, lips, throat or tongue.
   Get emergency medical help right away and stop taking COZAAR.
@@ -96,7 +92,7 @@ COZAAR may cause the following side effects that may be serious:
 
 The most common side effects of COZAAR in people with high blood pressure are:
 
-- “colds” (upper respiratory infection)
+- "colds" (upper respiratory infection)
 - dizziness
 - stuffy nose
 - back pain
@@ -110,7 +106,7 @@ The most common side effects of COZAAR in people with type 2 diabetes with diabe
 - high blood potassium
 - low blood pressure
 
-Tell your doctor if you get any side effect that bothers you or that won’t go away.
+Tell your doctor if you get any side effect that bothers you or that won't go away.
 
 This is not a complete list of side effects.
 For a complete list, ask your doctor or pharmacist.
@@ -138,11 +134,3 @@ Active ingredients: losartan potassium
 
 Inactive ingredients: microcrystalline cellulose, lactose hydrous, pregelatinized starch, magnesium stearate, hydroxypropyl cellulose, hypromellose, and titanium dioxide.
 COZAAR 25 mg, COZAAR 50 mg, and COZAAR 100 mg may also contain carnauba wax.
-
-Issued July 2011
-
-Manufactured For: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
-
-Copyright © 2006, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
-
-9964204

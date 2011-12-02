@@ -1,83 +1,50 @@
-# This is a representative sample of the packaging. Please see How Supplied section for a complete list of available packaging. PRINCIPAL DISPLAY PANEL - Bottle Label 25 mg
+# PRINCIPAL DISPLAY PANEL - 25 mg Bottle Label
 
-Cozaar® 25 mg (Losartan Potassium Tablets)
+NDC 0006-0951-54
 
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Cozaar® (Losartan Potassium Tablets)
 
-By: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
-
-Losartan Potassium (active ingred.)
-Made in France Formulated in UK
+25 mg
 
 Each tablet contains 25 mg of losartan potassium.
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Keep container tightly closed.
 Protect from light.
 
-90 Tablets
-
-NDC 0006-0951-54
-
-USUAL ADULT DOSAGE: See accompanying circular.
-
 Rx only
 
-COZAAR is a registered trademark of E.I. du Pont de Nemours and Company, Wilmington, DE
+90 Tablets
 
-9960400 90 | No. 8441
+# PRINCIPAL DISPLAY PANEL - 50 mg Bottle Label
 
-# PRINCIPAL DISPLAY PANEL - Bottle Label 50 mg
+NDC 0006-0952-31
 
-Cozaar® 50 mg (Losartan Potassium Tablets)
+Cozaar® (Losartan Potassium Tablets)
 
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-By: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
-
-Losartan Potassium (active ingred.)
-Made in France Formulated in UK
+50 mg
 
 Each tablet contains 50 mg of losartan potassium.
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Keep container tightly closed.
 Protect from light.
 
-30 Tablets
-
-NDC 0006-0952-31
-
-USUAL ADULT DOSAGE: See accompanying circular.
-
 Rx only
 
-COZAAR is a registered trademark of E.I. du Pont de Nemours and Company, Wilmington, DE
+30 Tablets
 
-9958300 30 | No. 8442
+# PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
 
-# PRINCIPAL DISPLAY PANEL - Bottle Label 100 mg
+NDC 0006-0960-31
 
-Cozaar® 100 mg (Losartan Potassium Tablets)
+Cozaar® (Losartan Potassium Tablets)
 
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-By: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
-
-Losartan Potassium (active ingred.)
-Made in France Formulated in UK
+100 mg
 
 Each tablet contains 100 mg of losartan potassium.
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Keep container tightly closed.
 Protect from light.
 
-30 Tablets
-
-NDC 0006-0960-31
-
-USUAL ADULT DOSAGE: See accompanying circular.
-
 Rx only
 
-COZAAR is a registered trademark of E.I. du Pont de Nemours and Company, Wilmington, DE
-
-9963600 30 | No. 3849
+30 Tablets

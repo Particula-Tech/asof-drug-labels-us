@@ -136,7 +136,7 @@ The antihypertensive effect of losartan was studied in one trial enrolling 177 h
 Children who weighed <50 kg received 2.5, 25 or 50 mg of losartan daily and patients who weighed ≥50 kg received 5, 50 or 100 mg of losartan daily.
 Children in the lowest dose group were given losartan in a suspension formulation (see DOSAGE AND ADMINISTRATION, Preparation of Suspension).
 The majority of the children had hypertension associated with renal and urogenital disease.
-The sitting diastolic blood pressure (SiDBP) on entry into the study was higher than the 95th percentile level for the patient’s age, gender, and height.
+The sitting diastolic blood pressure (SiDBP) on entry into the study was higher than the 95th percentile level for the patient's age, gender, and height.
 At the end of three weeks, losartan reduced systolic and diastolic blood pressure, measured at trough, in a dose-dependent manner.
 Overall, the two higher doses (25 to 50 mg in patients <50 kg; 50 to 100 mg in patients ≥50 kg) reduced diastolic blood pressure by 5 to 6 mmHg more than the lowest dose used (2.5 mg in patients <50 kg; 5 mg in patients ≥50 kg).
 The lowest dose, corresponding to an average daily dose of 0.07 mg/kg, did not appear to offer consistent antihypertensive efficacy.
