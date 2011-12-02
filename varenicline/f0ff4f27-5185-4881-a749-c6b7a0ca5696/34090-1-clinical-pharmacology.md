@@ -36,8 +36,9 @@ Additionally, in subjects with ESRD, varenicline was efficiently removed by hemo
 Geriatric Patients: A combined single- and multiple-dose pharmacokinetic study demonstrated that the pharmacokinetics of 1 mg varenicline given once daily or twice daily to 16 healthy elderly male and female smokers (aged 65–75 yrs) for 7 consecutive days was similar to that of younger subjects.
 
 Pediatric Patients: Because the safety and effectiveness of CHANTIX in pediatric patients have not been established, CHANTIX is not recommended for use in patients under 18 years of age.
-When 22 pediatric patients aged 12 to 17 years (inclusive) received a single 0.5 mg or 1 mg dose of varenicline, the pharmacokinetics of varenicline were approximately dose-proportional between the 0.5 mg and 1 mg doses.
-Systemic exposure, as assessed by AUC (0–∞), and renal clearance of varenicline were comparable to those of an adult population.
+Single and multiple-dose pharmacokinetics of varenicline have been investigated in pediatric patients aged 12 to 17 years old (inclusive) and were approximately dose-proportional over the 0.5 mg to 2 mg daily dose range studied.
+Steady-state systemic exposure in adolescent patients of bodyweight >55 kg, as assessed by AUC (0–24), was comparable to that noted for the same doses in the adult population.
+When 0.5 mg BID was given, steady-state daily exposure of varenicline was, on average, higher (by approximately 40%) in adolescent patients with bodyweight ≤ 55 kg compared to that noted in the adult population.
 
 Hepatic Impairment: Due to the absence of significant hepatic metabolism, varenicline pharmacokinetics should be unaffected in patients with hepatic impairment.
 
