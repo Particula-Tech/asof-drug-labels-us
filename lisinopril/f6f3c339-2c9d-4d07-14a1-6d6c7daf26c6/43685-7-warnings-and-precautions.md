@@ -184,8 +184,8 @@ These effects are usually reversible.
 These interactions should be considered in patients taking NSAIDS including selective COX-2 inhibitors concomitantly with diuretics and angiotensin II antagonists or ACE inhibitors.
 Therefore, monitor effects on blood pressure and renal function when administering the combination, especially in the elderly.
 
-Dual Blockade of the Renin-angiotensin-aldosterone System: It has been reported in the literature that in patients with established atherosclerotic disease, heart failure, or with diabetes with end organ damage, dual blockade of the renin-angiotensin-aldosterone system is associated with a higher frequency of hypotension, syncope, hyperkalemia, and changes in renal function (including acute renal failure) as compared to use of a single renin-angiotensin-aldosterone system agent.
-Dual blockade (e.g., by adding an ACE inhibitor to an angiotensin II receptor antagonist) should be limited to individually defined cases with close monitoring of renal function.
+Dual Blockade of the Renin-angiotensin-aldosterone System: Dual blockade of the renin-angiotensin-aldosterone system is associated with increased risk of hypotension, syncope, hyperkalemia, and changes in renal function (including acute renal failure).
+Closely monitor blood pressure, renal function, and electrolytes in patients on PRINIVIL and angiotensin II receptor antagonists.
 
 Other Agents: PRINIVIL has been used concomitantly with nitrates and/or digoxin without evidence of clinically significant adverse interactions.
 This included post myocardial infarction patients who were receiving intravenous or transdermal nitroglycerin.

@@ -20,15 +20,3 @@ NDC 0006-0207-54 unit of use bottles of 90.
 Store at controlled room temperature, 15-30°C (59-86°F), and protect from moisture.
 
 Dispense in a tight container, if product package is subdivided.
-
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-by:
-
-MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
-
-Issued June 2011
-
-9763205
-
-Copyright © 1988, 1989, 1992, 1993, 1995, 2005, 2006, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
