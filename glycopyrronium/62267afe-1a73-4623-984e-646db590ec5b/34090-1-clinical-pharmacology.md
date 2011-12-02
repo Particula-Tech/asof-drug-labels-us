@@ -6,13 +6,13 @@ Thus, it diminishes the volume and free acidity of gastric secretions and contro
 
 Glycopyrrolate antagonizes muscarinic symptoms (e.g., bronchorrhea, bronchospasm, bradycardia, and intestinal hypermotility) induced by cholinergic drugs such as the anticholinesterases.
 
-The highly polar quaternary ammonium group of glycopyrrolate limits its passage across lipid membranes, such as the blood-brain barrier, in contrast to atropine sulfate and scopolamine hydrobromide, which are highly non-polar tertiary amines which penetrate lipid barriers easily.
+The highly polar quaternary ammonium group of glycopyrrolate limits its passage across lipid membranes, such as the blood-brain barrier, in contrast to atropine sulfate and scopolamine hydrobromide, which are highly nonpolar tertiary amines which penetrate lipid barriers easily.
 
 With intravenous injection, the onset of action is generally evident within one minute.
 Following intramuscular administration, the onset of action is noted in 15 to 30 minutes, with peak effects occurring within approximately 30 to 45 minutes.
 The vagal blocking effects persist for 2 to 3 hours and the antisialagogue effects persist up to 7 hours, periods longer than for atropine.
 
-## PHARMACOKINETICS
+## Pharmacokinetics
 
 The following pharmacokinetic information and conclusions were obtained from published studies that used nonspecific assay methods.
 
@@ -24,13 +24,13 @@ Excretion: The mean clearance and mean T1/2 values were reported to be 0.54 ± 0
 After IV administration of a 0.2 mg radiolabeled glycopyrrolate, 85% of dose recovered was recovered in urine 48 hours postdose and some of radioactivity was also recovered in bile.
 After IM administration of glycopyrrolate to adults, the mean T1/2 value is reported to be between 0.55 to 1.25 hrs. Over 80% of IM dose administered was recovered in urine and the bile as unchanged drug and half the IM dose is excreted within 3 hrs. The following table summarizes the mean and standard deviation of pharmacokinetic parameters from a study.
 
-| Group | T½ (hr) | Vss (L/kg) | CL (L/kg/hr) | Tmax (min) | Cmax (μg/L) | AUC (μg/L ● hr) |
+| Group | T 1/2 (hr) | VSS (L/kg) | CL (L/kg/hr) | T max (min) | Cmax (µg/L) | AUC (µg/L•hr) |
 | --- | --- | --- | --- | --- | --- | --- |
-| (6 μg/kg IV) | 0.83 ± 0.27 | 0.42 ± 0.22 | 0.54 ± 0.14 | - | - | 8.64 ± 1.49** |
-| (8 μg/kg IM) | - | - | - | 27.48 ± 6.12 | 3.47 ± 1.48 | 6.64 ± 2.33** |
+| (6 µg/kg IV) | 0.83 ± 0.27 | 0.42 ± 0.22 | 0.54 ± 0.14 | - | - | 8.64 ± 1.49** |
+| (8 µg/kg IM) | - | - | - | 27.48 ± 6.12 | 3.47 ± 1.48 | 6.64 ± 2.33** |
 | *0-12 hr **0-8 hr |  |  |  |  |  |  |
 
-SPECIAL POPULATIONS
+## SPECIAL POPULATIONS
 
 Gender: Gender differences in pharmacokinetics of glycopyrrolate have not been investigated.
 

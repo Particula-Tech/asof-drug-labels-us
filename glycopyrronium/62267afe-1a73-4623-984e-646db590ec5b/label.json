@@ -1,14 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA089335"
+  ],
   "inn": "glycopyrronium",
-  "labeler": "AMERICAN REGENT, INC.",
+  "labeler": "American Regent, Inc.",
   "package_ndcs": [
     "0517-4601-25",
     "0517-4602-25",
     "0517-4605-25",
     "0517-4620-25"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "glycopyrrolate",
+      "name": "Glycopyrrolate"
+    }
+  ],
   "setid": "62267afe-1a73-4623-984e-646db590ec5b",
   "source": "dailymed"
 }
