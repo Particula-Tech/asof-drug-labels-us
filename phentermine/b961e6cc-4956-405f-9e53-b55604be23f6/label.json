@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA202088"
+  ],
+  "inn": "phentermine",
+  "labeler": "Akrimax Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "24090-720-77",
+    "24090-720-85",
+    "24090-721-77",
+    "24090-721-85"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "phentermine hydrochloride",
+      "name": "Suprenza"
+    }
+  ],
+  "setid": "b961e6cc-4956-405f-9e53-b55604be23f6",
+  "source": "dailymed"
+}
