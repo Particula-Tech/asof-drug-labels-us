@@ -20,7 +20,7 @@ Ensure an adequate airway, oxygenation, and ventilation.
 Monitor cardiac rhythm and vital signs.
 General supportive and symptomatic measures are also recommended.
 Induction of emesis is not recommended.
-Due to the large volume of distribution of this drug, forced diuresis, dialysis, hemoperfusion, or exchange perfusion are unlikely to be of benefit.
+Due to the large volume of distribution of this drug, forced diuresis, dialysis, hemoperfusion, or exchange transfusion are unlikely to be of benefit.
 
 A specific caution involves patients who are taking or have recently taken paroxetine who might ingest excessive quantities of a tricyclic antidepressant.
 In such a case, accumulation of the parent tricyclic and/or an active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation (see PRECAUTIONS— Drugs Metabolized by Cytochrome CYP2D6).

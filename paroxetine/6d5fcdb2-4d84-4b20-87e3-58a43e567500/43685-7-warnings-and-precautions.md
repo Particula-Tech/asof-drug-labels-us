@@ -59,7 +59,7 @@ In patients receiving another serotonin reuptake inhibitor drug in combination w
 These reactions have also been reported in patients who have recently discontinued that drug and have been started on an MAOI.
 Some cases presented with features resembling neuroleptic malignant syndrome.
 While there are no human data showing such an interaction with paroxetine tablets, limited animal data on the effects of combined use of paroxetine and MAOIs suggest that these drugs may act synergistically to elevate blood pressure and evoke behavioral excitation.
-Therefore, it is recommended that paroxetine tablets not be used in combination with an MAOI, (including linezolid, an antibiotic which is a reversible non-selective MAOI), or within 14 days of discontinuing treatment with an MAOI.
+Therefore, it is recommended that paroxetine tablets not be used in combination with an MAOI, (including linezolid, an antibiotic which is a reversible non-selective MAOI), and methylthioninium chloride [methylene blue]), or within 14 days of discontinuing treatment with an MAOI.
 (see CONTRAINDICATIONS).
 At least 2 weeks should be allowed after stopping paroxetine tablets before starting an MAOI.
 
@@ -92,22 +92,28 @@ Therefore, it is recommended that paroxetine not be used in combination with thi
 
 ## Teratogenic Effects:
 
-Epidemiological studies have shown that infants born to women who had first trimester paroxetine exposure had an increased risk of cardiovascular malformations, primarily ventricular and atrial septal defects (VSDs and ASDs).
-In general, septal defects range from those that are symptomatic and may require surgery to those that are asymptomatic and may resolve spontaneously.If a patient becomes pregnant while taking paroxetine, she should be advised of the potential harm to the fetus.
-Unless the benefits of paroxetine to the mother justify continuing treatment, consideration should be given to either discontinuing paroxetine therapy or switching to another antidepressant (see PRECAUTIONS—Discontinuation of Treatment With paroxetine).
+Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of congenital malformations, particularly cardiovascular malformations.
+The findings from these studies are summarized below:
+
+- A study based on Swedish national registry data demonstrated that infants exposed to paroxetine during pregnancy (n = 815) had an increased risk of cardiovascular malformations (2% risk in paroxetine-exposed infants) compared to the entire registry population (1% risk), for an odds ratio (OR) of 1.8 (95% confidence interval 1.1 to 2.8).
+  No increase in the risk of overall congenital malformations was seen in the paroxetine-exposed infants.
+  The cardiac malformations in the paroxetine-exposed infants were primarily ventricular septal defects (VSDs) and atrial septal defects (ASDs).
+  Septal defects range in severity from those that resolve spontaneously to those which require surgery.
+- A separate retrospective cohort study from the United States (United Healthcare data) evaluated 5,956 infants of mothers dispensed antidepressants during the first trimester (n = 815 for paroxetine).
+  This study showed a trend towards an increased risk for cardiovascular malformations for paroxetine (risk of 1.5%) compared to other antidepressants (risk of 1%), for an OR of 1.5 (95% confidence interval 0.8 to 2.9).
+  Of the 12 paroxetine-exposed infants with cardiovascular malformations, 9 had VSDs.
+  This study also suggested an increased risk of overall major congenital malformations including cardiovascular defects for paroxetine (4% risk) compared to other (2% risk) antidepressants (OR 1.8; 95% confidence interval 1.2 to 2.8).
+- Two large case-control studies using separate databases, each with > 9,000 birth defect cases and > 4,000 controls, found that maternal use of paroxetine during the first trimester of pregnancy was associated with a 2- to 3-fold increased risk of right ventricular outflow tract obstructions.
+  In one study the odds ratio was 2.5 (95% confidence interval, 1 to 6, 7 exposed infants) and in the other study the odds ratio was 3.3 (95% confidence interval, 1.3 to 8.8, 6 exposed infants).
+
+Other studies have found varying results as to whether there was an increased risk of overall, cardiovascular, or specific congenital malformations.
+A meta-analysis of epidemiological data over a 16-year period (1992 to 2008) on first trimester paroxetine use in pregnancy and congenital malformations included the above-noted studies in addition to others (n = 17 studies that included overall malformations and n = 14 studies that included cardiovascular malformations; n = 20 distinct studies).
+While subject to limitations, this meta-analysis suggested an increased occurrence of cardiovascular malformations (prevalence odds ratio [POR] 1.5; 95% confidence interval 1.2 to 1.9) and overall malformations (POR 1.2; 95% confidence interval 1.1 to 1.4) with paroxetine use during the first trimester.
+It was not possible in this meta-analysis to determine the extent to which the observed prevalence of cardiovascular malformations might have contributed to that of overall malformations, nor was it possible to determine whether any specific types of cardiovascular malformations might have contributed to the observed prevalence of all cardiovascular malformations.
+
+If a patient becomes pregnant while taking paroxetine, she should be advised of the potential harm to the fetus.
+Unless the benefits of paroxetine to the mother justify continuing treatment, consideration should be given to either discontinuing paroxetine therapy or switching to another antidepressant (see PRECAUTIONS: Discontinuation of Treatment With Paroxetine Tablets).
 For women who intend to become pregnant or are in their first trimester of pregnancy, paroxetine should only be initiated after consideration of the other available treatment options.
-
-A study based on Swedish national registry data evaluated infants of 6,896 women exposed to antidepressants in early pregnancy (5,123 women exposed to SSRIs; including 815 for paroxetine).
-Infants exposed to paroxetine in early pregnancy had an increased risk of cardiovascular malformations (primarily VSDs and ASDs) compared to the entire registry population (OR 1.8; 95% confidence interval 1.1 to 2.8).
-The rate of cardiovascular malformations following early pregnancy paroxetine exposure was 2% vs. 1% in the entire registry population.
-Among the same paroxetine exposed infants, an examination of the data showed no increase in the overall risk for congenital malformations.
-
-A separate retrospective cohort study using US United Healthcare data evaluated 5,956 infants of mothers dispensed paroxetine or other antidepressants during the first trimester (n = 815 for paroxetine).
-This study showed a trend towards an increased risk for cardiovascular malformations for paroxetine compared to other antidepressants (OR 1.5; 95% confidence interval 0.8 to 2.9).
-The prevalence of cardiovascular malformations following first trimester dispensing was 1.5% for paroxetine vs. 1% for other antidepressants.
-Nine out of 12 infants with cardiovascular malformations whose mothers were dispensed paroxetine in the first trimester had VSDs.
-This study also suggested an increased risk of overall major congenital malformations (inclusive of the cardiovascular defects) for paroxetine compared to other antidepressants (OR 1.8; 95% confidence interval 1.2 to 2.8).
-The prevalence of all congenital malformations following first trimester exposure was 4% for paroxetine vs. 2% for other antidepressants.
 
 ## Animal Findings:
 
@@ -125,7 +131,7 @@ Neonates exposed to paroxetine tablets and other SSRIs or serotonin and norepine
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS —Serotonin Syndrome - Potential for Interaction with Monoamine Oxidase Inhibitors).
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS —Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
 
 Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
 PPHN occurs in 1 – 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
@@ -171,6 +177,14 @@ If intolerable symptoms occur following a decrease in the dose or upon discontin
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate (see DOSAGE AND ADMINISTRATION).
 
 See also PRECAUTIONS—Pediatric Use, for adverse events reported upon discontinuation of treatment with paroxetine tablets in pediatric patients.
+
+## Tamoxifen
+
+Some studies have shown that the efficacy of tamoxifen, as measured by the risk of breast cancer relapse/mortality, may be reduced when co-prescribed with paroxetine as a result of paroxetine’s irreversible inhibition of CYP2D6 (see DRUG INTERACTIONS).
+However, other studies have failed to demonstrate such a risk.
+It is uncertain whether the coadministration of paroxetine and tamoxifen has a significant adverse effect on the efficacy of tamoxifen.
+One study suggests that the risk may increase with longer duration of coadministration.
+When tamoxifen is used for the treatment or prevention of breast cancer, prescribers should consider using an alternative antidepressant with little or no CYP2D6 inhibition.
 
 ## Akathisia:
 
@@ -263,7 +277,7 @@ Although paroxetine tablets have not been shown to increase the impairment of me
 
 ## Pregnancy:
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy (see WARNINGS — Usage in Pregnancy: Teratogenic Effects and Nonteratogenic Effects).
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy (see WARNINGS — Usage in Pregnancy: Teratogenic and Nonteratogenic Effects).
 
 ## Nursing:
 
@@ -293,8 +307,8 @@ Due to the narrow therapeutic index of pimozide and its known ability to prolong
 
 ## Serotonergic Drugs:
 
-Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride, and the potential for serotonin syndrome, caution is advised when paroxetine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, fentanyl, tramadol, or St. John’s Wort (see WARNINGS — Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
-The concomitant use of paroxetine with MAOIs (including linezolid) is contraindicated (see CONTRAINDICATIONS).
+Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride, and the potential for serotonin syndrome, caution is advised when paroxetine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, or St. John’s Wort (see WARNINGS — Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
+The concomitant use of paroxetine with MAOIs (including linezolid and methylene blue) is contraindicated (see CONTRAINDICATIONS).
 The concomitant use of paroxetine with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS — Drug Interactions Tryptophan).
 
 ## Thioridazine:
@@ -352,7 +366,7 @@ Dosage adjustment of atomoxetine may be necessary and it is recommended that ato
 
 Concomitant use of paroxetine tablets with other drugs metabolized by cytochrome CYP2D6 has not been formally studied but may require lower doses than usually prescribed for either paroxetine tablets or the other drug.
 
-Therefore, coadministration of paroxetine tablets with other drugs that are metabolized by this isozyme, including certain drugs effective in the treatment of major depressive disorder (e.g., nortriptyline, amitriptyline, imipramine, desipramine, and fluoxetine), phenothiazines, risperidone, tamoxifen, and Type 1C antiarrhythmics (e.g., propafenone, flecainide, and encainide), or that inhibit this enzyme (e.g., quinidine), should be approached with caution.
+Therefore, coadministration of paroxetine tablets with other drugs that are metabolized by this isozyme, including certain drugs effective in the treatment of major depressive disorder (e.g., nortriptyline, amitriptyline, imipramine, desipramine, and fluoxetine), phenothiazines, risperidone, and Type 1C antiarrhythmics (e.g., propafenone, flecainide, and encainide), or that inhibit this enzyme (e.g., quinidine), should be approached with caution.
 
 However, due to the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, paroxetine and thioridazine should not be coadministered (see CONTRAINDICATIONSand WARNINGS).
 
@@ -454,7 +468,7 @@ These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg
 
 ## Pregnancy:
 
-Pregnancy Category D. see WARNINGS ─ Usage in Pregnancy: Teratogenic effects and Nonteratogenic Effects.
+Pregnancy Category D. see WARNINGS ─ Usage in Pregnancy: Teratogenic and Nonteratogenic Effects.
 
 ## Labor and Delivery:
 
@@ -469,7 +483,9 @@ Like many other drugs, paroxetine is secreted in human milk, and caution should 
 Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS— Clinical Worsening and Suicide Risk).
 Three placebo-controlled trials in 752 pediatric patients with MDD have been conducted with paroxetine tablets, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of paroxetine tablets in a child or adolescent must balance the potential risks with the clinical need.
+Decreased appetite and weight loss have been observed in association with the use of SSRIs.
 
+Consequently, regular monitoring of weight and growth should be performed in children and adolescents treated with an SSRI such as paroxetine.
 In placebo-controlled clinical trials conducted with pediatric patients, the following adverse events were reported in at least 2% of pediatric patients treated with paroxetine tablets and occurred at a rate at least twice that for pediatric patients receiving placebo: emotional lability (including self-harm, suicidal thoughts, attempted suicide, crying, and mood fluctuations), hostility, decreased appetite, tremor, sweating, hyperkinesia, and agitation.
 
 Events reported upon discontinuation of treatment with paroxetine tablets in the pediatric clinical trials that included a taper phase regimen, which occurred in at least 2% of patients who received paroxetine tablets and which occurred at a rate at least twice that of placebo, were: emotional lability (including suicidal ideation, suicide attempt, mood changes, and tearfulness), nervousness, dizziness, nausea, and abdominal pain (see DOSAGE AND ADMINISTRATION: Discontinuation of Treatment with Paroxetine Tablets).
