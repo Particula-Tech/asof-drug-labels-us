@@ -17,7 +17,7 @@ Drug Resistance: Influenza A variants with reduced in vitro sensitivity to amant
 Influenza viruses with reduced in vitro sensitivity have been shown to be transmissible and to cause typical influenza illness.
 The quantitative relationship between the in vitro sensitivity of influenza A variants to amantadine and the clinical response to therapy has not been established.
 
-Mechanism of Action: Parkinson's Disease- The mechanism of action of amantadine in the treatment of Parkinson's disease and drug-induced extrapyramidal reactions is not known.
+Mechanism of Action: Parkinson's Disease- The mechanism of action of amantadine hydrochloride in the treatment of Parkinson's disease and drug-induced extrapyramidal reactions is not known.
 Data from earlier animal studies suggest that amantadine hydrochloride may have direct and indirect effects on dopamine neurons.
 More recent studies have demonstrated that amantadine is a weak, non-competitive NMDA receptor antagonist (Ki = 10μM).
 Although amantadine has not been shown to possess direct anticholinergic activity in animal studies, clinically, it exhibits anticholinergic-like side effects such as dry mouth, urinary retention, and constipation.
@@ -60,7 +60,7 @@ Amantadine is approximately 67% bound to plasma proteins over a concentration ra
 Following the administration of amantadine 100 mg as a single dose, the mean ± SD red blood cell to plasma ratio ranged from 2.7 ± 0.5 in 6 healthy subjects to 1.4 ± 0.2 in 8 patients with renal insufficiency.
 
 The apparent oral plasma clearance of amantadine is reduced and the plasma half-life and plasma concentrations are increased in healthy elderly individuals age 60 and older.
-After single dose administration of 25 to 75 mg to 7 healthy, elderly male volunteers, the apparent plasma clearance of amantadine was 0.10 ± 0.04 L/hr/kg (range 0.06 to 0.17 L/hr/kg) and the half-life was 29 ± 7 hours (range 20 to 41 hours).
+After single dose administration of 25 to 75 mg to 7 healthy, elderly male volunteers, the apparent plasma clearance of amantadine was 0.10 ± 0.04 L/hr/kg (range 0.06 to 0.17 L/hr/kg) and half-life was 29 ± 7 hours (range 20 to 41 hours).
 Whether these changes are due to decline in renal function or other age related factors is not known.
 
 In a study of young healthy subjects (n=20), mean renal clearance of amantadine, normalized for body mass index, was 1.5 fold higher in males compared to females (p<0.032).

@@ -20,18 +20,12 @@ Consult physician before discontinuing medication.
 
 Seek medical attention immediately if it is suspected that an overdose of medication has been taken.
 
-There have been reports of patients experiencing intense urges to gamble, increased sexual urges, and other intense urges, and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone and that are generally used for the treatment of Parkinson's disease, including amantadine hydrochloride.
-Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
-Prescribers should ask patients about the development of new or increased gambling urges, sexual urges or other urges while being treated with amantadine hydrochloride.
-Patients should inform their physician if they experience new or increased gambling urges, increased sexual urges or other intense urges while taking Amantadine Hydrochloride Capsules, USP.
-Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking Amantadine Hydrochloride Capsules, USP.
-
 Drug Interactions: Careful observation is required when amantadine hydrochloride is administered concurrently with central nervous system stimulants.
 
 Agents with anticholinergic properties may potentiate the anticholinergic-like side effects of amantadine.
 
 Coadministration of thioridazine has been reported to worsen the tremor in elderly patients with Parkinson's disease, however, it is not known if other phenothiazines produce a similar response.
-Coadministration of Dyazide (triamterene/hydrochlorothiazide) resulted in a higher plasma amantadine concentration in a 61-year-old man receiving amantadine hydrochloride 100 mg t.i.d. for Parkinson's disease.1 It is not known which of the components of Dyazide contributed to the observation or if related drugs produce a similar response.
+Coadministration of Dyazide (triamterene/hydrochlorothiazide) resulted in a higher plasma amantadine concentration in a 61-year-old man receiving amantadine hydrochloride 100 mg TID. for Parkinson's disease.1 It is not known which of the components of Dyazide contributed to the observation or if related drugs produce a similar response.
 
 Coadministration of quinine or quinidine with amantadine was shown to reduce the renal clearance of amantadine by about 30%.
 
@@ -46,7 +40,7 @@ Further, there was no evidence of chromosome damage observed in an in vitro test
 
 Impairment of Fertility: The effect of amantadine on fertility has not been adequately tested, that is, in a study conducted under Good Laboratory Practice (GLP) and according to current recommended methodology.
 In a three litter, non-GLP, reproduction study in rats, amantadine hydrochloride at a dose of 32 mg/kg/day (equal to the maximum recommended human dose on a mg/m2 basis) administered to both males and females slightly impaired fertility.
-There were not effects on fertility at a dose level of 10 mg/kg/day (or 0.3 times the maximum recommended human dose on a mg/m2 basis); intermediate doses were not tested.
+There were no effects on fertility at a dose level of 10 mg/kg/day (or 0.3 times the maximum recommended human dose on a mg/m2 basis); intermediate doses were not tested.
 
 Failed fertility has been reported during human in vitro fertilization (IVF) when the sperm donor ingested amantadine 2 weeks prior to, and during the IVF cycle.
 

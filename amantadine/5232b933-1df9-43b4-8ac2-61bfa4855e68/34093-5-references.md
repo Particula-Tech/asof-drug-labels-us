@@ -16,6 +16,6 @@ J. Med.
 Berkowitz, J. Pediatr.
 95:144, 1979.
 
-Manufactured for: UPSHER-SMITH LABORATORIES, INC. Minneapolis, MN 55447 MADE IN CANADA
+Manufactured for UPSHER-SMITH LABORATORIES, INC. Minneapolis, MN 55447 MADE IN CANADA
 
-104853-01 Revised 0311
+104853-01 Revised 1011

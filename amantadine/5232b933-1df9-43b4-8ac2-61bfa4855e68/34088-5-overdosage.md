@@ -19,7 +19,7 @@ Fluids should be forced, and if necessary, given intravenously.
 The pH of the urine has been reported to influence the excretion rate of amantadine hydrochloride.
 Since the excretion rate of amantadine hydrochloride increases rapidly when the urine is acidic, the administration of urine acidifying drugs may increase the elimination of the drug from the body.
 The blood pressure, pulse, respiration and temperature should be monitored.
-The patient should be observed for hyperactivity and convulsions; if required, sedation and anticonvulsant therapy should be administered.
+The patient should be observed for hyperactivity and convulsions; if required, sedation, and anticonvulsant therapy should be administered.
 The patient should be observed for the possible development of arrhythmias and hypotension; if required, appropriate antiarrhythmic and antihypotensive therapy should be given.
 Electrocardiographic monitoring may be required after ingestion, since malignant tachyarrhythmias can appear after overdose.
 
