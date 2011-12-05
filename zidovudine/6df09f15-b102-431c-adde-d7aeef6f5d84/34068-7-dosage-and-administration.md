@@ -4,7 +4,7 @@
 
 Adults: The recommended oral dose of RETROVIR is 600 mg/day in divided doses in combination with other antiretroviral agents.
 
-Pediatric Patients (4 Weeks to <18 Years of Age): Healthcare professionals should pay special attention to accurate calculation of the dose of RETROVIR, transcription of the medication order, dispensing information, and dosing instructions to minimize risk for medication dosing errors.
+Pediatric Patients (Aged 4 Weeks to <18 Years): Healthcare professionals should pay special attention to accurate calculation of the dose of RETROVIR, transcription of the medication order, dispensing information, and dosing instructions to minimize risk for medication dosing errors.
 
 Prescribers should calculate the appropriate dose of RETROVIR for each child based on body weight (kg) and should not exceed the recommended adult dose.
 
@@ -14,11 +14,12 @@ If a child is unable to reliably swallow a RETROVIR Capsule or Tablet, the RETRO
 The recommended dosage in pediatric patients 4 weeks of age and older and weighing ≥4 kg is provided in Table 1.
 RETROVIR Syrup should be used to provide accurate dosage when whole tablets or capsules are not appropriate.
 
-Table 1: Recommended Pediatric Dosage of RETROVIR
+Table 1.
+Recommended Pediatric Dosage of RETROVIR
 
 | Body Weight(kg) | Total Daily Dose | Dosage Regimen and Dose |  |
 | --- | --- | --- | --- |
-| b.i.d. | t.i.d. |  |  |
+| Twice Daily | Three Times Daily |  |  |
 | 4 to <9 | 24 mg/kg/day | 12 mg/kg | 8 mg/kg |
 | ≥9 to <30 | 18 mg/kg/day | 9 mg/kg | 6 mg/kg |
 | ≥30 | 600 mg/day | 300 mg | 200 mg |

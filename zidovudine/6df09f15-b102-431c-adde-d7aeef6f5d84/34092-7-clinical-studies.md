@@ -7,7 +7,7 @@ Therapy with RETROVIR has been shown to prolong survival and decrease the incide
 Combination Therapy: RETROVIR in combination with other antiretroviral agents has been shown to be superior to monotherapy for one or more of the following endpoints: delaying death, delaying development of AIDS, increasing CD4+ cell counts, and decreasing plasma HIV-1 RNA.
 
 The clinical efficacy of a combination regimen that includes RETROVIR was demonstrated in study ACTG 320.
-This study was a multi-center, randomized, double-blind, placebo-controlled trial that compared RETROVIR 600 mg/day plus EPIVIR 300 mg/day to RETROVIR plus EPIVIR plus indinavir 800 mg t.i.d.
+This study was a multi-center, randomized, double-blind, placebo-controlled trial that compared RETROVIR 600 mg/day plus EPIVIR 300 mg/day to RETROVIR plus EPIVIR plus indinavir 800 mg three times daily.
 The incidence of AIDS-defining events or death was lower in the triple-drug–containing arm compared with the 2-drug–containing arm (6.1% versus 10.9%, respectively).
 
 Monotherapy: In controlled studies of treatment-naive patients conducted between 1986 and 1989, monotherapy with RETROVIR, as compared with placebo, reduced the risk of HIV-1 disease progression, as assessed using endpoints that included the occurrence of HIV-1-related illnesses, AIDS-defining events, or death.

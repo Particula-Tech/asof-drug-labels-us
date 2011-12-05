@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Information About Therapy With RETROVIR
+## 17.1 Advice for the Patient
 
 Neutropenia and Anemia: Patients should be informed that the major toxicities of RETROVIR are neutropenia and/or anemia.
 The frequency and severity of these toxicities are greater in patients with more advanced disease and in those who initiate therapy later in the course of their infection.
@@ -12,6 +12,8 @@ Myopathy: Patients should be informed that myopathy and myositis with pathologic
 Lactic Acidosis/Hepatomegaly: Patients should be informed that some HIV medicines, including RETROVIR, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Boxed Warning, Warnings and Precautions (5.3)].
 
 HIV-1/HCV Co-Infection: Patients with HIV-1/HCV co-infection should be informed that hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.4)].
+
+Use With Other Zidovudine-Containing Products: RETROVIR should not be administered with combination products that contain zidovudine as one of their components (e.g., COMBIVIR [lamivudine and zidovudine] Tablets or TRIZIVIR [abacavir sulfate, lamivudine, and zidovudine] Tablets) [see Warnings and Precautions (5.5)].
 
 Redistribution/Accumulation of Body Fat: Patients should be informed that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.7)].
 
@@ -26,14 +28,20 @@ The long-term consequences of in utero and infant exposure to RETROVIR are unkno
 
 HIV-1-infected pregnant women should be informed not to breastfeed to avoid postnatal transmission of HIV to a child who may not yet be infected [see Use in Specific Populations (8.3)].
 
-Information About Therapy With RETROVIR: RETROVIR is not a cure for HIV-1 infection, and patients may continue to acquire illnesses associated with HIV-1 infection, including opportunistic infections.
-Therefore, patients should be informed to seek medical care for any significant change in their health status.
+Information About HIV-1 Infection: RETROVIR is not a cure for HIV-1 infection, and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
+Patients should remain under the care of a physician when using RETROVIR.
 
-Patients should be informed of the importance of taking RETROVIR exactly as prescribed.
-They should be informed not to share medication and not to exceed the recommended dose.
-Patients should be informed that the long-term effects of RETROVIR are unknown at this time.
+Patients should be advised to avoid doing things that can spread HIV-1 infection to others.
 
-Patients should be informed that therapy with RETROVIR has not been shown to reduce the risk of transmission of HIV-1 to others through sexual contact or blood contamination.
+- Do not share needles or other injection equipment.
+- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+- Do not have any kind of sex without protection.
+  Always practice safe sex by using a latex or polyurethane condom or other barrier method to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+- Do not breastfeed.
+  Zidovudine is excreted in human breast milk.
+  Mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
+
+Patients should be informed to take all HIV medications exactly as prescribed.
 
 RETROVIR, COMBIVIR, EPIVIR, and TRIZIVIR are registered trademarks of ViiV Healthcare.
 
@@ -52,6 +60,6 @@ Research Triangle Park, NC 27709
 ©2011, ViiV Healthcare.
 All rights reserved.
 
-January 2011
+November 2011
 
-RTT:5PI
+RTT:6PI

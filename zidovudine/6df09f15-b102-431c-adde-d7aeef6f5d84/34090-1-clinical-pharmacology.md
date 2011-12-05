@@ -32,7 +32,7 @@ The major metabolite of zidovudine is GZDV.
 GZDV AUC is about 3-fold greater than the zidovudine AUC.
 Urinary recovery of zidovudine and GZDV accounts for 14% and 74%, respectively, of the dose following oral administration.
 A second metabolite, 3′-amino-3′-deoxythymidine (AMT), has been identified in the plasma following single-dose intravenous (IV) administration of zidovudine.
-The AMT AUC was one fifth of the zidovudine AUC.
+The AMT AUC was one-fifth of the zidovudine AUC.
 Pharmacokinetics of zidovudine were dose independent at oral dosing regimens ranging from 2 mg/kg every 8 hours to 10 mg/kg every 4 hours.
 
 Effect of Food on Absorption: RETROVIR may be administered with or without food.
@@ -63,13 +63,13 @@ However, because zidovudine is eliminated primarily by hepatic metabolism, it is
 
 Pediatric Patients: Zidovudine pharmacokinetics have been evaluated in HIV-1-infected pediatric patients (Table 8).
 
-Patients 3 Months to 12 Years of Age: Overall, zidovudine pharmacokinetics in pediatric patients greater than 3 months of age are similar to those in adult patients.
+Patients Aged 3 Months to 12 Years: Overall, zidovudine pharmacokinetics in pediatric patients greater than 3 months of age are similar to those in adult patients.
 Proportional increases in plasma zidovudine concentrations were observed following administration of oral solution from 90 to 240 mg/m2 every 6 hours.
 Oral bioavailability, terminal half-life, and oral clearance were comparable to adult values.
 As in adult patients, the major route of elimination was by metabolism to GZDV.
 After intravenous dosing, about 29% of the dose was excreted in the urine unchanged, and about 45% of the dose was excreted as GZDV [see Dosage and Administration (2.1)].
 
-Patients <3 Months of Age: Zidovudine pharmacokinetics have been evaluated in pediatric patients from birth to 3 months of life.
+Patients Aged Less Than 3 Months: Zidovudine pharmacokinetics have been evaluated in pediatric patients from birth to 3 months of life.
 Zidovudine elimination was determined immediately following birth in 8 neonates who were exposed to zidovudine in utero.
 The half-life was 13.0 ± 5.8 hours.
 In neonates ≤14 days old, bioavailability was greater, total body clearance was slower, and half-life was longer than in pediatric patients >14 days old.
@@ -78,7 +78,7 @@ For dose recommendations for neonates [see Dosage and Administration (2.2)].
 Table 8.
 Zidovudine Pharmacokinetic Parameters in Pediatric Patientsa
 
-| Parameter | Birth to 14 Days of Age | 14 Days to 3 Months of Age | 3 Months to 12 Years of Age |
+| Parameter | Birth to 14 Days | Aged 14 Days to 3 Months | Aged 3 Months to 12 Years |
 | --- | --- | --- | --- |
 | Oral bioavailability (%) | 89 ± 19(n = 15) | 61 ± 19(n = 17) | 65 ± 24(n = 18) |
 | CSF:plasma ratio | no data | no data | 0.68 [0.03 to 3.25]b(n = 38) |

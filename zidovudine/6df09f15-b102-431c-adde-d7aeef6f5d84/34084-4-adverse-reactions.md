@@ -1,13 +1,13 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Trials Experience
-
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - Hematologic toxicity, including neutropenia and anemia [see Boxed Warning, Warnings and Precautions (5.1)].
 - Symptomatic myopathy [see Boxed Warning, Warnings and Precautions (5.2)].
 - Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
 - Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.4)].
+
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
