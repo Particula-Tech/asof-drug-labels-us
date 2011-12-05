@@ -1,4 +1,4 @@
-MEDICATION GUIDE
+Medication Guide
 
 TESTIM® (těs TIM) 1%, CIII (testosterone gel)
 
@@ -8,33 +8,31 @@ This Medication Guide does not take the place of talking to your doctor about yo
 
 What is the most important information I should know about TESTIM?
 
-Signs of puberty that are not expected (for example, pubic hair) have happened in young children who were accidentally exposed to testosterone through contact with men using TESTIM.
+1. Early signs and symptoms of puberty have happened in young children who were accidentally exposed to testosterone through contact with men using TESTIM.
+   Signs and symptoms of early puberty in a child may include:
+   - enlarged penis or clitoris
+   - early development of pubic hair
+   - increased erections or sex drive
+   - aggressive behavior
+2. TESTIM can transfer from your body to others.
+   Women and children should avoid contact with the unwashed or unclothed area where TESTIM has been applied to your skin.
+   Stop using TESTIM and call your doctor right away if you see any signs and symptoms in a child or a woman that may have occurred through accidental exposure to TESTIM.
+   Signs and symptoms of exposure to Testim in children may include: Signs and symptoms of exposure to TESTIM in women may include:
+   - enlarged penis or clitoris
+   - early development of pubic hair
+   - increased erections or sex drive
+   - aggressive behavior
+   - changes in body hair
+   - a large increase in acne
 
-TESTIM can transfer from your body to others.
-This can happen if other people come into contact with the area where the TESTIM was applied to your skin.
+To lower the risk of transfer of TESTIM from your body to others, you should follow these important instructions:
 
-- Women and children should avoid contact with the unwashed or unclothed area where TESTIM has been applied.
-- To lower the risk of transfer of TESTIM from your body to others, you should follow these important instructions:
-  - Apply TESTIM only to the areas of your shoulders and upper arms that will be covered by a short sleeve T-shirt.
-  - Wash your hands right away with soap and water after applying TESTIM.
-  - After the gel has dried, cover the application area with clothing.
-    Keep the area covered until you have washed the application area well or have showered.
-  - If you expect to have skin-to-skin contact with another person, first wash the application area well with soap and water.
-  - If a woman or child makes contact with the TESTIM application area, that area on the woman or child should be washed well with soap and water right away.
-
-Stop using TESTIM and call your doctor right away if you see any signs and symptoms in a child or a woman that may have occurred through accidental exposure to TESTIM:
-
-Signs and symptoms in children may include:
-
-- enlarged penis or clitoris
-- early development of pubic hair
-- increased erections or sex drive
-- aggressive behavior
-
-Signs and symptoms in women may include:
-
-- changes in body hair
-- a large increase in acne
+- Apply TESTIM only to the areas of your shoulders and upper arms that will be covered by a short sleeve T-shirt.
+- Wash your hands right away with soap and water after applying TESTIM.
+- After the gel has dried, cover the application area with clothing.
+  Keep the area covered until you have washed the application area well or have showered.
+- If you expect to have skin-to-skin contact with another person, first wash the application area well with soap and water.
+- If a woman or child makes contact with the TESTIM application area, that area on the woman or child should be washed well with soap and water right away.
 
 What is TESTIM?
 
@@ -182,4 +180,4 @@ Active ingredient: testosterone (that may be made from soy)
 Inactive ingredients: purified water, pentadecalactone, carbopol, acrylates, propylene glycol, glycerin, polyethylene glycol, ethanol (74%), and tromethamine.
 
 This Medication Guide has been approved by the US Food and Drug Administration.
-Manufactured for: Auxilium Pharmaceuticals, Inc. Malvern, PA 19355 USA By: DPT Laboratories, Ltd. San Antonio, TX 78215 Medication Guide issued: September 2009 PL-0705-002.b 129091
+Manufactured for: Auxilium Pharmaceuticals, Inc. Malvern, PA 19355 USA By: DPT Laboratories, Ltd. San Antonio, TX 78215 Medication Guide issued: 11/2011 PL-0705-002.c 129794
