@@ -15,7 +15,7 @@ Number of Patients (%) With at Least One HIV-1 Disease Progression Event or Deat
 
 | Endpoint | Current Therapy(n = 460) | EPIVIR plusCurrent Therapy(n = 896) | EPIVIR plus anNNRTIa plus CurrentTherapy(n = 460) |
 | --- | --- | --- | --- |
-| HIV progression or death | 90 (19.6%) | 86 (9.6%) | 41 (8.9%) |
+| HIV-1 progression or death | 90 (19.6%) | 86 (9.6%) | 41 (8.9%) |
 | Death | 27 (5.9%) | 23 (2.6%) | 14 (3.0%) |
 | a An investigational non-nucleoside reverse transcriptase inhibitor not approved in the United States. |  |  |  |
 
@@ -70,7 +70,7 @@ Number of Patients (%) Reaching a Primary Clinical Endpoint (Disease Progression
 
 | Endpoint | EPIVIR plus RETROVIR(n = 236) | Didanosine (n = 235) |
 | --- | --- | --- |
-| HIV disease progression or death (total) | 15 (6.4%) | 37 (15.7%) |
+| HIV-1 disease progression or death (total) | 15 (6.4%) | 37 (15.7%) |
 | Physical growth failure | 7 (3.0%) | 6 (2.6%) |
 | Central nervous system deterioration | 4 (1.7%) | 12 (5.1%) |
 | CDC Clinical Category C | 2 (0.8%) | 8 (3.4%) |

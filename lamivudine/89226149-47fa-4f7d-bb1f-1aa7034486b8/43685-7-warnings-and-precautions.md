@@ -29,7 +29,7 @@ Emergence of hepatitis B virus variants associated with resistance to lamivudine
 
 ## 5.3 Use With Other Lamivudine- and Emtricitabine-Containing Products
 
-EPIVIR should not be administered concomitantly with other lamivudine-containing products including EPIVIR-HBV Tablets, EPIVIR Oral Solution, COMBIVIR (lamivudine/zidovudine) Tablets, EPZICOM (abacavir sulfate and lamivudine) Tablets, or TRIZIVIR (abacavir sulfate, lamivudine, and zidovudine) or emtricitabine-containing products, including ATRIPLA® (efavirenz, emtricitabine, and tenofovir), EMTRIVA® (emtricitabine), or TRUVADA® (emtricitabine and tenofovir).
+EPIVIR should not be administered concomitantly with other lamivudine-containing products including EPIVIR-HBV Tablets, EPIVIR Oral Solution, COMBIVIR (lamivudine/zidovudine) Tablets, EPZICOM (abacavir sulfate and lamivudine) Tablets, or TRIZIVIR (abacavir sulfate, lamivudine, and zidovudine) or emtricitabine-containing products, including ATRIPLA® (efavirenz, emtricitabine, and tenofovir), EMTRIVA® (emtricitabine), TRUVADA® (emtricitabine and tenofovir), or COMPLERA™ (rilpivirine/emtricitabine/tenofovir).
 
 ## 5.4 Use With Interferon- and Ribavirin-Based Regimens
 
@@ -49,6 +49,8 @@ Treatment with EPIVIR should be stopped immediately if clinical signs, symptoms,
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including EPIVIR.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
+
+Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
 ## 5.7 Fat Redistribution
 
