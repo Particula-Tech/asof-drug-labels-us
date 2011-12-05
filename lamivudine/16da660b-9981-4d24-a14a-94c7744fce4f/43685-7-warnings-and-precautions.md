@@ -40,7 +40,7 @@ Emergence of hepatitis B virus variants associated with resistance to lamivudine
 ## 5.5 Use With Other, Lamivudine-, Zidovudine-, and/or Emtricitabine-Containing Products
 
 COMBIVIR is a fixed-dose combination of lamivudine and zidovudine.
-COMBIVIR should not be administered concomitantly with other lamivudine- or zidovudine-containing products including EPIVIR® (lamivudine) Tablets and Oral Solution, EPIVIR-HBV Tablets and Oral Solution, RETROVIR® (zidovudine) Tablets, Capsules, Syrup, and IV Infusion, EPZICOM® (abacavir sulfate and lamivudine) Tablets, or TRIZIVIR® (abacavir sulfate, lamivudine, and zidovudine) Tablets; or emtricitabine-containing products, including ATRIPLA® (efavirenz, emtricitabine, and tenofovir), EMTRIVA® (emtricitabine), or TRUVADA® (emtricitabine and tenofovir).
+COMBIVIR should not be administered concomitantly with other lamivudine- or zidovudine-containing products including EPIVIR® (lamivudine) Tablets and Oral Solution, EPIVIR-HBV Tablets and Oral Solution, RETROVIR® (zidovudine) Tablets, Capsules, Syrup, and IV Infusion, EPZICOM® (abacavir sulfate and lamivudine) Tablets, or TRIZIVIR® (abacavir sulfate, lamivudine, and zidovudine) Tablets; or emtricitabine-containing products, including ATRIPLA® (efavirenz, emtricitabine, and tenofovir), EMTRIVA® (emtricitabine), or TRUVADA® (emtricitabine and tenofovir) or COMPLERA™ (rilpivirine/emtricitabine/tenofovir).
 
 ## 5.6 Use With Interferon- and Ribavirin-Based Regimens
 
@@ -51,7 +51,7 @@ Discontinuation of COMBIVIR should be considered as medically appropriate.
 Dose reduction or discontinuation of interferon alfa, ribavirin, or both should also be considered if worsening clinical toxicities are observed, including hepatic decompensation (e.g., Child-Pugh greater than 6) (see the complete prescribing information for interferon and ribavirin).
 
 Exacerbation of anemia has been reported in HIV-1/HCV co-infected patients receiving ribavirin and zidovudine.
-Co-administration of ribavirin and zidovudine is not advised.
+Coadministration of ribavirin and zidovudine is not advised.
 
 ## 5.7 Pancreatitis
 
@@ -62,6 +62,8 @@ Treatment with COMBIVIR should be stopped immediately if clinical signs, symptom
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including COMBIVIR.
 During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
+
+Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
 ## 5.9 Fat Redistribution
 

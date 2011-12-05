@@ -47,7 +47,7 @@ Zidovudine: Increased fetal resorptions occurred in pregnant rats and rabbits tr
 There were no other reported developmental anomalies.
 In another developmental toxicity study, pregnant rats received zidovudine up to near-lethal doses that produced peak plasma concentrations 350 times peak human plasma concentrations (300 times the daily exposure [AUC] in humans given 600 mg/day zidovudine).
 This dose was associated with marked maternal toxicity and an increased incidence of fetal malformations.
-However, there were no signs of teratogenicity at doses up to one fifth the lethal dose [see Nonclinical Toxicology(13.2)].
+However, there were no signs of teratogenicity at doses up to one-fifth the lethal dose [see Nonclinical Toxicology(13.2)].
 
 ## 8.3 Nursing Mothers
 
