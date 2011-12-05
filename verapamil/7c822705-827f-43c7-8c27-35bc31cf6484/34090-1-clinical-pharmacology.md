@@ -40,7 +40,7 @@ It is not known whether this action is important at the doses used in man.
 Hemodynamics: Verapamil reduces afterload and myocardial contractility.
 In most patients, including those with organic cardiac disease, the negative inotropic action of verapamil is countered by reduction of afterload and cardiac index remains unchanged.
 During isometric or dynamic exercise, verapamil does not alter systolic cardiac function in patients with normal ventricular function.
-In patients with severe left ventricular dysfunction (e.g., pulmonary wedge pressure above 20 mm Hg or ejection fraction less than 30%), or in patients taking beta-adrenergic blocking agents or other cardiodepressant drugs, deterioration of ventricular function may occur [see Drug Interactions (7.3)].
+In patients with severe left ventricular dysfunction (e.g., pulmonary wedge pressure above 20 mm Hg or ejection fraction less than 30%), or in patients taking beta-adrenergic blocking agents or other cardiodepressant drugs, deterioration of ventricular function may occur [see Drug Interactions (7.4)].
 
 Pulmonary Function: Verapamil does not induce bronchoconstriction and, hence, does not impair ventilatory function.
 
@@ -86,7 +86,7 @@ Trough concentrations occur approximately 4 hours after bedtime dosing while the
 Steady-state pharmacokinetics were determined in healthy volunteers.
 Steady-state concentration is achieved by day 5 of dosing.
 
-In healthy volunteers, following administration of VerelanPM (200 mg per day), steady-state pharmacokinetics of the R and S enantiomers of verapamil is as follows: Mean Cmax of the R isomer was 77.8 ng/ml and 16.8 ng/ml for the S isomer; AUC (0-24h) of the R isomer was 1037 ng∙h/ml and 195 ng∙h/ml for the S isomer.
+In healthy volunteers, following administration of Verelan PM (200 mg per day), steady-state pharmacokinetics of the R and S enantiomers of verapamil is as follows: Mean Cmax of the R isomer was 77.8 ng/ml and 16.8 ng/ml for the S isomer; AUC (0-24h) of the R isomer was 1037 ng∙h/ml and 195 ng∙h/ml for the S isomer.
 
 In general, bioavailability of verapamil is higher and half life longer in older (>65 yrs) subjects.
 Lean body weight also affects its pharmacokinetics inversely.

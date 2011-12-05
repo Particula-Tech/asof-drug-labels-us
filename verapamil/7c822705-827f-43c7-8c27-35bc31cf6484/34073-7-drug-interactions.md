@@ -7,7 +7,16 @@ Clinically significant interactions have been reported with inhibitors of CYP3A4
 Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class of antibiotics.
 Inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil.
 
-## 7.2 Grapefruit Juice
+## 7.2 HMG-CoA Reductase Inhibitors
+
+The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.
+
+Co-administration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone.
+Limit the dose of simvastatin in patients on verapamil to 10 mg daily.
+Limit the daily dose of lovastatin to 40 mg.
+Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.
+
+## 7.3 Grapefruit Juice
 
 Grapefruit juice may significantly increase concentrations of verapamil.
 Grapefruit juice given to nine healthy volunteers increased S- and R- verapamil AUC0-12 by 36% and 28%, respectively.
@@ -17,7 +26,7 @@ Grapefruit juice did not affect half-life, nor was there a significant change in
 Grapefruit juice did not cause a significant difference in the pharmacokinetics of norverapamil.
 This increase in verapamil plasma concentration is not expected to have any clinical consequences.
 
-## 7.3 Beta Blockers
+## 7.4 Beta Blockers
 
 Concomitant therapy with beta-adrenergic blockers and verapamil may result in additive negative effects on heart rate, atrioventricular conduction, and/or cardiac contractility.
 The combination of extended-release verapamil and beta-adrenergic blocking agents has not been studied.
@@ -29,37 +38,37 @@ Asymptomatic bradycardia (36 beats/min) with a wandering atrial pacemaker has be
 A decrease in metoprolol and propranolol clearance has been observed when either drug is administered concomitantly with verapamil.
 A variable effect has been seen when verapamil and atenolol were given together.
 
-## 7.4 Digitalis
+## 7.5 Digitalis
 
 Consider reducing digoxin dose when verapamil and digoxin are to be given together.
 Monitor digoxin level periodically during therapy.
 Chronic verapamil treatment can increase serum digoxin levels by 50% to 75% during the first week of therapy, and this can result in digitalis toxicity.
 In patients with hepatic cirrhosis the influence of verapamil on digoxin pharmacokinetics is magnified.
-Verapamil may reduce total body clearance and extra-renal clearance of digitoxin by 27% and 29%, respectively.
+Verapamil may reduce total body clearance and extra-renal clearance of digoxin by 27% and 29%, respectively.
 If digoxin toxicity is suspected, suspend or discontinue digoxin therapy.
 
 In previous clinical trials with other verapamil formulations related to the control of ventricular response in patients taking digoxin who had atrial fibrillation or atrial flutter, ventricular rates below 50/min at rest occurred in 15% of patients, and asymptomatic hypotension occurred in 5% of patients.
 
-## 7.5 Alcohol
+## 7.6 Alcohol
 
 Verapamil has been found to significantly inhibit ethanol elimination resulting in elevated blood ethanol concentrations that may prolong the intoxicating effects of alcohol.
 
-## 7.6 Clonidine
+## 7.7 Clonidine
 
 Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with verapamil.
 Monitor heart rate in patients receiving concomitant verapamil and clonidine.
 
-## 7.7 Telithromycin
+## 7.8 Telithromycin
 
 Hypotension and bradyarrhythmias have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class of antibiotics.
 
-## 7.8 Antineoplastic Agents
+## 7.9 Antineoplastic Agents
 
 Verapamil can increase doxorubicin levels.
 The absorption of verapamil can be reduced by the cyclophosphamide, oncovin, procarbazine, prednisone (COPP) and the vindesine, adriamycin, cisplatin (VAC) cytotoxic drug regimens.
 Concomitant administration of R verapamil can decrease the clearance of paclitaxel.
 
-## 7.9 Quinidine
+## 7.10 Quinidine
 
 In a small number of patients with hypertrophic cardiomyopathy, concomitant use of verapamil and quinidine resulted in significant hypotension.
 Until further data are obtained, avoid combined therapy of verapamil and quinidine in patients with hypertrophic cardiomyopathy.
@@ -68,69 +77,69 @@ The electrophysiological effects of quinidine and verapamil on AV conduction wer
 Verapamil significantly counteracted the effects of quinidine on AV conduction.
 There has been a report of increased quinidine levels during verapamil therapy.
 
-## 7.10 Aspirin
+## 7.11 Aspirin
 
 In a few reported cases, coadministration of verapamil with aspirin has led to increased bleeding times greater than observed with aspirin alone.
 
-## 7.11 Antihypertensive agents
+## 7.12 Antihypertensive agents
 
 Verapamil administered concomitantly with oral antihypertensive agents (e.g., vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta blockers) will usually have an additive effect on lowering blood pressure.
 Monitor patients receiving these combinations appropriately.
 Concomitant use of agents that attenuate alpha-adrenergic function with verapamil may result in reduction in blood pressure that is excessive in some patients.
 Such an effect was observed in one study following the concomitant administration of verapamil and prazosin.
 
-## 7.12 Disopyramide
+## 7.13 Disopyramide
 
 Until data on possible interactions between verapamil and disopyramide are obtained, do not administer disopyramide within 48 hours before or 24 hours after verapamil administration.
 
-## 7.13 Flecainide
+## 7.14 Flecainide
 
 A study in healthy volunteers showed that the concomitant administration of flecainide and verapamil may have additive effects on myocardial contractility, AV conduction, and repolarization.
 Concomitant therapy with flecainide and verapamil may result in additive negative inotropic effect and prolongation of atrioventricular conduction.
 
-## 7.14 Carbamazepine
+## 7.15 Carbamazepine
 
 Verapamil therapy may increase carbamazepine concentrations during combined therapy.
 This may produce carbamazepine side effects such as diplopia, headache, ataxia, or dizziness.
 
-## 7.15 Cyclosporine
+## 7.16 Cyclosporine
 
 Verapamil therapy may increase serum levels of cyclosporine.
 
-## 7.16 Lithium
+## 7.17 Lithium
 
 Increased sensitivity to the effects of lithium (neurotoxicity) has been reported during concomitant verapamil-lithium therapy with either no change or an increase in serum lithium levels.
 However, the addition of verapamil has also resulted in the lowering of serum lithium levels in patients receiving chronic stable oral lithium.
 Patients receiving both drugs must be monitored carefully.
 
-## 7.17 Inhalation Anesthetics
+## 7.18 Inhalation Anesthetics
 
 Animal experiments have shown that inhalation anesthetics depress cardiovascular activity by decreasing the inward movement of calcium ions.
 When used concomitantly, inhalation anesthetics and calcium antagonists, such as verapamil, titrate slowly to avoid excessive cardiovascular depression.
 
-## 7.18 Neuromuscular Blocking Agents
+## 7.19 Neuromuscular Blocking Agents
 
 Clinical data and animal studies suggest that verapamil may potentiate the activity of neuromuscular blocking agents (curare-like and depolarizing).
 It may be necessary to decrease the dose of verapamil and/or the dose of the neuromuscular blocking agent when the drugs are used concomitantly.
 
-## 7.19 Phenobarbital
+## 7.20 Phenobarbital
 
 Phenobarbital therapy may increase verapamil clearance.
 
-## 7.20 Rifampin
+## 7.21 Rifampin
 
 Therapy with rifampin may markedly reduce oral verapamil bioavailability.
 
-## 7.21 Theophylline
+## 7.22 Theophylline
 
 Verapamil may inhibit the clearance and increase the plasma levels of theophylline.
 
-## 7.22 Cimetidine
+## 7.23 Cimetidine
 
 The interaction between cimetidine and chronically administered verapamil has not been studied.
 Variable results on clearance have been obtained in acute studies of healthy volunteers; clearance of verapamil was either reduced or unchanged.
 
-## 7.23 Nitrates
+## 7.24 Nitrates
 
 Verapamil has been given concomitantly with short- and long-acting nitrates without any undesirable drug interactions.
 The pharmacologic profile of both drugs and the clinical experience suggest beneficial interactions.

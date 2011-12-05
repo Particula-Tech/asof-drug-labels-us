@@ -4,8 +4,8 @@
 
 Verapamil has a negative inotropic effect which, in most patients, is compensated by its afterload reduction (decreased systemic vascular resistance) properties without a net impairment of ventricular performance.
 In previous clinical experience with 4,954 patients primarily with immediate-release verapamil, 87 (1.8%) developed congestive heart failure or pulmonary edema.
-Avoid verapamil in patients with severe left ventricular dysfunction (e.g., ejection fraction less than 30% or moderate to severe symptoms of cardiac failure) and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker [see Drug Interactions (7.3)].
-Control patients with milder ventricular dysfunction, if possible, with optimum doses of digitalis and/or diuretics before verapamil treatment is started [see Drug Interactions (7.4)].
+Avoid verapamil in patients with severe left ventricular dysfunction (e.g., ejection fraction less than 30% or moderate to severe symptoms of cardiac failure) and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker [see Drug Interactions (7.4)].
+Control patients with milder ventricular dysfunction, if possible, with optimum doses of digitalis and/or diuretics before verapamil treatment is started [see Drug Interactions (7.5)].
 
 ## 5.2 Hypotension
 
@@ -43,7 +43,7 @@ Marked first-degree block or progressive development to second- or third-degree 
 In 120 patients with hypertrophic cardiomyopathy, idiopathic hypertrophic subaortic stenosis (IHSS) (most of them refractory or intolerant to propranolol) who received therapy with verapamil at doses up to 720 mg/day, a variety of serious adverse effects were seen.
 Three patients died in pulmonary edema; all had severe left ventricular outflow obstruction and a history of left ventricular dysfunction.
 Eight other patients had pulmonary edema and/or severe hypotension; abnormally high (over 20 mm Hg) pulmonary capillary wedge pressure and a marked left ventricular outflow obstruction were present in most of these patients.
-Concomitant administration of quinidine [see Drug Interactions (7.9)] preceded the severe hypotension in 3 of the 8 patients (2 of whom developed pulmonary edema).
+Concomitant administration of quinidine [see Drug Interactions (7.10)] preceded the severe hypotension in 3 of the 8 patients (2 of whom developed pulmonary edema).
 Sinus bradycardia occurred in 11% of the patients, second-degree AV block in 4% and sinus arrest in 2% [see Adverse Reactions (6)].
 It must be appreciated that this group of patients had a serious disease with a high mortality rate.
 Most adverse effects responded well to dose reduction and only rarely did verapamil have to be discontinued.
