@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "NDA020062"
+  ],
+  "inn": "diltiazem",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-0795-30",
+    "0187-0795-42",
+    "0187-0795-49",
+    "0187-0796-30",
+    "0187-0796-42",
+    "0187-0796-49",
+    "0187-0796-50",
+    "0187-0797-30",
+    "0187-0797-42",
+    "0187-0797-49",
+    "0187-0798-30",
+    "0187-0798-42",
+    "0187-0799-42"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "diltiazem hydrochloride",
+      "name": "Cardizem CD"
+    }
+  ],
+  "setid": "1042fa13-e6af-46b9-8008-6c941f0978b1",
+  "source": "dailymed"
+}
