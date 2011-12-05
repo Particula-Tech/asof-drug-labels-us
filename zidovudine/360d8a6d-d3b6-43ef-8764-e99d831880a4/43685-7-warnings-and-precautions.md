@@ -49,10 +49,22 @@ Although the data are limited, zidovudine concentrations appear to be increased 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including RETROVIR.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
+Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
+
 ## Information for Patients:
 
-RETROVIR is not a cure for HIV infection, and patients may continue to acquire illnesses associated with HIV infection, including opportunistic infections.
-Therefore, patients should be advised to seek medical care for any significant change in their health status.
+RETROVIR is not a cure for HIV-1 infection, and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
+Patients should remain under the care of a physician when using RETROVIR.
+
+Patients should be advised to avoid doing things that can spread HIV-1 infection to others.
+
+- Do not share needles or other injection equipment.
+- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+- Do not have any kind of sex without protection.
+  Always practice safe sex by using a latex or polyurethane condom or other barrier method to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+- Do not breastfeed.
+  Zidovudine is excreted in human breast milk.
+  Mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
 
 The safety and efficacy of RETROVIR in treating women, intravenous drug users, and racial minorities is not significantly different than that observed in white males.
 
@@ -68,8 +80,6 @@ Pregnant women considering the use of RETROVIR during pregnancy for prevention o
 The long-term consequences of in utero and neonatal exposure to RETROVIR are unknown, including the possible risk of cancer.
 
 HIV-infected pregnant women should be advised not to breastfeed to avoid postnatal transmission of HIV to a child who may not yet be infected.
-
-Patients should be advised that therapy with RETROVIR has not been shown to reduce the risk of transmission of HIV to others through sexual contact or blood contamination.
 
 ## Drug Interactions:
 
