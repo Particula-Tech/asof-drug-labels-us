@@ -65,14 +65,14 @@ Especially tell your healthcare provider if you take:
 
 |  | Sandimmune® (cyclosporine), | Rapamune® (sirolimus), |  |
 | --- | --- | --- | --- |
-|  | Alfenta® (alfentanil), | Prograf® (tracrolimus), |  |
+|  | Alfenta® (alfentanil), | Prograf® (tacrolimus), |  |
 |  | Fentanyl® (fentanyl), | Ergomar® (ergotamine). |  |
 |  | Orap® (pimozide), |  |  |
 
 SPRYCEL is best absorbed from your stomach into your bloodstream in the presence of stomach acid.
 You should avoid taking medicines that reduce stomach acid, such as:
 
-|  | Tagamet® (cimetidine), | Protonix® (pentoprazole sodium), |  |
+|  | Tagamet® (cimetidine), | Protonix® (pantoprazole sodium), |  |
 | --- | --- | --- | --- |
 |  | Pepcid® (famotidine), | Nexium® (esomeprazole), |  |
 |  | Zantac® (ranitidine), | AcipHex® (rabeprazole), |  |
