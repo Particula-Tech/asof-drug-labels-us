@@ -171,9 +171,11 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Immune System Disorders: anaphylaxis including anaphylactoid reactions
 
-Psychiatric Disorders: altered mental status (including aggression, delirium), hallucinations
+Musculoskeletal and Connective Tissue Disorders: muscular weakness
 
 Nervous System Disorders: dyskinesia, myoclonus, tremor
+
+Psychiatric Disorders: altered mental status (including aggression, delirium), hallucinations
 
 Skin and Subcutaneous Tissue Disorders: Drug Rash with Eosinophilia and Systemic Symptoms (DRESS syndrome)
 

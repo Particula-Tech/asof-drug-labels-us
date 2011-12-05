@@ -202,7 +202,7 @@ Table 11: Susceptibility Interpretive Criteria for Ertapenem
 
 |  | S | I | R | S | I | R |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pathogen | Minimum Inhibitory ConcentrationsThe current absence of data in resistant isolates precludes defining any results other than “Susceptible”. Isolates yielding MIC results suggestive of a “Nonsusceptible” category should be submitted to a reference laboratory for further testing. MIC (μg/mL) |  |  | Disk Diffusion Zone Diameter (mm) |  |  |
+| Pathogen | Minimum Inhibitory ConcentrationsThe current absence of data in resistant isolates precludes defining any results other than "Susceptible". Isolates yielding MIC results suggestive of a "Nonsusceptible" category should be submitted to a reference laboratory for further testing. MIC (μg/mL) |  |  | Disk Diffusion Zone Diameter (mm) |  |  |
 | Enterobacteriaceae and Staphylococcus aureus | ≤2.0 | 4.0 | ≥8.0 | ≥19 | 16-18 | ≤15 |
 | Haemophilus spp. | ≤0.5 | - | - | ≥19 | - | - |
 | Streptococcus pneumoniaeStreptococcus pneumoniae that are susceptible to penicillin (penicillin MIC ≤0.06 μg/mL) can be considered susceptible to ertapenem. Testing of ertapenem against penicillin-intermediate or penicillin-resistant isolates is not recommended since reliable interpretive criteria for ertapenem are not available.,Streptococcus pneumoniae that are susceptible to penicillin (1-μg oxacillin disk zone diameter ≥20 mm), can be considered susceptible to ertapenem. Isolates with 1-μg oxacillin zone diameter ≤19 mm should be tested against ertapenem using an MIC method. | ≤1.0 | 2 | ≥4 | - | - | - |
@@ -219,11 +219,11 @@ If the penicillin zone is ≤28 mm, then test oxacillin by disk diffusion (1 µg
 Staphylococcus aureus can be considered susceptible to ertapenem if the oxacillin (1 µg disk) zone is ≥13 mm and resistant to ertapenem if the oxacillin zone is ≤10 mm.
 Coagulase negative staphylococci can be considered susceptible to ertapenem if the oxacillin zone is ≥18 mm and resistant to ertapenem if the oxacillin (1 µg disk) zone is ≤17 mm.
 
-A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound at the infection site reaches the concentrations usually achievable.
-A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound at the infection site reaches the concentrations usually achievable.
+A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
 This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of “Resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound at the infection site reaches the concentrations usually achievable; other therapy should be selected.
+A report of "Resistant" indicates that the pathogen is not likely to be inhibited if the antimicrobial compound at the infection site reaches the concentrations usually achievable; other therapy should be selected.
 
 Quality Control
 
