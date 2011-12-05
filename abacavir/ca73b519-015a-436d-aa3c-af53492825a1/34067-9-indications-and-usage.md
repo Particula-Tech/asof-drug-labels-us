@@ -4,5 +4,5 @@ ZIAGEN Tablets and Oral Solution, in combination with other antiretroviral agent
 
 Additional important information on the use of ZIAGEN for treatment of HIV-1 infection:
 
-- ZIAGEN is one of multiple products containing abacavir.
-  Before starting ZIAGEN, review medical history for prior exposure to any abacavir-containing product in order to avoid reintroduction in a patient with a history of hypersensitivity to abacavir.
+ZIAGEN is one of multiple products containing abacavir.
+Before starting ZIAGEN, review medical history for prior exposure to any abacavir-containing product in order to avoid reintroduction in a patient with a history of hypersensitivity to abacavir [see Warnings and Precautions (5.1), Adverse Reactions (6)].

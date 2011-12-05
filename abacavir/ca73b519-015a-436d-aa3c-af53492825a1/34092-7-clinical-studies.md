@@ -24,7 +24,7 @@ Outcomes of Randomized Treatment Through Week 48 (CNA30024)
 After 48 weeks of therapy, the median CD4+ cell count increases from baseline were 209 cells/mm3 in the group receiving ZIAGEN and 155 cells/mm3 in the zidovudine group.
 Through Week 48, 8 subjects (2%) in the group receiving ZIAGEN (5 CDC classification C events and 3 deaths) and 5 subjects (2%) on the zidovudine arm (3 CDC classification C events and 2 deaths) experienced clinical disease progression.
 
-CNA3005 was a multicenter, double-blind, controlled study in which 562 HIV-1-infected, therapy-naive adults were randomized to receive either ZIAGEN (300 mg twice daily) plus COMBIVIR (lamivudine 150 mg/zidovudine 300 mg twice daily), or indinavir (800 mg 3 times a day) plus COMBIVIR twice daily.
+CNA3005 was a multicenter, double-blind, controlled study in which 562 HIV-1-infected, therapy-naive adults were randomized to receive either ZIAGEN (300 mg twice daily) plus COMBIVIR® (lamivudine 150 mg/zidovudine 300 mg twice daily), or indinavir (800 mg 3 times a day) plus COMBIVIR twice daily.
 The study was stratified at randomization by pre-entry plasma HIV-1 RNA 10,000 to 100,000 copies/mL and plasma HIV-1 RNA greater than 100,000 copies/mL.
 Study participants were male (87%), Caucasian (73%), black (15%), and Hispanic (9%).
 At baseline the median age was 36 years, the median baseline CD4+ cell count was 360 cells/mm3, and median baseline plasma HIV-1 RNA was 4.8 log10 copies/mL.

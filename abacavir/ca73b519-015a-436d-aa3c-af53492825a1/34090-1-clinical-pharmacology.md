@@ -93,7 +93,7 @@ In a study of therapy-naive adults receiving ZIAGEN 600 mg once daily (n = 384) 
 Genotypic (n = 38) and phenotypic analyses (n = 35) of virologic failure isolates from this study showed that the RT substitutions that emerged during abacavir once-daily and twice-daily therapy were K65R, L74V, Y115F, and M184V/I.
 The substitution M184V/I was the most commonly observed substitution in virologic failure isolates from patients receiving abacavir once daily (56%, 10/18) and twice daily (40%, 8/20).
 
-Thirty-nine percent (7/18) of the isolates from patients who experienced virologic failure in the abacavir once-daily arm had a greater than 2.5-fold decrease in abacavir susceptibility with a median-fold decrease of 1.3 (range 0.5 to 11) compared with 29% (5/17) of the failure isolates in the twice-daily arm with a median-fold decrease of 0.92 (range 0.7 to 13).
+Thirty-nine percent (7/18) of the isolates from patients who experienced virologic failure in the abacavir once-daily arm had a greater than 2.5-fold decrease in abacavir susceptibility with a median-fold decrease of 1.3 (range: 0.5 to 11) compared with 29% (5/17) of the failure isolates in the twice-daily arm with a median-fold decrease of 0.92 (range: 0.7 to 13).
 
 Cross-Resistance: Cross-resistance has been observed among NRTIs.
 Isolates containing abacavir resistance-associated substitutions, namely, K65R, L74V, Y115F, and M184V, exhibited cross-resistance to didanosine, emtricitabine, lamivudine, tenofovir, and zalcitabine in cell culture and in patients.
