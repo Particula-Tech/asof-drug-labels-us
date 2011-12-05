@@ -22,7 +22,7 @@ Wide interindividual variation in pharmacokinetic parameters is evident followin
 The mean pharmacokinetic parameters for R- and S-oxybutynin are summarized in Table 1.
 The plasma concentration-time profiles for R- and S-oxybutynin are similar in shape; Figure 1 shows the profile for R-oxybutynin.
 
-Table 1 Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following Three Doses of Oxybutynin Chloride 5 mg Administered Every 8 Hours (n=23)
+Table 1 Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following Three Doses of Oxybutynin Chloride 5 mg Administered every 8 Hours (n=23)
 
 | Parameters (units) | R-Oxybutynin | S-Oxybutynin |
 | --- | --- | --- |
@@ -31,7 +31,7 @@ Table 1 Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following Three
 | AUCt (ng∙h/mL) | 22.6 (11.3) | 35.0 (17.3) |
 | AUCinf (ng∙h/mL) | 24.3 (12.3) | 37.3 (18.7) |
 
-Oxybutynin chloride steady-state pharmacokinetics was also studied in 11 pediatric patients with detrusor overactivity associated with a neurological condition (e.g., spina bifida).
+Oxybutynin chloride steady-state pharmacokinetics were also studied in 11 pediatric patients with detrusor overactivity associated with a neurological condition (e.g., spina bifida).
 These pediatric patients were on oxybutynin chloride tablets with total daily dose ranging from 7.5 mg to 15 mg (0.22 to 0.53 mg/kg).
 Overall, most patients (86.9%) were taking a total daily oxybutynin chloride dose between 10 mg and 15 mg.
 Sparse sampling technique was used to obtain serum samples.
@@ -46,9 +46,9 @@ Table 2 Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacok
 | Tmax (hr) | 1.0 | 1.0 | 2.0 | 2.0 |
 | AUCAUC0-end of dosing interval(ng.hr/mL) | 19.8 ± 7.4 | 28.4 ± 12.7 | 238.8 ± 77.6 | 119.5 ± 50.7 |
 
-### Food effects
+### Food Effects
 
-Data in the literature suggests that oxybutynin solution co-administered with food resulted in a slight delay in absorption and an increase in its bioavailability by 25% (n=18).
+Data in the literature suggests that oxybutynin solution co-administered with food resulted in a slight delay in absorption and an increase in its bioavailability by 25% (n=18)1.
 
 ### Distribution
 
@@ -65,6 +65,6 @@ Its metabolic products include phenylcyclohexylglycolic acid, which is pharmacol
 Oxybutynin is extensively metabolized by the liver, with less than 0.1% of the administered dose excreted unchanged in the urine.
 Also, less than 0.1% of the administered dose is excreted as the metabolite desethyloxybutynin.
 
-## Clinical Studies
+## CLINICAL STUDIES
 
 Oxybutynin chloride was well tolerated in patients administered the drug in controlled studies of 30 days' duration and in uncontrolled studies in which some of the patients received the drug for 2 years.
