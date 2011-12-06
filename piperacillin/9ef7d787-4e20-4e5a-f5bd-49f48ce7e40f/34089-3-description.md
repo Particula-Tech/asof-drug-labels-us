@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-ZOSYN® (piperacillin and tazobactam injection) in Galaxy® Containers (PL 2040 Plastic) is a sterile injectable antibacterial combination product consisting of the semisynthetic antibiotic piperacillin sodium and the β-lactamase inhibitor tazobactam sodium for intravenous administration.
+ZOSYN (piperacillin and tazobactam injection) in Galaxy® Containers (PL 2040 Plastic) is a sterile injectable antibacterial combination product consisting of the semisynthetic antibiotic piperacillin sodium and the β-lactamase inhibitor tazobactam sodium for intravenous administration.
 
 Piperacillin sodium is derived from D(-)-α-aminobenzyl-penicillin.
 The chemical name of piperacillin sodium is sodium (2S,5R,6R)-6-[(R)-2-(4-ethyl-2,3-dioxo-1-piperazine-carboxamido)-2-phenylacetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate.
@@ -12,10 +12,10 @@ Its chemical name is sodium (2S,3S,5R)-3-methyl-7-oxo-3-(1H-1,2,3-triazol-1-ylme
 The chemical formula is C10H11N4NaO5S and the molecular weight is 322.3.
 The chemical structure of tazobactam sodium is:
 
-ZOSYN in the Galaxy Container (PL 2040 Plastic) is a frozen iso-osmotic sterile non-pyrogenic premixed solution.
+ZOSYN in the Galaxy Container (PL 2040 Plastic) is a frozen, iso-osmotic, sterile, non-pyrogenic premixed solution.
 The components and dosage formulations are given in the table below:
 
-TABLE 1: ZOSYN IN GALAXY CONTAINERS (PL 2040 PLASTIC) PREMIXED FROZEN SOLUTION
+TABLE 1 ZOSYN IN GALAXY CONTAINERS (PL 2040 PLASTIC) PREMIXED FROZEN SOLUTION
 
 | 2.25 g/50 mL | 3.375 g/50 mL | 4.5 g/100 mL |  |  |
 | --- | --- | --- | --- | --- |

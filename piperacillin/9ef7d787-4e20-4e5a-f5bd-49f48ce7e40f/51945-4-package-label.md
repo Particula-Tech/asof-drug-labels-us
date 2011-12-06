@@ -1,4 +1,4 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 2.25 G - SINGLE DOSE CONTAINER
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 2.25 G SINGLE DOSE CONTAINER
 
 NDC 0206-8860-01
 
@@ -20,8 +20,6 @@ Sterile Nonpyrogenic
 
 Rx only
 
-Wyeth®
-
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 2.25 G - LABEL UNIT
 
 NDC 0206-8860-02
@@ -32,9 +30,9 @@ ZOSYN®
 
 2.25 g
 
-GALAXY
+Pfizer Injectables
 
-Container
+Contains 12 of NDC 0206-8860-01
 
 12 – 50 mL Single Dose Containers
 
@@ -42,11 +40,9 @@ Iso-osmotic
 
 Store at or below -20°C/-4°F.
 
-Do not freeze
+Do not refreeze
 
 Rx only
-
-Wyeth®
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 3.375 G - SINGLE DOSE CONTAINER
 
@@ -70,8 +66,6 @@ Sterile Nonpyrogenic
 
 Rx only
 
-Wyeth®
-
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 3.375 G - LABEL UNIT
 
 NDC 0206-8861-02
@@ -82,9 +76,7 @@ ZOSYN®
 
 3.375 g
 
-GALAXY
-
-Container
+Contains 12 of NDC 0206-8861-01
 
 12 – 50 mL Single Dose Containers
 
@@ -92,11 +84,9 @@ Iso-osmotic
 
 Store at or below -20°C/-4°F.
 
-Do not freeze
+Do not refreeze
 
 Rx only
-
-Wyeth®
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 4.5 G - SINGLE DOSE CONTAINER
 
@@ -120,8 +110,6 @@ Sterile Nonpyrogenic
 
 Rx only
 
-Wyeth®
-
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 4.5 G - LABEL UNIT
 
 NDC 0206-8862-02
@@ -134,7 +122,7 @@ ZOSYN®
 
 GALAXY
 
-Container
+Contains 6 of NDC 0206-8862-01
 
 6 – 100 mL Single Dose Containers
 
@@ -142,8 +130,6 @@ Iso-osmotic
 
 Store at or below -20°C/-4°F.
 
-Do not freeze
+Do not refreeze
 
 Rx only
-
-Wyeth®

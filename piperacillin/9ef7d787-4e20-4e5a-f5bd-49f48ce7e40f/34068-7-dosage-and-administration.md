@@ -10,31 +10,31 @@ Initial presumptive treatment of patients with nosocomial pneumonia should start
 Treatment with the aminoglycoside should be continued in patients from whom Pseudomonas aeruginosa is isolated.
 If Pseudomonas aeruginosa is not isolated, the aminoglycoside may be discontinued at the discretion of the treating physician.
 
-Due to the in vitro inactivation of the aminoglycoside by beta-lactam antibiotics, Zosyn and the aminoglycoside are recommended for separate administration.
-Zosyn and the aminoglycoside should be reconstituted, diluted, and administered separately when concomitant therapy with aminoglycosides is indicated.
+Due to the in vitro inactivation of the aminoglycoside by beta-lactam antibiotics, ZOSYN and the aminoglycoside are recommended for separate administration.
+ZOSYN and the aminoglycoside should be reconstituted, diluted, and administered separately when concomitant therapy with aminoglycosides is indicated.
 (See PRECAUTIONS, Drug Interactions.)
 
-In circumstances where coadministration via Y-site is necessary, reformulated Zosyn containing EDTA supplied in Galaxy® containers is compatible for simultaneous coadministration via Y-site infusion only with the following aminoglycosides under the following conditions:
+In circumstances where coadministration via Y-site is necessary, reformulated ZOSYN containing EDTA supplied in Galaxy containers is compatible for simultaneous coadministration via Y-site infusion only with the following aminoglycosides under the following conditions:
 
-The following compatibility information does not apply to the Zosyn (piperacillin/tazobactam) formulation not containing EDTA.
-This information does not apply to Zosyn in vials or bulk pharmacy containers.
-Refer to the package insert for Zosyn vials or bulk pharmacy containers for instructions.
+The following compatibility information does not apply to the ZOSYN (piperacillin/tazobactam) formulation not containing EDTA.
+This information does not apply to ZOSYN in vials or bulk pharmacy containers.
+Refer to the package insert for ZOSYN vials or bulk pharmacy containers for instructions.
 
 TABLE 5
 
-| Aminoglycoside | Zosyn Dose (grams) | Aminoglycoside Concentration Range* (mg/mL) | Acceptable Diluents |
+| Aminoglycoside | ZOSYN Dose (grams) | Aminoglycoside Concentration Range* (mg/mL) | Acceptable Diluents |
 | --- | --- | --- | --- |
 | Amikacin | 2.25, 3.375, 4.5 | 1.75 – 7.5 | 0.9% Sodium Chloride or 5% Dextrose |
 | Gentamicin | 2.25 or 4.5 | 0.7 – 3.32 | 0.9% Sodium Chloride |
-| *The concentration ranges in Table 5 are based on administration of the aminoglycoside in divided doses (10-15 mg/kg/day in two daily doses for amikacin and 3-5 mg/kg/day in three daily doses for gentamicin). Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with Zosyn containing EDTA has not been evaluated. See package insert for each aminoglycoside for complete Dosage and Administration instructions. |  |  |  |
+| *The concentration ranges in Table 5 are based on administration of the aminoglycoside in divided doses (10-15 mg/kg/day in two daily doses for amikacin and 3-5 mg/kg/day in three daily doses for gentamicin). Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with ZOSYN containing EDTA has not been evaluated. See package insert for each aminoglycoside for complete Dosage and Administration instructions. |  |  |  |
 
-Zosyn Galaxy® containers are available as 2.25 g per 50 mL, 3.375 g per 50 mL, and 4.5 g per 100 mL.
-Zosyn 3.375 g per 50 mL Galaxy® containers are NOT compatible with gentamicin for coadministration via a Y-site due to the higher concentrations of piperacillin and tazobactam.
+ZOSYN Galaxy containers are available as 2.25 g per 50 mL, 3.375 g per 50 mL, and 4.5 g per 100 mL.
+ZOSYN 3.375 g per 50 mL Galaxy containers are NOT compatible with gentamicin for coadministration via a Y-site due to the higher concentrations of piperacillin and tazobactam.
 
-Zosyn is not compatible with tobramycin for simultaneous coadministration via Y-site infusion.
-Compatibility of Zosyn with other aminoglycosides has not been established.
-Only the concentration and diluents for amikacin or gentamicin with the dosages of Zosyn listed above have been established as compatible for coadministration via Y-site infusion.
-Simultaneous coadministration via Y-site infusion in any manner other than listed above may result in inactivation of the aminoglycoside by Zosyn.
+ZOSYN is not compatible with tobramycin for simultaneous coadministration via Y-site infusion.
+Compatibility of ZOSYN with other aminoglycosides has not been established.
+Only the concentration and diluents for amikacin or gentamicin with the dosages of ZOSYN listed above have been established as compatible for coadministration via Y-site infusion.
+Simultaneous coadministration via Y-site infusion in any manner other than listed above may result in inactivation of the aminoglycoside by ZOSYN.
 
 ## Renal Insufficiency
 
@@ -65,13 +65,13 @@ In all conditions, the duration of therapy should be guided by the severity of t
 
 ## Pediatric Patients
 
-For children with appendicitis and/or peritonitis 9 months of age or older, weighing up to 40 kg, and with normal renal function, the recommended Zosyn dosage is 100 mg piperacillin/12.5 mg tazobactam per kilogram of body weight, every 8 hours.
-For pediatric patients between 2 months and 9 months of age, the recommended Zosyn dosage based on pharmacokinetic modeling, is 80 mg piperacillin/10 mg tazobactam per kilogram of body weight, every 8 hours (see PRECAUTIONS, General, Pediatric Use and CLINICAL PHARMACOLOGY).
+For children with appendicitis and/or peritonitis 9 months of age or older, weighing up to 40 kg, and with normal renal function, the recommended ZOSYN dosage is 100 mg piperacillin/12.5 mg tazobactam per kilogram of body weight, every 8 hours.
+For pediatric patients between 2 months and 9 months of age, the recommended ZOSYN dosage based on pharmacokinetic modeling, is 80 mg piperacillin/10 mg tazobactam per kilogram of body weight, every 8 hours (see PRECAUTIONS, General, Pediatric Use and CLINICAL PHARMACOLOGY).
 Pediatric patients weighing over 40 kg and with normal renal function should receive the adult dose.
-There are no dosage recommendations for Zosyn in pediatric patients with impaired renal function.
+There are no dosage recommendations for ZOSYN in pediatric patients with impaired renal function.
 
-Zosyn in Galaxy containers should not be used in pediatric patients who require less than the full adult dose of Zosyn in order to prevent unintentional overdose.
-The other available formulations of Zosyn can be used in this population.
+ZOSYN in Galaxy containers should not be used in pediatric patients who require less than the full adult dose of ZOSYN in order to prevent unintentional overdose.
+The other available formulations of ZOSYN can be used in this population.
 
 ## DIRECTIONS FOR USE OF ZOSYN (PIPERACILLIN AND TAZOBACTAM INJECTION) IN GALAXY CONTAINERS (PL 2040 PLASTIC)
 

@@ -24,9 +24,9 @@ Gastrointestinal—melena, flatulence, hemorrhage, gastritis, hiccough, ulcerati
 
 Pseudomembranous colitis was reported in one patient during the clinical trials.
 The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment.
-(See WARNINGS.)
+(see WARNINGS.)
 
-Hearing and Vestibular System—tinnitus
+Hearing and Vestibular system—tinnitus
 
 Hypersensitivity—anaphylaxis
 
@@ -34,7 +34,7 @@ Metabolic and Nutritional—symptomatic hypoglycemia, thirst
 
 Musculoskeletal—myalgia, arthralgia
 
-Platelets, Bleeding, Clotting—mesenteric embolism, purpura, epistaxis, pulmonary embolism (See PRECAUTIONS, General.)
+Platelets, Bleeding, Clotting—mesenteric embolism, purpura, epistaxis, pulmonary embolism (see PRECAUTIONS, General.)
 
 Psychiatric—confusion, hallucination, depression
 
@@ -68,14 +68,14 @@ Adverse events irrespective of drug relationship observed in 1% or less of patie
 
 ### Pediatrics
 
-Studies of Zosyn in pediatric patients suggest a similar safety profile to that seen in adults.
-In a prospective, randomized, comparative, open-label clinical trial of pediatric patients with severe intra-abdominal infections (including appendicitis and/or peritonitis), 273 patients were treated with Zosyn (112.5 mg/kg every 8 hours) and 269 patients were treated with cefotaxime (50 mg/kg) plus metronidazole (7.5 mg/kg) every 8 hours.
-In this trial, treatment-emergent adverse events were reported by 146 patients, 73 (26.7%) in the Zosyn group and 73 (27.1%) in the cefotaxime/metronidazole group.
-Six patients (2.2%) in the Zosyn group and 5 patients (1.9%) in the cefotaxime/metronidazole group discontinued due to an adverse event.
+Studies of ZOSYN in pediatric patients suggest a similar safety profile to that seen in adults.
+In a prospective, randomized, comparative, open-label clinical trial of pediatric patients with severe intra-abdominal infections (including appendicitis and/or peritonitis), 273 patients were treated with ZOSYN (112.5 mg/kg every 8 hours) and 269 patients were treated with cefotaxime (50 mg/kg) plus metronidazole (7.5 mg/kg) every 8 hours.
+In this trial, treatment-emergent adverse events were reported by 146 patients, 73 (26.7%) in the ZOSYN group and 73 (27.1%) in the cefotaxime/metronidazole group.
+Six patients (2.2%) in the ZOSYN group and 5 patients (1.9%) in the cefotaxime/metronidazole group discontinued due to an adverse event.
 
-In this study, adverse events that were reported in more than 1% of patients, irrespective of relationship to therapy with ZOSYN were: diarrhea (7.0%), fever (4.8%), vomiting (3.7%), local reaction (3.3%), abscess (2.2%), sepsis (2.2%), abdominal pain (1.8%), infection (1.8%), bloody diarrhea (1.1%), pharyngitis (1.5%), constipation (1.1%) and SGOT increase (1.1%).
+In this study, adverse events that were reported in more than 1% of patients, irrespective of relationship to therapy with ZOSYN, were: diarrhea (7.0%), fever (4.8%), vomiting (3.7%), local reaction (3.3%), abscess (2.2%), sepsis (2.2%), abdominal pain (1.8%), infection (1.8%), bloody diarrhea (1.1%), pharyngitis (1.5%), constipation (1.1%), and SGOT increase (1.1%).
 
-Adverse events reported in 1% or less of pediatric patients receiving Zosyn are consistent with adverse events reported in adults.
+Adverse events reported in 1% or less of pediatric patients receiving ZOSYN are consistent with adverse events reported in adults.
 
 Additional controlled studies in pediatric patients showed a similar safety profile as that described above.
 
@@ -95,15 +95,15 @@ Renal—interstitial nephritis, renal failure
 
 Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis
 
-Post-marketing experience with Zosyn in pediatric patients suggests a similar safety profile to that seen in adults.
+Post-marketing experience with ZOSYN in pediatric patients suggests a similar safety profile to that seen in adults.
 
 ## Adverse Laboratory Events (Seen During Clinical Trials)
 
 Of the studies reported, including that of nosocomial lower respiratory tract infections in which a higher dose of ZOSYN was used in combination with an aminoglycoside, changes in laboratory parameters, without regard to drug relationship, include:
 
 Hematologic—decreases in hemoglobin and hematocrit, thrombocytopenia, increases in platelet count, eosinophilia, leukopenia, neutropenia.
-The leukopenia/neutropenia associated with ZOSYN administration appears to be reversible and most frequently associated with prolonged administration, ie, ≥ 21 days of therapy.
-These patients were withdrawn from therapy; some had accompanying systemic symptoms (eg, fever, rigors, chills).
+The leukopenia/neutropenia associated with ZOSYN administration appears to be reversible and most frequently associated with prolonged administration, i.e., ≥ 21 days of therapy.
+These patients were withdrawn from therapy; some had accompanying systemic symptoms (e.g., fever, rigors, chills).
 
 Coagulation—positive direct Coombs' test, prolonged prothrombin time, prolonged partial thromboplastin time
 
@@ -113,7 +113,7 @@ Renal—increases in serum creatinine, blood urea nitrogen
 
 Urinalysis—proteinuria, hematuria, pyuria
 
-Additional laboratory events include abnormalities in electrolytes (ie, increases and decreases in sodium, potassium and calcium), hyperglycemia, decreases in total protein or albumin, blood glucose decreased, gamma-glutamyltransferase increased, hypokalemia, and bleeding time prolonged.
+Additional laboratory events include abnormalities in electrolytes (i.e., increases and decreases in sodium, potassium, and calcium), hyperglycemia, decreases in total protein or albumin, blood glucose decreased, gamma-glutamyltransferase increased, hypokalemia, and bleeding time prolonged.
 
 The following adverse reaction has also been reported for PIPRACIL® (piperacillin for injection):
 

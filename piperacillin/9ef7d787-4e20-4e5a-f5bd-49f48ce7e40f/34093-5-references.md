@@ -17,29 +17,19 @@
    NCCLS Document M11-A5.
    NCCLS, Wayne, PA, January, 2001.
 
-CLINITEST® and DIASTIX® are registered trademarks of Ames Division, Miles Laboratories, Inc.
+DIASTIX is a registered trademark of Bayer Healthcare LLC.
 
-TES-TAPE® is a registered trademark of Eli Lilly and Company.
+CLINITEST is a registered trademark of Siemens Healthcare Diagnostics Inc.
 
-Galaxy® is a registered trademark of Baxter International, Inc.
-
-United States Patent Numbers: 6,900,184 and 6,207,661
+Galaxy is a registered trademark of Baxter International Inc.
 
 |  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1‑800‑934‑5556. |  |
 | --- | --- | --- |
 
-Manufactured for Wyeth Pharmaceuticals Inc.
+Distributed by Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.
 
-by Baxter Healthcare Corporation, Deerfield, IL 60015
+Manufactured by Baxter Healthcare Corporation, Deerfield, IL 60015
 
-Wyeth®
+LAB-0448-3.0
 
-Wyeth Pharmaceuticals Inc.
-
-Philadelphia, PA 19101
-
-W10415C011
-
-ET01
-
-Rev 09/09
+Revised April 2011

@@ -41,14 +41,14 @@ As with other semisynthetic penicillins, piperacillin therapy has been associate
 In patients with creatinine clearance ≤ 40 mL/min and dialysis patients (hemodialysis and CAPD), the intravenous dose should be adjusted to the degree of renal function impairment.
 (See DOSAGE AND ADMINISTRATION.)
 
-Prescribing Zosyn (piperacillin and tazobactam) in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of development of drug-resistant bacteria.
+Prescribing ZOSYN (piperacillin and tazobactam) in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of development of drug-resistant bacteria.
 
 ## Information for Patients
 
-Patients should be counseled that antibacterial drugs including Zosyn should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs, including ZOSYN, should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Zosyn is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Zosyn or other antibacterial drugs in the future.
+When ZOSYN is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ZOSYN or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
@@ -56,7 +56,7 @@ If this occurs, patients should contact their physician as soon as possible.
 
 ## Laboratory Tests
 
-Periodic assessment of hematopoietic function should be performed, especially with prolonged therapy, ie, ≥ 21 days.
+Periodic assessment of hematopoietic function should be performed, especially with prolonged therapy, i.e., ≥ 21 days.
 (See ADVERSE REACTIONS, Adverse Laboratory Events.)
 
 ## Drug Interactions
@@ -64,13 +64,13 @@ Periodic assessment of hematopoietic function should be performed, especially wi
 ### Aminoglycosides
 
 The mixing of beta-lactam antibiotics with aminoglycosides in vitro can result in substantial inactivation of the aminoglycoside.
-However, amikacin and gentamicin have been shown to be compatible in vitro with reformulated Zosyn containing EDTA supplied in vials or bulk pharmacy containers in certain diluents at specific concentrations for a simultaneous Y-site infusion.
+However, amikacin and gentamicin have been shown to be compatible in vitro with reformulated ZOSYN containing EDTA supplied in vials or bulk pharmacy containers in certain diluents at specific concentrations for a simultaneous Y-site infusion.
 (See DOSAGE AND ADMINISTRATION.)
-Reformulated Zosyn containing EDTA is not compatible with tobramycin for simultaneous coadministration via Y-site infusion.
+Reformulated ZOSYN containing EDTA is not compatible with tobramycin for simultaneous coadministration via Y-site infusion.
 
 The inactivation of aminoglycosides in the presence of penicillin-class drugs has been recognized.
 It has been postulated that penicillin-aminoglycoside complexes form; these complexes are microbiologically inactive and of unknown toxicity.
-Sequential administration of Zosyn with tobramycin to patients with normal renal function and mild to moderate renal impairment has been shown to modestly decrease serum concentrations of tobramycin but does not significantly affect tobramycin pharmacokinetics.
+Sequential administration of ZOSYN with tobramycin to patients with normal renal function and mild to moderate renal impairment has been shown to modestly decrease serum concentrations of tobramycin but does not significantly affect tobramycin pharmacokinetics.
 When aminoglycosides are administered in combination with piperacillin to patients with end-stage renal disease requiring hemodialysis, the concentrations of the aminoglycosides (especially tobramycin) may be significantly altered and should be monitored.
 Since aminoglycosides are not equally susceptible to inactivation by piperacillin, consideration should be given to the choice of the aminoglycoside when administered in combination with piperacillin to these patients.
 
@@ -102,7 +102,7 @@ If concurrent therapy is necessary, serum concentrations of methotrexate as well
 ## Drug/Laboratory Test Interactions
 
 As with other penicillins, the administration of ZOSYN may result in a false-positive reaction for glucose in the urine using a copper-reduction method (CLINITEST®).
-It is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as DIASTIX® or TES-TAPE®) be used.
+It is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as DIASTIX® or TES-TAPE) be used.
 
 There have been reports of positive test results using the Bio-Rad Laboratories Platelia Aspergillus EIA test in patients receiving piperacillin/tazobactam injection who were subsequently found to be free of Aspergillus infection.
 Cross-reactions with non-Aspergillus polysaccharides and polyfuranoses with the Bio-Rad Laboratories Platelia Aspergillus EIA test have been reported.
@@ -178,11 +178,11 @@ Caution should be exercised when ZOSYN is administered to a nursing woman.
 
 ## Pediatric Use
 
-Use of Zosyn in pediatric patients 2 months of age or older with appendicitis and/or peritonitis is supported by evidence from well-controlled studies and pharmacokinetic studies in adults and in pediatric patients.
+Use of ZOSYN in pediatric patients 2 months of age or older with appendicitis and/or peritonitis is supported by evidence from well-controlled studies and pharmacokinetic studies in adults and in pediatric patients.
 This includes a prospective, randomized, comparative, open-label clinical trial with 542 pediatric patients 2-12 years of age with complicated intra-abdominal infections, in which 273 pediatric patients received piperacillin/tazobactam.
 Safety and efficacy in pediatric patients less than 2 months of age have not been established (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
-There are no dosage recommendations for Zosyn in pediatric patients with impaired renal function.
+There are no dosage recommendations for ZOSYN in pediatric patients with impaired renal function.
 
 ## Geriatric Use
 
