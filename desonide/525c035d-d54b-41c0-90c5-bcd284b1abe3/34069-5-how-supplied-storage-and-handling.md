@@ -1,5 +1,7 @@
 # HOW SUPPLIED
 
-Desonide Ointment, 0.05% is supplied in 15 and 60 gram tubes.
+Desonide Ointment, 0.05% is available as follows:
 
-Store between 15° and 30° C (59° and 86° F).
+15 g tube (NDC 45802-423-35)
+
+60 g tube (NDC 45802-423-37)

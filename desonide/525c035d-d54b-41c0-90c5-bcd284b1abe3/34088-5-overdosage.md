@@ -1,3 +1,3 @@
 # OVERDOSAGE
 
-Topically applied Desonide Ointment can be absorbed in sufficient amounts to produce systemic effects (see PRECAUTIONS).
+Topically applied Desonide Ointment, 0.05% can be absorbed in sufficient amounts to produce systemic effects (see PRECAUTIONS).

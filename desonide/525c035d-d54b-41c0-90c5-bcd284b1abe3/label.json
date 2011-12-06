@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA017426"
+  ],
   "inn": "desonide",
-  "labeler": "Perrigo New York",
+  "labeler": "Perrigo New York Inc",
   "package_ndcs": [
     "45802-423-35",
     "45802-423-37"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "desonide",
+      "name": "Desonide"
+    }
+  ],
   "setid": "525c035d-d54b-41c0-90c5-bcd284b1abe3",
   "source": "dailymed"
 }

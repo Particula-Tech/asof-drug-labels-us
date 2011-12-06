@@ -1,5 +1,14 @@
-For Dermatological Use Only - Not for Ophthalmic Use Rx Only
+For Dermatologic Use Only Not for Ophthalmic Use
 
-DISTRIBUTED BY PERRIGO, ALLEGAN, MI 49010
+Rx Only
 
-D423 I423-N R 1005
+MANUFACTURED BY
+
+PERRIGO
+
+BRONX, NY 10457
+
+Rev.
+08/09
+
+1F100 RC J3
