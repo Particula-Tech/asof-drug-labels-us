@@ -83,6 +83,9 @@ ARRANON may also cause:
 - sleepiness
 - blurry eyesight
 
+Call your doctor right away if you experience unexplained muscle pain, tenderness, or weakness while taking ARRANON.
+This is because on rare occasions, muscle problems can be serious.
+
 These are not all the side effects associated with ARRANON.
 Ask your doctor or pharmacist for more information.
 
@@ -98,9 +101,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2009, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-December 2009
+December 2011
 
-ARR:1PIL
+ARR:2PIL

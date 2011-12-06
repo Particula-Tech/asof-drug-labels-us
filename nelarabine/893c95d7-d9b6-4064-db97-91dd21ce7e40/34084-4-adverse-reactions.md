@@ -208,3 +208,5 @@ Infections and Infestations: Fatal opportunistic infections.
 Metabolism and Nutrition Disorders: Tumor lysis syndrome.
 
 Nervous System Disorders: Demyelination and ascending peripheral neuropathies similar in appearance to Guillain-Barré syndrome.
+
+Musculoskeletal and Connective Disorders: Rhabdomyolysis, blood creatine phosphokinase increased.
