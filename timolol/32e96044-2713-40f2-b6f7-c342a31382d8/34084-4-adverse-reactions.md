@@ -7,7 +7,7 @@ The frequency of patients reporting burning and stinging upon instillation was c
 
 Adverse experiences reported in 1-5% of patients were:
 
-| Ocular: | Pain, conjunctivitis, discharge (e.g., crusting), foreign body sensation, itching and tearing: |
+| Ocular: | Pain, conjunctivitis, discharge (e.g., crusting), foreign body sensation, itching and tearing; |
 | --- | --- |
 | Systemic: | Headache, dizziness, and upper respiratory infections. |
 
@@ -55,6 +55,6 @@ Signs and symptoms of ocular irritation including blepharitis, keratitis, and dr
 
 UROGENITAL
 
-Retroperitoneal fibrosis, decreased, libido, impotence, and Peyronie's disease.
+Retroperitoneal fibrosis, decreased libido, impotence, and Peyronie's disease.
 
 The following additional adverse effects have been reported in clinical experience with ORAL timolol maleate or other ORAL beta-blocking agents and may be considered potential effects of ophthalmic timolol maleate: Allergic: Erythematous rash, fever combined with aching and sore throat, laryngospasm with respiratory distress; Body as a Whole: Extremity pain, decreased exercise tolerance, weight loss; Cardiovascular: Worsening of arterial insufficiency, vasodilatation; Digestive: Gastrointestinal pain, hepatomegaly, vomiting, mesenteric arterial thrombosis, ischemic colitis; Hematologic: Nonthrombocytopenic purpura, thrombocytopenic purpura, agranulocytosis; Endocrine: Hyperglycemia, hypoglycemia; Skin: Pruritus, skin irritation, increased pigmentation, sweating; Musculoskeletal: Arthralgia; Nervous System/Psychiatric: Vertigo, local weakness, diminished concentration, reversible mental depression progressing to catatonia, an acute reversible syndrome characterized by disorientation for time and place, emotional lability, slightly clouded sensorium, and decreased performance on neuropsychometrics; Respiratory: Rales, bronchial obstruction; Urogenital: Urination difficulties.

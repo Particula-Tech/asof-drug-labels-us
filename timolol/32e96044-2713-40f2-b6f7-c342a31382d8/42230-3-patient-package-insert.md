@@ -1,4 +1,6 @@
-# INSTRUCTIONS FOR USE
+# TIMOPTIC-XE® 0.25% AND 0.5% (TIMOLOL MALEATE OPHTHALMIC GEL FORMING SOLUTION)
+
+INSTRUCTIONS FOR USE
 
 Please follow these instructions carefully when using TIMOPTIC-XERegistered trademark of ATON PHARMA, INC. COPYRIGHT © 2009 ATON PHARMA, INC. All rights reserved.
 Use TIMOPTIC-XE as prescribed by your doctor.
@@ -9,7 +11,7 @@ Use TIMOPTIC-XE as prescribed by your doctor.
    A gap between the bottle and the cap is normal for an unopened bottle.
 4. Tear off the safety strip to break the seal.
 5. Invert the closed bottle and shake ONCE before each use.
-   (It is not necessary to shake the bottle m ore than once.)
+   (It is not necessary to shake the bottle more than once.)
 6. To open the bottle, unscrew the cap by turning as indicated by the arrows on the top of the cap.
    Do not pull the cap directly up and away from the bottle.
    Pulling the cap directly up will prevent your dispenser from operating properly.
@@ -35,11 +37,3 @@ IF YOU THINK YOUR MEDICATION MAY BE CONTAMINATED, OR YOU DEVELOP AN EYE INFECTIO
 WARNING: Keep out of reach of children.
 
 If you have any questions about the use of TIMOPTIC-XE, please consult your doctor.
-
-Manuf. for: ATON PHARMA Lawrenceville NJ 08648 USA
-
-By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
-
-Issued May 2009
-
-50100237
