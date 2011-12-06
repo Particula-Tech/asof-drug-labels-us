@@ -6,5 +6,5 @@ Lamotrigine is off-white to white crystalline powder.
 Lamotrigine is very slightly soluble in water, and slightly soluble in 0.1 M HCl.
 The structural formula is:
 
-Each lamotrigine tablet intended for oral administration contains 25 mg (white), 100 mg (white), 150 mg (white), and 200 mg (white) tablets.
+Each Lamotrigine tablet intended for oral administration contains 25 mg (white), 100 mg (white), 150 mg (white), and 200 mg (white) tablets.
 In addition, each tablet contains the following inactive ingredients: lactose monohydrate; magnesium stearate; microcrystalline cellulose; sodium starch glycolate.

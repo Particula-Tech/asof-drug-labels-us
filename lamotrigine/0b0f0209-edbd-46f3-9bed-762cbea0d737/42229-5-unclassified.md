@@ -4,25 +4,27 @@ See Medication Guide that accompanies the product.
 
 ## 17.1 Rash
 
-Prior to initiation of treatment with lamotrigine, the patient should be instructed that a rash or other signs or symptoms of hypersensitivity (e.g., fever, lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately.
+Prior to initiation of treatment with Lamotrigine, the patient should be instructed that a rash or other signs or symptoms of hypersensitivity (e.g., fever, lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately.
 
-## 17.2 Suicidal Thinking and Behavior
+## 17.2 Multiorgan Hypersensitivity Reactions, Blood Dyscrasias and Organ Failure
 
-Patients, their caregivers, and families should be counseled that AEDs, including lamotrigine, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Patients should be instructed that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with Lamotrigine.
+Isolated organ failure or isolated blood dyscrasias without evidence of multiorgan hypersensitivity may also occur.
+Patients should contact their physician immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.2, 5.3)].
+
+## 17.3 Suicidal Thinking and Behavior
+
+Patients, their caregivers, and families should be counseled that AEDs, including Lamotrigine, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 17.3 Worsening of Seizures
+## 17.4 Worsening of Seizures
 
 Patients should be advised to notify their physician if worsening of seizure control occurs.
 
-## 17.4 CNS Adverse Effects
+## 17.5 CNS Adverse Effects
 
-Patients should be advised that lamotrigine may cause dizziness, somnolence, and other symptoms and signs of central nervous system (CNS) depression.
-Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on lamotrigine to gauge whether or not it adversely affects their mental and/or motor performance.
-
-## 17.5 Blood Dyscrasias and/or Acute Multiorgan Failure
-
-Patients should be advised of the possibility of blood dyscrasias and/or acute multiorgan failure and to contact their physician immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.3, 5.4)].
+Patients should be advised that Lamotrigine may cause dizziness, somnolence, and other symptoms and signs of central nervous system (CNS) depression.
+Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on Lamotrigine to gauge whether or not it adversely affects their mental and/or motor performance.
 
 ## 17.6 Pregnancy
 
@@ -36,28 +38,28 @@ To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Spe
 ## 17.7 Oral Contraceptive Use
 
 Women should be advised to notify their physician if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
-Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the “pill-free” week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.9), Clinical Pharmacology (12.3)].
-Women should also be advised to promptly notify their physician if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving lamotrigine in combination with these medications.
+Starting estrogen-containing oral contraceptives may significantly decrease Lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the “pill-free” week) may significantly increase Lamotrigine plasma levels [see Warnings and Precautions (5.9), Clinical Pharmacology (12.3)].
+Women should also be advised to promptly notify their physician if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving Lamotrigine in combination with these medications.
 
 ## 17.8 Discontinuing Lamotrigine Tablets
 
-Patients should be advised to notify their physician if they stop taking lamotrigine for any reason and not to resume lamotrigine without consulting their physician.
+Patients should be advised to notify their physician if they stop taking Lamotrigine for any reason and not to resume Lamotrigine without consulting their physician.
 
 ## 17.9 Aseptic Meningitis
 
-Patients should be advised that lamotrigine may cause aseptic meningitis.
-Patients should be advised to notify their physician immediately if they develop signs and symptoms of meningitis such as headache, fever, nausea, vomiting, stiff neck, rash, abnormal sensitivity to light, myalgia, chills, confusion, or drowsiness while taking lamotrigine.
+Patients should be advised that Lamotrigine may cause aseptic meningitis.
+Patients should be advised to notify their physician immediately if they develop signs and symptoms of meningitis such as headache, fever, nausea, vomiting, stiff neck, rash, abnormal sensitivity to light, myalgia, chills, confusion, or drowsiness while taking Lamotrigine.
 
 ## 17.10 Potential Medication Errors
 
-Medication errors involving lamotrigine have occurred.
-In particular the name lamotrigine can be confused with the names of other commonly used medications.
-Medication errors may also occur between the different formulations of lamotrigine.
-To reduce the potential of medication errors, write and say lamotrigine clearly.
+Medication errors involving Lamotrigine have occurred.
+In particular the name Lamotrigine can be confused with the names of other commonly used medications.
+Medication errors may also occur between the different formulations of Lamotrigine.
+To reduce the potential of medication errors, write and say Lamotrigine clearly.
 Description of the Lamotrigine Tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 To avoid a medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are Lamotrigine, as well as the correct formulation of Lamotrigine, each time they fill their prescription [see Dosage Forms and Strengths (3.1), How Supplied/Storage and Handling (16)].
 
-Manufactured By: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. #11/10
+Manufactured By: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 09/11
 
 # MEDICATION GUIDE
 
@@ -151,7 +153,7 @@ Call your healthcare provider right away if you have any of the following sympto
 - Confusion
 - Drowsiness
 
-Meningitis has many causes other than lamotrigine, which your doctor would check for if you developed meningitis while taking lamotrigine.
+Meningitis has many causes other than Lamotrigine, which your doctor would check for if you developed meningitis while taking Lamotrigine.
 
 Lamotrigine Tablets can have other serious side effects.
 For more information ask your healthcare provider or pharmacist.
@@ -235,7 +237,7 @@ How should I take Lamotrigine Tablets?
 - You may not feel the full effect of Lamotrigine Tablets for several weeks.
 - If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - Swallow Lamotrigine tablets whole.
-- If you have trouble swallowing lamotrigine tablets, there may be another form of lamotrigine you can take.
+- If you have trouble swallowing Lamotrigine tablets, there may be another form of Lamotrigine you can take.
 
 What should I avoid while taking Lamotrigine Tablets?
 
@@ -297,4 +299,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 *DEPAKENE and *DEPAKOTE are registered trademarks of Abbott Laboratories.
 
-Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA 0245/MG-01 Rev. # 11/10
+Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA 0245/MG-01 Rev. # 09/11

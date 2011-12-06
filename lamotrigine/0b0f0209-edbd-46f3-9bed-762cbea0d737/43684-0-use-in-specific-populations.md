@@ -2,9 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C. No evidence of teratogenicity was found in mice, rats, or rabbits when lamotrigine was orally administered to pregnant animals during the period of organogenesis at doses up to 1.2, 0.5, and 1.1 times, respectively, on a mg/m2 basis, the highest usual human maintenance dose (i.e., 500 mg/day).
+Teratogenic Effects: Pregnancy Category C. No evidence of teratogenicity was found in mice, rats, or rabbits when Lamotrigine was orally administered to pregnant animals during the period of organogenesis at doses up to 1.2, 0.5, and 1.1 times, respectively, on a mg/m2 basis, the highest usual human maintenance dose (i.e., 500 mg/day).
 However, maternal toxicity and secondary fetal toxicity producing reduced fetal weight and/or delayed ossification were seen in mice and rats, but not in rabbits at these doses.
-Teratology studies were also conducted using bolus intravenous administration of the isethionate salt of lamotrigine in rats and rabbits.
+Teratology studies were also conducted using bolus intravenous administration of the isethionate salt of Lamotrigine in rats and rabbits.
 In rat dams administered an intravenous dose at 0.6 times the highest usual human maintenance dose, the incidence of intrauterine death without signs of teratogenicity was increased.
 
 A behavioral teratology study was conducted in rats dosed during the period of organogenesis.
@@ -21,17 +21,17 @@ Postnatal death was also seen, but only in the 2 highest doses, and occurred bet
 Some of these deaths appear to be drug-related and not secondary to the maternal toxicity.
 A no-observed-effect level (NOEL) could not be determined for this study
 
-Although lamotrigine was not found to be teratogenic in the above studies, lamotrigine decreases fetal folate concentrations in rats, an effect known to be associated with teratogenesis in animals and humans.
+Although Lamotrigine was not found to be teratogenic in the above studies, Lamotrigine decreases fetal folate concentrations in rats, an effect known to be associated with teratogenesis in animals and humans.
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Nonteratogenic Effects: As with other AEDs, physiological changes during pregnancy may affect lamotrigine concentrations and/or therapeutic effect.
-There have been reports of decreased lamotrigine concentrations during pregnancy and restoration of pre-partum concentrations after delivery.
+Nonteratogenic Effects: As with other AEDs, physiological changes during pregnancy may affect Lamotrigine concentrations and/or therapeutic effect.
+There have been reports of decreased Lamotrigine concentrations during pregnancy and restoration of pre-partum concentrations after delivery.
 Dosage adjustments may be necessary to maintain clinical response.
 
 Pregnancy Exposure Registry:
 
-To provide information regarding the effects of in utero exposure to lamotrigine tablets, physicians are advised to recommend that pregnant patients taking lamotrigine tablets enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+To provide information regarding the effects of in utero exposure to Lamotrigine tablets, physicians are advised to recommend that pregnant patients taking Lamotrigine tablets enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 Physicians are also encouraged to register patients in the Lamotrigine Pregnancy Registry; enrollment in this registry must be done prior to any prenatal diagnostic tests and before fetal outcome is known.
@@ -39,27 +39,27 @@ Physicians can obtain information by calling the Lamotrigine Pregnancy Registry 
 
 ## 8.2 Labor and Delivery
 
-The effect of lamotrigine on labor and delivery in humans is unknown.
+The effect of Lamotrigine on labor and delivery in humans is unknown.
 
 ## 8.3 Nursing Mothers
 
 Preliminary data indicate that lamotrigine passes into human milk.
-Because the effects on the infant exposed to lamotrigine by this route are unknown, breastfeeding while taking lamotrigine is not recommended.
+Because the effects on the infant exposed to Lamotrigine by this route are unknown, breastfeeding while taking Lamotrigine is not recommended.
 
 ## 8.4 Pediatric Use
 
 Lamotrigine is indicated for adjunctive therapy in patients ≥2 years of age for partial seizures, the generalized seizures of Lennox-Gastaut syndrome, and primary generalized tonic-clonic seizures.
 
-Safety and efficacy of lamotrigine, used as adjunctive treatment for partial seizures, were not demonstrated in a small randomized, double-blind, placebo-controlled, withdrawal study in very young pediatric patients (1 to 24 months).
-Lamotrigine was associated with an increased risk for infectious adverse reactions (lamotrigine 37%, Placebo 5%), and respiratory adverse reactions (lamotrigine 26%, Placebo 5%).
-Infectious adverse events included: bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
+Safety and efficacy of Lamotrigine, used as adjunctive treatment for partial seizures, were not demonstrated in a small randomized, double-blind, placebo-controlled, withdrawal study in very young pediatric patients (1 to 24 months).
+Lamotrigine was associated with an increased risk for infectious adverse reactions (Lamotrigine 37%, Placebo 5%), and respiratory adverse reactions (Lamotrigine 26%, Placebo 5%).
+Infectious adverse reactions included: bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
 
 Safety and effectiveness in patients below the age of 18 years with Bipolar Disorder has not been established.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of lamotrigine for epilepsy and in Bipolar Disorder did not include sufficient numbers of subjects 65 years of age and over to determine whether they respond differently from younger subjects or exhibit a different safety profile than that of younger patients.
+Clinical studies of Lamotrigine for epilepsy and in Bipolar Disorder did not include sufficient numbers of subjects 65 years of age and over to determine whether they respond differently from younger subjects or exhibit a different safety profile than that of younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 ## 8.6 Patients With Hepatic Impairment
@@ -75,6 +75,6 @@ Escalation and maintenance doses may be adjusted according to clinical response 
 Lamotrigine is metabolized mainly by glucuronic acid conjugation, with the majority of the metabolites being recovered in the urine.
 In a small study comparing a single dose of lamotrigine in patients with varying degrees of renal impairment with healthy volunteers, the plasma half-life of lamotrigine was significantly longer in the patients with renal impairment [see Clinical Pharmacology (12.3)].
 
-Initial doses of lamotrigine should be based on patients' AED regimen; reduced maintenance doses may be effective for patients with significant renal impairment.
-Few patients with severe renal impairment have been evaluated during chronic treatment with lamotrigine.
-Because there is inadequate experience in this population, lamotrigine should be used with caution in these patients [see Dosage and Administration (2.1)].
+Initial doses of Lamotrigine should be based on patients' AED regimen; reduced maintenance doses may be effective for patients with significant renal impairment.
+Few patients with severe renal impairment have been evaluated during chronic treatment with Lamotrigine.
+Because there is inadequate experience in this population, Lamotrigine should be used with caution in these patients [see Dosage and Administration (2.1)].
