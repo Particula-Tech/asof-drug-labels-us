@@ -12,7 +12,7 @@ PRISTIQ also lacked monoamine oxidase (MAO) inhibitory activity.
 
 ## 12.3 Pharmacokinetics
 
-The single-dose pharmacokinetics of desvenlafaxine are linear and dose-proportional in a dose range of 100 to 600 mg/day.
+The single-dose pharmacokinetics of desvenlafaxine are linear and dose-proportional in a dose range of 50 to 600 mg/day.
 The mean terminal half-life, t1/2, is approximately 11 hours.
 With once-daily dosing, steady-state plasma concentrations are achieved within approximately 4-5 days.
 At steady-state, multiple-dose accumulation of desvenlafaxine is linear and predictable from the single-dose pharmacokinetic profile.
