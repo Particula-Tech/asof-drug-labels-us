@@ -132,7 +132,7 @@ An increased incidence of mammary adenocarcinomas in rodents has been associated
 Furthermore, in adult human female subjects who received oral dosages of up to 60 mg of timolol maleate (the maximum recommended human oral dosage), there were no clinically meaningful changes in serum prolactin.
 
 Timolol maleate was devoid of mutagenic potential when tested in vivo (mouse) in the micronucleus test and cytogenetic assay (doses up to 800 mg/kg) and in vitro in a neoplastic cell transformation assay (up to 100 mcg/mL).
-In Ames tests the highest concentrations of timolol employed, 5,000 or 10,000 meg/plate, were associated with statistically significant elevations of revertants observed with tester strain TA100 (in seven replicate assays), but not in the remaining three strains.
+In Ames tests the highest concentrations of timolol employed, 5,000 or 10,000 mcg/plate, were associated with statistically significant elevations of revertants observed with tester strain TA100 (in seven replicate assays), but not in the remaining three strains.
 In the assays with tester strain TA100, no consistent dose response relationship was observed, and the ratio of test to control revertants did not reach 2.
 A ratio of 2 is usually considered the criterion for a positive Ames test.
 
