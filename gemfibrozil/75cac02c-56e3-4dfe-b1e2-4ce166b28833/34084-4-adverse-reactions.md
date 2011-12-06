@@ -3,10 +3,10 @@
 In the double-blind controlled phase of the primary prevention component of the Helsinki Heart Study, 2046 patients received gemfibrozil for up to five years.
 In that study, the following adverse reactions were statistically more frequent in subjects in the gemfibrozil group:
 
-|  | Frequency in percent of subjects |  |
-| --- | --- | --- |
 |  | Gemfibrozil | PLACEBO |
+| --- | --- | --- |
 |  | (N = 2046) | (N = 2035) |
+|  | Frequency in percent of subjects |  |
 | Gastrointestinal reactions | 34.2 | 23.8 |
 | Dyspepsia | 19.6 | 11.9 |
 | Abdominal pain | 9.8 | 5.6 |
@@ -24,9 +24,9 @@ In that study, the following adverse reactions were statistically more frequent 
 | Constipation | 1.4 | 1.3 |
 | Headache | 1.2 | 1.1 |
 
-Gallbladder surgery was performed in 0.9% of gemfibrozil and 0.5% of placebo subjects in the primary prevention component, a 64% excess, which is not statistically different from the excess of gallbladder surgery observed in the clofibrate compared to the placebo group of the WHO study.
-Gallbladder surgery was also performed more frequently in the gemfibrozil group compared to placebo (1.9% vs 0.3%, p=0.07) in the secondary prevention component.
-A statistically significant increase in appendectomy in the gemfibrozil group was seen also in the secondary prevention component (6 on gemfibrozil vs 0 on placebo, p=0.014).
+Gallbladder surgery was performed in 0.9% of gemfibrozil and 0.5% of placebo subjects in the primary prevention component, a 64% excess, which is not statistically different from the excess of gallbladder surgery observed in the clofibrate group compared to the placebo group of the WHO study.
+Gallbladder surgery was also performed more frequently in the gemfibrozil group compared to placebo (1.9% versus 0.3%, p=0.07) in the secondary prevention component.
+A statistically significant increase in appendectomy in the gemfibrozil group was seen also in the secondary prevention component (6 on gemfibrozil versus 0 on placebo, p=0.014).
 
 Nervous system and special senses adverse reactions were more common in the gemfibrozil group.
 These included hypesthesia, paresthesias, and taste perversion.
@@ -38,9 +38,9 @@ Reports of viral and bacterial infections (common cold, cough, urinary tract inf
 Additional adverse reactions that have been reported for gemfibrozil are listed below by system.
 These are categorized according to whether a causal relationship to treatment with gemfibrozil is probable or not established:
 
-|  | PROBABLE | NOT ESTABLISHED |
-| --- | --- | --- |
 |  | CAUSAL RELATIONSHIP | CAUSAL RELATIONSHIP |
+| --- | --- | --- |
+|  | PROBABLE | NOT ESTABLISHED |
 | General: |  | weight loss |
 | Cardiac: |  | extrasystoles |
 | Gastrointestinal: | cholestatic jaundice | pancreatitis |
@@ -66,7 +66,7 @@ These are categorized according to whether a causal relationship to treatment wi
 | Clinical Laboratory: | increased creatine phosphokinase | positive antinuclear antibody |
 |  | increased bilirubin |  |
 |  | increased liver transaminases |  |
-|  | (AST [SGOT], ALT [SGPT]) |  |
+|  | (AST, ALT) |  |
 |  | increased alkaline phosphatase |  |
 | Hematopoietic: | anemia | thrombocytopenia |
 |  | leukopenia |  |

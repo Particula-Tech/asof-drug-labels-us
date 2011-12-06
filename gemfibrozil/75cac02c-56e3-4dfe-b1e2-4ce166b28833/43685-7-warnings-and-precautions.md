@@ -5,7 +5,7 @@ Because of chemical, pharmacological, and clinical similarities between gemfibro
 In the first of those studies, the Coronary Drug Project, 1000 subjects with previous myocardial infarction were treated for five years with clofibrate.
 There was no difference in mortality between the clofibrate-treated subjects and 3000 placebo-treated subjects, but twice as many clofibrate-treated subjects developed cholelithiasis and cholecystitis requiring surgery.
 In the other study, conducted by the World Health Organization (WHO), 5000 subjects without known coronary heart disease were treated with clofibrate for five years and followed one year beyond.
-There was a statistically significant, 44%, higher age-adjusted total mortality in the clofibrate-treated than in a comparable placebo-treated control group during the trial period.
+There was a statistically significant (44%) higher age-adjusted total mortality in the clofibrate-treated group than in a comparable placebo-treated control group during the trial period.
 The excess mortality was due to a 33% increase in non-cardiovascular causes, including malignancy, post-cholecystectomy complications, and pancreatitis.
 The higher risk of clofibrate-treated subjects for gallbladder disease was confirmed.
 
@@ -22,20 +22,20 @@ There were 30 (1.5%) deaths attributed to cancer in the group originally randomi
 Adverse outcomes, including coronary events, were higher in gemfibrozil patients in a corresponding study in men with a history of known or suspected coronary heart disease in the secondary prevention component of the Helsinki Heart Study.
 (See CLINICAL PHARMACOLOGY.)
 
-A comparative carcinogenicity study was also done in rats comparing three drugs in this class: fenofibrate (10 and 60 mg/kg; 0.3 and 1.6 times the human dose), clofibrate (400 mg/kg; 1.6 times the human dose), and gemfibrozil (250 mg/kg; 1.7 times the human dose).
+A comparative carcinogenicity study was also done in rats comparing three drugs in this class: fenofibrate (10 and 60 mg/kg; 0.3 and 1.6 times the human dose, respectively), clofibrate (400 mg/kg; 1.6 times the human dose, respectively), and gemfibrozil (250 mg/kg; 1.7 times the human dose, respectively).
 Pancreatic acinar adenomas were increased in males and females on fenofibrate; hepatocellular carcinoma and pancreatic acinar adenomas were increased in males and hepatic neoplastic nodules in females treated with clofibrate; hepatic neoplastic nodules were increased in males and females treated with clofibrate; hepatic neoplastic nodules were increased in males and females treated with gemfibrozil while testicular interstitial cell (Leydig cell) tumors were increased in males on all three drugs.
 
 2.
-A gallstone prevalence substudy of 450 Helsinki Heart Study participants showed a trend toward a greater prevalence of gallstones during the study within the gemfibrozil treatment group (7.5% vs 4.9% for the placebo group, a 55% excess for the gemfibrozil group).
-A trend toward a greater incidence of gallbladder surgery was observed for the gemfibrozil group (17 vs 11 subjects, a 54% excess).
+A gallstone prevalence substudy of 450 Helsinki Heart Study participants showed a trend toward a greater prevalence of gallstones during the study within the gemfibrozil treatment group (7.5% versus 4.9% for the placebo group, a 55% excess for the gemfibrozil group).
+A trend toward a greater incidence of gallbladder surgery was observed for the gemfibrozil group (17 versus 11 subjects, a 54% excess).
 This result did not differ statistically from the increased incidence of cholecystectomy observed in the WHO study in the group treated with clofibrate.
-Both clofibrate and gemfibrozil may increase cholesterol excretion into the bile leading to cholelithiasis.
+Both clofibrate and gemfibrozil may increase cholesterol excretion into the bile, leading to cholelithiasis.
 If cholelithiasis is suspected, gallbladder studies are indicated.
 Gemfibrozil therapy should be discontinued if gallstones are found.
 Cases of cholelithiasis have been reported with gemfibrozil therapy.
 
 3.
-Since a reduction of mortality from coronary heart disease has not been demonstrated and because liver and interstitial cell testicular tumors were increased in rats, gemfibrozil should be administered only to those patients described in the INDICATIONS AND USAGE section.
+Since a reduction of mortality from coronary heart disease has not been demonstrated and because liver and interstitial cell testicular tumors were increased in rats, gemfibrozil should be administered only to those patients described in the INDICATIONS AND USAGEsection.
 If a significant serum lipid response is not obtained, gemfibrozil should be discontinued.
 
 4.
@@ -44,10 +44,10 @@ The dosage of the anticoagulant should be reduced to maintain the prothrombin ti
 Frequent prothrombin determinations are advisable until it has been definitely determined that the prothrombin level has stabilized.
 
 5.
-Concomitant therapy with gemfibrozil and an HMG-CoA reductase inhibitor is associated with an increased risk of skeletal muscle toxicity manifested as rhabdomyolysis, markedly elevated creatine kinase (CPK) levels and myoglobinuria, leading in a high proportion of cases to acute renal failure and death.
+Concomitant therapy with gemfibrozil and an HMG-CoA reductase inhibitor is associated with an increased risk of skeletal muscle toxicity manifested as rhabdomyolysis, markedly elevated creatine kinase (CPK) levels, and myoglobinuria, leading in a high proportion of cases to acute renal failure and death.
 IN PATIENTS WHO HAVE HAD AN UNSATISFACTORY LIPID RESPONSE TO EITHER DRUG ALONE, THE BENEFIT OF COMBINED THERAPY WITH GEMFIBROZIL AND an HMG-CoA REDUCTASE INHIBITORS DOES NOT OUTWEIGH THE RISKS OF SEVERE MYOPATHY, RHABDOMYOLYSIS, AND ACUTE RENAL FAILURE (see PRECAUTIONS, Drug Interactions).
 The use of fibrates alone, including gemfibrozil, may occasionally be associated with myositis.
-Patients receiving gemfibrozil and complaining of muscle pain, tenderness or weakness should have prompt medical evaluation for myositis, including serum creatine-kinease level determination.
+Patients receiving gemfibrozil and complaining of muscle pain, tenderness, or weakness should have prompt medical evaluation for myositis, including serum creatine-kinease level determination.
 If myositis is suspected or diagnosed, gemfibrozil therapy should be withdrawn.
 
 6.
@@ -80,8 +80,14 @@ FREQUENT PROTHROMBIN DETERMINATIONS ARE ADVISABLE UNTIL IT HAS BEEN DEFINITELY D
 
 ### (C) Repaglinide:
 
-In healthy volunteers, co-administration with gemfibrozil increased the plasma concentration of repaglinide and prolonged its hypoglycemic effects.
-Co-administration of gemfibrozil and repaglinide increases the risk for severe hypoglycemia and is contraindicated (see CONTRAINDICATIONS).
+In healthy volunteers, co-administration with gemfibrozil (600 mg twice daily for 3 days) resulted in an 8.1-fold (range 5.5- to 15.0- fold) higher repaglinide AUC and a 28.6-fold (range 18.5- to 80.1-fold) higher repaglinide plasma concentration 7 hours after the dose.
+In the same study, gemfibrozil (600 mg twice daily for 3 days) + itraconazole (200 mg in the morning and 100 mg in the evening at Day 1, then 100 mg twice daily at Day 2-3) resulted in a 19.4- (range 12.9- to 24.7-fold) higher repaglinide AUC and a 70.4-fold (range 42.9- to 119.2-fold) higher repaglinide plasma concentration 7 hours after the dose.
+In addition, gemfibrozil alone or gemfibrozil + itraconazole prolonged the hypoglycemic effects of repaglinide.
+Co-administration of gemfibrozil and repaglinide increases the risk of severe hypoglycemia and is contraindicated (see CONTRAINDICATIONS).
+
+### (D) Bile Acid-Binding Resins:
+
+Gemfibrozil AUC was reduced by 30% when gemfibrozil was given (600 mg) simultaneously with resin-granule drugs such as colestipol (5 g). Administration of the drugs two hours or more apart is recommended because gemfibrozil exposure was not significantly affected when it was administered two hours apart from colestipol.
 
 ## 4. Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -93,7 +99,6 @@ The higher dose female rats had a significant increase in the combined incidence
 
 Long-term studies have been conducted in mice at 0.1 and 0.7 times the human exposure (based on AUC).
 There were no statistically significant differences from controls in the incidence of liver tumors, but the doses tested were lower than those shown to be carcinogenic with other fibrates.
-
 Electron microscopy studies have demonstrated a florid hepatic peroxisome proliferation following gemfibrozil administration to the male rat.
 An adequate study to test for peroxisome proliferation has not been done in humans but changes in peroxisome morphology have been observed.
 Peroxisome proliferation has been shown to occur in humans with either of two other drugs of the fibrate class when liver biopsies were compared before and after treatment in the same individual.
@@ -107,7 +112,7 @@ Gemfibrozil has been shown to produce adverse effects in rats and rabbits at dos
 There are no adequate and well-controlled studies in pregnant women.
 Gemfibrozil should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Administration of gemfibrozil to female rats at 2 times the human dose (based on surface area) before and throughout gestation caused a dose-related decrease in conception rate and, an increase in stillborns and a slight reduction in pup weight during lactation.
+Administration of gemfibrozil to female rats at 2 times the human dose (based on surface area) before and throughout gestation caused a dose-related decrease in conception rate, an increase in stillborns and a slight reduction in pup weight during lactation.
 There were also dose-related increased skeletal variations.
 Anophthalmia occurred, but rarely.
 
@@ -122,14 +127,14 @@ Because many drugs are excreted in human milk and because of the potential for t
 
 ## 7. Hematologic Changes
 
-Mild hemoglobin, hematocrit and white blood cell decreases have been observed in occasional patients following initiation of gemfibrozil therapy.
+Mild hemoglobin, hematocrit, and white blood cell decreases have been observed in occasional patients following initiation of gemfibrozil therapy.
 However, these levels stabilize during long-term administration.
 Rarely, severe anemia, leukopenia, thrombocytopenia, and bone marrow hypoplasia have been reported.
 Therefore, periodic blood counts are recommended during the first 12 months of gemfibrozil administration.
 
 ## 8. Liver Function
 
-Abnormal liver function tests have been observed occasionally during gemfibrozil administration, including elevations of AST (SGOT), ALT (SGPT), LDH, bilirubin, and alkaline phosphatase.
+Abnormal liver function tests have been observed occasionally during gemfibrozil administration, including elevations of AST, ALT, LDH, bilirubin, and alkaline phosphatase.
 These are usually reversible when gemfibrozil is discontinued.
 Therefore, periodic liver function studies are recommended and gemfibrozil therapy should be terminated if abnormalities persist.
 

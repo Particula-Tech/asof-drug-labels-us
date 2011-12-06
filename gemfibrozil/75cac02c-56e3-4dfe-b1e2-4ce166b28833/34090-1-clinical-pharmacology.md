@@ -12,15 +12,14 @@ The study involved subjects with serum non-HDL-cholesterol of over 200 mg/dL and
 Over the five-year study period, the gemfibrozil group experienced a 1.4 % absolute (34 % relative) reduction in the rate of serious coronary events (sudden cardiac deaths plus fatal and nonfatal myocardial infarctions) compared to placebo, p=0.04 (see Table I). There was a 37 % relative reduction in the rate of nonfatal myocardial infarction compared to placebo, equivalent to a treatment-related difference of 13.1 events per thousand persons.
 Deaths from any cause during the double-blind portion of the study totaled 44 (2.2%) in the gemfibrozil randomization group and 43 (2.1%) in the placebo group.
 
-Table I
+Table I Reduction in CHD Rates (events per 1000 patients) by Baseline Lipids1 in the Helsinki Heart Study, Years 0-52
 
-Reduction in CHD Rates (events per 1000 patients) by Baseline Lipids1 in the Helsinki Heart Study, Years 0-52
-
-| Incidence of Events4 | All Patients |  |  | LDL-C>175 HDL-C>46.4 |  |  | LDL-C>175; TG>177 |  |  | LDL-C>175; TG>200; HDL-C<35 |  |  |
+| Incidence of Events4 | All Patients |  |  | LDL-C>175 HDL-C>46.4 |  |  | LDL-C>175 TG>177 |  |  | LDL-C>175; TG>200;HDL-C<35 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | P | G | Dif3 | P | G | Dif | P | G | Dif | P | G | Dif |  |
 | 41 | 27 | 14 | 32 | 29 | 3 | 71 | 44 | 27 | 149 | 64 | 85 |  |
-| 1 lipid values in mg/dL at baseline 2 P = placebo group; G = gemfibrozil tablets group 3 difference in rates between placebo and gemfibrozil tablets groups 4 fatal and nonfatal myocardial infarctions plus sudden cardiac deaths (events per 1000 patients over 5 years) |  |  |  |  |  |  |  |  |  |  |  |  |
+
+1 lipid values in mg/dL at baseline 2 P = placebo group; G = Gemfibrozil group 3 difference in rates between placebo and Gemfibrozil groups 4 fatal and nonfatal myocardial infarctions plus sudden cardiac deaths (events per 1000 patients over 5 years)
 
 Among Fredrickson types, during the 5-year double-blind portion of the primary prevention component of the Helsinki Heart Study, the greatest reduction in the incidence of serious coronary events occurred in Type IIb patients who had elevations of both LDL-cholesterol and total plasma triglycerides.
 This subgroup of Type IIb gemfibrozil group patients had a lower mean HDL-cholesterol level at baseline than the Type IIa subgroup that had elevations of LDL-cholesterol and normal plasma triglycerides.
@@ -34,24 +33,19 @@ At the completion of the Helsinki Heart Study, subjects could choose to start, s
 After approximately 6.5 years following randomization, all patients were informed of their original treatment group and lipid values during the five years of the double-blind treatment.
 After further elective changes in gemfibrozil treatment status, 61% of patients in the group originally randomized to gemfibrozil were taking drug; in the group originally randomized to placebo, 65% were taking gemfibrozil.
 The event rate per 1000 occurring during the open-label follow-up period is detailed in Table II.
-
-Table II
-
-Cardiac Events and All-Cause Mortality (events per 1000 patients) Occurring During the 3.5 Year Open-Label Follow-up to the Helsinki Heart Study1
+Table II Cardiac Events and All-Cause Mortality (events per 1000 patients) Occurring During the 3.5 Year Open-Label Follow-up to the Helsinki Heart Study1
 
 | Group: | PDrop N = 215 | PN N = 494 | PG N = 1283 | GDrop N = 221 | GN N = 574 | GG N = 1207 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Cardiac Events | 38.8 | 22.9 | 22.5 | 37.2 | 28.3 | 25.4 |
 | All-Cause Mortality | 41.9 | 22.3 | 15.6 | 72.3 | 19.2 | 24.9 |
-| 1The six open-label groups are designated first by the original randomization (P = placebo, G = gemfibrozil) and then by the drug taken in the follow-up period (N = Attend clinic but took no drug, G = Gemfibrozil, Drop = No attendance at clinic during open-label). |  |  |  |  |  |  |
+
+1The six open-label groups are designated first by the original randomization (P = placebo, G = Gemfibrozil) and then by the drug taken in the follow-up period (N = Attend clinic but took no drug, G = Gemfibrozil, Drop = No attendance at clinic during open-label).
 
 Cumulative mortality through 8.5 years showed a 20% relative excess of deaths in the group originally randomized to gemfibrozil versus the originally randomized placebo group and a 20% relative decrease in cardiac events in the group originally randomized to gemfibrozil versus the originally randomized placebo group (see Table III).
 This analysis of the originally randomized “intent-to-treat” population neglects the possible complicating effects of treatment switching during the open-label phase.
-Adjustment of hazard ratios taking into account open-label treatment status from years 6.5 to 8.5 could change the reported hazard ratios for mortality toward unity.
-
-Table III
-
-Cardiac Events, Cardiac Deaths, Non-Cardiac Deaths and All-Cause Mortality in the Helsinki Heart Study, Years 0-8.51
+Adjustment of hazard ratios, taking into account open-label treatment status from years 6.5 to 8.5, could change the reported hazard ratios for mortality toward unity.
+Table III Cardiac Events, Cardiac Deaths, Non-Cardiac Deaths and All-Cause Mortality in the Helsinki Heart Study, Years 0-8.51
 
 | Event | Gemfibrozil tablets at Study Start | Placebo at Study Start | Gemfibrozil tablets: Placebo Hazard Ratio2 | Cl Hazard Ratio3 |
 | --- | --- | --- | --- | --- |
@@ -59,11 +53,13 @@ Cardiac Events, Cardiac Deaths, Non-Cardiac Deaths and All-Cause Mortality in th
 | Cardiac Deaths | 36 | 38 | 0.98 | 0.63 to 1.54 |
 | Non-Cardiac Deaths | 65 | 45 | 1.40 | 0.95 to 2.05 |
 | All-Cause Mortality | 101 | 83 | 1.20 | 0. 90 to 1.61 |
-| 1 Intention-to-Treat Analysis of originally randomized patients neglecting the open-label treatment switches and exposure to study conditions. 2 Hazard ration for risk event in the group originally randomized to gemfibrozil tablets compared to the group originally randomized to placebo neglecting open-label treatment switch and exposure to study condition. 3 95% confidence intervals of gemfibrozil tablets:placebo group hazard ratio 4 Fatal and non-fatal myocardial infarctions plus sudden cardiac deaths over the 8.5 year period. |  |  |  |  |
 
+1Intention-to-Treat Analysis of originally randomized patients neglecting the open-label treatment switches and exposure to study conditions.
+2 Hazard ratio for risk event in the group originally randomized to gemfibrozil tablets compared to the group originally randomized to placebo neglecting open-label treatment switch and exposure to study condition.
+3 95% confidence intervals of gemfibrozil tablets:placebo group hazard ratio 4 Fatal and non-fatal myocardial infarctions plus sudden cardiac deaths over the 8.5 year period.
 It is not clear to what extent the findings of the primary prevention component of the Helsinki Heart Study can be extrapolated to other segments of the dyslipidemic population not studied (such as women, younger or older males, or those with lipid abnormalities limited solely to HDL-cholesterol) or to other lipid-altering drugs.
 
-The secondary prevention component of the Helsinki Heart Study was conducted over five years in parallel and at the same centers in Finland in 628 middle-aged males excluded from the primary prevention component of the Helsinki Heart Study because of a history of angina, myocardial infarction or unexplained ECG changes.
+The secondary prevention component of the Helsinki Heart Study was conducted over five years in parallel and at the same centers in Finland in 628 middle-aged males excluded from the primary prevention component of the Helsinki Heart Study because of a history of angina, myocardial infarction, or unexplained ECG changes.
 The primary efficacy endpoint of the study was cardiac events (the sum of fatal and non-fatal myocardial infarctions and sudden cardiac deaths).
 The hazard ratio (gemfibrozil: placebo) for cardiac events was 1.47 (95% confidence limits 0.88 to 2.48, p=0.14).
 Of the 35 patients in the gemfibrozil group who experienced cardiac events, 12 patients suffered events after discontinuation from the study.
@@ -91,9 +87,8 @@ Gemfibrozil pharmacokinetics are affected by the timing of meals relative to tim
 In one study, both the rate and extent of absorption of the drug were significantly increased when administered 0.5 hour before meals.
 Average AUC was reduced by 14 to 44% when gemfibrozil was administered after meals compared to 0.5 hour before meals.
 In a subsequent study, rate of absorption of gemfibrozil was maximum when administered 0.5 hour before meals with the Cmax 50 to 60% greater than when given either with meals or fasting.
-In this study, there were no significant effects on AUC of timing of dose relative to meals (see DOSAGE AND ADMINISTRATION).
-
+In this study, there were no significant effects on AUC of timing of dose relative to meals (see DOSAGE AND ADMINISTRATION ).
 Gemfibrozil mainly undergoes oxidation of a ring methyl group to successively form a hydroxymethyl and a carboxyl metabolite.
 Approximately seventy percent of the administered human dose is excreted in the urine, mostly as the glucuronide conjugate, with less than 2% excreted as unchanged gemfibrozil.
 Six percent of the dose is accounted for in the feces.
-Gemfibrozil is highly bound to plasma proteins and there is potential for displacement interactions with other drugs (see PRECAUTIONS).
+Gemfibrozil is highly bound to plasma proteins and there is potential for displacement interactions with other drugs (see PRECAUTIONS ).
