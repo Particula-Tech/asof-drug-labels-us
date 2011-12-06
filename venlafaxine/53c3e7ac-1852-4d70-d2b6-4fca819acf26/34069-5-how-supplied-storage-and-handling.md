@@ -30,3 +30,7 @@ The unit of use package is intended to be dispensed as a unit.
 The appearance of these capsules is a trademark of Wyeth Pharmaceuticals.
 
 U.S. Patent Nos. 5,916,923; 6,274,171; 6,310,101; 6,403,120; 6,419,958; and 6,444,708.
+
+LAB-0466-1.0
+
+Revised November 2011

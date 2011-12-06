@@ -68,7 +68,7 @@ Based on the half-life of venlafaxine, at least 7 days should be allowed after s
 
 ## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including Effexor XR treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including Effexor XR treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs, eg, methylene blue), or with antipsychotics or other dopamine antagonists.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms [e.g., nausea, vomiting, diarrhea] (see PRECAUTIONS, Drug Interactions).
 Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
 Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
@@ -482,7 +482,7 @@ See CONTRAINDICATIONS and WARNINGS.
 The risk of using venlafaxine in combination with other CNS-active drugs has not been systematically evaluated (except in the case of those CNS-active drugs noted above).
 Consequently, caution is advised if the concomitant administration of venlafaxine and such drugs is required.
 
-Serotonergic Drugs: Based on the mechanism of action of Effexor XR and the potential for serotonin syndrome, caution is advised when Effexor XR is co-administered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, SSRIs, other SNRIs, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS, Serotonin Syndrome).
+Serotonergic Drugs: Based on the mechanism of action of Effexor XR and the potential for serotonin syndrome, caution is advised when Effexor XR is co-administered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, SSRIs, other SNRIs, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort and methylene blue (see WARNINGS, Serotonin Syndrome).
 If concomitant treatment of Effexor XR with these drugs is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
 The concomitant use of Effexor XR with tryptophan supplements is not recommended (see WARNINGS, Serotonin Syndrome).
 

@@ -63,14 +63,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 |  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1-800-934-5556. |  |
 | --- | --- | --- |
 
-Wyeth®
+LAB-0542-1.0
 
-Wyeth Pharmaceuticals Inc.
-
-Philadelphia, PA 19101
-
-W10404C040
-
-ET01
-
-Rev 07/09
+Revised November 2011
