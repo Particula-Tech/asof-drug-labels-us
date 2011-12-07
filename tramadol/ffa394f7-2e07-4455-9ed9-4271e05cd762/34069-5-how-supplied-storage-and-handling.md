@@ -26,16 +26,3 @@ Dispense in a tight, light-resistant container.
 Warning: keep out of reach of children.
 
 Healthcare professionals can telephone Purdue Pharma’s Medical Services Department (1-888-726-7535) for information on this product.
-
-February 25, 2010 301397-0B
-
-Manufactured by: Confab Laboratories Inc Saint-Hubert, Quebec, Canada J3Y 3X3
-
-Distributed by: Purdue Pharma L.P.
-Stamford, CT 06901-3431
-
-Licensed from Labopharm Europe Limited
-
-U.S. Patent 6,607,748
-
-RYZOLTTM is a trademark of Purdue Pharma L.P.

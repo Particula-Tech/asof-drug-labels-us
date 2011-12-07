@@ -110,7 +110,7 @@ Concerns about abuse, addiction, and diversion should not prevent the proper man
 
 Healthcare professionals should contact their State Professional Licensing Board or State Controlled Substances Authority for information on how to prevent and detect abuse or diversion of this product.
 
-Interactions with Alcohol and Drugs of Abuse
+## Interactions with Alcohol and Drugs of Abuse
 
 Tramadol may be expected to have additive effects when used in conjunction with alcohol, other opioids or drugs, whether legal or illicit, which cause central nervous system depression.
 
@@ -130,4 +130,4 @@ Therefore, RYZOLT® should not be used in patients with severe renal impairment 
 The metabolism of tramadol and M1 is reduced in patients with advanced cirrhosis of the liver.
 RYZOLT® has not been studied in patients with hepatic impairment.
 The limited availability of dose strengths and once daily dosing of RYZOLT® do not permit the dosing flexibility required for safe use in patients with hepatic impairment.
-Therefore, RYZOLT® should not be used in patients with hepatic impairment (seeCLINICAL PHARMACOLOGYand DOSAGE AND ADMINISTRATION).
+Therefore, RYZOLT® should not be used in patients with hepatic impairment (see CLINICAL PHARMACOLOGYand DOSAGE AND ADMINISTRATION).

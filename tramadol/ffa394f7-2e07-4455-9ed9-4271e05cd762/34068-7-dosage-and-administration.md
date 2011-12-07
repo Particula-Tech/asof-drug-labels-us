@@ -38,7 +38,7 @@ RYZOLT® should not be used in patients with:
 - Creatinine clearance less than 30 mL/min,
 - Hepatic impairment.
 
-(see WARNINGS, Use in Renal and Hepatic Disease).
+(see PRECAUTIONS, Use in Renal and Hepatic Disease).
 
 ## Geriatric patients (65 years of age and older)
 

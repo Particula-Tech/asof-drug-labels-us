@@ -48,11 +48,6 @@ Mean (%CV) Steady-State Pharmacokinetic Parameter Values (n=26).
 
 Steady-state plasma concentrations are reached within approximately 48 hours.
 
-Figure 1.Mean Tramadol Plasma Concentrations at Steady State Following Five Days of Oral Administration of RYZOLT® 200 mg Once Daily and Immediate-Release Tramadol 50 mg Every 6 Hours.
-
-Figure 2.
-Mean M1 Plasma Concentrations at Steady State Following Five Days of Oral Administration of RYZOLT® 200 mg Once Daily and Immediate-Release Tramadol 50 mg Every 6 Hours
-
 ### Food Effect
 
 Co-administration with a high fat meal did not significantly affect AUC (overall exposure to tramadol); however, Cmax (peak plasma concentration) increased 67% following a single 300 mg tablet administration and 54% following a single 200 mg tablet administration.
@@ -87,7 +82,7 @@ After single administration of RYZOLT®, the mean terminal plasma elimination ha
 Impaired renal function results in a decreased rate and extent of excretion of tramadol and its active metabolite, M1 in patients taking an immediate-release formulation of tramadol.
 RYZOLT® has not been studied in patients with renal impairment.
 The limited availability of dose strengths and once daily dosing of RYZOLT® do not permit the dosing flexibility required for safe use in patients with severe renal impairment.
-Therefore, RYZOLT® should not be used in patients with severe renal impairment (creatinine clearance less than 30 mL/min) (see WARNINGS, Use in Renal and Hepatic Disease and DOSAGE AND ADMINISTRATION).
+Therefore, RYZOLT® should not be used in patients with severe renal impairment (creatinine clearance less than 30 mL/min) (see PRECAUTIONS, Use in Renal and Hepatic Disease and DOSAGE AND ADMINISTRATION).
 The total amount of tramadol and M1 removed during a 4-hour dialysis period is less than 7% of the administered dose.
 
 ### Hepatic Impairment
@@ -95,7 +90,7 @@ The total amount of tramadol and M1 removed during a 4-hour dialysis period is l
 The metabolism of tramadol and M1 is reduced in patients with advanced cirrhosis of the liver, resulting in both a larger area under the concentration time curve (AUC) for tramadol and longer mean tramadol and M1 elimination half-lives (13 hours for tramadol and 19 hours for M1) after the administration of tramadol immediate-release tablets.
 RYZOLT® has not been studied in patients with hepatic impairment.
 The limited availability of dose strengths and once daily dosing of RYZOLT® do not permit the dosing flexibility required for safe use in patients with hepatic impairment.
-Therefore, RYZOLT® should not be used in patients with hepatic impairment (see WARNINGS, Use in Renal and Hepatic Disease and DOSAGE AND ADMINISTRATION).
+Therefore, RYZOLT® should not be used in patients with hepatic impairment (see PRECAUTIONS, Use in Renal and Hepatic Disease and DOSAGE AND ADMINISTRATION).
 
 ### Geriatric Patients
 

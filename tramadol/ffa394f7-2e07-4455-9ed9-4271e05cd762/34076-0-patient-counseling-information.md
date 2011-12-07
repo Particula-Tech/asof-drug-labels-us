@@ -10,7 +10,7 @@
   Patients using this drug should be cautioned accordingly.
 - RYZOLT®should not be taken with alcohol-containing beverages.
 - RYZOLT®should be used with caution when taking medications such as tranquilizers, hypnotics or other opiate containing analgesics.
-- Female patients should be instructed to inform the physician if they are pregnant, think they might become pregnant, or are trying to become pregnant (see PRECAUTIONS, Pregnancy and Labor and Delivery).
+- Female patients should be instructed to inform the physician if they are pregnant, think they might become pregnant, or are trying to become pregnant (see PRECAUTIONS,Pregnancy and Labor and Delivery).
 - Clinical experience suggests that signs and symptoms of withdrawal may be reduced by tapering medication when discontinuing tramadol therapy.
 - Patients should be informed to keep RYZOLT®out of reach of children.
 
@@ -42,7 +42,7 @@ Quinidine is a selective inhibitor of that isoenzyme, so that concomitant admini
 The clinical consequences of these findings are unknown.
 In vitro drug interaction studies in human liver microsomes indicate that tramadol has no effect on quinidine metabolism.
 
-### Use with Digoxin and Warfarin
+Use with Digoxin and Warfarin
 
 Post-marketing surveillance of tramadol has revealed rare reports of digoxin toxicity and alteration of warfarin effect, including elevation of prothrombin times.
 

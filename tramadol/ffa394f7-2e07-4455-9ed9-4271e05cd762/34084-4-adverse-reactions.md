@@ -7,7 +7,7 @@ Treatment emergent adverse events increased with dose from 100 mg to 300 mg in t
 Table 2.
 Percentage of Patients with Incidence of Adverse Events ≥2% from Three 12-week Placebo-Controlled Studies (MDT3-002, MDT3-003 and MDT3-005).
 
-| Adverse Events (MEDRA Preferred terms) | RYZOLT® |  |  |  | Placebo |
+| ADVERSE EVENTS (MEDRA Preferred terms) | RYZOLT® |  |  |  | Placebo |
 | --- | --- | --- | --- | --- | --- |
 | 100 mg | 200 mg | 300 mg | TotalDue to the difference in study design of MDT3-005, only the results of the double-blind phase of the study are presented and the dose specific results include maintenance period data only. |  |  |
 | N=216 | N=311 | N=530 | N=1095 | N=668 |  |
