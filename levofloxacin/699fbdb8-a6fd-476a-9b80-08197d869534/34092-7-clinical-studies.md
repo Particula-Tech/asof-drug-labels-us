@@ -131,7 +131,7 @@ Table 16: Clinical Success Rate by Pathogen at the TOC in Microbiologically Eval
 Three hundred ninety-nine patients were enrolled in an open-label, randomized, comparative study for complicated skin and skin structure infections.
 The patients were randomized to receive either levofloxacin 750 mg once daily (IV followed by oral), or an approved comparator for a median of 10 ± 4.7 days.
 As is expected in complicated skin and skin structure infections, surgical procedures were performed in the levofloxacin and comparator groups.
-Surgery (incision and drainage or debridement) was performed on 45% of the levofloxacin-treated patients and 44% of the comparator treated patients, either shortly before or during antibiotic treatment and formed an integral part of therapy for this indication.
+Surgery (incision and drainage or debridement) was performed on 45% of the levofloxacin-treated patients and 44% of the comparator-treated patients, either shortly before or during antibiotic treatment and formed an integral part of therapy for this indication.
 
 Among those who could be evaluated clinically 2-5 days after completion of study drug, overall success rates (improved or cured) were 116/138 (84.1%) for patients treated with levofloxacin and 106/132 (80.3%) for patients treated with the comparator.
 

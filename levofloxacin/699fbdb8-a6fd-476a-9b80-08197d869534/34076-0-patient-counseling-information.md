@@ -27,7 +27,8 @@ Patients should be informed of the following serious adverse reactions that have
   Patients should inform their physician and be instructed to discontinue levofloxacin treatment immediately if they experience any signs or symptoms of liver injury including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel movements or dark colored urine.
 - Convulsions: Convulsions have been reported in patients taking fluoroquinolones, including levofloxacin.
   Patients should notify their physician before taking this drug if they have a history of convulsions.
-- Neurologic Adverse Effects (e.g., dizziness, lightheadedness): Patients should know how they react to levofloxacin before they operate an automobile or machinery or engage in other activities requiring mental alertness and coordination.
+- Neurologic Adverse Effects (e.g., dizziness, lightheadedness, increased intracranial pressure): Patients should know how they react to levofloxacin before they operate an automobile or machinery or engage in other activities requiring mental alertness and coordination.
+  Patients should notify their physician if persistent headache with or without blurred vision occurs.
 - Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible.
@@ -52,6 +53,6 @@ SAGENT™
 
 Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2011 Sagent Pharmaceuticals, Inc.
 
-Revised: July 2011
+Revised: October 2011
 
 ## 17.5 FDA-Approved Medication Guide

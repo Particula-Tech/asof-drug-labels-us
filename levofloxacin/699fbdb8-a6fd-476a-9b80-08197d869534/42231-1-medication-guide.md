@@ -11,39 +11,41 @@ There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
 What is the most important information I should know about LEVOFLOXACIN?
+
 LEVOFLOXACIN belongs to a class of antibiotics called fluoroquinolones.
 LEVOFLOXACIN can cause side effects that may be serious or even cause death.
 If you get any of the following serious side effects, get medical help right away.
 Talk with your healthcare provider about whether you should continue to take LEVOFLOXACIN.
 
-- Tendon rupture or swelling of the tendon (tendinitis).
-  - Tendons are tough cords of tissue that connect muscles to bones.
-  - Pain, swelling, tears, and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites can happen in people of all ages who take fluoroquinolone antibiotics, including LEVOFLOXACIN.
-    The risk of getting tendon problems is higher if you:
-    - are over 60 years of age
-    - are taking steroids (corticosteroids)
-    - have had a kidney, heart or lung transplant.
-  - Swelling of the tendon (tendinitis) and tendon rupture (breakage) have also happened in patients who take fluoroquinolones who do not have the above risk factors.
-  - Other reasons for tendon ruptures can include:
-    - physical activity or exercise
-    - kidney failure
-    - tendon problems in the past, such as in people with rheumatoid arthritis (RA).
-  - Call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
-    Stop taking LEVOFLOXACIN until tendinitis or tendon rupture has been ruled out by your healthcare provider.
-    Avoid exercise and using the affected area.
-    The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
-    This can also happen with other tendons.
-    Talk to your healthcare provider about the risk of tendon rupture with continued use of LEVOFLOXACIN.
-    You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
-  - Tendon rupture can happen while you are taking or after you have finished taking LEVOFLOXACIN.
-    Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone.
-  - Get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
-    - hear or feel a snap or pop in a tendon area
-    - bruising right after an injury in a tendon area
-    - unable to move the affected area or bear weight
-- Worsening of myasthenia gravis (a disease that causes muscle weakness).
-  Fluoroquinolones like LEVOFLOXACIN may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
-  Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
+1. Tendon rupture or swelling of the tendon (tendinitis).
+   - Tendon problems can happen in people of all ages who take LEVOFLOXACIN.
+     Tendons are tough cords of tissue that connect muscles to bones.
+     - Some tendon problems include pain, swelling, tears, and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+   - The risk of getting tendon problems while you take Levofloxacin is higher if you:
+     - are over 60 years of age
+     - are taking steroids (corticosteroids)
+     - have had a kidney, heart or lung transplant.
+   - Tendon problems can happen in people who do not have the above risk factors when they take LEVOFLOXACIN.
+     Other reasons that can increase your risk of tendon problems can include:
+     - physical activity or exercise
+     - kidney failure
+     - tendon problems in the past, such as in people with rheumatoid arthritis (RA).
+   - Call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
+     Stop taking LEVOFLOXACIN until tendinitis or tendon rupture has been ruled out by your healthcare provider.
+     Avoid exercise and using the affected area.
+     The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
+     This can also happen with other tendons.
+   - Talk to your healthcare provider about the risk of tendon rupture with continued use of LEVOFLOXACIN.
+     You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
+   - Tendon rupture can happen while you are taking or after you have finished taking LEVOFLOXACIN.
+     Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone.
+   - Get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
+     - hear or feel a snap or pop in a tendon area
+     - bruising right after an injury in a tendon area
+     - unable to move the affected area or bear weight
+2. Worsening of myasthenia gravis (a disease that causes muscle weakness).
+   Fluoroquinolones like LEVOFLOXACIN may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+   Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
 See the section “What are the possible side effects of LEVOFLOXACIN?” for more information about side effects.
 
@@ -193,6 +195,7 @@ Other serious side effects of LEVOFLOXACIN include:
   - feel lightheaded
   - feel more suspicious (paranoia)
   - suicidal thoughts or acts
+  - persistent headache with or without blurred vision
 - Serious allergic reactions.
   Allergic reactions can happen in people taking fluoroquinolones, including LEVOFLOXACIN, even after only one dose.
   Stop taking LEVOFLOXACIN and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:
@@ -237,14 +240,12 @@ LEVOFLOXACIN may need to be stopped to prevent permanent nerve damage.
 - Sensitivity to sunlight (photosensitivity) See “What should I avoid while taking LEVOFLOXACIN?”
 - Joint Problems Increased chance of problems with joints and tissues around joints in children.
   Tell your child's healthcare provider if your child has any joint problems during or after treatment with LEVOFLOXACIN.
-
-The most common side effects of LEVOFLOXACIN include:
-
-- dizziness
-- headache
-- constipation
-- nausea
-- diarrhea
+  The most common side effects of LEVOFLOXACIN include:
+  - dizziness
+  - headache
+  - constipation
+  - nausea
+  - diarrhea
 
 In children 6 months and older who take LEVOFLOXACIN to prevent anthrax disease, vomiting is also common.
 
@@ -281,7 +282,7 @@ LEVOFLOXACIN Injection in 5% dextrose in Single-Use Flexible Containers:
 - Inactive ingredients: Dextrose (D5W).
   Solutions of hydrochloric acid and sodium hydroxide may have been added to adjust the pH.
 
-Revised: July 2011
+Revised: October 2011
 
 SAGENT™
 

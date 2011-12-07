@@ -54,8 +54,8 @@ Levofloxacin should be discontinued immediately if the patient develops signs an
 
 ## 5.6 Central Nervous System Effects
 
-Convulsions and toxic psychoses have been reported in patients receiving fluoroquinolones, including levofloxacin.
-Fluoroquinolones may also cause increased intracranial pressure and central nervous system stimulation which may lead to tremors, restlessness, anxiety, lightheadedness, confusion, hallucinations, paranoia, depression, nightmares, insomnia, and, rarely, suicidal thoughts or acts.
+Convulsions, toxic psychoses, increased intracranial pressure (including pseudotumor cerebri) have been reported in patients receiving fluoroquinolones, including levofloxacin.
+Fluoroquinolones may also cause central nervous system stimulation which may lead to tremors, restlessness, anxiety, lightheadedness, confusion, hallucinations, paranoia, depression, nightmares, insomnia, and, rarely, suicidal thoughts or acts.
 These reactions may occur following the first dose.
 If these reactions occur in patients receiving levofloxacin, the drug should be discontinued and appropriate measures instituted.
 As with other fluoroquinolones, levofloxacin should be used with caution in patients with a known or suspected central nervous system (CNS) disorder that may predispose them to seizures or lower the seizure threshold (e.g., severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose them to seizures or lower the seizure threshold (e.g., certain drug therapy, renal dysfunction.)

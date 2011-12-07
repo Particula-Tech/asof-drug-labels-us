@@ -8,7 +8,7 @@ Levofloxacin is a member of the fluoroquinolone class of antibacterial agents [s
 
 The mean ± SD pharmacokinetic parameters of levofloxacin determined under single and steady-state conditions following oral tablet, oral solution, or intravenous (IV) doses of levofloxacin are summarized in Table 8.
 
-Table 8: Mean ±SD Levofloxacin PK Parameters
+Table 8: Mean ± SD Levofloxacin PK Parameters
 
 | Regimen | Cmax (mcg/mL) | Tmax (h) | AUC (mcg•h/mL) | CL/F1 (mL/min) | Vd/F2 (L) | t 1/2 (h) | CLR (mL/min) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
