@@ -19,3 +19,7 @@ Rx only
 Important: Read accompanying directions carefully.
 
 GlaxoSmithKline
+
+©2009, GlaxoSmithKline
+
+A067126

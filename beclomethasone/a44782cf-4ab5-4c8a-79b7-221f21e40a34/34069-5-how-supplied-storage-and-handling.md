@@ -6,7 +6,7 @@ Each bottle contains 25 g of suspension and will provide 180 metered sprays.
 The correct amount of medication in each spray cannot be assured after 180 sprays even though the bottle is not completely empty.
 The bottle should be discarded when the labeled number of actuations has been used.
 
-Store between 15°and 30°C (59°and 86°F).
+Store between 15° and 30°C (59° and 86°F).
 
 GlaxoSmithKline
 

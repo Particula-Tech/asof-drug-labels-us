@@ -17,7 +17,8 @@ SHAKE WELL BEFORE USE.
 
 Patient’s Instructions for Use
 
-Shake the suspension spray bottle well before using it.Read complete instructionscarefully and use only as directed.
+Shake the suspension spray bottle well before using it.
+Read complete instructions carefully and use only as directed.
 
 To Use:
 

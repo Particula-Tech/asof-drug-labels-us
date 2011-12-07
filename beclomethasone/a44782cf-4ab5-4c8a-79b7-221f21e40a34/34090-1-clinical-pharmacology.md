@@ -30,7 +30,7 @@ Minor inactive metabolites, beclomethasone-21-monopropionate (B-21-MP) and beclo
 Elimination: The elimination of beclomethasone dipropionate and B-17-MP after intravenous administration are characterized by high plasma clearance (150 and 120 L/hour) with corresponding terminal elimination half-lives of 0.5 and 2.7 hours.
 Following oral administration of tritiated beclomethasone dipropionate, approximately 60% of the dose was excreted in the feces within 96 hours, mainly as free and conjugated polar metabolites.
 Approximately 12% of the dose was excreted as free and conjugated polar metabolites in the urine.
-The renal clearance of beclomethasone dipropionate and its metabolites is negligib
+The renal clearance of beclomethasone dipropionate and its metabolites is negligible.
 
 ## Pharmacodynamics
 
