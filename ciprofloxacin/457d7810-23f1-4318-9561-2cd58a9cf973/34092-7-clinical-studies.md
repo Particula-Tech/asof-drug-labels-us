@@ -1,8 +1,8 @@
 # CLINICAL STUDIES
 
-EMPIRICAL THERAPY IN ADULT FEBRILE NEUTROPENIC PATIENTS
+## Empirical Therapy In Adult Febrile Neutropenic Patients
 
-The safety and efficacy of ciprofloxacin, 400 mg I.V. q 8h, in combination with piperacillin sodium, 50 mg/kg I.V. q 4h, for the empirical therapy of febrile neutropenic patients were studied in one large pivotal multicenter, randomized trial and were compared to those of tobramycin, 2 mg/kg I.V. q 8h, in combination with piperacillin sodium, 50 mg/kg I.V. q 4h.
+The safety and efficacy of ciprofloxacin, 400 mg IV q 8h, in combination with piperacillin sodium, 50 mg/kg IV q 4h, for the empirical therapy of febrile neutropenic patients were studied in one large pivotal multicenter, randomized trial and were compared to those of tobramycin, 2 mg/kg IV q 8h, in combination with piperacillin sodium, 50 mg/kg IV q 4h.
 
 Clinical response rates observed in this study were as follows:
 
@@ -16,7 +16,7 @@ Complicated Urinary Tract Infection and Pyelonephritis – Efficacy in Pediatric
 
 NOTE: Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse events compared to controls, including events related to joints and/or surrounding tissues.
 
-Ciprofloxacin, administered I.V. and/or orally, was compared to a cephalosporin for treatment of complicated urinary tract infections (cUTI) and pyelonephritis in pediatric patients 1 to 17 years of age (mean age of 6 ± 4 years).
+Ciprofloxacin, administered IV and/or orally, was compared to a cephalosporin for treatment of complicated urinary tract infections (cUTI) and pyelonephritis in pediatric patients 1 to 17 years of age (mean age of 6 ± 4 years).
 The trial was conducted in the US, Canada, Argentina, Peru, Costa Rica, Mexico, South Africa, and Germany.
 The duration of therapy was 10 to 21 days (mean duration of treatment was 11 days with a range of 1 to 88 days).
 The primary objective of the study was to assess musculoskeletal and neurological safety.
@@ -41,28 +41,25 @@ Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post
 
 ## References:
 
-1. Clinical and Laboratory Standards Institute.
-   Methods for Dilution AntimicrobialSusceptibility Tests for Bacteria That Grow Aerobically; Approved Standard – Eighth Edition.
+1. Clinical Laboratory Standards Institute.
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard – Eigth Edition.
    CLSI Document M7-A8, Vol. 29, No. 2, CLSI, Wayne, PA, January, 2009.
 2. Clinical and Laboratory Standards Institute.
-   Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline – Second Edition.
-   CLSI Document M45-A2, CLSI, Wayne, PA, January, 2010.
-3. Clinical and Laboratory Standards Institute.
    Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard – Tenth Edition.
    CLSI Document M2-A10, Vol. 29, No. 1, CLSI, Wayne, PA, January, 2009.
-4. Report presented at the FDA’s Anti-Infective Drug and Dermatological Drug Products Advisory Committee Meeting, March 31, 1993, Silver Spring, MD.
+3. Report presented at the FDA’s Anti-Infective Drug and Dermatological Drug Products Advisory Committee Meeting, March 31, 1993, Silver Spring, MD.
    Report available from FDA, CDER, Advisors and Consultants Staff, HFD-21, 1901 Chapman Avenue, Room 200, Rockville, MD 20852, USA.
-5. 21 CFR 314.510 (Subpart H – Accelerated Approval of New Drugs for Life-Threatening Illnesses).
-6. Kelly DJ, et al. Serum concentrations of penicillin, doxycycline, and ciprofloxacin during prolonged therapy in rhesus monkeys.
+4. 21 CFR 314.510 (Subpart H – Accelerated Approval of New Drugs for Life-Threatening Illnesses).
+5. Kelly DJ, et al. Serum concentrations of penicillin, doxycycline, and ciprofloxacin during prolonged therapy in rhesus monkeys.
    J Infect Dis 1992; 166: 1184-7.
-7. Friedlander AM, et al. Postexposure prophylaxis against experimental inhalational anthrax.
+6. Friedlander AM, et al. Postexposure prophylaxis against experimental inhalational anthrax.
    J Infect Dis 1993; 167: 1239-42.
-8. Friedman J, Polifka J. Teratogenic effects of drugs: a resource for clinicians (TERIS).
+7. Friedman J, Polifka J. Teratogenic effects of drugs: a resource for clinicians (TERIS).
    Baltimore, Maryland: Johns Hopkins University Press, 2000:149-195.
-9. Loebstein R, Addis A, Ho E, et al. Pregnancy outcome following gestational exposure to fluoroquinolones: a multicenter prospective controlled study.
+8. Loebstein R, Addis A, Ho E, et al. Pregnancy outcome following gestational exposure to fluoroquinolones: a multicenter prospective controlled study.
    Antimicrob Agents Chemother.
    1998;42(6): 1336-1339.
-10. Schaefer C, Amoura-Elefant E, Vial T, et al. Pregnancy outcome after prenatal quinolone exposure.
-    Evaluation of a case registry of the European network of teratology information services (ENTIS).
-    Eur J Obstet Gynecol Reprod Biol.
-    1996; 69: 83-89.
+9. Schaefer C, Amoura-Elefant E, Vial T, et al. Pregnancy outcome after prenatal quinolone exposure.
+   Evaluation of a case registry of the European network of teratology information services (ENTIS).
+   Eur J Obstet Gynecol Reprod Biol.
+   1996; 69: 83-89.

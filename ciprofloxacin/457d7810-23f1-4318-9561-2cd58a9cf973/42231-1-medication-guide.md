@@ -6,8 +6,7 @@ CIPRO® (Sip-row) (ciprofloxacin) ORAL SUSPENSION
 
 CIPRO® XR (Sip-row) (ciprofloxacin extended-release tablets)
 
-CIPRO® I.V.
-(Sip-row) (ciprofloxacin)
+CIPRO® IV (Sip-row) (ciprofloxacin)
 
 For Intravenous Infusion
 
@@ -29,15 +28,15 @@ Tendon rupture or swelling of the tendon (tendinitis)
   Tendons are tough cords of tissue that connect muscles to bones.
   Symptoms of tendon problems may include:
 - Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
-- The risk of getting tendon problems while you take Cipro is higher if you:
-  - are over 60 years of age
-  - are taking steroids (corticosteroids)
-  - have had a kidney, heart or lung transplant
+- The risk of getting tendon problems while you take CIPRO is higher if you:
+  - Are over 60 years of age
+  - Are taking steroids (corticosteroids)
+  - Have had a kidney, heart or lung transplant
 - Tendon problems can happen in people who do not have the above risk factors when they take CIPRO.
   Other reasons that can increase your risk of tendon problems can include:
-  - physical activity or exercise
-  - kidney failure
-  - tendon problems in the past, such as in people with rheumatoid arthritis (RA)
+  - Physical activity or exercise
+  - Kidney failure
+  - Tendon problems in the past, such as in people with rheumatoid arthritis (RA)
 - Call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
   Stop taking CIPRO until tendinitis or tendon rupture has been ruled out by your healthcare provider.
   Avoid exercise and using the affected area.
@@ -48,9 +47,9 @@ Tendon rupture or swelling of the tendon (tendinitis)
 - Tendon rupture can happen while you are taking or after you have finished taking CIPRO.
   Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone.
 - Get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
-  - hear or feel a snap or pop in a tendon area
-  - bruising right after an injury in a tendon area
-  - unable to move the affected area or bear weight
+  - Hear or feel a snap or pop in a tendon area
+  - Bruising right after an injury in a tendon area
+  - Unable to move the affected area or bear weight
 
 2.
 Worsening of myasthenia gravis (a disease which causes muscle weakness).
@@ -66,7 +65,7 @@ CIPRO is a fluoroquinolone antibiotic medicine used to treat certain infections 
 Children less than 18 years of age have a higher chance of getting bone, joint, or tendon (musculoskeletal) problems such as pain or swelling while taking CIPRO.
 CIPRO should not be used as the first choice of antibiotic medicine in children under 18 years of age.
 
-CIPRO Tablets, CIPRO Oral Suspension and CIPRO I.V. should not be used in children under 18 years old, except to treat specific serious infections, such as complicated urinary tract infections and to prevent anthrax disease after breathing the anthrax bacteria germ (inhalational exposure).
+CIPRO Tablets, CIPRO Oral Suspension and CIPRO IV should not be used in children under 18 years old, except to treat specific serious infections, such as complicated urinary tract infections and to prevent anthrax disease after breathing the anthrax bacteria germ (inhalational exposure).
 It is not known if CIPRO XR is safe and works in children under 18 years of age.
 
 Sometimes infections are caused by viruses rather than by bacteria.
@@ -79,10 +78,10 @@ Who should not take CIPRO?
 
 Do not take CIPRO if you:
 
-- have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone, or are allergic to any of the ingredients in CIPRO.
+- Have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone, or are allergic to any of the ingredients in CIPRO.
   Ask your healthcare provider if you are not sure.
   See the list of ingredients in CIPRO at the end of this Medication Guide.
-- also take a medicine called tizanidine (Zanaflex®).
+- Also take a medicine called tizanidine (Zanaflex®).
   Serious side effects from tizanidine are likely to happen.
 
 What should I tell my healthcare provider before taking CIPRO?
@@ -91,19 +90,19 @@ See “What is the most important information I should know about CIPRO?”
 
 Tell your healthcare provider about all your medical conditions, including if you:
 
-- have tendon problems
-- have a disease that causes muscle weakness (myasthenia gravis)
-- have central nervous system problems (such as epilepsy)
-- have nerve problems
-- have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation”
-- have a history of seizures
-- have kidney problems.
+- Have tendon problems.
+- Have a disease that causes muscle weakness (myasthenia gravis).
+- Have central nervous system problems (such as epilepsy).
+- Have nerve problems.
+- Have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation”.
+- Have a history of seizures.
+- Have kidney problems.
   You may need a lower dose of CIPRO if your kidneys do not work well.
-- have rheumatoid arthritis (RA) or other history of joint problems
-- have trouble swallowing pills
-- are pregnant or planning to become pregnant.
+- Have rheumatoid arthritis (RA) or other history of joint problems
+- Have trouble swallowing pills.
+- Are pregnant or planning to become pregnant.
   It is not known if CIPRO will harm your unborn child.
-- are breast-feeding or planning to breast-feed.
+- Are breast-feeding or planning to breast-feed.
   CIPRO passes into breast milk.
   You and your healthcare provider should decide whether you will take CIPRO or breast-feed.
 
@@ -111,34 +110,41 @@ Tell your healthcare provider about all the medicines you take, including prescr
 CIPRO and other medicines can affect each other causing side effects.
 Especially tell your healthcare provider if you take:
 
-- an NSAID (Non-Steroidal Anti-Inflammatory Drug).
+- An NSAID (Non-Steroidal Anti-Inflammatory Drug).
   Many common medicines for pain relief are NSAIDs.
   Taking an NSAID while you take CIPRO or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
   See "What are the possible side effects of CIPRO?".
-- a blood thinner (warfarin, Coumadin®, Jantoven®)
-- tizanidine (Zanaflex®).
+- A blood thinner (such as warfarin, Coumadin®, Jantoven®).
+- Tizanidine (Zanaflex®).
   You should not take CIPRO if you are already taking tizanidine.
   See “Who should not take CIPRO?”
-- theophylline (Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®)
-- glyburide (Micronase®, Glynase®, Diabeta®, Glucovance®).
-  See “What are the possible side effects of CIPRO?”
-- phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Penytoin Sodium®, Phenytek®)
-- products that contain caffeine
-- a medicine to control your heart rate or rhythm (antiarrhythmics) See “What are the possible side effects of CIPRO?”
-- an anti-psychotic medicine
-- a tricyclic antidepressant
-- a water pill (diuretic)
-- a steroid medicine.
+- Theophylline (such as Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®).
+- Glyburide (Micronase®, Glynase®, Diabeta®, Glucovance®).
+  See “What are the possible side effects of CIPRO?”.
+- Phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Phenytoin Sodium®, Phenytek®).
+- Products that contain caffeine.
+- A medicine to control your heart rate or rhythm (antiarrhythmics) See “What are the possible side effects of CIPRO?”.
+- An anti-psychotic medicine.
+- A tricyclic antidepressant.
+- A water pill (diuretic).
+- A steroid medicine.
   Corticosteroids taken by mouth or by injection may increase the chance of tendon injury.
-  See “What is the most important information I should know about CIPRO?”
-- methotrexate (Trexall®)
-- Probenecid (Probalan®, Col-probenecid®)
-- Metoclopromide (Reglan®, Reglan ODT®)
+  See “What is the most important information I should know about CIPRO?”.
+- Methotrexate (Trexall®).
+- Probenecid (Probalan®, Col-probenecid®).
+- Metoclopromide (Reglan®, Reglan ODT®).
+- Ropinirole (Requip®).
+- Lidocaine (Xylocaine® intravenous infusion).
+- Clozapine (Clozaril®, Fazaclo® ODT®).
+- Pentoxifylline (Trental®).
+- Sildenafil (Viagra®, Revatio®).
+- Cyclosporine (Gengraf®, Neoral®, Sandimmune®, Sangcya®).
+- Omeprazole.
 - Certain medicines may keep CIPRO Tablets, CIPRO Oral Suspension from working correctly.
   Take CIPRO Tablets and Oral Suspension either 2 hours before or 6 hours after taking these products:
-- an antacid, multivitamin, or other product that has magnesium, calcium, aluminum, iron, or zinc
-- sucralfate (Carafate®)
-- didanosine (Videx®, Videx EC®)
+- An antacid, multivitamin, or other product that has magnesium, calcium, aluminum, iron, or zinc.
+- Sucralfate (Carafate®).
+- Didanosine (Videx®, Videx EC®).
 
 Ask your healthcare provider if you are not sure if any of your medicines are listed above.
 
@@ -158,15 +164,15 @@ How should I take CIPRO?
 - Take CIPRO XR one time each day at about the same time each day.
   Swallow the tablet whole.
   Do not split, crush or chew the tablet.
-  Tell your healthcare provider if you can not swallow the tablet whole.
-- CIPRO I.V. is given to you by intravenous (I.V.) infusion into your vein, slowly, over 60 minutes, as prescribed by your healthcare provider.
+  Tell your healthcare provider if you cannot swallow the tablet whole.
+- CIPRO IV is given to you by intravenous (IV) infusion into your vein, slowly, over 60 minutes, as prescribed by your healthcare provider.
 - CIPRO can be taken with or without food.
 - CIPRO should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone, but may be taken with a meal that contains these products.
 - Drink plenty of fluids while taking CIPRO.
 - Do not skip any doses, or stop taking CIPRO even if you begin to feel better, until you finish your prescribed treatment, unless:
-- you have tendon effects (see “What is the most important information I should know about CIPRO?”),
-- you have a serious allergic reaction (see “What are the possible side effects of CIPRO?”), or
-- your healthcare provider tells you to stop.
+- You have tendon effects (see “What is the most important information I should know about CIPRO?”),
+- You have a serious allergic reaction (see “What are the possible side effects of CIPRO?”), or
+- Your healthcare provider tells you to stop.
 - This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to CIPRO.
   If this happens, CIPRO and other antibiotic medicines may not work in the future.
 - If you miss a dose of CIPRO Tablets or Oral Suspension, take it as soon as you remember.
@@ -175,15 +181,14 @@ How should I take CIPRO?
   Do not take more than one dose in one day.
 - If you take too much, call your healthcare provider or get medical help immediately.
 
-If you have been prescribed CIPRO Tablets, CIPRO Oral Suspension or CIPRO I.V. after being exposed to anthrax:
+If you have been prescribed CIPRO Tablets, CIPRO Oral Suspension or CIPRO IV after being exposed to anthrax:
 
-- CIPRO Tablets, Oral Suspension and I.V. has been approved to lessen the chance of getting anthrax disease or worsening of the disease after you are exposed to the anthrax bacteria germ.
+- CIPRO Tablets, Oral Suspension and IV has been approved to lessen the chance of getting anthrax disease or worsening of the disease after you are exposed to the anthrax bacteria germ.
 - Take CIPRO exactly as prescribed by your healthcare provider.
   Do not stop taking CIPRO without talking with your healthcare provider.
   If you stop taking CIPRO too soon, it may not keep you from getting the anthrax disease.
-- Side effects may happen while you are taking CIPRO Tablets, Oral Suspension or I.V.
-  When taking your CIPRO to prevent anthrax infection, you and your healthcare provider should talk about whether the risks of stopping CIPRO too soon are more important than the risks of side effects with CIPRO.
-- If you are pregnant, or plan to become pregnant while taking CIPRO, you and your healthcare provider should decide whether the benefits of taking CIPRO Tablets, Oral Suspension or I.V. for anthrax are more important than the risks.
+- Side effects may happen while you are taking CIPRO Tablets, Oral Suspension or IV When taking your CIPRO to prevent anthrax infection, you and your healthcare provider should talk about whether the risks of stopping CIPRO too soon are more important than the risks of side effects with CIPRO.
+- If you are pregnant, or plan to become pregnant while taking CIPRO, you and your healthcare provider should decide whether the benefits of taking CIPRO Tablets, Oral Suspension or IV for anthrax are more important than the risks.
 
 What should I avoid while taking CIPRO?
 
@@ -203,6 +208,12 @@ See “What is the most important information I should know about CIPRO?”
 
 Other serious side effects of CIPRO include:
 
+- Theophylline
+
+You may have serious seizure and breathing problems when you take theophylline with CIPRO.
+These problems may lead to death.
+Get emergency help right away if you have seizures or trouble breathing.
+
 - Central Nervous System effects
 
 Seizures have been reported in people who take fluoroquinolone antibiotics including CIPRO.
@@ -212,30 +223,30 @@ Ask your healthcare provider whether taking CIPRO will change your risk of havin
 Central Nervous System (CNS) side effects may happen as soon as after taking the first dose of CIPRO.
 Talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
 
-- feel dizzy
-- seizures
-- hear voices, see things, or sense things that are not there (hallucinations)
-- feel restless
-- tremors
-- feel anxious or nervous
-- confusion
-- depression
-- trouble sleeping
-- nightmares
-- feel more suspicious (paranoia)
-- suicidal thoughts or acts
+- Feel dizzy.
+- Seizures
+- Hear voices, see things, or sense things that are not there (hallucinations)
+- Feel restless
+- Tremors
+- Feel anxious or nervous
+- Confusion
+- Depression
+- Trouble sleeping
+- Nightmares
+- Feel more suspicious (paranoia)
+- Suicidal thoughts or acts
 - Serious allergic reactions
 
 Allergic reactions can happen in people taking fluoroquinolones, including CIPRO, even after only one dose.
 Stop taking CIPRO and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:
 
-- hives
-- trouble breathing or swallowing
-- swelling of the lips, tongue, face
-- throat tightness, hoarseness
-- rapid heartbeat
-- faint
-- yellowing of the skin or eyes.
+- Hives.
+- Trouble breathing or swallowing.
+- Swelling of the lips, tongue, face.
+- Throat tightness, hoarseness.
+- Rapid heartbeat.
+- Faint.
+- Yellowing of the skin or eyes.
   Stop taking CIPRO and tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine.
   These can be signs of a serious reaction to CIPRO (a liver problem).
 - Skin rash
@@ -251,10 +262,10 @@ CIPRO may cause a rare heart problem known as prolongation of the QT interval.
 This condition can cause an abnormal heartbeat and can be very dangerous.
 The chances of this event are higher in people:
 
-- who are elderly
-- with a family history of prolonged QT interval
-- with low blood potassium (hypokalemia)
-- who take certain medicines to control heart rhythm (antiarrhythmics)
+- Who are elderly
+- With a family history of prolonged QT interval
+- With low blood potassium (hypokalemia)
+- Who take certain medicines to control heart rhythm (antiarrhythmics)
 - Intestine infection (Pseudomembranous colitis)
 
 Pseudomembranous colitis can happen with most antibiotics, including CIPRO.
@@ -267,11 +278,11 @@ Pseudomembranous colitis can happen 2 or more months after you have finished you
 Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including CIPRO.
 Talk with your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
 
-- pain
-- burning
-- tingling
-- numbness
-- weakness
+- Pain
+- Burning
+- Tingling
+- Numbness
+- Weakness
 
 CIPRO may need to be stopped to prevent permanent nerve damage.
 
@@ -292,13 +303,14 @@ Tell your child’s healthcare provider if your child has any joint problems dur
 
 The most common side effects of CIPRO include:
 
-- nausea
-- headache
-- diarrhea
-- vomiting
-- vaginal yeast infection
-- changes in liver function tests
-- pain or discomfort in the abdomen
+- Nausea
+- Diarrhea
+- Changes in liver function tests
+- Vomiting
+- Rash
+- Vaginal yeast infection
+- Pain or discomfort in the abdomen
+- Headache
 
 These are not all the possible side effects of CIPRO.
 Tell your healthcare provider about any side effect that bothers you, or that does not go away.
@@ -349,12 +361,12 @@ CIPRO XR
 - Active ingredient: ciprofloxacin
 - Inactive ingredients: crospovidone, hypromellose, magnesium stearate, polyethylene glycol, silica colloidal anhydrous, succinic acid, and titanium dioxide.
 
-CIPRO I.V.
+CIPRO IV
 
 - Active ingredient: ciprofloxacin
 - Inactive ingredients: lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
 
-Revised August 2011
+Revised November 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -370,4 +382,4 @@ Rx Only
 
 ©2011 Bayer HealthCare Pharmaceuticals Inc.
 
-Printed In U.S.A.
+81532266 R4 Printed In U.S.A.

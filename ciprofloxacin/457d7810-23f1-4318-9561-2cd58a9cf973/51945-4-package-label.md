@@ -2,8 +2,7 @@
 
 200 ML RX Only
 
-Cipro® I.V.
-400 mg, 5% Flexible Container
+Cipro® IV 400 mg, 5% Flexible Container
 
 CIPRO IV
 

@@ -1,8 +1,7 @@
 # HOW SUPPLIED
 
-CIPRO I.V.
-(ciprofloxacin) is available in a clear, colorless to slightly yellowish solution.
-CIPRO I.V. is available in a 400 mg strength.
+CIPRO IV (ciprofloxacin) is available in a clear, colorless to slightly yellowish solution.
+CIPRO IV is available in a 400 mg strength.
 The premixed solution is supplied in latex-free flexible containers as follows:
 
 FLEXIBLE CONTAINER: Manufactured for Bayer HealthCare Pharmaceuticals Inc. Manufactured in Germany.
