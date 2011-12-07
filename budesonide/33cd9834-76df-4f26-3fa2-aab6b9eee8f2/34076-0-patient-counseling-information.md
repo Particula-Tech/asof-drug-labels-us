@@ -29,7 +29,7 @@ Patients should not stop therapy with PULMICORT RESPULES without physician/provi
 ## 17.4 Hypersensitivity including Anaphylaxis
 
 Hypersensitivity reactions including anaphylaxis, rash, contact dermatitis, urticaria, angioedema, and bronchospasm have been reported with use of PULMICORT RESPULES.
-Discontinue PULMICORT RESPULES if such reactions occur [see Contraindications (4);Warning and Precautions (5.3)].
+Discontinue PULMICORT RESPULES if such reactions occur [see Contraindications (4) andWarning and Precautions (5.3)].
 
 ## 17.5 Immunosuppression
 
