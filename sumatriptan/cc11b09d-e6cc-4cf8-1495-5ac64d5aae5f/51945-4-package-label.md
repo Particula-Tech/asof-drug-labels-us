@@ -24,18 +24,9 @@ Each unit dose nasal spray contains 20 mg of sumatriptan.
 
 Do not test before use.
 
-See prescribing information for dosage information.
-
-Store between 36o and 86oF (2o and 30oC).
-Protect from light.
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Made in Singapore
-
 ©2009, GlaxoSmithKline
+
+10000000076010
 
 # Principal Display Panel
 
@@ -63,15 +54,6 @@ Each unit dose nasal spray contains 5 mg of sumatriptan.
 
 Do not test before use.
 
-See prescribing information for dosage information.
-
-Store between 36o and 86oF (2o and 30oC).
-Protect from light.
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Made in Singapore
-
 ©2009, GlaxoSmithKline
+
+10000000076012

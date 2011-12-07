@@ -161,7 +161,7 @@ IMITREX Nasal Spray is not known to interfere with commonly employed clinical la
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenesis:In carcinogenicity studies, rats and mice were given sumatriptan by oral gavage (rats:104 weeks) or drinking water (mice: 78 weeks).
+Carcinogenesis: In carcinogenicity studies, rats and mice were given sumatriptan by oral gavage (rats:104 weeks) or drinking water (mice: 78 weeks).
 Average exposures achieved in mice receiving the highest dose (target dose of 160 mg/kg/day) were approximately 184 times the exposure attained in humans after the maximum recommended single intranasal dose of 20 mg.
 The highest dose administered to rats (160 mg/kg/day, reduced from 360 mg/kg/day during week 21) was approximately 78 times the maximum recommended single intranasal dose of 20 mg on a mg/m2 basis.
 There was no evidence of an increase in tumors in either species related to sumatriptan administration.

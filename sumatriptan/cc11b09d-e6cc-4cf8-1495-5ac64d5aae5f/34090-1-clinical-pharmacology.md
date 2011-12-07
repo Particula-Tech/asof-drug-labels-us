@@ -30,7 +30,7 @@ Clinical and pharmacokinetic data indicate that administration of two 5-mg doses
 
 ## Special Populations
 
-Renal Impairment:The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined, but little clinical effect would be expected as sumatriptan is largely metabolized to an inactive substance.
+Renal Impairment: The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined, but little clinical effect would be expected as sumatriptan is largely metabolized to an inactive substance.
 
 Hepatic Impairment: The effect of hepatic disease on the pharmacokinetics of subcutaneously and orally administered sumatriptan has been evaluated, but the intranasal dosage form has not been studied in hepatic impairment.
 There were no statistically significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in hepatically impaired patients compared to healthy controls.
