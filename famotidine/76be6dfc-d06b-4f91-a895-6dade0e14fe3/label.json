@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA019462"
+  ],
+  "inn": "famotidine",
+  "labeler": "Marathon Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "42998-963-09",
+    "42998-963-98",
+    "42998-964-09",
+    "42998-964-98"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "famotidine",
+      "name": "Pepcid"
+    }
+  ],
+  "setid": "76be6dfc-d06b-4f91-a895-6dade0e14fe3",
+  "source": "dailymed"
+}
