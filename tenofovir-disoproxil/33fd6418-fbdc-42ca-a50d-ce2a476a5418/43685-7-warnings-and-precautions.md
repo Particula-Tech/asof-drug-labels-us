@@ -81,6 +81,8 @@ A causal relationship has not been established.
 Immune reconstitution syndrome has been reported in HIV-infected patients treated with combination antiretroviral therapy, including VIREAD.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections [such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia (PCP), or tuberculosis], which may necessitate further evaluation and treatment.
 
+Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
+
 ## 5.9 Early Virologic Failure
 
 Clinical trials in HIV-infected subjects have demonstrated that certain regimens that only contain three nucleoside reverse transcriptase inhibitors (NRTI) are generally less effective than triple drug regimens containing two NRTIs in combination with either a non-nucleoside reverse transcriptase inhibitor or a HIV-1 protease inhibitor.
