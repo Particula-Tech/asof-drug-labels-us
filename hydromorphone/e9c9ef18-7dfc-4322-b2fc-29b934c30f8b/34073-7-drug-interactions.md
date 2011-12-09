@@ -1,0 +1,22 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Interactions with other CNS Depressants
+
+Hydromorphone hydrochloride injection should be used with caution and in reduced dosages when administered to patients concurrently receiving other central nervous system depressants including sedatives or hypnotics, general anesthetics, phenothiazines, centrally acting anti-emetics, tranquilizers, and alcohol because respiratory depression, hypotension, and profound sedation or coma may result.
+
+When such combined therapy is contemplated, the dose of one or both agents should be reduced.
+Opioid analgesics, including hydromorphone hydrochloride, may enhance the action of neuromuscular blocking agents and produce an increased degree of respiratory depression.
+
+## 7.2 Interactions with Mixed Agonist/Antagonist Opioid Analgesics
+
+Agonist/antagonist analgesics (i.e., pentazocine, nalbuphine, butorphanol, and buprenorphine) should be administered with caution to a patient who has received or is receiving a course of therapy with a pure opioid agonist analgesic such as hydromorphone.
+In this situation, mixed agonist/antagonist analgesics may reduce the analgesic effect of hydromorphone and/or may precipitate withdrawal symptoms in these patients.
+
+## 7.3 Monoamine Oxidase Inhibitors (MAOIs)
+
+MAOIs may potentiate the action of hydromorphone hydrochloride.
+Allow at least 14 days after stopping treatment with MAOIs before initiating treatment with hydromorphone hydrochloride.
+
+## 7.4 Anticholinergics
+
+Anticholinergics or other medications with anticholinergic activity when used concurrently with opioid analgesics including hydromorphone hydrochloride injection may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
