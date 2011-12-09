@@ -81,7 +81,7 @@ How should I take JANUVIA?
   Do not take two doses of JANUVIA at the same time.
 - If you take too much JANUVIA, call your doctor or local Poison Control Center right away.
 - When your body is under some types of stress, such as fever, trauma (such as a car accident), infection or surgery, the amount of diabetes medicine that you need may change.
-  Tell your doctor right away if you have any of these conditions and follow your doctor’s instructions.
+  Tell your doctor right away if you have any of these conditions and follow your doctor's instructions.
 - Check your blood sugar as your doctor tells you to.
 - Stay on your prescribed diet and exercise program while taking JANUVIA.
 - Talk to your doctor about how to prevent, recognize and manage low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and problems you have because of your diabetes.
@@ -102,7 +102,7 @@ Serious side effects have happened in people taking JANUVIA.
 
 - Serious allergic reactions.
   If you have any symptoms of a serious allergic reaction, stop taking JANUVIA and call your doctor right away.
-  See “Who should not take JANUVIA?”.
+  See "Who should not take JANUVIA?".
   Your doctor may give you a medicine for your allergic reaction and prescribe a different medicine for your diabetes.
 - Kidney problems, sometimes requiring dialysis
 
@@ -160,21 +160,19 @@ This can lead to serious medical problems.
 
 High blood sugar can be lowered by diet and exercise, and by certain medicines when necessary.
 
-JANUVIA® is a registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+Manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
+Via Emilia, 21 27100 – Pavia, Italy OR MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
+
+US Patent No.: 6,699,871
 
 Avandia® is a registered trademark of GlaxoSmithKline.
 
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
 
-Revised April 2011
+Revised: November 2011
 
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
-Via Emilia, 21 27100 – Pavia, Italy
-
-9984404
-
-US Patent No.: 6,699,871
+9984405
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

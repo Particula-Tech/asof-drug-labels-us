@@ -94,7 +94,7 @@ Patients not on antihyperglycemic agents at study entry (N=550) with inadequate 
 Approximately equal numbers of patients were randomized to receive initial therapy with placebo, 100 mg of JANUVIA once daily, 500 mg or 1000 mg of metformin twice daily, or 50 mg of sitagliptin twice daily in combination with 500 mg or 1000 mg of metformin twice daily.
 Patients who failed to meet specific glycemic goals during the study were treated with glyburide (glibenclamide) rescue.
 
-Initial therapy with the combination of JANUVIA and metformin provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo, to metformin alone, and to JANUVIA alone (Table 5, Figure 1).
+Initial therapy with the combination of JANUVIA and metformin provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo, to metformin alone, and to JANUVIA alone (Table 6, Figure 1).
 Mean reductions from baseline in A1C were generally greater for patients with higher baseline A1C values.
 For patients not on an antihyperglycemic agent at study entry, mean reductions from baseline in A1C were: JANUVIA 100 mg once daily, -1.1%; metformin 500 mg bid, -1.1%; metformin 1000 mg bid, -1.2%; sitagliptin 50 mg bid with metformin 500 mg bid, -1.6%; sitagliptin 50 mg bid with metformin 1000 mg bid, -1.9%; and for patients receiving placebo, -0.2%.
 Lipid effects were generally neutral.
