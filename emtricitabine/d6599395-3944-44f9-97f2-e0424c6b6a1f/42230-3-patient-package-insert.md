@@ -69,7 +69,7 @@ Who should not take EMTRIVA?
 - Do not take EMTRIVA if you are allergic to EMTRIVA or any of its ingredients.
   The active ingredient is emtricitabine.
   See the end of this leaflet for a complete list of ingredients.
-- Do not take EMTRIVA if you are already taking ATRIPLA®, TRUVADA®, Combivir, Epivir, Epivir-HBV, Epzicom, or Trizivir because these medicines contain the same or similar active ingredients.
+- Do not take EMTRIVA if you are already taking ATRIPLA®, COMPLERA™, TRUVADA®, Combivir, Epivir, Epivir-HBV, Epzicom, or Trizivir because these medicines contain the same or similar active ingredients.
 
 What should I tell my healthcare provider before taking EMTRIVA?
 
@@ -192,9 +192,10 @@ Sodium hydroxide and hydrochloric acid may be used to adjust pH.
 
 Rx Only
 
-May 2008
+November 2011
 
-EMTRIVA, TRUVADA, and VIREAD are trademarks of Gilead Sciences, Inc. ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
+COMPLERA, EMTRIVA, TRUVADA, and VIREAD are trademarks or registered trademarks of Gilead Sciences, Inc., or its related companies.
+ATRIPLA is a registered trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-21-500-896-GS-014
+21-500-896-GS-015 18112011

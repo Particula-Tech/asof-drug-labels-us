@@ -19,8 +19,8 @@ If appropriate, initiation of anti-Hepatitis B therapy may be warranted.
 
 ## 5.3 Coadministration with Related Products
 
-EMTRIVA is a component of TRUVADA (a fixed-dose combination of emtricitabine and tenofovir disoproxil fumarate) and ATRIPLA (a fixed-dose combination of efavirenz, emtricitabine, and tenofovir disoproxil fumarate).
-EMTRIVA should not be coadministered with TRUVADA or ATRIPLA.
+EMTRIVA is a component of ATRIPLA (a fixed-dose combination of efavirenz, emtricitabine, and tenofovir disoproxil fumarate), COMPLERA (a fixed-dose combination of emtricitabine, rilpivirine, and tenofovir disoproxil fumarate) and TRUVADA (a fixed-dose combination of emtricitabine and tenofovir disoproxil fumarate).
+EMTRIVA should not be coadministered with ATRIPLA, COMPLERA, or TRUVADA.
 Due to similarities between emtricitabine and lamivudine, EMTRIVA should not be coadministered with other drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine).
 
 ## 5.4 New Onset or Worsening Renal Impairment
@@ -38,3 +38,5 @@ A causal relationship has not been established.
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including EMTRIVA.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections [such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia (PCP), or tuberculosis], which may necessitate further evaluation and treatment.
+
+Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.

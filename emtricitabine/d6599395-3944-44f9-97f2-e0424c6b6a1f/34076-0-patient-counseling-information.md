@@ -16,7 +16,7 @@ Patients should be advised that:
   Treatment with EMTRIVA should be suspended in any patient who develops clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity (including nausea, vomiting, unusual or unexpected stomach discomfort, and weakness) [See Warnings and Precautions (5.1)].
 - Patients with HIV-1 should be tested for Hepatitis B virus (HBV) before initiating antiretroviral therapy.
 - Severe acute exacerbations of Hepatitis B have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued EMTRIVA.
-- EMTRIVA should not be coadministered with other drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine) [See Warnings and Precautions (5.3)].
+- EMTRIVA should not be coadministered with ATRIPLA, COMPLERA, or TRUVADA; or with other drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine) [See Warnings and Precautions (5.3)].
 - Dose or dosing interval of EMTRIVA may need adjustment in patients with renal impairment [See Dosage and Administration (2.5)].
 
 ## 17.2 FDA-Approved Patient Labeling
