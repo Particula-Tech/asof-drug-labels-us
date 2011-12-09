@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021959"
+  ],
+  "inn": "prednisolone",
+  "labeler": "Shionogi Inc.",
+  "package_ndcs": [
+    "59630-700-48",
+    "59630-701-48",
+    "59630-702-48"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "prednisolone sodium phosphate",
+      "name": "Orapred"
+    }
+  ],
+  "setid": "1af1b064-b9e0-4354-8e34-dca85b634bbc",
+  "source": "dailymed"
+}
