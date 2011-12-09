@@ -1,4 +1,6 @@
-# DOSAGE AND ADMINISTRATION—ADULTS
+# DOSAGE AND ADMINISTRATION
+
+## Adults
 
 CIPRO Tablets and Oral Suspension should be administered orally to adults as described in the Dosage Guidelines table.
 
@@ -6,7 +8,7 @@ The determination of dosage for any particular patient must take into considerat
 
 The duration of treatment depends upon the severity of infection.
 The usual duration is 7 to 14 days; however, for severe and complicated infections more prolonged therapy may be required.
-Ciprofloxacin should be administered at least 2 hours before or 6 hours after magnesium/aluminum antacids, or sucralfate, Videx® (didanosine) chewable/buffered tablets or pediatric powder for oral solution, other highly buffered drugs, or other products containing calcium, iron or zinc.
+Ciprofloxacin should be administered at least 2 hours before or 6 hours after magnesium/aluminum antacids, polymeric phosphate binders (for example, sevelamer, lanthanum carbonate) or sucralfate, Videx® (didanosine) chewable/buffered tablets or pediatric powder for oral solution, other highly buffered drugs, or other products containing calcium, iron or zinc.
 
 ADULT DOSAGE GUIDELINES
 
@@ -24,26 +26,26 @@ ADULT DOSAGE GUIDELINES
 | Skin Structure | Severe/Complicated | 750 mg | q 12 h | 7 to 14 days |
 | Bone and Joint | Mild/Moderate | 500 mg | q 12 h | ≥ 4 to 6 weeks |
 |  | Severe/Complicated | 750 mg | q 12 h | ≥ 4 to 6 weeks |
-| Intra-Abdominalused in conjunction with metronidazole* | Complicated | 500 mg | q 12 h | 7 to 14 days |
+| Intra-AbdominalUsed in conjunction with metronidazole* | Complicated | 500 mg | q 12 h | 7 to 14 days |
 | Infectious Diarrhea | Mild/Moderate/Severe | 500 mg | q 12 h | 5 to 7 days |
 | Typhoid Fever | Mild/Moderate | 500 mg | q 12 h | 10 days |
 | Urethral and Cervical | Uncomplicated | 250 mg | single dose | single dose |
 | Gonococcal Infections |  |  |  |  |
 | Inhalational anthrax |  | 500 mg | q 12 h | 60 days |
 | (post-exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure.** |  |  |  |  |
-| This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX—ADDITIONAL INFORMATION. |  |  |  |  |
+| This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see Inhalational Anthrax, Additional Information. |  |  |  |  |
 
-## Conversion of I.V. to Oral Dosing in Adults:
+## Conversion of IV to Oral Dosing in Adults:
 
-Patients whose therapy is started with CIPRO I.V. may be switched to CIPRO Tablets or Oral Suspension when clinically indicated at the discretion of the physician (See CLINICAL PHARMACOLOGY and table below for the equivalent dosing regimens).
+Patients whose therapy is started with CIPRO IV may be switched to CIPRO Tablets or Oral Suspension when clinically indicated at the discretion of the physician (See CLINICAL PHARMACOLOGY and table below for the equivalent dosing regimens).
 
 Equivalent AUC Dosing Regimens
 
-| Cipro Oral Dosage | Equivalent Cipro I.V. Dosage |
+| Cipro Oral Dosage | Equivalent Cipro IV Dosage |
 | --- | --- |
-| 250 mg Tablet q 12 h | 200 mg I.V. q 12 h |
-| 500 mg Tablet q 12 h | 400 mg I.V. q 12 h |
-| 750 mg Tablet q 12 h | 400 mg I.V. q 8 h |
+| 250 mg Tablet q 12 h | 200 mg IV q 12 h |
+| 500 mg Tablet q 12 h | 400 mg IV q 12 h |
+| 750 mg Tablet q 12 h | 400 mg IV q 8 h |
 
 ## Adults with Impaired Renal Function:
 
@@ -72,14 +74,14 @@ The serum creatinine should represent a steady state of renal function.
 In patients with severe infections and severe renal impairment, a unit dose of 750 mg may be administered at the intervals noted above.
 Patients should be carefully monitored.
 
-## DOSAGE AND ADMINISTRATION—PEDIATRICS
+## Pediatrics
 
 CIPRO Tablets and Oral Suspension should be administered orally as described in the Dosage Guidelines table.
 An increased incidence of adverse events compared to controls, including events related to joints and/or surrounding tissues, has been observed.
 (See ADVERSE REACTIONS and CLINICAL STUDIES.)
 
-Dosing and initial route of therapy (i.e., I.V. or oral) for complicated urinary tract infection or pyelonephritis should be determined by the severity of the infection.
-In the clinical trial, pediatric patients with moderate to severe infection were initiated on 6 to 10 mg/kg I.V. every 8 hours and allowed to switch to oral therapy (10 to 20 mg/kg every 12 hours), at the discretion of the physician.
+Dosing and initial route of therapy (that is, IV or oral) for complicated urinary tract infection or pyelonephritis should be determined by the severity of the infection.
+In the clinical trial, pediatric patients with moderate to severe infection were initiated on 6 to 10 mg/kg IV every 8 hours and allowed to switch to oral therapy (10 to 20 mg/kg every 12 hours), at the discretion of the physician.
 
 PEDIATRIC DOSAGE GUIDELINES
 
@@ -87,8 +89,8 @@ PEDIATRIC DOSAGE GUIDELINES
 | --- | --- | --- | --- | --- |
 | Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age) | Intravenous | 6 to 10 mg/kg (maximum 400 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 8 hours | 10-21 daysThe total duration of therapy for complicated urinary tract infection and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). |
 | Oral | 10 mg/kg to 20 mg/kg (maximum 750 mg per dose; not to be exceeded even in patients weighing > 51 kg) | Every 12 hours |  |  |
-| Inhalational Anthrax (Post- Exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure to Bacillus anthracis spores. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.5 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX—ADDITIONAL INFORMATION. | Intravenous | 10 mg/kg (maximum 400 mg per dose) | Every 12 hours | 60 days |
+| Inhalational Anthrax (Post- Exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure to Bacillus anthracis spores. This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.5 For a discussion of ciprofloxacin serum concentrations in various human populations, see Inhalational Anthrax In Adults and Pediatrics, Additional Information. | Intravenous | 10 mg/kg (maximum 400 mg per dose) | Every 12 hours | 60 days |
 | Oral | 15 mg/kg (maximum 500 mg per dose) | Every 12 hours |  |  |
 
 Pediatric patients with moderate to severe renal insufficiency were excluded from the clinical trial of complicated urinary tract infection and pyelonephritis.
-No information is available on dosing adjustments necessary for pediatric patients with moderate to severe renal insufficiency (i.e., creatinine clearance of < 50 mL/min/1.73m2).
+No information is available on dosing adjustments necessary for pediatric patients with moderate to severe renal insufficiency (that is, creatinine clearance of < 50 mL/min/1.73m2).

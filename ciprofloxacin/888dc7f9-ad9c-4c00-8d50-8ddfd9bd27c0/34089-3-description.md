@@ -9,7 +9,7 @@ Ciprofloxacin is 1-cyclopropyl-6-fluoro-1,4-dihydro-4-oxo-7-(1-piperazinyl)-3-qu
 Its empirical formula is C17H18FN3O3 and its molecular weight is 331.4.
 It is a faintly yellowish to light yellow crystalline substance and its chemical structure is as follows:
 
-CIPRO film-coated tablets are available in 250 mg, 500 mg and 750 mg (ciprofloxacin equivalent) strengths.
+CIPRO film-coated tablets are available in 250 mg and 500 mg (ciprofloxacin equivalent) strengths.
 Ciprofloxacin tablets are white to slightly yellowish.
 The inactive ingredients are cornstarch, microcrystalline cellulose, silicon dioxide, crospovidone, magnesium stearate, hypromellose, titanium dioxide, and polyethylene glycol.
 
@@ -22,4 +22,4 @@ Microcapsules – ciprofloxacin, povidone, methacrylic acid copolymer, hypromell
 
 Diluent – medium-chain triglycerides, sucrose, lecithin, water, and strawberry flavor.
 
-* Does not comply with USP with regard to “loss on drying” and “residue on ignition”.
+Five (5) mL of 5% suspension contains approximately 1.4 g of sucrose and 5 mL of 10% suspension contains approximately 1.3 g of sucrose.

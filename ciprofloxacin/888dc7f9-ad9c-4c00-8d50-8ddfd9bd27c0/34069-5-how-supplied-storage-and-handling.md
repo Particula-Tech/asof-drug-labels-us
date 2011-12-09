@@ -26,4 +26,4 @@ Microcapsules and diluent should be stored below 25°C (77°F) and protected fro
 
 Reconstituted product may be stored below 30°C (86°F) for 14 days.
 Protect from freezing.
-A teaspoon is provided for the patient.
+A graduated teaspoon (5mL) with markings 1/2 and 1/1 is provided for the patient.
