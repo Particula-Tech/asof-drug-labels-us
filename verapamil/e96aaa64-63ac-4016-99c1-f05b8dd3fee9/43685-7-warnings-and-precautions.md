@@ -51,8 +51,8 @@ Most adverse effects responded well to dose reduction and only rarely did verapa
 
 # PRECAUTIONS
 
-THE CONTENTS OF THE Verelan CAPSULE SHOULD NOT BE CRUSHED OR CHEWED.
-Verelan CAPSULES ARE TO BE SWALLOWED WHOLE OR THE ENTIRE CONTENTS OF THE CAPSULE SPRINKLED ONTO APPLESAUCE (See DOSAGE AND ADMINISTRATION).
+THE CONTENTS OF THE Verelan® CAPSULE SHOULD NOT BE CRUSHED OR CHEWED.
+Verelan® CAPSULES ARE TO BE SWALLOWED WHOLE OR THE ENTIRE CONTENTS OF THE CAPSULE SPRINKLED ONTO APPLESAUCE (See DOSAGE AND ADMINISTRATION).
 
 ## General
 
@@ -83,9 +83,18 @@ When the sprinkle method of administration is prescribed, details of the proper 
 
 ### Drug Interactions: Effects of other drugs on verapamil pharmacokinetics
 
-In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450, CYP3A4, CYP1A2, and CYP2C.
+In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450, -CYP3A4, CYP1A2, and CYP2C.
 Clinically significant interactions have been reported with inhibitors of CYP3A4 (eg, erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (eg, rifampin) have caused a lowering of plasma levels of verapamil.
-Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class of antibiotics.
+Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent telithromycin, and antibiotic in the ketolide class of antibiotics.
+
+#### HMG-CoA Reductase Inhibitors
+
+The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.
+
+Co-administration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone.
+Limit the dose of simvastatin in patients on verapamil to 10 mg daily.
+Limit the daily dose of lovastatin to 40 mg.
+Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.
 
 #### Beta Blockers
 
