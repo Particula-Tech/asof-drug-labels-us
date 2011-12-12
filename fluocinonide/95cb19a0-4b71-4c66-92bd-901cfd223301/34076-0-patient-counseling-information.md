@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+[See FDA-approved patient labeling (Patient Information)]
+
 Patients using VANOS Cream should receive the following information and instructions.
 This information is intended to aid in the safe and effective use of this medication.
 It is not a disclosure of all possible adverse or unintended effects:
