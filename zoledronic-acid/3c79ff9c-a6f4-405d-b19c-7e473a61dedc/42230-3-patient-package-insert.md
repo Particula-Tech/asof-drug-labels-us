@@ -102,6 +102,7 @@ Who should not take Reclast?
 Do not take Reclast if you:
 
 - Have low levels of calcium in your blood
+- Have kidney problems.
 - Are allergic to zoledronic acid or any of its ingredients.
   A list of ingredients is at the end of this leaflet.
 
@@ -196,6 +197,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 ©Novartis
 
-T2011-108/T2011-109
+T2011-143/T2011-144
 
 August 2011/August 2011

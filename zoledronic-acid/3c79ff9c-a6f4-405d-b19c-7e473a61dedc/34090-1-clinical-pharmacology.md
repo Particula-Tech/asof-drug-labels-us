@@ -56,4 +56,4 @@ Hepatic Impairment: No clinical studies were conducted to evaluate the effect of
 Renal Impairment: The pharmacokinetic studies conducted in 64 cancer patients represented typical clinical populations with normal to moderately-impaired renal function.
 Compared to patients with creatinine clearance > 80 mL/min (N=37), patients with creatinine clearance = 50-80 mL/min (N=15) showed an average increase in plasma AUC of 15%, whereas patients with creatinine clearance = 30-50 mL/min (N=11) showed an average increase in plasma AUC of 43%.
 No dosage adjustment is required in patients with a creatinine clearance of ≥ 35 mL/min.
-Reclast is contraindicated in patients with CrCl < 35 mL/min and in those with evidence of acute renal impairment due to an increased risk of renal failure [see Contraindications (4.2), Warnings and Precautions (5.3), Use in Specific Populations (8.6)].
+Reclast is contraindicated in patients with creatinine clearance < 35 mL/min and in those with evidence of acute renal impairment due to an increased risk of renal failure [see Contraindications (4.2), Warnings and Precautions (5.3), Use in Specific Populations (8.6)].
