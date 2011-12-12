@@ -193,6 +193,8 @@ You may also report side effects to Schering Corporation, a subsidiary of Merck 
 How do I store DULERA?
 
 - Store DULERA at room temperature between 59°F to 86°F (15°C to 30°C).
+- The 120-actuation inhaler can be stored in any position.
+  For the 60-actuation inhaler, after priming store the inhaler with the mouthpiece down or sideway.
 - The contents of your DULERA are under pressure.
   Do not puncture.
   Do not use or store near heat or open flame.

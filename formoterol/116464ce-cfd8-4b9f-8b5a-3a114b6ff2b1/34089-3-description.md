@@ -13,7 +13,7 @@ Formoterol fumarate dihydrate is a selective beta2-adrenergic bronchodilator hav
 Formoterol fumarate dihydrate has a molecular weight of 840.9, and its empirical formula is (C19H24N2O4)2•C4H4O4•2H2O.
 Formoterol fumarate dihydrate is a white to yellowish powder, which is freely soluble in glacial acetic acid, soluble in methanol, sparingly soluble in ethanol and isopropanol, slightly soluble in water, and practically insoluble in acetone, ethyl acetate, and diethyl ether.
 
-Each DULERA 100 mcg/5 mcg and 200 mcg/5 mcg is a hydrofluoroalkane (HFA-227) propelled pressurized metered dose inhaler containing sufficient amount of drug for 120 inhalations [see How Supplied/Storage and Handling (16)].
+Each DULERA 100 mcg/5 mcg and 200 mcg/5 mcg is a hydrofluoroalkane (HFA-227) propelled pressurized metered dose inhaler containing sufficient amount of drug for 60 or 120 inhalations [see How Supplied/Storage and Handling (16)].
 After priming, each actuation of the inhaler delivers 115 or 225 mcg of mometasone furoate and 5.5 mcg of formoterol fumarate dihydrate in 69.6 mg of suspension from the valve and delivers 100 or 200 mcg of mometasone furoate and 5 mcg of formoterol fumarate dihydrate from the actuator.
 The actual amount of drug delivered to the lung may depend on patient factors, such as the coordination between actuation of the device and inspiration through the delivery system.
 DULERA also contains anhydrous alcohol as a cosolvent and oleic acid as a surfactant.

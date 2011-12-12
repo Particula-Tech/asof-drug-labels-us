@@ -10,14 +10,14 @@ The parts of your DULERA:
 
 There are 2 main parts to your DULERA inhaler – the metal canister that holds the medicine and the blue plastic actuator that sprays the medicine from the canister.
 The inhaler also has a cap that covers the mouthpiece of the actuator (see Figure 1).
-The inhaler contains 120 actuations (puffs).
+The inhaler contains 60 or 120 actuations (puffs).
 
 Figure 1
 
 The inhaler comes with dose counter located on the plastic actuator.
 See Figure 1.
 The counter display will show the number of actuations (puffs) of medicine remaining.
-The dose counter will initially display "124" actuations remaining.
+The dose counter will initially display "64" or "124" actuations remaining.
 Each time you press the canister, a puff of medicine is released and the counter will count down by 1.
 The counter will stop counting at 0.
 
@@ -39,7 +39,7 @@ Before you use DULERA for the first time, you must prime the inhaler.
 
 - 1.To prime the inhaler, hold it in the upright position and release 4 actuations (puffs) into the air, away from your face.
 - 2.Shake the inhaler well before each of the priming actuations.
-  After priming 4 times, the dose counter should read "120".
+  After priming 4 times, the dose counter should read either "60" or "120".
 - 3.If you do not use your DULERA for more than 5 days, you will need to prime it again before use.
 
 Using your DULERA
@@ -85,6 +85,8 @@ When to replace your DULERA:
 How do I store DULERA?
 
 - Store DULERA at room temperature between 59°F to 86°F (15°C to 30°C).
+- The 120-actuation inhaler can be stored in any position.
+  For the 60-actuation inhaler, after priming store the inhaler with the mouthpiece down or sideway.
 - The contents of your DULERA canister are under pressure.
   Do not puncture or throw the canister into a fire or incinerator.
   Do not use or store it near heat or open flame.
@@ -105,11 +107,20 @@ Routine cleaning instructions:
 
 Manufactured by: 3M Health Care Ltd., Loughborough, United Kingdom.
 
-Issued Month Year
+Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+Revised: 11/2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Copyright © 2010 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved The trademarks depicted in this piece are owned by their respective companies.
-FORADIL is a registered trademark of Astellas Pharma Inc. AEROLIZER is a registered trademark of Novartis AG.
+
+Copyright © 2010 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved
+
+The trademarks depicted in this piece are owned by their respective companies.
+
+FORADIL is a registered trademark of Astellas Pharma Inc.
+
+AEROLIZER is a registered trademark of Novartis AG.
+
 NORVIR and KALETRA are registered trademarks of Abbott Laboratories.
 
-XXXXXXX
+35202900T

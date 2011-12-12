@@ -2,22 +2,24 @@
 
 ## 16.1 How Supplied
 
-DULERA is available in two strengths (Table 7):
+DULERA is available in two strengths and supplied in the following package sizes (Table 7):
 
 Table 7
 
 | Package | NDC |
 | --- | --- |
-| DULERA 100 mcg/5 mcg | 0085-7206-01 |
-| DULERA 200 mcg/5 mcg | 0085-4610-01 |
+| DULERA 100 mcg/5 mcg 120 inhalations | 0085-7206-01 |
+| DULERA 100 mcg/5 mcg 60 inhalations (institutional pack) | 0085-7206-07 |
+| DULERA 200 mcg/5 mcg 120 inhalations | 0085-4610-01 |
+| DULERA 200 mcg/5 mcg 60 inhalations (institutional pack) | 0085-4610-05 |
 
 Each strength is supplied as a pressurized aluminum canister that has a blue plastic actuator integrated with a dose counter and a blue dust cap.
-Each 120-inhalation canister has a net fill weight of 13 grams.
+Each 120-inhalation canister has a net fill weight of 13 grams and each 60-inhalation canister has a net fill weight of 8.8 grams.
 Each canister is placed into a carton.
 Each carton contains 1 canister and a Medication Guide.
 
-Initially the dose counter will display "124" actuations.
-After the initial priming with 4 actuations, the dose counter will read "120" and the inhaler is now ready for use.
+Initially the dose counter will display "64" or "124" actuations.
+After the initial priming with 4 actuations, the dose counter will read "60" or "120" and the inhaler is now ready for use.
 
 ## 16.2 Storage and Handling
 
@@ -29,6 +31,9 @@ The correct amount of medication in each inhalation cannot be ensured after the 
 The inhaler should be discarded when the labeled number of actuations has been used (the dose counter will read "0").
 
 Store at controlled room temperature 20°–25°C (68°–77°F); excursions permitted to 15°–30°C (59°–86°F) [see USP Controlled Room Temperature].
+
+The 120-inhalation inhaler does not require specific storage orientation.
+For the 60-inhalation inhaler, after priming store the inhaler with the mouthpiece down or in a horizontal position.
 
 For best results, the canister should be at room temperature before use.
 Shake well before using.

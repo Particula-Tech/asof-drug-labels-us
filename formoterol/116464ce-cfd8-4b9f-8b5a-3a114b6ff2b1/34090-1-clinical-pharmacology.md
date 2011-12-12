@@ -62,8 +62,8 @@ Although both these trials have open-label design and contain small number of su
 In a 42-day, open-label, placebo and active-controlled study 60 patients with asthma 18 years of age and older were randomized to receive two inhalations twice daily of 1 of the following treatments: DULERA 100 mcg/5 mcg, DULERA 200 mcg/5 mcg, fluticasone propionate/salmeterol xinafoate 230 mcg/21 mcg, or placebo.
 At Day 42, the mean change from baseline plasma cortisol AUC (0–24 hr) was 8%, 22% and 34% lower compared to placebo for the DULERA 100 mcg/5 mcg (n=13), DULERA 200 mcg/5 mcg (n=15) and fluticasone propionate/salmeterol xinafoate 230 mcg/21 mcg (n=16) treatment groups, respectively.
 
-In a 52-week, open-label safety study, primary analysis of the plasma cortisol 24-hour AUC was performed on 57 patients with asthma who received 2 inhalations twice daily of DULERA 100 mcg/5 mcg, DULERA 200 mcg/5 mcg, fluticasone propionate/salmeterol xinafoate 250/50, or fluticasone propionate/salmeterol xinafoate 500/50.
-At Week 52, the mean plasma cortisol AUC (0–24 hr) was 2.2%, 29.6%, 16.7%, and 32.2% lower from baseline for the DULERA 100 mcg/5 mcg (n=18), DULERA 200 mcg/5 mcg (n=20), fluticasone propionate/salmeterol xinafoate 250/50 mcg (n=8), and fluticasone propionate/salmeterol xinafoate 500/50 mcg (n=11) treatment groups, respectively.
+In a 52-week, open-label safety study, primary analysis of the plasma cortisol 24-hour AUC was performed on 57 patients with asthma who received 2 inhalations twice daily of DULERA 100 mcg/5 mcg, DULERA 200 mcg/5 mcg, fluticasone propionate/salmeterol xinafoate 125/25 mcg, or fluticasone propionate/salmeterol xinafoate 250/25 mcg.
+At Week 52, the mean plasma cortisol AUC (0–24 hr) was 2.2%, 29.6%, 16.7%, and 32.2% lower from baseline for the DULERA 100 mcg/5 mcg (n=18), DULERA 200 mcg/5 mcg (n=20), fluticasone propionate/salmeterol xinafoate 125/25 mcg (n=8), and fluticasone propionate/salmeterol xinafoate 250/25 mcg (n=11) treatment groups, respectively.
 
 Other Mometasone Products
 
