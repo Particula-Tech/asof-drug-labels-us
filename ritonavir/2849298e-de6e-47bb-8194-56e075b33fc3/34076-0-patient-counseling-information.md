@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling
+See FDA-Approved Patient Labeling (Patient Information)
 
 Information For Patients
 
@@ -70,9 +70,8 @@ Concomitant use of Revatio® (sildenafil) with NORVIR is contraindicated in pati
 
  Continued NORVIR therapy at a dose of 600 mg twice daily following loss of viral suppression may increase the likelihood of cross-resistance to other protease inhibitors.
 
+NORVIR tablets and oral solution are manufactured by:
+
 Abbott Laboratories
 
 North Chicago, IL 60064, U.S.A.
-
-Rev.
-04/2010

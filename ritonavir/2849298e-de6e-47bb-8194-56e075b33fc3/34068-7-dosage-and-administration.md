@@ -14,7 +14,7 @@ Dose Modification for NORVIR
 
 Dose reduction of NORVIR is necessary when used with other protease inhibitors: amprenavir, atazanavir, darunavir, fosamprenavir, saquinavir, and tipranavir.
 
-Prescribers should consult the full prescribing information and clinical study information of these protease inhibitors if they are co-administered with a reduced dose of ritonavir [see Warnings and Precautions(5) and Table 5, Established and Other Potentially Significant Drug Interactions]..
+Prescribers should consult the full prescribing information and clinical study information of these protease inhibitors if they are co-administered with a reduced dose of ritonavir [see Warnings and Precautions (5) and Table 5, Established and Other Potentially Significant Drug Interactions].
 
 ## 2.1 Adult Patients
 
