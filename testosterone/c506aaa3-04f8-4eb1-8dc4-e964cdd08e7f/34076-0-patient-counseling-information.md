@@ -48,6 +48,6 @@ Marketed By: Abbott Laboratories North Chicago, IL 60064, U.S.A.
 
 U.S. Patent No. 6,503,894
 
-© 2010 Abbott Laboratories
+© 2011 Abbott Laboratories
 
-500122/500127 4E Rev Mar 2011
+53267/53268 5E Rev Nov 2011

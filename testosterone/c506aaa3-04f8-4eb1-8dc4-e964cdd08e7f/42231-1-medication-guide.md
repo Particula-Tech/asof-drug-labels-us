@@ -1,4 +1,4 @@
-MEDICATION GUIDE
+Medication Guide
 
 AndroGel® (AN DROW JEL) CIII
 
@@ -10,34 +10,44 @@ This Medication Guide does not take the place of talking to your healthcare prov
 
 What is the most important information I should know about AndroGel?
 
-Signs of puberty that are not expected (for example, pubic hair) have happened in young children who were accidentally exposed to testosterone through contact with men using AndroGel.
+1.
+Early signs and symptoms of puberty have happened in young children who were accidentally exposed to testosterone through contact with men using AndroGel.
 
-AndroGel can transfer from your body to others.
-This can happen if other people come into contact with the area where the AndroGel was applied to your skin.
-
-- Women and children should avoid contact with the unwashed or unclothed area where AndroGel has been applied.
-- To lower the risk of transfer of AndroGel from your body to others, you should follow these important instructions:
-  - Apply AndroGel only to areas that will be covered by a short sleeve T-shirt.
-    These areas are your shoulders and upper arms, or stomach area (abdomen), or shoulders, upper arms and stomach area.
-  - Wash your hands right away with soap and water after applying AndroGel.
-  - After the gel has dried, cover the application area with clothing.
-    Keep the area covered until you have washed the application area well or have showered.
-  - If you expect to have skin-to-skin contact with another person, first wash the application area well with soap and water.
-  - If a woman or child makes contact with the AndroGel application area, that area on the woman or child should be washed well with soap and water right away.
-
-Stop using AndroGel and call your healthcare provider right away if you see any signs and symptoms in a child or a woman that may have occurred through accidental exposure to AndroGel:
-
-Signs and symptoms in children may include:
+Signs and symptoms of early puberty in a child may include:
 
 - enlarged penis or clitoris
 - early development of pubic hair
 - increased erections or sex drive
 - aggressive behavior
 
-Signs and symptoms in women may include:
+AndroGel can transfer from your body to others.
+
+2.
+Women and children should avoid contact with the unwashed or unclothed area where AndroGel has been applied to your skin.
+
+Stop using AndroGel and call your healthcare provider right away if you see any signs and symptoms in a child or a woman that may have occurred through accidental exposure to AndroGel.
+
+Signs and symptoms of exposure to AndroGel in children may include:
+
+- enlarged penis or clitoris
+- early development of pubic hair
+- increased erections or sex drive
+- aggressive behavior
+
+Signs and symptoms of exposure to AndroGel in women may include:
 
 - changes in body hair
 - a large increase in acne
+
+To lower the risk of transfer of AndroGel from your body to others, you should follow these important instructions:
+
+- Apply AndroGel only to areas that will be covered by a short sleeve T-shirt.
+  These areas are your shoulders and upper arms, or stomach area (abdomen), or shoulders, upper arms and stomach area.
+- Wash your hands right away with soap and water after applying AndroGel.
+- After the gel has dried, cover the application area with clothing.
+  Keep the area covered until you have washed the application area well or have showered.
+- If you expect to have skin-to-skin contact with another person, first wash the application area well with soap and water.
+- If a woman or child makes contact with the AndroGel application area, that area on the woman or child should be washed well with soap and water right away.
 
 What is AndroGel?
 
@@ -140,15 +150,17 @@ What are the possible side effects of AndroGel?
 
 AndroGel can cause serious side effects including:
 
-- See “What is the most important information I should know about AndroGel?”
-  - If you already have enlargement of your prostate gland your signs and symptoms can get worse while using AndroGel.
-    This can include:
-    - increased urination at night
-    - trouble starting your urine stream
-    - having to pass urine many times during the day
-    - having an urge that you have to go to the bathroom right away
-    - having a urine accident
-    - being unable to pass urine or weak urine flow
+See “What is the most important information I should know about AndroGel?”
+
+- If you already have enlargement of your prostate gland your signs and symptoms can get worse while using AndroGel.
+  This can include:
+
+- increased urination at night
+- trouble starting your urine stream
+- having to pass urine many times during the day
+- having an urge that you have to go to the bathroom right away
+- having a urine accident
+- being unable to pass urine or weak urine flow
 
 - Possible increased risk of prostate cancer.
   Your healthcare provider should check you for prostate cancer or any other prostate problems before you start and while you use AndroGel.
@@ -205,7 +217,7 @@ For more information, go to www.ANDROGEL.com or call 1-800-241-1643.
 What are the ingredients in AndroGel?
 Active ingredient: testosterone Inactive ingredients: carbomer 980, ethyl alcohol 67.0%, isopropyl myristate, purified water and sodium hydroxide.
 
-© 2010 Abbott Laboratories
+© 2011 Abbott Laboratories
 
 Marketed by:
 
@@ -213,8 +225,6 @@ Abbott Laboratories
 
 North Chicago, IL 60064, U.S.A.
 
-500122/500127 3E Rev Mar 2011
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued March 2011
+Issued Nov 2011
