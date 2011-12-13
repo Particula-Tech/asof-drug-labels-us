@@ -1,0 +1,173 @@
+MEDICATION GUIDE
+
+ONFI™ (ON-fee) (clobazam) Tablets
+
+Read this Medication Guide before you start taking ONFI and each time you get a refill.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
+
+What is the most important information I should know about ONFI?
+
+Do not stop taking ONFI without first talking to your healthcare provider.
+Stopping ONFI suddenly can cause serious problems.
+
+ONFI can cause serious side effects, including:
+
+1. ONFI can make you sleepy or dizzy, slow your thinking, and make you clumsy which may get better over time.
+   - Do not drive, operate heavy machinery, or do other dangerous activities until you know how ONFI affects you.
+   - Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking ONFI until you talk to your healthcare provider.
+     When taken with alcohol or drugs that cause sleepiness or dizziness, ONFI may make your sleepiness or dizziness much worse.
+2. ONFI can cause withdrawal symptoms.
+   - Do not stop taking ONFI all of a sudden without first talking to a healthcare provider.
+     Stopping ONFI suddenly can cause seizures that will not stop (status epilepticus), hearing or seeing things that are not there (hallucinations), shaking, nervousness, and stomach and muscle cramps.
+   - Talk to your healthcare provider about slowly stopping ONFI to avoid withdrawal symptoms.
+3. ONFI can be abused and cause dependence.ONFI is a federally controlled substance (C-IV) because it can be abused or lead to dependence.
+   Keep ONFI in a safe place to prevent misuse and abuse.
+   Selling or giving away ONFI may harm others, and is against the law.
+   Tell your healthcare provider if you have ever abused or been dependent on alcohol, prescription medicines or street drugs.
+   - Physical dependence is not the same as drug addiction.
+     Your healthcare provider can tell you more about the differences between physical dependence and drug addiction.
+4. Like other antiepileptic drugs, ONFI may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+   Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+   - thoughts about suicide or dying
+   - attempts to commit suicide
+   - new or worse depression
+   - new or worse anxiety
+   - feeling agitated or restless
+   - panic attacks
+   - trouble sleeping (insomnia)
+   - new or worse irritability
+   - acting aggressive, being angry, or violent
+   - acting on dangerous impulses
+   - an extreme increase in activity and talking (mania)
+   - other unusual changes in behavior or mood
+
+How can I watch for early symptoms of suicidal thoughts and actions?
+
+- Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+- Keep all follow-up visits with your healthcare provider as scheduled.
+
+Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+
+Suicidal thoughts or actions can be caused by things other than medicines.
+If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
+
+What is ONFI?
+
+ONFI is a prescription medicine used along with other medicines to treat seizures associated with Lennox-Gastaut syndrome in people 2 years of age or older.
+
+It is not known if ONFI is safe and effective in children less than 2 years old.
+
+What should I tell my healthcare provider before taking ONFI?
+
+Before you take ONFI, tell your healthcare provider if you:
+
+- have liver or kidney problems
+- have lung problems (respiratory disease)
+- have or have had depression, mood problems, or suicidal thoughts or behavior
+- have any other medical conditions
+- use birth control medicine.
+  ONFI may cause your birth control medicine to be less effective.
+  Talk to your healthcare provider about the best birth control method to use.
+- are pregnant or plan to become pregnant.
+  ONFI may harm your unborn baby.
+  - Tell your healthcare provider right away if you become pregnant while taking ONFI.
+    You and your healthcare provider will decide if you should take ONFI while you are pregnant.
+  - Children born to mothers receiving benzodiazepine medications (including ONFI) late in pregnancy may be at some risk of experiencing breathing problems, feeding problems, dangerously low body temperature, and withdrawal symptoms.
+- If you become pregnant while taking ONFI, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+  You can register by calling 1-888-233-2334.
+  The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
+- ONFI can pass into breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if you take ONFI.
+  You and your healthcare provider should decide if you will take ONFI or breast feed.
+  You should not do both.
+
+Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Taking ONFI with certain other medicines can cause side effects or affect how well ONFI or the other medications work.
+Do not start or stop other medicines without talking to your healthcare provider.
+
+Know the medicines you take.
+Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
+
+How should I take ONFI?
+
+- ONFI can be taken whole, or crushed and mixed in applesauce.
+- Take ONFI exactly as your healthcare provider tells you to take it.
+- Your healthcare provider will tell you how much ONFI to take and when to take it.
+
+Your healthcare provider may change your dose if needed.
+Do not change your dose of ONFI without talking to your healthcare provider.
+
+- Do not stop taking ONFI without first talking to your healthcare provider.
+- Stopping ONFI suddenly can cause serious problems.
+
+If you take too much ONFI, call your healthcare provider or go to the nearest hospital emergency room right away.
+
+What should I avoid while taking ONFI?
+
+- Do not drive, operate heavy machinery, or do other dangerous activities until you know how ONFI affects you.
+- Do not drink alcohol or take other medicines that may make you sleepy or dizzy while taking ONFI until you talk to your healthcare provider.
+  When taken with alcohol or medicines that cause sleepiness or dizziness, ONFI may make your sleepiness or dizziness much worse.
+
+What are the possible side effects of ONFI?
+
+ONFI may cause serious side effects, including:
+
+See "What is the most important information I should know about ONFI?"
+
+The most common side effects of ONFI include:
+
+- sleepiness
+- drooling
+- constipation
+- cough
+- pain with urination
+- fever
+- acting aggressive, being angry, or violent
+- difficulty sleeping
+- slurred speech
+- tiredness
+- problems with breathing
+
+These are not all the possible side effects of ONFI.
+For more information, ask your healthcare provider or pharmacist.
+
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+How should I store ONFI?
+
+- Store ONFI between 68°F to 77°F (20°C to 25°C).
+
+Keep ONFI and all medicines out of the reach of children.
+
+General Information about the safe and effective use of ONFI.
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use ONFI for a condition for which it was not prescribed.
+Do not give ONFI to other people, even if they have the same symptoms that you have.
+It may harm them.
+
+This Medication Guide summarizes the most important information about ONFI.
+If you would like more information, talk with your healthcare provider.
+You can ask your pharmacist or healthcare provider for information about ONFI that is written for health professionals.
+
+For more information about ONFI, go to www.lundbeckinc.com or call Lundbeck Inc. at 1-888-514-5204.
+
+What are the ingredients in ONFI?
+
+Active ingredient: clobazam
+
+Inactive ingredients: corn starch, lactose monohydrate, magnesium stearate, silicon dioxide, and talc.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by: Catalent Pharma Solutions, LLC Winchester, KY 40391, U.S.A.
+
+For: Lundbeck Inc. Deerfield, IL 60015, U.S.A.
+
+™ Trademark of Lundbeck Inc.
+
+October 2011

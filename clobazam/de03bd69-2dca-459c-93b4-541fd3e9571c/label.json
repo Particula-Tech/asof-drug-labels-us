@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA202067"
+  ],
+  "inn": "clobazam",
+  "labeler": "Lundbeck Inc.",
+  "package_ndcs": [
+    "67386-310-01",
+    "67386-311-01",
+    "67386-312-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clobazam",
+      "name": "Onfi"
+    }
+  ],
+  "setid": "de03bd69-2dca-459c-93b4-541fd3e9571c",
+  "source": "dailymed"
+}

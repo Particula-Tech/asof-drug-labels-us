@@ -1,0 +1,46 @@
+# 17. PATIENT COUNSELING INFORMATION
+
+See FDA-approved patient labeling (Medication Guide).
+
+Inform patients or caregivers of the availability of a Medication Guide and instruct them to read the Medication Guide prior to initiating treatment with ONFI and with each prescription refill.
+Review the ONFI Medication Guide with every patient or caregiver prior to initiation of treatment.
+Instruct patients or caregivers that ONFI should be taken only as prescribed.
+
+Somnolence or Sedation
+
+Advise patients or caregivers to check with their healthcare provider before ONFI is taken with other CNS depressants such as other benzodiazepines, opioids, tricyclic antidepressants, sedating antihistamines, or alcohol [see Warnings and Precautions (5.1)].
+
+If applicable, caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that ONFI does not affect them adversely (e.g., impair judgment, thinking or motor skills).
+
+Increasing or Decreasing the ONFI Dose
+
+Inform patients or caregivers to consult their healthcare provider before increasing the ONFI dose or abruptly discontinuing ONFI.
+Advise patients or caregivers that abrupt withdrawal of AEDs may increase their risk of seizure [see Dosage and Administration (2.6), Warnings and Precautions (5.3)].
+
+Interactions with Hormonal Contraceptives
+
+Counsel women to also use non-hormonal methods of contraception when ONFI is used with hormonal contraceptives and to continue these alternative methods for 28 days after discontinuing ONFI to ensure contraceptive reliability [see Drug Interactions (7), Clinical Pharmacology (12.3)].
+
+Suicidal Thinking and Behavior
+
+Counsel patients, their caregivers, and their families that AEDs, including ONFI, may increase the risk of suicidal thoughts and behavior and advise them of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts of self-harm.
+Patients should report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.5)].
+
+Use in Pregnancy
+
+Instruct patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
+
+Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll free number 1-888-233-2334.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org [see Use in Specific Populations (8.1)].
+
+Use in Nursing
+
+Instruct patients to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.3)].
+
+Manufactured by: Catalent Pharma Solutions, LLC Winchester, KY 40391, U.S.A.
+
+For: Lundbeck Inc. Deerfield, IL 60015, U.S.A.
+
+October 2011
