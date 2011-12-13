@@ -40,6 +40,6 @@ Manufactured for:
 
 Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045, USA
 
-Component Code Number:
+Daliresp® is a registered trademark of Nycomed GmbH.
 
-© 2010 Forest Laboratories, Inc.
+© 2010, 2011 Forest Laboratories, Inc.

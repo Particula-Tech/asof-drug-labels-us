@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-DALIRESP™ is indicated as a treatment to reduce the risk of COPD exacerbations in patients with severe COPD associated with chronic bronchitis and a history of exacerbations.
+DALIRESP® is indicated as a treatment to reduce the risk of COPD exacerbations in patients with severe COPD associated with chronic bronchitis and a history of exacerbations.
 
 Limitations of Use
 

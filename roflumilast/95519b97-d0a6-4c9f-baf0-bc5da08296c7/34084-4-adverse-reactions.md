@@ -20,7 +20,7 @@ The most common adverse reactions that led to discontinuation of DALIRESP were d
 
 Serious adverse reactions, whether considered drug-related or not by the investigators, which occurred more frequently in DALIRESP-treated patients include diarrhea, atrial fibrillation, lung cancer, prostate cancer, acute pancreatitis, and acute renal failure.
 
-Table 1 summarizes the adverse reactions reported by ≥ 2% of patients in the DALIRESP group 8 controlled COPD clinical trials.
+Table 1 summarizes the adverse reactions reported by ≥ 2% of patients in the DALIRESP group in 8 controlled COPD clinical trials.
 
 Table 1: Adverse Reactions Reported by ≥ 2% of Patients Treated with DALIRESP 500 mcg daily and Greater Than Placebo
 

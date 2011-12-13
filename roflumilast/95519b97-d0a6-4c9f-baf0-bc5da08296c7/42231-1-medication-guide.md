@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-DALIRESP™ (da'-li-resp)
+DALIRESP® (da'-li-resp)
 
 (roflumilast)
 
@@ -120,13 +120,11 @@ What are the ingredients in DALIRESP?
 
 Active ingredient: roflumilast Inactive ingredients: lactose monohydrate, corn starch, povidone and magnesium stearate.
 
-Rx only
-
-Manufactured by: Nycomed GmbH Production Site Oranienburg Lehnitzstrasse 70 – 98 16515 Oranienburg Germany
-
-Manufactured for: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045, USA
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Rev.
 02/2011
+
+Manufactured by: Nycomed GmbH Production Site Oranienburg Lehnitzstrasse 70 – 98 16515 Oranienburg Germany
+
+Manufactured for: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045, USA

@@ -5,7 +5,11 @@
 DALIRESP is supplied as white to off-white, round tablets, embossed with “D” on one side and “500” on the other side.
 Each tablet contains 500 mcg of roflumilast.
 
-DALIRESP tablets are available in bottles containing 30 tablets - NDC 0456-0095-30 or 90 tablets - NDC 0456-0095-90.
+DALIRESP tablets are available:
+
+- Bottles of 30: NDC 0456-0095-30
+- Bottles of 90: NDC 0456-0095-90
+- 10X10 Unit Dose: NDC 0456-0095-63
 
 ## 16.2 Storage and Handling
 

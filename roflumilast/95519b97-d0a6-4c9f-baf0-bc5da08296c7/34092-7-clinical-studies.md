@@ -11,7 +11,7 @@ Patients enrolled in the two 6-month efficacy trials had moderate to severe COPD
 COPD exacerbations and lung function (FEV1) were co-primary efficacy outcome measures in the four 1-year trials.
 In the two 6-month supportive efficacy trials, lung function (FEV1) alone was the primary efficacy outcome measure.
 
-The two 6-month dose-selection efficacy trials (Trials 1 and 2) explored doses of 250 mcg and 500 mcg once daily in a total of 1929 patients (751 and 724 on DALIRESP 250 and 500 mcg, respectively.
+The two 6-month dose-selection efficacy trials (Trials 1 and 2) explored doses of 250 mcg and 500 mcg once daily in a total of 1929 patients (751 and 724 on DALIRESP 250 and 500 mcg, respectively).
 The selection of the 500 mcg dose was primarily based on nominal improvements in lung function (FEV1) over the 250 mcg dose.
 The once daily dosing regimen was primarily based on the determination of a plasma half-life of 17 hours for roflumilast and 30 hours for its active metabolite roflumilast N-oxide [see Clinical Pharmacology (12.3)].
 
@@ -24,7 +24,7 @@ Inhaled corticosteroids were allowed as concomitant medications and used in 61% 
 The use of long-acting beta agonists, long-acting anti-muscarinics, and theophylline were prohibited.
 The rate of moderate or severe COPD exacerbations was a co-primary endpoint in both trials.
 There was not a symptomatic definition of exacerbation in these 2 trials.
-Exacerbations were defined in terms of severity requiring treatment with a moderate exacerbation defined as treatment with systemic glucococorticosteroids in Trial 3 or systemic glucocorticosteroids and/or antibiotics in Trial 4 and a severe exacerbation defined as requiring hospitalizations and/or leading to death in Trial 3 or requiring hospitalization in Trial 4.
+Exacerbations were defined in terms of severity requiring treatment with a moderate exacerbation defined as treatment with systemic glucocorticosteroids in Trial 3 or systemic glucocorticosteroids and/or antibiotics in Trial 4 and a severe exacerbation defined as requiring hospitalizations and/or leading to death in Trial 3 or requiring hospitalization in Trial 4.
 The trials randomized 1176 patients (567 on DALIRESP) in Trial 3 and 1514 patients (760 on DALIRESP) in Trial 4.
 Both trials failed to demonstrate a significant reduction in the rate of COPD exacerbations.
 
