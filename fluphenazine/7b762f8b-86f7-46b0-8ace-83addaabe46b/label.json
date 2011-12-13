@@ -1,14 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA011751"
+  ],
   "inn": "fluphenazine",
-  "labeler": "APOTHECON",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
   "package_ndcs": [
-    "0003-0820-30",
-    "0003-0820-50",
     "0003-0877-50",
     "0003-0956-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "fluphenazine hydrochloride",
+      "name": "PROLIXIN"
+    }
+  ],
   "setid": "7b762f8b-86f7-46b0-8ace-83addaabe46b",
   "source": "dailymed"
 }
