@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA091606"
+  ],
+  "inn": "lamivudine",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-3251-0",
+    "60505-3251-6",
+    "60505-3251-8",
+    "60505-3252-0",
+    "60505-3252-3",
+    "60505-3252-8"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lamivudine",
+      "name": "LAMIVUDINE"
+    }
+  ],
+  "setid": "34c02bcc-d6ff-99d4-8e6a-4a91908adca8",
+  "source": "dailymed"
+}
