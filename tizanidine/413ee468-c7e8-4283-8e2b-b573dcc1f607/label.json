@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020397",
+    "NDA021447"
+  ],
   "inn": "tizanidine",
   "labeler": "Acorda Therapeutics, Inc.",
   "package_ndcs": [
@@ -8,7 +11,18 @@
     "10144-604-15",
     "10144-606-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tizanidine hydrochloride",
+      "name": "Zanaflex"
+    },
+    {
+      "form": "TABLET",
+      "generic": "tizanidine hydrochloride",
+      "name": "Zanaflex"
+    }
+  ],
   "setid": "413ee468-c7e8-4283-8e2b-b573dcc1f607",
   "source": "dailymed"
 }

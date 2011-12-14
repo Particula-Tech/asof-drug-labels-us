@@ -9,7 +9,9 @@ Zanaflex® is the registered trademark of Acorda Therapeutics, Inc. Zanaflex Cap
 
 Marketed and Distributed by: Acorda Therapeutics, Inc. Hawthorne, NY 10532
 
-©2008, Acorda Therapeutics, Inc., All rights reserved.
+©2010, Acorda Therapeutics, Inc., All rights reserved.
+
+0610501EP-0
 
 Rev.
-04/08
+06/10

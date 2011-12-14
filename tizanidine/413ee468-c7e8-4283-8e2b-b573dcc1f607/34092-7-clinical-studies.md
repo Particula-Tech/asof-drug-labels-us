@@ -13,7 +13,7 @@ A muscle immobilized by spasticity was given a score of 4.
 Spasm counts were also collected.
 
 Assessments were made at 1, 2, 3 and 6 hours after treatment.
-A statistically significant reduction of the Ashworth score for Zanaflex compared to placebo was detected at 1, 2 and 3 hours after treatment.
+A statistically significant reduction of the Ashworth score for tizanidine compared to placebo was detected at 1, 2 and 3 hours after treatment.
 Figure 2 below shows a comparison of the mean change in muscle tone from baseline as measured by the Ashworth scale.
 The greatest reduction in muscle tone was 1 to 2 hours after treatment.
 By 6 hours after treatment, muscle tone in the 8 and 16 mg tizanidine groups was indistinguishable from muscle tone in placebo treated patients.

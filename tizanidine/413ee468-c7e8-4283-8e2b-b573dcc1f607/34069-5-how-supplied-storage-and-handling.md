@@ -3,9 +3,9 @@
 ## Zanaflex Capsules®
 
 Zanaflex Capsules® (tizanidine hydrochloride) are available in three strengths as two-piece hard gelatin capsules containing tizanidine hydrochloride 2 mg, 4 mg or 6 mg.
-The 2 mg capsules have a standard blue opaque body with a standard blue opaque cap with "2 MG" printed on the cap.
-The 4 mg capsules have a white opaque body with a standard blue opaque cap with "4 MG" printed on the cap.
-The 6 mg capsules have a light blue opaque body with a white stripe and light blue opaque cap with "6 MG" printed on the capsules.
+The 2 mg capsules have a light blue opaque body with a light blue opaque cap with "2 MG" printed on the cap.
+The 4 mg capsules have a white opaque body with a blue opaque cap with "4 MG" printed on the cap.
+The 6 mg capsules have a blue opaque body with a white stripe and blue opaque cap with "6 MG" printed on the capsules.
 The capsules are provided as follows:
 
 Zanaflex Capsules® (tizanidine hydrochloride), 2 mg, bottles of 150 capsules (NDC 10144-602-15) Zanaflex Capsules® (tizanidine hydrochloride), 4 mg, bottles of 150 capsules (NDC 10144-604-15) Zanaflex Capsules® (tizanidine hydrochloride), 6 mg, bottles of 150 capsules (NDC 10144-606-15)
