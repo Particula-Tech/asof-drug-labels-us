@@ -1,4 +1,4 @@
-## PATIENT INFORMATION
+# PATIENT INFORMATION
 
 Carac® Cream, 0.5% (fluorouracil cream)
 
@@ -86,7 +86,7 @@ Never give it to other people.
 It may harm them even if their skin problem appears to be the same as yours.
 Do not use Carac after the expiration date on the tube
 
-Prescribing Information as of November 2006.
+Prescribing Information as of August 2009.
 Dermik Laboratories a business of sanofi-aventis U.S. LLC Bridgewater, NJ 08807
 
-© 2006 sanofi-aventis U.S. LLC
+© 2009 sanofi-aventis U.S. LLC

@@ -68,7 +68,9 @@ No significant differences in safety and efficacy measures were demonstrated in 
 
 ## Pregnancy
 
-### Teratogenic Effects: Pregnancy Category X
+### Teratogenic Effects
+
+Pregnancy Category X
 
 See CONTRAINDICATIONS
 

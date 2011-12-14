@@ -5,9 +5,9 @@ The signs and symptoms of facial irritation (application site reaction) are pres
 
 Summary of Facial Irritation Signs and Symptoms - Pooled Phase 3 Studies
 
-| Clinical Sign or Symptom | Active One Week N=85 |  | Active Two Week N=87 |  | Active Four Week N=85 |  | ALL Active Treatments N=257 |  | Vehicle Treatments N=127 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | n | (%) | n | (%) | n | (%) | n | (%) | n | (%) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Clinical Sign or Symptom | Active One Week N=85 |  | Active Two Week N=87 |  | Active Four Week N=85 |  | ALL Active Treatments N=257 |  | Vehicle Treatments N=127 |  |
 | Erythema | 76 | (89.4) | 82 | (94.3) | 82 | (96.5) | 240 | (93.4) | 76 | (59.8) |
 | Dryness | 59 | (69.4) | 76 | (87.4) | 79 | (92.9) | 214 | (83.3) | 60 | (47.2) |
 | Burning | 51 | (60.0) | 70 | (80.5) | 71 | (83.5) | 192 | (74.7) | 28 | (22.0) |

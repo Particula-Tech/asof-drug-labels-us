@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020985"
+  ],
   "inn": "fluorouracil",
   "labeler": "Dermik Laboratories",
   "package_ndcs": [
     "0066-7150-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluorouracil",
+      "name": "Carac"
+    }
+  ],
   "setid": "8379f1db-4255-4285-abd3-8ecdcaf03372",
   "source": "dailymed"
 }
