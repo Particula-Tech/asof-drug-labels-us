@@ -10,7 +10,7 @@ Additive sedative effects can occur when metoclopramide is given with alcohol, s
 
 ## 7.2 Monoamine Oxidase Inhibitors
 
-Metoclopramide has been shown to release catecholamines in patients with essential hypertension suggests that it should be used cautiously, if at all, in patients taking monoamine oxidase (MAO) inhibitors.
+Metoclopramide has been shown to release catecholamines in patients with essential hypertension suggesting that it should be used cautiously, if at all, in patients taking monoamine oxidase (MAO) inhibitors.
 
 ## 7.3 Drug Absorption
 

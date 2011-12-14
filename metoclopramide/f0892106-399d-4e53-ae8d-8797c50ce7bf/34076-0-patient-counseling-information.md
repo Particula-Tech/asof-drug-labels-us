@@ -11,6 +11,8 @@
 
 Manufactured by: Catalent UK Swindon Zydis Limited Swindon, UK
 
-Manufactured for: Salix Pharmaceuticals, Inc. Morrisville, North Carolina
+Manufactured for:
 
-VENART-144-1/ Nov 2010
+Salix Pharmaceuticals, Inc. Raleigh, NC 27615
+
+VENART 144-2/OCT 2011

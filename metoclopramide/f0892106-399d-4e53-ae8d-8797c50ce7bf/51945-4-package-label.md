@@ -1,4 +1,4 @@
-PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - Box of 100 Tablets, 5 mg
+# PACKAGE LABEL PRINCIPAL DISPLAY PANEL - Box of 100 Tablets, 5 mg
 
 NDC 65649-431-02
 
@@ -18,7 +18,7 @@ Dispense the enclosed Medication Guide to each patient.
 
 Salix Pharmaceuticals, Inc.
 
-PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - Blister Sleeve 10 Tablets, 5 mg
+# PACKAGE LABEL PRINCIPAL DISPLAY PANEL - Blister Sleeve 10 Tablets, 5 mg
 
 NDC 65649-431-02
 

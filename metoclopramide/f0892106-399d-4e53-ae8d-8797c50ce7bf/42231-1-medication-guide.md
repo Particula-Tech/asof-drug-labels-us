@@ -1,4 +1,4 @@
-Medication Guide
+# Medication Guide
 
 METOZOLV®(MĔ-tō-zolv) ODT
 
@@ -16,20 +16,19 @@ What is the most important information I should know about METOZOLV ODT?
 
 METOZOLV ODT can cause serious side effects, including:
 
-Abnormal muscle movements called tardive dyskinesia (TD).
-These movements happen mostly in the face muscles.
+Tardive dyskinesia (abnormal muscle movements) These movements happen mostly in the face muscles.
 You cannot control these movements.
 They may not go away even after stopping METOZOLV ODT.
-There is no treatment for TD, but symptoms may lessen or go away over time after you stop taking METOZOLV ODT.
+There is no treatment for tardive dyskinesia, but symptoms may lessen or go away over time after you stop taking METOZOLV ODT.
 
-Your chances for getting TD go up:
+Your chances for getting tardive dyskinesia go up:
 
 - the longer you take METOZOLV ODT and the more METOZOLV ODT you take.
   You should not take METOZOLV ODT for more than 12 weeks.
 - if you are older, especially if you are an older woman
 - if you have diabetes
 
-It is not possible for your doctor to know if you will get TD if you take METOZOLV ODT.
+It is not possible for your doctor to know if you will get tardive dyskinesia if you take METOZOLV ODT.
 
 Call your doctor right away if you have movements you can not stop or control, such as:
 
@@ -129,8 +128,7 @@ What are the possible side effects of METOZOLV ODT?
 
 METOZOLV ODT can cause serious side effects, including:
 
-- Abnormal muscle movements.
-  See “What is the most important information I should know about METOZOLV ODT?”
+- Tardive dyskinesia (abnormal muscle movements) See “What is the most important information I should know about METOZOLV ODT?”
 - Uncontrolled spasms of your face and neck muscles, or muscles of your body, arms, and legs (dystonia).
   These muscle spasms can cause abnormal movements and body positions.
   These spasms usually start within the first 2 days of treatment.
@@ -206,8 +204,8 @@ Inactive ingredients: gelatin, mannitol, mint flavoring, Acesulfame potassium (a
 
 Salix Pharmaceuticals, Inc.
 
-Morrisville, NC 27560, USA
+Raleigh, NC 27615, USA
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-VENART-144-1/ Nov 2010
+VENART 144-2/OCT 2011

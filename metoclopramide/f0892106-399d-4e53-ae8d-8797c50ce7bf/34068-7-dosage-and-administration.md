@@ -10,7 +10,7 @@ Handle the tablet with dry hands and place on the tongue.
 If the tablet should break or crumble while handling, discard and remove a new tablet.
 
 METOZOLV ODT disintegrates on the tongue in approximately one minute (with a range of 10 seconds to 14 minutes).
-METOZOLV ODT is designed to be taken without liquid; however, the effect on the pharmacokinetics of taking METOZOLV ODT with liquid is unknown.
+METOZOLV ODT is designed to be taken without liquid; however, the effect on the pharmacokinetics of METOZOLV ODT taken with liquid is unknown.
 
 ## 2.2 Symptomatic Gastroesophageal Reflux Disease
 
