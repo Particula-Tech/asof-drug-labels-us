@@ -12,9 +12,9 @@ Cialis®
 
 (tadalafil) tablets
 
-For once daily use
-
 2.5 mg
+
+for once daily use
 
 Rx only
 
@@ -34,6 +34,10 @@ Cialis®
 
 5mg
 
+Tablets should not be split.
+
+Entire dose should be taken.
+
 Rx only
 
 Lilly
@@ -50,6 +54,10 @@ Cialis®
 
 10mg
 
+Tablets should not be split.
+
+Entire dose should be taken.
+
 Rx only
 
 Lilly
@@ -65,6 +73,10 @@ Cialis®
 (tadalafil) tablets
 
 20mg
+
+Tablets should not be split.
+
+Entire dose should be taken.
 
 Rx only
 
