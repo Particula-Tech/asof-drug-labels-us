@@ -61,7 +61,7 @@ What should I tell my doctor before taking XARELTO?
 Before you take XARELTO, tell your doctor if you:
 
 - have ever had bleeding problems
-- have liver or kidneys problems
+- have liver or kidney problems
 - have any other medical condition
 - are pregnant or planning to become pregnant.
   It is not known if XARELTO will harm your unborn baby.
@@ -85,7 +85,8 @@ Especially tell your doctor if you take:
 - lopinavir/ritonavir (Kaletra®)
 - indinavir (Crixivan®)
 - carbamazepine (Carbatrol®, Equetro®, Tegretol®, Tegretol®-XR, Teril™, Epitol®)
-- phenytoin (Dilantin-125®, Dilantin®, Phenobarbital, Solfoton™)
+- phenytoin (Dilantin-125®, Dilantin®)
+- phenobarbital (Solfoton™)
 - rifampin (Rifater®, Rifamate®, Rimactane®, Rifadin®)
 - St. John's wort (Hypericum perforatum)
 
@@ -152,6 +153,6 @@ The proprietary film coating mixture for XARELTO 15 mg tablets is Opadry® Red, 
 
 The proprietary film coating mixture for XARELTO 20 mg tablets is Opadry® II Dark Red, contains: ferric oxide red, polyethylene glycol 3350, polyvinyl alcohol (partially hydrolyzed), talc, and titanium dioxide.
 
-Issued: November 2011
+Revised: December 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
