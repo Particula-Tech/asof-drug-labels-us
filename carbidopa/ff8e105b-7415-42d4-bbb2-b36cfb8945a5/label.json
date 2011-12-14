@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA017830"
+  ],
+  "inn": "carbidopa",
+  "labeler": "Aton Pharma, Inc",
+  "package_ndcs": [
+    "25010-711-15"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "carbidopa",
+      "name": "Lodosyn"
+    }
+  ],
+  "setid": "ff8e105b-7415-42d4-bbb2-b36cfb8945a5",
+  "source": "dailymed"
+}
