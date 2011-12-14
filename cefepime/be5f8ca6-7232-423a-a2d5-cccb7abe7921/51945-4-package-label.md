@@ -4,11 +4,11 @@ Baxter 1 g
 
 Cefepime Injection
 
-GALAXY 50 mL NDC 0338-1301-41
+GALAXY Single-Dose Container
 
-Code 2G3578
+50 mL Iso-osmotic
 
-Single-Dose Container Iso-osmotic Sterile Nonpyrogenic
+NDC 0338-1301-41 Code 2G3578
 
 Each 50 mL contains: Cefepime Hydrochloride, USP equivalent to 1 g of
 
@@ -46,16 +46,13 @@ refreeze.
 
 Rx Only
 
-U.S. Pat.
-Nos. 4,686,125; 4,779,997
-
-Baxter and GALAXY are trademarks of Baxter International Inc.
+Baxter and GALAXY are registered trademarks of Baxter International Inc.
 
 Baxter Healthcare Corporation
 
 Deerfield, IL 60015 USA PL 2040 Plastic
 
-Made in USA 07-34-50-710
+Made in USA 07-34-63-744
 
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
 DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
