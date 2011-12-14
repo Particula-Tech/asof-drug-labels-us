@@ -12,5 +12,15 @@ Protect from light.
 
 Dispense in a light-resistant, tight container.
 
-|  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1-800-934-5556. |  |
+|  | This product's label may have been updated. For current full prescribing information, please visit www.pfizer.com. |  |
 | --- | --- | --- |
+
+Manufactured by Sanofi Winthrop Industrie
+
+1, rue de la Vierge
+
+33440 Ambares, France
+
+LAB-0564-1.0
+
+Revised October 2011

@@ -4,8 +4,6 @@ Cordarone® ′KOR-DU-RŌN Tablets
 
 (amiodarone HCl)
 
-Rx only
-
 Read the Medication Guide that comes with Cordarone Tablets before you start taking them and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
@@ -179,7 +177,7 @@ This Medication Guide summarizes the most important information about Cordarone 
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Cordarone Tablets that was written for healthcare professionals.
 
-|  | This Medication Guide may have been revised after this copy was produced. For more information and the most current Medication Guide, please visit www.wyeth.com or call our medical communications department toll-free at 1-800-934-5556. |  |
+|  | This product's Medication Guide may have been updated. For current Medication Guide, please visit www.pfizer.com. |  |
 | --- | --- | --- |
 
 ## What are the ingredients in Cordarone Tablets?
@@ -189,22 +187,6 @@ Active Ingredient: amiodarone HCl
 Inactive Ingredients: colloidal silicon dioxide, lactose, magnesium stearate, povidone, starch, and FD&C Red 40.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Rx only
-
-Manufactured for
-
-Wyeth®
-
-Wyeth Pharmaceuticals Inc.
-
-Philadelphia, PA 19101
-
-by Sanofi Winthrop Industrie
-
-1, rue de la Vierge
-
-33440 Ambares, France
 
 Cordarone is a registered trademark of Sanofi-Synthelabo.
 
@@ -217,8 +199,12 @@ Alavert is a registered trademark of Wyeth.
 ©2004, Wyeth Pharmaceuticals.
 All rights reserved.
 
-W10427C022
+Manufactured by Sanofi Winthrop Industrie
 
-ET01
+1, rue de la Vierge
 
-Rev 12/10
+33440 Ambares, France
+
+LAB-0565-1.0
+
+Revised October 2011
