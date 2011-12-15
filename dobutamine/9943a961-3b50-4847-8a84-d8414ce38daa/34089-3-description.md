@@ -3,7 +3,7 @@
 Dobutamine in 5% Dextrose Injection, USP is a sterile, nonpyrogenic, prediluted solution of dobutamine hydrochloride and dextrose in water for injection.
 It is administered by intravenous infusion.
 
-Each 100 mL contains dobutamine hydrochloride equivalent to 50 mg, 100 mg, 200 mg, or 400 mg of dobutamine; dextrose, hydrous 5 g in water for injection, with sodium metabisulfite 25 mg and edetate disodium, dihydrate 10 mg added as stabilizers; osmolar concentration, respectively, 260, 263, 270, or 284 mOsmol/liter (calc.).
+Each 100 mL contains dobutamine hydrochloride equivalent to 100 mg, 200 mg, or 400 mg of dobutamine; dextrose, hydrous 5 g in water for injection, with sodium metabisulfite 25 mg and edetate disodium, dihydrate 10 mg added as stabilizers; osmolar concentration, respectively, 263, 270, or 284 mOsmol/liter (calc.).
 The pH is 3.0 (2.5 to 5.5).
 May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
 Dobutamine in 5% Dextrose Injection, USP is oxygen sensitive.
