@@ -1,8 +1,16 @@
 MEDICATION GUIDE
 
-LAMICTAL® (la-MIK-tal) (lamotrigine) Tablets and Chewable Dispersible Tablets
+LAMICTAL® (la-MIK-tal)
 
-LAMICTAL® ODT™ (lamotrigine) Orally Disintegrating Tablets
+(lamotrigine)
+
+Tablets and Chewable Dispersible Tablets
+
+LAMICTAL® ODT™
+
+(lamotrigine)
+
+Orally Disintegrating Tablets
 
 Read this Medication Guide before you start taking LAMICTAL and each time you get a refill.
 There may be new information.
@@ -12,40 +20,44 @@ If you have questions about LAMICTAL, ask your healthcare provider or pharmacist
 What is the most important information I should know about LAMICTAL?
 
 1.
-LAMICTAL may cause a serious skin rash that may cause you to be hospitalized or to stop LAMICTAL; it may rarely cause death.
+LAMICTAL may cause a serious skin rash that may cause you to be hospitalized or even cause death.
 
-There is no way to tell if a mild rash will develop into a more serious reaction.
-These serious skin reactions are more likely to happen when you begin taking LAMICTAL, within the first 2 to 8 weeks of treatment.
-But it can happen in people who have taken LAMICTAL for any period of time.
-Children between 2 to 16 years of age have a higher chance of getting this serious skin reaction while taking LAMICTAL.
+There is no way to tell if a mild rash will become more serious.
+A serious skin rash can happen at any time during your treatment with LAMICTAL, but is more likely to happen within the first 2 to 8 weeks of treatment.
+Children between 2 to 16 years of age have a higher chance of getting this serious skin rash while taking LAMICTAL.
 
-The risk of getting a rash is higher if you:
+The risk of getting a serious skin rash is higher if you:
 
-- take LAMICTAL while taking valproate [DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium)].
-- take a higher starting dose of LAMICTAL than your healthcare provider prescribed.
+- take LAMICTAL while taking valproate [DEPAKENE® (valproic acid) or DEPAKOTE® (divalproex sodium)]
+- take a higher starting dose of LAMICTAL than your healthcare provider prescribed
 - increase your dose of LAMICTAL faster than prescribed.
-
-LAMICTAL can also cause other types of allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
-You may or may not have a rash with these types of reactions.
 
 Call your healthcare provider right away if you have any of the following:
 
 - a skin rash
+- blistering or peeling of your skin
 - hives
-- fever
-- swollen lymph glands
-- painful sores in the mouth or around your eyes
-- swelling of your lips or tongue
-- yellowing of your skin or eyes
-- unusual bruising or bleeding
-- severe fatigue or weakness
-- severe muscle pain
-- frequent infections
+- painful sores in your mouth or around your eyes
 
-These symptoms may be the first signs of a serious reaction.
+These symptoms may be the first signs of a serious skin reaction.
 A healthcare provider should examine you to decide if you should continue taking LAMICTAL.
 
 2.
+Other serious reactions, including serious blood problems or liver problems.
+LAMICTAL can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
+You may or may not have a rash with these types of reactions.
+Call your healthcare provider right away if you have any of these symptoms:
+
+- fever
+- frequent infections
+- severe muscle pain
+- swelling of your face, eyes, lips, or tongue
+- swollen lymph glands
+- unusual bruising or bleeding
+- weakness, fatigue
+- yellowing of your skin or the white part of your eyes
+
+3.
 Like other antiepileptic drugs, LAMICTAL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
@@ -75,22 +87,22 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 - Keep all follow-up visits with your healthcare provider as scheduled.
 - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
-3.
+4.
 LAMICTAL may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
 
 Call your healthcare provider right away if you have any of the following symptoms:
 
-- Headache
-- Fever
-- Nausea
-- Vomiting
-- Stiff neck
-- Rash
-- Unusual sensitivity to light
-- Muscle pains
-- Chills
-- Confusion
-- Drowsiness
+- headache
+- fever
+- nausea
+- vomiting
+- stiff neck
+- rash
+- unusual sensitivity to light
+- muscle pains
+- chills
+- confusion
+- drowsiness
 
 Meningitis has many causes other than LAMICTAL, which your doctor would check for if you developed meningitis while taking LAMICTAL.
 
@@ -99,7 +111,7 @@ For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled “What are the possible side effects of LAMICTAL?”
 
-4.
+5.
 Patients prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL.
 
 Taking the wrong medication can cause serious health problems.
@@ -149,23 +161,24 @@ Before taking LAMICTAL, tell your healthcare provider about all of your medical 
 
 - have had a rash or allergic reaction to another antiseizure medicine.
 - have or have had depression, mood problems or suicidal thoughts or behavior.
+- have had aseptic meningitis after taking LAMICTAL or LAMICTAL XR (lamotrigine).
 - are taking oral contraceptives (birth control pills) or other female hormonal medicines.
   Do not start or stop taking birth control pills or other female hormonal medicine until you have talked with your healthcare provider.
   Tell your healthcare provider if you have any changes in your menstrual pattern such as breakthrough bleeding.
-  Stopping or starting these medicines may cause side effects (such as dizziness, lack of coordination, or double vision) or lessen how well LAMICTAL works.
+  Stopping these medicines may cause side effects (such as dizziness, lack of coordination, or double vision).
+  Starting these medicines may lessen how well LAMICTAL works.
 - are pregnant or plan to become pregnant.
   It is not known if LAMICTAL will harm your unborn baby.
   If you become pregnant while taking LAMICTAL, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
 - are breastfeeding.
-  LAMICTAL passes into breast milk and may cause side effects in a breastfed baby.
-  If you breastfeed while taking LAMICTAL, watch your baby closely for trouble breathing, episodes of temporarily stopping breathing, sleepiness, or poor sucking.
-  Call your baby’s healthcare provider right away if you see any of these problems.
-  Talk to your healthcare provider about the best way to feed your baby if you take LAMICTAL.
+  LAMICTAL can pass into your breast milk.
+  You and your healthcare provider should decide if you should take LAMICTAL or breastfeed.
+  Breastfeeding while taking LAMICTAL is not recommended.
 
 Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Using LAMICTAL with certain other medicines can affect each other, causing side effects.
+If you use LAMICTAL with certain other medicines, they can affect each other, causing side effects.
 
 How should I take LAMICTAL?
 
@@ -183,7 +196,7 @@ How should I take LAMICTAL?
 - You may not feel the full effect of LAMICTAL for several weeks.
 - If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - Swallow LAMICTAL tablets whole.
-- If you have trouble swallowing LAMICTAL Tablets, there may be another form of LAMICTAL you can take.
+- If you have trouble swallowing LAMICTAL tablets, tell your healthcare provider because there may be another form of LAMICTAL you can take.
 - LAMICTAL ODT should be placed on the tongue and moved around the mouth.
   The tablet will rapidly disintegrate, can be swallowed with or without water, and can be taken with or without food.
 - LAMICTAL Chewable Dispersible tablets may be swallowed whole, chewed, or mixed in water or diluted fruit juice.
@@ -195,7 +208,7 @@ How should I take LAMICTAL?
 
 What should I avoid while taking LAMICTAL?
 
-- Do not drive a car or operate complex, hazardous machinery until you know how LAMICTAL affects you.
+Do not drive a car or operate complex, hazardous machinery until you know how LAMICTAL affects you.
 
 What are possible side effects of LAMICTAL?
 
@@ -244,7 +257,7 @@ LAMICTAL Tablets
 
 Active ingredient: lamotrigine.
 
-Inactive ingredients: lactose; magnesium stearate, microcrystalline cellulose, povidone, sodium starch glycolate, FD&C Yellow No. 6 Lake (100-mg tablet only), ferric oxide, yellow (150-mg tablet only), and FD&C Blue No. 2 Lake (200-mg tablet only).
+Inactive ingredients: lactose; magnesium stearate, microcrystalline cellulose, povidone, sodium starch glycolate, FD&C Yellow No. 6 Lake (100 mg tablet only), ferric oxide, yellow (150 mg tablet only), and FD&C Blue No. 2 Lake (200 mg tablet only).
 
 LAMICTAL Chewable Dispersible Tablets
 
@@ -285,6 +298,6 @@ Eurand, Inc., Vandalia, OH 45377
 ©2011, GlaxoSmithKline.
 All rights reserved.
 
-September 2011
+November 2011
 
-LMT:5MG
+LMT:6MG
