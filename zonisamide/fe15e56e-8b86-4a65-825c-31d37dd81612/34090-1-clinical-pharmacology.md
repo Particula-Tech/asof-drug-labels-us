@@ -15,12 +15,15 @@ In vitro binding studies have demonstrated that zonisamide binds to the GABA/ben
 Other in vitro studies have demonstrated that zonisamide (10 to 30 mcg/mL) suppresses synaptically-driven electrical activity without affecting postsynaptic GABA or glutamate responses (cultured mouse spinal cord neurons) or neuronal or glial uptake of [3H]-GABA (rat hippocampal slices).
 Thus, zonisamide does not appear to potentiate the synaptic activity of GABA.
 In vivo microdialysis studies demonstrated that zonisamide facilitates both dopaminergic and serotonergic neurotransmission.
-Zonisamide also has weak carbonic anhydrase inhibiting activity, but this pharmacologic effect is not thought to be a major contributing factor in the antiseizure activity of zonisamide.
+Zonisamide is a carbonic anhydrase inhibitor.
+The contribution of this pharmacological action to the therapeutic effects of zonisamide is unknown.
+However, as a carbonic anhydrase inhibitor, zonisamide may cause metabolic acidosis (see WARNINGS, Metabolic Acidosis subsection).
 
 ## Pharmacokinetics:
 
 Following a 200 to 400 mg oral zonisamide dose, peak plasma concentrations (range: 2 to 5 mcg/mL) in normal volunteers occur within 2 to 6 hours.
 In the presence of food, the time to maximum concentration is delayed, occurring at 4 to 6 hours, but food has no effect on the bioavailability of zonisamide.
+
 Zonisamide extensively binds to erythrocytes, resulting in an eight-fold higher concentration of zonisamide in red blood cells (RBC) than in plasma.
 The pharmacokinetics of zonisamide are dose proportional in the range of 200 to 400 mg, but the Cmax and AUC increase disproportionately at 800 mg, perhaps due to saturable binding of zonisamide to RBC.
 Once a stable dose is reached, steady state is achieved within 14 days.
@@ -54,6 +57,7 @@ Single 300 mg zonisamide doses were administered to three groups of volunteers.
 Group 1 was a healthy group with a creatinine clearance ranging from 70–152 mL/min.
 Group 2 and Group 3 had creatinine clearances ranging from 14.5–59 mL/min and 10–20 mL/min, respectively.
 Zonisamide renal clearance decreased with decreasing renal function (3.42, 2.50, 2.23 mL/min, respectively).
+
 Marked renal impairment (creatinine clearance < 20 mL/min) was associated with an increase in zonisamide AUC of 35% (see DOSAGE AND ADMINISTRATIONsection).
 
 ### Hepatic Disease:
@@ -75,12 +79,18 @@ Concomitant administration of phenytoin and carbamazepine increases zonisamide p
 The half-life of zonisamide is decreased to 27 hours by phenytoin, to 38 hours by phenobarbital and carbamazepine, and to 46 hours by valproate.
 Plasma protein binding of phenytoin and carbamazepine was not affected by zonisamide administration (see PRECAUTIONS, Drug Interactions subsection).
 
+## Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors:
+
+Concomitant use of zonisamide, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
+Therefore, if zonisamide is given concomitantly with another carbonic anyhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see PRECAUTIONS, Drug Interactions subsection).
+
 ## Clinical Studies:
 
 The effectiveness of zonisamide as adjunctive therapy (added to other antiepilepsy drugs) has been established in three multicenter, placebo-controlled, double blind, 3-month clinical trials (two domestic, one European) in 499 patients with refractory partial onset seizures with or without secondary generalization.
 Each patient had a history of at least four partial onset seizures per month in spite of receiving one or two antiepilepsy drugs at therapeutic concentrations.
 The 499 patients (209 women, 290 men) ranged in age from 13–68 years with a mean age of about 35 years.
 In the two US studies, over 80% of patients were Caucasian; 100% of patients in the European study were Caucasian.
+
 Zonisamide or placebo was added to the existing therapy.
 The primary measure of effectiveness was median percent reduction from baseline in partial seizure frequency.
 The secondary measure was proportion of patients achieving a 50% or greater seizure reduction from baseline (responders).

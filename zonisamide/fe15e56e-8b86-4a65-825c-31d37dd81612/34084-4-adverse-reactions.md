@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The most commonly observed adverse events associated with the use of zonisamide in controlled clinical trials that were not seen at an equivalent frequency among placebo-treated patients were somnolence, anorexia, dizziness, headache, nausea, and agitation/irritability.
+The most commonly observed adverse events related to treatment with zonisamide (an incidence at least 4% greater than placebo) in controlled clinical trials and shown in descending order of frequency were somnolence, anorexia, dizziness, ataxia, agitation/irritability, and difficulty with memory and/or concentration.
 
 In controlled clinical trials, 12% of patients receiving zonisamide as adjunctive therapy discontinued due to an adverse event compared to 6% receiving placebo.
 Approximately 21% of the 1,336 patients with epilepsy who received zonisamide in clinical studies discontinued treatment because of an adverse event.
@@ -100,8 +100,8 @@ Rare: Hypoglycemia, hyponatremia, lactic dehydrogenase increased, SGOT increased
 Musculoskeletal:Infrequent: Leg cramps, myalgia, myasthenia, arthralgia, arthritis.
 
 Nervous System:Frequent: Tremor, convulsion, abnormal gait, hyperesthesia, incoordination.
-Infrequent: Hypertonia, twitching, abnormal dreams, vertigo, libido decreased, neuropathy, hyperkinesia, movement disorder, dysarthria, cerebrovascular accident, hypotonia, peripheral neuritis, parathesia, reflexes increased.
-Rare: Circumoral paresthesia, dyskinesia, dystonia, encephalopathy, facial paralysis, hypokinesia, hyperesthesia, myoclonus, oculogyric crisis.
+Infrequent: Hypertonia, twitching, abnormal dreams, vertigo, libido decreased, neuropathy, hyperkinesia, movement disorder, dysarthria, cerebrovascular accident, hypotonia, peripheral neuritis, reflexes increased.
+Rare: Dyskinesia, dystonia, encephalopathy, facial paralysis, hypokinesia, hyperesthesia, myoclonus, oculogyric crisis.
 
 Behavioral Abnormalities –Non-Psychosis-Related:Infrequent: Euphoria.
 

@@ -1,10 +1,21 @@
-# Medication Guide Zonisamide Capsules
+# Medication Guide Zonisamide Capsules USP
 
-Read this Medication Guide before you start taking zonisamide and each time you get a refill.
+Read this Medication Guide before you start taking zonisamide capsules and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
 ## What is the most important information I should know about zonisamide?
+
+Zonisamide may cause serious side effects, including:
+
+1. Serious skin rash that can cause death.
+2. Less sweating and increase in your body temperature (fever)
+3. Suicidal thoughts or actions in some people.
+4. Increased level of acid in your blood (metabolic acidosis).
+5. Problems with your concentration, attention, memory, thinking, speech, or language.
+6. Blood cell changes such as reduced red and white blood cell counts.
+
+These serious side effects are described below.
 
 1. Zonisamide may cause a serious skin rash that can cause death.
    These serious skin reactions are more likely to happen when you begin taking zonisamide within the first 4 months of treatment but may occur at later times.
@@ -14,13 +25,12 @@ This information does not take the place of talking to your healthcare provider 
 
 Call your health care provider right away if you have:
 
-1. 
-   - a skin rash
-   - fever
-   - less sweat than normal
-2. Zonisamide can cause blood cell abnormalities such as reduced red and white blood cell counts.
-   Call your healthcare provider if you develop fever, sore throat, sores in your mouth, or unusual bruising.
-3. Like other antiepileptic drugs, zonisamide may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+- a skin rash
+- high fever, recurring fever, or long lasting fever
+- less sweat than normal
+
+3.
+Like other antiepileptic drugs, zonisamide may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -36,10 +46,6 @@ Call a healthcare provider right away if you have any of these symptoms, especia
 - acting on dangerous impulses
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
-
-Do not stop zonisamide without first talking to a healthcare provider.
-
-- Stopping zonisamide suddenly can cause serious problems.
 - Suicidal thoughts or actions can be caused by things other than medicines.
   If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
@@ -47,7 +53,39 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 
 - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
 - Keep all follow-up visits with your healthcare provider as scheduled.
-- Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+
+Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+
+Do not stop zonisamide without first talking to a healthcare provider.
+
+Stopping zonisamide suddenly can cause serious problems.
+Stopping a seizure medicine suddenly in patient who has epilepsy can cause seizures that will not stop (status epilepticus).
+
+4.
+Zonisamide can increase the level of acid in your blood (metabolic acidosis).
+If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones and can slow the rate of growth in children.
+Metabolic acidosis can happen with or without symptoms.
+
+Sometimes people with metabolic acidosis will:
+
+- feel tired
+- not feel hungry (loss of appetite)
+- feel changes in heartbeat
+- have trouble thinking clearly
+
+Your healthcare provider should do a blood test to measure the level of acid in your blood before and during treatment with zonisamide.
+
+5.
+Zonisamide may cause problems with your concentration, attention, memory, thinking, speech, or language.
+
+6.
+Zonisamide can cause blood cell changes such as reduced red and white blood cell counts.
+Call your healthcare provider if you develop fever, sore throat, sores in your mouth, or unusual bruising.
+
+Zonisamide can have other serious side effects.
+For more information ask your healthcare provider or pharmacist.
+Tell your healthcare provider if you have any side effect that bothers you.
+Be sure to read the section titled “What are the possible side effects of Zonisamide?”
 
 ## What is zonisamide?
 
@@ -59,20 +97,35 @@ It is not known if zonisamide is safe or effective in children under 16 years of
 
 Do not take zonisamide if you are allergic to medicines that contain sulfa.
 
-## What should I tell my healthcare provider before taking zonisamide
+## What should I tell my healthcare provider before taking zonisamide?
 
 Before taking zonisamide, tell you healthcare provider about all your medical conditions, including if you:
 
 - have or have had depression, mood problems or suicidal thoughts or behavior
 - have kidney problems
 - have liver problems
+- have a history of metabolic acidosis (too much acid in your blood)
+- have weak, brittle bones or soft bones (osteomalacia, osteopenia or osteoporosis)
+- have a growth problem
+- are on a diet high in fat called a ketogenic diet
+- have diarrhea
+
+Tell your healthcare provider if you:
+
 - are pregnant or plan to become pregnant.
-  You and your healthcare provider will have to decide if you should take zonisamide while you are pregnant.
-  If you become pregnant while taking zonisamide, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
-  You can enroll in this registry by calling 1-888-233-2334.
-  The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
-- are breastfeeding.
-  It is not known if zonisamide passes into breast milk and if it can harm your baby.
+  Zonisamide may harm your unborn baby.
+  Women who can become pregnant should use effective birth control.
+  Tell your healthcare provider right away if you become pregnant while taking zonisamide.
+
+You and your healthcare provider should decide if you should take zonisamide while you are pregnant.
+
+If you become pregnant while taking zonisamide, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+You can enroll in this registry by calling 1-888-233-2334.
+The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
+
+- are breastfeeding or plan to breastfeed.
+  Zonisamide can pass into your breast milk.
+  It is not known if zonisamide in your breast milk can harm your baby.
   Talk to your healthcare provider about the best way to feed your baby if you take zonisamide.
 
 Tell your healthcare provider about all the medicines you take including prescription and non-prescription medicines, vitamins or herbal supplements.
@@ -91,43 +144,47 @@ Keep a list of them with you to show your healthcare provider and pharmacist eac
 - If you take too much zonisamide, call your local Poison Control Center or go to the nearest emergency room right away.
 - Do not stop taking zonisamide without talking to your healthcare provider.
   Stopping zonisamide suddenly can cause serious problems, including seizures that will not stop (status epilepticus).
-- Do not drive a car, work with machines, or do other dangerous activities until you know how zonisamide affects you.
-  Zonisamide may make you drowsy.
+
+## What should I avoid while taking zonisamide?
+
+- Do not drink alcohol or take other drugs that make you sleep or dizzy while taking zonisamide until you talk to your health care provider.
+  Zonisamide taken with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
+- Do not drive, operate heavy machinery, or do other dangerous activities until you know how zonisamide affects you.
+  Zonisamide can slow your thinking and motor skills.
 
 ## What are the possible side effects of zonisamide?
 
 Zonisamide can cause serious side effects including:
 
-- the side effects mentioned above (see “What is the most important information I should know about zonisamide?”)
-- worsening seizures
-- kidney stones (sudden back pain, stomach pain, or blood in your urine)
-- problems with mood or thinking (new or worse depression; sudden changes in mood, behavior, or loss of contact with reality, sometimes associated with hearing voices or seeing things that are not really there; feeling sleepy or tired; trouble concentrating; speech and language problems)
-
-Call your healthcare provider right away if you have any of the symptoms listed above.
+- The side effects mentioned above (see “What is the most important information I should know about zonisamide?”)
+- kidney stones: back pain, stomach pain, or blood in your urine may mean you have kidney stones.
+  Drink plenty of fluids while you take zonisamide to lower your chance of getting kidney stones.
+- problems with mood or thinking (new or worse depression; sudden changes in mood, behavior, or loss of contact with reality, sometimes associated with hearing voices or seeing things that are not really there; feeling sleepy or tired; trouble concentrating; speech and language problems).
+  Call your healthcare provider right away if you have any of the symptoms listed above.
 
 The most common side effects of zonisamide include:
 
 - drowsiness
 - loss of appetite
 - dizziness
+- problems with concentration or memory
 - trouble with walking and coordination
-- headache
-- nausea
-- agitation
-- irritability
+- agitation or irritability
+
+Side effects can happen at any time, but are more likely to happen during the first several weeks after starting zonisamide.
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 These are not all of the possible side effects of zonisamide.
 For more information, ask your healthcare provider or pharmacist.
 
-Can your doctor for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 ## How should I store zonisamide?
 
-Store at 25°C (77°F), excursions permitted to 15°-30°C (59°-86°F).
-[See USP Controlled Room Temperature.]
-Store in a dry place and protect from light.
+- Store at 25°C (77°F), excursions permitted to 15°-30°C (59°-86°F).
+  [See USP Controlled Room Temperature.]
+- Dry and away from light.
 
 Keep zonisamide and all medicines out of the reach of children.
 
@@ -146,7 +203,7 @@ For more information, go to www.glenmarkgenerics.com or call 1 (888)721-7115.
 
 ## What are the ingredients in zonisamide?
 
-Active ingredient: zonisamide
+Active ingredient: zonisamide USP
 
 Inactive ingredients: microcrystalline cellulose, hydrogenated vegetable oil, sodium lauryl sulfate, gelatin and colorants.
 
@@ -174,4 +231,4 @@ Glenmark Generics Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkgenerics.com
 
-March 2010
+November 2011
