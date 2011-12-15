@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA076186"
+  ],
+  "inn": "amantadine",
+  "labeler": "Upsher-Smith Laboratories, Inc",
+  "package_ndcs": [
+    "0832-0111-00",
+    "0832-0111-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amantadine hydrochloride",
+      "name": "Amantadine Hydrochloride"
+    }
+  ],
+  "setid": "63d9d4aa-5f92-45b0-98d0-d6ec38b727cb",
+  "source": "dailymed"
+}
