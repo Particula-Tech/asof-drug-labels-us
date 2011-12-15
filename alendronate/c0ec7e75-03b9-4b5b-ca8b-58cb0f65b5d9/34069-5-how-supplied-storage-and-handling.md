@@ -18,14 +18,3 @@ Store at 20-25°C (68-77°F), excursions between 15-30°C (59-86°F) are allowed
 [See USP Controlled Room Temperature.]
 Protect from moisture and light.
 Store tablets in the original blister package until use.
-
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-By: FROSST IBERICA, S.A.
-28805 Alcalá de Henares Madrid, Spain
-
-Issued March 2011
-
-6013311
-
-Copyright © 2005, 2007, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved

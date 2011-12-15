@@ -1,6 +1,3 @@
-This is a representative sample of the packaging.
-Please see How Supplied section for a complete list of available packaging.
-
 PRINCIPAL DISPLAY PANEL - BI FOLD CARD, OUTER 70 mg/2800 IU
 
 FOSAMAX® PLUS D (alendronate sodium/cholecalciferol) tablets
