@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021748"
+  ],
+  "inn": "metformin",
+  "labeler": "Santarus, Inc.",
+  "package_ndcs": [
+    "68012-002-13",
+    "68012-002-92",
+    "68012-003-16",
+    "68012-003-97"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "metformin hydrochloride",
+      "name": "Glumetza"
+    }
+  ],
+  "setid": "fb832474-88d9-4e29-95cd-fbc446944cc4",
+  "source": "dailymed"
+}
