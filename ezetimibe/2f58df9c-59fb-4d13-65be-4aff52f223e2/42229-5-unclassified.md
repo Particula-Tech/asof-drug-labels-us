@@ -1,7 +1,6 @@
-Manufactured for: MERCK/Schering-Plough Pharmaceuticals North Wales, PA 19454, USA
+Manufactured for: MSP Distribution Services (C) LLC, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-By: MSD Technology Singapore Pte.
-Ltd. Singapore 637766
+By: MSD International GmbH (Singapore Branch) Singapore 637766
 
 Or
 
@@ -15,19 +14,18 @@ Merck Sharp & Dohme Ltd. Cramlington, Northumberland, UK NE23 3JU
 Or
 
 Jointly manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
-Via Emilia, 21 27100 – Pavia, Italy and MSD Technology Singapore Pte.
-Ltd. Singapore 637766
+Via Emilia, 21 27100 – Pavia, Italy and MSD International GmbH (Singapore Branch) Singapore 637766
 
-U.S. Patent Nos. 5,846,966 and RE37,721
+U.S. Patent Nos. 5,846,966 and RE42,461
 
 Revised: 11/2011
 
-9619520
+9619521
 
-Manufactured for: Merck/Schering-Plough Pharmaceuticals North Wales, PA 19454, USA
+Manufactured for: MSP Distribution Services (C) LLC, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 This patient information has been approved by the U.S. Food and Drug Administration
 
 Revised: 11/2011
 
-9619520
+9619521

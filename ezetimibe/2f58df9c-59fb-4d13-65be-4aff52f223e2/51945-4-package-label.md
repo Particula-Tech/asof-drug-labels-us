@@ -2,6 +2,8 @@ PRINCIPAL DISPLAY PANEL - Bottle Label 10/10
 
 VYTORIN® 10/10 (ezetimibe/simvastatin)
 
+NDC 66582-311-31
+
 Each tablet contains 10 mg ezetimibe and 10 mg simvastatin.
 
 Store at 20-25°C (68-77°F).
@@ -10,25 +12,24 @@ Keep container tightly closed.
 
 30 Tablets
 
-NDC 66582-311-31
-
 Rx only
 
 USUAL ADULT DOSAGE: See accompanying circular.
 
-Dist. by: MERCK/Schering-Plough Pharmaceuticals North Wales, PA 19454, U. S. A.
+Dist. by: MSP Distribution Services (C), LLC, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
-Manuf. by: Merck Sharp & Dohme Ltd. Cramlington, Northumberland, UK NE23 3JU
+Manuf. by: MSD International GmbH (Singapore Branch).
+Singapore 637766
 
-Ezetimibe and simvastatin (active ingreds.)
-Made in Singapore.
-Formulated in UK.
+Product of Singapore.
 
-9732700 30 | No. 3873
+Lot
 
 PRINCIPAL DISPLAY PANEL - Bottle Label 10/20
 
 VYTORIN® 10/20 (ezetimibe/simvastatin)
+
+NDC 66582-312-31
 
 Each tablet contains 10 mg ezetimibe and 20 mg simvastatin.
 
@@ -38,24 +39,24 @@ Keep container tightly closed.
 
 30 Tablets
 
-NDC 66582-312-31
-
 Rx only
 
 USUAL ADULT DOSAGE: See accompanying circular.
 
-Dist. by: MERCK/Schering-Plough Pharmaceuticals North Wales, PA 19454, U. S. A.
+Dist. by: MSP Distribution Services (C), LLC, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
-Manuf. by: MSD Technology Singapore Pte.
-Ltd. Singapore 637766
+Manuf. by: MSD International GmbH (Singapore Branch).
+Singapore 637766
 
 Product of Singapore.
 
-9732401 30 | No. 3874
+Lot
 
 PRINCIPAL DISPLAY PANEL - Bottle Label 10/40
 
 VYTORIN® 10/40 (ezetimibe/simvastatin)
+
+NDC 66582-313-31
 
 Each tablet contains 10 mg ezetimibe and 40 mg simvastatin.
 
@@ -65,24 +66,24 @@ Keep container tightly closed.
 
 30 Tablets
 
-NDC 66582-313-31
-
 Rx only
 
 USUAL ADULT DOSAGE: See accompanying circular.
 
-Dist. by: MERCK/Schering-Plough Pharmaceuticals North Wales, PA 19454, U. S. A.
+Dist. by: MSP Distribution Services (C), LLC, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
-Manuf. by: Merck Sharp & Dohme (Italia) S.p.A.
-Via Emilia, 21 27100 - Pavia, Italy
+Manuf. by: MSD International GmbH (Singapore Branch).
+Singapore 637766
 
-Formulated in Italy.
+Product of Singapore.
 
-9861900 30 | No. 3875
+Lot
 
 PRINCIPAL DISPLAY PANEL - Bottle Label 10/80
 
 VYTORIN® 10/80 (ezetimibe/simvastatin)
+
+NDC 66582-315-31
 
 Each tablet contains 10 mg ezetimibe and 80 mg simvastatin.
 
@@ -92,17 +93,15 @@ Keep container tightly closed.
 
 30 Tablets
 
-NDC 66582-315-31
-
 Rx only
 
 USUAL ADULT DOSAGE: See accompanying circular.
 
-Dist. by: MERCK/Schering-Plough Pharmaceuticals North Wales, PA 19454, U. S. A.
+Dist. by: MSP Distribution Services (C), LLC, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
-Manuf. by: MSD Technology Singapore Pte.
-Ltd. Singapore 637766
+Manuf. by: MSD International GmbH (Singapore Branch).
+Singapore 637766
 
 Product of Singapore.
 
-9732601 30 | No. 3876
+Lot
