@@ -1,11 +1,11 @@
 # 7 DRUG INTERACTIONS
 
-Drugs for which gastric pH can affect bioavailability
+## 7.1 Drugs for which gastric pH can affect bioavailability
 
 Because of its inhibition of gastric acid secretion, it is theoretically possible that omeprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (e.g., ketoconazole, ampicillin esters, iron salts, and digoxin).
 In the clinical efficacy trials, antacids were used concomitantly with the administration of omeprazole.
 
-Drugs metabolized by cytochrome P450 (CYP)
+## 7.2 Drugs metabolized by cytochrome P450 (CYP)
 
 Omeprazole can prolong the elimination of diazepam, warfarin and phenytoin, drugs that are metabolized by oxidation in the liver.
 There have been reports of increased INR and prothrombin time in patients receiving proton pump inhibitors, including omeprazole, and warfarin concomitantly.
@@ -19,7 +19,7 @@ Concomitant administration of omeprazole and voriconazole (a combined inhibitor 
 Dose adjustment of omeprazole is not normally required..
 When voriconazole (400 mg every 12 hours for one day, then 200 mg for 6 days) was given with omeprazole (40 mg once daily for 7 days) to healthy subjects, it significantly increased the steady-state Cmax and AUC0-24 of omeprazole, an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4) respectively as compared to when omeprazole was given without voriconazole.
 
-Antiretroviral Agents
+## 7.3 Antiretroviral Agents
 
 Concomitant administration of atazanavir and proton pump inhibitors is not recommended.
 Co-administration of atazanavir with proton pump inhibitors is expected to substantially decrease atazanavir plasma concentrations and thereby reduce its therapeutic effect.
@@ -36,7 +36,7 @@ For other antiretroviral drugs, such as saquinavir, elevated serum levels have b
 Dose reduction of saquinavir should be considered from the safety perspective for individual patients.
 There are also some antiretroviral drugs of which unchanged serum levels have been reported when given with omeprazole.
 
-Antimicrobials
+## 7.4 Antimicrobials
 
 Omeprazole 40 mg daily was given in combination with clarithromycin 500 mg every 8 hours to healthy adult male subjects.
 The steady state plasma concentrations of omeprazole were increased (Cmax, AUC0-24, and T1/2 increases of 30%, 89% and 34% respectively) by the concomitant administration of clarithromycin.
@@ -57,7 +57,7 @@ Table 5: Clarithromycin Tissue Concentrations 2 hours after Dose1
 | Mucus | 4.15 ± 7.74 (n = 4) | 39.29 ± 32.79 (n = 4) |
 |  | 1Mean ± (μg/g) |  |
 
-Clopidogrel
+## 7.5 Clopidogrel
 
 Omeprazole is an inhibitor of CYP2C19 enzyme.
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
@@ -72,6 +72,6 @@ In another study, 72 healthy subjects were given the same doses of clopidogrel a
 
 There are no adequate combination studies of a lower dose of omeprazole or a higher dose of clopidogrel in comparison with the approved dose of clopidogrel.
 
-Tacrolimus
+## 7.6 Tacrolimus
 
 Concomitant administration of omeprazole and tacrolimus may increase the serum levels of tacrolimus.

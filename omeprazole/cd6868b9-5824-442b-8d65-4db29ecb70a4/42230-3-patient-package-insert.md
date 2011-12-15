@@ -204,7 +204,7 @@ Active Ingredients: omeprazole / sodium bicarbonate
 
 For prescription only
 
-Revised September 2011
+Revised November 2011
 
 ZEGERID® is a registered trademark of Santarus, Inc.
 
