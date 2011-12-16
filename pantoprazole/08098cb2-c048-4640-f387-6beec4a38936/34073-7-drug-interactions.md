@@ -11,12 +11,17 @@ There have been postmarketing reports of increased INR and prothrombin time in p
 Increases in INR and prothrombin time may lead to abnormal bleeding and even death.
 Patients treated with proton pump inhibitors and warfarin concomitantly should be monitored for increases in INR and prothrombin time.
 
-## 7.3 Drugs for Which Gastric pH Can Affect Bioavailability
+## 7.3 Clopidogrel
+
+Concomitant administration of pantoprazole and clopidogrel in healthy subjects had no clinically important effect on exposure to the active metabolite of clopidogrel or clopidogrel-induced platelet inhibition [see Clinical Pharmacology (12.3)].
+No dose adjustment of clopidogrel is necessary when administered with an approved dose of Protonix.
+
+## 7.4 Drugs for Which Gastric pH Can Affect Bioavailability
 
 Pantoprazole causes long-lasting inhibition of gastric acid secretion.
 Therefore, pantoprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (e.g., ketoconazole, ampicillin esters, and iron salts).
 
-## 7.4 False Positive Urine Tests for THC
+## 7.5 False Positive Urine Tests for THC
 
 There have been reports of false positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving proton pump inhibitors.
 An alternative confirmatory method should be considered to verify positive results.

@@ -1,5 +1,3 @@
-PATIENT INFORMATION
-
 PROTONIX (pro-TAH-nix) (pantoprazole sodium)
 
 For Delayed-Release Oral Suspension and Delayed-Release Tablets
@@ -34,7 +32,7 @@ Do not take PROTONIX if you are:
 
 What should I tell my doctor before taking PROTONIX?
 
-Before you take PROTONIX, tell your doctor if you:
+Before taking PROTONIX, tell your doctor if you:
 
 - have been told that you have low magnesium levels in your blood
 

@@ -1,8 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling.
-
-Patient Counseling
+See FDA-Approved Patient Labeling
 
 - Caution patients that PROTONIX For Delayed-Release Oral Suspension and PROTONIX Delayed-Release Tablets should not be split, crushed, or chewed.
 - PROTONIX oral suspension packet is a fixed dose and cannot be divided to make a smaller dose.
@@ -11,6 +9,16 @@ Patient Counseling
 - Advise patients to take PROTONIX For Delayed-Release Oral Suspension approximately 30 minutes before a meal.
 - Advise patients that PROTONIX For Delayed-Release Oral Suspension should only be administered in apple juice or applesauce, not in water, other liquids, or foods.
 - Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitation, dizziness, seizures, and tetany as these may be signs of hypomagnesemia.
-  [See Warnings and Precautions (5.7)]
+  [See Warnings and Precautions (5.5)]
 
-FDA-Approved Patient Labeling
+under license from
+
+Nycomed GmbH
+
+D78467 Konstanz, Germany
+
+LAB-0459-2.0
+
+Revised October2011
+
+FDA-APPROVED PATIENT INFORMATION
