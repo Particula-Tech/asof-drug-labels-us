@@ -25,7 +25,7 @@ Several published observational studies suggest that proton pump inhibitor (PPI)
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines.
-(See Dosage And Administration and Adverse Reactions sections).
+(See Dosage and Administration and Adverse Reactions sections).
 
 ## 5.6 Hepatic Effects
 
