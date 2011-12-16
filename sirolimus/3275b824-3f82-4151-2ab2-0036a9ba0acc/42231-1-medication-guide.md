@@ -243,6 +243,8 @@ For Rapamune Oral Solution:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+LAB-0578-1.0
+
 Issued November 2010.
 
 INSTRUCTIONS FOR USE
@@ -301,6 +303,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Revised July 2011
 
-LAB-0473-1.0
-
-Revised July 2011
+LAB-0579-1.0
