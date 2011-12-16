@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA016908"
+  ],
   "inn": "fluocinonide",
-  "labeler": "MEDICIS, The Dermatology Company",
+  "labeler": "Medicis Pharmaceutical Corp",
   "package_ndcs": [
     "99207-513-13",
     "99207-513-14",
     "99207-513-17"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluocinonide",
+      "name": "Lidex-E"
+    }
+  ],
   "setid": "dbae0d87-1ae4-4f80-a1f8-545ebf6e875a",
   "source": "dailymed"
 }
