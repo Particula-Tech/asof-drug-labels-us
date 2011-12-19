@@ -41,7 +41,7 @@ Urinary free cortisol test
 
 ACTH stimulation test
 
-## Carcinogenesis, Mutagenesis, and Impairment Of Fertility
+## Carcinogenesis & Mutagenesis & Impairment Of Fertility
 
 Long-term animal studies have not been performed to evaluate the carcinogenic potential or the effect on fertility of topical corticosteroids.
 
