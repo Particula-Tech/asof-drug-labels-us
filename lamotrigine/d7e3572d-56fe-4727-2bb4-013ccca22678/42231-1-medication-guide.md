@@ -173,9 +173,10 @@ Before taking LAMICTAL, tell your healthcare provider about all of your medical 
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
 - are breastfeeding.
-  LAMICTAL can pass into your breast milk.
-  You and your healthcare provider should decide if you should take LAMICTAL or breastfeed.
-  Breastfeeding while taking LAMICTAL is not recommended.
+  LAMICTAL passes into breast milk and may cause side effects in a breastfed baby.
+  If you breastfeed while taking LAMICTAL, watch your baby closely for trouble breathing, episodes of temporarily stopping breathing, sleepiness, or poor sucking.
+  Call your baby’s healthcare provider right away if you see any of these problems.
+  Talk to your healthcare provider about the best way to feed your baby if you take LAMICTAL.
 
 Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 If you use LAMICTAL with certain other medicines, they can affect each other, causing side effects.
@@ -298,6 +299,6 @@ Eurand, Inc., Vandalia, OH 45377
 ©2011, GlaxoSmithKline.
 All rights reserved.
 
-November 2011
+December 2011
 
-LMT:6MG
+LMT:7MG
