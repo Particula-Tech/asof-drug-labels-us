@@ -2,7 +2,7 @@
 
 ## 2.1 Usual Dosage in Adults
 
-Tyvaso is intended for oral inhalation using the Tyvaso Inhalation System, which consists of the Optineb-ir Model ON-100/7 (an ultrasonic, pulsed-delivery device) and its accessories.
+Tyvaso is intended for oral inhalation using the Tyvaso Inhalation System, which consists of an ultrasonic, pulsed delivery device and its accessories.
 
 Tyvaso is dosed in 4 separate, equally spaced treatment sessions per day, during waking hours.
 The treatment sessions should be approximately 4 hours apart.
@@ -35,9 +35,9 @@ Patients with renal insufficiency may therefore be at increased risk of dose-dep
 
 Tyvaso must be used only with the Tyvaso Inhalation System.
 Patients should follow the instructions for use for operation of the Tyvaso Inhalation System and for daily cleaning of the device components after the last treatment session of the day.
-To avoid potential interruptions in drug delivery because of equipment malfunction, patients should have access to a back-up Optineb-ir device.
+To avoid potential interruptions in drug delivery because of equipment malfunction, patients should have access to a back-up Tyvaso Inhalation System device.
 
-Do not mix Tyvaso with other medications in the Optineb-ir device.
+Do not mix Tyvaso with other medications in the Tyvaso Inhalation System.
 Compatibility of Tyvaso with other medications has not been studied.
 
 The Tyvaso Inhalation System should be prepared for use each day according to the instructions for use.

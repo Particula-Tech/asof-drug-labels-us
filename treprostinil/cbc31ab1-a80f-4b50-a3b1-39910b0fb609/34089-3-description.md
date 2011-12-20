@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Tyvaso is a sterile formulation of treprostinil intended for administration by oral inhalation using the Optineb-ir device.
+Tyvaso is a sterile formulation of treprostinil intended for administration by oral inhalation using the Tyvaso Inhalation System.
 Tyvaso is supplied in 2.9 mL low density polyethylene (LDPE) ampules, containing 1.74 mg treprostinil (0.6 mg/mL).
 Each ampule also contains 18.9 mg sodium chloride, 18.3 mg sodium citrate, 0.58 mg sodium hydroxide, 11.7 mg 1 N hydrochloric acid, and water for injection.
 Sodium hydroxide and hydrochloric acid may be added to adjust pH between 6.0 and 7.2.

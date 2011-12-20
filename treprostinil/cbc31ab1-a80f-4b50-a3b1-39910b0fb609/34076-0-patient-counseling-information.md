@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be properly trained in the administration process for Tyvaso, including dosing, Optineb-ir device set up, operation, cleaning, and maintenance, according to the instructions for use [see Dosage and Administration (2.1)].
+Patients should be properly trained in the administration process for Tyvaso, including dosing, Tyvaso Inhalation System set up, operation, cleaning, and maintenance, according to the instructions for use [see Dosage and Administration (2.1)].
 
-To avoid potential interruptions in drug delivery because of equipment malfunction, patients should have access to a back-up Optineb-ir device [see Dosage and Administration (2.4)].
+To avoid potential interruptions in drug delivery because of equipment malfunction, patients should have access to a back-up Tyvaso Inhalation System device [see Dosage and Administration (2.4)].
 
 In the event that a scheduled treatment session is missed or interrupted, therapy should be resumed as soon as possible [see Dosage and Administration (2.1)].
 

@@ -11,13 +11,14 @@ One ampule of Tyvaso should be used each day in the Tyvaso Inhalation System.
 After a Tyvaso ampule is opened and transferred to the medicine cup, the solution should remain in the device for no more than one day (24 hours).
 Any remaining solution should be discarded at the end of the day.
 
-Tyvaso Inhalation System Starter Kit containing 28 ampule carton of Tyvaso [seven foil pouches each containing four 2.9 mL ampules.
+Tyvaso Inhalation System Starter Kit containing a 28 ampule carton of Tyvaso [seven foil pouches each containing four 2.9 mL ampules.
 Each ampule contains 1.74 mg treprostinil (0.6 mg per mL)] and the Tyvaso Inhalation System.
 (NDC 66302-206-01)
 
-Tyvaso Inhalation System Refill Kit containing 28 ampule carton of Tyvaso [seven foil pouches each containing four 2.9 mL ampules.
+Tyvaso Inhalation System Refill Kit containing a 28 ampule carton of Tyvaso [seven foil pouches each containing four 2.9 mL ampules.
 Each ampule contains 1.74 mg treprostinil (0.6 mg per mL)] and accessories.
 (NDC 66302-206-02)
 
-2.9 mL LDPE ampule containing 1.74 mg treprostinil (0.6 mg per mL), carton containing 1 foil pouch with 4 ampules.
-(NDC 66302-206-03)
+Tyvaso 4 Pack Carton with one foil pouch containing four 2.9 mL ampules.
+Each ampule contains 1.74 mg treprostinil (0.6 mg per mL).
+(NDC 66302-206-03).

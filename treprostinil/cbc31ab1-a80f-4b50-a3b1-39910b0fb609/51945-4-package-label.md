@@ -68,7 +68,7 @@ LUNGRX® A breath of fresh thinking
 
 United Therapeutics CORPORATION
 
-EXP LOT Rev.00
+EXP LOT Rev.01
 
 PRINCIPAL DISPLAY PANEL - Refill Kit
 
@@ -112,3 +112,5 @@ Jointly marketed by
 LUNGRX® A breath of fresh thinking
 
 United Therapeutics CORPORATION
+
+EXP LOT Rev.01
