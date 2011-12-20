@@ -1,8 +1,6 @@
 # WARNINGS
 
-## Tendinopathy and Tendon Rupture
-
-Fluoroquinolones, including ciprofloxacin, are associated with an increased risk of tendinitis and tendon rupture in all ages.
+Tendinopathy and Tendon Rupture Fluoroquinolones, including ciprofloxacin, are associated with an increased risk of tendinitis and tendon rupture in all ages.
 This adverse reaction most frequently involves the Achilles tendon, and rupture of the Achilles tendon may require surgical repair.
 Tendinitis and tendon rupture in the rotator cuff (the shoulder), the hand, the biceps, the thumb, and other tendon sites have also been reported.
 The risk of developing fluoroquinolone-associated tendinitis and tendon rupture is further increased in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
@@ -14,47 +12,28 @@ Patients should be advised to rest at the first sign of tendinitis or tendon rup
 Exacerbation of Myasthenia Gravis Fluoroquinolones, including ciprofloxacin, have neuromuscular blocking activity and may exacerbate muscle weakness in persons with myasthenia gravis.
 Postmarketing serious adverse events, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in persons with myasthenia gravis.
 Avoid ciprofloxacin in patients with known history of myasthenia gravis.
-(See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS: Post-Marketing Adverse Event Reports. )
-
-## Pregnant Women
-
-THE SAFETY AND EFFECTIVENESS OF CIPROFLOXACIN IN PREGNANT AND LACTATING WOMEN HAVE NOT BEEN ESTABLISHED.
+(See PRECAUTIONS: Information for Patients and ADVERSE REACTIONS: Postmarketing Adverse Event Reports. ) Pregnant Women THE SAFETY AND EFFECTIVENESS OF CIPROFLOXACIN IN PREGNANT AND LACTATING WOMEN HAVE NOT BEEN ESTABLISHED.
 (See PRECAUTIONS: Pregnancy, and Nursing Mothers subsections.)
-
-## Pediatrics
-
-Ciprofloxacin should be used in pediatric patients (less than 18 years of age) only for infections listed in the INDICATIONS AND USAGE section.
+Pediatrics Ciprofloxacin should be used in pediatric patients (less than 18 years of age) only for infections listed in the INDICATIONS AND USAGE section.
 An increased incidence of adverse events compared to controls, including events related to joints and/or surrounding tissues, has been observed.
 (See ADVERSE REACTIONS .)
 In pre-clinical studies, oral administration of ciprofloxacin caused lameness in immature dogs.
 Histopathological examination of the weight-bearing joints of these dogs revealed permanent lesions of the cartilage.
 Related quinolone-class drugs also produce erosions of cartilage of weight-bearing joints and other signs of arthropathy in immature animals of various species.
 (See ANIMAL PHARMACOLOGY .)
-
-## Cytochrome P450 (CYP450)
-
-Ciprofloxacin is an inhibitor of the hepatic CYP1A2 enzyme pathway.
+Cytochrome P450 (CYP450) Ciprofloxacin is an inhibitor of the hepatic CYP1A2 enzyme pathway.
 Coadministration of ciprofloxacin and other drugs primarily metabolized by CYP1A2 (e.g., theophylline, methylxanthines, tizanidine) results in increased plasma concentrations of the coadministered drug and could lead to clinically significant pharmacodynamic side effects of the coadministered drug.
-
-## Central Nervous System Disorders
-
-Convulsions, increased intracranial pressure, and toxic psychosis have been reported in patients receiving quinolones, including ciprofloxacin.
+Central Nervous System Disorders Convulsions, increased intracranial pressure, and toxic psychosis have been reported in patients receiving quinolones, including ciprofloxacin.
 Ciprofloxacin may also cause central nervous system (CNS) events including: dizziness, confusion, tremors, hallucinations, depression, and, rarely, suicidal thoughts or acts.
 These reactions may occur following the first dose.
 If these reactions occur in patients receiving ciprofloxacin, the drug should be discontinued and appropriate measures instituted.
 As with all quinolones, ciprofloxacin should be used with caution in patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (e.g., severe cerebral arteriosclerosis, epilepsy), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (e.g., certain drug therapy, renal dysfunction).
 (See PRECAUTIONS: General, Information for Patients, Drug Interactions and ADVERSE REACTIONS .)
-
-## Theophylline
-
-SERIOUS AND FATAL REACTIONS HAVE BEEN REPORTED IN PATIENTS RECEIVING CONCURRENT ADMINISTRATION OF CIPROFLOXACIN AND THEOPHYLLINE.
+Theophylline SERIOUS AND FATAL REACTIONS HAVE BEEN REPORTED IN PATIENTS RECEIVING CONCURRENT ADMINISTRATION OF CIPROFLOXACIN AND THEOPHYLLINE.
 These reactions have included cardiac arrest, seizure, status epilepticus, and respiratory failure.
 Although similar serious adverse effects have been reported in patients receiving theophylline alone, the possibility that these reactions may be potentiated by ciprofloxacin cannot be eliminated.
 If concomitant use cannot be avoided, serum levels of theophylline should be monitored and dosage adjustments made as appropriate.
-
-## Hypersensitivity Reactions
-
-Serious and occasionally fatal hypersensitivity (anaphylactic) reactions, some following the first dose, have been reported in patients receiving quinolone therapy.
+Hypersensitivity Reactions Serious and occasionally fatal hypersensitivity (anaphylactic) reactions, some following the first dose, have been reported in patients receiving quinolone therapy.
 Some reactions were accompanied by cardiovascular collapse, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
 Only a few patients had a history of hypersensitivity reactions.
 Serious anaphylactic reactions require immediate emergency treatment with epinephrine.
@@ -70,27 +49,18 @@ Clinical manifestations may include one or more of the following:
 - hepatitis; jaundice; acute hepatic necrosis or failure;
 - anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
 
-The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (see PRECAUTIONS: Information for Patients and ADVERSE REACTIONS).
-
-## Pseudomembranous Colitis
-
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ciprofloxacin, and may range in severity from mild diarrhea to fatal colitis.
-Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile .
+The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (see PRECAUTIONS: Information for Patients and ADVERSE REACTIONS ).
+Pseudomembranous Colitis Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ciprofloxacin, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 C. difficile produces toxins A and B which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile , and surgical evaluation should be instituted as clinically indicated.
-
-## Peripheral neuropathy
-
-Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving quinolones, including ciprofloxacin.
+Peripheral neuropathy Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving quinolones, including ciprofloxacin.
 Ciprofloxacin should be discontinued if the patient experiences symptoms of neuropathy including pain, burning, tingling, numbness, and/or weakness, or is found to have deficits in light touch, pain, temperature, position sense, vibratory sensation, and/or motor strength in order to prevent the development of an irreversible condition.
-
-## Syphilis
-
-Ciprofloxacin has not been shown to be effective in the treatment of syphilis.
+Syphilis Ciprofloxacin has not been shown to be effective in the treatment of syphilis.
 Antimicrobial agents used in high dose for short periods of time to treat gonorrhea may mask or delay the symptoms of incubating syphilis.
 All patients with gonorrhea should have a serologic test for syphilis at the time of diagnosis.
 Patients treated with ciprofloxacin should have a follow-up serologic test for syphilis after three months.
@@ -110,7 +80,7 @@ Renal Impairment Alteration of the dosage regimen is necessary for patients with
 (See DOSAGE AND ADMINISTRATION .)
 Photosensitivity/Phototoxicity Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (e.g., burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolones after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
-Drug therapy should be discontinued if phototoxicity occurs (See ADVERSE REACTIONS/Post-Marketing Adverse Events ).
+Drug therapy should be discontinued if phototoxicity occurs (See ADVERSE REACTIONS/Postmarketing Adverse Events ).
 As with any potent drug, periodic assessment of organ system functions, including renal, hepatic, and hematopoietic function, is advisable during prolonged therapy.
 Prescribing ciprofloxacin tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
@@ -118,10 +88,10 @@ Prescribing ciprofloxacin tablets in the absence of a proven or strongly suspect
 
 Patients should be advised:
 
-- to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue ciprofloxacin treatment.
-  The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 - that fluoroquinolones like ciprofloxacin may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
   Patients should call their healthcare provider right away if they have any worsening muscle weakness or breathing problems.
+- to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue ciprofloxacin treatment.
+  The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 - that antibacterial drugs including ciprofloxacin tablets should only be used to treat bacterial infections.
   They do not treat viral infections (e.g., the common cold).
   When ciprofloxacin tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
@@ -207,7 +177,7 @@ The malformation rates among live-born babies exposed to ciprofloxacin and to fl
 No specific patterns of congenital abnormalities were found.
 The study did not reveal any clear adverse reactions due to in utero exposure to ciprofloxacin.
 No differences in the rates of prematurity, spontaneous abortions, or birth weight were seen in women exposed to ciprofloxacin during pregnancy.
-8,9 However, these small post-marketing epidemiology studies, of which most experience is from short term, first trimester exposure, are insufficient to evaluate the risk for less common defects or to permit reliable and definitive conclusions regarding the safety of ciprofloxacin in pregnant women and their developing fetuses.
+8,9 However, these small postmarketing epidemiology studies, of which most experience is from short term, first trimester exposure, are insufficient to evaluate the risk for less common defects or to permit reliable and definitive conclusions regarding the safety of ciprofloxacin in pregnant women and their developing fetuses.
 Ciprofloxacin should not be used during pregnancy unless the potential benefit justifies the potential risk to both fetus and mother (see WARNINGS ).
 Reproduction studies have been performed in rats and mice using oral doses up to 100 mg/kg (0.6 and 0.3 times the maximum daily human dose based upon body surface area, respectively) and have revealed no evidence of harm to the fetus due to ciprofloxacin.
 In rabbits, oral ciprofloxacin dose levels of 30 and 100 mg/kg (approximately 0.4- and 1.3-times the highest recommended therapeutic dose based upon mg/m 2 ) produced gastrointestinal toxicity resulting in maternal weight loss and an increased incidence of abortion, but no teratogenicity was observed at either dose level.
@@ -224,25 +194,16 @@ Because of the potential for serious adverse reactions in infants nursing from m
 
 Ciprofloxacin, like other quinolones, causes arthropathy and histological changes in weight-bearing joints of juvenile animals resulting in lameness.
 (See ANIMAL PHARMACOLOGY .)
-
-### Inhalational Anthrax (Post-Exposure)
-
-Ciprofloxacin is indicated in pediatric patients for inhalational anthrax (post-exposure).
+Inhalational Anthrax (Post-Exposure) Ciprofloxacin is indicated in pediatric patients for inhalational anthrax (post-exposure).
 The risk-benefit assessment indicates that administration of ciprofloxacin to pediatric patients is appropriate.
 For information regarding pediatric dosing in inhalational anthrax (post-exposure), see DOSAGE AND ADMINISTRATION and INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION .
-
-### Complicated Urinary Tract Infection and Pyelonephritis
-
-Ciprofloxacin is indicated for the treatment of complicated urinary tract infections and pyelonephritis due to Escherichia coli.
+Complicated Urinary Tract Infection and Pyelonephritis Ciprofloxacin is indicated for the treatment of complicated urinary tract infections and pyelonephritis due to Escherichia coli.
 Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse events compared to the controls, including events related to joints and/or surrounding tissues.
 The rates of these events in pediatric patients with complicated urinary tract infection and pyelonephritis within six weeks of follow-up were 9.3% (31/335) versus 6% (21/349) for control agents.
 The rates of these events occurring at any time up to the one year follow-up were 13.7% (46/335) and 9.5% (33/349), respectively.
 The rate of all adverse events regardless of drug relationship at six weeks was 41% (138/335) in the ciprofloxacin arm compared to 31% (109/349) in the control arm.
-(See ADVERSE REACTIONS and CLINICAL STUDIES.)
-
-### Cystic Fibrosis
-
-Short-term safety data from a single trial in pediatric cystic fibrosis patients are available.
+(See ADVERSE REACTIONS and CLINICAL STUDIES .)
+Cystic Fibrosis Short-term safety data from a single trial in pediatric cystic fibrosis patients are available.
 In a randomized, double-blind clinical trial for the treatment of acute pulmonary exacerbations in cystic fibrosis patients (ages 5 to 17 years), 67 patients received ciprofloxacin I.V.
 10 mg/kg/dose q8h for one week followed by ciprofloxacin tablets 20 mg/kg/dose q12h to complete 10 to 21 days treatment and 62 patients received the combination of ceftazidime I.V.
 50 mg/kg/dose q8h and tobramycin I.V.
@@ -265,7 +226,7 @@ Geriatric patients are at increased risk for developing severe tendon disorders 
 This risk is further increased in patients receiving concomitant corticosteroid therapy.
 Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
 Caution should be used when prescribing ciprofloxacin to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential side effect and advised to discontinue ciprofloxacin and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur (See Boxed Warning, WARNINGS, and ADVERSE REACTIONS/Post-Marketing Adverse Event Reports).
+Patients should be informed of this potential side effect and advised to discontinue ciprofloxacin and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur (See Boxed Warning, WARNINGS, and ADVERSE REACTIONS/Postmarketing Adverse Event Reports).
 In a retrospective analysis of 23 multiple-dose controlled clinical trials of ciprofloxacin encompassing over 3500 ciprofloxacin treated patients, 25% of patients were greater than or equal to 65 years of age and 10% were greater than or equal to 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals on any drug therapy cannot be ruled out.
 Ciprofloxacin is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.

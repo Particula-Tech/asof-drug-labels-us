@@ -1,8 +1,6 @@
 # CLINICAL STUDIES
 
-## Complicated Urinary Tract Infection and Pyelonephritis – Efficacy in Pediatric Patients
-
-NOTE: Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse events compared to controls, including events related to joints and/or surrounding tissues.
+Complicated Urinary Tract Infection and Pyelonephritis – Efficacy in Pediatric Patients NOTE: Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse events compared to controls, including events related to joints and/or surrounding tissues.
 Ciprofloxacin, administered I.V. and/or orally, was compared to a cephalosporin for treatment of complicated urinary tract infections (cUTI) and pyelonephritis in pediatric patients 1 to 17 years of age (mean age of 6 ± 4 years).
 The trial was conducted in the U.S., Canada, Argentina, Peru, Costa Rica, Mexico, South Africa, and Germany.
 The duration of therapy was 10 to 21 days (mean duration of treatment was 11 days with a range of 1 to 88 days).
@@ -23,7 +21,7 @@ Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post
 |  | 95% CI [-1.3%, 13.1%] |  |
 | Bacteriologic Eradication of the Baseline Pathogen at 5 to 9 Days Post-Treatment |  |  |
 | Escherichia coli | 156/178 (88%) | 161/179 (90%) |
-| *Patients with baseline pathogen(s) eradicated and no new infections or superinfections/total number of patients. There were 5.5% (6/211) ciprofloxacin and 9.5% (22/231) comparator patients with superinfections or new infections. |  |  |
+| * Patients with baseline pathogen(s) eradicated and no new infections or superinfections/total number of patients. There were 5.5% (6/211) ciprofloxacin and 9.5% (22/231) comparator patients with superinfections or new infections. |  |  |
 
 ## INHALATIONAL ANTHRAX IN ADULTS AND PEDIATRICS – ADDITIONAL INFORMATION
 

@@ -1,10 +1,11 @@
 # REFERENCES
 
-1. National Committee for Clinical Laboratory Standards, Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically-Fifth Edition.
-   Approved Standard NCCLS Document M7-A5, Vol. 20, No. 2, NCCLS, Wayne, PA, January, 2000.
-2. Clinical and Laboratory Standards Institute, Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline., CLSI Document M45-A, Vol. 26, No. 19, CLSI, Wayne, PA, 2006.
-3. National Committee for Clinical Laboratory Standards, Performance Standards for Antimicrobial Disk Susceptibility Tests-Seventh Edition.
-   Approved Standard NCCLS Document M2-A7, Vol. 20, No. 1, NCCLS, Wayne, PA, January, 2000.
+1. Clinical and Laboratory Standards Institute, Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard – Eighth Edition.
+   CLSI Document M7-A8, Vol. 29, No. 2, CLSI, Wayne, PA, January, 2009.
+2. Clinical and Laboratory Standards Institute, Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline – Second Edition.
+   CLSI Document M45-A2, CLSI, Wayne, PA, 2010.
+3. Clinical and Laboratory Standards Institute, Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard – Tenth Edition.
+   CLSI Document M2-A10 Vol. 29, No. 1, CLSI, Wayne, PA, January, 2009.
 4. Report presented at the FDA’s Anti-Infective Drug and Dermatological Drug Product’s Advisory Committee meeting, March 31, 1993, Silver Spring, MD.
    Report available from FDA, CDER, Advisors and Consultants Staff, HFD-21, 1901 Chapman Avenue, Room 200, Rockville, MD 20852, USA.
 5. 21 CFR 314.510 (Subpart H – Accelerated Approval of New Drugs for Life-Threatening Illnesses).
@@ -22,4 +23,4 @@
     Eur J Obstet Gynecol Reprod Biol.
     1996;69:83-89.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 03/2011
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 10/2011

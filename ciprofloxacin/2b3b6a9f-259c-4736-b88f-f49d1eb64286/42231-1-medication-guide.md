@@ -1,36 +1,37 @@
 # MEDICATION GUIDE
 
-Ciprofloxacin Tablets, USP Read the Medication Guide that comes with ciprofloxacin tablets before you start taking them and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+Ciprofloxacin Tablets, USP READ THE MEDICATION GUIDE THAT COMES WITH CIPROFLOXACIN TABLETS BEFORE YOU START TAKING THEM AND EACH TIME YOU GET A REFILL.
+THERE MAY BE NEW INFORMATION.
+THIS MEDICATION GUIDE DOES NOT TAKE THE PLACE OF TALKING TO YOUR HEALTHCARE PROVIDER ABOUT YOUR MEDICAL CONDITION OR YOUR TREATMENT.
 
 ## What is the most important information I should know about ciprofloxacin tablets?
 
-Ciprofloxacin tablets belong to a class of antibiotics called fluoroquinolones.
-Ciprofloxacin tablets can cause side effects that may be serious or even cause death.
-If you get any of the following serious side effects, get medical help right away.
-Talk with your healthcare provider about whether you should continue to take ciprofloxacin tablets.
+CIPROFLOXACIN TABLETS BELONG TO A CLASS OF ANTIBIOTICS CALLED FLUOROQUINOLONES.
+CIPROFLOXACIN TABLETS CAN CAUSE SIDE EFFECTS THAT MAY BE SERIOUS OR EVEN CAUSE DEATH.
+IF YOU GET ANY OF THE FOLLOWING SERIOUS SIDE EFFECTS, GET MEDICAL HELP RIGHT AWAY.
+TALK WITH YOUR HEALTHCARE PROVIDER ABOUT WHETHER YOU SHOULD CONTINUE TO TAKE CIPROFLOXACIN TABLETS.
+1.
 Tendon rupture or swelling of the tendon (tendinitis)
 
-- Tendons are tough cords of tissue that connect muscles to bones.
-- Pain, swelling, tears, and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites can happen in people of all ages who take fluoroquinolone antibiotics, including ciprofloxacin tablets.
-  The risk of getting tendon problems is higher if you:
+- Tendon problems can happen in people of all ages who take ciprofloxacin tablets.
+  Tendons are tough cords of tissue that connect muscles to bones.
+  Symptoms of tendon problems may include:
+  - Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+- The risk of getting tendon problems while you take ciprofloxacin tablets are higher if you:
   - are over 60 years of age
   - are taking steroids (corticosteroids)
-  - have had a kidney, heart, or lung transplant.
-
-- Swelling of the tendon (tendinitis) and tendon rupture (breakage) have also happened in patients who take fluoroquinolones who do not have the above risk factors.
-- Other reasons for tendon ruptures can include:
+  - have had a kidney, heart or lung transplant.
+- Tendon problems can happen in people who do not have the above risk factors when they take ciprofloxacin tablets.
+  Other reasons that can increase your risk of tendon problems can include:
   - physical activity or exercise
   - kidney failure
   - tendon problems in the past, such as in people with rheumatoid arthritis (RA)
-
 - Call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
   Stop taking ciprofloxacin tablets until tendinitis or tendon rupture has been ruled out by your healthcare provider.
   Avoid exercise and using the affected area.
   The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
   This can also happen with other tendons.
-  Talk to your healthcare provider about the risk of tendon rupture with continued use of ciprofloxacin tablets.
+- Talk to your healthcare provider about the risk of tendon rupture with continued use of ciprofloxacin tablets.
   You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
 - Tendon rupture can happen while you are taking or after you have finished taking ciprofloxacin tablets.
   Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone.
@@ -38,11 +39,13 @@ Tendon rupture or swelling of the tendon (tendinitis)
   - hear or feel a snap or pop in a tendon area
   - bruising right after an injury in a tendon area
   - unable to move the affected area or bear weight
-- Worsening of myasthenia gravis (a disease which causes muscle weakness).
-  Fluoroquinolones like ciprofloxacin tablets may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
-  Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
-See the section “What are the possible side effects of ciprofloxacin tablets?” for more information about side effects.
+2.
+WORSENING OF MYASTHENIA GRAVIS (A DISEASE WHICH CAUSES MUSCLE WEAKNESS).
+FLUOROQUINOLONES LIKE CIPROFLOXACIN TABLETS MAY CAUSE WORSENING OF MYASTHENIA GRAVIS SYMPTOMS, INCLUDING MUSCLE WEAKNESS AND BREATHING PROBLEMS.
+CALL YOUR HEALTHCARE PROVIDER RIGHT AWAY IF YOU HAVE ANY WORSENING MUSCLE WEAKNESS OR BREATHING PROBLEMS.
+SEE THE SECTION “WHAT ARE THE POSSIBLE SIDE EFFECTS OF CIPROFLOXACIN TABLETS?”
+FOR MORE INFORMATION ABOUT SIDE EFFECTS.
 
 ## What are ciprofloxacin tablets?
 
@@ -50,26 +53,24 @@ Ciprofloxacin tablets are a fluoroquinolone antibiotic medicine used to treat ce
 Children less than 18 years of age have a higher chance of getting bone, joint, or tendon (musculoskeletal) problems such as pain or swelling while taking ciprofloxacin tablets.
 Ciprofloxacin tablets should not be used as the first choice of antibiotic medicine in children under 18 years of age.
 Ciprofloxacin tablets should not be used in children under 18 years old, except to treat specific serious infections, such as complicated urinary tract infections and to prevent anthrax disease after breathing the anthrax bacteria germ (inhalational exposure).
-Sometimes infections are caused by viruses rather than by bacteria.
-Examples include viral infections in the sinuses and lungs, such as the common cold or flu.
-Antibiotics, including ciprofloxacin tablets, do not kill viruses.
-
-Call your healthcare provider if you think your condition is not getting better while you are taking ciprofloxacin tablets.
+SOMETIMES INFECTIONS ARE CAUSED BY VIRUSES RATHER THAN BY BACTERIA.
+EXAMPLES INCLUDE VIRAL INFECTIONS IN THE SINUSES AND LUNGS, SUCH AS THE COMMON COLD OR FLU.
+ANTIBIOTICS, INCLUDING CIPROFLOXACIN TABLETS, DO NOT KILL VIRUSES.
+CALL YOUR HEALTHCARE PROVIDER IF YOU THINK YOUR CONDITION IS NOT GETTING BETTER WHILE YOU ARE TAKING CIPROFLOXACIN TABLETS.
 
 ## Who should not take ciprofloxacin tablets?
 
-Do not take ciprofloxacin tablets if you:
+DO NOT TAKE CIPROFLOXACIN TABLETS IF YOU:
 
-- have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone, or are allergic to any of the ingredients in ciprofloxacin tablets.
-  Ask your healthcare provider if you are not sure.
-  See the list of ingredients in ciprofloxacin tablets at the end of this Medication Guide.
-- also take a medicine called tizanidine.
-  Serious side effects from tizanidine are likely to happen.
+- HAVE EVER HAD A SEVERE ALLERGIC REACTION TO AN ANTIBIOTIC KNOWN AS A FLUOROQUINOLONE, OR ARE ALLERGIC TO ANY OF THE INGREDIENTS IN CIPROFLOXACIN TABLETS.
+  ASK YOUR HEALTHCARE PROVIDER IF YOU ARE NOT SURE.
+  SEE THE LIST OF INGREDIENTS IN CIPROFLOXACIN TABLETS AT THE END OF THIS MEDICATION GUIDE.
+- ALSO TAKE A MEDICINE CALLED TIZANIDINE.
+  SERIOUS SIDE EFFECTS FROM TIZANIDINE ARE LIKELY TO HAPPEN.
 
 ## What should I tell my healthcare provider before taking ciprofloxacin tablets?
 
-See “What is the most important information I should know about ciprofloxacin tablets?”
-
+SEE “WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT CIPROFLOXACIN TABLETS?”
 Tell your healthcare provider about all your medical conditions, including if you:
 
 - have tendon problems
@@ -95,7 +96,7 @@ Especially tell your healthcare provider if you take:
 - an NSAID (Non-Steroidal Anti-Inflammatory Drug).
   Many common medicines for pain relief are NSAIDs.
   Taking an NSAID while you take ciprofloxacin tablets or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
-  See “What are the possible side effects of ciprofloxacin tablets?”.
+  See “What are the possible side effects of ciprofloxacin tablets?”
 - a blood thinner
 - tizanidine.
   You should not take ciprofloxacin tablets if you are already taking tizanidine.
@@ -119,11 +120,11 @@ Especially tell your healthcare provider if you take:
   Take ciprofloxacin tablets either 2 hours before or 6 hours after taking these products:
   - an antacid, multivitamin, or other product that has magnesium, calcium, aluminum, iron, or zinc
   - sucralfate
-  - didanosine.
+  - didanosine
 
 Ask your healthcare provider if you are not sure if any of your medicines are listed above.
-Know the medicines you take.
-Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
+KNOW THE MEDICINES YOU TAKE.
+KEEP A LIST OF YOUR MEDICINES AND SHOW IT TO YOUR HEALTHCARE PROVIDER AND PHARMACIST WHEN YOU GET A NEW MEDICINE.
 
 ## How should I take ciprofloxacin tablets?
 
@@ -172,7 +173,7 @@ If you have been prescribed ciprofloxacin tablets after being exposed to anthrax
 - Ciprofloxacin tablets can cause side effects that may be serious or even cause death.
   See “What is the most important information I should know about ciprofloxacin tablets?”
 
-Other serious side effects of ciprofloxacin tablets include:
+OTHER SERIOUS SIDE EFFECTS OF CIPROFLOXACIN TABLETS INCLUDE:
 
 - Central Nervous System Effects
 
@@ -180,8 +181,8 @@ Seizures have been reported in people who take fluoroquinolone antibiotics inclu
 Tell your healthcare provider if you have a history of seizures.
 Ask your healthcare provider whether taking ciprofloxacin tablets will change your risk of having a seizure.
 
-Central Nervous System (CNS) side effects may happen as soon as after taking the first dose of ciprofloxacin tablets.
-Talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
+CENTRAL NERVOUS SYSTEM (CNS) SIDE EFFECTS MAY HAPPEN AS SOON AS AFTER TAKING THE FIRST DOSE OF CIPROFLOXACIN TABLETS.
+TALK TO YOUR HEALTHCARE PROVIDER RIGHT AWAY IF YOU GET ANY OF THESE SIDE EFFECTS, OR OTHER CHANGES IN MOOD OR BEHAVIOR:
 
 - feel dizzy
 - seizures
@@ -245,7 +246,7 @@ Talk with your healthcare provider right away if you get any of the following sy
 - numbness
 - weakness
 
-Ciprofloxacin tablets may need to be stopped to prevent permanent nerve damage.
+CIPROFLOXACIN TABLETS MAY NEED TO BE STOPPED TO PREVENT PERMANENT NERVE DAMAGE.
 
 - Low blood sugar (hypoglycemia)
 
@@ -262,7 +263,7 @@ See “What should I avoid while taking ciprofloxacin tablets?”
 Increased chance of problems with joints and tissues around joints in children under 18 years old.
 Tell your child’s healthcare provider if your child has any joint problems during or after treatment with ciprofloxacin tablets.
 
-The most common side effects of ciprofloxacin tablets include:
+THE MOST COMMON SIDE EFFECTS OF CIPROFLOXACIN TABLETS INCLUDE:
 
 - nausea
 - headache
@@ -272,31 +273,29 @@ The most common side effects of ciprofloxacin tablets include:
 - changes in liver function tests
 - pain or discomfort in the abdomen
 
-These are not all the possible side effects of ciprofloxacin tablets.
-Tell your healthcare provider about any side effect that bothers you, or that does not go away.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+THESE ARE NOT ALL THE POSSIBLE SIDE EFFECTS OF CIPROFLOXACIN TABLETS.
+TELL YOUR HEALTHCARE PROVIDER ABOUT ANY SIDE EFFECT THAT BOTHERS YOU, OR THAT DOES NOT GO AWAY.
+CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
+YOU MAY REPORT SIDE EFFECTS TO FDA AT 1-800-FDA-1088.
 
 ## How should I store ciprofloxacin tablets?
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-Keep ciprofloxacin tablets and all medicines out of the reach of children.
+KEEP CIPROFLOXACIN TABLETS AND ALL MEDICINES OUT OF THE REACH OF CHILDREN.
 
 ## General information about ciprofloxacin tablets
 
-Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use ciprofloxacin tablets for a condition for which it is not prescribed.
-Do not give ciprofloxacin tablets to other people, even if they have the same symptoms that you have.
-They may harm them.
-
-This Medication Guide summarizes the most important information about ciprofloxacin tablets.
-If you would like more information about ciprofloxacin tablets, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about ciprofloxacin tablets that is written for healthcare professionals.
-For more information call 1-866-850-2876.
+MEDICINES ARE SOMETIMES PRESCRIBED FOR PURPOSES OTHER THAN THOSE LISTED IN A MEDICATION GUIDE.
+DO NOT USE CIPROFLOXACIN TABLETS FOR A CONDITION FOR WHICH IT IS NOT PRESCRIBED.
+DO NOT GIVE CIPROFLOXACIN TABLETS TO OTHER PEOPLE, EVEN IF THEY HAVE THE SAME SYMPTOMS THAT YOU HAVE.
+THEY MAY HARM THEM.
+THIS MEDICATION GUIDE SUMMARIZES THE MOST IMPORTANT INFORMATION ABOUT CIPROFLOXACIN TABLETS.
+IF YOU WOULD LIKE MORE INFORMATION ABOUT CIPROFLOXACIN TABLETS, TALK WITH YOUR HEALTHCARE PROVIDER.
+YOU CAN ASK YOUR HEALTHCARE PROVIDER OR PHARMACIST FOR INFORMATION ABOUT CIPROFLOXACIN TABLETS THAT IS WRITTEN FOR HEALTHCARE PROFESSIONALS.
+FOR MORE INFORMATION CALL 1-866-850-2876.
 
 ## What are the ingredients in ciprofloxacin tablets?
 
 Active ingredient: ciprofloxacin Inactive ingredients: microcrystalline cellulose, sodium starch glycolate, povidone, colloidal silicon dioxide, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 03/2011
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 10/2011
