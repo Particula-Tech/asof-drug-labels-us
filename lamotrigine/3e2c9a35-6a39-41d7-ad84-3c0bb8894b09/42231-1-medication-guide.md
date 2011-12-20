@@ -1,6 +1,10 @@
 MEDICATION GUIDE
 
-LAMICTAL® (la-MIK-tal) XR™ (lamotrigine) Extended-Release Tablets
+LAMICTAL® (la-MIK-tal) XR™
+
+(lamotrigine)
+
+Extended-Release Tablets
 
 Read this Medication Guide before you start taking LAMICTAL XR and each time you get a refill.
 There may be new information.
@@ -10,41 +14,45 @@ If you have questions about LAMICTAL XR, ask your healthcare provider or pharmac
 What is the most important information I should know about LAMICTAL XR?
 
 1.
-LAMICTAL XR may cause a serious skin rash that may cause you to be hospitalized or to stop LAMICTAL XR; it may rarely cause death.
+LAMICTAL XR may cause a serious skin rash that may cause you to be hospitalized or even cause death.
 
-There is no way to tell if a mild rash will develop into a more serious reaction.
-These serious skin reactions are more likely to happen when you begin taking LAMICTAL XR, within the first 2 to 8 weeks of treatment.
-But it can happen in people who have taken LAMICTAL XR for any period of time.
-Children between 2 to 16 years of age have a higher chance of getting this serious skin reaction while taking lamotrigine.
-LAMICTAL XR is not approved for use in children less than 13 years of age.
+There is no way to tell if a mild rash will become more serious.
+A serious skin rash can happen at any time during your treatment with LAMICTAL XR, but is more likely to happen within the first 2 to 8 weeks of treatment.
+Children between 2 to 16 years of age have a higher chance of getting this serious skin rash while taking LAMICTAL XR.
+LAMICTAL XR is not approved for use in children less than 13 years old.
 
-The risk of getting a rash is higher if you:
+The risk of getting a serious skin rash is higher if you:
 
-- take LAMICTAL XR while taking valproate [DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium)].
+- take LAMICTAL XR while taking valproate [DEPAKENE® (valproic acid) or DEPAKOTE® (divalproex sodium)].
 - take a higher starting dose of LAMICTAL XR than your healthcare provider prescribed.
 - increase your dose of LAMICTAL XR faster than prescribed.
-
-LAMICTAL XR can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like the liver or blood cells.
-You may or may not have a rash with these types of reactions.
 
 Call your healthcare provider right away if you have any of the following:
 
 - a skin rash
+- blistering or peeling of your skin
 - hives
-- fever
-- swollen lymph glands
-- painful sores in the mouth or around your eyes
-- swelling of your lips or tongue
-- yellowing of your skin or eyes
-- unusual bruising or bleeding
-- severe fatigue or weakness
-- severe muscle pain
-- frequent infections
+- painful sores in your mouth or around your eyes
 
-These symptoms may be the first signs of a serious reaction.
+These symptoms may be the first signs of a serious skin reaction.
 A healthcare provider should examine you to decide if you should continue taking LAMICTAL XR.
 
 2.
+Other serious reactions, including serious blood problems or liver problems.
+LAMICTAL XR can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
+You may or may not have a rash with these types of reactions.
+Call your healthcare provider right away if you have any of these symptoms:
+
+- fever
+- frequent infections
+- severe muscle pain
+- swelling of your face, eyes, lips, or tongue
+- swollen lymph glands
+- unusual bruising or bleeding
+- weakness, fatigue
+- yellowing of your skin or the white part of your eyes
+
+3.
 Like other antiepileptic drugs, LAMICTAL XR may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
@@ -74,22 +82,22 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 - Keep all follow-up visits with your healthcare provider as scheduled.
 - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
-3.
+4.
 LAMICTAL XR may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
 
 Call your healthcare provider right away if you have any of the following symptoms:
 
-- Headache
-- Fever
-- Nausea
-- Vomiting
-- Stiff neck
-- Rash
-- Unusual sensitivity to light
-- Muscle pains
-- Chills
-- Confusion
-- Drowsiness
+- headache
+- fever
+- nausea
+- vomiting
+- stiff neck
+- rash
+- unusual sensitivity to light
+- muscle pains
+- chills
+- confusion
+- drowsiness
 
 Meningitis has many causes other than LAMICTAL XR, which your doctor would check for if you developed meningitis while taking LAMICTAL XR.
 
@@ -98,7 +106,7 @@ For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled “What are the possible side effects of LAMICTAL XR?”
 
-4.
+5.
 Patients prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL XR.
 
 Taking the wrong medication can cause serious health problems.
@@ -121,9 +129,9 @@ What is LAMICTAL XR?
 
 LAMICTAL XR is a prescription medicine used:
 
-- together with other medicines to treat primary generalized tonic-clonic seizures and partial onset seizures in people 13 years of age and older.
-- alone to treat partial seizures when changing from certain other medicines used in people 13 years and older.It is not known if LAMICTAL XR is safe or effective in children less than 13 years of age.
-  Other forms of lamotrigine can be used in children aged 2 to 12 years.
+- together with other medicines to treat primary generalized tonic-clonic seizures and partial onset seizures in people 13 years or older.
+- alone when changing from other medicines used to treat partial seizures in people 13 years or older.It is not known if LAMICTAL XR is safe or effective in children under the age of 13.
+  Other forms of LAMICTAL can be used in children 2 to 12 years.
 
 Who should not take LAMICTAL XR?
 
@@ -136,6 +144,7 @@ Before taking LAMICTAL XR, tell your healthcare provider about all of your medic
 
 - have had a rash or allergic reaction to another antiseizure medicine.
 - have or have had depression, mood problems, or suicidal thoughts or behavior.
+- have had aseptic meningitis after taking LAMICTAL (lamotrigine) or LAMICTAL XR.
 - are taking oral contraceptives (birth control pills) or other female hormonal medicines.
   Do not start or stop taking birth control pills or other female hormonal medicine until you have talked with your healthcare provider.
   Tell your healthcare provider if you have any changes in your menstrual pattern such as breakthrough bleeding.
@@ -153,7 +162,7 @@ Before taking LAMICTAL XR, tell your healthcare provider about all of your medic
   Talk to your healthcare provider about the best way to feed your baby if you take LAMICTAL XR.
 
 Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Using LAMICTAL XR with certain other medicines can affect each other, causing side effects.
+If you use LAMICTAL XR with certain other medicines, they can affect each other, causing side effects.
 
 How should I take LAMICTAL XR?
 
@@ -167,13 +176,13 @@ How should I take LAMICTAL XR?
 - If you miss a dose of LAMICTAL XR, take it as soon as you remember.
   If it is almost time for your next dose, just skip the missed dose.
   Take the next dose at your regular time.
-  Do not take 2 doses at the same time.
+  Do not take two doses at the same time.
 - You may not feel the full effect of LAMICTAL XR for several weeks.
 - If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - LAMICTAL XR can be taken with or without food.
 - Do not chew, crush, or divide LAMICTAL XR.
 - Swallow LAMICTAL XR tablets whole.
-- If you have trouble swallowing LAMICTAL XR Tablets, tell your healthcare provider because there may be another form of lamotrigine you can take.
+- If you have trouble swallowing LAMICTAL XR tablets, tell your healthcare provider because there may be another form of LAMICTAL you can take.
 - If you receive LAMICTAL XR in a blisterpack, examine the blisterpack before use.
   Do not use if blisters are torn, broken, or missing.
 
@@ -185,15 +194,15 @@ What are possible side effects of LAMICTAL XR?
 
 - See “What is the most important information I should know about LAMICTAL XR?”
   Common side effects of LAMICTAL XR include:
-- Dizziness
-- Tremor
-- Double vision
-- Nausea
-- Vomiting
-- Trouble with balance and coordination
-- Anxiety
+- dizziness
+- tremor
+- double vision
+- nausea
+- vomiting
+- trouble with balance and coordination
+- anxiety
 
-Other common side effects that have been reported with another form of lamotrigine include headache, sleepiness, blurred vision, runny nose, and rash.
+Other common side effects that have been reported with another form of LAMICTAL include headache, sleepiness, blurred vision, runny nose, and rash.
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
@@ -223,9 +232,9 @@ For more information, go to www.lamictalxr.com or call 1-888-825-5249.
 
 What are the ingredients in LAMICTAL XR?
 
-Active ingredient: Lamotrigine.
+Active ingredient: lamotrigine.
 
-Inactive ingredients: glycerol monostearate, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer dispersion, polyethylene glycol 400, polysorbate 80, silicon dioxide (25- and 50-mg tablets only), titanium dioxide, triethyl citrate, carmine (250-mg tablet only), iron oxide black (50-, 250-, and 300-mg tablets only), iron oxide yellow (25-, 50-, 100-mg tablets only), iron oxide red (100-mg tablet only), FD&C Blue No. 2 Aluminum Lake (200- and 250-mg tablets only).
+Inactive ingredients: glycerol monostearate, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer dispersion, polyethylene glycol 400, polysorbate 80, silicon dioxide (25 mg and 50 mg tablets only), titanium dioxide, triethyl citrate, carmine (250 mg tablet only), iron oxide black (50 mg, 250 mg, and 300 mg tablets only), iron oxide yellow (25 mg, 50 mg, and 100 mg tablets only), iron oxide red (100 mg tablet only), FD&C Blue No. 2 Aluminum Lake (200 mg and 250 mg tablets only).
 Tablets are printed with edible black ink.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
@@ -241,6 +250,6 @@ Research Triangle Park, NC 27709
 ©2011, GlaxoSmithKline.
 All rights reserved.
 
-September 2011
+December 2011
 
-LXR:8MG
+LXR:10MG
