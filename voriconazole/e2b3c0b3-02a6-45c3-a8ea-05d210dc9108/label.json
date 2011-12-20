@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA200265"
+  ],
+  "inn": "voriconazole",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-5667-05",
+    "0781-5667-06",
+    "0781-5667-10",
+    "0781-5667-13",
+    "0781-5667-31",
+    "0781-5668-05",
+    "0781-5668-06",
+    "0781-5668-10",
+    "0781-5668-13",
+    "0781-5668-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "voriconazole",
+      "name": "voriconazole"
+    }
+  ],
+  "setid": "e2b3c0b3-02a6-45c3-a8ea-05d210dc9108",
+  "source": "dailymed"
+}
