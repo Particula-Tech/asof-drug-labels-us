@@ -26,7 +26,7 @@ Patients who have been taking inhaled, short-acting beta2-agonists (e.g., levalb
 BROVANA Inhalation Solution should not be used in conjunction with other inhaled medications containing long-acting beta2-agonists.
 Patients should be warned not to stop or change the dose of other concomitant COPD therapy without medical advice, even if symptoms improve after initiating treatment with BROVANA Inhalation Solution.
 
-Common Adverse Reactions with Beta2-agonists
+Common Adverse Reactions with Beta2 -agonists
 
 Patients should be informed that treatment with beta2-agonists may lead to adverse reactions that include palpitations, chest pain, rapid heart rate, increased or decreased blood pressure, headache, tremor, nervousness, dry mouth, muscle cramps, nausea, dizziness, fatigue, malaise, low blood potassium, high blood sugar, high blood acid, or trouble sleeping [see ADVERSE REACTIONS (6.1)].
 
@@ -43,7 +43,9 @@ FDA-Approved Medication Guide
 
 See the accompanying Medication Guide.
 
-SUNOVION Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 USA BROVANA is a registered trademark of Sunovion Pharmaceuticals Inc. For customer service, call 1-888-394-7377.
+SUNOVION
+
+Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 USA BROVANA is a registered trademark of Sunovion Pharmaceuticals Inc. For customer service, call 1-888-394-7377.
 To report adverse events, call 1-877-737-7226.
 For medical information, call 1-800-739-0565.
 

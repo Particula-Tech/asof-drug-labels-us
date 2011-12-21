@@ -1,6 +1,8 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Asthma-Related Deaths [see BOXED WARNING]
+## 5.1 Asthma-Related Deaths
+
+[see BOXED WARNING]
 
 Data from a large placebo-controlled study in asthma patients showed that long-acting beta2-adrenergic agonists (LABA) increase the risk of asthma-related death.
 This finding is considered a class effect of LABA, including arformoterol, the active ingredient in BROVANA Inhalation Solution.

@@ -4,9 +4,7 @@ NDC 63402-911-64
 
 15 mcg
 
-KEEP REFRIGERATED OR STORE AT ROOM TEMPERATURE
-
-FOR UP TO 6 WEEKS
+KEEP REFRIGERATED OR STORE AT ROOM TEMPERATURE FOR UP TO 6 WEEKS.
 
 Brovana®
 
@@ -24,13 +22,9 @@ SUNOVION
 
 For Oral Inhalation Only.
 
-Rx Only
+Rx Only Keep out of reach of children
 
-Keep out of reach of children
-
-60 x 2 mL
-
-Sterile Unit-Dose Vials
+60 x 2 mL Sterile Unit-Dose Vials
 
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 4 VIAL POUCH
 

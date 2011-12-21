@@ -1,4 +1,6 @@
-MEDICATION GUIDE BROVANA® [Brō vă '-nah] (arformoterol tartrate) Inhalation Solution
+MEDICATION GUIDE
+
+BROVANA® [Brō vă '-nah] (arformoterol tartrate) Inhalation Solution
 
 BROVANA is only for use with a nebulizer.
 
@@ -189,9 +191,13 @@ An opened ready-to-use vial should be used right away.
    It takes about 5 to 10 minutes for each treatment.
 8. Clean the nebulizer (see manufacturer's instructions).
 
-Rx Only This Medication Guide has been approved by the Food and Drug Administration.
+Rx Only
 
-SUNOVION Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 USA
+This Medication Guide has been approved by the Food and Drug Administration.
+
+SUNOVION
+
+Manufactured for: Sunovion Pharmaceuticals Inc. Marlborough, MA 01752 USA
 
 BROVANA is a registered trademark of Sunovion Pharmaceuticals Inc.
 
