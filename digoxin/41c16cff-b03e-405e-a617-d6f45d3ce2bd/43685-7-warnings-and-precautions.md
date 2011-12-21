@@ -60,9 +60,9 @@ If it is not prudent to delay cardioversion, the lowest possible energy level sh
 
 Digoxin can rarely precipitate vasoconstriction and therefore should be avoided in patients with myocarditis.
 
-## Use in Patients with Beri Beri Heart Disease
+## Use in Patients with Beriberi Heart Disease
 
-Patients with beri beri heart disease may fail to respond adequately to digoxin if the underlying thiamine deficiency is not treated concomitantly.
+Patients with beriberi heart disease may fail to respond adequately to digoxin if the underlying thiamine deficiency is not treated concomitantly.
 
 ## Laboratory Test Monitoring
 
@@ -99,9 +99,10 @@ These electrophysiologic effects reflect an expected effect of the drug and are 
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-There have been no long-term studies performed in animals to evaluate carcinogenic potential, nor have studies been conducted to assess the mutagenic potential of digoxin or its potential to affect fertility.
+Digoxin showed no genotoxic potential in vitro studies (Ames test and mouse lymphoma).
+No data are available on the carcinogenic potential of digoxin, nor have studies been conducted to assess its potential to affect fertility.
 
-## Pregnancy: Teratogenic Effects: Pregnancy Category C
+## Pregnancy: Teratogenic Effects. Pregnancy Category C
 
 Animal reproduction studies have not been conducted with Digoxin.
 It is also not known whether digoxin can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.

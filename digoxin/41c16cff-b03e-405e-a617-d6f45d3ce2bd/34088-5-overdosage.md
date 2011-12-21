@@ -45,7 +45,7 @@ Once the adverse reaction has resolved, therapy with digoxin may be reinstituted
 
 When the primary manifestation of digoxin overdosage is a cardiac arrhythmia, additional therapy may be needed.
 
-If the rhythm disturbance is a symptomatic bradyarrhythmia or heart block, consideration should be given to the reversal of toxicity with Digoxin Immune Fab (Ovine) [Digibind® or Digifab®] (see Massive Digitalis Overdosage subsection), the use of atropine, or the insertion of a temporary cardiac pacemaker.
+If the rhythm disturbance is a symptomatic bradyarrhythmia or heart block, consideration should be given to the reversal of toxicity with Digoxin Immune Fab (Ovine) [DIGIBIND® or DigiFab®] (see Massive Digitalis Overdosage subsection), the use of atropine, or the insertion of a temporary cardiac pacemaker.
 Digoxin Immune Fab (Ovine) is a specific antidote for digoxin and may be used to reverse potentially life-threatening ventricular arrhythmias due to digoxin overdosage.
 
 If the rhythm disturbance is a ventricular arrhythmia, consideration should be given to the correction of electrolyte disorders, particularly if hypokalemia (see Administration of Potassium subsection) or hypomagnesemia is present.

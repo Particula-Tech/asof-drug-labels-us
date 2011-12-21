@@ -69,7 +69,7 @@ The side effects of digoxin in infants and children differ from those seen in ad
 Although digoxin may produce anorexia, nausea, vomiting, diarrhea, and CNS disturbances in young patients, these are rarely the initial symptoms of overdosage.
 Rather, the earliest and most frequent manifestation of excessive dosing with digoxin in infants and children is the appearance of cardiac arrhythmias, including sinus bradycardia.
 In children, the use of digoxin may produce any arrhythmia.
-The most common are conduction disturbances of supraventricular tachyarrhythmias, such as atrial tachycardia (with or without block) and junctional (nodal) tachycardia.
+The most common are conduction disturbances or supraventricular tachyarrhythmias, such as atrial tachycardia (with or without block) and junctional (nodal) tachycardia.
 Ventricular arrhythmias are less common.
 Sinus bradycardia may be a sign of impending digoxin intoxication, especially in infants, even in the absence of first-degree heart block.
 Any arrhythmia or alteration in cardiac conduction that develops in a child taking digoxin should be assumed to be caused by digoxin, until further evaluation proves otherwise.

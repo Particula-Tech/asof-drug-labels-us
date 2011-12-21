@@ -42,7 +42,7 @@ If a discrepancy exists between the reported serum concentration and the observe
 Digitalization may be accomplished by either of two general approaches that vary in dosage and frequency of administration, but reach the same endpoint in terms of total amount of digoxin accumulated in the body.
 
 1. If rapid digitalization is considered medically appropriate, it may be achieved by administering a loading dose based upon projected peak digoxin body stores.
-   Maintenance dose can be calculated as a percentage of the loading dose
+   Maintenance dose can be calculated as a percentage of the loading dose.
 2. More gradual digitalization may be obtained by beginning an appropriate maintenance dose, thus allowing digoxin body stores to accumulate slowly.
    Steady-state serum digoxin concentrations will be achieved in approximately five half-lives of the drug for the individual patient.
    Depending upon the patient's renal function, this will take between 1 and 3 weeks.
@@ -50,10 +50,10 @@ Digitalization may be accomplished by either of two general approaches that vary
 ## Rapid Digitalization with a Loading Dose
 
 Peak digoxin body stores of 8 to 12 mcg/kg should provide therapeutic effect with minimum risk of toxicity in most patients with heart failure and normal sinus rhythm.
-Because of altered digoxin distribution and elimination, projected peak body stores for patients with renal insufficiency should be conservative (i.e., 6 to 10 mcg/kg) [see PRECAUTIONS].
+Because of altered digoxin distribution and elimination, projected peak body stores for patients with renal insufficiency should be conservative (i.e., 6 to 10 mcg/kg) (see PRECAUTIONS).
 
 The loading dose should be administered in several portions, with roughly half the total given as the first dose.
-Additional fractions of this planned total dose may be given at 6- to-8-hour intervals, with careful assessment of clinical response before each additional dose.
+Additional fractions of this planned total dose may be given at 6- to 8-hour intervals, with careful assessment of clinical response before each additional dose.
 
 If the patient's clinical response necessitates a change from the calculated loading dose of digoxin, then calculation of the maintenance dose should be based upon the amount actually given.
 
@@ -61,7 +61,7 @@ A single initial dose of 500 to 750 mcg (0.5 to 0.75 mg) of Digoxin Tablets usua
 Additional doses of 125 to 375 mcg (0.125 to 0.375 mg) may be given cautiously at 6- to 8-hour intervals until clinical evidence of an adequate effect is noted.
 The usual amount of Digoxin Tablets that a 70 kg patient requires to achieve 8 to 12 mcg/kg peak body stores is 750 to 1250 mcg (0.75 to 1.25 mg).
 
-Digoxin Injection is frequently used to achieve rapid digitalization with conversion to Digoxin Tablets for maintenance therapy.
+Digoxin Injection is frequently used to achieve rapid digitalization, with conversion to Digoxin Tablets for maintenance therapy.
 If patients are switched from intravenous to oral digoxin formulations, allowances must be made for differences in bioavailability when calculating maintenance dosages (see Table 1, CLINICAL PHARMACOLOGY).
 
 ## Maintenance Dosing

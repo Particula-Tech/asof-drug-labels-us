@@ -1,3 +1,7 @@
 # PRINCIPAL DISPLAY PANEL
 
-Digoxin Tablets, USP 125 mcg (0.125 mg) 100 Tablets NDC 0143-1240-01
+Digoxin Tablets, USP 125 mcg (0.125 mg) NDC 0143-1240
+
+# PRINCIPAL DISPLAY PANEL
+
+Digoxin Tablets, USP 250 mcg (0.25 mg) NDC 0143-1241

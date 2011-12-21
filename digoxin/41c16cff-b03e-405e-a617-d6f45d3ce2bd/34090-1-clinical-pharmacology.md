@@ -14,10 +14,10 @@ This increase in sympathetic activity may be an important factor in digitalis to
 ## Pharmacokinetics
 
 Absorption: Following oral administration, peak serum concentrations of digoxin occur at 1 to 3 hours.
-Absorption of Digoxin Tablets from digoxin tablets has been demonstrated to be 60% to 80% complete compared to an identical intravenous dose of digoxin (absolute bioavailability).
-When Digoxin Tablets are taken after meals, the rate of absorption is slowed, but the total amount of digoxin absorbed is usually unchanged.
+Absorption of digoxin from digoxin tablets has been demonstrated to be 60% to 80% complete compared to an identical intravenous dose of digoxin (absolute bioavailability).
+When digoxin tablets are taken after meals, the rate of absorption is slowed, but the total amount of digoxin absorbed is usually unchanged.
 When taken with meals high in bran fiber, however, the amount absorbed from an oral dose may be reduced.
-Comparisons of the systemic availability and equivalent doses for oral preparations of Digoxin Tablets are shown in Table 1.
+Comparisons of the systemic availability and equivalent doses for oral preparations of digoxin tablets are shown in Table 1.
 
 Table 1: Comparisons of the Systemic Availability and Equivalent Doses for Oral Preparations of Digoxin Tablets
 
@@ -29,7 +29,7 @@ Table 1: Comparisons of the Systemic Availability and Equivalent Doses for Oral 
 | * For example, 125 mcg Digoxin Tablets equivalent to 100 mcg Digoxin Injection/IV. |  |  |  |  |  |
 
 In some patients, orally administered digoxin is converted to inactive reduction products (e.g., dihydrodigoxin) by colonic bacteria in the gut.
-Data suggest that one in ten patients treated with Digoxin Tablets will degrade 40% or more of the ingested dose.
+Data suggest that one in ten patients treated with digoxin tablets will degrade 40% or more of the ingested dose.
 As a result, certain antibiotics may increase the absorption of digoxin in such patients.
 Although inactivation of these bacteria by antibiotics is rapid, the serum digoxin concentration will rise at a rate consistent with the elimination half-life of digoxin.
 The magnitude of rise in serum digoxin concentration relates to the extent of bacterial inactivation, and may be as much as two-fold in some cases.
@@ -38,7 +38,7 @@ The magnitude of rise in serum digoxin concentration relates to the extent of ba
 
 Following drug administration, a 6- to 8-hour tissue distribution phase is observed.
 This is followed by a much more gradual decline in the serum concentration of the drug, which is dependent on the elimination of digoxin from the body.
-The peak height and slope of the early portion, (absorption/distribution phases) of the serum concentration-time curve are dependent upon the route of administration and the absorption characteristics of the formulation.
+The peak height and slope of the early portion (absorption/distribution phases) of the serum concentration-time curve are dependent upon the route of administration and the absorption characteristics of the formulation.
 Clinical evidence indicates that the early high serum concentrations do not reflect the concentration of digoxin at its site of action, but that with chronic use, the steady-state post-distribution serum concentrations are in equilibrium with tissue concentrations and correlate with pharmacologic effects.
 In individual patients, these post-distribution serum concentrations may be useful in evaluating therapeutic and toxic effects (see DOSAGE AND ADMINISTRATION: Serum Digoxin Concentrations).
 
@@ -51,7 +51,7 @@ Serum digoxin concentrations are not significantly altered by large changes in f
 ## Metabolism
 
 Only a small percentage (16%) of a dose of digoxin is metabolized.
-The end metabolites, which include 3β-digoxigenin; 3-keto-digoxigenin, and their glucuronide and sulfate conjugates, are polar in nature and are postulated to be formed via hydrolysis, oxidation, and conjugation.
+The end metabolites, which include 3β-digoxigenin, 3-keto-digoxigenin, and their glucuronide and sulfate conjugates, are polar in nature and are postulated to be formed via hydrolysis, oxidation, and conjugation.
 The metabolism of digoxin is not dependent upon the cytochrome P-450 system, and digoxin is not known to induce or inhibit the cytochrome P-450 system.
 
 ## Excretion
@@ -70,13 +70,13 @@ Because digoxin is primarily eliminated as unchanged drug via the kidney and bec
 
 The clearance of digoxin can be primarily correlated with renal function as indicated by creatinine clearance.
 The Cockcroft and Gault formula for estimation of creatinine clearance includes age, body weight, and gender.
-Table 5 that provides the usual daily maintenance dose requirements of Digoxin Tablets based on creatinine clearance (per 70 kg) is presented in the DOSAGE AND ADMINISTRATION section.
+Table 5 that provides the usual daily maintenance dose requirements of digoxin tablets based on creatinine clearance (per 70 kg) is presented in the DOSAGE AND ADMINISTRATION section.
 
 Plasma digoxin concentration profiles in patients with acute hepatitis generally fell within the range of profiles in a group of healthy subjects.
 
 ## Pharmacodynamic and Clinical Effects
 
-The times to onset of pharmacologic effect and to peak effect of preparations of Digoxin Tablets are shown in Table 2.
+The times to onset of pharmacologic effect and to peak effect of preparations of digoxin tablets are shown in Table 2.
 
 Table 2: Times to Onset of Pharmacologic Effect and to Peak Effect of Preparations of Digoxin Tablets
 
@@ -96,20 +96,20 @@ These hemodynamic effects are accompanied by an increase in the left ventricular
 
 ## Chronic Heart Failure
 
-Two 12-week, double-blind placebo-controlled studies enrolled 178 (RADIANCE trial) and 88 (PROVED trial) patients with NYHA class II or III heart failure previously treated with digoxin, a diuretic, and an ACE inhibitor (RADIANCE only) and randomized them to placebo or treatment with Digoxin Tablets.
-Both trials demonstrated better preservation of exercise capacity in patients randomized to Digoxin Tablets.
-Continued treatment with Digoxin Tablets reduced the risk of developing worsening heart failure, as evidenced by heart failure-related hospitalizations and emergency care and the need for concomitant heart failure therapy.
+Two 12-week, double-blind placebo-controlled studies enrolled 178 (RADIANCE trial) and 88 (PROVED trial) patients with NYHA class II or III heart failure previously treated with digoxin, a diuretic, and an ACE inhibitor (RADIANCE only) and randomized them to placebo or treatment with digoxin tablets.
+Both trials demonstrated better preservation of exercise capacity in patients randomized to digoxin tablets.
+Continued treatment with digoxin tablets reduced the risk of developing worsening heart failure, as evidenced by heart failure-related hospitalizations and emergency care and the need for concomitant heart failure therapy.
 The larger study also showed treatment-related benefits in NYHA class and patients' global assessment.
 In the smaller trial, these trended in favor of a treatment benefit.
 
 The Digitalis Investigation Group (DIG) main trial was a multicenter, randomized, double-blind, placebo-controlled mortality study of 6801 patients with heart failure and left ventricular ejection fraction ≤0.45.
-At randomization 67% were NYHA class I or II, 71% had heart failure of ischemic etiology, 44% had been receiving digoxin, and most were receiving concomitant ACE inhibitor (94%) and diuretic (82%).
-Patients were randomized to placebo or Digoxin Tablets, the dose of which was adjusted for the patient's age, sex, lean body weight, and serum creatinine (see DOSAGE AND ADMINISTRATION), and followed for up to 58 months (median 37 months).
+At randomization, 67% were NYHA class I or II, 71% had heart failure of ischemic etiology, 44% had been receiving digoxin, and most were receiving concomitant ACE inhibitor (94%) and diuretic (82%).
+Patients were randomized to placebo or digoxin tablets, the dose of which was adjusted for the patient's age, sex, lean body weight, and serum creatinine (see DOSAGE AND ADMINISTRATION), and followed for up to 58 months (median 37 months).
 The median daily dose prescribed was 0.25 mg.
 Overall all-cause mortality was 35% with no difference between groups (95% confidence limits for relative risk of 0.91 to 1.07).
 Digoxin was associated with a 25% reduction in the number of hospitalizations for heart failure, a 28% reduction in the risk of a patient having at least one hospitalization for heart failure, and a 6.5% reduction in total hospitalizations (for any cause).
 
-Use of Digoxin Tablets was associated with a trend to increase in time to all-cause death or hospitalization.
+Use of digoxin tablets was associated with a trend to increase in time to all-cause death or hospitalization.
 The trend was evident in subgroups of patients with mild heart failure as well as more severe disease, as shown in Table 3.
 Although the effect on all-cause death or hospitalization was not statistically significant, much of the apparent benefit derived from effects on mortality and hospitalization attributed to heart failure.
 
