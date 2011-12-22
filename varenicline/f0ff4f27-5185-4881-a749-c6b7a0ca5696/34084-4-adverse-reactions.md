@@ -163,7 +163,7 @@ In the trial of patients with stable cardiovascular disease, more types and a gr
 Treatment-emergent (on-treatment or 30 days after treatment) cardiovascular events reported with a frequency ≥ 1% in either treatment group in this study were angina pectoris (3.7% and 2.0% for varenicline and placebo, respectively), chest pain (2.5% vs. 2.3%), peripheral edema (2.0% vs. 1.1%), hypertension (1.4% vs. 2.6%), and palpitations (0.6 % vs. 1.1%).
 Deaths and serious cardiovascular events occurring over the 52 weeks of the study (treatment emergent and non-treatment emergent) were adjudicated by a blinded, independent committee.
 The following treatment-emergent adjudicated events occurred with a frequency ≥1% in either treatment group: nonfatal MI (1.1% vs. 0.3% for varenicline and placebo, respectively), and hospitalization for angina pectoris (0.6% vs. 1.1%).
-During non-treatment follow up to 52 weeks, the adjudicated events included need for coronary revascularization (2.0% vs. 0.6%), hospitalization for angina pectoris (1.7% vs. 1.1%), and new diagnosis of peripheral vascular disease (PVD) or admission for a PVD procedure (1.1% vs. 0.6%).
+During non-treatment follow up to 52 weeks, the adjudicated events included need for coronary revascularization (2.0% vs. 0.6%), hospitalization for angina pectoris (1.7% vs. 1.1%), and new diagnosis of peripheral vascular disease (PVD) or admission for a PVD procedure (1.4% vs. 0.6%).
 Some of the patients requiring coronary revascularization underwent the procedure as part of management of nonfatal MI and hospitalization for angina.
 Cardiovascular death occurred in 0.3% of patients in the varenicline arm and 0.6% of patients in the placebo arm over the course of the 52-week study.
 
