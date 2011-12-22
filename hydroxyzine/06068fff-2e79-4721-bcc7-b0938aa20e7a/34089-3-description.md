@@ -1,12 +1,13 @@
 # DESCRIPTION
 
-Hydroxyzine pamoate is designated chemically as 1-(p-chlorobenzhydryl) 4-[2-(2-hydroxyethoxy) ethyl] diethylenediamine salt of 1,1'-methylene bis (2 hydroxy-3-naphthalene carboxylic acid) and can be structurally represented as follows:
+Hydroxyzine pamoate is designated chemically as 1-(p-chlorobenzhydryl) 4-[2-(2-hydroxyethoxy) ethyl] diethylenediamine salt of 1,1'-methylene bis (2 hydroxy-3-naphthalene carboxylic acid).
+It has the following structural formula:
 
-Hydroxyzine Pamoate Capsules USP are administered in doses equivalent to 25 mg, 50 mg or 100 mg of hydroxyzine HCl.
+C21H27ClN2O2•C23H16O6 M.W.
+763.27
 
-## Inactive Ingredients
-
-Croscarmellose sodium, magnesium stearate, and pregelatinized starch.
+Hydroxyzine Pamoate Capsules USP are administered in doses equivalent to 25 mg, 50 mg or 100 mg of hydroxyzine hydrochloride.
+In addition, each capsule contains the following inactive ingredients: croscarmellose sodium, magnesium stearate, and pregelatinized starch.
 The 25 mg also contains anhydrous lactose.
 The 50 mg and 100 mg also contain lactose monohydrate.
 

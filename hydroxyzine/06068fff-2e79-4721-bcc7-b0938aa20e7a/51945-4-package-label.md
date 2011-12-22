@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-## HydrOXYzine PAMOATE Capsules USP 25 mg 100s Label Text
+## HydrOXYzine Pamoate Capsules USP 25 mg 100s Label Text
 
 NDC 0555-0323-02
 
@@ -20,7 +20,7 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## HydrOXYzine PAMOATE Capsules USP 50 mg 100s Label Text
+## HydrOXYzine Pamoate Capsules USP 50 mg 100s Label Text
 
 NDC 0555-0302-02
 
@@ -40,7 +40,7 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## HydrOXYzine PAMOATE CAPSULES USP 100 mg 100s Label Text
+## HydrOXYzine Pamoate Capsules USP 100 mg 100s Label Text
 
 NDC 0555-0324-02
 

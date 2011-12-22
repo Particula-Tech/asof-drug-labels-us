@@ -16,7 +16,6 @@ Patients should be advised against the simultaneous use of other CNS depressant 
 
 A determination has not been made whether controlled clinical studies of hydroxyzine pamoate included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy.
 
 The extent of renal excretion of hydroxyzine pamoate has not been determined.

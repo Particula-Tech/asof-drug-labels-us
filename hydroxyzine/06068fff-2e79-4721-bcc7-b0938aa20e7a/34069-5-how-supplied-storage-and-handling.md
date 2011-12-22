@@ -1,11 +1,10 @@
 # HOW SUPPLIED
 
-Hydroxyzine Pamoate Capsules USP (hydroxyzine pamoate equivalent to hydroxyzine hydrochloride) are available as:
+Hydroxyzine Pamoate Capsules USP (hydroxyzine pamoate equivalent to hydroxyzine hydrochloride), 25 mg are available as light yellow opaque cap and pink opaque body filled with yellow powder, imprinted in black ink stylized “barr” over “323” on one piece and 25 on the other piece, packaged in bottles of 100 and 500 capsules.
 
-| 25 mg: | Light yellow opaque cap and pink opaque body filled with yellow powder. Imprinted in black ink stylized barr over 323 on one piece and 25 on the other piece. Available in bottles of 100 and 500. |
-| --- | --- |
-| 50 mg: | Light yellow opaque cap and maroon opaque body filled with yellow powder. Imprinted in black ink stylized barr over 302 on one piece and 50 on the other piece. Available in bottles of 100 and 500. |
-| 100 mg: | Light yellow opaque cap and pink opaque body filled with yellow powder. Imprinted in black ink stylized barr over 324 on one piece and 100 on the other piece. Available in bottles of 100. |
+Hydroxyzine Pamoate Capsules USP (hydroxyzine pamoate equivalent to hydroxyzine hydrochloride), 50 mg are available as light yellow opaque cap and maroon opaque body filled with yellow powder, imprinted in black ink stylized “barr” over “302” on one piece and 50 on the other piece, packaged in bottles of 100 and 500 capsules.
+
+Hydroxyzine Pamoate Capsules USP (hydroxyzine pamoate equivalent to hydroxyzine hydrochloride), 100 mg are available as light yellow opaque cap and pink opaque body filled with yellow powder, imprinted in black ink stylized “barr” over “324” on one piece and 100 on the other piece, packaged in bottles of 100 capsules.
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
@@ -17,7 +16,5 @@ TEVA PHARMACEUTICALS USA
 
 Sellersville, PA 18960
 
-11001678
-
-Iss.
-6/2010
+Rev.
+A 5/2011
