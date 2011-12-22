@@ -12,13 +12,13 @@ LATUDA should not be used in combination with strong inhibitors or inducers of t
 
 Table 9: Summary of Effect of Coadministered Drugs on Exposure to LATUDA in Healthy Subjects or Patients with Schizophrenia
 
-| Coadministered drug | Dose schedule |  | Effect on LATUDA pharmacokinetics |  | Recommendation |
+| Coadministered drug | LATUDA | Cmax | AUC |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Coadministered drug | LATUDA | Cmax | AUC |  |
+| Coadministered drug | Dose schedule |  | Effect on LATUDA pharmacokinetics |  | Recommendation |
 | Ketoconazole (strong CYP3A4 inhibitor) | 400 mg/day for 5 days | 10 mg single dose | 6.9-times LATUDA alone | 9-times LATUDA alone | Should not be coadministered with LATUDA |
-| Diltiazem (moderate CYP3A4 inhibitor) | 240 mg/ day for 5 days | 20 mg single dose | 2.1- times LATUDA alone | 2.2- times LATUDA alone | LATUDA dose should not exceed 40 mg/day if coadministered |
+| Diltiazem (moderate CYP3A4 inhibitor) | 240 mg/day for 5 days | 20 mg single dose | 2.1-times LATUDA alone | 2.2-times LATUDA alone | LATUDA dose should not exceed 40 mg/day if coadministered |
 | Rifampin (strong CYP3A4 inducer) | 600 mg/day for 8 days | 40 mg single dose | 1/7th of LATUDA alone | 1/5th of LATUDA alone | Should not be coadministered with LATUDA |
-| Lithium | 600 mg BID for 8 days | 120 mg/day for 8 days | 0.9-times LATUDA alone | 1.1- times LATUDA alone | No LATUDA dose adjustment required. |
+| Lithium | 600 mg BID for 8 days | 120 mg/day for 8 days | 0.9-times LATUDA alone | 1.1-times LATUDA alone | No LATUDA dose adjustment required. |
 
 ## 7.2. Potential for LATUDA to Affect Other Drugs
 

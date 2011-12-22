@@ -7,7 +7,7 @@ It has been suggested that the efficacy of lurasidone in schizophrenia is mediat
 
 ## 12.2. Pharmacodynamics
 
-In vitro receptor binding studies revealed that lurasidone is an antagonist with high affinity at dopamine D2 receptors (Ki = 0.994 nM) and the 5-hydroxytryptamine (5-HT, serotonin) receptors 5-HT2A (Ki = 0.47 nM) and 5-HT7 (Ki = 0.495 nM), is an antagonist with moderate affinity at human α2C adrenergic receptors (Ki = 10.8 nM), is a partial agonist at serotonin 5-HT1A (Ki = 6.38 nM) receptors, and is an antagonist at α2A adrenergic receptors (Ki = 40.7 nM).
+In vitro receptor binding studies revealed that lurasidone is an antagonist with high affinity at dopamine D2 receptors (Ki=0.994 nM) and the 5-hydroxytryptamine (5-HT, serotonin) receptors 5-HT2A (Ki=0.47 nM) and 5-HT7 (Ki=0.495 nM), is an antagonist with moderate affinity at human α2C adrenergic receptors (Ki=10.8 nM), is a partial agonist at serotonin 5-HT1A (Ki=6.38 nM) receptors, and is an antagonist at α2A adrenergic receptors (Ki=40.7 nM).
 Lurasidone exhibits little or no affinity for histamine H1 and muscarinic M1 receptors (IC50 ≥ 1,000 nM and > 1,000 nM, respectively).
 
 ## 12.3. Pharmacokinetics

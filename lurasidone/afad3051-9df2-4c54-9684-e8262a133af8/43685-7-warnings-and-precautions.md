@@ -18,7 +18,7 @@ Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental
 Additional signs may include elevated creatinine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
 
 The diagnostic evaluation of patients with this syndrome is complicated.
-It is important to exclude cases where the clinical presentation includes both serious medical illness (e.g. pneumonia, systemic infection) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
+It is important to exclude cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
 Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever, and primary central nervous system pathology.
 
 The management of NMS should include: 1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy; 2) intensive symptomatic treatment and medical monitoring; and 3) treatment of any concomitant serious medical problems for which specific treatments are available.
@@ -29,7 +29,7 @@ If reintroduced, the patient should be carefully monitored, since recurrences of
 
 ## 5.4. Tardive Dyskinesia
 
-Tardive Dyskinesia is a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements that can develop in patients treated with antipsychotic drugs.
+Tardive dyskinesia is a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements that can develop in patients treated with antipsychotic drugs.
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
@@ -79,7 +79,8 @@ Table 2: Change in Fasting Glucose
 | Serum Glucose | -0.7 | -0.6 | 2.5 | -0.9 | 2.5 |
 | Proportion of Patients with Shifts to ≥ 126 mg/dL |  |  |  |  |  |
 | Serum Glucose (≥ 126 mg/dL) | 8.6% (34/397) | 11.7% (7/60) | 14.3% (47/328) | 10.0% (24/241) | 10.0% (26/260) |
-| In the uncontrolled, longer-term studies (primarily open-label extension studies), LATUDA was associated with a mean change in glucose of +1.6 mg/dL at week 24 (n = 186), +0.3 mg/dL at week 36 (n = 236) and +1.2 mg/dL at week 52 (n = 244). |  |  |  |  |  |
+
+In the uncontrolled, longer-term studies (primarily open-label extension studies), LATUDA was associated with a mean change in glucose of +1.6 mg/dL at week 24 (n=186), +0.3 mg/dL at week 36 (n=236) and +1.2 mg/dL at week 52 (n=244).
 
 Dyslipidemia
 
@@ -88,17 +89,17 @@ Pooled data from short-term, placebo-controlled studies are presented in Table 3
 
 Table 3: Change in Fasting Lipids
 
-|  | n=418 | n=71 | n=341 | n=263 | n=268 |
-| --- | --- | --- | --- | --- | --- |
 |  | Placebo | LATUDA 20 mg/day | LATUDA 40 mg/day | LATUDA 80 mg/day | LATUDA 120 mg/day |
+| --- | --- | --- | --- | --- | --- |
 | Mean Change from Baseline (mg/dL) |  |  |  |  |  |
+|  | n=418 | n=71 | n=341 | n=263 | n=268 |
 | Total cholesterol | -8.5 | -12.3 | -9.4 | -9.8 | -3.8 |
 | Triglycerides | -15.7 | -29.1 | -6.2 | -14.2 | -3.1 |
 | Proportion of Patients with Shifts |  |  |  |  |  |
-| Total Cholesterol (≥ 240 mg/dL) | 6.6% (23/350) | 13.8% (8/58) | 7.3% (21/287) | 6.9% (15/216) | 3.8% (9/238) |
+| Total cholesterol (≥ 240 mg/dL) | 6.6% (23/350) | 13.8% (8/58) | 7.3% (21/287) | 6.9% (15/216) | 3.8% (9/238) |
 | Triglycerides (≥ 200 mg/dL) | 12.5% (39/312) | 14.3% (7/49) | 14.0% (37/264) | 8.7% (17/196) | 10.5% (22/209) |
 
-In the uncontrolled, longer-term studies (primarily open-label extension studies), LATUDA was associated with a mean change in total cholesterol and triglycerides of -4.2 (n=186) and -13.6 (n=187) mg/dL at week 24, -1.9 (n = 238) and -3.5 (n = 238) mg/dL at week 36 and -3.6 (n=243) and -6.5 (n=243) mg/dL at week 52, respectively.
+In the uncontrolled, longer-term studies (primarily open-label extension studies), LATUDA was associated with a mean change in total cholesterol and triglycerides of -4.2 (n=186) and -13.6 (n=187) mg/dL at week 24, -1.9 (n=238) and -3.5 (n=238) mg/dL at week 36 and -3.6 (n=243) and -6.5 (n=243) mg/dL at week 52, respectively.
 
 Weight Gain
 
@@ -107,16 +108,16 @@ Clinical monitoring of weight is recommended.
 
 Pooled data from short-term, placebo-controlled studies are presented in Table 4.
 The mean weight gain was 0.75 kg for LATUDA-treated patients compared to 0.26 kg for placebo-treated patients.
-In study 3 [see Clinical Studies (14.1)] change in weight from baseline for olanzapine was 4.15 kg.
+In Study 3 [see Clinical Studies (14.1)] change in weight from baseline for olanzapine was 4.15 kg.
 The proportion of patients with a ≥ 7% increase in body weight (at Endpoint) was 5.6% for LATUDA-treated patients versus 4.0% for placebo-treated patients.
 
 Table 4: Mean Change in Weight (kg) from Baseline
 
-|  | Placebo (n=450) | LATUDA 20 mg/day (n=71) | LATUDA 40 mg/day (n= 358) | LATUDA 80 mg/day (n= 279) | LATUDA 120 mg/day (n=291) |
+|  | Placebo (n=450) | LATUDA 20 mg/day (n=71) | LATUDA 40 mg/day (n=358) | LATUDA 80 mg/day (n=279) | LATUDA 120 mg/day (n=291) |
 | --- | --- | --- | --- | --- | --- |
 | All Patients | 0.26 | -0.15 | 0.67 | 1.14 | 0.68 |
 
-In the uncontrolled, longer-term studies (primarily open-label extension studies), LATUDA was associated with a mean change in weight of -0.38 kg at week 24 (n = 531), -0.47 kg at week 36 (n = 303) and -0.71 kg at week 52 (n = 244).
+In the uncontrolled, longer-term studies (primarily open-label extension studies), LATUDA was associated with a mean change in weight of -0.38 kg at week 24 (n=531), -0.47 kg at week 36 (n=303) and -0.71 kg at week 52 (n=244).
 
 ## 5.6. Hyperprolactinemia
 
@@ -127,7 +128,7 @@ This, in turn, may inhibit reproductive function by impairing gonadal steroidoge
 Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with prolactin-elevating compounds.
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male patients [see Adverse Reactions (6)].
 
-In short-term placebo-controlled studies, the median change from baseline to endpoint in prolactin levels for LATUDA-treated patients was 1.1 ng/mL and was - 0.6 ng/mL in the placebo-treated patients.
+In short-term, placebo-controlled studies, the median change from baseline to endpoint in prolactin levels for LATUDA-treated patients was 1.1 ng/mL and was - 0.6 ng/mL in the placebo-treated patients.
 The increase in prolactin was greater in female patients; the median change from baseline to endpoint for females was 1.5 ng/mL and was 1.1 ng/mL in males.
 The increase in prolactin concentrations was dose-dependent (Table 5).
 
@@ -143,19 +144,19 @@ The proportion of patients with prolactin elevations ≥ 5× ULN was 3.6% for LA
 The proportion of female patients with prolactin elevations ≥ 5x ULN was 8.3% for LATUDA-treated patients versus 1% for placebo-treated female patients.
 The proportion of male patients with prolactin elevations > 5x ULN was 1.9% versus 0.6% for placebo-treated male patients.
 
-In the uncontrolled longer-term studies (primarily open-label extension studies), LATUDA was associated with a median change in prolactin of -1.9 ng/mL at week 24 (n = 188), -5.4 ng/mL at week 36 (n=189) and -3.3 ng/mL at week 52 (n = 243).
+In the uncontrolled longer-term studies (primarily open-label extension studies), LATUDA was associated with a median change in prolactin of -1.9 ng/mL at week 24 (n=188), -5.4 ng/mL at week 36 (n=189) and -3.3 ng/mL at week 52 (n=243).
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in a LATUDA carcinogenicity study conducted in rats and mice [see Nonclinical Toxicology (13)].
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
 
-## 5.7. Leukopenia, Neutropenia and Agranulocytosis
+## 5.7 Leukopenia, Neutropenia and Agranulocytosis
 
 Leukopenia/neutropenia has been reported during treatment with antipsychotic agents.
 Agranulocytosis (including fatal cases) has been reported with other agents in the class.
 
-Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia.
-Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and LATUDA should be discontinued at the first sign of decline in WBC, in the absence of other causative factors.
+Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
+Patients with a pre-existing low WBC or a history of drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and LATUDA should be discontinued at the first sign of decline in WBC, in the absence of other causative factors.
 
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count < 1000/mm3) should discontinue LATUDA and have their WBC followed until recovery.
@@ -163,7 +164,7 @@ Patients with severe neutropenia (absolute neutrophil count < 1000/mm3) should d
 ## 5.8. Orthostatic Hypotension and Syncope
 
 LATUDA may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
-The incidence of orthostatic hypotension and syncope events from short-term, placebo-controlled studies was (LATUDA incidence, placebo incidence): orthostatic hypotension [0.4% (4/1004), 0.2 % (1/455)] and syncope [< 0.1% (1/1004), 0%].
+The incidence of orthostatic hypotension and syncope events from short-term, placebo-controlled studies was (LATUDA incidence, placebo incidence): orthostatic hypotension [0.4% (4/1004), 0.2% (1/455)] and syncope [< 0.1% (1/1004), 0%].
 Assessment of orthostatic hypotension defined by vital sign changes (≥ 20 mm Hg decrease in systolic blood pressure and ≥ 10 bpm increase in pulse from sitting to standing or supine to standing positions).
 In short-term clinical trials orthostatic hypotension occurred with a frequency of 0.8% with LATUDA 40 mg, 1.4% with LATUDA 80 mg and 1.7% with LATUDA 120 mg compared to 0.9% with placebo.
 
@@ -175,7 +176,7 @@ Monitoring of orthostatic vital signs should be considered in patients who are v
 As with other antipsychotic drugs, LATUDA should be used cautiously in patients with a history of seizures or with conditions that lower the seizure threshold, e.g., Alzheimer's dementia.
 Conditions that lower the seizure threshold may be more prevalent in patients 65 years or older.
 
-In short-term placebo-controlled trials, seizures/convulsions occurred in < 0.1% (1/1004) of patients treated with LATUDA compared to 0.2% (1/455) placebo-treated patients.
+In short-term, placebo-controlled trials, seizures/convulsions occurred in < 0.1% (1/1004) of patients treated with LATUDA compared to 0.2% (1/455) placebo-treated patients.
 
 ## 5.10. Potential for Cognitive and Motor Impairment
 
@@ -197,7 +198,7 @@ Appropriate care is advised when prescribing LATUDA for patients who will be exp
 The possibility of a suicide attempt is inherent in psychotic illness and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for LATUDA should be written for the smallest quantity of tablets consistent with good patient management in order to reduce the risk of overdose.
 
-In short-term, placebo-controlled studies in patients with schizophrenia, the incidence of treatment-emergent suicidal ideation was 0.6% (6/1004) for LATUDA treated patients compared to 0.4% (2/455) on placebo.
+In short-term, placebo-controlled studies in patients with schizophrenia, the incidence of treatment-emergent suicidal ideation was 0.6% (6/1004) for LATUDA-treated patients compared to 0.4% (2/455) on placebo.
 No suicide attempts or completed suicides were reported in these studies.
 
 ## 5.13. Dysphagia

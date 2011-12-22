@@ -49,7 +49,7 @@ LATUDA is not approved for the treatment of patients with dementia-related psych
 
 It is recommended that LATUDA dose should not exceed 40 mg/day in patients with moderate and severe renal impairment (Clcr ≥ 10 mL/min to < 50 mL/min).
 
-After administration of a single dose of 40 mg LATUDA to patients with mild, moderate and severe renal impairment, mean Cmax increased by 40%, 92% and 54%, respectively and mean AUC(0-∞) increased by 53%, 91% and 2- times, respectively compared to healthy matched subjects.
+After administration of a single dose of 40 mg LATUDA to patients with mild, moderate and severe renal impairment, mean Cmax increased by 40%, 92% and 54%, respectively and mean AUC(0-∞) increased by 53%, 91% and 2-times, respectively compared to healthy matched subjects.
 
 ## 8.7. Hepatic Impairment
 

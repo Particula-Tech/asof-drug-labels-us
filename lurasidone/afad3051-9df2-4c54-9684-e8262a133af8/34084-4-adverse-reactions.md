@@ -20,7 +20,7 @@ The following adverse reactions are discussed in more detail in other sections o
 - Use in Patients with Concomitant Illness [see Warnings and Precautions (5.14)]
 
 The information below is derived from a clinical study database for LATUDA consisting of over 2096 patients with schizophrenia exposed to one or more doses with a total experience of 624 patient-years.
-Of these patients, 1004 participated in short-term placebo-controlled schizophrenia studies with doses of 20 mg, 40 mg, 80 mg or 120 mg once daily.
+Of these patients, 1004 participated in short-term, placebo-controlled schizophrenia studies with doses of 20 mg, 40 mg, 80 mg or 120 mg once daily.
 A total of 533 LATUDA-treated patients had at least 24 weeks and 238 LATUDA-treated patients had at least 52 weeks of exposure.
 
 Adverse events during exposure to study treatment were obtained by general inquiry and voluntarily reported adverse experiences, as well as results from physical examinations, vital signs, ECGs, weights and laboratory investigations.
@@ -39,26 +39,25 @@ The cited figures, however, do provide the prescriber with some basis for estima
 
 ## 6.2. Clinical Studies Experience
 
-The following findings are based on the short-term placebo-controlled premarketing studies for schizophrenia in which LATUDA was administered at daily doses ranging from 20 to 120 mg (n = 1004).
+The following findings are based on the short-term, placebo-controlled premarketing studies for schizophrenia in which LATUDA was administered at daily doses ranging from 20 to 120 mg (n=1004).
 
 Commonly Observed Adverse Reactions: The most common adverse reactions (incidence ≥ 5% and at least twice the rate of placebo) in patients treated with LATUDA were somnolence, akathisia, nausea, parkinsonism and agitation.
 
 Adverse Reactions Associated with Discontinuation of Treatment: A total of 9.4% (94/1004) LATUDA-treated patients and 5.9% (27/455) of placebo-treated patients discontinued due to adverse reactions.
 There were no adverse reactions associated with discontinuation in subjects treated with LATUDA that were at least 2% and at least twice the placebo rate.
 
-Adverse Reactions Occurring at an Incidence of 2% or More in LATUDA-Treated Patients: Adverse reactions associated with the use of LATUDA (incidence of 2% or greater, rounded to the nearest percent and LATUDA incidence greater than placebo) that occurred during acute therapy (up to 6-weeks in patients with schizophrenia) are shown in Table 6.
+Adverse Reactions Occurring at an Incidence of 2% or More in LATUDA-Treated Patients: Adverse reactions associated with the use of LATUDA (incidence of 2% or greater, rounded to the nearest percent and LATUDA incidence greater than placebo) that occurred during acute therapy (up to 6 weeks in patients with schizophrenia) are shown in Table 6.
 
 Table 6: Adverse Reaction in 2% or More of LATUDA-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in Short-term Schizophrenia Studies
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| Body System or Organ Class | Placebo | All LATUDA |
-| Dictionary-derived Term | (N = 455) | (N = 1004) |
+| Body System or Organ Class Dictionary-derived Term | Placebo (N=455) | All LATUDA (N=1004) |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 6 | 12 |
 | Vomiting | 6 | 8 |
 | Dyspepsia | 6 | 8 |
-| Salivary hypersecretion | <1 | 2 |
+| Salivary Hypersecretion | < 1 | 2 |
 | General Disorders and Administration Site Conditions |  |  |
 | Fatigue | 3 | 4 |
 | Musculoskeletal and Connective Tissue Disorders |  |  |
@@ -81,11 +80,11 @@ Table 6: Adverse Reaction in 2% or More of LATUDA-Treated Patients and That Occu
 
 ## 6.3. Dose-Related Adverse Reactions
 
-Based on the pooled data from the placebo-controlled, short-term, fixed-dose studies, among the adverse reactions that occurred with a greater than 5% incidence in the patients treated with LATUDA, the apparent dose-related adverse reactions were akathisia and somnolence (Table 7).
+Based on the pooled data from the short-term, placebo-controlled, fixed-dose studies, among the adverse reactions that occurred with a greater than 5% incidence in the patients treated with LATUDA, the apparent dose-related adverse reactions were akathisia and somnolence (Table 7).
 
 Table 7: Dose-Related Adverse Events
 
-| Adverse Event Term | Placebo (N = 455) (%) | LATUDA 20 mg/day (N = 71) (%) | LATUDA 40 mg/day (N = 360) (%) | LATUDA 80 mg/day (N = 282) (%) | LATUDA 120 mg/day (N = 291) (%) |
+| Adverse Event Term | Placebo (N=455) (%) | LATUDA 20 mg/day (N=71) (%) | LATUDA 40 mg/day (N=360) (%) | LATUDA 80 mg/day (N=282) (%) | LATUDA 120 mg/day (N=291) (%) |
 | --- | --- | --- | --- | --- | --- |
 |  | Percentage of Subjects Reporting Reaction |  |  |  |  |
 | Akathisia | 3 | 6 | 11 | 15 | 22 |
@@ -99,10 +98,10 @@ Akathisia appeared to be dose-related and the greatest frequency of parkinsonism
 
 Table 8: Percentage of EPS Compared to Placebo
 
-| All EPS events, excluding Akathisia/Restlessness | 5 | 6 | 13 | 11 | 22 |
+| Adverse Event Term | Placebo (N=455) (%) | LATUDA 20 mg/day (N=71) (%) | LATUDA 40 mg/day (N=360) (%) | LATUDA 80 mg/day (N=282) (%) | LATUDA 120 mg/day (N=291) (%) |
 | --- | --- | --- | --- | --- | --- |
-| Adverse Event Term | Placebo (N = 455) (%) | LATUDA 20 mg/day (N = 71) (%) | LATUDA 40 mg/day (N = 360) (%) | LATUDA 80 mg/day (N = 282) (%) | LATUDA 120 mg/day (N = 291) (%) |
 | All EPS events | 9 | 10 | 24 | 26 | 39 |
+| All EPS events, excluding Akathisia/Restlessness | 5 | 6 | 13 | 11 | 22 |
 | Akathisia | 3 | 6 | 11 | 15 | 22 |
 | Dystonia* | 1 | 0 | 4 | 5 | 7 |
 | Parkinsonism** | 5 | 6 | 10 | 7 | 17 |
@@ -129,13 +128,13 @@ Seven subjects (0.7%, 7/1004) discontinued clinical trials due to dystonic event
 
 Laboratory Test Abnormalities
 
-In a between-group comparison of the pooled data from short-term, placebo-controlled studies, there were no clinically important changes in total cholesterol measurements; triglycerides or glucose from Baseline to Endpoint [see Warnings and Precautions (5.5)].
+In a between-group comparison of the pooled data from short-term, placebo-controlled studies, there were no clinically important changes in total cholesterol measurements; triglycerides or glucose from Baseline to Endpoint [see Warnings and Precautions (5.6)].
 There were also no clinically important differences between LATUDA and placebo in mean change from baseline to endpoint in routine hematology, urinalysis, or serum chemistry.
-LATUDA was associated with a dose-related increase in prolactin concentration [see Warnings and Precautions (5.6)]
+LATUDA was associated with a dose-related increase in prolactin concentration [see Warnings and Precautions (5.6)].
 
 Creatinine: In short-term, placebo-controlled trials, the mean change from Baseline in creatinine was 0.06 mg/dL for LATUDA-treated patients compared to 0.03 mg/dL for placebo-treated patients.
 A creatinine shift from normal to high occurred in 3.1% (30/977) of LATUDA-treated patients and 1.4% (6/439) on placebo.
-The threshold for high creatinine value varied from ≥ 1.1 to ≥ 1.3 mg/dL based on the centralized laboratory definition for each study [see Dosage in Special Population (2.3); Use in Specific Populations (8)].
+The threshold for high creatinine value varied from ≥ 1.1 to ≥ 1.3 mg/dL based on the centralized laboratory definition for each study [see Dosage in Special Populations (2.3); Use in Specific Populations (8)].
 
 Transaminases: The mean changes in AST and ALT for LATUDA- and placebo-treated patients were similar.
 The proportion of patients with transaminases (AST and ALT) elevations ≥ 3 times ULN was similar for all LATUDA-treated patients (0.8% and 0.8%, respectively) to placebo-treated patients (0.9% and 1.1%, respectively).
@@ -145,7 +144,7 @@ ECG Changes
 Electrocardiogram (ECG) measurements were taken at various time points during the LATUDA clinical trial program.
 No post-baseline QT prolongations exceeding 500 msec were reported in patients treated with LATUDA.
 Within a subset of patients defined as having an increased cardiac risk, no potentially important changes in ECG parameters were observed.
-No cases of torsade de pointes or other severe cardiac arrhythmias were observed in the pre-marketing clinical program.
+No cases of torsade de pointes or other severe cardiac arrhythmias were observed in the premarketing clinical program.
 
 The effects of LATUDA on the QT/QTc interval were evaluated in a dedicated QT study involving 87 clinically stable patients with schizophrenia or schizoaffective disorder, who were treated with LATUDA doses of 120 mg daily, 600 mg daily, or ziprasidone 160 mg daily.
 Holter monitor-derived electrocardiographic assessments were obtained over an eight hour period at baseline and steady state.
@@ -166,11 +165,11 @@ Cardiac Disorders: Frequent: tachycardia; Infrequent: AV block 1st degree, angin
 
 Ear and Labyrinth Disorders: Infrequent: vertigo
 
-Eye disorders: Frequent: blurred vision
+Eye Disorders: Frequent: blurred vision
 
 Gastrointestinal Disorders: Frequent: abdominal pain, diarrhea; Infrequent: gastritis, dysphagia
 
-General Disorders and Administrative Site Conditions: Rare: Sudden death
+General Disorders and Administrative Site Conditions: Rare: sudden death
 
 Investigations: Frequent: CPK increased
 

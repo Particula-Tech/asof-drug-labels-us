@@ -1,6 +1,6 @@
 # 14. CLINICAL STUDIES
 
-## 14.1. Schizophrenia
+## 14.1 Schizophrenia
 
 The efficacy of LATUDA for the treatment of schizophrenia was established in four short-term (6-week), placebo-controlled studies in adult patients (mean age of 38.8 years, range 18-72) who met DSM-IV criteria for schizophrenia.
 One study included an active-control arm (olanzapine) to assess assay sensitivity.
@@ -28,14 +28,14 @@ However, the 120 mg dose did not appear to add additional benefit over the 40 mg
 
 Table 10: Summary of Results for Primary Efficacy Endpoints
 
-| Study Number | Primary Endpoint | LS Mean (SE)a Difference from Placebo in Change from Baseline |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
 |  |  | LATUDA 40 mg/day | LATUDA 80 mg/day | LATUDA 120 mg/day | Olanzapine 15 mg/day |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Study Number | Primary Endpoint | LS Mean (SE)a Difference from Placebo in Change from Baseline |  |  |  |  |
 | 1 | BPRSd | -5.6* (2.1) | - | -6.7* (2.2) | - |  |
 | 2 | BPRSd | - | -4.7* (1.8) | - | - |  |
-| 3 | PANSS | -9.7* (2.9) | - | -7.5* (3.0) | -12.6* (2.8) |  |
-| 4 | PANSS | -2.1 (2.5) | -6.4* (2.5) | -3.5 (2.5) | - |  |
-| * adjusted p-value <0.05 (except for olanzapine) |  |  |  |  |  |  |
+| 3 | PANSS | -9.7 * (2.9) | - | -7.5 * (3.0) | -12.6 * (2.8) |  |
+| 4 | PANSS | -2.1 (2.5) | -6.4 * (2.5) | -3.5 (2.5) | - |  |
+| * adjusted p-value < 0.05 (except for olanzapine) |  |  |  |  |  |  |
 | a Least Squares Mean (Standard Error) |  |  |  |  |  |  |
 
 Examination of population subgroups based on age (there were few patients over 65), gender and race did not reveal any clear evidence of differential responsiveness.

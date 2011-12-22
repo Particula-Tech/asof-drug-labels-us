@@ -13,7 +13,7 @@ There is no specific antidote to LATUDA, therefore, appropriate supportive measu
 
 Cardiovascular monitoring should commence immediately, including continuous electrocardiographic monitoring for possible arrhythmias.
 If antiarrhythmic therapy is administered, disopyramide, procainamide, and quinidine carry a theoretical hazard of additive QT-prolonging effects when administered in patients with an acute overdose of LATUDA.
-Similarly the alpha-blocking properties of bretylium might be additive to those of LATUDA, resulting in problematic hypotension.
+Similarly, the alpha-blocking properties of bretylium might be additive to those of LATUDA, resulting in problematic hypotension.
 
 Hypotension and circulatory collapse should be treated with appropriate measures.
 Epinephrine and dopamine should not be used, or other sympathomimetics with beta-agonist activity, since beta stimulation may worsen hypotension in the setting of LATUDA-induced alpha blockade.

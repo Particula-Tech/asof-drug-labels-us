@@ -1,6 +1,6 @@
 # 9. DRUG ABUSE AND DEPENDENCE
 
-## 9.1. Controlled substance
+## 9.1. Controlled Substance
 
 LATUDA is not a controlled substance.
 
