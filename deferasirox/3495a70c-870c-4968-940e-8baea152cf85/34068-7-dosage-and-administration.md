@@ -46,4 +46,4 @@ Hepatic Impairment
 
 Avoid the use of Exjade in patients with severe (Child-Pugh C) hepatic impairment.
 Reduce the starting dose by 50% in patients with moderate (Child-Pugh B) hepatic impairment.
-Closely monitor patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment for efficacy and adverse reactions that may require dose titration [see Warnings and Precautions (5.2), and Use in Specific Populations (8.7).
+Closely monitor patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment for efficacy and adverse reactions that may require dose titration [see Warnings and Precautions (5.2), and Use in Specific Populations (8.7)].
