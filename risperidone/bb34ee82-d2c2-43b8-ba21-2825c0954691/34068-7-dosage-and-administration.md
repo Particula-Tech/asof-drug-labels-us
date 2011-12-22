@@ -85,7 +85,7 @@ A dose increase, or additional oral RISPERDAL®, may need to be considered.
 On discontinuation of carbamazepine or other CYP 3A4 hepatic enzyme inducers, the dosage of RISPERDAL® CONSTA® should be re-evaluated and, if necessary, decreased.
 Patients may be placed on a lower dose of RISPERDAL® CONSTA® between 2 to 4 weeks before the planned discontinuation of carbamazepine or other CYP 3A4 inducers to adjust for the expected increase in plasma concentrations of risperidone plus 9-hydroxyrisperidone.
 For patients treated with the recommended dose of 25 mg RISPERDAL® CONSTA® and discontinuing from carbamazepine or other CYP3A4 enzyme inducers, it is recommended to continue treatment with the 25-mg dose unless clinical judgment necessitates lowering the RISPERDAL® CONSTA® dose to 12.5 mg or necessitates interruption of RISPERDAL® CONSTA® treatment.
-The efficacy of the12.5 mg dose has not been investigated in clinical trials.
+The efficacy of the 12.5 mg dose has not been investigated in clinical trials.
 
 Fluoxetine and paroxetine, CYP 2D6 inhibitors, have been shown to increase the plasma concentration of risperidone 2.5–2.8 fold and 3–9 fold respectively.
 Fluoxetine did not affect the plasma concentration of 9-hydroxyrisperidone.
@@ -103,53 +103,51 @@ The effects of discontinuation of concomitant fluoxetine or paroxetine therapy o
 
 Dose pack components include:
 
-RISPERDAL® CONSTA® must be reconstituted only in the diluent supplied in the dose pack, and must be administered with only the appropriate needle supplied in the dose pack for gluteal (2-inch needle) or deltoid (1-inch needle) administration.
-All components are required for administration.
-Do not substitute any components of the dose pack.
-To assure that the intended dose of risperidone is delivered, the full contents from the vial must be administered.
-Administration of partial contents may not deliver the intended dose of risperidone.
-
-Remove the dose pack of RISPERDAL® CONSTA® from the refrigerator and allow it to come to room temperature prior to reconstitution.
+Remove the dose pack of RISPERDAL® CONSTA® from the refrigerator and allow it to come to room temperature for approximately 30 minutes prior to reconstitution.
 
 1. Flip off the plastic colored cap from the vial.
-2. Peel back the blister pouch and remove the SmartSite® Needle-Free Vial Access Device by holding the white luer cap.
+   Do not remove the grey rubber stopper.
+   Wipe the top of the grey rubber stopper with an alcohol wipe and allow to dry.
+2. Peel back the blister pouch and remove the SmartSite® Needle-Free Vial Access Device by holding between the white luer cap and the skirt.
    Do not touch the spike tip of the access device at any time.
-3. Place vial on a hard surface.
+3. It is very important that the SmartSite® Needle-Free Vial Access Device be placed on the vial correctly or the diluent could leak upon transfer to the vial Place the vial on a hard surface.
    Hold the base of the vial.
-   Orient the SmartSite® Access Device vertically over the vial so that the spike tip is at the center of the vial's rubber stopper.
-   With a straight downward push, press the spike tip of the SmartSite® Access Device through the center of the vial's rubber stopper until the device securely snaps onto the vial top.
-4. Swab the syringe connection point (blue circle) of the SmartSite® Access Device with preferred antiseptic prior to attaching the syringe to the SmartSite® Access Device.
+   Orient the SmartSite® Needle-Free Vial Access Device vertically over the vial so that the spike tip is at the center of the vial's rubber stopper.
+   With a straight downward push, press the spike tip of the SmartSite® Needle-Free Vial Access Device through the center of the vial's rubber stopper until the device securely snaps onto the vial top.
+4. Hold the base of the vial and swab the syringe connection point (blue circle) of the SmartSite® Needle-Free Vial Access Device with an alcohol wipe and allow to dry prior to attaching the syringe to the SmartSite® Needle-Free Vial Access Device.
 5. The prefilled syringe has a white tip consisting of 2 parts: a white collar and a smooth white cap.
-   To open the syringe, hold the syringe by the white collar and snap off the smooth white cap (DO NOT TWIST OFF THE WHITE CAP).
+   To open the syringe, hold the syringe by the white collar and snap off the smooth white cap (DO NOT TWIST OR CUT OFF THE WHITE CAP).
    Remove the white cap together with the rubber tip cap inside.
    For all syringe assembly steps, hold the syringe only by the white collar located at the tip of the syringe.
+   Holding the white collar will help to prevent the white collar from getting detached and ensure a good connection to the syringe.
    Be careful to not overtighten components when assembling.
    Overtightening connections may cause syringe component parts to loosen from the syringe body.
-6. While holding the white collar of the syringe, insert and press the syringe tip into the blue circle of the SmartSite® Access Device and twist in a clockwise motion to secure the connection of the syringe to the SmartSite® Access Device (avoid over-twisting).
-   Hold the skirt of the SmartSite® Access Device during attachment to prevent it from spinning.
-   Keep the syringe and SmartSite® Access Device aligned.
+6. While holding the white collar of the syringe, insert and press the syringe tip into the blue circle of the SmartSite® Needle-Free Vial Access Device and twist in a clockwise motion to secure the connection of the syringe to the SmartSite® Needle-Free Vial Access Device (avoid over-twisting).
+   Hold the skirt of the SmartSite® Needle-Free Vial Access Device during attachment to prevent it from spinning.
+   Keep the syringe and SmartSite® Needle-Free Vial Access Device aligned.
 7. Inject the entire contents of the syringe containing the diluent into the vial.
-8. Shake the vial vigorously while holding the plunger rod down with the thumb for a minimum of 10 seconds to ensure a homogeneous suspension.
+8. Shake the vial VIGOROUSLY while holding the plunger rod down with the thumb for a minimum of 10 seconds to ensure a homogeneous suspension.
    When properly mixed, the suspension appears uniform, thick, and milky in color.
    The microspheres will be visible in liquid, but no dry microspheres remain.
-9. Do not store the vial after reconstitution or the suspension may settle.
-   If 2 minutes pass before injection, re-suspend by shaking vigorously.
-10. Invert the vial completely and slowly withdraw the suspension from the vial into the syringe.
-    Tear section of the vial label at the perforation and apply detached label to syringe for identification purposes.
-11. While holding the white collar of the syringe, unscrew the syringe from the SmartSite® Access Device.
+   DO NOT STORE THE VIAL AFTER RECONSTITUTION OR THE SUSPENSION MAY SETTLE.
+9. Invert the vial completely and SLOWLY withdraw the entire content of the suspension from the vial into the syringe.
+   Tear the section of the vial label at the perforation and apply the detached label to the syringe for identification purposes.
+10. While holding the white collar of the syringe, unscrew the syringe from the SmartSite® Needle-Free Vial Access Device.
     Discard both the vial and vial access device appropriately.
-12. Select the appropriate needle: For GLUTEAL injection, select the 20G TW 2-inch needle (longer needle with yellow colored hub in blister with yellow print) For DELTOID injection, select the 21G UTW 1-inch needle (shorter needle with green colored hub in blister with green print)
-13. Peel the blister pouch of the Needle-Pro® safety device open halfway.
+11. Select the appropriate needle provided with the kit: For GLUTEAL injection, select the 20G TW 2-inch needle (longer needle with yellow colored hub in blister with yellow print) For DELTOID injection, select the 21G UTW 1-inch needle (shorter needle with green colored hub in blister with green print)
+12. Peel the blister pouch of the Needle-Pro® safety device open halfway.
     Grasp the transparent needle sheath using the plastic peel pouch.
-    To prevent contamination, be careful not to touch the orange Needle-Pro® safety device's Luer connector.
-    While holding the white collar of the syringe, attach the Luer connection of the orange Needle-Pro® safety device to the syringe with an easy clockwise twisting motion.
-14. While continuing to hold the white collar of the syringe, grasp the transparent needle sheath and seat the needle firmly on the orange Needle-Pro® safety device with a push and a clockwise twist.
-15. If 2 minutes pass before injection, re-suspend by shaking vigorously.
-16. While holding the white collar of the syringe, pull the transparent needle sheath straight away from the needle.
-    DO NOT TWIST the sheath as the Luer connections may be loosened.
-17. Tap the syringe gently to make any air bubbles rise to the top.
-    Remove air in syringe by depressing the plunger rod while holding the needle in an upright position.
-    Inject the entire contents of the syringe intramuscularly (IM) into the selected gluteal or deltoid muscle of the patient within 2 minutes to avoid settling.
+    To prevent contamination, be careful not to touch the orange Needle-Pro® safety device's luer connector.
+    While holding the white collar of the syringe, attach the luer connection of the orange Needle-Pro® safety device to the syringe with an easy clockwise twisting motion.
+13. While continuing to hold the white collar of the syringe, grasp the transparent needle sheath and seat the needle firmly on the orange Needle-Pro® safety device with a push and a clockwise twist.
+    Seating the needle is an important step to secure the connection between the needle and the orange Needle-Pro® safety device.
+14. RESUSPENSION OF RISPERDAL® CONSTA® WILL BE NECESSARY PRIOR TO ADMINISTRATION, AS SETTLING WILL OCCUR OVER TIME ONCE PRODUCT IS RECONSTITUTED.
+    RESUSPEND THE MICROSPHERES IN THE SYRINGE BY SHAKING VIGOROUSLY.
+15. While holding the white collar of the syringe, pull the transparent needle sheath straight away from the needle.
+    DO NOT TWIST the sheath as the luer connections may be loosened.
+16. Tap the syringe gently to make any air bubbles rise to the top.
+    Remove air in syringe by depressing the plunger rod, carefully and slowly, while holding the needle in an upright position.
+    Inject the entire contents of the syringe intramuscularly (IM) into the selected gluteal or deltoid muscle of the patient immediately.
     Gluteal injection should be made into the upper-outer quadrant of the gluteal area.
     DO NOT ADMINISTER INTRAVENOUSLY.
     WARNING: To avoid a needle stick injury with a contaminated needle:
@@ -157,17 +155,18 @@ Remove the dose pack of RISPERDAL® CONSTA® from the refrigerator and allow it 
     - Do not intentionally disengage the Needle-Pro® safety device.
     - Do not attempt to straighten the needle or engage Needle-Pro® safety device if the needle is bent or damaged.
     - Do not mishandle the Needle-Pro® safety device, as it may cause the needle to protrude from the Needle-Pro® safety device.
-18. After injection is complete, press the needle into the orange Needle-Pro® safety device using a one-handed technique.
-    Perform a one-handed technique by GENTLY pressing the orange Needle-Pro® safety device against a table top or other hard, flat surface.
+17. After the injection is complete, press the needle into the orange Needle-Pro® safety device using a one-handed technique.
+    Perform a one-handed technique by GENTLY pressing the orange Needle-Pro® safety device against a flat surface.
     AS THE ORANGE NEEDLE-PRO® SAFETY DEVICE IS PRESSED, THE NEEDLE WILL FIRMLY ENGAGE INTO THE ORANGE NEEDLE-PRO® SAFETY DEVICE.
     Visually confirm that the needle is fully engaged into the orange Needle-Pro® safety device before discarding.
     Discard needle appropriately.
     Also discard the other (unused) needle provided in the dose pack.
 
-Upon suspension of the microspheres in the diluent, it is recommended to use RISPERDAL® CONSTA® immediately.
-If RISPERDAL® CONSTA® is not administered within 2 minutes of reconstitution, settling of the microspheres will occur and resuspension by shaking is necessary prior to administration.
-Keeping the vial upright, shake vigorously back and forth for as long as it takes to resuspend the microspheres.
-Once in suspension, the product may remain at room temperature (do not expose to temperatures above 77°F (25°C)).
-RISPERDAL® CONSTA® must be used within 6 hours of suspension.
+Stability after reconstitution: Once in suspension, the product may remain at room temperature (do not expose to temperatures above 77°F (25°C)).
+RISPERDAL® CONSTA® must be used within 6 hours of suspension, but should always be resuspended prior to administration if not used immediately.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+
+Do Not Reuse: Medical devices require specific material characteristics to perform as intended.
+These characteristics have been verified for single use only.
+Any attempt to re-process the device for subsequent re-use may adversely affect the integrity of the device or lead to deterioration in performance.
