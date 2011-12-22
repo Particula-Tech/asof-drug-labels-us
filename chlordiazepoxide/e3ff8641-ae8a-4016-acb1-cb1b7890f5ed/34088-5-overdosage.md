@@ -1,7 +1,7 @@
 # OVERDOSAGE
 
 Manifestations of chlordiazepoxide overdosage includes somnolence, confusion, coma and diminished reflexes.
-Respiration, pulse and blood pressure should be monitored, as in all cases of drug overdosage, although, in general, these effects have been minimal following chlordiazepoxide overdosage.
+Respiration, pulse and blood pressure should be monitored, as in all cases of drug overdosage, although, in general, these effects have been minimal following chlordiazepoxide HCl overdosage.
 General supportive measures should be employed, along with immediate gastric lavage.
 Intravenous fluids should be administered and an adequate airway maintained.
 Hypotension may be combated by the use of norepinephrine or metaraminol.
@@ -10,8 +10,8 @@ There have been occasional reports of excitation in patients following chlordiaz
 As with the management of intentional overdosage with any drug, it should be borne in mind that multiple agents may have been ingested.
 
 Flumazenil, a specific benzodiazepine-receptor antagonist, is indicated for the complete or partial reversal of the sedative effects of benzodiazepines and may be used in situations when an overdose with a benzodiazepine is known or suspected.
-Prior to the administration of flumazenil, necessary measures should be instituted to secure airway, ventilation, and intravenous access.
+Prior to the administration of flumazenil, necessary measures should be instituted to secure airway, ventilation and intravenous access.
 Flumazenil is intended as an adjunct to, not as a substitute for, proper management of benzodiazepine overdose.
 Patients treated with flumazenil should be monitored for resedation, respiratory depression and other residual benzodiazepine effects for an appropriate period after treatment.
-The prescriber should be aware of a risk of seizure in association with flumazenil treatment, particularly in long-term benzodiazepine users and in cyclic antidepressant overdose.
-The complete flumazenil package insert, including CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS should be consulted prior to use.
+The prescriber should be aware of a risk of seizure in association with flumazenil treatment, particularly in long term benzodiazepine users and in cyclic antidepressant overdose.
+The complete flumazenil package insert, including CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS, should be consulted prior to use.
