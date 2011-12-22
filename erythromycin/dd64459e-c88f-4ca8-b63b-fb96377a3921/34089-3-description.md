@@ -14,4 +14,4 @@ It is moderately soluble in less polar solvents such as ether, dichloroethylene 
 It is slightly soluble in nonpolar solvents such as hexane.
 It is very poorly soluble in water.
 
-Each gram of Erythromycin Topical Gel USP, 2% contains 20 mg of erythromycin, USP in a vehicle consisting of alcohol (95% w/w, denatured with tert-butyl alcohol and denatonium benzoate) and hydroxypropyl cellulose.
+Each gram of Erythromycin Topical Gel USP, 2% contains 20 mg of erythromycin USP in a vehicle consisting of dehydrated alcohol and hydroxypropyl cellulose.
