@@ -15,6 +15,9 @@ Mean bioavailability parameters were AUC0-t 9±19 ng/hr/mL (mean±SD) with a Cma
 In comparison, a single oral 75 mg dose of diclofenac (Voltaren®)† produced an AUC of 1600 ng/hr/mL.
 Therefore, the systemic bioavailability after topical application of Solaraze® is lower than after oral dosing.
 
+Comparative bioavailability studies have not been conducted between available diclofenac topical products (gels containing 1 - 3% diclofenac) which have different dosing regimens.
+A cross-study evaluation of the data indicates that diclofenac is more bioavailable when applied to diseased skin and less bioavailable when applied to intact skin.
+
 Blood drawn at the end of treatment from 60 patients with AK lesions treated with Solaraze® in three adequate and well-controlled clinical trials was assayed for diclofenac levels.
 Each patient was administered 0.5 g of Solaraze® Gel twice a day for up to 105 days.
 There were up to three 5 cm X 5 cm treatment sites per patient on the face, forehead, hands, forearm, and scalp.

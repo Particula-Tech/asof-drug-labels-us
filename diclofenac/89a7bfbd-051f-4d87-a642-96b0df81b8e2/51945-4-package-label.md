@@ -1,27 +1,27 @@
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 100 gm TUBE
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 100G CONTAINER
 
 NDC 10337-803-01
 
 Net Wt.
-100g
+100 g
 
 Rx Only
 
 SOLARAZE® GEL
 
-Diclofenac Sodium-3%
+diclofenac sodium-3%
 
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 100 gm CARTON
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 100 G CARTON
 
 NDC 10337-803-01
 
-RX Only
+Rx only
 
 SOLARAZE® GEL
 
-Diclofenac Sodium-3%
+diclofenac sodium-3%
 
 Net Wt.
-100g
+100 g
 
-PharamaDerm
+PharmaDerm®

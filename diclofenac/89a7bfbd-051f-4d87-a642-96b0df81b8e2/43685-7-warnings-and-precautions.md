@@ -26,7 +26,12 @@ Safety and efficacy of the use of Solaraze® together with other dermal products
 
 ## Drug Interactions
 
-Although the systemic absorption of Solaraze® is low, concomitant oral administration of other NSAIDs such as aspirin at anti-inflammatory/analgesic doses should be minimized.
+Specific interaction studies between Solaraze® Gel and other topical or oral agents were not performed.
+
+## Oral Nonsteroidal Anti-Inflammatory Drugs
+
+Although low, there is systemic exposure to diclofenac following labeled use of Solaraze® Gel.
+Therefore, concomitant administration of Solaraze® Gel with oral NSAIDS or aspirin may result in increased NSAID adverse effects.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
