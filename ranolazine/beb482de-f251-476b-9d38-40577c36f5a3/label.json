@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021526"
+  ],
+  "inn": "ranolazine",
+  "labeler": "Gilead Sciences, Inc.",
+  "package_ndcs": [
+    "61958-1003-1",
+    "61958-1003-2",
+    "61958-1004-1",
+    "61958-1004-2"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "ranolazine",
+      "name": "Ranexa"
+    }
+  ],
+  "setid": "beb482de-f251-476b-9d38-40577c36f5a3",
+  "source": "dailymed"
+}
