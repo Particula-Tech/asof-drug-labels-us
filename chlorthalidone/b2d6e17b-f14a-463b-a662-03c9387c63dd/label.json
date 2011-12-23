@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA202331"
+  ],
+  "inn": "chlorthalidone",
+  "labeler": "Takeda Pharmaceuticals America, Inc.",
+  "package_ndcs": [
+    "64764-924-07",
+    "64764-924-30",
+    "64764-924-90",
+    "64764-944-07",
+    "64764-944-30",
+    "64764-944-90",
+    "64764-984-07",
+    "64764-984-30",
+    "64764-984-90",
+    "64764-994-07",
+    "64764-994-30",
+    "64764-994-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "azilsartan medoxomil and chlorthalidone",
+      "name": "Edarbyclor"
+    }
+  ],
+  "setid": "b2d6e17b-f14a-463b-a662-03c9387c63dd",
+  "source": "dailymed"
+}
