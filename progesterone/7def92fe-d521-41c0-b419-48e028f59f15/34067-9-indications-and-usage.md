@@ -2,7 +2,7 @@
 
 ## Assisted Reproductive Technology
 
-Crinone® 8% is indicated for progesterone supplementation or replacement as part of an Assisted Reproductive Technology ("ART") treatment for infertile women with progesterone deficiency.
+Crinone 8% is indicated for progesterone supplementation or replacement as part of an Assisted Reproductive Technology ("ART") treatment for infertile women with progesterone deficiency.
 
 ## Secondary Amenorrhea
 

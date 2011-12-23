@@ -4,7 +4,7 @@
 
 In a study of 61 women with ovarian failure undergoing a donor oocyte transfer procedure receiving Crinone 8% twice daily, treatment-emergent adverse events occurring in 5% or more of the women are shown in Table 3.
 
-TABLE 3 Treatment-Emergent Adverse Events in ≥ 5% of Women Receiving Crinone 8% Twice Daily Study COL1620-007US (n=61)
+TABLE 3 Treatment-Emergent Adverse Events in ≥ 5% of Women Receiving Crinone 8% Twice Daily Study COL1620-007US (n = 61)
 
 | Body as a Whole |  |
 | --- | --- |
@@ -25,7 +25,7 @@ TABLE 3 Treatment-Emergent Adverse Events in ≥ 5% of Women Receiving Crinone 8
 
 In a second clinical study of 139 women using Crinone 8% once daily for luteal phase support while undergoing an in vitro fertilization procedure, treatment-emergent adverse events reported in ≥ 5% of the women are shown in Table 4.
 
-TABLE 4 Treatment-Emergent Adverse Events in ≥ 5% of Women Receiving Crinone 8% Once Daily Study COL1620-F01 (n=139)
+TABLE 4 Treatment-Emergent Adverse Events in ≥ 5% of Women Receiving Crinone 8% Once Daily Study COL1620-F01 (n = 139)
 
 | Body as a Whole |  |
 | --- | --- |
@@ -58,7 +58,7 @@ Treatment emergent adverse events during estrogen and Crinone treatment that occ
 
 TABLE 5 Treatment-Emergent Adverse Events in ≥ 5% of Women Receiving Estrogen Treatment and Crinone Every Other Day Studies COL1620-004US, COL1620-005US, COL1620-009US
 
-|  | Estrogen + Crinone 4% n=62 | Estrogen + Crinone 8% n=65 |
+|  | Estrogen + Crinone 4% n = 62 | Estrogen + Crinone 8% n = 65 |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Abdominal Pain | 3 (5%) | 6 (9%) |

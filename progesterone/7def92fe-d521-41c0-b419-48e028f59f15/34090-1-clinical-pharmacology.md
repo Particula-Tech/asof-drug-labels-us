@@ -48,7 +48,7 @@ TABLE 2 Multiple Dose Pharmacokinetics
 
 ### Distribution
 
-Progesterone is extensively bound to serum proteins (~96-99%), primarily to serum albumin and corticosteroid binding globulin.
+Progesterone is extensively bound to serum proteins (~ 96-99%), primarily to serum albumin and corticosteroid binding globulin.
 
 ### Metabolism
 

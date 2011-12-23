@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Crinone 8% (progesterone gel) For Vaginal Use Only Rx only Revised: June 2010 40405010010
+Crinone 8% (progesterone gel) For Vaginal Use Only Rx only Revised: December 2011
 
 FOR PROGESTERONE SUPPLEMENTATION OR REPLACEMENT AS PART OF AN ASSISTED REPRODUCTIVE TECHNOLOGY ("ART") TREATMENT FOR INFERTILE WOMEN WITH PROGESTERONE DEFICIENCY
 
@@ -122,10 +122,6 @@ The applicator is designed to deliver a premeasured dose of Crinone.
 A small amount of gel will be left in the tube after usage.
 Do not be concerned because you will still be receiving the appropriate, measured dosage.
 
-Under certain rare circumstances, such as high altitude, brief exposure to high temperature, sudden changes in atmospheric/barometric pressure, and pressure controlled environments such as airplanes or high-rise buildings, the internal pressure of the applicator may become higher than the air pressure.
-This imbalance between the internal and external pressure may cause the gel to expel from the applicator when the twist-off tab is removed.
-If you should experience the gel expelling from the applicator upon opening, please follow the SPECIAL INSTRUCTIONS FOR USE AT ALTITUDES ABOVE 2500 FEET.
-
 1. Remove the applicator from the sealed wrapper.
    DO NOT remove the twist-off tab at this time.
    For use at altitudes above 2500 feet, see special instructions below.
@@ -188,18 +184,17 @@ Do not use Crinone after the expiration date which is printed on the box.
 Keep out of reach of children.
 Rx only
 
-Address medical inquiries to: WATSON Medical Communications P.O.
-Box 1953 Morristown, NJ 07962-1953 800-272-5525
+For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 800-272-5525
 
-Distributed By: Watson Pharma, Inc. Morristown, NJ 07962 USA
+Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
 Manufactured By: Fleet Laboratories Ltd. Watford, Herts WD18 7JJ UK
 
-40405010010 Revised: June 2010
+Revised: December 2011
 
 PATIENT INFORMATION
 
-Crinone 4% and Crinone 8% (progesterone gel) For Vaginal Use Only Rx only Revised: June 2010 40405010010
+Crinone 4% and Crinone 8% (progesterone gel) For Vaginal Use Only Rx only Revised: December 2011
 
 FOR THE TREATMENT OF SECONDARY AMENORRHEA (ABSENCE OF MENSES IN WOMEN WHO HAVE PREVIOUSLY HAD A MENSTRUAL PERIOD)
 
@@ -338,10 +333,6 @@ The applicator is designed to deliver a premeasured dose of Crinone.
 A small amount of gel will be left in the tube after usage.
 Do not be concerned because you will still be receiving the appropriate, measured dosage.
 
-Under certain rare circumstances, such as high altitude, brief exposure to high temperature, sudden changes in atmospheric/barometric pressure, and pressure controlled environments such as airplanes or high-rise buildings, the internal pressure of the applicator may become higher than the air pressure.
-This imbalance between the internal and external pressure may cause the gel to expel from the applicator when the twist-off tab is removed.
-If you should experience the gel expelling from the applicator upon opening, please follow the SPECIAL INSTRUCTIONS FOR USE AT ALTITUDES ABOVE 2500 FEET.
-
 1. Remove the applicator from the sealed wrapper.
    DO NOT remove the twist-off tab at this time.
    For use at altitudes above 2500 feet, see special instructions below.
@@ -394,7 +385,7 @@ How Supplied
 Crinone is available in two strengths: 4% gel (45 mg of progesterone) and 8% gel (90 mg of progesterone).
 
 Each box of the 4% gel contains six single use, disposable vaginal applicators with a twist-off tab.
-Each box of the 8% gel contains fifteen single use, disposable vaginal applicators with a twistoff tab.
+Each box of the 8% gel contains fifteen single use, disposable vaginal applicators with a twist-off tab.
 Each applicator is wrapped and sealed in a foil overwrap.
 
 Store at 20-25ºC (68-77ºF).
@@ -405,11 +396,10 @@ Do not use Crinone after the expiration date which is printed on the box.
 Keep out of reach of children.
 Rx only
 
-Address medical inquiries to: WATSON Medical Communications P.O.
-Box 1953 Morristown, NJ 07962-1953 800-272-5525
+For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 800-272-5525
 
-Distributed By: Watson Pharma, Inc. Morristown, NJ 07962 USA
+Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
 Manufactured By: Fleet Laboratories Ltd. Watford, Herts WD18 7JJ UK
 
-40405010010 Revised: June 2010
+Revised: December 2011
