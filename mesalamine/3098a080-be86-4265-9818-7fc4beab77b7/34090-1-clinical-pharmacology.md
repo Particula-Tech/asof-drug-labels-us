@@ -5,9 +5,9 @@
 The mechanism of action of mesalamine is not fully understood, but appears to have a topical anti-inflammatory effect on the colonic epithelial cells.
 Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase and lipoxygenase pathways, is increased in patients with chronic inflammatory bowel disease, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon.
 
-Mesalamine has the potential to inhibit the activation of nuclear factor kappa B (NFκB) and consequently the production of key pro-inflammatory cytokines.
-It has been proposed that reduced expression of PPARγ nuclear receptors (γ-form of peroxisome proliferator-activated receptors) may be implicated in ulcerative colitis.
-There is evidence that mesalamine produces pharmacodynamic effects through direct activation of PPARγ receptors in the colonic/rectal epithelium.
+Mesalamine has the potential to inhibit the activation of nuclear factor kappa B (NFkB) and consequently the production of key pro-inflammatory cytokines.
+It has been proposed that reduced expression of PPARy nuclear receptors (y-form of peroxisome proliferator-activated receptors) may be implicated in ulcerative colitis.
+There is evidence that mesalamine produces pharmacodynamic effects through direct activation of PPARy receptors in the colonic/rectal epithelium.
 
 ## 12.2 Pharmacodynamics
 
@@ -43,7 +43,7 @@ Table 3: Mean (SD) PK Parameters for Mesalamine Following Single Dose Administra
 | 1 Arithmetic mean of parameter values are presented except for Tmax and Tlag. *Median (min, max); +N=43, •N=27, §N=33, #N=36, **N=46 |  |  |  |
 
 Administration of a single dose of LIALDA 4.8 g with a high fat meal resulted in further delay in absorption, and plasma concentrations of mesalamine were detectable 4 hours following dosing.
-However, a high fat meal increased systemic exposure of mesalamine (mean Cmax: ↑ 91%; mean AUC: ↑ 16%) compared to results in the fasted state.
+However, a high fat meal increased systemic exposure of mesalamine (mean Cmax: (91%; mean AUC: (16%) compared to results in the fasted state.
 LIALDA was administered with food in the controlled clinical trials that supported its approval.
 
 In a single and multiple dose pharmacokinetic study of LIALDA, 2.4 g or 4.8 g was administered once daily with standard meals to 28 healthy volunteers per dose group.
