@@ -7,10 +7,13 @@ Docetaxel has the following structural formula:
 
 Docetaxel is a white to almost-white powder with an empirical formula of C43H53NO14• 3H2O, and a molecular weight of 861.9.
 It is highly lipophilic and practically insoluble in water.
+
+Two-vial formulation (Injection Concentrate and Diluent)
+
 TAXOTERE (docetaxel) Injection Concentrate is a clear yellow to brownish-yellow viscous solution.
 TAXOTERE is sterile, non-pyrogenic, and is available in single-dose vials containing 20 mg (0.5 mL) or 80 mg (2 mL) docetaxel (anhydrous).
 Each mL contains 40 mg docetaxel (anhydrous) and 1040 mg polysorbate 80.
 
-TAXOTERE Injection Concentrate requires dilution prior to use.
+TAXOTERE Injection Concentrate requires dilution with Diluent prior to addition to the infusion bag.
 A sterile, non-pyrogenic, single-dose diluent is supplied for that purpose.
 The diluent for TAXOTERE contains 13% ethanol in water for injection, and is supplied in vials.

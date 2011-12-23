@@ -1,5 +1,7 @@
 # 3. DOSAGE FORMS AND STRENGTHS
 
+Two-vial formulation (Injection Concentrate and Diluent)
+
 TAXOTERE 80 mg/2 mL
 
 TAXOTERE (docetaxel) Injection Concentrate 80 mg/2 mL: 80 mg docetaxel in 2 mL polysorbate 80 and Diluent for TAXOTERE 80 mg (13% (w/w) ethanol in water for injection).

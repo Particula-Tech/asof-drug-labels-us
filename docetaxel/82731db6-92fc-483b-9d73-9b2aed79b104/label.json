@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020449"
+  ],
   "inn": "docetaxel",
   "labeler": "sanofi-aventis U.S. LLC",
   "package_ndcs": [
-    "0075-8001-80",
-    "0075-8002-80"
+    "0075-8001-20",
+    "0075-8001-80"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "docetaxel",
+      "name": "Taxotere"
+    }
+  ],
   "setid": "82731db6-92fc-483b-9d73-9b2aed79b104",
   "source": "dailymed"
 }
