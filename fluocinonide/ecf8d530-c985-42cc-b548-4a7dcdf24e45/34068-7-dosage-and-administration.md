@@ -1,4 +1,4 @@
-# Dosage and Administration
+# dosage and administration
 
 LIDEX® (fluocinonide) topical solution 0.05% is generally applied to the affected area as a thin film from two to four times daily depending on the severity of the condition.
 

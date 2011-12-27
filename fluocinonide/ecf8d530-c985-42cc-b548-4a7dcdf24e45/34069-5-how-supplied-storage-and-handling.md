@@ -1,4 +1,4 @@
-# How Supplied
+# how supplied
 
 LIDEX® (fluocinonide) topical solution 0.05% Plastic squeeze bottles 20 cc - NDC 99207-517-44 60 cc - NDC 99207-517-46
 

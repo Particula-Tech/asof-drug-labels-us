@@ -1,4 +1,4 @@
-# Clinical Pharmacology
+# clinical pharmacology
 
 Topical corticosteroids share anti-inflammatory, anti-pruritic and vasoconstrictive actions.
 
