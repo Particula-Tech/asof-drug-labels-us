@@ -38,7 +38,7 @@ Risk factors for a gastrointestinal obstruction identified from post-marketing r
 
 ### Gastrointestinal Ulcers
 
-Ulcers in the gastrointestinal wall surrounding the PROCARDIA XL tablet shells have been observed with and without gastrointestinal obstruction by PROCARDIA XL tablets.
+Cases of tablet adherence to the gastrointestinal wall with ulceration have been reported, some requiring hospitalization and intervention.
 
 # PRECAUTIONS
 

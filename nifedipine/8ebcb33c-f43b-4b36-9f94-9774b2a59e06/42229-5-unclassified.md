@@ -1,3 +1,1 @@
-Rx only
-
-LAB-0176-6.0 October 2010
+LAB-0176-7.0 August 2011

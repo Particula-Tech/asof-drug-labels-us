@@ -32,7 +32,7 @@ The following adverse experiences, reported in less than 1% of patients, occurre
 Gastrointestinal obstruction resulting in hospitalization and surgery, including the need for bezoar removal, has occurred in association with PROCARDIA XL, even in patients with no prior history of gastrointestinal disease.
 (See WARNINGS.)
 
-Ulcers in the gastrointestinal wall surrounding the PROCARDIA XL tablet shells have been observed with and without gastrointestinal obstruction by PROCARDIA XL tablets.
+Cases of tablet adherence to the gastrointestinal wall with ulceration have been reported, some requiring hospitalization and intervention.
 
 In multiple-dose U.S. and foreign controlled studies with nifedipine capsules in which adverse reactions were reported spontaneously, adverse effects were frequent but generally not serious and rarely required discontinuation of therapy or dosage adjustment.
 Most were expected consequences of the vasodilator effects of nifedipine.
