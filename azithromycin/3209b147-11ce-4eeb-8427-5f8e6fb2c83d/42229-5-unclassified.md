@@ -105,10 +105,14 @@ Azithromycin can be stored at room temperature.
 You do not have to keep it in the refrigerator.
 Throw away any medicine that is left over after treatment.
 
-Manufactured in Croatia By:PLIVA HRVATSKA d.o.o.
+Manufactured in Croatia By:
+
+PLIVA HRVATSKA d.o.o.
 Zagreb, Croatia
 
-Manufactured For:TEVA PHARMACEUTICALS USA Sellersville, PA 18960
+Manufactured For:
+
+TEVA PHARMACEUTICALS USA Sellersville, PA 18960
 
 Iss.
 11/2009

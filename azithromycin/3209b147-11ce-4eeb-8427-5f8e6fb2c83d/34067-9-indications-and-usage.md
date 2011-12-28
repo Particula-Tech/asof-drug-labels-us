@@ -1,8 +1,9 @@
 # INDICATIONS AND USAGE
 
-## Azithromycin is indicated for the treatment of patients with mild to moderate infections (pneumonia: see WARNINGS) caused by susceptible strains of the designated microorganisms in the specific conditions listed below. As recommended dosages, durations of therapy and applicable patient populations vary among these infections, please see DOSAGE AND ADMINISTRATION for specific dosing recommendations.
+Azithromycin is indicated for the treatment of patients with mild to moderate infections (pneumonia: see WARNINGS) caused by susceptible strains of the designated microorganisms in the specific conditions listed below.
+As recommended dosages, durations of therapy and applicable patient populations vary among these infections, please see DOSAGE AND ADMINISTRATION for specific dosing recommendations.
 
-## Adults:
+## Adults
 
 Acute bacterial exacerbations of chronic obstructive pulmonary disease due to Haemophilus influenzae, Moraxella catarrhalis or Streptococcus pneumoniae.
 
@@ -51,9 +52,11 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
-## Pediatric Patients:
+## Pediatric Patients
 
-(See PRECAUTIONS—Pediatric Use and CLINICAL STUDIES IN PEDIATRIC PATIENTS) Acute otitis media caused by Haemophilus influenzae, Moraxella catarrhalis or Streptococcus pneumoniae.
+See PRECAUTIONS, Pediatric Use and CLINICAL STUDIES IN PEDIATRIC PATIENTS.
+
+Acute otitis media caused by Haemophilus influenzae, Moraxella catarrhalis or Streptococcus pneumoniae.
 (For specific dosage recommendation, see DOSAGE AND ADMINISTRATION.)
 
 Community-acquired pneumonia due to Chlamydia pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae or Streptococcus pneumoniae in patients appropriate for oral therapy.
