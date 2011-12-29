@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 Reports of acute toxicity and/or death following overdosage of glucocorticosteroids are rare.
 Treatment consists of immediate gastric lavage or emesis followed by supportive and symptomatic therapy.
