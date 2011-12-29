@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA061621"
+  ],
+  "inn": "erythromycin",
+  "labeler": "Arbor Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24338-102-13",
+    "24338-104-13"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "erythromycin",
+      "name": "Erythromycin"
+    }
+  ],
+  "setid": "ca1326d6-c5c6-4572-96b6-e56cd944799c",
+  "source": "dailymed"
+}
