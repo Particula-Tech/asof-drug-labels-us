@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074342"
+  ],
   "inn": "alprazolam",
   "labeler": "Actavis Elizabeth LLC",
   "package_ndcs": [
@@ -15,7 +17,13 @@
     "0228-2039-10",
     "0228-2039-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "alprazolam",
+      "name": "Alprazolam"
+    }
+  ],
   "setid": "a23063c0-099a-4256-b95f-3a857bbf704b",
   "source": "dailymed"
 }

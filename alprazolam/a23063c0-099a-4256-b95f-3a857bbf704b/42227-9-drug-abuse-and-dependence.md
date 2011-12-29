@@ -1,6 +1,8 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Physical And Psychological Dependence: Withdrawal symptoms similar in character to those noted with sedative/hypnotics and alcohol have occurred following abrupt discontinuance of benzodiazepines, including alprazolam.
+Physical and Psychological Dependence
+
+Withdrawal symptoms similar in character to those noted with sedative/hypnotics and alcohol have occurred following discontinuance of benzodiazepines, including alprazolam.
 The symptoms can range from mild dysphoria and insomnia to a major syndrome that may include abdominal and muscle cramps, vomiting, sweating, tremors and convulsions.
 Distinguishing between withdrawal emergent signs and symptoms and the recurrence of illness is often difficult in patients undergoing dose reduction.
 The long term strategy for treatment of these phenomena will vary with their cause and the therapeutic goal.
