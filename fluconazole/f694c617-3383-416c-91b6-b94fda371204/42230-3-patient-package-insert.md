@@ -95,8 +95,6 @@ Generally the symptoms start to go away after 24 hours.
 However, it may take several days for your symptoms to go away completely.
 If there is no change in your symptoms after a few days, call your doctor.
 
-[caption on the right of the illustration]
-
 Just swallow 1 DIFLUCAN tablet to treat your vaginal yeast infection.
 
 What Should I Avoid while Taking DIFLUCAN?

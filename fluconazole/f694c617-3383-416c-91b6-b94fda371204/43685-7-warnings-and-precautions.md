@@ -15,7 +15,7 @@ Patients who develop rashes during treatment with DIFLUCAN should be monitored c
 
 (4) Use in Pregnancy: There are no adequate and well-controlled studies of DIFLUCAN in pregnant women.
 Available human data do not suggest an increased risk of congenital anomalies following a single maternal dose of 150 mg.
-A few published case reports describe a rare pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400-800 mg/day) during most or all of the first trimester.
+A few published case reports describe a rare pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400–800 mg/day) during most or all of the first trimester.
 These reported anomalies are similar to those seen in animal studies.
 If this drug is used during pregnancy or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus (See PRECAUTIONS, Pregnancy.)
 
@@ -37,12 +37,7 @@ Fluconazole should be administered with caution to patients with renal dysfuncti
 Fluconazole is a potent CYP2C9 inhibitor and a moderate CYP3A4 inhibitor.
 Fluconazole treated patients who are concomitantly treated with drugs with a narrow therapeutic window metabolized through CYP2C9 and CYP3A4 should be monitored.
 
-DIFLUCAN Capsules contain lactose and should not be given to patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency, or glucose-galactose malabsorption.
-
 DIFLUCAN Powder for Oral Suspension contains sucrose and should not be used in patients with hereditary fructose, glucose/galactose malabsorption, and sucrase-isomaltase deficiency.
-
-DIFLUCAN Syrup contains glycerol.
-Glycerol may cause headache, stomach upset, and diarrhea.
 
 When driving vehicles or operating machines, it should be taken into account that occasionally dizziness or seizures may occur.
 
