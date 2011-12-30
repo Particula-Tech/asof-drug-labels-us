@@ -109,9 +109,24 @@ Active Ingredient: Nebivolol
 
 Inactive Ingredients: colloidal silicon dioxide, croscarmellose sodium, D&C Red #27 Lake, FD&C Blue #2 Lake, FD&C Yellow #6 Lake, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinized starch, polysorbate 80, and sodium lauryl sulfate
 
-Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045, USA Licensed from Mylan Laboratories, Inc. Under license from Janssen Pharmaceutica N.V., Beerse, Belgium
+WHAT IS HIGH BLOOD PRESSURE (HYPERTENSION)?
+
+Blood pressure is the force in your blood vessels when your heart beats and when your heart rests.
+You have high blood pressure when the force is too great.
+
+High blood pressure makes the heart work harder to pump blood through the body and causes damage to the blood vessels.
+BYSTOLIC tablets can help your blood vessels relax so your blood pressure is lower.
+Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
+
+Rev.
+June 2011
+
+Distributed by: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045, USA
+
+Licensed from Mylan Laboratories, Inc.
+
+Under license from Janssen Pharmaceutica N.V., Beerse, Belgium
 
 Actidose-Aqua® is a registered trademark of Paddock Laboratories, Inc.
 
-Rev.
-02/10 © 2010 Forest Laboratories, Inc.
+© 2010 Forest Laboratories, Inc.

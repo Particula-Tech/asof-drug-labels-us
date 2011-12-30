@@ -1,6 +1,8 @@
 # 8. USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy: Teratogenic Effects. Category C:
+## 8.1 Pregnancy
+
+Teratogenic Effects: Category C.
 
 Decreased pup body weights occurred at 1.25 and 2.5 mg/kg in rats, when exposed during the perinatal period (late gestation, parturition and lactation).
 At 5 mg/kg and higher doses (1.2 times the MRHD), prolonged gestation, dystocia and reduced maternal care were produced with corresponding increases in late fetal deaths and stillbirths and decreased birth weight, live litter size and pup survival.

@@ -21,7 +21,6 @@ BYSTOLIC tablets are supplied in the following strengths and package configurati
 | Bottle of 100 | 0456-1420-01 |  |  |
 | 10 x 10 Unit Dose | 0456-1420-63 |  |  |
 
-Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+Store at 20° to 25°C (68° to 77°F) [see USP for Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.

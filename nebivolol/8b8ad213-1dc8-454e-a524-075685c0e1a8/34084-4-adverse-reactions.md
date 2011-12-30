@@ -43,7 +43,7 @@ Treatment-Emergent Adverse Reactions with an Incidence (over 6 weeks) ≥ 1% in 
 Listed below are other reported adverse reactions with an incidence of at least 1% in the more than 4300 patients treated with BYSTOLIC in controlled or open-label trials except for those already appearing in Table 1, terms too general to be informative, minor symptoms, or adverse reactions unlikely to be attributable to drug because they are common in the population.
 These adverse reactions were in most cases observed at a similar frequency in placebo-treated patients in the controlled studies.
 
-Body as a whole: asthenia.
+Body as a Whole: asthenia.
 
 Gastrointestinal System Disorders: abdominal pain
 

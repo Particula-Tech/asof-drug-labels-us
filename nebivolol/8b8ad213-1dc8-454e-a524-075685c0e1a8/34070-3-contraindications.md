@@ -1,6 +1,6 @@
 # 4. CONTRAINDICATIONS
 
-Bystolic is contraindicated in the following conditions:
+BYSTOLIC is contraindicated in the following conditions:
 
 - Severe bradycardia
 - Heart block greater than first degree
