@@ -170,7 +170,7 @@ Elimination: Following single-dose oral administration of lansoprazole, virtuall
 In one study, after a single oral dose of 14C-lansoprazole, approximately one-third of the administered radiation was excreted in the urine and two-thirds was recovered in the feces.
 This implies a significant biliary excretion of the lansoprazole metabolites.
 
-## 12.4 Specific Populations
+## Specific Populations
 
 ### Pediatric Use:
 
@@ -197,11 +197,11 @@ Hepatic Impairment: In patients with various degrees of chronic hepatic impairme
 An increase in the mean AUC of up to 500% was observed at steady state in hepatically-impaired patients compared to healthy subjects.
 Consider dose reduction in patients with severe hepatic impairment [see Use in Specific Populations (8.7)].
 
-Gender: In a study comparing 12 male and 6 female human subjects who received lansoprazole, no gender differences were found in pharmacokinetics and intragastric pH results [see Use in Specific Populations (8.5)].
+Gender: In a study comparing 12 male and 6 female human subjects who received lansoprazole, no gender differences were found in pharmacokinetics and intragastric pH results [see Use in Specific Populations (8.8)].
 
-## 12.5 Drug-Drug Interactions
+## Drug-Drug Interactions
 
-It is theoretically possible that lansoprazole may interfere with the absorption of other drugs where gastric pH is an important determinant of bioavailability (e.g., ketoconazole, ampicillin esters, iron salts, digoxin).
+Lansoprazole may interfere with the absorption of other drugs where gastric pH is an important determinant of bioavailability (e.g., ketoconazole, ampicillin esters, iron salts, digoxin).
 
 Lansoprazole is metabolized through the cytochrome P450 system, specifically through the CYP3A and CYP2C19 isozymes.
 Studies have shown that lansoprazole does not have clinically significant interactions with other drugs metabolized by the cytochrome P450 system, such as warfarin, antipyrine, indomethacin, ibuprofen, phenytoin, propranolol, prednisone, diazepam, or clarithromycin in healthy subjects.
@@ -228,3 +228,9 @@ Amoxicillin: Lansoprazole has also been shown to have no clinically significant 
 Sucralfate: In a single-dose crossover study examining lansoprazole 30 mg and omeprazole 20 mg each administered alone and concomitantly with sucralfate 1 gram, absorption of the proton pump inhibitors was delayed and their bioavailability was reduced by 17% and 16%, respectively, when administered concomitantly with sucralfate.
 Therefore, proton pump inhibitors should be taken at least 30 minutes prior to sucralfate.
 In clinical trials, antacids were administered concomitantly with lansoprazole and there was no evidence of a change in the efficacy of lansoprazole.
+
+Clopidogrel: Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
+A study of healthy subjects who were CYP2C19 extensive metabolizers, receiving once daily administration of clopidogrel 75 mg alone or concomitantly with lansoprazole 30 mg (n = 40), for 9 days was conducted.
+The mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (mean AUC ratio was 86%, with 90% CI of 80 to 92%) when lansoprazole was coadministered compared to administration of clopidogrel alone.
+Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 mcM ADP) was related to the change in the exposure to clopidogrel active metabolite.
+The clinical significance of this finding is not clear.
