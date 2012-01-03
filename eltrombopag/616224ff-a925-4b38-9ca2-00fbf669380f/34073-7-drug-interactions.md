@@ -29,7 +29,7 @@ In vitro studies demonstrate that eltrombopag is an inhibitor of UGT1A1, UGT1A3,
 The significance of this inhibition on the potential for increased systemic exposure of drugs that are substrates of these UGTs following coadministration with PROMACTA has not been evaluated in clinical studies.
 Monitor patients closely for signs or symptoms of excessive exposure to these drugs when concomitantly administered with PROMACTA.
 
-In vitro studies demonstrate that UGT1A1 and UGT1A3 are responsible for the glucuronidation of PROMACTA.
+In vitro studies demonstrate that UGT1A1 and UGT1A3 are responsible for the glucuronidation of eltrombopag.
 The significance of coadministration of PROMACTA with moderate or strong inhibitors or inducers on the systemic exposure of PROMACTA has not been evaluated in clinical studies.
 Monitor patients closely for signs or symptoms of excessive exposure to PROMACTA when concomitantly administered with moderate or strong inhibitors of UGT1A1 or UGT1A3.
 

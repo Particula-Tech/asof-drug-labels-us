@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+The 12.5 mg tablets are round, biconvex, white, film-coated tablets debossed with GS MZ1 and 12.5 on one side and are available in bottles of 30: NDC 0007-4643-13.
+
 The 25 mg tablets are round, biconvex, orange, film-coated tablets debossed with GS NX3 and 25 on one side and are available in bottles of 30: NDC 0007-4640-13.
 
 The 50 mg tablets are round, biconvex, blue, film-coated tablets debossed with GS UFU and 50 on one side and are available in bottles of 30: NDC 0007-4641-13.

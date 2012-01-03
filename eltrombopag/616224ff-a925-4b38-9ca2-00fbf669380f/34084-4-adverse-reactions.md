@@ -3,9 +3,9 @@
 ## 6.1 Clinical Trials Experience
 
 In clinical studies, hemorrhage was the most common serious adverse reaction and most hemorrhagic reactions followed discontinuation of PROMACTA.
-Other serious adverse reactions included liver test abnormalities and thrombotic/thromboembolic complications [see Warnings and Precautions (5.1, 5.4)].
+Other serious adverse reactions included liver test abnormalities and thrombotic/thromboembolic complications [see Warnings and Precautions (5.1, 5.3)].
 
-The data described below reflect PROMACTA exposure to 446 patients with chronic ITP aged 18 to 85, of whom 65% were female across the ITP clinical development program including 3 placebo-controlled studies.
+The data described below reflect exposure of PROMACTA to 446 patients with chronic ITP aged 18 to 85, of whom 65% were female across the ITP clinical development program including 3 placebo-controlled studies.
 PROMACTA was administered to 277 patients for at least 6 months and 202 patients for at least 1 year.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -50,4 +50,4 @@ Treatment-Related Adverse Reactions (≥3%) from Extension Study
 | Fatigue | 4 |
 | Nausea | 4 |
 
-In a placebo-controlled trial of eltrombopag in non-ITP thrombocytopenic patients with chronic liver disease (CLD), six eltrombopag-treated patients and one patient in the placebo group developed portal vein thromboses [see Warnings and Precautions (5.4)].
+In a placebo-controlled trial of eltrombopag in non-ITP thrombocytopenic patients with chronic liver disease (CLD), six eltrombopag-treated patients and one patient in the placebo group developed portal vein thromboses [see Warnings and Precautions (5.3)].

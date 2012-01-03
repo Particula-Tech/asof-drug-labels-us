@@ -67,4 +67,4 @@ Among 94 patients receiving other ITP therapy at baseline, 37 (59%) of 63 patien
 
 Patients who completed any prior clinical study with PROMACTA were enrolled in an open-label, single-arm study in which attempts were made to decrease the dose or eliminate the need for any concomitant ITP medications.
 PROMACTA was administered to 299 patients; 249 completed 6 months, 210 patients completed 12 months, and 138 patients completed 24 months of therapy.
-The median baseline platelet count was 18 x 109/L prior to administration of PROMACTA.
+The median baseline platelet count was 19 x 109/L prior to administration of PROMACTA.

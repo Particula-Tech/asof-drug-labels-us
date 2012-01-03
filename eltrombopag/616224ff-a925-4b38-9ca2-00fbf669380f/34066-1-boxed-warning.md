@@ -14,7 +14,3 @@ If the abnormalities are confirmed, monitor serum liver tests weekly until the a
 - ●persistent for ≥4 weeks, or
 - ●accompanied by increased direct bilirubin, or
 - ●accompanied by clinical symptoms of liver injury or evidence for hepatic decompensation.
-
-Because of the risk for hepatotoxicity and other risks [see Warnings and Precautions (5.1-5.6)], PROMACTA is available only through a restricted distribution program called PROMACTA CARES.
-Under PROMACTA CARES, only prescribers, pharmacies, and patients registered with the program are able to prescribe, dispense, and receive PROMACTA.
-To enroll in PROMACTA CARES, call 1-877-9-PROMACTA [see Warnings and Precautions (5.8)].

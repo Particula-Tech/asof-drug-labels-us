@@ -31,22 +31,16 @@ PROMACTA can cause serious side effects, including:
   The mild form may cause no problems while the severe form may cause life-threatening blood problems.
   Signs of bone marrow changes may show up as abnormal results in your blood tests.
   Your healthcare provider will decide if abnormal blood test results mean that you should have bone marrow tests or if you should stop taking PROMACTA.
-- Recurrence of low blood platelet count (thrombocytopenia) and risk of bleeding shortly after stopping PROMACTA.
-  When you stop taking PROMACTA, your blood platelet count may return to a similar low platelet count as before you started taking PROMACTA.
-  These effects are most likely to happen within 4 weeks after you stop taking PROMACTA.
-  The recurrence of low platelet counts may increase your risk of bleeding, especially if you take a blood thinner or other medicines that affect platelets.
-  Your healthcare provider will check your blood platelet counts for at least 4 weeks after you stop taking PROMACTA.
-  Call your healthcare provider right away to report any bruising or bleeding.
 - High platelet counts and higher chance for blood clots.
   Your chance of getting a blood clot is increased if your platelet count is too high during treatment with PROMACTA.
   Your chance of getting a blood clot may also be increased during treatment with PROMACTA if you have normal or low platelet counts.
-  You may have severe complications or die from some forms of blood clots, such as clots that travel to the lungs or that cause heart attacks or strokes.
+  You may have severe problems or die from some forms of blood clots, such as clots that travel to the lungs or that cause heart attacks or strokes.
   Your healthcare provider will check your blood platelet counts, and change your dose or stop PROMACTA if your platelet counts get too high.
   Tell your healthcare provider right away if you have signs and symptoms of a blood clot in the leg, such as swelling, pain, or tenderness in your leg.
-  Patients with chronic liver disease may be at risk for a type of blood clot in the stomach area.
+  People with chronic liver disease may be at risk for a type of blood clot in the stomach area.
   Stomach area pain may be a symptom of this type of blood clot.
 - Worsening of blood cancers.
-  PROMACTA is not for use in patients with blood cancer or a precancerous condition called myelodysplastic syndrome (MDS).
+  PROMACTA is not for use in people with blood cancer or a precancerous condition called myelodysplastic syndrome (MDS).
   If you have one of these conditions, PROMACTA may worsen your cancer or condition and may cause you to die sooner.
 - New or worsened cataracts (a clouding of the lens in the eye).
   New or worsened cataracts have happened in people taking PROMACTA.
@@ -55,25 +49,14 @@ PROMACTA can cause serious side effects, including:
 
 When you are being treated with PROMACTA, your healthcare provider will closely monitor your dose of PROMACTA and blood tests, including platelet counts and liver tests.
 
-PROMACTA is available only through a program called “PROMACTA CARES”.
-To receive PROMACTA, you must talk to your healthcare provider, understand the benefits and risks of PROMACTA and agree to enroll into PROMACTA CARES.
-
-- During therapy with PROMACTA, your healthcare provider may change your dose of PROMACTA, depending upon the change in your blood platelet count.
-  You must have blood platelet count tests done before, during, and after your therapy with PROMACTA.
-
 See “What are the possible side effects of PROMACTA?” for other side effects of PROMACTA.
 
 What is PROMACTA?
 
-PROMACTA is a prescription medicine used to treat low blood platelet counts in adults with chronic immune (idiopathic) thrombocytopenic purpura (ITP), when other medicines to treat your ITP or surgery to remove the spleen have not worked well enough.
+PROMACTA is a prescription medicine used to treat low blood platelet counts in adults with chronic immune (idiopathic) thrombocytopenia (ITP), when other medicines to treat your ITP or surgery to remove the spleen have not worked well enough.
 
 PROMACTA is used to try to keep your platelet count about 50,000 per microliter in order to lower your risk for bleeding.
 PROMACTA is not used to make your platelet count normal.
-
-PROMACTA is only:
-
-- prescribed by healthcare providers who are enrolled in PROMACTA CARES.
-- given to people who are enrolled in PROMACTA CARES.
 
 It is not known if PROMACTA works or if it is safe in people under the age of 18 years.
 
@@ -125,14 +108,6 @@ Keep a list of them and show it to your healthcare provider and pharmacist when 
 
 How should I take PROMACTA?
 
-To receive PROMACTA, you must first talk with your healthcare provider and understand the benefits and risks of PROMACTA.
-You must agree to and follow all of the instructions in PROMACTA CARES.
-
-- Before you can begin to receive PROMACTA, your healthcare provider will:
-  - explain PROMACTA CARES to you.
-  - answer all of your questions about PROMACTA and PROMACTA CARES.
-  - make sure you read this PROMACTA Medication Guide.
-  - have you sign the PROMACTA CARES Patient Enrollment Form.
 - Take PROMACTA exactly as your healthcare provider tells you.
   Do not stop using PROMACTA without talking with your healthcare provider first.
   Do not change your dose or schedule for taking PROMACTA unless your healthcare provider tells you to change it.
@@ -165,7 +140,7 @@ The most common side effects of PROMACTA are:
 - upper respiratory tract infection; symptoms may include runny nose, stuffy nose, and sneezing
 - vomiting
 - muscle aches
-- urinary tract infections; symptoms may include frequent or urgent need to urinate, low fever in some patients, pain or burning with urination
+- urinary tract infections; symptoms may include frequent or urgent need to urinate, low fever in some people, pain or burning with urination
 - pain or swelling (inflammation) in your throat or mouth (oropharyngeal pain and pharyngitis)
 - abnormal liver function tests
 - abnormal skin sensations such as tingling, itching, or burning
@@ -182,7 +157,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store PROMACTA Tablets?
 
-- Store at room temperature between 59oF and 86oF (15oC and 30oC).
+- Store at room temperature between 59oF to 86oF (15oC to 30oC).
 - Keep PROMACTA and all medicines out of the reach of children.
 
 General information about the safe and effective use of PROMACTA
@@ -200,16 +175,16 @@ For more information, go to www.PROMACTA.com or call toll-free 1-888-825-5249.
 
 What are the ingredients in PROMACTA?
 
-Active Ingredient: eltrombopag olamine.
+Active ingredient: eltrombopag olamine.
 
-Inactive Ingredients:
+Inactive ingredients:
 
 - Tablet Core: Magnesium stearate, mannitol, microcrystalline cellulose, povidone, and sodium starch glycolate.
-- Coating: Hypromellose, polyethylene glycol 400, titanium dioxide, and FD&C Yellow No. 6 aluminum lake (25 mg tablet), FD&C Blue No. 2 aluminum lake (50 mg tablet), or Iron Oxide Red and Iron Oxide Black (75 mg tablet).
-
-PROMACTA is a registered trademark of GlaxoSmithKline.
+- Coating: Hypromellose, polyethylene glycol 400, titanium dioxide, polysorbate 80 (12.5 mg tablet), and FD&C Yellow No. 6 aluminum lake (25 mg tablet), FD&C Blue No. 2 aluminum lake (50 mg tablet), or Iron Oxide Red and Iron Oxide Black (75 mg tablet).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+PROMACTA is a registered trademark of GlaxoSmithKline.
 
 GlaxoSmithKline
 
@@ -218,6 +193,6 @@ Research Triangle Park, NC 27709
 ©2011, GlaxoSmithKline.
 All rights reserved.
 
-Revised: February 2011
+Revised: December 2011
 
-PRM:4MG
+PRM:5MG

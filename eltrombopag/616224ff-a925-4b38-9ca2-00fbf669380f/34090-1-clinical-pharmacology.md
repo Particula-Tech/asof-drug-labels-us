@@ -10,7 +10,7 @@ A population pharmacokinetic model analysis suggests that the pharmacokinetic pr
 Based on this model, the estimated exposures of eltrombopag after administration to patients with ITP are shown in Table 4.
 
 Table 4.
-Geometric Mean (95% Confidence Intervals) of Steady-State Plasma Eltrombopag Pharmacokinetic Parameters in Adults With Idiopathic Thrombocytopenic Purpura
+Geometric Mean (95% Confidence Intervals) of Steady-State Plasma Eltrombopag Pharmacokinetic Parameters in Adults With Chronic Immune (Idiopathic) Thrombocytopenia
 
 | Regimen of PROMACTA | AUC(0-τ)(mcg.hr/mL) | Cmax(mcg/mL) |
 | --- | --- | --- |
