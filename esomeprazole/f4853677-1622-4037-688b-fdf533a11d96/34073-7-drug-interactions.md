@@ -67,7 +67,7 @@ Avoid concomitant use of St. John’s Wort or rifampin with NEXIUM.
 ## 7.4 Interactions With Investigations of Neuroendocrine Tumors
 
 Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors.
-[see Warnings and Precuations (5.7) and Clinical Pharmacology (12.2)]
+[see Warnings and Precautions (5.7) and Clinical Pharmacology (12.2)]
 
 ## 7.5 Tacrolimus
 

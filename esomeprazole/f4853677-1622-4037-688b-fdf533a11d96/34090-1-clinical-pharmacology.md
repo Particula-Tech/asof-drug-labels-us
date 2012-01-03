@@ -13,11 +13,9 @@ Antisecretory Activity
 
 The effect of NEXIUM on intragastric pH was determined in patients with symptomatic gastroesophageal reflux disease in two separate studies.
 In the first study of 36 patients, NEXIUM 40 mg and 20 mg capsules were administered over 5 days.
-The results are shown in the following table:
+The results are shown in the Table 3:
 
-Table 3
-
-Effect on Intragastric pH on Day 5 (N=36)
+Table 3: Effect on Intragastric pH on Day 5 (N=36)
 
 | Parameter | NEXIUM40 mg | NEXIUM20 mg |
 | --- | --- | --- |
@@ -69,11 +67,9 @@ The AUC after administration of a single 40 mg dose of NEXIUM is decreased by 43
 NEXIUM should be taken at least one hour before meals.
 
 The pharmacokinetic profile of NEXIUM was determined in 36 patients with symptomatic gastroesophageal reflux disease following repeated once daily administration of 20 mg and 40 mg capsules of NEXIUM over a period of five days.
-The results are shown in the following table:
+The results are shown in the Table 4:
 
-Table 4
-
-Pharmacokinetic Parameters of NEXIUM on Day 5 Following Oral Dosing for 5 Days
+Table 4: Pharmacokinetic Parameters of NEXIUM on Day 5 Following Oral Dosing for 5 Days
 
 | Parameter * (CV) | NEXIUM 40 mg | NEXIUM 20 mg |
 | --- | --- | --- |
@@ -124,7 +120,21 @@ Geriatric
 The AUC and Cmax values were slightly higher (25% and 18%, respectively) in the elderly as compared to younger subjects at steady state.
 Dosage adjustment based on age is not necessary.
 
-Pediatric
+Pediatric (1 to 11 month of age)
+
+The pharmacokinetic parameters following repeated dose administration of 1.0 mg/kg esomeprazole in 1 to 11 month old infants are summarized in Table 5.
+
+Table 5: Summary of PK parameters in 1 month to < 1 year Olds with GERD Following 7/8 Days of Once-Daily Oral Esomeprazole Treatment
+
+|  | 1 month to < 1 year |
+| --- | --- |
+| Parameter | 1.0 mg/kg |
+| AUC (μmol*h/L) (n=7)Geometric mean | 3.51 |
+| C,max (μmol/L) (n=15) | 0.87 |
+| t½ (hours) (n=8) | 0.93 |
+| tmax (hours) (n=15)Median | 3.0 |
+
+Subsequent pharmacokinetic simulation analyses showed that a dosage regimen of 2.5 mg once-daily for pediatric patients with body weight 3-5 kg, 5.0 mg once-daily for >5 to 7.5 kg and 10 mg once-daily for >7.5 to 12 kg would achieve comparable steady-state plasma exposures (AUC) to that observed after 10 mg in 1 to 11 year olds, and 20 mg in 12 to 18 year-olds as well as adults.
 
 1 to 11 Years of Age
 
@@ -132,10 +142,9 @@ The pharmacokinetics of esomeprazole were studied in pediatric patients with GER
 Following once daily dosing for 5 days, the total exposure (AUC) for the 10 mg dose in patients aged 6 to 11 years was similar to that seen with the 20 mg dose in adults and adolescents aged 12 to 17 years.
 The total exposure for the 10 mg dose in patients aged 1 to 5 years was approximately 30% higher than the 10 mg dose in patients aged 6 to 11 years.
 The total exposure for the 20 mg dose in patients aged 6 to 11 years was higher than that observed with the 20 mg dose in 12 to 17 year-olds and adults, but lower than that observed with the 40 mg dose in 12 to 17 year-olds and adults.
+See Table 6.
 
-Table 5
-
-Summary of PK Parameters in 1 to 11 Year Olds with GERD Following 5 Days of Once-Daily Oral Esomeprazole Treatment
+Table 6: Summary of PK Parameters in 1 to 11 Year Olds with GERD following 5 Days of Once-Daily Oral Esomeprazole Treatment
 
 |  | 1 to 5 Year Olds | 6 to 11 Year Olds |  |
 | --- | --- | --- | --- |
@@ -152,10 +161,9 @@ The pharmacokinetics of NEXIUM were studied in 28 adolescent patients with GERD 
 Patients were randomized to receive NEXIUM 20 mg or 40 mg once daily for 8 days.
 Mean Cmax and AUC values of esomeprazole were not affected by body weight or age; and more than dose-proportional increases in mean Cmax and AUC values were observed between the two dose groups in the study.
 Overall, NEXIUM pharmacokinetics in adolescent patients aged 12 to 17 years were similar to those observed in adult patients with symptomatic GERD.
+See Table 7.
 
-Table 6
-
-Comparison of PK Parameters in 12 to 17 Year Olds with GERD and Adults with Symptomatic GERD Following the Repeated Daily Oral Dose Administration of EsomeprazoleDuration of treatment for 12 to 17 year olds and adults were 8 days and 5 days, respectively.
+Table 7: Comparison of PK Parameters in 12 to 17 Year Olds with GERD and Adults with Symptomatic GERD Following the Repeated Daily Oral Dose Administration of EsomeprazoleDuration of treatment for 12 to 17 year olds and adults were 8 days and 5 days, respectively.
 Data were obtained from two independent studies.
 
 |  | 12 to 17 Year Olds (N=28) |  | Adults (N=36) |  |
@@ -191,7 +199,7 @@ Studies evaluating concomitant administration of esomeprazole and either naproxe
 
 ## 12.4 Microbiology
 
-NEXIUM, amoxicillin, and clarithromycin triple therapy has been shown to be active against most strains of Helicobacter pylori (H. pylori) in vitro and in clinical infections as described in the Clinical Studies (14) and Indications and Usage (1) sections.
+NEXIUM, amoxicillin, and clarithromycin triple therapy has been shown to be active against most strains of Helicobacter pylori (H. pylori) in vitro and in clinical infections [see Indications and Usage (1) and Clinical Studies (14)].
 
 Helicobacter pylori: Susceptibility testing of H. pylori isolates was performed for amoxicillin and clarithromycin using agar dilution methodology, and minimum inhibitory concentrations (MICs) were determined.
 
@@ -199,11 +207,9 @@ Pretreatment Resistance: Clarithromycin pretreatment resistance rate (MIC ≥ 1 
 A total of > 99% (394/395) of patients had H. pylori isolates that were considered to be susceptible (MIC ≤ 0.25 mcg/mL) to amoxicillin at baseline.
 One patient had a baseline H. pylori isolate with an amoxicillin MIC = 0.5 mcg/mL.
 
-Clarithromycin Susceptibility Test Results and Clinical/Bacteriologic Outcomes: The baseline H. pylori clarithromycin susceptibility results and the H. pylori eradication results at the Day 38 visit are shown in the table below:
+Clarithromycin Susceptibility Test Results and Clinical/Bacteriologic Outcomes: The baseline H. pylori clarithromycin susceptibility results and the H. pylori eradication results at the Day 38 visit are shown in the Table 8:
 
-Table 7
-
-Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pretreatment and post-treatment clarithromycin susceptibility test results for Triple Therapy - (Esomeprazole magnesium 40 mg once daily/amoxicillin 1000 mg twice daily/clarithromycin 500 mg twice daily for 10 days)
+Table 8: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pretreatment and post-treatment clarithromycin susceptibility test results for Triple Therapy - (Esomeprazole magnesium 40 mg once daily/amoxicillin 1000 mg twice daily/clarithromycin 500 mg twice daily for 10 days)
 
 | Clarithromycin Pretreatment Results | H. pylori negative (Eradicated) |  | H. pylori positive(Not Eradicated)Post-treatment susceptibility results |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -229,7 +235,7 @@ The agar dilution plates are incubated at 35°C in a microaerobic environment pr
 After 3 days of incubation, the MICs are recorded as the lowest concentration of antimicrobial agent required to inhibit growth of the organism.
 The clarithromycin and amoxicillin MIC values should be interpreted according to the following criteria:
 
-Table 8
+Table 9: Clarithromycin and Amoxicillin MIC values and interpretation
 
 | Clarithromycin MIC (mcg/mL)These are breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods. | Interpretation |
 | --- | --- |
@@ -242,7 +248,7 @@ Table 8
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 Standard clarithromycin and amoxicillin powders should provide the following MIC values:
 
-Table 9
+Table 10: MIC values
 
 | Microorganism | Antimicrobial Agent | MIC (mcg/mL) These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods. |
 | --- | --- | --- |

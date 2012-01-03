@@ -33,6 +33,10 @@ NDC 0186-5040-85 bottles of 1000
 NEXIUM For Delayed-Release Oral Suspension is supplied as a unit dose packet containing a fine yellow powder, consisting of white to pale brownish esomeprazole granules and pale yellow inactive granules.
 NEXIUM unit dose packets are supplied as follows:
 
+NDC 0186-4025-01 unit dose packages of 30: 2.5 mg packets
+
+NDC 0186-4050-01 unit dose packages of 30: 5 mg packets
+
 NDC 0186-4010–01 unit dose packages of 30: 10 mg packets
 
 NDC 0186-4020–01 unit dose packages of 30: 20 mg packets
@@ -43,7 +47,3 @@ Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F).
 [See USP Controlled Room Temperature].
 Keep NEXIUM Delayed-Release Capsules container tightly closed.
 Dispense in a tight container if the NEXIUM Delayed-Release Capsules product package is subdivided.
-
-NEXIUM and the color purple as applied to the capsule are registered trademarks of the AstraZeneca group of companies.
-
-©AstraZeneca 2011

@@ -4,17 +4,14 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
+Adults
+
 The safety of NEXIUM was evaluated in over 15,000 patients (aged 18 to 84 years) in clinical trials worldwide including over 8,500 patients in the United States and over 6,500 patients in Europe and Canada.
 Over 2,900 patients were treated in long-term studies for up to 6-12 months.
 In general, NEXIUM was well tolerated in both short and long-term clinical trials.
 
-The safety of NEXIUM was evaluated in 316 pediatric and adolescent patients aged 1 to 17 years in four clinical trials for the treatment of symptomatic GERD [see Clinical Studies (14.2)].
-In 109 pediatric patients aged 1 to 11 years, the most frequently reported (at least 1%) treatment-related adverse reactions in these patients were diarrhea (2.8%), headache (1.9%) and somnolence (1.9%).
-In 149 pediatric patients aged 12 to 17 years the most frequently reported (at least 2%) treatment-related adverse reactions in these patients were headache (8.1%), abdominal pain (2.7%), diarrhea (2%), and nausea (2%).
-No new safety concerns were identified in pediatric patients.
-
 The safety in the treatment of healing of erosive esophagitis was assessed in four randomized comparative clinical trials, which included 1,240 patients on NEXIUM 20 mg, 2,434 patients on NEXIUM 40 mg, and 3,008 patients on omeprazole 20 mg daily.
-The most frequently occurring adverse reactions (≥1%) in all three groups were headache (5.5, 5.0, and 3.8, respectively) and diarrhea (no difference among the three groups).
+The most frequently occurring adverse reactions (≥1%) in all three groups were headache (5.5, 5, and 3.8, respectively) and diarrhea (no difference among the three groups).
 Nausea, flatulence, abdominal pain, constipation, and dry mouth occurred at similar rates among patients taking NEXIUM or omeprazole.
 
 Additional adverse reactions that were reported as possibly or probably related to NEXIUM with an incidence < 1% are listed below by body system:
@@ -51,7 +48,7 @@ Urogenital: abnormal urine, albuminuria, cystitis, dysuria, fungal infection, he
 
 Visual: conjunctivitis, vision abnormal.
 
-The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to NEXIUM, were reported in ≤ 1% of patients: increased creatinine, uric acid, total bilirubin, alkaline phosphatase, ALT, AST, hemoglobin, white blood cell count, platelets, serum gastrin, potassium, sodium, thyroxine and thyroid stimulating hormone [see Clinical Pharmacology (12) for further information on thyroid effects].
+The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to NEXIUM, were reported in ≤ 1% of patients: increased creatinine, uric acid, total bilirubin, alkaline phosphatase, ALT, AST, hemoglobin, white blood cell count, platelets, serum gastrin, potassium, sodium, thyroxine and thyroid stimulating hormone [see Clinical Pharmacology (12)].
 Decreases were seen in hemoglobin, white blood cell count, platelets, potassium, sodium, and thyroxine.
 
 Endoscopic findings that were reported as adverse reactions include: duodenitis, esophagitis, esophageal stricture, esophageal ulceration, esophageal varices, gastric ulcer, gastritis, hernia, benign polyps or nodules, Barrett’s esophagus, and mucosal discoloration.
@@ -62,7 +59,20 @@ There were no differences in types of related adverse reactions seen during main
 Two placebo-controlled studies were conducted in 710 patients for the treatment of symptomatic gastroesophageal reflux disease.
 The most common adverse reactions that were reported as possibly or probably related to NEXIUM were diarrhea (4.3%), headache (3.8%), and abdominal pain (3.8%).
 
-## 6.2 Combination Treatment with Amoxicillin and Clarithromycin
+Pediatrics
+
+The safety of NEXIUM was evaluated in 316 pediatric and adolescent patients aged 1 to 17 years in four clinical trials for the treatment of symptomatic GERD [see Clinical Studies (14.2)].
+In 109 pediatric patients aged 1 to 11 years, the most frequently reported (at least 1%) treatment-related adverse reactions in these patients were diarrhea (2.8%), headache (1.9%) and somnolence (1.9%).
+In 149 pediatric patients aged 12 to 17 years the most frequently reported (at least 2%) treatment-related adverse reactions in these patients were headache (8.1%), abdominal pain (2.7%), diarrhea (2%), and nausea (2%).
+
+The safety of NEXIUM was evaluated in 167 pediatric patients from birth to <1 year of age in three clinical trials.
+[See Clinical Studies (14.6)] In a study that included 26 pediatric patients aged birth to 1 month there were no treatment related adverse reactions.
+In a study that included 43 pediatric patients age 1 to 11 months, inclusive the most frequently reported (at least 5%) adverse reactions, irrespective of causality, were irritability and vomiting.
+In a study that included 98 pediatric patients, age 1 to 11 months, inclusive exposed to esomeprazole for up to 6 weeks (including 39 patients randomized to the withdrawal phase), there were 4 treatment-related adverse reactions: abdominal pain (1%), regurgitation (1%), tachypnea (1%), and increased ALT (1%).
+
+No new safety concerns were identified in pediatric patients.
+
+Combination Treatment with Amoxicillin and Clarithromycin
 
 In clinical trials using combination therapy with NEXIUM plus amoxicillin and clarithromycin, no additional adverse reactions specific to these drug combinations were observed.
 Adverse reactions that occurred were limited to those observed when using NEXIUM, amoxicillin, or clarithromycin alone.
@@ -76,7 +86,7 @@ In clinical trials using combination therapy with NEXIUM plus amoxicillin and cl
 
 For more information on laboratory changes with amoxicillin or clarithromycin, refer to their package inserts, Adverse Reactions section.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of NEXIUM.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

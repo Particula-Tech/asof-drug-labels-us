@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-The active ingredient in NEXIUM® (esomeprazole magnesium) Delayed-Release Capsules and NEXIUM (esomeprazole magnesium) For Delayed-Release Oral Suspension is bis(5-methoxy-2-[(S)-[(4-methoxy-3,5-dimethyl-2-pyridinyl)methyl]sulfinyl]-1H-benzimidazole-1-yl) magnesium trihydrate.
+The active ingredient in the proton pump inhibitor NEXIUM® (esomeprazole magnesium) Delayed-Release Capsules for oral administration and NEXIUM (esomeprazole magnesium) For Delayed-Release Oral Suspension is bis(5-methoxy-2-[(S)-[(4-methoxy-3,5-dimethyl-2-pyridinyl)methyl]sulfinyl]-1H-benzimidazole-1-yl) magnesium trihydrate.
 Esomeprazole is the S-isomer of omeprazole, which is a mixture of the S- and R- isomers.
 (Initial U.S. approval of esomeprazole magnesium: 2001).
 Its molecular formula is (C17H18N3O3S)2Mg x 3 H2O with molecular weight of 767.2 as a trihydrate and 713.1 on an anhydrous basis.
@@ -17,6 +17,6 @@ NEXIUM is supplied in delayed-release capsules and in packets for a delayed-rele
 Each delayed-release capsule contains 20 mg, or 40 mg of esomeprazole (present as 22.3 mg, or 44.5 mg esomeprazole magnesium trihydrate) in the form of enteric-coated granules with the following inactive ingredients: glyceryl monostearate 40-55, hydroxypropyl cellulose, hypromellose, magnesium stearate, methacrylic acid copolymer type C, polysorbate 80, sugar spheres, talc, and triethyl citrate.
 The capsule shells have the following inactive ingredients: gelatin, FD&C Blue #1, FD&C Red #40, D&C Red #28, titanium dioxide, shellac, ethyl alcohol, isopropyl alcohol, n-butyl alcohol, propylene glycol, sodium hydroxide, polyvinyl pyrrolidone, and D&C Yellow #10.
 
-Each packet of NEXIUM For Delayed-Release Oral Suspension contains 10 mg, 20 mg, or 40 mg of esomeprazole, in the form of the same enteric-coated granules used in NEXIUM Delayed-Release Capsules, and also inactive granules.
+Each packet of NEXIUM For Delayed-Release Oral Suspension contains 2.5 mg, 5 mg, 10 mg, 20 mg, or 40 mg of esomeprazole, in the form of the same enteric-coated granules used in NEXIUM Delayed-Release Capsules, and also inactive granules.
 The inactive granules are composed of the following ingredients: dextrose, xanthan gum, crospovidone, citric acid, iron oxide, and hydroxypropyl cellulose.
 The esomeprazole granules and inactive granules are constituted with water to form a suspension and are given by oral, nasogastric, or gastric administration.
