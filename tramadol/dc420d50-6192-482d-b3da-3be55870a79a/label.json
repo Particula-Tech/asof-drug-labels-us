@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA091607"
+  ],
+  "inn": "tramadol",
+  "labeler": "Sun Pharma Global FZE",
+  "package_ndcs": [
+    "47335-531-08",
+    "47335-531-18",
+    "47335-531-83",
+    "47335-531-88",
+    "47335-533-08",
+    "47335-533-18",
+    "47335-533-83",
+    "47335-533-88",
+    "47335-537-08",
+    "47335-537-18",
+    "47335-537-83",
+    "47335-537-88"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "tramadol hydrochloride",
+      "name": "TRAMADOL HYDROCHLORIDE"
+    }
+  ],
+  "setid": "dc420d50-6192-482d-b3da-3be55870a79a",
+  "source": "dailymed"
+}
