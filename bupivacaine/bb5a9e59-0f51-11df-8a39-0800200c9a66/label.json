@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022496"
+  ],
+  "inn": "bupivacaine",
+  "labeler": "Pacira Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "65250-133-10",
+    "65250-266-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION, LIPOSOMAL",
+      "generic": "bupivacaine",
+      "name": "EXPAREL"
+    }
+  ],
+  "setid": "bb5a9e59-0f51-11df-8a39-0800200c9a66",
+  "source": "dailymed"
+}
