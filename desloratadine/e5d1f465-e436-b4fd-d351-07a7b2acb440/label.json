@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078367"
+  ],
+  "inn": "desloratadine",
+  "labeler": "Dr. Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-360-31",
+    "55111-551-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "desloratadine",
+      "name": "Desloratadine"
+    }
+  ],
+  "setid": "e5d1f465-e436-b4fd-d351-07a7b2acb440",
+  "source": "dailymed"
+}
