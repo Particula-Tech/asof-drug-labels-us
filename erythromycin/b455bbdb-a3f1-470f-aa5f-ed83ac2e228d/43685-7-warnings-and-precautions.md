@@ -74,7 +74,7 @@ The following CYP3A based drug interactions have been observed with erythromycin
 
 Concurrent use of erythromycin and ergotamine or dihydroergotamine has been associated in some patients with acute ergot toxicity characterized by severe peripheral vasospasm and dysesthesia.
 
-Triazolobenzodiazepines (such as triazolam and alprazolam) and related benzodiazepines
+#### Triazolobenzodiazepines (such as triazolam and alprazolam) and related benzodiazepines
 
 Erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines.
 

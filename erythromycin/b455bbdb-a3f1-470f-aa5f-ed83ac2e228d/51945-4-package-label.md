@@ -1,4 +1,19 @@
-# PRINCIPAL DISPLAY PANEL - 200 mg/5 mL Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 Tablet Bottle Label
+
+NDC 24338-100-13 100 Tablets
+
+E.E.S.
+400® Film-coated Tablets
+
+ERYTHROMYCIN ETHYLSUCCINATE TABLETS, USP
+
+400 mg Erythromycin activity
+
+Rx only
+
+arbor™ PHARMACEUTICALS, INC. www.arborpharma.com
+
+# PRINCIPAL DISPLAY PANEL - 5 mL Bottle Label
 
 NDC 24338-134-02 100 mL (when mixed) For Oral Suspension
 

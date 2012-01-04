@@ -17,4 +17,5 @@ E.E.S.
 Store tablets below 86°F (30°C).
 
 Store granules, prior to mixing, below 86°F (30°C).
+
 After mixing, refrigerate and use within 10 days.

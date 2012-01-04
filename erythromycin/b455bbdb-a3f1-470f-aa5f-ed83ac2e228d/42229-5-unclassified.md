@@ -8,6 +8,6 @@ The is a trademark of Abbott Laboratories in various jurisdictions, and is used 
 
 Arbor Pharmaceuticals, Inc. Raleigh, NC
 
-arbor™ PHARMACEUTICALS, INC.
-
-www.arborpharma.com
+(Nos.
+5729, 6306, 6369, 6373) 03-A425-R1 Rev.
+Dec, 2010

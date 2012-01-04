@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
 Orally administered erythromycin ethylsuccinate suspensions and Filmtab tablets are readily and reliably absorbed.
-Comparable serum levels of erythromycin are achieved in the fasting and non-fasting states.
+Comparable serum levels of erythromycin are achieved in the fasting and nonfasting states.
 
 Erythromycin diffuses readily into most body fluids.
 Only low concentrations are normally achieved in the spinal fluid, but passage of the drug across the blood-brain barrier increases in meningitis.
@@ -97,7 +97,7 @@ Standard erythromycin powder should provide the following MIC values:
 | E. faecalis ATCC 29212 | 1-4 |
 | S. pneumoniae ATCC 49619 | 0.03-0.12 |
 
-### Diffusion Techniques
+## Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
