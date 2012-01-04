@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 KEPPRA is an antiepileptic drug available as 250 mg (blue), 500 mg (yellow), 750 mg (orange), and 1000 mg (white) tablets and as a clear, colorless, grape-flavored liquid (100 mg/mL) for oral administration.
 

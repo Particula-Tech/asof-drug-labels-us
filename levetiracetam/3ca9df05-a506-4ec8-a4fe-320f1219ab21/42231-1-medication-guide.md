@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+MEDICATION GUIDE
 
 KEPPRA® (KEPP-ruh) (levetiracetam) tablets and oral solution
 
@@ -42,24 +42,20 @@ What is KEPPRA?
 
 KEPPRA is a prescription medicine taken by mouth that is used with other medicines to treat:
 
-- partial onset seizures in people 4 years of age and older with epilepsy
+- partial onset seizures in people 1 month of age and older with epilepsy
 - myoclonic seizures in people 12 years of age and older with juvenile myoclonic epilepsy
 - primary generalized tonic-clonic seizures in people 6 years of age and older with certain types of generalized epilepsy.
 
-It is not known if KEPPRA is safe or effective in children under 4 years of age.
+It is not known if KEPPRA is safe or effective in children under 1 month of age.
 
 Before taking your medicine, make sure you have received the correct medicine.
 Compare the name above with the name on your bottle and the appearance of your medicine with the description of KEPPRA provided below.
 Tell your pharmacist immediately if you think you have been given the wrong medicine.
 
 250 mg KEPPRA tablets are blue, oblong-shaped, scored, film-coated tablets marked with "ucb 250" on one side.
-
 500 mg KEPPRA tablets are yellow, oblong-shaped, scored, film-coated tablets marked with "ucb 500" on one side.
-
 750 mg KEPPRA tablets are orange, oblong-shaped, scored, film-coated tablets marked with "ucb 750" on one side.
-
 1000 mg KEPPRA tablets are white, oblong-shaped, scored, film-coated tablets marked with "ucb 1000" on one side.
-
 KEPPRA oral solution is a clear, colorless, grape-flavored liquid.
 
 What should I tell my healthcare provider before starting KEPPRA?
@@ -77,7 +73,7 @@ Before taking KEPPRA, tell your healthcare provider about all of your medical co
   The purpose of these registries is to collect information about the safety of KEPPRA and other antiepileptic medicine during pregnancy.
 - are breast feeding.
   KEPPRA can pass into your milk and may harm your baby.
-  You and your healthcare provider should discuss whether you should take KEPPRA or breast feed; you should not do both.
+  You and your healthcare provider should discuss whether you should take KEPPRA or breast-feed; you should not do both.
 
 Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Do not start a new medicine without first talking with your healthcare provider.
@@ -124,19 +120,24 @@ Call your healthcare provider right away if you have any of these symptoms:
   A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.
 - extreme sleepiness, tiredness, and weakness
 - problems with muscle coordination (problems walking and moving)
+- a skin rash.
+  Serious skin rashes can happen after you start taking KEPPRA.
+  There is no way to tell if a mild rash will become a serious reaction.
 
 The most common side effects seen in people who take KEPPRA include:
 
 - sleepiness
 - weakness
-- dizziness
 - infection
+- dizziness
 
 The most common side effects seen in children who take KEPPRA include, in addition to those listed above:
 
-- accidental injury
+- tiredness
+- acting aggressive
+- nasal congestion
+- decreased appetite
 - irritability
-- hostility
 
 These side effects can happen at any time but happen more often within the first 4 weeks of treatment except for infection.
 
@@ -167,32 +168,22 @@ You can also get information about KEPPRA at www.keppra.com or call 1-866-822-00
 
 What are the ingredients of KEPPRA?
 
-KEPPRA tablet active ingredient: levetiracetam
+KEPPRA tablet active ingredient: levetiracetam Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, polyethylene glycol 3350, polyethylene glycol 6000, polyvinyl alcohol, talc, titanium dioxide, and additional agents listed below:
 
-Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, polyethylene glycol 3350, polyethylene glycol 6000, polyvinyl alcohol, talc, titanium dioxide, and additional agents listed below:
+250 mg tablets: FD&C Blue #2/indigo carmine aluminum lake 500 mg tablets: iron oxide yellow 750 mg tablets: FD&C yellow #6/sunset yellow FCF aluminum lake, iron oxide red
 
-250 mg tablets: FD&C Blue #2/indigo carmine aluminum lake
-
-500 mg tablets: iron oxide yellow
-
-750 mg tablets: FD&C yellow #6/sunset yellow FCF aluminum lake, iron oxide red
-
-KEPPRA oral solution active ingredient: levetiracetam
-
-Inactive ingredients: ammonium glycyrrhizinate, citric acid monohydrate, glycerin, maltitol solution, methylparaben, potassium acesulfame, propylparaben, purified water, sodium citrate dihydrate and natural and artificial flavor.
+KEPPRA oral solution active ingredient: levetiracetam Inactive ingredients: ammonium glycyrrhizinate, citric acid monohydrate, glycerin, maltitol solution, methylparaben, potassium acesulfame, propylparaben, purified water, sodium citrate dihydrate and natural and artificial flavor.
 
 KEPPRA does not contain lactose or gluten.
 KEPPRA oral solution does contain carbohydrates.
 The liquid is dye-free.
 
-Rx Only
-
 This Medication Guide has been approved by the US Food and Drug Administration.
 
 Distributed by UCB, Inc. Smyrna, GA 30080
 
-KEPPRA is a registered trademark of the UCB Group of companies ©2009, UCB, Inc., Smyrna, GA 30080 All rights reserved.
+KEPPRA is a registered trademark of the UCB Group of companies © 2011, UCB, Inc., Smyrna, GA 30080 All rights reserved.
 Printed in the U.S.A.
 
 Rev.
-1E 04/2009
+12/2011
