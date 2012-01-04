@@ -31,7 +31,7 @@ During initiation of therapy, the patient should be cautioned to avoid situation
 Worsening heart failure or fluid retention may occur during up-titration of carvedilol.
 If such symptoms occur, diuretics should be increased and the carvedilol dose should not be advanced until clinical stability resumes [see Dosage and Administration (2)].
 Occasionally it is necessary to lower the carvedilol dose or temporarily discontinue it.
-Such episodes do not preclude subsequent successful titration of, or a favorable response to, carvedilol..
+Such episodes do not preclude subsequent successful titration of, or a favorable response to, carvedilol.
 
 ## 5.5 Non-allergic Bronchospasm
 
@@ -65,9 +65,9 @@ Patients at risk appear to be those with low blood pressure (systolic blood pres
 Renal function has returned to baseline when carvedilol was stopped.
 In patients with these risk factors it is recommended that renal function be monitored during up-titration of carvedilol and the drug discontinued or dosage reduced if worsening of renal function occurs.
 
-## 5.9 Anesthesia and Major Surgery
+## 5.9 Major Surgery
 
-If treatment with carvedilol is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10) for information on treatment of bradycardia and hypertension].
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 ## 5.10 Thyrotoxicosis
 

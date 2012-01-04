@@ -54,19 +54,19 @@ Incidence > 0.1% to ≤ 1%
 
 Cardiovascular: Peripheral ischemia, tachycardia.
 
-Central and Peripheral Nervous System: Hypokinesia
+Central and Peripheral Nervous System: Hypokinesia.
 
-Gastrointestinal: Bilirubinemia, increased hepatic enzymes (0.2% of hypertension patients were discontinued from therapy because of increases in hepatic enzymes) [See Adverse Reactions (6.2)]
+Gastrointestinal: Bilirubinemia, increased hepatic enzymes (0.2% of hypertension patients were discontinued from therapy because of increases in hepatic enzymes) [see Adverse Reactions (6.2)].
 
 Psychiatric: Nervousness, sleep disorder, aggravated depression, impaired concentration, abnormal thinking, paroniria, emotional lability.
 
-Respiratory System: Asthma [See Contraindications (4)]
+Respiratory System: Asthma [see Contraindications (4)].
 
-Reproductive, male: Decreased libido
+Reproductive, male: Decreased libido.
 
 Skin and Appendages: Pruritus, rash erythematous, rash maculopapular, rash psoriaform, photosensitivity reaction.
 
-Special Senses: Tinnitus
+Special Senses: Tinnitus.
 
 Urinary System: Micturition frequency increased.
 
@@ -95,7 +95,12 @@ No clinically relevant changes were noted in fasting serum glucose in hypertensi
 The following adverse reactions have been identified during post-approval use of carvedilol.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Reports of aplastic anemia and severe skin reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, and erythema multiforme) have been rare and received only when carvedilol was administered concomitantly with other medications associated with such reactions.
-Rare reports of hypersensitivity reactions (e.g. anaphylactic reaction, angioedema, and urticaria) have been received for carvedilol.
+Blood and Lymphatic System Disorders: Aplastic anemia.
 
-Urinary incontinence in women (which resolved upon discontinuation of the medication) and interstitial pneumonitis have been reported rarely.
+Immune System Disorders: Hypersensitivity (e.g., anaphylactic reactions, angioedema, urticaria).
+
+Renal and Urinary Disorders: Urinary incontinence.
+
+Respiratory, Thoracic and Mediastinal Disorders: Interstitial pneumonitis.
+
+Skin and Subcutaneous Tissue Disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme.

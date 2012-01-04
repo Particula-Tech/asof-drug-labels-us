@@ -9,7 +9,7 @@ Retrospective analysis of side effects in clinical trials showed that poor 2D6 m
 
 Patients taking both agents with β-blocking properties and a drug that can deplete catecholamines (e.g., reserpine and monoamine oxidase inhibitors) should be observed closely for signs of hypotension and/or severe bradycardia.
 
-Concomitant administration of clonidine with agents with β-blocking properties may potentiate blood-pressure and hear-trate-lowering effects.
+Concomitant administration of clonidine with agents with β-blocking properties may potentiate blood-pressure and heart rate-lowering effects.
 When concomitant treatment with agents with β-blocking properties and clonidine is to be terminated, the β-blocking agent should be discontinued first.
 Clonidine therapy can then be discontinued several days later by gradually decreasing the dosage.
 
@@ -48,3 +48,7 @@ As with other agents with β-blocking properties, if carvedilol is to be adminis
 
 Agents with β-blocking properties may enhance the blood-sugar-reducing effect of insulin and oral hypoglycemics.
 Therefore, in patients taking insulin or oral hypoglycemics, regular monitoring of blood glucose is recommended [see Warnings and Precautions (5.6)].
+
+## 7.9 Anesthesia
+
+If treatment with carvedilol is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage (10)].

@@ -16,15 +16,11 @@ Patients taking carvedilol should be advised of the following:
 - Diabetic patients should report any changes in blood sugar levels to their physician.
 - Contact lens wearers may experience decreased lacrimation.
 
-Glenmark Generics Inc., USA
-
-Mahwah, NJ 07430
-
 ## 17.2 FDA-Approved Patient Labeling
 
 PATIENT INFORMATION
 
-Carvedilol Tablets, USP
+Carvedilol Tablets USP
 
 (kar' ve dil ol)
 
@@ -39,9 +35,10 @@ Carvedilol is a prescription medicine that belongs to a group of medicines calle
 
 Carvedilol is used, often with other medicines, for the following conditions:
 
-- To treat patients with high blood pressure (hypertension)
 - To treat patients who had a heart attack that worsened how well the heart pumps
-- Carvedilol is not approved for use in children under 18 years of age.
+- To treat patients with high blood pressure (hypertension)
+
+Carvedilol is not approved for use in children under 18 years of age.
 
 ### Who should not take Carvedilol?
 
@@ -99,8 +96,8 @@ If your doctor decides that you should stop taking carvedilol, your doctor may s
 
 ### What should I avoid while taking Carvedilol?
 
-Carvedilol can cause you to feel dizzy, tired, or faint.
-Do not drive a car, use machinery, or do anything that needs you to be alert if you have these symptoms.
+- Carvedilol can cause you to feel dizzy, tired, or faint.
+  Do not drive a car, use machinery, or do anything that needs you to be alert if you have these symptoms.
 
 ### What are possible side effects of Carvedilol?
 
@@ -147,17 +144,12 @@ Active Ingredient: Carvedilol, USP.
 
 Inactive Ingredients: Colloidal silicon dioxide, crospovidone, hypromellose, lactose, magnesium stearate, polyethylene glycol, polysorbate 80, povidone and titanium dioxide.
 
-Carvedilol tablets, USP come in the following strengths: 3.125 mg, 6.25 mg, 12.5 mg, 25 mg.
+Carvedilol tablets USP come in the following strengths: 3.125 mg, 6.25 mg, 12.5 mg, 25 mg.
 
-Manufactured by:
+### What is high blood pressure (hypertension)?
 
-Glenmark Generics Ltd. Colvale-Bardez, Goa 403 513, India
-
-Manufactured for:
-
-Glenmark Generics Inc., USA Mahwah, NJ 07430
-
-Questions?
-1 (888)721-7115 www.glenmarkgenerics.com
-
-March 2011
+Blood pressure is the force of blood in your blood vessels when your heart beats and when your heart rests.
+You have high blood pressure when the force is too much.
+High blood pressure makes the heart work harder to pump blood through the body and causes damage to blood vessels.
+Carvedilol can help your blood vessels relax so your blood pressure is lower.
+Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
