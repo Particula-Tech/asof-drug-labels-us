@@ -181,6 +181,6 @@ Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
 This Patient Information Leaflet has been approved by the U.S. Food and Drug Administration.
 
-1195459B1
+1195459B2
 
-Rev December 2010
+Rev November 2011
