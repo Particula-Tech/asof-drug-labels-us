@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050611"
+  ],
+  "inn": "erythromycin",
+  "labeler": "Arbor Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24338-112-60",
+    "24338-114-13"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "erythromycin ethylsuccinate",
+      "name": "PCE"
+    }
+  ],
+  "setid": "28a270f4-f713-4d88-b83a-f5b5e9b26746",
+  "source": "dailymed"
+}
