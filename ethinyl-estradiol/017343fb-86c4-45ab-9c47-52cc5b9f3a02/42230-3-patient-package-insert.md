@@ -268,7 +268,7 @@ What are the possible risks and side effects of NuvaRing®?
   You should also not take hormonal contraceptives soon after delivery of a baby.
   It is advisable to wait for at least four weeks after delivery if you are not breast-feeding.
   If you are breast-feeding, you should wait until you have weaned your child before using the pill (see PRECAUTIONS, NURSING MOTHERS).
-- Strokes and heart attacks Hormonal contraceptive may increase your risk of strokes (blockage of blood flow to the brain) or heart attacks (blockage of blood flow to the heart).
+- Strokes and heart attacks Hormonal contraceptives may increase your risk of strokes (blockage of blood flow to the brain) or heart attacks (blockage of blood flow to the heart).
   Any of these conditions can cause death or serious disability.
   Smoking greatly increases the risk of having strokes and heart attacks.
   Furthermore, smoking and the use of combination hormonal contraceptives, like NuvaRing®, greatly increases the chances of developing and dying of heart disease.
@@ -364,8 +364,8 @@ By comparison, the chances of getting pregnant in the first year of typical use 
 Other Information
 
 - Store NuvaRing® at room temperature, 25°C (77°F).
-  Temperatures can be from 59–86°F (15–30°C).
-  Avoid direct sunlight or storing above 86°F (30°C).
+  Temperatures can be from 15°-30°C (59°-86°F).
+  Avoid direct sunlight or storing above 30°C (86°F).
 - Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
   Do not use NuvaRing® for a condition for which it was not prescribed.
   Do not give NuvaRing® to anyone else who may want to use it.
@@ -377,7 +377,10 @@ You can ask your pharmacist or healthcare provider for information about NuvaRin
 
 1-877-NUVARING
 
-Manufactured for Organon USA Inc. Roseland, NJ 07068 by N.V.
-Organon, Oss, The Netherlands
+U.S. Patent No. 5,989,581.
 
-© 2008 Organon USA Inc. NUV-76926 6/08 00
+Copyright © 2001, 2010 N.V.
+Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
+
+34823804T Rev.
+11/10

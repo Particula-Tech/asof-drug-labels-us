@@ -318,7 +318,7 @@ Certain endocrine and liver function tests and blood components may be affected 
 
 ## 12. CARCINOGENESIS, MUTAGENESIS, IMPAIRMENT OF FERTILITY
 
-In a 24-month carcinogenicity study in rats with subdermal implants releasing 10 and 20 µg etonogestrel per day, (approximately 0.3 and 0.6 times the systemic steady-state exposure of women using NuvaRing®), no drug-related carcinogenic potential was observed.
+In a 24-month carcinogenicity study in rats with subdermal implants releasing 10 and 20 mcg etonogestrel per day, (approximately 0.3 and 0.6 times the systemic steady-state exposure of women using NuvaRing®), no drug-related carcinogenic potential was observed.
 Etonogestrel was not genotoxic in the in vitro Ames/Salmonella reverse mutation assay, the chromosomal aberration assay in Chinese hamster ovary cells or in the in vivo mouse micronucleus test.
 Fertility returned after withdrawal from treatment (see WARNINGS).
 

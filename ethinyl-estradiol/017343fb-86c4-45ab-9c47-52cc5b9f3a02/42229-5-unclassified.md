@@ -8,7 +8,10 @@ Rx only
 
 REFERENCES FURNISHED UPON REQUEST
 
-Manufactured for Organon USA Inc. Roseland, NJ 07068 by N.V.
-Organon, Oss, The Netherlands
+U.S. Patent No. 5,989,581.
 
-© 2008 Organon USA Inc. NUV-76928 6/08 00
+Copyright © 2001, 2010 N.V.
+Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
+
+34824304T Rev.
+11/10

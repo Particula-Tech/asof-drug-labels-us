@@ -17,7 +17,7 @@ TABLE III: PERCENTAGE OF WOMEN EXPERIENCING AN UNINTENDED PREGNANCY DURING THE F
 | Periodic abstinence | 25 |  | 63 |
 | Calendar |  | 9 |  |
 | Ovulation Method |  | 3 |  |
-| Sympto-ThermalCervical mucus (ovulation) method supplemented by calendar in the preovulatory and basal body temperature in the post-ovulatory phases. |  | 2 |  |
+| Sympto-ThermalCervical mucus (ovulation) method supplemented by calendar in the pre-ovulatory and basal body temperature in the post-ovulatory phases. |  | 2 |  |
 | Post-Ovulation |  | 1 |  |
 | CapWith spermicidal cream or jelly. |  |  |  |
 | Parous Women | 40 | 26 | 42 |
