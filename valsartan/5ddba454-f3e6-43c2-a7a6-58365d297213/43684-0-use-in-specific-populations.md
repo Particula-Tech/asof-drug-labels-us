@@ -29,7 +29,7 @@ If oliguria occurs, these infants may require blood pressure and renal perfusion
 Exchange transfusion or dialysis may be required to reverse hypotension and/or support decreased renal function.
 
 Healthcare professionals who prescribe drugs acting directly on the renin angiotensin system should counsel women of childbearing potential about the risks of these agents during pregnancy.
-[See Nonclincial Toxicology (13.2)]
+[See Nonclinical Toxicology (13.2)]
 
 ## 8.3 Nursing Mothers
 

@@ -1,8 +1,3 @@
-Pregnancy: Female patients of childbearing age should be told that use of drugs like Diovan that act on the renin-angiotensin system during pregnancy can cause serious problems in the fetus and infant including: low blood pressure, poor development of skull bones, kidney failure and death.
-Women using Diovan who become pregnant should notify their physician as soon as possible.
-
-T2011-70
-
 DIOVAN (DYE’-o-van)
 
 (valsartan) Tablets
@@ -36,6 +31,7 @@ High Blood Pressure (Hypertension).
 Blood pressure is the force in your blood vessels when your heart beats and when your heart rests.
 You have high blood pressure when the force is too much.
 DIOVAN can help your blood vessels relax so your blood pressure is lower.
+Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to the blood vessels.
 If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure and vision problems.
@@ -77,7 +73,7 @@ Especially tell your doctor if you take:
 
 • a salt substitute
 
-• nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
+• Nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
 
 Know the medicines you take.
 Keep a list of your medicines with you to show to your doctor and pharmacist when a new medicine is prescribed.
@@ -169,7 +165,7 @@ For a complete list, ask your doctor or pharmacist.
 
 How do I store DIOVAN?
 
-• Store DIOVAN tablets at room temperature between 59o to 86oF (15ºC - 30ºC).
+• Store DIOVAN tablets at room temperature between 59º to 86ºF (15ºC - 30ºC).
 
 • Keep DIOVAN tablets in a closed container in a dry place.
 
@@ -204,6 +200,6 @@ East Hanover, NJ 07936
 
 © Novartis
 
-T2011-70/T2011-71
+T2012-01/T2012-02
 
-April 2011/April 2011
+December 2011/December 2011

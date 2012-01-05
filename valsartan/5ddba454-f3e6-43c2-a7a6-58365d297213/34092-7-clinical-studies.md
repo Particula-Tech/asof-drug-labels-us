@@ -30,6 +30,7 @@ In a controlled trial the addition of HCTZ to valsartan 80 mg resulted in additi
 Patients with an inadequate response to 80 mg once daily were titrated to either 160 mg once daily or 80 mg twice daily, which resulted in a comparable response in both groups.
 
 In controlled trials, the antihypertensive effect of once-daily valsartan 80 mg was similar to that of once-daily enalapril 20 mg or once-daily lisinopril 10 mg.
+There are no trials of Diovan demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.
 
 There was essentially no change in heart rate in valsartan-treated patients in controlled trials.
 
