@@ -46,7 +46,7 @@ Hepatic Impairment: The effect of hepatic impairment (see Table 4 for definition
 When compared to patients with normal hepatic function, mild hepatic impairment did not alter dose-normalized bortezomib AUC.
 However, the dose-normalized mean AUC values were increased by approximately 60% in patients with moderate or severe hepatic impairment.
 A lower starting dose is recommended in patients with moderate or severe hepatic impairment, and those patients should be monitored closely.
-[see Dosage and Administration (2.5), Warning and Precautions (5.11) and Use in Specific Populations (8.7)]
+[see Dosage and Administration (2.6), Warnings and Precautions (5.10) and Use in Specific Populations (8.7)]
 
 Renal Impairment: A pharmacokinetic study was conducted in patients with various degrees of renal impairment who were classified according to their creatinine clearance values (CrCl) into the following groups: Normal (CrCl ≥60 mL/min/1.73 m2, N=12), Mild (CrCl=40-59 mL/min/1.73 m2, N=10), Moderate (CrCl=20-39 mL/min/1.73 m2, N=9), and Severe (CrCl < 20 mL/min/1.73 m2, N=3).
 A group of dialysis patients who were dosed after dialysis was also included in the study (N=8).
@@ -56,17 +56,6 @@ Exposure of bortezomib (dose-normalized AUC and Cmax) was comparable among all t
 
 Pediatric: There are no pharmacokinetic data in pediatric patients.
 
-Effect of Ketoconazole: Co-administration of ketoconazole, a potent CYP3A inhibitor, showed a 35% increase in mean bortezomib AUC, based on data from 12 patients.
-[see Drug Interactions (7.1)]
-
-Effect of Melphalan-Prednisone: Co-administration of melphalan-prednisone on VELCADE showed a 17% increase in mean bortezomib AUC based on data from 21 patients.
-This increase is unlikely to be clinically relevant.
-[see Drug Interactions (7.2)]
-
-Effect of Omeprazole: Co-administration of omeprazole, a potent inhibitor of CYP2C19, had no significant effect on the pharmacokinetics of bortezomib, based on data from 17 patients.
-[see Drug Interactions (7.3)]
-
-Cytochrome P450: Bortezomib is a poor inhibitor of human liver microsome cytochrome P450 1A2, 2C9, 2D6, and 3A4, with IC50 values of >30μM (>11.5μg/mL).
-Bortezomib may inhibit 2C19 activity (IC50 = 18 μM, 6.9 μg/mL) and increase exposure to drugs that are substrates for this enzyme.
+Cytochrome P450: Bortezomib is a poor inhibitor of human liver microsome cytochrome P450 1A2, 2C9, 2D6, and 3A4, with IC50 values of > 30µM (> 11.5µg/mL).
+Bortezomib may inhibit 2C19 activity (IC50 = 18 µM, 6.9 µg/mL) and increase exposure to drugs that are substrates for this enzyme.
 Bortezomib did not induce the activities of cytochrome P450 3A4 and 1A2 in primary cultured human hepatocytes.
-[see Drug Interactions (7.4)]

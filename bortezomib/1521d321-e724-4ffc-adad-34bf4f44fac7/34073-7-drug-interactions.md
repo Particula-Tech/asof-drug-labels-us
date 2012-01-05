@@ -1,15 +1,20 @@
 # 7 DRUG INTERACTIONS
 
-7.1 Ketoconazole: Co-administration of ketoconazole, a potent CYP3A inhibitor, increased the exposure of bortezomib.
-[see Pharmacokinetics (12.3)] Therefore, patients should be closely monitored when given bortezomib in combination with potent CYP3A4 inhibitors (e.g. ketoconazole, ritonavir).
-[see Pharmacokinetics (12.3)]
+Bortezomib is a substrate of cytochrome P450 enzyme 3A4, 2C19 and 1A2.
 
-7.2 Melphalan-Prednisone: Co-administration of melphalan-prednisone increased the exposure of bortezomib.
+7.1 CYP3A4 inhibitors:Co-administration of ketoconazole, a strong CYP3A4 inhibitor, increased the exposure of bortezomib by 35% in 12 patients.
+Therefore, patients should be closely monitored when given bortezomib in combination with strong CYP3A4 inhibitors (e.g. ketoconazole, ritonavir).
+
+7.2 CYP2C19 inhibitors:Co-administration of omeprazole, a strong inhibitor of CYP2C19, had no effect on the exposure of bortezomib in 17 patients.
+
+7.3 CYP3A4 inducers:Co-administration of rifampin, a strong CYP3A4 inducer, is expected to decrease the exposure of bortezomib by at least 45%.
+Because the drug interaction study (n=6) was not designed to exert the maximum effect of rifampin on bortezomib PK, decreases greater than 45% may occur.
+
+Efficacy may be reduced when VELCADE is used in combination with strong CYP3A4 inducers; therefore, concomitant use of strong CYP3A4 inducers is not recommended in patients receiving VELCADE.
+
+St. John's Wort (Hypericum perforatum) may decrease bortezomib exposure unpredictably and should be avoided.
+
+7.4 Dexamethasone:Co-administration of dexamethasone, a weak CYP3A4 inducer, had no effect on the exposure of bortezomib in 7 patients.
+
+7.5 Melphalan-Prednisone:Co-administration of melphalan-prednisone increased the exposure of bortezomib by 17% in 21 patients.
 However, this increase is unlikely to be clinically relevant.
-[see Pharmacokinetics (12.3)]
-
-7.3 Omeprazole: Co-administration of omeprazole, a potent inhibitor of CYP2C19, had no effect on the exposure of bortezomib.
-[see Pharmacokinetics (12.3)]
-
-7.4 Cytochrome P450: Patients who are concomitantly receiving VELCADE and drugs that are inhibitors or inducers of cytochrome P450 3A4 should be closely monitored for either toxicities or reduced efficacy.
-[see Pharmacokinetics (12.3)]
