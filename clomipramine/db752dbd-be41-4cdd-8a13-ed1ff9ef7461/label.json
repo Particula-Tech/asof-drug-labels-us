@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074694"
+  ],
   "inn": "clomipramine",
   "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
   "package_ndcs": [
@@ -16,7 +18,13 @@
     "51672-4013-5",
     "51672-4013-6"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "clomipramine hydrochloride",
+      "name": "CLOMIPRAMINE HYDROCHLORIDE"
+    }
+  ],
   "setid": "db752dbd-be41-4cdd-8a13-ed1ff9ef7461",
   "source": "dailymed"
 }

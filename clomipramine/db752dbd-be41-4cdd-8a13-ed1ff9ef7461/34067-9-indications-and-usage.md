@@ -7,7 +7,7 @@ Obsessions are recurrent, persistent ideas, thoughts, images, or impulses that a
 Compulsions are repetitive, purposeful, and intentional behaviors performed in response to an obsession or in a stereotyped fashion, and are recognized by the person as excessive or unreasonable.
 
 The effectiveness of clomipramine for the treatment of OCD was demonstrated in multicenter, placebo-controlled, parallel-group studies, including two 10-week studies in adults and one 8-week study in children and adolescents 10 to 17 years of age.
-Patients in all studies had moderate-to-severe OCD (DSM-III), with mean baseline ratings on the Yale-Brown Obsessive Compulsive Scale (YBOCS) ranging from 26 to 28 and a mean baseline rating of 10 on the NIMH Clinical Global Obsessive Compulsive Scale (NIMH-OC).
+Patients in all studies had moderate-to-severe OCD (DSM-III), with mean baseline ratings on the Yale-Brown Obsessive Compulsive Scale (YBOCS) ranging from 26 to 28 and a mean baseline rating of 10 on the NIMH Clinical Global Obsessive Compulsive Scale (NIMHOC).
 Patients taking CMI experienced a mean reduction of approximately 10 on the YBOCS, representing an average improvement on this scale of 35% to 42% among adults and 37% among children and adolescents.
 CMI treated patients experienced a 3.5 unit decrement on the NIMH-OC.
 Patients on placebo showed no important clinical response on either scale.

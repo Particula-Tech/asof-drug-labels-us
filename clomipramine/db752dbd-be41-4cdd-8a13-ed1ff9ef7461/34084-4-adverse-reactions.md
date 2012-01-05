@@ -21,10 +21,9 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 The cited figures, however, provide the physician with a basis for estimating the relative contribution of drug and nondrug factors to the incidence of side effects in the populations studied.
 
-Incidence of Treatment-Emergent Adverse Experience in Placebo-Controlled Clinical Trials (Percentage of Patients Reporting Event)
-
 | Body System/ Adverse EventEvents reported by at least 1% of clomipramine patients are included. | Clomipramine (N=322) | Placebo (N=319) | Clomipramine (N=46) | Placebo (N=44) |
 | --- | --- | --- | --- | --- |
+|  | Incidence of Treatment-Emergent Adverse Experience in Placebo-Controlled Clinical Trials (Percentage of Patients Reporting Event) |  |  |  |
 |  | Adults |  | Children and Adolescents |  |
 | Nervous System |  |  |  |  |
 | Somnolence | 54 | 16 | 46 | 11 |
@@ -169,7 +168,7 @@ Events are further categorized by body system and listed in order of decreasing 
 Body as a Whole: Infrequent - general edema, increased susceptibility to infection, malaise.
 Rare - dependent edema, withdrawal syndrome.
 
-Cardiovascular System: Infrequent abnormal ECG, arrhythmia, bradycardia, cardiac arrest, extrasystoles, pallor.
+Cardiovascular System: Infrequent - abnormal ECG, arrhythmia, bradycardia, cardiac arrest, extrasystoles, pallor.
 Rare - aneurysm, atrial flutter, bundle branch block, cardiac failure, cerebral hemorrhage, heart block, myocardial infarction, myocardial ischemia, peripheral ischemia, thrombophlebitis, vasospasm, ventricular tachycardia.
 
 Digestive System: Infrequent - abnormal hepatic function, blood in stool, colitis, duodenitis, gastric ulcer, gastritis, gastroesophageal reflux, gingivitis, glossitis, hemorrhoids, hepatitis, increased saliva, irritable bowel syndrome, peptic ulcer, rectal hemorrhage, tongue ulceration, tooth caries.
