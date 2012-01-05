@@ -194,8 +194,8 @@ Inactive ingredients: propylene glycol, purified water, ethanol, 2-propanol, ole
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-© 2010 Endo Pharmaceuticals
+© 2011 Endo Pharmaceuticals
 
-110094
+PG1564
 
-Issued 12/2010
+Issued 04/2011
