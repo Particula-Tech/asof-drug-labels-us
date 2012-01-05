@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA072640"
+  ],
   "inn": "clotrimazole",
   "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
   "package_ndcs": [
@@ -8,7 +10,13 @@
     "51672-1275-6",
     "51672-1275-7"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "clotrimazole",
+      "name": "Clotrimazole"
+    }
+  ],
   "setid": "77883cfd-f13c-40cb-88b2-8f777e1cdce9",
   "source": "dailymed"
 }

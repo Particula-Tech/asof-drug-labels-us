@@ -23,7 +23,7 @@ Clotrimazole appears to be well absorbed in humans following oral administration
 Following topical and vaginal administration, however, clotrimazole appears to be minimally absorbed.
 
 Six hours after the application of radioactive clotrimazole 1% cream and 1% solution onto intact and acutely inflamed skin, the concentration of clotrimazole varied from 100 mcg/cm3 in the stratum corneum to 0.5 to 1 mcg/cm3 in the stratum reticulare, and 0.1 mcg/cm3 in the subcutis.
-No measurable amount of radioactivity (≤0.001 mcg/mL) was found in the serum within 48 hours after application under occlusive dressing of 0.5 mL of the solution or 0.8 g of the cream.
+No measurable amount of radioactivity (≤ 0.001 mcg/mL) was found in the serum within 48 hours after application under occlusive dressing of 0.5 mL of the solution or 0.8 g of the cream.
 Only 0.5% or less of the applied radioactivity was excreted in the urine.
 
 Following intravaginal administration of 100 mg 14C-clotrimazole vaginal tablets to nine adult females, an average peak serum level, corresponding to only 0.03 ug equivalents/mL of clotrimazole, was reached one to two days after application.
