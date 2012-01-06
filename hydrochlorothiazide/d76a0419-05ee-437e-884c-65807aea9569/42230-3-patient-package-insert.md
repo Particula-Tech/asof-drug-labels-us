@@ -65,7 +65,7 @@ Especially, tell your doctor if you take:
 - narcotic pain medicines
 - sleeping pills
 - lithium, a medicine used in some types of depression (Eskalith®, Lithobid®, Lithium Carbonate, Lithium Citrate)
-- aspirin or other medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs).
+- aspirin or other medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs), like ibuprofen or naproxen
 
 Ask your doctor if you are not sure if you are taking one of these medicines.
 
@@ -190,4 +190,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2011-11
+T2012-03/T2012-04 December 2011/December 2011

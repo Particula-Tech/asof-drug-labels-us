@@ -15,6 +15,7 @@ The antihypertensive effect is independent of age or gender.
 The overall response to the combination was similar for Black and non-Black patients.
 
 There was essentially no change in heart rate in patients treated with the combination of valsartan and hydrochlorothiazide in controlled trials.
+There are no trials of the Diovan HCT combination tablet demonstrating reductions in cardiovascular risk in patients with hypertension, but the hydrochlorothiazide component and several ARBs, which are the same pharmacological class as the valsartan component, have demonstrated such benefits.
 
 Valsartan: The antihypertensive effects of valsartan were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (one in patients over 65) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95-115.
 The studies allowed comparison of once-daily and twice-daily regimens of 160 mg/day; comparison of peak and trough effects; comparison (in pooled data) of response by gender, age, and race; and evaluation of incremental effects of hydrochlorothiazide.
