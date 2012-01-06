@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis and Mutagenesis
 
@@ -15,7 +15,7 @@ Darunavir was not mutagenic or genotoxic in a battery of in vitro and in vivo as
 
 Impairment of Fertility
 
-No effects on fertility or early embryonic development were observed with darunavir in rats and darunavir has shown no teratogenic potential in mice (in the presence or absence of ritonavir), rats and rabbits.
+No effects on fertility or early embryonic development were observed with darunavir in rats and darunavir has shown no teratogenic potential in mice or rats (in the presence or absence of ritonavir), and rabbits.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

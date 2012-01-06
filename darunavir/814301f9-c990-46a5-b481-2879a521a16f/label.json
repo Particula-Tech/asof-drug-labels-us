@@ -1,6 +1,7 @@
 {
   "application_numbers": [
-    "NDA021976"
+    "NDA021976",
+    "NDA202895"
   ],
   "inn": "darunavir",
   "labeler": "Janssen Products LP",
@@ -8,9 +9,15 @@
     "59676-561-01",
     "59676-562-01",
     "59676-563-01",
-    "59676-564-01"
+    "59676-564-01",
+    "59676-565-01"
   ],
   "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "darunavir ethanolate",
+      "name": "PREZISTA"
+    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "darunavir ethanolate",

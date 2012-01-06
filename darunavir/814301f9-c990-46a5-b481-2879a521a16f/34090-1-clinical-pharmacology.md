@@ -23,11 +23,11 @@ When a single dose of PREZISTA 600 mg was given orally in combination with 100 m
 Therefore, PREZISTA should only be used in combination with 100 mg of ritonavir to achieve sufficient exposures of darunavir.
 
 The pharmacokinetics of darunavir, co-administered with low dose ritonavir (100 mg), has been evaluated in healthy adult volunteers and in HIV-1-infected subjects.
-Table 8 displays the population pharmacokinetic estimates of darunavir after oral administration of PREZISTA/ritonavir 600/100 mg twice daily [based on sparse sampling in 285 patients in study TMC114-C214, 278 patients in Study TMC114-C229 and 119 patients (integrated data) from Studies TMC114-C202 and TMC114-C213] and PREZISTA/ritonavir 800/100 mg once daily [based on sparse sampling in 335 patients in Study TMC114-C211 and 280 patients in Study TMC114-C229] to HIV-1-infected patients.
+Table 10 displays the population pharmacokinetic estimates of darunavir after oral administration of PREZISTA/ritonavir 600/100 mg twice daily [based on sparse sampling in 285 patients in study TMC114-C214, 278 patients in Study TMC114-C229 and 119 patients (integrated data) from Studies TMC114-C202 and TMC114-C213] and PREZISTA/ritonavir 800/100 mg once daily [based on sparse sampling in 335 patients in Study TMC114-C211 and 280 patients in Study TMC114-C229] to HIV-1-infected patients.
 
-Table 8: Population Pharmacokinetic Estimates of Darunavir at PREZISTA/ritonavir 800/100 mg Once Daily (Study TMC114-C211, 48-Week Analysis and Study TMC114-C229, 48-Week Analysis) and PREZISTA/ritonavir 600/100 mg Twice Daily (Study TMC114-C214, 48-Week Analysis, Study TMC114-C229, 48-Week Analysis and Integrated data from Studies TMC114-C213 and TMC114-C202, Primary 24-Week Analysis)
+Table 10: Population Pharmacokinetic Estimates of Darunavir at PREZISTA/ritonavir 800/100 mg Once Daily (Study TMC114-C211, 48-Week Analysis and Study TMC114-C229, 48-Week Analysis) and PREZISTA/ritonavir 600/100 mg Twice Daily (Study TMC114-C214, 48-Week Analysis, Study TMC114-C229, 48-Week Analysis and Integrated data from Studies TMC114-C213 and TMC114-C202, Primary 24-Week Analysis)
 
-| Parameter | Study TMC114-C211 PREZISTA/ritonavir 800/100 mg once daily N = 335 | Study TMC114-C229 PREZISTA/ritonavir 800/100 mg once daily N = 280 | Study TMC114-C214 PREZISTA/ritonavir 600/100 mg twice daily N = 285 | Study TMC114-C229 PREZISTA/ritonavir 600/100 mg twice daily N = 278 | Studies TMC114-C213 and TMC114-C202 (integrated data) PREZISTA/ritonavir 600/100 mg twice daily N =119 |
+| Parameter | Study TMC114-C211 PREZISTA/ ritonavir 800/100 mg once daily N = 335 | Study TMC114-C229 PREZISTA/ ritonavir 800/100 mg once daily N = 280 | Study TMC114-C214 PREZISTA/ ritonavir 600/100 mg twice daily N = 285 | Study TMC114-C229 PREZISTA/ ritonavir 600/100 mg twice daily N = 278 | Studies TMC114-C213 and TMC114-C202 (integrated data) PREZISTA/ ritonavir 600/100 mg twice daily N =119 |
 | --- | --- | --- | --- | --- | --- |
 | AUC24h (ng∙h/mL)AUC24h is calculated as AUC12h*2 |  |  |  |  |  |
 | Mean ± Standard Deviation | 93026 ± 27050 | 93334 ± 28626 | 116796 ± 33594 | 114302 ± 32681 | 124698 ± 32286 |
@@ -45,7 +45,7 @@ In vivo data suggest that darunavir/ritonavir is an inhibitor of the p-glycoprot
 
 Effects of Food on Oral Absorption
 
-When administered with food, the Cmax and AUC of darunavir, co-administered with ritonavir, is approximately 30% higher relative to the fasting state.
+When PREZISTA tablets were administered with food, the Cmax and AUC of darunavir, co-administered with ritonavir, is approximately 40% higher relative to the fasting state.
 Therefore, PREZISTA tablets, co-administered with ritonavir, should always be taken with food.
 Within the range of meals studied, darunavir exposure is similar.
 The total caloric content of the various meals evaluated ranged from 240 Kcal (12 gms fat) to 928 Kcal (56 gms fat).
@@ -99,19 +99,24 @@ Population pharmacokinetic analysis of darunavir in HIV-1-infected subjects indi
 
 Geriatric Patients
 
-Population pharmacokinetic analysis in HIV-1-infected subjects showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV-1-infected subjects (n = 12, age ≥ 65) [see Use in Specific Populations (8.5)].
+Population pharmacokinetic analysis in HIV-1-infected subjects showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV-1-infected subjects (n = 12, age greater than or equal to 65) [see Use in Specific Populations (8.5)].
 
 Pediatric Patients
 
-The pharmacokinetics of darunavir in combination with ritonavir in 74 antiretroviral treatment-experienced HIV-1-infected pediatric subjects 6 to < 18 years of age and weighing at least 44 lbs (20 kg) showed that the administered weight-based dosages resulted in darunavir exposure comparable to that in treatment-experienced adults receiving PREZISTA/ritonavir 600/100 mg twice daily [see Dosage and Administration (2.2)].
+The pharmacokinetics of darunavir in combination with ritonavir in 92 antiretroviral treatment-experienced HIV-1-infected pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg showed that the administered weight-based dosages resulted in darunavir exposure that was comparable to the exposures achieved in treatment-experienced adults receiving PREZISTA/ritonavir 600/100 mg twice daily [see Dosage and Administration (2.2)].
 
-Table 9: Population Pharmacokinetic Estimates of Darunavir Exposure (Study TMC114-C212) Following Administration of Doses in Table 1
+Table 11: Population Pharmacokinetic Estimates of Darunavir Exposure (Study TMC114-C212 and Study TMC114-C228) Following Administration of Doses in Tables 1 and 2
 
-| Parameter Median (Range) | PREZISTA/ritonavir twice daily N = 74 |
-| --- | --- |
-| AUC24h (ng∙h/mL) | 127340 (67054–230720) |
-| C0h (ng/mL) | 3888 (1836–7821) |
-| N = number of subjects with data * AUC24h is calculated as AUC12h*2 |  |
+| 10 to less than 15 kgPopulation pharmacokinetic parameter estimates based on the Weeks 2 and 4 analysis that evaluated a darunavir dose of 20 mg/kg twice daily with ritonavir 3 mg/kg twice daily. N = 10 | 15 to less than 20 kgThe 15 kg to less than 20 kg weight group received 380 mg (3.8 mL) PREZISTA oral suspension twice daily with 48 mg (0.6 mL) ritonavir oral solution twice daily in TMC114-C228. Population pharmacokinetic parameter estimates based on the Week 2 and Week 24 analysis that evaluated a darunavir dose of 380 mg twice daily. N = 12 |  |  |
+| --- | --- | --- | --- |
+| Parameter | Study TMC114-C212 PREZISTA/ ritonavir twice daily N = 74 | Study TMC114-C228 PREZISTA/ ritonavir twice dailySubjects may have contributed pharmacokinetic data to both the 10 kg to less than 15 kg weight group and the 15 kg to less than 20 kg weight group. |  |
+| AUC24h (ng∙h/mL) AUC24h is calculated as AUC12h*2 |  |  |  |
+| Mean ± Standard Deviation | 126377 (34356) | 137399 ± 51067 | 158773 ± 61932 |
+| Median (Range) | 127340 (67054–230720) | 123229 (92098–262720) | 138578 (104974–317420) |
+| C0h (ng/mL) |  |  |  |
+| Mean ± Standard Deviation | 3948 (1363) | 4429 ± 2064 | 4858 ± 2521 |
+| Median (Range) | 3888 (1836–7821) | 4010 (2576–9488) | 4469 (2733–11300) |
+| N = number of subjects with data. |  |  |  |
 
 Drug Interactions
 
@@ -125,10 +130,12 @@ Drugs that induce CYP3A activity would be expected to increase the clearance of 
 Co-administration of darunavir and ritonavir and other drugs that inhibit CYP3A may decrease the clearance of darunavir and ritonavir and may result in increased plasma concentrations of darunavir and ritonavir.
 
 Drug interaction studies were performed with darunavir and other drugs likely to be co-administered and some drugs commonly used as probes for pharmacokinetic interactions.
-The effects of co-administration of darunavir on the AUC, Cmax, and Cmin values are summarized in Table 10 (effect of other drugs on darunavir) and Table 11 (effect of darunavir on other drugs).
+The effects of co-administration of darunavir on the AUC, Cmax, and Cmin values are summarized in Table 12 (effect of other drugs on darunavir) and Table 13 (effect of darunavir on other drugs).
 For information regarding clinical recommendations, see Drug Interactions (7).
 
-Table 10: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Presence of Co-administered Drugs
+Several interaction studies have been performed with a dose other than the recommended dose of the co-administered drug or darunavir; however, the results are applicable to the recommended dose of the co-administered drug and/or darunavir.
+
+Table 12: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Presence of Co-administered Drugs
 
 | Co-Administered Drug | Darunavir/ ritonavir | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -158,7 +165,7 @@ Table 10: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Pre
 | Telaprevir | 750 mg every 8 hours 1125 mg every 12 hours | 600/100 mg b.i.d. 600/100 mg b.i.d. | 11N = 14 for Cmax 15 | ↓ ↓ | 0.60 (0.56–0.64) 0.53 (0.47–0.59) | 0.60 (0.57–0.63) 0.49 (0.43–0.55) | 0.58 (0.52–0.64) 0.42 (0.35–0.51) |
 | N = number of subjects with data |  |  |  |  |  |  |  |
 
-Table 11: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of Darunavir/Ritonavir
+Table 13: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of Darunavir/Ritonavir
 
 | Co-Administered Drug | Darunavir/ ritonavir | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -209,7 +216,7 @@ Table 11: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug
 | 7-OH-S-warfarin |  |  | 12 | ↑ | 1.42 (1.24–1.63) | 1.23 (0.97–1.57) | - |
 | Telaprevir | 750 mg every 8 hours | 600/100 mg b.i.d. | 11N = 14 for Cmax | ↓ | 0.64 (0.61–0.67) | 0.65 (0.61–0.69) | 0.68 (0.63–0.74) |
 | N = number of subjects with data;- = no information available |  |  |  |  |  |  |  |
-| A cocktail study was conducted in 12 healthy volunteers to evaluate the effect of steady state pharmacokinetics of darunavir/ritonavir on the activity of CYP2D6 (using dextromethorphan as probe substrate), CYP2C9 (using warfarin as probe substrate), and CYP2C19 (using omeprazole as probe substrate). The pharmacokinetic results are shown in Table 11. |  |  |  |  |  |  |  |
+| A cocktail study was conducted in 12 healthy volunteers to evaluate the effect of steady state pharmacokinetics of darunavir/ritonavir on the activity of CYP2D6 (using dextromethorphan as probe substrate), CYP2C9 (using warfarin as probe substrate), and CYP2C19 (using omeprazole as probe substrate). The pharmacokinetic results are shown in Table 13. |  |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 
@@ -221,7 +228,7 @@ It selectively inhibits the cleavage of HIV-1 encoded Gag-Pol polyproteins in in
 Antiviral Activity
 
 Darunavir exhibits activity against laboratory strains and clinical isolates of HIV-1 and laboratory strains of HIV-2 in acutely infected T-cell lines, human peripheral blood mononuclear cells and human monocytes/macrophages with median EC50 values ranging from 1.2 to 8.5 nM (0.7 to 5.0 ng/mL).
-Darunavir demonstrates antiviral activity in cell culture against a broad panel of HIV-1 group M (A, B, C, D, E, F, G), and group O primary isolates with EC50 values ranging from < 0.1 to 4.3 nM.
+Darunavir demonstrates antiviral activity in cell culture against a broad panel of HIV-1 group M (A, B, C, D, E, F, G), and group O primary isolates with EC50 values ranging from less than 0.1 to 4.3 nM.
 The EC50 value of darunavir increases by a median factor of 5.4 in the presence of human serum.
 Darunavir did not show antagonism when studied in combination with the PIs amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, or tipranavir, the N(t)RTIs abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine, or zidovudine, the NNRTIs delavirdine, efavirenz, etravirine, or nevirapine, and the fusion inhibitor enfuvirtide.
 
@@ -232,20 +239,20 @@ Darunavir-resistant virus derived in cell culture from wild-type HIV-1 had 21- t
 Selection in cell culture of darunavir resistant HIV-1 from nine HIV-1 strains harboring multiple PI resistance-associated mutations resulted in the overall emergence of 22 mutations in the protease gene, coding for amino acid substitutions L10F, V11I, I13V, I15V, G16E, L23I, V32I, L33F, S37N, M46I, I47V, I50V, F53L, L63P, A71V, G73S, L76V, V82I, I84V, T91A/S, and Q92R, of which L10F, V32I, L33F, S37N, M46I, I47V, I50V, L63P, A71V, and I84V were the most prevalent.
 These darunavir-resistant viruses had at least eight protease substitutions and exhibited 50- to 641-fold decreases in darunavir susceptibility with final EC50 values ranging from 125 nM to 3461 nM.
 
-Clinical studies of PREZISTA/ritonavir in treatment-experienced subjects: In a pooled analysis of the 600/100 mg PREZISTA/ritonavir twice daily arms of Studies TMC114-C213, TMC114-C202, TMC114-C215, and the control arms of etravirine studies TMC125-C206 and TMC125-C216, the amino acid substitutions V32I and I54L or M developed most frequently on PREZISTA/ritonavir in 41% and 25%, respectively, of the treatment-experienced subjects who experienced virologic failure, either by rebound or by never being suppressed (< 50 copies/mL).
+Clinical studies of PREZISTA/ritonavir in treatment-experienced subjects: In a pooled analysis of the 600/100 mg PREZISTA/ritonavir twice daily arms of Studies TMC114-C213, TMC114-C202, TMC114-C215, and the control arms of etravirine studies TMC125-C206 and TMC125-C216, the amino acid substitutions V32I and I54L or M developed most frequently on PREZISTA/ritonavir in 41% and 25%, respectively, of the treatment-experienced subjects who experienced virologic failure, either by rebound or by never being suppressed (less than 50 copies/mL).
 Other substitutions that developed frequently in PREZISTA/ritonavir virologic failure isolates occurred at amino acid positions V11I, I15V, L33F, I47V, I50V, and L89V.
-These amino acid substitutions were associated with decreased susceptibility to darunavir; 90% of the virologic failure isolates had a > 7-fold decrease in susceptibility to darunavir at failure.
+These amino acid substitutions were associated with decreased susceptibility to darunavir; 90% of the virologic failure isolates had a greater than 7-fold decrease in susceptibility to darunavir at failure.
 The median darunavir phenotype (fold change from reference) of the virologic failure isolates was 4.3-fold at baseline and 85-fold at failure.
 Amino acid substitutions were also observed in the protease cleavage sites in the Gag polyprotein of some PREZISTA/ritonavir virologic failure isolates.
 In Study TMC114-C212 of treatment-experienced pediatric subjects, the amino acid substitutions V32I, I54L and L89M developed most frequently in virologic failures on PREZISTA/ritonavir.
 
 In the 96-week as-treated analysis of the Phase 3 Study TMC114-C214, the percent of virologic failures (never suppressed, rebounders and discontinued before achieving suppression) was 21% (62/298) in the group of subjects receiving PREZISTA/ritonavir 600/100 mg twice daily compared to 32% (96/297) of subjects receiving lopinavir/ritonavir 400/100 mg twice daily.
 Examination of subjects who failed on PREZISTA/ritonavir 600/100 mg twice daily and had post-baseline genotypes and phenotypes showed that 7 subjects (7/43; 16%) developed PI substitutions on darunavir/ritonavir treatment resulting in decreased susceptibility to darunavir.
-Six of the 7 had baseline PI resistance-associated substitutions and baseline darunavir phenotypes > 7.
+Six of the 7 had baseline PI resistance-associated substitutions and baseline darunavir phenotypes greater than 7.
 The most common emerging PI substitutions in these virologic failures were V32I, L33F, M46I or L, I47V, I54L, T74P and L76V.
 These amino acid substitutions were associated with 59- to 839-fold decreased susceptibility to darunavir at failure.
-Examination of individual subjects who failed in the comparator arm on lopinavir/ritonavir and had post-baseline genotypes and phenotypes showed that 31 subjects (31/75; 41%) developed substitutions on lopinavir treatment resulting in decreased susceptibility to lopinavir (> 10-fold) and the most common substitutions emerging on treatment were L10I or F, M46I or L, I47V or A, I54V and L76V.
-Of the 31 lopinavir/ritonavir virologic failure subjects, 14 had reduced susceptibility (> 10-fold) to lopinavir at baseline.
+Examination of individual subjects who failed in the comparator arm on lopinavir/ritonavir and had post-baseline genotypes and phenotypes showed that 31 subjects (31/75; 41%) developed substitutions on lopinavir treatment resulting in decreased susceptibility to lopinavir (greater than 10-fold) and the most common substitutions emerging on treatment were L10I or F, M46I or L, I47V or A, I54V and L76V.
+Of the 31 lopinavir/ritonavir virologic failure subjects, 14 had reduced susceptibility (greater than 10-fold) to lopinavir at baseline.
 
 In the 48-week analysis of the Phase 3 Study TMC114-C229, the number of virologic failures (including those who discontinued before suppression after Week 4) was 26% (75/294) in the group of subjects receiving PREZISTA/ritonavir 800/100 mg once daily compared to 19% (56/296) of subjects receiving PREZISTA/ritonavir 600/100 mg twice daily.
 Examination of isolates from subjects who failed on PREZISTA/ritonavir 800/100 mg once daily and had post-baseline genotypes showed that 8 subjects (8/60; 13%) had isolates that developed IAS-USA defined PI resistance-associated substitutions compared to 5 subjects (5/39; 13%) on PREZISTA/ritonavir 600/100 mg twice daily.
@@ -254,19 +261,19 @@ In the PREZISTA/ritonavir 800/100 mg once daily and PREZISTA/ritonavir 600/100 m
 
 Clinical studies of PREZISTA/ritonavir in treatment-naive subjects: In the 192-week as-treated analysis censoring those who discontinued before Week 4 of the Phase 3 Study TMC114-C211, the percentage of virologic failures (never suppressed, rebounders and discontinued before achieving suppression) was 22% (64/288) in the group of subjects receiving PREZISTA/ritonavir 800/100 mg once daily compared to 29% (76/263) of subjects receiving lopinavir/ritonavir 800/200 mg per day.
 In the PREZISTA/ritonavir arm, emergent PI resistance-associated substitutions were identified in 11 of the virologic failures with post-baseline genotypic data (n=43).
-However, none of the darunavir virologic failures had a decrease in darunavir susceptibility (> 7-fold change) at failure.
-In the comparator lopinavir/ritonavir arm, emergent PI resistance-associated substitutions were identified in 17 of the virologic failures with post-baseline genotypic data (n=53), but none of the lopinavir/ritonavir virologic failures had decreased susceptibility to lopinavir (> 10-fold change) at failure.
+However, none of the darunavir virologic failures had a decrease in darunavir susceptibility (greater than 7-fold change) at failure.
+In the comparator lopinavir/ritonavir arm, emergent PI resistance-associated substitutions were identified in 17 of the virologic failures with post-baseline genotypic data (n=53), but none of the lopinavir/ritonavir virologic failures had decreased susceptibility to lopinavir (greater than 10-fold change) at failure.
 The reverse transcriptase M184V substitution and/or resistance to emtricitabine, which was included in the fixed background regimen, was identified in 4 virologic failures from the PREZISTA/ritonavir arm and 7 virologic failures in the lopinavir/ritonavir arm.
 
 Cross-resistance
 
 Cross-resistance among PIs has been observed.
-Darunavir has a < 10-fold decreased susceptibility in cell culture against 90% of 3309 clinical isolates resistant to amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir and/or tipranavir showing that viruses resistant to these PIs remain susceptible to darunavir.
+Darunavir has a less than 10-fold decreased susceptibility in cell culture against 90% of 3309 clinical isolates resistant to amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir and/or tipranavir showing that viruses resistant to these PIs remain susceptible to darunavir.
 
 Darunavir-resistant viruses were not susceptible to amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir or saquinavir in cell culture.
-However, six of nine darunavir-resistant viruses selected in cell culture from PI-resistant viruses showed a fold change in EC50 values < 3 for tipranavir, indicative of limited cross-resistance between darunavir and tipranavir.
-In Studies TMC114-C213, TMC114-C202, and TMC114-C215, 34% (64/187) of subjects in the darunavir/ritonavir arm whose baseline isolates had decreased susceptibility to tipranavir (tipranavir fold change > 3) achieved < 50 copies/mL serum HIV-1 RNA levels at Week 96.
-Of the viruses isolated from subjects experiencing virologic failure on PREZISTA/ritonavir 600/100 mg twice daily (> 7 fold change), 41% were still susceptible to tipranavir and 10% were susceptible to saquinavir while less than 2% were susceptible to the other protease inhibitors (amprenavir, atazanavir, indinavir, lopinavir or nelfinavir).
+However, six of nine darunavir-resistant viruses selected in cell culture from PI-resistant viruses showed a fold change in EC50 values less than 3 for tipranavir, indicative of limited cross-resistance between darunavir and tipranavir.
+In Studies TMC114-C213, TMC114-C202, and TMC114-C215, 34% (64/187) of subjects in the darunavir/ritonavir arm whose baseline isolates had decreased susceptibility to tipranavir (tipranavir fold change greater than 3) achieved less than 50 copies/mL serum HIV-1 RNA levels at Week 96.
+Of the viruses isolated from subjects experiencing virologic failure on PREZISTA/ritonavir 600/100 mg twice daily (greater than 7 fold change), 41% were still susceptible to tipranavir and 10% were susceptible to saquinavir while less than 2% were susceptible to the other protease inhibitors (amprenavir, atazanavir, indinavir, lopinavir or nelfinavir).
 
 In Study TMC114-C214, the 7 darunavir/ritonavir virologic failures with reduced susceptibility to darunavir at failure were also resistant to the approved PIs (fos)amprenavir, atazanavir, lopinavir, indinavir, and nelfinavir at failure.
 Six of these 7 were resistant to saquinavir and 5 were resistant to tipranavir.
@@ -280,9 +287,9 @@ Genotypic and/or phenotypic analysis of baseline virus may aid in determining da
 The effect of baseline genotype and phenotype on virologic response at 96 weeks was analyzed in as-treated analyses using pooled data from the Phase 2b studies (Studies TMC114-C213, TMC114-C202, and TMC114-C215) (n=439).
 The findings were confirmed with additional genotypic and phenotypic data from the control arms of etravirine Studies TMC125-C206 and TMC125-C216 at Week 24 (n=591).
 
-Diminished virologic responses were observed in subjects with 5 or more baseline IAS-defined primary protease inhibitor resistance-associated substitutions (D30N, V32I, L33F, M46I/L, I47A/V, G48V, I50L/V, I54L/M, L76V, V82A/F/L/S/T, I84V, N88S, L90M) (see Table 12).
+Diminished virologic responses were observed in subjects with 5 or more baseline IAS-defined primary protease inhibitor resistance-associated substitutions (D30N, V32I, L33F, M46I/L, I47A/V, G48V, I50L/V, I54L/M, L76V, V82A/F/L/S/T, I84V, N88S, L90M) (see Table 14).
 
-Table 12: Response to PREZISTA/ritonavir 600/100 mg Twice Daily by Baseline Number of IAS-Defined Primary PI Resistance-Associated Substitutions: As-treated Analysis of Studies TMC114-C213, TMC114-C202, and TMC114-C215
+Table 14: Response to PREZISTA/ritonavir 600/100 mg Twice Daily by Baseline Number of IAS-Defined Primary PI Resistance-Associated Substitutions: As-treated Analysis of Studies TMC114-C213, TMC114-C202, and TMC114-C215
 
 | # IAS-Defined Primary PI Substitutions | Overall | De Novo ENF | Re-Used/ No ENF |
 | --- | --- | --- | --- |
@@ -291,18 +298,17 @@ Table 12: Response to PREZISTA/ritonavir 600/100 mg Twice Daily by Baseline Numb
 | 0 – 4 | 50% (162/322) | 58% (49/85) | 48% (113/237) |
 | 5 | 22% (16/74) | 47% (9/19) | 13% (7/55) |
 | ≥ 6 | 9% (3/32) | 17% (1/6) | 8% (2/26) |
-
-IAS Primary PI Substitutions (2008): D30N, V32I, L33F, M46I/L, I47A/V, G48V, I50L/V, I54L/M, L76V, V82A/F/L/S/T, I84V, N88S, L90M
+| IAS Primary PI Substitutions (2008): D30N, V32I, L33F, M46I/L, I47A/V, G48V, I50L/V, I54L/M, L76V, V82A/F/L/S/T, I84V, N88S, L90M |  |  |  |
 
 The presence at baseline of two or more of the substitutions V11I, V32I, L33F, I47V, I50V, I54L or M, T74P, L76V, I84V or L89V was associated with a decreased virologic response to PREZISTA/ritonavir.
-In subjects not taking enfuvirtide de novo, the proportion of subjects achieving viral load < 50 plasma HIV-1 RNA copies/mL at 96 weeks was 59%, 29%, and 12% when the baseline genotype had 0–1, 2 and ≥ 3 of these substitutions, respectively.
+In subjects not taking enfuvirtide de novo, the proportion of subjects achieving viral load less than 50 plasma HIV-1 RNA copies/mL at 96 weeks was 59%, 29%, and 12% when the baseline genotype had 0–1, 2 and greater than or equal to 3 of these substitutions, respectively.
 
 Baseline darunavir phenotype (shift in susceptibility relative to reference) was shown to be a predictive factor of virologic outcome.
-Response rates assessed by baseline darunavir phenotype are shown in Table 13.
+Response rates assessed by baseline darunavir phenotype are shown in Table 15.
 These baseline phenotype groups are based on the select patient populations in the Studies TMC114-C213, TMC114-C202, and TMC114-C215, and are not meant to represent definitive clinical susceptibility breakpoints for PREZISTA/ritonavir.
 The data are provided to give clinicians information on the likelihood of virologic success based on pre-treatment susceptibility to darunavir.
 
-Table 13: Response (HIV-1 RNA < 50 copies/mL at Week 96) to PREZISTA/ritonavir 600/100 mg Twice Daily by Baseline Darunavir Phenotype and by Use of Enfuvirtide (ENF): As-treated Analysis of Studies TMC114-C213, TMC114-C202, and TMC114-C215
+Table 15: Response (HIV-1 RNA < 50 copies/mL at Week 96) to PREZISTA/ritonavir 600/100 mg Twice Daily by Baseline Darunavir Phenotype and by Use of Enfuvirtide (ENF): As-treated Analysis of Studies TMC114-C213, TMC114-C202, and TMC114-C215
 
 | Baseline DRV Phenotype | All | De Novo ENF | Re-Used/ No ENF |
 | --- | --- | --- | --- |

@@ -25,7 +25,7 @@ Evidence of new or worsening liver dysfunction (including clinically significant
 ## 5.3 Severe Skin Reactions
 
 During the clinical development program (n=3063), severe skin reactions, accompanied by fever and/or elevations of transaminases in some cases, have been reported in 0.4% of subjects.
-Stevens-Johnson Syndrome was rarely (<0.1%) reported during the clinical development program.
+Stevens-Johnson Syndrome was rarely (less than 0.1%) reported during the clinical development program.
 During post-marketing experience toxic epidermal necrolysis has been reported.
 Discontinue PREZISTA/ritonavir immediately if signs or symptoms of severe skin reactions develop.
 These can include but are not limited to severe rash or rash accompanied with fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, hepatitis and/or eosinophilia.
@@ -46,8 +46,8 @@ In clinical studies with PREZISTA/ritonavir, the incidence and severity of rash 
 
 ## 5.5 Drug Interactions
 
-See Table 2 for a listing of drugs that are contraindicated for use with PREZISTA/ritonavir due to potentially life-threatening adverse events, significant drug-drug interactions, or loss of therapeutic effect to PREZISTA [see Contraindications (4)].
-Please refer to Table 7 for established and other potentially significant drug-drug interactions [see Drug Interactions (7.3)].
+See Table 4 for a listing of drugs that are contraindicated for use with PREZISTA/ritonavir due to potentially life-threatening adverse events, significant drug-drug interactions, or loss of therapeutic effect to PREZISTA [see Contraindications (4)].
+Please refer to Table 9 for established and other potentially significant drug-drug interactions [see Drug Interactions (7.3)].
 
 ## 5.6 Diabetes Mellitus / Hyperglycemia
 
@@ -81,4 +81,3 @@ Because the potential for HIV cross-resistance among PIs has not been fully expl
 ## 5.11 Pediatric Patients
 
 Do not administer PREZISTA/ritonavir in pediatric patients below 3 years of age in view of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Use in Specific Populations (8.1 and 8.4), Clinical Pharmacology (12.3), and Nonclinical Toxicology (13.2)].
-The safety and efficacy of PREZISTA/ritonavir in pediatric patients 3 to < 6 years of age have not been established.

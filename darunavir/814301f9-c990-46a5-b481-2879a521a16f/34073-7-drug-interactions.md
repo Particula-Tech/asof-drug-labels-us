@@ -5,20 +5,20 @@ See also Contraindications (4) and Clinical Pharmacology (12.3).
 ## 7.1 Potential for PREZISTA/ritonavir to Affect Other Drugs
 
 PREZISTA co-administered with ritonavir is an inhibitor of CYP3A and CYP2D6.
-Co-administration of PREZISTA and ritonavir with drugs that are primarily metabolized by CYP3A and CYP2D6 may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and adverse events (see Table 7).
+Co-administration of PREZISTA and ritonavir with drugs that are primarily metabolized by CYP3A and CYP2D6 may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and adverse events (see Table 9).
 
 ## 7.2 Potential for Other Drugs to Affect Darunavir
 
 Darunavir and ritonavir are metabolized by CYP3A.
 Drugs that induce CYP3A activity would be expected to increase the clearance of darunavir and ritonavir, resulting in lowered plasma concentrations of darunavir and ritonavir.
-Co-administration of darunavir and ritonavir and other drugs that inhibit CYP3A may decrease the clearance of darunavir and ritonavir and may result in increased plasma concentrations of darunavir and ritonavir (see Table 7).
+Co-administration of darunavir and ritonavir and other drugs that inhibit CYP3A may decrease the clearance of darunavir and ritonavir and may result in increased plasma concentrations of darunavir and ritonavir (see Table 9).
 
 ## 7.3 Established and Other Potentially Significant Drug Interactions
 
-Table 7 provides dosing recommendations as a result of drug interactions with PREZISTA/ritonavir.
+Table 9 provides dosing recommendations as a result of drug interactions with PREZISTA/ritonavir.
 These recommendations are based on either drug interaction studies or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy.
 
-Table 7: Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction [See Clinical Pharmacology (12.3) for Magnitude of Interaction, Tables 10 and 11]
+Table 9: Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction [See Clinical Pharmacology (12.3) for Magnitude of Interaction, Tables 12 and 13]
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration of Darunavir or Concomitant Drug | Clinical Comment |
 | --- | --- | --- |
@@ -60,7 +60,7 @@ Table 7: Established and Other Potentially Significant Drug Interactions: Altera
 | PDE-5 inhibitors: sildenafil, vardenafil, tadalafil | ↑ PDE-5 inhibitors (only the use of sildenafil at doses used for treatment of erectile dysfunction has been studied with PREZISTA/ritonavir) | Co-administration with PREZISTA/ritonavir may result in an increase in PDE-5 inhibitor-associated adverse events, including hypotension, syncope, visual disturbances and priapism. Use of PDE-5 inhibitors for pulmonary arterial hypertension (PAH): Use of sildenafil is contraindicated when used for the treatment of pulmonary arterial hypertension (PAH) [see Contraindications (4)].The following dose adjustments are recommended for use of tadalafil with PREZISTA/ritonavir: Co-administration of tadalafil in patients on PREZISTA/ritonavir: In patients receiving PREZISTA/ritonavir for at least one week, start tadalafil at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability. Co-administration of PREZISTA/ritonavir in patients on tadalafil: Avoid use of tadalafil during the initiation of PREZISTA/ritonavir. Stop tadalafil at least 24 hours prior to starting PREZISTA/ritonavir. After at least one week following the initiation of PREZISTA/ritonavir, resume tadalafil at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability. Use of PDE-5 inhibitors for erectile dysfunction: Sildenafil at a single dose not exceeding 25 mg in 48 hours, vardenafil at a single dose not exceeding 2.5 mg dose in 72 hours, or tadalafil at a single dose not exceeding 10 mg dose in 72 hours can be used with increased monitoring for PDE-5 inhibitor-associated adverse events. |
 | Selective Serotonin Reuptake Inhibitors (SSRIs): sertraline, paroxetine | ↔ darunavir ↓ sertraline ↓ paroxetine | If sertraline or paroxetine is co-administered with PREZISTA/ritonavir, the recommended approach is a careful dose titration of the SSRI based on a clinical assessment of antidepressant response. In addition, patients on a stable dose of sertraline or paroxetine who start treatment with PREZISTA/ritonavir should be monitored for antidepressant response. |
 
-In addition to the drugs included in Table 7, the interaction between PREZISTA/ritonavir and the following drugs were evaluated in clinical studies and no dose adjustments are needed for either drug [see Clinical Pharmacology (12.3)]: atazanavir, efavirenz, etravirine, nevirapine, omeprazole, ranitidine, rilpivirine, and tenofovir disoproxil fumarate.
+In addition to the drugs included in Table 9, the interaction between PREZISTA/ritonavir and the following drugs were evaluated in clinical studies and no dose adjustments are needed for either drug [see Clinical Pharmacology (12.3)]: atazanavir, efavirenz, etravirine, nevirapine, omeprazole, ranitidine, rilpivirine, and tenofovir disoproxil fumarate.
 
 Other nucleoside reverse transcriptase inhibitors (NRTIs):
 

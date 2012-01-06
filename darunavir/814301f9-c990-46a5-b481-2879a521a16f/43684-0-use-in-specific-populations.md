@@ -5,8 +5,8 @@
 Pregnancy Category C: PREZISTA should be used during pregnancy only if the potential benefit justifies the potential risk.
 
 No adequate and well-controlled studies have been conducted in pregnant women.
-Reproduction studies conducted with darunavir showed no embryotoxicity or teratogenicity in mice, rats and rabbits.
-However, due to limited bioavailability and/or dosing limitations, animal exposures (based on AUC) were only 50% (mice and rats) and 5% (rabbit) of those obtained in humans at the recommended clinical dose boosted with ritonavir.
+Reproduction studies conducted with darunavir showed no embryotoxicity or teratogenicity in mice and rats in the presence or absence of ritonavir as well as in rabbits with darunavir alone.
+In these studies, darunavir exposures (based on AUC) were higher in rats (3-fold), whereas in mice and rabbits, exposures were lower (less than 1-fold) compared to those obtained in humans at the recommended clinical dose of darunavir boosted with ritonavir.
 
 In the rat pre- and postnatal development study, a reduction in pup body weight gain was observed with darunavir alone or in combination with ritonavir during lactation.
 This was due to exposure of pups to drug substances via the milk.
@@ -29,13 +29,11 @@ Because of both the potential for HIV transmission and the potential for serious
 
 Do not administer PREZISTA/ritonavir in pediatric patients below 3 years of age because of toxicity and mortality observed in juvenile rats dosed with darunavir (from 20 mg/kg to 1000 mg/kg) up to days 23 to 26 of age [see Warnings and Precautions (5.11), Use in Specific Populations (8.1), Clinical Pharmacology (12.3) and Nonclinical Toxicology (13.2)].
 
-The pharmacokinetics, safety, tolerability, and efficacy of PREZISTA/ritonavir in pediatric patients 3 to < 6 years of age have not been established.
-
 Do not administer PREZISTA/ritonavir once daily in pediatric patients.
 
-The safety, pharmacokinetic profile, and virologic and immunologic responses of PREZISTA/ritonavir were evaluated in treatment-experienced HIV-1-infected pediatric subjects 6 to < 18 years of age and weighing at least 44 lbs (20 kg) [see Adverse Reactions (6.6), Clinical Pharmacology (12.3) and Clinical Studies (14.4)].
+The safety, pharmacokinetic profile, and virologic and immunologic responses of PREZISTA/ritonavir were evaluated in treatment-experienced HIV-1-infected pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg [see Adverse Reactions (6.6), Clinical Pharmacology (12.3) and Clinical Studies (14.4)].
 Frequency, type, and severity of adverse drug reactions in pediatric subjects were comparable to those observed in adults [see Adverse Reactions (6.6)].
-Please see Dosage and Administration (2.2) for dosing recommendations for pediatric subjects 6 to < 18 years of age and weighing at least 44 lbs (20 kg).
+Please see Dosage and Administration (2.2) for dosing recommendations for pediatric subjects 3 to less than 18 years of age and weighing at least 10 kg.
 
 ## 8.5 Geriatric Use
 

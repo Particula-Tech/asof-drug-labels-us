@@ -5,17 +5,18 @@
 A statement to patients and healthcare providers is included on the product's bottle label: ALERT: Find out about medicines that should NOT be taken with PREZISTA.
 A Patient Package Insert for PREZISTA is available for patient information.
 
-## 17.1 General
+## 17.1 Information About Therapy with PREZISTA
 
-Patients should be informed that PREZISTA is not a cure for HIV infection and that they may continue to develop opportunistic infections and other complications associated with HIV disease.
-Patients should be told that there are currently no data demonstrating that therapy with PREZISTA can reduce the risk of transmitting HIV to others.
+Patients should be informed that PREZISTA is not a cure for HIV infection.
+Patients should stay on continuous HIV therapy to control HIV infection and decrease HIV-related illnesses.
 
 Patients should be told that sustained decreases in plasma HIV RNA have been associated with a reduced risk of progression to AIDS and death.
 Patients should remain under the care of a physician while using PREZISTA.
+Patients should be advised to continue to practice safer sex and to use latex or polyurethane condoms to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions or blood.
+Patients should be advised never to share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+Patients should be advised never to re-use or share needles.
 
 ## 17.2 Instructions for Use
-
-General
 
 Patients should be advised to take PREZISTA and ritonavir (NORVIR®) with food every day as prescribed.
 Patients should be instructed to swallow whole tablets with a drink such as water or milk.
@@ -59,11 +60,3 @@ Patients receiving estrogen-based contraceptives should be instructed to use alt
 ## 17.6 Fat Redistribution
 
 Patients should be informed that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy, including PREZISTA/ritonavir, and that the cause and long-term health effects of these conditions are not known at this time.
-
-Manufactured for Tibotec, Inc. by: JOLLC, Gurabo, Puerto Rico Distributed by: Tibotec Therapeutics, Division of Centocor Ortho Biotech Products, L.P., Raritan NJ 08869
-
-NORVIR® is a registered trademark of its respective owner.
-
-PREZISTA® is a registered trademark of Tibotec Pharmaceuticals.
-
-© Tibotec, Inc. 2006

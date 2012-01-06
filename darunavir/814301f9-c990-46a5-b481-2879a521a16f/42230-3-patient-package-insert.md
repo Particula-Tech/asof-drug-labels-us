@@ -1,5 +1,7 @@
 Patient Information
 
+PREZISTA (pre-ZIS-ta) (darunavir) Oral Suspension
+
 PREZISTA (pre-ZIS-ta) (darunavir) Tablets
 
 Read this Patient Information before you start taking PREZISTA and each time you get a refill.
@@ -44,7 +46,7 @@ See "What are the possible side effects of PREZISTA?" for more information about
 
 What is PREZISTA?
 
-PREZISTA is a prescription anti-HIV medicine used with ritonavir and other anti-HIV medicines to treat adults and children 6 years of age and older with human immunodeficiency virus (HIV-1) infection.
+PREZISTA is a prescription anti-HIV medicine used with ritonavir and other anti-HIV medicines to treat adults and children 3 years of age and older with human immunodeficiency virus (HIV-1) infection.
 PREZISTA is a type of anti-HIV medicine called a protease inhibitor.
 HIV is the virus that causes AIDS (Acquired Immune Deficiency Syndrome).
 
@@ -53,15 +55,20 @@ PREZISTA may also help to increase the number of white blood cells called CD4 (T
 Reducing the amount of HIV and increasing the CD4 (T) cell count may improve your immune system.
 This may reduce your risk of death or infections that can happen when your immune system is weak (opportunistic infections).
 
-Children under 6 years of age should not take PREZISTA.
+Children under 3 years of age should not take PREZISTA.
 
 PREZISTA does not cure HIV infection or AIDS.
-People taking PREZISTA may still develop infections or other conditions associated with HIV infection.
-Some of these conditions are pneumonia, herpes virus infections, and Mycobacterium avium complex (MAC) infections.
+People taking PREZISTA may still develop infections or other conditions associated with HIV infection, including opportunistic infections (e.g., pneumonia and herpes virus infections).
 
 Patients must stay on continuous HIV therapy to control infection and decrease HIV-related illnesses.
-Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
-Never re-use or share needles.
+
+Avoid doing things that can spread HIV infection.
+
+- Do not share needles or other injection equipment.
+- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+- Do not have any kind of sex without protection.
+  Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
+  Never re-use or share needles.
 
 Ask your healthcare provider if you have any questions on how to prevent passing HIV to other people.
 
@@ -142,15 +149,20 @@ Do not start any new medicines while you are taking PREZISTA without first talki
 
 How should I take PREZISTA?
 
-- Take PREZISTA tablets every day exactly as prescribed by your healthcare provider.
+- Take PREZISTA every day exactly as prescribed by your healthcare provider.
 - You must take ritonavir (NORVIR®) at the same time as PREZISTA.
 - Do not change your dose of PREZISTA or stop treatment without talking to your healthcare provider first.
 - Take PREZISTA and ritonavir (NORVIR®) with food.
 - Swallow PREZISTA tablets whole with a drink.
+  If you have difficulty swallowing PREZISTA tablets, PREZISTA oral suspension is also available.
+  Your health care provider will help determine whether PREZISTA tablets or oral suspension is right for you.
+- PREZISTA oral suspension should be given with the supplied oral dosing syringe.
+  Shake the suspension well before each usage.
 - If your child is taking PREZISTA, your child's healthcare provider will decide the right dose based on your child's weight.
-  Your child's healthcare provider will tell you how many PREZISTA tablets and how much ritonavir (NORVIR®) (capsules, tablets or solution) your child should take.
+  Your child's healthcare provider will tell you how much PREZISTA (tablets or oral suspension) and how much ritonavir (NORVIR®) (capsules, tablets or solution) your child should take.
   Your child should take PREZISTA with ritonavir twice a day with food.
   If your child does not tolerate ritonavir oral solution, ask your child's healthcare provider for advice.
+- If you take too much PREZISTA, call your healthcare provider or go to the nearest hosptial emergency room right away.
 
 What should I do if I miss a dose?
 
@@ -177,7 +189,7 @@ PREZISTA can cause side effects including:
 - Diabetes and high blood sugar (hyperglycemia).
   Some people who take protease inhibitors including PREZISTA can get high blood sugar, develop diabetes, or your diabetes can get worse.
   Tell your healthcare provider if you notice an increase in thirst or urinate often while taking PREZISTA.
-- changes in body fat.
+- Changes in body fat.
   These changes can happen in people who take antiretroviral therapy.
   The changes may include an increased amount of fat in the upper back and neck ("buffalo hump"), breast, and around the back, chest, and stomach area.
   Loss of fat from the legs, arms, and face may also happen.
@@ -201,9 +213,12 @@ For more information, ask your health care provider.
 Call your doctor for medical advice about side effects.
 You may report side effects to the FDA at 1-800-FDA-1088.
 
-How should I store PREZISTA tablets?
+How should I store PREZISTA?
 
-- Store PREZISTA tablets at room temperature [77°F (25°C)].
+- Store PREZISTA oral suspension and tablets at room temperature [77°F (25°C)].
+- Do not refrigerate or freeze PREZISTA oral suspension.
+- Keep PREZISTA away from high heat.
+- PREZISTA oral suspension should be stored in the original container.
 
 Keep PREZISTA and all medicines out of the reach of children.
 
@@ -218,7 +233,7 @@ This leaflet summarizes the most important information about PREZISTA.
 If you would like more information, talk to your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about PREZISTA that is written for health professionals.
 
-For more information, call 1-877-732-2488.
+For more information, call 1-800-526-7736.
 
 What are the ingredients in PREZISTA?
 
@@ -226,22 +241,39 @@ Active ingredient: darunavir
 
 Inactive ingredients:
 
-PREZISTA 75 mg and 150 mg Tablets: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose.
-The film coating contains: OPADRY® White (polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, titanium dioxide).
+PREZISTA Oral Suspension: hydroxypropyl cellulose, microcrystalline cellulose, sodium carboxymethylcellulose, methylparaben sodium, citric acid monohydrate, sucralose, masking flavor, strawberry cream flavor,
 
-PREZISTA 400 mg and 600 mg Tablets: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose.
-The film coating contains: OPADRY® Orange (FD&C Yellow No. 6, polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, titanium dioxide).
+hydrochloric acid (for pH adjustment), purified water.
+
+PREZISTA 75 mg and 150 mg Tablets: colloidal silicon dioxide,
+
+crospovidone, magnesium stearate, microcrystalline cellulose.
+The film
+
+coating contains: OPADRY® White (polyethylene glycol 3350,
+
+polyvinyl alcohol-partially hydrolyzed, talc, titanium dioxide).
+
+PREZISTA 400 mg and 600 mg Tablets: colloidal silicon dioxide,
+
+crospovidone, magnesium stearate, microcrystalline cellulose.
+The film
+
+coating contains: OPADRY® Orange (FD&C Yellow No. 6, polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, titanium dioxide).
 
 This Patient Information has been approved by the U.S Food and Drug Administration.
 
-Manufactured by: PREZISTA Tablets JOLLC, Gurabo, Puerto Rico
+Manufactured by: PREZISTA Oral Suspension Janssen Pharmaceutica, N.V.
+Beerse, Belgium
 
-Manufactured for: Tibotec Therapeutics, Division of Centocor Ortho Biotech Products, L.P., Raritan NJ 08869
+PREZISTA Tablets JOLLC, Gurabo, Puerto Rico
+
+Manufactured for: Janssen Therapeutics, Division of Janssen Products, LP, Titusville NJ 08560
 
 NORVIR® is a registered trademark of its respective owner.
 
-PREZISTA® is a registered trademark of Tibotec Pharmaceuticals
+PREZISTA® is a registered trademark of Janssen Pharmaceuticals
 
-© Tibotec, Inc. 2006
+© Janssen Pharmaceuticals, Inc. 2006
 
-Revised: November 2011
+Revised: December 2011

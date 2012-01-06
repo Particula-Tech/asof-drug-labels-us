@@ -12,15 +12,15 @@ Study TMC114-C211
 Study TMC114-C211 is a randomized, controlled, open-label Phase 3 trial comparing PREZISTA/ritonavir 800/100 mg once daily versus lopinavir/ritonavir 800/200 mg per day (given as a twice daily or as a once daily regimen) in antiretroviral treatment-naïve HIV-1-infected adult subjects.
 Both arms used a fixed background regimen consisting of tenofovir disoproxil fumarate 300 mg once daily (TDF) and emtricitabine 200 mg once daily (FTC).
 
-HIV-1-infected subjects who were eligible for this trial had plasma HIV-1 RNA ≥ 5000 copies/mL.
-Randomization was stratified by screening plasma viral load (HIV-1 RNA < 100,000 copies/mL or ≥ 100,000 copies/mL) and screening CD4+ cell count (< 200 cells/mm3 or ≥ 200 cells/mm3).
-Virologic response was defined as a confirmed plasma HIV-1 RNA viral load < 50 copies/mL.
+HIV-1-infected subjects who were eligible for this trial had plasma HIV-1 RNA greater than or equal to 5000 copies/mL.
+Randomization was stratified by screening plasma viral load (HIV-1 RNA less than 100,000 copies/mL or greater than or equal to 100,000 copies/mL) and screening CD4+ cell count (less than 200 cells/mm3 or greater than or equal to 200 cells/mm3).
+Virologic response was defined as a confirmed plasma HIV-1 RNA viral load less than 50 copies/mL.
 Analyses included 689 subjects in Study TMC114-C211 who had completed 192 weeks of treatment or discontinued earlier.
 
-Demographics and baseline characteristics were balanced between the PREZISTA/ritonavir arm and the lopinavir/ritonavir arm (see Table 14).
-Table 14 compares the demographic and baseline characteristics between subjects in the PREZISTA/ritonavir 800/100 mg once daily arm and subjects in the lopinavir/ritonavir 800/200 mg per day arm in Study TMC114-C211.
+Demographics and baseline characteristics were balanced between the PREZISTA/ritonavir arm and the lopinavir/ritonavir arm (see Table 16).
+Table 16 compares the demographic and baseline characteristics between subjects in the PREZISTA/ritonavir 800/100 mg once daily arm and subjects in the lopinavir/ritonavir 800/200 mg per day arm in Study TMC114-C211.
 
-Table 14: Demographic and Baseline Characteristics of Subjects in Study TMC114-C211
+Table 16: Demographic and Baseline Characteristics of Subjects in Study TMC114-C211
 
 | PREZISTA/ritonavir 800/100 mg once daily + TDF/FTC N = 343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N = 346 |  |
 | --- | --- | --- |
@@ -41,15 +41,15 @@ Table 14: Demographic and Baseline Characteristics of Subjects in Study TMC114-C
 | Percentage of Patients with Baseline Viral Load ≥ 100,000 copies/mL | 34% | 35% |
 | Percentage of Patients with Baseline CD4+ Cell Count < 200 cells/mm3 | 41% | 43% |
 
-Week 192 outcomes for subjects on PREZISTA/ritonavir 800/100 mg once daily from Study TMC114-C211 are shown in Table 15.
+Week 192 outcomes for subjects on PREZISTA/ritonavir 800/100 mg once daily from Study TMC114-C211 are shown in Table 17.
 
-Table 15: Virologic Outcome of Randomized Treatment of Study TMC114-C211 at 192 Weeks
+Table 17: Virologic Outcome of Randomized Treatment of Study TMC114-C211 at 192 Weeks
 
 |  | PREZISTA/ritonavir 800/100 mg once daily + TDF/FTC N = 343 | lopinavir/ritonavir 800/200 mg per day + TDF/FTC N = 346 |
 | --- | --- | --- |
 | Virologic success HIV-1 RNA < 50 copies/mL | 70%95% CI: 1.9; 16.1 | 61% |
 | Virologic failureIncludes patients who discontinued prior to Week 192 for lack or loss of efficacy and patients who are ≥ 50 copies in the 192-week window and patients who had a change in their background regimen that was not permitted by the protocol | 12% | 15% |
-| No virologic data at Week 192 windowWindow 186-198 Weeks Reasons |  |  |
+| No virologic data at Week 192 windowWindow 186–198 Weeks Reasons |  |  |
 | Discontinued study due to adverse event or deathIncludes patients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window | 5% | 13% |
 | Discontinued study for other reasonsOther includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was < 50 copies/mL | 13% | 12% |
 | Missing data during window but on study | <1% | 0% |
@@ -64,17 +64,17 @@ In the 192 week analysis, statistical superiority of the PREZISTA/ritonavir regi
 Study TMC114-C229
 
 Study TMC114-C229 is a randomized, open-label trial comparing PREZISTA/ritonavir 800/100 mg once daily to PREZISTA/ritonavir 600/100 mg twice daily in treatment-experienced HIV-1 infected patients with screening genotype resistance test showing no darunavir resistance associated substitutions (i.e.
-V11I, V32I, L33F, I47V, I50V, I54L, I54M, T74P, L76V, I84V, L89V) and a screening viral load of > 1,000 HIV-1 RNA copies/ml.
-Both arms used an optimized background regimen consisting of ≥2 NRTIs selected by the investigator.
+V11I, V32I, L33F, I47V, I50V, I54L, I54M, T74P, L76V, I84V, L89V) and a screening viral load of greater than 1,000 HIV-1 RNA copies/mL.
+Both arms used an optimized background regimen consisting of greater than or equal to 2 NRTIs selected by the investigator.
 
 HIV-1-infected subjects who were eligible for this trial were on a highly active antiretroviral therapy regimen (HAART) for at least 12 weeks.
-Virologic response was defined as a confirmed plasma HIV-1 RNA viral load < 50 copies/mL.
+Virologic response was defined as a confirmed plasma HIV-1 RNA viral load less than 50 copies/mL.
 Analyses included 590 subjects who had completed 48 weeks of treatment or discontinued earlier.
 
-Table 16 compares the demographic and baseline characteristics between subjects in the PREZISTA/ritonavir 800/100 mg once daily arm and subjects in the PREZISTA/ritonavir 600/100 mg twice daily arm in Study TMC114-C229.
+Table 18 compares the demographic and baseline characteristics between subjects in the PREZISTA/ritonavir 800/100 mg once daily arm and subjects in the PREZISTA/ritonavir 600/100 mg twice daily arm in Study TMC114-C229.
 No imbalances between the 2 arms were noted.
 
-Table 16: Demographic and Baseline Characteristics of Subjects in Study TMC114-C229
+Table 18: Demographic and Baseline Characteristics of Subjects in Study TMC114-C229
 
 | PREZISTA/ritonavir 800/100 mg once daily + OBR N = 294 | PREZISTA/ritonavir 600/100 mg twice daily + OBR N = 296 |  |
 | --- | --- | --- |
@@ -110,9 +110,9 @@ Table 16: Demographic and Baseline Characteristics of Subjects in Study TMC114-C
 | NNRTIs | 1 | 1 |
 | PIs (excluding low-dose ritonavir) | 1 | 1 |
 
-Week 48 outcomes for subjects on PREZISTA/ritonavir 800/100 mg once daily from Study TMC114-C229 are shown in Table 17.
+Week 48 outcomes for subjects on PREZISTA/ritonavir 800/100 mg once daily from Study TMC114-C229 are shown in Table 19.
 
-Table 17: Virologic Outcome of Randomized Treatment of Study TMC114-C229 at 48 Weeks
+Table 19: Virologic Outcome of Randomized Treatment of Study TMC114-C229 at 48 Weeks
 
 | PREZISTA/ritonavir 800/100 mg once daily + OBR N = 294 | PREZISTA/ritonavir 600/100 mg twice daily + OBR N = 296 |  |
 | --- | --- | --- |
@@ -132,14 +132,14 @@ Study TMC114-C214
 Study TMC114-C214 is a randomized, controlled, open-label Phase 3 trial comparing PREZISTA/ritonavir 600/100 mg twice daily versus lopinavir/ritonavir 400/100 mg twice daily in antiretroviral treatment-experienced, lopinavir/ritonavir-naïve HIV-1-infected adult subjects.
 Both arms used an optimized background regimen (OBR) consisting of at least 2 antiretrovirals (NRTIs with or without NNRTIs).
 
-HIV-1-infected subjects who were eligible for this trial had plasma HIV-1 RNA > 1000 copies/mL and were on a highly active antiretroviral therapy regimen (HAART) for at least 12 weeks.
-Virologic response was defined as a confirmed plasma HIV-1 RNA viral load < 400 copies/mL.
+HIV-1-infected subjects who were eligible for this trial had plasma HIV-1 RNA greater than 1000 copies/mL and were on a highly active antiretroviral therapy regimen (HAART) for at least 12 weeks.
+Virologic response was defined as a confirmed plasma HIV-1 RNA viral load less than 400 copies/mL.
 Analyses included 595 subjects in Study TMC114-C214 who had completed 96 weeks of treatment or discontinued earlier.
 
-Demographics and baseline characteristics were balanced between the PREZISTA/ritonavir arm and the lopinavir/ritonavir arm (see Table 18).
-Table 18 compares the demographic and baseline characteristics between subjects in the PREZISTA/ritonavir 600/100 mg twice daily arm and subjects in the lopinavir/ritonavir 400/100 mg twice daily arm in Study TMC114-C214.
+Demographics and baseline characteristics were balanced between the PREZISTA/ritonavir arm and the lopinavir/ritonavir arm (see Table 20).
+Table 20 compares the demographic and baseline characteristics between subjects in the PREZISTA/ritonavir 600/100 mg twice daily arm and subjects in the lopinavir/ritonavir 400/100 mg twice daily arm in Study TMC114-C214.
 
-Table 18: Demographic and Baseline Characteristics of Subjects in Study TMC114-C214
+Table 20: Demographic and Baseline Characteristics of Subjects in Study TMC114-C214
 
 | PREZISTA/ritonavir 600/100 mg twice daily + OBR N = 298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N = 297 |  |
 | --- | --- | --- |
@@ -175,9 +175,9 @@ Table 18: Demographic and Baseline Characteristics of Subjects in Study TMC114-C
 | PIs (excluding low-dose ritonavir) | 1 | 1 |
 | Percentage of Subjects ResistantBased on phenotype (Antivirogram®) to All AvailableCommercially available PIs at the time of study enrollment PIs at Baseline, excluding Darunavir | 2% | 3% |
 
-Week 96 outcomes for subjects on PREZISTA/ritonavir 600/100 mg twice daily from Study TMC114-C214 are shown in Table 19.
+Week 96 outcomes for subjects on PREZISTA/ritonavir 600/100 mg twice daily from Study TMC114-C214 are shown in Table 21.
 
-Table 19: Virologic Outcome of Randomized Treatment of Study TMC114-C214 at 96 Weeks
+Table 21: Virologic Outcome of Randomized Treatment of Study TMC114-C214 at 96 Weeks
 
 |  | PREZISTA/ritonavir 600/100 mg twice daily + OBR N = 298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N = 297 |
 | --- | --- | --- |
@@ -195,7 +195,7 @@ Studies TMC114-C213 and TMC114-C202
 
 Studies TMC114-C213 and TMC114-C202 are randomized, controlled, Phase 2b trials in adult subjects with a high level of PI resistance consisting of 2 parts: an initial partially-blinded, dose-finding part and a second long-term part in which all subjects randomized to PREZISTA/ritonavir received the recommended dose of 600/100 mg twice daily.
 
-HIV-1-infected subjects who were eligible for these trials had plasma HIV-1 RNA > 1000 copies/mL, had prior treatment with PI(s), NNRTI(s) and NRTI(s), had at least one primary PI mutation (D30N, M46I/L, G48V, I50L/V, V82A/F/S/T, I84V, L90M) at screening, and were on a stable PI-containing regimen at screening for at least 8 weeks.
+HIV-1-infected subjects who were eligible for these trials had plasma HIV-1 RNA greater than 1000 copies/mL, had prior treatment with PI(s), NNRTI(s) and NRTI(s), had at least one primary PI mutation (D30N, M46I/L, G48V, I50L/V, V82A/F/S/T, I84V, L90M) at screening, and were on a stable PI-containing regimen at screening for at least 8 weeks.
 Randomization was stratified by the number of PI mutations, screening viral load, and the use of enfuvirtide.
 
 The virologic response rate was evaluated in subjects receiving PREZISTA/ritonavir plus an OBR versus a control group receiving an investigator-selected PI(s) regimen plus an OBR.
@@ -205,10 +205,10 @@ Selected PI(s) in the control arm included: lopinavir in 36%, (fos)amprenavir in
 Approximately 47% of all subjects used enfuvirtide, and 35% of the use was in subjects who were ENF-naïve.
 Virologic response was defined as a decrease in plasma HIV-1 RNA viral load of at least 1 log10 versus baseline.
 
-In the pooled analysis for TMC114-C213 and TMC114-C202, demographics and baseline characteristics were balanced between the PREZISTA/ritonavir arm and the comparator PI arm (see Table 20).
-Table 20 compares the demographic and baseline characteristics between subjects in the PREZISTA/ritonavir 600/100 mg twice daily arm and subjects in the comparator PI arm in the pooled analysis of Studies TMC114-C213 and TMC114-C202.
+In the pooled analysis for TMC114-C213 and TMC114-C202, demographics and baseline characteristics were balanced between the PREZISTA/ritonavir arm and the comparator PI arm (see Table 22).
+Table 22 compares the demographic and baseline characteristics between subjects in the PREZISTA/ritonavir 600/100 mg twice daily arm and subjects in the comparator PI arm in the pooled analysis of Studies TMC114-C213 and TMC114-C202.
 
-Table 20: Demographic and Baseline Characteristics of Subjects in the Studies TMC114-C213 and TMC114-C202 (Pooled Analysis)
+Table 22: Demographic and Baseline Characteristics of Subjects in the Studies TMC114-C213 and TMC114-C202 (Pooled Analysis)
 
 | PREZISTA/ritonavir 600/100 mg twice daily + OBR N = 131 | Comparator PI(s) + OBR N = 124 |  |
 | --- | --- | --- |
@@ -243,9 +243,9 @@ Table 20: Demographic and Baseline Characteristics of Subjects in the Studies TM
 | Percentage of Subjects Resistant to All AvailableCommercially available PIs at the time of study enrollment PIs at Baseline, excluding Tipranavir and Darunavir | 63% | 61% |
 | Percentage of Subjects with Prior Use of Enfuvirtide | 20% | 17% |
 
-Week 96 outcomes for subjects on the recommended dose PREZISTA/ritonavir 600/100 mg twice daily from the pooled Studies TMC114-C213 and TMC114-C202 are shown in Table 21.
+Week 96 outcomes for subjects on the recommended dose PREZISTA/ritonavir 600/100 mg twice daily from the pooled Studies TMC114-C213 and TMC114-C202 are shown in Table 23.
 
-Table 21: Outcomes of Randomized Treatment Through Week 96 of the Studies TMC114-C213 and TMC114-C202 (Pooled Analysis)
+Table 23: Outcomes of Randomized Treatment Through Week 96 of the Studies TMC114-C213 and TMC114-C202 (Pooled Analysis)
 
 | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=131 | Comparator PI(s) + OBR N=124 |  |
 | --- | --- | --- |
@@ -258,20 +258,22 @@ Table 21: Outcomes of Randomized Treatment Through Week 96 of the Studies TMC114
 | Death or discontinuation due to adverse events | 9% | 3% |
 | Discontinuation due to other reasons | 5% | 7% |
 
-In the pooled Studies TMC114-C213 and TMC114-C202 through 48 weeks of treatment, the proportion of subjects with HIV-1 RNA < 400 copies/mL in the arm receiving PREZISTA/ritonavir 600/100 mg twice daily compared to the comparator PI arm was 55.0% and 14.5%, respectively.
+In the pooled Studies TMC114-C213 and TMC114-C202 through 48 weeks of treatment, the proportion of subjects with HIV-1 RNA less than 400 copies/mL in the arm receiving PREZISTA/ritonavir 600/100 mg twice daily compared to the comparator PI arm was 55.0% and 14.5%, respectively.
 In addition, the mean changes in plasma HIV-1 RNA from baseline were –1.69 log10 copies/mL in the arm receiving PREZISTA/ritonavir 600/100 mg twice daily and –0.37 log10 copies/mL for the comparator PI arm.
 The mean increase from baseline in CD4+ cell counts was higher in the arm receiving PREZISTA/ritonavir 600/100 mg twice daily (103 cells/mm3) than in the comparator PI arm (17 cells/mm3).
 
 ## 14.4 Pediatric Patients
 
-The pharmacokinetic profile, safety and antiviral activity of PREZISTA/ritonavir were evaluated in a randomized, open-label, multicenter study.
-This study enrolled treatment-experienced pediatric subjects between the ages of 6 and < 18 years and weighing at least 44 lbs (20 kg).
-Patients were stratified according to their weight (≥ 20 – < 30 kg, ≥ 30 – < 40 kg, ≥ 40 kg) and received PREZISTA/ritonavir plus background therapy consisting of at least two non-protease inhibitor antiretroviral drugs.
+The pharmacokinetic profile, safety and antiviral activity of PREZISTA/ritonavir were evaluated in 2 randomized, open-label, multicenter studies.
+
+Study TMC114-C212
+
+Treatment-experienced pediatric subjects between the ages of 6 and less than 18 years and weighing at least 20 kg were stratified according to their weight (greater than or equal to 20 kg to less than 30 kg, greater than or equal to 30 kg to less than 40 kg, greater than or equal to 40 kg) and received PREZISTA tablets with either ritonavir capsules or oral solution plus background therapy consisting of at least two non-protease inhibitor antiretroviral drugs.
 Eighty patients were randomized and received at least one dose of PREZISTA/ritonavir.
 Pediatric subjects who were at risk of discontinuing therapy due to intolerance of ritonavir oral solution (e.g., taste aversion) were allowed to switch to the capsule formulation.
 Of the 44 pediatric subjects taking ritonavir oral solution, 23 subjects switched to the 100 mg capsule formulation and exceeded the weight-based ritonavir dose without changes in observed safety.
 
-The 80 randomized pediatric subjects had a median age of 14 (range 6 – < 18 years), and were 71% male, 54% Caucasian, 30% Black, 9% Hispanic and 8% other.
+The 80 randomized pediatric subjects had a median age of 14 (range 6 to less than 18 years), and were 71% male, 54% Caucasian, 30% Black, 9% Hispanic and 8% other.
 The mean baseline plasma HIV-1 RNA was 4.64 log10 copies/mL, and the median baseline CD4+ cell count was 330 cells/mm3 (range: 6 to 1505 cells/mm3).
 Overall, 38% of pediatric subjects had baseline plasma HIV-1 RNA ≥ 100,000 copies/mL.
 Most pediatric subjects (79%) had previous use of at least one NNRTI and 96% of pediatric subjects had previously used at least one PI.
@@ -280,10 +282,27 @@ Seventy-seven pediatric subjects (96%) completed the 24-week period.
 Of the patients who discontinued, one patient discontinued treatment due to an adverse event.
 An additional 2 patients discontinued for other reasons, one patient due to compliance and another patient due to relocation.
 
-The proportion of pediatric subjects with HIV-1 RNA < 400 copies/mL and < 50 copies/mL was 64% and 50%, respectively.
+The proportion of pediatric subjects with HIV-1 RNA less than 400 copies/mL and less than 50 copies/mL was 64% and 50%, respectively.
 The mean CD4+ cell count increase from baseline was 117 cells/mm3.
 
-The dose selection was based on the following:
+Study TMC114-C228
 
-- Similar darunavir plasma exposures in children compared to adults
+Treatment-experienced pediatric subjects between the ages of 3 and less than 6 years and weighing greater than or equal to 10 kg to less than 20 kg received PREZISTA oral suspension with ritonavir oral solution plus background therapy consisting of at least two active non-protease inhibitor antiretroviral drugs.
+Twenty-one subjects received at least one dose of PREZISTA/ritonavir.
+
+The 21 subjects had a median age of 4.4 years (range 3 to less than 6 years), and were 48% male, 57% Black, 29%, Caucasian and 14% other.
+The mean baseline plasma HIV-1 was 4.34 log10 copies/mL, the median baseline CD4+ cell count was 927 × 106 cells/l (range: 209 to 2,429 × 106 cells/l) and the median baseline CD4+ percentage was 27.7% (range: 15.6% to 51.1%).
+Overall, 24% of subjects had a baseline plasma HIV-1 RNA greater than or equal to 100,000 copies/mL.
+All subjects had used greater than or equal to 2 NRTIs, 62% of subjects had used greater than or equal to 1 NNRTI and 76% had previously used at least one HIV PI.
+
+Twenty subjects (95%) completed the 24 week period.
+One subject prematurely discontinued treatment due to vomiting assessed as related to ritonavir.
+
+The proportion of subjects with HIV-1 RNA less than 50 copies/mL and less than 400 copies/mL was 57% and 81%, respectively.
+The mean change in CD4+ percentage from baseline was 4%.
+The mean change in CD4+ cell count from baseline was 109 × 106 cells/L.
+
+Dose recommendations from the two studies were based on the following:
+
+- Similar darunavir plasma exposures in children compared to adults, and
 - Similar virologic response rates and safety profile in children compared to adults
