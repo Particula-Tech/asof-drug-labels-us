@@ -26,11 +26,21 @@ Although dosage must be adjusted for the individual patient according to the res
 | Continuous Intravenous Infusion | Initial Dose Continuous | 5,000 Units by I.V. injection 20,000 − 40,000 Units/24 hours in 1000 mL of 5% Dextrose Injection |
 | *Based on 150 lb. (68 kg) patient. |  |  |
 
-Pediatric Use: Follow recommendations of appropriate pediatric reference texts.
-In general, the following dosage schedule may be used as a guideline:
+Pediatric Use: There are no adequate and well controlled studies on heparin use in pediatric patients.
+Pediatric dosing recommendations are based on clinical experience.
+In general, the following dosage schedule may be used as a guideline in pediatric patients:
 
-| Initial Dose: Maintenance Dose: | 50 Units/kg (I.V. drip) 100 Units/kg (I.V. drip) every four hours, or 20,000 Units/M2/24 hours continuously |
-| --- | --- |
+Initial Dose: 75 to 100 units/kg (IV bolus over 10 minutes)
+
+Maintenance Dose Infants: 25 to 30 units/kg/hour;
+
+Infants < 2 months have the highest requirements (average 28 units/kg/hour)
+
+Children > 1 year of age: 18 to 20 units/kg/hour;
+
+Older children may require less heparin, similar to weight-adjusted adult dosage
+
+Monitoring Adjust heparin to maintain aPTT of 60 to 85 seconds, assuming this reflects an anti-Factor Xa level of 0.35 to 0.70.
 
 Geriatric Use: Patients over 60 years of age may require lower doses of heparin.
 

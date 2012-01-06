@@ -24,11 +24,21 @@ Other − Menstruation, liver disease with impaired hemostasis.
 Coagulation Testing: When heparin sodium is administered in therapeutic amounts, its dosage should be regulated by frequent blood coagulation tests.
 If the coagulation test is unduly prolonged or if hemorrhage occurs, heparin sodium should be discontinued promptly (see OVERDOSAGE).
 
-Thrombocytopenia: Thrombocytopenia has been reported to occur in patients receiving heparin with a reported incidence of 0 to 30%.
-Mild thrombocytopenia (count greater than 100,000/mm3) may remain stable or reverse even if heparin is continued.
-However, thrombocytopenia of any degree should be monitored closely.
-If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see White Clot Syndrome, PRECAUTIONS), the heparin product should be discontinued.
-If continued heparin therapy is essential, administration of heparin from a different organ source can be reinstituted with caution.
+Thrombocytopenia: Thrombocytopenia in patients receiving heparin has been reported at frequencies up to 30%.
+It can occur 2 to 20 days (average 5 to 9) following the onset of heparin therapy.
+Obtain platelet counts before and periodically during heparin therapy.
+Monitor thrombocytopenia of any degree closely.
+If the count falls below 100,000/mm3 or if recurrent thrombosis develops, promptly discontinue heparin, evaluate for HIT and HITT, and, if necessary, administer an alternative anticoagulant (see Heparin-induced Thrombocytopenia and Heparin-Induced Thrombocytopenia and Thrombosis).
+
+Heparin-Induced Thrombocytopenia and Heparin-Induced Thrombocytopenia and Thrombosis: Heparin-induced thrombocytopenia (HIT) is a serious antibody-mediated reaction resulting from irreversible aggregation of platelets.
+HIT may progress to the development of venous and arterial thromboses, a condition known as heparin-induced thrombocytopenia and thrombosis (HITT).
+Thrombotic events may also be the initial presentation for HITT.
+These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and possibly death.
+Monitor thrombocytopenia of any degree closely.
+If the platelet count falls below 100,000/mm3 or if recurrent thrombosis develops, promptly discontinue heparin, evaluate for HIT and HITT, and, if necessary, administer an alternative anticoagulant.
+
+HIT and HITT can occur up to several weeks after the discontinuation of heparin therapy.
+Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT and HITT.
 
 The intravenous administration of these solutions can cause fluid and/or solute overloading resulting in dilution of serum electrolyte concentrations, overhydration, congested states or pulmonary edema.
 
@@ -45,27 +55,19 @@ Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic pe
 
 # PRECAUTIONS
 
-## General:
+General:
 
-a. White Clot Syndrome:
-
-Rare patients on heparin may develop new thrombus formation in association with thrombocytopenia resulting from irreversible aggregation of platelets induced by heparin, the so-called “white clot syndrome”.
-The process may lead to severe thromboembolic complications like skin necrosis, gangrene of the extremities, myocardial infarction, pulmonary embolism and stroke.
-Therefore, heparin administration should be promptly discontinued if a patient develops new thrombosis in association with thrombocytopenia.
-
-b. Heparin Resistance:
+a. Heparin Resistance:
 
 Increased resistance to heparin is frequently encountered in fever, thrombosis, thrombophlebitis, infections with thrombosing tendencies, myocardial infarction, cancer and in postsurgical patients.
 
-c. Increased Risk in Older Patients, Especially Women:
+b. Increased Risk in Older Patients, Especially Women:
 
 A higher incidence of bleeding has been reported in patients, particularly women, over 60 years of age.
 
-## Laboratory Tests:
+Laboratory Tests: Periodic platelet counts, hematocrits and tests for occult blood in stool are recommended during the entire course of heparin therapy, regardless of the route of administration (see DOSAGE AND ADMINISTRATION).
 
-Periodic platelet counts, hematocrits and tests for occult blood in stool are recommended during the entire course of heparin therapy, regardless of the route of administration (see DOSAGE AND ADMINISTRATION).
-
-## Drug Interactions:
+Drug Interactions:
 
 Oral Anticoagulants: Heparin sodium may prolong the one-stage prothrombin time.
 Therefore, when heparin sodium is given with dicumarol or warfarin sodium, a period of at least 5 hours after the last intravenous dose should elapse before blood is drawn if a valid PROTHROMBIN time is to be obtained.
@@ -74,35 +76,33 @@ Platelet Inhibitors: Drugs such as acetylsalicylic acid, dextran, phenylbutazone
 
 Other Interactions: Digitalis, tetracyclines, nicotine, or antihistamines may partially counteract the anticoagulant action of heparin sodium.
 
-## Drugs/Laboratory Test Interactions:
+Drugs/Laboratory Test Interactions:
 
 Hyperaminotransferasemia: Significant elevations of aminotransferase (SGOT [S-AST] and SGPT [S-ALT]) levels have occurred in a high percentage of patients (and healthy subjects) who have received heparin.
 Since aminotransferase determinations are important in the differential diagnosis of myocardial infarction, liver disease, and pulmonary emboli, rises that might be caused by drugs (like heparin) should be interpreted with caution.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
-
-No long-term studies in animals have been performed to evaluate carcinogenic potential of heparin.
+Carcinogenesis, Mutagenesis, Impairment of Fertility: No long-term studies in animals have been performed to evaluate carcinogenic potential of heparin.
 Also, no reproduction studies in animals have been performed concerning mutagenesis or impairment of fertility.
 
-## Pregnancy:
+Pregnancy:
 
-Teratogenic Effects: Pregnancy Category C. Animal reproduction studies have not been conducted with heparin sodium or dextrose.
-It is also not known whether heparin sodium or dextrose can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-Heparin sodium or dextrose should be given to a pregnant woman only if clearly needed.
+Pregnancy Category C.: There are no adequate and well-controlled studies on heparin use in pregnant women.
+In published reports, heparin exposure during pregnancy did not show evidence of an increased risk of adverse maternal or fetal outcomes in humans.
+Heparin sodium does not cross the placenta, based on human and animal studies.
+Administration of heparin to pregnant animals at doses higher than the maximum human daily dose based on body weight resulted in increased resorptions.
+Use heparin sodium during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Nonteratogenic Effects: Heparin does not cross the placental barrier.
+In a published study conducted in rats and rabbits, pregnant animals received heparin intravenously during organogenesis at a dose of 10,000 units/kg/day, approximately 10 times the maximum human daily dose based on body weight.
+The number of early resorptions increased in both species.
+There was no evidence of teratogenic effects.
 
-## Nursing Mothers:
+Nursing Mothers: Due to its large molecular weight, heparin is not likely to be excreted in human milk, and any heparin in milk would not be orally absorbed by a nursing infant.
+Exercise caution when administering Heparin Sodium to a nursing mother.
 
-Heparin is not excreted in human milk.
+Pediatric Use: There are no adequate and well controlled studies on heparin use in pediatric patients.
+Pediatric dosing recommendations are based on clinical experience (see DOSAGE AND ADMINISTRATION, Pediatric Use).
 
-## Pediatric Use:
-
-See DOSAGE AND ADMINISTRATION.
-
-## Geriatric Use:
-
-A higher incidence of bleeding has been reported in patients over 60 years of age, especially women (see PRECAUTIONS, General).
+Geriatric Use: A higher incidence of bleeding has been reported in patients over 60 years of age, especially women (see PRECAUTIONS, General).
 Clinical studies indicate that lower doses of heparin may be indicated in these patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
 Solutions containing dextrose should be used with caution in patients with known subclinical or overt diabetes mellitus.

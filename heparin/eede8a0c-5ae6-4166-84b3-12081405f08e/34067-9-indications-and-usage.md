@@ -4,7 +4,7 @@ Heparin sodium is indicated for:
 
 Atrial fibrillation with embolization;
 
-Diagnosis and treatment of acute and chronic consumption coagulopathies (disseminated intravascular coagulation);
+Treatment of acute and chronic consumption coagulopathies (disseminated intravascular coagulation);
 
 Prevention of clotting in arterial and heart surgery;
 
