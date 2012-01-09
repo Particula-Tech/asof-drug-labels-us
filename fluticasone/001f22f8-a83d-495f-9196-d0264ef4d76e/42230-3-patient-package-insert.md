@@ -179,7 +179,7 @@ The parts of your FLOVENT DISKUS
 
 The counter shows you how many doses are left.
 The counter number will count down each time you use FLOVENT DISKUS.
-After you have used 55 doses (23 doses from the sample pack), the numbers 5 to 0 will show in red to warn you that there are only a few doses left (see Figure 1).
+After you have used 55 doses (23 doses from the sample and institutional packs), the numbers 5 to 0 will show in red to warn you that there are only a few doses left (see Figure 1).
 
 Using your FLOVENT DISKUS
 
@@ -249,10 +249,10 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2010, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-May 2010 FLD:4PIL
+September 2011 FLD:5PIL
 
 Patient Information
 
@@ -435,7 +435,7 @@ The parts of your FLOVENT DISKUS
 
 The counter shows you how many doses are left.
 The counter number will count down each time you use FLOVENT DISKUS.
-After you have used 55 doses (23 doses from the sample pack), the numbers 5 to 0 will show in red to warn you that there are only a few doses left (see Figure 1).
+After you have used 55 doses (23 doses from the sample and institutional packs), the numbers 5 to 0 will show in red to warn you that there are only a few doses left (see Figure 1).
 
 Using your FLOVENT DISKUS
 
@@ -505,7 +505,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2010, GlaxoSmithKline.
+©2011, GlaxoSmithKline.
 All rights reserved.
 
-May 2010 FLD:4PIL
+September 2011 FLD:5PIL

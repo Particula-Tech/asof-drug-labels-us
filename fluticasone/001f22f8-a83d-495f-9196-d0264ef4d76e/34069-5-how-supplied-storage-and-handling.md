@@ -2,6 +2,8 @@
 
 FLOVENT DISKUS 50 mcg (NDC 0173-0600-02), FLOVENT DISKUS 100 mcg (NDC 0173-0602-02), and FLOVENT DISKUS 250 mcg (NDC 0173-0601-02) are each supplied as a disposable orange inhalation unit containing 60 blisters of powder formulation packaged in a plastic-coated, moisture-protective foil pouch in a carton of 1.
 
+FLOVENT DISKUS 100 mcg (NDC 0173-0602-00) and FLOVENT DISKUS 250 mcg (NDC 0173-0601-00) are also each supplied in an institutional pack of 1 disposable orange inhalation unit containing 28 blisters of powder formulation packaged in a plastic-coated, moisture-protective foil pouch in a carton of 1.
+
 Store at controlled room temperature (see USP), 20° to 25°C (68° to 77°F) in a dry place away from direct heat or sunlight.
 Keep out of reach of children.
 The DISKUS inhalation device is not reusable.
