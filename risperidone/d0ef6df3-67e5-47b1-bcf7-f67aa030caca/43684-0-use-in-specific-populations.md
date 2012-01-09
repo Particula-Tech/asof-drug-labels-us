@@ -59,23 +59,6 @@ Tardive Dyskinesia
 
 In clinical trials in 1885 children and adolescents treated with risperidone, 2 (0.1%) patients were reported to have tardive dyskinesia, which resolved on discontinuation of risperidone treatment [see also WARNINGS AND PRECAUTIONS (5.4)].
 
-Weight Gain
-
-In a long-term, open-label extension study in adolescent patients with schizophrenia, weight increase was reported as a treatment-emergent adverse event in 14% of patients.
-In 103 adolescent patients with schizophrenia, a mean increase of 9.0 kg was observed after 8 months of risperidone treatment.
-The majority of that increase was observed within the first 6 months.
-The average percentiles at baseline and 8 months, respectively, were 56 and 72 for weight, 55 and 58 for height, and 51 and 71 for body mass index.
-
-In long-term, open-label trials (studies in patients with autistic disorder or other psychiatric disorders), a mean increase of 7.5 kg after 12 months of risperidone treatment was observed, which was higher than the expected normal weight gain (approximately 3 to 3.5 kg per year adjusted for age, based on Centers for Disease Control and Prevention normative data).
-The majority of that increase occurred within the first 6 months of exposure to risperidone.
-The average percentiles at baseline and 12 months, respectively, were 49 and 60 for weight, 48 and 53 for height, and 50 and 62 for body mass index.
-
-In one 3 week, placebo-controlled trial in children and adolescent patients with acute manic or mixed episodes of bipolar I disorder, increases in body weight were higher in the risperidone groups than the placebo group, but not dose related (1.90 kg in the risperidone 0.5 to 2.5 mg group, 1.44 kg in the risperidone 3 to 6 mg group, and 0.65 kg in the placebo group).
-A similar trend was observed in the mean change from baseline in body mass index.
-
-When treating pediatric patients with risperidone for any indication, weight gain should be assessed against that expected with normal growth.
-[See also ADVERSE REACTIONS (6.7).]
-
 Somnolence
 
 Somnolence was frequently observed in placebo-controlled clinical trials of pediatric patients with autistic disorder.
