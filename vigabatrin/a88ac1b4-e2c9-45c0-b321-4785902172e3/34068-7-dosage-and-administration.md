@@ -9,9 +9,11 @@ SABRIL should be given as twice daily oral administration with or without food.
 The initial dosing is 50 mg/kg/day given in two divided doses and can be titrated by 25-50 mg/kg/day increments every 3 days up to a maximum of 150 mg/kg/day [see USE IN SPECIFIC POPULATIONS, Pediatric Use (8.4)].
 
 The entire contents of the appropriate number of packets (500 mg/packet) of powder should be emptied into an empty cup, and should be dissolved in 10 mL of cold or room temperature water per packet using the 10 mL oral syringe supplied with the medication.
+Discard the resulting solution if it is not clear (or free of particles) and colorless.
 The concentration of the final solution is 50 mg/mL.
 Table 1 below describes how many packets and how many mL of water will be needed to prepare each individual dose.
 Each individual dose should be prepared immediately before use and administered cold or at room temperature.
+Discard any unused portion of the solution after administering the correct dose.
 
 Table 1.
 Number of Packages and mL of Water used for Each Individual Dose
@@ -59,7 +61,7 @@ CLcr *= [140-age (years)]× weight (kg)/72× serum creatinine (mg/dL)] *[× 0.85
 
 The effect of dialysis on SABRIL clearance has not been adequately studied.
 
-[see CLINICAL PHARMACOLOGY, Pharmacokinetics, Renal Impairment (12.3) and USE IN SPECIFIC POPULATIONS, Renal Impairment (8.6)].
+[See CLINICAL PHARMACOLOGY, Pharmacokinetics, Renal Impairment (12.3) and USE IN SPECIFIC POPULATIONS, Renal Impairment (8.6)].
 
 ## 2.3 General Dosing Considerations
 

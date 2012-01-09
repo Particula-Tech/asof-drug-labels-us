@@ -103,6 +103,6 @@ Co-administration of ethanol (0.6 g/kg) with vigabatrin (1.5 g twice daily) indi
 
 Oral Contraceptives
 
-In a double-blind, placebo-controlled study using a combination oral contraceptive containing 30 μg ethinyl estradiol and 150 μg levonorgestrel, vigabatrin (3 g/day) did not interfere significantly with the cytochrome P450 isoenzyme (CYP3A)-mediated metabolism of the contraceptive tested.
+In a double-blind, placebo-controlled study using a combination oral contraceptive containing 30 mcg ethinyl estradiol and 150 mcg levonorgestrel, vigabatrin (3 g/day) did not interfere significantly with the cytochrome P450 isoenzyme (CYP3A)-mediated metabolism of the contraceptive tested.
 Based on this study, vigabatrin is unlikely to affect the efficacy of steroid oral contraceptives.
 Additionally, no significant difference in pharmacokinetic parameters (elimination half-life, AUC, Cmax, apparent oral clearance, time to peak, and apparent volume of distribution) of vigabatrin were found after treatment with ethinyl estradiol and levonorgestrel.

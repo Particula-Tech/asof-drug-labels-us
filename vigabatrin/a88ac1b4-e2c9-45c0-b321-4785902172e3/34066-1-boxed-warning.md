@@ -1,4 +1,4 @@
-# WARNING: VISION LOSS
+WARNING: VISION LOSS
 
 - SABRIL causes permanent vision loss in infants, children and adults.
   Because assessing vision loss is difficult in children, the frequency and extent of vision loss in infants and children is poorly characterized.
@@ -11,9 +11,10 @@
 - Because of the risk of vision loss, SABRIL should be withdrawn from patients with infantile spasms who fail to show substantial clinical benefit within 2 to 4 weeks of initiation, or sooner if treatment failure becomes obvious.
   Patient response to and continued need for SABRIL should be periodically reassessed.
 - In infants and children, vision loss may not be detected until it is severe.
-  Nonetheless, vision should be assessed to the extent possible at baseline (no later than 4 weeks after starting SABRIL) and at least every 3 months during therapy.
+  Nonetheless, unless a patient is formally exempted from periodic ophthalmologic assessment as documented in the SHARE program, vision should be assessed to the extent possible at baseline (no later than 4 weeks after starting SABRIL) and at least every 3 months during therapy.
   Once detected, vision loss due to SABRIL is not reversible.
-  Vision testing is also required about 3 to 6 months after the discontinuation of SABRIL therapy.
+  Vision assessment is also required about 3 to 6 months after the discontinuation of SABRIL therapy.
+- Drug discontinuation should be considered, balancing benefit and risk, if visual loss is documented.
 - Symptoms of vision loss from SABRIL are unlikely to be recognized by the parent or caregiver before vision loss is severe.
   Vision loss of milder severity, although unrecognized by the caregiver, may still adversely affect function.
 - SABRIL should not be used in patients with, or at high risk of, other types of irreversible vision loss unless the benefits of treatment clearly outweigh the risks.
@@ -24,4 +25,4 @@
 
 Because of the risk of permanent vision loss, SABRIL is available only through a special restricted distribution program called SHARE, by calling 1-888-45-SHARE.
 Only prescribers and pharmacies registered with SHARE may prescribe and distribute SABRIL.
-In addition, SABRIL may be dispensed only to patients who are enrolled in and meet all conditions of SHARE [see WARNINGS AND PRECAUTIONS, Distribution Program for SABRIL (5.2)].
+In addition, SABRIL may be dispensed only to patients who are enrolled in and meet all conditions of SHARE [see WARNINGS AND PRECAUTIONS, Distribution Program for SABRIL (SHARE Program) (5.2)].
