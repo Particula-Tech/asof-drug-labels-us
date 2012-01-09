@@ -58,7 +58,7 @@ Discontinue Avastin in patients with fistula formation involving an internal org
 ## 5.5 Arterial Thromboembolic Events
 
 Serious, sometimes fatal, arterial thromboembolic events (ATE) including cerebral infarction, transient ischemic attacks, myocardial infarction, angina, and a variety of other ATE occurred at a higher incidence in patients receiving Avastin compared to those in the control arm.
-Across indications, the incidence of Grade ≥ 3 ATE in the Avastin containing arms was 2.4% compared to 0.7% in the control arms.
+Across indications, the incidence of Grade ≥ 3 ATE in the Avastin containing arms was 2.6% compared to 0.8% in the control arms.
 Among patients receiving Avastin in combination with chemotherapy, the risk of developing ATE during therapy was increased in patients with a history of arterial thromboembolism, or age greater than 65 years.
 [See Use in Specific Populations (8.5).]
 

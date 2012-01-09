@@ -12,9 +12,9 @@ Of the 813 patients randomized to Arms 1 and 2, the median age was 60, 40% were 
 In 56% of the patients, the dominant site of disease was extra‑abdominal, while the liver was the dominant site in 38% of patients.
 
 The addition of Avastin resulted in an improvement in survival across subgroups defined by age (< 65 yrs, ≥ 65 yrs) and gender.
-Results are presented in Table 5 and Figure 1.
+Results are presented in Table 4 and Figure 1.
 
-Table 5: Study 1 Efficacy Results
+Table 4: Study 1 Efficacy Results
 
 |  | IFL + Placebo | IFL + Avastin 5 mg/kg q 2 wks |
 | --- | --- | --- |
@@ -79,60 +79,11 @@ Eight percent had recurrent disease and 77% had Stage IV disease.
 Progression-free survival, the main efficacy outcome measure, was significantly higher in both Avastin containing arms compared to the placebo arm [HR 0.75 (95% CI 0.62, 0.91), p=0.0026 for the Avastin 7.5 mg/kg plus CG arm and HR 0.82 (95% CI 0.68; 0.98), p=0.0301 for the Avastin 15.0 mg/kg plus CG arm].
 The addition of Avastin to CG chemotherapy failed to demonstrate an improvement in the duration of overall survival, an additional efficacy outcome measure, [HR 0.93 (95% CI 0.78; 1.11), p=0.4203 for the Avastin 7.5 mg/kg plus CG arm and HR 1.03 (95% CI 0.86; 1.23), p=0.7613 for the Avastin 15.0 mg/kg plus CG arm].
 
-## 14.3 Metastatic Breast Cancer (MBC)
+## 14.3 Glioblastoma
 
 Study 5
 
-The efficacy and safety of Avastin as first-line treatment of patients with MBC was studied in a single, open‑label, randomized, multicenter study.
-Patients who had not received chemotherapy for locally recurrent or MBC were randomized (1:1) to receive paclitaxel (90 mg/m2 IV once weekly for 3 out of 4 weeks) alone or in combination with Avastin (10 mg/kg IV infusion every 2 weeks).
-Patients were treated until disease progression or unacceptable toxicity.
-In situations where paclitaxel was discontinued or held, treatment with Avastin alone could be continued until disease progression.
-Patients with breast cancer overexpressing HER2 were not eligible unless they had received prior therapy with trastuzumab.
-
-Prior hormonal therapy for the treatment of metastatic disease was allowed, as was prior adjuvant chemotherapy or hormonal therapy.
-Adjuvant taxane therapy, if received, must have been completed 12 or more months prior to study entry.
-Patients with central nervous system metastasis were excluded.
-The main outcome measure of the study was PFS as assessed by independent radiographic review.
-Secondary outcome measures were OS and ORR.
-
-Of the 722 patients randomized, the median age was 55 years, 76% were white, 55% were postmenopausal, and 64% were ER and/or PR positive.
-Patient characteristics were similar across treatment arms.
-Thirty‑six percent had received prior hormonal therapy for advanced disease, and 66% had received adjuvant chemotherapy, including 20% with prior taxane use and 50% with prior anthracycline use.
-Efficacy results are summarized in Table 6.
-
-Table 6: Avastin Efficacy Results from Study 5
-
-| Efficacy Parameter | Avastin + Paclitaxel (n=368) | Paclitaxel Alone (n=354) | p-value | HR (95% CI) |
-| --- | --- | --- | --- | --- |
-| Progression-free Survival | 11.3 | 5.8 |  | 0.48 |
-| [median, months (95% CI)] | (10.5, 13.3) | (5.4, 8.2) | <0.0001 | (0.39, 0.61) |
-| Overall Survival | 26.5 | 24.8 |  | 0.87 |
-| [median, months (95% CI)] | (23.7, 29.2) | (21.4, 27.4) | 0.14 | (0.72, 1.05) |
-| Partial Response Ratea (PR) | 48.9%b | 22.2% | <0.001 | — |
-| a Includes only patients with measurable disease b The difference in partial response rates is 26.7% with a 95% CI (18.4%, 35.0%). |  |  |  |  |
-
-The addition of Avastin to paclitaxel resulted in an improvement in PFS with no significant improvement in OS.
-Partial response rates in patients with measurable disease were higher with Avastin plus paclitaxel.
-No complete responses were observed.
-
-Thirty‑four percent of the patients had incomplete follow‑up for disease progression; therefore an exploratory analysis using similar imputation between arms was performed, which yielded a hazard ratio of 0.57.
-
-Study 6
-
-The efficacy and safety of Avastin as second‑ and third‑line treatment of patients with MBC was studied in a single open‑label randomized study.
-Patients who had received prior anthracycline and taxane therapy in the adjuvant setting or for their MBC were randomized (1:1) to receive capecitabine alone or in combination with Avastin.
-Of the 462 enrolled patients, the median age was 51 years, 81% were white, and 50% were ER positive.
-Patient characteristics were similar across the treatment arms.
-
-The study failed to demonstrate a statistically significant effect on PFS or OS.
-The median PFS was 4.2 months in the capecitabine arm and 4.9 months in the capecitabine plus Avastin arm (log‑rank p‑value = 0.86, hazard ratio 0.98).
-The median OS was 14.5 months in the capecitabine arm and 15.1 months in the capecitabine plus Avastin arm (hazard ratio of 1.08).
-
-## 14.4 Glioblastoma
-
-Study 7
-
-The efficacy and safety of Avastin was evaluated in Study 7, an open‑label, multicenter, randomized, non‑comparative study of patients with previously treated glioblastoma.
+The efficacy and safety of Avastin was evaluated in Study 5, an open‑label, multicenter, randomized, non‑comparative study of patients with previously treated glioblastoma.
 Patients received Avastin (10 mg/kg IV) alone or Avastin plus irinotecan every 2 weeks until disease progression or until unacceptable toxicity.
 All patients received prior radiotherapy (completed at least 8 weeks prior to receiving Avastin) and temozolomide.
 Patients with active brain hemorrhage were excluded.
@@ -144,20 +95,20 @@ Median duration of response was 4.2 months (95% CI 3.0, 5.7).
 Radiologic assessment was based on MRI imaging (using T1 and T2/FLAIR).
 MRI does not necessarily distinguish between tumor, edema, and radiation necrosis.
 
-Study 8
+Study 6
 
-Study 8, was a single‑arm, single institution trial with 56 patients with glioblastoma.
+Study 6, was a single‑arm, single institution trial with 56 patients with glioblastoma.
 All patients had documented disease progression after receiving temozolomide and radiation therapy.
 Patients received Avastin 10 mg/kg IV every 2 weeks until disease progression or unacceptable toxicity.
 
 The median age was 54, 54% were male, 98% Caucasian, and 68% had a Karnofsky Performance Status of 90–100.
 
-The efficacy of Avastin was supported by an objective response rate of 19.6% (95% CI 10.9%, 31.3%) using the same response criteria as in Study 7.
+The efficacy of Avastin was supported by an objective response rate of 19.6% (95% CI 10.9%, 31.3%) using the same response criteria as in Study 5.
 Median duration of response was 3.9 months (95% CI 2.4, 17.4).
 
-## 14.5 Metastatic Renal Cell Carcinoma (mRCC)
+## 14.4 Metastatic Renal Cell Carcinoma (mRCC)
 
-Study 9
+Study 7
 
 Patients with treatment naïve mRCC were evaluated in a multicenter, randomized, double‑blind, international study comparing Avastin plus interferon alfa 2a (IFN‑α2a) versus placebo plus IFN‑α2a.
 A total of 649 patients who had undergone a nephrectomy were randomized (1:1) to receive either Avastin (10 mg/kg IV infusion every 2 weeks; n = 327) or placebo (IV every 2 weeks; n = 322) in combination with IFN‑α2a (9 MIU subcutaneously three times weekly, for a maximum of 52 weeks).

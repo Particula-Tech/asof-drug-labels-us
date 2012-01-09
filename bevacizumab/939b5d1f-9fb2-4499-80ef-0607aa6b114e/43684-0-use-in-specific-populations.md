@@ -40,8 +40,6 @@ In Study 2, patients aged ≥ 65 years receiving Avastin plus FOLFOX4 had a grea
 In Study 4, patients aged ≥ 65 years receiving carboplatin, paclitaxel, and Avastin had a greater relative risk for proteinuria as compared to younger patients.
 [See Warnings and Precautions (5.8).]
 
-In Study 5, there were insufficient numbers of patients ≥ 65 years old to determine whether the overall adverse events profile was different in the elderly as compared with younger patients.
-
 Of the 742 patients enrolled in Genentech‑sponsored clinical studies in which all adverse events were captured, 212 (29%) were age 65 or older and 43 (6%) were age 75 or older.
 Adverse events of any severity that occurred at a higher incidence in the elderly as compared to younger patients, in addition to those described above, were dyspepsia, gastrointestinal hemorrhage, edema, epistaxis, increased cough, and voice alteration.
 

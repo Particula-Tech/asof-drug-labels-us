@@ -25,10 +25,6 @@ Non‑Squamous Non‑Small Cell Lung Cancer (NSCLC)
 
 The recommended dose is 15 mg/kg every 3 weeks in combination with carboplatin and paclitaxel.
 
-Metastatic Breast Cancer (MBC)
-
-The recommended dose is 10 mg/kg every 2 weeks in combination with paclitaxel.
-
 Glioblastoma
 
 The recommended dose is 10 mg/kg every 2 weeks.
