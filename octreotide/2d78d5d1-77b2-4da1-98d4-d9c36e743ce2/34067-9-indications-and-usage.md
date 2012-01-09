@@ -10,7 +10,9 @@ Improvement in clinical signs and symptoms or reduction in tumor size or rate of
 
 ## Carcinoid Tumors
 
-Octreotide acetate injection is indicated for the symptomatic treatment of patients with metastatic carcinoid tumors where it suppresses or inhibits the severe diarrhea and flushing episodes associated with the disease.Octreotide acetate injection studies were not designed to show an effect on the size, rate of growth or development of metastases.
+Octreotide acetate injection is indicated for the symptomatic treatment of patients with metastatic carcinoid tumors where it suppresses or inhibits the severe diarrhea and flushing episodes associated with the disease.
+
+Octreotide acetate injection studies were not designed to show an effect on the size, rate of growth or development of metastases.
 
 ## Vasoactive Intestinal Peptide Tumors (VIPomas)
 
