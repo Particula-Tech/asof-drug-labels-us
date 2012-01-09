@@ -10,6 +10,6 @@
 Store at 25°C, excursions permitted between 15° and 30°C.
 Protect from light and freezing.
 
-E. FOUGERA & CO. A division of Nycomed US Inc. MELVILLE, NEW YORK 11747
+E. FOUGERA & CO. A division of fougera PHARMACETICALS INC. Melville, New York 11747
 
-I255H R1/08 #74
+I255I R10/11 #74
