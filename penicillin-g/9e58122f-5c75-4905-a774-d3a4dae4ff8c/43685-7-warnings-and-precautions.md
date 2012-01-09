@@ -23,7 +23,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## General
 
-Penicillin should be used with caution in individuals with histories of significant allergies and/or asthma (see WARNINGS).
+Penicillin should be used with caution in individuals with histories of significant allergies and/or asthma (see Warnings).
 Whenever allergic reactions occur, penicillin should be withdrawn unless, in the opinion of the physician, the condition being treated is life-threatening and amenable only to penicillin therapy.
 Penicillin G Potassium, USP by the intravenous route in high doses (above 10 million units) should be administered slowly because of the potential adverse effects of electrolyte imbalance from the potassium content of the penicillin.
 Penicillin G Potassium Injection, USP contains 1.7 mEq potassium and 1.02 mEq of sodium per million units.
@@ -36,8 +36,8 @@ Prescribing Penicillin G Potassium Injection, USP in the absence of a proven or 
 
 ## Laboratory Tests
 
-Periodic assessment of organ system function, including frequent evaluation of electrolyte balance, hepatic, renal and hematopoietic systems, and cardiac and vascular status should be performed during prolonged therapy with high doses of intravenous penicillin G (see ADVERSE REACTIONS).
-If any impairment of function is suspected or known to exist, a reduction in the total dosage should be considered (see DOSAGE AND ADMINISTRATION).
+Periodic assessment of organ system function, including frequent evaluation of electrolyte balance, hepatic, renal and hematopoietic systems, and cardiac and vascular status should be performed during prolonged therapy with high doses of intravenous penicillin G (see Adverse Reactions).
+If any impairment of function is suspected or known to exist, a reduction in the total dosage should be considered (see Dosage and Administration).
 In suspected staphylococcal infections, proper laboratory studies, including susceptibility tests should be performed.
 All infections due to Group A beta-hemolytic streptococci should be treated for at least 10 days.
 
@@ -56,11 +56,11 @@ These drugs include: aspirin, phenylbutazone, sulfonamides, indomethacin, thiazi
 
 ## Drug/Laboratory Test Interactions
 
-After treatment with penicillin G, a false-positive reaction for glucose in the urine may occur with Benedict’s solution, Fehling’s solution or Clinitest® tablet, but not with the enzyme-based tests, such as Clinistix® and Tes-Tape®.
+After treatment with penicillin G, a false-positive reaction for glucose in the urine may occur with Benedict’s solution, Fehling’s solution or CLINITEST tablet, but not with the enzyme-based tests, such as CLINISTIX and TES-TAPE.
 
 Penicillin G has been associated with pseudoproteinuria by certain test methods.
 
-## Carcinogenesis and Mutagenesis and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No long term animal studies have been conducted with this drug.
 
@@ -82,10 +82,10 @@ Caution should be exercised when penicillins are administered to a nursing woman
 ## Pediatric Use
 
 Incompletely developed renal function in newborns may delay elimination of penicillin; therefore, appropriate reductions in the dosage and frequency of administration should be made in these patients.
-All newborns treated with penicillins should be monitored closely for clinical and laboratory evidence of toxic or adverse effects (see PRECAUTIONS).
+All newborns treated with penicillins should be monitored closely for clinical and laboratory evidence of toxic or adverse effects (see Precautions).
 
 Pediatric doses are generally determined on a weight basis and should be calculated for each patient individually.
-Recommended guidelines for pediatric dosages are presented in DOSAGE AND ADMINISTRATION.
+Recommended guidelines for pediatric dosages are presented in Dosage and Administration.
 
 The potential for toxic effects in children from chemicals that may leach from the single dose premixed intravenous preparation in plastic containers has not been evaluated.
 

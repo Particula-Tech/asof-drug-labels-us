@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050638"
+  ],
   "inn": "penicillin-g",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
@@ -7,7 +9,13 @@
     "0338-1023-41",
     "0338-1025-41"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "penicillin g",
+      "name": "PENICILLIN G POTASSIUM"
+    }
+  ],
   "setid": "9e58122f-5c75-4905-a774-d3a4dae4ff8c",
   "source": "dailymed"
 }

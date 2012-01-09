@@ -1,5 +1,3 @@
-In PL 2040 Plastic Container For Intravenous Use Only GALAXY Container (PL 2040 Plastic)
-
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of Penicillin G Potassium Injection, USP and other antibacterial drugs, Penicillin G Potassium Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
 # DIRECTIONS FOR USE OF GALAXY CONTAINER (PL 2040 PLASTIC)
@@ -33,25 +31,22 @@ Such use could result in air embolism due to residual air being drawn from the p
 
 ## Preparation for Intravenous Administration:
 
-1.
-Suspend container from eyelet support.
+1. Suspend container from eyelet support.
+2. Remove protector from outlet port at bottom of container.
+3. Attach administration set.
+   Refer to complete directions accompanying set.
 
-2.
-Remove protector from outlet port at bottom of container.
-
-3.
-Attach administration set.
-Refer to complete directions accompanying set.
-
-Baxter Healthcare Corporation
-
-Deerfield, IL 60015 USA
+Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Printed in USA
 
-Baxter and GALAXY are trademarks of Baxter International Inc.
+Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
-071956306
+Clinistix is a trademark of Bayer Healthcare LLC.
+
+Clinitest is a trademark of Siemens Healthcare Diagnostics Inc.
+
+071965191
 
 Rev.
-February 2008
+September 2010

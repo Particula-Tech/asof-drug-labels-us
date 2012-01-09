@@ -20,7 +20,7 @@ Appropriate culture and susceptibility tests should be done before treatment in 
 | Rat bite fever | Spirillum minus or Streptobacillus moniliformis |
 | Disseminated gonococcal infections | Neisseria gonorrhoeae (penicillin-susceptible) |
 | Syphilis (congenital and neurosyphilis) | Treponema pallidum |
-| Meningococcal meningitis and/or septicemia | Neisseria meningitides |
+| Meningococcal meningitis and/or septicemia | Neisseria meningitidis |
 | Gram-negative bacillary infections (bacteremias) Penicillin G is not the drug of choice in the treatment of gram-negative bacillary infections. | Gram-negative bacillary organisms (i.e. Enterobacteriaceae) |
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of Penicillin G Potassium Injection, USP and other antibacterial drugs, Penicillin G Potassium Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.

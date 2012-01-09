@@ -66,14 +66,16 @@ This procedure uses paper disks impregnated with 10 units of penicillin to test 
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for penicillin.
 Reports from the laboratory providing results of the standard single-disk susceptibility test with a 10 unit penicillin disk should be interpreted according to the following criteria in Table 1.
 
-| Table 1: Susceptibility Test Interpretive Criteria for Penicillin |  |  |  |  |  |  |
+Table 1
+
+| Susceptibility Test Interpretive Criteria for Penicillin |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | MIC (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
 | Pathogen | Susceptible (S) | Intermediate (I) | Resistant (R) | Susceptible (S) | Intermediate (I) | Resistant (R) |
 | Staphylococci | ≤0.12 | - | ≥0.25 | ≥29 | - | ≤28 |
 | Neisseria gonorrhoeae | ≤0.06 | 0.12 – 1 | ≥2 | ≥47 | 27 - 46 | ≤26 |
-| Listeria monocytogenes4 | ≤2The current absence of resistant isolates precludes defining results other than “Susceptible”. Isolates yeilding results suggestive of “Nonsusceptible” should be submitted to a reference laboratory for further testing. | - | - | - | - | - |
-| Streptococcus pneumoniae(meningitis) | ≤0.06 | - | ≥0.12 | - | - | - |
+| Listeria monocytogenes4 | ≤2The current absence of resistant isolates precludes defining results other than “Susceptible”. Isolates yielding results suggestive of “Nonsusceptible” should be submitted to a reference laboratory for further testing. | - | - | - | - | - |
+| Streptococcus pneumoniae (meningitis) | ≤0.06 | - | ≥0.12 | - | - | - |
 | Streptococcus pneumoniae (pneumonia) | ≤2 | 4 | ≥8 | - | - | - |
 | Beta-hemolytic streptococci | ≤0.12 | - | - | ≥24 | - | - |
 | Streptococcus spp. Viridans group | ≤0.12 | 0.25 - 2 | ≥4 | - | - | - |
@@ -84,10 +86,12 @@ Standardized susceptibility test procedures require the use of laboratory contro
 Standard penicillin powder should provide MIC values provided below.
 For the diffusion technique, the 10 unit penicillin disk should provide the following zone diameters with the quality control strains:
 
-| Table 2. In Vitro Susceptibility Test Quality Control Ranges for Penicillin |  |  |
+Table 2
+
+| In Vitro Susceptibility Test Quality Control Ranges for Penicillin |  |  |
 | --- | --- | --- |
 |  | MIC range | Disk diffusion |
-| Organism (ATTC #) | mcg/mL | range (mm) |
+| Organism (ATCC #) | mcg/mL | range (mm) |
 | Staphylococcus aureus (29213) | 0.25 -2 | Not applicable |
 | Staphylococcus aureus (25923) | Not applicable | 26 - 37 |
 | Streptococcus pneumoniae (49619) | 0.25 - 1 | 24 - 30 |

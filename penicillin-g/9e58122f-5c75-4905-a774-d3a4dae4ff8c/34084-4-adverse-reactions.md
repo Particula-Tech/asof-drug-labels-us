@@ -7,14 +7,14 @@ The reaction begins one to two hours after initiation of therapy and disappears 
 It is characterized by fever, chills, myalgias, headache, exacerbation of cutaneous lesions, tachycardia, hyperventilation, vasodilation with flushing and mild hypotension.
 The pathogenesis of the Herxheimer reaction may be due to the release from the spirochetes of heat-stable pyrogen.
 
-## Hypersensitivity reactions
+## Hypersensitivity reactions:
 
-The reported incidence of allergic reactions to all penicillins ranges from 0.7 to 10 percent in different studies (see WARNINGS).
+The reported incidence of allergic reactions to all penicillins ranges from 0.7 to 10 percent in different studies (see Warnings).
 Sensitization is usually the result of previous treatment with a penicillin, but some individuals have had immediate reactions when first treated.
 In such cases, it is postulated that prior exposure to penicillin may have occurred via trace amounts present in milk or vaccines.
 
 Two types of allergic reactions to penicillin are noted clinically - immediate and delayed.
-Immediate reactions usually occur within 20 minutes of administration and range in severity from urticaria and pruritus to angioneurotic edema, laryngospasm, bronchospasm, hypotension, vascular collapse and death (see WARNINGS).
+Immediate reactions usually occur within 20 minutes of administration and range in severity from urticaria and pruritus to angioneurotic edema, laryngospasm, bronchospasm, hypotension, vascular collapse and death (see Warnings).
 Such immediate anaphylactic reactions are very rare and usually occur after parenteral therapy, but a few cases of anaphylaxis have been reported following oral therapy.
 Another type of immediate reaction, an accelerated reaction, may occur between 20 minutes and 48 hours after administration and may include urticaria, pruritus, fever and, occasionally, laryngeal edema.
 
@@ -23,28 +23,28 @@ Manifestations include serum sickness-like symptoms, i.e., fever, malaise, urtic
 
 Contact dermatitis has been observed in individuals who prepare penicillin solutions.
 
-## Gastrointestinal system
+## Gastrointestinal system:
 
 Pseudomembranous colitis has been reported with the onset occurring during or after penicillin G treatment.
 Nausea, vomiting, stomatitis, black or hairy tongue, and other symptoms of gastrointestinal irritation may occur, especially during oral therapy.
 
-## Hematologic system
+## Hematologic system:
 
 Reactions include neutropenia, which resolves after penicillin therapy is discontinued; Coombs-positive hemolytic anemia, an uncommon reaction, occurs in patients treated with intravenous penicillin G in doses greater than 10 million units/day and who have previously received large doses of the drug; and with large doses of penicillin, a bleeding diathesis can occur secondary to platelet dysfunction.
 
-## Metabolic
+## Metabolic:
 
 Penicillin G Potassium, USP (1 million units contains 1.7 mEq of potassium ion) may cause serious and even fatal electrolyte disturbances, i.e., hyperkalemia, when given intravenously in large doses.
 
-## Nervous system
+## Nervous system:
 
 Neurotoxic reactions including hyperreflexia, myoclonic twitches, seizures and coma have been reported following the administration of massive intravenous doses, and are more likely in patients with impaired renal function.
 
-## Urogenital system
+## Urogenital system:
 
 Renal tubular damage and interstitial nephritis have been associated with large intravenous doses of penicillin G. Manifestations of this reaction may include fever, rash, eosinophilia, proteinuria, eosinophiluria, hematuria and a rise in serum urea nitrogen.
 Discontinuation of penicillin G results in resolution in the majority of patients.
 
-## Local reactions
+## Local reactions:
 
 Phlebitis and thrombophlebitis may occur, and pain at the injection site has been reported with intravenous administration.
