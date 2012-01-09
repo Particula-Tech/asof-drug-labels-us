@@ -10,12 +10,12 @@ The patient’s medical history and urinary diary during the treatment-free base
 Reductions in urinary frequency, urge incontinence episodes and urinary void volume for placebo and trospium chloride treatment groups are summarized in Table 2 and Figures 2 and 3.
 
 Table 2.
-Mean (SE) change from baseline to end of treatment (Week 12 or last observation carried forward) for urinary frequency, urge incontinence episodes, and void volume in Study 1.
+Mean (SE) change from baseline to end of treatment (Week 12 or last observation carried forward) for urinary frequency, urge incontinence episodes, and void volume in Study 1
 
-| Efficacy endpoint | Placebo N=256 | Trospium Chloride N=253 | P-value |
+| Efficacy endpoint | Placebo N=256 | Trospium ChlorideN=253 | P-value |
 | --- | --- | --- | --- |
 | Urinary frequency/24 hoursTreatment differences assessed by analysis of variance for ITT:LOCF data set.Denotes co-primary endpoint Mean baseline Mean change from baseline | 12.9 -1.3 (0.2) | 12.7 -2.4 (0.2) | <0.001 |
-| Urge incontinence episodes/weekTreatment differences assessed by ranked analysis of variance for ITT:LOCF data set. Mean baseline Mean change from baseline | 30.1 -13.9 (1.2) | 27.3 -15.4 (101) | 0.012 |
+| Urge incontinence episodes/weekTreatment differences assessed by ranked analysis of variance for ITT:LOCF data set. Mean baseline Mean change from baseline | 30.1 -13.9 (1.2) | 27.3 -15.4 (1.1) | 0.012 |
 | Urinary void volume/toilet void (mL)Placebo N=253, trospium chloride N=248. Mean baseline Mean change from baseline | 156.6 7.7 (3.1) | 155.1 32.1 (3.1) | <1.001 |
 | ITT = intent-to-treat, LOCF = last observation carried forward. |  |  |  |
 
@@ -25,11 +25,11 @@ Entry criteria were identical to Study 1.
 Reductions in urinary frequency, urge incontinence episodes, and urinary void volume for placebo and trospium chloride treatment groups are summarized in Table 3 and Figures 4 and 5.
 
 Table 3.
-Mean (SE) change from baseline to end of treatment (Week 12 or last observation carried forward) for urinary frequency, urge incontinence episodes, and void volume in Study 2.
+Mean (SE) change from baseline to end of treatment (Week 12 or last observation carried forward) for urinary frequency, urge incontinence episodes, and void volume in Study 2
 
 | Efficacy endpoint | Placebo N=325 | Trospium Chloride N=323 | P-value |
 | --- | --- | --- | --- |
 | Urinary frequency/24 hoursTreatment differences assessed by analysis of variance for ITT:LOCF data set.Denotes primary endpoint Mean baseline Mean change from baseline | 13.2 -1.8 (0.2) | 12.9 -2.7 (0.2) | <0.001 |
 | Urge incontinence episodes/weekTreatment differences assessed by ranked analysis of variance for ITT:LOCF data set. Mean baseline Mean change from baseline | 27.3 -12.1 (1.0) | 26.9 -16.1 (1.0) | <0.001 |
-| Urinary void volume/toilet void (mL)Placebo N=320, trospium chloride N=319. Mean baseline Mean change from baseline | 154.6 9.4 (2.8) | 154.8 35.6 (2.8) | <1.001 |
+| Urinary void volume/toilet void (mL)Placebo N=320, trospium chloride N=319. Mean baseline Mean change from baseline | 154.6 9.4 (2.8) | 154.8 35.6 (2.8) | <0.001 |
 | ITT = intent-to-treat, LOCF = last observation carried forward. |  |  |  |

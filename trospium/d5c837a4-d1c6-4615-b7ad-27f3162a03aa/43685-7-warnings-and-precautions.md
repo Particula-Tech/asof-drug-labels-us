@@ -14,12 +14,12 @@ Risk of Urinary Retention: Trospium chloride should be administered with caution
 Decreased Gastrointestinal Motility: Trospium chloride should be administered with caution to patients with gastrointestinal obstructive disorders because of the risk of gastric retention (See CONTRAINDICATIONS).
 Trospium chloride, like other anticholinergic drugs, may decrease gastrointestinal motility and should be used with caution in patients with conditions such as ulcerative colitis, intestinal atony and myasthenia gravis.
 
-Controlled Narrow-angle Glaucoma: In patients being treated for narrow-angle glaucoma, trospium chloride should only be used if the potential benefits outweigh the risks and in that circumstance only with careful monitoring
+Controlled Narrow-angle Glaucoma: In patients being treated for narrow-angle glaucoma, trospium chloride should only be used if the potential benefits outweigh the risks and in that circumstance only with careful monitoring.
 
-Patients with Renal Insufficiency: Dose modification is recommended in patients with severe renal insufficiency (CLcr < 30 mL/min).
+Patients with Renal Impairment: Dose modification is recommended in patients with severe renal impairment (creatinine clearance < 30 mL/min).
 In such patients, trospium chloride should be administered as 20 mg once a day at bedtime (See DOSAGE AND ADMINISTRATION).
 
-Patients with Hepatic Impairment: Caution should be used when administering trospium chloride in patients with moderate or severe hepatic dysfunction (See CLINICAL PHARMACOLOGY: Pharmacokinetics in Special Populations).
+Patients with Hepatic Impairment: Caution should be used when administering trospium chloride in patients with moderate or severe hepatic impairment (See CLINICAL PHARMACOLOGY: Pharmacokinetics in Specific Populations).
 
 ## Information for Patients
 
@@ -34,15 +34,22 @@ Patients should be informed that alcohol may enhance the drowsiness caused by an
 Trospium chloride should be taken 1 hour prior to meals or on an empty stomach.
 If a dose is skipped, patients are advised to take their next dose 1 hour prior to their next meal.
 
-## Drug Interactions
+## Drug-Drug Interactions
 
-The concomitant use of trospium chloride with other anticholinergic agents that produce dry mouth, constipation, and other anticholinergic pharmacological effects may increase the frequency and/or severity of such effects.
-Anticholinergic agents may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility.
+Trospium chloride is metabolized by ester hydrolysis and excreted by the kidneys through a combination of tubular secretion and glomerular filtration.
+Based on in vitro data, no clinically relevant metabolic drug-drug interactions are expected with trospium.
+However, some drugs which are actively secreted by the kidney may interact with trospium by competing for renal tubular secretion.
+Co-administration of 500 mg metformin immediate release tablets twice daily with trospium chloride 60 mg extended release tablets reduced the steady-state systemic exposure of trospium by approximately 29% for mean AUC0-24 and by 34% for mean Cmax.
 
-Drugs Eliminated by Active Tubular Secretion: Although demonstrated in a drug-drug interaction study not to affect the pharmacokinetics of digoxin, trospium chloride has the potential for pharmacokinetic interactions with other drugs that are eliminated by active tubular secretion (e.g. procainamide, pancuronium, morphine, vancomycin, metformin and tenofovir).
+The concomitant use of trospium chloride with other antimuscarinic agents that produce dry mouth, constipation, and other anticholinergic pharmacological effects may increase the frequency and/or severity of such effects.
+Trospium chloride may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility.
+
+Concomitant use of trospium chloride and digoxin did not affect the pharmacokinetics of either drug.
+
+Drugs Eliminated by Active Tubular Secretion: Although demonstrated in a drug-drug interaction study not to affect the pharmacokinetics of digoxin, trospium chloride has the potential for pharmacokinetic interactions with other drugs that are eliminated by active tubular secretion (e.g. procainamide, pancuronium, morphine, vancomycin, and tenofovir).
 
 Coadministration of trospium chloride with these drugs may increase the serum concentration of trospium chloride and/or the coadministered drug due to competition for this elimination pathway.
-Careful patient monitoring is recommended in patients receiving such drugs (See CLINICAL PHARMACOLOGY: Excretion:, and CLINICAL PHARMACOLOGY: Drug-Drug Interactions).
+Careful patient monitoring is recommended in patients receiving such drugs (See CLINICAL PHARMACOLOGY: Excretion).
 
 ## Drug-Laboratory-Test Interactions
 
@@ -50,33 +57,29 @@ Interactions between trospium chloride and laboratory tests have not been studie
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenicity studies with trospium chloride were conducted in mice and rats.
+Carcinogenicity studies with trospium chloride were conducted in mice and rats for 78 weeks and 104 weeks, respectively, at maximally tolerated doses.
+No evidence of a carcinogenic effect was found in either mice or rats administered up to 200 mg/kg/day, approximately 9 times the expected clinical exposure levels at the maximum recommended human dose (MRHD) of 40 mg.
 
-A 78-week carcinogenicity study in mice and a 104-week carcinogenicity study in rats were conducted at doses of 2, 20, and 200 mg/kg/day.
-No evidence of a carcinogenic effect was found in either mice or rats.
-The 200 mg/kg/day dose in the mouse and rat represents approximately 25 and 60 times, respectively, the human dose based on body surface area.
-At 200 mg/kg/day in the mouse and rat after 4 weeks the AUC was 34 and 753 ng•h/mL, respectively.
-The exposure in the rat is 8.6-fold higher than the AUC following 40 mg daily exposure in healthy young or elderly subjects (88 ng•h/mL).
+Trospium chloride was not mutagenic nor genotoxic in tests in vitro in bacteria (Ames test) and mammalian cells (L5178Y mouse lymphoma and CHO cells) or in vivo in the rat micronucleus test.
 
-Trospium chloride was not mutagenic in tests for detection of gene mutations in bacteria (Ames test) and mammalian cells (L5178Y mouse lymphoma and CHO cells) or in vivo in the rat micronucleus test.
-
-No evidence of impaired fertility was observed in rats administered doses up to 200 mg/kg/day (about 10 multiples of the expected clinical exposure via AUC).
+No evidence of impaired fertility was observed in rats administered doses up to 200 mg/kg/day (about 16 times the expected clinical exposure at the MRHD, based on AUC).
 
 ## Pregnancy:
 
 ### Teratogenic Effects:
 
-Pregnancy Category C: Trospium chloride has been shown to cause maternal toxicity in rats and a decrease in fetal survival in rats administered approximately 10 times the expected clinical exposure (AUC).
-The no-effect levels for maternal and fetal toxicity were approximately equivalent to the expected clinical exposure in rats, and about 5 to 6 times the expected clinical exposure in rabbits.
+Pregnancy Category C: There are no adequate and well-controlled studies of trospium chloride in pregnant women.
 
-No malformations or developmental delays were observed.
-There are no adequate and well controlled studies in pregnant women.
+Trospium chloride was not teratogenic at statistically significant levels in rats or rabbits administered doses up to 200 mg/kg/day.
+This corresponds to systemic exposures up to approximately 9 and 16 times, respectively (based on AUC), the clinical exposure at the maximum recommended human dose (MRHD) of 40 mg.
+However, in rabbits, one fetus in each of the three treated dose groups (0.5, 0.3, and 16 times the exposures at the MRHD) demonstrated multiple malformations, including umbilical hernia and skeletal malformations.
+A no effect level (20 mg/kg/day in rats and rabbits) for maternal and fetal toxicity was observed at levels approximately equivalent to the clinical exposure at the MRHD.
+No developmental toxicity was observed in the offspring of female rats exposed pre- and post-natally to up to 200 mg/kg/day.
 Trospium chloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers
 
-Trospium chloride (2 mg/kg PO and 50 μg/kg IV) was excreted, to a limited extent (<1%), into the milk of lactating rats.
-The activity observed in the milk was primarily from the parent compound.
+Trospium chloride (2 mg/kg PO and 50 μg/kg IV) was excreted, to a limited extent (<1%), into the milk of lactating rats (primarily parent compound).
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when trospium chloride is administered to a nursing woman.
 
