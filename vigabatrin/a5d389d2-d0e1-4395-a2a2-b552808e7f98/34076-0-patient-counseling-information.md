@@ -44,6 +44,8 @@ In controlled clinical studies in adults with CPS, vigabatrin was tapered by dec
 
 Manufactured by: Patheon Cincinnati, OH 45237, U.S.A.
 
-For: Lundbeck Inc. Deerfield, IL 60015, U.S.A.
+For: Lundbeck Deerfield, IL 60015, U.S.A.
 
-® Trademark of Lundbeck Inc. Revised: February 2010
+® Trademark of Lundbeck
+
+Revised: November 2011

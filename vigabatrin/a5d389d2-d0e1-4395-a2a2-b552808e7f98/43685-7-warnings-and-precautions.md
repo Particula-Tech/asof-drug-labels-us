@@ -8,22 +8,23 @@ Patient response to and continued need for treatment should be periodically asse
 
 Monitoring of Vision
 
-Monitoring of vision by an ophthalmic professional with expertise in visual field interpretation and the ability to perform dilated indirect ophthalmoscopy of the retina is required.
-Vision testing at baseline (no later than 4 weeks after starting SABRIL) and at least every 3 months is required for adults on SABRIL.
-Vision testing is also required about 3 to 6 months after the discontinuation of SABRIL therapy.
+Monitoring of vision by an ophthalmic professional with expertise in visual field interpretation and the ability to perform dilated indirect ophthalmoscopy of the retina is required, unless a patient is formally exempted from periodic ophthalmologic assessment as documented in the Support, Help And Resources for Epilepsy (SHARE) program.
+For patients receiving SABRIL who are not exempted, vision assessment is required at baseline (no later than 4 weeks after starting SABRIL) and at least every 3 months while on therapy and about 3-6 months after the discontinuation of therapy.
 
-The diagnostic approach should be individualized for the patient and clinical situation, but for all patients attempts to monitor vision periodically and/or formal exemptions must be documented under the SHARE program.
+The diagnostic approach should be individualized for the patient and clinical situation.
+For all patients, attempts to monitor vision periodically and/or formal exemptions must be documented under the SHARE program.
 Perimetry is recommended, preferably by automated threshold visual field testing.
-Additional testing may also include electrophysiology (e.g., electroretinography [ERG]), retinal imaging (e.g., optical coherence tomography [OCT]), and/or other methods appropriate for the patient.
-In patients in whom vision testing is not possible, treatment may continue according to clinical judgment, with appropriate patient counseling and with documentation in the SHARE program of the inability to test vision.
-Because of variability, results from ophthalmic monitoring must be interpreted with caution, and repeat testing is recommended if results are abnormal or uninterpretable.
-Repeat testing in the first few weeks of treatment is recommended to establish if, and to what degree, reproducible results can be obtained, and to guide selection of appropriate ongoing monitoring for the patient.
+Additional testing may also include electrophysiology (e.g., electroretinography [ERG]), retinal imaging (e.g., optical coherence tomography [OCT]), and/or other methods appropriate for the patient, but this additional testing is not required.
+In patients exempted from vision testing, treatment may continue according to clinical judgment, with appropriate patient counseling and with documentation in the SHARE program of the exemption.
+Because of variability, results from ophthalmic monitoring must be interpreted with caution, and repeat assessment is recommended if results are abnormal or uninterpretable.
+Repeat assessment in the first few weeks of treatment is recommended to establish if, and to what degree, reproducible results can be obtained, and to guide selection of appropriate ongoing monitoring for the patient.
 
-The onset and progression of vision loss from SABRIL is unpredictable, and it may occur or worsen precipitously between tests.
+The onset and progression of vision loss from SABRIL is unpredictable, and it may occur or worsen precipitously between assessments.
 Once detected, vision loss due to SABRIL is not reversible.
 It is expected that even with frequent monitoring, some SABRIL patients will develop severe vision loss.
+Drug discontinuation should be considered, balancing benefit and risk, if visual loss is documented.
 
-## 5.2 Distribution Program for SABRIL
+## 5.2 Distribution Program for SABRIL (SHARE Program)
 
 SABRIL is available only under a special restricted distribution program called the SHARE program.
 Under the SHARE program, only prescribers and pharmacies registered with the program are able to prescribe and distribute SABRIL.
@@ -39,6 +40,15 @@ To enroll in SHARE, prescribers must understand the risks of SABRIL and complete
 - Remove patients from SABRIL therapy if the patients do not experience meaningful reduction in seizures
 - Counsel patients who fail to comply with the program requirements
 - Remove patients from SABRIL therapy who fail to comply with the program requirements after appropriate counseling
+
+The prescriber may, with appropriate documentation and caregiver counseling, exempt certain patients from vision assessment, using the Ophthalmologic Assessment Form, if:
+
+- The patient is blind (subsequent Ophthalmologic Forms do not need to be submitted to the REMS coordinating center)
+- The patient's general neurological and/or mental condition permanently precludes the need for visual assessment (subsequent Ophthalmologic Forms do not need to be submitted to the REMS coordinating center)
+- The patient's general neurological condition temporarily precludes the ability to assess visual function.
+  The evaluation, however, may be performed at a later time as clinically appropriate.
+- The patient's medical condition prevents visual assessment being performed safely
+- For other reasons specified by the prescriber
 
 ## 5.3 Magnetic Resonance Imaging (MRI) Abnormalities
 
@@ -68,9 +78,6 @@ Vacuolization in adult animals was correlated with alterations in MRI and change
 Administration of vigabatrin to rats during the neonatal and juvenile periods of development produced vacuolar changes in the gray matter (areas including the thalamus, midbrain, deep cerebellar nuclei, substantia nigra, hippocampus, and forebrain) which are considered distinct from the IME observed in vigabatrin treated adult animals.
 Decreased myelination, retinal dysplasia, and neurobehavioral abnormalities (convulsions, neuromotor impairment, learning deficits) were also observed following vigabatrin treatment of young rats.
 These effects occurred at doses associated with plasma vigabatrin levels substantially lower than those achieved clinically in infants and children.
-
-IME has been reported in a vigabatrin treated infant on postmortem examination.
-The infant had hypoxic ischemic brain injury and abnormalities of myelin prior to vigabatrin treatment.
 
 In a published study, vigabatrin (200, 400 mg/kg/day) induced apoptotic neurodegeneration in the brain of young rats when administered by intraperitoneal injection on postnatal days 5-7.
 

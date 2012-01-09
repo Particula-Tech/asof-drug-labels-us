@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+MEDICATION GUIDE
 
 Sabril® (SAY-bril) (vigabatrin) Tablet Sabril® (SAY-bril) (vigabatrin) for Oral Solution
 
@@ -34,10 +34,14 @@ Tell your doctor right away if you:
 
 These changes can mean that you have damage to your vision.
 Your doctor will test your visual fields (including peripheral vision) and visual acuity (ability to read an eye chart) before you start SABRIL or within 4 weeks after starting SABRIL, and at least every 3 months after that until SABRIL is stopped.
+You may not be able to be tested in certain situations.
+Your doctor will determine if you can be tested.
 Even if your vision seems fine, it is important that you get these regular vision tests because damage can happen to your vision before you notice any changes.
 These vision tests cannot prevent the vision damage that can happen with SABRIL, but they do allow you to stop SABRIL if vision has gotten worse, which usually will lessen further damage.
 If you do not have these vision tests regularly, your doctor may stop prescribing SABRIL for you.
 You should also have a vision test after SABRIL is stopped.
+Some people are not able to complete testing of vision for medical reasons.
+If you cannot complete vision testing, your doctor may continue prescribing SABRIL, but your doctor will not be able to watch for any vision loss you may get.
 
 If you drive and your vision is damaged by SABRIL, driving might be more dangerous, or you may not be able to drive safely at all.
 You should discuss this with your doctor.
@@ -45,8 +49,10 @@ You should discuss this with your doctor.
 - Vision loss in babies: Because of the risk of vision loss, SABRIL is used in babies (1 month to 2 years old) with infantile spasms (IS) only when you and your doctor decide that the possible benefits of SABRIL are more important than the risks.
   Parents or caregivers are not likely to recognize the symptoms of vision loss in babies until it is severe.
   Doctors may not find vision loss in babies until it is severe.
-  It is difficult to test vision in babies, but all babies should have a vision test before starting SABRIL or within 4 weeks after starting SABRIL, and every 3 months after that until SABRIL is stopped.
-  You should have a vision test for your baby after SABRIL is stopped.
+  It is difficult to test vision in babies, but all babies should have their vision tested before starting SABRIL or within 4 weeks after starting SABRIL, and every 3 months after that until SABRIL is stopped.
+  Your baby should have a vision test after SABRIL is stopped.
+  Your baby may not be able to be tested in certain situations.
+  Your doctor will determine if your baby can be tested.
 
 Tell your doctor right away if you think that your baby is:
 
@@ -278,6 +284,8 @@ Inactive Ingredient in SABRIL powder: povidone.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Marketed by: Lundbeck Inc., Deerfield, IL 60015, U.S.A.
+Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A.
 
-® Trademark of Lundbeck Inc. Revised: September 2010
+® Trademark of Lundbeck
+
+Revised: November 2011

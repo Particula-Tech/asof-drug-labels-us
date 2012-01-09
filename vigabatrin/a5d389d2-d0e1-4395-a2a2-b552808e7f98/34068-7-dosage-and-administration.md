@@ -21,7 +21,7 @@ CLcr *= [140-age (years)]× weight (kg)/72× serum creatinine (mg/dL)] *[× 0.85
 
 The effect of dialysis on SABRIL clearance has not been adequately studied.
 
-[see CLINICAL PHARMACOLOGY, Pharmacokinetics, Renal Impairment (12.3) and USE IN SPECIFIC POPULATIONS, Renal Impairment (8.6)].
+[See CLINICAL PHARMACOLOGY, Pharmacokinetics, Renal Impairment (12.3) and USE IN SPECIFIC POPULATIONS, Renal Impairment (8.6)].
 
 ## 2.3 General Dosing Considerations
 

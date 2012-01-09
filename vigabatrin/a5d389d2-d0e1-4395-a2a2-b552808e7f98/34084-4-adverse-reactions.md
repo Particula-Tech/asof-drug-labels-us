@@ -140,4 +140,6 @@ Psychiatric: Acute psychosis, apathy, delirium, hypomania, neonatal agitation, p
 
 Respiratory: Laryngeal edema, pulmonary embolism, respiratory failure, stridor
 
-Skin and Subcutaneous Tissue: Angioedema, maculo-papular rash, pruritus
+Skin and Subcutaneous Tissue: Angioedema, maculo-papular rash, pruritus, Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN).
+Rare cases of SJS and TEN coincident with SABRIL administration have been reported.
+These reports involved the coadministration of other medications that include SJS/TEN as part of their prescribing information.
