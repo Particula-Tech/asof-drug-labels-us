@@ -1,224 +1,204 @@
-# PATIENT PACKAGE INSERT
+Patient Information MAXALT® (max-awlt) and MAXALT-MLT® rizatriptan benzoate tablets and orally disintegrating tablets
 
-Patient Information about MAXALT® (max-awlt) and MAXALT-MLT® for Migraine Generic name: rizatriptan benzoate
+Read this Patient Information before you start taking MAXALT® and each time you get a refill.
+There may be new information.
+This information does not take the place of talking to your doctor about your medical condition or your treatment.
 
-Please read this information before you start taking MAXALT.
-Also, read the leaflet each time you renew your prescription, just in case anything has changed.
-Remember, this leaflet does not take the place of careful discussions with your doctor.
-You and your doctor should discuss MAXALT when you start taking your medication and at regular checkups.
+Unless otherwise stated, the information in this Patient Information leaflet applies to both MAXALT Tablets and to MAXALT-MLT® Orally Disintegrating Tablets.
 
-## What is MAXALT and what is it used for?
+What is MAXALT?
 
-MAXALT is a medication used for the treatment of migraine attacks in adults.
-MAXALT is a member of a class of drugs called selective 5-HT1B/1D receptor agonists.
+MAXALT is a prescription medicine that belongs to a class of medicines called Triptans.
+MAXALT is available as a traditional tablet (MAXALT) and as an orally disintegrating tablet (MAXALT-MLT).
 
-It is available as a traditional tablet (MAXALT) and as an orally disintegrating tablet (MAXALT-MLT).
-Unless otherwise stated, the information contained in this leaflet applies both to MAXALT Tablets and to MAXALT-MLT Orally Disintegrating Tablets.
+MAXALT and MAXALT-MLT are used to treat migraine attacks with or without aura in adults and in children 6 to 17 years of age.
 
-Tell your doctor about your symptoms.
-Your doctor will decide if you have migraine.
-Use MAXALT only for a migraine attack.
-MAXALT should not be used to treat headaches that might be caused by other, more serious conditions.
+MAXALT is not to be used to prevent migraine attacks.
 
-You will find more information about migraine at the end of this leaflet.
+MAXALT is not for the treatment of hemiplegic or basilar migraines.
 
-## How should I take MAXALT?
+It is not known if MAXALT is safe and effective for the treatment of cluster headaches.
 
-Your doctor has prescribed either a 5-mg or 10-mg dosage of MAXALT or MAXALT-MLT for your migraine attack.
-When you have a migraine headache, take your medication as directed by your doctor.
+It is not known if taking more than 1 dose of MAXALT in 24 hours is safe and effective in children 6 to 17 years of age.
 
-### MAXALT Tablets
+It is not known if MAXALT is safe and effective in children under 6 years of age.
 
-If you are using MAXALT Tablets, swallow the tablet whole with liquid.
-
-### MAXALT-MLT Orally Disintegrating Tablets
-
-If you are using MAXALT-MLT, leave the orally disintegrating tablet in its package until you are ready to take it.
-Remove the blister from the foil pouch.
-Do not push the tablet through the blister; rather, peel open the blister pack with dry hands and place the tablet on your tongue.
-The tablet will dissolve rapidly and be swallowed with your saliva.
-No liquid is needed to take the orally disintegrating tablet.
-
-If your headache comes back after your initial dose, a second dose may be taken anytime after 2 hours of administering the first dose.
-For any attack where you have no response to the first dose, do not take a second dose without first consulting with your doctor.
-Do not take more than 30 mg of MAXALT in a 24-hour period (for example, do not take more than three 10-mg tablets in a 24-hour period).
-
-If you are receiving propranolol, you should use the 5-mg dose of MAXALT or MAXALT-MLT, up to a maximum of 3 doses (15 mg total) in a 24-hour period.
-
-If your condition worsens, seek medical attention.
-
-## Who should not take MAXALT?
+Who should not take MAXALT?
 
 Do not take MAXALT if you:
 
-- have had a serious allergic reaction to MAXALT or any of its ingredients
+- have or have had heart problems
+- have or have had a stroke or a transient ischemic attack (TIA)
+- have or have had blood vessel problems including ischemic bowel disease
 - have uncontrolled high blood pressure
-- have heart disease or history of heart disease
-- are currently taking monoamine oxidase (MAO) inhibitorsThe brands listed are the trademarks of their respective owners and are not trademarks of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. such as phenelzine sulfate (NARDIL®) or tranylcypromine sulfate (PARNATE®) for mental depression, or have taken MAO inhibitors within the last two weeks.
+- have taken other Triptan medicines in the last 24 hours
+- have taken ergot-containing medicines in the last 24 hours
+- have hemiplegic or basilar migraines
+- take monoamine oxidase (MAO) inhibitor or have taken a MAO inhibitor within the last 2 weeks
+- are allergic to rizatriptan benzoate or any of the ingredients in MAXALT.
+  See the end of this leaflet for a complete list of ingredients in MAXALT.
 
-MAXALT should not be used within 24 hours of treatment with another 5-HT1 agonist such as sumatriptan (IMITREX®), naratriptan (AMERGE™) or zolmitriptan (ZOMIG™); or ergotamine-type medications such as ergotamine (BELLERGAL-S®, CAFERGOT®, ERGOMAR®, WIGRAINE®), dihydro-ergotamine (D.H.E.
-45®), or methysergide (SANSERT®).
+Talk to your doctor before taking this medicine if you have any of the conditions listed above or if you are not sure if you take any of these medicines.
 
-## What should I tell my doctor before and during treatment with MAXALT?
+What should I tell my doctor before taking MAXALT?
 
-Tell your doctor:
+Before you take MAXALT, tell your doctor if you:
 
-- about any past or present medical problems
-- about any history of high blood pressure, chest pain, shortness of breath, heart disease, or stroke
-- about any risk factors for heart disease or blood vessel disease
-  - high blood pressure or diabetes
+- have or have had heart problems, high blood pressure, chest pain, or shortness of breath
+- have any risk factors for heart problems or blood vessel problems such as:
+  - high blood pressure
   - high cholesterol
-  - obesity
   - smoking
-  - family history of heart disease or blood vessel disease
-  - post menopausal
-  - male over 40
-- about any allergies you have or have had
-- if you are pregnant or plan to become pregnant
-- if you are breast-feeding or plan to breast-feed
-- about all drugs you are taking or plan to take, including those obtained without a prescription, and those you normally take for a migraine.
-- if you take selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs), two types of drugs for depression or other disorders.
-  Common SSRIs are CELEXA® (citalopram HBr), LEXAPRO® (escitalopram oxalate), PAXIL® (paroxetine), PROZAC®/SARAFEM®(fluoxetine), SYMBYAX® (olanzapine/fluoxetine), ZOLOFT® (sertraline), and fluvoxamine.
-  Common SNRIs are CYMBALTA® (duloxetine) and EFFEXOR® (venlafaxine).
+  - obesity
+  - diabetes
+  - family history of heart problems
+  - you are post menopausal
+  - you are a male over 40
+- have phenylketonuria (PKU).
+  MAXALT-MLT orally disintegrating tablets contain phenylalanine.
+- have kidney or liver problems
+- have any other medical condition
+- are pregnant or plan to become pregnant.
+  It is not known if MAXALT will harm your unborn baby.
+  If you become pregnant while taking MAXALT, talk to your healthcare provider about registering with the pregnancy registry at the Merck National Service Center.
+  You can enroll in this registry by calling 1-800-986-8999.
+  The purpose of this registry is to collect information about the safety of MAXALT in pregnancy.
+- are breastfeeding or plan to breastfeed.
+  It is not known if MAXALT passes into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take MAXALT.
+
+Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+
+MAXALT and other medicines may affect each other causing side effects.
+MAXALT may affect the way other medicines work, and other medicines may affect how MAXALT works.
+
+Especially tell your doctor if you take:
+
+- propranolol containing medicines such as Inderal®, Inderal® LA, or Innopran® XL
+- medicines used to treat mood disorders, including selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs).
+
+Ask your doctor or pharmacist for a list of these medicines, if you are not sure.
+
+Know the medicines you take.
+Keep a list of them to show your doctor and pharmacist when you get a new medicine.
+
+How should I take MAXALT?
+
+- Take MAXALT exactly as your doctor tells you to take it.
+- Your doctor will tell you how much MAXALT to take and when to take it.
+- To take MAXALT-MLT:
+  - Leave MAXALT-MLT orally disintegrating tablets in the package it comes in until you are ready to take it.
+    When you are ready to take it:
+    - Remove the blister from the foil pouch.
+      Do not push the MAXALT-MLT orally disintegrating tablet through the blister.
+    - Peel open the blister pack with dry hands and place the MAXALT-MLT orally disintegrating tablet on your tongue.
+      The tablet will dissolve and be swallowed with your saliva.
+      No liquid is needed to take the orally disintegrating tablet.
+- If your headache comes back after your first MAXALT dose:
+  - For adults: a second dose may be taken 2 hours after the first dose.
+    Do not take more than 30 mg of MAXALT in a 24-hour period (for example, do not take more than 3 10-mg tablets in a 24-hour period).
+  - For children 6 to 17 years of age: It is not known if taking more than 1 dose of MAXALT in 24 hours is safe and effective.
+    Talk to your doctor about what to do if your headache does not go away or comes back.
+- If you take too much MAXALT, call your doctor or go to the nearest hospital emergency room right away.
+
+What should I avoid while taking MAXALT?
+
+MAXALT may cause dizziness, weakness, or fainting.
+If you have these symptoms, do not drive a car, use machinery, or do anything that needs you to be alert.
+
+What are the possible side effects of MAXALT?
+
+MAXALT may cause serious side effects.
+Call your doctor or go to the nearest hospital emergency room right away if you think you are having any of the serious side effects of MAXALT including:
+
+- heart attack.
+  Symptoms of a heart attack may include:
+  - chest discomfort in the center of your chest that lasts for more than a few minutes or that goes away and comes back
+  - chest discomfort that feels like uncomfortable pressure, squeezing, fullness or pain
+  - pain or discomfort in your arms, back, neck, jaw or stomach
+  - shortness of breath with or without chest discomfort
+  - breaking out in a cold sweat
+  - nausea or vomiting
+  - feeling lightheaded
+- stroke.
+  Symptoms of a stroke may include the following sudden symptoms:
+  - numbness or weakness in your face, arm or leg, especially on one side of your body
+  - confusion, problems speaking or understanding
+  - problems seeing in 1 or both of your eyes
+  - problems walking, dizziness, loss of balance or coordination
+  - severe headache with no known cause
+- blood vessel problems.
+  Symptoms of blood vessel problems may include:
+  - stomach pain
+  - bloody diarrhea
+  - vision problems
+  - coldness and numbness of hands and feet
+- serotonin syndrome.
+  A condition called serotonin syndrome can happen when Triptan medicines such as MAXALT are taken with certain other medicines.
+  Symptoms of serotonin syndrome may include:
+  - agitation
+  - hallucinations
+  - coma
+  - fast heartbeat
+  - fast changes in your blood pressure
+  - increased body temperature
+  - muscle spasm
+  - loss of coordination
+  - nausea, vomiting or diarrhea
+- increased blood pressure
+
+The most common side effects of MAXALT in adults include:
+
+- feeling sleepy or tired
+- pain or pressure in your chest or throat
+- dizziness
+
+Tell your doctor if you have any side effect that bothers you or that does not go away.
+
+If you take MAXALT too often, this may result in you getting chronic headaches.
+In such cases, you should contact your doctor, as you may have to stop taking MAXALT.
+
+These are not all the possible side effects of MAXALT.
+For more information, ask your doctor or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+How should I store MAXALT?
+
+- Store MAXALT at room temperature between 59°F to 86°F (15°C to 30°C).
+- Safely throw away medicine that is out of date or no longer needed.
+
+Keep MAXALT and all medicines out of the reach of children.
+
+General Information about the safe and effective use of MAXALT.
+
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not use MAXALT for a condition for which it was not prescribed.
+Do not give MAXALT to other people, even if they have the same symptoms that you have.
+It may harm them.
+
+This Patient Information leaflet summarizes the most important information about MAXALT.
+If you would like more information, talk to your doctor.
+You can ask your pharmacist or doctor for information about MAXALT that is written for health professionals.
+
+For more information, go to www.maxalt.com or call 1-800-986-8999.
+
+What are the ingredients in MAXALT?
+
+Active ingredient in MAXALT and MAXALT-MLT orally disintegrating tablets:
+
+rizatriptan benzoate.
+
+Inactive ingredients in MAXALT: lactose monohydrate, microcrystalline cellulose, pregelatinized starch, ferric oxide (red), and magnesium stearate.
+
+Inactive ingredients in MAXALT-MLT orally disintegrating tablets: gelatin, mannitol, glycine, aspartame, and peppermint flavor.
 
 MAXALT-MLT orally disintegrating tablets contain aspartame, a source of phenylalanine.
 
-Phenylketonurics: MAXALT-MLT 5-mg and 10-mg orally disintegrating tablets contain 1.05 and 2.10 mg phenylalanine, respectively.
+Phenylketonurics:
 
-## What if I am pregnant?
+MAXALT-MLT orally disintegrating tablets 5-mg contain 1.1 mg of phenylalanine.
+MAXALT-MLT orally disintegrating tablets 10-mg contain 2.1 mg of phenylalanine.
 
-Do not use MAXALT if you are pregnant, think you might be pregnant, are trying to become pregnant, or are not using adequate contraception, unless you have discussed this with your doctor.
-
-## Can I take MAXALT with other medications?
-
-Do not take MAXALT with any other drug in the same class within 24 hours, such as sumatriptan (IMITREX®), naratriptan (AMERGE™) or zolmitriptan (ZOMIG™).
-
-Do not take MAXALT within 24 hours of taking ergotamine-type medications such as ergotamine (BELLERGAL-S®, CAFERGOT®, ERGOMAR®, WIGRAINE®), dihydro-ergotamine (D.H.E.
-45®) or methysergide (SANSERT®) to treat your migraine.
-
-Do not take MAXALT when you are taking monoamine oxidase (MAO) inhibitors, such as phenelzine sulfate (NARDIL®) or tranylcypromine sulfate (PARNATE®) for mental depression, or if it has been less than two weeks since you stopped taking an MAO inhibitor.
-
-Ask your doctor for instructions about taking MAXALT if you are now taking propranolol (INDERAL®).
-(See How should I take MAXALT? section.)
-
-Ask your doctor for instructions about taking MAXALT if you are now taking selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs), two types of drugs for depression or other disorders.
-(See What should I tell my doctor before and during treatment with MAXALT? section.)
-
-## What are the possible side effects of MAXALT?
-
-Like all prescription drugs, MAXALT can cause side effects.
-In studies, MAXALT was generally well-tolerated.
-The side effects were usually mild and temporary.
-The following is not a complete list of side effects reported with MAXALT.
-Do not rely on this leaflet alone for information about side effects.
-Ask your doctor to discuss with you the more complete list of side effects.
-
-In studies, the most common side effects reported were:
-
-- dizziness
-- sleepiness, tiredness, fatigue
-- pain or pressure sensation (e.g., in the chest or throat)
-
-If you experience dizziness, sleepiness, tiredness or fatigue, you should evaluate your ability to perform complex tasks such as driving or operating heavy machinery.
-
-Other, less common side effects reported in studies or general use were related to the:
-
-Heart and blood vessels - Alterations in heartbeat, increased blood pressure and spasm of blood vessels of the extremities including coldness and numbness of the hands or feet.
-Abnormalities of the electrocardiogram (a test that records the electrical activity of your heart) have also been reported.
-
-Muscles - Muscle weakness, stiffness, and spasm; and muscle and bone pain.
-
-Nervous system - Nervousness, decreased mental sharpness, tremor, headache, abnormal sensation, vertigo, sleep disturbance, mood and personality changes, alterations in speech and movement, memory impairment, confusion, dream abnormality and seizure.
-
-Digestive system - Stomach upset, diarrhea, dry mouth, constipation, gas, thirst, acid reflux, difficulty swallowing, changes in appetite, burping, inability of the tongue to move, spasm of the blood vessels of the colon (large bowel).
-
-Skin - Flushing (redness of the face lasting a short time), hot flashes, sweating, itching, rash, acne and skin reaction to sunlight.
-
-Respiratory - Difficult or rapid breathing, dryness or discomfort of the throat or nose, nosebleed, yawning and sinus disorder, cold-like symptoms, cough, and hiccups.
-
-Special Senses - Visual disturbances, ringing in the ears, ear pain, eye discomfort, swelling or tearing, alterations in hearing and smelling, visual intolerance to light, and bad taste.
-
-Miscellaneous - Allergic reactions including swelling of face, lips, tongue and/or throat which may cause difficulty in breathing and/or swallowing, wheezing, hives, rash, and severe sloughing of the skin.
-Also chills, heat sensitivity, swelling, bloating, hangover effect, fever, fainting, dizziness on standing up, warm/cold sensations, dehydration and changes in urination and menstruation.
-
-As with other drugs in this class, there have been very rare reports of heart attack and stroke generally occurring in patients with risk factors for heart and blood vessel disease (see What should I tell my doctor before and during treatment with MAXALT?).
-
-Tell your doctor about these or any other symptoms.
-If the symptoms persist or worsen, seek medical attention promptly.
-In addition, tell your doctor if you experience any symptoms that suggest an allergic reaction (see Miscellaneous above) after taking MAXALT.
-
-## What should I do if I take an overdose?
-
-If you take more medication than you have been told to take, you should contact your doctor, hospital emergency department, or nearest poison control center immediately.
-
-## What is migraine and how does it differ from other headaches?
-
-Migraine is an intense, throbbing, typically one-sided headache that often includes nausea, vomiting, sensitivity to light, and sensitivity to sound.
-According to many migraine sufferers, the pain and symptoms from a migraine headache are more intense than the pain and symptoms of a common headache.
-
-Some people may have visual symptoms before the headache, such as flashing lights or wavy lines, called an aura.
-
-Migraine attacks typically last for hours or, rarely, for more than a day, and they can return frequently.
-The severity and frequency of migraine attacks may vary.
-
-Based on your symptoms, your doctor will decide whether you have migraine.
-
-## Who gets migraine?
-
-Migraine headaches tend to occur in members of the same family.
-Both men and women get migraine, but it is more common in women.
-
-## What may trigger a migraine attack?
-
-Certain things are thought to trigger migraine attacks in some people.
-Some of these triggers are:
-
-- certain foods or beverages (e.g., cheese, chocolate, citrus fruit, caffeine, alcohol)
-- stress
-- change in a behavior (e.g., under/oversleeping; missing a meal; change in diet)
-- hormonal changes in women (e.g., menstruation)
-
-You may be able to prevent migraine attacks or diminish their frequency if you understand what specifically triggers your attacks.
-Keeping a headache diary may help you identify and monitor the possible migraine triggers you encounter.
-Once the triggers are identified, you and your doctor can modify your treatment and lifestyle appropriately.
-
-## How does MAXALT work during a migraine attack?
-
-Treatment with MAXALT:
-
-1. Reduces swelling of blood vessels surrounding the brain.
-   This swelling results in the headache pain of a migraine attack.
-2. Blocks the release of substances from nerve endings that cause more pain and other symptoms of migraine.
-3. Interrupts the sending of specific pain signals to your brain.
-
-It is thought that each of these actions contributes to relief of your symptoms by MAXALT.
-
-## How should I store MAXALT?
-
-Keep your medicine in a safe place where children cannot reach it.
-It may be harmful to children.
-Store your medication away from heat, light, moisture, and at a controlled room temperature 59°-86°F (15°-30°C).
-If your medication has expired, throw it away as instructed.
-If your doctor decides to stop your treatment, do not keep any leftover medicine unless your doctor tells you to do so.
-Throw away your medicine as instructed.
-Be sure that the discarded tablets are out of the reach of children.
-
-If you are storing MAXALT-MLT, do not remove the blister from the outer aluminum pouch until you are ready to take the medication inside.
-
-This leaflet provides a summary of information about MAXALT.
-If you have any questions or concerns about either MAXALT or migraine, talk to your doctor.
-In addition, talk to your pharmacist or other health care provider.
-
-MAXALT Tablets are manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-By: MSD, Ltd. Cramlington, Northumberland, NE23 3JU, UK
-
-MAXALT-MLT Orally Disintegrating Tablets are manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-By: Catalent UK Swindon, Zydis Ltd. Swindon, Wiltshire, SN5 8RU, UK
-
-US Patent No.: 5,298,520
-
-Issued August 2011
-
-9652509
+This Patient Information has been approved by the U.S. Food and Drug Administration.

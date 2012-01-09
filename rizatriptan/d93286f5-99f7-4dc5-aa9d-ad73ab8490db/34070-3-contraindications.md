@@ -1,13 +1,14 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-MAXALT should not be given to patients with ischemic heart disease (e.g., angina pectoris, history of myocardial infarction, or documented silent ischemia) or to patients who have symptoms or findings consistent with ischemic heart disease, coronary artery vasospasm, including Prinzmetal’s variant angina, or other significant underlying cardiovascular disease (see WARNINGS).
+MAXALT is contraindicated in patients with:
 
-Because MAXALT may increase blood pressure, it should not be given to patients with uncontrolled hypertension (see WARNINGS).
-
-MAXALT should not be used within 24 hours of treatment with another 5-HT1 agonist, or an ergotamine-containing or ergot-type medication like dihydroergotamine or methysergide.
-
-MAXALT should not be administered to patients with hemiplegic or basilar migraine.
-
-Concurrent administration of MAO inhibitors or use of rizatriptan within 2 weeks of discontinuation of MAO inhibitor therapy is contraindicated (see CLINICAL PHARMACOLOGY, Drug Interactions and PRECAUTIONS, Drug Interactions).
-
-MAXALT is contraindicated in patients who are hypersensitive to rizatriptan or any of its inactive ingredients.
+- Ischemic coronary artery disease (angina pectoris, history of myocardial infarction, or documented silent ischemia), or other significant underlying cardiovascular disease [see Warnings and Precautions (5.1)].
+- Coronary artery vasospasm including Prinzmetal's angina [see Warnings and Precautions (5.1)].
+- History of stroke or transient ischemic attack (TIA) [see Warnings and Precautions (5.4)].
+- Peripheral vascular disease (PVD) [see Warnings and Precautions (5.5)].
+- Ischemic bowel disease [see Warnings and Precautions (5.5)].
+- Uncontrolled hypertension [see Warnings and Precautions (5.8)].
+- Recent use (i.e., within 24 hours) of another 5-HT1 agonist, ergotamine-containing medication, or ergot-type medication (such as dihydroergotamine or methysergide) [see Drug Interactions (7.2 and 7.3)].
+- Hemiplegic or basilar migraine.
+- Concurrent administration or recent discontinuation (i.e., within 2 weeks) of a MAO-A inhibitor [see Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
+- Hypersensitivity to MAXALT or MAXALT-MLT (angioedema and anaphylaxis seen) [see Adverse Reactions (6.2)].

@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - Tablets - Carton 5 mg
+PRINCIPAL DISPLAY PANEL - Tablets - Carton 5 mg
 
 Maxalt® (rizatriptan benzoate)
 
@@ -16,13 +16,11 @@ Rx only
 
 Manuf. by: MSD, Ltd. Cramlington, Northumberland, NE23 3JU, UK
 
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
-
-Rizatriptan benzoate (active ingred.)
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA Rizatriptan benzoate (active ingred.)
 Made in Ireland.
 Formulated in UK.
 
-# PRINCIPAL DISPLAY PANEL - Tablets - Carton 10 mg
+PRINCIPAL DISPLAY PANEL - Tablets - Carton 10 mg
 
 Maxalt® (rizatriptan benzoate)
 
@@ -40,17 +38,15 @@ Rx only
 
 Manuf. by: MSD, Ltd. Cramlington, Northumberland, NE23 3JU, UK
 
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
-
-Rizatriptan benzoate (active ingred.)
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA Rizatriptan benzoate (active ingred.)
 Made in Ireland.
 Formulated in UK.
 
-# PRINCIPAL DISPLAY PANEL - Orally Disintegrating Tablets - Carton 5 mg
+PRINCIPAL DISPLAY PANEL - Orally Disintegrating Tablets - Carton 5 mg
 
-Maxalt-MLT® (rizatriptan benzoate)
+Maxalt-MLT® (rizatriptan benzoate) ORALLY DISINTEGRATING TABLETS
 
-5 mg ORALLY DISINTEGRATING TABLETS
+5 mg
 
 NDC 0006-3800-18
 
@@ -72,11 +68,11 @@ Rizatriptan benzoate (active ingred.)
 Made in Ireland.
 Formulated in UK.
 
-# PRINCIPAL DISPLAY PANEL - Orally Disintegrating Tablets - Carton 10 mg
+PRINCIPAL DISPLAY PANEL - Orally Disintegrating Tablets - Carton 10 mg
 
-Maxalt-MLT® (rizatriptan benzoate)
+Maxalt-MLT® (rizatriptan benzoate) ORALLY DISINTEGRATING TABLETS
 
-10 mg ORALLY DISINTEGRATING TABLETS
+10 mg
 
 NDC 0006-3801-18
 

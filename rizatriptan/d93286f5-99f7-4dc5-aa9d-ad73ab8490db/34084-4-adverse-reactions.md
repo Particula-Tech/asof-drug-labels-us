@@ -1,29 +1,44 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Serious cardiac events, including some that have been fatal, have occurred following use of 5-HT1 agonists.
-These events are extremely rare and most have been reported in patients with risk factors predictive of CAD.
-Events reported have included coronary artery vasospasm, transient myocardial ischemia, myocardial infarction, ventricular tachycardia, and ventricular fibrillation (see CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS).
+The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-Incidence in Controlled Clinical Trials: Adverse experiences to rizatriptan were assessed in controlled clinical trials that included over 3700 patients who received single or multiple doses of MAXALT Tablets.
-The most common adverse events during treatment with MAXALT were asthenia/fatigue, somnolence, pain/pressure sensation and dizziness.
-These events appeared to be dose related.
-In long term extension studies where patients were allowed to treat multiple attacks for up to 1 year, 4% (59 out of 1525 patients) withdrew because of adverse experiences.
+- Myocardial Ischemia, Myocardial Infarction, and Prinzmetal's Angina [see Warnings and Precautions (5.1)].
+- Arrhythmias [see Warnings and Precautions (5.2)].
+- Chest and or Throat, Neck and/or Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3)].
+- Cerebrovascular Events [see Warnings and Precautions (5.4)].
+- Other Vasospasm Reactions [see Warnings and Precautions (5.5)].
+- Medication Overuse Headache [see Warnings and Precautions (5.6)].
+- Serotonin Syndrome [see Warnings and Precautions (5.7)].
+- Increase in Blood Pressure [see Warnings and Precautions (5.8)].
 
-Table 3 lists the adverse events regardless of drug relationship (incidence ≥ 2% and greater than placebo) after a single dose of MAXALT.
-The events cited reflect experience gained under closely monitored conditions of clinical trials in a highly selected patient population.
-In actual clinical practice or in other clinical trials, these frequency estimates may not apply, as the conditions of use, reporting behavior, and the kinds of patients treated may differ.
+## 6.1 Clinical Trials Experience
 
-Table 3: Incidence (≥ 2% and Greater than Placebo) of Adverse Experiences After a Single Dose of MAXALT Tablets or Placebo
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-| Adverse Experiences | MAXALT 5 mg (N=977) | MAXALT 10 mg (N=1167) | Placebo (N=627) |
+Adults
+
+Incidence in Controlled Clinical Trials
+
+Adverse reactions to MAXALT were assessed in controlled clinical trials that included over 3700 adult patients who received single or multiple doses of MAXALT Tablets.
+The most common adverse reactions during treatment with MAXALT (≥5% in either treatment group and greater than placebo) were asthenia/fatigue, somnolence, pain/pressure sensation and dizziness.
+These adverse reactions appeared to be dose related.
+
+Table 1 lists the adverse reactions (incidence ≥2% and greater than placebo) after a single dose of MAXALT in adults.
+
+Table 1: Incidence (≥2% and Greater than Placebo) of Adverse Reactions After a Single Dose of MAXALT Tablets or Placebo in Adults
+
+| Adverse Reactions | MAXALT 5 mg (N=977) | MAXALT 10 mg (N=1167) | Placebo (N=627) |
 | --- | --- | --- | --- |
 |  | % of Patients |  |  |
 | Atypical Sensations | 4 | 5 | 4 |
 | Paresthesia | 3 | 4 | <2 |
 | Pain and other Pressure Sensations | 6 | 9 | 3 |
-| Chest Pain: tightness/pressure and/or heaviness | <2 | 3 | 1 |
-| Neck/throat/jaw: pain/tightness/pressure | <2 | 2 | 1 |
-| Regional Pain: tightness/pressure/heaviness | <1 | 2 | 0 |
+| Chest Pain: |  |  |  |
+| tightness/pressure and/or heaviness | <2 | 3 | 1 |
+| Neck/throat/jaw: |  |  |  |
+| pain/tightness/pressure | <2 | 2 | 1 |
+| Regional Pain: |  |  |  |
+| tightness/pressure and/or heaviness | <1 | 2 | 0 |
 | Pain, location unspecified | 3 | 3 | <2 |
 | Digestive | 9 | 13 | 8 |
 | Dry Mouth | 3 | 3 | 1 |
@@ -32,75 +47,87 @@ Table 3: Incidence (≥ 2% and Greater than Placebo) of Adverse Experiences Afte
 | Dizziness | 4 | 9 | 5 |
 | Headache | <2 | 2 | <1 |
 | Somnolence | 4 | 8 | 4 |
-| Other Asthenia/fatigue | 4 | 7 | 2 |
+| Other |  |  |  |
+| Asthenia/fatigue | 4 | 7 | 2 |
 
-MAXALT was generally well-tolerated.
-Adverse experiences were typically mild in intensity and were transient.
-The frequencies of adverse experiences in clinical trials did not increase when up to three doses were taken within 24 hours.
-Adverse event frequencies were also unchanged by concomitant use of drugs commonly taken for migraine prophylaxis (including propranolol), oral contraceptives, or analgesics.
-The incidences of adverse experiences were not affected by age or gender.
-There were insufficient data to assess the impact of race on the incidence of adverse events.
+The frequencies of adverse reactions in clinical trials did not increase when up to three doses were taken within 24 hours.
+Adverse reaction frequencies were also unchanged by concomitant use of drugs commonly taken for migraine prophylaxis (including propranolol), oral contraceptives, or analgesics.
+The incidences of adverse reactions were not affected by age or gender.
+There were insufficient data to assess the impact of race on the incidence of adverse reactions.
 
-Other Events Observed in Association with the Administration of MAXALT: In the section that follows, the frequencies of less commonly reported adverse clinical events are presented.
+Other Events Observed in Association with the Administration of MAXALT in Adults
+
+In the following section, the frequencies of less commonly reported adverse events are presented that were not reported in other sections of the labeling.
 Because the reports include events observed in open studies, the role of MAXALT in their causation cannot be reliably determined.
-Furthermore, variability associated with adverse event reporting, the terminology used to describe adverse events, etc., limit the value of the quantitative frequency estimates provided.
-Event frequencies are calculated as the number of patients who used MAXALT (N=3716) and reported an event divided by the total number of patients exposed to MAXALT.
-All reported events are included, except those already listed in the previous table, those too general to be informative, and those not reasonably associated with the use of the drug.
+Furthermore, variability associated with adverse event reporting, the terminology used to describe adverse events, limit the value of the quantitative frequency estimates provided.
+Event frequencies are calculated as the number of patients who used MAXALT and reported an event divided by the total number of patients exposed to MAXALT (N=3716).
+All reported events occurred at an incidence ≥1%, or are believed to be reasonably associated with the use of the drug.
 Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are those defined as those occurring in at least (>)1/100 patients; infrequent adverse experiences are those occurring in 1/100 to 1/1000 patients; and rare adverse experiences are those occurring in fewer than 1/1000 patients.
 
-General: Infrequent were chills, heat sensitivity, facial edema, hangover effect, and abdominal distention.
-Rare were fever, orthostatic effects, syncope and edema/swelling.
+General: Infrequent was facial edema.
+Rare were syncope and edema/swelling.
 
-Atypical Sensations: Frequent were warm/cold sensations.
+Atypical Sensations: Frequent were warm sensations.
 
 Cardiovascular: Frequent was palpitation.
-Infrequent were tachycardia, cold extremities, hypertension, arrhythmia, and bradycardia.
-Rare was angina pectoris.
+Infrequent were tachycardia, cold extremities, and bradycardia.
 
 Digestive: Frequent were diarrhea and vomiting.
-Infrequent were dyspepsia, thirst, acid regurgitation, dysphagia, constipation, flatulence, and tongue edema.
-Rare were anorexia, appetite increase, gastritis, paralysis (tongue), and eructation.
+Infrequent were dyspepsia, tongue edema and abdominal distention.
 
-Metabolic: Infrequent was dehydration.
+Musculoskeletal: Infrequent were muscle weakness, stiffness, myalgia and muscle cramp/spasm.
 
-Musculoskeletal: Infrequent were muscle weakness, stiffness, myalgia, muscle cramp, musculoskeletal pain, arthralgia, and muscle spasm.
-
-Neurological/Psychiatric: Frequent were hypesthesia, mental acuity decreased, euphoria and tremor.
-Infrequent were nervousness, vertigo, insomnia, anxiety, depression, disorientation, ataxia, dysarthria, confusion, dream abnormality, gait abnormality, irritability, memory impairment, agitation and hyperesthesia.
-Rare were: dysesthesia, depersonalization, akinesia/bradykinesia, apprehension, hyperkinesia, hypersomnia, and hyporeflexia.
+Neurological/Psychiatric: Frequent were hypoesthesia, euphoria and tremor.
+Infrequent were vertigo, insomnia, confusion/disorientation, gait abnormality, memory impairment, and agitation.
 
 Respiratory: Frequent was dyspnea.
-Infrequent were pharyngitis, irritation (nasal), congestion (nasal), dry throat, upper respiratory infection, yawning, respiratory congestion (nasal), dry nose, epistaxis, and sinus disorder.
-Rare were cough, hiccups, hoarseness, rhinorrhea, sneezing, tachypnea, and pharyngeal edema.
+Infrequent was pharyngeal edema.
 
-Special Senses: Infrequent were blurred vision, tinnitus, dry eyes, burning eye, eye pain, eye irritation, ear pain, and tearing.
-Rare were hyperacusis, smell perversion, photophobia, photopsia, itching eye, and eye swelling.
+Special Senses: Infrequent were blurred vision and tinnitus.
+Rare was eye swelling.
 
 Skin and Skin Appendage: Frequent was flushing.
 Infrequent were sweating, pruritus, rash, and urticaria.
-Rare were erythema, acne, and photosensitivity.
+Rare was erythema, hot flashes.
 
-Urogenital System: Frequent was hot flashes.
-Infrequent were urinary frequency, polyuria, and menstruation disorder.
-Rare was dysuria.
+The adverse reaction profile seen with MAXALT-MLT Orally Disintegrating Tablets was similar to that seen with MAXALT Tablets.
 
-The adverse experience profile seen with MAXALT-MLT Orally Disintegrating Tablets was similar to that seen with MAXALT Tablets.
+Pediatric Patients 6 to 17 Years of Age
 
-## Postmarketing Experience
+Incidence in Controlled Clinical Trials in Pediatric Patients
+
+Adverse reactions to MAXALT-MLT were assessed in a controlled clinical trial in the acute treatment of migraines (Study 7) that included a total of 1382 pediatric patients 6-17 years of age, of which 977 (72%) administered at least one dose of study treatment (MAXALT-MLT and/or placebo) [see Clinical Studies (14.2)].
+The incidence of adverse reactions reported for pediatric patients in the acute clinical trial was similar in patients who received MAXALT to those who received placebo.
+The adverse reaction pattern in pediatric patients is expected to be similar to that in adults.
+
+Other Events Observed in Association with the Administration of MAXALT-MLT in Pediatric Patients
+
+In the following section, the frequencies of less commonly reported adverse events are presented.
+Because the reports include events observed in open studies, the role of MAXALT-MLT in their causation cannot be reliably determined.
+Furthermore, variability associated with adverse event reporting, the terminology used to describe adverse events, limit the value of the quantitative frequency estimates provided.
+
+Event frequencies are calculated as the number of pediatric patients 6 to 17 years of age who used MAXALT-MLT and reported an event divided by the total number of patients exposed to MAXALT-MLT (N=1068).
+All reported events occurred at an incidence ≥1%, or are believed to be reasonably associated with the use of the drug.
+Events are further classified within system organ class and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are those occurring in (>)1/100 pediatric patients; infrequent adverse experiences are those occurring in 1/100 to 1/1000 pediatric patients; and rare adverse experiences are those occurring in fewer than 1/1000 patients.
+
+General: Frequent was fatigue.
+
+Ear and labyrinth disorders: Infrequent was hypoacusis.
+
+Gastrointestinal disorders: Frequent was abdominal discomfort.
+
+Nervous system disorders: Infrequent were coordination abnormal, disturbance in attention, and presyncope.
+
+Psychiatric disorders: Infrequent was hallucination.
+
+## 6.2 Postmarketing Experience
 
 The following section enumerates potentially important adverse events that have occurred in clinical practice and which have been reported spontaneously to various surveillance systems.
-The events enumerated represent reports arising from both domestic and non-domestic use of rizatriptan.
-The events enumerated include all except those already listed in the ADVERSE REACTIONS section above or those too general to be informative.
-Because the reports cite events reported spontaneously from worldwide postmarketing experience, frequency of events and the role of rizatriptan in their causation cannot be reliably determined.
+The events enumerated include all except those already listed in other sections of the labeling or those too general to be informative.
+Because the reports cite events reported spontaneously from worldwide postmarketing experience, frequency of events and the role of MAXALT in their causation cannot be reliably determined.
 
-Cardiovascular: Myocardial ischemia, myocardial infarction, peripheral vascular ischemia, ECG abnormalities (see WARNINGS).
+Neurological/Psychiatric: Seizure.
 
-Cerebrovascular: Stroke.
-
-Digestive: Ischemic colitis.
-
-Neurological/Psychiatric: Serotonin syndrome (see WARNINGS), seizure.
+General: Allergic conditions including anaphylaxis/anaphylactoid reaction, angioedema, wheezing, and toxic epidermal necrolysis [see Contraindications (4)].
 
 Special Senses: Dysgeusia.
-
-General: Hypersensitivity reaction, anaphylaxis/anaphylactoid reaction, angioedema (e.g., facial edema, tongue swelling, pharyngeal edema), wheezing, toxic epidermal necrolysis.
