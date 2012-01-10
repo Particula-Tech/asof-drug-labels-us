@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA015296"
+  ],
   "inn": "fluocinolone-acetonide",
-  "labeler": "Medicis",
+  "labeler": "Medicis Pharmaceutical Corp.",
   "package_ndcs": [
     "99207-506-44",
     "99207-506-46"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "fluocinolone acetonide",
+      "name": "Synalar"
+    }
+  ],
   "setid": "ceedd7f6-ac43-4b1e-b589-d7b01072701c",
   "source": "dailymed"
 }
