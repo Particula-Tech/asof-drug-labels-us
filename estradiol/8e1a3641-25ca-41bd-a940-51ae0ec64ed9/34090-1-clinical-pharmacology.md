@@ -25,7 +25,7 @@ The nominal mean delivery rates of estradiol using the baseline-adjusted average
 
 TABLE 1 - Summary of Unadjusted PK Parameters for Estradiol after 14 Days of Dosing
 
-| Pharmacokinetic Parameter | 0.87 g Elestrin (0.52 mg/d Estradiol) Mean | 1.7 g Elestrin (1.04 mg/d Estradiol) Mean |
+| Pharmacokinetic Parameter | 0.87 g Elestrin® (0.52 mg/d Estradiol) Mean | 1.7 g Elestrin® (1.04 mg/d Estradiol) Mean |
 | --- | --- | --- |
 | AUC0-24 (pg'hr/mL) | 335.2 | 940.2 |
 | Cmax (pg/mL) | 21.6 | 66.7 |
