@@ -4,7 +4,7 @@ Clonidine Transdermal System is a transdermal system providing continuous system
 Clonidine is a centrally acting alpha-agonist hypotensive agent.
 It is an imidazoline derivative with the chemical name 2, 6-dichloro-N-2-imidazolidinylidenebenzenamine and has the following chemical structure:
 
-USP Drug Release Test Pending.
+Meets USP Drug Release Test 3.
 
 ## System Structure and Components
 

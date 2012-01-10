@@ -67,6 +67,6 @@ Dispose of carefully out of reach of children.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED JULY 2010 PL:CTS:R8
+REVISED JULY 2011 PL:CTS:R9

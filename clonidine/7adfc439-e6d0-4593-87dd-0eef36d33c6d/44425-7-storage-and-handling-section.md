@@ -5,6 +5,6 @@ Store at 20° to 25°C (68° to 77°F).
 
 Address medical inquiries to: 1-877-446-3679 (1-877-4-INFO-RX)
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED JULY 2010 CTS:R10
+REVISED JULY 2011 CTS:R11
