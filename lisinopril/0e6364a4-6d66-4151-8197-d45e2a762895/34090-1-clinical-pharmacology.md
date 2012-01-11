@@ -60,7 +60,8 @@ The antihypertensive effects of lisinopril are maintained during long-term thera
 Abrupt withdrawal of lisinopril has not been associated with a rapid increase in blood pressure, or a significant increase in blood pressure compared to pretreatment levels.
 Two dose-response studies utilizing a once-daily regimen were conducted in 438 mild to moderate hypertensive patients not on a diuretic.
 Blood pressure was measured 24 hours after dosing.
-An antihypertensive effect of lisinopril was seen with 5 mg in some patients; however, in both studies blood pressure reduction occurred sooner and was greater in patients treated with 10, 20 or 80 mg of lisinopril.
+An antihypertensive effect of lisinopril was seen with 5 mg in some patients.
+However, in both studies blood pressure reduction occurred sooner and was greater in patients treated with 10, 20 or 80 mg of lisinopril.
 In controlled clinical studies, lisinopril 20 to 80 mg has been compared in patients with mild to moderate hypertension to hydrochlorothiazide 12.5 to 50 mg and with atenolol 50 to 200 mg; and in patients with moderate to severe hypertension to metoprolol 100 to 200 mg.
 It was superior to hydrochlorothiazide in effects on systolic and diastolic pressure in a population that was 3/4 Caucasian.
 Lisinopril was approximately equivalent to atenolol and metoprolol in effects on diastolic blood pressure, and had somewhat greater effects on systolic blood pressure.
@@ -71,7 +72,7 @@ In a study in nine hypertensive patients, following administration of lisinopril
 Data from several small studies are inconsistent with respect to the effect of lisinopril on glomerular filtration rate in hypertensive patients with normal renal function, but suggest that changes, if any, are not large.
 In patients with renovascular hypertension lisinopril has been shown to be well tolerated and effective in controlling blood pressure.
 (See PRECAUTIONS .)
-Pediatric Patients: In a clinical study involving 115 hypertensive pediatric patients 6 to 16 years of age, patients who weighed <50 kg received either 0.625, 2.5, or 20 mg of lisinopril daily and patients who weighed ≥50 kg received either 1.25, 5, or 40 mg of lisinopril daily.
+Pediatric Patients: In a clinical study involving 115 hypertensive pediatric patients 6 to 16 years of age, patients who weighed < 50 kg received either 0.625, 2.5, or 20 mg of lisinopril daily and patients who weighed ≥ 50 kg received either 1.25, 5, or 40 mg of lisinopril daily.
 At the end of 2 weeks, lisinopril administered once daily lowered trough blood pressure in a dose-dependent manner with consistent antihypertensive efficacy demonstrated at doses > 1.25 mg (0.02 mg/kg).
 This effect was confirmed in a withdrawal phase, where the diastolic pressure rose by about 9 mmHg more in patients randomized to placebo than it did in patients who were randomized to remain on the middle and high doses of lisinopril.
 The dose-dependent antihypertensive effect of lisinopril was consistent across several demographic subgroups: age, Tanner stage, gender, and race.
@@ -95,7 +96,7 @@ Patients presenting within 24 hours of the onset of symptoms who were hemodynami
 All patients received routine therapies, including thrombolytics (72%), aspirin (84%), and a beta-blocker (31%), as appropriate, normally utilized in acute myocardial infarction (MI) patients.
 The protocol excluded patients with hypotension (systolic blood pressure ≤ 100 mmHg), severe heart failure, cardiogenic shock, and renal dysfunction (serum creatinine >2 mg/dL and/or proteinuria > 500 mg/24 h). Doses of lisinopril were adjusted as necessary according to protocol (see DOSAGE AND ADMINISTRATION ).
 Study treatment was withdrawn at six weeks except where clinical conditions indicated continuation of treatment.
-The primary outcomes of the trial were the overall mortality at 6 weeks and a combined end point at 6 months after the myocardial infarction, consisting of the number of patients who died, had late (day 4) clinical congestive heart failure, or had extensive left ventricular damage.
+The primary outcomes of the trial were the overall mortality at 6 weeks and a combined end point at 6 months after the myocardial infarction, consisting of the number of patients who died, had late (day 4) clinical congestive heart failure, or had extensive left ventricular damage defined as ejection fraction ≤ 35% or an akinetic-dyskinetic [A-D] score ≥ 45%.
 Patients receiving lisinopril (n=9646), alone or with nitrates, had an 11% lower risk of death (2p [two-tailed] = 0.04) compared to patients receiving no lisinopril (n=9672) (6.4% vs. 7.2%, respectively) at six weeks.
 Although patients randomized to receive lisinopril for up to six weeks also fared numerically better on the combined end point at 6 months, the open nature of the assessment of heart failure, substantial loss to follow-up echocardiography, and substantial excess use of lisinopril between 6 weeks and 6 months in the group randomized to 6 weeks of lisinopril, preclude any conclusion about this end point.
 Patients with acute myocardial infarction, treated with lisinopril, had a higher (9% versus 3.7%) incidence of persistent hypotension (systolic blood pressure < 90 mmHg for more than 1 hour) and renal dysfunction (2.4% versus 1.1%) in-hospital and at six weeks (increasing creatinine concentration to over 3 mg/dL or a doubling or more of the baseline serum creatinine concentration).

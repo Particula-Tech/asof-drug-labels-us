@@ -22,7 +22,7 @@ Intestinal angioedema has been reported in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
 The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor.
 Intestinal angioedema should be included in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain.
-Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (see also CONTRAINDICATIONS ).
+Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (see also INDICATIONS AND USAGE and CONTRAINDICATIONS ).
 
 ### Anaphylactoid Reactions During Desensitization
 
@@ -31,13 +31,11 @@ In the same patients, these reactions were avoided when ACE inhibitors were temp
 
 ### Anaphylactoid Reactions During Membrane Exposure
 
-Sudden and potentially life-threatening anaphylactoid reactions have been reported in some patients dialyzed with high-flux membranes (e.g., AN69 ®1 ) and treated concomitantly with an ACE inhibitor.
+Sudden and potentially life-threatening anaphylactoid reactions have been reported in some patients dialyzed with high-flux membranes (e.g., AN69 ®* ) and treated concomitantly with an ACE inhibitor.
 In such patients, dialysis must be stopped immediately, and aggressive therapy for anaphylactoid reactions must be initiated.
 Symptoms have not been relieved by antihistamines in these situations.
 In these patients, consideration should be given to using a different type of dialysis membrane or a different class of antihypertensive agent.
 Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
-1.
-AN69 is a registered trademark of Hospal Ltd.
 
 ## Hypotension
 
@@ -115,7 +113,7 @@ Evaluation of patients with hypertension, heart failure, or myocardial infarctio
 (See DOSAGE AND ADMINISTRATION.)
 Hyperkalemia In clinical trials hyperkalemia (serum potassium greater than 5.7 mEq/L) occurred in approximately 2.2% of hypertensive patients and 4.8% of patients with heart failure.
 In most cases these were isolated values which resolved despite continued therapy.
-Hyperkalemia was a cause of discontinuation of therapy in approximately 0.1% of hypertensive patients, 0.6% of patients with heart failure and 0.1% of patients with myocardial infarction.
+Hyperkalemia was a cause of discontinuation of therapy in approximately 0.1% of hypertensive patients; 0.6% of patients with heart failure and 0.1% of patients with myocardial infarction.
 Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes.
 Hyperkalemia can cause serious, sometimes fatal, arrhythmias.
 Lisinopril should be used cautiously, if at all, with these agents and with frequent monitoring of serum potassium.
@@ -151,9 +149,10 @@ Studies with ACE inhibitors in combination with diuretics indicate that the dose
 (See DOSAGE AND ADMINISTRATION. ) Antidiabetics Epidemiological studies have suggested that concomitant administration of ACE inhibitors and antidiabetic medicines (insulins, oral hypoglycemic agents) may cause an increased blood-glucose-lowering effect with risk of hypoglycemia.
 This phenomenon appeared to be more likely to occur during the first weeks of combined treatment and in patients with renal impairment.
 In diabetic patients treated with oral antidiabetic agents or insulin, glycemic control should be closely monitored for hypoglycemia, especially during the first month of treatment with an ACE inhibitor.
-Non-steroidal Anti-inflammatory Agents In some patients with compromised renal function who are being treated with non-steroidal anti-inflammatory drugs, the co-administration of lisinopril may result in further deterioration of renal function.
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co­administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including lisinopril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
-In a study in 36 patients with mild to moderate hypertension where the antihypertensive effects of lisinopril alone were compared to lisinopril given concomitantly with indomethacin, the use of indomethacin was associated with a reduced effect, although the difference between the two regimens was not significant.
+Monitor renal function periodically in patients receiving lisinopril and NSAID therapy.
+The antihypertensive effect of ACE inhibitors, including lisinopril, may be attenuated by NSAIDs.
 Other Agents Lisinopril has been used concomitantly with nitrates and/or digoxin without evidence of clinically significant adverse interactions.
 This included post myocardial infarction patients who were receiving intravenous or transdermal nitroglycerin.
 No clinically important pharmacokinetic interactions occurred when lisinopril was used concomitantly with propranolol or hydrochlorothiazide.
@@ -169,17 +168,15 @@ Gold Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-There was no evidence of a tumorigenic effect when lisinopril was administered for 105 weeks to male and female rats at doses up to 90 mg/kg/day (about 56 or 9 times 2 the maximum recommended daily human dose, based on body weight and body surface area, respectively).
-There was no evidence of carcinogenicity when lisinopril was administered for 92 weeks to (male and female) mice at doses up to 135 mg/kg/day (about 84 times 2 the maximum recommended daily human dose).
+There was no evidence of a tumorigenic effect when lisinopril was administered for 105 weeks to male and female rats at doses up to 90 mg/kg/day (about 56 or 9 times* the maximum recommended daily human dose, based on body weight and body surface area, respectively).
+There was no evidence of carcinogenicity when lisinopril was administered for 92 weeks to (male and female) mice at doses up to 135 mg/kg/day (about 84 times* the maximum recommended daily human dose).
 This dose was 6.8 times the maximum human dose based on body surface area in mice.
 Lisinopril was not mutagenic in the Ames microbial mutagen test with or without metabolic activation.
 It was also negative in a forward mutation assay using Chinese hamster lung cells.
 Lisinopril did not produce single strand DNA breaks in an in vitro alkaline elution rat hepatocyte assay.
 In addition, lisinopril did not produce increases in chromosomal aberrations in an in vitro test in Chinese hamster ovary cells or in an in vivo study in mouse bone marrow.
 There were no adverse effects on reproductive performance in male and female rats treated with up to 300 mg/kg/day of lisinopril.
-This dose is 188 times and 30 times the maximum human dose when based on mg/kg and mg/m 2 , respectively.
-2.
-Calculations assume a human weight of 50 kg and human body surface area of 1.62 m 2 .
+This dose is 188 times and 30 times the maximum human dose when based on mg/kg and mg/m 2 , respectively. * Calculations assume a human weight of 50 kg and human body surface area of 1.62 m 2 .
 
 ## Pregnancy
 
@@ -189,7 +186,8 @@ See WARNINGS, Fetal/Neonatal Morbidity and Mortality .
 ## Nursing Mothers
 
 Milk of lactating rats contains radioactivity following administration of 14 C lisinopril.
-It is not known whether this drug is excreted in human milk.Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from ACE inhibitors, a decision should be made whether to discontinue nursing or discontinue lisinopril, taking into account the importance of the drug to the mother.
+It is not known whether this drug is excreted in human milk.
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from ACE inhibitors, a decision should be made whether to discontinue nursing or discontinue lisinopril, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
 

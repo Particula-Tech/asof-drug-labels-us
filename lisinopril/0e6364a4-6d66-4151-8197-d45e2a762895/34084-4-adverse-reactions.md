@@ -69,7 +69,7 @@ The following table lists those adverse experiences which occurred in greater th
 | Skin |  |  |
 | Rash | 1.7 (0.5) | 0.6 (0.6) |
 
-Also observed at > 1% with lisinopril but more frequent or as frequent on placebo than lisinopril in controlled trials were asthenia, angina pectoris, nausea, dyspnea, cough, and pruritus.
+Also observed at >1% with lisinopril but more frequent or as frequent on placebo than lisinopril in controlled trials were asthenia, angina pectoris, nausea, dyspnea, cough, and pruritus.
 Worsening of heart failure, anorexia, increased salivation, muscle cramps, back pain, myalgia, depression, chest sound abnormalities, and pulmonary edema were also seen in controlled clinical trials, but were more common on placebo than lisinopril.
 In the two-dose ATLAS trial in heart failure patients, withdrawals due to adverse events were not different between the low and high groups, either in total number of discontinuation (17 to 18%) or in rare specific events (<1%).
 The following adverse events, mostly related to ACE inhibition, were reported more commonly in the high dose group:
@@ -120,7 +120,7 @@ Cough: See PRECAUTIONS, Cough Pediatric Patients: No relevant differences betwee
 
 ## Clinical Laboratory Test Findings
 
-Serum Electrolytes: Hyperkalemia (See PRECAUTIONS ), hyponatremia.
+Serum Electrolytes: Hyperkalemia (see PRECAUTIONS ), hyponatremia.
 Creatinine, Blood Urea Nitrogen: Minor increases in blood urea nitrogen and serum creatinine, reversible upon discontinuation of therapy, were observed in about 2% of patients with essential hypertension treated with lisinopril alone.
 Increases were more common in patients receiving concomitant diuretics and in patients with renal artery stenosis.
 (See PRECAUTIONS. ) Reversible minor increases in blood urea nitrogen and serum creatinine were observed in approximately 11.6% of patients with heart failure on concomitant diuretic therapy.
