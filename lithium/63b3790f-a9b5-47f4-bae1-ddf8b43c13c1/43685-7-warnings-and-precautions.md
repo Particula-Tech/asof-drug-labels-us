@@ -1,11 +1,24 @@
 # WARNINGS
 
+Lithium toxicity is closely related to serum lithium levels, and can occur at doses close to therapeutic levels (see DOSAGE AND ADMINISTRATION).
+
+## Unmasking of Brugada Syndrome
+
+There have been postmarketing reports of a possible association between treatment with lithium and the unmasking of Brugada Syndrome.
+Brugada Syndrome is a disorder characterized by abnormal electrocardiographic (ECG) findings and a risk of sudden death.
+Lithium should generally be avoided in patients with Brugada Syndrome or those suspected of having Brugada Syndrome.
+Consultation with a cardiologist is recommended if: (1) treatment with lithium is under consideration for patients suspected of having Brugada Syndrome or patients who have risk factors for Brugada Syndrome, e.g., unexplained syncope, a family history of Brugada Syndrome, or a family history of sudden unexplained death before the age of 45 years, (2) patients who develop unexplained syncope or palpitations after starting lithium therapy.
+
+## Pregnancy
+
 Lithium may cause fetal harm when administered to a pregnant woman.
 There have been reports of lithium having adverse effects on nidations in rats, embryo viability in mice, and metabolism in-vitro of rat testis and human spermatozoa have been attributed to lithium, as have teratogenicity in submammalian species and cleft palates in mice.
 Studies in rats, rabbits and monkeys have shown no evidence of lithium-induced teratology.
 Data from lithium birth registries suggest an increase in cardiac and other anomalies, especially Ebstein’s anomaly.
 If the patient becomes pregnant while taking lithium, she should be apprised of the potential risk to the fetus.
 If possible, lithium should be withdrawn for at least the first trimester unless it is determined that this would seriously endanger the mother.
+
+## Lithium-Induced Renal Effects
 
 Chronic lithium therapy may be associated with diminution of renal concentrating ability, occasionally presenting as nephrogenic diabetes insipidus, with polyuria and polydipsia.
 Such patients should be carefully managed to avoid dehydration with resulting lithium retention and toxicity.
@@ -18,8 +31,6 @@ The relationship between renal functional and morphologic changes and their asso
 When kidney function is assessed, for baseline data prior to starting lithium therapy or thereafter, routine urinalysis and other tests may be used to evaluate tubular function (e.g., urine specific gravity or osmolality following a period of water deprivation, or 24-hour urine volume) and glomerular function (e.g., serum creatinine or creatinine clearance).
 During lithium therapy, progressive or sudden changes in renal function, even within the normal range, indicate the need for reevaluation of treatment.
 
-Lithium toxicity is closely related to serum lithium levels, and can occur at doses close to therapeutic levels (see DOSAGE AND ADMINISTRATION).
-
 # PRECAUTIONS
 
 ## General:
@@ -31,7 +42,7 @@ Lithium is primarily excreted in urine with insignificant excretion in feces.
 Renal excretion of lithium is proportional to its plasma concentration.
 The half-life of elimination of lithium is approximately 24 hours.
 Lithium decreases sodium reabsorption by the renal tubules which could lead to sodium depletion.
-Therefore, it is essential for the patient to maintain a normal diet, including salt, and an adequate fluid intake (2500-3000 mL) at least during the initial stabilization period.
+Therefore, it is essential for the patient to maintain a normal diet, including salt, and an adequate fluid intake (2500 to 3000 mL) at least during the initial stabilization period.
 Decreased tolerance to lithium has been reported to ensue from protracted sweating or diarrhea and, if such occur, supplemental fluid and salt should be administered.
 
 In addition to sweating and diarrhea, concomitant infection with elevated temperatures may also necessitate a temporary reduction or cessation of medication.
@@ -39,16 +50,20 @@ In addition to sweating and diarrhea, concomitant infection with elevated temper
 Previously existing underlying thyroid disorders do not necessarily constitute a contraindication to lithium treatment; where hypothyroidism exists, careful monitoring of thyroid function during lithium stabilization and maintenance allows for correction of changing thyroid parameters, if any.
 Where hypothyroidism occurs during lithium stabilization and maintenance, supplemental thyroid treatment may be used.
 
-## Information for the patients:
+## Information for the Patients
+
+A condition known as Brugada Syndrome may pre-exist and be unmasked by lithium therapy.
+Brugada Syndrome is a heart disorder characterized by abnormal electrocardiographic (ECG) findings and risk of sudden death.
+Patients should be advised to seek immediate emergency assistance if they experience fainting, lightheadedness, abnormal heart beats, or shortness of breath.
 
 Outpatients and their families should be warned that the patient must discontinue lithium therapy and contact his physician if such clinical signs of lithium toxicity as diarrhea, vomiting, tremor, mild ataxia, drowsiness, or muscular weakness occur.
 
 Lithium may impair mental and/or physical abilities.
 Caution patients about activities requiring alertness (e.g., operating vehicles or machinery).
 
-## Drug interactions:
+## Drug Interactions
 
-### Combined use of haloperidol and lithium.
+### Combined use of haloperidol and lithium:
 
 An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leucocytosis, elevated serum enzymes, BUN and FBS) followed by irreversible brain damage has occurred in a few patients treated with lithium plus haloperidol.
 A causal relationship between these events and the concomitant administration of lithium and haloperidol has not been established; however, patients receiving such combined therapy should be monitored closely for early evidence of neurological toxicity and treatment discontinued promptly if such signs appear.
@@ -75,12 +90,12 @@ In a study conducted in healthy subjects, mean steady-state lithium plasma level
 
 See WARNINGS section
 
-## Nursing mothers:
+## Nursing Mothers
 
 Lithium is excreted in human milk.
 Nursing should not be undertaken during lithium therapy except in rare and unusual circumstances where, in the view of the physician, the potential benefits to the mother outweigh possible hazards to the child.
 
-## Usage in Children:
+## Usage in Children
 
 Since information regarding the safety and effectiveness of lithium in children under 12 years of age is not available, its use in such patients is not recommended at this time.
 There has been a report of a transient syndrome of acute dystonia and hyperreflexia occurring in a 15 kg child who ingested 300 mg of lithium carbonate.
