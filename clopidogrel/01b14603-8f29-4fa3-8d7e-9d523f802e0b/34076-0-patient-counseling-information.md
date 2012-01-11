@@ -30,6 +30,6 @@ Instruct patients to:
 
 ## 17.5 Concomitant Medications
 
-Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take, including prescription or over-the-counter omeprazole, so the physician knows about other treatments that may affect how Plavix works (e.g., warfarin and NSAIDs) [see Warnings and Precautions (5)].
+Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take, including prescription or over-the-counter proton pump inhibitors (e.g., omeprazole), warfarin or NSAIDs [see Warnings and Precautions (5)].
 
 ## 17.6 Medication Guide

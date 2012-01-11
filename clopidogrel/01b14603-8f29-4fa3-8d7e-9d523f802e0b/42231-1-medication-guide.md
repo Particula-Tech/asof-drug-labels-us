@@ -9,7 +9,7 @@ What is the most important information I should know about Plavix?
 1. Plavix may not work as well in people who:
    - have certain genetic factors that affect how the body breaks down Plavix.
      Your doctor may do genetic tests to make sure Plavix is right for you.
-   - take certain medicines, especially omeprazole (Prilosec®).
+   - take certain medicines, especially omeprazole (Prilosec®) or esomeprazole (Nexium®).
      Your doctor may change the medicine you take for stomach acid problems while you take Plavix.
 2. Plavix can cause bleeding which can be serious and can sometimes lead to death.
    Plavix is a blood thinner medicine that lowers the chance of blood clots forming in your body.

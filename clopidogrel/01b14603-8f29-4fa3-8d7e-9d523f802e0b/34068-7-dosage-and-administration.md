@@ -20,7 +20,6 @@ Although a higher dose regimen in poor metabolizers increases antiplatelet respo
 
 ## 2.4 Use with Proton Pump Inhibitors (PPI)
 
-Omeprazole, a moderate CYP2C19 inhibitor, reduces the pharmacological activity of Plavix.
-Avoid using omeprazole concomitantly or 12 hours apart with Plavix.
-Consider using another acid-reducing agent with less CYP2C19 inhibitory activity.
-A higher dose regimen of clopidogrel concomitantly administered with omeprazole increases antiplatelet response; an appropriate dose regimen has not been established [see Warnings and Precautions (5.1), Drug Interactions (7.1) and Clinical Pharmacology (12.5)].
+Avoid using omeprazole or esomeprazole with Plavix.
+Omeprazole and esomeprazole significantly reduce the antiplatelet activity of Plavix.
+When concomitant administration of a PPI is required, consider using another acid-reducing agent with minimal or no CYP2C19 inhibitory effect on the formation of clopidogrel active metabolite [see Warnings and Precautions (5.1), Drug Interactions (7.1) and Clinical Pharmacology (12.3)].

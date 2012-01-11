@@ -67,6 +67,20 @@ Following an oral dose of 14C-labeled clopidogrel in humans, approximately 50% o
 After a single, oral dose of 75 mg, clopidogrel has a half-life of approximately 6 hours.
 The half-life of the active metabolite is about 30 minutes.
 
+Drug Interactions
+
+Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
+Concomitant use of certain inhibitors of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
+
+Proton Pump Inhibitors (PPI)
+
+The effect of proton pump inhibitors (PPI) on the systemic exposure to the clopidogrel active metabolite following multiple doses of Plavix 75 mg evaluated in dedicated drug interaction studies is presented in Figure 1.
+
+| Figure 1: Exposure to Clopidogrel Active Metabolite Following Multiple Doses of Plavix 75 mg Alone or with Proton Pump Inhibitors (PPIs) |
+| --- |
+
+Pharmacodynamic and pharmacokinetic parameters measured in these studies showed that the interaction was highest with omeprazole and least with dexlansoprazole.
+
 ## 12.5 Pharmacogenomics
 
 CYP2C19 is involved in the formation of both the active metabolite and the 2-oxo-clopidogrel intermediate metabolite.
@@ -82,10 +96,10 @@ Tests are available to determine a patient's CYP2C19 genotype.
 
 A crossover study in 40 healthy subjects, 10 each in the four CYP2C19 metabolizer groups, evaluated pharmacokinetic and antiplatelet responses using 300 mg followed by 75 mg per day and 600 mg followed by 150 mg per day, each for a total of 5 days.
 Decreased active metabolite exposure and diminished inhibition of platelet aggregation were observed in the poor metabolizers as compared to the other groups.
-When poor metabolizers received the 600 mg/150 mg regimen, active metabolite exposure and antiplatelet response were greater than with the 300 mg/75 mg regimen (see Table 4).
+When poor metabolizers received the 600 mg/150 mg regimen, active metabolite exposure and antiplatelet response were greater than with the 300 mg/75 mg regimen (see Table 3).
 An appropriate dose regimen for this patient population has not been established in clinical outcome trials.
 
-Table 4: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C19 Metabolizer Status
+Table 3: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C19 Metabolizer Status
 
 |  | Dose | Ultrarapid (n=10) | Extensive (n=10) | Intermediate (n=10) | Poor (n=10) |
 | --- | --- | --- | --- | --- | --- |

@@ -1,4 +1,4 @@
-Issued February 2011
+Revised December 2011
 
 Distributed by: Bristol-Myers Squibb/Sanofi Pharmaceuticals Partnership Bridgewater, NJ 08807
 

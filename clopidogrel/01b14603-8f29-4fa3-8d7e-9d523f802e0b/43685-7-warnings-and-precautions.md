@@ -3,13 +3,12 @@
 ## 5.1 Diminished Antiplatelet Activity Due to Impaired CYP2C19 Function
 
 Clopidogrel is a prodrug.
-Inhibition of platelet aggregation by clopidogrel is due to an active metabolite.
+Inhibition of platelet aggregation by clopidogrel is achieved through an active metabolite.
 The metabolism of clopidogrel to its active metabolite can be impaired by genetic variations in CYP2C19 [see Boxed Warning] and by concomitant medications that interfere with CYP2C19.
-Avoid concomitant use of Plavix and strong or moderate CYP2C19 inhibitors.
 
-Omeprazole, a moderate CYP2C19 inhibitor, has been shown to reduce the pharmacological activity of Plavix if given concomitantly or if given 12 hours apart.
-Consider using another acid-reducing agent with less CYP2C19 inhibitory activity.
-Pantoprazole, a weak CYP2C19 inhibitor, had less effect on the pharmacological activity of Plavix than omeprazole [see Drug Interactions (7.1) and Dosage and Administration (2.4)].
+Proton Pump Inhibitors
+
+Avoid concomitant use of Plavix with omeprazole or esomeprazole because both significantly reduce the antiplatelet activity of Plavix [see Drug Interactions (7.1) and Dosage and Administration (2.4)].
 
 ## 5.2 General Risk of Bleeding
 
