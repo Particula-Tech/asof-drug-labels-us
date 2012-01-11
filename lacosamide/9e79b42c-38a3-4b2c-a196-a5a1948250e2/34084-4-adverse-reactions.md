@@ -104,6 +104,10 @@ Although there were few non-Caucasian patients, no differences in the incidences
 The following adverse reactions have been identified during postapproval use of VIMPAT.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiac disorders: Bradycardia
+Cardiac disorders: Atrioventricular block, atrial fibrillation, atrial flutter, bradycardia
 
-Skin and subcutaneous tissue disorders: Rash
+Immune system disorders: Drug hypersensitivity reactions
+
+Psychiatric disorders: Aggression, agitation, insomnia, psychotic disorder
+
+Skin and subcutaneous tissue disorders: Angioedema, rash, urticaria

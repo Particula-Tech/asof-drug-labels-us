@@ -1,4 +1,4 @@
-Medication Guide
+# Medication Guide
 
 VIMPAT (VIM-păt) CV
 
@@ -163,7 +163,7 @@ What are the ingredients in VIMPAT?
 
 Manufactured for UCB, Inc. Smyrna, GA 30080
 
-Issued 10/2010
+Issued 04/2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

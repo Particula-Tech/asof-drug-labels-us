@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 50 mg Tablet Label
+PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
 
 NDC 0131-2477-35
 
@@ -6,11 +6,11 @@ VIMPAT® (lacosamide) tablets CV
 
 50 mg
 
-Rx only 60 tablets
+Rx only 60 Tablets
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-PRINCIPAL DISPLAY PANEL - 100 mg Tablet Label
+PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
 NDC 0131-2478-35
 
@@ -18,11 +18,11 @@ VIMPAT® (lacosamide) tablets CV
 
 100 mg
 
-Rx only 60 tablets
+Rx only 60 Tablets
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-PRINCIPAL DISPLAY PANEL - 150 mg Tablet Label
+PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Label
 
 NDC 0131-2479-35
 
@@ -30,11 +30,11 @@ VIMPAT® (lacosamide) tablets CV
 
 150 mg
 
-Rx only 60 tablets
+Rx only 60 Tablets
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-PRINCIPAL DISPLAY PANEL - 200 mg Tablet Label
+PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
 
 NDC 0131-2480-35
 
@@ -42,25 +42,23 @@ VIMPAT® (lacosamide) tablets CV
 
 200 mg
 
-Rx only 60 tablets
+Rx only 60 Tablets
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-PRINCIPAL DISPLAY PANEL - 200 mg / 20 mL Vial Label
+PRINCIPAL DISPLAY PANEL - 20 mL Vial Label
 
-NDC 0131-1810-67 Single Use Vial
+NDC 0131-1810-67
 
 VIMPAT® (lacosamide) injection CV
 
-200 mg /20 mL (10 mg/mL)
+200 mg /20 mL (10 mg /mL)
 
 For Intravenous Use Only
 
-Rx only
+Rx only 20 mL
 
-20 mL
-
-PRINCIPAL DISPLAY PANEL - 465 mL Bottle Label
+PRINCIPAL DISPLAY PANEL - 10 mg / mL Bottle Label
 
 NDC 0131-5410-70
 
@@ -72,6 +70,16 @@ Rx only
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-ucb Manufactured for: UCB, Inc. Smyrna, GA 30080
+ucb manufactured for: UCB, Inc. Smyrna, GA 30080
 
 465 mL
+
+# PRINCIPAL DISPLAY PANEL - Kit Carton
+
+2 Week Starter Kit
+
+VIMPAT® (lacosamide) tablets CV
+
+ATTENTION PHYSICIAN: Each patient is required to receive the accompanying Medication Guide.
+
+Not for Sale Professional Samples
