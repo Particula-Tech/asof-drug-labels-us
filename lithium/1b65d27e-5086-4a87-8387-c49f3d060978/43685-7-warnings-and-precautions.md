@@ -1,8 +1,23 @@
 # WARNINGS
 
+## Lithium Toxicity
+
+Lithium toxicity is closely related to serum lithium concentrations and can occur at doses close to therapeutic concentrations (see DOSAGE AND ADMINISTRATION).
+
+Outpatients and their families should be warned that the patient must discontinue lithium therapy and contact his physician if such clinical signs of lithium toxicity as diarrhea, vomiting, tremor, mild ataxia, drowsiness, or muscular weakness occur.
+
 Lithium should generally not be given to patients with significant renal or cardiovascular disease, severe debilitation, dehydration, sodium depletion, and to patients receiving diuretics, or angiotensin converting enzyme (ACE) inhibitors, since the risk of lithium toxicity is very high in such patients.
 If the psychiatric indication is life threatening, and if such a patient fails to respond to other measures, lithium treatment may be undertaken with extreme caution, including daily serum lithium determinations and adjustment to the usually low doses ordinarily tolerated by these individuals.
 In such instances, hospitalization is a necessity.
+
+## Unmasking of Brugada Syndrome
+
+There have been postmarketing reports of a possible association between treatment with lithium and the unmasking of Brugada Syndrome.
+Brugada Syndrome is a disorder characterized by abnormal electrocardiographic (ECG) findings and a risk of sudden death.
+Lithium should generally be avoided in patients with Brugada Syndrome or those suspected of having Brugada Syndrome.
+Consultation with a cardiologist is recommended if: (1) treatment with lithium is under consideration for patients suspected of having Brugada Syndrome or patients who have risk factors for Brugada Syndrome, e.g., unexplained syncope, a family history of Brugada Syndrome, or a family history of sudden unexplained death before the age of 45 years, (2) patients who develop unexplained syncope or palpitations after starting lithium therapy.
+
+Renal Effects
 
 Chronic lithium therapy may be associated with diminution of renal concentrating ability, occasionally presenting as nephrogenic diabetes insipidus, with polyuria and polydipsia.
 Such patients should be carefully managed to avoid dehydration with resulting lithium retention and toxicity.
@@ -16,14 +31,14 @@ Kidney function should be assessed prior to and during lithium therapy.
 Routine urinalysis and other tests may be used to evaluate tubular function (e.g. urine specific gravity or osmolality following a period of water deprivation, or 24-hour urine volume) and glomerular function (e.g. serum creatinine or creatinine clearance).
 During lithium therapy, progressive or sudden changes in renal function, even within the normal range, indicate the need for re-evaluation of treatment.
 
-An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes BUN and FBS) has occurred in a few patients treated with lithium plus a neuroleptic, most notably haloperidol.
+## Encephalopathic Syndrome
+
+An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN and FBS) has occurred in a few patients treated with lithium plus a neuroleptic, most notably haloperidol.
 In some instances, the syndrome was followed by irreversible brain damage.
 Because of possible causal relationship between these events and the concomitant administration of lithium and neuroleptic drugs, patients receiving such combined therapy or patients with organic brain syndrome or other CNS impairment should be monitored closely for early evidence of neurologic toxicity and treatment discontinued promptly if such signs appear.
-The encephalopathic syndrome may be similar to or the same as Neuroleptic Malignant Syndrome (NMS).
+This encephalopathic syndrome may be similar to or the same as Neuroleptic Malignant Syndrome (NMS).
 
-Lithium toxicity is closely related to serum lithium concentrations and can occur at doses close to therapeutic concentrations (see DOSAGE AND ADMINISTRATION).
-
-Outpatients and their families should be warned that the patient must discontinue lithium therapy and contact his physician if such clinical signs of lithium toxicity as diarrhea, vomiting, tremor, mild ataxia, drowsiness, or muscular weakness occur.
+## Concomitant Use with Neuromuscular Blocking Agents
 
 Lithium may prolong the effects of neuromuscular blocking agents.
 Therefore, neuromuscular blocking agents should be given with caution to patients receiving lithium.
@@ -34,17 +49,17 @@ Adverse effects on nidation in rats, embryo viability in mice, and metabolism in
 
 In humans, lithium may cause fetal harm when administered to a pregnant woman.
 Data from lithium birth registries suggest an increase in cardiac and other anomalies, especially Ebstein’s anomaly.
-If this drug is used in women of childbearing potential, or during pregnancy, or if a patient becomes pregnant while taking this drug, the patient should be appraised by their physician of the potential hazard to the fetus.
+If this drug is used in women of childbearing potential, or during pregnancy, or if a patient becomes pregnant while taking this drug, the patient should be apprised by their physician of the potential hazard to the fetus.
 
 ## Usage in Nursing Mothers
 
 Lithium is excreted in human milk.
-Nursing should not be undertaken during lithium therapy except in rare and unusual circumstances where, in the view of a physician, the potential benefits to the mother outweigh possible hazard to the infant or neonate.
+Nursing should not be undertaken during lithium therapy except in rare and unusual circumstances where, in the view of the physician, the potential benefits to the mother outweigh possible hazard to the infant or neonate.
 Signs and symptoms of lithium toxicity such as hypertonia, hypothermia, cyanosis, and ECG changes have been reported in some infants and neonates.
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients under 12 years of age have not been determined; its use in these patients is not recommended
+Safety and effectiveness in pediatric patients under 12 years of age have not been determined; its use in these patients is not recommended.
 
 There has been a report of transient syndrome of acute dystonia and hyperreflexia occurring in a 15 kg pediatric patient who ingested 300 mg of lithium carbonate.
 
@@ -102,12 +117,11 @@ Because of the potential for serious adverse reactions in nursing infants and ne
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients below the age of 12 have not been established.
-(see WARNINGS).
+Safety and effectiveness in pediatric patients below the age of 12 have not been established (see WARNINGS).
 
 ## Geriatric Use
 
-Clinical studies of lithium carbonate extended-release tablets USP did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of lithium carbonate extended-release tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other therapy.
 
