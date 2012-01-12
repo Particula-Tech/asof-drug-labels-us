@@ -136,14 +136,14 @@ Study PsA - Proportion of Patients with ACR Responses
 | ACR 70 |  |  |
 | Week 14 | 1% | 12% |
 | Week 24 | 1% | 19% |
-| Bold text indicates primary endpoint |  |  |
+| Bold text indicates primary endpoint. |  |  |
 
 Table 5.
 Study PsA - Percent Improvement in ACR Components at Week 14
 
 |  | Placebo± MTXIn Study PsA, about 48%, 16%, and 78% of the patients received stable doses of MTX (≤ 25 mg/day), low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day), and NSAIDs, respectively. | SIMPONI 50 mg ± MTX |
 | --- | --- | --- |
-| NN reflects randomized patients; actual number of patients evaluable for each endpoint may vary by timepoint | 113 | 146 |
+| NN reflects randomized patients; actual number of patients evaluable for each endpoint may vary by timepoint. | 113 | 146 |
 | Number of swollen joints (0–66) |  |  |
 | Baseline | 10.0 | 11.0 |
 | Week 14 | 8% | 60% |
@@ -165,7 +165,7 @@ Study PsA - Percent Improvement in ACR Components at Week 14
 | CRP (mg/dL) (0–10) |  |  |
 | Baseline | 0.6 | 0.6 |
 | Week 14 | 0% | 40% |
-| Note: Baseline are median values |  |  |
+| Note: Baseline are median values. |  |  |
 
 | Figure 2. Study PsA – Percent of ACR 20 PsA Responders by Visit: Randomized PatientsThe same patients may not have responded at each timepoint. |
 | --- |
@@ -212,14 +212,14 @@ Study AS – Proportion of ASAS Responders at Weeks 14 and 24
 | ASAS 40 |  |  |
 | Week 14 | 15% | 45% |
 | Week 24 | 15% | 44% |
-| Bold text indicates primary endpoint |  |  |
+| Bold text indicates primary endpoint. |  |  |
 
 Table 7.
 Study AS – Median Percent Improvement in ASAS Components at Week 14
 
 |  | Placebo ± DMARDsDuring the trial, the concomitant use of stable doses of DMARDS was as follows: MTX (21%), SSZ (25%), and HCQ (1%). About 16% and 89% of patients received stable doses of low dose oral steroids and NSAIDs during the trial, respectively. | SIMPONI 50 mg ± DMARDs |
 | --- | --- | --- |
-| NN reflects randomized patients | 78 | 138 |
+| NN reflects randomized patients. | 78 | 138 |
 | ASAS components |  |  |
 | Patient global assessment (0–10) |  |  |
 | Baseline | 7.2 | 7.0 |
@@ -227,10 +227,10 @@ Study AS – Median Percent Improvement in ASAS Components at Week 14
 | Total back pain (0–10) |  |  |
 | Baseline | 7.6 | 7.5 |
 | Week 14 | 9% | 50% |
-| BASFI (0–10)BASFI is Bath Ankylosing Spondylitis Functional Index |  |  |
+| BASFI (0–10)BASFI is Bath Ankylosing Spondylitis Functional Index. |  |  |
 | Baseline | 4.9 | 5.0 |
 | Week 14 | -3% | 37% |
-| Inflammation (0–10)Inflammation is the mean of two patient-reported stiffness self-assessments in the Bath AS Disease Activity Index (BASDAI) |  |  |
+| Inflammation (0–10)Inflammation is the mean of two patient-reported stiffness self-assessments in the Bath AS Disease Activity Index (BASDAI). |  |  |
 | Baseline | 7.1 | 7.1 |
 | Week 14 | 6% | 59% |
 

@@ -107,8 +107,8 @@ If a decision is made to administer SIMPONI to patients with CHF, these patients
 
 ## 5.4 Demyelinating Disorders
 
-Use of TNF-blockers, of which SIMPONI is a member, has been associated with cases of new onset or exacerbation of central nervous system (CNS) demyelinating disorders, including multiple sclerosis (MS) and peripheral demyelinating disorders, including Guillain-Barré syndrome.
-In clinical trials, cases of central demyelination, MS, and peripheral demyelinating polyneuropathy have been reported in patients treated with SIMPONI [see Adverse Reactions (6.1)].
+Use of TNF-blockers, of which SIMPONI is a member, has been associated with rare cases of new onset or exacerbation of central nervous system (CNS) demyelinating disorders, including multiple sclerosis (MS) and peripheral demyelinating disorders, including Guillain-Barré syndrome.
+Cases of central demyelination, MS, optic neuritis, and peripheral demyelinating polyneuropathy have rarely been reported in patients treated with SIMPONI [see Adverse Reactions (6.1)].
 Prescribers should exercise caution in considering the use of TNF-blockers, including SIMPONI, in patients with central or peripheral nervous system demyelinating disorders.
 Discontinuation of SIMPONI should be considered if these disorders develop.
 
@@ -120,7 +120,7 @@ Therefore, the combination of TNF-blockers including SIMPONI and abatacept is no
 ## 5.6 Use with Anakinra
 
 Concurrent administration of anakinra (an interleukin-1 antagonist) and another TNF-blocker, was associated with a greater portion of serious infections and neutropenia and no additional benefits compared with the TNF-blocker alone.
-Therefore, the combination of anakinra with TNF-blockers, including SIMPONI, is not recommended [see Drug Interactions 7.2].
+Therefore, the combination of anakinra with TNF-blockers, including SIMPONI, is not recommended [see Drug Interactions (7.2)].
 
 ## 5.7 Switching Between Biological Disease Modifying Antirheumatic Drugs (DMARDs)
 
