@@ -91,7 +91,7 @@ Events are further categorized by body system and listed in order of decreasing 
 | DIGESTIVE SYSTEM |  |
 | --- | --- |
 | Frequent: | Abdomen pain, diarrhea, dyspepsia |
-| Infrequent: | Dysphagia, cholelithiasis, fecal impaction, flatulence, gastrointestinal hemorrhage, hepatitis, melena, |
+| Infrequent: | Dysphagia, cholelithiasis, fecal impaction, flatulence, gastrointestinal hemorrhage, hepatitis, melena |
 | Rare: | Gastroenteritis, hematemesis, hepatoma, intestinal obstruction, liver damage |
 
 | HEMIC AND LYMPHATIC SYSTEM |  |
