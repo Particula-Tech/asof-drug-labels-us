@@ -2,9 +2,9 @@ For more information call 1-888-395-1232 or visit www.DITROPANXL.com
 
 Manufactured by: ALZA Corporation, Vacaville, CA 95688
 
-An ALZA OROS®Technology Product
+An ALZA OROS® Technology Product
 
-DITROPAN XL® and OROS®are registered trademarks of ALZA Corporation.
+DITROPAN XL® and OROS® are registered trademarks of ALZA Corporation.
 
 Manufactured for: Ortho Women's Health & Urology, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ 08869
 
@@ -12,6 +12,4 @@ Placeholder for Ortho Women's Health & Urology, Division of Ortho-McNeil-Janssen
 
 © Ortho-McNeil-Janssen Pharmaceuticals, Inc. 1998
 
-10192602
-
-Revised July 2011
+Revised December 2011

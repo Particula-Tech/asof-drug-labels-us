@@ -25,11 +25,11 @@ Table 1 Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following a Sin
 
 | Parameters (units) | R-Oxybutynin |  | S-Oxybutynin |  |
 | --- | --- | --- | --- | --- |
-| Cmax(ng/mL) | 1.0 | (0.6) | 1.8 | (1.0) |
-| Tmax(h) | 12.7 | (5.4) | 11.8 | (5.3) |
-| t1/2(h) | 13.2 | (6.2) | 12.4 | (6.1) |
-| AUC(0–48)(ng∙h/mL) | 18.4 | (10.3) | 34.2 | (16.9) |
-| AUCinf(ng∙h/mL) | 21.3 | (12.2) | 39.5 | (21.2) |
+| Cmax (ng/mL) | 1.0 | (0.6) | 1.8 | (1.0) |
+| Tmax (h) | 12.7 | (5.4) | 11.8 | (5.3) |
+| t1/2 (h) | 13.2 | (6.2) | 12.4 | (6.1) |
+| AUC (0–48) (ng∙h/mL) | 18.4 | (10.3) | 34.2 | (16.9) |
+| AUCinf (ng∙h/mL) | 21.3 | (12.2) | 39.5 | (21.2) |
 
 Steady state oxybutynin plasma concentrations are achieved by Day 3 of repeated DITROPAN XL® dosing, with no observed drug accumulation or change in oxybutynin and desethyloxybutynin pharmacokinetic parameters.
 
@@ -43,8 +43,8 @@ Table 2 Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacok
 
 |  | R-Oxybutynin | S-Oxybutynin | R- Desethyloxybutynin | S- Desethyloxybutynin |
 | --- | --- | --- | --- | --- |
-| Cmax(ng/mL) | 0.7 ± 0.4 | 1.3 ± 0.8 | 7.8 ± 3.7 | 4.2 ± 2.3 |
-| Tmax(h) | 5.0 | 5.0 | 5.0 | 5.0 |
+| Cmax (ng/mL) | 0.7 ± 0.4 | 1.3 ± 0.8 | 7.8 ± 3.7 | 4.2 ± 2.3 |
+| Tmax (h) | 5.0 | 5.0 | 5.0 | 5.0 |
 | AUC(ng∙h/mL) | 12.8 ± 7.0 | 23.7 ± 14.4 | 125.1 ± 66.7 | 73.6 ± 47.7 |
 
 #### Food Effects
@@ -53,8 +53,11 @@ The rate and extent of absorption and metabolism of oxybutynin are similar under
 
 ### Distribution
 
-Plasma concentrations of oxybutynin decline biexponentially following intravenous or oral administration.
+Oxybutynin is widely distributed in body tissues following systemic absorption.
 The volume of distribution is 193 L after intravenous administration of 5 mg oxybutynin chloride.
+Both enantiomers of oxybutynin are highly bound (>99%) to plasma proteins.
+Both enantiomers of N-desethyloxybutynin are also highly bound (>97%) to plasma proteins.
+The major binding protein is alpha-1 acid glycoprotein.
 
 ### Metabolism
 
@@ -69,7 +72,7 @@ Also, less than 0.1% of the administered dose is excreted as the metabolite dese
 
 ### Dose Proportionality
 
-Pharmacokinetic parameters of oxybutynin and desethyloxybutynin (Cmaxand AUC) following administration of 5–20 mg of DITROPAN XL® are dose proportional.
+Pharmacokinetic parameters of oxybutynin and desethyloxybutynin (Cmax and AUC) following administration of 5–20 mg of DITROPAN XL® are dose proportional.
 
 ### Special Populations
 
@@ -80,7 +83,7 @@ The pharmacokinetics of DITROPAN XL® were similar in all patients studied (up t
 #### Pediatric
 
 The pharmacokinetics of DITROPAN XL® were evaluated in 19 children aged 5–15 years with detrusor overactivity associated with a neurological condition (e.g., spina bifida).
-The pharmacokinetics of DITROPAN XL® in these pediatric patients were consistent with those reported for adults (see Tables 1 and 2, and Figures 1 and 2above).
+The pharmacokinetics of DITROPAN XL® in these pediatric patients were consistent with those reported for adults (see Tables 1 and 2, and Figures 1 and 2 above).
 
 #### Gender
 
@@ -100,4 +103,4 @@ There is no experience with the use of DITROPAN XL® in patients with hepatic in
 
 #### Drug-Drug Interactions
 
-SeePRECAUTIONS: Drug Interactions.
+See PRECAUTIONS: Drug Interactions.
