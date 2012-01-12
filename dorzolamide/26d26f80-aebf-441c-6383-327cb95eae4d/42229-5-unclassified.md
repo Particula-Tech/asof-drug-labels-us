@@ -2,7 +2,7 @@
 
 TRUSOPT® (dorzolamide hydrochloride ophthalmic solution) Sterile Ophthalmic Solution 2%
 
-Please follow these instructions carefully when using TRUSOPTRegistered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 2000 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Please follow these instructions carefully when using TRUSOPT®.
 Use TRUSOPT as prescribed by your doctor.
 
 1. If you use other topically applied ophthalmic medications, they should be administered at least 10 minutes before or after TRUSOPT.
@@ -14,7 +14,7 @@ Use TRUSOPT as prescribed by your doctor.
    Do not pull the cap directly up and away from the bottle.
    Pulling the cap directly up will prevent your dispenser from operating properly.
 6. Tilt your head back and pull your lower eyelid down slightly to form a pocket between your eyelid and your eye.
-7. Invert the bottle, and press lightly with the thumb or index finger over the “Finger Push Area” (as shown) until a single drop is dispensed into the eye as directed by your doctor.
+7. Invert the bottle, and press lightly with the thumb or index finger over the "Finger Push Area" (as shown) until a single drop is dispensed into the eye as directed by your doctor.
    DO NOT TOUCH YOUR EYE OR EYELID WITH THE DROPPER TIP.
    OPHTHALMIC MEDICATIONS, IF HANDLED IMPROPERLY, CAN BECOME CONTAMINATED BY COMMON BACTERIA KNOWN TO CAUSE EYE INFECTIONS.
    SERIOUS DAMAGE TO THE EYE AND SUBSEQUENT LOSS OF VISION MAY RESULT FROM USING CONTAMINATED OPHTHALMIC MEDICATIONS.
@@ -33,10 +33,12 @@ WARNING: Keep out of reach of children.
 
 If you have any questions about the use of TRUSOPT, please consult your doctor.
 
-Issued December 2009
+Issued August 2011
 
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., Inc., Whitehouse Station, NJ 08889, USA
 
-By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
+By: Laboratoires Merck Sharp & Dohme-Chibret Clermont Ferrand Cedex 9, 63963, France
 
-9368211
+Copyright © 2000 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+
+9368212

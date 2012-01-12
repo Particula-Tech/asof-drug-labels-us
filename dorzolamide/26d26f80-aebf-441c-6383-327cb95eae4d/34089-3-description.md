@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-TRUSOPTRegistered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 1994, 2003 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved (dorzolamide hydrochloride ophthalmic solution) is a carbonic anhydrase inhibitor formulated for topical ophthalmic use.
+TRUSOPT® (dorzolamide hydrochloride ophthalmic solution) is a carbonic anhydrase inhibitor formulated for topical ophthalmic use.
 
 Dorzolamide hydrochloride is described chemically as: (4S-trans)-4-(ethylamino)-5,6-dihydro-6-methyl-4H-thieno[2,3-b]thiopyran-2-sulfonamide 7,7-dioxide monohydrochloride.
 Dorzolamide hydrochloride is optically active.
