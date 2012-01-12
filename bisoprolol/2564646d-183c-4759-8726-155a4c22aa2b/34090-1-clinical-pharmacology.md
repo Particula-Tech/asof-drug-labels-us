@@ -2,10 +2,7 @@
 
 Bisoprolol fumarate is a beta 1 -selective (cardioselective) adrenoceptor blocking agent without significant membrane stabilizing activity or intrinsic sympathomimetic activity in its therapeutic dosage range.
 Cardioselectivity is not absolute, however, and at higher doses (≥20 mg) bisoprolol fumarate also inhibits beta 2 -adrenoceptors, chiefly located in the bronchial and vascular musculature; to retain selectivity it is therefore important to use the lowest effective dose.
-
-## Pharmacokinetics and Metabolism
-
-The absolute bioavailability after a 10 mg oral dose of bisoprolol fumarate is about 80%.
+Pharmacokinetics and Metabolism The absolute bioavailability after a 10 mg oral dose of bisoprolol fumarate is about 80%.
 Absorption is not affected by the presence of food.
 The first pass metabolism of bisoprolol fumarate is about 20%.
 Binding to serum proteins is approximately 30%.
@@ -22,10 +19,7 @@ Less than 2% of the dose is excreted in the feces.
 Bisoprolol fumarate is not metabolized by cytochrome P450 II D6 (debrisoquin hydroxylase).
 In subjects with creatinine clearance less than 40 mL/min, the plasma half-life is increased approximately threefold compared to healthy subjects.
 In patients with cirrhosis of the liver, the elimination of bisoprolol fumarate is more variable in rate and significantly slower than that in healthy subjects, with plasma half-life ranging from 8.3 to 21.7 hours.
-
-## Pharmacodynamics
-
-The most prominent effect of bisoprolol fumarate is the negative chronotropic effect, resulting in a reduction in resting and exercise heart rate.
+Pharmacodynamics The most prominent effect of bisoprolol fumarate is the negative chronotropic effect, resulting in a reduction in resting and exercise heart rate.
 There is a fall in resting and exercise cardiac output with little observed change in stroke volume, and only a small increase in right atrial pressure, or pulmonary capillary wedge pressure at rest or during exercise.
 Findings in short-term clinical hemodynamics studies with bisoprolol fumarate are similar to those observed with other beta-blocking agents.
 The mechanism of action of its antihypertensive effects has not been completely established.
@@ -45,33 +39,28 @@ In U.S. placebo-controlled trials, changes in total cholesterol averaged +0.8% f
 Changes in triglycerides averaged +19% for bisoprolol fumarate-treated patients, and +17% for placebo.
 Bisoprolol fumarate has also been given concomitantly with thiazide diuretics.
 Even very low doses of hydrochlorothiazide (6.25 mg) were found to be additive with bisoprolol fumarate in lowering blood pressure in patients with mild-to-moderate hypertension.
-
-## CLINICAL STUDIES
-
-In two randomized double-blind placebo-controlled trials conducted in the U.S., reductions in systolic and diastolic blood pressure and heart rate 24 hours after dosing in patients with mild-to-moderate hypertension are shown below.
+CLINICAL STUDIES In two randomized double-blind placebo-controlled trials conducted in the U.S., reductions in systolic and diastolic blood pressure and heart rate 24 hours after dosing in patients with mild-to-moderate hypertension are shown below.
 In both studies, mean systolic/diastolic blood pressures at baseline were approximately 150/100 mm Hg, and mean heart rate was 76 bpm.
 Drug effect is calculated by subtracting the placebo effect from the overall change in blood pressure and heart rate.
 
-Sitting Systolic/Diastolic Pressure (BP) and Heart Rate (HR) Mean Decrease (Δ) After 3 to 4 Weeks
+Sitting Systolic/Diastolic Pressure (BP) and Heart Rate (HR) Mean Decrease (D) After 3 to 4 Weeks
 
-| 5 mg | 10 mg | 20 mg |  |  |
+|  | Placebo | 5 mg | 10 mg | 20 mg |
 | --- | --- | --- | --- | --- |
-| Study A | Placebo | Bisoprolol Fumarate |  |  |
+| Study A |  | Bisoprolol Fumarate |  |  |
 | n= | 61 | 61 | 61 | 61 |
 | Total ΔBP (mm Hg) | 5.4/3.2 | 10.4/8 | 11.2/10.9 | 12.8/11.9 |
 | Drug Effecta | - | 5/4.8 | 5.8/7.7 | 7.4/8.7 |
 | Total ΔHR (bpm) | 0.5 | 7.2 | 8.7 | 11.3 |
 | Drug Effecta | - | 6.7 | 8.2 | 10.8 |
-
-| 2.5 mg | 10 mg |  |  |
-| --- | --- | --- | --- |
-| Study B | Placebo | Bisoprolol Fumarate |  |
-| n= | 56 | 59 | 62 |
-| Total ΔBP (mm Hg) | 3/3.7 | 7.6/8.1 | 13.5/11.2 |
-| Drug Effecta | - | 4.6/4.4 | 10.5/7.5 |
-| Total ΔHR (bpm) | 1.6 | 3.8 | 10.7 |
-| Drug Effecta | - | 2.2 | 9.1 |
-| a Observed total change from baseline minus placebo. |  |  |  |
+| Study B |  | Bisoprolol Fumarate |  |  |
+|  | Placebo | 2.5 mg | 10 mg |  |
+| n= | 56 | 59 | 62 |  |
+| Total ΔBP (mm Hg) | 3/3.7 | 7.6/8.1 | 13.5/11.2 |  |
+| Drug Effecta | - | 4.6/4.4 | 10.5/7.5 |  |
+| Total ΔHR (bpm) | 1.6 | 3.8 | 10.7 |  |
+| Drug Effecta | - | 2.2 | 9.1 |  |
+| a Observed total change from baseline minus placebo. |  |  |  |  |
 
 Blood pressure responses were seen within one week of treatment and changed little thereafter.
 They were sustained for 12 weeks and for over a year in studies of longer duration.

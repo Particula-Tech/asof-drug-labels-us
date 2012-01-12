@@ -1,28 +1,17 @@
 # WARNINGS
 
-## Cardiac Failure
-
-Sympathetic stimulation is a vital component supporting circulatory function in the setting of congestive heart failure, and beta-blockade may result in further depression of myocardial contractility and precipitate more severe failure.
+Cardiac Failure Sympathetic stimulation is a vital component supporting circulatory function in the setting of congestive heart failure, and beta-blockade may result in further depression of myocardial contractility and precipitate more severe failure.
 In general, beta-blocking agents should be avoided in patients with overt congestive failure.
 However, in some patients with compensated cardiac failure it may be necessary to utilize them.
 In such a situation, they must be used cautiously.
-
-## In Patients Without a History of Cardiac Failure
-
-Continued depression of the myocardium with beta-blockers can, in some patients, precipitate cardiac failure.
+In Patients Without a History of Cardiac Failure Continued depression of the myocardium with beta-blockers can, in some patients, precipitate cardiac failure.
 At the first signs or symptoms of heart failure, discontinuation of bisoprolol fumarate should be considered.
 In some cases, beta-blocker therapy can be continued while heart failure is treated with other drugs.
-
-## Abrupt Cessation of Therapy
-
-Exacerbation of angina pectoris, and, in some instances, myocardial infarction or ventricular arrhythmia, have been observed in patients with coronary artery disease following abrupt cessation of therapy with beta-blockers.
+Abrupt Cessation of Therapy Exacerbation of angina pectoris, and, in some instances, myocardial infarction or ventricular arrhythmia, have been observed in patients with coronary artery disease following abrupt cessation of therapy with beta-blockers.
 Such patients should, therefore, be cautioned against interruption or discontinuation of therapy without the physician‘s advice.
 Even in patients without overt coronary artery disease, it may be advisable to taper therapy with bisoprolol fumarate over approximately one week with the patient under careful observation.
 If withdrawal symptoms occur, bisoprolol fumarate therapy should be reinstituted, at least temporarily.
-
-## Peripheral Vascular Disease
-
-Beta-blockers can precipitate or aggravate symptoms of arterial insufficiency in patients with peripheral vascular disease.
+Peripheral Vascular Disease Beta-blockers can precipitate or aggravate symptoms of arterial insufficiency in patients with peripheral vascular disease.
 Caution should be exercised in such individuals.
 
 ## Bronchospastic Disease
@@ -31,33 +20,18 @@ PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKE
 Because of its relative beta1-selectivity, however, bisoprolol fumarate may be used with caution in patients with bronchospastic disease who do not respond to, or who cannot tolerate other antihypertensive treatment.
 Since beta1-selectivity is not absolute, the lowest possible dose of bisoprolol fumarate should be used, with therapy starting at 2.5 mg.
 A beta2 agonist (bronchodilator) should be made available.
-
-## Anesthesia and Major Surgery
-
-If bisoprolol fumarate treatment is to be continued perioperatively, particular care should be taken when anesthetic agents which depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used.
-See OVERDOSAGE for information on treatment of bradycardia and hypotension.
-
-## Diabetes and Hypoglycemia
-
-Beta-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
+Major Surgery Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+Diabetes and Hypoglycemia Beta-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
 Nonselective beta-blockers may potentiate insulin-induced hypoglycemia and delay recovery of serum glucose levels.
 Because of its beta 1 -selectivity, this is less likely with bisoprolol fumarate.
 However, patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, should be cautioned about these possibilities and bisoprolol fumarate should be used with caution.
-
-## Thyrotoxicosis
-
-Beta-adrenergic blockade may mask clinical signs of hyperthyroidism, such as tachycardia.
+Thyrotoxicosis Beta-adrenergic blockade may mask clinical signs of hyperthyroidism, such as tachycardia.
 Abrupt withdrawal of beta-blockade may be followed by an exacerbation of the symptoms of hyperthyroidism or may precipitate thyroid storm.
 
 # PRECAUTIONS
 
-## Impaired Renal or Hepatic Function
-
-Use caution in adjusting the dose of bisoprolol fumarate in patients with renal or hepatic impairment (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION ).
-
-## Drug Interactions
-
-Bisoprolol fumarate should not be combined with other beta-blocking agents.
+Impaired Renal or Hepatic Function Use caution in adjusting the dose of bisoprolol fumarate in patients with renal or hepatic impairment (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION ).
+Drug Interactions Bisoprolol fumarate should not be combined with other beta-blocking agents.
 Patients receiving catecholamine-depleting drugs, such as reserpine or guanethidine, should be closely monitored, because the added beta-adrenergic blocking action of bisoprolol fumarate may produce excessive reduction of sympathetic activity.
 In patients receiving concurrent therapy with clonidine, if therapy is to be discontinued, it is suggested that bisoprolol fumarate be discontinued for several days before the withdrawal of clonidine.
 Bisoprolol fumarate should be used with care when myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine [verapamil] and benzothiazepine [diltiazem] classes), or antiarrhythmic agents, such as disopyramide, are used concurrently.
@@ -65,7 +39,7 @@ Both digitalis glycosides and beta-blockers slow atrioventricular conduction and
 Concomitant use can increase the risk of bradycardia.
 Concurrent use of rifampin increases the metabolic clearance of bisoprolol fumarate, resulting in a shortened elimination half-life of bisoprolol fumarate.
 However, initial dose modification is generally not necessary.
-Pharmacokinetic studies document no clinically relevant interactions with other agents given concomitantly, including thiazide diuretics, digoxin, and cimetidine.
+Pharmacokinetic studies document no clinically relevant interactions with other agents given concomitantly, including thiazide diuretics and cimetidine.
 There was no effect of bisoprolol fumarate on prothrombin time in patients on stable doses of warfarin.
 Risk of Anaphylactic Reaction: While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reactions.
