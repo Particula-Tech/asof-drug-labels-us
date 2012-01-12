@@ -57,7 +57,7 @@ This longer duration of gastric acid suppression is consistent with the decrease
 
 PRINCIPAL DISPLAY PANEL - 40 MG TABLETS
 
-NDC 42998-964-09
+NDC 42998-649-09
 
 Pepcid® (Famotidine) Tablets, USP
 
