@@ -14,3 +14,5 @@ As the pivotal study was an active controlled trial, the treatment effects shown
 
 A subgroup of 283 patients was studied with ambulatory blood pressure monitoring.
 The blood pressure lowering effect in the triple therapy group was maintained throughout the 24-hour period (see Figure 4 and Figure 5).
+
+There are no trials of the Exforge HCT combination tablet demonstrating reductions in cardiovascular risk in patients with hypertension, but both the amlodipine and hydrochlorothiazide components and several ARBs, which are the same pharmacological class as the valsartan component, have demonstrated such benefits.

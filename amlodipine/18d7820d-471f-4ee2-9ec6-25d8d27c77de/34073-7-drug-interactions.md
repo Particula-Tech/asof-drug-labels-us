@@ -37,6 +37,12 @@ Co-administration of valsartan and warfarin did not change the pharmacokinetics 
 
 As with other drugs that block angiotensin II or its effects, concomitant use of potassium sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
 
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including valsartan, may result in deterioration of renal function, including possible acute renal failure.
+These effects are usually reversible.
+Monitor renal function periodically in patients receiving valsartan and NSAID therapy.
+
+The antihypertensive effect of angiotensin II receptor antagonists, including valsartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
+
 Hydrochlorothiazide
 
 When administered concurrently the following drugs may interact with thiazide diuretics:

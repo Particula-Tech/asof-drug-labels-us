@@ -58,7 +58,7 @@ Especially tell your doctor if you take:
 - narcotic pain medicines
 - sleeping pills and anti-seizure medicines called barbiturates
 - lithium, a medicine used to treat some types of depression
-- aspirin or other medicines called non-steriodal anti-inflammatory drugs (NSAIDs)
+- aspirin or other medicines called non-steroidal anti-inflammatory drugs (NSAIDs), like ibuprofen or naproxen
 - steroids
 - cholesterol lowering medicine
 - alcohol
@@ -167,7 +167,7 @@ What is high blood pressure (hypertension)?
 Blood pressure is the force of blood in your blood vessels when your heart beats and when your heart rests.
 You have high blood pressure when the force is too much.
 EXFORGE HCT can help your blood vessels relax so your blood pressure is lower.
-Drugs that lower blood pressure lower your chance of having a stroke or heart attack.
+Medicines that lower blood pressure lower your chance of having a stroke or heart attack.
 
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to blood vessels.
 If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure and vision problems.
@@ -180,6 +180,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2011-134/T2011-97
-
-October 2011/February 2011
+T2012-07/T2012-08 December 2011/December 2011
