@@ -223,7 +223,7 @@ Primary Endpoint Events† within Demographic Subgroups
 
 Symbols are proportional to sample size.
 
-* Other includes Asian, Hispanic,Multi-race, Indian, Native American, European.
+* Other includes Asian, Hispanic, Asiatic, Multi-race, Indian, Native American, European.
 
 † Adjsuted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy.
 
@@ -240,7 +240,7 @@ However, the LIFE study provides no evidence that the benefits of losartan potas
 
 Nephropathy in Type 2 Diabetic Patients:
 
-The Reduction of Endpoints in NIDDM with the Angiotensin II Receptor Antagonist Losartan (RENAAL) study was a randomized, placebo controlled, double-blind, multicenter study conducted worldwide in 1513 patients with type 2 diabetes with nephropathy (defined as serum creatinine 1.3 to 3.0 mg/dl in females or males <60 kg and 1.5 to 3.0 mg/dl in males >60 kg and proteinuria [urinary albumin to creatinine ratio >300 mg/g]).
+The Reduction of Endpoints in NIDDM with the Angiotensin II Receptor Antagonist Losartan (RENAAL) study was a randomized, placebo controlled, double-blind, multicenter study conducted worldwide in 1513 patients with type 2 diabetes with nephropathy (defined as serum creatinine 1.3 to 3.0 mg/dl in females or males <60 kg and 1.5 to 3.0 mg/dl in males ≤60 kg and proteinuria [urinary albumin to creatinine ratio ≥300 mg/g]).
 
 Patients were randomized to receive losartan potassium tablet 50 mg once daily or placebo on a background of conventional antihypertensive therapy excluding ACE inhibitors and angiotensin II antagonists.
 After one month, investigators were instructed to titrate study drug to 100 mg once daily if the trough blood pressure goal (140/90 mmHg) was not achieved.

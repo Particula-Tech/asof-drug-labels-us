@@ -64,6 +64,7 @@ Especially tell your doctor if you are taking:
 - salt substitutes containing potassium
 - water pills (diuretics)
 - medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDS), including COX-2 inhibitors.
+- other medicines to reduce blood pressure
 
 ## How should I take losartan potassium tablets?
 
@@ -133,6 +134,6 @@ You can ask your pharmacist or doctor for information about losartan potassium t
 
 ## What are the ingredients in losartan potassium tablets?
 
-Active ingredients: losartan potassium
+Active ingredients: losartan potassium, USP
 
 Inactive ingredients: colloidal silica anhydrous, hydroxypropyl cellulose (low substituted), hypromellose, lactose monohydrate, magnesium stearate, maize starch (corn starch), microcrystalline cellulose, polyethylene glycol, sodium starch glycolate, talc and titanium dioxide.

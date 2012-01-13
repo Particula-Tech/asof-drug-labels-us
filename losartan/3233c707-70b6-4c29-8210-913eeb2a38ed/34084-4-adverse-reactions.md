@@ -81,7 +81,7 @@ In the LIFE study, adverse events with losartan potassium tablets were similar t
 
 In the RENAAL study involving 1513 patients treated with losartan potassium or placebo, the overall incidences of reported adverse experiences were similar for the two groups.
 Losartan potassium was generally well tolerated as evidenced by a similar incidence of discontinuations due to side effects compared to placebo (19% for losartan potassium, 24% for placebo).
-The adverse experiences, regardless of drug relationship, reported with an incidence of > 4% of patients treated with losartan potassium and occurring more commonly than placebo, on a background of conventional antihypertensive therapy, are shown in the table below.
+The adverse experiences, regardless of drug relationship, reported with an incidence of ≥ 4% of patients treated with losartan potassium and occurring more commonly than placebo, on a background of conventional antihypertensive therapy, are shown in the table below.
 
 |  | Losartan and Conventional Antihypertensive Therapy Incidence % (n=751) | Placebo and Conventional Antihypertensive Therapy Incidence % (n=762) |
 | --- | --- | --- |

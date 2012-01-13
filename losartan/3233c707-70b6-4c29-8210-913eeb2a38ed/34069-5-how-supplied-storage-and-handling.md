@@ -45,3 +45,19 @@ Protect from light.
 Dispense in a tight, light-resistant container.
 
 ***Trademark of Paddock Laboratories, Inc.
+
+Manufactured by:
+
+Cadila Healthcare Ltd.
+
+Ahmedabad, India
+
+Distributed by:
+
+Zydus Pharmaceuticals USA Inc.
+
+Pennington, NJ 08534
+
+Rev.: 01/12
+
+Revision Date: 2012/01/11
