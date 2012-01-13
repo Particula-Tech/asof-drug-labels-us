@@ -1,7 +1,9 @@
 Rx only
 
-Manufactured by: West-Ward Pharmaceuticals Eatontown, NJ 07724 USA
+Manufactured by:
 
-Revised January 2011
+WEST-WARD PHARMACEUTICALS Eatontown, NJ 07724 USA
 
-MLT-01119, E
+Revised September 2011
+
+462-274-11

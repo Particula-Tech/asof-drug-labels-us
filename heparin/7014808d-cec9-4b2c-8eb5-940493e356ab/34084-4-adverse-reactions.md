@@ -9,12 +9,12 @@ An overly prolonged clotting time or minor bleeding during therapy can usually b
 It should be appreciated that gastrointestinal or urinary tract bleeding during anticoagulant therapy may indicate the presence of an underlying occult lesion.
 Bleeding can occur at any site but certain specific hemorrhagic complications may be difficult to detect:
 
-- Adrenal hemorrhage, with resultant acute adrenal insufficiency, has occurred during anticoagulant therapy.
-  Therefore, such treatment should be discontinued in patients who develop signs and symptoms of acute adrenal hemorrhage and insufficiency.
-  Initiation of corrective therapy should not depend on laboratory confirmation of the diagnosis, since any delay in an acute situation may result in the patient’s death.
-- Ovarian (corpus luteum) hemorrhage developed in a number of women of reproductive age receiving short- or long-term anticoagulant therapy.
-  This complication, if unrecognized, may be fatal.
-- Retroperitoneal hemorrhage.
+1. Adrenal hemorrhage, with resultant acute adrenal insufficiency, has occurred during anticoagulant therapy.
+   Therefore, such treatment should be discontinued in patients who develop signs and symptoms of acute adrenal hemorrhage and insufficiency.
+   Initiation of corrective therapy should not depend on laboratory confirmation of the diagnosis, since any delay in an acute situation may result in the patient’s death.
+2. Ovarian (corpus luteum) hemorrhage developed in a number of women of reproductive age receiving short- or long-term anticoagulant therapy.
+   This complication, if unrecognized, may be fatal.
+3. Retroperitoneal hemorrhage.
 
 ## Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis) and Delayed Onset of HIT (With or Without Thrombosis).
 
@@ -29,7 +29,7 @@ These complications are much more common after intramuscular use, and such use i
 
 Generalized hypersensitivity reactions have been reported, with chills, fever and urticaria as the most usual manifestations, and asthma, rhinitis, lacrimation, headache, nausea and vomiting, and anaphylactoid reactions, including shock, occurring more rarely.
 Itching and burning, especially on the plantar side of the feet, may occur.
-(See Warnings, Precautions.)
+(See WARNINGS and PRECAUTIONS.)
 
 Certain episodes of painful, ischemic and cyanosed limbs have in the past been attributed to allergic vasospastic reactions.
 Whether these are in fact identical to the thrombocytopenia-associated complications remains to be determined.
