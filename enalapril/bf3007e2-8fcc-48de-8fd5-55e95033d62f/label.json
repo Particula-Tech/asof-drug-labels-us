@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019221"
+  ],
+  "inn": "enalapril",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-0146-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "enalapril maleate and hydrochlorothiazide",
+      "name": "Vaseretic"
+    }
+  ],
+  "setid": "bf3007e2-8fcc-48de-8fd5-55e95033d62f",
+  "source": "dailymed"
+}
