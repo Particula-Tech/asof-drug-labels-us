@@ -1,59 +1,273 @@
 # Medication Guide
 
-Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
+REMERON® (rĕm' - ĕ – rŏn) (mirtazapine) Tablets
 
-Read the Medication Guide that comes with you or your family member's antidepressant medicine.
-This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
-Talk to your, or your family member's, healthcare provider about:
+Read the Medication Guide that comes with REMERON before you start taking it and each time you get a refill.
+There may be new information.
+This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
+If you have any questions about REMERON, talk to your healthcare provider.
 
-- all risks and benefits of treatment with antidepressant medicines
-- all treatment choices for depression or other serious mental illness
+What is the most important information I should know about REMERON®?
 
-What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
+REMERON and other antidepressant medicines may cause serious side effects, including:
 
-- 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-- 2.Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-  Some people may have a particularly high risk of having suicidal thoughts or actions.
-  These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-- 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-  - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-    This is very important when an antidepressant medicine is started or when the dose is changed.
-  - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-  - Keep all follow-up visits with the healthcare provider as scheduled.
-    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+1.
+Suicidal thoughts or actions:
 
-Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
+- REMERON and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
+- Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
+- Watch for these changes and call your healthcare provider right away if you notice:
 
-- thoughts about suicide or dying
-- attempts to commit suicide
-- new or worse depression
-- new or worse anxiety
-- feeling very agitated or restless
-- panic attacks
-- trouble sleeping (insomnia)
-- new or worse irritability
-- acting aggressive, being angry, or violent
-- acting on dangerous impulses
-- an extreme increase in activity and talking (mania)
-- other unusual changes in behavior or mood
+- 
+  - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+  - Pay particular attention to such changes when REMERON is started or when the dose is changed.
 
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 
-What else do I need to know about antidepressant medicines?
+Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
 
-- Never stop an antidepressant medicine without first talking to a healthcare provider.
-  Stopping an antidepressant medicine suddenly can cause other symptoms.
-- Antidepressants are medicines used to treat depression and other illnesses.
-  It is important to discuss all the risks of treating depression and also the risks of not treating it.
-  Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
-- Antidepressant medicines have other side effects.
-  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
-- Antidepressant medicines can interact with other medicines.
-  Know all of the medicines that you or your family member takes.
-  Keep a list of all medicines to show the healthcare provider.
-  Do not start new medicines without first checking with your healthcare provider.
-- Not all antidepressant medicines prescribed for children are FDA approved for use in children.
-  Talk to your child's healthcare provider for more information.
+- 
+  - attempts to commit suicide
+  - acting on dangerous impulses
+  - acting aggressive or violent
+  - thoughts about suicide or dying
+  - new or worse depression
+  - new or worse anxiety or panic attacks
+  - feeling agitated, restless, angry or irritable
+  - trouble sleeping
+  - an increase in activity or talking more than what is normal for you
+  - other unusual changes in behavior or mood
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
+Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
+REMERON may be associated with these serious side effects:
+
+2.
+Manic episodes:
+
+- greatly increased energy
+- severe trouble sleeping
+- racing thoughts
+- reckless behavior
+- unusually grand ideas
+- excessive happiness or irritability
+- talking more or faster than usual
+
+3.
+Decreased White Blood Cells called neutrophils, which are needed to fight infections.
+Tell your doctor if you have any indication of infection such as fever, chills, sore throat, or mouth or nose sores, especially symptoms which are flu-like.
+
+4.
+Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
+This condition can be life-threatening and may include:
+
+- agitation, hallucinations, coma or other changes in mental status
+- coordination problems or muscle twitching (overactive reflexes)
+- racing heartbeat, high or low blood pressure
+- sweating or fever
+- nausea, vomiting, or diarrhea
+- muscle rigidity
+
+5.
+Seizures
+
+6.
+Low salt (sodium) levels in the blood.
+
+Elderly people may be at greater risk for this.
+Symptoms may include:
+
+- headache
+- weakness or feeling unsteady
+- confusion, problems concentrating or thinking or memory problems
+
+7.
+Sleepiness.
+It is best to take REMERON® close to bedtime.
+
+8.
+Severe skin reactions: Call your doctor right away if you have any or all of the following symptoms:
+
+- severe rash with skin swelling (including on the palms of the hands and soles of the feet)
+- painful reddening of the skin and/or blisters/ulcers on the body or in the mouth
+
+9.
+Severe allergic reactions: trouble breathing, swelling of the face, tongue, eyes or mouth
+
+- rash, itchy welts (hives) or blisters, alone or with fever or joint pain
+
+10.
+Increases in appetite or weight.
+Children and adolescents should have height and weight monitored during treatment.
+
+11.
+Increased cholesterol and triglyceride levels in your blood
+
+Do not stop REMERON without first talking to your healthcare provider.
+Stopping REMERON too quickly may cause potentially serious symptoms including:
+
+- dizziness
+- abnormal dreams
+- agitation
+- anxiety
+- fatigue
+- confusion
+- headache
+- shaking
+- tingling sensation
+- nausea, vomiting
+- sweating
+
+What is REMERON®?
+
+REMERON is a prescription medicine used to treat depression.
+It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
+You should discuss all treatment choices with your healthcare provider.
+
+Talk to your healthcare provider if you do not think that your condition is getting better with REMERON treatment.
+
+Who should not take REMERON®?
+
+Do not take REMERON if you:
+
+- are allergic to mirtazapine or any of the ingredients in REMERON.
+  See the end of this Medication Guide for a complete list of ingredients in REMERON.
+- take a Monoamine Oxidase Inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+
+- 
+  - it is recommended that REMERON not be used in combination with an MAOI within 14 days of initiating or discontinuing therapy with an MAOI.
+
+People who take REMERON close in time to an MAOI may have serious or even life-threatening side effects.
+Get medical help right away if you have any of these symptoms:
+
+- 
+  - high fever
+  - uncontrolled muscle spasms
+  - stiff muscles
+  - rapid changes in heart rate or blood pressure
+  - confusion
+  - loss of consciousness (pass out)
+
+What should I tell my healthcare provider before taking REMERON®?
+Ask if you are not sure.
+
+Before starting REMERON, tell your healthcare provider if you:
+
+- Are taking certain drugs such as:
+
+- 
+  - Triptans used to treat migraine headache
+  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, or antipsychotics
+  - Tramadol used to treat pain
+  - Over-the-counter supplements such as tryptophan or St. John's Wort
+  - Phenytoin, carbamazepine, or rifampicin (these drugs can decrease your blood level of REMERON)
+  - Cimetidine or ketoconazole (these drugs can increase your blood level of REMERON)
+
+- Have or had:
+
+- 
+  - liver problems
+  - kidney problems
+  - heart problems
+  - seizures or convulsions
+  - bipolar disorder or mania
+  - a tendency to get dizzy or faint
+
+- are pregnant or plan to become pregnant.
+  It is not known if REMERON will harm your unborn baby.
+  Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy
+- are breast-feeding or plan to breast-feed.
+  Some REMERON may pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby while taking REMERON
+
+Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+REMERON and some medicines may interact with each other, may not work as well, or may cause serious side effects.
+
+Your healthcare provider or pharmacist can tell you if it is safe to take REMERON with your other medicines.
+Do not start or stop any medicine while taking REMERON without talking to your healthcare provider first.
+
+How should I take REMERON®?
+
+- Take REMERON exactly as prescribed.
+  Your healthcare provider may need to change the dose of REMERON until it is the right dose for you.
+- Take REMERON at the same time each day, preferably in the evening at bedtime.
+- Swallow REMERON as directed.
+- It is common for antidepressant medicines such as REMERON to take up to a few weeks before you start to feel better.
+  Do not stop taking REMERON if you do not feel results right away.
+- Do not stop taking or change the dose of REMERON without first talking to your doctor, even if you feel better.
+- REMERON may be taken with or without food.
+- If you miss a dose of REMERON, take the missed dose as soon as you remember.
+  If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
+  Do not take two doses of REMERON at the same time.
+- If you take too much REMERON, call your healthcare provider or poison control center right away, or get emergency treatment.
+
+What should I avoid while taking REMERON®?
+
+- REMERON can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
+  You should not drive, operate heavy machinery, or do other dangerous activities until you know how REMERON affects you.
+- Avoid drinking alcohol or taking diazepam (a medicine used for anxiety, insomnia and seizures, for example) or similar medicines while taking REMERON.
+  If you are uncertain about whether certain medication can be taken with REMERON, please discuss with your doctor.
+
+What are the possible side effects of REMERON®?
+
+REMERON may cause serious side effects, including all of those described in the section entitled "What is the most important information I should know about REMERON®?"
+
+Common possible side effects in people who take REMERON include:
+
+- sleepiness
+- increased appetite, weight gain
+- dry mouth
+- constipation
+- dizziness
+- abnormal dreams
+
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+These are not all the possible side effects of REMERON.
+For more information, ask your healthcare provider or pharmacist.
+
+CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
+YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
+
+How should I store REMERON®?
+
+- Store REMERON at room temperature 25°C (77°F).
+  Storage at 15°C-30°C (59°F-86°F) is permitted occasionally.
+- Keep REMERON away from light.
+- Keep REMERON bottle closed tightly.
+
+Keep REMERON and all medicines out of the reach of children.
+
+General information about REMERON®
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use REMERON for a condition for which it was not prescribed.
+Do not give REMERON to other people, even if they have the same condition.
+It may harm them.
+
+This Medication Guide summarizes the most important information about REMERON.
+If you would like more information, talk with your healthcare provider.
+You may ask your healthcare provider or pharmacist for information about REMERON that is written for healthcare professionals.
+
+For more information about REMERON call 1-800-526-4099 or go to www.REMERON.com.
+
+What are the ingredients in REMERON®?
+
+Active ingredient: mirtazapine
+
+Inactive ingredients:
+
+- 15mg tablets: Starch (corn), hydroxypropyl cellulose, magnesium stearate, colloidal silicon dioxide, lactose, hypromellose, polyethylene glycol 8000, titanium dioxide, ferric oxide (yellow).
+- 30mg tablets: Starch (corn), hydroxypropyl cellulose, magnesium stearate, colloidal silicon dioxide, lactose, hypromellose, polyethylene glycol 8000, titanium dioxide, ferric oxide (yellow), ferric oxide (red).
+- 45mg tablets: Starch (corn), hydroxypropyl cellulose, magnesium stearate, colloidal silicon dioxide, lactose, hypromellose, polyethylene glycol 8000, titanium dioxide.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Copyright © 2007, 2009 N.V.
+Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
+
+Rev.12/11 900246-MRZ-TB-MG.5
+
+Manufactured by: N.V.
+Organon, Oss, The Netherlands, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+
+Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA

@@ -1,12 +1,12 @@
 Rx only
 
-Manufactured by N.V.
-Organon, Oss, The Netherlands.
+Manufactured by: N.V.
+Organon, Oss, The Netherlands, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
-Distributed by Schering Corporation, a subsidiary of Schering-Plough Corporation, Kenilworth, NJ 07033 USA.
+Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA.
 
-© 1996, 2007, 20XX, Schering Corporation.
-All rights reserved.
+Copyright © 1996, 2010 N.V.
+Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
 
 Rev.
-5/10
+12/11 900246-MRZ-TB-USPI.5

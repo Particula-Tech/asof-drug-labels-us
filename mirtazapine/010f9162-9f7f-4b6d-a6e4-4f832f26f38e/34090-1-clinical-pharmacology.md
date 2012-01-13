@@ -31,7 +31,7 @@ Several unconjugated metabolites possess pharmacological activity but are presen
 The (–) enantiomer has an elimination half-life that is approximately twice as long as the (+) enantiomer and therefore achieves plasma levels that are about 3 times as high as that of the (+) enantiomer.
 
 Plasma levels are linearly related to dose over a dose range of 15 to 80 mg.
-The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs 26 hours for males).
+The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs. 26 hours for males).
 Steady state plasma levels of mirtazapine are attained within 5 days, with about 50% accumulation (accumulation ratio = 1.5).
 
 Mirtazapine is approximately 85% bound to plasma proteins over a concentration range of 0.01 to 10 mcg/mL.

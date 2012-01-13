@@ -64,11 +64,20 @@ If a patient develops a sore throat, fever, stomatitis, or other signs of infect
 In patients receiving other drugs for major depressive disorder in combination with a monoamine oxidase inhibitor (MAOI) and in patients who have recently discontinued a drug for major depressive disorder and then are started on an MAOI, there have been reports of serious and sometimes fatal reactions, including nausea, vomiting, flushing, dizziness, tremor, myoclonus, rigidity, diaphoresis, hyperthermia, autonomic instability with rapid fluctuations of vital signs, seizures, and mental status changes ranging from agitation to coma.
 Although there are no human data pertinent to such an interaction with REMERON (mirtazapine) Tablets, it is recommended that REMERON not be used in combination with an MAOI, or within 14 days of initiating or discontinuing therapy with an MAOI.
 
-## Serotonin Syndrome
+## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-On rare occasions serotonin syndrome has occurred in association with treatment of REMERON Tablets, particularly when given in combination with other serotonergic drugs.
-As serotonin syndrome may result in potentially life-threatening conditions, treatment with REMERON should be discontinued if patients develop a combination of symptoms possibly including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, mental status changes including confusion, irritability, extreme agitation progressing to delirium and coma, and supportive symptomatic treatment should be initiated.
-Due to the risk of serotonin syndrome, REMERON should not be used in combination with MAO inhibitors or serotonin-precursors (such as L-tryptophan and oxitriptan) and should be used with caution in patients receiving other serotonergic drugs (e.g., triptans, lithium, tramadol, St. John's wort, and most tricyclic antidepressants) (see CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions).
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SSRIs, SNRIs, MAOIs, and other serotonergic drugs used as monotherapy, including REMERON, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
+
+The concomitant use of REMERON with MAOIs intended to treat depression is contraindicated [see CONTRAINDICATIONS].
+
+If concomitant treatment of REMERON with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+
+The concomitant use of REMERON with serotonin precursors (such as tryptophan) is not recommended.
+
+Treatment with REMERON and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 # PRECAUTIONS
 
@@ -257,7 +266,7 @@ In an in vivo interaction study in healthy, CYP2D6 extensive metabolizer patient
 
 #### Amitriptyline
 
-Amitriptyline: In healthy, CYP2D6 extensive metabolizer patients (n=32), amitriptyline (75 mg daily), at steady state, did not cause relevant changes to the pharmacokinetics of steady state mirtazapine (30 mg daily); mirtazapine also did not cause relevant changes to the pharmacokinetics of amitriptyline.
+In healthy, CYP2D6 extensive metabolizer patients (n=32), amitriptyline (75 mg daily), at steady state, did not cause relevant changes in the pharmacokinetics of steady state mirtazapine (30 mg daily); mirtazapine also did not cause relevant changes to the pharmacokinetics of amitriptyline.
 
 #### Warfarin
 
@@ -321,12 +330,11 @@ Because animal reproduction studies are not always predictive of human response,
 
 ## Nursing Mothers
 
-It is not known whether mirtazapine is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when REMERON (mirtazapine) Tablets are administered to nursing women.
+Because some REMERON may be excreted into breast milk, caution should be exercised when REMERON (mirtazapine) Tablets are administered to nursing women.
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
+Safety and effectiveness in the pediatric population have not been established (see BOXED WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
 Two placebo-controlled trials in 258 pediatric patients with MDD have been conducted with REMERON (mirtazapine) Tablets, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of REMERON in a child or adolescent must balance the potential risks with the clinical need.
 
