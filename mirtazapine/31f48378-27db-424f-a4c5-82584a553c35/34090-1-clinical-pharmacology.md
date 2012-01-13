@@ -24,7 +24,7 @@ The presence of food in the stomach has a minimal effect on both the rate and ex
 REMERONSolTab Orally Disintegrating Tablets are bioequivalent to REMERON® (mirtazapine) Tablets.
 
 Mirtazapine is extensively metabolized after oral administration.
-Major pathways of biotransformation are demethylation and hydroxylation followed by glucuronide conjugation.
+Major pathways of bio-transformation are demethylation and hydroxylation followed by glucuronide conjugation.
 In vitro data from human liver microsomes indicate that cytochrome 2D6 and 1A2 are involved in the formation of the 8-hydroxy metabolite of mirtazapine, whereas cytochrome 3A is considered to be responsible for the formation of the N-desmethyl and N-oxide metabolite.
 Mirtazapine has an absolute bioavailability of about 50%.
 It is eliminated predominantly via urine (75%) with 15% in feces.
