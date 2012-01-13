@@ -1,0 +1,15 @@
+# PRINCIPAL DISPLAY PANEL - 60 grams Tube Carton
+
+60 GRAMS
+
+SYNALAR® [FLUOCINOLONE ACETONIDE]
+
+CREAM 0.025%
+
+NDC 99207-501-17 FOR TOPICAL USE ONLY
+
+NOT FOR OPHTHALMIC USE
+
+CAUTION: Federal law prohibits dispensing without prescription.
+
+MEDICIS The Dermatology Company™
