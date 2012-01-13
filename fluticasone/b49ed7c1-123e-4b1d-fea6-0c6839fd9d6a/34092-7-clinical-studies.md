@@ -2,7 +2,7 @@
 
 ## 14.1 Adult and Adolescent Patients Aged 12 Years and Older
 
-Three randomized, double-blind, parallel-group, placebo-controlled, US clinical trials were conducted in 980 adult and adolescent patients (aged ≥12 years) with asthma to assess the efficacy and safety of FLOVENT HFA in the treatment of asthma.
+Three randomized, double-blind, parallel-group, placebo-controlled, US clinical trials were conducted in 980 adult and adolescent patients (aged 12 years and older) with asthma to assess the efficacy and safety of FLOVENT HFA in the treatment of asthma.
 Fixed dosages of 88, 220, and 440 mcg twice daily (each dose administered as 2 inhalations of the 44-, 110-, and 220-mcg strengths, respectively) and 880 mcg twice daily (administered as 4 inhalations of the 220-mcg strength) were compared with placebo to provide information about appropriate dosing to cover a range of asthma severity.
 Patients in these studies included those inadequately controlled with bronchodilators alone (Study 1), those already receiving inhaled corticosteroids (Study 2), and those requiring oral corticosteroid therapy (Study 3).
 In all 3 studies, patients (including placebo-treated patients) were allowed to use VENTOLIN® (albuterol, USP) Inhalation Aerosol as needed for relief of acute asthma symptoms.

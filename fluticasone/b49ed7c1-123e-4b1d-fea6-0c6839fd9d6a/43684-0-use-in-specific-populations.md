@@ -5,10 +5,10 @@
 Pregnancy Category C. There are no adequate and well-controlled studies with FLOVENT HFA in pregnant women.
 FLOVENT HFA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Teratogenic Effects: Subcutaneous studies in mice at a dose approximately 0.1 times the maximum recommended human daily inhalation dose (MRHD) in adults on an mg/m2 basis and in the rat at a dose approximately 0.5 times the MRHD in adults on an mg/m2 basis revealed fetal toxicity characteristic of potent corticosteroid compounds, including embryonic growth retardation, omphalocele, cleft palate, and retarded cranial ossification.
+Teratogenic Effects: Subcutaneous studies in mice at a dose approximately 0.1 times the maximum recommended human daily inhalation dose (MRHD) in adults on a mg/m2 basis and in the rat at a dose approximately 0.5 times the MRHD in adults on a mg/m2 basis revealed fetal toxicity characteristic of potent corticosteroid compounds, including embryonic growth retardation, omphalocele, cleft palate, and retarded cranial ossification.
 
-In rabbits, fetal weight reduction and cleft palate were observed at a subcutaneous dose approximately 0.04 times the MRHD in adults on an mg/m2 basis.
-However, no teratogenic effects were reported at oral doses up to approximately 3 times the MRHD in adults on an mg/m2 basis.
+In rabbits, fetal weight reduction and cleft palate were observed at a subcutaneous dose approximately 0.04 times the MRHD in adults on a mg/m2 basis.
+However, no teratogenic effects were reported at oral doses up to approximately 3 times the MRHD in adults on a mg/m2 basis.
 No fluticasone propionate was detected in the plasma in this study, consistent with the established low bioavailability following oral administration [see Clinical Pharmacology (12.3)].
 
 Experience with oral corticosteroids since their introduction in pharmacologic, as opposed to physiologic, doses suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
@@ -18,7 +18,7 @@ In addition, because there is a natural increase in corticosteroid production du
 
 It is not known whether fluticasone propionate is excreted in human breast milk.
 However, other corticosteroids have been detected in human milk.
-Subcutaneous administration to lactating rats of tritiated fluticasone propionate (approximately 0.05 times the MRHD in adults on an mg/m2 basis) resulted in measurable radioactivity in milk.
+Subcutaneous administration to lactating rats of tritiated fluticasone propionate (approximately 0.05 times the MRHD in adults on a mg/m2 basis) resulted in measurable radioactivity in milk.
 
 Since there are no data from controlled trials on the use of FLOVENT HFA by nursing mothers, caution should be exercised when FLOVENT HFA is administered to a nursing woman.
 
@@ -42,7 +42,7 @@ The growth of children and adolescents receiving orally inhaled corticosteroids,
 The potential growth effects of prolonged treatment should be weighed against the clinical benefits obtained and the risks associated with alternative therapies.
 To minimize the systemic effects of orally inhaled corticosteroids, including FLOVENT HFA, each patient should be titrated to the lowest dose that effectively controls his/her symptoms.
 
-Since a cross study comparison in adolescent and adult patients (aged ≥12 years) indicated that systemic exposure of inhaled fluticasone propionate from FLOVENT HFA would be higher than exposure from FLOVENT ROTADISK, results from a study to assess the potential growth effects of FLOVENT ROTADISK in pediatric patients (aged 4 to 11 years) are provided.
+Since a cross study comparison in adolescent and adult patients (aged 12 years and older) indicated that systemic exposure of inhaled fluticasone propionate from FLOVENT HFA would be higher than exposure from FLOVENT ROTADISK, results from a study to assess the potential growth effects of FLOVENT ROTADISK in pediatric patients (aged 4 to 11 years) are provided.
 
 A 52-week placebo-controlled study to assess the potential growth effects of fluticasone propionate inhalation powder (FLOVENT ROTADISK) at 50 and 100 mcg twice daily was conducted in the US in 325 prepubescent children (244 males and 81 females) aged 4 to 11 years.
 The mean growth velocities at 52 weeks observed in the intent-to-treat population were 6.32 cm/year in the placebo group (n = 76), 6.07 cm/year in the 50-mcg group (n = 98), and 5.66 cm/year in the 100-mcg group (n = 89).
@@ -56,17 +56,17 @@ Patients should be maintained on the lowest dose of inhaled corticosteroid that 
 
 Children Younger Than 4 Years:Pharmacokinetics:[see Clinical Pharmacology (12.3)].
 
-Pharmacodynamics: A 12-week, double-blind, placebo-controlled, parallel-group study was conducted in children with asthma aged 1 to <4 years.
+Pharmacodynamics: A 12-week, double-blind, placebo-controlled, parallel-group study was conducted in children with asthma aged 1 to less than 4 years.
 Twelve-hour overnight urinary cortisol excretion after a 12-week treatment period with 88 mcg of FLOVENT HFA twice daily (n = 73) and with placebo (n = 42) were calculated.
 The mean and median change from baseline in urine cortisol over 12 hours were -0.7 and 0.0 mcg for FLOVENT HFA and 0.3 and -0.2 mcg for placebo, respectively.
 
-In a 1-way crossover study in children aged 6 to <12 months with reactive airways disease (N = 21), serum cortisol was measured over a 12-hour dosing period.
+In a 1-way crossover study in children aged 6 to less than 12 months with reactive airways disease (N = 21), serum cortisol was measured over a 12-hour dosing period.
 Patients received placebo treatment for a 2-week period followed by a 4-week treatment period with 88 mcg of FLOVENT HFA twice daily with an AeroChamber Plus® Valved Holding Chamber (VHC) with face mask.
 The geometric mean ratio of serum cortisol over 12 hours (AUC0-12 hr) following FLOVENT HFA (n = 16) versus placebo (n = 18) was 0.95 (95% CI: 0.72, 1.27).
 
-Safety: FLOVENT HFA administered as 88 mcg twice daily has been evaluated for safety in 239 pediatric patients aged 1 to <4 years in a 12-week, double-blind, placebo-controlled study.
+Safety: FLOVENT HFA administered as 88 mcg twice daily has been evaluated for safety in 239 pediatric patients aged 1 to less than 4 years in a 12-week, double-blind, placebo-controlled study.
 Treatments were administered with an AeroChamber Plus VHC with face mask.
-In pediatric patients aged 1 to <4 years receiving FLOVENT HFA, the following events occurred with a frequency >3% and more frequently than in pediatric patients who received placebo, regardless of causality assessment: pyrexia, nasopharyngitis, upper respiratory tract infection, vomiting, otitis media, diarrhea, bronchitis, pharyngitis, and viral infection.
+In pediatric patients aged 1 to less than 4 years receiving FLOVENT HFA, the following events occurred with a frequency greater than 3% and more frequently than in pediatric patients who received placebo, regardless of causality assessment: pyrexia, nasopharyngitis, upper respiratory tract infection, vomiting, otitis media, diarrhea, bronchitis, pharyngitis, and viral infection.
 
 FLOVENT HFA administered as 88 mcg twice daily has also been evaluated for safety in 23 pediatric patients aged 6 to 12 months in an open-label placebo-controlled study.
 Treatments were administered with an AeroChamber Plus VHC with face mask for 2 weeks with placebo followed by 4 weeks with active drug.

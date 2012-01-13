@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling tear-off leaflet below.
+See FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 ## 17.1 Oral Candidiasis
 
@@ -59,11 +59,11 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2011, GlaxoSmithKline.
+©2012, GlaxoSmithKline.
 All rights reserved.
 
-January 2011
+January 2012
 
-FLH:3PI
+FLH:4PI
 
 PHARMACIST—DETACH HERE AND GIVE LEAFLET TO PATIENT

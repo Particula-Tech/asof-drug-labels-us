@@ -16,7 +16,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The incidence of common adverse reactions in Table 2 is based upon 2 placebo-controlled US clinical trials in which 812 adult and adolescent patients (457 females and 355 males) previously treated with as-needed bronchodilators and/or inhaled corticosteroids were treated twice daily for up to 12 weeks with 2 inhalations of FLOVENT HFA 44 mcg Inhalation Aerosol, FLOVENT HFA 110 mcg Inhalation Aerosol, FLOVENT HFA 220 mcg Inhalation Aerosol (dosages of 88, 220, or 440 mcg twice daily), or placebo.
 
 Table 2.
-Adverse Reactions With >3% Incidence in US Controlled Clinical Trials With FLOVENT HFA in Patients Aged ≥12 Years With Asthma Previously Receiving Bronchodilators and/or Inhaled Corticosteroids
+Adverse Reactions With >3% Incidence in US Controlled Clinical Trials With FLOVENT HFA in Patients Aged 12 Years and Older With Asthma Previously Receiving Bronchodilators and/or Inhaled Corticosteroids
 
 | Adverse Event | FLOVENT HFA88 mcgTwice Daily(n = 203)% | FLOVENT HFA220 mcgTwice Daily(n = 204)% | FLOVENT HFA440 mcgTwice Daily(n = 202)% | Placebo(n = 203)% |
 | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ The average duration of exposure was 73 to 76 days in the active treatment group
 Additional Adverse Reactions: Other adverse reactions not previously listed, whether considered drug-related or not by the investigators, that were reported more frequently by patients with asthma treated with FLOVENT HFA compared with patients treated with placebo include the following: rhinitis, rhinorrhea/post-nasal drip, nasal sinus disorders, laryngitis, diarrhea, viral gastrointestinal infections, dyspeptic symptoms, gastrointestinal discomfort and pain, hyposalivation, musculoskeletal pain, muscle pain, muscle stiffness/tightness/rigidity, dizziness, migraines, fever, viral infections, pain, chest symptoms, viral skin infections, muscle injuries, soft tissue injuries, urinary infections.
 
 Fluticasone propionate inhalation aerosol (440 or 880 mcg twice daily) was administered for 16 weeks to 168 patients with asthma requiring oral corticosteroids (Study 3).
-Adverse reactions not included above, but reported by >3 patients in either group treated with FLOVENT HFA and more commonly than in the placebo group included nausea and vomiting, arthralgia and articular rheumatism, and malaise and fatigue.
+Adverse reactions not included above, but reported by more than 3 patients in either group treated with FLOVENT HFA and more commonly than in the placebo group included nausea and vomiting, arthralgia and articular rheumatism, and malaise and fatigue.
 
 In 2 long-term studies (26 and 52 weeks), the pattern of adverse reactions in patients treated with FLOVENT HFA at dosages up to 440 mcg twice daily was similar to that observed in the 12-week studies.
 There were no new and/or unexpected adverse reactions with long-term treatment.
