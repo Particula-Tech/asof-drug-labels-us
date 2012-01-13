@@ -1,0 +1,15 @@
+# PRINCIPAL DISPLAY PANEL - 15 g Carton
+
+15 GRAMS
+
+SYNALAR® [FLUOCINOLONE ACETONIDE]
+
+OINTMENT 0.025%
+
+NDC 99207-504-13
+
+FOR TOPICAL USE ONLY NOT FOR OPHTHALMIC USE
+
+CAUTION: Federal law prohibits dispensing without prescription.
+
+MEDICIS The Dermatology Company®
