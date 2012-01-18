@@ -21,3 +21,7 @@ Store at 20° to 25°C (68° to 77°F).
 Protect from moisture and light.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+
+REVISED DECEMBER 2005 ALLO:R13
