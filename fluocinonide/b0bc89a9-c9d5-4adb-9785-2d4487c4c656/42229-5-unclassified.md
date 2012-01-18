@@ -3,6 +3,10 @@ Not For Ophthalmic Use.
 
 Rx only
 
-Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1 Issued: April, 2007
+Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1
 
-PK-4964-1 1040
+Dist. by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532
+
+Revised: April, 2010
+
+PK-4964-2 99

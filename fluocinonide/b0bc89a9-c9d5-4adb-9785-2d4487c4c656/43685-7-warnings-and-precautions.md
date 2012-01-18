@@ -21,7 +21,7 @@ When used on intertriginous or flexor areas, or on the face, this may occur even
 In the presence of dermatological infections, the use of an appropriate antifungal or antibacterial agent should be instituted.
 If a favorable response does not occur promptly, the corticosteroid should be discontinued until the infection has been adequately controlled.
 
-## Information for the patient
+## Information for the Patient
 
 Patients using topical corticosteroids should receive the following information and instructions:
 
@@ -30,7 +30,7 @@ Patients using topical corticosteroids should receive the following information 
    Avoid contact with the eyes.
 2. Patients should be advised not to use this medication for any disorder other than for which it was prescribed.
 3. The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive unless directed by the physician.
-4. Patients should report any signs of local adverse reactions especially under occlusive dressing.
+4. Patients should report any signs of local adverse reactions, especially under occlusive dressing.
 5. Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings.
 
 ## Laboratory Tests
@@ -50,7 +50,7 @@ Studies to determine mutagenicity with prednisolone and hydrocortisone have reve
 
 Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 The more potent corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
-There are no adequate and well controlled studies in pregnant women on teratogenic effects from topically applied corticosteroids.
+There are no adequate and well-controlled studies in pregnant women on teratogenic effects from topically applied corticosteroids.
 Therefore, topical corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Drugs of this class should not be used extensively on pregnant patients, in large amounts, or for prolonged periods of time.
 
