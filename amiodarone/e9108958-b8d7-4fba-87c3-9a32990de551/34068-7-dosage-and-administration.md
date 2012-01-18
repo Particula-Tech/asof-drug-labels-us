@@ -30,7 +30,7 @@ Intravenous amiodarone loading infusions at much higher concentrations and rates
 Intravenous amiodarone concentrations greater than 3 mg/mL have been associated with a high incidence of peripheral vein phlebitis; however, concentrations of 2.5 mg/mL or less appear to be less irritating.
 Therefore, for infusions longer than 1 hour, do not exceed NEXTERONE concentrations of 2 mg/mL, unless a central venous catheter is used [see Adverse Reactions (6.2)].
 
-NEXTERONE Premixed Injection is available in GALAXY® containers as a single-use, ready-to-use, iso-osmotic solution in dextrose for intravenous administration.
+NEXTERONE Premixed Injection is available in GALAXY containers as a single-use, ready-to-use, iso-osmotic solution in dextrose for intravenous administration.
 No further dilution is required.
 NEXTERONE Premixed Injection should not be combined with any product in the same intravenous line or premixed container.
 Protect from light until ready to use.

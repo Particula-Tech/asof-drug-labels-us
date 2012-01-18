@@ -2,7 +2,7 @@
 
 NDC 43066-360-20 For Intravenous Use
 
-Nexterone® (amiodarone HCl) Premixed Injection
+Nexterone (amiodarone HCl) Premixed Injection
 
 360 mg/200 mL (1.8 mg/mL)
 
@@ -28,17 +28,15 @@ USE CARTON TO PROTECT CONTENTS FROM LIGHT UNTIL USE.
 
 Rx Only
 
-NEXTERONE is a registered trademark of Prism Pharmaceuticals, Inc. Baxter and Galaxy are registered trademarks of Baxter International Inc.
+Baxter, Galaxy and Nexterone are trademarks of Baxter International Inc.
 
-Prism Logo Pharmaceuticals
+Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in the USA
 
-Mfd for: Prism Pharmaceuticals, Inc., King of Prussia, PA 19406 USA Mfd by: Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in the USA
-
-PL2501 Plastic 07-34-65-454
+PL2501 Plastic 07-34-67-735
 
 For Intravenous Use NDC 43066-360-20 Code 2G3450
 
-Nexterone® (amiodarone HCl) Premixed Injection
+Nexterone (amiodarone HCl) Premixed Injection
 
 360 mg/200 mL (1.8 mg/mL)
 
@@ -48,21 +46,19 @@ USE CARTON TO PROTECT CONTENTS FROM LIGHT UNTIL USE
 
 1 GALAXY Single-Dose Container Discard unused portion
 
-Prism Logo Pharmaceuticals
-
-Manufactured for: Prism Pharmaceuticals, Inc., King of Prussia, PA 19406 USA Manufactured by: Baxter Healthcare Corporation, Deerfield, IL 60015 USA
+Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA
 
 For Intravenous Use
 
-Nexterone® (amiodarone HCl) Premixed Injection
+Nexterone (amiodarone HCl) Premixed Injection
 
-NEXTERONE is a registered trademark of Prism Pharmaceuticals, Inc. Baxter and Galaxy are registered trademarks of Baxter International Inc.
+Baxter, Galaxy and Nexterone are registered trademarks of Baxter International Inc.
 
 360 mg/200 mL (1.8 mg/mL)
 
 For Intravenous Use Iso-osmotic solution in Dextrose Sterile, Nonpyrogenic
 
-Nexterone® (amiodarone HCl) Premixed Injection
+Nexterone (amiodarone HCl) Premixed Injection
 
 360 mg/200 mL (1.8 mg/mL)
 
@@ -88,10 +84,8 @@ Protect from freezing.
 Avoid excessive heat.
 USE CARTON TO PROTECT CONTENTS FROM LIGHT UNTIL USE.
 
-NEXTERONE is a registered trademark of Prism Pharmaceuticals, Inc. Baxter and Galaxy are registered trademarks of Baxter International Inc.
+Baxter, Galaxy and Nexterone are registered trademarks of Baxter International Inc.
 
-Manufactured for: Prism Pharmaceuticals, Inc. King of Prussia, PA 19406 USA
+Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-Manufactured by: Baxter Healthcare Corporation Deerfield, IL 60015 USA
-
-07-01-65-456
+07-01-67-740

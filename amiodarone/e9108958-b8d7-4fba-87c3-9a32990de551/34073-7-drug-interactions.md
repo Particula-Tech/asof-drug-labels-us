@@ -50,7 +50,11 @@ Cyclosporine (CYP3A substrate) administered in combination with oral amiodarone 
 
 HMG-CoA Reductase Inhibitors:
 
-Simvastatin (CYP3A substrate) in combination with amiodarone has been associated with reports of myopathy/rhabdomyolysis.
+The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with amiodarone has been associated with reports of myopathy/rhabdomyolysis.
+
+Limit the dose of simvastatin in patients on amiodarone to 20 mg daily.
+Limit the daily dose of lovastatin to 40 mg.
+Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as amiodarone may increase the plasma concentration of these drugs.
 
 Cardiovasculars:
 
