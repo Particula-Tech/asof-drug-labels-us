@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Medication Guide.
+See FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 ## 17.1 Asthma-Related Death
 
@@ -48,9 +48,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2011, GlaxoSmithKline.
+©2012, GlaxoSmithKline.
 All rights reserved.
 
-April 2011
+January 2012
 
-SRD:7PI
+SRD:9PI

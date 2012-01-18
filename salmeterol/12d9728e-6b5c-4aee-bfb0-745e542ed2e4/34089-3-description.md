@@ -9,7 +9,7 @@ Salmeterol xinafoate is a white powder with a molecular weight of 603.8, and the
 It is freely soluble in methanol; slightly soluble in ethanol, chloroform, and isopropanol; and sparingly soluble in water.
 
 SEREVENT DISKUS is a specially designed plastic device containing a double-foil blister strip of a powder formulation of salmeterol xinafoate intended for oral inhalation only.
-Each blister on the double-foil strip within the device contains 50 mcg of salmeterol administered as the salmeterol xinafoate salt in 12.5 mg of formulation containing lactose (which contains milk proteins).
+Each blister on the double-foil strip within the device contains 50 mcg of salmeterol base administered as the salmeterol xinafoate salt in 12.5 mg of formulation containing lactose (which contains milk proteins).
 After a blister containing medication is opened by activating the device, the medication is dispersed into the airstream created by the patient inhaling through the mouthpiece.
 
 Under standardized in vitro test conditions, SEREVENT DISKUS delivers 47 mcg when tested at a flow rate of 60 L/min for 2 seconds.
