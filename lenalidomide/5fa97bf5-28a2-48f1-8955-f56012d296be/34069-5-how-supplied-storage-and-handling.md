@@ -8,6 +8,12 @@ If REVLIMID contacts the mucous membranes, flush thoroughly with water.
 Procedures for the proper handling and disposal of anticancer drugs should be considered.
 Several guidelines on the subject have been published.1-4
 
+White and blue-green opaque hard capsules imprinted “REV” on one half and “2.5 mg” on the other half in black ink:
+
+2.5 mg bottles of 28 (NDC 59572-402-28)
+
+2.5 mg bottles of 100 (NDC 59572-402-00)
+
 White opaque capsules imprinted “REV” on one half and “5 mg” on the other half in black ink:
 
 5 mg bottles of 28 (NDC 59572-405-28)

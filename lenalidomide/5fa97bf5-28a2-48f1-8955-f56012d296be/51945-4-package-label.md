@@ -1,3 +1,5 @@
+Revlimid (lenalidomide) Capsules, 2.5 mg - 28 Count Bottle
+
 Revlimid (lenalidomide) Capsules, 5 mg - 28 Count Bottle
 
 Revlimid (lenalidomide) Capsules, 10 mg - 28 Count Bottle

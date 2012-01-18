@@ -1,4 +1,4 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12. CLINICAL PHARMACOLOGY
 
 ## 12.1. Mechanism of Action
 
@@ -13,32 +13,41 @@ Lenalidomide also inhibited the expression of cycoloxygenase-2 (COX-2) but not C
 
 Absorption
 
-Lenalidomide, in healthy volunteers, is rapidly absorbed following oral administration with maximum plasma concentrations occurring between 0.625 and 1.5 hours post-dose.
-Co-administration with food does not alter the extent of absorption (AUC) but does reduce the maximal plasma concentration (Cmax) by 36%.
-The pharmacokinetic disposition of lenalidomide is linear.
-Cmax and AUC increase proportionately with increases in dose.
+Lenalidomide is rapidly absorbed following oral administration.
+Following single and multiple doses of REVLIMID in patients with MM or MDS the maximum plasma concentrations occurred between 0.5 and 6.0 hours post-dose.
+The single and multiple dose pharmacokinetic disposition of lenalidomide is linear with AUC and Cmax values increasing proportionally with dose.
 Multiple dosing at the recommended dose-regimen does not result in drug accumulation.
 
-Pharmacokinetic sampling in myelodysplastic syndromes patients was not performed.
-In multiple myeloma patients maximum plasma concentrations occurred between 0.5 and 4.0 hours post-dose both on Days 1 and 28.
-AUC and Cmax values increase proportionally with dose following single and multiple doses.
-Exposure (AUC) in multiple myeloma patients is 57% higher than in healthy male volunteers.
+Systemic exposure (AUC) of lenalidomide in MM and MDS patients with normal or mild renal function (CLcr ≥ 60 mL/min) is approximately 60% higher as compared to young healthy male subjects.
+
+Administration of a single 25 mg dose of REVLIMID with a high-fat meal in healthy subjects reduces the extent of absorption, with an approximate 20% decrease in AUC and 50% decrease in Cmax.
+In the trials where the efficacy and safety were established for REVLIMID, the drug was administered without regard to food intake.
+REVLIMID can be administered with or without food.
 
 Distribution
 
 In vitro (14C)-lenalidomide binding to plasma proteins is approximately 30%.
 
-Metabolism and Excretion
+Metabolism
 
-The metabolic profile of lenalidomide in humans has not been studied.
-In healthy volunteers, approximately two-thirds of lenalidomide is eliminated unchanged through urinary excretion.
-The process exceeds the glomerular filtration rate and therefore is partially or entirely active.
-Half life of elimination is approximately 3 hours.
+Lenalidomide -undergoes limited metabolism.
+Unchanged lenalidomide is the predominant circulating component in humans.
+Two identified metabolites are hydroxy-lenalidomide and N-acetyl-lenalidomide; each constitutes less than 5% of parent levels in circulation.
+
+Elimination
+
+Elimination is primarily renal.
+Following a single oral administration of [14C]-lenalidomide (25 mg) to healthy subjects, approximately 90% and 4% of the radioactive dose is eliminated within ten days in urine and feces, respectively.
+Approximately 82% of the radioactive dose is excreted as lenalidomide in the urine within 24 hours.
+Hydroxy-lenalidomide and N-acetyl-lenalidomide represent 4.59% and 1.83% of the excreted dose, respectively.
+The renal clearance of lenalidomide exceeds the glomerular filtration rate.
+
+The mean half-life of lenalidomide is 3 hours in healthy subjects and 3 to 5 hours in patients with multiple myeloma or MDS.
 
 Special Populations
 
 Patients with Renal Impairment: The pharmacokinetics of lenalidomide were studied in patients with renal impairment due to nonmalignant conditions.
-In this study, 5 patients with mild renal function impairment (creatinine clearance 57-74 mL/min), 6 patients with moderate renal function impairment (creatinine clearance 33-46 mL/min), 6 patients with severe renal function impairment (creatinine clearance 17-29 mL/min), and 6 patients with end stage renal disease requiring dialysis were administered a single oral 25-mg dose of REVLIMID.
+In this study, 5 patients with mild renal impairment (creatinine clearance 57-74 mL/min), 6 patients with moderate renal impairment (creatinine clearance 33-46 mL/min), 6 patients with severe renal impairment (creatinine clearance 17-29 mL/min), and 6 patients with end stage renal disease requiring dialysis were administered a single oral 25-mg dose of REVLIMID.
 As a control group comparator, 7 healthy subjects of similar age with normal renal function (creatinine clearance 83-145 mL/min) were also administered a single oral 25-mg dose of REVLIMID.
 As creatinine clearance decreased from mild to severe impairment, half-life increased and drug clearance decreased linearly.
 Patients with moderate and severe renal impairment had a 3-fold increase in half-life and a 66% to 75% decrease in drug clearance compared to healthy subjects.

@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-REVLIMID®(rev-li-mid)
+REVLIMID® (rev-li-mid)
 
 (lenalidomide)
 
@@ -15,13 +15,13 @@ What is the most important information I should know about REVLIMID?
 - Before you begin taking REVLIMID, you must read and agree to all of the instructions in the RevAssist® program.
 - REVLIMID may cause serious side effects including: Possible birth defects (deformed babies) or death of an unborn baby.
   Females who are pregnant or who plan to become pregnant must not take REVLIMID.
-  REVLIMID is similar to the medicine thalidomide (THALOMID®).
+  REVLIMID is similar to the medicine thalidomide (THALOMID).
   We know thalidomide can cause severe life-threatening birth defects.
   REVLIMID has not been tested in pregnant women.
   REVLIMID has harmed unborn animals in animal testing.
   Females must not get pregnant: If you become pregnant while taking REVLIMID, stop taking it right away and call your healthcare provider.
   If your healthcare provider is not available, you can call 1-888-668-2528 for medical information.
-  Healthcare providers and patients should report all cases of pregnancy to: It is not known if REVLIMID passes into semen, so: Men, if your female partner becomes pregnant, you should call your healthcare provider right away.
+  Healthcare providers and patients should report all cases of pregnancy to: It is known that REVLIMID passes into semen, so: Men, if your female partner becomes pregnant, you should call your healthcare provider right away.
   Low white blood cells (neutropenia) and low platelets (thrombocytopenia).
   REVLIMID causes low white blood cells and low platelets in most patients.
   You may need a blood transfusion or certain medicines if your blood counts drop too low.
@@ -183,8 +183,8 @@ This Medication Guide has been approved by the US Food and Drug Administration.
 REVLIMID®, RevAssist®, and THALOMID® are registered trademarks of Celgene Corporation.
 
 U.S. Pat.
-Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,465,800
+Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,465,800; 7,855,217
 
-©2005-2010 Celgene Corporation, All Rights Reserved.
+©2005-2011 Celgene Corporation, All Rights Reserved.
 
-RevPlyMG.010 10/10
+RevPlyMG.011 12/11

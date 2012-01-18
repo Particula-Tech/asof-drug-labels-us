@@ -1,4 +1,4 @@
-# 15 REFERENCES
+# 15. REFERENCES
 
 1. NIOSH Alert: Preventing occupational exposures to antineoplastic and other hazardous drugs in healthcare settings.
    2004.

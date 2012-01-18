@@ -53,8 +53,9 @@ Monitor renal function.
 
 ## 8.6 Renal Impairment
 
-Since lenalidomide is primarily excreted unchanged by the kidney, adjustments to the starting dose of REVLIMID are recommended to provide appropriate drug exposure in patients with moderate or severe renal impairment (CLcr < 60 mL/min) and in patients on dialysis [see Dosage and Administration (2.1, 2.2)].
+Since lenalidomide is primarily excreted unchanged by the kidney, adjustments to the starting dose of REVLIMID are recommended to provide appropriate drug exposure in patients with moderate (CLcr 30-60 mL/min) or severe renal impairment (CLcr < 30 mL/min) and in patients on dialysis [see Dosage and Administration (2.1, 2.2)].
 
 ## 8.7 Hepatic Impairment
 
 No study has been conducted in patients with hepatic impairment.
+The elimination of unchanged lenalidomide is predominantly by the renal route.

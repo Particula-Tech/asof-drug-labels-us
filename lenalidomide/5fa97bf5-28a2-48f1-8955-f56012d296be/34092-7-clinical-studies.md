@@ -1,4 +1,4 @@
-# 14 CLINICAL STUDIES
+# 14. CLINICAL STUDIES
 
 ## 14.1. Multiple Myeloma
 
@@ -74,13 +74,17 @@ TTP Results in Study 1 and Study 2
 | Events n (%) | 73 (41) | 120 (68) | 68 (39) | 130 (74) |
 | Median TTP in months [95% CI] | 13.9 [9.5, 18.5] | 4.7 [3.7, 4.9] | 12.1 [9.5, NE] | 4.7 [3.8, 4.8] |
 | Hazard Ratio [95% CI] | 0.285 [0.210, 0.386] |  | 0.324 [0.240, 0.438] |  |
-| Log-rank Test p-value 3 | <0.001 |  | <0.001 |  |
+| Log-rank Test p-value | <0.001 |  | <0.001 |  |
 | Response |  |  |  |  |
 | Complete Response (CR) n (%) | 23 (13) | 1 (1) | 27 (15) | 7 (4) |
 | Partial Response (RR/PR) n (%) | 84 (48) | 33 (19) | 77 (44) | 34 (19) |
 | Overall Response n (%) | 107 (61) | 34 (19) | 104 (59) | 41 (23) |
 | p-value | <0.001 |  | <0.001 |  |
 | Odds Ratio [95% CI] | 6.38 [3.95, 10.32] |  | 4.72 [2.98, 7.49] |  |
+
+Figure 1: Kaplan-Meier Estimate of Time to Progression — Study 1
+
+Figure 2: Kaplan-Meier Estimate of Time to Progression — Study 2
 
 ## 14.2. Myelodysplastic Syndromes (MDS) with a Deletion 5q Cytogenetic Abnormality
 
@@ -92,9 +96,9 @@ This major study enrolled 148 patients who had RBC transfusion dependent anemia.
 RBC transfusion dependence was defined as having received ≥ 2 units of RBCs within 8 weeks prior to study treatment.
 The study enrolled patients with absolute neutrophil counts (ANC) ≥ 500/mm3, platelet counts ≥ 50,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3.0 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2.0 mg/dL.
 Granulocyte colony-stimulating factor was permitted for patients who developed neutropenia or fever in association with neutropenia.
-Baseline patient and disease-related characteristics are summarized in Table 11.
+Baseline patient and disease-related characteristics are summarized in Table 10.
 
-Table 11: Baseline Demographic and Disease-Related Characteristics in the MDS Study
+Table 10: Baseline Demographic and Disease-Related Characteristics in the MDS Study
 
 |  | Overall (N=148) |  |
 | --- | --- | --- |
@@ -131,7 +135,6 @@ RBC transfusion independence was defined as the absence of any RBC transfusion d
 
 Transfusion independence was seen in 99/148 (67%) patients (95% CI [59, 74]).
 The median duration from the date when RBC transfusion independence was first declared (i.e., the last day of the 56-day RBC transfusion-free period) to the date when an additional transfusion was received after the 56-day transfusion-free period among the 99 responders was 44 weeks (range of 0 to >67 weeks).
-
 Ninety percent of patients who achieved a transfusion benefit did so by completion of three months in the study.
 
 RBC transfusion independence rates were unaffected by age or gender.

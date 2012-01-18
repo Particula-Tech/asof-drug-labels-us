@@ -7,7 +7,7 @@ Thalidomide is a known human teratogen that causes life-threatening human birth 
 An embryofetal development study in non-human primates indicates that lenalidomide produced malformations in the offspring of female monkeys who received the drug during pregnancy, similar to birth defects observed in humans following exposure to thalidomide during pregnancy.
 If REVLIMID is used during pregnancy, it may cause birth defects or death to a developing baby.
 Females of childbearing potential must be advised to avoid pregnancy while on REVLIMID.
-Two effective contraceptive methods should be used during therapy, during therapy interruptions and for at least 4 weeks after completing therapy.
+Two effective contraceptive methods should be used during therapy, during dose interruptions and for at least 4 weeks after completing therapy.
 
 There are no adequate and well-controlled studies in pregnant females.
 
@@ -34,8 +34,10 @@ Females of childbearing potential must have 2 negative pregnancy tests (sensitiv
 The first test should be performed within 10-14 days, and the second test within 24 hours prior to prescribing REVLIMID.
 A prescription for REVLIMID for a female of childbearing potential must not be issued by the prescriber until negative pregnancy tests have been verified by the prescriber.
 
-Male Patients: It is not known whether lenalidomide is present in the semen of patients receiving the drug.
-Therefore, males receiving REVLIMID must always use a latex condom during any sexual contact with females of childbearing potential even if they have undergone a successful vasectomy.
+Male Patients: Clinical data has demonstrated the presence of lenalidomide in human semen.
+Male patients taking REVLIMID should not donate sperm.
+
+Males receiving REVLIMID must always use a latex condom during any sexual contact with females of childbearing potential even if they have undergone a successful vasectomy.
 
 Once treatment has started and during dose interruptions, pregnancy testing for females of childbearing potential should occur weekly during the first 4 weeks of use, then pregnancy testing should be repeated every 4 weeks in females with regular menstrual cycles.
 If menstrual cycles are irregular, the pregnancy testing should occur every 2 weeks.
@@ -67,7 +69,7 @@ REVLIMID may be used in sexually active males when the PATIENT MEETS ALL OF THE 
 
 - he is capable of complying with the mandatory contraceptive measures that are appropriate for men, patient registration, and patient survey as described in the RevAssist program.
 - he has received and understands both oral and written warnings of the potential risks of taking REVLIMID and exposing a fetus to the drug.
-- he has received both oral and written warnings of the risk of possible contraception failure and that it is unknown whether lenalidomide is present in semen.
+- he has received both oral and written warnings of the risk of possible contraception failure and that it is known that lenalidomide is present in semen.
   He has been instructed that he must always use a latex condom during any sexual contact with females of childbearing potential, even if he has undergone a successful vasectomy.
   Females of childbearing potential are considered to be sexually mature females who have not undergone a hysterectomy, have not had a bilateral oophorectomy or who have not been postmenopausal for at least 24 consecutive months (i.e., who have had menses at any time in the preceding 24 consecutive months).
 - he acknowledges, in writing, his understanding of these warnings and of the need to use a latex condom during any sexual contact with females of childbearing potential, even if he has undergone a successful vasectomy.
@@ -101,6 +103,9 @@ Patients with a prior history of Grade 4 rash associated with thalidomide treatm
 REVLIMID interruption or discontinuation should be considered for Grade 2-3 skin rash.
 REVLIMID must be discontinued for angioedema, Grade 4 rash, exfoliative or bullous rash, or if SJS or TEN is suspected and should not be resumed following discontinuation for these reactions.
 
+REVLIMID capsules contain lactose.
+Risk-benefit of REVLIMID treatment should be evaluated in patients with lactose intolerance.
+
 ## 5.6 Tumor Lysis Syndrome
 
 Fatal instances of tumor lysis syndrome have been reported during treatment with lenalidomide.
@@ -111,3 +116,9 @@ These patients should be monitored closely and appropriate precautions taken.
 
 Tumor flare reaction has occurred during investigational use of lenalidomide for CLL and lymphoma, and is characterized by tender lymph node swelling, low grade fever, pain and rash.
 Treatment of CLL or lymphoma with lenalidomide outside of a well-monitored clinical trial is discouraged.
+
+## 5.8 Hepatotoxicity
+
+Cases of transient liver laboratory abnormalities (predominantly transaminases) were reported in patients treated with lenalidomide.
+Treatment with lenalidomide should be interrupted and restarted once the levels return to baseline.
+Successful re-challenge without recurrence of liver laboratory elevation was reported in some patients.

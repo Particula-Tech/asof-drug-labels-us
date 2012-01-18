@@ -22,7 +22,7 @@ Patients may require use of blood product support and/or growth factors [see Dos
 
 Deep Vein Thrombosis and Pulmonary Embolism
 
-REVLIMID has demonstrated a significantly increased risk of deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients with multiple myeloma who were treated with REVLIMID and dexamethasone therapy.
+REVLIMID has demonstrated an increased risk of deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients with multiple myeloma who were treated with REVLIMID and dexamethasone therapy.
 Patients and physicians are advised to be observant for the signs and symptoms of thromboembolism.
 Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, or arm or leg swelling.
 It is not known whether prophylactic anticoagulation or antiplatelet therapy prescribed in conjunction with REVLIMID may lessen the potential for venous thromboembolic events.

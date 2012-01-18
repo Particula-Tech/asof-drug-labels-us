@@ -1,6 +1,6 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-See Medication Guide (17.4)
+See Medication Guide (17.5)
 
 ## 17.1 Importance of Preventing Pregnancy
 
@@ -24,19 +24,30 @@ He understands that if his doctor is not available, he can call 1-888-668-2528 f
 
 ## 17.2 Hematologic Toxicity
 
-REVLIMID is associated with significant neutropenia and thrombocytopenia [see Boxed Warnings and Warnings and Precautions (5.2)]
+REVLIMID is associated with significant neutropenia and thrombocytopenia [see Boxed Warnings and Warnings and Precautions (5.3)]
 
 ## 17.3 Deep Vein Thrombosis and Pulmonary Embolism
 
-REVLIMID/dexamethasone has demonstrated significant increased risk of DVT and PE in patients with multiple myeloma [see Boxed Warnings and Warning and Precautions (5.3)]
+REVLIMID/dexamethasone has demonstrated significant increased risk of DVT and PE in patients with multiple myeloma [see Boxed Warnings and Warning and Precautions (5.4)]
+
+## 17.4 Dosing Instructions
+
+Inform patients to take REVLIMID once daily at about the same time each day, either with or without food.
+The capsules should not be opened, broken, or chewed.
+REVLIMID should be swallowed whole with water.
+
+Instruct patients that if they miss a dose of REVLIMID, they may still take it up to 12 hours after the time they would normally take it.
+If more than 12 hours have elapsed, they should be instructed to skip the dose for that day.
+The next day, they should take REVLIMID at the usual time.
+Warn patients to not take 2 doses to make up for the one that they missed.
 
 REVLIMID®, RevAssist®, and THALOMID® are registered trademarks of Celgene Corporation.
 
 U.S. Pat.
-Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,465,800
+Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,465,800; 7,855,217
 
-©2005-2010 Celgene Corporation, All Rights Reserved.
+©2005-2011 Celgene Corporation, All Rights Reserved.
 
-RevPlyPI.010/MG.010 10/10
+RevPlyPI.011/MG.011 12/11
 
-## 17.4 MEDICATION GUIDE
+## 17.5 MEDICATION GUIDE

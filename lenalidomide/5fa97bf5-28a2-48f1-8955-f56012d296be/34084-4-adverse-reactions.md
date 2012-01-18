@@ -3,10 +3,11 @@
 The following adverse reactions are described in detail in other labeling sections:
 
 - Neutropenia and thrombocytopenia [see Boxed Warnings, Warnings and Precautions (5.3)]
-- Deep vein thrombosis, and pulmonary embolism [see Boxed Warnings, Warnings and Precautions (5.4)]
+- Deep vein thrombosis and pulmonary embolism [see Boxed Warnings, Warnings and Precautions (5.4)]
 - Allergic Reactions [see Warnings and Precautions (5.5)]
-- Tumor lysis syndrome [see Warnings and Precautions (5.6)
+- Tumor lysis syndrome [see Warnings and Precautions (5.6)]
 - Tumor flare reactions [see Warnings and Precautions (5.7)]
+- Hepatotoxicity [see Warnings and Precautions (5.8)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -22,7 +23,7 @@ Tables 3, 4, and 5 summarize the adverse reactions reported for REVLIMID/dexamet
 
 Table 3: Adverse Reactions Reported in ≥5% of Patients and with a ≥2% Difference in Proportion of Patients Between the REVLIMID/dexamethasone and Placebo/dexamethasone Groups
 
-| System Organ Class/ Preferred Term | Lenalidomide/Dex* (n=353) n (%) | Placebo/Dex * (n=350) n (%) |
+| System Organ Class/ Preferred Term | REVLIMID/Dex* (n=353) n (%) | Placebo/Dex * (n=350) n (%) |
 | --- | --- | --- |
 | Blood and lymphatic system disorders |  |  |
 | Neutropenia % | 149 (42.2) | 22 (6.3) |
@@ -87,7 +88,7 @@ Table 3: Adverse Reactions Reported in ≥5% of Patients and with a ≥2% Differ
 
 Table 4: Grade 3/4 Adverse Reactions Reported in ≥2% Patients and With a ≥1% Difference in Proportion of Patients Between the REVLIMID/dexamethasone and Placebo/dexamethasone groups
 
-| System Organ Class/ Preferred Term | Lenalidomide/Dex# (n=353) n (%) | Placebo/Dex# (n=350) n (%) |
+| System Organ Class/ Preferred Term | REVLIMID/Dex# (n=353) n (%) | Placebo/Dex# (n=350) n (%) |
 | --- | --- | --- |
 | Blood and lymphatic system disorders |  |  |
 | Neutropenia % | 118 (33.4) | 12 (3.4) |
@@ -131,7 +132,7 @@ Table 4: Grade 3/4 Adverse Reactions Reported in ≥2% Patients and With a ≥1%
 
 Table 5: Serious Adverse Events Reported in ≥1% Patients and With a ≥1% Difference in Proportion of Patients Between the REVLIMID/dexamethasone and Placebo/dexamethasone Groups
 
-| System Organ Class/ Preferred Term | Lenalidomide/Dex& (n=353) n (%) | Placebo/Dex& (n=350) n (%) |
+| System Organ Class/ Preferred Term | REVLIMID/Dex& (n=353) n (%) | Placebo/Dex& (n=350) n (%) |
 | --- | --- | --- |
 | Blood and lymphatic system disorders |  |  |
 | Febrile Neutropenia% | 6 (1.7) | 0 (0.0) |
@@ -150,7 +151,7 @@ Table 5: Serious Adverse Events Reported in ≥1% Patients and With a ≥1% Diff
 | Diarrhea @ | 6 (1.7) | 2 (0.6) |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Bone Pain | 4 (1.1) | 0 (0.0) |
-| For all tables above: n – Number of Patients * - All Treatment Emergent AEs with ≥5% of Patients in REVLIMID/ Dex and at Least 2% Difference in Proportion between the Two Arms - (Safety population) # - All Treatment Emergent Grades 3 and 4 AEs with ≥1% Patients in REVLIMID/ Dex and at Least 1% Difference in Proportion between the Two Arms - (Safety population) & - All Treatment Emergent Serious AEs with ≥1% Patients in REVLIMID/ Dex and at Least 1% Difference in Proportion between the Two Arms - (Safety population) @ - ADRs with Death as an outcome % - ADRs which were considered to be Life Threatening (if the outcome of the event was death, it is included with death cases) a - All PTs under the MedDRA SMQ of Neuropathy of a peripheral sensory nature will be considered listed b - All PTs under SOC of Infections except for rare infections of Public Health interest will be considered listed c-All All PTs under HLT of Rash will be considered listed Dex=dexamethasone Median duration of exposure among patients treated with REVLIMID/dexamethasone was 44 weeks while median duration of exposure among patients treated with placebo/dexamethasone was 23 weeks. This should be taken into consideration when comparing frequency of adverse events between two treatment groups REVLIMID/dexamethasone vs. placebo/dexamethasone. |  |  |
+| For all tables above: n – Number of Patients * - All Treatment Emergent AEs with ≥5% of Patients in REVLIMID/ Dex and at Least 2% Difference in Proportion between the Two Arms - (Safety population) # - All Treatment Emergent Grades 3 and 4 AEs with ≥1% Patients in REVLIMID/ Dex and at Least 1% Difference in Proportion between the Two Arms - (Safety population) & - All Treatment Emergent Serious AEs with ≥1% Patients in REVLIMID/ Dex and at Least 1% Difference in Proportion between the Two Arms - (Safety population) @ - ADRs with Death as an outcome % - ADRs which were considered to be life threatening (if the outcome of the event was death, it is included with death cases) a - All PTs under the MedDRA SMQ of Neuropathy of a peripheral sensory nature will be considered listed b - All PTs under SOC of Infections except for rare infections of Public Health interest will be considered listed c- All PTs under HLT of Rash will be considered listed Dex=dexamethasone Median duration of exposure among patients treated with REVLIMID/dexamethasone was 44 weeks while median duration of exposure among patients treated with placebo/dexamethasone was 23 weeks. This should be taken into consideration when comparing frequency of adverse events between two treatment groups REVLIMID/dexamethasone vs. placebo/dexamethasone. |  |  |
 
 Venous Thromboembolism
 
@@ -178,13 +179,13 @@ Gastrointestinal disorders: gastrointestinal hemorrhage, glossodynia
 
 General disorders and administration site conditions: malaise
 
-Investigations: liver function tests abnormal, alanine aminotransferase increased,
+Investigations: liver function tests abnormal, alanine aminotransferase increased
 
 Nervous system disorders: cerebral ischemia
 
-Psychiatric disorders: mood swings, hallucination loss of libido
+Psychiatric disorders: mood swings, hallucination, loss of libido
 
-Reproductive system and breast disorders: erectile dysfunction,
+Reproductive system and breast disorders: erectile dysfunction
 
 Respiratory, thoracic and mediastinal disorders: cough, hoarseness
 
@@ -378,4 +379,5 @@ Vascular system disorders: deep vein thrombosis, hypotension, aortic disorder, i
 ## 6.3 Postmarketing Experience
 
 The following adverse drug reactions have been identified from the worldwide post-marketing experience with REVLIMID.
-Because these reactions are reported voluntarily, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: Allergic reactions (angioedema, Stevens-Johnson syndrome, and toxic epidermal necrolysis), tumor lysis syndrome (TLS) and tumor flare reaction (TFR) [see Warnings and Precautions Section (5.5 to 5.7)].
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: Allergic conditions (angioedema, SJS, TEN), tumor lysis syndrome (TLS) and tumor flare reaction (TFR), pneumonitis, and transient abnormal liver laboratory tests.
+[see Warnings and Precautions Section (5.5 to 5.8)].
