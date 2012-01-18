@@ -76,7 +76,7 @@ Table 4: Recommended Starting Dose Modification for VELCADE in Patients with Hep
 
 |  | Bilirubin Level | SGOT (AST) Levels | Modification of Starting Dose |
 | --- | --- | --- | --- |
-| Mild | Less than or equal to 1.0x; ULN | More than ULN | None |
+| Mild | Less than or equal to 1.0x ULN | More than ULN | None |
 | More than 1.0x–1.5x ULN | Any | None |  |
 | Moderate | More than 1.5x–3x ULN | Any | Reduce VELCADE to 0.7 mg/m2 in the first cycle. Consider dose escalation to 1.0 mg/m2 or further dose reduction to 0.5 mg/m2 in subsequent cycles based on patient tolerability. |
 | Severe | More than 3x ULN | Any |  |
