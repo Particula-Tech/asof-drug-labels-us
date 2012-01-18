@@ -24,7 +24,7 @@ Difficulty in restarting and maintaining the heartbeat has also been reported wi
 Diabetes and Hypoglycemia: Metoprolol should be used with caution in diabetic patients if a beta-blocking agent is required.
 Beta-blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
 
-Pheochromocytoma: If metoprolol is used in the settings of pheochromocytoma, it should be given in combination with an alpha-blocker, and only after the alpha-blocker has been initiated.
+Pheochromocytoma: If metoprolol is used in the setting of pheochromocytoma, it should be given in combination with an alpha-blocker, and only after the alpha-blocker has been initiated.
 Administration of beta-blockers alone in the setting of pheochromocytoma have been associated with a paradoxical increase in blood pressure due to the attenuation of beta-mediated vasodilatation in skeletal muscle.
 
 Thyrotoxicosis: Beta-adrenergic blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
@@ -56,8 +56,9 @@ If hypotension is associated with sinus bradycardia or AV block, treatment shoul
 Bronchospastic Diseases: PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS, including metoprolol.
 Because of its relative beta1 selectivity, metoprolol may be used with extreme caution in patients with bronchospastic disease.
 Because it is unknown to what extent beta2-stimulating agents may exacerbate myocardial ischemia and the extent of infarction, these agents should not be used prophylactically.
-If bronchospasm not related to congestive heart failure occurs, metoprolol tartrate should be discontinued.
-A theophylline derivative or a beta2 agonist may produce serious cardiac arrhythmias.
+If bronchospasm not related to congestive heart failure occurs, metoprolol should be discontinued.
+A theophylline derivative or a beta2 agonist may be administered cautiously, depending on the clinical condition of the patient.
+Both theophylline derivatives and beta2 agonists may produce serious cardiac arrhythmias.
 
 # PRECAUTIONS
 
@@ -66,10 +67,6 @@ A theophylline derivative or a beta2 agonist may produce serious cardiac arrhyth
 Metoprolol should be used with caution in patients with impaired hepatic function.
 
 ## Information for Patients
-
-Patients should be advised to take metoprolol regularly and continuously, as directed, with or immediately following meals.
-If a dose should be missed, the patient should take only the next scheduled dose (without doubling it).
-Patients should not discontinue metoprolol without consulting the physician.
 
 Patients should be advised (1) to avoid operating automobiles and machinery or engaging in other tasks requiring alertness until the patient's response to therapy with metoprolol has been determined; (2) to contact the physician if any difficulty in breathing occurs; (3) to inform the physician or dentist before any type of surgery that he or she is taking metoprolol.
 
@@ -91,7 +88,7 @@ Some inhalation anesthetics may enhance the cardiodepressant effect of beta-bloc
 ## CYP2D6 Inhibitors
 
 Potent inhibitors of the CYP2D6 enzyme may increase the plasma concentration of metoprolol.
-Strong inhibition of CYP2D6 would mimic the pharmacokinetics of CYP2D6 poor metabolizer (see Pharmacokinetics subsection).
+Strong inhibition of CYP2D6 would mimic the pharmacokinetics of CYP2D6 poor metabolizer (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
 Caution should therefore be exercised when coadministering potent CYP2D6 inhibitors with metoprolol.
 Known clinically significant potent inhibitors of CYP2D6 are antidepressants such as fluoxetine, paroxetine or bupropion, antipsychotics such as thioridazine, antiarrhythmics such as quinidine or propafenone, antiretrovirals such as ritonavir, antihistamines such as diphenhydramine, antimalarials such as hydroxychloroquine or quinidine, antifungals such as terbinafine and medications for stomach ulcers such as cimetidine.
 

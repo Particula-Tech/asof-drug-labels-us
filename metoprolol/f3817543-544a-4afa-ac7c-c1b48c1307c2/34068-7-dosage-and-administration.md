@@ -11,11 +11,11 @@ During the intravenous administration of metoprolol, blood pressure, heart rate,
 In patients who tolerate the full intravenous dose (15 mg), metoprolol tablets, 50 mg every 6 hours, should be initiated 15 minutes after the last intravenous dose and continued for 48 hours.
 Thereafter, patients should receive a maintenance dosage of 100 mg twice daily (see Late Treatment below).
 
-Patients who appear not to tolerate the full intravenous dose should be started on metoprolol tartrate tablets either 25 mg or 50 mg every 6 hours (depending on the degree of intolerance) 15 minutes after the last intravenous dose or as soon as their clinical condition allows.
-In patients with severe intolerance, treatment with metoprolol tartrate should be discontinued (see WARNINGS).
+Patients who appear not to tolerate the full intravenous dose should be started on metoprolol tablets either 25 mg or 50 mg every 6 hours (depending on the degree of intolerance) 15 minutes after the last intravenous dose or as soon as their clinical condition allows.
+In patients with severe intolerance, treatment with metoprolol should be discontinued (see WARNINGS).
 
-Late Treatment: Patients with contraindications to treatment during the early phase of suspected or definite myocardial infarction, patients who appear not to tolerate the full early treatment, and patients in whom the physician wishes to delay therapy for any other reason should be started on metoprolol tartrate tablets, 100 mg twice daily, as soon as their clinical condition allows.
+Late Treatment: Patients with contraindications to treatment during the early phase of suspected or definite myocardial infarction, patients who appear not to tolerate the full early treatment, and patients in whom the physician wishes to delay therapy for any other reason should be started on metoprolol tablets, 100 mg twice daily, as soon as their clinical condition allows.
 Therapy should be continued for at least 3 months.
-Although the efficacy of metoprolol tartrate beyond 3 months has not been conclusively established, data from studies with other beta-blockers suggest that treatment should be continued for 1 to 3 years.
+Although the efficacy of metoprolol beyond 3 months has not been conclusively established, data from studies with other beta-blockers suggest that treatment should be continued for 1 to 3 years.
 
 Note: Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.

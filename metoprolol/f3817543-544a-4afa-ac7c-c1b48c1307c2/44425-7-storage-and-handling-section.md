@@ -1,6 +1,7 @@
 # Storage Conditions
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
 
 Protect from light.
 Retain in carton until time of use.
@@ -16,6 +17,6 @@ SAGENT Mfd. for SAGENT Pharmaceuticals
 
 Schaumburg, IL 60195 (USA) Made in India
 
-©2009 Sagent Pharmaceuticals, Inc.
+©2010 Sagent Pharmaceuticals, Inc.
 
-December 2009
+January 2010
