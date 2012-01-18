@@ -23,7 +23,7 @@ There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or treatment.
 Your doctor may do a physical exam before prescribing Endometrin.
 
-What is Endometrin?
+### What is Endometrin?
 
 Endometrin is a vaginal insert that contains the hormone progesterone.
 Endometrin is for women who need extra progesterone while undergoing treatment in an Assisted Reproductive Technology (ART) program.
@@ -31,7 +31,7 @@ Endometrin is for women who need extra progesterone while undergoing treatment i
 Progesterone is one of the hormones essential for helping you to become and to stay pregnant.
 If you are undergoing ART treatment, your doctor may prescribe Endometrin to provide the progesterone your body needs.
 
-Who should not use Endometrin?
+### Who should not use Endometrin?
 
 Do not use Endometrin if you:
 
@@ -50,7 +50,7 @@ Some medicines may affect Endometrin.
 Know what medicines you take.
 Keep a list of your medicines to show to the doctor and pharmacist.
 
-How should I use Endometrin?
+### How should I use Endometrin?
 
 - Use Endometrin exactly as prescribed.
   The usual dose of Endometrin is one insert placed in your vagina 2 to 3 times a day for up to a total of 10 weeks, unless your healthcare provider advises otherwise.
@@ -72,7 +72,7 @@ Other information for using Endometrin
 - Call your doctor if you use too much Endometrin.
 - Do not use any other vaginal products when you are using Endometrin.
 
-What are the possible side effects of Endometrin?
+### What are the possible side effects of Endometrin?
 
 Common side effects seen with ART and Endometrin included pelvic pain after surgery, abdominal pain, nausea, and swollen ovaries (ovarian hyperstimulation syndrome).
 
@@ -118,13 +118,13 @@ Call your doctor immediately if you have abnormal vaginal bleeding
 These are not all the side effects with Endometrin.
 Ask your doctor or pharmacist for more information.
 
-How should I store Endometrin?
+### How should I store Endometrin?
 
 - Store Endometrin at room temperature, 25°C (77°F); excursions permitted between 15 to 30°C (59 to 86°F).
 - Do not use Endometrin after the expiration date that is printed on the carton.
 - Keep Endometrin and all medicines out of the reach of children.
 
-General information about Endometrin
+### General information about Endometrin
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information Leaflet.
 Do not use Endometrin for a condition for which it was not prescribed.
@@ -136,7 +136,7 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Endometrin that was written for healthcare professionals.
 For more information call Ferring Pharmaceuticals at 1-800-822-8214.
 
-What are the ingredients in Endometrin?
+### What are the ingredients in Endometrin?
 
 Active Ingredient: progesterone
 
