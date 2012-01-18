@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA079199"
+  ],
+  "inn": "rocuronium",
+  "labeler": "Bioniche Pharma USA LLC",
+  "package_ndcs": [
+    "67457-228-05",
+    "67457-228-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "rocuronium bromide",
+      "name": "Rocuronium Bromide"
+    }
+  ],
+  "setid": "f58803b0-f173-4997-b2f8-0f415b94dacf",
+  "source": "dailymed"
+}
