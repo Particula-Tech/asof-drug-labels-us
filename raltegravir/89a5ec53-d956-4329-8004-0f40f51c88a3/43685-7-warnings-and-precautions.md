@@ -12,3 +12,10 @@ Delay in stopping ISENTRESS treatment or other suspect agents after the onset of
 ## 5.2 Immune Reconstitution Syndrome
 
 During the initial phase of treatment, patients responding to antiretroviral therapy may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium complex, cytomegalovirus, Pneumocystis jiroveci pneumonia, Mycobacterium tuberculosis, or reactivation of varicella zoster virus), which may necessitate further evaluation and treatment.
+
+## 5.3 Phenylketonurics
+
+ISENTRESS Chewable Tablets contain phenylalanine, a component of aspartame.
+Each 25 mg ISENTRESS Chewable Tablet contains approximately 0.05 mg phenylalanine.
+Each 100 mg ISENTRESS Chewable Tablet contains approximately 0.10 mg phenylalanine.
+Phenylalanine can be harmful to patients with phenylketonuria.

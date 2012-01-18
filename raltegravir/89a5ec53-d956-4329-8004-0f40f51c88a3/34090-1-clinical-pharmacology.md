@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Raltegravir is an HIV-1 antiviral drug [see Clinical Pharmacology (12.4)].
+Raltegravir is an HIV-1 antiviral drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -19,9 +19,11 @@ After baseline and placebo adjustment, the maximum mean QTc change was -0.4 msec
 
 ## 12.3 Pharmacokinetics
 
+Adults
+
 Absorption
 
-Raltegravir is absorbed with a Tmax of approximately 3 hours postdose in the fasted state.
+Raltegravir (film-coated tablet) is absorbed with a Tmax of approximately 3 hours postdose in the fasted state.
 Raltegravir AUC and Cmax increase dose proportionally over the dose range 100 mg to 1600 mg.
 Raltegravir C12hr increases dose proportionally over the dose range of 100 to 800 mg and increases slightly less than dose proportionally over the dose range 100 mg to 1600 mg.
 With twice-daily dosing, pharmacokinetic steady state is achieved within approximately the first 2 days of dosing.
@@ -29,8 +31,9 @@ There is little to no accumulation in AUC and Cmax.
 The average accumulation ratio for C12hr ranged from approximately 1.2 to 1.6.
 
 The absolute bioavailability of raltegravir has not been established.
+Based on a formulation comparison study in healthy adult volunteers, the chewable tablet has higher oral bioavailability compared to the 400 mg film-coated tablet.
 
-In subjects who received 400 mg twice daily alone, raltegravir drug exposures were characterized by a geometric mean AUC0-12hr of 14.3 μM●hr and C12hr of 142 nM.
+In subjects who received 400 mg twice daily alone, raltegravir drug exposures were characterized by a geometric mean AUC0-12hr of 14.3 µM∙hr and C12hr of 142 nM.
 
 Considerable variability was observed in the pharmacokinetics of raltegravir.
 For observed C12hr in Protocols 018 and 019, the coefficient of variation (CV) for inter-subject variability = 212% and the CV for intra-subject variability = 122%.
@@ -39,12 +42,15 @@ Effect of Food on Oral Absorption
 
 ISENTRESS may be administered with or without food.
 Raltegravir was administered without regard to food in the pivotal safety and efficacy studies in HIV-1-infected patients.
-The effect of consumption of low-, moderate- and high-fat meals on steady-state raltegravir pharmacokinetics was assessed in healthy volunteers.
+The effect of consumption of low-, moderate- and high-fat meals on steady-state raltegravir pharmacokinetics was assessed in healthy volunteers administered the 400 mg film-coated tablet.
 Administration of multiple doses of raltegravir following a moderate-fat meal (600 Kcal, 21 g fat) did not affect raltegravir AUC to a clinically meaningful degree with an increase of 13% relative to fasting.
 Raltegravir C12hr was 66% higher and Cmax was 5% higher following a moderate-fat meal compared to fasting.
 Administration of raltegravir following a high-fat meal (825 Kcal, 52 g fat) increased AUC and Cmax by approximately 2-fold and increased C12hr by 4.1-fold.
 Administration of raltegravir following a low-fat meal (300 Kcal, 2.5 g fat) decreased AUC and Cmax by 46% and 52%, respectively; C12hr was essentially unchanged.
 Food appears to increase pharmacokinetic variability relative to fasting.
+
+Administration of the chewable tablet with a high fat meal led to an average 6% decrease in AUC, 62% decrease in Cmax, and 188% increase in C12hr compared to administration in the fasted state.
+Administration of the chewable tablet with a high fat meal does not affect raltegravir pharmacokinetics to a clinically meaningful degree and the chewable tablet can be administered without regard to food.
 
 Distribution
 
@@ -64,16 +70,28 @@ Special Populations
 
 Pediatric
 
-The pharmacokinetics of raltegravir in pediatric patients has not been established.
+The doses recommended for HIV-infected children and adolescents 2 to 18 years of age [see Dosage and Administration (2.3)] resulted in a pharmacokinetic profile of raltegravir similar to that observed in adults receiving 400 mg twice daily.
+Table 8 displays steady state pharmacokinetic parameters in the 400 mg film-coated tablet (6 to 18 years of age) and the chewable tablet (2 to less than 12 years of age).
+
+Table 8: Raltegravir Steady State Pharmacokinetic Parameters Following Administration of Recommended Doses
+
+| Age | Formulation | Dose | NNumber of patients with intensive pharmacokinetic (PK) results at the final recommended dose. | Geometric Mean (%CV) AUC0-12hr (µM∙hr) | Geometric Mean (%CV) C12hr (nM) |
+| --- | --- | --- | --- | --- | --- |
+| 12 to 18 years | Film-coated tablet | 400 mg twice daily, regardless of weightPatients in this age group received approximately 8 mg/kg/dose at time of intensive PK which met PK and safety targets. Based on review of the individual profiles and receipt of a mean dose of 390 mg, 400 mg twice daily was selected as the recommended dose for this age group. | 11 | 15.7 (98%) | 333 (78%) |
+| 6 to less than 12 years | Film-coated tablet | 400 mg twice daily, for patients ≥25 kg | 11 | 15.8 (120%) | 246 (221%) |
+| 6 to less than 12 years | Chewable tablet | Weight based dosing, see Table 1 | 10 | 22.6 (34%) | 130 (88%) |
+| 2 to less than 6 years | Chewable tablet | Weight based dosing, see Table 1 | 12 | 18.0 (59%) | 71 (55%) |
+
+The pharmacokinetics of raltegravir in children under 2 years of age has not been established.
 
 Age
 
-The effect of age on the pharmacokinetics of raltegravir was evaluated in the composite analysis.
+The effect of age (18 years and older) on the pharmacokinetics of raltegravir was evaluated in the composite analysis.
 No dosage adjustment is necessary.
 
 Race
 
-The effect of race on the pharmacokinetics of raltegravir was evaluated in the composite analysis.
+The effect of race on the pharmacokinetics of raltegravir in adults was evaluated in the composite analysis.
 No dosage adjustment is necessary.
 
 Gender
@@ -85,7 +103,7 @@ No dosage adjustment is necessary.
 Hepatic Impairment
 
 Raltegravir is eliminated primarily by glucuronidation in the liver.
-A study of the pharmacokinetics of raltegravir was performed in subjects with moderate hepatic impairment.
+A study of the pharmacokinetics of raltegravir was performed in adult subjects with moderate hepatic impairment.
 Additionally, hepatic impairment was evaluated in the composite pharmacokinetic analysis.
 There were no clinically important pharmacokinetic differences between subjects with moderate hepatic impairment and healthy subjects.
 No dosage adjustment is necessary for patients with mild to moderate hepatic impairment.
@@ -94,7 +112,7 @@ The effect of severe hepatic impairment on the pharmacokinetics of raltegravir h
 Renal Impairment
 
 Renal clearance of unchanged drug is a minor pathway of elimination.
-A study of the pharmacokinetics of raltegravir was performed in subjects with severe renal impairment.
+A study of the pharmacokinetics of raltegravir was performed in adult subjects with severe renal impairment.
 Additionally, renal impairment was evaluated in the composite pharmacokinetic analysis.
 There were no clinically important pharmacokinetic differences between subjects with severe renal impairment and healthy subjects.
 No dosage adjustment is necessary.
@@ -103,11 +121,11 @@ Because the extent to which ISENTRESS may be dialyzable is unknown, dosing befor
 UGT1A1 Polymorphism
 
 There is no evidence that common UGT1A1 polymorphisms alter raltegravir pharmacokinetics to a clinically meaningful extent.
-In a comparison of 30 subjects with *28/*28 genotype (associated with reduced activity of UGT1A1) to 27 subjects with wild-type genotype, the geometric mean ratio (90% CI) of AUC was 1.41 (0.96, 2.09).
+In a comparison of 30 adult subjects with *28/*28 genotype (associated with reduced activity of UGT1A1) to 27 adult subjects with wild-type genotype, the geometric mean ratio (90% CI) of AUC was 1.41 (0.96, 2.09).
 
 Drug Interactions [see Drug Interactions (7)]
 
-Table 7: Effect of Other Agents on the Pharmacokinetics of Raltegravir
+Table 9: Effect of Other Agents on the Pharmacokinetics of Raltegravir in Adults
 
 | n | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -142,10 +160,10 @@ Additive to synergistic antiretroviral activity was observed when human T-lympho
 
 Resistance
 
-The mutations observed in the HIV-1 integrase coding sequence that contributed to raltegravir resistance (evolved either in cell culture or in subjects treated with raltegravir) generally included an amino acid substitution at either Y143 (changed to C, H, or R) or Q148 (changed to H, K, or R) or N155 (changed to H) plus one or more additional substitutions (i.e., L74M, E92Q, T97A, E138A/K, G140A/S, V151I, G163R, H183P, Y226C/D/F/H, S230R, and D232N).
+The mutations observed in the HIV-1 integrase coding sequence that contributed to raltegravir resistance (evolved either in cell culture or in subjects treated with raltegravir) generally included an amino acid substitution at either Y143 (changed to C, H, or R) or Q148 (changed to H, K, or R) or N155 (changed to H) plus one or more additional substitutions (i.e., L74M, E92Q, Q95K/R, T97A, E138A/K, G140A/S, V151I, G163R, H183P, Y226C/D/F/H, S230R, and D232N).
 
-Treatment-Naïve Subjects: By Week 96 in the STARTMRK trial, the primary raltegravir resistance-associated substitutions were observed in 4 (2 with Y143H/R and 2 with Q148H/R) of the 10 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
+Treatment-Naïve Adult Subjects: By Week 96 in the STARTMRK trial, the primary raltegravir resistance-associated substitutions were observed in 4 (2 with Y143H/R and 2 with Q148H/R) of the 10 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
 
-Treatment-Experienced Subjects: By Week 96 in the BENCHMRK trials, at least one of the primary raltegravir resistance-associated substitutions, Y143C/H/R, Q148H/K/R, and N155H, was observed in 76 of the 112 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
+Treatment-Experienced Adult Subjects: By Week 96 in the BENCHMRK trials, at least one of the primary raltegravir resistance-associated substitutions, Y143C/H/R, Q148H/K/R, and N155H, was observed in 76 of the 112 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
 The emergence of the primary raltegravir resistance-associated substitutions was observed cumulatively in 70 subjects by Week 48 and 78 subjects by Week 96, 15.2% and 17% of the raltegravir recipients, respectively.
 Some (n=58) of those HIV-1 isolates harboring one or more of the primary raltegravir resistance-associated substitutions were evaluated for raltegravir susceptibility yielding a median decrease of 26.3-fold (mean 48.9 ± 44.8-fold decrease, ranging from 0.8- to 159-fold) compared to the wild-type reference.

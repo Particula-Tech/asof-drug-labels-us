@@ -16,16 +16,19 @@ Raltegravir is not a substrate of cytochrome P450 (CYP) enzymes.
 Based on in vivo and in vitro studies, raltegravir is eliminated mainly by metabolism via a UGT1A1-mediated glucuronidation pathway.
 
 Rifampin, a strong inducer of UGT1A1, reduces plasma concentrations of ISENTRESS.
-Therefore, the dose of ISENTRESS should be increased during coadministration with rifampin [see Dosage and Administration (2)].
+Therefore, in adults the dose of ISENTRESS should be increased during coadministration with rifampin.
+There are no data to guide co-administration of ISENTRESS with rifampin in patients below 18 years of age [see Dosage and Administration (2)].
 The impact of other inducers of drug metabolizing enzymes, such as phenytoin and phenobarbital, on UGT1A1 is unknown.
 
 Coadministration of ISENTRESS with drugs that inhibit UGT1A1 may increase plasma levels of raltegravir.
 
-Selected drug interactions are presented in Table 6 [see Clinical Pharmacology (12.3)].
+All interaction studies were performed in adults.
 
-Table 6: Selected Drug Interactions
+Selected drug interactions are presented in Table 7 [see Clinical Pharmacology (12.3)].
 
-| Concomitant Drug Class:Drug Name | Effect on Concentrationof Raltegravir | Clinical Comment |
+Table 7: Selected Drug Interactions in Adults
+
+| Concomitant Drug Class: Drug Name | Effect on Concentration of Raltegravir | Clinical Comment |
 | --- | --- | --- |
 | HIV-1-Antiviral Agents |  |  |
 | atazanavir | ↑ | Atazanavir, a strong inhibitor of UGT1A1, increases plasma concentrations of raltegravir. However, since concomitant use of ISENTRESS with atazanavir/ritonavir did not result in a unique safety signal in Phase 3 studies, no dose adjustment is recommended. |
