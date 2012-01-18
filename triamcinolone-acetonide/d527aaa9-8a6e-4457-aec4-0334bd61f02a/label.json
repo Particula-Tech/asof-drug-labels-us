@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA022220"
+  ],
   "inn": "triamcinolone-acetonide",
-  "labeler": "",
+  "labeler": "Allergan, Inc.",
   "package_ndcs": [
     "0023-3457-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "triamcinolone acetonide",
+      "name": "TRIVARIS"
+    }
+  ],
   "setid": "d527aaa9-8a6e-4457-aec4-0334bd61f02a",
   "source": "dailymed"
 }
