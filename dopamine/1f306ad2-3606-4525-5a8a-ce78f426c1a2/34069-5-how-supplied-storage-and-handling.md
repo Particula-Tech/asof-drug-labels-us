@@ -19,7 +19,8 @@ Store at 20 to 25°C (68 to 77°F).
 
 Revised: October, 2004
 
-| ©Hospira 2004 | EN-0541 | Printed in USA |
-| --- | --- | --- |
+Printed in USA
 
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+EN-0541
+
+Hospira, Inc., Lake Forest, IL 60045 USA

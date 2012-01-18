@@ -71,7 +71,7 @@ Weaning − When discontinuing the infusion, it may be necessary to gradually de
 
 ## Pregnancy:
 
-Teratogenic Effects:Pregnancy Category C Animal studies have revealed no evidence of teratogenic effects due to dopamine.
+Teratogenic Effects: Pregnancy Category C Animal studies have revealed no evidence of teratogenic effects due to dopamine.
 However, in one study, administration of dopamine HCl to pregnant rats resulted in a decreased survival rate of the newborn and a potential for cataract formation in the survivors.
 There are no adequate and well-controlled studies in pregnant women and it is not known if dopamine crosses the placental barrier.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if, in the judgment of the physician, the potential benefit justifies the potential risk to the fetus.
