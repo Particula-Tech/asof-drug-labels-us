@@ -13,7 +13,6 @@
     "0597-0113-30",
     "0597-0115-30",
     "0597-0116-30",
-    "0597-0142-33",
     "0597-0285-07",
     "0597-0285-17",
     "0597-0285-30",
@@ -21,11 +20,6 @@
     "0597-0287-30"
   ],
   "products": [
-    {
-      "form": "KIT",
-      "generic": "pramipexole dihydrochloride",
-      "name": "MIRAPEX"
-    },
     {
       "form": "TABLET, EXTENDED RELEASE",
       "generic": "pramipexole dihydrochloride",

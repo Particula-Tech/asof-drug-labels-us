@@ -55,4 +55,4 @@ Trademark under license from: Boehringer Ingelheim International GmbH
 
 ©2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-OT220011RE062011 74988-06
+OT220011TH182011 74988-07
