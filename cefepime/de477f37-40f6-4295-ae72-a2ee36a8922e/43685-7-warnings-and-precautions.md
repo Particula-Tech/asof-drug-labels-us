@@ -13,6 +13,7 @@ During postmarketing surveillance, serious adverse events have been reported inc
 Most cases occurred in patients with renal impairment who received doses of cefepime that exceeded the recommended dosage schedules.
 However, some cases of encephalopathy occurred in patients receiving a dosage adjustment for their renal function.
 In the majority of cases, symptoms of neurotoxicity were reversible and resolved after discontinuation of cefepime and/or after hemodialysis.
+
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including cefepime for injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
@@ -20,6 +21,7 @@ C. difficile produces toxins A and B, which contribute to the development of CDA
 Hypertoxin-producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
@@ -28,15 +30,20 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 ## General
 
 Prescribing cefepime for injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+
 As with other antimicrobials, prolonged use of cefepime for injection may result in overgrowth of nonsusceptible microorganisms.
 Repeated evaluation of the patient's condition is essential.
 Should superinfection occur during therapy, appropriate measures should be taken.
+
 Many cephalosporins, including cefepime, have been associated with a fall in prothrombin activity.
 Those at risk include patients with renal or hepatic impairment, or poor nutritional state, as well as patients receiving a protracted course of antimicrobial therapy.
 Prothrombin time should be monitored in patients at risk, and exogenous vitamin K administered as indicated.
+
 Positive direct Coombs' tests have been reported during treatment with cefepime for injection.
 In hematologic studies or in transfusion cross-matching procedures when antiglobulin tests are performed on the minor side or in Coombs' testing of newborns whose mothers have received cephalosporin antibiotics before parturition, it should be recognized that a positive Coombs' test may be due to the drug.
+
 Cefepime for injection should be prescribed with caution in individuals with a history of gastrointestinal disease, particularly colitis.
+
 Arginine has been shown to alter glucose metabolism and elevate serum potassium transiently when administered at 33 times the amount provided by the maximum recommended human dose of cefepime for injection.
 The effect of lower doses is not presently known.
 
@@ -46,6 +53,7 @@ Patients should be counseled that antibacterial drugs including cefepime for inj
 They do not treat viral infections (e.g., the common cold).
 When cefepime for injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by cefepime for injection or other antibacterial drugs in the future.
+
 Diarrhea is a common problem caused by antibiotics, which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
@@ -94,6 +102,7 @@ Treatment should only be given if clearly indicated.
 
 The safety and effectiveness of cefepime in the treatment of uncomplicated and complicated urinary tract infections (including pyelonephritis), uncomplicated skin and skin structure infections, pneumonia, and as empiric therapy for febrile neutropenic patients have been established in the age groups 2 months up to 16 years.
 Use of cefepime for injection in these age groups is supported by evidence from adequate and well-controlled studies of cefepime in adults with additional pharmacokinetic and safety data from pediatric trials (see CLINICAL PHARMACOLOGY).
+
 Safety and effectiveness in pediatric patients below the age of 2 months have not been established.
 There are insufficient clinical data to support the use of cefepime for injection in pediatric patients under 2 months of age or for the treatment of serious infections in the pediatric population where the suspected or proven pathogen is Haemophilus influenzae type b.
 

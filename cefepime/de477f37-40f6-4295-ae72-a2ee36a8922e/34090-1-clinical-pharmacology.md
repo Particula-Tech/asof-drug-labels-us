@@ -64,9 +64,9 @@ Table 3: Average Concentrations of Cefepime in Specific Body Fluids (mcg/mL) or 
 | Blister Fluid | 2 g IV | 6 | 1.5 | 81.4 mcg/mL |
 | Bronchial Mucosa | 2 g IV | 20 | 4.8 | 24.1 mcg/g |
 | Sputum | 2 g IV | 5 | 4 | 7.4 mcg/mL |
-|  | 500 mg IV | 8 | 0-4 | 292 mcg/mL |
-| Urine | 1 g IV | 12 | 0-4 | 926 mcg/mL |
-|  | 2 g IV | 12 | 0-4 | 3120 mcg/mL |
+|  | 500 mg IV | 8 | 0 to 4 | 292 mcg/mL |
+| Urine | 1 g IV | 12 | 0 to 4 | 926 mcg/mL |
+|  | 2 g IV | 12 | 0 to 4 | 3120 mcg/mL |
 | Bile | 2 g IV | 26 | 9.4 | 17.8 mcg/mL |
 | Peritoneal Fluid | 2 g IV | 19 | 4.4 | 18.3 mcg/mL |
 | Appendix | 2 g IV | 31 | 5.7 | 5.2 mcg/g |
@@ -132,6 +132,7 @@ Aerobic Gram-Positive Microorganisms:
 
 The following in vitro data are available, but their clinical significance is unknown.
 Cefepime has been shown to have in vitro activity against most isolates of the following microorganisms; however, the safety and effectiveness of cefepime in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled trials.
+
 Aerobic Gram-Positive Microorganisms:
 
 - Staphylococcus epidermidis (methicillin-susceptible isolates only)
@@ -164,7 +165,7 @@ NOTE: Cefepime is inactive against most isolates of Clostridium difficile.
 
 ## Susceptibility Tests
 
-### Dilution Techniques
+## Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
@@ -197,13 +198,13 @@ Table 5
 
 | Microorganism | ATCC | MIC (mcg/mL) |
 | --- | --- | --- |
-| Escherichia coli | 25922 | 0.016-0.12 |
-| Staphylococcus aureus | 29213 | 1-4 |
-| Pseudomonas aeruginosa | 27853 | 1-4 |
-| Haemophilus influenzae | 49247 | 0.5-2 |
-| Streptococcus pneumoniae | 49619 | 0.06-0.25 |
+| Escherichia coli | 25922 | 0.016 to 0.12 |
+| Staphylococcus aureus | 29213 | 1 to 4 |
+| Pseudomonas aeruginosa | 27853 | 1 to 4 |
+| Haemophilus influenzae | 49247 | 0.5 to 2 |
+| Streptococcus pneumoniae | 49619 | 0.06 to 0.25 |
 
-### Diffusion Techniques
+## Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure2 requires the use of standardized inoculum concentrations.
@@ -217,7 +218,7 @@ Table 6
 |  | Zone Diameter (mm) |  |  |
 | --- | --- | --- | --- |
 | Microorganism | Susceptible (S) | Intermediate (I) | Resistant (R) |
-| Microorganisms other than Haemophilus spp.* and S. pneumoniae* | ≥18 | 15-17 | ≤14 |
+| Microorganisms other than Haemophilus spp.* and S. pneumoniae* | ≥18 | 15 to 17 | ≤14 |
 | Haemophilus spp.* | ≥26 | ---* | ---* |
 | *NOTE: Isolates from these species should be tested for susceptibility using specialized diffusion testing methods.2 Isolates of Haemophilus spp. with zones smaller than 26 mm should be considered equivocal and should be further evaluated. Isolates of S. pneumoniae should be tested against a 1-mcg oxacillin disk; isolates with oxacillin zone sizes larger than or equal to 20 mm may be considered susceptible to cefepime. |  |  |  |
 
@@ -229,7 +230,7 @@ Table 7
 
 | Microorganism | ATCC | Zone Size Range (mm) |
 | --- | --- | --- |
-| Escherichia coli | 25922 | 29-35 |
-| Staphylococcus aureus | 25923 | 23-29 |
-| Pseudomonas aeruginosa | 27853 | 24-30 |
-| Haemophilus influenzae | 49247 | 25-31 |
+| Escherichia coli | 25922 | 29 to 35 |
+| Staphylococcus aureus | 25923 | 23 to 29 |
+| Pseudomonas aeruginosa | 27853 | 24 to 30 |
+| Haemophilus influenzae | 49247 | 25 to 31 |

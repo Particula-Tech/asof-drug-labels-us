@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Cefepime for injection is indicated in the treatment of the following infections caused by susceptible strains of the designated microorganisms (see also PRECAUTIONS: Pediatric Use and DOSAGE AND ADMINISTRATION):
+Cefepime for injection, USP is indicated in the treatment of the following infections caused by susceptible strains of the designated microorganisms (see also PRECAUTIONS: Pediatric Use and DOSAGE AND ADMINISTRATION):
 
 Pneumonia (moderate to severe) caused by Streptococcus pneumoniae, including cases associated with concurrent bacteremia, Pseudomonas aeruginosa, Klebsiella pneumoniae, or Enterobacter species.
 
@@ -17,6 +17,6 @@ Uncomplicated Skin and Skin Structure Infections caused by Staphylococcus aureus
 Complicated Intra-abdominal Infections (used in combination with metronidazole) caused by Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis.
 (See CLINICAL STUDIES.)
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of cefepime for injection and other antibacterial drugs, cefepime for injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of cefepime for injection, USP and other antibacterial drugs, cefepime for injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

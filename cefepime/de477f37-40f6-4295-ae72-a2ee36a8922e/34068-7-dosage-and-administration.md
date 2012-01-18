@@ -8,12 +8,12 @@ Table 12: Recommended Dosage Schedule for Cefepime for Injection in Patients wit
 | Site and Type of Infection | Dose | Frequency | Duration (days) |
 | --- | --- | --- | --- |
 | Adults |  |  |  |
-| Moderate to Severe Pneumonia due to S. pneumoniae*, P. aeruginosa, K. pneumoniae, or Enterobacter species | 1-2 g IV | Every 12 hours | 10 |
-| Empiric therapy for febrile neutropenic patients (See INDICATIONS AND USAGE and CLINICAL STUDIES.) | 2 g IV | Every 8 hours | 7** |
-| Mild to Moderate Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli, K. pneumoniae, or P. mirabilis* | 0.5-1 g IV/IM*** | Every 12 hours | 7-10 |
+| Moderate to Severe Pneumonia due to S. pneumoniae*, P. aeruginosa, K. pneumoniae, or Enterobacter species | 1 to 2 g IV | Every 12 hours | 10 |
+| Empiric therapy for febrile neutropenic patients (see INDICATIONS AND USAGE and CLINICAL STUDIES.) | 2 g IV | Every 8 hours | 7** |
+| Mild to Moderate Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli, K. pneumoniae, or P. mirabilis* | 0.5 to 1 g IV/IM*** | Every 12 hours | 7 to 10 |
 | Severe Uncomplicated or Complicated Urinary Tract Infections, including pyelonephritis, due to E. coli or K. pneumoniae* | 2 g IV | Every 12 hours | 10 |
 | Moderate to Severe Uncomplicated Skin and Skin Structure Infections due to S. aureus or S. pyogenes | 2 g IV | Every 12 hours | 10 |
-| Complicated Intra-abdominal Infections (used in combination with metronidazole) caused by E. coli, viridans group streptococci, P. aeruginosa, K. pneumoniae, Enterobacter species, or B. fragilis. (See CLINICAL STUDIES.) | 2 g IV | Every 12 hours | 7-10 |
+| Complicated Intra-abdominal Infections (used in combination with metronidazole) caused by E. coli, viridans group streptococci, P. aeruginosa, K. pneumoniae, Enterobacter species, or B. fragilis (see CLINICAL STUDIES.) | 2 g IV | Every 12 hours | 7 to 10 |
 | Pediatric Patients (2 months up to 16 years) The maximum dose for pediatric patients should not exceed the recommended adult dose. The usual recommended dosage in pediatric patients up to 40 kg in weight for uncomplicated and complicated urinary tract infections (including pyelonephritis), uncomplicated skin and skin structure infections, and pneumonia is 50 mg per kg per dose, administered every 12 hours (50 mg per kg per dose, every 8 hours for febrile neutropenic patients), for durations as given above. |  |  |  |
 | *including cases associated with concurrent bacteremia. |  |  |  |
 | **or until resolution of neutropenia. In patients whose fever resolves but who remain neutropenic for more than 7 days, the need for continued antimicrobial therapy should be re-evaluated frequently. |  |  |  |
@@ -37,17 +37,20 @@ Table 13: Recommended Dosing Schedule for Cefepime for Injection in Adult Patien
 | Creatinine Clearance (mL/min) | Recommended Maintenance Schedule |  |  |  |
 | --- | --- | --- | --- | --- |
 | Greater than 60 Normal recommended dosing schedule | 500 mg every 12 hours | 1 g every 12 hours | 2 g every 12 hours | 2 g every 8 hours |
-| 30-60 | 500 mg every 24 hours | 1 g every 24 hours | 2 g every 24 hours | 2 g every 12 hours |
-| 11-29 | 500 mg every 24 hours | 500 mg every 24 hours | 1 g every 24 hours | 2 g every 24 hours |
+| 30 to 60 | 500 mg every 24 hours | 1 g every 24 hours | 2 g every 24 hours | 2 g every 12 hours |
+| 11 to 29 | 500 mg every 24 hours | 500 mg every 24 hours | 1 g every 24 hours | 2 g every 24 hours |
 | Less than 11 | 250 mg every 24 hours | 250 mg every 24 hours | 500 mg every 24 hours | 1 g every 24 hours |
 | CAPD | 500 mg every 48 hours | 1 g every 48 hours | 2 g every 48 hours | 2 g every 48 hours |
 | Hemodialysis* | 1 g on day 1, then 500 mg every 24 hours thereafter |  |  | 1 g every 24 hours |
 | *On hemodialysis days, cefepime should be administered following hemodialysis. Whenever possible, cefepime should be administered at the same time each day. |  |  |  |  |
 
 In patients undergoing continuous ambulatory peritoneal dialysis, cefepime for injection may be administered at normally recommended doses at a dosage interval of every 48 hours (see Table 13).
+
 In patients undergoing hemodialysis, approximately 68% of the total amount of cefepime present in the body at the start of dialysis will be removed during a 3-hour dialysis period.
 The dosage of cefepime for injection for hemodialysis patients is 1 g on Day 1 followed by 500 mg every 24 hours for the treatment of all infections except febrile neutropenia, which is 1 g every 24 hours.
+
 Cefepime for injection should be administered at the same time each day and following the completion of hemodialysis on hemodialysis days (see Table 13).
+
 Data in pediatric patients with impaired renal function are not available; however, since cefepime pharmacokinetics are similar in adults and pediatric patients (see CLINICAL PHARMACOLOGY), changes in the dosing regimen proportional to those in adults (see Tables 12 and 13) are recommended for pediatric patients.
 
 ## Administration
@@ -74,6 +77,7 @@ Table 14: Preparation of Solutions of Cefepime for Injection
 
 Intravenous: Cefepime for injection is compatible at concentrations between 1 mg per mL and 40 mg per mL with the following intravenous infusion fluids: 0.9% Sodium Chloride Injection, 5% and 10% Dextrose Injection, M/6 Sodium Lactate Injection, 5% Dextrose and 0.9% Sodium Chloride Injection, Lactated Ringers and 5% Dextrose Injection, Normosol-R™, and Normosol-M™ in 5% Dextrose Injection.
 These solutions may be stored up to 24 hours at controlled room temperature 20° to 25°C (68° to 77°F) or 7 days in a refrigerator 2° to 8°C (36° to 46°F).
+
 Cefepime for injection admixture compatibility information is summarized in Table 15.
 
 Table 15: Cefepime Admixture Stability
@@ -87,12 +91,12 @@ Table 15: Cefepime Admixture Stability
 | 40 mg/mL | Ampicillin 1 mg/mL | NS | 24 hours | 48 hours |
 | 40 mg/mL | Ampicillin 10 mg/mL | NS | 8 hours | 48 hours |
 | 4 mg/mL | Ampicillin 40 mg/mL | NS | 8 hours | 8 hours |
-| 4-40 mg/mL | Clindamycin Phosphate 0.25-6 mg/mL | NS | 24 hours | 7 days |
-| 4 mg/mL | Heparin 10-50 units/mL | NS or D5W | 24 hours | 7 days |
-| 4 mg/mL | Potassium Chloride 10-40 mEq/L | NS or D5W | 24 hours | 7 days |
+| 4 to 40 mg/mL | Clindamycin Phosphate 0.25 to 6 mg/mL | NS or D5W | 24 hours | 7 days |
+| 4 mg/mL | Heparin 10 to 50 units/mL | NS or D5W | 24 hours | 7 days |
+| 4 mg/mL | Potassium Chloride 10 to 40 mEq/L | NS or D5W | 24 hours | 7 days |
 | 4 mg/mL | Theophylline 0.8 mg/mL | D5W | 24 hours | 7 days |
-| 1-4 mg/mL | na | Aminosyn® II 4.25% with electrolytes and calcium | 8 hours | 3 days |
-| 0.125-0.25 mg/mL | na | InpersolTM with 4.25% dextrose | 24 hours | 7 days |
+| 1 to 4 mg/mL | na | Aminosyn® II 4.25% with electrolytes and calcium | 8 hours | 3 days |
+| 0.125 to 0.25 mg/mL | na | InpersolTM with 4.25% dextrose | 24 hours | 7 days |
 | NS = 0.9% Sodium Chloride Injection |  |  |  |  |
 | D5W = 5% Dextrose Injection |  |  |  |  |
 | na = not applicable |  |  |  |  |
@@ -101,7 +105,7 @@ Table 15: Cefepime Admixture Stability
 Solutions of cefepime for injection, like those of most beta-lactam antibiotics, should not be added to solutions of ampicillin at a concentration greater than 40 mg per mL, and should not be added to metronidazole, vancomycin, gentamicin, tobramycin, netilmicin sulfate, or aminophylline because of potential interaction.
 However, if concurrent therapy with cefepime for injection is indicated, each of these antibiotics can be administered separately.
 
-Intramuscular: Cefepime for injection constituted as directed is stable for 24 hours at controlled room temperature 20° to 25°C (68° to 77°F) or 7 days in a refrigerator 2° to 8°C (36° to 46°F) with the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride Injection, 5% Dextrose Injection, Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol, or 0.5% or 1% Lidocaine Hydrochloride.
+Intramuscular: Cefepime for injection constituted as directed is stable for 24 hours at controlled room temperature 20° to 25°C (68° to 77°F) or for 7 days in a refrigerator 2° to 8°C (36° to 46°F) with the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride Injection, 5% Dextrose Injection, Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol, or 0.5% or 1% Lidocaine Hydrochloride.
 
 NOTE: PARENTERAL DRUGS SHOULD BE INSPECTED VISUALLY FOR PARTICULATE MATTER BEFORE ADMINISTRATION.
 

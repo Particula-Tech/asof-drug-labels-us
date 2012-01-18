@@ -10,14 +10,14 @@ Table 8: Demographics of Evaluable Patients (First Episodes Only)
 
 | Total | Cefepime 164 | Ceftazidime 153 |
 | --- | --- | --- |
-| Median age (yr) | 56 (range, 18-82) | 55 (range, 16-84) |
+| Median age (yr) | 56 (range, 18 to 82) | 55 (range, 16 to 84) |
 | Male | 86 (52%) | 85 (56%) |
 | Female | 78 (48%) | 68 (44%) |
 | Leukemia | 65 (40%) | 52 (34%) |
 | Other hematologic malignancies | 43 (26%) | 36 (24%) |
 | Solid tumor | 54 (33%) | 56 (37%) |
-| Median ANC nadir (cells/microliter) | 20 (range, 0-500) | 20 (range, 0-500) |
-| Median duration of neutropenia (days) | 6 (range 0-39) | 6 (range, 0-32) |
+| Median ANC nadir (cells/microliter) | 20 (range, 0 to 500) | 20 (range, 0 to 500) |
+| Median duration of neutropenia (days) | 6 (range, 0 to 39) | 6 (range, 0 to 32) |
 | Indwelling venous catheter | 97 (59%) | 86 (56%) |
 | Prophylactic antibiotics | 62 (38%) | 64 (42%) |
 | Bone marrow graft | 9 (5%) | 7 (5%) |

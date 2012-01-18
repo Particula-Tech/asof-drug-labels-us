@@ -1,4 +1,4 @@
-SAGENT
+SAGENT™
 
 Rx Only
 
