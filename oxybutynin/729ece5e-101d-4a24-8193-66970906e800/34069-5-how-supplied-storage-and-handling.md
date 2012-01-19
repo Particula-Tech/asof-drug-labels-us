@@ -6,5 +6,3 @@ Blue scored tablets (5 mg) are engraved with DITROPAN on one side with 92 and 00
 Pharmacist: Dispense in tight, light-resistant container as defined in the USP.
 
 Store at controlled room temperature 59–86°F (15–30°C).
-
-Store at controlled room temperature 59–86°F (15–30°C).

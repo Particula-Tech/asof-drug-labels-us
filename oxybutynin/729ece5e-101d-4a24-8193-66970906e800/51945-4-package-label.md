@@ -1,10 +1,12 @@
-# PRINCIPAL DISPLAY PANEL - 100 Tablet Bottle
+# PRINCIPAL DISPLAY PANEL - 5 mg - 100 Tablet Bottle
 
 NDC 17314-9200-1
 
 DITROPAN® (oxybutynin chloride)
 
-5 mg ORTHO-McNEIL
+5 mg
+
+ORTHO-McNEIL
 
 100 Tablets
 
