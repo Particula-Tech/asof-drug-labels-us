@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020472"
+  ],
+  "inn": "estradiol",
+  "labeler": "U.S. Pharmaceuticals",
+  "package_ndcs": [
+    "63539-021-01"
+  ],
+  "products": [
+    {
+      "form": "RING",
+      "generic": "estradiol",
+      "name": "Estring"
+    }
+  ],
+  "setid": "e6183e05-b9b6-460e-b7bd-e6885bd0b696",
+  "source": "dailymed"
+}
