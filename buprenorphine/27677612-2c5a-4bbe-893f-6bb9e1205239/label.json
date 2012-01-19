@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020732"
+  ],
+  "inn": "buprenorphine",
+  "labeler": "Reckitt Benckiser Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "12496-1278-2",
+    "12496-1310-2"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "buprenorphine hydrochloride",
+      "name": "Subutex"
+    }
+  ],
+  "setid": "27677612-2c5a-4bbe-893f-6bb9e1205239",
+  "source": "dailymed"
+}
