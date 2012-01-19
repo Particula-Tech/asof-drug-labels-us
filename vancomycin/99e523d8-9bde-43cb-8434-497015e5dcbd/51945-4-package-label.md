@@ -21,7 +21,7 @@ Cautions: Do not add supplementary medication.
 Must not be used in series connections.
 Check for minute leaks and solution clarity.
 
-Rx Only
+Rx only
 
 Store at or below -20°C (-4°F).
 Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
@@ -29,8 +29,7 @@ DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
 Thawed solution is stable for 30 days under refrigeration or 72 hours at room temperature.
 Do not refreeze.
 
-U.S. Pat.
-Nos. 4,686,125; 4,779,997 Baxter and GALAXY are trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA
+Baxter and GALAXY are trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA
 
 PL 2040 Plastic
 
@@ -49,7 +48,7 @@ Do not refreeze.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-*FOR BAR CODE POSITION ONLY (01) 50303383580486
+*FOR BAR CODE POSITION ONLY (01) 20303383580485
 
 GALAXY Container
 
@@ -72,8 +71,8 @@ DO NOT FORCE THAW BY IMMERSION IN WATER BATHS OR BY MICROWAVE IRRADIATION.
 The thawed solution in GALAXY plastic container (PL 2040) remains chemically stable for 72 hours at room temperature or for 30 days when stored under refrigeration.
 Do not refreeze.
 
-Baxter and GALAXY are trademarks of Baxter International Inc.
+Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
 PL 2040 Plastic
 
-07-04-61-825
+07-04-66-117
