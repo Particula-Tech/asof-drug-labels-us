@@ -2,7 +2,9 @@
 
 Average plasma concentrations of ceftriaxone following a single 30-minute intravenous (IV) infusion of a 0.5, 1 or 2 gm dose in healthy subjects are presented in Table 1.
 
-| Table 1 Ceftriaxone Plasma Concentrations After Single Dose Administration |  |  |  |  |  |  |  |  |  |
+Table 1
+
+| Ceftriaxone Plasma Concentrations After Single Dose Administration |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dose/Route | Average Plasma Concentrations (mcg/mL) |  |  |  |  |  |  |  |  |
 |  | 0.5 hr | 1 hr | 2 hr | 4 hr | 6 hr | 8 hr | 12 hr | 16 hr | 24 hr |
@@ -14,7 +16,9 @@ Multiple IV doses ranging from 0.5 to 2 gm at 12- to 24-hour intervals resulted 
 
 Ceftriaxone concentrations in urine are high, as shown in Table 2.
 
-| Table 2 Urinary Concentrations of Ceftriaxone After Single Dose Administration |  |  |  |  |  |  |
+Table 2
+
+| Urinary Concentrations of Ceftriaxone After Single Dose Administration |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Dose/Route | Average Urinary Concentrations (mcg/mL) |  |  |  |  |  |
 |  | 0-2 hr | 2-4 hr | 4-8 hr | 8-12 hr | 12-24 hr | 24-48 hr |
@@ -32,7 +36,9 @@ Ceftriaxone crosses the blood placenta barrier.
 The average values of maximum plasma concentration, elimination half-life, plasma clearance and volume of distribution after a 50 mg/kg IV dose and after a 75 mg/kg IV dose in pediatric patients suffering from bacterial meningitis are shown in Table 3.
 Ceftriaxone penetrated the inflamed meninges of infants and pediatric patients; CSF concentrations after a 50 mg/kg IV dose and after a 75 mg/kg IV dose are also shown in Table 3.
 
-| Table 3 Average Pharmacokinetic Parameters of Ceftriaxone in Pediatric Patients With Meningitis |  |  |
+Table 3
+
+| Average Pharmacokinetic Parameters of Ceftriaxone in Pediatric Patients With Meningitis |  |  |
 | --- | --- | --- |
 |  | 50 mg/kg IV | 75 mg/kg IV |
 | Maximum Plasma Concentrations (mcg/mL) | 216 | 275 |
@@ -47,7 +53,9 @@ Compared to that in healthy adult subjects, the pharmacokinetics of ceftriaxone 
 Ceftriaxone was not removed to any significant extent from the plasma by hemodialysis.
 In 6 of 26 dialysis patients, the elimination rate of ceftriaxone was markedly reduced.
 
-| Table 4 Average Pharmacokinetic Parameters of Ceftriaxone in Humans |  |  |  |
+Table 4
+
+| Average Pharmacokinetic Parameters of Ceftriaxone in Humans |  |  |  |
 | --- | --- | --- | --- |
 | Subject Group | Elimination Half-life (hr) | Plasma Clearance (L/hr) | Volume of Distribution (L) |
 | Healthy Subjects | 5.8-8.7 | 0.58-1.45 | 5.8-13.5 |
@@ -213,7 +221,7 @@ A report of “Resistant” indicates that the pathogen is not likely to be inhi
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 Standardized ceftriaxone powder should provide the following MIC values:2
 
-| Microorganism | ATCC®# | MIC (mcg/mL) |
+| Microorganism | ATCC # | MIC (mcg/mL) |
 | --- | --- | --- |
 | Escherichia coli | 25922 | 0.03-0.12 |
 | Staphylococcus aureus | 29213 | 1-8A bimodal distribution of MICs results at the extremes of the acceptable range should be suspect and control validity should be verified with data from other control strains. |
@@ -272,7 +280,7 @@ The ceftriaxone MIC should be determined for those isolates with oxacillin zone 
 As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
 For the diffusion technique, the 30 mcg ceftriaxone disc should provide the following zone diameters in these laboratory test quality control strains:3
 
-| Microorganism | ATCC®# | Zone Diameter Ranges (mm) |
+| Microorganism | ATCC # | Zone Diameter Ranges (mm) |
 | --- | --- | --- |
 | Escherichia coli | 25922 | 29 - 35 |
 | Staphylococcus aureus | 25923 | 22 - 28 |
@@ -299,4 +307,3 @@ Standardized ceftriaxone powder should provide the following MIC values for the 
 | Agar | Bacteroides fragilis | 25285 | 32 - 128 |
 |  | Bacteroides thetaiotaomicron | 29741 | 64 - 256 |
 | Broth | Bacteroides thetaiotaomicron | 29741 | 32 - 128 |
-| ATCC® is a registered trademark of the American Type Culture Collection. |  |  |  |

@@ -1,7 +1,5 @@
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL
 
-Container Label
-
 Baxter
 
 Ceftriaxone
@@ -75,14 +73,11 @@ Carton Label
 
 Baxter
 
-Ceftriaxone Injection, USP (In Dextrose)
+Ceftriaxone Injection, USP (In Dextrose) 2g
 
-2g
-
-12 - 50 mL Single-Dose Containers Iso-osmotic
-
-Store at or below -20°C/-4°F.
+12 - 50 mL Single-Dose Containers Iso-osmotic Store at or below -20°C/-4°F.
 Do not refreeze.
+
 Rx only.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
@@ -94,3 +89,32 @@ Code 2G3505
 *FOR BAR CODE POSITION ONLY
 
 (01) 50303385003419
+
+GALAXY Container
+
+Sterile Nonpyrogenic
+
+Each 50 mL contains: Ceftriaxone Sodium, USP equivalent to 2 g ceftriaxone with 1.2 g of Dextrose Hydrous, USP, added to adjust osmolality. pH may have been adjusted with sodium hydroxide and/or hydrochloric acid. pH range 6.0 to 8.0.
+
+Usual dosage: See package insert.
+
+Cautions: Administer IV using sterile equipment.
+Must not be used in series connections.
+Do not add supplementary medication.
+Check for minute leaks by squeezing thawed bag firmly.
+If leaks are found, discard bag as sterility may be impaired.
+Do not use unless solution is clear.
+
+Thaw at room temperature (25°C/77°F) or under refrigeration (5°C/41°F).
+DO NOT FORCE THAW BY IMMERSION IN WATER BATHS FOR BY MICROWAVE IRRADIATION.
+The thawed solution is stable for 21 days under refrigeration or 48 hours at room temperature.
+Do not refreeze.
+
+Handle frozen product containers with care.
+Product containers may be fragile in the frozen state.
+
+Baxter and Galaxy are registered trademarks of Baxter International Inc.
+
+PL 2040 Plastic
+
+07-04-65-180
