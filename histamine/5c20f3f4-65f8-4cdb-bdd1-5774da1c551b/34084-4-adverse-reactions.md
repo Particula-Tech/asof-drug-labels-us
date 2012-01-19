@@ -21,8 +21,13 @@ Oxygen should be given by mask.
 Aminophylline or adrenal corticosteroids may be used if necessary after adequate epinephrine and circulatory support has been given.
 
 Emergency resuscitation measures and personnel trained in their use should be available immediately in the event of a serious systemic or anaphylactic reaction not responsive to the above measures (Ref.
-J. ALLERGY AND CLINICAL IMMUNOLOGY 77 (2): p. 271-273, 1986).16
+J. ALLERGY AND CLINICAL IMMUNOLOGY 77s (2): p. 271-273, 1986).16
 
 Rarely are all of the above measures necessary, the tourniquet and epinephrine usually producing prompt responses.
 However, the physician should be prepared in advance for all contingencies.
 Promptness in beginning emergency treatment measures is of utmost importance.
+
+Adverse Event Reporting Report all adverse events to Jubilant HollisterStier LLC Customer Technical Services Department at 1 (800) 992-1120.
+A voluntary adverse event reporting system for health professionals is available through the FDA MEDWATCH program.
+Preprinted forms (FDA Form 3500) are available from the FDA by calling 1 (800) FDA-1088.
+Completed forms should be mailed to MEDWATCH, 5600 Fisher Lane, Rockville, MD 20852-9787 or Fax to: 1 (800) FDA-0178.
