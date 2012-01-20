@@ -1,6 +1,6 @@
 # Patient Information
 
-Amlodipine Besylate Tablets Read this information carefully before you start taking amlodipine besylate tablets and each time you refill your prescription.
+Amlodipine Besylate Tablets, USP Read this information carefully before you start taking amlodipine besylate tablets and each time you refill your prescription.
 There may be new information.
 This information does not replace talking with your doctor.
 If you have any questions about amlodipine besylate tablets , ask your doctor.
@@ -79,4 +79,4 @@ Only use amlodipine besylate tablets the way your doctor told you to.
 Do not give amlodipine besylate tablets to other people, even if they have the same symptoms you have.
 They may harm them.
 You can ask your pharmacist or doctor for information about amlodipine besylate tablets , or you can call 1-866-850-2876.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 08/2011
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 12/2011
