@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-## Adverse Reactions in Adult Patients:
+## Adverse Reactions in Adult Patients
 
 During clinical investigations with oral and parenteral ciprofloxacin, 49,038 patients received courses of the drug.
 Most of the adverse events reported were described as only mild or moderate in severity, abated soon after the drug was discontinued, and required no treatment.
@@ -16,7 +16,7 @@ Additional medically important events that occurred in less than 1% of ciproflox
 - GASTROINTESTINAL: painful oral mucosa, oral candidiasis, dysphagia, intestinal perforation, gastrointestinal bleeding, cholestatic jaundice, hepatitis
 - HEMIC/LYMPHATIC: lymphadenopathy, petechia
 - METABOLIC/NUTRITIONAL: amylase increase, lipase increase
-- MUSCULOSKELETAL: arthralgia or back pain, joint stiffness, achiness, neck or chest pain, flare up of gout
+- MUSCULOSKELETAL: arthralgia or back pain, joint stiffness, achiness, neck or chest pain, flare up of gout, muscle weakness
 - RENAL/UROGENITAL: interstitial nephritis, nephritis, renal failure, polyuria, urinary retention, urethral bleeding, vaginitis, acidosis, breast pain
 - RESPIRATORY: dyspnea, epistaxis, laryngeal or pulmonary edema, hiccough, hemoptysis, bronchospasm, pulmonary embolism
 - SKIN/HYPERSENSITIVITY: allergic reaction, pruritus, urticaria, photosensitivity/phototoxicity reaction, flushing, fever, chills, angioedema, edema of the face, neck, lips, conjunctivae or hands, cutaneous candidiasis, hyperpigmentation, erythema nodosum, sweating
@@ -26,9 +26,9 @@ In several instances nausea, vomiting, tremor, irritability, or palpitation were
 
 In randomized, double-blind controlled clinical trials comparing ciprofloxacin tablets (500 mg BID) to cefuroxime axetil (250 mg - 500 mg BID) and to clarithromycin (500 mg BID) in patients with respiratory tract infections, ciprofloxacin demonstrated a CNS adverse event profile comparable to the control drugs.
 
-## Adverse Reactions in Pediatric Patients:
+## Adverse Reactions in Pediatric Patients
 
-Ciprofloxacin, administered I.V. and /or orally, was compared to a cephalosporin for treatment of complicated urinary tract infections (cUTI) or pyelonephritis in pediatric patients 1 to 17 years of age (mean age of 6 ± 4 years).
+Ciprofloxacin, administered IV and /or orally, was compared to a cephalosporin for treatment of complicated urinary tract infections (cUTI) or pyelonephritis in pediatric patients 1 to 17 years of age (mean age of 6 ± 4 years).
 The trial was conducted in the US, Canada, Argentina, Peru, Costa Rica, Mexico, South Africa, and Germany.
 The duration of therapy was 10 to 21 days (mean duration of treatment was 11 days with a range of 1 to 88 days).
 The primary objective of the study was to assess musculoskeletal and neurological safety within 6 weeks of therapy and through one year of follow-up in the 335 ciprofloxacin- and 349 comparator-treated patients enrolled.
@@ -40,7 +40,7 @@ Within 6 weeks of treatment initiation, the rates of these events were 9.3% (31/
 The majority of these events were mild or moderate in intensity.
 All musculoskeletal events occurring by 6 weeks resolved (clinical resolution of signs and symptoms), usually within 30 days of end of treatment.
 Radiological evaluations were not routinely used to confirm resolution of the events.
-The events occurred more frequently in ciprofloxacin-treated patients than control patients, regardless of whether they received I.V. or oral therapy.
+The events occurred more frequently in ciprofloxacin-treated patients than control patients, regardless of whether they received IV or oral therapy.
 Ciprofloxacin-treated patients were more likely to report more than one event and on more than one occasion compared to control patients.
 These events occurred in all age groups and the rates were consistently higher in the ciprofloxacin group compared to the control group.
 At the end of 1 year, the rate of these events reported at any time during that period was 13.7% (46/335) in the ciprofloxacin-treated group versus 9.5% (33/349) comparator-treated patients.
@@ -81,7 +81,7 @@ The following adverse events have been reported from worldwide marketing experie
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these events in labeling are typically based on one or more of the following factors: (1) seriousness of the event, (2) frequency of the reporting, or (3) strength of causal connection to the drug.
 
-Agitation, agranulocytosis, albuminuria, anaphylactic reactions (including life-threatening anaphylactic shock), anosmia, candiduria, cholesterol elevation (serum), confusion, constipation, delirium, dyspepsia, dysphagia, erythema multiforme, exfoliative dermatitis, fixed eruption, flatulence, glucose elevation (blood), hemolytic anemia, hepatic failure (including fatal cases), hepatic necrosis, hyperesthesia, hypertonia, hypesthesia, hypotension (postural), jaundice, marrow depression (life threatening), methemoglobinemia, moniliasis (oral, gastrointestinal, vaginal), myalgia, myasthenia, exacerbation of myasthenia gravis, myoclonus, nystagmus, pancreatitis, pancytopenia (life threatening or fatal outcome), peripheral neuropathy, phenytoin alteration (serum), photosensitivity/phototoxicity reaction, potassium elevation (serum), prothrombin time prolongation or decrease, pseudomembranous colitis (The onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment.), psychosis (toxic), renal calculi, serum sickness like reaction, Stevens-Johnson syndrome, taste loss, tendinitis, tendon rupture, torsade de pointes, toxic epidermal necrolysis (Lyell's Syndrome), triglyceride elevation (serum), twitching, vaginal candidiasis, and vasculitis.
+Agitation, agranulocytosis, albuminuria, anaphylactic reactions (including life-threatening anaphylactic shock), anosmia, candiduria, cholesterol elevation (serum), confusion, constipation, delirium, dyspepsia, dysphagia, erythema multiforme, exfoliative dermatitis, fixed eruption, flatulence, glucose elevation (blood), hemolytic anemia, hepatic failure (including fatal cases), hepatic necrosis, hyperesthesia, hypertonia, hypesthesia, hypotension (postural), jaundice, marrow depression (life threatening), methemoglobinemia, moniliasis (oral, gastrointestinal, vaginal), myalgia, myasthenia, exacerbation of myasthenia gravis, myoclonus, nystagmus, pancreatitis, pancytopenia (life threatening or fatal outcome), peripheral neuropathy, phenytoin alteration (serum), photosensitivity/phototoxicity reaction, polyneuropathy, potassium elevation (serum), prothrombin time prolongation or decrease, pseudomembranous colitis (The onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment.), psychosis (toxic), QT prolongation, renal calculi, serum sickness like reaction, Stevens-Johnson syndrome, taste loss, tendinitis, tendon rupture, torsade de pointes, toxic epidermal necrolysis (Lyell's Syndrome), triglyceride elevation (serum), twitching, vaginal candidiasis, vasculitis and ventricular arrhythmia.
 (See PRECAUTIONS.)
 
 Adverse events were also reported by persons who received ciprofloxacin for anthrax post-exposure prophylaxis following the anthrax bioterror attacks of October 2001.
@@ -94,4 +94,4 @@ Adverse Laboratory Changes: Changes in laboratory parameters listed as adverse e
 | Hematologic | – | Eosinophilia (0.6%), leukopenia (0.4%), decreased blood platelets (0.1%), elevated blood platelets (0.1%), pancytopenia (0.1%). |
 | Renal | – | Elevations of serum creatinine (1.1%), BUN (0.9%), CRYSTALLURIA, CYLINDRURIA, AND HEMATURIA HAVE BEEN REPORTED. |
 
-Other changes occurring in less than 0.1% of courses were: elevation of serum gammaglutamyl transferase, elevation of serum amylase, reduction in blood glucose, elevated uric acid, decrease in hemoglobin, anemia, bleeding diathesis, increase in blood monocytes, leukocytosis.
+Other changes occurring in less than 0.1% of courses were: elevation of serum gammaglutamyl transferase, elevation of serum amylase, reduction in blood glucose, elevated uric acid, decrease in hemoglobin, anemia, bleeding diathesis, increase in blood monocytes, and leukocytosis.

@@ -13,4 +13,4 @@ Ciprofloxacin tablets, USP 250 mg, 500 mg, and 750 mg are available in the follo
 |  | 500 mg | NDC 16252-515-01 |  |
 | Bottles of 50: | 750 mg | NDC 16252-516-05 |  |
 
-Store at 20°- 25°C (68°- 77°F); excursions permitted to 15°- 30°C (59°- 86°F) [see USP Controlled Room Temperature].
+Store at 20°- 25°C (68°- 77°F); excursions permitted to 15°- 30°C (59°- 86°F) [See USP Controlled Room Temperature].
