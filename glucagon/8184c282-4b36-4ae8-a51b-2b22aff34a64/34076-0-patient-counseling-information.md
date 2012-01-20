@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[see FDA-Approved Patient Labeling (17.2)]
+[See FDA-Approved Patient Labeling (Patient Instructions for Emergency Use).]
 
 ## 17.1 Physician Instructions
 
@@ -17,17 +17,13 @@ The patient’s ability to concentrate and react may be impaired as a result of 
 This may present a risk in situations where these abilities are especially important, such as driving or operating machinery.
 Therefore, these activities should be avoided until the patient has had a meal with oral carbohydrates.
 
-## 17.2 FDA-Approved Patient Labeling
+Date of issue: December 29, 2011
 
-See separate leaflet.
-
-Date of issue: December 15, 2010
-
-Version: 2
+Version: 3
 
 GlucaGen® and HypoKit® are registered trademarks of Novo Nordisk A/S
 
-© 1998- 2010 Novo Nordisk
+© 1998-2011 Novo Nordisk
 
 For information contact:
 

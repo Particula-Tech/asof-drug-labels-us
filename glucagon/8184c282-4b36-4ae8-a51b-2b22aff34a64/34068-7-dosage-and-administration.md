@@ -1,5 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+For GlucaGen HypoKit:
+
 ## 2.1 Treatment of severe hypoglycemia
 
 1. Using the supplied prefilled syringe, carefully insert the needle through the rubber stopper of the vial containing GlucaGen powder and inject all the liquid from the syringe into the vial.
@@ -14,6 +16,8 @@
 8. The glucagon injection may be repeated using a new kit while waiting for emergency assistance.
 9. Intravenous glucose MUST be administered if the patient fails to respond to glucagon.
 10. When the patient has responded to the treatment, give oral carbohydrates to restore the liver glycogen and prevent recurrence of hypoglycemia.
+
+For GlucaGen Diagnostic Kit and the GlucaGen 10-pack:
 
 ## 2.2 Use as a diagnostic aid
 
@@ -45,3 +49,6 @@ The usual diagnostic dose for relaxation of the stomach, duodenal bulb, duodenum
 
 9.
 After the end of the diagnostic procedure, give oral carbohydrates to patients who have been fasting, if this is compatible with the diagnostic procedure applied.
+
+The GlucaGen Diagnostic Kit and the GlucaGen 10-pack presentations are intended only for use by healthcare providers as a diagnostic aid.
+The GlucaGen Diagnostic Kit and the GlucaGen 10-pack presentations are not intended for use by patients to treat severe hypoglycemia because they are not packaged with a syringe and diluent necessary for rapid preparation and administration during an emergency outside of a healthcare facility.
