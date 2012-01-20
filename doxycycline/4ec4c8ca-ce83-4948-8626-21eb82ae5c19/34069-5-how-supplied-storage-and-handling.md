@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Doxycycline Hyclate Capsules USP, equivalent to 100 mg doxycycline: Opaque Blue, No. 0 hard gelatin capsule printed “West-ward 3142”.
+Doxycycline Hyclate Capsules, USP equivalent to 100 mg doxycycline: No. 0 Blue/Blue Opaque Hard Gelatin Capsules printed “West-ward 3142” in Black Ink.
 
 - Bottles of 14 capsules.
 - Bottles of 20 capsules

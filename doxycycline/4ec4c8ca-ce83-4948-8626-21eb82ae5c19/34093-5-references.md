@@ -14,4 +14,4 @@
 Manufactured By: Hikma Pharmaceuticals P.O.
 Box 182400 Amman 11118 - Jordan
 
-Distributed By: West-ward Pharmaceutical Corp. Eatontown, NJ 07724 Revised June 2009
+Distributed By: West-ward Pharmaceutical Corp. Eatontown, NJ 07724 Revised November 2011

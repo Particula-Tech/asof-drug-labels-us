@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-To reduce the development of drug-resistant bacteria and maintain effectiveness of doxycycline hyclate capsules and other antibacterial drugs, doxycycline hyclate capsules should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain effectiveness of Doxycycline Hyclate Capsules, USP and other antibacterial drugs, Doxycycline Hyclate Capsules, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
@@ -43,8 +43,7 @@ Doxycycline is indicated for treatment of infections caused by the following gra
 Doxycycline is indicated for treatment of infections caused by the following gram-positive microorganisms when bacteriologic testing indicates appropriate susceptibility to the drug:
 
 - Upper respiratory infections caused by Streptococcus pneumoniae (formerly Diplococcus pneumoniae).
-
-Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
+- Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 
 When penicillin is contraindicated, doxycycyline is an alternative drug in the treatment of the following infections:
 

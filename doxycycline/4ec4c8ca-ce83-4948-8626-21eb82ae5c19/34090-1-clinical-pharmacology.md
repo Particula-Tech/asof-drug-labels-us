@@ -53,7 +53,7 @@ The precise mechanism of action of the drug is not known.
 ### Susceptibility tests
 
 Diffusion techniques: Quantitative methods that require measurement of zone diameters give the most precise estimate of the susceptibility of bacteria to antimicrobial agents.
-One such standard procedure1 has been recommended for use with disks to test susceptibility of organisms to doxycycline, uses the 30-mcg tetracycline-class disk or the 30- mcg doxycycline disk.
+One such standard procedure1 has been recommended for use with disks to test susceptibility or organisms to doxycycline, uses the 30-mcg tetracycline-class disk or the 30- mcg doxycycline disk.
 Interpretation involves the correlation of the diameter obtained in the disk test with the minimum inhibitory concentration (MIC) for tetracycline or doxycycline, respectively.
 
 Reports from the laboratory giving results of the standard single-disk susceptibility test with a 30-mcg tetracycline-class disk or the 30-mcg doxycycline disk should be interpreted according to the following criteria:
@@ -65,9 +65,9 @@ Reports from the laboratory giving results of the standard single-disk susceptib
 | 15-18 | 13-15 | Intermediate |
 | ≤14 | ≤12 | Resistant |
 
-A report of “susceptible” indicates that the pathogen is likely to be inhibited by generally achievable blood levels.
-A report of “intermediate” suggests that the organism would be susceptible if a high dosage is used or if the infection is confined to tissues and fluids in which antimicrobial levels are attained.
-A report of “resistant” indicates that achievable concentrations are unlikely to be inhibitory, and other therapy should be selected.
+A report of “Susceptible” indicates that the pathogen is likely to be inhibited by generally achievable blood levels.
+A report of “Intermediate” suggests that the organism would be susceptible if a high dosage is used or if the infection is confined to tissues and fluids in which antimicrobial levels are attained.
+A report of “Resistant” indicates that achievable concentrations are unlikely to be inhibitory, and other therapy should be selected.
 
 Standardized procedures require the use of laboratory control organisms.
 The 30-mcg tetracycline-class disk or the 30-mcg doxycycline disk should give the following zone diameters:

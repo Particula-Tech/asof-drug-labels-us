@@ -4,7 +4,6 @@ THE USUAL DOSAGE AND FREQUENCY OF ADMINISTRATION OF DOXYCYCLINE DIFFERS FROM THA
 EXCEEDING THE RECOMMENDED DOSAGE MAY RESULT IN AN INCREASED INCIDENCE OF SIDE EFFECTS.
 
 Adults: The usual dose of oral doxycycline is 200 mg on the first day of treatment (administered 100 mg every 12 hours) followed by a maintenance dose of 100 mg/day.
-The maintenance dose may be administered as a single dose or as 50 mg every 12 hours.
 
 In the management of more severe infections (particularly chronic infections of the urinary tract), 100 mg every 12 hours is recommended.
 
@@ -33,7 +32,7 @@ Nongonococcal urethritis (NGU) caused by C. trachomatis and U. urealyticum: 100 
 
 Syphilis - early: Patients who are allergic to penicillin should be treated with doxycycline 100 mg, by mouth, twice a day for 2 weeks.
 
-Syphilis of more than one year"s duration: Patients who are allergic to penicillin should be treated with doxycycline 100 mg, by mouth, twice a day for 4 weeks.
+Syphilis of more than one year's duration: Patients who are allergic to penicillin should be treated with doxycycline 100 mg, by mouth, twice a day for 4 weeks.
 
 Acute epididymo-orchitis caused by N. gonorrhoeae: 100 mg, by mouth, twice a day for at least 10 days.
 

@@ -15,5 +15,5 @@ Doxycycline will not degrade into an epianhydro form.
 Each capsule for oral administration contains doxycycline hyclate equivalent to 100 mg of doxycycline (anhydrous).
 Inactive ingredients: lactose monohydrate, microcrystalline cellulose, magnesium stearate.
 
-100 mg gelatin capsule shell contains: FD&C Blue#1, silicon dioxide, sodium lauryl sulfate and titanium dioxide.
+100 mg gelatin capsule shell contains: FD&C Blu e#1, silicon dioxide, sodium lauryl sulfate and titanium dioxide.
 The printing ink contains: D&C Yellow #10, FD&C Blue #1, FD&C Blue #2, FD&C Red #40, n-Butyl Alcohol, Pharmaceutical Glaze, Propylene Glycol, SDA-3A, Alcohol and Synthetic Black Iron Oxide.
