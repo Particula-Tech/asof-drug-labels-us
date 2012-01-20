@@ -20,6 +20,7 @@ Serious eye problems include:
 TOPAMAX® may cause decreased sweating and increased body temperature (fever).
 People, especially children, should be watched for signs of decreased sweating and fever, especially in hot temperatures.
 Some people may need to be hospitalized for this condition.
+Call your healthcare provider right away if you have a fever or decreased sweating.
 
 TOPAMAX® can increase the level of acid in your blood (metabolic acidosis).
 If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones, can slow the rate of growth in children, and may possibly harm your baby if you are pregnant.
@@ -236,7 +237,7 @@ Inactive ingredients:
 - Tablets - lactose monohydrate, pregelatinized starch, microcrystalline cellulose, sodium starch glycolate, magnesium stearate, purified water, carnauba wax, hypromellose, titanium dioxide, polyethylene glycol, synthetic iron oxide, and polysorbate 80.
 - Sprinkle Capsules - sugar spheres (sucrose and starch), povidone, cellulose acetate, gelatin, sorbitan monolaurate, sodium lauryl sulfate, titanium dioxide, and black pharmaceutical ink.
 
-Revised July 2011
+Revised January 2012
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

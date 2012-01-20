@@ -10,13 +10,11 @@ Rx only 60 tablets
 
 CAUTION: Verify Prescription Before Dispensing
 
-NEW TABLET COLOR & IMPRINT
-
 ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
-Revised April 2009
+Revised November 2011
 
-ORTHO-McNEIL NEUROLOGICS® Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
+janssen
 
 PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
 
@@ -30,13 +28,11 @@ CAUTION: Verify Prescription Before Dispensing
 
 ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
-NEW TABLET IMPRINT
-
 Rx only 60 tablets
 
-Revised April 2009
+Revised November 2011
 
-ORTHO-McNEIL NEUROLOGICS® Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
+janssen
 
 PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
@@ -52,9 +48,9 @@ ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
 Rx only 60 tablets
 
-Revised January 2011
+Revised November 2011
 
-ORTHO-McNEIL NEUROLOGICS® Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
+janssen
 
 PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
 
@@ -70,9 +66,9 @@ ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
 Rx only 60 tablets
 
-Revised January 2011
+Revised November 2011
 
-ORTHO-McNEIL NEUROLOGICS® Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
+janssen
 
 PRINCIPAL DISPLAY PANEL - 15 mg Capsule Bottle Label
 
@@ -86,9 +82,9 @@ ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
 Rx only 60 capsules
 
-Revised April 2009
+Revised November 2011
 
-ORTHO-McNEIL NEUROLOGICS® Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
+janssen
 
 PRINCIPAL DISPLAY PANEL - 25 mg Capsule Bottle Label
 
@@ -102,6 +98,6 @@ ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
 Rx only 60 capsules
 
-Revised April 2009
+Revised November 2011
 
-ORTHO-McNEIL NEUROLOGICS® Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
+janssen

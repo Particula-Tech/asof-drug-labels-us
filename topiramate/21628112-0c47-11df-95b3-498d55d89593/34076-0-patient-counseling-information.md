@@ -10,7 +10,8 @@ Patients taking TOPAMAX® should be told to seek immediate medical attention if 
 
 ## 17.2 Oligohydrosis and Hyperthermia
 
-Patients, especially pediatric patients, treated with TOPAMAX® should be monitored closely for evidence of decreased sweating and increased body temperature, especially in hot weather [see Warnings and Precautions (5.2)].
+Patients, especially pediatric patients, treated with TOPAMAX® should be monitored closely for evidence of decreased sweating and increased body temperature, especially in hot weather.
+Patients should be counseled to contact their healthcare professionals immediately if they develop these symptoms [see Warnings and Precautions (5.2)].
 
 ## 17.3 Metabolic Acidosis
 
