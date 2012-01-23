@@ -54,7 +54,7 @@ Therefore, tell your doctor about all the medicines you take including:
 - quinidine (used to correct disturbances in heart rhythm)
 - amitriptyline or nortriptyline for depression
 - pimozide for psychiatric illness
-- amphotericin B for fungal infections
+- amphotericin B or voriconazole for fungal infections
 - erythromycin for bacterial infections
 - cyclophosphamide or vinca alkaloids such as vincristine or vinblastine for treatment of cancer
 - fentanyl, afentanil or methadone for chronic pain
@@ -92,8 +92,6 @@ FLUCONAZOLE keeps working for several days to treat the infection.
 Generally the symptoms start to go away after 24 hours.
 However, it may take several days for your symptoms to go away completely.
 If there is no change in your symptoms after a few days, call your doctor.
-
-[caption on the right of the illustration]
 
 Just swallow 1 FLUCONAZOLE tablet to treat your vaginal yeast infection.
 
@@ -148,4 +146,4 @@ This leaflet summarizes the most important information about FLUCONAZOLE.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about FLUCONAZOLE that is written for health professionals.
 
-LAB-0367-4.0 December 2010
+LAB-0367-5.0 December 2011

@@ -45,12 +45,7 @@ Fluconazole should be administered with caution to patients with renal dysfuncti
 Fluconazole is a potent CYP2C9 inhibitor and a moderate CYP3A4 inhibitor.
 Fluconazole treated patients who are concomitantly treated with drugs with a narrow therapeutic window metabolized through CYP2C9 and CYP3A4 should be monitored.
 
-Fluconazole Capsules contain lactose and should not be given to patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency, or glucose-galactose malabsorption.
-
 Fluconazole Powder for Oral Suspension contains sucrose and should not be used in patients with hereditary fructose, glucose/galactose malabsorption, and sucrase-isomaltase deficiency.
-
-Fluconazole Syrup contains glycerol.
-Glycerol may cause headache, stomach upset, and diarrhea.
 
 When driving vehicles or operating machines, it should be taken into account that occasionally dizziness or seizures may occur.
 
@@ -69,7 +64,7 @@ The enzyme inhibiting effect of fluconazole persists 4–5 days after discontinu
 Clinically or potentially significant drug interactions between fluconazole and the following agents/classes have been observed.
 These are described in greater detail below:
 
-Oral hypoglycemics Coumarin-type anticoagulants Phenytoin Cyclosporine Rifampin Theophylline Terfenadine Cisapride Astemizole Rifabutin Tacrolimus Short-acting benzodiazepines Triazolam Oral Contraceptives Pimozide Hydrochlorothiazide Alfentanil Amitriptyline, nortriptyline Amphotericin B Azithromycin Carbamazepine Calcium Channel Blockers Celecoxib Cyclophosphamide Fentanyl Halofantrine HMG-CoA reductase inhibitors Losartan Methadone Non-steroidal anti-inflammatory drugs Prednisone Saquinavir Sirolimus Vinca Alkaloids Vitamin A Zidovudine
+Oral hypoglycemics Coumarin-type anticoagulants Phenytoin Cyclosporine Rifampin Voriconazole Theophylline Terfenadine Cisapride Astemizole Rifabutin Tacrolimus Short-acting benzodiazepines Triazolam Oral Contraceptives Pimozide Hydrochlorothiazide Alfentanil Amitriptyline, nortriptyline Amphotericin B Azithromycin Carbamazepine Calcium Channel Blockers Celecoxib Cyclophosphamide Fentanyl Halofantrine HMG-CoA reductase inhibitors Losartan Methadone Non-steroidal anti-inflammatory drugs Prednisone Saquinavir Sirolimus Vinca Alkaloids Vitamin A Zidovudine
 
 ### Oral hypoglycemics
 
@@ -137,6 +132,12 @@ Coadministration of fluconazole and astemizole is contraindicated.
 There have been reports that an interaction exists when fluconazole is administered concomitantly with rifabutin, leading to increased serum levels of rifabutin up to 80%.
 There have been reports of uveitis in patients to whom fluconazole and rifabutin were coadministered.
 Patients receiving rifabutin and fluconazole concomitantly should be carefully monitored.
+(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+
+### Voriconazole
+
+Avoid concomitant administration of voriconazole and fluconazole.
+Monitoring for adverse events and toxicity related to voriconazole is recommended; especially, if voriconazole is started within 24 h after the last dose of fluconazole.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 ### Tacrolimus

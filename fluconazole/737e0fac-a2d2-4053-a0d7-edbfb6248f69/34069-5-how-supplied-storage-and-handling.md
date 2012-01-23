@@ -50,5 +50,3 @@ NDC 59762-5036-2 Fluconazole in Dextrose Diluent 200 mg/100 mL × 6 NDC 59762-50
 Storage: Store between 77°F (25°C) and 41°F (5°C).
 Brief exposure up to 104°F (40°C) does not adversely affect the product.
 Protect from freezing.
-
-Rx only

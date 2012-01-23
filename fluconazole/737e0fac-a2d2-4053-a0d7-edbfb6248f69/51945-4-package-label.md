@@ -64,6 +64,38 @@ ORANGE FLAVORED
 
 Rx only
 
+# PRINCIPAL DISPLAY PANEL - 40 mL Bottle Label
+
+NDC 59762-5030-1
+
+35 mL when reconstituted
+
+GREENSTONE® BRAND
+
+fluconazole for Oral Suspension
+
+ORANGE FLAVORED
+
+40 mg/mL when reconstituted
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 40 mL Bottle Carton
+
+NDC 59762-5030-1
+
+35 mL when reconstituted
+
+GREENSTONE® BRAND
+
+fluconazole for Oral Suspension
+
+ORANGE FLAVORED
+
+40 mg/mL when reconstituted
+
+Rx only
+
 # PRINCIPAL DISPLAY PANEL - 100 mL Container Label
 
 LOT EXP
