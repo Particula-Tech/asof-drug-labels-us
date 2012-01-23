@@ -1,11 +1,8 @@
 # 10 OVERDOSAGE
 
 Accidental overdose may lead to hemorrhagic complications.
-There is no antidote to dabigatran etexilate or dabigatran.
+There is no reversal agent for dabigatran.
 In the event of hemorrhagic complications, initiate appropriate clinical support, discontinue treatment with PRADAXA, and investigate the source of bleeding.
 Dabigatran is primarily excreted in the urine and shows low plasma protein binding.
 Therefore, dabigatran can be dialyzed with the removal of about 60% of drug over 2 to 3 hours; however, data supporting this approach are limited.
-Consider surgical hemostasis or the transfusion of fresh frozen plasma or red blood cells.
-There is some experimental evidence to support the role of activated prothrombin complex concentrates (e.g., FEIBA), or recombinant Factor VIIa, or concentrates of coagulation factors II, IX or X; however, their usefulness in clinical settings has not been established.
-Consider administration of platelet concentrates in cases where thrombocytopenia is present or long-acting antiplatelet drugs have been used.
-Measurement of aPTT or ECT may help guide therapy [see Clinical Pharmacology (12.2)].
+Measurement of aPTT or ECT may help guide therapy [see Warnings and Precautions (5.1) Clinical Pharmacology (12.2)]

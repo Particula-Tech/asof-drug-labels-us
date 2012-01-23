@@ -24,7 +24,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of PRADAXA in pediatric patients has not been established.
+Safety and effectiveness of PRADAXA in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
@@ -33,12 +33,8 @@ The risk of stroke and bleeding increases with age, but the risk-benefit profile
 
 ## 8.6 Renal Impairment
 
-Renal function should be assessed by calculating the CrCl prior to initiation of treatment with PRADAXA.
-While on treatment, renal function should be assessed in clinical situations which may be associated with a decline in renal function.
-In patients with a CrCl <50 mL/min or >75 years of age, renal function should be assessed at least once a year.
-
 No dose adjustment of PRADAXA is recommended in patients with mild or moderate renal impairment [see Clinical Pharmacology (12.3)].
-Reduce the dose of PRADAXA in patients with severe renal impairment (CrCl 15-30 mL/min) [see Dosage and Administration (2.1) and Clinical Pharmacology (12.3)].
+Reduce the dose of PRADAXA in patients with severe renal impairment (CrCl 15-30 mL/min) [see Dosage and Administration (2.1, 2.2) and Clinical Pharmacology (12.3)].
 Dosing recommendations for patients with CrCl <15 mL/min or on dialysis cannot be provided.
 
 Adjust dose appropriately in patients with renal impairment receiving concomitant P-gp inhibitors [see Warnings and Precautions (5.3), Drug Interactions (7), and Clinical Pharmacology (12.3)].

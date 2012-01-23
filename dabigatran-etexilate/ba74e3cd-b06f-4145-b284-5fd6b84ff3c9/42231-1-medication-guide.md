@@ -8,7 +8,6 @@ What is the most important information I should know about PRADAXA?
 
 - PRADAXA can cause bleeding which can be serious, and sometimes lead to death.
   This is because PRADAXA is a blood thinner medicine that lowers the chance of blood clots forming in your body.
-- To find the best dose of PRADAXA for you, your doctor should test your kidney function before you take your first dose of PRADAXA, and in some instances yearly there after.
 - You may have a higher risk of bleeding if you take PRADAXA and:
   - are over 75 years old
   - have kidney problems
@@ -112,6 +111,8 @@ How should I take PRADAXA?
   You may have to stop taking PRADAXA for a short time.
   See "What is the most important information I should know about PRADAXA?"
 - If you take too much PRADAXA, go to the nearest hospital emergency room or call your doctor.
+- Call your healthcare provider right away if you fall or injure yourself, especially if you hit your head.
+  Your healthcare provider may need to check you.
 
 What are the possible side effects of PRADAXA?
 
@@ -174,12 +175,12 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Revised: November 2011
+Revised: January 2012
 
 The brands listed above are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The owners of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
-Copyright 2011 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
+Copyright 2012 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-04 IT5060KK142011
+75461-05 IT5060MA042012
 
-75457-04 IT5400I
+75457-05 IT5400K

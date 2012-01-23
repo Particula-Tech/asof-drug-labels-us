@@ -3,17 +3,22 @@
 ## 5.1 Risk of Bleeding
 
 PRADAXA increases the risk of bleeding and can cause significant and, sometimes, fatal bleeding.
-Risk factors for bleeding include the use of drugs that increase the risk of bleeding in general (e.g., anti-platelet agents, heparin, fibrinolytic therapy, and chronic use of NSAIDs), and labor and delivery.
 Promptly evaluate any signs or symptoms of blood loss (e.g., a drop in hemoglobin and/or hematocrit or hypotension).
-Consider evaluation of renal function.
-Discontinue PRADAXA in patients with active pathological bleeding.
+Discontinue PRADAXA in patients with active pathological bleeding [see Dosage and Administration (2.2)].
 
-In the RE-LY (Randomized Evaluation of Long-term Anticoagulant Therapy) study, a life-threatening bleed (bleeding that met one or more of the following criteria: fatal, symptomatic intracranial, reduction in hemoglobin of at least 5 grams per deciliter, transfusion of at least 4 units of blood, associated with hypotension requiring the use of intravenous inotropic agents, or necessitating surgical intervention) occurred at an annualized rate of 1.5% and 1.8% for PRADAXA 150 mg and warfarin, respectively [see Adverse Reactions (6.1)].
+Risk factors for bleeding include the use of other drugs that increase the risk of bleeding (e.g., anti-platelet agents, heparin, fibrinolytic therapy, and chronic use of NSAIDs).
+PRADAXA’s anticoagulant activity and half-life are increased in patients with renal impairment [see Clinical Pharmacology (12.2)].
+
+A specific reversal agent for dabigatran is not available.
+Dabigatran can be dialyzed (protein binding is low, with the removal of about 60% of drug over 2-3 hours); however the amount of data supporting this approach is limited.
+Activated prothrombin complex concentrates (aPCCs, e.g., FEIBA), or recombinant Factor VIIa, or concentrates of coagulation factors II, IX or X may be considered but their use has not been evaluated in clinical trials.
+Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of dabigatran.
+Consider administration of platelet concentrates in cases where thrombocytopenia is present or long-acting antiplatelet drugs have been used.
 
 ## 5.2 Temporary Discontinuation of PRADAXA
 
-Discontinuing anticoagulants, including PRADAXA, for active bleeding, elective surgery, or invasive procedures places patients at an increased risk of stroke.
-Lapses in therapy should be avoided, and if anticoagulation with PRADAXA must be temporarily discontinued for any reason, therapy should be restarted as soon as possible.
+Discontinuing anticoagulants, including PRADAXA, for active bleeding, elective surgery, or invasive procedures, places patients at an increased risk of stroke.
+Minimize lapses in therapy.
 
 ## 5.3 Effect of P-gp Inducers and Inhibitors on Dabigatran Exposure
 
@@ -23,4 +28,4 @@ P-gp inhibition and impaired renal function are the major independent factors th
 Concomitant use of P-gp inhibitors in patients with renal impairment is expected to produce increased exposure of dabigatran compared to that seen with either factor alone.
 
 Consider reducing the dose of PRADAXA to 75 mg twice daily when dronedarone or systemic ketoconazole is coadministered with PRADAXA in patients with moderate renal impairment (CrCl 30-50 mL/min).
-The use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) should be avoided [see Drug Interactions (7) and Use in Specific Populations (8.6)].
+Avoid use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) [see Drug Interactions (7) and Use in Specific Populations (8.6)].

@@ -21,7 +21,7 @@ Concomitant diseases of patients in this trial included hypertension 79%, diabet
 At baseline, 40% of patients were on aspirin and 6% were on clopidogrel.
 For patients randomized to warfarin, the mean percentage of time in therapeutic range (INR 2 to 3) was 64%; the mean percentages of time INR measurements were greater than 4 or less than 1.5 were 2% and 5%, respectively.
 
-Relative to warfarin and to PRADAXA 110 mg twice daily, PRADAXA 150 mg twice daily significantly reduced the primary composite endpoint of stroke and systemic embolism (see Table 4 and Figure 1).
+Relative to warfarin and to PRADAXA 110 mg twice daily, PRADAXA 150 mg twice daily significantly reduced the primary composite endpoint of stroke and systemic embolism (see Table 4 and Figure 2).
 
 Table 4 First Occurrence of Stroke or Systemic Embolism in the RE-LY Study
 
@@ -34,7 +34,7 @@ Table 4 First Occurrence of Stroke or Systemic Embolism in the RE-LY Study
 | Hazard ratio vs. PRADAXA 110 mg (95% CI) | 0.72 (0.58, 0.90) |  |  |
 | P-value for superiority | 0.004 |  |  |
 
-Figure 1 Kaplan-Meier Curve Estimate of Time to First Stroke or Systemic Embolism
+Figure 2 Kaplan-Meier Curve Estimate of Time to First Stroke or Systemic Embolism
 
 The contributions of the components of the composite endpoint, including stroke by subtype, are shown in Table 5.
 The treatment effect was primarily a reduction in stroke.
@@ -50,9 +50,9 @@ Table 5 Strokes and Systemic Embolism in the RE-LY Study
 | Hemorrhagic stroke | 12 | 45 | 0.26 (0.14, 0.49) |
 | Systemic embolism | 13 | 21 | 0.61 (0.30, 1.21) |
 
-The efficacy of PRADAXA 150 mg twice daily was generally consistent across major subgroups (see Figure 2).
+The efficacy of PRADAXA 150 mg twice daily was generally consistent across major subgroups (see Figure 3).
 
-Figure 2 Stroke and Systemic Embolism Hazard Ratios by Baseline Characteristics
+Figure 3 Stroke and Systemic Embolism Hazard Ratios by Baseline Characteristics
 
 Centers were ranked post hoc by the percentage of time that warfarin-treated patients were in therapeutic range (INR 2 to 3).
 Findings for stroke/systemic embolism, all-cause mortality, and major bleeds are shown for centers above and below the median level of INR control in Table 6.

@@ -8,15 +8,23 @@ Both free and clot-bound thrombin, and thrombin-induced platelet aggregation are
 
 ## 12.2 Pharmacodynamics
 
-PRADAXA treatment does not require anticoagulation monitoring.
-At recommended therapeutic doses, dabigatran etexilate prolongs the aPTT, ECT, and TT.
-With an oral dose of 150 mg twice daily the median peak aPTT is approximately 2x control.
-Twelve hours after the last dose the median aPTT is 1.5x control, with less than 10% of patients exceeding 2x control.
+At recommended therapeutic doses, dabigatran etexilate prolongs the coagulation markers such as aPTT, ECT, and TT.
+INR is relatively insensitive to the exposure to dabigatran and cannot be interpreted the same way as used for warfarin monitoring.
+
+The aPTT test provides an approximation of PRADAXA’s anticoagulant effect.
+The average time course for effects on aPTT, following approved dosing regimens in patients with various degrees of renal impairment is shown in Figure 1.
+The curves represent mean levels without confidence intervals; variations should be expected when measuring aPTT.
+While advice cannot be provided on the level of recovery of aPTT needed in any particular clinical setting, the curves can be used to estimate the time to get to a particular level of recovery, even when the time since the last dose of PRADAXA is not precisely known.
 In the RE-LY trial, the median (10th to 90th percentile) trough aPTT in patients receiving the 150 mg dose was 52 (40 to 76) seconds.
-The median (10th to 90th percentile) trough ECT in patients receiving the 150 mg dose was 63 (44 to 103) seconds.
-The INR test should be avoided as it is unreliable in patients on PRADAXA.
-In patients on PRADAXA, the INR may or may not be elevated and false positive INR elevations have been reported.
-When converting a patient from PRADAXA to warfarin therapy, the INR is unlikely to be useful until at least 2 days after discontinuation of PRADAXA.
+
+Figure 1 Average Time Course for Effects of Dabigatran on aPTT, Following Approved PRADAXA Dosing Regimens in Patients with Various Degrees of Renal Impairment*
+
+*Simulations based on PK data from a study in subjects with renal impairment and PK/aPTT relationships derived from the RE-LY study; aPTT prolongation in RE-LY was measured centrally in citrate plasma using PTT Reagent Roche Diagnostics GmbH, Mannheim, Germany.
+There may be quantitative differences between various established methods for aPTT assessment.
+
+The degree of anticoagulant activity can also be assessed by the ecarin clotting time (ECT).
+This test is a more specific measure of the effect of dabigatran than activated partial thromboplastin time (aPTT).
+In the RE-LY trial, the median (10th to 90th percentile) trough ECT in patients receiving the 150 mg dose was 63 (44 to 103) seconds.
 
 Cardiac Electrophysiology
 
@@ -96,7 +104,7 @@ By Day 7 after cessation of rifampin treatment, dabigatran exposure was close to
 In studies with the P-gp inhibitors ketoconazole, amiodarone, verapamil, and quinidine, the time to peak, terminal half-life, and mean residence time of dabigatran were not affected.
 Any observed changes in Cmax and AUC are described below.
 
-Dronedarone: Exposure to dabigatran is higher when it is administered with dronedarone than when it is administered alone (73%-99%).
+Dronedarone: Exposure to dabigatran is 73-99% higher when it is administered with dronedarone than when it is administered alone.
 
 Ketoconazole: Systemic ketoconazole increased dabigatran AUC and Cmax values by 138% and 135%, respectively, after a single dose of 400 mg, and 153%, and 149%, respectively, after multiple daily doses of 400 mg.
 
