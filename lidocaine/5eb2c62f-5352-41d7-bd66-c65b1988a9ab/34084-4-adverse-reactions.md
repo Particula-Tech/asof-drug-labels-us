@@ -7,7 +7,7 @@ The following types are those most commonly reported:
 
 ## Central Nervous System
 
-CNS manifestations are excitatory and/or depressant and may be characterized by lightheadedness, nervousness, apprehension, euphoria, confusion, dizziness, tinnitus, blurred or double vision, vomiting, sensations of heat, cold or numbness, twitching, tremors, convulsions, unconsciousness, respiratory depression and arrest.
+CNS manifestations are excitatory and/or depressant and may be characterized by lightheadedness, nervousness, apprehension, euphoria, confusion, dizziness, drowsiness, tinnitus, blurred or double vision, vomiting, sensations of heat, cold or numbness, twitching, tremors, convulsions, unconsciousness, respiratory depression and arrest.
 The excitatory manifestations may be very brief or may not occur at all, in which case the first manifestation of toxicity may be drowsiness merging into unconsciousness and respiratory arrest.
 Drowsiness following the administration of lidocaine is usually an early sign of a high blood level of the drug and may occur as a consequence of rapid absorption.
 

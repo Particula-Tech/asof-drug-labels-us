@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA086724"
+  ],
   "inn": "lidocaine",
   "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
   "package_ndcs": [
     "51672-3008-2",
     "51672-3008-3"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "lidocaine",
+      "name": "Lidocaine"
+    }
+  ],
   "setid": "5eb2c62f-5352-41d7-bd66-c65b1988a9ab",
   "source": "dailymed"
 }

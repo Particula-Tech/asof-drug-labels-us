@@ -11,11 +11,11 @@ No more than 17-20 g of ointment or 850-1000 mg lidocaine base should be adminis
 
 Although the incidence of adverse effects with Lidocaine Ointment USP, 5% is quite low, caution should be exercised, particularly when employing large amounts, since the incidence of adverse effects is directly proportional to the total dose of local anesthetic agent administered.
 
-## Dosage to children
+## Dosage for children
 
 It is difficult to recommend a maximum dose of any drug for children since this varies as a function of age and weight.
-For children less than ten years who have a normal lean body mass and a normal lean body development, the maximum dose may be determined by the application of one of the standard pediatric formulas (e.g., Clarke's rule).
-For example, in a child of five years weighing 50 lbs the dose of lidocaine should not exceed 75-100 mg when calculated according to Clarke's rule.
+For children less than ten years who have a normal lean body mass and a normal lean body development, the maximum dose may be determined by the application of one of the standard pediatric drug formulas (e.g., Clark's rule).
+For example, in a child of five years weighing 50 lbs., the dose of lidocaine should not exceed 75-100 mg when calculated according to Clark's rule.
 In any case, the maximum amount of lidocaine administered should not exceed 4.5 mg/kg (2.0 mg/lb) of body weight.
 
 ## Administration

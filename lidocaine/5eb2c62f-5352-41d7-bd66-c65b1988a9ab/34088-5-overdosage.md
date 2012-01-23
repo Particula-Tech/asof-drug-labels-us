@@ -8,7 +8,7 @@ Acute emergencies from local anesthetics are generally related to high plasma le
 The first consideration is prevention, best accomplished by careful and constant monitoring of cardiovascular and respiratory vital signs and the patient's state of consciousness after each local anesthetic administration.
 At the first sign of change, oxygen should be administered.
 
-The first step in the management of convulsions consists of immediate attention to the maintenance of a patient airway and assisted or controlled ventilation with oxygen and a delivery system capable of permitting immediate positive airway pressure by mask.
+The first step in the management of convulsions consists of immediate attention to the maintenance of a patent airway and assisted or controlled ventilation with oxygen and a delivery system capable of permitting immediate positive airway pressure by mask.
 Immediately after the institution of these ventilatory measures, the adequacy of the circulation should be evaluated, keeping in mind that drugs used to treat convulsions sometimes depress the circulation when administered intravenously.
 Should convulsions persist despite adequate respiratory support, and if the status of the circulation permits, small increments of an ultra-short acting barbiturate (such as thiopental or thiamylal) or benzodiazepine (such as diazepam) may be administered intravenously.
 The clinician should be familiar prior to use of local anesthetics, with these anticonvulsant drugs.
