@@ -8,6 +8,6 @@ Hydrocortisone Ointment USP, 1% is supplied as follows:
 
 Store at controlled room temperature 15°-30°C (59°-86°F).
 
-E. FOUGERA & CO a division of Altana Inc. MELVILLE, NEW YORK 11747 www.fougera.com
+E. FOUGERA & CO. A division of Fougera PHARMACEUTICALS INC. Melville, New York 11747
 
-I22031B/IF22016B R9/99 #230
+I22031D/IF22016D R12/11 #230
