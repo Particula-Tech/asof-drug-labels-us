@@ -7,8 +7,10 @@ Fluocinonide Topical Solution USP, 0.05% in:
 Store at controlled room temperature 15°-30°C (59°-86°F).
 Avoid excessive heat above 40°C (104°F).
 
-March 2009
+E. FOUGERA & CO.
 
-E. FOUGERA & CO. A division of Nycomed US Inc. MELVILLE, NEW YORK 11747
+A division of Fougera
 
-I2134B R3/09 #49
+PHARMACEUTICALS INC. Melville, New York 11747
+
+I2134C R10/11 #49

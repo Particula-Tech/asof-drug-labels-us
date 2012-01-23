@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA072934"
+  ],
   "inn": "fluocinonide",
-  "labeler": "E. FOUGERA & CO.",
+  "labeler": "E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc.",
   "package_ndcs": [
     "0168-0134-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "fluocinonide",
+      "name": "fluocinonide"
+    }
+  ],
   "setid": "ebca0c66-06f6-438a-a01a-634c53debc06",
   "source": "dailymed"
 }
