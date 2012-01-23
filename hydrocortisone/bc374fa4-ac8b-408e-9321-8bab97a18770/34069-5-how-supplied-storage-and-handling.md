@@ -8,6 +8,6 @@ Hydrocortisone Cream USP, 1%, a white cream, is supplied as follows:
 
 Store at controlled room temperature 15°-30°C (59°-86°F).
 
-E. FOUGERA & CO a division of Altana Inc. MELVILLE, NEW YORK 11747 www.fougera.com
+E. FOUGERA & CO. A division of Fougera PHARMACEUTICALS INC. Melville, New York 11747
 
-I21531E/IF21504E R1/00 #190
+I21531H/IF21504H R11/11 #190
