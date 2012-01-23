@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA016988"
+  ],
   "inn": "fluorouracil",
   "labeler": "Allergan, Inc.",
   "package_ndcs": [
     "0023-0812-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluorouracil",
+      "name": "FLUOROPLEX"
+    }
+  ],
   "setid": "d33749f0-0205-4ad2-bc8a-83482e379ef7",
   "source": "dailymed"
 }
