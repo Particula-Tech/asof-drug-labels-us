@@ -2,7 +2,7 @@
 
 ## Mortality
 
-In the National Heart, Lung and Blood Institute's Cardiac Arrhythmia Suppression Trial (CAST), a long-term, multi-centered, randomized, double-blind study in patients with asymptomatic non-life-threatening ventricular arrhythmias who had had myocardial infarctions more than six days but less than two years previously, an excessive mortality or non-fatal cardiac arrest rate was seen in patients treated with encainide or flecainide (56/730) compared with that seen in patients assigned to matched placebo-treated groups (22/725).
+In the National Heart, Lung and Blood Institute's Cardiac Arrhythmia Suppression Trial (CAST), a long-term, multi-centered, randomized, double-blind study in patients with asymptomatic nonlife-threatening ventricular arrhythmias who had had myocardial infarctions more than six days but less than two years previously, an excessive mortality or non-fatal cardiac arrest rate was seen in patients treated with encainide or flecainide (56/730) compared with that seen in patients assigned to matched placebo-treated groups (22/725).
 The average duration of treatment with encainide or flecainide in this study was ten months.
 
 Amiodarone therapy was evaluated in two multi-centered, randomized, double-blind, placebo-controlled trials involving 1202 (Canadian Amiodarone Myocardial Infarction Arrhythmia Trial; CAMIAT) and 1486 (European Myocardial Infarction Amiodarone Trial; EMIAT) post-MI patients followed for up to 2 years.
@@ -13,7 +13,7 @@ Intent-to-treat all-cause mortality results were as follows:
 
 |  | N | Deaths | N | Deaths |  | 95% CI |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo |  | Amiodarone |  | Relative Risk |  |
+|  | Placebo |  | Amiodorane |  | Relative Risk |  |
 | EMIAT | 743 | 102 | 743 | 103 | 0.99 | 0.76-1.31 |
 | CAMIAT | 596 | 68 | 606 | 57 | 0.88 | 0.58-1.16 |
 
@@ -21,16 +21,16 @@ These data are consistent with the results of a pooled analysis of smaller, cont
 
 ## Pulmonary Toxicity
 
-There have been postmarketing reports of acute-onset (days to weeks) pulmonary injury in patients treated with oral amiodarone with or without initial I.V. therapy.
-Findings have included pulmonary infiltrates and/or mass on X-ray, pulmonary alveolar hemorrhage, bronchospasm, wheezing, fever, dyspnea, cough, hemoptysis, and hypoxia.
+There have been post-marketing reports of acute-onset (days to weeks) pulmonary injury in patients treated with oral amiodarone with or without initial I.V. therapy.
+Findings have included pulmonary infiltrates and/or mass on X-ray, pulmonary alveolar hemorrhage, pleural effusion, bronchospasm, wheezing, fever, dyspnea, cough, hemoptysis, and hypoxia.
 Some cases have progressed to respiratory failure and/or death.
-Post-marketing reports describe cases of pulmonary toxicity in patients treated with low doses of Amiodarone; however, reports suggest that the use of lower loading and maintenance doses of Amiodarone are associated with a decreased incidence of Amiodarone induced pulmonary toxicity.
+Post-marketing reports describe cases of pulmonary toxicity in patients treated with low doses of Amiodarone; however, reports suggest that the use of lower loading and maintenance doses of Amiodarone are associated with a decreased incidence of amiodarone-induced pulmonary toxicity.
 
 Amiodarone HCl tablets may cause a clinical syndrome of cough and progressive dyspnea accompanied by functional, radiographic, gallium-scan, and pathological data consistent with pulmonary toxicity, the frequency of which varies from 2 to 7% in most published reports, but is as high as 10 to 17% in some reports.
 Therefore, when amiodarone therapy is initiated, a baseline chest X-ray and pulmonary-function tests, including diffusion capacity, should be performed.
 The patient should return for a history, physical exam, and chest X-ray every 3 to 6 months.
 
-Pulmonary toxicity secondary to amiodarone seems to result from either indirect or direct toxicity as represented by hypersensitivity pneumonitis or interstitial/alveolar pneumonitis, respectively.
+Pulmonary toxicity secondary to amiodarone seems to result from either indirect or direct toxicity as represented by hypersensitivity pneumonitis (including eosinophilic pneumonia) or interstitial/alveolar pneumonitis, respectively.
 
 Patients with preexisting pulmonary disease have a poorer prognosis if pulmonary toxicity develops.
 
@@ -66,7 +66,7 @@ In some patients, rechallenge at a lower dose has not resulted in return of inte
 ## Worsened Arrhythmia
 
 Amiodarone, like other antiarrhythmics, can cause serious exacerbation of the presenting arrhythmia, a risk that may be enhanced by the presence of concomitant antiarrhythmics.
-Exacerbation has been reported in about 2 to 5% in most series, and has included new ventricular fibrillation, incessant ventricular tachycardia, increased resistance to cardioversion and polymorphic ventricular tachycardia associated with QTc prolongation (torsades de pointes [TdP]).
+Exacerbation has been reported in about 2 to 5% in most series, and has included new ventricular fibrillation, incessant ventricular tachycardia, increased resistance to cardioversion and polymorphic ventricular tachycardia associated with QTc prolongation (Torsades de Pointes [TdP]).
 In addition, amiodarone has caused symptomatic bradycardia or sinus arrest with suppression of escape foci in 2 to 4% of patients.
 
 Fluoroquinolones, macrolide antibiotics, and azoles are known to cause QTc prolongation.
@@ -113,7 +113,7 @@ Amiodarone can cause fetal harm when administered to a pregnant woman.
 Although amiodarone use during pregnancy is uncommon, there have been a small number of published reports of congenital goiter/hypothyroidism and hyperthyroidism.
 If amiodarone is used during pregnancy, or if the patient becomes pregnant while taking amiodarone, the patient should be apprised of the potential hazard to the fetus.
 
-In general, amiodarone HCl should be used during pregnancy only if the potential benefit to the mother justifies the unknown risk to the fetus.
+In general, amiodarone HCl tablets should be used during pregnancy only if the potential benefit to the mother justifies the unknown risk to the fetus.
 
 In pregnant rats and rabbits, amiodarone HCl in doses of 25 mg/kg/day (approximately 0.4 and 0.9 times, respectively, the maximum recommended human maintenance dose600 mg in a 50 kg patient (doses compared on a body surface area basis).) had no adverse effects on the fetus.
 In the rabbit, 75 mg/kg/day (approximately 2.7 times the maximum recommended human maintenance dose) caused abortions in greater than 90% of the animals.
@@ -135,7 +135,7 @@ Corneal microdeposits appear in the majority of adults treated with amiodarone.
 They are usually discernible only by slit-lamp examination, but give rise to symptoms such as visual halos or blurred vision in as many as 10% of patients.
 Corneal microdeposits are reversible upon reduction of dose or termination of treatment.
 Asymptomatic microdeposits alone are not a reason to reduce dose or discontinue treatment.
-(See "ADVERSE REACTIONS").
+(see "ADVERSE REACTIONS").
 
 ## Neurologic
 
@@ -170,7 +170,7 @@ Hyperthyroidism is best identified by relevant clinical symptoms and signs, acco
 The finding of a flat TSH response to TRH is confirmatory of hyperthyroidism and may be sought in equivocal cases.
 Since arrhythmia breakthroughs may accompany amiodarone-induced hyperthyroidism, aggressive medical treatment is indicated, including, if possible, dose reduction or withdrawal of amiodarone.
 
-The institution of antithyroid drugs, β-adrenergic blockers and/or temporary corticosteroid therapy may be necessary.
+The institution of antithyroid drugs, b-adrenergic blockers and/or temporary corticosteroid therapy may be necessary.
 The action of antithyroid drugs may be especially delayed in amiodarone-induced thyrotoxicosis because of substantial quantities of preformed thyroid hormones stored in the gland.
 Radioactive iodine therapy is contraindicated because of the low radioiodine uptake associated with amiodarone-induced hyperthyroidism.
 Amiodarone-induced hyperthyroidism may be followed by a transient period of hypothyroidism (see "WARNINGS, Thyrotoxicosis").
@@ -242,7 +242,7 @@ Monitoring for amiodarone toxicity and serial measurement of amiodarone serum co
 ### Histamine H1 antagonists
 
 Loratadine, a non-sedating antihistaminic, is metabolized primarily by CYP3A4.
-QT interval prolongation and torsade de pointes have been reported with the co-administration of loratadine and amiodarone.
+QT interval prolongation and Torsade de Pointes have been reported with the co-administration of loratadine and amiodarone.
 
 ### Histamine H2 antagonists
 
@@ -251,7 +251,7 @@ Cimetidine inhibits CYP3A4 and can increase serum amiodarone levels.
 ### Antidepressants
 
 Trazodone, an antidepressant, is metabolized primarily by CYP3A4.
-QT interval prolongation and torsade de pointes have been reported with the co-administration of trazodone and amiodarone.
+QT interval prolongation and Torsade de Pointes have been reported with the co-administration of trazodone and amiodarone.
 
 ### Other substances
 
@@ -269,9 +269,11 @@ Cyclosporine (CYP3A4 substrate) administered in combination with oral amiodarone
 
 ### HMG-CoA reductase inhibitors
 
-HMG-CoA reductase inhibitors that are CYP3A4 substrates (including simvastatin and atorvastatin) in combination with amiodarone have been associated with reports of myopathy/rhabdomyolysis.
+The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with amiodarone has been associated with reports of myopathy/rhabdomyolysis.
 
-When co-administered with amiodarone, lower starting and maintenance doses of these agents should be considered.
+Limit the dose of simvastatin in patients on amiodarone to 20 mg daily.
+Limit the daily dose of lovastatin to 40 mg.
+Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as amiodarone may increase the plasma concentration of these drugs.
 
 ### Cardiovasculars
 
@@ -283,7 +285,7 @@ On initiation of oral amiodarone, the need for digitalis therapy should be revie
 If digitalis treatment is continued, serum levels should be closely monitored and patients observed for clinical evidence of toxicity.
 These precautions probably should apply to digitoxin administration as well.
 
-### Antiarrhythmics
+#### Antiarrhythmics
 
 Other antiarrhythmic drugs, such as quinidine, procainamide, disopyramide, and phenytoin, have been used concurrently with oral amiodarone.
 
@@ -301,11 +303,11 @@ The continued need for the other antiarrhythmic agent should be reviewed after t
 If the treatment is continued, these patients should be particularly carefully monitored for adverse effects, especially conduction disturbances and exacerbation of tachyarrhythmias, as amiodarone is continued.
 In amiodarone-treated patients who require additional antiarrhythmic therapy, the initial dose of such agents should be approximately half of the usual recommended dose.
 
-### Antihypertensives
+#### Antihypertensives
 
 Amiodarone should be used with caution in patients receiving β-receptor blocking agents (e.g., propranolol, a CYP3A4 inhibitor) or calcium channel antagonists (e.g., verapamil, a CYP3A4 substrate, and diltiazem, a CYP3A4 inhibitor) because of the possible potentiation of bradycardia, sinus arrest, and AV block; if necessary, amiodarone can continue to be used after insertion of a pacemaker in patients with severe bradycardia or sinus arrest.
 
-### Anticoagulants
+#### Anticoagulants
 
 Potentiation of warfarin-type (CYP2C9 and CYP3A4 substrate) anticoagulant response is almost always seen in patients receiving amiodarone and can result in serious or fatal bleeding.
 Since the concomitant administration of warfarin with amiodarone increases the prothrombin time by 100% after 3 to 4 days, the dose of the anticoagulant should be reduced by one-third to one-half, and prothrombin times should be monitored closely.
@@ -322,7 +324,7 @@ Reported examples of this interaction include the following:
 Rifampin is a potent inducer of CYP3A4.
 Administration of rifampin concomitantly with oral amiodarone has been shown to result in decreases in serum concentrations of amiodarone and desethylamiodarone.
 
-### Other substances, including herbal preparations
+### Other substances, including herbal preparations:
 
 St. John's Wort (Hypericum perforatum) induces CYP3A4.
 Since amiodarone is a substrate for CYP3A4, there is the potential that the use of St. John's Wort in patients receiving amiodarone could result in reduced amiodarone levels.
@@ -337,18 +339,16 @@ Seizure, associated with increased lidocaine concentrations, has been reported w
 Dextromethorphan is a substrate for both CYP2D6 and CYP3A4.
 Amiodarone inhibits CYP2D6.
 
-Cholestyramine increases enterohepatic elimination of amiodarone and may reduce its serum levels and t1/2.
+Cholestyramine increases enterohepatic elimination of amiodarone and may reduce its serum levels and t½.
 
 Disopyramide increases QT prolongation which could cause arrhythmia.
 
 Fluoroquinolones, macrolide antibiotics, and azoles are known to cause QTc prolongation.
-There have been reports of QTc prolongation, with or without TdP, in patients taking amiodarone when fluoroquinolones, macrolide antibiotics, or azoles were administered concomitantly (see "WARNINGS, Worsened Arrhythmia").
+There have been reports of QTc prolongation, with or without TdP, in patients taking amiodarone when fluoroquinolones, macrolide antibiotics, or azoles were administered concomitantly (See "WARNINGS, Worsened Arrhythmia").
 
 Hemodynamic and electrophysiologic interactions have also been observed after concomitant administration with propranolol, diltiazem, and verapamil.
 
-#### Volatile Anesthetic Agents
-
-(See "PRECAUTIONS, Surgery, Volatile Anesthetic Agents.")
+Volatile Anesthetic Agents (See "PRECAUTIONS, Surgery, Volatile Anesthetic Agents.")
 
 In addition to the interactions noted above, chronic (>2 weeks) oral amiodarone administration impairs metabolism of phenytoin, dextromethorphan, and methotrexate.
 
@@ -363,12 +363,11 @@ Amiodarone HCl was associated with a statistically significant, dose-related inc
 The incidence of thyroid tumors was greater than control even at the lowest dose level tested, i.e., 5 mg/kg/day (approximately 0.08 times the maximum recommended human maintenance dose600 mg in a 50 kg patient (dose compared on a body surface area basis).).
 
 Mutagenicity studies (Ames, micronucleus, and lysogenic tests) with amiodarone were negative.
-
 In a study in which amiodarone HCl was administered to male and female rats, beginning 9 weeks prior to mating, reduced fertility was observed at a dose level of 90 mg/kg/day (approximately 1.4 times the maximum recommended human maintenance dose).
 
 ## Pregnancy
 
-### Pregnancy Category D
+## Pregnancy Category D
 
 See "WARNINGS, Neonatal Hypo- or Hyperthyroidism."
 

@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075424",
+    "ANDA076362"
+  ],
   "inn": "amiodarone",
   "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
   "package_ndcs": [
@@ -8,7 +11,13 @@
     "51672-4057-0",
     "51672-4057-6"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amiodarone hydrochloride",
+      "name": "Amiodarone Hydrochloride"
+    }
+  ],
   "setid": "7ccd3733-c3af-4a11-8500-0f99194c1472",
   "source": "dailymed"
 }

@@ -48,8 +48,8 @@ In clinical studies of 2 to 7 days, clearance of amiodarone after intravenous ad
 Age, sex, renal disease, and hepatic disease (cirrhosis) do not have marked effects on the disposition of amiodarone or DEA.
 Renal impairment does not influence the pharmacokinetics of amiodarone.
 After a single dose of intravenous amiodarone in cirrhotic patients, significantly lower Cmax and average concentration values are seen for DEA, but mean amiodarone levels are unchanged.
-Normal subjects over 65 years of age show lower clearances (about 100 mL/hr/kg) than younger subjects (about 150 mL/hr/kg) and an increase in t1/2 from about 20 to 47 days.
-In patients with severe left ventricular dysfunction, the pharmacokinetics of amiodarone are not significantly altered but the terminal disposition t1/2 of DEA is prolonged.
+Normal subjects over 65 years of age show lower clearances (about 100 mL/hr/kg) than younger subjects (about 150 mL/hr/kg) and an increase in t½ from about 20 to 47 days.
+In patients with severe left ventricular dysfunction, the pharmacokinetics of amiodarone are not significantly altered but the terminal disposition t½ of DEA is prolonged.
 Although no dosage adjustment for patients with renal, hepatic, or cardiac abnormalities has been defined during chronic treatment with amiodarone, close clinical monitoring is prudent for elderly patients and those with severe left ventricular dysfunction.
 
 Following single dose administration in 12 healthy subjects, amiodarone exhibited multi-compartmental pharmacokinetics with a mean apparent plasma terminal elimination half-life of 58 days (range 15 to 142 days) for amiodarone and 36 days (range 14 to 75 days) for the active metabolite (DEA).
@@ -94,8 +94,7 @@ There is no present consensus on many aspects of how best to assess effectivenes
    A number of criteria have been proposed, however, for identifying patients who remain inducible but who seem likely nonetheless to do well on amiodarone.
    These criteria include increased difficulty of induction (more stimuli or more rapid stimuli), which has been reported to predict a lower rate of recurrence, and ability to tolerate the induced ventricular tachycardia without severe symptoms, a finding that has been reported to correlate with better survival but not with lower recurrence rates.
    While these criteria require confirmation and further study in general, easier inducibility or poorer tolerance of the induced arrhythmia should suggest consideration of a need to revise treatment.
-
-Several predictors of success not based on PES have also been suggested, including complete elimination of all nonsustained ventricular tachycardia on ambulatory monitoring and very low premature ventricular-beat rates (less than 1 VPB/1,000 normal beats).
+   Several predictors of success not based on PES have also been suggested, including complete elimination of all nonsustained ventricular tachycardia on ambulatory monitoring and very low premature ventricular-beat rates (less than 1 VPB/1,000 normal beats).
 
 While these issues remain unsettled for amiodarone, as for other agents, the prescriber of amiodarone should have access to (direct or through referral), and familiarity with, the full range of evaluatory procedures used in the care of patients with life-threatening arrhythmias.
 

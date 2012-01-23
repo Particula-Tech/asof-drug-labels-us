@@ -21,13 +21,13 @@ Call your doctor or get medical help right away if you have any symptoms such as
 
 - shortness of breath, wheezing, or any other trouble breathing; coughing, chest pain, or spitting up of blood
 - nausea or vomiting; passing brown or dark-colored urine; feel more tired than usual; your skin and whites of your eyes get yellow; or have stomach pain
-- heart pounding, skipping a beat, beating very fast or very slowly; feel lightheaded or faint
+- heart pounding, skipping a beat, beating very fast or very slowly; feel light-headed or faint
 - weakness, weight loss or weight gain, heat or cold intolerance, hair thinning, sweating, changes in your menses, swelling of your neck (goiter), nervousness, irritability, restlessness, decreased concentration, depression in the elderly, or tremor
 
 Because of these possible side effects, amiodarone HCl tablets should only be used in adults with life-threatening heartbeat problems called ventricular arrhythmias, for which other treatments did not work or were not tolerated.
 
 Amiodarone HCl tablets can cause other serious side effects.
-See "What are the possible or reasonably likely side effects of Amiodarone HCl tablets?" for more information.
+See "What are the possible or reasonably likely side effects of amiodarone HCl tablets?" for more information.
 
 If you get serious side effects during treatment with amiodarone HCl tablets you may need to stop amiodarone HCl tablets, have your dose changed, or get medical treatment.
 Talk with your doctor before you stop taking amiodarone HCl tablets.
@@ -52,7 +52,8 @@ Do not take amiodarone HCl tablets if you:
 
 - have certain heart conditions (heart block, very slow heart rate, or slow heart rate with dizziness or lightheadedness)
 - have an allergy to amiodarone, iodine, or any of the other ingredients in amiodarone HCl tablets.
-  See the end of this Medication Guide for a complete list of ingredients in amiodarone HCl tablets.
+
+See the end of this Medication Guide for a complete list of ingredients in amiodarone HCl tablets.
 
 What should I tell my doctor before starting amiodarone HCl tablets?
 
@@ -81,7 +82,7 @@ Especially, tell your doctor if you are taking:
 - blood thinner medicines
 - HIV or AIDS medicines
 - cimetidine (Tagamet®), a medicine for stomach ulcers or indigestion
-- loratadine (for example: Claritin®, Alavert®), a medicine for allergy symptoms
+- loratadine (for example: Claritin®, Alavert®), a medicine for allergy symptoms.
 - seizure medicines
 - diabetes medicines
 - cyclosporine, an immunosuppressive medicine
@@ -128,6 +129,8 @@ What should I avoid while taking amiodarone HCl tablets?
 
 What are the possible or reasonably likely side effects of amiodarone HCl tablets?
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 Amiodarone HCl tablets can cause serious side effects that lead to death including lung damage, liver damage, worse heartbeat problems, and thyroid problems.
 See "What is the most important information I should know about amiodarone HCl tablets?"
 
@@ -143,7 +146,7 @@ Some other serious side effects of amiodarone HCl tablets include:
   Your doctor may arrange regular blood tests to check your thyroid function during treatment with amiodarone HCl.
   Call your doctor if you have weakness, weight loss or weight gain, heat or cold intolerance, hair thinning, sweating, changes in your menses, swelling of your neck (goiter), nervousness, irritability, restlessness, decreased concentration, depression in the elderly, or tremor.
 - skin problems.
-  Amiodarone HCl tablets can cause your skin to be more sensitive to the sun or to turn a bluishgray color.
+  Amiodarone HCl tablets can cause your skin to be more sensitive to the sun or to turn a bluish-gray color.
   In most patients, skin color slowly returns to normal after stopping amiodarone HCl tablets.
   In some patients, skin color does not return to normal.
 
@@ -174,16 +177,23 @@ This Medication Guide summarizes the most important information about amiodarone
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about amiodarone HCl tablets that was written for healthcare professionals.
 
-This Medication Guide may have been revised after this copy was produced.
-For more information and the most current Medication Guide, please visit www.tarousa.com or call 1-800-544-1449.
-
 What are the ingredients in amiodarone HCl tablets?
 
 Active Ingredient: amiodarone HCl
 
-Inactive Ingredients: colloidal silicon dioxide, corn starch, D&C Lake yellow No. 10 (400 mg only), FD&C yellow #6 lake (200 mg only), FD&C yellow #10 lake (200 mg only), anhydrous lactose, magnesium stearate and povidone.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to the FDA at 1-800-FDA-1088.
+Inactive Ingredients: colloidal silicon dioxide, corn starch, D&C yellow No. 10 lake, FD&C yellow No. 6 lake (200 mg only), lactose anhydrous, magnesium stearate and povidone.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Rx only
+
+Distributed by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
+
+Last Revised: June 2011
+
+Tagamet® is a registered trademark of SmithKline Beecham Pharmaceuticals Co.
+
+Claritin® is a registered trademark of Schering Corporation.
+
+Alavert® is a registered trademark of Wyeth.
+71008-1211-8
