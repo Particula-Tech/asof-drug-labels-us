@@ -13,7 +13,7 @@ In teratogenicity studies, cleft palate along with an elevation of fetal lethali
 Cleft palate was observed in mice at a maternal dose of 20 mg/kg (equivalent to 100 mg in a 60 kg individual based on a mg/m2 comparison).
 Additionally, constriction of the ductus arteriosus has been observed in fetuses of pregnant rats exposed to prednisolone.
 
-In humans, the risk of decreased birth weight appears to be dose related and may be minimized by administering lower corticosteroid doses.
+In humans, the risk of decreased birth weight appears to be dose-related and may be minimized by administering lower corticosteroid doses.
 It is likely that underlying maternal conditions contribute to intrauterine growth restriction and decreased birth weight, but it is unclear to what extent these maternal conditions contribute to the increased risk of orofacial clefts.
 
 Prednisolone can cause fetal harm when used during pregnancy.
@@ -28,7 +28,7 @@ Reports suggest that prednisolone concentrations in human milk are 5 to 25% of m
 The risk of infant exposure to prednisolone through breast milk should be weighed against the known benefits of breastfeeding for both the mother and baby.
 
 Caution should be exercised when prednisolone is administered to a nursing woman.
-If Prednisolone must be prescribed to a breastfeeding mother, the lowest dose should be prescribed to achieve the desired clinical effect.
+If prednisolone must be prescribed to a breastfeeding mother, the lowest dose should be prescribed to achieve the desired clinical effect.
 High doses of corticosteroids for long periods could potentially produce problems in infant growth and development and interfere with endogenous corticosteroid production.
 
 Breastfeeding women using corticosteroids should be encouraged to take their dose immediately after breastfeeding at the time of day when the baby usually has the longest interval between feeds.

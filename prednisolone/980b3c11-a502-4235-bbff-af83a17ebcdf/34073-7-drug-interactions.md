@@ -8,14 +8,14 @@
   Therefore, coagulation indices should be monitored frequently to maintain the desired anticoagulant effect.
 - Antidiabetic agents: Because corticosteroids may increase blood glucose concentrations, dosage adjustments of antidiabetic agents may be required.
 - Antitubercular drugs: Serum concentrations of isoniazid may be decreased.
-- CYP 3A4 inducers (e.g. barbiturates, phenytoin, carbamazepine, and rifampin): Drugs such as barbiturates, phenytoin, ephedrine, and rifampin, which induce hepatic microsomal drug metabolizing enzyme activity may enhance metabolism of prednisolone and require that the dosage of Flo-Pred be increased.
+- CYP 3A4 inducers (e.g., barbiturates, phenytoin, carbamazepine, and rifampin): Drugs such as barbiturates, phenytoin, ephedrine, and rifampin, which induce hepatic microsomal drug metabolizing enzyme activity may enhance metabolism of prednisolone and require that the dosage of Flo-Pred be increased.
 - CYP 3A4 inhibitors (e.g., ketoconazole, macrolide antibiotics): Ketoconazole has been reported to decrease the metabolism of certain corticosteroids by up to 60% leading to an increased risk of corticosteroid side effects.
 - Cholestyramine: Cholestyramine may increase the clearance of corticosteroids.
 - Cyclosporine: Increased activity of both cyclosporine and corticosteroids may occur when the two are used concurrently.
   Convulsions have been reported with concurrent use.
 - Digitalis: Patients on digitalis glycosides may be at increased risk of arrhythmias due to hypokalemia.
-- Estrogens,including oral contraceptives: Estrogens may decrease the hepatic metabolism of certain corticosteroids thereby increasing their effect.
-- NSAlDS including aspirin and salicylates: Concomitant use of aspirin or other non-steroidal anti-inflammatory agents and corticosteroids increases the risk of gastrointestinal side effects.
+- Estrogens, including oral contraceptives: Estrogens may decrease the hepatic metabolism of certain corticosteroids thereby increasing their effect.
+- NSAlDs including aspirin and salicylates: Concomitant use of aspirin or other non-steroidal anti-inflammatory agents and corticosteroids increases the risk of gastrointestinal side effects.
   Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
   The clearance of salicylates may be increased with concurrent use of corticosteroids.
 - Potassium depleting agents (e.g., diuretics, Amphotericin B): When corticosteroids are administered concomitantly with potassium-depleting agents, patients should be observed closely for development of hypokalemia.
