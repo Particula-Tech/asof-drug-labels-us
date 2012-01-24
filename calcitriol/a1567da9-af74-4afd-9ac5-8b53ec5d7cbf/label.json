@@ -5,13 +5,14 @@
   "inn": "calcitriol",
   "labeler": "Galderma Laboratories, L.P.",
   "package_ndcs": [
+    "0299-2012-05",
     "0299-2012-10"
   ],
   "products": [
     {
       "form": "OINTMENT",
       "generic": "calcitriol",
-      "name": "VECTICAL"
+      "name": "Vectical"
     }
   ],
   "setid": "a1567da9-af74-4afd-9ac5-8b53ec5d7cbf",

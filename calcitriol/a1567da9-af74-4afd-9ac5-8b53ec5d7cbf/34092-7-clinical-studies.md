@@ -1,5 +1,7 @@
 # 14 CLINICAL STUDIES
 
+Enter section text here
+
 ## 14.1 Controlled Clinical Studies
 
 In two, multicenter, double-blind, vehicle-controlled studies, a total of 839 subjects with psoriasis rated “mild” or “moderate” using an investigator global assessment scale were treated twice daily for 8 weeks.
