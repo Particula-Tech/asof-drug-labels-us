@@ -1,5 +1,7 @@
 # OVERDOSAGE
 
+## Clinical Experience
+
 Manifestations of alprazolam overdosage include somnolence, confusion, impaired coordination, diminished reflexes and coma.
 Death has been reported in association with overdoses of alprazolam by itself, as it has with other benzodiazepines.
 In addition, fatalities have been reported in patients who have overdosed with a combination of a single benzodiazepine, including alprazolam, and alcohol; alcohol levels seen in some of these patients have been lower than those usually associated with alcohol-induced fatality.

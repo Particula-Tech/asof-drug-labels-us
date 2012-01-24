@@ -1,8 +1,7 @@
-CIV
+09-2011M
 
-Rx only
+7383
 
-Rev.
-02-2006M 7194
+Sandoz Inc.
 
-Sandoz Inc. Princeton, NJ 08540
+Princeton, NJ 08540

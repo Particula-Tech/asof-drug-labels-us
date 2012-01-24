@@ -1,12 +1,30 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074112",
+    "ANDA074909"
+  ],
   "inn": "alprazolam",
-  "labeler": "Sandoz Inc.",
+  "labeler": "Sandoz Inc",
   "package_ndcs": [
+    "0781-1061-01",
+    "0781-1061-05",
+    "0781-1061-10",
+    "0781-1077-01",
+    "0781-1077-05",
+    "0781-1077-10",
+    "0781-1079-01",
+    "0781-1079-05",
+    "0781-1079-10",
     "0781-1089-01",
     "0781-1089-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "alprazolam",
+      "name": "Alprazolam"
+    }
+  ],
   "setid": "d9b0e228-17cf-40d7-b62e-5050311c571c",
   "source": "dailymed"
 }
