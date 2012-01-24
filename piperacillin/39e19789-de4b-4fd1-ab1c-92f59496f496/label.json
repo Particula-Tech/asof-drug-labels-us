@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA065498"
+  ],
+  "inn": "piperacillin",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-119-30",
+    "55150-120-30",
+    "55150-121-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "piperacillin sodium and tazobactam piperacillin sodium and tazobactam sodium",
+      "name": "Piperacillin and Tazobactam"
+    },
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "piperacillin sodium and tazobactam sodium",
+      "name": "Piperacillin and Tazobactam"
+    }
+  ],
+  "setid": "39e19789-de4b-4fd1-ab1c-92f59496f496",
+  "source": "dailymed"
+}
