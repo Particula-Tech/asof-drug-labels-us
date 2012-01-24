@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA016636"
+  ],
   "inn": "naloxone",
-  "labeler": "Endo Pharmaceuticals Inc.",
+  "labeler": "Endo Pharmaceuticals Inc",
   "package_ndcs": [
     "63481-358-10",
     "63481-359-10",
@@ -9,7 +11,13 @@
     "63481-368-05",
     "63481-377-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "naloxone hydrochloride",
+      "name": "Narcan"
+    }
+  ],
   "setid": "cedc622c-7f96-4fc8-a621-a5c602946396",
   "source": "dailymed"
 }
