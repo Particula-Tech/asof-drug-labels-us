@@ -92,28 +92,10 @@ The makers of these brands are not affiliated with AstraZeneca or its products.
 
 © AstraZeneca 2007, 2008
 
-ZOMIG®(zolmitriptan) Tablets
-
-Manufactured for:
+Distributed by:
 
 AstraZeneca Pharmaceuticals LP
 
-Wilmington, Delaware 19850
+Wilmington, DE 19850
 
-By: IPR Pharmaceuticals, Inc.
-
-Canóvanas, PR 00729
-
-ZOMIG-ZMT® (zolmitriptan) Orally Disintegrating Tablets
-
-Manufactured for:
-
-AstraZeneca Pharmaceuticals LP
-
-Wilmington, Delaware 19850
-
-By: CIMA Labs, Inc.
-
-Eden Prairie, Minnesota 55344
-
-Rev 10/08 SIC 30086–05
+Rev 10/08 SIC 30086–06
