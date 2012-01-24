@@ -132,7 +132,7 @@ In the overall study population, ALIMTA was statistically superior to placebo in
 A difference in treatment outcomes was observed according to histologic classification.
 For the population of patients with nonsquamous NSCLC, ALIMTA was superior to placebo for OS (median 15.5 months versus 10.3 months, HR=0.70 (95% CI: 0.56-0.88)) and PFS (median 4.4 months versus 1.8 months, HR=0.47 (95% CI: 0.37-0.60)).
 For the population of patients with squamous NSCLC, ALIMTA did not improve OS compared to placebo (median 9.9 months versus 10.8 months, HR=1.07 (95% CI: 0.77-1.50)) or PFS (median 2.4 months versus 2.5 months, HR=1.03 (95% CI: 0.71-1.49)).
-This difference in treatment effect for ALIMTA based on histology demonstrating lack of benefit in squamous cell histology was also observed in the first-line and second line studies.
+This difference in treatment effect for ALIMTA based on histology demonstrating lack of benefit in squamous cell histology was also observed in the first-line and second-line studies.
 [see Clinical Studies (14.1, 14.3)]
 
 Efficacy results for the overall patient population are presented in Table 13 and Figure 3, and efficacy results by pre-specified histologic subgroups are presented in Table 14 and Figure 4, below.
@@ -221,7 +221,7 @@ A retrospective analysis of the impact of NSCLC histology on overall survival wa
 Clinically relevant differences in survival according to histology were observed and are shown in Table 17.
 This difference in treatment effect for ALIMTA based on histology demonstrating a lack of efficacy in squamous cell histology was also observed in the first-line combination study and in the maintenance study [see Clinical Studies (14.1, 14.2)].
 
-Table 17: Second Line Therapy: Overall Survival of ALIMTA versus Docetaxel in NSCLC by Histologic Subgroups
+Table 17: Second-Line Therapy: Overall Survival of ALIMTA versus Docetaxel in NSCLC by Histologic Subgroups
 
 | Histology Subgroup | Median Overall Survival in Months (95% CI) |  |  |  | Unadjusted Hazard Ratio (HR)a,b (95% CI) | Adjusted Hazard Ratio (HR) a,b,c (95% CI) |
 | --- | --- | --- | --- | --- | --- | --- |

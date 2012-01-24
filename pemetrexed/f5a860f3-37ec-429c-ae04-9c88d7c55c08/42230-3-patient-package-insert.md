@@ -56,7 +56,7 @@ How is ALIMTA given?
   Corticosteroid medicines lower your chances for getting skin reactions with ALIMTA.
 - It is very important to take folic acid and vitamin B12 during your treatment with ALIMTA to lower your chances of harmful side effects.
   You must start taking 350-1000 micrograms of folic acid every day for at least 5 days out of the 7 days before your first dose of ALIMTA.
-  You must keep taking folic acid every day during the time you are getting treatment with ALIMTA, and for 21 days after your last treatment.
+  You must keep taking folic acid every day during the time you are getting treatment with ALIMTA and for 21 days after your last treatment.
   You can get folic acid vitamins over-the-counter.
   Folic acid is also found in many multivitamin pills.
   Ask your doctor or pharmacist for help if you are not sure how to choose a folic acid product.
@@ -97,10 +97,10 @@ The most common side effects of ALIMTA when given alone or in combination with c
 - Tiredness.
   You may feel tired or weak for a few days after your ALIMTA treatments.
   If you have severe weakness or tiredness, call your doctor.
-- Mouth, throat, or lip sores (stomatitis, pharyngitis).
-  You may get redness or sores in your mouth, throat, or on your lips.
+- Mouth, throat, lip, or food pipe sores (stomatitis, pharyngitis, esophagitis).
+  You may get redness or sores in your mouth, throat, or on your lips, or you may feel pain or difficulty when drinking or swallowing food.
   These symptoms may happen a few days after ALIMTA treatment.
-  Talk with your doctor about proper mouth and throat care.
+  Talk with your doctor if you get any of these symptoms.
 - Loss of appetite.
   You may lose your appetite and lose weight during your treatment.
   Talk to your doctor if this is a problem for you.
@@ -110,10 +110,10 @@ The most common side effects of ALIMTA when given alone or in combination with c
   Skin reactions or rashes that include blistering or peeling may be severe and could lead to death.
   Call your doctor if you have any of these symptoms.
 
-Talk with your doctor, nurse or pharmacist about any side effect that bothers you or that doesn't go away.
+Talk with your doctor, nurse, or pharmacist about any side effect that bothers you or that doesn't go away.
 
 These are not all the side effects of ALIMTA.
-For more information, ask your doctor, nurse or pharmacist.
+For more information, ask your doctor, nurse, or pharmacist.
 
 General information about ALIMTA
 
@@ -125,10 +125,10 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ALIMTA that is written for health professionals.
 You can also call 1-800-LILLY-RX (1-800-545-5979) or visit www.ALIMTA.com.
 
-Patient information revised November 2011
+Patient information revised December 19, 2011
 
-Eli Lilly and Company Indianapolis, IN 46285, USA www.ALIMTA.com
+Lilly USA, LLC Indianapolis, IN 46285, USA www.ALIMTA.com
 
 | Copyright © 2004, 2011, Eli Lilly and Company. All rights reserved. |  |
 | --- | --- |
-| PV 6755 AMP |  |
+| PV 6756 AMP |  |

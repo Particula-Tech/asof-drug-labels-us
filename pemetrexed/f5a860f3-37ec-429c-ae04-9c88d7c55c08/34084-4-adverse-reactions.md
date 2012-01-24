@@ -272,7 +272,9 @@ Additional Clinical Trials Experience
 
 Across clinical trials, sepsis, which in some cases was fatal, occurred in approximately 1% of patients.
 
-## 6.2 Post-Marketing Experience
+Cases of esophagitis have been reported in clinical trials.
+
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of ALIMTA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
