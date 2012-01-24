@@ -1,4 +1,4 @@
-# Description:
+# DESCRIPTION
 
 PROLOPRIM (trimethoprim) is a synthetic antibacterial available in tablet form for oral administration.
 Each scored white tablet contains 100 mg trimethoprim and the inactive ingredients corn starch, lactose, magnesium stearate, and sodium starch glycolate.

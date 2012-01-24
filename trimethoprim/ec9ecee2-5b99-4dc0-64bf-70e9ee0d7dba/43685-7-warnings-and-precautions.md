@@ -1,4 +1,4 @@
-# Warnings:
+# WARNINGS
 
 Serious hypersensitivity reactions have been reported rarely in patients on trimethoprim therapy.
 Trimethoprim has been reported rarely to interfere with hematopoiesis, especially when administered in large doses and/or for prolonged periods.
@@ -7,7 +7,7 @@ The presence of clinical signs such as sore throat, fever, pallor, or purpura ma
 
 Complete blood counts should be obtained if any of these signs are noted in a patient receiving trimethoprim and the drug discontinued if a significant reduction in the count of any formed blood element is found.
 
-# Precautions:
+# PRECAUTIONS
 
 ## General:
 
@@ -15,13 +15,15 @@ Trimethoprim should be given with caution to patients with possible folate defic
 Folates may be administered concomitantly without interfering with the antibacterial action of trimethoprim.
 Trimethoprim should also be given with caution to patients with impaired renal or hepatic function (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
+Prescribing Proloprim Tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+
 ## Drug Interactions:
 
 PROLOPRIM may inhibit the hepatic metabolism of phenytoin.
 Trimethoprim, given at a common clinical dosage, increased the phenytoin half-life by 51% and decreased the phenytoin metabolic clearance rate by 30%.
 When administering these drugs concurrently, one should be alert for possible excessive phenytoin effect.
 
-## Drug and Laboratory Test Interactions:
+## Drug/Laboratory Test Interactions:
 
 Trimethoprim can interfere with a serum methotrexate assay as determined by the Competitive Binding Protein Technique (CBPA) when a bacterial dihydrofolate reductase is used as the binding protein.
 No interference occurs, however, if methotrexate is measured by a radioimmunoassay (RIA).
@@ -81,3 +83,10 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 Case reports of hyperkalemia in elderly patients receiving trimethoprim-sulfaethoxazole have been published.6 Trimethoprim is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor potassium concentrations and to monitor renal function by calculating creatinine clearance.
+
+## Information for Patients:
+
+Patients should be counseled that antibacterial drugs including Proloprim Tablets should only be used to treat bacterial infections.
+They do not treat viral infections (e.g., the common cold).
+When Proloprim Tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Proloprim Tablets or other antibacterial drugs in the future.

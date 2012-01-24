@@ -1,4 +1,4 @@
-# Clinical Pharmacology:
+# CLINICAL PHARMACOLOGY
 
 Trimethoprim is rapidly absorbed following oral administration.
 It exists in the blood as unbound, protein-bound, and metabolized forms.
@@ -36,11 +36,11 @@ The dominant non-Enterobacteriaceae fecal organisms, Bacteroides spp. and Lactob
 
 Trimethoprim has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-## Aerobic gram-positive microorganisms:
+## Aerobic gram-positive microorganisms
 
 Staphylococcus species (coagulase-negative strains, including S. saprophyticus)
 
-## Aerobic gram-negative microorganisms:
+## Aerobic gram-negative microorganisms
 
 Enterobacter species
 
@@ -52,7 +52,7 @@ Proteus mirabilis
 
 Susceptibility Testing Methods
 
-## Dilution techniques:
+## Dilution techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
@@ -83,7 +83,7 @@ Standard trimethoprima powder should provide the following MIC values:
 
 a Very medium-dependent.
 
-## Diffusion techniques:
+## Diffusion techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure2 requires the use of standardized inoculum concentrations.

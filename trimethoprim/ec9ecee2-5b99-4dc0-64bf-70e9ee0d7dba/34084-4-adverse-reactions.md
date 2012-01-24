@@ -1,4 +1,4 @@
-# Adverse Reactions:
+# ADVERSE REACTIONS
 
 The adverse effects encountered most often with trimethoprim were rash and pruritus.
 

@@ -1,4 +1,4 @@
-# References:
+# REFERENCES
 
 1. National Committee for Clinical Laboratory Standards.
    Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically.
@@ -20,8 +20,10 @@
    Trimethoprim-induced hyperkalemia: An analysis of reported cases.
    Gerontology 45: 209–212, 1999.
 
-Prescribing Information as of February 2003.
+Prescribing Information as of January 2006.
 
 Distributed by: Monarch Pharmaceuticals, Inc. Bristol, TN 37620
+
+(A wholly owned subsidiary of King Pharmaceuticals, Inc.)
 
 Manufactured by: DSM Pharmaceuticals, Inc. Greenville, NC 27834
