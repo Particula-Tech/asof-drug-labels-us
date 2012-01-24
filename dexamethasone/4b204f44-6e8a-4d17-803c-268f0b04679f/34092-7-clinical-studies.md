@@ -17,7 +17,7 @@ Number (Percent) of Patients with ≥ 15 Letters Improvement from Baseline in BC
 | Day 180 | 39 (19%) | 37 (18%) | 0.780 | 53 (24%) | 38 (17%) | 0.087 |
 | *P-values were based on the Pearson's chi-square test. |  |  |  |  |  |  |
 
-In each individual study and in a pooled analysis, time to achieve ≥ 15 letters (3-line) improvement in BCVA cumulative response rate curves were significantly faster with OZURDEX® compared to sham (p < 0.01), with OZURDEX®-treated patients achieving a 3-line improvement in BCVA earlier than sham-treated patients.
+In each individual study and in a pooled analysis, time to achieve ≥ 15 letters (3-line) improvement in BCVA cumulative response rate curves were significantly faster with OZURDEX® compared to sham (p < 0.01), with OZURDEX® treated patients achieving a 3-line improvement in BCVA earlier than sham-treated patients.
 
 The onset of a ≥ 15 letter (3-line) improvement in BCVA with OZURDEX® occurs within the first two months after implantation in approximately 20-30% of subjects.
 The duration of effect persists approximately one to three months after onset of this effect.

@@ -6,7 +6,7 @@ The NOVADUR® system contains poly (D,L-lactide-co-glycolide) PLGA intravitreal 
 The chemical name for dexamethasone is Pregna-1,4-diene-3,20-dione, 9-fluoro-11,17,21-trihydroxy-16-methyl-, (11β,16α)-.
 Its structural formula is:
 
-MW 392.47; molecular formula: C22H29FO5.
+MW 392.47; molecular formula: C22H29FO5
 
 Dexamethasone occurs as a white to cream-colored crystalline powder having not more than a slight odor, and is practically insoluble in water and very soluble in alcohol.
 

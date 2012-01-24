@@ -6,6 +6,6 @@ If the eye becomes red, sensitive to light, painful, or develops a change in vis
 Patients may experience temporary visual blurring after receiving an intravitreal injection.
 They should not drive or use machines until this has resolved.
 
-© 2010 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. U.S. Patents 6,726,918; 6,899,717; 7,033,605; and 7,767,223 Made in Ireland
+© 2011 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. U.S. Patents 6,726,918; 6,899,717; 7,033,605; and 7,767,223 Made in Ireland
 
-72212US11B
+72212US12C
