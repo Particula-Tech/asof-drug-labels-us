@@ -1,5 +1,3 @@
-T2006-52
-
 Parlodel®
 
 SnapTabs®

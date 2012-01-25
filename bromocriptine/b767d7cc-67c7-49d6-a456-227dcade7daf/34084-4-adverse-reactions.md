@@ -31,15 +31,34 @@ Abnormalities in laboratory tests may include elevations in blood urea nitrogen,
 
 ## Adverse Reactions from Postmarketing Experience
 
-Pleural and pericardial effusions, pleural, and pulmonary fibrosis or retroperitoneal fibrosis and constrictive pericarditis have been reported rarely in patients treated with Parlodel.
+The following adverse reactions have been reported during postapproval use of Parlodel (All Indications Combined).
+Because adverse reactions from spontaneous reports are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Very rarely, a syndrome resembling Neuroleptic Malignant Syndrome has been reported on abrupt withdrawal of Parlodel.
+Psychiatric disorders: Confusion, psychomotor agitation/excitation, hallucinations, psychotic disorders, insomnia, libido increase, hypersexuality.
 
-Blurred vision, dyskinesia, and psychomotor agitation/excitation have also occurred in postmarketing experiences.
+Nervous system disorders: Headache, drowsiness, dizziness, dyskinaesia, somnolence, paraesthesia, excess daytime somnolence, sudden onset of sleep.
+
+Eye disorders: Visual disturbance, vision blurred.
+
+Ear and labyrinth disorders: Tinnitus.
+
+Cardiac disorders: Pericardial effusion, constrictive pericarditis, tachycardia, bradycardia, arrhythmia, cardiac valve fibrosis.
+
+Vascular disorders: Hypotension, orthostatic hypotension (very rarely leading to syncope), reversible pallor of fingers and toes induced by cold (especially in patients with history of Raynaud's phenomenon)
+
+Respiratory, thoracic and mediastinal disorders: Nasal congestion, pleural effusion, pleural fibrosis, pleurisy, pulmonary fibrosis, dyspnoea.
+
+Gastrointestinal disorders: Nausea, constipation, vomiting, dry mouth, diarrhoea, abdominal pain, retroperitoneal fibrosis, gastrointestinal ulcer, gastrointestinal haemorrhage.
+
+Skin and subcutaneous tissue disorders: Allergic skin reactions, hair loss.
+
+Musculoskeletal and connective tissue disorders: Leg cramps.
+
+General disorders and administration site conditions: Fatigue, peripheral oedema, a syndrome resembling Neuroleptic Malignant Syndrome on abrupt withdrawal of Parlodel (See Precautions).
 
 ## Adverse Events Observed in Other Conditions
 
-Postpartum Patients
+### Postpartum Patients (see above Warnings)
 
 In postpartum studies with Parlodel, 23 percent of postpartum patients treated had at least 1 side effect, but they were generally mild to moderate in degree.
 Therapy was discontinued in approximately 3% of patients.
@@ -53,3 +72,10 @@ Most patients had shown no evidence of any of the hypertensive disorders of preg
 One stroke case was associated with sagittal sinus thrombosis, and another was associated with cerebral and cerebellar vasculitis.
 One case of myocardial infarction was associated with unexplained disseminated intravascular coagulation and a second occurred in conjunction with use of another ergot alkaloid.
 The relationship of these adverse reactions to Parlodel administration has not been established.
+
+In rare cases serious adverse events, including hypertension, myocardial infarction, seizures, stroke, or psychic disorders have been reported in postpartum women treated with Parlodel.
+In some patients the development of seizures or stroke was preceded by severe headache and/or transient visual disturbances.
+Although the causal relationship of these events to the drug is uncertain, periodic monitoring of blood pressure is advisable in postpartum women receiving Parlodel.
+If hypertension, severe, progressive, or unremitting headache (with or without visual disturbances), or evidence of CNS toxicity develop, the administration of Parlodel should be discontinued and the patient should be evaluated promptly.
+
+Particular caution is required in patients who have recently been treated or are on concomitant therapy with drugs that can alter blood pressure, e.g. vasoconstrictors such as sympathomimetics or ergot alkaloids including ergometrine or methylergometrine and their concomitant use in the puerperium is not recommended.

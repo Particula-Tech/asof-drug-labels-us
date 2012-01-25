@@ -9,7 +9,7 @@ Reinitiation of Parlodel treatment has been reported to produce improvement in t
 The safety of Parlodel treatment during pregnancy to the mother and fetus has not been established.
 
 Parlodel has been associated with somnolence, and episodes of sudden sleep onset, particularly in patients with Parkinson’s disease.
-Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported very rarely.
+Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported.
 Patients must be informed of this and advised not to drive or operate machines during treatment with bromocriptine.
 Patients who have experienced somnolence and/or an episode of sudden sleep onset must not drive or operate machines.
 Furthermore, a reduction of dosage or termination of therapy may be considered.
@@ -20,10 +20,11 @@ On occasion, the drop in supine systolic pressure was as much as 50-59 mm of Hg.
 
 Since, especially during the first days of treatment, hypotensive reactions may occasionally occur and result in reduced alertness, particular care should be exercised when driving a vehicle or operating machinery.
 
-While hypotension during the start of therapy with Parlodel occurs in some patients, in postmarketing experience in the U.S. in postpartum patients 89 cases of hypertension have been reported, sometimes at the initiation of therapy, but often developing in the second week of therapy; seizures have been reported in 72 cases (including 4 cases of status epilepticus), both with and without the prior development of hypertension; 30 cases of stroke have been reported mostly in postpartum patients whose prenatal and obstetric courses had been uncomplicated.
-Many of these patients experiencing seizures and/or strokes reported developing a constant and often progressively severe headache hours to days prior to the acute event.
+While hypotension during the start of therapy with Parlodel occurs in some patients, in rare cases serious adverse events, including hypertension, myocardial infarction, seizures, stroke, have been reported in postpartum women treated with Parlodel for the inhibition of lactation.
+Hypertension have been reported, sometimes at the initiation of therapy, but often developing in the second week of therapy; seizures have also been reported both with and without the prior development of hypertension; stroke have been reported mostly in postpartum patients whose prenatal and obstetric courses had been uncomplicated.
+Many of these patients experiencing seizures (including cases of status epilepticus) and/or strokes reported developing a constant and often progressively severe headache hours to days prior to the acute event.
 Some cases of strokes and seizures were also preceded by visual disturbances (blurred vision, and transient cortical blindness).
-Nine cases of acute myocardial infarction have been reported.
+Cases of acute myocardial infarction have also been reported.
 
 Although a causal relationship between Parlodel administration and hypertension, seizures, strokes, and myocardial infarction in postpartum women has not been established, use of the drug for prevention of physiological lactation, or in patients with uncontrolled hypertension is not recommended.
 In patients being treated for hyperprolactinemia, Parlodel should be withdrawn when pregnancy is diagnosed (see PRECAUTIONS, Hyperprolactinemic States).
@@ -36,7 +37,7 @@ If hypertension, severe, progressive, or unremitting headache (with or without v
 Particular attention should be paid to patients who have recently been treated or are on concomitant therapy with drugs that can alter blood pressure.
 Their concomitant use in the puerperium is not recommended.
 
-Among patients on Parlodel, particularly on long-term and high-dose treatment, pleural and pericardial effusions, as well as pleural and pulmonary fibrosis and constrictive pericarditis, have occasionally been reported.
+Among patients on Parlodel, particularly on long-term and high-dose treatment, pleural and pericardial effusions, as well as pleural and pulmonary fibrosis and constrictive pericarditis, have been reported.
 Patients with unexplained pleuropulmonary disorders should be examined thoroughly and discontinuation of Parlodel therapy should be considered.
 In those instances in which Parlodel treatment was terminated, the changes slowly reverted towards normal.
 
@@ -54,7 +55,7 @@ Care should be exercised when administering Parlodel therapy concomitantly with 
 The drug should be used with caution in patients with a history of psychosis or cardiovascular disease.
 If acromegalic patients or patients with prolactinoma or Parkinson’s disease are being treated with Parlodel during pregnancy, they should be cautiously observed, particularly during the postpartum period if they have a history of cardiovascular disease.
 
-Patients with rare hereditary problems of galactose intolerance, the severe lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+Patients with rare hereditary problems of galactose intolerance, severe lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 ## Hyperprolactinemic States
 
@@ -74,8 +75,7 @@ Treatment with Parlodel SnapTabs® or capsules should be discontinued as soon as
 Patients must be monitored closely throughout pregnancy for signs and symptoms that may signal the enlargement of a previously undetected or existing prolactin-secreting tumor.
 Discontinuation of Parlodel treatment in patients with known macroadenomas has been associated with rapid regrowth of tumor and increase in serum prolactin in most cases.
 
-In some patients with prolactin-secreting adenomas treated with Parlodel, cerebrospinal fluid rhinorrhea has been observed.
-The data available suggest that this may result from shrinkage of invasive tumors.
+Cerebrospinal fluid rhinorrhea has been observed in some patients with prolactin-secreting adenomas treated with Parlodel.
 
 ## Acromegaly
 
@@ -102,9 +102,23 @@ Parlodel administered alone or concomitantly with levodopa may cause hallucinati
 Hallucinations usually resolve with dosage reduction; occasionally, discontinuation of Parlodel is required.
 Rarely, after high doses, hallucinations have persisted for several weeks following discontinuation of Parlodel.
 
+Postmarketing reports suggest that patients treated with anti-Parkinson medications can experience intense urges to gamble, increased sexual urges, intense urges to spend money uncontrollably, and other intense urges.
+Patients may be unable to control these urges while taking one or more of the medications that are generally used for the treatment of Parkinson’s disease and that increase central dopaminergic tone, including Parlodel.
+In some cases, although not all, these urges were reported to have stopped when the dose was reduced or the medication was discontinued.
+Because patients may not recognize these behaviors as abnormal it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with Parlodel.
+Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking Parlodel.
+
 As with levodopa, caution should be exercised when administering Parlodel to patients with a history of myocardial infarction who have a residual atrial, nodal, or ventricular arrhythmia.
 
 Retroperitoneal fibrosis has been reported in a few patients receiving long-term therapy (2-10 years) with Parlodel in doses ranging from 30-140 mg daily.
+
+Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2-approximately 6-fold higher) of developing melanoma than the general population.
+Whether the increased risk observed was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
+For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using Parlodel for any indication.
+Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g. dermatologists).
+
+Discontinuation of Parlodel should be undertaken gradually whenever possible, even if the patient is to remain on l-dopa.
+A symptom complex resembling the neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in antiparkinsonian therapy.
 
 ## Information for Patients
 
@@ -112,21 +126,25 @@ During clinical trials, dizziness, drowsiness, faintness, fainting, and syncope 
 In postmarketing reports, Parlodel has been associated with somnolence, and episodes of sudden sleep onset, particularly in patients with Parkinson’s disease.
 Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported very rarely.
 All patients receiving Parlodel should be cautioned with regard to engaging in activities requiring rapid and precise responses, such as driving an automobile or operating machinery.
-Patients being treated with Parlodel and presenting with somnolence and/or sudden sleep episodes must be advised not to drive or engage in activities where impaired alertness may put themselves or others at risk of serious injury or death (e.g., operating machines) until such recurrent episodes and somnolence have resolved.
+Patients being treated with Parlodel and presenting with somnolence and/or sudden sleep episodes must be advised not to drive or engage in activities where impaired alertness may put themselves or others at risk of serious injury or death (e.g., operating machines).
 
 Patients receiving Parlodel for hyperprolactinemic states associated with macroadenoma or those who have had previous transsphenoidal surgery, should be told to report any persistent watery nasal discharge to their physician.
 Patients receiving Parlodel for treatment of a macroadenoma should be told that discontinuation of drug may be associated with rapid regrowth of the tumor and recurrence of their original symptoms.
+
+Patients and their caregivers should be alerted to the possibility that they may experience intense urges to spend money uncontrollably, intense urges to gamble, increased sexual urges and other intense urges and the inability to control these urges while taking Mirapex.
+[See Precautions].
+
+Especially during the first days of treatment, hypotensive reactions may occasionally occur and result in reduced alertness, particular care should be exercised when driving a vehicle or operating machinery.
 
 ## Drug Interactions
 
 The risk of using Parlodel in combination with other drugs has not been systematically evaluated, but alcohol may potentiate the side effects of Parlodel.
 Parlodel may interact with dopamine antagonists, butyrophenones, and certain other agents.
 Compounds in these categories result in a decreased efficacy of Parlodel: phenothiazines, haloperidol, metoclopramide, pimozide.
-Bromocriptine is both a substrate and an inhibitor of CYP3A4.
-Caution should therefore be used when coadministering drugs that are strong inhibitors and/or substrates of this enzyme (azole antimycotics, HIV protease inhibitors).
-The concomitant use of macrolide antibiotics such as erythromycin was shown to increase the plasma levels of bromocriptine.
-The concomitant treatment of acromegalic patients with bromocriptine and octreotide led to increased plasma levels of bromocriptine.
-Concomitant use of Parlodel with other ergot alkaloids is not recommended.
+Bromocriptine is a substrate of CYP3A4.
+Caution should therefore be used when co-administering drugs which are strong inhibitors of this enzyme (such as azole antimycotics, HIV protease inhibitors).
+The concomitant use of macrolide antibiotics such as erythromycin was shown to increase the plasma levels of bromocriptine (mean AUC and Cmax values increased 3.7-fold and 4.6-fold, respectively).1 The concomitant treatment of acromegalic patients with bromocriptine and octreotide led to increased plasma levels of bromocriptine (bromocriptine AUC increased about 38%).4 Concomitant use of Parlodel with other ergot alkaloids is not recommended.
+Dose adjustment may be necessary in those cases where high doses of bromocriptine are being used (such as Parkinson’s disease indication).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

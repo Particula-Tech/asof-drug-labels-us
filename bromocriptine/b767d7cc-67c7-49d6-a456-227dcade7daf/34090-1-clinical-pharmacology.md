@@ -4,10 +4,15 @@ Parlodel® (bromocriptine mesylate) is a dopamine receptor agonist, which activa
 The dopaminergic neurons in the tuberoinfundibular process modulate the secretion of prolactin from the anterior pituitary by secreting a prolactin inhibitory factor (thought to be dopamine); in the corpus striatum the dopaminergic neurons are involved in the control of motor function.
 Clinically, Parlodel significantly reduces plasma levels of prolactin in patients with physiologically elevated prolactin as well as in patients with hyperprolactinemia.
 The inhibition of physiological lactation as well as galactorrhea in pathological hyperprolactinemic states is obtained at dose levels that do not affect secretion of other tropic hormones from the anterior pituitary.
-Experiments have demonstrated that bromocriptine induces longlasting stereotyped behavior in rodents and turning behavior in rats having unilateral lesions in the substantia nigra.
+Experiments have demonstrated that bromocriptine induces long-lasting stereotyped behavior in rodents and turning behavior in rats having unilateral lesions in the substantia nigra.
 These actions, characteristic of those produced by dopamine, are inhibited by dopamine antagonists and suggest a direct action of bromocriptine on striatal dopamine receptors.
 
 Bromocriptine mesylate is a nonhormonal, nonestrogenic agent that inhibits the secretion of prolactin in humans, with little or no effect on other pituitary hormones, except in patients with acromegaly, where it lowers elevated blood levels of growth hormone in the majority of patients.
+
+Bromocriptine mesylate produces its therapeutic effect in the treatment of Parkinson’s disease, a clinical condition characterized by a progressive deficiency in dopamine synthesis in the substantia nigra, by directly stimulating the dopamine receptors in the corpus striatum.
+In contrast, levodopa exerts its therapeutic effect only after conversion to dopamine by the neurons of the substantia nigra, which are known to be numerically diminished in this patient population.
+
+Clinical Studies
 
 In about 75% of cases of amenorrhea and galactorrhea, Parlodel therapy suppresses the galactorrhea completely, or almost completely, and reinitiates normal ovulatory menstrual cycles.
 
@@ -20,28 +25,78 @@ Some patients may fail to respond even after 12 months of therapy.
 
 In many acromegalic patients, Parlodel produces a prompt and sustained reduction in circulating levels of serum growth hormone.
 
-Bromocriptine mesylate produces its therapeutic effect in the treatment of Parkinson’s disease, a clinical condition characterized by a progressive deficiency in dopamine synthesis in the substantia nigra, by directly stimulating the dopamine receptors in the corpus striatum.
-In contrast, levodopa exerts its therapeutic effect only after conversion to dopamine by the neurons of the substantia nigra, which are known to be numerically diminished in this patient population.
-
 ## Pharmacokinetics
 
-The pharmacokinetics and metabolism of bromocriptine in human subjects were studied with the help of radioactively labeled drug.
-Twenty-eight percent of an oral dose was absorbed from the gastrointestinal tract.
-The blood levels following a 2½mg dose were in the range of 2-3 ng equivalents/mL.
-Plasma levels were in the range of 4-6 ng equivalents/mL indicating that the red blood cells did not contain appreciable amounts of drug and/or metabolites.
-In vitro experiments showed that the drug was 90%-96% bound to serum albumin.
+Absorption
 
-When tablets or standard capsules are administered to healthy volunteers, the absorption half-life is 0.2 to 0.5 hours, and the peak plasma levels of bromocriptine are reached within 1 to 3 hours.
-An oral dose of 5 mg of bromocriptine results in a Cmax of 0.465 ng/mL.
-The prolactin-lowering effect begins within 1 to 2 hours of ingestion, reaches its maximum, i.e., a reduction of prolactin in the plasma by more than 80%, within 5 to 10 hours and remains close to maximum for 8 to 12 hours.
+Following single dose administration of Parlodel tablets, 2 x 2.5 mg to 5 healthy volunteers under fasted conditions, the mean peak plasma levels of bromocriptine, time to reach peak plasma concentrations and elimination half-life were 465 pg/mL ± 226, 2.5 hrs ± 2 and 4.85 hr, respectively.1 Linear relationship was found between single doses of Parlodel and Cmax and AUC in the dose range of 1 to 7.5 mg.2 The pharmacokinetics of bromocriptine metabolites have not been reported.
 
-Bromocriptine undergoes extensive first-pass biotransformation in the liver, reflected by complex metabolite profiles and by almost complete absence of parent drug in urine and feces.
-It shows a high affinity for CYP3A and hydroxylations at the proline ring of the cyclopeptide moiety constitute a main metabolic pathway.
-Inhibitors and/or potent substrates for CYP3A4 might therefore be expected to inhibit the clearance of bromocriptine and lead to increased levels.
-Bromocriptine is also a potent inhibitor of CYP3A4 with a calculated IC50 value of 1.69 µM.
-However, given the low therapeutic concentrations of free bromocriptine in patients, a significant alteration of the metabolism of a second drug whose clearance is mediated by CYP3A4 should not be expected.
+Food did not significantly affect the systemic exposure of bromocriptine following administration of Parlodel tablets, 2.5 mg.3 It is recommended that Parlodel be taken with food because of the high percentage of subjects who vomit upon receiving bromocriptine under fasting conditions.
 
-The elimination of the parent drug from plasma is biphasic, with a terminal half-life of about 15 hours (range 8 to 20 hours).
-Parent drug and metabolites are almost completely excreted via the liver, and only 6% eliminated via the kidney.
+Following Parlodel 5 mg administered twice daily for 14 days, the bromocriptine Cmax and AUC at steady state were 628 ± 375 pg/mL and 2377 ± 1186 pg*hr/mL, respectively.4
 
-In patients with impaired hepatic function, the speed of elimination may be retarded and plasma levels may increase requiring dose adjustment.
+Distribution
+
+In vitro experiments showed that bromocriptine was 90%-96% bound to serum albumin.
+
+Metabolism
+
+Bromocriptine undergoes extensive first-pass biotransformation, reflected by complex metabolite profiles and by almost complete absence of parent drug in urine and feces.
+
+In vitro studies using human liver microsomes showed that bromocriptine has a high affinity for CYP3A and hydroxylations at the proline ring of the cyclopeptide moiety constituted a main metabolic pathway.
+5 Inhibitors and/or potent substrates for CYP3A4 might therefore inhibit the clearance of bromocriptine and lead to increased levels.
+(see PRECAUTIONS, drug interactions section).
+The participation of other major CYP enzymes such as 2D6, 2C8, and 2C19 on the metabolism of bromocriptine has not been evaluated.
+Bromocriptine is also an inhibitor of CYP3A4 with a calculated IC50 value of 1.69 μM.6 Given the low therapeutic concentrations of bromocriptine in patients (Cmax=0.82 nM), a significant alteration of the metabolism of a second drug whose clearance is mediated by CYP3A4 should not be expected.
+The potential effect of bromocriptine and its metabolites to act as inducers of CYP enzymes has not been reported.
+
+Excretion
+
+About 82% and 5.6 % of the radioactive dose orally administered was recovered in feces and urine, respectively.
+Bromolysergic acid and bromoisolysergic acid accounted for half of the radioactivity in urine.5
+
+____________________________________________________
+
+1 Nelson, M. et. al. (1990).
+Pharmacokinetic evaluation of erythromycin and caffeine administered with bromocriptine.
+Clin Pharmacol Ther; 47(6):694-7.
+
+2 Schran, H.F., Bhuta, S.I., Schwartz, et al. (1980).
+The pharmacokinetics of bromocriptine in man.
+In: Golstein, M. Calne, D.B.,et.
+Al (eds).
+Ergot compound and brain function: Neuroendocrine and neuropsychiatric aspects, pp.
+125-139, New York, Rave Press.
+
+3 Kopitar, Z., Vrhovac, B., Povsic, L., Plavsic, F., Francetic, I., Urbancic, J. (1991).
+The effect of food and metoclopramide on the pharmacokinetics and side effects of bromocriptine.
+Eur J Drug Metab Pharmacokinet; 16(3):177-81
+
+4 Flogstad, A.K., Halse, J., Grass, P., Abisch, E., Djoseland, O., Kutz, K., Bodd, E., and Jervell, J., (1994).
+A comparison of octreotide, bromocriptine, or a combination of both drugs in acromegaly.
+Journal of Clinical Endocrinology & Metabolism; Vol 79, 461-465
+
+5 Peyronneau MA, Delaforge M, Riviere R et al. 1994.
+High affinity of ergopeptides for CYP P450 3A.
+Importance of their peptide moiety for P450 recognition and hydroxylation of bromocriptine.
+Eur J Biochem 223:947-56.
+
+6 Wynalda, M.A., Wienkers, L.C.
+(1997).
+Assessment of potential interactions between dopamine receptor agonists and various human cytochrome P450 enzymes using a simple in vitro inhibition screen.
+Drug Metab Dispos; 25:1211-14.
+
+Special Populations
+
+Effect of Renal Impairment
+
+The effect of renal function on the pharmacokinetics of bromocriptine has not been evaluated.
+
+Since parent drug and metabolites are almost completely excreted via metabolism, and only 6% eliminated via the kidney, renal impairment may not have a significant impact on the PK of bromocriptine and its metabolites (see PRECAUTIONS, general).
+
+Effect of Liver Impairment
+
+The effect of liver impairment on the PK of Parlodel and its metabolites has not been evaluated.
+Since Parlodel is mainly eliminated by metabolism, liver impairment may increase the plasma levels of bromocriptine, therefore, caution may be necessary (see PRECAUTIONS, general).
+
+The effect of age, race, and gender on the pharmacokinetics of bromocriptine and its metabolites has not been evaluated.

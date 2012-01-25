@@ -6,13 +6,13 @@ Bromocriptine mesylate is chemically designated as Ergotaman-3′,6′,18-trione
 
 The structural formula is:
 
-2½ mg SnapTabs®
+## 2½ mg SnapTabs®
 
 Active Ingredient: bromocriptine mesylate, USP
 
 Inactive Ingredients: colloidal silicon dioxide, lactose, magnesium stearate, povidone, starch, and another ingredient
 
-5 mg Capsules
+## 5 mg Capsules
 
 Active Ingredient: bromocriptine mesylate, USP
 
