@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019977"
+  ],
   "inn": "morphine",
-  "labeler": "Xanodyne pharmaceuticals, inc.",
+  "labeler": "Xanodyne Pharmaceuticals, Inc.",
   "package_ndcs": [
     "66479-540-10",
     "66479-540-25",
@@ -12,7 +14,13 @@
     "66479-543-10",
     "66479-543-25"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "morphine sulfate",
+      "name": "Oramorph SR"
+    }
+  ],
   "setid": "b5cf84ad-1efa-4ea0-9495-1a9e80c069fc",
   "source": "dailymed"
 }
