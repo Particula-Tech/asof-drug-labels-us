@@ -1,10 +1,10 @@
 # CLINICAL PHARMACOLOGY
 
-The principal pharmacological action of isosorbide dinitrate is relaxation of vascular smooth muscle and consequent dilation of peripheral arteries and veins, especially the latter.
-Dilation of the veins promotes peripheral pooling of blood and decreases venous return to the heart, thereby reducing left ventricular end-diastolic pressure and pulmonary capillary wedge pressure (preload).
+The principal pharmacological action of isosorbide dinitrate is relaxation of vascular smooth muscle and consequent dilatation of peripheral arteries and veins, especially the latter.
+Dilatation of the veins promotes peripheral pooling of blood and decreases venous return to the heart, thereby reducing left ventricular end-diastolic pressure and pulmonary capillary wedge pressure (preload).
 Arteriolar relaxation reduces systemic vascular resistance, systolic arterial pressure, and mean arterial pressure (afterload).
-Dilation of the coronary arteries also occurs.
-The relative importance of preload reduction, afterload reduction, and coronary dilation remains undefined.
+Dilatation of the coronary arteries also occurs.
+The relative importance of preload reduction, afterload reduction, and coronary dilatation remains undefined.
 
 Dosing regimens for most chronically used drugs are designed to provide plasma concentrations that are continuously greater than a minimally effective concentration.
 This strategy is inappropriate for organic nitrates.
@@ -19,12 +19,12 @@ Absorption of isosorbide dinitrate after oral dosing is nearly complete, but bio
 Serum levels reach their maxima about an hour after ingestion.
 The average bioavailability of ISDN is about 25%; most studies have observed progressive increases in bioavailability during chronic therapy.
 
-Once absorbed, the distribution volume of isosorbide dinitrate is 2 to 4 L/kg, and this volume is cleared at the rate of 2 to 4 L/min, so ISDN's half-life in serum is about an hour.
+Once absorbed, the volume of distribution of isosorbide dinitrate is 2 to 4 L/kg, and this volume is cleared at the rate of 2 to 4 L/min, so ISDN’s half-life in serum is about an hour.
 Since the clearance exceeds hepatic blood flow, considerable extrahepatic metabolism must also occur.
 Clearance is affected primarily by denitration to the 2-mononitrate (15 to 25%) and the 5-mononitrate (75 to 85%).
 
 Both metabolites have biological activity, especially the 5-mononitrate.
-With an overall half-life of about 5 hours, the 5-mononitrate is cleared from the serum by denitration to isosorbide; glucuronidation to the 5-mononitrate glucuronide; and denitration/hydration to sorbitol.
+With an overall half-life of about 5 hours, the 5-mononitrate is cleared from the serum by denitration to isosorbide, glucuronidation to the 5-mononitrate glucuronide, and denitration/hydration to sorbitol.
 The 2-mononitrate has been less well studied, but it appears to participate in the same metabolic pathways, with a half-life of about 2 hours.
 
 The daily dose-free interval sufficient to avoid tolerance to organic nitrates has not been well defined.
@@ -32,7 +32,7 @@ Studies of nitroglycerin (an organic nitrate with a very short half-life) have s
 Daily dose-free intervals that have succeeded in avoiding tolerance during trials of moderate doses (e.g., 30 mg) of immediate-release ISDN have generally been somewhat longer (at least 14 hours), but this is consistent with the longer half-lives of ISDN and its active metabolites.
 
 Few well-controlled clinical trials of organic nitrates have been designed to detect rebound or withdrawal effects.
-In one such trial, however, subjects receiving nitroglycerin had less exercise tolerance at the end of daily dose-free interval than the parallel group receiving placebo.
+In one such trial, however, subjects receiving nitroglycerin had less exercise tolerance at the end of the daily dose-free interval than the parallel group receiving placebo.
 The incidence, magnitude, and clinical significance of similar phenomena in patients receiving ISDN have not been studied.
 
 ## Clinical Trials
@@ -46,5 +46,5 @@ Once-daily regimens, and regimens with one daily dose-free interval of at least 
 The effects of the second and later doses have been smaller and shorter-lasting than the effect of the first.
 
 From large, well-controlled studies of other nitrates, it is reasonable to believe that the maximal achievable daily duration of anti-anginal effect from isosorbide dinitrate is about 12 hours.
-No dosing regimen for isosorbide dinitrate has, however, ever actually been shown to achieve this duration of effect.
-One study of 8 patients administered a pretitrated dose (average 27.5 mg) of immediate-release ISDN at 0800, 1300, and 1800 hours for 2 weeks revealed that significant anti-anginal effectiveness was discontinuous and totaled about 6 hours in a 24 hour period.
+No dosing regimen for isosorbide dinitrate, however, has ever actually been shown to achieve this duration of effect.
+One study of 8 patients, who were administered a pretitrated dose (average 27.5 mg) of immediate-release ISDN at 0800, 1300, and 1800 hours for 2 weeks, revealed that significant anti-anginal effectiveness was discontinuous and totaled about 6 hours in a 24 hour period.

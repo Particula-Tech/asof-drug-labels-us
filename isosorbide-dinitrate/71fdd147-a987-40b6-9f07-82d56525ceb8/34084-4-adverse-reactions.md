@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Adverse reactions to isosorbide dinitrate are generally dose-related, and almost all of these reactions are the result of isosorbide dinitrate's activity as a vasodilator.
+Adverse reactions to isosorbide dinitrate are generally dose-related, and almost all of these reactions are the result of isosorbide dinitrate’s activity as a vasodilator.
 Headache, which may be severe, is the most commonly reported side effect.
 Headache may be recurrent with each daily dose, especially at higher doses.
 Transient episodes of lightheadedness, occasionally related to blood pressure changes, may also occur.

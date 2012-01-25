@@ -1,6 +1,7 @@
-Rx only
+12-2007M
 
-Rev.
-04-2004M 7185
+7185
 
-Manufactured by Sandoz Inc. Broomfield, CO 80020
+Sandoz Inc.
+
+Princeton, NJ 08540

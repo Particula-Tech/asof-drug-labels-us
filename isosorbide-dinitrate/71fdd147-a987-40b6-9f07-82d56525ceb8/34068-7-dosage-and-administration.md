@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-As noted under CLINICAL PHARMACOLOGY, multiple studies with ISDN and other nitrates have shown that maintenance of continuous 24-hour plasma levels results in refractory tolerance.
+As noted under CLINICAL PHARMACOLOGY, multiple-dose studies with ISDN and other nitrates have shown that maintenance of continuous 24-hour plasma levels results in refractory tolerance.
 Every dosing regimen for isosorbide dinitrate tablets must provide a daily dose-free interval to minimize the development of this tolerance.
 With immediate-release ISDN, it appears that one daily dose-free interval must be at least 14 hours long.
 
@@ -12,5 +12,5 @@ As with all titratable drugs, it is important to administer the minimum dose whi
 The usual starting dose of isosorbide dinitrate is 5 mg to 20 mg, two or three times daily.
 For maintenance therapy, 10 mg to 40 mg, two or three times daily is recommended.
 Some patients may require higher doses.
-A daily dose-free interval of at least 14 hour is advisable to minimize tolerance.
+A daily dose-free interval of at least 14 hours is advisable to minimize tolerance.
 The optimal interval will vary with the individual patient, dose and regimen.

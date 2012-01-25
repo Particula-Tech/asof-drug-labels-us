@@ -33,7 +33,7 @@ Patients should be told that the anti-anginal efficacy of isosorbide dinitrate i
 In particular, daily headaches sometimes accompany treatment with isosorbide dinitrate.
 In patients who get these headaches, the headaches are a marker of the activity of the drug.
 Patients should resist the temptation to avoid headaches by altering the schedule of their treatment with isosorbide dinitrate, since loss of headache may be associated with simultaneous loss of anti-anginal efficacy.
-Aspirin and/or acetaminophen, on the other hand, often successfully relieve isosorbide dinitrate-induced headaches with no deleterious effect on isosorbide dinitrate's anti-anginal efficacy.
+Aspirin and/or acetaminophen, on the other hand, often successfully relieve isosorbide dinitrate-induced headaches with no deleterious effect on isosorbide dinitrate’s anti-anginal efficacy.
 
 Treatment with isosorbide dinitrate may be associated with lightheadedness on standing, especially just after rising from a recumbent or seated position.
 This effect may be more frequent in patients who have also consumed alcohol.
@@ -48,7 +48,9 @@ Alcohol, in particular, has been found to exhibit additive effects of this varie
 No long-term studies in animals have been performed to evaluate the carcinogenic potential of isosorbide dinitrate.
 In a modified two-litter reproduction study there was no remarkable gross pathology and no altered fertility or gestation among rats fed isosorbide dinitrate at 25 or 100 mg/kg/day.
 
-## Pregnancy Category C
+## Pregnancy
+
+### Pregnancy Category C
 
 At oral doses 35 and 150 times the maximum recommended human daily dose, isosorbide dinitrate has been shown to cause a dose-related increase in embryotoxicity (increase in mummified pups) in rabbits.
 There are no adequate, well-controlled studies in pregnant women.
@@ -61,4 +63,10 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## Pediatric Use
 
-The safety and effectiveness in pediatric patients have not been established.
+Safety and effectiveness in pediatric patients have not been established.
+
+## Geriatric Use
+
+Clinical studies of isosorbide dinitrate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
