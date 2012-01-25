@@ -2,17 +2,10 @@
 
 Heparin is not intended for intramuscular use.
 
-Do not use Heparin Sodium in 5% Dextrose Injection as a "catheter lock flush" product.
-
-## Fatal Medication Errors
-
-Heparin is supplied in a wide range of strengths.
-Fatal hemorrhages have occurred in infants and pediatric patients due to medication errors in which 1 mL Heparin Sodium Injection vials were confused with 1 mL "catheter lock flush" vials.
-Carefully examine all heparin products to ensure that the proper strength is selected for administration.
-
 ## Hypersensitivity
 
 Patients with documented hypersensitivity to heparin should be given the drug only in clearly life-threatening situations.
+(See ADVERSE REACTIONS, Hypersensitivity.)
 
 ## Hemorrhage
 
@@ -44,21 +37,31 @@ Thrombocytopenia has been reported to occur in patients receiving heparin with a
 Platelet counts should be obtained at baseline and periodically during heparin administration.
 Mild thrombocytopenia (count greater than 100,000/mm3) may remain stable or reverse even if heparin is continued.
 However, thrombocytopenia of any degree should be monitored closely.
-If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see WARNINGS, Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis), the heparin product should be discontinued, and, if necessary, an alternative anticoagulant administered.
+If the count falls below 100,000/mm3 or if recurrent thrombosis develops (seeHeparin-induced Thrombocytopenia (HIT) With or Without Thrombosis), the heparin product should be discontinued, and, if necessary, an alternative anticoagulant administered.
 
-## Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT)
+## Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis)
 
-Heparin-induced Thrombocytopenia (HIT) is a serious antibody-mediated reaction resulting from irreversible aggregation of platelets.
-HIT may progress to the development of venous and arterial thromboses, a condition referred to as Heparin-induced Thrombocytopenia and Thrombosis (HITT).
-Thrombotic events may also be the initial presentation for HITT.
-These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and possibly death.
+HIT is a serious immune-mediated reaction resulting from irreversible aggregation of platelets.
+HIT may progress to the development of venous and arterial thromboses, a condition referred to as HIT with thrombosis.
+Thrombotic events may also be the initial presentation for HIT.
+These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and fatal outcomes.
+
+Once HIT (with or without thrombosis) is diagnosed or strongly suspected, all heparin sodium sources (including heparin flushes) should be discontinued and an alternative anticoagulant used.
+Future use of heparin sodium, especially within 3 to 6 months following the diagnosis of HIT (with or without thrombosis), and while patients test positive for HIT antibodies, should be avoided.
+
+Immune-mediated HIT is diagnosed based on clinical findings supplemented by laboratory tests confirming the presence of antibodies to heparin sodium, or platelet activation induced by heparin sodium.
+A drop in platelet count greater than 50% from baseline is considered indicative of HIT.
+Platelet counts begin to fall 5 to 10 days after exposure to heparin sodium in heparin sodium-naïve individuals, and reach a threshold by days 7 to 14.
+In contrast, “rapid onset” HIT can occur very quickly (within 24 hours following heparin sodium initiation), especially in patients with a recent exposure to heparin sodium (i.e. previous 3 months).
+Thrombosis development shortly after documenting thrombocytopenia is a characteristic finding in almost half of all patients with HIT.
+
 Thrombocytopenia of any degree should be monitored closely.
 If the platelet count falls below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be promptly discontinued and alternative anticoagulants considered if patients require continued anticoagulation.
 
-## Delayed Onset of HIT and HITT
+## Delayed Onset of HIT (With or Without Thrombosis)
 
-Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis can occur up to several weeks after the discontinuation of heparin therapy.
-Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT and HITT.
+Heparin-induced Thrombocytopenia (with or without thrombosis) can occur up to several weeks after the discontinuation of heparin therapy.
+Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT (with or without thrombosis).
 
 This product contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
@@ -74,17 +77,11 @@ Excessive administration of potassium-free solutions may result in significant h
 
 Because dosages of this drug are titrated to response (see DOSAGE AND ADMINISTRATION), no additives should be made to Heparin Sodium in 5% Dextrose Injection.
 
-## Use in Neonates
-
-Carefully examine all heparin drug product containers to confirm choice of the correct strength prior to administration of the drug.
-Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection vials have been confused with "catheter lock flush" vials.
-(See WARNINGS, Fatal Medication Errors.)
-
 # PRECAUTIONS
 
 ## General
 
-1. Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT): (See WARNINGS.)
+1. Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis) and Delayed Onset of HIT (With or Without Thrombosis): (See WARNINGS.)
 2. Heparin Resistance: Increased resistance to heparin is frequently encountered in fever, thrombosis, thrombophlebitis, infections with thrombosing tendencies, myocardial infarction, cancer and in postsurgical patients.
 3. Increased Risk to Older Patients, Especially Women: A higher incidence of bleeding has been reported in patients, particularly women, over 60 years of age.
 
@@ -119,6 +116,8 @@ Drugs such as acetylsalicylic acid, dextran, phenylbutazone, ibuprofen, indometh
 ### Other Interactions
 
 Digitalis, tetracyclines, nicotine, antihistamines, or IV nitroglycerine may partially counteract the anticoagulant action of heparin sodium.
+Intravenous nitroglycerin administered to heparinized patients may result in a decrease of the partial thromboplastin time with subsequent rebound effect upon discontinuation of nitroglycerin.
+Careful monitoring of partial thromboplastin time and adjustment of heparin dosage are recommended during coadministration of heparin and intravenous nitroglycerin.
 
 ## Drug/Laboratory Tests Interactions
 
@@ -133,25 +132,27 @@ Long term studies in animals to evaluate the carcinogenic potential, reproductio
 
 ## Pregnancy
 
-### Teratogenic Effects
+### Pregnancy Category C
 
-#### Pregnancy Category C
+There are no adequate and well-controlled studies on heparin use in pregnant women.
+In published reports, heparin exposure during pregnancy did not show evidence of an increased risk of adverse maternal or fetal outcomes in humans.
+Heparin sodium does not cross the placenta, based on human and animal studies.
+Administration of heparin to pregnant animals at doses higher than the maximum human daily dose based on body weight resulted in increased resorptions.
+Use heparin sodium during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Animal reproduction studies have not been conducted with Heparin Sodium in 5% Dextrose Injection.
-It is also not known whether Heparin Sodium in 5% Dextrose Injection can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-Heparin Sodium in 5% Dextrose Injection should be given to a pregnant woman only if clearly needed.
-
-### Nonteratogenic Effects
-
-Heparin does not cross the placental barrier.
+In a published study conducted in rats and rabbits, pregnant animals received heparin intravenously during organogenesis at a dose of 10,000 units/kg/day, approximately 10 times the maximum human daily dose based on body weight.
+The number of early resorptions increased in both species.
+There was no evidence of teratogenic effects.
 
 ## Nursing Mothers
 
-Heparin is not excreted in human milk.
+Due to its large molecular weight, heparin is not likely to be excreted in human milk, and any heparin in milk would not be orally absorbed by a nursing infant.
+Exercise caution when administering Heparin Sodium to a nursing mother.
 
 ## Pediatric Use
 
-See DOSAGE AND ADMINISTRATION.
+There are no adequate and well controlled studies on heparin use in pediatric patients.
+Pediatric dosing recommendations are based on clinical experience (see DOSAGE AND ADMINISTRATION, Pediatric Use).
 
 ## Geriatric Use
 

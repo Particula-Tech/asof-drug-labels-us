@@ -9,6 +9,7 @@ Although others may be present, the main sugars occurring in heparin are: (1) al
 These sugars are present in decreasing amounts, usually in the order (2) > (1) > (4) > (3) > (5), and are joined by glycosidic linkages, forming polymers of varying sizes.
 Heparin is strongly acidic because of its content of covalently linked sulfate and carboxylic acid groups.
 In heparin sodium, the acidic protons of the sulfate units are partially replaced by sodium ions.
+
 (See chart below for quantitative information.)
 
 | Structure of Heparin Sodium (representative subunits): | Structure of Hydrous Dextrose USP: |

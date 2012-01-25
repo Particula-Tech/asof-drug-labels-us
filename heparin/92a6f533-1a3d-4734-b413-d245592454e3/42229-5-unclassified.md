@@ -2,7 +2,7 @@ Do not admix with other drugs.
 
 Rx only
 
-Revised: September 2010
+Revised: September 2011
 
 EXCEL is a registered trademark of B. Braun Medical Inc.
 
@@ -30,9 +30,9 @@ If leaks are found, discard solution as sterility may be impaired.
 2. Attach administration set.
    Refer to complete directions accompanying set.
 
-B. Braun Medical Inc. Irvine, CA 92614-5895 USA Made in USA
+B. Braun Medical Inc. Irvine, CA 92614-5895 USA 1-800-227-2862 www.bbraun.com Made in USA
 
-Y36-002-762 LD-239-1
+Y36-002-774 LD-239-2
 
 # PRINCIPAL DISPLAY PANEL - 250 mL Container Label
 
