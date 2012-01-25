@@ -5,9 +5,6 @@ Heparin Sodium is not effective by oral administration and Heparin Sodium in 0.9
 This product should be administered by intravenous infusion.
 Do not use Heparin Sodium in 0.9% Sodium Chloride Injection as a "catheter lock flush" product.
 
-Confirm the choice of the correct heparin drug product and strength prior to administration of the drug to the patient (see WARNINGS, Fatal Medication Errors).
-Heparin sodium injection products must not be confused with "catheter lock flush" products.
-
 This product should not be infused under pressure.
 
 Note: Small doses of heparin can alter tests for activated partial thromboplastin time (APTT).

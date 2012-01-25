@@ -2,17 +2,10 @@
 
 Heparin is not intended for intramuscular use.
 
-Do not use Heparin Sodium in 0.9% Sodium Chloride Injection as a “catheter lock flush” product.
-
-## Fatal Medication Errors
-
-Heparin is supplied in a wide range of strengths.
-Fatal hemorrhages have occurred in infants and pediatric patients due to medication errors in which 1 mL Heparin Sodium Injection vials were confused with 1 mL "catheter lock flush" vials.
-Carefully examine all heparin products to ensure that the proper strength is selected for administration.
-
 ## Hypersensitivity
 
 Patients with documented hypersensitivity to heparin should be given the drug only in clearly life-threatening situations.
+(See ADVERSE REACTIONS, Hypersensitivity.)
 
 ## Hemorrhage
 
@@ -44,21 +37,31 @@ Thrombocytopenia has been reported to occur in patients receiving heparin with a
 Platelet counts should be obtained at baseline and periodically during heparin administration.
 Mild thrombocytopenia (count greater than 100,000/mm3) may remain stable or reverse even if heparin is continued.
 However, thrombocytopenia of any degree should be monitored closely.
-If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see WARNINGS, Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis), the heparin product should be discontinued, and, if necessary, an alternative anticoagulant administered.
+If the count falls below 100,000/mm3 or if recurrent thrombosis develops (see Heparin-induced Thrombocytopenia (HIT) With or Without Thrombosis), the heparin product should be discontinued, and, if necessary, an alternative anticoagulant administered.
 
-## Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT)
+## Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis)
 
-Heparin-induced Thrombocytopenia (HIT) is a serious antibody-mediated reaction resulting from irreversible aggregation of platelets.
-HIT may progress to the development of venous and arterial thromboses, a condition referred to as Heparin-induced Thrombocytopenia and Thrombosis (HITT).
-Thrombotic events may also be the initial presentation for HITT.
-These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and possibly death.
+HIT is a serious immune-mediated reaction resulting from irreversible aggregation of platelets.
+HIT may progress to the development of venous and arterial thromboses, a condition referred to as HIT with thrombosis.
+Thrombotic events may also be the initial presentation for HIT.
+These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and fatal outcomes.
+
+Once HIT (with or without thrombosis) is diagnosed or strongly suspected, all heparin sodium sources (including heparin flushes) should be discontinued and an alternative anticoagulant used.
+Future use of heparin sodium, especially within 3 to 6 months following the diagnosis of HIT (with or without thrombosis), and while patients test positive for HIT antibodies, should be avoided.
+
+Immune-mediated HIT is diagnosed based on clinical findings supplemented by laboratory tests confirming the presence of antibodies to heparin sodium, or platelet activation induced by heparin sodium.
+A drop in platelet count greater than 50% from baseline is considered indicative of HIT.
+Platelet counts begin to fall 5 to 10 days after exposure to heparin sodium in heparin sodium-naïve individuals, and reach a threshold by days 7 to 14.
+In contrast, “rapid onset” HIT can occur very quickly (within 24 hours following heparin sodium initiation), especially in patients with a recent exposure to heparin sodium (i.e. previous 3 months).
+Thrombosis development shortly after documenting thrombocytopenia is a characteristic finding in almost half of all patients with HIT.
+
 Thrombocytopenia of any degree should be monitored closely.
 If the platelet count falls below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be promptly discontinued and alternative anticoagulants considered if patients require continued anticoagulation.
 
-## Delayed Onset of HIT and HITT
+## Delayed Onset of HIT (With or Without Thrombosis)
 
-Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis can occur up to several weeks after the discontinuation of heparin therapy.
-Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT and HITT.
+Heparin-induced Thrombocytopenia (with or without thrombosis) can occur up to several weeks after the discontinuation of heparin therapy.
+Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT (with or without thrombosis).
 
 The administration of intravenous solutions can cause fluid and/or solute overload resulting in dilution of serum electrolyte concentrations, overhydration, congested states or pulmonary edema.
 The risk of dilutional states is inversely proportional to the electrolyte concentration.
@@ -71,17 +74,11 @@ Excessive administration of potassium-free solutions may result in significant h
 
 Because dosages of this drug are titrated to response (see DOSAGE AND ADMINISTRATION), no additives should be made to Heparin Sodium in 0.9% Sodium Chloride Injection.
 
-## Use in Neonates
-
-Carefully examine all heparin drug product containers to confirm choice of the correct strength prior to administration of the drug.
-Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection vials have been confused with "catheter lock flush" vials.
-(See WARNINGS, Fatal Medication Errors.)
-
 # PRECAUTIONS
 
 ## General
 
-1. Heparin-induced Thrombocytopenia (HIT) and Heparin-induced Thrombocytopenia and Thrombosis (HITT): (See WARNINGS).
+1. Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis) and Delayed Onset of HIT (With or Without Thrombosis): (See WARNINGS).
 2. Heparin Resistance: Increased resistance to heparin is frequently encountered in fever, thrombosis, thrombophlebitis, infections with thrombosing tendencies, myocardial infarction, cancer and in postsurgical patients.
 3. Increased Risk to Older Patients, Especially Women: A higher incidence of bleeding has been reported in patients, particularly women, over 60 years of age.
 

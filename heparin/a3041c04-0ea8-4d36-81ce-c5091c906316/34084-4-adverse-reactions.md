@@ -14,7 +14,7 @@ Bleeding can occur at any site but certain specific hemorrhagic complications ma
    This complication if unrecognized may be fatal.
 3. Retroperitoneal hemorrhage.
 
-## Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT), Heparin-induced Thrombocytopenia and Thrombosis (HITT) and Delayed Onset of HIT and HITT
+## Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis) and Delayed Onset of HIT (With or Without Thrombosis):
 
 (See WARNINGS.)
 
