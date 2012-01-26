@@ -63,13 +63,13 @@ Lansoprazole may affect how other medicines work, and other medicines may affect
 
 Especially tell your doctor if you take:
 
-- ampicillin sodium (Unasyn) or ampicillin trihydrate (Principen)
-- atazanavir (Reyataz)
-- digoxin (Lanoxin)
+- ampicillin sodium (Unasyn®) or ampicillin trihydrate (Principen)
+- atazanavir (Reyataz®)
+- digoxin (Lanoxin®)
 - a product that contains iron
-- ketoconazole (Nizoral)
-- warfarin (Coumadin, Jantoven)
-- tacrolimus (Prograf)
+- ketoconazole (Nizoral®)
+- warfarin (Coumadin®, Jantoven®)
+- tacrolimus (Prograf®)
 - theophylline (Theo-24, Elixophyllin, Theochron, Theolair)
 
 Ask your doctor or pharmacist if you are not sure if your medicine is listed above.
@@ -201,8 +201,10 @@ Lansoprazole delayed-release capsules should not be used in foods or liquids not
 
 All trademark names are the property of their respective owners.
 
-Manufactured in India by: Matrix Laboratories Limited Secunderabad — 500 003, India Code No. MH/DRUGS/25/NKD/89
+Manufactured in India by: Mylan Laboratories Limited Hyderabad—500 034, India
+
+Code No. MH/DRUGS/25/NKD/89
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED JUNE 2011 MX:LANS:R5ppt
+REVISED JANUARY 2012 MX:LANS:R6ppt

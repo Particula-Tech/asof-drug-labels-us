@@ -33,7 +33,7 @@ After 8 to 12 weeks of lansoprazole treatment, the intent-to-treat analysis demo
 Twenty-one of 27 erosive esophagitis patients were healed at 8 weeks and 100% of patients were healed at 12 weeks by endoscopy (Table 2).
 
 Table 2.
-GERD Symptom Improvement and Erosive Esophagitis Healing Ratesin Pediatric Patients Age 1 to 11
+GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Patients Age 1 to 11
 
 | GERD | Final VisitAt Week 8 or Week 12 % (n/N) |
 | --- | --- |
@@ -63,7 +63,7 @@ Twenty-one of 22 (95.5%) adolescent erosive esophagitis patients were healed aft
 One patient remained unhealed after 12 weeks of treatment (Table 3).
 
 Table 3.
-GERD Symptom Improvement and Erosive Esophagitis Healing Ratesin Pediatric Patients Age 12 to 17
+GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Patients Age 12 to 17
 
 | GERD | Final Visit % (n/N) |
 | --- | --- |
@@ -88,26 +88,26 @@ Treatment-related dizziness, reported in this package insert as occurring in les
 
 No dosage adjustment of lansoprazole is necessary in geriatric patients.
 The incidence rates of lansoprazole-associated adverse reactions and laboratory test abnormalities are similar to those seen in younger patients.
-[See Clinical Pharmacology (12.4).]
+[See Clinical Pharmacology (12.3).]
 
 ## 8.6 Renal Impairment
 
 No dosage adjustment of lansoprazole is necessary in patients with renal impairment.
 The pharmacokinetics of lansoprazole in patients with various degrees of renal impairment were not substantially different compared to those in subjects with normal renal function.
-[See Clinical Pharmacology (12.4).]
+[See Clinical Pharmacology (12.3).]
 
 ## 8.7 Hepatic Impairment
 
 In patients with various degrees of chronic hepatic impairment, an increase in the mean AUC of up to 500% was observed at steady-state compared to healthy subjects.
 Consider dose reduction in patients with severe hepatic impairment.
-[See Clinical Pharmacology (12.4).]
+[See Clinical Pharmacology (12.3).]
 
 ## 8.8 Gender
 
 Over 4,000 women were treated with lansoprazole.
 Ulcer healing rates in females were similar to those in males.
 The incidence rates of adverse reactions in females were similar to those seen in males.
-[See Clinical Pharmacology (12.4).]
+[See Clinical Pharmacology (12.3).]
 
 ## 8.9 Race
 
