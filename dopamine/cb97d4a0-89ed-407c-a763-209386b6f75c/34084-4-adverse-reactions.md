@@ -4,7 +4,9 @@ The following adverse reactions have been observed, but there are not enough dat
 
 ## Cardiovascular System
 
-ventricular arrhythmia (at very high doses)
+ventricular arrhythmia
+
+atrial fibrillation
 
 ectopic beats
 

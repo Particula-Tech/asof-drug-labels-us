@@ -4,7 +4,13 @@
   ],
   "inn": "dopamine",
   "labeler": "Baxter Healthcare Corporation",
-  "package_ndcs": [],
+  "package_ndcs": [
+    "0338-1005-02",
+    "0338-1005-03",
+    "0338-1007-02",
+    "0338-1007-03",
+    "0338-1009-02"
+  ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
