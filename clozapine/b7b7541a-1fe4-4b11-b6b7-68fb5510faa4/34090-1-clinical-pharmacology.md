@@ -2,36 +2,36 @@
 
 ## Pharmacodynamics
 
-FazaClo (clozapine, USP) is classified as an “atypical” antipsychotic drug because its profile of binding to dopamine receptors and its effects on various dopamine mediated behaviors differ from those exhibited by more typical antipsychotic drug products.
-In particular, although FazaClo (clozapine, USP) does interfere with the binding of dopamine at D1, D2, D3, and D5 receptors, and has a high affinity for the D4 receptor, it does not induce catalepsy nor inhibit apomorphine-induced stereotypy.
-This evidence, consistent with the view that FazaClo (clozapine, USP) is preferentially more active at limbic than at striatal dopamine receptors, may explain the relative freedom of FazaClo (clozapine, USP) from extrapyramidal side effects.
+FazaClo® (clozapine, USP) is classified as an “atypical” antipsychotic drug because its profile of binding to dopamine receptors and its effects on various dopamine mediated behaviors differ from those exhibited by more typical antipsychotic drug products.
+In particular, although FazaClo® (clozapine, USP) does interfere with the binding of dopamine at D1, D2, D3, and D5 receptors, and has a high affinity for the D4 receptor, it does not induce catalepsy nor inhibit apomorphine-induced stereotypy.
+This evidence, consistent with the view that FazaClo® (clozapine, USP) is preferentially more active at limbic than at striatal dopamine receptors, may explain the relative freedom of FazaClo® (clozapine, USP) from extrapyramidal side effects.
 
-FazaClo (clozapine, USP) also acts as an antagonist at adrenergic, cholinergic, histaminergic, and serotonergic receptors.
+FazaClo® (clozapine, USP) also acts as an antagonist at adrenergic, cholinergic, histaminergic, and serotonergic receptors.
 
 ## Absorption, Distribution, Metabolism, and Excretion
 
 In man, clozapine tablets (25 and 100 mg) are equally bioavailable relative to a clozapine solution.
-FazaClo (clozapine, USP) orally disintegrating tablets are bioequivalent to Clozaril® (clozapine) tablets, a registered trademark of Novartis Pharmaceuticals Corporation.
+FazaClo® (clozapine, USP) orally disintegrating tablets are bioequivalent to Clozaril® (clozapine) tablets, a registered trademark of Novartis Pharmaceuticals Corporation.
 Following a dosage of 100 mg b.i.d., the average steady-state peak plasma concentration was 413 ng/mL (range: 132-854 ng/mL), occurring at the average of 2.3 hours (range: 1-6 hours) after dosing.
 The average minimum concentration at steady state was 168 ng/mL (range: 45-574 ng/mL), after 100 mg b.i.d. dosing.
 
-A comparative bioequivalence/bioavailability study was conducted in 32 patients (with schizophrenia or schizoaffective disorder) comparing FazaClo 200 mg tablets to 2 × FazaClo 100 mg tablets (the approved reference product) under fasted conditions.
+A comparative bioequivalence/bioavailability study was conducted in 32 patients (with schizophrenia or schizoaffective disorder) comparing FazaClo® 200 mg tablets to 2 × FazaClo® 100 mg tablets (the approved reference product) under fasted conditions.
 The study also evaluated the effect of food and chewing on the pharmacokinetics of the 200 mg tablet.
 Under fasted conditions, the mean AUCss and Cmin,ss of clozapine for the 200 mg tablets were equivalent to those of the 2 x 100 mg tablets.
-The mean Cmax,ss of clozapine for FazaClo 200 mg tablets was 85% that for 2 x 100 mg FazaClo tablets.
-This decrease in Cmax,ss for FazaClo 200 mg tablets is not clinically significant.
+The mean Cmax,ss of clozapine for FazaClo® 200 mg tablets was 85% that for 2 x 100 mg FazaClo® tablets.
+This decrease in Cmax,ss for FazaClo® 200 mg tablets is not clinically significant.
 
-For FazaClo 200 mg tablets, food significantly increased the Cmin,ss of clozapine by 21%.
+For FazaClo® 200 mg tablets, food significantly increased the Cmin,ss of clozapine by 21%.
 However, this increase is not clinically significant.
-The mean AUCss and Cmax,ss of clozapin e under fed conditions were equivalent to those under fasted conditions.
+The mean AUCss and Cmax,ss of clozapine under fed conditions were equivalent to those under fasted conditions.
 Food delayed clozapine absorption by 1.5 hours, from a median Tmax of 2.5 hours under fasted conditions to 4 hours under fed conditions.
 
-The mean Cmax,ss of clozapine under chewed conditions for FazaClo 200 mg tablets was about 86% that for 2 x 100 mg FazaClo tablets under non-chewed conditions, while the AUCss and Cmin,ss values were similar between the chewed and non-chewed conditions.
+The mean Cmax,ss of clozapine under chewed conditions for FazaClo® 200 mg tablets was about 86% that for 2 x 100 mg FazaClo® tablets under non-chewed conditions, while the AUCss and Cmin,ss values were similar between the chewed and non-chewed conditions.
 
-In a food-effect study, a single dose of FazaClo (clozapine, USP) orally disintegrating tablets 12.5 mg was administered to healthy volunteers under fasting conditions and after a high-fat meal.
-When FazaClo was administered after a high fat meal, the Cmax of both clozapine and its active metabolite, desmethylclozapine, were decreased by approximately 20%, compared to administration under fasting conditions, while the AUC values were unchanged.
+In a food-effect study, a single dose of FazaClo® (clozapine, USP) orally disintegrating tablets 12.5 mg was administered to healthy volunteers under fasting conditions and after a high-fat meal.
+When FazaClo® was administered after a high fat meal, the Cmax of both clozapine and its active metabolite, desmethylclozapine, were decreased by approximately 20%, compared to administration under fasting conditions, while the AUC values were unchanged.
 This decrease in Cmax is not clinically significant.
-Therefore, FazaClo (clozapine, USP) orally disintegrating tablets can be taken without regard to meals.
+Therefore, FazaClo® (clozapine, USP) orally disintegrating tablets can be taken without regard to meals.
 
 Clozapine is approximately 97% bound to serum proteins.
 The interaction between clozapine and other highly protein-bound drugs has not been fully evaluated but may be important.
@@ -85,4 +85,4 @@ Most patients were Caucasian (71%), 15% were Black, 1% were Asian, and 13% were 
 Data from this study indicate that clozapine had a statistically significant longer delay in the time to recurrent suicidal behavior in comparison with olanzapine.
 This result should be interpreted only as evidence of the effectiveness of clozapine in delaying time to recurrent suicidal behavior and not a demonstration of the superior efficacy of clozapine over olanzapine.
 
-The probability of experiencing (1) a significant suicide attempt, including a completed suicide, or (2) hospitalization due to imminent suicide risk, including increased level of surveillance for suicidality for patients already hospitalized, was lower for clozapine patients than for olanzapine patients at Week 104: clozapine 24% versus olanzapine 32%; 95% CI of the difference: 2%, 14% (Figure 1).
+The probability of experiencing (1) a significant suicide attempt, including a completed suicide, or (2) hospitalization due to imminent suicide risk, including increased level of surveillance for suicidality for patients already hospitalized, was lower for clozapine patients than for olanzapine patients at Week 104: clozapine 24% versus olanzapine 32%; 95% CI (Confidence Interval) of the difference: 2%, 14% (Figure 1).

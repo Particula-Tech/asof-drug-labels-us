@@ -1,11 +1,11 @@
 # DESCRIPTION
 
-FazaClo (clozapine, USP), an atypical antipsychotic drug, is a tricyclic dibenzodiazepine derivative, 8-chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo[b,e][1,4]diazepine.
+FazaClo® (clozapine, USP), an atypical antipsychotic drug, is a tricyclic dibenzodiazepine derivative, 8-chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo[b,e][1,4]diazepine.
 
 The structural formula is:
 
-FazaClo (clozapine, USP) is available as yellow, orally disintegrating tablets of 12.5, 25, 100, 150, and 200 mg for oral administration without water.
-FazaClo tablets may be chewed.
+FazaClo® (clozapine, USP) is available as yellow, orally disintegrating tablets of 12.5, 25, 100, 150, and 200 mg for oral administration without water.
+FazaClo® tablets may be chewed.
 
 Each orally disintegrating tablet contains clozapine equivalent to 12.5, 25, 100, 150, or 200 mg.
 

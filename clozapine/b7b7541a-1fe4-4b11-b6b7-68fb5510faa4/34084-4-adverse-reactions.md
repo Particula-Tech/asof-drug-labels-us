@@ -119,6 +119,8 @@ Delirium, EEG abnormal, exacerbation of psychosis, myoclonus, overdose, paresthe
 
 Atrial or ventricular fibrillation and periorbital edema
 
+Ventricular tachycardia, cardiac arrest, QT prolongation, and Torsades de Pointes.
+
 ### Gastrointestinal System
 
 Acute pancreatitis, dysphagia, fecal impaction, intestinal obstruction/paralytic ileus, and salivary gland swelling

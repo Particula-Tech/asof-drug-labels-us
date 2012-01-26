@@ -2,7 +2,7 @@
 
 NDC No. 18860-101-10
 
-FazaClo
+FazaClo®
 
 (clozapine, USP)
 
@@ -36,7 +36,7 @@ Sep 2010, FZCLtb-10-12a 00017196
 
 NDC No. 18860-102-10
 
-FazaClo
+FazaClo®
 
 (clozapine, USP)
 
@@ -70,7 +70,7 @@ Sep 2010, FZCLtb-10-22a 00017199
 
 NDC No. 18860-104-10
 
-FazaClo
+FazaClo®
 
 (clozapine, USP)
 
@@ -104,7 +104,7 @@ Sep 2010, FZCLtb-10-32a 00017195
 
 NDC No. 18860-105-10
 
-FazaClo
+FazaClo®
 
 (clozapine, USP)
 
@@ -138,7 +138,7 @@ Sep 2010, FZCLtb-10-42a 00017197
 
 NDC No. 18860-106-10
 
-FazaClo
+FazaClo®
 
 (clozapine, USP)
 
