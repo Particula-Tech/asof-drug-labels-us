@@ -2,11 +2,13 @@
 
 ## DOSAGE AND ADMINISTRATION - ADULTS
 
-Ciprofloxacin Tablets should be administered orally to adults as described in the Dosage Guidelines table.
+Ciprofloxacin tablets should be administered orally to adults as described in the Dosage Guidelines table.
+
 The determination of dosage for any particular patient must take into consideration the severity and nature of the infection, the susceptibility of the causative organism, the integrity of the patient’s host-defense mechanisms, and the status of renal function and hepatic function.
+
 The duration of treatment depends upon the severity of infection.
 The usual duration is 7 to 14 days; however, for severe and complicated infections more prolonged therapy may be required.
-Ciprofloxacin should be administered at least 2 hours before or 6 hours after magnesium/aluminum antacids, or sucralfate, Videx ® (didanosine) chewable/buffered tablets or pediatric powder for oral solution, other highly buffered drugs, or other products containing calcium, iron or zinc.
+Ciprofloxacin should be administered at least 2 hours before or 6 hours after magnesium/aluminum antacids, polymeric phosphate binders (for example, sevelamer, lanthanum carbonate) or sucralfate, Videx® (didanosine) chewable/buffered tablets or pediatric powder for oral solution, other highly buffered drugs, or other products containing calcium, iron or zinc.
 
 | Infection | Severity | Dose | Frequency | Usual Durations† |
 | --- | --- | --- | --- | --- |
@@ -30,7 +32,7 @@ Ciprofloxacin should be administered at least 2 hours before or 6 hours after ma
 
 * used in conjunction with metronidazole †Generally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure). ** Drug administration should begin as soon as possible after suspected or confirmed exposure.
 This indication is based on a surrogate endpoint, ciprofloxacin serum concentrations achieved in humans, reasonably likely to predict clinical benefit.4 For a discussion of ciprofloxacin serum concentrations in various human populations, see INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION.
-Conversion of I.V. to Oral Dosing in Adults Patients whose therapy is started with ciprofloxacin I.V. may be switched to Ciprofloxacin Tablets when clinically indicated at the discretion of the physician (See CLINICAL PHARMACOLOGY and table below for the equivalent dosing regimens).
+Conversion of I.V. to Oral Dosing in Adults Patients whose therapy is started with ciprofloxacin IV may be switched to ciprofloxacin tablets when clinically indicated at the discretion of the physician (See CLINICAL PHARMACOLOGY and table below for the equivalent dosing regimens).
 
 Equivalent AUC Dosing Regimens
 
@@ -62,10 +64,10 @@ Patients should be carefully monitored.
 
 ## DOSAGE AND ADMINISTRATION - PEDIATRICS
 
-Ciprofloxacin Tablets should be administered orally as described in the Dosage Guidelines table.
+Ciprofloxacin tablets should be administered orally as described in the Dosage Guidelines table.
 An increased incidence of adverse events compared to controls, including events related to joints and/or surrounding tissues, has been observed.
 (See ADVERSE REACTIONS and CLINICAL STUDIES .)
-Dosing and initial route of therapy (i.e., I.V. or oral) for complicated urinary tract infection or pyelonephritis should be determined by the severity of the infection.
+Dosing and initial route of therapy (i.e., IV or oral) for complicated urinary tract infection or pyelonephritis should be determined by the severity of the infection.
 In the clinical trial, pediatric patients with moderate to severe infection were initiated on 6 to 10 mg/kg I.V. every 8 hours and allowed to switch to oral therapy (10 to 20 mg/kg every 12 hours), at the discretion of the physician.
 
 PEDIATRIC DOSAGE GUIDELINES

@@ -9,12 +9,17 @@ In a subsequent study in young beagle dogs, oral ciprofloxacin doses of 30 mg/kg
 At 10 mg/kg (approximately 0.6-times the pediatric dose based upon comparative plasma AUCs), no effects on joints were observed.
 This dose was also not associated with arthrotoxicity after an additional treatment-free period of 5 months.
 In another study, removal of weight bearing from the joint reduced the lesions but did not totally prevent them.
+
 Crystalluria, sometimes associated with secondary nephropathy, occurs in laboratory animals dosed with ciprofloxacin.
 This is primarily related to the reduced solubility of ciprofloxacin under alkaline conditions, which predominate in the urine of test animals; in man, crystalluria is rare since human urine is typically acidic.
-In rhesus monkeys, crystalluria without nephropathy was noted after single oral doses as low as 5 mg/kg (approximately 0.07-times the highest recommended therapeutic dose based upon mg/m 2 ).
-After 6 months of intravenous dosing at 10 mg/kg/day, no nephropathological changes were noted; however, nephropathy was observed after dosing at 20 mg/kg/day for the same duration (approximately 0.2-times the highest recommended therapeutic dose based upon mg/m 2 ).
-In dogs, ciprofloxacin at 3 and 10 mg/kg by rapid I.V. injection (15 sec.) produces pronounced hypotensive effects.
+In rhesus monkeys, crystalluria without nephropathy was noted after single oral doses as low as 5 mg/kg.
+(approximately 0.07-times the highest recommended therapeutic dose based upon mg/m2).
+After 6 months of intravenous dosing at 10 mg/kg/day, no nephropathological changes were noted; however, nephropathy was observed after dosing at 20 mg/kg/day for the same duration (approximately 0.2-times the highest recommended therapeutic dose based upon mg/m2).
+
+In dogs, ciprofloxacin at 3 and 10 mg/kg by rapid IV injection (15 sec.) produces pronounced hypotensive effects.
 These effects are considered to be related to histamine release, since they are partially antagonized by pyrilamine, an antihistamine.
-In rhesus monkeys, rapid I.V. injection also produces hypotension but the effect in this species is inconsistent and less pronounced.
+In rhesus monkeys, rapid IV injection also produces hypotension but the effect in this species is inconsistent and less pronounced.
+
 In mice, concomitant administration of nonsteroidal anti-inflammatory drugs such as phenylbutazone and indomethacin with quinolones has been reported to enhance the CNS stimulatory effect of quinolones.
+
 Ocular toxicity seen with some related drugs has not been observed in ciprofloxacin-treated animals.
