@@ -114,6 +114,12 @@ Doses higher than 40 mg/day have not been studied in hepatically impaired patien
 Pantoprazole is metabolized mainly by CYP2C19 and to minor extents by CYPs 3A4, 2D6 and 2C9.
 In in vivo drug-drug interaction studies with CYP2C19 substrates (diazepam [also a CYP3A4 substrate] and phenytoin [also a CYP3A4 inducer]), nifedipine, midazolam, and clarithromycin (CYP3A4 substrates), metoprolol (a CYP2D6 substrate), diclofenac, naproxen and piroxicam (CYP2C9 substrates) and theophylline (a CYP1A2 substrate) in healthy subjects, the pharmacokinetics of pantoprazole were not significantly altered.
 
+Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
+In a crossover clinical study, 66 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone and with pantoprazole (80 mg at the same time as clopidogrel) for 5 days.
+On Day 5, the mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (geometric mean ratio was 86%, with 90% CI of 79 to 93%) when pantoprazole was coadministered with clopidogrel as compared to clopidogrel administered alone.
+Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 µM ADP) was correlated with the change in the exposure to clopidogrel active metabolite.
+The clinical significance of this finding is not clear.
+
 In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of other drugs (cisapride, theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, warfarin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, naproxen, piroxicam and oral contraceptives [levonorgestrel/ethinyl estradiol]).
 Dosage adjustment of such drugs is not necessary when they are co-administered with pantoprazole.
 In other in vivo studies, digoxin, ethanol, glyburide, antipyrine, caffeine, metronidazole, and amoxicillin had no clinically relevant interactions with pantoprazole.

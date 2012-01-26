@@ -87,6 +87,4 @@ D78467 Konstanz, Germany
 
 NOVAPLUS is a registered trademark of Novation, LLC
 
-LAB-0521-1.0
-
-Revised: June 2011
+LAB-0521-2.0
