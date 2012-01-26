@@ -12,4 +12,4 @@ Manufactured by: Gland Pharma Ltd Hyderbad 500 043 India
 
 ML # 103/AP/RR/97/F/R
 
-January 2011 PI23500.01
+January 2011 LEA-019177-00
