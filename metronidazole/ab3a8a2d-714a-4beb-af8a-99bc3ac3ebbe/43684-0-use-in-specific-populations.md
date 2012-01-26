@@ -2,10 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category B.
-
-There are no adequate and well-controlled studies with the use of METROGEL in pregnant women.
-
+Teratogenic Effects: Pregnancy Category B. There are no adequate and well-controlled studies with the use of METROGEL in pregnant women.
 Metronidazole crosses the placental barrier and enters the fetal circulation rapidly.
 No fetotoxicity was observed after oral administration of metronidazole in rats or mice at 200 and 20 times, respectively, the expected clinical dose.
 However, oral metronidazole has shown carcinogenic activity in rodents.

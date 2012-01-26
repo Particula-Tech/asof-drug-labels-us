@@ -21,7 +21,7 @@ Table 4: Inflammatory Lesion Counts and Global Scores in a Clinical Trial of Ros
 
 | N | Results N (%) | N | Results N (%) |  |
 | --- | --- | --- | --- | --- |
-|  | METROGEL 1% |  | Vehicle |  |
+|  | Metronidazole Gel, 1% |  | Vehicle |  |
 | Inflammatory lesions | 557 |  | 189 |  |
 | Baseline, mean count |  | 18.3 |  | 18.4 |
 | Week-10, mean count |  | 8.9 |  | 12.8 |
@@ -31,5 +31,4 @@ Table 4: Inflammatory Lesion Counts and Global Scores in a Clinical Trial of Ros
 | Subject with no change |  | 159 (28.5) |  | 77 (40.7) |
 
 Subjects treated with metronidazole gel, 1% experienced a mean reduction of 9.4 inflammatory lesions in the Week-10 LOCF group, compared to a reduction of 5.6 for those treated with vehicle, or a difference in means of 3.8 lesions.
-
 The contribution to efficacy of individual components of the vehicle has not been established.

@@ -1,13 +1,12 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
 In a controlled clinical trial, 557 patients used metronidazole gel, 1% and 189 patients used the gel vehicle once daily for up to 10 weeks.
 The following table summarizes selected adverse reactions that occurred at a rate of ≥1%:
 
-Table 1: Adverse Reactions That Occurred at a Rate of≥1%
+Table 1: Adverse Reactions That Occurred at a Rate of ≥1%
 
 |  | N= 557 | N= 189 |
 | --- | --- | --- |

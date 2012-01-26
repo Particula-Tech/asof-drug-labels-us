@@ -1,4 +1,5 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
 Gel, 1%.
-Clear, colorless to pale yellow gel.
+METROGEL is a clear, colorless to pale yellow gel.
+Each gram of METROGEL contains 10mg (1%) of metronidazole.

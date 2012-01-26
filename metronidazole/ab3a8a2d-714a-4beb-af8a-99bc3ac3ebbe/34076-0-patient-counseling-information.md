@@ -1,6 +1,4 @@
-# 17 PATIENTS COUNSELING INFORMATION
-
-## 17.1 Information for Patients
+# 17 PATIENT COUNSELING INFORMATION
 
 Patients using METROGEL should receive the following information and instructions:
 
@@ -12,8 +10,11 @@ Patients using METROGEL should receive the following information and instruction
 6. Keep out of reach of children.
 7. Patients should report any adverse reaction to their physicians.
 
-Rx Only US Patent No. 6,881,726
+RX Only
 
-Manufactured by: Galderma Production Canada Inc. Baie d’Urfé, QC, H9X 3S4 Canada Made in Canada.
+US Patent No. 6,881,726 and 7,348,317
 
-Manufactured by: Galderma Production Canada Inc. Baie d’Urfé, QC, H9X 3S4 Canada Made in Canada.
+Manufactured by: G Production Inc. Baie d'Urfé, Quebec, H9X 3S4 Canada Made in Canada Marketed by: GALDERMA LABORATORIES, L.P.
+Fort Worth, Texas 76177 USA
+
+Part Number
