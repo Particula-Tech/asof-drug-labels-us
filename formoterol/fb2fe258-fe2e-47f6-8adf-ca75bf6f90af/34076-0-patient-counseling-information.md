@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Asthma Related Death
+Asthma-Related Death
 
 Patients should be informed that long acting beta agonist, such as PERFOROMIST, increase the risk of asthma-related death.
 All LABA, including PERFOROMIST, should not be used in patients with asthma without use of a long-term asthma control medication.
@@ -38,3 +38,13 @@ Due to their small size, the container and top pose a danger of choking to young
 FDA-Approved Medication Guide
 
 See the accompanying Medication Guide.
+
+Dey®
+
+Dey Pharma, L.P., Napa, CA 94558
+
+U.S. Pat.
+No. 6,667,344 U.S. Pat.
+No. 6,814,953
+
+03-848-04

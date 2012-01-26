@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL - 20 mcg/2 mL vial
 
 NDC 49502-605-61
 
-Perforomist™ (formoterol fumarate) INHALATION SOLUTION 20 mcg/2 mL vial
+Perforomist® (formoterol fumarate) INHALATION SOLUTION 20 mcg/2 mL vial
 
 Medication Guide For Patients Enclosed
 
@@ -10,7 +10,7 @@ Sterile Unit Dose Vials - Individually Wrapped - For Oral Inhalation Only
 
 CARTON CONTAINS: 60 individually wrapped 2 mL vials
 
-EACH 2 mL VIAL CONTAINS: ACTIVE: Formoterol fumarate
+EACH 2 mL VIAL CONTAINS: ACTIVE: Formoterol fumarate, USP.
 
 INACTIVES: Citric acid, sodium citrate, sodium chloride, and water.
 
@@ -30,4 +30,5 @@ FOR THE PATIENT: Use Perforomist™ Inhalation Solution prior to the "Use by" da
 Rx Only
 
 U.S. Pat.
-Nos. 6,667,344 and 6,814,953 Dey®, Napa, CA 94558
+Nos. 6,667,344 and 6,814,953 Dey Pharma, L.P.
+Napa, CA 94558

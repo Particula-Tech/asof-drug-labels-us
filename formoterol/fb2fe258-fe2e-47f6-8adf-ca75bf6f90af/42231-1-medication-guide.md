@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+MEDICATION GUIDE
 
 PERFOROMIST®(Per-FOR-o-mist) (formoterol fumarate) Inhalation Solution
 
@@ -20,7 +20,7 @@ PERFOROMIST Inhalation Solution can cause serious side effects including:
 
 What is PERFOROMIST Inhalation Solution?
 
-PERFOROMIST Inhalation Solution is used long term, 2 times a day (morning and evening) in controlling symptoms of chronic obstructive pulmonary disease (COPD) in adults with COPD.
+PERFOROMIST Inhalation Solution is used long term, 2 times a day (morning and evening), in controlling symptoms of chronic obstructive pulmonary disease (COPD) in adults with COPD.
 
 PERFOROMIST Inhalation Solution is only for use with a nebulizer.
 LABA medicines such as PERFOROMIST Inhalation Solution help the muscles around the airways in your lungs stay relaxed to prevent symptoms, such as wheezing, cough, chest tightness, and shortness of breath.
@@ -64,7 +64,7 @@ Read the step-by-step instructions for using PERFOROMIST Inhalation Solution at 
 
 - Use PERFOROMIST Inhalation Solution exactly as prescribed.
   One ready-to-use vial of PERFOROMIST Inhalation Solution is one dose.
-  The usual dose of PERFOROMIST Inhalation Solution is one ready to-use vial, twice a day (morning and evening) breathed in through your nebulizer machine.
+  The usual dose of PERFOROMIST Inhalation Solution is one ready-to-use vial, twice a day (morning and evening) breathed in through your nebulizer machine.
   The 2 doses should be about 12 hours apart.
   Do not use more than 2 vials of PERFOROMIST Inhalation Solution a day.
 - Do not mix other medicines with PERFOROMIST Inhalation Solution in your nebulizer machine.
@@ -104,7 +104,7 @@ PERFOROMIST Inhalation Solution can cause serious side effects, including:
 - high blood sugar
 - high blood acid
 
-Common side effects of PERFOROMIST Inhalation Solution Include:
+Common side effects of PERFOROMIST Inhalation Solution include:
 
 - headache
 - tremor
@@ -148,11 +148,11 @@ Do not give PERFOROMIST Inhalation Solution to other people, even if they have t
 It may harm them.
 
 This Medication Guide summarizes the most important information about PERFOROMIST Inhalation Solution.
-If you would like more information, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about PERFOROMIST Inhalation Solution that was written for healthcare professionals.
+If you would like more information, talk with your health care provider.
+You can ask your health care provider or pharmacist for information about PERFOROMIST Inhalation Solution that was written for healthcare professionals.
 
 - For customer service, call 1-800-395-3376
-- To report side effects, call 1-877-446-3679
+- To report side effects, call (1-877-446-3679)
 - For medical information, call 1-800-429-7751
 
 Instructions for Using PERFOROMIST (formoterol fumarate) Inhalation Solution
@@ -177,11 +177,13 @@ Do not open a sealed pouch until you are ready to use a dose of PERFOROMIST Inha
 7. Discard the PERFOROMIST Inhalation Solution container and top after use.
 8. Clean the nebulizer (see manufacturer’s instructions).
 
+Dey®
+
 Dey Pharma, L.P.
 Napa, CA 94558 U.S.A.
 
-Revised May 2010
+Revised January 2012
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-03-848-03
+03-848-04

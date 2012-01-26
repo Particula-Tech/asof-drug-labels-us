@@ -37,3 +37,10 @@ TABLE 1
 | Insomnia | 3 | (2.4) | 0 | 0 |
 
 Patients treated with PERFOROMIST Inhalation Solution 20 mcg twice daily in the 52-week open-label trial did not experience an increase in specific clinically significant adverse events above the number expected based on the medical condition and age of the patients.
+
+## 6.3 Postmarketing Experience
+
+The following adverse reactions have been reported during post-approval use of PERFOROMIST Inhalation Solution.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Anaphylactic reactions, urticaria, angioedema (presenting as face, lip, tongue, eye, pharyngeal, or mouth edema), rash, and bronchospasm
