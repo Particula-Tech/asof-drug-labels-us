@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA077415"
+  ],
+  "inn": "bupropion",
+  "labeler": "Global Pharmaceuticals, Division of Impax Laboratories, Inc.",
+  "package_ndcs": [
+    "0115-6811-02",
+    "0115-6811-08",
+    "0115-6811-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "bupropion hydrochloride",
+      "name": "Bupropion Hydrochloride"
+    }
+  ],
+  "setid": "fddc9630-2f9a-4104-888f-3714587d4fe7",
+  "source": "dailymed"
+}
