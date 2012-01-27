@@ -85,4 +85,4 @@ COPD Trial: Quit Rates by Treatment Group
 | Placebo(n = 200)%(95% CI) | ZYBAN 300 mg/day(n = 204)%(95% CI) |  |
 | Weeks 9 through 12 | 12%(8-16) | 22%a(17-27) |
 
-a Significantly different from placebo (P<0.05).
+aSignificantly different from placebo (P<0.05).

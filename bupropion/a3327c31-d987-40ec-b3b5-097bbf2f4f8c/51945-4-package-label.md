@@ -4,7 +4,7 @@ NDC 0173-0556-02
 
 ZYBAN®
 
-(bupropion HCl)
+(bupropionHCl)
 
 Sustained-Release Tablets 150 mg
 
@@ -20,7 +20,7 @@ Each tablet contains 150 mg of bupropion HCl.
 
 Federal Law requires dispensing of ZYBAN® with the Medication Guide under this label.
 
-WARNING: Do not use with other medicines that contain bupropion HCl.
+WARNING: Do not use with other medicines that contain bupropionHCl.
 
 See prescribing information for dosage information.
 

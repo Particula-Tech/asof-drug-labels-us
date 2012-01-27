@@ -21,7 +21,7 @@ These symptoms can develop during treatment with ZYBAN or after stopping treatme
 
 If you, your family member, or your caregiver notice agitation, hostility, depression, or changes in thinking or behavior that are not typical for you, or you have any of the following symptoms, stop taking ZYBAN and call your healthcare provider right away:
 
-| thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietypanic attacksfeeling very agitated or restlessacting aggressive, being angry, or violentacting on dangerous impulses | an extreme increase in activity and talking (mania) abnormal thoughts or sensationsseeing or hearing things that are not there (hallucinations)feeling people are against you (paranoia)feeling confusedother unusual changes in behavior or mood |
+| thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietypanic attacksfeeling very agitated or restlessacting aggressive, being angry, or violentacting on dangerous impulses | an extreme increase in activity and talking (mania)abnormal thoughts or sensationsseeing or hearing things that are not there (hallucinations)feeling people are against you (paranoia)feeling confusedother unusual changes in behavior or mood |
 | --- | --- |
 
 When you try to quit smoking, with or without ZYBAN, you may have symptoms that may be due to nicotine withdrawal, including urge to smoke, depressed mood, trouble sleeping, irritability, frustration, anger, feeling anxious, difficulty concentrating, restlessness, decreased heart rate, and increased appetite or weight gain.
@@ -261,9 +261,9 @@ or DSM Pharmaceuticals, Inc.
 
 Greenville, NC 27834
 
-©2010, GlaxoSmithKline.
+©2012, GlaxoSmithKline.
 All rights reserved.
 
-September 2010
+January 2012
 
-ZYB:6MG
+ZYB:7MG
