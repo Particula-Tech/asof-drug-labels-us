@@ -12,8 +12,8 @@ The solution is packaged in a multiple-dose glass vial and does not contain any 
 
 ## 11.2 Physical Characteristics
 
-Fluorine F 18 decays by emitting positron to Oxygen O 16 (stable) and has a physical half-life of 109.7 minutes.
-The principal photons useful for imaging are the dual 511 keV gamma photons, that are produced and emitted simultaneously in opposite direction when the positron interacts with an electron (Table 2).
+Fluorine F 18 has a physical half-life of 109.7 minutes and decays to Oxygen O 18 (stable) by positron decay.
+The principal photons useful for imaging are the dual 511 keV “annihilation” gamma photons that are produced and emitted simultaneously in opposite directions when the positron interacts with an electron (Table 2).
 
 Table 2.
 Principal Radiation Emission Data for Fluorine F 18
