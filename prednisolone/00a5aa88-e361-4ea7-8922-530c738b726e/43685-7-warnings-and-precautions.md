@@ -49,7 +49,7 @@ Keep out of the reach of children.
 
 No studies have been conducted in animals or in humans to evaluate the potential of these effects.
 
-## Pregnancy Category C
+## Pregnancy Category C:
 
 Prednisolone has been shown to be teratogenic in mice when given in doses 1-10 times the human dose.
 There are no adequate well-controlled studies in pregnant women.
