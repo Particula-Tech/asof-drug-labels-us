@@ -10,6 +10,17 @@ If an allergic reaction occurs, the drug should be discontinued and appropriate 
 
 SERIOUS ANAPHYLACTOID REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE, OXYGEN, INTRAVENOUS STEROIDS, AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ampicillin, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
+
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
 # PRECAUTIONS
 
 ## General
@@ -23,14 +34,18 @@ In most cases, the rash is maculopapular, pruritic, and generalized.
 Therefore, the administration of ampicillin is not recommended in patients with mononucleosis.
 It is not known whether these patients are truly allergic to ampicillin.
 
-Prescribing ampicillin for injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing Ampicillin for Injection, USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## Information for Patients
 
-Patients should be counseled that antibacterial drugs including ampicillin for injection should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including Ampicillin for Injection, USP should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When ampicillin for injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ampicillin for injection or other antibacterial drugs in the future.
+When Ampicillin for Injection, USP is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Ampicillin for Injection, USP or other antibacterial drugs in the future.
+
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
 
 ## Laboratory Tests
 
@@ -46,17 +61,17 @@ It is not known whether this potentiation of ampicillin rashes is due to allopur
 
 ## Drug/Laboratory Test Interactions
 
-With high urine concentrations of ampicillin, false-positive glucose reactions may occur if Clinitest, Benedict's Solution, or Fehling’s Solution are used.
+With high urine concentrations of ampicillin, false-positive glucose reactions may occur if Clinitest, Benedicts Solution, or Fehlings Solution are used.
 Therefore, it is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as Clinistix or Tes-Tape) be used.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 No long-term animal studies have been conducted with this drug.
 
-## Pregnancy - Category B
+## Pregnancy Category B
 
 Reproduction studies have been performed in laboratory animals at doses several times the human dose and have revealed no evidence of adverse effects due to ampicillin.
-There are, however, no adequate and wellcontrolled studies in pregnant women.
+There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 ## Labor and Delivery
