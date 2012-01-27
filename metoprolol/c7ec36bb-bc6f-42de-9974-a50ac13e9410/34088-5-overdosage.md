@@ -4,7 +4,7 @@
 
 Several cases of overdosage have been reported, some leading to death.
 
-Oral LD50’s (mg/kg): mice, 1158-2460; rats, 3090-4670.
+Oral LD50’s (mg/kg): mice, 1158 - 2460; rats, 3090 - 4670.
 
 ## Signs and Symptoms
 
@@ -18,14 +18,12 @@ In general, patients with acute or recent myocardial infarction may be more hemo
 
 On the basis of the pharmacologic actions of metoprolol, the following general measures should be employed:
 
-Elimination of the Drug: Gastric lavage should be performed.
-
-Bradycardia: Atropine should be administered.
+Bradycardia:Atropine should be administered.
 If there is no response to vagal blockade, isoproterenol should be administered cautiously.
 
-Hypotension: A vasopressor should be administered, e.g., levarterenol or dopamine.
+Hypotension:A vasopressor should be administered, e.g., levarterenol or dopamine.
 
-Bronchospasm: A beta2-stimulating agent and/or a theophylline derivative should be administered.
+Bronchospasm:A beta 2 -stimulating agent and/or a theophylline derivative should be administered.
 
-Cardiac Failure: A digitalis glycoside and diuretic should be administered.
+Cardiac Failure:A digitalis glycoside and diuretic should be administered.
 In shock resulting from inadequate cardiac contractility, administration of dobutamine, isoproterenol, or glucagon may be considered.
