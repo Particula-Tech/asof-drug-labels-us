@@ -1,0 +1,4 @@
+# DOSAGE AND ADMINISTRATION
+
+The recommended dose is one applicator full of METROGEL-VAGINAL (approximately 5 grams containing approximately 37.5 mg of metronidazole) intravaginally once or twice a day for 5 days.
+For once a day dosing, METROGEL-VAGINAL should be administered at bedtime.

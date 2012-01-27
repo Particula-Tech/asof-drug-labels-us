@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020014"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Medicis Pharmaceutical Corp",
+  "package_ndcs": [
+    "99207-130-70"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "metronidazole",
+      "name": "MetroGel-Vaginal"
+    }
+  ],
+  "setid": "94688946-19f1-4f46-903a-2e9c9b89b0f5",
+  "source": "dailymed"
+}
