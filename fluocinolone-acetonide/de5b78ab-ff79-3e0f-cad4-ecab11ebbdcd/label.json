@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "ANDA089524",
+    "ANDA089525",
+    "ANDA089526"
+  ],
+  "inn": "fluocinolone-acetonide",
+  "labeler": "GW Laboratories, Inc.",
+  "package_ndcs": [
+    "0713-0222-15",
+    "0713-0222-60",
+    "0713-0223-15",
+    "0713-0223-60",
+    "0713-0224-15",
+    "0713-0224-60"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluocinolone acetonide",
+      "name": "Fluocinolone Acetonide"
+    },
+    {
+      "form": "OINTMENT",
+      "generic": "fluocinolone acetonide",
+      "name": "Fluocinolone Acetonide"
+    }
+  ],
+  "setid": "de5b78ab-ff79-3e0f-cad4-ecab11ebbdcd",
+  "source": "dailymed"
+}
