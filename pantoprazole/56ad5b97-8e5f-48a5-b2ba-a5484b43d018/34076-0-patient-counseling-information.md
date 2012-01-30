@@ -60,6 +60,7 @@ Pantoprazole sodium delayed-release tablets may affect how other medicines work 
 Especially tell your doctor if you take:
 
 - Warfarin (Coumadin†, Athrombin-K†, Jantoven†, Panwarfin†)
+- Clopidogrel (Plavix†)
 - Ketoconazole (Nizoral†)
 - Atazanavir (Reyataz†), Nelfinavir (Viracept†)
 - Iron supplements
@@ -122,7 +123,7 @@ The most common side effects with pantoprazole sodium delayed-release tablets in
 | Upper respiratory infectionHeadacheFeverDiarrhea | VomitingRashStomach pain |
 | --- | --- |
 
-People who are taking multiple daily doses of proton pump inhibitor medicines for a long period of time may have increased risk of fractures of the hip, wrist or spine.
+People who are taking multiple daily doses of proton pump inhibitor medicines for a long period of time may have an increased risk of fractures of the hip, wrist or spine.
 
 Tell your doctor about any side effects that bother you or that do not go away.
 
@@ -154,7 +155,7 @@ What are the ingredients in pantoprazole sodium delayed-release tablets, USP?
 
 Active ingredient: pantoprazole sodium sesquihydrate
 
-Inactive ingredients: black iron oxide, calcium stearate, crospovidone, hypromellose, mannitol, methacrylic acid copolymer, povidone, propylene glycol, sodium carbonate, shellac glaze, titanium dioxide, triethyl citrate and yellow iron oxide.
+Inactive ingredients: ammonium hydroxide, black iron oxide, calcium stearate, crospovidone, hypromellose, mannitol, methacrylic acid copolymer, povidone, propylene glycol, sodium carbonate, shellac glaze, titanium dioxide, triethyl citrate and yellow iron oxide.
 
 Patient Instructions for Use
 
@@ -167,8 +168,8 @@ Pantoprazole sodium delayed-release tablets
 
 † The brand names mentioned in this Patient Information Leaflet are registered trademarks of their respective manufacturers.
 
-Manufactured in India by: Matrix Laboratories Limited Secunderabad — 500 003, India Code No.: MH/DRUGS/25/NKD/89
+Manufactured in India by: Mylan Laboratories Limited Hyderabad—500 034, India Code No.: MH/DRUGS/25/NKD/89
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED JULY 2011 MX:PANTDR:R4ppt/MX:PL:PANTDR:R3
+REVISED JANUARY 2012 MX:PANTDR:R5ppt

@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Adults
+### Adults
 
 Safety in nine randomized comparative U.S. clinical trials in patients with GERD included 1,473 patients on oral pantoprazole (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another proton pump inhibitor and 82 patients on placebo.
 The most frequently occurring adverse reactions are listed in Table 3.
@@ -43,7 +43,7 @@ Special Senses: blurred vision
 Adverse reaction information in pediatric patients with erosive esophagitis associated with GERD is approved for Wyeth Pharmaceuticals Inc.’s pantoprazole sodium delayed-release tablets.
 However, due to Wyeth Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-Zollinger-Ellison Syndrome
+### Zollinger-Ellison Syndrome
 
 In clinical studies of Zollinger-Ellison Syndrome, adverse reactions reported in 35 patients taking pantoprazole 80 mg/day to 240 mg/day for up to 2 years were similar to those reported in adult patients with GERD.
 
@@ -54,16 +54,20 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 These adverse reactions are listed below by body system:
 
-Immune System Disorders: anaphylaxis (including anaphylactic shock)
-
-Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson Syndrome, and toxic epidermal necrolysis (TEN, some fatal), and angioedema (Quincke’s edema)
-
-Musculoskeletal Disorders: rhabdomyolysis, bone fracture
-
-Metabolism and Nutritional Disorders: hypomagnesemia
-
-Renal and Urinary Disorders: interstitial nephritis
+General Disorders and Administration Conditions: asthenia, fatigue, malaise
 
 Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic failure
 
-Psychiatric Disorders: hallucination, confusion
+Immune System Disorders: anaphylaxis (including anaphylactic shock)
+
+Investigations: weight changes
+
+Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia
+
+Musculoskeletal Disorders: rhabdomyolysis, bone fracture
+
+Psychiatric Disorders: hallucination, confusion, insomnia, somnolence
+
+Renal and Urinary Disorders: interstitial nephritis
+
+Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson Syndrome, and toxic epidermal necrolysis (TEN, some fatal), and angioedema (Quincke’s edema)
