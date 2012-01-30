@@ -1,13 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA064076",
+    "ANDA065228",
+    "ANDA065378",
+    "ANDA065387"
+  ],
   "inn": "amoxicillin",
-  "labeler": "Sandoz Inc.",
+  "labeler": "Sandoz Inc",
   "package_ndcs": [
     "0781-2020-01",
     "0781-2020-05",
+    "0781-2020-31",
     "0781-2020-76",
     "0781-2613-01",
     "0781-2613-05",
+    "0781-2613-31",
     "0781-2613-76",
     "0781-5060-01",
     "0781-5060-05",
@@ -15,12 +22,12 @@
     "0781-5061-01",
     "0781-5061-05",
     "0781-5061-20",
-    "0781-6034-46",
-    "0781-6034-55",
-    "0781-6034-58",
-    "0781-6038-46",
-    "0781-6038-55",
-    "0781-6038-58",
+    "0781-6039-46",
+    "0781-6039-55",
+    "0781-6039-58",
+    "0781-6041-46",
+    "0781-6041-55",
+    "0781-6041-58",
     "0781-6156-46",
     "0781-6156-52",
     "0781-6156-57",
@@ -28,7 +35,23 @@
     "0781-6157-52",
     "0781-6157-57"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "amoxicillin",
+      "name": "Amoxicillin"
+    },
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "amoxicillin",
+      "name": "Amoxicillin"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "amoxicillin",
+      "name": "Amoxicillin"
+    }
+  ],
   "setid": "13bd4214-9b7f-425b-af5f-fc1ddc678230",
   "source": "dailymed"
 }

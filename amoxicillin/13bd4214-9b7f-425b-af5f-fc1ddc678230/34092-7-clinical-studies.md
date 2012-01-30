@@ -3,7 +3,7 @@
 ## H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence
 
 Randomized, double-blind clinical studies performed in the United States in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within 1 year) evaluated the efficacy of lansoprazole in combination with amoxicillin capsules and clarithromycin tablets as triple 14 day therapy, or in combination with amoxicillin capsules as dual 14 day therapy, for the eradication of H. pylori.
-Based on the results of these studies, the safety and efficacy of 2 different eradication regimen were established:
+Based on the results of these studies, the safety and efficacy of 2 different eradication regimens were established:
 
 Triple Therapy: Amoxicillin 1 gram twice daily/clarithromycin 500 mg twice daily/lansoprazole 30 mg twice daily.
 

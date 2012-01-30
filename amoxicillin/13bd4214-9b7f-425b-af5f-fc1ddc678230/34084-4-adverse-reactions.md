@@ -4,15 +4,17 @@ As with other penicillins, it may be expected that untoward reactions will be es
 They are more likely to occur in individuals who have previously demonstrated hypersensitivity to penicillins and in those with a history of allergy, asthma, hay fever, or urticaria.
 The following adverse reactions have been reported as associated with the use of penicillins:
 
-Gastrointestinal: Nausea, vomiting, diarrhea, and hemorrhagic/pseudomembranous colitis.
+Infections and Infestations: Mucocutaneous candidiasis.
+
+Gastrointestinal: Nausea, vomiting, diarrhea, black hairy tongue, and hemorrhagic/pseudomembranous colitis.
 
 Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment.
 (See WARNINGS.)
 
-Hypersensitivity Reactions: Serum sickness-like reactions, erythematous maculopapular rashes, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis, acute generalized exanthematous pustulosis, hypersensitivity vasculitis and urticaria have been reported.
+Hypersensitivity Reactions: Anaphylaxis (See WARNINGS), Serum sickness-like reactions, erythematous maculopapular rashes, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis, acute generalized exanthematous pustulosis, hypersensitivity vasculitis and urticaria have been reported.
 
 NOTE: These hypersensitivity reactions may be controlled with antihistamines and, if necessary, systemic corticosteroids.
-Whenever such reactions occur, amoxicillin should be discontinued unless, in the opinion of the physician, the condition being treated is lifethreatening and amenable only to amoxicillin therapy.
+Whenever such reactions occur, amoxicillin should be discontinued unless, in the opinion of the physician, the condition being treated is life-threatening and amenable only to amoxicillin therapy.
 
 Liver: A moderate rise in AST (SGOT) and/or ALT (SGPT) has been noted, but the significance of this finding is unknown.
 Hepatic dysfunction including cholestatic jaundice, hepatic cholestasis and acute cytolytic hepatitis have been reported.

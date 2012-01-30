@@ -9,15 +9,17 @@ IF AN ALLERGIC REACTION OCCURS, AMOXICILLIN SHOULD BE DISCONTINUED AND APPROPRIA
 SERIOUS ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE.
 OXYGEN, INTRAVENOUS STEROIDS, AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
-Pseudomembranous colitis has been reported with nearly all antibacterial agents, including amoxicillin, and may range in severity from mild to life-threatening.
-Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including amoxicillin capsules, amoxicillin for oral suspension, or amoxicillin tablets, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is a primary cause of "antibiotic-associated colitis."
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 
-After the diagnosis of pseudomembranous colitis has been established, appropriate therapeutic measures should be initiated.
-Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
-In moderate-to-severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against C. difficile colitis.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 # PRECAUTIONS
 
@@ -26,16 +28,10 @@ In moderate-to-severe cases, consideration should be given to management with fl
 The possibility of superinfections with mycotic or bacterial pathogens should be kept in mind during therapy.
 If superinfections occur, amoxicillin should be discontinued and appropriate therapy instituted.
 
+A high percentage of patients with mononucleosis who receive ampicillin develop an erythematous skin rash.
+Thus, ampicillin-class antibiotics should not be administered to patients with mononucleosis.
+
 Prescribing amoxicillin in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
-
-## Information for Patients
-
-Amoxicillin may be taken every 8 hours or every 12 hours, depending on the strength of the product prescribed.
-
-Patients should be counseled that antibacterial drugs including amoxicillin should only be used to treat bacterial infections.
-They do not treat viral infections (e.g., the common cold).
-When amoxicillin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by amoxicillin or other antibacterial drugs in the future.
 
 ## Laboratory Tests
 
@@ -51,6 +47,8 @@ Concurrent use of amoxicillin and probenecid may result in increased and prolong
 
 Chloramphenicol, macrolides, sulfonamides, and tetracyclines may interfere with the bactericidal effects of penicillin.
 This has been demonstrated in vitro; however, the clinical significance of this interaction is not well documented.
+
+In common with other antibiotics, amoxicillin may affect the gut flora, leading to lower estrogen reabsorption and reduced efficacy of combined oral estrogen/progesterone contraceptives.
 
 ## Drug/Laboratory Test Interactions
 
@@ -101,8 +99,21 @@ Dosing of amoxicillin should be modified in pediatric patients 12 weeks or young
 ## Geriatric Use
 
 An analysis of clinical studies of amoxicillin was conducted to determine whether subjects aged 65 and over respond differently from younger subjects.
-Of the 1,811 subjects treated with capsules of amoxicillin, 85% were < 60 years old, 15% were ≥ 61 years old and 7% were ≥ 71 years old.
+Of the 1,811 subjects treated with amoxicillin capsules, 85% were < 60 years old, 15% were ≥ 61 years old and 7% were ≥ 71 years old.
 This analysis and other reported clinical experience have not identified differences in responses between the elderly and younger patients, but a greater sensitivity of some older individuals cannot be ruled out.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because eldery patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+
+Information for Patients
+
+Amoxicillin may be taken every 8 hours or every 12 hours, depending on the strength of the product prescribed.
+
+Patients should be counseled that antibacterial drugs including amoxicillin should only be used to treat bacterial infections.
+They do not treat viral infections (e.g., the common cold).
+When amoxicillin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by amoxicillin or other antibacterial drugs in the future.
+
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as 2 or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.

@@ -36,14 +36,25 @@ Amoxicillin has been shown to be active against most strains of the following mi
 
 Aerobic Gram-Positive Microorganisms:
 
-Enterococcus faecalis Staphylococcus spp.
-Staphylococci which are susceptible to amoxicillin but resistant to methicillin/oxacillin should be considered as resistant to amoxicillin.
-(β-lactamase-negative strains only) Streptococcus pneumoniae Streptococcus spp.
+Enterococcus faecalis
+
+Staphylococcus spp.Staphylococci which are susceptible to amoxicillin but resistant to methicillin/oxacillin should be considered as resistant to amoxicillin.
+(β-lactamase-negative strains only)
+
+Streptococcus pneumoniae
+
+Streptococcus spp.
 (α- and β-hemolytic strains only)
 
 Aerobic Gram-Negative Microorganisms:
 
-Escherichia coli (β-lactamase-negative strains only) Haemophilus influenzae (β-lactamase-negative strains only) Neisseria gonorrhoeae (β-lactamase-negative strains only) Proteus mirabilis (β-lactamase-negative strains only)
+Escherichia coli (β-lactamase-negative strains only)
+
+Haemophilus influenzae (β-lactamase-negative strains only)
+
+Neisseria gonorrhoeae (β-lactamase-negative strains only)
+
+Proteus mirabilis (β-lactamase-negative strains only)
 
 Helicobacter:
 
@@ -61,14 +72,16 @@ Ampicillin is sometimes used to predict susceptibility of S. pneumoniae to amoxi
 Therefore, S. pneumoniae susceptibility should be tested using amoxicillin powder.
 The MIC values should be interpreted according to the following criteria:
 
-For Gram-Positive Aerobes: Enterococcus
+For Gram-Positive Aerobes:
+
+Enterococcus
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
 | ≤ 8 | Susceptible (S) |
 | ≥ 16 | Resistant (R) |
 
-Staphylococcus Staphylococci which are susceptible to amoxicillin but resistant to methicillin/oxacillin should be considered as resistant to amoxicillin.
+StaphylococcusStaphylococci which are susceptible to amoxicillin but resistant to methicillin/oxacillin should be considered as resistant to amoxicillin.
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
@@ -83,7 +96,8 @@ Streptococcus (except S. pneumoniae)
 | 0.5 to 4 | Intermediate (I) |
 | ≥ 8 | Resistant (R) |
 
-S. pneumoniae These interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2-5% lysed horse blood. from non-meningitis sources.
+S. pneumoniaeThese interpretive standards are applicable only to broth microdilution susceptibility tests using cation-adjusted Mueller-Hinton broth with 2-5% lysed horse blood. from non-meningitis sources.
+
 (Amoxicillin powder should be used to determine susceptibility.)
 
 | MIC (mcg/mL) | Interpretation |
@@ -104,7 +118,7 @@ Enterobacteriaceae
 | 16 | Intermediate (I) |
 | ≥ 32 | Resistant (R) |
 
-H. influenzae These interpretive standards are applicable only to broth microdilution test with H. influenzae using Haemophilus Test Medium (HTM).1
+H. influenzaeThese interpretive standards are applicable only to broth microdilution test with H. influenzae using Haemophilus Test Medium (HTM).1
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
@@ -112,11 +126,11 @@ H. influenzae These interpretive standards are applicable only to broth microdil
 | 2 | Intermediate (I) |
 | ≥ 4 | Resistant (R) |
 
-A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
-A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
+A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
 This category also provides a buffer zone, which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of "Resistant" indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
+A report of “Resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
 
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 Standard ampicillin powder should provide the following MIC values:
@@ -143,14 +157,16 @@ Interpretation involves correlation of the diameter obtained in the disk test wi
 
 Reports from the laboratory providing results of the standard single-disk susceptibility test with a 10 mcg ampicillin disk should be interpreted according to the following criteria:
 
-For Gram-Positive Aerobes: Enterococcus
+For Gram-Positive Aerobes:
+
+Enterococcus
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
 | ≥ 17 | Susceptible (S) |
 | ≤ 16 | Resistant (R) |
 
-Staphylococcus Staphylococci which are susceptible to amoxicillin but resistant to methicillin/oxacillin should be considered as resistant to amoxicillin.
+StaphylococcusStaphylococci which are susceptible to amoxicillin but resistant to methicillin/oxacillin should be considered as resistant to amoxicillin.
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
@@ -183,7 +199,7 @@ Enterobacteriaceae
 | 14 to 16 | Intermediate (I) |
 | ≤ 13 | Resistant (R) |
 
-H. influenzae These interpretive standards are applicable only to disk diffusion susceptibility tests with H. influenzae using Haemophilus Test Medium (HTM).2
+H. influenzaeThese interpretive standards are applicable only to disk diffusion susceptibility tests with H. influenzae using Haemophilus Test Medium (HTM).2
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
