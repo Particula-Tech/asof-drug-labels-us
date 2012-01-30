@@ -1,6 +1,6 @@
 # 16. HOW SUPPLIED/STORAGE AND HANDLING
 
-Lamotrigine Tablets, 25-mg
+Lamotrigine Tablets, USP 25-mg
 
 White to off white, round shape, flat face beveled edge, uncoated tablets debossed with "45" on one side and break line on other side.
 
@@ -16,7 +16,7 @@ Bottle of 6600 NDC-13668-045-66
 
 10 x 10 unit dose NDC-13668-045-74
 
-Lamotrigine Tablets, 100-mg
+Lamotrigine Tablets, USP 100-mg
 
 White to off white, round shape, flat face beveled edge, uncoated tablets debossed with "1047" on one side and break line on other side.
 
@@ -32,7 +32,7 @@ Bottle of 2500 NDC-13668-047-31
 
 10 x 10 unit dose NDC-13668-047-74
 
-Lamotrigine Tablets, 150-mg
+Lamotrigine Tablets, USP 150-mg
 
 White to off white, round shape, flat face beveled edge, uncoated tablets debossed with "1048" on one side and break line on other side.
 
@@ -48,7 +48,7 @@ Bottle of 1600 NDC-13668-048-16
 
 9 x 10 unit dose NDC-13668-048-64
 
-Lamotrigine Tablets, 200-mg
+Lamotrigine Tablets, USP 200-mg
 
 White to off white, round shape, flat face beveled edge, uncoated tablets debossed with "1049" on one side and break line on other side.
 
@@ -64,7 +64,7 @@ Bottle of 1300 NDC-13668-049-13
 
 9 x 10 unit dose NDC-13668-049-64
 
-Lamotrigine Tablets Starter Kit for Patients Not Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone, Rifampin, or Valproate.
+Lamotrigine Tablets, USP Starter Kit for Patients Not Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Valproate (Orange Kit).
 
 25-mg, white to off white, round shape, flat face beveled edge, uncoated tablets debossed with "45" on one side and break line on other side.
 
@@ -74,7 +74,7 @@ Blister pack of 42, 25-mg tablets
 
 and 7, 100-mg tablets NDC-13668-266-99
 
-Lamotrigine Tablets Starter Kit for Patients Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Rifampin and Not Taking Valproate.
+Lamotrigine Tablets, USP Starter Kit for Patients Taking Carbamazepine, Phenytoin, Phenobarbital, or Primidone and Not Taking Valproate (Green Kit).
 
 25-mg, white to off white, round shape, flat face beveled edge, uncoated tablets debossed with "45" on one side and break line on other side.
 
@@ -84,7 +84,7 @@ Blister pack of 84, 25-mg tablets
 
 and 14, 100-mg tablets NDC-13668-266-28
 
-Lamotrigine Tablets Starter Kit for Patients Taking Valproate.
+Lamotrigine Tablets, USP Starter Kit for Patients Taking Valproate (Blue Kit).
 
 25-mg, white to off white, round shape, flat face beveled edge, uncoated tablets debossed with "45" on one side and break line on other side.
 

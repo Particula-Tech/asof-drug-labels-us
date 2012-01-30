@@ -86,4 +86,4 @@ In Study 2, patients received double-blind monotherapy with lamotrigine (100 to 
 Lamotrigine was superior to placebo in delaying time to occurrence of a mood episode.
 The mean dose of lamotrigine was about 211 mg/day.
 
-Although these studies were not designed to separately evaluate time to the occurrence of depression or mania, a combined analysis for the 2 studies revealed a statistically significant benefit for lamotrigine over placebo in delaying the time to occurrence of both depression and mania, although the finding was more robust for depression.
+Although these studies were not designed to separately evaluate time to the occurrence of depression or mania, a combined analysis for the studies revealed a statistically significant benefit for lamotrigine over placebo in delaying the time to occurrence of both depression and mania, although the finding was more robust for depression.

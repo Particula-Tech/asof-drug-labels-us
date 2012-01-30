@@ -6,5 +6,7 @@ Lamotrigine, USP is a white to pale cream-colored powder and has a pKa of 5.7.
 Lamotrigine, USP is very slightly soluble in water (0.17 mg/mL at 25°C) and slightly soluble in 0.1 M HCl (4.1 mg/mL at 25°C).
 The structural formula is:
 
-Lamotrigine tablets are supplied for oral administration as 25-mg (white to off white), 100-mg (white to off white), 150-mg (white to off white), and 200-mg (white to off white) tablets.
+Lamotrigine tablets, USP are supplied for oral administration as 25-mg (white to off white), 100-mg (white to off white), 150-mg (white to off white), and 200-mg (white to off white) tablets.
 Each tablet contains the labeled amount of lamotrigine, USP and the following inactive ingredients: lactose monohydrate; magnesium stearate; microcrystalline cellulose; povidone; and sodium starch glycolate.
+
+Meets USP Dissolution Test 3

@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-Lamotrigine Tablets
+Lamotrigine Tablets, USP
 
 Rx Only
 
@@ -11,40 +11,46 @@ If you have questions about lamotrigine, ask your healthcare provider or pharmac
 
 What is the most important information I should know about lamotrigine?
 
-1. Lamotrigine may cause a serious skin rash that may cause you to be hospitalized or to stop lamotrigine; it may rarely cause death.
+1.
+Lamotrigine may cause a serious skin rash that may cause you to be hospitalized or even cause death.
 
-There is no way to tell if a mild rash will develop into a more serious reaction.
-These serious skin reactions are more likely to happen when you begin taking lamotrigine, within the first 2 to 8 weeks of treatment.
-But it can happen in people who have taken lamotrigine for any period of time.
-Children between 2 to 16 years of age have a higher chance of getting this serious skin reaction while taking lamotrigine.
+There is no way to tell if a mild rash will become more serious.
+A serious skin rash can happen at any time during your treatment with lamotrigine, but is more likely to happen within the first 2 to 8 weeks of treatment.
+Children between 2 to 16 years of age have a higher chance of getting this serious skin rash while taking lamotrigine.
 
-The risk of getting a rash is higher if you:
+The risk of getting a serious skin rash is higher if you:
 
 - take lamotrigine while taking valproate (valproic acid or divalproex sodium)
 - take a higher starting dose of lamotrigine than your healthcare provider prescribed
 - increase your dose of lamotrigine faster than prescribed.
 
-Lamotrigine can also cause other types of allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
-You may or may not have a rash with these types of reactions.
-
 Call your healthcare provider right away if you have any of the following:
 
 - a skin rash
+- blistering or peeling of your skin
 - hives
-- fever
-- swollen lymph glands
-- painful sores in the mouth or around your eyes
-- swelling of your lips or tongue
-- yellowing of your skin or eyes
-- unusual bruising or bleeding
-- severe fatigue or weakness
-- severe muscle pain
-- frequent infections
+- painful sores in your mouth or around your eyes
 
-These symptoms may be the first signs of a serious reaction.
+These symptoms may be the first signs of a serious skin reaction.
 A healthcare provider should examine you to decide if you should continue taking lamotrigine.
 
 2.
+Other serious reactions, including serious blood problems or liver problems.
+
+Lamotrigine can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
+You may or may not have a rash with these types of reactions.
+Call your healthcare provider right away if you have any of these symptoms:
+
+- fever
+- frequent infections
+- severe muscle pain
+- swelling of your face, eyes, lips, or tongue
+- swollen lymph glands
+- unusual bruising or bleeding
+- weakness, fatigue
+- yellowing of your skin or the white part of your eyes
+
+3.
 Like other antiepileptic drugs, lamotrigine may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
@@ -74,12 +80,31 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 - Keep all follow-up visits with your healthcare provider as scheduled.
 - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
+4.
+Lamotrigine may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
+
+Call your healthcare provider right away if you have any of the following symptoms:
+
+- headache
+- fever
+- nausea
+- vomiting
+- stiff neck
+- rash
+- unusual sensitivity to light
+- muscle pains
+- chills
+- confusion
+- drowsiness
+
+Meningitis has many causes other than lamotrigine, which your doctor would check for if you developed meningitis while taking lamotrigine.
+
 Lamotrigine can have other serious side effects.
 For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled "What are the possible side effects of lamotrigine?"
 
-3.
+5.
 Patients prescribed lamotrigine have sometimes been given the wrong medicine because many medicines have names similar to lamotrigine, so always check that you receive lamotrigine.
 
 Taking the wrong medication can cause serious health problems.
@@ -89,10 +114,10 @@ When your healthcare provider gives you a prescription for lamotrigine:
 - Talk to your pharmacist to check that you are given the correct medicine.
 - Each time you fill your prescription, check the tablets you receive against the pictures of the tablets below.
 
-These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of lamotrigine tablets.
-Immediately call your pharmacist if you receive a lamotrigine tablet that does not look like one of the tablets shown below, as you may have received the wrong medication.
+These pictures show the distinct wording, colors, and shapes of the tablets that help to identify the right strength of lamotrigine tablets, USP.
+Immediately call your pharmacist if you receive a lamotrigine tablet, USP that does not look like one of the tablets shown below, as you may have received the wrong medication.
 
-Lamotrigine Tablets
+Lamotrigine Tablets, USP
 
 | Tablet Strength | Lamotrigine Tablets Dimensional Drawing |
 | --- | --- |
@@ -124,10 +149,12 @@ Before taking lamotrigine, tell your healthcare provider about all of your medic
 
 - have had a rash or allergic reaction to another antiseizure medicine.
 - have or have had depression, mood problems or suicidal thoughts or behavior.
+- have had aseptic meningitis after taking lamotrigine.
 - are taking oral contraceptives (birth control pills) or other female hormonal medicines.
   Do not start or stop taking birth control pills or other female hormonal medicine until you have talked with your healthcare provider.
   Tell your healthcare provider if you have any changes in your menstrual pattern such as breakthrough bleeding.
-  Stopping or starting these medicines may cause side effects (such as dizziness, lack of coordination, or double vision) or lessen how well lamotrigine works.
+  Stopping these medicines may cause side effects (such as dizziness, lack of coordination, or double vision).
+  Starting these medicines may lessen how well lamotrigine works.
 - are pregnant or plan to become pregnant.
   It is not known if lamotrigine will harm your unborn baby.
   If you become pregnant while taking lamotrigine, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
@@ -139,7 +166,7 @@ Before taking lamotrigine, tell your healthcare provider about all of your medic
   Breastfeeding while taking lamotrigine is not recommended.
 
 Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Using lamotrigine with certain other medicines can affect each other, causing side effects.
+If you use lamotrigine with certain other medicines, they can affect each other, causing side effects.
 
 How should I take lamotrigine?
 
@@ -157,7 +184,7 @@ How should I take lamotrigine?
 - You may not feel the full effect of lamotrigine for several weeks.
 - If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - Swallow lamotrigine tablets whole.
-- If you have trouble swallowing lamotrigine tablets, there may be another form of lamotrigine you can take.
+- If you have trouble swallowing lamotrigine tablets, tell your healthcare provider because there may be another form of lamotrigine you can take.
 - If you receive lamotrigine in a blisterpack, examine the blister pack before use.
   Do not use if blisters are torn, broken, or missing.
 
@@ -171,8 +198,14 @@ What are possible side effects of lamotrigine?
 
 Common side effects of lamotrigine include:
 
-| • dizziness • headache • blurred or double vision • lack of coordination • sleepiness • nausea, vomiting • insomnia | • tremor • rash • fever • abdominal pain • back pain • tiredness • dry mouth |
+| • dizziness | • tremor |
 | --- | --- |
+| • headache | • rash |
+| • blurred or double vision | • fever |
+| • lack of coordination | • abdominal pain |
+| • sleepiness | • back pain |
+| • nausea, vomiting | • tiredness |
+| • insomnia | • dry mouth |
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
@@ -203,7 +236,7 @@ For more information, call 1-269-544-2299.
 
 What are the ingredients in lamotrigine?
 
-Lamotrigine Tablets
+Lamotrigine Tablets, USP
 
 Active ingredient: lamotrigine, USP.
 

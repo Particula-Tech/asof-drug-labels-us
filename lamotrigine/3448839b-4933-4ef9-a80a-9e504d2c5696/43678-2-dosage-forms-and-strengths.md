@@ -13,4 +13,4 @@
 ## 3.4 Potential Medication Errors
 
 Patients should be strongly advised to visually inspect their tablets to verify that they are receiving lamotrigine as well as the correct formulation of lamotrigine each time they fill their prescription.
-Depictions of the Lamotrigine Tablets can be found in the Medication Guide that accompanies the product.
+Depictions of the Lamotrigine Tablets, USP can be found in the Medication Guide that accompanies the product.
