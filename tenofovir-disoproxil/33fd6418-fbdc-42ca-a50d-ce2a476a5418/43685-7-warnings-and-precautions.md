@@ -42,7 +42,7 @@ It is also recommended that all patients with HIV-1 be tested for the presence o
 
 ## 5.6 Decreases in Bone Mineral Density
 
-Assessment of bone mineral density (BMD) should be considered for adults and pediatric patients 12 years of age and older who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
+Assessment of bone mineral density (BMD) should be considered for adults and pediatric patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
 Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial for all patients.
 If bone abnormalities are suspected then appropriate consultation should be obtained.
 
@@ -56,13 +56,17 @@ In addition, there were significant increases in biochemical markers of bone met
 Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in the VIREAD group.
 Except for bone specific alkaline phosphatase, these changes resulted in values that remained within the normal range.
 
-In a clinical trial of HIV-1 infected pediatric subjects 12 years of age and older (Study 321), bone effects were similar to adult subjects.
-Under normal circumstances BMD increases rapidly in this age group.
-In this trial, the mean rate of bone gain was less in the VIREAD-treated group compared to the placebo group.
-Six VIREAD treated subjects and one placebo treated subject had significant (greater than 4%) lumbar spine BMD loss at 48 weeks.
-Among 28 subjects receiving 96 weeks of VIREAD, Z-scores declined by -0.341 for lumbar spine and -0.458 for total body.
-Skeletal growth (height) appeared to be unaffected.
-Markers of bone turnover in VIREAD-treated pediatric subjects 12 years of age and older suggest increased bone turnover, consistent with the effects observed in adults.
+In clinical trials evaluating VIREAD in HIV-1 infected pediatric subjects 2 to less than 18 years of age, bone effects were similar to those observed in adult subjects.
+Under normal circumstances BMD increases rapidly in pediatric patients.
+In Study 352 (2 to less than 12 years), the mean rate of BMD gain in lumbar spine at Week 48 was similar between the VIREAD and the d4T or AZT treatment groups.
+Total body BMD gain was less in the VIREAD compared to the d4T or AZT treatment group.
+One VIREAD-treated subject and none of the d4T or AZT-treated subjects experienced significant (greater than 4%) lumbar spine BMD loss at Week 48.
+Changes from baseline in BMD Z-scores were -0.012 for lumbar spine and -0.338 for total body in the 64 subjects who were treated with VIREAD for 96 weeks.
+In Study 321 (12 to less than 18 years), the mean rate of BMD gain at Week 48 was less in the VIREAD compared to the placebo treatment group.
+Six VIREAD treated subjects and one placebo treated subject had significant (greater than 4%) lumbar spine BMD loss at Week 48.
+Changes from baseline BMD Z-scores were -0.341 for lumbar spine and -0.458 for total body in the 28 subjects who were treated with VIREAD for 96 weeks.
+In both trials, skeletal growth (height) appeared to be unaffected.
+Markers of bone turnover in VIREAD-treated pediatric subjects suggest increased bone turnover, consistent with the effects observed in adults.
 
 The effects of VIREAD-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
 

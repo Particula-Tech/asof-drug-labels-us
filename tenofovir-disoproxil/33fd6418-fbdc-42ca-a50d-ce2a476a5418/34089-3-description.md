@@ -11,8 +11,14 @@ It has the following structural formula:
 Tenofovir disoproxil fumarate is a white to off-white crystalline powder with a solubility of 13.4 mg/mL in distilled water at 25 °C.
 It has an octanol/phosphate buffer (pH 6.5) partition coefficient (log p) of 1.25 at 25 °C.
 
-VIREAD tablets are for oral administration.
-Each tablet contains 300 mg of tenofovir disoproxil fumarate, which is equivalent to 245 mg of tenofovir disoproxil, and the following inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and pregelatinized starch.
-The tablets are coated with Opadry II Y–30–10671–A, which contains FD&C blue #2 aluminum lake, hydroxypropyl methylcellulose 2910, lactose monohydrate, titanium dioxide, and triacetin.
+VIREAD is available as tablets or as an oral powder.
+
+VIREAD tablets are for oral administration in strengths of 150, 200, 250, and 300 mg of tenofovir disoproxil fumarate, which are equivalent to 123, 163, 204 and 245 mg of tenofovir disoproxil, respectively.
+Each tablet contains the following inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and pregelatinized starch.
+The 300 mg tablets are coated with Opadry II Y–30–10671–A, which contains FD&C blue #2 aluminum lake, hypromellose 2910, lactose monohydrate, titanium dioxide, and triacetin.
+The 150, 200, and 250 mg tablets are coated with Opadry II 32K-18425, which contains hypromellose 2910, lactose monohydrate, titanium dioxide, and triacetin.
+
+VIREAD oral powder is available for oral administration as white, taste-masked, coated granules containing 40 mg of tenofovir disoproxil fumarate per gram of oral powder, which is equivalent to 33 mg of tenofovir disoproxil.
+The oral powder contains the following inactive ingredients: mannitol, hydroxypropyl cellulose, ethylcellulose, and silicon dioxide.
 
 In this insert, all dosages are expressed in terms of tenofovir disoproxil fumarate except where otherwise noted.

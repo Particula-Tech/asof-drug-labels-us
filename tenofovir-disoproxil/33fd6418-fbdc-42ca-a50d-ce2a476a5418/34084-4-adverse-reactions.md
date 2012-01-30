@@ -24,9 +24,9 @@ Treatment-Naïve Patients
 Study 903 - Treatment-Emergent Adverse Reactions: The most common adverse reactions seen in a double-blind comparative controlled trial in which 600 treatment-naïve subjects received VIREAD (N=299) or stavudine (N=301) in combination with lamivudine and efavirenz for 144 weeks (Study 903) were mild to moderate gastrointestinal events and dizziness.
 
 Mild adverse reactions (Grade 1) were common with a similar incidence in both arms, and included dizziness, diarrhea, and nausea.
-Selected treatment-emergent moderate to severe adverse reactions are summarized in Table 2.
+Selected treatment-emergent moderate to severe adverse reactions are summarized in Table 4.
 
-Table 2 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
+Table 4 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
 (Grades 2–4) Reported in ≥5% in Any Treatment Group in Study 903 (0–144 Weeks)
 
 |  | N=299 | N=301 |
@@ -61,9 +61,9 @@ Table 2 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reac
 | Rash eventRash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, and pustular rash. | 18% | 12% |
 
 Laboratory Abnormalities: With the exception of fasting cholesterol and fasting triglyceride elevations that were more common in the stavudine group (40% and 9%) compared with VIREAD (19% and 1%) respectively, laboratory abnormalities observed in this trial occurred with similar frequency in the VIREAD and stavudine treatment arms.
-A summary of Grade 3 and 4 laboratory abnormalities is provided in Table 3.
+A summary of Grade 3 and 4 laboratory abnormalities is provided in Table 5.
 
-Table 3 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Study 903 (0–144 Weeks)
+Table 5 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Study 903 (0–144 Weeks)
 
 |  | N=299 | N=301 |
 | --- | --- | --- |
@@ -79,9 +79,9 @@ Table 3 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated S
 | Fasting Triglycerides (>750 mg/dL) | 1% | 9% |
 
 Study 934 - Treatment Emergent Adverse Reactions: In Study 934, 511 antiretroviral-naïve subjects received either VIREAD + EMTRIVA® administered in combination with efavirenz (N=257) or zidovudine/lamivudine administered in combination with efavirenz (N=254).
-Adverse reactions observed in this trial were generally consistent with those seen in previous studies in treatment-experienced or treatment-naïve subjects (Table 4).
+Adverse reactions observed in this trial were generally consistent with those seen in previous studies in treatment-experienced or treatment-naïve subjects (Table 6).
 
-Table 4 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
+Table 6 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
 (Grades 2–4) Reported in ≥5% in Any Treatment Group in Study 934 (0–144 Weeks)
 
 |  | N=257 | N=254 |
@@ -106,9 +106,9 @@ Table 4 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reac
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash eventRash event includes rash, exfoliative rash, rash generalized, rash macular, rash maculopapular, rash pruritic, and rash vesicular. | 7% | 9% |
 
-Laboratory Abnormalities: Laboratory abnormalities observed in this trial were generally consistent with those seen in previous trials (Table 5).
+Laboratory Abnormalities: Laboratory abnormalities observed in this trial were generally consistent with those seen in previous trials (Table 7).
 
-Table 5 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in Any Treatment Group in Study 934 (0–144 Weeks)
+Table 7 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in Any Treatment Group in Study 934 (0–144 Weeks)
 
 |  | N=257 | N=254 |
 | --- | --- | --- |
@@ -132,9 +132,9 @@ Treatment-Experienced Patients
 Treatment-Emergent Adverse Reactions: The adverse reactions seen in treatment experienced subjects were generally consistent with those seen in treatment naïve subjects including mild to moderate gastrointestinal events, such as nausea, diarrhea, vomiting, and flatulence.
 Less than 1% of subjects discontinued participation in the clinical trials due to gastrointestinal adverse reactions (Study 907).
 
-A summary of moderate to severe, treatment-emergent adverse reactions that occurred during the first 48 weeks of Study 907 is provided in Table 6.
+A summary of moderate to severe, treatment-emergent adverse reactions that occurred during the first 48 weeks of Study 907 is provided in Table 8.
 
-Table 6 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
+Table 8 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
 (Grades 2–4) Reported in ≥3% in Any Treatment Group in Study 907 (0–48 Weeks)
 
 |  | VIREAD (N=368) (Week 0–24) | Placebo (N=182) (Week 0–24) | VIREAD (N=368) (Week 0–48) | Placebo Crossover to VIREAD (N=170) (Week 24–48) |
@@ -170,9 +170,9 @@ Table 6 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reac
 | Weight loss | 2% | 1% | 4% | 2% |
 
 Laboratory Abnormalities: Laboratory abnormalities observed in this trial occurred with similar frequency in the VIREAD and placebo-treated groups.
-A summary of Grade 3 and 4 laboratory abnormalities is provided in Table 7.
+A summary of Grade 3 and 4 laboratory abnormalities is provided in Table 9.
 
-Table 7 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Study 907 (0–48 Weeks)
+Table 9 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Study 907 (0–48 Weeks)
 
 |  | VIREAD (N=368) (Week 0–24) | Placebo (N=182) (Week 0–24) | VIREAD (N=368) (Week 0–48) | Placebo Crossover to VIREAD (N=170) (Week 24–48) |
 | --- | --- | --- | --- | --- |
@@ -186,12 +186,16 @@ Table 7 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated S
 | Serum Glucose (>250 U/L) | 2% | 4% | 3% | 3% |
 | Neutrophils (<750/mm3) | 1% | 1% | 2% | 1% |
 
-Clinical Trials in Pediatric Subjects 12 Years of Age and Older with HIV-1 Infection
+Clinical Trials in Pediatric Subjects 2 Years of Age and Older with HIV-1 Infection
 
-Assessment of adverse reactions is based on one randomized trial (Study 321) in 87 HIV-1 infected pediatric subjects (12 to less than 18 years of age) who received treatment with VIREAD (N=45) or placebo (N=42) in combination with other antiretroviral agents for 48 weeks.
+Assessment of adverse reactions is based on two randomized trials (Studies 352 and 321) in 184 HIV-1 infected pediatric subjects (2 to less than 18 years of age) who received treatment with VIREAD (N=93) or placebo/active comparator (N=91) in combination with other antiretroviral agents for 48 weeks.
 The adverse reactions observed in subjects who received treatment with VIREAD were consistent with those observed in clinical trials in adults.
 
-Bone effects observed in pediatric subjects 12 years of age and older were consistent with those observed in adult clinical trials [See Warnings and Precautions(5.6)].
+Bone effects observed in pediatric subjects 2 years of age and older were consistent with those observed in adult clinical trials [See Warnings and Precautions (5.6)].
+
+Eighty-nine pediatric subjects received VIREAD in Study 352 (48 who were initially randomized to VIREAD and 41 who were initially randomized to continue stavudine or zidovudine and then received VIREAD in the extension phase) for a median exposure of 104 weeks.
+Of these, 4 subjects discontinued from the trial due to adverse reactions consistent with proximal renal tubulopathy.
+Three of these 4 subjects presented with hypophosphatemia and also had decreases in total body or spine BMD Z score [See Warnings and Precautions (5.6)].
 
 Clinical Trials in Adult Subjects with Chronic Hepatitis B and Compensated Liver Disease
 
@@ -201,10 +205,10 @@ Other treatment-emergent adverse reactions reported in more than 5% of subjects 
 During the open-label phase of treatment with VIREAD (weeks 48–192) in Studies 0102 and 0103, less than 1% of subjects (5/585) experienced a confirmed increase in serum creatinine of 0.5 mg/dL from baseline.
 No significant change in the tolerability profile was observed with continued treatment for up to 192 weeks.
 
-Laboratory Abnormalities: A summary of Grade 3 and 4 laboratory abnormalities through Week 48 is provided in Table 8.
+Laboratory Abnormalities: A summary of Grade 3 and 4 laboratory abnormalities through Week 48 is provided in Table 10.
 Grade 3/4 laboratory abnormalities were similar in subjects continuing VIREAD treatment for up to 192 weeks in these trials.
 
-Table 8 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Studies 0102 and 0103 (0–48 Weeks)
+Table 10 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Studies 0102 and 0103 (0–48 Weeks)
 
 |  | VIREAD (N=426) | HEPSERA (N=215) |
 | --- | --- | --- |
@@ -220,13 +224,13 @@ ALT flares generally occurred within the first 4–8 weeks of treatment and were
 No subject had evidence of decompensation.
 ALT flares typically resolved within 4 to 8 weeks without changes in study medication.
 
-Clinical Trial in Adult Subjects with Chronic Hepatitis B and Decompensated Liver Disease
+Clinical Trials in Adult Subjects with Chronic Hepatitis B and Decompensated Liver Disease
 
-In a small randomized, double-blind, active-controlled trial (0108), subjects with CHB and decompensated liver disease received treatment with VIREAD or other antiviral drugs for up to 48 weeks [see Clinical Studies (14.2)].
+In a small randomized, double-blind, active-controlled trial (0108), subjects with CHB and decompensated liver disease received treatment with VIREAD or other antiviral drugs for up to 48 weeks [See Clinical Studies (14.2)].
 Among the 45 subjects receiving VIREAD, the most frequently reported treatment-emergent adverse reactions of any severity were abdominal pain (22%), nausea (20%), insomnia (18%), pruritus (16%), vomiting (13%), dizziness (13%), and pyrexia (11%).
 Two of 45 (4%) subjects died through Week 48 of the trial due to progression of liver disease.
 Three of 45 (7%) subjects discontinued treatment due to an adverse event.
-Four of 45 (9%) subjects experienced a confirmed increase in serum creatinine of 0.5 mg/dL (1 subject also had a confirmed serum phosphorus less than 2mg/dL through Week 48).
+Four of 45 (9%) subjects experienced a confirmed increase in serum creatinine of 0.5 mg/dL (1 subject also had a confirmed serum phosphorus less than 2 mg/dL through Week 48).
 Three of these subjects (each of whom had a Child-Pugh score greater than or equal to 10 and MELD score greater than or equal to 14 at entry) developed renal failure.
 Because both VIREAD and decompensated liver disease may have an impact on renal function, the contribution of VIREAD to renal impairment in this population is difficult to ascertain.
 

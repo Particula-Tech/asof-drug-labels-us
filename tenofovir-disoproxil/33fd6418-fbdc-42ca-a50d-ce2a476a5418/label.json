@@ -1,13 +1,23 @@
 {
   "application_numbers": [
-    "NDA021356"
+    "NDA021356",
+    "NDA022577"
   ],
   "inn": "tenofovir-disoproxil",
   "labeler": "Gilead Sciences, Inc.",
   "package_ndcs": [
-    "61958-0401-1"
+    "61958-0401-1",
+    "61958-0403-1",
+    "61958-0404-1",
+    "61958-0405-1",
+    "61958-0406-1"
   ],
   "products": [
+    {
+      "form": "POWDER",
+      "generic": "tenofovir disoproxil fumarate",
+      "name": "VIREAD"
+    },
     {
       "form": "TABLET, COATED",
       "generic": "tenofovir disoproxil fumarate",

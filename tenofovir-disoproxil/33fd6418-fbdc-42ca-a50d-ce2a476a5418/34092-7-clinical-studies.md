@@ -11,9 +11,9 @@ Subjects had a mean age of 36 years (range 18–64), 74% were male, 64% were Cau
 The mean baseline CD4+ cell count was 279 cells/mm3 (range 3–956) and median baseline plasma HIV-1 RNA was 77,600 copies/mL (range 417–5,130,000).
 Subjects were stratified by baseline HIV-1 RNA and CD4+ cell count.
 Forty-three percent of subjects had baseline viral loads >100,000 copies/mL and 39% had CD4+ cell counts <200 cells/mm3.
-Treatment outcomes through 48 and 144 weeks are presented in Table 15.
+Treatment outcomes through 48 and 144 weeks are presented in Table 18.
 
-Table 15 Outcomes of Randomized Treatment at Week 48 and 144 (Study 903)
+Table 18 Outcomes of Randomized Treatment at Week 48 and 144 (Study 903)
 
 | Outcomes | VIREAD+3TC +EFV (N=299) | d4T+3TC +EFV (N=301) | VIREAD+3TC +EFV (N=299) | d4T+3TC +EFV (N=301) |
 | --- | --- | --- | --- | --- |
@@ -40,9 +40,9 @@ From Weeks 96 to 144 of the trial, subjects received a fixed-dose combination of
 Subjects had a mean age of 38 years (range 18–80), 86% were male, 59% were Caucasian and 23% were Black.
 The mean baseline CD4+ cell count was 245 cells/mm3 (range 2–1191) and median baseline plasma HIV-1 RNA was 5.01 log10 copies/mL (range 3.56–6.54).
 Subjects were stratified by baseline CD4+ cell count (< or ≥200 cells/mm3); 41% had CD4+ cell counts <200 cells/mm3 and 51% of subjects had baseline viral loads >100,000 copies/mL.
-Treatment outcomes through 48 and 144 weeks for those subjects who did not have efavirenz resistance at baseline are presented in Table 16.
+Treatment outcomes through 48 and 144 weeks for those subjects who did not have efavirenz resistance at baseline are presented in Table 19.
 
-Table 16 Outcomes of Randomized Treatment at Week 48 and 144 (Study 934)
+Table 19 Outcomes of Randomized Treatment at Week 48 and 144 (Study 934)
 
 | FTC +VIREAD +EFV (N=244) | AZT/3TC +EFV (N=243) | FTC +VIREAD +EFV (N=227)Subjects who were responders at Week 48 or Week 96 (HIV-1 RNA <400 copies/mL) but did not consent to continue the trial after Week 48 or Week 96 were excluded from analysis. | AZT/3TC +EFV (N=229) |  |
 | --- | --- | --- | --- | --- |
@@ -72,9 +72,9 @@ After 24 weeks of blinded trial treatment, all subjects continuing on trial were
 Subjects had a mean baseline CD4+ cell count of 427 cells/mm3 (range 23–1385), median baseline plasma HIV-1 RNA of 2340 (range 50–75,000) copies/mL, and mean duration of prior HIV-1 treatment was 5.4 years.
 Mean age of the subjects was 42 years, 85% were male and 69% were Caucasian, 17% Black and 12% Hispanic.
 
-The percent of subjects with HIV-1 RNA <400 copies/mL and outcomes of subjects through 48 weeks are summarized in Table 17.
+The percent of subjects with HIV-1 RNA <400 copies/mL and outcomes of subjects through 48 weeks are summarized in Table 20.
 
-Table 17 Outcomes of Randomized Treatment (Study 907)
+Table 20 Outcomes of Randomized Treatment (Study 907)
 
 | VIREAD (N=368) | Placebo (N=182) | VIREAD (N=368) | Placebo Crossover to VIREAD (N=170) |  |
 | --- | --- | --- | --- | --- |
@@ -106,9 +106,9 @@ At baseline, subjects had a mean Knodell necroinflammatory score of 8.4; mean pl
 
 The primary data analysis was conducted after all subjects reached 48 weeks of treatment and results are summarized below.
 
-The primary efficacy endpoint in both trials was complete response to treatment defined as HBV DNA <400 copies/mL and Knodell necroinflammatory score improvement of at least 2 points, without worsening in Knodell fibrosis at Week 48 (Table 18).
+The primary efficacy endpoint in both trials was complete response to treatment defined as HBV DNA <400 copies/mL and Knodell necroinflammatory score improvement of at least 2 points, without worsening in Knodell fibrosis at Week 48 (Table 21).
 
-Table 18 Histological, Virological, Biochemical, and Serological Response at Week 48
+Table 21 Histological, Virological, Biochemical, and Serological Response at Week 48
 
 |  | VIREAD (N=250) | HEPSERA (N=125) | VIREAD (N=176) | HEPSERA (N=90) |
 | --- | --- | --- | --- | --- |
@@ -121,7 +121,7 @@ Table 18 Histological, Virological, Biochemical, and Serological Response at Wee
 | Serology HBeAg Loss/Seroconversion | NANA = Not Applicable | NA | 20%/19% | 16%/16% |
 | HBsAg Loss/Seroconversion | 0/0 | 0/0 | 3%/1% | 0/0 |
 
-Treatment beyond 48 Weeks
+Treatment Beyond 48 Weeks
 
 In Studies 0102 (HBeAg-negative) and 0103 (HBeAg-positive), subjects rolled over with no interruption in treatment to open-label VIREAD after receiving double-blind treatment for 48 weeks (either VIREAD or HEPSERA).
 

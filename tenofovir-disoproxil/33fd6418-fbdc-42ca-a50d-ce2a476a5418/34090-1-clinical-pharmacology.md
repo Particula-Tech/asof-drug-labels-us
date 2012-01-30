@@ -17,6 +17,9 @@ Following oral administration of a single dose of VIREAD 300 mg to HIV-1 infecte
 
 The pharmacokinetics of tenofovir are dose proportional over a VIREAD dose range of 75 to 600 mg and are not affected by repeated dosing.
 
+In a single-dose bioequivalence study conducted under non-fasted conditions (dose administered with 4 oz. applesauce) in healthy adult volunteers, the mean Cmax of tenofovir was 26% lower for the oral powder relative to the tablet formulation.
+Mean AUC of tenofovir was similar between the oral powder and tablet formulations.
+
 Distribution
 
 In vitro binding of tenofovir to human plasma or serum proteins is less than 0.7 and 7.2%, respectively, over the tenofovir concentration range 0.01 to 25 µg/mL.
@@ -35,7 +38,7 @@ There may be competition for elimination with other compounds that are also rena
 
 Effects of Food on Oral Absorption
 
-Administration of VIREAD following a high-fat meal (~700 to 1000 kcal containing 40 to 50% fat) increases the oral bioavailability, with an increase in tenofovir AUC0–∞ of approximately 40% and an increase in Cmax of approximately 14%.
+Administration of VIREAD 300 mg tablets following a high-fat meal (~700 to 1000 kcal containing 40 to 50% fat) increases the oral bioavailability, with an increase in tenofovir AUC0–∞ of approximately 40% and an increase in Cmax of approximately 14%.
 However, administration of VIREAD with a light meal did not have a significant effect on the pharmacokinetics of tenofovir when compared to fasted administration of the drug.
 Food delays the time to tenofovir Cmax by approximately 1 hour.
 Cmax and AUC of tenofovir are 0.33 ± 0.12 µg/mL and 3.32 ± 1.37 µg∙hr/mL following multiple doses of VIREAD 300 mg once daily in the fed state, when meal content was not controlled.
@@ -46,19 +49,24 @@ Race: There were insufficient numbers from racial and ethnic groups other than C
 
 Gender: Tenofovir pharmacokinetics are similar in male and female subjects.
 
-Pediatric Patients 12 Years of Age and Older: Steady-state pharmacokinetics of tenofovir were evaluated in 8 HIV-1 infected pediatric subjects (12 to less than 18 years).
-Mean (± SD) Cmax and AUCtau are 0.38 ± 0.13 µg/mL and 3.39 ± 1.22 µg∙hr/mL, respectively.
-Tenofovir exposure achieved in these pediatric subjects receiving oral daily doses of VIREAD 300 mg was similar to exposures achieved in adults receiving once-daily doses of VIREAD 300 mg.
+Pediatric Patients 2 Years of Age and Older: Steady-state pharmacokinetics of tenofovir were evaluated in 31 HIV-1 infected pediatric subjects 2 to less than 18 years (Table 11).
+Tenofovir exposure achieved in these pediatric subjects receiving oral once daily doses of VIREAD 300 mg (tablet) or 8 mg/kg of body weight (powder) up to a maximum dose of 300 mg was similar to exposures achieved in adults receiving once-daily doses of VIREAD 300 mg.
 
-Pharmacokinetic trials have not been performed in pediatric subjects under 12 years of age.
+Table 11 Mean (± SD) Tenofovir Pharmacokinetic Parameters by Age Groups for Pediatric Patients
+
+|  | 12 to <18 Year (N=8) | 2 to <12 Years (N=23) |
+| --- | --- | --- |
+| Dose and Formulation | 300 mg Tablet | 8 mg/kg Oral Powder |
+| Cmax (µg/mL) | 0.38 ± 0.13 | 0.24 ± 0.13 |
+| AUCtau (µg∙hr/mL) | 3.39 ± 1.22 | 2.59 ± 1.06 |
 
 Geriatric Patients: Pharmacokinetic trials have not been performed in the elderly (65 years and older).
 
 Patients with Impaired Renal Function: The pharmacokinetics of tenofovir are altered in subjects with renal impairment [See Warnings and Precautions (5.3)].
-In subjects with creatinine clearance below 50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax, and AUC0–∞ of tenofovir were increased (Table 9).
+In subjects with creatinine clearance below 50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax, and AUC0–∞ of tenofovir were increased (Table 12).
 It is recommended that the dosing interval for VIREAD be modified in patients with creatinine clearance below 50 mL/min or in patients with ESRD who require dialysis [See Dosage and Administration (2.3)].
 
-Table 9 Pharmacokinetic Parameters (Mean ± SD) of Tenofovir300 mg, single dose of VIREAD in Subjects with Varying Degrees of Renal Function
+Table 12 Pharmacokinetic Parameters (Mean ± SD) of Tenofovir300 mg, single dose of VIREAD in Subjects with Varying Degrees of Renal Function
 
 | Baseline Creatinine Clearance (mL/min) | >80 (N=3) | 50–80 (N=10) | 30–49 (N=8) | 12–29 (N=11) |
 | --- | --- | --- | --- | --- |
@@ -78,12 +86,12 @@ Assessment of Drug Interactions
 
 At concentrations substantially higher (~300-fold) than those observed in vivo, tenofovir did not inhibit in vitro drug metabolism mediated by any of the following human CYP isoforms: CYP3A4, CYP2D6, CYP2C9, or CYP2E1.
 However, a small (6%) but statistically significant reduction in metabolism of CYP1A substrate was observed.
-Based on the results of in vitro experiments and the known elimination pathway of tenofovir, the potential for CYP mediated interactions involving tenofovir with other medicinal products is low [See Clinical Pharmacology (12.3)].
+Based on the results of in vitro experiments and the known elimination pathway of tenofovir, the potential for CYP mediated interactions involving tenofovir with other medicinal products is low.
 
 VIREAD has been evaluated in healthy volunteers in combination with abacavir, atazanavir, didanosine, efavirenz, emtricitabine, entecavir, indinavir, lamivudine, lopinavir/ritonavir, methadone, nelfinavir, oral contraceptives, ribavirin, saquinavir/ritonavir, and tacrolimus.
-Tables 10 and 11 summarize pharmacokinetic effects of coadministered drug on tenofovir pharmacokinetics and effects of VIREAD on the pharmacokinetics of coadministered drug.
+Tables 13 and 14 summarize pharmacokinetic effects of coadministered drug on tenofovir pharmacokinetics and effects of VIREAD on the pharmacokinetics of coadministered drug.
 
-Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirSubjects received VIREAD 300 mg once daily. in the Presence of the Coadministered Drug
+Table 13 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirSubjects received VIREAD 300 mg once daily. in the Presence of the Coadministered Drug
 
 | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -104,7 +112,7 @@ Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirS
 
 Following multiple dosing to HIV- and HBV-negative subjects receiving either chronic methadone maintenance therapy or oral contraceptives, or single doses of ribavirin, steady state tenofovir pharmacokinetics were similar to those observed in previous trials, indicating lack of clinically significant drug interactions between these agents and VIREAD.
 
-Table 11 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of VIREAD
+Table 14 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of VIREAD
 
 | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -128,13 +136,13 @@ Table 11 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | Ritonavir |  |  | ↑ 23 (↑ 3 to ↑ 46) |  |  |
 | Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 |  |  |  |
 
-Table 12 summarizes the drug interaction between VIREAD and didanosine.
+Table 15 summarizes the drug interaction between VIREAD and didanosine.
 Coadministration of VIREAD and didanosine should be undertaken with caution [See Drug Interactions (7.1)].
 When administered with multiple doses of VIREAD, the Cmax and AUC of didanosine 400 mg increased significantly.
 The mechanism of this interaction is unknown.
 When didanosine 250 mg enteric-coated capsules were administered with VIREAD, systemic exposures to didanosine were similar to those seen with the 400 mg enteric-coated capsules alone under fasted conditions.
 
-Table 12 Drug Interactions: Pharmacokinetic Parameters for Didanosine in the Presence of VIREAD
+Table 15 Drug Interactions: Pharmacokinetic Parameters for Didanosine in the Presence of VIREAD
 
 | Cmax | AUC |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -180,7 +188,7 @@ In Study 934 of treatment-naïve subjects (VIREAD + EMTRIVA + efavirenz versus z
 The M184V substitution, associated with resistance to EMTRIVA and lamivudine, was observed in 2/19 analyzed subject isolates in the VIREAD + EMTRIVA group and in 10/29 analyzed subject isolates in the zidovudine/lamivudine group.
 Through 144 weeks of Study 934, no subjects have developed a detectable K65R substitution in their HIV-1 as analyzed through standard genotypic analysis.
 
-Cross Resistance
+Cross-Resistance
 
 Cross-resistance among certain reverse transcriptase inhibitors has been recognized.
 The K65R substitution selected by tenofovir is also selected in some HIV-1 infected subjects treated with abacavir, didanosine, or zalcitabine.
@@ -209,9 +217,9 @@ HIV-1 RNA responses among these subjects were durable through Week 48.
 Studies 902 and 907 Phenotypic Analyses
 
 Phenotypic analysis of baseline HIV-1 from treatment-experienced subjects (N=100) demonstrated a correlation between baseline susceptibility to VIREAD and response to VIREAD therapy.
-Table 13 summarizes the HIV-1 RNA response by baseline VIREAD susceptibility.
+Table 16 summarizes the HIV-1 RNA response by baseline VIREAD susceptibility.
 
-Table 13 HIV-1 RNA Response at Week 24 by Baseline VIREAD Susceptibility (Intent-To-Treat)Tenofovir susceptibility was determined by recombinant phenotypic Antivirogram assay (Virco).
+Table 16 HIV-1 RNA Response at Week 24 by Baseline VIREAD Susceptibility (Intent-To-Treat)Tenofovir susceptibility was determined by recombinant phenotypic Antivirogram assay (Virco).
 
 | Baseline VIREAD SusceptibilityFold change in susceptibility from wild-type. | Change in HIV-1 RNAAverage HIV-1 RNA change from baseline through Week 24 (DAVG24) in log10 copies/mL. (N) |
 | --- | --- |
@@ -233,26 +241,26 @@ Resistance
 Cumulative VIREAD genotypic resistance has been evaluated annually for up to 192 weeks in Studies 0102, 0103, 0106, and 0108 with the paired HBV reverse transcriptase amino acid sequences of the pre-treatment and on-treatment isolates from subjects who received at least 24 weeks of VIREAD monotherapy and remained viremic with HBV DNA greater than or equal to 400 copies/mL at the end of each study year (or at discontinuation of VIREAD monotherapy) using an as-treated analysis.
 In the nucleotide-naïve population from Studies 0102 and 0103, HBeAg-positive subjects had a higher baseline viral load than HBeAg-negative subjects and a significantly higher proportion of the subjects remained viremic at their last time point on VIREAD monotherapy (14% versus 4.1%, respectively).
 
-HBV isolates from these subjects who remained viremic showed treatment-emergent substitutions (Table 14); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to VIREAD (genotypic and phenotypic analyses).
+HBV isolates from these subjects who remained viremic showed treatment-emergent substitutions (Table 17); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to VIREAD (genotypic and phenotypic analyses).
 
-Table 14 Amino Acid Substitutions in Viremic Subjects across HBV Trials of VIREAD
+Table 17 Amino Acid Substitutions in Viremic Subjects across HBV Trials of VIREAD
 
-|  | Nucleotide-Naïve (N=417)Nucleotide-naïve subjects from Studies 0102 (n=246) and 0103 (n=171) receiving up to 192 weeks of treatment with VIREAD. | HEPSERA-experienced (N=247)HEPSERA-experienced subjects from Studies 0102/0103 (n=195) and 0106 (n=52) receiving up to 168 weeks of treatment with VIREAD after switching to VIREAD from HEPSERA. Study 0106, a randomized, double-blind, 168-week Phase 2 trial, has been completed. |  |
+|  | Nucleotide-Naïve (N=417)Nucleotide-naïve subjects from Studies 0102 (N=246) and 0103 (N=171) receiving up to 192 weeks of treatment with VIREAD. | HEPSERA-experienced (N=247)HEPSERA-experienced subjects from Studies 0102/0103 (N=195) and 0106 (N=52) receiving up to 168 weeks of treatment with VIREAD after switching to VIREAD from HEPSERA. Study 0106, a randomized, double-blind, 168-week Phase 2 trial, has been completed. |  |
 | --- | --- | --- | --- |
-|  | Compensated Liver Disease |  | Decompensated Liver Disease (N=39)Subjects with decompensated liver disease from Study 0108 (n=39) receiving up to 48 weeks of treatment with VIREAD. |
+|  | Compensated Liver Disease |  | Decompensated Liver Disease (N=39)Subjects with decompensated liver disease from Study 0108 (N=39) receiving up to 48 weeks of treatment with VIREAD. |
 | Viremic at Last Time Point on VIREAD | 34/417 (8%) | 32/247 (13%) | 7/39 (18%) |
 | Treatment-Emergent Amino Acid SubstitutionsDenominator includes those subjects who were viremic at last time point on VIREAD monotherapy and had evaluable paired genotypic data. | 17Of the 17 subjects with treatment-emergent amino acid substitutions during Studies 0102 and 0103, 8 subjects had only transient substitutions that were not detected at the last time point on VIREAD./31 (55%) | 10/27 (37%) | 3/5 (60%) |
 
-Cross Resistance
+Cross-Resistance
 
-Cross resistance has been observed between HBV nucleoside/nucleotide analogue reverse transcriptase inhibitors.
+Cross-resistance has been observed between HBV nucleoside/nucleotide analogue reverse transcriptase inhibitors.
 
 In cell based assays, HBV strains expressing the rtV173L, rtL180M, and rtM204I/V substitutions associated with resistance to lamivudine and telbivudine showed a susceptibility to tenofovir ranging from 0.7 to 3.4-fold that of wild type virus.
 The rtL180M and rtM204I/V double substitutions conferred 3.4-fold reduced susceptibility to tenofovir.
 
 HBV strains expressing the rtL180M, rtT184G, rtS202G/I, rtM204V, and rtM250V substitutions associated with resistance to entecavir showed a susceptibility to tenofovir ranging from 0.6 to 6.9-fold that of wild type virus.
 
-HBV strains expressing the adefovir resistance-associated substitutions rtA181V and/or rtN236T showed reductions in susceptibility to tenofovir ranging from 2.9- to 10-fold that of wild type virus.
+HBV strains expressing the adefovir resistance-associated substitutions rtA181V and/or rtN236T showed reductions in susceptibility to tenofovir ranging from 2.9 to 10-fold that of wild type virus.
 Strains containing the rtA181T substitution showed changes in susceptibility to tenofovir ranging from 0.9 to 1.5-fold that of wild type virus.
 
 Thirty-one subjects initiating VIREAD therapy in Studies 0102, 0103, 0106, and 0108 harbored HBV with known resistance substitutions to HBV nucleos(t)ide analogue reverse transcriptase inhibitors: 14 with adefovir resistance-associated substitutions (rtA181T/V and/or rtN236T), 15 with lamivudine resistance-associated substitutions (rtM204I/V), and 2 with both adefovir and lamivudine resistance-associated substitutions.
