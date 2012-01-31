@@ -1,11 +1,14 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Fetal/Neonatal Morbidity and Mortality
+## 5.1 Fetal Toxicity
 
-AVALIDE can cause fetal harm when administered to a pregnant woman.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
-In several dozen published cases, angiotensin-converting enzyme (ACE) inhibitor use during the second and third trimesters of pregnancy was associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
-Similar renal findings occur in reproductive toxicology studies in rats.
+### Pregnancy Category D
+
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
+Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
+When pregnancy is detected, discontinue AVALIDE as soon as possible [see Use in Specific Populations (8.1)].
+
 Thiazides cross the placenta, and use of thiazides during pregnancy is associated with a risk of fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
 
 ## 5.2 Hypotension in Volume- or Salt-Depleted Patients

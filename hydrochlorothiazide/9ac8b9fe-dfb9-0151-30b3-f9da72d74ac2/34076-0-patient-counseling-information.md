@@ -2,9 +2,9 @@
 
 ## 17.1 Pregnancy
 
-Female patients of childbearing age should be told that use of drugs like AVALIDE during the second or third trimesters of pregnancy can cause serious problems in the fetus and infant including: low blood pressure, poor development of skull bones, kidney failure, and death.
-These effects have not occurred with drug exposure limited to the first trimester.
-Women using AVALIDE who become pregnant should notify their physician as soon as possible.
+Female patients of childbearing age should be told about the consequences of exposure to AVALIDE during pregnancy.
+Discuss treatment options with women planning to become pregnant.
+Patients should be asked to report pregnancies to their physician as soon as possible.
 
 ## 17.2 Symptomatic Hypotension
 
