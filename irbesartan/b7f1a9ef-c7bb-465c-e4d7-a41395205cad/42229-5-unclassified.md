@@ -1,3 +1,3 @@
 Distributed by: Bristol-Myers Squibb Sanofi-Synthelabo Partnership New York, NY 10016
 
-1192327A6 1192328A6 Rev December 2011
+1192327A7 1192328A7 Rev January 2012
