@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-LAMOTRIGINE is contraindicated in patients who have demonstrated hypersensitivity to the drug or its ingredients [see Boxed Warning].
+Lamotrigine is contraindicated in patients who have demonstrated hypersensitivity to the drug or its ingredients [see Boxed Warning, Warnings and Precautions (5.1), (5.2)].

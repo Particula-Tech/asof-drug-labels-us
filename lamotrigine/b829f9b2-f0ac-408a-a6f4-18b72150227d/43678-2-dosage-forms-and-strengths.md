@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-## 3.1 Tablets
+## 3.1 Lamotrigine Tablets, USP
 
 25 mg, round, white tablets, scored on one side, embossed with "TARO" on one side and on the other side "LMT" above score and "25" below the score.
 
@@ -12,5 +12,5 @@
 
 ## 3.4 Potential Medication Errors
 
-Patients should be strongly advised to visually inspect their tablets to verify that they are receiving LAMOTRIGINE as well as the correct formulation of LAMOTRIGINE each time they fill their prescription.
-Depictions of the LAMOTRIGINE Tablets can be found in the Medication Guide that accompanies the product.
+Patients should be strongly advised to visually inspect their tablets to verify that they are receiving lamotrigine as well as the correct formulation of lamotrigine each time they fill their prescription.
+Depictions of the Lamotrigine Tablets can be found in the Medication Guide that accompanies the product.

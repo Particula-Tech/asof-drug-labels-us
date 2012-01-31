@@ -31,36 +31,33 @@ Dosage adjustments may be necessary to maintain clinical response.
 
 Pregnancy Exposure Registry:
 
-To provide information regarding the effects of in utero exposure to LAMOTRIGINE, physicians are advised to recommend that pregnant patients taking LAMOTRIGINE enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
+To provide information regarding the effects of in utero exposure to lamotrigine, physicians are advised to recommend that pregnant patients taking lamotrigine enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+This can be done by calling the toll-free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
-
-Physicians are also encouraged to register patients in the Lamotrigine Pregnancy Registry; enrollment in this registry must be done prior to any prenatal diagnostic tests and before fetal outcome is known.
-Physicians can obtain information by calling the Lamotrigine Pregnancy Registry at 1-800-336-2176 (toll-free).
 
 ## 8.2 Labor and Delivery
 
-The effect of LAMOTRIGINE on labor and delivery in humans is unknown.
+The effect of lamotrigine on labor and delivery in humans is unknown.
 
 ## 8.3 Nursing Mothers
 
 Preliminary data indicate that lamotrigine passes into human milk.
-Because the effects on the infant exposed to lamotrigine by this route are unknown, breastfeeding while taking LAMOTRIGINE is not recommended.
+Because the effects on the infant exposed to lamotrigine by this route are unknown, breastfeeding while taking lamotrigine is not recommended.
 
 ## 8.4 Pediatric Use
 
-LAMOTRIGINE is indicated for adjunctive therapy in patients ≥2 years of age for partial seizures, and the generalized seizures of Lennox-Gastaut syndrome.
+Lamotrigine is indicated for adjunctive therapy in patients ≥2 years of age for partial seizures, the generalized seizures of Lennox-Gastaut syndrome, and primary generalized tonic-clonic seizures.
 
-Safety and efficacy of LAMOTRIGINE, used as adjunctive treatment for partial seizures, were not demonstrated in a small randomized, double-blind, placebo-controlled, withdrawal study in very young pediatric patients (1 to 24 months).
-LAMOTRIGINE was associated with an increased risk for infectious adverse reactions (LAMOTRIGINE 37%, Placebo 5%), and respiratory adverse reactions (LAMOTRIGINE 26%, Placebo 5%).
+Safety and efficacy of lamotrigine, used as adjunctive treatment for partial seizures, were not demonstrated in a small randomized, double-blind, placebo-controlled, withdrawal study in very young pediatric patients (1 to 24 months).
+Lamotrigine was associated with an increased risk for infectious adverse reactions (Lamotrigine 37%, Placebo 5%), and respiratory adverse reactions (Lamotrigine 26%, Placebo 5%).
 Infectious adverse reactions included: bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
 
-Safety and effectiveness in patients below the age of 18 years with Bipolar Disorder has not been established.
+Safety and effectiveness in patients below the age of 18 years with Bipolar Disorder have not been established.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of LAMOTRIGINE for epilepsy and in Bipolar Disorder did not include sufficient numbers of subjects 65 years of age and over to determine whether they respond differently from younger subjects or exhibit a different safety profile than that of younger patients.
+Clinical studies of lamotrigine for epilepsy and in Bipolar Disorder did not include sufficient numbers of subjects 65 years of age and over to determine whether they respond differently from younger subjects or exhibit a different safety profile than that of younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 ## 8.6 Patients With Hepatic Impairment
@@ -76,6 +73,6 @@ Escalation and maintenance doses may be adjusted according to clinical response 
 Lamotrigine is metabolized mainly by glucuronic acid conjugation, with the majority of the metabolites being recovered in the urine.
 In a small study comparing a single dose of lamotrigine in patients with varying degrees of renal impairment with healthy volunteers, the plasma half-life of lamotrigine was significantly longer in the patients with renal impairment [see Clinical Pharmacology (12.3)].
 
-Initial doses of LAMOTRIGINE should be based on patients' AED regimen; reduced maintenance doses may be effective for patients with significant renal impairment.
-Few patients with severe renal impairment have been evaluated during chronic treatment with LAMOTRIGINE.
-Because there is inadequate experience in this population, LAMOTRIGINE should be used with caution in these patients [see Dosage and Administration (2.1)].
+Initial doses of lamotrigine should be based on patients' AED regimens; reduced maintenance doses may be effective for patients with significant renal impairment.
+Few patients with severe renal impairment have been evaluated during chronic treatment with lamotrigine.
+Because there is inadequate experience in this population, lamotrigine should be used with caution in these patients [see Dosage and Administration (2.1)].
