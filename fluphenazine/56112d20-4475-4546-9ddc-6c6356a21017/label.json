@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA016727"
+  ],
   "inn": "fluphenazine",
-  "labeler": "Bristol-Myers Squibb Company",
+  "labeler": "E.R. Squibb & Sons, L.L.C.",
   "package_ndcs": [
     "0003-0569-02",
     "0003-0569-15"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "fluphenazine decanoate",
+      "name": "PROLIXIN DECANOATE"
+    }
+  ],
   "setid": "56112d20-4475-4546-9ddc-6c6356a21017",
   "source": "dailymed"
 }
