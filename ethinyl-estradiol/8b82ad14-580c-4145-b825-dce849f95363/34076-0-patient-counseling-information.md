@@ -1,3 +1,3 @@
-# INFORMATION FOR THE PATIENT:
+# INFORMATION FOR THE PATIENT
 
 See patient labeling printed below.

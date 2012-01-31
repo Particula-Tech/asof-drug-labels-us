@@ -1,6 +1,6 @@
-# INDICATIONS AND USAGE:
+# INDICATIONS AND USAGE
 
-Junel ™ 21 and Junel ™ Fe 28 are indicated for the prevention of pregnancy in women who elect to use oral contraceptives as a method of contraception.
+Junel® 21 and Junel ® Fe 28 are indicated for the prevention of pregnancy in women who elect to use oral contraceptives as a method of contraception.
 
 Oral contraceptives are highly effective.
 Table I lists the typical accidental pregnancy rates for users of combination oral contraceptives and other methods of contraception.
@@ -22,7 +22,7 @@ TABLE I LOWEST EXPECTED AND TYPICAL FAILURE RATES DURING THE FIRST YEAR OF CONTI
 | IUD progesterone T copper T 380A LNg 20 | 1.5 0.6 0.1 | 2.0 0.8 0.1 |
 | Condom without spermicides female male | 5 3 | 21 14 |
 | Cervical Cap with spermicidal cream or jelly nulliparous parous | 9 26 | 20 40 |
-| Periodic abstinence (all methods) | 1-9 | 25 |
+| Periodic abstinence (all methods) | 1 to 9 | 25 |
 | Withdrawal | 4 | 19 |
 | Female sterilization | 0.5 | 0.5 |
 | Male sterilization | 0.10 | 0.15 |

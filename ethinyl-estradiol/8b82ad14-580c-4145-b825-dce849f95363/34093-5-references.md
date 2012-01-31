@@ -1,9 +1,9 @@
-# REFERENCES:
+# REFERENCES
 
 1. Back DJ, Breckenridge AM, Crawford FE, Mclver M, Orme ML’E, Rowe PH and Smith E: Kinetics of norethindrone in women II.
    Singledose kinetics.
    Clin Pharmacol Ther 1978;24:448-453.
-2. Humpel M, Nieuwober B, Wendt H and Speck U: Investigations of pharmacokinetics of ethinyloestradiol to specific consideration of a possible first-pass effect in women.
+2. Humpel M, Nieuwober B, Wendt H and Speck U: Investigations of pharmacokinetics of ethinyl estradiol to specific consideration of a possible first pass effect in women.
    Contraception 1979;19:421-432.
 3. Back DJ, Breckenridge AM, Crawford FE, Maclver M, Orme ML’E, Rowe PH and Watts MJ.
    An investigation of the pharmacokinetics of ethynylestradiol in women using radioimmunoassay.

@@ -52,9 +52,9 @@ It does not protect against transmission of HIV (AIDS) and other sexually transm
 
 INSTRUCTIONS TO PATIENT
 
-Tablet Dispenser:
+Tablet Dispenser
 
-The Junel ™ tablet dispenser has been designed to make oral contraceptive dosing as easy and as convenient as possible.
+The Junel ®tablet dispenser has been designed to make oral contraceptive dosing as easy and as convenient as possible.
 The tablets are arranged in either three or four rows of seven tablets each, with the days of the week appearing on the tablet dispenser above the first row of tablets.
 
 | If your tablet dispenser contains: | You are taking: |
@@ -71,7 +71,7 @@ Each pink tablet contains 1.5 mg norethindrone acetate and 30 mcg ethinyl estrad
 Each brown tablet contains 75 mg ferrous fumarate, and is intended to help you remember to take the tablets correctly.
 These brown tablets are not intended to have any health benefit.
 
-DIRECTIONS:
+DIRECTIONS
 
 To remove a tablet, press down on it with your thumb or finger.
 The tablet will drop through the back of the tablet dispenser.
@@ -104,8 +104,8 @@ BEFORE YOU START TAKING YOUR PILLS
 
 1. DECIDE WHAT TIME OF DAY YOU WANT TO TAKE YOUR PILL.
    It is important to take it at about the same time every day.
-2. LOOK AT YOUR PILL PACK TO SEE IF IT HAS 21 OR 28 PILLS: The 21-pill pack has 21 “active” light yellow or pink pills (with hormones) to take for 3 weeks, followed by 1 week without pills.
-   The 28-pill pack has 21 “active” light yellow or pink pills (with hormones) to take for 3 weeks, followed by 1 week of reminder brown pills (without hormones).
+2. LOOK AT YOUR PILL PACK TO SEE IF IT HAS 21 OR 28 PILLS: The 21 pill pack has 21 “active” light yellow or pink pills (with hormones) to take for 3 weeks, followed by 1 week without pills.
+   The 28 pill pack has 21 “active” light yellow or pink pills (with hormones) to take for 3 weeks, followed by 1 week of reminder brown pills (without hormones).
 3. ALSO FIND: 1) where on the pack to start taking pills, 2) in what order to take the pills.
    3) see Instructions for Use in the Combination Detailed Patient Labeling and Brief Summary.
 4. BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF BIRTH CONTROL (such as condoms or foam) to use as a back-up in case you miss pills.
@@ -117,7 +117,7 @@ You have a choice of which day to start taking your first pack of pills.
 Decide with your doctor or clinic which is the best day for you.
 Pick a time of day which will be easy to remember.
 
-DAY-1 START:
+DAY 1 START
 
 1. Pick the days of the week sticker that starts with the first day of your period.
    (This is the day you start bleeding or spotting, even if it is almost midnight when the bleeding begins.)
@@ -125,7 +125,7 @@ DAY-1 START:
 3. Take the first “active” light yellow or pink pill of the first pack during the first 24 hours of your period.
 4. You will not need to use a back-up method of birth control, since you are starting the pill at the beginning of your period.
 
-SUNDAY START:
+SUNDAY START
 
 1. Take the first “active” light yellow or pink pill of the first pack on the Sunday after your period starts, even if you are still bleeding.
    If your period begins on Sunday, start the pack that same day.
@@ -161,8 +161,8 @@ If you MISS 2 light yellow or pink “active” pills in a row in WEEK 1 OR WEEK
 
 If you MISS 2 light yellow or pink “active” pills in a row in THE 3rd WEEK:
 
-1. If you are a Day-1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
-   If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
+1. If you are a Day 1 Starter THROW OUT the rest of the pill pack and start a new pack that same day.
+   If you are a Sunday Starter Keep taking 1 pill every day until Sunday.
    On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
 2. You may not have your period this month, but this is expected.
    However, if you miss your period 2 months in a row, call your doctor or clinic because you might be pregnant.
@@ -171,15 +171,15 @@ If you MISS 2 light yellow or pink “active” pills in a row in THE 3rd WEEK:
 
 If you MISS 3 OR MORE light yellow or pink “active” pills in a row (during the first 3 weeks):
 
-1. If you are a Day-1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
-   If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
+1. If you are a Day 1 Starter THROW OUT the rest of the pill pack and start a new pack that same day.
+   If you are a Sunday Starter Keep taking 1 pill every day until Sunday.
    On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
 2. You may not have your period this month, but this is expected.
    However, if you miss your period 2 months in a row, call your doctor or clinic because you might be pregnant.
 3. You COULD GET PREGNANT if you have sex in the 7 days after you miss pills.
    You MUST use another birth control method (such as condoms or foam) as a back-up method of birth control until you have taken a light yellow or pink “active” pill every day for 7 days.
 
-A REMINDER FOR THOSE ON 28-DAY PACKS:
+A REMINDER FOR THOSE ON 28 DAY PACKS
 
 If you forget any of the 7 brown “reminder” pills in Week 4:
 
@@ -189,9 +189,9 @@ Keep taking 1 pill each day until the pack is empty.
 
 You do not need a back-up method.
 
-FINALLY, IF YOU ARE STILL NOT SURE WHAT TO DO ABOUT THE PILLS YOU HAVE MISSED:
+FINALLY, IF YOU ARE STILL NOT SURE WHAT TO DO ABOUT THE PILLS YOU HAVE MISSED
 
-Use a BACK-UP METHOD anytime you have sex.
+Use a BACKUP METHOD anytime you have sex.
 
 KEEP TAKING ONE LIGHT YELLOW OR PINK “ACTIVE” PILL EACH DAY until you can reach your doctor or clinic.
 
@@ -207,7 +207,7 @@ It does not protect against HIV infection (AIDS) and other sexually transmitted 
 
 # DETAILED PATIENT PACKAGE INSERT
 
-What You Should Know About Oral Contraceptives:
+What You Should Know About Oral Contraceptives
 
 Any woman who considers using oral contraceptives (the “birth control pills” or “the pill”) should understand the benefits and risks of using this form of birth control.
 This leaflet will give you much of the information you will need to make this decision and will also help you determine if you are at risk of developing any of the serious side effects of the pill.
@@ -234,7 +234,7 @@ In comparison, typical failure rates for other methods of birth control during t
 | Vaginal Sponge: 20 to 40% | Withdrawal: 19% |
 | Female sterilization: <1% | No method: 85% |
 
-WHO SHOULD NOT TAKE ORAL CONTRACEPTIVES:
+WHO SHOULD NOT TAKE ORAL CONTRACEPTIVES
 
 Some women should not use the pill.
 For example, you should not take the pill if you are pregnant or think you may be pregnant.
@@ -254,7 +254,7 @@ You should also not use the pill if you have any of the following conditions:
 Tell your health care provider if you have ever had any of these conditions.
 Your health care provider can recommend a safer method of birth control.
 
-OTHER CONSIDERATIONS BEFORE TAKING ORAL CONTRACEPTIVES:
+OTHER CONSIDERATIONS BEFORE TAKING ORAL CONTRACEPTIVES
 
 Tell your health care provider if you have:
 
@@ -271,34 +271,34 @@ Women with any of these conditions should be checked often by their health care 
 
 Also, be sure to inform your doctor or health care provider if you smoke or are on any medications.
 
-RISKS OF TAKING ORAL CONTRACEPTIVES:
+RISKS OF TAKING ORAL CONTRACEPTIVES
 
-1. Risk of Developing Blood Clots: Blood clots and blockage of blood vessels are the most serious side effects of taking oral contraceptives; in particular, a clot in the legs can cause thrombophlebitis, and a clot that travels to the lungs can cause a sudden blocking of the vessel carrying blood to the lungs.
+1. Risk of Developing Blood Clots Blood clots and blockage of blood vessels are the most serious side effects of taking oral contraceptives; in particular, a clot in the legs can cause thrombophlebitis, and a clot that travels to the lungs can cause a sudden blocking of the vessel carrying blood to the lungs.
    Rarely, clots occur in the blood vessels of the eye and may cause blindness, double vision, or impaired vision.
    If you take oral contraceptives and need elective surgery, need to stay in bed for a prolonged illness, or have recently delivered a baby, you may be at risk of developing blood clots.
    You should consult your doctor about stopping oral contraceptives three to four weeks before surgery and not taking oral contraceptives for two weeks after surgery or during bed rest.
    You should also not take oral contraceptives soon after delivery of a baby.
    It is advisable to wait for at least four weeks after delivery if you are not breast feeding.
    If you are breast feeding, you should wait until you have weaned your child before using the pill.
-   (See also the section on Breast Feeding in GENERAL PRECAUTIONS.)
-2. Heart Attacks and Strokes: Oral contraceptives may increase the tendency to develop strokes (stoppage or rupture of blood vessels in the brain) and angina pectoris and heart attacks (blockage of blood vessels in the heart).
+   (See also the section on Breastfeeding in GENERAL PRECAUTIONS.)
+2. Heart Attacks and Strokes Oral contraceptives may increase the tendency to develop strokes (stoppage or rupture of blood vessels in the brain) and angina pectoris and heart attacks (blockage of blood vessels in the heart).
    Any of these conditions can cause death or disability.
    Smoking greatly increases the possibility of suffering heart attacks and strokes.
    Furthermore, smoking and the use of oral contraceptives greatly increase the chances of developing and dying of heart disease.
-3. Gallbladder Disease: Oral contraceptive users probably have a greater risk than nonusers of having gallbladder disease, although this risk may be related to pills containing high doses of estrogens.
-4. Liver Tumors: In rare cases, oral contraceptives can cause benign but dangerous liver tumors.
+3. Gallbladder Disease Oral contraceptive users probably have a greater risk than nonusers of having gallbladder disease, although this risk may be related to pills containing high doses of estrogens.
+4. Liver Tumors In rare cases, oral contraceptives can cause benign but dangerous liver tumors.
    These benign liver tumors can rupture and cause fatal internal bleeding.
    In addition, a possible but not definite association has been found with the pill and liver cancers in two studies, in which a few women who developed these very rare cancers were found to have used oral contraceptives for long periods.
    However, liver cancers are extremely rare.
    The chance of developing liver cancer from using the pill is thus even rarer.
-5. Cancer of the Reproductive Organs and Breasts: There is, at present, no confirmed evidence that oral contraceptive use increases the risk of developing cancer of the reproductive organs.
+5. Cancer of the Reproductive Organs and Breasts There is, at present, no confirmed evidence that oral contraceptive use increases the risk of developing cancer of the reproductive organs.
    Studies to date of women taking the pill have reported conflicting findings on whether pill use increases the risk of developing cancer of the breast or cervix.
    Most of the studies on breast cancer and pill use have found no overall increase in the risk of developing breast cancer, although some studies have reported an increased risk of developing breast cancer in certain groups of women.
    Women who use oral contraceptives and have a strong family history of breast cancer or who have breast nodules or abnormal mammograms should be closely followed by their doctors.
    Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
    However, this finding may be related to factors other than the use of oral contraceptives.
 
-ESTIMATED RISK OF DEATH FROM A BIRTH CONTROL METHOD OR PREGNANCY:
+ESTIMATED RISK OF DEATH FROM A BIRTH CONTROL METHOD OR PREGNANCY
 
 All methods of birth control and pregnancy are associated with a risk of developing certain diseases which may lead to disability or death.
 
@@ -308,16 +308,16 @@ ANNUAL NUMBER OF BIRTH-RELATED OR METHOD-RELATED DEATHS ASSOCIATED WITH CONTROL 
 
 | Method of control and outcome | 15-19 | 20-24 | 25-29 | 30-34 | 35-39 | 40-44 |
 | --- | --- | --- | --- | --- | --- | --- |
-| No fertility control methodsDeaths are birth related. | 7.0 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
+| No fertility control methodsDeaths are birth related. | 7 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
 | Oral contraceptives non-smokerDeaths are method related. | 0.3 | 0.5 | 0.9 | 1.9 | 13.8 | 31.6 |
 | Oral contraceptives smoker | 2.2 | 3.4 | 6.6 | 13.5 | 51.1 | 117.2 |
-| IUD | 0.8 | 0.8 | 1.0 | 1.0 | 1.4 | 1.4 |
+| IUD | 0.8 | 0.8 | 1 | 1 | 1.4 | 1.4 |
 | Condom | 1.1 | 1.6 | 0.7 | 0.2 | 0.3 | 0.4 |
 | Diaphragm/spermicide | 1.9 | 1.2 | 1.2 | 1.3 | 2.2 | 2.8 |
 | Periodic abstinence | 2.5 | 1.6 | 1.6 | 1.7 | 2.9 | 3.6 |
 
 In the above table, the risk of death from any birth control method is less than the risk of childbirth, except for oral contraceptive users over the age of 35 who smoke and pill users over the age of 40 even if they do not smoke.
-It can be seen in the table that for women aged 15 to 39, the risk of death was highest with pregnancy (7-26 deaths per 100,000 women, depending on age).
+It can be seen in the table that for women aged 15 to 39, the risk of death was highest with pregnancy (7 to 26 deaths per 100,000 women, depending on age).
 Among pill users who do not smoke, the risk of death was always lower than that associated with pregnancy for any age group, although over the age of 40, the risk increases to 32 deaths per 100,000 women, compared to 28 associated with pregnancy at that age.
 However, for pill users who smoke and are over the age of 35, the estimated number of deaths exceeds those for other methods of birth control.
 If a woman is over the age of 40 and smokes, her estimated risk of death is four times higher (117/100,000 women) than the estimated risk associated with pregnancy (28/100,000 women) in that age group.
@@ -326,7 +326,7 @@ The suggestion that women over 40 who don't smoke should not take oral contracep
 An Advisory Committee of the FDA discussed this issue in 1989 and recommended that the benefits of oral contraceptive use by healthy, non-smoking women over 40 years of age may outweigh the possible risks.
 However, all women, especially older women, are cautioned to use the lowest dose pill that is effective.
 
-WARNING SIGNALS:
+WARNING SIGNALS
 
 If any of these adverse effects occur while you are taking oral contraceptives, call your doctor immediately:
 
@@ -340,25 +340,25 @@ If any of these adverse effects occur while you are taking oral contraceptives, 
 - Difficulty in sleeping, weakness, lack of energy, fatigue, or change in mood (possibly indicating severe depression)
 - Jaundice or a yellowing of the skin or eyeballs, accompanied frequently by fever, fatigue, loss of appetite, dark colored urine, or light colored bowel movements (indicating possible liver problems)
 
-SIDE EFFECTS OF ORAL CONTRACEPTIVES:
+SIDE EFFECTS OF ORAL CONTRACEPTIVES
 
-1. Vaginal Bleeding: Irregular vaginal bleeding or spotting may occur while you are taking the pills.
+1. Vaginal Bleeding Irregular vaginal bleeding or spotting may occur while you are taking the pills.
    Irregular bleeding may vary from slight staining between menstrual periods to breakthrough bleeding which is a flow much like a regular period.
    Irregular bleeding occurs most often during the first few months of oral contraceptive use, but may also occur after you have been taking the pill for some time.
    Such bleeding may be temporary and usually does not indicate serious problems.
    It is important to continue taking your pills on schedule.
    If the bleeding occurs in more than one cycle or lasts for more than a few days, talk to your doctor or health care provider.
-2. Contact Lenses: If you wear contact lenses and notice a change in vision or an inability to wear your lenses, contact your doctor or health care provider.
-3. Fluid Retention: Oral contraceptives may cause edema (fluid retention) with swelling of the fingers or ankles and may raise your blood pressure.
+2. Contact Lenses If you wear contact lenses and notice a change in vision or an inability to wear your lenses, contact your doctor or health care provider.
+3. Fluid Retention Oral contraceptives may cause edema (fluid retention) with swelling of the fingers or ankles and may raise your blood pressure.
    If you experience fluid retention, contact your doctor or health care provider.
 4. Melasma: A spotty darkening of the skin is possible, particularly of the face.
-5. Other Side Effects: Other side effects may include change in appetite, headache, nervousness, depression, dizziness, loss of scalp hair, rash, and vaginal infections.
+5. Other Side Effects Other side effects may include change in appetite, headache, nervousness, depression, dizziness, loss of scalp hair, rash, and vaginal infections.
 
 If any of these side effects bother you, call your doctor or health care provider.
 
-GENERAL PRECAUTIONS:
+GENERAL PRECAUTIONS
 
-1. Missed Periods and Use of Oral Contraceptives Before or During Early Pregnancy: There may be times when you may not menstruate regularly after you have completed taking a cycle of pills.
+1. Missed Periods and Use of Oral Contraceptives Before or During Early Pregnancy There may be times when you may not menstruate regularly after you have completed taking a cycle of pills.
    If you have taken your pills regularly and miss one menstrual period, continue taking your pills for the next cycle but be sure to inform your health care provider before doing so.
    If you have not taken the pills daily as instructed and missed a menstrual period, or if you missed two consecutive menstrual periods, you may be pregnant.
    Check with your health care provider immediately to determine whether you are pregnant.
@@ -367,16 +367,16 @@ GENERAL PRECAUTIONS:
    Previously, a few studies had reported that oral contraceptives might be associated with birth defects, but these studies have not been confirmed.
    Nevertheless, oral contraceptives or any other drugs should not be used during pregnancy unless clearly necessary and prescribed by your doctor.
    You should check with your doctor about risks to your unborn child of any medication taken during pregnancy.
-2. While Breast Feeding: If you are breast feeding, consult your doctor before starting oral contraceptives.
+2. While Breastfeeding If you are breast feeding, consult your doctor before starting oral contraceptives.
    Some of the drug will be passed on to the child in the milk.
    A few adverse effects on the child have been reported, including yellowing of the skin (jaundice) and breast enlargement.
    In addition, oral contraceptives may decrease the amount and quality of your milk.
-   If possible, do not use oral contraceptives while breast feeding.
+   If possible, do not use oral contraceptives while breastfeeding.
    You should use another method of contraception since breast feeding provides only partial protection from becoming pregnant, and this partial protection decreases significantly as you breast feed for longer periods of time.
    You should consider starting oral contraceptives only after you have weaned your child completely.
-3. Laboratory Tests: If you are scheduled for any laboratory tests, tell your doctor you are taking birth control pills.
+3. Laboratory Tests If you are scheduled for any laboratory tests, tell your doctor you are taking birth control pills.
    Certain blood tests may be affected by birth control pills.
-4. Drug Interactions: Certain drugs may interact with birth control pills to make them less effective in preventing pregnancy or cause an increase in breakthrough bleeding.
+4. Drug Interactions Certain drugs may interact with birth control pills to make them less effective in preventing pregnancy or cause an increase in breakthrough bleeding.
    Such drugs include rifampin; drugs used for epilepsy such as barbiturates (for example, phenobarbital), carbamazepine, and phenytoin (Dilantin® is one brand of this drug); troglitazone; phenylbutazone; and possibly certain antibiotics.
    You may need to use additional contraception when you take drugs which can make oral contraceptives less effective.
    Birth control pills interact with certain drugs.
@@ -385,9 +385,9 @@ GENERAL PRECAUTIONS:
 5. This product (like all oral contraceptives) is intended to prevent pregnancy.
    It does not protect against transmission of HIV (AIDS) and other sexually transmitted diseases such as chlamydia, genital herpes, genital warts, gonorrhea, hepatitis B, and syphilis.
 
-INSTRUCTIONS TO PATIENT Tablet Dispenser:
+INSTRUCTIONS TO PATIENT Tablet Dispenser
 
-The Junel ™ tablet dispenser has been designed to make oral contraceptive dosing as easy and as convenient as possible.
+The Junel ® tablet dispenser has been designed to make oral contraceptive dosing as easy and as convenient as possible.
 The tablets are arranged in either three or four rows of seven tablets each, with the days of the week appearing on the tablet dispenser above the first row of tablets.
 
 | If your tablet dispenser contains: | You are taking: |
@@ -404,7 +404,7 @@ Each pink tablet contains 1.5 mg norethindrone acetate and 30 mcg ethinyl estrad
 Each brown tablet contains 75 mg ferrous fumarate, and is intended to help you remember to take the tablets correctly.
 These brown tablets are not intended to have any health benefit.
 
-DIRECTIONS:
+DIRECTIONS
 
 To remove a tablet, press down on it with your thumb or finger.
 The tablet will drop through the back of the tablet dispenser.
@@ -437,8 +437,8 @@ BEFORE YOU START TAKING YOUR PILLS
 
 1. DECIDE WHAT TIME OF DAY YOU WANT TO TAKE YOUR PILL.
    It is important to take it at about the same time every day.
-2. LOOK AT YOUR PILL PACK TO SEE IF IT HAS 21 OR 28 PILLS: The 21-pill pack has 21 “active” light yellow or pink pills (with hormones) to take for 3 weeks, followed by 1 week without pills.
-   The 28-pill pack has 21 “active” light yellow or pink pills (with hormones) to take for 3 weeks, followed by 1 week of reminder brown pills (without hormones).
+2. LOOK AT YOUR PILL PACK TO SEE IF IT HAS 21 OR 28 PILLS: The 21 pill pack has 21 “active” light yellow or pink pills (with hormones) to take for 3 weeks, followed by 1 week without pills.
+   The 28 pill pack has 21 “active” light yellow or pink pills (with hormones) to take for 3 weeks, followed by 1 week of reminder brown pills (without hormones).
 3. ALSO FIND: 1) where on the pack to start taking pills, 2) in what order to take the pills.
    3) see Instructions for Use in the Combination Detailed Patient Labeling and Brief Summary.
 4. BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF BIRTH CONTROL (such as condoms or foam) to use as a back-up in case you miss pills.
@@ -450,7 +450,7 @@ You have a choice of which day to start taking your first pack of pills.
 Decide with your doctor or clinic which is the best day for you.
 Pick a time of day which will be easy to remember.
 
-DAY-1 START:
+DAY 1 START
 
 1. Pick the days of the week sticker that starts with the first day of your period.
    (This is the day you start bleeding or spotting, even if it is almost midnight when the bleeding begins.)
@@ -458,7 +458,7 @@ DAY-1 START:
 3. Take the first “active” light yellow or pink pill of the first pack during the first 24 hours of your period.
 4. You will not need to use a back-up method of birth control, since you are starting the pill at the beginning of your period.
 
-SUNDAY START:
+SUNDAY START
 
 1. Take the first “active” light yellow or pink pill of the first pack on the Sunday after your period starts, even if you are still bleeding.
    If your period begins on Sunday, start the pack that same day.
@@ -494,8 +494,8 @@ If you MISS 2 light yellow or pink “active” pills in a row in WEEK 1 OR WEEK
 
 If you MISS 2 light yellow or pink “active” pills in a row in THE 3rd WEEK:
 
-1. If you are a Day-1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
-   If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
+1. If you are a Day 1 Starter THROW OUT the rest of the pill pack and start a new pack that same day.
+   If you are a Sunday Starter Keep taking 1 pill every day until Sunday.
    On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
 2. You may not have your period this month, but this is expected.
    However, if you miss your period 2 months in a row, call your doctor or clinic because you might be pregnant.
@@ -504,15 +504,15 @@ If you MISS 2 light yellow or pink “active” pills in a row in THE 3rd WEEK:
 
 If you MISS 3 OR MORE light yellow or pink “active” pills in a row (during the first 3 weeks):
 
-1. If you are a Day-1 Starter: THROW OUT the rest of the pill pack and start a new pack that same day.
-   If you are a Sunday Starter: Keep taking 1 pill every day until Sunday.
+1. If you are a Day 1 Starter THROW OUT the rest of the pill pack and start a new pack that same day.
+   If you are a Sunday Starter Keep taking 1 pill every day until Sunday.
    On Sunday, THROW OUT the rest of the pack and start a new pack of pills that same day.
 2. You may not have your period this month, but this is expected.
    However, if you miss your period 2 months in a row, call your doctor or clinic because you might be pregnant.
 3. You COULD GET PREGNANT if you have sex in the 7 days after you miss pills.
    You MUST use another birth control method (such as condoms or foam) as a back-up method of birth control until you have taken a light yellow or pink “active” pill every day for 7 days.
 
-A REMINDER FOR THOSE ON 28-DAY PACKS:
+A REMINDER FOR THOSE ON 28 DAY PACKS
 
 If you forget any of the 7 brown “reminder” pills in Week 4:
 
@@ -522,31 +522,31 @@ Keep taking 1 pill each day until the pack is empty.
 
 You do not need a back-up method.
 
-FINALLY, IF YOU ARE STILL NOT SURE WHAT TO DO ABOUT THE PILLS YOU HAVE MISSED:
+FINALLY, IF YOU ARE STILL NOT SURE WHAT TO DO ABOUT THE PILLS YOU HAVE MISSED
 
 Use a BACK-UP METHOD anytime you have sex.
 
 KEEP TAKING ONE LIGHT YELLOW OR PINK “ACTIVE” PILL EACH DAY until you can reach your doctor or clinic.
 
-PREGNANCY DUE TO PILL FAILURE:
+PREGNANCY DUE TO PILL FAILURE
 
 The incidence of pill failure resulting in pregnancy is approximately 1% (i.e., one pregnancy per 100 women per year) if taken every day as directed, but more typical failure rates are about 3%.
 If failure does occur, the risk to the fetus is minimal.
 
-PREGNANCY AFTER STOPPING THE PILL:
+PREGNANCY AFTER STOPPING THE PILL
 
 There may be some delay in becoming pregnant after you stop using oral contraceptives, especially if you had irregular menstrual cycles before you used oral contraceptives.
 It may be advisable to postpone conception until you begin menstruating regularly once you have stopped taking the pill and desire pregnancy.
 
 There does not appear to be any increase in birth defects in newborn babies when pregnancy occurs soon after stopping the pill.
 
-OVERDOSAGE:
+OVERDOSAGE
 
 Serious ill effects have not been reported following ingestion of large doses of oral contraceptives by young children.
 Overdosage may cause nausea and withdrawal bleeding in females.
 In case of overdosage, contact you health care provider or pharmacist.
 
-OTHER INFORMATION:
+OTHER INFORMATION
 
 Your health care provider will take a medical and family history and examine you before prescribing oral contraceptives.
 The physical examination may be delayed to another time if you request it and the health care provider believes that it is a good medical practice to postpone it.
@@ -557,7 +557,7 @@ Be sure to keep all appointments with your health care provider, because this is
 Do not use the drug for any condition other than the one for which it was prescribed.
 This drug has been prescribed specifically for you; do not give it to others who may want birth control pills.
 
-HEALTH BENEFITS FROM ORAL CONTRACEPTIVES:
+HEALTH BENEFITS FROM ORAL CONTRACEPTIVES
 
 In addition to preventing pregnancy, use of oral contraceptives may provide certain benefits.
 They are:
@@ -576,16 +576,16 @@ They have a more technical leaflet called the “Professional Labeling”, which
 
 Remembering to take tablets according to schedule is stressed because of its importance in providing you the greatest degree of protection.
 
-MISSED MENSTRUAL PERIODS FOR BOTH DOSAGE REGIMENS:
+MISSED MENSTRUAL PERIODS FOR BOTH DOSAGE REGIMENS
 
 At times there may be no menstrual period after a cycle of pills.
-Therefore, it you miss one menstrual period but have taken the pills exactly as you were supposed to, continue as usual into the next cycle.
+Therefore, if you miss one menstrual period but have taken the pills exactly as you were supposed to, continue as usual into the next cycle.
 If you have not taken the pills correctly and miss a menstrual period, you may be pregnant and should stop taking oral contraceptives until your doctor or health care provider determines whether or not you are pregnant.
 Until you can get to your doctor or health care provider, use another form of contraception.
 If two consecutive menstrual periods are missed, you should stop taking pills until it is determined whether or not you are pregnant.
 Although there does not appear to be any increase in birth defects in newborn babies if you become pregnant while using oral contraceptives, you should discuss the situation with your doctor or health care provider.
 
-Periodic Examination:
+Periodic Examination
 
 Your doctor or health care provider will take a complete medical and family history before prescribing oral contraceptives.
 At that time and about once a year thereafter, he or she will generally examine your blood pressure, breasts, abdomen, and pelvic organs (including a Papanicolaou smear, i.e., test for cancer).
@@ -594,6 +594,9 @@ Keep this and all drugs out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-MANUFACTURED BY BARR LABORATORIES, INC. POMONA, NY 10970
+TEVA PHARMACEUTICALS USA
 
-Revised MAY 2005 BR - 9025, 9026, 9027, 9028
+Sellersville, PA 18960
+
+Iss.
+6/2011

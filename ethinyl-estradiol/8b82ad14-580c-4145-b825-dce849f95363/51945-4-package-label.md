@@ -1,171 +1,95 @@
 # PRINCIPAL DISPLAY PANEL
 
-## JunelTM 1/20 (norethindrone acetate and ethinyl estradiol tablets, USP) Carton Text
+## Junel® 1/20 (norethindrone acetate and ethinyl estradiol tablets, USP) Foil Pouch Text
 
 NDC 0555-9025-42
 
-3 Cyclic Tablet Dispensers x 21 Tablets
+Junel® 1/20
 
-JunelTM 1/20
+(norethindrone acetate and ethinyl estradiol tablets, USP)
+
+Each light yellow tablet contains norethindrone acetate, 1 mg; ethinyl estradiol, 20 mcg
 
 21 DAY REGIMEN
 
-(norethindrone acetate and
-
-ethinyl estradiol tablets, USP)
+THIS PRODUCT(LIKE ALL ORAL CONTRACEPTIVES) IS INTENDED TO PREVENT PREGNANCY.
+IT DOES NOT PROTECT AGAINST HIV INFECTION (AIDS) AND OTHER SEXUALLY TRANSMITTED DISEASES.
 
 Rx only
 
-Dosage: One tablet daily for 21 days as directed by the physician.
+TEVA
 
-See package brochure.
-
-Keep this and all drugs out of the reach of children.
-
-PHARMACIST: This carton contains 3 foil pouches each containing one
-
-combination labeling piece of information intended for the patient.
-All
-
-informational pieces are to be provided to the patient with each prescription.
-
-barr®
-
-Laboratories, Inc.
-
-SHAPING
-
-WOMEN'S HEALTHTM
-
-Barr Laboratories, Inc.
+SHAPING WOMEN'S HEALTH®
 
 # PRINCIPAL DISPLAY PANEL
 
-## JunelTM 1.5/30 (norethindrone acetate and ethinyl estradiol tablets, USP) Carton Text
+## Junel® 1.5/30 (norethindrone acetate and ethinyl estradiol tablets, USP) Foil Pouch Text
 
 NDC 0555-9027-42
 
-3 Cyclic Tablet Dispensers x 21 Tablets
+Junel® 1.5/30
 
-JunelTM 1.5/30
+(norethindrone acetate and ethinyl estradiol tablets, USP)
+
+Each pink tablet contains norethindrone acetate, 1.5 mg; ethinyl estradiol, 30 mcg.
 
 21 DAY REGIMEN
 
-(norethindrone acetate and
-
-ethinyl estradiol tablets, USP)
-
-Contains 3 blister cards, each containing 21 tablets.
-Each pink tablet
-
-contains norethindrone acetate, 1.5 mg; ethinyl estradiol, 30 mcg.
-
-Each tablet dispenser contains 21 pink tablets.
+THIS PRODUCT(LIKE ALL ORAL CONTRACEPTIVES) IS INTENDED TO PREVENT PREGNANCY.
+IT DOES NOT PROTECT AGAINST HIV INFECTION (AIDS) AND OTHER SEXUALLY TRANSMITTED DISEASES.
 
 Rx only
 
-barr®
+TEVA
 
-Laboratories, Inc.
-
-SHAPING
-
-WOMEN'S HEALTHTM
-
-Barr Laboratories, Inc.
+SHAPING WOMEN'S HEALTH®
 
 # PRINCIPAL DISPLAY PANEL
 
-## JunelTM Fe 1/20 (norethindrone acetate and ethinyl estradiol tablets, USP and ferrous fumarate tablets*) Carton Text
-
-6 Cyclic Tablet Dispensers x 28 Tablets
-
-28 DAY REGIMEN
+## Junel® Fe 1/20 (norethindrone acetate and ethinyl estradiol tablets, USP and ferrous fumarate tablets*) Foil Pouch Text
 
 NDC 0555-9026-58
 
-JunelTM Fe 1/20
+Junel® Fe 1/20
 
-(norethindrone acetate and
+(norethindrone acetate and ethinyl estradiol tablets, USP and ferrous fumarate tablets*)
 
-ethinyl estradiol tablets, USP
-
-and ferrous fumarate tablets*)
-
-Dosage: One tablet daily for 28 days as directed by the physician.
-See
-
-package brochure.
-
-Keep this and all drugs out of the reach of children.
-
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
-
-*Ferrous fumarate tablets are not USP for dissolution and assay.
-
-PHARMACIST: This carton contains 6 foil pouches each containing one
-
-combination labeling piece of information intended for the patient.
-All
-
-informational pieces are to be provided to the patient with each
-
-prescription.
-
-barr®
-
-Laboratories, Inc.
-
-SHAPING
-
-WOMEN'S HEALTHTM
-
-Barr Laboratories, Inc.
-
-# PRINCIPAL DISPLAY PANEL
-
-## JunelTM Fe 1.5/30 (norethindrone acetate and ethinyl estradiol tablets, USP and ferrous fumarate tablets*) Carton Text
-
-6 Cyclic Tablet Dispensers x 28 Tablets
+Each light yellow tablet contains norethindrone acetate, 1 mg; ethinyl estradiol, 20 mcg.
+Each brown tablet contains ferrous fumarate, USP, 75 mg.
+Each tablet dispenser contains 21 light yellow tablets and 7 brown tablets. *Ferrous fumarate tablets are not USP for dissolution and assay.
 
 28 DAY REGIMEN
 
+THIS PRODUCT(LIKE ALL ORAL CONTRACEPTIVES) IS INTENDED TO PREVENT PREGNANCY.
+IT DOES NOT PROTECT AGAINST HIV INFECTION (AIDS) AND OTHER SEXUALLY TRANSMITTED DISEASES.
+
+Rx only
+
+TEVA
+
+SHAPING WOMEN'S HEALTH®
+
+# PRINCIPAL DISPLAY PANEL
+
+## Junel® Fe 1.5/30 (norethindrone acetate and ethinyl estradiol tablets, USP and ferrous fumarate tablets*) Foil Pouch Text
+
 NDC 0555-9028-58
 
-JunelTM Fe 1.5/30
+Junel® Fe 1.5/30
 
-(norethindrone acetate and
+(norethindrone acetate and ethinyl estradiol tablets, USP and ferrous fumarate tablets*)
 
-ethinyl estradiol tablets, USP
+Each pink tablet contains norethindrone acetate, 1.5 mg; ethinyl estradiol, 30 mcg.
+Each brown tablet contains ferrous fumarate, USP, 75 mg.
+Each tablet dispenser contains 21 pink tablets and 7 brown tablets. *Ferrous fumarate tablets are not USP for dissolution and assay.
 
-and ferrous fumarate tablets*)
+28 DAY REGIMEN
 
-Dosage: One tablet daily for 28 days as directed by the physician.
-See
+THIS PRODUCT(LIKE ALL ORAL CONTRACEPTIVES) IS INTENDED TO PREVENT PREGNANCY.
+IT DOES NOT PROTECT AGAINST HIV INFECTION (AIDS) AND OTHER SEXUALLY TRANSMITTED DISEASES.
 
-package brochure.
+Rx only
 
-Keep this and all drugs out of the reach of children.
+TEVA
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
-
-*Ferrous fumarate tablets are not USP for dissolution and assay.
-
-PHARMACIST: This carton contains 6 foil pouches each containing one
-
-combination labeling piece of information intended for the patient.
-All
-
-informational pieces are to be provided to the patient with each
-
-prescription.
-
-barr®
-
-Laboratories, Inc.
-
-SHAPING
-
-WOMEN'S HEALTHTM
-
-Barr Laboratories, Inc.
+SHAPING WOMEN'S HEALTH®

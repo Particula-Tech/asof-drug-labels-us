@@ -1,4 +1,4 @@
-# WARNINGS:
+# WARNINGS
 
 The use of oral contraceptives is associated with increased risks of several serious conditions including myocardial infarction, thromboembolism, stroke, hepatic neoplasia, and gallbladder disease, although the risk of serious morbidity or mortality is very small in healthy women without underlying risk factors.
 The risk of morbidity and mortality increases significantly in the presence of other underlying risk factors such as hypertension, hyperlipidemias, obesity, and diabetes.
@@ -16,9 +16,9 @@ Cohort studies provide a measure of attributable risk, which is the difference i
 The attributable risk does provide information about the actual occurrence of a disease in the population (adapted from References 8 and 9 with the author's permission).
 For further information, the reader is referred to a text on epidemiological methods.
 
-## 1. Thromboembolic Disorders and Other Vascular Problems:
+## 1. Thromboembolic Disorders and Other Vascular Problems
 
-### a. Myocardial infarction:
+### a. Myocardial Infarction
 
 An increased risk of myocardial infarction has been attributed to oral contraceptive use.
 This risk is primarily in smokers or women with other underlying risk factors for coronary artery disease such as hypertension, hypercholesterolemia, morbid obesity, and diabetes.
@@ -34,7 +34,7 @@ Oral contraceptives have been shown to increase blood pressure among users (see 
 Similar effects on risk factors have been associated with an increased risk of heart disease.
 Oral contraceptives must be used with caution in women with cardiovascular disease risk factors.
 
-### b. Thromboembolism:
+### b. Thromboembolism
 
 An increased risk of thromboembolic and thrombotic disease associated with the use of oral contraceptives is well established.
 Case control studies have found the relative risk of users compared to non-users to be 3 for the first episode of superficial venous thrombosis, 4 to 11 for deep vein thrombosis or pulmonary embolism, and 1.5 to 6 for women with predisposing conditions for venous thromboembolic disease (9,10,25-30).
@@ -47,7 +47,7 @@ The relative risk of venous thrombosis in women who have predisposing conditions
 If feasible, oral contraceptives should be discontinued at least four weeks prior to and for two weeks after elective surgery of a type associated with an increase in risk of thromboembolism and during and following prolonged immobilization.
 Since the immediate postpartum period is also associated with an increased risk of thromboembolism, oral contraceptives should be started no earlier than four to six weeks after delivery in women who elect not to breast feed.
 
-### c. Cerebrovascular disease:
+### c. Cerebrovascular Disease
 
 Oral contraceptives have been shown to increase both the relative and attributable risks of cerebrovascular events (thrombotic and hemorrhagic strokes), although, in general, the risk is greatest among older (>35 years), hypertensive women who also smoke.
 Hypertension was found to be a risk factor for both users and nonusers, for both types of strokes, while smoking interacted to increase the risk for hemorrhagic strokes (33-35).
@@ -56,7 +56,7 @@ In a large study, the relative risk of thrombotic strokes has been shown to rang
 The relative risk of hemorrhagic stroke is reported to be 1.2 for non-smokers who used oral contraceptives, 2.6 for smokers who did not use oral contraceptives, 7.6 for smokers who used oral contraceptives, 1.8 for normotensive users, and 25.7 for users with severe hypertension (36).
 The attributable risk is also greater in older women (9).
 
-### d. Dose-related risk of vascular disease from oral contraceptives:
+### d. Dose-Related Risk of Vascular Disease From Oral Contraceptives
 
 A positive association has been observed between the amount of estrogen and progestogen in oral contraceptives and the risk of vascular disease (37-39).
 A decline in serum high-density lipoproteins (HDL) has been reported with many progestational agents (20-22).
@@ -68,14 +68,14 @@ Minimizing exposure to estrogen and progestogen is in keeping with good principl
 For any particular oral contraceptive, the dosage regimen prescribed should be one which contains the least amount of estrogen and progestogen that is compatible with the needs of the individual patient.
 New acceptors of oral contraceptive agents should be started on preparations containing the lowest dose of estrogen which produces satisfactory results for the patient.
 
-### e. Persistence of risk of vascular disease:
+### e. Persistence of Risk of Vascular Disease
 
 There are two studies which have shown persistence of risk of vascular disease for ever-users of oral contraceptives.
-In a study in the United States, the risk of developing myocardial infarction after discontinuing oral contraceptives persists for at least 9 years for women 40-49 years who had used oral contraceptives for 5 or more years, but this increased risk was not demonstrated in other age groups (14).
+In a study in the United States, the risk of developing myocardial infarction after discontinuing oral contraceptives persists for at least 9 years for women 40 to 49 years who had used oral contraceptives for 5 or more years, but this increased risk was not demonstrated in other age groups (14).
 In another study in Great Britain, the risk of developing cerebrovascular disease persisted for at least 6 years after discontinuation of oral contraceptives, although excess risk was very small (40).
 However, both studies were performed with oral contraceptive formulations containing 50 mcg or higher of estrogens.
 
-## 2. Estimates of Mortality from Contraceptive Use:
+## 2. Estimates of Mortality from Contraceptive Use
 
 One study gathered data from a variety of sources which have estimated the mortality rate associated with different methods of contraception at different ages (Table III).
 These estimates include the combined risk of death associated with contraceptive methods plus the risk attributable to pregnancy in the event of method failure.
@@ -107,7 +107,7 @@ TABLE III ANNUAL NUMBER OF BIRTH-RELATED OR METHOD-RELATED DEATHS ASSOCIATED WIT
 | Periodic abstinence | 2.5 | 1.6 | 1.6 | 1.7 | 2.9 | 3.6 |
 | Adapted from H.W. Ory, Reference 41. |  |  |  |  |  |  |
 
-## 3. Carcinoma of the Reproductive Organs:
+## 3. Carcinoma of the Reproductive Organs
 
 Numerous epidemiological studies have been performed on the incidence of breast, endometrial, ovarian, and cervical cancer in women using oral contraceptives.
 Most of the studies on breast cancer and oral contraceptive use report that the use of oral contraceptives is not associated with an increase in the risk of developing breast cancer (42,44,89).
@@ -118,7 +118,7 @@ However, there continues to be controversy about the extent to which such findin
 
 In spite of many studies of the relationship between oral contraceptive use and breast and cervical cancers, a cause and effect relationship has not been established.
 
-## 4. Hepatic Neoplasia:
+## 4. Hepatic Neoplasia
 
 Benign hepatic adenomas are associated with oral contraceptive use, although the incidence of benign tumors is rare in the United States.
 
@@ -128,13 +128,13 @@ Rupture of rare, benign, hepatic adenomas may cause death through intra-abdomina
 Studies from Britain have shown an increased risk of developing hepatocellular carcinoma (58-60) in long-term (>8 years) oral contraceptive users.
 However, these cancers are extremely rare in the U.S., and the attributable risk (the excess incidence) of liver cancers in oral contraceptive users approaches less than one per million users.
 
-## 5. Ocular Lesions:
+## 5. Ocular Lesions
 
 There have been clinical case reports of retinal thrombosis associated with the use of oral contraceptives.
 Oral contraceptives should be discontinued if there is unexplained partial or complete loss of vision; onset of proptosis or diplopia; papilledema; or retinal vascular lesions.
 Appropriate diagnostic and therapeutic measures should be undertaken immediately.
 
-## 6. Oral Contraceptive Use Before or During Early Pregnancy:
+## 6. Oral Contraceptive Use Before or During Early Pregnancy
 
 Extensive epidemiological studies have revealed no increased risk of birth defects in women who have used oral contraceptives prior to pregnancy (61-63).
 Studies also do not suggest a teratogenic effect, particularly insofar as cardiac anomalies and limb reduction defects are concerned (61,62,64,65), when taken inadvertently during early pregnancy.
@@ -146,14 +146,14 @@ It is recommended that for any patient who has missed two consecutive periods, p
 If the patient has not adhered to the prescribed schedule, the possibility of pregnancy should be considered at the time of the first missed period.
 Oral contraceptive use should be discontinued if pregnancy is confirmed.
 
-## 7. Gallbladder Disease:
+## 7. Gallbladder Disease
 
 Earlier studies have reported an increased lifetime relative risk of gallbladder surgery in users of oral contraceptives and estrogens (66,67).
 
 More recent studies, however, have shown that the relative risk of developing gallbladder disease among oral contraceptive users may be minimal (68-70).
 The recent findings of minimal risk may be related to the use of oral contraceptive formulations containing lower hormonal doses of estrogens and progestogens.
 
-## 8. Carbohydrate and Lipid Metabolic Effects:
+## 8. Carbohydrate and Lipid Metabolic Effects
 
 Oral contraceptives have been shown to cause glucose intolerance in a significant percentage of users (23).
 Oral contraceptives containing greater than 75 mcg of estrogens cause hyperinsulinism, while lower doses of estrogen cause less glucose intolerance (71).
@@ -166,7 +166,7 @@ Because of these demonstrated effects, prediabetic and diabetic women should be 
 A small proportion of women will have persistent hypertriglyceridemia while on the pill.
 As discussed earlier (see WARNINGS, 1a. and 1d.), changes in serum triglycerides and lipoprotein levels have been reported in oral contraceptive users.
 
-## 9. Elevated Blood Pressure:
+## 9. Elevated Blood Pressure
 
 An increase in blood pressure has been reported in women taking oral contraceptives (74) and this increase is more likely in older oral contraceptive users (75) and with continued use (74).
 Data from the Royal College of General Practitioners (18) and subsequent randomized trials have shown that the incidence of hypertension increases with increasing concentrations of progestogens.
@@ -175,24 +175,24 @@ Women with a history of hypertension or hypertension-related diseases or renal d
 If women elect to use oral contraceptives, they should be monitored closely, and if significant elevation of blood pressure occurs, oral contraceptives should be discontinued.
 For most women, elevated blood pressure will return to normal after stopping oral contraceptives (75), and there is no difference in the occurrence of hypertension among ever and never users (74,76,77).
 
-## 10. Headache:
+## 10. Headache
 
 The onset or exacerbation of migraine or development of headache with a new pattern which is recurrent, persistent, or severe requires discontinuation of oral contraceptives and evaluation of the cause.
 
-## 11. Bleeding Irregularities:
+## 11. Bleeding Irregularities
 
 Breakthrough bleeding and spotting are sometimes encountered in patients on oral contraceptives, especially during the first three months of use.
 Non-hormonal causes should be considered, and adequate diagnostic measures taken to rule out malignancy or pregnancy in the event of breakthrough bleeding, as in the case of any abnormal vaginal bleeding.
 If pathology has been excluded, time or a change to another formulation may solve the problem.
 In the event of amenorrhea, pregnancy should be ruled out.
 
-Some women may encounter post-pill amenorrhea or oligomenorrhea, especially when such a condition was preexistent.
+Some women may encounter post pill amenorrhea or oligomenorrhea, especially when such a condition was preexistent.
 
-# PRECAUTIONS:
+# PRECAUTIONS
 
 ## 1. Patients should be counseled that this product does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
 
-## 2. Physical Examination and Follow-Up:
+## 2. Physical Examination and Follow Up
 
 It is good medical practice for all women to have annual history and physical examinations, including women using oral contraceptives.
 
@@ -201,99 +201,99 @@ The physical examination should include special reference to blood pressure, bre
 In case of undiagnosed, persistent or recurrent abnormal vaginal bleeding, appropriate measures should be conducted to rule out malignancy.
 Women with a strong family history of breast cancer or who have breast nodules should be monitored with particular care.
 
-## 3. Lipid Disorders:
+## 3. Lipid Disorders
 
 Women who are being treated for hyperlipidemia should be followed closely if they elect to use oral contraceptives.
 Some progestogens may elevate LDL levels and may render the control of hyperlipidemias more difficult.
 
-## 4. Liver Function:
+## 4. Liver Function
 
 If jaundice develops in any woman receiving such drugs, the medication should be discontinued.
 Steroid hormones may be poorly metabolized in patients with impaired liver function.
 
-## 5. Fluid Retention:
+## 5. Fluid Retention
 
 Oral contraceptives may cause some degree of fluid retention.
 They should be prescribed with caution, and only with careful monitoring, in patients with conditions which might be aggravated by fluid retention.
 
-## 6. Emotional Disorders:
+## 6. Emotional Disorders
 
 Women with a history of depression should be carefully observed and the drug discontinued if depression recurs to a serious degree.
 
-## 7. Contact Lenses:
+## 7. Contact Lenses
 
 Contact lens wearers who develop visual changes or changes in lens tolerance should be assessed by an ophthalmologist.
 
-## 8. Drug Interactions:
+## 8. Drug Interactions
 
 ## Effects of Other Drugs on Oral Contraceptives (78)
 
-### Rifampin:
+### Rifampin
 
 Metabolism of both norethindrone and ethinyl estradiol is increased by rifampin.
 A reduction in contraceptive effectiveness and increased incidence of breakthrough bleeding and menstrual irregularities have been associated with concomitant use of rifampin.
 
-### Anticonvulsants:
+### Anticonvulsants
 
 Anticonvulsants such as phenobarbital, phenytoin, and carbamazepine, have been shown to increase the metabolism of ethinyl estradiol and/or norethindrone, which could result in a reduction in contraceptive effectiveness.
 
-### Troglitazone:
+### Troglitazone
 
 Administration of troglitazone with an oral contraceptive containing ethinyl estradiol and norethindrone reduced the plasma concentrations of both by approximately 30%, which could result in a reduction in contraceptive effectiveness.
 
-### Antibiotics:
+### Antibiotics
 
 Pregnancy while taking oral contraceptives has been reported when the oral contraceptives were administered with antimicrobials such as ampicillin, tetracycline, and griseofluvin.
 However, clinical pharmacokinetic studies have not demonstrated any consistent effect of antibiotics (other than rifampin) on plasma concentrations of synthetic steroids.
 
-### Atorvastatin:
+### Atorvastatin
 
 Coadministration of atorvastatin and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol by approximately 30% and 20%, respectively.
 
-### Other:
+### Other
 
 Ascorbic acid and acetaminophen may increase plasma ethinyl estradiol concentrations, possibly by inhibition of conjugation.
 A reduction in contraceptive effectiveness and increased incidence of breakthrough bleeding has been suggested with phenylbutazone.
 
-## Effects of Oral Contraceptives on Other Drugs:
+## Effects of Oral Contraceptives on Other Drugs
 
 Oral contraceptive combinations containing ethinyl estradiol may inhibit the metabolism of other compounds.
 Increased plasma concentrations of cyclosporine, prednisolone, and theophylline have been reported with concomitant administration of oral contraceptives.
 In addition, oral contraceptives may induce the conjugation of other compounds.
 Decreased plasma concentrations of acetaminophen and increased clearance of temazepam, salicylic acid, morphine, and clofibric acid have been noted when these drugs were administered with oral contraceptives.
 
-## 9. Interactions with Laboratory Tests:
+## 9. Interactions with Laboratory Tests
 
 Certain endocrine and liver function tests and blood components may be affected by oral contraceptives:
 
 1. 
    1. 
       1. 
-         1. Increased prothrombin and factors VII, VIII, IX, and X; decreased antithrombin 3; increased norepinephrine-induced platelet aggregability.
-         2. Increased thyroid binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 by column or by radioimmunoassay.
+         1. Increased prothrombin and factors VII, VIII, IX, and X; decreased antithrombin 3; increased norepinephrine induced platelet aggregability.
+         2. Increased thyroid binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein bound iodine (PBI), T4 by column or by radioimmunoassay.
             Free T3 resin uptake is decreased, reflecting the elevated TBG; free T4 concentration is unaltered.
          3. Other binding proteins may be elevated in serum.
-         4. Sex-binding globulins are increased and result in elevated levels of total circulating sex steroids and corticoids; however, free or biologically active levels remain unchanged.
+         4. Sex binding globulins are increased and result in elevated levels of total circulating sex steroids and corticoids; however, free or biologically active levels remain unchanged.
          5. Triglycerides may be increased.
          6. Glucose tolerance may be decreased.
          7. Serum folate levels may be depressed by oral contraceptive therapy.
             This may be of clinical significance if a woman becomes pregnant shortly after discontinuing oral contraceptives.
 
-## 10. Carcinogenesis:
+## 10. Carcinogenesis
 
 See WARNINGS section.
 
-## 11. Pregnancy:
+## 11. Pregnancy
 
 Pregnancy Category X: See CONTRAINDICATIONS and WARNINGS sections.
 
-## 12. Nursing Mothers:
+## 12. Nursing Mothers
 
 Small amounts of oral contraceptive steroids have been identified in the milk of nursing mothers, and a few adverse effects on the child have been reported, including jaundice and breast enlargement.
 In addition, oral contraceptives, given in the postpartum period may interfere with lactation by decreasing the quantity and quality of breast milk.
 If possible, the nursing mother should be advised not to use oral contraceptives but to use other forms of contraception until she has completely weaned her child.
 
-## 13. Pediatric Use:
+## 13. Pediatric Use
 
 Safety and efficacy of norethindrone acetate and ethinyl estradiol tablets have been established in women of reproductive age.
 Safety and efficacy are expected to be the same for postpubertal adolescents under the age of 16 and for users 16 years and older.
