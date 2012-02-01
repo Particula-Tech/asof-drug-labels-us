@@ -79,7 +79,7 @@ It is especially important to tell your doctor if you take:
 - verapamil, diltiazem, amlodipine, or ranolazine (drugs used to treat high blood pressure, chest pain associated with heart disease, or other heart conditions)
 - large quantities of grapefruit juice (more than 1 quart daily)
 - colchicine (a medicine used to treat gout)
-- voraconazole (an anti-fungal medicine)
+- voriconazole (an anti-fungal medicine)
 - large doses of niacin or nicotinic acid
 
 Tell your doctor if you are taking niacin or a niacin-containing product, as this may increase your risk of muscle problems, especially if you are Chinese.

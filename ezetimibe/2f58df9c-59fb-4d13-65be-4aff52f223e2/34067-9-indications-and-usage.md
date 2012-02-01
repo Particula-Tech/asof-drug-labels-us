@@ -5,7 +5,7 @@ Drug therapy is indicated as an adjunct to diet when the response to a diet rest
 
 ## 1.1 Primary Hyperlipidemia
 
-VYTORIN is indicated for the reduction of elevated total cholesterol (total-C), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (Apo B), triglycerides (TG), and non-high-density lipoprotein cholesterol (non-HDL-C), and to increase high-density lipoprotein cholesterol (HDL-C) in patients with primary (heterozygous familial and non-familial) hyperlipidemia or mixed hyperlipidemia.
+VYTORIN® is indicated for the reduction of elevated total cholesterol (total-C), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (Apo B), triglycerides (TG), and non-high-density lipoprotein cholesterol (non-HDL-C), and to increase high-density lipoprotein cholesterol (HDL-C) in patients with primary (heterozygous familial and non-familial) hyperlipidemia or mixed hyperlipidemia.
 
 ## 1.2 Homozygous Familial Hypercholesterolemia (HoFH)
 

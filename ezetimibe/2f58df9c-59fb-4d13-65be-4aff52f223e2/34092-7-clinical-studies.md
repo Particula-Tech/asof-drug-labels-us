@@ -138,3 +138,49 @@ Data were analyzed from a subgroup of patients (n=14) receiving simvastatin 40 m
 Increasing the dose of simvastatin from 40 to 80 mg (n=5) produced a reduction of LDL-C of 13% from baseline on simvastatin 40 mg.
 Coadministered ezetimibe and simvastatin equivalent to VYTORIN (10/40 and 10/80 pooled, n=9), produced a reduction of LDL-C of 23% from baseline on simvastatin 40 mg.
 In those patients coadministered ezetimibe and simvastatin equivalent to VYTORIN (10/80, n=5), a reduction of LDL-C of 29% from baseline on simvastatin 40 mg was produced.
+
+## 14.3 Chronic Kidney Disease (CKD)
+
+The Study of Heart and Renal Protection (SHARP) was a multinational, randomized, placebo-controlled, double-blind trial that investigated the effect of VYTORIN on the time to a first major vascular event (MVE) among 9438 patients with moderate to severe chronic kidney disease (approximately one-third on dialysis at baseline) who did not have a history of myocardial infarction or coronary revascularization.
+An MVE was defined as nonfatal MI, cardiac death, stroke, or any revascularization procedure.
+Patients were allocated to treatment using a method that took into account the distribution of 8 important baseline characteristics of patients already enrolled and minimized the imbalance of those characteristics across the groups.
+
+For the first year, 9438 patients were allocated 4:4:1, to VYTORIN 10/20, placebo, or simvastatin 20 mg daily, respectively.
+The 1-year simvastatin arm enabled the comparison of VYTORIN to simvastatin with regard to safety and effect on lipid levels.
+At 1 year the simvastatin-only arm was re-allocated 1:1 to VYTORIN 10/20 or placebo.
+A total of 9270 patients were ever allocated to VYTORIN 10/20 (n=4650) or placebo (n=4620) during the trial.
+The median follow-up duration was 4.9 years.
+Patients had a mean age of 61 years; 63% were male, 72% were Caucasian, and 23% were diabetic; and, for those not on dialysis at baseline, the median serum creatinine was 2.5 mg/dL and the median estimated glomerular filtration rate (eGFR) was 25.6 mL/min/1.73 m2, with 94% of patients having an eGFR < 45 mL/min/1.73m2.
+Eligibility did not depend on lipid levels.
+Mean LDL-C at baseline was 108 mg/dL.
+At 1 year, the mean LDL-C was 26% lower in the simvastatin arm and 38% lower in the VYTORIN arm relative to placebo.
+At the midpoint of the study (2.5 years), the mean LDL-C was 32% lower for VYTORIN relative to placebo.
+Patients no longer taking study medication were included in all lipid measurements.
+
+In the primary intent-to-treat analysis, 639 (15.2%) of 4193 patients initially allocated to VYTORIN and 749 (17.9%) of 4191 patients initially allocated to placebo experienced an MVE.
+This corresponded to a relative risk reduction of 16% (p=0.001) (see Figure 1).
+Similarly, 526 (11.3%) of 4650 patients ever allocated to VYTORIN and 619 (13.4%) of 4620 patients ever allocated to placebo experienced a major atherosclerotic event (MAE; a subset of the MVE composite that excluded non-coronary cardiac deaths and hemorrhagic stroke), corresponding to a relative risk reduction of 17% (p=0.002).
+The trial demonstrated that treatment with VYTORIN 10/20 mg versus placebo reduced the risk for MVE and MAE in this CKD population.
+The study design precluded drawing conclusions regarding the independent contribution of either ezetimibe or simvastatin to the observed effect.
+
+The treatment effect of VYTORIN on MVE was attenuated among patients on dialysis at baseline compared with those not on dialysis at baseline.
+Among 3023 patients on dialysis at baseline, VYTORIN reduced the risk of MVE by 6% (RR 0.94: 95% CI 0.80-1.09) compared with 22% (RR 0.78: 95% CI 0.69-0.89) among 6247 patients not on dialysis at baseline (interaction P=0.08).
+
+| Figure 1: Effect of VYTORIN on the Primary Endpoint of Risk of Major Vascular Events |
+| --- |
+
+The individual components of MVE in all patients ever allocated to VYTORIN or placebo are presented in Table 12.
+
+Table 12 Number of First Events for Each Component of the Major Vascular Event Composite Endpoint in SHARPIntention-to-treat analysis on all SHARP patients ever allocated to VYTORIN or placebo
+
+| Outcome | VYTORIN 10/20 (N=4650) | Placebo (N=4620) | Risk Ratio (95% CI) | P-value |
+| --- | --- | --- | --- | --- |
+| Major Vascular Events | 701 (15.1%) | 814 (17.6%) | 0.85 (0.77-0.94) | 0.001 |
+| Nonfatal MI | 134 (2.9%) | 159 (3.4%) | 0.84 (0.66-1.05) | 0.12 |
+| Cardiac Death | 253 (5.4%) | 272 (5.9%) | 0.93 (0.78-1.10) | 0.38 |
+| Any Stroke | 171 (3.7%) | 210 (4.5%) | 0.81 (0.66-0.99) | 0.038 |
+| Non-hemorrhagic Stroke | 131 (2.8%) | 174 (3.8%) | 0.75 (0.60-0.94) | 0.011 |
+| Hemorrhagic Stroke | 45 (1.0%) | 37 (0.8%) | 1.21 (0.78-1.86) | 0.40 |
+| Any Revascularization | 284 (6.1%) | 352 (7.6%) | 0.79 (0.68-0.93) | 0.004 |
+
+Among patients not on dialysis at baseline, VYTORIN did not reduce the risk of progressing to end-stage renal disease compared with placebo (RR 0.97: 95% CI 0.89-1.05).

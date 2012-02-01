@@ -23,6 +23,9 @@ If, however, a patient who is currently tolerating the 10/80-mg dose of VYTORIN 
 Patients should be advised of the increased risk of myopathy, including rhabdomyolysis, and to report promptly any unexplained muscle pain, tenderness or weakness.
 If symptoms occur, treatment should be discontinued immediately [see Warnings and Precautions (5.2)].
 
+In the Study of Heart and Renal Protection (SHARP), 9270 patients with chronic kidney disease were allocated to receive VYTORIN 10/20 mg daily (n=4650) or placebo (n=4620).
+During a median follow-up period of 4.9 years, the incidence of myopathy (defined as unexplained muscle weakness or pain with a serum creatine kinase [CK] >10 times upper limit of normal [ULN]) was 0.2% for VYTORIN and 0.1% for placebo: the incidence of rhabdomyolysis (defined as myopathy with a CK > 40 times ULN) was 0.09% for VYTORIN and 0.02% for placebo.
+
 In post-marketing experience with ezetimibe, cases of myopathy and rhabdomyolysis have been reported.
 Most patients who developed rhabdomyolysis were taking a statin prior to initiating ezetimibe.
 However, rhabdomyolysis has been reported very rarely with ezetimibe monotherapy and very rarely with the addition of ezetimibe to agents known to be associated with increased risk of rhabdomyolysis, such as fibrates.
@@ -81,6 +84,9 @@ Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 In three placebo-controlled, 12-week trials, the incidence of consecutive elevations (≥3 X ULN) in serum transaminases was 1.7% overall for patients treated with VYTORIN and appeared to be dose-related with an incidence of 2.6% for patients treated with VYTORIN 10/80.
 In controlled long-term (48-week) extensions, which included both newly-treated and previously-treated patients, the incidence of consecutive elevations (≥3 X ULN) in serum transaminases was 1.8% overall and 3.6% for patients treated with VYTORIN 10/80.
 These elevations in transaminases were generally asymptomatic, not associated with cholestasis, and returned to baseline after discontinuation of therapy or with continued treatment.
+
+In SHARP, 9270 patients with chronic kidney disease were allocated to receive VYTORIN 10/20 mg daily (n=4650), or placebo (n=4620).
+During a median follow-up period of 4.9 years, the incidence of consecutive elevations of transaminases (>3 × ULN) was 0.7% for VYTORIN and 0.6% for placebo.
 
 It is recommended that liver function tests be performed before the initiation of treatment with VYTORIN, and thereafter when clinically indicated.
 There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including simvastatin.

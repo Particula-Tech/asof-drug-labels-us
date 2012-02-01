@@ -5,7 +5,7 @@
 The usual dosage range is 10/10 mg/day to 10/40 mg/day.
 The recommended usual starting dose is 10/10 mg/day or 10/20 mg/day.
 VYTORIN should be taken as a single daily dose in the evening, with or without food.
-Patients who require a larger reduction in LDL-C (greater than 55%) may be started at 10/40 mg/day.
+Patients who require a larger reduction in LDL-C (greater than 55%) may be started at 10/40 mg/day in the absence of moderate to severe renal impairment (estimated glomerular filtration rate <60 mL/min/1.73 m2).
 After initiation or titration of VYTORIN, lipid levels may be analyzed after 2 or more weeks and dosage adjusted, if needed.
 
 ## 2.2 Restricted Dosing for 10/80 mg
@@ -14,7 +14,7 @@ Due to the increased risk of myopathy, including rhabdomyolysis, particularly du
 
 Patients who are currently tolerating the 10/80-mg dose of VYTORIN who need to be initiated on an interacting drug that is contraindicated or is associated with a dose cap for simvastatin should be switched to an alternative statin or statin-based regimen with less potential for the drug-drug interaction.
 
-Due to the increased risk of myopathy, including rhabdomyolysis, associated with the 10/80-mg dose of VYTORIN, patients unable to achieve their LDL-C goal utilizing the 10/40-mg dose of VYTORIN should not be titrated to the 10/80-mg dose, but should be placed on alternative LDL-C-Iowering treatment(s) that provides greater LDL-C lowering.
+Due to the increased risk of myopathy, including rhabdomyolysis, associated with the 10/80-mg dose of VYTORIN, patients unable to achieve their LDL-C goal utilizing the 10/40-mg dose of VYTORIN should not be titrated to the 10/80-mg dose, but should be placed on alternative LDL-C-lowering treatment(s) that provides greater LDL-C lowering.
 
 ## 2.3 Coadministration with Other Drugs
 
@@ -39,11 +39,11 @@ VYTORIN should be used as an adjunct to other lipid-lowering treatments (e.g., L
 
 No dosage adjustment is necessary in patients with mild hepatic impairment [see Warnings and Precautions (5.3)].
 
-## 2.6 Patients with Renal Impairment
+## 2.6 Patients with Renal Impairment/Chronic Kidney Disease
 
-No dosage adjustment is necessary in patients with mild or moderate renal impairment.
-However, for patients with severe renal insufficiency, VYTORIN should not be started unless the patient has already tolerated treatment with simvastatin at a dose of 5 mg or higher.
-Caution should be exercised when VYTORIN is administered to these patients, and they should be closely monitored [see Warnings and Precautions (5.1); Clinical Pharmacology (12.3)].
+In patients with mild renal impairment (estimated GFR ≥60 mL/min/1.73 m2), no dosage adjustment is necessary.
+In patients with chronic kidney disease and estimated glomerular filtration rate <60 mL/min/1.73 m2, the dose of VYTORIN is 10/20 mg/day in the evening.
+In such patients, higher doses should be used with caution and close monitoring [see Warnings and Precautions (5.1); Clinical Pharmacology (12.3)].
 
 ## 2.7 Geriatric Patients
 

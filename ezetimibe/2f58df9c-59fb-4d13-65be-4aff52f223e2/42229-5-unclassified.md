@@ -18,14 +18,14 @@ Via Emilia, 21 27100 – Pavia, Italy and MSD International GmbH (Singapore Bran
 
 U.S. Patent Nos. 5,846,966 and RE42,461
 
-Revised: 11/2011
+Revised: 01/2012
 
-9619521
+9619522
 
 Manufactured for: MSP Distribution Services (C) LLC, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 This patient information has been approved by the U.S. Food and Drug Administration
 
-Revised: 11/2011
+Revised: 01/2012
 
-9619521
+9619522

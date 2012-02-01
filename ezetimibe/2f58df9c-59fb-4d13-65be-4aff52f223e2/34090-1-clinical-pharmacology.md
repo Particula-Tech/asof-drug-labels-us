@@ -90,7 +90,7 @@ Simvastatin
 
 Simvastatin is a lactone that is readily hydrolyzed in vivo to the corresponding β-hydroxyacid, a potent inhibitor of HMG-CoA reductase.
 Inhibition of HMG-CoA reductase is a basis for an assay in pharmacokinetic studies of the β-hydroxyacid metabolites (active inhibitors) and, following base hydrolysis, active plus latent inhibitors (total inhibitors) in plasma following administration of simvastatin.
-The major active metabolites of simvastatin present in human plasma are the β-hydroxyacid of simvastatin and its 6′-hydroxy, 6′-hydroxymethyl, and 6′-exomethylene derivatives.
+The major active metabolites of simvastatin present in human plasma are the β-hydroxyacid of simvastatin and its 6'-hydroxy, 6'-hydroxymethyl, and 6'-exomethylene derivatives.
 
 Following an oral dose of 14C-labeled simvastatin in man, 13% of the dose was excreted in urine and 60% in feces.
 Plasma concentrations of total radioactivity (simvastatin plus 14C-metabolites) peaked at 4 hours and declined rapidly to about 10% of peak by 12 hours postdose.

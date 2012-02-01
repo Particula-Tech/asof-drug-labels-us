@@ -54,7 +54,7 @@ Because a small amount of another drug in the same class as simvastatin is excre
 ## 8.4 Pediatric Use
 
 The effects of ezetimibe coadministered with simvastatin (n=126) compared to simvastatin monotherapy (n=122) have been evaluated in adolescent boys and girls with heterozygous familial hypercholesterolemia (HeFH).
-In a multicenter, double-blind, controlled study followed by an open-label phase, 142 boys and 106 postmenarchal girls, 10 to 17 years of age (mean age 14.2 years, 43% females, 82% Caucasians, 4% Asian, 2% Blacks, 13% multi-racial) with HeFH were randomized to receive either ezetimibe coadministered with simvastatin or simvastatin monotherapy.
+In a multicenter, double-blind, controlled study followed by an open-label phase, 142 boys and 106 postmenarchal girls, 10 to 17 years of age (mean age 14.2 years, 43% females, 82% Caucasians, 4% Asian, 2% Blacks, 13% multiracial) with HeFH were randomized to receive either ezetimibe coadministered with simvastatin or simvastatin monotherapy.
 Inclusion in the study required 1) a baseline LDL-C level between 160 and 400 mg/dL and 2) a medical history and clinical presentation consistent with HeFH.
 The mean baseline LDL-C value was 225 mg/dL (range: 161-351 mg/dL) in the ezetimibe coadministered with simvastatin group compared to 219 mg/dL (range: 149-336 mg/dL) in the simvastatin monotherapy group.
 The patients received coadministered ezetimibe and simvastatin (10 mg, 20 mg, or 40 mg) or simvastatin monotherapy (10 mg, 20 mg, or 40 mg) for 6 weeks, coadministered ezetimibe and 40 mg simvastatin or 40 mg simvastatin monotherapy for the next 27 weeks, and open-label coadministered ezetimibe and simvastatin (10 mg, 20 mg, or 40 mg) for 20 weeks thereafter.
@@ -101,8 +101,9 @@ In a clinical trial of patients treated with simvastatin 80 mg/day, patients ≥
 
 ## 8.6 Renal Impairment
 
-Caution should be exercised when VYTORIN is administered to patients with severe renal impairment.
-[See Dosage and Administration (2.6).]
+In the SHARP trial of 9270 patients with moderate to severe renal impairment (6247 non-dialysis patients with median serum creatinine 2.5 mg/dL and median estimated glomerular filtration rate 25.6 mL/min/1.73 m2, and 3023 dialysis patients), the incidence of serious adverse events, adverse events leading to discontinuation of study treatment, or adverse events of special interest (musculoskeletal adverse events, liver enzyme abnormalities, incident cancer) was similar between patients ever assigned to VYTORIN 10/20 mg (n=4650) or placebo (n=4620) during a median follow-up of 4.9 years.
+However, because renal impairment is a risk factor for statin-associated myopathy, doses of VYTORIN exceeding 10/20 mg should be used with caution and close monitoring in patients with moderate to severe renal impairment.
+[See Dosage and Administration (2.6), Adverse Reactions (6.1), and Clinical Studies (14.3).]
 
 ## 8.7 Hepatic Impairment
 

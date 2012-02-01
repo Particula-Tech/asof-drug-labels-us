@@ -41,6 +41,15 @@ Table 2Includes two placebo-controlled combination studies in which the active i
 | Myalgia | 2.4 | 2.3 | 2.6 | 3.6 |
 | Pain in extremity | 1.3 | 3.0 | 2.0 | 2.3 |
 
+Study of Heart and Renal Protection
+
+In SHARP, 9270 patients were allocated to VYTORIN 10/20 mg daily (n=4650) or placebo (n=4620) for a median follow-up period of 4.9 years.
+The proportion of patients who permanently discontinued study treatment as a result of either an adverse event or abnormal safety blood result was 10.4% vs. 9.8% among patients allocated to VYTORIN and placebo, respectively.
+Comparing those allocated to VYTORIN vs. placebo, the incidence of myopathy (defined as unexplained muscle weakness or pain with a serum CK >10 times ULN) was 0.2% vs. 0.1% and the incidence of rhabdomyolysis (defined as myopathy with a CK >40 times ULN) was 0.09% vs. 0.02%, respectively.
+Consecutive elevations of transaminases (>3 × ULN) occurred in 0.7% vs. 0.6%, respectively.
+Patients were asked about the occurrence of unexplained muscle pain or weakness at each study visit: 21.5% vs. 20.9% patients ever reported muscle symptoms in the VYTORIN and placebo groups, respectively.
+Cancer was diagnosed during the trial in 9.4% vs. 9.5% of patients assigned to VYTORIN and placebo, respectively.
+
 Ezetimibe
 
 Other adverse reactions reported with ezetimibe in placebo-controlled studies, regardless of causality assessment: Musculoskeletal system disorders: arthralgia; Infections and infestations: sinusitis; Body as a whole – general disorders: fatigue.
