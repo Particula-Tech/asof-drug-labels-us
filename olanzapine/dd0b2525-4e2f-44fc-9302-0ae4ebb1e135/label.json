@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA077243"
+  ],
+  "inn": "olanzapine",
+  "labeler": "Teva Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-5245-65",
+    "0093-5246-65",
+    "0093-5247-65",
+    "0093-5248-65"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "olanzapine",
+      "name": "Olanzapine"
+    }
+  ],
+  "setid": "dd0b2525-4e2f-44fc-9302-0ae4ebb1e135",
+  "source": "dailymed"
+}
