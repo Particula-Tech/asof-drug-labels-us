@@ -5,21 +5,21 @@ For proper use, refer to the Instructions for Use provided with the administrati
 
 Saizen® [somatropin (rDNA origin) for injection] is a sterile, non pyrogenic, white, lyophilized powder supplied in packages containing:
 
-1 vial of 5 mg Saizen® and 1 vial of 10 mL Bacteriostatic Water for Injection, USP (0.9% Benzyl Alcohol) NDC 44087-1005-2
+1 vial of 5 mg Saizen® and 1 vial of 3.5 mL Bacteriostatic Water for Injection, USP (0.9% Benzyl Alcohol) NDC 44087-1005-2
 
-1 vial of 8.8 mg Saizen® and 1 vial of 10 mL Bacteriostatic Water for Injection, USP (0.9% Benzyl Alcohol) NDC 44087-1088-1
+1 vial of 8.8 mg Saizen® and 1 vial of 3.5 mL Bacteriostatic Water for Injection, USP (0.9% Benzyl Alcohol) NDC 44087-1088-1
 
 1 click.easy® cartridge of 8.8 mg Saizen® and 1.51 mL Sterile Water for Injection 0.3% (w/v) metacresol in WFI NDC 44087-1080-1
 
 Rx Only
 
-June 2010
+December 2011
 
 Manufactured for: EMD Serono, Inc., Rockland, MA 02370 USA
 
 ® - Registered trademark of EMD Serono, Inc., Rockland, MA 02370
 
-N12Z0101F
+N12Z0101H
 
 click.easy® Reconstitution Device Saizen® 8.8 mg [somatropin (rDNA origin) for injection]
 
@@ -120,4 +120,6 @@ Saizen® 8.8 mg contained in the click.easy® device is available in the followi
 
 Manufactured for: EMD Serono Inc., Rockland, MA 02370 Rx Only BX Rated
 
-June 2010
+December 2011
+
+N1280101G
