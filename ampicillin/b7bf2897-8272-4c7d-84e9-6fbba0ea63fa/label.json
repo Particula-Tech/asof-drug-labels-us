@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA065499"
+  ],
+  "inn": "ampicillin",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-111-10",
+    "55150-112-10",
+    "55150-113-10",
+    "55150-114-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "ampicillin sodium",
+      "name": "Ampicillin"
+    }
+  ],
+  "setid": "b7bf2897-8272-4c7d-84e9-6fbba0ea63fa",
+  "source": "dailymed"
+}
