@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA091375"
+  ],
+  "inn": "levofloxacin",
+  "labeler": "West-ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9720-01",
+    "0143-9721-01",
+    "0143-9722-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "levofloxacin",
+      "name": "Levofloxacin"
+    }
+  ],
+  "setid": "e680c759-16c5-4532-9c9c-f42c8c3df74a",
+  "source": "dailymed"
+}
