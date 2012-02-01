@@ -1,29 +1,13 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Fetal/Neonatal Morbidity and Mortality
+## 5.1 Fetal Toxicity
 
-Drugs that act directly on the renin-angiotensin system can cause fetal and neonatal morbidity and death when administered to pregnant women.
-Several dozen cases have been reported in the world literature in patients who were taking angiotensin converting enzyme inhibitors.
-When pregnancy is detected, discontinue MICARDIS tablets as soon as possible [see Boxed Warning].
+Pregnancy Category D
 
-The use of drugs that act directly on the renin-angiotensin system during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
-Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
-Prematurity, intrauterine growth retardation, and patent ductus arteriosus have also been reported, although it is not clear whether these occurrences were related to exposure to the drug.
-
-These adverse effects do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
-Inform mothers whose embryos and fetuses are exposed to an angiotensin II receptor antagonist only during the first trimester that most reports of fetal toxicity have been associated with second and third trimester exposure.
-Nonetheless, when patients become pregnant or are considering pregnancy, have the patient discontinue the use of MICARDIS tablets as soon as possible.
-
-Rarely (probably less often than once in every thousand pregnancies), no alternative to an angiotensin II receptor antagonist will be found.
-In these rare cases, the mothers should be apprised of the potential hazards to their fetuses, and serial ultrasound examinations should be performed to assess the intra-amniotic environment.
-
-If oligohydramnios is observed, MICARDIS should be discontinued unless they are considered life-saving for the mother.
-Contraction stress testing (CST), a non-stress test (NST), or biophysical profiling (BPP) may be appropriate, depending upon the week of pregnancy.
-Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-
-Infants with histories of in utero exposure to an angiotensin II receptor antagonist should be closely observed for hypotension, oliguria, and hyperkalemia.
-If oliguria occurs, attention should be directed toward support of blood pressure and renal perfusion.
-Exchange transfusion or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
+Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
+When pregnancy is detected, discontinue MICARDIS as soon as possible [see Use in Specific Populations (8.1)].
 
 ## 5.2 Hypotension
 

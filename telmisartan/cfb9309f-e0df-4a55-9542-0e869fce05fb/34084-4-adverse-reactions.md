@@ -39,9 +39,7 @@ Autonomic Nervous System: impotence, increased sweating, flushing; Body as a Who
 
 During initial clinical studies, a single case of angioedema was reported (among a total of 3781 patients treated).
 
-Clinical Laboratory Findings
-
-In placebo-controlled clinical trials, clinically relevant changes in standard laboratory test parameters were rarely associated with administration of MICARDIS tablets.
+Clinical Laboratory Findings In placebo-controlled clinical trials, clinically relevant changes in standard laboratory test parameters were rarely associated with administration of MICARDIS tablets.
 
 Hemoglobin: A greater than 2 g/dL decrease in hemoglobin was observed in 0.8% telmisartan patients compared with 0.3% placebo patients.
 No patients discontinued therapy because of anemia.
@@ -52,9 +50,7 @@ One telmisartan-treated patient discontinued therapy because of increases in cre
 Liver Enzymes: Occasional elevations of liver chemistries occurred in patients treated with telmisartan; all marked elevations occurred at a higher frequency with placebo.
 No telmisartan-treated patients discontinued therapy because of abnormal hepatic function.
 
-Cardiovascular Risk Reduction
-
-Because common adverse reactions were well characterized in studies of telmisartan in hypertension, only adverse events leading to discontinuation and serious adverse events were recorded in subsequent studies of telmisartan for cardiovascular risk reduction.
+Cardiovascular Risk Reduction Because common adverse reactions were well characterized in studies of telmisartan in hypertension, only adverse events leading to discontinuation and serious adverse events were recorded in subsequent studies of telmisartan for cardiovascular risk reduction.
 In TRANSCEND (N=5926, 4 years and 8 months of follow-up), discontinuations for adverse events were 8.4% on telmisartan and 7.6% on placebo.
 The only serious adverse events at least 1% more common on telmisartan than placebo were intermittent claudication (7% vs 6%) and skin ulcer (3% vs 2%).
 

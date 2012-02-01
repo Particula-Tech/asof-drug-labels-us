@@ -8,10 +8,9 @@ This information does not take the place of talking to your doctor about your me
 
 What is the most important information I should know about MICARDIS tablets?
 
-MICARDIS is not for pregnant women.
-Taking MICARDIS tablets during your pregnancy can cause injury and even death to your unborn baby.
-If you get pregnant, stop taking MICARDIS tablets and call your doctor right away.
-If you plan to become pregnant, talk to your doctor about other ways to lower your blood pressure.
+MICARDIS can cause harm or death to an unborn baby.
+Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
+If you get pregnant while taking MICARDIS, tell your doctor right away.
 
 What is MICARDIS?
 
@@ -167,10 +166,10 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
-Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright 2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: October 2011
+Revised: January 2012
 
-OT1200RJ112011 090340194/11
+OT1200SA252012 090340194/12
 
-IT12004N 10005385/8
+IT12004O 10005385/9
