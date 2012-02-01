@@ -16,7 +16,7 @@ Other aspergillosis infections included disseminated disease, CNS infections and
 Diagnosis of definite or probable invasive aspergillosis was made according to criteria modified from those established by the National Institute of Allergy and Infectious Diseases Mycoses Study Group/European Organisation for Research and Treatment of Cancer (NIAID MSG/EORTC).
 
 Voriconazole was administered intravenously with a loading dose of 6 mg/kg every 12 hours for the first 24 hours followed by a maintenance dose of 4 mg/kg every 12 hours for a minimum of 7 days.
-Therapy could then be switched to the oral formulation at a dose of 200 mg Q12h.
+Therapy could then be switched to the oral formulation at a dose of 200 mg q12h.
 Median duration of IV voriconazole therapy was 10 days (range 2 to 90 days).
 After IV voriconazole therapy, the median duration of PO voriconazole therapy was 76 days (range 2 to 232 days).
 
@@ -110,7 +110,7 @@ Overall Success Rates Sustained From EOT to the Fixed 12 Week Follow-Up Time Poi
 In a secondary analysis, which counted DRC-assessed successes at any time point (EOT, or 2, 6 or 12 weeks after EOT), the response rates were 65% for voriconazole and 71% for the regimen of amphotericin B followed by fluconazole.
 
 In Studies 608 and 309/604 (non-comparative study in patients with invasive fungal infections who were refractory to, or intolerant of, other antifungal agents), voriconazole was evaluated in 35 patients with deep tissue Candida infections.
-A favorable response was seen in 4 of 7 patients with intraabdominal infections, 5 of 6 patients with kidney and bladder wall infections, 3 of 3 patients with deep tissue abscess or wound infection, 1 of 2 patients with pneumonia/pleural space infections, 2 of 4 patients with skin lesions, 1 of 1 patients with mixed intraabdominal and pulmonary infection, 1 of 2 patients with suppurative phlebitis, 1 of 3 patients with hepatosplenic infection, 1 of 5 patients with osteomyelitis, 0 of 1 with liver infection and 0 of 1 with cervical lymph node infection.
+A favorable response was seen in 4 of 7 patients with intra-abdominal infections, 5 of 6 patients with kidney and bladder wall infections, 3 of 3 patients with deep tissue abscess or wound infection, 1 of 2 patients with pneumonia/pleural space infections, 2 of 4 patients with skin lesions, 1 of 1 patients with mixed intraabdominal and pulmonary infection, 1 of 2 patients with suppurative phlebitis, 1 of 3 patients with hepatosplenic infection, 1 of 5 patients with osteomyelitis, 0 of 1 with liver infection and 0 of 1 with cervical lymph node infection.
 
 ## 14.3 Esophageal Candidiasis
 

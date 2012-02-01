@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-VORICONAZOLE TABLETS
+VORICONAZOLE TABLETS (vor" i kon' a zole)
 
 50 mg and 200 mg
 
@@ -23,7 +23,7 @@ Do not take voriconazole tablets if you:
   See the end of this leaflet for a complete list of ingredients in voriconazole tablets.
 - are taking any of the following medicines:
   - cisapride (Propulsid®)
-  - pimozide (Irao®)
+  - pimozide (Orap®)
   - quinidine (like Quinaglute®)
   - sirolimus (Rapamune®)
   - rifampin (Rifadin®)
@@ -36,7 +36,7 @@ Do not take voriconazole tablets if you:
 
 Ask your healthcare provider or pharmacist if you are not sure if you are taking any of the medicines listed above.
 
-Do not start taking a new medicine without taking to your healthcare provider or pharmacist.
+Do not start taking a new medicine without talking to your healthcare provider or pharmacist.
 
 What should I tell my healthcare provider before taking voriconazole tablets?
 
@@ -77,7 +77,7 @@ What should I avoid while taking voriconazole tablets?
 
 - You should not drive at night while taking voriconazole tablets.
   Voriconazole tablets can cause changes in your vision such as blurring or sensitivity to light.
-- Do not drive or, operate machinery, or do other dangerous activities until you know how voriconazole tablets affect you.
+- Do not drive or operate machinery, or do other dangerous activities until you know how voriconazole tablets affect you.
 - Avoid direct sunlight.
   Voriconazole tablets can make your skin sensitive to the sun and the light from sunlamps and tanning beds.
   You could get a severe sunburn.
@@ -156,7 +156,7 @@ How should I store voriconazole tablets?
 
 General information about the safe and effective use of voriconazole tablets
 
-Medicines are sometimes prescribed for purposed other than those listed in a Patient Information leaflet.
+Medicines are sometimes prescribed for purposs other than those listed in a Patient Information leaflet.
 Do not use voriconazole tablets for a condition for which it was not prescribed.
 Do not give voriconazole tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
@@ -175,8 +175,8 @@ Inactive ingredients: croscarmellose sodium, hypromellose, lactose monohydrate, 
 
 Trademarks are property of their respective owners.
 
-Manufactured in India by: Matrix Laboratories Limited Secunderabad—500 003, India Code No. MH/DRUGS/25/NKD/89
+Manufactured in India by: Mylan Laboratories Limited Hyderabad—500 034, India Code No. MH/DRUGS/25/NKD/89
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED DECEMBER 2010 VORIC:R2pt/PL:VORIC:R2pt
+REVISED DECEMBER 2011 MX:VORIC:R3pt

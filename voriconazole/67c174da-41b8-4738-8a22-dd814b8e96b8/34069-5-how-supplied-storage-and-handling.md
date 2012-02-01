@@ -22,3 +22,7 @@ NDC 0378-1640-05 bottles of 500 tablets
 
 Voriconazole tablets should be stored at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+PHARMACIST: Dispense a Patient Information Leaflet with each prescription.

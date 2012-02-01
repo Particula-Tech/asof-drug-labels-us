@@ -18,4 +18,4 @@ This was statistically significant only in the preliminary study and not in a la
 
 ### Pregnancy Category D
 
-[See Warnings and Precautions (5.4), Pregnancy (8.1).]
+[See Warnings and Precautions (5.4) and Use is Specific Populations (8.1).]

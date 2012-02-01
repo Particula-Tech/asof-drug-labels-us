@@ -5,7 +5,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 ## 6.1 Overview
 
 The most frequently reported adverse events (all causalities) in the therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3.0%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
-The treatment-related adverse events which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash and visual disturbances [see Warning and Precautions (5.2, 5.3), Adverse Reactions (6.3), Adverse Reactions (6.2)].
+The treatment-related adverse events which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash and visual disturbances [see Warning and Precautions (5.2, 5.3) and Adverse Reactions (6.2, 6.3)].
 
 ## 6.2 Clinical Trial Experience in Adults
 
@@ -75,7 +75,7 @@ The mechanism of action of the visual disturbance is unknown, although the site 
 In a study in healthy subjects investigating the effect of 28-day treatment with voriconazole on retinal function, voriconazole caused a decrease in the electroretinogram (ERG) waveform amplitude, a decrease in the visual field and an alteration in color perception.
 The ERG measures electrical currents in the retina.
 The effects were noted early in administration of voriconazole and continued through the course of study drug dosing.
-Fourteen days after end of dosing, ERG, visual fields and color perception returned to normal [see Warnings and Precautions (5)].
+Fourteen days after end of dosing, ERG, visual fields and color perception returned to normal [see Warnings an Precautions (5)].
 
 ### Dermatological Reactions
 
@@ -96,7 +96,7 @@ The following adverse events occurred in < 2% of all voriconazole-treated patien
 This listing includes events where a causal relationship to voriconazole cannot be ruled out or those which may help the physician in managing the risks to the patients.
 The list does not include events included in Table 2 above and does not include every event reported in the voriconazole clinical program.
 
-Body as a Whole: abdominal pain, abdomen enlarged, allergic reaction, anaphylactoid reaction [see Warnings and Precautions (5)], ascites, asthenia, back pain, chest pain, cellulitis, edema, face edema, flank pain, flu syndrome, graft versus host reaction, granuloma, infection, bacterial infection, fungal infection, injection site pain, injection site infection/inflammation, mucous membrane disorder, multi-organ failure, pain, pelvic pain, peritonitis, sepsis, substernal chest pain
+Body as a Whole: abdominal pain, abdomen enlarged, allergic reaction, anaphylactoid reaction [see Warnings and Precautions (5.6)], ascites, asthenia, back pain, chest pain, cellulitis, edema, face edema, flank pain, flu syndrome, graft versus host reaction, granuloma, infection, bacterial infection, fungal infection, injection site pain, injection site infection/inflammation, mucous membrane disorder, multi-organ failure, pain, pelvic pain, peritonitis, sepsis, substernal chest pain
 
 Cardiovascular: atrial arrhythmia, atrial fibrillation, AV block complete, bigeminy, bradycardia, bundle branch block, cardiomegaly, cardiomyopathy, cerebral hemorrhage, cerebral ischemia, cerebrovascular accident, congestive heart failure, deep thrombophlebitis, endocarditis, extrasystoles, heart arrest, hypertension, hypotension, myocardial infarction, nodal arrhythmia, palpitation, phlebitis, postural hypotension, pulmonary embolus, QT interval prolonged, supraventricular extrasystoles, supraventricular tachycardia, syncope, thrombophlebitis, vasodilatation, ventricular arrhythmia, ventricular fibrillation, ventricular tachycardia (including torsade de pointes) [see Warnings and Precautions (5.6)].
 
@@ -185,3 +185,12 @@ Protocol 608- Treatment of Candidemia Clinically Significant Laboratory Test Abn
 | Creatinine | > 1.3 x ULN | 39/260 (15) | 32/118 (27.1) |
 | Potassium | < 0.9 x LLN | 43/258 (16.7) | 35/118 (29.7) |
 | n number of patients with a clinically significant abnormality while on study therapy N total number of patients with at least one observation of the given lab test while on study therapy ULN upper limit of normal LLN lower limit of normal |  |  |  |
+
+## 6.4 Post-Marketing Experience
+
+The following adverse reactions have been identified during post approval use of voriconazole.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+### Skeletal
+
+Fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.14)].
