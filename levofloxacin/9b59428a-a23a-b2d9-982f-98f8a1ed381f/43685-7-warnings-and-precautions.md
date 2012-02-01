@@ -13,7 +13,7 @@ Levofloxacin should be discontinued if the patient experiences pain, swelling, i
 Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug.
 [seeAdverseReactions(6.3);Patient Counseling Information (17.3)].
 
-## 5.2 Exacerbation of myasthenia gravis
+## 5.2 Exacerbation of Myasthenia Gravis
 
 Fluoroquinolones, including levofloxacin, have neuromuscular blocking activity and may exacerbate muscle weakness in persons with myasthenia gravis.
 Postmarketing serious adverse events, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in persons with myasthenia gravis.
@@ -53,8 +53,8 @@ Levofloxacin should be discontinued immediately if the patient develops signs an
 
 ## 5.6 Central Nervous System Effects
 
-Convulsions and toxic psychoses have been reported in patients receiving fluoroquinolones, including levofloxacin.
-Fluoroquinolones may also cause increased intracranial pressure and central nervous system stimulation which may lead to tremors, restlessness, anxiety, lightheadedness, confusion, hallucinations, paranoia, depression, nightmares, insomnia, and, rarely, suicidal thoughts or acts.
+Convulsions and toxic psychoses,increased intracranial pressure (including pseudotumor cerebri) have been reported in patients receiving fluoroquinolones, including levofloxacin.
+Fluoroquinolones may also cause central nervous system stimulation which may lead to tremors, restlessness, anxiety, lightheadedness, confusion, hallucinations, paranoia, depression, nightmares, insomnia, and, rarely, suicidal thoughts or acts.
 These reactions may occur following the first dose.
 If these reactions occur in patients receiving levofloxacin, the drug should be discontinued and appropriate measures instituted.
 As with other fluoroquinolones, levofloxacin should be used with caution in patients with a known or suspected central nervous system (CNS) disorder that may predispose them to seizures or lower the seizure threshold (e.g., severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose them to seizures or lower the seizure threshold (e.g., certain drug therapy, renal dysfunction.).
@@ -88,7 +88,7 @@ Elderly patients may be more susceptible to drug-associated effects on the QT in
 ## 5.10 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
 
 Levofloxacin is indicated in pediatric patients (≥6 months of age) only for the prevention of inhalational anthrax (post-exposure) [see Indications and Usage (1.13)].
-An increased incidence of musculoskeletal disorders (arthralgia, arthritis, tendonopathy, and gait abnormality) compared to controls has been observed in pediatric patients receiving levofloxacin[seeUse in Specific Populations (8.4)
+An increased incidence of musculoskeletal disorders (arthralgia, arthritis, tendinopathy, and gait abnormality) compared to controls has been observed in pediatric patients receiving levofloxacin[seeUse in Specific Populations (8.4)
 
 In immature rats and dogs, the oral and intravenous administration of levofloxacin resulted in increased osteochondrosis.
 Histopathological examination of the weight-bearing joints of immature dogs dosed with levofloxacin revealed persistent lesions of the cartilage.

@@ -24,7 +24,7 @@ Patients should be informed of the following serious adverse reactions that have
 
 - Tendon Disorders: Patients should contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue levofloxacin treatment.
   The risk of severe tendon disorders with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
-- Exacerbation of myasthenia gravis: patients should inform their physician of any history of myasthenia gravis.
+- Exacerbation of Myasthenia Gravis: patients should inform their physician of any history of myasthenia gravis.
   Patients should notify their physician if they experience any symptoms of muscle weakness, including respiratory difficulties.
 - Hypersensitivity Reactions: Patients should be informed that levofloxacin can cause hypersensitivity reactions, even following the first dose.
   Patients should discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (e.g., swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
@@ -32,7 +32,8 @@ Patients should be informed of the following serious adverse reactions that have
   Patients should inform their physician and be instructed to discontinue levofloxacintreatment immediately if they experience any signs or symptoms of liver injury including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel movements or dark colored urine.
 - Convulsions: Convulsions have been reported in patients taking fluoroquinolones, including levofloxacin.
   Patients should notify their physician before taking this drug if they have a history of convulsions.
-- Neurologic Adverse Effects (e.g., dizziness, lightheadedness): Patients should know how they react to levofloxacinbefore they operate an automobile or machinery or engage in other activities requiring mental alertness and coordination.
+- Neurologic Adverse Effects (e.g., dizziness, lightheadedness, increased intracranial pressure): Patients should know how they react to levofloxacinbefore they operate an automobile or machinery or engage in other activities requiring mental alertness and coordination.
+  Patients should notify their physician if persistent headache with or without blurred vision occurs.
 - Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible.
@@ -61,7 +62,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachepalli – 502 325 INDIA
 
-Issued: 0511
+Revised:1111
 
 ## 17.5 FDA-Approved Medication Guide
 
@@ -81,16 +82,17 @@ Levofloxacin belongs to a class of antibiotics called fluoroquinolones.
 Levofloxacin can cause side effects that may be serious or even cause death.
 If you get any of the following serious side effects, get medical help right away.
 Talk with your healthcare provider about whether you should continue to take levofloxacin.
+1.
+Tendon rupture or swelling of the tendon (tendinitis).
 
-- Tendon rupture or swelling of the tendon (tendinitis).
+- Tendon prooblems can happen in people of all ages who take levofloxacin.
 - Tendons are tough cords of tissue that connect muscles to bones.
-- Pain, swelling, tears, and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites can happen in people of all ages who take fluoroquinolone antibiotics, including levofloxacin.
-  The risk of getting tendon problems is higher if you:
+- Some tendon problems including pain, swelling, tears, and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites
+- The risk of getting tendon problems while you take levofloxacin is higher if you:
 - are over 60 years of age
 - are taking steroids (corticosteroids)
 - have had a kidney, heart, or lung transplant.
-- Swelling of the tendon (tendinitis) and tendon rupture (breakage) have also happened in patients who take fluoroquinolones who do not have the above risk factors.
-- Other reasons for tendon ruptures can include:
+- Tendon problems can happen in people who do not have the above risk factors when they take levofloxacin.Other reasons that can increase your risk of tendon problems can include:
 - physical activity or exercise
 - kidney failure
 - tendon problems in the past, such as in people with rheumatoid arthritis (RA).
@@ -99,16 +101,15 @@ Talk with your healthcare provider about whether you should continue to take lev
   Avoid exercise and using the affected area.
   The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
   This can also happen with other tendons.
-  Talk to your healthcare provider about the risk of tendon rupture with continued use of levofloxacin.
+- Talk to your healthcare provider about the risk of tendon rupture with continued use of levofloxacin.
   You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
 - Tendon rupture can happen while you are taking or after you have finished taking levofloxacin.
   Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone.
 - Get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
 - hear or feel a snap or pop in a tendon area
 - bruising right after an injury in a tendon area
-- unable to move the affected area or bear weight
-
-- Worsening of myasthenia gravis (a disease that causes muscle weakness).
+- unable to move the affected area or bear weight 2.
+  Worsening of myasthenia gravis (a disease that causes muscle weakness).
 
 Fluoroquinolones like levofloxacin may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
 Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
@@ -269,6 +270,7 @@ Other serious side effects of levofloxacin include:
 - feel lightheaded
 - feel more suspicious (paranoia)
 - suicidal thoughts or acts
+- persistent headache with or without blurred vision
 - Serious allergic reactions.
   Allergic reactions can happen in people taking fluoroquinolones, including levofloxacin, even after only one dose.
   Stop taking levofloxacin and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:
@@ -372,4 +374,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachepalli – 502 325 INDIA
 
-Issued: 0511
+Revised: 1111

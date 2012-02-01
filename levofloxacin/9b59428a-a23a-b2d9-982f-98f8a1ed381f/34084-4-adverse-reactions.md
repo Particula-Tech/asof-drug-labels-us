@@ -68,7 +68,7 @@ Table 7 Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials wi
 | Gastrointestinal Disorders | gastritisstomatitis pancreatitis esophagitisgastroenteritisglossitispseudomembraneous/ C. difficile colitis [see Warnings andPrecautions (5.7)] |
 | Hepatobiliary Disorders | abnormal hepatic functionincreased hepatic enzymes increased alkaline phosphatase |
 | Skin and Subcutaneous TissueDisorders | urticaria [see Warnings and Precautions (5.3)] |
-| Musculoskeletal and ConnectiveTissue Disorders | arthralgiatendonitis[see Warnings and Precautions (5.1)]myalgia skeletal pain |
+| Musculoskeletal and ConnectiveTissue Disorders | arthralgiatendinitis[see Warnings and Precautions (5.1)]myalgia skeletal pain |
 | Renal and Urinary Disorders | abnormal renal functionacute renal failure [see Warnings and Precautions (5.4)] |
 
 * N=7274
@@ -88,7 +88,7 @@ Table 8: Postmarketing Reports Of Adverse Drug Reactions
 | Blood and Lymphatic System Disorders | pancytopenia aplastic anemia leukopenia hemolytic anemia [see Warnings and Precautions (5.4)] eosinophilia |
 | Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see Warnings and Precautions (5.3, 5.4)] |
 | Psychiatric Disorders | psychosis paranoia isolated reports of suicide attempt and suicidal ideation [see Warnings and Precautions (5.6)] |
-| Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy [see Warnings and Precautions (5.8)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia |
+| Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.2)] anosmia ageusia parosmia dysgeusia peripheral neuropathy [see Warnings and Precautions (5.8)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see Warnings and Precautions (5.6)] |
 | Eye Disorders | vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
 | Ear and Labyrinth Disorders | hypoacusis tinnitus |
 | Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged[see Warnings and Precautions (5.9)]tachycardia |

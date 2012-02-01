@@ -100,7 +100,7 @@ Table 16: Clinical Success and Bacteriologic Eradication Rates for Resistant Str
 
 ## 14.3 Community-Acquired Pneumonia: 5 Day Treatment Regimen
 
-To evaluate the safety and efficacy of higher dose and shorter course of levofloxacin, 528 outpatient and hospitalized adults with clinically and radiologically determined mild to severe community-acquired pneumonia were evaluated in a double-blind, randomized, prospective, multicenter study comparing levofloxacin 750 mg, IV or orally, every day for five days or levofloxacin 500 mg IV or orally, every day for 10 days.
+To evaluate the safety and efficacy of the higher dose and shorter course of levofloxacin, 528 outpatient and hospitalized adults with clinically and radiologically determined mild to severe community-acquired pneumonia were evaluated in a double-blind, randomized, prospective, multicenter study comparing levofloxacin 750 mg, IV or orally, every day for five days or levofloxacin 500 mg IV or orally, every day for 10 days.
 
 Clinical success rates (cure plus improvement) in the clinically evaluable population were 90.9% in the levofloxacin 750 mg group and 91.1% in the levofloxacin 500 mg group.
 The 95% CI for the difference of response rates (levofloxacin 750 minus levofloxacin 500) was [-5.9, 5.4].
@@ -215,7 +215,7 @@ Table 21: Microbiological Eradication Rates for Individual Pathogens Recovered F
 
 ## 14.8 Complicated Urinary Tract Infections and Acute Pyelonephritis: 10 day Treatment Regimen
 
-To evaluate the safety and efficacy of the 250 mg dose, 10 day regimen of levofloxacin, 567 patients with uncomplicated UTI, mild-to-moderate cUTI, and mild-to-moderate AP were enrolled in a randomized, double-blind, multicenter clinical trial conducted in the US from June 1993 to January 1995 comparing levofloxacin 250 orally once daily for 10 days (285 patients) with ciprofloxacin 500 mg orally twice daily for 10 days (282 patients).
+To evaluate the safety and efficacy of the 250 mg dose, 10 day regimen of levofloxacin, 567 patients with uncomplicated UTI, mild-to-moderate cUTI, and mild-to-moderate AP were enrolled in a randomized, double-blind, multicenter clinical trial conducted in the US from June 1993 to January 1995 comparing levofloxacin 250 mg orally once daily for 10 days (285 patients) with ciprofloxacin 500 mg orally twice daily for 10 days (282 patients).
 Patients with a resistant pathogen, recurrent UTI, women over age 55 years, and with an indwelling catheter were initially excluded, prior to protocol amendment which took place after 30% of enrollment.
 Microbiological efficacy was measured by bacteriologic eradication of the baseline organism(s) at 1 to 12 days post-therapy in patients with a pathogen identified at baseline.
 
@@ -252,7 +252,7 @@ However, information pertaining to extended use at 500 mg daily up to 60 days is
 Prolonged levofloxacin therapy in adults should only be used when the benefit outweighs the risk.
 
 In pediatric patients, the safety of levofloxacin for treatment durations of more than 14 days has not been studied.
-An increased incidence of musculoskeletal adverse events (arthralgia, arthritis, tendonopathy, gait abnormality) compared to controls has been observed in clinical studies with treatment duration of up to 14 days.
+An increased incidence of musculoskeletal adverse events (arthralgia, arthritis, tendinopathy, gait abnormality) compared to controls has been observed in clinical studies with treatment duration of up to 14 days.
 Long-term safety data, including effects on cartilage, following the administration of levofloxacin to pediatric patients is limited [seeWarnings and Precautions (5.10), Use in Specific Populations (8.4)].
 
 A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 49 LD50 (~2.7 X 106) spores (range 17 - 118 LD50) of B. anthracis (Ames strain) was conducted.

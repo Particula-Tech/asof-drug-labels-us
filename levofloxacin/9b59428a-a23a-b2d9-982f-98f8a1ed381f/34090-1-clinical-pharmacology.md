@@ -53,7 +53,9 @@ Table 10: Mean ±SD Levofloxacin PK Parameters
 
 11 healthy elderly male and female subjects 66 to 80 years of age
 
-12 healthy males and females 19 to 55 years of age. * Absolute bioavailability; F=0.99 ± 0.08 from a 500 mg tablet and F=0.99 ± 0.06 from a 750 mg tablet;
+12 healthy males and females 19 to 55 years of age.
+
+* Absolute bioavailability; F=0.99 ± 0.08 from a 500 mg tablet and F=0.99 ± 0.06 from a 750 mg tablet;
 
 ND= not determine
 
@@ -333,13 +335,13 @@ Table 12: Quality Control for Susceptibility Testing
 
 | Microorganism | Microorganism QC Number | MIC (mcg/mL) | Disk Diffusion (zone diameter in mm) |
 | --- | --- | --- | --- |
-| Enterococcus faecalis | ATCC 29212 | 0.25 to 2 | Not applicable |
+| Enterococcus faecalis | ATCC 29212 | 0.25 to 2 | -- |
 | Escherichia coli | ATCC 25922 | 0.008 to 0.06 | 29 to 37 |
-| Escherichia coli | ATCC 35218 | 0.015 to 0.06 | Not applicable |
+| Escherichia coli** | ATCC 35218 | 0.015 to 0.06 | -- |
 | Haemophilus influenzae | ATCC 49247 | 0.008 to 0.03* | 32 to 40† |
 | Pseudomonas aeruginosa | ATCC 27853 | 0.5 to 4 | 19 to 26 |
-| Staphylococcus aureus | ATCC 29213 | 0.06 to 0.5 | Not applicable |
-| Staphylococcus aureus | ATCC 25923 | Not applicable | 25 to 30 |
+| Staphylococcus aureus | ATCC 29213 | 0.06 to 0.5 | -- |
+| Staphylococcus aureus | ATCC 25923 | -- | 25 to 30 |
 | Streptococcus pneumoniae | ATCC 49619 | 0.5 to 2‡ | 20 to 25§ |
 
 * This quality control range is applicable to only H. influenzae ATCC 49247 tested by a broth microdilution procedure using Haemophilus Test Medium (HTM).1
@@ -351,3 +353,5 @@ Table 12: Quality Control for Susceptibility Testing
 ‡ This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a broth microdilution procedure using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood.
 
 § This quality control range is applicable to only S. pneumoniae ATCC 49619 tested by a disk diffusion procedure using Mueller-Hinton agar supplemented with 5% sheep blood and incubated in 5% CO2.
+
+** Careful maintenance of this organism is required as the strain may lose its plasmid.

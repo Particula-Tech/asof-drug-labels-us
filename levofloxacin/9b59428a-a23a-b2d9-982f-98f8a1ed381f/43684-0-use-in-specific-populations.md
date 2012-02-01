@@ -32,7 +32,7 @@ Adverse Events
 In clinical trials, 1534 children (6 months to 16 years of age) were treated with oral and intravenous levofloxacin.
 Children 6 months to 5 years of age received levofloxacin10 mg/kg twice a day and children greater than 5 years of age received 10 mg/kg once a day (maximum 500 mg per day) for approximately 10 days.
 
-A subset of children in the clinical trials (1340 levofloxacin-treated and 893 non-fluoroquinolone-treated) enrolled in a prospective, long-term surveillance study to assess the incidence of protocol-defined musculoskeletal disorders (arthralgia, arthritis, tendonopathy, gait abnormality) during 60 days and 1 year following the first dose of study drug.
+A subset of children in the clinical trials (1340 levofloxacin-treated and 893 non-fluoroquinolone-treated) enrolled in a prospective, long-term surveillance study to assess the incidence of protocol-defined musculoskeletal disorders (arthralgia, arthritis, tendinopathy, gait abnormality) during 60 days and 1 year following the first dose of study drug.
 Children treated with levofloxacin had a significantly higher incidence of musculoskeletal disorders when compared to the non-fluoroquinolone-treated children as illustrated in Table 9.
 
 Table 9: Incidence of Musculoskeletal Disorders in Pediatric Clinical Trial
@@ -47,7 +47,7 @@ Table 9: Incidence of Musculoskeletal Disorders in Pediatric Clinical Trial
 † 2-sided Fisher’s Exact Test
 
 ‡There were 1199 levofloxacin-treated and 804 non-fluoroquinolone-treated children who had a one-year evaluation visit.
-However, the incidence of musculoskeletal disorders were calculated using all reported events during the specified period for all children enrolled regardless of whether they completedthe 1-year evaluation visit.
+However, the incidence of musculoskeletal disorders was calculated using all reported events during the specified period for all children enrolled regardless of whether they completedthe 1-year evaluation visit.
 
 Arthralgia was the most frequently occurring musculoskeletal disorder in both treatment groups.
 Most of the musculoskeletal disorders in both groups involved multiple weight-bearing joints.
