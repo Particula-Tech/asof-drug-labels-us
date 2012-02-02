@@ -1,5 +1,6 @@
-# WARNING: AVOID USE IN PREGNANCY
+# WARNING: FETAL TOXICITY
 
-When pregnancy is detected, discontinue Diovan HCT® as soon as possible.
-Drugs that act directly on the renin-angiotensin system can cause injury and even death to the developing fetus.
-[see Warnings and Precautions (5.1)]
+- When pregnancy is detected, discontinue Diovan HCT as soon as possible.
+  (5.1)
+- Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus.
+  (5.1)

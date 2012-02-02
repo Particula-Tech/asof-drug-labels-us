@@ -13,7 +13,7 @@ There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition and treatment.
 If you have any questions about DIOVAN HCT, ask your doctor or pharmacist.
 
-| What is the most important information I should know about DIOVAN HCT? If you become pregnant, stop taking DIOVAN HCT and call your doctor right away. DIOVAN HCT can harm an unborn baby causing injury and even death. If you plan to become pregnant, talk to your doctor about other treatment options to lower your high blood pressure before taking DIOVAN HCT. |
+| What is the most important information I should know about DIOVAN HCT? DIOVAN HCT can cause harm or death to an unborn baby. Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant. If you get pregnant while taking DIOVAN HCT, tell your doctor right away. |
 | --- |
 
 What is DIOVAN HCT?
@@ -190,4 +190,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2012-03/T2012-04 December 2011/December 2011
+T2012-33/T2012-34 January 2012/January 2012
