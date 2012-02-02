@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA075761"
+  ],
+  "inn": "amiodarone",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-616-03",
+    "63323-616-09"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "amiodarone hydrochloride",
+      "name": "Amiodarone Hydrochloride"
+    }
+  ],
+  "setid": "d8d04647-8e25-4127-8ecf-360ce1991c2f",
+  "source": "dailymed"
+}
