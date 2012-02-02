@@ -74,3 +74,9 @@ Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases i
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
 Providers should temporarily stop omeprazole treatment before assessing CgA levels and consider repeating the test if initial CgA levels are high.
 If serial tests are performed (e.g. for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary.
+
+## 5.10 Concomitant use of NEXIUM with Methotrexate
+
+Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
+In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients.
+[see Drug Interactions (7.6)]

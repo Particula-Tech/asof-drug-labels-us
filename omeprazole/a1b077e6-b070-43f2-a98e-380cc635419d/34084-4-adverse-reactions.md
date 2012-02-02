@@ -45,7 +45,7 @@ Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitations, el
 
 Endocrine: Gynecomastia
 
-Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth.
+Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth, microscopic colitis.
 During treatment with omeprazole, gastric fundic gland polyps have been noted rarely.
 These polyps are benign and appear to be reversible when treatment is discontinued.
 Gastroduodenal carcinoids have been reported in patients with ZE syndrome on long-term treatment with PRILOSEC.

@@ -28,8 +28,8 @@ There are also some antiretroviral drugs of which unchanged serum levels have be
 
 ## 7.2 Drugs for Which Gastric pH Can Affect Bioavailability
 
-Because of its profound and long lasting inhibition of gastric acid secretion, it is theoretically possible that omeprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (e.g., ketoconazole, ampicillin esters, and iron salts).
-The absorption of digoxin can increase during treatment with omeprazole.
+Because of its profound and long lasting inhibition of gastric acid secretion, it is theoretically possible that omeprazole may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability.
+Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, ampicillin esters, iron salts and erlotinib can decrease, while the absorption of drugs such as digoxin can increase during treatment with omeprazole.
 Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
 Therefore, patients may need to be monitored when digoxin is taken concomitantly with omeprazole.
 In the clinical trials, antacids were used concomitantly with the administration of PRILOSEC.
@@ -82,3 +82,8 @@ Concomitant administration of omeprazole and tacrolimus may increase the serum l
 
 Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors.
 [see Warnings and Precautions (5.7) and Clinical Pharmacology (12)].
+
+## 7.6 Methotrexate
+
+Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
+However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.10)].

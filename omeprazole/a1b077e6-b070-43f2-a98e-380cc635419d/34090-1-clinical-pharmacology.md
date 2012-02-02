@@ -33,7 +33,7 @@ Range of Mean Values from Multiple Studies of the Mean Antisecretory Effects of 
 
 Single daily oral doses of omeprazole ranging from a dose of 10 mg to 40 mg have produced 100% inhibition of 24-hour intragastric acidity in some patients.
 
-Serum Gastric Effects
+Serum Gastrin Effects
 
 In studies involving more than 200 patients, serum gastrin levels increased during the first 1 to 2 weeks of once-daily administration of therapeutic doses of omeprazole in parallel with inhibition of acid secretion.
 No further increase in serum gastrin occurred with continued treatment.
@@ -247,4 +247,4 @@ Standard clarithromycin and amoxicillin powders should provide the following MIC
 Effects on Gastrointestinal Microbial Ecology
 
 Decreased gastric acidity due to any means including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
-Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and possibly Clostridium difficile in hospitalized patients.
+Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and, in hospitalized patients, possibly also Clostridium difficile...

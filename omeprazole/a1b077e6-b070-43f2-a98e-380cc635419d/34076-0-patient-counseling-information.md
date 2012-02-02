@@ -33,6 +33,6 @@ Advise patients to immediately report and seek care for any cardiovascular or ne
 
 PRILOSEC is a trademark of the AstraZeneca group of companies.
 
-©AstraZeneca 2011
+©AstraZeneca 2012
 
 Manufactured for: AstraZeneca LP, Wilmington, DE 19850

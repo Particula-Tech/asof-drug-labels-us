@@ -60,8 +60,9 @@ Tell your doctor about all your medical conditions, including if you:
   You and your doctor should decide if you will take PRILOSEC or breastfeed.
   You should not do both.
 
-Tell your doctor about all of the medicines you take including prescription and non-prescription drugs, vitamins and herbal supplements.
+Tell your doctor about all of the medicines you take including prescription and non-prescription drugs, anti-cancer drugs, vitamins and herbal supplements.
 PRILOSEC may affect how other medicines work, and other medicines may affect how PRILOSEC works.
+In some cases, a drug you may be taking may need to be temporarily withdrawn.
 Especially tell your doctor if you take:
 
 - atazanavir (Reyataz)
@@ -81,6 +82,8 @@ Especially tell your doctor if you take:
 - clopidogrel (Plavix)
 - St. John’s Wort (Hypericum perforatum)
 - rifampin
+- erlotinib
+- methotrexate
 
 HOW SHOULD I TAKE PRILOSEC?
 
@@ -108,7 +111,7 @@ WHAT ARE THE POSSIBLE SIDE EFFECTS OF PRILOSEC?
 - throat tightness
 - difficulty breathing
 
-Your doctor may stop PRILOSEC if these symptoms happen;
+Your doctor may stop PRILOSEC if these symptoms happen.
 
 - Low magnesium levels in your body.
   This problem can be serious.
@@ -206,7 +209,7 @@ Inactive granules in PRILOSEC Delayed-Release Oral Suspension: citric acid, cros
 
 PRILOSEC is a registered trademark of the AstraZeneca group of companies.
 
-©2011 AstraZeneca Pharmaceuticals LP.
+©2012 AstraZeneca Pharmaceuticals LP.
 All rights reserved.
 
 Manufactured for:
@@ -215,4 +218,4 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-June 2011
+January 2012
