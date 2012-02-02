@@ -48,7 +48,13 @@ The need for continued treatment should be reassessed periodically.
 If signs and symptoms of tardive dyskinesia appear in a patient treated with RISPERIDONE, drug discontinuation should be considered.
 However, some patients may require treatment with RISPERIDONE despite the presence of the syndrome.
 
-## 5.5 Hyperglycemia and Diabetes Mellitus
+## 5.5 Metabolic Changes
+
+Atypical antipsychotic drugs have been associated with metabolic changes that may increase cardiovascular/cerebrovascular risk.
+These metabolic changes include hyperglycemia, dyslipidemia, and body weight gain.
+While all of the drugs in the class have been shown to produce some metabolic changes, each drug has its own specific risk profile.
+
+Hyperglycemia and Diabetes Mellitus
 
 Hyperglycemia and diabetes mellitus, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, have been reported in patients treated with atypical antipsychotics including RISPERIDONE.
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
@@ -61,6 +67,114 @@ Patients with risk factors for diabetes mellitus (e.g., obesity, family history 
 Any patient treated with atypical antipsychotics, including RISPERIDONE, should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics, including RISPERIDONE, should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic, including RISPERIDONE, was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of RISPERIDONE.
+
+Pooled data from three double-blind, placebo-controlled schizophrenia studies and four double-blind, placebo-controlled bipolar monotherapy studies are presented in Table 1a.
+
+Table 1a.Change in Random Glucose from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects with Schizophrenia or Bipolar Mania
+
+|  |  | RISPERIDONE |  |
+| --- | --- | --- | --- |
+|  | Placebo | 1 to 8 mg/day | >8 to 16 mg/day |
+|  | Mean change from baseline (mg/dL) |  |  |
+|  | n=555 | n=748 | n=164 |
+| Serum Glucose | -1.4 | 0.8 | 0.6 |
+|  | Proportion of patients with shifts |  |  |
+| Serum Glucose (< 140 mg/dL to ≥ 200 mg/dL) | 0.6% (3/525) | 0.4% (3/702) | 0% (0/158) |
+
+In longer-term, controlled and uncontrolled studies, RISPERIDONE was associated with a mean change in glucose of + 2.8 mg/dL at Week 24 (n=151) and + 4.1 mg/dL at Week 48 (n = 50).
+
+Data from the placebo-controlled 3- to 6-week study in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), or autistic disorder (5 to 17 years of age) are presented in Table 1b.
+
+Table 1b.Change in Fasting Glucose from Three Placebo-Controlled, 3- to 6-Week, Fixed-Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 years of age), Bipolar Mania (10 to 17 years of age), or Autistic Disorder (5 to 17 years of age)
+
+|  | Placebo | RISPERIDONE 0.5-6 mg/day |
+| --- | --- | --- |
+|  | Mean change from baseline (mg/dL) |  |
+|  | n=76 | n=135 |
+| Serum Glucose | -1.3 | 2.6 |
+|  | Proportion of patients with shifts |  |
+| Serum Glucose (<100 mg/dL to ≥126 mg/dL) | 0% (0/64) | 0.8% (1/120) |
+
+In longer-term, uncontrolled, open-label extension pediatric studies, RISPERIDONE was associated with a mean change in fasting glucose of +5.2 mg/dL at Week 24 (n = 119).
+
+Dyslipidemia
+
+Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics.
+
+Pooled data from 7 placebo-controlled, 3- to 8- week, fixed- or flexible-dose studies in adult subjects with schizophrenia or bipolar mania are presented in Table 2a.
+
+Table 2a.Change in Random Lipids From Seven Placebo-Controlled, 3-to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects With Schizophrenia or Bipolar Mania
+
+|  |  | RISPERIDONE |  |
+| --- | --- | --- | --- |
+|  | Placebo | 1 to 8 mg/day | >8 to 16 mg/day |
+|  | Mean change from baseline (mg/dL) |  |  |
+| Cholesterol | n=559 | n=742 | n=156 |
+| Change from baseline | 0.6 | 6.9 | 1.8 |
+| Triglycerides | n=183 | n=307 | n=123 |
+| Change from baseline | -17.4 | -4.9 | -8.3 |
+|  | Proportion of patients With Shifts |  |  |
+| Cholesterol (<200 mg/dL to ≥240 mg/dL) | 2.7% (10/368) | 4.3% (22/516) | 6.3% (6/96) |
+| Triglycerides (<500 mg/dL to ≥500 mg/dL) | 1.1% (2/180) | 2.7% (8/301) | 2.5% (3/121) |
+
+In longer-term, controlled and uncontrolled studies, RISPERIDONE was associated with a mean change in (a) non-fasting cholesterol of +4.4 mg/dL at Week 24 (n = 231) and +5.5 mg/dL at Week 48 (n = 86); and (b) non-fasting triglycerides of +19.9 mg/dL at Week 24 (n = 52).
+
+Pooled data from 3 placebo-controlled, 3- to 6-week, fixed-dose studies in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), or autistic disorder (5 to 17 years of age) are presented in Table 2b.
+
+Table 2b.Change in Fasting Lipids From Three Placebo-Controlled, 3- to 6-Week, Fixed-Dose Studies in Children and Adolescents With Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), or Autistic Disorder (5 to 17 Years of Age)
+
+|  | Placebo | RISPERIDONE 0.5 to 6 mg/day |
+| --- | --- | --- |
+|  | Mean change from baseline (mg/dL) |  |
+| Cholesterol | n=74 | n=133 |
+| Change from baseline | 0.3 | -0.3 |
+| LDL | n=22 | n=22 |
+| Change from baseline | 3.7 | 0.5 |
+| HDL | n=22 | n=22 |
+| Change from baseline | 1.6 | -1.9 |
+| Triglycerides | n=77 | n=138 |
+| Change from baseline | -9.0 | -2.6 |
+|  | Proportion of patients with shifts |  |
+| Cholesterol (<170 mg/dL to ≥200 mg/dL) | 2.4% (1/42) | 3.8% (3/80) |
+| LDL (<110 mg/dL to ≥130 mg/dL) | 0% (0/16) | 0% (0/16) |
+| HDL (≥40 mg/dL to <40 mg/dL) | 0% (0/19) | 10% (2/20) |
+| Triglycerides (<150 mg/dL to ≥200 mg/dL) | 1.5% (1/65) | 7.1% (8/113) |
+
+In longer-term, uncontrolled, open-label extension pediatric studies, RISPERIDONE was associated with a mean change in (a) fasting cholesterol of +2.1 mg/dL at Week 24 (n = 114); (b) fasting LDL of -0.2 mg/dL at Week 24 (n=103); (c) fasting HDL of +0.4 mg/dL at Week 24 (n = 103); and (d) fasting triglycerides of +6.8 mg/dL at Week 24 (n = 120).
+
+Weight Gain
+
+Weight gain has been observed with atypical antipsychotic use.
+Clinical monitoring of weight is recommended.
+
+Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of 7% or greater of body weight from 7 placebo-controlled, 3- to 8- week, fixed- or flexible-dose studies in adult subjects with schizophrenia or bipolar mania are presented in Table 3a.
+
+Table 3a.Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥7% Gain in Body Weight From Seven Placebo-Controlled, 3- to 8-Week, Fixed-or Flexible-Dose Studies in Adult Subjects With Schizophrenia or Bipolar Mania
+
+|  |  | RISPERIDONE |  |
+| --- | --- | --- | --- |
+|  | Placebo | 1 to 8 mg/day | >8 to 16 mg/day |
+|  | (n = 597) | (n = 769) | (n = 158) |
+| Weight (kg) |  |  |  |
+| Change from baseline | -0.3 | 0.7 | 2.2 |
+| Weight Gain |  |  |  |
+| ≥7% increase from baseline | 2.9% | 8.7% | 20.9% |
+
+In longer-term, controlled and uncontrolled studies, RISPERIDONE was associated with a mean change in weight of +4.3 kg at Week 24 (n = 395) and +5.3 kg at Week 48 (n = 203).
+
+Data on mean changes in body weight and the proportion of subjects meeting the criterion of ≥7% gain in body weight from nine placebo-controlled, 3- to 8-week, fixed-dose studies in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), autistic disorder (5 to 17 years of age), or other psychiatric disorders (5 to 17 years of age) are presented in Table 3b.
+
+Table 3b.Mean Change in Body Weight (kg) and the Proportion of Subjects With ≥7% Gain in Body Weight From Nine Placebo-Controlled, 3- to 8-Week, Fixed-Dose Studies in Children and Adolescents With Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), Autistic Disorder (5 to 17 Years of Age) or Other Psychiatric Disorders (5 to 17 Years of Age)
+
+|  | Placebo | RISPERIDONE 0.5 to 6 mg/day |
+| --- | --- | --- |
+|  | (n=375) | (n=448) |
+| Weight (kg) |  |  |
+| Change from baseline | 0.6 | 2 |
+| Weight Gain |  |  |
+| ≥7% increase from baseline | 6.9% | 32.6% |
+
+In longer-term, uncontrolled, open-label extension pediatric studies, RISPERIDONE was associated with a mean change in weight of +5.5 kg at Week 24 (n = 748) and +8.0 kg at Week 48 (n = 242).
 
 ## 5.6 Hyperprolactinemia
 
@@ -119,7 +233,7 @@ RISPERIDONE and other antipsychotic drugs should be used cautiously in patients 
 
 ## 5.12 Priapism
 
-Priapism has been reported during postmarketing surveillance [see ADVERSE REACTIONS (6.9)].
+Priapism has been reported during postmarketing surveillance [see ADVERSE REACTIONS (6.8)].
 Severe priapism may require surgical intervention.
 
 ## 5.13 Thrombotic Thrombocytopenic Purpura (TTP)

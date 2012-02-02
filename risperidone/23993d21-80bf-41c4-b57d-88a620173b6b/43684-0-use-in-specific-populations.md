@@ -59,22 +59,6 @@ Tardive Dyskinesia
 
 In clinical trials in 1885 children and adolescents treated with RISPERIDONE, 2 (0.1%) patients were reported to have tardive dyskinesia, which resolved on discontinuation of RISPERIDONE treatment [see also WARNINGS AND PRECAUTIONS (5.4)].
 
-Weight Gain
-
-In a long-term, open-label extension study in adolescent patients with schizophrenia, weight increase was reported as a treatment-emergent adverse event in 14% of patients.
-In 103 adolescent patients with schizophrenia, a mean increase of 9.0 kg was observed after 8 months of RISPERIDONE treatment.
-The majority of that increase was observed within the first 6 months.
-The average percentiles at baseline and 8 months, respectively, were 56 and 72 for weight, 55 and 58 for height, and 51 and 71 for body mass index.
-
-In long-term, open-label trials (studies in patients with autistic disorder or other psychiatric disorders), a mean increase of 7.5 kg after 12 months of RISPERIDONE treatment was observed, which was higher than the expected normal weight gain (approximately 3 to 3.5 kg per year adjusted for age, based on Centers for Disease Control and Prevention normative data).
-The majority of that increase occurred within the first 6 months of exposure to RISPERIDONE.
-The average percentiles at baseline and 12 months, respectively, were 49 and 60 for weight, 48 and 53 for height, and 50 and 62 for body mass index.
-
-In one 3-week, placebo-controlled trial in children and adolescent patients with acute manic or mixed episodes of bipolar I disorder, increases in body weight were higher in the RISPERIDONE groups than the placebo group, but not dose related (1.90 kg in the RISPERIDONE 0.5-2.5 mg group, 1.44 kg in the RISPERIDONE 3-6 mg group, and 0.65 kg in the placebo group).
-A similar trend was observed in the mean change from baseline in body mass index.
-
-When treating pediatric patients with RISPERIDONE for any indication, weight gain should be assessed against that expected with normal growth [see also ADVERSE REACTIONS (6.7)].
-
 Somnolence
 
 Somnolence was frequently observed in placebo-controlled clinical trials of pediatric patients with autistic disorder.
@@ -93,7 +77,18 @@ Increases were dose-dependent and generally greater in females than in males acr
 
 In clinical trials in 1885 children and adolescents, galactorrhea was reported in 0.8% of RISPERIDONE-treated patients and gynecomastia was reported in 2.3% of RISPERIDONE-treated patients.
 
-The long-term effects of RISPERIDONE on growth and sexual maturation have not been fully evaluated.
+Juvenile dogs were treated for 40 weeks with oral risperidone doses of 0.31, 1.25, or 5 mg/kg/day.
+Decreased bone length and density were seen, with a no-effect dose of 0.31 mg/kg/day.
+This dose produced plasma levels (AUC) of risperidone plus its active metabolite paliperidone (9-hydroxy-risperidone) which were similar to those in children and adolescents receiving the maximum recommended human dose (MRHD) of 6 mg/day.
+In addition, a delay in sexual maturation was seen at all doses in both males and females.
+The above effects showed little or no reversibility in females after a 12 week drug-free recovery period.
+
+In a study in which juvenile rats were treated with oral risperidone from days 12 to 50 of age, a reversible impairment of performance in a test of learning and memory was seen, in females only, with a no-effect dose of 0.63 mg/kg/day.
+This dose produced plasma levels (AUC) of risperidone plus paliperidone about half those observed in humans at the MRHD.
+No other consistent effects on neurobehavioral or reproductive development were seen up to the highest testable dose (1.25 mg/kg/day).
+This dose produced plasma levels (AUC) of risperidone plus paliperidone which were about two thirds of those observed in humans at the MRHD.
+
+The long-term effects of RISPERIDONE on growth and sexual maturation have not been fully evaluated in children and adolescents.
 
 ## 8.5 Geriatric Use
 
