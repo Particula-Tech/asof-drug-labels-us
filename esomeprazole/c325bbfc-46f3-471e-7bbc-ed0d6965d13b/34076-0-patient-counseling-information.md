@@ -7,7 +7,7 @@ Advise patients to immediately report and seek care for any cardiovascular or ne
 
 NEXIUM is a registered trademark of the AstraZeneca group of companies.
 
-© AstraZeneca 2011
+© AstraZeneca 2012
 
 Manufactured for:
 

@@ -49,16 +49,22 @@ There are also some antiretroviral drugs of which unchanged serum levels have be
 Studies evaluating concomitant administration of esomeprazole and either naproxen (non-selective NSAID) or rofecoxib (COX-2 selective NSAID) did not identify any clinically relevant changes in the pharmacokinetic profiles of esomeprazole or these NSAIDs.
 
 Esomeprazole inhibits gastric acid secretion.
-Therefore, esomeprazole may interfere with the absorption of drugs where gastric pH is an important determinant of bioavailability (eg, ketoconazole, atazanavir, iron salts, and digoxin).
+Therefore, esomeprazole may interfere with the absorption of drugs where gastric pH is an important determinant of bioavailability.
+Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, atazanavir, iron salts, and erlotinib can decrease, while the absorption of drugs such as digoxin can increase during treatment with esomeprazole.
 Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
 Esomeprazole is an enantiomer of omeprazole.
 Coadministration of digoxin with esomeprazole is expected to increase the systemic exposure of digoxin.
 Therefore, patients may need to be monitored when digoxin is taken concomitantly with esomeprazole.
 
-## 7.1 Interactions With Investigations of Neuroendocrine Tumors
+## 7.1 Interactions with Investigations of Neuroendocrine Tumors
 
-Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.5)and Clinical Pharmacology (12.2)].
+Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.5) and Clinical Pharmacology (12.2)].
 
 ## 7.2 Tacrolimus
 
 Concomitant administration of esomeprazole and tacrolimus may increase the serum levels of tacrolimus.
+
+## 7.3 Methotrexate
+
+Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
+However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.7)].

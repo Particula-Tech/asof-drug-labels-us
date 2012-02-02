@@ -64,7 +64,7 @@ Pediatric Population
 
 Intravenous Infusion over 10 minutes to 30 minutes (0.5 mg/kg) for patients ages 1 month to less than 1 year of age
 
-A solution for intravenous infusion is prepared by first reconstituting the contents of one vial with 5 mL of 0.9% Sodium Chloride Injection, USP and further diluting the resulting solution to a final volume of 50 ml.
+A solution for intravenous infusion is prepared by first reconstituting the contents of one vial with 5 mL of 0.9% Sodium Chloride Injection, USP and further diluting the resulting solution to a final volume of 50 mL.
 The resultant concentration after diluting to a final volume of 50 mL is as follows:
 
 40 mg vial: 0.8 mg/mL

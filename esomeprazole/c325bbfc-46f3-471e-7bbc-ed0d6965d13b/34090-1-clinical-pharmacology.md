@@ -139,4 +139,4 @@ The pharmacokinetics of esomeprazole in patients with renal impairment are not e
 Effects on Gastrointestinal Microbial Ecology
 
 Decreased gastric acidity due to any means including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
-Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and possibly Clostridium difficile in hospitalized patients.
+Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and, in hospitalized patients, possibly also Clostridium difficile.
