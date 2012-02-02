@@ -28,7 +28,7 @@ Because many drugs are excreted in human milk and because of the potential for t
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of NEXIUM have been established in pediatric patients 1 to 17 years of age for short-term treatment (up to eight weeks) of GERD.
-The safety and effectiveness of NEXIUM have been established in pediatric patients 1 month to less than 1 year for short-term treatment (up to 6 weeks) of acid-mediated GERD with erosive esophagitis.
+The safety and effectiveness of NEXIUM have been established in pediatric patients 1 month to less than 1 year for short-term treatment (up to 6 weeks) of erosive esophagitis due to acid-mediated GERD.
 However, the safety and effectiveness of NEXIUM have not been established in patients less than 1 month of age.
 
 1 to 17 years of age
@@ -38,7 +38,7 @@ The safety and effectiveness of NEXIUM for other pediatric uses have not been es
 
 Erosive esophagitis due to acid-mediated GERD in infants 1 month to less than one year of age
 
-Use of NEXIUM in pediatric patients 1 month to < 1 year of age for treatment (up to 6 weeks) of acid-mediated GERD with erosive esophagitis is supported by extrapolation of results from adequate and well-controlled studies for adults and safety, pharmacokinetic, and pharmacodynamic studies performed in pediatric patients [see Clinical Pharmacology (12.3), Dosage and Administration (2), Adverse Reactions (6.1), and Clinical Studies, (14.3)]..
+Use of NEXIUM in pediatric patients 1 month to less than 1 year of age for treatment (up to 6 weeks) of erosive esophagitis due to acid-mediated GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety, pharmacokinetic, and pharmacodynamic studies performed in pediatric patients [see Clinical Pharmacology (12.3), Dosage and Administration (2), Adverse Reactions (6.1), and Clinical Studies, (14.3)].
 
 Symptomatic GERD in infants 1 month to less than one year of age
 

@@ -96,7 +96,7 @@ Blood And Lymphatic: agranulocytosis, pancytopenia;
 
 Eye: blurred vision;
 
-Gastrointestinal: pancreatitis, stomatitis;
+Gastrointestinal: pancreatitis; stomatitis; microscopic colitis
 
 Hepatobiliary: hepatic failure, hepatitis with or without jaundice;
 

@@ -64,7 +64,7 @@ Omeprazole, of which esomeprazole is an enantiomer, has been reported to interac
 In a cross-over study in 12 healthy male subjects, St John’s wort (300 mg three times daily for 14 days) significantly decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6 % and 43.9%, respectively).
 Avoid concomitant use of St. John’s Wort or rifampin with NEXIUM.
 
-## 7.4 Interactions With Investigations of Neuroendocrine Tumors
+## 7.4 Interactions with Investigations of Neuroendocrine Tumors
 
 Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors.
 [see Warnings and Precautions (5.7) and Clinical Pharmacology (12.2)]
@@ -78,3 +78,8 @@ Concomitant administration of esomeprazole and tacrolimus may increase the serum
 Co-administration of esomeprazole, clarithromycin, and amoxicillin has resulted in increases in the plasma levels of esomeprazole and 14-hydroxyclarithromycin [see Clinical Pharmacology (12.4)].
 
 Concomitant administration of clarithromycin with cisapride, pimozide, astemizole, terfenadine, ergotamine, or dihydroergotamine is contraindicated [see prescribing information for clarithromycin].
+
+## 7.7 Methotrexate
+
+Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
+However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.9)].

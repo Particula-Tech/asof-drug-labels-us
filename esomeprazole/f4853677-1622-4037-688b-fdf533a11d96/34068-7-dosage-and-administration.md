@@ -5,14 +5,14 @@ The recommended dosages are outlined in Table 1.
 NEXIUM should be taken at least one hour before meals.
 
 The duration of proton pump inhibitor administration should be based on available safety and efficacy data specific to the defined indication and dosing frequency, as described in the prescribing information, and individual patient medical needs.
-Proton pump inhibitor treatment should only be initiated and continued if the benefits outweigh the risks of treatment
+Proton pump inhibitor treatment should only be initiated and continued if the benefits outweigh the risks of treatment.
 
 Table 1: Recommended Dosage Schedule of NEXIUM
 
 | Indication | Dose | Frequency |
 | --- | --- | --- |
 | Gastroesophageal Reflux Disease (GERD) |  |  |
-| Healing of Erosive Esophagitis | 20 mg or 40 mg | Once Daily for 4 to 8 Weeks[See Clinical Studies (14.1)]The majority of patients are healed within 4 to 8 weeks. For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be considered. |
+| Healing of Erosive Esophagitis | 20 mg or 40 mg | Once Daily for 4 to 8 Weeks[See Clinical Studies (14.1).]The majority of patients are healed within 4 to 8 weeks. For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be considered. |
 | Maintenance of Healing of Erosive Esophagitis | 20 mg | Once DailyControlled studies did not extend beyond six months. |
 | Symptomatic Gastroesophageal Reflux Disease | 20 mg | Once Daily for 4 WeeksIf symptoms do not resolve completely after 4 weeks, an additional 4 weeks of treatment may be considered. |
 | Pediatric GERD12 to 17 Year Olds |  |  |
@@ -23,7 +23,7 @@ Table 1: Recommended Dosage Schedule of NEXIUM
 | weight < 20 kg | 10 mg | Once Daily for 8 Weeks |
 | weight ≥ 20 kg | 10 mg or 20 mg | Once Daily for 8 Weeks |
 | 1 month to < 1 year oldDoses over 1.33 mg/kg/day have not been studied. |  |  |
-| Erosive esophagitis due to acidmediated GERD |  |  |
+| Erosive esophagitis due to acid-mediated GERD |  |  |
 | weight 3 kg to 5 kg | 2.5 mg | Once Daily for up to 6 Weeks |
 | weight > 5 kg to 7.5 kg | 5 mg | Once Daily for up to 6 Weeks |
 | weight >7.5 kg to 12 kg | 10 mg | Once Daily for up to 6 Weeks |
@@ -50,7 +50,7 @@ Table 2: Administration Options
 
 | Administration Options (See text following table for additional instructions.) |  |  |
 | --- | --- | --- |
-| Type | Route | Options |
+| Dosage Form | Route | Options |
 | Delayed-Release Capsules | Oral | Capsule can be swallowed whole.-or- Capsule can be opened and mixed with applesauce. |
 | Delayed-Release Capsules | Nasogastric Tube | Capsule can be opened and the intact granules emptied into a syringe and delivered through the nasogastric tube. |
 | For Delayed-Release Oral Suspension | Oral | For the 2.5 mg and 5 mg strengths, mix the contents of packet with 5 mL of water, leave 2 to 3 minutes to thicken, stir and drink within 30 minutes. For the 10 mg, 20 mg and 40 mg strengths, mix contents of packet with 15 mL of water, and follow the instructions above. |

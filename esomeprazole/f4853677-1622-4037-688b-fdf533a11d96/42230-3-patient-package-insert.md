@@ -71,6 +71,8 @@ Especially tell your doctor if you take:
 - cilostazol (Pletal)
 - diazepam (Valium)
 - tacrolimus (Prograf)
+- Erlotinib
+- Methotrexate
 
 How should I take Nexium?
 
@@ -201,7 +203,7 @@ NEXIUM Delayed-Release Capsules:
   Give the medicine in the syringe through the NG tube into the stomach.
 - After giving the granules, flush the NG tube with more water.
 
-NEXIUM For Delayed-Release Oral Suspension:
+NEXIUM for Delayed-Release Oral Suspension:
 
 - NEXIUM for Delayed-Release Oral Suspension comes in foil packets containing 2.5 mg, 5 mg, 10 mg, 20 mg, or 40 mg strengths.
 - Use only a catheter tipped syringe to give NEXIUM through a NG tube or gastric tube
@@ -218,9 +220,9 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-December 2011
+January 2012
 
 NEXIUM is a registered trademark of the AstraZeneca group of companies.
 
-©2011 AstraZeneca Pharmaceuticals LP.
+©2012 AstraZeneca Pharmaceuticals LP.
 All rights reserved

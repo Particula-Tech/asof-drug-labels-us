@@ -168,7 +168,7 @@ Data were obtained from two independent studies.
 
 |  | 12 to 17 Year Olds (N=28) |  | Adults (N=36) |  |
 | --- | --- | --- | --- | --- |
-| Parameter | 20 mg | 40 mg | 20 mg | 40 mg |
+|  | 20 mg | 40 mg | 20 mg | 40 mg |
 | AUC (μmol*h/L) | 3.65 | 13.86 | 4.2 | 12.6 |
 | Cmax (μmol/L) | 1.45 | 5.13 | 2.1 | 4.7 |
 | tmax (h) | 2.00 | 1.75 | 1.6 | 1.6 |
@@ -182,7 +182,7 @@ Dosage adjustment based on gender is not necessary.
 
 Hepatic Insufficiency
 
-The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child Pugh Class A), moderate (Child Pugh Class B), and severe (Child Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
+The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child Pugh A), moderate (Child Pugh Class B), and severe (Child Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
 In patients with mild and moderate hepatic insufficiency, the AUCs were within the range that could be expected in patients with normal liver function.
 In patients with severe hepatic insufficiency the AUCs were 2 to 3 times higher than in the patients with normal liver function.
 No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child Pugh Class C) a dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2)].
