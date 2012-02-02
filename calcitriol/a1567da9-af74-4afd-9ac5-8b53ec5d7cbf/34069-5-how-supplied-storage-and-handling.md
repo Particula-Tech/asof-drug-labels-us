@@ -1,7 +1,5 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Enter section text here
-
 ## 16.1 How Supplied
 
 VECTICAL Ointment 3 mcg/g is available in collapsible aluminum tubes of the following package sizes:

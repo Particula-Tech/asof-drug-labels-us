@@ -20,8 +20,8 @@ Patients should report any signs of adverse reactions to their physician.
 Marketed by: Galderma Laboratories L.P.
 Fort Worth, Texas 76177 USA
 
-Manufactured by: Galderma Production Canada Inc. Baie d’Urfé, QC, H9X 3S4 Canada
+Manufactured by: G Production Inc. Baie d’Urfé, QC, H9X 3S4 Canada
 
 Made in Canada.
 GALDERMA is a registered trademark.
-P51460-0
+P51460-2

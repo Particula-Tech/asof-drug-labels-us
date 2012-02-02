@@ -12,4 +12,4 @@ Lot no. and exp. date on crimp.
 Marketed by: GALDERMA LABORATORIES, L.P.
 Fort Worth, Texas 76177 USA Manufactured by: G Production Inc. Baie d’Urfé, QC, H9X 3S4 Canada Made in Canada.
 GALDERMA is a registered trademark.
-P51449-1
+P51449-3
