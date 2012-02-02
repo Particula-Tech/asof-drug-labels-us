@@ -2,33 +2,24 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.1)]
+Pregnancy Category D
 
-Exforge, like other drugs that act on the renin angiotensin system, can cause fetal and neonatal morbidity and death when used during the second or third trimester of pregnancy.
-Exforge can cause fetal harm when administered to a pregnant woman.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
+Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
+When pregnancy is detected, discontinue Exforge as soon as possible.
+These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy.
+Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
+Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
 
-Angiotensin II receptor antagonists, like valsartan, and angiotensin converting enzyme (ACE) inhibitors exert similar effects on the renin-angiotensin system.
-In several dozen published cases, ACE inhibitor use during the second and third trimesters of pregnancy was associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
-Oligohydramnios was also reported, presumably from decreased fetal renal function.
-In this setting, oligohydramnios was associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
-Prematurity, intrauterine growth retardation, and patent ductus arteriosus were also reported, although it is not clear whether these occurrences were due to exposure to the drug.
-In a retrospective study, first trimester use of ACE inhibitors, a specific class of drugs acting on the renin angiotensin system, was associated with a potential risk of birth defects.
+In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
+Perform serial ultrasound examinations to assess the intra-amniotic environment.
+If oligohydramnios is observed, discontinue Exforge, unless it is considered lifesaving for the mother.
+Fetal testing may be appropriate, based on the week of pregnancy.
+Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
 
-When pregnancy occurs in a patient using Exforge, the physician should discontinue Exforge treatment as soon as possible.
-The physician should inform the patient about potential risks to the fetus based on the time of gestational exposure to Exforge (first trimester only or later).
-If exposure occurs beyond the first trimester, an ultrasound examination should be done.
-
-In rare cases when another antihypertensive agent cannot be used to treat the pregnant patient, serial ultrasound examinations should be performed to assess the intraamniotic environment.
-Routine fetal testing with non-stress tests, biophysical profiles, and/or contraction stress tests may be appropriate based on gestational age and standards of care in the community.
-If oligohydramnios occurs in these situations, individualized decisions about continuing or discontinuing Exforge treatment and about pregnancy management should be made by the patient, her physician, and experts in the management of high risk pregnancy.
-Patients and physicians should be aware that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-
-Infants with histories of in utero exposure to Exforge should be closely observed for hypotension, oliguria, and hyperkalemia.
-If oliguria occurs, these infants may require blood pressure and renal perfusion support.
-Exchange transfusion or dialysis may be required to reverse hypotension and/or support decreased renal function.
-
-Healthcare professionals who prescribe drugs acting directly on the renin angiotensin system should counsel women of childbearing potential about the risks of these agents during pregnancy [see Nonclincial Toxicology (13.2)].
+Closely observe infants with histories of in utero exposure to Exforge for hypotension, oliguria, and hyperkalemia.
+[see Use in Specific Populations (8.4)]
 
 ## 8.2 Labor and Delivery
 
@@ -46,6 +37,11 @@ Because many drugs are excreted into human milk and because of the potential for
 ## 8.4 Pediatric Use
 
 Safety and effectiveness of Exforge in pediatric patients have not been established.
+
+Neonates with a history of in utero exposure to Exforge:
+
+If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
+Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 
 ## 8.5 Geriatric Use
 

@@ -13,7 +13,7 @@ There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or treatment.
 If you have any questions about EXFORGE, ask your doctor or pharmacist.
 
-| What is the most important information I should know about EXFORGE? If you become pregnant, stop taking EXFORGE and call your doctor right away. EXFORGE can harm an unborn baby causing injury and even death. If you plan to become pregnant, talk to your doctor about other treatment options to lower your blood pressure before taking EXFORGE. |
+| What is the most important information I should know about EXFORGE? EXFORGE can cause harm or death to an unborn baby.Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.If you get pregnant while taking EXFORGE, tell your doctor right away. |
 | --- |
 
 What is EXFORGE?
@@ -71,10 +71,10 @@ How should I take EXFORGE?
 - If you take too much EXFORGE, call your doctor or Poison Control Center, or go to the emergency room.
 - Tell all your doctors or dentist you are taking EXFORGE if you: ○ are going to have surgery ○ go for kidney dialysis
 
-What should I avoid while taking Exforge?
+What should I avoid while taking EXFORGE?
 
-You should not take Exforge during pregnancy.
-See “What is the most important information I should know about Exforge.”
+You should not take EXFORGE during pregnancy.
+See “What is the most important information I should know about EXFORGE?”
 
 What are the possible side effects of EXFORGE?
 
@@ -169,4 +169,4 @@ East Hanover, New Jersey 07936
 
 ©Novartis
 
-T2012-05/T2011-69 December 2011/April 2011
+T2012-35/T2012-36 January 2012/January 2012
