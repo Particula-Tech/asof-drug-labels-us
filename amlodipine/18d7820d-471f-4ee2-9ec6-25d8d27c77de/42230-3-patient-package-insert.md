@@ -8,9 +8,9 @@ This leaflet does not take the place of talking with your doctor about your medi
 
 What is the most important information I should know about EXFORGE HCT?
 
-If you become pregnant while taking EXFORGE HCT, stop taking EXFORGE HCT and call your doctor right away.
-EXFORGE HCT can harm an unborn baby causing injury or death.
-Talk to your doctor about other treatment options to lower your blood pressure before taking EXFORGE HCT if you plan to become pregnant.
+- EXFORGE HCT can cause harm or death to an unborn baby.
+- Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
+- If you get pregnant while taking EXFORGE HCT, tell your doctor right away.
 
 What is EXFORGE HCT?
 
@@ -180,4 +180,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2012-07/T2012-08 December 2011/December 2011
+T2012-37/T2012-38 January 2012/January 2012

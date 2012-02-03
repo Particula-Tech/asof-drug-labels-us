@@ -49,7 +49,7 @@ Metabolism and Nutrition Disorders: hypokalaemia, diabetes mellitus, hyperlipide
 
 Musculoskeletal and Connective Tissue Disorders: pain in extremity, arthralgia, musculoskeletal pain, muscular weakness, musculoskeletal weakness, musculoskeletal stiffness, joint swelling, neck pain, osteoarthritis, tendonitis
 
-Nervous System Disorders: parasthesia, somnolence, syncope, carpal tunnel syndrome, disturbance in attention, dizziness postural, dysgeusia, head discomfort, lethargy, sinus headache, tremor
+Nervous System Disorders: paresthesia, somnolence, syncope, carpal tunnel syndrome, disturbance in attention, dizziness postural, dysgeusia, head discomfort, lethargy, sinus headache, tremor
 
 Psychiatric Disorders: anxiety, depression, insomnia
 
