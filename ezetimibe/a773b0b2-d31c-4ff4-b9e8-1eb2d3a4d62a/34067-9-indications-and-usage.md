@@ -7,8 +7,7 @@ Drug therapy is indicated as an adjunct to diet when the response to a diet rest
 
 Monotherapy
 
-ZETIACOPYRIGHT © 2001, 2002, 2005, 2007, 2008 Merck/Schering-Plough Pharmaceuticals.
-All rights reserved., administered alone, is indicated as adjunctive therapy to diet for the reduction of elevated total cholesterol (total-C), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (Apo B), and non-high-density lipoprotein cholesterol (non-HDL-C) in patients with primary (heterozygous familial and non-familial) hyperlipidemia.
+ZETIA®, administered alone, is indicated as adjunctive therapy to diet for the reduction of elevated total cholesterol (total-C), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (Apo B), and non-high-density lipoprotein cholesterol (non-HDL-C) in patients with primary (heterozygous familial and non-familial) hyperlipidemia.
 
 Combination Therapy with HMG-CoA Reductase Inhibitors (Statins)
 

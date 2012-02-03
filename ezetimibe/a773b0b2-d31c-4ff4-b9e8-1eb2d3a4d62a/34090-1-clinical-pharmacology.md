@@ -94,7 +94,7 @@ TABLE 4: Effect of Co-Administered Drugs on Total Ezetimibe
 |  | Change in AUC | Change in Cmax |
 | --- | --- | --- |
 | Co-Administered Drug and Dosing Regimen | Total Ezetimibe Based on 10 mg dose of ezetimibe |  |
-| Cyclosporine-stable dose required (75–150 mg BID)See Drug Interactions (7).,Post-renal transplant patients with mild impaired or normal renal function. In a different study, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m2) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects. | ↑240% | ↑290% |
+| Cyclosporine-stable dose required (75–150 mg BID)Post-renal transplant patients with mild impaired or normal renal function. In a different study, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m2) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects.,See Drug Interactions (7). | ↑240% | ↑290% |
 | Fenofibrate, 200 mg QD, 14 days | ↑48% | ↑64% |
 | Gemfibrozil, 600 mg BID, 7 days | ↑64% | ↑91% |
 | Cholestyramine, 4 g BID, 14 days | ↓55% | ↓4% |

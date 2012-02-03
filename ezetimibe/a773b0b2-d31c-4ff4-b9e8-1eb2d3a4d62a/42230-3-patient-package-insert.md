@@ -2,7 +2,7 @@ ZETIA® (ezetimibe) Tablets
 
 Patient Information about ZETIA (zĕt´-ē-ă) Generic name: ezetimibe (ĕ-zĕt´-ĕ-mīb)
 
-Read this information carefully before you start taking ZETIA and each time you get more ZETIA.
+Read this information carefully before you start taking ZETIA® and each time you get more ZETIA.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 If you have any questions about ZETIA, ask your doctor.
@@ -106,11 +106,12 @@ Inactive ingredients:
 
 Croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, and sodium lauryl sulfate.
 
-29480893T REV 22
+Manufactured for: MSP Distribution Services (C) LLC, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued July 2011 U.S. Patent Nos. 5,846,966; 7,030,106 and RE 42,461.
+By: Schering Corporation, a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-Manufactured for: Merck/Schering-Plough Pharmaceuticals North Wales, PA 19454, USA By: Schering Corporation Kenilworth, NJ 07033, USA or Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
+U.S. Patent Nos. 5,846,966; 7,030,106 and RE 42,461.
 
-COPYRIGHT © 2001, 2002, 2007, 2008, 2009 Merck/Schering-Plough Pharmaceuticals.
-All rights reserved.
+Revised: 01/2012
+
+35223606T REV 23

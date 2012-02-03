@@ -69,7 +69,14 @@ Of the 11,308 patients who received ZETIA + statin in clinical studies, 3587 (32
 
 No overall differences in safety and effectiveness were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.3)].
 
-## 8.6 Hepatic Impairment
+## 8.6 Renal Impairment
+
+When used as monotherapy, no dosage adjustment of ZETIA is necessary.
+
+In the Study of Heart and Renal Protection (SHARP) trial of 9270 patients with moderate to severe renal impairment (6247 non-dialysis patients with median serum creatinine 2.5 mg/dL and median estimated glomerular filtration rate 25.6 mL/min/1.73 m2, and 3023 dialysis patients), the incidence of serious adverse events, adverse events leading to discontinuation of study treatment, or adverse events of special interest (musculoskeletal adverse events, liver enzyme abnormalities, incident cancer) was similar between patients ever assigned to ezetimibe 10 mg plus simvastatin 20 mg (n=4650) or placebo (n=4620) during a median follow-up of 4.9 years.
+However, because renal impairment is a risk factor for statin-associated myopathy, doses of simvastatin exceeding 20 mg should be used with caution and close monitoring when administered concomitantly with ZETIA in patients with moderate to severe renal impairment.
+
+## 8.7 Hepatic Impairment
 
 ZETIA is not recommended in patients with moderate to severe hepatic impairment [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 

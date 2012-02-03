@@ -22,6 +22,7 @@ No dosage adjustment is necessary in patients with mild hepatic impairment [see 
 ## 2.5 Patients with Renal Impairment
 
 No dosage adjustment is necessary in patients with renal impairment [see Clinical Pharmacology (12.3)].
+When given with simvastatin in patients with moderate to severe renal impairment (estimated glomerular filtration rate <60 mL/min/1.73 m2), doses of simvastatin exceeding 20 mg should be used with caution and close monitoring [see Use in Specific Populations (8.6)].
 
 ## 2.6 Geriatric Patients
 

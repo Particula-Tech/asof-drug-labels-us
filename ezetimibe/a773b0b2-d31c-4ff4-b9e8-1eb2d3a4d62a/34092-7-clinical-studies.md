@@ -134,7 +134,7 @@ The changes in lipid endpoints after an additional 48 weeks of treatment with ZE
 A study was conducted to assess the efficacy of ZETIA in the treatment of HoFH.
 This double-blind, randomized, 12-week study enrolled 50 patients with a clinical and/or genotypic diagnosis of HoFH, with or without concomitant LDL apheresis, already receiving atorvastatin or simvastatin (40 mg).
 Patients were randomized to one of three treatment groups, atorvastatin or simvastatin (80 mg), ZETIA administered with atorvastatin or simvastatin (40 mg), or ZETIA administered with atorvastatin or simvastatin (80 mg).
-Due to decreased bioavailability of ezetimibe in patients concomitantly receiving cholestyramine [see Drug Interactions (7.1)], ezetimibe was dosed at least 4 hours before or after administration of resins.
+Due to decreased bioavailability of ezetimibe in patients concomitantly receiving cholestyramine [see Drug Interactions (7.4)], ezetimibe was dosed at least 4 hours before or after administration of resins.
 Mean baseline LDL-C was 341 mg/dL in those patients randomized to atorvastatin 80 mg or simvastatin 80 mg alone and 316 mg/dL in the group randomized to ZETIA plus atorvastatin 40 or 80 mg or simvastatin 40 or 80 mg.
 ZETIA, administered with atorvastatin or simvastatin (40 and 80 mg statin groups, pooled), significantly reduced LDL-C (21%) compared with increasing the dose of simvastatin or atorvastatin monotherapy from 40 to 80 mg (7%).
 In those treated with ZETIA plus 80 mg atorvastatin or with ZETIA plus 80 mg simvastatin, LDL-C was reduced by 27%.
@@ -143,7 +143,7 @@ In those treated with ZETIA plus 80 mg atorvastatin or with ZETIA plus 80 mg sim
 
 A study was conducted to assess the efficacy of ZETIA in the treatment of homozygous sitosterolemia.
 In this multicenter, double-blind, placebo-controlled, 8-week trial, 37 patients with homozygous sitosterolemia with elevated plasma sitosterol levels (>5 mg/dL) on their current therapeutic regimen (diet, bile-acid-binding resins, statins, ileal bypass surgery and/or LDL apheresis), were randomized to receive ZETIA (n=30) or placebo (n=7).
-Due to decreased bioavailability of ezetimibe in patients concomitantly receiving cholestyramine [see Drug Interactions (7.1)], ezetimibe was dosed at least 2 hours before or 4 hours after resins were administered.
+Due to decreased bioavailability of ezetimibe in patients concomitantly receiving cholestyramine [see Drug Interactions (7.4)], ezetimibe was dosed at least 2 hours before or 4 hours after resins were administered.
 Excluding the one subject receiving LDL apheresis, ZETIA significantly lowered plasma sitosterol and campesterol, by 21% and 24% from baseline, respectively.
 In contrast, patients who received placebo had increases in sitosterol and campesterol of 4% and 3% from baseline, respectively.
 For patients treated with ZETIA, mean plasma levels of plant sterols were reduced progressively over the course of the study.

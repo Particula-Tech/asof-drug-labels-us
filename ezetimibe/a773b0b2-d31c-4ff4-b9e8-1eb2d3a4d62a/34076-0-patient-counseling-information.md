@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-approved Patient Labeling (17.5).]
+See FDA-Approved Patient Labeling (Patient Information).
 
 Patients should be advised to adhere to their National Cholesterol Education Program (NCEP)-recommended diet, a regular exercise program, and periodic testing of a fasting lipid panel.
 
@@ -25,10 +25,12 @@ Patients should be advised that if they become pregnant they should stop taking 
 Women who are breastfeeding should be advised to not use ZETIA added to statin therapy.
 Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professionals.
 
-## 17.5 FDA-approved Patient Labeling
+Manufactured for: MSP Distribution Services (C) LLC, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-32147062T REV 22
+By: Schering Corporation, a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
 
-Issued July 2011 U.S. Patent Nos. 5,846,966; 7,030,106 and RE 42,461.
+U.S. Patent Nos. 5,846,966; 7,030,106 and RE 42,461.
 
-Manufactured for: Merck/Schering-Plough Pharmaceuticals North Wales, PA 19454, USA By: Schering Corporation Kenilworth, NJ 07033, USA or Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
+Revised: 01/2012
+
+35223509T REV 23
