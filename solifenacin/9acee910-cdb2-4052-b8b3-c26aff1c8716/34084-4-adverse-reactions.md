@@ -55,8 +55,10 @@ Because these spontaneously reported events are from the worldwide postmarketing
 
 The following events have been reported in association with solifenacin use in worldwide postmarketing experience:
 
-General: peripheral edema, hypersensitivity reactions, including angioedema with airway obstruction, rash, pruritus, and urticaria;
+General: peripheral edema, hypersensitivity reactions, including angioedema with airway obstruction, rash, pruritus, urticaria, and anaphylactic reaction;
 
 Central Nervous: headache, confusion, hallucinations and somnolence;
 
-Cardiovascular: QT prolongation; Torsade de Pointes.
+Cardiovascular: QT prolongation; Torsade de Pointes;
+
+Dermatologic: exfoliative dermatitis and erythema multiforme.

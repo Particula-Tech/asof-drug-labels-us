@@ -1,11 +1,15 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Angioedema
+## 5.1 Angioedema and Anaphylactic Reactions
 
 Angioedema of the face, lips, tongue, and/or larynx have been reported with solifenacin.
 In some cases angioedema occurred after the first dose.
+Cases of angioedema have been reported to occur hours after the first dose or after multiple doses.
 Angioedema associated with upper airway swelling may be life threatening.
 If involvement of the tongue, hypopharynx, or larynx occurs, solifenacin should be promptly discontinued and appropriate therapy and/or measures necessary to ensure a patent airway should be promptly provided.
+Anaphylactic reactions have been reported rarely in patients treated with solifenacin succinate.
+Solifenacin succinate should not be used in patients with a known or suspected hypersensitivity to solifenacin succinate.
+In patients who develop anaphylactic reactions, solifenacin succinate should be discontinued and appropriate therapy and/or measures should be taken.
 
 ## 5.2 Urinary Retention
 
@@ -22,12 +26,12 @@ VESIcare should be used with caution in patients being treated for narrow-angle 
 ## 5.5 Hepatic Impairment
 
 VESIcare should be used with caution in patients with hepatic impairment.
-Doses of VESIcare greater than 5 mg are not recommended in patients with moderate hepatic impairment (Child-Pugh B). VESIcare is not recommended for patients with severe hepatic impairment (Child-Pugh C) [seeDosage and Administration (2.3) and Use in Specific Populations (8.6)].
+Doses of VESIcare greater than 5 mg are not recommended in patients with moderate hepatic impairment (Child-Pugh B). VESIcare is not recommended for patients with severe hepatic impairment (Child-Pugh C) [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 
 ## 5.6 Renal Impairment
 
 VESIcare should be used with caution in patients with renal impairment.
-Doses of VESIcare greater than 5 mg are not recommended in patients with severe renal impairment (CLcr <30 mL/min) [seeDosage and Administration (2.2) and Use in Specific Populations (8.7)].
+Doses of VESIcare greater than 5 mg are not recommended in patients with severe renal impairment (CLcr <30 mL/min) [see Dosage and Administration (2.2) and Use in Specific Populations (8.7)].
 
 ## 5.7 Patients with Congenital or Acquired QT Prolongation
 

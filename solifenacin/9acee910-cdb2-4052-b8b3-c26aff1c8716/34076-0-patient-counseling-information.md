@@ -11,9 +11,9 @@ Patients should read the patient leaflet entitled “Patient Information VESIcar
 Patients should be informed that solifenacin may produce angioedema, which could result in life-threatening airway obstruction.
 Patients should be advised to promptly discontinue solifenacin therapy and seek immediate attention if they experience edema of the tongue or laryngopharynx, or difficulty breathing.
 
-FDA-approved patient labeling
+FDA approved patient labeling
 
-VESIcare® - (VES-ih-care)
+VESIcare® (VES-ih-care)
 
 (solifenacin succinate)
 
@@ -25,7 +25,7 @@ time you get a refill.
 There may be new information.
 This leaflet does not take the place of
 
-talking with your doctor medical condition or treatment.
+talking with your doctor about your medical condition or treatment.
 
 What is VESIcare?
 
@@ -127,7 +127,7 @@ Keep the bottle closed.
 
 Keep VESIcare and all medicines out of the reach of children.
 
-General information about VESIcare
+General information about VESIcare.
 
 Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets.
 Do not use VESIcare for a condition for which it was not prescribed.
@@ -173,16 +173,8 @@ Astellas Pharma US, Inc.
 
 Deerfield, Illinois 60015-2548
 
-Marketed by:
+© 2012 Astellas Pharma US, Inc.
 
-GlaxoSmithKline
+Revised: January 2012
 
-Research Triangle Park
-
-North Carolina 27709
-
-© 2011 Astellas Pharma US, Inc.
-
-& GlaxoSmithKline Revised: APRIL 2011
-
-11D031-VES-SPL
+11F047-VES-SPL

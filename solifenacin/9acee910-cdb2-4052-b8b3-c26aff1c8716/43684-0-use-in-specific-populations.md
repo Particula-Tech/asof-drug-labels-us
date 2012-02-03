@@ -13,7 +13,7 @@ Administration of solifenacin succinate to pregnant mice at 3.6 times and greate
 Administration of 7.9 times (250 mg/kg/day) the MRHD to pregnant mice resulted in an increased incidence of cleft palate.
 In utero and lactational exposures to maternal doses of solifenacin succinate of 3.6 times (100 mg/kg/day) the MRHD resulted in reduced peripartum and postnatal survival, reductions in body weight gain, and delayed physical development (eye opening and vaginal patency).
 An increase in the percentage of male offspring was also observed in litters from offspring exposed to maternal doses of 250 mg/kg/day.
-No embryotoxic effects were observed in rats at up to 50 mg/kg/day (<1 times the exposure at the MRHD) or in rabbits at up to 1.8 times (50 mg/kg/day) the exposure the MRHD.
+No embryotoxic effects were observed in rats at up to 50 mg/kg/day (<1 times the exposure at the MRHD) or in rabbits at up to 1.8 times (50 mg/kg/day) the exposure at the MRHD.
 Because animal reproduction studies are not always predictive of human response, VESIcare should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.2 Labor and Delivery
