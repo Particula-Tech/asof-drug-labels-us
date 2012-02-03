@@ -7,8 +7,8 @@ Use the smallest dosage necessary to achieve the required response.
 
 ### For Edema
 
-The usual adult dosage is 25 to 100 mg daily as a single or divided dose.
-Many patients with edema respond to intermittent therapy, i.e., administration on alternate days or on three to five days each week.
+The usual adult dosage is 25 mg to 100 mg daily as a single or divided dose.
+Many patients with edema respond to intermittent therapy, i.e., administration on alternate days or on 3 to 5 days each week.
 With an intermittent schedule, excessive response and the resulting undesirable electrolyte imbalance are less likely to occur.
 
 ### For Control of Hypertension
@@ -20,8 +20,8 @@ Patients usually do not require doses in excess of 50 mg of hydrochlorothiazide 
 
 ## Infants and Children
 
-### For Diuresis and For Control of Hypertension
+### For Diuresis and for Control of Hypertension
 
-For Diuresis and For Control of Hypertension The usual pediatric dosage is 0.5 to 1 mg per pound (1 to 2 mg/kg) per day in single or two divided doses, not to exceed 37.5 mg per day in infants up to 2 years of age or 100 mg per day in children 2 to 12 years of age.
+The usual pediatric dosage is 0.5 mg to 1 mg per pound (1 to 2 mg/kg) per day in single or two divided doses, not to exceed 37.5 mg per day in infants up to 2 years of age or 100 mg per day in children 2 to 12 years of age.
 In infants less than 6 months of age, doses up to 1.5 mg per pound (3 mg/kg) per day in two divided doses may be required.
-(See PRECAUTIONS, Pediatric Use ).
+(See PRECAUTIONS, Pediatric Use .)

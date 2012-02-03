@@ -8,6 +8,12 @@ Thiazides may add to or potentiate the action of other antihypertensive drugs.
 Sensitivity reactions may occur in patients with or without a history of allergy or bronchial asthma.
 The possibility of exacerbation or activation of systemic lupus erythematosus has been reported.
 Lithium generally should not be given with diuretics (see PRECAUTIONS, Drug Interactions ).
+Acute Myopia and Secondary Angle-Closure Glaucoma Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma.
+Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation.
+Untreated acute angle-closure glaucoma can lead to permanent vision loss.
+The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible.
+Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
+Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
 
 # PRECAUTIONS
 
@@ -16,14 +22,14 @@ Lithium generally should not be given with diuretics (see PRECAUTIONS, Drug Inte
 All patients receiving diuretic therapy should be observed for evidence of fluid or electrolyte imbalance: namely, hyponatremia, hypochloremic alkalosis, and hypokalemia.
 Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids.
 Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, confusion, seizures, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
-Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis is present, or after prolonged therapy.
+Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis is present or after prolonged therapy.
 Interference with adequate oral electrolyte intake will also con­tribute to hypokalemia.
 Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability).
-Hypokalemia may be avoided or treated by potassium sparing diuretics or potassium supplements such as foods with a high potassium content.
+Hypokalemia may be avoided or treated by use of potassium sparing diuretics or potassium supplements such as foods with a high potassium content.
 Although any chloride deficit is generally mild and usually does not require specific treatment except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
 Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction, rather than administration of salt, except in rare instances when the hypo­natremia is life threatening.
 In actual salt depletion, appropri­ate replacement is the therapy of choice.
-Hyperuricemia may occur or acute gout may be precipitated in certain patients receiv­ing thiazide.
+Hyperuricemia may occur or acute gout may be precipitated in certain patients receiv­ing thiazides.
 In diabetic patients dosage adjustments of insulin or oral hypoglycemic agents may be required.
 Hyperglycemia may occur with thiazide diuretics.
 Thus latent diabetes mellitus may become manifest during thiazide therapy.
@@ -43,18 +49,18 @@ Periodic determination of serum electrolytes to detect possible electrolyte imba
 ## Drug Interactions
 
 When given concurrently the following drugs may interact with thiazide diuretics.
-Alcohol, barbiturates, or narcotics Potentiation of orthostatic hypotension may occur.
-Antidiabetic drugs - (oral agents and insulin) Dosage adjustment of the antidiabetic drug may be required.
-Other antihypertensive drugs Additive effect or potentiation.
-Cholestyramine and colestipol resins Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
-Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85 and 43 percent, respectively.
+Alcohol, Barbiturates, or Narcotics Potentiation of orthostatic hypotension may occur.
+Antidiabetic Drugs (Oral Agents and Insulin) Dosage adjustment of the antidiabetic drug may be required.
+Other Antihypertensive Drugs Additive effect or potentiation.
+Cholestyramine and Colestipol Resins Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
+Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.
 Corticosteroids, ACTH Intensified electrolyte depletion, particularly hypokalemia.
-Pressor amines (e.g., norepinephrine) Possible decreased response to pressor amines but not sufficient to preclude their use.
-Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine) Possible increased responsiveness to the muscle relaxant.
+Pressor Amines (e.g., Norepinephrine) Possible decreased response to pressor amines but not sufficient to preclude their use.
+Skeletal Muscle Relaxants, Nondepolarizing (e.g., Tubocurarine) Possible increased responsiveness to the muscle relaxant.
 Lithium Generally should not be given with diuretics.
 Diuretic agents reduce the renal clear­ance of lithium and add a high risk of lithium tox­icity.
 Refer to the package insert for lithium preparations before use of such preparations with hydrochloro­thiazide.
-Non-steroidal Anti-inflammatory Drugs In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
+Non-Steroidal Anti-Inflammatory Drugs In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
 Therefore, when hydrochlorothiazide and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
 
 ## Drug/Laboratory Test Interactions
@@ -63,21 +69,21 @@ Thiazides should be discontinued before carrying out tests for parathyroid funct
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Two-year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of approximately 100 mg/kg/day).
-The NTP, however, found equivocal evidence for hepato-carcinogenicity in male mice.
+Two-year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of up to approximately 100 mg/kg/day).
+The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice.
 Hydrochlorothiazide was not genotoxic in vitro in the Ames mutagenicity assay of Salmonella typhimurium strains TA 98, TA100, TA 1535, TA 1537, and TA 1538 and in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations, or in vivo in assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene.
 Positive test results were obtained only in the in vitro CHO Sister Chromatid Exchange (clastogenicity) and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 mcg/mL, and in the Aspergillus nidulans non-disjunction assay at an unspecified concentration.
 Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg, respectively, prior to conception and throughout gestation.
 
 ## Pregnancy
 
-### Teratogenic effects
+### Teratogenic Effects
 
 Pregnancy Category B Studies in which hydrochlorothiazide was orally administered to pregnant mice and rats during their respective periods of major organogenesis at doses up to 3000 and 1000 mg hydrochlorothiazide/kg, respectively, provided no evidence of harm to the fetus.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-### Nonteratogenic effects
+### Nonteratogenic Effects
 
 Thiazides cross the placental barrier and appear in cord blood.
 There is a risk of fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
@@ -91,4 +97,4 @@ Because of the potential for serious adverse reactions in nursing infants, a dec
 
 There are no well-controlled clinical trials in pediatric patients.
 Information on dosing in this age group is supported by evidence from empiric use in pediatric patients and published literature regarding the treatment of hypertension in such patients.
-(See DOSAGE AND ADMINISTRATION, Infants and Children ).
+(See DOSAGE AND ADMINISTRATION, Infants and Children .)
