@@ -8,36 +8,39 @@ Levofloxacin tablets belong to a class of antibiotics called fluoroquinolones.
 Levofloxacin tablets can cause side effects that may be serious or even cause death.
 If you get any of the following serious side effects, get medical help right away.
 Talk with your healthcare provider about whether you should continue to take levofloxacin tablets.
+1.
+Tendon rupture or swelling of the tendon (tendinitis).
 
-- Tendon rupture or swelling of the tendon (tendinitis).
-  - Tendons are the tough cords of tissue that connect muscles to bones.
-  - Pain, swelling, tears, and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites can happen in people of all ages who take fluoroquinolone antibiotics, including levofloxacin tablets.
-    The risk of getting tendon problems is higher if you:
-    - are over 60 years of age
-    - are taking steroids (corticosteroids)
-    - have had a kidney, heart or lung transplant.
-  - Swelling of the tendon (tendinitis) and tendon rupture (breakage) have also happened in patients who take fluoroquinolones who do not have the above risk factors.
-  - Other reasons for tendon ruptures can include:
-    - physical activity or exercise
-    - kidney failure
-    - tendon problems in the past, such as in people with rheumatoid arthritis (RA).
-  - Call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
-    Stop taking levofloxacin tablets until tendinitis or tendon rupture has been ruled out by your healthcare provider.
-    Avoid exercise and using the affected area.
-    The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
-    This can also happen with other tendons.
-    Talk to your healthcare provider about the risk of tendon rupture with continued use of levofloxacin tablets.
-    You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
-  - Tendon rupture can happen while you are taking or after you have finished taking levofloxacin tablets.
-    Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone.
-  - Get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
-    - hear or feel a snap or pop in a tendon area
-    - bruising right after an injury in a tendon area
-    - unable to move the affected area or bear weight
-- Worsening of myasthenia gravis (a disease that causes muscle weakness).
-  Fluoroquinolones like levofloxacin tablets may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
-  Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
+- Tendon problems can happen in people of all ages who take levofloxacin tablets.
+  Tendons are tough cords of tissue that connect muscles to bones.
+  - Some tendon problems include pain, swelling, tears, and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+- The risk of getting tendon problems while you take levofloxacin tablets are higher if you:
+  - are over 60 years of age
+  - are taking steroids (corticosteroids)
+  - have had a kidney, heart or lung transplant.
+- Tendon problems can happen in people who do not have the above risk factors when they take levofloxacin tablets.
+  Other reasons that can increase your risk of tendon problems can include:
+  - physical activity or exercise
+  - kidney failure
+  - tendon problems in the past, such as in people with rheumatoid arthritis (RA).
+- Call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
+  Stop taking levofloxacin tablets until tendinitis or tendon rupture has been ruled out by your healthcare provider.
+  Avoid exercise and using the affected area.
+  The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
+  This can also happen with other tendons.
+- Talk to your healthcare provider about the risk of tendon rupture with continued use of levofloxacin tablets.
+  You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
+- Tendon rupture can happen while you are taking or after you have finished taking levofloxacin tablets.
+  Tendon ruptures have happened up to several months after patients have finished taking their fluoroquinolone.
+- Get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
+  - hear or feel a snap or pop in a tendon area
+  - bruising right after an injury in a tendon area
+  - unable to move the affected area or bear weight
 
+2.
+Worsening of myasthenia gravis (a disease that causes muscle weakness).
+Fluoroquinolones like levofloxacin tablets may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 See the section “What are the possible side effects of levofloxacin tablets?” for more information about side effects.
 What are levofloxacin tablets?
 Levofloxacin tablets are a fluoroquinolone antibiotic medicine used in adults, 18 years or older, to treat certain infections caused by certain germs called bacteria.
@@ -178,6 +181,7 @@ Other serious side effects of levofloxacin tablets include:
   - feel lightheaded
   - feel more suspicious (paranoia)
   - suicidal thoughts or acts
+  - persistent headache with or without blurred vision.
 - Serious allergic reactions.
   Allergic reactions can happen in people taking fluoroquinolones, including levofloxacin tablets, even after only one dose.
   Stop taking levofloxacin tablets and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:
@@ -252,4 +256,4 @@ For more information call 1-866-850-2876.
 What are the ingredients in levofloxacin tablets?
 Active ingredient: levofloxacin Inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, polysorbate 80, and titanium dioxide.
 In addition 250 mg contains iron oxide red and 500 mg contains iron oxide red and iron oxide yellow This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 06/2011
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA Revised: 11/2011
