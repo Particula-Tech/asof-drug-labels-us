@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "NDA202270"
+  ],
+  "inn": "metformin",
+  "labeler": "Merck Sharp & Dohme Corp.",
+  "package_ndcs": [
+    "0006-0078-14",
+    "0006-0078-28",
+    "0006-0078-61",
+    "0006-0078-62",
+    "0006-0078-82",
+    "0006-0080-14",
+    "0006-0080-28",
+    "0006-0080-61",
+    "0006-0080-62",
+    "0006-0080-82",
+    "0006-0081-07",
+    "0006-0081-14",
+    "0006-0081-31",
+    "0006-0081-54",
+    "0006-0081-82"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "sitagliptin and metformin hydrochloride",
+      "name": "JANUMET"
+    }
+  ],
+  "setid": "64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50",
+  "source": "dailymed"
+}
