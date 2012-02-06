@@ -42,7 +42,7 @@ Rates of CHD events were comparable among women in the CE (0.625 mg) plus MPA (2
 ### Venous Thromboembolism (VTE)
 
 In the WHI estrogen-alone substudy, the risk of VTE (DVT and pulmonary embolism [PE]) was increased for women receiving daily CE (0.625 mg) compared to placebo (30 versus 22 per 10,000 women-years), although only the increased risk of DVT reached statistical significance (23 versus 15 per 10,000 women-years).
-The increase in VTE risk was demonstrated during the first 2 years3[see Clinical Studies (14.2)].
+The increase in VTE risk was demonstrated during the first 2 years3 [see Clinical Studies (14.2)].
 Should a VTE occur or be suspected, estrogens should be discontinued immediately.
 
 In the WHI estrogen plus progestin substudy, a statistically significant 2-fold greater rate of VTE was reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (35 versus 17 per 10,000 women-years).
@@ -72,7 +72,7 @@ In a 52-week clinical trial using PREMARIN Vaginal Cream alone (0.5 g inserted t
 ### Breast Cancer
 
 The most important randomized clinical trial providing information about breast cancer in estrogen-alone users is the Women's Health Initiative (WHI) substudy of daily CE (0.625 mg).
-In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE (0.625 mg) was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80]5[see Clinical Studies (14.2)].
+In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE (0.625 mg) was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80]5 [see Clinical Studies (14.2)].
 
 The most important randomized clinical trial providing information about breast cancer in estrogen plus progestin users is the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg).
 After a mean follow-up of 5.6 years, the estrogen plus progestin substudy reported an increased risk of breast cancer in women who took daily CE plus MPA.

@@ -80,7 +80,7 @@ Serious, but less common side effects include:
 - High blood pressure
 - Liver problems
 - High blood sugar
-- Enlargement of benign tumors of the uterus (“fibroids”)
+- Enlargement of benign tumors of the uterus ("fibroids")
 
 Some of the warning signs of these serious side effects include:
 
@@ -138,7 +138,7 @@ Latex or rubber condoms, diaphragms and cervical caps may be weakened and fail w
 This leaflet provides a summary of the most important information about PREMARIN Vaginal Cream.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask for information about PREMARIN Vaginal Cream that is written for health professionals.
-You can get more information by calling the toll free number 1-800-934-5556.
+You can get more information by calling the toll free number 1-800-438-1985.
 
 What are the ingredients in PREMARIN Vaginal Cream?
 
@@ -147,18 +147,18 @@ PREMARIN Vaginal Cream also contains cetyl esters wax, cetyl alcohol, white wax,
 
 PREMARIN (conjugated estrogens) Vaginal Cream—Each gram contains 0.625 mg conjugated estrogens, USP.
 
-Combination package: Each contains a net wt.
+Combination package: Each contains a net wt. of 1.06 oz (30 g) tube with plastic applicator(s) calibrated in 0.5 g increments to a maximum of 2 g (NDC 0046-0872-21), or a net wt.
 1.5 oz (42.5 g) tube with one plastic applicator calibrated in 0.5 g increments to a maximum of 2 g (NDC 0046-0872-93).
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
-Wyeth®
+Pfizer
 
-Wyeth Pharmaceuticals Inc.
+Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc, Philadelphia, PA 19101
 
-Philadelphia, PA 19101
+LAB-0498-1.0
 
-«TEAR HERE
+Rev 12/2011
 
 PATIENT INFORMATION
 
@@ -244,7 +244,7 @@ Serious, but less common side effects include:
 - High blood pressure
 - Liver problems
 - High blood sugar
-- Enlargement of benign tumors of the uterus (“fibroids”)
+- Enlargement of benign tumors of the uterus ("fibroids")
 
 Some of the warning signs of these serious side effects include:
 
@@ -302,7 +302,7 @@ Latex or rubber condoms, diaphragms and cervical caps may be weakened and fail w
 This leaflet provides a summary of the most important information about PREMARIN Vaginal Cream.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask for information about PREMARIN Vaginal Cream that is written for health professionals.
-You can get more information by calling the toll free number 1-800-934-5556.
+You can get more information by calling the toll free number 1-800-438-1985.
 
 What are the ingredients in PREMARIN Vaginal Cream
 
@@ -311,22 +311,18 @@ PREMARIN Vaginal Cream also contains cetyl esters wax, cetyl alcohol, white wax,
 
 PREMARIN (conjugated estrogens) Vaginal Cream—Each gram contains 0.625 mg conjugated estrogens, USP.
 
-Combination package: Each contains a net wt.
+Combination package: Each contains a net wt. of 1.06 oz (30 g) tube with plastic applicator(s) calibrated in 0.5 g increments to a maximum of 2 g (NDC 0046-0872-21), or a net wt.
 1.5 oz (42.5 g) tube with one plastic applicator calibrated in 0.5 g increments to a maximum of 2 g (NDC 0046-0872-93).
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
-|  | This product's label may have been updated. For current package insert and further product information, please visit www.wyeth.com or call our medical communications department toll-free at 1-800-934-5556. |  |
+|  | This product's label may have been updated. For current package insert and further product information, please visit www.pfizer.com or call our medical communications department toll-free at 1-800-438-1985. |  |
 | --- | --- | --- |
 
-Wyeth®
+Pfizer
 
-Wyeth Pharmaceuticals Inc.
+Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc, Philadelphia, PA 19101
 
-Philadelphia, PA 19101
+LAB-0519-1.0
 
-W10413C022
-
-ET01
-
-Rev 05/10
+Rev 12/2011
