@@ -6,17 +6,17 @@ Treatment with VIDAZA is associated with anemia, neutropenia and thrombocytopeni
 Complete blood counts should be performed as needed to monitor response and toxicity, but at a minimum, prior to each dosing cycle.
 After administration of the recommended dosage for the first cycle, dosage for subsequent cycles should be reduced or delayed based on nadir counts and hematologic response [see Dosage and Administration (2.3)].
 
-## 5.2 Severe Preexisting Hepatic Impairment
+## 5.2 Severe Pre-existing Hepatic Impairment
 
-Because azacitidine is potentially hepatotoxic in patients with severe preexisting hepatic impairment, caution is needed in patients with liver disease.
-Patients with extensive tumor burden due to metastatic disease have been rarely reported to experience progressive hepatic coma and death during azacitidine treatment, especially in such patients with baseline albumin <30 g/L.
+Because azacitidine is potentially hepatotoxic in patients with severe pre-existing hepatic impairment, caution is needed in patients with liver disease.
+Patients with extensive tumor burden due to metastatic disease have been reported to experience progressive hepatic coma and death during azacitidine treatment, especially in such patients with baseline albumin <30 g/L.
 Azacitidine is contraindicated in patients with advanced malignant hepatic tumors [see Contraindications (4.1)].
 
 Safety and effectiveness of VIDAZA in patients with MDS and hepatic impairment have not been studied as these patients were excluded from the clinical trials.
 
 ## 5.3 Renal Abnormalities
 
-Renal abnormalities ranging from elevated serum creatinine to renal failure and death have been reported rarely in patients treated with intravenous azacitidine in combination with other chemotherapeutic agents for nonMDS conditions.
+Renal abnormalities ranging from elevated serum creatinine to renal failure and death have been reported in patients treated with intravenous azacitidine in combination with other chemotherapeutic agents for nonMDS conditions.
 In addition, renal tubular acidosis, defined as a fall in serum bicarbonate to <20 mEq/L in association with an alkaline urine and hypokalemia (serum potassium <3 mEq/L) developed in 5 patients with CML treated with azacitidine and etoposide.
 If unexplained reductions in serum bicarbonate <20 mEq/L or elevations of BUN or serum creatinine occur, the dosage should be reduced or held [see Dosage and Administration (2.4)].
 
@@ -29,9 +29,7 @@ Safety and effectiveness of VIDAZA in patients with MDS and renal impairment hav
 Complete blood counts should be performed as needed to monitor response and toxicity, but at a minimum, prior to each cycle.
 Liver chemistries and serum creatinine should be obtained prior to initiation of therapy.
 
-## 5.5 Pregnancy
-
-Pregnancy Category D
+## 5.5 Use in Pregnancy
 
 VIDAZA may cause fetal harm when administered to a pregnant woman.
 Azacitidine caused congenital malformations in animals.

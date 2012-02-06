@@ -2,14 +2,15 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D
+Pregnancy Category D [see Warning and Precautions (5.5)]
 
 VIDAZA may cause fetal harm when administered to a pregnant woman.
 Azacitidine was teratogenic in animals.
+There are no adequate and well controlled studies with Vidaza in pregnant women.
 Women of childbearing potential should be advised to avoid pregnancy during treatment with VIDAZA.
 If this drug is used during pregnancy or if a patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
-Female partners of male patients receiving VIDAZA should not become pregnant [see Nonclinical Toxicology (13)].
+Female partners of male patients receiving VIDAZA should not become pregnant [see Nonclinical Toxicology (13.1)].
 
 Early embryotoxicity studies in mice revealed a 44% frequency of intrauterine embryonal death (increased resorption) after a single IP (intraperitoneal) injection of 6 mg/m2 (approximately 8% of the recommended human daily dose on a mg/m2 basis) azacitidine on gestation day 10.
 Developmental abnormalities in the brain have been detected in mice given azacitidine on or before gestation day 15 at doses of ~3-12 mg/m2 (approximately 4%-16% the recommended human daily dose on a mg/m2 basis).
@@ -22,7 +23,7 @@ Fetal anomalies included: CNS anomalies (exencephaly/encephalocele), limb anomal
 ## 8.3 Nursing Mothers
 
 It is not known whether azacitidine or its metabolites are excreted in human milk.
-Because of the potential for tumorigenicity shown for azacitidine in animal studies and the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into consideration the importance of the drug to the mother.
+Because many drugs are excreted in human milk and because of the potential for tumorigenicity shown for azacitidine in animal studies and the potential for serious adverse reactions in nursing infants from Vidaza, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into consideration the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 

@@ -64,6 +64,8 @@ The diluent should be injected slowly into the vial.
 Vigorously shake or roll the vial until a uniform suspension is achieved.
 The suspension will be cloudy.
 The resulting suspension will contain azacitidine 25 mg/mL.
+Do not filter the suspension after reconstitution.
+Doing so could remove the active substance.
 
 Preparation for Immediate Subcutaneous Administration: Doses greater than 4 mL should be divided equally into 2 syringes.
 The product may be held at room temperature for up to 1 hour, but must be administered within 1 hour after reconstitution.
