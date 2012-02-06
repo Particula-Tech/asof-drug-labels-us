@@ -1,6 +1,4 @@
-FDA-Approved Patient Labeling
-
-PROSCAR® (Finasteride) Tablets Patient Information about PROSCAR® (Prahs-car) Generic name: finasteride (fin-AS-tur-eyed)
+PROSCAR® (finasteride) Tablets Patient Information about PROSCAR® (Prahs-car) Generic name: finasteride (fin-AS-tur-eyed)
 
 PROSCAR is for use by men only.
 
@@ -24,7 +22,7 @@ Do Not Take PROSCAR if you are:
 
 - a woman who is pregnant or may potentially be pregnant.
   PROSCAR may harm your unborn baby.
-  Do not touch or handle crushed or broken PROSCAR tablets (see “A warning about PROSCAR and pregnancy”).
+  Do not touch or handle crushed or broken PROSCAR tablets (see "A warning about PROSCAR and pregnancy").
 - allergic to finasteride or any of the ingredients in PROSCAR.
   See the end of this leaflet for a complete list of ingredients in PROSCAR.
 
@@ -82,7 +80,7 @@ What you need to know while taking PROSCAR:
   Follow your doctor's advice about when to have these checkups.
 - Checking for prostate cancer.
   Your doctor has prescribed PROSCAR for BPH and not for treatment of prostate cancer — but a man can have BPH and prostate cancer at the same time.
-  Checking for prostate cancer should continue while you take PROSCAR.
+  Your doctor may continue checking for prostate cancer while you take PROSCAR.
 - About Prostate-Specific Antigen (PSA).
   Your doctor may have done a blood test called PSA for the screening of prostate cancer.
   Because PROSCAR decreases PSA levels, you should tell your doctor(s) that you are taking PROSCAR.
@@ -135,11 +133,3 @@ However, since each case of BPH is different, you should know that:
 - Even though the prostate shrinks, you may NOT notice an improvement in urine flow or symptoms.
 - You may need to take PROSCAR for six (6) months or more to see whether it improves your symptoms.
 - Therapy with PROSCAR may reduce your risk for a sudden inability to pass urine and the need for surgery for an enlarged prostate.
-
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Issued June 2011
-
-9631307
-
-Copyright © 1992, 1995, 1998, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling.]
+See FDA-Approved Patient Labeling (Patient Information).
 
 ## 17.1 Increased Risk of High-Grade Prostate Cancer
 
@@ -10,7 +10,7 @@ Patients should be informed that there was an increase in high-grade prostate ca
 
 Physicians should inform patients that women who are pregnant or may potentially be pregnant should not handle crushed or broken PROSCAR tablets because of the possibility of absorption of finasteride and the subsequent potential risk to the male fetus.
 PROSCAR tablets are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets have not been broken or crushed.
-If a woman who is pregnant or may potentially be pregnant comes in contact with crushed or broken PROSCAR tablets, the contact area should be washed immediately with soap and water [see Contraindications (4), Warnings and Precautions (5.4), Use in Specific Populations (8.1) and How Supplied/Storage and Handling (16)].
+If a woman who is pregnant or may potentially be pregnant comes in contact with crushed or broken PROSCAR tablets, the contact area should be washed immediately with soap and water [see Contraindications (4), Warnings and Precautions (5.3), Use in Specific Populations (8.1) and How Supplied/Storage and Handling (16)].
 
 ## 17.3 Additional Instructions
 

@@ -74,7 +74,7 @@ A meta-analysis combining 1-year data from seven double-blind, placebo-controlle
 The Medical Therapy of Prostatic Symptoms (MTOPS) Trial was a double-blind, randomized, placebo-controlled, multicenter, 4- to 6-year study (average 5 years) in 3047 men with symptomatic BPH, who were randomized to receive PROSCAR 5 mg/day (n=768), doxazosin 4 or 8 mg/day (n=756), the combination of PROSCAR 5 mg/day and doxazosin 4 or 8 mg/day (n=786), or placebo (n=737).
 All participants underwent weekly titration of doxazosin (or its placebo) from 1 to 2 to 4 to 8 mg/day.
 Only those who tolerated the 4 or 8 mg dose level were kept on doxazosin (or its placebo) in the study.
-The participant’s final tolerated dose (either 4 mg or 8 mg) was administered beginning at end-Week 4.
+The participant's final tolerated dose (either 4 mg or 8 mg) was administered beginning at end-Week 4.
 The final doxazosin dose was administered once per day, at bedtime.
 
 The mean patient age at randomization was 62.6 years (±7.3 years).

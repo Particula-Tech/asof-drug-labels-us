@@ -7,7 +7,7 @@ Type II 5α-reductase metabolizes testosterone to DHT in the prostate gland, liv
 DHT induces androgenic effects by binding to androgen receptors in the cell nuclei of these organs.
 
 Finasteride is a competitive and specific inhibitor of Type II 5α-reductase with which it slowly forms a stable enzyme complex.
-Turnover from this complex is extremely slow (t½~ 30 days).
+Turnover from this complex is extremely slow (t½ ~ 30 days).
 This has been demonstrated both in vivo and in vitro.
 Finasteride has no affinity for the androgen receptor.
 In man, the 5α-reduced steroid metabolites in blood and urine are decreased after administration of finasteride.
@@ -85,11 +85,11 @@ Pediatric
 
 Finasteride pharmacokinetics have not been investigated in patients <18 years of age.
 
-Finasteride is not indicated for use in pediatric patients [see Warnings and Precautions (5.5), Use in Specific Populations (8.4)].
+Finasteride is not indicated for use in pediatric patients [see Warnings and Precautions (5.4), Use in Specific Populations (8.4)].
 
 Gender
 
-Finasteride is not indicated for use in women [see Contraindications (4), Warnings and Precautions (5.4 and 5.5), Use in Specific Populations (8.1), How Supplied/Storage and Handling (16) and Patient Counseling Information (17.2)].
+Finasteride is not indicated for use in women [see Contraindications (4), Warnings and Precautions (5.3 and 5.4), Use in Specific Populations (8.1), How Supplied/Storage and Handling (16) and Patient Counseling Information (17.2)].
 
 Geriatric
 
