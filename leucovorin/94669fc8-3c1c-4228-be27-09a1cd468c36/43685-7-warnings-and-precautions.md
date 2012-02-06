@@ -19,7 +19,7 @@ The concomitant use of leucovorin with trimethoprim-sulfamethoxazole for the acu
 ## General
 
 Parenteral administration is preferable to oral dosing if there is a possibility that the patient may vomit or not absorb the leucovorin.
-Leucovorin has no effect on other established toxicities of methotrexate, such as the nephrotoxicity resulting from drug and/or metabolite precipitation in the kidney.
+Leucovorin has no effect on other established toxicities of methotrexate such as the nephrotoxicity resulting from drug and/or metabolite precipitation in the kidney.
 
 ## Drug Interactions
 
@@ -34,7 +34,7 @@ Leucovorin may enhance the toxicity of fluorouracil (see WARNINGS).
 
 ### Teratogenic Effects:
 
-#### Pregnancy Category C.
+#### Pregnancy Category C
 
 Animal reproduction studies have not been conducted with leucovorin.
 It is also not known whether leucovorin can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.

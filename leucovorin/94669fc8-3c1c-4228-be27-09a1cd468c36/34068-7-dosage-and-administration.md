@@ -11,13 +11,13 @@ Leucovorin 15 mg (10 mg/m2) should be administered IM, IV, or PO every 6 hours u
 Serum creatinine and methotrexate levels should be determined at 24 hour intervals.
 If the 24 hour serum creatinine has increased 50% over baseline or if the 24 hour methotrexate level is greater than 5 x 10 -6 M or the 48 hour level is greater than 9 x 10 -7 M, the dose of leucovorin should be increased to 150 mg (100 mg/m2) IV every 3 hours until the methotrexate level is less than 10 -8 M. Doses greater then 25 mg should be given parenterally (see CLINICAL PHARMACOLOGY).
 
-Hydration (3L/d) and urinary alkalinization with sodium bicarbonate should be employed concomitantly.
-The bicarbonate dose should be adjusted to maintain the urine pH at 7.0 or greater.
+Hydration (3 L/d) and urinary alkalinization with sodium bicarbonate should be employed concomitantly.
+The bicarbonate dose should be adjusted to maintain the urine pH at 7 or greater.
 
-The recommended dose of leucovorin to counteract hematologic toxicity from folic acid antagonists with less affinity for mammalian dihydrofolate reductase than methotrexate (i.e., trimethoprim, pyrimethamine) is substantially less and 5 to 15 mg of leucovorin per day has been recommended by some investigators.
+The recommended dose of leucovorin to counteract hematologic toxicity from folic acid antagonists with less affinity for mammalian dihydrofolate reductase than methotrexate (i.e., trimethoprim, pyrimethamine) is substantially less, and 5 to 15 mg of leucovorin per day has been recommended by some investigators.
 
 Patients who experience delayed early methotrexate elimination are likely to develop reversible non-oliguric renal failure.
-In addition to appropriate leucovorin therapy, these patients require continuing hydration and urinary alkalinization, and close monitoring of fluid and electrolyte status, until serum methotrexate level has fallen to below 0.05 micromolar and the renal failure has resolved.
+In addition to appropriate leucovorin therapy, these patients require continuing hydration and urinary alkalinization, and close monitoring of fluid and electrolyte status, until the serum methotrexate level has fallen to below 0.05 micromolar and the renal failure has resolved.
 
 Some patients will have abnormalities in methotrexate elimination or renal function following methotrexate administration, which are significant but less severe.
 These abnormalities may or may not be associated with significant clinical toxicity.

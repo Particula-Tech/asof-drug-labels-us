@@ -16,7 +16,7 @@ Mean values observed (± one standard error) were:
          2. Peak serum folate concentration achieved: 268 ± 18 ng/mL,
          3. Serum folate half-disappearance time: 3.5 hours.
 
-Oral tablets yielded areas under serum folate concentration-time curves (AUCs) that were 12% greater than equal amounts of leucovorin given intramuscularly and equal to the same amounts given intravenously.
+Oral tablets yielded areas under the serum folate concentration-time curves (AUCs) that were 12% greater than equal amounts of leucovorin given intramuscularly and equal to the same amounts given intravenously.
 
 Oral absorption of leucovorin is saturable at doses above 25 mg.
 The apparent bioavailability of leucovorin was 97% for 25 mg, 75% for 50 mg and 37% for 100 mg.

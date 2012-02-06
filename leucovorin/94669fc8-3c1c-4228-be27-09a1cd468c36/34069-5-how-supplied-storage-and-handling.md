@@ -1,23 +1,15 @@
 # HOW SUPPLIED
 
-Leucovorin Calcium Tablets, USP are available as:
+Leucovorin Calcium Tablets USP, 5 mg are available as white, round, unscored, biconvex tablets, debossed with b on one side and 484 on the other side, packaged in bottles of 30, 100 and 1000 tablets.
 
-| 5 mg: | White, round, unscored, biconvex tablets. Debossed with stylized b on one side and 484 on the other side. |  |  |
-| --- | --- | --- | --- |
-| Available in bottles of: |  |  |  |
-| 20 | NDC 0555-0484-18 |  |  |
-| 30 | NDC 0555-0484-01 |  |  |
-| 100 | NDC 0555-0484-02 |  |  |
-| 1000 | NDC 0555-0484-05 |  |  |
+Leucovorin Calcium Tablets USP, 25 mg are available as pale green, round, unscored, biconvex tablets, debossed with b on one side and 485 on the other side, packaged in bottles of 25 and 500 tablets.
 
-| 25 mg: | Pale green, round, unscored, biconvex tablets. Debossed with stylized b on one side and 485 on the other side. |  |  |  |
-| --- | --- | --- | --- | --- |
-| Available in bottles of: |  |  |  |  |
-| 25 | NDC 0555-0485-27 |  |  |  |
-| 500 | NDC 0555-0485-04 |  |  |  |
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+
+Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant
+
+closure (as required).
 
 Protect from light and moisture.
 
-Dispense with a child-resistant closure in a tight, light-resistant container.
-
-Store at controlled room temperature 15°-25°C (59°-77°F)[See USP].
+KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
