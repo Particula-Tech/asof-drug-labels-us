@@ -9,7 +9,7 @@ CLOZAPINE IS NOT APPROVED FOR THE TREATMENT OF PATIENTS WITH DEMENTIA-RELATED PS
 
 ### AGRANULOCYTOSIS
 
-BECAUSE OF THE SIGNIFICANT RISK OF AGRANULOCYTOSIS A POTENTIALLY LIFE-THREATENING ADVERSE EVENT (SEE FOLLOWING), CLOZAPINE SHOULD BE RESERVED FOR USE IN THE FOLLOWING INDICATIONS: 1) FOR TREATMENT OF SEVERELY ILL SCHIZOPHRENIC PATIENTS WHO FAIL TO SHOW AN ACCEPTABLE RESPONSE TO ADEQUATE COURSES OF STANDARD DRUG TREATMENT FOR SCHIZOPHRENIA, EITHER BECAUSE OF INSUFFICIENT EFFECTIVENESS OR THE INABILITY TO ACHIEVE AN EFFECTIVE DOSE DUE TO INTOLERABLE ADVERSE EFFECTS FROM THOSE DRUGS.
+BECAUSE OF THE SIGNIFICANT RISK OF AGRANULOCYTOSIS A POTENTIALLY LIFE THREATENING ADVERSE EVENT (SEE FOLLOWING), CLOZAPINE SHOULD BE RESERVED FOR USE IN THE FOLLOWING INDICATIONS: 1) FOR TREATMENT OF SEVERELY ILL SCHIZOPHRENIC PATIENTS WHO FAIL TO SHOW AN ACCEPTABLE RESPONSE TO ADEQUATE COURSES OF STANDARD DRUG TREATMENT FOR SCHIZOPHRENIA, EITHER BECAUSE OF INSUFFICIENT EFFECTIVENESS OR THE INABILITY TO ACHIEVE AN EFFECTIVE DOSE DUE TO INTOLERABLE ADVERSE EFFECTS FROM THOSE DRUGS.
 CONSEQUENTLY, BEFORE INITIATING TREATMENT, WITH CLOZAPINE; IT IS STRONGLY RECOMMENDED THAT A PATIENT BE GIVEN AT LEAST TWO TRIALS, EACH WITH A DIFFERENT STANDARD DRUG PRODUCT FOR SCHIZOPHRENIA, AT AN ADEQUATE DOSE, AND FOR AN ADEQUATE DURATION.
 2) FOR REDUCING THE RISK FOR RECURRENT SUICIDAL BEHAVIOR IN PATIENTS WITH SCHIZOPHRENIA OR SCHIZOAFFECTIVE DISORDER WHO ARE JUDGED TO BE AT RISK OF REEXPERIENCING SUICIDAL BEHAVIOR.
 
@@ -72,12 +72,12 @@ Frequency of Monitoring Based on Stage of Therapy or Results from WBC Count and 
 | Agranulocytosis | ANC ≤ 500/mm3 | 1. Discontinue treatment and do not rechallenge patient 2. Monitor until normal and for at least 4 weeks from day of discontinuation as follows: - Daily until WBC > 3000/mm3 and ANC > 1500/mm3 - Twice weekly until WBC > 3500/mm3 and ANC > 2000/mm3 - Weekly after WBC > 3500/mm3 |
 | * WBC = white blood cell count; ANC = absolute neutrophil count |  |  |
 
-### Decrements in WBC count and/or ANC
+### Decrements in WBC Count and/or ANC
 
 Consult Table 1 above to determine how to monitor patients who experience decrements in WBC count and ANC at any point during treatment.
 Additionally, patients should be carefully monitored for flu-like symptoms or other symptoms suggestive of infection.
 
-### Non-rechallengeable Patients
+### Non-Rechallengeable Patients
 
 If the total WBC count falls below 2000/mm3 or the ANC falls below 1000/mm3, bone marrow aspiration should be considered to ascertain granulopoietic status and patients should not be rechallenged with clozapine.
 Protective isolation with close observation may be indicated if granulopoiesis is determined to be deficient.
@@ -139,6 +139,31 @@ Therefore, tachycardia during the first month of therapy warrants close monitori
 
 Prompt discontinuation of clozapine treatment is warranted upon suspicion of myocarditis.
 Patients with clozapine-related myocarditis should not be rechallenged with clozapine.
+
+## QT Interval Prolongation
+
+QT prolongation is associated with an increased risk for life threatening ventricular arrhythmias including Torsades de pointes.
+Treatment with clozapine, has been associated with QT prolongation as well as ventricular arrthymia, Torsades de pointes, cardiac arrest, and sudden death.
+
+Caution should be exercised when clozapine is prescribed in patients with a history of long QT syndrome or QT prolongation, or other conditions that may increase their risk for QT prolongation or sudden death, including recent acute myocardial infarction, uncompensated heart failure, or clinically significant cardiac arrhythmia.
+Caution is also indicated when treating patients with cardiovascular disease or family history of long QT syndrome.
+
+Caution should be exercised when clozapine is used in combination with other medications known to prolong the QTc interval.
+These include certain antipsychotic medication (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), certain antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), antiarrhythmic medication in Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol), and other medications known to prolong the QT interval (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) (see DRUG INTERACTIONS).
+
+Hypokalemia, (which can result from diuretic therapy, diarrhea, and other causes), and/or hypomagnesemia can also increase the risk of QT prolongation.
+Use caution when treating patients at risk for significant electrolyte disturbance, particularly hypokalemia.
+Baseline measurements of serum potassium and magnesium levels, as well as periodic monitoring of electrolytes, should be performed.
+Electrolyte abnormalities should be corrected before initiating treatment with clozapine.
+
+Persistent QT prolongation predisposes patients to further QTc prolongation and potentially to significant and life threatening cardiac arrhythmias.
+Routine ECG assessment may detect QTc prolongation but is not always effective in preventing arrhythmias.
+Clozapine treatment should be discontinued if the QTc interval exceeds 500 msec.
+Patients taking clozapine who experience symptoms that could indicate the occurrence of Torsades de pointes, (e.g., syncope, dizziness and palpitations) should have further evaluation, including cardiac monitoring.
+
+Use caution when prescribing clozapine concomitantly with drugs that inhibit the metabolism of clozapine.
+Clozapine is primarily metabolized by CYP isoenzymes 1A2, 2D6, and 3A4.
+Use caution when prescribing clozapine in patients with reduced activity of 1A2, 2D6, and 3A4 (see DRUG INTERACTIONS AND CLINICAL PHARMACOLOGY).
 
 ## Other Adverse Cardiovascular and Respiratory Effects
 
@@ -244,7 +269,7 @@ On occasion, there may be an associated increase or decrease in WBC count.
 Patients with fever should be carefully evaluated to rule out the possibility of an underlying infectious process or the development of agranulocytosis.
 In the presence of high fever, the possibility of Neuroleptic Malignant Syndrome (NMS) must be considered.
 There have been several reports of NMS in patients receiving clozapine, usually in combination with lithium or other CNS-active drugs.
-[See WARNINGS: Neuroleptic Malignant Syndrome (NMS).]
+(See WARNINGS: Neuroleptic Malignant Syndrome (NMS).)
 
 ## Pulmonary Embolism
 
@@ -338,14 +363,27 @@ Although it has not been established that there is an interaction between clozap
 Clozapine may potentiate the hypotensive effects of antihypertensive drugs and the anticholinergic effects of atropine-type drugs.
 The administration of epinephrine should be avoided in the treatment of drug induced hypotension because of a possible reverse epinephrine effect.
 
+#### QT Prolongation
+
+Treatment with clozapine, has been associated with QT interval prolongation and fatal arrhythmia.
+Clozapine should be used with caution when coadministered with medications known to prolong the QTc interval.
+Such medications include: Class 1A (e.g., quinidine, procainamide) and Class III (e.g., amiodarone, sotalol) antiarrrythmic medications, certain antipsychotic medications (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), certain antibiotics (e.g. gatifloxacin, moxifloxacin, sparfloxacin), and other medications known to prolong the QT interval (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol and tacrolimus).
+Use caution when coadministering clozapine with medications that can cause electrolyte imbalance (e.g., diuretics) (see WARNINGS).
+
 ### Pharmacokinetic-Related Interactions
 
-Clozapine is a substrate for many CYP 450 isozymes, in particular 1A2, 2D6, and 3A4.
+Clozapine is a substrate for many CYP450 isozymes, in particular 1A2, 2D6, and 3A4.
 The risk of metabolic interactions caused by an effect on an individual isoform is therefore minimized.
 Nevertheless, caution should be used in patients receiving concomitant treatment with other drugs that are either inhibitors or inducers of these enzymes.
 
 Concomitant administration of drugs known to induce cytochrome P450 enzymes may decrease the plasma levels of clozapine.
 Phenytoin, tobacco smoke, and rifampin may decrease clozapine plasma levels, resulting in a decrease in effectiveness of a previously effective clozapine dose.
+
+#### QT Prolongation
+
+Use caution when prescribing clozapine concomitantly with drugs that inhibit clozapine metabolism.
+Clozapine is primarily metabolized by CYP isoenzymes 1A2, 2D6, and 3A4.
+Use caution when prescribing clozapine in patients with reduced activity 1A2, 2D6, and 3A4.
 
 Concomitant administration of drugs known to inhibit the activity of cytochrome P450 isozymes may increase the plasma levels of clozapine.
 Cimetidine, caffeine, citalopram, ciprofloxacin and erythromycin may increase plasma levels of clozapine, potentially resulting in adverse effects.
@@ -377,7 +415,7 @@ Clozapine did not produce genotoxic or mutagenic effects when assayed in appropr
 ### Teratogenic Effects. Pregnancy Category B
 
 Reproduction studies have been performed in rats and rabbits at doses of approximately 2 to 4 times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to clozapine.
-There are, however, no adequate and well-controlled studies in pregnant women.
+There are, however, no adequate and well controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, and in view of the desirability of keeping the administration of all drugs to a minimum during pregnancy, this drug should be used only if clearly needed.
 
 ### Nonteratogenic Effects

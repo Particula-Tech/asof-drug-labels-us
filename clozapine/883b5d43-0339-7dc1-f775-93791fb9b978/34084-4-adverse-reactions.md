@@ -159,6 +159,8 @@ Central Nervous System: delirium; EEG abnormal; exacerbation of psychosis; myocl
 
 Cardiovascular System: atrial or ventricular fibrillation and periorbital edema.
 
+- Ventricular tachycardia, cardiac arrest, QT prolongation, and Torsades de pointes.
+
 Gastrointestinal System: acute pancreatitis; dysphagia; fecal impaction; intestinal obstruction/paralytic ileus; and salivary gland swelling.
 
 Hepatobiliary System: cholestasis; hepatitis; and jaundice.
