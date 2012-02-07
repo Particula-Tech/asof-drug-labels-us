@@ -6,6 +6,9 @@ A two-year carcinogenesis study was conducted in female and male rats, at intram
 
 These doses correspond to 0.9-, 1.5-, and 3-fold (in females) and 0.8-, 0.8-, and 2-fold (in males) the systemic exposure [AUC0-30 days] achieved in women receiving the recommended dose of 500 mg/month.
 An increased incidence of benign ovarian granulosa cell tumors and testicular Leydig cell tumors was evident, in females dosed at 10 mg/rat/15 days and males dosed at 15 mg/rat/30 days, respectively.
+In addition, a two year carcinogenicity study was conducted in female and male mice at orally administered doses of 0, 20, 150 and 500 mg/kg/day.
+These doses correspond to 0, 0.8, 8.4 and 18 -fold (in females) and 0, 0.8, 7.1 and 11.9 – fold (in males), the systemic exposure (AUC0-30 days) achieved in women receiving the recommended dose of 500 mg/month.
+There was an increased incidence of sex cord stromal tumors (both benign and malignant) in the ovary at doses of 150 and 500 mg/kg/day.
 Induction of such tumors is consistent with the pharmacology-related endocrine feedback alterations in gonadotropin levels caused by an antiestrogen.
 
 Fulvestrant was not mutagenic or clastogenic in multiple in vitro tests with and without the addition of a mammalian liver metabolic activation factor (bacterial mutation assay in strains of Salmonella typhimurium and Escherichia coli, in vitro cytogenetics study in human lymphocytes, mammalian cell mutation assay in mouse lymphoma cells and in vivo micronucleus test in rat).

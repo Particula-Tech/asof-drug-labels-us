@@ -103,3 +103,5 @@ For FASLODEX 250 mg, other adverse reactions reported as drug-related and seen i
 
 Vaginal bleeding has been reported infrequently (<1%), mainly in patients during the first 6 weeks after changing from existing hormonal therapy to treatment with FASLODEX.
 If bleeding persists, further evaluation should be considered.
+
+Elevation of bilirubin, elevation of gamma GT, hepatitis, and liver failure have been reported infrequently (<1%).
