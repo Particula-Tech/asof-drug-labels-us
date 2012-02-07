@@ -2,8 +2,9 @@
 
 CIPROFLOXACIN INJECTION, USP is available in 200 mg and 400 mg strengths supplied in flexible containers as follows:
 
-| NDC | Ciprofloxacin Injection, USP in 5% Dextrose (2 mg per mL) | Package Factor |
+| NDC | Ciprofloxacin Injection, USP in | Package Factor |
 | --- | --- | --- |
+|  | 5% Dextrose (2 mg per mL) |  |
 | 25021-114-82 | 200 mg per 100 mL in flexible container bag | 24 bags per carton |
 | 25021-114-87 | 400 mg per 200 mL in flexible container bag | 24 bags per carton |
 
@@ -17,4 +18,6 @@ Protect from light.
 Avoid excessive heat.
 Protect from freezing.
 
-LATEX-FREE Sterile, Nonpyrogenic, Preservative-free.
+LATEX-FREE
+
+Sterile, Nonpyrogenic, Preservative-free.

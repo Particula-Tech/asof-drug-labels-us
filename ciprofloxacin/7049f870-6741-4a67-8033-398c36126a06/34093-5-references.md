@@ -1,9 +1,11 @@
 # REFERENCES
 
-1. National Committee for Clinical Laboratory Standards, Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically - Fifth Edition.
-   Approved Standard NCCLS Document M7-A5, Vol. 20, No. 2, NCCLS, Wayne, PA, January, 2000.
-2. National Committee for Clinical Laboratory Standards, Performance Standards for Antimicrobial Disk Susceptibility Tests - Seventh Edition.
-   Approved Standard NCCLS Document M2-A7, Vol. 20, No. 1, NCCLS, Wayne, PA, January, 2000.
+1. Clinical Laboratory Standards Institute.
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard – Eighth Edition.
+   CLSI Document M7-A8, Vol. 29, No. 2, CLSI, Wayne, PA, January, 2009.
+2. Clinical and Laboratory Standards Institute.
+   Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard – Tenth Edition.
+   CLSI Document M2-A10, Vol. 29, No. 1, CLSI, Wayne, PA, January, 2009.
 3. Report presented at the FDA's Anti-Infective Drug and Dermatological Drug Products Advisory Committee Meeting, March 31, 1993, Silver Spring, MD.
    Report available from FDA, CDER, Advisors and Consultants Staff, HFD-21, 1901 Chapman Avenue, Room 200, Rockville, MD 20852, USA.
 4. 21 CFR 314.510 (Subpart H - Accelerated Approval of New Drugs for Life-Threatening Illnesses).
@@ -25,4 +27,4 @@ SAGENT™
 
 Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2011 Sagent Pharmaceuticals, Inc.
 
-Revised: March 2011 L10USCFX06
+Revised: December 2011
