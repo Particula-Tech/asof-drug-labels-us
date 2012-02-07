@@ -1,13 +1,13 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Fetal/Neonatal Morbidity and Mortality
+## 5.1 Fetal Toxicity
 
-Diovan can cause fetal harm when administered to a pregnant woman.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+Pregnancy Category D
 
-Drugs that act on the renin angiotensin system can cause fetal and neonatal morbidity and mortality when used in pregnancy.
-In several dozen published cases, ACE inhibitor use during the second and third trimesters of pregnancy was associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
-[See Use in Specific Populations (8.1)]
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
+Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
+When pregnancy is detected, discontinue Diovan as soon as possible [see Use in Specific Populations (8.1)].
 
 ## 5.2 Hypotension
 

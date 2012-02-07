@@ -1,6 +1,6 @@
-# WARNING: USE IN PREGNANCY
+# WARNING: FETAL TOXICITY
 
-When used in pregnancy, drugs that act directly on the renin-angiotensin system can cause injury and even death to the developing fetus.
-When pregnancy is detected, Diovan should be discontinued as soon as possible.
-
-See WARNINGS: Fetal/Neonatal Morbidity and Mortality (5.1)
+- When pregnancy is detected, discontinue Diovan as soon as possible.
+  (5.1)
+- Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus.
+  (5.1)

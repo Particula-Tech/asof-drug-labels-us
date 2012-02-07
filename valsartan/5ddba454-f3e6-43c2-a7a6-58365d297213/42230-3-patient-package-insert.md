@@ -9,9 +9,9 @@ If you have any questions about DIOVAN, ask your doctor or pharmacist.
 
 What is the most important information I should know about DIOVAN?
 
-Taking DIOVAN during pregnancy can cause injury and even death to your unborn baby.
-If you get pregnant, stop taking DIOVAN and call your doctor right away.
+DIOVAN can cause harm or death to an unborn baby.
 Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
+If you get pregnant while taking DIOVAN, tell your doctor right away.
 
 What is DIOVAN?
 
@@ -200,6 +200,4 @@ East Hanover, NJ 07936
 
 © Novartis
 
-T2012-01/T2012-02
-
-December 2011/December 2011
+T2012-31/T2012-32 January 2012/January 2012
