@@ -11,4 +11,4 @@ Marketed by Ortho Women's Health & Urology, Division of Ortho-McNeil-Janssen Pha
 
 (OMP Logo)
 
-Revised December 2011
+Revised December 20, 2011
