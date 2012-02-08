@@ -8,4 +8,4 @@ For direct intravenous injection, Xylocaine (lidocaine HCl Injection, USP) witho
 
 Solution should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
-All trademarks are the property of APP Pharmaceuticals, LLC.
+XYLOCAINE is a trademark of APP Pharmaceuticals, LLC.

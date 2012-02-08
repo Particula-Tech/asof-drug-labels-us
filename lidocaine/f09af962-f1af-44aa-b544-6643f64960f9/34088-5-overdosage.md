@@ -1,7 +1,6 @@
 # OVERDOSAGE
 
-Overdosage of Xylocaine (lidocaine HCl Injection, USP) usually results in signs of central nervous system or cardiovascular toxicity.
-See ADVERSE REACTIONS.
+Overdosage of Xylocaine (lidocaine HCl Injection, USP) usually results in signs of central nervous system or cardiovascular toxicity (see ADVERSE REACTIONS).
 
 Should convulsions or signs of respiratory depression and arrest develop, the patency of the airway and adequacy of ventilation must be assured immediately.
 Should convulsions persist despite ventilatory therapy with oxygen, small increments of anticonvulsive agents may be given intravenously.

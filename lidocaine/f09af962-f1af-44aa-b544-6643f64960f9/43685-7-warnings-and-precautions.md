@@ -7,7 +7,6 @@ Early recognition of premonitory signs, assurance of adequate oxygenation and, w
 Should convulsions persist despite ventilatory therapy with oxygen, small increments of anticonvulsant drugs may be used intravenously.
 Examples of such agents include benzodiazepines (eg, diazepam), ultrashort-acting barbiturates (eg, thiopental or thiamylal), or a short-acting barbiturate (eg, pentobarbital or secobarbital).
 If the patient is under anesthesia, a short-acting muscle relaxant (eg, succinylcholine) may be used.
-
 Longer-acting drugs should be used only when recurrent convulsions are evidenced.
 
 Should circulatory depression occur, vasopressors may be used.
@@ -53,11 +52,13 @@ The concomitant use of these two agents may cause an increased incidence of adve
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long term studies in animals to evaluate the carcinogenic and mutagenic potential or the effect on fertility of Xylocaine have not been conducted.
+Long-term studies in animals to evaluate the carcinogenic and mutagenic potential or the effect on fertility of Xylocaine have not been conducted.
 
 ## Pregnancy: Teratogenic Effects
 
-Pregnancy Category B. Reproduction studies have been performed in rats at doses up to 6.6 times the maximum human doses and have revealed no significant findings.
+Pregnancy Category B.
+
+Reproduction studies have been performed in rats at doses up to 6.6 times the maximum human doses and have revealed no significant findings.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 

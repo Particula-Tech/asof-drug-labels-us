@@ -19,10 +19,10 @@ It should rarely be necessary to continue intravenous infusions of lidocaine for
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever the solution and container permit.
 Do not use if solution is discolored or cloudy.
 
-## Pediatrics
+## Pediatric
 
 Controlled clinical studies in the pediatric population to establish dosing schedules have not been conducted.
 
-## Geriatrics
+## Geriatric
 
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

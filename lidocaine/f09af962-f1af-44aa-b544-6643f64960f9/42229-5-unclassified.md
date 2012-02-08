@@ -2,6 +2,8 @@ Rx only
 
 Manufactured for:
 
-451174
+Made in Austria
 
-Revised: March 2009
+451174A
+
+Revised: May 2011

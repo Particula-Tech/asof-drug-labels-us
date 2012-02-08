@@ -19,7 +19,7 @@ Lidocaine has been shown to cause no, or minimal, decrease in ventricular contra
 
 ## Pharmacokinetics
 
-Absorpotion, Distribution, and Excretion
+Absorption, Distribution, and Excretion
 
 After intravenous injection, lidocaine is quickly distributed in the tissues; the distribution volume (Vd = 1.7 L/kg) is decreased in patients with heart failure (Vd = 1 L/kg).
 Following intravenous administration of lidocaine the plasma concentration quickly decreases (half-life-α-phase [distribution] 8 min), the elimination half-life (β-phase) is 1.4 to 2.1 hours.
@@ -28,7 +28,7 @@ In prolonged infusion (>24 h), plasma half-life clearly increases (3.2 h).
 Plasma protein binding is about 70%.
 The plasma protein binding of lidocaine is dependent on drug concentration, and the fraction bound decreases with increasing concentration.
 At concentrations of 1 to 4 mcg free base per mL, 60 to 80 percent of lidocaine is protein bound.
-In addition to lidocaine concentration, the binding is dependent on the plasma cocentration of the α-1-acid glycoprotein.
+In addition to lidocaine concentration, the binding is dependent on the plasma concentration of the α-1-acid glycoprotein.
 
 Therapeutic effects of lidocaine are generally associated with plasma levels of 6 to 25 μmole/L (1.5 to 6 mcg free base per mL).
 The blood to plasma distribution ratio is approximately 0.84.
@@ -40,7 +40,7 @@ Metabolism
 Lidocaine is rapidly metabolized by the liver, and less than 10% of a dose is excreted unchanged in the urine.
 A major pathway of metabolism is through oxidative N-dealkylation to yield the active metabolites monoethylglycinexylidide (MEGX) and glycinexylidide (GX).
 The pharmacological/toxicological activites of these metabolites are similar to, but less potent than, lidocaine.
-The primary metabolite in urine is a conjugate of 4- hydroxy-2, 6-dimethylaniline.
+The primary metabolite in urine is a conjugate of 4-hydroxy-2,6-dimethylaniline.
 
 In vitro studies with human liver microsomes and recombinant human cytochrome P450 (CYP) isoforms showed that both CYP1A2 and CYP3A4 enzymes are the major CYP isoforms involved in lidocaine N-dealkylation.
 
@@ -48,14 +48,14 @@ Drug Interactions
 
 Cimetidine: Cimetidine reduces liver blood flow and thus systemic clearance of drugs that are highly extracted by the liver.
 Clinical Experiments showed that the concomitant administration of cimetidine reduces the systemic clearance of lidocaine and increases lidocaine serum concentration by as much as 50%.
-Thus, therapeutic serum levels of lidocane may rise to toxic levels when cimetidine is used concomitantly.
+Thus, therapeutic serum levels of lidocaine may rise to toxic levels when cimetidine is used concomitantly.
 Ranitidine has not displayed such an effect.
 
 Propranolol: Administration of propranolol during infusion of lidocaine may increase the plasma concentration of lidocaine by about 30%.
 Patients already receiving propranolol tend to have higher lidocaine levels than controls.
 
 Amiodarone: Lidocaine area under the curve (AUC) is increased when amiodarone is administered but that of N-monodesethylated lidocaine is decreased.
-Moreover, the systemic clearance of lidocaine is decreased, while the elimination halflife (t½) and the distribution volume at steady state of lidocaine remained unchanged.
+Moreover, the systemic clearance of lidocaine is decreased, while the elimination half-life (t½) and the distribution volume at steady state of lidocaine remained unchanged.
 The interaction between amiodarone and lidocaine may be explained by the inhibition of CYP3A4 by amiodarone and/or by its main metabolite N-monodesethylarniodarone (DEA).
 
 Special Populations
