@@ -13,3 +13,4 @@ It has the following structural formula:
 The molecular formula is C16H18N3NaO4S, and the molecular weight is 371.39.
 The pH range of the reconstituted solution is 8 to 10.
 Ampicillin for Injection, USP contains 2.9 milliequivalents of sodium per 1 gram of drug.
+Each Pharmacy Bulk Package contains ampicillin sodium equivalent to 10 grams of ampicillin.

@@ -78,22 +78,23 @@ The drug concentration and the rate and volume of the infusion should be adjuste
 
 ## Directions For Proper Use Of Pharmacy Bulk Package
 
-This glass vial contains 10 grams ampicillin and is designed for use in the pharmacy in preparing IV admixtures.
+This glass Pharmacy Bulk Package bottle contains 10 grams ampicillin and is designed for use in the pharmacy in preparing IV admixtures.
 
 a) Add 94 mL Sterile Water for Injection USP.
 The resulting solution will contain 100 milligrams ampicillin activity per mL, and is stable up to one hour at room temperature.
 
-b) Dilute further within one hour to a concentration of 5 mg to 10 mg per mL.
+b) Dilute further within ONE HOUR to a concentration of 5 mg to 10 mg per mL.
 See Table for suitable fluid.
 Use promptly.
 This chemical stability information in no way indicates that it would be acceptable practice to use this product well after preparation time.
 Good professional practice suggests that compounded admixtures should be administered as soon after preparation as is feasible.
 
-c) Using aseptic technique, the closure should be penetrated only one time after reconstitution using a suitable sterile dispensing set; which allows measured dispensing of the contents.
+c) Using aseptic technique under a laminar flow hood, the closure should be penetrated only one time after reconstitution using a suitable sterile dispensing set; which allows measured dispensing of the contents.
 Use of a syringe and needle is not recommended as it may cause leakage.
 
-d) After entry, use entire contents of vial promptly.
-The entire contents of the vial must be dispensed within one hour of reconstitution.
+d) After entry, use entire contents of Pharmacy Bulk Package bottle promptly.
+The entire contents of the Pharmacy Bulk Package bottle must be dispensed within ONE HOUR of reconstitution.
+This time limit should begin with the introduction of solvent in the Pharmacy Bulk Package bottle.
 
 e) A plastic ball attached to the pharmacy bulk package provides a suitable hanging device while dispensing contents.
 
