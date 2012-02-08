@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021447"
+  ],
+  "inn": "tizanidine",
+  "labeler": "Watson Laboratories, Inc.",
+  "package_ndcs": [
+    "0591-2788-86",
+    "0591-2789-86",
+    "0591-2790-86"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, GELATIN COATED",
+      "generic": "tizanidine hydrochloride",
+      "name": "tizanidine hydrochloride"
+    }
+  ],
+  "setid": "cb8b01b3-bcec-4762-9d67-0db018ef6b22",
+  "source": "dailymed"
+}
