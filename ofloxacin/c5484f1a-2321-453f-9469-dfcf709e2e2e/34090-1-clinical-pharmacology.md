@@ -9,7 +9,6 @@ Ofloxacin was detectable in the middle ear mucosa of some adult subjects with pe
 The variability of ofloxacin concentration in middle ear mucosa was high.
 The concentrations ranged from 1.2 to 602 μg/g after otic administration of a 0.3% solution.
 Ofloxacin was present in high concentrations in otorrhea (389 - 2850 μg/g, n=13) 30 minutes after otic administration of a 0.3% solution in subjects with chronic suppurative otitis media and perforated tympanic membranes.
-
 However, the measurement of ofloxacin in the otorrhea does not necessarily reflect the exposure of the middle ear to ofloxacin.
 
 ## Microbiology

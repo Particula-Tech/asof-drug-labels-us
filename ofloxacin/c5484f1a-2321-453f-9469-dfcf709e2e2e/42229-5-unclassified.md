@@ -43,7 +43,7 @@ Specific drug interaction studies have not been conducted with ofloxacin otic so
 ## Carcinogenesis, mutagenesis, impairment of fertility
 
 Long-term studies to determine the carcinogenic potential of ofloxacin have not been conducted.
-Ofloxacin was not mutagenic in the Ames test, the sister chromatid exchange assay (Chinese hamster and human cell lines), the unscheduled DNA synthesis (UDS) assay using human fibroblasts, the dominant lethal assay, or the mouse micro-nucleus assay.
+Ofloxacin was not mutagenic in the Ames test, the sister chromatid exchange assay (Chinese hamster and human cell lines), the unscheduled DNA synthesis (UDS) assay using human fibroblasts, the dominant lethal assay, or the mouse micronucleus assay.
 Ofloxacin was positive in the rat hepatocyte UDS assay, and in the mouse lymphoma assay.
 In rats, ofloxacin did not affect male or female reproductive performance at oral doses up to 360 mg/kg/day.
 This would be over 1000 times the maximum recommended clinical dose, based upon body surface area, assuming total absorption of ofloxacin from the ear of a patient treated with ofloxacin otic solution 0.3% twice per day.
@@ -71,7 +71,6 @@ Ofloxacin otic solution 0.3% should be used during pregnancy only if the potenti
 ## Nursing mothers
 
 In nursing women, a single 200 mg oral dose resulted in concentrations of ofloxacin in milk which were similar to those found in plasma.
-
 It is not known whether ofloxacin is excreted in human milk following topical otic administration.
 Because of the potential for serious adverse reactions from ofloxacin in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
@@ -79,7 +78,7 @@ Because of the potential for serious adverse reactions from ofloxacin in nursing
 
 Safety and efficacy have been demonstrated in pediatric patients of the following ages for the listed indications:
 
-■ six months and older: otitis externa with intact tympanic membranes.
+■ six months and older; otitis externa with intact tympanic membranes.
 
 ■ one year and older: acute otitis media with tympanostomy tubes.
 
@@ -97,10 +96,6 @@ Although quinolones, including ofloxacin, have been shown to cause arthropathy i
 Store at 25ºC (77ºF), excursions permitted to 15º-30ºC (59º-86ºF).
 Protect from light.
 
-Rx only
-
-Sterile
-
 # Manufacturer Information
 
 Revised May 2007
@@ -108,6 +103,8 @@ Revised May 2007
 Bausch & Lomb Incorporated, Tampa, FL 33637 ©Bausch & Lomb Incorporated
 
 9047601 (Folded)/9047701 (Flat)
+
+DO NOT USE IF IMPRINTED NECKBAND IS NOT INTACT.
 
 # Patient Information
 
@@ -136,7 +133,7 @@ Also, a fluid discharge may appear in the ear canal.
 
 Who should NOT use Ofloxacin Otic Solution 0.3%?
 
-■ Do not use this product if allergic to ofloxacin or to other quinolone antibiotics.
+■ Do not use this product if you are allergic to ofloxacin or to other quinolone antibiotics.
 
 ■ Do not give this product to pediatric patients who:
 
@@ -172,8 +169,8 @@ The tip of the bottle should not touch the fingers or the ear or any other surfa
 
 For an Ear Canal Infection (“Swimmer's Ear”):
 
-The person receiving ofloxacin otic solution 0.3% should lie on his/her side with the infected ear up.
-Patients (13 and older) should have 10 drops of ofloxacin otic solution 0.3% put into the infected ear.
+The person receiving ofloxacin otic should lie on his/her side with the infected ear up.
+Patients (13 and older) should have 10 drops of ofloxacin otic put into the infected ear.
 Pediatric patients under 13 should have 5 drops put into the infected ear.
 The tip of the bottle should not touch the fingers or the ear or any other surfaces.
 
@@ -199,7 +196,7 @@ Repeat Steps 2-5 for the other ear if both ears are infected.
 How often should Ofloxacin Otic Solution 0.3% be given?
 
 In patients with an Ear Canal Infection (“Swimmer's Ear”), ofloxacin otic solution 0.3% ear drops should be given once daily at about the same time each day (for example, 8 AM or 8 PM) in each infected ear unless the doctor has instructed otherwise.
-In patients with a middle ear infection: ofloxacin otic solution 0.3% ear drops should be given 2 times each day (about 12 hours apart, for example, 8 AM and 8 PM) in each infected ear unless the doctor has instructed otherwise.
+In patients with a middle ear infection; Ofloxacin otic solution 0.3% ear drops should be given 2 times each day (about 12 hours apart, for example, 8 AM and 8 PM) in each infected ear unless the doctor has instructed otherwise.
 The best times to use the ear drops are in the morning and at night.
 It is very important to use the ear drops for as long as the doctor has instructed, even if the symptoms improve.
 If ofloxacin otic solution 0.3% ear drops are not used for as long as the doctor has instructed, the infection may be more likely to return.
@@ -220,7 +217,7 @@ It is important that the infected ear(s) remain clean and dry.
 When bathing, avoid getting the infected ear(s) wet.
 Avoid swimming unless the doctor has instructed otherwise.
 
-What are the possible side effects of Ofloxacin Otic Solution 0.3%?
+What are some of the possible side effects of Ofloxacin Otic Solution 0.3%?
 
 During the testing of ofloxacin otic solution 0.3% in external ear infections, the most common side effect was discomfort upon application which happened in 7% of patients.
 If the pain is severe, the medication should be stopped and you should contact your doctor.
@@ -240,8 +237,8 @@ If ofloxacin otic solution 0.3% is accidentally swallowed or overdose occurs, ca
 This medicine is available only with a doctor’s prescription.
 Use only as directed.
 Do not use this medicine if outdated.
-If you wish to learn more about ofloxacin otic solution 0.3% ask the doctor or pharmacist.
 
+If you wish to learn more about ofloxacin otic solution 0.3% ask the doctor or pharmacist.
 See complete Prescribing Information.
 
 Storage: Store at 25ºC (77ºF), excursions permitted to 15º-30ºC (59º-86ºF).
