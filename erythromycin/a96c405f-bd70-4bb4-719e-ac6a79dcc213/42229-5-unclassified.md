@@ -1,4 +1,6 @@
-For I.V. use only
+Sterile Erythromycin Lactobionate, USP
+
+INTRAVENOUS USE ONLY
 
 Vials
 
