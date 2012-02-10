@@ -1,4 +1,4 @@
-# 5WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Allergic Reactions
 
@@ -7,24 +7,27 @@ See boxed warning
 Grade 3/4 hypersensitivity, including anaphylactic/anaphylactoid reactions, to ELOXATIN has been observed in 2–3% of colon cancer patients.
 These allergic reactions which can be fatal, can occur within minutes of administration and at any cycle, and were similar in nature and severity to those reported with other platinum-containing compounds, such as rash, urticaria, erythema, pruritus, and, rarely, bronchospasm and hypotension.
 The symptoms associated with hypersensitivity reactions reported in the previously untreated patients were urticaria, pruritus, flushing of the face, diarrhea associated with oxaliplatin infusion, shortness of breath, bronchospasm, diaphoresis, chest pains, hypotension, disorientation and syncope.
-These reactions are usually managed with standard epinephrine, corticosteroid, antihistamine therapy,and may require discontinuation of therapy.
+These reactions are usually managed with standard epinephrine, corticosteroid, antihistamine therapy, and require discontinuation of therapy.
+Rechallenge is contraindicated in these patients [see Contraindications (4)].
 Drug-related deaths associated with platinum compounds from anaphylaxis have been reported.
 
-## 5.2 Neuropathy
+## 5.2 Neurologic Toxicity
+
+Neuropathy
 
 ELOXATIN is associated with two types of neuropathy:
 
-- An acute, reversible, primarily peripheral, sensory neuropathy that is of early onset, occurring within hours or one to two days of dosing, that resolves within 14 days, and that frequently recurs with further dosing.
-  The symptoms may be precipitated or exacerbated by exposure to cold temperature or cold objects and they usually present as transient paresthesia, dysesthesia and hypoesthesia in the hands, feet, perioral area, or throat.
-  Jaw spasm, abnormal tongue sensation, dysarthria, eye pain, and a feeling of chest pressure have also been observed.
-  The acute, reversible pattern of sensory neuropathy was observed in about 56% of study patients who received ELOXATIN with 5-FU/LV).
-  In any individual cycle acute neurotoxicity was observed in approximately 30% of patients.
-  In adjuvant patients the median cycle of onset for grade 3 peripheral sensory neuropathy was 9 in the previously treated patients the median number of cycles administered on the ELOXATIN with 5 FU/LV combination arm was 6.
-  An acute syndrome of pharyngolaryngeal dysesthesia seen in 1–2% (grade 3/4) of patients previously untreated for advanced colorectal cancer, and the previously treated patients, is characterized by subjective sensations of dysphagia or dyspnea, without any laryngospasm or bronchospasm (no stridor or wheezing.
-  Ice (mucositis prophylaxis) should be avoided during the infusion of ELOXATIN because cold temperature can exacerbate acute neurological symptoms.
+An acute, reversible, primarily peripheral, sensory neuropathy that is of early onset, occurring within hours or one to two days of dosing, that resolves within 14 days, and that frequently recurs with further dosing.The symptoms may be precipitated or exacerbated by exposure to cold temperature or cold objects and they usually present as transient paresthesia, dysesthesia and hypoesthesia in the hands, feet, perioral area, or throat.
+Jaw spasm, abnormal tongue sensation, dysarthria, eye pain, and a feeling of chest pressure have also been observed.
+The acute, reversible pattern of sensory neuropathy was observed in about 56% of study patients who received ELOXATIN with 5-fluorouracil/leucovorin.
+In any individual cycle acute neurotoxicity was observed in approximately 30% of patients.
+In adjuvant patients the median cycle of onset for grade 3 peripheral sensory neuropathy was 9 in the previously treated patients the median number of cycles administered on the ELOXATIN with 5-fluorouracil/leucovorin combination arm was 6.
+
+An acute syndrome of pharyngolaryngeal dysesthesia seen in 1–2% (grade 3/4) of patients previously untreated for advanced colorectal cancer, and the previously treated patients, is characterized by subjective sensations of dysphagia or dyspnea, without any laryngospasm or bronchospasm (no stridor or wheezing).
+Ice (mucositis prophylaxis) should be avoided during the infusion of ELOXATIN because cold temperature can exacerbate acute neurological symptoms.
 
 A persistent (>14 days), primarily peripheral, sensory neuropathy that is usually characterized by paresthesias, dysesthesias, hypoesthesias, but may also include deficits in proprioception that can interfere with daily activities (e.g., writing, buttoning, swallowing, and difficulty walking from impaired proprioception).
-These forms of neuropathy occurred in 48% of the study patients receiving ELOXATIN with 5-FU/LV.
+These forms of neuropathy occurred in 48% of the study patients receiving ELOXATIN with 5-fluorouracil/leucovorin.
 Persistent neuropathy can occur without any prior acute neuropathy event.
 The majority of the patients (80%) who developed grade 3 persistent neuropathy progressed from prior Grade 1 or 2 events.
 These symptoms may improve in some patients upon discontinuation of ELOXATIN.
@@ -58,12 +61,18 @@ Table 2 - Grading Scale for Paresthesias/Dysesthesias in Advanced Colorectal Can
 Overall, neuropathy was reported in patients previously untreated for advanced colorectal cancer in 82% (all grades) and 19% (grade 3/4), and in the previously treated patients in 74% (all grades) and 7% (grade 3/4) events.
 Information regarding reversibility of neuropathy was not available from the trial for patients who had not been previously treated for colorectal cancer.
 
+Reversible Posterior Leukoencephalopathy Syndrome
+
+Reversible Posterior Leukoencephalopathy Syndrome (RPLS, also known as PRES, Posterior Reversible Encephalopathy Syndrome) has been observed in clinical trials (< 0.1%) and postmarketing experience.
+Signs and symptoms of RPLS could be headache, altered mental functioning, seizures, abnormal vision from blurriness to blindness, associated or not with hypertension [see Adverse Reactions (6.2)].
+Diagnosis of RPLS is based upon confirmation by brain imaging.
+
 ## 5.3 Pulmonary Toxicity
 
 ELOXATIN has been associated with pulmonary fibrosis (<1% of study patients), which may be fatal.
-The combined incidence of cough and dyspnea was 7.4% (any grade) and <1% (grade 3) with no grade 4 events in the ELOXATIN plus infusional 5-FU/LV arm compared to 4.5% (any grade) and no grade 3 and 0.1% grade 4 events in the infusional 5-FU/LV alone arm in adjuvant colon cancer patients.
+The combined incidence of cough and dyspnea was 7.4% (any grade) and <1% (grade 3) with no grade 4 events in the ELOXATIN plus infusional 5-fluorouracil/leucovorin arm compared to 4.5% (any grade) and no grade 3 and 0.1% grade 4 events in the infusional 5-fluorouracil/leucovorin alone arm in adjuvant colon cancer patients.
 In this study, one patient died from eosinophilic pneumonia in the ELOXATIN combination arm.
-The combined incidence of cough, dyspnea and hypoxia was 43% (any grade) and 7% (grade 3 and 4) in the ELOXATIN plus 5-FU/LV arm compared to 32% (any grade) and 5% (grade 3 and 4) in the irinotecan plus 5-FU/LV arm of unknown duration for patients with previously untreated colorectal cancer.
+The combined incidence of cough, dyspnea and hypoxia was 43% (any grade) and 7% (grade 3 and 4) in the ELOXATIN plus 5-fluorouracil/leucovorin arm compared to 32% (any grade) and 5% (grade 3 and 4) in the irinotecan plus 5-fluorouracil/leucovorin arm of unknown duration for patients with previously untreated colorectal cancer.
 In case of unexplained respiratory symptoms such as non-productive cough, dyspnea, crackles, or radiological pulmonary infiltrates, ELOXATIN should be discontinued until further pulmonary investigation excludes interstitial lung disease or pulmonary fibrosis.
 
 ## 5.4 Hepatotoxicity
@@ -71,23 +80,20 @@ In case of unexplained respiratory symptoms such as non-productive cough, dyspne
 Hepatotoxicity as evidenced in the adjuvant study, by increase in transaminases (57% vs. 34%) and alkaline phosphatase (42% vs. 20%) was observed more commonly in the ELOXATIN combination arm than in the control arm.
 The incidence of increased bilirubin was similar on both arms.
 Changes noted on liver biopsies include: peliosis, nodular regenerative hyperplasia or sinusoidal alterations, perisinusoidal fibrosis, and veno-occlusive lesions.
-Hepatic vascular disorders should be considered, and if appropriate, should be investigated in case of abnormal liver function test results or portal hypertension, which cannot be explained by liver metastases [see Clinical Trials Experience (6.1).
+Hepatic vascular disorders should be considered, and if appropriate, should be investigated in case of abnormal liver function test results or portal hypertension, which cannot be explained by liver metastases [see Clinical Trials Experience (6.1)].
 
-## 5.5 Pregnancy
+## 5.5 Use in Pregnancy
 
 Pregnancy Category D
 
 ELOXATIN may cause fetal harm when administered to a pregnant woman.
 There are no adequate and well-controlled studies of ELOXATIN in pregnant women.
-Pregnant rats were administered 1 mg/kg/day oxaliplatin (less than one-tenth the recommended human dose based on body surface area) during gestation days 1–5 (pre-implantation), 6–10, or 11–16 (during organogenesis).
-Oxaliplatin caused developmental mortality (increased early resorptions) when administered on days 6–10 and 11–16 and adversely affected fetal growth (decreased fetal weight, delayed ossification) when administered on days 6–10.
-If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant while receiving treatment with ELOXATIN.
-[See Use in Specific Patient Populations (8.1)]
+[see Use in Specific Populations (8.1)].
 
 ## 5.6 Recommended Laboratory Tests
 
 Standard monitoring of the white blood cell count with differential, hemoglobin, platelet count, and blood chemistries (including ALT, AST, bilirubin and creatinine) is recommended before each ELOXATIN cycle [see Dosage and Administration (2)].
 
-There have been reports while on study and from post-marketing surveillance of prolonged prothrombin time and INR occasionally associated with hemorrhage in patients who received ELOXATIN plus 5-FU/LV while on anticoagulants.
-Patients receiving ELOXATIN plus 5-FU/LV and requiring oral anticoagulants may require closer monitoring.
+There have been reports while on study and from post-marketing surveillance of prolonged prothrombin time and INR occasionally associated with hemorrhage in patients who received ELOXATIN plus 5-fluorouracil/leucovorin while on anticoagulants.
+Patients receiving ELOXATIN plus 5-fluorouracil/leucovorin and requiring oral anticoagulants may require closer monitoring.

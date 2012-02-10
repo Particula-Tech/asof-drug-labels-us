@@ -1,17 +1,29 @@
 # 16. HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1How Supplied
+## 16.1 How Supplied
 
-ELOXATIN is supplied in clear, glass, single-use vials with gray elastomeric stoppers and aluminum flip-off seals containing 50 mg or 100 mg of oxaliplatin as a sterile, preservative-free lyophilized powder for reconstitution.
+Powder for solution for infusion: ELOXATIN is supplied in clear, glass, single-use vials with gray elastomeric stoppers and aluminum flip-off seals containing 50 mg or 100 mg of oxaliplatin as a sterile, preservative-free lyophilized powder for reconstitution.
 Lactose monohydrate is also present as an inactive ingredient.
 
 NDC 0024-0596-02: 50 mg single-use vial with green flip-off seal individually packaged in a carton.
 
 NDC 0024-0597-04: 100 mg single-use vial with dark blue flip-off seal individually packaged in a carton.
 
+Concentrate for solution for infusion: ELOXATIN is supplied in clear, glass, single-use vials with gray elastomeric stoppers and aluminum flip-off seals containing 50 mg, 100 mg or 200 mg of oxaliplatin as a sterile, preservative-free, aqueous solution at a concentration of 5 mg/ml.
+Water for Injection, USP is present as an inactive ingredient.
+
+NDC 0024-0590-10: 50 mg single-use vial with green flip-off seal individually packaged in a carton.
+
+NDC 0024-0591-20: 100 mg single-use vial with dark blue flip-off seal individually packaged in a carton.
+
+NDC 0024-0592-40: 200 mg single-use vial with orange flip-off seal individually packaged in a carton.
+
 ## 16.2 Storage
 
-Store under normal lighting conditions at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP controlled room temperature].
+Powder for solution for infusion: Store under normal lighting conditions at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP controlled room temperature].
+
+Concentrate for solution for infusion: Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
+Do not freeze and protect from light (keep in original outer carton).
 
 ## 16.3 Handling and Disposal
 
