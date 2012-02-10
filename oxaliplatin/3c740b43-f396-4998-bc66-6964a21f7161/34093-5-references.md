@@ -1,28 +1,15 @@
-# REFERENCES
+# 15 REFERENCES
 
-1. ONS Clinical Practice Committee.
-   Cancer Chemotherapy Guidelines and Recommendations for Practice.
-   Pittsburgh, Pa: Oncology Nursing Society; 1999:32–41.
-2. Recommendations for the safe handling of parenteral antineoplastic drugs.
-   NIH Publication No. 83-2621.
-   For sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C.
-   20402.
-3. AMA Council Report.
-   Guidelines for handling parenteral antineoplastics.
-   JAMA1985;253(11):1590–1592.
-4. National Study Commission on Cytotoxic Exposure.
-   Recommendations for handling cytotoxic agents.
-   Available from Louis P. Jeffrey, Sc.D., Chairman, National Study Commission on Cytotoxic Exposure, Massachusetts College of Pharmacy and Allied Health Sciences, 179 Longwood Avenue, Boston, MA 02115.
-5. Clinical Oncological Society of Australia.
-   Guidelines and recommendations for safe handling of antineoplastic agents.
-   Med J Australia1983;1:426–428.
-6. Jones RB, et al. Safe handling of chemotherapeutic agents: a report from the Mount Sinai Medical Center.
-   Ca - A Cancer Journal for Clinicians.
-   Sept./Oct.
-   1983:258–263.
-7. American Society of Hospital Pharmacists.
-   ASHP Technical Assistance Bulletin on handling cytotoxic and hazardous drugs.
-   Am J Hosp Pharm 1990;47:1033–1049.
-8. Controlling Occupational Exposure to Hazardous Drugs.
-   (OSHA Work-Practice Guidelines).
-   Am J Hosp Pharm1996;53:1669–1685.
+1. NIOSH Alert: Preventing occupational exposures to antineoplastic and other hazardous drugs in healthcare settings.
+   2004.
+   U.S. Department of Health and Human Services, Public Health Service, Centers for Disease Control and Prevention, National Institute for Occupational Safety and Health, DHHS (NIOSH) Publication No. 2004–165.
+2. OSHA Technical Manual, TED 1-0.15A, Section VI: Chapter 2.
+   Controlling Occupational Exposure to Hazardous Drugs.
+   OSHA, 1999. http://www.osha.gov/dts/osta/otm/otm_vi/otm_vi_2.html
+3. American Society of Health-System Pharmacists.
+   (2006) ASHP Guidelines on Handling Hazardous Drugs.
+4. Polovich, M., White, J. M., & Kelleher, L.O.
+   (eds.)
+   2005.
+   Chemotherapy and biotherapy guidelines and recommendations for practice (2nd. ed.)
+   Pittsburgh, PA: Oncology Nursing Society.

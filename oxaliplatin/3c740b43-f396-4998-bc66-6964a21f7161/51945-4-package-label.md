@@ -1,0 +1,57 @@
+PRINCIPAL DISPLAY PANEL - 50 mg Carton
+
+E-910
+
+NDC 0024-0590-10 50 mg
+
+Eloxatin® (OXALIplatin injection) 5 mg/mL INJECTION 50 mg
+
+FOR INTRAVENOUS USE ONLY SINGLE USE VIAL ONLY
+
+Sterile Aqueous Solution - Preservative Free
+
+See package insert for further required dilution
+
+DO NOT MIX OR ADD TO SODIUM CHLORIDE/ CHLORIDE-CONTAINING SOLUTIONS
+
+Rx only
+
+sanofi aventis
+
+PRINCIPAL DISPLAY PANEL - 100 mg Carton
+
+E-920
+
+NDC 0024-0591-20 100 mg
+
+Eloxatin® (OXALIplatin injection) 5 mg/mL INJECTION 100 mg
+
+FOR INTRAVENOUS USE ONLY SINGLE USE VIAL ONLY
+
+Sterile Aqueous Solution - Preservative Free
+
+See package insert for further required dilution
+
+DO NOT MIX OR ADD TO SODIUM CHLORIDE/ CHLORIDE-CONTAINING SOLUTIONS
+
+Rx only
+
+sanofi aventis
+
+PRINCIPAL DISPLAY PANEL - 200 mg Carton
+
+NDC 0024-0592-40 200 mg
+
+Eloxatin® (OXALIplatin injection) 5 mg/mL INJECTION 200 mg
+
+FOR INTRAVENOUS USE ONLY SINGLE USE VIAL ONLY
+
+Sterile Aqueous Solution - Preservative Free
+
+See package insert for further required dilution
+
+DO NOT MIX OR ADD TO SODIUM CHLORIDE/ CHLORIDE-CONTAINING SOLUTIONS
+
+Rx only
+
+sanofi aventis
