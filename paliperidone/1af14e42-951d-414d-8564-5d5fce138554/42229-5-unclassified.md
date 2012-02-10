@@ -1,5 +1,7 @@
 INVEGA® SUSTENNA® (paliperidone palmitate) Extended-Release Injectable Suspension
 
+Product of Ireland
+
 Manufactured by: Janssen Pharmaceutica N.V.
 Beerse, Belgium
 
