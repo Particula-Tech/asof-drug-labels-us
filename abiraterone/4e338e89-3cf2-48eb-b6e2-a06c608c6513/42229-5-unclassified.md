@@ -1,3 +1,3 @@
-Manufactured by: Patheon Inc. Toronto, Canada Manufactured for: Centocor Ortho Biotech Inc. Horsham, PA 19044
+Manufactured by: Patheon Inc. Mississauga, Canada Manufactured for: Janssen Biotech, Inc. Horsham, PA 19044
 
-Issued: April 2011
+Issued: December 2011

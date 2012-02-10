@@ -8,7 +8,7 @@ Abiraterone acetate and abiraterone did not induce mutations in the microbial mu
 
 Developmental or reproductive toxicology studies were not conducted with abiraterone acetate.
 In studies in rats (13- and 26-weeks) and monkeys (39-weeks), atrophy, aspermia/hypospermia, and hyperplasia in the reproductive system were observed at ≥50 mg/kg/day in rats and ≥250 mg/kg/day in monkeys and were consistent with the antiandrogenic pharmacological activity of abiraterone [see Nonclinical Toxicology (13.2.)].
-These effects were observed in rats and monkeys at approximately 1.14 and 0.6 the human clinical exposure based on AUC, respectively.
+These effects were observed in rats and monkeys at approximately 1.14 and 0.6X the human clinical exposure based on AUC, respectively.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

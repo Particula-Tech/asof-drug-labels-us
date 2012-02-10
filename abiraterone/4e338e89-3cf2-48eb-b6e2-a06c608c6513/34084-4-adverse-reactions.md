@@ -15,7 +15,7 @@ In a placebo-controlled, multicenter phase 3 clinical trial of patients with met
 Placebo plus prednisone 5 mg twice daily was given to control patients (N = 394).
 The median duration of treatment with ZYTIGA was 8 months.
 
-The most common adverse drug reactions (≥5%) reported in clinical studies were joint swelling or discomfort, hypokalemia, edema, muscle discomfort, hot flush, diarrhea, urinary tract infection, cough, hypertension, arrhythmia, urinary frequency, nocturia, dyspepsia, and upper respiratory tract infection.
+The most common adverse drug reactions (≥5%) reported in clinical studies were joint swelling or discomfort, hypokalemia, edema, muscle discomfort, hot flush, diarrhea, urinary tract infection, cough, hypertension, arrhythmia, urinary frequency, nocturia, dyspepsia, fractures and upper respiratory tract infection.
 
 The most common adverse drug reactions that resulted in drug discontinuation were aspartate aminotransferase increased, alanine aminotransferase increased, urosepsis and cardiac failure (each in <1% of patients taking ZYTIGA).
 
@@ -48,6 +48,8 @@ Table 1: Adverse Reactions due to ZYTIGA in a Placebo-Controlled Phase 3 Trial
 | Renal and urinary disorders |  |  |  |  |
 | Urinary frequency | 7.2 | 0.3 | 5.1 | 0.3 |
 | Nocturia | 6.2 | 0 | 4.1 | 0 |
+| Injury, poisoning and procedural complications |  |  |  |  |
+| FracturesIncludes all fractures with the exception of pathological fracture | 5.9 | 1.4 | 2.3 | 0 |
 | Cardiac disorders |  |  |  |  |
 | ArrhythmiaIncludes terms Arrhythmia, Tachycardia, Atrial fibrillation, Supraventricular tachycardia, Atrial tachycardia, Ventricular tachycardia, Atrial flutter, Bradycardia, Atrioventricular block complete, Conduction disorder, and Bradyarrhythmia | 7.2 | 1.1 | 4.6 | 1.0 |
 | Chest pain or chest discomfortIncludes terms Angina pectoris, Chest pain, and Angina unstable. Myocardial infarction or ischemia occurred more commonly in the placebo arm than in the ZYTIGA arm (1.3% vs. 1.1% respectively). | 3.8 | 0.5 | 2.8 | 0 |

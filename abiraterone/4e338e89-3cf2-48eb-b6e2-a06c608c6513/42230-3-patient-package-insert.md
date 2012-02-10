@@ -1,4 +1,4 @@
-PATIENT INFORMATION ZYTIGA™ (Zye-tee-ga) (abiraterone acetate) Tablets
+PATIENT INFORMATION ZYTIGA® (Zye-tee-ga) (abiraterone acetate) Tablets
 
 Read this Patient Information that comes with ZYTIGA before you start taking it and each time you get a refill.
 There may be new information.
@@ -24,7 +24,7 @@ Before you take ZYTIGA, tell your healthcare provider if you:
 
 - have heart problems
 - have liver problems
-- have a history of adrenal and or pituitary problems
+- have a history of adrenal and/or pituitary problems
 - have any other medical conditions
 - plan to become pregnant.
   See "Who should not take ZYTIGA?"
@@ -45,6 +45,7 @@ Keep a list of them with you to show to your healthcare provider and pharmacist 
 How should I take ZYTIGA?
 
 - Take ZYTIGA and prednisone exactly as your healthcare provider tells you.
+- The usual dose of ZYTIGA is four tablets taken once daily.
 - Your healthcare provider may change your dose if needed.
 - Do not stop taking your prescribed dose of ZYTIGA or prednisone without talking with your healthcare provider first.
 - Take ZYTIGA on an empty stomach.
@@ -80,7 +81,7 @@ ZYTIGA may cause serious side effects including:
 
 The most common side effects of ZYTIGA include:
 
-| joint swelling or painmuscle acheshot flushesdiarrheaurinary tract infectioncoughirregular heartbeats | urinate more often than normalneed to get up at night to urinateheartburncold like symptoms |
+| joint swelling or painmuscle acheshot flushesdiarrheaurinary tract infectioncoughirregular heartbeats | urinate more often than normalneed to get up at night to urinateheartburncold like symptomsbone fractures |
 | --- | --- |
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
@@ -104,11 +105,17 @@ Do not use ZYTIGA for a condition for which it was not prescribed.
 Do not give your ZYTIGA to other people, even if they have the same symptoms that you have.
 It may harm them.
 
+As with all pharmaceutical products there is a risk of counterfeit ZYTIGA.
+To allow you to check if your product is genuine, there is a special box colored in with green ink on the lower left corner of the ZYTIGA bottle label.
+When this box is rubbed for 5 seconds, the green color will disappear, and then slowly reappear (be sure your hands are warm, if necessary rub them together).
+If the green color disappears and returns, your product should be genuine.
+If it does not, or if you have any other reasons to be concerned, please call the Janssen Biotech number.
+
 This leaflet summarizes the most important information about ZYTIGA.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about ZYTIGA that is written for healthcare professionals.
 
-For more information contact Centocor Ortho Biotech, Inc. at 1-800-457-6399 or www.Zytiga.com.
+For more information contact Janssen Biotech, Inc. at 1-800-457-6399 or www.Zytiga.com.
 
 What are the ingredients of ZYTIGA?
 
@@ -118,6 +125,6 @@ Inactive ingredients: lactose monohydrate, microcrystalline cellulose, croscarme
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Patheon Inc. Toronto, Canada Manufactured for: Centocor Ortho Biotech Inc. Horsham, PA 19044
+Manufactured by: Patheon Inc. Mississauga, Canada Manufactured for: Janssen Biotech, Inc. Horsham, PA 19044
 
-Issued: April 2011
+Issued: December 2011
