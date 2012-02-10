@@ -1,0 +1,18 @@
+{
+  "application_numbers": [],
+  "inn": "barium-sulfate",
+  "labeler": "E-Z-EM Canada Inc",
+  "package_ndcs": [
+    "32909-186-01",
+    "32909-186-02"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "barium sulfate",
+      "name": "LIQUID E-Z-PAQUE"
+    }
+  ],
+  "setid": "2ecea1ab-66c8-4eb0-8503-6d6b41b51328",
+  "source": "dailymed"
+}
