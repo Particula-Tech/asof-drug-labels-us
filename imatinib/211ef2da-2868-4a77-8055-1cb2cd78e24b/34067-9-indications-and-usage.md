@@ -35,5 +35,3 @@ Patients with Kit (CD117) positive unresectable and/or metastatic malignant gast
 ## 1.9 Adjuvant Treatment of GIST
 
 Adjuvant treatment of adult patients following complete gross resection of Kit (CD117) positive GIST.
-Approval is based on recurrence-free survival with a median follow-up of 14 months.
-Clinical benefit has not been demonstrated by a long term effect on recurrence-free survival or survival.

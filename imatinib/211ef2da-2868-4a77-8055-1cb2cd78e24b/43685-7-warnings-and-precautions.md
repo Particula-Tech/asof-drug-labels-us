@@ -16,21 +16,21 @@ Treatment with Gleevec is associated with anemia, neutropenia, and thrombocytope
 Complete blood counts should be performed weekly for the first month, biweekly for the second month, and periodically thereafter as clinically indicated (for example, every 2-3 months).
 In CML, the occurrence of these cytopenias is dependent on the stage of disease and is more frequent in patients with accelerated phase CML or blast crisis than in patients with chronic phase CML.
 In pediatric CML patients the most frequent toxicities observed were Grade 3 or 4 cytopenias including neutropenia, thrombocytopenia and anemia.
-These generally occur within the first several months of therapy [see Dosage and Administration (2.11)].
+These generally occur within the first several months of therapy [see Dosage and Administration (2.12)].
 
 ## 5.3 Severe Congestive Heart Failure and Left Ventricular Dysfunction
 
-Severe congestive heart failure and left ventricular dysfunction have occasionally been reported in patients taking Gleevec.
+Severe congestive heart failure and left ventricular dysfunction have been reported in patients taking Gleevec.
 Most of the patients with reported cardiac reactions have had other co-morbidities and risk factors, including advanced age and previous medical history of cardiac disease.
 In an international randomized phase 3 study in 1,106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking Gleevec compared to 0.9% of patients taking IFN + Ara-C.
-Patients with cardiac disease or risk factors for cardiac failure should be monitored carefully and any patient with signs or symptoms consistent with cardiac failure should be evaluated and treated.
+Patients with cardiac disease or risk factors for cardiac or history of renal failure should be monitored carefully and any patient with signs or symptoms consistent with cardiac or renal failure should be evaluated and treated.
 
 ## 5.4 Hepatotoxicity
 
 Hepatotoxicity, occasionally severe, may occur with Gleevec [see Adverse Reactions (6.3)].
 Cases of fatal liver failure and severe liver injury requiring liver transplants have been reported with both short-term and long-term use of Gleevec.
 Liver function (transaminases, bilirubin, and alkaline phosphatase) should be monitored before initiation of treatment and monthly, or as clinically indicated.
-Laboratory abnormalities should be managed with Gleevec interruption and/or dose reduction [see Dosage and Administration (2.10)].
+Laboratory abnormalities should be managed with Gleevec interruption and/or dose reduction [see Dosage and Administration (2.11)].
 
 When Gleevec is combined with chemotherapy, liver toxicity in the form of transaminase elevation and hyperbilirubinemia has been observed.
 Additionally, there have been reports of acute liver failure.
@@ -42,6 +42,7 @@ In the newly diagnosed CML trial, 1.8% of patients had Grade 3/4 hemorrhage.
 In the Phase 3 unresectable or metastatic GIST studies 211 patients (12.9%) reported Grade 3/4 hemorrhage at any site.
 In the Phase 2 unresectable or metastatic GIST study 7 patients (5%) had a total of 8 CTC Grade 3/4 hemorrhages; gastrointestinal (GI) (3 patients), intra-tumoral (3 patients) or both (1 patient).
 Gastrointestinal tumor sites may have been the source of GI hemorrhages.
+Patients should therefore be monitored for gastrointestinal symptoms at the start of therapy.
 
 ## 5.6 Gastrointestinal Disorders
 
@@ -87,21 +88,27 @@ The most important changes included cardiac hypertrophy and dilatation, leading 
 
 Pregnancy Category D
 
-Women of childbearing potential should be advised to avoid becoming pregnant while taking Gleevec.
-Sexually active female patients taking Gleevec should use adequate contraception.
-Imatinib mesylate was teratogenic in rats when administered during organogenesis at doses approximately equal to the maximum human dose of 800 mg/day based on body surface area..
+Gleevec can cause fetal harm when administered to a pregnant woman.
+Imatinib mesylate was teratogenic in rats when administered during organogenesis at doses approximately equal to the maximum human dose of 800 mg/day based on body surface area.
 Significant post-implantation loss was seen in female rats administered imatinib mesylate at doses approximately one-half the maximum human dose of 800 mg/day based on body surface area.
-[see Use in Specific Populations (8.1)]
+Sexually active female patients of reproductive potential taking Gleevec should use highly effective contraception.
+If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
 
 ## 5.12 Children and Adolescents
 
 Growth retardation has been reported in children and pre-adolescents receiving Gleevec.
 The long term effects of prolonged treatment with Gleevec on growth in children are unknown.
-Therefore, close monitoring of growth in children under Gleevec treatment is recommended.
-[see Postmarketing Experience (6.13)]
+Therefore, close monitoring of growth in children under Gleevec treatment is recommended [see Adverse Reactions (6.13)].
 
 ## 5.13 Tumor Lysis Syndrome
 
 Cases of Tumor Lysis Syndrome (TLS), including fatal cases, have been reported in patients with CML, GIST, ALL and eosinophilic leukemia receiving Gleevec.
 The patients at risk of TLS are those with tumors having a high proliferative rate or high tumor burden prior to treatment.
 These patients should be monitored closely and appropriate precautions taken.
+Due to possible occurrence of TLS, correction of clinically significant dehydration and treatment of high uric acid levels are recommended prior to initiation of Gleevec.
+
+## 5.14 Driving and Using Machinery
+
+Reports of motor vehicle accidents have been received in patients receiving Gleevec.
+While most of these reports are not suspected to be caused by Gleevec, patients should be advised that they may experience undesirable effects such as dizziness, blurred vision or somnolence during treatment with Gleevec.
+Therefore, caution should be recommended when driving a car or operating machinery.

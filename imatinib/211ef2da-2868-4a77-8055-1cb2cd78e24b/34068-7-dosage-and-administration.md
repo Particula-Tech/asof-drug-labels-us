@@ -50,16 +50,19 @@ Dose increase from 100 mg to 400 mg for these patients may be considered in the 
 
 The recommended dose of Gleevec is 800 mg/day for adult patients with DFSP.
 
-## 2.8 GIST
+## 2.8 Metastatic or Unresectable GIST
 
 The recommended dose of Gleevec is 400 mg/day for adult patients with unresectable and/or metastatic, malignant GIST.
 A dose increase up to 800 mg daily (given as 400 mg twice daily) may be considered, as clinically indicated, in patients showing clear signs or symptoms of disease progression at a lower dose and in the absence of severe adverse drug reactions.
 
+## 2.9 Adjuvant GIST
+
 The recommended dose of Gleevec is 400 mg/day for the adjuvant treatment of adult patients following complete gross resection of GIST.
-In the clinical study, Gleevec was administered for one year.
+In clinical trials one year of Gleevec and three years of Gleevec were studied.
+In the patient population defined in Study 2, three years of Gleevec is recommended [see Clinical Studies (14.8)].
 The optimal treatment duration with Gleevec is not known.
 
-## 2.9 Dose Modification Guidelines
+## 2.10 Dose Modification Guidelines
 
 Concomitant Strong CYP3A4 inducers: The use of concomitant strong CYP3A4 inducers should be avoided (e.g., dexamethasone, phenytoin, carbamazepine, rifampin, rifabutin, rifampacin, phenobarbital).
 If patients must be co-administered a strong CYP3A4 inducer, based on pharmacokinetic studies, the dosage of Gleevec should be increased by at least 50%, and clinical response should be carefully monitored [see Drug Interactions (7.1)].
@@ -72,10 +75,9 @@ Doses greater than 600 mg are not recommended in patients with mild renal impair
 For patients with moderate renal impairment doses greater than 400 mg are not recommended.
 
 Imatinib should be used with caution in patients with severe renal impairment.
-A dose of 100 mg/day was tolerated in two patients with severe renal impairment.
-[See Use in Specific Populations (8.7)]
+A dose of 100 mg/day was tolerated in two patients with severe renal impairment [See Warnings and Precautions (5.3),Use in Specific Populations (8.7)].
 
-## 2.10 Dose Adjustment for Hepatotoxicity and Non-Hematologic Adverse Reactions
+## 2.11 Dose Adjustment for Hepatotoxicity and Non-Hematologic Adverse Reactions
 
 If elevations in bilirubin >3 x institutional upper limit of normal (IULN) or in liver transaminases >5 x IULN occur, Gleevec should be withheld until bilirubin levels have returned to a <1.5 x IULN and transaminase levels to <2.5 x IULN.
 In adults, treatment with Gleevec may then be continued at a reduced daily dose (i.e., 400 mg to 300 mg, 600 mg to 400 mg or 800 mg to 600 mg).
@@ -84,7 +86,7 @@ In children, daily doses can be reduced under the same circumstances from 340 mg
 If a severe non-hematologic adverse reaction develops (such as severe hepatotoxicity or severe fluid retention), Gleevec should be withheld until the event has resolved.
 Thereafter, treatment can be resumed as appropriate depending on the initial severity of the event.
 
-## 2.11 Dose Adjustment for Hematologic Adverse Reactions
+## 2.12 Dose Adjustment for Hematologic Adverse Reactions
 
 Dose reduction or treatment interruptions for severe neutropenia and thrombocytopenia are recommended as indicated in Table 1.
 

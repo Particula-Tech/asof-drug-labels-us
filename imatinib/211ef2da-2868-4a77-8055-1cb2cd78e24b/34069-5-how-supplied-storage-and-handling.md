@@ -27,5 +27,4 @@ Several guidelines on this subject have been published.1-4
 Gleevec tablets should not be crushed.
 Direct contact of crushed tablets with the skin or mucous membranes should be avoided.
 If such contact occurs, wash thoroughly as outlined in the references.
-Personnel should avoid exposure to crushed tablets.
-[see Nonclinical Toxicology (13.1)].
+Personnel should avoid exposure to crushed tablets [see Nonclinical Toxicology (13.1)].

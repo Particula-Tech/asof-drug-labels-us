@@ -10,6 +10,8 @@ Patients should be advised to take Gleevec with a meal and a large glass of wate
 ## 17.2 Pregnancy and Breast-Feeding
 
 Patients should be advised to inform their doctor if they are or think they may be pregnant.
+Women of reproductive potential should be advised to avoid becoming pregnant while taking Gleevec.
+Sexually active female patients taking Gleevec should use highly effective contraception.
 Patients should also be advised not to breast feed while taking Gleevec.
 
 ## 17.3 Adverse Reactions
@@ -29,12 +31,13 @@ Patients should be advised that growth retardation has been reported in children
 The long term effects of prolonged treatment with Gleevec on growth in children are unknown.
 Therefore, close monitoring of growth in children under Gleevec treatment is recommended.
 
-T2011-40
+## 17.6 Driving and Using Machines
 
-Distributed by:
+Patients should be advised that they may experience undesirable effects such as dizziness, blurred vision or somnolence during treatment with Gleevec.
+Therefore, caution patients about driving a car or operating machinery.
 
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
+
+T2012-41

@@ -27,7 +27,7 @@ Progression was defined as any of the following events: progression to accelerat
 The protocol specified that the progression analysis would compare the intent to treat (ITT) population: patients randomized to receive Gleevec were compared with patients randomized to receive IFN.
 Patients that crossed over prior to progression were not censored at the time of cross-over, and events that occurred in these patients following cross-over were attributed to the original randomized treatment.
 The estimated rate of progression-free survival at 84 months in the ITT population was 81.2 % [95% CI: 78, 85] in the Gleevec arm and 60.6 % [56, 65] in the IFN arm (p<0.0001, log-rank test), (Figure 1).
-With 7 years follow up there were 93 (16.8%) progression events in the Gleevec arm:37(6.7%) progression to AP/BC, 31(5.6%) loss of MCyR, 15 (2.7%) loss of CHR or increase in WBC and 10 (1.8%) CML unrelated deaths.
+With 7 years follow up there were 93 (16.8%) progression events in the Gleevec arm: 37(6.7%) progression to AP/BC, 31(5.6%) loss of MCyR, 15 (2.7%) loss of CHR or increase in WBC and 10 (1.8%) CML unrelated deaths.
 In contrast, there were 165 (29.8%) events in the IFN+Ara-C arm of which 130 occurred during first-line treatment with IFN-Ara-C.
 The estimated rate of patients free of progression to accelerated phase (AP) or blast crisis (BC) at 84 months was 92.5 %[90, 95] in the Gleevec arm compared to the 85.1%, [82, 89] (p≤0.001) in the IFN arm, (Figure 2).
 The annual rates of any progression events have decreased with time on therapy.
@@ -38,11 +38,11 @@ At 84 months the estimated overall survival is 86.4% (83, 90) vs. 83.3% (80, 87)
 The hazard ratio is 0.750 with 95% CI 0.547 – 1.028.
 This time-to-event endpoint may be affected by the high crossover rate from IFN+Ara-C to Gleevec.
 Major cytogenetic response, hematologic response, evaluation of minimal residual disease (molecular response), time to accelerated phase or blast crisis and survival were main secondary endpoints.
-Response data are shown in Table 14.
+Response data are shown in Table 15.
 Complete hematologic response, major cytogenetic response and complete cytogenetic response were also statistically significantly higher in the Gleevec arm compared to the IFN + Ara-C arm (no cross-over data considered for evaluation of responses).
 Median time to CCyR in the 454 responders was 6 months (range 2-64 months, 25th to 75th percentiles = 3 to 11 months) with 10% of responses seen only after 22 months of therapy).
 
-Table 14 Response in Newly Diagnosed CML Study (84-Month Data)
+Table 15 Response in Newly Diagnosed CML Study (84-Month Data)
 
 | (Best Response Rate) | Gleevec n=553 | IFN+Ara−C n=553 |
 | --- | --- | --- |
@@ -86,7 +86,7 @@ The first 77 patients were started at 400 mg, with the remaining 158 patients st
 Effectiveness was evaluated primarily on the basis of the rate of hematologic response, reported as either complete hematologic response, no evidence of leukemia (i.e., clearance of blasts from the marrow and the blood, but without a full peripheral blood recovery as for complete responses), or return to chronic phase CML.
 Cytogenetic responses were also evaluated.
 Median duration of treatment was 18 months with 45% of patients treated for ≥24 months (maximum=35 months).
-Efficacy results are reported in Table 15.
+Efficacy results are reported in Table 16.
 Response rates in accelerated phase CML were higher for the 600 mg dose group than for the 400 mg group: hematologic response (75% vs. 64%), confirmed and unconfirmed major cytogenetic response (31% vs. 19%).
 
 Myeloid Blast Crisis: 260 patients with myeloid blast crisis were enrolled.
@@ -96,11 +96,11 @@ The first 37 patients were started at 400 mg; the remaining 223 patients were st
 Effectiveness was evaluated primarily on the basis of rate of hematologic response, reported as either complete hematologic response, no evidence of leukemia, or return to chronic phase CML using the same criteria as for the study in accelerated phase.
 Cytogenetic responses were also assessed.
 Median duration of treatment was 4 months with 21% of patients treated for ≥12 months and 10% for ≥24 months (maximum=35 months).
-Efficacy results are reported in Table 15.
+Efficacy results are reported in Table 16.
 The hematologic response rate was higher in untreated patients than in treated patients (36% vs. 22%, respectively) and in the group receiving an initial dose of 600 mg rather than 400 mg (33% vs. 16%).
 The confirmed and unconfirmed major cytogenetic response rate was also higher for the 600 mg dose group than for the 400 mg dose group (17% vs. 8%).
 
-Table 15 Response in CML Studies
+Table 16 Response in CML Studies
 
 |  | Chronic Phase IFN Failure (n=532) | Accelerated Phase (n=235) | Myeloid Blast Crisis (n=260) |
 | --- | --- | --- | --- |
@@ -156,10 +156,10 @@ In a second study, 2 of 3 patients with Ph+ chronic phase CML resistant to inter
 A total of 48 Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL) patients with relapsed/refractory disease were studied, 43 of whom received the recommended Gleevec dose of 600 mg/day.
 In addition 2 patients with relapsed/refractory Ph+ ALL received Gleevec 600 mg/day in a phase 1 study.
 
-Confirmed and unconfirmed hematologic and cytogenetic response rates for the 43 relapsed/refractory Ph+ALL phase 2 study patients and for the 2 phase 1 patients are shown in Table 16.
+Confirmed and unconfirmed hematologic and cytogenetic response rates for the 43 relapsed/refractory Ph+ALL phase 2 study patients and for the 2 phase 1 patients are shown in Table 17.
 The median duration of hematologic response was 3.4 months and the median duration of MCyR was 2.3 months.
 
-Table 16 Effect of Gleevec on Relapsed/Refractory Ph+ ALL.
+Table 17 Effect of Gleevec on Relapsed/Refractory Ph+ ALL.
 
 |  | Phase 2 Study (N=43) | Phase 1 Study (N=2) |
 | --- | --- | --- |
@@ -185,10 +185,10 @@ Cytogenetic response was evaluated in 12 out of 14 patients, all of whom respond
 Only 1(7%) out of the 14 patients without a translocation associated with PDGFR gene re-arrangement achieved a complete hematological response and none achieved a major cytogenetic response.
 A further patient with a PDGFR gene re-arrangement in molecular relapse after bone marrow transplant responded molecularly.
 Median duration of therapy was 12.9 months (0.8-26.7) in the 7 patients treated within the phase 2 study and ranged between 1 week and more than 18 months in responding patients in the published literature.
-Results are provided in Table 17.
+Results are provided in Table 18.
 Response durations of phase 2 study patients ranged from 141+ days to 457+ days.
 
-Table 17 Response in MDS/MPD
+Table 18 Response in MDS/MPD
 
 |  |  | Complete Hematologic Response | Major Cytogenetic Response |
 | --- | --- | --- | --- |
@@ -214,10 +214,10 @@ Two patients had a Kit mutation in the juxtamembrane region (one Phe522Cys and o
 
 Of the 28 patients treated for ASM, 8 (29%) achieved a complete hematologic response and 9 (32%) a partial hematologic response (61% overall response rate).
 Median duration of Gleevec therapy for the 5 ASM patients in the phase 2 study was 13 months (range 1.4-22.3 months) and between 1 month and more than 30 months in the responding patients described in the published medical literature.
-A summary of the response rates to Gleevec in ASM is provided in Table 18.
+A summary of the response rates to Gleevec in ASM is provided in Table 19.
 Response durations of literature patients ranged from 1+ to 30+ months.
 
-Table 18 Response in ASM
+Table 19 Response in ASM
 
 | Cytogenetic Abnormality | Number of Patients | Complete Hematologic Response N (%) | Partial Hematologic Response N (%) |
 | --- | --- | --- | --- |
@@ -240,10 +240,10 @@ HES patients were treated with 100 mg to 1000 mg of Gleevec daily.
 The ages of these patients ranged from 16 to 64 years.
 A further 162 patients with HES/CEL aged 11 to 78 years were reported in 35 published case reports and case series.
 These patients received Gleevec at doses of 75 mg to 800 mg daily.
-Hematologic response rates are summarized in Table 19.
+Hematologic response rates are summarized in Table 20.
 Response durations for literature patients ranged from 6+ weeks to 44 months.
 
-Table 19 Response in HES/CEL
+Table 20 Response in HES/CEL
 
 | Cytogenetic Abnormality | Number of Patients | Complete Hematological Response N (%) | Partial Hematological Response N (%) |
 | --- | --- | --- | --- |
@@ -265,9 +265,9 @@ The total population treated for DFSP therefore comprises 18 patients, 8 of them
 The adult patients reported in the published literature were treated with either 400 mg (4 cases) or 800 mg (1 case) Gleevec daily.
 A single pediatric patient received 400 mg/m2/daily, subsequently increased to 520 mg/m2/daily.
 Ten patients had the PDGF B gene rearrangement, 5 had no available cytogenetics and 3 had complex cytogenetic abnormalities.
-Responses to treatment are described in Table 20.
+Responses to treatment are described in Table 21.
 
-Table 20 Response in DFSP
+Table 21 Response in DFSP
 
 |  | Number of Patients (n=18) | % |
 | --- | --- | --- |
@@ -297,9 +297,9 @@ All patients had a pathologic diagnosis of CD117 positive unresectable and/or me
 
 The primary objective of the two studies was to evaluate either progression-free survival (PFS) with a secondary objective of overall survival (OS) in one study or overall survival with a secondary objective of PFS in the other study.
 A planned analysis of both OS and PFS from the combined datasets from these two studies was conducted.
-Results from this combined analysis are shown in Table 21.
+Results from this combined analysis are shown in Table 22.
 
-Table 21 Overall Survival, Progression-Free Survival and Tumor Response Rates in the Phase 3 GIST Trials
+Table 22 Overall Survival, Progression-Free Survival and Tumor Response Rates in the Phase 3 GIST Trials
 
 |  | Gleevec 400 mg N=818 | Gleevec 800 mg N=822 |
 | --- | --- | --- |
@@ -323,12 +323,29 @@ The median time to response was 12 weeks (range was 3-98 weeks) and the estimate
 
 Adjuvant Treatment of GIST
 
-In the adjuvant setting, Gleevec was investigated in a multicenter, double-blind, placebo-controlled, randomized study involving 713 patients.
-After complete gross resection of primary GIST, patients were randomized to one of the two arms: Gleevec at 400 mg/day or matching placebo for one year.
+In the adjuvant setting, Gleevec was investigated in a multicenter, double-blind, placebo-controlled, randomized trial involving 713 patients (Study 1).
+Patients were randomized one to one to Gleevec at 400 mg/day or matching placebo for 12 months.
 The ages of these patients ranged from 18 to 91 years.
-Patients were included who had a histologic diagnosis of primary GIST expressing KIT protein by immunochemistry and a tumor size ≥3 cm in maximum dimension, with complete gross resection of primary GIST within 14 to 70 days prior to registration.
+Patients were included who had a histologic diagnosis of primary GIST, expressing KIT protein by immunochemistry and a tumor size ≥3 cm in maximum dimension with complete gross resection of primary GIST within 14 to 70 days prior to registration.
 
-The efficacy endpoint of the study was recurrence free survival (RFS) defined as the time from date of randomization to the date of recurrence or death from any cause.
-At a median follow up of 14.0 months, there were 30 RFS events in the Gleevec arm compared to 70 RFS events in the placebo arm (hazard ratio=0.398 [95% CI: 0.259, 0.610], p<0.0001).
-Based on an interim analysis, patients still receiving placebo were allowed to cross over to Gleevec.
-The current follow-up is too short to evaluate survival.
+Recurrence-free survival (RFS) was defined as the time from date of randomization to the date of recurrence or death from any cause.
+In a planned interim analysis, the median follow up was 15 months in patients without a RFS event; there were 30 RFS events in the 12-month Gleevec arm compared to 70 RFS events in the placebo arm with a hazard ratio of 0.398 (95% CI: 0.259, 0.610), p<0.0001.
+After the interim analysis of RFS, 79 of the 354 patients initially randomized to the placebo arm were eligible to cross over to the 12-month Gleevec arm.
+Seventy-two of these 79 patients subsequently crossed over to Gleevec therapy.
+In an updated analysis, the median follow-up for patients without a RFS event was 50 months.
+There were 74 (21%) RFS events in the 12-month Gleevec arm compared to 98 (28%) events in the placebo arm with a hazard ratio of 0.718 (95% CI: 0.531-0.971) (Figure 3).
+The median follow-up for OS in patients still living was 61 months.
+There were 26 (7%) and 33 (9%) deaths in the 12-month Gleevec and placebo arms, respectively with a hazard ratio of 0.816 (95% CI: 0.488-1.365).
+
+A second randomized, multicenter, open label, phase 3 trial in the adjuvant setting (Study 2) compared 12 months of Gleevec treatment to 36 months of Gleevec treatment at 400 mg/day in adult patients with KIT (CD117) positive GIST after surgical resection with one of the following: tumor diameter >5 cm and mitotic count >5/50 high power fields (HPF), or tumor diameter >10 cm and any mitotic count, or tumor of any size with mitotic count >10/50 HPF, or tumors ruptured into the peritoneal cavity.
+There were a total of 397 patients randomized in the trial with 199 patients on the 12-month treatment arm and 198 patients on the 36-month treatment arm.
+The median age was 61 years (range 22 to 84 years).
+
+RFS was defined as the time from date of randomization to the date of recurrence or death from any cause.
+The median follow-up for patients without a RFS event was 42 months.
+There were 84 (42%) RFS events in the 12-month treatment arm and 50 (25%) RFS events in the 36-month treatment arm.
+Thirty-six months of Gleevec treatment significantly prolonged RFS compared to 12 months of Gleevec treatment with a hazard ratio of 0.46 (95% CI: 0.32, 0.65), p<0.0001 (Figure 4).
+
+The median follow-up for overall survival (OS) in patients still living was 48 months.
+There were 25 (13%) deaths in the 12-month treatment arm and 12 (6%) deaths in the 36-month treatment arm.
+Thirty-six months of Gleevec treatment significantly prolonged OS compared to 12 months of Gleevec treatment with a hazard ratio of 0.45 (95% CI: 0.22, 0.89), p=0.0187 (Figure 5).

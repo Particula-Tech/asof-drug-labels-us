@@ -10,8 +10,7 @@ The mean dose normalized AUC for imatinib in the patients receiving EIAED’s de
 Concomitant administration of Gleevec and St. John’s Wort led to a 30% reduction in the AUC of imatinib.
 
 Consider alternative therapeutic agents with less enzyme induction potential in patients when rifampin or other CYP3A4 inducers are indicated.
-Gleevec doses up to 1200 mg/day (600 mg BID) have been given to patients receiving concomitant strong CYP3A4 inducers.
-[see Dosage and Administration (2.9)].
+Gleevec doses up to 1200 mg/day (600 mg BID) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.10)].
 
 ## 7.2 Agents Inhibiting CYP3A Metabolism
 

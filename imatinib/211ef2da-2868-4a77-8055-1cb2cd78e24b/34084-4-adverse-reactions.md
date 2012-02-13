@@ -8,8 +8,7 @@ The majority of Gleevec-treated patients experienced adverse reactions at some t
 Most reactions were of mild-to-moderate grade, but drug was discontinued for drug-related adverse reactions in 2.4% of newly diagnosed patients, 4% of patients in chronic phase after failure of interferon-alpha therapy, 4% in accelerated phase and 5% in blast crisis.
 
 The most frequently reported drug-related adverse reactions were edema, nausea and vomiting, muscle cramps, musculoskeletal pain, diarrhea and rash (Table 2 for newly diagnosed CML, Table 3 for other CML patients).
-Edema was most frequently periorbital or in lower limbs and was managed with diuretics, other supportive measures, or by reducing the dose of Gleevec.
-[see Dosage and Administration (2.10)].
+Edema was most frequently periorbital or in lower limbs and was managed with diuretics, other supportive measures, or by reducing the dose of Gleevec [see Dosage and Administration (2.11)].
 The frequency of severe superficial edema was 1.5%-6%.
 
 A variety of adverse reactions represent local or general fluid retention including pleural effusion, ascites, pulmonary edema and rapid weight gain with or without superficial edema.
@@ -19,7 +18,7 @@ A few of these reactions may be serious or life threatening, and one patient wit
 
 Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the Gleevec treated patients are shown in Tables 2 and 3.
 
-Table 2 Adverse Reactions Reported in Newly Diagnosed CML Clinical Trial (≥10% of Gleevec Treated Patients)(1)
+Table 2 Adverse Reactions Regardless of Relationship to Study Drug Reported in Newly Diagnosed CML Clinical Trial (≥10% of Gleevec Treated Patients)(1)
 
 |  | All Grades |  | CTC Grades 3/4 |  |
 | --- | --- | --- | --- | --- |
@@ -58,7 +57,7 @@ Table 2 Adverse Reactions Reported in Newly Diagnosed CML Clinical Trial (≥10%
 | Sinusitis | 11.4 | 6.0 | 0.2 | 0.2 |
 | (1)All adverse reactions occurring in ≥10% of Gleevec treated patients are listed regardless of suspected relationship to treatment. (2)Other fluid retention reactions include pleural effusion, ascites, pulmonary edema, pericardial effusion, anasarca, edema aggravated, and fluid retention not otherwise specified. |  |  |  |  |
 
-Table 3 Adverse Reactions Reported in Other CML Clinical Trials (≥10% of All Patients in any Trial)(1)
+Table 3 Adverse Reactions Regardless of Relationship to Study Drug Reported in Other CML Clinical Trials (≥10% of All Patients in any Trial)(1)
 
 |  | Myeloid Blast Crisis (n= 260) |  | Accelerated Phase (n=235) |  | Chronic Phase, IFN Failure (n=532) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -184,7 +183,7 @@ These edemas were rarely severe and may be managed with diuretics, other support
 
 Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the patients treated with Gleevec for MDS/MPD in the phase 2 study, are shown in Table 6.
 
-Table 6 Adverse Reactions Reported (More than One Patient) in MPD Patients in the Phase 2 Study (≥10% All Patients) All Grades
+Table 6 Adverse Reactions Regardless of Relationship to Study Drug Reported (More than One Patient) in MPD Patients in the Phase 2 Study (≥10% All Patients) All Grades
 
 | Preferred Term | N=7 n (%) |
 | --- | --- |
@@ -212,7 +211,7 @@ Hematological abnormalities were also frequent, with instances of CTC Grade 3 le
 
 Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the 12 patients treated with Gleevec for DFSP in the phase 2 study are shown in Table 7.
 
-Table 7 Adverse Reactions Reported in DFSP Patients in the Phase 2 Study (≥10% All Patients) All Grades
+Table 7 Adverse Reactions Regardless of Relationship to Study Drug Reported in DFSP Patients in the Phase 2 Study (≥10% All Patients) All Grades
 
 | Preferred term | N=12 n (%) |
 | --- | --- |
@@ -254,14 +253,14 @@ Unresectable and/or Malignant Metastatic GIST
 In the Phase 3 trials the majority of Gleevec-treated patients experienced adverse reactions at some time.
 The most frequently reported adverse reactions were edema, fatigue, nausea, abdominal pain, diarrhea, rash, vomiting, myalgia, anemia and anorexia.
 Drug was discontinued for adverse reactions in a total of 89 patients (5.4%).
-Superficial edema, most frequently periorbital or lower extremity edema was managed with diuretics, other supportive measures, or by reducing the dose of Gleevec [see Dosage and Administration (2.10)].
+Superficial edema, most frequently periorbital or lower extremity edema was managed with diuretics, other supportive measures, or by reducing the dose of Gleevec [see Dosage and Administration (2.11)].
 Severe (CTC Grade 3/4) edema was observed in 182 patients (11.1%).
 
 Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the patients treated with Gleevec are shown in Table 9.
 
 Overall the incidence of all grades of adverse reactions and the incidence of severe adverse reactions (CTC Grade 3 and above) were similar between the two treatment arms except for edema, which was reported more frequently in the 800 mg group.
 
-Table 9 Number (%) of Patients with Adverse Reactions where Frequency is ≥10% in any One Group (Full Analysis Set) in the Phase 3 Unresectable and/or Malignant Metastatic GIST Clinical Trials
+Table 9 Number (%) of Patients with Adverse Reactions Regardless of Relationship to Study Drug where Frequency is ≥10% in any One Group (Full Analysis Set) in the Phase 3 Unresectable and/or Malignant Metastatic GIST Clinical Trials
 
 | Reported or Specified Term | Imatinib 400 mg N=818 |  | Imatinib 800 mg N=822 |  |
 | --- | --- | --- | --- | --- |
@@ -328,15 +327,19 @@ Table 10 Laboratory Abnormalities in the Phase 2 Unresectable and/or Malignant M
 
 Adjuvant Treatment of GIST
 
-The majority of both Gleevec and placebo treated patients experienced at least one adverse reaction at some time.
+In Study 1, the majority of both Gleevec and placebo treated patients experienced at least one adverse reaction at some time.
 The most frequently reported adverse reactions were similar to those reported in other clinical studies in other patient populations and include diarrhea, fatigue, nausea, edema, decreased hemoglobin, rash, vomiting and abdominal pain.
 No new adverse reactions were reported in the adjuvant GIST treatment setting that had not been previously reported in other patient populations including patients with unresectable and/or malignant metastatic GIST.
 Drug was discontinued for adverse reactions in 57 patients (17%) and 11 patients (3%) of the Gleevec and placebo treated patients respectively.
 Edema, gastrointestinal disturbances (nausea, vomiting, abdominal distention and diarrhea), fatigue, low hemoglobin and rash were the most frequently reported adverse reactions at the time of discontinuation.
 
-Adverse reactions, regardless of relationship to study drug, that were reported in at least 5% of the patients treated with Gleevec are shown in Table 11.
+In Study 2, discontinuation of therapy due to adverse reactions occurred in 15 patients (8%) and 27 patients (14%) of the Gleevec 12-month and 36-month treatment arms, respectively.
+As in previous trials the most common adverse reactions were diarrhea, fatigue, nausea, edema, decreased hemoglobin, rash, vomiting and abdominal pain.
 
-Table 11: Adverse Reactions Reported in the Adjuvant GIST Trial (≥5% of Gleevec Treated Patients)(1)
+Adverse reactions, regardless of relationship to study drug, that were reported in at least 5% of the patients treated with Gleevec are shown in Table 11 (Study 1) and Table 12 (Study 2).
+There were no deaths attributable to Gleevec treatment in either trial.
+
+Table 11: Adverse Reactions Regardless of Relationship to Study Drug Reported in Study 1 (≥5% of Gleevec Treated Patients)(1)
 
 |  | All CTC Grades |  | CTC Grade 3 and above |  |
 | --- | --- | --- | --- | --- |
@@ -391,6 +394,63 @@ Table 11: Adverse Reactions Reported in the Adjuvant GIST Trial (≥5% of Gleeve
 | Stomatitis | 5.0 | 1.7 | 0.6 | 0 |
 | Upper Respiratory Tract Infection | 5.0 | 3.5 | 0 | 0 |
 | Vision Blurred | 5.0 | 2.3 | 0 | 0 |
+| (1)All adverse reactions occurring in ≥5% of patients are listed regardless of suspected relationship to treatment. A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category. |  |  |  |  |
+
+Table 12: Adverse Reactions Regardless of Relationship to Study Drug by Preferred Term All Grades and 3/4 Grades (≥5% of Gleevec Treated Patients) Study 2(1)
+
+| Preferred Term | All CTC Grades |  | CTC Grades 3 and above |  |
+| --- | --- | --- | --- | --- |
+|  | Gleevec 12 Months (N=194) % | Gleevec 36 Months (N=198) % | Gleevec 12 Months (N=194) % | Gleevec 36 Months (N=198) % |
+| Patients with at least one AE | 99.0 | 100.0 | 20.1 | 32.8 |
+| Hemoglobin decreased | 72.2 | 80.3 | 0.5 | 0.5 |
+| Periorbital edema | 59.3 | 74.2 | 0.5 | 1.0 |
+| Blood lactate dehydrogenase increased | 43.3 | 60.1 | 0 | 0 |
+| Diarrhea | 43.8 | 54.0 | 0.5 | 2.0 |
+| Nausea | 44.8 | 51.0 | 1.5 | 0.5 |
+| Muscle spasms | 30.9 | 49.0 | 0.5 | 1.0 |
+| Fatigue | 48.5 | 48.5 | 1.0 | 0.5 |
+| White blood cell count decreased | 34.5 | 47.0 | 2.1 | 3.0 |
+| Pain | 25.8 | 45.5 | 1.0 | 3.0 |
+| Blood creatinine increased | 30.4 | 44.4 | 0 | 0 |
+| Edema peripheral | 33.0 | 40.9 | 0.5 | 1.0 |
+| Dermatitis | 29.4 | 38.9 | 2.1 | 1.5 |
+| Aspartate aminotransferase increased | 30.9 | 37.9 | 1.5 | 3.0 |
+| Alanine aminotransferase increased | 28.9 | 34.3 | 2.1 | 3.0 |
+| Neutrophil count decreased | 24.2 | 33.3 | 4.6 | 5.1 |
+| Hypoproteinemia | 23.7 | 31.8 | 0 | 0 |
+| Infection | 13.9 | 27.8 | 1.5 | 2.5 |
+| Weight increased | 13.4 | 26.8 | 0 | 0.5 |
+| Pruritus | 12.9 | 25.8 | 0 | 0 |
+| Flatulence | 19.1 | 24.7 | 1.0 | 0.5 |
+| Vomiting | 10.8 | 22.2 | 0.5 | 1.0 |
+| Dyspepsia | 17.5 | 21.7 | 0.5 | 1.0 |
+| Hypoalbuminemia | 11.9 | 21.2 | 0 | 0 |
+| Edema | 10.8 | 19.7 | 0 | 0.5 |
+| Abdominal distension | 11.9 | 19.2 | 0.5 | 0 |
+| Headache | 8.2 | 18.2 | 0 | 0 |
+| Lacrimation increased | 18.0 | 17.7 | 0 | 0 |
+| Arthralgia | 8.8 | 17.2 | 0 | 1.0 |
+| Blood alkaline phosphatase increased | 10.8 | 16.7 | 0 | 0.5 |
+| Dyspnea | 6.2 | 16.2 | 0.5 | 1.5 |
+| Myalgia | 9.3 | 15.2 | 0 | 1.0 |
+| Platelet count decreased | 11.3 | 14.1 | 0 | 0 |
+| Blood bilirubin increased | 11.3 | 13.1 | 0 | 0 |
+| Dysgeusia | 9.3 | 12.6 | 0 | 0 |
+| Paresthesia | 5.2 | 12.1 | 0 | 0.5 |
+| Vision blurred | 10.8 | 11.1 | 1.0 | 0.5 |
+| Alopecia | 11.3 | 10.6 | 0 | 0 |
+| Decreased appetite | 9.8 | 10.1 | 0 | 0 |
+| Constipation | 8.8 | 9.6 | 0 | 0 |
+| Pyrexia | 6.2 | 9.6 | 0 | 0 |
+| Depression | 3.1 | 8.1 | 0 | 0 |
+| Abdominal pain | 2.6 | 7.6 | 0 | 0 |
+| Conjunctivitis | 5.2 | 7.6 | 0 | 0 |
+| Photosensitivity reaction | 3.6 | 7.1 | 0 | 0 |
+| Dizziness | 4.6 | 6.6 | 0.5 | 0 |
+| Hemorrhage | 3.1 | 6.6 | 0 | 0 |
+| Dry skin | 6.7 | 6.1 | 0.5 | 0 |
+| Nasopharyngitis | 1.0 | 6.1 | 0 | 0.5 |
+| Palpitations | 5.2 | 5.1 | 0 | 0 |
 | (1)All adverse reactions occurring in ≥5% of patients are listed regardless of suspected relationship to treatment. A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category. |  |  |  |  |
 
 ## 6.12 Additional Data from Multiple Clinical Trials
