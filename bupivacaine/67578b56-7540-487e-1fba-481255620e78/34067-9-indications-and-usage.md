@@ -11,15 +11,23 @@ See WARNINGS.
 
 The routes of administration and indicated MARCAINE concentrations are:
 
-| • local infiltration | 0.25% |
-| --- | --- |
-| • peripheral nerve block | 0.25% and 0.5% |
-| • retrobulbar block | 0.75% |
-| • sympathetic block | 0.25% |
-| • lumbar epidural | 0.25%, 0.5%, and 0.75% (0.75% not for obstetrical anesthesia) |
-| • caudal | 0.25% and 0.5% |
-| • epidural test dose | 0.5% with epinephrine 1:200,000 |
-| • dental blocks | 0.5% with epinephrine 1:200,000 |
+∙ local infiltration 0.25%
+
+∙ peripheral nerve block 0.25% and 0.5%
+
+∙ retrobulbar block 0.75%
+
+∙ sympathetic block 0.25%
+
+∙ lumbar epidural 0.25%, 0.5%, and 0.75%
+
+(0.75% not for obstetrical anesthesia)
+
+∙ caudal 0.25% and 0.5%
+
+∙ epidural test dose 0.5% with epinephrine 1:200,000
+
+∙ dental blocks 0.5% with epinephrine 1:200,000
 
 (See DOSAGE AND ADMINISTRATION for additional information.)
 
