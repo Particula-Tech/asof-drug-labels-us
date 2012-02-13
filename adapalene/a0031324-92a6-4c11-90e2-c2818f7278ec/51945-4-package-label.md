@@ -58,4 +58,4 @@ Storage: Store at controlled room temperature 68° to 77°F (20° to 25°C) with
 Protect from freezing.
 
 Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, Texas 76177 USA Manufactured by: Galderma Production Canada Inc. Baie d’Urfe´, QC, H9X Canada Made in Canada GALDERMA is a registered trademark. www.differin.com P51241-0
+Fort Worth, Texas 76177 USA Manufactured by: G Production Inc. Baie d’Urfe´, QC, H9X 3S4 Canada Made in Canada GALDERMA is a registered trademark. www.differin.com P51241-1

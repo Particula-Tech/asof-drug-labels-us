@@ -25,5 +25,5 @@ Fort Worth, Texas 76177 USA
 Manufactured by: DPT Laboratories, Ltd. San Antonio, Texas 78215 USA GALDERMA is a registered trademark.
 325089-0810
 
-Manufactured by: Galderma Production Canada Inc. Baie d’Urfe´, QC, H9X Canada Made in Canada GALDERMA is a registered trademark.
+Manufactured by: G Production Inc. Baie d’Urfe´, QC, H9X 3S4 Canada Made in Canada GALDERMA is a registered trademark.
 P51238-1
