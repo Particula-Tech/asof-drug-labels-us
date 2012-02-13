@@ -24,9 +24,7 @@ Mixing or the prior or intercurrent use of any other local anesthetic with MARCA
 
 # PRECAUTIONS
 
-## General:
-
-The safety and effectiveness of spinal anesthetics depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
+General: The safety and effectiveness of spinal anesthetics depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
 Resuscitative equipment, oxygen, and other resuscitative drugs should be available for immediate use.
 (See WARNINGS and ADVERSE REACTIONS.)
 The patient should have IV fluids running via an indwelling catheter to assure a functioning intravenous pathway.
@@ -73,14 +71,10 @@ The following conditions may preclude the use of spinal anesthesia, depending up
 - Extremes of age.
 - Psychosis or other causes of poor cooperation by the patient.
 
-## Information for Patients:
-
-When appropriate, patients should be informed in advance that they may experience temporary loss of sensation and motor activity, usually in the lower half of the body, following proper administration of spinal anesthesia.
+Information for Patients: When appropriate, patients should be informed in advance that they may experience temporary loss of sensation and motor activity, usually in the lower half of the body, following proper administration of spinal anesthesia.
 Also, when appropriate, the physician should discuss other information including adverse reactions in the MARCAINE Spinal package insert.
 
-## Clinically Significant Drug Interactions:
-
-The administration of local anesthetic solutions containing epinephrine or norepinephrine to patients receiving monoamine oxidase inhibitors or tricyclic antidepressants may produce severe, prolonged hypertension.
+Clinically Significant Drug Interactions: The administration of local anesthetic solutions containing epinephrine or norepinephrine to patients receiving monoamine oxidase inhibitors or tricyclic antidepressants may produce severe, prolonged hypertension.
 Concurrent use of these agents should generally be avoided.
 In situations when concurrent therapy is necessary, careful patient monitoring is essential.
 
@@ -88,23 +82,24 @@ Concurrent administration of vasopressor drugs and of ergot-type oxytocic drugs 
 
 Phenothiazines and butyrophenones may reduce or reverse the pressor effect of epinephrine.
 
-## Carcinogenesis, Mutagenesis, and Impairment of Fertility:
+Carcinogenesis, Mutagenesis, and Impairment of Fertility: Long-term studies in animals to evaluate the carcinogenic potential of bupivacaine hydrochloride have not been conducted.
+The mutagenic potential and the effect on fertility of bupivacaine hydrochloride have not been determined.
 
-Long-term studies in animals of most local anesthetics including bupivacaine to evaluate the carcinogenic potential have not been conducted.
-Mutagenic potential or the effect on fertility have not been determined.
-There is no evidence from human data that MARCAINE Spinal may be carcinogenic or mutagenic or that it impairs fertility.
-
-## Pregnancy Category C:
-
-Decreased pup survival in rats and an embryocidal effect in rabbits have been observed when bupivacaine hydrochloride was administered to these species in doses comparable to 230 and 130 times respectively the maximum recommended human spinal dose.
-There are no adequate and well-controlled studies in pregnant women of the effect of bupivacaine on the developing fetus.
-Bupivacaine hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-This does not exclude the use of MARCAINE Spinal at term for obstetrical anesthesia.
+Pregnancy Category C: There are no adequate and well-controlled studies in pregnant women.
+MARCAINE Spinal should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Bupivacaine hydrochloride produced developmental toxicity when administered subcutaneously to pregnant rats and rabbits at clinically relevant doses.
+This does not exclude the use of MARCAINE Spinal at term for obstetrical anesthesia or analgesia.
 (See Labor and Delivery.)
 
-## Labor and Delivery:
+Bupivacaine hydrochloride was administered subcutaneously to rats at doses of 4.4, 13.3, & 40 mg/kg and to rabbits at doses of 1.3, 5.8, & 22.2 mg/kg during the period of organogenesis (implantation to closure of the hard palate).
+The high doses are approximately 30-times the daily maximum recommended human dose (MRHD) of 12 mg/day on a mg dose/m2 body surface area (BSA) basis.
+No embryo-fetal effects were observed in rats at the high dose which caused increased maternal lethality.
+An increase in embryo-fetal deaths was observed in rabbits at the high dose in the absence of maternal toxicity with the fetal No Observed Adverse Effect Level being approximately 8-times the MRHD on a BSA basis.
 
-Spinal anesthesia has a recognized use during labor and delivery.
+In a rat pre- and post-natal development study (dosing from implantation through weaning) conducted at subcutaneous doses of 4.4, 13.3, & 40 mg/kg mg/kg/day, decreased pup survival was observed at the high dose.
+The high dose is approximately 30-times the daily MRHD of 12 mg/day on a BSA basis.
+
+Labor and Delivery: Spinal anesthesia has a recognized use during labor and delivery.
 Bupivacaine hydrochloride, when administered properly, via the epidural route in doses 10 to 12 times the amount used in spinal anesthesia has been used for obstetrical analgesia and anesthesia without evidence of adverse effects on the fetus.
 
 Maternal hypotension has resulted from regional anesthesia.
@@ -128,18 +123,12 @@ These cases are compatible with systemic toxicity following unintended intravasc
 The 0.75% concentration of MARCAINE is therefore not recommended for obstetrical epidural anesthesia.
 MARCAINE Spinal (bupivacaine hydrochloride in dextrose injection) is recommended for spinal anesthesia in obstetrics.
 
-## Nursing Mothers:
-
-Bupivacaine has been reported to be excreted in human milk suggesting that the nursing infant could be theoretically exposed to a dose of the drug.
+Nursing Mothers: Bupivacaine has been reported to be excreted in human milk suggesting that the nursing infant could be theoretically exposed to a dose of the drug.
 Because of the potential for serious adverse reactions in nursing infants from bupivacaine, a decision should be made whether to discontinue nursing or not administer bupivacaine, taking into account the importance of the drug to the mother.
 
-## Pediatric Use:
+Pediatric Use: Until further experience is gained in patients younger than 18 years, administration of MARCAINE Spinal in this age group is not recommended.
 
-Until further experience is gained in patients younger than 18 years, administration of MARCAINE Spinal in this age group is not recommended.
-
-## Geriatric Use:
-
-Patients over 65 years, particularly those with hypertension, may be at increased risk for developing hypotension while undergoing spinal anesthesia with MARCAINE Spinal.
+Geriatric Use: Patients over 65 years, particularly those with hypertension, may be at increased risk for developing hypotension while undergoing spinal anesthesia with MARCAINE Spinal.
 (See PRECAUTIONS, General and ADVERSE REACTIONS, Cardiovascular System.)
 
 Elderly patients may require lower doses of MARCAINE Spinal.

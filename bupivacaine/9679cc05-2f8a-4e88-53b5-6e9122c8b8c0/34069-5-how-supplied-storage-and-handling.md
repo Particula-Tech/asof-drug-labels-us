@@ -13,8 +13,8 @@ Store at 20 to 25ºC (68 to 77ºF).
 MARCAINE Spinal solution may be autoclaved once at 15 pound pressure, 121°C (250°F) for 15 minutes.
 Do not administer any solution which is discolored or contains particulate matter.
 
-Revised: November, 2009
+Revised: 10/2011
 
-| Printed in USA |  | EN-2313 |
-| --- | --- | --- |
-| Hospira, Inc., Lake Forest, IL 60045 USA |  |  |
+EN-2919
+
+Hospira, Inc., Lake Forest, IL 60045 USA
