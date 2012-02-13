@@ -19,12 +19,12 @@ Protect from moisture.
 
 Dispense in tight container (USP).
 
-T2011-56
-
-May 2011
-
 Manufactured by: Novartis Pharmaceuticals Corporation Suffern, New York 10901
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
+
+T2012-45
+
+January 2012

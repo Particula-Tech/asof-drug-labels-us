@@ -40,31 +40,25 @@ Another angiotensin-converting enzyme inhibitor, captopril, has been shown to ca
 Available data from clinical trials of benazepril are insufficient to show that benazepril does not cause agranulocytosis at similar rates.
 Monitoring of white blood cell counts should be considered in patients with collagen-vascular disease, especially if the disease is associated with impaired renal function.
 
-## Fetal/Neonatal Morbidity and Mortality
+## Fetal toxicity
 
-ACE inhibitors can cause fetal and neonatal morbidity and death when administered to pregnant women.
-Several dozen cases have been reported in the world literature.
-When pregnancy is detected, Lotensin should be discontinued as soon as possible and monitoring of the fetal development should be performed on a regular basis.
+Pregnancy category D
 
-The use of ACE inhibitors during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
-Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
-Prematurity, intrauterine growth retardation, and patent ductus arteriosus have also been reported, although it is not clear whether these occurrences were due to the ACE inhibitor exposure.
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
+Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
+When pregnancy is detected, discontinue Lotensin as soon as possible.
+These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy.
+Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
+Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
 
-In addition, use of ACE inhibitors during the first trimester of pregnancy has been associated with a potentially increased risk of birth defects.
-In women planning to become pregnant, ACE inhibitors (including Lotensin) should not be used.
-Women of childbearing age should be made aware of the potential risk and ACE inhibitors (including Lotensin) should only be given after careful counseling and consideration of individual risks and benefits.
-
-Rarely (probably less often than once in every thousand pregnancies), no alternative to ACE inhibitors will be found.
-In these rare cases, the mothers should be apprised of the potential hazards to their fetuses, and serial ultrasound examinations should be performed to assess the intraamniotic environment.
-
-If oligohydramnios is observed, benazepril should be discontinued unless it is considered life-saving for the mother.
-Contraction stress testing (CST), a nonstress test (NST), or biophysical profiling (BPP) may be appropriate, depending upon the week of pregnancy.
+In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
+Perform serial ultrasound examinations to assess the intra-amniotic environment.
+If oligohydramnios is observed, discontinue Lotensin, unless it is considered lifesaving for the mother.
+Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-
-Infants with histories of in utero exposure to ACE inhibitors should be closely observed for hypotension, oliguria, and hyperkalemia.
-If oliguria occurs, attention should be directed toward support of blood pressure and renal perfusion.
-Exchange transfusion or dialysis may be required as means of reversing hypotension and/or substituting for disordered renal function.
-Benazepril, which crosses the placenta, can theoretically be removed from the neonatal circulation by these means; there are occasional reports of benefit from these maneuvers with another ACE inhibitor, but experience is limited.
+Closely observe infants with histories of in utero exposure to Lotensin for hypotension, oliguria, and hyperkalemia.
+[see Precautions, Pediatric Use]
 
 No teratogenic effects of Lotensin were seen in studies of pregnant rats, mice, and rabbits.
 On a mg/m2 basis, the doses used in these studies were 60 times (in rats), 9 times (in mice), and more than 0.8 times (in rabbits) the maximum recommended human dose (assuming a 50-kg woman).
@@ -103,8 +97,8 @@ Hypotension that occurs as a result of this mechanism can be corrected by volume
 
 ## Information for Patients
 
-Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to ACE inhibitors.
-Discuss other treatment options with women planning to become pregnant.
+Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to Lotensin during pregnancy.
+Discuss treatment options with women planning to become pregnant.
 Patients should be asked to report pregnancies to their physicians as soon as possible.
 
 Angioedema: Angioedema, including laryngeal edema, can occur at any time with treatment with ACE inhibitors.
@@ -159,10 +153,6 @@ When compared on the basis of body surface areas, this dose is 18 and 9 times (r
 No mutagenic activity was detected in the Ames test in bacteria (with or without metabolic activation), in an in vitro test for forward mutations in cultured mammalian cells, or in a nucleus anomaly test.
 In doses of 50-500 mg/kg/day (6-60 times the maximum recommended human dose based on mg/m2 comparison and 37-375 times the maximum recommended human dose based on a mg/kg comparison), Lotensin had no adverse effect on the reproductive performance of male and female rats.
 
-## Pregnancy Category D
-
-See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
-
 ## Nursing Mothers
 
 Minimal amounts of unchanged benazepril and of benazeprilat are excreted into the breast milk of lactating women treated with benazepril.
@@ -177,6 +167,12 @@ Benazepril and benazeprilat are substantially excreted by the kidney.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
 ## Pediatric Use
+
+Neonates with a history of in utero exposure to Lotensin:
+
+If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
+Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
+Benazepril, which crosses the placenta, can theoretically be removed from the neonatal circulation by these means; there are occasional reports of benefit from these maneuvers with another ACE inhibitor, but experience is limited.
 
 The antihypertensive effects of Lotensin have been evaluated in a double-blind study in pediatric patients 7 to 16 years of age (see CLINICAL PHARMACOLOGY: Pharmacodynamics, Hypertension).
 The pharmacokinetics of Lotensin have been evaluated in pediatric patients 6 to 16 years of age (see CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism).

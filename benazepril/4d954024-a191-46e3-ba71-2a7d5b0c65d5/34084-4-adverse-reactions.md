@@ -31,8 +31,6 @@ Other reports included angina pectoris, palpitations, and peripheral edema.
 Renal: Of hypertensive patients with no apparent preexisting renal disease, about 2% have sustained increases in serum creatinine to at least 150% of their baseline values while receiving Lotensin, but most of these increases have disappeared despite continuing treatment.
 A much smaller fraction of these patients (less than 0.1%) developed simultaneous (usually transient) increases in blood urea nitrogen and serum creatinine.
 
-Fetal/Neonatal Morbidity and Mortality: See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
-
 Angioedema: Angioedema has been reported in patients receiving ACE inhibitors.
 During clinical trials in hypertensive patients with benazepril, 0.5% of patients experienced edema of the lips or face without other manifestations of angioedema.
 Angioedema associated with laryngeal edema and/or shock may be fatal.
