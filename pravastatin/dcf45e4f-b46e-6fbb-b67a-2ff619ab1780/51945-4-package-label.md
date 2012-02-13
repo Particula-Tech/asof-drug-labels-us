@@ -1,15 +1,47 @@
-# Principal Display Panel for 10 mg
+Representative sample of labeling (see HOW SUPPLIED section of complete listing):
 
-Representative sample of labeling (see HOW SUPPLIED section of complete listing): APOTEX CORP. NDC 60505-0168-9 Pravastatin Sodium Tablets, USP10mgRx90 count
+APOTEX CORP. NDC 60505-0168-9
 
-# Principal Display Panel for 20 mg
+Pravastatin Sodium Tablets, USP
 
-Representative sample of labeling (see HOW SUPPLIED section of complete listing): APOTEX CORP. NDC 60505-0169-9 Pravastatin Sodium Tablets, USP20mgRx90 count
+10mg
 
-# Principal Display Panel for 40 mg
+Rx
 
-Representative sample of labeling (see HOW SUPPLIED section of complete listing): APOTEX CORP. NDC 60505-0170-9 Pravastatin Sodium Tablets, USP40mgRx90 count
+90 count
 
-# Principal Display Panel for 80 mg
+Representative sample of labeling (see HOW SUPPLIED section of complete listing):
 
-Representative sample of labeling (see HOW SUPPLIED section of complete listing): APOTEX CORP. NDC 60505-1323-9 Pravastatin Sodium Tablets, USP80mgRx90 count
+APOTEX CORP. NDC 60505-0169-9
+
+Pravastatin Sodium Tablets, USP
+
+20mg
+
+Rx
+
+90 count
+
+Representative sample of labeling (see HOW SUPPLIED section of complete listing):
+
+APOTEX CORP. NDC 60505-0170-9
+
+Pravastatin Sodium Tablets, USP
+
+40mg
+
+Rx
+
+90 count
+
+Representative sample of labeling (see HOW SUPPLIED section of complete listing):
+
+APOTEX CORP. NDC 60505-1323-9
+
+Pravastatin Sodium Tablets, USP
+
+80mg
+
+Rx
+
+90 count
