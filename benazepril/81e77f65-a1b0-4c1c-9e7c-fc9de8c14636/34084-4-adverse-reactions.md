@@ -58,8 +58,6 @@ Respiratory: Upper respiratory infection*, epistaxis, bronchitis, rhinitis*, sin
 
 Other: Conjunctivitis, arthritis, urinary tract infection, alopecia, and urinary frequency*.
 
-Fetal/Neonatal Morbidity and Mortality: See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
-
 Monotherapy with benazepril has been evaluated for safety in over 6000 patients.
 In clinical trials, the observed adverse reactions to benazepril were similar to those seen in trials of Lotensin HCT.
 In post-marketing experience with benazepril, there have been rare reports of Stevens-Johnson syndrome, pancreatitis, hemolytic anemia, pemphigus, and thrombo-cytopenia.
