@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA091424"
+  ],
+  "inn": "minocycline",
+  "labeler": "LUPIN PHARMACEUTICALS INC",
+  "package_ndcs": [
+    "68180-379-01",
+    "68180-379-06",
+    "68180-380-01",
+    "68180-380-06",
+    "68180-381-01",
+    "68180-381-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "minocycline hydrochloride",
+      "name": "Minocycline Hydrochloride"
+    }
+  ],
+  "setid": "3b1e1cf1-ebd2-4aba-a219-9f9939fdb03b",
+  "source": "dailymed"
+}
