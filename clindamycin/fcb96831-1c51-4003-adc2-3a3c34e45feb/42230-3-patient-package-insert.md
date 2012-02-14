@@ -98,8 +98,8 @@ What should I avoid while using EVOCLIN Foam?
 
 - EVOCLIN Foam is flammable.
   Avoid fire, flames, or smoking during and right after you apply EVOCLIN Foam to your skin.
-- Avoid getting EVOCLIN Foam in or near your eyes.
-  If you get EVOCLIN Foam in your eyes, rinse your eyes well with water.
+- Avoid getting EVOCLIN Foam in or near your eyes, mouth, lips, or broken skin.
+  If you get EVOCLIN Foam in your eyes, mouth, on lips or broken skin, rinse well with water.
 
 What are possible side effects with EVOCLIN Foam?
 
@@ -113,6 +113,7 @@ The most common side effects of EVOCLIN Foam include:
 
 - Skin irritation.
   EVOCLIN Foam may cause skin irritation such as burning, itching, or dryness.
+  Stop using EVOCLIN Foam and talk with your doctor if you develop any excessive skin irritation.
 - Headache.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
@@ -126,7 +127,7 @@ You may report side effects to Stiefel at 1-888-784-3335 (1-888- STIEFEL).
 
 How should I store EVOCLIN Foam?
 
-- Store EVOCLIN Foam at room temperature between 68° to 77°F (20° to 25°C).
+- Store EVOCLIN Foam at room temperature between 68°F to 77°F (20°C to 25°C).
 - Keep EVOCLIN Foam away from heat.
   Never throw the can into a fire, even if the can is empty.
 - Do not store EVOCLIN Foam at temperatures above 120°F (49°C).
@@ -160,10 +161,10 @@ Stiefel Laboratories, Inc.
 
 Research Triangle Park, NC 27709
 
-EVC:2PIL
+EVC:3PIL
 
 EVOCLIN is a registered trademark of Stiefel Laboratories, Inc.
 
-©2010 Stiefel Laboratories, Inc.
+©2012 Stiefel Laboratories, Inc.
 
-December/2010
+Jan/2012

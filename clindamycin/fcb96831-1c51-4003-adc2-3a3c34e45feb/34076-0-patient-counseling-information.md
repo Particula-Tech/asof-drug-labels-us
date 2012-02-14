@@ -12,9 +12,12 @@ See FDA-Approved patient labeling (Patient Information).
 ## 17.2 Skin Irritation
 
 EVOCLIN Foam may cause irritation such as erythema, scaling, itching, burning, or stinging.
+Patients should be advised to discontinue use if excessive irritancy or dermatitis occurs.
 
 ## 17.3 Colitis
 
 In the event a patient treated with EVOCLIN Foam experiences severe diarrhea or gastrointestinal discomfort, EVOCLIN Foam should be discontinued and a physician should be contacted.
 
-EVC:2PI
+EVC:3PI
+
+Pharmacist-Detach here and Give Instructions to Patient

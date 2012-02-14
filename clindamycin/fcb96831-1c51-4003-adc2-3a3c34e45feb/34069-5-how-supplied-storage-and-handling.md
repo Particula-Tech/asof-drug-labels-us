@@ -10,7 +10,7 @@ It is available in the following sizes:
 
 ## 16.2 Storage and Handling
 
-Store at controlled room temperature between 68° to 77°F (20° to 25°C).
+Store at controlled room temperature between 68°F to 77°F (20°C to 25°C).
 
 Flammable.
 Avoid fire, flame or smoking during and immediately following application.
