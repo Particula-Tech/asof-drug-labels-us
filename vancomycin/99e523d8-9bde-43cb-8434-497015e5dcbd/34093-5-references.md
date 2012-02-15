@@ -1,16 +1,16 @@
 # REFERENCES
 
-1. Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard – 7th ed., CLSI document M7-A7.
+1. Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard – Eighth ed., CLSI document M07-A8.
    Clinical and Laboratory Standards Institute.
    Wayne, PA.
-   January, 2006.
-2. Performance Standards for Antimicrobial Susceptibility Testing; 18th Informational Supplement, CLSI document M100-S18.
+   January, 2009.
+2. Performance Standards for Antimicrobial Susceptibility Testing; Twenty-First Informational Supplement, CLSI document M100-S21.
    Clinical and Laboratory Standards Institute.
    Wayne, PA.
-   January, 2008.
-3. Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard – 9th ed., CLSI document M2-A9.
+   January, 2011.
+3. Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard – Tenth ed., CLSI document M02-A10.
    Clinical and Laboratory Standards Institute.
    Wayne, PA.
-   January, 2006.
+   January, 2009.
 4. Moellering RC, Krogstad DJ, Greenblatt DJ: Vancomycin therapy in patients with impaired renal function: A nomogram for dosage.
    Ann Inter Med 1981;94:343.
