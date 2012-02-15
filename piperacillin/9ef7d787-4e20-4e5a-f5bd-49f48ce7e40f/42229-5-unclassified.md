@@ -1,5 +1,3 @@
-Rx only
-
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of ZOSYN® (piperacillin and tazobactam) injection and other antibacterial drugs, ZOSYN (piperacillin and tazobactam) should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
 # STORAGE
@@ -38,3 +36,20 @@ Preparation for administration:
    Refer to complete directions accompanying set.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+
+DIASTIX is a registered trademark of Bayer Healthcare LLC.
+
+CLINITEST is a registered trademark of Siemens Healthcare Diagnostics Inc.
+
+Galaxy is a registered trademark of Baxter International Inc.
+
+|  | This product's label may have been updated. For current package insert and further product information, please visit www.pfizer.com or call our medical communications department toll-free at 1-800-438-1985. |  |
+| --- | --- | --- |
+
+Distributed by Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.
+
+Manufactured by Baxter Healthcare Corporation, Deerfield, IL 60015
+
+LAB-0448-4.0
+
+September 2011
