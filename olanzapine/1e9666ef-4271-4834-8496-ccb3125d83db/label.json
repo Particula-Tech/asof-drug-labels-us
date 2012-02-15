@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA201588"
+  ],
+  "inn": "olanzapine",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-3159-72"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "olanzapine",
+      "name": "Olanzapine"
+    }
+  ],
+  "setid": "1e9666ef-4271-4834-8496-ccb3125d83db",
+  "source": "dailymed"
+}
