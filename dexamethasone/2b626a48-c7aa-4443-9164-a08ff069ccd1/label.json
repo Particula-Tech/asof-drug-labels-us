@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA084916"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-165-01",
+    "63323-165-05",
+    "63323-165-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dexamethasone sodium phosphate",
+      "name": "Dexamethasone Sodium Phosphate"
+    }
+  ],
+  "setid": "2b626a48-c7aa-4443-9164-a08ff069ccd1",
+  "source": "dailymed"
+}
