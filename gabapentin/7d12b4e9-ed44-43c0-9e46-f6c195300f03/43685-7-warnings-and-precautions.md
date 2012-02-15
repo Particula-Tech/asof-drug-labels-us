@@ -53,7 +53,19 @@ In clinical trials of gabapentin therapy in epilepsy comprising 2,085 patient-ye
 However, no similar patient population untreated with gabapentin was available to provide background tumor incidence and recurrence information for comparison.
 Therefore, the effect of gabapentin therapy on the incidence of new tumors in humans or on the worsening or recurrence of previously diagnosed tumors is unknown.
 
-## 5.4 Laboratory Tests
+## 5.4 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
+
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan Hypersensitivity, has been reported in patients taking antiepileptic drugs, including GRALISE.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
+Eosinophilia is oftem present.
+Because this disorder is variable in its expression, other organ systems not noted here may be involved.
+
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+GRALISE should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
+
+## 5.5 Laboratory Tests
 
 Clinical trial data do not indicate that routine monitoring of clinical laboratory procedures is necessary for the safe use of GRALISE.
 The value of monitoring gabapentin blood concentrations has not been established.
