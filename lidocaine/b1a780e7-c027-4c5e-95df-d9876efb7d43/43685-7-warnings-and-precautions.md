@@ -3,6 +3,12 @@
 4% XYLOCAINE-MPF STERILE SOLUTION SHOULD BE EMPLOYED ONLY BY CLINICIANS WHO ARE WELL VERSED IN DIAGNOSIS AND MANAGEMENT OF DOSE-RELATED TOXICITY AND OTHER ACUTE EMERGENCIES THAT MIGHT ARISE AND THEN ONLY AFTER ENSURING THE IMMEDIATE AVAILABILITY OF OXYGEN, OTHER RESUSCITATIVE DRUGS, CARDIOPULMONARY EQUIPMENT, AND THE PERSONNEL NEEDED FOR PROPER MANAGEMENT OF TOXIC REACTIONS AND RELATED EMERGENCIES (see also ADVERSE REACTIONS and PRECAUTIONS).
 DELAY IN PROPER MANAGEMENT OF DOSE-RELATED TOXICITY, UNDERVENTILATION FROM ANY CAUSE AND/OR ALTERED SENSITIVITY MAY LEAD TO THE DEVELOPMENT OF ACIDOSIS, CARDIAC ARREST AND, POSSIBLY, DEATH.
 
+Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
+The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humeral chondrolysis have been described in pediatric and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
+There is insufficient information to determine whether shorter infusion periods are not associated with these findings.
+The time of onset of symptoms, such as joint pain, stiffness and loss of motion can be variable, but may begin as early as the 2nd month after surgery.
+Currently, there is no effective treatment for chondrolysis; patients who experienced chondrolysis have required additional diagnostic and therapeutic procedures and some required arthroplasty or shoulder replacement.
+
 To avoid intravascular injection, aspiration should be performed before the local anesthetic solution is injected.
 The needle must be repositioned until no return of blood can be elicited by aspiration.
 Note, however, that the absence of blood in the syringe does not guarantee that intravascular injection has been avoided.
@@ -14,8 +20,7 @@ Note, however, that the absence of blood in the syringe does not guarantee that 
 ## General
 
 The safety and effectiveness of lidocaine depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
-Resuscitative equipment, oxygen and other resuscitative drugs should be available for immediate use.
-(See WARNINGS and ADVERSE REACTIONS.)
+Resuscitative equipment, oxygen and other resuscitative drugs should be available for immediate use (see WARNINGS and ADVERSE REACTIONS).
 The lowest dosage that results in effective anesthesia should be used to avoid high plasma levels and serious adverse effects.
 Repeated doses of lidocaine may cause significant increases in blood levels with each repeated dose, because of slow accumulation of the drug or its metabolites.
 Tolerance to elevated blood levels varies with the status of the patient.
@@ -54,8 +59,7 @@ Confusion, convulsions, respiratory depression and/or respiratory arrest, and ca
 These reactions may be due to intra-arterial injection of the local anesthetic with retrograde flow to the cerebral circulation.
 Patients receiving these blocks should have their circulation and respiration monitored and be constantly observed.
 Resuscitative equipment and personnel for treating adverse reactions should be immediately available.
-Dosage recommendations should not be exceeded.
-(See DOSAGE AND ADMINISTRATION.)
+Dosage recommendations should not be exceeded (see DOSAGE AND ADMINISTRATION).
 
 ## Information for Patients
 

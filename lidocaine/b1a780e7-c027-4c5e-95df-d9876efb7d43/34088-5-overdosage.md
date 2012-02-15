@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Acute emergencies from local anesthetics are generally related to high plasma levels encountered during therapeutic use of local anesthetics or to unintended subarachnoid injection of local anesthetic solution (see ADVERSE REACTIONS,WARNINGS, and PRECAUTIONS).
+Acute emergencies from local anesthetics are generally related to high plasma levels encountered during therapeutic use of local anesthetics or to unintended subarachnoid injection of local anesthetic solution (see ADVERSE REACTIONS, WARNINGS, and PRECAUTIONS).
 
 ## Management of Local Anesthetic Emergencies
 
@@ -20,4 +20,4 @@ Endotracheal intubation, employing drugs and techniques familiar to the clinicia
 
 Dialysis is of negligible value in the treatment of acute overdosage with lidocaine.
 
-The intravenous LD50 of lidocaine HCl in female mice is 26 (21-31) mg/kg and the subcutaneous LD50 is 264 (203-304) mg/kg.
+The intravenous LD50 of lidocaine HCl in female mice is 26 (21 to 31) mg/kg and the subcutaneous LD50 is 264 (203 to 304) mg/kg.

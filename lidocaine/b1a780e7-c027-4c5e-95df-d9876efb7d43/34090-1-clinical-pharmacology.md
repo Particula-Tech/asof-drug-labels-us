@@ -45,4 +45,4 @@ Renal dysfunction does not affect lidocaine kinetics but may increase the accumu
 
 Factors such as acidosis and the use of CNS stimulants and depressants affect the CNS levels of lidocaine required to produce overt systemic effects.
 Objective adverse manifestations become increasingly apparent with increasing venous plasma levels above 6 mcg free base per mL.
-In the rhesus monkey arterial blood levels of 18-21 mcg/mL have been shown to be threshold for convulsive activity.
+In the rhesus monkey arterial blood levels of 18 to 21 mcg/mL have been shown to be threshold for convulsive activity.
