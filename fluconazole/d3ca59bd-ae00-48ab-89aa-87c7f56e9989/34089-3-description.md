@@ -7,7 +7,7 @@ The structural formula is:
 
 Fluconazole is a white crystalline solid which is slightly soluble in water and saline.
 
-Fluconazole injection is an iso-osmotic, sterile, nonpyrogenic solution of fluconazole in a sodium chloride diluent.
-Each mL contains 2 mg of fluconazole and 9 mg of sodium chloride.
+Fluconazole Injection, USP is an iso-osmotic, sterile, nonpyrogenic solution of Fluconazole, USP in a sodium chloride diluent.
+Each mL contains 2 mg of Fluconazole, USP and 9 mg of Sodium Chloride, USP.
 The pH ranges from 4.0 to 8.0 in the sodium chloride diluent.
 Injection volumes of 100 mL are packaged in glass containers.

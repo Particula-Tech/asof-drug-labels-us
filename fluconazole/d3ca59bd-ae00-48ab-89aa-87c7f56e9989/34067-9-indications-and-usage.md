@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Fluconazole injection is indicated for the treatment of:
+Fluconazole Injection, USP is indicated for the treatment of:
 
 1.
 Oropharyngeal and esophageal candidiasis.

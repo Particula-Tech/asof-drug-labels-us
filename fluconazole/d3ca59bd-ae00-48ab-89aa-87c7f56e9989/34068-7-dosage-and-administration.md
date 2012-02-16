@@ -28,18 +28,18 @@ In open, noncomparative studies of small numbers of patients, doses of up to 400
 
 ### Urinary tract infections and peritonitis
 
-For the treatment of Candida urinary tract infections and peritonitis, daily doses of 50-200 mg have been used in open, noncomparative studies of small numbers of patients.
+For the treatment of Candida urinary tract infections and peritonitis, daily doses of 50 to 200 mg have been used in open, noncomparative studies of small numbers of patients.
 
 ### Cryptococcal meningitis
 
 The recommended dosage for treatment of acute cryptococcal meningitis is 400 mg on the first day, followed by 200 mg once daily.
 A dosage of 400 mg once daily may be used, based on medical judgment of the patient’s response to therapy.
-The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10-12 weeks after the cerebrospinal fluid becomes culture negative.
+The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10 to 12 weeks after the cerebrospinal fluid becomes culture negative.
 The recommended dosage of fluconazole for suppression of relapse of cryptoccocal meningitis in patients with AIDS is 200 mg once daily.
 
 ### Prophylaxis in patients undergoing bone marrow transplantation
 
-The recommended fluconazole daily dosage for the prevention of candidiasis of patients undergoing bone marrow transplantation is 400 mg, once daily.
+The recommended fluconazole daily dosage for the prevention of candidiasis in patients undergoing bone marrow transplantation is 400 mg, once daily.
 Patients who are anticipated to have severe granulocytopenia (less than 500 neutrophils per cu mm) should start fluconazole prophylaxis several days before the anticipated onset of neutropenia, and continue for 7 days after the neutrophil count rises above 1000 cells per cu mm.
 
 ## Dosage and Administration in Children
@@ -66,18 +66,18 @@ Treatment should be administered for at least 2 weeks to decrease the likelihood
 ### Esophageal candidiasis
 
 For the treatment of esophageal candidiasis, the recommended dosage of fluconazole in children is 6 mg/kg on the first day, followed by 3 mg/kg once daily.
-Doses up to 12 mg/kg/day may be used based on medical judgment of the patient’s response to therapy.
+Doses up to 12 mg/kg/day may be used, based on medical judgment of the patient’s response to therapy.
 Patients with esophageal candidiasis should be treated for a minimum of three weeks and for at least 2 weeks following the resolution of symptoms.
 
 ### Systemic Candida infections
 
-For the treatment of candidemia and disseminated Candida infections, daily doses of 6-12 mg/kg/day have been used in an open, noncomparative study of a small number of children.
+For the treatment of candidemia and disseminated Candida infections, daily doses of 6 to 12 mg/kg/day have been used in an open, noncomparative study of a small number of children.
 
 ### Cryptococcal meningitis
 
-For the treatment of acute cryptococcal meningitis, the recommended dosage is 12 mg/‌kg on the first day, followed by 6 mg/kg once daily.
+For the treatment of acute cryptococcal meningitis, the recommended dosage is 12 mg/kg on the first day, followed by 6 mg/kg once daily.
 A dosage of 12 mg/kg once daily may be used, based on medical judgment of the patient’s response to therapy.
-The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10-12 weeks after the cerebrospinal fluid becomes culture negative.
+The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10 to 12 weeks after the cerebrospinal fluid becomes culture negative.
 For suppression of relapse of cryptococcal meningitis in children with AIDS, the recommended dose of fluconazole is 6 mg/kg once daily.
 
 ## Dosage In Patients With Impaired Renal Function
@@ -115,7 +115,7 @@ Fluconazole can be taken with or without food.
 Fluconazole injection has been used safely for up to fourteen days of intravenous therapy.
 The intravenous infusion of fluconazole should be administered at a maximum rate of approximately 200 mg/hour, given as a continuous infusion.
 
-Fluconazole injections in glass containers is intended only for intravenous administration using sterile equipment.
+Fluconazole injection in glass containers is intended only for intravenous administration using sterile equipment.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
