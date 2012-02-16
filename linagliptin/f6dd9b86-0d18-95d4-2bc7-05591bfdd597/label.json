@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA201281"
+  ],
+  "inn": "linagliptin",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0597-0146-18",
+    "0597-0146-60",
+    "0597-0146-66",
+    "0597-0146-72",
+    "0597-0147-18",
+    "0597-0147-60",
+    "0597-0147-66",
+    "0597-0147-72",
+    "0597-0148-18",
+    "0597-0148-60",
+    "0597-0148-66",
+    "0597-0148-72"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "linagliptin",
+      "name": "Jentadueto"
+    }
+  ],
+  "setid": "f6dd9b86-0d18-95d4-2bc7-05591bfdd597",
+  "source": "dailymed"
+}
