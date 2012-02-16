@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-The toxic concentrations for lithium (1.5 mEq/ L) are close to the therapeutic concentrations (0.6-1.2 mEq/L).
+The toxic concentrations for lithium (≥ 1.5 mEq/L) are close to the therapeutic concentrations (0.6-1.2 mEq/L).
 It is therefore important that patients and their families be cautioned to watch for early toxic symptoms and to discontinue the drug and inform the physician should they occur.
 (Toxic symptoms are listed in detail under ADVERSE REACTIONS.)
 Treatment No specific antidote for lithium poisoning is known.

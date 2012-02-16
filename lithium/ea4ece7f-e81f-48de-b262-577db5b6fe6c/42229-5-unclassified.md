@@ -17,7 +17,7 @@ When given to a patient experiencing a manic episode, lithium may produce a norm
 
 # Usage in Pregnancy
 
-Adverse effects on nidationin rats, embryo viability in mice, and metabolism in vitro of rat testis and human spermatozoa have been attributed to lithium, as have teratogenicity in submammalian species and cleft palate in mice.
+Adverse effects on nidation in rats, embryo viability in mice, and metabolism in vitro of rat testis and human spermatozoa have been attributed to lithium, as have teratogenicity in submammalian species and cleft palate in mice.
 In humans, lithium may cause fetal harm when administered to a pregnant woman.
 Data from lithium birth registries suggest an increase in cardiac and other anomalies, especially Ebstein's anomaly.
 If this drug is used in women of childbearing potential, or during pregnancy, or if a patient becomes pregnant while taking this drug, the patient should be apprised by their physician of the potential hazard to the fetus.
