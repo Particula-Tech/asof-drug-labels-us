@@ -1,7 +1,8 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-- Abnormalities of the esophagus which delay esophageal emptying such as stricture or achalasia
-- Inability to stand or sit upright for at least 30 minutes (see WARNINGS)
-- Patients at increased risk of aspiration should not receive FOSAMAX oral solution.
-- Hypersensitivity to any component of this product
-- Hypocalcemia (see PRECAUTIONS, General)
+- Abnormalities of the esophagus which delay esophageal emptying such as stricture or achalasia [see Warnings and Precautions (5.1)]
+- Inability to stand or sit upright for at least 30 minutes [see Dosage and Administration (2.6); Warnings and Precautions (5.1)]
+- Do not administer FOSAMAX oral solution to patients at increased risk of aspiration.
+- Hypocalcemia [see Warnings and Precautions (5.2)]
+- Hypersensitivity to any component of this product.
+  Hypersensitivity reactions including urticaria and angioedema have been reported [see Adverse Reactions (6.2)].

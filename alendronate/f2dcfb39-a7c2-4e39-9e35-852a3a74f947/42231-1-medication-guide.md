@@ -1,6 +1,4 @@
-# MEDICATION GUIDE
-
-FOSAMAX® (FOSS-ah-max) (alendronate sodium) Tablets and Oral Solution
+MEDICATION GUIDE FOSAMAX® (FOSS-ah-max) (alendronate sodium) Tablets and Oral Solution
 
 Read the Medication Guide that comes with FOSAMAX® before you start taking it and each time you get a refill.
 There may be new information.
@@ -11,37 +9,42 @@ What is the most important information I should know about FOSAMAX?
 
 FOSAMAX can cause serious side effects including:
 
-1. Esophagus problems
-2. Low calcium levels in your blood (hypocalcemia)
-3. Bone, joint, or muscle pain
-4. Severe jaw bone problems (osteonecrosis)
-5. Unusual thigh bone fractures
+- 1.
+  Esophagus problems
+- 2.
+  Low calcium levels in your blood (hypocalcemia)
+- 3.
+  Bone, joint, or muscle pain
+- 4.
+  Severe jaw bone problems (osteonecrosis)
+- 5.
+  Unusual thigh bone fractures
 
-1. Esophagus problems.
-   Some people who take FOSAMAX may develop problems in the esophagus (the tube that connects the mouth and the stomach).
-   These problems include irritation, inflammation, or ulcers of the esophagus which may sometimes bleed.
-   - It is important that you take FOSAMAX exactly as prescribed to help lower your chance of getting esophagus problems.
-     (See the section “How should I take FOSAMAX?”)
-   - Stop taking FOSAMAX and call your doctor right away if you get chest pain, new or worsening heartburn, or have trouble or pain when you swallow.
-2. Low calcium levels in your blood (hypocalcemia).
-   FOSAMAX may lower the calcium levels in your blood.
-   If you have low blood calcium before you start taking FOSAMAX, it may get worse during treatment.
-   Your low blood calcium must be treated before you take FOSAMAX.
-   Most people with low blood calcium levels do not have symptoms, but some people may have symptoms.
-   Call your doctor right away if you have symptoms of low blood calcium such as: Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood, while you take FOSAMAX.
-   Take calcium and vitamin D as your doctor tells you to.
-   - Spasms, twitches, or cramps in your muscles
-   - Numbness or tingling in your fingers, toes, or around your mouth
-3. Bone, joint, or muscle pain.
-   Some people who take FOSAMAX develop severe bone, joint, or muscle pain.
-4. Severe jaw bone problems (osteonecrosis).
-   Severe jaw bone problems may happen when you take FOSAMAX.
-   Your doctor should examine your mouth before you start FOSAMAX.
-   Your doctor may tell you to see your dentist before you start FOSAMAX.
-   It is important for you to practice good mouth care during treatment with FOSAMAX.
-5. Unusual thigh bone fractures.
-   Some people have developed unusual fractures in their thigh bone.
-   Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
+- 1.Esophagus problems.
+  Some people who take FOSAMAX may develop problems in the esophagus (the tube that connects the mouth and the stomach).
+  These problems include irritation, inflammation, or ulcers of the esophagus which may sometimes bleed.
+  - It is important that you take FOSAMAX exactly as prescribed to help lower your chance of getting esophagus problems.
+    (See the section "How should I take FOSAMAX?")
+  - Stop taking FOSAMAX and call your doctor right away if you get chest pain, new or worsening heartburn, or have trouble or pain when you swallow.
+- 2.Low calcium levels in your blood (hypocalcemia).
+  FOSAMAX may lower the calcium levels in your blood.
+  If you have low blood calcium before you start taking FOSAMAX, it may get worse during treatment.
+  Your low blood calcium must be treated before you take FOSAMAX.
+  Most people with low blood calcium levels do not have symptoms, but some people may have symptoms.
+  Call your doctor right away if you have symptoms of low blood calcium such as: Your doctor may prescribe calcium and vitamin D to help prevent low calcium levels in your blood, while you take FOSAMAX.
+  Take calcium and vitamin D as your doctor tells you to.
+  - Spasms, twitches, or cramps in your muscles
+  - Numbness or tingling in your fingers, toes, or around your mouth
+- 3.Bone, joint, or muscle pain.
+  Some people who take FOSAMAX develop severe bone, joint, or muscle pain.
+- 4.Severe jaw bone problems (osteonecrosis).
+  Severe jaw bone problems may happen when you take FOSAMAX.
+  Your doctor should examine your mouth before you start FOSAMAX.
+  Your doctor may tell you to see your dentist before you start FOSAMAX.
+  It is important for you to practice good mouth care during treatment with FOSAMAX.
+- 5.Unusual thigh bone fractures.
+  Some people have developed unusual fractures in their thigh bone.
+  Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
 
 Call your doctor right away if you have any of these side effects.
 
@@ -106,15 +109,14 @@ How should I take FOSAMAX?
 - Do not chew or suck on a tablet of FOSAMAX.
 - Swallow FOSAMAX tablet with a full glass (6-8 oz) of plain water only.
 - Do not take FOSAMAX with mineral water, coffee, tea, soda, or juice.
-
-- If you take FOSAMAX Daily:
-  - Take 1 FOSAMAX tablet one time a day, every day after you get up for the day and before taking your first food, drink, or other medicine.
-- If you take Once Weekly FOSAMAX:
-  - Choose the day of the week that best fits your schedule.
-  - Take 1 dose of FOSAMAX every week on your chosen day after you get up for the day and before taking your first food, drink, or other medicine.
-- If you take FOSAMAX Oral Solution:
-  - Drink your prescribed dose of FOSAMAX Oral Solution every week on your chosen day after you get up for the day and before taking your first food, drink or other medicine.
-    Drink at least 2 ounces of plain water after you drink FOSAMAX Oral Solution.
+  - If you take FOSAMAX Daily:
+    - Take 1 FOSAMAX tablet one time a day, every day after you get up for the day and before taking your first food, drink, or other medicine.
+  - If you take Once Weekly FOSAMAX:
+    - Choose the day of the week that best fits your schedule.
+    - Take 1 dose of FOSAMAX every week on your chosen day after you get up for the day and before taking your first food, drink, or other medicine.
+  - If you take FOSAMAX Oral Solution:
+    - Drink your prescribed dose of FOSAMAX Oral Solution every week on your chosen day after you get up for the day and before taking your first food, drink or other medicine.
+      Drink at least 2 ounces of plain water after you drink FOSAMAX Oral Solution.
 
 After swallowing FOSAMAX tablet or oral solution, wait at least 30 minutes:
 
@@ -137,7 +139,7 @@ What are the possible side effects of FOSAMAX?
 
 FOSAMAX may cause serious side effects.
 
-- See “What is the most important information I should know about FOSAMAX?”
+- See "What is the most important information I should know about FOSAMAX?"
 
 The most common side effects of FOSAMAX are:
 
@@ -193,13 +195,3 @@ Oral Solution:
 Active ingredient: alendronate monosodium salt trihydrate
 
 Inactive ingredients: sodium citrate dihydrate, citric acid anhydrous, sodium saccharin, artificial raspberry flavor, water, sodium propylparaben 0.0225%, sodium butylparaben 0.0075%.
-
-Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
-
-Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
-
-Revised July 2011
-
-6013412
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.

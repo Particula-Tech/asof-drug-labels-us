@@ -1,6 +1,6 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
 Animal studies have indicated the following mode of action.
 At the cellular level, alendronate shows preferential localization to sites of bone resorption, specifically under osteoclasts.
@@ -13,93 +13,12 @@ Thus, alendronate must be continuously administered to suppress osteoclasts on n
 Histomorphometry in baboons and rats showed that alendronate treatment reduces bone turnover (i.e., the number of sites at which bone is remodeled).
 In addition, bone formation exceeds bone resorption at these remodeling sites, leading to progressive gains in bone mass.
 
-## Pharmacokinetics
-
-### Absorption
-
-Relative to an intravenous (IV) reference dose, the mean oral bioavailability of alendronate in women was 0.64% for doses ranging from 5 to 70 mg when administered after an overnight fast and two hours before a standardized breakfast.
-Oral bioavailability of the 10 mg tablet in men (0.59%) was similar to that in women when administered after an overnight fast and 2 hours before breakfast.
-
-FOSAMAX 70 mg oral solution and FOSAMAX 70 mg tablet are equally bioavailable.
-
-A study examining the effect of timing of a meal on the bioavailability of alendronate was performed in 49 postmenopausal women.
-Bioavailability was decreased (by approximately 40%) when 10 mg alendronate was administered either 0.5 or 1 hour before a standardized breakfast, when compared to dosing 2 hours before eating.
-In studies of treatment and prevention of osteoporosis, alendronate was effective when administered at least 30 minutes before breakfast.
-
-Bioavailability was negligible whether alendronate was administered with or up to two hours after a standardized breakfast.
-Concomitant administration of alendronate with coffee or orange juice reduced bioavailability by approximately 60%.
-
-### Distribution
-
-Preclinical studies (in male rats) show that alendronate transiently distributes to soft tissues following 1 mg/kg IV administration but is then rapidly redistributed to bone or excreted in the urine.
-The mean steady-state volume of distribution, exclusive of bone, is at least 28 L in humans.
-Concentrations of drug in plasma following therapeutic oral doses are too low (less than 5 ng/mL) for analytical detection.
-Protein binding in human plasma is approximately 78%.
-
-### Metabolism
-
-There is no evidence that alendronate is metabolized in animals or humans.
-
-### Excretion
-
-Following a single IV dose of [14C]alendronate, approximately 50% of the radioactivity was excreted in the urine within 72 hours and little or no radioactivity was recovered in the feces.
-Following a single 10 mg IV dose, the renal clearance of alendronate was 71 mL/min (64, 78; 90% confidence interval [CI]), and systemic clearance did not exceed 200 mL/min.
-Plasma concentrations fell by more than 95% within 6 hours following IV administration.
-The terminal half-life in humans is estimated to exceed 10 years, probably reflecting release of alendronate from the skeleton.
-Based on the above, it is estimated that after 10 years of oral treatment with FOSAMAX (10 mg daily) the amount of alendronate released daily from the skeleton is approximately 25% of that absorbed from the gastrointestinal tract.
-
-### Special Populations
-
-#### Pediatric:
-
-The oral bioavailability in children was similar to that observed in adults; however, FOSAMAX is not indicated for use in children (see PRECAUTIONS, Pediatric Use).
-
-#### Gender:
-
-Bioavailability and the fraction of an IV dose excreted in urine were similar in men and women.
-
-#### Geriatric:
-
-Bioavailability and disposition (urinary excretion) were similar in elderly and younger patients.
-No dosage adjustment is necessary (see DOSAGE AND ADMINISTRATION).
-
-#### Race:
-
-Pharmacokinetic differences due to race have not been studied.
-
-#### Renal Insufficiency:
-
-Preclinical studies show that, in rats with kidney failure, increasing amounts of drug are present in plasma, kidney, spleen, and tibia.
-In healthy controls, drug that is not deposited in bone is rapidly excreted in the urine.
-No evidence of saturation of bone uptake was found after 3 weeks dosing with cumulative IV doses of 35 mg/kg in young male rats.
-Although no clinical information is available, it is likely that, as in animals, elimination of alendronate via the kidney will be reduced in patients with impaired renal function.
-Therefore, somewhat greater accumulation of alendronate in bone might be expected in patients with impaired renal function.
-
-No dosage adjustment is necessary for patients with mild-to-moderate renal insufficiency (creatinine clearance 35 to 60 mL/min).
-FOSAMAX is not recommended for patients with more severe renal insufficiency (creatinine clearance <35 mL/min) due to lack of experience with alendronate in renal failure.
-
-#### Hepatic Insufficiency:
-
-As there is evidence that alendronate is not metabolized or excreted in the bile, no studies were conducted in patients with hepatic insufficiency.
-No dosage adjustment is necessary.
-
-## Drug Interactions
-
-(also see PRECAUTIONS, Drug Interactions)
-
-Intravenous ranitidine was shown to double the bioavailability of oral alendronate.
-The clinical significance of this increased bioavailability and whether similar increases will occur in patients given oral H2-antagonists is unknown.
-
-In healthy subjects, oral prednisone (20 mg three times daily for five days) did not produce a clinically meaningful change in the oral bioavailability of alendronate (a mean increase ranging from 20 to 44%).
-
-Products containing calcium and other multivalent cations are likely to interfere with absorption of alendronate.
-
-## Pharmacodynamics
+## 12.2 Pharmacodynamics
 
 Alendronate is a bisphosphonate that binds to bone hydroxyapatite and specifically inhibits the activity of osteoclasts, the bone-resorbing cells.
 Alendronate reduces bone resorption with no direct effect on bone formation, although the latter process is ultimately reduced because bone resorption and formation are coupled during bone turnover.
 
-## Osteoporosis in postmenopausal women
+Osteoporosis in Postmenopausal Women
 
 Osteoporosis is characterized by low bone mass that leads to an increased risk of fracture.
 The diagnosis can be confirmed by the finding of low bone mass, evidence of fracture on x-ray, a history of osteoporotic fracture, or height loss or kyphosis, indicative of vertebral (spinal) fracture.
@@ -128,12 +47,12 @@ Similar reductions were observed with FOSAMAX 5 mg/day.
 In one-year studies with once weekly FOSAMAX 35 and 70 mg, similar reductions were observed at 6 and 12 months.
 The reduction in serum phosphate may reflect not only the positive bone mineral balance due to FOSAMAX but also a decrease in renal phosphate reabsorption.
 
-## Osteoporosis in men
+Osteoporosis in Men
 
 Treatment of men with osteoporosis with FOSAMAX 10 mg/day for two years reduced urinary excretion of cross-linked N-telopeptides of type I collagen by approximately 60% and bone-specific alkaline phosphatase by approximately 40%.
 Similar reductions were observed in a one-year study in men with osteoporosis receiving once weekly FOSAMAX 70 mg.
 
-## Glucocorticoid-induced Osteoporosis
+Glucocorticoid-Induced Osteoporosis
 
 Sustained use of glucocorticoids is commonly associated with development of osteoporosis and resulting fractures (especially vertebral, hip, and rib).
 It occurs both in males and females of all ages.
@@ -143,7 +62,7 @@ Alendronate decreases bone resorption without directly inhibiting bone formation
 In clinical studies of up to two years' duration, FOSAMAX 5 and 10 mg/day reduced cross-linked N-telopeptides of type I collagen (a marker of bone resorption) by approximately 60% and reduced bone-specific alkaline phosphatase and total serum alkaline phosphatase (markers of bone formation) by approximately 15 to 30% and 8 to 18%, respectively.
 As a result of inhibition of bone resorption, FOSAMAX 5 and 10 mg/day induced asymptomatic decreases in serum calcium (approximately 1 to 2%) and serum phosphate (approximately 1 to 8%).
 
-## Paget's disease of bone
+Paget's Disease of Bone
 
 Paget's disease of bone is a chronic, focal skeletal disorder characterized by greatly increased and disorderly bone remodeling.
 Excessive osteoclastic bone resorption is followed by osteoblastic new bone formation, leading to the replacement of the normal bone architecture by disorganized, enlarged, and weakened bone structure.
@@ -155,192 +74,67 @@ FOSAMAX decreases the rate of bone resorption directly, which leads to an indire
 In clinical trials, FOSAMAX 40 mg once daily for six months produced significant decreases in serum alkaline phosphatase as well as in urinary markers of bone collagen degradation.
 As a result of the inhibition of bone resorption, FOSAMAX induced generally mild, transient, and asymptomatic decreases in serum calcium and phosphate.
 
-## Clinical Studies
+## 12.3 Pharmacokinetics
 
-### Treatment of osteoporosis
+Absorption
 
-#### Postmenopausal women
+Relative to an intravenous reference dose, the mean oral bioavailability of alendronate in women was 0.64% for doses ranging from 5 to 70 mg when administered after an overnight fast and two hours before a standardized breakfast.
+Oral bioavailability of the 10 mg tablet in men (0.59%) was similar to that in women when administered after an overnight fast and 2 hours before breakfast.
 
-##### Effect on bone mineral density
+FOSAMAX 70 mg oral solution and FOSAMAX 70 mg tablet are equally bioavailable.
 
-The efficacy of FOSAMAX 10 mg once daily in postmenopausal women, 44 to 84 years of age, with osteoporosis (lumbar spine bone mineral density [BMD] of at least 2 standard deviations below the premenopausal mean) was demonstrated in four double-blind, placebo-controlled clinical studies of two or three years' duration.
-These included two three-year, multicenter studies of virtually identical design, one performed in the United States (U.S.) and the other in 15 different countries (Multinational), which enrolled 478 and 516 patients, respectively.
-The following graph shows the mean increases in BMD of the lumbar spine, femoral neck, and trochanter in patients receiving FOSAMAX 10 mg/day relative to placebo-treated patients at three years for each of these studies.
+A study examining the effect of timing of a meal on the bioavailability of alendronate was performed in 49 postmenopausal women.
+Bioavailability was decreased (by approximately 40%) when 10 mg alendronate was administered either 0.5 or 1 hour before a standardized breakfast, when compared to dosing 2 hours before eating.
+In studies of treatment and prevention of osteoporosis, alendronate was effective when administered at least 30 minutes before breakfast.
 
-At three years significant increases in BMD, relative both to baseline and placebo, were seen at each measurement site in each study in patients who received FOSAMAX 10 mg/day.
-Total body BMD also increased significantly in each study, suggesting that the increases in bone mass of the spine and hip did not occur at the expense of other skeletal sites.
-Increases in BMD were evident as early as three months and continued throughout the three years of treatment.
-(See figures below for lumbar spine results.)
-In the two-year extension of these studies, treatment of 147 patients with FOSAMAX 10 mg/day resulted in continued increases in BMD at the lumbar spine and trochanter (absolute additional increases between years 3 and 5: lumbar spine, 0.94%; trochanter, 0.88%).
-BMD at the femoral neck, forearm and total body were maintained.
-FOSAMAX was similarly effective regardless of age, race, baseline rate of bone turnover, and baseline BMD in the range studied (at least 2 standard deviations below the premenopausal mean).
+Bioavailability was negligible whether alendronate was administered with or up to two hours after a standardized breakfast.
+Concomitant administration of alendronate with coffee or orange juice reduced bioavailability by approximately 60%.
 
-In patients with postmenopausal osteoporosis treated with FOSAMAX 10 mg/day for one or two years, the effects of treatment withdrawal were assessed.
-Following discontinuation, there were no further increases in bone mass and the rates of bone loss were similar to those of the placebo groups.
+Distribution
 
-The therapeutic equivalence of once weekly FOSAMAX 70 mg (n=519) and FOSAMAX 10 mg daily (n=370) was demonstrated in a one-year, double-blind, multicenter study of postmenopausal women with osteoporosis.
-In the primary analysis of completers, the mean increases from baseline in lumbar spine BMD at one year were 5.1% (4.8, 5.4%; 95% CI) in the 70-mg once-weekly group (n=440) and 5.4% (5.0, 5.8%; 95% CI) in the 10-mg daily group (n=330).
-The two treatment groups were also similar with regard to BMD increases at other skeletal sites.
-The results of the intention-to-treat analysis were consistent with the primary analysis of completers.
+Preclinical studies (in male rats) show that alendronate transiently distributes to soft tissues following 1 mg/kg intravenous administration but is then rapidly redistributed to bone or excreted in the urine.
+The mean steady-state volume of distribution, exclusive of bone, is at least 28 L in humans.
+Concentrations of drug in plasma following therapeutic oral doses are too low (less than 5 ng/mL) for analytical detection.
+Protein binding in human plasma is approximately 78%.
 
-##### Effect on fracture incidence
+Metabolism
 
-Data on the effects of FOSAMAX on fracture incidence are derived from three clinical studies: 1) U.S. and Multinational combined: a study of patients with a BMD T-score at or below minus 2.5 with or without a prior vertebral fracture, 2) Three-Year Study of the Fracture Intervention Trial (FIT): a study of patients with at least one baseline vertebral fracture, and 3) Four-Year Study of FIT: a study of patients with low bone mass but without a baseline vertebral fracture.
+There is no evidence that alendronate is metabolized in animals or humans.
 
-To assess the effects of FOSAMAX on the incidence of vertebral fractures (detected by digitized radiography; approximately one third of these were clinically symptomatic), the U.S. and Multinational studies were combined in an analysis that compared placebo to the pooled dosage groups of FOSAMAX (5 or 10 mg for three years or 20 mg for two years followed by 5 mg for one year).
-There was a statistically significant reduction in the proportion of patients treated with FOSAMAX experiencing one or more new vertebral fractures relative to those treated with placebo (3.2% vs. 6.2%; a 48% relative risk reduction).
-A reduction in the total number of new vertebral fractures (4.2 vs. 11.3 per 100 patients) was also observed.
-In the pooled analysis, patients who received FOSAMAX had a loss in stature that was statistically significantly less than was observed in those who received placebo (-3.0 mm vs. -4.6 mm).
+Excretion
 
-The Fracture Intervention Trial (FIT) consisted of two studies in postmenopausal women: the Three-Year Study of patients who had at least one baseline radiographic vertebral fracture and the Four-Year Study of patients with low bone mass but without a baseline vertebral fracture.
-In both studies of FIT, 96% of randomized patients completed the studies (i.e., had a closeout visit at the scheduled end of the study); approximately 80% of patients were still taking study medication upon completion.
+Following a single intravenous dose of [14C]alendronate, approximately 50% of the radioactivity was excreted in the urine within 72 hours and little or no radioactivity was recovered in the feces.
+Following a single 10 mg intravenous dose, the renal clearance of alendronate was 71 mL/min (64, 78; 90% confidence interval [CI]), and systemic clearance did not exceed 200 mL/min.
+Plasma concentrations fell by more than 95% within 6 hours following intravenous administration.
+The terminal half-life in humans is estimated to exceed 10 years, probably reflecting release of alendronate from the skeleton.
+Based on the above, it is estimated that after 10 years of oral treatment with FOSAMAX (10 mg daily) the amount of alendronate released daily from the skeleton is approximately 25% of that absorbed from the gastrointestinal tract.
 
-##### Fracture Intervention Trial: Three-Year Study (patients with at least one baseline radiographic vertebral fracture)
+Specific Populations
 
-This randomized, double-blind, placebo-controlled, 2027-patient study (FOSAMAX, n=1022; placebo, n=1005) demonstrated that treatment with FOSAMAX resulted in statistically significant reductions in fracture incidence at three years as shown in the table below.
+Gender: Bioavailability and the fraction of an intravenous dose excreted in urine were similar in men and women.
 
-Effect of FOSAMAX on Fracture Incidence in the Three-Year Study of FIT (patients with vertebral fracture at baseline)
+Geriatric: Bioavailability and disposition (urinary excretion) were similar in elderly and younger patients.
+No dosage adjustment is necessary in elderly patients.
 
-|  | FOSAMAX (n=1022) | Placebo (n=1005) | Absolute Reduction in Fracture Incidence | Relative Reduction in Fracture Risk % |
-| --- | --- | --- | --- | --- |
-|  | Percent of Patients |  |  |  |
-| Patients with: |  |  |  |  |
-| Vertebral fractures (diagnosed by X-ray)Number evaluable for vertebral fractures: FOSAMAX, n=984; placebo, n=966 |  |  |  |  |
-| ≥ 1 new vertebral fracture | 7.9 | 15.0 | 7.1 | 47p<0.001 |
-| ≥ 2 new vertebral fractures | 0.5 | 4.9 | 4.4 | 90 |
-| Clinical (symptomatic) fractures |  |  |  |  |
-| Any clinical (symptomatic) fracture | 13.8 | 18.1 | 4.3 | 26p=0.007 |
-| ≥ 1 clinical (symptomatic) vertebral fracture | 2.3 | 5.0 | 2.7 | 54p<0.01 |
-| Hip fracture | 1.1 | 2.2 | 1.1 | 51p<0.05 |
-| Wrist (forearm) fracture | 2.2 | 4.1 | 1.9 | 48 |
+Race: Pharmacokinetic differences due to race have not been studied.
 
-Furthermore, in this population of patients with baseline vertebral fracture, treatment with FOSAMAX significantly reduced the incidence of hospitalizations (25.0% vs. 30.7%).
+Renal Impairment: Preclinical studies show that, in rats with kidney failure, increasing amounts of drug are present in plasma, kidney, spleen, and tibia.
+In healthy controls, drug that is not deposited in bone is rapidly excreted in the urine.
+No evidence of saturation of bone uptake was found after 3 weeks dosing with cumulative intravenous doses of 35 mg/kg in young male rats.
+Although no formal renal impairment pharmacokinetic study has been conducted in patients, it is likely that, as in animals, elimination of alendronate via the kidney will be reduced in patients with impaired renal function.
+Therefore, somewhat greater accumulation of alendronate in bone might be expected in patients with impaired renal function.
 
-In the Three-Year Study of FIT, fractures of the hip occurred in 22 (2.2%) of 1005 patients on placebo and 11 (1.1%) of 1022 patients on FOSAMAX, p=0.047.
-The figure below displays the cumulative incidence of hip fractures in this study.
+No dosage adjustment is necessary for patients with creatinine clearance 35 to 60 mL/min.
+FOSAMAX is not recommended for patients with creatinine clearance <35 mL/min due to lack of experience with alendronate in renal failure.
 
-##### Fracture Intervention Trial: Four-Year Study (patients with low bone mass but without a baseline radiographic vertebral fracture)
+Hepatic Impairment: As there is evidence that alendronate is not metabolized or excreted in the bile, no studies were conducted in patients with hepatic impairment.
+No dosage adjustment is necessary.
 
-This randomized, double-blind, placebo-controlled, 4432-patient study (FOSAMAX, n=2214; placebo, n=2218) further investigated the reduction in fracture incidence due to FOSAMAX.
-The intent of the study was to recruit women with osteoporosis, defined as a baseline femoral neck BMD at least two standard deviations below the mean for young adult women.
-However, due to subsequent revisions to the normative values for femoral neck BMD, 31% of patients were found not to meet this entry criterion and thus this study included both osteoporotic and non-osteoporotic women.
-The results are shown in the table below for the patients with osteoporosis.
+Drug Interactions
 
-Effect of FOSAMAX on Fracture Incidence in OsteoporoticBaseline femoral neck BMD at least 2 SD below the mean for young adult women Patients in the Four-Year Study of FIT (patients without vertebral fracture at baseline)
+Intravenous ranitidine was shown to double the bioavailability of oral alendronate.
+The clinical significance of this increased bioavailability and whether similar increases will occur in patients given oral H2-antagonists is unknown.
 
-|  | FOSAMAX (n=1545) | Placebo (n=1521) | Absolute Reduction in Fracture Incidence | Relative Reduction in Fracture Risk (%) |
-| --- | --- | --- | --- | --- |
-|  | Percent of Patients |  |  |  |
-| Patients with: |  |  |  |  |
-| Vertebral fractures (diagnosed by X-ray)Number evaluable for vertebral fractures: FOSAMAX, n=1426; placebo, n=1428 |  |  |  |  |
-| ≥ 1 new vertebral fracture | 2.5 | 4.8 | 2.3 | 48p<0.001 |
-| ≥ 2 new vertebral fractures | 0.1 | 0.6 | 0.5 | 78p=0.035 |
-| Clinical (symptomatic) fractures |  |  |  |  |
-| Any clinical (symptomatic) fracture | 12.9 | 16.2 | 3.3 | 22p=0.01 |
-| ≥ 1 clinical (symptomatic) vertebral fracture | 1.0 | 1.6 | 0.6 | 41(NS)Not significant. This study was not powered to detect differences at these sites. |
-| Hip fracture | 1.0 | 1.4 | 0.4 | 29 (NS) |
-| Wrist (forearm) fracture | 3.9 | 3.8 | -0.1 | NS |
+In healthy subjects, oral prednisone (20 mg three times daily for five days) did not produce a clinically meaningful change in the oral bioavailability of alendronate (a mean increase ranging from 20 to 44%).
 
-##### Fracture results across studies
-
-In the Three-Year Study of FIT, FOSAMAX reduced the percentage of women experiencing at least one new radiographic vertebral fracture from 15.0% to 7.9% (47% relative risk reduction, p<0.001); in the Four-Year Study of FIT, the percentage was reduced from 3.8% to 2.1% (44% relative risk reduction, p=0.001); and in the combined U.S./Multinational studies, from 6.2% to 3.2% (48% relative risk reduction, p=0.034).
-
-FOSAMAX reduced the percentage of women experiencing multiple (two or more) new vertebral fractures from 4.2% to 0.6% (87% relative risk reduction, p<0.001) in the combined U.S./Multinational studies and from 4.9% to 0.5% (90% relative risk reduction, p<0.001) in the Three-Year Study of FIT.
-In the Four-Year Study of FIT, FOSAMAX reduced the percentage of osteoporotic women experiencing multiple vertebral fractures from 0.6% to 0.1% (78% relative risk reduction, p=0.035).
-
-Thus, FOSAMAX reduced the incidence of radiographic vertebral fractures in osteoporotic women whether or not they had a previous radiographic vertebral fracture.
-
-FOSAMAX, over a three- or four-year period, was associated with statistically significant reductions in loss of height vs. placebo in patients with and without baseline radiographic vertebral fractures.
-At the end of the FIT studies the between-treatment group differences were 3.2 mm in the Three-Year Study and 1.3 mm in the Four-Year Study.
-
-##### Bone histology
-
-Bone histology in 270 postmenopausal patients with osteoporosis treated with FOSAMAX at doses ranging from 1 to 20 mg/day for one, two, or three years revealed normal mineralization and structure, as well as the expected decrease in bone turnover relative to placebo.
-These data, together with the normal bone histology and increased bone strength observed in rats and baboons exposed to long-term alendronate treatment, support the conclusion that bone formed during therapy with FOSAMAX is of normal quality.
-
-#### Men
-
-The efficacy of FOSAMAX in men with hypogonadal or idiopathic osteoporosis was demonstrated in two clinical studies.
-
-A two-year, double-blind, placebo-controlled, multicenter study of FOSAMAX 10 mg once daily enrolled a total of 241 men between the ages of 31 and 87 (mean, 63).
-All patients in the trial had either: 1) a BMD T-score ≤-2 at the femoral neck and ≤-1 at the lumbar spine, or 2) a baseline osteoporotic fracture and a BMD T-score ≤-1 at the femoral neck.
-At two years, the mean increases relative to placebo in BMD in men receiving FOSAMAX 10 mg/day were significant at the following sites: lumbar spine, 5.3%; femoral neck, 2.6%; trochanter, 3.1%; and total body, 1.6%.
-Treatment with FOSAMAX also reduced height loss (FOSAMAX, -0.6 mm vs. placebo, -2.4 mm).
-
-A one-year, double-blind, placebo-controlled, multicenter study of once weekly FOSAMAX 70 mg enrolled a total of 167 men between the ages of 38 and 91 (mean, 66).
-Patients in the study had either: 1) a BMD T-score ≤-2 at the femoral neck and ≤-1 at the lumbar spine, 2) a BMD T-score ≤-2 at the lumbar spine and ≤-1 at the femoral neck, or 3) a baseline osteoporotic fracture and a BMD T-score ≤-1 at the femoral neck.
-At one year, the mean increases relative to placebo in BMD in men receiving FOSAMAX 70 mg once weekly were significant at the following sites: lumbar spine, 2.8%; femoral neck, 1.9%; trochanter, 2.0%; and total body, 1.2%.
-These increases in BMD were similar to those seen at one year in the 10 mg once-daily study.
-
-In both studies, BMD responses were similar regardless of age (≥65 years vs. <65 years), gonadal function (baseline testosterone <9 ng/dL vs. ≥9 ng/dL), or baseline BMD (femoral neck and lumbar spine T-score ≤-2.5 vs. >-2.5).
-
-### Prevention of osteoporosis in postmenopausal women
-
-Prevention of bone loss was demonstrated in two double-blind, placebo-controlled studies of postmenopausal women 40-60 years of age.
-One thousand six hundred nine patients (FOSAMAX 5 mg/day; n=498) who were at least six months postmenopausal were entered into a two-year study without regard to their baseline BMD.
-In the other study, 447 patients (FOSAMAX 5 mg/day; n=88), who were between six months and three years postmenopause, were treated for up to three years.
-In the placebo-treated patients BMD losses of approximately 1% per year were seen at the spine, hip (femoral neck and trochanter) and total body.
-In contrast, FOSAMAX 5 mg/day prevented bone loss in the majority of patients and induced significant increases in mean bone mass at each of these sites (see figures below).
-In addition, FOSAMAX 5 mg/day reduced the rate of bone loss at the forearm by approximately half relative to placebo.
-FOSAMAX 5 mg/day was similarly effective in this population regardless of age, time since menopause, race and baseline rate of bone turnover.
-
-The therapeutic equivalence of once weekly FOSAMAX 35 mg (n=362) and FOSAMAX 5 mg daily (n=361) was demonstrated in a one-year, double-blind, multicenter study of postmenopausal women without osteoporosis.
-In the primary analysis of completers, the mean increases from baseline in lumbar spine BMD at one year were 2.9% (2.6, 3.2%; 95% CI) in the 35-mg once-weekly group (n=307) and 3.2% (2.9, 3.5%; 95% CI) in the 5-mg daily group (n=298).
-The two treatment groups were also similar with regard to BMD increases at other skeletal sites.
-The results of the intention-to-treat analysis were consistent with the primary analysis of completers.
-
-#### Bone histology
-
-Bone histology was normal in the 28 patients biopsied at the end of three years who received FOSAMAX at doses of up to 10 mg/day.
-
-### Concomitant use with estrogen/hormone replacement therapy (HRT)
-
-The effects on BMD of treatment with FOSAMAX 10 mg once daily and conjugated estrogen (0.625 mg/day) either alone or in combination were assessed in a two-year, double-blind, placebo-controlled study of hysterectomized postmenopausal osteoporotic women (n=425).
-At two years, the increases in lumbar spine BMD from baseline were significantly greater with the combination (8.3%) than with either estrogen or FOSAMAX alone (both 6.0%).
-
-The effects on BMD when FOSAMAX was added to stable doses (for at least one year) of HRT (estrogen ± progestin) were assessed in a one-year, double-blind, placebo-controlled study in postmenopausal osteoporotic women (n=428).
-The addition of FOSAMAX 10 mg once daily to HRT produced, at one year, significantly greater increases in lumbar spine BMD (3.7%) vs. HRT alone (1.1%).
-
-In these studies, significant increases or favorable trends in BMD for combined therapy compared with HRT alone were seen at the total hip, femoral neck, and trochanter.
-No significant effect was seen for total body BMD.
-
-Histomorphometric studies of transiliac biopsies in 92 subjects showed normal bone architecture.
-Compared to placebo there was a 98% suppression of bone turnover (as assessed by mineralizing surface) after 18 months of combined treatment with FOSAMAX and HRT, 94% on FOSAMAX alone, and 78% on HRT alone.
-The long-term effects of combined FOSAMAX and HRT on fracture occurrence and fracture healing have not been studied.
-
-### Glucocorticoid-induced osteoporosis
-
-The efficacy of FOSAMAX 5 and 10 mg once daily in men and women receiving glucocorticoids (at least 7.5 mg/day of prednisone or equivalent) was demonstrated in two, one-year, double-blind, randomized, placebo-controlled, multicenter studies of virtually identical design, one performed in the United States and the other in 15 different countries (Multinational [which also included FOSAMAX 2.5 mg/day]).
-These studies enrolled 232 and 328 patients, respectively, between the ages of 17 and 83 with a variety of glucocorticoid-requiring diseases.
-Patients received supplemental calcium and vitamin D. The following figure shows the mean increases relative to placebo in BMD of the lumbar spine, femoral neck, and trochanter in patients receiving FOSAMAX 5 mg/day for each study.
-
-After one year, significant increases relative to placebo in BMD were seen in the combined studies at each of these sites in patients who received FOSAMAX 5 mg/day.
-In the placebo-treated patients, a significant decrease in BMD occurred at the femoral neck (-1.2%), and smaller decreases were seen at the lumbar spine and trochanter.
-Total body BMD was maintained with FOSAMAX 5 mg/day.
-The increases in BMD with FOSAMAX 10 mg/day were similar to those with FOSAMAX 5 mg/day in all patients except for postmenopausal women not receiving estrogen therapy.
-In these women, the increases (relative to placebo) with FOSAMAX 10 mg/day were greater than those with FOSAMAX 5 mg/day at the lumbar spine (4.1% vs. 1.6%) and trochanter (2.8% vs. 1.7%), but not at other sites.
-FOSAMAX was effective regardless of dose or duration of glucocorticoid use.
-In addition, FOSAMAX was similarly effective regardless of age (<65 vs. ≥65 years), race (Caucasian vs. other races), gender, underlying disease, baseline BMD, baseline bone turnover, and use with a variety of common medications.
-
-Bone histology was normal in the 49 patients biopsied at the end of one year who received FOSAMAX at doses of up to 10 mg/day.
-
-Of the original 560 patients in these studies, 208 patients who remained on at least 7.5 mg/day of prednisone or equivalent continued into a one-year double-blind extension.
-After two years of treatment, spine BMD increased by 3.7% and 5.0% relative to placebo with FOSAMAX 5 and 10 mg/day, respectively.
-Significant increases in BMD (relative to placebo) were also observed at the femoral neck, trochanter, and total body.
-
-After one year, 2.3% of patients treated with FOSAMAX 5 or 10 mg/day (pooled) vs. 3.7% of those treated with placebo experienced a new vertebral fracture (not significant).
-However, in the population studied for two years, treatment with FOSAMAX (pooled dosage groups: 5 or 10 mg for two years or 2.5 mg for one year followed by 10 mg for one year) significantly reduced the incidence of patients with a new vertebral fracture (FOSAMAX 0.7% vs. placebo 6.8%).
-
-### Paget's disease of bone
-
-The efficacy of FOSAMAX 40 mg once daily for six months was demonstrated in two double-blind clinical studies of male and female patients with moderate to severe Paget's disease (alkaline phosphatase at least twice the upper limit of normal): a placebo-controlled, multinational study and a U.S. comparative study with etidronate disodium 400 mg/day.
-The following figure shows the mean percent changes from baseline in serum alkaline phosphatase for up to six months of randomized treatment.
-
-At six months the suppression in alkaline phosphatase in patients treated with FOSAMAX was significantly greater than that achieved with etidronate and contrasted with the complete lack of response in placebo-treated patients.
-Response (defined as either normalization of serum alkaline phosphatase or decrease from baseline ≥60%) occurred in approximately 85% of patients treated with FOSAMAX in the combined studies vs. 30% in the etidronate group and 0% in the placebo group.
-FOSAMAX was similarly effective regardless of age, gender, race, prior use of other bisphosphonates, or baseline alkaline phosphatase within the range studied (at least twice the upper limit of normal).
-
-Bone histology was evaluated in 33 patients with Paget's disease treated with FOSAMAX 40 mg/day for 6 months.
-As in patients treated for osteoporosis (see Clinical Studies, Treatment of osteoporosis in postmenopausal women, Bone histology), FOSAMAX did not impair mineralization, and the expected decrease in the rate of bone turnover was observed.
-Normal lamellar bone was produced during treatment with FOSAMAX, even where preexisting bone was woven and disorganized.
-Overall, bone histology data support the conclusion that bone formed during treatment with FOSAMAX is of normal quality.
+Products containing calcium and other multivalent cations are likely to interfere with absorption of alendronate.

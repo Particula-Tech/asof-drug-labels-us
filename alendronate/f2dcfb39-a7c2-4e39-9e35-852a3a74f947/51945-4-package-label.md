@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - Bottle Label 10 mg
+PRINCIPAL DISPLAY PANEL - Bottle Label 10 mg
 
 Fosamax® 10 mg (Alendronate Sodium Tablets)
 
@@ -25,7 +25,7 @@ Rx only
 
 9622204 30 | No. 3797
 
-# PRINCIPAL DISPLAY PANEL - Bi Fold Card, Outer 35 mg
+PRINCIPAL DISPLAY PANEL - Bi Fold Card, Outer 35 mg
 
 ONCE WEEKLY FOSAMAX® 35 mg (Alendronate Sodium Tablets)
 
@@ -47,7 +47,7 @@ Alendronate Sodium (active ingred.)
 Made in Ireland.
 Formulated in USA.
 
-# PRINCIPAL DISPLAY PANEL - Bi Fold Card, Outer 70 mg
+PRINCIPAL DISPLAY PANEL - Bi Fold Card, Outer 70 mg
 
 ONCE WEEKLY FOSAMAX® 70 mg (Alendronate Sodium Tablets)
 
@@ -69,7 +69,7 @@ Alendronate Sodium (active ingred.)
 Made in Ireland.
 Formulated in USA.
 
-# PRINCIPAL DISPLAY PANEL - Bottle Label 70 mg per 75 mL
+PRINCIPAL DISPLAY PANEL - Bottle Label 70 mg per 75 mL
 
 75 mL
 

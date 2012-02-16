@@ -1,6 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-FOSAMAX® (alendronate sodium) is a bisphosphonate that acts as a specific inhibitor of osteoclast-mediated bone resorption.
+FOSAMAX (alendronate sodium) is a bisphosphonate that acts as a specific inhibitor of osteoclast-mediated bone resorption.
 Bisphosphonates are synthetic analogs of pyrophosphate that bind to the hydroxyapatite found in bone.
 
 Alendronate sodium is chemically described as (4-amino-1-hydroxybutylidene) bisphosphonic acid monosodium salt trihydrate.
@@ -11,8 +11,8 @@ The structural formula is:
 Alendronate sodium is a white, crystalline, nonhygroscopic powder.
 It is soluble in water, very slightly soluble in alcohol, and practically insoluble in chloroform.
 
-Tablets FOSAMAX for oral administration contain 6.53, 13.05, 45.68, 52.21 or 91.37 mg of alendronate monosodium salt trihydrate, which is the molar equivalent of 5, 10, 35, 40 and 70 mg, respectively, of free acid, and the following inactive ingredients: microcrystalline cellulose, anhydrous lactose, croscarmellose sodium, and magnesium stearate.
-Tablets FOSAMAX 10 mg also contain carnauba wax.
+FOSAMAX tablets for oral administration contain 6.53, 13.05, 45.68, 52.21 or 91.37 mg of alendronate monosodium salt trihydrate, which is the molar equivalent of 5, 10, 35, 40 and 70 mg, respectively, of free acid, and the following inactive ingredients: microcrystalline cellulose, anhydrous lactose, croscarmellose sodium, and magnesium stearate.
+FOSAMAX 10 mg tablets also contain carnauba wax.
 
 Each bottle of the oral solution contains 91.35 mg of alendronate monosodium salt trihydrate, which is the molar equivalent to 70 mg of free acid.
 Each bottle also contains the following inactive ingredients: sodium citrate dihydrate and citric acid anhydrous as buffering agents, sodium saccharin, artificial raspberry flavor, and purified water.
