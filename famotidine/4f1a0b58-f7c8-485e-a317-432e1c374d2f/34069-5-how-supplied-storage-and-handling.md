@@ -14,10 +14,12 @@ Store PEPCID for Oral Suspension dry powder and suspension at 25°C (77°F); exc
 Suspension: Protect from freezing.
 Discard unused suspension after 30 days.
 
-PEPCID (famotidine) for Oral Suspension is manufactured by: Paddock Laboratories, Inc. Minneapolis, MN 55427
+Manufactured by: Perrigo
+
+Minneapolis, MN 55427
 
 Manufactured for:
 
 Salix Pharmaceuticals, Inc. Raleigh, NC 27615
 
-VENART-69-2/APR 2010
+VENART 69-3/OCT 2011
