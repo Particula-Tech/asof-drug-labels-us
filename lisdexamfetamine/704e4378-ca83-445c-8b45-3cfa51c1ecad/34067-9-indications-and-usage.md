@@ -1,16 +1,16 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Attention Deficit Hyperactivity Disorder
+Attention Deficit Hyperactivity Disorder
 
 Vyvanse® is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD).
 
-The efficacy of Vyvanse in the treatment of ADHD was established on the basis of two controlled trials in children aged 6 to 12, one controlled trial in adolescents aged 13 to 17, and two controlled trials in adults who met DSM-IV-TR® criteria for ADHD [see CLINICAL STUDIES (14)].
+The efficacy of Vyvanse in the treatment of ADHD was established on the basis of three short-term controlled trials in children ages 6 to 12 years, one short-term controlled trial in adolescents ages 13 to 17 years, and two short-term controlled trials in adults who met DSM-IV-TR® criteria for ADHD, and one maintenance trial in adults [see CLINICAL STUDIES (14)].
 
 A diagnosis of Attention Deficit Hyperactivity Disorder (ADHD; DSM-IV®) implies the presence of hyperactive-impulsive and/or inattentive symptoms that cause impairment and were present before the age of 7 years.
 The symptoms must cause clinically significant impairment, e.g. in social, academic, or occupational functioning, and be present in two or more settings, e.g. school (or work) and at home.
 The symptoms must not be better accounted for by another mental disorder.
 For the Inattentive Type, at least 6 of the following symptoms must have persisted for at least 6 months: lack of attention to details/careless mistakes; lack of sustained attention; poor listener; failure to follow through on tasks; poor organization; avoids tasks requiring sustained mental effort; loses things; easily distracted; forgetful.
-For the Hyperactive-Impulsive Type, at least 6 of the following symptoms (or adult equivalent symptoms) must have persisted for at least 6 months: fidgeting/squirming; leaving seat; inappropriate running/climbing; difficulty with quiet activities; "on the go"; excessive talking; blurting answers; can't wait turn; intrusive.
+For the Hyperactive-Impulsive Type, at least 6 of the following symptoms (or adult equivalent symptoms) must have persisted for at least 6 months: fidgeting/squirming; leaving seat; inappropriate running/climbing; difficulty with quiet activities; "on the go"; excessive talking; blurting answers; can"t wait turn; intrusive.
 The Combined Type requires both inattentive and hyperactive-impulsive criteria to be met.
 
 Special Diagnostic Considerations
@@ -26,9 +26,4 @@ Vyvanse is indicated as an integral part of a total treatment program for ADHD t
 Drug treatment may not be indicated for all patients with this syndrome.
 Stimulants are not intended for use in patients who exhibit symptoms secondary to environmental factors and/or other primary psychiatric disorders, including psychosis.
 Appropriate educational/vocational placement is essential and psychosocial intervention is often helpful.
-When remedial measures alone are insufficient, the decision to prescribe stimulant medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms and on the level of functional impairment.
-
-Long-Term Use
-
-The effectiveness of Vyvanse for long-term use, i.e., for more than 4 weeks, has not been systematically evaluated in controlled trials.
-Therefore, the physician who elects to use Vyvanse for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
+When remedial measures alone are insufficient, the decision to prescribe stimulant medication will depend upon the physician"s assessment of the chronicity and severity of the patient"s symptoms and on the level of functional impairment.

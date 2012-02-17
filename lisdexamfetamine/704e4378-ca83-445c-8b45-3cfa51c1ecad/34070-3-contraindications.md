@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-- Advanced arteriosclerosis, symptomatic cardiovascular disease, moderate to severe hypertension, hyperthyroidism, known hypersensitivity or idiosyncratic reaction to sympathomimetic amines, glaucoma
-- Agitated states
-- Patients with a history of drug abuse
-- During or within 14 days following the administration of monoamine oxidase inhibitors (hypertensive crises may result) [See Drug Interactions (7.3)]
+- Known hypersensitivity to amphetamine products or other ingredients of Vyvanse.
+  Anaphylactic reactions, Stevens-Johnson Syndrome, angioedema, and urticaria have been observed in postmarketing reports [see Adverse Reactions (6.2)].
+- Concurrent administration of monoamine oxidase (MAO) inhibitors because MAOIs potentially can result in hypertensive crisis.
+  Vyvanse should not be given for at least 14 days after discontinuation of an MAO inhibitor [see Drug Interactions (7.3)]

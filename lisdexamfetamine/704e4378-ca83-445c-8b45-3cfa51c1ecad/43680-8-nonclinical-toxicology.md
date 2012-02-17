@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis/ Mutagenesis and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenicity studies of lisdexamfetamine dimesylate have not been performed.
 
@@ -10,7 +10,7 @@ Lisdexamfetamine dimesylate was not clastogenic in the mouse bone marrow micronu
 
 Amphetamine (d- to l-enantiomer ratio of 3:1) did not adversely affect fertility or early embryonic development in the rat at doses of up to 20 mg/kg/day.
 
-## 13.2 Animal Toxicology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 Acute administration of high doses of amphetamine (d- or d,l-) has been shown to produce long-lasting neurotoxic effects, including irreversible nerve fiber damage, in rodents.
 The significance of these findings to humans is unknown.
