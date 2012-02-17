@@ -16,7 +16,7 @@ Who should not receive ABRAXANE?
 Do not receive ABRAXANE if:
 
 - your white blood cell count is below 1,500 cells/ mm3.
-- you have had a severe hypersensitivity reaction to ABRAXANE.
+- you have had a severe hypersensitivity reaction to ABRAXANE
 
 What should I tell my doctor before receiving ABRAXANE?
 Before you receive ABRAXANE, tell your doctor if you:
@@ -76,7 +76,7 @@ This patient information leaflet summarizes the important information about ABRA
 If you would like more information, talk to your doctor.
 You can ask your doctor or pharmacist for information about ABRAXANE that is written for healthcare professionals.
 
-For more information, call 1-800-423-5436.
+For more information, call 1-888-423-5436.
 
 What are the ingredients in ABRAXANE?
 
@@ -84,17 +84,16 @@ Active ingredient: paclitaxel (bound to human albumin).
 
 Other ingredient: human albumin (containing sodium caprylate and sodium acetyltryptophanate)
 
-This Patient Information has been approved by the U.S. Food and Drug Administration
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: December 2011
+Revised: January 2012
 
 Manufactured for: Celgene Corporation
 
 Summit, NJ 07901
 
-ABRAXANE® is a registered trademark of Abraxis BioScience, LLC. ©2005-2011 Abraxis BioScience, LLC.
-All Rights Reserved Abraxis BioScience, LLC is a wholly owned subsidiary of Celgene Corporation
+ABRAXANE® is a registered trademark of Abraxis BioScience, LLC ©2005-2012 Abraxis BioScience, LLC All Rights Reserved Abraxis BioScience, LLC is a wholly owned subsidiary of Celgene Corporation
 
 U.S. Patent Numbers: 5,439,686; 5,498,421; 6,096,331; 6,506,405; 6,537,579; 6,749,868; 6,753,006; 7,820,788; 7,923,536; and RE41,884
 
-ABRPPI.001 12/11
+ABRPPI.002 01/12
