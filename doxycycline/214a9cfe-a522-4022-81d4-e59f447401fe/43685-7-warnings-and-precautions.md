@@ -120,7 +120,8 @@ Likewise, although mutagenicity studies of doxycycline have not been conducted, 
 Doxycycline administered orally at dosage levels as high as 250 mg/kg/day had no apparent effect on the fertility of female rats.
 Effect on male fertility has not been studied.
 
-Pregnancy: Teratogenic Effects: Pregnancy Category D:
+Pregnancy: Teratogenic Effects.
+Pregnancy Category D:
 
 There are no adequate and well-controlled studies on the use of doxycycline in pregnant women.
 The vast majority of reported experience with doxycycline during human pregnancy is short-term, first trimester exposure.
