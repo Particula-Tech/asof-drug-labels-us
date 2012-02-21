@@ -31,38 +31,27 @@ Staphylococci resistant to erythromycin may emerge during a course of erythromyc
 
 Erythromycin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-Gram-positive organisms:
+### Gram-positive organisms
 
-- Corynebacterium diphtheriae
-- Corynebacterium minutissimum
-- Listeria monocytogenes
-- Staphylococcus aureus (resistant organisms may emerge during treatment)
-- Streptococcus pneumoniae
-- Streptococcus pyogenes
+- Corynebacterium diphtheriae Corynebacterium minutissimum Listeria monocytogenes Staphylococcus aureus (resistant organisms may emerge during treatment) Streptococcus pneumoniae Streptococcus pyogenes
 
-Gram-negative organisms:
+### Gram-negative organisms
 
-- Bordetella pertussis
-- Legionella pneumophila
-- Neisseria gonorrhoeae
+- Bordetella pertussis Legionella pneumophila Neisseria gonorrhoeae
 
-Other microorganisms:
+### Other microorganisms
 
-- Chlamydia trachomatis
-- Entamoeba histolytica
-- Mycoplasma pneumoniae
-- Treponema pallidum
-- Ureaplasma urealyticum
+- Chlamydia trachomatis Entamoeba histolytica Mycoplasma pneumoniae Treponema pallidum Ureaplasma urealyticum
 
 The following in vitro data are available, but their clinical significance is unknown.
 
 Erythromycin exhibits in vitro minimal inhibitory concentrations (MIC's) of 0.5 µg/mL or less against most (≥ 90%) strains of the following microorganisms; however, the safety and effectiveness of erythromycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
 
-Gram-positive organisms:
+### Gram-positive organisms
 
 - Viridans group streptococci
 
-Gram-negative organisms
+### Gram-negative organisms
 
 - Moraxella catarrhalis
 

@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 PCE tablets (erythromycin particles in tablets) are an antibacterial product containing specially coated erythromycin base particles for oral administration.
-The coating protects the antibiotic from the inactivating effects of gastric acidity and permits efficient absorbtion of the antibiotic in the small intestine.
+The coating protects the antibiotic from the inactivating effects of gastric acidity and permits efficient absorption of the antibiotic in the small intestine.
 PCE tablets are available in two strengths containing either 333 mg or 500 mg of erythromycin base.
 PCE tablets 500 mg tablets contain no synthetic dyes or artificial colors.
 

@@ -9,6 +9,7 @@ Onset of pseudomembranous colitis symptoms may occur during or after antibacteri
 (See WARNINGS.)
 
 Erythromycin has been associated with QT prolongation and ventricular arrhythmias, including ventricular tachycardia and torsades de pointes.
+(See WARNINGS.)
 
 Allergic reactions ranging from urticaria to anaphylaxis have occurred.
 Skin reactions ranging from mild eruptions to erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported rarely.
@@ -17,4 +18,4 @@ There have been reports of interstitial nephritis coincident with erythromycin u
 
 There have been rare reports of pancreatitis and convulsions.
 
-There have been isolated reports of reversible hearing loss occuring chiefly in patients with renal insufficiency and in patients receiving high doses of erythromycin.
+There have been isolated reports of reversible hearing loss occurring chiefly in patients with renal insufficiency and in patients receiving high doses of erythromycin.

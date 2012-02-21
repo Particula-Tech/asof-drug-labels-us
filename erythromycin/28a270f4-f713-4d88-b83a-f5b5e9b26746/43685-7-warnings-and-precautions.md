@@ -4,6 +4,14 @@
 
 There have been reports of hepatic dysfunction, including increased liver enzymes, and hepatocellular and/or cholestatic hepatitis, with or without jaundice, occurring in patients receiving oral erythromycin products.
 
+## QT Prolongation
+
+Erythromycin has been associated with prolongation of the QT interval and infrequent cases of arrhythmia.
+Cases of torsades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving erythromycin.
+Fatalities have been reported.
+Erythromycin should be avoided in patients with known prolongation of the QT interval, patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents.
+Elderly patients may be more susceptible to drug-associated effects on the QT interval.
+
 ## Syphilis in Pregnancy
 
 There have been reports suggesting that erythromycin does not reach the fetus in adequate concentration to prevent congenital syphilis.
@@ -11,7 +19,7 @@ Infants born to women treated during pregnancy with oral erythromycin for early 
 
 ## Clostridium difficile Associated Diarrhea
 
-Clostridium difficile associated diarrhea reported with use of nearly all antibacterial agents, including PCE tablets, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including PCE tablets, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -38,7 +46,7 @@ Therefore, patients receiving concomitant lovastatin and erythromycin should be 
 
 ## General
 
-Prescribing PCE tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increase the risk of the development of drug-resistant bacteria.
+Prescribing PCE tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 Since erythromycin is principally excreted by the liver, caution should be exercised when erythromycin is administered to patients with impaired hepatic function.
 (See CLINICAL PHARMACOLOGY and WARNINGS.)
@@ -132,8 +140,9 @@ Fatalities have been reported.
 
 ### Colchicine
 
-Colchicine transporter P-glycoprotein (P-gp).
-Erythromycin is considin colchicine plasma concentration is anticipated when coadministered with moderate CYP3A4 inhibitors such as erythromycin.
+Colchicine is a substrate for both CYP3A4 and the efflux transporter P-glycoprotein (P-gp).
+Erythromycin is considered a moderate inhibitor of CYP3A4.
+A significant increase in colchicine plasma concentration is anticipated when co-administered with moderate CYP3A4 inhibitors such as erythromycin.
 If co-administration of colchicine and erythromycin is necessary, the starting dose of colchicine may need to be reduced, and the maximum colchicine dose should be lowered.
 Patients should be monitored for clinical symptoms of colchicine toxicity (see WARNINGS).
 
@@ -175,10 +184,11 @@ Elderly patients, particularly those with reduced renal or hepatic function, may
 (See ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
 
 Elderly patients may be more susceptible to development of torsades de pointes arrhythmias than younger patients.
-(See ADVERSE REACTIONS).
+(See WARNINGS).
 
 Elderly patients may experience increased effects of oral anticoagulant therapy while undergoing treatment with erythromycin.
 (See PRECAUTIONS - Drug Interactions).
 
 PCE 333 MG Tablets contain 0.5 mg (0.02 mEq) of sodium per individual dose.
+
 PCE 500 MG Tablets do not contain sodium.
