@@ -4,9 +4,15 @@ Cadila Healthcare Ltd.
 
 Ahmedabad, India
 
-Rev.: 11/11
+Manufactured by:
 
-Revision Date: 11/28/2011
+Cadila Healthcare Ltd.
+
+Baddi, India
+
+Rev.: 02/12
+
+Revision Date: 2012/02/18
 
 Manufactured by:
 
@@ -14,6 +20,12 @@ Cadila Healthcare Ltd.
 
 Ahmedabad, India
 
-Rev.: 11/11
+Manufactured by:
 
-Revision Date: 11/28/2011
+Cadila Healthcare Ltd.
+
+Baddi, India
+
+Rev.: 02/12
+
+Revision Date: 2012/02/18
