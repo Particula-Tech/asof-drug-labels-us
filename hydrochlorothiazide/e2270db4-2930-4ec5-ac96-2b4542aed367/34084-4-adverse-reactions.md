@@ -4,50 +4,50 @@ The following adverse reactions have been reported and, within each category, ar
 
 ## Body as a Whole
 
-Weakness
+Weakness.
 
 ## Cardiovascular
 
-Hypotension including orthostatic hypotension (may be aggravated by alcohol, barbiturates, narcotics or antihypertensive drugs)
+Hypotension including orthostatic hypotension (may be aggravated by alcohol, barbiturates, narcotics or antihypertensive drugs).
 
 ## Digestive
 
-Pancreatitis, jaundice (intrahepatic cholestatic jaundice), diarrhea, vomiting, sialadenitis, cramping, constipation, gastric irritation, nausea, anorexia
+Pancreatitis, jaundice (intrahepatic cholestatic jaundice), diarrhea, vomiting, sialadenitis, cramping, constipation, gastric irritation, nausea, anorexia.
 
 ## Hematologic
 
-Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia
+Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia.
 
 ## Hypersensitivity
 
-Anaphylactic reactions, necrotizing angiitis (vasculitis and cutaneous vasculitis), respiratory distress including pneumonitis and pulmonary edema, photosensitivity, fever, urticaria, rash, purpura
+Anaphylactic reactions, necrotizing angiitis (vasculitis and cutaneous vasculitis), respiratory distress including pneumonitis and pulmonary edema, photosensitivity, fever, urticaria, rash, purpura.
 
 ## Metabolic
 
-Electrolyte imbalance (see PRECAUTIONS), hyperglycemia, glycosuria, hyperuricemia
+Electrolyte imbalance (see PRECAUTIONS), hyperglycemia, glycosuria, hyperuricemia.
 
 ## Musculoskeletal
 
-Muscle spasm
+Muscle spasm.
 
 ## Nervous System/Psychiatric
 
-Vertigo, paresthesias, dizziness, headache, restlessness
+Vertigo, paresthesias, dizziness, headache, restlessness.
 
 ## Renal
 
-Renal failure, renal dysfunction, interstitial nephritis (See WARNINGS.)
+Renal failure, renal dysfunction, interstitial nephritis (see WARNINGS).
 
 ## Skin
 
-Erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis, alopecia
+Erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis, alopecia.
 
 ## Special Senses
 
-Transient blurred vision, xanthopsia
+Transient blurred vision, xanthopsia.
 
 ## Urogenital
 
-Impotence
+Impotence.
 
 Whenever adverse reactions are moderate or severe, thiazide dosage should be reduced or therapy withdrawn.

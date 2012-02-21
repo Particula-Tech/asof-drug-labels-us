@@ -15,5 +15,5 @@ After oral use diuresis begins within 2 hours, peaks in about 4 hours and lasts 
 
 Hydrochlorothiazide is not metabolized but is eliminated rapidly by the kidney.
 When plasma levels have been followed for at least 24 hours, the plasma half-life has been observed to vary between 5.6 and 14.8 hours.
-At least 61 percent of the oral dose is eliminated unchanged within 24 hours.
+At least 61% of the oral dose is eliminated unchanged within 24 hours.
 Hydrochlorothiazide crosses the placental but not the blood-brain barrier and is excreted in breast milk.

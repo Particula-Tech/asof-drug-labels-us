@@ -14,6 +14,15 @@ The possibility of exacerbation or activation of systemic lupus erythematosus ha
 
 Lithium generally should not be given with diuretics (see PRECAUTIONS, Drug Interactions).
 
+## Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma.
+Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation.
+Untreated acute angle-closure glaucoma can lead to permanent vision loss.
+The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible.
+Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
+Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
 # PRECAUTIONS
 
 ## General
@@ -60,32 +69,32 @@ Periodic determination of serum electrolytes to detect possible electrolyte imba
 
 When given concurrently the following drugs may interact with thiazide diuretics.
 
-### Alcohol, barbiturates, or narcotics
+### Alcohol, Barbiturates, or Narcotics
 
 Potentiation of orthostatic hypotension may occur.
 
-### Antidiabetic drugs - (oral agents and insulin)
+### Antidiabetic Drugs (Oral Agents And Insulin)
 
 Dosage adjustment of the antidiabetic drug may be required.
 
-### Other antihypertensive drugs
+### Other Antihypertensive Drugs
 
 Additive effect or potentiation.
 
-### Cholestyramine and colestipol resins
+### Cholestyramine and Colestipol Resins
 
 Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
-Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85 and 43 percent, respectively.
+Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.
 
 ### Corticosteroids, ACTH
 
 Intensified electrolyte depletion, particularly hypokalemia.
 
-### Pressor amines (e.g., norepinephrine)
+### Pressor Amines (e.g., Norepinephrine)
 
 Possible decreased response to pressor amines but not sufﬁcient to preclude their use.
 
-### Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine)
+### Skeletal Muscle Relaxants, Nondepolarizing (e.g., Tubocurarine)
 
 Possible increased responsiveness to the muscle relaxant.
 
@@ -95,7 +104,7 @@ Generally should not be given with diuretics.
 Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
 Refer to the package insert for lithium preparations before use of such preparations with hydrochlorothiazide.
 
-### Non-steroidal Anti-inflammatory Drugs
+### Non-Steroidal Anti-Inflammatory Drugs
 
 In some patients, the administration of a non-steroidal anti-inﬂammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
 Therefore, when hydrochlorothiazide and non-steroidal anti-inﬂammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
@@ -106,7 +115,7 @@ Thiazides should be discontinued before carrying out tests for parathyroid funct
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Two-year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of up to approximately 100 mg/kg/day).
+Two year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of up to approximately 100 mg/kg/day).
 The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice.
 
 Hydrochlorothiazide was not genotoxic in vitro in the Ames mutagenicity assay of Salmonella typhimurium strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 and in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations, or in vivo in assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene.
@@ -116,7 +125,7 @@ Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of 
 
 ## Pregnancy
 
-### Teratogenic Effects - Pregnancy Category B
+### Teratogenic EffectsPregnancy Category B
 
 Studies in which hydrochlorothiazide was orally administered to pregnant mice and rats during their respective periods of major organogenesis at doses up to 3000 and 1000 mg hydrochlorothiazide/kg, respectively, provided no evidence of harm to the fetus.
 
@@ -135,5 +144,5 @@ Because of the potential for serious adverse reactions in nursing infants, a dec
 
 ## Pediatric Use
 
-There are no well-controlled clinical trials in pediatric patients.
+There are no well controlled clinical trials in pediatric patients.
 Information on dosing in this age group is supported by evidence from empiric use in pediatric patients and published literature regarding the treatment of hypertension in such patients (see DOSAGE AND ADMINISTRATION, Infants and Children).
