@@ -1,8 +1,6 @@
 PRINCIPAL DISPLAY PANEL - Single Dose Vial Label 1 g
 
-1 Single dose vial
-
-1 g
+1 Single dose vial 1 g
 
 Rx only
 
@@ -14,29 +12,17 @@ Inactive ingredients: 175 mg sodium bicarbonate and sodium hydroxide to adjust p
 Solutions range from colorless to pale yellow.
 Variations of color within this range do not affect the potency of the product.
 
-FOR INTRAVENOUS OR INTRAMUSCULAR USE
-
-9712302
+FOR INTRAVENOUS OR INTRAMUSCULAR USE 9712303
 
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
+By: Laboratoires Merck Sharp & Dohme-Chibret Clermont Ferrand Cedex 9, 63963, France
 
-NDC 0006-3843-71
-
-Do not store lyophilized powder above 25°C (77°F).
-
-FOR INSTRUCTIONS ON RECONSTITUTION AND DILUTION and USUAL DOSAGE: See accompanying circular.
-
-Each vial contains 1.046 grams ertapenem sodium, equiv. to 1 gram ertapenem.
-
-Formulated in France.
+510174V 190112-1 3843
 
 PRINCIPAL DISPLAY PANEL - Single Dose ADD-Vantage Vial Label 1 g
 
-Single dose ADD-Vantage®* vial
-
-1 g
+Single dose ADD-Vantage®* vial 1 g
 
 Rx only
 
@@ -47,22 +33,10 @@ No. 3845
 Each vial contains 1.046 grams ertapenem sodium, equiv. to 1 gram ertapenem.
 
 FOR I.V.
-USE ONLY
-
-9785803
+USE ONLY 9785804
 
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
+By: Laboratoires Merck Sharp & Dohme-Chibret Clermont Ferrand Cedex 9, 63963, France Formulated in France.
 
-Formulated in France.
-
-NDC 0006-3845-01
-
-Do not store lyophilized powder above 25°C (77°F).
-
-FOR INSTRUCTIONS ON RECONSTITUTION AND DILUTION, USUAL DOSAGE, and INSTRUCTIONS FOR USE: See accompanying circular.
-
-Solution color variations from colorless to pale yellow do not affect product potency.
-
-*Registered trademark of Hospira Laboratories, Inc.
+510176V 190112-1 3845
