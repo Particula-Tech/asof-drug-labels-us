@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA091418"
+  ],
+  "inn": "doxorubicin",
+  "labeler": "Sun Pharmaceutical Industries Limited",
+  "package_ndcs": [
+    "62756-826-40",
+    "62756-827-40"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "doxorubicin hydrochloride",
+      "name": "DOXOrubicin Hydrochloride"
+    }
+  ],
+  "setid": "6bcde92b-e584-4919-866a-68847ea201ba",
+  "source": "dailymed"
+}
