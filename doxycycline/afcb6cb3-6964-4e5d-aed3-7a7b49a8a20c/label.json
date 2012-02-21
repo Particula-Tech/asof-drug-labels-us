@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050641"
+  ],
   "inn": "doxycycline",
-  "labeler": "Oclassen Dermatologics",
+  "labeler": "Watson Pharma, Inc.",
   "package_ndcs": [
     "55515-259-04",
     "55515-259-07",
     "55515-260-06"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "doxycycline",
+      "name": "Monodox"
+    }
+  ],
   "setid": "afcb6cb3-6964-4e5d-aed3-7a7b49a8a20c",
   "source": "dailymed"
 }

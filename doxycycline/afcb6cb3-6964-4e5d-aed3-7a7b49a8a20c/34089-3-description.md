@@ -6,6 +6,8 @@ The chemical designation of the light-yellow crystalline powder is alpha-6-deoxy
 
 Structural formula:
 
+C22H24N2O8• H2O M.W.=462.45
+
 Doxycycline has a high degree of lipid solubility and a low affinity for calcium binding.
 It is highly stable in normal human serum.
 Doxycycline will not degrade into an epianhydro form.
