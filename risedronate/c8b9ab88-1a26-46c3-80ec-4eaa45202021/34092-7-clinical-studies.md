@@ -17,8 +17,8 @@ Lumbar Spine BMD - Percent Change from Baseline at Endpointat 1 year LOCF
 |  | N = 307 | N = 307 |
 | Primary Efficacy (LOCF) |  |  |
 | n | 270 | 261 |
-| LS Mean (95% CI) | 3.1Indicates a statistically significant difference from baseline determined from 95% CI unadjusted for multiple comparisons. (2.7, 3.5) | 3.3 (2.9, 3.7) |
-| LS Mean DifferenceLS Mean Difference is 5 mg daily minus 35 mg weekly treatment. (95% CI) |  | -0.2 (-0.8, 0.3) |
+| LS Mean (95 percent CI) | 3.1Indicates a statistically significant difference from baseline determined from 95 percent CI unadjusted for multiple comparisons. (2.7, 3.5) | 3.3 (2.9, 3.7) |
+| LS Mean DifferenceLS Mean Difference is 5 mg daily minus 35 mg weekly treatment. (95 percent CI) |  | -0.2 (-0.8, 0.3) |
 | N = number of intent-to-treat patients within specified treatment; n = number of patients with values at the visit.LS = Least Squares |  |  |
 
 Fracture efficacy with risedronate sodium immediate-release 5 mg daily
@@ -32,7 +32,7 @@ Patients with low 25-hydroxyvitamin D3 levels (approximately 40 nmol/L or less) 
 
 Effect on Vertebral Fractures
 
-Fractures of previously undeformed vertebrae (new fractures) and worsening of pre-existing vertebral fractures were diagnosed radiographically; some of these fractures were also associated with symptoms (i.e., clinical fractures).
+Fractures of previously undeformed vertebrae (new fractures) and worsening of pre-existing vertebral fractures were diagnosed radiographically; some of these fractures were also associated with symptoms (that is, clinical fractures).
 Spinal radiographs were scheduled annually and prospectively planned analyses were based on the time to a patient’s first diagnosed fracture.
 The primary endpoint for these studies was the incidence of new and worsening vertebral fractures across the period of 0 to 3 years.
 Risedronate sodium immediate-release 5 mg daily significantly reduced the incidence of new and worsening vertebral fractures and of new vertebral fractures in both VERT NA and VERT MN at all time points (Table 3).
@@ -41,9 +41,9 @@ The reduction in risk seen in the subgroup of patients who had 2 or more vertebr
 Table 3.
 The Effect of Risedronate sodium 5 mg Immediate-Release Daily on the Risk of Vertebral Fractures
 
-|  | Proportion of Patients with Fracture (%)Calculated by Kaplan-Meier methodology. |  |  |  |
+|  | Proportion of Patients with Fracture (percent)Calculated by Kaplan-Meier methodology. |  |  |  |
 | --- | --- | --- | --- | --- |
-| VERT NA | Placebo N = 678 | Risedronate sodium 5 mg N = 696 | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |
+| VERT NA | Placebo N = 678 | Risedronate sodium5 mg N = 696 | Absolute Risk Reduction (percent) | Relative Risk Reduction (percent) |
 | New and Worsening |  |  |  |  |
 | 0 to 1 Year | 7.2 | 3.9 | 3.3 | 49 |
 | 0 to 2 Years | 12.8 | 8.0 | 4.8 | 42 |
@@ -52,7 +52,7 @@ The Effect of Risedronate sodium 5 mg Immediate-Release Daily on the Risk of Ver
 | 0 to 1 Year | 6.4 | 2.4 | 4.0 | 65 |
 | 0 to 2 Years | 11.7 | 5.8 | 5.9 | 55 |
 | 0 to 3 Years | 16.3 | 11.3 | 5.0 | 41 |
-| VERT MN | Placebo N = 346 | Risedronate sodium 5 mgN = 344 | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |
+| VERT MN | Placebo N = 346 | Risedronate sodium 5 mgN = 344 | Absolute Risk Reduction (percent) | Relative Risk Reduction (percent) |
 | New and Worsening |  |  |  |  |
 | 0 to 1 Year | 15.3 | 8.2 | 7.1 | 50 |
 | 0 to 2 Years | 28.3 | 13.9 | 14.4 | 56 |
@@ -66,8 +66,8 @@ Effect on Osteoporosis-Related Nonvertebral Fractures
 
 In VERT MN and VERT NA, a prospectively planned efficacy endpoint was defined consisting of all radiographically confirmed fractures of skeletal sites accepted as associated with osteoporosis.
 Fractures at these sites were collectively referred to as osteoporosis-related nonvertebral fractures.
-Risedronate sodium immediate-release 5 mg daily significantly reduced the incidence of nonvertebral osteoporosis-related fractures over 3 years in VERT NA (8% versus 5%; relative risk reduction 39%) and reduced the fracture incidence in VERT MN from 16% to 11%.
-There was a significant reduction from 11% to 7% when the studies were combined, with a corresponding 36% reduction in relative risk.
+Risedronate sodium immediate-release 5 mg daily significantly reduced the incidence of nonvertebral osteoporosis-related fractures over 3 years in VERT NA (8 percent versus 5 percent; relative risk reduction 39 percent) and reduced the fracture incidence in VERT MN from 16 percent to 11 percent.
+There was a significant reduction from 11 percent to 7 percent when the studies were combined, with a corresponding 36 percent reduction in relative risk.
 Figure 1 shows the overall results as well as the results at the individual skeletal sites for the combined studies.
 
 Histology/Histomorphometry
@@ -75,9 +75,9 @@ Histology/Histomorphometry
 Bone biopsies from 110 postmenopausal women were obtained at endpoint in the VERT NA study.
 Patients had received placebo or daily risedronate sodium immediate-release (2.5 mg or 5 mg) for 2 to 3 years.
 Histologic evaluation (N = 103) showed no osteomalacia, impaired bone mineralization, or other adverse effects on bone in risedronate sodium immediate-release treated women.
-These findings demonstrate that bone formed during risedronate sodium immediate- release administration is of normal quality.
-The histomorphometric parameter mineralizing surface, an index of bone turnover, was assessed based upon baseline and post-treatment biopsy samples from 21 treated with placebo and 23 patients treated with risedronate sodium immediate- release 5 mg daily.
-Mineralizing surface decreased moderately in risedronate sodium immediate- release treated patients (median percent change: placebo, -21%; risedronate sodium immediate- release 5 mg daily, -74%), consistent with the known effects of treatment on bone turnover.
+These findings demonstrate that bone formed during risedronate sodium immediate-release administration is of normal quality.
+The histomorphometric parameter mineralizing surface, an index of bone turnover, was assessed based upon baseline and post-treatment biopsy samples from 21 treated with placebo and 23 patients treated with risedronate sodium immediate-release 5 mg daily.
+Mineralizing surface decreased moderately in risedronate sodium immediate-release treated patients (median percent change: placebo, -21 percent; risedronate sodium immediate-release 5 mg daily, -74 percent), consistent with the known effects of treatment on bone turnover.
 
 Effect on Height
 

@@ -28,7 +28,7 @@ Adequate intake of calcium and vitamin D is important in all patients [see Contr
 ## 5.4 Jaw Osteonecrosis
 
 Osteonecrosis of the jaw (ONJ), which can occur spontaneously, is generally associated with tooth extraction and/or local infection with delayed healing, and has been reported in patients taking bisphosphonates, including risedronate.
-Known risk factors for osteonecrosis of the jaw include invasive dental procedures (e.g., tooth extraction, dental implants, boney surgery), diagnosis of cancer, concomitant therapies (e.g., chemotherapy, corticosteroids), poor oral hygiene, and co-morbid disorders (e.g., periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
+Known risk factors for osteonecrosis of the jaw include invasive dental procedures (for example, tooth extraction, dental implants, boney surgery), diagnosis of cancer, concomitant therapies (for example, chemotherapy, corticosteroids), poor oral hygiene, and co-morbid disorders (for example, periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
 
 For patients requiring invasive dental procedures, discontinuation of bisphosphonate treatment may reduce the risk for ONJ.
 Clinical judgment of the treating physician and/or oral surgeon should guide the management plan of each patient based on individual benefit/risk assessment.
@@ -53,7 +53,7 @@ Causality has not been established as these fractures also occur in osteoporotic
 
 Atypical femur fractures most commonly occur with minimal or no trauma to the affected area.
 They may be bilateral and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
-A number of reports note that patients were also receiving treatment with glucocorticoids (e.g. prednisone) at the time of fracture.
+A number of reports note that patients were also receiving treatment with glucocorticoids (for example, prednisone) at the time of fracture.
 
 Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
 Patients presenting with an atypical fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.

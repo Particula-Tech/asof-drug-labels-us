@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-AtelviaTM (risedronate sodium) delayed-release tablets are:
+Atelvia® (risedronate sodium) delayed-release tablets are:
 
 35 mg, yellow, oval-shaped, and engraved with EC 35 on one side.
 

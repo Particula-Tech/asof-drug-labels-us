@@ -9,7 +9,7 @@ To facilitate delivery to the stomach, Atelvia should be swallowed whole while t
 Tablets should not be chewed, cut, or crushed.
 Patients should not lie down for 30 minutes after taking the medication [see Warnings and Precautions (5.2)].
 
-Patients should receive supplemental calcium and vitamin D [see Warnings and Precautions (5.3))].
+Patients should receive supplemental calcium and vitamin D [see Warnings and Precautions (5.3)].
 Calcium supplements, antacids, magnesium-based supplements or laxatives, and iron preparations interfere with the absorption of Atelvia and it is recommended they be taken at a different time of the day.
 Atelvia is not recommended for use in patients with severe renal impairment (creatinine clearance <30 mL/min) because of lack of clinical experience.
 No dosage adjustment is necessary in patients with a creatinine clearance ≥30 mL/min or in the elderly.
