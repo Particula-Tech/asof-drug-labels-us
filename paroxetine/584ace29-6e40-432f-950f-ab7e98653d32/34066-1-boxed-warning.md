@@ -9,4 +9,4 @@ Families and caregivers should be advised of the need for close observation and 
 PAXIL is not approved for use in pediatric patients.
 (See WARNINGS: Clinical Worsening and Suicide Risk, PRECAUTIONS: Information for Patients, and PRECAUTIONS: Pediatric Use.)
 
-If you take PAXIL, you should not take any other medicines that contain paroxetine hydrochloride, including PAXIL CR and PEXEVA® (paroxetine mesylate).
+If you take PAXIL, you should not take any other medicines that contain paroxetine, including PAXIL CR and PEXEVA® (paroxetine mesylate).

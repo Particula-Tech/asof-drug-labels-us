@@ -113,21 +113,14 @@ Who should not take PAXIL?
 
 Do not take PAXIL if you:
 
-- are allergic to paroxetine hydrochloride or any of the ingredients in PAXIL.
+- are allergic to paroxetine or any of the ingredients in PAXIL.
   See the end of this Medication Guide for a complete list of ingredients in PAXIL.
-- take a Monoamine Oxidase Inhibitor (MAOI), such as PARNATE® (tranylcypromine), NARDIL® (phenelzine), or the antibiotic ZYVOX® (linezolid).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI.
-- Do not take an MAOI within 2 weeks of stopping PAXIL.
-
-- Do not start PAXIL if you stopped taking an MAOI in the last 2 weeks.
+- take a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+- Do not take an MAOI within 2 weeks of stopping PAXIL unless directed to do so by your physician.
+- Do not start PAXIL if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 - People who take PAXIL close in time to an MAOI may have serious or even life-threatening side effects.
   Get medical help right away if you have any of these symptoms:
-  - high fever
-  - uncontrolled muscle spasms
-  - stiff muscles
-  - rapid changes in heart rate or blood pressure
-  - confusion
-  - loss of consciousness (pass out)
 
 - take MELLARIL® (thioridazine).
   Do not take MELLARIL® together with PAXIL because this can cause serious heart rhythm problems or sudden death.
@@ -255,7 +248,7 @@ Inactive ingredients in tablets: dibasic calcium phosphate dihydrate, hypromello
 
 Inactive ingredients in suspension for oral administration: polacrilin potassium, microcrystalline cellulose, propylene glycol, glycerin, sorbitol, methylparaben, propylparaben, sodium citrate dihydrate, citric acid anhydrous, sodium saccharin, flavorings, FD&C Yellow No. 6 aluminum lake, and simethicone emulsion, USP.
 
-PAXIL, PAXIL CR and PARNATE are registered trademarks of GlaxoSmithKline.
+PAXIL and PAXIL CR are registered trademarks of GlaxoSmithKline.
 The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
 
@@ -276,4 +269,4 @@ Weston, FL 33326
 ©2011, GlaxoSmithKline.
 All rights reserved.
 
-March 2011 PXL-AP:2MG
+July 2011 PXL-AP:3MG
