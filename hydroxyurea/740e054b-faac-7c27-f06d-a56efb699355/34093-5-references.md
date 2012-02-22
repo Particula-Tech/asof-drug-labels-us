@@ -1,6 +1,6 @@
 # REFERENCES
 
-1. Charache S, Barton FB, Moore RD, et al; Hydroxyurea and sickle cell anemia: clinical utility of a myelosuppressive "switching" agent.
+1. Charache S, Barton FB, Moore RD, et al; Hydroxyurea and sickle cell anemia: clinical utility of a myelosuppressive “switching” agent.
    Medicine.
    1996;75:300-326.
 2. NIOSH Alert: Preventing occupational exposures to antineoplastic and other hazardous drugs in healthcare settings.

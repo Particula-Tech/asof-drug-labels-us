@@ -93,7 +93,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Prospective studies on the potential for hydroxyurea to interact with other drugs have not been performed.
 
-Studies have shown that there is an analytical interference of hydroxyurea with the enzymes (urease, uricase, and lactic dehydrogenase) used in the determination of urea, uric acid and lactic acid, rendering falsely elevated results of these in patients treated with hydroxyurea.
+Studies have shown that there is an analytical interference of hydroxyurea with the enzymes (urease, uricase, and lactate dehydrogenase) used in the determination of urea, uric acid and lactic acid, rendering falsely elevated results of these in patients treated with hydroxyurea.
 
 ## Information for Patients
 

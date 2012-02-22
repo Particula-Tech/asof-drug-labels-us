@@ -27,4 +27,4 @@ Pulmonary fibrosis also has been reported.
 
 In HIV-infected patients who received hydroxyurea in combination with antiretroviral agents, in particular, didanosine plus stavudine, fatal and nonfatal pancreatitis and hepatotoxicity, and severe peripheral neuropathy have been reported.
 Patients treated with hydroxyurea in combination with didanosine, stavudine, and indinavir in Study ACTG 5025 showed a median decline in CD4 cells of approximately 100/mm3.
-(SeeWARNINGS and PRECAUTIONS.)
+(See WARNINGS and PRECAUTIONS.)

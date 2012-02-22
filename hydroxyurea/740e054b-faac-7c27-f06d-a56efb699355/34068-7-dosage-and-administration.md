@@ -27,6 +27,8 @@ Any dosage on which a patient develops hematologic toxicity twice should not be 
 
 **toxic = neutrophils <2000 cells/mm3, platelets <80,000/mm3, hemoglobin <4.5 g/dL and reticulocytes <80,000/mm3 if the hemoglobin concentration <9 g/dL.
 
+Since hydroxyurea may raise the serum uric acid level, dosage adjustment of uricosuric medication may be necessary.
+
 ## Renal Insufficiency
 
 As renal excretion is a pathway of elimination, consideration should be given to decreasing the dosage of DROXIA in patients with renal impairment.
