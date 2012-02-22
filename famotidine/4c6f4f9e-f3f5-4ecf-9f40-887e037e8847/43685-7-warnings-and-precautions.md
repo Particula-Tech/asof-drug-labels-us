@@ -6,7 +6,8 @@ Symptomatic response to therapy with famotidine does not preclude the presence o
 
 ## Patients with Moderate or Severe Renal Insufficiency
 
-Since CNS adverse effects have been reported in patients with moderate and severe renal insufficiency, longer intervals between doses or lower doses may need to be used in patients with moderate (creatinine clearance <50 mL/min) or severe (creatinine clearance <10 mL/min) renal insufficiency to adjust for the longer elimination half-life of famotidine (see CLINICAL PHARMACOLOGY IN ADULTS and DOSAGE AND ADMINISTRATION).
+Since CNS adverse effects have been reported in patients with moderate and severe renal insufficiency, longer intervals between doses or lower doses may need to be used in patients with moderate (creatinine clearance < 50 mL/min) or severe (creatinine clearance < 10 mL/min) renal insufficiency to adjust for the longer elimination half-life of famotidine (see CLINICAL PHARMACOLOGY IN ADULTS and DOSAGE AND ADMINISTRATION).
+Prolonged QT interval has been reported very rarely in patients with impaired renal function whose dose/dosing interval of famotidine may not have been adjusted appropriately.
 
 ## Drug Interactions
 
@@ -42,20 +43,20 @@ Transient growth depression was observed in young rats suckling from mothers tre
 Famotidine is detectable in human milk.
 Because of the potential for serious adverse reactions in nursing infants from famotidine, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
-## Pediatric Patients <1 year of age
+## Pediatric Patients < 1 year of age
 
-Use of famotidine in pediatric patients <1 year of age is supported by evidence from adequate and well-controlled studies of famotidine in adults, and by the following studies in pediatric patients <1 year of age.
+Use of famotidine in pediatric patients < 1 year of age is supported by evidence from adequate and well-controlled studies of famotidine in adults, and by the following studies in pediatric patients < 1 year of age.
 
-Two pharmacokinetic studies in pediatric patients <1 year of age (N=48) demonstrated that clearance of famotidine in patients >3 months to 1 year of age is similar to that seen in older pediatric patients (1 to 15 years of age) and adults.
+Two pharmacokinetic studies in pediatric patients < 1 year of age (N = 48) demonstrated that clearance of famotidine in patients > 3 months to 1 year of age is similar to that seen in older pediatric patients (1 to 15 years of age) and adults.
 In contrast, pediatric patients 0 to 3 months of age had famotidine clearance values that were 2 to 4 fold less than those in older pediatric patients and adults.
-These studies also show that the mean bioavailability in pediatric patients <1 year of age after oral dosing is similar to older pediatric patients and adults.
+These studies also show that the mean bioavailability in pediatric patients < 1 year of age after oral dosing is similar to older pediatric patients and adults.
 Pharmacodynamic data in pediatric patients 0 to 3 months of age suggest that the duration of acid suppression is longer compared with older pediatric patients, consistent with the longer famotidine half-life in pediatric patients 0 to 3 months of age (see CLINICAL PHARMACOLOGY IN PEDIATRIC PATIENTS, Pharmacokinetics and Pharmacodynamics).
 
-In a double-blind, randomized, treatment-withdrawal study, 35 pediatric patients <1 year of age who were diagnosed as having gastroesophageal reflux disease were treated for up to 4 weeks with famotidine oral suspension (0.5 mg/kg/dose or 1 mg/kg/dose).
+In a double-blind, randomized, treatment-withdrawal study, 35 pediatric patients < 1 year of age who were diagnosed as having gastroesophageal reflux disease were treated for up to 4 weeks with famotidine oral suspension (0.5 mg/kg/dose or 1 mg/kg/dose).
 Although an intravenous famotidine formulation was available, no patients were treated with intravenous famotidine in this study.
 Also, caregivers were instructed to provide conservative treatment including thickened feedings.
 Enrolled patients were diagnosed primarily by history of vomiting (spitting up) and irritability (fussiness).
-The famotidine dosing regimen was once daily for patients <3 months of age and twice daily for patients ≥3 months of age.
+The famotidine dosing regimen was once daily for patients < 3 months of age and twice daily for patients ≥ 3 months of age.
 After 4 weeks of treatment, patients were randomly withdrawn from the treatment and followed an additional 4 weeks for adverse events and symptomatology.
 Patients were evaluated for vomiting (spitting up), irritability (fussiness) and global assessments of improvement.
 The study patients ranged in age at entry from 1.3 to 10.5 months (mean 5.6 ± 2.9 months), 57% were female, 91% were white and 6% were black.
@@ -65,7 +66,7 @@ Most patients improved during the initial treatment phase of the study.
 Results of the treatment-withdrawal phase were difficult to interpret because of small numbers of patients.
 Of the 35 patients enrolled in the study, agitation was observed in 5 patients on famotidine that resolved when the medication was discontinued; agitation was not observed in patients on placebo (see ADVERSE REACTIONS, Pediatric Patients).
 
-These studies suggest that a starting dose of 0.5 mg/kg/dose of famotidine oral suspension may be of benefit for the treatment of GERD for up to 4 weeks once daily in patients <3 months of age and twice daily in patients 3 months to <1 year of age; the safety and benefit of famotidine treatment beyond 4 weeks have not been established.
+These studies suggest that a starting dose of 0.5 mg/kg/dose of famotidine oral suspension may be of benefit for the treatment of GERD for up to 4 weeks once daily in patients < 3 months of age and twice daily in patients 3 months to < 1 year of age; the safety and benefit of famotidine treatment beyond 4 weeks have not been established.
 Famotidine should be considered for the treatment of GERD only if conservative measures (e.g., thickened feedings) are used concurrently and if the potential benefit outweighs the risk.
 
 ## Pediatric Patients 1 to 16 years of age
@@ -90,7 +91,7 @@ Published uncontrolled clinical studies in pediatric patients have employed dose
 
 ## Geriatric Use
 
-Of the 4,966 subjects in clinical studies who were treated with famotidine, 488 subjects (9.8%) were 65 and older, and 88 subjects (1.7%) were greater than 75 years of age.
+Of the 4966 subjects in clinical studies who were treated with famotidine, 488 subjects (9.8%) were 65 and older, and 88 subjects (1.7%) were greater than 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 However, greater sensitivity of some older individuals cannot be ruled out.
 

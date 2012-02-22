@@ -15,7 +15,8 @@ Fever, asthenia, fatigue
 
 ## Cardiovascular
 
-Arrhythmia, AV block, palpitation
+Arrhythmia, AV block, palpitation.
+Prolonged QT interval, in patients with impaired renal function, has been reported very rarely.
 
 ## Gastrointestinal
 
@@ -58,4 +59,4 @@ The adverse reactions reported for famotidine tablets may also occur with famoti
 
 ## Pediatric Patients
 
-In a clinical study in 35 pediatric patients <1 year of age with GERD symptoms [e.g., vomiting (spitting up), irritability (fussing)], agitation was observed in 5 patients on famotidine that resolved when the medication was discontinued.
+In a clinical study in 35 pediatric patients < 1 year of age with GERD symptoms [e.g., vomiting (spitting up), irritability (fussing)], agitation was observed in 5 patients on famotidine that resolved when the medication was discontinued.

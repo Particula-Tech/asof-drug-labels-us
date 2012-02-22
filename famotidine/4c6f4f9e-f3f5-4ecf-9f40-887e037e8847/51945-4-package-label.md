@@ -1,14 +1,10 @@
-# PRINCIPAL DISPLAY SECTION
+# PRINCIPAL DISPLAY PANEL
 
-## Famotidine 20 mg 100s Label Text
+## Famotidine Tablets USP 20mg 100s Label Text
 
 NDC 0172-5728-60
 
-FAMOTIDINE
-
-Tablets USP
-
-20 mg
+FAMOTIDINE Tablets USP 20 mg
 
 Rx only
 
@@ -18,15 +14,11 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## Famotidine 40 mg 100s Label Text
+## Famotidine Tablets USP 40mg 100s Label Text
 
 NDC 0172-5729-60
 
-FAMOTIDINE
-
-Tablets USP
-
-40 mg
+FAMOTIDINE Tablets USP 40 mg
 
 Rx only
 

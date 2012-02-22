@@ -9,4 +9,4 @@ C8H15N7O2S3 M.W.
 Famotidine is a white to pale yellow crystalline compound that is freely soluble in glacial acetic acid, slightly soluble in methanol, very slightly soluble in water, and practically insoluble in ethanol.
 
 Each tablet for oral administration contains either 20 mg or 40 mg of famotidine and has the following inactive ingredients: colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch, sodium starch glycolate, talc, titanium dioxide, yellow iron oxide.
-In addition the 20 mg contains lactose monohydrate, red iron oxide and triacetin and the 40 mg contains FD&C blue #2 aluminum lake and FD&C yellow #6 aluminum lake.
+In addition the 20 mg contains lactose monohydrate, red iron oxide and triacetin and the 40 mg contains FD&C blue No. 2 aluminum lake and FD&C yellow No. 6 aluminum lake.
