@@ -16,7 +16,7 @@ Who should not use ACZONE® Gel?
 Do not use ACZONE® Gel if you are allergic to any of the ingredients in ACZONE® Gel or if you are younger than 12 years of age.
 
 Active ingredient: dapsone.
-Inactive ingredients: Carbomer 980, diethylene glycol monoethyl ether (DGME), methylparaben, sodium hydroxide, and purified water.
+Inactive ingredients: Carbomer homopolymer type C, diethylene glycol monoethyl ether (DGME), methylparaben, sodium hydroxide, and purified water.
 
 What should I tell my doctor before using ACZONE® Gel?
 
@@ -42,7 +42,7 @@ How do I use ACZONE® Gel?
   Gently pat your skin dry with a clean towel.
 - Apply a thin layer of ACZONE® Gel to the areas of your skin that have acne.
   A pea-sized amount of ACZONE® Gel will usually be enough.
-- Rub the medicine in gently and completely
+- Rub the medicine in gently and completely.
 - Make sure to put the cap back on the ACZONE® Gel tube.
   Close it tightly.
 - Wash your hands after applying ACZONE® Gel.
@@ -70,7 +70,7 @@ If you have any questions, ask your doctor or pharmacist.
 
 How should I store ACZONE® Gel?
 
-Store ACZONE® Gel at room temperature 68 to 76ºF.
+Store ACZONE® Gel at room temperature 68 to 77ºF.
 Do not freeze ACZONE® Gel.
 
 Keep ACZONE® Gel out of the reach of children less than 12 years of age.
@@ -81,8 +81,10 @@ If you have any questions or want more information about ACZONE® Gel, ask your 
 Your doctor or pharmacist can also give you a copy of the ACZONE® Gel Package Insert written for health professionals.
 Ask them to explain anything you do not understand.
 
-You may call 1-800-433-8871 or visit www.allergan.com to obtain more information about ACZONE® Gel.
+You may call 1-800-433-8871 to obtain more information about ACZONE® Gel.
 
 ACZONE® (dapsone) Gel, 5%
 
-Manufactured for: Allergan, Inc., Irvine, CA 92612, U.S.A. Manufactured by: TOLMAR Inc., Fort Collins, CO 80526, U.S.A. © 2009 Allergan, Inc., Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. U.S. Patents 5,863,560; 6,060,085; and 6,620,435 72062US11A 44426 Rev 1 2/09
+© 2011 Allergan, Inc., Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. U.S. Patents 5,863,560; 6,060,085; and 6,620,435 Made in the U.S.A.
+
+72205US12C

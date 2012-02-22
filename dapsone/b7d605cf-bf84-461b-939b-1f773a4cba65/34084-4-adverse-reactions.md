@@ -31,7 +31,7 @@ Table 1 – Application Site Adverse Reactions by Maximum Severity
 
 The adverse reactions occurring in at least 1% of patients in either arm in the four vehicle controlled studies are presented in Table 2.
 
-Table 2 – Adverse Reactions Occurring in at least 1% of Patients
+Table 2 – Adverse Reactions Occurring in at Least 1% of Patients
 
 |  | ACZONE® N=1819 | Vehicle N=1660 |
 | --- | --- | --- |

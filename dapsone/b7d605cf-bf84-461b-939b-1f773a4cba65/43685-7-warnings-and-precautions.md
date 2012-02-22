@@ -4,7 +4,7 @@
 
 Oral dapsone treatment has produced dose-related hemolysis and hemolytic anemia.
 Individuals with glucose-6-phosphate dehydrogenase (G6PD) deficiency are more prone to hemolysis with the use of certain drugs.
-G6PD deficiency is most prevalent in populations of African, South Asian, Middle Eastern and Mediterranean ancestry.
+G6PD deficiency is most prevalent in populations of African, South Asian, Middle Eastern, and Mediterranean ancestry.
 
 There was no evidence of clinically relevant hemolysis or anemia in patients treated with ACZONE® Gel, 5%, including patients who were G6PD deficient.
 Some subjects with G6PD deficiency using ACZONE® Gel developed laboratory changes suggestive of mild hemolysis.

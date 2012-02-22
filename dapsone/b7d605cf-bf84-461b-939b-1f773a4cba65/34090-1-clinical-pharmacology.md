@@ -7,7 +7,7 @@ The mechanism of action of dapsone gel in treating acne vulgaris is not known.
 ## 12.3 Pharmacokinetics
 
 An open-label study compared the pharmacokinetics of dapsone after ACZONE® Gel, 5%, (110 ± 60 mg/day) was applied twice daily (~BSA 22.5%) for 14 days (n=18) with a single 100 mg dose of oral dapsone administered to a subgroup of patients (n=10) in a crossover design.
-On Day 14 the mean dapsone AUC0-24 h was 415 ± 224 ng•h/mL for ACZONE® Gel, 5%, whereas following a single 100 mg dose of oral dapsone the AUC0-infinity was 52,641 ± 36,223 ng•h/mL.
+On Day 14 the mean dapsone AUC0-24h was 415 ± 224 ng•h/mL for ACZONE® Gel, 5%, whereas following a single 100 mg dose of oral dapsone the AUC0-infinity was 52,641 ± 36,223 ng•h/mL.
 Exposure after the oral dose of 100 mg dapsone was approximately 100 times greater than after the topical ACZONE® Gel, 5% dose, twice a day.
 
 In a long-term safety study of ACZONE® Gel, 5% treatment, periodic blood samples were collected up to 12 months to determine systemic exposure of dapsone and its metabolites in approximately 500 patients.

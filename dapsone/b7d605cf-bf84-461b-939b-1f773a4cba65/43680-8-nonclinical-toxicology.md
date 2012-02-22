@@ -10,7 +10,7 @@ Dapsone was not carcinogenic to rats when orally administered to females for 92 
 No evidence of potential to induce carcinogenicity was obtained in a dermal study in which dapsone gel was topically applied to Tg.AC transgenic mice for approximately 26 weeks.
 Dapsone concentrations of 3%, 5%, and 10% were evaluated; 3% material was judged to be the maximum tolerated dosage.
 
-ACZONE® Gel, 5%, did not increase the rate of formation of ultra violet light-induced skin tumors when topically applied to hairless mice in a 12-month photocarcinogenicity study.
+ACZONE® Gel, 5%, did not increase the rate of formation of ultraviolet light-induced skin tumors when topically applied to hairless mice in a 12-month photocarcinogenicity study.
 
 The effects of dapsone on fertility and general reproduction performance were assessed in male and female rats following oral (gavage) dosing.
 Dapsone reduced sperm motility at dosages of 3 mg/kg/day or greater (approximately 17 times the systemic exposure observed in human males as a result of use of the maximum recommended topical dose, based on AUC comparisons).

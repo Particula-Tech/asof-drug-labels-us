@@ -1,11 +1,11 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Trimethoprim-Sulfomethoxazole
+## 7.1 Trimethoprim-Sulfamethoxazole
 
 A drug-drug interaction study evaluated the effect of the use of ACZONE® Gel, 5%, in combination with double strength (160 mg/800 mg) trimethoprim-sulfamethoxazole (TMP/SMX).
 During co-administration, systemic levels of TMP and SMX were essentially unchanged.
 However, levels of dapsone and its metabolites increased in the presence of TMP/SMX.
-Systemic exposure (AUC0-12) of dapsone and N-acetyl-dapsone (NAD) were increased by about 40% and 20% respectively in presence of TMP/SMX.
+Systemic exposure (AUC0-12) of dapsone and N-acetyl-dapsone (NAD) were increased by about 40% and 20% respectively in the presence of TMP/SMX.
 Notably, systemic exposure (AUC0-12) of dapsone hydroxylamine (DHA) was more than doubled in the presence of TMP/SMX.
 Exposure from the proposed topical dose is about 1% of that from the 100 mg oral dose, even when co-administered with TMP/SMX.
 
