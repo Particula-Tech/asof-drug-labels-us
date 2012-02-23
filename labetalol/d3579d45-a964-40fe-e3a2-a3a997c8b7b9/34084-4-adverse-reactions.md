@@ -50,4 +50,6 @@ Hypersensitivity: Rare reports of hypersensitivity (e.g., rash, urticaria, pruri
 
 The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with labetalol during investigational use and extensive foreign marketing experience.
 
-Clinical Laboratory Tests: Among patients dosed with labetalol tablets, there have been reversible increases of serum transaminases in 4% of patients tested, and more rarely, reversible increases in blood urea.
+Clinical Laboratory Tests
+
+Among patients dosed with labetalol tablets, there have been reversible increases of serum transaminases in 4% of patients tested, and more rarely, reversible increases in blood urea.

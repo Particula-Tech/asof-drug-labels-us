@@ -9,13 +9,17 @@ The patient’s ability to tolerate an upright position should be established be
 
 Either of two methods of administration of labetalol hydrochloride injection may be used: a) repeated intravenous injections, b) slow continuous infusion.
 
-Repeated Intravenous Injection: Initially, labetalol hydrochloride injection should be given in a dose of 20 mg labetalol HCl (which corresponds to 0.25 mg/kg for an 80 kg patient) by slow intravenous injection over a 2-minute period.
+Repeated Intravenous Injection
+
+Initially, labetalol hydrochloride injection should be given in a dose of 20 mg labetalol HCl (which corresponds to 0.25 mg/kg for an 80 kg patient) by slow intravenous injection over a 2-minute period.
 
 Immediately before the injection and at 5 and 10 minutes after injection, supine blood pressure should be measured to evaluate response.
 Additional injections of 40 mg or 80 mg can be given at 10 minute intervals until a desired supine blood pressure is achieved or a total of 300 mg labetalol HCl has been injected.
 The maximum effect usually occurs within 5 minutes of each injection.
 
-Slow Continuous Infusion: Labetalol hydrochloride injection is prepared for intravenous continuous infusion by diluting the drug with commonly used intravenous fluids (see below).
+Slow Continuous Infusion
+
+Labetalol hydrochloride injection is prepared for continuous intravenous infusion by diluting the contents with commonly used intravenous fluids (see below).
 Examples of methods of preparing the infusion solution are:
 
 Labetalol hydrochloride injection 200 mg is added to 160 mL of a commonly used intravenous fluid such that the resultant 200 mL of solution contains 200 mg of labetalol hydrochloride, 1 mg/mL.
@@ -33,29 +37,33 @@ The infusion should be continued until a satisfactory response is obtained and s
 The effective intravenous dose is usually in the range of 50 to 200 mg.
 A total dose of up to 300 mg may be required in some patients.
 
-Blood Pressure Monitoring: The blood pressure should be monitored during and after completion of the infusion or intravenous injections.
+Blood Pressure Monitoring
+
+The blood pressure should be monitored during and after completion of the infusion or intravenous injections.
 Rapid or excessive falls in either systolic or diastolic blood pressure during intravenous treatment should be avoided.
 In patients with excessive systolic hypertension, the decrease in systolic pressure should be used as indicator of effectiveness in addition to the response of the diastolic pressure.
 
-Initiation of Dosing with Labetalol Hydrochloride Tablets: Subsequent oral dosing with labetalol hydrochloride tablets should begin when it has been established that the supine diastolic blood pressure has begun to rise.
+Initiation of Dosing with Labetalol Hydrochloride Tablets
+
+Subsequent oral dosing with labetalol hydrochloride tablets should begin when it has been established that the supine diastolic blood pressure has begun to rise.
 The recommended initial dose is 200 mg, followed in 6 to 12 hours by an additional dose of 200 or 400 mg, depending on the blood pressure response.
 Thereafter, inpatient titration with labetalol hydrochloride tablets may proceed as follows:
 
-| Inpatient Titration Instructions |  |
-| --- | --- |
+Inpatient Titration Instructions
+
 | Regimen | Daily Dose* |
+| --- | --- |
 | 200 mg b.i.d. | 400 mg |
 | 400 mg b.i.d. | 800 mg |
 | 800 mg b.i.d. | 1600 mg |
 | 1200 mg b.i.d. | 2400 mg |
-
-* If needed, the total daily dose may be given in three divided doses.
+| * If needed, the total daily dose may be given in three divided doses. |  |
 
 While in the hospital, the dosage of labetalol hydrochloride tablets may be increased at 1 day intervals to achieve the desired blood pressure reduction.
 
 For subsequent outpatient titration or maintenance dosing see Labetalol Hydrochloride Tablets Product Information DOSAGE AND ADMINISTRATION for additional recommendations.
 
-Compatibility with commonly used intravenous fluids:
+Compatibility with commonly used intravenous fluids
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
