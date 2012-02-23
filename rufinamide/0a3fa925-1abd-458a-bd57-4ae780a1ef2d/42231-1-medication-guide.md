@@ -1,4 +1,4 @@
-# Medication Guide
+Medication Guide
 
 BANZEL (ban-'zel) [rufinamide] Tablets and Oral Suspension
 
@@ -183,7 +183,7 @@ The oral suspension does contain carbohydrates.
 
 Manufactured by Eisai Co., Ltd. Marketed by Eisai Inc. Woodcliff Lake, NJ 07677
 
-Revised March 2011
+Revised November 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

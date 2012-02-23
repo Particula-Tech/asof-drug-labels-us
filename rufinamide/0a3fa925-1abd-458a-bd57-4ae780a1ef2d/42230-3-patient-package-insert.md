@@ -1,4 +1,4 @@
-# BANZEL Oral Suspension Instructions for Use
+BANZEL Oral Suspension Instructions for Use
 
 Instructions for Use BANZEL (ban-'zel) [rufinamide] Oral Suspension
 
@@ -16,7 +16,7 @@ You will need the following supplies: See Figure A
 
 Figure A
 
-| Your total daily dose of BANZEL Oral Suspension is______mL. Take BANZEL in 2 equally divided doses: Morning dose = _____mL Evening dose = ______mL Note: The doctor may change your dose, especially when you are first starting BANZEL Oral Suspension. If your morning and evening doses are more than 20 mL each, measure each dose using either: 2 syringes, or1 syringe, taking two steps to draw up the medicine in that same syringe |
+| Your total daily dose of BANZEL Oral Suspension is ______mL. Take BANZEL in 2 equally divided doses: Morning dose = _____mL Evening dose = ______mL Note: The doctor may change your dose, especially when you are first starting BANZEL Oral Suspension. If your morning and evening doses are more than 20 mL each, measure each dose using either: 2 syringes, or1 syringe, taking two steps to draw up the medicine in that same syringe |
 | --- |
 
 Step 1.
