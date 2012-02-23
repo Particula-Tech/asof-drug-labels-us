@@ -111,14 +111,6 @@ ONMEL can cause serious side effects, including:
 - See “What is the most important information I should know about ONMEL?”
 - liver failure and death.
   Stop taking ONMEL and call your doctor right away if you have symptoms of liver failure including:
-  - unusually tired
-  - lose your appetite
-  - nausea
-  - abdominal pain
-  - vomiting
-  - yellow change in the color of your skin or eyes
-  - dark colored urine
-  - pale stools (bowel movements)
 
 - nerve damage (neuropathy).
   Call your doctor right away if you have tingling or numbness in your hands or feet.
@@ -157,7 +149,7 @@ General Information:
 
 Medicines are sometimes prescribed for conditions that are not mentioned in Patient Information leaflets.
 Do not use ONMEL for a condition for which it was not prescribed.
-Do not give ONMEL to other people, even if they have the same symptoms that your have.
+Do not give ONMEL to other people, even if they have the same symptoms that you have.
 It may harm them.
 
 This leaflet summarizes the most important information about ONMEL.
