@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA077869"
+  ],
+  "inn": "zonisamide",
+  "labeler": "Exelan Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "76282-228-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "zonisamide",
+      "name": "Zonisamide"
+    }
+  ],
+  "setid": "24284954-0c29-458f-a9f8-97a7ad418ca7",
+  "source": "dailymed"
+}
