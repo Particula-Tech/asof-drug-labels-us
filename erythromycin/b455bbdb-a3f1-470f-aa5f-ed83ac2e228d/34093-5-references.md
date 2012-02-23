@@ -1,8 +1,8 @@
 # REFERENCES
 
 1. Clinical and Laboratory Standards Institute.
-   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically, 7th ed.
-   Approved Standard, CLSI Document M07-A7, Vol. 26(2).
+   Method for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically, 7th ed.
+   Approved Standard CLSI Document M07-A7, Vol. 26(2).
    CLSI, Wayne, PA, Jan.
    2006.
 2. Clinical and Laboratory Standards Institute.
@@ -18,4 +18,4 @@
    Circulation.
    78(4):1082-1086, October 1988.
 5. Honein, M.A., et. al.: Infantile hypertrophic pyloric stenosis after pertussis prophylaxis with erythromycin: a case review and cohort study.
-   The Lancet 1999;354 (9196):2101-5.
+   The Lancet 1999;354 (9196): 2101-5.

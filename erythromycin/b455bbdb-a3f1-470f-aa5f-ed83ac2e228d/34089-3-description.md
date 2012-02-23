@@ -23,9 +23,9 @@ E.E.S.
 Granules and ready-made suspensions are intended primarily for pediatric use but can also be used in adults.
 
 E.E.S.
-400® Film-coated Tablets: Each tablet contains erythromycin ethylsuccinate equivalent to 400 mg of erythromycin.
+400 film-coated tablets: Each tablet contains erythromycin ethylsuccinate equivalent to 400 mg of erythromycin.
 
-The Film-coated tablets are intended primarily for adults or older children.
+The film-coated tablets are intended primarily for adults or older children.
 
 ## Inactive Ingredients
 
@@ -39,4 +39,4 @@ E.E.S.
 Granules: Citric acid, FD&C Red No. 3, magnesium aluminum silicate, sodium carboxymethylcellulose, sodium citrate, sucrose and artificial flavor.
 
 E.E.S.
-400 Film-coated Tablets: Cellulosic polymers, confectioner's sugar (contains corn starch), cornstarch, D&C Red No. 30, D&C Yellow No. 10, FD&C Red No. 40, magnesium stearate, polacrilin potassium, polyethylene glycol, propylene glycol, sodium citrate, sorbic acid, and titanium dioxide.
+400 film-coated tablets: Cellulosic polymers, confectioner's sugar (contains corn starch), corn starch, D&C Red No. 30, D&C Yellow No. 10, FD&C Red No. 40, magnesium stearate, polacrilin potassium, polyethylene glycol, propylene glycol, sodium citrate, sorbic acid, and titanium dioxide.

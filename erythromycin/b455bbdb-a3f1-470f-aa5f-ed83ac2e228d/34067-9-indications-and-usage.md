@@ -4,7 +4,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
-E.E.S. is indicated in the treatment of infections caused by susceptible strains of the designated organisms in the diseases listed below
+E.E.S. is indicated in the treatment of infections caused by susceptible strains of the designated organisms in the diseases listed below:
 
 Upper respiratory tract infections of mild to moderate degree caused by Streptococcus pyogenes, Streptococcus pneumoniae, or Haemophilus influenzae (when used concomitantly with adequate doses of sulfonamides, since many strains of H. influenzae are not susceptible to the erythromycin concentrations ordinarily achieved).
 (See appropriate sulfonamide labeling for prescribing information.)

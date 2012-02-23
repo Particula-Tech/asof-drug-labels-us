@@ -3,15 +3,18 @@
 The most frequent side effects of oral erythromycin preparations are gastrointestinal and are dose-related.
 They include nausea, vomiting, abdominal pain, diarrhea and anorexia.
 Symptoms of hepatitis, hepatic dysfunction and/or abnormal liver function test results may occur.
-(See WARNINGS.)
+(See WARNINGS section.)
 
-Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment.
-(See WARNINGS.)
+Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment.
+(See WARNINGS section.)
 
 Erythromycin has been associated with QT prolongation and ventricular arrhythmias, including ventricular tachycardia and torsades de pointes.
+(See WARNINGS.)
 
 Allergic reactions ranging from urticaria to anaphylaxis have occurred.
 Skin reactions ranging from mild eruptions to erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported rarely.
+
+There have been reports of interstitial nephritis coincident with erythromycin use.
 
 There have been rare reports of pancreatitis and convulsions.
 

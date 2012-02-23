@@ -1,8 +1,8 @@
 # DOSAGE AND ADMINISTRATION
 
-Erythromycin ethylsuccinate suspensions and Film-coated tablets may be administered without regard to meals.
+Erythromycin ethylsuccinate suspensions and film-coated tablets may be administered without regard to meals.
 
-### Children
+## Children
 
 Age, weight, and severity of the infection are important factors in determining the proper dosage.
 In mild to moderate infections the usual dosage of erythromycin ethylsuccinate for children is 30 to 50 mg/kg/day in equally divided doses every 6 hours.
@@ -14,15 +14,14 @@ The following dosage schedule is suggested for mild to moderate infections:
 
 | Body Weight | Total Daily Dose |
 | --- | --- |
-| Under 10 lbs | 30-50 mg/kg/day |
-|  | 15-25 mg/kg/q 12 h |
+| Under 10 lbs | 30-50 mg/kg/day 15-25 mg/lb/day |
 | 10 to 15 lbs | 200 mg |
 | 16 to 25 lbs | 400 mg |
 | 26 to 50 lbs | 800 mg |
 | 51 to 100 lbs | 1200 mg |
 | over 100 lbs | 1600 mg |
 
-### Adults
+## Adults
 
 400 mg erythromycin ethylsuccinate every 6 hours is the usual dose.
 Dosage may be increased up to 4 g per day according to the severity of the infection.
@@ -45,7 +44,6 @@ Adults: 48 to 64 g given in divided doses over a period of 10 to 15 days.
 ## For Intestinal Amebiasis
 
 Adults: 400 mg four times daily for 10 to 14 days.
-
 Children: 30 to 50 mg/kg/day in divided doses for 10 to 14 days.
 
 ## For Use in Pertussis

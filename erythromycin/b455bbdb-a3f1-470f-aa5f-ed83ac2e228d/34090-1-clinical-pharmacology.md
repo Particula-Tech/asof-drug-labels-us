@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Orally administered erythromycin ethylsuccinate suspensions and Filmtab tablets are readily and reliably absorbed.
+Orally administered erythromycin ethylsuccinate suspensions and film-coated tablets are readily and reliably absorbed.
 Comparable serum levels of erythromycin are achieved in the fasting and nonfasting states.
 
 Erythromycin diffuses readily into most body fluids.
@@ -23,7 +23,7 @@ Staphylocci resistant to erythromycin may emerge during a course of therapy.
 
 Erythromycin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-Gram-positive Organisms
+### Gram-positive Organisms
 
 - Corynebacterium diphtheriae
 - Corynebacterium minutissimum
@@ -32,12 +32,14 @@ Gram-positive Organisms
 - Streptococcus pneumoniae
 - Streptococcus pyogenes
 
-Gram-negative Organisms
+### Gram-negative Organisms
 
 - Bordetella pertussis
 - Legionella pneumophila
 - Neisseria gonorrhoeae
-- Other Microorganisms
+
+### Other Microorganisms
+
 - Chlamydia trachomatis
 - Entamoeba histolytica
 - Mycoplasma pneumoniae
@@ -48,17 +50,17 @@ The following in vitro data are available, but their clinical significance is un
 
 Erythromycin exhibits in vitro minimal inhibitory concentrations (MIC's) of 0.5 µg/mL or less against most (≥ 90%) strains of the following microorganisms; however, the safety and effectiveness of erythromycin in treating clinical infections due to these microorganisms have not been established in adequate and well controlled clinical trials.
 
-Gram-positive Organisms
+### Gram-positive Organisms
 
 - Viridans group streptococci
 
-Gram-negative Organisms
+### Gram-negative Organisms
 
 - Moraxella catarrhalis
 
-## Susceptibility Tests
+### Susceptibility Tests
 
-### Dilution Techniques
+#### Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MIC's).
 These MIC's provide estimates of the susceptibility of bacteria to antimicrobial compounds.
@@ -93,11 +95,11 @@ Standard erythromycin powder should provide the following MIC values:
 
 | Microorganism | MIC (µg/mL) |
 | --- | --- |
-| S. aureus ATCCATCC is a registered trademark of the American Type Culture Collection 29213 | 0.25-1 |
+| S. aureus ATCCATCC is a registered trademark of the American Type Culture Collection 25923 | 0.25-1 |
 | E. faecalis ATCC 29212 | 1-4 |
 | S. pneumoniae ATCC 49619 | 0.03-0.12 |
 
-## Diffusion Techniques
+#### Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
@@ -109,17 +111,17 @@ For Staphylococcus spp:
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
-| ≥ 23 | Susceptible (S) |
+| ≥23 | Susceptible (S) |
 | 14-22 | Intermediate (I) |
-| ≤ 13 | Resistant (R) |
+| ≤13 | Resistant (R) |
 
 For Streptococcus spp. and Streptococcus pneumoniae:
 
 | Zone Diameter (mm) | Interpretation |
 | --- | --- |
-| ≥ 21 | Susceptible (S) |
+| ≥21 | Susceptible (S) |
 | 16-20 | Intermediate (I) |
-| ≤ 15 | Resistant (R) |
+| ≤15 | Resistant (R) |
 
 Interpretation should be as stated above for results using dilution techniques.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for erythromycin.

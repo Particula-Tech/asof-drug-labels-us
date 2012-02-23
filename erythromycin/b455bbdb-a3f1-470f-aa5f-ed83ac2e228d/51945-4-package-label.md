@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 100 Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 400 mg Tablet Bottle Label
 
 NDC 24338-100-13 100 Tablets
 

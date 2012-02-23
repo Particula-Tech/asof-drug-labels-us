@@ -1,9 +1,23 @@
 # WARNINGS
 
+## Hepatotoxicity
+
 There have been reports of hepatic dysfunction, including increased liver enzymes, and hepatocellular and/or cholestatic hepatitis, with or without jaundice, occurring in patients receiving oral erythromycin products.
+
+## QT Prolongation
+
+Erythromycin has been associated with prolongation of the QT interval and infrequent cases of arrhythmia.
+Cases of torsades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving erythromycin.
+Fatalities have been reported.
+Erythromycin should be avoided in patients with known prolongation of the QT interval, patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents.
+Elderly patients may be more susceptible to drug-associated effects on the QT interval.
+
+## Syphilis in Pregnancy
 
 There have been reports suggesting that erythromycin does not reach the fetus in adequate concentration to prevent congenital syphilis.
 Infants born to women treated during pregnancy with oral erythromycin for early syphilis should be treated with an appropriate penicillin regimen.
+
+## Clostridium difficile Associated Diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including E.E.S., and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -15,6 +29,14 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
+## Drug Interactions
+
+Serious adverse reactions have been reported in patients taking erythromycin concomitantly with CYP3A4 substrates.
+These include colchicine toxicity with colchicine; rhabdomyolysis with simvastatin, lovastatin, and atorvastatin; and hypotension with calcium channel blockers metabolized by CYP3A4 (e.g., verapamil, amlodipine, diltiazem) (see PRECAUTIONS – Drug Interactions).
+
+There have been post-marketing reports of colchicine toxicity with concomitant use of erythromycin and colchicine.
+This interaction is potentially life-threatening, and may occur while using both drugs at their recommended doses (see PRECAUTIONS – Drug Interactions).
 
 Rhabdomyolysis with or without renal impairment has been reported in seriously ill patients receiving erythromycin concomitantly with lovastatin.
 Therefore, patients receiving concomitant lovastatin and erythromycin should be carefully monitored for creatine kinase (CK) and serum transaminase levels.
@@ -29,7 +51,7 @@ Prescribing E.E.S. in the absence of a proven or strongly suspected bacterial in
 Since erythromycin is principally excreted by the liver, caution should be exercised when erythromycin is administered to patients with impaired hepatic function.
 (See CLINICAL PHARMACOLOGY and WARNINGS sections.)
 
-Exacerbation of symptoms of myasthenia gravis and new onset of symptoms of myasthenic syndrome has been reported in patients receiving erythromycin therapy.
+Exacerbation of symptoms of myasthenia gravis and new onset of symptoms of myasthenic syndrome have been reported in patients receiving erythromycin therapy.
 
 There have been reports of infantile hypertrophic pyloric stenosis (IHPS) occurring in infants following erythromycin therapy.
 In one cohort of 157 newborns who were given erythromycin for pertussis prophylaxis, seven neonates (5%) developed symptoms of non-bilious vomiting or irritability with feeding and were subsequently diagnosed as having IHPS requiring surgical pyloromyotomy.
@@ -54,10 +76,24 @@ If this occurs, patients should contact their physician as soon as possible.
 
 ## Drug Interactions
 
+### Theophylline
+
 Erythromycin use in patients who are receiving high doses of theophylline may be associated with an increase in serum theophylline levels and potential theophylline toxicity.
 In case of theophylline toxicity and/or elevated serum theophylline levels, the dose of theophylline should be reduced while the patient is receiving concomitant erythromycin therapy.
 
+There have been published reports suggesting that when oral erythromycin is given concurrently with theophylline there is a decrease in erythromycin serum concentrations of approximately 35%.
+The mechanism by which this interaction occurs is unknown.
+The decrease in erythromycin concentrations due to co-administration of theophylline could result in subtherapeutic concentrations of erythromycin.
+
+### Verapamil
+
+Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent verapamil, belonging to the calcium channel blockers drug class.
+
+### Digoxin
+
 Concomitant administration of erythromycin and digoxin has been reported to result in elevated digoxin serum levels.
+
+### Anticoagulants
 
 There have been reports of increased anticoagulant effects when erythromycin and oral anticoagulants were used concomitantly.
 Increased anticoagulation effects due to interactions of erythromycin with various oral anticoagulants may be more pronounced in the elderly.
@@ -72,9 +108,10 @@ The following CYP3A based drug interactions have been observed with erythromycin
 
 ### Ergotamine/dihydroergotamine
 
-Concurrent use of erythromycin and ergotamine or dihydroergotamine has been associated in some patients with acute ergot toxicity characterized by severe peripheral vasospasm and dysesthesia.
+Post-marketing reports indicate that co-administration of erythromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system.
+Concomitant administration of erythromycin with ergotamine or dihydroergotamine is contraindicated (see CONTRAINDICATIONS).
 
-#### Triazolobenzodiazepines (such as triazolam and alprazolam) and related benzodiazepines
+### Triazolobenzodiazepines (such as triazolam and alprazolam) and related benzodiazepines
 
 Erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines.
 
@@ -105,15 +142,23 @@ There have been post-marketing reports of drug interactions when erythromycin is
 Fatalities have been reported.
 (See CONTRAINDICATIONS.)
 
+### Colchicine
+
+Colchicine is a substrate for both CYP3A4 and the efflux transporter P-glycoprotein (P-gp).
+Erythromycin is considered a moderate inhibitor of CYP3A4.
+A significant increase in colchicine plasma concentration is anticipated when co-administered with moderate CYP3A4 inhibitors such as erythromycin.
+If co-administration of colchicine and erythromycin is necessary, the starting dose of colchicine may need to be reduced, and the maximum colchicine dose should be lowered.
+Patients should be monitored for clinical symptoms of colchicine toxicity (see WARNINGS).
+
 ## Drug/Laboratory Test Interactions
 
 Erythromycin interferes with the fluorometric determination of urinary catecholamines.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long-term (2-year) oral studies in rats with erythromycin ethylsuccinate and erythromycin base did not provide evidence of tumorigenicity.
-Mutagenicity studies have not been conducted.
-There was no apparent effect on male or female fertility in rats fed erythromycin (base) at levels up to 0.25% of diet.
+Long-term oral dietary studies conducted with erythromycin stearate in rats up to 400 mg/kg/day and in mice up to about 500 mg/kg/day (approximately 1-2 fold of the maximum human dose on a body surface area basis) did not provide evidence of tumorigenicity.
+Erythromycin stearate did not show genotoxic potential in the Ames, and mouse lymphoma assays or induce chromosomal aberrations in CHO cells.
+There was no apparent effect on male or female fertility in rats treated with erythromycin base by oral gavage at 700 mg/kg/day (approximately 3 times the maximum human dose on a body surface area basis).
 
 ## Pregnancy
 
@@ -121,9 +166,9 @@ There was no apparent effect on male or female fertility in rats fed erythromyci
 
 #### Pregnancy Category B
 
-There is no evidence of teratogenicity or any other adverse effect on reproduction in female rats fed erythromycin base (up to 0.25% of diet) prior to and during mating, during gestation, and through weaning of two successive litters.
-There are, however, no adequate and well controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+There is no evidence of teratogenicity or any other adverse effect on reproduction in female rats fed erythromycin base by oral gavage at 350 mg/kg/day (approximately twice the maximum recommended human dose on a body surface area) prior to and during mating, during gestation, and through weaning.
+
+No evidence of teratogenicity or embryotoxicity was observed when erythromycin base was given by oral gavage to pregnant rats and mice at 700 mg/kg/day and to pregnant rabbits at 125 mg/kg/day (approximately 1-3 times the maximum recommended human dose).
 
 ## Labor and Delivery
 
@@ -144,9 +189,15 @@ Elderly patients, particularly those with reduced renal or hepatic function, may
 (See ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
 
 Elderly patients may be more susceptible to the development of torsades de pointes arrhythmias than younger patients.
-(See ADVERSE REACTIONS).
+(See WARNINGS).
 
 Elderly patients may experience increased effects of oral anticoagulant therapy while undergoing treatment with erythromycin.
 (See PRECAUTIONS - Drug Interactions).
 
 E.E.S.® Granules contains 25.9 mg (1.1 mEq) of sodium per individual dose.
+
+The geriatric population may respond with a blunted natriuresis to salt loading.
+This may be clinically important with regard to such diseases as congestive heart failure.
+
+E.E.S.
+400 film-coated contains 47 mg (2 mEq) of sodium per tablet and 10.0 mg (0.3 mEq) of potassium per tablet.
