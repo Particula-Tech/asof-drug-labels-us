@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA078234"
+  ],
+  "inn": "levetiracetam",
+  "labeler": "Exelan Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "76282-246-12",
+    "76282-247-12",
+    "76282-248-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levetiracetam",
+      "name": "Levetiracetam"
+    }
+  ],
+  "setid": "28c0e61e-1af9-410a-9fa9-b71bf99a776b",
+  "source": "dailymed"
+}
