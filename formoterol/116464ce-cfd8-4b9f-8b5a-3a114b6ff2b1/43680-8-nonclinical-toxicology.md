@@ -55,8 +55,8 @@ Formoterol fumarate has been shown to cause stillbirth and neonatal mortality at
 These effects, however, were not produced at a dose of 0.2 mg/kg (approximately 80 times the MRHD on a mcg/m2 basis).
 
 In another testing laboratory, formoterol fumarate was shown to be teratogenic in rats and rabbits.
-Umbilical hernia, a malformation, was observed in rat fetuses at oral doses of 3 mg/kg/day and above (approximately 1,200 times greater than the MRHD on a mcg/m2 basis).
-Brachygnathia, a skeletal malformation, was observed for rat fetuses at an oral dose of 15 mg/kg/day (approximately 6,100 times the MRHD on a mcg/m2 basis).
+Umbilical hernia, a malformation, was observed in rat fetuses at oral doses of 3 mg/kg/day and above (approximately 1200 times greater than the MRHD on a mcg/m2 basis).
+Brachygnathia, a skeletal malformation, was observed for rat fetuses at an oral dose of 15 mg/kg/day (approximately 6100 times the MRHD on a mcg/m2 basis).
 In another study in rats, no teratogenic effects were seen at inhalation doses up to 1.2 mg/kg/day (approximately 500 times the MRHD on a mcg/m2 basis).
 Subcapsular cysts on the liver were observed for rabbit fetuses at an oral dose of 60 mg/kg (approximately 49,000 times the MRHD on a mcg/m2 basis).
-No teratogenic effects were observed at oral doses up to 3.5 mg/kg (approximately 3,000 times the MRHD on a mcg/m2 basis).
+No teratogenic effects were observed at oral doses up to 3.5 mg/kg (approximately 3000 times the MRHD on a mcg/m2 basis).

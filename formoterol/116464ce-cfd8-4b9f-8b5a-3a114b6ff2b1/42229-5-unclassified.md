@@ -8,4 +8,6 @@ U.S. Patent Nos. 6,068,832; 7,067,502; and 7,566,705.
 
 The trademarks depicted in this piece are owned by their respective companies.
 
-Revised: 11/2011 35217908T
+Revised: 12/2011
+
+35217908T

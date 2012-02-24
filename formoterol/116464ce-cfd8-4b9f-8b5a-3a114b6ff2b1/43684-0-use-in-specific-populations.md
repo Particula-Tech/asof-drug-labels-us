@@ -35,16 +35,16 @@ Infants born to mothers taking substantial corticosteroid doses during pregnancy
 Formoterol Fumarate: Teratogenic Effects
 
 Formoterol fumarate administered throughout organogenesis did not cause malformations in rats or rabbits following oral administration.
-When given to rats throughout organogenesis, oral doses of approximately 80 times the MRHD on a mcg/m2 basis and above delayed ossification of the fetus, and doses of approximately 2,400 times the MRHD on a mcg/m2 basis and above decreased fetal weight.
-Formoterol fumarate has been shown to cause stillbirth and neonatal mortality at oral doses of approximately 2,400 times the MRHD on a mcg/m2 basis and above in rats receiving the drug during the late stage of pregnancy.
+When given to rats throughout organogenesis, oral doses of approximately 80 times the MRHD on a mcg/m2 basis and above delayed ossification of the fetus, and doses of approximately 2400 times the MRHD on a mcg/m2 basis and above decreased fetal weight.
+Formoterol fumarate has been shown to cause stillbirth and neonatal mortality at oral doses of approximately 2400 times the MRHD on a mcg/m2 basis and above in rats receiving the drug during the late stage of pregnancy.
 These effects, however, were not produced at a dose of approximately 80 times the MRHD on a mcg/m2 basis.
 
 In another testing laboratory, formoterol was shown to be teratogenic in rats and rabbits.
-Umbilical hernia, a malformation, was observed in rat fetuses at oral doses approximately 1,200 times and greater than the MRHD on a mcg/m2 basis.
-Brachygnathia, a skeletal malformation, was observed in rat fetuses at an oral dose approximately 6,100 times the MRHD on a mcg/m2 basis.
+Umbilical hernia, a malformation, was observed in rat fetuses at oral doses approximately 1200 times and greater than the MRHD on a mcg/m2 basis.
+Brachygnathia, a skeletal malformation, was observed in rat fetuses at an oral dose approximately 6100 times the MRHD on a mcg/m2 basis.
 In another study in rats, no teratogenic effects were seen at inhalation doses up to approximately 500 times the MRHD on a mcg/m2 basis.
 Subcapsular cysts on the liver were observed in rabbit fetuses at an oral dose approximately 49,000 times the MRHD on a mcg/m2 basis.
-No teratogenic effects were observed at oral doses up to approximately 3,000 times the MRHD on a mcg/m2 basis [see Nonclinical Toxicology (13.2)].
+No teratogenic effects were observed at oral doses up to approximately 3000 times the MRHD on a mcg/m2 basis [see Nonclinical Toxicology (13.2)].
 
 ## 8.2 Labor and Delivery
 

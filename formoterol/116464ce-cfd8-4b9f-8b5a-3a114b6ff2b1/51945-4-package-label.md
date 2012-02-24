@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 100 mcg Inhaler Carton
+PRINCIPAL DISPLAY PANEL - 100 mcg/5 mcg Inhaler Carton
 
 NDC 0085-7206-01
 
@@ -19,7 +19,7 @@ Rx only
 120 Metered Actuations Net Wt.
 13g
 
-PRINCIPAL DISPLAY PANEL - 200 mcg Inhaler Carton
+PRINCIPAL DISPLAY PANEL - 200 mcg/5 mcg Inhaler Carton
 
 NDC 0085-4610-01
 

@@ -60,10 +60,10 @@ HPA-axis function was assessed by 24-hour plasma cortisol AUC.
 Although both these trials have open-label design and contain small number of subjects per treatment arm, results from these trials taken together demonstrated suppression of 24-hour plasma cortisol AUC for DULERA 200 mcg/5 mcg compared to placebo consistent with the known systemic effects of inhaled corticosteroid.
 
 In a 42-day, open-label, placebo and active-controlled study 60 patients with asthma 18 years of age and older were randomized to receive two inhalations twice daily of 1 of the following treatments: DULERA 100 mcg/5 mcg, DULERA 200 mcg/5 mcg, fluticasone propionate/salmeterol xinafoate 230 mcg/21 mcg, or placebo.
-At Day 42, the mean change from baseline plasma cortisol AUC (0–24 hr) was 8%, 22% and 34% lower compared to placebo for the DULERA 100 mcg/5 mcg (n=13), DULERA 200 mcg/5 mcg (n=15) and fluticasone propionate/salmeterol xinafoate 230 mcg/21 mcg (n=16) treatment groups, respectively.
+At Day 42, the mean change from baseline plasma cortisol AUC(0-24 hr) was 8%, 22% and 34% lower compared to placebo for the DULERA 100 mcg/5 mcg (n=13), DULERA 200 mcg/5 mcg (n=15) and fluticasone propionate/salmeterol xinafoate 230 mcg/21 mcg (n=16) treatment groups, respectively.
 
 In a 52-week, open-label safety study, primary analysis of the plasma cortisol 24-hour AUC was performed on 57 patients with asthma who received 2 inhalations twice daily of DULERA 100 mcg/5 mcg, DULERA 200 mcg/5 mcg, fluticasone propionate/salmeterol xinafoate 125/25 mcg, or fluticasone propionate/salmeterol xinafoate 250/25 mcg.
-At Week 52, the mean plasma cortisol AUC (0–24 hr) was 2.2%, 29.6%, 16.7%, and 32.2% lower from baseline for the DULERA 100 mcg/5 mcg (n=18), DULERA 200 mcg/5 mcg (n=20), fluticasone propionate/salmeterol xinafoate 125/25 mcg (n=8), and fluticasone propionate/salmeterol xinafoate 250/25 mcg (n=11) treatment groups, respectively.
+At Week 52, the mean plasma cortisol AUC(0-24 hr) was 2.2%, 29.6%, 16.7%, and 32.2% lower from baseline for the DULERA 100 mcg/5 mcg (n=18), DULERA 200 mcg/5 mcg (n=20), fluticasone propionate/salmeterol xinafoate 125/25 mcg (n=8), and fluticasone propionate/salmeterol xinafoate 250/25 mcg (n=11) treatment groups, respectively.
 
 Other Mometasone Products
 
@@ -82,14 +82,14 @@ Mometasone furoate:
 
 Healthy Subjects: The systemic exposures to mometasone furoate from DULERA versus mometasone furoate delivered via DPI were compared.
 Following oral inhalation of single and multiple doses of the DULERA, mometasone furoate was absorbed in healthy subjects with median Tmax values ranging from 0.50 to 4 hours.
-Following single-dose administration of higher than recommended dose of DULERA (4 inhalations of DULERA 200 mcg/5 mcg) in healthy subjects, the arithmetic mean (CV%) Cmax and AUC (0–12h) values for MF were 67.8 (49) pg/mL and 650 (51) pg.hr/mL, respectively while the corresponding estimates following 5 days of BID dosing of DULERA 800 mcg/20 mcg were 241 (36) pg/mL and 2200 (35) pg.hr/mL.
+Following single-dose administration of higher than recommended dose of DULERA (4 inhalations of DULERA 200 mcg/5 mcg) in healthy subjects, the arithmetic mean (CV%) Cmax and AUC(0-12 hr) values for MF were 67.8 (49) pg/mL and 650 (51) pg.hr/mL, respectively while the corresponding estimates following 5 days of BID dosing of DULERA 800 mcg/20 mcg were 241 (36) pg/mL and 2200 (35) pg.hr/mL.
 Exposure to mometasone furoate increased with increasing inhaled dose of DULERA 100 mcg/5 mcg to 200 mcg/5 mcg.
 Studies using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of mometasone furoate is negligible (<1%).
 
 The above study demonstrated that the systemic exposure to mometasone furoate (based on AUC) was approximately 52% and 25% lower on Day 1 and Day 5, respectively, following DULERA administration compared to mometasone furoate via a DPI.
 
 Asthma Patients: Following oral inhalation of single and multiple doses of the DULERA, mometasone furoate was absorbed in asthma patients with median Tmax values ranging from 1 to 2 hours.
-Following single-dose administration of DULERA 400 mcg/10 mcg, the arithmetic mean (CV%) Cmax and AUC (0–12h) values for MF were 20 (88) pg/mL and 170 (94) pg.hr/mL, respectively while the corresponding estimates following BID dosing of DULERA 400 mcg/10 mcg at steady-state were 60 (36) pg/mL and 577 (40) pg.hr/mL.
+Following single-dose administration of DULERA 400 mcg/10 mcg, the arithmetic mean (CV%) Cmax and AUC(0-12 hr) values for MF were 20 (88) pg/mL and 170 (94) pg.hr/mL, respectively while the corresponding estimates following BID dosing of DULERA 400 mcg/10 mcg at steady-state were 60 (36) pg/mL and 577 (40) pg.hr/mL.
 
 Formoterol fumarate:
 
@@ -98,8 +98,8 @@ In a single-dose study with DULERA 400 mcg/10 mcg in healthy subjects, arithmeti
 Over the dose range of 10 to 40 mcg for formoterol from DULERA, the exposure to formoterol was dose proportional.
 
 Asthma Patients: When DULERA was administered to patients with asthma, formoterol was absorbed with median Tmax values ranging from 0.58 to 1.97 hours.
-In a single-dose study with DULERA 400 mcg/10 mcg in patients with asthma, arithmetic mean (CV%) Cmax and AUC (0–12h) for formoterol were 22 (29) pmol/L and 125 (42) pmol*h/L, respectively.
-Following multiple-dose administration of DULERA 400 mcg/10 mcg, the steady-state arithmetic mean (CV%) Cmax and AUC (0–12h) for formoterol were 41 (59) pmol/L and 226 (54) pmol*hr/L.
+In a single-dose study with DULERA 400 mcg/10 mcg in patients with asthma, arithmetic mean (CV%) Cmax and AUC(0-12 hr) for formoterol were 22 (29) pmol/L and 125 (42) pmol*h/L, respectively.
+Following multiple-dose administration of DULERA 400 mcg/10 mcg, the steady-state arithmetic mean (CV%) Cmax and AUC(0-12 hr) for formoterol were 41 (59) pmol/L and 226 (54) pmol*hr/L.
 
 Distribution
 
@@ -162,7 +162,7 @@ The results of the study indicated that there was no evidence of a pharmacokinet
 
 Inhibitors of Cytochrome P450 Enzymes: Ketoconazole: In a drug interaction study, an inhaled dose of mometasone furoate 400 mcg delivered by a dry powder inhaler was given to 24 healthy subjects twice daily for 9 days and ketoconazole 200 mg (as well as placebo) were given twice daily concomitantly on Days 4 to 9.
 Mometasone furoate plasma concentrations were <150 pcg/mL on Day 3 prior to coadministration of ketoconazole or placebo.
-Following concomitant administration of ketoconazole, 4 out of 12 subjects in the ketoconazole treatment group (n=12) had peak plasma concentrations of mometasone furoate >200 pcg/mL on Day 9 (211–324 pcg/mL.
+Following concomitant administration of ketoconazole, 4 out of 12 subjects in the ketoconazole treatment group (n=12) had peak plasma concentrations of mometasone furoate >200 pcg/mL on Day 9 (211–324 pcg/mL).
 Mometasone furoate plasma levels appeared to increase and plasma cortisol levels appeared to decrease upon concomitant administration of ketoconazole.
 
 Specific drug-drug interaction studies with formoterol have not been performed.

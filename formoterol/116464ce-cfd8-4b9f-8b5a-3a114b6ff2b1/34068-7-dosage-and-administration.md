@@ -31,7 +31,7 @@ The maximum daily recommended dose is two inhalations of DULERA 200 mcg/5 mcg tw
 Do not use more than two inhalations twice daily of the prescribed strength of DULERA as some patients are more likely to experience adverse effects with higher doses of formoterol.
 If symptoms arise between doses, an inhaled short-acting beta2-agonist should be taken for immediate relief.
 
-If a previously effective dosage regimen of DULERA fails to provide adequate control of asthma, the therapeutic regimen should be reevaluated and additional therapeutic options, e.g., replacing the current strength of DULERA with a higher strength, adding additional inhaled corticosteroid, or initiating oral corticosteroids, should be considered.
+If a previously effective dosage regimen of DULERA fails to provide adequate control of asthma, the therapeutic regimen should be re-evaluated and additional therapeutic options, e.g., replacing the current strength of DULERA with a higher strength, adding additional inhaled corticosteroid, or initiating oral corticosteroids, should be considered.
 
 The maximum benefit may not be achieved for 1 week or longer after beginning treatment.
 Individual patients may experience a variable time to onset and degree of symptom relief.

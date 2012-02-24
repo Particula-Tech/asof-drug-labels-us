@@ -17,8 +17,8 @@ All treatment groups were balanced with regard to baseline characteristics.
 Mean FEV1 and mean percent predicted FEV1 were similar among all treatment groups (2.33 L, 73%).
 Eight (4%) patients receiving DULERA 100 mcg/5 mcg, 13 (7%) patients receiving mometasone furoate 100 mcg, 47 (23%) patients receiving formoterol fumarate 5 mcg and 46 (23%) patients receiving placebo discontinued the study early due to treatment failure.
 
-FEV1 AUC (0–12hr) was assessed as a co-primary efficacy endpoint to evaluate the contribution of the formoterol component to DULERA.
-Patients receiving DULERA 100 mcg/5 mcg had significantly higher increases from baseline at Week 12 in mean FEV1 AUC (0–12 hr) compared to mometasone furoate 100 mcg (the primary treatment comparison) and vs. placebo (both p<0.001) (Figure 1).
+FEV1 AUC(0-12 hr) was assessed as a co-primary efficacy endpoint to evaluate the contribution of the formoterol component to DULERA.
+Patients receiving DULERA 100 mcg/5 mcg had significantly higher increases from baseline at Week 12 in mean FEV1 AUC(0-12 hr) compared to mometasone furoate 100 mcg (the primary treatment comparison) and vs. placebo (both p<0.001) (Figure 1).
 These differences were maintained through Week 26.
 Figure 1 shows the change from baseline post-dose serial FEV1 evaluations in Trial 1.
 
@@ -73,8 +73,8 @@ This trial included patients ranging from 12 to 84 years of age, 44% male and 56
 Mean FEV1 and mean percent predicted FEV1 values were similar among all treatment groups (2.05 L, 66%).
 Eleven (5%) patients receiving DULERA 100 mcg/5 mcg, 8 (3%) patients receiving DULERA 200 mcg/5 mcg and 13 (5%) patients receiving mometasone furoate 200 mcg discontinued the trial early due to treatment failure.
 
-The primary efficacy endpoint was the mean change in FEV1 AUC (0–12 hr) from baseline to Week 12.
-Patients receiving DULERA 100 mcg/5 mcg and DULERA 200 mcg/5 mcg had significantly greater increases from baseline at Day 1 in mean FEV1 AUC (0–12 hr) compared to mometasone furoate 200 mcg.
+The primary efficacy endpoint was the mean change in FEV1 AUC(0-12 hr) from baseline to Week 12.
+Patients receiving DULERA 100 mcg/5 mcg and DULERA 200 mcg/5 mcg had significantly greater increases from baseline at Day 1 in mean FEV1 AUC(0-12 hr) compared to mometasone furoate 200 mcg.
 The difference was maintained over 12 weeks of therapy.
 
 Mean change in trough FEV1 from baseline to Week 12 was also assessed to evaluate the relative contribution of mometasone furoate to DULERA 100 mcg/5 mcg and DULERA 200 mcg/5 mcg (Table 5).
