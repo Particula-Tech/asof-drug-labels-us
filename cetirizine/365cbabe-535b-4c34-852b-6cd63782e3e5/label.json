@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA090766"
+  ],
+  "inn": "cetirizine",
+  "labeler": "Amneal Pharmaceuticals",
+  "package_ndcs": [
+    "65162-684-86",
+    "65162-684-90"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "cetirizine",
+      "name": "Cetirizine Hydrochloride"
+    }
+  ],
+  "setid": "365cbabe-535b-4c34-852b-6cd63782e3e5",
+  "source": "dailymed"
+}
