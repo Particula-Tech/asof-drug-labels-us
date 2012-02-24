@@ -298,7 +298,7 @@ An increased incidence of neuronal necrosis in the diencephalon in the live born
 At 2 mg/kg/day, no increase in neuronal necrosis was observed as compared to the control groups.
 Administration of 0.5 or 4 mg/kg/day during the first 3 days of life did not cause an increase in neuronal necrosis at either dose level.
 
-## Labor And Delivery
+## Labor and Delivery
 
 In rat studies with NSAIDs, as with other drugs known to inhibit prostaglandin synthesis, an increased incidence of dystocia, delayed parturition, and decreased pup survival occurred.
 The effects of indomethacin on labor and delivery in pregnant women are unknown.
@@ -326,7 +326,7 @@ As symptoms subside, the total daily dosage should be reduced to the lowest leve
 
 ## Geriatric Use
 
-As with any NSAID, caution should be exercised in treating the elderly (65 years and older) since advancing age appears to increase the possibility of adverse reactions (see WARNINGS: Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation and DOSAGE AND ADMINISTRATION).
+As with any NSAID, caution should be exercised in treating the elderly (65 years and older) since advancing age appears to increase the possibility of adverse reactions (see WARNINGS, Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation and DOSAGE AND ADMINISTRATION).
 Elderly patients seem to tolerate ulceration or bleeding less well than other individuals and many spontaneous reports of fatal GI events are in this population (see WARNINGS: Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation).
 
 Indomethacin may cause confusion or, rarely, psychosis (see ADVERSE REACTIONS); physicians should remain alert to the possibility of such adverse effects in the elderly.

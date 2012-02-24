@@ -1,4 +1,6 @@
-# Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)(See the end of this Medication Guide for a list of prescription NSAID medicines.)
+# Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
+
+(See the end of this Medication Guide for a list of prescription NSAID medicines.)
 
 ## What is the most important information I should know about medicines called Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
@@ -31,14 +33,14 @@ NSAID medicines should only be used:
 - at the lowest dose possible for your treatment
 - for the shortest time needed
 
-## What are Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) ?
+## What are Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)?
 
 NSAID medicines are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as:
 
 - different types of arthritis
 - menstrual cramps and other types of short-term pain
 
-## Who should not take a Non-Steroidal Anti-Inflammatory Drug (NSAID) ?
+## Who should not take a Non-Steroidal Anti-Inflammatory Drug (NSAID)?
 
 Do not take an NSAID medicine:
 
@@ -156,4 +158,4 @@ Glenmark Generics Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkgenerics.com
 
-June 2009
+May 2010

@@ -13,4 +13,4 @@ It has a pKa of 4.5 and is stable in neutral or slightly acidic media and decomp
 
 Each capsule for oral administration contains 25 mg or 50 mg of indomethacin and the following inactive ingredients: colloidal silicon dioxide, FD&C Blue No. 1, D&C Yellow No. 10, gelatin, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, sodium lauryl sulfate, sodium starch glycolate and titanium dioxide.
 
-The imprinting ink contains the following: black iron oxide, butyl alcohol, dehydrated alcohol, isopropyl alcohol, potassium hydroxide, propylene glycol, shellac, strong ammonia solution and purified water.
+The imprinting ink contains the following: black iron oxide, butyl alcohol, dehydrated alcohol, isopropyl alcohol, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.
