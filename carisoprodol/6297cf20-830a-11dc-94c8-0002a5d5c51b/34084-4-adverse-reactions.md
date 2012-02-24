@@ -22,7 +22,7 @@ Patients with Adverse Reactions in Controlled Studies
 | Dizziness | 11 (2) | 43 (8) | 19 (7) |
 | Headache | 11 (2) | 26 (5) | 9 (3) |
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-marketing Experience
 
 The following events have been reported during postapproval use of SOMA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

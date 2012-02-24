@@ -21,5 +21,5 @@ To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-80
 
 Meda Pharmaceuticals Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
-IN-090H2-18 Rev.
-10/09
+IN-090H2-19 Rev.
+12/11
