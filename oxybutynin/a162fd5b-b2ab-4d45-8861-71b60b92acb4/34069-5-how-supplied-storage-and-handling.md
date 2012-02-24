@@ -5,16 +5,19 @@ Each 39 cm2 system imprinted with OXYTROL 3.9 mg/day contains 36 mg oxybutynin f
 
 NDC 52544-920-08 Patient Calendar Box of 8 Systems
 
-Storage Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
+Storage Store at 20-25°C (68-77°F).
+[See USP controlled room temperature.]
 Protect from moisture and humidity.
 Do not store outside the sealed pouch.
 Apply immediately after removal from the protective pouch.
 Discard used OXYTROL in household trash in a manner that prevents accidental application or ingestion by children, pets, or others.
 
+Keep out of reach of children.
+
 Rx only
 
-A subsidiary of Watson Pharmaceuticals, Inc. Corona, CA 92880 USA
+For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 USA 800-272-5525
 
-Revised: January 2011
+Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-U.S. Patent Nos. 5,601,839; 5,834,010; and 7,179,483
+Revised: April 2011 195564-01

@@ -12,7 +12,7 @@ Adverse events reported in the pivotal trials are summarized in Tables 4 and 5 b
 
 Table 4: Number (%) of adverse events occurring in ≥ 2% of OXYTROL-treated patients and greater in OXYTROL group than in placebo group (Study 1).
 
-| Adverse Event* | Placebo (N = 132) |  | OXYTROL (3.9 mg/day) (N=125) |  |
+| Adverse Eventincludes adverse events judged by the investigator as possibly, probably or definitely treatment-related. | Placebo (N = 132) |  | OXYTROL (3.9 mg/day) (N = 125) |  |
 | --- | --- | --- | --- | --- |
 | N | % | N | % |  |
 | Application site pruritus | 8 | 6.1% | 21 | 16.8% |
@@ -21,11 +21,10 @@ Table 4: Number (%) of adverse events occurring in ≥ 2% of OXYTROL-treated pat
 | Application site vesicles | 0 | 0.0% | 4 | 3.2% |
 | Diarrhea | 3 | 2.3% | 4 | 3.2% |
 | Dysuria | 0 | 0.0% | 3 | 2.4% |
-| *includes adverse events judged by the investigator as possibly, probably or definitely treatment-related. |  |  |  |  |
 
 Table 5: Number (%) of adverse events occurring in ≥ 2% of OXYTROL-treated patients and greater in OXYTROL group than in placebo group (Study 2).
 
-| Adverse Event* | Placebo (N = 117) |  | OXYTROL (3.9 mg/day) (N = 121) |  |
+| Adverse Eventincludes adverse events judged by the investigator as possibly, probably or definitely treatment-related. | Placebo (N = 117) |  | OXYTROL (3.9 mg/day) (N = 121) |  |
 | --- | --- | --- | --- | --- |
 | N | % | N | % |  |
 | Application site pruritus | 5 | 4.3% | 17 | 14.0% |
@@ -35,7 +34,6 @@ Table 5: Number (%) of adverse events occurring in ≥ 2% of OXYTROL-treated pat
 | Application site rash | 1 | 0.9% | 4 | 3.3% |
 | Application site macules | 0 | 0.0% | 3 | 2.5% |
 | Abnormal vision | 0 | 0.0% | 3 | 2.5% |
-| *includes adverse events judged by the investigator as possibly, probably or definitely treatment-related. |  |  |  |  |
 
 Other adverse events reported by > 1% of OXYTROL-treated patients, and judged by the investigator to be possibly, probably or definitely related to treatment include: abdominal pain, nausea, flatulence, fatigue, somnolence, headache, flushing, rash, application site burning and back pain.
 

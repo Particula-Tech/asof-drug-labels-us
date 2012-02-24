@@ -1,6 +1,4 @@
-# PATIENT INFORMATION
-
-Information for the Patient OXYTROL® Oxybutynin Transdermal System
+# Information for the Patient
 
 Read this information carefully before you begin treatment.
 Read the information whenever you get more medicine, there may be something new.
@@ -12,6 +10,7 @@ What is OXYTROL?
 
 OXYTROL is a transdermal system (skin patch) to treat overactive bladder.
 It delivers the active ingredient, oxybutynin, through your skin and into your bloodstream.
+
 Overactive bladder makes it hard to control when you urinate (pass water).
 Overactive bladder can make you urinate more often (increased frequency) or make you feel the need to urinate often (urgency).
 Overactive bladder can also lead to accidental urine loss (leaking or wetting oneself).
@@ -89,6 +88,7 @@ Always change OXYTROL on the 2 days of the week you mark on the calendar.
 Put the patch on a clean, dry, and smooth (fold-free) area of skin on your abdomen (stomach area), hips or buttocks (as shown in the picture).
 Avoid your waistline area, since tight clothing may rub against the patch.
 The areas you choose should not be oily, damaged (cut or scraped), irritated (rashes) or have any other skin problems.
+
 Do not put OXYTROL on areas that have been treated with oils, lotions, or powders that could keep the patch from sticking well to your skin.
 
 When you put on a new patch, use a different area of skin from the most recent patch site.
@@ -128,8 +128,8 @@ A small amount of baby oil may also be used to remove any excess residue.
 Rings of adhesive that become dirty may require a medical adhesive removal pad that you can get from your pharmacist.
 Alcohol or other dissolving liquids (nail polish remover or other solvents) may cause skin irritation and should not be used.
 
-Store at room temperature, 25°C (77°F).
-Temporary storage between 15 and 30°C (59 to 86°F) is also permitted.
+Store at 20-25°C (68-77°F).
+[See USP controlled room temperature.]
 Keep OXYTROL and all medications in a safe, secure place and out of the reach of children.
 
 General advice about OXYTROL
@@ -143,8 +143,12 @@ If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about OXYTROL that is written for health professionals.
 You can get more information about OXYTROL from the product information department at 1-888-OXY-TROL (1-888-699-8765) or by selecting patient information at the OXYTROL Website located at www.OXYTROL.com.
 
-A subsidiary of Watson Pharmaceuticals, Inc. Corona, CA 92880 USA
+Keep out of reach of children.
 
-Revised: January 2011
+Rx only
 
-©2001 Watson Pharma, Inc.
+For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 USA 800-272-5525
+
+Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+
+Revised April 2011 195564-01
