@@ -35,11 +35,17 @@ No information on the effect of larger doses is available.
 Removal of the negative feedback of angiotensin II causes a 2- to 3-fold rise in plasma renin and consequent rise in angiotensin II plasma concentration in hypertensive patients.
 Minimal decreases in plasma aldosterone were observed after administration of valsartan; very little effect on serum potassium was observed.
 
-In multiple-dose studies in hypertensive patients with stable renal insufficiency and patients with renovascular hypertension, valsartan had no clinically significant effects on glomerular filtration rate, filtration fraction, creatinine clearance, or renal plasma flow.
-
-In multiple-dose studies in hypertensive patients, valsartan had no notable effects on total cholesterol, fasting triglycerides, fasting serum glucose, or uric acid.
-
 Hydrochlorothiazide: After oral administration of hydrochlorothiazide, diuresis begins within 2 hours, peaks in about 4 hours and lasts about 6 to 12 hours.
+
+Drug Interactions
+
+Hydrochlorothiazide:
+
+Alcohol, barbiturates, or narcotics: Potentiation of orthostatic hypotension may occur.
+
+Skeletal muscle relaxants: Possible increased responsiveness to muscle relaxants such as curare derivatives.
+
+Digitalis glycosides: Thiazide-induced hypokalemia or hypomagnesemia may predispose the patient to digoxin toxicity.
 
 ## 12.3 Pharmacokinetics
 
@@ -50,33 +56,19 @@ Food decreases the exposure (as measured by AUC) to valsartan by about 40% and p
 AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range.
 Valsartan does not accumulate appreciably in plasma following repeated administration.
 
-Hydrochlorothiazide: Thiazide diuretics are eliminated by the kidney, with a terminal half-life of 5-15 hours.
+Hydrochlorothiazide: The estimated absolute bioavailability of hydrochlorothiazide after oral administration is about 70%.
+Peak plasma hydrochlorothiazide concentrations (Cmax) are reached within 2 to 5 hours after oral administration.
+There is no clinically significant effect of food on the bioavailability of hydrochlorothiazide.
 
-Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
-No dosage adjustment is necessary [see Dosage and Administration (2.1)].
+Hydrochlorothiazide binds to albumin (40 to 70%) and distributes into erythrocytes.
+Following oral administration, plasma hydrochlorothiazide concentrations decline bi-exponentially, with a mean distribution half-life of about 2 hours and an elimination half-life of about 10 hours.
 
-Gender: Pharmacokinetics of valsartan does not differ significantly between males and females.
-
-Race: Pharmacokinetic differences due to race have not been studied.
-
-Renal Insufficiency: There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment.
-Consequently, dose adjustment is not required in patients with mild-to-moderate renal dysfunction.
-No studies have been performed in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
-Valsartan is not removed from the plasma by hemodialysis.
-In the case of severe renal disease, exercise care with dosing of valsartan [see Dosage and Administration (2.1)].
-
-In a study of patients with impaired renal function (mean creatinine clearance of 19 mL/min), the half-life of hydrochlorothiazide elimination was lengthened to 21 hours.
-
-Hepatic Insufficiency: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight).
-In general, no dosage adjustment is needed in patients with mild-to-moderate liver disease.
-Care should be exercised in patients with liver disease [see Dosage and Administration (2.1)].
+Diovan HCT: Diovan HCT may be administered with or without food.
 
 Distribution
 
 Valsartan: The steady state volume of distribution of valsartan after intravenous administration is small (17 L), indicating that valsartan does not distribute into tissues extensively.
 Valsartan is highly bound to serum proteins (95%), mainly serum albumin.
-
-Hydrochlorothiazide: Hydrochlorothiazide crosses the placental but not the blood-brain barrier and is excreted in breast milk.
 
 Metabolism
 
@@ -94,6 +86,35 @@ The recovery is mainly as unchanged drug, with only about 20% of dose recovered 
 
 Following intravenous administration, plasma clearance of valsartan is about 2 L/h and its renal clearance is 0.62 L/h (about 30% of total clearance).
 
-Hydrochlorothiazide: Hydrochlorothiazide is not metabolized but is eliminated rapidly by the kidney.
-At least 61% of the oral dose is eliminated as unchanged drug within 24 hours.
-The elimination half-life is between 5.8 and 18.9 hours.
+Hydrochlorothiazide: About 70% of an orally administered dose of hydrochlorothiazide is eliminated in the urine as unchanged drug.
+
+Special Populations
+
+Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
+Limited amount of data suggest that the systemic clearance of hydrochlorothiazide is reduced in both healthy and hypertensive elderly subjects compared to young healthy volunteers.
+
+Gender: Pharmacokinetics of valsartan does not differ significantly between males and females.
+
+Race: Pharmacokinetic differences due to race have not been studied.
+
+Renal Insufficiency: There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment.
+Valsartan has not been studied in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
+Valsartan is not removed from the plasma by hemodialysis.
+
+In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was doubled in individuals with mild/moderate renal impairment (30 < CLcr < 90 mL/min) and tripled in severe renal impairment (≤ 30 mL/min), compared to individuals with normal renal function (CLcr > 90 mL/min).
+[see Use in Specific Populations (8.6)].
+
+Hepatic Insufficiency: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight).
+[see Use in Specific Populations (8.7)].
+
+Drug Interactions
+
+Hydrochlorothiazide:
+
+Drugs that alter gastrointestinal motility: The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g. atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate.
+Conversely, pro-kinetic drugs may decrease the bioavailability of thiazide diuretics.
+
+Cholestyramine: In a dedicated drug interaction study, administration of cholestyramine 2 hours before hydrochlorothiazide resulted in a 70% reduction in exposure to hydrochlorothiazide.
+Further, administration of hydrochlorothiazide 2 hours before cholestyramine resulted in 35% reduction in exposure to hydrochlorothiazide.
+
+Antineoplastic agents (e.g. cyclophosphamide, methotrexate): Concomitant use of thiazide diuretics may reduce renal excretion of cytotoxic agents and enhance their myelosuppressive effects.

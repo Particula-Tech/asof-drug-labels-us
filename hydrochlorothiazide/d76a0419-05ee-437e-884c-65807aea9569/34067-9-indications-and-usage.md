@@ -18,7 +18,15 @@ Relative risk reduction from blood pressure reduction is similar across populati
 Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease).
 These considerations may guide selection of therapy.
 
+Add-On Therapy
+
 Diovan HCT may be used in patients whose blood pressure is not adequately controlled on monotherapy.
+
+Replacement Therapy
+
+Diovan HCT may be substituted for the titrated components.
+
+Initial Therapy
 
 Diovan HCT may be used as initial therapy in patients who are likely to need multiple drugs to achieve blood pressure goals.
 
