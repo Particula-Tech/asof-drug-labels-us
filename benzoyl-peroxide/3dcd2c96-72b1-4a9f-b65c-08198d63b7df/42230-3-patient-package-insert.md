@@ -143,12 +143,12 @@ Active Ingredients: clindamycin phosphate 1.2% and benzoyl peroxide 2.5%
 
 Inactive Ingredients: purified water, carbomer 980, propylene glycol, and potassium hydroxide
 
-Issued 10/2010
+Issued 07/2011
 
-Marketed by: Coria Laboratories, a division of Valeant Pharmaceuticals North America, Fort Worth, TX 76107
+Marketed by: Coria Laboratories, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807
 
-Manufactured by: Contract Pharmaceuticals Limited Niagara, Buffalo, NY 14213
+Manufactured by: Contract Pharmaceuticals Limited Mississauga, Ontario Canada L5N 6L6
 
 U.S. Patents 5,733,886 and 6,117,843 Additional Patents Pending
 
-09-0076
+2005482

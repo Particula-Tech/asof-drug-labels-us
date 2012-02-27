@@ -36,5 +36,3 @@ In addition, patients should report any signs of local adverse reactions to thei
 
 Patient should minimize exposure to natural and avoid artificial sunlight (tanning beds or UVA/B treatment) while using ACANYA Gel.
 To minimize exposure to sunlight, a wide-brimmed hat or other protective clothing should be worn and a sunscreen with SPF 15 rating or higher should be used.
-
-## 17.6 FDA-Approved Patient Labeling
