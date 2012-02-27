@@ -55,22 +55,7 @@ In vitro, desvenlafaxine does not inhibit or induce the CYP3A4 isozyme.
 
 In a clinical study, PRISTIQ 400 mg daily (8 times the recommended 50 mg dose) was co‑administered with a single 4 mg dose of midazolam (a CYP3A4 substrate).
 The AUC and Cmax of midazolam decreased by approximately 31% and 16%, respectively.
-In a second study, PRISTIQ 50 mg daily was co-administered with a single 4 mg dose of midazolam.
-The AUC and Cmax of midazolam decreased by approximately 29% and 14%, respectively.
 Concomitant use of PRISTIQ with a drug metabolized by CYP3A4 can result in lower exposures to that drug.
-
-Drugs metabolized by a combination of both CYP2D6 & CYP3A4 (tamoxifen and aripiprazole)
-
-Clinical studies have shown that desvenlafaxine (100 mg daily) does not have a clinically relevant effect on drugs metabolized by a combination of both CYP2D6 and CYP3A4 enzymes.
-
-A single 40 mg dose of tamoxifen, which is metabolized to active metabolites 4-hydroxy-tamoxifen and endoxifen primarily by CYP2D6 with minor contributions to metabolism by CYP3A4, was administered in conjunction with desvenlafaxine succinate (100 mg daily).
-The Cmax of tamoxifen decreased by 1% and the AUC increased by 3% with concomitant administration of desvenlafaxine succinate.
-The Cmax and AUC of 4-hydroxy-tamoxifen both increased by 8% and 9%, respectively.
-Endoxifen Cmax and AUC were decreased by 8% and 12%, respectively.
-
-Desvenlafaxine succinate was administered at a dose of 100 mg daily in conjunction with a single 5 mg dose of aripiprazole, a CYP2D6 and CYP3A4 substrate metabolized to the active metabolite dehydro-aripiprazole.
-The Cmax and AUC of aripiprazole increased by 1% and 6%, respectively, with concomitant administration of desvenlafaxine succinate.
-The Cmax and AUC of dehydro-aripiprazole increased by 6% and 3%, respectively, with concomitant administration.
 
 ### Drugs metabolized by CYP1A2, 2A6, 2C8, 2C9 and 2C19
 
