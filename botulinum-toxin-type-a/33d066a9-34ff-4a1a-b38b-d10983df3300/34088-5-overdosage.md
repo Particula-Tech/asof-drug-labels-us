@@ -4,12 +4,11 @@ Excessive doses of BOTOX (onabotulinumtoxinA) for injection may be expected to p
 
 Symptoms of overdose are likely not to be present immediately following injection.
 Should accidental injection or oral ingestion occur or overdose be suspected, the person should be medically supervised for several weeks for signs and symptoms of systemic muscular weakness which could be local, or distant from the site of injection [see Boxed Warning and Warnings and Precautions (5.2, 5.5)].
+These patients should be considered for further medical evaluation and appropriate medical therapy immediately instituted, which may include hospitalization.
 
 If the musculature of the oropharynx and esophagus are affected, aspiration may occur which may lead to development of aspiration pneumonia.
 If the respiratory muscles become paralyzed or sufficiently weakened, intubation and assisted respiration may be necessary until recovery takes place.
 Supportive care could involve the need for a tracheostomy and/or prolonged mechanical ventilation, in addition to other general supportive care.
-
-These patients should be considered for further medical evaluation and appropriate medical therapy immediately instituted, which may include hospitalization.
 
 In the event of overdose, antitoxin raised against botulinum toxin is available from the Centers for Disease Control and Prevention (CDC) in Atlanta, GA.
 However, the antitoxin will not reverse any botulinum toxin-induced effects already apparent by the time of antitoxin administration.
