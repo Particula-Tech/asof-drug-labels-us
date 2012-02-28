@@ -1,8 +1,4 @@
-PATIENT INFORMATION
-
-Valacyclovir Hydrochloride Tablets
-
-500 mg and 1 gram
+PATIENT INFORMATION VALACYCLOVIR HYDROCHLORIDE TABLETS 500 mg and 1 gram (val″ ay sye′ kloe vir hye″ droe klor′ ide)
 
 Read the Patient Information that comes with valacyclovir hydrochloride tablets before you start using it and each time you get a refill.
 There may be new information.
@@ -137,7 +133,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store valacyclovir hydrochloride tablets?
 
-- Store valacyclovir hydrochloride tablets at room temperature, Store at 20º to 25ºC (68º to 77ºF).
+- Store valacyclovir hydrochloride tablets at room temperature.
+  Store at 20º to 25ºC (68º to 77ºF).
 - Keep valacyclovir hydrochloride tablets in a tightly closed container.
 - Do not keep medicine that is out of date or that you no longer need.
 - Keep valacyclovir hydrochloride tablets and all medicines out of the reach of children.
@@ -161,10 +158,12 @@ What are the ingredients in valacyclovir hydrochloride tablets?
 
 Active Ingredient: valacyclovir hydrochloride
 
-Inactive Ingredients: Hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, titanium dioxide and edible ink which contains black iron oxide.
+Inactive Ingredients: ammonium hydroxide, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, propylene glycol, shellac glaze and titanium dioxide and edible ink which contains black iron oxide.
 
-Manufactured in India by: Matrix Laboratories Limited Secunderabad — 500 003, India Code No.: MH/DRUGS/25/NKD/89
+Manufactured in India by: Mylan Laboratories Limited Hyderabad—500 034, India Code No.: MH/DRUGS/25/NKD/89
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED MARCH 2010 MX:VLCY:R2pt
+75004674
+
+REVISED DECEMBER 2011 MX:VLCY:R3pt

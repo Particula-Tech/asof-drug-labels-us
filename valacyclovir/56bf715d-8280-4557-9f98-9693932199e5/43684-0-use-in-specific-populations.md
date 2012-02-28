@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category B
+### Teratogenic Effects
+
+#### Pregnancy Category B
 
 There are no adequate and well controlled studies of valacyclovir or acyclovir in pregnant women.
 Based on prospective pregnancy registry data on 749 pregnancies, the overall rate of birth defects in infants exposed to acyclovir in utero appears similar to the rate for infants in the general population.

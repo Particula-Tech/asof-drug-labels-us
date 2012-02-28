@@ -3,7 +3,7 @@
 Valacyclovir hydrochloride is the hydrochloride salt of the L-valyl ester of the antiviral drug acyclovir.
 
 Valacyclovir hydrochloride tablets are for oral administration.
-Each tablet contains valacyclovir hydrochloride equivalent to 500 mg or 1 gram valacyclovir and the inactive ingredients hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol and titanium dioxide.
+Each tablet contains valacyclovir hydrochloride equivalent to 500 mg or 1 gram valacyclovir and the inactive ingredients ammonium hydroxide, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, propylene glycol, shellac glaze and titanium dioxide.
 The white film-coated tablets are printed with edible black ink which contains black iron oxide.
 
 The chemical name of valacyclovir hydrochloride is L-valine, 2-[(2-amino-1,6-dihydro-6-oxo-9H-purin-9-yl)methoxy]ethyl ester, monohydrochloride.

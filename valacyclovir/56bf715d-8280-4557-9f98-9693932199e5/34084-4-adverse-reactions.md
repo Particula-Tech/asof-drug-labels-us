@@ -77,7 +77,7 @@ In clinical studies for the treatment of cold sores, the adverse reactions repor
 Labeling describing additional clinical trial adverse reactions in pediatric patients (ages of one month to ≤ 12 years) is approved for GlaxoSmithKline’s Valtrex® Caplets.
 However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of those adverse reactions is not approved for this valacyclovir hydrochloride tablet product.
 
-## 6.3 Post-Marketing Experience
+## 6.3 Post-marketing Experience
 
 In addition to adverse events reported from clinical trials, the following events have been identified during post-marketing use of valacyclovir.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
