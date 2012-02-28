@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021371"
+  ],
+  "inn": "estradiol",
+  "labeler": "Medicis Pharmaceutical Corp",
+  "package_ndcs": [
+    "99207-190-01",
+    "99207-190-56"
+  ],
+  "products": [
+    {
+      "form": "EMULSION",
+      "generic": "estradiol hemihydrate",
+      "name": "Estrasorb"
+    }
+  ],
+  "setid": "6f5930b2-ebe9-4b46-b0c2-52ae6626c253",
+  "source": "dailymed"
+}
