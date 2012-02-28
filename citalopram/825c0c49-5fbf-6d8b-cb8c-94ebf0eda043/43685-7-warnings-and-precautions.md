@@ -14,14 +14,14 @@ There was considerable variation in risk of suicidality among drugs, but a tende
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
 
-Table 1
+TABLE 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
-| Increases Compared to Placebo |  |
+|  | Increases Compared to Placebo |
 | < 18 | 14 additional cases |
 | 18 to 24 | 5 additional cases |
-| Decreases Compared to Placebo |  |
+|  | Decreases Compared to Placebo |
 | 25 to 64 | 1 fewer case |
 | ≥ 65 | 6 fewer cases |
 
@@ -44,6 +44,20 @@ Families and caregivers of patients being treated with antidepressants for major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for citalopram should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
+## QT-Prolongation and Torsade de Pointes
+
+Citalopram causes dose dependent QT prolongation and should not be dosed above 40 mg/day.
+Torsade de Pointes has been reported post-marketing.
+Citalopram should not be used in patients with congenital long QT syndrome.
+Hypokalemia and hypomagnesemia should be corrected prior to initiation of treatment and periodically monitored.
+ECG monitoring is recommended in patients with congestive heart failure, bradyarrhythmias, or patients on concomitant medication that prolong the QT interval.
+Dose escalations over 20 mg/day in CYP2C19 poor metabolizers or patients taking concomitant cimetidine or another CYP2C19 inhibitor are not recommended.
+
+Individually corrected QTc (QTcNi) interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple-dose study in 119 healthy subjects.
+The maximum mean (upper bound of the 95% one-sided confidence interval) difference from placebo were 8.5 (10.8) and 18.5 (21) msec for 20 mg and 60 mg citalopram, respectively.
+Based on the established exposure-response relationship, the predicted QTcNi change from placebo (upper bound of the 95% one-sided confidence interval) under the Cmax for the dose of 40 mg is 12.6 (14.3) msec.
+In those patients who are CYP2C19 poor metabolizers or those patients who may be taking concomitant cimetidine or another CYP2C19 inhibitor, higher citalopram exposure would be expected, along with any concomitant risks.
+
 ## Screening Patients for Bipolar Disorder
 
 A major depressive episode may be the initial presentation of bipolar disorder.
@@ -58,8 +72,8 @@ In patients receiving serotonin reuptake inhibitor drugs in combination with a m
 These reactions have also been reported in patients who have recently discontinued SSRI treatment and have been started on an MAOI.
 Some cases presented with features resembling neuroleptic malignant syndrome.
 Furthermore, limited animal data on the effects of combined use of SSRIs and MAOIs suggest that these drugs may act synergistically to elevate blood pressure and evoke behavioral excitation.
-Therefore, it is recommended that citalopram hydrobromide should not be used in combination with an MAOI, or within 14 days of discontinuing treatment with an MAOI.
-Similarly, at least 14 days should be allowed after stopping citalopram hydrobromide before starting an MAOI.
+Therefore, it is recommended that citalopram should not be used in combination with an MAOI, or within 14 days of discontinuing treatment with an MAOI.
+Similarly, at least 14 days should be allowed after stopping citalopram before starting an MAOI.
 
 ## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
@@ -78,7 +92,7 @@ The concomitant use of citalopram with serotonin precursors (such as tryptophan)
 
 ### Discontinuation of Treatment with Citalopram
 
-During marketing of citalopram and other SSRIs and SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
+During marketing of citalopram and other SSRIs and SNRIs (serotonin and norepinephrine reuptake inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
 While these events are generally self limiting, there have been reports of serious discontinuation symptoms.
 
 Patients should be monitored for these symptoms when discontinuing treatment with citalopram.
@@ -128,7 +142,8 @@ Because any psychoactive drug may impair judgment, thinking, or motor skills, ho
 ### Use in Patients with Concomitant Illness
 
 Clinical experience with citalopram in patients with certain concomitant systemic illnesses is limited.
-Caution is advisable in using citalopram in patients with diseases or conditions that produce altered metabolism or hemodynamic responses.
+Due to the risk of QT prolongation, ECG monitoring is advised when using citalopram in patients with congestive heart failure, bradyarrhythmias, or who are taking medications that prolong the QT interval.
+Caution is advised in treating patients with diseases or conditions that cause hypokalemia or hypomagnesemia.
 
 Citalopram has not been systematically evaluated in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were generally excluded from clinical studies during the product’s premarketing testing.
@@ -161,7 +176,7 @@ Patients should be advised to notify their physician if they are breast-feeding 
 While patients may notice improvement with citalopram therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with citalopram and should counsel them in its appropriate use.
-A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for citalopram.
+A patient Medication Guide is available for citalopram.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -179,7 +194,20 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 There are no specific laboratory tests recommended.
 
+## QT-Prolongation and Torsade de Pointes
+
+Citalopram causes dose dependent QT prolongation and should not be dosed above 40 mg/day.
+Torsade de Pointes has been reported post-marketing.
+Citalopram should not be used in patients with congenital long QT syndrome.
+Hypokalemia and hypomagnesemia should be corrected prior to initiation of treatment and periodically monitored.
+ECG monitoring is recommended in patients with congestive heart failure, bradyarrhythmias, or patients on concomitant medications that prolong the QT interval.
+Dose escalations over 20 mg/day in CYP2C19 poor metabolizers or patients taking concomitant cimetidine or another CYP2C19 inhibitor are not recommended.
+
 ## Drug Interactions
+
+### Drugs That Prolong the QT Interval
+
+ECG monitoring is recommended with concomitant medications that have demonstrated prolongation of the QT interval (see WARNINGS: QT-Prolongation and Torsade de Pointes).
 
 ### Serotonergic Drugs
 
@@ -213,7 +241,8 @@ Patients receiving warfarin therapy should be carefully monitored when citalopra
 ### Cimetidine
 
 In subjects who had received 21 days of 40 mg/day citalopram, combined administration of 400 mg/day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.
-The clinical significance of these findings is unknown.
+
+Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant cimetidine because of the risk of QT prolongation (see DOSAGE AND ADMINISTRATION).
 
 ### Digoxin
 
@@ -238,7 +267,7 @@ The effect of theophylline on the pharmacokinetics of citalopram was not evaluat
 
 ### Sumatriptan
 
-There have been rare post-marketing reports describing patients with weakness, hyper-reflexia, and incoordination following the use of a SSRI and sumatriptan.
+There have been rare post-marketing reports describing patients with weakness, hyperreflexia, and incoordination following the use of a SSRI and sumatriptan.
 If concomitant treatment with sumatriptan and an SSRI (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline, citalopram) is clinically warranted, appropriate observation of the patient is advised.
 
 ### Warfarin
@@ -249,7 +278,7 @@ Prothrombin time was increased by 5%, the clinical significance of which is unkn
 ### Carbamazepine
 
 Combined administration of citalopram (40 mg/day for 14 days) and carbamazepine (titrated to 400 mg/day for 35 days) did not significantly affect the pharmacokinetics of carbamazepine, a CYP3A4 substrate.
-Although trough citalopram plasma levels were unaffected, given the enzyme inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of citalopram should be considered if the two drugs are coadministered.
+Although trough citalopram plasma levels were unaffected, given the enzyme-inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of citalopram should be considered if the two drugs are coadministered.
 
 ### Triazolam
 
@@ -264,6 +293,8 @@ Combined administration of citalopram (40 mg) and ketoconazole (200 mg) decrease
 In vitro studies indicated that CYP3A4 and 2C19 are the primary enzymes involved in the metabolism of citalopram.
 However, coadministration of citalopram (40 mg) and ketoconazole (200 mg), a potent inhibitor of CYP3A4, did not significantly affect the pharmacokinetics of citalopram.
 Because citalopram is metabolized by multiple enzyme systems, inhibition of a single enzyme may not appreciably decrease citalopram clearance.
+
+Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant CYP2C19 inhibitors because of the risk of QT prolongation (see DOSAGE AND ADMINISTRATION).
 
 ### Metoprolol
 
@@ -302,22 +333,24 @@ It was not clastogenic in the in vitro chromosomal aberration assay in human lym
 
 ### Impairment of Fertility
 
-When citalopram was administered orally to 16 male and 24 female rats prior to and throughout mating and gestation at doses of 32 mg/kg/day, 48 mg/kg/day, and 72 mg/kg/day, mating was decreased at all doses, and fertility was decreased at doses ≥ 32 mg/kg/day, approximately 5 times the MRHD of 60 mg/day on a body surface area (mg/m2) basis.
+When citalopram was administered orally to 16 male and 24 female rats prior to and throughout mating and gestation at doses of 32, 48, and 72 mg/kg/day, mating was decreased at all doses, and fertility was decreased at doses ≥ 32 mg/kg/day, approximately 5 times the MRHD of 60 mg/day on a body surface area (mg/m2) basis.
 Gestation duration was increased at 48 mg/kg/day, approximately 8 times the MRHD.
 
 ## Pregnancy
 
-### Pregnancy Category C
+### Teratogenic Effects
+
+#### Pregnancy Category C
 
 In animal reproduction studies, citalopram has been shown to have adverse effects on embryo/fetal and postnatal development, including teratogenic effects, when administered at doses greater than human therapeutic doses.
 
-In two rat embryo/fetal development studies, oral administration of citalopram (32 mg/kg/day, 56 mg/kg/day, or 112 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased embryo/fetal growth and survival and an increased incidence of fetal abnormalities (including cardiovascular and skeletal defects) at the high dose, which is approximately 18 times the MRHD of 60 mg/day on a body surface area (mg/m2) basis.
+In two rat embryo/fetal development studies, oral administration of citalopram (32, 56, or 112 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased embryo/fetal growth and survival and an increased incidence of fetal abnormalities (including cardiovascular and skeletal defects) at the high dose, which is approximately 18 times the MRHD of 60 mg/day on a body surface area (mg/m2) basis.
 This dose was also associated with maternal toxicity (clinical signs, decreased body weight gain).
 The developmental, no-effect dose of 56 mg/kg/day is approximately 9 times the MRHD on a mg/m2 basis.
 In a rabbit study, no adverse effects on embryo/fetal development were observed at doses of up to 16 mg/kg/day, or approximately 5 times the MRHD on a mg/m2 basis.
 Thus, teratogenic effects were observed at a maternally toxic dose in the rat and were not observed in the rabbit.
 
-When female rats were treated with citalopram (4.8 mg/kg/day, 12.8 mg/kg/day, or 32 mg/kg/day) from late gestation through weaning, increased offspring mortality during the first 4 days after birth and persistent offspring growth retardation were observed at the highest dose, which is approximately 5 times the MRHD on a mg/m2 basis.
+When female rats were treated with citalopram (4.8, 12.8, or 32 mg/kg/day) from late gestation through weaning, increased offspring mortality during the first 4 days after birth and persistent offspring growth retardation were observed at the highest dose, which is approximately 5 times the MRHD on a mg/m2 basis.
 The no-effect dose of 12.8 mg/kg/day is approximately 2 times the MRHD on a mg/m2 basis.
 Similar effects on offspring mortality and growth were seen when dams were treated throughout gestation and early lactation at doses ≥ 24 mg/kg/day, approximately 4 times the MRHD on a mg/m2 basis.
 A no-effect dose was not determined in that study.
@@ -340,7 +373,7 @@ In a retrospective, case control study of 377 women whose infants were born with
 There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
 The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
 
-When treating a pregnant woman with citalopram during the third trimester, the physician should carefully consider both; the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
+When treating a pregnant woman with citalopram during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
 Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
 
 ## Labor and Delivery
@@ -358,6 +391,9 @@ The decision whether to continue or discontinue either nursing or citalopram the
 Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
 Two placebo-controlled trials in 407 pediatric patients with MDD have been conducted with citalopram, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of citalopram in a child or adolescent must balance the potential risks with the clinical need.
+
+Decreased appetite and weight loss have been observed in association with the use of SSRIs.
+Consequently, regular monitoring of weight and growth should be performed in children and adolescents treated with citalopram.
 
 ## Geriatric Use
 

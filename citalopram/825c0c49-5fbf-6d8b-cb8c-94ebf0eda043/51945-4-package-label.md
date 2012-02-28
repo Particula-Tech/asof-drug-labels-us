@@ -2,28 +2,32 @@ PRINCIPAL DISPLAY PANEL - 10 mg
 
 NDC 0378-6231-01
 
-CITALOPRAM TABLETS, USP 10 mg*
+Citalopram Tablets, USP 10 mg
 
-Pharmacist: Please dispense with medication guide.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-100 TABLETS (Rx only)
+Rx only 100 TABLETS
 
-*Each tablet contains: Citalopram HBr equivalent to 10 mg citalopram base.
+Each film-coated tablet contains citalopram hydrobromide, USP equivalent to 10 mg citalopram base.
 
-USUAL ADULT DOSAGE: RX only- See package insert for full prescribing information.
+Usual Adult Dosage: See accompanying prescribing information.
 
-KEEP THIS AND ALL DRUGS OUT OF REACH OF CHILDREN.
+Keep this and all medication out of the reach of children.
 
-Store at 20°-25°C (68°-77°F).
+Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Manufactured in India by: Matrix Laboratories Limited Secunderbad–500 003, India
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Distributed by: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Made in India
 
-RMX6231A 75000192
+www.mylan.com
 
-Dispense in a tight container as described in the USP.
+RMX6231A2
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
 
 Code No.: MH/DRUGS/25/NKD/89
 
@@ -31,28 +35,32 @@ PRINCIPAL DISPLAY PANEL - 20 mg
 
 NDC 0378-6232-01
 
-CITALOPRAM TABLETS, USP 20 mg*
+Citalopram Tablets, USP 20 mg
 
-Pharmacist: Please dispense with medication guide.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-100 TABLETS (Rx only)
+Rx only 100 TABLETS
 
-*Each tablet contains: Citalopram HBr equivalent to 20 mg citalopram base.
+Each film-coated tablet contains citalopram hydrobromide, USP equivalent to 20 mg citalopram base.
 
-USUAL ADULT DOSAGE: RX only- See package insert for full prescribing information.
+Usual Adult Dosage: See accompanying prescribing information.
 
-KEEP THIS AND ALL DRUGS OUT OF REACH OF CHILDREN.
+Keep this and all medication out of the reach of children.
 
-Store at 20°-25°C (68°-77°F).
+Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Manufactured in India by: Matrix Laboratories Limited Secunderbad–500 003, India
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Distributed by: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Made in India
 
-RMX6232A 75000192
+www.mylan.com
 
-Dispense in a tight container as described in the USP.
+RMX6232A2
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
 
 Code No.: MH/DRUGS/25/NKD/89
 
@@ -60,27 +68,31 @@ PRINCIPAL DISPLAY PANEL - 40 mg
 
 NDC 0378-6233-01
 
-CITALOPRAM TABLETS, USP 40 mg*
+Citalopram Tablets, USP 40 mg
 
-Pharmacist: Please dispense with medication guide.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-100 TABLETS (Rx only)
+Rx only 100 TABLETS
 
-*Each tablet contains: Citalopram HBr equivalent to 40 mg citalopram base.
+Each film-coated tablet contains citalopram hydrobromide, USP equivalent to 40 mg citalopram base.
 
-USUAL ADULT DOSAGE: RX only- See package insert for full prescribing information.
+Usual Adult Dosage: See accompanying prescribing information.
 
-KEEP THIS AND ALL DRUGS OUT OF REACH OF CHILDREN.
+Keep this and all medication out of the reach of children.
 
-Store at 20°-25°C (68°-77°F).
+Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Manufactured in India by: Matrix Laboratories Limited Secunderbad–500 003, India
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Distributed by: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Made in India
 
-RMX6233A 75000192
+www.mylan.com
 
-Dispense in a tight container as described in the USP.
+RMX6233A2
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
 
 Code No.: MH/DRUGS/25/NKD/89

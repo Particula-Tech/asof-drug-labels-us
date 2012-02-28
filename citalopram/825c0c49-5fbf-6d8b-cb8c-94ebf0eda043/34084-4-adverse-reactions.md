@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The premarketing development program for citalopram included citalopram exposures in patients and/or normal subjects from 3 different groups of studies: 429 normal subjects in clinical pharmacology/pharmacokinetic studies; 4,422 exposures from patients in controlled and uncontrolled clinical trials, corresponding to approximately 1,370 patient exposure years.
+The premarketing development program for citalopram included citalopram exposures in patients and/or normal subjects from 3 different groups of studies: 429 normal subjects in clinical pharmacology/pharmacokinetic studies; 4,422 exposures from patients in controlled and uncontrolled clinical trials, corresponding to approximately 1,370 patient-exposure years.
 There were, in addition, over 19,000 exposures from mostly open-label, European post-marketing studies.
 The conditions and duration of treatment with citalopram varied greatly and included (in overlapping categories) open-label and double-blind studies, inpatient and outpatient studies, fixed dose and dose titration studies, and short-term and long-term exposure.
 Adverse reactions were assessed by collecting adverse events, results of physical examinations, vital signs, weights, laboratory analyses, ECGs, and results of ophthalmologic examinations.
@@ -9,18 +9,18 @@ Adverse events during exposure were obtained primarily by general inquiry and re
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a smaller number of standardized event categories.
 In the tables and tabulations that follow, standard World Health Organization (WHO) terminology has been used to classify reported adverse events.
 
-The stated frequencies of adverse events represent the proportion of individuals who experienced, at least once, a treatment emergent adverse event of the type listed.
-An event was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
+The stated frequencies of adverse events represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed.
+An event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 
-## Adverse Findings Observed in Short-Term, Placebo-Controlled Trials
+## Adverse Findings Observed in Short-term, Placebo-controlled Trials
 
 ### Adverse Events Associated with Discontinuation of Treatment
 
-Among 1,063 depressed patients who received citalopram at doses ranging from 10 mg/day to 80 mg/day in placebo-controlled trials of up to 6 weeks in duration, 16% discontinued treatment due to an adverse event, as compared to 8% of 446 patients receiving placebo.
+Among 1,063 depressed patients who received citalopram at doses ranging from 10 to 80 mg/day in placebo-controlled trials of up to 6 weeks in duration, 16% discontinued treatment due to an adverse event, as compared to 8% of 446 patients receiving placebo.
 The adverse events associated with discontinuation and considered drug-related (i.e., associated with discontinuation in at least 1% of citalopram-treated patients at a rate at least twice that of placebo) are shown in TABLE 2.
 It should be noted that one patient can report more than one reason for discontinuation and be counted more than once in this table.
 
-TABLE 2 Adverse Events Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled, Depression Trials
+TABLE 2 Adverse Events Associated with Discontinuation of Treatment in Short-term, Placebo-controlled, Depression Trials
 
 |  | Percentage of Patients Discontinuing Due to Adverse Event |  |
 | --- | --- | --- |
@@ -39,9 +39,9 @@ TABLE 2 Adverse Events Associated with Discontinuation of Treatment in Short-Ter
 | Somnolence | 2% | 1% |
 | Agitation | 1% | < 1% |
 
-### Adverse Events Occurring at an Incidence of 2% or More Among Citalopram-Treated Patients
+### Adverse Events Occurring at an Incidence of 2% or More Among Citalopram-treated Patients
 
-Table 3 enumerates the incidence, rounded to the nearest percent, of treatment emergent adverse events that occurred among 1,063 depressed patients who received citalopram at doses ranging from 10 mg/day to 80 mg/day in placebo-controlled trials of up to 6 weeks in duration.
+Table 3 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred among 1,063 depressed patients who received citalopram at doses ranging from 10 to 80 mg/day in placebo-controlled trials of up to 6 weeks in duration.
 Events included are those occurring in 2% or more of patients treated with citalopram and for which the incidence in patients treated with citalopram was greater than the incidence in placebo-treated patients.
 
 The prescriber should be aware that these figures cannot be used to predict the incidence of adverse events in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
@@ -50,11 +50,11 @@ The cited figures, however, do provide the prescribing physician with some basis
 
 The only commonly observed adverse event that occurred in citalopram patients with an incidence of 5% or greater and at least twice the incidence in placebo patients was ejaculation disorder (primarily ejaculatory delay) in male patients (see TABLE 3).
 
-TABLE 3 Treatment Emergent Adverse Events: Incidence in Placebo-Controlled Clinical TrialsEvents reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo ≥ citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain.
-(Percentage of Patients Reporting Event)
+TABLE 3 Treatment-emergent Adverse Events: Incidence in Placebo-controlled Clinical TrialsEvents reported by at least 2% of patients treated with citalopram are reported, except for the following events which had an incidence on placebo ≥ citalopram: headache, asthenia, dizziness, constipation, palpitation, vision abnormal, sleep disorder, nervousness, pharyngitis, micturition disorder, back pain.
 
-| Body System/Adverse Event | Citalopram | Placebo |
+|  | (Percentage of Patients Reporting Event) |  |
 | --- | --- | --- |
+| Body System/Adverse Event | Citalopram | Placebo |
 |  | (N = 1,063) | (N = 446) |
 | Autonomic Nervous System Disorders |  |  |
 | Dry Mouth | 20% | 14% |
@@ -111,7 +111,7 @@ The table below displays the incidence of sexual side effects reported by at lea
 | Libido Decreased | 3.8% (males only) | < 1% (males only) |
 | Impotence | 2.8% (males only) | < 1% (males only) |
 
-In female depressed patients receiving citalopram, the reported incidence of decreased libido and anorgasmia was 1.3% (n = 638 females) and 1.1% (n = 252 females), respectively.
+In female depressed patients receiving citalopram, the reported incidence of decreased libido and anorgasmia was 1.3% (N = 638 females) and 1.1% (N = 252 females), respectively.
 
 There are no adequately designed studies examining sexual dysfunction with citalopram treatment.
 
@@ -136,45 +136,71 @@ These analyses revealed no clinically important changes in laboratory test param
 
 ### ECG Changes
 
-Electrocardiograms from citalopram (N = 802) and placebo (N = 241) groups were compared with respect to (1) mean change from baseline in various ECG parameters, and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
-The only statistically significant drug-placebo difference observed was a decrease in heart rate for citalopram of 1.7 bpm compared to no change in heart rate for placebo.
-There were no observed differences in QT or other ECG intervals.
+In a thorough QT study, citalopram was found to be associated with a dose dependent increase in the QTc interval (see WARNINGS: QT Prolongation and Torsade de Pointes).
+
+Electrocardiograms from citalopram (N = 802) and placebo (N = 241) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
+In the citalopram group 1.9% of the patients had a change from baseline in QTcF > 60 msec compared to 1.2% of the patients in the placebo group.
+None of the patients in the placebo group had a post-dose QTcF > 500 msec compared to 0.5% of the patients in the citalopram group.
+The incidence of tachycardic outliers was 0.5% in the citalopram group and 0.4% in the placebo group.
+The incidence of bradycardic outliers was 0.9% in the citalopram group and 0.4% in the placebo group.
 
 ## Other Events Observed During the Premarketing Evaluation of Citalopram Hydrobromide
 
-Following is a list of WHO terms that reflect treatment emergent adverse events, as defined in the introduction to the ADVERSE REACTIONS section, reported by patients treated with citalopram at multiple doses in a range of 10 mg/day to 80 mg/day during any phase of a trial within the premarketing database of 4,422 patients.
+Following is a list of WHO terms that reflect treatment-emergent adverse events, as defined in the introduction to the ADVERSE REACTIONS section, reported by patients treated with citalopram at multiple doses in a range of 10 to 80 mg/day during any phase of a trial within the premarketing database of 4,422 patients.
 All reported events are included except those already listed in Table 3 or elsewhere in labeling, those events for which a drug cause was remote, those event terms which were so general as to be uninformative, and those occurring in only one patient.
 It is important to emphasize that, although the events reported occurred during treatment with citalopram, they were not necessarily caused by it.
 
 Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in less than 1/100 patients but at least 1/1,000 patients; rare events are those occurring in fewer than 1/1,000 patients.
 
-Cardiovascular: Frequent: tachycardia, postural hypotension, hypotension Infrequent: hypertension, bradycardia, edema (extremities), angina pectoris, extrasystoles, cardiac failure, flushing, myocardial infarction, cerebrovascular accident, myocardial ischemia Rare: transient ischemic attack, phlebitis, atrial fibrillation, cardiac arrest, bundle branch block
+Cardiovascular: Frequent: tachycardia, postural hypotension, hypotension.
+Infrequent: hypertension, bradycardia, edema (extremities), angina pectoris, extrasystoles, cardiac failure, flushing, myocardial infarction, cerebrovascular accident, myocardial ischemia.
+Rare: transient ischemic attack, phlebitis, atrial fibrillation, cardiac arrest, bundle branch block.
 
-Central and Peripheral Nervous System Disorders: Frequent: paresthesia, migraine Infrequent: hyperkinesia, vertigo, hypertonia, extrapyramidal disorder, leg cramps, involuntary muscle contractions, hypokinesia, neuralgia, dystonia, abnormal gait, hypesthesia, ataxia Rare: abnormal coordination, hyperesthesia, ptosis, stupor
+Central and Peripheral Nervous System Disorders: Frequent: paresthesia, migraine.
+Infrequent: hyperkinesia, vertigo, hypertonia, extrapyramidal disorder, leg cramps, involuntary muscle contractions, hypokinesia, neuralgia, dystonia, abnormal gait, hypesthesia, ataxia.
+Rare: abnormal coordination, hyperesthesia, ptosis, stupor.
 
-Endocrine Disorders: Rare: hypothyroidism, goiter, gynecomastia
+Endocrine Disorders: Rare: hypothyroidism, goiter, gynecomastia.
 
-Gastrointestinal Disorders: Frequent: saliva increased, flatulence Infrequent: gastritis, gastroenteritis, stomatitis, eructation, hemorrhoids, dysphagia, teeth grinding, gingivitis, esophagitis Rare: colitis, gastric ulcer, cholecystitis, cholelithiasis, duodenal ulcer, gastroesophageal reflux, glossitis, jaundice, diverticulitis, rectal hemorrhage, hiccups
+Gastrointestinal Disorders: Frequent: saliva increased, flatulence.
+Infrequent: gastritis, gastroenteritis, stomatitis, eructation, hemorrhoids, dysphagia, teeth grinding, gingivitis, esophagitis.
+Rare: colitis, gastric ulcer, cholecystitis, cholelithiasis, duodenal ulcer, gastroesophageal reflux, glossitis, jaundice, diverticulitis, rectal hemorrhage, hiccups.
 
-General: Infrequent: hot flushes, rigors, alcohol intolerance, syncope, influenza-like symptoms Rare: hay fever.
+General: Infrequent: hot flushes, rigors, alcohol intolerance, syncope, influenza-like symptoms.
+Rare: hay fever.
 
-Hemic and Lymphatic Disorders: Infrequent: purpura, anemia, epistaxis, leukocytosis, leucopenia, lymphadenopathy Rare: pulmonary embolism, granulocytopenia, lymphocytosis, lymphopenia, hypochromic anemia, coagulation disorder, gingival bleeding
+Hemic and Lymphatic Disorders: Infrequent: purpura, anemia, epistaxis, leukocytosis, leucopenia, lymphadenopathy.
+Rare: pulmonary embolism, granulocytopenia, lymphocytosis, lymphopenia, hypochromic anemia, coagulation disorder, gingival bleeding.
 
-Metabolic and Nutritional Disorders: Frequent: decreased weight, increased weight Infrequent: increased hepatic enzymes, thirst, dry eyes, increased alkaline phosphatase, abnormal glucose tolerance Rare: bilirubinemia, hypokalemia, obesity, hypoglycemia, hepatitis, dehydration
+Metabolic and Nutritional Disorders: Frequent: decreased weight, increased weight.
+Infrequent: increased hepatic enzymes, thirst, dry eyes, increased alkaline phosphatase, abnormal glucose tolerance.
+Rare: bilirubinemia, hypokalemia, obesity, hypoglycemia, hepatitis, dehydration.
 
-Musculoskeletal System Disorders: Infrequent: arthritis, muscle weakness, skeletal pain Rare: bursitis, osteoporosis
+Musculoskeletal System Disorders: Infrequent: arthritis, muscle weakness, skeletal pain.
+Rare: bursitis, osteoporosis.
 
-Psychiatric Disorders: Frequent: impaired concentration, amnesia, apathy, depression, increased appetite, aggravated depression, suicide attempt, confusion Infrequent: increased libido, aggressive reaction, paroniria, drug dependence, depersonalization, hallucination, euphoria, psychotic depression, delusion, paranoid reaction, emotional lability, panic reaction, psychosis Rare: catatonic reaction, melancholia
+Psychiatric Disorders: Frequent: impaired concentration, amnesia, apathy, depression, increased appetite, aggravated depression, suicide attempt, confusion.
+Infrequent: increased libido, aggressive reaction, paroniria, drug dependence, depersonalization, hallucination, euphoria, psychotic depression, delusion, paranoid reaction, emotional lability, panic reaction, psychosis.
+Rare: catatonic reaction, melancholia.
 
-Reproductive Disorders/Female% based on female subjects only: 2,955: Frequent: amenorrhea Infrequent: galactorrhea, breast pain, breast enlargement, vaginal hemorrhage
+Reproductive Disorders/Female% based on female subjects only: 2,955: Frequent: amenorrhea.
+Infrequent: galactorrhea, breast pain, breast enlargement, vaginal hemorrhage.
 
-Respiratory System Disorders: Frequent: coughing Infrequent: bronchitis, dyspnea, pneumonia Rare: asthma, laryngitis, bronchospasm, pneumonitis, sputum increased
+Respiratory System Disorders: Frequent: coughing.
+Infrequent: bronchitis, dyspnea, pneumonia.
+Rare: asthma, laryngitis, bronchospasm, pneumonitis, sputum increased.
 
-Skin and Appendages Disorders: Frequent: rash, pruritus Infrequent: photosensitivity reaction, urticaria, acne, skin discoloration, eczema, alopecia, dermatitis, skin dry, psoriasis Rare: hypertrichosis, decreased sweating, melanosis, keratitis, cellulitis, pruritus ani
+Skin and Appendages Disorders: Frequent: rash, pruritus.
+Infrequent: photosensitivity reaction, urticaria, acne, skin discoloration, eczema, alopecia, dermatitis, skin dry, psoriasis.
+Rare: hypertrichosis, decreased sweating, melanosis, keratitis, cellulitis, pruritus ani.
 
-Special Senses: Frequent: accommodation abnormal, taste perversion Infrequent: tinnitus, conjunctivitis, eye pain Rare: mydriasis, photophobia, diplopia, abnormal lacrimation, cataract, taste loss
+Special Senses: Frequent: accommodation abnormal, taste perversion.
+Infrequent: tinnitus, conjunctivitis, eye pain.
+Rare: mydriasis, photophobia, diplopia, abnormal lacrimation, cataract, taste loss.
 
-Urinary System Disorders: Frequent: polyuria Infrequent: micturition frequency, urinary incontinence, urinary retention, dysuria Rare: facial edema, hematuria, oliguria, pyelonephritis, renal calculus, renal pain
+Urinary System Disorders: Frequent: polyuria.
+Infrequent: micturition frequency, urinary incontinence, urinary retention, dysuria.
+Rare: facial edema, hematuria, oliguria, pyelonephritis, renal calculus, renal pain.
 
 ## Other Events Observed During the Post-marketing Evaluation of Citalopram Hydrobromide
 
