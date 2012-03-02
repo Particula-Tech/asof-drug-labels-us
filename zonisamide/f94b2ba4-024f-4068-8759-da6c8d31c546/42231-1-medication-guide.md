@@ -182,7 +182,7 @@ Active ingredient: zonisamide
 
 Inactive ingredients: microcrystalline cellulose, hydrogenated vegetable oil, sodium lauryl sulfate, gelatin, and colorants.
 
-Issued Month 2011
+Issued January 2012
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
