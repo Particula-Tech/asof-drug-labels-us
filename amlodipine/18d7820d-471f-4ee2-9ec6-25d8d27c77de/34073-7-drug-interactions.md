@@ -47,53 +47,17 @@ Hydrochlorothiazide
 
 When administered concurrently the following drugs may interact with thiazide diuretics:
 
-Alcohol, barbiturates, or narcotics: Potentiation of orthostatic hypotension may occur.
-
 Antidiabetic drugs (oral agents and insulin): Dosage adjustment of the antidiabetic drug may be required.
 
-Other antihypertensive drugs: Additive effect or potentiation.
-
-Cholestyramine and colestipol resins: Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
-Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43% respectively.
-
-Corticosteroids, ACTH: Intensified electrolyte depletion, particularly hypokalemia.
-
-Pressor amines (e.g., norepinephrine): Possible decreased response to pressor amines but not sufficient to preclude their use.
-
-Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine): Possible increased responsiveness to the muscle relaxant.
-
-Lithium: Should not generally be given with diuretics.
-Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
+Lithium: Diuretic agents increase the risk of lithium toxicity.
 Refer to the package insert for lithium preparations before use of such preparations with Exforge HCT.
+Monitoring of serum lithium concentrations is recommended during concurrent use.
 
-Non-steroidal anti-inflammatory drugs: In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
+Non-steroidal anti-inflammatory drugs (NSAIDS and COX-2 selective inhibitors): When Exforge HCT and nonsteroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of diuretic is obtained.
 
 Carbamazepine: May lead to symptomatic hyponatremia.
 
-## 7.1 Clinical Laboratory Test Findings
+Ion exchange resins: Staggering the dosage of hydrochlorothiazide and ion exchange resins (e.g., cholestyramine, colestipol) such that hydrochlorothiazide is administered at least 4 hours before or 4-6 hours after the administration of resins would potentially minimize the interaction.
+[see Clinical Pharmacology (12.3)]
 
-Clinical laboratory test findings for Exforge HCT were obtained in a controlled trial of Exforge HCT administered at the maximal dose of 10/320/25 mg compared to maximal doses of dual therapies, i.e. valsartan/HCTZ 320/25 mg, amlodipine/valsartan 10/320 mg, and HCTZ/amlodipine 25/10 mg.
-Findings for the components of Exforge HCT were obtained from other trials.
-
-Creatinine: In hypertensive patients, greater than 50% increases in creatinine occurred in 2.1% of Exforge HCT patients compared to 2.4% of valsartan/HCTZ patients, 0.7% of amlodipine/valsartan patients, and 1.8% of HCTZ/amlodipine patients.
-
-In heart failure patients, greater than 50% increases in creatinine were observed in 3.9% of valsartan-treated patients compared to 0.9% of placebo-treated patients.
-In post-myocardial infarction patients, doubling of serum creatinine was observed in 4.2% of valsartan-treated patients and 3.4% of captopril-treated patients.
-
-Liver Function Tests: Occasional elevations (greater than 150%) of liver chemistries occurred in Exforge HCT-treated patients.
-
-Blood Urea Nitrogen (BUN): In hypertensive patients, greater than 50% increases in BUN were observed in 30% of Exforge HCT-treated patients compared to 29% of valsartan/HCTZ patients, 15.8% of amlodipine/valsartan patients, and 18.5% of HCTZ/amlodipine patients.
-The majority of BUN values remained within normal limits.
-
-In heart failure patients, greater than 50% increases in BUN were observed in 17% of valsartan-treated patients compared to 6% of placebo-treated patients.
-
-Serum Electrolytes (Potassium): In hypertensive patients, greater than 20% decreases in serum potassium were observed in 6.5% of Exforge HCT-treated patients compared to 3.3% of valsartan/HCTZ patients, 0.4% of amlodipine/valsartan patients, and 19.3% of HCTZ/amlodipine patients.
-Greater than 20% increases in potassium were observed in 3.5% of Exforge HCT-treated patients compared to 2.4% of valsartan/HCTZ patients, 6.2% of amlodipine/valsartan patients, and 2.2% of HCTZ/amlodipine patients.
-
-In heart failure patients, greater than 20% increases in serum potassium were observed in 10% of valsartan-treated patients compared to 5.1% of placebo-treated patients [see Warnings and Precautions, Electrolytes and Metabolic Imbalances (5.10)].
-
-Neutropenia: Neutropenia (<1500/L) was observed in 1.9% of patients treated with valsartan and 0.8% of patients treated with placebo.
-
-## 7.3 Drug/Food Interactions
-
-The bioavailability of amlodipine, valsartan, and HCTZ were not altered when Exforge HCT was administered with food.
+Cyclosporine: Concomitant treatment with cyclosporine may increase the risk of hyperuricemia and gout-type complications.

@@ -31,36 +31,14 @@ A transient hypotensive response is not a contraindication to further treatment,
 Rarely, patients, particularly those with severe obstructive coronary artery disease, have developed documented increased frequency, duration or severity of angina or acute myocardial infarction upon starting calcium channel blocker therapy or at the time of dosage increase.
 The mechanism of this effect has not been elucidated.
 
-## 5.4 Impaired Hepatic Function
+## 5.4 Impaired Renal Function
 
-Amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t½) is 56 hours in patients with impaired hepatic function.
+Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.
+Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g. patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on Exforge HCT.
+Monitor renal function periodically in these patients.
+Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Exforge HCT.
 
-As the majority of valsartan is eliminated in the bile, patients with mild-to-moderate hepatic impairment, including patients with biliary obstructive disorders, showed lower valsartan clearance (higher AUCs).
-
-In patients with impaired hepatic function or progressive liver disease, minor alterations of fluid and electrolyte balance, such as those resulting from diuretic use, may precipitate hepatic coma.
-
-Therefore, avoid the use of Exforge HCT in patients with severe hepatic impairment.
-When administering Exforge HCT to patients with mild-to-moderate hepatic impairment, including patients with biliary obstructive disorders, monitor for worsening of hepatic or renal function, including fluid status and electrolytes, and adverse reactions.
-
-## 5.5 Impaired Renal Function
-
-As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals.
-In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with angiotensin-converting enzyme inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
-Similar outcomes have been reported with valsartan.
-
-In studies of ACE inhibitors in hypertensive patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen have been reported.
-In a 4-day trial of valsartan in 12 hypertensive patients with unilateral renal artery stenosis, no significant increases in serum creatinine or blood urea nitrogen were observed.
-There has been no long-term use of valsartan in patients with unilateral or bilateral renal artery stenosis, but an effect similar to that seen with ACE inhibitors should be anticipated.
-
-In patients with renal disease, thiazides may precipitate azotemia.
-Cumulative effects of the drug may develop in patients with impaired renal function.
-
-Avoid use of Exforge HCT in severe renal disease (creatinine clearance ≤30 mL/min).
-The usual regimens of therapy with Exforge HCT may be followed if the patient’s creatinine clearance is >30 mL/min.
-
-There is no experience in the use of Exforge HCT in patients with a recent kidney transplant.
-
-## 5.6 Heart Failure
+## 5.5 Heart Failure
 
 Exforge HCT has not been studied in patients with heart failure.
 
@@ -78,21 +56,21 @@ In the Valsartan Heart Failure Trial, in which 93% of patients were on concomita
 In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), discontinuation due to various types of renal dysfunction occurred in 1.1% of valsartan-treated patients and 0.8% of captopril-treated patients.
 Evaluation of patients with heart failure or post-myocardial infarction should always include assessment of renal function.
 
-## 5.7 Hypersensitivity Reaction
+## 5.6 Hypersensitivity Reaction
 
 Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
 
-## 5.8 Systemic Lupus Erythematosus
+## 5.7 Systemic Lupus Erythematosus
 
 Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
 
-## 5.9 Lithium Interaction
+## 5.8 Lithium Interaction
 
 Lithium generally should not be given with thiazides [see Drug Interactions, Hydrochlorothiazide, Lithium (7)].
 
-## 5.10 Electrolytes and Metabolic Imbalances
+## 5.9 Electrolytes and Metabolic Imbalances
 
-Amlodipine -Valsartan - Hydrochlorothiazide
+Amlodipine - Valsartan - Hydrochlorothiazide
 
 In the controlled trial of Exforge HCT in moderate to severe hypertensive patients, the incidence of hypokalemia (serum potassium <3.5 mEq/L) at any time post-baseline with the maximum dose of Exforge HCT (10/320/25 mg) was 10% compared to 25% with HCTZ/amlodipine (25/10 mg), 7% with valsartan/HCTZ (320/25 mg), and 3% with amlodipine/valsartan (10/320 mg).
 One patient (0.2%) discontinued therapy due to an adverse event of hypokalemia in each of the Exforge HCT and HCTZ/amlodipine groups.
@@ -101,40 +79,22 @@ Monitor serum electrolytes periodically based on Exforge HCT use and other facto
 
 Hydrochlorothiazide
 
-All patients receiving thiazide therapy should be observed for clinical signs of fluid or electrolyte imbalance: hyponatremia, hypochloremic alkalosis, and hypokalemia.
-Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids.
-Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, confusion, seizures, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
+Hydrochlorothiazide can cause hypokalemia and hyponatremia.
+Hypomagnesemia can result in hypokalemia which appears difficult to treat despite potassium repletion.
+Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
+Monitor serum electrolytes periodically.
 
-Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis is present, or after prolonged therapy.
+If hypokalemia is accompanied by clinical signs (e.g. muscular weakness, paresis, or ECG alterations), Exforge HCT should be discontinued.
+Correction of hypokalemia and any coexisting hypomagnesmia is recommended prior to the initiation of thiazides.
 
-Interference with adequate oral electrolyte intake will also contribute to hypokalemia.
-Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability).
+Hydrochlorothiazide may alter glucose tolerance and raise serum levels of cholesterol and triglycerides.
 
-Although any chloride deficit is generally mild and usually does not require specific treatment except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
+Hydrochlorothiazide may raise the serum uric acid level due to reduced clearance of uric acid and may cause or exacerbate hyperuricemia and precipitate gout in susceptible patients.
 
-Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction, rather than administration of salt except in rare instances when the hyponatremia is life-threatening.
-In actual salt depletion, appropriate replacement is the therapy of choice.
+Hydrochlorothiazide decreases urinary calcium excretion and may cause elevations of serum calcium.
+Monitor calcium levels in patients with hypercalcemia receiving Exforge HCT.
 
-Hyperuricemia may occur or frank gout may be precipitated in certain patients receiving thiazide therapy.
-
-In diabetic patients, dosage adjustments of insulin or oral hypoglycemic agents may be required.
-Hyperglycemia may occur with thiazide diuretics.
-Thus latent diabetes mellitus may become manifest during thiazide therapy.
-
-The antihypertensive effects of the drug may be enhanced in the postsympathectomy patient.
-
-If progressive renal impairment becomes evident, consider withholding or discontinuing Exforge HCT therapy or substituting other antihypertensive therapy.
-
-Thiazides have been shown to increase the urinary excretion of magnesium; this may result in hypomagnesemia.
-
-Thiazides may decrease urinary calcium excretion.
-Thiazides may cause intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism.
-Marked hypercalcemia may be evidence of hidden hyperparathyroidism.
-Exforge HCT should be discontinued or non-thiazide antihypertensive therapy substituted before carrying out tests for parathyroid function.
-
-Increases in cholesterol and triglyceride levels may be associated with thiazide diuretic therapy.
-
-## 5.11 Acute Myopia and Secondary Angle-Closure Glaucoma
+## 5.10 Acute Myopia and Secondary Angle-Closure Glaucoma
 
 Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma.
 Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation.

@@ -137,7 +137,34 @@ Skin: erythema multiforme including Stevens-Johnson syndrome, exfoliative dermat
 
 Special Senses: transient blurred vision, xanthopsia.
 
+Clinical Laboratory Test Findings
+
+Clinical laboratory test findings for Exforge HCT were obtained in a controlled trial of Exforge HCT administered at the maximal dose of 10/320/25 mg compared to maximal doses of dual therapies, i.e. valsartan/HCTZ 320/25 mg, amlodipine/valsartan 10/320 mg, and HCTZ/amlodipine 25/10 mg.
+Findings for the components of Exforge HCT were obtained from other trials.
+
+Creatinine: In hypertensive patients, greater than 50% increases in creatinine occurred in 2.1% of Exforge HCT patients compared to 2.4% of valsartan/HCTZ patients, 0.7% of amlodipine/valsartan patients, and 1.8% of HCTZ/amlodipine patients.
+
+In heart failure patients, greater than 50% increases in creatinine were observed in 3.9% of valsartan-treated patients compared to 0.9% of placebo-treated patients.
+In post-myocardial infarction patients, doubling of serum creatinine was observed in 4.2% of valsartan-treated patients and 3.4% of captopril-treated patients.
+
+Liver Function Tests: Occasional elevations (greater than 150%) of liver chemistries occurred in Exforge HCT-treated patients.
+
+Blood Urea Nitrogen (BUN): In hypertensive patients, greater than 50% increases in BUN were observed in 30% of Exforge HCT-treated patients compared to 29% of valsartan/HCTZ patients, 15.8% of amlodipine/valsartan patients, and 18.5% of HCTZ/amlodipine patients.
+The majority of BUN values remained within normal limits.
+
+In heart failure patients, greater than 50% increases in BUN were observed in 17% of valsartan-treated patients compared to 6% of placebo-treated patients.
+
+Serum Electrolytes (Potassium): In hypertensive patients, greater than 20% decreases in serum potassium were observed in 6.5% of Exforge HCT-treated patients compared to 3.3% of valsartan/HCTZ patients, 0.4% of amlodipine/valsartan patients, and 19.3% of HCTZ/amlodipine patients.
+Greater than 20% increases in potassium were observed in 3.5% of Exforge HCT-treated patients compared to 2.4% of valsartan/HCTZ patients, 6.2% of amlodipine/valsartan patients, and 2.2% of HCTZ/amlodipine patients.
+
+In heart failure patients, greater than 20% increases in serum potassium were observed in 10% of valsartan-treated patients compared to 5.1% of placebo-treated patients [see Warnings and Precautions, Electrolytes and Metabolic Imbalances (5.10)].
+
+Neutropenia: Neutropenia (<1500/L) was observed in 1.9% of patients treated with valsartan and 0.8% of patients treated with placebo.
+
 ## 6.2 Post-Marketing Experience
+
+The following additional adverse reactions have been reported in post marketing experience.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Amlodipine
 
@@ -165,4 +192,12 @@ Vascular: Vasculitis
 Nervous System: Syncope
 
 Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Hydrochlorothiazide
+
+The following additional adverse reactions have been reported in post-marketing experience with hydrochlorothiazide:
+
+Acute renal failure, renal disorder, aplastic anemia, erythema multiforme, pyrexia, muscle spasm, asthenia, acute angle-closure glaucoma, bone marrow failure, worsening of diabetes control, hypokalemia, blood lipids increased, hyponatremia, hypomagnesemia, hypercalcemia, hypochloremic alkalosis, impotence, visual impairment.
+
+Pathological changes in the parathyroid gland of patients with hypercalcemia and hypophosphatemia have been observed in a few patients on prolonged thiazide therapy.
+If hypercalcemia occurs, further diagnostic evaluation is necessary.

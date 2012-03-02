@@ -89,8 +89,6 @@ No information on the effect of larger doses is available.
 Removal of the negative feedback of angiotensin II causes a 2- to 3-fold rise in plasma renin and consequent rise in angiotensin II plasma concentration in hypertensive patients.
 Minimal decreases in plasma aldosterone were observed after administration of valsartan; very little effect on serum potassium was observed.
 
-In multiple dose studies in hypertensive patients with stable renal insufficiency and patients with renovascular hypertension, valsartan had no clinically significant effects on glomerular filtration rate, filtration fraction, creatinine clearance, or renal plasma flow.
-
 Administration of valsartan to patients with essential hypertension results in a significant reduction of sitting, supine, and standing systolic blood pressure, usually with little or no orthostatic change.
 
 Valsartan has indications other than hypertension which are described in its full prescribing information.
@@ -99,12 +97,25 @@ Hydrochlorothiazide
 
 After oral administration of hydrochlorothiazide, diuresis begins within 2 hours, peaks in about 4 hours and lasts about 6 to 12 hours.
 
+Drug Interactions
+
+Hydrochlorothiazide:
+
+Alcohol, barbiturates, or narcotics: Potentiation of orthostatic hypotension may occur.
+
+Skeletal muscle relaxants: Possible increased responsiveness to muscle relaxants such as curare derivatives.
+
+Digitalis glycosides: Thiazide-induced hypokalemia or hypomagnesemia may predispose the patient to digoxin toxicity.
+
 ## 12.3 Pharmacokinetics
 
 Exforge HCT
 
 Following oral administration of Exforge HCT in normal healthy adults, peak plasma concentrations of amlodipine, valsartan and HCTZ are reached in about 6 hours, 3 hours, and 2 hours, respectively.
 The rate and extent of absorption of amlodipine, valsartan and HCTZ from Exforge HCT are the same as when administered as individual dosage forms.
+
+The bioavailability of amlodipine, valsartan, and HCTZ were not altered when Exforge HCT was administered with food.
+Exforge HCT may be administered with or without food.
 
 Amlodipine
 
@@ -138,39 +149,44 @@ Following intravenous administration, plasma clearance of valsartan is about 2 L
 
 Hydrochlorothiazide
 
-Hydrochlorothiazide is not metabolized but is eliminated rapidly by the kidney.
-At least 61% of the oral dose is eliminated as unchanged drug within 24 hours.
-The elimination half-life is between 5.8 and 18.9 hours.
-Hydrochlorothiazide crosses the placental but not the blood-brain barrier and is excreted in breast milk.
+The estimated absolute bioavailability of hydrochlorothiazide after oral administration is about 70%.
+Peak plasma hydrochlorothiazide concentrations (Cmax) are reached within 2 to 5 hours after oral administration.
+There is no clinically significant effect of food on the bioavailability of hydrochlorothiazide.
 
-Geriatric
+Hydrochlorothiazide binds to albumin (40 to 70%) and distributes into erythrocytes.
+Following oral administration, plasma hydrochlorothiazide concentrations decline bi-exponentially, with a mean distribution half-life of about 2 hours and an elimination half-life of about 10 hours.
 
-Studies with amlodipine: Elderly patients have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40%-60%; therefore a lower initial dose of amlodipine may be required.
+About 70% of an orally administered dose of hydrochlorothiazide is eliminated in the urine as unchanged drug.
 
-Studies with valsartan: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
-No dosage adjustment is necessary.
+Special Populations
 
-Gender
+Geriatric: Elderly patients have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40%-60%.
+Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
+Limited amount of data suggest that the systemic clearance of hydrochlorothiazide is reduced in both healthy and hypertensive elderly subjects compared to young healthy volunteers.
 
-Studies with valsartan: Pharmacokinetics of valsartan does not differ significantly between males and females.
+Gender: Pharmacokinetics of valsartan does not differ significantly between males and females.
 
-Renal Insufficiency
+Race: Pharmacokinetic differences due to race have not been studied.
 
-Studies with amlodipine: The pharmacokinetics of amlodipine is not significantly influenced by renal impairment.
-Patients with renal failure may therefore receive the usual initial dose.
-
-Studies with valsartan: There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment.
-Consequently, dose adjustment is not required in patients with mild-to-moderate renal dysfunction.
-No studies have been performed in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
+Renal Insufficiency: The pharmacokinetics of amlodipine is not significantly influenced by renal impairment.
+There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment.Valsartan has not been studied in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
 Valsartan is not removed from the plasma by hemodialysis.
-In the case of severe renal disease, exercise care with dosing of valsartan.
 
-Studies with hydrochlorothiazide: The half-life of hydrochlorothiazide elimination was lengthened to 21 hours in a study of patients with impaired renal function (mean creatinine clearance of 19 mL/min).
+In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was doubled in individuals with mild/moderate renal impairment (30 < CLcr < 90 mL/min) and tripled in severe renal impairment (≤ 30 mL/min), compared to individuals with normal renal function (CLcr > 90 mL/min).
+[see Use in Special Populations (8.6)]
 
-Hepatic Insufficiency
+Hepatic Insufficiency: Patients with hepatic insufficiency have decreased clearance of amlodipine with resulting increase in AUC of approximately 40%-60%.
+On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight).
+[see Use in Special Populations (8.7)]
 
-Studies with amlodipine: Patients with hepatic insufficiency have decreased clearance of amlodipine with resulting increase in AUC of approximately 40%-60%; therefore, a lower initial dose of amlodipine may be required.
+Drug Interactions
 
-Studies with valsartan: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex and weight).
-In general, no dosage adjustment is needed in patients with mild-to-moderate liver disease.
-Care should be exercised in patients with liver disease.
+Hydrochlorothiazide:
+
+Drugs that alter gastrointestinal motility: The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g. atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate.
+Conversely, pro-kinetic drugs may decrease the bioavailability of thiazide diuretics.
+
+Cholestyramine: In a dedicated drug interaction study, administration of cholestyramine 2 hours before hydrochlorothiazide resulted in a 70% reduction in exposure to hydrochlorothiazide.
+Further, administration of hydrochlorothiazide 2 hours before cholestyramine resulted in 35% reduction in exposure to hydrochlorothiazide.
+
+Antineoplastic agents (e.g. cyclophosphamide, methotrexate): Concomitant use of thiazide diuretics may reduce renal excretion of cytotoxic agents and enhance their myelosuppressive effects.

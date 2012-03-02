@@ -45,6 +45,9 @@ Tell your doctor about all of your medical conditions, including if you:
 - are vomiting or having a lot of diarrhea
 - have or had gallstones
 - have Lupus
+- have low levels of potassium (with or without symptoms such as muscle weakness, muscle spasms, abnormal heart rhythm) or magnesium in your blood
+- have high levels of calcium in your blood (with or without symptoms such as nausea, vomiting, constipation, stomach pain, frequent urination, thirst, muscle weakness and twitching).
+- have high levels of uric acid in the blood.
 
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Some of your other medicines and EXFORGE HCT could affect each other, causing serious side effects.
@@ -58,10 +61,13 @@ Especially tell your doctor if you take:
 - narcotic pain medicines
 - sleeping pills and anti-seizure medicines called barbiturates
 - lithium, a medicine used to treat some types of depression
-- aspirin or other medicines called non-steroidal anti-inflammatory drugs (NSAIDs), like ibuprofen or naproxen
+- aspirin or other medicines called non-steriodal anti-inflammatory drugs (NSAIDs), like ibuprofen or naproxen
 - steroids
 - cholesterol lowering medicine
 - alcohol
+- digoxin or other digitalis glycosides (a heart medicine)
+- muscle relaxants (medicines used during operations)
+- certain cancer medicines, like cyclophosphamide or methotrexate
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your doctor or pharmacist when you get a new medicine.
@@ -180,4 +186,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2012-37/T2012-38 January 2012/January 2012
+T2012-54/T2012-55 February 2012/February 2012
