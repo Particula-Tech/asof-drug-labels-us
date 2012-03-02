@@ -1,38 +1,9 @@
-# 17 PATIENT COUNSELING INFORMATION
-
-## 17.1 Vaginal Intercourse and Use with Vaginal Products
-
-Instruct the patient not to engage in vaginal intercourse, or use other vaginal products (such as tampons or douches) during treatment with this product.
-
-## 17.2 Use with Condoms and Vaginal Contraceptive Diaphragms
-
-Advise the patient that this cream contains mineral oil that may weaken latex or rubber products such as condoms or vaginal contraceptive diaphragms.
-Therefore, do not use barrier contraceptives concurrently or for 5 days following treatment with Clindesse.
-During this time period, condoms may not be reliable for preventing pregnancy or for protecting against transmission of HIV and other sexually transmitted diseases [see Warnings and Precautions (5.2)].
-
-## 17.3 Fungal Vaginal Infections
-
-Inform the patient that vaginal fungal infections can occur following use of Clindesse and may rquire treatment with an antifungal drug [see Adverse Reactons (6.1)].
-
-## 17.4 Accidental Exposure to the Eye
-
-Inform the patient that Clindesse contains ingredients which cause burning and irritiation of the eye.
-In the event of accidental contact with the eye, rinse the eye with copious amounts of cool tap water and consult a physician.
-
-Manufactured by KV PharmaceuticalTM Co. for Ther-RxTM Corporation St. Louis, Mo 63044
-
-U.S. Patent Nos. 5,993,856; 6,899,890
-
-P10067 12/2010
-
-Cleocin is a registered trademark of Pharmacia.
-
 Patient Information
 
 Clindesse (clin-DESS) (clindamycin phosphate) Vaginal Cream, 2%
 
 For vaginal use only.
-Do not put Clindesse in your eyes, mouth, or on your skin
+Do not put Clindesse in your eyes, mouth, or on your skin.
 
 Read this patient information before you start using Clindesse.
 There may be new information.
@@ -53,8 +24,6 @@ Do not use Clindesse if you:
 - have had an allergic reaction to clindamycin or other lincosamide antibiotic medicines or are allergic to any of the ingredients in Clindesse.
   See the end of this leaflet for a complete list of ingredients in Clindesse.
 - have had bowel problems such as:
-
-- 
   - inflammation of your intestines (enteritis)
   - inflammation of your colon (colitis)
   - diarrhea due to a Clostridum difficile infection (CDAD)
@@ -169,10 +138,10 @@ Prepare the applicator.
 Step 2.
 Insert the applicator.
 
-Gently insert the applicator into the vagina as far as it will comfortably go (see Figure 3).
+Gently insert the applicator into your vagina as far as it will comfortably go (see Figure 3).
 
 Step 3.
-Applying the cream.
+Apply the cream.
 
 Push the plunger in until all of the cream goes into your vagina (see Figures 4 and 5).
 

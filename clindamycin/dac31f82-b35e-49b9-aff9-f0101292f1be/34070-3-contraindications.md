@@ -1,4 +1,4 @@
-# 4 CONTRAINIDCATIONS
+# 4 CONTRAINDICATIONS
 
 ## 4.1 Hypersensitivity
 

@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Clindesse is an antibacterial drug [see Clinical Pharmacology, Microbiology (12.4)]
+Clindamycin is an antibacterial drug [see Clinical Pharmacology, Microbiology (12.4)]
 
 ## 12.3 Pharmacokinetics
 
