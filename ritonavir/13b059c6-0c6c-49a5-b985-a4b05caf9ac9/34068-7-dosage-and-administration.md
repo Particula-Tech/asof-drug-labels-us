@@ -13,7 +13,7 @@ The recommended dosage of ritonavir is 600 mg twice daily by mouth.
 Use of a dose titration schedule may help to reduce treatment-emergent adverse events while maintaining appropriate ritonavir plasma levels.
 Ritonavir should be started at no less than 300 mg twice daily and increased at 2 to 3 day intervals by 100 mg twice daily.
 
-### Dose modification for NORVIR
+### Dose Modification for NORVIR
 
 Dose reduction of NORVIR is necessary when used with other protease inhibitors: amprenavir, atazanavir, darunavir, fosamprenavir, saquinavir, and tipranavir.
 Prescribers should consult the full prescribing information and clinical study information of these protease inhibitors if they are co-administered with a reduced dose of ritonavir (See also, WARNINGS-Drug Interactions and Table 6, Established and Other Potentially Significant Drug Interactions.)

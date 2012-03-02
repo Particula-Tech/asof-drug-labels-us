@@ -129,7 +129,7 @@ Redistribution/accumulation of body fat has been reported (see PRECAUTIONS - Fat
 
 #### Cardiovascular System
 
-First –degree AV block, second-degree AV block, third-degree AV block, right bundle branch block have been reported (See PRECAUTIONS – PR Interval Prolongation).
+First-degree AV block, second-degree AV block, third-degree AV block, right bundle branch block have been reported (See PRECAUTIONS – PR Interval Prolongation).
 
 Cardiac and neurologic events have been reported when ritonavir has been co-administered with disopyramide, mexiletine, nefazodone, fluoxetine, and beta blockers.
 The possibility of drug interaction cannot be excluded.
@@ -147,7 +147,7 @@ There have been reports of increased bleeding in patients with hemophilia A or B
 There have been postmarketing reports of seizure.
 Also, see Cardiovascular System.
 
-### Skin and subcutaneous tissue disorders
+#### Skin and subcutaneous tissue disorders
 
 Toxic epidermal necrolysis (TEN) has been reported.
 

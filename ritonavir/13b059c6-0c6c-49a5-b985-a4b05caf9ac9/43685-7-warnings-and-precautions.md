@@ -96,12 +96,25 @@ See PRECAUTIONS - Table 5 and Table 6 for additional information on potential dr
 Immune reconstitution syndrome has been reported in HIV-infected patients treated with combination antiretroviral therapy, including NORVIR.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jiroveci pneumonia, or tuberculosis), which may necessitate further evaluation and treatment.
 
+Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
+
 ## Information For Patients
 
 A statement to patients and health care providers is included on the product's bottle label: ALERT: Find out about medicines that should NOT be taken with NORVIR.
-A Patient Package Insert (PPI) for Norvir is available for patient information.
+A Patient Package Insert (PPI) for NORVIR is available for patient information.
 
-Patients should be informed that NORVIR is not a cure for HIV infection and that they may continue to acquire illnesses associated with advanced HIV infection, including opportunistic infections.
+NORVIR is not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
+Patients should remain under the care of a physician when using NORVIR.
+
+Patients should be advised to avoid doing things that can spread HIV-1 infection to others.
+
+- Do not share needles or other injection equipment.
+- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+- Do not have any kind of sex without protection.
+  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+- Do not breastfeed.
+  We do not know if NORVIR can be passed to the baby through breast milk and whether it could harm the baby.
+  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
 
 Patients should be told that the long-term effects of NORVIR are unknown at this time.
 They should be informed that NORVIR therapy has not been shown to reduce the risk of transmitting HIV to others through sexual contact or blood contamination.
@@ -115,7 +128,7 @@ However, if a dose is skipped, the patient should not double the next dose.
 
 Patients should be informed that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long term health effects of these conditions are not known at this time.
 
-NORVIR may interact with some drugs; therefore, patients should be advised to report to their doctor the use of any other prescription, non-prescription medication or herbal products, particularly St. John's wort.
+NORVIR may interact with some drugs; therefore, patients should be advised to report to their doctor the use of any other prescription, non-prescription medication or herbal products, particularly St. John's Wort.
 
 Patients receiving PDE5 inhibitors for erectile dysfunction (eg, sildenafil, tadalafil, or vardenafil) should be advised that they may be at an increased risk of associated adverse events including hypotension, visual changes, and sustained erection, and should promptly report any symptoms to their doctor.
 Concomitant use of sildenafil with NORVIR is contraindicated in patients with pulmonary arterial hypertension (PAH).
@@ -164,12 +177,12 @@ Drugs that Should Not be Co-administered with NORVIR
 | Antifungal: voriconazole | CONTRAINDICATED with ritonavir doses of 400 mg every 12 hours or greater due to significant decreases in voriconazole plasma concentrations and may lead to loss of antifungal response. |
 | Ergot Derivatives: dihydroergotamine, ergonovine, ergotamine, methylergonovine | CONTRAINDICATED due to potential for serious and/or life-threatening reactions such as acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system. |
 | GI Motility Agent: cisapride | CONTRAINDICATED due to potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
-| Herbal Products: St. John's wort (hypericum perforatum) | CONTRAINDICATED as the combination may lead to loss of virologic response and possible resistance to NORVIR or to the class of protease inhibitors. |
+| Herbal Products: St. John's Wort (hypericum perforatum) | CONTRAINDICATED as the combination may lead to loss of virologic response and possible resistance to NORVIR or to the class of protease inhibitors. |
 | HMG-CoA Reductase Inhibitors: lovastatin, simvastatin | CONTRAINDICATED due to potential for serious reactions such as risk of myopathy including rhabdomyolysis. |
 | Neuroleptic: pimozide | CONTRAINDICATED due to the potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
 | PDE5 enzyme inhibitor: Sildenafil* (Revatio®) | CONTRAINDICATED in the treatment of pulmonary arterial hypertension (PAH). A safe and effective dose has not been established when used with ritonavir. There is an increased potential for sildenafil-associated adverse events, including visual abnormalities, hypotension, prolonged erection, and syncope. |
 | Sedative/hypnotics: oral midazolam, triazolam | CONTRAINDICATED due to potential for serious and/or life-threatening reactions such as prolonged or increased sedation or respiratory depression. |
-| *see WARNINGS - Drug Interactions and PRECAUTIONS - Table 6. Established and Other Potentially Significant Drug Interactions for coadministration of sildenafil in patients with erectile dysfunction. |  |
+| *see WARNINGS - Drug Interactions and PRECAUTIONS - Table 6. Established and Other Potentially Significant Drug Interactions for co-administration of sildenafil in patients with erectile dysfunction. |  |
 
 Table 6.
 Established and Other Potentially Significant Drug Interactions: Alteration in Dose or Regimen Recommended Based on Drug Interaction Studies or Predicted Interaction (see CLINICAL PHARMACOLOGY - Table 2 and Table 3 for Magnitude of Interaction)
@@ -199,7 +212,7 @@ Established and Other Potentially Significant Drug Interactions: Alteration in D
 | Antidepressant: desipramine | ↑ desipramine | Dosage reduction and concentration monitoring of desipramine is recommended. |
 | Antidepressant: trazodone | ↑ trazodone | Concomitant use of trazodone and NORVIR increases plasma concentrations of trazodone. Adverse events of nausea, dizziness, hypotension and syncope have been observed following co-administration of trazodone and NORVIR. If trazodone is used with a CYP3A4 inhibitor such as ritonavir, the combination should be used with caution and a lower dose of trazodone should be considered. |
 | Antiemetic: dronabinol | ↑ dronabinol | A dose decrease of dronabinol may be needed when co-administered with ritonavir. |
-| Antifungal: ketoconazole itraconazole voriconazole | ↑ ketoconazole ↑ itraconazole ↓ voriconazole | High doses of ketoconazole or itraconazole (> 200 mg/day) are not recommended. Coadministration of voriconazole and ritonavir doses of 400 mg every 12 hours or greater is contraindicated. Coadministration of voriconazole and ritonavir 100 mg should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole. |
+| Antifungal: ketoconazole itraconazole voriconazole | ↑ ketoconazole ↑ itraconazole ↓ voriconazole | High doses of ketoconazole or itraconazole (> 200 mg/day) are not recommended. Co-administration of voriconazole and ritonavir doses of 400 mg every 12 hours or greater is contraindicated. Co-administration of voriconazole and ritonavir 100 mg should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole. |
 | Anti-gout: colchicine | ↑ colchicine | Patients with renal or hepatic impairment should not be given colchicine with ritonavir. Treatment of gout flares-co-administration of colchicine in patients on ritonavir: 0.6 mg (1 tablet) x 1 dose, followed by 0.3 mg (half tablet) 1 hour later. Dose to be repeated no earlier than 3 days. Prophylaxis of gout flares-co-administration of colchicine in patients on ritonavir: If the original colchicine regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg once a day. If the original colchicine regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once every other day. Treatment of familial Mediterranean fever (FMF)-co-administration of colchicine in patients on ritonavir: Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day). |
 | Anti-infective: clarithromycin | ↑ clarithromycin | For patients with renal impairment the following dosage adjustments should be considered: • For patients with CLCR 30 to 60 mL/min the dose of clarithromycin should be reduced by 50%. • For patients with CLCR < 30 mL/min the dose of clarithromycin should be decreased by 75%. No dose adjustment for patients with normal renal function is necessary. |
 | Antimycobacterial: rifabutin | ↑ rifabutin and rifabutin metabolite | Dosage reduction of rifabutin by at least three-quarters of the usual dose of 300 mg/day is recommended (e.g., 150 mg every other day or three times a week). Further dosage reduction may be necessary. |
@@ -209,13 +222,13 @@ Established and Other Potentially Significant Drug Interactions: Alteration in D
 | β-Blockers: metoprolol, timolol | ↑ Beta-Blockers | Caution is warranted and clinical monitoring of patients is recommended. A dose decrease may be needed for these drugs when co-administered with ritonavir. |
 | Bronchodilator: theophylline | ↓ theophylline | Increased dosage of theophylline may be required; therapeutic monitoring should be considered. |
 | Calcium channel blockers: diltiazem, nifedipine, verapamil | ↑ calcium channel blockers | Caution is warranted and clinical monitoring of patients is recommended. A dose decrease may be needed for these drugs when co-administered with ritonavir. |
-| Digoxin | ↑ digoxin | Concomitant administration of ritonavir with digoxin may increase digoxin levels. Caution should be exercised when coadministering ritonavir with digoxin, with appropriate monitoring of serum digoxin levels. |
+| Digoxin | ↑ digoxin | Concomitant administration of ritonavir with digoxin may increase digoxin levels. Caution should be exercised when co-administering ritonavir with digoxin, with appropriate monitoring of serum digoxin levels. |
 | Endothelin receptor antagonists: bosentan | ↑ bosentan | Co-administration of bosentan in patients on ritonavir: In patients who have been receiving ritonavir for at least 10 days, start bosentan at 62.5 mg once daily or every other day based upon individual tolerability Co-administration of ritonavir in patients on bosentan: Discontinue use of bosentan at least 36 hours prior to initiation of ritonavir. After at least 10 days following the initiation of ritonavir, resume bosentan at 62.5 mg once daily or every other day based upon individual tolerability. |
-| HMG-CoA Reductase Inhibitor: atorvastatin rosuvastatin | ↑ atorvastatin ↑ rosuvastatin | Use the lowest possible dose of atorvastatin or rosuvastatin with careful monitoring or consider other HMG-CoA reductase inhibitors such as pravastatin or fluvastatin in combination with NORVIR. |
+| HMG-CoA Reductase Inhibitor: atorvastatin rosuvastatin | ↑ atorvastatin ↑ rosuvastatin | Titrate atorvastatin and rosuvastatin dose carefully and use the lowest necessary dose. If NORVIR is used with another protease inhibitor, see the complete prescribing information for the concomitant protease inhibitor for details on co-administration with atorvastatin and rosuvastatin. |
 | Immunosuppressants: cyclosporine, tacrolimus, sirolimus (rapamycin) | ↑ immunosuppressants | Therapeutic concentration monitoring is recommended for immunosuppressant agents when co-administered with ritonavir. |
 | Inhaled Steroid: Fluticasone | ↑ fluticasone | Concomitant use of fluticasone propionate and NORVIR increases plasma concentrations of fluticasone propionate, resulting in significantly reduced serum cortisol concentrations. Co-administration of fluticasone propionate and NORVIR is not recommended unless the potential benefit to the patient outweighs the risk of systemic corticosteroid side effects. |
 | Long-acting beta-adrenoceptor agonist: salmeterol | ↑ salmeterol | Concurrent administration of salmeterol and ritonavir is not recommended. The combination may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations and sinus tachycardia. |
-| Narcotic Analgesic: methadone, fentanyl | ↓ methadone ↑ fentanyl | Dosage increase of methadone may be considered. Concentrations of fentanyl are expected to increase. Careful monitoring of therapeutic and adverse effects (including potentially fatal respiratory depression) is recommended when fentanyl is concomitantly administered with NORVIR. |
+| Narcotic Analgesic: methadone fentanyl | ↓ methadone ↑ fentanyl | Dosage increase of methadone may be considered. Concentrations of fentanyl are expected to increase. Careful monitoring of therapeutic and adverse effects (including potentially fatal respiratory depression) is recommended when fentanyl is concomitantly administered with NORVIR. |
 | Neuroleptics: perphenazine, risperidone, thioridazine | ↑ neuroleptics | A dose decrease may be needed for these drugs when co-administered with ritonavir. |
 | Oral Contraceptives or Patch Contraceptives: ethinyl estradiol | ↓ ethinyl estradiol | A pharmacokinetic study demonstrated that the concomitant administration of ritonavir 500 mg q. 12h. and a fixed-combination oral contraceptive resulted in reductions of the ethinyl estradiol mean Cmax and mean AUC by 32% and 40%, respectively. Alternate methods of contraception should be considered. |
 | PDE5 Inhibitors: sildenafil, tadalafil, vardenafil | ↑ sildenafil ↑ tadalafil ↑ vardenafil | Particular caution should be used when prescribing sildenafil, tadalafil or vardenafil in patients receiving ritonavir. Co-administration of ritonavir with these drugs is expected to substantially increase their concentrations and may result in an increase in PDE5 inhibitor associated adverse events, including hypotension, syncope, visual changes, and prolonged erection. Use of PDE5 inhibitors for pulmonary arterial hypertension (PAH): Sildenafil (Revatio®) is contraindicated when used for the treatment of pulmonary arterial hypertension (PAH) because a safe and effective dose has not been established when used with ritonavir (see CONTRAINDICATIONS and PRECAUTIONS - Drug Interactions, Table 5). The following dose adjustments are recommended for use of tadalafil (AdcircaTM) with ritonavir: Co-administration of ADCIRCA in patients on ritonavir: In patients receiving ritonavir for at least one week, start ADCIRCA at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability. Co-administration of ritonavir in patients on ADCIRCA: Avoid use of ADCIRCA during the initiation of ritonavir. Stop ADCIRCA at least 24 hours prior to starting ritonavir. After at least one week following the initiation of ritonavir, resume ADCIRCA at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability. Use of PDE5 inhibitors for the treatment of erectile dysfunction: It is recommended not to exceed the following doses: • Sildenafil: 25 mg every 48 hours • Tadalafil: 10 mg every 72 hours • Vardenafil: 2.5 mg every 72 hours. Use with increased monitoring for adverse events. |
@@ -259,9 +272,9 @@ Physicians are encouraged to register patients by calling 1-800-258-4263.
 
 ## Nursing Mothers
 
-The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breast-feed their infants to avoid risking postnatal transmission of HIV.
+The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
 It is not known whether ritonavir is secreted in human milk.
-Because of both the potential for HIV transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breast-feed if they are receiving NORVIR.
+Because of both the potential for HIV transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving NORVIR.
 
 ## Pediatric Use
 
