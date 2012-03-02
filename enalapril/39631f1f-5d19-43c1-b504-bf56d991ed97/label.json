@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "NDA018998"
+  ],
+  "inn": "enalapril",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-0140-30",
+    "0187-0140-90",
+    "0187-0141-10",
+    "0187-0141-30",
+    "0187-0141-90",
+    "0187-0142-10",
+    "0187-0142-30",
+    "0187-0142-90",
+    "0187-0143-10",
+    "0187-0143-30",
+    "0187-0143-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "enalapril maleate",
+      "name": "Vasotec"
+    }
+  ],
+  "setid": "39631f1f-5d19-43c1-b504-bf56d991ed97",
+  "source": "dailymed"
+}
