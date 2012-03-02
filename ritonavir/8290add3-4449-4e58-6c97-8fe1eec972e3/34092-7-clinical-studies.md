@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Patients Without Prior Antiretroviral Therapy
+## 14.1 Patients without Prior Antiretroviral Therapy
 
 Study 863: KALETRA Capsules twice daily + stavudine + lamivudine compared to nelfinavir three times daily + stavudine + lamivudine
 
@@ -66,7 +66,7 @@ Outcomes of Randomized Treatment Through Week 48 (Study 730)
 Through 48 weeks of therapy, 78% in the KALETRA once daily arm and 77% in the KALETRA twice daily arm achieved and maintained HIV-1 RNA < 50 copies/mL (95% confidence interval for the difference, -5.9% to 6.8%).
 Mean CD4+ cell count increases at Week 48 were 186 cells/mm3 for the KALETRA once daily arm and 198 cells/mm3 for the KALETRA twice daily arm.
 
-## 14.2 Patients With Prior Antiretroviral Therapy
+## 14.2 Patients with Prior Antiretroviral Therapy
 
 Study 888: KALETRA Capsules twice daily + nevirapine + NRTIs compared to investigator-selected protease inhibitor(s) + nevirapine + NRTIs
 
@@ -92,7 +92,7 @@ Through 48 weeks of therapy, there was a statistically significantly higher prop
 
 Through 48 weeks of therapy, the mean increase from baseline in CD4+ cell count was 111 cells/mm3 for the KALETRA arm and 112 cells/mm3 for the investigator-selected protease inhibitor(s) arm.
 
-Study 802: KALETRA Tablets 800/200 mg Once Daily Versus 400/100 mg Twice Daily when Coadministered with Nucleoside/Nucleotide Reverse Transcriptase Inhibitors in Antiretroviral-Experienced, HIV-1 Infected Subjects
+Study 802: KALETRA Tablets 800/200 mg Once Daily Versus 400/100 mg Twice Daily when Co-administered with Nucleoside/Nucleotide Reverse Transcriptase Inhibitors in Antiretroviral-Experienced, HIV-1 Infected Subjects
 
 M06-802 was a randomized open-label study comparing the safety, tolerability, and antiviral activity of once daily and twice daily dosing of KALETRA tablets in 599 subjects with detectable viral loads while receiving their current antiviral therapy.
 Of the enrolled subjects, 55% on both treatment arms had not been previously treated with a protease inhibitor and 81 – 88% had received prior NNRTIs as part of their anti-HIV treatment regimen.

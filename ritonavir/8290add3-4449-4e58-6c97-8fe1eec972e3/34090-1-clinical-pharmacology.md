@@ -98,7 +98,7 @@ Hepatic Impairment Lopinavir is principally metabolized and eliminated by the li
 Multiple dosing of KALETRA 400/100 mg twice daily to HIV-1 and HCV co-infected patients with mild to moderate hepatic impairment (n = 12) resulted in a 30% increase in lopinavir AUC and 20% increase in Cmax compared to HIV-1 infected subjects with normal hepatic function (n = 12).
 Additionally, the plasma protein binding of lopinavir was statistically significantly lower in both mild and moderate hepatic impairment compared to controls (99.09 vs. 99.31%, respectively).
 Caution should be exercised when administering KALETRA to subjects with hepatic impairment.
-KALETRA has not been studied in patients with severe hepatic impairment [see Warnings and Precautions (5.4) and Use In Specific Populations (8.6)].
+KALETRA has not been studied in patients with severe hepatic impairment [see Warnings and Precautions (5.4) and Use in Specific Populations (8.6)].
 
 Drug Interactions
 
@@ -121,39 +121,40 @@ For information regarding clinical recommendations, see Table 9 in Drug Interact
 Table 10.
 Drug Interactions: Pharmacokinetic Parameters for Lopinavir in the Presence of the Co-administered Drug for Recommended Alterations in Dose or Regimen
 
-| Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of KALETRA (mg) |  | Ratio (in combination with co-administered drug/alone) of Lopinavir Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |  |
+| Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of KALETRA (mg) | n | Ratio (in combination with Co-administered drug/alone) of Lopinavir Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | n | Cmax | AUC | Cmin |
+|  |  |  |  | Cmax | AUC | Cmin |
 | Amprenavir | 750 twice daily, 10 d | 400/100 capsule twice daily, 21 d | 12 | 0.72 (0.65, 0.79) | 0.62 (0.56, 0.70) | 0.43 (0.34, 0.56) |
-| Efavirenz1,10 | 600 at bedtime, 9 d | 400/100 capsule twice daily, 9 d | 11, 7* | 0.97 (0.78, 1.22) | 0.81 (0.64, 1.03) | 0.61 (0.38, 0.97) |
+| Efavirenz1,2 | 600 at bedtime, 9 d | 400/100 capsule twice daily, 9 d | 11, 7* | 0.97 (0.78, 1.22) | 0.81 (0.64, 1.03) | 0.61 (0.38, 0.97) |
 |  | 600 at bedtime, 9 d | 500/125 tablet twice daily, 10 d | 19 | 1.12 (1.02, 1.23) | 1.06 (0.96, 1.17) | 0.90 (0.78, 1.04) |
 |  | 600 at bedtime, 9 d | 600/150 tablet twice daily, 10 d | 23 | 1.36 (1.28, 1.44) | 1.36 (1.28, 1.44) | 1.32 (1.21, 1.44) |
-| Fosamprenavir2 | 700 twice daily plus ritonavir 100 twice daily, 14 d | 400/100 capsule twice daily, 14 d | 18 | 1.30 (0.85, 1.47) | 1.37 (0.80, 1.55) | 1.52 (0.72, 1.82) |
+| Fosamprenavir3 | 700 twice daily plus ritonavir 100 twice daily, 14 d | 400/100 capsule twice daily, 14 d | 18 | 1.30 (0.85, 1.47) | 1.37 (0.80, 1.55) | 1.52 (0.72, 1.82) |
 | Ketoconazole | 200 single dose | 400/100 capsule twice daily, 16 d | 12 | 0.89 (0.80, 0.99) | 0.87 (0.75, 1.00) | 0.75 (0.55, 1.00) |
 | Nelfinavir | 1000 twice daily, 10 d | 400/100 capsule twice daily, 21 d | 13 | 0.79 (0.70, 0.89) | 0.73 (0.63, 0.85) | 0.62 (0.49, 0.78) |
-| Nevirapine | 200 twice daily, steady-state (> 1 yr)3# | 400/100 capsule twice daily, steady-state | 22, 19* | 0.81 (0.62, 1.05) | 0.73 (0.53, 0.98) | 0.49 (0.28, 0.74) |
-|  | 7 mg/kg or 4 mg/kg once daily, 2 wk; twice daily 1 wk4 | (> 1 yr) 300/75 mg/m2 oral solution twice daily, 3 wk | 12, 15* | 0.86 (0.64, 1.16) | 0.78 (0.56, 1.09) | 0.45 (0.25, 0.81) |
+| Nevirapine | 200 twice daily, steady-state (> 1 yr)4# | 400/100 capsule twice daily, steady-state | 22, 19* | 0.81 (0.62, 1.05) | 0.73 (0.53, 0.98) | 0.49 (0.28, 0.74) |
+|  | 7 mg/kg or 4 mg/kg once daily, 2 wk; twice daily 1 wk5 | (> 1 yr) 300/75 mg/m2 oral solution twice daily, 3 wk | 12, 15* | 0.86 (0.64, 1.16) | 0.78 (0.56, 1.09) | 0.45 (0.25, 0.81) |
 | Omeprazole | 40 once daily, 5 d | 400/100 tablet twice daily, 10 d | 12 | 1.08 (0.99, 1.17) | 1.07 (0.99, 1.15) | 1.03 (0.90, 1.18) |
 |  | 40 once daily, 5 d | 800/200 tablet once daily, 10 d | 12 | 0.94 (0.88, 1.00) | 0.92 (0.86, 0.99) | 0.71 (0.57, 0.89) |
+| Pitavastatin6 | 4 mg once daily, 5 d | 400/100 tablet twice daily, 16 d | 23 | 0.93 (0.88-0.98) | 0.91 (0.86-0.97) | NA |
 | Pravastatin | 20 once daily, 4 d | 400/100 capsule twice daily, 14 d | 12 | 0.98 (0.89, 1.08) | 0.95 (0.85, 1.05) | 0.88 (0.77, 1.02) |
 | Rifabutin | 150 once daily, 10 d | 400/100 capsule twice daily, 20 d | 14 | 1.08 (0.97, 1.19) | 1.17 (1.04, 1.31) | 1.20 (0.96, 1.65) |
 | Ranitidine | 150 single dose | 400/100 tablet twice daily, 10 d | 12 | 0.99 (0.95, 1.03) | 0.97 (0.93, 1.01) | 0.90 (0.85, 0.95) |
 |  | 150 single dose | 800/200 tablet once daily, 10 d | 10 | 0.97 (0.95, 1.00) | 0.95 (0.91, 0.99) | 0.82 (0.74, 0.91) |
 | Rifampin | 600 once daily, 10 d | 400/100 capsule twice daily, 20 d | 22 | 0.45 (0.40, 0.51) | 0.25 (0.21, 0.29) | 0.01 (0.01, 0.02) |
-|  | 600 once daily, 14 d | 800/200 capsule twice daily, 9 d5 | 10 | 1.02 (0.85, 1.23) | 0.84 (0.64, 1.10) | 0.43 (0.19, 0.96) |
-|  | 600 once daily, 14 d | 400/400 capsule twice daily, 9 d6 | 9 | 0.93 (0.81, 1.07) | 0.98 (0.81, 1.17) | 1.03 (0.68, 1.56) |
+|  | 600 once daily, 14 d | 800/200 capsule twice daily, 9 d7 | 10 | 1.02 (0.85, 1.23) | 0.84 (0.64, 1.10) | 0.43 (0.19, 0.96) |
+|  | 600 once daily, 14 d | 400/400 capsule twice daily, 9 d8 | 9 | 0.93 (0.81, 1.07) | 0.98 (0.81, 1.17) | 1.03 (0.68, 1.56) |
 |  |  |  |  |  | Co-administration of KALETRA and rifampin is contraindicated. [see Contraindications (4)] |  |
-| Ritonavir3 | 100 twice daily, 3-4 wk# | 400/100 capsule twice daily, 3-4 wk | 8, 21* | 1.28 (0.94, 1.76) | 1.46 (1.04, 2.06) | 2.16 (1.29, 3.62) |
-| Tenofovir7 | 300 mg once daily, 14 d | 400/100 capsule twice daily, 14 d | 24 | NC† | NC† | NC† |
-| Tipranavir/ritonavir3 | 500/200 mg twice daily (28 doses)# | 400/100 capsule twice daily (27 doses) | 21 69 | 0.53 (0.40, 0.69)8 | 0.45 (0.32, 0.63)8 | 0.30 (0.17, 0.51)8 0.48 (0.40, 0.58)9 |
-| All interaction studies conducted in healthy, HIV-1 negative subjects unless otherwise indicated. 1 The pharmacokinetics of ritonavir are unaffected by concurrent efavirenz. 2 Data extracted from the fosamprenavir package insert. 3 Study conducted in HIV-1 positive adult subjects. 4 Study conducted in HIV-1 positive pediatric subjects ranging in age from 6 months to 12 years. 5 Titrated to 800/200 twice daily as 533/133 twice daily x 1 d, 667/167 twice daily x 1 d, then 800/200 twice daily x 7 d, compared to 400/100 twice daily x 10 days alone. 6 Titrated to 400/400 twice daily as 400/200 twice daily x 1 d, 400/300 twice daily x 1 d, then 400/400 twice daily x 7 d, compared to 400/100 twice daily x 10 days alone. 7 Data extracted from the tenofovir package insert. 8 Intensive PK analysis. 9 Drug levels obtained at 8-16 hrs post-dose. 10 Reference for comparison is lopinavir/ritonavir 400/100 mg twice daily without efavirenz. * Parallel group design; n for KALETRA + co-administered drug, n for KALETRA alone. † NC = No change. # For the nevirapine 200 mg twice daily study, ritonavir, and tipranavir/ritonavir studies, KALETRA was administered with or without food. For all other studies, KALETRA was administered with food. |  |  |  |  |  |  |
+| Ritonavir4 | 100 twice daily, 3-4 wk# | 400/100 capsule twice daily, 3-4 wk | 8, 21* | 1.28 (0.94, 1.76) | 1.46 (1.04, 2.06) | 2.16 (1.29, 3.62) |
+| Tenofovir9 | 300 mg once daily, 14 d | 400/100 capsule twice daily, 14 d | 24 | NC† | NC† | NC† |
+| Tipranavir/ritonavir4 | 500/200 mg twice daily (28 doses)# | 400/100 capsule twice daily (27 doses) | 21 69 | 0.53 (0.40, 0.69)10 | 0.45 (0.32, 0.63)10 | 0.30 (0.17, 0.51)10 0.48 (0.40, 0.58)11 |
+| All interaction studies conducted in healthy, HIV-1 negative subjects unless otherwise indicated. 1 The pharmacokinetics of ritonavir are unaffected by concurrent efavirenz. 2 Reference for comparison is lopinavir/ritonavir 400/100 mg twice daily without efavirenz. 3 Data extracted from the fosamprenavir package insert. 4 Study conducted in HIV-1 positive adult subjects. 5 Study conducted in HIV-1 positive pediatric subjects ranging in age from 6 months to 12 years. 6 Data extracted from the pitavastatin package insert and results presented at the 2011 International AIDS Society Conference on HIV Pathogenesis, Treatment and Prevention (Morgan, et al, poster #MOPE170) 7 Titrated to 800/200 twice daily as 533/133 twice daily x 1 d, 667/167 twice daily x 1 d, then 800/200 twice daily x 7 d, compared to 400/100 twice daily x 10 days alone. 8 Titrated to 400/400 twice daily as 400/200 twice daily x 1 d, 400/300 twice daily x 1 d, then 400/400 twice daily x 7 d, compared to 400/100 twice daily x 10 days alone. 9 Data extracted from the tenofovir package insert. 10 Intensive PK analysis. 11 Drug levels obtained at 8-16 hrs post-dose. * Parallel group design; n for KALETRA + co-administered drug, n for KALETRA alone. † NC = No change. # For the nevirapine 200 mg twice daily study, ritonavir, and tipranavir/ritonavir studies, KALETRA was administered with or without food. For all other studies, KALETRA was administered with food. |  |  |  |  |  |  |
 
 Table 11.
-Drug Interactions: Pharmacokinetic Parameters for co-administered Drug in the Presence of KALETRA for Recommended Alterations in Dose or Regimen
+Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug in the Presence of KALETRA for Recommended Alterations in Dose or Regimen
 
-| Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of KALETRA (mg) |  | Ratio (in combination with KALETRA/alone) of co-administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |  |
+| Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of KALETRA (mg) | n | Ratio (in combination with KALETRA/alone) of Co-administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | n | Cmax | AUC | Cmin |
+|  |  |  |  | Cmax | AUC | Cmin |
 | Amprenavir1 | 750 twice daily, 10 d combo vs. 1200 twice daily, 14 d alone | 400/100 capsule twice daily, 21 d | 11 | 1.12 (0.91, 1.39) | 1.72 (1.41, 2.09) | 4.57 (3.51, 5.95) |
 | Desipramine2 | 100 single dose | 400/100 capsule twice daily, 10 d | 15 | 0.91 (0.84, 0.97) | 1.05 (0.96, 1.16) | N/A |
 | Efavirenz | 600 at bedtime, 9 d | 400/100 capsule twice daily, 9 d | 11, 12* | 0.91 (0.72, 1.15) | 0.84 (0.62, 1.15) | 0.84 (0.58, 1.20) |
@@ -166,13 +167,14 @@ Drug Interactions: Pharmacokinetic Parameters for co-administered Drug in the Pr
 | M8 metabolite |  |  |  | 2.36 (1.91, 2.91) | 3.46 (2.78, 4.31) | 7.49 (5.85, 9.58) |
 | Nevirapine | 200 once daily, 14 d; twice daily, 6 d | 400/100 capsule twice daily, 20 d | 5, 6* | 1.05 (0.72, 1.52) | 1.08 (0.72, 1.64) | 1.15 (0.71, 1.86) |
 | Norethindrone | 1 once daily, 21 d (Ortho Novum®) | 400/100 capsule twice daily, 14 d | 12 | 0.84 (0.75, 0.94) | 0.83 (0.73, 0.94) | 0.68 (0.54, 0.85) |
+| Pitavastatin4 | 4 mg once daily, 5 d | 400/100 tablet twice daily, 16 d | 23 | 0.96 (0.84-1.10) | 0.80 (0.73-0.87) | N/A |
 | Pravastatin | 20 once daily, 4 d | 400/100 capsule twice daily, 14 d | 12 | 1.26 (0.87, 1.83) | 1.33 (0.91, 1.94) | N/A |
 | Rifabutin | 150 once daily, 10 d; combo vs. 300 once daily, 10 d; alone | 400/100 capsule twice daily, 10 d | 12 | 2.12 (1.89, 2.38) | 3.03 (2.79, 3.30) | 4.90 (3.18, 5.76) |
 | 25-O-desacetyl rifabutin |  |  |  | 23.6 (13.7, 25.3) | 47.5 (29.3, 51.8) | 94.9 (74.0, 122) |
-| Rifabutin + 25-O-desacetyl rifabutin4 |  |  |  | 3.46 (3.07, 3.91) | 5.73 (5.08, 6.46) | 9.53 (7.56, 12.01) |
-| Rosuvastatin5 | 20 mg once daily, 7 d | 400/100 tablet twice daily, 7 d | 15 | 4.66 (3.4, 6.4) | 2.08 (1.66, 2.6) | 1.04 (0.9, 1.2) |
-| Tenofovir6 | 300 mg once daily, 14 d | 400/100 capsule twice daily, 14 d | 24 | NC† | 1.32 (1.26, 1.38) | 1.51 (1.32, 1.66) |
-| All interaction studies conducted in healthy, HIV-1 negative subjects unless otherwise indicated. 1 Ratio of parameters for amprenavir, indinavir, and nelfinavir, are not normalized for dose. 2 Desipramine is a probe substrate for assessing effects on CYP2D6-mediated metabolism. 3 Data extracted from the fosamprenavir package insert. 4 Effect on the dose-normalized sum of rifabutin parent and 25-O-desacetyl rifabutin active metabolite. 5 Data extracted from the rosuvastatin package insert and results presented at the 2007 Conference on Retroviruses and Opportunistic Infection (Hoody, et al, abstract L-107, poster #564). 6 Data extracted from the tenofovir package insert. * Parallel group design; n for KALETRA + co-administered drug, n for co-administered drug alone. N/A = Not available. † NC = No change. |  |  |  |  |  |  |
+| Rifabutin + 25-O-desacetyl rifabutin5 |  |  |  | 3.46 (3.07, 3.91) | 5.73 (5.08, 6.46) | 9.53 (7.56, 12.01) |
+| Rosuvastatin6 | 20 mg once daily, 7 d | 400/100 tablet twice daily, 7 d | 15 | 4.66 (3.4, 6.4) | 2.08 (1.66, 2.6) | 1.04 (0.9, 1.2) |
+| Tenofovir7 | 300 mg once daily, 14 d | 400/100 capsule twice daily, 14 d | 24 | NC† | 1.32 (1.26, 1.38) | 1.51 (1.32, 1.66) |
+| All interaction studies conducted in healthy, HIV-1 negative subjects unless otherwise indicated. 1 Ratio of parameters for amprenavir, indinavir, and nelfinavir, are not normalized for dose. 2 Desipramine is a probe substrate for assessing effects on CYP2D6-mediated metabolism. 3 Data extracted from the fosamprenavir package insert. 4 Data extracted from the pitavastatin package insert and results presented at the 2011 International AIDS Society Conference on HIV Pathogenesis, Treatment and Prevention (Morgan, et al, poster #MOPE170). 5 Effect on the dose-normalized sum of rifabutin parent and 25-O-desacetyl rifabutin active metabolite. 6 Kiser, et al. J Acquir Immune Defic Syndr. 2008 Apr 15;47(5):570-8. 7 Data extracted from the tenofovir package insert. * Parallel group design; n for KALETRA + co-administered drug, n for co-administered drug alone. N/A = Not available. † NC = No change. |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 

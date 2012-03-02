@@ -44,7 +44,7 @@ Elevated transaminases with or without elevated bilirubin levels have been repor
 In some cases, the hepatic dysfunction was serious; however, a definitive causal relationship with KALETRA therapy has not been established.
 
 Appropriate laboratory testing should be conducted prior to initiating therapy with KALETRA and patients should be monitored closely during treatment.
-Increased AST/ALT monitoring should be considered in the patients with underlying chronic hepatitis or cirrhosis, especially during the first several months of KALETRA treatment [see Use In Specific Populations (8.6)].
+Increased AST/ALT monitoring should be considered in the patients with underlying chronic hepatitis or cirrhosis, especially during the first several months of KALETRA treatment [see Use in Specific Populations (8.6)].
 
 ## 5.5 Diabetes Mellitus/Hyperglycemia
 
@@ -73,6 +73,8 @@ Avoid use in patients with congenital long QT syndrome, those with hypokalemia, 
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including KALETRA.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis) which may necessitate further evaluation and treatment.
+
+Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
 ## 5.9 Fat Redistribution
 

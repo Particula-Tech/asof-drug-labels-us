@@ -42,8 +42,8 @@ See the section below “What are the possible side effects of KALETRA?” for m
 
 What is KALETRA?
 
-KALETRA is a prescription anti-HIV medicine that contains two medicines: lopinavir and ritonavir.
-KALETRA is called a protease inhibitor that is used with other anti-HIV-1 medicines to treat people with human immunodeficiency virus (HIV-1) infection.
+KALETRA is a prescription anti-human immunodeficiency virus (HIV) medicine that contains two medicines: lopinavir and ritonavir.
+KALETRA is called a protease inhibitor that is used with other anti-HIV-1 medicines to treat people with HIV-1 infection.
 HIV-1 is the virus that causes AIDS (Acquired Immune Deficiency Syndrome).
 
 It is not known if KALETRA is safe and effective in children under 14 days old.
@@ -72,11 +72,10 @@ Tell your doctor about all your medical conditions, including if you:
   Talk to your doctor about how to prevent pregnancy while taking KALETRA.
 - take KALETRA during pregnancy, talk with your doctor about how you can take part in an antiretroviral pregnancy registry.
   The purpose of the pregnancy registry is to follow the health of you and your baby.
-- are breast-feeding.
-  Do not breast-feed if you are taking KALETRA.
-  You should not breast-feed if you have HIV-1.
-  If you are a woman who has or will have a baby while taking KALETRA, talk with your doctor about the best way to feed your baby.
-  If your baby does not already have HIV-1, there is a chance that HIV-1 can be passed to your baby through your breast milk.
+- are breastfeeding.
+  Do not breastfeed.
+  We do not know if KALETRA can be passed to the baby through your breast milk and whether it could harm the baby.
+  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Many medicines interact with KALETRA.
@@ -98,7 +97,7 @@ Serious problems or death can happen if you take these medicines with KALETRA:
 - pimozide (Orap®)
 - the cholesterol lowering medicines lovastatin (Mevacor®) or simvastatin (Zocor®)
 - sildenafil (Revatio®) only when used for the treatment of pulmonary arterial hypertension.
-  (See “Medicines that may need changes” and “What are the possible side effects of Kaletra?” for information about the use of sildenafil for erectile problems.)
+  (See “Medicines that may need changes” and “What are the possible side effects of KALETRA?” for information about the use of sildenafil for erectile problems.)
 - alfuzosin (Uroxatral®)
 
 Medicines that you should not take with KALETRA since they may make KALETRA not work as well:
@@ -159,11 +158,6 @@ How should I take KALETRA?
 - KALETRA can be taken with acid reducing agents used for heartburn or reflux such as omeprazole (Prilosec®) and ranitidine (Zantac®) with no dose adjustment.
 - KALETRA should not be administered once daily in combination with carbamazepine (Tegretol® and Epitol®), phenobarbital (Luminal®), or phenytoin (Dilantin®).
 
-Avoid doing things that can spread HIV infection.
-KALETRA does not stop you from passing HIV infection to others.
-Do not share needles, other injection equipment or personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
-Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
-
 What are the possible side effects of KALETRA?
 
 KALETRA can cause serious side effects.
@@ -208,7 +202,7 @@ KALETRA can cause serious side effects.
     Your doctor can explain these symptoms to you.
 - Allergic reactions.
   Skin rashes, some of them severe, can occur in people who take KALETRA.
-  Tell your healthcare provider if you had a rash when you took another medicine for your HIV infection or if you notice any skin rash when you take KALETRA.
+  Tell your healthcare provider if you had a rash when you took another medicine for your HIV-1 infection or if you notice any skin rash when you take KALETRA.
 - Babies taking KALETRA oral solution may have side effects.
   KALETRA oral solution contains alcohol and propylene glycol.
   Call your doctor right away if your baby appears too sleepy or their breathing has changed.
@@ -251,10 +245,14 @@ Keep KALETRA and all medicines out of the reach of children.
 
 General information about KALETRA
 
-KALETRA does not cure HIV-1 or AIDS.
-The long-term effects of KALETRA are not known at this time.
-People taking KALETRA may still get opportunistic infections or other conditions that happen with HIV-1 infection.
-Some of these conditions are pneumonia, herpes virus infections, and Mycobacterium avium complex (MAC) infections.
+KALETRA does not cure HIV infection or AIDS and you may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
+You should remain under the care of a doctor when using KALETRA.
+Avoid doing things that can spread HIV-1 infection.
+
+- Do not share needles or other injection equipment.
+- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+- Do not have any kind of sex without protection.
+  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use KALETRA for a condition for which it was not prescribed.
@@ -283,13 +281,13 @@ KALETRA oral solution: acesulfame potassium, alcohol, artificial cotton candy fl
 KALETRA oral solution contains 42.4% alcohol (v/v).
 “See How should I take KALETRA?”.
 
-2011, ALL RIGHTS RESERVED
+2012, ALL RIGHTS RESERVED
 
 * The brands listed are trademarks of their respective owners and are not trademarks of Abbott Laboratories.
 The makers of these brands are not affiliated with and do not endorse Abbott Laboratories or its products.
 
 Rev.
-02/2011
+02/2012
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -297,8 +295,8 @@ KALETRA Tablets, 200 mg lopinavir/50 mg ritonavir
 
 Manufactured by Abbott Pharmaceuticals PR Ltd., Barceloneta, PR 00617
 
-for Abbott Laboratories, North Chicago, IL 60064, U.S.A
+for Abbott Laboratories, North Chicago, IL 60064 USA
 
 KALETRA Tablets, 100 mg lopinavir/25 mg ritonavir and KALETRA Oral Solution
 
-Abbott Laboratories, North Chicago, IL 60064, U.S.A.
+Abbott Laboratories, North Chicago, IL 60064 USA

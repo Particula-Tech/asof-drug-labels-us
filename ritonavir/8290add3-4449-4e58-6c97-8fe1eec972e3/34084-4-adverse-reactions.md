@@ -45,7 +45,7 @@ Percentage of Adult Patients with Selected Treatment-Emergent1 Adverse Reactions
 | Infections and Infestations |  |  |  |  |  |
 | Bronchitis | 0% | 0% | 2% | 0% | <1% |
 | Investigations |  |  |  |  |  |
-| Weight decreased | 1% | <1% | 2% | 0% | <1% |
+| Weight Decreased | 1% | <1% | 2% | 0% | <1% |
 | Metabolism and Nutrition Disorders |  |  |  |  |  |
 | Anorexia | 1% | <1% | 2% | <1% | 1% |
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |
@@ -56,7 +56,7 @@ Percentage of Adult Patients with Selected Treatment-Emergent1 Adverse Reactions
 | Psychiatric Disorders |  |  |  |  |  |
 | Insomnia | 2% | 1% | 3% | 1% | 0% |
 | Depression | 1% | 2% | 0% | 0% | 0% |
-| Libido decreased | <1% | <1% | 2% | 0% | <1% |
+| Libido Decreased | <1% | <1% | 2% | 0% | <1% |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |
 | Rash | 1% | 2% | 5% | <1% | 1% |
 | Vascular Disorders |  |  |  |  |  |
@@ -68,7 +68,7 @@ Percentage of Adult Patients with Selected Treatment-Emergent1 Adverse Reactions
 
 |  | Study 888 (48 Weeks) |  | Study 9572 and Study 7653 (84-144 Weeks) | Study 802 (48 Weeks) |  |
 | --- | --- | --- | --- | --- | --- |
-|  | KALETRA 400/100 mg Twice Daily + NVP + NRTIs (N = 148) | Investigator-selected protease inhibitor(s) + NVP + NRTIs (N = 140) | KALETRA Twice Daily + NNRTI + NRTIs (N = 127) | KALETRA 800/200 mg Once Daily +NRTIs (N=300) | KALETRA 400/100 mg Twice Daily + NRTIs (N=299) |
+|  | KALETRA 400/100 mg Twice Daily + NVP + NRTIs (N = 148) | Investigator-Selected Protease Inhibitor(s) + NVP + NRTIs (N = 140) | KALETRA Twice Daily + NNRTI + NRTIs (N = 127) | KALETRA 800/200 mg Once Daily +NRTIs (N=300) | KALETRA 400/100 mg Twice Daily + NRTIs (N=299) |
 | Gastrointestinal Disorders |  |  |  |  |  |
 | Diarrhea | 7% | 9% | 23% | 14% | 11% |
 | Nausea | 7% | 16% | 5% | 3% | 7% |
@@ -83,7 +83,7 @@ Percentage of Adult Patients with Selected Treatment-Emergent1 Adverse Reactions
 | Pyrexia | 2% | 1% | 2% | 0% | <1% |
 | Chills | 2% | 0% | 0% | 0% | 0% |
 | Investigations |  |  |  |  |  |
-| Weight decreased | 0% | 1% | 3% | <1% | <1% |
+| Weight Decreased | 0% | 1% | 3% | <1% | <1% |
 | Metabolism and Nutrition Disorders |  |  |  |  |  |
 | Anorexia | 1% | 3% | 0% | 0% | 1% |
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |
@@ -219,7 +219,7 @@ Grade 3-4 Laboratory Abnormalities Reported in ≥ 2% of Adult Protease Inhibito
 
 |  |  | Study 888 (48 Weeks) |  | Study 9572 and Study 7653 (84-144 Weeks) | Study 802 (48 Weeks) |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Variable | Limit1 | KALETRA 400/100 mg Twice Daily + NVP + NRTIs (N = 148) | Investigator-selected protease inhibitor(s) + NVP + NRTIs (N = 140) | KALETRA Twice Daily + NNRTI + NRTIs (N = 127) | KALETRA 800/200 mg Once Daily +NRTIs (N=300) | KALETRA 400/100 mg Twice Daily +NRTIs (N=299) |
+| Variable | Limit1 | KALETRA 400/100 mg Twice Daily + NVP + NRTIs (N = 148) | Investigator-Selected Protease Inhibitor(s) + NVP + NRTIs (N = 140) | KALETRA Twice Daily + NNRTI + NRTIs (N = 127) | KALETRA 800/200 mg Once Daily +NRTIs (N=300) | KALETRA 400/100 mg Twice Daily +NRTIs (N=299) |
 | Chemistry | High |  |  |  |  |  |
 | Glucose | >250 mg/dL | 1% | 2% | 5% | 2% | 2% |
 | Total Bilirubin | >3.48 mg/dL | 1% | 3% | 1% | 1% | 1% |
@@ -291,6 +291,6 @@ Because these reactions are reported voluntarily from a population of unknown si
 Body as a Whole Redistribution/accumulation of body fat has been reported [see Warnings and Precautions (5.9)].
 
 Cardiovascular Bradyarrhythmias.
-First–degree AV block, second-degree AV block, third-degree AV block, QTc interval prolongation, torsades (torsade) de pointes [see Warnings and Precautions (5.6,5.7)].
+First-degree AV block, second-degree AV block, third-degree AV block, QTc interval prolongation, torsades (torsade) de pointes [see Warnings and Precautions (5.6, 5.7)].
 
-Skin and Appendages Toxic epidermal necrolysis (TEN), Stevens Johnson Syndrome and erythema multiforme.
+Skin and Appendages Toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome and erythema multiforme.

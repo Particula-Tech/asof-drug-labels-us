@@ -19,10 +19,10 @@ Physicians are encouraged to register patients by calling 1-800-258-4263.
 
 ## 8.3 Nursing Mothers
 
-The Centers for Disease Control and Prevention recommend that HIV-1 infected mothers not breast-feed their infants to avoid risking postnatal transmission of HIV-1.
+The Centers for Disease Control and Prevention recommend that HIV-1 infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
 Studies in rats have demonstrated that lopinavir is secreted in milk.
 It is not known whether lopinavir is secreted in human milk.
-Because of both the potential for HIV-1 transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breast-feed if they are receiving KALETRA.
+Because of both the potential for HIV-1 transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving KALETRA.
 
 ## 8.4 Pediatric Use
 
@@ -30,7 +30,7 @@ The safety, efficacy, and pharmacokinetic profiles of KALETRA in pediatric patie
 KALETRA once daily has not been evaluated in pediatric patients.
 
 An open-label, multi-center, dose-finding trial was performed to evaluate the pharmacokinetic profile, tolerability, safety and efficacy of KALETRA oral solution containing lopinavir 80 mg/mL and ritonavir 20 mg/mL at a dose of with 300/75 mg/m2 twice daily plus two NRTIs in HIV-infected infants ≥14 days and < 6 months of age.
-Results revealed that infants younger than 6 months of age generally had lower lopinavir AUC12 than older children (6 months to 12 years of age), however, despite the lower lopinavir drug exposure observed, antiviral activity was demonstrated as reflected in the proportion of subjects who achieved HIV-RNA <400 copies/mL at Week 24 [see Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
+Results revealed that infants younger than 6 months of age generally had lower lopinavir AUC12 than older children (6 months to 12 years of age), however, despite the lower lopinavir drug exposure observed, antiviral activity was demonstrated as reflected in the proportion of subjects who achieved HIV-1 RNA <400 copies/mL at Week 24 [see Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
 
 Safety and efficacy in pediatric patients > 6 months of age was demonstrated in a clinical trial in 100 patients.
 The clinical trial was an open-label, multicenter trial evaluating the pharmacokinetic profile, tolerability, safety, and efficacy of KALETRA oral solution containing lopinavir 80 mg/mL and ritonavir 20 mg/mL in 100 antiretroviral naïve and experienced pediatric patients ages 6 months to 12 years.
