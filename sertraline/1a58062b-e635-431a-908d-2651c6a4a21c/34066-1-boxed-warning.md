@@ -8,3 +8,5 @@ Patients of all ages who are started on antidepressant therapy should be monitor
 Families and caregivers should be advised of the need for close observation and communication with the prescriber.
 Sertraline hydrochloride is not approved for use in pediatric patients except for patients with obsessive compulsive disorder (OCD).
 (See Warnings: Clinical Worsening and Suicide Risk, Precautions: Information for Patients, and Precautions: Pediatric Use)
+
+If you take SERTRALINE HYDROCHLORIDE, you should not take any other medicines that contain sertraline (sertraline HCl, sertraline hydrochloride, etc.).

@@ -77,7 +77,7 @@ The concomitant use of Sertraline hydrochloride with serotonin precursors (such 
 
 Treatment with Sertraline hydrochloride and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
-Co-administration of Zoloft with other drugs which enhance the effects of serotonergic neurotransmission, such as tryptophan, fenfluramine, fentanyl, 5-HT agonists, or the herbal medicine St. John's Wort (hypericum perforatum) should be undertaken with caution and avoided whenever possible due to the potential for pharmacodynamic interaction.
+Co-administration of ZOLOFT with other drugs which enhance the effects of serotonergic neurotransmission, such as tryptophan, fenfluramine, fentanyl, 5-HT agonists, or the herbal medicine St. John's Wort (hypericum perforatum) should be undertaken with caution and avoided whenever possible due to the potential for pharmacodynamic interaction.
 
 # PRECAUTIONS
 
@@ -212,6 +212,12 @@ The dose should be taken immediately after mixing.
 Do not mix in advance.
 At times, a slight haze may appear after mixing; this is normal.
 Note that caution should be exercised for persons with latex sensitivity, as the dropper dispenser contains dry natural rubber.
+
+## Angle-Closure Glaucoma
+
+SSRIs including sertraline may have an effect on pupil size resulting in mydriasis.
+This mydriatic effect has the potential to narrow the eye angle resulting in increased intraocular pressure and angle-closure glaucoma, especially in patients pre-disposed.
+Sertraline should therefore be used with caution in patients with angle-closure glaucoma or history of glaucoma.
 
 ## Laboratory Tests
 
@@ -384,10 +390,13 @@ Reported clinical findings have included respiratory distress, cyanosis, apnea, 
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS).
 
-Exposure during late pregnancy to SSRIs may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
-PPHN occurs in 1–2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
-In a retrospective case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately six-fold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
-A study of 831,324 infants born in Sweden in 1997–2005 found a PPHN risk ratio of 2.4 (95% CI 1.2–4.3) associated with patient-reported maternal use of SSRIs "in early pregnancy" and a PPHN risk ratio of 3.6 (95% CI 1.2–8.3) associated with a combination of patient-reported maternal use of SSRIs "in early pregnancy" and an antenatal SSRI prescription "in later pregnancy."
+Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
+PPHN occurs in 1 – 2 per 1,000 births in the general population and is associated with neonatal morbidity and mortality.
+Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including DRUG) in pregnancy and PPHN.
+Other studies do not show a significant statistical association.
+Neonates exposed to an SSRI in utero may benefit from careful monitoring for signs of respiratory distress over the first 72 hours after delivery.
+PPHN is an uncommon event, and the possible risk of such an event occurring in association with SSRI use needs to be carefully weighed against the potential benefits of treating depression with an antidepressant during pregnancy and the risks of not treating it.
+This decision can only be made on a case by case basis.
 
 When treating a pregnant woman with sertraline hydrochloride during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
 Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic in the context of antidepressant therapy at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.

@@ -1,4 +1,6 @@
-# SERTRALINE (SER-tra-line) HYDROCHLORIDE (sertraline hydrochloride) (Tablets and Oral Concentrate (solution))
+# Medication Guide
+
+SERTRALINE (SER-tra-line) HYDROCHLORIDE (sertraline hydrochloride) (Tablets and Oral Concentrate (solution))
 
 Read the Medication Guide that comes with SERTRALINE HYDROCHLORIDE before you start taking it and each time you get a refill.
 There may be new information.
@@ -9,39 +11,61 @@ What is the most important information I should know about SERTRALINE HYDROCHLOR
 
 SERTRALINE HYDROCHLORIDE and other antidepressant medicines may cause serious side effects, including:
 
-- 1.Suicidal thoughts or actions: Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
-  SERTRALINE HYDROCHLORIDE may be associated with these serious side effects:
-  - SERTRALINE HYDROCHLORIDE and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
-  - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
-  - Watch for these changes and call your healthcare provider right away if you notice: Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
-    Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
-    - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-    - Pay particular attention to such changes when SERTRALINE HYDROCHLORIDE is started or when the dose is changed.
-    - attempts to commit suicide
-    - acting on dangerous impulses
-    - acting aggressive or violent
-    - thoughts about suicide or dying
-    - new or worse depression
-    - new or worse anxiety or panic attacks
-    - feeling agitated, restless, angry or irritable
-    - trouble sleeping
-    - an increase in activity or talking more than what is normal for you
-    - other unusual changes in behavior or mood
-- 2.Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
-  This condition can be life-threatening and may include:
+1.
+Suicidal thoughts or actions:
+
+- SERTRALINE HYDROCHLORIDE and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
+- Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
+- Watch for these changes and call your healthcare provider right away if you notice: Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
+  Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
+  - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+  - Pay particular attention to such changes when SERTRALINE HYDROCHLORIDE is started or when the dose is changed.
+
+- 
+  - attempts to commit suicide
+  - acting on dangerous impulses
+  - acting aggressive or violent
+  - thoughts about suicide or dying
+  - new or worse depression
+  - new or worse anxiety or panic attacks
+  - feeling agitated, restless, angry or irritable
+  - trouble sleeping
+  - an increase in activity or talking more than what is normal for you
+  - other unusual changes in behavior or mood
+
+Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
+SERTRALINE HYDROCHLORIDE may be associated with these serious side effects:
+
+2.
+Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
+This condition can be life-threatening and may include:
+
+- 
   - agitation, hallucinations, coma or other changes in mental status
   - coordination problems or muscle twitching (overactive reflexes)
   - racing heartbeat, high or low blood pressure
   - sweating or fever
   - nausea, vomiting, or diarrhea
   - muscle rigidity
-- 3.Severe allergic reactions:
+
+3.
+Severe allergic reactions:
+
+- 
   - trouble breathing
   - swelling of the face, tongue, eyes or mouth
   - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
-- 4.Abnormal bleeding: SERTRALINE HYDROCHLORIDE and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
-- 5.Seizures or convulsions
-- 6.Manic episodes:
+
+4.
+Abnormal bleeding: SERTRALINE HYDROCHLORIDE and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+
+5.
+Seizures or convulsions
+
+6.
+Manic episodes:
+
+- 
   - greatly increased energy
   - severe trouble sleeping
   - racing thoughts
@@ -49,11 +73,17 @@ SERTRALINE HYDROCHLORIDE and other antidepressant medicines may cause serious si
   - unusually grand ideas
   - excessive happiness or irritability
   - talking more or faster than usual
-- 7.Changes in appetite or weight.
-  Children and adolescents should have height and weight monitored during treatment.
-- 8.Low salt (sodium) levels in the blood.
-  Elderly people may be at greater risk for this.
-  Symptoms may include:
+
+7.
+Changes in appetite or weight.
+Children and adolescents should have height and weight monitored during treatment.
+
+8.
+Low salt (sodium) levels in the blood.
+Elderly people may be at greater risk for this.
+Symptoms may include:
+
+- 
   - headache
   - weakness or feeling unsteady
   - confusion, problems concentrating or thinking or memory problems
@@ -95,12 +125,13 @@ Do not take SERTRALINE HYDROCHLORIDE if you:
   Get medical help right away if you have any of these symptoms:
   - Do not take an MAOI within 2 weeks of stopping SERTRALINE HYDROCHLORIDE.
   - Do not start SERTRALINE HYDROCHLORIDE if you stopped taking an MAOI in the last 2 weeks.
-  - high fever
-  - uncontrolled muscle spasms
-  - stiff muscles
-  - rapid changes in heart rate or blood pressure
-  - confusion
-  - loss of consciousness (pass out)
+  - 
+    - high fever
+    - uncontrolled muscle spasms
+    - stiff muscles
+    - rapid changes in heart rate or blood pressure
+    - confusion
+    - loss of consciousness (pass out)
 
 What should I tell my healthcare provider before taking SERTRALINE HYDROCHLORIDE?
 Ask if you are not sure.
@@ -157,9 +188,6 @@ SERTRALINE HYDROCHLORIDE and some medicines may interact with each other, may no
 Your healthcare provider or pharmacist can tell you if it is safe to take SERTRALINE HYDROCHLORIDE with your other medicines.
 Do not start or stop any medicine while taking SERTRALINE HYDROCHLORIDE without talking to your healthcare provider first.
 
-| If you take SERTRALINE HYDROCHLORIDE, you should not take any other medicines that contain sertraline (sertraline HCl, sertraline hydrochloride, etc.). |
-| --- |
-
 How should I take SERTRALINE HYDROCHLORIDE?
 
 - Take SERTRALINE HYDROCHLORIDE exactly as prescribed.
@@ -187,7 +215,7 @@ SERTRALINE HYDROCHLORIDE may cause serious side effects, including:
 - See "What is the most important information I should know about SERTRALINE HYDROCHLORIDE?"
 - Feeling anxious or trouble sleeping
 
-Common possible side effects in people who take SERTRALINE HYDROCHLORIDE include:
+Common possible side effects in people who take SERTRALINE HYDROCHLORIDE include
 
 - nausea, loss of appetite, diarrhea or indigestion
 - change in sleep habits including increased sleepiness or insomnia
@@ -233,7 +261,7 @@ This Medication Guide summarizes the most important information about SERTRALINE
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about SERTRALINE HYDROCHLORIDE that is written for healthcare professionals.
 
-For more information about SERTRALINE HYDROCHLORIDE call 1-800-438-1985 or go to www.pfizer.com
+For more information about SERTRALINE HYDROCHLORIDE call 1-800-438-1985.
 
 What are the ingredients in SERTRALINE HYDROCHLORIDE?
 
@@ -246,6 +274,6 @@ Inactive ingredients
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-LAB-0541-1.0
+LAB-0541-2.0
 
-September 2011
+January 2012

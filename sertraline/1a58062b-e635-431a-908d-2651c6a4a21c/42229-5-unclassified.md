@@ -1,5 +1,5 @@
 Rx only
 
-LAB—0340—16.0
+LAB—0340—18.0
 
-September 2011
+January 2012
