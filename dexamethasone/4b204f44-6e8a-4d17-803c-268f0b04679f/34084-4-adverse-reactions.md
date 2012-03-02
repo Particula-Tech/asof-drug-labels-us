@@ -25,3 +25,9 @@ Increased IOP with OZURDEX® peaked at approximately week 8.
 During the initial treatment period, 1% (3/421) of the patients who received OZURDEX® required surgical procedures for management of elevated IOP.
 
 Following a second injection of OZURDEX® in cases where a second injection was indicated, the overall incidence of cataracts was higher after 1 year.
+
+## 6.2 Postmarketing Experience
+
+The following reactions have been identified during post-marketing use of OZURDEX® in clinical practice.
+Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
+The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to OZURDEX®, or a combination of these factors, include: device dislocation and endophthalmitis.

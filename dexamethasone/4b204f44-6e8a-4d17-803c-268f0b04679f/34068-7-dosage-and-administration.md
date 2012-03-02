@@ -7,7 +7,7 @@ For ophthalmic intravitreal injection only.
 ## 2.2 Administration
 
 The intravitreal injection procedure should be carried out under controlled aseptic conditions which include the use of sterile gloves, a sterile drape, and a sterile eyelid speculum (or equivalent).
-Adequate anesthesia and a broad-spectrum microbicide are recommended to be given prior to the injection.
+Adequate anesthesia and a broad-spectrum microbicide applied to the periocular skin, eyelid and ocular surface are recommended to be given prior to the injection.
 
 Remove the foil pouch from the carton and examine for damage.
 Then, open the foil pouch over a sterile field and gently drop the applicator on a sterile tray.

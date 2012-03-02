@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-OZURDEX® is an intravitreal implant containing 0.7 mg (700 μg) dexamethasone in the NOVADUR® solid polymer drug delivery system.
+OZURDEX® is an intravitreal implant containing 0.7 mg (700 mcg) dexamethasone in the NOVADUR® solid polymer drug delivery system.
 OZURDEX® is preloaded into a single-use, specially designed DDS® applicator to facilitate injection of the rod-shaped implant directly into the vitreous.
 The NOVADUR® system contains poly (D,L-lactide-co-glycolide) PLGA intravitreal polymer matrix without a preservative.
 The chemical name for dexamethasone is Pregna-1,4-diene-3,20-dione, 9-fluoro-11,17,21-trihydroxy-16-methyl-, (11β,16α)-.
