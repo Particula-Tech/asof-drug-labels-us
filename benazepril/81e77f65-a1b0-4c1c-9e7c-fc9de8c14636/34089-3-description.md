@@ -15,6 +15,6 @@ Hydrochlorothiazide’s chemical name is 6-chloro-3,4-dihydro-2H-1,2,4-benzothia
 Its empirical formula is C7 H8 ClN3 O4 S2, and its molecular weight is 297.73.
 Hydrochloro-thiazide is a thiazide diuretic.
 
-Lotensin HCT is a combination of benazepril hydrochloride and hydrochlorothiazide USP.
-The tablets are formulated for oral administration with a combination of 5, 10, or 20 mg of benazepril hydrochloride and 6.25, 12.5, or 25 mg of hydrochlorothiazide USP.
+Lotensin HCT is a combination of benazepril and hydrochlorothiazide USP.
+The tablets are formulated for oral administration with a combination of 5, 10, or 20 mg of benazepril and 6.25, 12.5, or 25 mg of hydrochlorothiazide USP.
 The inactive ingredients of the tablets are cellulose compounds, crospovidone, hydrogenated castor oil, iron oxides (10/12.5-mg, 20/12.5-mg, and 20/25-mg tablets), lactose, polyethylene glycol, talc, and titanium dioxide.

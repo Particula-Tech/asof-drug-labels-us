@@ -30,26 +30,21 @@ The mechanism of the antihypertensive effect of thiazides is unknown.
 
 Following oral administration of Lotensin HCT, peak plasma concentrations of benazepril are reached within 0.5-1.0 hours.
 As determined by urinary recovery, the extent of absorption is at least 37%.
-The absorption of hydrochlorothiazide is somewhat slower (1-2.5 hours) and somewhat more complete (50%-80%).
 In fasting subjects, the rate and extent of absorption of benazepril and hydrochlorothiazide from Lotensin HCT are not different, respectively, from the rate and extent of absorption of benazepril and hydrochlorothiazide from immediate-release monotherapy formulations.
 
-The absorption of benazepril from Lotensin® tablets is not influenced by the presence of food in the gastrointestinal tract, but possible effects of food upon absorption of either component from Lotensin HCT tablets have not been studied.
-The reported studies of food effects on hydrochlorothiazide absorption have been inconclusive.
-The absorption of hydrochlorothiazide is increased by agents that reduce gastrointestinal motility, but it is reported to be reduced by 50% in patients with congestive heart failure.
+The estimated absolute bioavailability of hydrochlorothiazide after oral administration is about 70%.
+Peak plasma hydrochlorothiazide concentrations (Cmax) are reached within 2 to 5 hours after oral administration.
+Hydrochlorothiazide binds to albumin (40 to 70%) and distributes into erythrocytes.
+
+The absorption of benazepril from Lotensin® tablets is not influenced by the presence of food in the gastrointestinal tract.
+There is no clinically significant effect of food on the bioavailability of hydrochlorothiazide.
 
 Cleavage of the ester group (primarily in the liver) converts benazepril to its active metabolite, benazeprilat.
 Peak plasma concentrations of benazeprilat are reached 1-2 hours after drug intake in the fasting state and 2-4 hours after drug intake in the nonfasting state.
 The serum protein binding of benazepril is about 96.7% and that of benazeprilat about 95.3%, as measured by equilibrium dialysis; on the basis of in vitro studies, the degree of protein binding should be unaffected by age, hepatic dysfunction, or – over the concentration range of 0.24-23.6 µmol/L – concentration.
 
-Hydrochlorothiazide is not metabolized.
-Its apparent volume of distribution is 3.6-7.8 L/kg, and its measured plasma protein binding is 67.9%.
-The drug also accumulates in red blood cells, so that whole blood levels are 1.6-1.8 times those measured in plasma.
-
 In studies of rats given 14C-benazepril, benazepril and its metabolites crossed the blood-brain barrier only to an extremely low extent.
 Multiple doses of benazepril did not result in accumulation in any tissue except the lung, where, as with other ACE inhibitors in similar studies, there was a slight increase in concentration due to slow elimination in that organ.
-
-Some placental passage occurred when benazepril was administered to pregnant rats.
-In humans, hydrochlorothiazide crosses the placenta freely, and levels in umbilical-cord blood are similar to those in the maternal circulation.
 
 Benazepril is almost completely metabolized to benazeprilat, which has much greater ACE inhibitory activity than benazepril, and to the glucuronide conjugates of benazepril and benazeprilat.
 Only trace amounts of an administered dose of benazepril can be recovered unchanged in the urine; about 20% of the dose is excreted as benazeprilat, 4% as benazepril glucuronide, and 8% as benazeprilat glucuronide.
@@ -60,8 +55,8 @@ Similarly, the pharmacokinetics of benazepril and benazeprilat do not appear to 
 The kinetics of benazepril are dose-proportional within the dosage range of 5-20 mg.
 Small deviations from dose proportionality were observed when the broader range of 2-80 mg was studied, possibly due to the saturable binding of the compound to ACE.
 
-The effective half-life of accumulation of benazeprilat following multiple dosing of benazepril hydrochloride is 10-11 hours.
-Thus, steady-state concentrations of benazeprilat should be reached after 2 or 3 doses of benazepril hydrochloride given once daily.
+The effective half-life of accumulation of benazeprilat following multiple dosing of benazepril is 10-11 hours.
+Thus, steady-state concentrations of benazeprilat should be reached after 2 or 3 doses of benazepril given once daily.
 
 During chronic administration (28 days) of once-daily doses of benazepril between 5 mg and 20 mg, the kinetics did not change, and there was no significant accumulation.
 Accumulation ratios based on AUC and urinary recovery of benazeprilat were 1.19 and 1.27, respectively.
@@ -76,16 +71,28 @@ In patients with renal failure, biliary clearance may compensate to an extent fo
 The disposition of benazepril and benazeprilat in patients with mild-to-moderate renal insufficiency (creatinine clearance >30 mL/min) is similar to that in patients with normal renal function.
 In patients with creatinine clearance ≤30 mL/min, peak benazeprilat levels and the initial (alpha phase) half-life increase, and time to steady state may be delayed (see DOSAGE AND ADMINISTRATION).
 
-Thiazide diuretics are eliminated by the kidney, with a terminal half-life of 5-15 hours.
-In a study of patients with impaired renal function (mean creatinine clearance of 19 mL/min), the half-life of hydrochlorothiazide elimination was lengthened to 21 hours.
+Following oral administration, plasma hydrochlorothiazide concentrations decline bi-exponentially, with a mean distribution half-life of about 2 hours and an elimination half-life of about 10 hours.
+About 70% of an orally administered dose of hydrochlorothiazide is eliminated in the urine as unchanged drug.
+In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was increased to 2 fold in individuals with mild/moderate renal impairment (30 < CLcr < 90 mL/min) and 3 fold and severe renal impairment (≤ 30 mL/min), when compared to individuals with normal renal function (CLcr > 90 mL/min).
 
 ## Pharmacodynamics
+
+Benazepril
 
 Single and multiple doses of 10 mg or more of benazepril cause inhibition of plasma ACE activity by at least 80%-90% for at least 24 hours after dosing.
 For up to 4 hours after a 10-mg dose, pressor responses to exogenous angiotensin I were inhibited by 60%-90%.
 
-Administration of benazepril to patients with mild-to-moderate hypertension results in a reduction of both supine and standing blood pressure to about the same extent, with no compensatory tachycardia.
-Symptomatic postural hypotension is infrequent, although it can occur in patients who are salt and/or volume depleted (see WARNINGS, Hypotension).
+In normal human volunteers, single doses of benazepril caused an increase in renal blood flow but had no effect on glomerular filtration rate.
+
+Hydrochlorothiazide
+
+After oral administration of hydrochlorothiazide, diuresis begins within 2 hours, peaks in about 4 hours and lasts about 6 to 12 hours.
+
+Drug Interactions
+
+Lotensin HCT potentiates the antihypertensive action of other antihypertensive drugs (e.g. curare derivatives, guanethidine, methyldopa, beta-blockers, vasodilators, calcium channel blockers ACE inhibitors and ARBs and DRIs).
+
+## CLINICAL STUDIES
 
 In single-dose studies, benazepril lowered blood pressure within 1 hour, with peak reductions achieved 2-4 hours after dosing.
 The antihypertensive effect of a single dose persisted for 24 hours.
@@ -96,19 +103,9 @@ Four dose-response studies of benazepril monotherapy using once-daily dosing wer
 The minimal effective once-daily dose of benazepril was 10 mg; further falls in blood pressure, especially at morning trough, were seen with higher doses in the studied dosing range (10-80 mg).
 In studies comparing the same daily dose of benazepril given as a single morning dose or as a twice-daily dose, blood pressure reductions at the time of morning trough blood levels were greater with the divided regimen.
 
-During chronic therapy with benazepril, the maximum reduction in blood pressure with any given dose is generally achieved after 1-2 weeks.
-The antihypertensive effects of benazepril have continued during therapy for at least 2 years.
-Abrupt withdrawal of benazepril has not been associated with a rapid increase in blood pressure.
-
-In patients with mild-to-moderate hypertension, total daily doses of Lotensin 20-40 mg were similar in effectiveness to total daily doses of captopril 50-100 mg, hydrochlorothiazide 25-50 mg, nifedipine SR 40-80 mg, and propranolol 80-160 mg.
-
 The antihypertensive effects of benazepril were not appreciably different in patients receiving high- or low-sodium diets.
 
-In hemodynamic studies in dogs, blood pressure reduction was accompanied by a reduction in peripheral arterial resistance, with an increase in cardiac output and renal blood flow and little or no change in heart rate.
-In normal human volunteers, single doses of benazepril caused an increase in renal blood flow but had no effect on glomerular filtration rate.
+Benazapril-Hydrochlorothiazide
 
 In clinical trials of benazepril/hydrochlorothiazide using benazepril doses of 5-20 mg and hydrochlorothiazide doses of 6.25-25 mg, the antihypertensive effects were sustained for at least 24 hours, and they increased with increasing dose of either component.
 Although benazepril monotherapy is somewhat less effective in blacks than in nonblacks, the efficacy of combination therapy appears to be independent of race.
-
-By blocking the renin-angiotensin-aldosterone axis, administration of benazepril tends to reduce the potassium loss associated with the diuretic.
-In clinical trials of Lotensin HCT, the average change in serum potassium was near zero in subjects who received 5/6.25 mg or 20/12.5 mg, but the average subject who received 10/12.5 mg or 20/25 mg experienced a mild reduction in serum potassium, similar to that experienced by the average subject receiving the same dose of hydrochlorothiazide monotherapy.

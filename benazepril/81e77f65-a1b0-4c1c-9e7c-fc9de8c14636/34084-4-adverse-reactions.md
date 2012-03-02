@@ -26,10 +26,7 @@ The side effects considered possibly or probably related to study drug that occu
 
 Other side effects considered possibly or probably related to study drug that occurred in U.S. placebo-controlled trials in 0.3% to 1.0% of patients treated with Lotensin HCT were the following:
 
-Angioedema: Edema of the lips or face without other manifestations of angioedema (0.3%).
-See WARNINGS, Angioedema.
-
-Cardiovascular: Hypotension (seen in 0.6% of patients), postural hypotension (0.3%), palpitations, and flushing.
+Cardiovascular: Palpitations, flushing.
 
 Gastrointestinal: Vomiting, diarrhea, dyspepsia, anorexia, and constipation.
 
@@ -37,12 +34,9 @@ Neurologic and Psychiatric: Insomnia, nervousness, paresthesia, libido decrease,
 
 Dermatologic: Rash and sweating.
 
-Other: Gout, urinary frequency, arthralgia, myalgia, asthenia, and pain (including chest pain and abdominal pain).
+Other: Urinary frequency, arthralgia, myalgia, asthenia, and pain (including chest pain and abdominal pain).
 
 Other adverse experiences reported in 0.3% or more of Lotensin HCT patients in U.S. controlled clinical trials, and rarer events seen in post-marketing experience, were the following; asterisked entries occurred in more than 1% of patients (in some, a causal relationship to Lotensin HCT is uncertain):
-
-Angioedema: Edema of the lips or face without other manifestations of angioedema.
-See WARNINGS, Angioedema.
 
 Cardiovascular: Syncope, peripheral vascular disorder, and tachycardia.
 
@@ -58,41 +52,32 @@ Respiratory: Upper respiratory infection*, epistaxis, bronchitis, rhinitis*, sin
 
 Other: Conjunctivitis, arthritis, urinary tract infection, alopecia, and urinary frequency*.
 
-Monotherapy with benazepril has been evaluated for safety in over 6000 patients.
-In clinical trials, the observed adverse reactions to benazepril were similar to those seen in trials of Lotensin HCT.
-In post-marketing experience with benazepril, there have been rare reports of Stevens-Johnson syndrome, pancreatitis, hemolytic anemia, pemphigus, and thrombo-cytopenia.
-Another potentially important adverse experience, eosinophilic pneumonitis, has been attributed to other ACE inhibitors.
+Post-Marketing Experience
 
-Hydrochlorothiazide has been extensively prescribed for many years, but there has not been enough systematic collection of data to support an estimate of the frequency of the observed adverse reactions.
-Within organ-system groups, the reported reactions are listed here in decreasing order of severity, without regard to frequency.
+The following adverse reactions have been identified during post-approval use of either benazapril or hydrochlorothiazide.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency or establish a causal relationship to drug exposure:
 
-Unknown frequency: small bowel angioedema, anaphylactoid reactions, hyperkalemia, agranulocytosis, neutropenia.
+Benazepril Stevens-Johnson syndrome, pancreatitis, hemolytic anemia, pemphigus, and thrombocytopenia, eosinophilic pneumonitis
 
-Cardiovascular: Orthostatic hypotension (may be potentiated by alcohol, barbiturates, or narcotics).
+Hydrochlorothiazide
 
-Digestive: Pancreatitis, jaundice (intrahepatic cholestatic) (see WARNINGS), sialadenitis, vomiting, diarrhea, cramping, nausea, gastric irritation, constipation, and anorexia.
+Digestive: Pancreatitis, small bowel angioedema, jaundice (intrahepatic cholestatic), sialadenitis, vomiting, diarrhea, cramping, nausea, gastric irritation, constipation, and anorexia.
 
 Neurologic: Vertigo, lightheadedness, transient blurred vision, headache, paresthesia, xanthopsia, weakness, and restlessness.
 
 Musculoskeletal: Muscle spasm.
 
-Hematologic: Aplastic anemia, agranulocytosis, leukopenia, and thrombocytopenia.
+Hematologic: Aplastic anemia, agranulocytosis, leukopenia, neutropenia and thrombocytopenia.
 
-Metabolic: Hyperglycemia, glycosuria, and hyperuricemia.
+Metabolic: Hyperglycemia, glycosuria, and hyperuricemia, pyrexia, asthenia, parathyroid gland changes with hypercalcemia and hypophosphatemia.
 
-Hypersensitivity: Necrotizing angiitis, respiratory distress (including pneumonitis and pulmonary edema), purpura, urticaria, rash, and photosensitivity.
+Hypersensitivity: Anaphylactoid reactions, necrotizing angiitis, respiratory distress (including pneumonitis and pulmonary edema), purpura, urticaria, rash, and photosensitivity.
 
-Skin: Erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis.
+Skin: Erythema multiforme including Stevens-Johnson syndrome, and exfoliative dermatitis including toxic epidermal necrolysis.
 
 ## Clinical Laboratory Test Findings
 
 Serum Electrolytes: See PRECAUTIONS.
 
-Creatinine: Minor reversible increases in serum creatinine were observed in patients with essential hypertension treated with Lotensin HCT.
+Creatinine and BUN: Minor reversible increases in serum creatinine and BUN were observed in patients with essential hypertension treated with Lotensin HCT.
 Such increases occurred most frequently in patients with renal artery stenosis (see PRECAUTIONS).
-
-PBI and Tests of Parathyroid Function: See PRECAUTIONS.
-
-Other (Causal Relationships Unknown): Other clinically important changes in standard laboratory tests were rarely associated with Lotensin HCT administration.
-Elevations in blood urea nitrogen, uric acid, glucose, SGOT, and SGPT have been reported (see WARNINGS).
-In the somewhat larger patient population exposed to benazepril monotherapy in U.S. trials, the same abnormalities were reported, together with scattered accounts of hyponatremia, melena, electrocardiographic changes, leukopenia, eosinophilia, and proteinuria.
