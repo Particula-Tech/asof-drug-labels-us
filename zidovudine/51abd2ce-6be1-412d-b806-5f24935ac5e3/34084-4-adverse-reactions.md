@@ -1,13 +1,13 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Trials Experience
-
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - Hematologic toxicity, including neutropenia and anemia [see Boxed Warning, Warnings and Precautions (5.1)].
 - Symptomatic myopathy [see Boxed Warning, Warnings and Precautions (5.2)].
 - Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
 - Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.4)].
+
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 Adults: The frequency and severity of adverse reactions associated with the use of zidovudine are greater in patients with more advanced infection at the time of initiation of therapy.
@@ -46,7 +46,7 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Patients With As
 | ULN = Upper limit of normal. |  |  |
 
 Pediatrics: The clinical adverse reactions reported among adult recipients of zidovudine may also occur in pediatric patients.
-Study ACTG300: Selected clinical adverse reactions and physical findings with a ≥5% frequency during therapy with EPIVIR ® (lamivudine) oral suspension 4 mg/kg twice daily plus zidovudine 160 mg/m 2 3 times daily compared with didanosine in therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 4.
+Study ACTG 300: Selected clinical adverse reactions and physical findings with a ≥5% frequency during therapy with EPIVIR ® (lamivudine) oral suspension 4 mg/kg twice daily plus zidovudine 160 mg/m 2 3 times daily compared with didanosine in therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 4.
 
 Table 4.
 Selected Clinical Adverse Reactions and Physical Findings (≥5% Frequency) in Pediatric Patients in Study ACTG 300

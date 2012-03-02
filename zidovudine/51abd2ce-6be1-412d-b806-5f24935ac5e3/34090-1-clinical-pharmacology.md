@@ -30,7 +30,7 @@ The major metabolite of zidovudine is GZDV.
 GZDV AUC is about 3-fold greater than the zidovudine AUC.
 Urinary recovery of zidovudine and GZDV accounts for 14% and 74%, respectively, of the dose following oral administration.
 A second metabolite, 3'-amino-3'-deoxythymidine (AMT), has been identified in the plasma following single-dose intravenous (IV) administration of zidovudine.
-The AMT AUC was one fifth of the zidovudine AUC.
+The AMT AUC was one-fifth of the zidovudine AUC.
 Pharmacokinetics of zidovudine were dose independent at oral dosing regimens ranging from 2 mg/kg every 8 hours to 10 mg/kg every 4 hours.
 Effect of Food on Absorption: Zidovudine may be administered with or without food.
 The zidovudine AUC was similar when a single dose of zidovudine was administered with food.
@@ -56,12 +56,12 @@ A dosage adjustment is recommended for patients undergoing hemodialysis or perit
 Hepatic Impairment: Data describing the effect of hepatic impairment on the pharmacokinetics of zidovudine are limited.
 However, because zidovudine is eliminated primarily by hepatic metabolism, it is expected that zidovudine clearance would be decreased and plasma concentrations would be increased following administration of the recommended adult doses to patients with hepatic impairment [see Dosage and Administration (2.5)].
 Pediatric Patients: Zidovudine pharmacokinetics have been evaluated in HIV-1-infected pediatric patients (Table 8).
-Patients 3 Months to 12 Years of Age: Overall, zidovudine pharmacokinetics in pediatric patients greater than 3 months of age are similar to those in adult patients.
+Patients Aged 3 Months to 12 Years: Overall, zidovudine pharmacokinetics in pediatric patients greater than 3 months of age are similar to those in adult patients.
 Proportional increases in plasma zidovudine concentrations were observed following administration of oral solution from 90 to 240 mg/m 2 every 6 hours.
 Oral bioavailability, terminal half-life, and oral clearance were comparable to adult values.
 As in adult patients, the major route of elimination was by metabolism to GZDV.
 After intravenous dosing, about 29% of the dose was excreted in the urine unchanged, and about 45% of the dose was excreted as GZDV [see Dosage and Administration (2.1)] .
-Patients <3 Months of Age: Zidovudine pharmacokinetics have been evaluated in pediatric patients from birth to 3 months of life.
+Patients Aged Less Than 3 Months: Zidovudine pharmacokinetics have been evaluated in pediatric patients from birth to 3 months of life.
 Zidovudine elimination was determined immediately following birth in 8 neonates who were exposed to zidovudine in utero .
 The half-life was 13 ± 5.8 hours.
 In neonates ≤14 days old, bioavailability was greater, total body clearance was slower, and half-life was longer than in pediatric patients >14 days old.
@@ -70,7 +70,7 @@ For dose recommendations for neonates [see Dosage and Administration (2.2)] .
 Table 8.
 Zidovudine Pharmacokinetic Parameters in Pediatric Patients*
 
-| Parameter | Birth to 14 Days of Age | 14 Days to 3 Months of Age | 3 Months to 12 Years of Age |
+| Parameter | Birth to 14 Days | Aged 14 Days to 3 Months | Aged 3 Months to 12 Years |
 | --- | --- | --- | --- |
 | Oral bioavailability (%) | 89 ± 19 (n = 15) | 61 ± 19 (n = 17) | 65 ± 24 (n = 18) |
 | CSF:plasma ratio | no data | no data | 0.68 [0.03 to 3.25] † (n = 38) |
@@ -91,10 +91,10 @@ Drug Interactions: [See Drug Interactions (7)] .
 Table 9.
 Effect of Coadministered Drugs on Zidovudine AUC*
 
-| AUC | Variability |  |  |  |  |
+| Note: ROUTINE DOSE MODIFICATION OF ZIDOVUDINE IS NOT WARRANTED WITH COADMINISTRATION OF THE FOLLOWING DRUGS. |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug and Dose | Zidovudine Dose | n | Zidovudine Concentrations |  | Concentration of Coadministered Drug |
-| Note: ROUTINE DOSE MODIFICATION OF ZIDOVUDINE IS NOT WARRANTED WITH COADMINISTRATION OF THE FOLLOWING DRUGS. |  |  |  |  |  |
+| AUC | Variability |  |  |  |  |
 | Atovaquone 750 mg q 12 hr with food | 200 mg q 8 hr | 14 | ↑AUC 31% | Range 23% to 78%† | ↔ |
 | Clarithromycin 500 mg twice daily | 100 mg q 4 hr x 7 days | 4 | ↓AUC 12% | Range ↓34% to ↑14% | Not Reported |
 | Fluconazole 400 mg daily | 200 mg q 8 hr | 12 | ↑AUC 74% | 95% CI: 54% to 98% | Not Reported |

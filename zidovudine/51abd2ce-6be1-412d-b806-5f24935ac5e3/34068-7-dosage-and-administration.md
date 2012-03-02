@@ -3,14 +3,16 @@
 ## 2.1 Treatment of HIV-1 Infection
 
 Adults: The recommended oral dose of zidovudine oral solution is 600 mg/day in divided doses in combination with other antiretroviral agents.
-Pediatric Patients (4 weeks to <18 years of age): Healthcare professionals should pay special attention to accurate calculation of the dose of zidovudine oral solution, transcription of the medication order, dispensing information, and dosing instructions to minimize risk for medication dosing errors.
+Pediatric Patients (Aged 4 Weeks to <18 Years): Healthcare professionals should pay special attention to accurate calculation of the dose of zidovudine oral solution, transcription of the medication order, dispensing information, and dosing instructions to minimize risk for medication dosing errors.
 Prescribers should calculate the appropriate dose of zidovudine oral solution for each child based on body weight (kg) and should not exceed the recommended adult dose.
+Before prescribing zidovudine capsules or tablets, children should be assessed for the ability to swallow capsules or tablets.
+If a child is unable to reliably swallow a zidovudine capsule or tablet, the zidovudine syrup (zidovudine oral solution, USP) formulation should be prescribed.
 The recommended dosage in pediatric patients 4 weeks of age and older and weighing ≥4 kg is provided in Table 1.
 Zidovudine oral solution should be used to provide accurate dosage when whole tablets or capsules are not appropriate.
 
 Table 1: Recommended Pediatric Dosage of Zidovudine Oral Solution
 
-| b.i.d. | t.i.d. |  |  |
+| Twice Daily | Three Times Daily |  |  |
 | --- | --- | --- | --- |
 | Body Weight (kg) | Total Daily Dose | Dosage Regimen and Dose |  |
 | 4 to <9 | 24 mg/kg/day | 12 mg/kg | 8 mg/kg |

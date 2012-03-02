@@ -12,7 +12,7 @@ Increased fetal resorptions occurred in pregnant rats and rabbits treated with d
 There were no other reported developmental anomalies.
 In another developmental toxicity study, pregnant rats received zidovudine up to near-lethal doses that produced peak plasma concentrations 350 times peak human plasma concentrations (300 times the daily exposure [AUC] in humans given 600 mg/day zidovudine).
 This dose was associated with marked maternal toxicity and an increased incidence of fetal malformations.
-However, there were no signs of teratogenicity at doses up to one fifth the lethal dose [see Nonclinical Toxicology (13.2)] .
+However, there were no signs of teratogenicity at doses up to one-fifth the lethal dose [see Nonclinical Toxicology (13.2)] .
 Antiretroviral Pregnancy Registry: To monitor maternal-fetal outcomes of pregnant women exposed to zidovudine, an Antiretroviral Pregnancy Registry has been established.
 Physicians are encouraged to register patients by calling 1-800-258-4263.
 
