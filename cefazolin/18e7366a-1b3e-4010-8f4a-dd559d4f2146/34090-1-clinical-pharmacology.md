@@ -59,7 +59,7 @@ Most strains of indole positive Proteus (Proteus vulgaris), Enterobacter spp., M
 Quantitative methods that require measurement of zone diameters provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure1 that has been recommended for use with disks to test the susceptibility of microorganisms to cefazolin uses the 30 mcg cefazolin disk.
 
-Results of the standard single-disk susceptibility test1 with a 30-mcg cefazolin disk should be interpreted according to the following criteria:
+Results of the standardized single-disk susceptibility test1 with a 30-mcg cefazolin disk should be interpreted according to the following criteria:
 
 Recommended Ranges for Cefazolin Susceptibility Testing
 

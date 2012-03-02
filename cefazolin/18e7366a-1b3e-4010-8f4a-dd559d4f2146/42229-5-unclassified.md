@@ -56,13 +56,15 @@ Ringer’s Injection, USP
 
 5% Sodium Bicarbonate Injection, USP
 
+Prior to administration parenteral drug products should be inspected visually for particulate matter and discoloration whenever solution and container permit.
+
 Clinitest® is a registered trademark of Miles, Inc.
 
 Clinistix® is a registered trademark of Bayer Corporation.
 
-04-2010M
+11-2011M
 
-46018522
+46069536
 
 Manufactured in Austria by
 

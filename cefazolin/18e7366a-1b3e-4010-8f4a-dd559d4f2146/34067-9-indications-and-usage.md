@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Cefazolin for Injection is indicated in the treatment of the following serious infections due to susceptible organisms:
+Cefazolin for Injection, USP is indicated in the treatment of the following infections due to susceptible organisms:
 
 Respiratory Tract Infections: Due to S. pneumoniae, S. aureus (including beta-lactamase-producing strains) and S. pyogenes.
 
@@ -34,6 +34,6 @@ In surgery where the occurrence of infection may be particularly devastating (e.
 If there are signs of infection, specimens for cultures should be obtained for the identification of the causative organism so that appropriate therapy may be instituted.
 (See DOSAGE AND ADMINISTRATION).
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Cefazolin for Injection and other antibacterial drugs, Cefazolin for Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Cefazolin for Injection and other antibacterial drugs, Cefazolin for Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
