@@ -74,7 +74,30 @@ The primary treatment is to discontinue hydrochlorothiazide as rapidly as possib
 Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
 Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
 
-### Pregnancy
+### Embryo-fetal toxicity
+
+Pregnancy category D
+
+Enalapril Maleate
+
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
+Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
+When pregnancy is detected, discontinue Vaseretic as soon as possible.
+These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy.
+Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
+Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
+
+In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
+Perform serial ultrasound examinations to assess the intra-amniotic environment.
+If oligohydramnios is observed, discontinue Vaseretic, unless it is considered lifesaving for the mother.
+Fetal testing may be appropriate, based on the week of pregnancy.
+Patients and physicians should be aware, however that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
+Closely observe infants with histories of in utero exposure to Vaseretic for hypotension, oliguria, and hyperkalemia.
+[see PRECAUTIONS, Pediatric Use]
+
+No teratogenic effects of enalapril were seen in studies of pregnant rats and rabbits.
+On a body surface area basis, the doses used were 57 times and 12 times, respectively, the MRHDD.
 
 Enalapril-Hydrochlorothiazide
 
@@ -84,41 +107,9 @@ At these doses, fetotoxicity expressed as a decrease in average fetal weight occ
 No fetotoxicity occurred at lower doses; 30/10 mg/kg/day of enalapril-hydrochlorothiazide in rats and 10/10 mg/kg/day of enalapril-hydrochlorothiazide in mice.
 
 When used in pregnancy during the second and third trimesters, ACE inhibitors can cause injury and even death to the developing fetus.
-When pregnancy is detected, VASERETIC should be discontinued as soon as possible (see Enalapril Maleate, Fetal/Neonatal Morbidity and Mortality, below).
+When pregnancy is detected, VASERETIC should be discontinued as soon as possible (see Enalapril Maleate, Fetal Toxicity).
 
-Enalapril Maleate
-
-Fetal/Neonatal Morbidity and Mortality: ACE inhibitors can cause fetal and neonatal morbidity and death when administered to pregnant women.
-Several dozen cases have been reported in the world literature.
-When pregnancy is detected, ACE inhibitors should be discontinued as soon as possible.
-
-In a published restrospective epidemiological study, infants whose mothers had taken an ACE inhibitor during their first trimester of pregnancy appeared to have an increased risk of major congenital malformations compared with infants whose mothers had not undergone first trimester exposure to ACE inhibitor drugs.
-The number of cases of birth defects is small and the findings of this study have not yet been repeated.
-
-The use of ACE inhibitors during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
-Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
-Prematurity, intrauterine growth retardation, and patent ductus arteriosus have also been reported, although it is not clear whether these occurrences were due to the ACE-inhibitor exposure.
-
-These adverse effects do not appear to have resulted from intrauterine ACE-inhibitor exposure that has been limited to the first trimester.
-Mothers whose embryos and fetuses are exposed to ACE inhibitors only during the first trimester should be so informed.
-Nonetheless, when patients become pregnant, physicians should make every effort to discontinue the use of VASERETIC as soon as possible.
-
-Rarely (probably less often than once in every thousand pregnancies), no alternative to ACE inhibitors will be found.
-In these rare cases, the mothers should be apprised of the potential hazards to their fetuses, and serial ultrasound examinations should be performed to assess the intra-amniotic environment.
-
-If oligohydramnios is observed, VASERETIC should be discontinued unless it is considered lifesaving for the mother.
-Contraction stress testing (CST), a non-stress test (NST), or biophysical profiling (BPP) may be appropriate, depending upon the week of pregnancy.
-Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-
-Infants with histories of in utero exposure to ACE inhibitors should be closely observed for hypotension, oliguria, and hyperkalemia.
-If oliguria occurs, attention should be directed toward support of blood pressure and renal perfusion.
-Exchange transfusion or dialysis may be required as means of reversing hypotension and/or substituting for disordered renal function.
-Enalapril, which crosses the placenta, has been removed from neonatal circulation by peritoneal dialysis with some clinical benefit, and theoretically may be removed by exchange transfusion, although there is no experience with the latter procedure.
-
-No teratogenic effects of enalapril were seen in studies of pregnant rats and rabbits.
-On a body surface area basis, the doses used were 57 times and 12 times, respectively, the MRHDD.
-
-#### Hydrochlorothiazide
+Hydrochlorothiazide
 
 Studies in which hydrochlorothiazide was orally administered to pregnant mice and rats during their respective periods of major organogenesis at doses up to 3000 and 1000 mg/kg/day, respectively, provided no evidence of harm to the fetus.
 These doses are more than 150 times the MRHDD on a body surface area basis.
@@ -208,8 +199,9 @@ Hyperkalemia: Patients should be told not to use salt substitutes containing pot
 
 Neutropenia: Patients should be told to report promptly any indication of infection (e.g., sore throat, fever) which may be a sign of neutropenia.
 
-Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to ACE inhibitors.
-These patients should be asked to report pregnancies to their physicians as soon as possible.
+Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to Vaseretic during pregnancy.
+Discuss treatment options with women planning to become pregnant.
+Patients should be asked to report pregnancies to their physicians as soon as possible.
 
 NOTE: As with many other drugs, certain advice to patients being treated with VASERETIC is warranted.
 This information is intended to aid in the safe and effective use of this medication.
@@ -225,13 +217,15 @@ If it is necessary to continue the diuretic, provide medical supervision for at 
 
 Agents Causing Renin Release: The antihypertensive effect of enalapril is augmented by antihypertensive agents that cause renin release (e.g., diuretics).
 
-Non-steroidal Anti-inflammatory Agents: In some patients with compromised renal function who are being treated with non-steroidal anti-inflammatory drugs, the coadministration of enalapril may result in a further deterioration of renal function.
+Non-steroidal Anti-inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including enalapril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
+Monitor renal function periodically in patients receiving enalapril and NSAID therapy.
 
 In a clinical pharmacology study, indomethacin or sulindac was administered to hypertensive patients receiving enalapril maleate.
 In this study there was no evidence of a blunting of the antihypertensive action of enalapril maleate.
 However, reports suggest that NSAIDs may diminish the antihypertensive effect of ACE inhibitors.
-This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE inhibitors.
 
 Other Cardiovascular Agents: Enalapril has been used concomitantly with beta adrenergic-blocking agents, methyldopa, nitrates, calcium-blocking agents, hydralazine and prazosin without evidence of clinically significant adverse interactions.
 
@@ -299,14 +293,18 @@ In mice and rats these doses are 9 times and 0.7 times, respectively, the MRHDD 
 
 Pregnancy
 
-Pregnancy Categories C (first trimester) and D (second and third trimesters) (see WARNINGS, Pregnancy, Enalapril Maleate, Fetal/Neonatal Morbidity and Mortality).
-
 Nursing Mothers
 
 Enalapril, enalaprilat, and hydrochlorothiazide have been detected in human breast milk.
 Because of the potential for serious reactions in nursing infants from either drug, a decision should be made whether to discontinue nursing or to discontinue VASERETIC, taking into account the importance of the drug to the mother.
 
 Pediatric Use
+
+Neonates with a history of in utero exposure to Vaseretic:
+
+If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
+Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
+Enalapril, which crosses the placenta, has been removed from neonatal circulation be peritoneal dialysis with some clinical benefit, and theoretically may be removed by exchange transfusion, although there is no experience with the latter procedure.
 
 Safety and effectiveness in pediatric patients have not been established.
 

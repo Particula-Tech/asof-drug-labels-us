@@ -58,6 +58,4 @@ Nervous System/Psychiatric: Depression, confusion, ataxia, peripheral neuropathy
 
 Miscellaneous: A symptom complex has been reported which may include some or all of the following: a positive ANA, an elevated erythrocyte sedimentation rate, arthralgia/arthritis, myalgia/myositis, fever, serositis, vasculitis, leukocytosis, eosinophilia, photosensitivity, rash and other dermatologic manifestations.
 
-Fetal/Neonatal Morbidity and Mortality: See WARNINGS, Pregnancy, Enalapril Maleate, Fetal/Neonatal Morbidity and Mortality.
-
 Hydrochlorothiazide – Body as a Whole: Weakness; Digestive: Pancreatitis, jaundice (intrahepatic cholestatic jaundice), sialadenitis, cramping, gastric irritation, anorexia; Hematologic: Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia; Hypersensitivity: Purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), fever, respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions; Musculoskeletal: Muscle spasm; Nervous System/Psychiatric: Restlessness; Renal: Renal failure, renal dysfunction, interstitial nephritis (see WARNINGS); Skin: Erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis, alopecia; Special Senses: Transient blurred vision, xanthopsia.
