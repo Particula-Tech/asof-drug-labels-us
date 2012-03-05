@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 10 mg Tablets
+PRINCIPAL DISPLAY PANEL - 10 mg Tablets
 
 NDC 0071-0155-23
 
@@ -10,7 +10,7 @@ Lipitor® 10 (atorvastatin calcium) tablets
 
 Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 20 mg Tablets
+PRINCIPAL DISPLAY PANEL - 20 mg Tablets
 
 NDC 0071-0156-23
 
@@ -22,7 +22,7 @@ Lipitor® 20 (atorvastatin calcium) tablets
 
 Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 40 mg Tablets
+PRINCIPAL DISPLAY PANEL - 40 mg Tablets
 
 NDC 0071-0157-23
 
@@ -34,7 +34,7 @@ Lipitor® 40 (atorvastatin calcium) tablets
 
 Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 80 mg Tablets
+PRINCIPAL DISPLAY PANEL - 80 mg Tablets
 
 NDC 0071-0158-23
 

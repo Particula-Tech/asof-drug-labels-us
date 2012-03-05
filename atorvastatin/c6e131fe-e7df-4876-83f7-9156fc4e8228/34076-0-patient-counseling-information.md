@@ -13,7 +13,8 @@ They should discuss all medication, both prescription and over the counter, with
 
 ## 17.2 Liver Enzymes
 
-It is recommended that liver function tests be performed prior to and at 12 weeks following both the initiation of therapy and any elevation of dose, and periodically (e.g., semiannually) thereafter.
+It is recommended that liver enzyme tests be performed before the initiation of LIPITOR and if signs or symptoms of liver injury occur.
+All patients treated with LIPITOR should be advised to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice.
 
 ## 17.3 Pregnancy
 

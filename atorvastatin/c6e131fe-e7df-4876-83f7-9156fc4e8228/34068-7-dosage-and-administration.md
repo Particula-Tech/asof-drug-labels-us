@@ -29,7 +29,9 @@ The combination of HMG-CoA reductase inhibitors (statins) and fibrates should ge
 
 Renal disease does not affect the plasma concentrations nor LDL-C reduction of LIPITOR; thus, dosage adjustment in patients with renal dysfunction is not necessary [see Warnings and Precautions, Skeletal Muscle (5.1), Clinical Pharmacology, Pharmacokinetics (12.3)].
 
-## 2.6 Dosage in Patients Taking Cyclosporine, Clarithromycin, Itraconazole, or a Combination of Ritonavir plus Saquinavir or Lopinavir plus Ritonavir
+## 2.6 Dosage in Patients Taking Cyclosporine, Clarithromycin, Itraconazole, or Certain Protease Inhibitors
 
-In patients taking cyclosporine, therapy should be limited to LIPITOR 10 mg once daily.
-In patients taking clarithromycin, itraconazole, or in patients with HIV taking a combination of ritonavir plus saquinavir or lopinavir plus ritonavir, for doses of LIPITOR exceeding 20 mg, appropriate clinical assessment is recommended to ensure that the lowest dose necessary of LIPITOR is employed [see Warnings and Precautions, Skeletal Muscle (5.1), Drug Interactions (7)].
+In patients taking cyclosporine or the HIV protease inhibitors (tipranavir plus ritonavir) or the hepatitis C protease inhibitor (telaprevir), therapy with LIPITOR should be avoided.
+In patients with HIV taking lopinavir plus ritonavir, caution should be used when prescribing LIPITOR and the lowest dose necessary employed.
+In patients taking clarithromycin, itraconazole, or in patients with HIV taking a combination of saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, therapy with LIPITOR should be limited to 20 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of LIPITOR is employed.
+In patients with HIV taking nelfinavir, therapy with LIPITOR should be limited to 40 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of LIPITOR is employed [see Warnings and Precautions, Skeletal Muscle (5.1), Drug Interactions (7)].

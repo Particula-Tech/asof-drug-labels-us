@@ -81,11 +81,16 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 |  | Dose (mg) | Change in AUC Data given as x-fold change represent a simple ratio between co-administration and atorvastatin alone (i.e., 1-fold = no change). Data given as % change represent % difference relative to atorvastatin alone (i.e., 0% = no change). | Change in Cmax |
 | --- | --- | --- | --- |
 | Co-administered drug and dosing regimen | Atorvastatin |  |  |
-| See Sections 5.1 and 7 for clinical significance.Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QD for 28 days | ↑ 8.7 fold | ↑10.7 fold |
-| Lopinavir 400 mg BID/ ritonavir 100 mg BID, 14 days | 20 mg QD for 4 days | ↑ 5.9 fold | ↑ 4.7 fold |
-| Ritonavir 400 mg BID/ saquinavir 400mg BID, 15 days | 40 mg QD for 4 days | ↑ 3.9 fold | ↑ 4.3 fold |
+| See Sections 5.1 and 7 for clinical significance.Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QD for 28 days | ↑ 8.7 fold | ↑ 10.7 fold |
+| Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days | 10 mg, SD | ↑ 9.4 fold | ↑ 8.6 fold |
+| Telaprevir 750 mg q8h, 10 days | 20 mg, SD | ↑ 7.88 fold | ↑ 10.6 fold |
+| , The dose of saquinavir plus ritonavir in this study is not the clinically used dose. The increase in atorvastatin exposure when used clinically is likely to be higher than what was observed in this study. Therefore, caution should be applied and the lowest dose necessary should be used.Saquinavir 400 mg BID/ ritonavir 400mg BID, 15 days | 40 mg QD for 4 days | ↑ 3.9 fold | ↑ 4.3 fold |
 | Clarithromycin 500 mg BID, 9 days | 80 mg QD for 8 days | ↑ 4.4 fold | ↑ 5.4 fold |
+| Darunavir 300 mg BID/ritonavir 100 mg BID, 9 days | 10 mg QD for 4 days | ↑ 3.4 fold | ↑ 2.25 fold |
 | Itraconazole 200 mg QD, 4 days | 40 mg SD | ↑ 3.3 fold | ↑ 20% |
+| Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days | 10 mg QD for 4 days | ↑ 2.53 fold | ↑ 2.84 fold |
+| Fosamprenavir 1400 mg BID, 14 days | 10 mg QD for 4 days | ↑ 2.3 fold | ↑ 4.04 fold |
+| Nelfinavir 1250 mg BID, 14 days | 10 mg QD for 28 days | ↑ 74% | ↑ 2.2 fold |
 | Grapefruit Juice, 240 mL QD Greater increases in AUC (up to 2.5 fold) and/or Cmax (up to 71%) have been reported with excessive grapefruit consumption (≥ 750 mL – 1.2 liters per day). | 40 mg, SD | ↑ 37% | ↑ 16% |
 | Diltiazem 240 mg QD, 28 days | 40 mg, SD | ↑ 51% | No change |
 | Erythromycin 500 mg QID, 7 days | 10 mg, SD | ↑ 33% | ↑ 38% |
@@ -108,3 +113,6 @@ Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 | 80 mg QD for 15 days | Antipyrine, 600 mg SD | ↑ 3% | ↓ 11% |
 | 80 mg QD for 14 days | See Section 7 for clinical significance. Digoxin 0.25 mg QD, 20 days | ↑ 15% | ↑ 20 % |
 | 40 mg QD for 22 days | Oral contraceptive QD, 2 months - norethindrone 1mg - ethinyl estradiol 35µg | ↑ 28% ↑ 19% | ↑ 23% ↑ 30% |
+| 10 mg, SD | Tipranavir 500 mg BID/ritonavir 200 mg BID, 7 days | No change | No change |
+| 10 mg QD for 4 days | Fosamprenavir 1400 mg BID, 14 days | ↓ 27% | ↓ 18% |
+| 10 mg QD for 4 days | Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days | No change | No change |

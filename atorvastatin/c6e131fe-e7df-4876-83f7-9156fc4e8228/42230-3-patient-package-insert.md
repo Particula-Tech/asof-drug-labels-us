@@ -114,8 +114,13 @@ These serious side effects include:
   LIPITOR can cause serious muscle problems that can lead to kidney problems, including kidney failure.
   You have a higher chance for muscle problems if you are taking certain other medicines with LIPITOR.
 - Liver problems.
-  LIPITOR can cause liver problems.
-  Your doctor may do blood tests to check your liver before you start taking LIPITOR, and while you take it.
+  Your doctor should do blood tests to check your liver before you start taking LIPITOR and if you have symptoms of liver problems while you take LIPITOR.
+  Call your doctor right away if you have the following symptoms of liver problems:
+  - feel tired or weak
+  - loss of appetite
+  - upper belly pain
+  - dark amber colored urine
+  - yellowing of your skin or the whites of your eyes
 
 Call your doctor right away if you have:
 
@@ -132,7 +137,7 @@ In clinical studies, patients reported the following common side effects while t
 
 The following additional side effects have been reported with LIPITOR:
 
-tiredness, and tendon problems.
+tiredness, tendon problems, memory loss, and confusion.
 
 Talk to your doctor or pharmacist if you have side effects that bother you or that will not go away.
 
@@ -164,8 +169,4 @@ Active Ingredient: atorvastatin calcium
 
 Inactive Ingredients: calcium carbonate, USP; candelilla wax, FCC; croscarmellose sodium, NF; hydroxypropyl cellulose, NF; lactose monohydrate, NF; magnesium stearate, NF; microcrystalline cellulose, NF; Opadry White YS-1-7040 (hypromellose, polyethylene glycol, talc, titanium dioxide); polysorbate 80, NF; simethicone emulsion.
 
-Rx Only
-
-Manufactured by Pfizer Ireland Pharmaceuticals Dublin, Ireland
-
-LAB-0348-4.0 June 2009
+LAB-0348-7.0 February 2012

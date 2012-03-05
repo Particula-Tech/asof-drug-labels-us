@@ -13,8 +13,8 @@ Myopathy should be considered in any patient with diffuse myalgias, muscle tende
 Patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever.
 LIPITOR therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
 
-The risk of myopathy during treatment with drugs in this class is increased with concurrent administration of cyclosporine, fibric acid derivatives, erythromycin, clarithromycin, combination of ritonavir plus saquinavir or lopinavir plus ritonavir, niacin, or azole antifungals.
-Physicians considering combined therapy with LIPITOR and fibric acid derivatives, erythromycin, clarithromycin, a combination of ritonavir plus saquinavir or lopinavir plus ritonavir, immunosuppressive drugs, azole antifungals, or lipid-modifying doses of niacin should carefully weigh the potential benefits and risks and should carefully monitor patients for any signs or symptoms of muscle pain, tenderness, or weakness, particularly during the initial months of therapy and during any periods of upward dosage titration of either drug.
+The risk of myopathy during treatment with drugs in this class is increased with concurrent administration of cyclosporine, fibric acid derivatives, erythromycin, clarithromycin, the hepatitis C protease inhibitor telaprevir, combinations of HIV protease inhibitors, including saquinavir plus ritonavir, lopinavir plus ritonavir, tipranavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, and fosamprenavir plus ritonavir, niacin, or azole antifungals.
+Physicians considering combined therapy with LIPITOR and fibric acid derivatives, erythromycin, clarithromycin, a combination of saquinavir plus ritonavir, lopinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, azole antifungals, or lipid-modifying doses of niacin should carefully weigh the potential benefits and risks and should carefully monitor patients for any signs or symptoms of muscle pain, tenderness, or weakness, particularly during the initial months of therapy and during any periods of upward dosage titration of either drug.
 Lower starting and maintenance doses of atorvastatin should be considered when taken concomitantly with the aforementioned drugs (see Drug Interactions (7)).
 Periodic creatine phosphokinase (CPK) determinations may be considered in such situations, but there is no assurance that such monitoring will prevent the occurrence of severe myopathy.
 
@@ -25,8 +25,12 @@ Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
 
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
-| Cyclosporine | Do not exceed 10 mg atorvastatin daily |
-| Clarithromycin, itraconazole, HIV protease inhibitors (ritonavir plus saquinavir or lopinavir plus ritonavir) | Caution when exceeding doses > 20mg atorvastatin daily. The lowest dose necessary should be used. |
+| Cyclosporine, HIV protease inhibitors (tipranavir plus ritonavir), hepatitis C protease inhibitor (telaprevir) | Avoid atorvastatin |
+| HIV protease inhibitor (lopinavir plus ritonavir) | Use with caution and lowest dose necessary |
+| Clarithromycin, itraconazole, HIV protease inhibitors (saquinavir plus ritonavirUse with caution and with the lowest dose necessary (12.3), darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir) | Do not exceed 20 mg atorvastatin daily |
+| HIV protease inhibitor (nelfinavir) | Do not exceed 40 mg atorvastatin daily |
+
+Cases of myopathy, including rhabdomyolysis, have been reported with atorvastatin co-administered with colchicine, and caution should be exercised when prescribing atorvastatin with colchicine [see Drug Interactions (7.11)].
 
 LIPITOR therapy should be temporarily withheld or discontinued in any patient with an acute, serious condition suggestive of a myopathy or having a risk factor predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., severe acute infection, hypotension, major surgery, trauma, severe metabolic, endocrine and electrolyte disorders, and uncontrolled seizures).
 
@@ -41,15 +45,17 @@ Increases in liver function tests (LFT) in other patients were not associated wi
 Upon dose reduction, drug interruption, or discontinuation, transaminase levels returned to or near pretreatment levels without sequelae.
 Eighteen of 30 patients with persistent LFT elevations continued treatment with a reduced dose of LIPITOR.
 
-It is recommended that liver function tests be performed prior to and at 12 weeks following both the initiation of therapy and any elevation of dose, and periodically (e.g., semiannually) thereafter.
-Liver enzyme changes generally occur in the first 3 months of treatment with LIPITOR.
-Patients who develop increased transaminase levels should be monitored until the abnormalities resolve.
-Should an increase in ALT or AST of >3 times ULN persist, reduction of dose or withdrawal of LIPITOR is recommended.
+It is recommended that liver enzyme tests be obtained prior to initiating therapy with LIPITOR and repeated as clinically indicated.
+There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including atorvastatin.
+If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with LIPITOR, promptly interrupt therapy.
+If an alternate etiology is not found, do not restart LIPITOR.
 
 LIPITOR should be used with caution in patients who consume substantial quantities of alcohol and/or have a history of liver disease.
 Active liver disease or unexplained persistent transaminase elevations are contraindications to the use of LIPITOR [see Contraindications (4.1)].
 
 ## 5.3 Endocrine Function
+
+Increases in HbA1c and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including LIPITOR.
 
 Statins interfere with cholesterol synthesis and theoretically might blunt adrenal and/or gonadal steroid production.
 Clinical studies have shown that LIPITOR does not reduce basal plasma cortisol concentration or impair adrenal reserve.

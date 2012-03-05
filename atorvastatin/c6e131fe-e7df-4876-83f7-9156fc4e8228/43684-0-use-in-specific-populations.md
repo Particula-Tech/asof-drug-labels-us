@@ -33,7 +33,7 @@ If the woman becomes pregnant while taking LIPITOR, it should be discontinued im
 It is not known whether atorvastatin is excreted in human milk, but a small amount of another drug in this class does pass into breast milk.
 Nursing rat pups had plasma and liver drug levels of 50% and 40%, respectively, of that in their mother's milk.
 Animal breast milk drug levels may not accurately reflect human breast milk levels.
-Because another drug in this class passes into human milk and because statins have a potential to cause serious adverse reactions in nursing infants, women requiring LIPITOR treatment should be advised not to nurse their infants [seeContraindications (4)].
+Because another drug in this class passes into human milk and because statins have a potential to cause serious adverse reactions in nursing infants, women requiring LIPITOR treatment should be advised not to nurse their infants [see Contraindications (4)].
 
 ## 8.4 Pediatric Use
 
