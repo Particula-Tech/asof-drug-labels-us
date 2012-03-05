@@ -1,6 +1,6 @@
-# PATIENT INFORMATION
+PATIENT INFORMATION
 
-HALAVEN™ (HAL-ih-ven)
+HALAVEN® (HAL-ih-ven)
 
 (eribulin mesylate) Injection
 
@@ -98,7 +98,8 @@ Active Ingredients: eribulin mesylate
 
 Inactive Ingredients: ethanol, water
 
-Distributed by: Eisai Inc. 100 Tice Blvd.
-Woodcliff Lake, NJ 07677
+HALAVEN® is a registered trademark used by Eisai Inc. under license from Eisai R&D Management Co., Ltd.
+
+Distributed by: Eisai Inc. Woodcliff Lake, NJ 07677
 
 If you would like a leaflet with larger printing, please contact Eisai Inc. at 1-877-873-4724.
