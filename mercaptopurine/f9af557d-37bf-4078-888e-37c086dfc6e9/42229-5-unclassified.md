@@ -5,11 +5,11 @@ It should not be used unless a diagnosis of acute lymphatic leukemia has been ad
 
 Manufactured for:
 
-GATE PHARMACEUTICALS
+Teva Biologics and Specialty Products
 
-div. of Teva Pharmaceuticals USA
+Division of Teva Pharmaceuticals USA
 
-Sellersville, PA 18960
+Horsham, PA 19044
 
 Manufactured by:
 
@@ -18,4 +18,4 @@ DSM Pharmaceuticals, Inc.
 Greenville, NC 27834
 
 Rev.
-F 4/2011
+G 6/2011

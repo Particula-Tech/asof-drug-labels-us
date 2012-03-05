@@ -4,16 +4,10 @@
 
 NDC 57844-522-06
 
-PURINETHOL®
-
-(mercaptopurine)
-
-Each scored tablet contains:
-
-50 mg
+PURINETHOL® (mercaptopurine) Each scored tablet contains: 50 mg
 
 Rx only
 
 60 Tablets
 
-GATE
+TEVA
