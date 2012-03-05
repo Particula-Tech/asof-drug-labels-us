@@ -131,7 +131,6 @@ Do not take PAXIL if you:
   - rapid changes in heart rate or blood pressure
   - confusion
   - loss of consciousness (pass out)
-
 - take MELLARIL® (thioridazine).
   Do not take MELLARIL® together with PAXIL because this can cause serious heart rhythm problems or sudden death.
 - take the antipsychotic medicine pimozide (ORAP®) because this can cause serious heart problems.

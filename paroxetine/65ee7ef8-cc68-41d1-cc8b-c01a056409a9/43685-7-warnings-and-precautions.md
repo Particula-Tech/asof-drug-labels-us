@@ -93,12 +93,10 @@ The findings from these studies are summarized below:
   No increase in the risk of overall congenital malformations was seen in the paroxetine-exposed infants.
   The cardiac malformations in the paroxetine-exposed infants were primarily ventricular septal defects (VSDs) and atrial septal defects (ASDs).
   Septal defects range in severity from those that resolve spontaneously to those which require surgery.
-
 - A separate retrospective cohort study from the United States (United Healthcare data) evaluated 5,956 infants of mothers dispensed antidepressants during the first trimester (n = 815 for paroxetine).
   This study showed a trend towards an increased risk for cardiovascular malformations for paroxetine (risk of 1.5%) compared to other antidepressants (risk of 1%), for an OR of 1.5 (95% confidence interval 0.8 to 2.9).
   Of the 12 paroxetine-exposed infants with cardiovascular malformations, 9 had VSDs.
   This study also suggested an increased risk of overall major congenital malformations including cardiovascular defects for paroxetine (4% risk) compared to other (2% risk) antidepressants (OR 1.8; 95% confidence interval 1.2 to 2.8).
-
 - Two large case-control studies using separate databases, each with >9,000 birth defect cases and >4,000 controls, found that maternal use of paroxetine during the first trimester of pregnancy was associated with a 2- to 3-fold increased risk of right ventricular outflow tract obstructions.
   In one study the odds ratio was 2.5 (95% confidence interval, 1.0 to 6.0, 7 exposed infants) and in the other study the odds ratio was 3.3 (95% confidence interval, 1.3 to 8.8, 6 exposed infants).
 
@@ -273,7 +271,7 @@ Although PAXIL has not been shown to increase the impairment of mental and motor
 
 ### Pregnancy
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy (see WARNINGS: Usage in Pregnancy: Teratogenic Effects and Nonteratogenic Effects).
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy (see WARNINGS: Usage in Pregnancy: Teratogenic Effects andNonteratogenic Effects).
 
 ### Nursing
 
@@ -314,7 +312,7 @@ See CONTRAINDICATIONS and WARNINGS.
 ### Warfarin
 
 Preliminary data suggest that there may be a pharmacodynamic interaction (that causes an increased bleeding diathesis in the face of unaltered prothrombin time) between paroxetine and warfarin.
-Since there is little clinical experience, the concomitant administration of PAXIL and warfarin should be undertaken with caution (see PRECAUTIONS: Drugs That Interfere With Hemostasis).
+Since there is little clinical experience, the concomitant administration of PAXIL and warfarin should be undertaken with caution (see PRECAUTIONS: Drugs That Interfere WithHemostasis).
 
 ### Triptans
 
