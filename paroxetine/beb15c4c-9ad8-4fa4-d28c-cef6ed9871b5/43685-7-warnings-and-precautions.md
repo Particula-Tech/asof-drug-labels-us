@@ -93,7 +93,6 @@ The findings from these studies are summarized below:
   No increase in the risk of overall congenital malformations was seen in the paroxetine-exposed infants.
   The cardiac malformations in the paroxetine-exposed infants were primarily ventricular septal defects (VSDs) and atrial septal defects (ASDs).
   Septal defects range in severity from those that resolve spontaneously to those which require surgery.
-
 - A separate retrospective cohort study from the United States (United Healthcare data) evaluated 5,956 infants of mothers dispensed antidepressants during the first trimester (n = 815 for paroxetine).
   This study showed a trend towards an increased risk for cardiovascular malformations for paroxetine (risk of 1.5%) compared to other antidepressants (risk of 1%), for an OR of 1.5 (95% confidence interval 0.8 to 2.9).
   Of the 12 paroxetine-exposed infants with cardiovascular malformations, 9 had VSDs.
