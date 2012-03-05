@@ -2,16 +2,16 @@
 
 ## 8.1 Pregnancy
 
-Category C: There are no adequate and well‑controlled studies of rituximab in pregnant women.
-Postmarketing data indicate that B‑cell lymphocytopenia generally lasting less than six months can occur in infants exposed to rituximab in‑utero.
-Rituximab was detected postnatally in the serum of infants exposed in‑utero.
+Category C: There are no adequate and well-controlled studies of rituximab in pregnant women.
+Postmarketing data indicate that B-cell lymphocytopenia generally lasting less than six months can occur in infants exposed to rituximab in-utero.
+Rituximab was detected postnatally in the serum of infants exposed in-utero.
 
-Non‑Hodgkin’s lymphoma, moderate‑severe rheumatoid arthritis, Wegener’s Granulomatosis and Microscopic Polyangiitis are serious conditions that require treatment.
+Non-Hodgkin's lymphoma, moderate-severe rheumatoid arthritis, Wegener's Granulomatosis and Microscopic Polyangiitis are serious conditions that require treatment.
 Rituximab should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
 
 Reproduction studies in cynomolgus monkeys at maternal exposures similar to human therapeutic exposures showed no evidence of teratogenic effects.
-However, B‑cell lymphoid tissue was reduced in the offspring of treated dams.
-The B‑cell counts returned to normal levels, and immunologic function was restored within 6 months of birth [See Non-Clinical Toxicology (13.2)].
+However, B-cell lymphoid tissue was reduced in the offspring of treated dams.
+The B-cell counts returned to normal levels, and immunologic function was restored within 6 months of birth [see Non-Clinical Toxicology (13.2)].
 
 ## 8.3 Nursing Mothers
 
@@ -36,12 +36,12 @@ No overall differences in effectiveness were observed between these patients and
 Cardiac adverse reactions, mostly supraventricular arrhythmias, occurred more frequently among elderly patients.
 Serious pulmonary adverse reactions were also more common among the elderly, including pneumonia and pneumonitis.
 
-Low‑Grade or Follicular Non‑Hodgkin’s Lymphoma
+Low-Grade or Follicular Non-Hodgkin's Lymphoma
 
 Patients with previously untreated follicular NHL evaluated in Study 5 were randomized to Rituxan as single-agent maintenance therapy (n = 505) or observation (n = 513) after achieving a response to Rituxan in combination with chemotherapy.
 Of these, 123 (24%) patients in the Rituxan arm were age 65 or older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.
-Other clinical studies of Rituxan in low‑grade or follicular, CD20‑positive, B‑cell NHL did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger subjects.
+Other clinical studies of Rituxan in low-grade or follicular, CD20-positive, B-cell NHL did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger subjects.
 
 Chronic Lymphocytic Leukemia
 
@@ -59,7 +59,7 @@ Among the 2578 patients in global RA studies completed to date, 12% were 65–75
 The incidences of adverse reactions were similar between older and younger patients.
 The rates of serious adverse reactions, including serious infections, malignancies, and cardiovascular events were higher in older patients.
 
-Wegener’s Granulomatosis and Microscopic Polyangiitis
+Wegener's Granulomatosis and Microscopic Polyangiitis
 
 Of the 99 Rituxan-treated WG and MPA patients, 36 (36%) were 65 years old and over, while 8 (8%) were 75 years and over.
 No overall differences in efficacy were observed between patients that were 65 years old and over and younger patients.
