@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information)
+See FDA-approved patient labeling (Patient Information)
 
 Information For Patients
 
@@ -23,11 +23,17 @@ Patients should not alter the dose or discontinue therapy without consulting wit
 If a dose of NORVIR is missed patients should take the dose as soon as possible and then return to their normal schedule.
 However, if a dose is skipped the patient should not double the next dose.
 
- NORVIR is not a cure for HIV-1 infection and that they may continue to develop opportunistic infections and other complications associated with HIV-1 disease.
-The long-term effects of NORVIR are unknown at this time.
-Patients should be told that there are currently no data demonstrating that therapy with NORVIR can reduce the risk of transmitting HIV-1 to others through sexual contact, sharing needles, or being exposed to their blood.
-For their health and the health of others, it is important that they always practice safer sex by using a latex or polyurethane condom or other barrier method to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
-They should also be advised to never re-use or share needles.
+ NORVIR is not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
+Patients should remain under the care of a physician when using NORVIR.
+Patients should be advised to avoid doing things that can spread HIV-1 infection to others.
+
+- Do not share needles or other injection equipment.
+- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+- Do not have any kind of sex without protection.
+  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+- Do not breastfeed.
+  We do not know if NORVIR can be passed to the baby through breast milk and whether it could harm the baby.
+  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
 
  Sustained decreases in plasma HIV-1 RNA have been associated with a reduced risk of progression to AIDS and death.
 
@@ -46,7 +52,7 @@ Patients should be advised that their liver function tests will need to be monit
  Pancreatitis, including some fatalities, has been observed in patients receiving NORVIR therapy.
 Your patients should let you know of signs and symptoms (nausea, vomiting, and abdominal pain) that might be suggestive of pancreatitis.
 
- Skin rashes ranging in severity from mild to Stevens Johnson syndrome have been reported in patients receiving NORVIR.
+ Skin rashes ranging in severity from mild to Stevens-Johnson syndrome have been reported in patients receiving NORVIR.
 Patients should be advised to contact their healthcare provider if they develop a rash while taking NORVIR.
 The healthcare provider will determine if treatment should be continued or an alternative antiretroviral regimen used.
 
@@ -74,4 +80,4 @@ NORVIR tablets and oral solution are manufactured by:
 
 Abbott Laboratories
 
-North Chicago, IL 60064, U.S.A.
+North Chicago, IL 60064 USA

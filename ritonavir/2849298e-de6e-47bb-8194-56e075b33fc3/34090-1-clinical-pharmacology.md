@@ -9,7 +9,7 @@ Ritonavir is an antiviral drug [see Clinical Pharmacology (12.4)].
 The pharmacokinetics of ritonavir have been studied in healthy volunteers and HIV-infected patients (CD4 ≥50 cells/μL).
 See Table 6 for ritonavir pharmacokinetic characteristics.
 
-### Absorption
+Absorption
 
 The absolute bioavailability of ritonavir has not been determined.
 After a 600 mg dose of oral solution, peak concentrations of ritonavir were achieved approximately 2 hours and 4 hours after dosing under fasting and non-fasting (514 KCal; 9% fat, 12% protein, and 79% carbohydrate) conditions, respectively.
@@ -19,7 +19,7 @@ Under moderate fat conditions (857 kcal; 31% fat, 13% protein, 56% carbohydrates
 
 No information is available comparing NORVIR tablets to NORVIR capsules under fasting conditions.
 
-### Effect of Food on Oral Absorption
+Effect of Food on Oral Absorption
 
 When the oral solution was given under non-fasting conditions, peak ritonavir concentrations decreased 23% and the extent of absorption decreased 7% relative to fasting conditions.
 Dilution of the oral solution, within one hour of administration, with 240 mL of chocolate milk, Advera® or Ensure® did not significantly affect the extent and rate of ritonavir absorption.
@@ -32,14 +32,14 @@ Under moderate fat conditions, a 21% decrease in mean AUC(0-∞) [90% confidence
 
 However, the type of meal administered did not change ritonavir tablet bioavailability when high fat was compared to moderate fat meals.
 
-#### Metabolism
+Metabolism
 
 Nearly all of the plasma radioactivity after a single oral 600 mg dose of 14C-ritonavir oral solution (n = 5) was attributed to unchanged ritonavir.
 Five ritonavir metabolites have been identified in human urine and feces.
 The isopropylthiazole oxidation metabolite (M-2) is the major metabolite and has antiviral activity similar to that of parent drug; however, the concentrations of this metabolite in plasma are low.
 In vitro studies utilizing human liver microsomes have demonstrated that cytochrome P450 3A (CYP3A) is the major isoform involved in ritonavir metabolism, although CYP2D6 also contributes to the formation of M–2.
 
-#### Elimination
+Elimination
 
 In a study of five subjects receiving a 600 mg dose of 14C-ritonavir oral solution, 11.3 ± 2.8% of the dose was excreted into the urine, with 3.5 ± 1.8% of the dose excreted as unchanged parent drug.
 In that study, 86.4 ± 2.9% of the dose was excreted in the feces with 33.8 ± 10.8% of the dose excreted as unchanged parent drug.
@@ -61,7 +61,7 @@ Ritonavir Pharmacokinetic Characteristics
 | Percent Bound* |  | 98 to 99% |
 | † SS = steady state; patients taking ritonavir 600 mg q12h. ‡ Single ritonavir 600 mg dose. * Primarily bound to human serum albumin and alpha-1 acid glycoprotein over the ritonavir concentration range of 0.01 to 30 µg/mL. |  |  |
 
-### Effects on Electrocardiogram
+Effects on Electrocardiogram
 
 QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg once-daily) controlled crossover study in 45 healthy adults, with 10 measurements over 12 hours on Day 3.
 The maximum mean (95% upper confidence bound) time-matched difference in QTcF from placebo after baseline correction was 5.5 (7.6) milliseconds (msec) for 400 mg twice-daily ritonavir.
@@ -72,7 +72,7 @@ The maximum mean (95% confidence interval) difference from placebo in the PR int
 
 ### Special Populations
 
-#### Gender, Race and Age
+Gender, Race and Age
 
 No age-related pharmacokinetic differences have been observed in adult patients (18 to 63 years).
 Ritonavir pharmacokinetics have not been studied in older patients.
@@ -80,7 +80,7 @@ Ritonavir pharmacokinetics have not been studied in older patients.
 A study of ritonavir pharmacokinetics in healthy males and females showed no statistically significant differences in the pharmacokinetics of ritonavir.
 Pharmacokinetic differences due to race have not been identified.
 
-#### Pediatric Patients
+Pediatric Patients
 
 Steady-state pharmacokinetics were evaluated in 37 HIV-infected patients ages 2 to 14 years receiving doses ranging from 250 mg/m2 twice-daily to 400 mg/m2 twice-daily in PACTG Study 310, and in 41 HIV-infected patients ages 1 month to 2 years at doses of 350 and 450 mg/m2 twice-daily in PACTG Study 345.
 Across dose groups, ritonavir steady-state oral clearance (CL/F/m2) was approximately 1.5 to 1.7 times faster in pediatric patients than in adult subjects.
@@ -90,11 +90,11 @@ Higher ritonavir exposures were not evident with 450 mg/m2 twice-daily compared 
 Ritonavir trough concentrations were somewhat lower than those obtained in adults receiving 600 mg twice-daily.
 The area under the ritonavir plasma concentration time curve and trough concentrations obtained after administration with 350 or 450 mg/m2 twice-daily in children < 2 years were approximately 16% and 60% lower, respectively, than that obtained in adults receiving 600 mg twice daily.
 
-#### Renal Impairment
+Renal Impairment
 
 Ritonavir pharmacokinetics have not been studied in patients with renal impairment, however, since renal clearance is negligible, a decrease in total body clearance is not expected in patients with renal impairment.
 
-#### Hepatic Impairment
+Hepatic Impairment
 
 Dose-normalized steady-state ritonavir concentrations in subjects with mild hepatic impairment (400 mg twice-daily, n = 6) were similar to those in control subjects dosed with 500 mg twice-daily.
 Dose-normalized steady-state ritonavir exposures in subjects with moderate hepatic impairment (400 mg twice-daily, n= 6) were about 40% lower than those in subjects with normal hepatic function (500 mg twice-daily, n = 6).
@@ -103,9 +103,9 @@ No dose adjustment is recommended in patients with mild or moderate hepatic impa
 However, health care providers should be aware of the potential for lower ritonavir concentrations in patients with moderate hepatic impairment and should monitor patient response carefully.
 Ritonavir has not been studied in patients with severe hepatic impairment.
 
-### Drug Interactions
+Drug Interactions
 
-[see also Contraindications (4) and Warnings and Precautions (5.1)]
+[see also Contraindications (4)and Warnings and Precautions (5.1)]
 
 Table 7 and Table 8 summarize the effects on AUC and Cmax, with 95% confidence intervals (95% CI), of co-administration of ritonavir with a variety of drugs.
 For information about clinical recommendations see Table 5 in Drug Interactions (7).
@@ -155,12 +155,12 @@ Drug Interactions - Pharmacokinetic Parameters for Co-administered Drug in the P
 
 ## 12.4 Microbiology
 
-### Mechanism of Action
+Mechanism of Action
 
 Ritonavir is a peptidomimetic inhibitor of the HIV-1 protease.
 Inhibition of HIV protease renders the enzyme incapable of processing the gag-pol polyprotein precursor which leads to production of non-infectious immature HIV particles.
 
-### Antiviral Activity in Cell Culture
+Antiviral Activity in Cell Culture
 
 The activity of ritonavir was assessed in acutely infected lymphoblastoid cell lines and in peripheral blood lymphocytes.
 The concentration of drug that inhibits 50% (EC50) of viral replication ranged from 3.8 to 153 nM depending upon the HIV-1 isolate and the cells employed.
@@ -168,7 +168,7 @@ The average EC50 value for low passage clinical isolates was 22 nM (n = 13).
 In MT4 cells, ritonavir demonstrated additive effects against HIV-1 in combination with either didanosine (ddI) or zidovudine (ZDV).
 Studies which measured cytotoxicity of ritonavir on several cell lines showed that > 20 µM was required to inhibit cellular growth by 50% resulting in a cell culture therapeutic index of at least 1000.
 
-### Resistance
+Resistance
 
 HIV-1 isolates with reduced susceptibility to ritonavir have been selected in cell culture.
 Genotypic analysis of these isolates showed mutations in the HIV-1 protease gene leading to amino acid substitutions I84V, V82F, A71V, and M46I.
@@ -179,7 +179,7 @@ All 18 patients possessed one or more substitutions in the viral protease gene.
 The V82A/F substitution appeared to be necessary but not sufficient to confer phenotypic resistance.
 Phenotypic resistance was defined as a ≥ 5-fold decrease in viral sensitivity in cell culture from baseline.
 
-### Cross-Resistance to Other Antiretrovirals
+Cross-Resistance to Other Antiretrovirals
 
 Among protease inhibitors variable cross-resistance has been recognized.
 Serial HIV-1 isolates obtained from six patients during ritonavir therapy showed a decrease in ritonavir susceptibility in cell culture but did not demonstrate a concordant decrease in susceptibility to saquinavir in cell culture when compared to matched baseline isolates.

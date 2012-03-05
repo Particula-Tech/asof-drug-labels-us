@@ -11,7 +11,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 When co-administering NORVIR with other protease inhibitors, see the full prescribing information for that protease inhibitor including adverse reactions.
 
-## 6.1 Adults — Clinical Trials Experience
+## 6.1 Adults - Clinical Trials Experience
 
 The safety of NORVIR alone and in combination with nucleoside reverse transcriptase inhibitors was studied in 1270 adult patients.
 Table 3 lists treatment-emergent adverse events (at least possibly related and of at least moderate intensity) that occurred in 2% or greater of adult patients receiving NORVIR alone or in combination with nucleoside reverse transcriptase inhibitors in Study 245 or Study 247 and in combination with saquinavir in study 462.
@@ -74,55 +74,55 @@ Percentage of Patients with Treatment-emergent Adverse Events1 of Moderate or Se
 
 Adverse events occurring in less than 2% of adult patients receiving NORVIR in all phase II/phase III studies and considered at least possibly related or of unknown relationship to treatment and of at least moderate intensity are listed below by body system.
 
-### Body as a Whole
+Body as a Whole
 
 Abdomen enlarged, accidental injury, allergic reaction, back pain, cachexia, chest pain, chills, facial edema, facial pain, flu syndrome, hormone level altered, hypothermia, kidney pain, neck pain, neck rigidity, pelvic pain, photosensitivity reaction, and substernal chest pain.
 
-### Cardiovascular System
+Cardiovascular System
 
 Cardiovascular disorder, cerebral ischemia, cerebral venous thrombosis, hypertension, hypotension, migraine, myocardial infarct, palpitation, peripheral vascular disorder, phlebitis, postural hypotension, tachycardia and vasospasm.
 
-### Digestive System
+Digestive System
 
 Abnormal stools, bloody diarrhea, cheilitis, cholestatic jaundice, colitis, dry mouth, dysphagia, eructation, esophageal ulcer, esophagitis, gastritis, gastroenteritis, gastrointestinal disorder, gastrointestinal hemorrhage, gingivitis, hepatic coma, hepatitis, hepatomegaly, hepatosplenomegaly, ileus, liver damage, melena, mouth ulcer, pancreatitis, pseudomembranous colitis, rectal disorder, rectal hemorrhage, sialadenitis, stomatitis, tenesmus, thirst, tongue edema, and ulcerative colitis.
 
-### Endocrine System
+Endocrine System
 
 Adrenal cortex insufficiency and diabetes mellitus.
 
-### Hemic and Lymphatic System
+Hemic and Lymphatic System
 
 Acute myeloblastic leukemia, anemia, ecchymosis, leukopenia, lymphadenopathy, lymphocytosis, myeloproliferative disorder, and thrombocytopenia.
 
-### Metabolic and Nutritional Disorders
+Metabolic and Nutritional Disorders
 
 Albuminuria, alcohol intolerance, avitaminosis, BUN increased, dehydration, edema, enzymatic abnormality, glycosuria, gout, hypercholesteremia, peripheral edema, and xanthomatosis.
 
-### Musculoskeletal System
+Musculoskeletal System
 
 Arthritis, arthrosis, bone disorder, bone pain, extraocular palsy, joint disorder, leg cramps, muscle cramps, muscle weakness, myositis, and twitching.
 
-### Nervous System
+Nervous System
 
 Abnormal dreams, abnormal gait, agitation, amnesia, aphasia, ataxia, coma, convulsion, dementia, depersonalization, diplopia, emotional lability, euphoria, grand mal convulsion, hallucinations, hyperesthesia, hyperkinesia, hypesthesia, incoordination, libido decreased, manic reaction, nervousness, neuralgia, neuropathy, paralysis, peripheral neuropathic pain, peripheral neuropathy, peripheral sensory neuropathy, personality disorder, sleep disorder, speech disorder, stupor, subdural hematoma, tremor, urinary retention, vertigo, and vestibular disorder.
 
-### Respiratory System
+Respiratory System
 
 Asthma, bronchitis, dyspnea, epistaxis, hiccup, hypoventilation, increased cough, interstitial pneumonia, larynx edema, lung disorder, rhinitis, and sinusitis.
 
-### Skin and Appendages
+Skin and Appendages
 
 Acne, contact dermatitis, dry skin, eczema, erythema multiforme, exfoliative dermatitis, folliculitis, fungal dermatitis, furunculosis, maculopapular rash, molluscum contagiosum, onychomycosis, pruritus, psoriasis, pustular rash, seborrhea, skin discoloration, skin disorder, skin hypertrophy, skin melanoma, urticaria, and vesiculobullous rash.
 
-### Special Senses
+Special Senses
 
 Abnormal electro-oculogram, abnormal electroretinogram, abnormal vision, amblyopia/blurred vision, blepharitis, conjunctivitis, ear pain, eye disorder, eye pain, hearing impairment, increased cerumen, iritis, parosmia, photophobia, taste loss, tinnitus, uveitis, visual field defect, and vitreous disorder.
 
-### Urogenital System
+Urogenital System
 
 Acute kidney failure, breast pain, cystitis, dysuria, hematuria, impotence, kidney calculus, kidney failure, kidney function abnormal, kidney pain, menorrhagia, penis disorder, polyuria, urethritis, urinary frequency, urinary tract infection, and vaginitis.
 
-#### Laboratory Abnormalities
+Laboratory Abnormalities
 
 Table 4 shows the percentage of adult patients who developed marked laboratory abnormalities.
 
@@ -157,7 +157,7 @@ The adverse event profile observed during pediatric clinical trials was similar 
 
 Vomiting, diarrhea, and skin rash/allergy were the only drug-related clinical adverse events of moderate to severe intensity observed in ≥ 2% of pediatric patients enrolled in NORVIR clinical trials.
 
-### Laboratory Abnormalities
+Laboratory Abnormalities
 
 The following Grade 3-4 laboratory abnormalities occurred in > 3% of pediatric patients who received treatment with NORVIR either alone or in combination with reverse transcriptase inhibitors: neutropenia (9%), hyperamylasemia (7%), thrombocytopenia (5%), anemia (4%), and elevated AST (3%).
 
@@ -166,29 +166,29 @@ The following Grade 3-4 laboratory abnormalities occurred in > 3% of pediatric p
 The following adverse events (not previously mentioned in the labeling) have been reported during post-marketing use of NORVIR.
 Because these reactions are reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to NORVIR exposure.
 
-### Body as a Whole
+Body as a Whole
 
 Dehydration, usually associated with gastrointestinal symptoms, and sometimes resulting in hypotension, or renal insufficiency has been reported.
 Syncope, orthostatic hypotension, and renal insufficiency have also been reported without known dehydration.
 
 Co-administration of ritonavir with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system.
 
-### Cardiovascular System
+Cardiovascular System
 
-First – degree AV block, second-degree AV block, third-degree AV block, right bundle branch block have been reported [see Warnings and Precautions (5.5)].
+First-degree AV block, second-degree AV block, third-degree AV block, right bundle branch block have been reported [see Warnings and Precautions (5.5)].
 
 Cardiac and neurologic events have been reported when ritonavir has been co-administered with disopyramide, mexiletine, nefazodone, fluoxetine, and beta blockers.
 The possibility of drug interaction cannot be excluded.
 
-### Endocrine System
+Endocrine System
 
 Cushing's syndrome and adrenal suppression have been reported when ritonavir has been co-administered with fluticasone propionate.
 
-### Nervous System
+Nervous System
 
 There have been postmarketing reports of seizure.
 Also, see Cardiovascular System.
 
-### Skin and subcutaneous tissue disorders
+Skin and subcutaneous tissue disorders
 
 Toxic epidermal necrolysis (TEN) has been reported.

@@ -11,13 +11,13 @@ The potential for drug-drug interactions must be considered prior to and during 
 Review of other medications taken by patients and monitoring of patients for adverse effects is recommended during therapy with NORVIR.
 
 See Table 2 for a listing of drugs that are contraindicated with NORVIR due to potentially life-threatening adverse events, significant drug interactions, or loss of virologic activity.
-Also, see Table 5 for a listing of drugs with established and other significant drug interactions [see Contraindications (4) and Drug Interactions (7)].
+Also, see Table 5 for a listing of drugs with established and other significant drug interactions [see Contraindications (4)and Drug Interactions (7)].
 
 ## 5.2 Hepatic Reactions
 
 Hepatic transaminase elevations exceeding 5 times the upper limit of normal, clinical hepatitis, and jaundice have occurred in patients receiving NORVIR alone or in combination with other antiretroviral drugs (see Table 4).
 There may be an increased risk for transaminase elevations in patients with underlying hepatitis B or C. Therefore, caution should be exercised when administering NORVIR to patients with pre-existing liver diseases, liver enzyme abnormalities, or hepatitis.
-Increased AST/ALT monitoring should be considered in these patients, especially during the first three months of NORVIR treatment [see Use In Specific Populations (8.6)].
+Increased AST/ALT monitoring should be considered in these patients, especially during the first three months of NORVIR treatment [see Use in Specific Populations (8.6)].
 
 There have been postmarketing reports of hepatic dysfunction, including some fatalities.
 These have generally occurred in patients taking multiple concomitant medications and/or with advanced AIDS.
@@ -26,7 +26,7 @@ These have generally occurred in patients taking multiple concomitant medication
 
 Pancreatitis has been observed in patients receiving NORVIR therapy, including those who developed hypertriglyceridemia.
 In some cases fatalities have been observed.
-Patients with advanced HIV disease may be at increased risk of elevated triglycerides and pancreatitis [see Warnings and Precautions (5.8)].
+Patients with advanced HIV disease may be at increased risk of elevated triglycerides and pancreatitis [see Warnings and Precautions (5.6)].
 Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdominal pain) or abnormalities in laboratory values (such as increased serum lipase or amylase values) suggestive of pancreatitis should occur.
 Patients who exhibit these signs or symptoms should be evaluated and NORVIR therapy should be discontinued if a diagnosis of pancreatitis is made.
 
@@ -45,14 +45,13 @@ NORVIR should be used with caution in patients with underlying structural heart 
 
 The impact on the PR interval of co-administration of ritonavir with other drugs that prolong the PR interval (including calcium channel blockers, beta-adrenergic blockers, digoxin and atazanavir) has not been evaluated.
 As a result, co-administration of ritonavir with these drugs should be undertaken with caution, particularly with those drugs metabolized by CYP3A.
-Clinical monitoring is recommended.
-[see Clinical Pharmacology (12.3)].
+Clinical monitoring is recommended [see Clinical Pharmacology (12.3)].
 
 ## 5.6 Lipid Disorders
 
 Treatment with NORVIR therapy alone or in combination with saquinavir has resulted in substantial increases in the concentration of total cholesterol and triglycerides [see Adverse Reactions (6.1)].
 Triglyceride and cholesterol testing should be performed prior to initiating NORVIR therapy and at periodic intervals during therapy.
-Lipid disorders should be managed as clinically appropriate, taking into account any potential drug-drug interactions with NORVIR and HMG CoA reductase inhibitors [see Contraindications (4) and Drug Interactions (7)].
+Lipid disorders should be managed as clinically appropriate, taking into account any potential drug-drug interactions with NORVIR and HMG CoA reductase inhibitors [see Contraindications (4)and Drug Interactions (7)].
 
 ## 5.7 Diabetes Mellitus/Hyperglycemia
 
@@ -66,6 +65,8 @@ Because these events have been reported voluntarily during clinical practice, es
 
 Immune reconstitution syndrome has been reported in HIV-infected patients treated with combination antiretroviral therapy, including NORVIR.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jiroveci pneumonia, or tuberculosis), which may necessitate further evaluation and treatment.
+
+Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
 ## 5.9 Fat Redistribution
 

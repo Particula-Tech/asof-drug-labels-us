@@ -20,9 +20,9 @@ Physicians are encouraged to register patients by calling 1–800–258–4263.
 
 ## 8.3 Nursing Mothers
 
-The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breast-feed their infants to avoid risking postnatal transmission of HIV.
+The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
 It is not known whether ritonavir is secreted in human milk.
-Because of both the potential for HIV transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breast-feed if they are receiving NORVIR.
+Because of both the potential for HIV transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are receiving NORVIR.
 
 ## 8.4 Pediatric Use
 

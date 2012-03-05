@@ -1,16 +1,16 @@
 Patient Information
 
-NORVIR® (NOR - VEER)
+NORVIR® (NOR-VEER)
 
 (ritonavir)
 
 Tablet
 
-NORVIR® (NOR - VEER)
+NORVIR® (NOR-VEER)
 
 (ritonavir)
 
-Oral solution
+Oral Solution
 
 Read this Patient Information before you start taking NORVIR and each time you get a refill.
 There may be new information.
@@ -34,15 +34,15 @@ Reducing the amount of HIV and increasing the CD4 (T) cell count may improve you
 This may reduce your risk of death or infections that can happen when your immune system is weak (opportunistic infections).
 Patients who took NORVIR in clinical studies had significant reductions in both death and AIDS defining diseases; however NORVIR may not have these effects in all patients.
 
-NORVIR does not cure HIV infection or AIDS.
-People taking NORVIR may still develop infections or other conditions associated with HIV infection.
-Some of these conditions are pneumonia, herpes virus infections, and Mycobacterium avium complex (MAC) infections.
+NORVIR does not cure HIV infection or AIDS and you may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
+You should remain under the care of a doctor when using NORVIR.
 
-Patients must stay on continuous HIV treatment to control infection and decrease HIV-related illnesses.
-Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
-Never re-use or share needles.
+Avoid doing things that can spread HIV-1 infection.
 
-Ask your doctor if you have any questions on how to prevent passing HIV to other people.
+- Do not share needles or other injection equipment.
+- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+- Do not have any kind of sex without protection.
+  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 
 Who should not take NORVIR?
 
@@ -53,7 +53,7 @@ Do not take NORVIR with any of the following medicines:
 
 - alfuzosin (Uroxatral)
 - amiodarone (Cordarone, Nexterone, Pacerone), flecainide (Tambocor), propafenone (Rhythmol) or quinidine (Nuedext, Quinaglute, Cardioquin, Quinidex, and others)
-- voriconazole (VFend) if Norvir dose is 400 mg every 12 hours or greater
+- voriconazole (VFend) if NORVIR dose is 400 mg every 12 hours or greater
 - dihydroergotamine (D.H.E.
   45, Embolex, Migranal), ergonovine, ergotamine (Cafergot, Ergomar) methylergonovine (Methergine)
 - cisapride (Propulsid)
@@ -78,11 +78,10 @@ Before taking NORVIR, tell your doctor if you:
   Pregnancy Registry: You and your doctor will need to decide if taking NORVIR is right for you.
   If you take NORVIR while you are pregnant, talk to your doctor about how you can take part in the Antiretroviral Pregnancy Registry.
   The purpose of the registry is to follow the health of you and your baby.
-- are breastfeeding or plan to breastfeed.
-  Do not breastfeed if you are taking NORVIR.
-  You should not breastfeed if you have HIV because of the chance of passing HIV to your baby.
-  Talk with your doctor about the best way to feed your baby.
-  The Centers for Disease Control and Prevention (CDC) recommends that HIV-infected mothers not breastfeed to avoid the risk of passing HIV infection to your baby.
+- are breastfeeding.
+  Do not breastfeed.
+  We do not know if NORVIR can be passed to the baby through your breast milk and whether it could harm the baby.
+  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
 
 Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Taking NORVIR and certain other medicines may affect each other causing serious side effects.
@@ -93,7 +92,7 @@ Especially tell your doctor if you take:
 - medicine to treat HIV
 - estrogen-based contraceptives (birth control).
   NORVIR might reduce the effectiveness of estrogen-based contraceptives.
-  You must take additional precautions for birth control such as a condom.
+  You must take additional precautions for birth control such as a condom
 - medicine for pain such as tramadol (Ryzolt, Ultracet, Conzip, Ultram), propoxyphene, or meperidine (Demerol)
 - medicine to treat alcohol abuse such as disulfiram (Antabuse)
 - medicine for your heart such as disopyramide (Norpace), lidocaine (Xylocaine Viscous), mexiletine, digoxin (Lanoxin), nifedipine (Procardia, Adalat, Afeditab CR), diltiazem (Cardizem, Dilacor, Cartia, Diltzac, Dilt, Taztia, Tiazac) or verapamil (Calan, Covera, Isoptin, Tarka, Verelan)
@@ -109,7 +108,7 @@ Especially tell your doctor if you take:
 - medicine used to treat blood pressure, a heart attack, heart failure, or to lower pressure in the eye such as metoprolol (Lopressor, Toprol-XL), timolol (Cosopt, Betimol, Timoptic, Isatolol, Combigan)
 - medicine for lung disease such as theophylline and salmeterol (Serevent)
 - bosentan (Tracleer)
-- medicine to prevent organ transplant failure such as cyclosporine (Gengraf, Sandimmune,Neoral), tacrolimus (Prograf,) sirolimus (Rapamune)
+- medicine to prevent organ transplant failure such as cyclosporine (Gengraf, Sandimmune, Neoral), tacrolimus (Prograf,) sirolimus (Rapamune)
 - steroids such as dexamethasone, fluticasone (Advair Diskus, Veramyst, Flovent, Flonase) or prednisone
 - a narcotic medicine such as methadone (Methadose, Dolophine Hydrochloride) or fentanyl (Abstral, Actiq, Fentora, Lazanda, Onsolis, Duragesic)
 - medicine to treat schizophrenia such as risperidone (Risperdal) or thioridazine
@@ -119,7 +118,7 @@ Especially tell your doctor if you take:
 - cholesterol lowering medicine such as atorvastatin (Lipitor) or rosuvasatin (Crestor)
 
 This is not a complete list of medicines that you should tell your doctor that you are taking.
-Ask your doctor, provider, or pharmacist if you are not sure if your medicine is one that is listed above.
+Ask your doctor, provider or pharmacist if you are not sure if your medicine is one that is listed above.
 
 Know the medicines you take.
 Keep a list of them to show your doctor or pharmacist when you get a new medicine.
@@ -164,14 +163,12 @@ NORVIR can cause serious side effects including:
   - pain or tenderness on your right side below your ribs
   - yellowing of your skin or whites of your eyes
   - itchy skin
-
 - Swelling of your pancreas (Pancreatitis).
   NORVIR can cause serious pancreas problems, which may lead to death.
   Tell your doctor right away if you have signs or symptoms of pancreatitis such as:
   - nausea
   - vomiting
   - stomach (abdominal) pain
-
 - Allergic Reactions.
   Sometimes these allergic reactions can become severe and require treatment in a hospital.
   You should call your doctor right away if you develop a rash.
@@ -186,7 +183,6 @@ NORVIR can cause serious side effects including:
   - muscle or joint pain
   - blisters or skin lesions
   - mouth sores or ulcers
-
 - Changes in the electrical activity of your heart called PR prolongation.
   PR prolongation can cause irregular heartbeats.
   Tell your doctor right away if you have symptoms such as:
@@ -194,10 +190,9 @@ NORVIR can cause serious side effects including:
   - lightheadedness
   - feel faint or pass out
   - abnormal heart beat
-
 - Increase in cholesterol and triglyceride levels.
   Treatment with NORVIR may increase your blood levels of cholesterol and triglycerides.
-  Your doctor should do blood test before you start your treatment with NORVIR and regularly to check for an increase in your cholesterol and triglycerides levels.
+  Your doctor should do blood tests before you start your treatment with NORVIR and regularly to check for an increase in your cholesterol and triglycerides levels.
 - Diabetes and high blood sugar (hyperglycemia).
   Some people who take protease inhibitors including NORVIR can get high blood sugar, develop diabetes, or your diabetes can get worse.
   Tell your doctor if you notice an increase in thirst or urinate often while taking NORVIR.
@@ -209,7 +204,6 @@ NORVIR can cause serious side effects including:
   The changes may include an increase amount of fat in the upper back and neck (“buffalo hump”), breast, and around the back and stomach area.
   Loss of fat from the legs, arms, and face may also happen.
   The exact cause and long-term health effects of these conditions are not known.
-
 - Increased bleeding for hemophiliacs.
   Some people with hemophilia have increased bleeding with protease inhibitors including NORVIR.
 
@@ -231,10 +225,8 @@ If a toddler or young child accidentally drinks more than the recommended dose o
 Contact your local poison control center or emergency room immediately if this happens.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
-
 These are not all of the possible side effects of NORVIR.
 For more information, ask your doctor or pharmacist.
-
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
@@ -266,23 +258,15 @@ What are the ingredients in NORVIR?
 
 Active ingredient: ritonavir
 
-Inactive ingredients:
-
-NORVIR Tablet: copovidone, anhydrous dibasic calcium phosphate, sorbitan monolaurate, colloidal silicon dioxide, and sodium stearyl fumarate.
+Inactive ingredients: NORVIR Tablet: copovidone, anhydrous dibasic calcium phosphate, sorbitan monolaurate, colloidal silicon dioxide, and sodium stearyl fumarate.
 The film coating contains: hypromellose, titanium dioxide, polyethylene glycol 400, hydroxypropyl cellulose, talc, polyethylene glycol 3350, colloidal silicon dioxide, and polysorbate 80.
-
 NORVIR Oral Solution: ethanol, water, polyoxyl 35 castor oil, propylene glycol, anhydrous citric acid to adjust pH, saccharin sodium, peppermint oil, creamy caramel flavoring, and FD&C Yellow No. 6.
-
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-NORVIR tablets and oral solution are manufactured by:
-
-Abbott Laboratories
-
-North Chicago, IL 60064, U.S.A.
+NORVIR tablets and oral solution are manufactured by: Abbott Laboratories North Chicago, IL 60064 USA
 
 * The brands listed are trademarks of their respective owners and are not trademarks of Abbott Laboratories.
 The makers of these brands are not affiliated with and do not endorse Abbott Laboratories or its products.
 
 Rev.
-12/2011
+02/2012
