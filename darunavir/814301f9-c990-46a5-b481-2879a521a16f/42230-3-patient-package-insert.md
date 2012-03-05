@@ -57,18 +57,15 @@ This may reduce your risk of death or infections that can happen when your immun
 
 Children under 3 years of age should not take PREZISTA.
 
-PREZISTA does not cure HIV infection or AIDS.
-People taking PREZISTA may still develop infections or other conditions associated with HIV infection, including opportunistic infections (e.g., pneumonia and herpes virus infections).
+PREZISTA does not cure HIV infection or AIDS and you may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
+You should remain under the care of a doctor when using PREZISTA.
 
-Patients must stay on continuous HIV therapy to control infection and decrease HIV-related illnesses.
-
-Avoid doing things that can spread HIV infection.
+Avoid doing things that can spread HIV-1 infection.
 
 - Do not share needles or other injection equipment.
 - Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
 - Do not have any kind of sex without protection.
-  Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
-  Never re-use or share needles.
+  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 
 Ask your healthcare provider if you have any questions on how to prevent passing HIV to other people.
 
@@ -104,10 +101,9 @@ Before taking PREZISTA, tell your healthcare provider if you:
   If you take PREZISTA while you are pregnant, talk to your healthcare provider about how you can be included in the Antiretroviral Pregnancy Registry.
   The purpose of the registry is follow the health of you and your baby.
 - are breastfeeding or plan to breastfeed.
-  Do not breastfeed if you are taking PREZISTA.
-  You should not breastfeed if you have HIV because of the chance of passing HIV to your baby.
-  Talk with your healthcare provider about the best way to feed your baby.
-  The Centers for Disease Control and Prevention (CDC) recommends that HIV-infected mothers not breastfeed to avoid the risk of passing HIV infection to your baby.
+  Do not breastfeed.
+  We do not know if PREZISTA can be passed to your baby in your breast milk and whether it could harm your baby.
+  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
 
 Tell your healthcare provider about all the medicines you take including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Using PREZISTA and certain other medicines may affect each other causing serious side effects.
@@ -138,7 +134,7 @@ Especially tell your healthcare provider if you take:
 - salmeterol (Advair®, Serevent®)
 - medicine for narcotic withdrawal such as methadone (Methadose®, Dolophine Hydrochloride), buprenorphine (Butrans®, Buprenex®, Subutex®), buprenorphine/naloxone (Suboxone®)
 - medicine to treat schizophrenia such as risperidone (Risperdal®), thioridazine
-- medicine to treat erectile dysfuntion or pulmonary hypertension such as sildenafil (Viagra®, Revatio®), vardenafil (Levitra®, Staxyn®), tadalafil (Cialis®, Adcirca®)
+- medicine to treat erectile dysfunction or pulmonary hypertension such as sildenafil (Viagra®, Revatio®), vardenafil (Levitra®, Staxyn®), tadalafil (Cialis®, Adcirca®)
 - medicine to treat anxiety, depression or panic disorder such as sertraline (Zoloft®), paroxetine (Paxil®)
 
 This is not a complete list of medicines that you should tell your healthcare provider that you are taking.
@@ -276,4 +272,4 @@ PREZISTA® is a registered trademark of Janssen Pharmaceuticals
 
 © Janssen Pharmaceuticals, Inc. 2006
 
-Revised: December 2011
+Revised: February 2012

@@ -7,14 +7,18 @@ A Patient Package Insert for PREZISTA is available for patient information.
 
 ## 17.1 Information About Therapy with PREZISTA
 
-Patients should be informed that PREZISTA is not a cure for HIV infection.
-Patients should stay on continuous HIV therapy to control HIV infection and decrease HIV-related illnesses.
+PREZISTA is not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
+Patients should remain under the care of a physician when using PREZISTA.
 
-Patients should be told that sustained decreases in plasma HIV RNA have been associated with a reduced risk of progression to AIDS and death.
-Patients should remain under the care of a physician while using PREZISTA.
-Patients should be advised to continue to practice safer sex and to use latex or polyurethane condoms to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions or blood.
-Patients should be advised never to share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
-Patients should be advised never to re-use or share needles.
+Patients should be advised to avoid doing things that can spread HIV-1 infection to others.
+
+- Do not share needles or other injection equipment.
+- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+- Do not have any kind of sex without protection.
+  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+- Do not breastfeed.
+  We do not know if PREZISTA can be passed to the baby through breast milk and whether it could harm the baby.
+  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
 
 ## 17.2 Instructions for Use
 

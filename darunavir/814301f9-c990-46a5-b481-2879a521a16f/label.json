@@ -15,12 +15,17 @@
   "products": [
     {
       "form": "SUSPENSION",
-      "generic": "darunavir ethanolate",
+      "generic": "darunavir",
       "name": "PREZISTA"
     },
     {
       "form": "TABLET, FILM COATED",
-      "generic": "darunavir ethanolate",
+      "generic": "darunavir",
+      "name": "PREZISTA"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "darunavire",
       "name": "PREZISTA"
     }
   ],

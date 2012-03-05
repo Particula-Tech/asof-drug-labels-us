@@ -58,7 +58,7 @@ PREZISTA® (darunavir) Oral Suspension
 
 100 mg per mL
 
-Store at 25°C (77°F) with excursions permitted to 15°-30°C (59°-86°F).
+Store at 25°C (77°F); with excursions permitted to 15°-30°C (59°-86°F).
 
 Do not refrigerate or freeze.
 

@@ -220,7 +220,7 @@ The pharmacokinetic exposure in co-infected subjects was comparable to that in s
 ## 6.5 Clinical Trials Experience: Pediatric Patients
 
 PREZISTA/ritonavir has been studied in combination with other antiretroviral agents in 2 Phase II trials.
-TMC114-C212, in which 80 antiretroviral treatment-experienced HIV-1-infected pediatric subjects 6 to less than 18 years of age and weighing at least 20 kg were included and TMC114-C228, in which 21 antiretroviral treatment-experienced HIV-1 infected pediatric subjects 3 to less than 6 years of age and weighing at least 10 kg were included [see Use in Specific Populations (8.4) and Clinical Studies (14.4)].
+TMC114-C212, in which 80 antiretroviral treatment-experienced HIV-1-infected pediatric subjects 6 to less than 18 years of age and weighing at least 20 kg were included and TMC114-C228, in which 21 antiretroviral treatment-experienced HIV-1-infected pediatric subjects 3 to less than 6 years of age and weighing at least 10 kg were included [see Use in Specific Populations (8.4) and Clinical Studies (14.4)].
 
 Frequency, type, and severity of ADRs in pediatric subjects were comparable to those observed in adults.
 

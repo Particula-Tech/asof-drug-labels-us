@@ -2,7 +2,7 @@
 
 ## 14.1 Description of Adult Clinical Studies
 
-The evidence of efficacy of PREZISTA/ritonavir is based on the analyses of 192-week data from a randomized, controlled open-label Phase 3 trial in treatment-naïve (TMC114-C211) HIV-1 infected adult subjects and 96-week data from a randomized, controlled, open-label Phase 3 trial in antiretroviral treatment-experienced (TMC114-C214) HIV-1-infected adult subjects.
+The evidence of efficacy of PREZISTA/ritonavir is based on the analyses of 192-week data from a randomized, controlled open-label Phase 3 trial in treatment-naïve (TMC114-C211) HIV-1-infected adult subjects and 96-week data from a randomized, controlled, open-label Phase 3 trial in antiretroviral treatment-experienced (TMC114-C214) HIV-1-infected adult subjects.
 In addition, 96-week data are included from 2 randomized, controlled Phase 2b trials, TMC114-C213 and TMC114-C202, in antiretroviral treatment-experienced HIV-1-infected adult subjects.
 
 ## 14.2 Treatment-Naïve Adult Subjects
@@ -63,7 +63,7 @@ In the 192 week analysis, statistical superiority of the PREZISTA/ritonavir regi
 
 Study TMC114-C229
 
-Study TMC114-C229 is a randomized, open-label trial comparing PREZISTA/ritonavir 800/100 mg once daily to PREZISTA/ritonavir 600/100 mg twice daily in treatment-experienced HIV-1 infected patients with screening genotype resistance test showing no darunavir resistance associated substitutions (i.e.
+Study TMC114-C229 is a randomized, open-label trial comparing PREZISTA/ritonavir 800/100 mg once daily to PREZISTA/ritonavir 600/100 mg twice daily in treatment-experienced HIV-1-infected patients with screening genotype resistance test showing no darunavir resistance associated substitutions (i.e.
 V11I, V32I, L33F, I47V, I50V, I54L, I54M, T74P, L76V, I84V, L89V) and a screening viral load of greater than 1,000 HIV-1 RNA copies/mL.
 Both arms used an optimized background regimen consisting of greater than or equal to 2 NRTIs selected by the investigator.
 
