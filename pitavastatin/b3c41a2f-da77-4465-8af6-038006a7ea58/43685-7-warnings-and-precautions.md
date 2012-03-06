@@ -14,7 +14,7 @@ LIVALO therapy should be discontinued if markedly elevated creatine kinase (CK) 
 LIVALO therapy should also be temporarily withheld in any patient with an acute, serious condition suggestive of myopathy or predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., sepsis, hypotension, dehydration, major surgery, trauma, severe metabolic, endocrine, and electrolyte disorders, or uncontrolled seizures).
 All patients should be advised to promptly report unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever.
 
-## 5.2 Liver Enzyme Abnormalities and Monitoring
+## 5.2 Liver Enzyme Abnormalities
 
 Increases in serum transaminases (aspartate aminotransferase [AST]/serum glutamic-oxaloacetic transaminase, or alanine aminotransferase [ALT]/serum glutamic-pyruvic transaminase) have been reported with HMG-CoA reductase inhibitors, including LIVALO.
 In most cases, the elevations were transient and resolved or improved on continued therapy or after a brief interruption in therapy.
@@ -22,10 +22,15 @@ In most cases, the elevations were transient and resolved or improved on continu
 In placebo-controlled Phase 2 studies, ALT >3 times the upper limit of normal was not observed in the placebo, LIVALO 1 mg, or LIVALO 2 mg groups.
 One out of 202 patients (0.5%) administered LIVALO 4 mg had ALT >3 times the upper limit of normal.
 
-It is recommended that liver enzyme tests be performed before and at 12 weeks following both the initiation of therapy and any elevation of dose and periodically (e.g., semiannually) thereafter.
+It is recommended that liver enzyme tests be performed before the initiation of LIVALO and if signs or symptoms of liver injury occur.
 
-Patients who develop increased transaminase levels should be monitored until the abnormalities have resolved.
-Should an increase in ALT or AST of >3 times upper limit of normal persist, reduction of dose or withdrawal of LIVALO is recommended.
+There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including pitavastatin.
+If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with LIVALO, promptly interrupt therapy.
+If an alternate etiology is not found do not restart LIVALO.
 
 As with other HMG-CoA reductase inhibitors, LIVALO should be used with caution in patients who consume substantial quantities of alcohol.
 Active liver disease, which may include unexplained persistent transaminase elevations, is a contraindication to the use of LIVALO [see Contraindications (4)].
+
+## 5.3 Endocrine Function
+
+Increases in HbA1c and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including LIVALO.

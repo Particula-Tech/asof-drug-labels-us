@@ -24,9 +24,10 @@ If you have a lipid disorder and are breastfeeding, stop taking LIVALO and consu
 
 ## 17.5 Liver Enzymes
 
-It is recommended that liver enzymes be checked before and at 12 weeks following both the initiation of therapy and any elevation of dose, and periodically (e.g., semiannually) thereafter.
+It is recommended that liver enzyme tests be checked before the initiation of LIVALO and if signs or symptoms of liver injury occur.
+All patients treated with LIVALO should be advised to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
 
 LIVALO is a trademark of the Kowa group of companies. © Kowa Pharmaceuticals America, Inc. (2009)
 
-Manufactured under license from: Kowa Company, Limited Tokyo 103-8433 Japan Product of Japan Manufactured into tablets by: Patheon, Inc. Cincinnati, OH 45237 USA Marketed by: Kowa Pharmaceuticals America, Inc. Montgomery, AL 36117 USA and Lilly USA, LLC.
+Manufactured under license from: Kowa Company, Limited Tokyo 103-8433 Japan Product of Japan Manufactured into tablets by: Patheon, Inc. Cincinnati, OH 45237 USA or by Kowa Company, LTD Nagoya, 462-0024 Japan Marketed by: Kowa Pharmaceuticals America, Inc. Montgomery, AL 36117 USA and Lilly USA, LLC.
 Indianapolis, IN 46285 USA To request additional information or if you have questions concerning LIVALO please phone Kowa Pharmaceuticals America, Inc. at 877-8-LIVALO (877-854-8256) or fax your inquiry to 800-689-0244

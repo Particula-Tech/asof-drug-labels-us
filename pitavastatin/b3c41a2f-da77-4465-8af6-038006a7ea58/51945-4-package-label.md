@@ -20,7 +20,7 @@ Livalo®
 
 Rx Only
 
-LOGOKowaLOGO LOGOLillyLOGO
+KowaLOGO LillyLOGO
 
 Principal display Panel - Bottle Label Livalo 4 mg
 
@@ -32,7 +32,7 @@ Livalo®
 
 Rx Only
 
-LOGOKowaLOGO LOGOLillyLOGO
+KowaLOGO LillyLOGO
 
 Principal display Panel – Carton 2 mg
 

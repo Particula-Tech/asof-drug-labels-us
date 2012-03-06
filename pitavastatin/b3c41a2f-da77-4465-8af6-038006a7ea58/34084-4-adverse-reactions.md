@@ -37,3 +37,14 @@ In controlled clinical studies and their open-label extensions, 3.9% (1 mg), 3.3
 The most common adverse reactions that led to treatment discontinuation were: elevated creatine phosphokinase (0.6% on 4 mg) and myalgia (0.5% on 4 mg).
 
 Hypersensitivity reactions including rash, pruritus, and urticaria have been reported with LIVALO.
+
+## 6.2 Postmarketing Experience:
+
+The following adverse reactions have been identified during postapproval use of LIVALO.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Adverse reactions associated with LIVALO therapy reported since market introduction, regardless of causality assessment, include the following: abdominal discomfort, abdominal pain, dyspepsia, nausea, asthenia, fatigue, malaise, hepatitis, jaundice, fatal and non-fatal hepatic failure, dizziness, hypoesthesia, insomnia, depression, interstitial lung disease, erectile dysfunction and muscle spasms.
+
+There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
+These cognitive issues have been reported for all statins.
+The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
