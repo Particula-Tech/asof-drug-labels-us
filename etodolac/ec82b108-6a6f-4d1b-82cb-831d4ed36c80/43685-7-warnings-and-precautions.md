@@ -28,7 +28,7 @@ Blood pressure (BP) should be monitored closely during the initiation of NSAID t
 Fluid retention and edema have been observed in some patients taking NSAIDs.
 Etodolac capsules and tablets, USP should be used with caution in patients with fluid retention or heart failure.
 
-## Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation
+### Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation
 
 NSAIDs, including etodolac capsules and tablets, USP, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
@@ -48,7 +48,7 @@ Patients and physicians should remain alert for signs and symptoms of GI ulcerat
 This should include discontinuation of the NSAID until a serious GI adverse event is ruled out.
 For high risk patients, alternate therapies that do not involve NSAIDs should be considered.
 
-## Renal Effects
+### Renal Effects
 
 Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
@@ -60,13 +60,13 @@ Renal pelvic transitional epithelial hyperplasia, a spontaneous change occurring
 
 Caution is recommended in patients with pre-existing kidney disease.
 
-## Advanced Renal Disease
+### Advanced Renal Disease
 
 No information is available from controlled clinical studies regarding the use of etodolac capsules and tablets, USP, in patients with advanced renal disease.
 Therefore, treatment with etodolac capsules and tablets, USP is not recommended in these patients with advanced renal disease.
 If etodolac capsules and tablets, USP therapy must be initiated, close monitoring of the patient's renal function is advisable.
 
-## Anaphylactoid Reactions
+### Anaphylactoid Reactions
 
 As with other NSAIDs, anaphylactoid reactions may occur in patients without prior exposure to etodolac capsules and tablets, USP.
 Etodolac capsules and tablets, USP should not be given to patients with the aspirin triad.
@@ -74,13 +74,13 @@ This symptom complex typically occurs in asthmatic patients who experience rhini
 Fatal reactions have been reported in such patients (see CONTRAINDICATIONS and PRECAUTIONS, General, Pre-existing Asthma).
 Emergency help should be sought in cases where an anaphylactoid reaction occurs.
 
-## Skin Reactions
+### Skin Reactions
 
 NSAIDs, including etodolac capsules and tablets, USP, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
 Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
 
-## Pregnancy
+### Pregnancy
 
 In late pregnancy, the third trimester, as with other NSAIDs, etodolac capsules and tablets, USP should be avoided because it may cause premature closure of the ductus arteriosus (see PRECAUTIONS, Pregnancy, Nonteratogenic Effects).
 
@@ -91,7 +91,6 @@ In late pregnancy, the third trimester, as with other NSAIDs, etodolac capsules 
 Etodolac capsules and tablets, USP cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency.
 Abrupt discontinuation of corticosteroids may lead to disease exacerbation.
 Patients on prolonged corticosteroid therapy should have their therapy tapered solely if a decision is made to discontinue corticosteroids.
-
 The pharmacological activity of etodolac capsules and tablets, USP in reducing fever and inflammation may diminish the utility of these diagnostic signs in detecting complications of presumed noninfectious, painful conditions.
 
 ### Hepatic Effects
@@ -127,7 +126,7 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 
 1. Etodolac capsules and tablets, USP, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
    Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS, Cardiovascular Effects).
+   Patients should be apprised of the importance of this follow-up (see WARNINGS, CARDIOVASCULAR EFFECTS).
 2. Etodolac capsules and tablets, USP, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
    Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
    Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation).
@@ -218,7 +217,6 @@ The urine of patients who take etodolac can give a false-positive reaction for u
 Diagnostic dip-stick methodology, used to detect ketone bodies in urine, has resulted in false-positive findings in some patients treated with etodolac.
 Generally, this phenomenon has not been associated with other clinically significant events.
 No dose relationship has been observed.
-
 Etodolac treatment is associated with a small decrease in serum uric acid levels.
 In clinical trials, mean decreases of 1 to 2 mg/dL were observed in arthritic patients receiving etodolac (600 to 1000 mg/day) after 4 weeks of therapy.
 These levels then remained stable for up to 1 year of therapy.
@@ -233,7 +231,9 @@ However, reduced implantation of fertilized eggs occurred in the 8 mg/kg group.
 
 ## Pregnancy
 
-### Teratogenic Effects-Pregnancy Category C
+### Teratogenic Effects
+
+#### Pregnancy Category C
 
 In teratology studies, isolated occurrences of alterations in limb development were found and included polydactyly, oligodactyly, syndactyly, and unossified phalanges in rats and oligodactyly and synostosis of metatarsals in rabbits.
 These were observed at dose levels (2 to 14 mg/kg/day) close to human clinical doses.

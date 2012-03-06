@@ -1,4 +1,4 @@
-## Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
+# Medication Guide for Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
 (See the end of this Medication Guide for a list of prescription NSAID medicines.)
 
@@ -16,13 +16,16 @@ NSAID medicines can cause ulcers and bleeding in the stomach and intestines at a
 Ulcers and bleeding:
 
 - can happen without warning symptoms
-- may cause death The chance of a person getting an ulcer or bleeding increases with:
-  - taking medicines called "corticosteroids" and "anticoagulants"
-  - longer use
-  - smoking
-  - drinking alcohol
-  - older age
-  - having poor health
+- may cause death
+
+The chance of a person getting an ulcer or bleeding increases with:
+
+- taking medicines called "corticosteroids" and "anticoagulants"
+- longer use
+- smoking
+- drinking alcohol
+- older age
+- having poor health
 
 NSAID medicines should only be used:
 
@@ -74,6 +77,9 @@ Stop your NSAID medicine and call your healthcare provider right away if you hav
 These are not all the side effects with NSAID medicines.
 Talk to your healthcare provider or pharmacist for more information about NSAID medicines.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 Other information about Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
 
 - Aspirin is an NSAID medicine but it does not increase the chance of a heart attack.
@@ -91,21 +97,24 @@ NSAID medicines that need a prescription
 | Diflunisal | Dolobid |
 | Etodolac | Lodine, Lodine XL |
 | Fenoprofen | Nalfon, Nalfon 200 |
-| Flurbirofen | Ansaid |
-| Ibuprofen | Motrin, Tab-Profen, VicoprofenVicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain. The OTC label warns that long term continuous use may increase the risk of heart attack or stroke. (combined with hydrocodone), Combunox (combined with oxycodone) |
+| Flurbiprofen | Ansaid |
+| Ibuprofen | Motrin, Tab-Profen, VicoprofenVicoprofen contains the same dose of ibuprofen as over-the-counter (OTC) NSAIDs, and is usually used for less than 10 days to treat pain. The OTC NSAID label warns that long term continuous use may increase the risk of heart attack or stroke. (combined with hydrocodone), Combunox (combined with oxycodone) |
 | Indomethacin | Indocin, Indocin SR, Indo-Lemmon, Indomethagan |
 | Ketoprofen | Oruvail |
 | Ketorolac | Toradol |
 | Mefenamic Acid | Ponstel |
 | Meloxicam | Mobic |
 | Nabumetone | Relafen |
-| Naproxen | Naprosyn, Anaprox, Anaprox DS, EC-Naproxyn, Naprelan, Naprapac (copackaged with lansoprazole) |
+| Naproxen | Naprosyn, Anaprox, Anaprox DS, EC-Naprosyn, Naprelan, Naprapac (copackaged with lansoprazole) |
 | Oxaprozin | Daypro |
 | Piroxicam | Feldene |
 | Sulindac | Clinoril |
 | Tolmetin | Tolectin, Tolectin DS, Tolectin 600 |
 
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 26110 Distributed by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
+
+Revised: February, 2010
+
+89927-0210-4

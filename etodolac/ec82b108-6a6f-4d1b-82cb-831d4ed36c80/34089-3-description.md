@@ -14,6 +14,6 @@ Each Capsule, for oral administration, contains 200 or 300 mg of Etodolac.
 In addition, each capsule contains the following inactive ingredients: Ammonium Hydroxide USP, Black Iron Oxide USP, Colloidal Silicone Dioxide NF, Erythrosine (200 mg only), Ethyl Alcohol USP, Gelatin, Isopropyl Alcohol USP, Lactose Monohydrate NF, Magnesium Stearate NF, Microcrystalline Cellulose NF, N-Butyl Alcohol USP, Povidone USP, Propylene Glycol USP, Purified Water USP, Shellac, Titanium Dioxide.
 
 Each Tablet, for oral administration, contains 400 mg or 500 mg of Etodolac.
-In addition, each tablet contains the following inactive ingredients: Hydroxypropyl Methylcellulose 2910 USP, Lactose Monohydrate NF, Magnesium Stearate, Microcrystalline Cellulose NF, Povidone USP, and Sodium Starch Glycolate NF.
-Also, each 400 mg tablet contains Iron Oxide Red, Iron Oxide Yellow, Polyethylene Glycol 400 NF, and Titanium Dioxide.
-Each 500 mg tablet contains Opadry Oy Blue (FD + C Blue #1 Aluminum Lake and D + C Yellow #10).
+In addition, each tablet contains the following inactive ingredients: Hydroxypropyl Methylcellulose USP, Lactose Monohydrate NF, Magnesium Stearate, Microcrystalline Cellulose NF, Polyethylene Glycol, Povidone USP, Sodium Starch Glycolate NF and Titanium Dioxide.
+Also, each 400 mg tablet contains Iron Oxide Red and Iron Oxide Yellow.
+Each 500 mg tablet contains D&C Yellow #10 Aluminum Lake, FD&C Blue #1 Aluminum Lake, and FD&C Red #40 Aluminum Lake.

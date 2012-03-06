@@ -11,7 +11,7 @@ Etodolac should be used with caution in such patients, because, as with other NS
 ## Analgesia
 
 The recommended total daily dose of etodolac for acute pain is up to 1000 mg, given as 200-400 mg every 6 to 8 hours.
-Doses of etodolac greater than 1000 mg/day have not been adequately evaluated in well-controlled trials.
+Doses of etodolac greater than 1000 mg/day have not been adequately evaluated in wellcontrolled trials.
 
 ## Osteoarthritis and Rheumatoid Arthritis
 

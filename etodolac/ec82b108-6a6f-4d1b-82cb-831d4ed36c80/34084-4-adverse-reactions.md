@@ -17,11 +17,17 @@ The incidences were determined from clinical trials involving 465 patients with 
 ## Incidence Greater Than Or Equal To 1% - Probably Causally Related
 
 Body as a whole - Chills and fever.
+
 Digestive system - Dyspepsia (10%), abdominal painDrug-related patient complaints occurring in 3 to 9% of patients treated with etodolac., diarrhea, flatulence, nausea, abdominal distension, epigastric pain, abnormal stools, constipation, gastritis, melena, vomiting.
+
 Nervous system - Asthenia/malaise, dizziness, depression, nervousness, fatigue.
+
 Skin and appendages - Pruritus, rash.
+
 Special senses - Blurred vision, tinnitus.
+
 Urogenital system - Dysuria, urinary frequency.
+
 Musculoskeletal—Arthralgia.
 
 Drug-related patient complaints occurring in fewer than 3%, but more than 1%, are unmarked.
@@ -31,14 +37,23 @@ Drug-related patient complaints occurring in fewer than 3%, but more than 1%, ar
 (Adverse reactions reported only in worldwide postmarketing experience, not seen in clinical trials, are considered rarer and are italicized.)
 
 Body as a whole - Allergic reaction, anaphylactic/anaphylactoid reactions (including shock).
+
 Cardiovascular system - Hypertension, congestive heart failure, flushing, palpitations, syncope, vasculitis (including necrotizing and allergic).
+
 Digestive system - Thirst, dry mouth, ulcerative stomatitis, anorexia, eructation, elevated liver enzymes, cholestatic hepatitis, hepatitis, cholestatic jaundice, duodenitis, jaundice, hepatic failure, liver necrosis, peptic ulcer with or without bleeding and/or perforation, intestinal ulceration, pancreatitis.
+
 Hemic and lymphatic system - Ecchymosis, anemia, thrombocytopenia, bleeding time increased, agranulocytosis, hemolytic anemia, aplastic anemia, leukopenia, neutropenia, pancytopenia.
+
 Metabolic and nutritional - Edema, serum creatinine increase, hyperglycemia in previously controlled diabetic patients.
+
 Nervous system - Insomnia, somnolence.
+
 Respiratory system - Asthma, pulmonary infiltration with eosinophilia.
+
 Skin and appendages - Angioedema, sweating, urticaria, exfoliative dermatitis, vesiculobullous rash, cutaneous vasculitis with purpura, Stevens-Johnson Syndrome, toxic epidermal necrolysis, leukocytoclastic vasculitis, hyperpigmentation, erythema multiforme.
+
 Special senses - Photophobia, transient visual disturbances.
+
 Urogenital system - Elevated BUN, renal failure, renal insufficiency, renal papillary necrosis.
 
 ## Incidence Less Than 1% - Causal Relationship Unknown
@@ -47,16 +62,37 @@ Urogenital system - Elevated BUN, renal failure, renal insufficiency, renal papi
 These reactions are listed as alerting information for physicians.)
 
 Body as a whole - Infection, headache.
+
 Cardiovascular system - Arrhythmias, myocardial infarction, cerebrovascular accident.
+
 Digestive system - Esophagitis with or without stricture or cardiospasm, colitis, GI discomfort, burning sensation, blood in stools, gastralgia, upper abdominal discomfort.
+
 Metabolic and nutritional - Change in weight.
+
 Nervous system - Paresthesia, confusion, irritability.
+
 Respiratory system - Bronchitis, bronchospasm, dyspnea, pharyngitis, rhinitis, sinusitis.
+
 Skin and appendages - Alopecia, maculopapular rash, photosensitivity, skin peeling.
+
 Special senses - Conjunctivitis, deafness, taste perversion, loss of taste.
+
 Urogenital system - Cystitis, hematuria, leukorrhea, renal calculus, interstitial nephritis, uterine bleeding irregularities, renal impairment.
+
 Musculoskeletal—Muscle pain.
 
 ## Additional Adverse Reactions Reported with NSAIDs
 
-Body as a whole - Sepsis, death Cardiovascular system - Tachycardia Digestive system - Gastric ulcers, gastritis, gastrointestinal bleeding, glossitis, hematemesis Hemic and lymphatic system - Lymphadenopathy Nervous system - Anxiety, dream abnormalities, convulsions, coma, hallucinations, meningitis, tremors, vertigo Respiratory system - Respiratory depression, pneumonia Urogenital system - Oliguria/polyuria, proteinuria
+Body as a whole - Sepsis, death
+
+Cardiovascular system - Tachycardia
+
+Digestive system - Gastric ulcers, gastritis, gastrointestinal bleeding, glossitis, hematemesis
+
+Hemic and lymphatic system - Lymphadenopathy
+
+Nervous system - Anxiety, dream abnormalities, convulsions, coma, hallucinations, meningitis, tremors, vertigo
+
+Respiratory system - Respiratory depression, pneumonia
+
+Urogenital system - Oliguria/polyuria, proteinuria

@@ -1,5 +1,8 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075074",
+    "ANDA075078"
+  ],
   "inn": "etodolac",
   "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
   "package_ndcs": [
@@ -8,7 +11,18 @@
     "51672-4018-1",
     "51672-4036-1"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "etodolac",
+      "name": "Etodolac"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "etodolac",
+      "name": "Etodolac"
+    }
+  ],
   "setid": "ec82b108-6a6f-4d1b-82cb-831d4ed36c80",
   "source": "dailymed"
 }
