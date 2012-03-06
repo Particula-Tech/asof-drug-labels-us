@@ -26,6 +26,6 @@ Elimination half-life is approximately 1.5 to 2 hours in healthy volunteers.
 For intravenously administered morphine, 90% is excreted in the urine within 24 hours and traces are detectable in urine up to 48 hours.
 About 7-10% of administered morphine eventually appears in the feces as conjugated morphine.
 
-Peak serum levelsfollowing epidural or intrathecal administration of preservative-free morphine sulfate injection are reached within 30 minutes in most subjects and decline to very low levels during the next 2 to 4 hours.
+Peak serum levels following epidural or intrathecal administration of preservative-free morphine sulfate injection are reached within 30 minutes in most subjects and decline to very low levels during the next 2 to 4 hours.
 The onset of action occurs in 15 to 60 minutes following epidural administration or intrathecal administration; analgesia may last up to 24 hours.
 Due to this extended duration of action, sustained pain relief can be provided with lower daily doses (by these two routes) than are usually required with intravenous or intramuscular morphine administration.

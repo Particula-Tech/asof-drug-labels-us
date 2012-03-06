@@ -2,7 +2,7 @@
 
 Preservative-free Morphine Sulfate Injection, USP is supplied in cartons of five 10 mL amber ampuls or vials as follows:
 
-| List No. | Package | Concentration(mg/mL) | Total Morphine(mg/10 mL) |
+| List No. | Package | Concentration (mg/mL) | Total Morphine (mg/10 mL) |
 | --- | --- | --- | --- |
 | 4057 | Ampul | 0.5 | 5 |
 | 4058 | Ampul | 1 | 10 |
@@ -19,9 +19,8 @@ Protect from freezing.
 Protect from light.
 Store in carton until time of use.
 
-November, 2004
+Revised: November, 2004
 
-| ©Hospira 2004 | EN-0597 | Printed in USA |
-| --- | --- | --- |
+©Hospira 2004 EN-0597 Printed in USA
 
 HOSPIRA, INC., LAKE FOREST, IL 60045 USA
