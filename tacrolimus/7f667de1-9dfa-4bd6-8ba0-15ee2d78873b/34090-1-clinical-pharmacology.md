@@ -144,6 +144,8 @@ Drug Interactions
 
 Frequent monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when concomitant use of the following drugs with tacrolimus is initiated or discontinued [see Drug Interactions (7)].
 
+Telaprevir (see complete prescribing information for INCIVEKTM): In a single dose study in 9 healthy volunteers, coadministration of tacrolimus (0.5 mg single dose) with telaprevir (750 mg TID for 13 days) increased tacrolimus dose-normalized Cmax by 9.3-fold and AUC by 70-fold [see Drug Interactions (7.3)].
+
 Nelfinavir: Based on a clinical study of 5 liver transplant recipients, co-administration of tacrolimus with nelfinavir increased blood concentrations of tacrolimus significantly and, as a result, a reduction in the tacrolimus dose by an average of 16-fold was needed to maintain mean trough tacrolimus blood concentrations of 9.7 ng/mL.
 It is recommended to avoid concomitant use of Prograf and nelfinavir unless the benefits outweigh the risks [see Drug Interactions (7.3)].
 

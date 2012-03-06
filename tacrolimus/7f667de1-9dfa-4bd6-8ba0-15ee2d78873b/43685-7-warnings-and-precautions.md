@@ -117,7 +117,7 @@ Use of sirolimus (2 mg per day) with Prograf in heart transplant patients in a U
 
 ## 5.13 Use with Strong Inhibitors and Inducers of CYP3A
 
-Co-administration with strong CYP3A4-inhibitors (e.g., ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) is not recommended without close monitoring of tacrolimus whole blood trough concentrations [see Drug Interactions (7)].
+Co-administration with strong CYP3A4-inhibitors (e.g., telaprevir, boceprevir, amiodarone, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) is not recommended without close monitoring of tacrolimus whole blood trough concentrations [see Drug Interactions (7)].
 
 ## 5.14 Myocardial Hypertrophy
 

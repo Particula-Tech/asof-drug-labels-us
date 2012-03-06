@@ -66,6 +66,8 @@ Especially tell your doctor if you take:
 - cyclosporine (Gengraf®, Neoral®, and Sandimune®)
 - sirolimus (Rapamune®)
 - nelfinavir (Viracept®)
+- telaprevir (IncivekTM)
+- boceprevir (VicterlisTM)
 
 Ask your doctor or pharmacist if you are not sure if you take any of the medicines listed above.
 
@@ -236,6 +238,6 @@ Astellas Pharma US, Inc.
 
 Deerfield, IL 60015-2548
 
-Issued September 2011
+Issued February 2012
 
-11G058-PRG-PI
+11L091-PRG-PI

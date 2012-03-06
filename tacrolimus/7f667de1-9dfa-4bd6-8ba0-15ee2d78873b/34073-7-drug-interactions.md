@@ -16,7 +16,8 @@ Grapefruit juice inhibits CYP3A-enzymes resulting in increased tacrolimus whole 
 
 Most protease inhibitors inhibit CYP3A enzymes and may increase tacrolimus whole blood concentrations.
 It is recommended to avoid concomitant use of tacrolimus with nelfinavir unless the benefits outweigh the risks [see Clinical Pharmacology (12.3)].
-Monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when tacrolimus and other protease inhibitors (e.g., ritonavir) are used concomitantly.
+Whole blood concentrations of tacrolimus are markedly increased when co-administered with telaprevir [see Clinical Pharmacology (12.3)].
+Monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when tacrolimus and protease inhibitors (e.g., ritonavir, telaprevir, boceprevir) are used concomitantly.
 
 ## 7.4 Antifungal Agents
 
