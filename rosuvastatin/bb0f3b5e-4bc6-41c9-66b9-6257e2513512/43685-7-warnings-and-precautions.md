@@ -11,11 +11,11 @@ The risk of myopathy during treatment with CRESTOR may be increased with concurr
 
 CRESTOR therapy should be discontinued if markedly elevated creatinine kinase levels occur or myopathy is diagnosed or suspected.
 CRESTOR therapy should also be temporarily withheld in any patient with an acute, serious condition suggestive of myopathy or predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., sepsis, hypotension, dehydration, major surgery, trauma, severe metabolic, endocrine, and electrolyte disorders, or uncontrolled seizures).
-All patients should be advised to promptly report unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever.
+All patients should be advised to promptly report to their physician unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever.
 
-## 5.2 Liver Enzyme Abnormalities and Monitoring
+## 5.2 Liver Enzyme Abnormalities
 
-It is recommended that liver enzyme tests be performed before and at 12 weeks following both the initiation of therapy and any elevation of dose, and periodically (e.g., semiannually) thereafter.
+It is recommended that liver enzyme tests be performed before the initiation of CRESTOR, and if signs or symptoms of liver injury occur.
 
 Increases in serum transaminases [AST (SGOT) or ALT (SGPT)] have been reported with HMG-CoA reductase inhibitors, including CRESTOR.
 In most cases, the elevations were transient and resolved or improved on continued therapy or after a brief interruption in therapy.
@@ -24,8 +24,9 @@ There were no cases of liver failure or irreversible liver disease in these tria
 
 In a pooled analysis of placebo-controlled trials, increases in serum transaminases to >3 times the upper limit of normal occurred in 1.1% of patients taking CRESTOR versus 0.5% of patients treated with placebo.
 
-Patients who develop increased transaminase levels should be monitored until the abnormalities have resolved.
-Should an increase in ALT or AST of >3 times ULN persist, reduction of dose or withdrawal of CRESTOR is recommended.
+There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including rosuvastatin.
+If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with CRESTOR, promptly interrupt therapy.
+If an alternate etiology is not found, do not restart CRESTOR.
 
 CRESTOR should be used with caution in patients who consume substantial quantities of alcohol and/or have a history of chronic liver disease [see Clinical Pharmacology (12.3)].
 Active liver disease, which may include unexplained persistent transaminase elevations, is a contraindication to the use of CRESTOR [see Contraindications (4)].

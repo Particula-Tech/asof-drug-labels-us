@@ -33,12 +33,6 @@ Initiation of CRESTOR therapy with 5 mg once daily should be considered for Asia
 In patients taking cyclosporine, the dose of CRESTOR should be limited to 5 mg once daily [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
 In patients taking a combination of lopinavir and ritonavir or atazanavir and ritonavir, the dose of CRESTOR should be limited to 10 mg once daily [see Warnings and Precautions (5.1) and Drug Interactions (7.3)].
 
-## 2.6 Concomitant Lipid-Lowering Therapy
-
-The risk of skeletal muscle effects may be enhanced when CRESTOR is used in combination with niacin or fenofibrate; a reduction in CRESTOR dosage should be considered in this setting [see Warnings and Precautions (5.1) and Drug Interactions (7.5, 7.6)].
-
-Combination therapy with gemfibrozil should be avoided because of an increase in CRESTOR exposure with concomitant use; if CRESTOR is used in combination with gemfibrozil, the dose of CRESTOR should be limited to 10 mg once daily [see Warnings and Precautions (5.1) and Drug Interactions (7.2)].
-
-## 2.7 Dosage in Patients With Severe Renal Impairment
+## 2.6 Dosage in Patients With Severe Renal Impairment
 
 For patients with severe renal impairment (CLcr <30 mL/min/1.73 m2) not on hemodialysis, dosing of CRESTOR should be started at 5 mg once daily and not exceed 10 mg once daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].

@@ -8,4 +8,4 @@ The empirical formula for rosuvastatin calcium is (C22H27FN3O6S)2Ca and the mole
 Rosuvastatin calcium is a white amorphous powder that is sparingly soluble in water and methanol, and slightly soluble in ethanol.
 Rosuvastatin calcium is a hydrophilic compound with a partition coefficient (octanol/water) of 0.13 at pH of 7.0.
 
-Inactive Ingredients: Each tablet contains: microcrystalline cellulose NF, lactose monohydrate NF, tribasic calcium phosphate NF, crospovidone NF, magnesium stearate NF, hypromellose NF, triacetin NF, titanium dioxide USP, yellow ferric oxide, and red ferric oxide NF.
+CRESTOR Tablets for oral administration contain 5, 10, 20, or 40 mg of rosuvastatin and the following inactive ingredients: Each tablet contains: microcrystalline cellulose NF, lactose monohydrate NF, tribasic calcium phosphate NF, crospovidone NF, magnesium stearate NF, hypromellose NF, triacetin NF, titanium dioxide USP, yellow ferric oxide, and red ferric oxide NF.

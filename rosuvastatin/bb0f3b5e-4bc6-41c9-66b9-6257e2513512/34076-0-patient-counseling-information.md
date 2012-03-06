@@ -14,11 +14,12 @@ If the patient becomes pregnant while taking this drug, the patient should be ap
 
 ## 17.4 Liver Enzymes
 
-It is recommended that liver enzymes be checked before and at 12 weeks following both the initiation of therapy and any elevation of dose, and periodically (e.g., semiannually) thereafter.
+It is recommended that liver enzyme tests be performed before the initiation of CRESTOR and if signs or symptoms of liver injury occur.
+All patients treated with CRESTOR should be advised to promptly report any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
 
 CRESTOR is a trademark of the AstraZeneca group of companies.
 
-© AstraZeneca 2003, 2005, 2007, 2008, 2009, 2010
+© AstraZeneca 2012
 
 Licensed from SHIONOGI & CO., LTD., Osaka, Japan
 
@@ -31,7 +32,7 @@ Wilmington, DE 19850
 ASTRAZENECA
 
 Rev.
-June 2010
+February, 2012
 
 PATIENT INFORMATION
 
@@ -107,7 +108,7 @@ Tell your health care professional if you:
 - have thyroid problems
 - are Asian or of Asian descent
 
-Tell your health care professional about all medicines you take or plan to take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your health care professional about all medicines you take or plan to take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Some medicines may interact with CRESTOR, causing side effects.
 It is particularly important to tell your health care professional if you are taking or plan to take medicines for:
 
@@ -172,11 +173,22 @@ The risk of muscle problems is greater in people who are 65 years of age or olde
 The chance of muscle problems may be increased if you are taking certain other medicines with CRESTOR.
 
 Liver problems.
-Your health care professional should do blood tests before you start taking CRESTOR and during treatment to check for signs of possible liver problems.
+Your health care professional should do blood tests to check your liver before you start taking CRESTOR and if you have symptoms of liver problems while you take CRESTOR.
+Call your doctor right away if you have any of the following symptoms of liver problems:
+
+- feel unusually tired or weak
+- loss of appetite
+- upper belly pain
+- dark urine
+- yellowing of your skin or the whites of your eyes
 
 The most common side effects may include:
 
 Headache, muscle aches and pains, abdominal pain, weakness, and nausea.
+
+The following additional side effects have been reported with CRESTOR:
+
+Memory loss and confusion
 
 This is not a complete list of side effects of CRESTOR.
 Talk to your health care professional for a complete list or if you have side effects that bother you or that do not go away.
@@ -191,7 +203,7 @@ Keep CRESTOR and all medicines in a secure place and out of the reach of childre
 
 What are the Ingredients in CRESTOR?
 
-Active Ingredient: rosuvastatin calcium
+Active Ingredient: rosuvastatin as rosuvastatin calcium
 
 Inactive Ingredients: microcrystalline cellulose NF, lactose monohydrate NF, tribasic calcium phosphate NF, crospovidone NF, magnesium stearate NF, hypromellose NF, triacetin NF, titanium dioxide USP, yellow ferric oxide, and red ferric oxide NF.
 
@@ -208,7 +220,7 @@ You can also go to the CRESTOR website at www.crestor.com or call 1-800-CRESTOR.
 
 CRESTOR is a trademark of the AstraZeneca group of companies.
 
-© AstraZeneca 2003, 2005, 2007, 2008, 2009, 2010
+© AstraZeneca 2012
 
 Licensed from SHIONOGI & CO., LTD., Osaka, Japan
 
@@ -221,4 +233,4 @@ Wilmington, DE 19850
 ASTRAZENECA
 
 Rev.
-June 2010
+February, 2012

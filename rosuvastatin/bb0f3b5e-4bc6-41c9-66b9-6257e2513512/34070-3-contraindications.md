@@ -3,7 +3,7 @@
 CRESTOR is contraindicated in the following conditions:
 
 - Patients with a known hypersensitivity to any component of this product.
-  Hypersensitivity reactions including rash, pruritus, urticaria and angioedema have been reported with CRESTOR [see Adverse Reactions (6.1)].
+  Hypersensitivity reactions including rash, pruritus, urticaria, and angioedema have been reported with CRESTOR [see Adverse Reactions (6.1)].
 - Patients with active liver disease, which may include unexplained persistent elevations of hepatic transaminase levels [see Warnings and Precautions (5.2)].
 - Women who are pregnant or may become pregnant.
   Because HMG-CoA reductase inhibitors decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol, CRESTOR may cause fetal harm when administered to pregnant women.

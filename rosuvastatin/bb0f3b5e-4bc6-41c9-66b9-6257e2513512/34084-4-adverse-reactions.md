@@ -84,12 +84,16 @@ Reported by ≥ 2% of Patients Treated with CRESTOR and > Placebo in the JUPITER
 
 ## 6.2 Pediatric patients 10 to 17 years of age
 
-In a 12-week controlled study in boys and postmenarchal girls, the safety and tolerability profile of CRESTOR 5 to 20 mg daily was generally similar to that of placebo [see Clinical Studies (14.6) and Use in Special Populations, Pediatric Use (8.4)].
+In a 12-week controlled study in boys and postmenarchal girls, the safety and tolerability profile of CRESTOR 5 to 20 mg daily was generally similar to that of placebo [see Clinical Studies (14.6) and Use in Specific Populations, Pediatric Use (8.4)].
 
 However, elevations in serum creatine phosphokinase (CK) > 10 x ULN were observed more frequently in rosuvastatin compared with placebo-treated children.
 Four of 130 (3%) children treated with rosuvastatin (2 treated with 10 mg and 2 treated with 20 mg) had increased CK >10 x ULN, compared to 0 of 46 children on placebo.
 
 ## 6.3 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of CRESTOR: arthralgia, hepatic failure, hepatitis, jaundice, memory loss, depression, and sleep disorders (including insomnia and nightmares).
+The following adverse reactions have been identified during postapproval use of CRESTOR: arthralgia, fatal and non-fatal hepatic failure, hepatitis, jaundice, depression, and sleep disorders (including insomnia and nightmares).
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
+These cognitive issues have been reported for all statins.
+The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).

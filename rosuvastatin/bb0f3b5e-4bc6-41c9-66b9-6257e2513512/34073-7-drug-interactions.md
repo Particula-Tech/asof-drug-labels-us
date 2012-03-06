@@ -9,7 +9,7 @@ Therefore, in patients taking cyclosporine, therapy should be limited to CRESTOR
 
 Gemfibrozil significantly increased rosuvastatin exposure.
 Therefore, combination therapy with CRESTOR and gemfibrozil should be avoided.
-If used, do not exceed CRESTOR 10 mg once daily [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+If used, do not exceed CRESTOR 10 mg once daily [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Protease Inhibitors
 
@@ -27,9 +27,9 @@ In patients taking coumarin anticoagulants and CRESTOR concomitantly, INR should
 
 ## 7.5 Niacin
 
-The risk of skeletal muscle effects may be enhanced when CRESTOR is used in combination with niacin; a reduction in CRESTOR dosage should be considered in this setting [see Warnings and Precautions (5.1)].
+The risk of skeletal muscle effects may be enhanced when CRESTOR is used in combination with lipid-modifying doses (≥1 g/day) of niacin; caution should be used when prescribing with CRESTOR [see Warnings and Precautions (5.1)].
 
 ## 7.6 Fenofibrate
 
-When CRESTOR was coadministered with fenofibrate no clinically significant increase in the AUC of rosuvastatin or fenofibrate, was observed.
-The benefit of further alterations in lipid levels by the combined use of CRESTOR with fibrates should be carefully weighed against the potential risks of this combination [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+When CRESTOR was coadministered with fenofibrate, no clinically significant increase in the AUC of rosuvastatin or fenofibrate was observed.
+Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concomitant use of fenofibrates, caution should be used when prescribing fenofibrates with CRESTOR [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].

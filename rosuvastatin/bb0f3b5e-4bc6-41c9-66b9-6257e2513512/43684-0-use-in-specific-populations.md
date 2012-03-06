@@ -31,7 +31,7 @@ Because another drug in this class passes into human milk and because HMG-CoA re
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of CRESTOR in patients 10 to 17 years of age with heterozygous familial hypercholesterolemia were evaluated in a controlled clinical trial of 12 weeks duration followed by 40 weeks of open-label exposure.
-Patients treated with 5 mg, 10 mg and 20 mg daily CRESTOR had an adverse experience profile generally similar to that of patients treated with placebo [see Adverse Reactions (6.2)].
+Patients treated with 5 mg, 10 mg, and 20 mg daily CRESTOR had an adverse experience profile generally similar to that of patients treated with placebo [see Adverse Reactions (6.2)].
 Although not all adverse reactions identified in the adult population have been observed in clinical trials of children and adolescent patients, the same warnings and precautions for adults should be considered for children and adolescents.
 There was no detectable effect of CRESTOR on growth, weight, BMI (body mass index), or sexual maturation [see Clinical Studies (14.5)] in pediatric patients (10 to 17 years of age).
 Adolescent females should be counseled on appropriate contraceptive methods while on CRESTOR therapy [see Use in Specific Populations (8.1)].
