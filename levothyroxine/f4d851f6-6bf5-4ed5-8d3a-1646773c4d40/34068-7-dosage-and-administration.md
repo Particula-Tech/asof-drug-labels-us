@@ -1,101 +1,108 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## General Principles
+## 2.1 Important Information Before Use
+
+Do not cut or crush TIROSINT capsules; capsules should be swallowed whole.
+
+Administer TIROSINT as a single daily dose, preferably one-half to one hour before breakfast.
+Administer at least 4 hours before or after drugs and foods that are known to interfere with TIROSINT absorption [See Drug Interactions (7.1, 7.9) and Clinical Pharmacology (12.3)].
+
+## 2.2 Principles of Dosing
 
 The goal of replacement therapy is to achieve and maintain a clinical and biochemical euthyroid state.
 The goal of suppressive therapy is to inhibit growth and/or function of abnormal thyroid tissue.
-The dose of TIROSINT that is adequate to achieve these goals depends on a variety of factors including the patient's age, body weight, cardiovascular status, concomitant medical conditions, including pregnancy, concomitant medications, and the specific nature of the condition being treated (see WARNINGS and PRECAUTIONS).
-Hence, the following recommendations serve only as dosing guidelines.
-Dosing must be individualized and adjustments made based on periodic assessment of the patient's clinical response and laboratory parameters (see PRECAUTIONS, Laboratory Tests).
+The dose of TIROSINT that is adequate to achieve these goals depends on a variety of factors including the patient's age, body weight, cardiovascular status, concomitant medical conditions, pregnancy status, concomitant medications, and the specific nature of the condition being treated.
 
-TIROSINT is administered as a single daily dose, preferably one-half to one-hour before breakfast TIROSINT should be taken at least 4 hours apart from drugs that are known to interfere with its absorption (see PRECAUTIONS, Drug Interactions).
-TIROSINT capsules cannot be cut or crushed.
+Hence, the following recommendations serve only as dosing guidelines.
+Dosing must be individualized and adjustments made based on periodic assessment of the patient's clinical response and laboratory parameters.
+Inadequate levothyroxine dosage will fail to ameliorate the signs and symptoms of hypothyroidism [See Warnings and Precautions (5.1)].
 
 Due to the long half-life of levothyroxine, the peak therapeutic effect at a given dose of levothyroxine sodium may not be attained for 4-6 weeks.
 
-Caution should be exercised when administering TIROSINT to patients with underlying cardiovascular disease, to the elderly, and to those with concomitant adrenal insufficiency (see PRECAUTIONS).
+## 2.3 Dosing In Specific Patient Populations
 
-## Specific Patient Populations
+Hypothyroidism in Adults and in Adolescents in Whom Growth and Puberty are Complete
 
-### Hypothyroidism in Adults and in Children in Whom Growth and Puberty are Complete
+The average full replacement dose of levothyroxine sodium is approximately 1.7 mcg per kg per day (e.g., 100-125 mcg per day for a 70 kg adult).
+Elderly patients may require less than 1 mcg per kg per day.
 
-(see WARNINGS and PRECAUTIONS, Laboratory Tests)
+The initial levothyroxine dosage is based on the age, weight, and cardiac status of the patient as well as the severity and duration of the hypothyroidism.
+Therapy may generally begin at full replacement doses in otherwise non-elderly, healthy individuals.
 
-Therapy may begin at full replacement doses in otherwise healthy individuals less than 50 years old and in those older than 50 years who have been recently treated for hyperthyroidism or who have been hypothyroid for only a short time (such as a few months).
-The average full replacement dose of levothyroxine sodium is approximately 1.7 mcg/kg/day (e.g., 100-125 mcg/day for a 70 kg adult).
-Older patients may require less than 1 mcg/kg/day.
-Levothyroxine sodium doses greater than 200 mcg/day are seldom required.
-An inadequate response to daily doses ≥ 300 mcg/day is rare and may indicate poor compliance, malabsorption, and/or drug interactions.
+For elderly patients or those with underlying cardiovascular disease, a starting dose of levothyroxine sodium as low as 12.5 mcg per day may be appropriate, with gradual increments in dose at 6-8 week intervals, as needed [See Warnings and Precautions (5.2)].
+More frequent monitoring is recommended for patients with more severe hypothyroidism.
 
-For most patients older than 50 years or for patients under 50 years of age with underlying cardiac disease, an initial starting dose of 25-50 mcg/day of levothyroxine sodium is recommended, with gradual increments in dose at 6-8 week intervals, as needed.
-The recommended starting dose of levothyroxine sodium in elderly patients with cardiac disease is 12.5-25 mcg/day, with gradual dose increments at 4-6 week intervals.
-The levothyroxine sodium dose is generally adjusted in 12.5-25 mcg increments until the patient with primary hypothyroidism is clinically euthyroid and the serum TSH has normalized.
-Unlike levothyroxine sodium tablets, TIROSINT capsules cannot be cut in half.
+In general, levothyroxine sodium doses greater than 200 mcg per day are seldom required.
+An inadequate response to daily doses greater than 300 mcg per day is rare and may indicate poor compliance, malabsorption, and/or drug interactions.
 
-In patients with severe hypothyroidism, the recommended initial levothyroxine sodium dose is 12.5-25 mcg/day with increases of 25 mcg/day every 2-4 weeks, accompanied by clinical and laboratory assessment, until the TSH level is normalized.
+Secondary or Tertiary Hypothyroidism
 
-In patients with secondary (pituitary) or tertiary (hypothalamic) hypothyroidism, the levothyroxine sodium dose should be titrated until the patient is clinically euthyroid and the serum free-T4 level is restored to the upper half of the normal range.
+In patients with secondary (pituitary) or tertiary (hypothalamic) hypothyroidism, the levothyroxine sodium dose should be titrated until the patient is clinically euthyroid and the serum free thyroxine (FT4) level is restored to the upper half of the normal range.
 
-### Pediatric Dosage - Congenital or Acquired Hypothyroidism
+Hypothyroidism (Congenital or Acquired) in the Pediatric Population
 
-(see PRECAUTIONS, Laboratory Tests)
-
-#### General Principles
+Only administer TIROSINT to children who are able to swallow an intact capsule [See Contraindications (4)].
 
 In general, levothyroxine therapy should be instituted at full replacement doses as soon as possible.
 Delays in diagnosis and institution of therapy may have deleterious effects on the child's intellectual and physical growth and development.
+Undertreatment and overtreatment should be avoided [See Warnings and Precautions (5.1) and Use in Specific Populations (8.4)].
 
-Undertreatment and overtreatment should be avoided (see PRECAUTIONS, Pediatric Use).
+Levothyroxine therapy is usually initiated at full replacement doses, with the recommended dose per body weight changing with age (Table 1).
 
-TIROSINT may be administered to infants and children, but only if they are able to swallow an intact capsule.
-Unlike levothyroxine sodium tablets, TIROSINT capsules cannot be crushed and suspended in a small amount of water, nor can they be dissolved by placing in water prior to administration (see CONTRAINDICATIONS).
+Table 1: Levothyroxine Sodium Dosing Guidelines for Pediatric Hypothyroidism
 
-#### Newborns
+| Age | Daily Dose Per Kg Body WeightThe dose should be adjusted based on clinical response and laboratory parameters. [See Warnings and Precautions (5.1) and Use in Specific Populations (8.4)] |
+| --- | --- |
+| 6-12 years | 4-5 mcg/kg/day |
+| >12 years but growth and puberty incomplete | 2-3 mcg/kg/day |
+| Growth and puberty complete | 1-7 mcg/kg/day |
 
-TIROSINT is not recommended for the treatment of newborns as they may be unable to swallow a capsule.
-
-#### Infants and Children
-
-Levothyroxine therapy is usually initiated at full replacement doses, with the recommended dose per body weight decreasing with age (see Table 3).
-However, in children with chronic or severe hypothyroidism, an initial dose of 25 mcg/day of levothyroxine sodium is recommended with increments of 25 mcg every 2-4 weeks until the desired effect is achieved.
+In children with chronic or severe hypothyroidism, a lower initial dose of 25 mcg per day of levothyroxine sodium is recommended with increasing increments of 25 mcg every 2-4 weeks until the desired effect is achieved.
 
 Hyperactivity in an older child can be minimized if the starting dose is one-fourth of the recommended full replacement dose, and the dose is then increased on a weekly basis by an amount equal to one-fourth the full-recommended replacement dose until the full recommended replacement dose is reached.
 
-Table 3: Levothyroxine Sodium Dosing Guidelines for Pediatric Hypothyroidism
+Pregnancy
 
-| Age | Daily Dose Per Kg Body WeightThe dose should be adjusted based on clinical response and laboratory parameters (see PRECAUTIONS, Laboratory Tests and Pediatric Use). |
-| --- | --- |
-| 0-3 months | 10-15 mcg/kg/day |
-| 3-6 months | 8-10 mcg/kg/day |
-| 6-12 months | 6-8 mcg/kg/day |
-| 6-12 years | 4-5 mcg/kg/day |
-| >12 years but growth and puberty incomplete | 2-3 mcg/kg/day |
-| Growth and puberty complete | 1.7 mcg/kg/day |
+Pregnancy may increase levothyroxine requirements.
+[See Use in Specific Populations (8.1)]
 
-#### Pregnancy
-
-Pregnancy may increase levothyroxine requirements (see PREGNANCY).
-
-#### Subclinical Hypothyroidism
-
-If this condition is treated, a lower levothyroxine sodium dose (e.g., 1 mcg/kg/day) than that used for full replacement may be adequate to normalize the serum TSH level.
-Patients who are not treated should be monitored yearly for changes in clinical status and thyroid laboratory parameters.
-
-#### TSH Suppression in Well-differentiated Thyroid Cancer and Thyroid Nodules
-
-The target level for TSH suppression in these conditions has not been established with controlled studies.
-In addition, the efficacy of TSH suppression for benign nodular disease is controversial.
-Therefore, the dose of TIROSINT used for TSH suppression should be individualized based on the specific disease and the patient being treated.
+Thyrotropin-Stimulating Hormone (TSH) Suppression in Well-Differentiated Thyroid Cancer
 
 In the treatment of well-differentiated (papillary and follicular) thyroid cancer, levothyroxine is used as an adjunct to surgery and radioiodine therapy.
-Generally, TSH is suppressed to <0.1 mU/L, and this usually requires a levothyroxine sodium dose of greater than 2 mcg/kg/day.
-However, in patients with high risk tumors, the target level for TSH suppression may be <0.01 mU/L.
+Generally, TSH is suppressed to less than 0.1 mU per L, and this usually requires a levothyroxine sodium dose of greater than 2 mcg per kg per day.
+However, in patients with high-risk tumors, the target level for TSH suppression may be less than 0.01 mU per L.
 
-In the treatment of benign nodules and nontoxic multinodular goiter, TSH is generally suppressed to a higher target (e.g., 0.1 to either 0.5 or 1 mU/L) than that used for the treatment of thyroid cancer.
-Levothyroxine sodium is contraindicated if the serum TSH is already suppressed due to the risk of precipitating overt thyrotoxicosis (see CONTRAINDICATIONS, WARNINGS and PRECAUTIONS).
-
-#### Myxedema Coma
+Myxedema Coma
 
 Myxedema coma is a life-threatening emergency characterized by poor circulation and hypometabolism, and may result in unpredictable absorption of levothyroxine sodium from the gastrointestinal tract.
-Therefore, oral thyroid hormone drug products are not recommended to treat this condition.
-Thyroid hormone products formulated for intravenous administration should be administered.
+Therefore, thyroid hormone administered intravenously is the recommended route of administration in this rare condition.
+
+## 2.4 Monitoring TSH and/or Thyroxine (T4) Levels
+
+The adequacy of therapy is determined by periodic assessment of appropriate laboratory tests and clinical evaluation.
+The choice of laboratory tests depends on various factors including the etiology of the underlying thyroid disease, the presence of concomitant medical conditions, including pregnancy, and the use of concomitant medications.
+Persistent clinical and laboratory evidence of hypothyroidism despite an apparent adequate replacement dose of TIROSINT may be evidence of inadequate absorption, poor compliance, drug interactions, or decreased T4 potency of the drug product.
+
+Adults
+
+In adult patients with primary (thyroidal) hypothyroidism, serum TSH levels alone may be used to monitor therapy.
+The frequency of TSH monitoring during levothyroxine dose titration depends on the clinical situation but reassessment and titration should be done after an interval of at least 6 weeks after any change in dose.
+When the optimum replacement dose has been attained, clinical (physical examination) and biochemical monitoring may be performed every 6-12 months, depending on the clinical situation, and whenever there is a change in the patient's status.
+It is recommended that a physical examination and a serum TSH measurement be performed at least annually in patients receiving TIROSINT.
+
+Pediatrics
+
+In patients with congenital hypothyroidism, the adequacy of replacement therapy should be assessed by measuring both serum TSH and total or FT4.
+While the aim of therapy is to also normalize the serum TSH level, this is not always possible in a small percentage of patients, particularly in the first few months of therapy.
+TSH may not normalize due to a resetting of the pituitary-thyroid feedback threshold as a result of in utero hypothyroidism.
+Failure of the serum T4 to increase into the upper half of the normal range within 2 weeks of initiation of TIROSINT therapy and/or of the serum TSH to decrease below 20 mU per L within 4 weeks should alert the physician to the possibility that the child is not receiving adequate therapy.
+Careful inquiry should then be made regarding compliance, dose of medication administered, and method of administration prior to increasing the dose of TIROSINT.
+
+The recommended frequency of monitoring of TSH and total or FT4 in children is as follows: at 2 and 4 weeks after the initiation of treatment and following dose stabilization every 3 to 12 months thereafter until growth is completed.
+More frequent intervals of monitoring may be necessary if poor compliance is suspected or abnormal values are obtained.
+It is recommended that TSH and T4 levels, and a physical examination, if indicated, be performed 2 weeks after any change in TIROSINT dosage.
+Routine clinical examination, including assessment of mental and physical growth and development, and bone maturation, should be performed at regular intervals [See Warnings and Precautions (5.1), and Use in Specific Populations (8.4)].
+
+Secondary (Pituitary) and Tertiary (Hypothalamic) Hypothyroidism
+
+Adequacy of therapy should be assessed by measuring serum FT4 levels, which should be maintained in the upper half of the normal range in these patients.
