@@ -7,7 +7,8 @@ Pregnancy Category D
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue Diovan as soon as possible [see Use in Specific Populations (8.1)].
+When pregnancy is detected, discontinue Diovan as soon as possible.
+[see Use in Specific Populations (8.1)].
 
 ## 5.2 Hypotension
 

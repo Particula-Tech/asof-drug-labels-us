@@ -31,13 +31,18 @@ Because many drugs are excreted into human milk and because of the potential for
 The antihypertensive effects of Diovan have been evaluated in two randomized, double-blind clinical studies in pediatric patients from 1-5 and 6-16 years of age [see Clinical Studies(14.1)].
 The pharmacokinetics of Diovan have been evaluated in pediatric patients 1 to 16 years of age [see Pharmacokinetics, Special Populations, Pediatric (12.3)].
 Diovan was generally well tolerated in children 6-16 years and the adverse experience profile was similar to that described for adults.
+
+In children and adolescents with hypertension where underlying renal abnormalities may be more common, renal function and serum potassium should be closely monitored as clinically indicated.
+
 Diovan is not recommended for pediatric patients under 6 years of age due to safety findings for which a relationship to treatment could not be excluded [see Adverse Reactions, Pediatric Hypertension (6.1)].
+
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2.
+
+There is limited clinical experience with Diovan in pediatric patients with mild to moderate hepatic impairment [See Warnings (5.3)].
 
 Daily oral dosing of neonatal/juvenile rats with valsartan at doses as low as 1 mg/kg/day (about 10% of the maximum recommended pediatric dose on a mg/m2 basis) from postnatal day 7 to postnatal day 70 produced persistent, irreversible kidney damage.
 These kidney effects in neonatal rats represent expected exaggerated pharmacological effects that are observed if rats are treated during the first 13 days of life.
 Since this period coincides with up to 44 weeks after conception in humans, it is not considered to point toward an increased safety concern in 6 to 16 year old children.
-
-Diovan is not recommended for treatment of children with glomerular filtration rates <30 mL/min/1.73 m2, as no data are available.
 
 Neonates with a history of in utero exposure to Diovan:
 

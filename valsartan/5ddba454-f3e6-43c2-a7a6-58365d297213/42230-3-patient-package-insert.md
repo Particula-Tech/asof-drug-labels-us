@@ -114,8 +114,8 @@ Lie down, if you feel faint or dizzy.
 Call your doctor right away.
 
 Kidney problems.
-Kidney problems may get worse in people that already have kidney disease.
-Some people will have changes on blood tests for kidney function and may need a lower dose of DIOVAN.
+Kidney problems may get worse if you already have kidney disease.
+Some patients will have changes on blood tests for kidney function and may need a lower dose of DIOVAN.
 Call your doctor if you get swelling in your feet, ankles, or hands, or unexplained weight gain.
 If you have heart failure, your doctor should check your kidney function before prescribing DIOVAN.
 
@@ -200,4 +200,4 @@ East Hanover, NJ 07936
 
 © Novartis
 
-T2012-31/T2012-32 January 2012/January 2012
+T2012-64/T2012-65 February 2012/February 2012

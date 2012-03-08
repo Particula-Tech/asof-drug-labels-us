@@ -28,7 +28,11 @@ Follow the suspension preparation instructions below (see Preparation of Suspens
 When the suspension is replaced by a tablet, the dose of valsartan may have to be increased.
 The exposure to valsartan with the suspension is 1.6 times greater than with the tablet.
 
-Diovan is not recommended for treatment of children below the age of 6 years or children of any age with a glomerular filtration rate <30 mL/min/1.73 m2, as no data are available.
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2.
+[See Pediatric Use (8.4)]
+
+Diovan is not recommended for patients <6 years old.
+[See Adverse Reactions (6.1), Clinical Trials (14.1)]
 
 Preparation of Suspension (for 160 mL of a 4 mg/mL suspension)
 
