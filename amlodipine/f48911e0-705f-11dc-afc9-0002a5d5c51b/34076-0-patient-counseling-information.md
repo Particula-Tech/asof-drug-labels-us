@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Physicians should instruct female patients of childbearing age about the consequences of second and third trimester exposure to drugs that act on the renin-angiotensin system and they should be told that these consequences do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
-These patients should be informed to report pregnancies to their physicians as soon as possible.
-[See Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to Azor during pregnancy.
+Discuss treatment options with women planning to become pregnant.
+Patients should be asked to report pregnancies to their physicians as soon as possible.
 
 Manufactured for Daiichi Sankyo, Inc., Parsippany, New Jersey 07054 Manufactured by Daiichi Sankyo Europe GmbH, Germany
 

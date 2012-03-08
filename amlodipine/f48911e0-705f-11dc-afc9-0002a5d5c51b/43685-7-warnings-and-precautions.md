@@ -1,34 +1,13 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Fetal/Neonatal Morbidity and Mortality
+## 5.1 Fetal toxicity
 
-Olmesartan medoxomil.
-Drugs that act directly on the renin-angiotensin system can cause fetal and neonatal morbidity and death when administered to pregnant women.
-There have been several dozen cases reported in the world literature of patients who were taking angiotensin converting enzyme inhibitors.
-When pregnancy is detected, discontinue Azor as soon as possible.
+Pregnancy Category D
 
-During the second and third trimesters of pregnancy, these drugs have been associated with fetal injury that includes hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
-Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
-Prematurity, intrauterine growth retardation, and patent ductus arteriosus have also been reported, although it is not clear whether these occurrences were due to exposure to the drug.
-
-These adverse effects do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
-Mothers whose embryos and fetuses are exposed to an angiotensin II receptor antagonist only during the first trimester should be so informed.
-Nonetheless, when patients become pregnant, physicians should have the patient discontinue the use of Azor as soon as possible.
-
-Rarely (probably less often than once in every thousand pregnancies), no alternative to a drug acting on the renin-angiotensin system will be found.
-In these rare cases, the mothers should be apprised of the potential hazards to their fetuses and serial ultrasound examinations should be performed to assess the intra-amniotic environment.
-
-If oligohydramnios is observed, discontinue Azor unless it is considered life-saving for the mother.
-Contraction stress testing (CST), a non-stress test (NST), or biophysical profiling (BPP) may be appropriate, depending upon the week of pregnancy.
-Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-
-Infants with histories of in utero exposure to an angiotensin II receptor antagonist should be closely observed for hypotension, oliguria, and hyperkalemia.
-If oliguria occurs, attention should be directed toward support of blood pressure and renal perfusion.
-Exchange transfusion or dialysis may be required as means of reversing hypotension and/or substituting for disordered renal function.
-
-No teratogenic effects were observed when olmesartan medoxomil was administered to pregnant rats at oral doses up to 1000 mg/kg/day (240 times the maximum recommended human dose (MRHD) on a mg/m2 basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (half the MRHD on a mg/m2 basis; higher doses could not be evaluated for effects on fetal development as they were lethal to the does).
-In rats, significant decreases in pup birth weight and weight gain were observed at doses ≥1.6 mg/kg/day, and delays in developmental milestones (delayed separation of ear auricular, eruption of lower incisors, appearance of abdominal hair, descent of testes, and separation of eyelids) and dose-dependent increases in the incidence of dilation of the renal pelvis were observed at doses ≥8 mg/kg/day.
-The no observed effect dose for developmental toxicity in rats is 0.3 mg/kg/day, about one-tenth the MRHD of 40 mg/day.
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
+Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
+When pregnancy is detected, discontinue Azor as soon as possible [see Use in specific Populations (8.1)].
 
 ## 5.2 Hypotension in Volume- or Salt-Depleted Patients
 
