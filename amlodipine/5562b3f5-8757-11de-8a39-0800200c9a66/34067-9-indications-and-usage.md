@@ -18,4 +18,4 @@ Relative risk reduction from blood pressure reduction is similar across populati
 Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease).
 These considerations may guide selection of therapy.
 
-This fixed combination drug is not indicated for the initial therapy of hypertension[see Dosage and Administration (2)].
+This fixed combination drug is not indicated for the initial therapy of hypertension [see Dosage and Administration (2)].

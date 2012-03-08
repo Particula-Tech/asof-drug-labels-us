@@ -34,6 +34,8 @@ Effect of Amlodipine on Other Agents Atorvastatin: Co-administration of multiple
 Digoxin: Co-administration of amlodipine with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.
 Ethanol (alcohol): Single and multiple 10 mg doses of amlodipine had no significant effect on the pharmacokinetics of ethanol.
 Warfarin: Co-administration of amlodipine with warfarin did not change the warfarin prothrombin response time.
+Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone.
+Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
 
 In clinical trials, amlodipine has been safely administered with thiazide diuretics, beta blockers, ACE inhibitors, long-acting nitrates, sublingual nitroglycerin, digoxin, warfarin, non-steroidal anti-inflammatory drugs, antibiotics, and oral hypoglycemic drugs.
 

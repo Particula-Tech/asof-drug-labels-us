@@ -5,9 +5,10 @@ There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or treatment.
 
 What is the most important information I should know about Tribenzor?
-If you become pregnant while taking Tribenzor, stop taking Tribenzor and call your doctor right away.
-Tribenzor can harm an unborn baby causing injury or even death.
-Talk to your doctor about other treatment options to lower your blood pressure before taking Tribenzor if you plan to become pregnant.
+
+- Tribenzor can cause harm or death to an unborn baby.
+- Talk to your doctor about other ways to lower your blood pressure if you become pregnant.
+- If you get pregnant while taking Tribenzor, tell your doctor right away.
 
 What is Tribenzor?
 Tribenzor is a prescription medicine used to lower blood pressure (hypertension).

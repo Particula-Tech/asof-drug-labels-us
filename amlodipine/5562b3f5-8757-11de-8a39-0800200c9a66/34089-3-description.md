@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Tribenzor is a fixed combination of olmesartan medoxomil (ARB), amlodipine (CCB), and hydrochlorothiazide (thiazide diuretic).
+Tribenzor provided as a tablet for oral administration, is a fixed combination of olmesartan medoxomil (ARB), amlodipine (CCB), and hydrochlorothiazide (thiazide diuretic).
 
 Olmesartan medoxomil, a prodrug, is hydrolyzed to olmesartan during absorption from the gastrointestinal tract.
 

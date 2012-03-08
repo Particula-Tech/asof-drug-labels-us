@@ -1,7 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling Pregnancy: Instruct female patients of childbearing age about the consequences of second and third trimester exposure to drugs that act on the renin angiotensin system like olmesartan medoxomil and that these consequences do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
-Tell patients to report pregnancies to their physicians as soon as possible [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+See FDA-Approved Patient Labeling Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to Tribenzor during pregnancy.
+Discuss treatment options with women planning to become pregnant.
+Patients should be asked to report pregnancies to their physicians as soon as possible.
 
 Symptomatic Hypotension: A patient receiving Tribenzor should be cautioned that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician.
 Tell patients that if syncope occurs, Tribenzor should be discontinued until the physician has been consulted.
