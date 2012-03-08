@@ -20,7 +20,7 @@ Since the duration of action of naloxone may be shorter than that of some opiate
 
 The requirement for repeat doses of naloxone will also be dependent upon the amount, type and route of administration of the opioid being antagonized.
 
-## Adjunctive Use in Septic Shock
+Adjunctive Use in Septic Shock
 
 Naloxone has been shown in some cases of septic shock to produce a rise in blood pressure that may last up to several hours; however this pressor response has not been demonstrated to improve patient survival.
 In some studies, treatment with naloxone in the setting of septic shock has been associated with adverse effects, including agitation, nausea and vomiting, pulmonary edema, hypotension, cardiac arrhythmias, and seizures.
