@@ -1,13 +1,27 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA015197",
+    "NDA015230"
+  ],
   "inn": "aminocaproic-acid",
-  "labeler": "XANODYNE PHARMACEUTICALS, INC.",
+  "labeler": "Xanodyne Pharmaceuticals, Inc.",
   "package_ndcs": [
     "66479-021-82",
     "66479-022-82",
     "66479-023-56"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "aminocaproic acid",
+      "name": "Amicar"
+    },
+    {
+      "form": "TABLET",
+      "generic": "aminocaproic acid",
+      "name": "Amicar"
+    }
+  ],
   "setid": "ff313ad4-03f9-4cf9-bc7a-1ef38b25446c",
   "source": "dailymed"
 }
