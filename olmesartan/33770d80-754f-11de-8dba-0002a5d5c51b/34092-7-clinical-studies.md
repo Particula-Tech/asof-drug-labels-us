@@ -20,6 +20,8 @@ The antihypertensive effect of Benicar was similar in men and women and in patie
 The effect was smaller in black patients (usually a low renin population), as has been seen with ACE inhibitors, beta-blockers and other angiotensin receptor blockers.
 Benicar had an additional blood pressure lowering effect when added to hydrochlorothiazide.
 
+There are no trials of Benicar demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.
+
 ## 14.2 Pediatric Hypertension
 
 The antihypertensive effects of Benicar in the pediatric population were evaluated in a randomized, double-blind study involving 302 hypertensive patients aged 6 to 16 years.

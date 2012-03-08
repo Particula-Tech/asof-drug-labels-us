@@ -16,6 +16,13 @@ The antihypertensive effects of Benicar were evaluated in one randomized, double
 The pharmacokinetics of Benicar were evaluated in pediatric patients 1 to 16 years of age [see Clinical Pharmacology (12.3)].
 Benicar was generally well tolerated in pediatric patients, and the adverse experience profile was similar to that described for adults.
 
+Benicar has not been shown to be effective for hypertension in children <6 years of age.
+
+Children <1 year of age must not receive Benicar for hypertension [see Warnings and Precautions (5.2)].
+The renin-angiotensin aldosterone system (RAAS) plays a critical role in kidney development.
+RAAS blockade has been shown to lead to abnormal kidney development in very young mice.
+Administering drugs that act directly on the renin- angiotensin aldosterone system (RAAS) can alter normal renal development.
+
 ## 8.5 Geriatric Use
 
 Of the total number of hypertensive patients receiving Benicar in clinical studies, more than 20% were 65 years of age and over, while more than 5% were 75 years of age and older.
@@ -31,7 +38,7 @@ No initial dosage adjustment is recommended for patients with moderate to marked
 
 Patients with renal insufficiency have elevated serum concentrations of olmesartan compared to subjects with normal renal function.
 After repeated dosing, the AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min).
-No initial dosage adjustment is recommended for patients with moderate to marked renal impairment (creatinine clearance <40 mL/min) [see Dosage and Administration (2.1), Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+No initial dosage adjustment is recommended for patients with moderate to marked renal impairment (creatinine clearance <40 mL/min) [see Dosage and Administration (2.1), Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Black Patients
 

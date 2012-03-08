@@ -57,6 +57,8 @@ Modest accumulation of olmesartan was observed in the elderly with repeated dosi
 Pediatric The pharmacokinetics of olmesartan were studied in pediatric hypertensive patients aged 1 to16 years.
 The clearance of olmesartan in pediatric patients was similar to that in adult patients when adjusted by the body weight [see Use in Specific Populations (8.4)].
 
+Olmesartan pharmacokinetics have not been investigated in pediatric patients less than 1 year of age [see Warnings and Precautions (5.2) and Use in Specific Populations (8.4)].
+
 Gender Minor differences were observed in the pharmacokinetics of olmesartan in women compared to men.
 AUC and Cmax were 10-15% higher in women than in men.
 
@@ -64,4 +66,4 @@ Hepatic Insufficiency Increases in AUC0-∞ and Cmax were observed in patients w
 
 Renal Insufficiency In patients with renal insufficiency, serum concentrations of olmesartan were elevated compared to subjects with normal renal function.
 After repeated dosing, the AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min).
-The pharmacokinetics of olmesartan in patients undergoing hemodialysis has not been studied [see Dosage and Administration (2.1), Warnings and Precautions (5.3) and Use in Specific Populations (8.7)].
+The pharmacokinetics of olmesartan in patients undergoing hemodialysis has not been studied [see Dosage and Administration (2.1), Warnings and Precautions (5.4) and Use in Specific Populations (8.7)].

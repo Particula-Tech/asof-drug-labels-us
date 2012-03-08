@@ -25,14 +25,19 @@ Infants with histories of in utero exposure to an angiotensin II receptor antago
 If oliguria occurs, attention should be directed toward support of blood pressure and renal perfusion.
 Exchange transfusion or dialysis may be required as means of reversing hypotension and/or substituting for disordered renal function.
 
-## 5.2 Hypotension in Volume- or Salt-Depleted Patients
+## 5.2 Morbidity in Infants
+
+Children <1 year of age must not receive Benicar for hypertension.
+Drugs that act directly on the renin-angiotensin aldosterone system (RAAS) can have effects on the development of immature kidneys [see Use in Specific Populations (8.4)].
+
+## 5.3 Hypotension in Volume- or Salt-Depleted Patients
 
 In patients with an activated renin-angiotensin aldosterone system, such as volume- and/or salt-depleted patients (e.g., those being treated with high doses of diuretics), symptomatic hypotension may be anticipated after initiation of treatment with Benicar.
 Initiate treatment under close medical supervision.
 If hypotension does occur, place the patient in the supine position and, if necessary, give an intravenous infusion of normal saline [see Dosage and Administration (2.1)].
 A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
 
-## 5.3 Impaired Renal Function
+## 5.4 Impaired Renal Function
 
 As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals treated with Benicar.
 In patients whose renal function may depend upon the activity of the renin angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death.

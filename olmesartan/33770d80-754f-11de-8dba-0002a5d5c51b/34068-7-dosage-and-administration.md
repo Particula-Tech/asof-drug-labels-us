@@ -8,8 +8,8 @@ For patients requiring further reduction in blood pressure after 2 weeks of ther
 Doses above 40 mg do not appear to have greater effect.
 Twice-daily dosing offers no advantage over the same total dose given once daily.
 
-No initial dosage adjustment is recommended for elderly patients, for patients with moderate to marked renal impairment (creatinine clearance <40 mL/min) or with moderate to marked hepatic dysfunction [see Warnings and Precautions (5.3), Use in Specific Populations (8.5, 8.6, 8.7) and Clinical Pharmacology (12.3)].
-For patients with possible depletion of intravascular volume (e.g., patients treated with diuretics, particularly those with impaired renal function), initiate Benicar under close medical supervision and give consideration to use of a lower starting dose [see Warnings and Precautions (5.2)].
+No initial dosage adjustment is recommended for elderly patients, for patients with moderate to marked renal impairment (creatinine clearance <40 mL/min) or with moderate to marked hepatic dysfunction [see Warnings and Precautions (5.4), Use in Specific Populations (8.5, 8.6, 8.7) and Clinical Pharmacology (12.3)].
+For patients with possible depletion of intravascular volume (e.g., patients treated with diuretics, particularly those with impaired renal function), initiate Benicar under close medical supervision and give consideration to use of a lower starting dose [see Warnings and Precautions (5.3)].
 
 Benicar may be administered with or without food.
 
@@ -22,8 +22,10 @@ Dosage must be individualized.
 For children who can swallow tablets, the usual recommended starting dose of Benicar is 10 mg once daily for patients who weigh 20 to <35 kg (44 to 77 lb), or 20 mg once daily for patients who weigh ≥35 kg.
 For patients requiring further reduction in blood pressure after 2 weeks of therapy, the dose of Benicar may be increased to a maximum of 20 mg once daily for patients who weigh <35 kg or 40 mg once daily for patients who weigh ≥35 kg.
 
+Children <1 year of age must not receive Benicar for hypertension.
+
 For children who cannot swallow tablets, the same dose can be given using an extemporaneous suspension as described below [see Clinical Pharmacology (12.3)].
-Follow the suspension preparation instructions below to administer Benicar as a suspension [see Preparation of Suspension].
+Follow the suspension preparation instructions below to administer Benicar as a suspension.
 
 Preparation of Suspension (for 200 mL of a 2 mg/mL suspension) Add 50 mL of Purified Water to an amber polyethylene terephthalate (PET) bottle containing twenty Benicar 20 mg tablets and allow to stand for a minimum of 5 minutes.
 Shake the container for at least 1 minute and allow the suspension to stand for at least 1 minute.
