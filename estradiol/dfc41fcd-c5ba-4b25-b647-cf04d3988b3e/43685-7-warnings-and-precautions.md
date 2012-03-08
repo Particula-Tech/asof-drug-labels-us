@@ -15,8 +15,7 @@ Risk factors for arterial vascular disease (e.g., hypertension, diabetes mellitu
 ### a. Coronary heart disease and stroke
 
 In the Women’s Health Initiative (WHI) study, an increase in the number of myocardial infarctions and strokes has been observed in women receiving CE compared to placebo.
-These observations are preliminary, and the study is continuing.
-(See CLINICAL PHARMACOLOGY, Clinical Studies.)
+These observations are preliminary, and the study is continuing (see CLINICAL PHARMACOLOGY, Clinical Studies).
 
 In the CE/MPA substudy of WHI, an increased risk of coronary heart disease (CHD) events (defined as nonfatal myocardial infarction and CHD death) was observed in women receiving CE/MPA compared to women receiving placebo (37 vs 30 per 10,000 women-years).
 The increase in risk was observed in year one and persisted.
@@ -36,8 +35,7 @@ Large doses of estrogen (5 mg conjugated estrogens per day), comparable to those
 ### b. Venous thromboembolism (VTE)
 
 In the Women’s Health Initiative (WHI) study, an increase in VTE has been observed in women receiving CE compared to placebo.
-These observations are preliminary, and the study is continuing.
-(See CLINICAL PHARMACOLOGY, Clinical Studies.)
+These observations are preliminary, and the study is continuing (see CLINICAL PHARMACOLOGY, Clinical Studies).
 
 In the CE/MPA substudy of WHI, a 2-fold greater rate of VTE, including deep venous thrombosis and pulmonary embolism, was observed in women receiving CE/MPA compared to women receiving placebo.
 The rate of VTE was 34 per 10,000 women-years in the CE/MPA group compared to 16 per 10,000 women-years in the placebo group.
@@ -89,8 +87,7 @@ In the Women’s Health Initiative Memory Study (WHIMS), 4,532 generally healthy
 After an average follow-up of 4 years, 40 women being treated with CE/MPA (1.8%, n = 2,229) and 21 women in the placebo group (0.9%, n = 2,303) received diagnoses of probable dementia.
 The relative risk for CE/MPA versus placebo was 2.05 (95% confidence interval 1.21 – 3.48), and was similar for women with and without histories of menopausal hormone use before WHIMS.
 The absolute risk of probable dementia for CE/MPA versus placebo was 45 versus 22 cases per 10,000 women-years, and the absolute excess risk for CE/MPA was 23 cases per 10,000 women-years.
-It is unknown whether these findings apply to younger postmenopausal women.
-(See CLINICAL PHARMACOLOGY, Clinical Studies and PRECAUTIONS, Geriatric Use.)
+It is unknown whether these findings apply to younger postmenopausal women (see CLINICAL PHARMACOLOGY, Clinical Studies and PRECAUTIONS, Geriatric Use).
 
 It is unknown whether these findings apply to estrogen-alone therapy.
 
@@ -194,15 +191,13 @@ Estrogen administration should be initiated at the lowest dose approved for the 
 
 ## E. CARCINOGENESIS, MUTAGENESIS, AND IMPAIRMENT OF FERTILITY
 
-Long-term continuous administration of estrogen, with and without progestin, in women with and without a uterus, has shown an increased risk of endometrial cancer, breast cancer, and ovarian cancer.
-(See BOXED WARNINGS, WARNINGS and PRECAUTIONS.)
+Long-term continuous administration of estrogen, with and without progestin, in women with and without a uterus, has shown an increased risk of endometrial cancer, breast cancer, and ovarian cancer (see BOXED WARNINGS, WARNINGS and PRECAUTIONS).
 
 Long-term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.
 
 ## F. PREGNANCY
 
-ESTRACE (estradiol vaginal cream, USP, 0.01%) should not be used during pregnancy.
-(See CONTRAINDICATIONS.)
+ESTRACE (estradiol vaginal cream, USP, 0.01%) should not be used during pregnancy (see CONTRAINDICATIONS).
 
 ## G. NURSING MOTHERS
 
@@ -227,7 +222,6 @@ In the Women’s Health Initiative Memory Study, including 4,532 women 65 years 
 Most women (80%) had no prior hormone therapy use.
 Women treated with conjugated estrogens-plus-medroxyprogesterone acetate were reported to have a two-fold increase in the risk of developing probable dementia.
 Alzheimer’s disease was the most common classification of probable dementia in both the conjugated estrogens-plus-medroxyprogesterone acetate group and the placebo group.
-Ninety percent of the cases of probable dementia occurred in the 54% of women that were older than 70.
-(See WARNINGS, Dementia.)
+Ninety percent of the cases of probable dementia occurred in the 54% of women that were older than 70 (see WARNINGS, Dementia).
 
 There have not been sufficient numbers of geriatric patients involved in studies utilizing ESTRACE (estradiol vaginal cream, USP, 0.01%) to determine whether those over 65 years of age differ from younger subjects in their response to ESTRACE (estradiol vaginal cream, USP, 0.01%).

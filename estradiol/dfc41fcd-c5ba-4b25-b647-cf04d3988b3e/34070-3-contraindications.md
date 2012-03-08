@@ -11,5 +11,4 @@ ESTRACE (estradiol vaginal cream, USP, 0.01%) should not be used in women with a
 7. ESTRACE (estradiol vaginal cream, USP, 0.01%) should not be used in patients with known hypersensitivity to its ingredients.
 8. Known or suspected pregnancy.
    There is no indication for ESTRACE (estradiol vaginal cream, USP, 0.01%) in pregnancy.
-   There appears to be little or no increased risk of birth defects in children born to women who have used estrogens and progestins from oral contraceptives inadvertently during early pregnancy.
-   (See PRECAUTIONS.)
+   There appears to be little or no increased risk of birth defects in children born to women who have used estrogens and progestins from oral contraceptives inadvertently during early pregnancy (see PRECAUTIONS).

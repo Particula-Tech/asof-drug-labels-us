@@ -1,6 +1,6 @@
 # INFORMATION FOR THE PATIENT
 
-(Updated September 2009)
+(Updated July 2011)
 
 NOTE: The number of doses per tube will vary with dosage requirements and patient handling.
 
@@ -161,3 +161,11 @@ You can get more information by calling the toll free number 1-800-521-8813.
 What are the ingredients in ESTRACE Vaginal Cream?
 
 Each gram of ESTRACE Vaginal Cream contains 0.1 mg estradiol in a nonliquefying base containing purified water, propylene glycol, stearyl alcohol, white ceresin wax, mono- and di-glycerides, hypromellose 2208 (4000 cps), sodium lauryl sulfate, methylparaben, edetate di-sodium and tertiary-butylhydroquinone.
+
+Manufactured by: Contract Pharmaceuticals Limited Buffalo, NY 14213-1091 for Warner Chilcott (US), LLC Rockaway, NJ 07866
+
+Marketed by: Warner Chilcott (US), LLC Rockaway, NJ 07866 1-800-521-8813
+
+To report SUSPECTED ADVERSE REACTIONS, contact Warner Chilcott at 1-800-521-8813 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+3754G0511 Revised: July 2011
