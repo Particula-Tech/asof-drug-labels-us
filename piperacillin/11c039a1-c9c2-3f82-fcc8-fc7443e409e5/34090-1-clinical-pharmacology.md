@@ -181,9 +181,9 @@ TABLE 2 SUSCEPTIBILITY INTERPRETIVE CRITERIA FOR PIPERACILLIN/TAZOBACTAM
 |  | Susceptibility Test Result Interpretive Criteria |  |  |  |  |  |
 |  | Minimal Inhibitory Concentration (MIC in μg/mL) |  |  | Disk Diffusion (Zone Diameter in mm) |  |  |
 | Enterobacteriaceae and Acinetobacter baumanii | ≤ 16 | 32 - 64 | ≥ 128 | ≥ 21 | 18 - 20 | ≤ 17 |
-| Haemophilus influenzaea | ≤ 1 | - | ≥ 2 | - | - | - |
+| Haemophilus influenzaea | ≤ 1 | - | ≥ 2 | ≥ 21 | - | - |
 | Pseudomonas aeruginosa | ≤ 64 | - | ≥ 128 | ≥ 18 | - | ≤ 17 |
-| Staphylococcus aureus | ≤ 8 | - | ≥ 16 | ≥ 20 | - | ≤ 19 |
+| Staphylococcus aureus | ≤ 8 | - | ≥ 16 | ≥ 18 | - | ≤ 17 |
 | Bacteroides fragilis group | ≤ 32 | 64 | ≥ 128 | - | - | - |
 | a These interpretive criteria for Haemophilus influenzae are applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. |  |  |  |  |  |  |
 
@@ -207,9 +207,10 @@ TABLE 3 ACCEPTABLE QUALITY CONTROL RANGES FOR PIPERACILLIN/TAZOBACTAM TO BE USED
 | Escherichia coli ATCC 25922 | 1 - 4 | 24 - 30 |
 | Escherichia coli ATCC 35218 | 0.5 - 2 | 24 - 30 |
 | Pseudomonas aeruginosa ATCC 27853 | 1 - 8 | 25 - 33 |
-| Haemophilus influenzaea ATCC 49247 | 0.06 - 0.5 | - |
+| Haemophilus influenzaea ATCC 49247 | 0.06 - 0.5 | 33 - 38 |
 | Staphylococcus aureus ATCC 29213 | 0.25 - 2 | - |
 | Staphylococcus aureus ATCC 25923 | - | 27 - 36 |
-| Bacteroides fragilis ATCC 25285 | 0.12 - 0.5 | - |
-| Bacteroides thetaiotaomicron ATCC 29741 | 4 - 16 | - |
+| Bacteroides fragilisb ATCC 25285 | 0.12 - 0.5 | - |
+| Bacteroides thetaiotaomicronb ATCC 29741 | 4 - 16 | - |
 | a This quality control range for Haemophilus influenzae is applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. |  |  |
+| b The quality control ranges for Bacteroides fragilis and Bacteroides thetaiotaomicron are applicable only to tests performed using the agar dilution method. |  |  |
