@@ -29,6 +29,13 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
+## Hypoglycemia
+
+Postmarketing cases of symptomatic hypoglycemia have been reported in patients with diabetes mellitus receiving insulin or oral hypoglycemic agents when treated with linezolid, a reversible, nonselective MAO inhibitor.
+Some MAO inhibitors have been associated with hypoglycemic episodes in diabetic patients receiving insulin or hypoglycemic agents.
+While a causal relationship between linezolid and hypoglycemia has not been established, diabetic patients should be cautioned of potential hypoglycemic reactions when treated with linezolid.
+If hypoglycemia occurs, a decrease in the dose of insulin or oral hypoglycemic agent, or discontinuation of oral hypoglycemic agent, insulin, or linezolid may be required.
+
 # PRECAUTIONS
 
 ## General

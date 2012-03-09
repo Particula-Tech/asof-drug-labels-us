@@ -1,5 +1,10 @@
 # CLINICAL PHARMACOLOGY
 
+## Pharmacodynamics
+
+In a randomized, positive- and placebo-controlled crossover thorough QT study, 40 healthy subjects were administered a single ZYVOX 600 mg dose via a 1 hour IV infusion, a single ZYVOX 1200 mg dose via a 1 hour IV infusion, placebo, and a single oral dose of positive control.
+At both the 600 mg and 1200 mg ZYVOX doses, no significant effect on QTc interval was detected at peak plasma concentration or at any other time.
+
 ## Pharmacokinetics
 
 The mean pharmacokinetic parameters of linezolid in adults after single and multiple oral and intravenous (IV) doses are summarized in Table 1.
@@ -12,7 +17,7 @@ Mean (Standard Deviation) Pharmacokinetic Parameters of Linezolid in Adults
 | --- | --- | --- | --- | --- | --- | --- |
 | 400 mg tablet single dose Data dose-normalized from 375 mg every 12 hours | 8.10 (1.83) 11.00 (4.37) | --- 3.08 (2.25) | 1.52 (1.01) 1.12 (0.47) | 55.10 (25.00) 73.40 (33.50) | 5.20 (1.50) 4.69 (1.70) | 146 (67) 110 (49) |
 | 600 mg tablet single dose every 12 hours | 12.70 (3.96) 21.20 (5.78) | --- 6.15 (2.94) | 1.28 (0.66) 1.03 (0.62) | 91.40 (39.30) 138.00 (42.10) | 4.26 (1.65) 5.40 (2.06) | 127 (48) 80 (29) |
-| 600 mg IV injectionData dose-normalized from 625 mg, IV dose was given as 0.5-hour infusion. single dose every 12 hours | 12.90 (1.60) 15.10 (2.52) | --- 3.68 (2.36) | 0.50 (0.10) 0.51 (0.03) | 80.20 (33.30) 89.70 (31.00) | 4.40 (2.40) 4.80 (1.70) | 138 (39) 123 (40) |
+| 600 mg IV injection Data dose-normalized from 625 mg, IV dose was given as 0.5-hour infusion. single dose every 12 hours | 12.90 (1.60) 15.10 (2.52) | --- 3.68 (2.36) | 0.50 (0.10) 0.51 (0.03) | 80.20 (33.30) 89.70 (31.00) | 4.40 (2.40) 4.80 (1.70) | 138 (39) 123 (40) |
 | 600 mg oral suspension single dose | 11.00 (2.76) | --- | 0.97 (0.88) | 80.80 (35.10) | 4.60 (1.71) | 141 (45) |
 | Cmax = Maximum plasma concentration; Cmin = Minimum plasma concentration; Tmax = Time to Cmax; AUC = Area under concentration-time curve; t1/2 = Elimination half-life; CL = Systemic clearance |  |  |  |  |  |  |
 
@@ -79,7 +84,7 @@ Pediatric patients 12 years and older should receive 600 mg q12h (see DOSAGE AND
 Table 2.
 Pharmacokinetic Parameters of Linezolid in Pediatrics and Adults Following a Single Intravenous Infusion of 10 mg/kg or 600 mg Linezolid (Mean: (%CV); [Min, Max Values])
 
-| Age Group | Cmax µg/mL | Vss L/kg | AUC AUC = Single dose AUC0–∞ µg • h/mL | t 1/2 hrs | CL mL/min/kg |
+| Age Group | Cmax µg/mL | Vss L/kg | AUCAUC = Single dose AUC0–∞ µg•h/mL | t 1/2 hrs | CL mL/min/kg |
 | --- | --- | --- | --- | --- | --- |
 | Neonatal Patients Pre-termIn this data set, "pre-term" is defined as <34 weeks gestational age (Note: Only 1 patient enrolled was pre-term with a postnatal age between 1 week and 28 days) < 1 week (N=9)Dose of 10 mg/kg | 12.7 (30%) [9.6, 22.2] | 0.81 (24%) [0.43, 1.05] | 108 (47%) [41, 191] | 5.6 (46%) [2.4, 9.8] | 2.0 (52%) [0.9, 4.0] |
 | Full-termIn this data set, "full-term" is defined as ≥34 weeks gestational age < 1 week (N=10) | 11.5 (24%) [8.0, 18.3] | 0.78 (20%) [0.45, 0.96] | 55 (47%) [19, 103] | 3.0 (55%) [1.3, 6.1] | 3.8 (55%) [1.5, 8.8] |
@@ -186,7 +191,7 @@ For streptococci, linezolid was found to be bactericidal for the majority of str
 In clinical trials, resistance to linezolid developed in 6 patients infected with Enterococcus faecium (4 patients received 200 mg q12h, lower than the recommended dose, and 2 patients received 600 mg q12h).
 In a compassionate use program, resistance to linezolid developed in 8 patients with E. faecium and in 1 patient with Enterococcus faecalis.
 All patients had either unremoved prosthetic devices or undrained abscesses.
-Resistance to linezolid occurs in vitro at a frequency of 1 x 10 -9 to 1 x 10 -11.
+Resistance to linezolid occurs in vitro at a frequency of 1 x 10 –9 to 1 x 10 –11.
 In vitro studies have shown that point mutations in the 23S rRNA are associated with linezolid resistance.
 Reports of vancomycin-resistant E. faecium becoming resistant to linezolid during its clinical use have been published.1 In one report nosocomial spread of vancomycin- and linezolid-resistant E. faecium occurred 2.
 There has been a report of Staphylococcus aureus (methicillin-resistant) developing resistance to linezolid during its clinical use.3 The linezolid resistance in these organisms was associated with a point mutation in the 23S rRNA (substitution of thymine for guanine at position 2576) of the organism.

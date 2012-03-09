@@ -61,7 +61,7 @@ The pooled clinical cure rates for patients with CAP due to MDRSP were 35/48 (73
 The pooled clinical cure rates for patients with HAP due to MDRSP were 12/18 (67%) in the MITT and 10/12 (83%) in the ME populations respectively.
 
 Table 17.
-Clinical cure rates for 36 microbiologically-evaluable patients with CAP due to MDRSP who were treated with ZYVOX (stratified by antibiotic susceptibility)
+Clinical cure rates for 36 microbiologically-evaluable patients with CAP due to MDRSPMDRSP refers to isolates resistant to two or more of the following antibiotics: penicillin, second-generation cephalosporins, macrolides, tetracycline, and trimethoprim/sulfamethoxazole. who were treated with ZYVOX (stratified by antibiotic susceptibility)
 
 | n/Nn= pooled number of patients treated successfully; N= pooled number of patients having MDRSP isolates that exhibited resistance to the listed antibiotic | (%) |  |
 | --- | --- | --- |

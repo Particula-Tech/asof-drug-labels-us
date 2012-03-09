@@ -52,9 +52,11 @@ Injection and with any other drug(s) administered via this common line (see Comp
 
 ## Compatible Intravenous Solutions
 
-- 5% Dextrose Injection, USP
-- 0.9% Sodium Chloride Injection, USP
-- Lactated Ringer's Injection, USP
+5% Dextrose Injection, USP
+
+0.9% Sodium Chloride Injection, USP
+
+Lactated Ringer's Injection, USP
 
 Keep the infusion bags in the overwrap until ready to use.
 Store at room temperature.
