@@ -1,0 +1,21 @@
+PRINCIPAL DISPLAY PANEL - 118.28 mL Bottle Label
+
+NDC 28105-150-04
+
+Rx only
+
+Derma-Smoothe/FS®
+
+Fluocinolone Acetonide 0.01% Topical Oil
+
+(BODY OIL)
+
+FOR TOPICAL USE ONLY NOT FOR ORAL, OPHTHALMIC, or INTRAVAGINAL USE
+
+SHAKE WELL BEFORE USE
+
+Net Contents 118.28 mL (4 fL. oz.)
+
+SINCE 1943
+
+Hill Dermaceuticals, Inc. SANFORD, FLORIDA 32773
