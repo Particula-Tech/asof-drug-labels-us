@@ -4,6 +4,6 @@ Lidocaine Ointment USP, 5% is available in 35.44 g (11/4 oz) laminate tubes with
 
 Store at controlled room temperature 15°-30°C (59°-86°F).
 
-E. FOUGERA & CO. A division of Nycomed US Inc. MELVILLE, NEW YORK 11747
+E. FOUGERA & CO. A division of Fougera PHARMACEUTICALS INC. Melville, New York 11747
 
-I220437J #277 R9/07
+I220437K R10/11 #277
