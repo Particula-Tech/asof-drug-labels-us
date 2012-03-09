@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA021210"
+  ],
+  "inn": "levothyroxine",
+  "labeler": "Lannett Company, Inc.",
+  "package_ndcs": [
+    "0527-1370-01",
+    "0527-1371-01",
+    "0527-1372-01",
+    "0527-1373-01",
+    "0527-1374-01",
+    "0527-1375-01",
+    "0527-1376-01",
+    "0527-1377-01",
+    "0527-1378-01",
+    "0527-1379-01",
+    "0527-1380-01",
+    "0527-1639-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levothyroxine sodium",
+      "name": "UNITHROID"
+    }
+  ],
+  "setid": "70df9c08-665f-4b12-9b11-e5521ebca3ea",
+  "source": "dailymed"
+}
