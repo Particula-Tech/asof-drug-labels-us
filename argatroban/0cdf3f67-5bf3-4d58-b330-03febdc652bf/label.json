@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA203049"
+  ],
+  "inn": "argatroban",
+  "labeler": "West-ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9674-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "argatroban",
+      "name": "Argatroban"
+    }
+  ],
+  "setid": "0cdf3f67-5bf3-4d58-b330-03febdc652bf",
+  "source": "dailymed"
+}
