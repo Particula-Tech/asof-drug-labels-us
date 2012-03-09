@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019452"
+  ],
+  "inn": "fluocinolone-acetonide",
+  "labeler": "Hill Dermaceuticals, Inc.",
+  "package_ndcs": [
+    "28105-149-04"
+  ],
+  "products": [
+    {
+      "form": "OIL",
+      "generic": "fluocinolone acetonide",
+      "name": "Derma-Smoothe/FS"
+    }
+  ],
+  "setid": "ab72c8d6-704a-4707-a7f8-0cb70f3ff093",
+  "source": "dailymed"
+}

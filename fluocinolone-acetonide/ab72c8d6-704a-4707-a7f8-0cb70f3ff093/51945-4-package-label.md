@@ -1,0 +1,23 @@
+# PRINCIPAL DISPLAY PANEL - 118.28 mL Label
+
+NDC 28105-149-04
+
+Rx only
+
+Derma-Smoothe/FS®
+
+Fluocinolone Acetonide 0.01% Topical Oil
+
+(SCALP OIL)
+
+FOR TOPICAL USE ONLY
+
+NOT FOR ORAL, OPHTHALMIC OR INTRAVAGINAL USE
+
+SHAKE WELL BEFORE USE
+
+Net Contents 118.28 mL (4 Fl. oz.)
+
+Since 1943
+
+Hill Dermaceuticals, Inc SANFORD, FLORIDA 32773
