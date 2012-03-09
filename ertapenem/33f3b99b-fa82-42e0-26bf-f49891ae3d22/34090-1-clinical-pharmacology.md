@@ -151,7 +151,7 @@ Staphylococcus aureus (methicillin susceptible isolates only) Streptococcus agal
 
 Gram-negative bacteria:
 
-Escherichia coli Haemophilus influenzae Klebsiella pneumoniae Moraxella catarrhalis Proteus mirabilis
+Escherichia coli Haemophilus influenzae (beta-lactamase negative isolates only) Klebsiella pneumoniae Moraxella catarrhalis Proteus mirabilis
 
 Anaerobic bacteria:
 
@@ -167,7 +167,7 @@ Staphylococcus epidermidis (methicillin susceptible isolates only) Streptococcus
 
 Gram-negative bacteria:
 
-Citrobacter freundii Citrobacter koseri Enterobacter aerogenes Enterobacter cloacae Haemophilus influenzae Haemophilus parainfluenzae Klebsiella oxytoca (excluding ESBL producing isolates) Morganella morganii Proteus vulgaris Providencia rettgeri Providencia stuartii Serratia marcescens
+Citrobacter freundii Citrobacter koseri Enterobacter aerogenes Enterobacter cloacae Haemophilus influenzae (beta-lactamase positive isolates only) Haemophilus parainfluenzae Klebsiella oxytoca (excluding ESBL producing isolates) Morganella morganii Proteus vulgaris Providencia rettgeri Providencia stuartii Serratia marcescens
 
 Anaerobic bacteria:
 
@@ -183,41 +183,33 @@ Dilution Techniques:
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a broth dilution method {1,2} or equivalent with standardized inoculum concentrations and standardized concentrations of ertapenem powder.
-The MIC values should be interpreted according to criteria provided in Table 11.
+Standardized procedures are based on a broth dilution method {1} or equivalent with standardized inoculum concentrations and standardized concentrations of ertapenem powder.
+The MIC values should be interpreted according to criteria provided in Table 11 and {4}.
 
 Diffusion Techniques:
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure {2,3} requires the use of standardized inoculum concentrations.
+One such standardized procedure {2} requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 10-µg ertapenem to test the susceptibility of microorganisms to ertapenem.
-The disk diffusion interpretive criteria should be interpreted according to criteria provided in Table 11.
+The disk diffusion interpretive criteria should be interpreted according to criteria provided in Table 11 and {4}.
 
 Anaerobic Techniques:
 
-For anaerobic bacteria, the susceptibility to ertapenem as MICs can be determined by standardized test methods {2,4}.
-The MIC values obtained should be interpreted according to criteria provided in Table 11.
+For anaerobic bacteria, the susceptibility to ertapenem as MICs can be determined by standardized test methods {3}.
+The MIC values obtained should be interpreted according to criteria provided in Table 11 and {4}.
 
 Table 11: Susceptibility Interpretive Criteria for Ertapenem
 
 |  | S | I | R | S | I | R |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pathogen | Minimum Inhibitory ConcentrationsThe current absence of data in resistant isolates precludes defining any results other than "Susceptible". Isolates yielding MIC results suggestive of a "Nonsusceptible" category should be submitted to a reference laboratory for further testing. MIC (μg/mL) |  |  | Disk Diffusion Zone Diameter (mm) |  |  |
-| Enterobacteriaceae and Staphylococcus aureus | ≤2.0 | 4.0 | ≥8.0 | ≥19 | 16-18 | ≤15 |
+| Pathogen | Minimum Inhibitory ConcentrationsFor some organism/antimicrobial combinations, the absence or rare occurrence of resistant strains precludes defining any results categories other than "susceptible". For strains yielding results suggestive of a "non-susceptible" category, organism identification and antimicrobial susceptibility test results should be confirmed. MIC (μg/mL) |  |  | Disk Diffusion Zone Diameter (mm) |  |  |
+| Enterobacteriaceae | ≤0.5 | 1 | ≥2 | ≥22 | 19-21 | ≤18 |
+| Staphylococcus aureusFor oxacillin-susceptible S. aureus results for carbapenems, including ertapenem, if tested, should be reported according to the results generated using routine interpretive criteria. For oxacillin-resistant S. aureus and coagulase negative staphylococci, other beta lactam agents, including carbapenems, may appear active in vitro but are not effective clinically. Results for beta lactam agents other than cephalosporins with anti-MRSA activity should be reported as resistant or should not be reported. | ≤2.0 | 4.0 | ≥8.0 | ≥19 | 16-18 | ≤15 |
 | Haemophilus spp. | ≤0.5 | - | - | ≥19 | - | - |
-| Streptococcus pneumoniaeStreptococcus pneumoniae that are susceptible to penicillin (penicillin MIC ≤0.06 μg/mL) can be considered susceptible to ertapenem. Testing of ertapenem against penicillin-intermediate or penicillin-resistant isolates is not recommended since reliable interpretive criteria for ertapenem are not available.,Streptococcus pneumoniae that are susceptible to penicillin (1-μg oxacillin disk zone diameter ≥20 mm), can be considered susceptible to ertapenem. Isolates with 1-μg oxacillin zone diameter ≤19 mm should be tested against ertapenem using an MIC method. | ≤1.0 | 2 | ≥4 | - | - | - |
-| Streptococcus spp. other than Streptococcus pneumoniaeStreptococcus spp. other than Streptococcus pneumoniae that are susceptible to penicillin (MIC ≤0.12 μg/mL) can be considered susceptible to ertapenem. Testing of ertapenem against penicillin-intermediate or penicillin-resistant isolates is not recommended since reliable interpretive criteria for ertapenem are not available.,Streptococcus spp. other than Streptococcus pneumoniae that are susceptible to penicillin (10-units penicillin disk zone diameter ≥24 mm), can be considered susceptible to ertapenem. Isolates with 10-units penicillin disk zone diameter <24 mm should be tested against ertapenem using an MIC method. Penicillin disk diffusion interpretive criteria are not available for viridans group streptococci and they should not be tested against ertapenem. | ≤1.0 | - | - | - | - | - |
+| Streptococcus pneumoniaeS. pneumoniae penicillin MICs ≤2 mcg/mL indicate susceptibility to ertapenem. | ≤1.0 | 2 | ≥4 | - | - | - |
+| Streptococcus spp. Beta Hemolytic Group,,A beta hemolytic Streptococcus spp. (Groups A, B, C, G) isolate susceptible to penicillin (MIC ≤0.12 µg/mL) can be considered susceptible to ertapenem and need not be tested against ertapenem. | ≤1.0 | - | - | - | - | - |
+| Streptococcus spp. Viridans Group | ≤1.0 | - | - | - | - | - |
 | Anaerobes | ≤4.0 | 8.0 | ≥16.0 | - | - | - |
-
-Note: Staphylococcus spp. can be considered susceptible to ertapenem if the penicillin MIC is ≤0.12 µg/mL.
-If the penicillin MIC is >0.12 µg/mL, then test oxacillin.
-Staphylococcus aureus can be considered susceptible to ertapenem if the oxacillin MIC is ≤2.0 µg/mL and resistant to ertapenem if the oxacillin MIC is ≥4.0 µg/mL.
-Coagulase negative staphylococci can be considered susceptible to ertapenem if the oxacillin MIC is ≤0.25 µg/mL and resistant to ertapenem if the oxacillin MIC is ≥0.5 µg/mL.
-
-Staphylococcus spp. can be considered susceptible to ertapenem if the penicillin (10 U disk) zone is ≥29 mm.
-If the penicillin zone is ≤28 mm, then test oxacillin by disk diffusion (1 µg disk).
-Staphylococcus aureus can be considered susceptible to ertapenem if the oxacillin (1 µg disk) zone is ≥13 mm and resistant to ertapenem if the oxacillin zone is ≤10 mm.
-Coagulase negative staphylococci can be considered susceptible to ertapenem if the oxacillin zone is ≥18 mm and resistant to ertapenem if the oxacillin (1 µg disk) zone is ≤17 mm.
 
 A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound at the infection site reaches the concentrations usually achievable.
 A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -227,21 +219,21 @@ A report of "Resistant" indicates that the pathogen is not likely to be inhibite
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test {1,2,3,4}.
+Standardized susceptibility test procedures require the use of laboratory control microorganisms to ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.
 Quality control microorganisms are specific strains of organisms with intrinsic biological properties.
 QC strains are very stable strains which will give a standard and repeatable susceptibility pattern.
 The specific strains used for microbiological quality control are not clinically significant.
-Standard ertapenem powder should provide the following range of values noted in Table 12.
+Standard ertapenem powder should provide the following range of values noted in Table 12 and {4,5}.
 
 Table 12: Acceptable Quality Control Ranges for Ertapenem
 
 | Microorganism | Minimum Inhibitory Concentrations MIC Range (µg/mL) | Disk Diffusion Zone Diameter (mm) |
 | --- | --- | --- |
 | Escherichia coli ATCC 25922 | 0.004-0.016 | 29-36 |
-| Haemophilus influenzae ATCC 49766 | 0.016-0.06 | 27-33 |
+| Haemophilus influenzae ATCC 49766 | 0.015-0.06 | 27-33 |
 | Staphylococcus aureus ATCC 29213 | 0.06-0.25 | - |
 | Staphylococcus aureus ATCC 25923 | - | 24-31 |
 | Streptococcus pneumoniae ATCC 49619 | 0.03-0.25 | 28-35 |
-| Bacteroides fragilis ATCC 25285 | 0.06-0.5 Quality control ranges for broth microdilution testing0.06-0.25Quality control ranges for agar microdilution testing | - |
+| Bacteroides fragilis ATCC 25285 | 0.06-0.5 Quality control ranges for broth microdilution testing0.06-0.25Quality control ranges for agar dilution testing | - |
 | Bacteroides thetaiotaomicron ATCC 29741 | 0.5-2.0 0.25-1.0 | - |
 | Eubacterium lentum ATCC 43055 | 0.5-4.0 0.5-2.0 | - |
