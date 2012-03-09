@@ -4,6 +4,8 @@
 
 The recommended dose of JANUVIA is 100 mg once daily.
 JANUVIA can be taken with or without food.
+JANUVIA should be swallowed whole.
+The tablets must not be split, crushed, or chewed before swallowing.
 
 ## 2.2 Patients with Renal Insufficiency
 

@@ -17,6 +17,8 @@ Patients should be informed that the incidence of hypoglycemia is increased when
 Patients should be informed that allergic reactions have been reported during postmarketing use of JANUVIA.
 If symptoms of allergic reactions (including rash, hives, and swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing) occur, patients must stop taking JANUVIA and seek medical advice promptly.
 
+Patients should be informed that the tablets must be swallowed whole and never split, crushed or chewed.
+
 Physicians should instruct their patients to read the Medication Guide before starting JANUVIA therapy and to reread each time the prescription is renewed.
 Patients should be instructed to inform their doctor or pharmacist if they develop any unusual symptom, or if any known symptom persists or worsens.
 
