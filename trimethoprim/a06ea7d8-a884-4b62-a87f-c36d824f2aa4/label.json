@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA074973"
+  ],
+  "inn": "trimethoprim",
+  "labeler": "FSC Laboratories, Inc",
+  "package_ndcs": [
+    "13551-501-01",
+    "13551-501-05"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "trimethoprim hydrochloride",
+      "name": "Primsol"
+    }
+  ],
+  "setid": "a06ea7d8-a884-4b62-a87f-c36d824f2aa4",
+  "source": "dailymed"
+}
