@@ -1,0 +1,6 @@
+# ADVERSE REACTIONS
+
+The following local adverse reactions have been reported infrequently with topical corticosteroids.
+They may occur more frequently with the use of occlusive dressings, especially with higher potency corticosteroids.
+These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, and miliaria.
+One peanut sensitive child experienced a flare of his atopic dermatitis after 5 days of twice daily treatment with Derma-Smoothe/FS® Topical Oil.

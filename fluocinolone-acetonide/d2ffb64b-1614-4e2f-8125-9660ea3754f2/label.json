@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019452"
+  ],
+  "inn": "fluocinolone-acetonide",
+  "labeler": "Hill Dermaceuticals, Inc.",
+  "package_ndcs": [
+    "28105-160-20"
+  ],
+  "products": [
+    {
+      "form": "OIL",
+      "generic": "fluocinolone acetonide",
+      "name": "DermOtic"
+    }
+  ],
+  "setid": "d2ffb64b-1614-4e2f-8125-9660ea3754f2",
+  "source": "dailymed"
+}
