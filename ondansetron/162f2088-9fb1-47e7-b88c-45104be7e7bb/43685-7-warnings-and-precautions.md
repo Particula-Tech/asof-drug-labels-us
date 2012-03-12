@@ -2,6 +2,11 @@
 
 Hypersensitivity reactions have been reported in patients who have exhibited hypersensitivity to other selective 5-HT3 receptor antagonists.
 
+ECG changes including QT interval prolongation has been seen in patients receiving ondansetron.
+In addition, post-marketing cases of Torsade de Pointes have been reported in patients using ondansetron.
+Avoid ondansetron in patients with congenital long QT syndrome.
+ECG monitoring is recommended in patients with electrolyte abnormalities (e.g., hypokalemia or hypomagnesemia), congestive heart failure, bradyarrhythmias or patients taking other medicinal products that lead to QT prolongation.
+
 # PRECAUTIONS
 
 ## General
@@ -10,13 +15,15 @@ Ondansetron is not a drug that stimulates gastric or intestinal peristalsis.
 It should not be used instead of nasogastric suction.
 The use of ondansetron in patients following abdominal surgery or in patients with chemotherapy-induced nausea and vomiting may mask a progressive ileus and/or gastric distension.
 
-Rarely and predominantly with intravenous ondansetron, transient ECG changes including QT interval prolongation have been reported.
-
 ## Drug Interactions
 
 Ondansetron does not itself appear to induce or inhibit the cytochrome P-450 drug-metabolizing enzyme system of the liver (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
 Because ondansetron is metabolized by hepatic cytochrome P-450 drug-metabolizing enzymes (CYP3A4, CYP2D6, CYP1A2), inducers or inhibitors of these enzymes may change the clearance and, hence, the half-life of ondansetron.
 On the basis of available data, no dosage adjustment is recommended for patients on these drugs.
+
+### Apomorphine
+
+Based on reports of profound hypotension and loss of consciousness when apomorphine was administered with ondansetron, concomitant use of apomorphine with ondansetron is contraindicated (see CONTRAINDICATIONS).
 
 ### Phenytoin, Carbamazepine, and Rifampicin
 

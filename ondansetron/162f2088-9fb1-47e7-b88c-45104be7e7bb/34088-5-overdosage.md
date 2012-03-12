@@ -6,6 +6,6 @@ Individual intravenous doses as large as 150 mg and total daily intravenous dose
 These doses are more than 10 times the recommended daily dose.
 
 In addition to the adverse events listed above, the following events have been described in the setting of ondansetron overdose: "Sudden blindness" (amaurosis) of 2 to 3 minutes' duration plus severe constipation occurred in 1 patient that was administered 72 mg of ondansetron intravenously as a single dose.
-Hypotension (and faintness) occurred in a patient that took 48 mg of ondansetron hydrochloride tablets.
+Hypotension (and faintness) occurred in a patient that took 48 mg of ondansetron tablets.
 Following infusion of 32 mg over only a 4-minute period, a vasovagal episode with transient second-degree heart block was observed.
 In all instances, the events resolved completely.

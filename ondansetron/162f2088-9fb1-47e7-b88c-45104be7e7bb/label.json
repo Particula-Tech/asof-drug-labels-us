@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076183"
+  ],
   "inn": "ondansetron",
-  "labeler": "Dr. Reddy's Laboratories Limited",
+  "labeler": "Dr.Reddy's Laboratories Limited",
   "package_ndcs": [
     "55111-153-01",
     "55111-153-05",
@@ -18,7 +20,13 @@
     "55111-156-30",
     "55111-156-78"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ondansetron hydrochloride",
+      "name": "ondansetron hydrochloride"
+    }
+  ],
   "setid": "162f2088-9fb1-47e7-b88c-45104be7e7bb",
   "source": "dailymed"
 }

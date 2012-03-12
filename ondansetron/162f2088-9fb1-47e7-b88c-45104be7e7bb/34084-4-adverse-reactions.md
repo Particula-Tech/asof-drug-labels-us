@@ -1,26 +1,26 @@
 # ADVERSE REACTIONS
 
-The following have been reported as adverse events in clinical trials of patients treated with ondansetron, the active ingredient of ondansetron hydrochloride tablets.
+The following have been reported as adverse events in clinical trials of patients treated with ondansetron, the active ingredient of ondansetron tablets.
 A causal relationship to therapy with ondansetron hydrochloride has been unclear in many cases.
 
 ## Chemotherapy-Induced Nausea and Vomiting
 
-The adverse events in Table 5 have been reported in ≥5% of adult patients receiving a single 24 mg ondansetron hydrochloride tablet in 2 trials.
+The adverse events in Table 5 have been reported in ≥5% of adult patients receiving a single 24 mg ondansetron tablet in 2 trials.
 These patients were receiving concurrent highly emetogenic cisplatin-based chemotherapy regimens (cisplatin dose ≥50 mg/m2).
 
 Table 5.
-Principal Adverse Events in US Trials: Single Day Therapy With 24 mg Ondansetron Hydrochloride Tablets (Highly Emetogenic Chemotherapy)
+Principal Adverse Events in US Trials: Single Day Therapy With 24 mg Ondansetron Tablets (Highly Emetogenic Chemotherapy)
 
 | Event | Ondansetron 24 mg q.d. n = 300 | Ondansetron 8 mg b.i.d. n = 124 | Ondansetron 32 mg q.d. n = 117 |
 | --- | --- | --- | --- |
 | Headache | 33 (11%) | 16 (13%) | 17 (15%) |
 | Diarrhea | 13 (4%) | 9 (7%) | 3 (3%) |
 
-The adverse events in Table 6 have been reported in ≥5% of adults receiving either 8 mg of ondansetron hydrochloride tablets 2 or 3 times a day for 3 days or placebo in 4 trials.
+The adverse events in Table 6 have been reported in ≥5% of adults receiving either 8 mg of ondansetron tablets 2 or 3 times a day for 3 days or placebo in 4 trials.
 These patients were receiving concurrent moderately emetogenic chemotherapy, primarily cyclophosphamide-based regimens.
 
 Table 6.
-Principal Adverse Events in US Trials: 3 Days of Therapy With 8 mg Ondansetron Hydrochloride Tablets (Moderately Emetogenic Chemotherapy)
+Principal Adverse Events in US Trials: 3 Days of Therapy With 8 mg Ondansetron Tablets (Moderately Emetogenic Chemotherapy)
 
 | Event | Ondansetron 8 mg b.i.d. n = 242 | Ondansetron 8 mg t.i.d. n = 415 | Placebo n = 262 |
 | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ There have been rare reports consistent with, but not diagnostic of, extrapyrami
 
 ### Hepatic
 
-In 723 patients receiving cyclophosphamide-based chemotherapy in US clinical trials, AST and/or ALT values have been reported to exceed twice the upper limit of normal in approximately 1% to 2% of patients receiving ondansetron hydrochloride tablets.
+In 723 patients receiving cyclophosphamide-based chemotherapy in US clinical trials, AST and/or ALT values have been reported to exceed twice the upper limit of normal in approximately 1% to 2% of patients receiving ondansetron tablets.
 The increases were transient and did not appear to be related to dose or duration of therapy.
 On repeat exposure, similar transient elevations in transaminase values occurred in some courses, but symptomatic hepatic disease did not occur.
 The role of cancer chemotherapy in these biochemical changes cannot be clearly determined.
@@ -55,17 +55,17 @@ Except for bronchospasm and anaphylaxis, the relationship to ondansetron hydroch
 
 ## Radiation-Induced Nausea and Vomiting
 
-The adverse events reported in patients receiving ondansetron hydrochloride tablets and concurrent radiotherapy were similar to those reported in patients receiving ondansetron hydrochloride tablets and concurrent chemotherapy.
+The adverse events reported in patients receiving ondansetron tablets and concurrent radiotherapy were similar to those reported in patients receiving ondansetron tablets and concurrent chemotherapy.
 The most frequently reported adverse events were headache, constipation, and diarrhea.
 
 ## Postoperative Nausea and Vomiting
 
-The adverse events in Table 7 have been reported in ≥5% of patients receiving ondansetron hydrochloride tablets at a dosage of 16 mg orally in clinical trials.
+The adverse events in Table 7 have been reported in ≥5% of patients receiving ondansetron tablets at a dosage of 16 mg orally in clinical trials.
 With the exception of headache, rates of these events were not significantly different in the ondansetron and placebo groups.
 These patients were receiving multiple concomitant perioperative and postoperative medications.
 
 Table 7.
-Frequency of Adverse Events From Controlled Studies With Ondansetron Hydrochloride Tablets (Postoperative Nausea and Vomiting)
+Frequency of Adverse Events From Controlled Studies With Ondansetron Tablets (Postoperative Nausea and Vomiting)
 
 | Adverse Event | Ondansetron 16 mg (n = 550) | Placebo (n = 531) |
 | --- | --- | --- |

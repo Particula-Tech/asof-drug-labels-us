@@ -51,19 +51,19 @@ It is not known whether these gender-related differences were clinically importa
 More detailed pharmacokinetic information is contained in Tables 1 and 2 taken from 2 studies.
 
 Table 1.
-Pharmacokinetics in Normal Volunteers: Single 8 mg Ondansetron Hydrochloride Tablet Dose
+Pharmacokinetics in Normal Volunteers: Single 8 mg Ondansetron Tablet Dose
 
 | Age-group (years) | Mean Weight (kg) | n | Peak Plasma Concentration (ng/mL) | Time of Peak Plasma Concentration (h) | Mean Elimination Half-life (h) | Systemic Plasma Clearance L/h/kg | Absolute Bioavailability |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 18-40 M | 69.0 | 6 | 26.2 | 2.0 | 3.1 | 0.403 | 0.483 |
+| 18-40 M | 69 | 6 | 26.2 | 2 | 3.1 | 0.403 | 0.483 |
 | F | 62.7 | 5 | 42.7 | 1.7 | 3.5 | 0.354 | 0.663 |
 | 61-74 M | 77.5 | 6 | 24.1 | 2.1 | 4.1 | 0.384 | 0.585 |
 | F | 60.2 | 6 | 52.4 | 1.9 | 4.9 | 0.255 | 0.643 |
-| ≥75 M | 78.0 | 5 | 37.0 | 2.2 | 4.5 | 0.277 | 0.619 |
+| ≥75 M | 78 | 5 | 37 | 2.2 | 4.5 | 0.277 | 0.619 |
 | F | 67.6 | 6 | 46.1 | 2.1 | 6.2 | 0.249 | 0.747 |
 
 Table 2.
-Pharmacokinetics in Normal Volunteers: Single 24 mg Ondansetron Hydrochloride Tablet Dose
+Pharmacokinetics in Normal Volunteers: Single 24 mg Ondansetron Tablet Dose
 
 | Age-group (years) | Mean Weight (kg) | n | Peak Plasma Concentration (ng/mL) | Time of Peak Plasma Concentration (h) | Mean Elimination Half-life (h) |
 | --- | --- | --- | --- | --- | --- |
@@ -86,4 +86,4 @@ No reduction in dose or dosing frequency in these patients is warranted.
 Plasma protein binding of ondansetron as measured in vitro was 70% to 76% over the concentration range of 10 to 500 ng/mL.
 Circulating drug also distributes into erythrocytes.
 
-One 24 mg ondansetron hydrochloride tablet is bioequivalent to and interchangeable with three 8 mg ondansetron hydrochloride tablets.
+One 24 mg ondansetron tablet is bioequivalent to and interchangeable with three 8 mg ondansetron tablets.
