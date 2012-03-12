@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021516"
+  ],
   "inn": "timolol",
-  "labeler": "ISTA Pharmaceuticals, Inc.",
+  "labeler": "ISTA PHARMACEUTICALS, INC.",
   "package_ndcs": [
     "67425-003-12",
     "67425-003-50"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "timolol maleate",
+      "name": "Istalol"
+    }
+  ],
   "setid": "80fa20dc-b181-48be-83ce-d66a83753878",
   "source": "dailymed"
 }
