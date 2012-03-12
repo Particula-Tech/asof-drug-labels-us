@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Sulfonamide Hypersentivity Reactions
+## 17.1 Sulfonamide Reactions
 
-Patients should be advised that if serious or unusual ocular or systemic reactions or signs of hypersensitivity occur, they should discontinue the use of the product and consult their physician
+Patients should be advised that if serious or unusual ocular or systemic reactions or signs of hypersensitivity occur, they should discontinue the use of the product and consult their physician.
 
 ## 17.2 Temporary Blurred Vision
 
@@ -27,14 +27,4 @@ If more than one topical ophthalmic drug is being used, the drugs should be admi
 The preservative in AZOPT® (brinzolamide ophthalmic suspension) 1%, benzalkonium chloride, may be absorbed by soft contact lenses.
 Contact lenses should be removed during instillation of AZOPT® (brinzolamide ophthalmic suspension) 1%, but may be reinserted 15 minutes after instillation.
 
-©2000- 2009 Alcon, Inc.
-
-Rx Only
-
-U.S. Patent Nos: 5,240,923; 5,378,703; 5,461,081; 6,071,904.
-
-*TRUSOPT is a registered trademark of Merck & Co., Inc.
-
-ALCON LABORATORIES, INC.
-
-Fort Worth, Texas 76134 USA
+©2000-2009, 2011-2012 Novartis Rx Only U.S. Patent Nos: 5,461,081; 6,071,904. *TRUSOPT is a registered trademark of Merck & Co., Inc. ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA 1-800-757-9195 MedInfo@AlconLabs.com 9007825-0212

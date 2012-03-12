@@ -7,7 +7,6 @@ It catalyzes the reversible reaction involving the hydration of carbon dioxide a
 In humans, carbonic anhydrase exists as a number of isoenzymes, the most active being carbonic anhydrase II (CA-II), found primarily in red blood cells (RBCs), but also in other tissues.
 Inhibition of carbonic anhydrase in the ciliary processes of the eye decreases aqueous humor secretion, presumably by slowing the formation of bicarbonate ions with subsequent reduction in sodium and fluid transport.
 The result is a reduction in intraocular pressure (IOP).
-
 AZOPT® (brinzolamide ophthalmic suspension) 1% contains brinzolamide, an inhibitor of carbonic anhydrase II (CA-II).
 Following topical ocular administration, brinzolamide inhibits aqueous humor formation and reduces elevated intraocular pressure.
 Elevated intraocular pressure is a major risk factor in the pathogenesis of optic nerve damage and glaucomatous visual field loss.
@@ -22,7 +21,6 @@ In plasma, both parent brinzolamide and N-desethyl brinzolamide concentrations a
 Binding to plasma proteins is approximately 60%.
 Brinzolamide is eliminated predominantly in the urine as unchanged drug.
 N-Desethyl brinzolamide is also found in the urine along with lower concentrations of the N-desmethoxypropyl and O-desmethyl metabolites.
-
 An oral pharmacokinetic study was conducted in which healthy volunteers received 1 mg capsules of brinzolamide twice per day for up to 32 weeks.
 This regimen approximates the amount of drug delivered by topical ocular administration of AZOPT® (brinzolamide ophthalmic suspension) 1% dosed to both eyes three times per day and simulates systemic drug and metabolite concentrations similar to those achieved with long-term topical dosing.
 RBC CA activity was measured to assess the degree of systemic CA inhibition.
