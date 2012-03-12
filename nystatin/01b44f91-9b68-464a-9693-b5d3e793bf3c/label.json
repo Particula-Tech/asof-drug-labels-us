@@ -1,12 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA065183"
+  ],
   "inn": "nystatin",
-  "labeler": "UPSHER-SMITH LABORATORIES, INC.",
+  "labeler": "Upsher-Smith Laboratories Inc.",
   "package_ndcs": [
     "0832-0465-15",
-    "0832-0465-30"
+    "0832-0465-30",
+    "0832-0465-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "nystatin",
+      "name": "Nyamyc"
+    }
+  ],
   "setid": "01b44f91-9b68-464a-9693-b5d3e793bf3c",
   "source": "dailymed"
 }
