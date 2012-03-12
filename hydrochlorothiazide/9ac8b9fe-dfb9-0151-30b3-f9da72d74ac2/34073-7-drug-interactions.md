@@ -25,6 +25,7 @@ Other Antihypertensive Drugs: additive effect or potentiation.
 
 Cholestyramine and Colestipol Resins: absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
 Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.
+AVALIDE should be taken at least one hour before or four hours after these medications.
 
 Corticosteroids, ACTH: intensified electrolyte depletion, particularly hypokalemia.
 
@@ -39,3 +40,6 @@ Refer to the package insert for lithium preparations before use of such preparat
 
 Non-steroidal Anti-inflammatory Drugs: in some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing, and thiazide diuretics.
 Therefore, when AVALIDE (irbesartan-hydrochlorothiazide) Tablets and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+
+Carbamazepine: concomitant use of carbamazepine and hydrochlorothiazide has been associated with the risk of symptomatic hyponatremia.
+Electrolytes should be monitored during concomitant use.

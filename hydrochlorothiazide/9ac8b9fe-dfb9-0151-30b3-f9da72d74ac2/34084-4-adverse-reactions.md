@@ -118,7 +118,9 @@ Hyperkalemia has been rarely reported.
 
 Very rare cases of jaundice have been reported with irbesartan.
 
-Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
+Impaired renal function, including cases of renal failure in patients at risk, has been reported with irbesartan and AVALIDE.
+
+Cases of increased CPK and rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
 
 ## 6.3 Laboratory Abnormalities
 

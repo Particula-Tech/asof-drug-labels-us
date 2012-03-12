@@ -48,41 +48,26 @@ No patient discontinued due to increases or decreases in serum potassium.
 On average, the combination of irbesartan and hydrochlorothiazide had no effect on serum potassium.
 Higher doses of irbesartan ameliorated the hypokalemic response to hydrochlorothiazide.
 
+Based on experience with the use of other drugs that affect the renin-angiotensin system, concomitant use of potassium-sparing diuretics, potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium.
+Concurrent therapy with hydrochlorothiazide may reduce the frequency of this effect.
+
 Hydrochlorothiazide
 
-Periodic determination of serum electrolytes to detect possible electrolyte imbalance should be performed at appropriate intervals.
-All patients receiving thiazide therapy should be observed for clinical signs of fluid or electrolyte imbalance: hyponatremia, hypochloremic alkalosis, and hypokalemia.
-Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids.
-Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, confusion, seizures, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
-
-Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis is present, or after prolonged therapy.
-
-Interference with adequate oral electrolyte intake will also contribute to hypokalemia.
-Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability).
-
-Although any chloride deficit is generally mild and usually does not require specific treatment, except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
-
-Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction, rather than administration of salt except in rare instances when the hyponatremia is life-threatening.
-In actual salt depletion, appropriate replacement is the therapy of choice.
+Hydrochlorothiazide can cause hypokalemia and hyponatremia.
+Hypomagnesemia can result in hypokalemia which appears difficult to treat despite potassium repletion.
+Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
+Monitor serum electrolytes periodically.
 
 Hyperuricemia may occur or frank gout may be precipitated in certain patients receiving thiazide therapy.
 
-In diabetic patients, dosage adjustments of insulin or oral hypoglycemic agents may be required.
-Hyperglycemia may occur with thiazide diuretics.
-Thus, latent diabetes mellitus may become manifest during thiazide therapy.
+Hydrochlorothiazide may alter glucose tolerance and raise serum levels of cholesterol and triglycerides.
 
 The antihypertensive effects of the drug may be enhanced in the post-sympathectomy patient.
-
-If progressive renal impairment becomes evident, consider withholding or discontinuing diuretic therapy.
-
-Thiazides have been shown to increase the urinary excretion of magnesium; this may result in hypomagnesemia.
 
 Thiazides may decrease urinary calcium excretion.
 Thiazides may cause intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism.
 Marked hypercalcemia may be evidence of hidden hyperparathyroidism.
 Thiazides should be discontinued before carrying out tests for parathyroid function.
-
-Increases in cholesterol and triglyceride levels may be associated with thiazide diuretic therapy.
 
 ## 5.7 Hepatic Impairment
 
