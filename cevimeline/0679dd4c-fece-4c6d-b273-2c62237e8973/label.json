@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020989"
+  ],
   "inn": "cevimeline",
   "labeler": "Daiichi Sankyo Pharma Development",
   "package_ndcs": [
     "63395-201-13"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "cevimeline hydrochloride",
+      "name": "Evoxac"
+    }
+  ],
   "setid": "0679dd4c-fece-4c6d-b273-2c62237e8973",
   "source": "dailymed"
 }
