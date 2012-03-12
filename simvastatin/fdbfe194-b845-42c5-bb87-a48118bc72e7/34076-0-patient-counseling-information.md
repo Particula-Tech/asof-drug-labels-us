@@ -8,7 +8,8 @@ Patients should also be advised to inform other healthcare professionals prescri
 ## 17.1 Muscle Pain
 
 All patients starting therapy with ZOCOR should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness.
-Patients using the 80-mg dose should be informed that the risk of myopathy, including rhabdomyolysis, is increased with use of the 80-mg dose.The risk of myopathy, including rhabdomyolysis, occurring with use of ZOCOR is increased when taking certain types of medication or consuming larger quantities of grapefruit juice.
+Patients using the 80-mg dose should be informed that the risk of myopathy, including rhabdomyolysis, is increased with use of the 80-mg dose.
+The risk of myopathy, including rhabdomyolysis, occurring with use of ZOCOR is increased when taking certain types of medication or consuming larger quantities of grapefruit juice.
 Patients should discuss all medication, both prescription and over the counter, with their healthcare professional.
 
 ## 17.2 Liver Enzymes

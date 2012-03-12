@@ -39,7 +39,7 @@ Drug Interactions
 The risk of myopathy and rhabdomyolysis is increased by high levels of statin activity in plasma.
 Simvastatin is metabolized by the cytochrome P450 isoform 3A4.
 Certain drugs which inhibit this metabolic pathway can raise the plasma levels of simvastatin and may increase the risk of myopathy.
-These include itraconazole, ketoconazole, and posaconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, the antidepressant nefazodone, or large quantities of grapefruit juice (>1 quart daily).
+These include itraconazole, ketoconazole, and posaconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, boceprevir, telaprevir, the antidepressant nefazodone, or large quantities of grapefruit juice (>1 quart daily).
 Combination of these drugs with simvastatin is contraindicated.
 If treatment with itraconazole, ketoconazole, posaconazole, erythromycin, clarithromycin or telithromycin is unavoidable, therapy with simvastatin must be suspended during the course of treatment.
 [See Contraindications (4) and Drug Interactions (7.1).]
@@ -67,7 +67,7 @@ TABLE 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
-| ItraconazoleKetoconazolePosaconazoleErythromycinClarithromycinTelithromycinHIV protease inhibitorsNefazodoneGemfibrozilCyclosporineDanazol | Contraindicated with simvastatin |
+| Strong CYP3A4 Inhibitors, e.g.: Itraconazole Ketoconazole Posaconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Boceprevir Telaprevir NefazodoneGemfibrozilCyclosporineDanazol | Contraindicated with simvastatin |
 | Verapamil Diltiazem | Do not exceed 10 mg simvastatin daily |
 | AmiodaroneAmlodipineRanolazine | Do not exceed 20 mg simvastatin daily |
 | Grapefruit juice | Avoid large quantities of grapefruit juice (>1 quart daily) |
