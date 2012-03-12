@@ -10,18 +10,3 @@ Storage: Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 
 [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container.
-
-Manufactured by:
-
-Amneal Pharmaceuticals of NY
-
-Hauppauge, NY 11788
-
-Distributed by:
-
-Amneal Pharmaceuticals
-
-Glasgow, KY 42141
-
-Rev.
-12-2009
