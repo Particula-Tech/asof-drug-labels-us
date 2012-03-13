@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA073263"
+  ],
   "inn": "cholestyramine",
-  "labeler": "UPSHER-SMITH LABORATORIES, INC.",
+  "labeler": "Upsher-Smith Laboratories Inc.",
   "package_ndcs": [
     "0245-0036-23",
     "0245-0036-42",
     "0245-0036-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "cholestyramine",
+      "name": "Prevalite"
+    }
+  ],
   "setid": "dd434ef8-8af3-434c-a0a0-9a0b18459ba0",
   "source": "dailymed"
 }
