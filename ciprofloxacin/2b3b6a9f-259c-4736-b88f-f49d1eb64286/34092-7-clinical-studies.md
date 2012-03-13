@@ -1,7 +1,7 @@
 # CLINICAL STUDIES
 
 Complicated Urinary Tract Infection and Pyelonephritis – Efficacy in Pediatric Patients NOTE: Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse events compared to controls, including events related to joints and/or surrounding tissues.
-Ciprofloxacin, administered I.V. and/or orally, was compared to a cephalosporin for treatment of complicated urinary tract infections (cUTI) and pyelonephritis in pediatric patients 1 to 17 years of age (mean age of 6 ± 4 years).
+Ciprofloxacin, administered IV and/or orally, was compared to a cephalosporin for treatment of complicated urinary tract infections (cUTI) and pyelonephritis in pediatric patients 1 to 17 years of age (mean age of 6 ± 4 years).
 The trial was conducted in the U.S., Canada, Argentina, Peru, Costa Rica, Mexico, South Africa, and Germany.
 The duration of therapy was 10 to 21 days (mean duration of treatment was 11 days with a range of 1 to 88 days).
 The primary objective of the study was to assess musculoskeletal and neurological safety.
@@ -23,9 +23,9 @@ Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post
 | Escherichia coli | 156/178 (88%) | 161/179 (90%) |
 | * Patients with baseline pathogen(s) eradicated and no new infections or superinfections/total number of patients. There were 5.5% (6/211) ciprofloxacin and 9.5% (22/231) comparator patients with superinfections or new infections. |  |  |
 
-## INHALATIONAL ANTHRAX IN ADULTS AND PEDIATRICS – ADDITIONAL INFORMATION
+## Inhalational Anthrax In Adults And Pediatrics
 
-The mean serum concentrations of ciprofloxacin associated with a statistically significant improvement in survival in the rhesus monkey model of inhalational anthrax are reached or exceeded in adult and pediatric patients receiving oral and intravenous regimens.
+Additional Information The mean serum concentrations of ciprofloxacin associated with a statistically significant improvement in survival in the rhesus monkey model of inhalational anthrax are reached or exceeded in adult and pediatric patients receiving oral and intravenous regimens.
 (See DOSAGE AND ADMINISTRATION .)
 Ciprofloxacin pharmacokinetics have been evaluated in various human populations.
 The mean peak serum concentration achieved at steady-state in human adults receiving 500 mg orally every 12 hours is 2.97 mcg/mL, and 4.56 mcg/mL following 400 mg intravenously every 12 hours.
@@ -35,13 +35,13 @@ After the second intravenous infusion patients switched to 15 mg/kg orally every
 Long-term safety data, including effects on cartilage, following the administration of ciprofloxacin to pediatric patients are limited.
 (For additional information, see PRECAUTIONS, Pediatric Use .)
 Ciprofloxacin serum concentrations achieved in humans serve as a surrogate endpoint reasonably likely to predict clinical benefit and provide the basis for this indication.
-5 A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 11 LD 50 (~5.5 x 10 5 spores (range 5 to 30 LD 50 ) of B. anthracis was conducted.
+4 A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 11 LD 50 (~5.5 x 10 5 spores (range 5 to 30 LD 50 ) of B. anthracis was conducted.
 The minimal inhibitory concentration (MIC) of ciprofloxacin for the anthrax strain used in this study was 0.08 mcg/mL.
 In the animals studied, mean serum concentrations of ciprofloxacin achieved at expected T max (1 hour post-dose) following oral dosing to steady-state ranged from 0.98 to 1.69 mcg/mL.
 Mean steady-state trough concentrations at 12 hours post-dose ranged from 0.12 to 0.19 mcg/mL.
-6 Mortality due to anthrax for animals that received a 30-day regimen of oral ciprofloxacin beginning 24 hours post-exposure was significantly lower (1/9), compared to the placebo group (9/10) [p=0.001].
+5 Mortality due to anthrax for animals that received a 30-day regimen of oral ciprofloxacin beginning 24 hours post-exposure was significantly lower (1/9), compared to the placebo group (9/10) [p=0.001].
 The one ciprofloxacin-treated animal that died of anthrax did so following the 30-day drug administration period.
-7 More than 9300 persons were recommended to complete a minimum of 60 days of antibiotic prophylaxis against possible inhalational exposure to B. anthracis during 2001.
+6 More than 9300 persons were recommended to complete a minimum of 60 days of antibiotic prophylaxis against possible inhalational exposure to B. anthracis during 2001.
 Ciprofloxacin was recommended to most of those individuals for all or part of the prophylaxis regimen.
 Some persons were also given anthrax vaccine or were switched to alternative antibiotics.
 No one who received ciprofloxacin or other therapies as prophylactic treatment subsequently developed inhalational anthrax.

@@ -14,8 +14,8 @@ This is primarily related to the reduced solubility of ciprofloxacin under alkal
 In rhesus monkeys, crystalluria without nephropathy was noted after single oral doses as low as 5 mg/kg.
 (approximately 0.07-times the highest recommended therapeutic dose based upon mg/m 2 ).
 After 6 months of intravenous dosing at 10 mg/kg/day, no nephropathological changes were noted; however, nephropathy was observed after dosing at 20 mg/kg/day for the same duration (approximately 0.2-times the highest recommended therapeutic dose based upon mg/m 2 ).
-In dogs, ciprofloxacin at 3 and 10 mg/kg by rapid I.V. injection (15 sec.) produces pronounced hypotensive effects.
+In dogs, ciprofloxacin at 3 and 10 mg/kg by rapid IV injection (15 sec.) produces pronounced hypotensive effects.
 These effects are considered to be related to histamine release, since they are partially antagonized by pyrilamine, an antihistamine.
-In rhesus monkeys, rapid I.V. injection also produces hypotension but the effect in this species is inconsistent and less pronounced.
+In rhesus monkeys, rapid IV injection also produces hypotension but the effect in this species is inconsistent and less pronounced.
 In mice, concomitant administration of nonsteroidal anti-inflammatory drugs such as phenylbutazone and indomethacin with quinolones has been reported to enhance the CNS stimulatory effect of quinolones.
 Ocular toxicity seen with some related drugs has not been observed in ciprofloxacin-treated animals.
