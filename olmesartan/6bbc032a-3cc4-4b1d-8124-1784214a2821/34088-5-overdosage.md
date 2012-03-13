@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-### Olmesartan medoxomil
+Olmesartan medoxomil
 
 Limited data are available related to overdosage in humans.
 The most likely manifestations of overdosage would be hypotension and tachycardia; bradycardia could be encountered if parasympathetic (vagal) stimulation occurs.
@@ -10,7 +10,7 @@ The dialyzability of olmesartan is unknown.
 No lethality was observed in acute toxicity studies in mice and rats given single oral doses up to 2000 mg/kg olmesartan medoxomil.
 The minimum lethal oral dose of olmesartan medoxomil in dogs was greater than 1500 mg/kg.
 
-### Hydrochlorothiazide
+Hydrochlorothiazidel
 
 The most common signs and symptoms of overdose observed in humans are those caused by electrolyte depletion (hypokalemia, hypochloremia, hyponatremia) and dehydration resulting from excessive diuresis.
 If digitalis has also been administered, hypokalemia may accentuate cardiac arrhythmias.

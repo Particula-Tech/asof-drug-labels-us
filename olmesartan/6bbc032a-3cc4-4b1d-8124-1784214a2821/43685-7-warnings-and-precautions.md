@@ -1,29 +1,23 @@
 # WARNINGS
 
-## Fetal/Neonatal Morbidity and Mortality
+## Fetal Toxicity
 
-Drugs that act directly on the renin-angiotensin system can cause fetal and neonatal morbidity and death when administered to pregnant women.
-Several dozen cases have been reported in the world literature of patients who were taking angiotensin converting enzyme inhibitors.
-When pregnancy is detected, BENICAR HCT® should be discontinued as soon as possible.
+Pregnancy Category D
 
-The use of drugs that act directly on the renin-angiotensin system during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure and death.
-Oligohydramnios has also been reported, presumably resulting from decreased fetal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation and hypoplastic lung development.
-Prematurity, intrauterine growth retardation and patent ductus arteriosus have also been reported, although it is not clear whether these occurrences were due to exposure to the drug.
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
+Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
+When pregnancy is detected discontinue BENICAR HCT as soon as possible.
+These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy.
+Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
+Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
 
-These adverse effects do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
-Mothers whose embryos and fetuses are exposed to an angiotensin II receptor antagonist only during the first trimester should be so informed.
-Nonetheless, when patients become pregnant, physicians should have the patient discontinue the use of BENICAR HCT® as soon as possible.
-
-Rarely (probably less often than once in every thousand pregnancies), no alternative to a drug acting on the renin-angiotensin system will be found.
-In these rare cases, the mothers should be apprised of the potential hazards to their fetuses and serial ultrasound examinations should be performed to assess the intra-amniotic environment.
-
-If oligohydramnios is observed, BENICAR HCT® should be discontinued unless it is considered life-saving for the mother.
-Contraction stress testing (CST), a nonstress test (NST) or biophysical profiling (BPP) may be appropriate, depending upon the week of pregnancy.
+In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
+Perform serial ultrasound examinations to assess the intra-amniotic environment.
+If oligohydramnios is observed, discontinue BENICAR HCT, unless it is considered lifesaving for the mother.
+Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-
-Infants with histories of in utero exposure to an angiotensin II receptor antagonist should be closely observed for hypotension, oliguria and hyperkalemia.
-If oliguria occurs, attention should be directed toward support of blood pressure and renal perfusion.
-Exchange transfusion or dialysis may be required as means of reversing hypotension and/or substituting for disordered renal function.
+Closely observe infants with histories of in utero exposure to BENICAR HCT for hypotension, oliguria, and hyperkalemia(see PRECAUTIONS, Pediatric Use).
 
 There is no clinical experience with the use of BENICAR HCT® in pregnant women.
 No teratogenic effects were observed when 1.6:1 combinations of olmesartan medoxomil and hydrochlorothiazide were administered to pregnant mice at oral doses up to 1625 mg/kg/day (122 times the maximum recommended human dose [MRHD] on a mg/m2 basis) or pregnant rats at oral doses up to 1625 mg/kg/day (280 times the MRHD on a mg/m2 basis).
@@ -43,32 +37,41 @@ A transient hypotensive response is not a contraindication to further treatment.
 
 ## Hydrochlorothiazide
 
-### Hepatic Impairment
+Hepatic Impairment
 
 Thiazides should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
 
-### Hypersensitivity Reaction
+Hypersensitivity Reaction
 
 Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
 
-### Systemic Lupus Erythematosus
+Systemic Lupus Erythematosus
 
 Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
 
-### Lithium Interaction
+Lithium Interaction
 
 Lithium generally should not be given with thiazides (see PRECAUTIONS: Drug Interactions; Hydrochlorothiazide, Lithium).
+
+Acute Myopia and Secondary Angle-Closure Glaucoma
+
+Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma.
+Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation.
+Untreated acute angle-closure glaucoma can lead to permanent vision loss.
+The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible.
+Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
+Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
 
 # PRECAUTIONS
 
 ## General
 
-### Olmesartan medoxomil-hydrochlorothiazide
+Olmesartan medoxomil-hydrochlorothiazide
 
 In a double-blind clinical trial of various doses of olmesartan medoxomil and hydrochlorothiazide, the incidence of hypertensive patients who developed hypokalemia (serum potassium <3.4 mEq/L) was 2.1%; the incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4%.
 In this trial, no patient discontinued due to increases or decreases in serum potassium.
 
-### Hydrochlorothiazide
+Hydrochlorothiazide
 
 Periodic determinations of serum electrolytes to detect possible electrolyte imbalance should be performed at appropriate intervals.
 All patients receiving thiazide therapy should be observed for clinical signs of fluid or electrolyte imbalance: hyponatremia, hypochloremic alkalosis and hypokalemia.
@@ -120,53 +123,62 @@ Cumulative effects of the drug may develop in patients with impaired renal funct
 
 ## Information for Patients
 
-Pregnancy:Female patients of childbearing age should be told about the consequences of second and third trimester exposure to drugs that act on the renin-angiotensin system and they should be told also that these consequences do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
-These patients should be asked to report pregnancies to their physicians as soon as possible.
+Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to BENICAR HCT during pregnancy.
+Discuss treatment options with women planning to become pregnant.
+Patients should be asked to report pregnancies to their physicians as soon as possible.
 
-Symptomatic Hypotension:A patient receiving BENICAR HCT® should be cautioned that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician.
+Symptomatic Hypotension: A patient receiving BENICAR HCT® should be cautioned that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician.
 The patients should be told that if syncope occurs, BENICAR HCT® should be discontinued until the physician has been consulted.
 
 All patients should be cautioned that inadequate fluid intake, excessive perspiration, diarrhea or vomiting can lead to an excessive fall in blood pressure, with the same consequences of light-headedness and possible syncope.
 
 ## Drug Interactions
 
-### Olmesartan medoxomil
+Olmesartan medoxomil
 
 No significant drug interactions were reported in studies in which olmesartan medoxomil was co-administered with hydrochlorothiazide, digoxin or warfarin in healthy volunteers.
 The bioavailability of olmesartan was not significantly altered by the co-administration of antacids [Al(OH)3/Mg(OH)2].
 Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; thus, interactions with drugs that inhibit, induce or are metabolized by those enzymes are not expected.
 
-### Hydrochlorothiazide
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including olmesartan medoxomil, may result in deterioration of renal function, including possible acute renal failure.
+These effects are usually reversible.
+Monitor renal function periodically in patients receiving olmesartan medoxomil and NSAID therapy.
+
+The antihypertensive effect of angiotensin II receptor antagonists, including olmesartan medoxomil may be attenuated by NSAIDs including selective COX-2 inhibitors.
+
+Hydrochlorothiazide
 
 When administered concurrently the following drugs may interact with thiazide diuretics:
 
-Alcohol, Barbiturates, Or Narcotics– potentiation of orthostatic hypotension may occur.
+Alcohol, Barbiturates, Or Narcotics – potentiation of orthostatic hypotension may occur.
 
-Antidiabetic Drugs (oral agents and insulin)– dosage adjustment of the antidiabetic drug may be required.
+Antidiabetic Drugs (oral agents and insulin) – dosage adjustment of the antidiabetic drug may be required.
 
-Other Antihypertensive Drugs– additive effect or potentiation.
+Other Antihypertensive Drugs – additive effect or potentiation.
 
-Cholestyramine and Colestipol Resins– absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
+Cholestyramine and Colestipol Resins – absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
 Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85 and 43 percent, respectively.
 
-Corticosteroids, ACTH– intensified electrolyte depletion, particularly hypokalemia.
+Corticosteroids, ACTH – intensified electrolyte depletion, particularly hypokalemia.
 
 Pressor Amines (e.g.
-Norepinephrine)– possible decreased response to pressor amines but not sufficient to preclude their use.
+Norepinephrine) – possible decreased response to pressor amines but not sufficient to preclude their use.
 
 Skeletal Muscle Relaxants, Non depolarizing (e.g.
-Tubocurarine)– possible increased responsiveness to the muscle relaxant.
+Tubocurarine) – possible increased responsiveness to the muscle relaxant.
 
 Lithium– should not generally be given with diuretics.
 Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
 Refer to the package insert for lithium preparations before use of such preparation with olmesartan medoxomil-hydrochlorothiazide.
 
-Non-steroidal Anti-inflammatory Drugs– in some patients the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
+Non-steroidal Anti-inflammatory Drugs – in some patients the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
 Therefore, when olmesartan medoxomil-hydrochlorothiazide tablets and non-steroidal anti-inflammatory agents are used concomitantly, the patients should be observed closely to determine if the desired effect of the diuretic is obtained.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-### Olmesartan medoxomil-hydrochlorothiazide
+Olmesartan medoxomil-hydrochlorothiazide
 
 No carcinogenicity studies with olmesartan medoxomil-hydrochlorothiazide have been conducted.
 
@@ -178,7 +190,7 @@ Olmesartan medoxomil-hydrochlorothiazide in a ratio of 20:12.5, administered ora
 
 No studies of impairment of fertility with olmesartan medoxomil-hydrochlorothiazide have been conducted.
 
-### Olmesartan medoxomil
+Olmesartan medoxomil
 
 Olmesartan medoxomil was not carcinogenic when administered by dietary administration to rats for up to 2 years.
 The highest dose tested (2000 mg/kg/day) was, on a mg/m2 basis, about 480 times the maximum recommended human dose (MRHD) of 40 mg/day.
@@ -190,7 +202,7 @@ Olmesartan medoxomil tested negative in vivo for mutations in the MutaMouse inte
 
 Fertility of rats was unaffected by administration of olmesartan medoxomil at dose levels as high as 1000 mg/kg/day (240 times the MRHD) in a study in which dosing was begun 2 (female) or 9 (male) weeks prior to mating.
 
-### Hydrochlorothiazide
+Hydrochlorothiazide
 
 Two-year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of up to approximately 100 mg/kg/day).
 The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice.
@@ -201,12 +213,6 @@ Positive test results were obtained in the in vitro CHO Sister Chromatid Exchang
 
 Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg, respectively, prior to mating and throughout gestation.
 
-## Pregnancy
-
-Pregnancy Categories C (first trimester) and D (second and third trimesters)
-
-(See WARNINGS:Fetal/Neonatal Morbidity and Mortality)
-
 ## Nursing Mothers
 
 It is not known whether olmesartan is excreted in human milk, but olmesartan is secreted at low concentration in the milk of lactating rats.
@@ -216,6 +222,9 @@ Thiazides appear in human milk.
 Because of the potential for adverse effects on the nursing infant, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
+
+Neonates with a history of in utero exposure to BENICAR HCT: If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
+Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 
 Safety and effectiveness in pediatric patients have not been established.
 

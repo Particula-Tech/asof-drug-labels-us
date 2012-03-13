@@ -2,7 +2,7 @@
 
 ## Mechanism of Action
 
-### Olmesartan medoxomil
+Olmesartan medoxomil
 
 Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin converting enzyme (ACE, kininase II).
 Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation and renal reabsorption of sodium.
@@ -19,7 +19,7 @@ Whether this difference has clinical relevance is not yet known.
 
 Blockade of the angiotensin II receptor inhibits the negative regulatory feedback of angiotensin II on renin secretion, but the resulting increased plasma renin activity and circulating angiotensin II levels do not overcome the effect of olmesartan on blood pressure.
 
-### Hydrochlorothiazide
+Hydrochlorothiazide
 
 Hydrochlorothiazide is a thiazide diuretic.
 Thiazides affect the renal tubular mechanisms of electrolyte reabsorption, directly increasing excretion of sodium and chloride in approximately equivalent amounts.
@@ -30,9 +30,9 @@ The mechanism of the antihypertensive effect of thiazides is not fully understoo
 
 ## Pharmacokinetics
 
-### General
+General
 
-#### Olmesartan medoxomil
+Olmesartan medoxomil
 
 Olmesartan medoxomil is rapidly and completely bioactivated by ester hydrolysis to olmesartan during absorption from the gastrointestinal tract.
 Olmesartan appears to be eliminated in a biphasic manner with a terminal elimination half-life of approximately 13 hours.
@@ -43,26 +43,26 @@ The absolute bioavailability of olmesartan is approximately 26%.
 After oral administration, the peak plasma concentration (Cmax) of olmesartan is reached after 1 to 2 hours.
 Food does not affect the bioavailability of olmesartan.
 
-#### Hydrochlorothiazide
+Hydrochlorothiazide
 
 When plasma levels have been followed for at least 24 hours, the plasma half-life has been observed to vary between 5.6 and 14.8 hours.
 
-### Metabolism and Excretion
+Metabolism and Excretion
 
-#### Olmesartan medoxomil
+Olmesartan medoxomil
 
 Following the rapid and complete conversion of olmesartan medoxomil to olmesartan during absorption, there is virtually no further metabolism of olmesartan.
 Total plasma clearance of olmesartan is 1.3 L/h, with a renal clearance of 0.6 L/h.
 Approximately 35% to 50% of the absorbed dose is recovered in urine while the remainder is eliminated in feces via the bile.
 
-#### Hydrochlorothiazide
+Hydrochlorothiazide
 
 Hydrochlorothiazide is not metabolized but is eliminated rapidly by the kidney.
 At least 61% of the oral dose is eliminated unchanged within 24 hours.
 
-### Distribution
+Distribution
 
-#### Olmesartan
+Olmesartan
 
 The volume of distribution of olmesartan is approximately 17 L. Olmesartan is highly bound to plasma proteins (99%) and does not penetrate red blood cells.
 The protein binding is constant at plasma olmesartan concentrations well above the range achieved with recommended doses.
@@ -71,34 +71,32 @@ In rats, olmesartan crossed the blood-brain barrier poorly, if at all.
 Olmesartan passed across the placental barrier in rats and was distributed to the fetus.
 Olmesartan was distributed to milk at low levels in rats.
 
-#### Hydrochlorothiazide
+Hydrochlorothiazide
 
 Hydrochlorothiazide crosses the placental but not the blood-brain barrier and is excreted in breast milk.
 
 ## Special Populations
 
-Pediatric:The pharmacokinetics of olmesartan have not been investigated in patients <18 years of age.
+Pediatric: The pharmacokinetics of olmesartan have not been investigated in patients <18 years of age.
 
-Geriatric:The pharmacokinetics of olmesartan were studied in the elderly (≥65 years).
+Geriatric: The pharmacokinetics of olmesartan were studied in the elderly (≥65 years).
 Overall, maximum plasma concentrations of olmesartan were similar in young adults and the elderly.
 Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUCss,τ was 33% higher in elderly patients, corresponding to an approximate 30% reduction in CLR.
 
-Gender:Minor differences were observed in the pharmacokinetics of olmesartan in women compared to men.
+Gender: Minor differences were observed in the pharmacokinetics of olmesartan in women compared to men.
 AUC and Cmax were 10-15% higher in women than in men.
 
-Renal Insufficiency:In patients with renal insufficiency, serum concentrations of olmesartan were elevated compared to subjects with normal renal function.
+Renal Insufficiency: In patients with renal insufficiency, serum concentrations of olmesartan were elevated compared to subjects with normal renal function.
 After repeated dosing, the AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min).
 The pharmacokinetics of olmesartan in patients undergoing hemodialysis has not been studied.
 
-Hepatic Insufficiency:Increases in AUC0-∞ and Cmax for olmesartan were observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60%.
+Hepatic Insufficiency: Increases in AUC0-∞ and Cmax for olmesartan were observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60%.
 
-## Drug Interactions
-
-See PRECAUTIONS, Drug Interactions.
+Drug Interactions: See PRECAUTIONS, Drug Interactions.
 
 ## Pharmacodynamics
 
-### Olmesartan medoxomil
+Olmesartan medoxomil
 
 Olmesartan medoxomil doses of 2.5 to 40 mg inhibit the pressor effects of angiotensin I infusion.
 The duration of the inhibitory effect was related to dose, with doses of olmesartan medoxomil >40 mg giving >90% inhibition at 24 hours.
@@ -106,13 +104,13 @@ The duration of the inhibitory effect was related to dose, with doses of olmesar
 Plasma concentrations of angiotensin I and angiotensin II and plasma renin activity (PRA) increase after single and repeated administration of olmesartan medoxomil to healthy subjects and hypertensive patients.
 Repeated administration of up to 80 mg olmesartan medoxomil had minimal influence on aldosterone levels and no effect on serum potassium.
 
-### Hydrochlorothiazide
+Hydrochlorothiazide
 
 After oral administration of hydrochlorothiazide, diuresis begins within 2 hours, peaks in about 4 hours and lasts about 6 to 12 hours.
 
 ## Clinical Trials
 
-### Olmesartan medoxomil
+Olmesartan medoxomil
 
 The antihypertensive effects of olmesartan medoxomil have been demonstrated in seven placebo-controlled studies at doses ranging from 2.5 to 80 mg for 6 to 12 weeks, each showing statistically significant reductions in peak and trough blood pressure.
 A total of 2693 patients (2145 olmesartan medoxomil; 548 placebo) with essential hypertension were studied.
@@ -131,7 +129,7 @@ The antihypertensive effect of olmesartan medoxomil was similar in men and women
 The effect was smaller in black patients (usually a low-renin population), as has been seen with other ACE inhibitors, angiotensin receptor blockers and beta-blockers.
 Olmesartan medoxomil had an additional blood pressure lowering effect when added to hydrochlorothiazide.
 
-### Olmesartan medoxomil-hydrochlorothiazide
+Olmesartan medoxomil-hydrochlorothiazide
 
 In clinical trials 1230 patients were exposed to the combination of olmesartan medoxomil (2.5 mg to 40 mg) and hydrochlorothiazide (12.5 mg to 25 mg).
 These trials included one placebo-controlled factorial trial (n=502) in mild-moderate hypertensives with combinations of olmesartan medoxomil (10 mg, 20 mg, 40 mg or placebo) and hydrochlorothiazide (12.5 mg, 25 mg or placebo).

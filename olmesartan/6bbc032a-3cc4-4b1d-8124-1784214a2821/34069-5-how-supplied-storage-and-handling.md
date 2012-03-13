@@ -29,5 +29,4 @@ Rx Only
 Copyright © Daiichi Sankyo, Inc. 2006.
 All rights reserved.
 
-P1800706 Rev.
-December 2006
+Revised MM/yyyy

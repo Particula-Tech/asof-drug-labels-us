@@ -1,4 +1,5 @@
-USE IN PREGNANCY
+# WARNING: FETAL TOXICITY
 
-When used in pregnancy during the second and third trimesters, drugs that act directly on the renin-angiotensin system can cause injury and even death to the developing fetus.When pregnancy is detected, BENICAR HCT® should be discontinued as soon as possible.
-SeeWARNINGS, Fetal/Neonatal Morbidity and Mortality.
+- When pregnancy is detected, discontinue Benicar HCT as soon as possible.
+- Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus.
+  See Warnings: Fetal Toxicity
