@@ -46,7 +46,7 @@ Drug Interactions
 The risk of myopathy and rhabdomyolysis is increased by high levels of statin activity in plasma.
 Simvastatin is metabolized by the cytochrome P450 isoform 3A4.
 Certain drugs that inhibit this metabolic pathway can raise the plasma levels of simvastatin and may increase the risk of myopathy.
-These include itraconazole, ketoconazole, and posaconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, the antidepressant nefazodone, or large quantities of grapefruit juice (>1 quart daily).
+These include itraconazole, ketoconazole, and posaconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, boceprevir, telaprevir, the antidepressant nefazodone, or large quantities of grapefruit juice (>1 quart daily).
 Combination of these drugs with VYTORIN is contraindicated.
 If treatment with itraconazole, ketoconazole, posaconazole, erythromycin, clarithromycin or telithromycin is unavoidable, therapy with VYTORIN must be suspended during the course of treatment.
 [See Contraindications (4) and Drug Interactions (7).]
@@ -74,7 +74,7 @@ Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
-| Itraconazole Ketoconazole Posaconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Nefazodone Gemfibrozil Cyclosporine Danazol | Contraindicated with VYTORIN |
+| Strong CYP3A4 Inhibitors, e.g.: Itraconazole Ketoconazole Posaconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Boceprevir Telaprevir Nefazodone Gemfibrozil Cyclosporine Danazol | Contraindicated with VYTORIN |
 | Verapamil Diltiazem | Do not exceed 10/10 mg VYTORIN daily |
 | Amiodarone Amlodipine Ranolazine | Do not exceed 10/20 mg VYTORIN daily |
 | Grapefruit juice | Avoid large quantities of grapefruit juice (>1 quart daily) |

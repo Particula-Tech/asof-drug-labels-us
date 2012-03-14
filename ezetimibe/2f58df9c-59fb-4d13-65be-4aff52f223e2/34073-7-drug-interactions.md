@@ -34,6 +34,7 @@ The risk of myopathy, including rhabdomyolysis, is increased by concomitant admi
 ## 7.4 Niacin
 
 Cases of myopathy/rhabdomyolysis have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
+The benefits of the combined use of VYTORIN with niacin should be carefully weighed against the potential risks of myopathy/rhabdomyolysis.
 In particular, caution should be used when treating Chinese patients with VYTORIN doses exceeding 10/20 mg/day coadministered with lipid-modifying doses of niacin-containing products.
 Because the risk for myopathy is dose-related, Chinese patients should not receive VYTORIN 10/80 mg coadministered with lipid-modifying doses of niacin-containing products.
 [See Warnings and Precautions (5.1).]
@@ -51,11 +52,10 @@ Patients taking digoxin should be monitored appropriately when VYTORIN is initia
 ## 7.7 Fibrates
 
 The safety and effectiveness of VYTORIN administered with fibrates have not been established.
+Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of fibrates, VYTORIN should be administered with caution when used concomitantly with fibrates (other than gemfibrozil, which is contraindicated) [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Fibrates may increase cholesterol excretion into the bile, leading to cholelithiasis.
 In a preclinical study in dogs, ezetimibe increased cholesterol in the gallbladder bile [see Animal Toxicology and/or Pharmacology (13.2)].
-Coadministration of VYTORIN with fibrates is not recommended until use in patients is studied.
-[See Warnings and Precautions (5.1).]
 
 ## 7.8 Coumarin Anticoagulants
 

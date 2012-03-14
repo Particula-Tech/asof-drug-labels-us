@@ -1,6 +1,6 @@
 VYTORIN® (ezetimibe/simvastatin) Tablets Patient Information about VYTORIN (VI-tor-in) Generic name: ezetimibe/simvastatin tablets
 
-Read this information carefully before you start taking VYTORIN.
+Read this information carefully before you start taking VYTORIN®.
 Review this information each time you refill your prescription for VYTORIN as there may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 If you have any questions about VYTORIN, ask your doctor.
@@ -40,7 +40,8 @@ Do not take VYTORIN if you take:
   - itraconazole
   - ketoconazole
   - posaconazole
-- HIV protease inhibitors (indinavir, nelfinavir, ritonavir, saquinavir, tipranavir, or atazanavir),
+- HIV protease inhibitors (indinavir, nelfinavir, ritonavir, saquinavir, tipranavir, or atazanavir)
+- Certain hepatitis C virus protease inhibitors (such as boceprevir or telaprevir)
 - Certain antibiotics, including:
   - erythromycin
   - clarithromycin
@@ -131,6 +132,8 @@ Call your doctor right away if you have the following symptoms of liver problems
 - upper belly pain
 - dark urine
 - yellowing of your skin or the whites of your eyes
+
+Increases in blood sugar levels have been reported with statins, including simvastatin.
 
 In clinical studies patients reported the following common side effects while taking VYTORIN: headache, muscle pain, and diarrhea (see What should I tell my doctor before and while taking VYTORIN?).
 
