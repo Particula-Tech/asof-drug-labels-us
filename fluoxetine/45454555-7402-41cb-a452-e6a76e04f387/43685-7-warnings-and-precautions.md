@@ -44,18 +44,18 @@ Safety and effectiveness of fluoxetine and olanzapine in combination in patients
 
 ## 5.2 Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-The development of a potentially life-threatening serotonin syndrome or neuroleptic malignant syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including fluoxetine treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+The development of a potentially life-threatening serotonin syndrome or neuroleptic malignant syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including fluoxetine treatment, but particularly with concomitant use of serotonergic drugs (including triptans), with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin syndrome, in its most severe form, can resemble neuroleptic malignant syndrome which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
 Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 The concomitant use of fluoxetine with MAOIs intended to treat depression is contraindicated [see Contraindications (4) and Drug Interactions (7.1)] .
 If concomitant treatment of fluoxetine with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Drug Interactions (7.4)] .
 The concomitant use of fluoxetine with serotonin precursors (such as tryptophan) is not recommended [see Drug Interactions (7.3) ] .
-Treatment with fluoxetine and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above reactions occur, and supportive symptomatic treatment should be initiated.
+Treatment with fluoxetine and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above reactions occur and supportive symptomatic treatment should be initiated.
 
 ## 5.3 Allergic Reactions and Rash
 
-In U.S. fluoxetine clinical trials as of May 8, 1995, 7% of 10,782 patients developed various types of rashes and/or urticaria.
+In U.S. fluoxetine clinical trials, 7% of 10,782 patients developed various types of rashes and/or urticaria.
 Among the cases of rash and/or urticaria reported in premarketing clinical trials, almost a third were withdrawn from treatment because of the rash and/or systemic signs or symptoms associated with the rash.
 Clinical findings reported in association with rash include fever, leukocytosis, arthralgias, edema, carpal tunnel syndrome, respiratory distress, lymphadenopathy, proteinuria, and mild transaminase elevation.
 Most patients improved promptly with discontinuation of fluoxetine and/or adjunctive treatment with antihistamines or steroids, and all patients experiencing these reactions were reported to recover completely.
@@ -84,13 +84,13 @@ In U.S. placebo-controlled clinical trials for Major Depressive Disorder, mania/
 Activation of mania/hypomania has also been reported in a small proportion of patients with Major Affective Disorder treated with other marketed drugs effective in the treatment of Major Depressive Disorder [see Use in Specific Populations (8.4)] .
 In U.S. placebo-controlled clinical trials for OCD, mania/hypomania was reported in 0.8% of patients treated with fluoxetine and no patients treated with placebo.
 No patients reported mania/hypomania in U.S. placebo-controlled clinical trials for bulimia.
-In all U.S. fluoxetine clinical trials as of May 8, 1995, 0.7% of 10,782 patients reported mania/hypomania [see Use in Specific Populations (8.4)] .
+In U.S. fluoxetine clinical trials, 0.7% of 10,782 patients reported mania/hypomania [see Use in Specific Populations (8.4)] .
 
 ## 5.5 Seizures
 
 In U.S. placebo-controlled clinical trials for Major Depressive Disorder, convulsions (or reactions described as possibly having been seizures) were reported in 0.1% of patients treated with fluoxetine and 0.2% of patients treated with placebo.
 No patients reported convulsions in U.S. placebo-controlled clinical trials for either OCD or bulimia.
-In all U.S. fluoxetine clinical trials as of May 8, 1995, 0.2% of 10,782 patients reported convulsions.
+In U.S. fluoxetine clinical trials, 0.2% of 10,782 patients reported convulsions.
 The percentage appears to be similar to that associated with other marketed drugs effective in the treatment of Major Depressive Disorder.
 Fluoxetine should be introduced with care in patients with a history of seizures.
 
@@ -145,6 +145,7 @@ The mean heart rate was reduced by approximately 3 beats/min.
 Glycemic Control — In patients with diabetes, fluoxetine may alter glycemic control.
 Hypoglycemia has occurred during therapy with fluoxetine, and hyperglycemia has developed following discontinuation of the drug.
 As is true with many other types of medication when taken concurrently by patients with diabetes, insulin and/or oral hypoglycemic, dosage may need to be adjusted when therapy with fluoxetine is instituted or discontinued.
+Acute Narrow-Angle Glaucoma — Mydriasis has been reported in association with fluoxetine; therefore, caution should be used when prescribing fluoxetine in patients with raised intraocular pressure or those at risk of acute narrow-angle glaucoma.
 
 ## 5.11 Potential for Cognitive and Motor Impairment
 

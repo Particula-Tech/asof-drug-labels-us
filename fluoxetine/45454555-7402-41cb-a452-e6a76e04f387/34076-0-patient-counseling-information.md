@@ -51,7 +51,7 @@ Patients should be advised to avoid driving a car or operating hazardous machine
 
 ## 17.8 Use of Concomitant Medications
 
-Patients should be advised to inform their physician if they are taking, or plan to take, any prescription medication, including Symbyax, Sarafem or over-the-counter drugs, including herbal supplements or alcohol.
+Patients should be advised to inform their physician if they are taking, or plan to take, any prescription medication, including Symbyax, Sarafem, or over-the-counter drugs, including herbal supplements or alcohol.
 Patients should also be advised to inform their physicians if they plan to discontinue any medications they are taking while on fluoxetine.
 
 ## 17.9 Discontinuation of Treatment
@@ -64,10 +64,11 @@ Patients should be advised to consult with their healthcare provider if their sy
 
 Pregnancy — Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
 Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1) ] .
-Nursing Mothers — Patients should be advised to notify their physician if they intend to breast-feed an infant during therapy.
+Nursing Mothers — Patients should be advised to notify their physician if they intend to breastfeed an infant during therapy.
 Because fluoxetine is excreted in human milk, nursing while taking fluoxetine is not recommended [see Use in Specific Populations (8.3)] .
 Pediatric Use — Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1) ] .
 Limited evidence is available concerning the longer-term effects of fluoxetine on the development and maturation of children and adolescent patients.
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine.
 Safety and effectiveness of fluoxetine and olanzapine in combination in patients less than 18 years of age have not been established [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)] .
 Symbyax ® and Sarafem ® are registered trademarks of Eli Lilly.
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 08/2011

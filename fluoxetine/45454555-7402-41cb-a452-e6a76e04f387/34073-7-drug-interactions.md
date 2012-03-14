@@ -2,12 +2,12 @@
 
 As with all drugs, the potential for interaction by a variety of mechanisms (e.g., pharmacodynamic, pharmacokinetic drug inhibition or enhancement, etc.) is a possibility.
 
-## 7.1 Monoamine Oxidase Inhibitors
+## 7.1 Monoamine Oxidase Inhibitors (MAOI)
 
 There have been reports of serious, sometimes fatal, reactions (including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma) in patients receiving fluoxetine in combination with a monoamine oxidase inhibitor (MAOI), and in patients who have recently discontinued fluoxetine and are then started on an MAOI.
 Some cases presented with features resembling neuroleptic malignant syndrome.
 Therefore, fluoxetine should not be used in combination with an MAOI, or within a minimum of 14 days of discontinuing therapy with an MAOI [see Contraindications (4)] .
-Since fluoxetine and its major metabolite have very long elimination half-lives, at least 5 weeks perhaps longer, especially if fluoxetine has been prescribed chronically and/or at higher doses should be allowed after stopping fluoxetine before starting an MAOI [see Clinical Pharmacology (12.3)] .
+Since fluoxetine and its major metabolite have very long elimination half-lives, at least 5 weeks (perhaps longer, especially if fluoxetine has been prescribed chronically and/or at higher doses) should be allowed after stopping fluoxetine before starting an MAOI [see Clinical Pharmacology (12.3)] .
 
 ## 7.2 CNS Acting Drugs
 
@@ -43,7 +43,7 @@ There have been rare reports of prolonged seizures in patients on fluoxetine rec
 
 ## 7.8 Potential for Other Drugs to affect Fluoxetine
 
-Drugs Tightly Bound to Plasma Proteins – Because fluoxetine is tightly bound to plasma protein, adverse effects may result from displacement of protein-bound fluoxetine by other tightly-bound drugs [see Clinical Pharmacology (12.3)] .
+Drugs Tightly Bound to Plasma Proteins — Because fluoxetine is tightly bound to plasma proteins, adverse effects may result from displacement of protein-bound fluoxetine by other tightly-bound drugs [see Clinical Pharmacology (12.3)] .
 
 ## 7.9 Potential for Fluoxetine to affect Other Drugs
 
@@ -74,7 +74,7 @@ Anticonvulsants — Patients on stable doses of phenytoin and carbamazepine have
 Lithium — There have been reports of both increased and decreased lithium levels when lithium was used concomitantly with fluoxetine.
 Cases of lithium toxicity and increased serotonergic effects have been reported.
 Lithium levels should be monitored when these drugs are administered concomitantly.
-Drugs Tightly Bound to Plasma Proteins — Because fluoxetine is tightly bound to plasma protein, the administration of fluoxetine to a patient taking another drug that is tightly bound to protein (e.g., Coumadin, digitoxin) may cause a shift in plasma concentrations potentially resulting in an adverse effect [see Clinical Pharmacology (12.3)] .
+Drugs Tightly Bound to Plasma Proteins — Because fluoxetine is tightly bound to plasma proteins, the administration of fluoxetine to a patient taking another drug that is tightly bound to protein (e.g., Coumadin, digitoxin) may cause a shift in plasma concentrations potentially resulting in an adverse effect [see Clinical Pharmacology (12.3)] .
 Drugs Metabolized by CYP3A4 — In an in vivo interaction study involving coadministration of fluoxetine with single doses of terfenadine (a CYP3A4 substrate), no increase in plasma terfenadine concentrations occurred with concomitant fluoxetine.
 Additionally, in vitro studies have shown ketoconazole, a potent inhibitor of CYP3A4 activity, to be at least 100 times more potent than fluoxetine or norfluoxetine as an inhibitor of the metabolism of several substrates for this enzyme, including astemizole, cisapride, and midazolam.
 These data indicate that fluoxetine’s extent of inhibition of CYP3A4 activity is not likely to be of clinical significance.

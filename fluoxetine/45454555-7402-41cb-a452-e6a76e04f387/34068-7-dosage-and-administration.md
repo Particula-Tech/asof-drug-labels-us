@@ -97,7 +97,7 @@ Fluoxetine capsules monotherapy is not indicated for the treatment of depressive
 Treatment of pregnant Women During the Third Trimester — When treating pregnant women with fluoxetine capsules during the third trimester, the physician should carefully consider the potential risks and potential benefits of treatment.
 Neonates exposed to SNRIs or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 The physician may consider tapering fluoxetine capsules in the third trimester [see Use in Specific Populations (8.1)].
-Geriatrics — A lower or less frequent dosage should be considered for the elderly [see Use in Specific Populations (8.5)].
+Geriatric — A lower or less frequent dosage should be considered for the elderly [see Use in Specific Populations (8.5)].
 Hepatic Impairment — As with many other medications, a lower or less frequent dosage should be used in patients with hepatic impairment [see Clinical Pharmacology (12.4) and Use in Specific Populations (8.6)].
 Concomitant Illness — Patients with concurrent disease or on multiple concomitant medications may require dosage adjustments [see Clinical Pharmacology (12.4) and Warnings and Precautions (5.10)].
 Fluoxetine Capsules and Olanzapine in Combination — The starting dose of oral olanzapine 2.5 to 5 mg with fluoxetine 20 mg should be used for patients with a predisposition to hypotensive reactions, patients with hepatic impairment, or patients who exhibit a combination of factors that may slow the metabolism of olanzapine or fluoxetine in combination (female gender, geriatric age, non-smoking status), or those patients who may be pharmacodynamically sensitive to olanzapine.
