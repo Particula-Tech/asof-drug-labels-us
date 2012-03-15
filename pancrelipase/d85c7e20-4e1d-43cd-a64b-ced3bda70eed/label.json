@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022542"
+  ],
+  "inn": "pancrelipase",
+  "labeler": "Aptalis Pharma US, Inc",
+  "package_ndcs": [
+    "58914-112-10",
+    "58914-117-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pancrelipase",
+      "name": "Viokace"
+    }
+  ],
+  "setid": "d85c7e20-4e1d-43cd-a64b-ced3bda70eed",
+  "source": "dailymed"
+}
