@@ -1,17 +1,3 @@
-9000857-0605
+9007228-1011
 
-Dist. by:
-
-FALCON Pharmaceuticals, Ltd
-
-Fort Worth, TX 76134
-
-Mfd. by:
-
-ALCON LABORATORIES, INC.
-
-Fort Worth, TX 76134 USA
-
-Revised: June 2005
-
-Printed in USA
+SANDOZ Manufactured by Alcon Laboratories, Inc. Fort Worth, Texas 76134 for Sandoz Inc. Princeton, NJ 08540 Printed in USA
