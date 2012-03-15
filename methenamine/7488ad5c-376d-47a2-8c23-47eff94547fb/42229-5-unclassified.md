@@ -19,8 +19,8 @@ Similarly, the hippurate moiety is rapidly absorbed and excreted, and it reaches
 This action may be important in older patients or in those with some degree of renal impairment.
 
 Rev.
-March 2006
+October 2011
 
 Manufactured for: sanofi-aventis U.S. LLC Bridgewater, NJ 08807
 
-©2006 sanofi-aventis U.S. LLC
+©2011 sanofi-aventis U.S. LLC
