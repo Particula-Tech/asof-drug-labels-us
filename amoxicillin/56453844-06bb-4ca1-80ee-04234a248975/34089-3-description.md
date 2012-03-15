@@ -11,7 +11,7 @@ Clavulanic acid is particularly active against the clinically important plasmid-
 The clavulanate potassium molecular formula is C8H8KNO5, and the molecular weight is 237.25.
 Chemically, clavulanate potassium is potassium (Z)-(2R,5R)-3-(2-hydroxyethylidene)-7-oxo-4-oxa-1-azabicyclo[3.2.0]-heptane-2-carboxylate and may be represented structurally as:
 
-## Inactive Ingredients
+## Inactive Ingredients:
 
 Powder for Oral Suspension—Colloidal silicon dioxide, flavorings (see HOW SUPPLIED), xanthan gum, and 1 or more of the following: Aspartamea, hypromellose, mannitol, silica gel, silicon dioxide, and sodium saccharin.
 Chewable Tablets—Colloidal silicon dioxide, flavorings (see HOW SUPPLIED), magnesium stearate, mannitol, and 1 or more of the following: Aspartamea, D&C Yellow No. 10, FD&C Red No. 40, glycine, sodium saccharin and succinic acid.

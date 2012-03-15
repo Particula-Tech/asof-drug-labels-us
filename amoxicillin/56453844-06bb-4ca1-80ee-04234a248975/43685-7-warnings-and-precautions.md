@@ -27,7 +27,7 @@ These have generally been cases associated with serious underlying diseases or c
 
 # PRECAUTIONS
 
-## General
+## General:
 
 While AUGMENTIN possesses the characteristic low toxicity of the penicillin group of antibiotics, periodic assessment of organ system functions, including renal, hepatic, and hematopoietic function, is advisable during prolonged therapy.
 
@@ -39,7 +39,7 @@ If superinfections occur (usually involving Pseudomonas or Candida), the drug sh
 
 Prescribing AUGMENTIN in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## Information for the Patient
+## Information for the Patient:
 
 AUGMENTIN may be taken every 8 hours or every 12 hours, depending on the strength of the product prescribed.
 Each dose should be taken with a meal or snack to reduce the possibility of gastrointestinal upset.
@@ -63,13 +63,13 @@ They do not treat viral infections (e.g., the common cold).
 When AUGMENTIN is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by AUGMENTIN or other antibacterial drugs in the future.
 
-## Phenylketonurics
+## Phenylketonurics:
 
 Each 200-mg chewable tablet of AUGMENTIN contains 2.1 mg phenylalanine; each 400-mg chewable tablet contains 4.2 mg phenylalanine; each 5 mL of either the 200 mg/5 mL or 400 mg/5 mL oral suspension contains 7 mg phenylalanine.
 The other products of AUGMENTIN do not contain phenylalanine and can be used by phenylketonurics.
 Contact your physician or pharmacist.
 
-## Drug Interactions
+## Drug Interactions:
 
 Probenecid decreases the renal tubular secretion of amoxicillin.
 Concurrent use with AUGMENTIN may result in increased and prolonged blood levels of amoxicillin.
@@ -85,7 +85,7 @@ There are no data with AUGMENTIN and allopurinol administered concurrently.
 
 In common with other broad-spectrum antibiotics, AUGMENTIN may reduce the efficacy of oral contraceptives.
 
-## Drug/Laboratory Test Interactions
+## Drug/Laboratory Test Interactions:
 
 Oral administration of AUGMENTIN will result in high urine concentrations of amoxicillin.
 High urine concentrations of ampicillin may result in false-positive reactions when testing for the presence of glucose in urine using CLINITEST®, Benedict’s Solution, or Fehling’s Solution.
@@ -94,39 +94,39 @@ Since this effect may also occur with amoxicillin and therefore AUGMENTIN, it is
 Following administration of ampicillin to pregnant women, a transient decrease in plasma concentration of total conjugated estriol, estriol-glucuronide, conjugated estrone, and estradiol has been noted.
 This effect may also occur with amoxicillin and therefore AUGMENTIN.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Long-term studies in animals have not been performed to evaluate carcinogenic potential.
 
-### Mutagenesis
+### Mutagenesis:
 
 The mutagenic potential of AUGMENTIN was investigated in vitro with an Ames test, a human lymphocyte cytogenetic assay, a yeast test and a mouse lymphoma forward mutation assay, and in vivo with mouse micronucleus tests and a dominant lethal test.
 All were negative apart from the in vitro mouse lymphoma assay where weak activity was found at very high, cytotoxic concentrations.
 
-### Impairment of Fertility
+### Impairment of Fertility:
 
 AUGMENTIN at oral doses of up to 1,200 mg/kg/day (5.7 times the maximum human dose, 1,480 mg/m2/day, based on body surface area) was found to have no effect on fertility and reproductive performance in rats, dosed with a 2:1 ratio formulation of amoxicillin:clavulanate.
 
-## Pregnancy
+## Pregnancy:
 
-### Teratogenic Effects
+### Teratogenic Effects:
 
 Pregnancy (Category B). Reproduction studies performed in pregnant rats and mice given AUGMENTIN at oral dosages up to 1,200 mg/kg/day, equivalent to 7,200 and 4,080 mg/m2/day, respectively (4.9 and 2.8 times the maximum human oral dose based on body surface area), revealed no evidence of harm to the fetus due to AUGMENTIN.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-## Labor and Delivery
+## Labor and Delivery:
 
 Oral ampicillin-class antibiotics are generally poorly absorbed during labor.
 Studies in guinea pigs have shown that intravenous administration of ampicillin decreased the uterine tone, frequency of contractions, height of contractions, and duration of contractions.
 However, it is not known whether the use of AUGMENTIN in humans during labor or delivery has immediate or delayed adverse effects on the fetus, prolongs the duration of labor, or increases the likelihood that forceps delivery or other obstetrical intervention or resuscitation of the newborn will be necessary.
 In a single study in women with premature rupture of fetal membranes, it was reported that prophylactic treatment with AUGMENTIN may be associated with an increased risk of necrotizing enterocolitis in neonates.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 Ampicillin-class antibiotics are excreted in the milk; therefore, caution should be exercised when AUGMENTIN is administered to a nursing woman.
 
-## Pediatric Use
+## Pediatric Use:
 
 Because of incompletely developed renal function in neonates and young infants, the elimination of amoxicillin may be delayed.
 Dosing of AUGMENTIN should be modified in pediatric patients younger than 12 weeks (3 months).

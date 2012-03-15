@@ -1,6 +1,6 @@
 # Principal Display Panel
 
-NDC 43598-004-51
+NDC 43598-012-51
 
 AUGMENTIN®
 
@@ -46,17 +46,18 @@ Net contents: Equivalent to 1.875 g amoxicillin and 0.469 g clavulanic acid.
 
 Store dry powder at room temperature.
 
-Dr. Reddy's Laboratories Inc.
+Mfd.
+By: Dr. Reddy's Laboratories Inc.
 
 Bridgewater, NJ 08807
 
-I1110
+I1111
 
-10000000088729
+150035355
 
 # Principal Display Panel
 
-NDC 0029-6090-39
+NDC 43598-004-51
 
 AUGMENTIN®
 
@@ -102,10 +103,11 @@ Net contents: Equivalent to 3.75 g amoxicillin and 0.938 g clavulanic acid.
 
 Store dry powder at room temperature.
 
-Dr. Reddy's Laboratories Inc.
+Mfd.
+By: Dr. Reddy's Laboratories Inc.
 
 Bridgewater, NJ 08807
 
-I0810
+I1111
 
-10000000084778
+150035303

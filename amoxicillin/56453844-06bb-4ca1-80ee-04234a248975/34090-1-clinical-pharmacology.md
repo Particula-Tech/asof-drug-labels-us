@@ -10,7 +10,7 @@ Oral administration of single doses of 400-mg chewable tablets of AUGMENTIN and 
 
 | Dosea | AUC0-∞ (mcg.hr/mL) |  | Cmax (mcg/mL)b |  |
 | --- | --- | --- | --- | --- |
-| (amoxicillin/clavulanate potassium) | amoxicillin(±S.D.) | clavulanate potassium(±S.D.) | amoxicillin (±S.D.) | clavulanate potassium (±S.D.) |
+| (amoxicillin/ clavulanate potassium) | amoxicillin(±S.D.) | clavulanate potassium(±S.D.) | amoxicillin (±S.D.) | clavulanate potassium (±S.D.) |
 | 400/57 mg (5 mL of suspension) | 17.29 ± 2.28 | 2.34 ± 0.94 | 6.94 ± 1.24 | 1.10 ± 0.42 |
 | 400/57 mg (1 chewable tablet) | 17.24 ± 2.64 | 2.17 ± 0.73 | 6.67 ± 1.37 | 1.03 ± 0.33 |
 
@@ -38,7 +38,7 @@ The results of experiments involving the administration of clavulanic acid to an
 
 Two hours after oral administration of a single 35 mg/kg dose of suspension of AUGMENTIN to fasting children, average concentrations of 3.0 mcg/mL of amoxicillin and 0.5 mcg/mL of clavulanic acid were detected in middle ear effusions.
 
-## Microbiology
+## Microbiology:
 
 Amoxicillin is a semisynthetic antibiotic with a broad spectrum of bactericidal activity against many gram-positive and gram-negative microorganisms.
 Amoxicillin is, however, susceptible to degradation by β-lactamases, and therefore, the spectrum of activity does not include organisms which produce these enzymes.
@@ -50,13 +50,13 @@ Thus, AUGMENTIN possesses the distinctive properties of a broad-spectrum antibio
 
 Amoxicillin/clavulanic acid has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in INDICATIONS AND USAGE.
 
-### Gram-Positive Aerobes
+### Gram-Positive Aerobes:
 
 Staphylococcus aureus (β-lactamase and non−β-lactamase−producing)c
 
 c Staphylococci which are resistant to methicillin/oxacillin must be considered resistant to amoxicillin/clavulanic acid.
 
-### Gram-Negative Aerobes
+### Gram-Negative Aerobes:
 
 Enterobacter species (Although most strains of Enterobacter species are resistant in vitro, clinical efficacy has been demonstrated with AUGMENTIN in urinary tract infections caused by these organisms.)
 
@@ -75,7 +75,7 @@ However, with the exception of organisms shown to respond to amoxicillin alone, 
 
 d Because amoxicillin has greater in vitro activity against S. pneumoniae than does ampicillin or penicillin, the majority of S. pneumoniae strains with intermediate susceptibility to ampicillin or penicillin are fully susceptible to amoxicillin.
 
-### Gram-Positive Aerobes
+### Gram-Positive Aerobes:
 
 Enterococcus faecalise
 
@@ -89,7 +89,7 @@ Streptococcus pyogenese, f
 
 viridans group Streptococcuse, f
 
-### Gram-Negative Aerobes
+### Gram-Negative Aerobes:
 
 Eikenella corrodens (β-lactamase and non−β-lactamase−producing)
 
@@ -97,7 +97,7 @@ Neisseria gonorrhoeaee (β-lactamase and non−β-lactamase−producing)
 
 Proteus mirabilise (β-lactamase and non−β-lactamase−producing)
 
-### Anaerobic Bacteria
+### Anaerobic Bacteria:
 
 Bacteroides species, including Bacteroides fragilis (β-lactamase and non−β-lactamase−producing)
 
@@ -109,9 +109,9 @@ e Adequate and well-controlled clinical trials have established the effectivenes
 
 f These are non−β-lactamase−producing organisms, and therefore, are susceptible to amoxicillin alone.
 
-## Susceptibility Testing
+## Susceptibility Testing:
 
-### Dilution Techniques
+### Dilution Techniques:
 
 Quantitative methods are used to determine antimicrobial MICs.
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
@@ -137,7 +137,7 @@ For Staphylococcus aureusg and Haemophilus influenzae:
 | ≤ 4/2 | Susceptible (S) |
 | ≥ 8/4 | Resistant (R) |
 
-g Staphylococci which are susceptible to amoxicillin/clavulanic acid but resistant to methicillin or oxacillin must be considered as resistant.
+g Staphylococci which are susceptible to amoxicillin/clavulanic acid but resistant to methicillin/oxacillin must be considered as resistant.
 
 For S. pneumoniae from non-meningitis sources:
 
@@ -170,7 +170,7 @@ Standard amoxicillin/clavulanate potassium powder should provide the following M
 
 h Expressed as concentration of amoxicillin in the presence of clavulanic acid at a constant 2 parts amoxicillin to 1 part clavulanic acid.
 
-### Diffusion Techniques
+### Diffusion Techniques:
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure2 requires the use of standardized inoculum concentrations.
@@ -193,7 +193,7 @@ For Staphylococcus aureusi and Haemophilus influenzaej:
 | ≥ 20 | Susceptible (S) |
 | ≤ 19 | Resistant (R) |
 
-i Staphylococcus aureus which are resistant to methicillin or oxacillin must be considered as resistant to amoxicillin/clavulanic acid.
+i Staphylococcus aureus which are resistant to methicillin/oxacillin must be considered as resistant to amoxicillin/clavulanic acid.
 
 j A broth microdilution method should be used for testing Haemophilus influenzae.
 Beta-lactamase−negative, ampicillin-resistant strains must be considered resistant to amoxicillin/clavulanic acid.
@@ -209,4 +209,4 @@ For the diffusion technique, the 30-mcg amoxicillin/clavulanate potassium (20 mc
 | E. coli ATCC 25922 | 18 to 24 mm |
 | E. coli ATCC 35218 | 17 to 22 mm |
 | S. aureus ATCC 25923 | 28 to 36 mm |
-| H. influenza ATCC 49247 | 15 to 23 mm |
+| Haemophilus influenzae ATCC 49247 | 15 to 23 mm |

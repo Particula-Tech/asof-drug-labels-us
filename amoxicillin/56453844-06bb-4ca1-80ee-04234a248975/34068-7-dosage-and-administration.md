@@ -1,12 +1,12 @@
 # DOSAGE AND ADMINISTRATION
 
-## Dosage
+## Dosage:
 
-## Pediatric Patients
+## Pediatric Patients:
 
 Based on the amoxicillin component, AUGMENTIN should be dosed as follows:
 
-### Neonates and infants aged < 12 weeks (3 months)
+### Neonates and infants aged < 12 weeks (3 months):
 
 Due to incompletely developed renal function affecting elimination of amoxicillin in this age group, the recommended dose of AUGMENTIN is 30 mg/kg/day divided every 12 hours, based on the amoxicillin component.
 Clavulanate elimination is unaltered in this age group.
@@ -29,7 +29,7 @@ b Each strength of suspension of AUGMENTIN is available as a chewable tablet for
 
 c Duration of therapy studied and recommended for acute otitis media is 10 days.
 
-### Pediatric Patients Weighing 40 kg and More
+### Pediatric Patients Weighing 40 kg and More:
 
 Should be dosed according to the following adult recommendations: The usual adult dose is one 500-mg tablet of AUGMENTIN every 12 hours or one 250-mg tablet of AUGMENTIN every 8 hours.
 For more severe infections and infections of the respiratory tract, the dose should be one 875-mg tablet of AUGMENTIN every 12 hours or one 500-mg tablet of AUGMENTIN every 8 hours.
@@ -39,7 +39,7 @@ For detailed adult dosage recommendations, please see complete prescribing infor
 Hepatically impaired patients should be dosed with caution and hepatic function monitored at regular intervals.
 (See WARNINGS.)
 
-## Adults
+## Adults:
 
 Adults who have difficulty swallowing may be given the 125 mg/5 mL or 250 mg/5 mL suspension in place of the 500-mg tablet.
 The 200 mg/5 mL suspension or the 400 mg/5 mL suspension may be used in place of the 875-mg tablet.
@@ -51,7 +51,7 @@ Therefore, the 250-mg tablet of AUGMENTIN and the 250-mg chewable tablet should 
 
 Due to the different amoxicillin to clavulanic acid ratios in the 250-mg tablet of AUGMENTIN (250/125) versus the 250-mg chewable tablet of AUGMENTIN (250/62.5), the 250-mg tablet of AUGMENTIN should not be used until the child weighs at least 40 kg and more.
 
-## Directions for Mixing Oral Suspension
+## Directions for Mixing Oral Suspension:
 
 Prepare a suspension at time of dispensing as follows: Tap bottle until all the powder flows freely.
 Add approximately 2/3 of the total amount of water for reconstitution (see table below) and shake vigorously to suspend powder.
@@ -101,7 +101,7 @@ Note: SHAKE ORAL SUSPENSION WELL BEFORE USING.
 
 Reconstituted suspension must be stored under refrigeration and discarded after 10 days.
 
-## Administration
+## Administration:
 
 AUGMENTIN may be taken without regard to meals; however, absorption of clavulanate potassium is enhanced when AUGMENTIN is administered at the start of a meal.
 To minimize the potential for gastrointestinal intolerance, AUGMENTIN should be taken at the start of a meal.
