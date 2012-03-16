@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Oxybutynin chloride tablets USP.
+Oxybutynin chloride tablets USP are available as follows:
 
 5 mg – Very pale blue, round, biconvex, scored tablets debossed with PLIVA 456.
 Available in bottles of 100, 500, and 1000 tablets.

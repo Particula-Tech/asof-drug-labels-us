@@ -13,7 +13,7 @@ A metabolite, desethyloxybutynin, has pharmacological activity similar to that o
 
 ## Pharmacokinetics
 
-Absorption
+### Absorption
 
 Following oral administration of oxybutynin chloride tablets, oxybutynin is rapidly absorbed achieving Cmax within an hour, following which plasma concentration decreases with an effective half-life of approximately 2 to 3 hours.
 The absolute bioavailability of oxybutynin is reported to be about 6% (range 1.6 to 10.9%) for the tablets.
@@ -22,7 +22,7 @@ Wide interindividual variation in pharmacokinetic parameters is evident followin
 The mean pharmacokinetic parameters for R- and S-oxybutynin are summarized in Table 1.
 The plasma concentration-time profiles for R- and S-oxybutynin are similar in shape; Figure 1 shows the profile for R-oxybutynin.
 
-Table 1 Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following Three Doses of Oxybutynin Chloride 5 mg Administered Every 8 Hours (n=23)
+Table 1: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following Three Doses of Oxybutynin Chloride 5 mg Administered Every 8 Hours (n = 23)
 
 | Parameters (units) | R-Oxybutynin | S-Oxybutynin |
 | --- | --- | --- |
@@ -38,30 +38,33 @@ Sparse sampling technique was used to obtain serum samples.
 When all available data are normalized to an equivalent of 5 mg twice daily oxybutynin chloride, the mean pharmacokinetic parameters derived for R- and S-oxybutynin and R- and S-desethyloxybutynin are summarized in Table 2.
 The plasma-time concentration profiles for R- and S-oxybutynin are similar in shape; Figure 2 shows the profile for R-oxybutynin when all available data are normalized to an equivalent of 5 mg twice daily.
 
-Table 2 Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters In Children Aged 5 to 15 Following Administration of 7.5 mg to 15 mg Total Daily Dose of Oxybutynin Chloride Tablets (N=11)
+Table 2: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters In Children Aged 5 to 15 Following Administration of 7.5 mg to 15 mg Total Daily Dose of Oxybutynin Chloride Tablets (N = 11)
 
-| All Available Data Normalized to an Equivalent of Oxybutynin Chloride Tablets 5 mg BID or TID at Steady State |  |  |  |  |
+| All Available Data Normalized to an Equivalent of Oxybutynin Chloride Tablets 5 mg BID or TID at Steady-State |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | R-Oxybutynin | S-Oxybutynin | R-Desethyloxybutynin | S-Desethyloxybutynin |
 | CmaxReflects Cmax for pooled data (ng/mL) | 6.1 ± 3.2 | 10.1 ± 7.5 | 55.4 ± 17.9 | 28.2 ± 10 |
 | Tmax (hr) | 1 | 1 | 2 | 2 |
 | AUCAUC0-end of dosing interval (ng.hr/mL) | 19.8 ± 7.4 | 28.4 ± 12.7 | 238.8 ± 77.6 | 119.5 ± 50.7 |
 
-## Food Effects
+### Food Effects
 
-Data in the literature suggests that oxybutynin solution coadministered with food resulted in a slight delay in absorption and an increase in its bioavailability by 25% (n=18)1.
+Data in the literature suggests that oxybutynin solution coadministered with food resulted in a slight delay in absorption and an increase in its bioavailability by 25% (n = 18).1
 
-## Distribution
+### Distribution
 
-Plasma concentrations of oxybutynin decline biexponentially following intravenous or oral administration.
+Oxybutynin is widely distributed in body tissues following systemic absorption.
 The volume of distribution is 193 L after intravenous administration of 5 mg oxybutynin chloride.
+Both enantiomers of oxybutynin are highly bound (> 99%) to plasma proteins.
+Both enantiomers of desethyloxybutynin are also highly bound (> 97%) to plasma proteins.
+The major binding protein is alpha-1 acid glycoprotein.
 
-## Metabolism
+### Metabolism
 
 Oxybutynin is metabolized primarily by the cytochrome P450 enzyme systems, particularly CYP3A4 found mostly in the liver and gut wall.
 Its metabolic products include phenylcyclohexylglycolic acid, which is pharmacologically inactive, and desethyloxybutynin, which is pharmacologically active.
 
-## Excretion
+### Excretion
 
 Oxybutynin is extensively metabolized by the liver, with less than 0.1% of the administered dose excreted unchanged in the urine.
 Also, less than 0.1% of the administered dose is excreted as the metabolite desethyloxybutynin.

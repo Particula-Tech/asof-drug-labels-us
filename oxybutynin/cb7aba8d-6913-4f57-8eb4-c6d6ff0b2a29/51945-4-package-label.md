@@ -4,13 +4,7 @@
 
 NDC 50111-456-01
 
-OXYBUTYNIN
-
-CHLORIDE
-
-Tablets USP
-
-5 mg
+OXYBUTYNIN CHLORIDE Tablets USP 5 mg
 
 Rx only
 

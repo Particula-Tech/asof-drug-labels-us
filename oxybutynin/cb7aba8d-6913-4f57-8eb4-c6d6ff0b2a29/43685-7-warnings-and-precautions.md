@@ -71,7 +71,11 @@ Reproduction studies using oxybutynin chloride in the hamster, rabbit, rat, and 
 
 ## Pregnancy
 
-Category B. Reproduction studies using oxybutynin chloride in the hamster, rabbit, rat, and mouse have shown no definite evidence of impaired fertility or harm to the animal fetus.
+### Teratogenic Effects
+
+#### Category B
+
+Reproduction studies using oxybutynin chloride in the hamster, rabbit, rat, and mouse have shown no definite evidence of impaired fertility or harm to the animal fetus.
 The safety of oxybutynin chloride administered to women who are or who may become pregnant has not been established.
 Therefore, oxybutynin chloride should not be given to pregnant women unless, in the judgment of the physician, the probable clinical benefits outweigh the possible hazards.
 
