@@ -2,7 +2,7 @@
 
 Each scored Oxybutynin Chloride Tablet contains 5 mg of oxybutynin chloride.
 Chemically, oxybutynin chloride is d,l (racemic) 4-diethylamino-2-butynyl phenylcyclohexylglycolate hydrochloride.
-The empirical formula of oxybutynin chloride is C22H31NO3•HCl.
+The empirical formula of oxybutynin chloride is C22H31NO3∙HCl.
 The structural formula appears below:
 
 Oxybutynin chloride is a white crystalline solid with a molecular weight of 393.9.
