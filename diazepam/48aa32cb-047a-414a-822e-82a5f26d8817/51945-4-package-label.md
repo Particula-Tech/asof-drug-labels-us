@@ -4,13 +4,7 @@
 
 NDC 0172-3925-60
 
-New Product Appearance
-
-DIAZEPAM
-
-Tablets USP
-
-2 mg
+DIAZEPAM Tablets USP 2 mg
 
 Rx only
 
@@ -24,13 +18,7 @@ TEVA
 
 NDC 0172-3926-60
 
-New Product Appearance
-
-DIAZEPAM
-
-Tablets USP
-
-5 mg
+DIAZEPAM Tablets USP 5 mg
 
 Rx only
 
@@ -44,13 +32,7 @@ TEVA
 
 NDC 0172-3927-60
 
-New Product Appearance
-
-DIAZEPAM
-
-Tablets USP
-
-10 mg
+DIAZEPAM Tablets USP 10 mg
 
 Rx only
 
