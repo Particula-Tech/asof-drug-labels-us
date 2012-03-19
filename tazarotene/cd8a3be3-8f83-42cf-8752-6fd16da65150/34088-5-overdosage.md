@@ -1,4 +1,4 @@
-# OVERDOSAGE:
+# OVERDOSAGE
 
 Excessive topical use of AVAGE® Cream 0.1% may lead to marked redness, peeling, or discomfort (see PRECAUTIONS: General).
 

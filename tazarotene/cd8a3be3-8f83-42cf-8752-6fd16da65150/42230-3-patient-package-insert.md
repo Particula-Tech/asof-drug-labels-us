@@ -1,10 +1,6 @@
-Pharmacist: Please cut or tear at dotted line and provide this patient package insert to your customer.
+# PATIENT INFORMATION
 
-------------------------------------------------------------------------------------------------------------
-
-## PATIENT INFORMATION
-
-AVAGE® (TAZAROTENE) Cream 0.1%
+AVAGE® (tazarotene) Cream, 0.1%
 
 Use only on the face.
 
@@ -12,13 +8,14 @@ Read this leaflet carefully before you start to use your medicine.
 Read the information you get every time you get more medicine.
 There may be new information about the drug.
 This leaflet does not take the place of talks with your doctor.
-If you have any questions or are not sure about something, ask your doctor or pharmacist.
+If you have any questions, or are not sure about something, ask your doctor or pharmacist.
 
 What is the most important information I should know about AVAGE® Cream?
 
 - AVAGE® Cream can cause birth defects in unborn children of women who are pregnant when they use the product.
   If you are a woman who can become pregnant, you must not be pregnant when you start using AVAGE® Cream, and you must avoid pregnancy while you use it.
-  See the sections “Who should not use AVAGE® Cream?”“How should I use AVAGE® Cream?” and “What should I avoid while using AVAGE® Cream?” for more information.
+  See the sections “Who should not use AVAGE® Cream?”
+  “How should I use AVAGE® Cream?” and “What should I avoid while using AVAGE® Cream?” for more information.
 - Avoid sunlight and other medicines that may increase your sensitivity to sunlight (See “Who should not use AVAGE® Cream?” and “What should I avoid while using AVAGE® Cream?”)
 - AVAGE® Cream does not remove wrinkles or repair sun-damaged skin.
   (See “What is AVAGE® Cream?” for more details.)
@@ -28,7 +25,7 @@ What is AVAGE® Cream?
 AVAGE® Cream is a prescription medicine that may reduce fine facial wrinkles and certain types of dark and light spots on your face.
 
 - AVAGE® is for patients who are using a total skin care program and avoiding sunlight.
-  AVAGE®Cream does not remove wrinkles, repair sun-damaged skin, reverse skin aging from the sun (photoaging), or bring back more youthful or younger skin.
+  AVAGE® Cream does not remove wrinkles, repair sun-damaged skin, reverse skin aging from the sun (photoaging), or bring back more youthful or younger skin.
   AVAGE® does not work for everyone who uses it.
   It may work better for some patients than for others.
 - The active ingredient in AVAGE® Cream is tazarotene.
@@ -74,7 +71,7 @@ How should I use AVAGE® Cream?
   2. In the evening, gently wash your face with mild soap.
      Pat your skin dry and wait 20-30 minutes before applying AVAGE® Cream.
   3. Be sure your skin is dry before you use AVAGE® Cream.
-  4. Apply only a pea-sized amount (about ¼ inch or 5mm wide) to your face at one time.
+  4. Apply only a pea-sized amount (about ¼ inch or 5 mm wide) to your face at one time.
      This should be enough to cover the wrinkled or discolored areas lightly.
      You can include your eyelids, if desired.
   5. Wash your hands after applying the medicine.
@@ -119,7 +116,7 @@ AVAGE® can cause increased skin irritation and increased chance of sunburn.
 
 While you use AVAGE® Cream, strong wind or cold may irritate your skin more than usual.
 
-The most common side effects of AVAGE® (TAZAROTENE) Cream 0.1% are peeling, redness, burning, dryness, and irritated and itching skin.
+The most common side effects of AVAGE® (tazarotene) Cream 0.1% are peeling, redness, burning, dryness, and irritated and itching skin.
 
 These are not all the side effects possible with AVAGE® Cream.
 For more information, ask your doctor or pharmacist.
@@ -130,7 +127,7 @@ However, the effectiveness of AVAGE® Cream when used less often than once a day
 
 What are the ingredients of AVAGE® Cream?
 The active ingredient is tazarotene.
-The inactive ingredients are benzyl alcohol, carbomer 934P, carbomer l342, edetate disodium, medium chain triglycerides, mineral oil, purified water, sodium hydroxide, sodium thiosulfate, and sorbitan monooleate.
+The inactive ingredients are benzyl alcohol; carbomer homopolymer type B; carbomer 1342; edetate disodium; medium chain triglycerides; mineral oil; purified water; sodium hydroxide; sodium thiosulfate; and sorbitan monooleate.
 
 General advice about prescription medicines
 
@@ -143,10 +140,9 @@ Do not use AVAGE® Cream after the expiration date on the bottom seal of the tub
 
 Where can I get more information about AVAGE® Cream?
 
-You can contact Allergan by calling 800-433-8871.
+You can contact Allergan by calling 1.800.433.8871.
 You can ask your doctor or pharmacist for the information about AVAGE® Cream that is written for health professionals.
 
-® Marks owned by Allergan, Inc. U.S. Pat.
-5,089,509 9087X
+Revised: 01/2012 © 2012 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Made in the U.S.A.
 
-ALLERGAN Irvine, California 92612, USA May 2004 ©2004 Allergan, Inc. Printed in USA 1568US12M
+71568US13C
