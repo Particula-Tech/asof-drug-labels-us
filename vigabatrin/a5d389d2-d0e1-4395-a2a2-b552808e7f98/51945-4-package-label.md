@@ -2,4 +2,12 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 67386-111-01
 
-Sabril® (vigabatrin) Tablets 500 mg 100 Tablets
+Sabril® (vigabatrin) Tablets
+
+500 mg
+
+100 Tablets
+
+DISPENSE THE ENCLOSED MEDICATION GUIDE WITH EACH PRESCRIPTION.
+
+Rx only

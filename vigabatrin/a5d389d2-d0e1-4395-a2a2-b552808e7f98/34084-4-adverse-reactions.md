@@ -134,7 +134,7 @@ General: Developmental delay, facial edema, malignant hyperthermia, multi-organ 
 
 Hepatobiliary: Cholestasis
 
-Nervous System: Dystonia, encephalopathy, hypertonia, hypotonia, muscle spasticity, myoclonus, optic neuritis
+Nervous System: Dystonia, encephalopathy, hypertonia, hypotonia, muscle spasticity, myoclonus, optic neuritis, dyskinesia
 
 Psychiatric: Acute psychosis, apathy, delirium, hypomania, neonatal agitation, psychotic disorder
 
