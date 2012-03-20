@@ -31,7 +31,7 @@ Patients should be advised to avoid doing things that can spread HIV-1 infection
 - Do not share needles or other injection equipment.
 - Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
 - Do not have any kind of sex without protection.
-  Always practice safe sex by using a latex or polyurethane condom or other barrier method to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 - Do not breastfeed.
   We do not know if ZIAGEN can be passed to your baby in your breast milk and whether it could harm your baby.
   Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
@@ -52,9 +52,7 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©year, ViiV Healthcare.
+©2012, ViiV Healthcare.
 All rights reserved.
 
-month year
-
-ZGN:PI
+ZGN:5PI

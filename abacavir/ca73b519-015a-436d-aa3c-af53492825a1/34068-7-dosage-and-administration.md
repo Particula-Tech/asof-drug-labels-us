@@ -28,7 +28,7 @@ Dosing Recommendations for ZIAGEN Tablets in Pediatric Patients
 | >21 to <30 | ½ tablet (150 mg) | 1 tablet (300 mg) | 450 mg |
 | ≥30 | 1 tablet (300 mg) | 1 tablet (300 mg) | 600 mg |
 
-## 2.3 Patients with Hepatic Impairment
+## 2.3 Patients With Hepatic Impairment
 
 The recommended dose of ZIAGEN in patients with mild hepatic impairment (Child-Pugh score 5 to 6) is 200 mg twice daily.
 To enable dose reduction, ZIAGEN Oral Solution (10 mL twice daily) should be used for the treatment of these patients.
