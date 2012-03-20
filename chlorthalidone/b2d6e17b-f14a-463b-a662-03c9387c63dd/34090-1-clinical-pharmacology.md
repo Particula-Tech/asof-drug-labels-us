@@ -101,6 +101,3 @@ Special Populations
 
 Azilsartan medoxomil: The effect of demographic and functional factors on the pharmacokinetics of azilsartan was studied in single and multiple dose studies.
 Pharmacokinetic measures indicating the magnitude of the effect on azilsartan are presented in Figure 2 as change relative to reference (test/reference).
-
-| Figure 2. Impact of intrinsic factors on the pharmacokinetics of azilsartan |
-| --- |

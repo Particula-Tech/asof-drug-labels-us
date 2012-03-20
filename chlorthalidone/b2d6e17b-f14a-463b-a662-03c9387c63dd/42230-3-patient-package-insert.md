@@ -1,4 +1,4 @@
-Patient Information
+# Patient Information
 
 EDARBYCLOR (eh-DAR-bih-clor) (azilsartan medoxomil and chlorthalidone) tablets
 
@@ -40,7 +40,8 @@ Before you take Edarbyclor, tell your doctor if you:
 - are vomiting or have diarrhea
 - have gout
 - are pregnant or plan to become pregnant.
-  See "What is the most important information I should know about Edarbyclor?"
+  See " What is the most important information I should know about Edarbyclor?
+  "
 - are breastfeeding or plan to breastfeed.
   It is not known if Edarbyclor passes into your breast milk.
   You and your doctor should decide if you will take Edarbyclor or breastfeed.
@@ -76,7 +77,8 @@ What are the possible side effects of Edarbyclor?
 
 Edarbyclor may cause serious side effects, including:
 
-- See "What is the most important information I should know about Edarbyclor?"
+- See " What is the most important information I should know about Edarbyclor?
+  "
 - Low blood pressure (hypotension) and dizziness is most likely to happen if you also:
   - take water pills (diuretics)
   - are on a low-salt diet
@@ -164,5 +166,3 @@ All other trademark names are the property of their respective owners.
 ©2011 Takeda Pharmaceuticals America, Inc.
 
 AZC066 R1
-
-P042-01

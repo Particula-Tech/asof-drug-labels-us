@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 40 mg*/12.5 mg Tablet Bottle Label
+PRINCIPAL DISPLAY PANEL - 40 mg/12.5 mg Tablet Bottle Label
 
 NDC 64764-944-30
 
@@ -29,7 +29,7 @@ Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
 L127-01
 
-PRINCIPAL DISPLAY PANEL - 40 mg*/25 mg Tablet Bottle Label
+PRINCIPAL DISPLAY PANEL - 40 mg/25 mg Tablet Bottle Label
 
 NDC 64764-994-30
 

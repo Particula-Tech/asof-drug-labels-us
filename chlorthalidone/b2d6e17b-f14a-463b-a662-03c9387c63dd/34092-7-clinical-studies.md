@@ -33,9 +33,6 @@ Mean Change from Baseline in Clinic Systolic/Diastolic Blood Pressure (mm Hg) at
 | 12.5 | -21 / -7 | -34 / -14 | -37 / -16 | -37 / -17 |
 | 25 | -27 / -9 | -37 / - 16 | -40 / -17 | -40 / -19 |
 
-| Figure 3. Mean Change from Baseline at Week 8 in Ambulatory Systolic Blood Pressure (mm Hg) by Treatment and Hour |
-| --- |
-
 Edarbyclor was effective in reducing blood pressure regardless of age, gender, or race.
 
 Edarbyclor was effective in treating black patients (usually a low-renin population).
