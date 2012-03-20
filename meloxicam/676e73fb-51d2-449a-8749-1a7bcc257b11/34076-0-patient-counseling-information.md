@@ -43,3 +43,8 @@ Instruct patients seek immediate emergency help [see Warnings and Precautions (5
 ## 17.8 Effects During Pregnancy
 
 Starting at 30 weeks gestation, MOBIC should be avoided as premature closure of the ductus arteriosus in the fetus may occur [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
+
+## 17.9 Effects on Female Fertility
+
+Advise females of reproductive potential who desire pregnancy that NSAIDs, including MOBIC, may be associated with a reversible delay in ovulation.
+For women who have difficulties conceiving, or who are undergoing investigation of infertility, use of meloxicam is not recommended [see Use in Specific Populations (8.8)].

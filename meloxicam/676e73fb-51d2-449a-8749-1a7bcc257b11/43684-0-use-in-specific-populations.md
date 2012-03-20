@@ -56,3 +56,8 @@ Following a single dose of meloxicam, the free Cmax plasma concentrations were h
 Therefore, it is recommended that meloxicam dosage in this population not exceed 7.5 mg per day.
 Hemodialysis did not lower the total drug concentration in plasma; therefore, additional doses are not necessary after hemodialysis.
 Meloxicam is not dialyzable [see Dosage and Administration (2.1), Warnings and Precautions (5.6), and Clinical Pharmacology (12.3)].
+
+## 8.8 Females of Reproductive Potential
+
+Data from several small studies in humans and from studies in animals indicate that NSAIDs, including MOBIC, may be associated with a reversible delay in ovulation.
+Therefore, in women who have difficulties conceiving, or who are undergoing investigation of infertility, use of meloxicam is not recommended.
