@@ -134,15 +134,12 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured for:
 
-Marksans Pharma Inc.
-
-Lake Grove, NY 11755, USA
+Marksans Pharma Inc. 3-Phillips Ln, Lake Grove, NY 11755, USA
 
 Manufactured by:
 
-Marksans Pharma Ltd.
-
-Verna, Goa-403 722, India
+Marksans Pharma Ltd. Plot No.L-82, L-83, Verna Indl.
+Estate, Verna, Goa-403 722, India
 
 Iss.
 05/10
