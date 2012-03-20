@@ -10,7 +10,7 @@ Monitoring of Vision
 
 Because vision testing in infants and children is difficult, vision loss may not be detected until it is severe.
 However, monitoring of vision must be performed by an ophthalmic professional with expertise in visual field interpretation and the ability to perform dilated indirect ophthalmoscopy of the retina, unless a patient is formally exempted from periodic ophthalmologic assessment as documented in the Support, Help And Resources for Epilepsy (SHARE) program.
-For patients receiving SABRIL who are not exempted, vision assessment is required at baseline (no later than 4 weeks after starting SABRIL), at least every 3 months while on therapy and about 3-6 months after the discontinuation of SABRIL therapy.
+For patients receiving SABRIL who are not exempted, vision assessment is required at baseline (no later than 4 weeks after starting SABRIL), at least every 3 months while on therapy and about 3-6 months after the discontinuation of therapy.
 
 The diagnostic approach should be individualized for the patient and clinical situation.
 For all patients, attempts to monitor vision periodically and/or formal exemptions must be documented under the SHARE program.
