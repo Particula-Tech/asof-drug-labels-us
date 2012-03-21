@@ -38,7 +38,7 @@ Table 4 Renal Transplant Studies Incidence of Treatment Failure (Biopsy-proven R
 | Europe Study§(N=491 patients) | Mycophenolate mofetil 2 g/day(n=165 patients) | Mycophenolate mofetil 3 g/day(n=160 patients) | Placebo (n=166 patients) |
 | All treatment failures | 30.3% | 38.8% | 56% |
 | Early termination without prior acute rejection† | 11.5% | 22.5% | 7.2% |
-| Biopsy-proven rejection episode on treatment | 17.0% | 13.8% | 46.4% |
+| Biopsy-proven rejection episode on treatment | 17% | 13.8% | 46.4% |
 
 * Antithymocyte globulin induction/MMF or azathioprine/cyclosporine/corticosteroids.
 
@@ -88,7 +88,7 @@ Table 6 Rejection at 6 Months/Death or Retransplantation at 1 Year
 | Biopsy-proven rejection with hemodynamic compromise at 6 months* | 121 (38%) | 120 (37%) | 100 (35%) | 92 (32%) |
 | Death or retransplantation at 1 year | 49 (15.2%) | 42 (12.8%) | 33 (11.4%) | 18 (6.2%) |
 
-* Hemodynamic compromise occurred if any of the following criteria were met: pulmonary capillary wedge pressure ≥ 20 mm or a 25% increase; cardiac index < 2.0 L/min/m2 or a 25% decrease; ejection fraction ≤ 30%; pulmonary artery oxygen saturation ≤ 60% or a 25% decrease; presence of new S3 gallop; fractional shortening was ≤ 20% or a 25% decrease; inotropic support required to manage the clinical condition.
+* Hemodynamic compromise occurred if any of the following criteria were met: pulmonary capillary wedge pressure ≥ 20 mm or a 25% increase; cardiac index < 2 L/min/m2 or a 25% decrease; ejection fraction ≤ 30%; pulmonary artery oxygen saturation ≤ 60% or a 25% decrease; presence of new S3 gallop; fractional shortening was ≤ 20% or a 25% decrease; inotropic support required to manage the clinical condition.
 
 ## Hepatic Transplant
 
@@ -138,8 +138,7 @@ In patients receiving mycophenolate mofetil (2 g or 3 g) in controlled studies f
 Immunosuppressed patients are at increased risk for opportunistic infections, including activation of latent viral infections.
 These include cases of progressive multifocal leukoencephalopathy (PML) and BK virus-associated nephropathy (BKVAN) which have been observed in patients receiving immuno suppress ants, including mycophenolate mofetil.
 
-Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with CellCept.
-Hemiparesis, apathy, confusion, cognitive deficiencies and ataxia were the most frequent clinical features observed.
+Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with mycophenolate mofetil Hemiparesis, apathy, confusion, cognitive deficiencies and ataxia were the most frequent clinical features observed.
 The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
 In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
 Consideration should be given to reducing the amount of immunosuppression in patients who develop PML.
@@ -186,7 +185,7 @@ Patients should be aware that mycophenolate mofetil reduces blood levels of the 
 
 ## Neutropenia
 
-Severe neutropenia [absolute neutrophil count (ANC) < 0.5 × 103/µL] developed in up to 2.0% of renal, up to 2.8% of cardiac, and up to 3.6% of hepatic transplant patients receiving mycophenolate mofetil 3 g daily (see ADVERSE REACTIONS).
+Severe neutropenia [absolute neutrophil count (ANC) < 0.5 × 103/µL] developed in up to 2% of renal, up to 2.8% of cardiac, and up to 3.6% of hepatic transplant patients receiving mycophenolate mofetil 3 g daily (see ADVERSE REACTIONS).
 Patients receiving mycophenolate mofetil should be monitored for neutropenia (see PRECAUTIONS: Laboratory Tests).
 The development of neutropenia may be related to mycophenolate mofetil itself, concomitant medications, viral infections, or some combination of these causes.
 If neutropenia develops (ANC <1.3 × 103/µL), dosing with mycophenolate mofetil should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see DOSAGE AND ADMINISTRATION).
@@ -245,7 +244,7 @@ In adult rats, deaths occurred after single-oral doses of 500 mg/kg of mycopheno
 The dose represents approximately 3 times the recommended clinical dose in cardiac transplant patients when corrected for BSA.
 
 MPA and MPAG are usually not removed by hemodialysis.
-However, at high MPAG plasma concentrations (> 100 µg/mL), small amounts of MPAG are removed.
+However, at high MPAG plasma concentrations (> 100 mcg/mL), small amounts of MPAG are removed.
 By increasing excretion of the drug, MPA can be removed by bile acid sequestrants, such as cholestyramine (see CLINICAL PHARMACOLOGY: Pharmacokinetics).
 
 # DOSAGE AND ADMINISTRATION
@@ -336,7 +335,7 @@ If such contact occurs, wash thoroughly with soap and water; rinse eyes with pla
 
 # HOW SUPPLIED
 
-Mycophenolate mofetil capsules are available as follows:
+Mycophenolate mofetil capsules, USP are available as follows:
 
 250 mg, hard gelatin capsules with opaque blue cap and opaque white body.
 The cap and body are imprinted with "655" with black ink
@@ -351,7 +350,7 @@ NDC 0781-2067-89, package containing 12 bottles of 120
 
 ## Storage:
 
-Store at 25° (77°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F) [see USP Controlled Room Temperature].
 Protect from moisture.
 Dispense in a tight, light-resistant container as defined in the USP with a child-resistant cap.
 
@@ -362,11 +361,11 @@ Manufactured in India by Sandoz Private Ltd
 for Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-12/2009
+08/2011
 
 # MEDICATION GUIDE
 
-Mycophenolate Mofetil Capsules
+Mycophenolate Mofetil Capsules, USP
 
 Read the Medication Guide that comes with mycophenolate mofetil capsules before you start taking it and each time you refill your prescription.
 There may be new information.
@@ -377,7 +376,7 @@ What is the most important information I should know about mycophenolate mofetil
 Mycophenolate mofetil can cause serious side effects:
 
 - Possible loss of a pregnancy and higher risk of birth defects.
-  Women who take mycophenolate mofetil drug pregnancy have a higher risk of losing a pregnancy (miscarriage) during the first 3 months (first trimester), and a higher risk that their baby will be born with birth defects
+  Women who take mycophenolate mofetil during pregnancy have a higher risk of losing a pregnancy (miscarriage) during the first 3 months (first trimester), and a higher risk that their baby will be born with birth defects
 
 If you are a female and are able to become pregnant
 
@@ -403,12 +402,12 @@ Talk to your healthcare provider about joining the National Transplantation Preg
   Mycophenolate mofetil weakens the body's immune system and affects your ability to fight infections.
   Serious infections can happen with mycophenolate mofetil and can lead to death.
   Types of infections can include:
-
 - Viral infections.
   Certain viruses can live in your body and cause active infections when your immune system is weak.
   Viral infections that can happen with mycophenolate mofetil include:° Shingles, other herpes infections, and cytomegalovirus (CMV).
   CMV can cause serious tissue and blood infections.° BK virus.
   BK virus can affect how your kidney works and cause your transplanted kidney to fail.
+
 - A brain infection called Progressive Multifocal Leukoencephalopathy (PML).
   In some patients, mycophenolate mofetil may cause an infection of the brain that may cause death.
   You are at risk for this brain infection because you have a weakened immune system.
@@ -421,16 +420,6 @@ Talk to your healthcare provider about joining the National Transplantation Preg
   Yeasts and other types of fungal infections can happen with mycophenolate mofetil and can cause serious tissue and blood infections (see “What are the possible side effects of mycophenolate mofetil?”)
 
 Call your healthcare provider right away if you have any of the following signs and symptoms of infection:
-
-- 
-  - Temperature of 100.5°F or greater
-  - Cold symptoms, such as a runny nose or sore throat
-  - Flu symptoms, such as an upset stomach, stomach pain, vomiting or diarrhea
-  - Earache or headache
-  - Pain during urination
-  - White patches in the mouth or throat
-  - Unexpected bruising or bleeding
-  - Cuts, scrapes or incisions that are red, warm and oozing pus
 
 - Increased risk of getting certain cancers.
   People who take mycophenolate mofetil have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
@@ -539,14 +528,14 @@ Mycophenolate mofetil can cause serious side effects:
     This is most common from 3 months to 6 months after your transplant
   - red blood cells.
     Red blood cells carry oxygen to your body tissues.
-    You have a higher chance of getting sever anemia when your red blood cell count is low.
+    You have a higher chance of getting severe anemia when your red blood cell count is low.
   - platelets.
     Platelets help with blood clotting
 
 Your healthcare provider will do blood tests before you start taking mycophenolate mofetil and during treatment with mycophenolate mofetil to check your blood cell counts.
 
-Tell your healthcare provider right away if you have any signs of infection (see “What is the most important information I should know about mycophenolate mofetil?”), or any unexpected bruising or bleeding.
-Also, tell your healthcare provider about any unusual tiredness, lack of energy, dizziness or fainting.
+Tell your healthcare provider right away if you have any signs of infection (see “What is the most important information I should know about mycophenolate mofetil?”), or unexpected bruising or bleeding.
+Also, tell your healthcare provider if you have unusual tiredness, lack of energy, dizziness or fainting.
 
 - Stomach problems.
   Stomach and intestinal bleeding can happen in people who take high doses of mycophenolate mofetil.
@@ -584,7 +573,7 @@ You may report side effects to the FDA at 1-800-FDA-1088or Sandoz at 1-800-525-5
 
 How should I store mycophenolate mofetil ?
 
-- Store mycophenolate mofetil capsules at room temperature, between 20° (77°F).
+- Store mycophenolate mofetil capsules at room temperature, between 25°C (77°F).
   Keep the container closed tightly
 - Keep mycophenolate mofetil and all medicines out of the reach of children
 
@@ -615,4 +604,5 @@ Manufactured in India by Sandoz Private Ltd.
 
 for Sandoz Inc., Princeton, NJ 08540
 
-Rev.12/2009
+Rev.
+August 2011

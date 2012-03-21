@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The principal adverse reactions associated with the administration of mycophenolate mofetil include diarrhea, leukopenia, sepsis, vomiting, and there is evidence of a higher frequency of certain types of infections e.g., opportunistic infection (see WARNINGS: Infections and WARNINGS and WARNINGS: Latent Viral Infections).The adverse event profile associated with the administration of mycophenolate mofetil intravenous has been shown to be similar to that observed after administration of oral dosage forms of mycophenolate mofetil.
+The principal adverse reactions associated with the administration of mycophenolate mofetil include diarrhea, leukopenia, sepsis, vomiting, and there is evidence of a higher frequency of certain types of infections e.g., opportunistic infection (see WARNINGS: Infections and WARNINGSand WARNINGS: Latent Viral Infections).The adverse event profile associated with the administration of mycophenolate mofetil intravenous has been shown to be similar to that observed after administration of oral dosage forms of mycophenolate mofetil.
 
 ## Mycophenolate Mofetil Oral
 

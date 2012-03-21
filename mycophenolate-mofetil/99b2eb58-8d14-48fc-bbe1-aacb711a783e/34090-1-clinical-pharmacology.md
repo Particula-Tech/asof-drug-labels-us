@@ -23,7 +23,7 @@ Mycophenolate mofetil did not inhibit early events in the activation of human pe
 Following oral and intravenous administration, mycophenolate mofetil undergoes rapid and complete metabolism to MPA, the active metabolite.
 Oral absorption of the drug is rapid and essentially complete.
 MPA is metabolized to form the phenolic glucuronide of MPA (MPAG) which is not pharmacologically active.
-The parent drug, mycophenolate mofetil, can be measured systemically during the intravenous infusion; however, shortly (about 5 minutes) after the infusion is stopped or after oral administration, MMF concentration is below the limit of quantitation (0.4 µg/mL).
+The parent drug, mycophenolate mofetil, can be measured systemically during the intravenous infusion; however, shortly (about 5 minutes) after the infusion is stopped or after oral administration, MMF concentration is below the limit of quantitation (0.4 mcg/mL).
 
 ## Absorption
 
@@ -40,9 +40,9 @@ MPA, at clinically relevant concentrations, is 97% bound to plasma albumin.
 MPAG is 82% bound to plasma albumin at MPAG concentration ranges that are normally seen in stable renal transplant patients; however, at higher MPAG concentrations (observed in patients with renal impairment or delayed renal graft function), the binding of MPA may be reduced as a result of competition between MPAG and MPA for protein binding.
 Mean blood to plasma ratio of radioactivity concentrations was approximately 0.6 indicating that MPA and MPAG do not extensively distribute into the cellular fractions of blood.
 
-In vitro studies to evaluate the effect of other agents on the binding of MPA to human serum albumin (HSA) or plasma proteins showed that salicylate (at 25 mg/dL with HSA) and MPAG (at ≥ 460 µg/mL with plasma proteins) increased the free fraction of MPA.
+In vitro studies to evaluate the effect of other agents on the binding of MPA to human serum albumin (HSA) or plasma proteins showed that salicylate (at 25 mg/dL with HSA) and MPAG (at ≥ 460 mcg/mL with plasma proteins) increased the free fraction of MPA.
 At concentrations that exceeded what is encountered clinically, cyclosporine, digoxin, naproxen, prednisone, propranolol, tacrolimus, theophylline, tolbutamide, and warfarin did not increase the free fraction of MPA.
-MPA at concentrations as high as 100 µg/mL had little effect on the binding of warfarin, digoxin or propranolol, but decreased the binding of theophylline from 53% to 45% and phenytoin from 90% to 87%.
+MPA at concentrations as high as 100 mcg/mL had little effect on the binding of warfarin, digoxin or propranolol, but decreased the binding of theophylline from 53% to 45% and phenytoin from 90% to 87%.
 
 ## Metabolism
 
@@ -79,19 +79,19 @@ In hepatic transplant patients, administration of 1 g bid intravenous mycophenol
 
 Table 1 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of Mycophenolate Mofetil to Healthy Volunteers (Single Dose), Renal, Cardiac, and Hepatic Transplant Patients (Multiple Doses)
 
-|  | Dose/Route | Tmax (h) | Cmax(µg/mL) | Total AUC (µg•h/mL) |
+|  | Dose/Route | Tmax (h) | Cmax(mcg/mL) | Total AUC (mcg•h/mL) |
 | --- | --- | --- | --- | --- |
 | Healthy Volunteers (single dose) | 1 g/oral | 0.80 (±0.36) (n=129) | 24.5 (±9.5) (n=129) | 63.9 (±16.2) (n=117) |
-| Renal Transplant Patients (bid dosing) Time After Transplantation | Dose/Route | Tmax(h) | Cmax(µg/mL) | Interdosing Interval AUC(0-12h) (µg•h/mL) |
+| Renal Transplant Patients (bid dosing) Time After Transplantation | Dose/Route | Tmax(h) | Cmax(mcg/mL) | Interdosing Interval AUC(0-12h) (mcg•h/mL) |
 | 5 days | 1 g/iv | 1.58 (±0.46) (n=31) | 12 (±3.82) (n=31) | 40.8 (±11.4) (n=31) |
 | 6 days | 1 g/oral | 1.33 (±1.05) (n=31) | 10.7 (±4.83) (n=31) | 32.9 (±15) (n=31) |
 | Early (< 40 days) | 1 g/oral | 1.31 (±0.76) (n=25) | 8.16 (±4.50) (n=25) | 27.3 (±10.9) (n=25) |
 | Early (< 40 days) | 1.5 g/oral | 1.21 (±0.81) (n=27) | 13.5 (±8.18) (n=27) | 38.4 (±15.4) (n=27) |
 | Late (> 3 months) | 1.5 g/oral | 0.90 (±0.24) (n=23) | 24.1 (±12.1) (n=23) | 65.3 (±35.4) (n=23) |
-| Cardiac Transplant Patients (bid dosing) Time After Transplantation | Dose/Route | Tmax(h) | Cmax(µg/mL) | Interdosing Interval AUC(0-12h) (µg•h/mL) |
+| Cardiac Transplant Patients (bid dosing) Time After Transplantation | Dose/Route | Tmax(h) | Cmax(mcg/mL) | Interdosing Interval AUC(0-12h) (mcg•h/mL) |
 | Early (Day before discharge) | 1.5 g/oral | 1.8 (±1.3) (n=11) | 11.5 (±6.8) (n=11) | 43.3 (±20.8) (n=9) |
 | Late (> 6 months) | 1.5 g/oral | 1.1(±0.7) (n=52) | 20 (±9.4) (n=52) | 54. 1* (±20.4) (n=49) |
-| Hepatic Transplant Patients (bid dosing) Time After Transplantation | Dose/Route | Tmax(h) | Cmax(µg/mL) | Interdosing Interval AUC(0-12h) µg•h/mL) |
+| Hepatic Transplant Patients (bid dosing) Time After Transplantation | Dose/Route | Tmax(h) | Cmax(mcg/mL) | Interdosing Interval AUC(0-12h) mcg•h/mL) |
 | 4 to 9 days | 1 g/iv | 1.50 (±0.517) (n=22) | 17(±12.7) (n=22) | 34 (±17.4) (n=22) |
 | Early (5 to 8 days) | 1.5 g/oral | 1.15(±0.432) (n=20) | 13.1(±6.76) (n=20) | 29.2 (±11.9) (n=20) |
 | Late (> 6 months) | 1.5 g/oral | 1.54 (±0.51) (n=6) | 19.3 (±11.7) (n=6) | 49.3 (±14.8) (n=6) |
@@ -107,13 +107,13 @@ Shown below are the mean (±SD) pharmacokinetic parameters for MPA following the
 
 Table 2 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of Mycophenolate Mofetil Capsules in Chronic Renal and Hepatic Impairment
 
-| Renal Impairment (no. of patients) | Dose | Tmax(h) | Cmax(µg/mL) | AUC(0-96h) (µg•h/mL) |
+| Renal Impairment (no. of patients) | Dose | Tmax(h) | Cmax(mcg/mL) | AUC(0-96h) (mcg•h/mL) |
 | --- | --- | --- | --- | --- |
 | Healthy VolunteersGFR> 80 mL/min/1.73 m2 (n=6) | 1g | 0.75 (±0.27) | 25.3 (±7.99) | 45 (±22.6) |
 | Mild Renal ImpairmentGFR 50 to 80 mL/min/1.73 m2 (n=6) | 1g | 0.75 (±0.27) | 26 (±3.82) | 59.9 (±12.9) |
 | Moderate Renal ImpairmentGFR 25 to 49 mL/min/1.73 m2 (n=6) | 1g | 0.75 (±0.27) | 19(±13.2) | 52.9(±25.5) |
 | Severe Renal ImpairmentGFR< 25 mL/min/1.73 m2 (n=7) | 1g | 1 (±0.41) | 16.3 (±10.8) | 78.6 (±46.4) |
-| Hepatic Impairment (no. of patients) | Dose | Tmax(h) | Cmax(µg/mL) | AUC(0-48h) (µg•h/mL) |
+| Hepatic Impairment (no. of patients) | Dose | Tmax(h) | Cmax(mcg/mL) | AUC(0-48h) (mcg•h/mL) |
 | Healthy Volunteers (n=6) | 1g | 0.63 (±0.14) | 24.3 (±5.73) | 29 (±5.78) |
 | Alcoholic Cirrhosis (n=18) | 1g | 0.85 (±0.58) | 22.4 (±10.1) | 29.8 (±10.7) |
 
@@ -124,7 +124,7 @@ Plasma MPA AUC observed after oral dosing to volunteers with severe chronic rena
 In addition, the single-dose plasma MPAG AUC was 3-fold to 6-fold higher in volunteers with severe renal impairment than in volunteers with mild renal impairment or healthy volunteers, consistent with the known renal elimination of MPAG.
 No data are available on the safety of long-term exposure to this level of MPAG.
 
-Plasma MPA AUC observed after single-dose (1 g) intravenous dosing to volunteers (n=4) with severe chronic renal impairment (GFR < 25 mL/min/1.73 m2) was 62.4 µg·h/mL (±19.3).
+Plasma MPA AUC observed after single-dose (1 g) intravenous dosing to volunteers (n=4) with severe chronic renal impairment (GFR < 25 mL/min/1.73 m2) was 62.4 mcg·h/mL (±19.3).
 Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).
 
 In patients with delayed renal graft function posttransplant, mean MPA AUC(0–12h) was comparable to that seen in posttransplant patients without delayed renal graft function.
@@ -137,7 +137,7 @@ Accumulation of MPA was about 1-fold to 2-fold.
 
 The pharmacokinetics of mycophenolate mofetil are not altered by hemodialysis.
 Hemodialysis usually does not remove MPA or MPAG.
-At high concentrations of MPAG (> 100 µg/mL), hemodialysis removes only small amounts of MPAG.
+At high concentrations of MPAG (> 100 mcg/mL), hemodialysis removes only small amounts of MPAG.
 
 ## Hepatic Insufficiency
 
@@ -146,7 +146,7 @@ However, it should be noted that for unexplained reasons, the healthy volunteers
 Effects of hepatic disease on this process probably depend on the particular disease.
 Hepatic disease with other etiologies, such as primary biliary cirrhosis, may show a different effect.
 In a single-dose (1 g intravenous) study of 6 volunteers with severe hepatic impairment (aminopyrine breath test less than 0.2% of dose) due to alcoholic cirrhosis, MMF was rapidly converted to MPA.
-MPA AUC was 44.1 µg·h/mL (±15.5).
+MPA AUC was 44.1 mcg·h/mL (±15.5).
 
 ## Pediatrics
 
@@ -155,7 +155,7 @@ The pharmacokinetic data for MPA is provided in Table 3:
 
 Table 3 Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time After Allogeneic Renal Transplantation
 
-| Age Group (n) | Time | Tmax(h) | Dose Adjusted*Cmax(µg/mL) | Dose Adjusted*AUC0-12 (µg• h/mL) |
+| Age Group (n) | Time | Tmax(h) | Dose Adjusted*Cmax(mcg/mL) | Dose Adjusted*AUC0-12 (mcg• h/mL) |
 | --- | --- | --- | --- | --- |
 | 1 to < 2 yr (6)†1 to< 6yr (17)6 to<12yr (16) 12 to 18 yr (21) | Early (Day 7) | 3.03 (4.70) 1.63 (2.85) 0.940 (0.546) 1.16 (0.830) | 10.3 (5.80) 13.2 (7.16) 13.1 (6.30) 11.7 (10.7) | 22.5 (6.66) 27.4 (9.54) 33.2 (12.1) 26.3 (9.14)‡ |
 | 1 to < 2 yr (4)† 1 to< 6yr (15) 6 to< 12yr (14) 12 to 18 yr (17) | Late (Month 3) | 0.725 (0.276) 0.989 (0.511) 1.21 (0.532) 0.978 (0.484) | 23.8 (13.4) 22.7 (10.1) 27.8 (14.3) 17.9 (9.57) | 47.4 (14.7) 49.7 (18.2) 61.9 (19.6) 53.6 (20.3)§ |
@@ -177,7 +177,7 @@ MPA AUC values were similar in the early and late posttransplant period across t
 ## Gender
 
 Data obtained from several studies were pooled to look at any gender-related differences in the pharmacokinetics of MPA (data were adjusted to 1 g oral dose).
-Mean (±SD) MPA AUC(0–12h) for males (n=79) was 32.0 (±14.5) and for females (n=41) was 36.5 (±18.8) µg·h/mL while mean (±SD) MPA Cmax was 9.96 (±6.19) in the males and 10.6 (±5.64) µg/mL in the females.
+Mean (±SD) MPA AUC(0–12h) for males (n=79) was 32 (±14.5) and for females (n=41) was 36.5 (±18.8) mcg·h/mL while mean (±SD) MPA Cmax was 9.96 (±6.19) in the males and 10.6 (±5.64) mcg/mL in the females.
 These differences are not of clinical significance.
 
 ## Geriatrics
