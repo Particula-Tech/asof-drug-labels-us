@@ -162,4 +162,4 @@ For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 
 
 Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: October 2011
+Revised: March 2012 193908-01
