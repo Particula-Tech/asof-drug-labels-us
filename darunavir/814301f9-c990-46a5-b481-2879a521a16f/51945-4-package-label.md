@@ -8,6 +8,8 @@ PREZISTA® (darunavir) tablets
 
 Each tablet contains darunavir ethanolate equivalent to 75 mg of darunavir.
 
+Janssen
+
 Rx only
 
 PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Label
@@ -19,6 +21,8 @@ PREZISTA® (darunavir) tablets
 150 mg
 
 Each tablet contains darunavir ethanolate equivalent to 150 mg of darunavir.
+
+Janssen
 
 Rx only
 
@@ -33,6 +37,8 @@ PREZISTA® (darunavir) tablets
 400 mg
 
 Each tablet contains darunavir ethanolate equivalent to 400 mg of darunavir.
+
+Janssen
 
 Rx only
 
@@ -49,6 +55,8 @@ PREZISTA® (darunavir) tablets
 Each tablet contains darunavir ethanolate equivalent to 600 mg of darunavir.
 
 Rx only
+
+Janssen
 
 PRINCIPAL DISPLAY PANEL - 100 mg per mL Bottle Carton
 

@@ -262,7 +262,7 @@ This Patient Information has been approved by the U.S Food and Drug Administrati
 Manufactured by: PREZISTA Oral Suspension Janssen Pharmaceutica, N.V.
 Beerse, Belgium
 
-PREZISTA Tablets JOLLC, Gurabo, Puerto Rico
+PREZISTA Tablets Janssen Ortho LLC, Gurabo, PR 00778
 
 Manufactured for: Janssen Therapeutics, Division of Janssen Products, LP, Titusville NJ 08560
 
