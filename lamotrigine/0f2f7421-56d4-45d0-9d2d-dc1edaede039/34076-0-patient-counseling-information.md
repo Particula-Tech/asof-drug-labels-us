@@ -22,7 +22,7 @@ Accordingly, they should be advised neither to drive a car nor to operate other 
 
 ## 17.5 Blood Dyscrasias and/or Acute Multiorgan Failure
 
-Patients should be advised of the possibility of blood dyscrasias and/or acute multiorgan failure and to contact their physician immediately if they experience any signs or symptoms of these conditions [see WARNINGS AND PRECAUTIONS (5.3, 5.4)].
+Patients should be advised of the possibility of blood dyscrasias and/or acute multiorgan failure and to contact their physician immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.3, 5.4)].
 
 ## 17.6 Pregnancy
 

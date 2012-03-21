@@ -60,7 +60,7 @@ Lamotrigine pharmacokinetic parameters for adult and pediatric patients and heal
 Table 14 MeanThe majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and Cl/F and between 30% and 70% for Tmax.
 The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/patients in each study.
 The numbers in parentheses below each parameter mean represent the range of individual volunteer/patient values across studies.
-Pharmacokinetic Parameters in Healthy Volunteers and Adult Patients with Epilepsy
+Pharmacokinetic Parameters in Healthy Volunteers and Adult Patients With Epilepsy
 
 | Adult Study Population | Number of Subjects | Tmax: Time of Maximum Plasma Concentration (hr) | t½: Elimination Half-life (hr) | Cl/F: Apparent Plasma Clearance (mL/min/kg) |
 | --- | --- | --- | --- | --- |
@@ -126,7 +126,7 @@ The apparent clearance of lamotrigine is affected by the coadministration of cer
 
 The net effects of drug interactions with lamotrigine are summarized in Tables 13 and 15, followed by details of the drug interaction studies below.
 
-Table 15 Summary of Drug Interactions with Lamotrigine
+Table 15 Summary of Drug Interactions With Lamotrigine
 
 | Drug | Drug Plasma Concentration with Adjunctive Lamotriginea | Lamotrigine Plasma Concentration with Adjunctive Drugsb |
 | --- | --- | --- |
@@ -285,7 +285,7 @@ Results of in vitro experiments suggest that lamotrigine does not reduce the cle
 
 Special Populations
 
-Patients with Renal Impairment
+Patients With Renal Impairment
 
 Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min; range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100 mg dose of lamotrigine.
 The mean plasma half-lives determined in the study were 42.9 hours (chronic renal failure), 13.0 hours (during hemodialysis), and 57.4 hours (between hemodialysis) compared with 26.2 hours in healthy volunteers.
@@ -314,7 +314,7 @@ These analyses also revealed that, after accounting for body weight, lamotrigine
 Thus, the same weight-adjusted doses should be administered to children irrespective of differences in age.
 Concomitant AEDs which influence lamotrigine clearance in adults were found to have similar effects in children.
 
-Table 16 Mean Pharmacokinetic Parameters in Pediatric Patients with Epilepsy
+Table 16 Mean Pharmacokinetic Parameters in Pediatric Patients With Epilepsy
 
 | Pediatric Study Population | Number of Subjects | Tmax (hr) | t½(hr) | Cl/F (mL/min/kg) |
 | --- | --- | --- | --- | --- |

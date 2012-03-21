@@ -20,7 +20,7 @@
 
 25 mg, white to off-white, round, flat- faced, radial-edged tablets debossed with logo of "Z" and "12" on one side and plain on the other side.
 
-## 3.4 Potential Medication Errors
+## 3.3 Potential Medication Errors
 
 Patients should be strongly advised to visually inspect their tablets to verify that they are receiving lamotrigine as well as the correct formulation of lamotrigine each time they fill their prescription.
 Depictions of the lamotrigine tablets and lamotrigine tablets (chewable, dispesible) can be found in the Medication Guide that accompanies the product.

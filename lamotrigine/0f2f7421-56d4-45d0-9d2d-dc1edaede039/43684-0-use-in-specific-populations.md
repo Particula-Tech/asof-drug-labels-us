@@ -66,7 +66,7 @@ Safety and effectiveness in patients below the age of 18 years with Bipolar Diso
 Clinical studies of lamotrigine for epilepsy and in Bipolar Disorder did not include sufficient numbers of subjects 65 years of age and over to determine whether they respond differently from younger subjects or exhibit a different safety profile than that of younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-## 8.6 Patients with Hepatic Impairment
+## 8.6 Patients With Hepatic Impairment
 
 Experience in patients with hepatic impairment is limited.
 Based on a clinical pharmacology study in 24 patients with mild, moderate, and severe liver impairment [see CLINICAL PHARMACOLOGY (12.3)], the following general recommendations can be made.
@@ -74,7 +74,7 @@ No dosage adjustment is needed in patients with mild liver impairment.
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
 Escalation and maintenance doses may be adjusted according to clinical response [see DOSAGE AND ADMINISTRATION (2.1)].
 
-## 8.7 Patients with Renal Impairment
+## 8.7 Patients With Renal Impairment
 
 Lamotrigine is metabolized mainly by glucuronic acid conjugation, with the majority of the metabolites being recovered in the urine.
 In a small study comparing a single dose of lamotrigine in patients with varying degrees of renal impairment with healthy volunteers, the plasma half-life of lamotrigine was significantly longer in the patients with renal impairment [see CLINICAL PHARMACOLOGY (12.3)].

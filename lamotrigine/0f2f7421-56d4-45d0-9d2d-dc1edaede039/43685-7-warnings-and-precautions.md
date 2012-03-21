@@ -31,7 +31,7 @@ The risk of nonserious rash may be increased when the recommended initial dose a
 
 ## 5.2 Hypersensitivity Reactions
 
-Hypersensitivity reactions, some fatal or life-threatening, have also occurred.
+Hypersensitivity reactions, some fatal or life threatening, have also occurred.
 Some of these reactions have included clinical features of multiorgan failure/dysfunction, including hepatic abnormalities and evidence of disseminated intravascular coagulation.
 It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though a rash is not evident.
 If such signs or symptoms are present, the patient should be evaluated immediately.
@@ -47,7 +47,7 @@ No such fatalities have been reported in bipolar patients in clinical trials.
 Rare fatalities from multiorgan failure have also been reported in compassionate plea and postmarketing use.
 The majority of these deaths occurred in association with other serious medical events, including status epilepticus and overwhelming sepsis, and hantavirus, making it difficult to identify the initial cause.
 
-Additionally, 3 patients (a 45-year-old woman, a 3.5-year-old boy, and an 11-year-old girl) developed multiorgan dysfunction and disseminated intravascular coagulation 9 to 14 days after lamotrigine was added to their AED regimens.
+Additionally, 3 patients (a 45 year-old woman, a 3.5 year-old boy, and an 11 year-old girl) developed multiorgan dysfunction and disseminated intravascular coagulation 9 to 14 days after lamotrigine was added to their AED regimens.
 Rash and elevated transaminases were also present in all patients and rhabdomyolysis was noted in 2 patients.
 Both pediatric patients were receiving concomitant therapy with valproate, while the adult patient was being treated with carbamazepine and clonazepam.
 All patients subsequently recovered with supportive care after treatment with lamotrigine was discontinued.
@@ -93,7 +93,7 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.6 Use in Patients with Bipolar Disorder
+## 5.6 Use in Patients With Bipolar Disorder
 
 Acute Treatment of Mood Episodes
 
@@ -103,7 +103,7 @@ Children and Adolescents (less than 18 years of age)
 
 Safety and effectiveness of lamotrigine in patients below the age of 18 years with mood disorders have not been established [see Suicidal Behavior and Ideation (5.5)].
 
-Clinical Worsening and Suicide Risk Associated with Bipolar Disorder
+Clinical Worsening and Suicide Risk Associated With Bipolar Disorder
 
 Patients with bipolar disorder may experience worsening of their depressive symptoms and/or the emergence of suicidal ideation and behaviors (suicidality) whether or not they are taking medications for bipolar disorder.
 Patients should be closely monitored for clinical worsening (including development of new symptoms) and suicidality, especially at the beginning of a course of treatment, or at the time of dose changes.
@@ -140,7 +140,7 @@ To reduce the potential of medication errors, write and say lamotrigine clearly.
 Depictions of the lamotrigine tablets and lamotrigine tablets (chewable, dispersible) can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 To avoid the medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription.
 
-## 5.9 Concomitant Use with Oral Contraceptives
+## 5.9 Concomitant Use With Oral Contraceptives
 
 Some estrogen-containing oral contraceptives have been shown to decrease serum concentrations of lamotrigine [see CLINICAL PHARMACOLOGY (12.3)].
 Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking lamotrigine [see DOSAGE AND ADMINISTRATION (2.1)].
@@ -151,8 +151,7 @@ Adverse reactions consistent with elevated levels of lamotrigine, such as dizzin
 
 As with other AEDs, lamotrigine should not be abruptly discontinued.
 In patients with epilepsy there is a possibility of increasing seizure frequency.
-In clinical trials in patients with Bipolar Disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine.
-However, there were confounding factors that may have contributed to the occurrence of seizures in these bipolar patients.
+In clinical trials in patients with Bipolar Disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine. however, there were confounding factors that may have contributed to the occurrence of seizures in these bipolar patients.
 Unless safety concerns require a more rapid withdrawal, the dose of lamotrigine should be tapered over a period of at least 2 weeks (approximately 50% reduction per week) [see DOSAGE AND ADMINISTRATION (2.1)].
 
 ## 5.11 Status Epilepticus

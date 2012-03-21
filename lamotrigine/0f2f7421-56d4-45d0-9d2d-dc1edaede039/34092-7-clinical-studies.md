@@ -2,7 +2,7 @@
 
 ## 14.1 Epilepsy
 
-Monotherapy with Lamotrigine in Adults with Partial Seizures Already Receiving Treatment with Carbamazepine, Phenytoin, Phenobarbital, or Primidone as the Single AED
+Monotherapy With Lamotrigine in Adults With Partial Seizures Already Receiving Treatment With Carbamazepine, Phenytoin, Phenobarbital, or Primidone as the Single AED
 
 The effectiveness of monotherapy with lamotrigine was established in a multicenter, double-blind clinical trial enrolling 156 adult outpatients with partial seizures.
 The patients experienced at least 4 simple partial, complex partial, and/or secondarily generalized seizures during each of 2 consecutive 4-week periods while receiving carbamazepine or phenytoin monotherapy during baseline.
@@ -19,7 +19,7 @@ No differences in efficacy based on age, sex, or race were detected.
 
 Patients in the control group were intentionally treated with a relatively low dose of valproate; as such, the sole objective of this study was to demonstrate the effectiveness and safety of monotherapy with lamotrigine, and cannot be interpreted to imply the superiority of lamotrigine to an adequate dose of valproate.
 
-Adjunctive Therapy with Lamotrigine in Adults with Partial Seizures
+Adjunctive Therapy With Lamotrigine in Adults With Partial Seizures
 
 The effectiveness of lamotrigine as adjunctive therapy (added to other AEDs) was established in 3 multicenter, placebo-controlled, double-blind clinical trials in 355 adults with refractory partial seizures.
 The patients had a history of at least 4 partial seizures per month in spite of receiving one or more AEDs at therapeutic concentrations and, in 2 of the studies, were observed on their established AED regimen during baselines that varied between 8 to 12 weeks.
@@ -48,7 +48,7 @@ The median change in seizure frequency was a 26% reduction on lamotrigine compar
 
 No differences in efficacy based on age, sex, or race, as measured by change in seizure frequency, were detected.
 
-Adjunctive Therapy with Lamotrigine in Pediatric Patients with Partial Seizures
+Adjunctive Therapy With Lamotrigine in Pediatric Patients With Partial Seizures
 
 The effectiveness of lamotrigine as adjunctive therapy in pediatric patients with partial seizures was established in a multicenter, double-blind, placebo-controlled trial in 199 patients 2 to 16 years of age (n = 98 on lamotrigine, n = 101 on placebo).
 Following an 8-week baseline phase, patients were randomized to 18 weeks of treatment with lamotrigine or placebo added to their current AED regimen of up to 2 drugs.
@@ -57,7 +57,7 @@ Target doses were designed to approximate 5 mg/kg/day for patients taking valpro
 The primary efficacy endpoint was percentage change from baseline in all partial seizures.
 For the intent-to-treat population, the median reduction of all partial seizures was 36% in patients treated with lamotrigine and 7% on placebo, a difference that was statistically significant (p<0.01).
 
-Adjunctive Therapy with Lamotrigine in Pediatric and Adult Patients with Lennox-Gastaut Syndrome
+Adjunctive Therapy With Lamotrigine in Pediatric and Adult Patients With Lennox-Gastaut Syndrome
 
 The effectiveness of lamotrigine as adjunctive therapy in patients with Lennox-Gastaut syndrome was established in a multicenter, double-blind, placebo-controlled trial in 169 patients 3 to 25 years of age (n = 79 on lamotrigine, n = 90 on placebo).
 Following a 4-week single-blind, placebo phase, patients were randomized to 16 weeks of treatment with lamotrigine or placebo added to their current AED regimen of up to 3 drugs.
