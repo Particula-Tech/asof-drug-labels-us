@@ -61,7 +61,7 @@ Tell your healthcare provider:
 How should I take DELESTROGEN?
 
 DELESTROGEN should be injected deeply into the upper, outer quadrant of the gluteal muscle following the usual precautions for intramuscular administration.
-By virtue of the low viscosity of the vehicles, the various preparations of DELESTROGEN (estradiol valerate injection, USP) may be administered with a small gauge needle.
+By virtue of the low viscosity of the vehicles, the various preparations of DELESTROGEN (estradiol valerate injection, USP) may be administered with a small gauge needle (i.e., 20 Gauge × 1 ½ inches long).
 Since the 40 mg potency provides a high concentration in a small volume, particular care should be observed to administer the full dose.
 
 DELESTROGEN should be visually inspected for particulate matter and color prior to administration; the solution is clear, colorless to pale yellow.
@@ -74,6 +74,20 @@ Use of a wet needle or syringe may cause the solution to become cloudy; however,
 2. Estrogens should be used at the lowest dose possible for your treatment only as long as needed.
    The lowest effective dose of DELESTROGEN has not been determined.
    You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are taking and whether you still need treatment with DELESTROGEN.
+
+How should I dispose of used syringes and needles?
+
+1. Do not re-use needles or syringes.
+2. Do not throw the needles and syringes in household waste.
+   These should be discarded into an appropriate container (such as a sharps container) immediately after use.
+   Refer to state or local laws and regulations for appropriate container requirements.
+3. Make sure the container is tightly capped.
+4. Strategically place the container so as to minimize handling and keep out of the reach of children.
+5. Label the container indicating the presence of used needles/sharps.
+6. For disposal of containers containing used needles and syringes refer to the state or local laws and regulations or as instructed by your healthcare provider or pharmacist.
+7. Refer to your health care provider or pharmacist for guidance, and for additional information contact the Coalition for Safe Community Needle Disposal online at
+
+http://www.safeneedledisposal.org or refer to the FDA website Needles and Other Sharps at http://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/HomeHealthandConsumer/ConsumerProducts/Sharps/default.htm
 
 What are the possible side effects of estrogens?
 
