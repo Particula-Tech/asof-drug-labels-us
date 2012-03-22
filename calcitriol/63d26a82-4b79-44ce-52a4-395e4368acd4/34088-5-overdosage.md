@@ -1,7 +1,7 @@
 # OVERDOSAGE
 
 Administration of Calcijex (calcitriol injection) to patients in excess of their requirements can cause hypercalcemia, hypercalciuria and hyperphosphatemia.
-High intake of calcium and phosphate concomitant with Calcijex may lead to similar abnormalities.
+High intake of calcium and phosphate concomitant with Calcijex may lead to similar abnormalities (see WARNINGS, PRECAUTIONS and ADVERSE REACTIONS).
 
 ## Treatment of Hypercalcemia and Overdosage in Patients on Hemodialysis
 

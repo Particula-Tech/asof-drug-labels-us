@@ -1,13 +1,13 @@
 # WARNINGS
 
-Since calcitriol is the most potent metabolite of vitamin D available, vitamin D and its derivatives should be withheld during treatment.
+Since calcitriol is the most potent metabolite of vitamin D available, prescription-based doses of vitamin D and its derivatives should be withheld or used with caution during treatment to avoid the risk of hypercalcemia.
 
 A non-aluminum phosphate-binding compound should be used to control serum phosphorus levels in patients undergoing dialysis.
 
 Overdosage of any form of vitamin D is dangerous (see also OVERDOSAGE).
 Progressive hypercalcemia due to overdosage of vitamin D and its metabolites may be so severe as to require emergency attention.
-Chronic hypercalcemia can lead to generalized vascular calcification, nephrocalcinosis and other soft-tissue calcification.
-The serum calcium times phosphate (Ca x P) product should not be allowed to exceed 70.
+Chronic hypercalcemia can lead to generalized vascular calcification, nephrocalcinosis, and other soft-tissue calcification.
+The serum calcium times phosphate (Ca x P) product should not be allowed to exceed 70 mg2/dL2.
 Radiographic evaluation of suspect anatomical regions may be useful in the early detection of this condition.
 
 # PRECAUTIONS
@@ -36,7 +36,11 @@ Discontinuation of Calcijex therapy may result in rebound effect, therefore, app
 
 ## Drug Interactions
 
-Magnesium-containing antacid and Calcijex should not be used concomitantly, because such use may lead to the development of hypermagnesemia.
+Concomitant use of magnesium-containing preparations should be used with caution or avoided since such use may lead to the development of hypermagnesemia.
+
+Corticosteroids with glucocorticoid activity may counteract the bone and mineral metabolism effects of vitamin D analogues.
+
+Cytochrome P450 enzyme-inducing anticonvulsants such as carbamazepine, phenobarbital, and phenytoin may reduce the effects of vitamin D because they increase vitamin D catabolism.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

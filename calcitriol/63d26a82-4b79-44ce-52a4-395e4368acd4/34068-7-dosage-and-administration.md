@@ -1,12 +1,14 @@
 # DOSAGE AND ADMINISTRATION
 
+Calcijex is for intravenous injection only.
+
 The optimal dose of Calcijex (calcitriol injection) must be carefully determined for each patient.
 
 The effectiveness of Calcijex therapy is predicated on the assumption that each patient is receiving an adequate and appropriate daily intake of calcium.
 The RDA for calcium in adults is 800 mg.
 To ensure that each patient receives an adequate daily intake of calcium, the physician should either prescribe a calcium supplement or instruct the patient in proper dietary measures.
 
-The recommended initial dose of Calcijex, depending on the severity of the hypocalcemia and/or secondary hyperparathyroidism, is 1 mcg (0.02 mcg/kg) to 2 mcg administered three times weekly, approximately every other day.
+The recommended initial dose of Calcijex, depending on the severity of the hypocalcemia and/or secondary hyperparathyroidism, is 1 mcg (0.02 mcg/kg) to 2 mcg administered intravenously three times weekly, approximately every other day.
 Doses as small as 0.5 mcg and as large as 4 mcg three times weekly have been used as an initial dose.
 If a satisfactory response is not observed, the dose may be increased by 0.5 to 1 mcg at two to four week intervals.
 During this titration period, serum calcium and phosphorus levels should be obtained at least twice weekly.

@@ -5,11 +5,11 @@ The early and late signs and symptoms of vitamin D intoxication associated with 
 
 ## Early
 
-Weakness, headache, somnolence, nausea, vomiting, dry mouth, constipation, muscle pain, bone pain and metallic taste.
+Weakness, headache, somnolence, nausea, vomiting, dry mouth, constipation, muscle pain, bone pain, metallic taste, anorexia, abdominal pain, and epigastric discomfort.
 
 ## Late
 
-Polyuria, polydipsia, anorexia, weight loss, nocturia, conjunctivitis (calcific), pancreatitis, photophobia, rhinorrhea, pruritus, hyperthermia, decreased libido, elevated BUN, albuminuria, hypercholesterolemia, elevated SGOT and SGPT, ectopic calcification, hypertension, cardiac arrhythmias and, rarely, overt psychosis.
+Polyuria, polydipsia, anorexia, weight loss, nocturia, conjunctivitis (calcific), pancreatitis, photophobia, rhinorrhea, pruritus, hyperthermia, decreased libido, elevated BUN, albuminuria, hypercholesterolemia, elevated SGOT and SGPT, ectopic calcification, hypertension, cardiac arrhythmias, nephrocalcinosis, sensory disturbance, dehydration, apathy, and rarely, overt psychosis.
 
 Occasional mild pain on injection has been observed.
 
