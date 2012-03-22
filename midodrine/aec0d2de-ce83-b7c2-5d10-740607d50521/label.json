@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA077746"
+  ],
+  "inn": "midodrine",
+  "labeler": "Apotex Corp",
+  "package_ndcs": [
+    "60505-1320-1",
+    "60505-1320-3",
+    "60505-1320-5",
+    "60505-1320-8",
+    "60505-1321-1",
+    "60505-1321-3",
+    "60505-1321-5",
+    "60505-1321-8",
+    "60505-1325-1",
+    "60505-1325-3",
+    "60505-1325-5",
+    "60505-1325-8"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "midodrine hydrochloride",
+      "name": "Midodrine Hydrochloride"
+    }
+  ],
+  "setid": "aec0d2de-ce83-b7c2-5d10-740607d50521",
+  "source": "dailymed"
+}
