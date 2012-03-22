@@ -12,7 +12,7 @@ Use COSOPT as prescribed by your doctor.
    Do not pull the cap directly up and away from the bottle.
    Pulling the cap directly up will prevent your dispenser from operating properly.
 6. Tilt your head back and pull your lower eyelid down slightly to form a pocket between your eyelid and your eye.
-7. Invert the bottle, and press lightly with the thumb or index finger over the “Finger Push Area” (as shown) until a single drop is dispensed into the eye as directed by your doctor.
+7. Invert the bottle, and press lightly with the thumb or index finger over the "Finger Push Area" (as shown) until a single drop is dispensed into the eye as directed by your doctor.
    DO NOT TOUCH YOUR EYE OR EYELID WITH THE DROPPER TIP.
    OPHTHALMIC MEDICATIONS, IF HANDLED IMPROPERLY, CAN BECOME CONTAMINATED BY COMMON BACTERIA KNOWN TO CAUSE EYE INFECTIONS.
    SERIOUS DAMAGE TO THE EYE AND SUBSEQUENT LOSS OF VISION MAY RESULT FROM USING CONTAMINATED OPHTHALMIC MEDICATIONS.
@@ -33,10 +33,12 @@ If you have any questions about the use of COSOPT, please consult your doctor.
 
 Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
+By: Laboratoires Merck Sharp & Dohme-Chibret Clermont Ferrand Cedex 9, 63963, France
 
-Issued December 2009
+Issued August 2011
 
-9711305
+9711306
 
-219A-12/09 516149Z
+516356Z/200711-1/3628
+
+Copyright © 1998, 2004, 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved

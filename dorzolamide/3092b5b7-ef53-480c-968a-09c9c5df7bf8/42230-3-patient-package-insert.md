@@ -1,6 +1,6 @@
 # PATIENT PACKAGE INSERT
 
-Patient Information about COSOPT®Registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved (dorzolamide hydrochloride–timolol maleate ophthalmic solution) COSOPT (pronounced “CO-sopt”)
+Patient Information about COSOPT® (dorzolamide hydrochloride–timolol maleate ophthalmic solution) COSOPT (pronounced "CO-sopt")
 
 Read this information before you start using COSOPT and each time you refill your prescription.
 This is in case any information has changed.
@@ -90,7 +90,7 @@ Use COSOPT as prescribed by your doctor.
    Do not pull the cap directly up and away from the bottle.
    Pulling the cap directly up will prevent your dispenser from operating properly.
 6. Tilt your head back and pull your lower eyelid down slightly to form a pocket between your eyelid and your eye.
-7. Invert the bottle, and press lightly with the thumb or index finger over the “Finger Push Area” (as shown) until a single drop is dispensed into the eye as directed by your doctor.
+7. Invert the bottle, and press lightly with the thumb or index finger over the "Finger Push Area" (as shown) until a single drop is dispensed into the eye as directed by your doctor.
    DO NOT TOUCH YOUR EYE OR EYELID WITH THE DROPPER TIP.
    OPHTHALMIC MEDICATIONS, IF HANDLED IMPROPERLY, CAN BECOME CONTAMINATED BY COMMON BACTERIA KNOWN TO CAUSE EYE INFECTIONS.
    SERIOUS DAMAGE TO THE EYE AND SUBSEQUENT LOSS OF VISION MAY RESULT FROM USING CONTAMINATED OPHTHALMIC MEDICATIONS.
@@ -103,7 +103,7 @@ Use COSOPT as prescribed by your doctor.
 11. The dispenser tip is designed to provide a single drop; therefore, do NOT enlarge the hole of the dispenser tip.
 12. After you have used all doses, there will be some COSOPT left in the bottle.
     You should not be concerned since an extra amount of COSOPT has been added and you will get the full amount of COSOPT that your doctor prescribed.
-    Do not attempt to remove excess medicine from the bottle.
+    Do not attempt to remove the excess medicine from the bottle.
 
 ## Can I use COSOPT with other medicines?
 
@@ -111,7 +111,7 @@ Tell your doctor or pharmacist about all drugs that you are using or plan to use
 This includes other eyedrops and drugs obtained without a prescription.
 This is particularly important if you are taking medicine to lower blood pressure or to treat heart disease, or if you are taking large doses of aspirin.
 
-Ask your doctor’s advice about taking COSOPT if you are also using:
+Ask your doctor's advice about taking COSOPT if you are also using:
 
 - oral carbonic anhydrase inhibitors (for example, acetazolamide, Diamox®)
 - oral beta-blockers (for example, propranolol, Inderal®)
@@ -169,10 +169,14 @@ It may harm them.
 
 The inactive ingredients of COSOPT are sodium citrate, hydroxyethylcellulose, sodium hydroxide, mannitol, water for injection and benzalkonium chloride added as a preservative.
 
-Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Issued December 2009
+By: Laboratoires Merck Sharp & Dohme-Chibret Clermont Ferrand Cedex 9, 63963, France
 
-9711305
+Issued August 2011
 
-219A-12/09 516149Z
+9711306
+
+516356Z/200711-1/3628
+
+Copyright © 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved

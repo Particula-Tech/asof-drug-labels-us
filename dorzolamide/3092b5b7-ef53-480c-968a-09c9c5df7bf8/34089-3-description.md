@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-COSOPT Registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 1998, 2004, 2005 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved (dorzolamide hydrochloride-timolol maleate ophthalmic solution) is the combination of a topical carbonic anhydrase inhibitor and a topical beta-adrenergic receptor blocking agent.
+COSOPT® (dorzolamide hydrochloride-timolol maleate ophthalmic solution) is the combination of a topical carbonic anhydrase inhibitor and a topical beta-adrenergic receptor blocking agent.
 
 Dorzolamide hydrochloride is described chemically as: (4S-trans)-4-(ethylamino)-5,6-dihydro-6-methyl-4H-thieno[2,3-b]thiopyran-2-sulfonamide 7,7-dioxide monohydrochloride.
 Dorzolamide hydrochloride is optically active.
