@@ -13,6 +13,8 @@
 5. Smythe M, Stephens J, Mattson.
    Delayed-Onset Heparin Induced Thrombocytopenia.
    Annals of Emergency Medicine, 2005;45 (4): 417-419.
-6. Divgi A. (Reprint), Thumma S., Hari P., Friedman K., Delayed Onset Heparin-Induced Thrombocytopenia (HIT) Presenting After Undocumented Drug Exposure as Post-Angiography Pulmonary Embolism.
+6. Divgi A. (Reprint), Thumma S., Hari P., Friedman K. Delayed Onset Heparin-Induced Thrombocytopenia (HIT) Presenting After Undocumented Drug Exposure as Post-Angiography Pulmonary Embolism.
    Blood.
    2003;102(11):127b.
+
+Novation and Novaplus are trademarks of Novation, LLC.

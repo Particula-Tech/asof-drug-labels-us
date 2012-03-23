@@ -14,7 +14,7 @@ PACKAGE LABEL - PRINCIPAL DISPLAY - Heparin Sodium 1 mL Multiple Dose Vial Tray 
 
 NDC 63323-262-55
 
-NP 926201
+NP926201
 
 Heparin Sodium Injection, USP
 
@@ -29,8 +29,6 @@ For IV or SC Use Rx only
 PACKAGE LABEL - PRINCIPAL DISPLAY - Heparin Sodium 10 mL Multiple Dose Vial Label
 
 NDC 63323-540-57
-
-NP 504011
 
 Heparin Sodium Injection, USP
 

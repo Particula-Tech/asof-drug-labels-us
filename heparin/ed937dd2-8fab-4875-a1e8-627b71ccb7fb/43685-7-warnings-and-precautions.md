@@ -51,17 +51,12 @@ HIT may progress to the development of venous and arterial thromboses, a conditi
 Thrombotic events may also be the initial presentation for HITT.
 These serious thromboembolic events include deep vein thrombosis, pulmonary embolism, cerebral vein thrombosis, limb ischemia, stroke, myocardial infarction, mesenteric thrombosis, renal arterial thrombosis, skin necrosis, gangrene of the extremities that may lead to amputation, and possibly death.
 Thrombocytopenia of any degree should be monitored closely.
-If the count falls below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be promptly discontinued and alternative anticoagulants considered, if patients require continued anticoagulation.
+If the platelet count falls below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be promptly discontinued and alternative anticoagulants considered, if patients require continued anticoagulation.
 
 ## Delayed Onset of HIT and HITT
 
 Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis can occur up to several weeks after the discontinuation of heparin therapy.
 Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT and HITT.
-
-## Use in Neonates
-
-Carefully examine all Heparin Sodium Injection vials to confirm choice of the correct strength prior to administration of the drug.
-Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection vials have been confused with ‘‘catheter lock flush’’ vials (see WARNINGS, Fatal Medication Errors).
 
 # PRECAUTIONS
 
@@ -97,7 +92,7 @@ Since aminotransferase determinations are important in the differential diagnosi
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-No long-term studies in animals have been performed to evaluate the carcinogenic potential of heparin.
+No long-term studies in animals have been performed to evaluate carcinogenic potential of heparin.
 Also, no reproduction studies in animals have been performed concerning mutagenesis or impairment of fertility.
 
 ## Pregnancy
