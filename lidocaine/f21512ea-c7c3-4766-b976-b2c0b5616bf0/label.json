@@ -4,11 +4,15 @@
   ],
   "inn": "lidocaine",
   "labeler": "Baxter Healthcare Corporation",
-  "package_ndcs": [],
+  "package_ndcs": [
+    "0338-0409-02",
+    "0338-0409-03",
+    "0338-0411-02"
+  ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
-      "generic": "lidocaine hydrochloride and dextrose",
+      "generic": "lidocaine hydrochloride",
       "name": "Lidocaine Hydrochloride and Dextrose"
     }
   ],

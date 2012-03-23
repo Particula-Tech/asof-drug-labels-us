@@ -6,8 +6,7 @@ Lidocaine Hydrochloride and 5% Dextrose Injection, USP in VIAFLEX plastic contai
 | --- | --- | --- | --- |
 | 2B0972 | 250 | 0338-0409-02 | 0.4% Lidocaine Hydrochloride and 5% |
 | 2B0973 | 500 | 0338-0409-03 | Dextrose Injection, USP |
-| 2B0962 | 250 | 0338-0411-02 | 0.8% Lidocaine Hydrochloride and 5% |
-| 2B0963 | 500 | 0338-0411-03 | Dextrose Injection, USP |
+| 2B0962 | 250 | 0338-0411-02 | 0.8% Lidocaine Hydrochloride and 5% Dextrose Injection, USP |
 
 Exposure of pharmaceutical products to heat should be minimized.
 Avoid excessive heat.

@@ -7,9 +7,10 @@ The solution serves as a cardiac antiarrhythmic agent intended for intravenous u
 Composition, osmolarity, pH and caloric content are shown in Table 1.
 The pH is adjusted with sodium hydroxide.
 
-| Table 1 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
+Table 1
+
 |  | Composition |  | Normal physiologic osmolarity range is approximately 280 to 310 mOsmol/L. Administration of substantially hypertonic solutions (≥ 600/mOsmol/L) may cause vein damage.Osmolarity (mOsmol/L) (calc) | pH | Caloric Content (kcal/L) |
+| --- | --- | --- | --- | --- | --- |
 | **Lidocaine Hydrochloride, USP (mg/mL) | ***Dextrose Hydrous, USP (g/L) |  |  |  |  |
 | 0.4% Lidocaine Hydrochloride and 5% Dextrose Injection, USP | 4 | 50 | 282 | 4.0 (3.0 to 7.0) | 170 |
 | 0.8% Lidocaine Hydrochloride and 5% Dextrose Injection, USP | 8 | 50 | 311 | 4.0 (3.0 to 7.0) | 170 |

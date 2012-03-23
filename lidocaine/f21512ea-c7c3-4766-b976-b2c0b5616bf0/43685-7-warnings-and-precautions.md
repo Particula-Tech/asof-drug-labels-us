@@ -7,6 +7,11 @@ It is mandatory to have emergency resuscitative equipment and drugs immediately 
 Occasional acceleration of ventricular rate may occur when lidocaine hydrochloride is administered to patients with atrial fibrillation.
 Evidence for proper usage in children is limited.
 
+Anaphylactic reactions may occur following administration of lidocaine hydrochloride.
+(See ADVERSE REACTIONS).
+
+In the case of severe reaction, discontinue the use of the drug.
+
 Administer Lidocaine Hydrochloride and 5% Dextrose Injection, USP only with a calibrated infusion device.
 
 # PRECAUTIONS
@@ -14,9 +19,9 @@ Administer Lidocaine Hydrochloride and 5% Dextrose Injection, USP only with a ca
 ## General:
 
 Caution should be employed in the repeated use of lidocaine hydrochloride in patients with severe liver or renal disease because accumulation may occur and lead to toxic phenomena, since lidocaine hydrochloride is metabolized mainly in the liver and excreted by the kidneys.
-The drug should also be used with caution in patients with hypovolemia and shock, and in all forms of heart block (see CONTRAINDICATIONS and WARNINGS).
+The drug should also be used with caution in patients with hypovolemia and shock, and in all forms of heart block (see Contraindications and Warnings).
 
-In patients with sinus bradycardia or incomplete heart block, the administration of lidocaine hydrochloride intravenously for the elimination of ventricular ectopic beats without prior acceleration in heart rate (e.g., by isoproterenol or by electric pacing) may promote more frequent and serious ventricular arrhythmias or complete heart block (see CONTRAINDICATIONS).
+In patients with sinus bradycardia or incomplete heart block, the administration of lidocaine hydrochloride intravenously for the elimination of ventricular ectopic beats without prior acceleration in heart rate (e.g., by isoproterenol or by electric pacing) may promote more frequent and serious ventricular arrhythmias or complete heart block (see Contraindications).
 
 Most potent anesthetic agents, local anesthetics of the amide type, which includes lidocaine, and muscle relaxants of both depolarizing and non-depolarizing types, have been associated with malignant hyperthermia.
 
@@ -30,7 +35,7 @@ Clinical evaluation and periodic laboratory determinations are necessary to moni
 
 ## Drug Interactions:
 
-Lidocaine should be used with caution in patients with digitalis toxicity accompanied by atrioventricular block (see CONTRAINDICATIONS).
+Lidocaine should be used with caution in patients with digitalis toxicity accompanied by atrioventricular block (see Contraindications).
 
 Coadministration of propranolol or cimetidine with lidocaine has been reported to reduce the clearance of lidocaine from the plasma and may result in toxic accumulation of the drug.
 
@@ -43,9 +48,9 @@ Long term animal studies have not been performed to evaluate carcinogenic potent
 
 ## Pregnancy:
 
-### Teratogenic Effects:
+### Teratogenic Effects
 
-#### Pregnancy Category B.
+#### Pregnancy Category B
 
 Reproduction studies have been performed in rats at doses up to five times the maximum human dose and have revealed no significant findings.
 There are, however, no adequate and well-controlled studies in pregnant women.

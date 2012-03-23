@@ -1,9 +1,9 @@
-# DIRECTIONS FOR USE OF VIAFLEX PLUS PLASTIC CONTAINER:
+# DIRECTIONS FOR USE OF VIAFLEX PLUS PLASTIC CONTAINER
 
 WARNING: Do not use plastic containers in series connections.
 Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is completed.
 
-## To Open:
+## To Open
 
 Tear overwrap down side at slit and remove solution container.
 Some opacity of the plastic due to moisture absorption during the sterilization process may be observed.
@@ -20,17 +20,13 @@ Do not add supplementary medication.
 3. Attach administration set.
    Refer to complete directions accompanying set.
 
-Baxter Healthcare Corporation
+Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
-Deerfield, IL 60015 USA
+*Bar Code Position Only 071968197
 
-Printed in USA
+07-19-68-197
 
-*Bar Code Position Only
-
-071939763
-
-07-19-39-763 Rev.
-August 2003
+Rev.
+December 2011
 
 BAXTER, VIAFLEX, and PL 146 are trademarks of Baxter International Inc.
