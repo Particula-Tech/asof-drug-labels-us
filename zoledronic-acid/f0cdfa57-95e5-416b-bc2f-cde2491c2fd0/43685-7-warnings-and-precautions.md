@@ -51,15 +51,30 @@ Discontinue use if severe symptoms develop.
 Most patients had relief of symptoms after stopping.
 A subset had recurrence of symptoms when rechallenged with the same drug or another bisphosphonate [see Adverse Reactions (6.2)].
 
-## 5.6 Patients with Asthma
+## 5.6 Atypical subtrochanteric and diaphyseal femoral fractures
+
+Atypical subtrochanteric and diaphyseal femoral fractures have been reported in patients receiving bisphosphonate therapy, including Zometa.
+These fractures can occur anywhere in the femoral shaft from just below the lesser trochanter to just above the supracondylar flare and are transverse or short oblique in orientation without evidence of comminution.
+These fractures occur after minimal or no trauma.
+Patients may experience thigh or groin pain weeks to months before presenting with a completed femoral fracture.
+Fractures are often bilateral; therefore the contralateral femur should be examined in bisphosphonate-treated patients who have sustained a femoral shaft fracture.
+Poor healing of these fractures has also been reported.
+A number of case reports noted that patients were also receiving treatment with glucocorticoids (such as prednisone or dexamethasone) at the time of fracture.
+Causality with bisphosphonate therapy has not been established.
+
+Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain in the absence of trauma should be suspected of having an atypical fracture and should be evaluated.
+Discontinuation of Zometa therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient, based on an individual benefit risk assessment.
+It is unknown whether the risk of atypical femur fracture continues after stopping therapy.
+
+## 5.7 Patients with Asthma
 
 While not observed in clinical trials with Zometa, there have been reports of bronchoconstriction in aspirin sensitive patients receiving bisphosphonates.
 
-## 5.7 Hepatic Impairment
+## 5.8 Hepatic Impairment
 
 Only limited clinical data are available for use of Zometa to treat hypercalcemia of malignancy in patients with hepatic insufficiency, and these data are not adequate to provide guidance on dosage selection or how to safely use Zometa in these patients.
 
-## 5.8 Use in Pregnancy
+## 5.9 Use in Pregnancy
 
 Bisphosphonates, such as Zometa, are incorporated into the bone matrix, from where they are gradually released over periods of weeks to years.
 There may be a risk of fetal harm (e.g., skeletal and other abnormalities) if a woman becomes pregnant after completing a course of bisphosphonate therapy.

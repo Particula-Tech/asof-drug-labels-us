@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precaution (5.8)]
+Pregnancy Category D [see Warnings and Precaution (5.9)]
 
 There are no adequate and well-controlled studies of Zometa in pregnant women.
 Zometa may cause fetal harm when administered to a pregnant woman.

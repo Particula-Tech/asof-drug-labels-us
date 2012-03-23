@@ -271,6 +271,10 @@ Musculoskeletal Pain
 
 Severe and occasionally incapacitating bone, joint, and/or muscle pain has been reported with bisphosphonate use [see Warnings And Precautions (5)].
 
+Atypical subtrochanteric and diaphyseal femoral fractures
+
+Atypical subtrochanteric and diaphyseal femoral fractures have been reported with bisphosphonate therapy, including Zometa [see Warnings and Precautions (5.6)].
+
 Ocular Adverse Events
 
 Cases of uveitis, scleritis, episcleritis, conjunctivitis, iritis, and orbital inflammation including orbital edema have been reported during postmarketing use.
