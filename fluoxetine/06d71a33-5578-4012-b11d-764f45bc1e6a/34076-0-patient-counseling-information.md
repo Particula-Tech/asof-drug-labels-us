@@ -76,8 +76,7 @@ Because fluoxetine is excreted in human milk, nursing while taking fluoxetine is
 Pediatric Use — Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Limited evidence is available concerning the longer-term effects of fluoxetine on the development and maturation of children and adolescent patients.
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine.
-Safety and effectiveness of fluoxetine and olanzapine in combination in patients less than 18 years of age have not been established.
-[see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
+Safety and effectiveness of fluoxetine and olanzapine in combination in patients less than 18 years of age have not been established [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
 
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly and Company.
 
@@ -87,4 +86,4 @@ Krakow, Poland
 Manufactured For: TEVA PHARMACEUTICALS USA Sellersville, PA 18960
 
 Rev.
-A 3/2010
+C 6/2011

@@ -6,7 +6,7 @@ When using fluoxetine and olanzapine in combination, also refer to the Adverse R
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect or predict the rates observed in practice.
 
-Multiple doses of fluoxetine had been administered to 10,782 patients with various diagnoses in U.S. clinical trials as of May 8, 1995.
+Multiple doses of fluoxetine have been administered to 10,782 patients with various diagnoses in U.S. clinical trials.
 In addition, there have been 425 patients administered fluoxetine in panic clinical trials.
 Adverse reactions were recorded by clinical investigators using descriptive terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse reactions without first grouping similar types of reactions into a limited (i.e., reduced) number of standardized reaction categories.
@@ -106,8 +106,7 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Dis
 Associated with discontinuation in Major Depressive Disorder, OCD, bulimia, and Panic Disorder placebo-controlled clinical trials (excluding data from extensions of trials) — Table 5 lists the adverse reactions associated with discontinuation of fluoxetine treatment (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary reaction associated with discontinuation) in Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-U.S.
 Panic Disorder clinical trials.
 
-Table 5: Most Common Adverse Reactions Associated With Discontinuation in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical TrialsIncludes U.S. data for Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-U.S.
-Panic Disorder clinical trials.
+Table 5: Most Common Adverse Reactions Associated With Discontinuation in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical TrialsIncludes U.S. data for Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-U.S. data for Panic Disorder clinical trials.
 
 | Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Combined (N = 1533) | Major Depressive Disorder (N = 392) | OCD (N = 266) | Bulimia (N = 450) | Panic Disorder (N = 425) |
 | --- | --- | --- | --- | --- |
@@ -132,6 +131,8 @@ There have been spontaneous reports in women taking fluoxetine of orgasmic dysfu
 
 There are no adequate and well-controlled studies examining sexual dysfunction with fluoxetine treatment.
 
+Symptoms of sexual dysfunction occasionally persist after discontinuation of fluoxetine treatment.
+
 Priapism has been reported with all SSRIs.
 
 While it is difficult to know the precise risk of sexual dysfunction associated with the use of SSRIs, physicians should routinely inquire about such possible side effects.
@@ -145,26 +146,33 @@ Reactions are classified by body system using the following definitions: frequen
 
 Body as a Whole — Frequent: chills; Infrequent: suicide attempt; Rare: acute abdominal syndrome, photosensitivity reaction.
 
-Cardiovascular System — Frequent: palpitation; Infrequent: arrhythmia.
+Cardiovascular System — Frequent: palpitation; Infrequent: arrhythmia, hypotension1.
 
 Digestive System — Infrequent: dysphagia, gastritis, gastroenteritis, melena, stomach ulcer; Rare: bloody diarrhea, duodenal ulcer, esophageal ulcer, gastrointestinal hemorrhage, hematemesis, hepatitis, peptic ulcer, stomach ulcer hemorrhage.
 
 Hemic and Lymphatic System — Infrequent: ecchymosis; Rare: petechia, purpura.
 
-Nervous System — Frequent: emotional lability; Infrequent: akathisia, ataxia, buccoglossal syndrome, euphoria, hypertonia, libido increased, myoclonus, paranoid reaction; Rare: delusions.
+Nervous System — Frequent: emotional lability; Infrequent: akathisia, ataxia, balance disorder1, bruxism1, buccoglossal syndrome, depersonalization, euphoria, hypertonia, libido increased, myoclonus, paranoid reaction; Rare: delusions.
 
 Respiratory System — Rare: larynx edema.
 
-Skin and Appendages — Rare: purpuric rash.
+Skin and Appendages — Infrequent: alopecia; Rare: purpuric rash.
 
 Special Senses — Frequent: taste perversion; Infrequent: mydriasis.
+
+Urogenital System — Frequent: micturition disorder; Infrequent: dysuria, gynecological bleeding2.
+
+1 MedDRA dictionary term from integrated database of placebo controlled trials of 15,870 patients, of which 9673 patients received fluoxetine.
+
+2 Group term that includes individual MedDRA terms: cervix hemorrhage uterine, dysfunctional uterine bleeding, genital hemorrhage, menometrorrhagia, menorrhagia, metrorrhagia, polymenorrhea, postmenopausal hemorrhage, uterine hemorrhage, vaginal hemorrhage.
+Adjusted for gender.
 
 ## 6.3 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of fluoxetine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
 
-Voluntary reports of adverse reactions temporally associated with fluoxetine that have been received since market introduction and that may have no causal relationship with the drug include the following: aplastic anemia, atrial fibrillation1, cataract, cerebrovascular accident1, cholestatic jaundice, dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77-year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia1, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, gynecomastia, heart arrest1, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, immune-related hemolytic anemia, kidney failure, movement disorders developing in patients with risk factors including drugs associated with such reactions and worsening of preexisting movement disorders, optic neuritis, pancreatitis1, pancytopenia, pulmonary embolism, pulmonary hypertension, QT prolongation, Stevens-Johnson syndrome, thrombocytopenia1, thrombocytopenic purpura, ventricular tachycardia (including torsade de pointes–type arrhythmias), and vaginal bleeding, and violent behaviors1.
+Voluntary reports of adverse reactions temporally associated with fluoxetine that have been received since market introduction and that may have no causal relationship with the drug include the following: aplastic anemia, atrial fibrillation1, cataract, cerebrovascular accident1, cholestatic jaundice, dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77-year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia1, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, gynecomastia, heart arrest1, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, immune-related hemolytic anemia, kidney failure, memory impairment, movement disorders developing in patients with risk factors including drugs associated with such reactions and worsening of preexisting movement disorders, optic neuritis, pancreatitis1, pancytopenia, pulmonary embolism, pulmonary hypertension, QT prolongation, Stevens-Johnson syndrome, thrombocytopenia1, thrombocytopenic purpura, ventricular tachycardia (including torsade de pointes–type arrhythmias), vaginal bleeding, and violent behaviors1.
 
 1 These terms represent serious adverse events, but do not meet the definition for adverse drug reactions.
 

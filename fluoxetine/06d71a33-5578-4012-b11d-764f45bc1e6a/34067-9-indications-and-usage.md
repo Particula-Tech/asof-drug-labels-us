@@ -26,7 +26,7 @@ Fluoxetine is indicated for the acute treatment of Panic Disorder, with or witho
 The effectiveness of fluoxetine in long-term use, i.e., for more than 12 weeks, has not been established in placebo-controlled trials.
 Therefore, the physician who elects to use fluoxetine for extended periods, should periodically re-evaluate the long-term usefulness of the drug for the individual patient [see Dosage and Administration (2.4)].
 
-## 1.5 Fluoxetine and Olanzapine in Combination: Depressive Episodes Associated with Bipolar I Disorder
+## 1.5 Fluoxetine and Olanzapine in Combination: Depressive Episodes Associated With Bipolar I Disorder
 
 When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
 

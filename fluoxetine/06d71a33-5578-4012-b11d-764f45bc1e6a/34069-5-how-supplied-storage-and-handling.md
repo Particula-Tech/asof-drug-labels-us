@@ -2,7 +2,9 @@
 
 ## 16.1 How Supplied
 
-Fluoxetine Capsules USP 10 mg are available as white, opaque capsules in bottles of 100, 500 and 1000, printed PLIVA 647 in green band on cap and body.
+Fluoxetine Capsules USP, 10 mg are available as white, opaque capsules in bottles of 100, 500 and 1000, printed PLIVA 647 in green band on cap and body.
+
+Fluoxetine Capsules USP, 20 mg are available as white, opaque capsules in bottles of 100, 500, 1000 and 2000, printed PLIVA 648 in green band on cap only.
 
 ## 16.2 Storage and Handling
 

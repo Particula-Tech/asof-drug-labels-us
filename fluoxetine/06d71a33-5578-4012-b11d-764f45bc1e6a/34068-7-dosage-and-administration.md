@@ -82,7 +82,7 @@ Fluoxetine doses above 60 mg/day have not been systematically evaluated in patie
 Maintenance/Continuation Treatment — While there are no systematic studies that answer the question of how long to continue fluoxetine, panic disorder is a chronic condition and it is reasonable to consider continuation for a responding patient.
 Nevertheless, patients should be periodically reassessed to determine the need for continued treatment.
 
-## 2.5 Fluoxetine and Olanzapine in Combination: Depressive Episodes Associated with Bipolar I Disorder
+## 2.5 Fluoxetine and Olanzapine in Combination: Depressive Episodes Associated With Bipolar I Disorder
 
 When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
 
@@ -97,7 +97,7 @@ Dosage adjustments, if indicated, should be made with the individual components 
 
 Table 1: Approximate Dose Correspondence Between Olanzapine and Fluoxetine Hydrochloride CapsulesOlanzapine and fluoxetine hydrochloride capsules are a fixed-dose combination of fluoxetine and olanzapine. and the Combination of Fluoxetine and Olanzapine
 
-| For Olanzapine and Fluoxetine Hydrochloride Capsules | Use in Combination |  |
+| For Olanzapine and Fluoxetine Hydrochloride Capsules(mg/day) | Use in Combination |  |
 | --- | --- | --- |
 | Olanzapine (mg/day) | Fluoxetine (mg/day) |  |
 | 3 mg olanzapine/25 mg fluoxetine | 2.5 | 20 |
@@ -119,7 +119,7 @@ Treatment of pregnant Women During the Third Trimester — When treating pregnan
 Neonates exposed to SNRIs or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 The physician may consider tapering fluoxetine in the third trimester [see Use in Specific Populations (8.1)].
 
-Geriatrics — A lower or less frequent dosage should be considered for the elderly [see Use in Specific Populations (8.5)]
+Geriatric — A lower or less frequent dosage should be considered for the elderly [see Use in Specific Populations (8.5)].
 
 Hepatic Impairment — As with many other medications, a lower or less frequent dosage should be used in patients with hepatic impairment [see Clinical Pharmacology (12.4) and Use in Specific Populations (8.6)].
 
