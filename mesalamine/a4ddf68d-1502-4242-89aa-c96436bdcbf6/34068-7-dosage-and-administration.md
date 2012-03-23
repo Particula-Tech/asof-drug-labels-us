@@ -4,7 +4,6 @@ The usual dosage of Mesalamine Rectal Suspension, USP in 60 mL units is one rect
 While the effect of Mesalamine Rectal Suspension, USP may be seen within three to twenty-one days, the usual course of therapy would be from three to six weeks depending on symptoms and sigmoidoscopic findings.
 Studies available to date have not assessed if Mesalamine Rectal Suspension, USP will modify relapse rates after the 6-week short-term treatment.
 Mesalamine Rectal Suspension, USP is for rectal use only.
-
 Patients should be instructed to shake the bottle well to make sure the suspension is homogeneous.
 The patient should remove the protective sheath from the applicator tip.
 Holding the bottle at the neck will not cause any of the medication to be discharged.

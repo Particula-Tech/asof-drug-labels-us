@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076751"
+  ],
   "inn": "mesalamine",
-  "labeler": "Perrigo Israel Pharmaceuticals Ltd.",
+  "labeler": "Perrigo New York Inc",
   "package_ndcs": [
     "45802-098-28",
     "45802-098-51"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "ENEMA",
+      "generic": "mesalamine",
+      "name": "Mesalamine"
+    }
+  ],
   "setid": "a4ddf68d-1502-4242-89aa-c96436bdcbf6",
   "source": "dailymed"
 }
