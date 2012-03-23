@@ -12,10 +12,11 @@
    2006;63:1172-1193.
 4. Polovich M, White JM, Kelleher LO, eds.
    2005.
-   Chemotherapy and biotherapy guidelines and recommendations for practice (2nd ed.)
+   Chemotherapy and biotherapy guidelines and recommendations for practice.
+   2nd ed.
    Pittsburgh, PA: Oncology Nursing Society.
 
 TEVA PHARMACEUTICALS USA Sellersville, PA 18960
 
-Iss.
-8/2011
+Rev.
+A 2/2012

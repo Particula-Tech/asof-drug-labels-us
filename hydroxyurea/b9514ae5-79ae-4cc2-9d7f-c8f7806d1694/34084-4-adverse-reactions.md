@@ -15,7 +15,7 @@ Fever, chills, malaise, edema, asthenia, and elevation of hepatic enzymes have a
 Adverse reactions observed with combined hydroxyurea and irradiation therapy are similar to those reported with the use of hydroxyurea or radiation treatment alone.
 These effects primarily include bone marrow depression (anemia and leukopenia), gastric irritation, and mucositis.
 Almost all patients receiving an adequate course of combined hydroxyurea and irradiation therapy will demonstrate concurrent leukopenia.
-Platelet depression (<100,000 cells/mm3) has occurred in the presence of marked leukopenia.
+Platelet depression (< 100,000 cells/mm3) has occurred in the presence of marked leukopenia.
 Hydroxyurea capsules may potentiate some adverse reactions usually seen with irradiation alone, such as gastric distress and mucositis.
 
 The association of hydroxyurea with the development of acute pulmonary reactions consisting of diffuse pulmonary infiltrates, fever, and dyspnea has been reported.

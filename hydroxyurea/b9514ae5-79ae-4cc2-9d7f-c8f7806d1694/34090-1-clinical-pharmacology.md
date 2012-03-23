@@ -52,9 +52,9 @@ No pharmacokinetic data are available in pediatric patients treated with hydroxy
 
 As renal excretion is a pathway of elimination, consideration should be given to decreasing the dosage of hydroxyurea in patients with renal impairment.
 In adult patients with sickle cell disease, an open-label, non-randomized, single-dose, multicenter study was conducted to assess the influence of renal function on the pharmacokinetics of hydroxyurea.
-Patients in the study with normal renal function (creatinine clearance (CrCl) > 80 mL/min), mild (CrCl 50 to 80 mL/min), moderate (CrCl = 30 to < 50 mL/min), or severe (< 30 mL/min) renal impairment received hydroxyurea as a single oral dose of 15 mg/kg, achieved by using combinations of the 200 mg, 300 mg, or 400 mg capsules.
+Patients in the study with normal renal function (creatinine clearance [CrCl] > 80 mL/min), mild (CrCl 50 to 80 mL/min), moderate (CrCl = 30 to < 50 mL/min), or severe (< 30 mL/min) renal impairment received hydroxyurea as a single oral dose of 15 mg/kg, achieved by using combinations of the 200 mg, 300 mg, or 400 mg capsules.
 Patients with end-stage renal disease (ESRD) received two doses of 15 mg/kg separated by 7 days, the first was given following a 4 hour hemodialysis session, the second prior to hemodialysis.
-In this study the mean exposure (AUC) in patients whose creatinine clearance was < 60 mL/min (or ESRD) was approximately 64% higher than in patients with normal renal function.
+In this study, the mean exposure (AUC) in patients whose creatinine clearance was < 60 mL/min (or ESRD) was approximately 64% higher than in patients with normal renal function.
 The results suggest that the initial dose of hydroxyurea should be reduced when used to treat patients with renal impairment (see PRECAUTIONS and DOSAGE ANDADMINISTRATION).
 Close monitoring of hematologic parameters is advised in these patients.
 

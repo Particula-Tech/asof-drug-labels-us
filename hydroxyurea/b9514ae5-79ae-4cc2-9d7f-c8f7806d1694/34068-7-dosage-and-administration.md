@@ -14,6 +14,8 @@ Because of the rarity of melanoma, resistant chronic myelocytic leukemia, carcin
 All dosage should be based on the patient’s actual or ideal weight, whichever is less.
 Concurrent use of hydroxyurea capsules with other myelosuppressive agents may require adjustment of dosages.
 
+Since hydroxyurea may raise the serum uric acid level, dosage adjustment of uricosuric medication may be necessary.
+
 ## Solid Tumors
 
 ### Intermittent Therapy
@@ -26,7 +28,9 @@ Concurrent use of hydroxyurea capsules with other myelosuppressive agents may re
 
 ### Concomitant Therapy with Irradiation
 
-Carcinoma of the head and neck - 80 mg/kg administered orally as a single dose every third day
+#### Carcinoma of the head and neck
+
+80 mg/kg administered orally as a single dose every third day
 
 Administration of hydroxyurea should begin at least seven days before initiation of irradiation and continued during radiotherapy as well as indefinitely afterwards provided that the patient may be kept under adequate observation and evidences no unusual or severe reactions.
 
@@ -40,7 +44,6 @@ Therapy should be interrupted if the white blood cell count drops below 2500/mm3
 In these cases, the counts should be reevaluated after three days, and therapy resumed when the counts return to acceptable levels.
 Since the hematopoietic rebound is prompt, it is usually necessary to omit only a few doses.
 If prompt rebound has not occurred during combined hydroxyurea capsules and irradiation therapy, irradiation may also be interrupted.
-
 However, the need for postponement of irradiation has been rare; radiotherapy has usually been continued using the recommended dosage and technique.
 Severe anemia, if it occurs, should be corrected without interrupting hydroxyurea therapy.
 Because hematopoiesis may be compromised by extensive irradiation or by other antineoplastic agents, it is recommended that hydroxyurea be administered cautiously to patients who have recently received extensive radiation therapy or chemotherapy with other cytotoxic drugs.
@@ -53,7 +56,7 @@ Severe gastric distress, such as nausea, vomiting, and anorexia, resulting from 
 
 ## Renal Insufficiency
 
-As renal excretion is a pathway of elimination, consideration should be given to decreasing the dosage of hydroxyurea in patients with renal impairment (see PRECAUTIONS and CLINICAL PHARMACOLOGY).
+As renal excretion is a pathway of elimination, consideration should be given to decreasing the dosage of hydroxyurea capsules in patients with renal impairment (see PRECAUTIONS and CLINICAL PHARMACOLOGY).
 Close monitoring of hematologic parameters is advised in these patients.
 
 ## Hepatic Insufficiency
