@@ -56,7 +56,7 @@ While pharmacokinetic studies have not been performed in special populations wit
 
 Changes in the absorption, distribution, metabolism, and excretion of benzodiazepines have been reported in a variety of disease states including alcoholism, impaired hepatic function, and impaired renal function.
 Changes have also been demonstrated in geriatric patients.
-A mean half-life of alprazolam of 16.3 hours has been observed in healthy elderly subjects (range: 9.0–26.9 hours, n=16) compared to 11.0 hours (range: 6.3-15.8 hours, n=16) in healthy adult subjects.
+A mean half-life of alprazolam of 16.3 hours has been observed in healthy elderly subjects (range: 9.0–26.9 hours, n=16) compared to 11.0 hours (range: 6.3–15.8 hours, n=16) in healthy adult subjects.
 In patients with alcoholic liver disease the half-life of alprazolam ranged between 5.8 and 65.3 hours (mean: 19.7 hours, n=17) as compared to between 6.3 and 26.9 hours (mean=11.4 hours, n=17) in healthy subjects.
 In an obese group of subjects the half-life of alprazolam ranged between 9.9 and 40.4 hours (mean=21.8 hours, n=12) as compared to between 6.3 and 15.8 hours (mean=10.6 hours, n=12) in healthy subjects.
 
