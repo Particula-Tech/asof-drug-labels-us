@@ -27,8 +27,9 @@ Contact lenses should be removed prior to instillation of LUMIGAN® and may be r
 
 ## 17.6 Use with Other Ophthalmic Drugs
 
-If more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes between applications.
+Patients should be advised that if more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes between applications.
 
-© 2010 Allergan, Inc. Irvine, CA 92612 ® marks owned by Allergan, Inc. U.S. Patents 5,688,819 and 6,403,649
+© 2012 Allergan, Inc. Irvine, CA 92612 ® marks owned by Allergan, Inc. Patented.
+See: www.allergan.com/products/patent_notices Made in the U.S.A.
 
-71807US12B
+71807US13
