@@ -114,9 +114,9 @@ How should I use Daytrana?
 - Contact with water while bathing, swimming, or showering can make the patch not stick well or make it fall off.
   If your patch falls off, do not touch the sticky side of the patch with your fingers.
   You may apply a new patch to a different area on the same hip.
-  If you have to replace a patch that has fallen off, the total wear time for the first and second patch should not be more then a total of 9 hours in 1 day.
+  If you have to replace a patch that has fallen off, the total wear time for the first and second patch should not be more than a total of 9 hours in 1 day.
   Do not reapply the same patch that fell off.
-- If you wear Daytrana longer then 9 hours, or if you wear more than 1 patch at a time, you have used too much Daytrana.
+- If you wear Daytrana longer than 9 hours, or if you wear more than 1 patch at a time, you have used too much Daytrana.
   Remove all Daytrana patches and wash the application sites right away.
   Call your local poison control center or go to the nearest hospital emergency room right away if you have:
 
