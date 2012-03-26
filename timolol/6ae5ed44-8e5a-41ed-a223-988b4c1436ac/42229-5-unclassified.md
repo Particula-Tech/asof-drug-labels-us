@@ -12,7 +12,7 @@ Use dorzolamide hydrochloride-timolol maleate ophthalmic solution as prescribed 
    Do not pull the cap directly up and away from the bottle.
    Pulling the cap directly up will prevent your dispenser from operating properly.
 6. Tilt your head back and pull your lower eyelid down slightly to form a pocket between your eyelid and your eye.
-7. Invert the bottle, and press lightly with the thumb or index finger over the “Finger Push Area” (as shown) until a single drop is dispensed into the eye as directed by your doctor.
+7. Invert the bottle, and press lightly with the thumb or index finger over the "Finger Push Area" (as shown) until a single drop is dispensed into the eye as directed by your doctor.
    DO NOT TOUCH YOUR EYE OR EYELID WITH THE DROPPER TIP.
    OPHTHALMIC MEDICATIONS, IF HANDLED IMPROPERLY, CAN BECOME CONTAMINATED BY COMMON BACTERIA KNOWN TO CAUSE EYE INFECTIONS.
    SERIOUS DAMAGE TO THE EYE AND SUBSEQUENT LOSS OF VISION MAY RESULT FROM USING CONTAMINATED OPHTHALMIC MEDICATIONS.
@@ -25,21 +25,32 @@ Use dorzolamide hydrochloride-timolol maleate ophthalmic solution as prescribed 
 11. The dispenser tip is designed to provide a single drop; therefore, do NOT enlarge the hole of the dispenser tip.
 12. After you have used all doses, there will be some dorzolamide hydrochloride-timolol maleate ophthalmic solution left in the bottle.
     You should not be concerned since an extra amount of dorzolamide hydrochloride-timolol maleate ophthalmic solution has been added and you will get the full amount of dorzolamide hydrochloride-timolol maleate ophthalmic solution that your doctor prescribed.
-    Do not attempt to remove excess medicine from the bottle.
+    Do not attempt to remove the excess medicine from the bottle.
 
 WARNING: Keep out of reach of children.
 
 If you have any questions about the use of dorzolamide hydrochloride-timolol maleate ophthalmic solution, please consult your doctor.
 
-Mfd. for: Prasco Laboratories Mason, OH 45040 USA
+Manuf. for: Prasco Laboratories Mason, OH 45040 USA
 
-Mfd.
-By: Laboratories Merck Sharp & Dohme-Chibret 63963 Clermont-Ferrand Cedex 9, France
+Manuf. by: Laboratoires Merck Sharp & Dohme-Chibret Clermont Ferrand Cedex 9, 63963, France
+
+Issued August 2011
+
+516361Z/250711-1/3897
 
 Copyright © 1998, 2004, 2005, 2006 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
 
-Issued December 2009
+9775404
 
-9775403
+Manuf. for: Prasco Laboratories Mason, OH 45040 USA
 
-220A-12/09 516150Z
+Manuf. by: Laboratoires Merck Sharp & Dohme-Chibret Clermont Ferrand Cedex 9, 63963, France
+
+Issued August 2011
+
+516361Z/250711-1/3897
+
+Copyright © 2005, 2006 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+
+9775404
