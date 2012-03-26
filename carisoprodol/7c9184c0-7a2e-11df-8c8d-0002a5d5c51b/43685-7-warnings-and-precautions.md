@@ -15,7 +15,7 @@ However, there have been post-marketing adverse event reports of Carisoprodol-as
 Withdrawal symptoms have been reported following abrupt cessation after prolonged use.
 To reduce the chance of Carisoprodol dependence, withdrawal, or abuse, Carisoprodol should be used with caution in addiction-prone patients and in patients taking other CNS depressants including alcohol, and Carisoprodol should not be used more than two to three weeks for the relief of acute musculoskeletal discomfort.
 
-Carisoprodol, and one of its metabolites, meprobamate (a controlled substance), may cause dependence [see Clinical Pharmacology (12.3)].
+Carisoprodol, and one of its metabolites, meprobamate (both controlled substances), may cause dependence [see Clinical Pharmacology (12.3)].
 
 ## 5.3 Seizures
 

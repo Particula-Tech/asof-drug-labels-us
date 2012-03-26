@@ -1,6 +1,6 @@
 # 9 DRUG ABUSE AND DEPENDENCE
 
-Carisoprodol is not a controlled substance [see Warnings and Precautions (5.2)].
+Carisoprodol is a controlled substance [see Warnings and Precautions (5.2)].
 
 Discontinuation of carisoprodol in animals or in humans after chronic administration can produce withdrawal signs, and there are published case reports of human carisoprodol dependence.
 

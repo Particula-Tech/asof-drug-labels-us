@@ -11,5 +11,5 @@ Concomitant use of Carisoprodol and meprobamate, a metabolite of Carisoprodol, i
 Carisoprodol is metabolized in the liver by CYP2C19 to form meprobamate [see Clinical Pharmacology (12.3)].
 Co-administration of CYP2C19 inhibitors, such as omeprazole or fluvoxamine, with Carisoprodol could result in increased exposure of carisoprodol and decreased exposure of meprobamate.
 Co-administration of CYP2C19 inducers, such as rifampin or St. John’s Wort, with Carisoprodol could result in decreased exposure of carisoprodol and increased exposure of meprobamate.
-Low dose aspirin also showed an induction effect on CYP2C19.
+Low dose aspirin also showed induction effect on CYP2C19.
 The full pharmacological impact of these potential alterations of exposures in terms of either efficacy or safety of Carisoprodol is unknown.

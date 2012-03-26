@@ -21,5 +21,7 @@ To report SUSPECTED ADVERSE REACTIONS, contact Wallace Pharmaceuticals Inc. at 1
 
 Manufactured by: Meda Pharmaceuticals Inc. Decatur, IL 62525 For: Wallace Pharmaceuticals Inc. Somerset, NJ 08873-4120
 
-IN-5901-01 Rev.
-5/10
+WALLACE PHARMACEUTICALS™
+
+IN-5901-04 Rev.
+1/12
