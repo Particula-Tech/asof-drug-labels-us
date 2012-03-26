@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA078986"
+  ],
+  "inn": "carbamazepine",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-2805-0",
+    "60505-2805-3",
+    "60505-2805-7",
+    "60505-2805-8",
+    "60505-2806-0",
+    "60505-2806-3",
+    "60505-2806-7",
+    "60505-2806-8",
+    "60505-2807-0",
+    "60505-2807-3",
+    "60505-2807-5",
+    "60505-2807-7"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "carbamazepine",
+      "name": "Carbamazepine"
+    }
+  ],
+  "setid": "e91f9de3-3fdd-0a6b-71ce-53a2cc142816",
+  "source": "dailymed"
+}
