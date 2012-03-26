@@ -66,13 +66,13 @@ __________________________________________________________________________
    - every month during treatment
    - at the end of treatment
    - and 1 month after stopping treatment
-10. I have read and understand the materials my doctor has given to me, including The iPLEDGEProgramGuide for Isotretinoin for Female Patients Who Can Get Pregnant, TheiPLEDGEBirth Control Workbook and The iPLEDGE Program Patient Introductory BrochureMy doctor gave me and asked me to watch the DVD containing a video about birth control and a video about birth defects and isotretinoin.I was told about a private counseling line that I may call for more information about birth control.
+10. I have read and understand the materials my doctor has given to me, including The iPLEDGE Program Guide for Isotretinoin for Female Patients Who Can Get Pregnant, The iPLEDGE Birth Control Workbook and The iPLEDGE Program Patient Introductory BrochureMy doctor gave me and asked me to watch the DVD containing a video about birth control and a video about birth defects and isotretinoin.I was told about a private counseling line that I may call for more information about birth control.
     I have received information on emergency birth control.
     Initial: ______
 11. I must stop taking isotretinoin right away and call my doctor if I get pregnant, miss my expected menstrual period, stop using birth control or have sexual intercourse without using my two birth control methods at any time.
     Initial: ______
 12. My doctor gave me information about the purpose and importance of providing information to the iPLEDGE program should I become pregnant while taking isotretinoin or within one month of the last dose.
-    I also understand that if I become pregnant, information about my pregnancy, my health, and my baby’s health may be shared with the maker of isotretinoin and their authorized parties who maintain the iPLEDGE program and government regulatory authorities.Initial: ______
+    I understand that if I become pregnant, information about my pregnancy, my health, and my baby’s health may be shared with the makers of isotretinoin, authorized parties who maintain the iPLEDGE program for the makers of isotretinoin and government health regulatory authorities.Initial: ______
 13. I understand that being qualified to receive isotretinoin in the iPLEDGE program means that I: Initial: ______
     - have had two negative urine or blood pregnancy tests before receiving the first isotretinoin prescription.
       The second test must be done in a lab.
@@ -82,7 +82,6 @@ __________________________________________________________________________
       I must use two forms of birth control for at least one month before I start isotretinoin therapy, during therapy and for one month after stopping therapy.
       I must receive counseling, repeated on a monthly basis, about birth control and behaviors associated with an increased risk of pregnancy.
     - have signed a Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) that contains warnings about the chance of possible birth defects if I am pregnant or become pregnant and my unborn baby is exposed to isotretinoin.
-    - have been informed of and understand the purpose and importance of providing information to the iPLEDGE program should I become pregnant while taking isotretinoin or within one month of the last dose.
     - have interacted with the iPLEDGE program before starting isotretinoin and on a monthly basis to answer questions on the program requirements and to enter my two chosen forms of birth control.
 
 My doctor has answered all my questions about isotretinoin and I understand that it is my responsibility not to get pregnant one month before, during isotretinoin treatment, or for one month after I stop taking isotretinoin.
@@ -162,7 +161,7 @@ Do not sign this agreement and do not take isotretinoin if there is anything tha
 9. Isotretinoin will be prescribed just for me — I will not share isotretinoin with other people because it may cause serious side effects, including birth defects.Initials: ______
 10. I will not give blood while taking isotretinoin or for one month after I stop taking isotretinoin.
     I understand that if someone who is pregnant gets my donated blood, her baby may be exposed to isotretinoin and may be born with serious birth defects.Initials: ______
-11. I have read The iPLEDGEProgram Patient Introductory Brochure, and other materials my provider gave me containing important safety information about isotretinoin.
+11. I have read The iPLEDGE Program Patient Introductory Brochure, and other materials my provider gave me containing important safety information about isotretinoin.
     I understand all the information I received.Initials: ______
 12. My doctor and I have decided I should take isotretinoin.
     I understand that I must be qualified in the iPLEDGE program to have my prescription filled each month.
@@ -182,7 +181,7 @@ Patient Address ________________________________ Telephone (_____._____._____)
 I have:
 
 - fully explained to the patient, _____________________________________, the nature and purpose of isotretinoin treatment, including its benefits and risks
-- given the patient the appropriate educational materials, The iPLEDGE ProgramPatient Introductory Brochure and asked the patient if he/she has any questions regarding his/her treatment with isotretinoin
+- given the patient the appropriate educational materials, The iPLEDGE Program Patient Introductory Brochure and asked the patient if he/she has any questions regarding his/her treatment with isotretinoin
 - answered those questions to the best of my ability
 
 Doctor Signature: ________________________________________ Date: _____________

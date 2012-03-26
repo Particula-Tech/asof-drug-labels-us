@@ -155,7 +155,7 @@ Prescribers can only activate their registration by affirming that they meet req
 - I know the risk and severity of fetal injury/birth defects from isotretinoin.
 - I know the risk factors for unplanned pregnancy and the effective measures for avoidance of unplanned pregnancy.
 - I have the expertise to provide the patient with detailed pregnancy prevention counseling or I will refer her to an expert for such counseling, reimbursed by the manufacturer.
-- I will comply with the iPLEDGE program requirements described in the booklets entitled The Guide to Best Practices for the iPLEDGE Program and The iPLEDGEProgram Prescriber Contraception Counseling Guide.
+- I will comply with the iPLEDGE program requirements described in the booklets entitled The Guide to Best Practices for the iPLEDGE Program and The iPLEDGE Program Prescriber Contraception Counseling Guide.
 - Before beginning treatment of female patients of child bearing potential with isotretinoin and on a monthly basis, the patient will be counseled to avoid pregnancy by using two forms of contraception simultaneously and continuously one month before, during and one month after isotretinoin therapy, unless the patient commits to continuous abstinence.
 - I will not prescribe isotretinoin to any female patient of childbearing potential until verifying she has a negative screening pregnancy test and monthly negative CLIA-certified (Clinical Laboratory Improvement Amendment) pregnancy tests.
   Patients should have a pregnancy test at the completion of the entire course of isotretinoin capsules and another pregnancy test one month later.
@@ -167,6 +167,7 @@ To prescribe isotretinoin, the Prescriber must access the iPLEDGE system via the
 2. Confirm monthly that each patient has received counseling and education.
 3. For female patients of childbearing potential:
    - Enter patient’s two chosen forms of contraception each month.
+   - Enter monthly result from CLIA-certified laboratory conducted pregnancy test.
 
 Isotretinoin must only be prescribed to female patients who are known not to be pregnant as confirmed by a negative CLIA-certified laboratory conducted pregnancy test.
 
@@ -180,6 +181,7 @@ Meeting the requirements for a female patient of childbearing potential signifie
   The second pregnancy test (a confirmation test) must be done in a CLIA-certified laboratory.
   The interval between the two tests should be at least 19 days.
   - For patients with regular menstrual cycles, the second pregnancy test should be done during the first 5 days of the menstrual period immediately preceding the beginning of isotretinoin therapy and after the patient has used two forms of contraception for one month.
+  - For patients with amenorrhea, irregular cycles or using a contraceptive method that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of isotretinoin therapy and after the patient has used two forms of contraception for one month.
 - Has had a negative result from a urine or serum pregnancy test in a CLIA-certified laboratory before receiving each subsequent course of isotretinoin.
   A pregnancy test must be repeated every month, in a CLIA-certified laboratory, prior to the female patient receiving each prescription.
 - Has selected and has committed to use two forms of effective contraception simultaneously, at least one of which must be a primary form, unless the patient commits to continuous abstinence from heterosexual contact, or the patient has undergone a hysterectomy or bilateral oophorectomy, or has been medically confirmed to be post-menopausal.

@@ -13,7 +13,7 @@ They are available as follows:
 NDC 0378-6612-93 Cartons of 30 containing 3 Prescription Packs of 10 capsules
 
 The 40 mg capsules are orange-brown and imprinted with I40.
-They are as follows:
+They are available as follows:
 
 NDC 0378-6614-93 Cartons of 30 containing 3 Prescription Packs of 10 capsules
 

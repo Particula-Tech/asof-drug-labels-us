@@ -273,6 +273,6 @@ Manufactured by: Catalent Pharma Solutions 74 rue Principale 67930 Beinheim Fran
 
 Packaged by: Catalent Pharma Solutions Philadelphia, PA 19114 U.S.A.
 
-Distributed by: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-FEBRUARY 2010 ISOT:R1/MG:ISOT:R1
+REVISED MARCH 2012 ISOT:R2/MG:ISOT:R1
