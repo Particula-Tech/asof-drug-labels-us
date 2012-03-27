@@ -23,6 +23,10 @@ In subsequent doses, when administered twice weekly, the mean maximum observed p
 The mean elimination half-life of bortezomib upon multiple dosing ranged from 40 to 193 hours after the 1 mg/m2 dose and 76 to 108 hours after the 1.3mg/m2 dose.
 The mean total body clearances was 102 and 112 L/h following the first dose for doses of 1 mg/m2 and 1.3 mg/m2, respectively, and ranged from 15 to 32 L/h following subsequent doses for doses of 1 and 1.3 mg/m2, respectively.
 
+Following an intravenous bolus or subcutaneous injection of a 1.3 mg/m2 dose to patients (n = 14 for intravenous, n = 17 for subcutaneous) with multiple myeloma, the total systemic exposure after repeat dose administration (AUClast) was equivalent for subcutaneous and intravenous administration.
+The Cmax after subcutaneous administration (20.4 ng/mL) was lower than intravenous (223 ng/mL).
+The AUClast geometric mean ratio was 0.99 and 90% confidence intervals were 80.18% - 122.80%.
+
 Distribution: The mean distribution volume of bortezomib ranged from approximately 498 to 1884 L/m2 following single- or repeat-dose administration of 1 mg/m2 or 1.3mg/m2 to patients with multiple myeloma.
 This suggests bortezomib distributes widely to peripheral tissues.
 The binding of bortezomib to human plasma proteins averaged 83% over the concentration range of 100 to 1000 ng/mL.

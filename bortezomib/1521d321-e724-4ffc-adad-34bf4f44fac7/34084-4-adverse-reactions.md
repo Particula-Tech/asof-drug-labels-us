@@ -18,11 +18,11 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Summary of Clinical Trial in Patients with Previously Untreated Multiple Myeloma:
 
-Table 6 describes safety data from 340 patients with previously untreated multiple myeloma who received VELCADE (1.3 mg/m2) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) in a prospective randomized study.
+Table 7 describes safety data from 340 patients with previously untreated multiple myeloma who received VELCADE (1.3 mg/m2) administered intravenously in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) in a prospective randomized study.
 
 The safety profile of VELCADE in combination with melphalan/prednisone is consistent with the known safety profiles of both VELCADE and melphalan/prednisone.
 
-Table 6: Most Commonly Reported Adverse Events (≥ 10% in VELCADE, Melphalan and Prednisone arm) with Grades 3 and ≥ 4 Intensity in the Previously Untreated Multiple Myeloma Study
+Table 7: Most Commonly Reported Adverse Events (≥ 10% in VELCADE, Melphalan and Prednisone arm) with Grades 3 and ≥ 4 Intensity in the Previously Untreated Multiple Myeloma Study
 
 | Preferred Term | n (%) | 3 | ≥ 4 | n (%) | 3 | ≥ 4 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -79,9 +79,9 @@ Table 6: Most Commonly Reported Adverse Events (≥ 10% in VELCADE, Melphalan an
 | Hypertension | 45 (13) | 8 (2) | 1 (<1) | 25 (7) | 2 (1) | 0 |
 | Hypotension | 41 (12) | 4 (1) | 3 (1) | 10 (3) | 2 (1) | 2 (1) |
 
-Relapsed Multiple Myeloma Randomized Study
+Relapsed Multiple Myeloma Randomized Study of VELCADE vs. Dexamethasone
 
-The safety data described below and in Table 7 reflect exposure to either VELCADE (n=331) or dexamethasone (n=332) in a study of patients with multiple myeloma.
+The safety data described below and in Table 8 reflect exposure to either VELCADE (n=331) or dexamethasone (n=332) in a study of patients with relapsed multiple myeloma.
 VELCADE was administered intravenously at doses of 1.3 mg/m2 twice weekly for 2 out of 3 weeks (21 day cycle).
 After eight 21-day cycles patients continued therapy for three 35-day cycles on a weekly schedule.
 Duration of treatment was up to 11 cycles (9 months) with a median duration of 6 cycles (4.1 months).
@@ -97,7 +97,7 @@ The most commonly reported adverse events reported among the 332 patients in the
 Fourteen percent (14%) of patients in the VELCADE treated arm experienced a Grade 4 adverse event; the most common toxicities were thrombocytopenia (4%), neutropenia (2%) and hypercalcemia (2%).
 Sixteen percent (16%) of dexamethasone treated patients experienced a Grade 4 adverse event; the most common toxicity was hyperglycemia (2%).
 
-Serious Adverse Events (SAEs) and Events Leading to Treatment Discontinuation in the Relapsed Multiple Myeloma Study
+Serious Adverse Events (SAEs) and Events Leading to Treatment Discontinuation in the Relapsed Multiple Myeloma Study of VELCADE vs. Dexamethasone
 
 Serious adverse events are defined as any event, regardless of causality, that results in death, is life-threatening, requires hospitalization or prolongs a current hospitalization, results in a significant disability, or is deemed to be an important medical event.
 A total of 144 (44%) patients from the VELCADE treatment arm experienced an SAE during the study, as did 144 (43%) dexamethasone-treated patients.
@@ -111,12 +111,12 @@ Among the 332 patients in the dexamethasone group, the most commonly reported dr
 Four deaths were considered to be VELCADE related in this relapsed multiple myeloma study: 1 case each of cardiogenic shock, respiratory insufficiency, congestive heart failure and cardiac arrest.
 Four deaths were considered dexamethasone-related: 2 cases of sepsis, 1 case of bacterial meningitis, and 1 case of sudden death at home.
 
-Most Commonly Reported Adverse Events in the Relapsed Multiple Myeloma Study
+Most Commonly Reported Adverse Events in the Relapsed Multiple Myeloma Study of VELCADE vs. Dexamethasone
 
-The most common adverse events from the relapsed multiple myeloma study are shown in Table 7.
+The most common adverse events from the relapsed multiple myeloma study are shown in Table 8.
 All adverse events with incidence ≥ 10% in the VELCADE arm are included.
 
-Table 7: Most Commonly Reported Adverse Events (≥ 10% in VELCADE arm), with Grades 3 and 4 Intensity in the Relapsed Multiple Myeloma Study (N=663)
+Table 8: Most Commonly Reported Adverse Events (≥ 10% in VELCADE arm), with Grades 3 and 4 Intensity in the Relapsed Multiple Myeloma Study of VELCADE vs. Dexamethasone (N=663)
 
 |  | All Events | Grade 3 Events | Grade 4 Events | All Events | Grade 3 Events | Grade 4 Events |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -161,10 +161,85 @@ In the phase 2 extension study of 63 patients, no new cumulative or new long-ter
 These patients were treated for a total of 5.3 to 23 months, including time on VELCADE in the prior VELCADE study.
 [see Clinical Studies (14)]
 
+Safety Experience from the Phase 3 Open-Label Study of VELCADE Subcutaneous vs. Intravenous in Relapsed Multiple Myeloma
+
+The safety and efficacy of VELCADE administered subcutaneously were evaluated in one Phase 3 study at the recommended dose of 1.3 mg/m2.
+This was a randomized, comparative study of VELCADE subcutaneous vs. intravenous in 222 patients with relapsed multiple myeloma.
+The safety data described below and in Table 9 reflect exposure to either VELCADE subcutaneous (n=147) or VELCADE intravenous (n=74) [see Clinical Studies (14.1)]
+
+Table 9: Most Commonly Reported Adverse Events (≥ 10%), with Grade 3 and ≥ 4 Intensity in the Relapsed Multiple Myeloma Study (N=221) of VELCADE Subcutaneous vs. Intravenous
+
+| MedDRA Preferred Term | n (%) | 3 | ≥ 4 | n (%) | 3 | ≥ 4 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Subcutaneous (N=147)Safety population: 147 patients in the subcutaneous treatment and 74 patients in the intravenous treatment who received at least 1 dose of study medication |  |  | Intravenous (N=74) |  |  |
+| MedDRA System Organ Class | Total | Toxicity Grade, n (%) |  | Total | Toxicity Grade, n (%) |  |
+| Blood and lymphatic system disorders |  |  |  |  |  |  |
+| Anaemia | 53 (36) | 14 (10) | 4 (3) | 26 (35) | 6 (8) | 0 |
+| Leukopenia | 29 (20) | 9 (6) | 0 | 16 (22) | 4 (5) | 1 (1) |
+| Neutropenia | 42 (29) | 22 (15) | 4 (3) | 20 (27) | 10 (14) | 3 (4) |
+| Thrombocytopenia | 52 (35) | 12 (8) | 7 (5) | 27 (36) | 8 (11) | 6 (8) |
+| Gastrointestinal disorders |  |  |  |  |  |  |
+| Abdominal pain | 5 (3) | 1 (1) | 0 | 8 (11) | 0 | 0 |
+| Abdominal pain upper | 3 (2) | 0 | 0 | 8 (11) | 0 | 0 |
+| Constipation | 21 (14) | 1 (1) | 0 | 11 (15) | 1 (1) | 0 |
+| Diarrhea | 35 (24) | 2 (1) | 1 (1) | 27 (36) | 3 (4) | 1 (1) |
+| Nausea | 27 (18) | 0 | 0 | 14 (19) | 0 | 0 |
+| Vomiting | 17 (12) | 3 (2) | 0 | 12 (16) | 0 | 1 (1) |
+| General disorders and administration site conditions |  |  |  |  |  |  |
+| Asthenia | 23 (16) | 3 (2) | 0 | 14 (19) | 4 (5) | 0 |
+| Fatigue | 17 (12) | 3 (2) | 0 | 15 (20) | 3 (4) | 0 |
+| Pyrexia | 28 (19) | 0 | 0 | 12 (16) | 0 | 0 |
+| Infections and infestations |  |  |  |  |  |  |
+| Herpes zoster | 16 (11) | 2 (1) | 0 | 7 (9) | 1 (1) | 0 |
+| Investigations |  |  |  |  |  |  |
+| Weight decreased | 22 (15) | 0 | 0 | 2 (3) | 1 (1) | 0 |
+| Metabolism and nutrition disorders |  |  |  |  |  |  |
+| Decreased appetite | 14 (10) | 0 | 0 | 7 (9) | 0 | 0 |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |  |  |
+| Back pain | 21 (14) | 1 (1) | 0 | 8 (11) | 1 (1) | 1 (1) |
+| Pain in extremity | 8 (5) | 1 (1) | 0 | 8 (11) | 2 (3) | 0 |
+| Nervous system disorders |  |  |  |  |  |  |
+| Headache | 5 (3) | 0 | 0 | 8 (11) | 0 | 0 |
+| Neuralgia | 35 (24) | 5 (3) | 0 | 17 (23) | 7 (9) | 0 |
+| Peripheral neuropathies NECRepresents MedDRA high level term | 56 (38) | 8 (5) | 1 (1) | 39 (53) | 11 (15) | 1 (1) |
+| Psychiatric disorders |  |  |  |  |  |  |
+| Insomnia | 18 (12) | 0 | 0 | 8 (11) | 0 | 0 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |
+| Dyspnoea | 11 (7) | 2 (1) | 0 | 9 (12) | 2 (3) | 0 |
+| Vascular disorders |  |  |  |  |  |  |
+| Hypertension | 14 (10) | 3 (2) | 0 | 3 (4) | 0 | 0 |
+
+In general, safety data were similar for the subcutaneous and intravenous treatment groups.
+Differences were observed in the rates of some Grade ≥ 3 adverse events.
+Differences of ≥ 5% were reported in neuralgia (3% subcutaneous vs. 9% intravenous), peripheral neuropathy (6% subcutaneous vs. 16% intravenous), and thrombocytopenia (13% subcutaneous vs. 19% intravenous).
+
+A local reaction was reported in 6% of patients in the subcutaneous group as an adverse event, mostly redness.
+Only 2 (1%) patients were reported as having severe reactions, 1 case of pruritus and 1 case of redness.
+Local reactions led to reduction in injection concentration in one patient and drug discontinuation in one patient.
+Local reaction events resolved in a median of 6 days.
+
+Dose reductions occurred due to drug related adverse events in 31% of patients in the subcutaneous treatment group compared with 43% of the intravenously treated patients.
+The most common adverse events leading to a dose reduction included peripheral sensory neuropathy (17% in the subcutaneous treatment group compared with 31% in the intravenous treatment group); and neuralgia (11% in the subcutaneous treatment group compared with 19% in the intravenous treatment group).
+
+Serious Adverse Events (SAEs) and Events Leading to Treatment Discontinuation in the Relapsed Multiple Myeloma Study of VELCADE Subcutaneous vs. Intravenous
+
+The incidence of serious adverse events was similar for the subcutaneous treatment group (36%) and the intravenous treatment group (35%).
+The most commonly reported SAEs in the subcutaneous treatment arm were pneumonia (6%) and pyrexia (3%).
+In the intravenous treatment group, the most commonly reported SAEs were pneumonia (7%), diarrhea (4%), peripheral sensory neuropathy (3%) and renal failure (3%).
+
+In the subcutaneous treatment group, 27 patients (18%) discontinued study treatment due to a drug related adverse event compared with 17 patients (23%) in the intravenous treatment group.
+Among the 147 subcutaneously treated patients, the most commonly reported drug-related event leading to discontinuation was peripheral sensory neuropathy (5%) and neuralgia (5%).
+Among the 74 patients in the intravenous treatment group, the most commonly reported drug-related events leading to treatment discontinuation were peripheral sensory neuropathy (9%) and neuralgia (9%).
+
+Two patients (1%) in the subcutaneous treatment group and 1 (1%) patient in the intravenous treatment group died due to a drug-related adverse event during treatment.
+In the subcutaneous group the causes of death were one case of pneumonia and one of sudden death.
+In the intravenous group the cause of death was coronary artery insufficiency.
+
 Integrated Summary of Safety (Relapsed Multiple Myeloma and Mantle Cell Lymphoma)
 
 Safety data from phase 2 and 3 studies of single agent VELCADE 1.3 mg/m2/dose twice weekly for 2 weeks followed by a 10-day rest period in 1163 patients with previously treated multiple myeloma (N=1008) and previously treated mantle cell lymphoma (N=155) were integrated and tabulated.
-In these studies, the safety profile of VELCADE was similar in patients with multiple myeloma and mantle cell lymphoma.
+This analysis does not include data from the Phase 3 Open-Label Study of VELCADE subcutaneous vs. intravenous in relapsed multiple myeloma.
+In the integrated studies, the safety profile of VELCADE was similar in patients with multiple myeloma and mantle cell lymphoma.
 [see Clinical Studies (14)]
 
 In the integrated analysis, the most commonly reported adverse events were asthenic conditions (including fatigue, malaise, and weakness) (64%), nausea (55%), diarrhea (52%), constipation (41%), peripheral neuropathy NEC (including peripheral sensory neuropathy and peripheral neuropathy aggravated) (39%), thrombocytopenia and appetite decreased (including anorexia) (each 36%), pyrexia (34%), vomiting (33%), and anemia (29%).
@@ -182,12 +257,12 @@ In total, 2% of the patients died and the cause of death was considered by the i
 
 Most Commonly Reported Adverse Events in the Integrated Summary of Safety
 
-The most common adverse events are shown in Table 8.
+The most common adverse events are shown in Table 10.
 All adverse events occurring at ≥ 10% are included.
 In the absence of a randomized comparator arm, it is often not possible to distinguish between adverse events that are drug-caused and those that reflect the patient's underlying disease.
 Please see the discussion of specific adverse reactions that follows.
 
-Table 8: Most Commonly Reported (≥ 10% Overall) Adverse Events in Integrated Analyses of Relapsed Multiple Myeloma and Mantle Cell Lymphoma Studies using the 1.3 mg/m2 Dose (N=1163)
+Table 10: Most Commonly Reported (≥ 10% Overall) Adverse Events in Integrated Analyses of Relapsed Multiple Myeloma and Mantle Cell Lymphoma Studies using the 1.3 mg/m2 Dose (N=1163)
 
 | Adverse Events | All Events | ≥ Grade 3 | All Events | ≥ Grade 3 | All Events | ≥ Grade 3 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -226,7 +301,7 @@ Table 8: Most Commonly Reported (≥ 10% Overall) Adverse Events in Integrated A
 | Dehydration | 120 (10) | 40 (3) | 109 (11) | 33 (3) | 11 (7) | 7 (5) |
 | Anxiety | 118 (10) | 6 (<1) | 111 (11) | 6 (<1) | 7 (5) | 0 |
 
-Description of Selected Adverse Events from the Phase 2 and 3 Relapsed Multiple Myeloma and Phase 2 Mantle Cell Lymphoma Studies
+Description of Selected Adverse Events from the Integrated Phase 2 and 3 Relapsed Multiple Myeloma and Phase 2 Mantle Cell Lymphoma Studies
 
 Gastrointestinal Events
 

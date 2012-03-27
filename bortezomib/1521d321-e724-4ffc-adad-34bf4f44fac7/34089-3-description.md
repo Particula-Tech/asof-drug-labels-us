@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-VELCADE® (bortezomib) for Injection is an antineoplastic agent available for intravenous injection (IV) use only.
+VELCADE® (bortezomib) for Injection is an antineoplastic agent available for intravenous injection or subcutaneous use.
 Each single use vial contains 3.5 mg of bortezomib as a sterile lyophilized powder.
 Inactive ingredient: 35 mg mannitol, USP.
 

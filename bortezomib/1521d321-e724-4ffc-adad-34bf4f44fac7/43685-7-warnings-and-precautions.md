@@ -9,8 +9,12 @@ VELCADE treatment causes a peripheral neuropathy that is predominantly sensory.
 However, cases of severe sensory and motor peripheral neuropathy have been reported.
 Patients with pre-existing symptoms (numbness, pain or a burning feeling in the feet or hands) and/or signs of peripheral neuropathy may experience worsening peripheral neuropathy (including ≥ Grade 3) during treatment with VELCADE.
 Patients should be monitored for symptoms of neuropathy, such as a burning sensation, hyperesthesia, hypoesthesia, paresthesia, discomfort, neuropathic pain or weakness.
-Patients experiencing new or worsening peripheral neuropathy may require change in the dose and schedule of VELCADE [see Dosage and Administration (2.5)].
-Following dose adjustments, improvement in or resolution of peripheral neuropathy was reported in 51% of patients with ≥ Grade 2 peripheral neuropathy in the relapsed multiple myeloma study.
+In the Phase 3 relapsed multiple myeloma trial comparing VELCADE subcutaneous vs. intravenous the incidence of Grade ≥ 2 peripheral neuropathy events was 24% for subcutaneous and 41% for intravenous.
+Grade ≥ 3 peripheral neuropathy occurred in 6% of patients in the subcutaneous treatment group, compared with 16% in the intravenous treatment group.
+Starting VELCADE subcutaneously may be considered for patients with pre-existing or at high risk of peripheral neuropathy.
+
+Patients experiencing new or worsening peripheral neuropathy during VELCADE therapy may benefit from a decrease in the dose and/or a less dose-intense schedule [see Dosage and Administration (2.5)].
+In the single agent phase 3 relapsed multiple myeloma study of VELCADE vs. Dexamethasone following dose adjustments, improvement in or resolution of peripheral neuropathy was reported in 51% of patients with ≥ Grade 2 peripheral neuropathy in the relapsed multiple myeloma study.
 Improvement in or resolution of peripheral neuropathy was reported in 73% of patients who discontinued due to Grade 2 neuropathy or who had ≥ Grade 3 peripheral neuropathy in the phase 2 multiple myeloma studies [see Adverse Reactions (6)].
 The long-term outcome of peripheral neuropathy has not been studied in mantle cell lymphoma.
 
@@ -19,13 +23,13 @@ The long-term outcome of peripheral neuropathy has not been studied in mantle ce
 The incidence of hypotension (postural, orthostatic, and hypotension NOS) was 13%.
 These events are observed throughout therapy.
 Caution should be used when treating patients with a history of syncope, patients receiving medications known to be associated with hypotension, and patients who are dehydrated.
-Management of orthostatic/postural hypotension may include adjustment of antihypertensive medications, hydration, and administration of mineralocorticoids and/or sympathomimetics [see Adverse Reactions(6)].
+Management of orthostatic/postural hypotension may include adjustment of antihypertensive medications, hydration, and administration of mineralocorticoids and/or sympathomimetics [see Adverse Reactions (6)].
 
 ## 5.3 Cardiac Disorders
 
 Acute development or exacerbation of congestive heart failure and new onset of decreased left ventricular ejection fraction have been reported, including reports in patients with no risk factors for decreased left ventricular ejection fraction.
 Patients with risk factors for, or existing heart disease should be closely monitored.
-In the relapsed multiple myeloma study, the incidence of any treatment-emergent cardiac disorder was 15% and 13% in the VELCADE and dexamethasone groups, respectively.
+In the relapsed multiple myeloma study of VELCADE vs. dexamethasone, the incidence of any treatment-emergent cardiac disorder was 15% and 13% in the VELCADE and dexamethasone groups, respectively.
 The incidence of heart failure events (acute pulmonary edema, cardiac failure, congestive cardiac failure, cardiogenic shock, pulmonary edema) was similar in the VELCADE and dexamethasone groups, 5% and 4%, respectively.
 There have been isolated cases of QT-interval prolongation in clinical studies; causality has not been established.
 
@@ -59,15 +63,15 @@ Fluid and electrolyte replacement should be administered to prevent dehydration.
 VELCADE is associated with thrombocytopenia and neutropenia that follow a cyclical pattern with nadirs occurring following the last dose of each cycle and typically recovering prior to initiation of the subsequent cycle.
 The cyclical pattern of platelet and neutrophil decreases and recovery remained consistent over the 8 cycles of twice weekly dosing, and there was no evidence of cumulative thrombocytopenia or neutropenia.
 The mean platelet count nadir measured was approximately 40% of baseline.
-The severity of thrombocytopenia related to pretreatment platelet count is shown in Table 5.
-In the relapsed multiple myeloma study, the incidence of significant bleeding events (≥ Grade 3) was similar on both the VELCADE (4%) and dexamethasone (5%) arms.
+The severity of thrombocytopenia related to pretreatment platelet count is shown in Table 6.
+In the relapsed multiple myeloma study of VELCADE vs. dexamethasone, the incidence of significant bleeding events (≥ Grade 3) was similar on both the VELCADE (4%) and dexamethasone (5%) arms.
 Platelet count should be monitored prior to each dose of VELCADE.
 Patients experiencing thrombocytopenia may require change in the dose and schedule of VELCADE [see Table 2 and Dosage and Administration (2.4)].
 There have been reports of gastrointestinal and intracerebral hemorrhage in association with VELCADE.
 Transfusions may be considered.
 The incidence of febrile neutropenia was < 1%.
 
-Table 5: Severity of Thrombocytopenia Related to Pretreatment Platelet Count in the Relapsed Multiple Myeloma Study
+Table 6: Severity of Thrombocytopenia Related to Pretreatment Platelet Count in the Relapsed Multiple Myeloma Study of VELCADE vs. Dexamethasone
 
 | Pretreatment Platelet CountA baseline platelet count of 50,000/µL was required for study eligibility | Number of Patients (N=331)Data were missing at baseline for 1 patient | Number (%) of Patients with Platelet Count < 10,000/µL | Number (%) of Patients with Platelet Count 10,000-25,000/µL |
 | --- | --- | --- | --- |
