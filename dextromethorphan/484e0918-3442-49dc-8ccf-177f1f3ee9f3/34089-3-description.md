@@ -14,4 +14,5 @@ The structural formula is:
 
 The combination product, NUEDEXTA, is a white to off-white powder.
 NUEDEXTA is available for oral use as NUEDEXTA which contains 20 mg dextromethorphan hydrobromide and 10 mg quinidine sulfate.
-The active ingredients are dextromethorphan hydrobromide monohydrate USP and quinidine sulfate dihydrate USP.Inactive ingredients in the capsule are croscarmellose sodium NF, microcrystalline cellulose NF, colloidal silicon dioxide NF, lactose monohydrate NF, and magnesium stearate NF.
+The active ingredients are dextromethorphan hydrobromide monohydrate USP and quinidine sulfate dihydrate USP.
+Inactive ingredients in the capsule are croscarmellose sodium NF, microcrystalline cellulose NF, colloidal silicon dioxide NF, lactose monohydrate NF, and magnesium stearate NF.

@@ -31,12 +31,11 @@ Strong and moderate CYP3A inhibitors include, but are not limited to, atazanavir
 
 Reevaluate ECG if risk factors for arrhythmia change during the course of treatment with NUEDEXTA.
 Risk factors include concomitant use of drugs associated with QT prolongation, electrolyte abnormality (hypokalemia, hypomagnesemia), bradycardia, and family history of QT abnormality.
-
 Hypokalemia and hypomagnesemia should be corrected prior to initiation of therapy with NUEDEXTA, and should be monitored during treatment.
 
 If patients taking NUEDEXTA experience symptoms that could indicate the occurrence of cardiac arrhythmias, e.g., syncope or palpitations, NUEDEXTA should be discontinued and the patient further evaluated.
 
-## 5.4 Concomitant use of CYP2D6 Substrates
+## 5.4 Concomitant Use of CYP2D6 Substrates
 
 The quinidine in NUEDEXTA inhibits CYP2D6 in patients in whom CYP2D6 is not otherwise genetically absent or its activity otherwise pharmacologically inhibited [see CYP2D6 Poor Metabolizers (5.8), Pharmacokinetics (12.3), Pharmacogenomics (12.5)].
 Because of this effect on CYP2D6, accumulation of parent drug and/or failure of active metabolite formation may decrease the safety and/or the efficacy of drugs used concomitantly with NUEDEXTA that are metabolized by CYP2D6 [see Drug Interactions (7.5)].

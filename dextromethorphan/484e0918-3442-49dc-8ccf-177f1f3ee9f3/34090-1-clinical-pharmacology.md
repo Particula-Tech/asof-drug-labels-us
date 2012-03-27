@@ -10,7 +10,7 @@ The mechanism by which dextromethorphan exerts therapeutic effects in patients w
 
 ### Cardiac Electrophysiology
 
-The effect of dextromethorphan hydrobromide 30 mg/quinidine sulfate 10 mg (for 7 doses) on QTc prolongation was evaluate in a randomized, double-blind (except for moxifloxacin), placebo- and positive-controlled (400 mg moxifloxacin) crossover thorough QT study in 50 fasted normal healthy men and women with CYP2D6 extensive metabolizer (EM) genotype.
+The effect of dextromethorphan hydrobromide 30 mg/quinidine sulfate 10 mg (for 7 doses) on QTc prolongation was evaluated in a randomized, double-blind (except for moxifloxacin), placebo- and positive-controlled (400 mg moxifloxacin) crossover thorough QT study in 50 fasted normal healthy men and women with CYP2D6 extensive metabolizer (EM) genotype.
 Mean changes in QTcF were 6.8 ms for dextromethorphan hydrobromide 30 mg/quinidine sulfate 10 mg and 9.1 ms for the reference positive control (moxifloxacin).
 The maximum mean (95% upper confidence bound) difference from placebo after baseline correction was 10.2 (12.6) ms. This test dose is adequate to represent the steady state exposure in patients with CYP2D6 extensive metabolizer phenotype.
 
@@ -65,7 +65,7 @@ A population pharmacokinetic analysis based on data from 109 subjects (75 male; 
 
 #### Race
 
-A population pharmacokinetic analysis of race with 109 subjects (21 Caucasian; 71 Hispanic; 18 Black) revealed no apparent racial differences in the pharmacokinetics of NUEDEXTA.
+A population pharmacokinetic analysis of race with 109 subjects (20 Caucasian; 71 Hispanic; 18 Black) revealed no apparent racial differences in the pharmacokinetics of NUEDEXTA.
 
 #### Renal Impairment
 

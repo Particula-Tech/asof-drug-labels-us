@@ -13,7 +13,7 @@ While therapeutic doses of quinidine for treatment of cardiac arrhythmia or mala
 
 Adverse effects of dextromethorphan overdose include nausea, vomiting, stupor, coma, respiratory depression, seizures, tachycardia, hyperexcitability, and toxic psychosis.
 Other adverse effects include ataxia, nystagmus, dystonia, blurred vision, and changes in muscle reflexes.
-Dextromethorphan may cause serotonin syndrome, and this risk is increased by overdose, particularly if taken with other serotonergic agents, SSRI’s or tricyclic antidepressants.
+Dextromethorphan may cause serotonin syndrome, and this risk is increased by overdose, particularly if taken with other serotonergic agents, SSRIs or tricyclic antidepressants.
 
 ## 10.1 Treatment of Overdose
 

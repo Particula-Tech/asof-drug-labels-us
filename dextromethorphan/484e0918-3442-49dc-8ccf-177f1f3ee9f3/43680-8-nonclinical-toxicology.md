@@ -15,4 +15,4 @@ Dextromethorphan was negative in in vitro (bacterial reverse mutation, chromosom
 Quinidine was negative in an in vitro bacterial reverse mutation assay and in an in vivo mouse micronucleus assay.
 Quinidine induced chromosomal aberrations in an in vitro chromosomal aberration assay in the presence of metabolic activation.
 
-Impairment of Fertility When dextromethorphan / quinidine was administered orally (0/0, 5/100, 15/100, and 50/100 mg/kg/day) to male and female rats prior to and during mating, and continuing to Day 7 of gestation in females, no effect on fertility was observed up to the highest dose tested, which is approximately 12/50 times the RHD on a mg/m2 basis.
+Impairment of Fertility When dextromethorphan/quinidine was administered orally (0/0, 5/100, 15/100, and 50/100 mg/kg/day) to male and female rats prior to and during mating, and continuing to Day 7 of gestation in females, no effect on fertility was observed up to the highest dose tested, which is approximately 12/50 times the RHD on a mg/m2 basis.

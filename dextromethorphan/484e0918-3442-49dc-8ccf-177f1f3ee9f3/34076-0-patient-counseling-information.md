@@ -7,7 +7,7 @@ Physicians are advised to discuss the following topics with patients for whom th
 Patients should be advised a hypersensitivity reaction to NUEDEXTA could occur.
 Patients should be instructed to seek medical attention immediately if they experience symptoms indicative of hypersensitivity after taking NUEDEXTA [see Contraindications (4.2), Warnings and Precautions (5.1)].
 
-## 17.2 Cardiac effects
+## 17.2 Cardiac Effects
 
 Patients should be advised to consult their healthcare provider immediately if they feel faint or lose consciousness.
 Patients should be counseled to inform their healthcare provider if they have any personal or family history of QTc prolongation [see Contraindications (4.4), Warnings and Precautions (5.3) Drug Interactions (7)].
@@ -41,15 +41,10 @@ Advise patients to contact their healthcare provider if their PBA symptoms persi
 
 Advise patients to keep this and all medications out of reach of children and pets.
 
-Marketed by:
+Marketed by: Avanir Pharmaceuticals, Inc. Aliso Viejo, CA 92656 1-855-4NUEDEX (468-3339) Issued October 2010
 
-Avanir™ Pharmaceuticals, Inc.
+Part No. 2000004239 / Rev.
+Date 08/2011
 
-Aliso Viejo, CA 92656
-
-1-855-4NUEDEX (468-3339)
-
-Issued October 2010
-
-Part No. 2000003072 / Rev.
-Date 10/2010
+AVANIR and NUEDEXTA are trademarks or registered trademarks of Avanir Pharmaceuticals, Inc. in the United States and other countries.
+U.S. Patent Nos.: 7,659,282 and RE38,115 ©2010-2011 Avanir Pharmaceuticals, Inc. All rights reserved.
