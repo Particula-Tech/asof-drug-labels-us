@@ -12,6 +12,4 @@ Information for Patients
 - Counsel women that NEXPLANON does not protect against HIV infection (AIDS) or other sexually transmitted diseases.
 - Counsel women that the use of NEXPLANON may be associated with changes in their normal menstrual bleeding patterns so that they know what to expect.
 
-FDA-Approved Patient Labeling
-
-See the full patient product information for NEXPLANON.
+FDA-Approved Patient Labeling See the full patient product information for NEXPLANON.

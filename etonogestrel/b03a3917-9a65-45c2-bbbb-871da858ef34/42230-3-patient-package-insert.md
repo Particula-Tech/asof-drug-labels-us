@@ -242,6 +242,7 @@ Call your healthcare provider right away if you have:
 - Pain in your lower leg that does not go away
 - Severe chest pain or heaviness in the chest
 - Sudden shortness of breath, sharp chest pain, or coughing blood
+- Symptoms of a severe allergic reaction, such as swollen face, tongue or pharynx; trouble swallowing; or hives and trouble breathing
 - Sudden severe headache unlike your usual headaches
 - Weakness or numbness in your arm, leg, or trouble speaking
 - Sudden partial or complete blindness
@@ -275,6 +276,6 @@ You may also call 1-877-467-5266 or visit www.NEXPLANON-USA.com.
 Copyright © 2011 N.V.
 Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Issued: May 2011
+Revised: 03/2012
 
-37847.1
+900415-IMPx-IPT-PPI.9

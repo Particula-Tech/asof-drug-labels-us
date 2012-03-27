@@ -1,9 +1,9 @@
 Copyright © 2011 N.V.
 Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Issued: May 2011
+Revised: 03/2012
 
-37847
+900415-IMPx-IPT-USPI.10
 
 NEXPLANON® (etonogestrel implant) Radiopaque Subdermal Use Only
 
@@ -65,6 +65,6 @@ She has stated that she understands the information and has had an opportunity t
 Copyright © 2011 N.V.
 Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Issued: May 2011
+Issued: March 2012
 
-37847.2
+900415-IMPx-IPT-PCF.1

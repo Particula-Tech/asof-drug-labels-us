@@ -65,6 +65,8 @@ Gastrointestinal disorders: constipation, diarrhea, flatulence, vomiting.
 
 General disorders and administration site conditions: edema, fatigue, implant site reaction, pyrexia.
 
+Immune system disorders: anaphylactic reactions.
+
 Infections and infestations: rhinitis, urinary tract infection.
 
 Investigations: clinically relevant rise in blood pressure, weight decreased.
@@ -83,7 +85,7 @@ Renal and urinary disorders: dysuria.
 
 Reproductive system and breast disorders: breast discharge, breast enlargement, ovarian cyst, pruritus genital, vulvovaginal discomfort.
 
-Skin and subcutaneous tissue disorders: (aggravation of) angioedema and/or aggravation of hereditary angioedema, alopecia, chloasma, hypertrichosis, pruritus, rash, seborrhea, urticaria.
+Skin and subcutaneous tissue disorders: angioedema, aggravation of angioedema and/or aggravation of hereditary angioedema, alopecia, chloasma, hypertrichosis, pruritus, rash, seborrhea, urticaria.
 
 Vascular disorders: hot flush.
 
