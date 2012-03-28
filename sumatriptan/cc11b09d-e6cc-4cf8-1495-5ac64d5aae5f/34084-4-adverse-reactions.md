@@ -44,6 +44,7 @@ There were insufficient data to assess the impact of race on the incidence of ad
 In the paragraphs that follow, the frequencies of less commonly reported adverse clinical events are presented.
 Because the reports include events observed in open and uncontrolled studies, the role of IMITREX Nasal Spray in their causation cannot be reliably determined.
 Furthermore, variability associated with adverse event reporting, the terminology used to describe adverse events, etc., limit the value of the quantitative frequency estimates provided.
+
 Event frequencies are calculated as the number of patients who used IMITREX Nasal Spray (5, 10, or 20 mg in controlled and uncontrolled trials) and reported an event divided by the total number of patients (N = 3,711) exposed to IMITREX Nasal Spray.
 All reported events are included except those already listed in the previous table, those too general to be informative, and those not reasonably associated with the use of the drug.
 Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: infrequent adverse events are those occurring in 1/100 to 1/1,000 patients and rare adverse events are those occurring in fewer than 1/1,000 patients.

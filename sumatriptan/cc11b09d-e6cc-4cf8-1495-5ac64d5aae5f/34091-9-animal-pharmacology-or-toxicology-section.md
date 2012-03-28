@@ -9,16 +9,13 @@ Earlier examinations for these toxicities were not conducted and no-effect doses
 There is evidence of alterations in corneal appearance on the first day of intranasal dosing to dogs.
 Changes were noted at the lowest dose tested, which was approximately 2 times the maximum single human intranasal dose of 20 mg on a mg/m2 basis.
 
-This product's prescribing information may have been updated.
-Please refer to www.gsk.com for the most current version.
-
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2010, GlaxoSmithKline.
+©2012, GlaxoSmithKline.
 All rights reserved.
 
-February 2010
+March 2012
 
-IMN:2PI
+IMN:3PI

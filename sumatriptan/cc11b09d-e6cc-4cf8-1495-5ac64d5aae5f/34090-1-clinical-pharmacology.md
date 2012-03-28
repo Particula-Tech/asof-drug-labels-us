@@ -33,14 +33,14 @@ Clinical and pharmacokinetic data indicate that administration of two 5-mg doses
 Renal Impairment: The effect of renal impairment on the pharmacokinetics of sumatriptan has not been examined, but little clinical effect would be expected as sumatriptan is largely metabolized to an inactive substance.
 
 Hepatic Impairment: The effect of hepatic disease on the pharmacokinetics of subcutaneously and orally administered sumatriptan has been evaluated, but the intranasal dosage form has not been studied in hepatic impairment.
-There were no statistically significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in hepatically impaired patients compared to healthy controls.
+There were no statistically significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in hepatically impaired patients compared with healthy controls.
 However, the liver plays an important role in the presystemic clearance of orally administered sumatriptan.
-In 1 small study involving oral sumatriptan in hepatically impaired patients (N = 8) matched for sex, age, and weight with healthy subjects, the hepatically impaired patients had an approximately 70% increase in AUC and Cmax and a Tmax 40 minutes earlier compared to the healthy subjects.
+In 1 small study involving oral sumatriptan in hepatically impaired patients (N = 8) matched for sex, age, and weight with healthy subjects, the hepatically impaired patients had an approximately 70% increase in AUC and Cmax and a Tmax 40 minutes earlier compared with the healthy subjects.
 The bioavailability of nasally absorbed sumatriptan following intranasal administration, which would not undergo first-pass metabolism, should not be altered in hepatically impaired patients.
 The bioavailability of the swallowed portion of the intranasal sumatriptan dose has not been determined, but would be increased in these patients.
-The swallowed intranasal dose is small, however, compared to the usual oral dose, so that its impact should be minimal.
+The swallowed intranasal dose is small, however, compared with the usual oral dose, so that its impact should be minimal.
 
-Age: The pharmacokinetics of oral sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in patients with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age, 30 years).
+Age: The pharmacokinetics of oral sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in patients with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years).
 Intranasal sumatriptan has not been evaluated for age differences (see PRECAUTIONS: Geriatric Use).
 
 Race: The systemic clearance and Cmax of sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.

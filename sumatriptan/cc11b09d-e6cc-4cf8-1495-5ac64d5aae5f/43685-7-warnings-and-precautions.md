@@ -10,7 +10,7 @@ The sensitivity of cardiac diagnostic procedures to detect cardiovascular diseas
 If, during the cardiovascular evaluation, the patient’s medical history or electrocardiographic investigations reveal findings indicative of, or consistent with, coronary artery vasospasm or myocardial ischemia, sumatriptan should not be administered (see CONTRAINDICATIONS).
 
 For patients with risk factors predictive of CAD, who are determined to have a satisfactory cardiovascular evaluation, it is strongly recommended that administration of the first dose of sumatriptan nasal spray take place in the setting of a physician’s office or similar medically staffed and equipped facility unless the patient has previously received sumatriptan.
-Because cardiac ischemia can occur in the absence of clinical symptoms, consideration should be given to obtaining on the first occasion of use an electrocardiogram (ECG) during the interval immediately following IMITREX Nasal Spray in these patients with risk factors.
+Because cardiac ischemia can occur in the absence of clinical symptoms, consideration should be given to obtaining an electrocardiogram (ECG) during the interval immediately following the first dose in these patients with risk factors.
 
 It is recommended that patients who are intermittent long-term users of sumatriptan and who have or acquire risk factors predictive of CAD, as described above, undergo periodic interval cardiovascular evaluation as they continue to use sumatriptan.
 
@@ -24,7 +24,7 @@ Considering the extent of use of sumatriptan in patients with migraine, the inci
 The fact that sumatriptan can cause coronary vasospasm, that some of these events have occurred in patients with no prior cardiac disease history and with documented absence of CAD, and the close proximity of the events to sumatriptan use support the conclusion that some of these cases were caused by the drug.
 In many cases, however, where there has been known underlying coronary artery disease, the relationship is uncertain.
 
-Premarketing Experience With Sumatriptan: Among approximately 4,000 patients with migraine who participated in premarketing controlled and uncontrolled clinical trials of sumatriptan nasal spray, 1 patient experienced an asymptomatic subendocardial infarction possibly subsequent to a coronary vasospastic event.
+Premarketing Experience WithSumatriptan: Among approximately 4,000 patients with migraine who participated in premarketing controlled and uncontrolled clinical trials of sumatriptan nasal spray, 1 patient experienced an asymptomatic subendocardial infarction possibly subsequent to a coronary vasospastic event.
 
 Of 6,348 patients with migraine who participated in premarketing controlled and uncontrolled clinical trials of oral sumatriptan, 2 experienced clinical adverse events shortly after receiving oral sumatriptan that may have reflected coronary vasospasm.
 Neither of these adverse events was associated with a serious clinical outcome.
@@ -33,7 +33,7 @@ Among the more than 1,900 patients with migraine who participated in premarketin
 Six of these 8 patients had ECG changes consistent with transient ischemia, but without accompanying clinical symptoms or signs.
 Of these 8 patients, 4 had either findings suggestive of CAD or risk factors predictive of CAD prior to study enrollment.
 
-Postmarketing Experience With Sumatriptan: Serious cardiovascular events, some resulting in death, have been reported in association with the use of IMITREX Injection or IMITREX Tablets.
+Postmarketing Experience WithSumatriptan: Serious cardiovascular events, some resulting in death, have been reported in association with the use of IMITREX Injection or IMITREX Tablets.
 The uncontrolled nature of postmarketing surveillance, however, makes it impossible to determine definitively the proportion of the reported cases that were actually caused by sumatriptan or to reliably assess causation in individual cases.
 On clinical grounds, the longer the latency between the administration of IMITREX and the onset of the clinical event, the less likely the association is to be causative.
 Accordingly, interest has focused on events beginning within 1 hour of the administration of IMITREX.
@@ -60,9 +60,10 @@ Visual disorders may also be part of a migraine attack.
 
 ## Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome may occur with triptans, including treatment with IMITREX, particularly during combined use with selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs).
-If concomitant treatment with sumatriptan and an SSRI (e.g., fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram, escitalopram) or SNRI (e.g., venlafaxine, duloxetine) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+Serotonin syndrome may occur with triptans, including IMITREX, particularly during combined use with selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs).
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+The onset of symptoms can occur within minutes to hours of receiving a new or a greater dose of a serotonergic medication.
+Treatment with IMITREX should be discontinued if serotonin syndrome is suspected.
 
 ## Increase in Blood Pressure
 
@@ -107,7 +108,7 @@ Chest discomfort and jaw or neck tightness have been reported infrequently follo
 Chest, jaw, or neck tightness is relatively common after administration of IMITREX Injection.
 Only rarely have these symptoms been associated with ischemic ECG changes.
 However, because sumatriptan may cause coronary artery vasospasm, patients who experience signs or symptoms suggestive of angina following sumatriptan should be evaluated for the presence of CAD or a predisposition to Prinzmetal variant angina before receiving additional doses of sumatriptan, and should be monitored electrocardiographically if dosing is resumed and similar symptoms recur.
-Similarly, patients who experience other symptoms or signs suggestive of decreased arterial flow, such as ischemic bowel syndrome or Raynaud syndrome following sumatriptan should be evaluated for atherosclerosis or predisposition to vasospasm (see WARNINGS).
+Similarly, patients who experience other symptoms or signs suggestive of decreased arterial flow, such as ischemic bowel syndrome or Raynaud syndrome, following sumatriptan should be evaluated for atherosclerosis or predisposition to vasospasm (see WARNINGS).
 
 IMITREX Nasal Spray should also be administered with caution to patients with diseases that may alter the absorption, metabolism, or excretion of drugs, such as impaired hepatic or renal function.
 
@@ -119,21 +120,12 @@ There have been rare reports where patients received sumatriptan for severe head
 
 For a given attack, if a patient does not respond to the first dose of sumatriptan, the diagnosis of migraine headache should be reconsidered before administration of a second dose.
 
-Overuse of acute migraine treatments has been associated with the exacerbation of headache (medication overuse headache) in susceptible patients.
-Withdrawal of the treatment may be necessary.
+## Overuse
 
-## Binding to Melanin-Containing Tissues
-
-In rats treated with a single subcutaneous dose (0.5 mg/kg) or oral dose (2 mg/kg) of radiolabeled sumatriptan, the elimination half-life of radioactivity from the eye was 15 and 23 days, respectively, suggesting that sumatriptan and/or its metabolites bind to the melanin of the eye.
-Comparable studies were not performed by the intranasal route.
-Because there could be an accumulation in melanin-rich tissues over time, this raises the possibility that sumatriptan could cause toxicity in these tissues after extended use.
-However, no effects on the retina related to treatment with sumatriptan were noted in any of the oral or subcutaneous toxicity studies.
-Although no systematic monitoring of ophthalmologic function was undertaken in clinical trials, and no specific recommendations for ophthalmologic monitoring are offered, prescribers should be aware of the possibility of long-term ophthalmologic effects.
-
-## Corneal Opacities
-
-Sumatriptan causes corneal opacities and defects in the corneal epithelium in dogs; this raises the possibility that these changes may occur in humans.
-While patients were not systematically evaluated for these changes in clinical trials, and no specific recommendations for monitoring are being offered, prescribers should be aware of the possibility of these changes (see ANIMAL TOXICOLOGY).
+Overuse of acute migraine drugs (e.g., ergotamine, triptans, opioids, or a combination of drugs for 10 or more days per month) may lead to exacerbation of headache (medication overuse headache).
+Medication overuse headache may present as migraine-like daily headaches, or as a marked increase in frequency of migraine attacks.
+Detoxification of patients, including withdrawal of the overused drugs, and treatment of withdrawal symptoms (which often includes a transient worsening of headache) may be necessary.
+Migraine patients should be informed about the risks of medication overuse and encouraged to record headache frequency and drug use.
 
 ## Information for Patients
 
@@ -161,7 +153,7 @@ IMITREX Nasal Spray is not known to interfere with commonly employed clinical la
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenesis: In carcinogenicity studies, rats and mice were given sumatriptan by oral gavage (rats:104 weeks) or drinking water (mice: 78 weeks).
+Carcinogenesis: In carcinogenicity studies, rats and mice were given sumatriptan by oral gavage (rats: 104 weeks) or drinking water (mice: 78 weeks).
 Average exposures achieved in mice receiving the highest dose (target dose of 160 mg/kg/day) were approximately 184 times the exposure attained in humans after the maximum recommended single intranasal dose of 20 mg.
 The highest dose administered to rats (160 mg/kg/day, reduced from 360 mg/kg/day during week 21) was approximately 78 times the maximum recommended single intranasal dose of 20 mg on a mg/m2 basis.
 There was no evidence of an increase in tumors in either species related to sumatriptan administration.
@@ -214,9 +206,6 @@ Oral treatment of pregnant rats with sumatriptan from gestational day 17 through
 The highest no-effect dose for this finding was 100 mg/kg/day, approximately 49 times the maximum single recommended human intranasal dose of 20 mg on a mg/m2 basis.
 In a similar study in rats by the subcutaneous route there was no increase in pup death at 81 mg/kg/day, the highest dose tested, which is equivalent to 40 times the maximum single recommended human intranasal dose of 20 mg on a mg/m2 basis.
 
-Pregnancy Registry: To monitor fetal outcomes of pregnant women exposed to IMITREX, GlaxoSmithKline maintains a Sumatriptan Pregnancy Registry.
-Physicians are encouraged to register patients by calling (800) 336-2176.
-
 ## Nursing Mothers
 
 Sumatriptan is excreted in human breast milk following subcutaneous administration.
@@ -226,14 +215,14 @@ Infant exposure to sumatriptan can be minimized by avoiding breastfeeding for 12
 
 Safety and effectiveness of IMITREX Nasal Spray in pediatric patients under 18 years of age have not been established; therefore, IMITREX Nasal Spray is not recommended for use in patients under 18 years of age.
 
-Two controlled clinical trials evaluating sumatriptan nasal spray (5 to 20 mg) in pediatric patients aged 12 to 17 years enrolled a total of 1,248 adolescent migraineurs who treated a single attack.
-The studies did not establish the efficacy of sumatriptan nasal spray compared to placebo in the treatment of migraine in adolescents.
+Two controlled clinical trials evaluated sumatriptan nasal spray (5 to 20 mg) in 1,248 adolescent migraineurs aged 12 to 17 years who treated a single attack.
+The studies did not establish the efficacy of sumatriptan nasal spray compared with placebo in the treatment of migraine in adolescents.
 Adverse events observed in these clinical trials were similar in nature to those reported in clinical trials in adults.
 
 Five controlled clinical trials (2 single attack studies, 3 multiple attack studies) evaluating oral sumatriptan (25 to 100 mg) in pediatric patients aged 12 to 17 years enrolled a total of 701 adolescent migraineurs.
-These studies did not establish the efficacy of oral sumatriptan compared to placebo in the treatment of migraine in adolescents.
+These studies did not establish the efficacy of oral sumatriptan compared with placebo in the treatment of migraine in adolescents.
 Adverse events observed in these clinical trials were similar in nature to those reported in clinical trials in adults.
-The frequency of all adverse events in these patients appeared to be both dose- and age-dependent, with younger patients reporting events more commonly than older adolescents.
+The frequency of all adverse events in these patients appeared to be both dose- and age‑dependent, with younger patients reporting events more commonly than older adolescents.
 
 Postmarketing experience documents that serious adverse events have occurred in the pediatric population after use of subcutaneous, oral, and/or intranasal sumatriptan.
 These reports include events similar in nature to those reported rarely in adults, including stroke, visual loss, and death.

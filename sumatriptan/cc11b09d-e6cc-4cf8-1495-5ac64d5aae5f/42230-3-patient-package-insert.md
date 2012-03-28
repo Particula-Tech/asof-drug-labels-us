@@ -2,141 +2,244 @@
 
 The following wording is contained in a separate leaflet provided for patients.
 
-Information for the Patient
+Patient Information
 
-IMITREX® (sumatriptan) Nasal Spray
+IMITREX® (IM-i-trex)
 
-Read this leaflet carefully before you start to take IMITREX Nasal Spray.
-Keep the leaflet for reference because it gives you a summary of important information about IMITREX Nasal Spray.
+(sumatriptan)
 
-Read the leaflet that comes with each refill of your prescription because there may be new information.
+Nasal Spray
 
-This leaflet does not have all the information about IMITREX Nasal Spray.
-Ask your healthcare provider for more information or advice.
+Read this Patient Information before you start using IMITREX Nasal Spray and each time you get a refill.
+There may be new information.
+This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
+
+What is the most important information I should know about IMITREX Nasal Spray?
+
+IMITREX Nasal Spray can cause serious side effects, including:
+
+Heart attack and other heart problems.
+Heart problems may lead to death.
+
+Stop taking IMITREX Nasal Spray and get emergency medical help right away if you have any of the following symptoms of a heart attack:
+
+- discomfort in the center of your chest that lasts for more than a few minutes, or that goes away and comes back
+- chest pain or chest discomfort that feels like heavy pressure, squeezing, or fullness
+- pain or discomfort in your arms, back, neck, jaw, or stomach
+- shortness of breath with or without chest discomfort
+- breaking out in a cold sweat
+- nausea or vomiting
+- feeling lightheaded
+
+IMITREX Nasal Spray is not for people with risk factors for heart disease unless a heart exam is done and shows no problem.
+You have a higher risk for heart disease if you:
+
+- have high blood pressure
+- have high cholesterol levels
+- smoke
+- are overweight
+- have diabetes
+- have a family history of heart disease
+- are a female who has gone through menopause
+- are a male over age 40
+
+Serotonin syndrome.
+Serotonin syndrome is a serious and life-threatening problem that can happen in people using IMITREX Nasal Spray, especially if IMITREX Nasal Spray is used with anti-depressant medicines called selective serotonin reuptake inhibitors (SSRIs) or selective norepinephrine reuptake inhibitors (SNRIs).
+
+Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
+
+Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
+
+- mental changes such as seeing things that are not there (hallucinations), agitation, or coma
+- fast heartbeat
+- changes in blood pressure
+- high body temperature
+- tight muscles
+- trouble walking
+- nausea, vomiting, or diarrhea
 
 What is IMITREX Nasal Spray?
 
-IMITREX Nasal Spray is a kind of medicine called a triptan.
-You should take it only if you have a prescription.
+IMITREX Nasal Spray is a prescription medicine used to treat acute migraine headaches with or without aura in adults.
 
-IMITREX Nasal Spray is used to relieve your migraine.
-It is not used to prevent attacks or reduce the number of attacks you have.
-Use IMITREX Nasal Spray only to treat an actual migraine attack.
+IMITREX Nasal Spray is not used to prevent or decrease the number of migraine headaches you have.
 
-The decision to use IMITREX Nasal Spray is one that you and your healthcare provider should make together, based on your personal needs and health.
+IMITREX Nasal Spray is not used to treat other types of headaches such as hemiplegic migraines (that make you unable to move on one side of your body) or basilar migraines (rare form of migraine with aura).
 
-Talk with your healthcare provider before taking IMITREX Nasal Spray
+It is not known if IMITREX Nasal Spray is safe and effective to treat cluster headaches.
 
-1. Risk factors for heart disease to tell your healthcare provider: Tell your healthcare provider if you have risk factors for heart disease such as: If you do have risk factors for heart disease, your healthcare provider should check you for heart disease to see if IMITREX is right for you.
-   Although most of the people who have taken IMITREX have not had any serious side effects, some have had serious heart problems.
-   Deaths have been reported, but these were rare considering the extensive worldwide use of IMITREX.
-   Usually, serious problems happened in people with known heart disease.
-   It was not clear whether IMITREX had anything to do with these deaths.
-   - high blood pressure
-   - high cholesterol
-   - being overweight
-   - diabetes
-   - smoking
-   - strong family history of heart disease
-   - you are postmenopausal
-   - you are a male over 40 years of age
-2. Important questions to ask yourself before you take IMITREX Nasal Spray:If the answer to any of the following questions is YES or if you do not know the answer, then please talk with your healthcare provider before you take IMITREX Nasal Spray.
-   - Are you pregnant?
-     Do you think you might be pregnant?
-     Are you trying to become pregnant?
-     Are you not using adequate contraception?
-     Are you breastfeeding?
-   - Do you have any chest pain, heart disease, shortness of breath, or irregular heartbeats?
-     Have you had a heart attack?
-   - Do you have risk factors for heart disease (see list above)?
-   - Have you had a stroke, a mini-stroke (also called a transient ischemic attack or TIA), or Raynaud syndrome?
-   - Do you have high blood pressure?
-   - Have you ever had to stop taking this or any other medicine because of an allergy or other problems?
-   - Are you taking any other migraine medicines, including other triptans?
-     Are you taking any medicines containing ergotamine, dihydroergotamine, or methysergide?
-   - Are you taking any medicine for depression or other health problems such as a monoamine oxidase inhibitor, selective serotonin reuptake inhibitor (SSRI), or serotonin norepinephrine reuptake inhibitor (SNRI)?
-     Common SSRIs are citalopram HBr (CELEXA®), escitalopram oxalate (LEXAPRO®), paroxetine (PAXIL®), fluoxetine (PROZAC®/SARAFEM®), olanzapine/fluoxetine (SYMBYAX®), sertraline (ZOLOFT®), and fluvoxamine.
-     Common SNRIs are duloxetine (CYMBALTA®) and venlafaxine (EFFEXOR®).
-   - Have you had, or do you have, any disease of the liver or kidney?
-   - Have you had, or do you have, epilepsy or seizures?
-   - Is this headache different from your usual migraine attacks?
+It is not known if IMITREX Nasal Spray is safe and effective in children under 18 years of age.
 
-Remember, if you answered YES to any of the above questions, then talk with your healthcare provider about it.
+Who should not use IMITREX Nasal Spray?
 
-Important points about IMITREX Nasal Spray
+Do not use IMITREX Nasal Spray if you have:
 
-1.
-The use of IMITREX Nasal Spray during pregnancy:
+- heart problems or a history of heart problems
+- narrowing of blood vessels to your legs, arms, stomach, or kidney (peripheral vascular disease)
+- uncontrolled high blood pressure
+- severe liver problems
+- hemiplegic migraines or basilar migraines.
+  If you are not sure if you have these types of migraines, ask your healthcare provider.
+- had a stroke, transient ischemic attacks (TIAs), or problems with your blood circulation
+- taken any of the following medicines in the last 24 hours:
+  - almotriptan (AXERT®)
+  - eletriptan (RELPAX®)
+  - frovatriptan (FROVA®)
+  - naratriptan (AMERGE®)
+  - rizatriptan (MAXALT®, MAXALT-MLT®)
+  - sumatriptan and naproxen (TREXIMET®)
+  - ergotamines (CAFERGOT®, ERGOMAR®, MIGERGOT®)
+  - dihydroergotamine (D.H.E.
+    45®, MIGRANAL®)
 
-Do not take IMITREX Nasal Spray if you are pregnant, think you might be pregnant, are trying to become pregnant, or are not using adequate contraception unless you have talked with your healthcare provider about this.
+Ask your doctor if you are not sure if your medicine is listed above.
 
-2.
-How to take IMITREX Nasal Spray:
+- an allergy to sumatriptan or any of the ingredients in IMITREX Nasal Spray.
+  See the end of this leaflet for a complete list of ingredients in IMITREX Nasal Spray.
 
-Before taking IMITREX Nasal Spray, see the enclosed instructions leaflet.
+What should I tell my healthcare provider before taking IMITREX Nasal Spray?
 
-For adults, the usual dose is a single nasal spray in 1 nostril.
-If your headache comes back, you can take a second nasal spray anytime after 2 hours after you took the first spray.
+Before you use IMITREX Nasal Spray, tell your healthcare provider about all of your medical conditions, including if you:
 
-For any attack where you have no response to the first nasal spray, do not take a second nasal spray without first talking with your healthcare provider.
-Do not take more than a total of 40 mg of IMITREX Nasal Spray in any 24-hour period.
-The safety of treating an average of more than 4 headaches in a 30-day period has not been established.
+- have high blood pressure
+- have high cholesterol
+- have diabetes
+- smoke
+- are overweight
+- are a female who has gone through menopause
+- have heart disease or a family history of heart disease or stroke
+- have kidney problems
+- have liver problems
+- have had epilepsy or seizures
+- are not using effective birth control
+- are pregnant or plan to become pregnant.
+  It is not known if IMITREX Nasal Spray will harm your unborn baby.
+- become pregnant while taking IMITREX Nasal Spray
+- are breastfeeding or plan to breastfeed.
+  IMITREX Nasal Spray passes into your breast milk and may harm your baby.
+  Talk with your healthcare provider about the best way to feed your baby if you use IMITREX Nasal Spray.
 
-The effects of long-term repeated use of IMITREX Nasal Spray on the surfaces of the nose and throat have not been specifically studied.
+Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
-3.
-Caution for activities requiring alertness:
+IMITREX Nasal Spray and other medicines may affect each other, causing side effects.
 
-You may feel drowsy or dizzy because of your migraine or treatment with IMITREX Nasal Spray.
-Use caution for activities requiring alertness (like driving or using machines).
+Especially tell your healthcare provider if you take anti-depressant medicines called:
 
-4.
-What to do if you take an overdose:
+- selective serotonin reuptake inhibitors (SSRIs)
+- serotonin norepinephrine reuptake inhibitors (SNRIs)
+- monoamine oxidase inhibitors (MAOIs)
 
-If you have taken more medicine than has been prescribed for you, contact either your healthcare provider, hospital emergency department, or nearest poison control center right away.
+Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
 
-5.
-How to store your medicine:
+Know the medicines you take.
+Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine.
 
-Keep your medicine in a safe place where children cannot reach it.
-It may be harmful to children.
+How should I use IMITREX Nasal Spray?
 
-Store your medicine away from heat and light.
-Do not store at temperatures above 86°F (30°C) or below 36°F (2°C).
+Before using IMITREX Nasal Spray, read the Instructions for Use at the end of the Patient Information leaflet.
 
-The expiration date of your medicine is printed on the packaging.
-If your medicine has expired, throw it away.
+- Certain people should take their first dose of IMITREX Nasal Spray in their healthcare provider’s office or in another medical setting.
+  Ask your healthcare provider if you should take your first dose in a medical setting.
+- Use IMITREX Nasal Spray exactly as your healthcare provider tells you to use it.
+- Your healthcare provider may change your dose.
+  Do not change your dose without first talking with your healthcare provider.
+- If you do not get any relief after your first nasal spray, do not use a second nasal spray without first talking with your healthcare provider.
+- If your headache comes back after the first nasal spray or you only get some relief from your headache, you can use a second nasal spray 2 hours after the first nasal spray.
+- Do not take more than a total of 40 mg of IMITREX Nasal Spray in a 24‑hour period.
+- It is not known how using IMITREX Nasal Spray for a long time affects the nose and throat.
+- Some people who use too much IMITREX Nasal Spray may have worse headaches (medication overuse headache).
+  If your headaches get worse, your healthcare provider may decide to stop your treatment with IMITREX Nasal Spray.
+- If you use too much IMITREX Nasal Spray, call your healthcare provider or go to the nearest hospital emergency room right away.
+- You should write down when you have headaches and when you take IMITREX Nasal Spray so you can talk with your healthcare provider about how IMITREX Nasal Spray is working for you.
 
-If your healthcare provider decides to stop your treatment, do not keep any leftover medicine unless your healthcare provider tells you to.
+What should I avoid while taking IMITREX Nasal Spray?
 
-Some possible side effects of IMITREX Nasal Spray
+IMITREX Nasal Spray can cause dizziness, weakness, or drowsiness.
+If you have these symptoms, do not drive a car, use machinery, or do anything where you need to be alert.
 
-- Some patients feel pain or tightness in the chest or throat when using IMITREX Nasal Spray.
-  If this happens to you, tell your healthcare provider before taking any more IMITREX Nasal Spray.
-  If the chest pain, tightness, or pressure is severe or does not go away, call your healthcare provider right away.
-- Call your healthcare provider right away if you have sudden and/or severe abdominal pain after you take IMITREX Nasal Spray.
-- Some people may have a reaction called serotonin syndrome when they take certain kinds of medicines for depression called SSRIs or SNRIs while they are taking IMITREX Nasal Spray.
-  Symptoms may include confusion, hallucinations, fast heartbeat, feeling faint, fever, sweating, muscle spasm, difficulty walking, and/or diarrhea.
-  Call your healthcare provider right away if you have any of these symptoms after taking IMITREX Nasal Spray.
-- Shortness of breath; wheeziness; heart throbbing; swelling of eyelids, face, or lips; or a skin rash, skin lumps, or hives happens rarely.
-  If it happens to you, then tell your healthcare provider right away.
-  Do not take any more IMITREX Nasal Spray unless your healthcare provider tells you to.
-- Some people may feel tingling, heat, flushing (redness of face lasting a short time), heaviness, or pressure after taking IMITREX Nasal Spray.
-  A few people may feel drowsy, dizzy, tired, sick, or may experience nasal irritation.
-  If you have any of these symptoms, tell your healthcare provider at your next visit.
-- If you feel unwell in any other way or have any symptoms that you do not understand, you should contact your healthcare provider right away.
+What are the possible side effects of IMITREX Nasal Spray?
 
-IMITREX and PAXIL are registered trademarks of GlaxoSmithKline.
+IMITREX Nasal Spray may cause serious side effects.
+See “What is the most important information I should know about IMITREX Nasal Spray?”
+
+These serious side effects include:
+
+- changes in color or sensation in your fingers and toes (Raynaud’s syndrome)
+- stomach and intestinal problems (gastrointestinal and colonic ischemic events).
+  Symptoms of gastrointestinal and colonic ischemic events include:
+  - sudden or severe stomach pain
+  - stomach pain after meals
+  - weight loss
+  - nausea or vomiting
+  - constipation or diarrhea
+  - bloody diarrhea
+  - fever
+- problems with blood circulation to your legs and feet (peripheral vascular ischemia).
+  Symptoms of peripheral vascular ischemia include:
+  - cramping and pain in your legs or hips
+  - feeling of heaviness or tightness in your leg muscles
+  - burning or aching pain in your feet or toes while resting
+  - numbness, tingling, or weakness in your legs
+  - cold feeling or color changes in 1 or both legs or feet
+- shortness of breath or wheezing
+- hives (itchy bumps); swelling of your tongue, mouth, or throat
+
+The most common side effects of IMITREX Nasal Spray include:
+
+- dizziness
+- warm, hot, burning feeling to your face (flushing)
+- discomfort of your neck, throat, or nose
+- unusual or bad taste in your mouth
+- feeling weak, drowsy, or tired
+- sensitivity to loud noises
+
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+
+These are not all the possible side effects of IMITREX Nasal Spray.
+For more information, ask your healthcare provider or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+How should I store IMITREX Nasal Spray?
+
+- Store between 36°F to 86°F (2°C to 30°C).
+- Store your medicine away from light.
+
+Keep IMITREX Nasal Spray and all medicines out of the reach of children.
+
+General information about the safe and effective use of IMITREX Nasal Spray.
+
+Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets.
+Do not use IMITREX Nasal Spray for a condition for which it was not prescribed.
+Do not give IMITREX Nasal Spray to other people, even if they have the same symptoms you have.
+It may harm them.
+
+This Patient Information leaflet summarizes the most important information about IMITREX Nasal Spray.
+If you would like more information, talk with your healthcare provider.
+You can ask your healthcare provider or pharmacist for information about IMITREX Nasal Spray that is written for healthcare professionals.
+
+For more information, go to www.gsk.com or call 1-888-825-5249.
+
+What are the ingredients in IMITREX Nasal Spray?
+
+Active ingredient: sumatriptan
+
+Inactive ingredients: monobasic potassium phosphate NF, anhydrous dibasic sodium phosphate USP, sulfuric acid NF, sodium hydroxide NF, and purified water USP.
+
+imitrex, AMERGE, and TREXIMET are registered trademarks of GlaxoSmithKline.
 The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2010, GlaxoSmithKline.
+©2012, GlaxoSmithKline.
 All rights reserved.
 
-February 2010
+March 2012
 
-IMN:2PIL
+IMN:3PIL
