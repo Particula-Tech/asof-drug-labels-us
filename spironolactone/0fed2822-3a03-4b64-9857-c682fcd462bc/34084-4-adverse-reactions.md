@@ -5,7 +5,7 @@ The following adverse reactions have been reported and, within each category (bo
 Digestive: Gastric bleeding, ulceration, gastritis, diarrhea and cramping, nausea, vomiting.
 
 Endocrine: Gynecomastia (see Precautions), inability to achieve or maintain erection, irregular menses or amenorrhea, postmenopausal bleeding.
-Carcinoma of the breast has been reported in patients taking Aldactone but a cause and effect relationship has not been established.
+Carcinoma of the breast has been reported in patients taking ALDACTONE but a cause and effect relationship has not been established.
 
 Hematologic: Agranulocytosis.
 
@@ -15,6 +15,8 @@ Metabolism: Hyperkalemia (see Warnings and Precautions).
 
 Nervous system /psychiatric: Mental confusion, ataxia, headache, drowsiness, lethargy.
 
-Liver / biliary: A very few cases of mixed cholestatic/hepatocellular toxicity, with one reported fatality, have been reported with Aldactone administration.
+Liver / biliary: A very few cases of mixed cholestatic/hepatocellular toxicity, with one reported fatality, have been reported with ALDACTONE administration.
 
 Renal: Renal dysfunction (including renal failure).
+
+Skin: Stevens-Johnson Syndrome, toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms (DRESS).

@@ -2,43 +2,43 @@
 
 ## Primary hyperaldosteronism
 
-Aldactone may be employed as an initial diagnostic measure to provide presumptive evidence of primary hyperaldosteronism while patients are on normal diets.
+ALDACTONE may be employed as an initial diagnostic measure to provide presumptive evidence of primary hyperaldosteronism while patients are on normal diets.
 
 ### Long test
 
-Aldactone is administered at a daily dosage of 400 mg for three to four weeks.
+ALDACTONE is administered at a daily dosage of 400 mg for three to four weeks.
 Correction of hypokalemia and of hypertension provides presumptive evidence for the diagnosis of primary hyperaldosteronism.
 
 ### Short test
 
-Aldactone is administered at a daily dosage of 400 mg for four days.
-If serum potassium increases during Aldactone administration but drops when Aldactone is discontinued, a presumptive diagnosis of primary hyperaldosteronism should be considered.
+ALDACTONE is administered at a daily dosage of 400 mg for four days.
+If serum potassium increases during ALDACTONE administration but drops when ALDACTONE is discontinued, a presumptive diagnosis of primary hyperaldosteronism should be considered.
 
-After the diagnosis of hyperaldosteronism has been established by more definitive testing procedures, Aldactone may be administered in doses of 100 to 400 mg daily in preparation for surgery.
-For patients who are considered unsuitable for surgery, Aldactone may be employed for long-term maintenance therapy at the lowest effective dosage determined for the individual patient.
+After the diagnosis of hyperaldosteronism has been established by more definitive testing procedures, ALDACTONE may be administered in doses of 100 to 400 mg daily in preparation for surgery.
+For patients who are considered unsuitable for surgery, ALDACTONE may be employed for long-term maintenance therapy at the lowest effective dosage determined for the individual patient.
 
 ## Edema in adults (congestive heart failure, hepatic cirrhosis, or nephrotic syndrome)
 
-An initial daily dosage of 100 mg of Aldactone administered in either single or divided doses is recommended, but may range from 25 to 200 mg daily.
-When given as the sole agent for diuresis, Aldactone should be continued for at least five days at the initial dosage level, after which it may be adjusted to the optimal therapeutic or maintenance level administered in either single or divided daily doses.
-If, after five days, an adequate diuretic response to Aldactone has not occurred, a second diuretic which acts more proximally in the renal tubule may be added to the regimen.
-Because of the additive effect of Aldactone when administered concurrently with such diuretics, an enhanced diuresis usually begins on the first day of combined treatment; combined therapy is indicated when more rapid diuresis is desired.
-The dosage of Aldactone should remain unchanged when other diuretic therapy is added.
+An initial daily dosage of 100 mg of ALDACTONE administered in either single or divided doses is recommended, but may range from 25 to 200 mg daily.
+When given as the sole agent for diuresis, ALDACTONE should be continued for at least five days at the initial dosage level, after which it may be adjusted to the optimal therapeutic or maintenance level administered in either single or divided daily doses.
+If, after five days, an adequate diuretic response to ALDACTONE has not occurred, a second diuretic that acts more proximally in the renal tubule may be added to the regimen.
+Because of the additive effect of ALDACTONE when administered concurrently with such diuretics, an enhanced diuresis usually begins on the first day of combined treatment; combined therapy is indicated when more rapid diuresis is desired.
+The dosage of ALDACTONE should remain unchanged when other diuretic therapy is added.
 
 ## Essential hypertension
 
-For adults, an initial daily dosage of 50 to 100 mg of Aldactone administered in either single or divided doses is recommended.
-Aldactone may also be given with diuretics which act more proximally in the renal tubule or with other antihypertensive agents.
-Treatment with Aldactone should be continued for at least two weeks, since the maximum response may not occur before this time.
+For adults, an initial daily dosage of 50 to 100 mg of ALDACTONE administered in either single or divided doses is recommended.
+ALDACTONE may also be given with diuretics that act more proximally in the renal tubule or with other antihypertensive agents.
+Treatment with ALDACTONE should be continued for at least two weeks since the maximum response may not occur before this time.
 Subsequently, dosage should be adjusted according to the response of the patient.
 
 ## Hypokalemia
 
-Aldactone in a dosage ranging from 25 mg to 100 mg daily is useful in treating a diuretic-induced hypokalemia, when oral potassium supplements or other potassium-sparing regimens are considered inappropriate.
+ALDACTONE in a dosage ranging from 25 mg to 100 mg daily is useful in treating a diuretic-induced hypokalemia, when oral potassium supplements or other potassium-sparing regimens are considered inappropriate.
 
 ## Severe heart failure (NYHA class III – IV)
 
-Treatment should be initiated with Aldactone 25 mg once daily if the patient's serum potassium is ≤5.0 mEq/L and the patient's serum creatinine is ≤ 2.5 mg/dL.
+Treatment should be initiated with ALDACTONE 25 mg once daily if the patient's serum potassium is ≤5.0 mEq/L and the patient's serum creatinine is ≤ 2.5 mg/dL.
 Patients who tolerate 25 mg once daily may have their dosage increased to 50 mg once daily as clinically indicated.
-Patients who do not tolerate 25 mg once-daily dose may have their dosage reduced to 25 mg every other day.
-SEE WARNINGS: Hyperkalemia in patients with severe heart failure for advice on monitoring serum potassium and serum creatinine.
+Patients who do not tolerate 25 mg once daily may have their dosage reduced to 25 mg every other day.
+See Warnings: Hyperkalemia in patients with severe heart failure for advice on monitoring serum potassium and serum creatinine.

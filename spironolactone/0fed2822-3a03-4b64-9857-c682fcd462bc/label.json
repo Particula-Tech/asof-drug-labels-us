@@ -3,15 +3,11 @@
     "NDA012151"
   ],
   "inn": "spironolactone",
-  "labeler": "G.D. Searle, LLC Divison of Pfizer Inc",
+  "labeler": "G.D. Searle LLC Divison of Pfizer Inc",
   "package_ndcs": [
     "0025-1001-31",
-    "0025-1001-51",
-    "0025-1001-55",
     "0025-1031-31",
-    "0025-1031-34",
-    "0025-1041-31",
-    "0025-1041-34"
+    "0025-1041-31"
   ],
   "products": [
     {
