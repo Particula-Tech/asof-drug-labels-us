@@ -1,10 +1,10 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-IMPLANON® (etonogestrel implant) should not be used in women who have
+IMPLANON should not be used in women who have
 
 - Known or suspected pregnancy
 - Current or past history of thrombosis or thromboembolic disorders
-- Hepatic tumors (benign or malignant), active liver disease
+- Liver tumors, benign or malignant, or active liver disease
 - Undiagnosed abnormal genital bleeding
-- Known or suspected carcinoma of the breast or personal history of breast cancer
-- Hypersensitivity to any of the components of IMPLANON
+- Known or suspected breast cancer, personal history of breast cancer, or other progestin-sensitive cancer, now or in the past
+- Allergic reaction to any of the components of IMPLANON [see Adverse Reactions (6)]

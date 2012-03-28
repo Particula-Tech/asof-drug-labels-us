@@ -1,177 +1,99 @@
-68 mg
+Manufactured by: N.V.
+Organon, Oss, The Netherlands, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-For Subdermal Use Only
+Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Women should be informed that this product does not protect against infection from HIV (the virus that causes AIDS) or other sexually transmitted diseases.
+Copyright © 2006, 2009, 2012 N.V.
+Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Rx only
+Revised: 03/2012
 
-# INSTRUCTIONS FOR INSERTION AND REMOVAL
+900415-IMP-IPT-USPI.6
 
-The basis for successful use and subsequent removal of IMPLANON® (etonogestrel implant) is a correct and carefully performed subdermal insertion of the single rod implant in accordance with the instructions.
-If the implant is placed improperly leading to deep location or migration, it will be more difficult to remove than a correctly placed subdermal implant.
-All healthcare providers performing insertions and removals of IMPLANON must receive instruction and training, and where appropriate, supervision prior to inserting or removing IMPLANON.
+Manufactured by: N.V.
+Organon, Oss, The Netherlands, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Information concerning the insertion and removal of IMPLANON will be sent upon request free of charge [Telephone: 1-877-IMPLANON (1-877-467-5266)].
+Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-## INSERTION PROCEDURE
+Copyright © 2012 N.V.
+Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Prior to inserting IMPLANON® (etonogestrel implant) carefully read the instructions for insertion and removal as well as the full prescribing information.
+Revised: 03/2012
 
-Place IMPLANON subdermally.
-Both you and your patient should be able to feel IMPLANON under her skin after placement.
+900415-IMP-IPT-PPI.6
 
-Follow instructions carefully.
-All healthcare providers must receive training before inserting or removing IMPLANON.
-Proper IMPLANON insertion will facilitate removal.
-Correct timing of insertion is important (see DOSAGE AND ADMINISTRATION, When to Insert IMPLANON section).
-Perform a history and physical examination, including a gynecologic examination, before IMPLANON insertion.
-Ensure that the patient understands the risks and benefits of IMPLANON before insertion.
-Provide the patient with a copy of the Patient labeling included in packaging.
-Have the patient review and complete a consent form and maintain it with the patient's chart.
+IMPLANON® (etonogestrel implant) 68 mg For Subdermal Use Only
 
-Exclude pregnancy before insertion.
+PATIENT CONSENT FORM
 
-Insert IMPLANON under aseptic conditions.
+I understand the Patient Labeling for IMPLANON®.
+I have discussed IMPLANON with my healthcare provider who answered all my questions.
+I understand that there are benefits as well as risks from using IMPLANON.
+I understand that there are other birth control methods and that each has its own benefits and risks.
 
-The following equipment is needed for IMPLANON insertion
+I also understand that this Patient Consent Form is important.
+I understand that I need to sign this form to show that I am making an informed and careful decision to use IMPLANON, and that I have read and understand the following points.
 
-- An examination table for the patient to lie on
-- Sterile surgical drapes, talc-free sterile gloves, antiseptic solution, sterile marker (optional)
-- Local anesthetic, needles, and syringe
-- Sterile gauze, adhesive bandage, pressure bandage
+- IMPLANON helps to keep me from getting pregnant.
+- No contraceptive method is 100% effective, including IMPLANON.
+- IMPLANON is made of a hormone mixed in a plastic rod.
+- It is important to have IMPLANON inserted at the right time of my menstrual cycle.
+- After IMPLANON is inserted, I should check that it is in place by gently pressing my fingertips over the skin in my arm where IMPLANON was inserted.
+  I should be able to feel the small rod.
+- IMPLANON must be removed at the end of 3 years.
+  IMPLANON can be removed sooner if I want.
+- If I have trouble finding a healthcare provider to remove IMPLANON, I can call (877) 467-5266 for help.
+- IMPLANON is placed under the skin of my arm during a procedure done in my healthcare provider's office.
+  There is a slight risk of getting a scar or an infection from this procedure.
+- Removal is usually a small office procedure.
+  However, removal may be difficult.
+  Rarely, IMPLANON cannot be found when it is time to remove it.
+  Special procedures, including surgery in the hospital, may be needed.
+  Difficult removals may cause pain and scarring and may result in damage to nerves and blood vessels.
+  If IMPLANON cannot be found, its effects may continue.
+- Most women have changes in their menstrual bleeding while using IMPLANON.
+  I also will likely have changes in my menstrual bleeding while using IMPLANON.
+  My bleeding may be irregular, lighter or heavier, or my bleeding may completely stop.
+  If I think I am pregnant, I should see my healthcare provider as soon as possible.
+- I understand the warning signs for problems with IMPLANON.
+  I should seek medical attention if any warning signs appear.
+- I should tell all my healthcare providers that I am using IMPLANON.
+- I need to have a medical checkup regularly and at any time I am having problems.
+- IMPLANON does not protect me from HIV infection (AIDS) or any other sexually transmitted disease.
 
-An applicator and its parts are shown below (see Figures 3a and 3b).
+After learning about IMPLANON, I choose to use IMPLANON.
 
-| FIGURE 3a: (Not to scale) |
-| --- |
+| _______________________________ |  |
+| --- | --- |
+| (Name of Healthcare Provider) |  |
 
-|  | FIGURE 3b |  |  |
-| --- | --- | --- | --- |
-|  |  | Grooved tip of obturator (enlarged) |  |
+| _______________________________ |  | _______________ |
+| --- | --- | --- |
+| (Patient Signature) |  | (Date) |
 
-The procedure used for IMPLANON insertion is opposite from that of an injection.
-The obturator keeps IMPLANON in place while the cannula is retracted.
-The obturator must remain fixed in place while the cannula with needle is retracted from the arm.
-Do not push the obturator.
+WITNESSED BY:
 
-1. Confirm that the patient does not have allergies to IMPLANON, as well as the antiseptic and anesthetic to be used during insertion.
-2. Have the patient lie on her back on the examination table with her nondominant arm flexed at the elbow and externally rotated so that her wrist is parallel to her ear or her hand is positioned next to her head (see Figure 4).
-   FIGURE 4
-3. Identify the insertion site, which is at the inner side of the nondominant upper arm about 8 to 10 cm (3–4 inches) above the medial epicondyle of the humerus (see Figure 5).
-   IMPLANON should be inserted subdermally just under the skin to avoid the large blood vessels and nerves that lie deeper in the subcutaneous tissue of the sulcus between the biceps and triceps muscles.
-4. Mark the insertion site with a sterile marker.
-   Make 2 marks: first, mark the spot where the IMPLANON rod will be inserted, and second, mark a spot a few centimeters proximal to the first mark (see Figure 5).
-   This second mark will later serve as a direction guide during IMPLANON insertion.
-   FIGURE 5
-5. Clean the insertion site with an antiseptic solution.
-6. Anesthetize the insertion area (for example, with anesthetic spray or by injecting 2 cc of 1% lidocaine just under the skin along the planned insertion tunnel).
-7. Carefully remove the IMPLANON applicator from its blister.
-   Keep the shield on the needle and look for the IMPLANON rod, seen as a white cylinder inside the needle tip.
-8. If you don't see the IMPLANON rod, tap the top of the needle shield against a firm surface to bring the implant into the needle tip.
-9. Following visual confirmation, lower the IMPLANON rod back into the needle by tapping it back into the needle tip.
-   Then remove the needle shield, while holding the applicator upright.
-10. Note that IMPLANON can fall out of the needle.
-    Therefore, after you remove the needle shield, keep the applicator in the upright position until the moment of insertion.
-11. Keep the IMPLANON needle and rod sterile.
-    If contamination occurs, use a new package of IMPLANON with a new sterile applicator.
-12. Apply counter-traction to the skin around the proposed insertion (see Figure 6).
-    FIGURE 6
-13. At a slight angle (not greater than 20°), insert only the tip of the needle with the beveled side up into the insertion site (see Figure 7).
-    FIGURE 7
-14. Lower the applicator to a horizontal position.
-    Lift the skin up with the tip of the needle, but keep the needle in the subdermal connective tissue (see Figure 8).
-    FIGURE 8
-15. While "tenting" (lifting) the skin, gently insert the needle to its full length.
-    Keep the needle parallel to the surface of the skin during insertion (see Figure 9).
-    FIGURE 9
-16. If IMPLANON is placed too deeply, the removal process can be difficult or impossible.
-    If the needle is not inserted to its full length, the implant may protrude from the insertion site and fall out.
-17. Break the seal of the applicator by pressing the obturator support (see Figure 10).
-    FIGURE 10
-18. Turn the obturator 90° in either direction with respect to the needle (see Figure 11).
-    FIGURE 11
-19. While holding the obturator fixed in place on the arm, fully retract the cannula (see Figure 12).
-    Note: This procedure is opposite from an injection.
-    Do not push the obturator.
-    By holding the obturator fixed in place on the arm and fully retracting the cannula, IMPLANON will be left in its correct subdermal position.
-    Do not simultaneously retract the obturator and cannula from the patient's arm.
-    FIGURE 12 In this figure, the right hand is holding the obturator in place while the left hand is retracting the cannula.
-20. Confirm that IMPLANON has been inserted by checking the tip of needle for the absence of IMPLANON.
-    After IMPLANON insertion, the grooved tip of the obturator will be visible inside the needle (see Figure 13).
-    FIGURE 13
-21. Always verify the presence of IMPLANON in the patient's arm immediately after insertion by palpation.
-    By palpating both ends of the implant, you should be able to confirm the presence of the 4-cm rod.
-22. Place a small adhesive bandage over the insertion site.
-    Request that the patient palpate IMPLANON.
-23. If you cannot feel IMPLANON as a 4-cm long rod, confirm its presence using other methods.
-    Suitable methods to locate IMPLANON are: ultrasound (US) with a high-frequency linear array transducer (10 MHz or greater) or magnetic resonance imaging (MRI).
-    Please note that the IMPLANON rod is not radio-opaque and cannot be seen by X-ray or CT scan.
-    If ultrasound and MRI fail, call 1-877-IMPLANON (1-877-467-5266) for information on the procedure for measuring ENG blood levels.
-    Until you confirm proper IMPLANON insertion, your patient must use a nonhormonal contraceptive method.
-24. Apply a pressure bandage with sterile gauze to minimize bruising.
-    The patient may remove the pressure bandage in 24 hours and the small bandage over the insertion site in 3 to 5 days.
-25. Complete the USER CARD and give it to the patient to keep.
-    Also, complete the Patient Chart Label and affix it to the patient's medical record.
-26. The applicator is for single use only.
-    Dispose of the applicator in accordance with the Center for Disease Control and Prevention guidelines for handling of hazardous waste.
+The patient above has signed this consent in my presence after I counseled her and answered her questions.
 
-## REMOVAL PROCEDURE
+| _______________________________ |  | _______________ |
+| --- | --- | --- |
+| (Healthcare Provider Signature) |  | (Date) |
 
-Before initiating the removal procedure, the healthcare provider may consult the USER CARD that is kept by the patient and/or the Patient Chart Label.
-The arm in which IMPLANON® (etonogestrel implant) is located should be indicated on the USER CARD and the Patient Chart Label.
-IMPLANON should have been inserted in the medial aspect of the upper nondominant arm.
-Prior to removing IMPLANON, carefully read the instructions for removal.
-Find IMPLANON by palpation.
-If IMPLANON cannot be palpated, use either ultrasound with a high-frequency linear array transducer (10 MHz or greater) or magnetic resonance imaging to localize the implant.
-Consider conducting difficult removals with ultrasound guidance.
-Only remove a nonpalpable implant once the location of IMPLANON has been established.
-If these imaging methods fail, call 1-877-IMPLANON (1-877-467-5266) for further instructions.
+I have provided an accurate translation of this information to the patient whose signature appears above.
+She has stated that she understands the information and has had an opportunity to have her questions answered.
 
-There have been occasional reports of migration of the implant; usually this involves minor movement relative to the original position.
-This may complicate localization of the implant by palpation, ultrasound, or magnetic resonance imaging, and removal may require a larger incision and more time.
+| _______________________________ |  | ______________ |
+| --- | --- | --- |
+| (Signature of Translator) |  | (Date) |
 
-Exploratory surgery without knowledge of the exact location of the implant is strongly discouraged.
-Removal of deeply inserted implants should be conducted with caution, in order to prevent damage to deeper neural or vascular structures in the arm, and be performed by healthcare providers familiar with the anatomy of the arm.
+Manufactured by: N.V.
+Organon, Oss, The Netherlands, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
-The patient's position for removal is similar to the position for insertion.
-Use aseptic technique.
+Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
-The following equipment is needed for removal
+Copyright © 2006, 2009 N.V.
+Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-- An examination table for the patient to lie on
-- Sterile surgical drapes, talc-free sterile gloves, antiseptic solution, sterile marker (optional)
-- Local anesthetic, needles, and syringe
-- Sterile scalpel, forceps (straight and curved mosquito)
-- Skin closure, sterile gauze, adhesive bandage, and pressure bandages
+Revised: March 2012
 
-1. IMPLANON must only be removed by a healthcare provider who has been instructed and trained in the IMPLANON removal technique.
-2. The arm in which IMPLANON is located should be indicated on the USER CARD and the Patient Chart Label.
-   IMPLANON should be in the medial aspect of the upper nondominant arm.
-3. After confirming that the patient does not have any allergies to the antiseptic, wash the patient's arm and apply an antiseptic.
-   Locate IMPLANON by palpation and mark the end closest to the elbow, for example, with a sterile marker (see Figure a). FIGURE a
-4. After determining the absence of allergies to the anesthetic agent or related drugs, anesthetize the arm, for example, with 0.5 to 1 cc 1% lidocaine at the site where the incision will be made (near the tip of IMPLANON that is closest to the elbow) (see Figure b). Be sure to inject the local anesthetic under IMPLANON to keep the implant close to the skin surface.
-   FIGURE b
-5. Make a 2- to 3-mm incision in the longitudinal direction of the arm at the tip of the implant closest to the elbow (see Figure c). FIGURE c
-6. Gently push IMPLANON toward the incision until the tip is visible.
-   Grasp the implant with forceps (preferably curved mosquito forceps) and pull it out gently (see Figure d). FIGURE d
-7. If IMPLANON is encapsulated, make an incision into the tissue sheath and then remove IMPLANON with the forceps (see Figures e and f). FIGURE eFIGURE f
-8. If the tip of the implant is still not visible after gently pushing it towards the incision (as in step 6), gently insert a forceps into the incision and grasp the implant (see Figures g and h). Turn the forceps around (see Figure h). FIGURE gFIGURE h
-9. With a second forceps carefully dissect the tissue around IMPLANON and then remove IMPLANON (see Figure i). Be sure to remove the IMPLANON rod entirely.
-   Confirm that the entire rod, which is 4 cm long, has been removed by measuring its length.
-   FIGURE i If the patient would like to continue using IMPLANON, insert a new IMPLANON rod immediately after the old IMPLANON rod is removed.
-   The new IMPLANON can be inserted in the same arm, and through the same incision, or a new IMPLANON can be inserted in the other arm.
-   If the patient does not wish to continue using IMPLANON and does not want to become pregnant, recommend another contraceptive method.
-10. After removing IMPLANON, close the incision with a butterfly closure and apply an adhesive bandage.
-11. Apply a pressure bandage with sterile gauze to minimize bruising.
-
-Manufactured by N.V.
-Organon, Oss, The Netherlands.
-Distributed by Schering Corporation, a subsidiary of Schering-Plough Corporation, Kenilworth, NJ 07033 USA.
-
-© 2006, 2009, Schering Corporation.
-All rights reserved.
-Rev.
-3/09
-
-33293704T
+900415-IMP-IPT-PCF.2
