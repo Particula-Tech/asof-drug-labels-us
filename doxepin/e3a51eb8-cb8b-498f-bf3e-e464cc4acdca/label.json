@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020126"
+  ],
   "inn": "doxepin",
-  "labeler": "DOAK DERMATOLOGICS",
+  "labeler": "PharmaDerm A division of Fougera Pharmaceuticals Inc.",
   "package_ndcs": [
     "10337-804-03",
     "10337-804-45"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "doxepin hydrochloride",
+      "name": "Zonalon"
+    }
+  ],
   "setid": "e3a51eb8-cb8b-498f-bf3e-e464cc4acdca",
   "source": "dailymed"
 }

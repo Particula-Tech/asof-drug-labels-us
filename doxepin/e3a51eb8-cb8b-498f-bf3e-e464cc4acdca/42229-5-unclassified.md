@@ -2,12 +2,11 @@ FOR TOPICAL DERMATOLOGIC USE ONLY — NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL 
 
 Rx Only
 
-Manufactured for:
+November 2010
 
-Derm/arts Division Doak Dermatologics A subsidiary of Bradley Pharmaceuticals, Inc.
-
-383 Route 46 West Fairfield, NJ 07004-2402
+Manufactured for: PharmaDerm® A division of Fougera PHARMACEUTICALS INC. Melville, New York 11747 www.pharaderm.com
 
 Manufactured by: DPT Laboratories, Ltd. San Antonio, Texas 78215
 
-Rev 05/05 IL208-R2
+IL208B Rev.
+10/11

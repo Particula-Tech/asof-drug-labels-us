@@ -1,0 +1,37 @@
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 30 G CONTAINER
+
+Rx only
+
+NDC 10337-804-03
+
+ZONALON®
+
+(doxepin hydrochloride), 5%
+
+CREAM
+
+FOR TOPICAL DERMATOLOGIC USE ONLY
+
+Net Wt.
+30 g
+
+PharmaDerm®
+
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 30 G CARTON
+
+Rx only
+
+NDC 10337-804-03
+
+ZONALON®
+
+(doxepin hydrochloride), 5%
+
+CREAM
+
+FOR TOPICAL DERMATOLOGIC USE ONLY
+
+Net Wt.
+30 g
+
+PharmaDerm®
