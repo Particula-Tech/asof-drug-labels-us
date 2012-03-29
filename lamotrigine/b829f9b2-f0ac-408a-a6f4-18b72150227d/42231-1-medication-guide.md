@@ -1,4 +1,4 @@
-MEDICATION GUIDE Lamotrigine Tablets, USP
+MEDICATION GUIDE Lamotrigine Tablets, USP (la moe' tri jeen)
 
 Read this Medication Guide before you start taking lamotrigine and each time you get a refill.
 There may be new information.
@@ -199,4 +199,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
 
-Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 26110 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: January, 2012
+Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 26110 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: March, 2012

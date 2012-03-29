@@ -12,7 +12,6 @@ Round, white tablets, scored on one side, embossed with "TARO" on one side and o
 | Unit dose packages of 100 | NDC 51672-4130-0 |
 
 Store at 20°-25°C (68°-77°F)[see USP Controlled Room Temperature] in a dry place.
-Meets USP Dissolution Test 1.
 
 Lamotrigine Tablets USP, 100 mg:
 
@@ -48,7 +47,6 @@ Round, light blue tablets, scored on one side, embossed with "TARO" on one side 
 | Unit dose packages of 100 | NDC 51672-4133-0 |
 
 Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature] in a dry place and protect from light.
-Meets USP Dissolution Test 1.
 
 Lamotrigine Starter Kit for Patients Taking Valproate
 
