@@ -1,8 +1,10 @@
-# Principal display panel
+Principal display panel
 
-Package Label – 12 mcg per capsule
+60 Capsules
 
-Rx Only NDC 0085-1401-01
+12 mcg per capsule
+
+NDC 0085-1401-01
 
 Foradil® Aerolizer®
 
@@ -12,4 +14,4 @@ FOR INHALATION USE ONLY
 
 Foradil® capsules for use with Aerolizer® Inhaler only
 
-60 Capsules
+Rx only

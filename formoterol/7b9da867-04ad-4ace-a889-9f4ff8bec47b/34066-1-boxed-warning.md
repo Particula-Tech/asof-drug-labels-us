@@ -1,8 +1,9 @@
-# WARNING: ASTHMA RELATED DEATH
+# WARNING: ASTHMA-RELATED DEATH
 
 Long-acting beta2-adrenergic agonists (LABA), such as formoterol the active ingredient in FORADIL AEROLIZER, increase the risk of asthma-related death.
-Data from a large placebo-controlled US study that compared the safety of another LABA (salmeterol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol.
-This finding with salmeterol is considered a class effect of LABA, including formoterol (see WARNINGS).
+Data from a large placebo controlled US study that compared the safety of another LABA (salmeterol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol.
+This finding with salmeterol is considered a class effect of LABA, including formoterol [see Warnings and Precautions (5.1)].
+
 Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
 
 Because of this risk, use of FORADIL AEROLIZER for the treatment of asthma without a concomitant long-term asthma control medication, such as an inhaled corticosteroid, is contraindicated.

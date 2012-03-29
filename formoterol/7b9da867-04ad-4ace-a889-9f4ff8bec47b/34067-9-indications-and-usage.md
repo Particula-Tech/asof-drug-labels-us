@@ -1,28 +1,36 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-## Asthma
+## 1.1 Treatment of Asthma
 
 FORADIL AEROLIZER is indicated for the treatment of asthma and in the prevention of bronchospasm only as concomitant therapy with a long-term asthma control medication, such as an inhaled corticosteroid, in adults and children 5 years of age and older with reversible obstructive airways disease, including patients with symptoms of nocturnal asthma.
 
-Long-acting beta2-adrenergic agonists (LABA), such as formoterol, the active ingredient in FORADIL AEROLIZER, increase the risk of asthma-related death (see WARNINGS).
+Long acting beta2-adrenergic agonists (LABA), such as formoterol, the active ingredient in FORADIL AEROLIZER, increase the risk of asthma-related death.
 Use of FORADIL AEROLIZER for the treatment of asthma without concomitant use of a long-term asthma control medication, such as an inhaled corticosteroid, is contraindicated.
 Use FORADIL AEROLIZER only as additional therapy for patients with asthma who are currently taking but are inadequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid.
 Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g. discontinue FORADIL AEROLIZER) if possible without loss of asthma control, and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
-Do not use FORADIL AEROLIZER for patients whose asthma is adequately controlled on low or medium dose inhaled corticosteroids.
+Do not use FORADIL AEROLIZER for patients whose asthma is adequately controlled on low or medium dose inhaled corticosteroids [see Contraindications (4) and Warnings and Precautions (5.1)].
 
-### Pediatric and Adolescent Patients
+Pediatric and Adolescent Patients
 
-Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients (see WARNINGS).
+Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 For pediatric and adolescent patients with asthma who require addition of a LABA to an inhaled corticosteroid, a fixed-dose combination product containing both an inhaled corticosteroid and LABA should ordinarily be used to ensure adherence with both drugs.
 In cases where use of a separate long-term asthma control medication (e.g. inhaled corticosteroid) and LABA is clinically indicated, appropriate steps must be taken to ensure adherence with both treatment components.
-If adherence cannot be assured, a fixed-dose combination product containing both an inhaled corticosteroid and LABA is recommended.
+If adherence cannot be assured, a fixed-dose combination product containing both an inhaled corticosteroid and LABA is recommended [see Warnings and Precautions (5.1)].
 
-## Exercise-Induced Bronchospasm
+Important Limitation of Use
 
-FORADIL AEROLIZER is also indicated for the acute prevention of exercise-induced bronchospasm (EIB) in adults and children 5 years of age and older, when administered on an occasional, as-needed basis.
+FORADIL AEROLIZER is NOT indicated for the relief of acute bronchospasm.
+
+## 1.2 Prevention of Exercise-Induced Bronchospasm
+
+FORADIL AEROLIZER is also indicated for the acute prevention of exercise-induced bronchospasm in adults and children 5 years of age and older, when administered on an occasional, as-needed basis.
 Use of FORADIL AEROLIZER as a single agent for the prevention of exercise-induced bronchospasm may be clinically indicated in patients who do not have persistent asthma.
 In patients with persistent asthma, use of FORADIL AEROLIZER for the prevention of exercise-induced bronchospasm may be clinically indicated, but the treatment of asthma should include a long-term asthma control medication, such as an inhaled corticosteroid.
 
-## Chronic Obstructive Pulmonary Disease
+## 1.3 Maintenance Treatment of Chronic Obstructive Pulmonary Disease
 
 FORADIL AEROLIZER is indicated for the long-term, twice daily (morning and evening) administration in the maintenance treatment of bronchoconstriction in patients with Chronic Obstructive Pulmonary Disease including chronic bronchitis and emphysema.
+
+Important Limitation of Use
+
+FORADIL AEROLIZER is NOT indicated for the relief of acute bronchospasm.

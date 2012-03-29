@@ -1,11 +1,12 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-FORADIL® AEROLIZER® consists of a capsule dosage form containing a dry powder formulation of FORADIL (formoterol fumarate) intended for oral inhalation only with the AEROLIZER Inhaler.
+FORADIL AEROLIZER consists of a dry powder formulation of formoterol fumarate intended for oral inhalation only with the AEROLIZER Inhaler.
+The inhalation powder is packaged in clear hard gelatin capsules.
 
-Each clear, hard gelatin capsule contains a dry powder blend of 12 mcg of formoterol fumarate and 25 mg of lactose (which contains trace levels of milk proteins) as a carrier.
+Each capsule contains a dry powder blend of 12 mcg of formoterol fumarate and 25 mg of lactose (which contains trace levels of milk proteins) as a carrier.
 
 The active component of FORADIL is formoterol fumarate, a racemate.
-Formoterol fumarate is a selective beta2-adrenergic bronchodilator.
+Formoterol fumarate is a selective beta2-adrenergic agonist.
 Its chemical name is (±)-2-hydroxy-5-[(1RS)-1-hydroxy-2-[[(1RS)-2-(4-methoxyphenyl)-1-methylethyl]-amino]ethyl]formanilide fumarate dihydrate; its structural formula is
 
 Formoterol fumarate has a molecular weight of 840.9, and its empirical formula is (C19H24N2O4)2•C4H4O4•2H2O.

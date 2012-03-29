@@ -1,8 +1,8 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
-Formoterol fumarate is a long-acting selective beta2-adrenergic receptor agonist (beta2-agonist).
+Formoterol fumarate is a long-acting beta2-adrenergic receptor agonist (beta2-agonist).
 Inhaled formoterol fumarate acts locally in the lung as a bronchodilator.
 In vitro studies have shown that formoterol has more than 200-fold greater agonist activity at beta2-receptors than at beta1-receptors.
 Although beta2-receptors are the predominant adrenergic receptors in bronchial smooth muscle and beta1-receptors are the predominant receptors in the heart, there are also beta2-receptors in the human heart comprising 10%-50% of the total beta-adrenergic receptors.
@@ -15,75 +15,9 @@ In vitro tests show that formoterol is an inhibitor of the release of mast cell 
 Formoterol also inhibits histamine-induced plasma albumin extravasation in anesthetized guinea pigs and inhibits allergen-induced eosinophil influx in dogs with airway hyper-responsiveness.
 The relevance of these in vitro and animal findings to humans is unknown.
 
-## Animal Pharmacology
+## 12.2 Pharmacodynamics
 
-Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta-agonists and methylxanthines are administered concurrently.
-The clinical significance of these findings is unknown.
-
-## Pharmacokinetics
-
-Information on the pharmacokinetics of formoterol in plasma has been obtained in healthy subjects by oral inhalation of doses higher than the recommended range and in Chronic Obstructive Pulmonary Disease (COPD) patients after oral inhalation of doses at and above the therapeutic dose.
-Urinary excretion of unchanged formoterol was used as an indirect measure of systemic exposure.
-Plasma drug disposition data parallel urinary excretion, and the elimination half-lives calculated for urine and plasma are similar.
-
-### Absorption
-
-Following inhalation of a single 120 mcg dose of formoterol fumarate by 12 healthy subjects, formoterol was rapidly absorbed into plasma, reaching a maximum drug concentration of 92 pg/mL within 5 minutes of dosing.
-In COPD patients treated for 12 weeks with formoterol fumarate 12 or 24 mcg b.i.d., the mean plasma concentrations of formoterol ranged between 4.0 and 8.8 pg/mL and 8.0 and 17.3 pg/mL, respectively, at 10 min, 2 h and 6 h post inhalation.
-
-Following inhalation of 12 to 96 mcg of formoterol fumarate by 10 healthy males, urinary excretion of both (R,R)- and (S,S)-enantiomers of formoterol increased proportionally to the dose.
-Thus, absorption of formoterol following inhalation appeared linear over the dose range studied.
-
-In a study in patients with asthma, when formoterol 12 or 24 mcg twice daily was given by oral inhalation for 4 weeks or 12 weeks, the accumulation index, based on the urinary excretion of unchanged formoterol ranged from 1.63 to 2.08 in comparison with the first dose.
-For COPD patients, when formoterol 12 or 24 mcg twice daily was given by oral inhalation for 12 weeks, the accumulation index, based on the urinary excretion of unchanged formoterol was 1.19 - 1.38.
-This suggests some accumulation of formoterol in plasma with multiple dosing.
-The excreted amounts of formoterol at steady-state were close to those predicted based on single-dose kinetics.
-As with many drug products for oral inhalation, it is likely that the majority of the inhaled formoterol fumarate delivered is swallowed and then absorbed from the gastrointestinal tract.
-
-### Distribution
-
-The binding of formoterol to human plasma proteins in vitro was 61%-64% at concentrations from 0.1 to 100 ng/mL.
-Binding to human serum albumin in vitro was 31%-38% over a range of 5 to 500 ng/mL.
-The concentrations of formoterol used to assess the plasma protein binding were higher than those achieved in plasma following inhalation of a single 120 mcg dose.
-
-### Metabolism
-
-Formoterol is metabolized primarily by direct glucuronidation at either the phenolic or aliphatic hydroxyl group and O-demethylation followed by glucuronide conjugation at either phenolic hydroxyl groups.
-Minor pathways involve sulfate conjugation of formoterol and deformylation followed by sulfate conjugation.
-The most prominent pathway involves direct conjugation at the phenolic hydroxyl group.
-The second major pathway involves O-demethylation followed by conjugation at the phenolic 2'-hydroxyl group.
-Four cytochrome P450 isozymes (CYP2D6, CYP2C19, CYP2C9 and CYP2A6) are involved in the O-demethylation of formoterol.
-Formoterol did not inhibit CYP450 enzymes at therapeutically relevant concentrations.
-Some patients may be deficient in CYP2D6 or 2C19 or both.
-Whether a deficiency in one or both of these isozymes results in elevated systemic exposure to formoterol or systemic adverse effects has not been adequately explored.
-
-### Excretion
-
-Following oral administration of 80 mcg of radiolabeled formoterol fumarate to 2 healthy subjects, 59%-62% of the radioactivity was eliminated in the urine and 32%-34% in the feces over a period of 104 hours.
-Renal clearance of formoterol from blood in these subjects was about 150 mL/min.
-Following inhalation of a 12 mcg or 24 mcg dose by 16 patients with asthma, about 10% and 15%-18% of the total dose was excreted in the urine as unchanged formoterol and direct conjugates of formoterol, respectively.
-Following inhalation of 12 mcg or 24 mcg dose by 18 patients with COPD the corresponding values were 7% and 6-9% of the dose, respectively.
-
-Based on plasma concentrations measured following inhalation of a single 120 mcg dose by 12 healthy subjects, the mean terminal elimination half-life was determined to be 10 hours.
-From urinary excretion rates measured in these subjects, the mean terminal elimination half-lives for the (R,R)- and (S,S)-enantiomers were determined to be 13.9 and 12.3 hours, respectively.
-The (R,R)- and (S,S)-enantiomers represented about 40% and 60% of unchanged drug excreted in the urine, respectively, following single inhaled doses between 12 and 120 mcg in healthy volunteers and single and repeated doses of 12 and 24 mcg in patients with asthma.
-Thus, the relative proportion of the two enantiomers remained constant over the dose range studied and there was no evidence of relative accumulation of one enantiomer over the other after repeated dosing.
-
-### Special Populations
-
-Gender: After correction for body weight, formoterol pharmacokinetics did not differ significantly between males and females.
-
-Geriatric and Pediatric: The pharmacokinetics of formoterol have not been studied in the elderly population, and limited data are available in pediatric patients.
-
-In a study of children with asthma who were 5 to 12 years of age, when formoterol fumarate 12 or 24 mcg was given twice daily by oral inhalation for 12 weeks, the accumulation index ranged from 1.18 to 1.84 based on urinary excretion of unchanged formoterol.
-Hence, the accumulation in children did not exceed that in adults, where the accumulation index ranged from 1.63 to 2.08 (see above).
-Approximately 6% and 6.5% to 9% of the dose was recovered in the urine of the children as unchanged and conjugated formoterol, respectively.
-
-Hepatic/Renal Impairment: The pharmacokinetics of formoterol have not been studied in subjects with hepatic or renal impairment.
-
-## Pharmacodynamics
-
-### Systemic Safety and Pharmacokinetic/Pharmacodynamic Relationships
+Systemic Safety and Pharmacokinetic/Pharmacodynamic Relationships
 
 The major adverse effects of inhaled beta2-agonists occur as a result of excessive activation of the systemic beta-adrenergic receptors.
 The most common adverse effects in adults and adolescents include skeletal muscle tremor and cramps, insomnia, tachycardia, decreases in plasma potassium, and increases in plasma glucose.
@@ -108,11 +42,11 @@ A subset of patients underwent continuous electrocardiographic monitoring during
 No important differences in ventricular or supraventricular ectopy between treatment groups were observed.
 In these two studies, the total number of patients with asthma exposed to any dose of FORADIL AEROLIZER who had continuous electrocardiographic monitoring was about 200.
 
-Continuous electrocardiographic monitoring was performed in an 8-week, randomized, double-blind, placebo controlled trial in 204 COPD patients treated with FORADIL AEROLIZER 12 mcg twice daily or placebo.
+Continuous electrocardiographic monitoring was performed in an 8-week, randomized, double-blind, and placebo controlled trial in 204 COPD patients treated with FORADIL AEROLIZER 12 mcg twice daily or placebo.
 Holter monitoring was used to evaluate predefined proarrhythmic events.
 Non-sustained ventricular tachycardia occurred in 2 (2.2%) of FORADIL AEROLIZER treated patients compared to none in the placebo group.
 An increase in ventricular premature beats (VPB) occurred in 3 (3.3 %) of FORADIL AEROLIZER treated patients compared to 2 (1.9%) in the placebo group.
-There were no events of sustained of ventricular tachycardia, ventricular flutter or fibrillation, or symptomatic runs of VPB.
+There were no events of sustained ventricular tachycardia, ventricular flutter or fibrillation, or symptomatic runs of VPB.
 One patient in the FORADIL AEROLIZER group had a serious adverse event of atrial flutter.
 
 The electrocardiographic effects of FORADIL AEROLIZER were evaluated versus placebo in a 12-month pivotal double-blind study of patients with COPD.
@@ -120,7 +54,7 @@ An analysis of ECG intervals was performed for patients who participated at stud
 ECGs were performed predose, and at 5-15 minutes and 2 hours post-dose at study baseline and after 3, 6 and 12 months of treatment.
 The results showed that there was no clinically meaningful acute or chronic effect on ECG intervals, including QTc, resulting from treatment with FORADIL AEROLIZER.
 
-### Tachyphylaxis/Tolerance
+Tachyphylaxis/Tolerance
 
 In a clinical study in 19 adult patients with mild asthma, the bronchoprotective effect of formoterol, as assessed by methacholine challenge, was studied following an initial dose of 24 mcg (twice the recommended dose) and after 2 weeks of 24 mcg twice daily.
 Tolerance to the bronchoprotective effects of formoterol was observed as evidenced by a diminished bronchoprotective effect on FEV1 after 2 weeks of dosing, with loss of protection at the end of the 12 hour dosing period.
@@ -129,3 +63,66 @@ Rebound bronchial hyper-responsiveness after cessation of chronic formoterol the
 
 In three large clinical trials in patients with asthma, while efficacy of formoterol versus placebo was maintained, a slightly reduced bronchodilatory response (as measured by 12-hour FEV1 AUC) was observed within the formoterol arms over time, particularly with the 24 mcg twice daily dose (twice the daily recommended dose).
 A similarly reduced FEV1 AUC over time was also noted in the albuterol treatment arms (180 mcg four times daily by metered-dose inhaler).
+
+## 12.3 Pharmacokinetics
+
+Information on the pharmacokinetics of formoterol in plasma has been obtained in healthy subjects by oral inhalation of doses higher than the recommended range and in Chronic Obstructive Pulmonary Disease (COPD) patients after oral inhalation of doses at and above the therapeutic dose.
+Urinary excretion of unchanged formoterol was used as an indirect measure of systemic exposure.
+Plasma drug disposition data parallel urinary excretion, and the elimination half-lives calculated for urine and plasma are similar.
+
+Absorption
+
+Following inhalation of a single 120 mcg dose of formoterol fumarate by 12 healthy subjects, formoterol was rapidly absorbed into plasma, reaching a maximum drug concentration of 92 pg/mL within 5 minutes of dosing.
+In COPD patients treated for 12 weeks with formoterol fumarate 12 or 24 mcg twice daily, the mean plasma concentrations of formoterol obtained at 10 min, 2 h and 6 h post inhalation ranged between 4.0 and 8.8 pg/mL and 8.0 and 17.3 pg/mL, respectively.
+
+Following inhalation of 12 to 96 mcg of formoterol fumarate by 10 healthy males, urinary excretion of both (R,R)- and (S,S)-enantiomers of formoterol increased proportionally to the dose.
+Thus, absorption of formoterol following inhalation appeared linear over the dose range studied.
+
+In a study in patients with asthma, when formoterol 12 or 24 mcg twice daily was given by oral inhalation for 4 weeks or 12 weeks, the accumulation index, based on the urinary excretion of unchanged formoterol ranged from 1.63 to 2.08 in comparison with the first dose.
+For COPD patients, when formoterol 12 or 24 mcg twice daily was given by oral inhalation for 12 weeks, the accumulation index, based on the urinary excretion of unchanged formoterol was 1.19 - 1.38.
+This suggests some accumulation of formoterol in plasma with multiple dosing.
+The excreted amounts of formoterol at steady-state were close to those predicted based on single-dose kinetics.
+As with many drug products for oral inhalation, it is likely that the majority of the inhaled formoterol fumarate delivered is swallowed and then absorbed from the gastrointestinal tract.
+
+Distribution
+
+The binding of formoterol to human plasma proteins in vitro was 61%-64% at concentrations from 0.1 to 100 ng/mL.
+Binding to human serum albumin in vitro was 31%-38% over a range of 5 to 500 ng/mL.
+The concentrations of formoterol used to assess the plasma protein binding were higher than those achieved in plasma following inhalation of a single 120 mcg dose.
+
+Metabolism
+
+Formoterol is metabolized primarily by direct glucuronidation at either the phenolic or aliphatic hydroxyl group and O-demethylation followed by glucuronide conjugation at either phenolic hydroxyl groups.
+Minor pathways involve sulfate conjugation of formoterol and deformylation followed by sulfate conjugation.
+The most prominent pathway involves direct conjugation at the phenolic hydroxyl group.
+The second major pathway involves O-demethylation followed by conjugation at the phenolic 2'-hydroxyl group.
+Four cytochrome P450 isozymes (CYP2D6, CYP2C19, CYP2C9 and CYP2A6) are involved in the O-demethylation of formoterol.
+Formoterol did not inhibit CYP450 enzymes at therapeutically relevant concentrations.
+Some patients may be deficient in CYP2D6 or 2C19 or both.
+Whether a deficiency in one or both of these isozymes results in elevated systemic exposure to formoterol or systemic adverse effects has not been adequately explored.
+
+Excretion
+
+Following oral administration of 80 mcg of radiolabeled formoterol fumarate to 2 healthy subjects, 59%-62% of the radioactivity was eliminated in the urine and 32%-34% in the feces over a period of 104 hours.
+Renal clearance of formoterol from blood in these subjects was about 150 mL/min.
+Following inhalation of a 12 mcg or 24 mcg dose by 16 patients with asthma, about 10% and 15%-18% of the total dose was excreted in the urine as unchanged formoterol and direct conjugates of formoterol, respectively.
+Following inhalation of 12 mcg or 24 mcg dose by 18 patients with COPD the corresponding values were 7% and 6-9% of the dose, respectively.
+
+Based on plasma concentrations measured following inhalation of a single 120 mcg dose by 12 healthy subjects, the mean terminal elimination half-life was determined to be 10 hours.
+From urinary excretion rates measured in these subjects, the mean terminal elimination half-lives for the (R,R)- and (S,S)-enantiomers were determined to be 13.9 and 12.3 hours, respectively.
+The (R,R)- and (S,S)-enantiomers represented about 40% and 60% of unchanged drug excreted in the urine, respectively, following single inhaled doses between 12 and 120 mcg in healthy volunteers and single and repeated doses of 12 and 24 mcg in patients with asthma.
+Thus, the relative proportion of the two enantiomers remained constant over the dose range studied and there was no evidence of relative accumulation of one enantiomer over the other after repeated dosing.
+
+Special Populations
+
+Gender: After correction for body weight, formoterol pharmacokinetics did not differ significantly between males and females.
+
+Geriatric and Pediatric: The pharmacokinetics of formoterol have not been studied in the elderly population, and limited data are available in pediatric patients.
+
+In a study of children with asthma who were 5 to 12 years of age, when formoterol fumarate 12 or 24 mcg was given twice daily by oral inhalation for 12 weeks, the accumulation index ranged from 1.18 to 1.84 based on urinary excretion of unchanged formoterol.
+Hence, the accumulation in children did not exceed that in adults, where the accumulation index ranged from 1.63 to 2.08 (see above).
+Approximately 6% and 6.5% to 9% of the dose was recovered in the urine of the children as unchanged and conjugated formoterol, respectively.
+
+Hepatic/Renal Impairment
+
+The pharmacokinetics of formoterol have not been studied in subjects with hepatic or renal impairment.
