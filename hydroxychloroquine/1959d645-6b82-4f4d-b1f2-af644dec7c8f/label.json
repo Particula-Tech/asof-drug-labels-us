@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA009768"
+  ],
   "inn": "hydroxychloroquine",
   "labeler": "sanofi-aventis U.S. LLC",
   "package_ndcs": [
     "0024-1562-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "hydroxychloroquine sulfate",
+      "name": "Plaquenil"
+    }
+  ],
   "setid": "1959d645-6b82-4f4d-b1f2-af644dec7c8f",
   "source": "dailymed"
 }

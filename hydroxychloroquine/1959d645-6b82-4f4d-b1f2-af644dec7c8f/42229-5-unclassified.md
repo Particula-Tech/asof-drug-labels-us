@@ -171,6 +171,6 @@ When gradual reduction of steroid dosage is indicated, it may be done by reducin
 
 sanofi-aventis U.S. LLC, Bridgewater, NJ 08807
 
-Revised October 2006
+Revised August 2009
 
-©2006 sanofi-aventis U.S. LLC
+©2009 sanofi-aventis U.S. LLC
