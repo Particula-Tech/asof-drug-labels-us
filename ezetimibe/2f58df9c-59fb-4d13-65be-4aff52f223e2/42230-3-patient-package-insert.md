@@ -133,8 +133,6 @@ Call your doctor right away if you have the following symptoms of liver problems
 - dark urine
 - yellowing of your skin or the whites of your eyes
 
-Increases in blood sugar levels have been reported with statins, including simvastatin.
-
 In clinical studies patients reported the following common side effects while taking VYTORIN: headache, muscle pain, and diarrhea (see What should I tell my doctor before and while taking VYTORIN?).
 
 The following side effects have been reported in general use with VYTORIN or with ezetimibe or simvastatin tablets (tablets that contain the active ingredients of VYTORIN):
