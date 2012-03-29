@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA022118"
+  ],
+  "inn": "fenofibrate",
+  "labeler": "Santarus, Inc.",
+  "package_ndcs": [
+    "68012-490-90",
+    "68012-495-07",
+    "68012-495-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "fenofibrate",
+      "name": "Fenoglide"
+    }
+  ],
+  "setid": "35e89d4e-45cf-4374-bf93-fca8d40d783b",
+  "source": "dailymed"
+}
