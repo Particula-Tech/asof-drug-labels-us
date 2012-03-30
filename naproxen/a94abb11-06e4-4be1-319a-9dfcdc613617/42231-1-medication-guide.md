@@ -6,21 +6,27 @@ TREXIMET®[trex' i-met] Tablets
 
 What is the most important information I should know about TREXIMET?
 
-TREXIMET, which contains sumatriptan and naproxen sodium [a nonsteroidal anti-inflammatory drug (NSAID)], may increase the chance of a heart attack or stroke that can lead to death.
-This chance increases:
+1.
+TREXIMET may increase your chance of a heart attack or stroke that can lead to death.
+TREXIMET contains 2 medicines: sumatriptan and naproxen sodium (a nonsteroidal anti-inflammatory drug [NSAID]).
+
+Your chance of a heart attack or stroke increases:
 
 - with longer use of NSAID medicines
-- in people who have heart disease.
+- if you have heart disease.
 
-NSAID-containing medicines, such as TREXIMET, should never be used right before or after a heart surgery called a coronary artery bypass graft (CABG).
+2.
+TREXIMET should never be used right before or after a heart surgery called a coronary artery bypass graft (CABG).
 
-NSAID-containing medicines, such as TREXIMET, can cause ulcers and bleeding in the stomach and intestines at any time during treatment.
+3.
+TREXIMET can cause ulcers and bleeding in the stomach and intestines at any time during your treatment.
+
 Ulcers and bleeding:
 
 - can happen without warning symptoms
 - may cause death.
 
-The chance of a person getting an ulcer or bleeding increases with:
+Your chance of getting an ulcer or bleeding increases with:
 
 - the use of medicines called steroid hormones (corticosteroids) and blood thinners (anticoagulants)
 - longer use
@@ -30,9 +36,10 @@ The chance of a person getting an ulcer or bleeding increases with:
 - older age
 - having poor health.
 
+4.
 TREXIMET is not recommended for people with risk factors for heart disease unless a heart exam is done and shows no problems.
 
-The risk factors for heart disease include:
+Risk factors for heart disease include:
 
 - high blood pressure
 - high cholesterol levels
@@ -43,6 +50,7 @@ The risk factors for heart disease include:
 - female who has gone through menopause
 - male over age 40.
 
+5.
 “Serotonin syndrome” is a serious and life-threatening problem that may occur with TREXIMET, especially if used with antidepressant medicines called selective serotonin reuptake inhibitors (SSRIs) or selective norepinephrine reuptake inhibitors (SNRIs).
 
 Commonly used SSRIs are:
@@ -58,9 +66,7 @@ Commonly used SSRIs are:
 Commonly used SNRIs are:
 
 - CYMBALTA® (duloxetine)
-- EFFEXOR® (venlafaxine).
-
-Call your healthcare provider if you have symptoms of serotonin syndrome, which include:
+- EFFEXOR® (venlafaxine).Call your healthcare provider if you have symptoms of serotonin syndrome, which include:
 
 - mental changes (hallucinations, agitation, coma)
 - fast heartbeat
@@ -70,12 +76,14 @@ Call your healthcare provider if you have symptoms of serotonin syndrome, which 
 - trouble walking
 - nausea, vomiting, diarrhea.
 
+6.
 TREXIMET should only be used:
 
 - exactly as prescribed
 - at the lowest dose possible for your treatment
 - for the shortest time needed.
 
+7.
 TREXIMET already contains an NSAID (naproxen).
 Do not use TREXIMET with other medicines to lessen pain or fever without talking to your healthcare provider first, because they may contain an NSAID also.
 
@@ -99,7 +107,6 @@ How should I take TREXIMET?
 Who should not take TREXIMET?
 
 Do not take TREXIMET right before or after heart bypass surgery.
-
 Do not take TREXIMET if you have or have had:
 
 - uncontrolled high blood pressure
@@ -131,7 +138,6 @@ Before starting TREXIMET, tell your healthcare provider about:
   Some medicines can interact with TREXIMET and cause serious side effects.
 
 Keep a list of your medicines to show to your healthcare provider.
-
 Before starting TREXIMET, tell your healthcare provider if you:
 
 - are pregnant, think you might be pregnant, or are trying to become pregnant.
@@ -175,7 +181,7 @@ These are not all of the side effects of TREXIMET.
 For more information ask your healthcare provider.
 
 Call your healthcare provider for medical advice about side effects.
-You may report side effects at FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store TREXIMET?
 
@@ -191,7 +197,7 @@ General information about TREXIMET
 - This Medication Guide contains the most important information about TREXIMET.
   If you would like more information, talk with your healthcare provider.
 - You can ask your healthcare provider for information written for healthcare professionals.
-- For more information call 1-888-825-5249 (toll-free), or visit www.TREXIMET.com.
+- For more information call 1-888-825-5249 (toll-free) or visit www.TREXIMET.com.
 
 What are the ingredients in TREXIMET?
 
@@ -201,10 +207,7 @@ Inactive ingredients: croscarmellose sodium, dextrose monohydrate, dibasic calci
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-June 2009 TRX:3MG
-
-TREXIMET is a trademark of GlaxoSmithKline.
-IMITREX, PARNATE, and PAXIL are registered trademarks of GlaxoSmithKline.
+TREXIMET, PARNATE, and PAXIL are registered trademarks of GlaxoSmithKline.
 
 The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
 The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
@@ -213,7 +216,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2011, GlaxoSmNovKline.
-All righ6s reserved.
+©2012, GlaxoSmithKline.
+All rights reserved.
 
-December 2011 TRX:7PI
+March 2012
+
+TRX:4MG

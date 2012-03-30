@@ -7,3 +7,18 @@ Corneal opacities were seen at the lowest dosage tested, 2 mg/kg/day, and were p
 Defects in the corneal epithelium were noted in a 60-week study.
 Earlier examinations for these toxicities were not conducted and no-effect doses were not established; the lowest dose tested is approximately 0.8 times the recommended human oral daily dose of 85 mg sumatriptan on a mg/m2 basis.
 There was evidence of alterations in corneal appearance on the first day of intranasal dosing to dogs at all doses tested.
+
+TREXIMET and IMITREX are registered trademarks of GlaxoSmithKline.
+
+ANAPROX is a registered trademark of F. Hoffmann-La Roche Ltd.
+
+GlaxoSmithKline
+
+Research Triangle Park, NC 27709
+
+©2012, GlaxoSmithKline.
+All rights reserved.
+
+March 2012
+
+TRX:8PI

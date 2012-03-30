@@ -83,7 +83,7 @@ Gender: In a pooled analysis of 5 pharmacokinetic studies, there was no effect o
 In a study comparing the pharmacokinetics of sumatriptan in females and males, no differences were observed between genders for AUC, Cmax, Tmax, and T½.
 
 Race: The effect of race on the pharmacokinetics of TREXIMET has not been studied.
-The systemic clearance and Cmax of sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.
+The systemic clearance and Cmaxof sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.
 
 ## Drug Interactions
 

@@ -155,7 +155,8 @@ For a given attack, if a patient does not respond to the first dose of TREXIMET,
 
 ## Hepatic Effects
 
-TREXIMET is contraindicated in patients with hepatic impairment (see CONTRAINDICATIONS and CLINICAL PHARMACOLOGY).A patient with symptoms and/or signs suggesting liver dysfunction or in whom an abnormal liver test has occurred should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with TREXIMET.
+TREXIMET is contraindicated in patients with hepatic impairment (see CONTRAINDICATIONS and CLINICAL PHARMACOLOGY).
+A patient with symptoms and/or signs suggesting liver dysfunction or in whom an abnormal liver test has occurred should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with TREXIMET.
 Borderline elevations of 1 or more liver tests may occur in up to 15% of patients who take NSAID-containing products.
 These abnormalities may progress, may remain essentially unchanged, or may be transient with continued therapy.
 Notable (3 times the upper limit of normal) elevations of SGPT (ALT) or SGOT (AST) have been reported in approximately 1% of patients in clinical trials with NSAIDs.
@@ -334,9 +335,6 @@ Because of this and the known effects of drugs of this class on the human fetal 
 There are no adequate and well-controlled studies in pregnant women.
 
 TREXIMET should not be used during pregnancy unless the potential benefit justifies the potential risk to the fetus.
-
-Pregnancy Registry: To monitor fetal outcomes of pregnant women exposed to TREXIMET, GlaxoSmithKline maintains a TREXIMET Pregnancy Registry.
-Physicians are encouraged to register patients as soon as possible after they become pregnant and (if possible) before the outcome of the pregnancy is known by calling (800) 336-2176.
 
 ## Labor and Delivery
 

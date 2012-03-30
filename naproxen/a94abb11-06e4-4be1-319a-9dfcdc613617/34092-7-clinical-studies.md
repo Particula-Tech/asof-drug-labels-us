@@ -23,9 +23,12 @@ Percentage of Patients With 2-Hour Pain Relief and Sustained Pain Free Following
 | Sustained Pain Free (2-24 Hours) |  |  |  |  |
 | Study 1 | 25%cn = 364 | 16%n = 361 | 10%n = 356 | 8%n = 360 |
 | Study 2 | 23%cn = 362 | 14%n = 362 | 10%n = 364 | 7%n = 382 |
-| ap values provided only for prespecified comparisons. |  |  |  |  |
-| bp<0.05 versus placebo and sumatriptan. |  |  |  |  |
-| cp<0.01 versus placebo, sumatriptan, and naproxen sodium. |  |  |  |  |
+
+aP values provided only for prespecified comparisons.
+
+bP<0.05 versus placebo and sumatriptan.
+
+cP<0.01 versus placebo, sumatriptan, and naproxen sodium.
 
 Note that comparisons of the performance of different drugs based upon results obtained in different clinical trials are never reliable.
 Because studies are generally conducted at different times, with different samples of patients, by different investigators, employing different criteria and/or different interpretations of the same criteria, under different conditions (dose, dosing regimen, etc.), quantitative estimates of treatment response and the timing of response may be expected to vary considerably from study to study.
@@ -35,6 +38,8 @@ The percentage of patients achieving initial headache pain relief within 2 hours
 Compared with placebo, there was a decreased incidence of photophobia, phonophobia, and nausea 2 hours after the administration of TREXIMET.
 The estimated probability of taking a rescue medication over the first 24 hours is shown in Figure 2.
 
-aPlot also includes patients who had no response to the initial dose.
+aKaplan-Meier plot based on data obtained in the 2 clinical controlled trials providing evidence of efficacy with patients not using additional treatments censored to 24 hours.
+Plot also includes patients who had no response to the initial dose.
+No rescue medication was allowed within 2 hours postdose.
 
 TREXIMET was more effective than placebo regardless of the presence of aura; duration of headache prior to treatment; gender, age, or weight of the patient; or concomitant use of oral contraceptives or common migraine prophylactic drugs (e.g., beta-blockers, anti-epileptic drugs, tricyclic antidepressants).
