@@ -1,6 +1,6 @@
 # CLINICAL STUDIES
 
-In an open-label, non-comparative, multicenter clinical study of LUPRON DEPOT 7.5 mg, 56 patients with stage D2 prostatic adenocarcinoma and no prior systemic treatment were enrolled.
+In an open-label, non-comparative, multicenter clinical study of LUPRON DEPOT 7.5 mg for 1-month administration, 56 patients with stage D2 prostatic adenocarcinoma and no prior systemic treatment were enrolled.
 The objectives were to determine if a 7.5 mg depot formulation of leuprolide injected once every 4 weeks would reduce and maintain serum testosterone to castrate range (≤50 ng/dL), to evaluate objective clinical response, and to assess the safety of the formulation.
 During the initial 24 weeks, serum testosterone was measured weekly, biweekly, or every four weeks and objective tumor response assessments were performed at Weeks 12 and 24.
 Once the patient completed the initial 24-week treatment phase, treatment continued at the investigator's discretion.

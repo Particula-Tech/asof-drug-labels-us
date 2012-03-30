@@ -1,7 +1,7 @@
 {
   "application_numbers": [
     "NDA019732",
-    "PART333"
+    "part333A"
   ],
   "inn": "leuprolide",
   "labeler": "Abbott Laboratories",
@@ -11,7 +11,7 @@
   "products": [
     {
       "form": "KIT",
-      "generic": "leuprolide acetate",
+      "generic": "leuprorelin acetate",
       "name": "Lupron Depot"
     }
   ],
