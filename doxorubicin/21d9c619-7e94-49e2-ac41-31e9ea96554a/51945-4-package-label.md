@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 20 mg Label
+PRINCIPAL DISPLAY PANEL - 20 mg Vial Carton
 
 NDC 59676-960-01
 
@@ -8,7 +8,13 @@ DOXIL® (doxorubicin HCl liposome injection)
 
 LIPOSOMAL FORMULATION DO NOT SUBSTITUTE
 
-Manufactured by: Ben Venue Laboratories, Inc. Bedford, OH 44146
+FOR INTRAVENOUS INFUSION ONLY
 
-Manufactured for: Centocor Ortho Biotech Products, L.P.
-Raritan, NJ 08869-0670
+Refrigerate, 2°-8°C (36°-46°F).
+Avoid freezing.
+
+Janssen
+
+alza
+
+An ALZA STEALTH® Technology Product

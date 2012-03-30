@@ -10,7 +10,7 @@ Refrigerate unopened vials of DOXIL at 2°–8°C (36°–46°F).
 Avoid freezing.
 Prolonged freezing may adversely affect liposomal drug products; however, short-term freezing (less than 1 month) does not appear to have a deleterious effect on DOXIL.
 
-The following packages of six individually cartoned vials are available:
+The following individually cartoned vials are available:
 
 Table 19
 

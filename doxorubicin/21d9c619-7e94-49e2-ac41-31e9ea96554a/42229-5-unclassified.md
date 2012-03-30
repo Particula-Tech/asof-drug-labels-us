@@ -1,8 +1,10 @@
+Product of Japan
+
 Manufactured by: Ben Venue Laboratories, Inc. Bedford, OH 44146
 
-Manufactured for: Centocor Ortho Biotech Products, LP Raritan, NJ 08869-0670 © COBPLP 2010
+Manufactured for: Janssen Products, LP Horsham, PA 19044 © Janssen Products, LP 2010
 
-{Package Eng.: To Add OBI Logo Here}
+Revised March 2012
 
 An ALZA STEALTH® Technology Product
 
