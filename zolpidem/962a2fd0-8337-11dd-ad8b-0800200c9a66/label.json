@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022328"
+  ],
+  "inn": "zolpidem",
+  "labeler": "Transcept Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "67213-175-01",
+    "67213-175-31",
+    "67213-350-01",
+    "67213-350-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "zolpidem tartrate",
+      "name": "Intermezzo"
+    }
+  ],
+  "setid": "962a2fd0-8337-11dd-ad8b-0800200c9a66",
+  "source": "dailymed"
+}
