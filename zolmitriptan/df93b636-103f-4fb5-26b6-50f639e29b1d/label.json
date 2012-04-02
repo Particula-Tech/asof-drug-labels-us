@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020768"
+  ],
+  "inn": "zolmitriptan",
+  "labeler": "Impax Laboratories, Inc.",
+  "package_ndcs": [
+    "64896-671-51",
+    "64896-672-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "zolmitriptan",
+      "name": "ZOMIG"
+    }
+  ],
+  "setid": "df93b636-103f-4fb5-26b6-50f639e29b1d",
+  "source": "dailymed"
+}
