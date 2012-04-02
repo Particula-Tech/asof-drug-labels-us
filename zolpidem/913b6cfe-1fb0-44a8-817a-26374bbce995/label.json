@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022328"
+  ],
+  "inn": "zolpidem",
+  "labeler": "Purdue Pharma LP",
+  "package_ndcs": [
+    "59011-255-05",
+    "59011-255-30",
+    "59011-256-05",
+    "59011-256-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "zolpidem tartrate",
+      "name": "INTERMEZZO"
+    }
+  ],
+  "setid": "913b6cfe-1fb0-44a8-817a-26374bbce995",
+  "source": "dailymed"
+}
