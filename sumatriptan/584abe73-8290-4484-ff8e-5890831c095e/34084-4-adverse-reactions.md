@@ -18,7 +18,7 @@ Treatment Emergent Adverse Events Reported by at Least 2% of Patients in Control
 
 | Adverse Event Type | Percent of Patients Reporting |  |  |  |
 | --- | --- | --- | --- | --- |
-| Placebo (N = 309) | IMITREX 25 mg (N = 417) | IMITREX 50 mg (N = 771) | IMITREX 100 mg (N = 437) |  |
+| Placebo(N = 309) | IMITREX25 mg(N = 417) | IMITREX50 mg(N = 771) | IMITREX100 mg(N = 437) |  |
 | Atypical sensations | 4% | 5% | 6% | 6% |
 | Paresthesia (all types) | 2% | 3% | 5% | 3% |
 | Sensation warm/cold | 2% | 3% | 2% | 3% |

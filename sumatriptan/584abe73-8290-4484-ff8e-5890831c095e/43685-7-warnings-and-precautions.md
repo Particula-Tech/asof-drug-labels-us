@@ -24,7 +24,7 @@ Considering the extent of use of sumatriptan in patients with migraine, the inci
 The fact that sumatriptan can cause coronary vasospasm, that some of these events have occurred in patients with no prior cardiac disease history and with documented absence of CAD, and the close proximity of the events to sumatriptan use support the conclusion that some of these cases were caused by the drug.
 In many cases, however, where there has been known underlying coronary artery disease, the relationship is uncertain.
 
-Premarketing Experience With Sumatriptan: Of 6,348 patients with migraine who participated in premarketing controlled and uncontrolled clinical trials of oral sumatriptan, 2 experienced clinical adverse events shortly after receiving oral sumatriptan that may have reflected coronary vasospasm.
+Premarketing Experience WithSumatriptan: Of 6,348 patients with migraine who participated in premarketing controlled and uncontrolled clinical trials of oral sumatriptan, 2 experienced clinical adverse events shortly after receiving oral sumatriptan that may have reflected coronary vasospasm.
 Neither of these adverse events was associated with a serious clinical outcome.
 
 Among the more than 1,900 patients with migraine who participated in premarketing controlled clinical trials of subcutaneous sumatriptan, there were 8 patients who sustained clinical events during or shortly after receiving sumatriptan that may have reflected coronary artery vasospasm.
@@ -33,7 +33,7 @@ Of these 8 patients, 4 had either findings suggestive of CAD or risk factors pre
 
 Among approximately 4,000 patients with migraine who participated in premarketing controlled and uncontrolled clinical trials of sumatriptan nasal spray, 1 patient experienced an asymptomatic subendocardial infarction possibly subsequent to a coronary vasospastic event.
 
-Postmarketing Experience With Sumatriptan: Serious cardiovascular events, some resulting in death, have been reported in association with the use of IMITREX Injection or IMITREX Tablets.
+Postmarketing Experience WithSumatriptan: Serious cardiovascular events, some resulting in death, have been reported in association with the use of IMITREX Injection or IMITREX Tablets.
 The uncontrolled nature of postmarketing surveillance, however, makes it impossible to determine definitively the proportion of the reported cases that were actually caused by sumatriptan or to reliably assess causation in individual cases.
 On clinical grounds, the longer the latency between the administration of IMITREX and the onset of the clinical event, the less likely the association is to be causative.
 Accordingly, interest has focused on events beginning within 1 hour of the administration of IMITREX.
@@ -60,9 +60,10 @@ Visual disorders may also be part of a migraine attack.
 
 ## Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome may occur with triptans, including treatment with IMITREX, particularly during combined use with selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs).
-If concomitant treatment with sumatriptan and an SSRI (e.g., fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram, escitalopram) or SNRI (e.g., venlafaxine, duloxetine) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+Serotonin syndrome may occur with triptans, including IMITREX, particularly during combined use with selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs).
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+The onset of symptoms can occur within minutes to hours of receiving a new or a greater dose of a serotonergic medication.
+Treatment with IMITREX should be discontinued if serotonin syndrome is suspected.
 
 ## Increase in Blood Pressure
 
@@ -101,20 +102,12 @@ There have been rare reports where patients received sumatriptan for severe head
 
 For a given attack, if a patient does not respond to the first dose of sumatriptan, the diagnosis of migraine should be reconsidered before administration of a second dose.
 
-Overuse of acute migraine treatments has been associated with the exacerbation of headache (medication overuse headache) in susceptible patients.
-Withdrawal of the treatment may be necessary.
+## Overuse
 
-## Binding to Melanin-Containing Tissues
-
-In rats treated with a single subcutaneous dose (0.5 mg/kg) or oral dose (2 mg/kg) of radiolabeled sumatriptan, the elimination half-life of radioactivity from the eye was 15 and 23 days, respectively, suggesting that sumatriptan and/or its metabolites bind to the melanin of the eye.
-Because there could be an accumulation in melanin-rich tissues over time, this raises the possibility that sumatriptan could cause toxicity in these tissues after extended use.
-However, no effects on the retina related to treatment with sumatriptan were noted in any of the oral or subcutaneous toxicity studies.
-Although no systematic monitoring of ophthalmologic function was undertaken in clinical trials, and no specific recommendations for ophthalmologic monitoring are offered, prescribers should be aware of the possibility of long-term ophthalmologic effects.
-
-## Corneal Opacities
-
-Sumatriptan causes corneal opacities and defects in the corneal epithelium in dogs; this raises the possibility that these changes may occur in humans.
-While patients were not systematically evaluated for these changes in clinical trials, and no specific recommendations for monitoring are being offered, prescribers should be aware of the possibility of these changes (see ANIMAL TOXICOLOGY).
+Overuse of acute migraine drugs (e.g., ergotamine, triptans, opioids, or a combination of drugs for 10 or more days per month) may lead to exacerbation of headache (medication overuse headache).
+Medication overuse headache may present as migraine-like daily headaches, or as a marked increase in frequency of migraine attacks.
+Detoxification of patients, including withdrawal of the overused drugs, and treatment of withdrawal symptoms (which often includes a transient worsening of headache) may be necessary.
+Migraine patients should be informed about the risks of medication overuse and encouraged to record headache frequency and drug use.
 
 ## Information for Patients
 
@@ -190,9 +183,6 @@ The highest no-effect dose for this effect was approximately 60 mg/kg/day, or 6 
 Oral treatment of pregnant rats with sumatriptan from gestational day 17 through postnatal day 21 demonstrated a decrease in pup survival measured at postnatal days 2, 4, and 20 at the dose of 1,000 mg/kg/day.
 The highest no-effect dose for this finding was 100 mg/kg/day, approximately 10 times the maximum single recommended human oral dose of 100 mg on a mg/m2 basis.
 In a similar study in rats by the subcutaneous route there was no increase in pup death at 81 mg/kg/day, the highest dose tested, which is equivalent to 8 times the maximum single recommended human oral dose of 100 mg on a mg/m2 basis.
-
-Pregnancy Registry: To monitor fetal outcomes of pregnant women exposed to IMITREX, GlaxoSmithKline maintains a Sumatriptan Pregnancy Registry.
-Physicians are encouraged to register patients by calling (800) 336-2176.
 
 ## Nursing Mothers
 

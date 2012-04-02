@@ -33,9 +33,9 @@ Percentage of Patients With Headache Response (No or Mild Pain) 2 and 4 Hours Fo
 | Study 3 | 17% 19% | 52%a 65%a | 54%a 72%a | 57%a 78%a |
 |  | (N = 47) | (N = 48) | (N = 46) | (N = 46) |
 
-ap<0.05 in comparison with placebo.
+aP<0.05 in comparison with placebo.
 
-bp<0.05 in comparison with 25 mg.
+bP<0.05 in comparison with 25 mg.
 
 The estimated probability of achieving an initial headache response over the 4 hours following treatment is depicted in Figure 1.
 
