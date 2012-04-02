@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA202513"
+  ],
+  "inn": "oxybutynin",
+  "labeler": "Watson Pharma, Inc.",
+  "package_ndcs": [
+    "52544-041-54"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "oxybutynin",
+      "name": "Gelnique"
+    }
+  ],
+  "setid": "c6754623-b14c-4fc3-8719-48eee3119156",
+  "source": "dailymed"
+}
