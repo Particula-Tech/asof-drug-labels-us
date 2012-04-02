@@ -35,7 +35,7 @@ Although dosage must be adjusted for the individual patient according to the res
 
 | METHOD OF ADMINISTRATION | FREQUENCY | RECOMMENDEDDOSE (based on150 lb [68 kg] patient) |
 | --- | --- | --- |
-| Deep Subcutaneous (Intrafat) Injection A different site shouldbe used for each injection to prevent the development of massive hematoma | Initial Dose | 5,000 units by IV injection, followed by 10,000 to 20,000 units of a concentrated solution, subcutaneously |
+| Deep Subcutaneous (Intrafat) Injection A different site should be used for each injection to prevent the development of massive hematoma | Initial Dose | 5,000 units by IV injection, followed by 10,000 to 20,000 units of a concentrated solution, subcutaneously |
 | Every 8 hours | 8,000 to 10,000 units of a concentrated solution |  |
 | orEvery 12 hours | 15,000 to 20,000 units of a concentrated solution |  |
 | Intermittent Intravenous Injection | Initial Dose | 10,000 units, either undiluted or in 50 to 100 mL of 0.9% Sodium Chloride Injection, USP |
@@ -45,15 +45,23 @@ Although dosage must be adjusted for the individual patient according to the res
 
 ## Pediatric Use
 
-Do not administer Heparin Sodium Injection, USP (porcine), preserved with benzyl alcohol, to neonates and infants (see CONTRAINDICATIONS, Pregnancy, Nursing Mothers, and Pediatric Use and PRECAUTIONS, Pediatric Use).
-When indicated, Heparin Sodium Injection, USP (porcine), preservative free should be used in neonates and infants.
+Use preservative-free HEPARIN SODIUM INJECTION in neonates and infants (see WARNINGS, Benzyl Alcohol Toxicity and PRECAUTIONS, Pediatric Use).
 
-Follow recommendations of appropriate pediatric reference texts.
-In general, the following dosage schedule may be used as a guideline:
+There are no adequate and well-controlled studies on heparin use in pediatric patients.
+Pediatric dosing recommendations are based on clinical experience.
+In general, the following dosage schedule may be used as a guideline in pediatric patients:
 
-Initial Dose: 50 units/kg (IV, infusion)
+Initial Dose 75 to 100 units/kg (IV bolus over 10 minutes)
 
-Maintenance Dose: 100 units/kg (IV, infusion) every four hours, or 20,000 units/m2/24 hours continuously
+Maintenance Dose Infants: 25 to 30 units/kg/hour;
+
+Infants < 2 months have the highest requirements (average 28 units/kg/hour)
+
+Children > 1 year of age: 18 to 20 units/kg/hour;
+
+Older children may require less heparin, similar to weight-adjusted adult dosage
+
+Monitoring Adjust heparin to maintain aPTT of 60 to 85 seconds, assuming this reflects an anti-Factor Xa level of 0.35 to 0.70.
 
 ## Geriatric Use
 

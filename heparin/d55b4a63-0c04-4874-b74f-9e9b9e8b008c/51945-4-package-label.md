@@ -1,251 +1,227 @@
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 1 mL Multiple Dose Vial Label
 
+Not for Lock Flush
+
 Heparin Sodium Injection, USP
 
-1,000 USP Units/mL
+1,000 USP units per mL
 
-For IV or SC Use Rx only
+For IV or SC use
 
-(Derived from Porcine Intestinal Mucosa)
+Rx only
 
-1 mL Multiple Dose Vial
-
-NOT for Lock Flush
+1 mL Multi-Dose Vial
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 1 mL Multiple Dose Vial Tray Label
 
 NDC 63323-540-01
 
-504001
-
 Heparin Sodium Injection, USP
 
-1,000 USP Units/mL
+1,000 USP units per mL
 
-For IV or SC Use Rx only
+For IV or SC use
 
-(Derived from Porcine Intestinal Mucosa)
+Rx only
 
-1 mL Multiple Dose Vial
-
-NOT for Lock Flush
+1 mL Multi-Dose Vial
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 1 mL Multiple Dose Vial Label
 
+Not for Lock Flush
+
 Heparin Sodium Injection, USP
 
-5,000 USP Units/mL
+5,000 USP units per mL
 
-For IV or SC Use Rx only
+For IV or SC use
 
-(Derived from Porcine Intestinal Mucosa)
+Rx only
 
-1 mL Multiple Dose Vial
-
-NOT for Lock Flush
+1 mL Multi-Dose Vial
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 1 mL Multiple Dose Vial Tray Label
 
 NDC 63323-262-01
 
-926201
-
 Heparin Sodium Injection, USP
 
-5,000 USP Units/mL
+5,000 USP units per mL
 
-For IV or SC Use Rx only
+For IV or SC use
 
-(Derived from Porcine Intestinal Mucosa)
+Rx only
 
-1 mL Multiple Dose Vial
-
-NOT for Lock Flush
+1 mL Multi-Dose Vial
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 1 mL Multiple Dose Vial Label
 
+Not for Lock Flush
+
 Heparin Sodium Injection, USP
 
-10,000 USP Units/mL
+10,000 USP units per mL
 
-For IV or SC Use Rx only
+For IV or SC use
 
-(Derived from Porcine Intestinal Mucosa)
+Rx only
 
-1 mL Multiple Dose Vial
-
-NOT for Lock Flush
+1 mL Multi-Dose Vial
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 1 mL Multiple Dose Vial Tray Label
 
 NDC 63323-542-01
 
-504201
-
 Heparin Sodium Injection, USP
 
-10,000 USP Units/mL
+10,000 USP units per mL
 
-For IV or SC Use Rx only
+For IV or SC use
 
-(Derived from Porcine Intestinal Mucosa)
+Rx only
 
-1 mL Multiple Dose Vial
-
-NOT for Lock Flush
+1 mL Multi-Dose Vial
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 4 mL Multiple Dose Vial Label
 
 NDC 63323-459-09
 
-504509
-
 Heparin Sodium Injection, USP
 
-10,000 USP Units/mL
+10,000 USP units per mL
 
-For IV or SC Use Rx only
+For IV or SC use
 
-(Derived from Porcine Intestinal Mucosa)
+Rx only
 
-Warning: Contains Benzyl Alcohol
-
-4 mL Multiple Dose Vial
-
-NOT for Lock Flush
+4 mL Multi-Dose Vial
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 4 mL Multiple Dose Vial Tray Label
 
 NDC 63323-459-09
 
-504509
-
 Heparin Sodium Injection, USP
 
-10,000 USP Units/mL
+10,000 USP units per mL
 
-For IV or SC Use Rx only
+For IV or SC use
 
-(Derived from Porcine Intestinal Mucosa)
+Rx only
 
-Warning: Contains Benzyl Alcohol
-
-4 mL Multiple Dose Vial
-
-NOT for Lock Flush
+4 mL Multi-Dose Vial
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 1 mL Multiple Dose Vial Label
 
+Not for Lock Flush
+
 Heparin Sodium Injection, USP
 
-20,000 USP Units/mL
+20,000 USP units per mL
 
-For IV or SC Use Rx only
+For IV or SC use
 
-(Derived from Porcine Intestinal Mucosa)
+Rx only
 
-1 mL Multiple Dose Vial
-
-NOT for Lock Flush
+1 mL Multi-Dose Vial
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 1 mL Multiple Dose Vial Tray Label
 
 NDC 63323-915-01
 
-915501
-
 Heparin Sodium Injection, USP
 
-20,000 USP Units/mL
+20,000 USP units per mL
 
-For IV or SC Use Rx only
+For IV or SC use
 
-(Derived from Porcine Intestinal Mucosa)
+Rx only
 
-1 mL Multiple Dose Vial
-
-NOT for Lock Flush
+1 mL Multi-Dose Vial
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 2 mL Single Dose Vial Label
 
+Not for Lock Flush
+
 Heparin Sodium Injection, USP
 
-1,000 USP Units/mL
+1,000 USP units per mL
 
-For IV or SC Use Preservative Free
+For IV or SC use
 
-(Derived from Porcine Intestinal Mucosa)
+Rx only
+
+Preservative Free
 
 2 mL Single Dose Vial
-
-NOT for Lock Flush
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 2 mL Single Dose Vial Tray Label
 
 NDC 63323-276-02
 
-27602
-
 Heparin Sodium Injection, USP
 
-1,000 USP Units/mL
+1,000 USP units per mL
 
-For IV or SC Use Rx only
+For IV or SC use
 
-(Derived from Porcine Intestinal Mucosa)
+Rx only
 
 2 mL Single Dose Vial
-
-NOT for Lock Flush
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 10 mL Multiple Dose Vial Label
 
 NDC 63323-047-10
 
-4710
+Heparin Sodium Injection, USP
+
+5,000 USP units per mL
+
+For IV or SC use
+
+Rx only
+
+10 mL Multi-Dose Vial
+
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 10 mL Multiple Dose Vial Label
+
+NDC 63323-047-10
 
 Heparin Sodium Injection, USP
 
-5,000 USP Units/mL
+5,000 USP units per mL
 
-For IV or SC Use Rx only
+For IV or SC use
 
-(Derived from Porcine Intestinal Mucosa)
+Rx only
 
-Warning: Contains Benzyl Alcohol
-
-10 mL Multiple Dose Vial
-
-NOT for Lock Flush
+10 mL Multi-Dose Vial
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 0.5 mL Single Dose Vial Label
 
+Not for Lock Flush
+
 Heparin Sodium Injection, USP
 
-5,000 USP units/0.5 mL
+5,000 USP units per 0.5 mL
 
-For IV or SC Use Preservative Free
+For IV or SC use
 
-(Derived from Porcine Intestinal Mucosa)
+Rx only
+
+Preservative Free
 
 0.5 mL Single Dose Vial
-
-NOT for Lock Flush
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Heparin 0.5 mL Single Dose Vial Tray Label
 
 NDC 63323-543-02
 
-504302
-
 Heparin Sodium Injection, USP
 
-5,000 USP units/0.5 mL
+5,000 USP units per 0.5 mL
 
-For IV or SC Use Rx only
+For IV or SC use
 
-(Derived from Porcine Intestinal Mucosa)
+Rx only
 
 0.5 mL Single Dose Vial
-
-NOT for Lock Flush
