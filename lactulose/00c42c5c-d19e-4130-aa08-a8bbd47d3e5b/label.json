@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090502"
+  ],
+  "inn": "lactulose",
+  "labeler": "Actavis Inc.",
+  "package_ndcs": [
+    "45963-438-64"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "lactulose",
+      "name": "Enulose"
+    }
+  ],
+  "setid": "00c42c5c-d19e-4130-aa08-a8bbd47d3e5b",
+  "source": "dailymed"
+}
