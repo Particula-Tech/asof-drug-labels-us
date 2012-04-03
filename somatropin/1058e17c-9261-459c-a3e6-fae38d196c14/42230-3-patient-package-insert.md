@@ -1207,7 +1207,6 @@ Call (1-888-668-6444) for assistance.
 
 - After the “0” in the display window lines up with the pointer, leave the needle under the skin for at least 6 seconds to make sure that you get your full dose.
   You can let go of the dose button while you wait.
-
 - Change the injection site using the injection procedure recommended by your healthcare provider.
 
 Important:
