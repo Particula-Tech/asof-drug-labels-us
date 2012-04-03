@@ -12,7 +12,7 @@ The most common adverse reactions that led to treatment discontinuation and occu
 
 All adverse clinical events (regardless of causality) reported in ≥2% of pravastatin-treated patients in placebo-controlled trials of up to 8 months duration are identified in Table 1:
 
-Table 1: Adverse Events in ≥2% of Patients Treated with Pravastatin 5 to 40 mg and an Incidence Greater Than Placebo in Short-Term Placebo-Controlled Trials (% of patients)
+Table 1: Adverse Events in ≥2% of Patients Treated with Pravastatin 5 to 40 mg and at an Incidence Greater Than Placebo in Short-Term Placebo-Controlled Trials (% of patients)
 
 | Body System/Event | 5 mg N=100 | 10 mg N=153 | 20 mg N=478 | 40 mg N=171 | Any Dose N=902 | Placebo N=411 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ The reports are generally nonserious, and reversible upon statin discontinuation
 
 Hypersensitivity: anaphylaxis, angioedema, lupus erythematosus-like syndrome, polymyalgia rheumatica, dermatomyositis, vasculitis, purpura, hemolytic anemia, positive ANA, ESR increase, arthritis, arthralgia, asthenia, photosensitivity, chills, malaise, toxic epidermal necrolysis, erythema multiforme (including Stevens-Johnson syndrome).
 
-Gastrointestinal: abdominal pain, constipation, pancreatitis, hepatitis (including chronic active hepatitis), cholestatic jaundice, fatty change in liver, cirrhosis, fulminant hepatic necrosis, hepatoma.
+Gastrointestinal: abdominal pain, constipation, pancreatitis, hepatitis (including chronic active hepatitis), cholestatic jaundice, fatty change in liver, cirrhosis, fulminant hepatic necrosis, hepatoma, fatal and non-fatal hepatic failure.
 
 Dermatologic: a variety of skin changes (e.g., nodules, discoloration, dryness of mucous membranes, changes to hair/nails).
 
