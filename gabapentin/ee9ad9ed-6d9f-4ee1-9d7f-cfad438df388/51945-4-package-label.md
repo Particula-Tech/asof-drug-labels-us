@@ -50,6 +50,8 @@ Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 470 mL Bottle Label
 
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
 NDC 0071-2012-23
 
 470 mL Rx only
