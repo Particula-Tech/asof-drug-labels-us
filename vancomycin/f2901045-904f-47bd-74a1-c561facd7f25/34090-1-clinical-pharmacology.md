@@ -3,6 +3,8 @@
 Vancomycin is poorly absorbed after oral administration; it is given intravenously for therapy of systemic infections.
 Intramuscular injection is painful.
 
+Vancomycin Hydrochloride for Injection, USP is administered intravenously for therapy of systemic infections.
+
 In subjects with normal kidney function, multiple intravenous dosing of 1 g of vancomycin (15 mg/kg) infused over 60 minutes produces mean plasma concentrations of approximately 63 mcg/mL immediately after the completion of infusion, mean plasma concentrations of approximately 23 mcg/mL two hours after infusion, and mean plasma concentrations of approximately 8 mcg/mL eleven hours after the end of the infusion.
 Multiple dosing of 500 mg infused over 30 minutes produces mean plasma concentrations of about 49 mcg/mL at the completion of infusion, mean plasma concentrations of about 19 mcg/mL two hours after infusion, and mean plasma concentrations of about 10 mcg/mL six hours after infusion.
 The plasma concentrations during multiple dosing are similar to those after a single dose.
@@ -22,35 +24,31 @@ However, the safety and efficacy of the intraperitoneal use of vancomycin has no
 Total systemic and renal clearance of vancomycin may be reduced in the elderly.
 
 Vancomycin is approximately 55% serum protein bound as measured by ultrafiltration at vancomycin serum concentrations of 10 to 100 mcg/mL.
-After I.V. administration of vancomycin, inhibitory concentrations are present in pleural, pericardial, ascitic, and synovial fluids; in urine; in peritoneal dialysis fluid; and in atrial appendage tissue.
-Vancomycin does not readily diffuse across normal meninges into the spinal fluid; but, when the meninges are inflamed, penetration into the spinal fluid occurs.
+After I.V. administration of vancomycin hydrochloride, inhibitory concentrations are present in pleural, pericardial, ascitic, and synovial fluids; in urine; in peritoneal dialysis fluid; and in atrial appendage tissue.
+Vancomycin hydrochloride does not readily diffuse across normal meninges into the spinal fluid; but, when the meninges are inflamed, penetration into the spinal fluid occurs.
 
-Microbiology- The bactericidal action of vancomycin results primarily from inhibition of cell-wall biosynthesis.
+Microbiology
+
+The bactericidal action of vancomycin results primarily from inhibition of cell-wall biosynthesis.
 In addition, vancomycin alters bacterial-cell-membrane permeability and RNA synthesis.
 There is no cross-resistance between vancomycin and other antibiotics.
 Vancomycin is not active in vitro against gram-negative bacilli, mycobacteria, or fungi.
 
-Synergy- The combination of vancomycin and an aminoglycoside acts synergistically in vitro against many strains of Staphylococcus aureus, Streptococcus bovis, enterococci, and the viridans group streptococci.
+Synergy
+
+The combination of vancomycin and an aminoglycoside acts synergistically in vitro against many strains of Staphylococcus aureus, Streptococcus bovis, enterococci, and the viridans group streptococci.
 
 Vancomycin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-Aerobic gram-positive microorganisms
+Gram-positive bacteria
 
 Diphtheroids
 
 Enterococci (e.g., Enterococcus faecalis)
 
-Staphylococci, including Staphylococcus aureus and Staphylococcus epidermidis (including heterogeneous methicillin-resistant strains)
+Staphylococci, including Staphylococcus aureus and Staphylococcus epidermidis (including heterogeneous methicillin-resistant strains) in adequate and well-controlled clinical trials.
 
-Streptococcus bovis
-
-Viridans group streptococci
-
-The following in vitro data are available, but their clinical significance is unknown.
-
-Vancomycin exhibits in vitro MIC's of 1 mcg/mL or less against most (≥ 90%) strains of streptococci listed below and MIC's of 4 mcg/mL or less against most (≥ 90%) strains of other listed microorganisms; however, the safety and effectiveness of vancomycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
-
-Aerobic gram-positive microorganisms
+Gram-positive bacteria
 
 Listeria monocytogenes
 
@@ -60,42 +58,44 @@ Streptococcus pneumoniae (including penicillin-resistant strains)
 
 Streptococcus agalactiae
 
-Anaerobic gram-positive microorganisms
+Anaerobic Gram-positive bacteria
 
 Actinomyces species
 
 Lactobacillus species
 
-Susceptibility Tests
+Susceptibility Test Methods
 
-Dilution Techniques:
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting the most effective antimicrobial.
+
+Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MIC's).
 These MIC's provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MIC's should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method1 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of vancomycin powder.
-The MIC values should be interpreted according to the following criteria:
+Standardized procedures are based on dilution method1,2 (broth, agar or microdilution) or equivalent using standardized inoculum and concentrations of vancomycin powder.
+The MIC values should be interpreted according to the criteria in Table 1.
 
-For testing aerobic microorganismsa other than streptococci:
+Diffusion Techniques
 
-| MIC (mcg/mL) | Interpretation |
-| --- | --- |
-| ≤4 | Susceptible (S) |
-| 8-16 | Intermediate (I) |
-| ≥32 | Resistant (R) |
+Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
+This procedure uses paper disks impregnated with 30-mcg of vancomycin to test the susceptibility of microorganisms to vancomycin.
+Interpretation involves correlation of the diameter obtained in the disk test with the MIC for vancomycin.
 
-a A beta-lactamase test using an inoculum ≥107 CFU/mL (or direct colony growth) and a nitrocefin-based substrate should be performed to detect either ampicillin or penicillin resistance among enterococci due to beta-lactamase production.
+Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30-mcg vancomycin disk should be interpreted according to the following criteria in Table 1.
 
-For testing streptococcib other than Streptococcus pneumoniae:
+Table 1: Susceptibility Test Interpretive Criteria for Vancomycin
 
-| MIC (mcg/mL) | Interpretation |
-| --- | --- |
-| ≤1 | Susceptible (S) |
-
-b Interpretative criteria applicable only to tests performed by broth microdilution method using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood1.
-
-The current absence of data on resistant strains precludes defining any categories other than “Susceptible”.
-Strains yielding MIC results suggestive of a “nonsusceptible” category should be submitted to a reference laboratory for further testing.
+| Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion Diameters (mm) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Susceptible (S) | Intermediate (I) | Resistant (R) | Susceptible (S) | Intermediate (I) | Resistant (R) |  |
+| Enterococci a | ≤4 | 8 – 16 | ≥32 | ≥17b | 15 – 16b | ≤14b |
+| Staphylococcus aureus | ≤2 | 4 – 8 | ≥16 | –– | –– | –– |
+| Coagulase-negative staphylococci | ≤4 | 8 – 16 | ≥32 | –– | –– | –– |
+| Streptococci other than S. pneumoniae | ≤1c,d | –– | –– | ≥17c,e | –– | –– |
+| a A ß-lactamase test using an inoculum ≥107 CFU/mL or direct colony growth and a nitrocefin-based substrate should be performed to detect either ampicillin or penicillin resistance due to ß-lactamase production. b Plates should be held for a full 24 hours and examined using transmitted light. The presence of a haze or any growth within the zone of inhibition indicates resistance. Those enterococci with intermediate zones of inhibition should be tested by a standardized procedure based on a dilution method1,2 (broth or agar) or equivalent. c The current absence of resistant isolates precludes defining results other than “Susceptible”. Isolates yielding results suggestive of “Nonsusceptible” should be submitted to a reference laboratory for further testing. d Interpretative criteria applicable only to tests performed by broth microdilution method using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood1,2. e Interpretative criteria applicable only to tests performed by disk diffusion method using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO23. |  |  |  |  |  |  |
 
 A report of “Susceptible” indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -103,67 +103,19 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of “Resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
 
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Standard vancomycin powder should provide the following MIC values:
+Quality Control
 
-| Microorganism |  | MIC (mcg/mL) |
+Standardized susceptibility test procedures require the use of laboratory control microorganisms to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.
+Standard vancomycin powder should provide MIC values provided below.
+For the diffusion technique, the 30 mcg vancomycin disk should provide the following zone diameters with the quality control strains:
+
+Table 2.
+In Vitro Susceptibility Test Quality Control Ranges for Vancomycin
+
+| Organism (ATTC #) | MIC range (mcg/mL) | Disk diffusion range (mm) |
 | --- | --- | --- |
-| Enterococcus faecalis | ATCC 29212 | 1-4 |
-| Staphylococcus aureus | ATCC 29213 | 0.5-2 |
-| Streptococcus pneumoniaea | ATCC 49619 | 0.12-0.5 |
-
-a Interpretative criteria applicable only to tests performed by broth microdilution method using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood1.
-
-Diffusion Techniques:
-
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure2 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 30-mcg vancomycin to test the susceptibility of microorganisms to vancomycin.
-
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 30-mcg vancomycin disk should be interpreted according to the following criteria:
-
-For testing aerobic microorganisms other than enterococci and streptococci:
-
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥15 | Susceptible (S) |
-| - | Intermediate (I) |
-| - | Resistant (R) |
-
-For testing enterococci a,b:
-
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥17 | Susceptible (S) |
-| 15-16 | Intermediate (I) |
-| ≤14 | Resistant (R) |
-
-a A direct nitrocefin-based beta-lactamase test using direct colony growth should be performed to detect either ampicillin or penicillin resistance among enterococci due to beta-lactamase production.
-
-b When testing for enterococci resistance to vancomycin, plates should be held for a full 24 hours and examined using transmitted light.
-The presence of a haze or any growth within the zone of inhibition indicates resistance.
-Those enterococci with intermediate zones of inhibition should be tested by a standardized procedure based on a dilution method1 (broth or agar) or equivalent.
-
-For testing streptococcic other than Streptococcus pneumoniae:
-
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥17 | Susceptible (S) |
-
-c Interpretative criteria applicable only to tests performed by disk diffusion method using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO22.
-
-The current absence of data on resistant strains precludes defining any categories other than "Susceptible".
-Strains yielding zone diameter results suggestive of a "nonsusceptible" category should be submitted to a reference laboratory for further testing.
-
-Interpretation should be as stated above for results using dilution techniques.
-Interpretation involves correlation of the diameter obtained in the disk test with the MIC for vancomycin.
-
-As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
-For the diffusion technique, the 30-mcg vancomycin disk should provide the following zone diameters in these laboratory test quality control strains:
-
-| Microorganism |  | Zone Diameter (mm) |
-| --- | --- | --- |
-| Staphylococcus aureus | ATCC 25923 | 17-21 |
-| Streptococcus pneumoniaea | ATCC 49619 | 20-27 |
-
-a Interpretative criteria applicable only to tests performed by disk diffusion method using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO22.
+| Enterococcus faecalis (29212) | 1 – 4 | Not applicable |
+| Staphylococcus aureus (29213) | 0.5 – 2 | Not applicable |
+| Staphylococcus aureus (25923) | Not applicable | 17 – 21 |
+| Streptococcus pneumoniae (49619)a | 0.12 – 0.5 | 20 – 27 |
+| a Interpretative criteria applicable only to tests performed using cation-adjusted Mueller-Hinton broth with 2 to 5% lysed horse blood1. Disk diffusion interpretive criteria applicable only to tests performed using Mueller-Hinton agar with 5% defibrinated sheep blood and incubated in 5% CO2. |  |  |
