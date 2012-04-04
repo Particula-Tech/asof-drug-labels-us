@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076725"
+  ],
   "inn": "midodrine",
-  "labeler": "UPSHER-SMITH LABORATORIES, INC.",
+  "labeler": "Upsher-Smith Laboratories Inc.",
   "package_ndcs": [
     "0245-0211-01",
     "0245-0211-11",
@@ -10,7 +12,13 @@
     "0245-0213-01",
     "0245-0213-11"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "midodrine hydrochloride",
+      "name": "Midodrine Hydrochloride"
+    }
+  ],
   "setid": "4c3517f3-1c68-4ade-b5f1-c488a3a335c1",
   "source": "dailymed"
 }
