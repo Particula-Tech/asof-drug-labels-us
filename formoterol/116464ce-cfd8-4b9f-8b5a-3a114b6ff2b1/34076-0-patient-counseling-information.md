@@ -1,10 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See Medication Guide.]
+See FDA-Approved Patient Labeling (Medication Guide).
 
 ## 17.1 Asthma-Related Death
-
-[See Medication Guide.]
 
 Patients should be informed that formoterol, one of the active ingredients in DULERA, increases the risk of asthma-related death.
 In pediatric and adolescent patients, formoterol may increase the risk of asthma-related hospitalization.

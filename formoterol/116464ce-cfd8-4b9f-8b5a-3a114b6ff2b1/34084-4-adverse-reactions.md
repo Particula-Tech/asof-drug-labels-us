@@ -49,4 +49,4 @@ No clinically significant changes in blood chemistry, hematology, or ECG were ob
 The following adverse reactions have been reported during post-approval use of DULERA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune system disorders: anaphylactic reaction
+Immune system disorders: anaphylactic reaction, angioedema

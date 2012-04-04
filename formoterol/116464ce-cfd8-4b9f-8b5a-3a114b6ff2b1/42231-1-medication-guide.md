@@ -153,7 +153,7 @@ DULERA can cause serious side effects, including:
   Call your healthcare provider or get emergency medical care if you get any of the following symptoms of a serious allergic reaction:
   - rash
   - hives
-  - swelling of the face, mouth, and tongue
+  - swelling, including swelling of the face, mouth, and tongue
   - breathing problems
 - Using too much of a LABA medicine may cause:
   - chest pain
@@ -188,11 +188,13 @@ Ask your healthcare provider or pharmacist for more information.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-You may also report side effects to Schering Corporation, a subsidiary of Merck & Co., Inc., at 1-800-526-4099.
+You may also report side effects to Schering Corporation, a subsidiary of Merck & Co., Inc., at 1-877-888-4231.
 
 How do I store DULERA?
 
 - Store DULERA at room temperature between 59°F to 86°F (15°C to 30°C).
+- The 120-actuation inhaler can be stored in any position.
+  For the 60-actuation inhaler, after priming, store the inhaler with the mouthpiece down or sideways.
 - The contents of your DULERA are under pressure.
   Do not puncture.
   Do not use or store near heat or open flame.
@@ -210,10 +212,10 @@ It may harm them.
 This Medication Guide summarizes the most important information about DULERA.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about DULERA that was written for healthcare professionals.
-For more information about DULERA, go to www.DULERA.com or call 1-800-526-4099.
+For more information about DULERA, go to www.DULERA.com or call 1-800-622-4477.
 
 What are the ingredients in DULERA?
 
 Active ingredients: mometasone furoate and formoterol fumarate dihydrate
 
-Inactive ingredient: hydrofluoroalkane (HFA-227), anhydrous alcohol and oleic acid
+Inactive ingredients: hydrofluoroalkane (HFA-227), anhydrous alcohol and oleic acid

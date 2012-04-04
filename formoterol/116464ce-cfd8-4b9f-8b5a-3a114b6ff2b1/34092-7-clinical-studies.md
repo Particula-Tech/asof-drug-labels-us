@@ -24,7 +24,7 @@ Figure 1 shows the change from baseline post-dose serial FEV1 evaluations in Tri
 
 | Figure 1 |
 | --- |
-| TRIAL 1 - DULERA 100 mcg/5 mcg - FEV1 Serial Evaluations for Observed Cases at Week 12 Change from Baseline by Treatment |
+| Trial 1 - DULERA 100 mcg/5 mcg - FEV1 Serial Evaluations for Observed Cases at Week 12 Change from Baseline by Treatment |
 | MF = Mometasone furoate F = Formoterol fumarate Mean FEV1 over 12 hours at Week 12 (shown as AVG) |
 
 Clinically judged deteriorations in asthma or reductions in lung function were assessed as another primary endpoint to evaluate the contribution of mometasone furoate 100 mcg to DULERA 100 mcg/5 mcg (primary treatment comparison DULERA vs. formoterol).
