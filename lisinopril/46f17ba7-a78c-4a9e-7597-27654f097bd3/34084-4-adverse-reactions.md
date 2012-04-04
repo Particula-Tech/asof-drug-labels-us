@@ -141,8 +141,6 @@ In patients with heart failure, hypotension occurred in 5.3% and syncope occurre
 These adverse experiences were possibly dose-related (see above data from ATLAS Trial) and caused discontinuation of therapy in 1.8% of these patients in the symptomatic trials.
 In patients treated with ZESTRIL for six weeks after acute myocardial infarction, hypotension (systolic blood pressure ≤100 mmHg) resulted in discontinuation of therapy in 9.7% of the patients (See WARNINGS).
 
-Fetal/Neonatal Morbidity and Mortality: See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
-
 Cough: See PRECAUTIONS, Cough
 
 Pediatric Patients: No relevant differences between the adverse experience profile for pediatric patients and that previously reported for adult patients were identified.
