@@ -21,7 +21,7 @@ Adverse Reactions Reported Over a 48-Month Period in ≥1% of Subjects and More 
 | Adverse Reaction | Adverse Reaction Time of Onset |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Year 1 |  | Year 2 | Year 3 | Year 4 |  |
-| Months 0-6 | Months 7-12 |  |  |  |  |
+| Months 0‑6 | Months 7‑12 |  |  |  |  |
 | Coadministrationa | (n = 1,610) | (n = 1,527) | (n = 1,428) | (n = 1,283) | (n = 1,200) |
 | Dutasteride | (n = 1,623) | (n = 1,548) | (n = 1,464) | (n = 1,325) | (n = 1,200) |
 | Tamsulosin | (n = 1,611) | (n = 1,545) | (n = 1,468) | (n = 1,281) | (n = 1,112) |
@@ -46,15 +46,15 @@ Adverse Reactions Reported Over a 48-Month Period in ≥1% of Subjects and More 
 | Dutasteride | 0.5% | 0.3% | 0.1% | <0.1% | <0.1% |
 | Tamsulosin | 0.9% | 0.5% | 0.4% | <0.1% | 0.0% |
 
-a Coadministration = AVODART 0.5 mg once daily plus tamsulosin 0.4 mg once daily.
+aCoadministration = AVODART 0.5 mg once daily plus tamsulosin 0.4 mg once daily.
 
 b Includes anorgasmia, retrograde ejaculation, semen volume decreased, orgasmic sensation decreased, orgasm abnormal, ejaculation delayed, ejaculation disorder, ejaculation failure, and premature ejaculation.
 
-c Includes erectile dysfunction and disturbance in sexual arousal.
+cIncludes erectile dysfunction and disturbance in sexual arousal.
 
 d Includes libido decreased, libido disorder, loss of libido, sexual dysfunction, and male sexual dysfunction.
 
-e Includes breast enlargement, gynecomastia, breast swelling, breast pain, breast tenderness, nipple pain, and nipple swelling.
+eIncludes breast enlargement, gynecomastia, breast swelling, breast pain, breast tenderness, nipple pain, and nipple swelling.
 
 Cardiac Failure: In CombAT, after 4 years of treatment, the incidence of the composite term cardiac failure in the coadministration group (12/1,610; 0.7%) was higher than in either monotherapy group: dutasteride, 2/1,623 (0.1%) and tamsulosin, 9/1,611 (0.6%).
 Composite cardiac failure was also examined in a separate 4-year placebo-controlled trial evaluating dutasteride in men at risk for development of prostate cancer.

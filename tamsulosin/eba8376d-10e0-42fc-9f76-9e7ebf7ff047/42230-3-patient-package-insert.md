@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-JALYN™ [JAY-LIN]
+JALYN™ [JAY-lin]
 
 (dutasteride and tamsulosin hydrochloride)
 
@@ -108,7 +108,7 @@ The most common side effects of JALYN include:
 Dutasteride, an ingredient of JALYN, has been shown to reduce sperm count, semen volume, and sperm movement.
 However, the effect of JALYN on male fertility is not known.
 
-Prostate Specific Antigen (PSA) Test: Your healthcare provider may check you for other prostate problems, including prostate cancer before you start and while you take JALYN.
+Prostate-Specific Antigen (PSA) Test: Your healthcare provider may check you for other prostate problems, including prostate cancer before you start and while you take JALYN.
 A blood test called PSA (prostate-specific antigen) is sometimes used to see if you might have prostate cancer.
 JALYN will reduce the amount of PSA measured in your blood.
 Your healthcare provider is aware of this effect and can still use PSA to see if you might have prostate cancer.
@@ -171,9 +171,9 @@ D-59320 Ennigerloh, Germany
 
 Distributed by GlaxoSmithKline Research Triangle Park, NC 27709
 
-©2011, GlaxoSmithKline.
+©2012, GlaxoSmithKline.
 All rights reserved.
 
-June 2011
+March 2012
 
-JLN:2PIL
+JLN:3PIL

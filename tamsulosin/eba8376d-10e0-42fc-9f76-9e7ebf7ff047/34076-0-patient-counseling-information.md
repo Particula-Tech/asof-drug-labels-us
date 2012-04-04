@@ -64,10 +64,10 @@ D-59320 Ennigerloh, Germany
 
 Distributed by GlaxoSmithKline Research Triangle Park, NC 27709
 
-©2011, GlaxoSmithKline.
+©2012, GlaxoSmithKline.
 All rights reserved.
 
-2011 JLN:PI
+March 2012 JLN:3PI
 
 PHARMACIST—DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 

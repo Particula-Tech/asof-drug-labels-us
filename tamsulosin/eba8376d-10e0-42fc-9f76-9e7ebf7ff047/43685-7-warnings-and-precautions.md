@@ -47,8 +47,8 @@ Whether the effect of 5 alpha-reductase inhibitors to reduce prostate volume, or
 
 ## 5.5 Evaluation for Other Urological Diseases
 
-Lower urinary tract symptoms of BPH can be indicative of other urological diseases, including prostate cancer.
-Patients should be assessed to rule out prostate cancer and other urological diseases prior to treatment with JALYN and periodically thereafter.
+Prior to initiating treatment with JALYN, consideration should be given to other urological conditions that may cause similar symptoms.
+In addition, BPH and prostate cancer may coexist.
 
 ## 5.6 Exposure of Women—Risk to Male Fetus
 

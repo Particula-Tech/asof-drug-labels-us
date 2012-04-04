@@ -129,7 +129,7 @@ In this single-dose study, dutasteride half-life increased with age (approximate
 Tamsulosin: Cross-study comparison of tamsulosin overall exposure (AUC) and half-life indicate that the pharmacokinetic disposition of tamsulosin may be slightly prolonged in geriatric males compared to young, healthy male volunteers.
 Intrinsic clearance is independent of tamsulosin binding to AAG, but diminishes with age, resulting in a 40% overall higher exposure (AUC) in subjects aged 55 to 75 years compared to subjects aged 20 to 32 years.
 
-Gender:Dutasteride: Dutasteride is contraindicated in pregnancy and women of childbearing potential and is not indicated for use in other women [see Contraindications (4), Warnings and Precautions (5.6)].
+Gender: Dutasteride: Dutasteride is contraindicated in pregnancy and women of childbearing potential and is not indicated for use in other women [see Contraindications (4), Warnings and Precautions (5.6)].
 The pharmacokinetics of dutasteride in women have not been studied.
 
 Tamsulosin: Tamsulosin is not indicated for use in women.
@@ -162,12 +162,12 @@ Tamsulosin has not been studied in patients with severe hepatic impairment.
 Drug Interactions: There have been no drug interaction studies using JALYN.
 The following text reflects information available for the individual components.
 
-Cytochrome P450 Inhibitors:Dutasteride: No clinical drug interaction studies have been performed to evaluate the impact of CYP3A enzyme inhibitors on dutasteride pharmacokinetics.
+Cytochrome P450 Inhibitors: Dutasteride: No clinical drug interaction studies have been performed to evaluate the impact of CYP3A enzyme inhibitors on dutasteride pharmacokinetics.
 However, based on in vitro data, blood concentrations of dutasteride may increase in the presence of inhibitors of CYP3A4/5 such as ritonavir, ketoconazole, verapamil, diltiazem, cimetidine, troleandomycin, and ciprofloxacin.
 
 Dutasteride does not inhibit the in vitro metabolism of model substrates for the major human cytochrome P450 isoenzymes (CYP1A2, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) at a concentration of 1,000 ng/mL, 25 times greater than steady-state serum concentrations in humans.
 
-Tamsulosin:Strong and Moderate Inhibitors of CYP3A4 or CYP2D6: The effects of ketoconazole (a strong inhibitor of CYP3A4) at 400 mg once daily for 5 days on the pharmacokinetics of a single tamsulosin hydrochloride capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range: 23 to 47 years).
+Tamsulosin: Strong and Moderate Inhibitors of CYP3A4 or CYP2D6: The effects of ketoconazole (a strong inhibitor of CYP3A4) at 400 mg once daily for 5 days on the pharmacokinetics of a single tamsulosin hydrochloride capsule 0.4 mg dose was investigated in 24 healthy volunteers (age range: 23 to 47 years).
 Concomitant treatment with ketoconazole resulted in increases in the Cmax and AUC of tamsulosin by factors of 2.2 and 2.8, respectively.
 The effects of concomitant administration of a moderate CYP3A4 inhibitor (e.g., erythromycin) on the pharmacokinetics of tamsulosin have not been evaluated.
 
@@ -185,7 +185,7 @@ However, there is a potential for significant increase in tamsulosin exposure wh
 Cimetidine: The effects of cimetidine at the highest recommended dose (400 mg every 6 hours for 6 days) on the pharmacokinetics of a single tamsulosin capsule 0.4 mg dose was investigated in 10 healthy volunteers (age range: 21 to 38 years).
 Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%).
 
-Alpha Adrenergic Antagonists:Dutasteride: In a single-sequence, crossover study in healthy volunteers, the administration of tamsulosin or terazosin in combination with dutasteride had no effect on the steady-state pharmacokinetics of either alpha-adrenergic antagonist.
+Alpha Adrenergic Antagonists: Dutasteride: In a single-sequence, crossover study in healthy volunteers, the administration of tamsulosin or terazosin in combination with dutasteride had no effect on the steady-state pharmacokinetics of either alpha-adrenergic antagonist.
 Although the effect of administration of tamsulosin or terazosin on dutasteride pharmacokinetic parameters was not evaluated, the percent change in DHT concentrations was similar for dutasteride, alone or in combination with tamsulosin or terazosin.
 
 Warfarin: Dutasteride: In a study of 23 healthy volunteers, 3 weeks of treatment with dutasteride 0.5 mg/day did not alter the steady-state pharmacokinetics of the S- or R-warfarin isomers or alter the effect of warfarin on prothrombin time when administered with warfarin.
@@ -194,21 +194,21 @@ Tamsulosin: A definitive drug-drug interaction study between tamsulosin and warf
 Results from limited in vitro and in vivo studies are inconclusive.
 Therefore, caution should be exercised with concomitant administration of warfarin and tamsulosin.
 
-Nifedipine, Atenolol, Enalapril:Tamsulosin: In 3 studies in hypertensive subjects (age range: 47 to 79 years) whose blood pressure was controlled with stable doses of nifedipine extended-release, atenolol, or enalapril for at least 3 months, tamsulosin hydrochloride capsules 0.4 mg for 7 days followed by tamsulosin hydrochloride capsules 0.8 mg for another 7 days (n = 8 per study) resulted in no clinically significant effects on blood pressure and pulse rate compared with placebo (n = 4 per study).
+Nifedipine, Atenolol, Enalapril: Tamsulosin: In 3 studies in hypertensive subjects (age range: 47 to 79 years) whose blood pressure was controlled with stable doses of nifedipine extended-release, atenolol, or enalapril for at least 3 months, tamsulosin hydrochloride capsules 0.4 mg for 7 days followed by tamsulosin hydrochloride capsules 0.8 mg for another 7 days (n = 8 per study) resulted in no clinically significant effects on blood pressure and pulse rate compared with placebo (n = 4 per study).
 Therefore, dosage adjustments are not necessary when tamsulosin is administered concomitantly with nifedipine extended-release, atenolol, or enalapril.
 
-Digoxin and Theophylline:Dutasteride: In a study of 20 healthy volunteers, dutasteride did not alter the steady-state pharmacokinetics of digoxin when administered concomitantly at a dose of 0.5 mg/day for 3 weeks.
+Digoxin and Theophylline: Dutasteride: In a study of 20 healthy volunteers, dutasteride did not alter the steady-state pharmacokinetics of digoxin when administered concomitantly at a dose of 0.5 mg/day for 3 weeks.
 
 Tamsulosin: In 2 studies in healthy volunteers (n = 10 per study; age range: 19 to 39 years) receiving tamsulosin capsules 0.4 mg/day for 2 days, followed by tamsulosin capsules 0.8 mg/day for 5 to 8 days, single intravenous doses of digoxin 0.5 mg or theophylline 5 mg/kg resulted in no change in the pharmacokinetics of digoxin or theophylline.
 Therefore, dosage adjustments are not necessary when a tamsulosin capsule is administered concomitantly with digoxin or theophylline.
 
-Furosemide:Tamsulosin: The pharmacokinetic and pharmacodynamic interaction between tamsulosin hydrochloride capsules 0.8 mg/day (steady-state) and furosemide 20 mg intravenously (single dose) was evaluated in 10 healthy volunteers (age range: 21 to 40 years).
+Furosemide: Tamsulosin: The pharmacokinetic and pharmacodynamic interaction between tamsulosin hydrochloride capsules 0.8 mg/day (steady-state) and furosemide 20 mg intravenously (single dose) was evaluated in 10 healthy volunteers (age range: 21 to 40 years).
 Tamsulosin had no effect on the pharmacodynamics (excretion of electrolytes) of furosemide.
 While furosemide produced an 11% to 12% reduction in tamsulosin Cmax and AUC, these changes are expected to be clinically insignificant and do not require dose adjustment for tamsulosin.
 
-Calcium Channel Antagonists:Dutasteride: In a population pharmacokinetics analysis, a decrease in clearance of dutasteride was noted when coadministered with the CYP3A4 inhibitors verapamil (-37%, n = 6) and diltiazem (-44%, n = 5).
+Calcium Channel Antagonists: Dutasteride: In a population pharmacokinetics analysis, a decrease in clearance of dutasteride was noted when coadministered with the CYP3A4 inhibitors verapamil (-37%, n = 6) and diltiazem (-44%, n = 5).
 In contrast, no decrease in clearance was seen when amlodipine, another calcium channel antagonist that is not a CYP3A4 inhibitor, was coadministered with dutasteride (+7%, n = 4).
 The decrease in clearance and subsequent increase in exposure to dutasteride in the presence of verapamil and diltiazem is not considered to be clinically significant.
 No dosage adjustment is recommended.
 
-Cholestyramine:Dutasteride: Administration of a single 5-mg dose of dutasteride followed 1 hour later by 12 g cholestyramine did not affect the relative bioavailability of dutasteride in 12 normal volunteers.
+Cholestyramine: Dutasteride: Administration of a single 5-mg dose of dutasteride followed 1 hour later by 12 g cholestyramine did not affect the relative bioavailability of dutasteride in 12 normal volunteers.
