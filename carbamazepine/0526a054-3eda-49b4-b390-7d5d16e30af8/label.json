@@ -1,0 +1,55 @@
+{
+  "application_numbers": [
+    "ANDA074649",
+    "ANDA075687",
+    "ANDA076729",
+    "ANDA078115"
+  ],
+  "inn": "carbamazepine",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-4005-1",
+    "51672-4005-2",
+    "51672-4005-3",
+    "51672-4041-0",
+    "51672-4041-1",
+    "51672-4041-2",
+    "51672-4041-9",
+    "51672-4047-9",
+    "51672-4050-1",
+    "51672-4050-2",
+    "51672-4123-1",
+    "51672-4123-3",
+    "51672-4123-6",
+    "51672-4124-1",
+    "51672-4124-3",
+    "51672-4124-6",
+    "51672-4125-1",
+    "51672-4125-3",
+    "51672-4125-6"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "carbamazepine",
+      "name": "Carbamazepine"
+    },
+    {
+      "form": "TABLET",
+      "generic": "carbamazepine",
+      "name": "Carbamazepine"
+    },
+    {
+      "form": "TABLET, CHEWABLE",
+      "generic": "carbamazepine",
+      "name": "Carbamazepine"
+    },
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "carbamazepine",
+      "name": "Carbamazepine"
+    }
+  ],
+  "setid": "0526a054-3eda-49b4-b390-7d5d16e30af8",
+  "source": "dailymed"
+}
