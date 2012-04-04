@@ -12,7 +12,7 @@ The morning and evening doses should be separately adjusted for an adequate diur
 For children aged 3 months to 12 years, the usual dosage range is 0.05 to 0.3 mL daily, either as a single dose or divided into two doses.
 About 1/4 to 1/3 of patients can be controlled by a single daily dose of DDAVP administered intranasally.
 Fluid restriction should be observed.
-(See WARNINGS, PRECAUTIONS, Pediatric Use and Geriatric Use.)
+(See WARNINGS,PRECAUTIONS, Pediatric Use and Geriatric Use.)
 
 ## Geriatric Use
 
