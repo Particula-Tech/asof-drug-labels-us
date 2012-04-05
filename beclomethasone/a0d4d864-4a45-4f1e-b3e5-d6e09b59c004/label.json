@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA202813"
+  ],
+  "inn": "beclomethasone",
+  "labeler": "Teva Respiratory, LLC",
+  "package_ndcs": [
+    "59310-210-12",
+    "59310-210-14"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "beclomethasone dipropionate",
+      "name": "QNASL"
+    }
+  ],
+  "setid": "a0d4d864-4a45-4f1e-b3e5-d6e09b59c004",
+  "source": "dailymed"
+}
