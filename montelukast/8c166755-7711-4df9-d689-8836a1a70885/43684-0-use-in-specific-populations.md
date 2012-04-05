@@ -23,23 +23,22 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 ## 8.4 Pediatric Use
 
 Safety and efficacy of SINGULAIR have been established in adequate and well-controlled studies in pediatric patients with asthma 6 to 14 years of age.
-Safety and efficacy profiles in this age group are similar to those seen in adults [see Adverse Reactions (6.1), Clinical Pharmacology, Special Populations (12.3), and Clinical Studies (14.1)].
+Safety and efficacy profiles in this age group are similar to those seen in adults [see Adverse Reactions (6.1), Clinical Pharmacology, Special Populations (12.3), and Clinical Studies (14.1, 14.2)].
 
-The efficacy of SINGULAIR for the treatment of seasonal allergic rhinitis in pediatric patients 2 to 14 years of age and for the treatment of perennial allergic rhinitis in pediatric patients 6 months to 14 years of age is supported by extrapolation from the demonstrated efficacy in patients 15 years of age and older with allergic rhinitis as well as the assumption that the disease course, pathophysiology and the drug’s effect are substantially similar among these populations.
+The efficacy of SINGULAIR for the treatment of seasonal allergic rhinitis in pediatric patients 2 to 14 years of age and for the treatment of perennial allergic rhinitis in pediatric patients 6 months to 14 years of age is supported by extrapolation from the demonstrated efficacy in patients 15 years of age and older with allergic rhinitis as well as the assumption that the disease course, pathophysiology and the drug's effect are substantially similar among these populations.
 
 The safety of SINGULAIR 4-mg chewable tablets in pediatric patients 2 to 5 years of age with asthma has been demonstrated by adequate and well-controlled data [see Adverse Reactions (6.1)].
-Efficacy of SINGULAIR in this age group is extrapolated from the demonstrated efficacy in patients 6 years of age and older with asthma and is based on similar pharmacokinetic data, as well as the assumption that the disease course, pathophysiology and the drug’s effect are substantially similar among these populations.
+Efficacy of SINGULAIR in this age group is extrapolated from the demonstrated efficacy in patients 6 years of age and older with asthma and is based on similar pharmacokinetic data, as well as the assumption that the disease course, pathophysiology and the drug's effect are substantially similar among these populations.
 Efficacy in this age group is supported by exploratory efficacy assessments from a large, well-controlled safety study conducted in patients 2 to 5 years of age.
 
 The safety of SINGULAIR 4-mg oral granules in pediatric patients 12 to 23 months of age with asthma has been demonstrated in an analysis of 172 pediatric patients, 124 of whom were treated with SINGULAIR, in a 6-week, double-blind, placebo-controlled study [see Adverse Reactions (6.1)].
-Efficacy of SINGULAIR in this age group is extrapolated from the demonstrated efficacy in patients 6 years of age and older with asthma based on similar mean systemic exposure (AUC), and that the disease course, pathophysiology and the drug’s effect are substantially similar among these populations, supported by efficacy data from a safety trial in which efficacy was an exploratory assessment.
+Efficacy of SINGULAIR in this age group is extrapolated from the demonstrated efficacy in patients 6 years of age and older with asthma based on similar mean systemic exposure (AUC), and that the disease course, pathophysiology and the drug's effect are substantially similar among these populations, supported by efficacy data from a safety trial in which efficacy was an exploratory assessment.
 
 The safety of SINGULAIR 4-mg and 5-mg chewable tablets in pediatric patients aged 2 to 14 years with allergic rhinitis is supported by data from studies conducted in pediatric patients aged 2 to 14 years with asthma.
 A safety study in pediatric patients 2 to 14 years of age with seasonal allergic rhinitis demonstrated a similar safety profile [see Adverse Reactions (6.1)].
 The safety of SINGULAIR 4-mg oral granules in pediatric patients as young as 6 months of age with perennial allergic rhinitis is supported by extrapolation from safety data obtained from studies conducted in pediatric patients 6 months to 23 months of age with asthma and from pharmacokinetic data comparing systemic exposures in patients 6 months to 23 months of age to systemic exposures in adults.
 
-The safety and effectiveness in pediatric patients below the age of 12 months with asthma and 6 months with perennial allergic rhinitis have not been established.
-The safety and effectiveness in pediatric patients below the age of 15 years with exercise-induced bronchoconstriction have not been established.
+The safety and effectiveness in pediatric patients below the age of 12 months with asthma, 6 months with perennial allergic rhinitis, and 6 years with exercise-induced bronchoconstriction have not been established.
 
 Growth Rate in Pediatric Patients
 

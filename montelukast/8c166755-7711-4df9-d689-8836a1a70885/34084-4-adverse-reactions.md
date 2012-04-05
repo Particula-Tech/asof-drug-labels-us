@@ -39,6 +39,8 @@ In pediatric patients 6 to 14 years of age receiving SINGULAIR, the following ev
 The frequency of less common adverse events was comparable between SINGULAIR and placebo.
 With prolonged treatment, the adverse experience profile did not significantly change.
 
+The safety profile of SINGULAIR, when administered as a single dose for prevention of EIB in pediatric patients 6 years of age and older, was consistent with the safety profile previously described for SINGULAIR.
+
 In studies evaluating growth rate, the safety profile in these pediatric patients was consistent with the safety profile previously described for SINGULAIR.
 In a 56-week, double-blind study evaluating growth rate in pediatric patients 6 to 8 years of age receiving SINGULAIR, the following events not previously observed with the use of SINGULAIR in this age group occurred with a frequency ≥2% and more frequently than in pediatric patients who received placebo: headache, rhinitis (infective), varicella, gastroenteritis, atopic dermatitis, acute bronchitis, tooth infection, skin infection, and myopia.
 

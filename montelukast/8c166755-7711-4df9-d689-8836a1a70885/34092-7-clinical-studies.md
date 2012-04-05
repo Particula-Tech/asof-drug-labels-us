@@ -9,7 +9,7 @@ Clinical trials in adults and adolescents 15 years of age and older demonstrated
 The efficacy of SINGULAIR for the chronic treatment of asthma in adults and adolescents 15 years of age and older was demonstrated in two (U.S. and Multinational) similarly designed, randomized, 12-week, double-blind, placebo-controlled trials in 1576 patients (795 treated with SINGULAIR, 530 treated with placebo, and 251 treated with active control).
 The median age was 33 years (range 15 to 85); 56.8% were females and 43.2% were males.
 The ethnic/racial distribution in these studies was 71.6% Caucasian, 17.7% Hispanic, 7.2% other origins and 3.5% Black.
-Patients had mild or moderate asthma and were non-smokers who required approximately 5 puffs of inhaled β-agonist per day on an “as-needed” basis.
+Patients had mild or moderate asthma and were non-smokers who required approximately 5 puffs of inhaled β-agonist per day on an "as-needed" basis.
 The patients had a mean baseline percent of predicted forced expiratory volume in 1 second (FEV1) of 66% (approximate range, 40 to 90%).
 The co-primary endpoints in these trials were FEV1 and daytime asthma symptoms.
 In both studies after 12 weeks, a random subset of patients receiving SINGULAIR was switched to placebo for an additional 3 weeks of double-blind treatment to evaluate for possible rebound effects.
@@ -40,20 +40,20 @@ In the US study, 6.9% of patients on SINGULAIR and 9.9% of patients on placebo w
 
 Onset of Action and Maintenance of Effects
 
-In each placebo-controlled trial in adults, the treatment effect of SINGULAIR, measured by daily diary card parameters, including symptom scores, “as-needed” β-agonist use, and PEFR measurements, was achieved after the first dose and was maintained throughout the dosing interval (24 hours).
+In each placebo-controlled trial in adults, the treatment effect of SINGULAIR, measured by daily diary card parameters, including symptom scores, "as-needed" β-agonist use, and PEFR measurements, was achieved after the first dose and was maintained throughout the dosing interval (24 hours).
 No significant change in treatment effect was observed during continuous once-daily evening administration in non-placebo-controlled extension trials for up to one year.
 Withdrawal of SINGULAIR in asthmatic patients after 12 weeks of continuous use did not cause rebound worsening of asthma.
 
 Pediatric Patients 6 to 14 Years of Age with Asthma
 
-The efficacy of SINGULAIR in pediatric patients 6 to 14 years of age was demonstrated in one 8-week, double-blind, placebo-controlled trial in 336 patients (201 treated with SINGULAIR and 135 treated with placebo) using an inhaled β-agonist on an “as-needed” basis.
+The efficacy of SINGULAIR in pediatric patients 6 to 14 years of age was demonstrated in one 8-week, double-blind, placebo-controlled trial in 336 patients (201 treated with SINGULAIR and 135 treated with placebo) using an inhaled β-agonist on an "as-needed" basis.
 The patients had a mean baseline percent predicted FEV1 of 72% (approximate range, 45 to 90%) and a mean daily inhaled β-agonist requirement of 3.4 puffs of albuterol.
 Approximately 36% of the patients were on inhaled corticosteroids.
 The median age was 11 years (range 6 to 15); 35.4% were females and 64.6% were males.
 The ethnic/racial distribution in this study was 80.1% Caucasian, 12.8% Black, 4.5% Hispanic, and 2.7% other origins.
 
 Compared with placebo, treatment with one 5-mg SINGULAIR chewable tablet daily resulted in a significant improvement in mean morning FEV1 percent change from baseline (8.7% in the group treated with SINGULAIR vs. 4.2% change from baseline in the placebo group, p<0.001).
-There was a significant decrease in the mean percentage change in daily “as-needed” inhaled β-agonist use (11.7% decrease from baseline in the group treated with SINGULAIR vs. 8.2% increase from baseline in the placebo group, p<0.05).
+There was a significant decrease in the mean percentage change in daily "as-needed" inhaled β-agonist use (11.7% decrease from baseline in the group treated with SINGULAIR vs. 8.2% increase from baseline in the placebo group, p<0.05).
 This effect represents a mean decrease from baseline of 0.56 and 0.23 puffs per day for the montelukast and placebo groups, respectively.
 Subgroup analyses indicated that younger pediatric patients aged 6 to 11 had efficacy results comparable to those of the older pediatric patients aged 12 to 14.
 
@@ -65,7 +65,7 @@ The efficacy of SINGULAIR for the chronic treatment of asthma in pediatric patie
 The median age was 4 years (range 2 to 6); 41.5% were females and 58.5% were males.
 The ethnic/racial distribution in this study was 56.5% Caucasian, 20.9% Hispanic, 14.4% other origins, and 8.3% Black.
 
-While the primary objective was to determine the safety and tolerability of SINGULAIR in this age group, the study included exploratory efficacy evaluations, including daytime and overnight asthma symptom scores, β-agonist use, oral corticosteroid rescue, and the physician’s global evaluation.
+While the primary objective was to determine the safety and tolerability of SINGULAIR in this age group, the study included exploratory efficacy evaluations, including daytime and overnight asthma symptom scores, β-agonist use, oral corticosteroid rescue, and the physician's global evaluation.
 The findings of these exploratory efficacy evaluations, along with pharmacokinetics and extrapolation of efficacy data from older patients, support the overall conclusion that SINGULAIR is efficacious in the maintenance treatment of asthma in patients 2 to 5 years of age.
 
 Effects in Patients on Concomitant Inhaled Corticosteroids
@@ -82,7 +82,7 @@ Treatment with SINGULAIR resulted in a further 47% reduction in mean inhaled cor
 It is not known whether the results of this study can be generalized to patients with asthma who require higher doses of inhaled corticosteroids or systemic corticosteroids.
 
 In another randomized, placebo-controlled, parallel-group trial (n=642) in a similar population of adult patients previously maintained, but not adequately controlled, on inhaled corticosteroids (beclomethasone 336 mcg/day), the addition of SINGULAIR to beclomethasone resulted in statistically significant improvements in FEV1 compared with those patients who were continued on beclomethasone alone or those patients who were withdrawn from beclomethasone and treated with montelukast or placebo alone over the last 10 weeks of the 16-week, blinded treatment period.
-Patients who were randomized to treatment arms containing beclomethasone had statistically significantly better asthma control than those patients randomized to SINGULAIR alone or placebo alone as indicated by FEV1, daytime asthma symptoms, PEFR, nocturnal awakenings due to asthma, and “as-needed” β-agonist requirements.
+Patients who were randomized to treatment arms containing beclomethasone had statistically significantly better asthma control than those patients randomized to SINGULAIR alone or placebo alone as indicated by FEV1, daytime asthma symptoms, PEFR, nocturnal awakenings due to asthma, and "as-needed" β-agonist requirements.
 
 In adult patients with asthma with documented aspirin sensitivity, nearly all of whom were receiving concomitant inhaled and/or oral corticosteroids, a 4-week, randomized, parallel-group trial (n=80) demonstrated that SINGULAIR, compared with placebo, resulted in significant improvement in parameters of asthma control.
 The magnitude of effect of SINGULAIR in aspirin-sensitive patients was similar to the effect observed in the general population of asthma patients studied.
@@ -90,7 +90,7 @@ The effect of SINGULAIR on the bronchoconstrictor response to aspirin or other n
 
 ## 14.2 Exercise-Induced Bronchoconstriction (EIB)
 
-Exercise-Induced Bronchoconstriction - Single-Dose Administration (Adults and Adolescents 15 years of age and older)
+Exercise-Induced Bronchoconstriction (Adults, Adolescents, and Pediatric Patients 6 years of age and older)
 
 The efficacy of SINGULAIR, 10 mg, when given as a single dose 2 hours before exercise for the prevention of EIB was investigated in three (U.S. and Multinational), randomized, double-blind, placebo-controlled crossover studies that included a total of 160 adult and adolescent patients 15 years of age and older with EIB.
 Exercise challenge testing was conducted at 2 hours, 8.5 or 12 hours, and 24 hours following administration of a single dose of study drug (SINGULAIR 10 mg or placebo).
@@ -102,13 +102,30 @@ Table 3: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Study
 
 |  | SINGULAIR | Placebo |  |
 | --- | --- | --- | --- |
-| Time of exercise challenge following medication administration | Mean Maximum percent fall in FEV1Least squares-mean |  | Treatment difference % for SINGULAIR versus Placebo (95%CI) |
+| Time of exercise challenge following medication administration | Mean Maximum percent fall in FEV1Least squares-mean |  | Treatment difference % for SINGULAIR versus Placebo (95% CI) |
 | 2 hours | 13 | 22 | -9 (-12, -5) |
 | 8.5 hours | 12 | 17 | -5 (-9, -2) |
 | 24 hours | 10 | 14 | -4 (-7, -1) |
 
+The efficacy of SINGULAIR 5-mg chewable tablets, when given as a single dose 2 hours before exercise for the prevention of EIB, was investigated in one multinational, randomized, double-blind, placebo-controlled crossover study that included a total of 64 pediatric patients 6 to 14 years of age with EIB.
+Exercise challenge testing was conducted at 2 hours and 24 hours following administration of a single dose of study drug (SINGULAIR 5 mg or placebo).
+The primary endpoint was the mean maximum percent fall in FEV1 following the 2 hours post-dose exercise challenge.
+A single dose of SINGULAIR 5 mg demonstrated a statistically significant protective benefit against EIB when taken 2 hours prior to exercise (TABLE 4).
+Similar results were shown at 24 hours post-dose (a secondary endpoint).
+Some patients were protected from EIB at 24 hours after administration; however, some patients were not.
+No timepoints were assessed between 2 and 24 hours post-dose.
+
+Table 4: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Pediatric Patients (N=64) ANOVA Model
+
+|  | SINGULAIR | Placebo |  |
+| --- | --- | --- | --- |
+| Time of exercise challenge following medication administration | Mean Maximum percent fall in FEV1Least squares-mean |  | Treatment difference % for SINGULAIR versus Placebo (95% CI) |
+| 2 hours | 15 | 20 | -5 (-9, -1) |
+| 24 hours | 13 | 17 | -4 (-7, -1) |
+
+The efficacy of SINGULAIR for prevention of EIB in patients below 6 years of age has not been established.
+
 Daily administration of SINGULAIR for the chronic treatment of asthma has not been established to prevent acute episodes of EIB.
-The efficacy of SINGULAIR for prevention of EIB in patients below 15 years of age has not been established.
 
 In a 12-week, randomized, double-blind, parallel group study of 110 adult and adolescent asthmatics 15 years of age and older, with a mean baseline FEV1 percent of predicted of 83% and with documented exercise-induced exacerbation of asthma, treatment with SINGULAIR, 10 mg, once daily in the evening, resulted in a statistically significant reduction in mean maximal percent fall in FEV1 and mean time to recovery to within 5% of the pre-exercise FEV1.
 Exercise challenge was conducted at the end of the dosing interval (i.e., 20 to 24 hours after the preceding dose).
@@ -133,10 +150,10 @@ Four of the five trials showed a significant reduction in daytime nasal symptoms
 The results of one trial are shown below.
 The median age in this trial was 35.0 years (range 15 to 81); 65.4% were females and 34.6% were males.
 The ethnic/racial distribution in this study was 83.1% Caucasian, 6.4% other origins, 5.8% Black, and 4.8% Hispanic.
-The mean changes from baseline in daytime nasal symptoms score in the treatment groups that received SINGULAIR tablets, loratadine, and placebo are shown in TABLE 4.
+The mean changes from baseline in daytime nasal symptoms score in the treatment groups that received SINGULAIR tablets, loratadine, and placebo are shown in TABLE 5.
 The remaining three trials that demonstrated efficacy showed similar results.
 
-Table 4: Effects of SINGULAIR on Daytime Nasal Symptoms ScoreAverage of individual scores of nasal congestion, rhinorrhea, nasal itching, sneezing as assessed by patients on a 0-3 categorical scale. in a Placebo- and Active-controlled Trial in Patients with Seasonal Allergic Rhinitis (ANCOVA Model)
+Table 5: Effects of SINGULAIR on Daytime Nasal Symptoms ScoreAverage of individual scores of nasal congestion, rhinorrhea, nasal itching, sneezing as assessed by patients on a 0-3 categorical scale. in a Placebo- and Active-controlled Trial in Patients with Seasonal Allergic Rhinitis (ANCOVA Model)
 
 | Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
 | --- | --- | --- | --- |
@@ -152,9 +169,9 @@ Patients 15 to 82 years of age with perennial allergic rhinitis as confirmed by 
 
 In the study in which efficacy was demonstrated, the median age was 35 years (range 15 to 81); 64.1% were females and 35.9% were males.
 The ethnic/racial distribution in this study was 83.2% Caucasian, 8.1% Black, 5.4% Hispanic, 2.3% Asian, and 1.0% other origins.
-SINGULAIR 10-mg tablets once daily was shown to significantly reduce symptoms of perennial allergic rhinitis over a 6-week treatment period (TABLE 5); in this study the primary outcome variable was mean change from baseline in daytime nasal symptoms score (the average of individual scores of nasal congestion, rhinorrhea, and sneezing).
+SINGULAIR 10-mg tablets once daily was shown to significantly reduce symptoms of perennial allergic rhinitis over a 6-week treatment period (TABLE 6); in this study the primary outcome variable was mean change from baseline in daytime nasal symptoms score (the average of individual scores of nasal congestion, rhinorrhea, and sneezing).
 
-Table 5: Effects of SINGULAIR on Daytime Nasal Symptoms Score Average of individual scores of nasal congestion, rhinorrhea, sneezing as assessed by patients on a 0-3 categorical scale. in a Placebo-controlled Trial in Patients with Perennial Allergic Rhinitis (ANCOVA Model)
+Table 6: Effects of SINGULAIR on Daytime Nasal Symptoms Score Average of individual scores of nasal congestion, rhinorrhea, sneezing as assessed by patients on a 0-3 categorical scale. in a Placebo-controlled Trial in Patients with Perennial Allergic Rhinitis (ANCOVA Model)
 
 | Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
 | --- | --- | --- | --- |

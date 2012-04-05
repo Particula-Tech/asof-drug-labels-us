@@ -19,7 +19,7 @@ SINGULAIR is used to:
 1. Prevent asthma attacks and for the long-term treatment of asthma in adults and children ages 12 months and older.
    Do not take SINGULAIR if you need relief right away for a sudden asthma attack.
    If you get an asthma attack, you should follow the instructions your healthcare provider gave you for treating asthma attacks.
-2. Prevent exercise-induced asthma in people 15 years of age and older.
+2. Prevent exercise-induced asthma in people 6 years of age and older.
 3. Help control the symptoms of allergic rhinitis (sneezing, stuffy nose, runny nose, itching of the nose).
    SINGULAIR is used to treat:
    - outdoor allergies that happen part of the year (seasonal allergic rhinitis) in adults and children ages 2 years and older, and
@@ -60,7 +60,7 @@ For anyone who takes SINGULAIR:
   See the information below in the section "How should I give SINGULAIR oral granules to my child?" for information about what foods and liquids can be taken with SINGULAIR oral granules.
 - If you or your child misses a dose of SINGULAIR, just take the next dose at your regular time.
   Do not take 2 doses at the same time.
-- If you take too much SINGULAIR, call your doctor.
+- If you take too much SINGULAIR, call your healthcare provider or a Poison Control Center right away.
 
 For adults and children 12 months of age and older with asthma:
 
@@ -72,7 +72,7 @@ For adults and children 12 months of age and older with asthma:
 - Always have your rescue inhaler medicine with you for asthma attacks.
 - Do not stop taking or lower the dose of your other asthma medicines unless your healthcare provider tells you to.
 
-For patients 15 years of age and older for the prevention of exercise-induced asthma:
+For patients 6 years of age and older for the prevention of exercise-induced asthma:
 
 - Take SINGULAIR at least 2 hours before exercise.
 - Always have your rescue inhaler medicine with you for asthma attacks.
@@ -204,10 +204,8 @@ Inactive ingredients:
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-US Patent No.: 5,565,473
+Copyright © 1998-2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Copyright © 1998-2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+Revised: 03/2012
 
-Revised: 09/2011
-
-9989621
+USPPI-MF-04761203R023
