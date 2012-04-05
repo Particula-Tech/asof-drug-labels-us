@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA072076"
+  ],
+  "inn": "naloxone",
+  "labeler": "International Medication Systems, Limited",
+  "package_ndcs": [
+    "76329-1469-5",
+    "76329-3369-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "naloxone hydrochloride",
+      "name": "Naloxone Hydrochloride"
+    }
+  ],
+  "setid": "236349ef-2cb5-47ca-a3a5-99534c3a4996",
+  "source": "dailymed"
+}
