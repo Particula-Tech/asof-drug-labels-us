@@ -1,0 +1,35 @@
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0054-0220-25
+
+25 mg, bottle of 100
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0054-0229-25
+
+50 mg, bottle of 100
+
+# Principal Display Panel
+
+NDC 0054-0221-25
+
+100 mg, bottle of 100
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0054-0222-25
+
+200 mg, bottle of 100
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0054-0223-21
+
+300 mg, bottle of 60
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0054-0230-25
+
+400 mg, bottle of 100

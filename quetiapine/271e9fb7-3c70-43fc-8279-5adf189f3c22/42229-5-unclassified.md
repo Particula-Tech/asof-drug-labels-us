@@ -1,0 +1,328 @@
+# MEDICATION GUIDE
+
+Read this Medication Guide before you start taking Quetiapine Fumarate Tablets and each time you get a refill.
+There may be new information.
+This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
+
+What is the most important information I should know about Quetiapine Fumarate Tablets?
+
+Quetiapine Fumarate Tablets may cause serious side effects, including:
+
+1.
+Risk of death in the elderly with dementia
+
+2.
+Risk of suicidal thoughts or actions
+
+3.
+High blood sugar (hyperglycemia)
+
+4.
+High fat levels in your blood (increased cholesterol and triglycerides)
+
+5.
+Weight gain
+
+These serious side effects are described below:
+
+1.
+Risk of death in the elderly with dementia: Medicines like quetiapine fumarate can increase the risk of death in elderly people who have memory loss (dementia).
+Quetiapine fumarate is not approved for treating psychosis in the elderly with dementia.
+
+2.
+Risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions):
+
+Talk to your, or your family member's, healthcare provider about:
+
+- all risks and benefits of treatment with antidepressant medicines.
+- all treatment choices for depression or other serious mental illness.
+- Antidepressant medications may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+- Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+  Some people may have a particularly high risk of having suicidal thoughts or actions.
+  These include people who have (or have a family history of) depression, bipolar illness (also called manic-depressive illness), or suicidal thoughts or actions.
+- How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+  - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+    This is very important when an antidepressant medicine is started or when the dose is changed.
+  - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+  - Keep all follow-up visits with the healthcare provider as scheduled.
+    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+
+Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
+
+- thoughts about suicide or dying
+- attempts to commit suicide
+- new or worse depression
+- new or worse anxiety
+- feeling very agitated or restless
+- panic attacks
+- trouble sleeping (insomnia)
+- new or worse irritability
+- acting aggressive, being angry, or violent
+- acting on dangerous impulses
+- an extreme increase in activity and talking (mania)
+- other unusual changes in behavior or mood
+
+What else do I need to know about antidepressant medicines?
+
+- Never stop an antidepressant medicine without first talking to your healthcare provider.
+  Stopping an antidepressant medicine suddenly can cause other symptoms.
+- Antidepressants are medicines used to treat depression and other illnesses.
+  It is important to discuss all the risks of treating depression and also the risks of not treating it.
+  Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
+- Antidepressant medicines have other side effects.
+  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
+- Antidepressant medicines can interact with other medicines.
+  Know all of the medicines that you or your family member take.
+  Keep a list of all medicines to show the healthcare provider.
+  Do not start new medicines without first checking with your healthcare provider.
+- Not all antidepressant medicines prescribed for children are FDA approved for use in children.
+  Talk to your child’s healthcare provider for more information.
+
+3.
+High blood sugar (hyperglycemia): High blood sugar can happen if you have diabetes already or if you have never had diabetes.
+
+High blood sugar could lead to:
+
+1.
+Build up of acid in your blood due to ketones (ketoacidosis)
+
+2.
+Coma
+
+3.
+Death
+
+Increases in blood sugar can happen in some people who take quetiapine fumarate.
+Extremely high blood sugar can lead to coma or death.
+If you have diabetes or risk factors for diabetes (such as being overweight or a family history of diabetes) your healthcare provider should check your blood sugar before you start quetiapine fumarate and during therapy.
+
+Call your doctor if you have any of these symptoms of high blood sugar (hyperglycemia) while taking quetiapine fumarate:
+
+- 
+  - feel very thirsty
+  - need to urinate more than usual
+  - feel very hungry
+  - feel weak or tired
+  - feel sick to your stomach
+  - feel confused, or your breath smells fruity.
+
+4.
+High fat levels in your blood (increased cholesterol and triglycerides): High fat levels may happen in people treated with quetiapine fumarate.
+You may not have any symptoms, so your doctor may decide to check your cholesterol and triglycerides during your treatment with quetiapine fumarate.
+
+5.
+Increase in weight (weight gain): Weight gain is common in people who take quetiapine fumarate so you and your doctor should check your weight regularly.
+Talk to your doctor about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
+
+What is quetiapine fumarate?
+
+Quetiapine fumarate is a prescription medicine used to treat schizophrenia.
+
+- Quetiapine fumarate is a prescription medicine used to treat bipolar disorder, including:
+  - 
+    - depressive episodes associated with bipolar disorder in adults
+    - manic episodes associated with bipolar I disorder alone or with lithium or divalproex in adults
+    - long-term treatment of bipolar I disorder with lithium or divalproex in adults
+- Pediatric use information in patients (13 to 17 years of age) with schizophrenia, and patients (10 to 17 years of age) with bipolar mania is approved for AstraZeneca Pharmaceuticals LP's quetiapine fumarate drug product labeling.
+  However, due to AstraZeneca Pharmaceuticals LP's marketing exclusivity rights; this product is not labeled for such use in those patients.
+
+Quetiapine fumarate has not been studied in patients younger than 10 years of age.
+
+What should I tell my healthcare provider before taking quetiapine fumarate?
+
+Before taking quetiapine fumarate, tell your healthcare provider if you have or have had:
+
+- diabetes or high blood sugar in you or your family: your healthcare provider should check your blood sugar before you start quetiapine fumarate and also during therapy
+- high levels of total cholesterol, triglycerides or LDL-cholesterol or low levels of HDL-cholesterol
+- low or high blood pressure
+- low white blood cell count
+- cataracts
+- seizures
+- abnormal thyroid tests
+- high prolactin levels
+- heart problems
+- liver problems
+- any other medical condition
+- pregnancy or plans to become pregnant.
+  It is not known if quetiapine fumarate will harm your unborn baby
+- breast-feeding or plans to breast-feed.
+  Quetiapine fumarate can pass into your breast milk.
+  You and your healthcare provider should decide if you will take quetiapine fumarate or breast-feed.
+  You should not do both.
+
+Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, nonprescription medicines, herbal supplements and vitamins.
+
+Quetiapine fumarate and other medicines may affect each other causing serious side effects.
+Quetiapine fumarate may affect the way other medicines work, and other medicines may affect how quetiapine fumarate works.
+
+Especially tell your healthcare provider if you take or plan to take medicines for:
+
+- depression
+- high blood pressure
+- Parkinson’s disease
+- trouble sleeping
+- abnormal heart beats or rhythm
+
+Also tell your healthcare provider if you take or plan to take any of these medicines:
+
+- phenytoin, divalproex or carbamazepine (for epilepsy)
+- barbiturates (to help you sleep)
+- rifampin (for tuberculosis)
+- glucocorticoids (steroids for inflammation)
+- thioridazine (an antipsychotic)
+- ketoconazole, fluconazole or itraconazole (for fungal infections)
+- erythromycin (an antibiotic)
+- protease inhibitors (for HIV)
+
+This is not a complete list of medicines that can affect or be affected by quetiapine fumarate.
+Your doctor can tell you if it is safe to take quetiapine fumarate with your other medicines.
+Do not start or stop any medicines while taking quetiapine fumarate without talking to your healthcare provider first.
+Know the medicines you take.
+Keep a list of your medicines to show your healthcare provider and pharmacist when you get a new medicine.
+
+Tell your healthcare provider if you are having a urine drug screen because quetiapine fumarate may affect your test results.
+Tell those giving the test that you are taking quetiapine fumarate.
+
+How should I take quetiapine fumarate?
+
+- Take quetiapine fumarate exactly as your healthcare provider tells you to take it.
+  Do not change the dose yourself.
+- Take quetiapine fumarate by mouth, with or without food.
+- If you feel you need to stop quetiapine fumarate, talk with your healthcare provider first.
+
+If you suddenly stop taking quetiapine fumarate, you may experience side effects such as trouble sleeping or trouble staying asleep (insomnia), nausea, and vomiting.
+
+- If you miss a dose, take it as soon as you remember.
+  If it is close to the next dose, skip the missed dose.
+  Just take the next dose at your regular time.
+  Do not take 2 doses at the same time unless your healthcare provider tells you to.
+  If you are not sure about your dosing, call your healthcare provider.
+- If you take too much quetiapine fumarate, call your healthcare provider or poison control center at 1-800-222-1222 right away or go to the nearest hospital emergency room.
+
+What should I avoid while taking quetiapine fumarate?
+
+Do not drive, operate machinery, or do other dangerous activities until you know how quetiapine fumarate affects you.
+Quetiapine fumarate may make you drowsy.
+
+- Avoid getting overheated or dehydrated.
+  - 
+    - Do not over-exercise.
+    - In hot weather, stay inside in a cool place if possible.
+    - Stay out of the sun.
+      Do not wear too much or heavy clothing.
+    - Drink plenty of water.
+- Do not drink alcohol while taking quetiapine fumarate.
+  It may make some side effects of quetiapine fumarate worse.
+
+What are possible side effects of quetiapine fumarate?
+
+Serious side effects have been reported with quetiapine fumarate including:
+
+Also, see “What is the most important information I should know about quetiapine fumarate?” at the beginning of this Medication Guide.
+
+- Neuroleptic malignant syndrome (NMS): NMS is a rare but very serious condition that can happen in people who take antipsychotic medicines, including quetiapine fumarate.
+  NMS can cause death and must be treated in a hospital.
+  Call your doctor right away if you become severely ill and have some or all of these symptoms:
+  - high fever
+  - excessive sweating
+  - rigid muscles
+  - confusion
+  - changes in your breathing, heartbeat, and blood pressure
+- Tardive dyskinesia: Tell your healthcare provider about any movements you cannot control in your face, tongue, or other body parts.
+  These may be signs of a serious condition.
+  Tardive dyskinesia may not go away, even if you stop taking quetiapine fumarate.
+  Tardive dyskinesia may also start after you stop taking quetiapine fumarate.
+- Orthostatic hypotension (decreased blood pressure): lightheadedness or fainting caused by a sudden change in heart rate and blood pressure when rising too quickly from a sitting or lying position.
+- Increases in blood pressure: reported in children and teenagers.
+  Your healthcare provider should check blood pressure in children and adolescents before starting quetiapine fumarate and during therapy.
+- Low white blood cell count
+- Cataracts
+- Seizures
+- Abnormal thyroid tests: Your healthcare provider may do blood tests to check your thyroid hormone level.
+- Increases in prolactin levels: Your healthcare provider may do blood tests to check your prolactin levels.
+- Increases in liver enzymes: Your healthcare provider may do blood tests to check your liver enzyme levels.
+- Long lasting and painful erection
+- Difficulty swallowing
+
+Common possible side effects with quetiapine fumarate include:
+
+Adults
+
+- drowsiness
+- dry mouth
+- dizziness
+- weakness
+- abdominal pain
+- sore throat
+- sluggishness
+- upset stomach
+- weight gain
+- constipation
+- a sudden drop in blood pressure upon standing
+- abnormal liver test
+
+Children and Adolescents:
+
+- drowsiness
+- fatigue
+- nausea
+- dry mouth
+- weight gain
+- dizziness
+- increased appetite
+- vomiting
+- rapid heart rate
+
+These are not all the possible side effects of quetiapine fumarate.
+For more information, ask your healthcare provider or pharmacist.
+
+Call your healthcare provider for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+How should I store quetiapine fumarate?
+
+- Store quetiapine fumarate at room temperature, between 59°F to 86°F (15°C to 30°C).
+- Keep quetiapine fumarate and all medicines out of the reach of children.
+
+General information about quetiapine fumarate
+
+Do not take quetiapine fumarate unless your healthcare provider has prescribed it for you for your condition.
+Do not share quetiapine fumarate with other people, even if they have the same condition.
+It may harm them.
+
+This Medication Guide provides a summary of important information about quetiapine fumarate.
+For more information about quetiapine fumarate, talk with your healthcare provider or pharmacist or call 1-800-962-8364.
+You can ask your healthcare provider for information about quetiapine fumarate that is written for health professionals.
+
+What are the ingredients in quetiapine fumarate tablets?
+
+Active ingredient: quetiapine fumarate
+
+Inactive ingredients: The 25 mg tablet contains lactose, magnesium stearate, microcrystalline cellulose, povidone, purified water and sodium starch glycolate.
+
+The 50 mg, 100 mg, 200 mg, 300 mg and 400 mg tablets contain colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, povidone, purified water and sodium starch glycolate.
+
+The symptoms of Schizophrenia include:
+
+- Having lost touch with reality (psychosis)
+- Seeing things that are not there or hearing voices (hallucinations)
+- Believing things that are not true (delusions)
+- Being suspicious (paranoia).
+
+The symptoms of Bipolar Disorder include:
+
+- General symptoms of bipolar disorder include extreme mood swings, along with other specific symptoms and behaviors.
+  These mood swings, or "episodes," include manic (highs) and depressive (lows).
+- Common symptoms of a manic episode include feeling extremely happy, being very irritable, restless, talking too fast and too much, and having more energy and needing less sleep than usual.
+- Common symptoms of a depressive episode include feelings of sadness or emptiness, increased tearfulness, a loss of interest in activities you once enjoyed, loss of energy, difficulty concentrating or making decisions, feelings of worthlessness or guilt, changes in sleep or appetite.
+- Thoughts of death or suicide.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Roxane Laboratories, Inc.
+
+Columbus, Ohio 43216
+
+10004966/01 Revised March 2012
+
+© RLI, 2012

@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA090120",
+    "ANDA090749"
+  ],
+  "inn": "quetiapine",
+  "labeler": "Roxane Laboratories, Inc.",
+  "package_ndcs": [
+    "0054-0220-25",
+    "0054-0220-31",
+    "0054-0221-25",
+    "0054-0222-25",
+    "0054-0223-21",
+    "0054-0229-25",
+    "0054-0229-31",
+    "0054-0230-25"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "quetiapine fumarate",
+      "name": "Quetiapine Fumarate"
+    }
+  ],
+  "setid": "271e9fb7-3c70-43fc-8279-5adf189f3c22",
+  "source": "dailymed"
+}
