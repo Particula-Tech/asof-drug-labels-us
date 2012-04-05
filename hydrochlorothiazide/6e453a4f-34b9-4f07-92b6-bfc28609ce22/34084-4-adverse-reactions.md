@@ -76,8 +76,4 @@ In addition, and since lisinopril has been marketed, the following adverse react
 Miscellaneous: A symptom complex has been reported which may include a positive ANA, an elevated erythrocyte sedimentation rate, arthralgia/arthritis, myalgia, fever, vasculitis, eosinophilia and leukocytosis.
 Rash, photosensitivity or other dermatological manifestations may occur alone or in combination with these symptoms.
 
-## Fetal/Neonatal Morbidity and Mortality
-
-See WARNINGS - Pregnancy, Lisinopril, Fetal/Neonatal Morbidity and Mortality.
-
 Hydrochlorothiazide - Body as a Whole: Weakness; Digestive: Anorexia, gastric irritation, cramping, jaundice (intrahepatic cholestatic jaundice) (See WARNINGS, Hepatic Failure), pancreatitis, sialoadenitis, constipation; Hematologic: Leukopenia, agranulocytosis, thrombocytopenia, aplastic anemia, hemolytic anemia; Musculoskeletal: Muscle spasm; Nervous System/Psychiatric: Restlessness; Renal: Renal failure, renal dysfunction, interstitial nephritis (see WARNINGS); Skin: Erythema multiforme including Stevens-Johnson Syndrome, exfoliative dermatitis including toxic epidermal necrolysis, alopecia; Special Senses: Xanthopsia; Hypersensitivity: Purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions.
