@@ -1,4 +1,4 @@
-# ARICEPT PATIENT PACKAGE INSERT
+ARICEPT PATIENT PACKAGE INSERT
 
 ARICEPT® (Air-eh-sept) (donepezil hydrochloride) tablets
 
@@ -167,4 +167,4 @@ ARICEPT® is a registered trademark of Eisai Co., Ltd. Manufactured and Marketed
 
 Rx Only
 
-© 2010 Eisai Inc.
+© 2012 Eisai Inc.

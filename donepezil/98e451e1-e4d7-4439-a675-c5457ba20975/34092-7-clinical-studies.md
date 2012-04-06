@@ -185,7 +185,6 @@ Approximately 63% of patients were women, and 37% were men.
 Approximately 36% of the patients were taking memantine throughout the study.
 
 Study Outcome Measures: The effectiveness of treatment with 23 mg/day was determined using a dual outcome assessment strategy that evaluated cognitive function using an instrument designed for more impaired patients and overall function through caregiver-rated assessment.
-This study showed that patients on 23 mg/day experienced important clinical benefit on both measures compared to 10 mg/day.
 
 The ability of 23 mg/day to improve cognitive performance was assessed with the Severe Impairment Battery (SIB).
 The SIB, a multi-item instrument, has been validated for the evaluation of cognitive function in patients with moderate to severe dementia.
