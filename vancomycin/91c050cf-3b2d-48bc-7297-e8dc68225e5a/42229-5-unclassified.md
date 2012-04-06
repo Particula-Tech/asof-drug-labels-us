@@ -1,4 +1,9 @@
+Hydrochloride for Injection, USP
+
 Rx only
+
+| Pharmacy Bulk Package – Not For Direct Infusion |
+| --- |
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of vancomycin and other antibacterial drugs, vancomycin should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
@@ -8,19 +13,20 @@ Directions for Proper Use of Pharmacy Bulk Package ─ Not for direct infusion.
 The pharmacy bulk package is for use in the Hospital Pharmacy Admixture Service only in a suitable work area such as a laminar flow hood.
 Using aseptic technique, the closure may be penetrated only one time after reconstitution using a suitable sterile transfer device or dispensing set, which allows measured dispensing of the contents.
 Use of a syringe and needle is not recommended as it may cause leakage.
-After entry use entire contents of vial promptly.
-The entire contents of the vial should be dispensed within 4 hours after entry.
+After entry use entire contents of bottle promptly.
+The entire contents of the bottle should be dispensed within 4 HOURS after entry.
+This time limit should begin with the introduction of solvent into the Pharmacy Bulk Package.
 
-At the time of use, reconstitute by adding 100 mL of Sterile Water for Injection to the 5 g vial of dry, sterile vancomycin powder.
-FURTHER DILUTION IS REQUIRED.
-Reconstituted solutions of vancomycin are chemically stable at room temperature for 24 hours or in a refrigerator for 96 hours without significant loss of potency.
-However, since this preparation contains no bacteriostat, reconstituted solutions of vancomycin should be used promptly.
+At the time of use, reconstitute by adding 100 mL of Sterile Water for Injection to the 5 grams bottle of dry, sterile vancomycin powder.
+FURTHER DILUTION IS REQUIRED BEFORE USE.
 
 Reconstituted solutions with 10 mL containing 500 mg of vancomycin must be diluted with at least 100 mL of diluent.
 Reconstituted solutions with 20 mL containing 1 g must be diluted with at least 200 mL of diluent.
 The desired dose diluted in this manner should be administered by intermittent intravenous infusion over a period of at least 60 minutes.
 
-Compatibility with Other Drugs and Intravenous Fluids: The following diluents are physically and chemically compatible (with 5 mg/mL vancomycin, present as the HCl):
+Compatibility with Other Drugs and Intravenous Fluids
+
+The following diluents are physically and chemically compatible (with 5 mg/mL vancomycin, present as the HCl):
 
 5% Dextrose Injection, USP
 
