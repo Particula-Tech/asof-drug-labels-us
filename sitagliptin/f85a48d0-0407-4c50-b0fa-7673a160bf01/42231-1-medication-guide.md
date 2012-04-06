@@ -174,8 +174,8 @@ Avandia® is a registered trademark of GlaxoSmithKline.
 
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
 
-Revised: February 2012
+Revised: March 2012
 
-9984406
+USMG-T-04311203R007
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

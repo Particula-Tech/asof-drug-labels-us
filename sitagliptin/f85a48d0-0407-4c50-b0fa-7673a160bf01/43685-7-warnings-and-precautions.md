@@ -32,10 +32,12 @@ Therefore, a lower dose of sulfonylurea or insulin may be required to reduce the
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with JANUVIA.
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions including Stevens-Johnson syndrome.
-Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Onset of these reactions occurred within the first 3 months after initiation of treatment with JANUVIA, with some reports occurring after the first dose.
 If a hypersensitivity reaction is suspected, discontinue JANUVIA, assess for other potential causes for the event, and institute alternative treatment for diabetes.
 [See Adverse Reactions (6.2).]
+
+Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
+Use caution in a patient with a history of angioedema with another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with JANUVIA.
 
 ## 5.5 Macrovascular Outcomes
 

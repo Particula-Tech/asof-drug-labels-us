@@ -7,6 +7,6 @@ US Patent No.: 6,699,871
 
 Copyright © 2006, 2007, 2009, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
 
-Revised: February 2012
+Revised: March 2012
 
-9984406
+USPI-T-04311203R007
