@@ -2,12 +2,12 @@
 
 ## 2.1 Recommended Dosing
 
-The dosage of JANUMET should be individualized on the basis of the patient’s current regimen, effectiveness, and tolerability while not exceeding the maximum recommended daily dose of 100 mg sitagliptin and 2000 mg metformin.
+The dosage of JANUMET should be individualized on the basis of the patient's current regimen, effectiveness, and tolerability while not exceeding the maximum recommended daily dose of 100 mg sitagliptin and 2000 mg metformin.
 Initial combination therapy or maintenance of combination therapy should be individualized and left to the discretion of the health care provider.
 
 JANUMET should generally be given twice daily with meals, with gradual dose escalation, to reduce the gastrointestinal (GI) side effects due to metformin.
 
-The starting dose of JANUMET should be based on the patient’s current regimen.
+The starting dose of JANUMET should be based on the patient's current regimen.
 JANUMET should be given twice daily with meals.
 The following doses are available:
 

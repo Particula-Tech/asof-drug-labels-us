@@ -33,7 +33,7 @@ You have a higher chance of getting lactic acidosis if you:
   People whose kidneys are not working properly should not take JANUMET.
 - have liver problems.
 - have congestive heart failure that requires treatment with medicines.
-- drink alcohol very often, or drink a lot of alcohol in short-term “binge” drinking.
+- drink alcohol very often, or drink a lot of alcohol in short-term "binge" drinking.
 - get dehydrated (lose a large amount of body fluids).
   This can happen if you are sick with a fever, vomiting, or diarrhea.
   Dehydration can also happen when you sweat a lot with activity or exercise and do not drink enough fluids.
@@ -83,7 +83,7 @@ Do not take JANUMET if:
 - you have kidneys which are not working properly.
 - you are going to get an injection of dye or contrast agents for an x-ray procedure, JANUMET will need to be stopped for a short time.
   Talk to your doctor about when you should stop JANUMET and when you should start JANUMET again.
-  See “What is the most important information I should know about JANUMET?”.
+  See "What is the most important information I should know about JANUMET?".
 
 What should I tell my doctor before taking JANUMET?
 
@@ -95,7 +95,7 @@ Before you take JANUMET, tell your doctor if you:
 - have heart problems, including congestive heart failure.
 - are older than 80 years.
   If you are over 80 years old you should not take JANUMET unless your kidneys have been checked and they are normal.
-- drink alcohol very often, or drink a lot of alcohol in short-term “binge” drinking.
+- drink alcohol very often, or drink a lot of alcohol in short-term "binge" drinking.
 - have any other medical conditions.
 - are pregnant or plan to become pregnant.
   It is not known if JANUMET will harm your unborn baby.
@@ -134,7 +134,7 @@ How should I take JANUMET?
   - are going to get an injection of dye or contrast agent for an x-ray procedure.
     See "What is the most important information I should know about JANUMET?" and "Who should not take JANUMET?".
 - When your body is under some types of stress, such as fever, trauma (such as a car accident), infection or surgery, the amount of diabetes medicine that you need may change.
-  Tell your doctor right away if you have any of these problems and follow your doctor’s instructions.
+  Tell your doctor right away if you have any of these problems and follow your doctor's instructions.
 - Check your blood sugar as your doctor tells you to.
 - Stay on your prescribed diet and exercise program while taking JANUMET.
 - Talk to your doctor about how to prevent, recognize and manage low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and problems you have because of your diabetes.
@@ -228,11 +228,11 @@ Avandia® is a registered trademark of GlaxoSmithKline.
 
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
 
-Revised April 2011
+Revised March 2012
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-9984503
+USMG-T-0431A1203R004
 
 US Patent No.: 6,699,871
 

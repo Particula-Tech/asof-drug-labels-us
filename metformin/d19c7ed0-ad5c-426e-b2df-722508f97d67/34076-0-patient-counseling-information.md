@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Medication Guide.
+See FDA-Approved Patient Labeling (Medication Guide).
 
 ## 17.1 Instructions
 
@@ -36,3 +36,16 @@ A1C is especially useful for evaluating long-term glycemic control.
 
 Initial and periodic monitoring of hematologic parameters (e.g., hemoglobin/hematocrit and red blood cell indices) and renal function (serum creatinine) should be performed, at least on an annual basis.
 While megaloblastic anemia has rarely been seen with metformin therapy, if this is suspected, Vitamin B12 deficiency should be excluded.
+
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+USPI-T-0431A1203R004
+
+US Patent No.: 6,699,871
+
+1,2 Registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
+
+3 GLUCOPHAGE® is a registered trademark of Merck Sante S.A.S, an associate of Merck KGaA of Darmstadt, Germany.
+Licensed to Bristol-Myers Squibb Company.
+
+Copyright © 2007, 2008, 2009, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved

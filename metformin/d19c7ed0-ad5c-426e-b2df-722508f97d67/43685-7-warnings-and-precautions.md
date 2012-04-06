@@ -124,10 +124,12 @@ JANUMET may be reinstituted after the acute episode is resolved.
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with sitagliptin, one of the components of JANUMET.
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions including Stevens-Johnson syndrome.
-Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Onset of these reactions occurred within the first 3 months after initiation of treatment with sitagliptin, with some reports occurring after the first dose.
 If a hypersensitivity reaction is suspected, discontinue JANUMET, assess for other potential causes for the event, and institute alternative treatment for diabetes.
 [See Adverse Reactions (6.2).]
+
+Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
+Use caution in a patient with a history of angioedema with another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with JANUMET.
 
 ## 5.15 Macrovascular Outcomes
 
