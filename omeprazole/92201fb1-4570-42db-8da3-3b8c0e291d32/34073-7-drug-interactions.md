@@ -14,9 +14,7 @@ Other possible interaction mechanisms are via CYP 2C19.
 Reduced concentrations of atazanavir and nelfinavir
 
 For some antiretroviral drugs, such as atazanavir and nelfinavir, decreased serum levels have been reported when given together with omeprazole.
-Following multiple doses of nelfinavir (1250 mg, twice daily) and omeprazole (40 mg daily), AUC was decreased by 36% and 92%,
-
-Cmax by 37% and 89% and Cmin by 39% and 75% respectively for nelfinavir and M8.
+Following multiple doses of nelfinavir (1250 mg, twice daily) and omeprazole (40 mg daily), AUC was decreased by 36% and 92%, Cmax by 37% and 89% and Cmin by 39% and 75% respectively for nelfinavir and M8.
 Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hr before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
 Concomitant administration with omeprazole and drugs such as atazanavir and nelfinavir is therefore not recommended.
 
@@ -57,6 +55,10 @@ Cmax and AUC of one of its active metabolites, 3,4-dihydro-cilostazol, which has
 Co-administration of cilostazol with omeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
 Therefore a dose reduction of cilostazol from 100 mg b.i.d. to 50 mg b.i.d. should be considered.
 
+Drugs known to induce CYP2C19 or CYP3A4 (such as rifampin) may lead to decreased omeprazole serum levels.
+In a cross-over study in 12 healthy male subjects, St. John's wort (300 mg three times daily for 14 days), an inducer of CYP3A4, decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6% and 43.9%, respectively).
+Avoid concomitant use of St. John's Wort or rifampin with omeprazole.
+
 clopidogrel
 
 Omeprazole is an inhibitor of CYP2C19 enzyme.
@@ -79,3 +81,8 @@ Concomitant administration of omeprazole and tacrolimus may increase the serum l
 ## 7.5 Interactions with Investigations of Neurodocrine Tumors
 
 Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.7) and Clinical Pharmacology (12)].
+
+## 7.6 Methotrexate
+
+Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
+However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.10)].

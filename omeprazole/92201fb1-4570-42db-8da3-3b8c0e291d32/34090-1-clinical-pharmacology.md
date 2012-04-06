@@ -39,6 +39,9 @@ No further increase in serum gastrin occurred with continued treatment.
 In comparison with histamine H2-receptor antagonists, the median increases produced by 20 mg doses of omeprazole were higher (1.3 to 3.6 fold vs. 1.1 to 1.8 fold increase).
 Gastrin values returned to pretreatment levels, usually within 1 to 2 weeks after discontinuation of therapy.
 
+Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
+The increased CgA levels cause false positive results in diagnostic investigations for neuroendocrine tumors.
+
 Enterochromaffin-like (ECL) Cell Effects
 
 Human gastric biopsy specimens have been obtained from more than 3000 patients treated with omeprazole in long-term clinical trials.
@@ -181,7 +184,22 @@ Amoxicillin pretreatment susceptible isolates (≤ 0.25 mcg/mL) were found in 99
 Amoxicillin pretreatment minimum inhibitory concentrations (MICs) > 0.25 mcg/mL occurred in 0.7% (3/439) of the patients, all of whom were in the clarithromycin and amoxicillin study arm.
 One patient had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of > 256 mcg/mL by Etest®.
 
-- Table 4 Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesClarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes*Clarithromycin Pretreatment ResultsClarithromycin Post-treatment ResultsH. pylori negative – eradicatedH. pylori positive – not eradicatedPost-treatment susceptibility resultsS†I†R†No MICDual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4, 5)Susceptible †108721269Intermediate †11Resistant †44Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2)Susceptible †171153738Intermediate †Resistant †144163* Includes only patients with pretreatment clarithromycin susceptibility test results† Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 – 1 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL
+Table 4 Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
+
+| Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes* |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Clarithromycin Pretreatment Results |  |  | Clarithromycin Post-treatment Results |  |  |
+|  | H. pylori negative – eradicated | H. pylori positive – not eradicatedPost-treatment susceptibility results |  |  |  |
+|  | S† | I† | R† | No MIC |  |
+| Dual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4, 5) |  |  |  |  |  |
+| Susceptible †108 | 72 | 1 |  | 26 | 9 |
+| Intermediate †1 |  |  |  | 1 |  |
+| Resistant †4 |  |  |  | 4 |  |
+| Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2) |  |  |  |  |  |
+| Susceptible †171 | 153 | 7 |  | 3 | 8 |
+| Intermediate † |  |  |  |  |  |
+| Resistant †14 | 4 | 1 |  | 6 | 3 |
+| * Includes only patients with pretreatment clarithromycin susceptibility test results† Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 – 1 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL |  |  |  |  |  |
 
 Patients not eradicated of H. pylori following omeprazole/clarithromycin/amoxicillin triple therapy or omeprazole/clarithromycin dual therapy will likely have clarithromycin resistant H. pylori isolates.
 Therefore, clarithromycin susceptibility testing should be done, if possible.
@@ -224,4 +242,4 @@ Standard clarithromycin and amoxicillin powders should provide the following MIC
 Effects on Gastrointestinal Microbial Ecology
 
 Decreased gastric acidity due to any means including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
-Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and possibly Clostridium difficile in hospitalized patients.
+Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and, in hospitalized patients, possibly also Clostridium difficile.

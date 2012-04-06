@@ -55,8 +55,9 @@ Tell your doctor about all your medical conditions, including if you:
   You and your doctor should decide if you will take Omeprazole Delayed-Release Capsules or breastfeed.
   You should not do both.
 
-Tell your doctor about all of the medicines you take including prescription and non-prescription drugs, vitamins and herbal supplements.
+Tell your doctor about all of the medicines you take including prescription and non-prescription drugs, anti-cancer drugs, vitamins and herbal supplements.
 Omeprazole Delayed-Release Capsules may affect how other medicines work, and other medicines may affect how Omeprazole Delayed-Release Capsules works.
+In some cases, a drug you may be taking may need to be temporarily withdrawn.
 Especially tell your doctor if you take:
 
 - atazanavir (Reyataz)
@@ -76,6 +77,8 @@ Especially tell your doctor if you take:
 - clopidogrel (Plavix)
 - St. John's Wort (Hypericum perforatum)
 - rifampin
+- erlotinib
+- methotrexate
 
 HOW SHOULD I TAKE OMEPRAZOLE DELAYED-RELEASE CAPSULES?
 
@@ -186,6 +189,6 @@ Kremers Urban Pharmaceuticals Inc.
 
 Princeton, NJ 08540, USA
 
-L3599Y
+CIA74312A
 
-Revised: 9E 07/2011
+Revised: 10E 03/2012
