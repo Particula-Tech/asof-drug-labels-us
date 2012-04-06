@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020337"
+  ],
+  "inn": "clobetasol",
+  "labeler": "PharmaDerm, A division of Fougera Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0462-0293-60"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "clobetasol propionate",
+      "name": "Temovate"
+    }
+  ],
+  "setid": "ecc6049d-2c2a-40e0-8780-158b166af406",
+  "source": "dailymed"
+}
