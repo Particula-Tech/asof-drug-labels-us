@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-approved patient labeling (Patient Information).]
+See FDA-approved patient labeling (Patient Information)
 
 Patients should be informed that severe and potentially life-threatening rash has been reported.
 Patients should be advised to immediately contact their healthcare provider if they develop rash.

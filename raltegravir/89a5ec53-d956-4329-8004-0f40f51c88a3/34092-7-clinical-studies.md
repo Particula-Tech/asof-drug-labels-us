@@ -179,6 +179,17 @@ Table 15: Virologic Response at 96 Week Window by Baseline Genotypic/Phenotypic 
 | 2 | 111 | 61 | 49 | 53 |  |
 | 3 or more | 51 | 49 | 23 | 35 |  |
 
+Switch of Suppressed Subjects from Lopinavir (+) Ritonavir to Raltegravir
+
+The SWITCHMRK 1 & 2 Phase 3 studies evaluated HIV-1 infected subjects receiving suppressive therapy (HIV-1 RNA <50 copies/mL on a stable regimen of lopinavir 200 mg (+) ritonavir 50 mg 2 tablets twice daily plus at least 2 nucleoside reverse transcriptase inhibitors for >3 months) and randomized them 1:1 to either continue lopinavir (+) ritonavir (n=174 and n=178, SWITCHMRK 1 & 2, respectively) or replace lopinavir (+) ritonavir with ISENTRESS 400 mg twice daily (n=174 and n=176, respectively).
+The primary virology endpoint was the proportion of subjects with HIV-1 RNA less than 50 copies/mL at Week 24 with a prespecified non-inferiority margin of -12% for each study; and the frequency of adverse events up to 24 weeks.
+
+Subjects with a prior history of virological failure were not excluded and the number of previous antiretroviral therapies was not limited.
+
+These studies were terminated after the primary efficacy analysis at Week 24 because they each failed to demonstrate non-inferiority of switching to ISENTRESS versus continuing on lopinavir (+) ritonavir.
+In the combined analysis of these studies at Week 24, suppression of HIV-1 RNA to less than 50 copies/mL was maintained in 82.3% of the ISENTRESS group versus 90.3% of the lopinavir (+) ritonavir group.
+Clinical and laboratory adverse events occurred at similar frequencies in the treatment groups.
+
 ## 14.3 Pediatric Subjects
 
 IMPAACT P1066 is a Phase I/II open label multicenter trial to evaluate the pharmacokinetic profile, safety, tolerability, and efficacy of raltegravir in HIV infected children.
