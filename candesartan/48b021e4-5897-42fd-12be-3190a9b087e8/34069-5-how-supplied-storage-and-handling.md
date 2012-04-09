@@ -26,7 +26,7 @@ Keep container tightly closed.
 
 ATACAND HCT is a trademark of the AstraZeneca group of companies
 
-©AstraZeneca 2008
+©AstraZeneca 2012
 
 Manufactured under the license from Takeda Pharmaceutical Company, Ltd.
 
@@ -34,7 +34,5 @@ by: AstraZeneca AB, S-151 85 Södertälje, Sweden
 
 for: AstraZeneca LP, Wilmington, DE 19850
 
-Made in Sweden
-
 Rev.
-04/11
+03/12
