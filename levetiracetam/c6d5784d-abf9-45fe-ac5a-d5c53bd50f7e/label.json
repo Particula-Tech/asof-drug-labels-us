@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021872"
+  ],
   "inn": "levetiracetam",
-  "labeler": "UCB Inc.",
+  "labeler": "UCB, Inc.",
   "package_ndcs": [
     "50474-002-63"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "levetiracetam",
+      "name": "Keppra"
+    }
+  ],
   "setid": "c6d5784d-abf9-45fe-ac5a-d5c53bd50f7e",
   "source": "dailymed"
 }
