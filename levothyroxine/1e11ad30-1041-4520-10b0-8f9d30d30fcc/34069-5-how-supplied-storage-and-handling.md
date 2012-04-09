@@ -27,4 +27,4 @@ Abbott Laboratories
 
 North Chicago, IL 60064, U.S.A.
 
-Revised: 06/2011
+03–A500 June 2011
