@@ -6,8 +6,10 @@ For Dermatologic Use Only — Not for Ophthalmic Use
 
 PRODUCT INFORMATION
 
-Rev.
-5/07 Copyright © 1988, 2004, Schering Corporation.
-All rights reserved.
+Manufactured by: Schering-Plough Canada, Inc., Pointe Claire, Quebec, Canada
 
-B-23409852 23816431T
+Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+
+Copyright © 1988, 2004 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
+Rev.
+8/10 34489505T
