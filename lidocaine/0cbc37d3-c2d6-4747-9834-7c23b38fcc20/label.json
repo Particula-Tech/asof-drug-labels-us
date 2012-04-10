@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA086283"
+  ],
+  "inn": "lidocaine",
+  "labeler": "International Medication Systems, Limited",
+  "package_ndcs": [
+    "76329-3011-5",
+    "76329-3012-5",
+    "76329-3013-5",
+    "76329-3015-5"
+  ],
+  "products": [
+    {
+      "form": "JELLY",
+      "generic": "lidocaine hydrochloride",
+      "name": "Lidocaine Hydrochloride"
+    }
+  ],
+  "setid": "0cbc37d3-c2d6-4747-9834-7c23b38fcc20",
+  "source": "dailymed"
+}

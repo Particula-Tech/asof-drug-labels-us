@@ -1,0 +1,6 @@
+Rx Only
+
+INTERNATIONAL MEDICATION SYSTEMS, LIMITED SOUTH EL MONTE, CA 91733, U.S.A. An Amphastar Pharmaceuticals Company
+
+REV.
+7-11
