@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA090503"
+  ],
+  "inn": "lactulose",
+  "labeler": "Actavis Inc.",
+  "package_ndcs": [
+    "45963-439-63",
+    "45963-439-65"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "lactulose",
+      "name": "Constulose"
+    }
+  ],
+  "setid": "461ec39f-eeb4-4460-9b5c-62367d47162b",
+  "source": "dailymed"
+}
