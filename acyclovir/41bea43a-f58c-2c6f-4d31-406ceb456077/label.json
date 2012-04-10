@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075677"
+  ],
   "inn": "acyclovir",
   "labeler": "Apotex Corp.",
   "package_ndcs": [
     "60505-0042-5",
     "60505-0042-6"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "acyclovir",
+      "name": "ACYCLOVIR"
+    }
+  ],
   "setid": "41bea43a-f58c-2c6f-4d31-406ceb456077",
   "source": "dailymed"
 }
