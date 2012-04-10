@@ -18,6 +18,6 @@ Clinitest® and Clinistix® are registered trademarks of Bayer HealthCare LLC.
 
 SAGENT™
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Brazil ©2011 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Brazil ©2012 Sagent Pharmaceuticals, Inc.
 
-Revised: December 2011
+Revised: March 2012

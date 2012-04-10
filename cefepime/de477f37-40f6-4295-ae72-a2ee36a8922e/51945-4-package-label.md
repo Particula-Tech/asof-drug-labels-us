@@ -1,19 +1,35 @@
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – VIAL LABEL
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Vial Label
 
 NDC 25021-121-20
 
 Rx only
 
-Cefepime for Injection, USP 1 gram
+CEFEPIME FOR INJECTION, USP
 
-Single-Dose Vial For IV or IM Use After Constitution
+1 Gram/Vial
 
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – VIAL LABEL
+1g
+
+Single-Dose Vial
+
+For IV or IM Use
+
+After Constitution
+
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Vial Label
 
 NDC 25021-122-50
 
 Rx only
 
-Cefepime for Injection, USP 2 gram
+CEFEPIME FOR INJECTION, USP
 
-Single-Dose Vial For IV Use After Constitution
+2 Grams/Vial
+
+2g
+
+Single-Dose Vial
+
+For IV or IM Use
+
+After Constitution

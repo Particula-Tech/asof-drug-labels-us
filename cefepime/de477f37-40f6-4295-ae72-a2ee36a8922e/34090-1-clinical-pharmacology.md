@@ -14,7 +14,7 @@ The average plasma concentrations of cefepime and its derived pharmacokinetic pa
 
 Table 1: Average Plasma Concentrations in mcg/mL of Cefepime and Derived Pharmacokinetic Parameters (±SD), Intravenous Administration
 
-|  | Cefepime for Injection |  |  |
+|  | Cefepime for injection |  |  |
 | --- | --- | --- | --- |
 | Parameter | 500 mg IV | 1 g IV | 2 g IV |
 | 0.5 h | 38.2 | 78.7 | 163.1 |
@@ -33,7 +33,7 @@ The pharmacokinetics of cefepime are linear over the range of 500 mg to 2 g intr
 
 Table 2: Average Plasma Concentrations in mcg/mL of Cefepime and Derived Pharmacokinetic Parameters (±SD), Intramuscular Administration
 
-|  | Cefepime for Injection |  |  |
+|  | Cefepime for injection |  |  |
 | --- | --- | --- | --- |
 | Parameter | 500 mg IM | 1 g IM | 2 g IM |
 | 0.5 h | 8.2 | 14.8 | 36.1 |

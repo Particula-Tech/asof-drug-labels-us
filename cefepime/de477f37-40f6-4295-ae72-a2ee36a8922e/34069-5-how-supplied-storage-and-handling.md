@@ -10,10 +10,11 @@ Cefepime for Injection, USP is supplied as follows:
 
 ## Storage Conditions
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° and 30°C (between 59° and 86°F).
+Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° and 30°C (59° and 86°F).
 [See USP Controlled Room Temperature.]
 
 Protect from light.
+Retain in carton until time of use.
 
 LATEX-FREE
 
