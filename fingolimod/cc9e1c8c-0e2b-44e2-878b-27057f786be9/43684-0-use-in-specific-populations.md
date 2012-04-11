@@ -15,7 +15,7 @@ GILENYA should be used during pregnancy only if the potential benefit justifies 
 Pregnancy Registry
 
 A pregnancy registry has been established to collect information about the effect of GILENYA use during pregnancy.
-Physicians are encouraged to enroll pregnant patients, or pregnant women may enroll themselves in the GILENYA pregnancy registry by calling 1-877-598-7237.
+Physicians are encouraged to enroll pregnant patients, or pregnant women may register themselves in the GILENYA pregnancy registry by calling 1-877-598-7237 or visiting www.gilenyapregnancyregistry.com.
 
 Animal Data
 

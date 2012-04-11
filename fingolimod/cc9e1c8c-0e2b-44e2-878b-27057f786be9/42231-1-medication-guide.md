@@ -83,7 +83,7 @@ Pregnancy Registry: There is a registry for women who become pregnant during tre
 If you become pregnant while taking GILENYA, talk to your doctor about registering with the GILENYA Pregnancy Registry.
 The purpose of this registry is to collect information about your health and your baby’s health.
 
-For more information, you can call the GILENYA Pregnancy Registry at 1-877-598-7237.
+For more information, you can call the GILENYA Pregnancy Registry at 1-877-598-7237 or visit www.gilenyapregnancyregistry.com.
 
 - Are breastfeeding or plan to breastfeed.
   It is not known if GILENYA passes into your breast milk.
@@ -194,4 +194,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2011-104/T2010-82 July 2011/September 2010
+T2012-72/T2012-73 March 2012/March 2012
