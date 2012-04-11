@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA079196"
+  ],
+  "inn": "bumetanide",
+  "labeler": "West-ward Pharmaceutical Corp.",
+  "package_ndcs": [
+    "0641-6007-01",
+    "0641-6007-10",
+    "0641-6008-01",
+    "0641-6008-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bumetanide",
+      "name": "Bumetanide"
+    }
+  ],
+  "setid": "681b5e9d-e2c7-4f29-aaad-e06d4a528c11",
+  "source": "dailymed"
+}
