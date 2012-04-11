@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA076703"
+  ],
+  "inn": "desmopressin",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-0815-0"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "desmopressin acetate",
+      "name": "DESMOPRESSIN ACETATE"
+    }
+  ],
+  "setid": "1ac423b8-27a6-4cef-4a82-c50bf81b4f49",
+  "source": "dailymed"
+}
