@@ -28,8 +28,11 @@ Table 1 Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following a Sin
 | Cmax (ng/mL) | 1.0 | (0.6) | 1.8 | (1.0) |
 | Tmax (h) | 12.7 | (5.4) | 11.8 | (5.3) |
 | T1/2(h) | 13.2 | (6.2) | 12.4 | (6.1) |
-| AUC(0-48) (ng∙h/mL) | 18.4 | (10.3) | 34.2 | (16.9) |
-| AUCinf(ng∙h/mL) | 21.3 | (12.2) | 39.5 | (21.2) |
+| AUC(0-48) (ng•h/mL) | 18.4 | (10.3) | 34.2 | (16.9) |
+| AUCinf(ng•h/mL) | 21.3 | (12.2) | 39.5 | (21.2) |
+
+Figure 1.
+Mean R-oxybutynin plasma concentrations following a single dose of Oxybutynin chloride extended-release tablets 10 mg and oxybutynin 5 mg administered every 8 hours (n=23 for each treatment).
 
 Steady-state oxybutynin plasma concentrations are achieved by Day 3 of repeated Oxybutynin chloride extended-release tablets dosing, with no observed drug accumulation or change in oxybutynin and desethyloxybutynin pharmacokinetic parameters.
 
@@ -39,13 +42,17 @@ Sparse sampling technique was used to obtain serum samples.
 When all available data are normalized to an equivalent of 5 mg per day Oxybutynin chloride extended-release tablets, the mean pharmacokinetic parameters derived for R- and S-oxybutynin and R- and S-desethyloxybutynin are summarized in Table 2.
 The plasma-time concentration profiles for R- and S-oxybutynin are similar in shape; Figure 2 shows the profile for R-oxybutynin when all available data are normalized to an equivalent of 5 mg per day.
 
-Table 2 Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters in Children Aged 5-15 Following Administration of 5 to 20 mg Oxybutynin chloride extended-release tablets Once Daily (n=19) All available Data Normalized to an Equivalent of Oxybutynin chloride extended-release tablets 5 mg Once Daily
+Table 2 Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters in Children Aged 5-15 Following Administration of 5 to 20 mg Oxybutynin Chloride Extended-release Tablets Once Daily (n=19) All available Data Normalized to an Equivalent of Oxybutynin chloride extended-release tablets 5 mg Once Daily
 
-|  | R-Oxybutynin | S-Oxybutynin | R-Desethyloxybutynin | S-Desethyloxybutynin |
+|  | R- Oxybutynin | S- Oxybutynin | R-Desethyloxybutynin | S-Desethyloxybutynin |
 | --- | --- | --- | --- | --- |
 | Cmax (ng/mL) | 0.7 ± 0.4 | 1.3 ± 0.8 | 7.8 ± 3.7 | 4.2 ± 2.3 |
-| Tmax (hr) | 5 | 5 | 5 | 5 |
-| AUC(ng∙hr/mL) | 12.8 ± 7.0 | 23.7 ± 14.4 | 125.1 ± 66.7 | 73.6 ± 47.7 |
+| Tmax (hr) | 5.0 | 5.0 | 5.0 | 5.0 |
+| AUC(ng•hr/mL) | 12.8 ± 7.0 | 23.7 ± 14.4 | 125.1 ± 66.7 | 73.6 ± 47.7 |
+
+Figure 2.
+Mean steady-state (±SD) R-oxybutynin plasma concentrations following administration of 5 to 20 mg Oxybutynin chloride extended-release tablets once daily in children aged 5-15.
+Plot represents all available data normalized to an equivalent of Oxybutynin chloride extended-release tablets 5 mg once daily.
 
 ### Food Effects
 
@@ -53,8 +60,11 @@ The rate and extent of absorption and metabolism of oxybutynin are similar under
 
 ### Distribution
 
-Plasma concentrations of oxybutynin decline biexponentially following intravenous or oral administration.
-The volume of distribution is 193 L after intravenous administration of 5 mg oxybutynin chloride.
+Oxybutynin is widely distributed in body tissues following systemic absorption.
+The volume of distribution is 193L after intravenous administration of 5mg oxybutynin chloride.
+Both enantiomers of oxybutynin are highly bound (>99%) to plasma proteins.
+Both enantiomers of N-desethyloxybutynin are also highly bound (>97%) to plasma proteins.
+The major binding protein is alpha-1 acid glycoprotein.
 
 ### Metabolism
 

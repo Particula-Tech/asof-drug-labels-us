@@ -1,10 +1,3 @@
-# WARNINGS
-
-Angioedema of the face, lips, tongue and/or larynx has been reported with oxybutynin.
-In some cases, angioedema occurred after the first dose.
-Angioedema associated with upper airway swelling may be life-threatening.
-If involvement of the tongue, hypopharynx, or larynx occurs, oxybutynin should be promptly discontinued and appropriate therapy and/or measures necessary to ensure a patent airway should be promptly provided.
-
 # PRECAUTIONS
 
 ## Central Nervous System Effects
@@ -20,11 +13,11 @@ Oxybutynin chloride extended-release tablets should be used with caution in pati
 
 Oxybutynin chloride extended-release tablets should be used with caution in patients with hepatic or renal impairment and in patients with myasthenia gravis due to the risk of symptom aggravation.
 
-### Urinary Retention
+Urinary Retention
 
 Oxybutynin chloride extended-release tablets should be administered with caution to patients with clinically significant bladder outflow obstruction because of the risk of urinary retention (see CONTRAINDICATIONS).
 
-### Gastrointestinal Disorders
+Gastrointestinal Disorders
 
 Oxybutynin chloride extended-release tablets should be administered with caution to patients with gastrointestinal obstructive disorders because of the risk of gastric retention (see CONTRAINDICATIONS).
 
@@ -43,21 +36,24 @@ Patients should be advised to promptly discontinue oxybutynin therapy and seek i
 Patients should be informed that heat prostration (fever and heat stroke due to decreased sweating) can occur when anticholinergics such as oxybutynin chloride are administered in the presence of high environmental temperature.
 
 Because anticholinergic agents such as oxybutynin may produce drowsiness (somnolence) or blurred vision, patients should be advised to exercise caution.
+
 Patients should be informed that alcohol may enhance the drowsiness caused by anticholinergic agents such as oxybutynin.
 
 Patients should be informed that Oxybutynin chloride extended-release tablets should be swallowed whole with the aid of liquids.
 Patients should not chew, divide, or crush tablets.
 The medication is contained within a nonabsorbable shell designed to release the drug at a controlled rate.
 The tablet shell is eliminated from the body; patients should not be concerned if they occasionally notice in their stool something that looks like a tablet.
+
 Oxybutynin chloride extended-release tablets should be taken at approximately the same time each day.
 
 ## Drug Interactions
 
 The concomitant use of oxybutynin with other anticholinergic drugs or with other agents which produce dry mouth, constipation, somnolence (drowsiness), and/or other anticholinergic-like effects may increase the frequency and/or severity of such effects.
+
 Anticholinergic agents may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility.
 This may be of concern for drugs with a narrow therapeutic index.
 
-Mean oxybutynin chloride plasma concentrations were approximately 2 fold higher when Oxybutynin chloride extended-release tablets were administered with ketoconazole, a potent CYP3A4 inhibitor.
+Mean oxybutynin chloride plasma concentrations were approximately 2 fold higher when Oxybutynin chloride extended-release tablets was administered with ketoconazole, a potent CYP3A4 inhibitor.
 Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., itraconazole and miconazole) or macrolide antibiotics (e.g., erythromycin and clarithromycin), may alter oxybutynin mean pharmacokinetic parameters (i.e., Cmax and AUC).
 The clinical relevance of such potential interactions is not known.
 Caution should be used when such drugs are co-administered.
@@ -66,14 +62,16 @@ Caution should be used when such drugs are co-administered.
 
 A 24-month study in rats at dosages of oxybutynin chloride of 20, 80, and 160 mg/kg/day showed no evidence of carcinogenicity.
 These doses are approximately 6, 25, and 50 times the maximum human exposure, based on surface area.
-Oxybutynin chloride showed no increase of mutagenic activity when tested in Schizosaccharomyces pompholiciformis, Saccharomyces cerevisiae, and Salmonella typhimurium test systems.
+
+Oxybutynin chloride showed no increase ofmutagenic activity when tested in Schizosaccharomyces pompholiciformis, Saccharomyces cerevisiae, and Salmonella typhimurium test systems.
+
 Reproduction studies with oxybutynin chloride in the mouse, rat, hamster, and rabbit showed no definite evidence of impaired fertility.
 
 ## Pregnancy
 
-### Teratogenic Effects
+Teratogenic Effects
 
-#### Pregnancy Category B
+Pregnancy Category B
 
 Reproduction studies with oxybutynin chloride in the mouse, rat, hamster, and rabbit showed no definite evidence of impaired fertility or harm to the animal fetus.
 The safety of Oxybutynin chloride extended-release tablets administration to women who are or who may become pregnant has not been established.
@@ -82,7 +80,7 @@ Therefore, Oxybutynin chloride extended-release tablets should not be given to p
 ## Nursing Mothers
 
 It is not known whether oxybutynin is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Oxybutynin chloride extended-release tablets are administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when Oxybutynin chloride extended-release tablets is administered to a nursing woman.
 
 ## Pediatric Use
 
@@ -93,7 +91,7 @@ Study results demonstrated that administration of Oxybutynin chloride extended-r
 Urodynamic results were consistent with clinical results.
 Administration of Oxybutynin chloride extended-release tablets resulted in an increase from baseline in mean maximum cystometric capacity from 185 mL to 254 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 44 cm H2O to 33 cm H2O, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H2O) from 60% to 28%.
 
-Oxybutynin chloride extended-release tablets are not recommended in pediatric patients who can not swallow the tablet whole without chewing, dividing, or crushing, or in children under the age of 6 (See DOSAGE AND ADMINISTRATION).
+Oxybutynin chloride extended-release tablets is not recommended in pediatric patients who can not swallow the tablet whole without chewing, dividing, or crushing, or in children under the age of 6 (See DOSAGE AND ADMINISTRATION).
 
 ## Geriatric Use
 

@@ -1,18 +1,19 @@
 # DESCRIPTION
 
+Prescribing Information
+
 Oxybutynin chloride extended-release tablets are an antispasmodic, anticholinergic agent.
 Each Oxybutynin chloride extended-release tablet contains 5 mg, 10 mg, or 15 mg of oxybutynin chloride USP, formulated as a once-a-day extended-release tablet for oral administration.
 Oxybutynin chloride is administered as a racemate of R- and S-enantiomers.
 
 Chemically, oxybutynin chloride is d,l (racemic) 4-diethylamino-2-butynyl phenylcyclohexylglycolate hydrochloride.
-The empirical formula of oxybutynin chloride is C22H31NO3 • HCl.
 
-Its structural formula is:
+The empirical formula of oxybutynin chloride is C22H31NO3 • HCl.
 
 Oxybutynin chloride is a white crystalline solid with a molecular weight of 393.9.
 It is readily soluble in water and acids, but relatively insoluble in alkalis.
 
-Oxybutynin chloride extended-release tablets also contain the following inert ingredients: anhydrous lactose, lactose monohydrate, mannitol, anhydrous dextrose, tartaric acid, colloidal silicon dioxide, magnesium stearate, cellulose acetate, polyethylene glycol, titanium dioxide, triacetin, black iron oxide, propylene glycol, hypromellose.
+Oxybutynin chloride extended-release tablets also contain the following inert ingredients: lactose, mannitol, dextrose, tartaric acid, colloidal silicon dioxide, magnesium stearate, cellulose acetate, polyethylene glycol, titanium dioxide, triacetin, black iron oxide, propylene glycol, and hypromellose.
 
 ## System Components and Performance
 

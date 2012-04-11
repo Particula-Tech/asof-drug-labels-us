@@ -1,8 +1,8 @@
 # ADVERSE REACTIONS
 
-## Adverse Events with Oxybutynin chloride extended-release tablets
+## Adverse Events with Oxybutynin Chloride Extended-release Tablets
 
-The safety and efficacy of Oxybutynin chloride extended-release tablets were evaluated in a total of 580 participants who received Oxybutynin chloride extended-release tablets in 4 clinical trials (429 patients) and four pharmacokinetic studies (151 healthy volunteers).
+The safety and efficacy of Oxybutynin chloride extended-release tablets was evaluated in a total of 580 participants who received Oxybutynin chloride extended-release tablets in 4 clinical trials (429 patients), and for pharmacokinetic studies (151 healthy volunteers).
 The 429 patients were treated with 5-30 mg/day for up to 4.5 months.
 Three of the 4 clinical trials allowed dose adjustments based on efficacy and adverse events and one was a fixed dose escalation design.
 Safety information is provided for 429 patients from these three controlled clinical studies and one open label study in the first column of Table 3 below.
@@ -10,9 +10,11 @@ Safety information is provided for 429 patients from these three controlled clin
 Adverse events from two additional fixed dose, active controlled, 12 week treatment duration, postmarketing studies, in which 576 patients were treated with Oxybutynin chloride extended-release tablets 10 mg/day, are also listed in Table 3 (second column).
 The adverse events are reported regardless of causality.
 
-Table 3 Incidence (%) of Adverse Events Reported by ≥ 5% of Patients Using Oxybutynin chloride extended-release tablets (5-30 mg/day) and % of Corresponding Adverse Events in Two Fixed Dose (10 mg/day) Studies
+Table 3
 
-| Body System | Adverse Event | Oxybutynin chloride extended-release tablets 5-30 mg/day (n=429) | Oxybutynin chloride extended-release tablets 10 mg/day (n=576) |
+Incidence (%) of Adverse Events Reported by ≥ 5% of Patients Using Oxybutynin chloride extended-release tablets (5-30 mg/day) and % of Corresponding Adverse Events in Two Fixed Dose (10 mg/day) Studies
+
+| Body System | Adverse Event | Oxybutynin chloride extended-release tablets5-30 mg/day(n=429) | Oxybutynin chloride extended-release tablets10 mg/day(n=576) |
 | --- | --- | --- | --- |
 | General | headache | 10 | 6 |
 |  | asthenia | 7 | 3 |
@@ -35,12 +37,12 @@ The incidence of dry mouth was dose-related.
 The discontinuation rate for all adverse events was 6.8% in the 429 patients from the 4 studies of efficacy and safety who received 5-30 mg/day.
 The most frequent adverse event causing early discontinuation of study medication was nausea (1.9%), while discontinuation due to dry mouth was 1.2%.
 
-In addition, the following adverse events were reported by ≥1 to < 5% of all patients who received Oxybutynin chloride extended-release tablets in the 6 adjustable and fixed dose efficacy and safety studies.
-Infections and infestations: nasopharyngitis, upper respiratory tract infection, sinusitis, bronchitis, cystitis; Psychiatric disorders: insomnia, depression, nervousness, confusional state; Nervous System Disorders: dysgeusia; Cardiac disorders: palpitations; Vascular disorders: hypertension; Respiratory, thoracic and mediastinal disorders: nasal dryness, cough, pharyngolaryngeal pain, dry throat; Gastrointestinal Disorders: gastroesophageal reflux disease, abdominal pain, loose stools, flatulence, vomiting; Skin and subcutaneous tissue disorders: dry skin, pruritis; Musculoskeletal and connective tissue disorders: back pain, arthralgia, pain in extremity; Renal and urinary disorders: urinary retention, urinary hesitation, dysuria; General disorders and administration site conditions: fatigue, edema peripheral, asthenia, chest pain; Investigations: blood pressure increased.
+In addition, the following adverse events were reported by ≥1 to < 5% of all patients who received Oxybutynin chloride extended-release tablets in the 4 efficacy and safety studies.
+Infections and infestations: nasopharyngitis, upper respiratory tract infection, sinusitis, bronchitis, cystitis; Psychiatric disorders:insomnia, depression, nervousness, confusional state; Nervous System Disorders:dysgeusia; Cardiac disorders: palpitations; Vascular disorders: hypertension; Respiratory, thoracic and mediastinal disorders: nasal dryness, cough, pharyngolaryngeal pain, dry throat; Gastrointestinal Disorders: gastroesophageal reflux disease, abdominal pain, loose stools, flatulence, vomiting; Skin and subcutaneous tissue disorders: dry skin, pruritis; Musculoskeletal and connective tissue disorders: back pain, arthralgia, pain in extremity; Renal and urinary disorders: urinary retention, urinary hesitation, dysuria; General disorders and administration site conditions: fatigue, edema peripheral, asthenia, chest pain; Investigations: blood pressure increased.
 
 ## Postmarketing Surveillance
 
 Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following additional adverse drug reactions have been reported from worldwide postmarketing experience with Oxybutynin chloride extended-release tablets: Psychiatric Disorders: psychotic disorder, agitation, hallucinations; Nervous System Disorders: convulsions; Cardiac Disorders: arrhythmia; tachycardia; QT interval prolongation, Vascular Disorders: flushing; Skin and Subcutaneous Tissue Disorders: rash; Renal and Urinary Disorders: impotence; General Disorders and Administration Site Conditions: hypersensitivity reactions, including angioedema with airway obstruction, urticaria, and face edema; rare anaphylactic reactions requiring hospitalization for emergency treatment; Injury, poisoning and procedural complications: fall.
+The following additional adverse drug reactions have been reported from worldwide postmarketing experience with Oxybutynin chloride extended-release tablets: Psychiatric Disorders: psychotic disorder, agitation, hallucinations, memory impairment; Nervous System Disorders: convulsions; Cardiac Disorders: arrhythmia; Tachycardia, QT interval prolongation; Vascular Disorders: flushing; Skin and Subcutaneous Tissue Disorders: rash; Renal and Urinary Disorders: impotence; General Disorders and Administration Site Conditions: hypersensitivity reactions, including angioedema with airway obstruction, urticarial, and face edema; rare anaphylactic reactions requiring hospitalization for emergency treatment; Injury, poisoning and procedural complications: fall.
 
 Additional adverse events reported with some other oxybutynin chloride formulations include: cycloplegia, mydriasis, and suppression of lactation.

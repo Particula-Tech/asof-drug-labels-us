@@ -1,12 +1,6 @@
-Rx Only
+# WARNINGS
 
-Prescribing Information
-
-For Medical Information Contact: Medical Affairs Department Phone: (866) 822-0068 Fax: (770) 970-8859
-
-Distributed by: Kremers Urban Pharmaceuticals Inc. Princeton, NJ 08540, USA
-
-for: Wilmington, NC 28405, USA
-
-L5094F Rev.
-5E 07/2011
+Angioedema of the face, lips, tongue and/or larynx has been reported with oxybutynin.
+In some cases, angioedema occurred after the first dose.
+Angioedema associated with upper airway swelling may be life-threatening.
+If involvement of the tongue, hypopharynx, or larynx occurs, oxybutynin should be promptly discontinued and appropriate therapy and/or measures necessary to ensure a patent airway should be promptly provided.
