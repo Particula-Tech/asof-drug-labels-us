@@ -4,6 +4,8 @@ The following serious adverse reactions are discussed in greater detail in anoth
 
 - Non-infectious pneumonitis [see Warnings and Precautions (5.1)].
 - Infections [see Warnings and Precautions (5.2)].
+- Oral Ulcers [see Warnings and Precautions (5.3)].
+- Renal failure events [see Warnings and Precautions (5.4)].
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.
 
@@ -189,7 +191,7 @@ Nervous system disorders: Dizziness (7%), paresthesia (5%)
 
 Eye disorders: Eyelid edema (4%), conjunctivitis (2%)
 
-Vascular disorders: Hypertension (4%)
+Vascular disorders: Hypertension (4%), deep vein thrombosis (<1%)
 
 Renal and urinary disorders: Renal failure (3%)
 

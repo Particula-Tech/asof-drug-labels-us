@@ -43,7 +43,7 @@ Therefore, the use of AFINITOR in patients with carcinoid tumors remains investi
 
 An international, multi-center, randomized, double-blind trial comparing AFINITOR 10 mg daily and placebo, both in conjunction with best supportive care, was conducted in patients with metastatic RCC whose disease had progressed despite prior treatment with sunitinib, sorafenib, or both sequentially.
 Prior therapy with bevacizumab, interleukin 2, or interferon-α was also permitted.
-Randomization was stratified according to prognostic score1 and prior anticancer therapy.
+Randomization was stratified according to prognostic score and prior anticancer therapy [see References (15)].
 
 Progression-free survival (PFS), documented using Response Evaluation Criteria in Solid Tumors (RECIST) was assessed via a blinded, independent, central radiologic review.
 After documented radiological progression, patients could be unblinded by the investigator: those randomized to placebo were then able to receive open-label AFINITOR 10 mg daily.
@@ -53,7 +53,8 @@ Demographics were well balanced between the two arms (median age 61 years; 77% m
 
 AFINITOR was superior to placebo for PFS (see Table 8 and Figure 2).
 The treatment effect was similar across prognostic scores and prior sorafenib and/or sunitinib.
-The overall survival (OS) results were not mature and 32% of patients had died by the time of cut-off.
+Final overall survival (OS) results yield a hazard ratio of 0.90 (95% CI: 0.71 to 1.14), with no statistically significant difference between the two treatment groups.
+Planned crossover from placebo due to disease progression to open label AFINITOR occurred in 111 of the 139 patients (79.9%) and may have confounded the OS benefit.
 
 Table 8: Efficacy Results by Central Radiologic Review
 

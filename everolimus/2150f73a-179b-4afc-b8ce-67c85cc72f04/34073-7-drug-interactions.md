@@ -30,4 +30,6 @@ St. John’s Wort may decrease everolimus exposure unpredictably and should be a
 
 Studies in healthy subjects indicate that there are no clinically significant pharmacokinetic interactions between AFINITOR and the HMG-CoA reductase inhibitors atorvastatin (a CYP3A4 substrate) and pravastatin (a non-CYP3A4 substrate) and population pharmacokinetic analyses also detected no influence of simvastatin (a CYP3A4 substrate) on the clearance of AFINITOR.
 
+A study in healthy subjects demonstrated that co-administration of an oral dose of midazolam (sensitive CYP3A4 substrate) with everolimus resulted in a 25% increase in midazolam Cmax and a 30% increase in midazolam AUC(0-inf).
+
 Coadministration of everolimus and depot octreotide increased octreotide Cmin by approximately 50%.

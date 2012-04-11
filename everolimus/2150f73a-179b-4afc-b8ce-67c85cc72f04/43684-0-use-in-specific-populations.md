@@ -32,8 +32,10 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
+AFINITOR is not recommended for use in pediatric cancer patients or in patients with SEGA < 3 years of age.
+
 A prospective, open-label, single-arm trial was conducted to evaluate the safety and efficacy of AFINITOR in patients with SEGA associated with TS.
-In total, 28 patients received treatment with AFINITOR; median age was 11 years (range 3-34).
+In total, 28 patients received treatment with AFINITOR; median age was 11 years (range 3 34).
 AFINITOR has not been studied in patients with SEGA < 3 years of age.
 
 ## 8.5 Geriatric Use
@@ -50,12 +52,11 @@ Renal impairment is not expected to influence drug exposure and no dosage adjust
 
 ## 8.7 Hepatic Impairment
 
-The safety and pharmacokinetics of AFINITOR were evaluated in a study in eight patients with moderate hepatic impairment (Child-Pugh class B) and eight subjects with normal hepatic function.
-Exposure was increased in patients with moderate hepatic impairment [see Clinical Pharmacology (12.3)].
+The safety, tolerability and pharmacokinetics of AFINITOR were evaluated in a 34 subject single oral dose study of everolimus in subjects with impaired hepatic function relative to subjects with normal hepatic function.
+Exposure was increased in patients with mild (Child-Pugh class A), moderate (Child-Pugh class B), and severe (Child-Pugh class C) hepatic impairment [see Clinical Pharmacology (12.3)].
 
-For advanced PNET and advanced RCC patients with moderate hepatic impairment (Child-Pugh class B), a dose reduction is recommended [see Dosage and Administration (2.2)].
+For advanced PNET and advanced RCC patients with severe hepatic impairment, AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
+For patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment, a dose reduction is recommended [see Dosage and Administration (2.2)].
 
-For SEGA patients with moderate hepatic impairment (Child-Pugh class B), adjustment to the starting dose may not be needed.
-However, subsequent dosing should be individualized based on therapeutic drug monitoring [see Dosage and Administration (2.5)].
-
-The impact of severe hepatic impairment (Child-Pugh class C) has not been assessed and use in this patient population is not recommended.
+For SEGA patients with severe hepatic impairment (Child-Pugh class C), AFINITOR is not recommended.
+For SEGA patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment, adjustment to the starting dose may not be needed; however, subsequent dosing should be individualized based on therapeutic drug monitoring [see Dosage and Administration (2.4, 2.5)].

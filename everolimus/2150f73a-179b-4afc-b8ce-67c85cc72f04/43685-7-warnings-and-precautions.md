@@ -47,7 +47,7 @@ Antifungal agents should not be used unless fungal infection has been diagnosed 
 
 ## 5.4 Renal Failure Events
 
-Cases of renal failure (including acute renal failure), some with a fatal outcome, have been observed in patients treated with Afinitor [see Laboratory Tests and Monitoring (5.5)].
+Cases of renal failure (including acute renal failure), some with a fatal outcome, have been observed in patients treated with AFINITOR [see Laboratory Tests and Monitoring (5.5)].
 
 ## 5.5 Laboratory Tests and Monitoring
 
@@ -77,14 +77,13 @@ An increase in the AFINITOR dose is recommended when co-administered with a stro
 
 ## 5.7 Hepatic Impairment
 
-Exposure of everolimus was increased in patients with moderate hepatic impairment [see Clinical Pharmacology (12.3)].
+Exposure to everolimus was increased in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 
-For advanced PNET and advanced RCC patients with moderate hepatic impairment (Child-Pugh class B), a dose reduction is recommended [see Dosage and Administration (2.2)].
+For advanced PNET and advanced RCC patients with severe hepatic impairment (Child-Pugh class C), AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
+For patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment, a dose reduction is recommended [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
-For SEGA patients with moderate hepatic impairment (Child-Pugh class B), adjustment to the starting dose may not be needed.
-However, subsequent dosing should be individualized based on therapeutic drug monitoring [see Dosage and Administration (2.5)].
-
-AFINITOR has not been studied in patients with severe hepatic impairment (Child-Pugh class C) and should not be used in this population.
+For SEGA patients with severe hepatic impairment, AFINITOR is not recommended.
+For SEGA patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment, adjustment to the starting dose may not be needed; however subsequent dosing should be individualized based on therapeutic drug monitoring [see Dosage and Administration (2.4, 2.5)].
 
 ## 5.8 Vaccinations
 

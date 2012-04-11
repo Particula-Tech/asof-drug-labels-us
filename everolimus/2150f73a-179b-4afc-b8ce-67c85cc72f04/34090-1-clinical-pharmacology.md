@@ -54,8 +54,6 @@ Six main metabolites of everolimus have been detected in human blood, including 
 These metabolites were also identified in animal species used in toxicity studies, and showed approximately 100-times less activity than everolimus itself.
 
 In vitro, everolimus competitively inhibited the metabolism of CYP3A4 and was a mixed inhibitor of the CYP2D6 substrate dextromethorphan.
-The mean steady-state Cmax following an oral dose of 10 mg daily is more than 12-fold below the Ki-values of the in vitro inhibition.
-Therefore, an effect of everolimus on the metabolism of CYP3A4 and CYP2D6 substrates is unlikely.
 
 Excretion
 
@@ -71,14 +69,16 @@ In a population pharmacokinetic analysis which included 170 patients with advanc
 
 Patients with Hepatic Impairment
 
-The average AUC of everolimus in eight subjects with moderate hepatic impairment (Child-Pugh class B) was twice that found in eight subjects with normal hepatic function.
-AUC was positively correlated with serum bilirubin concentration and with prolongation of prothrombin time and negatively correlated with serum albumin concentration.
+The safety, tolerability and pharmacokinetics of AFINITOR were evaluated in a single oral dose study of everolimus in subjects with impaired hepatic function relative to subjects with normal hepatic function.
+Compared to normal subjects (N=13), there was a 1.8-fold, 3.2-fold, and 3.6-fold increase in exposure (i.e.
+AUC) for subjects with mild (Child-Pugh class A, N=6), moderate (Child-Pugh class B, N=9), and severe (Child-Pugh class C, N=6) hepatic impairment, respectively.
+In another study, the average AUC of everolimus in eight subjects with moderate hepatic impairment (Child-Pugh class B) was twice that found in eight subjects with normal hepatic function.
 
-For advanced PNET and advanced RCC patients with moderate hepatic impairment (Child-Pugh class B), a dose reduction is recommended [see Dosage and Administration (2.2)].
-For SEGA patients with moderate hepatic impairment (Child-Pugh class B), adjustment to the starting dose may not be needed.
-However, subsequent dosing should be individualized based on therapeutic drug monitoring [see Dosage and Administration (2.5)].
+For advanced PNET and advanced RCC patients with severe hepatic impairment, AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
+For patients with moderate or mild hepatic impairment, a dose reduction is recommended [see Dosage and Administration (2.2)].
 
-AFINITOR should not be used in patients with severe hepatic impairment (Child-Pugh class C) as the impact of severe hepatic impairment on everolimus exposure has not been assessed [see Dosage and Administration (2.2), Warnings and Precautions (5.7), and Use in Specific Populations (8.7)].
+For SEGA patients with mild (Child-Pugh class A) or moderate hepatic impairment (Child-Pugh class B), adjustment to the starting dose may not be needed; however, subsequent dosing should be individualized based on therapeutic drug monitoring [see Dosage and Administration (2.5)].
+For SEGA patients with severe hepatic impairment (Child-Pugh class C), AFINITOR should not be used.
 
 Effects of Age and Gender
 

@@ -51,7 +51,8 @@ AFINITOR is a prescription medicine used to treat:
   It is not known if AFINITOR is safe and effective in people with carcinoid tumors.
 - people with advanced kidney cancer (renal cell carcinoma or RCC) when certain other medicines have not worked.
 - subependymal giant cell astrocytoma (SEGA), a brain tumor seen with a genetic condition called tuberous sclerosis (TS).
-  It is not known if AFINITOR is safe and effective in children under 3 years of age with SEGA.
+
+It is not known if AFINITOR is safe and effective in children under 3 years of age with SEGA.
 
 AFINITOR may slow the growth and spread of kidney cancer and pancreatic neuroendocrine tumors.
 
@@ -229,18 +230,10 @@ Inactive ingredients: butylated hydroxytoluene, magnesium stearate, lactose mono
 
 The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Novartis.
 
-Manufactured by:
+Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
 
-Novartis Pharma Stein AG
-
-Stein, Switzerland
-
-Distributed by:
-
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2011-98/T2011-79 July 2011/May 2011
+T2012-47/T2011-79 March 2012/May 2011

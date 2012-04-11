@@ -29,28 +29,19 @@ Inform patients of the need to monitor blood chemistry and hematology prior to t
 
 ## 17.6 Drug-drug Interactions
 
-Advise patients to inform their healthcare providers of all concomitant medications, including over-the-counter medications and dietary supplements [see Dosage and Administration (2.2, 2.4), Warnings and Precautions (5.6), Drug Interactions (7.1, 7.2)].
+Advise patients to inform their healthcare providers of all concomitant medications, including over-the-counter medications and dietary supplements.
+Inform the patients to avoid concomitant administration of strong CYP3A4 inhibitors or inducers while on AFINITOR treatment.
+[see Dosage and Administration (2.2, 2.4), Warnings and Precautions (5.6), Drug Interactions (7.1, 7.2)].
 
-Avoid concurrent treatment with strong CYP3A4 inhibitors.
-Use caution if AFINITOR must be co-administered with moderate CYP3A4 and/or PgP inhibitors; reduce the dose and carefully monitor the patient for undesirable effects.
-Avoid concurrent treatment with strong CYP3A4 inducers.
-If AFINITOR must be co-administered with strong CYP3A4 inducers, consider a dose increase and carefully monitor the patient for clinical response.
-
-## 17.7 Hepatic Impairment
-
-Advise patients that AFINITOR is not recommended in patients with severe hepatic impairment (Child-Pugh class C). For advanced PNET and advanced RCC patients with moderate hepatic impairment (Child-Pugh class B), prescribe a reduced dose of 5 mg AFINITOR per day [see Dosage and Administration (2.2), Warnings and Precautions (5.7), and Clinical Pharmacology (12)].
-For SEGA patients with moderate hepatic impairment (Child-Pugh class B), adjustment to the starting dose may not be needed.
-However, subsequent dosing should be individualized based on therapeutic drug monitoring [Warnings and Precautions (5.7) and Clinical Pharmacology (12)].
-
-## 17.8 Vaccinations
+## 17.7 Vaccinations
 
 Advise patients to avoid the use of live vaccines and close contact with those who have received live vaccines [see Warnings and Precautions (5.8)].
 
-## 17.9 Pregnancy
+## 17.8 Pregnancy
 
 Advise female patients of childbearing potential that AFINITOR may cause fetal harm and that an effective method of contraception should be used during therapy with AFINITOR and for 8 weeks after ending treatment.
 
-## 17.10 Dosing Instructions
+## 17.9 Dosing Instructions
 
 Inform patients to take AFINITOR orally once daily at the same time every day, either consistently with food or consistently without food.
 The tablets should not be crushed or chewed.
@@ -62,5 +53,3 @@ Instruct patients that if they miss a dose of AFINITOR, they may still take it u
 If more than 6 hours have elapsed, they should be instructed to skip the dose for that day.
 The next day, they should take AFINITOR at the usual time.
 Warn patients to not take 2 doses to make up for the one that they missed.
-
-T2011-98
