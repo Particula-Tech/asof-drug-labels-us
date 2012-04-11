@@ -26,7 +26,7 @@ Pediatric patients may be more susceptible than adults to systemic toxicity from
 ## 5.2 Local Adverse Reactions with Topical Corticosteroids
 
 Local adverse reactions may be more likely to occur with occlusive use, prolonged use or use of higher potency corticosteroids.
-Reactions may include atrophy, striae, telangiectasis, burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, and malaria.
+Reactions may include atrophy, striae, telangiectasis, burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, and miliaria.
 Some local adverse reactions may be irreversible.
 
 ## 5.3 Concomitant Skin Infections

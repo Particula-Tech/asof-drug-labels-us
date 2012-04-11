@@ -49,7 +49,7 @@ How should I use VANOS Cream?
 
 What are the possible side effects with VANOS Cream?
 
-VANOS may cause side effects, including:
+VANOS Cream may cause side effects, including:
 
 - Symptoms of a disorder where the adrenal gland does not make enough of certain hormones (adrenal insufficiency) during treatment or after stopping treatment.
   Your doctor may do blood tests to check you for adrenal insufficiency while you are using VANOS Cream.
@@ -119,4 +119,4 @@ U.S. Patents 6,765,001; 7,217,422; 7,220,424; 7,771,733; 7,794,738 and Patents P
 
 VANOS is a registered trademark of Medicis Pharmaceutical Corporation.
 
-Approved 11/2011 05100242
+Approved 03/2012 05100253

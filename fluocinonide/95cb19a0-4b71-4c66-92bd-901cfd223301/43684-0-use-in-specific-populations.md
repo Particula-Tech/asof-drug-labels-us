@@ -25,7 +25,7 @@ The first cohort of 31 patients (mean 36.3% BSA) 12 to < 18 years old; the secon
 VANOS Cream caused HPA-axis suppression in 1 patient in the twice daily group in Cohort 1, 2 patients in the twice daily group in Cohort 2, and 1 patient in the twice daily group in Cohort 3.
 Follow-up testing 14 days after treatment discontinuation, available for all 4 suppressed patients, demonstrated a normally responsive HPA axis.
 Signs of skin atrophy were present at baseline and severity was not determined making it difficult to assess local skin safety.
-Therefore, the safety of VANOS Cream in patients younger than 12 years of age has not been demonstrated [see Warnings and Precautions (5.1)].
+Therefore, the safety of VANOS Cream in patients younger than 12 years of age has not been demonstrated [see Warnings and Precautions (5.2)].
 
 HPA axis suppression has not been evaluated in patients with psoriasis who are less than 18 years of age.
 

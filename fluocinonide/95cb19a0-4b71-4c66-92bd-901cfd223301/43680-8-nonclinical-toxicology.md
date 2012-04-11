@@ -12,3 +12,7 @@ Topical (dermal) application of 0.0003%–0.03% fluocinonide cream to rats once 
 A NOAEL could not be determined in this study.
 In addition, topical (dermal) application of 0.1% fluocinonide cream plus UVR exposure to hairless mice for 13 weeks and 150–900 mg/kg/day of 0.1% fluocinonide cream to minipigs (a model which more closely approximates human skin) for 13 weeks produced glucocorticoid-related suppression of the HPA axis, with some signs of immunosuppression noted in the dermal minipig study.
 Although the clinical relevance of the findings in animals to humans is not clear, sustained glucocorticoid-related immune suppression may increase the risk of infection and possibly the risk for carcinogenesis.
+
+Topical doses of 0% (fluocinonide cream vehicle), 0.0001%, 0.005% and 0.001% fluocinonide cream were evaluated in a 52 week dermal photo-carcinogenicity study (40 weeks of treatment followed by 12 weeks of observation) conducted in hairless albino mice with concurrent exposure to low level ultraviolet radiation.
+Topical treatment with increasing concentrations of fluocinonide cream did not have an adverse effect in this study.
+The results of this study suggest that topical treatment with VANOS Cream would not enhance photo-carcinogenesis.
