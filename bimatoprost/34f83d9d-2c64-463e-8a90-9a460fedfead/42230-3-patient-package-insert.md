@@ -64,7 +64,6 @@ Any darkening of the colored part of the eye known as the iris is NOT expected t
 
 How do I use LATISSE®?
 
-LATISSE® solution is packaged as a 3 mL bottle of solution with 60 accompanying sterile, disposable applicators.
 The recommended dosage is one application nightly to the skin of the upper eyelid margin at the base of the eyelashes only.
 
 Once nightly, start by ensuring your face is clean, makeup and contact lenses are removed.
@@ -96,7 +95,7 @@ Contact lenses should be removed prior to application of LATISSE® and may be re
 
 Use of LATISSE® more than once a day will not increase the growth of eyelashes more than use once a day.
 
-Store LATISSE® solution at 36° to 77°F (2° to 25°C).
+Store LATISSE® solution at 36°-77°F (2°-25°C).
 
 General Information about LATISSE®
 
@@ -117,6 +116,7 @@ Inactive ingredients: benzalkonium chloride; sodium chloride; sodium phosphate, 
 Sodium hydroxide and/or hydrochloric acid may be added to adjust pH.
 The pH during its shelf life ranges from 6.8 - 7.8.
 
-© 2011 Allergan, Inc. Irvine, CA 92612 ® marks owned by Allergan, Inc. U.S. Patents 6,403,649; 7,351,404; and 7,388,029
+© 2012 Allergan, Inc. Irvine, CA 92612 ® marks owned by Allergan, Inc. Patented.
+See: www.allergan.com/products/patent_notices
 
-72303US11C
+72303US12

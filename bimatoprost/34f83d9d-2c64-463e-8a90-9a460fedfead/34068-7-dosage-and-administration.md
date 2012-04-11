@@ -9,7 +9,7 @@ Repeat for the opposite eyelid margin using a new sterile applicator.
 
 Do not reuse applicators and do not use any other brush/applicator to apply LATISSE®.
 
-Do not apply to the lower eyelash line (see WARNINGS AND PRECAUTIONS, 5.3, 5.4, and PATIENT COUNSELING INFORMATION, 17.1).
+Do not apply to the lower eyelash line [see Warnings and Precautions (5.3, 5.4) and Patient Counseling Information (17.1)].
 
 Additional applications of LATISSE® will not increase the growth of eyelashes.
 
