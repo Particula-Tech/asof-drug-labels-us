@@ -2,15 +2,7 @@ PATIENT INFORMATION
 
 NORVIR® (NOR - VEER)
 
-(ritonavir capsules)
-
-Soft Gelatin
-
-NORVIR® (NOR - VEER)
-
-(ritonavir)
-
-Oral solution
+(ritonavir) capsules Soft Gelatin
 
 Read this Patient Information before you start taking NORVIR and each time you get a refill.
 There may be new information.
@@ -32,12 +24,11 @@ When used with other HIV medicines, NORVIR may reduce the amount of HIV in your 
 NORVIR may also help to increase the number of CD4 (T) cells in your blood which help fight off other infections.
 Reducing the amount of HIV and increasing the CD4 (T) cell count may improve your immune system.
 This may reduce your risk of death or infections that can happen when your immune system is weak (opportunistic infections).
-Patients who took NORVIR in clinical studies had significant reductions in both death and AIDS defining diseases; however NORVIR may not have these effects in all patients.
 
 NORVIR does not cure HIV infection or AIDS and you may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
 You should remain under the care of a doctor when using NORVIR.
 
-Avoid doing things that can spread HIV-1 infection.
+Avoid doing things that can spread HIV-1 infection:
 
 - Do not share needles or other injection equipment.
 - Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
@@ -53,7 +44,7 @@ Do not take NORVIR with any of the following medicines:
 
 - alfuzosin (Uroxatral)
 - amiodarone (Cordarone, Nexterone, Pacerone), flecainide (Tambocor), propafenone (Rhythmol) or quinidine (Nuedext, Quinaglute, Cardioquin, Quinidex, and others)
-- voriconazole (VFend) if Norvir dose is 400 mg every 12 hours or greater
+- voriconazole (VFend) if NORVIR dose is 400 mg every 12 hours or greater
 - dihydroergotamine (D.H.E.
   45, Embolex, Migranal), ergonovine, ergotamine (Cafergot,Ergomar) methylergonovine (Methergine)
 - cisapride (Propulsid)
@@ -74,11 +65,11 @@ Before taking NORVIR, tell your doctor if you:
 - have high blood sugar (diabetes).
 - have bleeding problems or hemophilia.
 - are pregnant or plan to become pregnant.
-  It is not known if NORVIR can harm your unborn baby.Pregnancy Registry: You and your doctor will need to decide if taking NORVIR is right for you.
+  It is not known if NORVIR can harm your unborn baby.
+  Pregnancy Registry: You and your doctor will need to decide if taking NORVIR is right for you.
   If you take NORVIR while you are pregnant, talk to your doctor about how you can take part in the Antiretroviral Pregnancy Registry.
   The purpose of the registry is to follow the health of you and your baby.
-- are breastfeeding.
-  Do not breastfeed.
+- are breastfeeding: Do not breastfeed.
   We do not know if NORVIR can be passed to the baby through your breast milk and whether it could harm the baby.
   Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
 
@@ -91,7 +82,7 @@ Especially tell your doctor if you take:
 - medicine to treat HIV
 - estrogen-based contraceptives (birth control).
   NORVIR might reduce the effectiveness of estrogen-based contraceptives.
-  You must take additional precautions for birth control such as a condom.
+  You must take additional precautions for birth control such as a condom
 - medicine for pain such as tramadol (Ryzolt, Ultracet, Conzip, Ultram), propoxyphene, or meperidine (Demerol)
 - medicine to treat alcohol abuse such as disulfiram (Antabuse)
 - medicine for your heart such as disopyramide (Norpace), lidocaine (Xylocaine Viscous), mexiletine, digoxin (Lanoxin), nifedipine (Procardia, Adalat, Afeditab CR), diltiazem (Cardizem, Dilacor, Cartia, Diltzac, Dilt, Taztia, Tiazac) or verapamil (Calan, Covera, Isoptin, Tarka, Verelan)
@@ -107,7 +98,7 @@ Especially tell your doctor if you take:
 - medicine used to treat blood pressure, a heart attack, heart failure, or to lower pressure in the eye such as metoprolol (Lopressor, Toprol-XL), timolol (Cosopt, Betimol, Timoptic, Isatolol, Combigan)
 - medicine for lung disease such as theophylline and salmeterol (Serevent)
 - bosentan (Tracleer)
-- medicine to prevent organ transplant failure such as cyclosporine (Gengraf, Sandimmune,Neoral), tacrolimus (Prograf,) sirolimus (Rapamune)
+- medicine to prevent organ transplant failure such as cyclosporine (Gengraf, Sandimmune, Neoral), tacrolimus (Prograf,) sirolimus (Rapamune)
 - steroids such as dexamethasone, fluticasone (Advair Diskus, Veramyst, Flovent, Flonase) or prednisone
 - a narcotic medicine such as methadone (Methadose, Dolophine Hydrochloride) or fentanyl (Abstral, Actiq, Fentora, Lazanda, Onsolis, Duragesic)
 - medicine to treat schizophrenia such as risperidone (Risperdal) or thioridazine
@@ -131,12 +122,7 @@ How should I take NORVIR?
 - If your child is taking NORVIR, your child’s doctor will decide the right dose based on your child's height and weight.
   Tell your doctor if your child’s weight changes.
   Your child should take NORVIR with food.
-  If your child does not tolerate NORVIR Oral Solution, ask your child’s doctor for advice.
 - Take NORVIR with food if possible.
-- NORVIR Oral Solution is peppermint or caramel flavored.
-  You can take it alone, or may improve the taste by mixing it with 8 ounces of chocolate milk, Ensure®, or Advera®.
-  NORVIR oral solution should be taken within 1 hour if mixed with these fluids.
-  Ask your doctor, nurse or pharmacist about other ways to improve the taste of NORVIR Oral Solution.
 - Do not run out of NORVIR.
   Get your NORVIR prescription refilled from you doctor or pharmacy before you run out.
 - If you miss a dose of NORVIR, take it as soon as possible and then take your next scheduled dose at its regular time.
@@ -154,50 +140,42 @@ NORVIR can cause serious side effects including:
   Your doctor should do regular blood tests during your combination treatment with NORVIR.
   If you have chronic hepatitis B or C infection, your doctor should check your blood tests more often because you have an increased chance of developing liver problems.
   Tell your doctor if you have any of the below signs and symptoms of liver problems:
-
-- loss of appetite
-- pain or tenderness on your right side below your ribs
-- yellowing of your skin or whites of your eyes
-- itchy skin
-
+  - loss of appetite
+  - pain or tenderness on your right side below your ribs
+  - yellowing of your skin or whites of your eyes
+  - itchy skin
 - Swelling of your pancreas (Pancreatitis).
   NORVIR can cause serious pancreas problems, which may lead to death.
   Tell your doctor right away if you have signs or symptoms of pancreatitis such as:
-
-- nausea
-- vomiting
-- stomach (abdominal) pain
-
+  - nausea
+  - vomiting
+  - stomach (abdominal) pain
 - Allergic Reactions.
   Sometimes these allergic reactions can become severe and require treatment in a hospital.
   You should call your doctor right away if you develop a rash.
   Stop taking NORVIR and get medical help right away if you have any of the following symptoms of a severe allergic reaction:
-
-- trouble breathing
-- wheezing
-- dizziness or fainting
-- throat tightness or hoarseness
-- fast heartbeat or pounding in your chest (tachycardia)
-- sweating
-- swelling of your face, lips or tongue
-- muscle or joint pain
-- blisters or skin lesions
-- mouth sores or ulcers
-
+  - trouble breathing
+  - wheezing
+  - dizziness or fainting
+  - throat tightness or hoarseness
+  - fast heartbeat or pounding in your chest (tachycardia)
+  - sweating
+  - swelling of your face, lips or tongue
+  - muscle or joint pain
+  - blisters or skin lesions
+  - mouth sores or ulcers
 - Changes in the electrical activity of your heart called PR prolongation.
   PR prolongation can cause irregular heartbeats.
   Tell your doctor right away if you have symptoms such as:
-
-- dizziness
-- lightheadedness
-- feel faint or pass out
-- abnormal heart beat
-
-- Increase in cholesterol and triglyceride levels.
+  - dizziness
+  - lightheadedness
+  - feeling faint or passing out
+  - abnormal heart beat
+- Increase in some fats (cholesterol and triglyceride levels) in your blood.
   Treatment with NORVIR may increase your blood levels of cholesterol and triglycerides.
-  Your doctor should do blood test before you start your treatment with NORVIR and regularly to check for an increase in your cholesterol and triglycerides levels.
+  Your doctor should do blood tests before you start your treatment with NORVIR and regularly to check for an increase in your cholesterol and triglycerides levels.
 - Diabetes and high blood sugar (hyperglycemia).
-  Some people who take protease inhibitors including NORVIR can get high blood sugar, develop diabetes, or your diabetes can get worse.
+  Some people who take protease inhibitors including NORVIR can get high blood sugar, develop diabetes, or their diabetes can get worse.
   Tell your doctor if you notice an increase in thirst or urinate often while taking NORVIR.
 - Changes in your immune system (Immune reconstitution syndrome) can happen when you start taking HIV medicines.
   Your immune system may get stronger and begin to fight infections that have been hidden in your body for a long time.
@@ -223,30 +201,20 @@ The most common side effects of NORVIR include:
 - headache
 - dizziness
 
-NORVIR liquid contains a large amount of alcohol.
-If a toddler or young child accidentally drinks more than the recommended dose of NORVIR, it could make him/her sick from too much alcohol.
-Contact your local poison control center or emergency room immediately if this happens.
-
 Tell your doctor if you have any side effect that bothers you or that does not go away.
-
 These are not all of the possible side effects of NORVIR.
 For more information, ask your doctor or pharmacist.
-
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I Store NORVIR?
 
-- Store NORVIR Oral Solution at room temperature between 68°F to 77°F (20°C to 25°C).
-- Do not refrigerate NORVIR Oral Solution.
-- Shake NORVIR Oral Solution well before each use.
+Store NORVIR soft gelatin capsules in the refrigerator between 36°F to 46°F (2°C to 8°C) NORVIR soft gelatin capsules may be stored below 77°F (25°C) if used within 30 days.
 
-Store NORVIR soft gelatin capsules in the refrigerator between 36°F to 46°F (2°C to 8°C) NORVIR soft gelatin capsules may be stored below 77°F (25°C) is used within 30 days.
-
-- Protect NORVIR Soft Gelatin Capsules from light.
-- Keep NORVIR Soft Gelatin Capsules and NORVIR Oral Solution away from heat.
-- Store NORVIR Soft Gelatin Capsules and NORVIR Oral Solution in the original container.
-- Use NORVIR Soft Gelatin Capsules and NORVIR Oral Solution by the expiration date on the bottle.
+- Protect NORVIR soft gelatin capsules from light.
+- Keep NORVIR soft gelatin capsules away from heat.
+- Store NORVIR soft gelatin capsules tightly closed in the original container.
+- Use NORVIR soft gelatin capsules by the expiration date on the bottle.
 
 Keep NORVIR and all medicines out of the reach of children.
 
@@ -266,28 +234,14 @@ What are the ingredients in NORVIR?
 
 Active ingredient: ritonavir
 
-Inactive ingredients:
+Inactive ingredients: NORVIR soft gelatin capsules: butylated hydroxytoluene, ethanol, gelatin, iron oxide, oleic acid, polyoxyl 35 castor oil, and titanium dioxide This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-NORVIR Soft Gelatin Capsules: butylated hydroxytoluene, ethanol, gelatin, iron oxide, oleic acid, polyoxyl 35 castor oil, and titanium dioxide
+NORVIR 100 mg soft gelatin capsules are manufactured for:
 
-NORVIR Oral Solution: ethanol, water, polyoxyl 35 castor oil, propylene glycol, anhydrous citric acid to adjust pH, saccharin sodium, peppermint oil, creamy caramel flavoring, and FD&C Yellow No. 6.
-
-This Patient Information has been approved by the U.S. Food and Drug Administration.
-
-Norvir 100 mg capsules are manufactured for:
-
-Abbott Laboratories
-
-North Chicago, IL 60064 USA
-
-Norvir oral solution is manufactured by:
-
-Abbott Laboratories
-
-North Chicago, IL 60064 USA
+Abbott Laboratories North Chicago, IL 60064 USA
 
 * The brands listed are trademarks of their respective owners and are not trademarks of Abbott Laboratories.
 The makers of these brands are not affiliated with and do not endorse Abbott Laboratories or its products.
 
 Rev.
-02/2012
+03/2012

@@ -1,20 +1,15 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Acute Overdosage
-
-### Human Overdose Experience
+## 10.1 Acute Overdosage - Human Overdose Experience
 
 Human experience of acute overdose with NORVIR is limited.
-One patient in clinical trials took NORVIR 1500 mg/day for two days.
+One patient in clinical trials took NORVIR 1500 mg per day for two days.
 The patient reported paresthesias which resolved after the dose was decreased.
 A post-marketing case of renal failure with eosinophilia has been reported with ritonavir overdose.
 
 The approximate lethal dose was found to be greater than 20 times the related human dose in rats and 10 times the related human dose in mice.
 
-## Management of Overdosage
-
-NORVIR oral solution contains 43% alcohol by volume.
-Accidental ingestion of the product by a young child could result in significant alcohol-related toxicity and could approach the potential lethal dose of alcohol.
+## 10.2 Management of Overdosage
 
 Treatment of overdose with NORVIR consists of general supportive measures including monitoring of vital signs and observation of the clinical status of the patient.
 There is no specific antidote for overdose with NORVIR.
