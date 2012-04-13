@@ -29,6 +29,6 @@ Manufactured by Baxter Healthcare Corporation, Deerfield, IL 60015
 
 NOVAPLUS is a registered trademark of Novation, LLC
 
-LAB-0449-3.0
+LAB-0449-4.0
 
-Revised September 2011
+March 2012
