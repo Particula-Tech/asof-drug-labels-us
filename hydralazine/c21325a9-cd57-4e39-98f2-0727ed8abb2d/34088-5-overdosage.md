@@ -36,6 +36,7 @@ Nitrate ions liberated during metabolism of isosorbide dinitrate can oxidize hem
 There are case reports of significant methemoglobinemia in association with moderate overdoses of organic nitrates.
 
 Methemoglobin levels are measurable by most clinical laboratories.
+
 Methemoglobinemia could be serious in chronic heart failure patients because of already compromised vascular bed-tissue gas exchange dynamics.
 Classically, methemoglobinemic blood is described as chocolate brown, without color change on exposure to air.
 

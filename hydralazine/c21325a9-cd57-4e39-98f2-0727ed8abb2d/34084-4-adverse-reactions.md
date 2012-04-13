@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS
 
+To report SUSPECTED ADVERSE REACTIONS, contact NitroMed, Inc. at 1-888-692-4345 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 ## BiDil
 
 BiDil has been evaluated for safety in 517 heart failure patients in A-HeFT.
@@ -11,27 +13,27 @@ Headache and dizziness were the two most frequent adverse events and were more t
 The most common reasons for discontinuing BiDil in the A-HeFT trial were headache (7%) and dizziness (4%).
 
 Table 2.
-Adverse Events Occurring in the A-HeFT Study in ≥2% of Patients Treated with BiDil
+Adverse Events Occurring in the A-HeFT Study in ≥ 2% of Patients Treated with BiDil.
 
-|  |  |  |  | BiDil (N=517) (% of patients) |  |  |  | Placebo (N=527) (% of patients) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Headache |  |  |  | 50 |  |  |  | 21 |
-| Dizziness |  |  |  | 32 |  |  |  | 14 |
-| Chest pain |  |  |  | 16 |  |  |  | 15 |
-| Asthenia |  |  |  | 14 |  |  |  | 11 |
-| Nausea |  |  |  | 10 |  |  |  | 6 |
-| Bronchitis |  |  |  | 8 |  |  |  | 7 |
-| Hypotension |  |  |  | 8 |  |  |  | 4 |
-| Sinusitis |  |  |  | 4 |  |  |  | 2 |
-| Ventricular tachycardia |  |  |  | 4 |  |  |  | 2 |
-| Palpitations |  |  |  | 4 |  |  |  | 3 |
-| Hyperglycemia |  |  |  | 4 |  |  |  | 3 |
-| Rhinitis |  |  |  | 4 |  |  |  | 3 |
-| Paresthesia |  |  |  | 4 |  |  |  | 2 |
-| Vomiting |  |  |  | 4 |  |  |  | 2 |
-| Amblyopia |  |  |  | 3 |  |  |  | 1 |
-| Hyperlipidemia |  |  |  | 3 |  |  |  | 2 |
-| Tachycardia |  |  |  | 2 |  |  |  | 1 |
+|  | BiDil (N=517) (% of patients) | Placebo (N=527) (% of patients) |
+| --- | --- | --- |
+| Headache | 50 | 21 |
+| Dizziness | 32 | 14 |
+| Chest pain | 16 | 15 |
+| Asthenia | 14 | 11 |
+| Nausea | 10 | 6 |
+| Bronchitis | 8 | 7 |
+| Hypotension | 8 | 4 |
+| Sinusitis | 4 | 2 |
+| Ventricular tachycardia | 4 | 2 |
+| Palpitations | 4 | 3 |
+| Hyperglycemia | 4 | 3 |
+| Rhinitis | 4 | 3 |
+| Paresthesia | 4 | 2 |
+| Vomiting | 4 | 2 |
+| Amblyopia | 3 | 1 |
+| Hyperlipidemia | 3 | 2 |
+| Tachycardia | 2 | 1 |
 
 The following adverse events were reported in A-HeFT in at least 1% but less than 2% of patients treated with BiDil, and also occurred in at least 0.5% more patients than in placebo-treated patients; all such events are included unless they are too non-specific to be meaningful or appear to reflect underlying disease.
 
@@ -50,7 +52,7 @@ Skin: Alopecia, angioedema, sweating.
 In the V-HeFT I and II studies, a total of 587 patients with heart failure were treated with the combination of isosorbide dinitrate and hydralazine hydrochloride.
 The type, pattern, frequency and severity of adverse experiences reported in these studies were similar to those reported in A-HeFT, and no unusual adverse experiences were reported.
 
-Prior experience with BiDil components
+## Prior experience with BiDil components
 
 The following additional adverse events have been reported with hydralazine hydrochloride or isosorbide dinitrate but not necessarily with BiDil:
 

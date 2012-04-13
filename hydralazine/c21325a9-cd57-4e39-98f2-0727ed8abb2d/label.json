@@ -1,11 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020727"
+  ],
   "inn": "hydralazine",
-  "labeler": "NitroMed, Inc.",
+  "labeler": "Arbor Pharmaceuticals",
   "package_ndcs": [
+    "12948-001-01",
     "12948-001-12"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "hydralazine hydrochloride and isosorbide dinitrate",
+      "name": "BiDil"
+    }
+  ],
   "setid": "c21325a9-cd57-4e39-98f2-0727ed8abb2d",
   "source": "dailymed"
 }

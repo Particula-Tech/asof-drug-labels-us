@@ -22,7 +22,7 @@ Animal data suggests that hydralazine may also mitigate tolerance to nitrates.
 #### Absorption and Distribution
 
 About 2/3 of a 50-mg dose of 14C-hydralazine HCl given in gelatin capsules was absorbed in hypertensive subjects.
-In patients with heart failure, mean absolute bioavailability of a single oral dose of hydralazine 75 mg varies from 10 to 26%, with the higher percentages in slow acetylators (See Metabolism and Elimination for Hydralazine).
+In patients with heart failure, mean absolute bioavailability of a single oral dose of hydralazine 75 mg varies from 10 to 26%, with the higher percentages in slow acetylators (See Metabolism and Elimination).
 Administration of doses escalating from 75 mg to 1000 mg tid to congestive heart failure patients resulted in an up to 9-fold increase in the dose normalized AUC, indicating non-linear kinetics of hydralazine, probably reflecting saturable first pass metabolism.
 
 After intravenous administration of hydralazine in a dose of 0.3 mg/kg, the steady-state volume of distribution in patients with congestive heart failure was 2.2 L/kg.
@@ -35,7 +35,7 @@ Hydralazine is metabolized by acetylation, ring oxidation and conjugation with e
 Acetylation occurs predominantly during the first pass after oral administration which explains the dependence of the absolute bioavailability on the acetylator phenotype.
 About 50% of patients are fast acetylators and have lower exposure.
 
-After oral administration of hydralazine, the major circulating metabolites are hydralazine pyruvate hydrazone and methyltriazolophthalazine.
+After oral administration of hydralazine, the major circulating metabolites are hydralazine pyruvate hydrazone and methyl-triazolophthalazine.
 Hydralazine is the main pharmacologically active entity; hydralazine pyruvate hydrazone has only minimal hypotensive and tachycardic activity.
 The pharmacological activity of methyltriazolophthalazine has not been determined.
 The major identified metabolite of hydralazine excreted in urine is acetylhydrazinophthalazinone.
@@ -56,7 +56,7 @@ Under steady-state conditions, isosorbide dinitrate accumulates significantly in
 #### Metabolism and Elimination
 
 Isosorbide dinitrate undergoes extensive first-pass metabolism in the liver and is cleared at a rate of 2 to 4 L/minute with a serum half-life of about 1 hour.
-Isosorbide dinitrate’s clearance is primarily by denitration to the 2-mononitrate (15 to 25%) and the 5-mononitrate (75 to 85%).
+Isosorbide dinitrate's clearance is primarily by denitration to the 2-mononitrate (15 to 25%) and the 5-mononitrate (75 to 85%).
 Both metabolites have biological activity, especially the 5-mononitrate which has an overall half-life of about 5 hours.
 The 5-mononitrate is cleared by denitration to isosorbide, glucuronidation to the 5-mononitrate glucuronides, and by denitration/hydration to sorbitol.
 The 2-mononitrate appears to participate in the same metabolic pathways with a half-life of about 2 hours.
@@ -162,17 +162,17 @@ The randomized population was 60% male, 1% NYHA class II, 95% NYHA class III and
 The primary end point was a composite score consisting of all-cause mortality, first hospitalization for heart failure, and responses to the Minnesota Living with Heart Failure questionnaire, with the individual components of the composite examined as separate endpoints.
 The trial was terminated early, at a mean follow-up of 12 months, primarily because of a statistically significant 43% reduction in all-cause mortality in the BiDil-treated group (p=0.012; see Table 1 and Figure 1).
 The primary endpoint was also statistically in favor of BiDil (p ≤ 0.021).
-The BiDil-treated group also showed a 39% reduction in the risk of a first hospitalization for heart failure (p<0.001; see Table 1 and Figure 2) and had statistically significant improvement in response to the Minnesota Living with Heart Failure questionnaire, a self-report of the patient’s functional status, at most time points (see Figure 3).
+The BiDil-treated group also showed a 39% reduction in the risk of a first hospitalization for heart failure (p<0.001; see Table 1 and Figure 2) and had statistically significant improvement in response to the Minnesota Living with Heart Failure questionnaire, a self-report of the patient's functional status, at most time points (see Figure 3).
 Patients in both treatment groups had mean baseline questionnaire scores of 51 (out of a possible 105).
 
 Table 1.
 Results of A-HeFT (Intent-To-Treat Population)
 
-| End point |  | BiDil® N=518 |  | Placebo N=532 |  | Hazard Ratio (95% CI) |  | Risk Reduction with BiDil |  | P-value |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Composite score |  | -0.16±1.93 |  | -0.47±2.04 |  | N/A |  | N/A |  | ≤ 0.021 |
-| All-cause mortality |  | 6.2% |  | 10.2% |  | 0.57 (0.37, 0.89) |  | 43% |  | 0.012 |
-| First hospitalization for heart failure |  | 16.4% |  | 24.4% |  | 0.61 (0.46, 0.80) |  | 39% |  | <0.001 |
+| End point | BiDil® N=518 | Placebo N=532 | Hazard Ratio (95% CI) | Risk Reduction with BiDil | P-value |
+| --- | --- | --- | --- | --- | --- |
+| Composite score | -0.16±1.93 | -0.47± 2.04 | N/A | N/A | ≤ 0.021 |
+| All-cause mortality | 6.2% | 10.2% | 0.57 (0.37, 0.89) | 43% | 0.012 |
+| First hospitalization for heart failure | 16.4% | 24.4% | 0.61 (0.46, 0.80) | 39% | <0.001 |
 
 Effects on survival and hospitalization for heart failure were similar in subgroups by age, gender, baseline disease, and use of concomitant medications, as shown in Figure 4.
 

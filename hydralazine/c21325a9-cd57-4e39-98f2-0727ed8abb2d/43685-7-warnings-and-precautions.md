@@ -15,7 +15,8 @@ Treatment with hydralazine hydrochloride may produce a clinical picture simulati
 If systemic lupus erythematosus-like symptoms occur in patients treated with BiDil, discontinuation of BiDil should be considered only after a thorough benefit-to-risk assessment.
 Symptoms and signs of systemic lupus erythematosus usually regress when hydralazine hydrochloride is discontinued but residua have been detected many years later.
 Long-term treatment with steroids may be necessary.
-(See PRECAUTIONS Laboratory Tests.)
+(See PRECAUTIONS.
+Laboratory Tests.)
 
 Symptomatic hypotension, particularly with upright posture, may occur with even small doses of BiDil.
 Therefore, BiDil should be used with caution in patients who may be volume depleted or who, for whatever reason, are already hypotensive.
@@ -69,7 +70,7 @@ Tadalafil: See WARNINGS.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Hydralazine Hydrochloride
+### Hydralazine Hydrochloride
 
 An increased incidence of lung tumors (adenomas and adenocarcinomas) was observed in a lifetime study in Swiss albino mice given hydralazine hydrochloride continuously in their drinking water at a dosage of about 250 mg/kg per day (6 times the MRHD provided by BiDil on a body surface area basis).
 In a 2-year carcinogenicity study of rats given hydralazine hydrochloride by gavage at dose levels of 15, 30, and 60 mg/kg/day (up to 3 times the MRHD of BiDil on a body surface area basis), microscopic examination of the liver revealed a small, but statistically significant increase in benign neoplastic nodules in males (high-dosage) and females (both high and intermediate dosage groups).
@@ -78,14 +79,14 @@ Benign interstitial cell tumors of the testes were also significantly increased 
 Hydralazine hydrochloride is mutagenic in bacterial systems, and is positive in rat and rabbit hepatocyte DNA repair studies in vitro.
 Additional in vivo and in vitro studies using lymphoma cells, germinal cells, fibroblasts from mice, bone marrow cells from Chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic or clastogenic potential for hydralazine hydrochloride.
 
-Isosorbide Dinitrate
+#### Isosorbide Dinitrate
 
 No long-term animal studies have been performed to evaluate the mutagenic or carcinogenic potential of isosorbide dinitrate.
 A modified two-litter reproduction study among rats fed isosorbide dinitrate at 25 or 100 mg/kg/day (up to 9 times the Maximum Recommended Human Dose of BiDil on a body surface area basis) revealed no evidence of altered fertility or gestation.
 
 ## Pregnancy Category C
 
-Isosorbide dinitrate has been shown to cause a dose-related increase in embryotoxicity (excess mummified pups) in rabbits at 70 mg/kg (12 times the MRHD of BiDil on a body surface area basis).
+Isosorbide dinitrate has been shown to cause a dose-related increase in embryo-toxicity (excess mummified pups) in rabbits at 70 mg/kg (12 times the MRHD of BiDil on a body surface area basis).
 Hydralazine hydrochloride is teratogenic in mice at 66 mg/kg and possibly in rabbits at 33 mg/kg (2 and 3 times the MRHD of BiDil on a body surface area basis).
 There are no animal studies assessing the teratogenicity of BiDil.
 
