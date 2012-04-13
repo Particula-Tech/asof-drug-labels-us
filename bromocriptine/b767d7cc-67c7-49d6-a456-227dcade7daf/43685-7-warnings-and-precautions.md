@@ -131,7 +131,7 @@ Patients being treated with Parlodel and presenting with somnolence and/or sudde
 Patients receiving Parlodel for hyperprolactinemic states associated with macroadenoma or those who have had previous transsphenoidal surgery, should be told to report any persistent watery nasal discharge to their physician.
 Patients receiving Parlodel for treatment of a macroadenoma should be told that discontinuation of drug may be associated with rapid regrowth of the tumor and recurrence of their original symptoms.
 
-Patients and their caregivers should be alerted to the possibility that they may experience intense urges to spend money uncontrollably, intense urges to gamble, increased sexual urges and other intense urges and the inability to control these urges while taking Mirapex.
+Patients and their caregivers should be alerted to the possibility that they may experience intense urges to spend money uncontrollably, intense urges to gamble, increased sexual urges and other intense urges and the inability to control these urges while taking Parlodel.
 [See Precautions].
 
 Especially during the first days of treatment, hypotensive reactions may occasionally occur and result in reduced alertness, particular care should be exercised when driving a vehicle or operating machinery.
