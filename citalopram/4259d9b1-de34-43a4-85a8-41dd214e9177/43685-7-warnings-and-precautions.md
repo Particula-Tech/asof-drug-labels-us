@@ -56,12 +56,9 @@ Because any psychoactive drug may impair judgment, thinking, or motor skills, ho
 #### Use in Patients with Concomitant Illness
 
 Clinical experience with Celexa in patients with certain concomitant systemic illnesses is limited.
-Due to the risk of QT prolongation, ECG monitoring is advised when using Celexa in patients with congestive heart failure, bradyarrhythmias, or who are taking medications that prolong the QT interval.
-Caution is advised in treating patients with diseases or conditions that cause hypokalemia or hypomagnesemia.
-
-Celexa has not been systematically evaluated in patients with a recent history of myocardial infarction or unstable heart disease.
-Patients with these diagnoses were generally excluded from clinical studies during the product's premarketing testing.
-However, the electrocardiograms of 1116 patients who received Celexa in clinical trials were evaluated and the data indicate that Celexa is not associated with the development of clinically significant ECG abnormalities.
+Due to the risk of QT prolongation, citalopram use should be avoided in patients with certain cardiac conditions, and ECG monitoring is advised if Celexa must be used in such patients.
+Electrolytes should be monitored in treating patients with diseases or conditions that cause hypokalemia or hypomagnesemia.
+(see WARNINGS).
 
 In subjects with hepatic impairment, citalopram clearance was decreased and plasma concentrations were increased.
 The use of Celexa in hepatically impaired patients should be approached with caution and a lower maximum dosage is recommended (see DOSAGE AND ADMINISTRATION).
@@ -106,18 +103,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 There are no specific laboratory tests recommended.
 
-## QT-Prolongation and Torsade de Pointes
-
-Citalopram causes dose dependent QT prolongation and should not be dosed above 40 mg/day.
-Torsade de Pointes has been reported postmarketing.
-Celexa should not be used in patients with congenital long QT syndrome.
-Hypokalemia and hypomagnesemia should be corrected prior to initiation of treatment and periodically monitored.
-ECG monitoring is recommended in patients with congestive heart failure, bradyarrhythmias, or patients on concomitant medications that prolong the QT interval.
-Dose escalations over 20 mg/day in CYP2C19 poor metabolizers or patients taking concomitant cimetidine or another CYP2C19 inhibitor are not recommended.
-
 ## Drug Interactions
-
-Drugs that Prolong the QT interval: ECG monitoring is recommended with concomitant medications that have demonstrated prolongation of the QT interval (see WARNINGS- QT-Prolongation and Torsade de Pointes).
 
 Serotonergic Drugs: Based on the mechanism of action of SNRIs and SSRIs including Celexa, and the potential for serotonin syndrome, caution is advised when Celexa is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS-Serotonin Syndrome).
 The concomitant use of Celexa with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS - Drug Interactions).
@@ -138,7 +124,7 @@ Patients receiving warfarin therapy should be carefully monitored when Celexa is
 
 Cimetidine - In subjects who had received 21 days of 40 mg/day Celexa, combined administration of 400 mg/day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.
 
-Celexa 20 mg/day is the maximum recommended dose for patients taking concomitant cimetidine because of the risk of QT prolongation (see DOSAGE AND ADMINISTRATION).
+Celexa 20 mg/day is the maximum recommended dose for patients taking concomitant cimetidine because of the risk of QT prolongation (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
 Digoxin - In subjects who had received 21 days of 40 mg/day Celexa, combined administration of Celexa and digoxin (single dose of 1 mg) did not significantly affect the pharmacokinetics of either citalopram or digoxin.
 
@@ -166,11 +152,7 @@ Triazolam - Combined administration of Celexa (titrated to 40 mg/day for 28 days
 
 Ketoconazole - Combined administration of Celexa (40 mg) and ketoconazole (200 mg) decreased the Cmax and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.
 
-CYP3A4 and 2C19 Inhibitors - In vitro studies indicated that CYP3A4 and 2C19 are the primary enzymes involved in the metabolism of citalopram.
-However, coadministration of citalopram (40 mg) and ketoconazole (200 mg), a potent inhibitor of CYP3A4, did not significantly affect the pharmacokinetics of citalopram.
-Because citalopram is metabolized by multiple enzyme systems, inhibition of a single enzyme may not appreciably decrease citalopram clearance.
-
-Celexa 20 mg/day is the maximum recommended dose for patients taking concomitant CYP2C19 inhibitors because of the risk of QT prolongation (see DOSAGE AND ADMINISTRATION).
+CYP2C19 Inhibitors Celexa 20 mg/day is the maximum recommended dose for patients taking concomitant CYP2C19 inhibitors because of the risk of QT prolongation (see WARNINGS, DOSAGE AND ADMINISTRATION, AND CLINICAL PHARMACOLOGY).
 
 Metoprolol - Administration of 40 mg/day Celexa for 22 days resulted in a two-fold increase in the plasma levels of the beta-adrenergic blocker metoprolol.
 Increased metoprolol plasma levels have been associated with decreased cardioselectivity.
@@ -269,6 +251,6 @@ Most elderly patients treated with Celexa in clinical trials received daily dose
 
 SSRIs and SNRIs, including Celexa, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia).
 
-In two pharmacokinetic studies, citalopram AUC was increased by 23% and 30%, respectively, in elderly subjects as compared to younger subjects, and its half-life was increased by 30% and 50%, respectively (see CLINICAL PHARMACOLOGY).
+In two pharmacokinetic studies, citalopram AUC was increased by 23% and 30%, respectively, in subjects ≥ 60 years of age as compared to younger subjects, and its half-life was increased by 30% and 50%, respectively (see CLINICAL PHARMACOLOGY).
 
-20 mg/day is the recommended dose for most elderly patients (see DOSAGE AND ADMINISTRATION).
+20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see WARNINGS and DOSAGE AND ADMINISTRATION).

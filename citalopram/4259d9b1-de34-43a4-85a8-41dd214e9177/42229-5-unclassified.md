@@ -50,17 +50,29 @@ Prescriptions for Celexa should be written for the smallest quantity of tablets 
 
 ## QT-Prolongation and Torsade de Pointes
 
-Citalopram causes dose-dependent QT prolongation and should not be dosed above 40 mg/day.
-Torsade de Pointes has been reported postmarketing.
-Celexa should not be used in patients with congenital long QT syndrome.
-Hypokalemia and hypomagnesemia should be corrected prior to initiation of treatment and periodically monitored.
-ECG monitoring is recommended in patients with congestive heart failure, bradyarrhythmias, or patients on concomitant medications that prolong the QT interval.
-Dose escalations over 20 mg/day in CYP2C19 poor metabolizers or patients taking concomitant cimetidine or another CYP2C19 inhibitor are not recommended.
+Citalopram causes dose-dependent QTc prolongation, an ECG abnormality that has been associated with Torsade de Pointes (TdP), ventricular tachycardia, and sudden death, all of which have been observed in postmarketing reports for citalopram.
 
 Individually corrected QTc (QTcNi) interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple-dose study in 119 healthy subjects.
 The maximum mean (upper bound of the 95% one-sided confidence interval) difference from placebo were 8.5 (10.8) and 18.5 (21.0) msec for 20 mg and 60 mg citalopram, respectively.
 Based on the established exposure-response relationship, the predicted QTcNi change from placebo (upper bound of the 95% one-sided confidence interval) under the Cmax for the dose of 40 mg is 12.6 (14.3) msec.
-In those patients who are CYP2C19 poor metabolizers or those patients who may be taking concomitant cimetidine or another CYP2C19 inhibitor, higher citalopram exposure would be expected, along with any concomitant risks.
+
+Because of the risk of QTc prolongation at higher citalopram doses, it is recommended that citalopram should not be given at doses above 40 mg/day.
+
+It is recommended that citalopram should not be used in patients with congenital long QT syndrome, bradycardia, hypokalemia or hypomagnesemia, recent acute myocardial infarction, or uncompensated heart failure.
+Citalopram should also not be used in patients who are taking other drugs that prolong the QTc interval.
+Such drugs include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic medications, antipsychotic medications (e.g., chlorpromazine, thioridazine), antibiotics (e.g., gatifloxacin, moxifloxacin), or any other class of medications known to prolong the QTc interval (e.g., pentamidine, levomethadyl acetate, methadone).
+
+The citalopram dose should be limited in certain populations.
+The maximum dose should be limited to 20 mg/day in patients who are CYP2C19 poor metabolizers or those patients who may be taking concomitant cimetidine or another CYP2C19 inhibitor, since higher citalopram exposures would be expected.
+The maximum dose should also be limited to 20 mg/day in patients with hepatic impairment and in patients who are greater than 60 years of age because of expected higher exposures.
+
+Electrolyte and/or ECG monitoring is recommended in certain circumstances.
+Patients being considered for citalopram treatment who are at risk for significant electrolyte disturbances should have baseline serum potassium and magnesium measurements with periodic monitoring.
+Hypokalemia (and/or hypomagnesemia) may increase the risk of QTc prolongation and arrhythmia, and should be corrected prior to initiation of treatment and periodically monitored.
+ECG monitoring is recommended in patients for whom citalopram use is not recommended (see above), but, nevertheless, considered essential.
+These include those patients with the cardiac conditions noted above, and those taking other drugs that may prolong the QTc interval.
+
+Citalopram should be discontinued in patients who are found to have persistent QTc measurements >500 ms. If patients taking citalopram experience symptoms that could indicate the occurrence of cardiac arrhythmias, e.g., dizziness, palpitations, or syncope, the prescriber should initiate further evaluation, including cardiac monitoring.
 
 Screening Patients for Bipolar Disorder: A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
