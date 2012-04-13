@@ -19,6 +19,9 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
+Serious skin reactions, such as Stevens-Johnson syndrome and toxic epidermal necrolysis, have been reported in patients receiving ZOSYN (see ADVERSE REACTIONS).
+If patients develop a skin rash they should be monitored closely and ZOSYN discontinued if lesions progress.
+
 # PRECAUTIONS
 
 ## General
