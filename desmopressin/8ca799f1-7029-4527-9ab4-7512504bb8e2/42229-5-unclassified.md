@@ -70,7 +70,6 @@ Dose should start at 0.05 mL or less.
 
 Since the spray cannot deliver less than 0.1 mL (10 μg), smaller doses should be administered using the rhinal tube delivery system.
 Do not use the nasal spray in pediatric patients requiring less than 0.1 mL (10 μg) per dose.
-There are reports of an occasional change in response with time, usually greater than 6 months.
 
 ## Geriatric Use:
 
