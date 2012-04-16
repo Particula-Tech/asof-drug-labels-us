@@ -1,59 +1,79 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-General
+## 12.1 Mechanism of Action
 
-In vitro, preclinical, and clinical testing have demonstrated that Saizen® [somatropin (rDNA origin) for injection] is therapeutically equivalent to pituitary-derived human growth hormone.
-Clinical studies in normal adults also demonstrated equivalent pharmacokinetics.
+Somatropin (as well as endogenous growth hormone) binds to dimeric growth hormone receptors located within the cell membranes of target tissue cells resulting in intracellular signal transduction and a host of pharmacodynamic effects.
+Some of these pharmacodynamic effects are primarily mediated by IGF-1 produced in the liver and also locally (e.g., skeletal growth, protein synthesis), while others are primarily a consequence of the direct effects of somatropin (e.g., lipolysis) [see Pharmacodynamics (12.2)].
 
-Actions that have been demonstrated for Saizen®, somatrem, and/or pituitary-derived human growth hormone include:
+## 12.2 Pharmacodynamics
 
-1. Tissue Growth–
-   1. Skeletal Growth: Saizen® stimulates skeletal growth in prepubertal children with pituitary growth hormone deficiency.
-      Skeletal growth is accomplished at the epiphyseal plates at the ends of long bone.
-      Growth and metabolism of epiphyseal plate cells are directly stimulated by growth hormone and one of its mediators, insulin-like growth factor-I.
-      Serum levels of insulin-like growth factor-I (IGF-I) are low in children and adolescents who are growth hormone deficient, but increase during treatment with Saizen®.
-      Linear growth continues until the growth plates fuse at the end of puberty.
-   2. Cell Growth: Treatment with pituitary-derived human growth hormone results in an increase in both the number and the size of skeletal muscle cells.
-   3. Organ Growth: Growth hormone of human pituitary origin influences the size and function of internal organs and increases red cell mass.
-      Saizen® has been shown to promote similar organ weight increase to pituitary human growth hormone in an adequate animal model.
-2. Protein Metabolism–Linear growth is facilitated in part by growth hormone-stimulated protein synthesis.
-   This is reflected by increased cellular uptake of amino acids and nitrogen retention as demonstrated by a decline in urinary nitrogen excretion and blood urea nitrogen during growth hormone therapy.
-3. Carbohydrate Metabolism–Growth hormone is a modulator of carbohydrate metabolism.
-   Children with inadequate secretion of growth hormone sometimes experience fasting hypoglycemia that is improved by treatment with growth hormone.
-   Saizen® therapy may decrease glucose tolerance.
-   Administration of Saizen® to normal adults and patients with growth hormone deficiency resulted in transient increases in mean serum fasting and postprandial insulin levels.
-   However, glucose levels remained in the normal range.
-4. Lipid Metabolism–Acute administration of human growth hormone to humans results in lipid mobilization.
-   Nonesterified fatty acids increase in plasma within one hour of Saizen® administration.
-   In growth hormone deficient patients, long-term growth hormone administration often decreases body fat.
-   Mean cholesterol levels decreased in patients treated with Saizen®.
-   The clinical significance of this is unknown.
-5. Mineral Metabolism– Growth hormone administration results in the retention of total body potassium, phosphorus, and sodium.
-   Serum calcium levels appear to be unaffected.
-6. Connective Tissue/Bone Metabolism–Growth hormone stimulates the synthesis of chondroitin sulfate and collagen as well as the urinary excretion of hydroxyproline.
+Tissue Growth
 
-## Pharmacokinetics
+Skeletal Growth: Saizen® stimulates skeletal growth in prepubertal children with pituitary growth hormone deficiency.
+Skeletal growth is accomplished at the epiphyseal plates at the ends of long bone.
+Growth and metabolism of epiphyseal plate cells are directly stimulated by growth hormone and one of its mediators, insulin-like growth factor-1.
+Serum levels of insulin-like growth factor-1 (IGF-1) are low in children and adolescents who are growth hormone deficient, but increase during treatment with Saizen®.
+Linear growth continues until the growth plates fuse at the end of puberty.
 
-Absorption - The absolute bioavailability of recombinant human growth hormone (r-hGH) after subcutaneous administration ranges between 70-90%.
+Cell Growth: Treatment with pituitary-derived human growth hormone results in an increase in both the number and the size of skeletal muscle cells.
 
-Distribution - The mean volume of distribution of r-hGH given to healthy volunteers was estimated to be 12.0 ± 1.08 L.
+Organ Growth: Somatropin influences the size and function of internal organs and increases red cell mass.
+
+Protein Metabolism
+
+Linear growth is facilitated in part by increased cellular protein synthesis.
+This is reflected by increased cellular uptake of amino acids and nitrogen retention as demonstrated by a decline in urinary nitrogen excretion and blood urea nitrogen during somatropin therapy.
+
+Carbohydrate Metabolism
+
+Somatropin is a modulator of carbohydrate metabolism.
+Children with inadequate secretion of growth hormone sometimes experience fasting hypoglycemia that is improved by treatment with somatropin.
+Saizen® therapy may decrease glucose tolerance.
+Administration of Saizen® to normal adults and patients with growth hormone deficiency resulted in transient increases in mean serum fasting and postprandial insulin levels.
+However, glucose levels remained in the normal range.
+
+Lipid Metabolism
+
+Acute administration of somatropin to humans results in lipid mobilization.
+Nonesterified fatty acids increase in plasma within one hour of Saizen® administration.
+In growth hormone deficient patients, long-term somatropin administration often decreases body fat.
+Mean cholesterol levels decreased in patients treated with Saizen®.
+The clinical significance of this decrease in cholesterol level is unknown.
+
+Mineral Metabolism
+
+Somatropin administration results in the retention of total body potassium, phosphorus, and sodium.
+Serum calcium levels appear to be unaffected.
+
+Connective Tissue/Bone Metabolism
+
+Somatropin stimulates the synthesis of chondroitin sulfate and collagen as well as the urinary excretion of hydroxyproline.
+
+## 12.3 Pharmacokinetics
+
+Absorption - The absolute bioavailability of somatropin after subcutaneous administration ranges between 70 to 90%.
+
+Distribution - The steady-state volume of distribution (mean +SD) of somatropin following intravenous administration in healthy volunteers was estimated to be 12.0 ± 1.08 L.
 
 Metabolism - The metabolic fate of somatropin involves classical protein catabolism in both the liver and kidneys.
 In renal cells, at least a portion of the breakdown products is returned to the systemic circulation.
-The mean half-life of intravenous somatropin in normal males is 0.6 hours, whereas subcutaneously and intramuscularly administered somatropin has a half-life of 1.75 and 3.4 hours, respectively.
+The mean half-life of intravenous somatropin in normal males is around 0.6 hours, whereas subcutaneously and intramuscularly administered somatropin has a half-life of around 2 hours.
 The longer half-life observed after subcutaneous or intramuscular administration is due to slow absorption from the injection site.
 
-Excretion - The mean clearance of intravenously administered r-hGH in six normal male volunteers was 14.6 ± 2.8 L/hr.
+Excretion - The clearance (mean +SD) of intravenously administered somatropin in six normal male volunteers was 14.6 ± 2.8 L/hr.
 
-Special Populations
+Specific Populations
 
-Pediatric - The pharmacokinetics of r-hGH is similar in children and adults.
+Pediatric - The pharmacokinetics of somatropin is similar in children and adults.
+However, no pharmacokinetic studies of Saizen® have been conducted in pediatric patients.
 
-Gender - No gender studies have been performed in children.
-In adults, the clearance of r-hGH in both men and women tends to be similar.
+Gender - No gender studies have been performed in children for somatropin.
+In adults, the clearance of somatropin in both men and women tends to be similar.
+However, no studies have been conducted to evaluate the effect of gender on pharmacokinetics of Saizen®.
 
-Race - No data are available.
+Race - No studies have been conducted to determine the effect of race on the pharmacokinetics of Saizen®.
 
-Renal Insufficiency - Children and adults with chronic renal failure tend to have decreased clearance of r-hGH as compared to normals.
+Renal Impairment- Children and adults with chronic renal failure tend to have decreased somatropin clearance compared to those with normal renal function.
+However, no studies have been conducted to evaluate the effect of hepatic impairment on the pharmacokinetics of Saizen®.
 
-Hepatic Insufficiency - A reduction in r-hGH clearance has been noted in patients with hepatic dysfunction as compared with normal controls.
+Hepatic Impairment - A reduction in somatropin clearance has been noted in patients with hepatic dysfunction as compared with normal controls.
