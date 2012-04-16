@@ -31,8 +31,10 @@ The pharmacokinetics of ipratropium bromide have not been studied in patients wi
 
 Drug-Drug Interactions: No specific pharmacokinetic studies were conducted to evaluate potential drug-drug interactions.
 
-Pharmacodynamics: In two single dose trials (n=17), doses up to 336 mcg of ipratropium bromide did not significantly affect pupillary diameter, heart rate, or systolic/diastolic blood pressure.
-Similarly, ipratropium bromide nasal solution 0.06% (Nasal Spray) in adult patients (n=22) with induced-colds, (84 mcg/nostril four times a day) and in pediatric patients (n=45) with naturally acquired common colds (84 mcg/nostril three times a day) had no significant effects on pupillary diameter, heart rate, or systolic/diastolic blood pressure.
+Pharmacodynamics
+
+In two single dose trials (n=17), doses up to 336 mcg of ipratropium bromide did not significantly affect pupillary diameter, heart rate, or systolic/diastolic blood pressure.
+Similarly, ipratropium bromide nasal solution 0.06% (Nasal Spray) in adult patients (n=22) with induced-colds, (84 mcg/nostril four times a day) and in pediatric patients (n=45) with naturally acquired common cold (84 mcg/nostril three times a day) had no significant effects on pupillary diameter, heart rate, or systolic/diastolic blood pressure.
 
 Controlled clinical trials demonstrated that intranasal fluorocarbon-propelled ipratropium bromide does not alter physiologic nasal functions (e.g., sense of smell, ciliary beat frequency, mucociliary clearance, or the air conditioning capacity of the nose).
 

@@ -6,10 +6,9 @@ Rx Only
 
 # POST-MARKETING EXPERIENCE
 
-Allergic-type reactions such as skin rash, angioedema of the throat, tongue, lips and face, generalized urticaria (including giant urticaria), laryngospasm, and anaphylactic reactions have been reported with ipratropium bromide nasal solution 0.06% (Nasal Spray) and for other ipratropium bromide-containing products, with positive rechallenge in some cases.
-Many of the patients had a history of allergies to other drugs and/or foods (see CONTRAINDICATIONS).
+Allergic-type reactions such as skin rash, angioedema, including that of the throat, tongue, lips and face, generalized urticaria (including giant urticaria), laryngospasm, and anaphylactic reactions have been reported with ipratropium bromide nasal solution 0.06% (Nasal Spray) and for other ipratropium bromide-containing products, with positive rechallenge in some cases.
 
-Additional side effects identified from the published literature and/or post-marketing surveillance on the use of ipratropium bromide-containing products (singly or in combination with albuterol), include: urinary retention, prostatic disorders, mydriasis, cases of precipitation or worsening of narrow-angle glaucoma, acute eye pain, ocular irritation, wheezing, dryness of the oropharynx, tachycardia, edema, gastrointestinal distress (diarrhea, nausea, vomiting), bowel obstruction, and constipation.
+Additional side effects identified from the published literature and/or post-marketing surveillance on the use of ipratropium bromide-containing products (singly or in combination with albuterol), include: urinary retention, prostatic disorders, mydriasis, cases of precipitation or worsening of narrow-angle glaucoma, acute eye pain, ocular irritation, wheezing, dryness of the oropharynx, tachycardia, edema, gastrointestinal distress (diarrhea, nausea, vomiting), bowel obstruction, and constipation, nasal discomfort, throat irritation, hypersensitivity, accommodation disorder, intraocular pressure increased, glaucoma, halo vision, conjunctival hyperaemia, corneal edema, heart rate increased, bronchospasm, pharyngeal edema, gastrointestinal motility disorder, mouth edema, stomatitis, and pruritus.
 
 After oral inhalation of ipratropium bromide in patients suffering from COPD/Asthma supraventricular tachycardia and atrial fibrillation have been reported.
 
@@ -17,15 +16,13 @@ After oral inhalation of ipratropium bromide in patients suffering from COPD/Ast
 
 Bausch & Lomb Incorporated Tampa, FL 33637 ©Bausch & Lomb Incorporated
 
-9049304 (Folded)
+9049306 (Folded)
 
-Revised April 2008
+Revised November 2011
 
 # Patient's Instructions For Use
 
 Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray).
-
-Rx only
 
 Read complete instructions carefully before using.
 
@@ -76,16 +73,16 @@ Repeat steps 4 through 7 in the other nostril (i.e., two sprays per nostril).
 Replace the clear plastic dust cap and safety clip.
 
 10.
+At some time before the medication is completely used up, you should consult your physician or pharmacist to determine whether a refill is needed.
 You should not take extra doses or stop using ipratropium bromide nasal solution 0.06% (Nasal Spray) without consulting your physician.
 
-To clean:
+To Clean:
 
 If the nasal tip becomes clogged, remove the clear plastic dust cap and safety clip.
 Hold the nasal tip under running, warm tap water (Figure 4) for about a minute.
 Dry the nasal tip, reprime the nasal spray pump (step 2 above), and replace the plastic dust cap and safety clip.
-DO NOT ATTEMPT TO CLEAR THE TIP WITH A SHARP OR POINTED OBJECT.
 
-CAUTION:
+Caution:
 
 Ipratropium bromide nasal solution 0.06% (Nasal Spray) is intended to relieve your rhinorrhea (runny nose) with regular use.
 It is therefore important that you use ipratropium bromide nasal solution 0.06% (Nasal Spray) as prescribed by your physician.
@@ -94,8 +91,8 @@ Do not use ipratropium bromide nasal solution 0.06% (Nasal Spray) for longer tha
 
 Do not spray ipratropium bromide nasal solution 0.06% (Nasal Spray) in your eyes.
 Should this occur, immediately flush your eye with cool tap water for several minutes.
-If you accidentally spray ipratropium bromide nasal solution 0.06% (Nasal Spray) in your eyes, you may experience a temporary blurring of vision, increased sensitivity to light, and a widening of the pupil which may last a few hours.
-Should eye pain or blurred vision occur, contact your doctor.
+If you accidentally spray ipratropium bromide nasal solution 0.06% (Nasal Spray) in your eyes, you may experience a temporary blurring of vision, visual halos or colored images in association with red eyes from conjunctival and corneal congestion, development or worsening of narrow-angle glaucoma, pupil dilation, or acute eye pain/discomfort, and increased sensitivity to light which may last a few hours.
+Should acute eye pain or blurred vision occur, contact your doctor.
 
 Should you experience excessive nasal dryness or episodes of nasal bleeding contact your doctor.
 
@@ -109,6 +106,6 @@ Keep out of reach of children.
 
 Bausch & Lomb Incorporated Tampa, FL 33637 ©Bausch & Lomb Incorporated
 
-9049304 (Folded)
+9049306 (Folded)
 
-Revised April 2008
+Revised November 2011
