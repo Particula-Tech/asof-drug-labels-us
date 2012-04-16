@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA020649"
+  ],
+  "inn": "alprostadil",
+  "labeler": "Actient Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "52244-010-02",
+    "52244-010-06",
+    "52244-020-02",
+    "52244-020-06",
+    "52244-040-02",
+    "52244-040-06"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "alprostadil",
+      "name": "Edex"
+    }
+  ],
+  "setid": "e8b8ec8d-1318-43e4-a182-446e9f9579de",
+  "source": "dailymed"
+}

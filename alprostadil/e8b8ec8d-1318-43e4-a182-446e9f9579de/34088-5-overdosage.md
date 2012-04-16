@@ -1,0 +1,13 @@
+# OVERDOSAGE
+
+Limited data are available in regard to edex® overdose in humans.
+Systemic reactions are uncommon with intracavernous injection of edex®.
+Hypotension occurred in less than 1% of patients treated with edex®.
+A single dose rising tolerance study in healthy volunteers indicated that single intravenous doses of alprostadil from 1 to 120 mcg were well tolerated.
+Beginning with a 40 mcg bolus intravenous dose, the frequency of drug-related systemic adverse events increased in a dose-dependent manner, characterized mainly by facial flushing.
+
+The primary symptom of an edex® overdose is a prolonged erection or priapism.
+Because of the potential for tissue hypoxia and possible necrosis, it is strongly recommended to treat an erection lasting more than 6 hours.
+The patient is strongly encouraged to go to the nearest emergency room if his personal physician is not available.
+
+In the event of an overdose, supportive therapy according to the presence of other symptoms is recommended.
