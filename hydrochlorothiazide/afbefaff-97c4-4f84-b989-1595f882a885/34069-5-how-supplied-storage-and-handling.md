@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-MICROZIDE Capsules are #4 Teal Opaque/Teal Opaque two piece hard gelatin capsules imprinted with MICROZIDE and 12.5 mg in black ink.
+MICROZIDE® (hydrochlorothiazide, USP) Capsules 12.5 mg are #4 Teal Opaque/Teal Opaque two piece hard gelatin capsules imprinted with MICROZIDE and 12.5 mg in black ink.
 They are supplied in bottles of 100 with child resistant closures (NDC 52544-622-01).
 
 Dispense in a tight, light-resistant container as defined in the USP.
@@ -14,10 +14,10 @@ Keep container tightly closed.
 
 Rx only
 
-Address medical inquiries to: WATSON Medical Communications P.O.Box 1953 Morristown, NJ 07962-1953 800-272-5525
+For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 USA 800-272-5525
 
 Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Distributed By: Watson Pharma, Inc. Morristown, NJ 07962 USA
+Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: February 2011 174783-2
+Revised: October 2011 174783-3
