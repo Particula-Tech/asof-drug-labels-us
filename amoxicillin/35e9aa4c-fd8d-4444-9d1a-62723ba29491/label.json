@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050813"
+  ],
+  "inn": "amoxicillin",
+  "labeler": "Shionogi Inc.",
+  "package_ndcs": [
+    "59630-142-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "amoxicillin",
+      "name": "Moxatag"
+    }
+  ],
+  "setid": "35e9aa4c-fd8d-4444-9d1a-62723ba29491",
+  "source": "dailymed"
+}
