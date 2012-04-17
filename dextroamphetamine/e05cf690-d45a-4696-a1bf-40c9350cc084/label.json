@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA040436"
+  ],
   "inn": "dextroamphetamine",
-  "labeler": "Mallinckrodt Inc.",
+  "labeler": "Mallinckrodt, Inc.",
   "package_ndcs": [
     "0406-8958-01",
     "0406-8959-01"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dextroamphetamine sulfate",
+      "name": "DEXTROAMPHETAMINE SULFATE"
+    }
+  ],
   "setid": "e05cf690-d45a-4696-a1bf-40c9350cc084",
   "source": "dailymed"
 }

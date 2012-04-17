@@ -1,6 +1,6 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Dextroamphetamine sulfate tablets is a Schedule II controlled substance.
+Dextroamphetamine sulfate is a Schedule II controlled substance.
 
 Amphetamines have been extensively abused.
 Tolerance, extreme psychological dependence and severe social disability have occurred.

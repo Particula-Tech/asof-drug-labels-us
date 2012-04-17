@@ -1,3 +1,0 @@
-CII
-
-Rx only
