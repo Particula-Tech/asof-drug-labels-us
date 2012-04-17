@@ -1,6 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - 37.5 mg/100 Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 37.5 mg/1000 Tablet Bottle Label
 
-NDC 51224-101-50
+NDC 51224-101-70
 
 Phentermine Hydrochloride Tablets, USP CIV
 
@@ -8,6 +8,6 @@ Phentermine Hydrochloride Tablets, USP CIV
 
 Rx Only
 
-100 Tablets
+1000 Tablets
 
-Tagi PHARMA
+tagiPHARMA
