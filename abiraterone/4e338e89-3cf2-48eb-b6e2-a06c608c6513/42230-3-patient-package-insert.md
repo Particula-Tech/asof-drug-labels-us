@@ -105,12 +105,6 @@ Do not use ZYTIGA for a condition for which it was not prescribed.
 Do not give your ZYTIGA to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-As with all pharmaceutical products there is a risk of counterfeit ZYTIGA.
-To allow you to check if your product is genuine, there is a special box colored in with green ink on the lower left corner of the ZYTIGA bottle label.
-When this box is rubbed for 5 seconds, the green color will disappear, and then slowly reappear (be sure your hands are warm, if necessary rub them together).
-If the green color disappears and returns, your product should be genuine.
-If it does not, or if you have any other reasons to be concerned, please call the Janssen Biotech number.
-
 This leaflet summarizes the most important information about ZYTIGA.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about ZYTIGA that is written for healthcare professionals.
@@ -127,4 +121,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured by: Patheon Inc. Mississauga, Canada Manufactured for: Janssen Biotech, Inc. Horsham, PA 19044
 
-Issued: December 2011
+Issued: April 2012
