@@ -2,9 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects
-
-Pregnancy Category C. No evidence of teratogenicity was found in mice, rats, or rabbits when lamotrigine was orally administered to pregnant animals during the period of organogenesis at doses up to 1.2, 0.5, and 1.1 times, respectively, on a mg/m 2 basis, the highest usual human maintenance dose (i.e., 500 mg/day).
+Teratogenic Effects : Pregnancy Category C. No evidence of teratogenicity was found in mice, rats, or rabbits when lamotrigine was orally administered to pregnant animals during the period of organogenesis at doses up to 1.2, 0.5, and 1.1 times, respectively, on a mg/m 2 basis, the highest usual human maintenance dose (i.e., 500 mg/day).
 However, maternal toxicity and secondary fetal toxicity producing reduced fetal weight and/or delayed ossification were seen in mice and rats, but not in rabbits at these doses.
 Teratology studies were also conducted using bolus intravenous administration of the isethionate salt of lamotrigine in rats and rabbits.
 In rat dams administered an intravenous dose at 0.6 times the highest usual human maintenance dose, the incidence of intrauterine death without signs of teratogenicity was increased.
@@ -22,12 +20,12 @@ A no-observed-effect level (NOEL) could not be determined for this study.
 Although lamotrigine was not found to be teratogenic in the above studies, lamotrigine decreases fetal folate concentrations in rats, an effect known to be associated with teratogenesis in animals and humans.
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-### Non-Teratogenic Effects:
-
-As with other AEDs, physiological changes during pregnancy may affect lamotrigine concentrations and/or therapeutic effect.
+Non-Teratogenic Effects : As with other AEDs, physiological changes during pregnancy may affect lamotrigine concentrations and/or therapeutic effect.
 There have been reports of decreased lamotrigine concentrations during pregnancy and restoration of pre-partum concentrations after delivery.
 Dosage adjustments may be necessary to maintain clinical response.
+Pregnancy Exposure Registry : To provide information regarding the effects of in utero exposure to lamotrigine, physicians are advised to recommend that pregnant patients taking lamotrigine enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+This can be done by calling the toll-free number 1-888-233-2334, and must be done by patients themselves.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
 ### Pregnancy Exposure Registry
 

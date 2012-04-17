@@ -150,7 +150,9 @@ How should I take lamotrigine tablets?
   Do not use if blisters are torn, broken, or missing.
 
 What should I avoid while taking lamotrigine tablets?
-Do not drive a car or operate complex, hazardous machinery until you know how lamotrigine tablets affect you.
+
+- Do not drive a car or operate complex, hazardous machinery until you know how lamotrigine tablets affect you.
+
 What are possible side effects of lamotrigine tablets?
 
 - See “What is the most important information I should know about lamotrigine tablets?”
@@ -173,10 +175,9 @@ Common side effects of lamotrigine tablets include:
 - dry mouth
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
-These are not all the possible side effects of lamotrigine tablets.
-For more information, ask your healthcare provider or pharmacist.
+These are not all the possible side effects of lamotrigine tablets.For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1­800-FDA-1088.
+You may report side effects to FDA at 1-­800-FDA-1088.
 How should I store lamotrigine tablets?
 
 - Store lamotrigine tablets at room temperature between 20° to 25°C (68° to 77°F).
@@ -194,4 +195,4 @@ What are the ingredients in lamotrigine tablets?
 Active ingredient: lamotrigine.
 Inactive ingredients: microcrystalline cellulose, lactose monohydrate, povidone, sodium starch glycolate, magnesium stearate; FD&C yellow No 6 (100 mg tablet only); ferric oxide yellow (150 mg tablet only); and FD&C blue No 2 lake (200 mg tablet only). *DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 12/2010
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 03/2012
