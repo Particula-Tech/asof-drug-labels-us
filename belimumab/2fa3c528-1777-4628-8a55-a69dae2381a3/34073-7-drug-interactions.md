@@ -2,4 +2,4 @@
 
 Formal drug interaction studies have not been performed with BENLYSTA.
 In clinical trials of patients with SLE, BENLYSTA was administered concomitantly with other drugs, including corticosteroids, antimalarials, immunomodulatory and immunosuppressive agents (including azathioprine, methotrexate, and mycophenolate), angiotensin pathway antihypertensives, HMG-CoA reductase inhibitors (statins), and NSAIDs without evidence of a clinically meaningful effect of these concomitant medications on belimumab pharmacokinetics.
-The effect of belimumab on the pharmacokinetics of other drugs has not been evaluated [see Pharmacokinetics 12.3].
+The effect of belimumab on the pharmacokinetics of other drugs has not been evaluated [see Pharmacokinetics (12.3)].

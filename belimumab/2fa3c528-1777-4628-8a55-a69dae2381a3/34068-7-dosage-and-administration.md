@@ -6,7 +6,7 @@ BENLYSTA is for intravenous infusion only and must be reconstituted and diluted 
 Do not administer as an intravenous push or bolus.
 
 The recommended dosage regimen is 10 mg/kg at 2-week intervals for the first 3 doses and at 4-week intervals thereafter.
-Reconstitue, dilute and administer as an intravenous infusion only, over a period of 1 hour.
+Reconstitute, dilute and administer as an intravenous infusion only, over a period of 1 hour.
 The infusion rate may be slowed or interrupted if the patient develops an infusion reaction.
 The infusion must be discontinued immediately if the patient experiences a serious hypersensitivity reaction [seeContraindications (4), Warnings and Precautions (5.4)].
 

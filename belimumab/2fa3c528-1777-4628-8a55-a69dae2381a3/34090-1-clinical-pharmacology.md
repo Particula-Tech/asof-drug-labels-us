@@ -48,7 +48,7 @@ Limited pharmacokinetic data are available for elderly patients as only 1.4% of 
 Gender: Gender did not significantly influence belimumab pharmacokinetics in the largely (94%) female study population.
 
 Race: Race did not significantly influence belimumab pharmacokinetics.
-The racial distribution was 53% white/Caucasian, 16% Asian, 16% Alaska native/American Indian, and 14% black/African American.
+The racial distribution was 53% white/Caucasian, 16% Asian, 16% Alaska native/American Indian, and 14% black/African-American.
 
 Renal Impairment: No formal studies were conducted to examine the effects of renal impairment on the pharmacokinetics of belimumab.
 Belimumab has been studied in a limited number of patients with SLE and renal impairment (261 subjects with moderate renal impairment, creatinine clearance ≥30 and <60 mL/min; 14 subjects with severe renal impairment, creatinine clearance ≥15 and <30 mL/min).

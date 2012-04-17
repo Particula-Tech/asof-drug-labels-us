@@ -30,6 +30,9 @@ As with other immunomodulating agents, the mechanism of action of BENLYSTA could
 
 ## 5.4 Hypersensitivity Reactions, Including Anaphylaxis
 
+Hypersensitivity reactions, including anaphylaxis and death, have been reported in association with BENLYSTA.
+Delay in the onset of acute hypersensitivity reactions has been observed.
+Limited data suggest that patients with a history of multiple drug allergies or significant hypersensitivity may be at increased risk.
 In the controlled clinical trials, hypersensitivity reactions (occurring on the same day of infusion) were reported in 13% (191/1458) of patients receiving BENLYSTA and 11% (76/675) of patients receiving placebo.
 Anaphylaxis was observed in 0.6% (9/1458) of patients receiving BENLYSTA and 0.4% (3/675) of patients receiving placebo.
 Manifestations included hypotension, angioedema, urticaria or other rash, pruritus, and dyspnea.
