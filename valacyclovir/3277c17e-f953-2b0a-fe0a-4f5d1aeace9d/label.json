@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA201506"
+  ],
+  "inn": "valacyclovir",
+  "labeler": "Jubilant Cadista Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "59746-324-01",
+    "59746-324-24",
+    "59746-324-30",
+    "59746-324-47",
+    "59746-324-90",
+    "59746-325-01",
+    "59746-325-24",
+    "59746-325-30",
+    "59746-325-47",
+    "59746-325-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "valacyclovir hydrochloride",
+      "name": "valacyclovir hydrochloride"
+    }
+  ],
+  "setid": "3277c17e-f953-2b0a-fe0a-4f5d1aeace9d",
+  "source": "dailymed"
+}
