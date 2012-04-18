@@ -8,7 +8,7 @@ The following are discussed in more detail in other sections of the labeling:
 - Clinical Worsening of Depression and Suicide Risk [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.2)]
 - Neuroleptic Malignant Syndrome (NMS) [see WARNINGS AND PRECAUTIONS (5.3)]
 - Tardive Dyskinesia [see WARNINGS AND PRECAUTIONS (5.4)]
-- Hyperglycemia and Diabetes Mellitus [see WARNINGS AND PRECAUTIONS (5.5)]
+- Metabolic Changes [see WARNINGS AND PRECAUTIONS (5.5)]
 - Orthostatic Hypotension [see WARNINGS AND PRECAUTIONS (5.6)]
 - Leukopenia, Neutropenia, and Agranulocytosis [see WARNINGS AND PRECAUTIONS (5.7)]
 - Seizures/Convulsions [see WARNINGS AND PRECAUTIONS (5.8)]
@@ -36,7 +36,7 @@ In the tables and tabulations that follow, MedDRA dictionary terminology has bee
 
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced at least once, a treatment-emergent adverse event of the type listed.
 An event was considered treatment emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
-There was no attempt to use investigator causality assessments; ie, all events meeting the defined criteria, regardless of investigator causality are included.
+There was no attempt to use investigator causality assessments; ie, all events meeting the defined criteria, regardless of investigator causality, are included.
 
 Throughout this section, adverse reactions are reported.
 These are adverse events that were considered to be reasonably associated with the use of ABILIFY (adverse drug reactions) based on the comprehensive assessment of the available adverse event information.
@@ -74,9 +74,9 @@ The types of adverse reactions that led to discontinuation were similar between 
 
 Commonly Observed Adverse Reactions
 
-Commonly observed adverse reactions associated with the use of aripiprazole in patients with bipolar mania (incidence of 5% or greater and aripiprazole incidence at least twice that for placebo) are shown in Table 5.
+Commonly observed adverse reactions associated with the use of aripiprazole in patients with bipolar mania (incidence of 5% or greater and aripiprazole incidence at least twice that for placebo) are shown in Table 14.
 
-Table 5: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Adult Patients with Bipolar Mania Treated with Oral ABILIFY Monotherapy
+Table 14: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Adult Patients with Bipolar Mania Treated with Oral ABILIFY Monotherapy
 
 | Preferred Term | Aripiprazole (n=917) | Placebo (n=753) |
 | --- | --- | --- |
@@ -89,9 +89,9 @@ Table 5: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled T
 
 Less Common Adverse Reactions in Adults
 
-Table 6 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia and up to 3 weeks in bipolar mania), including only those reactions that occurred in 2% or more of patients treated with aripiprazole (doses ≥2 mg/day) and for which the incidence in patients treated with aripiprazole was greater than the incidence in patients treated with placebo in the combined dataset.
+Table 15 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia and up to 3 weeks in bipolar mania), including only those reactions that occurred in 2% or more of patients treated with aripiprazole (doses ≥2 mg/day) and for which the incidence in patients treated with aripiprazole was greater than the incidence in patients treated with placebo in the combined dataset.
 
-Table 6: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Patients Treated with Oral ABILIFY
+Table 15: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Patients Treated with Oral ABILIFY
 
 | System Organ Class Preferred Term | Aripiprazole (n=1843) | Placebo (n=1166) |
 | --- | --- | --- |
@@ -150,9 +150,9 @@ The commonly observed adverse reactions associated with adjunctive aripiprazole 
 
 Less Common Adverse Reactions in Adult Patients with Adjunctive Therapy in Bipolar Mania
 
-Table 7 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during acute treatment (up to 6 weeks), including only those reactions that occurred in 2% or more of patients treated with adjunctive aripiprazole (doses of 15 mg/day or 30 mg/day) and lithium or valproate and for which the incidence in patients treated with this combination was greater than the incidence in patients treated with placebo plus lithium or valproate.
+Table 16 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during acute treatment (up to 6 weeks), including only those reactions that occurred in 2% or more of patients treated with adjunctive aripiprazole (doses of 15 mg/day or 30 mg/day) and lithium or valproate and for which the incidence in patients treated with this combination was greater than the incidence in patients treated with placebo plus lithium or valproate.
 
-Table 7: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
+Table16: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
 
 | System Organ Class Preferred Term | Aripiprazole + Li or Val* (n=253) | Placebo + Li or Val* (n=130) |
 | --- | --- | --- |
@@ -200,9 +200,9 @@ The incidence of discontinuation due to adverse reactions between aripiprazole-t
 
 Commonly Observed Adverse Reactions
 
-Commonly observed adverse reactions associated with the use of aripiprazole in pediatric patients with bipolar mania (incidence of 5% or greater and aripiprazole incidence at least twice that for placebo) are shown in Table 8.
+Commonly observed adverse reactions associated with the use of aripiprazole in pediatric patients with bipolar mania (incidence of 5% or greater and aripiprazole incidence at least twice that for placebo) are shown in Table 17.
 
-Table 8: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (10 to 17 years) with Bipolar Mania Treated with Oral ABILIFY
+Table 17: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (10 to 17 years) with Bipolar Mania Treated with Oral ABILIFY
 
 | Preferred Term | Aripiprazole (n=197) | Placebo (n=97) |
 | --- | --- | --- |
@@ -226,9 +226,9 @@ The incidence of discontinuation due to adverse reactions between aripiprazole-t
 
 Commonly Observed Adverse Reactions
 
-Commonly observed adverse reactions associated with the use of aripiprazole in pediatric patients with autistic disorder (incidence of 5% or greater and aripiprazole incidence at least twice that for placebo) are shown in Table 9.
+Commonly observed adverse reactions associated with the use of aripiprazole in pediatric patients with autistic disorder (incidence of 5% or greater and aripiprazole incidence at least twice that for placebo) are shown in Table 18.
 
-Table 9: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 17 years) with Autistic Disorder Treated with Oral ABILIFY
+Table 18: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 17 years) with Autistic Disorder Treated with Oral ABILIFY
 
 | Preferred Term | Aripiprazole (n=212) | Placebo (n=101) |
 | --- | --- | --- |
@@ -247,9 +247,9 @@ Table 9: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled T
 
 Less Common Adverse Reactions in Pediatric Patients (6 to 17 years) with Schizophrenia, Bipolar Mania, or Autistic Disorder
 
-Table 10 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia, up to 4 weeks in bipolar mania, and up to 8 weeks in autistic disorder), including only those reactions that occurred in 1% or more of pediatric patients treated with aripiprazole (doses ≥2 mg/day) and for which the incidence in patients treated with aripiprazole was greater than the incidence in patients treated with placebo.
+Table 19 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks in schizophrenia, up to 4 weeks in bipolar mania, and up to 8 weeks in autistic disorder), including only those reactions that occurred in 1% or more of pediatric patients treated with aripiprazole (doses ≥2 mg/day) and for which the incidence in patients treated with aripiprazole was greater than the incidence in patients treated with placebo.
 
-Table 10: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 17 years) Treated with Oral ABILIFY
+Table 19: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 17 years) Treated with Oral ABILIFY
 
 | System Organ Class Preferred Term | Aripiprazole (n=611) | Placebo (n=298) |
 | --- | --- | --- |
@@ -315,9 +315,9 @@ The commonly observed adverse reactions associated with the use of adjunctive ar
 
 Less Common Adverse Reactions in Adult Patients with Major Depressive Disorder
 
-Table 11 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks), including only those adverse reactions that occurred in 2% or more of patients treated with adjunctive aripiprazole (doses ≥2 mg/day) and for which the incidence in patients treated with adjunctive aripiprazole was greater than the incidence in patients treated with adjunctive placebo in the combined dataset.
+Table 20 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (up to 6 weeks), including only those adverse reactions that occurred in 2% or more of patients treated with adjunctive aripiprazole (doses ≥2 mg/day) and for which the incidence in patients treated with adjunctive aripiprazole was greater than the incidence in patients treated with adjunctive placebo in the combined dataset.
 
-Table 11: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials in Patients with Major Depressive Disorder
+Table 20: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials in Patients with Major Depressive Disorder
 
 | System Organ Class Preferred Term | Aripiprazole+ADT* (n=371) | Placebo+ADT* (n=366) |
 | --- | --- | --- |
@@ -365,9 +365,9 @@ There was one commonly observed adverse reaction (nausea) associated with the us
 
 Less Common Adverse Reactions in Patients with Agitation Associated with Schizophrenia or Bipolar Mania
 
-Table 12 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (24-hour), including only those adverse reactions that occurred in 2% or more of patients treated with aripiprazole injection (doses ≥5.25 mg/day) and for which the incidence in patients treated with aripiprazole injection was greater than the incidence in patients treated with placebo in the combined dataset.
+Table 21 enumerates the pooled incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy (24-hour), including only those adverse reactions that occurred in 2% or more of patients treated with aripiprazole injection (doses ≥5.25 mg/day) and for which the incidence in patients treated with aripiprazole injection was greater than the incidence in patients treated with placebo in the combined dataset.
 
-Table 12: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Patients Treated with ABILIFY Injection
+Table 21: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Patients Treated with ABILIFY Injection
 
 | System Organ Class Preferred Term | Aripiprazole (n=501) | Placebo (n=220) |
 | --- | --- | --- |
@@ -409,7 +409,7 @@ Extrapyramidal Symptoms
 Schizophrenia
 
 In short-term, placebo-controlled trials in schizophrenia in adults, the incidence of reported EPS-related events, excluding events related to akathisia, for aripiprazole-treated patients was 13% vs. 12% for placebo; and the incidence of akathisia-related events for aripiprazole-treated patients was 8% vs. 4% for placebo.
-In the short-term, placebo-controlled trial of schizophrenia in pediatric (13 to 17 years) patients, the incidence of reported EPS-related events, excluding events related to akathisia, for aripiprazole-treated patients was 25% vs. 7% for placebo; and the incidence of akathisia-related events for aripiprazole-treated patients was 9% vs. 6% for placebo.
+In the short-term, placebo-controlled trial of schizophrenia in pediatric patients (13 to 17 years), the incidence of reported EPS-related events, excluding events related to akathisia, for aripiprazole-treated patients was 25% vs. 7% for placebo; and the incidence of akathisia-related events for aripiprazole-treated patients was 9% vs. 6% for placebo.
 
 Objectively collected data from those trials was collected on the Simpson Angus Rating Scale (for EPS), the Barnes Akathisia Scale (for akathisia), and the Assessments of Involuntary Movement Scales (for dyskinesias).
 In the adult schizophrenia trials, the objectively collected data did not show a difference between aripiprazole and placebo, with the exception of the Barnes Akathisia Scale (aripiprazole, 0.08; placebo, −0.05).
@@ -427,7 +427,7 @@ In the adult bipolar mania trials with monotherapy aripiprazole, the Simpson Ang
 Changes in the Assessments of Involuntary Movement Scales were similar for the aripiprazole and placebo groups.
 In the bipolar mania trials with aripiprazole as adjunctive therapy with either lithium or valproate, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between adjunctive aripiprazole and adjunctive placebo (aripiprazole, 0.73; placebo, 0.07 and aripiprazole, 0.30; placebo, 0.11).
 Changes in the Assessments of Involuntary Movement Scales were similar for adjunctive aripiprazole and adjunctive placebo.
-In the pediatric (10 to 17 years) short-term bipolar mania trial, the Simpson Angus Rating Scale showed a significant difference between aripiprazole and placebo (aripiprazole, 0.90; placebo, −0.05).
+In the pediatric (10 to 17 years), short-term, bipolar mania trial, the Simpson Angus Rating Scale showed a significant difference between aripiprazole and placebo (aripiprazole, 0.90; placebo, –0.05).
 Changes in the Barnes Akathisia Scale and the Assessments of Involuntary Movement Scales were similar for the aripiprazole and placebo groups.
 
 Major Depressive Disorder
@@ -460,49 +460,6 @@ Laboratory Test Abnormalities
 
 A between group comparison for 3-week to 6-week, placebo-controlled trials in adults or 4-week to 8-week, placebo-controlled trials in pediatric patients (6 to 17 years) revealed no medically important differences between the aripiprazole and placebo groups in the proportions of patients experiencing potentially clinically significant changes in routine serum chemistry, hematology, or urinalysis parameters.
 Similarly, there were no aripiprazole/placebo differences in the incidence of discontinuations for changes in serum chemistry, hematology, or urinalysis in adult or pediatric patients.
-
-In the 6-week trials of aripiprazole as adjunctive therapy for major depressive disorder, there were no clinically important differences between the adjunctive aripiprazole-treated and adjunctive placebo-treated patients in the median change from baseline in prolactin, fasting glucose, HDL, LDL, or total cholesterol measurements.
-The median % change from baseline in triglycerides was 5% for adjunctive aripiprazole-treated patients vs. 0% for adjunctive placebo-treated patients.
-
-In a long-term (26-week), placebo-controlled trial in schizophrenia, there were no medically important differences between the aripiprazole and placebo patients in the mean change from baseline in prolactin, fasting glucose, triglyceride, HDL, LDL, or total cholesterol measurements.
-A similar profile was observed in long-term clinical trials of patients with bipolar disorder.
-
-Weight Gain
-
-In 4-week to 6- week trials in adults with schizophrenia, there was a slight difference in mean weight gain between aripiprazole and placebo patients (+0.7 kg vs. −0.05 kg, respectively) and also a difference in the proportion of patients meeting a weight gain criterion of ≥7% of body weight [aripiprazole (8%) compared to placebo (3%)].
-In a 6-week trial in pediatric patients (13 to 17 years) with schizophrenia, there was a slight difference in mean weight gain between aripiprazole and placebo patients (+0.13 kg vs. −0.83 kg, respectively) and also a difference in the proportion of patients meeting a weight gain criterion of ≥7% of body weight [aripiprazole (5%) compared to placebo (1%)].
-
-In 3-week trials in adults with mania with monotherapy aripiprazole, the mean weight gain for aripiprazole and placebo patients was 0.1 kg vs. 0.0 kg, respectively.
-The proportion of patients meeting a weight gain criterion of ≥7% of body weight was aripiprazole (2%) compared to placebo (3%).
-In the 6-week trial in mania with aripiprazole as adjunctive therapy with either lithium or valproate, the mean weight gain for aripiprazole and placebo patients was 0.6 kg vs. 0.2 kg, respectively.
-The proportion of patients meeting a weight gain criterion of ≥7% of body weight with adjunctive aripiprazole was 3% compared to adjunctive placebo 4%.
-
-In the trials adding aripiprazole to antidepressants, patients first received 8 weeks of antidepressant treatment followed by 6 weeks of adjunctive aripiprazole or placebo in addition to their ongoing antidepressant treatment.
-The mean weight gain with adjunctive aripiprazole was 1.7 kg vs. 0.4 kg with adjunctive placebo.
-The proportion of patients meeting a weight gain criterion of ≥7% of body weight was 5% with adjunctive aripiprazole compared to 1% with adjunctive placebo.
-
-In the two short-term, placebo-controlled trials in patients (6 to 17 years) with autistic disorder, the mean increase in body weight in the aripiprazole group was 1.6 kg vs. 0.4 kg in the placebo group.
-The proportion of patients meeting a weight gain criterion of ≥7% of body weight was 26% in aripiprazole group compared to 7% in placebo group.
-
-Table 13 provides the weight change results from a long-term (26-week), placebo-controlled study of aripiprazole in adults with schizophrenia, both mean change from baseline and proportions of patients meeting a weight gain criterion of ≥7% of body weight relative to baseline, categorized by BMI at baseline.
-Although there was no mean weight increase, the aripiprazole group tended to show more patients with a ≥7% weight gain.
-
-Table 13: Weight Change Results Categorized by BMI at Baseline: Placebo-Controlled Study in Schizophrenia, Safety Sample
-
-|  | BMI <23 |  | BMI 23-27 |  | BMI >27 |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo (n=54) | Aripiprazole (n=59) | Placebo (n=48) | Aripiprazole (n=39) | Placebo (n=49) | Aripiprazole (n=53) |
-| Mean change from baseline (kg) | −0.5 | −0.5 | −0.6 | −1.3 | −1.5 | −2.1 |
-| % with ≥7% increase BW | 3.7% | 6.8% | 4.2% | 5.1% | 4.1% | 5.7% |
-
-Table 14 provides the weight change results from a long-term (52-week) study of aripiprazole in adults with schizophrenia, both mean change from baseline and proportions of patients meeting a weight gain criterion of ≥7% of body weight relative to baseline, categorized by BMI at baseline:
-
-Table 14: Weight Change Results Categorized by BMI at Baseline: Active-Controlled Study in Schizophrenia, Safety Sample
-
-|  | BMI <23 (n=314) | BMI 23-27 (n=265) | BMI >27 (n=260) |
-| --- | --- | --- | --- |
-| Mean change from baseline (kg) | 2.6 | 1.4 | −1.2 |
-| % with ≥7% increase BW | 30% | 19% | 8% |
 
 ECG Changes
 
@@ -607,7 +564,7 @@ Vascular Disorders:
 
 Pediatric Patients - Oral Administration
 
-Most adverse events observed in the pooled database of 920 pediatric patients aged 6 to 17 years were also observed in the adult population.
+Most adverse events observed in the pooled database of 920 pediatric patients, aged 6 to 17 years, were also observed in the adult population.
 Additional adverse reactions observed in the pediatric population are listed below.
 
 Gastrointestinal Disorders:

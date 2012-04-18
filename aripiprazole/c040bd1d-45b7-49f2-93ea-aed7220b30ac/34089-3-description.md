@@ -13,7 +13,7 @@ ABILIFY DISCMELT Orally Disintegrating Tablets are available in 10 mg and 15 mg 
 Inactive ingredients include acesulfame potassium, aspartame, calcium silicate, croscarmellose sodium, crospovidone, crème de vanilla (natural and artificial flavors), magnesium stearate, microcrystalline cellulose, silicon dioxide, tartaric acid, and xylitol.
 Colorants include ferric oxide (yellow or red) and FD&C Blue No. 2 Aluminum Lake.
 
-ABILIFY Oral Solution is a clear, colorless to light yellow solution available in a concentration of 1 mg/mL.
+ABILIFY Oral Solution is a clear, colorless to light-yellow solution available in a concentration of 1 mg/mL.
 The inactive ingredients for this solution include disodium edetate, fructose, glycerin, dl-lactic acid, methylparaben, propylene glycol, propylparaben, sodium hydroxide, sucrose, and purified water.
 The oral solution is flavored with natural orange cream and other natural flavors.
 

@@ -10,23 +10,25 @@ This Medication Guide does not take the place of talking to your healthcare prov
 
 What is the most important information I should know about ABILIFY?
 
-(For other side effects, also see “What are the possible side effects of ABILIFY?”).
+(For other side effects, also see “What are the possible side effects of ABILIFY?”)
 
 Serious side effects may happen when you take ABILIFY, including:
 
 - Increased risk of death in elderly patients with dementia-related psychosis: Medicines like ABILIFY can raise the risk of death in elderly people who have lost touch with reality (psychosis) due to confusion and memory loss (dementia).
   ABILIFY is not approved for the treatment of patients with dementia-related psychosis.
-- Risk of suicidal thoughts or actions: Antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions:
-  1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-  2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-     Some people may have a particularly high risk of having suicidal thoughts or actions.
-     These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-  3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-     - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-       This is very important when an antidepressant medicine is started or when the dose is changed.
-     - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-     - Keep all follow-up visits with the healthcare provider as scheduled.
-       Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
+
+Risk of suicidal thoughts or actions: Antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions:
+
+1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+   Some people may have a particularly high risk of having suicidal thoughts or actions.
+   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+   - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+     This is very important when an antidepressant medicine is started or when the dose is changed.
+   - Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+   - Keep all follow-up visits with the healthcare provider as scheduled.
+     Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
@@ -63,14 +65,14 @@ What is ABILIFY?
 
 ABILIFY is a prescription medicine used to treat:
 
-- schizophrenia in people age 13 years and older.
+- schizophrenia in people age 13 years and older
 - bipolar I disorder in people age 10 years and older, including:
-  - manic or mixed episodes that happen with bipolar I disorder.
-  - manic or mixed episodes that happen with bipolar I disorder, when used with the medicine lithium or valproate.
-  - long-term treatment of bipolar I disorder.
-- major depressive disorder in adults, as an add-on treatment to an antidepressant medicine when you do not get better with an antidepressant alone.
-- irritability associated with autistic disorder in children and adolescents ages 6 to 17 years old.
-- agitation associated with schizophrenia or bipolar disorder.
+  - manic or mixed episodes that happen with bipolar I disorder
+  - manic or mixed episodes that happen with bipolar I disorder, when used with the medicine lithium or valproate
+  - long-term treatment of bipolar I disorder
+- major depressive disorder in adults, as an add-on treatment to an antidepressant medicine when you do not get better with an antidepressant alone
+- irritability associated with autistic disorder in children and adolescents ages 6 to 17 years old
+- agitation associated with schizophrenia or bipolar disorder
 
 The symptoms of schizophrenia include:
 
@@ -158,7 +160,8 @@ How should I take ABILIFY?
     It is recommended that ABILIFY DISCMELT be taken without liquid.
     However, if needed, it can be taken with liquid.
   - Do not attempt to split the DISCMELT tablet.
-- If you take too much ABILIFY, call your healthcare provider or poison control center at 1-800-222-1222 right away, or go to the nearest hospital emergency room.
+
+If you take too much ABILIFY, call your healthcare provider or poison control center at 1-800-222-1222 right away, or go to the nearest hospital emergency room.
 
 What should I avoid while taking ABILIFY?
 
@@ -190,7 +193,9 @@ Also see “What is the most important information I should know about ABILIFY?�
   - feel very hungry
   - feel weak or tired
   - feel sick to your stomach
-  - feel confused, or your breath smells fruity.
+  - feel confused, or your breath smells fruity
+- Increase in weight: Weight gain has been reported in patients taking medicines like ABILIFY, so you and your healthcare provider should check your weight regularly.
+  For children and adolescent patients (6 to 17 years of age) weight gain should be compared against that expected with normal growth.
 - Difficulty swallowing: may lead to aspiration and choking.
 - Tardive dyskinesia: Call your healthcare provider about any movements you cannot control in your face, tongue, or other body parts.
   These may be signs of a serious condition.
@@ -249,7 +254,7 @@ Active ingredient: aripiprazole
 
 Inactive ingredients:
 
-Tablets: cornstarch, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, and microcrystalline cellulose.
+Tablets: cornstarch, hydroxypropyl, cellulose, lactose monohydrate, magnesium stearate, and microcrystalline cellulose.
 Colorants include ferric oxide (yellow or red) and FD&C Blue No. 2 Aluminum Lake.
 
 ABILIFY DISCMELT Orally Disintegrating Tablets: acesulfame potassium, aspartame (which contains phenylalanine), calcium silicate, croscarmellose sodium, crospovidone, crème de vanilla (natural and artificial flavors), magnesium stearate, microcrystalline cellulose, silicon dioxide, tartaric acid, and xylitol.
@@ -262,6 +267,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-1287307A1 03US11L-0137C Rev February 2011
+1239550B2 03US12L-0104C Rev February 2012
 
-©2011, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan
+© 2012, Otsuka Pharmaceutical Co, Ltd, Tokyo, 101-8535 Japan

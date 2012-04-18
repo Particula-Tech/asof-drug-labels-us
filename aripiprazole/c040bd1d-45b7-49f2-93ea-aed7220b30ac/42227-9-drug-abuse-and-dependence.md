@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance
 
-ABILIFY (aripiprazole) is not a controlled substance.
+ABILIFY is not a controlled substance.
 
 ## 9.2 Abuse and Dependence
 

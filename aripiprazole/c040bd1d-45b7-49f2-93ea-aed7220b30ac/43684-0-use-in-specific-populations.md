@@ -49,8 +49,8 @@ The effect of aripiprazole on labor and delivery in humans is unknown.
 
 ## 8.3 Nursing Mothers
 
-Aripiprazole was excreted in milk of rats during lactation.
-It is not known whether aripiprazole or its metabolites are excreted in human milk.
+Aripiprazole has been demonstrated to be excreted in milk of rats during lactation.
+In humans, data on excretion in breast milk is limited.
 It is recommended that women receiving aripiprazole should not breast-feed.
 
 ## 8.4 Pediatric Use
@@ -69,7 +69,7 @@ However, such efficacy and lack of pharmacokinetic interaction between aripipraz
 Safety and effectiveness in pediatric patients demonstrating irritability associated with autistic disorder were established in two 8-week, placebo-controlled clinical trials in 212 pediatric patients aged 6 to 17 years [see INDICATIONS AND USAGE (1.4), DOSAGE AND ADMINISTRATION (2.4), ADVERSE REACTIONS (6.2), and CLINICAL STUDIES (14.4)].
 Maintenance efficacy in pediatric patients has not been systematically evaluated.
 
-The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patients 10 to 17 years of age were similar to those in adults after correcting for the differences in body weights.
+The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patients, 10 to 17 years of age, were similar to those in adults after correcting for the differences in body weight.
 
 ## 8.5 Geriatric Use
 

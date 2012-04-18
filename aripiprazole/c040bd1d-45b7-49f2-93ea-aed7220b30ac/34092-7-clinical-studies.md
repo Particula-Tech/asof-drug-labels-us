@@ -52,7 +52,7 @@ The efficacy of ABILIFY as monotherapy in the acute treatment of manic episodes 
 These studies included patients with or without psychotic features and two of the studies also included patients with or without a rapid-cycling course.
 
 The primary instrument used for assessing manic symptoms was the Young Mania Rating Scale (Y-MRS), an 11-item clinician-rated scale traditionally used to assess the degree of manic symptomatology (irritability, disruptive/aggressive behavior, sleep, elevated mood, speech, increased activity, sexual interest, language/thought disorder, thought content, appearance, and insight) in a range from 0 (no manic features) to 60 (maximum score).
-A key secondary instrument included the Clinical Global Impression - Bipolar (CGI-BP) Scale.
+A key secondary instrument included the Clinical Global Impression-Bipolar (CGI-BP) Scale.
 
 In the four positive, 3-week, placebo-controlled trials (n=268; n=248; n=480; n=485) which evaluated ABILIFY in a range of 15 mg to 30 mg, once daily (with a starting dose of 15 mg/day in two studies and 30 mg/day in two studies), ABILIFY was superior to placebo in the reduction of Y-MRS total score and CGI-BP Severity of Illness score (mania).
 In the two studies with a starting dose of 15 mg/day, 48% and 44% of patients were on 15 mg/day at endpoint.
@@ -70,9 +70,9 @@ Seventy-one percent of the patients coadministered valproate and 62% of the pati
 
 Pediatric Patients
 
-The efficacy of ABILIFY in the treatment of bipolar I disorder in pediatric patients (10 to 17 years of age) was evaluated in one four-week, placebo-controlled trial (n=296) of outpatients who met DSM-IV criteria for bipolar I disorder manic or mixed episodes with or without psychotic features and had a Y-MRS score ≥20 at baseline.
+The efficacy of ABILIFY in the treatment of bipolar I disorder in pediatric patients (10 to 17 years of age) was evaluated in one 4-week, placebo-controlled trial (n=296) of outpatients who met DSM-IV criteria for bipolar I disorder manic or mixed episodes with or without psychotic features and had a Y-MRS score ≥20 at baseline.
 This double-blind, placebo-controlled trial compared two fixed doses of ABILIFY (10 mg/day or 30 mg/day) to placebo.
-The ABILIFY dose was started at 2 mg/day, which was titrated to 5 mg/day after 2 days, and to the target dose in 5 days in the 10 mg/day treatment arm and in 13 days in the 30 mg/day treatment arm.
+The ABILIFY dose was started at 2 mg/day, which was titrated to 5 mg/day after 2 days, and to the target dose in 5 days in the 10 mg/day treatment arm, and in 13 days in the 30 mg/day treatment arm.
 Both doses of ABILIFY were superior to placebo in change from baseline to week 4 on the Y-MRS total score.
 
 Maintenance Treatment of Bipolar I Disorder
@@ -95,13 +95,13 @@ An adjunctive maintenance trial was conducted in adult patients meeting DSM-IV c
 Patients were initiated on open-label lithium (0.6 mEq/L to 1.0 mEq/L) or valproate (50 μg/mL to 125 μg/mL) at therapeutic serum levels, and remained on stable doses for 2 weeks.
 At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score ≥16 and ≤35% improvement on the Y-MRS total score) to lithium or valproate received aripiprazole with a starting dose of 15 mg/day with the option to increase to 30 mg or reduce to 10 mg as early as day 4, as adjunctive therapy with open-label lithium or valproate.
 Prior to randomization, patients on the combination of single-blind aripiprazole and lithium or valproate were required to maintain stability (Y-MRS and MADRS total scores ≤12) for 12 consecutive weeks.
-Three hundred and thirty-seven patients were then randomized in a double-blind fashion, to either the same dose of ABILIFY they were on at the end of the stabilization period or placebo plus lithium or valproate and were then monitored for manic, mixed, or depressive relapse for a maximum of 52 weeks.
+Three hundred thirty-seven patients were then randomized in a double-blind fashion, to either the same dose of ABILIFY they were on at the end of the stabilization period or placebo plus lithium or valproate and were then monitored for manic, mixed, or depressive relapse for a maximum of 52 weeks.
 ABILIFY was superior to placebo on the primary endpoint, time from randomization to relapse to any mood event.
-A mood event was defined as hospitalization for a manic, mixed or depressive episode, study discontinuation due to lack of efficacy accompanied by Y-MRS score >16 and/or a MADRS >16, or an SAE of worsening disease accompanied by Y-MRS score >16 and/or a MADRS >16.
+A mood event was defined as hospitalization for a manic, mixed, or depressive episode, study discontinuation due to lack of efficacy accompanied by Y-MRS score >16 and/or a MADRS >16, or an SAE of worsening disease accompanied by Y-MRS score >16 and/or a MADRS >16.
 A total of 68 mood events were observed during the double-blind treatment phase.
 Twenty-five were from the ABILIFY group and 43 were from the placebo group.
 The number of observed manic episodes in the ABILIFY group (7) were fewer than that in the placebo group (19), while the number of depressive episodes in the ABILIFY group (14) was similar to that in the placebo group (18).
-The Kaplan-Meier curves of the time from randomization to relapse to any mood event during the 52-week double-blind treatment phase for ABILIFY and placebo groups are shown in Figure 1.
+The Kaplan-Meier curves of the time from randomization to relapse to any mood event during the 52-week, double-blind treatment phase for ABILIFY and placebo groups are shown in Figure 1.
 
 Figure 1: Kaplan-Meier Estimation of Proportion of Relapses to Any Mood Event for ABILIFY and Placebo Groups
 
