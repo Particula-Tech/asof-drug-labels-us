@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA040263"
+  ],
+  "inn": "methotrexate",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-123-02",
+    "63323-123-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "methotrexate sodium",
+      "name": "Methotrexate"
+    }
+  ],
+  "setid": "b585f621-f6c9-4735-ab61-bd1b401f3df0",
+  "source": "dailymed"
+}
