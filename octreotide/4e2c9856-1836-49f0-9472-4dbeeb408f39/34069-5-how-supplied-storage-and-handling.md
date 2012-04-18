@@ -36,8 +36,6 @@ After initial use, multiple-dose vials should be discarded within 14 days.
 Ampuls should be opened just prior to administration and the unused portion discarded.
 Dispose unused product or waste properly.
 
-REV: JANUARY 2010 T2010-24
-
 Manufactured by:
 
 Novartis Pharma Stein AG
@@ -51,3 +49,5 @@ Novartis Pharmaceuticals Corporation
 East Hanover, NJ 07936
 
 © Novartis
+
+T2012-71 March 2012

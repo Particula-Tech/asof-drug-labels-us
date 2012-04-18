@@ -120,7 +120,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 Safety and efficacy of Sandostatin Injection in the pediatric population have not been demonstrated.
 
 No formal controlled clinical trials have been performed to evaluate the safety and effectiveness of Sandostatin in pediatric patients under age 6 years.
-In post-marketing report, serious adverse events, including hypoxia, necrotizing enterocolitis, and death, have been reported with Sandostatin use in children, most notably in children under 2 years of age.
+In post-marketing reports, serious adverse events, including hypoxia, necrotizing enterocolitis, and death, have been reported with Sandostatin use in children, most notably in children under 2 years of age.
 The relationship of these events to octreotide has not been established as the majority of these pediatric patients had serious underlying co-morbid conditions.
 
 The efficacy and safety of Sandostatin using the Sandostatin LAR Depot formulation was examined in a single randomized, double-blind, placebo-controlled, six–month pharmacokinetics study in 60 pediatric patients age 6-17 years with hypothalamic obesity resulting from cranial insult.

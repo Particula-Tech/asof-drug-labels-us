@@ -44,3 +44,12 @@ Events reported in less than 1% of patients and for which relationship to drug i
 Evaluation of 20 patients treated for at least 6 months has failed to demonstrate titers of antibodies exceeding background levels.
 However, antibody titers to Sandostatin were subsequently reported in three patients and resulted in prolonged duration of drug action in two patients.
 Anaphylactoid reactions, including anaphylactic shock, have been reported in several patients receiving Sandostatin.
+
+## Postmarketing Experience
+
+The following adverse reactions have been identified during the postapproval use of Sandostatin.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Gastrointestinal: intestinal obstruction
+
+Hematologic: thrombocytopenia
