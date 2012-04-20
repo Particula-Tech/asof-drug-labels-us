@@ -10,9 +10,7 @@ To avoid fetal exposure to lenalidomide, REVLIMID is only available under a rest
 
 Information about the RevAssist program is available at www.REVLIMID.com or by calling the manufacturer’s toll-free number 1-888-423-5436.
 
-Hematologic Toxicity (Neutropenia and Thrombocytopenia)
-
-REVLIMID can cause significant neutropenia and thrombocytopenia.
+Hematologic Toxicity (Neutropenia and Thrombocytopenia) REVLIMID can cause significant neutropenia and thrombocytopenia.
 Eighty percent of patients with del 5q myelodysplastic syndromes had to have a dose delay/reduction during the major study.
 Thirty-four percent of patients had to have a second dose delay/reduction.
 Grade 3 or 4 hematologic toxicity was seen in 80% of patients enrolled in the study.
@@ -20,9 +18,7 @@ Patients on therapy for del 5q myelodysplastic syndromes should have their compl
 Patients may require dose interruption and/or reduction.
 Patients may require use of blood product support and/or growth factors [see Dosage and Administration (2.2)].
 
-Deep Vein Thrombosis and Pulmonary Embolism
-
-REVLIMID has demonstrated an increased risk of deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients with multiple myeloma who were treated with REVLIMID and dexamethasone therapy.
+Deep Vein Thrombosis and Pulmonary Embolism REVLIMID has demonstrated a significantly increased risk of deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients with multiple myeloma who were treated with REVLIMID and dexamethasone therapy.
 Patients and physicians are advised to be observant for the signs and symptoms of thromboembolism.
 Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, or arm or leg swelling.
 It is not known whether prophylactic anticoagulation or antiplatelet therapy prescribed in conjunction with REVLIMID may lessen the potential for venous thromboembolic events.

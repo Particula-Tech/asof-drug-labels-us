@@ -122,3 +122,9 @@ Treatment of CLL or lymphoma with lenalidomide outside of a well-monitored clini
 Cases of transient liver laboratory abnormalities (predominantly transaminases) were reported in patients treated with lenalidomide.
 Treatment with lenalidomide should be interrupted and restarted once the levels return to baseline.
 Successful re-challenge without recurrence of liver laboratory elevation was reported in some patients.
+
+## 5.9 Second Primary Malignancies
+
+Patients with multiple myeloma treated with lenalidomide in studies including melphalan and stem cell transplantation had a higher incidence of second primary malignancies, particularly acute myelogenous leukemia (AML) and Hodgkin lymphoma, compared to patients in the control arms who received similar therapy but did not receive lenalidomide.
+Monitor patients for the development of second malignancies.
+Take into account both the potential benefit of lenalidomide and the risk of second primary malignancies when considering treatment with lenalidomide.

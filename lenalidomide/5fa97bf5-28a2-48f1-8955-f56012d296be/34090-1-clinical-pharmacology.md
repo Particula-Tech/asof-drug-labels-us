@@ -1,13 +1,13 @@
 # 12. CLINICAL PHARMACOLOGY
 
-## 12.1. Mechanism of Action
+## 12.1. Mechanism of action
 
 The mechanism of action of lenalidomide remains to be fully characterized.
 Lenalidomide possesses immunomodulatory, antiangiogenic, and antineoplastic properties.
 Experiments have demonstrated that lenalidomide inhibits the growth of cells derived from patients with multiple myeloma and del (5q) myelodysplastic syndromes in vitro.
 Lenalidomide causes a delay in tumor growth in some in vivo nonclinical hematopoietic tumor models, including multiple myeloma.
 Lenalidomide inhibits the secretion of pro-inflammatory cytokines such as tumor necrosis factor alpha (TNF-α), from peripheral blood mononuclear cells.
-Lenalidomide also inhibited the expression of cycoloxygenase-2 (COX-2) but not COX-1 in vitro.
+Lenalidomide also inhibited the expression of cyclooxygenase-2 (COX-2) but not COX-1 in vitro.
 
 ## 12.3 Pharmacokinetics
 

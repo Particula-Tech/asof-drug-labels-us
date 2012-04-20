@@ -20,18 +20,18 @@ In another study, pregnant rats received lenalidomide from organogenesis through
 As with thalidomide, the rat model may not adequately address the full spectrum of potential human embryofetal developmental effects for lenalidomide.
 
 Females of childbearing potential must use effective means of contraception for 28 days before therapy, during lenalidomide therapy and dose interruptions, and for 28 days following discontinuation of lenalidomide therapy, or continually abstain from reproductive heterosexual sexual intercourse.
-Because of the increased risk of VTE in patients with multiple myeloma taking lenalidomide and dexamethasone, and to a lesser extent patients with MDS taking lenalidomide monotherapy, and because there is an increased risk of VTE in patients taking combined oral contraceptive pills, physicians should discuss the risk/benefit of contraceptive methods with their patients.
+Because of the increased risk of VTE in patients with multiple myeloma taking lenalidomide and dexamethasone, and to a lesser extent patients with MDS taking lenalidomide monotherapy, and because there is an increased risk of VTE in patients taking combined oral contraceptive pills, physicians should discuss the risk/benefit of contraceptive methods with their patients
 
-## 8.3 Nursing Mothers
+## 8.3 Nursing mothers
 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for adverse reactions in nursing infants from lenalidomide, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-## 8.4 Pediatric Use
+## 8.4 Pediatric use
 
 Safety and effectiveness in pediatric patients below the age of 18 have not been established.
 
-## 8.5 Geriatric Use
+## 8.5 Geriatric use
 
 REVLIMID has been used in multiple myeloma (MM) clinical trials in patients up to 86 years of age.
 

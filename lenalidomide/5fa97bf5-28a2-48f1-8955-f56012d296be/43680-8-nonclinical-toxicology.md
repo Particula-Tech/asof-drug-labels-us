@@ -1,6 +1,6 @@
 # 13. NONCLINICAL TOXICOLOGY
 
-## 13.1. Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1. Carcinogenesis, mutagenesis, impairment of fertility
 
 Carcinogenicity: Carcinogenicity studies with lenalidomide have not been conducted.
 

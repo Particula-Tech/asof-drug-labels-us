@@ -8,6 +8,7 @@ The following adverse reactions are described in detail in other labeling sectio
 - Tumor lysis syndrome [see Warnings and Precautions (5.6)]
 - Tumor flare reactions [see Warnings and Precautions (5.7)]
 - Hepatotoxicity [see Warnings and Precautions (5.8)]
+- Second Primary Malignancies [see Warnings and Precautions (5.9)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 

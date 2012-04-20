@@ -1,6 +1,6 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-See Medication Guide (17.5)
+See Medication Guide
 
 ## 17.1 Importance of Preventing Pregnancy
 
@@ -41,13 +41,13 @@ If more than 12 hours have elapsed, they should be instructed to skip the dose f
 The next day, they should take REVLIMID at the usual time.
 Warn patients to not take 2 doses to make up for the one that they missed.
 
+Manufactured for: Celgene Corporation Summit, NJ 07901
+
 REVLIMID®, RevAssist®, and THALOMID® are registered trademarks of Celgene Corporation.
 
 U.S. Pat.
-Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,465,800; 7,855,217
+Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,465,800; 7,855,217; 7,968,569
 
-©2005-2011 Celgene Corporation, All Rights Reserved.
+©2005-2012 Celgene Corporation, All Rights Reserved.
 
-RevPlyPI.011/MG.011 12/11
-
-## 17.5 MEDICATION GUIDE
+RevPlyPI.012/MG.012 03/12

@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-REVLIMID should be taken orally at about the same time each day, either with or without food.
+REVLIMIDshould be taken orally at about the same time each day, either with or without food.
 REVLIMID capsules should be swallowed whole with water.
 The capsules should not be opened, broken, or chewed.
 
@@ -41,7 +41,7 @@ Other Grade 3 / 4 Toxicities in MM
 
 For other Grade 3/4 toxicities judged to be related to REVLIMID, hold treatment and restart at next lower dose level when toxicity has resolved to ≤ Grade 2.
 
-Starting Dose Adjustment for Renal Impairment in MM Since REVLIMD is primarily excreted unchanged by the kidney, adjustments to the starting dose of REVLIMID are recommended to provide appropriate drug exposure in patients with moderate or severe renal impairment and in patients on dialysis.
+Starting Dose Adjustment for Renal Impairment in MM Since REVLIMID is primarily excreted unchanged by the kidney, adjustments to the starting dose of REVLIMID are recommended to provide appropriate drug exposure in patients with moderate or severe renal impairment and in patients on dialysis.
 Based on a pharmacokinetic study in patients with renal impairment due to nonmalignant conditions, REVLIMID starting dose adjustment is recommended for patients with CLcr < 60 mL/min.
 Non-dialysis patients with creatinine clearances less than 11 mL/min and dialysis patients with creatinine clearances less than 7 mL/min have not been studied.
 The recommendations for initial starting doses for patients with multiple myeloma (MM) are as follows:
