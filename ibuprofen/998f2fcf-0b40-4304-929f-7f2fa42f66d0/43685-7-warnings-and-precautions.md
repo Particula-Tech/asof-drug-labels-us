@@ -9,7 +9,6 @@ All NSAIDs, both COX-2 selective and nonselective, may have a similar risk.
 Patients with known CV disease or risk factors for CV disease may be at greater risk.
 To minimize the potential risk for an adverse CV event in patients treated with an NSAID, the lowest effective dose should be used for the shortest duration possible.
 Physicians and patients should remain alert for the development of such events, even in the absence of previous CV symptoms.
-
 Patients should be informed about the signs and/or symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
@@ -19,19 +18,19 @@ Two large, controlled, clinical trials of a COX-2 selective NSAID for the treatm
 
 ### Hypertension
 
-NSAIDs, including ibuprofen suspension, can lead to onset of new hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
+NSAIDs, including Ibuprofen Oral Suspension, can lead to onset of new hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
 Patients taking thiazides or loop diuretics may have impaired response to these therapies when taking NSAIDs.
-NSAIDs, including ibuprofen suspension, should be used with caution in patients with hypertension.
+NSAIDs, including Ibuprofen Oral Suspension, should be used with caution in patients with hypertension.
 Blood pressure (BP) should be monitored closely during the initiation of NSAID treatment and throughout the course of therapy.
 
 ### Congestive Heart Failure and Edema
 
 Fluid retention and edema have been observed in some patients taking NSAIDs.
-Ibuprofen suspension should be used with caution in patients with fluid retention or heart failure.
+Ibuprofen Oral Suspension should be used with caution in patients with fluid retention or heart failure.
 
 ## Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation
 
-NSAIDs, including ibuprofen suspension, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
+NSAIDs, including Ibuprofen Oral Suspension, can cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients, who develop a serious upper GI adverse event on NSAID therapy, is symptomatic.
 Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occur in approximately 1% of patients treated for 3-6 months, and in about 2-4% of patients treated for one year.
@@ -58,20 +57,20 @@ Discontinuation of NSAID therapy is usually followed by recovery to the pretreat
 
 ## Advanced Renal Disease
 
-No information is available from controlled clinical studies regarding the use of ibuprofen suspension in patients with advanced renal disease.
-Therefore, treatment with ibuprofen suspension is not recommended in these patients with advanced renal disease.
-If ibuprofen suspension therapy must be initiated, close monitoring of the patient's renal function is advisable.
+No information is available from controlled clinical studies regarding the use of Ibuprofen Oral Suspension in patients with advanced renal disease.
+Therefore, treatment with Ibuprofen Oral Suspension is not recommended in these patients with advanced renal disease.
+If Ibuprofen Oral Suspension therapy must be initiated, close monitoring of the patient's renal function is advisable.
 
 ## Anaphylactoid Reactions
 
-As with other NSAIDs, anaphylactoid reactions may occur in patients without known prior exposure to ibuprofen suspension.
-Ibuprofen suspension should not be given to patients with the aspirin triad.
-This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONS and PRECAUTIONS – Preexisting Asthma).
+As with other NSAIDs, anaphylactoid reactions may occur in patients without known prior exposure to Ibuprofen Oral Suspension.
+Ibuprofen Oral Suspension should not be given to patients with the aspirin triad.
+This symptom complex typically occurs in asthmatic patients who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs (see CONTRAINDICATIONSandPRECAUTIONS – Preexisting Asthma).
 Emergency help should be sought in cases where an anaphylactoid reaction occurs.
 
 ## Skin Reactions
 
-NSAIDs, including ibuprofen suspension, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including Ibuprofen Oral Suspension, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
 Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
 
@@ -83,27 +82,27 @@ In late pregnancy, as with other NSAIDs, ibuprofen should be avoided because it 
 
 ## General
 
-Ibuprofen suspension cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency.
+Ibuprofen Oral Suspension cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency.
 Abrupt discontinuation of corticosteroids may lead to disease exacerbation.
 Patients on prolonged corticosteroid therapy should have their therapy tapered slowly if a decision is made to discontinue corticosteroids.
 
-The pharmacological activity of ibuprofen suspension in reducing fever and inflammation may diminish the utility of these diagnostic signs in detecting complications of presumed noninfectious, painful conditions.
+The pharmacological activity of Ibuprofen Oral Suspension in reducing fever and inflammation may diminish the utility of these diagnostic signs in detecting complications of presumed noninfectious, painful conditions.
 
 ## Hepatic Effects
 
-Borderline elevations of one or more liver tests may occur in up to 15% of patients taking NSAIDs including ibuprofen suspension.
+Borderline elevations of one or more liver tests may occur in up to 15% of patients taking NSAIDs including Ibuprofen Oral Suspension.
 These laboratory abnormalities may progress, may remain unchanged, or may be transient with continuing therapy.
 Notable elevations of ALT or AST (approximately three or more times the upper limit of normal) have been reported in approximately 1% of patients in clinical trials with NSAIDs.
 In addition, rare cases of severe hepatic reactions, including jaundice and fatal fulminant hepatitis, liver necrosis and hepatic failure, some of them with fatal outcomes have been reported.
 
-A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with ibuprofen suspension.
-If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), ibuprofen suspension should be discontinued.
+A patient with symptoms and/or signs suggesting liver dysfunction, or in whom an abnormal liver test has occurred, should be evaluated for evidence of the development of a more severe hepatic reaction while on therapy with Ibuprofen Oral Suspension.
+If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), Ibuprofen Oral Suspension should be discontinued.
 
 ## Hematological Effects
 
-Anemia is sometimes seen in patients receiving NSAIDs, including ibuprofen suspension.
+Anemia is sometimes seen in patients receiving NSAIDs, including Ibuprofen Oral Suspension.
 This may be due to fluid retention, occult or gross GI blood loss, or an incompletely described effect upon erythropoiesis.
-Patients on long-term treatment with NSAIDs, including ibuprofen suspension, should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia.
+Patients on long-term treatment with NSAIDs, including Ibuprofen Oral Suspension, should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia.
 
 In two postmarketing clinical studies the incidence of a decreased hemoglobin level was greater than previously reported.
 Decrease in hemoglobin of 1 gram or more was observed in 17.1% of 193 patients on 1600 mg ibuprofen daily (osteoarthritis), and in 22.8% of 189 patients taking 2400 mg of ibuprofen daily (rheumatoid arthritis).
@@ -111,13 +110,13 @@ Positive stool occult blood tests and elevated serum creatinine levels were also
 
 NSAIDs inhibit platelet aggregation and have been shown to prolong bleeding time in some patients.
 Unlike aspirin, their effect on platelet function is quantitatively less, of shorter duration, and reversible.
-Patients receiving ibuprofen suspension who may be adversely affected by alterations in platelet function, such as those with coagulation disorders or patients receiving anticoagulants, should be carefully monitored.
+Patients receiving Ibuprofen Oral Suspension who may be adversely affected by alterations in platelet function, such as those with coagulation disorders or patients receiving anticoagulants, should be carefully monitored.
 
 ## Preexisting Asthma
 
 Patients with asthma may have aspirin-sensitive asthma.
 The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm, which can be fatal.
-Since cross reactivity, including bronchospasm, between aspirin and other nonsteroidal anti-inflammatory drugs has been reported in such aspirin-sensitive patients, ibuprofen suspension should not be administered to patients with this form of aspirin sensitivity and should be used with caution in patients with preexisting asthma.
+Since cross reactivity, including bronchospasm, between aspirin and other nonsteroidal anti-inflammatory drugs has been reported in such aspirin-sensitive patients, Ibuprofen Oral Suspension should not be administered to patients with this form of aspirin sensitivity and should be used with caution in patients with preexisting asthma.
 
 ## Aseptic Meningitis
 
@@ -126,34 +125,47 @@ Although it is probably more likely to occur in patients with systemic lupus ery
 
 ## Diabetics
 
-Ibuprofen suspension contains 270 mg high fructose corn syrup and 2.43 calories per mL, or 1350 mg high fructose corn syrup and 12.15 calories per teaspoonful, which should be taken into consideration when treating diabetic patients with this product.
+Ibuprofen Oral Suspension contains 270 mg high fructose corn syrup and 0.83 calories per mL, or 1350 mg high fructose corn syrup and 4.15 calories per teaspoonful, which should be taken into consideration when treating diabetic patients with this product.
 
-## Information for Patients
+## Information for Patients:
 
 Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
 Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
 
-1. Ibuprofen suspension, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization, and even death.
-   Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS - Cardiovascular Effects).
-2. Ibuprofen suspension, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization or even death.
-   Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS - Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation).
-3. Ibuprofen suspension, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
-   Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
-   Patients should be advised to stop the drug immediately if they develop any type of rash or contact their physicians as soon as possible.
-4. Patients should promptly report signs and symptoms of unexplained weight gain or edema to their physicians.
-5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritis, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
-   If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
-6. Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
-   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
-7. In late pregnancy, as with other NSAIDs, ibuprofen suspension should be avoided because it may cause premature closure of the ductus arteriosus.
+1.
+Ibuprofen Oral Suspension, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization, and even death.
+Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
+Patients should be apprised of the importance of this follow-up (see WARNINGS - Cardiovascular Effects).
+
+2.
+Ibuprofen Oral Suspension, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization or even death.
+Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
+Patients should be apprised of the importance of this follow-up (see WARNINGS - Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation).
+
+3.
+Ibuprofen Oral Suspension, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
+Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
+Patients should be advised to stop the drug immediately if they develop any type of rash or contact their physicians as soon as possible.
+
+4.
+Patients should promptly report signs and symptoms of unexplained weight gain or edema to their physicians.
+
+5.
+Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritis, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
+If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
+
+6.
+Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
+If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
+
+7.
+In late pregnancy, as with other NSAIDs, Ibuprofen Oral Suspension should be avoided because it may cause premature closure of the ductus arteriosus.
 
 ## Laboratory Tests
 
 Because serious GI tract ulcerations and bleeding can occur without warning symptoms, physicians should monitor for signs or symptoms of GI bleeding.
 Patients on long-term treatment with NSAIDs should have their CBC and a chemistry profile checked periodically.
-If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (e.g., eosinophilia, rash, etc.) or if abnormal liver tests persist or worsen, ibuprofen suspension should be discontinued.
+If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (e.g., eosinophilia, rash, etc.) or if abnormal liver tests persist or worsen, Ibuprofen Oral Suspension should be discontinued.
 
 ## Drug Interactions
 
@@ -164,11 +176,11 @@ This interaction should be given consideration in patients taking NSAIDs concomi
 
 ### Aspirin
 
-As with other NSAIDs, concomitant administration of IBUPROFEN and aspirin is not generally recommended because of the potential of increased adverse effects.
+As with other NSAIDs, concomitant administration of ibuprofen and aspirin is not generally recommended because of the potential of increased adverse effects.
 
 ### Diuretics
 
-Clinical studies, as well as post marketing observations, have shown that ibuprofen suspension can reduce the natriuretic effect of furosemide and thiazides in some patients.
+Clinical studies, as well as post marketing observations, have shown that ibuprofen oral suspension can reduce the natriuretic effect of furosemide and thiazides in some patients.
 This response has been attributed to inhibition of renal prostaglandin synthesis.
 During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS - Renal Effects), as well as to assure diuretic efficacy.
 
@@ -194,7 +206,7 @@ The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that the
 
 ## Pregnancy
 
-### Teratogenic Effects
+### Teratogenic Effects -
 
 #### Pregnancy Category C
 
@@ -211,17 +223,17 @@ Because of the known effects of nonsteroidal anti-inflammatory drugs on the feta
 
 In rat studies with NSAIDs, as with other drugs known to inhibit prostaglandin synthesis, an increased incidence of dystocia, delayed parturition, and decreased pup survival occurred.
 The effects of ibuprofen suspension on labor and delivery in pregnant women are unknown.
-Therefore, administration of ibuprofen suspension is not recommended during labor and delivery.
+Therefore, administration of Ibuprofen Oral Suspension is not recommended during labor and delivery.
 
 ## Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from ibuprofen suspension, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from Ibuprofen Oral Suspension, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
 
-Safety and effectiveness of ibuprofen suspension in pediatric patients below the age of 6 months have not been established (see CLINICAL PHARMACOLOGY - Clinical Studies).
-Dosing of ibuprofen suspension in children 6 months or older should be guided by their body weight (see DOSAGE AND ADMINISTRATION).
+Safety and effectiveness of ibuprofen oral suspension in pediatric patients below the age of 6 months have not been established (see CLINICAL PHARMACOLOGY - Clinical Studies).
+Dosing of Ibuprofen Oral Suspension in children 6 months or older should be guided by their body weight (see DOSAGE AND ADMINISTRATION).
 
 ## Geriatric Use
 
