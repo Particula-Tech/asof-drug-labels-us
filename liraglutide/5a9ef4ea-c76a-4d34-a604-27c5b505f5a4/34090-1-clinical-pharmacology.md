@@ -132,3 +132,7 @@ Victoza lowered ethinylestradiol and levonorgestrel Cmax by 12% and 13%, respect
 There was no effect of Victoza on the overall exposure (AUC) of ethinylestradiol.
 Victoza increased the levonorgestrel AUC0-∞ by 18%.
 Victoza delayed Tmax for both ethinylestradiol and levonorgestrel by 1.5 h.
+
+Insulin Detemir
+
+No pharmacokinetic interaction was observed between Victoza and insulin detemir when separate subcutaneous injections of insulin detemir 0.5 Unit/kg (single-dose) and Victoza 1.8 mg (steady state) were administered in patients with type 2 diabetes.

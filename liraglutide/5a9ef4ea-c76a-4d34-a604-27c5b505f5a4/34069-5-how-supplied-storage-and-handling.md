@@ -5,15 +5,16 @@
 Victoza is available in the following package sizes containing disposable, pre-filled, multi-dose pens.
 Each individual pen delivers doses of 0.6 mg, 1.2 mg, or 1.8 mg (6 mg/mL, 3 mL).
 
-- 2 x Victoza pen NDC 0169-4060-12
-- 3 x Victoza pen NDC 0169-4060-13
+2 x Victoza pen NDC 0169-4060-12
+
+3 x Victoza pen NDC 0169-4060-13
 
 Each Victoza pen is for use by a single patient.
 A Victoza pen should never be shared between patients, even if the needle is changed.
 
 ## 16.2 Recommended Storage
 
-Prior to first use, Victoza should be stored in a refrigerator between 36ºF to 46ºF (2ºC to 8ºC) (Table 11).
+Prior to first use, Victoza should be stored in a refrigerator between 36ºF to 46ºF (2ºC to 8ºC) (Table 14).
 Do not store in the freezer or directly adjacent to the refrigerator cooling element.
 Do not freeze Victoza and do not use Victoza if it has been frozen.
 
@@ -23,7 +24,7 @@ Victoza should be protected from excessive heat and sunlight.
 Always remove and safely discard the needle after each injection and store the Victoza pen without an injection needle attached.
 This will reduce the potential for contamination, infection, and leakage while also ensuring dosing accuracy.
 
-Table 11 Recommended Storage Conditions for the Victoza Pen
+Table 14 Recommended Storage Conditions for the Victoza Pen
 
 | Prior to first use | After first use |  |
 | --- | --- | --- |
