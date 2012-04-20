@@ -16,22 +16,17 @@ What is Femring used for?
 
 Femring is used after menopause to:
 
-- reduce moderate to severe hot flashes
+- reduce moderate to severe hot flashes Estrogens are hormones made by a woman’s ovaries.
+  The ovaries normally stop making estrogens when a woman is between 45 to 55 years old.
+  This drop in body estrogen levels causes the "change of life" or menopause (the end of monthly menstrual periods).
+  Sometimes, both ovaries are removed during an operation before natural menopause takes place.
+  The sudden drop in estrogen levels causes "surgical menopause".
+  When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating ("hot flashes" or "hot flushes").
+  In some women the symptoms are mild and they will not need estrogens.
+  In other women, symptoms can be more severe.
+  You and your healthcare provider should talk regularly about whether you still need treatment with Femring.
 
-Estrogens are hormones made by a woman’s ovaries.
-The ovaries normally stop making estrogens when a woman is between 45 to 55 years old.
-This drop in body estrogen levels causes the "change of life" or menopause (the end of monthly menstrual periods).
-Sometimes, both ovaries are removed during an operation before natural menopause takes place.
-The sudden drop in estrogen levels causes "surgical menopause".
-
-When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating ("hot flashes" or "hot flushes").
-In some women the symptoms are mild and they will not need estrogens.
-In other women, symptoms can be more severe.
-You and your healthcare provider should talk regularly about whether you still need treatment with Femring.
-
-- treat menopausal changes in and around the vagina
-
-You and your healthcare provider should talk regularly about whether you still need treatment with Femring to control these problems.
+- treat menopausal changes in and around the vagina You and your healthcare provider should talk regularly about whether you still need treatment with Femring to control these problems.
 
 Who should not use Femring?
 
@@ -239,14 +234,10 @@ Femring contains estradiol acetate, an estrogen.
 It also contains cured silicone elastomer composed of dimethyl polysiloxane silanol, silica (diatomaceous earth), normal propyl orthosilicate, stannous octoate; and barium sulfate.
 There are no coloring agents in Femring.
 
-Manufactured by: Warner Chilcott UK, Ltd., Larne, Northern Ireland, UK
-
-Marketed by: Warner Chilcott (US), LLC, Rockaway, NJ 07866
-
-1-800-521-8813
+Manufactured by: Warner Chilcott UK, Ltd., Larne, Northern Ireland, UK Marketed by: Warner Chilcott (US), LLC, Rockaway, NJ 07866 1-800-521-8813
 
 To report SUSPECTED ADVERSE REACTIONS, contact Warner Chilcott at 1-800-521-8813 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-6201G071
+6201G072
 
-REVISED September 2009
+REVISED April 2010

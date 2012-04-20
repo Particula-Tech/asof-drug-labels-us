@@ -13,34 +13,34 @@ Mean Change from Baseline in the Number of Moderate to Severe Vasomotor Symptoms
 
 | Visit | Placebo(n = 105) | Estradiol0.05 mg/day(n = 111) | Estradiol0.10 mg/day(n = 109) |
 | --- | --- | --- | --- |
-| BaselineThe baseline number of moderate to severe vasomotor symptoms (MSVS) is the weekly average number of MSVS during the two weeks between screening and randomization. |  |  |  |
+| Baseline [1] |  |  |  |
 | Mean (SD) | 83.62 (60.42) | 73.83 (24.53) | 75.11 (25.44) |
 | Week 4 |  |  |  |
-| Mean (SD) | 51.14 (51.19) | 21.59Denotes statistical significance at the 0.050 level. (27.76) | 11.37 (19.43) |
-| Mean Change from Baseline (SD) | -32.48 (46.25) | -52.24 (32.92) | -63.75 (26.68) |
-| p value vs. Placebo (95% CI)p values and confidence intervals are from a two-way ANOVA with factors for treatment and study center for the difference between treatment groups in the mean change from baseline. Confidence intervals are adjusted for multiple comparisons within each timepoint using Dunnett’s method | - | <0.001 (-30.7, -8.8) | <0.001 (-42.2, -20.3) |
+| Mean (SD) | 51.14 (51.19) | 21.59* (27.76) | 11.37* (19.43) |
+| Mean Change from Baseline (SD) | -32.48 (46.25) | -52.24* (32.92) | -63.75* (26.68) |
+| p value vs. Placebo (95% CI) [2] | - | <0.001 (-30.7, -8.8) | <0.001 (-42.2, -20.3) |
 | Week 12 |  |  |  |
-| Mean (SD) | 42.21 (41.13) | 15.48 (25.42) | 8.25 (16.58) |
-| Mean Change from Baseline (SD) | -41.41 (65.61) | -58.36 (31.36) | -66.87 (27.44) |
-| p value vs. Placebo (95% CI) | - | 0.006 (-30.5, -3.4) | <0.001 (-39.1, -11.8) |
-| ITT = intent to treat; LOCF = last observation carried forward; CI = confidence interval |  |  |  |
+| Mean (SD) | 42.21 (41.13) | 15.48* (25.42) | 8.25* (16.58) |
+| Mean Change from Baseline (SD) | -41.41 (65.61) | -58.36* (31.36) | -66.87* (27.44) |
+| p value vs. Placebo (95% CI) [2] | - | 0.006 (-30.5, -3.4) | <0.001 (-39.1, -11.8) |
+| *Denotes statistical significance at the 0.050 level.[1] The baseline number of moderate to severe vasomotor symptoms (MSVS) is the weekly average number of MSVS during the two weeks between screening and randomization. [2] p values and confidence intervals are from a two-way ANOVA with factors for treatment and study center for the difference between treatment groups in the mean change from baseline. Confidence intervals are adjusted for multiple comparisons within each timepoint using Dunnett’s method.ITT = intent to treat; LOCF = last observation carried forward; CI = confidence interval |  |  |  |
 
 Table 3.
 Mean Change from Baseline in the Severity of Moderate to Severe Vasomotor Symptoms per Week – ITT Population, LOCF
 
 | Visit | Placebo(n = 105) | Estradiol0.05 mg/day(n = 111) | Estradiol0.10 mg/day(n = 109) |
 | --- | --- | --- | --- |
-| BaselineThe baseline severity of moderate to severe vasomotor symptoms (MSVS) is the average severity of MSVS during the two weeks between screening and randomization. |  |  |  |
+| Baseline [1] |  |  |  |
 | Mean (SD) | 2.51 (0.26) | 2.46 (0.23) | 2.48 (0.24) |
 | Week 4 |  |  |  |
-| Mean (SD) | 2.23 (0.71) | 1.67Denotes statistical significance at the 0.050 level. (1.07) | 1.15 (1.14) |
-| Mean Change from Baseline (SD) | -0.28 (0.69) | - 0.79 (1.08) | -1.33 (1.10) |
-| p value vs. Placebo (95% CI)p values and confidence intervals are from a two-way ANOVA with factors for treatment and study center for the difference between treatment groups in the mean change from baseline. Confidence intervals are adjusted for multiple comparisons within each timepoint using Dunnett’s method. | - | <0.001 (-0.8, -0.2) | <0.001 (-1.3, -0.8) |
+| Mean (SD) | 2.23 (0.71) | 1.67* (1.07) | 1.15* (1.14) |
+| Mean Change from Baseline (SD) | -0.28 (0.69) | - 0.79* (1.08) | -1.33* (1.10) |
+| p value vs. Placebo (95% CI) [2] | - | <0.001 (-0.8, -0.2) | <0.001 (-1.3, -0.8) |
 | Week 12 |  |  |  |
-| Mean (SD) | 2.00 (0.96) | 1.41 (1.17) | 0.92 (1.09) |
-| Mean Change from Baseline (SD) | -0.51 (0.94) | -1.06 (1.16) | -1.56 (1.06) |
-| p value vs. Placebo (95% CI) | - | <0.001 (-0.9, -0.2) | <0.001 (-1.4, -0.7) |
-| ITT = intent to treat; LOCF = last observation carried forward; CI = confidence interval |  |  |  |
+| Mean (SD) | 2.00 (0.96) | 1.41* (1.17) | 0.92* (1.09) |
+| Mean Change from Baseline (SD) | -0.51 (0.94) | -1.06* (1.16) | -1.56* (1.06) |
+| p value vs. Placebo (95% CI) [2] | - | <0.001 (-0.9, -0.2) | <0.001 (-1.4, -0.7) |
+| *Denotes statistical significance at the 0.050 level.[1] The baseline severity of moderate to severe vasomotor symptoms (MSVS) is the average severity of MSVS during the two weeks between screening and randomization. [2] p values and confidence intervals are from a two-way ANOVA with factors for treatment and study center for the difference between treatment groups in the mean change from baseline. Confidence intervals are adjusted for multiple comparisons within each timepoint using Dunnett’s method.ITT = intent to treat; LOCF = last observation carried forward; CI = confidence interval |  |  |  |
 
 ## Effects on vulvar and vaginal atrophy
 

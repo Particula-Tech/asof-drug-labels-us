@@ -27,16 +27,17 @@ Following administration of Femring (0.10 mg/day estradiol), average serum estra
 Results are summarized in Table 1 below.
 
 Table 1.
-Summary of Mean (%RSD)Relative Standard Deviation Pharmacokinetic Parameters for Femring
+Summary of Mean (%RSD)* Pharmacokinetic Parameters for Femring
 
 | Dose(as estradiol) |  | Number of subjects | Cmax(pg/mL) | Tmax(hour) | Cavg(pg/mL) |
 | --- | --- | --- | --- | --- | --- |
-| 0.05 mg/day | EstradiolStudy 1 | 25 | 1129 (25) | 0.9 (41) | 40.6 (26) |
-| Estrone | 25 | 141 (25) | 6.2 (84) | 35.9 (21) |  |
-| Estrone sulfate | 25 | 2365 (44) | 9.3 (39) | 494.6 (48) |  |
-| 0.10 mg/day | EstradiolStudy 2 | 12 | 1665 (23) | 0.7 (90) | --Not determined |
-| EstradiolStudy 3 | 11 | -- | -- | 76.0 (24) |  |
-| Estrone | 11 | -- | -- | 45.7 (25) |  |
+| 0.05 mg/day | Estradiol1 | 25 | 1129 (25) | 0.9 (41) | 40.6 (26) |
+| Estrone1 | 25 | 141 (25) | 6.2 (84) | 35.9 (21) |  |
+| Estrone sulfate1 | 25 | 2365 (44) | 9.3 (39) | 494.6 (48) |  |
+| 0.10 mg/day | Estradiol2 | 12 | 1665 (23) | 0.7 (90) | --4 |
+| Estradiol3 | 11 | -- | -- | 76.0 (24) |  |
+| Estrone3 | 11 | -- | -- | 45.7 (25) |  |
+| *Relative Standard Deviation, 1Study 1, 2Study 2, 3Study 3, 4-- Not determined |  |  |  |  |  |
 
 Consistent with the avoidance of first pass metabolism achieved by vaginal estradiol administration, serum estradiol concentrations were slightly higher than estrone concentrations.
 

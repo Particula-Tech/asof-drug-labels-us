@@ -1,6 +1,6 @@
 # WARNINGS
 
-SeeBOXED WARNINGS
+See BOXED WARNINGS
 
 Femring is used only in the vagina, however, the risks associated with oral estrogens should be taken into account.
 
@@ -223,7 +223,7 @@ Serum follicle stimulating hormone and estradiol levels have not been shown to b
    T3 resin uptake is decreased, reflecting the elevated TBG.
    Free T4 and free T3 concentrations are unaltered.
    Women on thyroid replacement therapy may require higher doses of thyroid hormone.
-3. Other binding proteins may be elevated in serum, for example, corticosteroid binding globulin (CBG), sex hormone binding globulin (SHBG)) leading to increased total circulating corticosteroids and sex steroids, respectively.
+3. Other binding proteins may be elevated in serum, for example, corticosteroid binding globulin (CBG), sex hormone binding globulin (SHBG) leading to increased total circulating corticosteroids and sex steroids, respectively.
    Free hormone concentrations, such as testosterone and estradiol, may be decreased.
    Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
 4. Increased plasma HDL and HDL2 cholesterol subfraction concentrations, reduced LDL cholesterol concentration, increased triglycerides levels.

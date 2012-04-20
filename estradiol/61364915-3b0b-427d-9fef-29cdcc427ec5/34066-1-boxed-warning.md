@@ -26,7 +26,7 @@ Estrogens with or without progestins should be prescribed at the lowest effectiv
 WARNING: CARDIOVASCULAR DISORDERS, BREAST CANCER AND PROBABLE DEMENTIA FOR ESTROGEN PLUS PROGESTIN THERAPY
 
 Estrogens plus progestin therapy should not be used for the prevention of cardiovascular disease or dementia.
-(See CLINICAL STUDIES and WARNINGS, Cardiovascular disorders, and Dementia.)
+(See CLINICAL STUDIES and WARNINGS, Cardiovascular disorders and Dementia.)
 
 The WHI estrogen plus progestin substudy reported increased risks of DVT, pulmonary embolism, stroke, and myocardial infarction in postmenopausal women (50 to 79 years of age) during 5.6 years of treatment with daily oral CE (0.625 mg) combined with medroxyprogesterone acetate (MPA) [2.5 mg], relative to placebo.
 (See CLINICAL STUDIES and WARNINGS, Cardiovascular disorders.)
@@ -45,11 +45,9 @@ Estrogens with or without progestins should be prescribed at the lowest effectiv
 What is the most important information I should know about Femring (an estrogen product)?
 
 - Using estrogen-alone therapy increases your chance of getting cancer of the uterus (womb).
-
-Report any unusual vaginal bleeding right away while you are using Femring.
-Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
-Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-
+  Report any unusual vaginal bleeding right away while you are using Femring.
+  Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
+  Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
 - Do not use estrogen-alone therapy to prevent heart disease, heart attacks or dementia (decline of brain function).
 - Using estrogen-alone therapy may increase your chances of getting strokes or blood clots.
 - Using estrogen-alone therapy may increase your chance of getting dementia, based on a study of women age 65 or older.
