@@ -45,7 +45,7 @@ Children < 1 year of age must not receive ATACAND for hypertension.
 
 All pediatric patients with a glomerular filtration rate less than 30 ml/min/1.73m2 should not receive ATACAND since ATACAND has not been studied in this population [see WARNINGS AND PRECAUTIONS (5.2)].
 
-For children who cannot swallow tablets, an oral suspension may be substituted [see Preparation of Oral Suspension].
+For children who cannot swallow tablets, an oral suspension may be substituted as described below:
 
 Preparation of Oral Suspension:
 

@@ -34,7 +34,7 @@ No maternal toxicity or adverse effects on fetal development were observed when 
 ## 5.2 Morbidity in Infants
 
 Children < 1 year of age must not receive ATACAND for hypertension.
-The consequences of administering drugs that act directly on the renin-angiotensin system (RAS) can have effects on the development of immature kidneys.
+Drugs that act directly on the renin-angiotensin system (RAS) can have effects on the development of immature kidneys.
 
 ## 5.3 Hypotension
 
