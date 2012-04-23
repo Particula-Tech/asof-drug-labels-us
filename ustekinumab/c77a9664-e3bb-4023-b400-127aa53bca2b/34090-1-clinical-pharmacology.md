@@ -50,4 +50,5 @@ There were no apparent changes in pharmacokinetic parameters (clearance and volu
 
 Drug-Drug Interactions
 
-Upon initiation of ustekinumab in patients who are receiving concomitant CYP450 substrates, particularly those with narrow therapeutic index, monitoring for therapeutic effect (e.g., for warfarin) or drug concentration (e.g., for cyclosporine) should be considered and the individual dose of the drug adjusted as needed [see Drug Interactions (7.3)].
+The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4).
+However, the clinical relevance of in vitro data has not been established [see Drug Interactions (7.3)].

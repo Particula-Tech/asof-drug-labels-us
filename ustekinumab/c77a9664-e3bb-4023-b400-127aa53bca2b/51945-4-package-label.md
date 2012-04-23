@@ -4,7 +4,7 @@ Single use vial– Discard unused portion
 
 NDC 57894-060-02
 
-Stelara™ (ustekinumab)
+Stelara® (ustekinumab)
 
 Injection
 
