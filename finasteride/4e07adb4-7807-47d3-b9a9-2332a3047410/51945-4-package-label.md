@@ -1,4 +1,4 @@
-# This is a representative sample of the packaging. Please see How Supplied section for a complete list of available packaging. PRINCIPAL DISPLAY PANEL - Bottle Label 1 mg
+PRINCIPAL DISPLAY PANEL - Bottle Label 1 mg
 
 Propecia® (finasteride) 1mg
 

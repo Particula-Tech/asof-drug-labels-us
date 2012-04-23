@@ -1,8 +1,8 @@
-# DOSAGE AND ADMINISTRATION
-
-The recommended dosage is 1 mg orally once a day.
+# 2 DOSAGE AND ADMINISTRATION
 
 PROPECIA may be administered with or without meals.
+
+The recommended dose of PROPECIA is one tablet (1 mg) taken once daily.
 
 In general, daily use for three months or more is necessary before benefit is observed.
 Continued use is recommended to sustain benefit, which should be re-evaluated periodically.
