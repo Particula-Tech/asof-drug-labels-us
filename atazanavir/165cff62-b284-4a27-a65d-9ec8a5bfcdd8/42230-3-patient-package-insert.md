@@ -27,16 +27,15 @@ REYATAZ may lower the amount of HIV in your blood, help your body keep its suppl
 
 Does REYATAZ cure HIV or AIDS?
 
-REYATAZ does not cure HIV infection or AIDS.
-At present there is no cure for HIV infection.
-People taking REYATAZ may still get opportunistic infections or other conditions that happen with HIV infection.
-Opportunistic infections are infections that develop because the immune system is weak.
-Some of these conditions are pneumonia, herpes virus infections, and Mycobacterium avium complex (MAC) infections.
-It is very important that you see your healthcare provider regularly while taking REYATAZ.
+REYATAZ does not cure HIV infection or AIDS and you may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
+You should remain under the care of a doctor when using REYATAZ.
 
-REYATAZ does not lower your chance of passing HIV to other people through sexual contact, sharing needles, or being exposed to your blood.
-For your health and the health of others, it is important to always practice safer sex by using a latex or polyurethane condom or other barrier to lower the chance of sexual contact with semen, vaginal secretions, or blood.
-Never use or share dirty needles.
+Avoid doing things that can spread HIV-1 injection.
+
+- Do not share needles or other injection equipment.
+- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+- Do not have any kind of sex without protection.
+  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
 
 Who should not take REYATAZ?
 
@@ -62,10 +61,10 @@ Tell your healthcare provider:
   You and your healthcare provider will need to decide if REYATAZ is right for you.
   If you use REYATAZ while you are pregnant, talk to your healthcare provider about the Antiretroviral Pregnancy Registry.
   - After your baby is born, tell your healthcare provider if your baby’s skin or the white part of his/her eyes turns yellow.
-- If you are breast-feeding.
-  You should not breast-feed if you are HIV-positive because of the chance of passing HIV to your baby.
-  Also, it is not known if REYATAZ can pass into your breast milk and if it can harm your baby.
-  If you are a woman who has or will have a baby, talk with your healthcare provider about the best way to feed your baby.
+- If you are breastfeeding.
+  Do not breastfeed.
+  It is not known if REYATAZ can be passed to your baby in your breast milk and whether it could harm your baby.
+  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
 - If you have liver problems or are infected with the hepatitis B or C virus.
   See “What are the possible side effects of REYATAZ?”
 - If you have end stage kidney disease managed with hemodialysis.
@@ -251,7 +250,7 @@ What are the ingredients in REYATAZ?
 
 Active Ingredient: atazanavir sulfate
 
-Inactive Ingredients: Crospovidone, lactose monohydrate (milk sugar), magnesium stearate, gelatin, FD&C Blue #2, and titanium dioxide.
+Inactive Ingredients: Crospovidone, lactose monohydrate (milk sugar), magnesium stearate, gelatin, FD&C Blue No. 2, and titanium dioxide.
 
 VIDEX® and REYATAZ® are registered trademarks of Bristol-Myers Squibb Company.
 COUMADIN® and SUSTIVA® are registered trademarks of Bristol-Myers Squibb Pharma Company.
@@ -260,4 +259,4 @@ Other brands listed are the trademarks of their respective owners and are not tr
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1246226B0 Rev October 2011
+1246226B1 Rev February 2012

@@ -4,8 +4,18 @@ See FDA-approved patient labeling (Patient Information).
 
 A statement to patients and healthcare providers is included on the product’s bottle label: ALERT: Find out about medicines that should NOT be taken with REYATAZ.
 
-Patients should be informed that REYATAZ is not a cure for HIV infection and that they may continue to develop opportunistic infections and other complications associated with HIV disease.
-Patients should be told that there are currently no data demonstrating that therapy with REYATAZ can reduce the risk of transmitting HIV to others through sexual contact.
+REYATAZ is not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
+Patients should remain under the care of a physician when using REYATAZ.
+
+Patients should be advised to avoid doing things that can spread HIV-1 infection to others.
+
+- Do not share needles or other injection equipment.
+- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+- Do not have any kind of sex without protection.
+  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+- Do not breastfeed.
+  It is not known if REYATAZ can be passed to your baby in your breast milk and whether it could harm your baby.
+  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in breast milk.
 
 ## 17.1 Dosing Instructions
 
@@ -23,7 +33,7 @@ REYATAZ may interact with some drugs; therefore, patients should be advised to r
 
 Patients receiving a PDE5 inhibitor and atazanavir should be advised that they may be at an increased risk of PDE5 inhibitor-associated adverse events including hypotension, syncope, visual disturbances, and priapism, and should promptly report any symptoms to their doctor.
 
-Patients should be informed that REVATIO® (used to treat pulmonary arterial hypertension) is contraindicated with REYATAZ and that dose adjustments are necessary when REYATAZ is used with CIALIS®, LEVITRA® or VIAGRA® (used to treat erectile dysfunction), or ADCIRCA® (used to treat pulmonary arterial hypertension).
+Patients should be informed that REVATIO® (used to treat pulmonary arterial hypertension) is contraindicated with REYATAZ and that dose adjustments are necessary when REYATAZ is used with CIALIS®, LEVITRA®, or VIAGRA® (used to treat erectile dysfunction), or ADCIRCA® (used to treat pulmonary arterial hypertension).
 
 ## 17.3 Cardiac Conduction Abnormalities
 

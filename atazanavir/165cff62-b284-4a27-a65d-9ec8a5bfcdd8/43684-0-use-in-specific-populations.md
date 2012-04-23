@@ -68,9 +68,9 @@ However, maternal toxicity also occurred at this exposure level.
 
 ## 8.3 Nursing Mothers
 
-The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breast-feed their infants to avoid risking postnatal transmission of HIV.
+The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
 It is not known whether atazanavir is present in human milk.
-Because of both the potential for HIV transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breast-feed if they are taking REYATAZ.
+Because of both the potential for HIV transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breastfeed if they are taking REYATAZ.
 
 ## 8.4 Pediatric Use
 

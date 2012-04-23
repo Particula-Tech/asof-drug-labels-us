@@ -156,20 +156,22 @@ Table 17: Drug Interactions: Pharmacokinetic Parameters for Atazanavir in the Pr
 | famotidine | 40 mg BID, d 7−12 (n=15) | 400 mg QD, d 1−6 (n=45), d 7−12 (simultaneous administration) (n=15) | 0.53 (0.34, 0.82) | 0.59 (0.40, 0.87) | 0.58 (0.37, 0.89) |
 |  | 40 mg BID, d 7−12 (n=14) | 400 mg QD (pm), d 1−6 (n=14), d 7−12 (10 h after, 2 h before famotidine) (n=14) | 1.08 (0.82, 1.41) | 0.95 (0.74, 1.21) | 0.79 (0.60, 1.04) |
 |  | 40 mg BID, d 11−20 (n=14)d | 300 mg QD/ritonavir 100 mg QD, d 1−10 (n=46), d 11−20d (simultaneous administration) (n=14) | 0.86 (0.79, 0.94) | 0.82 (0.75, 0.89) | 0.72 (0.64, 0.81) |
-|  | 20 mg BID, d 11−17 (n=18) | 300 mg QD/ ritonavir 100 mg QD/tenofovir 300 mg QD, d 1−10 (am) (n=39), d 11−17 (am) (simultaneous administration with am famotidine) (n=18)e,f | 0.91 (0.84, 0.99) | 0.90 (0.82, 0.98) | 0.81 (0.69, 0.94) |
-|  | 40 mg QD (pm), d 18−24 (n=20) | 300 mg QD/ ritonavir 100 mg QD/tenofovir 300 mg QD, d 1−10 (am) (n=39), d 18−24 (am) (12 h after pm famotidine) (n=20)f | 0.89 (0.81, 0.97) | 0.88 (0.80, 0.96) | 0.77 (0.63, 0.93) |
+|  | 20 mg BID, d 11−17 (n=18) | 300 mg QD/ritonavir 100 mg QD/tenofovir 300 mg QD, d 1−10 (am) (n=39), d 11−17 (am) (simultaneous administration with am famotidine) (n=18)e,f | 0.91 (0.84, 0.99) | 0.90 (0.82, 0.98) | 0.81 (0.69, 0.94) |
+|  | 40 mg QD (pm), d 18−24 (n=20) | 300 mg QD/ritonavir 100 mg QD/tenofovir 300 mg QD, d 1−10 (am) (n=39), d 18−24 (am) (12 h after pm famotidine) (n=20)f | 0.89 (0.81, 0.97) | 0.88 (0.80, 0.96) | 0.77 (0.63, 0.93) |
 |  | 40 mg BID, d 18−24 (n=18) | 300 mg QD/ritonavir 100 mg QD/tenofovir 300 mg QD, d 1−10 (am) (n=39), d 18−24 (am) (10 h after pm famotidine and 2 h before am famotidine) (n=18)f | 0.74 (0.66, 0.84) | 0.79 (0.70, 0.88) | 0.72 (0.63, 0.83) |
 |  | 40 mg BID, d 11−20 (n=15) | 300 mg QD/ritonavir 100 mg QD, d 1−10 (am) (n=46), then 400 mg QD/ritonavir 100 mg QD, d 11−20 (am) (n=15) | 1.02 (0.87, 1.18) | 1.03 (0.86, 1.22) | 0.86 (0.68, 1.08) |
-| fluconazole | 200 mg QD, d 11−20 (n=29) | 300 mg QD/ ritonavir 100 mg QD, d 1−10 (n=19), d 11−20 (n=29) | 1.03 (0.95, 1.11) | 1.04 (0.95, 1.13) | 0.98 (0.85, 1.13) |
+| fluconazole | 200 mg QD, d 11−20 (n=29) | 300 mg QD/ritonavir 100 mg QD, d 1−10 (n=19), d 11−20 (n=29) | 1.03 (0.95, 1.11) | 1.04 (0.95, 1.13) | 0.98 (0.85, 1.13) |
 | ketoconazole | 200 mg QD, d 7−13 (n=14) | 400 mg QD, d 1−13 (n=14) | 0.99 (0.77, 1.28) | 1.10 (0.89, 1.37) | 1.03 (0.53, 2.01) |
 | nevirapineg,h | 200 mg BID, d 1–23 (n=23) | 300 mg QD/ritonavir 100 mg QD, d 4–13, then 400 mg QD/ritonavir 100 mg QD, d 14–23 (n=23)i | 0.72 (0.60, 0.86) 1.02 (0.85, 1.24) | 0.58 (0.48, 0.71) 0.81 (0.65, 1.02) | 0.28 (0.20, 0.40) 0.41 (0.27, 0.60) |
 | omeprazole | 40 mg QD, d 7−12 (n=16)j | 400 mg QD, d 1−6 (n=48), d 7−12 (n=16) | 0.04 (0.04, 0.05) | 0.06 (0.05, 0.07) | 0.05 (0.03, 0.07) |
 |  | 40 mg QD, d 11−20 (n=15)j | 300 mg QD/ritonavir 100 mg QD, d 1−20 (n=15) | 0.28 (0.24, 0.32) | 0.24 (0.21, 0.27) | 0.22 (0.19, 0.26) |
 |  | 20 mg QD, d 17−23 (am) (n=13) | 300 mg QD/ritonavir 100 mg QD, d 7−16 (pm) (n=27), d 17−23 (pm) (n=13)k,l | 0.61 (0.46, 0.81) | 0.58 (0.44, 0.75) | 0.54 (0.41, 0.71) |
 |  | 20 mg QD, d 17−23 (am) (n=14) | 300 mg QD/ritonavir 100 mg QD, d 7−16 (am) (n=27), then 400 mg QD/ritonavir 100 mg QD, d 17−23 (am) (n=14)m,n | 0.69 (0.58, 0.83) | 0.70 (0.57, 0.86) | 0.69 (0.54, 0.88) |
+| pitavastatin | 4 mg QD for 5 days | 300 mg QD for 5 days | 1.13 (0.96, 1.32) | 1.06 (0.90, 1.26) | NA |
 | rifabutin | 150 mg QD, d 15−28 (n=7) | 400 mg QD, d 1−28 (n=7) | 1.34 (1.14, 1.59) | 1.15 (0.98, 1.34) | 1.13 (0.68, 1.87) |
 | rifampin | 600 mg QD, d 17−26 (n=16) | 300 mg QD/ritonavir 100 mg QD, d 7−16 (n=48), d 17−26 (n=16) | 0.47 (0.41, 0.53) | 0.28 (0.25, 0.32) | 0.02 (0.02, 0.03) |
 | ritonaviro | 100 mg QD, d 11−20 (n=28) | 300 mg QD, d 1−20 (n=28) | 1.86 (1.69, 2.05) | 3.38 (3.13, 3.63) | 11.89 (10.23, 13.82) |
+| telaprevir | 750 mg q8h for 10 days (n=7) | 300 mg QD/ritonavir 100 mg QD for 20 days (n=7) | 0.85 (0.73, 0.98) | 1.17 (0.97, 1.43) | 1.85 (1.40, 2.44) |
 | tenofovirp | 300 mg QD, d 9−16 (n=34) | 400 mg QD, d 2−16 (n=34) | 0.79 (0.73, 0.86) | 0.75 (0.70, 0.81) | 0.60 (0.52, 0.68) |
 |  | 300 mg QD, d 15−42 (n=10) | 300 mg/ritonavir 100 mg QD, d 1−42 (n=10) | 0.72q (0.50, 1.05) | 0.75q (0.58, 0.97) | 0.77q (0.54, 1.10) |
 | a Data provided are under fed conditions unless otherwise noted. |  |  |  |  |  |
@@ -188,7 +190,8 @@ Table 17: Drug Interactions: Pharmacokinetic Parameters for Atazanavir in the Pr
 | n REYATAZ 400 mg plus ritonavir 100 mg once daily administered with omeprazole 20 mg once daily resulted in increases in atazanavir geometric mean AUC (32%) and Cmin (3.3-fold), with a decrease in Cmax (26%) relative to REYATAZ 400 mg once daily in the absence of omeprazole (study days 1−6). |  |  |  |  |  |
 | o Compared with atazanavir 400 mg QD historical data, administration of atazanavir/ritonavir 300/100 mg QD increased the atazanavir geometric mean values of Cmax, AUC, and Cmin by 18%, 103%, and 671%, respectively. |  |  |  |  |  |
 | p Note that similar results were observed in studies where administration of tenofovir and REYATAZ was separated by 12 hours. |  |  |  |  |  |
-| q Ratio of atazanavir plus ritonavir plus tenofovir to atazanavir plus ritonavir. Atazanavir 300 mg plus ritonavir 100 mg results in higher atazanavir exposure than atazanavir 400 mg (see footnote o). The geometric mean values of atazanavir pharmacokinetic parameters when coadministered with ritonavir and tenofovir were: Cmax = 3190 ng/mL, AUC = 34459 ng•h/mL, and Cmin = 491 ng/mL. Study was conducted in HIV-infected individuals. |  |  |  |  |  |
+| q Ratio of atazanavir plus ritonavir plus tenofovir to atazanavir plus ritonavir. Atazanavir 300 mg plus ritonavir 100 mg results in higher atazanavir exposure than atazanavir 400 mg (see footnoteo). The geometric mean values of atazanavir pharmacokinetic parameters when coadministered with ritonavir and tenofovir were: Cmax = 3190 ng/mL, AUC = 34459 ng•h/mL, and Cmin = 491 ng/mL. Study was conducted in HIV-infected individuals. |  |  |  |  |  |
+| NA = not available. |  |  |  |  |  |
 
 Table 18: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Presence of REYATAZa
 
@@ -205,15 +208,18 @@ Table 18: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs
 | ethinyl estradiol & norethindroned | Ortho-Novum® 7/7/7 QD, d 1−29 (n=19) | 400 mg QD, d 16−29 (n=19) | ethinyl estradiol: 1.15 (0.99, 1.32) norethindrone: 1.67 (1.42, 1.96) | ethinyl estradiol: 1.48 (1.31, 1.68) norethindrone: 2.10 (1.68, 2.62) | ethinyl estradiol: 1.91 (1.57, 2.33) norethindrone: 3.62 (2.57, 5.09) |
 | ethinyl estradiol & norgestimatee | Ortho Tri-Cyclen® QD, d 1–28 (n=18), then Ortho Tri-Cyclen® LO QD, d 29–42f (n=14) | 300 mg QD/ritonavir 100 mg QD, d 29–42 (n=14) | ethinyl estradiol: 0.84 (0.74, 0.95) 17-deacetyl norgestimate:g 1.68 (1.51, 1.88) | ethinyl estradiol: 0.81 (0.75, 0.87) 17-deacetyl norgestimate:g 1.85 (1.67, 2.05) | ethinyl estradiol: 0.63 (0.55, 0.71) 17-deacetyl norgestimate:g 2.02 (1.77, 2.31) |
 | fluconazole | 200 mg QD, d 1−10 (n=11) and 200 mg QD, d 11−20 (n=29) | 300 mg QD/ritonavir 100 mg QD, d 11−20 (n=29) | 1.05 (0.99, 1.10) | 1.08 (1.02, 1.15) | 1.07 (1.00, 1.15) |
-| methadone | Stable maintenance dose, d 1−15 (n=16) | 400 mg QD, d 2−15 (n=16) | (R)- methadoneh 0.91 (0.84, 1.0) total:0.85 (0.78, 0.93) | (R)- methadoneh 1.03 (0.95, 1.10) total:0.94 (0.87, 1.02) | (R)- methadoneh 1.11 (1.02, 1.20) total:1.02 (0.93, 1.12) |
+| methadone | Stable maintenance dose, d 1−15 (n=16) | 400 mg QD, d 2−15 (n=16) | (R)- methadoneh 0.91 (0.84, 1.0) total: 0.85 (0.78, 0.93) | (R)- methadoneh 1.03 (0.95, 1.10) total: 0.94 (0.87, 1.02) | (R)- methadoneh 1.11 (1.02, 1.20) total: 1.02 (0.93, 1.12) |
 | nevirapinei,j | 200 mg BID, d 1–23 (n=23) | 300 mg QD/ritonavir 100 mg QD, d 4–13, then 400 mg QD/ritonavir 100 mg QD, d 14–23 (n=23) | 1.17 (1.09, 1.25) 1.21 (1.11, 1.32) | 1.25 (1.17, 1.34) 1.26 (1.17, 1.36) | 1.32 (1.22, 1.43) 1.35 (1.25, 1.47) |
 | omeprazolek | 40 mg single dose, d 7 and d 20 (n=16) | 400 mg QD, d 1−12 (n=16) | 1.24 (1.04, 1.47) | 1.45 (1.20, 1.76) | NA |
 | rifabutin | 300 mg QD, d 1−10 then 150 mg QD, d 11−20 (n=3) | 600 mg QD,l d 11−20 (n=3) | 1.18 (0.94, 1.48) 25-O- desacetyl- rifabutin: 8.20 (5.90, 11.40) | 2.10 (1.57, 2.79) 25-O- desacetyl- rifabutin: 22.01 (15.97, 30.34) | 3.43 (1.98, 5.96) 25-O- desacetyl- rifabutin: 75.6 (30.1, 190.0) |
 |  | 150 mg twice weekly, d 1−15 (n=7) | 300 mg QD/ritonavir 100 mg QD, d 1−17 (n=7) | 2.49m (2.03, 3.06) 25-O- desacetyl- rifabutin: 7.77 (6.13, 9.83) | 1.48m (1.19, 1.84) 25-O- desacetyl- rifabutin: 10.90 (8.14, 14.61) | 1.40m (1.05, 1.87) 25-O- desacetyl- rifabutin: 11.45 (8.15, 16.10) |
+| pitavastatin | 4 mg QD for 5 days | 300 mg QD for 5 days | 1.60 (1.39, 1.85) | 1.31 (1.23, 1.39) | NA |
 | rosiglitazonen | 4 mg single dose, d 1, 7, 17 (n=14) | 400 mg QD, d 2–7, then 300 mg QD/ritonavir 100 mg QD, d 8–17 (n=14) | 1.08 (1.03, 1.13) 0.97 (0.91, 1.04) | 1.35 (1.26, 1.44) 0.83 (0.77, 0.89) | NA NA |
-| saquinaviro (soft gelatin capsules) | 1200 mg QD, d 1−13 (n=7) | 400 mg QD, d 7−13 (n=7) | 4.39 (3.24, 5.95) | 5.49 (4.04, 7.47) | 6.86 (5.29, 8.91) |
-| tenofovirp | 300 mg QD, d 9−16 (n=33) and d 24−30 (n=33) | 400 mg QD, d 2−16 (n=33) | 1.14 (1.08, 1.20) | 1.24 (1.21, 1.28) | 1.22 (1.15, 1.30) |
-|  | 300 mg QD, d 1−7 (pm) (n=14) d 25−34 (pm) (n=12) | 300 mg QD/ritonavir 100 mg QD, d 25−34 (am) (n=12)q | 1.34 (1.20, 1.51) | 1.37 (1.30, 1.45) | 1.29 (1.21, 1.36) |
+| rosuvastatin | 10 mg single dose | 300 mg QD/ ritonavir 100 mg QD for 7 days | ↑7-foldo | ↑3-foldo | NA |
+| saquinavirp (soft gelatin capsules) | 1200 mg QD, d 1−13 (n=7) | 400 mg QD, d 7−13 (n=7) | 4.39 (3.24, 5.95) | 5.49 (4.04, 7.47) | 6.86 (5.29, 8.91) |
+| telaprevir | 750 mg q8h for 10 days (n=14) | 300 mg QD/ ritonavir 100 mg QD for 20 days (n=14) | 0.79 (0.74, 0.84) | 0.80 (0.76, 0.85) | 0.85 (0.75, 0.98) |
+| tenofovirq | 300 mg QD, d 9−16 (n=33) and d 24−30 (n=33) | 400 mg QD, d 2−16 (n=33) | 1.14 (1.08, 1.20) | 1.24 (1.21, 1.28) | 1.22 (1.15, 1.30) |
+|  | 300 mg QD, d 1−7 (pm) (n=14) d 25−34 (pm) (n=12) | 300 mg QD/ritonavir 100 mg QD, d 25−34 (am) (n=12)r | 1.34 (1.20, 1.51) | 1.37 (1.30, 1.45) | 1.29 (1.21, 1.36) |
 | lamivudine + zidovudine | 150 mg lamivudine + 300 mg zidovudine BID, d 1−12 (n=19) | 400 mg QD, d 7−12 (n=19) | lamivudine: 1.04 (0.92, 1.16) zidovudine: 1.05 (0.88, 1.24) zidovudine glucuronide: 0.95 (0.88, 1.02) | lamivudine: 1.03 (0.98, 1.08) zidovudine: 1.05 (0.96, 1.14) zidovudine glucuronide: 1.00 (0.97, 1.03) | lamivudine: 1.12 (1.04, 1.21) zidovudine: 0.69 (0.57, 0.84) zidovudine glucuronide: 0.82 (0.62, 1.08) |
 | a Data provided are under fed conditions unless otherwise noted. |  |  |  |  |  |
 | b All drugs were given under fasted conditions. |  |  |  |  |  |
@@ -229,9 +235,10 @@ Table 18: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs
 | l Not the recommended therapeutic dose of atazanavir. |  |  |  |  |  |
 | m When compared to rifabutin 150 mg QD alone d1−10 (n=14). Total of Rifabutin + 25-O-desacetyl-rifabutin: AUC 2.19 (1.78, 2.69). |  |  |  |  |  |
 | n Rosiglitazone used as a probe substrate for CYP2C8. |  |  |  |  |  |
-| o The combination of atazanavir and saquinavir 1200 mg QD produced daily saquinavir exposures similar to the values produced by the standard therapeutic dosing of saquinavir at 1200 mg TID. However, the Cmax is about 79% higher than that for the standard dosing of saquinavir (soft gelatin capsules) alone at 1200 mg TID. |  |  |  |  |  |
-| p Note that similar results were observed in a study where administration of tenofovir and REYATAZ was separated by 12 hours. |  |  |  |  |  |
-| q Administration of tenofovir and REYATAZ was temporally separated by 12 hours. |  |  |  |  |  |
+| o Mean ratio (with/without coadministered drug). ↑indicates an increase in rosuvastatin exposure. |  |  |  |  |  |
+| p The combination of atazanavir and saquinavir 1200 mg QD produced daily saquinavir exposures similar to the values produced by the standard therapeutic dosing of saquinavir at 1200 mg TID. However, the Cmax is about 79% higher than that for the standard dosing of saquinavir (soft gelatin capsules) alone at 1200 mg TID. |  |  |  |  |  |
+| q Note that similar results were observed in a study where administration of tenofovir and REYATAZ was separated by 12 hours. |  |  |  |  |  |
+| r Administration of tenofovir and REYATAZ was temporally separated by 12 hours. |  |  |  |  |  |
 | NA = not available. |  |  |  |  |  |
 
 ## 12.4 Microbiology
@@ -278,7 +285,7 @@ Clinical Studies of Treatment-Naive Patients Receiving REYATAZ 300 mg With Riton
 In the ATV/RTV arm, one of the virologic failure isolates had a 56-fold decrease in ATV susceptibility emerge on therapy with the development of PI resistance-associated substitutions L10F, V32I, K43T, M46I, A71I, G73S, I85I/V, and L90M.
 The NRTI resistance-associated substitution M184V also emerged on treatment in this isolate conferring emtricitabine resistance.
 Two ATV/RTV-virologic failure isolates had baseline phenotypic ATV resistance and IAS-defined major PI resistance-associated substitutions at baseline.
-The 150L substitution emerged on study in one of these failure isolates and was associated with a 17-fold decrease in ATV susceptibility from baseline and the other failure isolate with baseline ATV resistance and PI substitutions (M46M/I and I84I/V) had additional IAS-defined major PI substitutions (V32I, M46I, and I84V) emerge on ATV treatment associated with a 3-fold decrease in ATV susceptibiity from baseline.
+The 150L substitution emerged on study in one of these failure isolates and was associated with a 17-fold decrease in ATV susceptibility from baseline and the other failure isolate with baseline ATV resistance and PI substitutions (M46M/I and I84I/V) had additional IAS-defined major PI substitutions (V32I, M46I, and I84V) emerge on ATV treatment associated with a 3-fold decrease in ATV susceptibility from baseline.
 Five of the treatment failure isolates in the ATV/RTV arm developed phenotypic emtricitabine resistance with the emergence of either the M184I (n=1) or the M184V (n=4) substitution on therapy and none developed phenotypic tenofovir disoproxil resistance.
 In the LPV/RTV arm, one of the virologic failure patient isolates had a 69-fold decrease in LPV susceptibility emerge on therapy with the development of PI substitutions L10V, V11I, I54V, G73S, and V82A in addition to baseline PI substitutions L10L/I, V32I, I54I/V, A71I, G73G/S, V82V/A, L89V, and L90M.
 Six LPV/RTV virologic failure isolates developed the M184V substitution and phenotypic emtricitabine resistance and two developed phenotypic tenofovir disoproxil resistance.
