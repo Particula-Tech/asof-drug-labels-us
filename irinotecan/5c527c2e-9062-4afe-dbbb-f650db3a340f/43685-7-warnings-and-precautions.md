@@ -2,7 +2,7 @@
 
 General
 
-Outside of a well-designed clinical study, Irinotecan Injection should not be used in combination with the “Mayo Clinic” regimen of 5-FU/LV (administration for 4-5 consecutive days every 4 weeks) because of reports of increased toxicity, including toxic deaths.
+Outside of a well-designed clinical study, Irinotecan Hydrochloride Injection should not be used in combination with the “Mayo Clinic” regimen of 5-FU/LV (administration for 4-5 consecutive days every 4 weeks) because of reports of increased toxicity, including toxic deaths.
 Irinotecan hydrochloride injection should be used as recommended (see DOSAGE AND ADMINISTRATION).
 
 Diarrhea
@@ -30,9 +30,13 @@ Routine administration of a colony-stimulating factor (CSF) is not necessary, bu
 
 Patients with Reduced UGT1A1 Activity
 
-Individuals who are homozygous for the UGT1A1*28 allele are at increased risk for neutropenia following initiation of Irinotecan Hydrochloride Injection treatment.
-A reduced initial dose should be considered for patients known to be homozygous for the UGT1A1*28 allele (see DOSAGE AND ADMINISTRATION).
-Heterozygous patients (carriers of one variant allele and one wild-type allele which results in intermediate UGT1A1 activity) may be at increased risk for neutropenia; however, clinical results have been variable and such patients have been shown to tolerate normal starting doses.
+Individuals who are homozygous for the UGT1A1*28 allele (UGT1A1 7/7 genotype) are at increased risk for neutropenia following initiation of Irinotecan Hydrochloride Injection treatment.
+
+In a study of 66 patients who received single-agent Irinotecan Hydrochloride Injection (350 mg/m2 once-every-3-weeks), the incidence of grade 4 neutropenia in patients homozygous for the UGT1A1*28 allele was 50%, and in patients heterozygous for this allele (UGT1A1 6/7 genotype) the incidence was 12.5%.
+No grade 4 neutropenia was observed in patients homozygous for the wild-type allele (UGT1A1 6/6 genotype).
+
+When administered as a single-agent, a reduction in the starting dose by at least one level of Irinotecan Hydrochloride Injection should be considered for patients known to be homozygous for the UGT1A1*28 allele.
+However, the precise dose reduction in this patient population is not known and subsequent dose modifications should be considered based on individual patient tolerance to treatment (see DOSAGE AND ADMINISTRATION).
 
 Hypersensitivity
 
@@ -51,6 +55,12 @@ Thromboembolism
 
 Thromboembolic events have been observed in patients receiving irinotecan-containing regimens; the specific cause of these events has not been determined.
 
+Pulmonary Toxicity
+
+Interstitial Pulmonary Disease (IPD)-like events, including fatalities, have been reported in patients receiving irinotecan for treatment of colorectal cancer and other advanced solid tumors.
+In the event of an acute onset of new or progressive, unexplained pulmonary symptoms such as dyspnea, cough, and fever, chemotherapeutic treatment should be interrupted pending diagnostic evaluation.
+If IPD is diagnosed, chemotherapeutic treatment should be discontinued and appropriate treatment instituted as needed (see ADVERSE REACTIONS: Overview of Adverse Events: Respiratory).
+
 Pregnancy
 
 Irinotecan Hydrochloride Injection may cause fetal harm when administered to a pregnant woman.
@@ -65,36 +75,50 @@ Women of childbearing potential should be advised to avoid becoming pregnant whi
 
 # PRECAUTIONS
 
-## General
+General
 
-Care of Intravenous Site: Irinotecan Hydrochloride Injection is administered by intravenous infusion.
+Care of Intravenous Site
+
+Irinotecan Hydrochloride Injection is administered by intravenous infusion.
 Care should be taken to avoid extravasation, and the infusion site should be monitored for signs of inflammation.
 Should extravasation occur, flushing the site with sterile water and applications of ice are recommended.
 
-Premedication with Antiemetics: Irinotecan is emetigenic.
+Premedication with Antiemetics
+
+Irinotecan is emetigenic.
 It is recommended that patients receive premedication with antiemetic agents.
 In clinical studies of the weekly dosage schedule, the majority of patients received 10 mg of dexamethasone given in conjunction with another type of antiemetic agent, such as a 5-HT3 blocker (e.g., ondansetron or granisetron).
 Antiemetic agents should be given on the day of treatment, starting at least 30 minutes before administration of Irinotecan Hydrochloride Injection.
 Physicians should also consider providing patients with an antiemetic regimen (e.g., prochlorperazine) for subsequent use as needed.
 
-Treatment of Cholinergic Symptoms: Prophylactic or therapeutic administration of 0.25 to 1 mg of intravenous or subcutaneous atropine should be considered (unless clinically contraindicated) in patients experiencing rhinitis, increased salivation, miosis, lacrimation, diaphoresis, flushing, abdominal cramping, or diarrhea (occurring during or shortly after infusion of Irinotecan Hydrochloride Injection).
+Treatment of Cholinergic Symptoms
+
+Prophylactic or therapeutic administration of 0.25 to 1 mg of intravenous or subcutaneous atropine should be considered (unless clinically contraindicated) in patients experiencing rhinitis, increased salivation, miosis, lacrimation, diaphoresis, flushing, abdominal cramping, or diarrhea (occurring during or shortly after infusion of Irinotecan Hydrochloride Injection).
 These symptoms are expected to occur more frequently with higher irinotecan doses.
 
-Patients at Particular Risk:
+Immunosuppressant Effects/Increased Susceptibility to Infections
+
+Administration of live or live-attenuated vaccines in patients immunocompromised by chemotherapeutic agents including Irinotecan Hydrochloride Injection, may result in serious or fatal infections.
+Avoid vaccination with a live vaccine in patients receiving irinotecan.
+Killed or inactivated vaccines may be administered; however, the response to such vaccines may be diminished.
+
+Patients at Particular Risk
 
 The use of Irinotecan Hydrochloride Injection in patients with significant hepatic dysfunction has not been established.
 In clinical trials of either dosing schedule, irinotecan was not administered to patients with serum bilirubin >2.0 mg/dL, or transaminase >3 times the upper limit of normal if no liver metastasis, or transaminase >5 times the upper limit of normal with liver metastasis.
 In clinical trials of the weekly dosage schedule, patients with modestly elevated baseline serum total bilirubin levels (1.0 to 2.0 mg/dL) had a significantly greater likelihood of experiencing first-cycle, grade 3 or 4 neutropenia than those with bilirubin levels that were less than 1.0 mg/dL (50% [19/38] versus 18% [47/226]; p<0.001).
-Also see CLINICAL PHARMACOLOGY, Pharmacokinetics in Special Populations: Hepatic Insufficiency.
+(Also see CLINICAL PHARMACOLOGY, Pharmacokinetics in Special Populations: Hepatic Insufficiency.)
 Patients with deficient glucuronidation of bilirubin, such as those with Gilbert’s syndrome, may be at greater risk of myelosuppression when receiving therapy with Irinotecan Hydrochloride Injection.
 
 Ketoconazole, enzyme-inducing anticonvulsants and St. John’s Wort are known to have drug-drug interactions with irinotecan therapy.
-(See Drug-Drug Interactions sub-section under CLINICAL PHARMACOLOGY).
+(See Drug-Drug Interactions sub-section under CLINICAL PHARMACOLOGY.)
 
-Irinotecan commonly causes neutropenia, leucopenia, and anemia, any of which may be severe and therefore should not be used in patients with severe bone marrow failure.i Patients must not be treated with irinotecan until resolution of the bowel obstruction.
+Irinotecan commonly causes neutropenia, leucopenia, and anemia, any of which may be severe and therefore should not be used in patients with severe bone marrow failure.
+
+Patients must not be treated with irinotecan until resolution of the bowel obstruction.
 Patients with hereditary fructose intolerance should not be given Irinotecan Hydrochloride Injection, as this product contains sorbitol.
 
-## Information for Patients
+Information for Patients
 
 Patients and patients’ caregivers should be informed of the expected toxic effects of Irinotecan Hydrochloride Injection, particularly of its gastrointestinal complications, such as nausea, vomiting, abdominal cramping, diarrhea, and infection.
 Each patient should be instructed to have loperamide readily available and to begin treatment for late diarrhea (generally occurring more than 24 hours after administration of Irinotecan Hydrochloride Injection) at the first episode of poorly formed or loose stools or the earliest onset of bowel movements more frequent than normally expected for the patient.
@@ -111,11 +135,11 @@ Patients should be warned about the potential for dizziness or visual disturbanc
 
 Patients should be alerted to the possibility of alopecia.
 
-## Laboratory Tests
+Laboratory Tests
 
 Careful monitoring of the white blood cell count with differential, hemoglobin, and platelet count is recommended before each dose of Irinotecan Hydrochloride Injection.
 
-## Drug Interactions
+Drug Interactions
 
 The adverse effects of Irinotecan Hydrochloride Injection, such as myelosuppression and diarrhea, would be expected to be exacerbated by other antineoplastic agents having similar adverse effects.
 
@@ -136,11 +160,11 @@ It would be expected that laxative use during therapy with Irinotecan Hydrochlor
 
 In view of the potential risk of dehydration secondary to vomiting and/or diarrhea induced by Irinotecan Hydrochloride Injection, the physician may wish to withhold diuretics during dosing with Irinotecan Hydrochloride Injection and, certainly, during periods of active vomiting or diarrhea.
 
-## Drug-Laboratory Test Interactions
+Drug-Laboratory Test Interactions
 
 There are no known interactions between Irinotecan Hydrochloride Injection and laboratory tests.
 
-## Carcinogenesis, Mutagenesis & Impairment of Fertility
+Carcinogenesis, Mutagenesis & Impairment of Fertility
 
 Long-term carcinogenicity studies with irinotecan were not conducted.
 Rats were, however, administered intravenous doses of 2 mg/kg or 25 mg/kg irinotecan once per week for 13 weeks (in separate studies, the 25 mg/kg dose produced an irinotecan Cmax and AUC that were about 7.0 times and 1.3 times the respective values in patients administered 125 mg/m2 weekly) and were then allowed to recover for 91 weeks.
@@ -150,16 +174,16 @@ Irinotecan was clastogenic both in vitro (chromosome aberrations in Chinese hams
 No significant adverse effects on fertility and general reproductive performance were observed after intravenous administration of irinotecan in doses of up to 6 mg/kg/day to rats and rabbits.
 However, atrophy of male reproductive organs was observed after multiple daily irinotecan doses both in rodents at 20 mg/kg (which in separate studies produced an irinotecan Cmax and AUC about 5 and 1 times, respectively, the corresponding values in patients administered 125 mg/m2 weekly) and dogs at 0.4 mg/kg (which in separate studies produced an irinotecan Cmax and AUC about one-half and 1/15th, respectively, the corresponding values in patients administered 125 mg/m2 weekly).
 
-## Pregnancy
+Pregnancy
 
 Pregnancy Category D—see WARNINGS.
 
-## Nursing Mothers
+Nursing Mothers
 
 Radioactivity appeared in rat milk within 5 minutes of intravenous administration of radiolabeled irinotecan and was concentrated up to 65-fold at 4 hours after administration relative to plasma concentrations.
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants, it is recommended that nursing be discontinued when receiving therapy with Irinotecan Hydrochloride Injection.
 
-## Pediatric Use
+Pediatric Use
 
 The effectiveness of irinotecan in pediatric patients has not been established.
 Results from two open-label, single arm studies were evaluated.
@@ -173,12 +197,12 @@ This single agent therapy was followed by multimodal therapy.
 Accrual to the single agent irinotecan phase was halted due to the high rate (28.6%) of progressive disease and the early deaths (14%).
 The adverse event profile was different in this study from that observed in adults; the most significant grade 3 or 4 adverse events were dehydration experienced by 6 patients (28.6%) associated with severe hypokalemia in 5 patients (23.8%) and hyponatremia in 3 patients (14.3%); in addition Grade 3-4 infection was reported in 5 patients (23.8%) (across all courses of therapy and irrespective of causal relationship).
 
-Pharmacokinetic parameters for irinotecan and SN-38 were determined in 2 pediatric solid-tumor trials at dose levels of 50 mg/m2 (60-min infusion, n=48) and 125 mg/m2 (90-min infusion, n=6).
+Pharmacokinetic parameters for irinotecan and SN-38 were determined in 2 pediatric solid-tumor trials at dose levels of 50 mg/m2 (60-min infusion, n = 48) and 125 mg/m2 (90-min infusion, n = 6).
 Irinotecan clearance (mean ± S.D.) was 17.3 ± 6.7 L/h/m2 for the 50 mg/m2 dose and 16.2 ± 4.6 L/h/m2 for the 125 mg/m2 dose, which is comparable to that in adults.
 Dose-normalized SN-38 AUC values were comparable between adults and children.
 Minimal accumulation of irinotecan and SN-38 was observed in children on daily dosing regimens [daily x 5 every 3 weeks or (daily x 5) x 2 weeks every 3 weeks].
 
-## Geriatric Use
+Geriatric Use
 
-Patients greater than 65 years of age should be closely monitored because of a greater risk of late diarrhea in this population (see CLINICAL PHARMACOLOGY, Pharmacokinetics in Special Populations and ADVERSE REACTIONS, Overview of Adverse Events).
-The starting dose of Irinotecan Hydrochloride Injection in patients 70 years and older for the once every 3 week dosage schedule should be 300 mg/m2 (see DOSAGE AND ADMINISTRATION).
+Patients greater than 65 years of age should be closely monitored because of a greater risk of early and late diarrhea in this population (see CLINICAL PHARMACOLOGY, Pharmacokinetics in Special Populations and ADVERSE REACTIONS, Overview of Adverse Events).
+The starting dose of Irinotecan Hydrochloride Injection in patients 70 years and older for the once-every-3-week-dosage schedule should be 300 mg/m2 (see DOSAGE AND ADMINISTRATION).

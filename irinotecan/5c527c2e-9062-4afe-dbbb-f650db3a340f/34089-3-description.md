@@ -5,12 +5,13 @@ Irinotecan hydrochloride was clinically investigated as CPT-11.
 
 Irinotecan Hydrochloride Injection is supplied as a sterile, pale yellow, clear, aqueous solution.
 It is available in two single-dose sizes: 2 mL-fill vials contain 40 mg irinotecan hydrochloride and 5 mL-fill vials contain 100 mg irinotecan hydrochloride.
-Each milliliter of solution contains 20 mg of irinotecan hydrochloride (on the basis of the trihydrate salt), 45 mg of sorbitol NF powder, 0.9 mg of lactic acid, USP, and Water for Injection, USP.
+Each milliliter of solution contains 20 mg of irinotecan hydrochloride (on the basis of the trihydrate salt), 45 mg of sorbitol NF powder, and 0.9 mg of lactic acid, USP, and Water for Injection, USP.
 The pH of the solution has been adjusted to 3.5 (range, 3.0 to 3.8) with sodium hydroxide or hydrochloric acid.
 Irinotecan Hydrochloride Injection is intended for dilution with 5% Dextrose Injection, USP (D5W), or 0.9% Sodium Chloride Injection, USP, prior to intravenous infusion.
 The preferred diluent is 5% Dextrose Injection, USP.
 
-Irinotecan hydrochloride is a semisynthetic derivative of camptothecin, an alkaloid extract from plants such as Camptotheca acuminata.
+Irinotecan hydrochloride is a semisynthetic derivative of camptothecin, an alkaloid extract from plants such as Camptotheca acuminata or is chemically synthesized.
+
 The chemical name is (S)-4,11-diethyl-3,4,12,14-tetrahydro-4-hydroxy-3,14-dioxo1H-pyrano[3’,4’:6,7]-indolizino[1,2-b]quinolin-9-yl-[1,4’bipiperidine]-1’-carboxylate, monohydrochloride, trihydrate.
 Its structural formula is as follows:
 

@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077915"
+  ],
   "inn": "irinotecan",
-  "labeler": "Hospira, Inc.",
+  "labeler": "Hospira Worldwide, Inc.",
   "package_ndcs": [
     "61703-349-09",
     "61703-349-16"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "irinotecan hydrochloride",
+      "name": "Irinotecan Hydrochloride"
+    }
+  ],
   "setid": "5c527c2e-9062-4afe-dbbb-f650db3a340f",
   "source": "dailymed"
 }
