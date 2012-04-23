@@ -32,14 +32,14 @@ A significantly greater percentage of patients in the Precedex group maintained 
 
 Table 10: Midazolam Use as Rescue Medication During Intubation (ITT) Study One
 
-|  | Placebo N=175 | Precedex N=178 | p-value |
+|  | Placebo N = 175 | Precedex N = 178 | p-value |
 | --- | --- | --- | --- |
 | Mean Total Dose (mg) of Midazolam Standard deviation | 19 mg53 mg | 5 mg19 mg | 0.0011* |
 | Categorized Midazolam Use |  |  |  |
 | 0 mg | 43 (25%) | 108 (61%) | <0.001** |
-| 0-4 mg | 34 (19%) | 36 (20%) |  |
+| 0–4 mg | 34 (19%) | 36 (20%) |  |
 | >4 mg | 98 (56%) | 34 (19%) |  |
-| ITT (intent-to-treat) population includes all randomized patients.* ANOVA model with treatment center.** Chi-square |  |  |  |
+| ITT (intent-to-treat) population includes all randomized patients.* ANOVA model with treatment center.** Chi-square. |  |  |  |
 
 A prospective secondary analysis assessed the dose of morphine sulfate administered to patients in the Precedex and placebo groups.
 On average, Precedex-treated patients received less morphine sulfate for pain than placebo-treated patients (0.47 versus 0.83 mg/h).
@@ -57,12 +57,12 @@ A significantly greater percentage of patients in the Precedex group compared to
 
 Table 11: Propofol Use as Rescue Medication During Intubation (ITT) Study Two
 
-|  | Placebo N=198 | Precedex N=203 | p-value |
+|  | Placebo N = 198 | Precedex N = 203 | p-value |
 | --- | --- | --- | --- |
 | Mean Total Dose (mg) of Propofol Standard deviation | 513 mg782 mg | 72 mg249 mg | <0.0001* |
 | Categorized Propofol Use |  |  |  |
 | 0 mg | 47 (24%) | 122 (60%) | <0.001** |
-| 0-50 mg | 30 (15%) | 43 (21%) |  |
+| 0–50 mg | 30 (15%) | 43 (21%) |  |
 | >50 mg | 121 (61%) | 38 (19%) |  |
 | * ANOVA model with treatment center.** Chi-square. |  |  |  |
 
@@ -76,7 +76,7 @@ In addition, administration of Precedex for longer than 24 hours was associated 
 
 ## 14.2 Procedural Sedation
 
-The safety and efficacy of Precedex for sedation of non-intubated patients prior to and/or during surgical and other procedures was evaluated in two randomized, double-blind, placebo-controlled multicenter clinical trials.
+The safety and efficacy of Precedex for sedation of non-intubated patients prior to and/or during surgical and other procedures in an intensive care setting was evaluated in two randomized, double-blind, placebo-controlled multicenter clinical trials.
 Study 1 evaluated the sedative properties of Precedex in patients having a variety of elective surgeries/procedures performed under monitored anesthesia care.
 Study 2 evaluated Precedex in patients undergoing awake fiberoptic intubation prior to a surgical or diagnostic procedure.
 

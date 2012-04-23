@@ -21,7 +21,7 @@ Table 1: Dosage Information
 
 Due to possible pharmacodynamic interactions, a reduction in dosage of Precedex or other concomitant anesthetics, sedatives, hypnotics or opioids may be required when co-administered [see Drug Interactions (7.1)].
 
-Dosage reductions may need to be considered for patients with hepatic impairment, and geriatric patients [see Warnings and Precautions (5.6), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+Dosage reductions may need to be considered for patients with hepatic impairment, and geriatric patients [see Warnings and Precautions (5.7), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.4 Preparation of Solution
 

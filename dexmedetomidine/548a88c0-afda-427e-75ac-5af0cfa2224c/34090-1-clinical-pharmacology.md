@@ -3,12 +3,12 @@
 ## 12.1 Mechanism of Action
 
 Precedex is a relatively selective alpha2-adrenergic agonist with sedative properties.
-Alpha2 selectivity is observed in animals following slow intravenous infusion of low and medium doses (10-300 mcg/kg).
+Alpha2 selectivity is observed in animals following slow intravenous infusion of low and medium doses (10–300 mcg/kg).
 Both alpha1 and alpha2 activity is observed following slow intravenous infusion of high doses (≥1000 mcg/kg) or with rapid intravenous administration.
 
 ## 12.2 Pharmacodynamics
 
-In a study in healthy volunteers (N=10), respiratory rate and oxygen saturation remained within normal limits and there was no evidence of respiratory depression when Precedex was administered by intravenous infusion at doses within the recommended dose range (0.2–0.7 mcg/kg/hr).
+In a study in healthy volunteers (N = 10), respiratory rate and oxygen saturation remained within normal limits and there was no evidence of respiratory depression when Precedex was administered by intravenous infusion at doses within the recommended dose range (0.2–0.7 mcg/kg/hr).
 
 ## 12.3 Pharmacokinetics
 
@@ -25,11 +25,11 @@ Table 8: Mean ± SD Pharmacokinetic Parameters
 | --- | --- | --- | --- | --- |
 | Parameter | Loading Infusion (min)/Total Infusion Duration (hrs) |  |  |  |
 | 10 min/12 hrs | 10 min/24 hrs | 10 min/24 hrs | 35 min/24 hrs |  |
-| Precedex Target Plasma Concentration (ng/mL) and Dose (mcg/kg/hr) |  |  |  |  |
-| t1/2*, hourCL, liter/hourVss, liter Avg Css#, ng/mL | 1.78 ± 0.3046.3 ± 8.388.7 ± 22.90.27 ± 0.05 | 2.22 ± 0.5943.1 ± 6.5102.4 ± 20.30.27 ± 0.05 | 2.23 ± 0.2135.3 ± 6.893.6 ± 17.00.67 ± 0.10 | 2.50 ± 0.6136.5 ± 7.599.6 ± 17.81.37 ± 0.20 |
+| Precedex Target Plasma Concentration (ng/mL)and Dose (mcg/kg/hr) |  |  |  |  |
+| t1/2*, hourCL, liter/hourVss, liter Avg Css #, ng/mL | 1.78 ± 0.3046.3 ± 8.388.7 ± 22.90.27 ± 0.05 | 2.22 ± 0.5943.1 ± 6.5102.4 ± 20.30.27 ± 0.05 | 2.23 ± 0.2135.3 ± 6.893.6 ± 17.00.67 ± 0.10 | 2.50 ± 0.6136.5 ± 7.599.6 ± 17.81.37 ± 0.20 |
 | * Presented as harmonic mean and pseudo standard deviation.# Mean Css = Average steady-state concentration of Precedex. The mean Css was calculated based on post-dose sampling from 2.5 to 9 hours samples for 12 hour infusion and post-dose sampling from 2.5 to 18 hours for 24 hour infusions. The loading doses for each of the above indicated groups were 0.5, 0.5, 1 and 2.2 mcg/kg, respectively. |  |  |  |  |
 
-Dexmedetomidine pharmacokinetic parameters after Precedex maintenance doses of 0.2 to 1.4 mcg/kg/hr for >24 hours were similar to the PK parameters after Precedex maintenance dosing for < 24 hours in other studies.
+Dexmedetomidine pharmacokinetic parameters after Precedex maintenance doses of 0.2 to 1.4 mcg/kg/hr for >24 hours were similar to the PK parameters after Precedex maintenance dosing for <24 hours in other studies.
 The values for clearance (CL), volume of distribution (V), and t1/2 were 39.4 L/hr, 152 L, and 2.67 hours, respectively.
 
 Distribution
@@ -57,35 +57,35 @@ No unchanged dexmedetomidine was detected in the urine.
 Approximately 85% of the radioactivity recovered in the urine was excreted within 24 hours after the infusion.
 Fractionation of the radioactivity excreted in urine demonstrated that products of N-glucuronidation accounted for approximately 34% of the cumulative urinary excretion.
 In addition, aliphatic hydroxylation of parent drug to form 3-hydroxy-dexmedetomidine, the glucuronide of 3-hydroxy-dexmedetomidine, and 3-carboxylic acid-dexmedetomidine together represented approximately 14% of the dose in urine.
-N-methylation of dexmedetomidine to form 3-hydroxy N-methyl dexmedetomidine, 3-carboxy N-methyl dexmedetomidine, and N methyl O glucuronide dexmedetomidine accounted for approximately 18% of the dose in urine.
-The N Methyl metabolite itself was a minor circulating component and was undetected in urine.
+N-methylation of dexmedetomidine to form 3-hydroxy N-methyl dexmedetomidine, 3-carboxy N-methyl dexmedetomidine, and N-methyl O-glucuronide dexmedetomidine accounted for approximately 18% of the dose in urine.
+The N-Methyl metabolite itself was a minor circulating component and was undetected in urine.
 Approximately 28% of the urinary metabolites have not been identified.
 
-Gender:
+Gender
 
 There was no observed difference in Precedex pharmacokinetics due to gender.
 
-Geriatrics:
+Geriatrics
 
 The pharmacokinetic profile of Precedex was not altered by age.
 There were no differences in the pharmacokinetics of Precedex in young (18–40 years), middle age (41–65 years), and elderly (>65 years) subjects.
 
-Pediatrics:
+Pediatrics
 
 The pharmacokinetic profile of Precedex has not been studied in pediatric patients.
 
-Hepatic Impairment:
+Hepatic Impairment
 
 In subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, or C), clearance values for Precedex were lower than in healthy subjects.
 The mean clearance values for patients with mild, moderate, and severe hepatic impairment were 74%, 64% and 53% of those observed in the normal healthy subjects, respectively.
 Mean clearances for free drug were 59%, 51% and 32% of those observed in the normal healthy subjects, respectively.
 
-Although Precedex is dosed to effect, it may be necessary to consider dose reduction in subjects with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.6)].
+Although Precedex is dosed to effect, it may be necessary to consider dose reduction in subjects with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.7)].
 
-Renal Impairment:
+Renal Impairment
 
 Precedex pharmacokinetics (Cmax, Tmax, AUC, t1/2, CL, and Vss) were not significantly different in patients with severe renal impairment (creatinine clearance: <30 mL/min) compared to healthy subjects.
 
-Drug Interactions:
+Drug Interactions
 
 In vitro studies: In vitro studies in human liver microsomes demonstrated no evidence of cytochrome P450 mediated drug interactions that are likely to be of clinical relevance.
