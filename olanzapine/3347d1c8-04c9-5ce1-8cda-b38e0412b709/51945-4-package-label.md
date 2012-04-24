@@ -1,0 +1,71 @@
+PRINCIPAL DISPLAY PANEL - 2.5 MG LABEL
+
+APOTEX CORP. NDC 60505-3110-3
+
+Olanzapine Tablets, USP
+
+2.5 mg
+
+Rx only
+
+30 Tablets
+
+PRINCIPAL DISPLAY PANEL - 5 MG LABEL
+
+APOTEX CORP. NDC 60505-3111-3
+
+Olanzapine Tablets, USP
+
+5 mg
+
+Rx only
+
+30 Tablets
+
+PRINCIPAL DISPLAY PANEL - 7.5 MG LABEL
+
+APOTEX CORP. NDC 60505-3112-3
+
+Olanzapine Tablets, USP
+
+7.5 mg
+
+Rx only
+
+30 Tablets
+
+PRINCIPAL DISPLAY PANEL - 10 MG LABEL
+
+APOTEX CORP. NDC 60505-3113-3
+
+Olanzapine Tablets, USP
+
+10 mg
+
+Rx only
+
+30 Tablets
+
+PRINCIPAL DISPLAY PANEL - 15 MG LABEL
+
+APOTEX CORP. NDC 60505-3114-3
+
+Olanzapine Tablets, USP
+
+15 mg
+
+Rx only
+
+30 Tablets
+
+PRINCIPAL DISPLAY PANEL - 20 MG LABEL
+
+APOTEX CORP. NDC 60505-3140-3
+
+Olanzapine Tablets, USP
+
+20 mg
+
+Rx only
+
+30 Tablets
