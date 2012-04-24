@@ -105,8 +105,14 @@ New reports of drug-related sexual adverse experiences decreased with duration o
 The following additional adverse effects have been reported in post-marketing experience with PROSCAR and/or finasteride at lower doses.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-- hypersensitivity reactions, including pruritus, urticaria, and swelling of the lips and face
-- testicular pain
-- erectile dysfunction that continued after discontinuation of treatment
-- depression
-- male breast cancer.
+- -hypersensitivity reactions, including pruritus, urticaria, and swelling of the lips and face
+- -testicular pain
+- -erectile dysfunction (ED) that continued after discontinuation of treatment, reported rarely in men taking PROSCAR for the treatment of BPH.
+  Most men were older and were taking concomitant medications and/or had co-morbid conditions with a known association to ED.
+  The independent role of PROSCAR in these events is unknown.
+- -male infertility and/or poor seminal quality have been reported rarely in men taking PROSCAR for the treatment of BPH.
+  The independent role of PROSCAR in these events is unknown.
+  Normalization or improvement of seminal quality has been reported after discontinuation of finasteride.
+- -depression
+- -decreased libido that continued after discontinuation of treatment
+- -male breast cancer.
