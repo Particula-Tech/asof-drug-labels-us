@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021457"
+  ],
+  "inn": "albuterol",
+  "labeler": "Teva Respiratory, LLC",
+  "package_ndcs": [
+    "59310-579-22",
+    "59310-579-23"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "albuterol sulfate",
+      "name": "PROAIR"
+    }
+  ],
+  "setid": "8e701d71-1dcb-4b84-bada-84e4f04f5e62",
+  "source": "dailymed"
+}
