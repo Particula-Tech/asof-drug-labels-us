@@ -8,7 +8,7 @@ Efficacy was established in three clinical trials in adult patients with schizop
 When deciding among the alternative treatments available for adolescents, clinicians should consider the increased potential (in adolescents as compared with adults) for weight gain and hyperlipidemia.
 Clinicians should consider the potential long-term risks when prescribing to adolescents, and in many cases this may lead them to consider prescribing other drugs first in adolescents [see Warnings and Precautions (5.5, 5.6)].
 
-Information describing the use of olanzapine orally disintegrating tablets in pediatric patients with schizophrenia is approved for Eli Lilly and Company’s olanzapine drug product labeling.
+Information describing the use of olanzapine tablets, USP or olanzapine orally disintegrating tablets in pediatric patients with schizophrenia is approved for Eli Lilly and Company’s olanzapine drug product labeling.
 However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 1.2 Bipolar I Disorder (Manic or Mixed Episodes)
@@ -19,7 +19,7 @@ Efficacy was established in three clinical trials in adult patients with manic o
 When deciding among the alternative treatments available for adolescents, clinicians should consider the increased potential (in adolescents as compared with adults) for weight gain and hyperlipidemia.
 Clinicians should consider the potential long-term risks when prescribing to adolescents, and in many cases this may lead them to consider prescribing other drugs first in adolescents [see Warnings and Precautions (5.5, 5.6)].
 
-Information describing the use of olanzapine orally disintegrating tablets in pediatric patients with bipolar I disorder is approved for Eli Lilly and Company’s olanzapine drug product labeling.
+Information describing the use of olanzapine tablets, USP or olanzapine orally disintegrating tablets in pediatric patients with bipolar I disorder is approved for Eli Lilly and Company’s olanzapine drug product labeling.
 However, due to Eli Lilly and Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 Adjunctive Therapy to Lithium or Valproate — Oral olanzapine is indicated for the treatment of manic or mixed episodes associated with bipolar I disorder as an adjunct to lithium or valproate.
