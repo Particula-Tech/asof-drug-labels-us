@@ -33,7 +33,7 @@ Treatment-emergent adverse reactions of moderate or severe rash (occurring at a 
 Dosing with REYATAZ was often continued without interruption in patients who developed rash.
 The discontinuation rate for rash in clinical trials was <1%.
 REYATAZ should be discontinued if severe rash develops.
-Cases of Stevens-Johnson syndrome, erythema multiforme, and toxic skin eruptions have been reported in patients receiving REYATAZ.
+Cases of Stevens-Johnson syndrome, erythema multiforme, and toxic skin eruptions, including drug rash, eosinophilia and systemic symptoms (DRESS) syndrome, have been reported in patients receiving REYATAZ.
 [See Contraindications (4).]
 
 ## 5.4 Hyperbilirubinemia

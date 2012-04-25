@@ -30,7 +30,7 @@ Does REYATAZ cure HIV or AIDS?
 REYATAZ does not cure HIV infection or AIDS and you may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
 You should remain under the care of a doctor when using REYATAZ.
 
-Avoid doing things that can spread HIV-1 injection.
+Avoid doing things that can spread HIV-1 infection.
 
 - Do not share needles or other injection equipment.
 - Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
@@ -259,4 +259,4 @@ Other brands listed are the trademarks of their respective owners and are not tr
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1246226B1 Rev February 2012
+1246226B2 Rev March 2012
