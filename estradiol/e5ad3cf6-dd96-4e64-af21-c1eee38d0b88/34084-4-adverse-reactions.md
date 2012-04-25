@@ -2,36 +2,36 @@
 
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- Cardiovascular Disorders [see Boxed Warning, Warnings and Precautions (5.2)]
-- Endometrial Cancer [see Boxed Warning, Warnings and Precautions (5.3)]
+- Cardiovascular Disorders [see Boxed Warning,Warnings and Precautions (5.2)]
+- Malignant Neoplasms [see Boxed Warning,Warnings and Precautions (5.3)]
 
-## 6.1 Clinical Study Experience
+## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trial of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 In a 12-month randomized, double-blind, parallel group, placebo-controlled study, a total of 309 postmenopausal women were randomized to receive either placebo or Vagifem 10 mcg tablets.
-Adverse events with an incidence of ≥5% in the Vagifem 10 mcg group and greater than those reported in the placebo group are listed in Table 1.
+Adverse reactions with an incidence of ≥5 percent in the Vagifem 10 mcg group and greater than those reported in the placebo group are listed in Table 1.
 
-Table 1: Treatment-Emergent Adverse Events Reported at a Frequency of ≥5% and More Frequent in Women Receiving Vagifem 10 mcg
+Table 1: Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥ 5 Percent in Women Receiving Vagifem 10 mcg
 
-| Body System Adverse Event | TreatmentNumber (%) of Women |  |
+| Body System Adverse Reaction | TreatmentNumber (%) of Women |  |
 | --- | --- | --- |
-|  | PlaceboN = 103n (%) | Vagifem N = 205n (%) |
+|  | PlaceboN = 103n (%) | VagifemN = 205n (%) |
 | Body As A Whole |  |  |
-| Back Pain | 2 (2) | 14(7) |
+| Back Pain | 2 (2) | 14 (7) |
 | Digestive System |  |  |
 | Diarrhea | 0 | 11 (5) |
 | Urogenital System |  |  |
 | Vulvovaginal Mycotic Infection | 3 (3) | 17 (8) |
-| Vulvovaginal Pruritis | 2 (2) | 16 (8) |
-| N = Total number of women in study.n = Number of women who experienced adverse event. |  |  |
+| Vulvovaginal Pruritus | 2 (2) | 16 (8) |
+| N = Total number of women in study.n = Number of women who experienced adverse reactions. |  |  |
 
 In a 12-week, randomized, double-blind, placebo-controlled study, 138 postmenopausal women were randomized to receive either placebo or Vagifem 25 mcg tablets.
-Adverse events with an incidence of ≥5% in the Vagifem 25 mcg group and greater than those reported in the placebo group are listed in Table 2.
+Adverse reactions with an incidence of ≥5 percent in the Vagifem 25 mcg group and greater than those reported in the placebo group are listed in Table 2.
 
-Table 2: Treatment-Emergent Adverse Events Reported at a Frequency of ≥5% and More Frequent in Women Receiving Vagifem 25 mcg
+Table 2: Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥ 5 Percent in Women Receiving Vagifem 25 mcg
 
-| Body System Adverse Event | TreatmentNumber (%) of Women |  |
+| Body System Adverse Reaction | TreatmentNumber (%) of Women |  |
 | --- | --- | --- |
 |  | PlaceboN = 47n (%) | VagifemN = 91n (%) |
 | Body As A Whole |  |  |
@@ -42,11 +42,11 @@ Table 2: Treatment-Emergent Adverse Events Reported at a Frequency of ≥5% and 
 | Upper Respiratory Tract Infection | 2 (4) | 5 (5) |
 | Urogenital System |  |  |
 | Moniliasis Genital | 1 (2) | 5 (5) |
-| N = Total number of women in study.n = Number of women who experienced adverse event. |  |  |
+| N = Total number of women in study.n = Number of women who experienced adverse reactions. |  |  |
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been reported during post approval use of Vagifem 25 mcg.
+The following adverse reactions have been identified during post-approval use of Vagifem 25 mcg.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Genitourinary System
@@ -67,7 +67,7 @@ Diarrhea
 
 Skin
 
-Urticaria, erythematous/pruritic rash, genital pruritus
+Urticaria, erythematous or pruritic rash, genital pruritus
 
 Central Nervous System
 

@@ -8,8 +8,8 @@ There appears to be little or no increased risk of birth defects in children bor
 ## 8.3 Nursing Mothers
 
 Vagifem should not be used during lactation.
-Estrogen administration to nursing women has been shown to decrease the quantity and quality of breast milk.
-Detectable amounts of estrogens have been identified in the breast milk of women receiving estrogen.
+Estrogen administration to nursing women has been shown to decrease the quantity and quality of the breast milk.
+Detectable amounts of estrogens have been identified in the breast milk of women receiving estrogen therapy.
 Caution should be exercised when Vagifem is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
@@ -21,17 +21,17 @@ Clinical studies have not been conducted in the pediatric population.
 
 There have not been sufficient numbers of geriatric women involved in clinical studies utilizing Vagifem to determine whether those over 65 years of age differ from younger subjects in their response to Vagifem.
 
-The Women’s Health Initiative Study
+The Women’s Health Initiative Studies
 
-In the Women’s Health Initiative (WHI) estrogen-alone substudy (daily conjugated estrogens 0.625 mg versus placebo), there was a higher relative risk of stroke in women greater than 65 years of age [see Clinical Studies (14.2)].
+In the WHI estrogen-alone substudy (daily CE [0.625 mg]-alone versus placebo), there was a higher relative risk of stroke in women greater than 65 years of age [see Clinical Studies (14.2)].
 
-In the WHI estrogen plus progestin substudy, there was a higher relative risk of nonfatal stroke and invasive breast cancer in women greater than 65 years of age [see Clinical Studies (14.2)].
+In the WHI estrogen plus progestin substudy (daily CE [0.625 mg] plus MPA [2.5 mg] versus placebo), there was a higher relative risk of nonfatal stroke and invasive breast cancer in women greater than 65 years of age [see Clinical Studies (14.2)].
 
 The Women’s Health Initiative Memory Study
 
-In the Women’s Health Initiative Memory Study (WHIMS) of postmenopausal women 65 to 79 years of age, there was an increased risk of developing probable dementia in the estrogen-alone and the estrogen plus progestin substudies when compared to placebo [see Clinical Studies (14.3)].
+In the WHIMS ancillary studies of postmenopausal women 65 to 79 years of age, there was an increased risk of developing probable dementia in women receiving estrogen-alone or estrogen plus progestin when compared to placebo [see Warnings and Precautions (5.4),andClinical Studies (14.3)].
 
-Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8[see Clinical Studies (14.3)].
+Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8 [see Warnings and Precautions (5.4),and Clinical Studies (14.3)].
 
 ## 8.6 Renal Impairment
 

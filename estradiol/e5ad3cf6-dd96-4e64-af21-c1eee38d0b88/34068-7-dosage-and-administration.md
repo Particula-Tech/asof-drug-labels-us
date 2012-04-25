@@ -1,16 +1,14 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing Information
-
 Generally, when estrogen is prescribed for a postmenopausal woman with a uterus, a progestin should also be considered to reduce the risk of endometrial cancer.
 
 A woman without a uterus does not need a progestin.
-In some cases, however, hysterectomized women with a history of endometriosis may need a progestin [see Warnings and Precautions (5.3), 5.15)].
+In some cases, however, hysterectomized women with a history of endometriosis may need a progestin [see Warnings and Precautions (5.3, 5.15)].
 
 Use of estrogen-alone, or in combination with a progestin, should be with the lowest effective dose and for the shortest duration consistent with treatment goals and risks for the individual woman.
 Postmenopausal women should be re-evaluated periodically as clinically appropriate to determine if treatment is still necessary.
 
-## 2.2 Recommended Dosing
+## 2.1 Treatment of Atrophic Vaginitis due to Menopause
 
 Vagifem should be administered intravaginally using the supplied applicator: 1 tablet daily for 2 weeks, followed by 1 tablet twice weekly (for example, Tuesday and Friday).
 Generally, women should be started at the 10 mcg dosage strength.
