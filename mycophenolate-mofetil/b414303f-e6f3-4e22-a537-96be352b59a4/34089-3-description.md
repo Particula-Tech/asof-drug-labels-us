@@ -16,7 +16,7 @@ The pKa values for mycophenolate mofetil are 5.6 for the morpholino group and 8.
 
 Mycophenolate mofetil is available for oral administration as capsules containing 250 mg of mycophenolate mofetil and as tablets containing 500 mg of mycophenolate mofetil.
 
-Inactive ingredients in mycophenolate mofetil capsules, 250 mg include: black iron oxide, croscarmellose sodium, D&C red #28, D&C yellow #10, FD&C blue #1, FD&C red #40, gelatin, magnesium stearate, povidone, pregelatinized starch, shellac glaze, and titanium dioxide.
-The imprinting ink may contain antifoam DC, D&C yellow #10 aluminum lake, FD&C blue #1 aluminum lake, FD&C blue #2 aluminum lake, FD&C red #40 aluminum lake, propylene glycol, and soya lecithin.
+Inactive ingredients in mycophenolate mofetil capsules, 250 mg include: black iron oxide, croscarmellose sodium, D&C red #28, D&C yellow #10, FD&C blue #1, FD&C red #40, gelatin, magnesium stearate, povidone, pregelatinized starch, propylene glycol, shellac glaze, and titanium dioxide.
+The imprinting ink may contain potassium hydroxide.
 
 Inactive ingredients in mycophenolate mofetil tablets, 500 mg include: croscarmellose sodium, FD&C blue #2 aluminum lake, FD&C red #40 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, talc, and titanium dioxide.

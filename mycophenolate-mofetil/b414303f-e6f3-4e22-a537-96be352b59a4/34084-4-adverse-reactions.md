@@ -175,7 +175,7 @@ Digestive: Colitis (sometimes caused by cytomegalovirus), pancreatitis, isolated
 
 Hematologic and Lymphatic: Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
 
-Resistance Mechanism Disorders: Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally and there is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
+Infections: Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally and there is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
 Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with mycophenolate mofetil.
 The reported cases generally had risk factors for PML, including treatment with immunosuppressant therapies and impairment of immune function.
 BK virus-associated nephropathy has been observed in patients receiving immunosuppressants, including mycophenolate mofetil.

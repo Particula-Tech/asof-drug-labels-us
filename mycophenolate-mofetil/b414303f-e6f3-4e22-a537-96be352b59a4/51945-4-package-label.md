@@ -1,51 +1,31 @@
 # PRINCIPAL DISPLAY PANEL
 
-## Mycophenolate Mofetil Capsules 250 mg Capsules Label Text
+## Mycophenolate Mofetil Capsules 250 mg 500s Label Text
 
-NDC 0093-7334-93
+NDC 0093-7334-05
 
-New Product Appearance
+MYCOPHENOLATE MOFETIL Capsules 250 mg
 
-MYCOPHENOLATE
-
-MOFETIL Capsules
-
-250 mg
-
-Each capsule contains:
-
-mycophenolate mofetil 250 mg
-
-PHARMACIST: Dispense the enclosed Medication
-
-Guide to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-100 Unit-dose Capsules (10 x 10s)
+500 CAPSULES
 
 TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## Mycophenolate Mofetil Capsules 500 mg Tablets Label Text
+## Mycophenolate Mofetil Tablets 500 mg 500s Label Text
 
-NDC 0093-7477-01
+NDC 0093-7477-05
 
-MYCOPHENOLATE
+MYCOPHENOLATE MOFETIL Tablets 500 mg
 
-MOFETIL
-
-Tablets
-
-500 mg
-
-PHARMACIST: PLEASE DISPENSE WITH
-
-ATTACHED MEDICATION GUIDE
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-100 TABLETS
+500 TABLETS
 
 TEVA

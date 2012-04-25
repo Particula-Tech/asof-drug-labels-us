@@ -245,8 +245,8 @@ Active Ingredient: mycophenolate mofetil
 
 Inactive Ingredients:
 
-Mycophenolate mofetil capsules, 250 mg: black iron oxide, croscarmellose sodium, D&C red #28, D&C yellow #10, FD&C blue #1, FD&C red #40, gelatin, magnesium stearate, povidone, pregelatinized starch, shellac glaze, and titanium dioxide.
-The imprinting ink may contain antifoam DC, D&C yellow #10 aluminum lake, FD&C blue #1 aluminum lake, FD&C blue #2 aluminum lake, FD&C red #40 aluminum lake, propylene glycol, and soya lecithin.
+Mycophenolate mofetil capsules, 250 mg: black iron oxide, croscarmellose sodium, D&C red #28, D&C yellow #10, FD&C blue #1, FD&C red #40, gelatin, magnesium stearate, povidone, pregelatinized starch, propylene glycol, shellac glaze, and titanium dioxide.
+The imprinting ink may contain potassium hydroxide.
 
 Mycophenolate mofetil tablets, 500 mg: croscarmellose sodium, FD&C blue #2 aluminum lake, FD&C red #40 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, talc, and titanium dioxide.
 
@@ -305,4 +305,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-C 10/2009
+D 1/2012
