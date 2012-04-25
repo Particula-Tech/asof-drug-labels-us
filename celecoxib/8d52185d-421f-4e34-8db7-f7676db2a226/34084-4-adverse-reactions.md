@@ -74,7 +74,7 @@ The following serious adverse events (causality not evaluated) occurred in <0.1%
 | Metabolic: | Hypoglycemia, hyponatremia |
 | Nervous: | Ataxia, suicide, aseptic meningitis, ageusia, anosmia, fatal intracranial hemorrhage [see Drug Interactions (7.1)] |
 | Renal: | Acute renal failure, interstitial nephritis |
-| Skin: | Erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, toxic epidermal necrolysis |
+| Skin: | Erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, toxic epidermal necrolysis drug rash with eosinophilia and systemic symptoms (DRESS, or hypersensitivity syndrome) |
 | General: | Sepsis, sudden death, anaphylactoid reaction, angioedema |
 
 ## 6.2 The Celecoxib Long-Term Arthritis Safety Study

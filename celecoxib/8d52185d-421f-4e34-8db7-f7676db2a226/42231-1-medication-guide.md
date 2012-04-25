@@ -113,3 +113,5 @@ NSAID medicines that need a prescription
 | Tolmetin | Tolectin, Tolectin DS, Tolectin 600 |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+LAB-0609-1.0

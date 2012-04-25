@@ -30,6 +30,9 @@ Because of its lack of platelet effects, CELEBREX is not a substitute for aspiri
 Reports suggest that NSAIDs may diminish the antihypertensive effect of Angiotensin Converting Enzyme (ACE) inhibitors and angiotensin II antagonists.
 This interaction should be given consideration in patients taking CELEBREX concomitantly with ACE-inhibitors and angiotensin II antagonists [see Clinical Pharmacology (12.2].
 
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, may result in deterioration of renal function, including possible acute renal failure.
+Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
+
 ## 7.5 Fluconazole
 
 Concomitant administration of fluconazole at 200 mg once daily resulted in a two-fold increase in celecoxib plasma concentration.
