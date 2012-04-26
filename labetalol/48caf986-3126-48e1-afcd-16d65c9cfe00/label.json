@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA090699"
+  ],
+  "inn": "labetalol",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-111-01",
+    "68083-111-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "labetalol hydrochloride",
+      "name": "Labetalol Hydrochloride"
+    }
+  ],
+  "setid": "48caf986-3126-48e1-afcd-16d65c9cfe00",
+  "source": "dailymed"
+}
