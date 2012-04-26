@@ -94,7 +94,7 @@ Study results demonstrated that the administration of oxybutynin chloride was as
 
 At total daily doses ranging from 5 mg to 15 mg, treatment with oxybutynin chloride tablets was associated with an increase from baseline in mean urine volume per catheterization from 122 mL to 145 mL, an increase from baseline in mean urine volume after morning awakening from 148 mL to 168 mL, and an increase from baseline in the mean percentage of catheterizations without a leaking episode from 43% to 61%.
 Urodynamic results in these patients were consistent with the clinical results.
-Treatment with oxybutynin chloride tablets was associated with an increase from baseline in maximum cystometric capacity from 230 mL to 279 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 36 cm H20 to 33 cm H20, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H20) from 39% to 20%.
+Treatment with oxybutynin chloride tablets was associated with an increase from baseline in maximum cystometric capacity from 230 mL to 279 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 36 cm H2O to 33 cm H2O, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H2O) from 39% to 20%.
 
 As there is insufficient clinical data for pediatric populations under age 5, oxybutynin chloride is not recommended for this age group.
 

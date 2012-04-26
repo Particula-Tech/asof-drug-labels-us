@@ -24,7 +24,7 @@ The plasma concentration-time profiles for R- and S-oxybutynin are similar in sh
 
 Table 1: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following Three Doses of Oxybutynin Chloride 5 mg Administered Every 8 Hours (n = 23)
 
-| Parameters (units) | R-Oxybutynin | S-Oxybutynin |
+| Parameters (Units) | R-Oxybutynin | S-Oxybutynin |
 | --- | --- | --- |
 | Cmax (ng/mL) | 3.6 (2.2) | 7.8 (4.1) |
 | Tmax (h) | 0.89 (0.34) | 0.65 (0.32) |
@@ -38,7 +38,7 @@ Sparse sampling technique was used to obtain serum samples.
 When all available data are normalized to an equivalent of 5 mg twice daily oxybutynin chloride, the mean pharmacokinetic parameters derived for R- and S-oxybutynin and R- and S-desethyloxybutynin are summarized in Table 2.
 The plasma-time concentration profiles for R- and S-oxybutynin are similar in shape; Figure 2 shows the profile for R-oxybutynin when all available data are normalized to an equivalent of 5 mg twice daily.
 
-Table 2: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters In Children Aged 5 to 15 Following Administration of 7.5 mg to 15 mg Total Daily Dose of Oxybutynin Chloride Tablets (N = 11)
+Table 2: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters in Children Aged 5 to 15 Following Administration of 7.5 mg to 15 mg Total Daily Dose of Oxybutynin Chloride Tablets (N = 11)
 
 | All Available Data Normalized to an Equivalent of Oxybutynin Chloride Tablets 5 mg BID or TID at Steady-State |  |  |  |  |
 | --- | --- | --- | --- | --- |
