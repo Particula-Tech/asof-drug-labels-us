@@ -1,12 +1,12 @@
 # DESCRIPTION
 
-SOLU-CORTEF Sterile Powder is an anti-inflammatory glucocorticoid, which contains hydrocortisone sodium succinate as the active ingredient.
+SOLU-CORTEF Sterile Powder is an anti-inflammatory glucocorticoid that contains hydrocortisone sodium succinate as the active ingredient.
 SOLU-CORTEF Sterile Powder is available in several packages for intravenous or intramuscular administration.
 
-100 mg Plain—Vials containing hydrocortisone sodium succinate equivalent to 100 mg hydrocortisone, also 0.8 mg monobasic sodium phosphate anhydrous, 8.73 mg dibasic sodium phosphate dried.
+100 mg Plain—Vials containing hydrocortisone sodium succinate equivalent to 100 mg hydrocortisone, 0.8 mg monobasic sodium phosphate anhydrous, 8.73 mg dibasic sodium phosphate dried.
 SOLU-CORTEF 100 mg plain does not contain diluent (see DOSAGE AND ADMINISTRATION, Preparation of Solutions).
 
-|  | Each 2 mL contains: (when mixed) | Each 2 mL contains: (when mixed) | Each 4 mL contains: (when mixed) | Each 8 mL contains: (when mixed) |
+|  | Each 2 mL contains (when mixed): | Each 2 mL contains (when mixed): | Each 4 mL contains (when mixed): | Each 8 mL contains (when mixed): |
 | --- | --- | --- | --- | --- |
 | ACT-O-VIAL® System (Single-Dose Vial) in four strengths: |  |  |  |  |
 |  | 100 mg ACT-O-VIAL | 250 mg ACT-O-VIAL | 500 mg ACT-O-VIAL | 1000 mg ACT-O-VIAL |
@@ -23,4 +23,4 @@ The chemical name for hydrocortisone sodium succinate is pregn-4-ene-3,20-dione,
 The structural formula is represented below:
 
 Hydrocortisone sodium succinate is a white or nearly white, odorless, hygroscopic amorphous solid.
-It is very soluble in water and in alcohol, very slightly soluble in acetone and insoluble in chloroform.
+It is very soluble in water and in alcohol, very slightly soluble in acetone, and insoluble in chloroform.

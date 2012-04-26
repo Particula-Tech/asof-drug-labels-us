@@ -20,7 +20,7 @@ To tide the patient over a critical period of the disease in regional enteritis 
 
 ## Hematologic disorders
 
-Acquired (autoimmune) hemolytic anemia, congenital (erythroid) hypoplastic anemia (Diamond-Blackfan anemia), idiopathic thrombocytopenic purpura in adults (intravenous administration only; intramuscular administration is contraindicated), pure red cell aplasia, selected cases of secondary thrombocytopenia.
+Acquired (autoimmune) hemolytic anemia, congenital (erythroid) hypoplastic anemia (Diamond Blackfan anemia), idiopathic thrombocytopenic purpura in adults (intravenous administration only; intramuscular administration is contraindicated), pure red cell aplasia, select cases of secondary thrombocytopenia.
 
 ## Miscellaneous
 
@@ -40,7 +40,7 @@ Sympathetic ophthalmia, uveitis and ocular inflammatory conditions unresponsive 
 
 ## Renal diseases
 
-To induce diuresis or remission of proteinuria in idiopathic nephrotic syndrome or that due to lupus erythematosus.
+To induce diuresis or remission of proteinuria in idiopathic nephrotic syndrome, or that due to lupus erythematosus.
 
 ## Respiratory diseases
 

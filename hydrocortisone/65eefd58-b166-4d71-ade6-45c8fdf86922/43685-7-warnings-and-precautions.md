@@ -47,11 +47,11 @@ Do not use intra-articularly, intrabursally or for intratendinous administration
 ### Fungal infections
 
 Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug reactions.
-There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see CONTRAINDICATIONS and PRECAUTIONS, Drug Interactions, Amphotericin B injection and potassium-depleting agents).
+There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see CONTRAINDICATIONS and PRECAUTIONS: Drug Interactions, Amphotericin B injection and potassium-depleting agents).
 
 ### Special pathogens
 
-Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococus, Mycobacterium, Nocardia, Pneumocystis, Toxoplasma.
+Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, and Toxoplasma.
 
 It is recommended that latent amebiasis or active amebiasis be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics or in any patient with unexplained diarrhea.
 
@@ -73,13 +73,13 @@ During prolonged corticosteroid therapy, these patients should receive chemoprop
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
 However, the reponse to such vaccines cannot be predicted.
-Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison's disease.
+Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy (e.g., for Addison's disease).
 
 ### Viral infections
 
 Chicken pox and measles can have a more serious or even fatal course in pediatric and adult patients on corticosteroids.
 In pediatric and adult patients who have not had these diseases, particular care should be taken to avoid exposure.
-The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
+The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is not known.
 If exposed to chicken pox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
 If exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
 (See the respective package inserts for complete VZIG and IG prescribing information.)
@@ -124,14 +124,14 @@ Changes in thyroid status of the patient may necessitate adjustment in dosage.
 
 ## Gastrointestinal
 
-Steroids should be used with caution in active or latent peptic ulcers, diverticulitis, fresh intestinal anastomoses, and nonspecific ulcerative colitis, since they may increase the risk of a perforation.
+Steroids should be used with caution in active or latent peptic ulcers, diverticulitis, fresh intestinal anastomoses, and non-specific ulcerative colitis, since they may increase the risk of a perforation.
 Signs of peritoneal irritation following gastrointestinal perforation in patients receiving corticosteroids may be minimal or absent.
 
-There is an enhanced effect due to increased metabolism of corticosteroids in patients with cirrhosis.
+There is an enhanced effect due to decreased metabolism of corticosteroids in patients with cirrhosis.
 
 ## Musculoskeletal
 
-Corticosteroids decrease bone formation and increase bone resorption both through their effect on calcium regulation (i.e., decreasing absorption and increasing excretion) and inhibition of osteoblast function.
+Corticosteroids decrease bone formation and increase bone resorption both through their effect on calcium regulation (e.g., decreasing absorption and increasing excretion) and inhibition of osteoblast function.
 This, together with a decrease in the protein matrix of the bone secondary to an increase in protein catabolism, and reduced sex hormone production, may lead to inhibition of bone growth in pediatric patients and the development of osteoporosis at any age.
 Special consideration should be given to patients at increased risk of osteoporosis (i.e., postmenopausal women) before initiating corticosteroid therapy.
 
@@ -139,13 +139,13 @@ Local injection of a steroid into a previously infected site is not usually reco
 
 ## Neurologic-psychiatric
 
-Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that they affect the ultimate outcome or natural history of the disease.
+Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that corticosteroids affect the ultimate outcome or natural history of the disease.
 The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect.
 (See DOSAGE AND ADMINISTRATION.)
 
 An acute myopathy has been observed with the use of high doses of corticosteroids, most often occurring in patients with disorders of neuromuscular transmission (e.g., myasthenia gravis), or in patients receiving concomitant therapy with neuromuscular blocking drugs (e.g., pancuronium).
 This acute myopathy is generalized, may involve ocular and respiratory muscles, and may result in quadriparesis.
-Elevation of creatinine kinase may occur.
+Elevation of creatine kinase may occur.
 Clinical improvement or recovery after stopping corticosteroids may require weeks to years.
 
 Psychic derangements may appear when corticosteroids are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression to frank psychotic manifestations.
@@ -158,7 +158,7 @@ If steroid therapy is continued for more than 6 weeks, intraocular pressure shou
 
 ## Information for Patients
 
-Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision, to advise any medical attendants that they are taking corticosteroids and to seek medical advice at once should they develop fever or other signs of infection.
+Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision, to advise any medical attendants that they are taking corticosteroids, and to seek medical advice at once should they develop fever or other signs of infection.
 
 Persons who are on corticosteroids should be warned to avoid exposure to chicken pox or measles.
 Patients should also be advised that if they are exposed, medical advice should be sought without delay.
@@ -171,12 +171,12 @@ Aminoglutethimide may lead to a loss of corticosteroid-induced adrenal suppressi
 
 ### Amphotericin B injection and potassium-depleting agents
 
-When corticosteroids are administered concomitantly with potassium-depleting agents (i.e., amphotericin-B, diuretics), patients should be observed closely for development of hypokalemia.
+When corticosteroids are administered concomitantly with potassium-depleting agents (e.g., amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.
 There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure.
 
 ### Antibiotics
 
-Macrolide antibiotics have been reported to cause a significant decrease in corticosteroid clearance (see Drug Interactions, Hepatic Enzyme Inhibitors).
+Macrolide antibiotics have been reported to cause a significant decrease in corticosteroid clearance (see PRECAUTIONS: Drug Interactions, Hepatic Enzyme Inhibitors).
 
 ### Anticholinesterases
 
@@ -215,17 +215,17 @@ Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereb
 
 ### Hepatic Enzyme Inducers (e.g., barbiturates, phenytoin, carbamazepine, rifampin)
 
-Drugs which induce cytochrome P450 3A4 enzyme activity may enhance the metabolism of corticosteroids and require that the dosage of the corticosteroid be increased.
+Drugs that induce cytochrome P450 3A4 enzyme activity may enhance the metabolism of corticosteroids and require that the dosage of the corticosteroid be increased.
 
 ### Hepatic Enzyme Inhibitors (e.g., ketoconazole, macrolide antibiotics such as erythromycin and troleandomycin)
 
-Drugs which inhibit cytochrome P450 3A4 have the potential to result in increased plasma concentrations of corticosteroids.
+Drugs that inhibit cytochrome P450 3A4 have the potential to result in increased plasma concentrations of corticosteroids.
 
 ### Ketoconazole
 
 Ketoconazole has been reported to significantly decrease the metabolism of certain corticosteroids by up to 60%, leading to an increased risk of corticosteroid side effects.
 
-### Nonsteroidal anti-inflammatory agents (NSAIDs)
+### Nonsteroidal anti-inflammatory drugs (NSAIDs)
 
 Concomitant use of aspirin (or other nonsteroidal anti-inflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects.
 Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
@@ -239,7 +239,7 @@ Corticosteroids may suppress reactions to skin tests.
 
 Patients on prolonged corticosteroid therapy may exhibit a diminished response to toxoids and live or inactivated vaccines due to inhibition of antibody response.
 Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines.
-Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see WARNINGS, Infections, Vaccination).
+Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see WARNINGS: Infections, Vaccination).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -249,7 +249,7 @@ Steroids may increase or decrease motility and number of spermatozoa in some pat
 
 ## Pregnancy
 
-### Teratogenic effects
+### Teratogenic Effects
 
 #### Pregnancy Category C
 
@@ -262,13 +262,13 @@ Infants born to mothers who have received corticosteroids during pregnancy shoul
 ## Nursing Mothers
 
 Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
-Because of the potential for serious adverse reactions in nursing infants from corticosteroids, a decision should be made whether to continue nursing, or discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for serious adverse reactions in nursing infants from corticosteroids, a decision should be made whether to continue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
 
-The efficacy and safety of corticosteroids in the pediatric population are based on the well-established course of effect of corticosteroids which is similar in pediatric and adult populations.
-Published studies provide evidence of efficacy and safety in pediatric patients for the treatment of nephrotic syndrome (>2 years of age), and aggressive lymphomas and leukemias (>1 month of age).
-Other indications for pediatric use of corticosteroids, e.g., severe asthma and wheezing, are based on adequate and well-controlled trials conducted in adults, on the premises that the course of the diseases and their pathophysiology are considered to be substantially similar in both populations.
+The efficacy and safety of corticosteroids in the pediatric population are based on the well-established course of effect of corticosteroids, which is similar in pediatric and adult populations.
+Published studies provide evidence of efficacy and safety in pediatric patients for the treatment of nephrotic syndrome (>2 years of age) and aggressive lymphomas and leukemias (>1 month of age).
+Other indications for pediatric use of corticosteroids (e.g., severe asthma and wheezing) are based on adequate and well-controlled trials conducted in adults, on the premises that the course of the diseases and their pathophysiology are considered to be substantially similar in both populations.
 
 The adverse effects of corticosteroids in pediatric patients are similar to those in adults (see ADVERSE REACTIONS).
 Like adults, pediatric patients should be carefully observed with frequent measurements of blood pressure, weight, height, intraocular pressure, and clinical evaluation for the presence of infection, psychosocial disturbances, thromboembolism, peptic ulcers, cataracts, and osteoporosis.
