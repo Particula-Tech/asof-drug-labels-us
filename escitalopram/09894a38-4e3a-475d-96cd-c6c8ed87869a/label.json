@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202227"
+  ],
+  "inn": "escitalopram",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "65162-705-88"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "escitalopram",
+      "name": "Escitalopram Oxalate"
+    }
+  ],
+  "setid": "09894a38-4e3a-475d-96cd-c6c8ed87869a",
+  "source": "dailymed"
+}
