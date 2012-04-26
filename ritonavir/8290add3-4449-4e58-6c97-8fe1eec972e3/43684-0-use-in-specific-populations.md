@@ -4,6 +4,21 @@
 
 Pregnancy Category C.
 
+Antiretroviral Pregnancy Registry: To monitor maternal-fetal outcomes of pregnant women exposed to KALETRA, an Antiretroviral Pregnancy Registry has been established.
+Physicians are encouraged to register patients by calling 1-800-258-4263.
+
+Human Data:
+
+There are no adequate and well-controlled studies in pregnant women.
+KALETRA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Antiretroviral Pregnancy Registry: As of January 2011, the Antiretroviral Pregnancy Registry (APR) has received prospective reports of 2458 exposures to lopinavir containing regimens (738 exposed in the first trimester and 1720 exposed in the second and third trimester).
+Birth defects occurred in 16 of the 738 (2.2%) live births (first trimester exposure) and 41 of the 1720 (2.4%) live births (second/third trimester exposure).
+Among pregnant women in the U.S. reference population, the background rate of birth defects is 2.7%.
+There was no association between lopinavir and overall birth defects observed in the APR.
+
+Animal Data:
+
 No treatment-related malformations were observed when lopinavir in combination with ritonavir was administered to pregnant rats or rabbits.
 Embryonic and fetal developmental toxicities (early resorption, decreased fetal viability, decreased fetal body weight, increased incidence of skeletal variations and skeletal ossification delays) occurred in rats at a maternally toxic dosage.
 Based on AUC measurements, the drug exposures in rats at the toxic doses were approximately 0.7-fold for lopinavir and 1.8-fold for ritonavir for males and females that of the exposures in humans at the recommended therapeutic dose (400/100 mg twice daily).
@@ -11,11 +26,6 @@ In a peri- and postnatal study in rats, a developmental toxicity (a decrease in 
 
 No embryonic and fetal developmental toxicities were observed in rabbits at a maternally toxic dosage.
 Based on AUC measurements, the drug exposures in rabbits at the toxic doses were approximately 0.6-fold for lopinavir and 1.0-fold for ritonavir that of the exposures in humans at the recommended therapeutic dose (400/100 mg twice daily).
-There are, however, no adequate and well-controlled studies in pregnant women.
-KALETRA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-Antiretroviral Pregnancy Registry: To monitor maternal-fetal outcomes of pregnant women exposed to KALETRA, an Antiretroviral Pregnancy Registry has been established.
-Physicians are encouraged to register patients by calling 1-800-258-4263.
 
 ## 8.3 Nursing Mothers
 
@@ -29,7 +39,7 @@ Because of both the potential for HIV-1 transmission and the potential for serio
 The safety, efficacy, and pharmacokinetic profiles of KALETRA in pediatric patients below the age of 14 days have not been established.
 KALETRA once daily has not been evaluated in pediatric patients.
 
-An open-label, multi-center, dose-finding trial was performed to evaluate the pharmacokinetic profile, tolerability, safety and efficacy of KALETRA oral solution containing lopinavir 80 mg/mL and ritonavir 20 mg/mL at a dose of with 300/75 mg/m2 twice daily plus two NRTIs in HIV-infected infants ≥14 days and < 6 months of age.
+An open-label, multi-center, dose-finding trial was performed to evaluate the pharmacokinetic profile, tolerability, safety and efficacy of KALETRA oral solution containing lopinavir 80 mg/mL and ritonavir 20 mg/mL at a dose of 300/75 mg/m2 twice daily plus two NRTIs in HIV-infected infants ≥14 days and < 6 months of age.
 Results revealed that infants younger than 6 months of age generally had lower lopinavir AUC12 than older children (6 months to 12 years of age), however, despite the lower lopinavir drug exposure observed, antiviral activity was demonstrated as reflected in the proportion of subjects who achieved HIV-1 RNA <400 copies/mL at Week 24 [see Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
 
 Safety and efficacy in pediatric patients > 6 months of age was demonstrated in a clinical trial in 100 patients.

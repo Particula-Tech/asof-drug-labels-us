@@ -20,4 +20,4 @@ Drugs That are Contraindicated with KALETRA
 | PDE5 Enzyme Inhibitor | Sildenafila (Revatio®) when used for the treatment of pulmonary arterial hypertension | A safe and effective dose has not been established when used with KALETRA. There is an increased potential for sildenafil-associated adverse events, including visual abnormalities, hypotension, prolonged erection, and syncope [see Drug Interactions (7)]. |
 | Neuroleptic | Pimozide | Potential for cardiac arrhythmias. |
 | Sedative/Hypnotics | Triazolam; orally administered midazolamb | Prolonged or increased sedation or respiratory depression. |
-| a see Drug Interactions (7), Table 9 for co-administration of sildenafil in patients with erectile dysfunction. b see Drug Interactions (7), Table 9 for parenterally administered midazolam. |  |  |
+| a see Drug Interactions (7), Table 9 for co-administration of sildenafil in patients with erectile dysfunction. bsee Drug Interactions (7), Table 9 for parenterally administered midazolam. |  |  |

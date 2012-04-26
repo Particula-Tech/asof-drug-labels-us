@@ -7,11 +7,11 @@ The following adverse reactions are discussed in greater detail in other section
 - Pancreatitis [see Warnings and Precautions (5.3)]
 - Hepatotoxicity [see Warnings and Precautions (5.4)]
 
-Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 ## 6.1 Adults - Clinical Trials Experience
 
-The safety profile of KALETRA in adults is primarily based on 1964 HIV-1 infected patients in clinical trials.
+The safety profile of KALETRA in adults is primarily based on 1,964 HIV-1 infected patients in clinical trials.
 
 The most common adverse reaction was diarrhea, which was generally of mild to moderate severity.
 In study 730, the incidence of diarrhea of any severity during 48 weeks of therapy was 60% in patients receiving KALETRA tablets once daily compared to 57% in patients receiving KALETRA tablets twice daily.

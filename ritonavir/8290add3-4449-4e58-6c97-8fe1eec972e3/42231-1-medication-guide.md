@@ -247,9 +247,10 @@ General information about KALETRA
 
 KALETRA does not cure HIV infection or AIDS and you may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
 You should remain under the care of a doctor when using KALETRA.
+
 Avoid doing things that can spread HIV-1 infection.
 
-- Do not share needles or other injection equipment.
+- Do not share needles or other injection equipment
 - Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
 - Do not have any kind of sex without protection.
   Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
@@ -266,7 +267,7 @@ For more information about KALETRA call 1-800-633-9110 or go to www.KALETRA.com.
 
 What are the ingredients in KALETRA?
 
-Active ingredient: lopinavir and ritonavir
+Active ingredients: lopinavir and ritonavir
 
 Inactive ingredients:
 
@@ -287,7 +288,7 @@ KALETRA oral solution contains 42.4% alcohol (v/v).
 The makers of these brands are not affiliated with and do not endorse Abbott Laboratories or its products.
 
 Rev.
-02/2012
+04/2012
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
