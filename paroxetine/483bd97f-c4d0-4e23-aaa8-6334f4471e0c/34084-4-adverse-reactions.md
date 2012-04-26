@@ -223,7 +223,7 @@ Treatment-Emergent Adverse Events Occurring in ≥5% of Patients Treated With PA
 | Skin and Appendages |  |  |
 | Sweating | 10% | <1% |
 | Urogenital System |  |  |
-| Abnormal Ejaculation c,d | 17% | 3% |
+| Abnormal Ejaculationc,d | 17% | 3% |
 | Impotencec | 9% | 3% |
 
 a Adverse events for which the PAXIL CR reporting incidence was less than or equal to the placebo incidence are not included.

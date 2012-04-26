@@ -274,7 +274,7 @@ Although immediate-release paroxetine hydrochloride has not been shown to increa
 
 ### Pregnancy
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy (see WARNINGS: Usage in Pregnancy: Teratogenic Effects andNonteratogenic Effects).
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy (see WARNINGS: Usage in Pregnancy: Teratogenic Effects and Nonteratogenic Effects).
 
 ### Nursing
 

@@ -36,12 +36,12 @@ Apotex Corp.
 
 Weston, FL 33326
 
-A085305
-
 Made in Ireland
 
 Rev.
 9/10
+
+A085305
 
 Principal Display Panel
 
@@ -81,12 +81,12 @@ Apotex Corp.
 
 Weston, FL 33326
 
-A085311
-
 Made in Ireland
 
 Rev.
 9/10
+
+A085311
 
 Principal Display Panel
 
@@ -126,9 +126,9 @@ Apotex Corp.
 
 Weston, FL 33326
 
-A085310
-
 Made in Ireland
 
 Rev.
 9/10
+
+A085310
