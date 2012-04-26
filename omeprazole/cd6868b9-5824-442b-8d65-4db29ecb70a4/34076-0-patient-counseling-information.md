@@ -58,6 +58,6 @@ For more information call 1-888-778-0887
 
 ZEGERID® is a registered trademark of Santarus, Inc.
 
-© 2011 Santarus, Inc.
+© 2012 Santarus, Inc.
 
 S0015H

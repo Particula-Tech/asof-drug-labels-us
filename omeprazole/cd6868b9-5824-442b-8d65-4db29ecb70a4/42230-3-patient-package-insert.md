@@ -78,6 +78,7 @@ Be sure to tell your doctor if you are taking:
 - saquinavir (Fortovase)®
 - clarithromycin
 - clopidogrel (Plavix)
+- Methotrexate
 
 How should I take ZEGERID?
 
@@ -204,7 +205,7 @@ Active Ingredients: omeprazole / sodium bicarbonate
 
 For prescription only
 
-Revised November 2011
+Revised April 2012
 
 ZEGERID® is a registered trademark of Santarus, Inc.
 
@@ -214,4 +215,4 @@ ZEGERID® Powder for Oral Suspension is manufactured for Santarus, Inc. by Pathe
 
 For more information call 1-888-778-0887
 
-© 2011 Santarus, Inc.
+© 2012 Santarus, Inc.
