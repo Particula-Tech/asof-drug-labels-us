@@ -273,7 +273,7 @@ Although PAXIL has not been shown to increase the impairment of mental and motor
 
 ### Pregnancy
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy (see WARNINGS: Usage in Pregnancy: Teratogenic Effects andNonteratogenic Effects).
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy (see WARNINGS: Usage in Pregnancy: Teratogenic Effects and Nonteratogenic Effects).
 
 ### Nursing
 
@@ -315,7 +315,7 @@ See CONTRAINDICATIONS and WARNINGS.
 ### Warfarin
 
 Preliminary data suggest that there may be a pharmacodynamic interaction (that causes an increased bleeding diathesis in the face of unaltered prothrombin time) between paroxetine and warfarin.
-Since there is little clinical experience, the concomitant administration of PAXIL and warfarin should be undertaken with caution (see PRECAUTIONS: Drugs That Interfere WithHemostasis).
+Since there is little clinical experience, the concomitant administration of PAXIL and warfarin should be undertaken with caution (see PRECAUTIONS: Drugs That Interfere With Hemostasis).
 
 ### Triptans
 
@@ -463,9 +463,7 @@ A reduced pregnancy rate was found in reproduction studies in rats at a dose of 
 Irreversible lesions occurred in the reproductive tract of male rats after dosing in toxicity studies for 2 to 52 weeks.
 These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (9.8 and 4.9 times the MRHD for major depressive disorder, social anxiety disorder, and GAD; 8.2 and 4.1 times the MRHD for OCD and PD on a mg/m2 basis).
 
-## Pregnancy
-
-Pregnancy Category D. See WARNINGS: Usage in Pregnancy: Teratogenic Effects andNonteratogenic Effects.
+Pregnancy Category D. See WARNINGS: Usage in Pregnancy: Teratogenic Effects and Nonteratogenic Effects.
 
 ## Labor and Delivery
 

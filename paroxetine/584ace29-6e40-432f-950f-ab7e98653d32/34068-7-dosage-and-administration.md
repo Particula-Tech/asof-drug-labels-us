@@ -118,7 +118,7 @@ Dosage should not exceed 40 mg/day.
 ## Switching Patients to or From a Monoamine Oxidase Inhibitor Antidepressant
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with PAXIL.
-Conversely, at least 14 days should be allowed after stopping PAXILbefore starting an MAOI antidepressant (see CONTRAINDICATIONS).
+Conversely, at least 14 days should be allowed after stopping PAXIL before starting an MAOI antidepressant (see CONTRAINDICATIONS).
 
 Use of PAXIL With Reversible MAOIs Such as Linezolid or Methylene Blue: Do not start PAXIL in a patient who is being treated with linezolid or methylene blue because there is increased risk of serotonin syndrome or NMS-like reactions.
 In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).

@@ -14,8 +14,6 @@ Rx only
 
 Federal Law requires dispensing of Paxil® with the Medication Guide provided with this bottle.
 
-APOTEX CORP.
-
 Store tablets between 15o and 30oC (59o and 86oF).
 Dispense in a tight, light-resistant container.
 Each tablet contains paroxetine hydrochloride equivalent to 10 mg paroxetine.
@@ -38,10 +36,10 @@ Weston, FL 33326
 
 Made in Ireland
 
-A083969
-
 Rev.
 9/10
+
+A083969
 
 # Principal Display Panel
 
@@ -58,8 +56,6 @@ PAROXETINE HCl TABLETS
 Rx only
 
 Federal Law requires dispensing of Paxil® with the Medication Guide provided with this bottle.
-
-APOTEX CORP.
 
 Store tablets between 15o and 30oC (59o and 86oF).
 Dispense in a tight, light-resistant container.
@@ -83,10 +79,10 @@ Weston, FL 33326
 
 Made in Ireland
 
-A083970
-
 Rev.
 9/10
+
+A083970
 
 # Principal Display Panel
 
@@ -103,8 +99,6 @@ PAROXETINE HCl TABLETS
 Rx only
 
 Federal Law requires dispensing of Paxil® with the Medication Guide provided with this bottle.
-
-APOTEX CORP.
 
 Store tablets between 15o and 30oC (59o and 86oF).
 Dispense in a tight, light-resistant container.
@@ -128,10 +122,10 @@ Weston, FL 33326
 
 Made in Ireland
 
-A083992
-
 Rev.
 9/10
+
+A083992
 
 # Principal Display Panel
 
@@ -171,10 +165,10 @@ Weston, FL 33326
 
 Made in Ireland
 
-A083993
-
 Rev.
 9/10
+
+A083993
 
 # Principal Display Panel
 
@@ -218,7 +212,7 @@ Weston, FL 33326
 
 Made in Ireland.
 
-A085691
-
 Rev.
 9/10
+
+A085691
