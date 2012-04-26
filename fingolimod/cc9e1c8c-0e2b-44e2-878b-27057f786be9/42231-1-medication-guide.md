@@ -15,19 +15,30 @@ What is the most important information I should know about GILENYA?
 GILENYA may cause serious side effects, including:
 
 1.
-Slow Heart Rate (bradycardia or bradyarrhythmia) when you start taking GILENYA.
-GILENYA can cause your heart rate to slow down, especially after you take the first dose.
-Your heart rate will usually slow down the most about 6 hours after you take your first dose of GILENYA.
-You might feel dizzy or tired or be aware of a slow or irregular heartbeat if your heart rate slows down.
-Usually, if you experience these types of symptoms due to the slowing down of your heart rate, they will occur during the first 6 hours after the first dose.
-Your doctor will watch you for the first 6 hours after you take the first dose to see if you have any serious side effects.
+Slow heart rate (bradycardia or bradyarrhythmia) when you start taking GILENYA.
+GILENYA can cause your heart rate to slow down, especially after you take your first dose.
+You will have a test to check the electrical activity of your heart (ECG) before you take your first dose of GILENYA.
+
+You should stay in a medical facility for at least 6 hours after you take your first dose of GILENYA.
+
+After you take your first dose of GILENYA:
+
+- Your pulse and blood pressure should be checked every hour.
+- You should be watched by a healthcare professional to see if you have any serious side effects.
+  If your heart rate slows down too much, you may have symptoms such as:
+  - dizziness
+  - tiredness
+  - feeling like your heart is beating slowly or skipping beats
+- If you have any of the symptoms of slow heart rate, they will usually happen during the first 6 hours after your first dose of GILENYA.
+  Symptoms can happen up to 24 hours after you take your first GILENYA dose.
+- 6 hours after you take your first dose of GILENYA you will have another ECG.
+  If your ECG shows any heart problems or if your heart rate is still too low or continues to decrease, you will continue to be watched.
+- If you have any serious side effects after your first dose of GILENYA, especially those that require treatment with other drugs, you will stay in the medical facility to be watched overnight.
+  You will also be watched for any serious side effects for at least 6 hours after you take your second dose of GILENYA the next day.
+
 Your slow heart rate will usually return to normal within 1 month after you start taking GILENYA.
 
-Call your doctor if at any time you have:
-
-- dizziness
-- tiredness
-- a slow or irregular heartbeat
+Call your doctor or go to the nearest emergency room right away if you have any symptoms of slow heart rate.
 
 2.
 Infections.
@@ -69,15 +80,26 @@ It is not known if GILENYA is safe and effective in children under age 18.
 
 What should I tell my doctor before taking GILENYA?
 
-Before you take GILENYA, tell your doctor about all your medical conditions, including if you had or now have: • an irregular or abnormal heartbeat (arrhythmia) • a heart rate less than 55 beats a minute • heart problems • a history of fainting (syncope) • a fever or infection, or you are unable to fight infections.
-Tell your doctor if you have had chicken pox or have received the vaccine for chicken pox.
-Your doctor may do a blood test for chicken pox virus.
-You may need to get the vaccine for chicken pox and then wait 1 month before you start taking GILENYA. • eye problems, especially an inflammation of the eye called uveitis. • diabetes • breathing problems • liver problems • high blood pressure • Are pregnant or plan to become pregnant.
-GILENYA may harm your unborn baby.
-Talk to your doctor if you are pregnant or are planning to become pregnant.
+Before you take GILENYA, tell your doctor about all your medical conditions, including if you had or now have:
 
-- Tell your doctor right away if you become pregnant while taking GILENYA or if you become pregnant within 2 months after you stop taking GILENYA.
-- If you are a female who can become pregnant, you should use effective birth control during your treatment with GILENYA and for at least 2 months after you stop taking GILENYA.
+- an irregular or abnormal heartbeat (arrhythmia)
+- a history of stroke or warning stroke
+- heart problems, including heart attack or angina
+- a history of repeated fainting (syncope)
+- a fever or infection, or you are unable to fight infections.
+  Tell your doctor if you have had chicken pox or have received the vaccine for chicken pox.
+  Your doctor may do a blood test for chicken pox virus.
+  You may need to get the vaccine for chicken pox and then wait 1 month before you start taking GILENYA.
+- eye problems, especially an inflammation of the eye called uveitis.
+- diabetes
+- breathing problems, including during your sleep
+- liver problems
+- high blood pressure
+- Are pregnant or plan to become pregnant.
+  GILENYA may harm your unborn baby.
+  Talk to your doctor if you are pregnant or are planning to become pregnant.
+  - Tell your doctor right away if you become pregnant while taking GILENYA or if you become pregnant within 2 months after you stop taking GILENYA.
+  - If you are a female who can become pregnant, you should use effective birth control during your treatment with GILENYA and for at least 2 months after you stop taking GILENYA.
 
 Pregnancy Registry: There is a registry for women who become pregnant during treatment with GILENYA.
 If you become pregnant while taking GILENYA, talk to your doctor about registering with the GILENYA Pregnancy Registry.
@@ -99,7 +121,10 @@ Using GILENYA and other medicines together may affect each other causing serious
 
 Especially tell your doctor if you take:
 
-- Medicines for heart problems or high blood pressure
+- Medicines for:
+  - heart problems or
+  - high blood pressure or
+  - other medicines that may lower your heart rate or change your heart rhythm
 - Vaccines.
   Tell your doctor if you have been vaccinated within 1 month before you start taking GILENYA.
   You should not get certain vaccines while you take GILENYA and for at least 2 months after you stop taking GILENYA.
@@ -112,7 +137,8 @@ Ask your doctor or pharmacist for a list of these medicines if you are not sure.
 
 How should I take GILENYA?
 
-- Your first dose of GILENYA will be given in a doctor’s office or clinic, where you will be observed for 6 hours after your first dose of GILENYA.
+- Your first dose of GILENYA will be given in a medical facility where you will be watched for at least 6 hours after your first dose of GILENYA.
+  See "What is the most important information I should know about GILENYA?"
 - Take GILENYA exactly as your doctor tells you to take it.
 - Take GILENYA 1 time each day.
 - Take GILENYA with or without food.
@@ -123,7 +149,7 @@ What are possible side effects of GILENYA?
 
 GILENYA can cause serious side effects.
 
-See “What is the most important information I should know about GILENYA?”
+See "What is the most important information I should know about GILENYA?"
 
 Serious side effects include:
 
@@ -194,4 +220,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2012-72/T2012-73 March 2012/March 2012
+T2012-104/T2012-105 April 2012/April 2012

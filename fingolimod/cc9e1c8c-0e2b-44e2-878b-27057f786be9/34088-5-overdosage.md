@@ -1,7 +1,7 @@
 # 10 OVERDOSAGE
 
-No cases of overdosage have been reported.
-However, single doses up to 80-fold the recommended dose (0.5 mg) resulted in no clinically significant adverse reactions.
-At 40 mg, 5 of 6 subjects reported mild chest tightness or discomfort which was clinically consistent with small airway reactivity.
+GILENYA can induce bradycardia as well as AV conduction blocks (including complete AV block).
+The decline in heart rate usually starts within one hour of the first dose and is maximal within 6 hours in most patients [see Warnings and Precautions (5.1)].
+In case of GILENYA overdosage, observe patients overnight with continuous ECG monitoring in a medical facility, and obtain regular measurements of blood pressure [see Dosage and Administration (2)].
 
 Neither dialysis nor plasma exchange results in removal of fingolimod from the body.

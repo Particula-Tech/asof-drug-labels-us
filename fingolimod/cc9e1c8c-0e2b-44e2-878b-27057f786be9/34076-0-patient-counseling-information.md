@@ -15,8 +15,8 @@ Tell patients not to discontinue GILENYA without first discussing this with the 
 ## 17.2 Cardiac Effects
 
 Advise patients that initiation of GILENYA treatment results in a transient decrease in heart rate.
-Inform patients that they will need to be observed in the doctor's office or other facility for 6 hours after the first dose.
-Advise patients that if GILENYA is discontinued for more than two weeks, effects similar to those observed on treatment initiation may be seen and observation for 6 hours will be needed on treatment re-initiation.
+Inform patients that they will need to be observed in the doctor's office or other facility for at least 6 hours after the first dose.
+Advise patients that if GILENYA is discontinued for more than 14 days, effects similar to those observed on treatment initiation may be seen and observation for at least 6 hours will be needed on treatment re-initiation, and that the same precautions will be taken if treatment is interrupted for more than one day within the first 2 weeks of treatment, or for more than 7 days during week 3 and 4 of treatment.
 
 ## 17.3 Risk of Infections
 

@@ -1,14 +1,14 @@
 # 7 DRUG INTERACTIONS
 
-Class Ia or Class III antiarrhythmic drugs
+QT prolonging drugs
 
-GILENYA has not been studied in patients with arrhythmias requiring treatment with Class Ia (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic drugs.
-Class Ia and Class III antiarrhythmic drugs have been associated with cases of torsades de pointes in patients with bradycardia.
-Since initiation of GILENYA treatment results in decreased heart rate, patients on Class Ia or Class III antiarrhythmic drugs should be closely monitored [see Warnings and Precautions (5.1)].
+GILENYA has not been studied in patients treated with drugs that prolong the QT interval.
+Drugs that prolong the QT interval have been associated with cases of torsades de pointes in patients with bradycardia.
+Since initiation of GILENYA treatment results in decreased heart rate and may prolong the QT interval, patients on QT prolonging drugs with a known risk of Torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
 
 Ketoconazole
 
-The blood levels of fingolimod and fingolimod-phosphate are increased by 1.7-fold when coadministered with ketoconazole.
+The blood levels of fingolimod and fingolimod-phosphate are increased by 1.7-fold when used concomitantly with ketoconazole.
 Patients who use GILENYA and systemic ketoconazole concomitantly should be closely monitored, as the risk of adverse reactions is greater.
 
 Vaccines
@@ -21,11 +21,12 @@ Antineoplastic, immunosuppressive or immunomodulating therapies
 Antineoplastic, immunosuppressive or immune modulating therapies are expected to increase the risk of immunosuppression.
 Use caution when switching patients from long-acting therapies with immune effects such as natalizumab or mitoxantrone.
 
-Heart rate-lowering drugs (e.g., beta blockers or diltiazem)
+Heart rate lowering drugs (e.g., beta blockers or diltiazem)
 
-Experience with GILENYA in patients receiving concurrent therapy with beta blockers is limited.
-These patients should be carefully monitored during initiation of therapy.
-When GILENYA is used with atenolol, there is an additional 15% reduction of heart rate upon GILENYA initiation, an effect not seen with diltiazem [see Warnings and Precautions (5.1)].
+Experience with GILENYA in patients receiving concurrent therapy with heart rate lowering drugs (e.g., beta blockers, digoxin, or heart-rate slowing calcium channel blockers such as diltiazem or verapamil) is limited.
+Because initiation of GILENYA treatment may result in an additional decrease in heart rate, concomitant use of these drugs during GILENYA initiation may be associated with severe bradycardia or heart block.
+Seek advice from the prescribing physician regarding the possibility to switch to non-heart-rate lowering drugs before initiating GILENYA.
+In patients who cannot switch, consider extended monitoring, including overnight, after the first dose [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
 
 Laboratory test interaction
 

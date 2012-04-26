@@ -1,7 +1,45 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-The recommended dose of GILENYA is 0.5 mg orally once daily.
-Patients should be observed for 6 hours after the first dose to monitor for signs and symptoms of bradycardia [see Warnings and Precautions (5.1)].
-Fingolimod doses higher than 0.5 mg are associated with a greater incidence of adverse reactions without additional benefit.
+Recommended Dose
 
+The recommended dose of GILENYA is 0.5 mg orally once daily.
+Fingolimod doses higher than 0.5 mg are associated with a greater incidence of adverse reactions without additional benefit.
 GILENYA can be taken with or without food.
+
+First Dose Monitoring
+
+Initiation of GILENYA treatment results in a decrease in heart rate [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.2)].
+After the first dose of GILENYA, the heart rate decrease starts within an hour and the Day 1 nadir generally occurs within approximately 6 hours, although the nadir can be observed up to 24 hours after the first dose in some patients.
+
+The first dose of GILENYA should be administered in a setting in which resources to appropriately manage symptomatic bradycardia are available.
+In order to assess patient response to the first dose of fingolimod, observe all patients for 6 hours for signs and symptoms of bradycardia with hourly pulse and blood pressure measurement.
+Obtain in all patients an electrocardiogram prior to dosing, and at the end of the observation period.
+
+Additional observation should be instituted until the finding has resolved in the following situations:
+
+- The heart rate 6 hours post-dose is <45 bpm
+- The heart rate 6 hours post-dose is at the lowest value post-dose (suggesting that the maximum pharmacodynamic effect on the heart may not have occurred)
+- The ECG 6-hours post-dose shows new onset second degree or higher AV block
+
+Should post-dose symptomatic bradycardia occur, initiate appropriate management, begin continuous ECG monitoring, and continue observation until the symptoms have resolved.
+
+Should a patient require pharmacologic intervention for symptomatic bradycardia, continuous overnight ECG monitoring in a medical facility should be instituted, and the first dose monitoring strategy should be repeated after the second dose of GILENYA.
+
+Patients with some pre-existing conditions (e.g., ischemic heart disease, history of myocardial infarction, congestive heart failure, history of cardiac arrest, cerebrovascular disease, history of symptomatic bradycardia, history of recurrent syncope, severe untreated sleep apnea, AV block, sino-atrial heart block) may poorly tolerate the GILENYA-induced bradycardia, or experience serious rhythm disturbances after the first dose of GILENYA.
+Prior to treatment with GILENYA, these patients should have a cardiac evaluation by a physician appropriately trained to conduct such evaluation, and, if treated with GILENYA, should be monitored overnight with continuous ECG in a medical facility after the first dose.
+GILENYA is contraindicated in patients who in the last 6 months experienced myocardial infarction, unstable angina, stroke, transient ischemic attack (TIA), decompensated heart failure requiring hospitalization or Class III/IV heart failure) [see Contraindications (4)].
+
+Since initiation of GILENYA treatment results in decreased heart rate and may prolong the QT interval, patients with a prolonged QT interval (>450 msec males, >470 msec females) before dosing or during 6 hour observation, or at additional risk for QT prolongation (e.g., hypokalemia, hypomagnesemia, congenital long-QT syndrome), or on concurrent therapy with QT prolonging drugs with a known risk of Torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility [see Drug Interactions (7)].
+
+Experience with GILENYA is limited in patients receiving concurrent therapy with drugs that slow heart rate (e.g., beta blockers, heart-rate lowering calcium channel blockers such as diltiazem or verapamil, or digoxin).
+Because the initiation of GILENYA treatment is also associated with slowing of the heart rate, concomitant use of these drugs during GILENYA initiation may be associated with severe bradycardia or heart block.
+The possibility to switch to non-heart-rate lowering drugs should be evaluated by the physician prescribing the heart-rate lowering drug before initiating GILENYA.
+In patients who cannot switch, overnight continuous ECG monitoring after the first dose is recommended [see Drug Interactions (7)].
+
+Clinical data indicate effects of GILENYA on heart rate are maximal after the first dose although milder effects on heart rate may persist for, on average, 2-4 weeks after initiation of therapy at which time heart rate generally returns to baseline.
+Physicians should continue to be alert to patient reports of cardiac symptoms.
+
+Re-initiation of Therapy Following Discontinuation
+
+If GILENYA therapy is discontinued for more than 14 days, after the first month of treatment, the effects on heart rate and AV conduction may recur on reintroduction of GILENYA treatment and the same precautions (first dose monitoring) as for initial dosing should apply.
+Within the first 2 weeks of treatment, first dose procedures are recommended after interruption of one day or more, during week 3 and 4 of treatment first dose procedures are recommended after treatment interruption of more than 7 days.

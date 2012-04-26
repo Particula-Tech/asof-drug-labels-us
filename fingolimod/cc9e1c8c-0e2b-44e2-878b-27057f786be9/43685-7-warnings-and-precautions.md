@@ -2,40 +2,35 @@
 
 ## 5.1 Bradyarrhythmia and Atrioventricular Blocks
 
+Because of a risk for bradyarrhythmia and atrioventricular (AV) blocks, patients should be monitored during GILENYA treatment initiation [see Dosage and Administration (2)].
+
 Reduction in heart rate
 
-Initiation of GILENYA treatment results in a decrease in heart rate [see Clinical Pharmacology (12.2)].
-Observe all patients for a period of 6 hours for signs and symptoms of bradycardia.
-Should post-dose bradyarrhythmia-related symptoms occur, initiate appropriate management and continue observation until the symptoms have resolved.
+After the first dose of GILENYA, the heart rate decrease starts within an hour.
+On Day 1, the maximal decline in heart rate generally occurs within 6 hours and recovers, although not to baseline levels, by 8-10 hours post dose.
+Because of physiological diurnal variation, there is a second period of heart rate decrease within 24 hours after the first dose.
+In some patients, heart rate decrease during the second period is more pronounced than the decrease observed in the first 6 hours.
+Heart rates below 40 beats per minute were rarely observed.
+Adverse reactions of symptomatic bradycardia following the first dose were reported in 0.5% of patients receiving GILENYA 0.5 mg, but in no patient on placebo.
+Patients who experienced bradycardia were generally asymptomatic, but some patients experienced hypotension, dizziness, fatigue, palpitations, and chest pain that usually resolved within the first 24 hours on treatment.
 
-To identify underlying risk factors for bradycardia and atrioventricular (AV) block, if a recent electrocardiogram (i.e. within 6 months) is not available, obtain one in patients using anti-arrhythmics including beta-blockers and calcium channel blockers, those with cardiac risk factors, as described below, and those who on examination have a slow or irregular heart beat prior to starting GILENYA.
-
-Experience with GILENYA in patients receiving concurrent therapy with beta blockers or in those with a history of syncope is limited.
-GILENYA has not been studied in patients with sitting heart rate less than 55 bpm.
-GILENYA has not been studied in patients with second degree or higher AV block, sick sinus syndrome, prolonged QT interval, ischemic cardiac disease, or congestive heart failure.
-GILENYA has not been studied in patients with arrhythmias requiring treatment with Class Ia (e.g. quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic drugs.
-Class Ia and Class III antiarrhythmic drugs have been associated with cases of torsades de pointes in patients with bradycardia.
-
-After the first dose of GILENYA, the heart rate decrease starts within an hour and the Day 1 decline is maximal at approximately 6 hours.
-Following the second dose a further decrease in heart rate may occur when compared to the heart rate prior to the second dose, but this change is of a smaller magnitude than that observed following the first dose.
+Following the second dose, a further decrease in heart rate may occur when compared to the heart rate prior to the second dose, but this change is of a smaller magnitude than that observed following the first dose.
 With continued dosing, the heart rate returns to baseline within one month of chronic treatment.
-The mean decrease in heart rate in patients on GILENYA 0.5 mg at 6 hours after the first dose was approximately 13 beats per minute (bpm).
-Heart rates below 40 bpm were rarely observed.
-Adverse reactions of bradycardia following the first dose were reported in 0.5% of patients receiving GILENYA 0.5 mg, but in no patient on placebo.
-Patients who experienced bradycardia were generally asymptomatic, but some patients experienced mild to moderate dizziness, fatigue, palpitations, and chest pain that resolved within the first 24 hours on treatment.
 
 Atrioventricular blocks
 
 Initiation of GILENYA treatment has resulted in transient AV conduction delays.
-In controlled clinical trials, adverse reactions of first degree AV block (prolonged PR interval on ECG) following the first dose were reported in 0.1% of patients receiving GILENYA 0.5 mg, but in no patient on placebo.
-Second degree AV blocks following the first dose were also identified in 0.1% of patients receiving GILENYA 0.5 mg, but in no patient on placebo.
-In a study of 698 patients with available 24-hour Holter monitoring data after their first dose (N=351 on GILENYA 0.5 mg and N=347 on placebo), second degree AV blocks, usually Mobitz type I (Wenckebach) were reported in 3.7% (N=13) of patients receiving GILENYA 0.5 mg and 2% (N=7) of patients on placebo.
+In controlled clinical trials, adverse reactions of first-degree AV block (prolonged PR interval on ECG) following the first dose were reported in 0.1% of patients receiving GILENYA 0.5 mg, but in no patient on placebo.
+Second-degree AV blocks following the first dose were also identified in 0.1% of patients receiving GILENYA 0.5 mg, but in no patient on placebo.
+In a study of 698 patients with available 24-hour Holter monitoring data after their first dose (N=351 on GILENYA 0.5 mg and N=347 on placebo), second-degree AV blocks, Mobitz types I (Wenckebach) and/or II, were reported in 3.7% (N=13) of patients receiving GILENYA 0.5 mg and 2% (N=7) of patients on placebo.
 The conduction abnormalities were usually transient and asymptomatic, and resolved within the first 24 hours on treatment, but they occasionally required treatment with atropine or isoproterenol.
-One patient developed syncope and complete AV block following the first dose of fingolimod 1.25 mg (a dose higher than recommended) in an uncontrolled study.
 
-Re-initiation of therapy following discontinuation
+Post-marketing experience
 
-If GILENYA therapy is discontinued for more than two weeks the effects on heart rate and AV conduction may recur on reintroduction of GILENYA treatment and the same precautions as for initial dosing should apply.
+In the post-marketing setting, third degree AV block and AV block with junctional escape have been observed during the first-dose six-hour observation period with GILENYA.
+Isolated delayed onset events, including transient asystole and unexplained death, have occurred within 24 hours of the first dose.
+These events were confounded by concomitant medications and/or pre-existing disease, and the relationship to GILENYA is uncertain.
+Cases of syncope were also reported after the first dose of GILENYA.
 
 ## 5.2 Infections
 
@@ -126,7 +121,7 @@ Because it takes approximately 2 months to eliminate GILENYA from the body, wome
 
 ## 5.7 Blood Pressure Effects
 
-In MS clinical trials, patients treated with GILENYA 0.5 mg had an average increase of approximately 2 mmHg in systolic pressure, and approximately 1 mmHg in diastolic pressure, first detected after approximately 2 months of treatment initiation, and persisting with continued treatment.
+In MS clinical trials, patients treated with GILENYA 0.5 mg had an average increase of approximately 2 mmHg in systolic pressure, and approximately 1 mmHg in diastolic pressure, first detected after approximately 1 month of treatment initiation, and persisting with continued treatment.
 In controlled studies involving 854 MS patients on GILENYA 0.5 mg and 511 MS patients on placebo, hypertension was reported as an adverse reaction in 5% of patients on GILENYA 0.5 mg and in 3% of patients on placebo.
 Blood pressure should be monitored during treatment with GILENYA.
 

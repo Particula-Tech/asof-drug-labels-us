@@ -12,7 +12,7 @@ The mechanism by which fingolimod exerts therapeutic effects in multiple scleros
 Heart rate and rhythm
 
 Fingolimod causes a transient reduction in heart rate and AV conduction at treatment initiation [see Warnings and Precautions (5.1)].
-The maximal decline of heart rate is seen in the first 6 hours post-dose, with 70% of the negative chronotropic effect achieved on the first day.
+
 Heart rate progressively increases after the first day, returning to baseline values within 1 month of the start of chronic treatment.
 
 Autonomic responses of the heart, including diurnal variation of heart rate and response to exercise, are not affected by fingolimod treatment.
