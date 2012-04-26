@@ -43,7 +43,7 @@ Doses of the components delivered with these regimens are as follows:
 ARTHROTEC contains misoprostol, which provides protection against gastric and duodenal ulcers (see CLINICAL STUDIES).
 For gastric ulcer prevention, the 200 mcg qid and tid regimens are therapeutically equivalent, but more protective than the bid regimen.
 For duodenal ulcer prevention, the qid regimen is more protective than the tid or bid regimens.
-However, the qid regimen is less well tolerated than the tid regimen because of usually self-limited diarrhea related to the misoprostol dose (see ADVERSE REACTIONS—Gastrointestinal), and the bid regimen may be better tolerated than tid in some patients.
+However, the qid regimen is less well tolerated than the tid regimen because of usually self-limited diarrhea related to the misoprostol dose (see ADVERSE REACTIONS —Gastrointestinal), and the bid regimen may be better tolerated than tid in some patients.
 
 Dosages may be individualized using the separate products (misoprostol and diclofenac), after which the patient may be changed to the appropriate dose of ARTHROTEC.
 If clinically indicated, misoprostol co-therapy with ARTHROTEC, or use of the individual components to optimize the misoprostol dose and/or frequency of administration, may be appropriate.

@@ -86,11 +86,12 @@ In a large, open-label, controlled trial of 3,700 patients treated for 2–6 mon
 Meaningful elevations of ALT and/or AST occurred in about 4% of patients and included marked elevations (i.e., more than 8 times the ULN) in about 1% of the 3,700 patients.
 In that open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3–8 times the ULN), and marked (>8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
 Elevations in transaminases were seen more frequently in patients with osteoarthritis than in those with rheumatoid arthritis.
+In another clinical trial where over 17,000 patients received diclofenac for a mean of 18 months, hepatitis was rarely observed.
 
 Almost all meaningful elevations in transaminases were detected before patients became symptomatic.
 Abnormal tests occurred during the first 2 months of therapy with diclofenac in 42 of the 51 patients in all trials who developed marked transaminase elevations.
 
-In postmarketing reports, cases of drug-induced hepatotoxicity have been reported in the first month, and in some cases, the first 2 months of therapy, but can occur at any time during treatment with diclofenac.
+In postmarketing reports, cases of drug-induced hepatotoxicity have been reported in the first month, and usually occur within 1-6 months, but can occur at any time during treatment with diclofenac.
 Postmarketing surveillance has reported cases of severe hepatic reactions, including liver necrosis, jaundice, fulminant hepatitis with and without jaundice, and liver failure.
 Some of these reported cases resulted in fatalities or liver transplantation.
 
@@ -198,7 +199,7 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 - In late pregnancy, as with other NSAIDs, ARTHROTEC should not be taken because it may cause premature closure of the ductus arteriosus.
 - ARTHROTEC should not be taken by nursing mothers.
 - Concomitant use of voriconazole increases the systemic exposure to diclofenac.
-  When concomitant voriconazole use is necessary, the total daily dose of diclofenac should not exceed the lowest recommended dose of ARTHROTEC 50 twice daily (see Drug Interactions and Dosage and Administration).
+  When concomitant voriconazole use is necessary, the total daily dose of diclofenac should not exceed the lowest recommended dose of ARTHROTEC 50 twice daily (see Drug Interactions and DOSAGE AND ADMINISTRATION).
 
 See PATIENT INFORMATION at the end of this labeling for important information to discuss with the patient.
 
@@ -226,6 +227,9 @@ Misoprostol has not been shown to exacerbate the effects of diclofenac on platel
 
 Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE-inhibitors.
 This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors.
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, may result in deterioration of renal function, including possible acute renal failure.
+Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
 
 #### Aspirin
 
@@ -285,7 +289,7 @@ Concomitant therapy with potassium-sparing diuretics may be associated with incr
 #### Voriconazole
 
 In a published study, single dose diclofenac (50 mg) was coadministered with the last dose of voriconazole (400 mg every 12 hours on Day 1, followed by 200 mg every 12 hours on Day 2).
-The mean Cmax and AUC of diclofenac were increased by 2.1-fold and 1.8- fold respectively when co-administered with voriconazole compared to diclofenac alone.
+The mean Cmax and AUC of diclofenac were increased by 2.1-fold and 1.8-fold respectively when coadministered with voriconazole compared to diclofenac alone.
 
 #### Other drugs
 
@@ -358,7 +362,7 @@ There are no adequate and well-controlled studies in pregnant women.
 
 Diclofenac sodium has been found in the milk of nursing mothers.
 Misoprostol is rapidly metabolized in the mother to misoprostol acid, which is biologically active and is excreted in breast milk.
-There are no published reports of adverse effects of misoprostol in breast-feeding infants of mothers taking misoprostol.
+There are no published reports of adverse effects of misoprostol in breastfeeding infants of mothers taking misoprostol.
 Caution should be exercised when ARTHROTEC is administered to a nursing woman.
 
 ## Labor and Delivery
@@ -380,4 +384,4 @@ No overall differences in safety or effectiveness were observed between these su
 Diclofenac is known to be substantially excreted by the kidney, and the risk of toxic reactions to ARTHROTEC may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see WARNINGS—Renal Effects).
 
-Based on studies in the elderly, no adjustment of the dose of ARTHROTEC is necessary in the elderly for pharmacokinetic reasons (see Pharmacokinetics of ARTHROTEC—Special populations), although many elderly may need to receive a reduced dose because of low body weight or disorders associated with aging.
+Based on studies in the elderly, no adjustment of the dose of ARTHROTEC is necessary in the elderly for pharmacokinetic reasons (see Pharmacokinetics of ARTHROTEC—Specific populations), although many elderly may need to receive a reduced dose because of low body weight or disorders associated with aging.

@@ -41,7 +41,7 @@ Body as a whole: Asthenia, death, fatigue, fever, infection, malaise, sepsis, ch
 
 Cardiovascular system: Arrhythmia, atrial fibrillation, congestive heart failure, hypertension, hypotension, increased CPK, increased LDH, myocardial infarction, palpitations, phlebitis, premature ventricular contractions, syncope, tachycardia, vasculitis.
 
-Central and peripheral nervous system: Coma, convulsions, dizziness, drowsiness, headache, hyperesthesia, hypertonia, hypoesthesia, insomnia, meningitis, migraine, neuralgia, paresthesia, somnolence, tremor, vertigo.
+Central and peripheral nervous system: Coma, convulsions, dizziness, drowsiness, headache, hyperesthesia, hypertonia, hypoesthesia, insomnia, meningitis, migraine, neuralgia, paresthesia, somnolence, stroke, tremor, vertigo.
 
 Digestive: Anorexia, appetite changes, constipation, dry mouth, dysphagia, enteritis, esophageal ulceration, esophagitis, eructation, gastritis, gastroesophageal reflux, GI bleeding, GI neoplasm benign, glossitis, heartburn, hematemesis, hemorrhoids, intestinal perforation, peptic ulcer, stomatitis and ulcerative stomatitis, tenesmus, vomiting.
 
@@ -55,7 +55,7 @@ Liver and biliary system: Abnormal hepatic function, bilirubinemia, hepatitis, j
 
 Male reproductive disorders: Impotence, perineal pain.
 
-Metabolic and nutritional: Alkaline phosphatase increased, BUN increased, dehydration, glycosuria, gout, hypercholesterolemia, hyperglycemia, hyperuricemia, hypoglycemia, hyponatremia, periorbital edema, porphyria, weight changes.
+Metabolic and nutritional: Alanine aminotransferase increased, alkaline phosphatase increased, aspartate aminotransferase increased, BUN increased, dehydration, glycosuria, gout, hypercholesterolemia, hyperglycemia, hyperuricemia, hypoglycemia, hyponatremia, periorbital edema, porphyria, weight changes.
 
 Musculoskeletal system: Arthralgia, myalgia.
 
