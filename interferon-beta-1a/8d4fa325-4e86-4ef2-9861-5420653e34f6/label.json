@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA103628"
+  ],
+  "inn": "interferon-beta-1a",
+  "labeler": "Biogen Idec MA Inc.",
+  "package_ndcs": [
+    "59627-003-01",
+    "59627-003-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "interferon beta-1a",
+      "name": "AVONEX"
+    }
+  ],
+  "setid": "8d4fa325-4e86-4ef2-9861-5420653e34f6",
+  "source": "dailymed"
+}
