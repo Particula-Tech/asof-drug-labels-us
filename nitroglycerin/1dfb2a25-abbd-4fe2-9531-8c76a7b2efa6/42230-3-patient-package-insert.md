@@ -1,4 +1,4 @@
-# PATIENT INSTRUCTIONS FOR USE
+PATIENT INSTRUCTIONS FOR USE
 
 NitroMist® [nī-trō-mĭst] (nitroglycerin) lingual aerosol
 
