@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018594"
+  ],
+  "inn": "desoximetasone",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-1352-1",
+    "51672-1352-3"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "desoximetasone",
+      "name": "Desoximetasone"
+    }
+  ],
+  "setid": "96898d55-aa50-4281-8c23-ec4738ede394",
+  "source": "dailymed"
+}
