@@ -26,7 +26,7 @@ Sample - Not for Sale
 
 # PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 7 mL CARTON
 
-PharmaDerm® NDC 10337-434-07
+PharmaDerm® NDC 10337-434-66
 
 CUTIVATE®
 
