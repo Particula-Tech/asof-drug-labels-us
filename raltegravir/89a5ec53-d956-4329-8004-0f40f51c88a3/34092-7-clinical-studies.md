@@ -2,7 +2,7 @@
 
 Description of Clinical Studies
 
-The evidence of durable efficacy of ISENTRESS is based on the analyses of 96-week data from an ongoing, randomized, double-blind, active-control trial, STARTMRK (Protocol 021) in antiretroviral treatment-naïve HIV-1 infected adult subjects and from 2 ongoing, randomized, double-blind, placebo-controlled studies, BENCHMRK 1 and BENCHMRK 2 (Protocols 018 and 019), in antiretroviral treatment-experienced HIV-1 infected adult subjects.
+The evidence of durable efficacy of ISENTRESS is based on the analyses of 156-week data from an ongoing, randomized, double-blind, active-control trial, STARTMRK (Protocol 021) in antiretroviral treatment-naïve HIV-1 infected adult subjects and 96-week data from 2 ongoing, randomized, double-blind, placebo-controlled studies, BENCHMRK 1 and BENCHMRK 2 (Protocols 018 and 019), in antiretroviral treatment-experienced HIV-1 infected adult subjects.
 
 ## 14.1 Treatment-Naïve Adult Subjects
 
@@ -62,20 +62,20 @@ Table 10: Baseline Characteristics
 | ISENTRESS and Efavirenz were administered with emtricitabine (+) tenofovir |  |  |
 | N = Number of subjects in each group. |  |  |
 
-Week 96 outcomes from Protocol 021 are shown in Table 11.
+Week 156 outcomes from Protocol 021 are shown in Table 11.
 
-Table 11: Virologic Outcomes of Randomized Treatment of Protocol 021 at 96 Weeks
+Table 11: Virologic Outcomes of Randomized Treatment of Protocol 021 at 156 Weeks
 
 |  | ISENTRESS 400 mg Twice Daily (N = 281) | Efavirenz 600 mg At Bedtime (N = 282) | Difference (ISENTRESS – Efavirenz) (CI) |
 | --- | --- | --- | --- |
-| Subjects with HIV-1 RNA less than 50 copies/mL | 82% | 78% | 3.8% (-2.8%, 10.4%) |
-| Virologic FailureIncludes subjects who discontinued prior to Week 96 for lack of efficacy, subjects changed OBT due to lack of efficacy prior to Week 96, or subjects who are ≥50 copies in the 96 week window. | 9% | 10% |  |
-| No virologic data at Week 96 Window Reasons |  |  |  |
-| Discontinued study due to AE or deathIncludes subjects who discontinued due to AE or Death at any time point from Day 1 through the Week 96 window if this resulted in no virologic data on treatment during Week 96 visit window. | 4% | 7% |  |
-| Discontinued study for other reasonsOther includes: withdrew consent, loss to follow-up, moved etc., if the viral load at the time of discontinuation was <50 copies/mL. | 5% | 4% |  |
+| Subjects with HIV-1 RNA less than 50 copies/mL | 76% | 68% | 7.4% (-0.1%, 14.7%) |
+| Virologic FailureIncludes subjects who discontinued prior to Week 156 for lack of efficacy or subjects who are ≥50 copies in the 156-week window. | 9% | 13% |  |
+| No virologic data at Week 156 Window Reasons |  |  |  |
+| Discontinued study due to AE or deathIncludes subjects who discontinued due to AE or Death at any time point from Day 1 through the Week 156 window if this resulted in no virologic data on treatment during Week 156 visit window. | 4% | 7% |  |
+| Discontinued study for other reasonsOther includes: withdrew consent, loss to follow-up, moved etc., if the viral load at the time of discontinuation was <50 copies/mL. | 10% | 10% |  |
 | Missing data during window but on study | 1% | 1% |  |
 
-The mean changes in CD4 count from baseline were 217 cells/mm3 in the group receiving ISENTRESS 400 mg twice daily and 199 cells/mm3 in the group receiving Efavirenz 600 mg at bedtime.
+The mean changes in CD4 count from baseline were 281 cells/mm3 in the group receiving ISENTRESS 400 mg twice daily and 241 cells/mm3 in the group receiving Efavirenz 600 mg at bedtime.
 
 ## 14.2 Treatment-Experienced Adult Subjects
 
@@ -164,20 +164,20 @@ Virologic responses at Week 96 by baseline genotypic and phenotypic sensitivity 
 
 Table 15: Virologic Response at 96 Week Window by Baseline Genotypic/Phenotypic Sensitivity Score
 
-|  | n |  | n |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Percent with HIV-1 RNA <50 copies/mL At Week 96 |  |  |  |  |
-|  |  | ISENTRESS 400 mg Twice Daily + OBT (N = 462) |  | Placebo + OBT (N = 237) |  |
-| Phenotypic Sensitivity Score (PSS)The Phenotypic Sensitivity Score (PSS) and the Genotypic Sensitivity Score (GSS) were defined as the total oral ARTs in OBT to which a subject's viral isolate showed phenotypic sensitivity and genotypic sensitivity, respectively, based upon phenotypic and genotypic resistance tests. Enfuvirtide use in OBT in enfuvirtide-naïve subjects was counted as one active drug in OBT in the GSS and PSS. Similarly, darunavir use in OBT in darunavir-naïve subjects was counted as one active drug in OBT. |  |  |  |  |  |
-| 0 | 67 | 43 | 43 | 5 |  |
-| 1 | 144 | 58 | 71 | 23 |  |
-| 2 | 142 | 61 | 66 | 32 |  |
-| 3 or more | 85 | 48 | 48 | 42 |  |
-| Genotypic Sensitivity Score (GSS) |  |  |  |  |  |
-| 0 | 116 | 39 | 65 | 5 |  |
-| 1 | 177 | 62 | 95 | 26 |  |
-| 2 | 111 | 61 | 49 | 53 |  |
-| 3 or more | 51 | 49 | 23 | 35 |  |
+|  | n |  | n |  |
+| --- | --- | --- | --- | --- |
+|  | Percent with HIV-1 RNA <50 copies/mL At Week 96 |  |  |  |
+|  |  | ISENTRESS 400 mg Twice Daily + OBT (N = 462) |  | Placebo + OBT (N = 237) |
+| Phenotypic Sensitivity Score (PSS)The Phenotypic Sensitivity Score (PSS) and the Genotypic Sensitivity Score (GSS) were defined as the total oral ARTs in OBT to which a subject's viral isolate showed phenotypic sensitivity and genotypic sensitivity, respectively, based upon phenotypic and genotypic resistance tests. Enfuvirtide use in OBT in enfuvirtide-naïve subjects was counted as one active drug in OBT in the GSS and PSS. Similarly, darunavir use in OBT in darunavir-naïve subjects was counted as one active drug in OBT. |  |  |  |  |
+| 0 | 67 | 43 | 43 | 5 |
+| 1 | 144 | 58 | 71 | 23 |
+| 2 | 142 | 61 | 66 | 32 |
+| 3 or more | 85 | 48 | 48 | 42 |
+| Genotypic Sensitivity Score (GSS) |  |  |  |  |
+| 0 | 116 | 39 | 65 | 5 |
+| 1 | 177 | 62 | 95 | 26 |
+| 2 | 111 | 61 | 49 | 53 |
+| 3 or more | 51 | 49 | 23 | 35 |
 
 Switch of Suppressed Subjects from Lopinavir (+) Ritonavir to Raltegravir
 

@@ -87,7 +87,7 @@ What are the possible side effects of ISENTRESS?
 - ISENTRESS can cause serious side effects including:
 
 - Serious skin reactions and allergic reactions.
-  Severe and life-threatening skin reactions and allergic reactions have been reported in some patients taking ISENTRESS.
+  Severe, potentially life-threatening and fatal skin reactions and allergic reactions have been reported in some patients taking ISENTRESS.
   If you develop a rash with any of the following symptoms, stop using ISENTRESS and contact your doctor right away:
 
 - fever
@@ -100,7 +100,7 @@ What are the possible side effects of ISENTRESS?
 - swelling of the mouth or face
 - problems breathing
 
-Liver problems may be caused by an allergic reaction.
+Sometimes allergic reactions can affect body organs, like the liver.
 Contact your doctor right away if you have any of the following signs or symptoms of liver problems:
 
 - yellowing of the skin or whites of the eyes
@@ -121,11 +121,11 @@ The most common side effects of ISENTRESS include:
 
 - headache
 - trouble sleeping
+- nausea
+- tiredness
 
 Less common side effects include:
 
-- nausea
-- tiredness
 - weakness
 - stomach pain
 - dizziness
@@ -134,6 +134,8 @@ Less common side effects include:
 
 Tell your doctor right away if you get unexplained muscle pain, tenderness, or weakness while taking ISENTRESS.
 This may be a sign of a rare but serious muscle problem that can lead to kidney problems.
+
+Rash occurred more often in patients taking ISENTRESS and darunavir/ritonavir together than with either drug separately, but was generally mild.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
