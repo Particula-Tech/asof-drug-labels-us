@@ -4,7 +4,9 @@
 
 Pravastatin sodium tablets USP are supplied as:
 
-80 mg tablets: Off-white to mottled grey, oval-shaped tablet, debossed "TEVA" on one side and “7270” on the other side in bottles of 90 and 1000.
+10 mg tablets: Pink, unscored, round tablet, debossed “TEVA” on one side and “771” on the other side in bottles of 90 and 1000.
+
+80 mg tablets: Off-white to mottled grey, oval-shaped tablet, debossed “TEVA” on one side and “7270” on the other side in bottles of 90 and 1000.
 
 ## 16.2 Storage
 

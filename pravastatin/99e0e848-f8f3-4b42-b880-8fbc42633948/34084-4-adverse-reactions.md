@@ -128,7 +128,7 @@ The reports are generally nonserious, and reversible upon statin discontinuation
 
 Hypersensitivity: anaphylaxis, angioedema, lupus erythematosus-like syndrome, polymyalgia rheumatica, dermatomyositis, vasculitis, purpura, hemolytic anemia, positive ANA, ESR increase, arthritis, arthralgia, asthenia, photosensitivity, chills, malaise, toxic epidermal necrolysis, erythema multiforme (including Stevens-Johnson syndrome).
 
-Gastrointestinal: abdominal pain, constipation, pancreatitis, hepatitis (including chronic active hepatitis), cholestatic jaundice, fatty change in liver, cirrhosis, fulminant hepatic necrosis, hepatoma.
+Gastrointestinal: abdominal pain, constipation, pancreatitis, hepatitis (including chronic active hepatitis), cholestatic jaundice, fatty change in liver, cirrhosis, fulminant hepatic necrosis, hepatoma, fatal and non-fatal hepatic failure.
 
 Dermatologic: a variety of skin changes (e.g., nodules, discoloration, dryness of mucous membranes, changes to hair/nails).
 

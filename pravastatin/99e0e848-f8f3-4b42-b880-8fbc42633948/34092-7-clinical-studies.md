@@ -24,7 +24,7 @@ In the REGRESS7 study, the effect of pravastatin on coronary atherosclerosis was
 In this double-blind, multicenter, controlled clinical trial, angiograms were evaluated at baseline and at 2 years in 653 patients (323 treated with pravastatin).
 Progression of coronary atherosclerosis was significantly slowed in the pravastatin group as assessed by changes in mean segment diameter (p = 0.037) and minimum obstruction diameter (p = 0.001).
 
-Analysis of pooled events from PLAC I, PLAC II, 8 REGRESS, and KAPS9 studies (combined N = 1891) showed that treatment with pravastatin was associated with a statistically significant reduction in the composite event rate of fatal and nonfatal MI (46 events or 6.4% for placebo versus 21 events or 2.4% for pravastatin, p = 0.001).
+Analysis of pooled events from PLAC I, PLAC II,8 REGRESS, and KAPS9 studies (combined N = 1891) showed that treatment with pravastatin was associated with a statistically significant reduction in the composite event rate of fatal and nonfatal MI (46 events or 6.4% for placebo versus 21 events or 2.4% for pravastatin, p = 0.001).
 The predominant effect of pravastatin was to reduce the rate of nonfatal MI.
 
 ## 14.3 Primary Hypercholesterolemia (Fredrickson Types IIa and IIb)

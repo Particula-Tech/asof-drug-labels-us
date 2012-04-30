@@ -1,21 +1,13 @@
-# PRINCIPAL DISPLAY PANEL
+# Principal Display Panel
 
-## Pravastatin Sodium Tablets 80 mg 90s Label Text
+## Pravastatin Sodium Tablets USP 80 mg 1000s Label Text
 
-NDC 0093-7270-98
+NDC 0093-7270-10
 
-New Product Appearance
-
-PRAVASTATIN
-
-SODIUM
-
-Tablets, USP
-
-80 mg
+PRAVASTATIN SODIUM Tablets, USP 80 mg
 
 Rx only
 
-90 TABLETS
+1000 TABLETS
 
 TEVA

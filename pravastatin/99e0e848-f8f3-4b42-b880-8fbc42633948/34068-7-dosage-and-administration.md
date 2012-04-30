@@ -31,8 +31,6 @@ Children and adolescents treated with pravastatin should be reevaluated in adult
 Pravastatin sodium tablets USP may be used with bile acid resins.
 When administering a bile-acid-binding resin (e.g., cholestyramine, colestipol) and pravastatin, pravastatin sodium tablets USP should be given either 1 hour or more before or at least 4 hours following the resin [see Clinical Pharmacology (12.3)].
 
-The combination of statins and fibrates should generally be used with caution [see Warnings and Precautions (5.1)].
-
 ## 2.5 Dosage in Patients Taking Cyclosporine
 
 In patients taking immunosuppressive drugs such as cyclosporine concomitantly with pravastatin, therapy should begin with 10 mg of pravastatin sodium once-a-day at bedtime and titration to higher doses should be done with caution.

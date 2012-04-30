@@ -23,6 +23,8 @@ There was a trend toward more frequent CPK elevations and patient withdrawals du
 The use of fibrates alone may occasionally be associated with myopathy.
 The benefit of further alterations in lipid levels by the combined use of pravastatin sodium with fibrates should be carefully weighed against the potential risks of this combination.
 
+Cases of myopathy, including rhabdomyolysis, have been reported with pravastatin coadministered with colchicine, and caution should be exercised when prescribing pravastatin with colchicine [see Drug Interactions (7.3)].
+
 ## 5.2 Liver
 
 Statins, like some other lipid-lowering therapies, have been associated with biochemical abnormalities of liver function.
@@ -40,8 +42,9 @@ It is recommended that liver function tests be performed prior to the initiation
 Active liver disease or unexplained persistent transaminase elevations are contraindications to the use of pravastatin [see Contraindications (4.2)].
 Caution should be exercised when pravastatin is administered to patients who have a recent (< 6 months) history of liver disease, have signs that may suggest liver disease (e.g., unexplained aminotransferase elevations, jaundice), or are heavy users of alcohol.
 
-Patients who develop increased transaminase levels or signs and symptoms of active liver disease while taking pravastatin should be evaluated with a second liver function evaluation to confirm the finding and be followed thereafter with frequent liver function tests until the abnormality(ies) returns to normal.
-Should an increase in AST or ALT of 3 times the upper limit of normal or greater persist, withdrawal of pravastatin therapy is recommended.
+There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including pravastatin.
+If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with pravastatin, promptly interrupt therapy.
+If an alternate etiology is not found do not restart pravastatin.
 
 ## 5.3 Endocrine Function
 
