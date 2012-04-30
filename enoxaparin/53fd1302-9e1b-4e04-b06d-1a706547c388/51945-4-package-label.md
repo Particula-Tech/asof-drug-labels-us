@@ -1,0 +1,143 @@
+PRINCIPAL DISPLAY PANEL - 30mg/0.3mL Carton
+
+NDC 0075-0624-31
+
+Lovenox® (enoxaparin sodium injection)
+
+30mg/0.3mL [100mg/mL]
+
+Rx ONLY
+
+SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE
+
+FOR SUBCUTANEOUS INJECTION
+
+Ten 0.3mL Syringes
+
+NOVAPLUS™
+
+PRINCIPAL DISPLAY PANEL - 40mg/0.4mL Carton
+
+NDC 0075-0620-41
+
+Lovenox® (enoxaparin sodium injection)
+
+40mg/0.4mL [100mg/mL]
+
+Rx ONLY
+
+SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE
+
+FOR SUBCUTANEOUS INJECTION
+
+Ten 0.4mL Syringes
+
+NOVAPLUS™
+
+PRINCIPAL DISPLAY PANEL - 60mg/0.6mL Carton
+
+NDC 0075-0621-61
+
+Lovenox® (enoxaparin sodium injection)
+
+60mg/0.6mL [100mg/mL]
+
+Rx ONLY
+
+SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE
+
+FOR SUBCUTANEOUS INJECTION
+
+Ten 0.6mL Syringes
+
+NOVAPLUS™
+
+PRINCIPAL DISPLAY PANEL - 80mg/0.8mL Carton
+
+NDC 0075-0622-81
+
+Lovenox® (enoxaparin sodium injection)
+
+80mg/0.8mL [100mg/mL]
+
+Rx ONLY
+
+SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE
+
+FOR SUBCUTANEOUS INJECTION
+
+Ten 0.8mL Syringes
+
+NOVAPLUS™
+
+PRINCIPAL DISPLAY PANEL - 100mg/1mL Carton
+
+NDC 0075-0623-01
+
+Lovenox® (enoxaparin sodium injection)
+
+100mg/1mL
+
+Rx ONLY
+
+SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE
+
+FOR SUBCUTANEOUS INJECTION
+
+Ten 1mL Syringes
+
+NOVAPLUS™
+
+PRINCIPAL DISPLAY PANEL - 300mg/3mL Carton
+
+NDC 0075-0626-04
+
+Lovenox® (enoxaparin sodium injection)
+
+300mg/3mL [100mg/mL]
+
+Rx ONLY
+
+For Subcutabeous or Intravenous Injection
+
+Multiple Dose Vial
+
+One 3mL Vial
+
+NOVAPLUS™
+
+PRINCIPAL DISPLAY PANEL - 120mg/0.8mL Carton
+
+NDC 0075-2912-02
+
+Lovenox® (enoxaparin sodium injection)
+
+120mg/0.8mL [150mg/mL]
+
+Rx ONLY
+
+SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE
+
+FOR SUBCUTANEOUS INJECTION
+
+Ten 0.8mL Syringes
+
+NOVAPLUS™
+
+PRINCIPAL DISPLAY PANEL - 150mg/1mL Carton
+
+NDC 0075-2915-02
+
+Lovenox® (enoxaparin sodium injection)
+
+150mg/1mL
+
+Rx ONLY
+
+SINGLE DOSE SYRINGES WITH AUTOMATIC SAFETY DEVICE
+
+FOR SUBCUTANEOUS INJECTION
+
+Ten 1mL Syringes
+
+NOVAPLUS™
