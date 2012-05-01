@@ -45,8 +45,8 @@ Address medical inquiries to: (800) 542-6257 or (800) 459-9906 TTY.
 
 SPIRIVA® and HandiHaler® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH.
 
-Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright 2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT1600ZK092011 10004551/09
+IT1600ABC062012 10004551/10
 
-IT5300D 75740-04
+IT5300F 75740-05

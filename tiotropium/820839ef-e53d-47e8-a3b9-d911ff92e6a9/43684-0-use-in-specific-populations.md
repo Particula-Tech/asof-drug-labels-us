@@ -8,7 +8,7 @@ SPIRIVA HandiHaler should be used during pregnancy only if the potential benefit
 No evidence of structural alterations was observed in rats and rabbits at inhalation tiotropium doses of up to approximately 660 and 6 times the recommended human daily inhalation dose (RHDID) on a mg/m2 basis, respectively.
 However, in rats, tiotropium caused fetal resorption, litter loss, decreases in the number of live pups at birth and the mean pup weights, and a delay in pup sexual maturation at inhalation tiotropium doses of approximately 35 times the RHDID on a mg/m2 basis.
 In rabbits, tiotropium caused an increase in post-implantation loss at an inhalation dose of approximately 360 times the RHDID on a mg/m2 basis.
-Such effects were not observed at inhalation doses of approximately 4 and 80 times the RHDID on a mg/m2 basis, respectively.
+Such effects were not observed at inhalation doses of approximately 4 and 80 times the RHDID on a mg/m2 basis in rats and rabbits, respectively.
 These dose multiples may be over-estimated due to difficulties in measuring deposited doses in animal inhalation studies.
 
 ## 8.2 Labor and Delivery

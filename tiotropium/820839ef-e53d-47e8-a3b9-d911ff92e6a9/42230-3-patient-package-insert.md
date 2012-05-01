@@ -33,15 +33,15 @@ Do not use SPIRIVA HandiHaler if you:
 
 - are allergic to tiotropium, ipratropium (Atrovent®), or any of the ingredients in SPIRIVA HandiHaler.
   See the end of this leaflet for a complete list of ingredients in SPIRIVA HandiHaler.
-- Symptoms of a serious allergic reaction to SPIRIVA HandiHaler may include:
-  - raised red patches on your skin (hives)
-  - itching
-  - rash
-  - swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing
+
+Symptoms of a serious allergic reaction to SPIRIVA HandiHaler may include:
+
+- raised red patches on your skin (hives)
+- itching
+- rash
+- swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing
 
 If you have these symptoms of an allergic reaction, stop taking SPIRIVA HandiHaler and call your doctor right away or go to the nearest hospital emergency room.
-
-Allergic reactions may include itching, rash, or swelling of the lips, tongue, or throat (trouble swallowing).
 
 What should I tell my doctor before using SPIRIVA HandiHaler?
 
@@ -100,7 +100,7 @@ What should I avoid while using SPIRIVA HandiHaler?
 
 What are the possible side effects of SPIRIVA HandiHaler?
 
-SPIRIVA HandiHaler can cause serious side effects,including: Allergic reaction.
+SPIRIVA HandiHaler can cause serious side effects, including: Allergic reaction.
 Symptoms may include:
 
 - 
@@ -194,13 +194,13 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 SPIRIVA® and HandiHaler® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH.
 
-Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright 2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: November 2011
+Revised: March 2012
 
-IT1600ZK092011 10004551/09
+IT1600ABC062012 10004551/10
 
-IT5300D 75740-04
+IT5300F 75740-05
 
 Instructions for Use
 
@@ -265,10 +265,10 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 SPIRIVA® and HandiHaler® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH.
 
-Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright 2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: November 2011
+Revised: March 2012
 
-IT1600ZK092011 10004551/09
+IT1600ABC062012 10004551/10
 
-IT5300D 75740-04
+IT5300F 75740-05
