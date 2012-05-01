@@ -1,109 +1,225 @@
 # PATIENT PACKAGE INSERT
 
-PATIENT INFORMATION
+Patient Information
 
-The following wording is contained in a separate leaflet provided for patients.
+Sumatriptan Tablets USP
 
-Information for the Patient
+Read this Patient Information before you start taking sumatriptan tablets and each time you get a refill.
+There may be new information.
+This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 
-Sumatriptan Succinate Tablets
+What is the most important information I should know about sumatriptan tablets?
 
-Read this leaflet carefully before you start to take sumatriptan succinate tablets.
-Keep the leaflet for reference because it gives you a summary of important information about sumatriptan succinate tablets.
+Sumatriptan tablets can cause serious side effects, including: Heart attack and other heart problems.
+Heart problems may lead to death.
 
-Read the leaflet that comes with each refill of your prescription because there may be new information.
+Stop taking sumatriptan tablets and get emergency medical help right away if you have any of the following symptoms of a heart attack:
 
-This leaflet does not have all the information about sumatriptan succinate tablets.
-Ask your healthcare provider for more information or advice.
+- discomfort in the center of your chest that lasts for more than a few minutes, or that goes away and comes back
+- chest pain or chest discomfort that feels like uncomfortable heavy pressure, squeezing, or fullness, or pain
+- pain or discomfort in your arms, back, neck, jaw, or stomach
+- shortness of breath with or without chest discomfort
+- breaking out in a cold sweat
+- nausea or vomiting
+- feeling lightheaded
 
-What are sumatriptan succinate tablets?
+Sumatriptan tablets are not for people with risk factors for heart disease unless a heart exam is done and shows no problem.
+You have a higher risk for heart disease if you:
 
-Sumatriptan succinate tablets are a kind of medicine called a triptan.
-You should take it only if you have a prescription.
+- have high blood pressure
+- have high cholesterol levels
+- smoke
+- are overweight
+- have diabetes
+- have a family history of heart disease
+- are a female who has gone through menopause
+- are a male over age 40
 
-Sumatriptan succinate tablets are used to relieve your migraine.
-They are not used to prevent attacks or reduce the number of attacks you have.
-Use sumatriptan succinate tablets only to treat an actual migraine attack.
+Serotonin syndrome.
+Serotonin syndrome is a serious and life-threatening problem that can happen in people taking sumatriptan tablets, especially if sumatriptan tablets are used with antidepressant medicines called selective serotonin reuptake inhibitors (SSRIs) or selective norepinephrine reuptake inhibitors (SNRIs).
 
-The decision to use sumatriptan succinate tablets is one that you and your healthcare provider should make together, based on your personal needs and health.
+Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
 
-Talk with your healthcare provider before taking sumatriptan succinate tablets
+Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome:
 
-1.
-Risk factors for heart disease to tell your healthcare provider:
+- mental changes such as seeing things that are not there (hallucinations), agitation, or coma
+- fast heartbeat
+- changes in blood pressure
+- high body temperature
+- tight muscles
+- trouble walking
+- nausea, vomiting, or diarrhea
 
-Tell your healthcare provider if you have risk factors for heart disease such as: ·
+What are sumatriptan tablets?
 
-- high blood pressure
-- high cholesterol
-- being overweight
-- diabetes
-- smoking
-- strong family history of heart disease
-- you are postmenopausal
-- you are a male over 40 years of age If you do have risk factors for heart disease, your healthcare provider should check you for heart disease to see if sumatriptan succinate tablets are right for you.
-  Although most of the people who have taken sumatriptan succinate tablets have not had any serious side effects, some have had serious heart problems.
-  Deaths have been reported, but these were rare considering the extensive worldwide use of sumatriptan succinate tablets.
-  Usually, serious problems happened in people with known heart disease.
-  It was not clear whether sumatriptan succinate tablets had anything to do with these deaths.
-  2.
-  Important questions to ask yourself before you take sumatriptan succinate tablets: If the answer to any of the following questions is YES or if you do not know the answer, then please talk with your healthcare provider before you take sumatriptan succinate tablets.
-- Are you pregnant?
-  Do you think you might be pregnant?
-  Are you trying to become pregnant?
-  Are you not using adequate contraception?
-  Are you breastfeeding?
-- Do you have any chest pain, heart disease, shortness of breath, or irregular heartbeats?
-  Have you had a heart attack?
-- Do you have risk factors for heart disease (see list above)?
-- Have you had a stroke, a mini-stroke (also called a transient ischemic attack or TIA), or Raynaud syndrome?
-- Do you have high blood pressure?
-- Have you ever had to stop taking this or any other medicine because of an allergy or other problems?
-- Are you taking any other migraine medicines, including other triptans?
-  Are you taking any medicines containing ergotamine, dihydroergotamine, or methysergide?
-- Are you taking any medicine for depression or other health problems such as a monoamine oxidase inhibitor, selective serotonin reuptake inhibitor (SSRI), or serotonin norepinephrine reuptake inhibitor (SNRI)?
-  Common SSRIs are citalopram HBr (CELEXA®), escitalopram oxalate (LEXAPRO®), paroxetine (PAXIL®), fluoxetine (PROZAC®/SARAFEM®), olanzapine/fluoxetine (SYMBYAX®), sertraline (ZOLOFT®), and fluvoxamine.
-  Common SNRIs are duloxetine (CYMBALTA®) and venlafaxine (EFFEXOR®).
-- Have you had, or do you have, any disease of the liver or kidney?
-- Have you had, or do you have, epilepsy or seizures?
-- Is this headache different from your usual migraine attacks?
-  Remember, if you answered YES to any of the above questions, then talk with your healthcare provider about it.
-  Important points about sumatriptan succinate tablets 1.
-  The use of sumatriptan succinate tabletsduring pregnancy: Do not take sumatriptan succinate tablets if you are pregnant, think you might be pregnant, are trying to become pregnant, or are not using adequate contraception unless you have talked with your healthcare provider about this.
-  2.
-  How to take sumatriptan succinate tablets: For adults, the usual dose is a single tablet swallowed whole with water or other liquids.
-  Do not split tablets.
-  If your symptoms of migraine come back or if you have a partial response to the first dose, you can take a second tablet 2 hours after the first tablet, but not sooner.
-  For any attack where you have no response to the first tablet, do not take a second tablet without first talking to your healthcare provider.
-  Do not take more than a total of 200 mg of sumatriptan succinate tablets in any 24‑hour period.
-  The safety of treating an average of more than 4 headaches in a 30‑day period has not been established.
-  3.
-  What to do if you take an overdose: If you have taken more medicine than has been prescribed for you, contact either your healthcare provider, hospital emergency department, or nearest poison control center right away.
-  4.
-  How to store your medicine: Keep your medicine in a safe place where children cannot reach it.
-  It may be harmful to children.
-  Do not take tablets out of the packaging until you are ready to take them.
-  Do not store the tablets in any other container.Store your medicine away from heat and light.
-  Do not store at temperatures above 86°F (30°C) or below 36°F (2°C).The expiration date of your medicine is printed on the packaging.
-  If your medicine has expired, throw it away.If your healthcare provider decides to stop your treatment, do not keep any leftover medicine unless your healthcare provider tells you to.
-  Some possible side effects of sumatriptan succinate tablets ·
-- Some patients feel pain or tightness in the chest or throat when using sumatriptan succinate tablets.
-  If this happens to you, tell your healthcare provider before taking any more sumatriptan succinate tablets.
-  If the chest pain, tightness, or pressure is severe or does not go away, call your healthcare provider right away.
-- Call your healthcare provider right away if you have sudden and/or severe abdominal pain after you take sumatriptan succinate tablets. ·
-- Some people may have a reaction called serotonin syndrome when they take certain kinds of medicines for depression called SSRIs or SNRIs while they are taking sumatriptan succinate tablets.
-  Symptoms may include confusion, hallucinations, fast heartbeat, feeling faint, fever, sweating, muscle spasm, difficulty walking, and/or diarrhea.
-  Call your healthcare provider right away if you have any of these symptoms after taking sumatriptan succinate tablets. ·
-- Shortness of breath; wheeziness; heart throbbing; swelling of eyelids, face, or lips; or a skin rash, skin lumps, or hives happens rarely.
-  If it happens to you, then tell your healthcare provider right away.
-  Do not take any more sumatriptan succinate tablets unless your healthcare provider tells you to. ·
-- Some people may feel tingling, heat, flushing (redness of face lasting a short time), heaviness, or pressure after taking sumatriptan succinate tablets.
-  A few people may feel drowsy, dizzy, tired, or sick.
-  If you have any of these symptoms, tell your healthcare provider at your next visit. ·
-- If you feel unwell in any other way or have any symptoms that you do not understand, you should contact your healthcare provider right away.
-  To reorder additional Patient Information Leaflets, please contact Dr. Reddy’s Customer Service at 1-866-733-3952.
-  IMITREX and PAXIL are registered trademarks of GlaxoSmithKline.
-  The other brands listed are trademarks of their respective owners
+Sumatriptan tablets are a prescription medicine used to treat acute migraine headaches with or without aura in adults.
+
+Sumatriptan tablets are not used to prevent or decrease the number of migraine headaches you have.
+
+Sumatriptan tablets are not used to treat other types of headaches such as hemiplegic (that make you unable to move on one side of your body) or basilar migraines (rare form of migraine with aura).
+
+It is not known if sumatriptan tablets are safe and effective to treat cluster headaches.
+
+It is not known if sumatriptan tablets are safe and effective in children under 18 years of age.
+
+Who should not take sumatriptan tablets?
+
+Do not take sumatriptan tablets if you have:
+
+- heart problems or a history of heart problems
+- narrowing of blood vessels to your legs, arms, stomach, or kidney (peripheral vascular disease)
+- uncontrolled high blood pressure
+- severe liver problems
+- hemiplegic migraines or basilar migraines.
+  If you are not sure if you have these types of migraines, ask your healthcare provider.
+- had a stroke, transient ischemic attacks (TIAs), or problems with your blood circulation
+- taken any of the following medicines in the last 24 hours:
+- almotriptan (AXERT®)
+- eletriptan (RELPAX®)
+- frovatriptan (FROVA®)
+- naratriptan (AMERGE®)
+- rizatriptan (MAXALT®, MAXALT-MLT®)
+- sumatriptan and naproxen (TREXIMET®)
+- ergotamines (CAFERGOT®, ERGOMAR®, MIGERGOT®)
+- dihydroergotamine (D.H.E.
+  45®, MIGRANAL®)
+
+Ask your doctor if you are not sure if your medicine is listed above.
+
+- an allergy to sumatriptan or any of the ingredients in sumatriptan tablets.
+  See the end of this leaflet for a complete list of ingredients in sumatriptan tablets.
+
+What should I tell my healthcare provider before taking sumatriptan tablets?
+
+Before you take sumatriptan tablets, tell your healthcare provider about all of your medical conditions, including if you:
+
+- have high blood pressure
+- have high cholesterol
+- have diabetes
+- smoke
+- are overweight
+- are a female who has gone through menopause
+- have heart disease or a family history of heart disease or stroke
+- have kidney problems
+- have liver problems
+- have had epilepsy or seizures
+- are not using effective birth control
+- are pregnant or plan to become pregnant.
+  It is not known if sumatriptan tablets will harm your unborn baby.
+- are breastfeeding or plan to breastfeed.
+  Sumatriptan tablets passes into your breast milk and may harm your baby.
+  Talk with your healthcare provider about the best way to feed your baby if you take sumatriptan tablets.
+
+Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+
+Sumatriptan tablets and other medicines may affect each other, causing side effects.
+
+Especially tell your healthcare provider if you take anti-depressant medicines called:
+
+- selective serotonin reuptake inhibitors (SSRIs)
+- serotonin norepinephrine reuptake inhibitors (SNRIs)
+- monoamine oxidase inhibitors (MAOIs)
+
+Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
+
+Know the medicines you take.
+Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine.
+
+How should I take sumatriptan tablets?
+
+- Certain people should take their first dose of sumatriptan tablets in their healthcare provider’s office or in another medical setting.
+  Ask your healthcare provider if you should take your first dose in a medical setting.
+- Take sumatriptan tablets exactly as your healthcare provider tells you to take it.
+- Your healthcare provider may change your dose.
+  Do not change your dose without first talking to your healthcare provider.
+- Take sumatriptan tablets with water or other liquids.
+- If you do not get any relief after your first sumatriptan tablet, do not take a second tablet without first talking with your healthcare provider.
+- If your headache comes back or you only get some relief from your headache, you can take a second tablet 2 hours after the first tablet
+- Do not take more than a total of 200 mg of sumatriptan tablets in a 24-hour period.
+- Some people who take too many sumatriptan tablets may have worse headaches (medication overuse headache).
+  If your headaches get worse, your healthcare provider may decide to stop your treatment with sumatriptan tablets.
+- If you take too much sumatriptan tablets, call your healthcare provider or go to the nearest hospital emergency room right away.
+- You should write down when you have headaches and when you take sumatriptan tablets so you can talk with your healthcare provider about how sumatriptan tablets are working for you.
+
+What should I avoid while taking sumatriptan tablets?
+
+Sumatriptan tablets can cause dizziness, weakness, or drowsiness.
+If you have these symptoms, do not drive a car, use machinery, or do anything where you need to be alert.
+
+What are the possible side effects of sumatriptan tablets?
+Sumatriptan tablets may cause serious side effects.
+See “What is the most important information I should know about sumatriptan tablets?”
+
+These serious side effects include:
+
+- changes in color or sensation in your fingers and toes (Raynaud’s syndrome)
+- stomach and intestinal problems (gastrointestinal and colonic ischemic events).
+  Symptoms of gastrointestinal and colonic ischemic events include:
+- sudden or severe stomach pain
+- stomach pain after meals
+- weight loss
+- nausea or vomiting
+- constipation or diarrhea
+- bloody diarrhea
+- fever
+- problems with blood circulation to your legs and feet (peripheral vascular ischemia).
+  Symptoms of peripheral vascular ischemia include:
+- cramping and pain in your legs or hips
+- feeling of heaviness or tightness in your leg muscles
+- burning or aching pain in your feet or toes while resting
+- numbness, tingling, or weakness in your legs
+- cold feeling or color changes in 1 or both legs or feet
+- shortness of breath or wheezing
+- hives (itchy bumps); swelling of your tongue, mouth, or throat
+
+The most common side effects of sumatriptan tablets include:
+
+- tingling or numbness in your fingers or toes
+- dizziness
+- warm, hot, burning feeling to your face (flushing)
+- feeling weak, drowsy, or tired
+
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+
+These are not all the possible side effects of sumatriptan tablets.
+For more information, ask your healthcare provider or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+How should I store Sumatriptan Tablets?
+
+Store at 20to 25°C (68 – 77°F) [See USP Controlled Room Temperature].
+
+Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
+
+Keep sumatriptan tablets and all medicines out of the reach of children.
+
+General information about the safe and effective use of sumatriptan tablets.
+
+Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets.
+Do not use sumatriptan tablets for a condition for which it was not prescribed.
+Do not give sumatriptan tablets to other people, even if they have the same symptoms you have.
+It may harm them.
+
+This Patient Information leaflet summarizes the most important information about sumatriptan tablets.
+If you would like more information, talk with your healthcare provider.
+You can ask your healthcare provider or pharmacist for information about sumatriptan tablets that is written for healthcare professionals.
+
+For more information, call 1-888-375-3784.
+
+What are the ingredients in Sumatriptan Tablets?
+
+Active ingredients: Sumatriptan succinate
+
+Inactive ingredients: croscarmellose sodium, lactose anhydrous, lactose monohydrate, magnesium stearate, mannitol, microcrystalline cellulose, talc, titanium dioxide and triacetin.
+
+To reorder additional Patient Information Leaflets, please contact Dr. Reddy’s Customer Service at 1-866-733-3952.
+
+IMITREX, AMERGE, and TREXIMET are registered trademarks of GlaxoSmithKline.
+The other brands listed are trademarks of their respective owners.
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 RX Only
 
@@ -113,4 +229,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachepalli – 502 325 INDIA
 
-Revised: 0210
+Revised: 0312

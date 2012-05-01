@@ -14,14 +14,14 @@ In the cat, sumatriptan selectively constricts the carotid arteriovenous anastom
 
 ## Pharmacokinetics
 
-The mean maximum concentration following oral dosing with 25 mg is 18 ng/mL (range, 7 to 47 ng/mL) and 51 ng/mL (range, 28 to 100 ng/mL) following oral dosing with 100 mg of sumatriptan.
+The mean maximum concentration following oral dosing with 25 mg is 18 ng/mL (range: 7 to 47 ng/mL) and 51 ng/mL (range: 28 to 100 ng/mL) following oral dosing with 100 mg of sumatriptan.
 This compares with a Cmax of 5 and 16 ng/mL following dosing with a 5 and 20 mg intranasal dose, respectively.
-The mean Cmax following a 6 mg subcutaneous injection is 71 ng/mL (range, 49 to 110 ng/mL).
+The mean Cmax following a 6 mg subcutaneous injection is 71 ng/mL (range: 49 to 110 ng/mL).
 The bioavailability is approximately 15%, primarily due to presystemic metabolism and partly due to incomplete absorption.
 The Cmax is similar during a migraine attack and during a migraine-free period, but the tmax is slightly later during the attack, approximately 2.5 hours compared to 2.0 hours.
 When given as a single dose, sumatriptan displays dose proportionality in its extent of absorption (area under the curve [AUC]) over the dose range of 25 to 200 mg, but the Cmax after 100 mg is approximately 25% less than expected (based on the 25 mg dose).
 
-A food effect study involving administration of sumatriptan succinate tablets 100 mg to healthy volunteers under fasting conditions and with a high-fat meal indicated that the Cmax and AUC were increased by 15% and 12 %, respectively, when administered in the fed state.
+A food effect study involving administration of sumatriptan tablets 100 mg to healthy volunteers under fasting conditions and with a high-fat meal indicated that the Cmax and AUC were increased by 15% and 12 %, respectively, when administered in the fed state.
 
 Plasma protein binding is low (14% to 21%).
 The effect of sumatriptan on the protein binding of other drugs has not been evaluated, but would be expected to be minor, given the low rate of protein binding.
