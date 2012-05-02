@@ -66,4 +66,4 @@ Table 6 Center INR Control in the RE-LY Study
 | All-cause mortality | 0.78 (0.66, 0.93) | 1.01 (0.84, 1.23) |
 | Major bleed | 0.82 (0.68, 0.99) | 1.08 (0.89, 1.31) |
 
-The risk of myocardial infarction was numerically greater in patients who received PRADAXA (1.5% for 150 mg dose) than in those who received warfarin (1.1%).
+In RE-LY, a higher rate of clinical myocardial infarction was reported in patients who received PRADAXA (0.7 per 100 patient-years for 150 mg dose) than in those who received warfarin (0.6).

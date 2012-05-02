@@ -54,6 +54,8 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Copyright 2012 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-05 IT5060MA042012
+75461-06 IT5060ND262012
 
-75457-05 IT5400K
+75457-06 IT5400L
+
+301841-01 IT5624A
