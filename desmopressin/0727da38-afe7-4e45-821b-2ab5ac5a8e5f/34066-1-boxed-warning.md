@@ -1,0 +1,1 @@
+DDAVP is not indicated for the treatment of hemophilia A with factor VIII coagulant activity levels equal to or less than 5%, or for the treatment of hemophilia B, or in patients who have factor VIII antibodies.
