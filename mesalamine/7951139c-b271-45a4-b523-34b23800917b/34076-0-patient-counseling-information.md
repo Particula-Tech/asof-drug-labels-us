@@ -25,4 +25,4 @@ Raleigh, NC 27615
 
 Product protected by U.S. Patent No. 6,551,620 and U.S. Patent No. 7,547,451
 
-VENART-113-1
+VENART-113-2
