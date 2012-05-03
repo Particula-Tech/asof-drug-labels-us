@@ -39,7 +39,7 @@ In studies of mice, rats, and rabbits, doses of lactulose solution up to 6 or 12
 ### Teratogenic Effects
 
 Pregnancy category B. Reproduction studies have been performed in mice, rats and rabbits at doses up to 3 or 6 times the usual human oral dose and have revealed no evidence of impaired fertility or harm to the fetus due to lactulose.
-There are, however, no adequate and wellcontrolled studies in pregnant women.
+There are, however, no adequate and well controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 ## Nursing Mothers

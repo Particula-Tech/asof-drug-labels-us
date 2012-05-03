@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA078430"
+  ],
   "inn": "anastrozole",
-  "labeler": "ANI Pharmaceuticals Inc.",
+  "labeler": "ANIP Acquisition Company",
   "package_ndcs": [
     "62559-5501-3",
     "62559-5501-6",
     "62559-5501-8"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "lactulose",
+      "name": "Lactulose"
+    }
+  ],
   "setid": "acbfaaa9-503c-4691-9828-76a7146ed6de",
   "source": "dailymed"
 }
