@@ -2,9 +2,9 @@ PRINCIPAL DISPLAY PANEL - 25 mg
 
 NDC 0378-0222-01
 
-CHLORTHALIDONE TABLETS, USP 25 mg
+Chlorthalidone Tablets, USP 25 mg
 
-100 TABLETS (Rx only)
+Rx only 100 TABLETS
 
 Each tablet contains: Chlorthalidone, USP 25 mg
 
@@ -15,23 +15,25 @@ Keep container tightly closed.
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 
 Protect from light.
 
 Usual Adult Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0222A9
+www.mylan.com
+
+RM0222A10
 
 PRINCIPAL DISPLAY PANEL - 50 mg
 
 NDC 0378-0213-01
 
-CHLORTHALIDONE TABLETS, USP 50 mg
+Chlorthalidone Tablets, USP 50 mg
 
-100 TABLETS (Rx only)
+Rx only 100 TABLETS
 
 Each tablet contains: Chlorthalidone, USP 50 mg
 
@@ -42,12 +44,14 @@ Keep container tightly closed.
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP for Controlled Room Temperature.]
+[See USP Controlled Room Temperature.]
 
 Protect from light.
 
 Usual Adult Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM0213A9
+www.mylan.com
+
+RM0213A10
