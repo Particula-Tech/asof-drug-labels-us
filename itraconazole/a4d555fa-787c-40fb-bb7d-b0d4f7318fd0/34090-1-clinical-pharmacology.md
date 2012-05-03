@@ -21,7 +21,7 @@ The respective pharmacokinetic parameters for itraconazole are presented in the 
 | Tmax (hours) | 3.2 ± 1.3 | 4.0 ± 1.1 | 3.3 ± 1.0 | 4.7 ± 1.4 |
 | AUC0–∞ (ng∙h/mL) | 567 ± 264 | 1899 ± 838 | 722 ± 289 | 5211 ± 2116 |
 
-Doubling the SPORANOX® dose results in approximately a three-fold increase in the itraconazole plasma concentrations.
+Doubling the SPORANOX® dose results in approximately a three-fold increase in the itraconazole plasma concentrations in the dose range of 50 mg to 200 mg.
 
 Values given in the table below represent data from a crossover pharmacokinetics study in which 27 healthy male volunteers each took a single 200-mg dose of SPORANOX® Capsules with or without a full meal:
 
@@ -92,6 +92,6 @@ Data are not available in cirrhotic patients during long-term use of itraconazol
 ### Decreased Cardiac Contractility
 
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
-In a healthy volunteer study of SPORANOX® Injection (intravenous infusion), transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
+In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
 If signs or symptoms of congestive heart failure appear during administration of SPORANOX® Capsules, SPORANOX® should be discontinued.
 (See CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions and ADVERSE REACTIONS: Post-marketing Experience for more information.)

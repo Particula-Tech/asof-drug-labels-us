@@ -1,6 +1,6 @@
 © Ortho-McNeil-Janssen Pharmaceuticals, Inc 2001
 
-Revised June 2011
+Revised April 2012
 
 Capsule contents manufactured by: Janssen Pharmaceutica N.V.
 Olen, Belgium

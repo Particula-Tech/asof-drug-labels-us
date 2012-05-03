@@ -16,13 +16,9 @@ A daily dose of 200 to 400 mg is recommended.
 
 ## Treatment in Life-Threatening Situations
 
-In life-threatening situations, a loading dose should be used whether given as oral capsules or intravenously.
+In life-threatening situations, a loading dose should be used.
 
-- IV Injection: the recommended intravenous dose is 200 mg b.i.d. for four consecutive doses, followed by 200 mg once daily thereafter.
-  Each intravenous dose should be infused over 1 hour.
-  The safety and efficacy of SPORANOX® Injection administered for greater than 14 days is not known.
-  See complete prescribing information for SPORANOX® (itraconazole) Injection.
-- Capsules: although clinical studies did not provide for a loading dose, it is recommended, based on pharmacokinetic data, that a loading dose of 200 mg (2 capsules) three times daily (600 mg/day) be given for the first 3 days of treatment.
+Although clinical studies did not provide for a loading dose, it is recommended, based on pharmacokinetic data, that a loading dose of 200 mg (2 capsules) three times daily (600 mg/day) be given for the first 3 days of treatment.
 
 Treatment should be continued for a minimum of three months and until clinical parameters and laboratory tests indicate that the active fungal infection has subsided.
 An inadequate period of treatment may lead to recurrence of active infection.

@@ -65,6 +65,7 @@ Never take SPORANOX® if you:
   - dofetilide (such as Tikosyn™)
   - cisapride (such as Propulsid®)
   - pimozide (such as Orap®)
+  - methadone (such as Dolophine®)
   - levacetylmethadol (such as Orlaam®)
 - are taking any of the following medicines:
   - lovastatin (such as Mevacor®, Advicor®, Altocor™)
@@ -72,6 +73,7 @@ Never take SPORANOX® if you:
   - triazolam (such as Halcion®)
   - midazolam (such as Versed®)
   - nisoldipine (such as Sular®)
+  - felodipine (such as Plendil®)
   - ergot alkaloids (such as Migranal®, Ergonovine, Cafergot®, Methergine®)
 - have ever had an allergic reaction to itraconazole or any of the other ingredients in SPORANOX® Capsules.
   Ask your doctor or pharmacist for a list of these ingredients.
@@ -105,7 +107,7 @@ If you haven't had liver problems, your doctor may recommend blood tests to chec
 
 If you forget to take or miss doses of SPORANOX®, ask your doctor what you should do with the missed doses.
 
-THE SPORANOX PulsePak®
+THE SPORANOX PULSEPAK®
 
 If you use the PulsePak®, you will take SPORANOX® for 1 week and then take no SPORANOX® for the next 3 weeks before repeating the 1-week treatment.
 This is called "pulse dosing."
@@ -184,10 +186,10 @@ This patient information has been approved by the U.S. Food and Drug Administrat
 The following are registered trademarks of their respective manufacturers:
 
 Mevacor® (Merck & Co., Inc.), Advicor® (Kos Pharmaceuticals, Inc.), Altocor™ (Andrx Laboratories), Zocor® (Merck & Co., Inc.), Halcion® (Pharmacia), Versed® (Roche Pharmaceuticals), Cardioquin® (The Purdue Frederick Company), Quinaglute® (Berlex Laboratories), Quinidex® (A.H.
-Robins), Tikosyn™ (Pfizer, Inc.), Propulsid® (Janssen Pharmaceutica Products, L.P.), Orlaam® (Roxane Laboratories), Migranal® (Xcel Pharmaceuticals), Ergonovine (PDRX Pharmaceuticals), Cafergot® (Novartis Pharmaceuticals Corporation), Methergine® (Novartis Pharmaceuticals Corporation), Orap® (Gate Pharmaceuticals), and Sular® (Sciele Pharma, Inc.)
+Robins), Tikosyn™ (Pfizer, Inc.), Propulsid® (Janssen Pharmaceutica Products, L.P.), Orlaam® (Roxane Laboratories), Migranal® (Xcel Pharmaceuticals), Ergonovine (PDRX Pharmaceuticals), Cafergot® (Novartis Pharmaceuticals Corporation), Methergine® (Novartis Pharmaceuticals Corporation), Orap® (Gate Pharmaceuticals), Sular® (Sciele Pharma, Inc.), Dolophine® (PD-Rx Pharmaceuticals, Inc), and Plendil® (AstraZeneca LP).
 
 Corporate Logo
 
 © Ortho-McNeil-Janssen Pharmaceuticals, Inc 2001
 
-Printed in USA/ Revised: June 2011
+Printed in USA/ Revised: April 2012
