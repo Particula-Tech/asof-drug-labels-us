@@ -1,22 +1,6 @@
-# DRUG ABUSE AND DEPENDENCE
+MEDICATION GUIDE
 
-The abuse and dependence potential of levetiracetam has not been evaluated in human studies.
-
-# FOR MEDICAL INFORMATION
-
-Contact: Dr. Reddy’s Medical Information Department
-
-Phone: 1-888-375-3784
-
-Fax: 704-496-6082
-
-Mailing Address: MEDINFO@DRREDDYS.COM
-
-(Monitored continuously from MONDAY TO FRIDAY ONLY)
-
-# MEDICATION GUIDE
-
-Levetiracetam Tablets, 1000 mg
+Levetiracetam Tablets USP, 1000 mg
 
 Read this Medication Guide before you start taking levetiracetam tablets and each time you get a refill.
 There may be new information.
@@ -51,24 +35,24 @@ Do not stop levetiracetam tablets without first talking to a healthcare provider
 How can I watch for early symptoms of suicidal thoughts and actions?
 
 - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-  Keep all follow-up visits with your healthcare provider as scheduled.
-  Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+- Keep all follow-up visits with your healthcare provider as scheduled.
+- Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
 What are levetiracetam tablets?
 
-Levetiracetam tablets are a prescription medicine taken by mouth that are used with other medicines to treat:
+Levetiracetam tablets are a prescription medicine taken by mouth that is used with other medicines to treat:
 
-- partial onset seizures in people 4 years of age and older with epilepsy.
+- partial onset seizures in people 1 month of age and older with epilepsy
 - myoclonic seizures in people 12 years of age and older with juvenile myoclonic epilepsy
 - primary generalized tonic-clonic seizures in people 6 years of age and older with certain types of generalized epilepsy.
 
-It is not known if levetiracetam tablets are safe or effective in children under 4 years of age.
+It is not known if levetiracetam tablets are is safe or effective in children under 1 month of age.
 
 Before taking your medicine, make sure you have received the correct medicine.
 Compare the name above with the name on your bottle and the appearance of your medicine with the description of levetiracetam tablets provided below.
-Contact your pharmacist immediately if you believe a dispensing error may have occurred.
+Tell your pharmacist immediately if you think you have been given the wrong medicine.
 
-Levetiracetam tablets, 1000 mg are beige, oval shaped, biconvex, film coated tablets debossed with '248' on one side and 'RDY' on other side, 'RD' and 'Y' separated with bisect line.
+Levetiracetam tablets USP, 1000 mg are beige, oval shaped, biconvex, film coated tablets debossed with '248' on one side and 'RDY' on other side, 'RD' and 'Y' separated with bisect line.
 
 What should I tell my healthcare provider before starting levetiracetam tablets?
 
@@ -81,6 +65,7 @@ Before taking levetiracetam tablets, tell your healthcare provider about all of 
   You and your healthcare provider will have to decide if you should take levetiracetam tablets while you are pregnant.
   If you become pregnant while taking levetiracetam tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
+  The purpose of this registry is to collect information about the safety of levetiracetam tablets and other antiepileptic medicine during pregnancy.
 - are breast feeding.
   Levetiracetam tablets can pass into your milk and may harm your baby.
   You and your healthcare provider should discuss whether you should take levetiracetam tablets or breast-feed; you should not do both.
@@ -130,19 +115,24 @@ Call your healthcare provider right away if you have any of these symptoms:
   A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.
 - extreme sleepiness, tiredness, and weakness
 - problems with muscle coordination (problems walking and moving)
+- a skin rash.
+  Serious skin rashes can happen after you start taking levetiracetam tablets.
+  There is no way to tell if a mild rash will become a serious reaction.
 
 The most common side effects seen in people who take levetiracetam tablets include:
 
 - sleepiness
 - weakness
-- dizziness
 - infection
+- dizziness
 
 The most common side effects seen in children who take levetiracetam tablets include, in addition to those listed above:
 
-- accidental injury
+- tiredness
+- acting aggressive
+- nasal congestion
+- decreased appetite
 - irritability
-- hostility
 
 These side effects can happen at any time but happen more often within the first 4 weeks of treatment except for infection.
 
@@ -156,7 +146,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store levetiracetam tablets?
 
-- Store levetiracetam tablets at 20° to 25°C (68° to 77°F);excursions permitted to 15° to 30°C (59° to 86°F).
+- Store levetiracetam tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) away from heat and light.
 - Keep levetiracetam tablets and all medicines out of the reach of children.
 
 General information about levetiracetam tablets.
@@ -165,15 +155,19 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not use levetiracetam tablets for a condition for which it was not prescribed.
 Do not give levetiracetam tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
+
 This Medication Guide summarizes the most important information about levetiracetam tablets.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about levetiracetam tablets that is written for health professionals.
+You can also get information about levetiracetam tablets, call 1-888-375-3784.
 
 What are the ingredients of levetiracetam tablets?
 
-Levetiracetam tablet: active ingredient: levetiracetam
+Levetiracetam tablets
 
-Inactive ingredients: magnesium stearate, povidone, and film coating agent instacoat universal ICG-U-10052 beige containing hypromellose 3cp, hypromellose 6cp, iron oxide yellow, iron oxide red, polyethylene glycol 400, polysorbate 80 and titanium dioxide.
+active ingredient: levetiracetam
+
+Inactive ingredients: magnesium stearate, povidone, and film coating agent contains hypromellose 3cp, hypromellose 6cp, iron oxide yellow, iron oxide red, polyethylene glycol 400, polysorbate 80 and titanium dioxide.
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
@@ -187,4 +181,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachepalli – 502 325 INDIA
 
-Revised: 0910
+Revised: 0212

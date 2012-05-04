@@ -1,5 +1,5 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
+# Package Label.Principal Display Panel
 
-Levetiracetam Tablets 1000 mg - 100's Container
+Levetiracetam Tablets USP, 1000 mg - Container Label
 
-# Levetiracetam Tablets 1000 mg - Carton
+Levetiracetam Tablets USP, 1000 mg - Carton label
