@@ -14,6 +14,6 @@ TAXOTERE (docetaxel) Injection Concentrate is a sterile, non-pyrogenic, pale yel
 
 Each mL contains 20 mg docetaxel (anhydrous) in 0.54 grams polysorbate 80 and 0.395 grams dehydrated alcohol solution.
 
-TAXOTERE is available in single use vials containing 20 mg (1 mL) or 80 mg (4 mL) docetaxel (anhydrous).
+TAXOTERE is available in single use vials containing 20 mg (1 mL), 80 mg (4 mL) or 160 mg (8 mL) docetaxel (anhydrous).
 
 TAXOTERE Injection Concentrate requires NO prior dilution with a diluent and is ready to add to the infusion solution.
