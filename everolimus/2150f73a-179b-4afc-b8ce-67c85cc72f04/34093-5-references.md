@@ -11,7 +11,7 @@
 - American Society of Health-System Pharmacists.
   ASHP guidelines on handling hazardous drugs.
   Am J Health-Syst Pharm.
-  (2006) 63:1172-1193.
+  (2006) 63:1172-93.
 - Polovich, M., White, J. M., & Kelleher, L.O.
   (eds.)
   2005.

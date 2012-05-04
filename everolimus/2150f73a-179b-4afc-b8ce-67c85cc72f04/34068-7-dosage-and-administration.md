@@ -3,19 +3,18 @@
 AFINITOR should be administered orally once daily at the same time every day, either consistently with food or consistently without food [see Clinical Pharmacology (12.3)].
 
 AFINITOR tablets should be swallowed whole with a glass of water.
-The tablets should not be chewed or crushed.
 For patients unable to swallow tablets, AFINITOR tablet(s) should be dispersed completely in a glass of water (containing approximately 30 mL) by gently stirring, immediately prior to drinking.
 The glass should be rinsed with the same volume of water and the rinse should be completely swallowed to ensure that the entire dose is administered.
 
 Continue treatment as long as clinical benefit is observed or until unacceptable toxicity occurs.
 
-## 2.1 Recommended Dose in Advanced Pancreatic Neuroendocrine Tumors and Advanced Renal Cell Carcinoma
+## 2.1 Recommended Dose in Advanced PNET, Advanced RCC, and Renal Angiomyolipoma with TSC
 
-The recommended dose of AFINITOR for treatment of advanced PNET and advanced RCC is 10 mg, to be taken once daily.
+The recommended dose of AFINITOR is 10 mg, to be taken once daily.
 
-Continue treatment as long as clinical benefit is observed or until unacceptable toxicity occurs.
+## 2.2 Dose Modifications in Advanced PNET, Advanced RCC, and Renal Angiomyolipoma with TSC
 
-## 2.2 Dose Modifications in Advanced Pancreatic Neuroendocrine Tumors and Advanced Renal Cell Carcinoma
+Adverse Reactions
 
 Management of severe or intolerable adverse reactions may require temporary dose reduction and/or interruption of AFINITOR therapy.
 If dose reduction is required, the suggested dose is 5 mg daily [see Warnings and Precautions (5.1)].
@@ -47,12 +46,12 @@ If the moderate inhibitor is discontinued, the AFINITOR dose should be returned 
 Strong CYP3A4 Inducers
 
 Avoid the use of concomitant strong CYP3A4 inducers (e.g., phenytoin, carbamazepine, rifampin, rifabutin, rifapentine, phenobarbital).
-If patients require co-administration of a strong CYP3A4 inducer, consider increasing the AFINITOR dose from 10 mg daily up to 20 mg daily (based on pharmacokinetic data), using 5 mg increments.
-This dose of AFINITOR is predicted to adjust the AUC to the range observed without inducers.
+If patients require co-administration of a strong CYP3A4 inducer, consider increasing the AFINITOR dose from 10 mg daily up to 20 mg daily, using 5 mg increments.
+This dose of AFINITOR is predicted, based on pharmacokinetic data, to adjust the AUC to the range observed without inducers.
 However, there are no clinical data with this dose adjustment in patients receiving strong CYP3A4 inducers.
 If the strong inducer is discontinued, the AFINITOR dose should be returned to the dose used prior to initiation of the strong CYP3A4 inducer [see Warnings and Precautions (5.6) and Drug Interactions (7.2)].
 
-Grapefruit, grapefruit juice and other foods that are known to inhibit cytochrome P450 and PgP activity may increase everolimus exposures and should be avoided during treatment.
+Grapefruit, grapefruit juice, and other foods that are known to inhibit cytochrome P450 and PgP activity may increase everolimus exposures and should be avoided during treatment.
 St. John’s Wort (Hypericum perforatum) may decrease everolimus exposure unpredictably and should be avoided.
 
 ## 2.3 Recommended Dose in Subependymal Giant Cell Astrocytoma
@@ -79,6 +78,8 @@ The optimal duration of therapy for patients with SEGA is unknown.
 
 ## 2.4 Dose Modifications in Subependymal Giant Cell Astrocytoma
 
+Adverse Reactions
+
 Management of severe or intolerable adverse reactions may require temporary dose reduction and/or interruption of AFINITOR therapy [see Warnings and Precautions (5.1)].
 If dose reduction is required for patients receiving 2.5 mg daily, consider alternate day dosing.
 
@@ -93,7 +94,7 @@ Dosing should be titrated to attain trough concentrations of 5 to 10 ng/mL [see 
 
 CYP3A4 and/or P-glycoprotein (PgP) Inhibitors
 
-Avoid the use of strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, nefazodone, saquinavir, telithromycin, ritonavir, indinavir, nelfinavir, voriconazole) [see Warnings and Precautions (5.5) and Drug Interactions (7.1)].
+Avoid the use of strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, nefazodone, saquinavir, telithromycin, ritonavir, indinavir, nelfinavir, voriconazole) [see Warnings and Precautions (5.6) and Drug Interactions (7.1)].
 
 Use caution when co-administered with moderate CYP3A4 and/or PgP inhibitors (e.g., amprenavir, fosamprenavir, aprepitant, erythromycin, fluconazole, verapamil, diltiazem).
 If patients require co-administration of a moderate CYP3A4 and/or PgP inhibitor, reduce the AFINITOR dose by approximately 50% to maintain trough concentrations of 5 to 10 ng/mL.
@@ -109,7 +110,7 @@ For patients requiring a concomitant strong CYP3A4 inducer, double the AFINITOR 
 Subsequent dosing should be individualized based on therapeutic drug monitoring.
 If the strong inducer is discontinued, the AFINITOR dose should be returned to the dose used prior to initiation of the strong CYP3A4 inducer and the everolimus trough concentrations should be assessed approximately 2 weeks later [see Dosage and Administration (2.5), Warnings and Precautions (5.6) and Drug Interactions (7.2)].
 
-Grapefruit, grapefruit juice and other foods that are known to inhibit cytochrome P450 and PgP activity may increase everolimus exposures and should be avoided during treatment.
+Grapefruit, grapefruit juice, and other foods that are known to inhibit cytochrome P450 and PgP activity may increase everolimus exposures and should be avoided during treatment.
 St. John’s Wort (Hypericum perforatum) may decrease everolimus exposure unpredictably and should be avoided.
 
 ## 2.5 Therapeutic Drug Monitoring in Subependymal Giant Cell Astrocytoma
@@ -119,11 +120,11 @@ Trough concentrations should be assessed approximately 2 weeks after commencing 
 Dosing should be titrated to attain trough concentrations of 5 to 10 ng/mL.
 
 There is limited safety experience with patients having trough concentrations > 10 ng/mL.
-If concentrations are between 10 to 15 ng/mL, and the patient has demonstrated adequate tolerability and tumor response, no dose reductions are needed.
+If concentrations are between 10 and 15 ng/mL, and the patient has demonstrated adequate tolerability and tumor response, no dose reductions are needed.
 The dose of AFINITOR should be reduced if trough concentrations > 15 ng/mL are observed.
 
 If concentrations are < 5 ng/mL, the daily dose may be increased by 2.5 mg every 2 weeks, subject to tolerability.
 Daily dose may be reduced by 2.5 mg every 2 weeks to attain a target of 5 to 10 ng/mL.
 If dose reduction is required for patients receiving 2.5 mg daily, alternate day dosing should be used.
 
-Trough concentrations should be assessed approximately 2 weeks after any change in dose, after an initiation or change in co-administration of CYP3A4 and/or PgP inducers or inhibitors, or after any change in hepatic status (Child-Pugh Classification) [see Dosage and Administration (2.4), Warnings and Precautions (5.6), Drug Interactions (7.1, 7.2)].
+Trough concentrations should be assessed approximately 2 weeks after any change in dose, after an initiation or change in co-administration of CYP3A4 and/or PgP inducers or inhibitors, or after any change in hepatic status (Child-Pugh Classification) [see Dosage and Administration (2.4), Warnings and Precautions (5.6, 5.7), Drug Interactions (7.1, 7.2)].

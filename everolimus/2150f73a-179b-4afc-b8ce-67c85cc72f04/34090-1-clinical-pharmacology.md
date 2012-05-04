@@ -11,7 +11,7 @@ Inhibition of mTOR by everolimus has been shown to reduce cell proliferation, an
 
 Two regulators of mTORC1 signaling are the oncogene suppressors tuberin-sclerosis complexes 1 and 2 (TSC1, TSC2).
 Loss or inactivation of either TSC1 or TSC2 leads to activation of downstream signaling.
-In tuberous sclerosis (TS), a genetic disorder, inactivating mutations in either the TSC1 or the TSC2 gene lead to hamartoma formation throughout the body.
+In TSC, a genetic disorder, inactivating mutations in either the TSC1 or the TSC2 gene lead to hamartoma formation throughout the body.
 
 ## 12.2 Pharmacodynamics
 
@@ -74,10 +74,10 @@ Compared to normal subjects (N=13), there was a 1.8-fold, 3.2-fold, and 3.6-fold
 AUC) for subjects with mild (Child-Pugh class A, N=6), moderate (Child-Pugh class B, N=9), and severe (Child-Pugh class C, N=6) hepatic impairment, respectively.
 In another study, the average AUC of everolimus in eight subjects with moderate hepatic impairment (Child-Pugh class B) was twice that found in eight subjects with normal hepatic function.
 
-For advanced PNET and advanced RCC patients with severe hepatic impairment, AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
+For advanced PNET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment, AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
 For patients with moderate or mild hepatic impairment, a dose reduction is recommended [see Dosage and Administration (2.2)].
 
-For SEGA patients with mild (Child-Pugh class A) or moderate hepatic impairment (Child-Pugh class B), adjustment to the starting dose may not be needed; however, subsequent dosing should be individualized based on therapeutic drug monitoring [see Dosage and Administration (2.5)].
+For SEGA patients with mild (Child-Pugh class A) or moderate hepatic impairment (Child-Pugh class B), adjustment to the starting dose may not be needed; however, subsequent dosing should be individualized based on therapeutic drug monitoring [see Dosage and Administration (2.4, 2.5)].
 For SEGA patients with severe hepatic impairment (Child-Pugh class C), AFINITOR should not be used.
 
 Effects of Age and Gender

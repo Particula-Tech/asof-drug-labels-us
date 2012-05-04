@@ -17,7 +17,7 @@ Patients should be aware of the signs and symptoms of infection and should repor
 Inform patients of the possibility of developing mouth ulcers, stomatitis, and oral mucositis.
 In such cases, mouthwashes and/or topical treatments are recommended, but these should not contain alcohol or peroxide [see Warnings and Precautions (5.3)].
 
-## 17.4 Renal Failure Events
+## 17.4 Renal Failure
 
 Inform patients of the possibility of developing kidney failure.
 In some cases kidney failure has been severe and occasionally fatal.
@@ -30,8 +30,7 @@ Inform patients of the need to monitor blood chemistry and hematology prior to t
 ## 17.6 Drug-drug Interactions
 
 Advise patients to inform their healthcare providers of all concomitant medications, including over-the-counter medications and dietary supplements.
-Inform the patients to avoid concomitant administration of strong CYP3A4 inhibitors or inducers while on AFINITOR treatment.
-[see Dosage and Administration (2.2, 2.4), Warnings and Precautions (5.6), Drug Interactions (7.1, 7.2)].
+Inform the patients to avoid concomitant administration of strong CYP3A4 inhibitors or inducers while on AFINITOR treatment [see Dosage and Administration (2.2, 2.4), Warnings and Precautions (5.6), Drug Interactions (7.1, 7.2)].
 
 ## 17.7 Vaccinations
 
@@ -44,7 +43,6 @@ Advise female patients of childbearing potential that AFINITOR may cause fetal h
 ## 17.9 Dosing Instructions
 
 Inform patients to take AFINITOR orally once daily at the same time every day, either consistently with food or consistently without food.
-The tablets should not be crushed or chewed.
 AFINITOR should be swallowed whole with a glass of water.
 For patients unable to swallow tablets, AFINITOR tablet(s) should be dispersed completely in a glass of water (containing approximately 30 mL) by gently stirring, immediately prior to drinking.
 The glass should be rinsed with the same volume of water and the rinse should be completely swallowed to ensure that the entire dose is administered.

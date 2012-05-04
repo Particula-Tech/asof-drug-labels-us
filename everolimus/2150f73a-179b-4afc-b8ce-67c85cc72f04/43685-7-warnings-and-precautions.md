@@ -3,8 +3,8 @@
 ## 5.1 Non-infectious Pneumonitis
 
 Non-infectious pneumonitis is a class effect of rapamycin derivatives, including AFINITOR.
-Non-infectious pneumonitis was reported in 11-14% of patients treated with AFINITOR.
-The incidence of Common Terminology Criteria (CTC) grade 3 and 4 non-infectious pneumonitis was 1.6-4.0% and 0.1%, respectively [see Adverse Reactions (6.1)].
+Non-infectious pneumonitis was reported in up to 14% of patients treated with AFINITOR in clinical trials.
+The incidence of Common Terminology Criteria (CTC) Grade 3 and 4 non-infectious pneumonitis was up to 4.0% and up to 0.1%, respectively [see Adverse Reactions (6.1, 6.2, 6.3, 6.4)].
 Fatal outcomes have been observed.
 
 Consider a diagnosis of non-infectious pneumonitis in patients presenting with non-specific respiratory signs and symptoms such as hypoxia, pleural effusion, cough, or dyspnea, and in whom infectious, neoplastic, and other causes have been excluded by means of appropriate investigations.
@@ -15,20 +15,16 @@ Imaging appears to overestimate the incidence of clinical pneumonitis.
 
 If symptoms are moderate, consider interrupting therapy until symptoms improve.
 The use of corticosteroids may be indicated.
-
-- In patients with advanced PNET and advanced RCC, AFINITOR may be reintroduced at 5 mg daily.
-- In patients with SEGA, AFINITOR may be reintroduced at a daily dose approximately 50% lower than the dose previously administered.
+AFINITOR may be reintroduced at a daily dose approximately 50% lower than the dose previously administered.
 
 For cases where symptoms of non-infectious pneumonitis are severe, discontinue AFINITOR therapy.
 Corticosteroids may be indicated until clinical symptoms resolve.
-
-- In patients with advanced PNET and advanced RCC, therapy with AFINITOR may be re-initiated at a reduced dose of 5 mg daily depending on the individual clinical circumstances.
-  The development of pneumonitis has been reported even at a reduced dose.
-- In patients with SEGA, therapy with AFINITOR may be re-initiated at a daily dose approximately 50% lower than the dose previously administered depending on the individual clinical circumstances.
+AFINITOR may be re-initiated at a daily dose approximately 50% lower than the dose previously administered depending on the individual clinical circumstances.
+The development of pneumonitis has been reported even at a reduced dose.
 
 ## 5.2 Infections
 
-AFINITOR has immunosuppressive properties and may predispose patients to bacterial, fungal, viral, or protozoal infections, including infections with opportunistic pathogens [see Adverse Reactions (6.1, 6.2)].
+AFINITOR has immunosuppressive properties and may predispose patients to bacterial, fungal, viral, or protozoal infections, including infections with opportunistic pathogens [see Adverse Reactions (6.1, 6.2, 6.3, 6.4)].
 Localized and systemic infections, including pneumonia, mycobacterial infections, other bacterial infections, invasive fungal infections, such as aspergillosis or candidiasis, and viral infections including reactivation of hepatitis B virus have occurred in patients taking AFINITOR.
 Some of these infections have been severe (e.g., leading to respiratory or hepatic failure) or fatal.
 Physicians and patients should be aware of the increased risk of infection with AFINITOR.
@@ -38,14 +34,12 @@ If a diagnosis of invasive systemic fungal infection is made, discontinue AFINIT
 
 ## 5.3 Oral Ulceration
 
-Mouth ulcers, stomatitis, and oral mucositis have occurred in patients treated with AFINITOR.
-Approximately 44%-64% of AFINITOR-treated patients developed mouth ulcers, stomatitis, or oral mucositis, which were mostly CTC grade 1 or 2 [see Adverse Reactions (6.1)].
-Grade 3 or 4 stomatitis was reported in 6% of patients with neuroendocrine tumors.
-In the SEGA study, 86% of AFINITOR-treated patients developed stomatitis which was mostly CTCAE grade 1 or 2 [see Adverse Reactions (6.2)].
+Mouth ulcers, stomatitis, and oral mucositis have occurred in patients treated with AFINITOR at an incidence ranging from 44-86% across the clinical trial experience.
+Grade 3 or 4 stomatitis was reported in 4-7% of patients [see Adverse Reactions (6.1, 6.2, 6.3, 6.4)].
 In such cases, topical treatments are recommended, but alcohol- or peroxide-containing mouthwashes should be avoided as they may exacerbate the condition.
 Antifungal agents should not be used unless fungal infection has been diagnosed [see Drug Interactions (7.1)].
 
-## 5.4 Renal Failure Events
+## 5.4 Renal Failure
 
 Cases of renal failure (including acute renal failure), some with a fatal outcome, have been observed in patients treated with AFINITOR [see Laboratory Tests and Monitoring (5.5)].
 
@@ -53,18 +47,18 @@ Cases of renal failure (including acute renal failure), some with a fatal outcom
 
 Renal Function
 
-Elevations of serum creatinine and proteinuria have been reported in clinical trials [see Adverse Reactions (6.1, 6.2)].
+Elevations of serum creatinine and proteinuria have been reported in clinical trials [see Adverse Reactions (6.1, 6.2, 6.3, 6.4)].
 Monitoring of renal function, including measurement of blood urea nitrogen (BUN), urinary protein, or serum creatinine, is recommended prior to the start of AFINITOR therapy and periodically thereafter.
 
 Blood Glucose and Lipids
 
-Hyperglycemia, hyperlipidemia, and hypertriglyceridemia have been reported in clinical trials [see Adverse Reactions (6.1, 6.2)].
+Hyperglycemia, hyperlipidemia, and hypertriglyceridemia have been reported in clinical trials [see Adverse Reactions (6.1, 6.2, 6.3, 6.4)].
 Monitoring of fasting serum glucose and lipid profile is recommended prior to the start of AFINITOR therapy and periodically thereafter.
 When possible, optimal glucose and lipid control should be achieved before starting a patient on AFINITOR.
 
 Hematologic Parameters
 
-Decreased hemoglobin, lymphocytes, neutrophils, and platelets have been reported in clinical trials [see Adverse Reactions (6.1, 6.2)].
+Decreased hemoglobin, lymphocytes, neutrophils, and platelets have been reported in clinical trials [see Adverse Reactions (6.1, 6.2, 6.3, 6.4)].
 Monitoring of complete blood count is recommended prior to the start of AFINITOR therapy and periodically thereafter.
 
 ## 5.6 Drug-drug Interactions
@@ -79,7 +73,7 @@ An increase in the AFINITOR dose is recommended when co-administered with a stro
 
 Exposure to everolimus was increased in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 
-For advanced PNET and advanced RCC patients with severe hepatic impairment (Child-Pugh class C), AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
+For advanced PNET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment (Child-Pugh class C), AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
 For patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment, a dose reduction is recommended [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 For SEGA patients with severe hepatic impairment, AFINITOR is not recommended.
@@ -96,6 +90,6 @@ The timing of routine vaccinations in pediatric patients with SEGA should be con
 
 There are no adequate and well-controlled studies of AFINITOR in pregnant women.
 However, based on the mechanism of action, AFINITOR may cause fetal harm when administered to a pregnant woman.
-Everolimus caused embryo-fetal toxicities in animals at maternal exposures that were lower than human exposures for advanced PNET, advanced RCC, and SEGA patients.
+Everolimus caused embryo-fetal toxicities in animals at maternal exposures that were lower than human exposures.
 If this drug is used during pregnancy or if the patient becomes pregnant while taking the drug, the patient should be apprised of the potential hazard to the fetus.
 Women of childbearing potential should be advised to use an effective method of contraception while using AFINITOR and for up to 8 weeks after ending treatment [see Use in Specific Populations (8.1)].
