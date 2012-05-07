@@ -346,19 +346,20 @@ The disc diffusion interpretive criteria are provided in Table 8.
 
 For anaerobic bacteria, the susceptibility to moxifloxacin can be determined by a standardized test method.4 The MIC values obtained should be interpreted according to the criteria provided in Table 8.
 
-| Table 8: Susceptibility Test Interpretive Criteria for Moxifloxacin |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
+Table 8: Susceptibility Test Interpretive Criteria for Moxifloxacin
+
 |  | MIC (mcg/mL) |  |  | Zone Diameter (mm) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
 | Species | S | I | R | S | I | R |
 | Enterobacteriacae | ≤2 | 4 | ≥8 | ≥19 | 16–18 | ≤15 |
 | Enterococcus faecalis | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14 |
 | Staphylococcus aureus | ≤2 | 4 | ≥8 | ≥19 | 16–18 | ≤15 |
 | Haemophilus influenzae | ≤1 | a | a | ≥18 | a | a |
 | Haemophilus parainfluenzae | ≤1 | a | a | ≥18 | a | a |
-| Streptococcus pneumoniae | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14d |
-| Streptococcus species | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14d |
+| Streptococcus pneumoniae | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14b |
+| Streptococcus species | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14b |
 | Anaerobic bacteria | ≤2 | 4 | ≥8 | - | - | - |
-| S=susceptible, I=Intermediate, and R=resistant.a The current absence of data on moxifloxacin-resistant isolates precludes defining any results other than “Susceptible”. Isolates yielding test results (MIC or zone diameter) other than susceptible, should be submitted to a reference laboratory for additional testing. |  |  |  |  |  |  |
+| S=susceptible, I=Intermediate, and R=resistant.a The current absence of data on moxifloxacin-resistant isolates precludes defining any results other than “Susceptible”. b Isolates yielding test results (MIC or zone diameter) other than susceptible, should be submitted to a reference laboratory for additional testing. |  |  |  |  |  |  |
 
 A report of “Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -371,9 +372,10 @@ A report of “Resistant” indicates that the antimicrobial is not likely to in
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay and the techniques of the individuals performing the test.1,2,3,4 Standard moxifloxacin powder should provide the following range of MIC values noted in Table 9.
 For the diffusion technique using the 5 mcg moxifloxacin disk, the criteria in Table 9 should be achieved.
 
-| Table 9: Acceptable Control Ranges for Moxifloxacin |  |  |
-| --- | --- | --- |
+Table 9: Acceptable Control Ranges for Moxifloxacin
+
 | Strains | MIC range (mcg/mL) | Zone Diameter (mm) |
+| --- | --- | --- |
 | Enterococcus faecalis ATCC 29212 | 0.06–0.5 | - |
 | Escherichia coli ATCC 25922 | 0.008–0.06 | 28–35 |
 | Haemophilus influenzaeATCC 49247 | 0.008–0.03 | 31–39 |

@@ -270,13 +270,13 @@ What are the ingredients in AVELOX?
   - Active ingredient: moxifloxacin hydrochloride
   - Inactive ingredients: sodium chloride, USP, water for injection, USP, and may include hydrochloric acid and/or sodium hydroxide for pH adjustment
 
-Revised October 2011
+Revised January 2012
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured for: Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470
 
-AVELOX Tablets made in Germany AVELOX IV made in Germany or AVELOX IV made in Norway by Fresenius Kabi Norge AS NO-1753 Halden, Norway
+AVELOX Tablets manufactured in Germany AVELOX IV manufactured in Germany or AVELOX IV manufactured in Norway by Fresenius Kabi Norge AS NO-1753 Halden, Norway
 
 Distributed by: Schering Corporation, a subsidiary of
 
@@ -290,4 +290,4 @@ Rx Only
 
 ©2011 Bayer HealthCare Pharmaceuticals Inc. Printed in U.S.A.
 
-83680831, R.1
+83680831, R.2
