@@ -4,9 +4,10 @@ Monitoring of blood levels has increased the efficacy and safety of anticonvulsa
 Dosage should be adjusted to the needs of the individual patients.
 A low initial daily dosage with gradual increase is advised.
 As soon as adequate control is achieved, the dosage may be reduced very gradually to the minimum effective level.
-The Carbatrol capsules may be opened and the beads sprinkled over food, such as a teaspoon of applesauce or other similar food products if this method of administration is preferred.
-Carbatrol capsules or their contents should not be crushed or chewed.
-Carbatrol can be taken with or without meals.
+Carbatrol may be taken with or without food.
+Carbatrol capsules may be swallowed whole or may be opened and all the beads sprinkled on a teaspoon of soft food such as applesauce.
+Make sure all of the food and medicine mixture is swallowed.
+Do not crush or chew Carbatrol capsules or the sprinkled beads.
 
 Carbatrol is an extended-release formulation for twice a day administration.
 When converting patients from immediate release carbamazepine to Carbatrol extended-release capsules, the same total daily mg dose of carbamazepine should be administered.

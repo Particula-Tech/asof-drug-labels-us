@@ -72,7 +72,7 @@ Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 1 - Risk by indication for antiepileptic drugs in the pooled analysis
 
-| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/ Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
+| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/ Incidence in Placebo Patients | Risk Difference:Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -123,7 +123,7 @@ Carbamazepine has shown mild anticholinergic activity; therefore, patients with 
 
 Because of the relationship of the drug to other tricyclic compounds, the possibility of activation of a latent psychosis and, in elderly patients, of confusion or agitation should be considered.
 
-Co-administration of carbamazepine and delavirdine may lead to loss of virologic response and possible resistance to PRESCRIPTOR or to the class of non-nucleoside reverse transcriptase inhibitors.
+Co-administration of carbamazepine and delavirdine may lead to loss of virologic response and possible resistance to RESCRIPTOR or to the class of non-nucleoside reverse transcriptase inhibitors.
 
 # PRECAUTIONS
 
@@ -133,11 +133,21 @@ Before initiating therapy, a detailed history and physical examination should be
 
 Carbamazepine should be used with caution in patients with a mixed seizure disorder that includes atypical absence seizures, since in these patients carbamazepine has been associated with increased frequency of generalized convulsions (see INDICATIONS AND USAGE).
 
+Antiepileptic drugs including carbamazepine may paradoxically worsen seizure frequency or induce new seizure types in some patients with epilepsy, though the mechanisms of seizure aggravation by antiepileptic drugs are mostly unknown (see ADVERSE REACTIONS, Nervous System).
+
 Therapy should be prescribed only after critical benefit-to-risk appraisal in patients with a history of cardiac, hepatic, or renal damage; adverse hematologic reaction to other drugs; or interrupted courses of therapy with carbamazepine.
+
+Multi-organ hypersensitivity reactions occurring within weeks after initiating Carbatrol therapy have been reported in rare cases (see ADVERSE REACTIONS, Other and PRECAUTIONS, Information for Patients).
+Patients who reported the triad of signs of fever, skin rash, and internal organ involvement made a swift recovery following discontinuation of therapy.
+
+Hypersensitivity reactions to carbamazepine have been associated with previous use of aromatic antiepileptic drugs including phenytoin, phenobarbital, and primidone.
+Therefore, a history of hypersensitivity reactions should be obtained for a patient and the immediate family members.
+If positive, caution should be used in prescribing carbamazepine.
 
 ## Information for Patients
 
 Patients should be made aware of the early toxic signs and symptoms of a potential hematologic problem, such as fever, sore throat, rash, ulcers in the mouth, easy bruising, petechial or purpuric hemorrhage, and should be advised to report to the physician immediately if any such signs or symptoms appear.
+Patients should be advised that, because these signs and symptoms may signal a serious reaction, they must report any occurrence immediately to their physicians.
 
 Patients, their caregivers, and families should be counseled that AEDs, including Carbatrol, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
@@ -167,6 +177,7 @@ If a patient in the course of treatment exhibits low or decreased white blood ce
 Discontinuation of the drug should be considered if any evidence of significant bone marrow depression develops.
 
 Baseline and periodic evaluations of liver function, particularly in patients with a history of liver disease, must be performed during treatment with this drug since liver damage may occur.
+In addition, rare cases of hepatic failure have been reported (see ADVERSE REACTIONS, Liver).
 The drug should be discontinued immediately in cases of aggravated liver dysfunction or active liver disease.
 
 Baseline and periodic eye examinations, including slit-lamp, funduscopy, and tonometry, are recommended since many phenothiazines and related drugs have been shown to cause eye changes.
@@ -224,9 +235,11 @@ Carbamazepine is known to induce CYP1A2 and CYP3A4.
 Therefore, the potential exists for interaction between carbamazepine and any agent metabolized by one (or more) of these enzymes.
 Agents that have been found, or are expected to have decreased plasma levels in the presence of Carbatrol® due to induction of CYP enzymes are the following:
 
-Acetaminophen, alprazolam, amitriptyline, bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, cyclosporin, delavirdine, desipramine, diazepam, dicumarol, doxycycline, ethosuximide, felbamate, felodipine, glucocorticoids, haloperidol, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, midazolam, mirtazapine, nortriptyline, olanzapine, oral contraceptives(3), oxcarbazepine, phenytoin(4), praziquantel, protease inhibitors, quetiapine, risperidone, theophylline, topiramate, tiagabine, tramadol, triazolam, trazodone(5), valproate, warfarin(6), nefazodone, ziprasidone, and zonisamide.
+Acetaminophen, alprazolam, amitriptyline, bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, cyclosporin, delavirdine, desipramine, diazepam, dicumarol, doxycycline, ethosuximide, felbamate, felodipine, glucocorticoids, haloperidol, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, midazolam, mirtazapine, nortriptyline, olanzapine, oral and other hormonal contraceptives(3), oxcarbazepine, phenytoin(4), praziquantel, protease inhibitors, quetiapine, risperidone, theophylline, topiramate, tiagabine, tramadol, triazolam, trazodone(5), valproate, warfarin(6), nefazodone, ziprasidone, and zonisamide.
 
-(3)Break through bleeding has been reported among patients receiving concomitant oral contraceptives and their reliability may be adversely affected.
+(3)Concomitant use of Carbatrol with hormonal contraceptive products (e.g., oral and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased.
+Breakthrough bleeding and unintended pregnancies have been reported with carbamazepine.
+Alternative or back-up methods of contraception should be considered.
 
 (4)Phenytoin has also been reported to increase in the presence of carbamazepine.
 Careful monitoring of phenytoin plasma levels following co-medication with carbamazepine is advised.

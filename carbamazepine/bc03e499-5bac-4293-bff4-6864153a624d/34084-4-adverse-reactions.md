@@ -2,7 +2,7 @@
 
 General: If adverse reactions are of such severity that the drug must be discontinued, the physician must be aware that abrupt discontinuation of any anticonvulsant drug in a responsive patient with epilepsy may lead to seizures or even status epilepticus with its life-threatening hazards.
 
-The most severe adverse reactions previously observed with carbamazepine were reported in the hemopoietic system and skin (see BOX WARNING), and the cardiovascular system.
+The most severe adverse reactions previously observed with carbamazepine were reported in the hemopoietic system and skin (see BOXED WARNING), and the cardiovascular system.
 
 The most frequently observed adverse reactions, particularly during the initial phases of therapy, are dizziness, drowsiness, unsteadiness, nausea, and vomiting.
 To minimize the possibility of such reactions, therapy should be initiated at the lowest dosage recommended.
@@ -11,7 +11,7 @@ The following additional adverse reactions were previously reported with carbama
 
 Hemopoietic System: Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, acute intermittent porphyria.
 
-Skin: Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), pruritic and erythematous rashes, urticaria,, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, and diaphoresis.
+Skin: Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, and diaphoresis.
 In certain cases, discontinuation of therapy may be necessary.
 Isolated cases of hirsutism have been reported, but a causal relationship is not clear.
 
@@ -19,7 +19,9 @@ Cardiovascular System: Congestive heart failure, edema, aggravation of hypertens
 Some of these cardiovascular complications have resulted in fatalities.
 Myocardial infarction has been associated with other tricyclic compounds.
 
-Liver: Abnormalities in liver function tests, cholestatic and hepatocellular jaundice, hepatitis.
+Liver: Abnormalities in liver function tests, cholestatic and hepatocellular jaundice, hepatitis, and hepatic failure.
+
+Pancreatic: Pancreatitis.
 
 Respiratory System: Pulmonary hypersensitivity characterized by fever, dyspnea, pneumonitis, or pneumonia.
 
@@ -37,12 +39,14 @@ There have been reports of associated paralysis and other symptoms of cerebral a
 
 Isolated cases of neuroleptic malignant syndrome have been reported with concomitant use of psychotropic drugs.
 
+Seizures induced or aggravated by antiepileptic drugs have been reported in the postmarketing use of Carbatrol.
+
 Digestive System: Nausea, vomiting, gastric distress and abdominal pain, diarrhea, constipation, anorexia, and dryness of the mouth and pharynx, including glossitis and stomatitis.
 
 Eyes: Scattered punctate cortical lens opacities, as well as conjunctivitis, have been reported.
 Although a direct causal relationship has not been established, many phenothiazines and related drugs have been shown to cause eye changes.
 
-Musculoskeletal System: Aching joints and muscles, and leg cramps.
+Musculoskeletal System: Bone loss, aching joints and muscles, and leg cramps.
 
 Metabolism: Fever and chills, inappropriate antidiuretic hormone (ADH) secretion syndrome has been reported.
 Cases of frank water intoxication, with decreased serum sodium (hyponatremia) and confusion have been reported in association with carbamazepine use (see PRECAUTIONS, Laboratory Tests).
@@ -53,3 +57,6 @@ There have been occasional reports of elevated levels of cholesterol, HDL choles
 
 A case of aseptic meningitis, accompanied by myoclonus and peripheral eosinophilia, has been reported in a patient taking carbamazepine in combination with other medications.
 The patient was successfully dechallenged, and the meningitis reappeared upon rechallenge with carbamazepine.
+
+Multi-organ hypersensitivity reactions occurring within weeks after initiating Carbatrol therapy have been reported in rare cases.
+Signs or symptoms may include, but are not limited to, fever, adenopathy, eosinophilia, leucopenia, pancytopenia, thrombocytopenia, as well as liver abnormalities such as hepatitis, hepatocellular jaundice and liver function test abnormalities.

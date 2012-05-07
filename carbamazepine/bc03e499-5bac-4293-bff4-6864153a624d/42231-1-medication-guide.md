@@ -1,4 +1,4 @@
-# Medication Guide CARBATROL (CAR-BA-TROL) (carbamazepine) Extended-Release Capsules
+Medication Guide CARBATROL (CAR-BA-TROL) (carbamazepine) Extended-Release Capsules
 
 Read this Medication Guide before you start taking CARBATROL and each time you get a refill.
 There may be new information.
@@ -7,7 +7,6 @@ This information does not take the place of talking to your healthcare provider 
 What is the most important information I should know about CARBATROL?
 
 Do not stop taking CARBATROL without first talking to your healthcare provider.
-
 Stopping CARBATROL suddenly can cause serious problems.
 
 CARBATROL can cause serious side effects, including:
@@ -106,11 +105,9 @@ Before you take CARBATROL, tell your healthcare provider if you:
   CARBATROL may harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking CARBATROL.
   You and your healthcare provider should decide if you should take CARBATROL while you are pregnant.
-
-- If you become pregnant while taking CARBATROL, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
-You can enroll in this registry by calling 1-888-233-2334.
-
+  - If you become pregnant while taking CARBATROL, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+    The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
+    You can enroll in this registry by calling 1-888-233-2334.
 - are breastfeeding or plan to breastfeed.
   CARBATROL passes into your breast milk.
   You and your healthcare provider should discuss whether you should take CARBATROL or breastfeed.
@@ -147,26 +144,22 @@ What should I avoid while taking CARBATROL?
   CARBATROL can slow your thinking and motor skills.
 
 What are the possible side effects of CARBATROL?
-
 See "What is the most important information I should know about CARBATROL?"
 
 CARBATROL may cause other serious side effects including:
 
-Irregular heartbeat - symptoms include:
-
-- Fast, slow, or pounding heartbeat
-- Shortness of breath
-- Feeling lightheaded
-- Fainting
-
-Liver problems - symptoms include:
-
-- yellowing of your skin or the whites of your eyes
-- dark urine
-- pain on the right side of your stomach area (abdominal pain)
-- easy bruising
-- loss of appetite
-- nausea or vomiting
+- Irregular heartbeat - symptoms include:
+  - Fast, slow, or pounding heartbeat
+  - Shortness of breath
+  - Feeling lightheaded
+  - Fainting
+- Liver problems - symptoms include:
+  - yellowing of your skin or the whites of your eyes
+  - dark urine
+  - pain on the right side of your stomach area (abdominal pain)
+  - easy bruising
+  - loss of appetite
+  - nausea or vomiting
 
 Get medical help right away if you have any of the symptoms listed above or listed in "What is the most important information I should know about CARBATROL".
 
@@ -181,7 +174,7 @@ The most common side effects of CARBATROL include:
 These are not all the side effects of CARBATROL.
 For more information, ask your healthcare provider or pharmacist.
 
-Tell your healthcare provider if you have any side effect that bothers you. or that does not go away.
+Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -225,4 +218,4 @@ Shire US Inc.
 
 Wayne, PA 19087
 
-Issued [01/2011]
+Issued [04/2012]
