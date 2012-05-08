@@ -8,7 +8,7 @@ Adverse Events
 
 | Event | # of reports | % of patients | # of reports | % of patients |
 | --- | --- | --- | --- | --- |
-|  | Placebo n=88 |  | Midodrine n=82 |  |
+|  | Placebo n = 88 |  | Midodrine n = 82 |  |
 | Total # of reports | 22 |  | 77 |  |
 | ParesthesiaIncludes hyperesthesia and scalp paresthesia | 4 | 4.5 | 15 | 18.3 |
 | Piloerection | 0 | 0 | 11 | 13.4 |

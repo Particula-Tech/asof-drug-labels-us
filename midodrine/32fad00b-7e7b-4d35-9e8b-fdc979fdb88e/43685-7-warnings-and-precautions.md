@@ -3,7 +3,7 @@
 ## Supine Hypertension
 
 The most potentially serious adverse reaction associated with midodrine therapy is marked elevation of supine arterial blood pressure (supine hypertension).
-Systolic pressures of about 200 mmHg were seen overall in about 13.4% of patients given 10 mg of midodrine hydrochloride.
+Systolic pressures of about 200 mmHg were seen overall in about 13.4% of patients given 10 mg of midodrine.
 Systolic elevations of this degree were most likely to be observed in patients with relatively elevated pre-treatment systolic blood pressures (mean 170 mmHg).
 There is no experience in patients with initial supine systolic pressure above 180 mmHg, as those patients were excluded from the clinical trials.
 Use of midodrine in such patients is not recommended.
@@ -22,8 +22,8 @@ Symptoms may include cardiac awareness, pounding in the ears, headache, blurred 
 Blood pressure should be monitored carefully when midodrine is used concomitantly with other agents that cause vasoconstriction, such as phenylephrine, ephedrine, dihydroergotamine, phenylpropanolamine, or pseudoephedrine.
 
 A slight slowing of the heart rate may occur after administration of midodrine, primarily due to vagal reflex.
-Caution should be exercised when midodrine is used concomitantly with cardiac glycosides (such as digitalis), psychopharmacologic agents, beta blockers or other agents that directly or indirectly reduce heart rate.
-Patients who experience any signs or symptoms suggesting bradycardia (pulse slowing, increased dizziness, syncope, cardiac awareness) should be advised to discontinue midodrine and should be re-evaluated.
+Caution should be exercised when midodrine is used concomitantly with cardiac glycosides (such as digitalis), psychopharmacologic agents, beta-blockers or other agents that directly or indirectly reduce heart rate.
+Patients who experience any signs or symptoms suggesting bradycardia (pulse slowing, increased dizziness, syncope, cardiac awareness) should be advised to discontinue midodrine and should be reevaluated.
 
 Midodrine should be used cautiously in patients with urinary retention problems, as desglymidodrine acts on the alpha-adrenergic receptors of the bladder neck.
 Midodrine should be used with caution in orthostatic hypotensive patients who are also diabetic, as well as those with a history of visual problems who are also taking fludrocortisone acetate, which is known to cause an increase in intraocular pressure and glaucoma.
@@ -72,7 +72,7 @@ Other than the dominant lethal assay in male mice, where no impairment of fertil
 ### Pregnancy Category C
 
 Midodrine increased the rate of embryo resorption, reduced fetal body weight in rats and rabbits, and decreased fetal survival in rabbits when given in doses 13 (rat) and 7 (rabbit) times the maximum human dose based on body surface area (mg/m2).
-There are no adequate and well-controlled studies in pregnant women.
+There are no adequate and well controlled studies in pregnant women.
 Midodrine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 No teratogenic effects have been observed in studies in rats and rabbits.
 
