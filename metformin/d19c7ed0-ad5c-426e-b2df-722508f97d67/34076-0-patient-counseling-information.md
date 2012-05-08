@@ -39,9 +39,9 @@ While megaloblastic anemia has rarely been seen with metformin therapy, if this 
 
 Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-USPI-T-0431A1203R004
+USPI-T-0431A1204R005
 
-US Patent No.: 6,699,871
+US Patent Nos.: 6,699,871 and 7,326,708
 
 1,2 Registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
 
