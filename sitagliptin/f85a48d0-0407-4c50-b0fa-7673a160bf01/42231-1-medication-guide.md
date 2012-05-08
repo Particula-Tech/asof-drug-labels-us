@@ -168,14 +168,14 @@ Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whiteh
 Manufactured by: Merck Sharp & Dohme (Italia) S.p.A.
 Via Emilia, 21 27100 – Pavia, Italy OR MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
 
-US Patent No.: 6,699,871
+US Patent Nos.: 6,699,871 and 7,326,708
 
 Avandia® is a registered trademark of GlaxoSmithKline.
 
 Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
 
-Revised: March 2012
+Revised: 04/2012
 
-USMG-T-04311203R007
+USMG-T-04311204R008
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
