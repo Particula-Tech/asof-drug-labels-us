@@ -1,30 +1,13 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Fetal/Neonatal Morbidity and Mortality
+## 5.1 Fetal Toxicity
 
-Drugs that act directly on the renin-angiotensin system can cause fetal and neonatal morbidity and death when administered to pregnant women.
-Several dozen cases have been reported in the world literature in patients who were taking angiotensin-converting enzyme inhibitors.
-Post-marketing experience has identified reports of fetal and neonatal toxicity in babies born to women treated with ATACAND during pregnancy.
-When pregnancy is detected, ATACAND should be discontinued as soon as possible.
+Pregnancy Category D
 
-The use of drugs that act directly on the renin-angiotensin system during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
-Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
-Prematurity, intrauterine growth retardation, and patent ductus arteriosus have also been reported, although it is not clear whether these occurrences were due to exposure to the drug.
-
-These adverse effects do not appear to have resulted from intrauterine drug exposure that has been limited to the first trimester.
-Mothers whose embryos and fetuses are exposed to an angiotensin II receptor antagonist only during the first trimester should be so informed.
-Nonetheless, when patients become pregnant, physicians should have the patient discontinue the use of ATACAND as soon as possible.
-
-Rarely (probably less often than once in every thousand pregnancies), no alternative to a drug acting on the renin-angiotensin system will be found.
-In these rare cases, the mothers should be apprised of the potential hazards to their fetuses, and serial ultrasound examinations should be performed to assess the intra-amniotic environment.
-
-If oligohydramnios is observed, ATACAND should be discontinued unless it is considered life saving for the mother.
-Contraction stress testing (CST), a nonstress test (NST), or biophysical profiling (BPP) may be appropriate, depending upon the week of pregnancy.
-Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-
-Infants with histories of in utero exposure to an angiotensin II receptor antagonist should be closely observed for hypotension, oliguria, and hyperkalemia.
-If oliguria occurs, attention should be directed toward support of blood pressure and renal perfusion.
-Exchange transfusion or dialysis may be required as means of reversing hypotension and/or substituting for disordered renal function.
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
+Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure and death.
+When pregnancy is detected, discontinue ATACAND as soon as possible [see USE IN SPECIFIC POPULATIONS (8.1)].
 
 Oral doses ≥10 mg of candesartan cilexetil/kg/day administered to pregnant rats during late gestation and continued through lactation were associated with reduced survival and an increased incidence of hydronephrosis in the offspring.
 The 10-mg/kg/day dose in rats is approximately 2.8 times the maximum recommended daily human dose (MRHD) of 32 mg on a mg/m2 basis (comparison assumes human body weight of 50 kg).

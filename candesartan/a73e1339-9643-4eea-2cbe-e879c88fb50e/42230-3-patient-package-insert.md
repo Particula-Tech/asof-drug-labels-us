@@ -13,9 +13,9 @@ If you have any questions about ATACAND, ask your doctor or pharmacist.
 
 What is the most important information I should know about ATACAND?
 
-If you become pregnant, stop taking ATACAND and call your doctor right away.
-ATACAND can harm an unborn baby causing injury or death.
-If you are pregnant or plan to become pregnant, talk to your doctor about other treatment options for your high blood pressure before taking ATACAND.
+ATACAND can cause harm or death to an unborn baby.
+Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
+If you get pregnant while taking ATACAND, tell your doctor right away.
 
 What is ATACAND?
 
@@ -55,12 +55,12 @@ Low blood pressure can happen in people who take ATACAND and have major surgery 
 
 · have any other medical conditions
 
-· are pregnant or plan to become pregnant.
+· are pregnant or planning to become pregnant.
 See “What is the most important information I should know about ATACAND?”
 
 · are breast-feeding or plan to breast-feed.
 It is not known if ATACAND passes into your breast milk.
-You and your doctor should decide if you will take ATACAND or breastfeed.
+You and your doctor should decide if you will take ATACAND or breast-feed.
 You should not do both.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
