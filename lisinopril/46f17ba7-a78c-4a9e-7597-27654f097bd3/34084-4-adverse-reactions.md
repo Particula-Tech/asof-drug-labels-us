@@ -119,7 +119,7 @@ Nervous System/Psychiatric: Stroke, ataxia, memory impairment, tremor, periphera
 
 Respiratory System: Malignant lung neoplasms, hemoptysis, pulmonary infiltrates, bronchospasm, asthma, pleural effusion, pneumonia, eosinophilic pneumonitis, bronchitis, wheezing, orthopnea, painful respiration, epistaxis, laryngitis, sinusitis, pharyngeal pain, pharyngitis, rhinitis, rhinorrhea.
 
-Skin: Urticaria, alopecia, herpes zoster, photosensitivity, skin lesions, skin infections, pemphigus, erythema, flushing, diaphoresis, cutaneous pseudolymphoma.
+Skin: Urticaria, alopecia, herpes zoster, photosensitivity, skin lesions, skin infections, pemphigus, erythema, flushing, diaphoresis, cutaneous pseudolymphoma, psoriasis.
 Other severe skin reactions have been reported rarely, including toxic epidermal necrolysis and Stevens-Johnson Syndrome; causal relationship has not been established.
 
 Special Senses: Visual loss, diplopia, blurred vision, tinnitus, photophobia, taste disturbances, olfactory disturbance.
