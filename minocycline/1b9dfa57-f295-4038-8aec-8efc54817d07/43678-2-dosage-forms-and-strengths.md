@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-- 45 mg extended release tablets: gray, unscored, coated, and debossed with "DYN-045" on one side.
+- 45 mg extended release tablets: gray, unscored, coated, and debossed with "DYN-045" on one side.No longer distributed or sold by Medicis.
 - 55 mg extended release tablets: pink, unscored, coated, and debossed with "DYN-055" on one side.
 - 65 mg extended release tablets: blue, unscored, coated, and debossed with "DYN-065" on one side.
 - 80 mg extended release tablets: dark gray, unscored, coated, and debossed with "DYN-080" on one side.

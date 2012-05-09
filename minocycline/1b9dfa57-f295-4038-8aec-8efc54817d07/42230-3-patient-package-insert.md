@@ -181,21 +181,15 @@ Active ingredient: minocycline HCl.
 
 Inactive ingredients: lactose monohydrate, hypromellose type 2910, magnesium stearate, colloidal silicon dioxide, and carnauba wax.
 
-The 45 mg tablets also contain Opadry II Gray which contains: lactose monohydrate, hypromellose type 2910, titanium dioxide, triacetin, and iron oxide black JPE.
-
 The 55 mg tablets also contain Opadry II Pink which contains: hypromellose type 2910, titanium dioxide, lactose monohydrate, polyethylene glycol 3350, triacetin, and FD&C Red #40.
 
 The 65 mg tablets also contain Opadry II Blue which contains: hypromellose type 2910, lactose monohydrate, FD&C Blue #1, polyethylene glycol 3350, FD&C Blue #2, titanium dioxide, triacetin, and D&C Yellow #10.
 
 The 80 mg tablets also contain Opadry II Gray which contains: hypromellose type 2910, lactose monohydrate, polyethylene glycol 3350, FD&C Blue #2, FD&C Red #40, titanium dioxide, triacetin, and FD&C Yellow #6.
 
-The 90 mg tablets also contain Opadry II Yellow which contains: hypromellose type 2910, lactose monohydrate, titanium dioxide, iron oxide yellow, polyethylene glycol 3350, and triacetin.
-
 The 105 mg tablets also contain Opadry II Purple which contains: hypromellose type 2910, lactose monohydrate, titanium dioxide, D&C Red #27, polyethylene glycol 3350, triacetin, and FD&C Blue #1.
 
 The 115 mg tablets also contain Opadry II Green which contains: hypromellose type 2910, lactose monohydrate NF, D&C Yellow #10, triacetin, FD&C Blue #1, titanium dioxide, FD&C Blue #2.
-
-The 135 mg tablets also contain Opadry II Pink which contains: hypromellose type 2910, lactose monohydrate, titanium dioxide, polyethylene glycol 3350, iron oxide red, and triacetin.
 
 SOLODYN® is manufactured by WellSpring Pharmaceutical Canada Corp. for Medicis, The Dermatology Company, Scottsdale, Arizona, 85256.
 
