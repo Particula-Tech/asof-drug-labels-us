@@ -6,6 +6,6 @@ Keep tightly closed.
 Keep out of reach of children.
 
 Rev.
-0105
+0107
 
 Manufactured by: UPSHER-SMITH LABORATORIES, INC. Minneapolis, MN 55447
