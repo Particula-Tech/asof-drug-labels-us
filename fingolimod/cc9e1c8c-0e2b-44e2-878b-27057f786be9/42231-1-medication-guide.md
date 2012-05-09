@@ -33,8 +33,9 @@ After you take your first dose of GILENYA:
   Symptoms can happen up to 24 hours after you take your first GILENYA dose.
 - 6 hours after you take your first dose of GILENYA you will have another ECG.
   If your ECG shows any heart problems or if your heart rate is still too low or continues to decrease, you will continue to be watched.
-- If you have any serious side effects after your first dose of GILENYA, especially those that require treatment with other drugs, you will stay in the medical facility to be watched overnight.
+- If you have any serious side effects after your first dose of GILENYA, especially those that require treatment with other medicines, you will stay in the medical facility to be watched overnight.
   You will also be watched for any serious side effects for at least 6 hours after you take your second dose of GILENYA the next day.
+- If you have certain types of heart problems, or if you are taking certain types of medicines that can affect your heart, you will be watched overnight after you take your first dose of GILENYA.
 
 Your slow heart rate will usually return to normal within 1 month after you start taking GILENYA.
 
@@ -77,6 +78,16 @@ GILENYA can decrease the number of MS flare-ups (relapses).
 GILENYA does not cure MS, but it can help slow down the physical problems that MS causes.
 
 It is not known if GILENYA is safe and effective in children under age 18.
+
+Who should not take GILENYA?
+
+Do not take GILENYA if you:
+
+- have had a heart attack, unstable angina, stroke or warning stroke or certain types of heart failure in the last 6 months
+- have certain types of irregular or abnormal heartbeat (arrhythmia), including patients in whom a heart finding called prolonged QT is seen on ECG before starting GILENYA
+- are taking certain medicines that change your heart rhythm
+
+If any of the above situations apply to you, tell your doctor.
 
 What should I tell my doctor before taking GILENYA?
 
@@ -220,4 +231,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2012-104/T2012-105 April 2012/April 2012
+T2012-108/T2012-109 May 2012/May 2012

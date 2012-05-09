@@ -112,7 +112,7 @@ Liver enzymes should be monitored in patients who develop symptoms suggestive of
 GILENYA should be discontinued if significant liver injury is confirmed.
 Patients with pre-existing liver disease may be at increased risk of developing elevated liver enzymes when taking GILENYA.
 
-Because GILENYA exposure is doubled in patients with severe hepatic impairment, these patients should be closely monitored, as the risk of adverse reactions is greater [see Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
+Because GILENYA exposure is doubled in patients with severe hepatic impairment, these patients should be closely monitored, as the risk of adverse reactions is greater [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 5.6 Fetal Risk
 

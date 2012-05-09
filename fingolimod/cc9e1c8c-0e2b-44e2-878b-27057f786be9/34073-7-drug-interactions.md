@@ -4,7 +4,7 @@ QT prolonging drugs
 
 GILENYA has not been studied in patients treated with drugs that prolong the QT interval.
 Drugs that prolong the QT interval have been associated with cases of torsades de pointes in patients with bradycardia.
-Since initiation of GILENYA treatment results in decreased heart rate and may prolong the QT interval, patients on QT prolonging drugs with a known risk of Torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
+Since initiation of GILENYA treatment results in decreased heart rate and may prolong the QT interval, patients on QT prolonging drugs with a known risk of torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
 
 Ketoconazole
 
@@ -21,11 +21,11 @@ Antineoplastic, immunosuppressive or immunomodulating therapies
 Antineoplastic, immunosuppressive or immune modulating therapies are expected to increase the risk of immunosuppression.
 Use caution when switching patients from long-acting therapies with immune effects such as natalizumab or mitoxantrone.
 
-Heart rate lowering drugs (e.g., beta blockers or diltiazem)
+Drugs that slow heart rate or atrioventricular conduction (e.g., beta blockers or diltiazem)
 
-Experience with GILENYA in patients receiving concurrent therapy with heart rate lowering drugs (e.g., beta blockers, digoxin, or heart-rate slowing calcium channel blockers such as diltiazem or verapamil) is limited.
+Experience with GILENYA in patients receiving concurrent therapy with drugs that slow the heart rate or atrioventricular conduction (e.g., beta blockers, digoxin, or heart-rate slowing calcium channel blockers such as diltiazem or verapamil) is limited.
 Because initiation of GILENYA treatment may result in an additional decrease in heart rate, concomitant use of these drugs during GILENYA initiation may be associated with severe bradycardia or heart block.
-Seek advice from the prescribing physician regarding the possibility to switch to non-heart-rate lowering drugs before initiating GILENYA.
+Seek advice from the prescribing physician regarding the possibility to switch to drugs that do not slow the heart rate or atrioventricular conduction before initiating GILENYA.
 In patients who cannot switch, consider extended monitoring, including overnight, after the first dose [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
 
 Laboratory test interaction
