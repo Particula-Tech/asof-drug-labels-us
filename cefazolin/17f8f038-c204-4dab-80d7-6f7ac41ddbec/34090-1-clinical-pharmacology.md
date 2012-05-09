@@ -70,7 +70,7 @@ Most isolates of indole positive Proteus (Proteus vulgaris), Enterobacter spp., 
 When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-#### Dilution Technique
+#### Dilution Techniques
 
 Quantitative methods are used to determine minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
@@ -87,14 +87,14 @@ The disk diffusion interpretive criteria are provided in Table 4.
 
 | Table 4: Susceptibility Test Interpretive Criteria for CefazolinInterpretive criteria are based on 1 g every 8 hr |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pathogen | Minimum Inhibitory Concentration (mcg/ml) |  |  | Disk Diffusion Zone Diameter (mm)The cefazolin disk should not be used for determining susceptibility to other cephalosporins |  |  |
+| Pathogen | Minimum Inhibitory Concentration (mcg/mL) |  |  | Disk Diffusion Zone Diameter (mm)The cefazolin disk should not be used for determining susceptibility to other cephalosporins |  |  |
 | S | I | R | S | I | R |  |
 | Escherichia coliProteus mirabilis | ≤1 | 2 | ≥4 | - | - | - |
 | Staphylococcus aureus | ≤8 | 16 | ≥32 | ≥18 | 15-17 | ≤14 |
 
 Abbreviations: S= susceptible, I= intermediate, R= resistant
 
-NOTE: S. pyogenes and S. agalactiae that have a penicillin MIC of ≤ 0.12 mcg/ml, or disk diffusion zone diameters of ≥ 24 mm with a 10 mcg penicillin disk, may be interpreted as susceptible to cefazolin.
+NOTE: S. pyogenes and S. agalactiae that have a penicillin MIC of ≤ 0.12 mcg/mL, or disk diffusion zone diameters of ≥ 24 mm with a 10 mcg penicillin disk, may be interpreted as susceptible to cefazolin.
 Non-meningitis isolates of S. pneumoniae that have a penicillin MIC of ≤ 0.06 mcg/mL, may be interpreted as susceptible to cefazolin.
 
 A report of Susceptible indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
@@ -105,12 +105,13 @@ A report of Resistant indicates that the antimicrobial is not likely to inhibit 
 
 ### Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test 3, 4, 5.Standard cefazolin powder should provide the following MIC values noted in Table 5.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test 3, 4, 5.
+Standard cefazolin powder should provide the following MIC values noted in Table 5.
 For the diffusion technique using the 30 mcg disk, the criteria in Table 5 should be achieved.
 
 | Table 5: Acceptable Quality Control Ranges for Cefazolin |  |  |
 | --- | --- | --- |
-| QC Isolate | Minimum Inhibitory Concentration mcg/mL | Disk Diffusion Zone DiametersRefer to CLSI Document M100-S21 Performance Standards for Antimicrobial Susceptibility Testing; 21st Informational Supplement Table 3A (mm) |
+| QC Isolate | Minimum Inhibitory Concentration mcg/mL | Disk Diffusion Zone Diameters (mm) |
 | E. coli ATCC® 25922 | 1.0-4.0 | 21-27 |
 | S. aureus ATCC® 29213 | 0.25−1.0 | - |
 | S. aureus ATCC® 25923 | - | 29-35 |

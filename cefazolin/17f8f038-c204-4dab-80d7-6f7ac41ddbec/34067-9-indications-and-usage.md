@@ -18,7 +18,7 @@ Cefazolin is effective in the eradication of streptococci from the nasopharynx; 
 
 Urinary tract infections due to Escherichia coli, and Proteus mirabilis.
 
-## 1.3 Skin And Skin Structure Infections
+## 1.3 Skin and Skin Structure Infections
 
 Skin and skin structure infections due to S. aureus, S. pyogenes, and Streptococcus agalactiae.
 
