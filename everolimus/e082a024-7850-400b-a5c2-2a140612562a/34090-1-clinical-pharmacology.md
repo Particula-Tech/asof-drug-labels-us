@@ -65,18 +65,18 @@ Drug-Drug Interactions
 Everolimus is known to be a substrate for both cytochrome CYP3A4 and P-gp.
 The pharmacokinetic interaction between everolimus and concomitantly administered drugs is discussed below.
 Drug interaction studies have not been conducted with drugs other than those described below.
-[See Warnings and Precautions (5.11), and Drug Interactions (7)]
+[See Warnings and Precautions (5.12), and Drug Interactions (7)]
 
 Cyclosporine (CYP3A4/P-gp inhibitor and CYP3A4 substrate): Everolimus should be taken concomitantly with cyclosporine.
 Everolimus concentrations may decrease when doses of cyclosporine are reduced, unless the everolimus dose is increased.
-[See Dosage and Administration (2.1), Drug Interactions (7.1)]
+[See Dosage and Administration (2.1), Drug Interactions (7.2)]
 
 In a single-dose study in healthy subjects, cyclosporine (Neoral) administered at a dose of 175 mg increased everolimus AUC by 168% (range, 46% to 365%) and Cmax by 82% (range, 25% to 158%) when administered with 2 mg everolimus compared with administration of everolimus alone.
 [See Drug Interactions (7.2)]
 
 Ketoconazole (Strong CYP3A4 Inhibitor): Multiple-dose administration of 200 mg ketoconazole twice daily for 5 days to 12 healthy volunteers significantly increased everolimus Cmax, AUC, and half-life by 3.9-fold, 15-fold, and 89%, respectively, when co-administered with 2 mg everolimus.
 It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir) not be co-administered with everolimus.
-[See Warnings and Precautions (5.11) and Drug Interactions (7.3)]
+[See Warnings and Precautions (5.12) and Drug Interactions (7.3)]
 
 Erythromycin (Moderate CYP3A4 Inhibitor): Multiple-dose administration of 500 mg erythromycin three times daily for 5 days to 16 healthy volunteers significantly increased everolimus Cmax, AUC, and half-life by 2.0-fold, 4.4-fold, and 39%, respectively, when co-administered with 2 mg everolimus.
 If erythromycin is co-administered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary.

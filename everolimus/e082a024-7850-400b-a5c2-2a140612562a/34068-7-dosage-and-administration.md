@@ -26,7 +26,7 @@ There is an interaction of cyclosporine on everolimus, and consequently, everoli
 ## 2.3 Therapeutic Drug Monitoring- Cyclosporine
 
 Both cyclosporine doses and the target range for whole blood trough concentrations should be reduced, when given in a regimen with everolimus, in order to minimize the risk of nephrotoxicity.
-[See Warnings and Precautions (5.8) and Drug Interactions (7.2), Clinical Pharmacology (12.6)]
+[See Warnings and Precautions (5.6) and Drug Interactions (7.2), Clinical Pharmacology (12.6)]
 
 The recommended cyclosporine therapeutic range when administered with everolimus are 100 to 200 ng/mL through Month 1 post-transplant, 75 to 150 ng/mL at Months 2 and 3 post-transplant, 50 to 100 ng/mL at Month 4 post-transplant, and 25 to 50 ng/mL from Month 6 through Month 12 post-transplant.
 The median trough concentrations observed in the clinical trial ranged between 161 to 185 ng/mL through Month 1 post-transplant and between 111 to 140 ng/mL at Months 2 and 3 post-transplant.

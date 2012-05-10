@@ -7,17 +7,17 @@ The following adverse reactions are discussed in greater detail in other section
 - Hypersensitivity reactions [See Contraindications (4.1)]
 - Lymphomas and Other Malignancies [See Boxed Warning, Warnings and Precautions (5.2)]
 - Serious Infections [See Warnings and Precautions (5.3)]
-- Angioedema [See Warnings and Precautions (5.4)]
-- Graft Thrombosis [See Warnings and Precautions (5.5)]
-- Wound Healing and Fluid Accumulation [See Warnings and Precautions (5.6)]
-- Hyperlipidemia [See Warnings and Precautions (5.7)]
-- Nephrotoxicity [See Warnings and Precautions (5.8)]
-- Proteinuria [See Warnings and Precautions (5.9)]
-- Polyoma Virus Infections [See Warnings and Precautions (5.10)]
-- Non-infectious Pneumonitis [See Warnings and Precautions (5.12)]
-- Thrombotic Microangiopathy/Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome (TMA/TTP/HUS) [See Warnings and Precautions (5.13)]
-- New Onset Diabetes After Transplant [See Warnings and Precautions (5.14)]
-- Male Infertility [See Warnings and Precautions (5.15)]
+- Graft Thrombosis [See Warnings and Precautions (5.4)]
+- Nephrotoxicity [See Warnings and Precautions (5.5)]
+- Angioedema [See Warnings and Precautions (5.7)]
+- Wound Healing and Fluid Accumulation [See Warnings and Precautions (5.8)]
+- Hyperlipidemia [See Warnings and Precautions (5.9)]
+- Proteinuria [See Warnings and Precautions (5.10)]
+- Polyoma Virus Infections [See Warnings and Precautions (5.11)]
+- Non-infectious Pneumonitis [See Warnings and Precautions (5.13)]
+- Thrombotic Microangiopathy/Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome (TMA/TTP/HUS) [See Warnings and Precautions (5.14)]
+- New Onset Diabetes After Transplant [See Warnings and Precautions (5.15)]
+- Male Infertility [See Warnings and Precautions (5.16)]
 
 ## 6.2 Clinical Studies Experience
 
@@ -71,7 +71,7 @@ The overall incidence of wound-related events, including lymphocele, seroma, hem
 More patients required intraoperative repair debridement or drainage of incisional wound complications and more required drainage of lymphoceles and seromas in the everolimus group compared to control.
 
 Adverse reactions due to major fluid collections such as edema and other types of fluid collections was 45% in the everolimus group and 40% in the control group.
-[See Warnings and Precautions (5.6)]
+[See Warnings and Precautions (5.8)]
 
 Neoplasms
 
@@ -171,11 +171,11 @@ General Disorders and Administrative Site Conditions: chest discomfort, chest pa
 
 Hepatobiliary Disorders: hepatic enzyme increased, bilirubin increased
 
-Infections and Infestations: BK virus infection [See Warnings and Precautions (5.10)], bacteremia, bronchitis, candidiasis, cellulitis, folliculitis, gastroenteritis, influenza, nasopharyngitis, onychomycosis, oral candidiasis, osteomyelitis, pneumonia, pyelonephritis, sinusitis, tinea pedis, urethritis, wound infection, herpes infections [See Boxed Warning and Warnings and Precautions (5.2)]
+Infections and Infestations: BK virus infection [See Warnings and Precautions (5.11)], bacteremia, bronchitis, candidiasis, cellulitis, folliculitis, gastroenteritis, influenza, nasopharyngitis, onychomycosis, oral candidiasis, osteomyelitis, pneumonia, pyelonephritis, sinusitis, tinea pedis, urethritis, wound infection, herpes infections [See Boxed Warning and Warnings and Precautions (5.2)]
 
 Injury Poisoning and Procedural Complications: incision site complications including infections, perinephric collection, seroma, wound dehiscence, incisional hernia, perinephric hematoma, localized intraabdominal fluid collection, impaired healing, lymophocele, lymphorrhea
 
-Metabolism and Nutrition Disorders: blood urea increased, acidosis, anorexia, dehydration, diabetes mellitus [See Warnings and Precautions (5.14)], fluid retention, gout, hypercalcemia, hypercholesterolemia [See Warnings and Precautions (5.7)], hyperphosphatemia, hypertriglyceridemia, hyperuricemia, hypocalcemia, hypoglycemia, hyponatremia, iron deficiency, vitamin B12 deficiency
+Metabolism and Nutrition Disorders: blood urea increased, acidosis, anorexia, dehydration, diabetes mellitus [See Warnings and Precautions (5.15)], fluid retention, gout, hypercalcemia, hypercholesterolemia [See Warnings and Precautions (5.9)], hyperphosphatemia, hypertriglyceridemia, hyperuricemia, hypocalcemia, hypoglycemia, hyponatremia, iron deficiency, vitamin B12 deficiency
 
 Musculoskeletal and Connective Tissues Disorders: arthralgia, joint swelling, muscle spasms, muscular weakness, musculoskeletal pain, myalgia, osteonecrosis, osteopenia, osteoporosis, spondylitis
 
@@ -183,7 +183,7 @@ Nervous System Disorders: dizziness, hemiparesis, hypoaesthesia, paresthesia, so
 
 Psychiatric Disorders: agitation, anxiety, depression, hallucination
 
-Renal and Urinary Disorders: bladder spasm, hydronephrosis, micturation urgency, nephritis interstitial, pollakiuria, polyuria, proteinuria [See Warnings and Precautions (5.9)], pyuria, renal artery thrombosis [See Boxed Warning and Warnings and Precautions (5.5)], acute renal failure, renal impairment [See Warnings and Precautions (5.8)], urinary retention
+Renal and Urinary Disorders: bladder spasm, hydronephrosis, micturation urgency, nephritis interstitial, pollakiuria, polyuria, proteinuria [See Warnings and Precautions (5.10)], pyuria, renal artery thrombosis [See Boxed Warning and Warnings and Precautions (5.4)], acute renal failure, renal impairment [See Warnings and Precautions (5.5)], urinary retention
 
 Reproductive System and Breast Disorders: erectile dysfunction, ovarian cyst, scrotal edema
 
@@ -193,16 +193,16 @@ Skin and Subcutaneous Tissue Disorders: alopecia, dermatitis acneiform, hirsutis
 
 Less common, serious adverse reactions include:
 
-•Non-infectious Pneumonitis [See Warnings and Precautions (5.12) and Adverse Reactions (6.2)]
+•Non-infectious Pneumonitis [See Warnings and Precautions (5.13) and Adverse Reactions (6.2)]
 
-•Thrombotic Microangiopathy (TMA), Thrombotic Thrombocytopenic Purpura (TTP), and Hemolytic Uremic Syndrome (HUS) [See Warnings and Precautions (5.13)]
+•Thrombotic Microangiopathy (TMA), Thrombotic Thrombocytopenic Purpura (TTP), and Hemolytic Uremic Syndrome (HUS) [See Warnings and Precautions (5.14)]
 
 The combination of fixed dose everolimus and standard doses cyclosporine in previous clinical trials resulted in frequent elevations of serum creatinine with higher mean and median serum creatinine values was observed than in the current study with reduced doses of cyclosporine.
 These results indicate that everolimus increases the cyclosporine-induced nephrotoxicity; and therefore should only be used in a concentration-controlled regimen with reduced doses of cyclosporine.
-[See Boxed Warnings, Indications and Usage (1.2) and Warnings and Precautions (5.8)]
+[See Boxed Warnings, Indications and Usage (1.2) and Warnings and Precautions (5.5)]
 
 ## 6.3 Post Marketing Experience
 
 Adverse reactions identified from the post-marketing use of the combination regimen of everolimus and cyclosporine that are not specific to any one transplant indication include angioedema [See Warnings and Precautions (5.4)] and pancreatitis.
 There have also been reports of male infertility with mTOR inhibitors including everolimus.
-[See Warnings and Precautions (5.15)].
+[See Warnings and Precautions (5.16)].

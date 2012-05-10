@@ -48,7 +48,7 @@ Patients should be monitored for the development of rhabdomyolysis and other adv
 ## 7.7 Simvastatin and Lovastatin
 
 Due to an interaction with cyclosporine, clinical studies of everolimus with cyclosporine conducted in kidney transplant patients strongly discouraged patients with receiving HMG-CoA reductase inhibitors such as simvastatin and lovastatin.
-[See Warnings and Precautions (5.7)]
+[See Warnings and Precautions (5.12)]
 
 ## 7.8 Rifampin (Strong CYP3A4) Inducers
 

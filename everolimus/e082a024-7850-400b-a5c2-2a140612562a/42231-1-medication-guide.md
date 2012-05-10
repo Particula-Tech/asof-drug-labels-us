@@ -8,7 +8,7 @@ Read this Medication Guide before you start using ZORTRESS and each time you get
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or treatment.
 
-| What is the most important information I should know about ZORTRESS? ZORTRESS can cause serious side effects, including: Increased risk of getting certain cancers. People who take ZORTRESS have a higher chance of getting lymphoma and other cancers, especially skin cancer. Talk to your doctor about your risk for cancer. Increased risk of serious infections. ZORTRESS weakens the body’s immune system and affects your ability to fight infections. Serious infections can happen with ZORTRESS that may lead to death. People taking ZORTRESS have a higher chance of getting infections caused by viruses, bacteria, and fungi (yeast). Call your doctor if you have symptoms of infection including fever or chills. Serious problems with your transplanted kidney (nephrotoxicity). You will need to start with a lower dose of cyclosporine. Blood clot in the blood vessels of your transplanted kidney. If this happens, it usually occurs within the first 30 days after your kidney transplant. Tell your doctor right away if you: have pain in your groin, lower back, side or stomach (abdomen) make less urine or you do not pass any urine have blood in your urine or dark colored urine (tea-colored) have fever, nausea, or vomiting See the section “What are the possible side effects of ZORTRESS?” for information about other serious side effects. |
+| What is the most important information I should know about ZORTRESS? ZORTRESS can cause serious side effects, including: Increased risk of getting certain cancers. People who take ZORTRESS have a higher chance of getting lymphoma and other cancers, especially skin cancer. Talk to your doctor about your risk for cancer. Increased risk of serious infections. ZORTRESS weakens the body’s immune system and affects your ability to fight infections. Serious infections can happen with ZORTRESS that may lead to death. People taking ZORTRESS have a higher chance of getting infections caused by viruses, bacteria, and fungi (yeast). Call your doctor if you have symptoms of infection including fever or chills. Blood clot in the blood vessels of your transplanted kidney. If this happens, it usually occurs within the first 30 days after your kidney transplant. Tell your doctor right away if you: have pain in your groin, lower back, side or stomach (abdomen) make less urine or you do not pass any urine have blood in your urine or dark colored urine (tea-colored) have fever, nausea, or vomiting Serious problems with your transplanted kidney (nephrotoxicity). You will need to start with a lower dose of cyclosporine when you take it with ZORTRESS. Your Doctor should do regular blood tests to check your levels of both ZORTRESS and cyclosporine.Increased risk of death that can be related to infection, in people who have had a heart transplant. You should not take Zortress if you have had a heart transplant without talking to your doctor. See the section “What are the possible side effects of ZORTRESS?” for information about other serious side effects. |
 | --- |
 
 What is ZORTRESS?
@@ -185,8 +185,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Any other trademarks in this document are the property of their respective owners.
 
-T2010-26
-
 Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
@@ -194,3 +192,5 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 © Novartis
 
 Rapamune® is a registered trademark of Pfizer Inc Gengraf® is a registered trademark of Abbott Laboratories
+
+T2012-110/T2012-111 April 2012/April 2012

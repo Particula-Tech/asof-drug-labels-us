@@ -56,4 +56,4 @@ Antilymphocyte antibody induction was prohibited in both studies.
 Both were multicenter, double-blind (for first 12 months), randomized trials (1:1:1) of 588 and 583 de novo renal transplant patients, respectively.
 The 12 month analysis of GFR showed increased rates of renal impairment in both the everolimus groups compared to the mycophenolate mofetil group in both studies.
 Therefore, reduced doses of cyclosporine should be used in combination with everolimus in order to avoid renal dysfunction and everolimus trough concentrations should be adjusted using therapeutic drug monitoring to maintain trough concentrations between 3 to 8 ng/mL.
-[See Boxed Warning, Dosage and Administration (2.3) and Warnings and Precautions (5.8)]
+[See Boxed Warning, Dosage and Administration (2.3) and Warnings and Precautions (5.5)]

@@ -9,11 +9,9 @@ Therapeutic drug monitoring of everolimus and cyclosporine is recommended for al
 
 ## 1.2 Limitations of Use
 
-• In patients at high immunologic risk, the safety and efficacy of everolimus has not been established.
-
-• Use of everolimus for the prophylaxis of organ rejection in transplanted organs other than kidney has not been established.
-
-• Standard doses of cyclosporine should be avoided with everolimus in order to reduce the risk of nephrotoxicity.
-[See Warnings and Precautions (5), and Adverse Reactions (6.2)]
-
-• The safety and efficacy of Zortress has not been established in pediatric patients (<18 years).
+- In patients at high immunologic risk, the safety and efficacy of everolimus has not been established.
+- Standard doses of cyclosporine should be avoided with everolimus in order to reduce the risk of nephrotoxicity.
+  [See Warnings and Precautions (5.5), and Adverse Reactions (6.2)]
+- Use of everolimus for the prophylaxis of organ rejection in transplanted organs other than kidney has not been established.
+  [See Warnings and Precautions (5.6)]
+- The safety and efficacy of Zortress has not been established in pediatric patients (<18 years).
