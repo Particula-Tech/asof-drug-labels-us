@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.13)].
+Pregnancy Category D [see Warnings and Precautions (5.14)].
 
 Based on its mechanism of action and findings in animals, Tasigna may cause fetal harm when administered to a pregnant woman.
 There are no adequate and well controlled studies with Tasigna in pregnant women.

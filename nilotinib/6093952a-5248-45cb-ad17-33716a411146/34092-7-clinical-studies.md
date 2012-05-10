@@ -18,7 +18,6 @@ This study is on-going and further data will be required to determine long-term 
 The primary efficacy endpoint was major molecular response (MMR) at 12 months after the start of study medication.
 MMR was defined as ≤0.1% BCR-ABL/ABL % by international scale measured by RQ-PCR, which corresponds to a ≥3 log reduction of BCR-ABL transcript from standardized baseline.
 Efficacy endpoints are summarized in Table 9 below.
-
 After 24 months of minimum follow-up, two patients on the nilotinib arm progressed to either accelerated phase or blast crisis while 17 patients on the imatinib arm progressed to either accelerated phase or blast crisis.
 
 Table 9: Efficacy (MMR and CCyR) of TASIGNA Compared to Imatinib in Newly Diagnosed Ph+ CML-CP

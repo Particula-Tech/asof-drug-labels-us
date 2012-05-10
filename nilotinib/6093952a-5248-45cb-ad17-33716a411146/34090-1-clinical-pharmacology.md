@@ -2,17 +2,19 @@
 
 ## 12.1 Mechanism of Action
 
-Nilotinib is an inhibitor of the Bcr-Abl kinase.
-Nilotinib binds to and stabilizes the inactive conformation of the kinase domain of Abl protein.
-In vitro, nilotinib inhibited Bcr-Abl mediated proliferation of murine leukemic cell lines and human cell lines derived from patients with Ph+ CML.
-Under the conditions of the assays, nilotinib was able to overcome imatinib resistance resulting from Bcr-Abl kinase mutations, in 32 out of 33 mutations tested.
-In vivo, nilotinib reduced the tumor size in a murine Bcr-Abl xenograft model.
-Nilotinib inhibited the autophosphorylation of the following kinases at IC50 values as indicated: Bcr-Abl (20-60 nM), PDGFR (69 nM), c-Kit (210 nM), CSF-1R (125-250 nM) and DDR1a (3.7 nM).
+Nilotinib is an inhibitor of the BCR-ABL kinase.
+Nilotinib binds to and stabilizes the inactive conformation of the kinase domain of ABL protein.
+In vitro, nilotinib inhibited BCR-ABL mediated proliferation of murine leukemic cell lines and human cell lines derived from patients with Ph+ CML.
+Under the conditions of the assays, nilotinib was able to overcome imatinib resistance resulting from BCR-ABL kinase mutations, in 32 out of 33 mutations tested.
+In vivo, nilotinib reduced the tumor size in a murine BCR-ABL xenograft model.
+Nilotinib inhibited the autophosphorylation of the following kinases at IC50 values as indicated: BCR-ABL (20-60 nM), PDGFR (69 nM), c-KIT (210 nM), CSF-1R (125-250 nM) and DDR1 (3.7 nM).
 
 ## 12.3 Pharmacokinetics
 
 Absorption and Distribution
 
+The absolute bioavailability of nilotinib has not been determined.
+As compared to an oral drink solution (pH of 1.2 to 1.3), relative bioavailability of nilotinib capsule is approximately 50%.
 Peak concentrations of nilotinib are reached 3 hours after oral administration.
 
 Steady-state nilotinib exposure was dose-dependent with less than dose-proportional increases in systemic exposure at dose levels higher than 400 mg given as once daily dosing.
@@ -28,7 +30,7 @@ Single dose administration of two 200 mg nilotinib capsules each dispersed in on
 The blood-to-serum ratio of nilotinib is 0.68.
 Serum protein binding is approximately 98% on the basis of in vitro experiments.
 
-Median steady-state trough concentration of nilotinib was decreased by 53% in patients with total gastrectomy compared to patients who had not undergone surgeries [see Warnings and Precautions (5.10)].
+Median steady-state trough concentration of nilotinib was decreased by 53% in patients with total gastrectomy compared to patients who had not undergone surgeries [see Warnings and Precautions (5.11)].
 
 Pharmacokinetics, Metabolism and Excretion
 
