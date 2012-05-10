@@ -6,7 +6,7 @@ TABLETS, Film-coated, capsule-shaped
 - 500 mg peach tablets, imprinted with "500" on one side and "LEVAQUIN" on the other
 - 750 mg white tablets, imprinted with "750" on one side and "LEVAQUIN" on the other
 
-ORAL SOLUTION, 25mg/mL, clear yellow to clear greenish-yellow color
+ORAL SOLUTION, 25 mg/mL, clear yellow to clear greenish-yellow color
 
 INJECTION, Single-Use Vials of concentrated solution for dilution for intravenous infusion, clear yellow to clear greenish-yellow in appearance
 

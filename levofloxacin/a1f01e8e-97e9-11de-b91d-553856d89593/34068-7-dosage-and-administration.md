@@ -13,8 +13,8 @@ Table 1: Dosage in Adult Patients with Normal Renal Function (creatinine clearan
 | Type of InfectionDue to the designated pathogens [see Indications and Usage (1)]. | Dosed Every 24 hours | Duration (days)Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician. |
 | --- | --- | --- |
 | Nosocomial Pneumonia | 750 mg | 7–14 |
-| Community Acquired PneumoniaDue to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant strains [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Indications and Usage (1.2)]. | 500 mg | 7–14 |
-| Community Acquired PneumoniaDue to Streptococcus pneumoniae (excluding multi-drug-resistant strains [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Mycoplasma pneumoniae, or Chlamydophila pneumoniae [see Indications and Usage (1.3)]. | 750 mg | 5 |
+| Community Acquired PneumoniaDue to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant isolates [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Indications and Usage (1.2)]. | 500 mg | 7–14 |
+| Community Acquired PneumoniaDue to Streptococcus pneumoniae (excluding multi-drug-resistant isolates [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Mycoplasma pneumoniae, or Chlamydophila pneumoniae [see Indications and Usage (1.3)]. | 750 mg | 5 |
 | Acute Bacterial Sinusitis | 750 mg | 5 |
 | 500 mg | 10–14 |  |
 | Acute Bacterial Exacerbation of Chronic Bronchitis | 500 mg | 7 |
@@ -24,8 +24,10 @@ Table 1: Dosage in Adult Patients with Normal Renal Function (creatinine clearan
 | Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP)This regimen is indicated for cUTI due to Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis and AP due to E. coli, including cases with concurrent bacteremia. | 750 mg | 5 |
 | Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP)This regimen is indicated for cUTI due to Enterococcus faecalis, Enterococcus cloacae, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa; and for AP due to E. coli. | 250 mg | 10 |
 | Uncomplicated Urinary Tract Infection | 250 mg | 3 |
-| Inhalational Anthrax (Post-Exposure), adult and pediatric patients > 50 kg and ≥ 6 months of ageDrug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis. This indication is based on a surrogate endpoint. Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see Clinical Studies (14.9)].,The safety of LEVAQUIN® in adults for durations of therapy beyond 28 days or in pediatric patients for durations beyond 14 days has not been studied. An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.10), Use in Specific Populations (8.4), and Clinical Studies (14.9)]. Prolonged LEVAQUIN® therapy should only be used when the benefit outweighs the risk. | 500 mg | 60 |
+| Inhalational Anthrax (Post-Exposure), adult and pediatric patients > 50 kg Drug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis. This indication is based on a surrogate endpoint. Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see Clinical Studies (14.9)].,The safety of LEVAQUIN® in adults for durations of therapy beyond 28 days or in pediatric patients for durations beyond 14 days has not been studied. An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.10), Use in Specific Populations (8.4), and Clinical Studies (14.9)]. Prolonged LEVAQUIN® therapy should only be used when the benefit outweighs the risk. | 500 mg | 60 |
 | Pediatric patients < 50 kg and ≥ 6 months of age, | see Table 2 below (2.2) | 60 |
+| Plague, adult and pediatric patients > 50 kg Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis. Higher doses of LEVAQUIN typically used for treatment of pneumonia can be used for treatment of plague, if clinically indicated. | 500 mg | 10 to 14 |
+| Pediatric patients < 50 kg and ≥ 6 months of age | see Table 2 below (2.2) | 10 to 14 |
 
 ## 2.2 Dosage in Pediatric Patients
 
@@ -33,11 +35,14 @@ The dosage in pediatric patients ≥ 6 months of age is described below in Table
 
 Table 2: Dosage in Pediatric Patients ≥ 6 months of age
 
-| Type of InfectionDue to Bacillus anthracis [see Indications and Usage (1.13)] | Dose | Freq. Once every | DurationSequential therapy (intravenous to oral) may be instituted at the discretion of the physician. |
+| Type of InfectionDue to Bacillus anthracis [see Indications and Usage (1.13)] and Yersinia pestis [see Indications and Usage (1.14)]. | Dose | Freq. Once every | DurationSequential therapy (intravenous to oral) may be instituted at the discretion of the physician. |
 | --- | --- | --- | --- |
 | Inhalational Anthrax (post-exposure)Drug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis. This indication is based on a surrogate endpoint. Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see Clinical Studies (14.9)],The safety of LEVAQUIN® in pediatric patients for durations of therapy beyond 14 days has not been studied. An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.10), Use in Specific Populations (8.4), and Clinical Studies (14.9)]. Prolonged LEVAQUIN® therapy should only be used when the benefit outweighs the risk. |  |  |  |
-| Pediatric patients > 50 kg and ≥ 6 months of age | 500 mg | 24 hr | 60 days |
+| Pediatric patients > 50 kg | 500 mg | 24 hr | 60 days |
 | Pediatric patients < 50 kg and ≥ 6 months of age | 8 mg/kg (not to exceed 250 mg per dose) | 12 hr | 60 days |
+| PlagueDrug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis. |  |  |  |
+| Pediatric patients > 50 kg | 500 mg | 24 hr | 10 to 14 days |
+| Pediatric patients < 50 kg and ≥ 6 months of age | 8 mg/kg (not to exceed 250 mg per dose) | 12 hr | 10 to 14 days |
 
 ## 2.3 Dosage Adjustment in Adults with Renal Impairment
 

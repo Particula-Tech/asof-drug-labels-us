@@ -4,7 +4,7 @@ PRINCIPAL DISPLAY PANEL - 250 mg Tablet Carton
 
 NDC 50458-920-10
 
-Once-a-day Lēvaquin®tablets (levofloxacin tablets)
+Once-a-day Lēvaquin® tablets (levofloxacin tablets)
 
 Attention Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
@@ -13,6 +13,26 @@ Attention Pharmacist: Dispense the accompanying Medication Guide to each patient
 Store at 15° to 30°C (59° to 86°F).
 
 Rx only
+
+Package Not Child Resistant
+
+PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle
+
+50 Tablets
+
+NDC 50458-925-50
+
+Once-a-day Lēvaquin ® tablets (levofloxacin tablets)
+
+500 mg
+
+Attention Pharmacist: Dispense the accompanying Medication Guide to each patient.
+
+Active Ingredient Made in Japan
+
+Finished Product Manufactured by: JOLLC Gurabo, Puerto Rico 00778
+
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
 PRINCIPAL DISPLAY PANEL - 25 mg/mL Oral Solution Carton
 
@@ -36,20 +56,22 @@ Store bottle at 25°C (77°F); excursions permitted to 15° - 30°C (59° - 86°
 
 Keep out of reach of children.
 
-Manufactured by: Janssen Pharmaceutica, N.V.
+Active Ingredient Made in Japan
+
+Finished Product Manufactured by: Janssen Pharmaceutica, N.V.
 Beerse, Belgium
 
-Manufactured for: PriCara, Division of Ortho-McNeil- Janssen Pharmaceuticals, Inc. Raritan, New Jersey 08869
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-PriCara® Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
+Janssen
 
-Rx only.
+Rx only
 
 PRINCIPAL DISPLAY PANEL - 25 mg/mL Injection Carton
 
 20 mL NDC 50458-164-20
 
-Lēvaquin®injection (levofloxacin injection)
+Lēvaquin® injection (levofloxacin injection)
 
 FOR INTRAVENOUS INFUSION
 
@@ -68,7 +90,7 @@ Beerse, Belgium
 
 Manufactured for: Ortho-McNeil, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, New Jersey 08869
 
-PRINCIPAL DISPLAY PANEL - 5 mg/mL Bag
+PRINCIPAL DISPLAY PANEL - 5 mg/mL Injection 50 mL Bag
 
 NDC 50458-167-01 DIN 02236839
 
@@ -105,6 +127,44 @@ Use only if solution is clear and the container is undamaged.
 
 Rx only
 
-Manufactured by: Hospira, Inc., Austin, TX 78728 Manufactured for: Ortho-McNeil, Division of Ortho-McNeil- Janssen Pharmaceuticals, Inc., Raritan, NJ 08869 ©OMJPI
+Active Ingredient Made in Japan
 
-10195200 Revised August, 2009 WR-0359
+Finished Product Manufactured by: Hospira, Inc., Austin, TX 78728 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560 © Janssen Pharmaceuticals, Inc. 2011
+
+10226200 Revised June 2011 WR-0406
+
+PRINCIPAL DISPLAY PANEL - 5 mg/mL Injection 100 mL Bag
+
+Pr
+
+100 mL
+
+NDC 50458-168-01 DIN 02236839
+
+LEVAQUIN® (levofloxacin in 5% dextrose) Injection FOR INTRAVENOUS INFUSION • 500 mg levofloxacin (5 mg/mL) For the US: Attention Pharmacist: Dispense the accompanying Medication Guide to each patient.
+For Canada: Pharmacist: Dispense with consumer information.
+
+USE IMMEDIATELY ONCE REMOVED FROM THE OVERWRAP.
+INFUSE OVER 60 MINUTES.
+No further dilution is necessary.
+Each 100 mL contains a dilute solution equivalent of 500 mg of levofloxacin (5 mg/mL) in 5% dextrose.
+May contain Hydrochloric Acid, NF and/or Sodium Hydroxide, NF to adjust pH to 3.8–5.8.
+Additives should not be added or infused simultaneously through the same intrave- nous line.
+Single-use container.
+Any unused portion should be discarded.
+Usual Adult Dosage: See Insert.
+Sterile (stérile), nonpyrogenic.
+Use only if solution is clear and container is undamaged.
+Must not be used in series connection.
+
+Active Ingredient Made in Japan
+
+Finished Product Manufactured by: Hospira, Inc., Austin, TX 78728 Manufactured for: Janssen Pharmaceuticals,Inc.
+Titusville, NJ 08560 and Janssen Inc., Toronto, Canada M3C 1L9
+
+Rx only IM-2139 Rev.
+6/11
+
+500 mg
+
+© Janssen 2011 10226500

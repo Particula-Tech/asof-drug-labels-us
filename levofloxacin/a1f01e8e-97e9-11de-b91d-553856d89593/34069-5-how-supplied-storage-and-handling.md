@@ -5,7 +5,7 @@
 LEVAQUIN® Tablets are supplied as 250, 500, and 750 mg capsule-shaped, coated tablets.
 LEVAQUIN® Tablets are packaged in bottles and in unit-dose blister strips in the following configurations:
 
-- 250 mg tablets are terra cotta pink and are imprinted: "LEVAQUIN" on one side and "250" on the other side.
+- 250 mg tablets are terra cotta pink and are imprinted: "LEVAQUIN" on one side and "250" on the other side
   - –bottles of 50 (NDC 50458-920-50)
   - –unit-dose/100 tablets (NDC 50458-920-10)
 - 500 mg tablets are peach and are imprinted: "LEVAQUIN" on one side and "500" on the other side

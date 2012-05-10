@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide (17.5)
+See FDA-Approved Medication Guide (17.6)
 
 ## 17.1 Antibacterial Resistance
 
@@ -55,6 +55,11 @@ Patients should be informed that if they are diabetic and are being treated with
 Patients should be informed that concurrent administration of warfarin and LEVAQUIN® has been associated with increases of the International Normalized Ratio (INR) or prothrombin time and clinical episodes of bleeding.
 Patients should notify their physician if they are taking warfarin, be monitored for evidence of bleeding, and also have their anticoagulation tests closely monitored while taking warfarin concomitantly.
 
+## 17.5 Plague and Anthrax Studies
+
+Patients given LEVAQUIN® for these conditions should be informed that efficacy studies could not be conducted in humans for ethical and feasibility reasons.
+Therefore, approval for these conditions was based on efficacy studies conducted in animals.
+
 Active Ingredient Made in Japan
 
 Finished Product Manufactured by:
@@ -69,6 +74,6 @@ Manufactured for:
 
 © Janssen Pharmaceuticals, Inc.
 
-Issued October 2011.
+Issued April 2012
 
-## 17.5 FDA-Approved Medication Guide
+## 17.6 FDA-Approved Medication Guide
