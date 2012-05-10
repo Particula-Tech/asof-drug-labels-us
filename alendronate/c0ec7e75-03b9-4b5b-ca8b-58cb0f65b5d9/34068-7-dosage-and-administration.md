@@ -27,7 +27,7 @@ Patients at increased risk for vitamin D insufficiency (e.g., over the age of 70
 Patients with gastrointestinal malabsorption syndromes may require higher doses of vitamin D supplementation and measurement of 25-hydroxyvitamin D should be considered.
 
 The recommended intake of vitamin D is 400 IU-800 IU daily.
-FOSAMAX PLUS D 70 mg/2800 IU and 70 mg/5600 IU are intended to provide seven days’ worth of 400 and 800 IU daily vitamin D in a single, once-weekly dose, respectively.
+FOSAMAX PLUS D 70 mg/2800 IU and 70 mg/5600 IU are intended to provide seven days' worth of 400 and 800 IU daily vitamin D in a single, once-weekly dose, respectively.
 
 Causes of osteoporosis other than estrogen deficiency, aging, and glucocorticoid use should be considered.
 

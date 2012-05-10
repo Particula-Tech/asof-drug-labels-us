@@ -19,7 +19,7 @@ FOSAMAX PLUS D can cause serious side effects including:
    Some people who take FOSAMAX PLUS D may develop problems in the esophagus (the tube that connects the mouth and the stomach).
    These problems include irritation, inflammation, or ulcers of the esophagus which may sometimes bleed.
    - It is important that you take FOSAMAX PLUS D exactly as prescribed to help lower your chance of getting esophagus problems.
-     (See the section “How should I take FOSAMAX PLUS D?”)
+     (See the section "How should I take FOSAMAX PLUS D?")
    - Stop taking FOSAMAX PLUS D and call your doctor right away if you get chest pain, new or worsening heartburn, or have trouble or pain when you swallow.
 2. Low calcium levels in your blood (hypocalcemia).
    FOSAMAX PLUS D may lower the calcium levels in your blood.
@@ -124,7 +124,7 @@ What are the possible side effects of FOSAMAX PLUS D?
 
 FOSAMAX PLUS D may cause serious side effects.
 
-- See “What is the most important information I should know about FOSAMAX PLUS D?”
+- See "What is the most important information I should know about FOSAMAX PLUS D?"
 
 The most common side effects of FOSAMAX PLUS D are:
 
@@ -170,16 +170,3 @@ What are the ingredients in FOSAMAX PLUS D?
 Active ingredients: alendronate sodium and cholecalciferol (vitamin D3).
 
 Inactive ingredients: cellulose, lactose, medium chain triglycerides, gelatin, croscarmellose sodium, sucrose, colloidal silicon dioxide, magnesium stearate, butylated hydroxytoluene, modified food starch, and sodium aluminum silicate.
-
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-By: FROSST IBERICA, S.A.
-28805 Alcalá de Henares Madrid, Spain
-
-Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
-
-Revised July 2011
-
-6013312
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.

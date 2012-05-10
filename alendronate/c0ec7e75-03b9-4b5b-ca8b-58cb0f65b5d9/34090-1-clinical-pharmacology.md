@@ -66,7 +66,7 @@ Patients who were vitamin D deficient (25‑hydroxyvitamin D <9 ng/mL) at baseli
 Treatment with FOSAMAX PLUS D 70 mg/2800 IU resulted in a smaller reduction in serum calcium levels (-0.9%) when compared to FOSAMAX 70 mg alone (-1.4%).
 As well, treatment with FOSAMAX PLUS D 70 mg/2800 IU resulted in a significantly smaller increase in parathyroid hormone levels when compared to FOSAMAX 70 mg alone (14% and 24%, respectively).
 
-The sufficiency of patients’ vitamin D status is best assessed by measuring 25-hydroxyvitamin D levels.
+The sufficiency of patients' vitamin D status is best assessed by measuring 25-hydroxyvitamin D levels.
 In the 15‑week trial mentioned above, baseline 25-hydroxyvitamin D levels were 22.2 ng/mL in the FOSAMAX PLUS D group and 22.1 ng/mL in the FOSAMAX only group.
 After 15 weeks of treatment, the mean levels were 23.1 ng/mL and 18.4 ng/mL in the FOSAMAX PLUS D and FOSAMAX only groups, respectively.
 The final levels of 25-hydroxyvitamin D at Week 15 are summarized in Table 4.

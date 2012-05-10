@@ -24,14 +24,3 @@ Patients should be instructed that if they develop symptoms of esophageal diseas
 
 Patients should be instructed that if they miss a dose of FOSAMAX PLUS D, they should take one tablet on the morning after they remember.
 They should not take two tablets on the same day but should return to taking one tablet once a week, as originally scheduled on their chosen day.
-
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-By: FROSST IBERICA, S.A.
-28805 Alcalá de Henares Madrid, Spain
-
-Issued July 2011
-
-6013312
-
-Copyright © 2005, 2007, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved

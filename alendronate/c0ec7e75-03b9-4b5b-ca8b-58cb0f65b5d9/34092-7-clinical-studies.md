@@ -74,7 +74,7 @@ At the end of the FIT studies the between-treatment group differences were 3.2 m
 
 Effect on Bone Mineral Density
 
-The efficacy of FOSAMAX 10 mg once daily in postmenopausal women with osteoporosis (lumbar spine bone mineral density [BMD] of at least 2 standard deviations below the premenopausal mean) was demonstrated in four double-blind, placebo-controlled clinical studies of two or three years’ duration.
+The efficacy of FOSAMAX 10 mg once daily in postmenopausal women with osteoporosis (lumbar spine bone mineral density [BMD] of at least 2 standard deviations below the premenopausal mean) was demonstrated in four double-blind, placebo-controlled clinical studies of two or three years' duration.
 These included two three-year, multicenter studies of virtually identical design, one performed in the United States (U.S.) and the other in 15 different countries (Multinational), which enrolled 478 and 516 patients, respectively.
 Figure 2 shows the mean increases in BMD of the lumbar spine, femoral neck, and trochanter in patients receiving FOSAMAX 10 mg/day relative to placebo-treated patients at three years for each of these studies.
 

@@ -48,7 +48,7 @@ Table 2: Osteoporosis Treatment Studies in Postmenopausal Women: Adverse Experie
 
 Concomitant Use With Estrogen or Estrogen/Progestin Products
 
-In two studies (of one and two years’ duration) of postmenopausal osteoporotic women (total: n=853), the safety and tolerability profile of combined treatment with FOSAMAX 10 mg once daily and estrogen ± progestin (n=354) was consistent with those of the individual treatments.
+In two studies (of one and two years' duration) of postmenopausal osteoporotic women (total: n=853), the safety and tolerability profile of combined treatment with FOSAMAX 10 mg once daily and estrogen ± progestin (n=354) was consistent with those of the individual treatments.
 
 Men
 
