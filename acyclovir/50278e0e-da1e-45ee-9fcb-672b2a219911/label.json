@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA018604"
+  ],
+  "inn": "acyclovir",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-0993-95"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "acyclovir",
+      "name": "Zovirax"
+    }
+  ],
+  "setid": "50278e0e-da1e-45ee-9fcb-672b2a219911",
+  "source": "dailymed"
+}
