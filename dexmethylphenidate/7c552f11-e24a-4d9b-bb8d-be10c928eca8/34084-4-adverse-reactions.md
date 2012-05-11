@@ -43,6 +43,13 @@ Table 1 Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatme
 1 Events, regardless of causality, for which the incidence for patients treated with Focalin was at least 5% and twice the incidence among placebo-treated patients.
 Incidence has been rounded to the nearest whole number.
 
+## Adverse Events from Post-Marketing Experience
+
+The following additional adverse reactions have been identified during postapproval use of Focalin XR.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency:
+
+Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis
+
 ## Adverse Events with Other Methylphenidate HCl Products
 
 Nervousness and insomnia are the most common adverse reactions reported with other methylphenidate products.

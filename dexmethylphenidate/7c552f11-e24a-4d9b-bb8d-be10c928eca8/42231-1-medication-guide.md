@@ -85,6 +85,7 @@ See “What is the most important information I should know about FOCALIN®?” 
 
 Other serious side effects include:
 
+- Serious allergic reactions (symptoms can be difficulty breathing, swelling of the face, neck and throat, rashes and hives, fever)
 - slowing of growth (height and weight) in children
 - seizures, mainly in patients with a history of seizures
 - eyesight changes or blurred vision
@@ -127,8 +128,6 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-REV: DECEMBER 2010 T2010-118/T2009-26
-
 Manufactured for:
 
 Novartis Pharmaceuticals Corporation
@@ -142,3 +141,5 @@ Mikart, Inc.
 Atlanta, GA 30318
 
 © Novartis
+
+T2012-112/T2012-113 May 2012/May 2012
