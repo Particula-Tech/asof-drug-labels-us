@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021478"
+  ],
+  "inn": "acyclovir",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-0994-45"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "acyclovir",
+      "name": "Zovirax"
+    }
+  ],
+  "setid": "125dbe4e-94ba-45bd-a714-f9c4b8e8b5c2",
+  "source": "dailymed"
+}
