@@ -15,7 +15,7 @@ Continued itraconazole use or reinstitution of treatment with itraconazole is st
 
 ## Cardiac Dysrhythmias
 
-Life-threatening cardiac dysrhythmias and/or sudden death have occurred in patients using cisapride, pimozide, levacetylmethadol (levomethadyl), or quinidine concomitantly with itraconazole and/or other CYP3A4 inhibitors.
+Life-threatening cardiac dysrhythmias and/or sudden death have occurred in patients using cisapride, pimozide, methadone, levacetylmethadol (levomethadyl), or quinidine concomitantly with itraconazole and/or other CYP3A4 inhibitors.
 Concomitant administration of these drugs with itraconazole is contraindicated.
 (See BOX WARNING, CONTRAINDICATIONS, and PRECAUTIONS: Drug Interactions.)
 
@@ -31,7 +31,7 @@ If signs or symptoms of CHF appear during administration of Itraconazole Capsule
 
 Itraconazole has been shown to have a negative inotropic effect.
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
-In a healthy volunteer study of SPORANOX® (itraconazole) Injection (intravenous infusion), transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
+In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
 
 Itraconazole has been associated with reports of congestive heart failure.
 In post-marketing experience, heart failure was more frequently reported in patients receiving a total daily dose of 400 mg although there were also cases reported among those receiving lower total daily doses.
@@ -116,13 +116,13 @@ Selected Drugs that Are Predicted to Alter the Plasma Concentration of Itraconaz
 | Antineoplastics | busulfan, docetaxel, vinca alkaloids |
 | Antipsychotics | pimozide |
 | Benzodiazepines | alprazolam, diazepam, midazolam,, For information on parenterally administered midazolam, see the Benzodiazepine paragraph below. triazolam |
-| Calcium Channel Blockers | dihydropyridines (including nisoldipine), verapamil |
+| Calcium Channel Blockers | dihydropyridines (including felodipine and nisoldipine), verapamil |
 | Gastrointestinal Motility Agents | cisapride |
 | HMG CoA-Reductase Inhibitors | atorvastatin, cerivastatin, lovastatin, simvastatin |
 | Immunosuppressants | cyclosporine, tacrolimus, sirolimus |
 | Oral Hypoglycemics | oral hypoglycemics |
 | Protease Inhibitors | indinavir, ritonavir, saquinavir |
-| Other | levacetylmethadol (levomethadyl), ergot alkaloids, halofantrine, alfentanil, buspirone, methylprednisolone, budesonide, dexamethasone, fluticasone, trimetrexate, warfarin, cilostazol, eletriptan, fentanyl |
+| Other | methadone, levacetylmethadol (levomethadyl), ergot alkaloids, halofantrine, alfentanil, buspirone, methylprednisolone, budesonide, dexamethasone, fluticasone, trimetrexate, warfarin, cilostazol, eletriptan, fentanyl |
 | Decrease plasma concentration of itraconazole |  |
 | Anticonvulsants | carbamazepine, phenobarbital, phenytoin |
 | Antimycobacterials | isoniazid, rifabutin, rifampin |
@@ -185,11 +185,13 @@ If midazolam is administered parenterally, special precaution and patient monito
 Edema has been reported in patients concomitantly receiving itraconazole and dihydropyridine calcium channel blockers.
 Appropriate dosage adjustment may be necessary.
 
-Calcium channel blockers can have a negative inotropic effect which may be additive to those of itraconazole; itraconazole can inhibit the metabolism of calcium channel blockers such as dihydropyridines (e.g., nifedipine and felodipine) and verapamil.
+Calcium channel blockers can have a negative inotropic effect which may be additive to those of itraconazole; itraconazole can inhibit the metabolism of calcium channel blockers such as dihydropyridines (e.g., nifedipine, nisoldipine and felodipine) and verapamil.
 Therefore, caution should be used when co-administering itraconazole and calcium channel blockers due to an increased risk of CHF.
 Concomitant administration of itraconazole and nisoldipine results in clinically significant increases in nisoldipine plasma concentrations, which cannot be managed by dosage reduction.
 Therefore the concomitant administration of Itraconazole Capsules and nisoldipine is contraindicated.
-(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and ADVERSE REACTIONS: Post-marketing Experience for more information).
+A clinical study showed that felodipine exposure was increased by coadministration of itraconazole, resulting in approximately a 6-fold increase in the AUC and an 8-fold increase in the Cmax.
+The concomitant use of itraconazole and felodipine is contraindicated.
+(See CONTRAINDICATIONS, WARNINGS, ADVERSE REACTIONS: Post-marketing Experience, and CLINICAL PHARMACOLOGY: Special Populations for more information).
 
 ### Gastric Acid Suppressors/Neutralizers
 
@@ -249,9 +251,9 @@ Caution is advised when itraconazole and protease inhibitors must be given conco
 
 ### Other
 
-- Levacetylmethadol (levomethadyl) is known to prolong the QT interval and is metabolized by CYP3A4.
-  Co-administration of levacetylmethadol with itraconazole could result in serious cardiovascular events.
-  Therefore, concomitant administration of itraconazole and levacetylmethadol is contraindicated.
+- Methadone and levacetylmethadol (levomethadyl) are known to prolong the QT interval and are metabolized by CYP3A4.
+  Co-administration of methadone or levacetylmethadol with itraconazole could result in serious cardiovascular events.
+  Therefore, concomitant administration of itraconazole and methadone or levacetylmethadol is contraindicated.
 - Elevated concentrations of ergot alkaloids can cause ergotism, ie. a risk for vasospasm potentially leading to cerebral ischemia and/or ischemia of the extremities.
   Concomitant administration of ergot alkaloids such as dihydroergotamine, ergometrine (ergonovine), ergotamine and methylergometrine (methylergonovine) with itraconazole is contraindicated.
 - Halofantrine has the potential to prolong the QT interval at high plasma concentrations.

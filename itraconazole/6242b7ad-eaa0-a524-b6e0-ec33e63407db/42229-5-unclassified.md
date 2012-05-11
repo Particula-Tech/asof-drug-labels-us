@@ -2,7 +2,7 @@ PATRIOT Pharmaceuticals
 
 Itraconazole Capsules
 
-Revised June 2011
+Revised April 2012
 
 Capsule contents manufactured by: Janssen Pharmaceutica N.V.
 Olen, Belgium
