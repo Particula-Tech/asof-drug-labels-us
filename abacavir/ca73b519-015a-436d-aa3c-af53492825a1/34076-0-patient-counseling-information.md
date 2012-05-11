@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA -approved patient labeling (Medication Guide).
+See FDA -approved patient labeling (Medication Guide)
 
 ## 17.1 Information About Therapy With ZIAGEN
 

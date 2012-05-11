@@ -32,7 +32,7 @@ If you get a symptom from 2 or more of the following groups while taking ZIAGEN,
 A list of these symptoms is on the Warning Card your pharmacist gives you.
 Carry this Warning Card with you at all times.
 
-If you stop ZIAGEN because of an allergic reaction, never take ZIAGEN (abacavir sulfate or any other abacavir-containing medicine (EPZICOM and TRIZIVIR) again.
+If you stop ZIAGEN because of an allergic reaction, never take ZIAGEN (abacavir sulfate) or any other abacavir-containing medicine (EPZICOM and TRIZIVIR) again.
 If you take ZIAGEN or any other abacavir-containing medicine again after you have had an allergic reaction, within hours you may get life-threatening symptoms that may include very low blood pressure or death.
 If you stop ZIAGEN, for any other reason, even for a few days, and you are not allergic to ZIAGEN, talk with your healthcare provider before taking it again.
 Taking ZIAGEN again can cause a serious allergic or life-threatening reaction, even if you never had an allergic reaction to it before.
@@ -102,7 +102,7 @@ Before you take ZIAGEN, tell your healthcare provider if you:
   The purpose of the pregnancy registry is to collect information about the health of you and your baby.
 - are breastfeeding or plan to breastfeed.Do not breastfeed.
   We do not know if ZIAGEN can be passed to your baby in your breast milk and whether it could harm your baby.
-  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passedto the baby in the breast milk.
+  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
 
 Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
@@ -145,7 +145,6 @@ What are the possible side effects of ZIAGEN?
   These changes may include:
 - more fat in or around your trunk, upper back and neck (buffalo hump), breast, or chest
 - loss of fat in your legs, arms, or face
-
 - Heart attack (myocardial infarction).
   Some HIV medicines including ZIAGEN may increase your risk of heart attack.
 
@@ -175,7 +174,7 @@ You may report side effects to FDA at 1‑800‑FDA‑1088.
 
 How should I store ZIAGEN?
 
-- Store ZIAGEN at room temperature, between 68F to 77F (20C to 25C).
+- Store ZIAGEN at room temperature, between 68°F to 77°F (20°C to 25°C).
 - Do not freeze ZIAGEN.
 - Keep ZIAGEN and all medicines out of the reach of children.
 
