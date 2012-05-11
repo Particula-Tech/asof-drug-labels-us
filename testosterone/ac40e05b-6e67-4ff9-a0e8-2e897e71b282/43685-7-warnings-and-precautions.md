@@ -60,3 +60,8 @@ Regular monitoring of serum calcium concentrations is recommended in these patie
 
 Androgens, including ANDRODERM, may decrease concentrations of thyroxine-binding globulins, resulting in decreased total T4 serum concentration and increased resin uptake of T3 and T4.
 Free thyroid hormone concentration remains unchanged and there is no clinical evidence of thyroid dysfunction.
+
+## 5.12 Magnetic Resonance Imaging (MRI)
+
+Skin burns have been reported at the application site in patients wearing an aluminized transdermal system during a magnetic resonance imaging scan (MRI).
+Because ANDRODERM contains aluminum, it is recommended to remove the system before undergoing an MRI.

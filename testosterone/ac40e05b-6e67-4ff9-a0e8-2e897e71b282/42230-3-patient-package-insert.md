@@ -67,11 +67,20 @@ How should I use ANDRODERM?
 - Your healthcare provider will tell you how many ANDRODERM patches to apply and when to apply them.
 - Your healthcare provider may change your ANDRODERM dose.
   Do not change your ANDRODERM dose without talking with your healthcare provider.
+- Apply ANDRODERM at about the same time each night.
+- Wait 3 hours before showering, bathing, or swimming.
+  This will ensure that the greatest amount of ANDRODERM is absorbed into your system.
 - ANDRODERM does not need to be removed during sex or while you take a shower or bath.
-- Apply ANDRODERM at about the same time each evening.
+- Strenuous excercise or excessive perspiration may loosen your ANDRODERM patch or cause it to fall off.
+- If your ANDRODERM patch becomes loose, smooth it down again by rubbing your finger firmly around the edges.
+  Do not tape ANDERDERM patches to your skin.
+  - If your ANDRODERM patch falls off before noon, put on a new ANDRODERM patch and wear it until you put on a new ANDRODERM patch at your regular time.
+  - If your ANDRODERM patch falls off after noon, do not put on a new one.
+    Wait and apply your ANDRODERM patch at your regular time.
 - You should change your ANDRODERM patch every 24 hours.
   You should remove the old patch before applying the new one.
 - You should change (rotate) your ANDRODERM application site every day.
+  Do not use a site that you have used before for at least 7 days.
 - Skin redness may happen on the skin where your ANDRODERM patch was removed.
   If your skin redness does not go away, talk to your healthcare provider.
   Your healthcare provider may tell you to use an over-the-counter hydrocortisone cream on your red skin.
@@ -86,19 +95,10 @@ Applying ANDRODERM:
 - Avoid areas of skin that are oily, perspire heavily, or are covered with hair, since ANDRODERM may not stick well to these areas.
 - ANDRODERM is to be applied to your back, stomach area (abdomen), upper arms, or thighs only (See Figure A and Figure B). Do not apply ANDRODERM to any other parts of your body such as your scrotum, buttocks or over a bony area.
 
-- Maintain Normal Activities: A patch applied to clean, dry skin will remain in place during normal activities.
-  ANDRODERMmay be worn during sex.
-  Also, contact with water, such as showering or swimming, 3 hours after application will not affect the patch.
-  Strenuous exercise or excessive perspiration may loosen a patch or cause it to fall off.
-- What to Do if a Patch Becomes Loose, or Falls Off: If the patch becomes loose, smooth it down again by rubbing your finger firmly around the edges.
-  If a patch falls off before noon, replace it with a fresh patch and wear it until you apply a fresh patch(es) that evening.
-  If it falls off later in the day, do not replace it until you apply a fresh patch(es) that evening.
-  If a patch falls off do not tape it to skin.
-
 | 1. Open the foil pouch. Tear along the edge and remove the patch from the pouch (See Figure C). Do not cut the ANDRODERM protective pouch. |  |  |  |
 | --- | --- | --- | --- |
-| 2. Remove the protective plastic liner and silver disc from the patch. Hold on to the tabs on the patch and the protective plastic liner and gently pull the two apart to remove the plastic liner and silver disc from the patch (See Figure D).This will expose the adhesive and central reservoir area on the patch (See Figure E). The patch should separate easily from the protective liner. Throw away the patch if the liner is hard to remove. There should not be any adhesive (glue) sticking to the liner.Throw away the clear plastic liner and silver disc. |  |  |  |
-| 3. Apply the patch. Apply the patch right away after you remove the patch from the protective pouch and remove the plastic liner. Place the patch flat on the skin with the sticky side down and firmly press around the edges. Make sure that the patch sticks well to the skin. |  |  |  |
+| 2. Remove the protective plastic liner and silver disc from the patch. Hold on to the tabs on the patch and the protective plastic liner and gently pull the two apart to remove the plastic liner and silver disc from the patch (See Figure D).This will expose the adhesive and central reservoir area on the patch (See Figure E). The patch should pull off easily from the protective plastic liner. Do not use the ANDRODERM patch if the liner is hard to pull off. Throw away the ANDRODERM patch and get a new one. |  |  |  |
+| 3. Check the protective plastic liner. You should not see any glue (adhesive) sticking to the liner. Do not use the ANDRODERM patch if you see any adhesive sticking to the liner. Throw away the ANDRODERM patch and get a new one.Throw away the clear pastic liner and silver disc.4. Apply the patch. Apply the patch right away after you remove the patch from the protective pouch and remove the plastic liner. Place the patch flat on the skin with the sticky side down and firmly press around the edges. Make sure that the patch sticks well to the skin. |  |  |  |
 
 What are the possible side effects of ANDRODERM?
 
@@ -174,7 +174,7 @@ Inactive ingredients:
 - Backing Film: Metallized polyester/Surlyn® (ethylene-methacrylic acid copolymer)/ethylene vinyl acetate backing film with alcohol resistant ink
 - Drug Reservoir: Testosterone USP, alcohol USP, glycerin USP, glycerol monooleate, methyl laurate, sodium hydroxide NF, purified water USP, gelled with carbomer copolymer Type B NF
 - Microporous Membrane: a permeable polyethylene microporous membrane
-- Adhesive: a peripheral layer of acrylic adhesive surrounding the central, active drug delivery area of the system.
+- Adhesive: a peripheral layer of acrylic adhesive surrounding the central, active drug delivery area of the system
 - Disc: a five-layer laminate containing polyester/polyesturethane adhesive/aluminum foil/polyester-urethane adhesive/polyethylene
 - Release Liner: a silicone-coated polyester film, which is removed before the system can be used
 
@@ -186,4 +186,6 @@ Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Issued: 10/2011 196664-00
+Issued: 04/2012
+
+196664-01

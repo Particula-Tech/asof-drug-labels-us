@@ -23,6 +23,8 @@ ANDRODERM delivers physiologic amounts of testosterone, producing circulating te
 ANDRODERM provides a continuous daily dose of testosterone in a self-contained transdermal system.
 Following ANDRODERM application, testosterone is continuously absorbed during the 24-hour dosing period with a median (range) Tmax of 8 (4-12) hours.
 
+In a group of 34 hypogonadal men, application of two ANDRODERM 2.5 mg/day systems to the different application sites (abdomen, back, thighs, or upper arms) delivered approximately 4 to 5 mgs of testosterone over 24 hours.
+
 Distribution
 
 Circulating testosterone is primarily bound in the serum to sex hormone-binding globulin (SHBG) and albumin.

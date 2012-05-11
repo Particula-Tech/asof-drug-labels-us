@@ -14,7 +14,7 @@ Testosterone and other androgens may adversely affect lactation [see Contraindic
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of ANDRODERM have not been established in males < 18 years of age.
+Safety and efficacy of ANDRODERM have not been established in males less than 18 years of age.
 Improper use may result in acceleration of bone age and premature closure of epiphyses.
 
 ## 8.5 Geriatric Use
