@@ -2,13 +2,13 @@
 
 ## Respiratory Depression
 
-Respiratory depression is the chief hazard of hydromorphone hydrochloride tablets.
+Respiratory depression is the chief hazard of hydromorphone hydrochloride tablets and oral solution.
 Respiratory depression is more likely to occur in the elderly, in the debilitated, and in those suffering from conditions accompanied by hypoxia or hypercapnia when even moderate therapeutic doses may dangerously decrease pulmonary ventilation.
 
-Hydromorphone hydrochloride tablets should be used with extreme caution in patients with chronic obstructive pulmonary disease or cor pulmonale, patients having a substantially decreased respiratory reserve, hypoxia, hypercapnia, or in patients with preexisting respiratory depression.
+Hydromorphone hydrochloride tablets and oral solution should be used with extreme caution in patients with chronic obstructive pulmonary disease or cor pulmonale, patients having a substantially decreased respiratory reserve, hypoxia, hypercapnia, or in patients with preexisting respiratory depression.
 In such patients even usual therapeutic doses of opioid analgesics may decrease respiratory drive while simultaneously increasing airway resistance to the point of apnea.
 
-Hydromorphone hydrochloride tablets contain hydromorphone, which is a potent Schedule II controlled opioid agonist.
+Hydromorphone hydrochloride tablets and oral solution contain hydromorphone, which is a potent Schedule II controlled opioid agonist.
 Schedule II opioid agonists, including morphine, oxymorphone, oxycodone, fentanyl, and methadone, have the highest potential for abuse and risk of producing respiratory depression.
 Alcohol, other opioids and central nervous system depressants (sedative-hypnotics) potentiate the respiratory depressant effects of hydromorphone, increasing the risk of respiratory depression that might result in death.
 
@@ -17,7 +17,7 @@ Alcohol, other opioids and central nervous system depressants (sedative-hypnotic
 Hydromorphone is an opioid agonist of the morphine-type.
 Such drugs are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 
-Hydromorphone hydrochloride tablets can be abused in a manner similar to other opioid agonists, legal or illicit.
+Hydromorphone hydrochloride tablets and oral solution can be abused in a manner similar to other opioid agonists, legal or illicit.
 This should be considered when prescribing or dispensing hydromorphone hydrochloride in situations where the physician or pharmacist is concerned about an increased risk of misuse, abuse, or diversion.
 Prescribers should monitor all patients receiving opioids for signs of abuse, misuse, and addiction.
 Furthermore, patients should be assessed for their potential for opioid abuse prior to being prescribed opioid therapy.
@@ -37,45 +37,45 @@ Hydromorphone may be expected to have additive effects when used in conjunction 
 
 ## Neonatal Withdrawal Syndrome
 
-Infants born to mothers physically dependent on hydromorphone hydrochloride tablets, will also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms (see DRUG ABUSE AND DEPENDENCE).
+Infants born to mothers physically dependent on hydromorphone hydrochloride will also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms (see DRUG ABUSE AND DEPENDENCE).
 
 ## Head Injury and Increased Intracranial Pressure
 
-The respiratory depressant effects of hydromorphone hydrochloride tablets with carbon dioxide retention and secondary elevation of cerebrospinal fluid pressure may be markedly exaggerated in the presence of head injury, other intracranial lesions, or preexisting increase in intracranial pressure.
-Opioid analgesics including hydromorphone hydrochloride tablets may produce effects on pupillary response and consciousness which can obscure the clinical course and neurologic signs of further increase in intracranial pressure in patients with head injuries.
+The respiratory depressant effects of hydromorphone hydrochloride tablets and oral solution with carbon dioxide retention and secondary elevation of cerebrospinal fluid pressure may be markedly exaggerated in the presence of head injury, other intracranial lesions, or preexisting increase in intracranial pressure.
+Opioid analgesics including hydromorphone hydrochloride tablets and oral solution may produce effects on pupillary response and consciousness which can obscure the clinical course and neurologic signs of further increase in intracranial pressure in patients with head injuries.
 
 ## Hypotensive Effect
 
-Opioid analgesics, including hydromorphone hydrochloride tablets, may cause severe hypotension in an individual whose ability to maintain blood pressure has already been compromised by a depleted blood volume, or a concurrent administration of drugs such as phenothiazines or general anesthetics (see PRECAUTIONS: Drug Interactions).
-Therefore, hydromorphone hydrochloride tablets should be administered with caution to patients in circulatory shock, since vasodilation produced by the drug may further reduce cardiac output and blood pressure.
+Opioid analgesics, including hydromorphone hydrochloride tablets and oral solution, may cause severe hypotension in an individual whose ability to maintain blood pressure has already been compromised by a depleted blood volume, or a concurrent administration of drugs such as phenothiazines or general anesthetics (see PRECAUTIONS: Drug Interactions).
+Therefore, hydromorphone hydrochloride tablets and oral solution should be administered with caution to patients in circulatory shock, since vasodilation produced by the drug may further reduce cardiac output and blood pressure.
 
 # PRECAUTIONS
 
 ## Special Risk Patients
 
-Hydromorphone hydrochloride tablets should be given with caution and the initial dose should be reduced in the elderly or debilitated and those with severe impairment of hepatic, pulmonary or renal functions; myxedema or hypothyroidism; adrenocortical insufficiency (e.g., Addison's Disease); CNS depression or coma; toxic psychoses; prostatic hypertrophy or urethral stricture; gall bladder disease; acute alcoholism; delirium tremens; kyphoscoliosis or following gastrointestinal surgery.
+Hydromorphone hydrochloride tablets and oral solution should be given with caution and the initial dose should be reduced in the elderly or debilitated and those with severe impairment of hepatic, pulmonary or renal functions; myxedema or hypothyroidism; adrenocortical insufficiency (e.g., Addison's Disease); CNS depression or coma; toxic psychoses; prostatic hypertrophy or urethral stricture; gall bladder disease; acute alcoholism; delirium tremens; kyphoscoliosis or following gastrointestinal surgery.
 
-The administration of opioid analgesics including hydromorphone hydrochloride tablets may obscure the diagnoses or clinical course in patients with acute abdominal conditions and may aggravate preexisting convulsions in patients with convulsive disorders.
+The administration of opioid analgesics including hydromorphone hydrochloride tablets and oral solution may obscure the diagnoses or clinical course in patients with acute abdominal conditions and may aggravate preexisting convulsions in patients with convulsive disorders.
 
 Reports of mild to severe seizures and myoclonus have been reported in severely compromised patients, administered high doses of parenteral hydromorphone, for cancer and severe pain.
 Opioid administration at very high doses is associated with seizures and myoclonus in a variety of diseases where pain control is the primary focus.
 
 ## Use in Drug and Alcohol Dependent Patients
 
-Hydromorphone hydrochloride tablets should be used with caution in patients with alcoholism and other drug dependencies due to the increased frequency of opioid tolerance, dependence, and the risk of addiction observed in these patient populations.
+Hydromorphone hydrochloride should be used with caution in patients with alcoholism and other drug dependencies due to the increased frequency of opioid tolerance, dependence, and the risk of addiction observed in these patient populations.
 Abuse of hydromorphone hydrochloride in combination with other CNS depressant drugs can result in serious risk to the patient.
 
 Hydromorphone is an opioid with no approved use in the management of addictive disorders.
 
 ## Use in Ambulatory Patients
 
-Hydromorphone hydrochloride tablets may impair mental and/or physical ability required for the performance of potentially hazardous tasks (e.g. driving, operating machinery).
+Hydromorphone hydrochloride tablets and oral solution may impair mental and/or physical ability required for the performance of potentially hazardous tasks (e.g. driving, operating machinery).
 Patients should be cautioned accordingly.
 Hydromorphone hydrochloride may produce orthostatic hypotension in ambulatory patients.
 
 ## Use in Biliary Tract Disease
 
-Opioid analgesics, including hydromorphone hydrochloride tablets, should also be used with caution in patients about to undergo surgery of the biliary tract since it may cause spasm of the sphincter of Oddi.
+Opioid analgesics, including hydromorphone hydrochloride tablets and oral solution, should also be used with caution in patients about to undergo surgery of the biliary tract since it may cause spasm of the sphincter of Oddi.
 
 ## Tolerance and Physical Dependence
 
@@ -90,31 +90,31 @@ In general, opioids used regularly should not be abruptly discontinued.
 
 ## Information for Patients/Caregivers
 
-Patients receiving hydromorphone hydrochloride tablets or their caregivers should be given the following information by the physician, nurse, or pharmacist:
+Patients receiving hydromorphone hydrochloride tablets or oral solution or their caregivers should be given the following information by the physician, nurse, or pharmacist:
 
-1. Patients should be aware that hydromorphone hydrochloride tablets contain hydromorphone, which is a morphine-like substance and which could cause severe adverse effects including respiratory depression and even death if not taken according to the prescriber’s directions.
+1. Patients should be aware that hydromorphone hydrochloride tablets and oral solution contain hydromorphone, which is a morphine-like substance and which could cause severe adverse effects including respiratory depression and even death if not taken according to the prescriber’s directions.
 2. Patients should be advised to report pain and adverse experiences occurring during therapy.
    Individualization of dosage is essential to make optimal use of this medication.
-3. Patients should be advised not to adjust the dose of hydromorphone hydrochloride tablets without consulting the prescribing professional.
-4. Patients should be advised that hydromorphone hydrochloride tablets may impair mental and/or physical ability required for the performance of potentially hazardous tasks (e.g., driving, operating heavy machinery).
-5. Patients should not combine hydromorphone hydrochloride tablets with alcohol or other central nervous system depressants (sleep aids, tranquilizers) except by the orders of the prescribing physician, because dangerous additive effects may occur, resulting in serious injury or death.
+3. Patients should be advised not to adjust the dose of hydromorphone hydrochloride without consulting the prescribing professional.
+4. Patients should be advised that hydromorphone hydrochloride may impair mental and/or physical ability required for the performance of potentially hazardous tasks (e.g., driving, operating heavy machinery).
+5. Patients should not combine hydromorphone hydrochloride with alcohol or other central nervous system depressants (sleep aids, tranquilizers) except by the orders of the prescribing physician, because dangerous additive effects may occur, resulting in serious injury or death.
 6. Women of childbearing potential who become, or are planning to become pregnant should be advised to consult their physician regarding the effects of analgesics and other drug use during pregnancy on themselves and their unborn child.
-7. Patients should be advised that hydromorphone hydrochloride tablets is a potential drug of abuse.
+7. Patients should be advised that hydromorphone hydrochloride is a potential drug of abuse.
    They should protect it from theft, and it should never be given to anyone other than the individual for whom it was prescribed.
-8. Patients should be advised that if they have been receiving treatment with hydromorphone hydrochloride tablets for more than a few weeks and cessation of therapy is indicated, it may be appropriate to taper the hydromorphone hydrochloride dose, rather than abruptly discontinue it, due to the risk of precipitating withdrawal symptoms.
+8. Patients should be advised that if they have been receiving treatment with hydromorphone hydrochloride for more than a few weeks and cessation of therapy is indicated, it may be appropriate to taper the hydromorphone hydrochloride dose, rather than abruptly discontinue it, due to the risk of precipitating withdrawal symptoms.
    Their physician can provide a dose schedule to accomplish a gradual discontinuation of the medication.
-9. Patients should be instructed to keep hydromorphone hydrochloride tablets in a secure place out of the reach of children.
-   When hydromorphone hydrochloride tablets are no longer needed, the unused tablets should be destroyed by flushing down the toilet.
+9. Patients should be instructed to keep hydromorphone hydrochloride in a secure place out of the reach of children.
+   When hydromorphone hydrochloride is no longer needed, the unused tablets or oral solution should be destroyed by flushing down the toilet.
 
 ## Drug Interactions
 
-### Drug Interactions with Other CNS Depressants:
+### Drug Interactions with Other CNS Depressants
 
 The concomitant use of other central nervous system depressants including sedatives or hypnotics, general anesthetics, phenothiazines, tranquilizers and alcohol may produce additive depressant effects.
 Respiratory depression, hypotension and profound sedation or coma may occur.
 When such combined therapy is contemplated, the dose of one or both agents should be reduced.
-Hydromorphone hydrochloride tablets should not be taken with alcohol.
-Opioid analgesics, including hydromorphone hydrochloride tablets may enhance the action of neuromuscular blocking agents and produce an excessive degree of respiratory depression.
+Hydromorphone hydrochloride should not be taken with alcohol.
+Opioid analgesics, including hydromorphone hydrochloride tablets and oral solution may enhance the action of neuromuscular blocking agents and produce an excessive degree of respiratory depression.
 
 ### Interactions with Mixed Agonist/Antagonist Opioid Analgesics
 
@@ -128,21 +128,21 @@ No carcinogenicity studies have been conducted in animals.
 Hydromorphone was not mutagenic in the in vitro Ames reverse mutation assay or the human lymphocyte chromosome aberration assay.
 Hydromorphone was not clastogenic in the in vivo mouse micronucleus assay.
 
-No effects on fertility, reproductive performance, or reproductive organ morphology were observed in male or female rats given oral doses up to 7 mg/kg/day, which is equivalent to the human dose of 2.5 to 10 mg every 3 to 6 hours for oral liquid, and 3-fold higher than the human dose of 2 to 4 mg every 4 to 6 hours for the tablet on a body surface area basis.
+No effects on fertility, reproductive performance, or reproductive organ morphology were observed in male or female rats given oral doses up to 7 mg/kg/day, which is equivalent to the human dose of 2.5 to 10 mg every 3 to 6 hours for oral solution, and 3-fold higher than the human dose of 2 to 4 mg every 4 to 6 hours for the tablet on a body surface area basis.
 
 ## Pregnancy
 
-### Pregnancy Category C:
+### Pregnancy Category C
 
-No effects on teratogenicity or embryotoxicity were observed in female rats given oral doses up to 7 mg/kg/day, which is approximately equivalent to the human dose of 2.5 to 10 mg every 3 to 6 hours for oral liquid, and 3-fold higher than the human dose of 2 to 4 mg every 4 to 6 hours for the tablet on a body surface area basis.
+No effects on teratogenicity or embryotoxicity were observed in female rats given oral doses up to 7 mg/kg/day, which is approximately equivalent to the human dose of 2.5 to 10 mg every 3 to 6 hours for oral solution, and 3-fold higher than the human dose of 2 to 4 mg every 4 to 6 hours for the tablet on a body surface area basis.
 Hydromorphone produced skull malformations (exencephaly and cranioschisis) in Syrian hamsters given oral doses up to 20 mg/kg during the peak of organogenesis (gestation days 8 to 9).
-The skull malformations were observed at doses approximately 2-fold higher than the human dose of 2.5 to 10 mg every 3 to 6 hours for oral liquid, and 7-fold higher than the human dose of 2 to 4 mg every 4 to 6 hours for the tablet on a body surface area basis.
-There are no adequate and well-controlled studies of hydromorphone hydrochloride tablets in pregnant women.
+The skull malformations were observed at doses approximately 2-fold higher than the human dose of 2.5 to 10 mg every 3 to 6 hours for oral solution, and 7-fold higher than the human dose of 2 to 4 mg every 4 to 6 hours for the tablet on a body surface area basis.
+There are no adequate and well-controlled studies of hydromorphone hydrochloride in pregnant women.
 
 Hydromorphone crosses the placenta, resulting in fetal exposure.
-Hydromorphone hydrochloride tablets should be used in pregnant women only if the potential benefit justifies the potential risk to the fetus (see PRECAUTIONS: Labor and Delivery and DRUG ABUSE AND DEPENDENCE).
+Hydromorphone hydrochloride should be used in pregnant women only if the potential benefit justifies the potential risk to the fetus (see PRECAUTIONS: Labor and Delivery and DRUG ABUSE AND DEPENDENCE).
 
-### Nonteratogenic effects:
+### Nonteratogenic Effects
 
 Babies born to mothers who have been taking opioids regularly prior to delivery will be physically dependent.
 The withdrawal signs include irritability and excessive crying, tremors, hyperactive reflexes, increased respiratory rate, increased stools, sneezing, yawning, vomiting, and fever.
@@ -152,12 +152,12 @@ Approaches to the treatment of this syndrome have included supportive care and, 
 
 ## Labor and Delivery
 
-Hydromorphone hydrochloride tablets are contraindicated in Labor and Delivery (see CONTRAINDICATIONS).
+Hydromorphone hydrochloride tablets and oral solution are contraindicated in Labor and Delivery (see CONTRAINDICATIONS).
 
 ## Nursing Mothers
 
 Low levels of opioid analgesics have been detected in human milk.
-As a general rule, nursing should not be undertaken while a patient is receiving hydromorphone hydrochloride tablets since it, and other drugs in this class, may be excreted in the milk.
+As a general rule, nursing should not be undertaken while a patient is receiving hydromorphone hydrochloride tablets or oral solution since it, and other drugs in this class, may be excreted in the milk.
 
 ## Pediatric Use
 

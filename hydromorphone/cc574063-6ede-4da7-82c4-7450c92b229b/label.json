@@ -1,5 +1,6 @@
 {
   "application_numbers": [
+    "ANDA074653",
     "NDA074597"
   ],
   "inn": "hydromorphone",
@@ -7,9 +8,15 @@
   "package_ndcs": [
     "0054-0264-24",
     "0054-0264-25",
-    "0054-0265-25"
+    "0054-0265-25",
+    "0054-0386-63"
   ],
   "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "hydromorphone hydrochloride",
+      "name": "Hydromorphone Hydrochloride"
+    },
     {
       "form": "TABLET",
       "generic": "hydromorphone hydrochloride",

@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The major hazards of hydromorphone hydrochloride tablets include respiratory depression and apnea.
+The major hazards of hydromorphone hydrochloride tablets and oral solution include respiratory depression and apnea.
 To a lesser degree, circulatory depression, respiratory arrest, shock and cardiac arrest have occurred.
 
 The most frequently observed adverse effects are light-headedness, dizziness, sedation, nausea, vomiting, sweating, flushing, dysphoria, euphoria, dry mouth, and pruritus.
@@ -8,26 +8,26 @@ These effects seem to be more prominent in ambulatory patients and in those not 
 
 ## Less Frequently Observed Adverse Reactions
 
-### General and CNS:
+### General and CNS
 
 Weakness, headache, agitation, tremor, uncoordinated muscle movements, alterations of mood (nervousness, apprehension, depression, floating feelings, dreams), muscle rigidity, paresthesia, muscle tremor, blurred vision, nystagmus, diplopia and miosis, transient hallucinations and disorientation, visual disturbances, insomnia, increased intracranial pressure
 
-### Cardiovascular:
+### Cardiovascular
 
 Flushing of the face, chills, tachycardia, bradycardia, palpitation, faintness, syncope, hypotension, hypertension
 
-### Respiratory:
+### Respiratory
 
 Bronchospasm and laryngospasm
 
-### Gastrointestinal:
+### Gastrointestinal
 
 Constipation, biliary tract spasm, ileus, anorexia, diarrhea, cramps, taste alteration
 
-### Genitourinary:
+### Genitourinary
 
 Urinary retention or hesitancy, antidiuretic effects
 
-### Dermatologic:
+### Dermatologic
 
 Urticaria, other skin rashes, diaphoresis

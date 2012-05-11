@@ -2,10 +2,10 @@ Rx Only
 
 # CLINICAL TRIALS
 
-Analgesic effects of single doses of hydromorphone hydrochloride liquid administered to patients with post-surgical pain have been studied in double-blind controlled trials.
-In one study, doses of both 5 mg and 10 mg hydromorphone hydrochloride liquid provided significantly more analgesia than placebo.
-In another trial, doses of 5 mg and 10 mg of hydromorphone hydrochloride liquid were compared to 30 mg and 60 mg of morphine sulfate oral liquid.
-The pain relief provided by 5 mg and 10 mg hydromorphone hydrochloride liquid was comparable to 30 mg and 60 mg oral morphine sulfate, respectively.
+Analgesic effects of single doses of hydromorphone hydrochloride oral solution administered to patients with post-surgical pain have been studied in double-blind controlled trials.
+In one study, doses of both 5 mg and 10 mg hydromorphone hydrochloride oral solution provided significantly more analgesia than placebo.
+In another trial, doses of 5 mg and 10 mg of hydromorphone hydrochloride oral solution were compared to 30 mg and 60 mg of morphine sulfate oral liquid.
+The pain relief provided by 5 mg and 10 mg hydromorphone hydrochloride oral solution was comparable to 30 mg and 60 mg oral morphine sulfate, respectively.
 
 # INDIVIDUALIZATION OF DOSAGE
 
@@ -51,8 +51,8 @@ OPIOID ANALGESIC EQUIVALENTS WITH APPROXIMATELY EQUIANALGESIC POTENCYDosages, an
 
 Hydromorphone hydrochloride tablets pose little risk of direct exposure to health care personnel and should be handled and disposed of prudently in accordance with hospital or institutional policy.
 Significant absorption from dermal exposure is unlikely.
-Patients and their families should be instructed to flush any hydromorphone hydrochloride tablets that are no longer needed.
+Patients and their families should be instructed to flush any hydromorphone hydrochloride that is no longer needed.
 
-Access to abuseable drugs such as hydromorphone hydrochloride tablets presents an occupational hazard for addiction in the health care industry.
+Access to abuseable drugs such as hydromorphone hydrochloride tablets and oral solution presents an occupational hazard for addiction in the health care industry.
 Routine procedures for handling controlled substances developed to protect the public may not be adequate to protect health care workers.
 Implementation of more effective accounting procedures and measures to restrict access to drugs of this class (appropriate to the practice setting) may minimize the risk of self-administration by health care providers.

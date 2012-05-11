@@ -5,7 +5,7 @@ A significant feature of the analgesia is that it can occur without loss of cons
 Opioid analgesics also suppress the cough reflex and may cause respiratory depression, mood changes, mental clouding, euphoria, dysphoria, nausea, vomiting and electroencephalographic changes.
 Many of the effects described below are common to this class of mu-opioid agonist analgesics which includes morphine, oxycodone, hydrocodone, codeine and fentanyl.
 In some instances, data may not exist to distinguish the effects of hydromorphone hydrochloride from those observed with other opioid analgesics.
-However, in the absence of data to the contrary, it is assumed that hydromorphone hydrochloride tablets would possess all the actions of mu-agonist opioids.
+However, in the absence of data to the contrary, it is assumed that hydromorphone hydrochloride tablets and oral solution would possess all the actions of mu-agonist opioids.
 
 ## Central Nervous System
 
@@ -38,19 +38,21 @@ Other manifestations of histamine release and/or peripheral vasodilation may inc
 
 ## Pharmacokinetics and Metabolism
 
-The analgesic activity of hydromorphone hydrochloride tablets is due to the parent drug, hydromorphone.
+The analgesic activity of hydromorphone hydrochloride is due to the parent drug, hydromorphone.
 Hydromorphone is rapidly absorbed from the gastrointestinal tract after oral administration and undergoes extensive first-pass metabolism.
 Exposure of hydromorphone (Cmax and AUC0-24) is dose-proportional at a dose range of 2 and 8 mg.
 In vivo bioavailability following single-dose administration of the 8 mg tablet is approximately 24% (coefficient of variation 21%).
-Bioequivalence between the hydromorphone hydrochloride 8 mg tablet and an equivalent dose of hydromorphone hydrochloride oral liquid has been demonstrated.
+Bioequivalence between the hydromorphone hydrochloride 8 mg tablet and an equivalent dose of hydromorphone hydrochloride oral solution has been demonstrated.
 
 ### Absorption
 
-After oral administration of 8 mg hydromorphone hydrochloride tablets, peak plasma hydromorphone concentrations are generally attained within 1/2 to 1-hour.
+After oral administration of 8 mg hydromorphone hydrochloride tablets or oral solution, peak plasma hydromorphone concentrations are generally attained within 1/2 to 1-hour.
 
-| Mean (%cv) Dosage Form | Cmax (ng) | Tmax (hrs) | AUC (ng*hr/mL) | T1/2 (hrs) |
+| Mean (%cv) | Cmax | Tmax | AUC | T1/2 |
 | --- | --- | --- | --- | --- |
+| Dosage Form | (ng) | (hrs) | (ng*hr/mL) | (hrs) |
 | 8 mg Tablet | 5.5 (33%) | 0.74 (34%) | 23.7 (28%) | 2.6 (18%) |
+| 8 mg Oral Solution | 5.7 (31%) | 0.73 (71%) | 24.6 (29%) | 2.8 (20%) |
 
 #### Food Effects
 
@@ -75,38 +77,38 @@ The terminal elimination half-life of hydromorphone after an intravenous dose is
 
 ## Special Populations
 
-### Hepatic Impairment:
+### Hepatic Impairment
 
 After oral administration of hydromorphone at a single 4 mg dose (two 2 mg tablets), mean exposure to hydromorphone (Cmax and AUC∞) is increased 4-fold in patients with moderate (Child-Pugh Group B) hepatic impairment compared with subjects with normal hepatic function.
 Due to increased exposure of hydromorphone, patients with moderate hepatic impairment should be started at a lower dose and closely monitored during dose titration.
 Pharmacokinetics of hydromorphone in severe hepatic impairment patients has not been studied.
 Further increase in Cmax and AUC of hydromorphone in this group is expected.
 As such, starting dose should be even more conservative.
-Use of oral liquid is recommended to adjust the dose (see DOSAGE AND ADMINISTRATION).
+Use of oral solution is recommended to adjust the dose (see DOSAGE AND ADMINISTRATION).
 
-### Renal Impairment:
+### Renal Impairment
 
 After oral administration of hydromorphone hydrochloride at a single 4 mg dose (two 2 mg tablets), exposure to hydromorphone (Cmax and AUC0-48) is increased in patients with impaired renal function by 2-fold in moderate (CLcr = 40 to 60 mL/min) and 3-fold in severe (CLcr < 30 mL/min) renal impairment compared with normal subjects (CLcr > 80 mL/min).
 In addition, in patients with severe renal impairment hydromorphone appeared to be more slowly eliminated with longer terminal elimination half-life (40 hr) compared to patients with normal renal function (15 hr). Patients with moderate renal impairment should be started on a lower dose.
 Starting doses for patients with severe renal impairment should be even lower.
 Patients with renal impairment should be closely monitored during dose titration.
-Use of oral liquid is recommended to adjust the dose (see DOSAGE AND ADMINISTRATION).
+Use of oral solution is recommended to adjust the dose (see DOSAGE AND ADMINISTRATION).
 
-### Pediatrics:
+### Pediatrics
 
 Pharmacokinetics of hydromorphone have not been evaluated in children.
 
-### Geriatric:
+### Geriatric
 
 Age has no effect on the pharmacokinetics of hydromorphone.
 
-### Gender:
+### Gender
 
 Gender has little effect on the pharmacokinetics of hydromorphone.
 Females appear to have higher Cmax (25%) than males with comparable AUC0-24 values.
 The difference observed in Cmax may not be clinically relevant.
 
-### Pregnancy and Nursing Mothers:
+### Pregnancy and Nursing Mothers
 
 Hydromorphone crosses the placenta.
 Hydromorphone is also found in low levels in breast milk, and may cause respiratory compromise in newborns when administered during labor or delivery.
