@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA202236"
+  ],
+  "inn": "azelastine",
+  "labeler": "Meda Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0037-0245-06",
+    "0037-0245-23"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "azelastine hydrochloride and fluticasone propionate",
+      "name": "DYMISTA"
+    }
+  ],
+  "setid": "4c557ec4-c4cf-11df-851a-0800200c9a66",
+  "source": "dailymed"
+}
