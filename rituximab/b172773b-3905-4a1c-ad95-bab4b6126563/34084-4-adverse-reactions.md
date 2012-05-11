@@ -53,15 +53,15 @@ A single occurrence of transient aplastic anemia (pure red cell aplasia) and two
 In studies of monotherapy, Rituxan-induced B-cell depletion occurred in 70% to 80% of patients with NHL.
 Decreased IgM and IgG serum levels occurred in 14% of these patients.
 
-In CLL trials, the frequency of prolonged or late-onset neutropenia was higher in patients treated with R-FC compared to patients treated with FC.
+In CLL trials, the frequency of prolonged neutropenia and late-onset neutropenia was higher in patients treated with R-FC compared to patients treated with FC.
 Prolonged neutropenia is defined as Grade 3-4 neutropenia that has not resolved between 24 and 42 days after the last dose of study treatment.
 Late-onset neutropenia is defined as Grade 3-4 neutropenia starting at least 42 days after the last treatment dose.
 
-In patients with previously treated CLL, the frequency of prolonged neutropenia was 8.5% for patients who received R-FC (n=402) and 5.8% for patients who received FC (n=398).
-The frequency of late onset neutropenia was 14.8% for patients who received R-FC (n=209) and 4.3% for patients who received FC (n=230).
+In patients with previously untreated CLL, the frequency of prolonged neutropenia was 8.5% for patients who received R-FC (n=402) and 5.8% for patients who received FC (n=398).
+In patients who did not have prolonged neutropenia, the frequency of late-onset neutropenia was 14.8% of 209 patients who received R-FC and 4.3% of 230 patients who received FC.
 
 For patients with previously treated CLL, the frequency of prolonged neutropenia was 24.8% for patients who received R-FC (n=274) and 19.1% for patients who received FC (n=274).
-The frequency of late onset neutropenia was 37.8% for patients who received R-FC (n=160) and 13.6% for patients who received FC (n=147).
+In patients who did not have prolonged neutropenia, the frequency of late-onset neutropenia was 38.7% in 160 patients who received R-FC and 13.6% of 147 patients who received FC.
 
 Relapsed or Refractory, Low-Grade NHL
 
