@@ -132,9 +132,17 @@ You can ask your pharmacist or doctor for information about Docetaxel Injection 
 
 What are the ingredients in Docetaxel Injection?
 
+Two-vial formulation (Injection Concentrate and Diluent)
+
 Active ingredient: docetaxel
 
 Inactive ingredients include: polyethylene glycol 400 and polysorbate 80
+
+One-vial formulation (Injection Concentrate)
+
+Active ingredient: docetaxel
+
+Inactive ingredients include: anhydrous citric acid, polysorbate 80 and dehydrated alcohol
 
 | Every three-week injection of Docetaxel Injection for breast, non-small cell lung and stomach, and head and neck cancers |
 | --- |

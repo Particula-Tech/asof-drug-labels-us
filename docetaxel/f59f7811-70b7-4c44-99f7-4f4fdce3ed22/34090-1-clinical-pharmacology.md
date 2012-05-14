@@ -24,7 +24,7 @@ Metabolism: In vitro drug interaction studies revealed that docetaxel is metabol
 Elimination: A study of 14C-docetaxel was conducted in three cancer patients.
 Docetaxel was eliminated in both the urine and feces following oxidative metabolism of the tert-butyl ester group, but fecal excretion was the main elimination route.
 Within 7 days, urinary and fecal excretion accounted for approximately 6% and 75% of the administered radioactivity, respectively.
-About 80% of the radioactivity recovered in feces is excreted during the first 48 hours as 1 major and 3 minor metabolites with very small amounts (less than 8%) of unchanged drug.
+About 80% of the radioactivity recovered in feces is excreted during the first 48 hours as 1 major and 3 minor metabolites with very small amounts (< 8%) of unchanged drug.
 
 Effect of Age: A population pharmacokinetic analysis was carried out after docetaxel treatment of 535 patients dosed at 100 mg/m2.
 Pharmacokinetic parameters estimated by this analysis were very close to those estimated from phase 1 studies.

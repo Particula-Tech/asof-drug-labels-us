@@ -29,9 +29,9 @@ Non-Small Cell Lung Cancer
 
 In a study conducted in chemotherapy-naïve patients with NSCLC (TAX326), 148 patients (36%) in the docetaxel+cisplatin group were 65 years of age or greater.
 There were 128 patients (32%) in the vinorelbine+cisplatin group 65 years of age or greater.
-In the docetaxel+cisplatin group, patients less than 65 years of age had a median survival of 10.3 months (95% CI: 9.1 months, 11.8 months) and patients 65 years or older had a median survival of 12.1 months (95% CI: 9.3 months, 14 months).
+In the docetaxel+cisplatin group, patients < 65 years of age had a median survival of 10.3 months (95% CI: 9.1 months, 11.8 3 months) and patients 65 years or older had a median survival of 12.1 months (95% CI: 9.3 months, 14 months).
 In patients 65 years of age or greater treated with docetaxel+cisplatin, diarrhea (55%), peripheral edema (39%) and stomatitis (28%) were observed more frequently than in the vinorelbine+cisplatin group (diarrhea 24%, peripheral edema 20%, stomatitis 20%).
-Patients treated with docetaxel+cisplatin who were 65 years of age or greater were more likely to experience diarrhea (55%), infections (42%), peripheral edema (39%) and stomatitis (28%) compared to patients less than the age of 65 administered the same treatment (43%, 31%, 31% and 21%, respectively).
+Patients treated with docetaxel+cisplatin who were 65 years of age or greater were more likely to experience diarrhea (55%), infections (42%), peripheral edema (39%) and stomatitis (28%) compared to patients < the age of 65 administered the same treatment (43%, 31%, 31% and 21%, respectively).
 
 When docetaxel was combined with carboplatin for the treatment of chemotherapy-naïve, advanced non-small cell lung carcinoma, patients 65 years of age or greater (28%) experienced higher frequency of infection compared to similar patients treated with docetaxel+cisplatin, and a higher frequency of diarrhea, infection and peripheral edema than elderly patients treated with vinorelbine+cisplatin.
 
@@ -50,7 +50,7 @@ Gastric Cancer
 Among the 221 patients treated with docetaxel in combination with cisplatin and fluorouracil in the gastric cancer study, 54 were 65 years of age or older and 2 patients were older than 75 years.
 In this study, the number of patients who were 65 years of age or older was insufficient to determine whether they respond differently from younger patients.
 However, the incidence of serious adverse reactions was higher in the elderly patients compared to younger patients.
-The incidence of the following adverse reactions (all grades, regardless of relationship): lethargy, stomatitis, diarrhea, dizziness, edema, febrile neutropenia/neutropenic infection occurred at rates ≥10% higher in patients who were 65 years of age or older compared to younger patients.
+The incidence of the following adverse reactions (all grades, regardless of relationship): lethargy, stomatitis, diarrhea, dizziness, edema, febrile neutropenia/neutropenic infection occurred at rates ≥ 10% higher in patients who were 65 years of age or older compared to younger patients.
 Elderly patients treated with TCF should be closely monitored.
 
 Head and Neck Cancer

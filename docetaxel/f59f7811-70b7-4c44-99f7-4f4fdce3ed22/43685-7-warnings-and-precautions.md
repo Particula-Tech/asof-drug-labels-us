@@ -22,7 +22,7 @@ Patients with combined abnormalities of transaminases and alkaline phosphatase s
 ## 5.3 Hematologic Effects
 
 Perform frequent peripheral blood cell counts on all patients receiving Docetaxel Injection.
-Patients should not be retreated with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1500 cells/mm3 and platelets recover to a level > 100,000 cells/mm3.
+Patients should not be retreated with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1500 cells/mm3 and platelets recover to a level >100,000 cells/mm3.
 
 A 25% reduction in the dose of Docetaxel Injection is recommended during subsequent cycles following severe neutropenia (<500 cells/mm3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a Docetaxel Injection cycle [see Dosage and Administration (2.7)].
 

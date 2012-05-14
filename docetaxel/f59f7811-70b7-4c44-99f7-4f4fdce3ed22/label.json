@@ -6,13 +6,21 @@
   "labeler": "Accord Healthcare Inc.",
   "package_ndcs": [
     "16729-120-49",
-    "16729-228-50"
+    "16729-228-50",
+    "16729-231-63",
+    "16729-231-64",
+    "16729-231-65"
   ],
   "products": [
     {
       "form": "KIT",
       "generic": "docetaxel",
       "name": "DOCETAXEL"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "docetaxel",
+      "name": "Docetaxel"
     }
   ],
   "setid": "f59f7811-70b7-4c44-99f7-4f4fdce3ed22",

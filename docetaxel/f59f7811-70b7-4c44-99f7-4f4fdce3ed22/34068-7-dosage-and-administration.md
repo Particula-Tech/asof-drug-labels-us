@@ -8,7 +8,7 @@ Administer in a facility equipped to manage possible complications (e.g. anaphyl
 
 - For locally advanced or metastatic breast cancer after failure of prior chemotherapy, the recommended dose of Docetaxel Injection is 60 mg/m2 to 100 mg/m2 administered intravenously over 1 hour every 3 weeks.
 - For the adjuvant treatment of operable node-positive breast cancer, the recommended Docetaxel Injection dose is 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 every 3 weeks for 6 courses.
-  Prophylactic G-CSF may be used to mitigate the risk of hematological toxicities [see Dosage and Administration (2.7)].
+  Prophylactic granulocyte - colony stimulating factor (G-CSF) may be used to mitigate the risk of hematological toxicities [see Dosage and Administration (2.7)].
 
 ## 2.2 Non-Small Cell Lung Cancer
 
@@ -36,17 +36,15 @@ All patients treated on the docetaxel containing arms of the TAX323 and TAX324 s
 
 - Induction chemotherapy followed by radiotherapy (TAX323) For the induction treatment of locally advanced inoperable SCCHN, the recommended dose of Docetaxel Injection is 75 mg/m2 as a 1 hour intravenous infusion followed by cisplatin 75 mg/m2 intravenously over 1 hour, on day one, followed by fluorouracil as a continuous intravenous infusion at 750 mg/m2 per day for five days.
   This regimen is administered every 3 weeks for 4 cycles.
-  Following chemotherapy, patients should receive radiotherapy.
-  [see Dosage and Administration (2.7)].
+  Following chemotherapy, patients should receive radiotherapy[see Dosage and Administration (2.7)].
 - Induction chemotherapy followed by chemoradiotherapy (TAX324) For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of Docetaxel Injection is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
   This regimen is administered every 3 weeks for 3 cycles.
   Following chemotherapy, patients should receive chemoradiotherapy [see Dosage and Administration (2.7)].
 
 ## 2.6 Premedication Regimen
 
-All patients should be premedicated with oral corticosteroids (see below for prostate cancer) such as dexamethasone 16 mg per day (e.g., 8 mg twice daily) for 3 days starting 1 day prior to Docetaxel Injection administration in order to reduce the incidence and severity of fluid retention as well as the severity of hypersensitivity reactions [see Boxed Warning, Warnings and Precautions (5.4)].
-
-For hormone-refractory metastatic prostate cancer, given the concurrent use of prednisone, the recommended premedication regimen is oral dexamethasone 8 mg, at 12 hours, 3 hours and 1 hour before the Docetaxel Injection infusion [see Warnings and Precautions (5.4)].
+- All patients should be premedicated with oral corticosteroids (see below for prostate cancer) such as dexamethasone 16 mg per day (e.g., 8 mg twice daily) for 3 days starting 1 day prior to Docetaxel Injection administration in order to reduce the incidence and severity of fluid retention as well as the severity of hypersensitivity reactions [see Boxed Warning, Warnings and Precautions (5.4)].
+- For hormone-refractory metastatic prostate cancer, given the concurrent use of prednisone, the recommended premedication regimen is oral dexamethasone 8 mg, at 12 hours, 3 hours and 1 hour before the Docetaxel Injection infusion [see Warnings and Precautions (5.4)].
 
 ## 2.7 Dosage Adjustments During Treatment
 
@@ -70,12 +68,12 @@ Non-Small Cell Lung Cancer
 
 Monotherapy with Docetaxel Injection for NSCLC treatment after failure of prior platinum-based chemotherapy
 
-Patients who are dosed initially at 75 mg/m2 and who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions, or other grade 3/4 non-hematological toxicities during Docetaxel Injection treatment should have treatment withheld until resolution of the toxicity and then resumed at 55 mg/m2.
+Patients who are dosed initially at 75 mg/m2 and who experience either febrile neutropenia, neutrophils < 500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions, or other grade 3/4 non-hematological toxicities during Docetaxel Injection treatment should have treatment withheld until resolution of the toxicity and then resumed at 55 mg/m2.
 Patients who develop ≥grade 3 peripheral neuropathy should have Docetaxel Injection treatment discontinued entirely.
 
 Combination therapy with Docetaxel Injection for chemotherapy-naïve NSCLC
 
-For patients who are dosed initially at Docetaxel Injection 75 mg/m2 in combination with cisplatin, and whose nadir of platelet count during the previous course of therapy is <25,000 cells/mm3, in patients who experience febrile neutropenia, and in patients with serious non-hematologic toxicities, the Docetaxel Injection dosage in subsequent cycles should be reduced to 65 mg/m2.
+For patients who are dosed initially at Docetaxel Injection 75 mg/m2 in combination with cisplatin, and whose nadir of platelet count during the previous course of therapy is < 25,000 cells/mm3, in patients who experience febrile neutropenia, and in patients with serious non-hematologic toxicities, the Docetaxel Injection dosage in subsequent cycles should be reduced to 65 mg/m2.
 In patients who require a further dose reduction, a dose of 50 mg/m2 is recommended.
 For cisplatin dosage adjustments, see manufacturers' prescribing information.
 
@@ -84,7 +82,7 @@ Prostate Cancer
 Combination therapy with Docetaxel Injection for hormone-refractory metastatic prostate cancer
 
 Docetaxel Injection should be administered when the neutrophil count is ≥1,500 cells/mm3.
-Patients who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during Docetaxel Injection therapy should have the dosage of Docetaxel Injection reduced from 75 mg/m2 to 60 mg/m2.
+Patients who experience either febrile neutropenia, neutrophils < 500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during Docetaxel Injection therapy should have the dosage of Docetaxel Injection reduced from 75 mg/m2 to 60 mg/m2.
 If the patient continues to experience these reactions at 60 mg/m,2 the treatment should be discontinued.
 
 Gastric or Head and Neck Cancer
@@ -149,7 +147,7 @@ For diarrhea and stomatitis, see Table 1.
 In the event of grade 2 or greater plantar-palmar toxicity, fluorouracil should be stopped until recovery.
 The fluorouracil dosage should be reduced by 20%.
 
-For other greater than grade 3 toxicities, except alopecia and anemia, chemotherapy should be delayed (for a maximum of 2 weeks from the planned date of infusion) until resolution to grade ≤1 and then recommenced, if medically appropriate.
+For other >grade 3 toxicities, except alopecia and anemia, chemotherapy should be delayed (for a maximum of 2 weeks from the planned date of infusion) until resolution to grade ≤1 and then recommenced, if medically appropriate.
 
 For other fluorouracil dosage adjustments, also refer to the manufacturers' prescribing information.
 
@@ -164,13 +162,15 @@ Based on extrapolation from a pharmacokinetic study with ketoconazole in 7 patie
 
 Docetaxel Injection is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised when handling and preparing Docetaxel Injection solutions.
 The use of gloves is recommended.
-Please refer to [see How Supplied/ Storage and Handling (16.3)].
+Please refer to [see How Supplied/Storage and Handling (16.3)].
 
 If Docetaxel Injection, initial diluted solution, or final dilution for infusion should come into contact with the skin, immediately and thoroughly wash with soap and water.
 If Docetaxel Injection, initial diluted solution, or final dilution for infusion should come into contact with mucosa, immediately and thoroughly wash with water.
 
 Contact of the Docetaxel Injection with plasticized PVC equipment or devices used to prepare solutions for infusion is not recommended.
 In order to minimize patient exposure to the plasticizer DEHP (di-2-ethylhexyl phthalate), which may be leached from PVC infusion bags or sets, the final Docetaxel Injection dilution for infusion should be stored in bottles (glass, polypropylene) or plastic bags (polypropylene, polyolefin) and administered through polyethylene-lined administration sets.
+
+Two-vial formulation (Injection Concentrate and Diluent)
 
 Docetaxel Injection requires two dilutions prior to administration.
 Please follow the preparation instructions provided below.
@@ -186,10 +186,20 @@ Table 3 – Initial Dilution of Docetaxel Injection
 | Docetaxel Injection 20 mg/0.5mL | 1.5 to 2.08 mL | 1.95 mL | 10 mg/mL |
 | Docetaxel Injection 80 mg/2 mL | 6 to 7.4 mL | 7.2 mL | 10 mg/mL |
 
+One-vial formulation (Injection Concentrate)
+
+Docetaxel Injection Concentrate requires NO prior dilution with a diluent and is ready to add to the infusion solution.
+
+Please follow the preparation instructions provided below.
+
 ## 2.9 Preparation and Administration
 
+DO NOT use the two-vial formulation (Injection Concentrate and diluent) with the one-vial formulation.
+
+Two-vial formulation (Injection Concentrate and Diluent)
+
 1. Initial Diluted Solution
-   1. Docetaxel Injection vials should be stored at 25 °C (77° F) or room temperature; excursions permitted from 15°C - 30°C (59°-86°F) [see USP Controlled Room Temperature], with protection from bright light.
+   1. Docetaxel Injection vials should be stored at 25 °C (77° F) or room temperature; excursions permitted from 15°C - 30°C (59°-86°F) [see USP Controlled Room Temperature], with protection from light.
    2. Aseptically withdraw the entire contents of the appropriate diluent vial (approximately 1.95 mL for Docetaxel Injection 20 mg and approximately 7.2 mL for Docetaxel Injection 80 mg) into a syringe by partially inverting the vial, and transfer it to the appropriate vial of Docetaxel Injection.
       If the procedure is followed as described, an initial diluted solution of 10 mg docetaxel/mL will result.
    3. Mix the initial diluted solution by repeated inversions for at least 45 seconds to assure full mixture of the Docetaxel Injection and diluent.
@@ -200,11 +210,25 @@ Table 3 – Initial Dilution of Docetaxel Injection
       The initial diluted solution may be used immediately or stored either in the refrigerator or at room temperature for a maximum of 8 hours.
 2. Final Dilution for Infusion
    1. Aseptically withdraw the required amount of initial diluted Docetaxel Injection solution (10 mg docetaxel/mL) with a calibrated syringe and inject into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 to 0.74 mg/mL.
-      If a dose greater than 200 mg of Docetaxel Injection is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL Docetaxel Injection is not exceeded.
+      If a dose > 200 mg of Docetaxel Injection is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL Docetaxel Injection is not exceeded.
    2. Thoroughly mix the infusion by manual rotation.
    3. As with all parenteral products, Docetaxel Injection should be inspected visually for particulate matter or discoloration prior to administration whenever the solution and container permit.
       If the Docetaxel Injection initial diluted solution or final dilution for intravenous infusion is not clear or appears to have precipitation, these should be discarded.
       The final Docetaxel Injection dilution for infusion should be administered intravenously as a 1-hour infusion under ambient room temperature and lighting conditions.
+
+One-vial formulation (Injection Concentrate)
+
+Docetaxel Injection Concentrate (20 mg/mL) requires NO prior dilution with a diluent and is ready to add to the infusion solution.
+Use only a 21 gauge needle to withdraw docetaxel from the vial because larger bore needles (e.g., 18 and 19 gauge) may result in stopper coring and rubber particulates.
+
+1. Docetaxel Injection Concentrate vials should be stored between 15°C and 25°C (59°F and 77°F).
+2. Using only a 21 gauge needle, aseptically withdraw the required amount of Docetaxel Injection Concentrate (20 mg docetaxel/mL) with a calibrated syringe and inject into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
+   If a dose > 200 mg of docetaxel is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL docetaxel is not exceeded
+3. Thoroughly mix the infusion by gentle manual rotation.
+4. As with all parenteral products, docetaxel should be inspected visually for particulate matter or discoloration prior to administration whenever the solution and container permit.
+   If the docetaxel dilution for intravenous infusion is not clear or appears to have precipitation, it should be discarded.
+
+The docetaxel dilution for infusion should be administered intravenously as a 1-hour infusion under ambient room temperature (below 25°C) and lighting conditions.
 
 ## 2.10 Stability
 

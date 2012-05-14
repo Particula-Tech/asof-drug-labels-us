@@ -17,7 +17,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Responding patients may not experience an improvement in performance status on therapy and may experience worsening.
 The relationship between changes in performance status, response to therapy, and treatment-related side effects has not been established.
 
-## 6.1 Clinical Trials Experience
+## 6.1 Clinical Trial Experience
 
 Breast Cancer
 
@@ -147,7 +147,7 @@ Infusion site reactions were generally mild and consisted of hyperpigmentation, 
 
 Hepatic Reactions
 
-In patients with normal LFTs at baseline, bilirubin values greater than the ULN occurred in 8.9% of patients.
+In patients with normal LFTs at baseline, bilirubin values > the ULN occurred in 8.9% of patients.
 Increases in AST or ALT >1.5 times the ULN, or alkaline phosphatase >2.5 times ULN, were observed in 18.9% and 7.3% of patients, respectively.
 While on docetaxel, increases in AST and/or ALT >1.5 times ULN concomitant with alkaline phosphatase >2.5 times ULN occurred in 4.3% of patients with normal LFTs at baseline.
 Whether these changes were related to the drug or underlying disease has not been established.
@@ -155,8 +155,7 @@ Whether these changes were related to the drug or underlying disease has not bee
 Hematologic and Other Toxicity: Relation to dose and baseline liver chemistry abnormalities
 
 Hematologic and other toxicity is increased at higher doses and in patients with elevated baseline liver function tests (LFTs).
-In the following tables, adverse drug reactions are compared for three populations: 730 patients with normal LFTs given docetaxel at 100 mg/m2 in the randomized and single arm studies of metastatic breast cancer after failure of previous chemotherapy; 18 patients in these studies who had abnormal baseline LFTs (defined as AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN); and 174 patients in Japanese studies given docetaxel at 60 mg/m2 who had normal LFTs.
-(see Tables 5 and Table 6).
+In the following tables, adverse drug reactions are compared for three populations: 730 patients with normal LFTs given docetaxel at 100 mg/m2 in the randomized and single arm studies of metastatic breast cancer after failure of previous chemotherapy; 18 patients in these studies who had abnormal baseline LFTs (defined as AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN); and 174 patients in Japanese studies given docetaxel at 60 mg/m2 who had normal LFTs (see Tables 5 and 6).
 
 Table 5 - Hematologic Adverse Reactions in Breast Cancer Patients Previously Treated with Chemotherapy Treated at Docetaxel 100 mg/m2 with Normal or Elevated Liver Function Tests or 60 mg/m2 with Normal Liver Function Tests
 
@@ -166,13 +165,13 @@ Table 5 - Hematologic Adverse Reactions in Breast Cancer Patients Previously Tre
 |  | Normal LFTsNormal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN | Elevated LFTsElevated Baseline LFTs: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN | Normal LFTs |
 | Adverse Reaction | n=730 | n=18 | n=174 |
 | Neutropenia |  |  |  |
-| Any <2000 cells/mm3 | 98 | 100 | 95 |
-| Grade 4 <500 cells/mm3 | 84 | 94 | 75 |
+| Any (<2000 cells/mm3) | 98 | 100 | 95 |
+| Grade 4 (<500 cells/mm3) | 84 | 94 | 75 |
 | Thrombocytopenia |  |  |  |
-| Any <100,000 cells/mm3 | 11 | 44 | 14 |
-| Grade 4 <20,000 cells/mm3 | 1 | 17 | 1 |
-| Anemia <11 g/dL | 95 | 94 | 65 |
-| InfectionIncidence of infection requiring hospitalization and/or intravenous antibiotics was 8.5% (n=62) among the 730 patients with normal LFTs at baseline; 7 patients had concurrent grade 3 neutropenia, and 46 patients had grade 4 neutropenia. |  |  |  |
+| Any (<100,000 cells/mm3) | 11 | 44 | 14 |
+| Grade 4 (<20,000 cells/mm3) | 1 | 17 | 1 |
+| Anemia (<11 g/dL) | 95 | 94 | 65 |
+| Infection Incidence of infection requiring hospitalization and/or intravenous antibiotics was 8.5% (n=62) among the 730 patients with normal LFTs at baseline; 7 patients had concurrent grade 3 neutropenia, and 46 patients had grade 4 neutropenia. |  |  |  |
 | Any | 23 | 39 | 1 |
 | Grade 3 and 4 | 7 | 33 | 0 |
 | Febrile NeutropeniaFebrile Neutropenia: For 100 mg/m2, ANC grade 4 and fever >38°C with intravenous antibiotics and/or hospitalization; for 60 mg/m2, ANC grade 3/4 and fever >38.1°C |  |  |  |
@@ -222,7 +221,7 @@ Combination therapy with docetaxel in the adjuvant treatment of breast cancer
 
 The following table presents treatment emergent adverse reactions observed in 744 patients, who were treated with docetaxel 75 mg/m2 every 3 weeks in combination with doxorubicin and cyclophosphamide (see Table 7).
 
-Table 7- Clinically Important Treatment Emergent Adverse Reactions Regardless of Causal Relationship in Patients Receiving Docetaxel in Combination with Doxorubicin and Cyclophosphamide (TAX316).
+Table 7 - Clinically Important Treatment Emergent Adverse Reactions Regardless of Causal Relationship in Patients Receiving Docetaxel in Combination with Doxorubicin and Cyclophosphamide (TAX316).
 
 | Adverse Reaction | Any | Grade 3/4 | Any | Grade 3/4 |
 | --- | --- | --- | --- | --- |
@@ -331,7 +330,7 @@ Table 8 - Treatment Emergent Adverse Reactions Regardless of Relationship to Tre
 | Any | 6 | 0 | 1 |
 | Grade 3/4 | 3 | 0 | 0 |
 | Fluid Retention |  |  |  |
-| Any | 3 | NDNot Done | 23 |
+| Any | 34 | NDNot Done | 23 |
 | Severe | 3 |  | 3 |
 | Neurosensory |  |  |  |
 | Any | 23 | 14 | 29 |
@@ -380,7 +379,7 @@ Combination therapy with docetaxel in chemotherapy-naïve advanced unresectable 
 Table 9 presents safety data from two arms of an open label, randomized controlled trial (TAX326) that enrolled patients with unresectable stage IIIB or IV non-small cell lung cancer and no history of prior chemotherapy.
 Adverse reactions were described using the NCI Common Toxicity Criteria except where otherwise noted.
 
-Table 9 - Adverse Reactions Regardless of Relationship to Treatment in Chemotherapy- Naïve Advanced Non-Small Cell Lung Cancer Patients Receiving Docetaxel in Combination with Cisplatin
+Table 9 - Adverse Reactions Regardless of Relationship to Treatment in Chemotherapy - Naïve Advanced Non-Small Cell Lung Cancer Patients Receiving Docetaxel in Combination with Cisplatin
 
 | Adverse Reaction | Docetaxel 75 mg/m2 + Cisplatin 75 mg/m2 n=406 % | Vinorelbine 25 mg/m2 + Cisplatin 100 mg/m2 n=396 % |
 | --- | --- | --- |
@@ -399,10 +398,10 @@ Table 9 - Adverse Reactions Regardless of Relationship to Treatment in Chemother
 | Grade 3/4 | 8 | 8 |
 | Fever in absence of infection |  |  |
 | Any | 33 | 29 |
-| Grade 3/4 | < 1 | 1 |
+| Grade 3/4 | <1 | 1 |
 | Hypersensitivity ReactionReplaces NCI term "Allergy" |  |  |
 | Any | 12 | 4 |
-| Grade 3/4 | 3 | < 1 |
+| Grade 3/4 | 3 | <1 |
 | Fluid RetentionCOSTART term and grading system |  |  |
 | Any | 54 | 42 |
 | All severe or life-threatening events | 2 | 2 |
