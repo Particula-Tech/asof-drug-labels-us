@@ -128,7 +128,7 @@ Especially tell your healthcare provider if you take:
 - medicine for heart disease such as felodipine (Plendil®), nifedipine (Procardia®, Adalat CC®, Afeditab CR®), nicardipine (Cardene®)
 - steroids such as dexamethasone, fluticasone (Advair Diskus®, Veramyst®, Flovent®, Flonase®)
 - bosentan(Tracleer®)
-- medicine to treat chronic hepatitis C such as telaprevir (Incivek™)
+- medicine to treat chronic hepatitis C such as boceprevir (Victrelis™), telaprevir (Incivek™)
 - medicine for cholesterol such as pravastatin (Pravachol®), atorvastatin (Lipitor®), rosuvastatin (Crestor®)
 - medicine to prevent organ transplant failure such as cyclosporine (Gengraf®, Sandimmune®, Neoral®), tacrolimus (Prograf®), sirolimus (Rapamune®)
 - salmeterol (Advair®, Serevent®)
@@ -272,4 +272,4 @@ PREZISTA® is a registered trademark of Janssen Pharmaceuticals
 
 © Janssen Pharmaceuticals, Inc. 2006
 
-Revised: February 2012
+Revised: May 2012

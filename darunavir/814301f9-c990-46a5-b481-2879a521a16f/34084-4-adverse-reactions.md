@@ -243,4 +243,6 @@ Because these events are reported voluntarily from a population of unknown size,
 
 Redistribution of body fat has been reported.
 
-Rarely, rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibitors and PREZISTA/ritonavir) and toxic epidermal necrolysis have been reported [see Warnings and Precautions (5.3)].
+Rarely, rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibitors and PREZISTA/ritonavir) has been reported.
+
+In addition, toxic epidermal necrolysis and acute generalized exanthematous pustulosis have been reported rarely [see Warnings and Precautions (5.3)].

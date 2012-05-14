@@ -153,6 +153,9 @@ Table 12: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Pre
 | Nevirapine | 200 mg b.i.d. | 400/100 mg b.i.d. | 8 | ↑ | 1.40 Ratio based on between-study comparison. (1.14–1.73) | 1.24 (0.97–1.57) | 1.02 (0.79–1.32) |
 | Rilpivirine | 150 mg q.d. | 800/100 mg q.d. | 15 | ↔ | 0.90 (0.81–1.00) | 0.89 (0.81–0.99) | 0.89 (0.68–1.16) |
 | Tenofovir Disoproxil Fumarate | 300 mg q.d. | 300/100 mg b.i.d. | 12 | ↑ | 1.16 (0.94–1.42) | 1.21 (0.95–1.54) | 1.24 (0.90–1.69) |
+| Co-Administration With HCV NS3-4A Protease Inhibitors |  |  |  |  |  |  |  |
+| Boceprevir | 800 mg three times daily | 600/100 mg b.i.d. | 11 | ↓ | 0.64 (0.58–0.71) | 0.56 (0.51–0.61) | 0.41 (0.38–0.45) |
+| Telaprevir | 750 mg every 8 hours 1125 mg every 12 hours | 600/100 mg b.i.d. 600/100 mg b.i.d. | 11N = 14 for Cmax 15 | ↓ ↓ | 0.60 (0.56–0.64) 0.53 (0.47–0.59) | 0.60 (0.57–0.63) 0.49 (0.43–0.55) | 0.58 (0.52–0.64) 0.42 (0.35–0.51) |
 | Co-Administration With Other Drugs |  |  |  |  |  |  |  |
 | Carbamazepine | 200 mg b.i.d. | 600/100 mg b.i.d. | 16 | ↔ | 1.04 (0.93–1.16) | 0.99 (0.90–1.08) | 0.85 (0.73–1.00) |
 | Clarithromycin | 500 mg b.i.d. | 400/100 mg b.i.d. | 17 | ↔ | 0.83 (0.72–0.96) | 0.87 (0.75–1.01) | 1.01 (0.81–1.26) |
@@ -162,7 +165,6 @@ Table 12: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Pre
 | Ranitidine | 150 mg b.i.d. | 400/100 mg b.i.d. | 16 | ↔ | 0.96 (0.89–1.05) | 0.95 (0.90–1.01) | 0.94 (0.90–0.99) |
 | Rifabutin | 150 mg q.o.d. q.o.d. = every other day | 600/100 mg b.i.d. | 11 | ↑ | 1.42 (1.21–1.67) | 1.57 (1.28–1.93) | 1.75 (1.28–2.37) |
 | Sertraline | 50 mg q.d. | 400/100 mg b.i.d. | 13 | ↔ | 1.01 (0.89–1.14) | 0.98 (0.84–1.14) | 0.94 (0.76–1.16) |
-| Telaprevir | 750 mg every 8 hours 1125 mg every 12 hours | 600/100 mg b.i.d. 600/100 mg b.i.d. | 11N = 14 for Cmax 15 | ↓ ↓ | 0.60 (0.56–0.64) 0.53 (0.47–0.59) | 0.60 (0.57–0.63) 0.49 (0.43–0.55) | 0.58 (0.52–0.64) 0.42 (0.35–0.51) |
 | N = number of subjects with data |  |  |  |  |  |  |  |
 
 Table 13: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of Darunavir/Ritonavir
@@ -188,6 +190,9 @@ Table 13: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug
 | Tenofovir Disoproxil Fumarate | 300 mg q.d. | 300/100 mg b.i.d. | 12 | ↑ | 1.24 (1.08–1.42) | 1.22 (1.10–1.35) | 1.37 (1.19–1.57) |
 | Maraviroc | 150 mg b.i.d. | 600/100 mg b.i.d. | 12 | ↑ | 2.29 (1.46–3.59) | 4.05 (2.94–5.59) | 8.00 (6.35–10.1) |
 | Maraviroc | 150 mg b.i.d. | 600/100 mg b.i.d. with 200 mg b.i.d. etravirine | 10 | ↑ | 1.77 (1.20–2.60) | 3.10 (2.57–3.74) | 5.27 (4.51–6.15) |
+| Co-Administration With HCV NS3-4A Protease Inhibitors |  |  |  |  |  |  |  |
+| Boceprevir | 800 mg three times daily | 600/100 mg b.i.d. | 11 | ↓ | 0.75 (0.67–0.85) | 0.68 (0.65–0.72) | 0.65 (0.56–0.76) |
+| Telaprevir | 750 mg every 8 hours | 600/100 mg b.i.d. | 11N = 14 for Cmax | ↓ | 0.64 (0.61–0.67) | 0.65 (0.61–0.69) | 0.68 (0.63–0.74) |
 | Co-Administration With Other Drugs |  |  |  |  |  |  |  |
 | Atorvastatin | 40 mg q.d. when administered alone | 300/100 mg b.i.d. | 15 | ↑ | 0.56 (0.48–0.67) | 0.85 (0.76–0.97) | 1.81 (1.37–2.40) |
 |  | 10 mg q.d. when administered with darunavir/ritonavir |  |  |  |  |  |  |
@@ -199,7 +204,7 @@ Table 13: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug
 | Dextromethorphan | 30 mg | 600/100 mg b.i.d. | 12 | ↑ | 2.27 (1.59–3.26) | 2.70 (1.80–4.05) | - |
 | Dextrorphan |  |  |  | ↓ | 0.87 (0.77–0.98) | 0.96 (0.90–1.03) | - |
 | Digoxin | 0.4 mg | 600/100 mg b.i.d. | 8 | ↑ | 1.15 (0.89–1.48) | 1.36 (0.81–2.27) | - |
-| Ethinyl Estradiol (EE) | Ortho-Novum 1/35 (35 µg EE / 1 mg NE) | 600/100 mg b.i.d. | 11 | ↓ | 0.68 (0.61–0.74) | 0.56 (0.50–0.63) | 0.38 (0.27–0.54) |
+| Ethinyl estradiol (EE) | Ortho-Novum 1/35 (35 µg EE / 1 mg NE) | 600/100 mg b.i.d. | 11 | ↓ | 0.68 (0.61–0.74) | 0.56 (0.50–0.63) | 0.38 (0.27–0.54) |
 | Norethindrone (NE) |  |  | 11 | ↓ | 0.90 (0.83–0.97) | 0.86 (0.75–0.98) | 0.70 (0.51–0.97) |
 | Ketoconazole | 200 mg b.i.d. | 400/100 mg b.i.d. | 15 | ↑ | 2.11 (1.81–2.44) | 3.12 (2.65–3.68) | 9.68 (6.44–14.55) |
 | R-Methadone | 55–150 mg q.d. | 600/100 mg b.i.d. | 16 | ↓ | 0.76 (0.71–0.81) | 0.84 (0.78–0.91) | 0.85 (0.77–0.94) |
@@ -214,7 +219,6 @@ Table 13: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug
 |  | 25 mg (single dose) when administered with darunavir/ritonavir |  |  |  |  |  |  |
 | S-warfarin | 10 mg single dose | 600/100 mg b.i.d. | 12 | ↓ | 0.92 (0.86–0.97) | 0.79 (0.73–0.85) | - |
 | 7-OH-S-warfarin |  |  | 12 | ↑ | 1.42 (1.24–1.63) | 1.23 (0.97–1.57) | - |
-| Telaprevir | 750 mg every 8 hours | 600/100 mg b.i.d. | 11N = 14 for Cmax | ↓ | 0.64 (0.61–0.67) | 0.65 (0.61–0.69) | 0.68 (0.63–0.74) |
 | N = number of subjects with data;- = no information available |  |  |  |  |  |  |  |
 | A cocktail study was conducted in 12 healthy volunteers to evaluate the effect of steady state pharmacokinetics of darunavir/ritonavir on the activity of CYP2D6 (using dextromethorphan as probe substrate), CYP2C9 (using warfarin as probe substrate), and CYP2C19 (using omeprazole as probe substrate). The pharmacokinetic results are shown in Table 13. |  |  |  |  |  |  |  |
 
