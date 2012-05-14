@@ -93,6 +93,7 @@ See “What is the most important information I should know about FOCALIN XR?”
 
 Other serious side effects include:
 
+- Serious allergic reactions (symptoms can be difficulty breathing, swelling of the face, neck and throat, rashes and hives, fever)
 - slowing of growth (height and weight) in children
 - seizures, mainly in patients with a history of seizures
 - eyesight changes or blurred vision
@@ -134,7 +135,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Focalin XR is a trademark of Novartis AG
 
-SODAS® is a registered trademark of Elan Pharma International Ltd.
+SODAS® is a registered trademark of Alkermes Gainesville LLC
 
 This product is covered by US patents including 5,837,284, 5,908,850, 6,228,398, 6,355,656, and 6,635,284.
 
@@ -144,14 +145,10 @@ Novartis Pharmaceuticals Corporation
 
 East Hanover, New Jersey 07936
 
-By ELAN HOLDINGS INC.
-
-Pharmaceutical Division
+By Alkermes Gainesville LLC
 
 Gainesville, GA 30504
 
 © Novartis
 
-T2011-58/T2011-83
-
-April 2011/April 2011
+T2012-114/T2012-115 May 2012/May 2012

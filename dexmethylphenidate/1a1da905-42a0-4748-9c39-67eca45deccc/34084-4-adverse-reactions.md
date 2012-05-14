@@ -108,7 +108,14 @@ Changes (Mean ± SD) in Vital Signs and Weight by Randomized Dose during Double-
 | Diastolic BP (mmHg) | -0.2 ± 8.2 | 1.2 ± 8.9 | 2.1 ± 8.0 | 0.3 ± 7.8 |
 | Weight (kg) | -1.4 ± 2.0 | -1.2 ± 1.9 | -1.7 ± 2.3 | -0.1 ± 3.9 |
 
-## 6.5 Adverse Events with Other Methylphenidate HCl Dosage Forms
+## 6.5 Post-Marketing Experience
+
+The following additional adverse reactions have been identified during postapproval use of Focalin XR.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency:
+
+Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis
+
+## 6.6 Adverse Events with Other Methylphenidate HCl Dosage Forms
 
 Nervousness and insomnia are the most common adverse reactions reported with other methylphenidate products.
 In children, loss of appetite, abdominal pain, weight loss during prolonged therapy, insomnia, and tachycardia may occur more frequently; however, any of the other adverse reactions listed below may also occur.
