@@ -1,3 +1,0 @@
-# DRUG INTERACTIONS
-
-No drug-drug interaction studies have been conducted with nitisinone.
