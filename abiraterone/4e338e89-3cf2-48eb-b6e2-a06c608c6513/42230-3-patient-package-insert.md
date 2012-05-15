@@ -109,7 +109,7 @@ This leaflet summarizes the most important information about ZYTIGA.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about ZYTIGA that is written for healthcare professionals.
 
-For more information contact Janssen Biotech, Inc. at 1-800-457-6399 or www.Zytiga.com.
+For more information contact Janssen Biotech, Inc. at 1-800-526-7736 (1-800-JANSSEN) or www.Zytiga.com.
 
 What are the ingredients of ZYTIGA?
 
@@ -121,4 +121,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured by: Patheon Inc. Mississauga, Canada Manufactured for: Janssen Biotech, Inc. Horsham, PA 19044
 
-Issued: April 2012
+Issued: May 2012

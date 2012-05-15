@@ -71,7 +71,7 @@ Systemic exposure to abiraterone after a single oral 1,000 mg dose did not incre
 
 Drug Interactions
 
-In vitro studies with human hepatic microsomes showed that abiraterone is a strong inhibitor of CYP1A2 and CYP2D6 and a moderate inhibitor of CYP2C9, CYP2C19 and CYP3A4/5.
+In vitro studies with human hepatic microsomes showed that abiraterone is a strong inhibitor of CYP1A2, CYP2D6 and CYP2C8, and a moderate inhibitor of CYP2C9, CYP2C19 and CYP3A4/5.
 
 In an in vivo drug-drug interaction trial, the Cmax and AUC of dextromethorphan (CYP2D6 substrate) were increased 2.8- and 2.9-fold, respectively when dextromethorphan 30 mg was given with abiraterone acetate 1,000 mg daily (plus prednisone 5 mg twice daily).
 The AUC for dextrorphan, the active metabolite of dextromethorphan, increased approximately 1.3 fold [see Drug Interactions (7.1)].
