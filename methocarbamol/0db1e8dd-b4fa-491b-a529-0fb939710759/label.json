@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA011011"
+  ],
+  "inn": "methocarbamol",
+  "labeler": "Actient Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "52244-429-10",
+    "52244-449-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "methocarbamol",
+      "name": "Robaxin"
+    }
+  ],
+  "setid": "0db1e8dd-b4fa-491b-a529-0fb939710759",
+  "source": "dailymed"
+}
