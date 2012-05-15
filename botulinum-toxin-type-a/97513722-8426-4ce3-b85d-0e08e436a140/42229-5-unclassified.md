@@ -1,6 +1,6 @@
 Manufactured by: Ipsen Biopharm Ltd. Wrexham, LL13 9UF, UK
 
-Distributed by: Tercica, Inc. a subsidiary of the Ipsen Group Brisbane, CA 94005
+Distributed by: Ipsen Biopharmaceuticals, Inc. Basking Ridge, NJ 07920
 
 and
 

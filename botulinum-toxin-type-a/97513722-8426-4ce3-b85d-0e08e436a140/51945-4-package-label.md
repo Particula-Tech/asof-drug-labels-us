@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 500 Units Carton
+PRINCIPAL DISPLAY PANEL - 500 Units Vial Carton
 
 Rx only NDC Number: 15054-0500-1 1 Vial
 
@@ -14,18 +14,16 @@ IPSEN
 
 Lift here
 
-PRINCIPAL DISPLAY PANEL - 300 Units Carton
+PRINCIPAL DISPLAY PANEL - 300 Units Vial Carton
 
 Rx only NDC Number: 15054-0530-6 1 Vial
 
 abobotulinumtoxinA
 
-Dysport™ for Injection
+Dysport® for Injection
 
 For intramuscular use
 
 300 units/vial
 
 IPSEN
-
-Lift here
