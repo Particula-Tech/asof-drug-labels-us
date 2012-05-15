@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018741"
+  ],
+  "inn": "betamethasone",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-897-15",
+    "66993-897-49"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "betamethasone dipropionate",
+      "name": "Betamethasone Dipropionate"
+    }
+  ],
+  "setid": "f5b50c00-cc6f-4296-a9ae-b16888cef4dd",
+  "source": "dailymed"
+}
