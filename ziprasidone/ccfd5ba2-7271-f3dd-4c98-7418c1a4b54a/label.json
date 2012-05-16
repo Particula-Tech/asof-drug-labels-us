@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA077561"
+  ],
+  "inn": "ziprasidone",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-2528-0",
+    "60505-2528-3",
+    "60505-2528-6",
+    "60505-2528-8",
+    "60505-2529-0",
+    "60505-2529-3",
+    "60505-2529-6",
+    "60505-2529-8",
+    "60505-2530-0",
+    "60505-2530-3",
+    "60505-2530-6",
+    "60505-2530-8",
+    "60505-2531-0",
+    "60505-2531-3",
+    "60505-2531-6",
+    "60505-2531-8"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "ziprasidone hcl",
+      "name": "ziprasidone hydrochloride"
+    }
+  ],
+  "setid": "ccfd5ba2-7271-f3dd-4c98-7418c1a4b54a",
+  "source": "dailymed"
+}
