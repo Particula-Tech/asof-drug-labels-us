@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA076273"
+  ],
+  "inn": "clopidogrel",
+  "labeler": "Dr.Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-196-01",
+    "55111-196-05",
+    "55111-196-30",
+    "55111-196-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "clopidogrel bisulfate",
+      "name": "Clopidogrel bisulfate"
+    }
+  ],
+  "setid": "b5aa951f-72de-bea1-98a2-a4085c64a361",
+  "source": "dailymed"
+}
