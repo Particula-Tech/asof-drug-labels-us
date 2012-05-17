@@ -26,7 +26,7 @@ Table 4: Mean Antisecretory Effects After Single and Multiple Daily PREVACID Dos
 | Mean Nighttime pH | 1.9 | 2.4 | 3.0 | 2.6 | 3.8 |
 | % Time Gastric pH>3 | 18 | 33 | 59 | 51 | 72 |
 | % Time Gastric pH>4 | 12 | 22 | 49 | 41 | 66 |
-| NOTE: An intragastric pH of greater than 4 reflects a reduction in gastric acid by 99%. |  |  |  |  |  |
+| Note: An intragastric pH of greater than 4 reflects a reduction in gastric acid by 99% |  |  |  |  |  |
 
 After the initial dose in this study, increased gastric pH was seen within 1 to 2 hours with 30 mg of lansoprazole and 2 to 3 hours with 15 mg of lansoprazole.
 After multiple daily dosing, increased gastric pH was seen within the first hour post-dosing with 30 mg of lansoprazole and within 1 to 2 hours post-dosing with 15 mg of lansoprazole.
@@ -226,6 +226,8 @@ Patients treated with proton pump inhibitors and warfarin concomitantly may need
 
 Methotrexate and 7-hydromethotrexate: In an open-label, single-arm, eight-day, pharmacokinetic study of 28 adult rheumatoid arthritis patients (who required the chronic use of 7.5 to 15 mg of methotrexate given weekly), administration of 7 days of naproxen 500 mg twice daily and PREVACID 30 mg daily had no effect on the pharmacokinetics of methotrexate and 7-hydroxymethotrexate.
 While this study was not designed to assess the safety of this combination of drugs, no major adverse reactions were noted.
+However, this study was conducted with low doses of methotrexate.
+A drug interaction study with high doses of methotrexate has not been conducted.
 
 Amoxicillin: PREVACID has also been shown to have no clinically significant interaction with amoxicillin.
 

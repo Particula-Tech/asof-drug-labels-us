@@ -75,6 +75,7 @@ Especially tell your doctor if you take:
 - warfarin (Coumadin, Jantoven)
 - tacrolimus (Prograf)
 - theophylline (Theo-24, Elixophyllin, Theochron, Theolair)
+- methotrexate
 
 Ask your doctor or pharmacist if you are not sure if your medicine is listed above.
 
@@ -87,12 +88,12 @@ How should I take PREVACID?
   - You should swallow PREVACID Delayed-Release Capsules whole.
   - Do not crush or chew PREVACID Delayed-Release Capsules.
   - If you have trouble swallowing a whole capsule, you can open the capsule and take the contents with certain foods or juices.
-    See "Patient Instructions for Use" at the end of this leaflet for instructions on how to take PREVACID capsules with certain foods and juices.
-  - See "Patient Instructions for Use" at the end of this leaflet for instructions on how to mix and give PREVACID capsules through a nasogastric tube.
+    See "Patient Instruction for Use" at the end of this leaflet for instructions on how to take PREVACID capsules with certain foods and juices.
+  - See "Patient Instruction for Use" at the end of this leaflet for instructions on how to mix and give PREVACID capsules through a nasogastric tube.
 - PREVACID SoluTab:
   - is a tablet that melts in your mouth with or without water.
   - Do not break, cut or chew the tablets.
-  - See "Patient Instructions for Use" at the end of this leaflet for instructions on how to mix and give PREVACID SoluTab tablets through a syringe and nasogastric tube.
+  - See "Patient Instruction for Use" at the end of this leaflet for instructions on how to mix and give PREVACID SoluTab tablets through a syringe and nasogastric tube.
 - If you miss a dose, take it as soon as you remember.
   If it is almost time for your next dose, skip the missed dose.
   Just take the next dose at your regular time.
@@ -132,16 +133,15 @@ Your doctor may stop PREVACID if these symptoms happen.
 
 Tell your doctor right away if you have any of these symptoms:
 
-- 
-  - seizures
-  - dizziness
-  - abnormal or fast heartbeat
-  - jitteriness
-  - jerking movements or shaking (tremors)
-  - muscle weakness
-  - spasms of the hands and feet
-  - cramps or muscle aches
-  - spasm of the voice box
+- seizures
+- dizziness
+- abnormal or fast heartbeat
+- jitteriness
+- jerking movements or shaking (tremors)
+- muscle weakness
+- spasms of the hands and feet
+- cramps or muscle aches
+- spasm of the voice box
 
 Your doctor may check the level of magnesium in your body before you start taking PREVACID, or during treatment; if you will be taking PREVACID for a long period of time.
 
@@ -187,3 +187,76 @@ Inactive ingredients in PREVACID SoluTab Delayed-Release Orally Disintegrating T
 Mannitol, methacrylic acid, hydroxypropyl cellulose, lactose monohydrate-microcrystalline cellulose sphere, triethyl citrate, crospovidone, polyacrylate, magnesium carbonate, aspartame, glyceryl monostearate, hypromellose, magnesium stearate, citric acid, titanium dioxide, talc, artificial strawberry flavor, polyethylene glycol, polysorbate 80 and ferric oxide.
 
 PREVACID SoluTab contains phenylalanine 2.5 mg per 15 mg Tablet and 5.1 mg per 30 mg Tablet.
+
+Patient Instructions for Use
+
+PREVACID (prev-ǎ-sid) (lansoprazole) Delayed-Release Capsules and PREVACID SoluTab (prev-ǎ-sid sol-ū-tab) (lansoprazole) Delayed-Release Orally Disintegrating Tablets
+
+PREVACID Delayed-Release Capsules
+
+- Swallow PREVACID Delayed-Release Capsules whole.
+  Do not crush or chew them.
+- You should take PREVACID before eating.
+
+- PREVACID Delayed-Release Capsule with certain food: You can only use applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
+
+1. 1 Open the capsule.
+2. 2 Sprinkle the granules on 1 tablespoon of either applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
+3. 3 Swallow right away.
+
+- PREVACID Delayed-Release Capsule with certain juices: You can only use apple juice, orange juice or tomato juice.
+
+1. 1 Open the capsule.
+2. 2 Sprinkle the granules into 60 mL (about ¼ cup) of either apple juice, orange juice or tomato juice.
+3. 3 Stir.
+4. 4 Swallow right away.
+5. 5 To make sure that the entire dose is taken, rinse the glass with 1/2 cup or more of juice to get out any leftover granules.
+   Swallow the juice right away.
+
+- PREVACID Delayed-Release Capsules through a nasogastric tube (NG tube) 16 French or larger, as prescribed by your doctor: You can only use apple juice.
+
+1. 1 Open the capsule and empty the granules into a syringe.
+2. 2 Do not break or crush the granules.
+3. 3 Mix with 40 mL of apple juice.
+   Do not use other liquids.
+4. 4 Attach the syringe to the NG tube and give the medicine in the syringe through the NG tube into the stomach.
+5. 5 After giving the granules, flush the NG tube with more apple juice to clear the tube.
+
+PREVACID should not be used in foods or liquids not listed above.
+
+- PREVACID SoluTab Delayed-Release Orally Disintegrating Tablets
+
+1. 1 Do not chew, crush, cut or break tablets.
+2. 2 Put the tablet on the tongue and let it dissolve, with or without water.
+3. 3 Swallow after the tablet dissolves.
+4. 4 The tablet usually dissolves in less than 1 minute.
+
+- PREVACID SoluTab Delayed-Release Orally Disintegrating Tablets with an oral syringe:
+
+1. 1 Put a 15 mg tablet in an oral syringe and add 4 mL of water, or put a 30 mg tablet in an oral syringe and add 10 mL of water.
+2. 2 Shake the syringe gently to dissolve the tablet quickly.
+3. 3 After the tablet has dissolved, give the mixture within 15 minutes.
+4. 4 To make sure that the entire dose is taken, refill the syringe with about 2 mL (5 mL for the 30 mg tablet) of water, shake gently, and give the water in the syringe.
+
+- PREVACID SoluTab Delayed-Release Orally Disintegrating Tablets through a nasogastric tube (NG tube) 8 French or larger, as prescribed by your doctor:
+
+1. 1 Put a 15 mg tablet in a syringe and add 4 mL of water, or put a 30 mg tablet in a syringe and add 10 mL of water.
+2. 2 Shake the syringe gently to dissolve the tablet quickly.
+3. 3 After the tablet has dissolved, give the mixture in the syringe through the NG tube into the stomach within 15 minutes.
+4. 4 Refill the syringe with about 5 mL of water, shake gently, and flush the NG tube.
+
+How should I store PREVACID?
+
+- Store PREVACID at room temperature between 59°F to 86°F (15°C to 30°C).
+
+Keep PREVACID and all medicines out of the reach of children.
+
+Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
+
+PREVACID is a trademark registered in the U.S. Patent and Trademark Office and SoluTab is a trademark of Takeda Pharmaceuticals U.S.A., Inc. and used under license by Takeda Pharmaceuticals America, Inc.
+
+All other trademark names are the property of their respective owners.
+
+©1995 - 2012 Takeda Pharmaceuticals America, Inc.
+
+PRV012 R42 May 2012

@@ -56,7 +56,7 @@ Table 11 H. pylori Eradication Rates – Triple Therapy (PREVACID/amoxicillin/cl
 | M93-131 | 14 days | 92(p<0.05) versus PREVACID/amoxicillin and PREVACID/clarithromycin dual therapy. [80.0-97.7] (N=48) | 86 [73.3-93.5] (N=55) |
 | M95-392 | 14 days | 86(p<0.05) versus clarithromycin/amoxicillin dual therapy. [75.7-93.6] (N=66) | 83 [72.0-90.8] (N=70) |
 | M95-399The 95% confidence interval for the difference in eradication rates, 10-day minus 14-day is (-10.5, 8.1) in the evaluable analysis and (-9.7, 9.1) in the intent-to-treat analysis. | 14 days | 85 [77.0-91.0] (N=113) | 82 [73.9-88.1] (N=126) |
-| 10 days | 84 [76.0-89.8] (N=123) | 81 [73.9-87.6] (N=135) |  |
+|  | 10 days | 84 [76.0-89.8] (N=123) | 81 [73.9-87.6] (N=135) |
 
 Table 12 H. pylori Eradication Rates – 14-Day Dual Therapy (PREVACID/amoxicillin) Percent of Patients Cured [95% Confidence Interval] (Number of patients)
 
@@ -73,14 +73,14 @@ Patients remained healed significantly longer and the number of recurrences of d
 
 Table 13: Endoscopic Remission Rates
 
-| 0-3 mo. | 0-6 mo. | 0-12 mo. |  |  |  |
+| Trial | 0-3 mo. | 0-6 mo. | 0-12 mo. |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Trial | Drug | No. of Pts. | Percent in Endoscopic Remission |  |  |
+|  | Drug | No. of Pts. | Percent in Endoscopic Remission |  |  |
 | #1 | PREVACID 15 mg daily | 86 | 90%(p≤0.001) versus placebo. | 87% | 84% |
-| Placebo | 83 | 49% | 41% | 39% |  |
+|  | Placebo | 83 | 49% | 41% | 39% |
 | #2 | PREVACID 30 mg daily | 18 | 94% | 94% | 85% |
-| PREVACID 15 mg daily | 15 | 87% | 79% | 70% |  |
-| Placebo | 15 | 33% | 0% | 0% |  |
+|  | PREVACID 15 mg daily | 15 | 87% | 79% | 70% |
+|  | Placebo | 15 | 33% | 0% | 0% |
 | %=Life Table Estimate |  |  |  |  |  |
 
 In trial #2, no significant difference was noted between PREVACID 15 mg and 30 mg in maintaining remission.
@@ -161,11 +161,11 @@ Table 17: Frequency of Heartburn
 | Week 4 | 25% | 89% | 73% |
 | Week 8 | 36% | 92% | 80% |
 
-| Figure 1 |
-| --- |
+| Figure 1 |  |
+| --- | --- |
 
-| Figure 2 |
-| --- |
+| Figure 2 |  |
+| --- | --- |
 
 In two U.S., multicenter double-blind, ranitidine-controlled studies of 925 total patients with frequent GERD symptoms, but no esophageal erosions by endoscopy, lansoprazole 15 mg was superior to ranitidine 150 mg (twice daily) in decreasing the frequency and severity of day and night heartburn associated with GERD for the 8-week treatment period.
 No significant additional benefit from lansoprazole 30 mg once daily was observed [see Indications and Usage (1.7)].
@@ -226,12 +226,12 @@ Table 21: Endoscopic Remission Rates
 | Trial | Drug | No. of Pts. | 0-3 mo. | 0-6 mo. | 0-12 mo. |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  | Percent in Endoscopic Remission |  |  |
-| #1 | PREVACID 15 mg daily | 59 | 83%(p≤0.001) versus placebo. | 81% | 79% |
-| PREVACID 30 mg daily | 56 | 93% | 93% | 90% |  |
-| Placebo | 55 | 31% | 27% | 24% |  |
-| #2 | PREVACID 15 mg daily | 50 | 74% | 72% | 67% |
-| PREVACID 30 mg daily | 49 | 75% | 72% | 55% |  |
-| Placebo | 47 | 16% | 13% | 13% |  |
+|  | PREVACID 15 mg daily | 59 | 83%(p≤0.001) versus placebo. | 81% | 79% |
+| #1 | PREVACID 30 mg daily | 56 | 93% | 93% | 90% |
+|  | Placebo | 55 | 31% | 27% | 24% |
+|  | PREVACID 15 mg daily | 50 | 74% | 72% | 67% |
+| #2 | PREVACID 30 mg daily | 49 | 75% | 72% | 55% |
+|  | Placebo | 47 | 16% | 13% | 13% |
 | %=Life Table Estimate |  |  |  |  |  |
 
 Regardless of initial grade of erosive esophagitis, PREVACID 15 mg and 30 mg were similar in maintaining remission.
