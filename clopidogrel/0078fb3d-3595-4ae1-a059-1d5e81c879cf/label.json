@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA090540"
+  ],
+  "inn": "clopidogrel",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-357-01",
+    "65862-357-05",
+    "65862-357-10",
+    "65862-357-30",
+    "65862-357-90",
+    "65862-357-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "clopidogrel bisulfate",
+      "name": "Clopidogrel"
+    }
+  ],
+  "setid": "0078fb3d-3595-4ae1-a059-1d5e81c879cf",
+  "source": "dailymed"
+}
