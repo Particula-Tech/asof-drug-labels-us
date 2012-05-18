@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA076999"
+  ],
+  "inn": "clopidogrel",
+  "labeler": "Teva Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0093-7314-05",
+    "0093-7314-56",
+    "0093-7314-98"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "clopidogrel",
+      "name": "Clopidogrel"
+    }
+  ],
+  "setid": "bc747f6d-f52c-4dcb-bda5-2d0a9f954147",
+  "source": "dailymed"
+}
