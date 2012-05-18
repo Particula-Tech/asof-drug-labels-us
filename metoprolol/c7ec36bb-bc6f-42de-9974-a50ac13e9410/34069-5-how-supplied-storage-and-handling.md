@@ -2,9 +2,13 @@
 
 Metoprolol Tartrate Injection, USP is a clear and colorless solution available as:
 
-5 mL Single Dose Vials – each containing 5 mg Metoprolol Tartrate, USP.
+5 mL Single Dose Vials - each containing 5 mg Metoprolol Tartrate, USP.
 
 Cartons of 10 vials NDC 0143-9873-10
+
+10 mL Single Dose Vials - each containing 5 mg Metoprolol Tartrate Injection, USP
+
+Cartons of 10 vials NDC 0143-9660-10
 
 Store at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
 
@@ -27,4 +31,4 @@ WEST-WARD PHARMACEUTICAL CORP.
 
 Eatontown, NJ 07724 USA
 
-Revised: 12/2011
+Revised: 05/12
