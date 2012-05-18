@@ -1,0 +1,3 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+Clopidogrel Tablets, USP 75 mg

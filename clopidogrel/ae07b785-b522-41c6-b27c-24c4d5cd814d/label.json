@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA090844"
+  ],
+  "inn": "clopidogrel",
+  "labeler": "Torrent Pharmaceuticals Limited",
+  "package_ndcs": [
+    "13668-141-01",
+    "13668-141-05",
+    "13668-141-10",
+    "13668-141-30",
+    "13668-141-44",
+    "13668-141-74",
+    "13668-141-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clopidogrel bisulfate",
+      "name": "Clopidogrel Bisulfate"
+    }
+  ],
+  "setid": "ae07b785-b522-41c6-b27c-24c4d5cd814d",
+  "source": "dailymed"
+}
