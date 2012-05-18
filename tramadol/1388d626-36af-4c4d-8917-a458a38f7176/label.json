@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021692"
+  ],
   "inn": "tramadol",
-  "labeler": "PriCara",
+  "labeler": "Ortho-McNeil-Janssen Pharmaceuticals Inc.",
   "package_ndcs": [
     "0062-0653-30",
     "0062-0655-30",
     "0062-0657-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "tramadol hydrochloride",
+      "name": "ULTRAM ER"
+    }
+  ],
   "setid": "1388d626-36af-4c4d-8917-a458a38f7176",
   "source": "dailymed"
 }
