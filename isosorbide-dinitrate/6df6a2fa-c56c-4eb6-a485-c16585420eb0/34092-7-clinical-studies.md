@@ -17,3 +17,5 @@ Manufactured by:
 PAR PHARMACEUTICAL, INC.
 
 Spring Valley, NY 10977
+
+R12/09
