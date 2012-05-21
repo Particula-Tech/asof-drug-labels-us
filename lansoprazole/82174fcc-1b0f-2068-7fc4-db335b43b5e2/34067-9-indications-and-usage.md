@@ -67,7 +67,7 @@ Lansoprazole delayed-release capsules are indicated to maintain healing of erosi
 Controlled studies did not extend beyond 12 months.
 [See Clinical Studies (14)]
 
-## 1.9 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
+## 1.9 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome (ZES)
 
 Lansoprazole delayed-release capsules are indicated for the long-term treatment of pathological hypersecretory conditions, including Zollinger-Ellison syndrome.
 [See Clinical Studies (14)]

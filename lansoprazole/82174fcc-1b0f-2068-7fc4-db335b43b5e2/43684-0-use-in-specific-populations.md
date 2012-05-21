@@ -40,7 +40,7 @@ Table 2: GERD symptom improvement and Erosive Esophagitis healing rates in pedia
 In a study of 66 pediatric patients in the age group 1 year to 11 years old after treatment with lansoprazole delayed-release capsules given orally in doses of 15 mg daily to 30 mg twice daily, increases in serum gastrin levels were similar to those observed in adult studies.
 Median fasting serum gastrin levels increased 89% from
 
-51 pg/ mL at baseline to 97 pg/mL [interquartile range (25th-75th percentile) of 71-130 pg/ mL] at the final visit.
+51 pg/ mL at baseline to 97 pg/mL [interquartile range (25th to 75th percentile) of 71 to 130 pg/ mL] at the final visit.
 
 The pediatric safety of lansoprazole delayed-release capsules has been assessed in 66 pediatric patients aged 1 to 11 years of age.
 Of the 66 patients with GERD 85% (56/66) took lansoprazole delayed-release capsules for 8 weeks and 15% (10/66) took it for 12 weeks.
@@ -70,11 +70,11 @@ Table 3: GERD symptom improvement and Erosive Esophagitis healing rates in pedia
 | Improvement in Overall GERD Symptoms | 78.3% (18/23) |
 | Healing Rate Data from one healed patient was excluded from this analysis due to timing of final endoscopy. | 95.5% (21/22) |
 
-In these 87 adolescent patients, increases in serum gastrin levels were similar to those observed in adult studies, median fasting serum gastrin levels increased 42% from 45 pg/mL at baseline to 64 pg/mL [interquartile range (25th – 75th percentile) of 44 – 88 pg/mL] at the final visit.
+In these 87 adolescent patients, increases in serum gastrin levels were similar to those observed in adult studies, median fasting serum gastrin levels increased 42% from 45 pg/mL at baseline to 64 pg/mL [interquartile range (25th to 75th percentile) of 44 to 88 pg/mL] at the final visit.
 (Normal serum gastrin levels are 25 to 111 pg/mL).
 
 The safety of lansoprazole delayed-release capsules has been assessed in these 87 adolescent patients.
-Of the 87 adolescent patients with GERD, 6% (5/87) took lansoprazole delayed-release capsules for less than 6 weeks, 93% (81/87) for 6-10 weeks, and 1% (1/87) for greater than 10 weeks.
+Of the 87 adolescent patients with GERD, 6% (5/87) took lansoprazole delayed-release capsules for less than 6 weeks, 93% (81/87) for 6 to 10 weeks, and 1% (1/87) for greater than 10 weeks.
 
 The most frequently reported (at least 3%) treatment-related adverse reactions in these patients were headache (7%), abdominal pain (5%), nausea (3%) and dizziness (3%).
 Treatment-related dizziness, reported in this package insert as occurring in less than 1% of adult patients, was reported in this study by 3 adolescent patients with nonerosive GERD, who had dizziness concurrently with other reactions (such as migraine, dyspnea, and vomiting).
@@ -83,26 +83,26 @@ Treatment-related dizziness, reported in this package insert as occurring in les
 
 No dosage adjustment of lansoprazole delayed-release capsules is necessary in geriatric patients.
 The incidence rates of lansoprazole delayed-release capsules-associated adverse reactions and laboratory test abnormalities are similar to those seen in younger patients.
-[See Clinical Pharmacology (12.4)]
+[See Clinical Pharmacology (12.3)]
 
 ## 8.6 Renal Impairment
 
 No dosage adjustment of lansoprazole delayed-release capsules is necessary in patients with renal impairment.
 The pharmacokinetics of lansoprazole in patients with various degrees of renal impairment were not substantially different compared to those in subjects with normal renal function.
-[See Clinical Pharmacology (12.4)]
+[See Clinical Pharmacology (12.3)]
 
 ## 8.7 Hepatic Impairment
 
 In patients with various degrees of chronic hepatic impairment, an increase in the mean AUC of up to 500% was observed at steady state compared to healthy subjects.
 Consider dose reduction in patients with severe hepatic impairment.
-[See Clinical Pharmacology (12.4)]
+[See Clinical Pharmacology (12.3)]
 
 ## 8.8 Gender
 
 Over 4,000 women were treated with lansoprazole delayed-release capsules.
 Ulcer healing rates in females were similar to those in males.
 The incidence rates of adverse reactions in females were similar to those seen in males.
-[See Clinical Pharmacology (12.4)]
+[See Clinical Pharmacology (12.3)]
 
 ## 8.9 Race
 

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Lansoprazole delayed release capsules USP, 15 mg are white to pale yellow colored enteric coated pellets filled in size ‘3’ hard gelatin capsules with opaque pink colored cap and opaque green colored body, imprinted ‘RDY’ on cap and ‘398’ on body with white ink.
+Lansoprazole delayed release capsules USP, 15 mg are white to pale yellow colored enteric coated pellets filled in size ‘3’ hard gelatin capsules with opaque pink colored cap and opaque green colored body, imprinted ‘RDY’ on cap and ‘LAN’ on body with white ink.
 They are supplied in bottles of 30’s, 60’s, 90's,100’s, 500’s and unit dose package of 10 (1 x 10).
 
 Bottles of 30 NDC 55111-398-30

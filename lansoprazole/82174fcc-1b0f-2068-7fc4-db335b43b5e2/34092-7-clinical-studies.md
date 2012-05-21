@@ -49,7 +49,7 @@ A randomized, double-blind clinical study performed in the U.S. in patients with
 This study established that the 10-day triple therapy was equivalent to the 14-day triple therapy in eradicating H. pylori (Tables 11 and 12).
 [See Indications and Usage (1.2)]
 
-Table 11 H. pylori Eradication Rates – Triple Therapy (Lansoprazole amoxicillin/clarithromycin) Percent of Patients Cured
+Table 11 H. pylori Eradication Rates – Triple Therapy (Lansoprazole/ amoxicillin/clarithromycin) Percent of Patients Cured
 
 [95% Confidence Interval]
 

@@ -4,9 +4,9 @@ Patient Information
 
 Lansoprazole Delayed-Release Capsules USP
 
-Read the information that comes with lansoprazole delayed-release capsules before you start taking it and each time you get a refill.
+Read this Patient Information that comes with lansoprazole delayed-release capsules before you start taking it and each time you get a refill.
 There may be new information.
-This information does not take the place of talking with your doctor about your medical condition or your treatment.
+This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
 
 What are lansoprazole delayed-release capsules?
 
@@ -16,10 +16,10 @@ Lansoprazole delayed-release capsules reduces the amount of acid in your stomach
 Lansoprazole delayed-release capsules are used in adults:
 
 - for 4 weeks to heal ulcers in the first part of the small bowel (duodenal ulcers).
-- for up to 12 months to stop healed duodenal ulcers from coming back. for up to 8 weeks to heal stomach ulcers.
-- for up to 8 weeks to heal stomach ulcers in some people taking medicines called non-steroidal anti-inflammatory drugs (NSAIDs).
+- along with certain antibiotics to treat a stomach infection called Helicobacter pylori.
+- for continued healing of duodenal ulcers.
+- for up to 8 weeks to heal stomach ulcers in some people taking pain medicines called non-steroidal anti-inflammatory drugs (NSAIDs).
 - for reducing the risk of stomach ulcers in some people taking NSAIDs.
-- for reducing the risk of stomach infections (Helicobacter pylori), along with antibiotics amoxicillin and clarithromycin.
 - for up to 8 weeks for the relief of heartburn and other symptoms of gastroesophageal reflux disease (GERD).
 
 GERD happens when acid from your stomach enters the tube (esophagus) that connects your mouth to your stomach.
@@ -38,7 +38,7 @@ Lansoprazole delayed-release capsules are used in children and adolescents (ages
 - for up to 12 weeks to treat GERD and erosive esophagitis, in children 1 to 11 years old.
 - for up to 8 weeks to treat GERD and erosive esophagitis, in adolescents 12 to17 years old.
 
-Lansoprazole delayed-release capsules are not recommended for children under the age of 1 year.
+Lansoprazole delayed-release capsules are not effective for symptoms of GERD in children under the age of 1 year.
 
 Lansoprazole delayed-release capsules may help your acid-related symptoms, but you could still have serious stomach problems.
 Talk with your doctor.
@@ -52,6 +52,7 @@ What should I tell my doctor before taking lansoprazole delayed-release capsules
 
 Before you take lansoprazole delayed-release capsules, tell your doctor if you:
 
+- have been told that you have low magnesium levels in your blood.
 - have liver problems
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
@@ -63,16 +64,17 @@ Before you take lansoprazole delayed-release capsules, tell your doctor if you:
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Lansoprazole delayed-release capsules may affect how other medicines work, and other medicines may affect how lansoprazole delayed-release capsules works.
+
 Especially tell your doctor if you take:
 
 - ampicillin sodium (Unasyn) or ampicillin trihydrate (Principen)
 - atazanavir (Reyataz)
-- digoxin (Lanoxicaps, Lanoxin)
+- digoxin (Lanoxin)
 - a product that contains iron
 - ketoconazole (Nizoral)
 - warfarin (Coumadin, Jantoven)
 - tacrolimus (Prograf)
-- theophylline (Theo-24, Theolair)
+- theophylline (Theo-24, Elixophyllin, Theochron, Theolair)
 
 Ask your doctor or pharmacist if you are not sure if your medicine is listed above.
 
@@ -81,27 +83,16 @@ How should I take lansoprazole delayed-release capsules?
 - Take lansoprazole delayed-release capsules exactly as prescribed by your doctor.
 - Do not change your dose or stop taking lansoprazole delayed-release capsules without talking to your doctor first.
 - You should take lansoprazole delayed-release capsules before eating.
-- Lansoprazole delayed-release capsules can be swallowed whole, do not crush or chew them.
-  They can also be opened and sprinkled into approximately ¼ cup apple, tomato or orange juice, or on 1 tablespoon applesauce, Ensure® pudding, cottage cheese, yogurt or strained pears only.
-  See “Patient Instructions for Use” at the end of this leaflet for instructions on how to take lansoprazole delayed-release capsules with these foods, and how to mix and give lansoprazole delayed-release capsules through a nasogastric tube.
+- Lansoprazole delayed-release capsules: o You should swallow lansoprazole delayed-release capsules whole. o Do not crush or chew lansoprazole delayed-release capsules. o If you have trouble swallowing a whole capsule, you can open the capsule and take the contents with certain foods or juices.
+  See “Patient Instructions for Use” at the end of this leaflet for instructions on how to take lansoprazole delayed-release capsules with certain foods and juices. o See “Patient Instructions for Use” at the end of this leaflet for instructions on how to mix and give lansoprazole delayed-release capsules through a nasogastric tube.
 - If you miss a dose, take it as soon as you remember.
   If it is almost time for your next dose, skip the missed dose.
   Just take the next dose at your regular time.
   Do not take 2 doses at the same time.
   If you are not sure about dosing, call your doctor.
-- If you take too much lansoprazole delayed-release capsules, call your doctor right away.
+  If you take too much lansoprazole delayed-release capsules, call your doctor right away.
 
 What are the possible side effects of lansoprazole delayed-release capsules?
-
-Serious allergic reactions.
-Tell your doctor if you get any of the following symptoms with lansoprazole delayed-release capsules.
-
-- rash
-- face swelling
-- throat tightness
-- difficulty breathing
-
-Your doctor may stop lansoprazole delayed-release capsules if these symptoms happen.
 
 The most common side effects of lansoprazole delayed-release capsules in adults and children include:
 
@@ -112,11 +103,41 @@ The most common side effects of lansoprazole delayed-release capsules in adults 
 - headache
 - dizziness
 
-People who are taking multiple daily doses of proton pump inhibitor medicines for a long period of time may have an increased risk of fractures of the hip, wrist or spine.
+Other side effects
+
+- Serious allergic reactions.
+  Tell your doctor if you get any of the following symptoms with lansoprazole delayed-release capsules.
+
+- rash
+- face swelling
+- throat tightness
+- difficulty breathing
+
+Your doctor may stop lansoprazole delayed-release capsules if these symptoms happen.
+
+- Bone Fractures.
+  People who are taking multiple daily doses of proton pump inhibitor medicines for a long period of time may have an increased risk of fractures of the hip, wrist or spine.
+- Low magnesium levels in your body.
+  This problem can be serious.
+  Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+  If low magnesium levels happen, it is usually after a year of treatment.
+  You may or may not have symptoms of low magnesium.
+  Tell your doctor right away if you have any of these symptoms:
+- seizures
+- dizziness
+- abnormal or fast heartbeat
+- jitteriness
+- jerking movements or shaking (tremors)
+- muscle weakness
+- spasms of the hands and feet
+- cramps or muscle aches
+- spasm of the voice box Your doctor may check the level of magnesium in your body before you start taking lansoprazole delayed-release capsules, or during treatment; if you will be taking lansoprazole delayed-release capsules for a long period of time.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
+
 These are not all the possible side effects of lansoprazole delayed-release capsules.
 For more information, ask your doctor or pharmacist.
+
 Call your doctor for medical advice about side effects.
 You may report side effects to the FDA at 1-800-FDA-1088.
 
@@ -134,55 +155,12 @@ Do not give lansoprazole delayed-release capsules to other people, even if they 
 It may harm them.
 
 This Patient Information Leaflet provides a summary of the most important information about lansoprazole delayed-release capsules.
-For more information, ask your doctor.
+If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information that is written for healthcare professionals.
 
 For more information, call 1-888-375-3784.
 
-Patient Instructions for Use
-
-Lansoprazole Delayed-Release Capsules
-
-- Swallow lansoprazole delayed-release capsules whole.
-  Do not crush or chew them.
-- If you have trouble swallowing a whole capsule, you can open the capsule and take it with the foods or juices listed below.
-
-For taking lansoprazole delayed-release capsules with applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears:
-
-o Open the capsule.
-
-o Sprinkle the granules on one tablespoon of either applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
-
-o Swallow right away.
-
-For taking lansoprazole delayed-release capsules with apple juice, orange juice or tomato juice:
-
-o Open the capsule.
-
-o Sprinkle the granules into 60 mL (about ¼ cup) of either apple juice, orange juice or tomato juice.
-
-o Stir briefly.
-
-o Swallow right away.
-
-o To make sure that the entire dose is taken, rinse the glass with 1/2 cup or more of juice to get out any leftover granules.
-Swallow the juice right away.
-
-For giving lansoprazole delayed-release capsules through a nasogastric tube (NG tube) ≥16 French, as prescribed by your doctor:
-
-o Open the capsule and empty the granules into a syringe.
-Do not break or crush the granules.
-
-o Mix with 40 mL of apple juice.
-DO NOT USE OTHER LIQUIDS.
-
-o Attach the syringe to the NG tube and give the medicine in the syringe through the NG tube into the stomach.
-
-o After giving the granules, flush the NG tube with more apple juice to clear the tube.
-
-USE IN OTHER FOODS AND LIQUIDS IS NOT RECOMMENDED.
-
-What is in lansoprazole delayed-release capsules?
+What are the ingredients in lansoprazole delayed-release capsules?
 
 Active ingredient: lansoprazole.
 
@@ -191,6 +169,62 @@ Inactive ingredients in lansoprazole delayed-release capsules:
 Ammonium hydroxide, hydroxypropyl cellulose, low substituted hydroxypropyl cellulose, magnesium carbonate, methacrylic acid copolymer, polyethylene glycol, polysorbate 80, propylene glycol, shellac, simethicone, starch, sucrose, sugar spheres, talc, and titanium dioxide.
 
 Components of the gelatin capsule include gelatin, iron oxide red, iron oxide yellow, FD&C Blue 2, sodium lauryl sulphate and titanium dioxide for 15 mg capsules and gelatin, iron oxide black, iron oxide red, iron oxide yellow, sodium lauryl sulphate and titanium dioxide for 30 mg capsules.
+
+Patient Instructions for Use
+
+Lansoprazole Delayed-Release Capsules USP
+
+Lansoprazole Delayed-Release Capsules
+
+- Swallow lansoprazole delayed-release capsules whole.
+  Do not crush or chew them.
+- You should take lansoprazole delayed-release capsules before eating.
+
+• Lansoprazole Delayed-Release Capsule with certain food:
+
+You can only use applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
+
+1 Open the capsule.
+
+2 Sprinkle the granules on 1 tablespoon of either applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
+
+3 Swallow right away.
+
+• Lansoprazole Delayed-Release Capsule with certain juices:
+
+You can only use apple juice, orange juice or tomato juice.
+
+1 Open the capsule.
+
+2 Sprinkle the granules into 60 mL (about ¼ cup) of either apple juice, orange juice or tomato juice.
+
+3 Stir.
+
+4 Swallow right away.
+
+5 To make sure that the entire dose is taken, rinse the glass with 1/2 cup or more of juice to get out any leftover granules.
+Swallow the juice right away.
+
+• Lansoprazole Delayed-Release Capsules through a nasogastric tube (NG tube) 16 French or larger, as prescribed by your doctor:
+
+You can only use apple juice.
+
+1 Open the capsule and empty the granules into a syringe.
+
+2 Do not break or crush the granules.
+
+3 Mix with 40 mL of apple juice.
+Do not use other liquids.
+
+4 Attach the syringe to the NG tube and give the medicine in the syringe through the NG tube into the stomach.
+
+5 After giving the granules, flush the NG tube with more apple juice to clear the tube.Lansoprazole delayed-release capsules should not be used in foods or liquids not listed above.
+
+How should I store lansoprazole delayed-release capsules?
+
+• Store lansoprazole delayed-release capsules at room temperature between 20° to 25° C (68° to 77° F)
+
+Keep lansoprazole delayed-release capsules and all medicines out of the reach of children.
 
 To reorder additional Patient Information Leaflets, please contact Dr. Reddy's Customer Service at 1-866-733-3952.
 
@@ -204,4 +238,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachepalli – 502 325 INDIA
 
-Issued: 0910
+Revised: 0212
