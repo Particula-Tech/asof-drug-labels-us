@@ -8,7 +8,7 @@ CLINDAMYCIN PHOSPHATE LOTION (Clindamycin Phosphate Topical Suspension USP, 1%) 
 
 Rx only
 
-E. FOUGERA & CO. A division of Nycomed US Inc. Melville, New York 11747
+E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
 
 # PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 60 mL CARTON
 
@@ -24,11 +24,11 @@ FOR TOPICAL USE ONLY
 
 Rx only
 
-E. FOUGERA & CO. A division of Nycomed US Inc. Melville, New York 11747
+E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
 
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 30 mL CONTAINER
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 60 mL CONTAINER
 
-NDC 0168-0201-30
+NDC 0168-0201-60
 
 Fougera ®
 
@@ -37,11 +37,11 @@ For Topical Use Only
 
 Rx only 30 mL
 
-E. FOUGERA & CO. A division of Nycomed US Inc. Melville, New York 11747
+E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
 
-# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 30 mL CARTON
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 60 mL CARTON
 
-NDC 0168-0201-30
+NDC 0168-0201-60
 
 Fougera ®
 
@@ -55,7 +55,7 @@ For External Use Only
 
 Rx only
 
-E. FOUGERA & CO. A division of Nycomed US Inc. Melville, New York 11747
+E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
 
 # PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 30 G CONTAINER
 

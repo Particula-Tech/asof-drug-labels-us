@@ -17,8 +17,6 @@ Store at 20°-25°C (68° to 77°F).
 Protect from freezing.
 Keep all liquid dosage forms in containers tightly closed.
 
-November 2007
+E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. MELVILLE, NEW YORK 11747
 
-E. FOUGERA & CO. A division of Nycomed US Inc. MELVILLE, NEW YORK 11747
-
-IFI201A
+I201B/IF201B R10/11 #90
