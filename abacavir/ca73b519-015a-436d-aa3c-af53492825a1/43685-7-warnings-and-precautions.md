@@ -27,15 +27,15 @@ Group 5: Respiratory (including dyspnea, cough, or pharyngitis).
 
 Hypersensitivity to abacavir following the presentation of a single sign or symptom has been reported infrequently.
 
-Hypersensitivity to abacavir was reported in approximately 8% of 2,670 patients (n = 206) in 9 clinical trials (range: 2% to 9%) with enrollment from November 1999 to February 2002.
+Hypersensitivity to abacavir was reported in approximately 8% of 2,670 subjects (n = 206) in 9 clinical trials (range: 2% to 9%) with enrollment from November 1999 to February 2002.
 Data on time to onset and symptoms of suspected hypersensitivity were collected on a detailed data collection module.
 The frequencies of symptoms are shown in Figure 1.
 Symptoms usually appeared within the first 6 weeks of treatment with abacavir, although the reaction may occur at any time during therapy.
-Median time to onset was 9 days; 89% appeared within the first 6 weeks; 95% of patients reported symptoms from 2 or more of the 5 groups listed above.
+Median time to onset was 9 days; 89% appeared within the first 6 weeks; 95% of subjects reported symptoms from 2 or more of the 5 groups listed above.
 
 Other less common signs and symptoms of hypersensitivity include lethargy, myolysis, edema, abnormal chest x-ray findings (predominantly infiltrates, which can be localized), and paresthesia.
 Anaphylaxis, liver failure, renal failure, hypotension, adult respiratory distress syndrome, respiratory failure, and death have occurred in association with hypersensitivity reactions.
-In one study, 4 patients (11%) receiving ZIAGEN 600 mg once daily experienced hypotension with a hypersensitivity reaction compared with 0 patients receiving ZIAGEN 300 mg twice daily.
+In one trial, 4 subjects (11%) receiving ZIAGEN 600 mg once daily experienced hypotension with a hypersensitivity reaction compared with 0 subjects receiving ZIAGEN 300 mg twice daily.
 
 Physical findings associated with hypersensitivity to abacavir in some patients include lymphadenopathy, mucous membrane lesions (conjunctivitis and mouth ulcerations), and rash.
 The rash usually appears maculopapular or urticarial, but may be variable in appearance.
@@ -58,11 +58,11 @@ Even in the absence of the HLA-B*5701 allele, it is important to permanently dis
 If symptoms consistent with hypersensitivity are not identified, reintroduction can be undertaken with continued monitoring for symptoms of a hypersensitivity reaction.
 Make patients aware that a hypersensitivity reaction can occur with reintroduction of ZIAGEN or any other abacavir-containing product and that reintroduction of ZIAGEN or any other abacavir-containing product needs to be undertaken only if medical care can be readily accessed by the patient or others.
 
-Risk Factor: HLA-B*5701 Allele: Studies have shown that carriage of the HLA-B*5701 allele is associated with a significantly increased risk of a hypersensitivity reaction to abacavir.
+Risk Factor: HLA-B*5701 Allele: Trials have shown that carriage of the HLA-B*5701 allele is associated with a significantly increased risk of a hypersensitivity reaction to abacavir.
 
-CNA106030 (PREDICT-1), a randomized, double-blind study, evaluated the clinical utility of prospective HLA-B*5701 screening on the incidence of abacavir hypersensitivity reaction in abacavir-naive HIV-1-infected adults (n = 1,650).
-In this study, use of pre-therapy screening for the HLA-B*5701 allele and exclusion of subjects with this allele reduced the incidence of clinically suspected abacavir hypersensitivity reactions from 7.8% (66/847) to 3.4% (27/803).
-Based on this study, it is estimated that 61% of patients with the HLA-B*5701 allele will develop a clinically suspected hypersensitivity reaction during the course of abacavir treatment compared with 4% of patients who do not have the HLA-B*5701 allele.
+CNA106030 (PREDICT-1), a randomized, double-blind trial, evaluated the clinical utility of prospective HLA-B*5701 screening on the incidence of abacavir hypersensitivity reaction in abacavir-naive HIV-1-infected adults (n = 1,650).
+In this trial, use of pre-therapy screening for the HLA-B*5701 allele and exclusion of subjects with this allele reduced the incidence of clinically suspected abacavir hypersensitivity reactions from 7.8% (66/847) to 3.4% (27/803).
+Based on this trial, it is estimated that 61% of patients with the HLA-B*5701 allele will develop a clinically suspected hypersensitivity reaction during the course of abacavir treatment compared with 4% of patients who do not have the HLA-B*5701 allele.
 
 Screening for carriage of the HLA -B*5701 allele is recommended prior to initiating treatment with abacavir.
 Screening is also recommended prior to reinitiation of abacavir in patients of unknown HLA-B*5701 status who have previously tolerated abacavir.
@@ -72,9 +72,6 @@ Skin patch testing is used as a research tool and should not be used to aid in t
 
 In any patient treated with abacavir, the clinical diagnosis of hypersensitivity reaction must remain the basis of clinical decision-making.
 Even in the absence of the HLA-B*5701 allele, it is important to permanently discontinue abacavir and not rechallenge with abacavir if a hypersensitivity reaction cannot be ruled out on clinical grounds, due to the potential for a severe or even fatal reaction.
-
-Abacavir Hypersensitivity Reaction Registry: An Abacavir Hypersensitivity Registry has been established to facilitate reporting of hypersensitivity reactions and collection of information on each case.
-Physicians should register patients by calling 1-800-270-0425.
 
 ## 5.2 Lactic Acidosis/Severe Hepatomegaly With Steatosis
 
@@ -89,7 +86,7 @@ Treatment with ZIAGEN should be suspended in any patient who develops clinical o
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including ZIAGEN.
 During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
-Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.
 
 ## 5.4 Fat Redistribution
 
@@ -99,7 +96,7 @@ A causal relationship has not been established.
 
 ## 5.5 Myocardial Infarction
 
-In a published prospective, observational, epidemiological study designed to investigate the rate of myocardial infarction in patients on combination antiretroviral therapy, the use of abacavir within the previous 6 months was correlated with an increased risk of myocardial infarction (MI).1 In a sponsor-conducted pooled analysis of clinical trials, no excess risk of myocardial infarction was observed in abacavir-treated subjects as compared with control subjects.
+In a published prospective, observational, epidemiological trial designed to investigate the rate of myocardial infarction in patients on combination antiretroviral therapy, the use of abacavir within the previous 6 months was correlated with an increased risk of myocardial infarction (MI).1 In a sponsor-conducted pooled analysis of clinical trials, no excess risk of myocardial infarction was observed in abacavir-treated subjects as compared with control subjects.
 In totality, the available data from the observational cohort and from clinical trials are inconclusive.
 
-As a precaution, the underlying risk of coronary heart disease should be considered when prescribing antiretroviral therapies, including abacavir, and action taken to minimize all modifiable risk factors (e.g., hypertension, hyperlipidemia, diabetes mellitus, and smoking).
+As a precaution, the underlying risk of coronary heart disease should be considered when prescribing antiretroviral therapies, including abacavir, and action taken to minimize all modifiable risk factors (e.g., hypertension, hyperlipidemia, diabetes mellitus, smoking).

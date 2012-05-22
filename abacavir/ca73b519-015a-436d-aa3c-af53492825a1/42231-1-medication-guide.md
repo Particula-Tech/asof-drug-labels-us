@@ -91,8 +91,8 @@ What should I tell my healthcare provider before taking ZIAGEN?
 
 Before you take ZIAGEN, tell your healthcare provider if you:
 
-- have been tested and know whether or not you have a particular gene variation called HLA‑B*5701
-- have hepatitis B virus infection or have other liver problems
+- have been tested and know whether or not you have a particular gene variation called HLA-B*5701.
+- have hepatitis B virus infection or have other liver problems.
 - have heart problems, smoke, or have diseases that increase your risk of heart disease such as high blood pressure, high cholesterol, or diabetes.
 - are pregnant or plan to become pregnant.
   It is not known if ZIAGEN will harm your unborn baby.
@@ -100,7 +100,8 @@ Before you take ZIAGEN, tell your healthcare provider if you:
   Pregnancy Registry.
   If you take ZIAGEN while you are pregnant, talk to your healthcare provider about how you can take part in the Pregnancy Registry for ZIAGEN.
   The purpose of the pregnancy registry is to collect information about the health of you and your baby.
-- are breastfeeding or plan to breastfeed.Do not breastfeed.
+- are breastfeeding or plan to breastfeed.
+  Do not breastfeed.
   We do not know if ZIAGEN can be passed to your baby in your breast milk and whether it could harm your baby.
   Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
 
@@ -130,7 +131,7 @@ How should I take ZIAGEN?
   The child’s healthcare provider will decide the right dose and whether the child should take the tablet or liquid, based on the child’s weight.
   The dose should not be more than the recommended adult dose.
 - Do not let your ZIAGEN run out.
-  If you stop your anti‑HIV medicines, even for a short time, the amount of virus in your blood may increase and the virus may become harder to treat.
+  If you stop your anti-HIV medicines, even for a short time, the amount of virus in your blood may increase and the virus may become harder to treat.
   If you take too much ZIAGEN, call your healthcare provider or poison control center or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of ZIAGEN?
@@ -142,9 +143,12 @@ What are the possible side effects of ZIAGEN?
   Tell your healthcare provider if you start having new or worse symptoms of infection after you start taking ZIAGEN.
 - Changes in body fat (fat redistribution).
   Changes in body fat (lipoatrophy or lipodystrophy) can happen in some people taking antiretroviral medicines including ZIAGEN.
-  These changes may include:
+
+- These changes may include:
+
 - more fat in or around your trunk, upper back and neck (buffalo hump), breast, or chest
 - loss of fat in your legs, arms, or face
+
 - Heart attack (myocardial infarction).
   Some HIV medicines including ZIAGEN may increase your risk of heart attack.
 
@@ -170,7 +174,7 @@ These are not all the possible side effects of ZIAGEN.
 For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1‑800‑FDA‑1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ZIAGEN?
 
@@ -180,7 +184,7 @@ How should I store ZIAGEN?
 
 General information for safe and effective use of ZIAGEN
 
-Avoid doing things that can spread HIV-1 infection to others.
+Avoid doing things that can spread HIV infection to others.
 
 - Do not share needles or other injection equipment.
 - Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
@@ -206,7 +210,7 @@ Active ingredient: abacavir sulfate
 
 Inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, and sodium starch glycolate, and afilm‑coating made of hypromellose, polysorbate 80, synthetic yellow iron oxide, titanium dioxide, and triacetin.
 
-Oral Solution:
+Oral Solution
 
 Active ingredient: abacavir sulfate
 
@@ -231,6 +235,6 @@ Research Triangle Park, NC 27709
 ©2012, ViiV Healthcare.
 All rights reserved.
 
-March 2012
+May 2012
 
-ZGN:4MG
+ZGN:5MG

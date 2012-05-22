@@ -17,4 +17,4 @@ Following a hypersensitivity reaction to abacavir, NEVER restart ZIAGEN or any o
 Reintroduction of ZIAGEN or any other abacavir-containing product, even in patients who have no identified history or unrecognized symptoms of hypersensitivity to abacavir therapy, can result in serious or fatal hypersensitivity reactions.
 Such reactions can occur within hours [see Warnings and Precautions (5.1)].
 
-Lactic Acidosis and Severe Hepatomegaly: Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including ZIAGEN and other antiretrovirals [see Warnings and Precautions (5.2)].
+Lactic Acidosis and Severe Hepatomegaly: Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including ZIAGEN and other antiretrovirals[see Warnings and Precautions (5.2)].

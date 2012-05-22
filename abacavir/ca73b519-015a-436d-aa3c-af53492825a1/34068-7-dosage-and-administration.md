@@ -1,8 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 - A Medication Guide and Warning Card that provide information about recognition of hypersensitivity reactions should be dispensed with each new prescription and refill.
-- To facilitate reporting of hypersensitivity reactions and collection of information on each case, an Abacavir Hypersensitivity Registry has been established.
-  Physicians should register patients by calling 1-800-270-0425.
 - ZIAGEN may be taken with or without food.
 
 ## 2.1 Adult Patients

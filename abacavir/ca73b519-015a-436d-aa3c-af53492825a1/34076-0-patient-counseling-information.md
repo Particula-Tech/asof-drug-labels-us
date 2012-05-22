@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA -approved patient labeling (Medication Guide)
+See FDA-approved patient labeling (Medication Guide)
 
 ## 17.1 Information About Therapy With ZIAGEN
 
@@ -12,7 +12,7 @@ Hypersensitivity Reaction: Inform patients:
 - how to identify a hypersensitivity reaction [see Medication Guide].
 - that if they develop symptoms consistent with a hypersensitivity reaction they should call their doctor right away to determine if they should stop taking ZIAGEN.
 - that a hypersensitivity reaction can worsen and lead to hospitalization or death if ZIAGEN is not immediately discontinued.
-- that in one study, more severe hypersensitivity reactions were seen when ZIAGEN was dosed 600 mg once daily.
+- that in one trial, more severe hypersensitivity reactions were seen when ZIAGEN was dosed 600 mg once daily.
 - to not restart ZIAGEN or any other abacavir-containing product following a hypersensitivity reaction because more severe symptoms can occur within hours and may include life-threatening hypotension and death.
 - that a hypersensitivity reaction is usually reversible if it is detected promptly and ZIAGEN is stopped right away.
 - that if they have interrupted ZIAGEN for reasons other than symptoms of hypersensitivity (for example, those who have an interruption in drug supply), a serious or fatal hypersensitivity reaction may occur with reintroduction of abacavir.
@@ -23,7 +23,7 @@ Lactic Acidosis/Hepatomegaly: Inform patients that some HIV medicines, including
 
 Redistribution/Accumulation of Body Fat: Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.4)].
 
-Information About HIV-1 Infection: ZIAGEN is not a cure for HIV -1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
+Information About HIV-1 Infection: ZIAGEN is not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
 Patients should remain under the care of a physician when using ZIAGEN.
 
 Patients should be advised to avoid doing things that can spread HIV-1 infection to others.
@@ -55,4 +55,4 @@ Research Triangle Park, NC 27709
 ©2012, ViiV Healthcare.
 All rights reserved.
 
-ZGN:5PI
+ZGN:6PI
