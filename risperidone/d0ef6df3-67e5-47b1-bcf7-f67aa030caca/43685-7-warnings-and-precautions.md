@@ -99,7 +99,7 @@ Change in Fasting Glucose from Three Placebo-Controlled, 3- to 6-Week, Fixed-Dos
 
 In longer-term, uncontrolled, open-label extension pediatric studies, risperidone was associated with a mean change in fasting glucose of +5.2mg/dL at Week 24 (N=119).
 
-Dyslipidemia
+D yslipidemia
 
 Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics.
 
