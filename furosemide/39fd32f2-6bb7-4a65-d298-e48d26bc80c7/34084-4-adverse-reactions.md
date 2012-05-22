@@ -4,11 +4,11 @@ Adverse reactions are categorized below by organ system and listed by decreasing
 
 Gastrointestinal System Reactions
 
-(1) Pancreatitis (2) jaundice (intrahepatic cholestatic jaundice) (3) anorexia (4) oral and gastric irritation (5) cramping (6) diarrhea (7) constipation (8) nausea (9) vomiting.
+(1) hepatic encephalopathy in patients with hepatocellular insufficiency (2) Pancreatitis (3) jaundice (intrahepatic cholestatic jaundice) (4) increased liver enzymes (5) anorexia (6) oral and gastric irritation (7) cramping (8) diarrhea (9) constipation (10) nausea (11) vomiting.
 
 Systemic Hypersensitivity Reactions
 
-(1) Systemic vasculitis (2) interstitial nephritis (3) necrotizing angiitis.
+(1) Severe anaphylactic or anaphylactoid reactions (e.g., with shock) (2) Systemic vasculitis (3) interstitial nephritis (4) necrotizing angiitis.
 
 Central Nervous System Reactions
 
@@ -16,15 +16,16 @@ Central Nervous System Reactions
 
 Hematologic Reactions
 
-(1) Aplastic anemia (rare) (2) thrombocytopenia (3) agranulocytosis (rare) (4) hemolytic anemia (5) leukopenia (6) anemia.
+(1) Aplastic anemia (2) thrombocytopenia (3) agranulocytosis (4) hemolytic anemia (5) leukopenia (6) anemia (7) eosinophilia.
 
 Dermatologic-Hypersensitivity Reactions
 
-(1) Exfoliative dermatitis (2) erythema multiforme (3) purpura (4) photosensitivity (5) urticaria (6) rash (7) pruritus.
+(1) Exfoliative dermatitis (2) bullous pemphigoid (3) erythema multiforme (4) purpura (5) photosensitivity (6) urticaria (7) rash (8) pruritus (9) Stevens-Johnson Syndrome (10) toxic epidermal necrolysis.
 
 Cardiovascular Reaction
 
-Orthostatic hypotension may occur and be aggravated by alcohol, barbiturates or narcotics.
+(1) Orthostatic hypotension may occur and be aggravated by alcohol, barbiturates or narcotics, (2).
+Increase in cholesterol and triglyceride serum levels.
 
 Other Reactions
 

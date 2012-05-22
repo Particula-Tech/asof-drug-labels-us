@@ -20,5 +20,12 @@ Although furosemide is more rapidly absorbed from the oral solution than from th
 Peak plasma concentrations increase with increasing dose but times-to-peak do not differ among doses.
 The terminal half-life of furosemide is approximately 2 hours.
 
-Significantly more furosemide is excreted in urine following the I.V. injection than after the tablet or oral solution.
+Significantly more furosemide is excreted in urine following the IV injection than after the tablet or oral solution.
 There are no significant differences between the two oral formulations in the amount of unchanged drug excreted in urine.
+
+Geriatric Population
+
+Furosemide binding to albumin may be reduced in elderly patients.
+Furosemide is predominantly excreted unchanged in the urine.
+The renal clearance of furosemide after intravenous administration in older healthy male subjects (60-70 years of age) is statistically significantly smaller than in younger healthy male subjects (20-35 years of age).
+The initial diuretic effect of furosemide in older subjects is decreased relative to younger subjects (see PRECAUTIONS: Geriatric Use).

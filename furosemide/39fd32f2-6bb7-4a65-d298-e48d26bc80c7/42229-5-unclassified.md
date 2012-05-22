@@ -1,6 +1,6 @@
-(10 mg/mL)
+Injection, USP
 
-Ampul
+(10 mg/mL)
 
 Fliptop Vial
 
