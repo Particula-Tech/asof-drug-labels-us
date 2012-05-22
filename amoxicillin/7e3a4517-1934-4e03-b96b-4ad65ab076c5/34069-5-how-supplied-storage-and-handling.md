@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Amoxicillin Capsules, USP contains 250 mg or 500 mg amoxicillin as the trihydrate.
 250 mg Capsule Blue/Pink size “1” hard gelatin capsule filled with white to off white granular powder and imprinted with “A44” on pink body with black ink.
