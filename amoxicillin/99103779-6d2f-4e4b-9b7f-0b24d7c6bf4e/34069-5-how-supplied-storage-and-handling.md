@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Amoxicillin Tablets, USP contains 500 mg or 875 mg amoxicillin as the trihydrate.
 500 mg Tablet Pink colored, capsule shaped, film coated tablets debossed with “A” on one side and “66” on the other side.
