@@ -10,7 +10,7 @@ Tacrolimus Capsules
 
 # Package/Label Principal Display Panel
 
-NDC 0781-21-03-01
+NDC 0781-2103-01
 
 Tacrolimus Capsules
 

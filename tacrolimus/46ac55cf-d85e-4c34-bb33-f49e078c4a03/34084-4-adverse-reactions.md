@@ -11,6 +11,7 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Neurotoxicity [see WARNINGS AND PRECAUTIONS (5.8)]
 - Hyperkalemia [see WARNINGS AND PRECAUTIONS (5.9)]
 - Hypertension [see WARNINGS AND PRECAUTIONS (5.10)]
+- Anaphylaxis with Tacrolimus Injection [see WARNINGS AND PRECAUTIONS (5.11)]
 - Myocardial Hypertrophy [see WARNINGS AND PRECAUTIONS (5.14)]
 - Pure Red Cell Aplasia [see WARNINGS AND PRECAUTIONS (5.16)]
 
@@ -59,8 +60,8 @@ Kidney Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treat
 | Hypophosphatemia | 49% | 53% |
 | Hypomagnesemia | 34% | 17% |
 | Hyperlipemia | 31% | 38% |
-| Diabetes Mellitus | 31% | 32% |
 | Hyperkalemia | 24% | 9% |
+| Diabetes Mellitus | 31% | 32% |
 | Hypokalemia | 22% | 25% |
 | Hyperglycemia | 22% | 16% |
 | Edema | 18% | 19% |
@@ -361,7 +362,7 @@ Bile duct stenosis, colitis, enterocolitis, gastroenteritis, gastroesophageal re
 
 Hemic/Lymphatic
 
-Disseminated intravascular coagulation, neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia [see WARNINGS AND PRECAUTIONS (5.16)]
+Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia [see WARNINGS AND PRECAUTIONS (5.16)]
 
 Infections
 

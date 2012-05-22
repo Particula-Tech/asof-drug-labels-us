@@ -139,7 +139,7 @@ MMF Dose Over Time in the Tacrolimus /MMF Group (Study 2)
 | 0 to 180 (N=212) | 52% | 41% | 7% |
 | 0 to 365 (N=212) | 62% | 34% | 4% |
 | Key: Time-averaged MMF dose=(total MMF dose)/(duration of treatment) |  |  |  |
-| a Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two g per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |  |
+| a Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two grams per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |  |
 
 ## 14.2 Liver Transplantation
 
