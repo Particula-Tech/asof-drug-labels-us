@@ -76,10 +76,23 @@ The effectiveness of ZOLOFT in long-term use, that is, for more than 3 menstrual
 However, as women commonly report that symptoms worsen with age until relieved by the onset of menopause, it is reasonable to consider continuation of a responding patient.
 Dosage adjustments, which may include changes between dosage regimens (e.g., daily throughout the menstrual cycle versus during the luteal phase of the menstrual cycle), may be needed to maintain the patient on the lowest effective dosage and patients should be periodically reassessed to determine the need for continued treatment.
 
-#### Switching Patients to or from a Monoamine Oxidase Inhibitor
+#### Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 
-At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with ZOLOFT.
-In addition, at least 14 days should be allowed after stopping ZOLOFT before starting an MAOI (see CONTRAINDICATIONS and WARNINGS).
+At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with ZOLOFT.
+Conversely, at least 14 days should be allowed after stopping ZOLOFT before starting an MAOI antidepressant (see CONTRAINDICATIONS).
+
+#### Use of ZOLOFT With Reversible MAOIs Such as Linezolid or Methylene Blue
+
+Do not start ZOLOFT in a patient who is being treated with a reversible MAOI such as linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
+
+In some cases, a patient already receiving therapy with ZOLOFT may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, ZOLOFT should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with ZOLOFT may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
+
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with ZOLOFT is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
 
 ### Special Populations
 
@@ -95,7 +108,7 @@ Neonates exposed to ZOLOFT and other SSRIs or SNRIs, late in the third trimester
 When treating pregnant women with ZOLOFT during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
 The physician may consider tapering ZOLOFT in the third trimester.
 
-### Discontinuation of Treatment with Zoloft
+### Discontinuation of Treatment with ZOLOFT
 
 Symptoms associated with discontinuation of ZOLOFT and other SSRIs and SNRIs, have been reported (see PRECAUTIONS).
 Patients should be monitored for these symptoms when discontinuing treatment.

@@ -6,7 +6,7 @@ NDC 0049-4960-30
 
 30 Tablets Rx only
 
-Zoloft® (sertraline HCl)
+ZOLOFT® (sertraline HCl)
 
 25 mg*
 
@@ -20,7 +20,7 @@ NDC 0049-4900-30
 
 30 Tablets Rx only
 
-Zoloft® (sertraline HCl)
+ZOLOFT® (sertraline HCl)
 
 50 mg*
 
@@ -34,7 +34,7 @@ NDC 0049-4910-30
 
 30 Tablets Rx only
 
-Zoloft® (sertraline HCl)
+ZOLOFT® (sertraline HCl)
 
 100 mg*
 
@@ -46,7 +46,7 @@ ALWAYS DISPENSE WITH MEDICATION GUIDE
 
 60 mL Rx only
 
-Zoloft® (sertraline HCl)
+ZOLOFT® (sertraline HCl)
 
 ORAL CONCENTRATE
 

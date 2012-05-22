@@ -53,31 +53,28 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that ZOLOFT is not approved for use in treating bipolar depression.
 
-Cases of serious sometimes fatal reactions have been reported in patients receiving ZOLOFT (sertraline hydrochloride), a selective serotonin reuptake inhibitor (SSRI), in combination with a monoamine oxidase inhibitor (MAOI).
-Symptoms of a drug interaction between an SSRI and an MAOI include: hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, mental status changes that include confusion, irritability, and extreme agitation progressing to delirium and coma.
-These reactions have also been reported in patients who have recently discontinued an SSRI and have been started on an MAOI.
-Some cases presented with features resembling neuroleptic malignant syndrome.
-Therefore, ZOLOFT should not be used in combination with an MAOI, or within 14 days of discontinuing treatment with an MAOI.
-Similarly, at least 14 days should be allowed after stopping ZOLOFT before starting an MAOI.
+### Serotonin Syndrome
 
-The concomitant use of Zoloft with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS – Potential for Interaction with Monoamine Oxidase Inhibitors).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including ZOLOFT, alone but particularly with concomitant use of serotonergic drugs (including triptans), with drugs that impair metabolism of serotonin (in particular, MAOIs, including reversible MAOIs such as linezolid and intravenous methylene blue), or with antipsychotics or other dopamine antagonists.
 
-### Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including Zoloft treatment, but particularly with concomitant use of serotonergic drugs (including triptans and fentanyl) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
+The concomitant use of ZOLOFT with MAOIs intended to treat depression is contraindicated.
 
-The concomitant use of Zoloft with MAOIs intended to treat depression is contraindicated.
+ZOLOFT should also not be started in a patient who is being treated with reversible MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+There have been no reports involving the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with a reversible MAOI such as linezolid or intravenous methylene blue in a patient taking ZOLOFT.
+ZOLOFT should be discontinued before initiating treatment with the reversible MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
-If concomitant treatment of Zoloft with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+If concomitant use of ZOLOFT with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 
-The concomitant use of Zoloft with serotonin precursors (such as tryptophan) is not recommended.
+The concomitant use of ZOLOFT with serotonin precursors (such as tryptophan) is not recommended.
 
-Treatment with Zoloft and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Treatment with ZOLOFT and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
-Co-administration of Zoloft with other drugs which enhance the effects of serotonergic neurotransmission, such as tryptophan, fenfluramine, fentanyl, 5-HT agonists, or the herbal medicine St. John's Wort (hypericum perforatum) should be undertaken with caution and avoided whenever possible due to the potential for pharmacodynamic interaction.
+Co-administration of ZOLOFT with other drugs which enhance the effects of serotonergic neurotransmission, such as tryptophan, fenfluramine, fentanyl, 5-HT agonists, or the herbal medicine St. John's Wort (hypericum perforatum) should be undertaken with caution and avoided whenever possible due to the potential for pharmacodynamic interaction.
 
 # PRECAUTIONS
 
@@ -101,24 +98,24 @@ However, 4 patients out of approximately 1800 (220 <18 years of age) exposed dur
 Three of these patients were adolescents, two with a seizure disorder and one with a family history of seizure disorder, none of whom were receiving anticonvulsant medication.
 Accordingly, ZOLOFT should be introduced with care in patients with a seizure disorder.
 
-## Discontinuation of Treatment with Zoloft
+## Discontinuation of Treatment with ZOLOFT
 
-During marketing of Zoloft and other SSRIs and SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g. paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
+During marketing of ZOLOFT and other SSRIs and SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g. paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
 While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
 
-Patients should be monitored for these symptoms when discontinuing treatment with Zoloft.
+Patients should be monitored for these symptoms when discontinuing treatment with ZOLOFT.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate (see DOSAGE AND ADMINISTRATION).
 
 ## Abnormal Bleeding
 
-SSRIs and SNRIs, including Zoloft, may increase the risk of bleeding events.
+SSRIs and SNRIs, including ZOLOFT, may increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of Zoloft and NSAIDs, aspirin, or other drugs that affect coagulation.
+Patients should be cautioned about the risk of bleeding associated with the concomitant use of ZOLOFT and NSAIDs, aspirin, or other drugs that affect coagulation.
 
 ### Weak Uricosuric Effect
 
@@ -171,7 +168,7 @@ While there have been reports of abnormal bleeding or purpura in several patient
 
 ## Information for Patients
 
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with Zoloft and should counsel them in its appropriate use.
+Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with ZOLOFT and should counsel them in its appropriate use.
 A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions: is available for ZOLOFT.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
@@ -186,12 +183,12 @@ Families and caregivers of patients should be advised to look for the emergence 
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of SNRIs and SSRIs, including Zoloft, and triptans, tramadol, or other serotonergic agents.
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of SNRIs and SSRIs, including ZOLOFT, and triptans, tramadol, or other serotonergic agents.
 
 Patients should be told that although ZOLOFT has not been shown to impair the ability of normal subjects to perform tasks requiring complex motor and mental skills in laboratory experiments, drugs that act upon the central nervous system may affect some individuals adversely.
 Therefore, patients should be told that until they learn how they respond to ZOLOFT they should be careful doing activities when they need to be alert, such as driving a car or operating machinery.
 
-Patients should be cautioned about the concomitant use of Zoloft and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding.
+Patients should be cautioned about the concomitant use of ZOLOFT and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding.
 
 Patients should be told that although ZOLOFT has not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of ZOLOFT and alcohol is not advised.
 
@@ -219,6 +216,12 @@ False-positive urine immunoassay screening tests for benzodiazepines have been r
 This is due to lack of specificity of the screening tests.
 False-positive test results may be expected for several days following discontinuation of sertraline therapy.
 Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish sertraline from benzodiazepines.
+
+## Angle-Closure Glaucoma
+
+SSRIs including sertraline may have an effect on pupil size resulting in mydriasis.
+This mydriatic effect has the potential to narrow the eye angle resulting in increased intraocular pressure and angle-closure glaucoma, especially in patients pre-disposed.
+Sertraline should therefore be used with caution in patients with angle-closure glaucoma or history of glaucoma.
 
 ## Drug Interactions
 
@@ -252,10 +255,10 @@ Since the highest recommended pimozide dose (10 mg) has not been evaluated in co
 While the mechanism of this interaction is unknown, due to the narrow therapeutic index of pimozide and due to the interaction noted at a low dose of pimozide, concomitant administration of ZOLOFT and pimozide should be contraindicated (see CONTRAINDICATIONS).
 
 Results of a placebo-controlled trial in normal volunteers suggest that chronic administration of sertraline 200 mg/day does not produce clinically important inhibition of phenytoin metabolism.
-Nonetheless, at this time, it is recommended that plasma phenytoin concentrations be monitored following initiation of Zoloft therapy with appropriate adjustments to the phenytoin dose, particularly in patients with multiple underlying medical conditions and/or those receiving multiple concomitant medications.
+Nonetheless, at this time, it is recommended that plasma phenytoin concentrations be monitored following initiation of ZOLOFT therapy with appropriate adjustments to the phenytoin dose, particularly in patients with multiple underlying medical conditions and/or those receiving multiple concomitant medications.
 
-The effect of Zoloft on valproate levels has not been evaluated in clinical trials.
-In the absence of such data, it is recommended that plasma valproate levels be monitored following initiation of Zoloft therapy with appropriate adjustments to the valproate dose.
+The effect of ZOLOFT on valproate levels has not been evaluated in clinical trials.
+In the absence of such data, it is recommended that plasma valproate levels be monitored following initiation of ZOLOFT therapy with appropriate adjustments to the valproate dose.
 
 The risk of using ZOLOFT in combination with other CNS active drugs has not been systematically evaluated.
 Consequently, caution is advised if the concomitant administration of ZOLOFT and such drugs is required.
@@ -287,13 +290,13 @@ Furthermore, whenever ZOLOFT is withdrawn from co-therapy, an increased dose of 
 
 ### Serotonergic Drugs
 
-Based on the mechanism of action of SNRIs and SSRIs, including Zoloft, and the potential for serotonin syndrome, caution is advised when SNRIs and SSRIs, including Zoloft, are coadministered with other drugs that may affect the serotonergic neutrotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS-Serotonin Syndrome).
-The concomitant use of Zoloft with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS – Drug Interactions).
+Based on the mechanism of action of SNRIs and SSRIs, including ZOLOFT, and the potential for serotonin syndrome, caution is advised when SNRIs and SSRIs, including ZOLOFT, are coadministered with other drugs that may affect the serotonergic neutrotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see CONTRAINDICATIONS, WARNINGS-Serotonin Syndrome and DOSAGE AND ADMINISTRATION).
+The concomitant use of ZOLOFT with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS – Drug Interactions).
 
 ### Triptans
 
 There have been rare post marketing reports of serotonin syndrome with use of an SNRI or an SSRI and a triptan.
-If concomitant treatment of SNRIs and SSRIs, including Zoloft, with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS – Serotonin Syndrome).
+If concomitant treatment of SNRIs and SSRIs, including ZOLOFT, with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS – Serotonin Syndrome).
 
 ### Sumatriptan
 
@@ -332,7 +335,7 @@ Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
 These studies have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are coadministered with warfarin.
-Patients receiving warfarin therapy should be carefully monitored when Zoloft is initiated or discontinued.
+Patients receiving warfarin therapy should be carefully monitored when ZOLOFT is initiated or discontinued.
 
 ### Electroconvulsive Therapy
 
@@ -377,20 +380,24 @@ ZOLOFT (sertraline hydrochloride) should be used during pregnancy only if the po
 
 ## Pregnancy-Nonteratogenic Effects
 
-Neonates exposed to Zoloft and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
-These findings are based on post marketing reports.
+Neonates exposed to ZOLOFT and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS).
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS: Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS) – like Reactions).
 
-Exposure during late pregnancy to SSRIs may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
-PPHN occurs in 1–2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
-In a retrospective case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately six-fold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
-A study of 831,324 infants born in Sweden in 1997–2005 found a PPHN risk ratio of 2.4 (95% CI 1.2–4.3) associated with patient-reported maternal use of SSRIs "in early pregnancy" and a PPHN risk ratio of 3.6 (95% CI 1.2–8.3) associated with a combination of patient-reported maternal use of SSRIs "in early pregnancy" and an antenatal SSRI prescription "in later pregnancy."
+Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
+PPHN occurs in 1 – 2 per 1,000 births in the general population and is associated with substantial neonatal morbidity and mortality.
+Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including ZOLOFT) in pregnancy and PPHN.
+Other studies do not show a significant statistical association.
 
-When treating a pregnant woman with ZOLOFT during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
-Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic in the context of antidepressant therapy at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
+There have also been postmarketing reports of premature births in pregnant women exposed to sertraline or other SSRIs.
+
+Physicians should also note the results of a prospective longitudinal study of 201 women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
+Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
+
+When treating a pregnant woman with sertraline, the physician should carefully consider both the potential risks of taking an SSRI, along with the established benefits of treating depression with an antidepressant.
+This decision can only be made on a case by case basis (see DOSAGE AND ADMINISTRATION).
 
 ## Labor and Delivery
 
@@ -405,8 +412,8 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 The efficacy of ZOLOFT for the treatment of obsessive-compulsive disorder was demonstrated in a 12-week, multicenter, placebo-controlled study with 187 outpatients ages 6–17 (see Clinical Trials under CLINICAL PHARMACOLOGY).
 Safety and effectiveness in the pediatric population other than pediatric patients with OCD have not been established (see BOX WARNING and WARNINGS-Clinical Worsening and Suicide Risk).
-Two placebo controlled trials (n=373) in pediatric patients with MDD have been conducted with Zoloft, and the data were not sufficient to support a claim for use in pediatric patients.
-Anyone considering the use of Zoloft in a child or adolescent must balance the potential risks with the clinical need.
+Two placebo controlled trials (n=373) in pediatric patients with MDD have been conducted with ZOLOFT, and the data were not sufficient to support a claim for use in pediatric patients.
+Anyone considering the use of ZOLOFT in a child or adolescent must balance the potential risks with the clinical need.
 
 The safety of ZOLOFT use in children and adolescents with OCD, ages 6–18, was evaluated in a 12-week, multicenter, placebo-controlled study with 187 outpatients, ages 6–17, and in a flexible dose, 52 week open extension study of 137 patients, ages 6–18, who had completed the initial 12-week, double-blind, placebo-controlled study.
 ZOLOFT was administered at doses of either 25 mg/day (children, ages 6–12) or 50 mg/day (adolescents, ages 13–18) and then titrated in weekly 25 mg/day or 50 mg/day increments, respectively, to a maximum dose of 200 mg/day based upon clinical response.
