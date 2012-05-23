@@ -20,6 +20,6 @@
 
 SAGENT™
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2010 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2012 Sagent Pharmaceuticals, Inc.
 
-PSLEA-019273-01 Revised: November 2010
+Revised: January 2012

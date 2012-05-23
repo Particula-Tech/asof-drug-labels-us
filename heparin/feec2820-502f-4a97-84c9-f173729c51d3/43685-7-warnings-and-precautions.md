@@ -9,6 +9,13 @@ Heparin Sodium Injection is supplied in vials containing various strengths of he
 Fatal hemorrhages have occurred in pediatric patients due to medication errors in which 1 mL Heparin Sodium Injection vials were confused with 1 mL “catheter lock flush” vials.
 Carefully examine all Heparin Sodium Injection vials to confirm the correct vial choice prior to administration of the drug.
 
+## Benzyl Alcohol Toxicity
+
+Use preservative-free Heparin Sodium Injection in neonates and infants.
+The preservative benzyl alcohol has been associated with serious adverse events and death in pediatric patients.
+The minimum amount of benzyl alcohol at which toxicity may occur is not known.
+Premature and low-birth weight infants may be more likely to develop toxicity (see PRECAUTIONS, Pediatric Use).
+
 ## Hypersensitivity
 
 Patients with documented hypersensitivity to heparin should be given the drug only in clearly life-threatening situations (see ADVERSE REACTIONS, Hypersensitivity).
@@ -97,34 +104,45 @@ Also, no reproduction studies in animals have been performed concerning mutagene
 
 ## Pregnancy
 
-Do not administer Heparin Sodium Injection, USP (porcine), preserved with benzyl alcohol, to pregnant women (see CONTRAINDICATIONS, Pregnancy, Nursing Mothers, and Pediatric Use and PRECAUTIONS, Pediatric Use).
-Heparin Sodium Injection, USP (porcine), preservative-free, when indicated, should be administered to pregnant women.
+### Pregnancy Category C
 
-Teratogenic Effects: Pregnancy Category C - Animal reproduction studies have not been conducted with heparin sodium.
-It is also not known whether heparin sodium can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-Heparin sodium should be given to a pregnant woman only if clearly needed.
+There are no adequate and well-controlled studies on heparin use in pregnant women.
+In published reports, heparin exposure during pregnancy did not show evidence of an increased risk of adverse maternal or fetal outcomes in humans.
+Heparin sodium does not cross the placenta, based on human and animal studies.
+Administration of heparin to pregnant animals at doses higher than the maximum human daily dose based on body weight resulted in increased resorptions.
+Use heparin sodium during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Nonteratogenic Effects - Heparin does not cross the placental barrier.
+If available, preservative-free Heparin Sodium Injection is recommended when heparin therapy is needed during pregnancy.
+There are no known adverse outcomes associated with fetal exposure to the preservative benzyl alcohol through maternal drug administration; however, the preservative benzyl alcohol can cause serious adverse events and death when administered intravenously to neonates and infants (see PRECAUTIONS, Pediatric Use).
+
+In a published study conducted in rats and rabbits, pregnant animals received heparin intravenously during organogenesis at a dose of 10,000 units/kg/day, approximately 10 times the maximum human daily dose based on body weight.
+The number of early resorptions increased in both species.
+There was no evidence of teratogenic effects.
 
 ## Nursing Mothers
 
-Do not administer Heparin Sodium Injection, USP (porcine), preserved with benzyl alcohol, to nursing mothers (see CONTRAINDICATIONS, Pregnancy, Nursing Mothers, and Pediatric Use and PRECAUTIONS, Pediatric Use).
-Heparin Sodium Injection, USP (porcine), preservative-free, when indicated, should be administered to nursing mothers.
-
-Heparin is not excreted in human milk.
+If available, preservative-free Heparin Sodium Injection is recommended when heparin therapy is needed during lactation.
+Due to its large molecular weight, heparin is not likely to be excreted in human milk, and any heparin in milk would not be orally absorbed by a nursing infant.
+Benzyl alcohol present in maternal serum is likely to cross into human milk and may be orally absorbed by a nursing infant.
+Exercise caution when administering Heparin Sodium Injection to a nursing mother (see PRECAUTIONS, Pediatric Use).
 
 ## Pediatric Use
 
-See DOSAGE AND ADMINISTRATION, Pediatric Use.
+There are no adequate and well-controlled studies on heparin use in pediatric patients.
+Pediatric dosing recommendations are based on clinical experience (see DOSAGE AND ADMINISTRATION, Pediatric Use).
 
-Do not administer Heparin Sodium Injection, USP (porcine), preserved with benzyl alcohol, to neonates and infants (see CONTRAINDICATIONS, Pregnancy, Nursing Mothers, and Pediatric Use).
-Heparin Sodium Injection, USP (porcine), preservative-free, when indicated, should be administered to neonates and infants.
-Benzyl alcohol has been associated with serious adverse events and death, particularly in pediatric patients.
-The “gasping syndrome,” (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birthweight neonates.
+Carefully examine all Heparin Sodium Injection vials to confirm choice of the correct strength prior to administration of the drug.
+Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection vials have been confused with "catheter lock flush" vials (see WARNINGS, Fatal Medication Errors).
+
+## Benzyl Alcohol Toxicity
+
+Use preservative-free Heparin Sodium Injection in neonates and infants.
+The preservative benzyl alcohol has been associated with serious adverse events and death in pediatric patients.
+The "gasping syndrome" (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth weight infants.
 Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
 
-Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the “gasping syndrome”, the minimum amount of benzyl alcohol at which toxicity may occur is not known.
-Premature and low-birthweight infants, as well as patients receiving high dosages, may be more likely to develop toxicity.
+Although normal therapeutic doses of this product deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the "gasping syndrome", the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+Premature and low-birth weight infants may be more likely to develop toxicity.
 Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
 
 ## Geriatric Use
