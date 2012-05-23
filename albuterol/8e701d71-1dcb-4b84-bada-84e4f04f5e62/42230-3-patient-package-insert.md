@@ -1,7 +1,5 @@
 See tear-off illustrated Information for the Patient leaflet.
 
-U.S. Patent Nos. 5605674, 7105152, 7566445, 6446627, 8132712
-
 Mktd by: Teva Respiratory, LLC Horsham, PA 19044
 
 Mfd by: IVAX Pharmaceuticals Ireland Waterford, Ireland
@@ -14,7 +12,7 @@ PROAIR® is a registered trademark of Teva Respiratory, LLC
 
 Manufactured In Ireland
 
-PE 2444 03/12
+PE 2557 05/12
 
 Attention Pharmacist:
 

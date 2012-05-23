@@ -1,4 +1,4 @@
-Instructions for Use
+# Instructions for Use
 
 PROAIR® HFA (prō' ār) (albuterol sulfate) Inhalation Aerosol
 
@@ -40,15 +40,9 @@ Do not prime your PROAIR HFA device every day.
 - Shake the inhaler well, and spray it into the air away from your face.
   See Figure C.
 
-| Figure C |
-| --- |
-
 - Shake and spray the inhaler like this 2 more times to finish priming it.
   The dose counter on the actuator should display the number 200 after you prime the actuator for the first time.
   See Figure D.
-
-| Figure D |
-| --- |
 
 Each Time You Use Your PROAIR HFA Device:
 
@@ -78,9 +72,6 @@ Step 2.
 Hold the inhaler with the mouthpiece down.
 See Figure E.
 
-| Figure E |
-| --- |
-
 Step 3.
 Breathe out through your mouth and push as much air from your lungs as you can.
 Put the mouthpiece in your mouth and close your lips around it.
@@ -89,9 +80,6 @@ See Figure F.
 Step 4.
 Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth.
 See Figure F.
-
-| Figure F |
-| --- |
 
 Step 5.
 Right after the spray comes out, take your finger off the canister.
@@ -121,29 +109,14 @@ See Figure G and Figure H.
 - Wash the actuator at least 1 time each week as follows:
   - Take the canister out of the actuator, and take the cap off the mouthpiece.
   - Hold the actuator under the faucet and run warm water through it for about 30 seconds.
-    See Figure I.
-
-| Figure I |
-| --- |
-
-- 
+    See Figure I.Figure I
   - Turn the actuator upside down and run warm water through the mouthpiece for about 30 seconds.
-    See Figure J.
-
-| Figure J |
-| --- |
-
-- 
+    See Figure J.Figure J
   - Shake off as much water from the actuator as you can.
     Look into the mouthpiece to make sure any medicine build-up has been completely washed away.
     If there is any build-up, repeat the washing instructions.
   - Let the actuator air-dry completely, such as overnight.
-    See Figure K.
-
-| Figure K |
-| --- |
-
-- 
+    See Figure K.Figure K
   - When the actuator is dry, put the canister in the actuator and make sure it fits firmly.
     Shake the inhaler well and spray it twice into the air away from your face.
     Put the cap back on the mouthpiece.
@@ -172,6 +145,6 @@ Marketed by Teva Respiratory, LLC Horsham, PA 19044
 
 Manufactured by IVAX Pharmaceuticals Ireland Waterford, Ireland
 
-Revised 03/12
+Revised 05/12
 
-PE2444
+PE2557
