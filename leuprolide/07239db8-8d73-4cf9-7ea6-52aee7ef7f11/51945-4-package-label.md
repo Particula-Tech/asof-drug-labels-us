@@ -1,9 +1,13 @@
 NDC 0074–3642–03
 
-FOR ADULT USE
+FOR ADULT USE 7.5 mg for 1–month administration
 
-Single Dose Administration Kit with prefilled dual-chamber syringe
+Single Dose Administration Kit with prefilled dual-chamber syringe.
 
-LupronDepot® leuprolide acetate for depot suspension 7.5 mg
+LupronDepot® (Leuprolide Acetate for Depot Suspension)
+
+7.5 mg for 1–month administration
+
+FOR INTRAMUSCULAR INJECTION
 
 NO LATEX Rx only Abbott
