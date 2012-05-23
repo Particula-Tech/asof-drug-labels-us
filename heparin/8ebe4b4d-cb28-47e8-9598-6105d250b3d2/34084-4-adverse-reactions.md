@@ -27,7 +27,7 @@ These complications are much more common after intramuscular use, and such use i
 
 Generalized hypersensitivity reactions have been reported, with chills, fever and urticaria as the most usual manifestations, and asthma, rhinitis, lacrimation, headache, nausea and vomiting, and anaphylactoid reactions, including shock, occurring more rarely.
 Itching and burning, especially on the plantar side of the feet, may occur.
-(See WARNINGS, PRECAUTIONS.)
+(See WARNINGS and PRECAUTIONS.)
 
 Certain episodes of painful, ischemic and cyanosed limbs have in the past been attributed to allergic vasospastic reactions.
 Whether these are in fact identical to the thrombocytopenia-associated complications remains to be determined.

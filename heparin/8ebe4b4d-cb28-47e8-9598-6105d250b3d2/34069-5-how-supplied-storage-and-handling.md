@@ -20,3 +20,5 @@ Sterile, Nonpyrogenic.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
+
+To report SUSPECTED ADVERSE REACTIONS, contact Sagent Pharmaceuticals, Inc. at 1-866-625-1618 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
