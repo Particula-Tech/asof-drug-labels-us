@@ -64,36 +64,26 @@ Rarely, ACE inhibitors have been associated with a syndrome that starts with cho
 The mechanism of this syndrome is not understood.
 Patients receiving ACE inhibitors who develop jaundice or marked elevations of hepatic enzymes should discontinue the ACE inhibitor and receive appropriate medical follow-up.
 
-## Fetal/Neonatal Morbidity and Mortality
+## Fetal Toxicity
 
-ACE inhibitors can cause fetal and neonatal morbidity and death when administered to pregnant women.
-Several dozen cases have been reported in the world literature.
-When pregnancy is detected, ACE inhibitors should be discontinued as soon as possible.
+### Pregnancy Category D
 
-In a published retrospective epidemiological study, infants whose mothers had taken an ACE inhibitor drug during the first trimester of pregnancy appeared to have an increased risk of major congenital malformations compared with infants whose mothers had not undergone first trimester exposure to ACE inhibitor drugs.
-The number of cases of birth defects is small and the findings of this study have not yet been repeated.
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
+Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
+When pregnancy is detected, discontinue PRINIVIL as soon as possible.
+These adverse outcomes are usually associated with the use of these drugs in the second and third trimester of pregnancy.
+Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
+Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
 
-The use of ACE inhibitors during the second and third trimesters of pregnancy has been associated with fetal and neonatal injury, including hypotension, neonatal skull hypoplasia, anuria, reversible or irreversible renal failure, and death.
-Oligohydramnios has also been reported, presumably resulting from decreased fetal renal function; oligohydramnios in this setting has been associated with fetal limb contractures, craniofacial deformation, and hypoplastic lung development.
-Prematurity, intrauterine growth retardation, and patent ductus arteriosus have also been reported, although it is not clear whether these occurrences were due to the ACE-inhibitor exposure.
-
-These adverse effects do not appear to have resulted from intrauterine ACE-inhibitor exposure that has been limited to the first trimester.
-Mothers whose embryos and fetuses are exposed to ACE inhibitors only during the first trimester should be so informed.
-Nonetheless, when patients become pregnant, physicians should make every effort to discontinue the use of PRINIVIL as soon as possible.
-
-Rarely (probably less often than once in every thousand pregnancies), no alternative to ACE inhibitors will be found.
-In these rare cases, the mothers should be apprised of the potential hazards to their fetuses, and serial ultrasound examinations should be performed to assess the intraamniotic environment.
-
-If oligohydramnios is observed, PRINIVIL should be discontinued unless it is considered lifesaving for the mother.
-Contraction stress testing (CST), a non-stress test (NST), or biophysical profiling (BPP) may be appropriate, depending upon the week of pregnancy.
+In the unusual case that there is no appropriate alternative therapy to drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
+Perform serial ultrasound examinations to assess the intra-amniotic environment.
+If oligohydramnios is observed, discontinue PRINIVIL, unless it is considered lifesaving for the mother.
+Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
+Closely observe infants with histories of in utero exposure to PRINIVIL for hypotension, oliguria, and hyperkalemia (see Precautions, Pediatric Use).
 
-Infants with histories of in utero exposure to ACE inhibitors should be closely observed for hypotension, oliguria, and hyperkalemia.
-If oliguria occurs, attention should be directed toward support of blood pressure and renal perfusion.
-Exchange transfusion or dialysis may be required as means of reversing hypotension and/or substituting for disordered renal function.
-Lisinopril, which crosses the placenta, has been removed from neonatal circulation by peritoneal dialysis with some clinical benefit, and theoretically may be removed by exchange transfusion, although there is no experience with the latter procedure.
-
-No teratogenic effects of lisinopril were seen in studies of pregnant mice, rats and rabbits.
+No teratogenic effects of lisinopril were seen in studies of pregnant mice, rats, and rabbits.
 On a body surface area basis, the doses used were 55 times, 33 times, and 0.15 times, respectively, the maximum recommended human daily dose (MRHDD).
 
 # PRECAUTIONS
@@ -152,12 +142,9 @@ Hypoglycemia: Diabetic patients treated with oral antidiabetic agents or insulin
 
 Leukopenia/Neutropenia: Patients should be told to report promptly any indication of infection (e.g., sore throat, fever) which may be a sign of leukopenia/neutropenia.
 
-Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to ACE inhibitors during pregnancy.
-These patients should be asked to report pregnancies to their physicians as soon as possible.
-
-NOTE: As with many other drugs, certain advice to patients being treated with PRINIVIL is warranted.
-This information is intended to aid in the safe and effective use of this medication.
-It is not a disclosure of all possible adverse or intended effects.
+Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to PRINIVIL during pregnancy.
+Discuss treatment options with women planning to become pregnant.
+Patients should be asked to report pregnancies to their physicians as soon as possible.
 
 ## Drug Interactions
 
@@ -215,11 +202,6 @@ In addition, lisinopril did not produce increases in chromosomal aberrations in 
 
 There were no adverse effects on reproductive performance in male and female rats treated with up to 300 mg/kg/day of lisinopril (33 times the MRHDD when compared on a body surface area basis).
 
-## Pregnancy
-
-Pregnancy Categories C (first trimester) and D (second and third trimesters).
-See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
-
 ## Nursing Mothers
 
 Milk of lactating rats contains radioactivity following administration of 14C lisinopril.
@@ -227,6 +209,12 @@ It is not known whether this drug is secreted in human milk.
 Because many drugs are secreted in human milk, and because of the potential for serious adverse reactions in nursing infants from ACE inhibitors, a decision should be made whether to discontinue nursing or discontinue PRINIVIL, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
+
+### Neonates with a history of in utero exposure to PRINIVIL:
+
+If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
+Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
+Lisinopril, which crosses the placenta, has been removed from neonatal circulation by peritoneal dialysis with some clinical benefit, and theoretically may be removed by exchange transfusion, although there is no experience with the latter procedure.
 
 Antihypertensive effects of PRINIVIL have been established in hypertensive pediatric patients aged 6 to 16 years.
 

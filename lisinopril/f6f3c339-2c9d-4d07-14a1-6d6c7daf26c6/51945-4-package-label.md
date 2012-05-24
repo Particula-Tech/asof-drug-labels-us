@@ -1,77 +1,47 @@
-# PRINCIPAL DISPLAY PANEL - Bottle Label 5 mg
-
-Prinivil® 5 mg (Lisinopril)
-
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
-
-by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
-
-Lisinopril (active ingred.)
-Made in the Republic of Ireland Formulated in UK
-
-Each tablet contains 5 mg lisinopril.
-
-90 Tablets
+# PRINCIPAL DISPLAY PANEL - 5 mg Bottle Label
 
 NDC 0006-0019-54
 
-Store at controlled room temperature, 15-30°C (59-86°F), and protect from moisture.
-Keep container tightly closed.
+Prinivil® (Lisinopril) Tablets
 
-USUAL ADULT DOSAGE: See accompanying circular.
+5 mg
+
+Each tablet contains 5 mg lisinopril.
+
+USUAL DOSAGE: See Package Insert.
 
 Rx only
 
-7001165500 90 | No. 8110
-
-# PRINCIPAL DISPLAY PANEL - Bottle Label 10 mg
-
-Prinivil® 10 mg (Lisinopril)
-
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
-
-by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
-
-Lisinopril (active ingred.)
-Made in the Republic of Ireland Formulated in UK
-
-Each tablet contains 10 mg lisinopril.
-
 90 Tablets
+
+# PRINCIPAL DISPLAY PANEL - 10 mg Bottle Label
 
 NDC 0006-0106-54
 
-Store at controlled room temperature, 15-30°C (59-86°F), and protect from moisture.
-Keep container tightly closed.
+Prinivil® (Lisinopril) Tablets
 
-USUAL ADULT DOSAGE: See accompanying circular.
+10 mg
+
+Each tablet contains 10 mg lisinopril.
+
+USUAL DOSAGE: See Package Insert.
 
 Rx only
-
-7001165300 90 | No. 8111
-
-# PRINCIPAL DISPLAY PANEL - Bottle Label 20 mg
-
-Prinivil® 20 mg (Lisinopril)
-
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
-
-by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
-
-Lisinopril (active ingred.)
-Made in the Republic of Ireland Formulated in UK
-
-Each tablet contains 20 mg lisinopril.
 
 90 Tablets
 
+# PRINCIPAL DISPLAY PANEL - 20 mg Bottle Label
+
 NDC 0006-0207-54
 
-Store at controlled room temperature, 15-30°C (59-86°F), and protect from moisture.
-Keep container tightly closed.
+Prinivil® (Lisinopril) Tablets
 
-USUAL ADULT DOSAGE: See accompanying circular.
+20 mg
+
+Each tablet contains 20 mg lisinopril.
+
+USUAL DOSAGE: See Package Insert.
 
 Rx only
 
-7001165400 90 | No. 8112
+90 Tablets
