@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090423"
+  ],
+  "inn": "azelastine",
+  "labeler": "Sun Pharma Global FZE",
+  "package_ndcs": [
+    "47335-779-91"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "azelastine hydrochloride",
+      "name": "Azelastine Hydrochloride"
+    }
+  ],
+  "setid": "305c6dc8-8247-473d-9975-b02903af6d53",
+  "source": "dailymed"
+}
