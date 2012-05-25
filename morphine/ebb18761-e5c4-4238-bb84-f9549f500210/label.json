@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA018565"
+  ],
+  "inn": "morphine",
+  "labeler": "West-ward Pharmaceutical Corp.",
+  "package_ndcs": [
+    "0641-6019-01",
+    "0641-6019-10",
+    "0641-6020-01",
+    "0641-6020-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "morphine sulfate",
+      "name": "Duramorph"
+    }
+  ],
+  "setid": "ebb18761-e5c4-4238-bb84-f9549f500210",
+  "source": "dailymed"
+}
