@@ -6,7 +6,7 @@ NDC 55513-710-01
 
 AMGEN®
 
-proliaTM
+prolia®
 
 (denosumab)
 

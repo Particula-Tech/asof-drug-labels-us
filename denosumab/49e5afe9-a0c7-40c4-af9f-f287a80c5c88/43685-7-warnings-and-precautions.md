@@ -9,9 +9,9 @@ Patients receiving Prolia should not receive Xgeva.
 
 Hypocalcemia may be exacerbated by the use of Prolia.
 Pre-existing hypocalcemia must be corrected prior to initiating therapy with Prolia.
-In patients predisposed to hypocalcemia and disturbances of mineral metabolism (e.g. history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, severe renal impairment [creatinine clearance (CrCL) < 30 mL/min] or receiving dialysis), clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended.
+In patients predisposed to hypocalcemia and disturbances of mineral metabolism (e.g. history of hypoparathyroidism, thyroid surgery, parathyroid surgery, malabsorption syndromes, excision of small intestine, severe renal impairment [creatinine clearance < 30 mL/min] or receiving dialysis), clinical monitoring of calcium and mineral levels (phosphorus and magnesium) is highly recommended.
 
-Hypocalcemia following Prolia administration is a significant risk in patients with severe renal impairment [CrCL < 30 mL/min], or receiving dialysis.
+Hypocalcemia following Prolia administration is a significant risk in patients with severe renal impairment [creatinine clearance < 30 mL/min], or receiving dialysis.
 Instruct all patients with severe renal impairment, including those receiving dialysis, about the symptoms of hypocalcemia and the importance of maintaining calcium levels with adequate calcium and vitamin D supplementation.
 
 Adequately supplement all patients with calcium and vitamin D [see Dosage and Administration (2.1), Contraindications (4.1), Adverse Reactions (6.1), and Patient Counseling Information (17.2)].

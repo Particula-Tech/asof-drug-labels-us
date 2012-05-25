@@ -59,18 +59,23 @@ What is Prolia?
 Prolia is a prescription medicine used to:
 
 - Treat osteoporosis (thinning and weakening of bone) in women after menopause (“change of life”) who:
-  - have an increased risk for fractures (broken bones).
+  - are at high risk for fracture (broken bone).
   - cannot use another osteoporosis medicine or other osteoporosis medicines did not work well.
-- Treat bone loss in men who have an increased risk for fractures receiving certain treatments for prostate cancer that has not spread to other parts of the body.
-- Treat bone loss in women who have an increased risk for fractures receiving certain treatments for breast cancer that has not spread to other parts of the body.
+- Treat bone loss in men who are at high risk for fracture receiving certain treatments for prostate cancer that has not spread to other parts of the body.
+- Treat bone loss in women who are at high risk for fracture receiving certain treatments for breast cancer that has not spread to other parts of the body.
 
-Prolia is not recommended for use in children.
+It is not known if Prolia is safe and effective in children.
 
-Who should not receive Prolia?
+Who should not take Prolia?
 
-Do not take Prolia if you have been told by your doctor that your blood calcium level is too low.
+Do not take Prolia if you:
 
-What should I tell my doctor before receiving Prolia?
+- have been told by your doctor that your blood calcium level is too low.
+- are pregnant or plan to become pregnant
+- are allergic to denosumab or any of the ingredients in Prolia.
+  See the end of this leaflet for a complete list of ingredients in Prolia.
+
+What should I tell my doctor before taking Prolia?
 
 Before taking Prolia, tell your doctor if you:
 
@@ -85,12 +90,12 @@ Before taking Prolia, tell your doctor if you:
 - Are pregnant or plan to become pregnant.
   Prolia may harm your unborn baby.
   Tell your doctor right away if you become pregnant while taking Prolia.
-  Pregnancy Surveillance Program: Prolia is not intended for use in pregnant women.
-  If you become pregnant while taking Prolia, talk to your doctor about enrolling with Amgen’s Pregnancy Surveillance Program or call 1-800-772-6436 (l-800-77-AMGEN).
-  The purpose of this program is to collect information about women who have become pregnant while taking Prolia.
-- Are breast-feeding or plan to breast-feed.
+  - Pregnancy Surveillance Program: Prolia is not intended for use in pregnant women.
+    If you become pregnant while taking Prolia, talk to your doctor about enrolling in Amgen’s Pregnancy Surveillance Program or call 1-800-772-6436 (l-800-77-AMGEN).
+    The purpose of this program is to collect information about women who have become pregnant while taking Prolia.
+- Are breastfeeding or plan to breastfeed.
   It is not known if Prolia passes into your breast milk.
-  You and your doctor should decide if you will take Prolia or breast-feed.
+  You and your doctor should decide if you will take Prolia or breastfeed.
   You should not do both.
 
 Tell your doctor about all the medicines you take, including prescription and nonprescription drugs, vitamins, and herbal supplements.
@@ -171,4 +176,4 @@ Amgen Manufacturing Limited, a subsidiary of Amgen Inc. One Amgen Center Drive T
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-1xxxxxx - v3 Revised: 09/2011
+1xxxxxx - v4 Revised: 05/2012 PMV4

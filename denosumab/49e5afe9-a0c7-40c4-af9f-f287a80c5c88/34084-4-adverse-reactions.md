@@ -77,14 +77,14 @@ Adverse Reactions Occurring in ≥ 2% of Patients with Osteoporosis and More Fre
 
 Hypocalcemia
 
-Decreases in serum calcium levels to less than 8.5 mg/dL were reported in 0.4% women in the placebo group and 1.7% women in the Prolia group at the month 1 visit.
+Decreases in serum calcium levels to less than 8.5 mg/dL at any visit were reported in 0.4% women in the placebo group and 1.7% women in the Prolia group.
 The nadir in serum calcium level occurs at approximately day 10 after Prolia dosing in subjects with normal renal function.
 
 In clinical studies, subjects with impaired renal function were more likely to have greater reductions in serum calcium levels compared to subjects with normal renal function.
 In a study of 55 patients with varying degrees of renal function, serum calcium levels < 7.5 mg/dL or symptomatic hypocalcemia were observed in 5 subjects.
-These included no subjects in the normal renal function group, 10% of subjects in the CrCL 50 to 80 mL/min group, 29% of subjects in the CrCL < 30 mL/min group, and 29% of subjects in the hemodialysis group.
+These included no subjects in the normal renal function group, 10% of subjects in the creatinine clearance 50 to 80 mL/min group, 29% of subjects in the creatinine clearance < 30 mL/min group, and 29% of subjects in the hemodialysis group.
 These subjects did not receive calcium and vitamin D supplementation.
-In a study of 4550 postmenopausal women with osteoporosis, the mean change from baseline in serum calcium level 10 days after Prolia dosing was -5.5% in subjects with CrCL < 30 mL/min vs. -3.1% in subjects with CrCL ≥ 30 mL/min.
+In a study of 4550 postmenopausal women with osteoporosis, the mean change from baseline in serum calcium level 10 days after Prolia dosing was -5.5% in subjects with creatinine clearance < 30 mL/min vs. -3.1% in subjects with creatinine clearance ≥ 30 mL/min.
 
 Serious Infections
 
@@ -143,7 +143,16 @@ Pain in extremity (7.7% placebo vs. 9.9% Prolia) and musculoskeletal pain (3.8% 
 Additionally in Prolia-treated men with nonmetastatic prostate cancer receiving ADT, a greater incidence of cataracts was observed (1.2% placebo vs. 4.7% Prolia).
 Hypocalcemia (serum calcium < 8.4 mg/dL) was reported only in Prolia-treated patients (2.4% vs. 0%) at the month 1 visit.
 
-## 6.2 Immunogenicity
+## 6.2 Postmarketing Experience
+
+Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+The following adverse reactions have been identified during post approval use of Prolia:
+
+- Drug-related hypersensitivity reactions: rash, urticaria, facial swelling and erythema
+- Hypocalcemia: severe symptomatic hypocalcemia
+
+## 6.3 Immunogenicity
 
 Denosumab is a human monoclonal antibody.
 As with all therapeutic proteins, there is potential for immunogenicity.

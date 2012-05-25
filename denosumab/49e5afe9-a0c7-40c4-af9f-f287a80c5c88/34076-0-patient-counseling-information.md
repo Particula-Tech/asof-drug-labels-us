@@ -24,7 +24,19 @@ Advise patients to seek prompt medical attention if they develop signs or sympto
 Advise patients to maintain good oral hygiene during treatment with Prolia and to inform their dentist prior to dental procedures that they are receiving Prolia.
 Patients should inform their physician or dentist if they experience persistent pain and/or slow healing of the mouth or jaw after dental surgery [see Warnings and Precautions (5.5)].
 
-## 17.6 Schedule of Administration
+## 17.6 Hypersensitivity
+
+Advise patients to seek prompt medical attention if signs or symptoms of hypersensitivity reactions occur [see Contraindications (4.3)].
+
+## 17.7 Pregnancy
+
+Advise patients that Prolia is contraindicated in women who are pregnant and may cause fetal harm [see Contraindications (4.2), Use in Specific Populations (8.1)].
+
+## 17.8 Nursing Mothers
+
+Advise patients that because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from Prolia, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother [see Use in Specific Populations (8.3)].
+
+## 17.9 Schedule of Administration
 
 If a dose of Prolia is missed, administer the injection as soon as convenient.
 Thereafter, schedule injections every 6 months from the date of the last injection.
