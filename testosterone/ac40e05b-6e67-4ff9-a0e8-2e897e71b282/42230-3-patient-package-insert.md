@@ -30,7 +30,7 @@ Do not use ANDRODERM if you:
 - are a man who has breast cancer
 - have or might have prostate cancer
 - are pregnant or may become pregnant or are breastfeeding.
-  ANDRODERM may harm your unborn or breastfeeding baby
+  ANDRODERM may harm your unborn or breastfeeding baby.
 
 Talk to your healthcare provider before taking this medicine if you have any of the above conditions.
 
@@ -71,9 +71,9 @@ How should I use ANDRODERM?
 - Wait 3 hours before showering, bathing, or swimming.
   This will ensure that the greatest amount of ANDRODERM is absorbed into your system.
 - ANDRODERM does not need to be removed during sex or while you take a shower or bath.
-- Strenuous excercise or excessive perspiration may loosen your ANDRODERM patch or cause it to fall off.
+- Strenuous exercise or excessive perspiration may loosen your ANDRODERM patch or cause it to fall off.
 - If your ANDRODERM patch becomes loose, smooth it down again by rubbing your finger firmly around the edges.
-  Do not tape ANDERDERM patches to your skin.
+  Do not tape ANDRODERM patches to your skin.
   - If your ANDRODERM patch falls off before noon, put on a new ANDRODERM patch and wear it until you put on a new ANDRODERM patch at your regular time.
   - If your ANDRODERM patch falls off after noon, do not put on a new one.
     Wait and apply your ANDRODERM patch at your regular time.
@@ -98,7 +98,7 @@ Applying ANDRODERM:
 | 1. Open the foil pouch. Tear along the edge and remove the patch from the pouch (See Figure C). Do not cut the ANDRODERM protective pouch. |  |  |  |
 | --- | --- | --- | --- |
 | 2. Remove the protective plastic liner and silver disc from the patch. Hold on to the tabs on the patch and the protective plastic liner and gently pull the two apart to remove the plastic liner and silver disc from the patch (See Figure D).This will expose the adhesive and central reservoir area on the patch (See Figure E). The patch should pull off easily from the protective plastic liner. Do not use the ANDRODERM patch if the liner is hard to pull off. Throw away the ANDRODERM patch and get a new one. |  |  |  |
-| 3. Check the protective plastic liner. You should not see any glue (adhesive) sticking to the liner. Do not use the ANDRODERM patch if you see any adhesive sticking to the liner. Throw away the ANDRODERM patch and get a new one.Throw away the clear pastic liner and silver disc.4. Apply the patch. Apply the patch right away after you remove the patch from the protective pouch and remove the plastic liner. Place the patch flat on the skin with the sticky side down and firmly press around the edges. Make sure that the patch sticks well to the skin. |  |  |  |
+| 3. Check the protective plastic liner. You should not see any glue (adhesive) sticking to the liner. Do not use the ANDRODERM patch if you see any adhesive sticking to the liner. Throw away the ANDRODERM patch and get a new one.Throw away the clear plastic liner and silver disc.4. Apply the patch. Apply the patch right away after you remove the patch from the protective pouch and remove the plastic liner. Place the patch flat on the skin with the sticky side down and firmly press around the edges. Make sure that the patch sticks well to the skin. |  |  |  |
 
 What are the possible side effects of ANDRODERM?
 
@@ -184,7 +184,7 @@ Manufactured By: Watson Laboratories, Inc. Salt Lake City, UT 84108 USA
 
 Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-This Patient Information has been approved by the U.S. Food and Drug Administration.
+This Patient Information has been approved by the U.S. Food and Drug Administration
 
 Issued: 04/2012
 
