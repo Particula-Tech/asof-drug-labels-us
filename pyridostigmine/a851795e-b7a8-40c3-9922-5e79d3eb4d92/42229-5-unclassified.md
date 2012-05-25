@@ -1,3 +1,6 @@
-Valeant Pharmaceuticals North America.
-One Enterprise Aliso Viejo, CA 92656 U.S.A. (949) 461-6000 Rev.
-04.07
+Manufactured by: Valeant Canada LP Montreal, Canada H4M 1V1
+
+Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807
+
+Rev.
+03-12
