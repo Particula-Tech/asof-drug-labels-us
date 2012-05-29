@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Long term studies in animals have not been performed to evaluate carcinogenic potential.
+Long-term studies in animals have not been performed to evaluate carcinogenic potential.
 Azithromycin has shown no mutagenic potential in standard laboratory tests: mouse lymphoma assay, human lymphocyte clastogenic assay, and mouse bone marrow clastogenic assay.
 No evidence of impaired fertility due to azithromycin was found in mice or rats that received oral doses of up to 200 mg/kg/day.
 

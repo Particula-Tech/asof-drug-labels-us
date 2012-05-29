@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-AzaSite is indicated for the treatment of bacterial conjunctivitis caused by susceptible isolates of the following microorganisms:
+AzaSite® is indicated for the treatment of bacterial conjunctivitis caused by susceptible isolates of the following microorganisms:
 
 - CDC coryneform group G*
 - Haemophilus influenzae

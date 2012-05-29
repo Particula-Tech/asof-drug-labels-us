@@ -13,7 +13,7 @@ Based on the proposed dose of one drop to each eye (total dose of 100 mcL or 1 m
 
 Azithromycin acts by binding to the 50S ribosomal subunit of susceptible microorganisms and interfering with microbial protein synthesis.
 
-Azithromycin has been shown to be active against most isolates of the following microorganisms, both in vitro and clinically in conjunctival infections as described in the INDICATIONS AND USAGE section:
+Azithromycin has been shown to be active against most isolates of the following microorganisms, both in vitro and clinically in conjunctival infections [see Indications and Usage (1)].
 
 - CDC coryneform group G*
 - Haemophilus influenzae
