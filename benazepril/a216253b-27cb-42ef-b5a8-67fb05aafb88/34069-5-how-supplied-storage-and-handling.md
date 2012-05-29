@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-Benazepril Hydrochloride Tablets, USP are supplied as follows:
+Benazepril HCl tablets, USP, 5 mg, are supplied as white, biconvex, round, uncoated tablets, debossed with “51” on one side and “A” on the other side.
 
-5 mg (white biconvex, round, uncoated tablets, debossed with “51” on one side and “A” on the other side)
+They are available as follows:
 
 Bottles of 30: NDC 65162-751-03
 
@@ -10,7 +10,9 @@ Bottles of 100: NDC 65162-751-10
 
 Bottles of 500: NDC 65162-751-50
 
-10 mg (white biconvex, round, uncoated tablets, debossed with “52” on one side and “A” on the other side)
+Benazepril HCl tablets, USP, 10 mg, are supplied as white, biconvex, round, uncoated tablets, debossed with “52” on one side and “A” on the other side.
+
+They are available as follows:
 
 Bottles of 30: NDC 65162-752-03
 
@@ -18,7 +20,9 @@ Bottles of 100: NDC 65162-752-10
 
 Bottles of 500: NDC 65162-752-50
 
-20 mg (white biconvex, round, uncoated tablets, debossed with “53” on one side and “A” on the other side)
+Benazepril HCl tablets, USP, 20 mg, are supplied as white, biconvex, round, uncoated tablets, debossed with “53” on one side and “A” on the other side.
+
+They are available as follows:
 
 Bottles of 30: NDC 65162-753-03
 
@@ -26,7 +30,9 @@ Bottles of 100: NDC 65162-753-10
 
 Bottles of 500: NDC 65162-753-50
 
-40 mg (white biconvex, round, uncoated tablets, debossed with “54” on one side and “A” on the other side)
+Benazepril HCl tablets, USP, 40 mg, are supplied as white, biconvex, round, uncoated tablets, debossed with “54” on one side and “A” on the other side.
+
+They are available as follows:
 
 Bottles of 30: NDC 65162-754-03
 
@@ -34,13 +40,7 @@ Bottles of 100: NDC 65162-754-10
 
 Bottles of 500: NDC 65162-754-50
 
-Store at 20º to 25°C (68° to 77ºF) (see USP Controlled Room Temperature)
+Storage: Store at 20º to 25°C (68° to 77ºF); excursions permitted to 15º to 30ºC (59º to 86ºF) [See USP Controlled Room Temperature].
+Protect from moisture.
 
-Dispense in tight container (USP).
-
-Manufactured by: Amneal Pharmaceuticals of NY Hauppauge, NY 11788
-
-Distributed by Amneal Pharmaceuticals Glasgow, KY 42141
-
-Rev.
-12-2009
+Dispense in tight container as defined in the USP.
