@@ -5,7 +5,7 @@ They include nausea, vomiting, abdominal pain, diarrhea and anorexia.
 Symptoms of hepatitis, hepatic dysfunction and/or abnormal liver function test results may occur.
 (See WARNINGS.)
 
-Onset of pseudomembranou scolitis symptoms may occur during or after antibacteria l treatment.
+Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment.
 (See WARNINGS.)
 
 Erythromycin has been associated with QT prolongation and ventricular arrhythmias, including ventricular tachycardia and torsades de pointes.

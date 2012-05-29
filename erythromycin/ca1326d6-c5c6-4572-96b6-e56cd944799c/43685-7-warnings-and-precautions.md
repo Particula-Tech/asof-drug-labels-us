@@ -99,7 +99,7 @@ Concomitant administration of erythromycin with cisapride, pimozide, astemizole,
 In addition, there have been reports of interactions of erythromycin with drugs not thought to be metabolized by CYP3A, including hexobarbital, phenytoin, and valproate.
 
 Erythromycin has been reported to significantly alter the metabolism of the nonsedating antihistamines terfenadine and astemizole when taken concomitantly.
-Rare cases of serious cardiovascular adverse events, including electrocardiographic QT/QT c interval prolongation, cardiac arrest, torsades de pointes, and other ventricular arrhythmias, have been observed.
+Rare cases of serious cardiovascular adverse events, including electrocardiographic QT/QTc interval prolongation, cardiac arrest, torsades de pointes, and other ventricular arrhythmias, have been observed.
 (See CONTRAINDICATIONS.)
 In addition, deaths have been reported rarely with concomitant administration of terfenadine and erythromycin.
 

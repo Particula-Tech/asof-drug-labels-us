@@ -29,7 +29,7 @@ Intestinal amebiasis caused by Entamoeba histolytica (oral erythromycins only).
 Extraenteric amebiasis requires treatment with other agents.
 
 Acute pelvic inflammatory disease caused by Neisseria gonorrhoeae: Erythrocin® Lactobionate-I.
-V. (erythromycin lactobionate for injection, USP) followed by erythromycin base orally, as an alternative drug in treatment of acute pelvic inflammatory disease caused by N. gonorrhoeaein female patients with a history of sensitivity to penicillin.
+V. (erythromycin lactobionate for injection, USP) followed by erythromycin base orally, as an alternative drug in treatment of acute pelvic inflammatory disease caused by N. gonorrhoeae in female patients with a history of sensitivity to penicillin.
 Patients should have a serologic test for syphilis before receiving erythromycin as treatment of gonorrhea and a follow-up serologic test for syphilis after 3 months.
 
 Erythromycins are indicated for treatment of the following infections caused by Chlamydia trachomatis: conjunctivitis of the newborn, pneumonia of infancy, and urogenital infections during pregnancy.

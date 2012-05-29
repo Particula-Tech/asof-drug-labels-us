@@ -56,7 +56,7 @@ For patients with nongonococcal urethritis caused by Ureaplasma urealyticum when
 
 ## Pertussis
 
-Although optimal dosage and durationa hve not been established, doses of erythromycin utilized in reported clinical studies were 40 to 50 mg/kg/day, given in divided doses for 5 to 14 days.
+Although optimal dosage and duration have not been established, doses of erythromycin utilized in reported clinical studies were 40 to 50 mg/kg/day, given in divided doses for 5 to 14 days.
 
 ## Legionnaires' Disease
 
