@@ -1,13 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020281"
+  ],
   "inn": "tramadol",
-  "labeler": "OMP DIVISION, ORTHO-McNEIL PHARMACEUTICAL, INC.",
+  "labeler": "Ortho-McNeil-Janssen Pharmaceuticals, Inc.",
   "package_ndcs": [
     "0045-0659-10",
     "0045-0659-60",
     "0045-0659-70"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "tramadol hydrochloride",
+      "name": "ULTRAM"
+    }
+  ],
   "setid": "c0938808-fe14-4b8d-98c4-d04dcc5c9642",
   "source": "dailymed"
 }
