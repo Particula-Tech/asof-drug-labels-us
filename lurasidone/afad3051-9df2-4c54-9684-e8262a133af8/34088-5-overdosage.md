@@ -1,12 +1,12 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
-## 10.1. Human Experience
+## 10.1 Human Experience
 
-In premarketing clinical studies involving more than 2096 patients and/or healthy subjects, accidental or intentional overdosage of LATUDA was identified in one patient who ingested an estimated 560 mg of LATUDA.
+In premarketing clinical studies involving 2905 patients, accidental or intentional overdosage of LATUDA was identified in one patient who ingested an estimated 560 mg of LATUDA.
 This patient recovered without sequelae.
 This patient resumed LATUDA treatment for an additional two months.
 
-## 10.2. Management of Overdosage
+## 10.2 Management of Overdosage
 
 Consult a Certified Poison Control Center for up-to-date guidance and advice.
 There is no specific antidote to LATUDA, therefore, appropriate supportive measures should be instituted and close medical supervision and monitoring should continue until the patient recovers.

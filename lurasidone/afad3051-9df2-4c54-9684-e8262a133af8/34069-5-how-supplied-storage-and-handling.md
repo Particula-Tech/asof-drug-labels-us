@@ -1,9 +1,9 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-LATUDA tablets are white to off-white, round (20 mg or 40 mg), or pale green, oval (80 mg) and identified with strength-specific one-sided debossing, “L20” (20 mg), “L40” (40 mg), or “L80” (80 mg).
-Tablets are supplied in the following strengths and package configurations (Table 11):
+LATUDA tablets are white to off-white, round (20 mg or 40 mg), pale green, oval (80 mg) or white to off-white, oval (120 mg)and identified with strength-specific one-sided debossing, “L20” (20 mg), “L40” (40 mg), “L80” (80 mg) or “L120” (120 mg).
+Tablets are supplied in the following strengths and package configurations (Table 9):
 
-Table 11: Package Configuration for LATUDA Tablets
+Table 9: Package Configuration for LATUDA Tablets
 
 | Tablet Strength | Package Configuration | NDC Code |
 | --- | --- | --- |
@@ -19,6 +19,10 @@ Table 11: Package Configuration for LATUDA Tablets
 | Bottles of 90 | 63402-308-90 |  |
 | Bottles of 500 | 63402-308-50 |  |
 | Box of 100 (Hospital Unit Dose) 10 blister cards, 10 tablets each | 63402-308-10 Carton 63402-308-01 Blister |  |
+| 120 mg | Bottles of 30 | 63402-312-30 |
+| Bottles of 90 | 63402-312-90 |  |
+| Bottles of 500 | 63402-312-50 |  |
+| Box of 100 (Hospital Unit Dose) 10 blister cards, 10 tablets each | 63402-312-10 Carton 63402-312-01 Blister |  |
 
 Storage
 
