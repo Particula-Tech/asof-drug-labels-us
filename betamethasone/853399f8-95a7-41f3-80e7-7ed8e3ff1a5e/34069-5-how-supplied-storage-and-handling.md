@@ -7,4 +7,4 @@ Betamethasone Dipropionate Ointment USP (Augmented*), 0.05%, is supplied as foll
 
 Store between 2° and 25°C (36° and 77°F).
 
-E. FOUGERA & CO. A division of Nycomed US Inc. Melville, New York 11747 I268A R1/08 #240
+E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747 I268B R09/11 #240
