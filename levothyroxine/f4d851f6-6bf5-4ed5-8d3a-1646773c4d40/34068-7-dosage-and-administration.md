@@ -55,7 +55,7 @@ Table 1: Levothyroxine Sodium Dosing Guidelines for Pediatric Hypothyroidism
 | --- | --- |
 | 6-12 years | 4-5 mcg/kg/day |
 | >12 years but growth and puberty incomplete | 2-3 mcg/kg/day |
-| Growth and puberty complete | 1-7 mcg/kg/day |
+| Growth and puberty complete | 1.7 mcg/kg/day |
 
 In children with chronic or severe hypothyroidism, a lower initial dose of 25 mcg per day of levothyroxine sodium is recommended with increasing increments of 25 mcg every 2-4 weeks until the desired effect is achieved.
 
