@@ -2,7 +2,7 @@
 
 AMNESTEEM (AM-NES-TEAM)
 
-(Isotretinoin Capsules, USP)
+(Isotretinoin Capsules)
 
 Read the Medication Guide that comes with Amnesteem before you start taking it and each time you get a prescription.
 There may be new information.
@@ -10,17 +10,17 @@ This information does not take the place of talking with your doctor about your 
 
 What is the most important information I should know about Amnesteem?
 
-- Amnesteem® (Isotretinoin Capsules, USP) is used to treat a type of severe acne (nodular acne) that has not been helped by other treatments, including antibiotics.
+- Amnesteem® is used to treat a type of severe acne (nodular acne) that has not been helped by other treatments, including antibiotics.
 - Because Amnesteem can cause birth defects, Amnesteem is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE program.
 - Amnesteem may cause serious mental health problems.
 
 1. Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby and early (premature) births.
    Female patients who are pregnant or who plan to become pregnant must not take Amnesteem.
-   Female patients must not get pregnant:If you get pregnant while taking Amnesteem, stop taking it right away and call your doctor.
+   Female patients must not get pregn1:If you get pregnant while taking Amnesteem, stop taking it right away and call your doctor.
    Doctors and patients should report all cases of pregnancy to:
-   - for one month before starting Amnesteem
+   - for 1 month before starting Amnesteem
    - while taking Amnesteem
-   - for one month after stopping Amnesteem.
+   - for 1 month after stopping Amnesteem.
    - FDA MedWatch at 1-800-FDA-1088, and
    - the iPLEDGE pregnancy registry at 1-866-495-0654
 2. Serious mental health problems.
@@ -241,8 +241,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Amnesteem?
 
-- Store at 20° to 25°C (68° to 77°F).
-  [See USP Controlled Room Temperature.]
+- Store at 68° to 77°F (20° to 25°C).
   Protect from light.
 - Keep Amnesteem and all medicines out of the reach of children.
 
@@ -256,6 +255,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about Amnesteem.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Amnesteem that is written for healthcare professionals.
+
 You can also call iPLEDGE program at 1-866-495-0654 or visit www.ipledgeprogram.com.
 
 What are the ingredients in Amnesteem?
@@ -275,4 +275,4 @@ Packaged by: Catalent Pharma Solutions Philadelphia, PA 19114 U.S.A.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED MARCH 2012 ISOT:R2/MG:ISOT:R1
+REVISED MAY 2012 ISOT:R4/MG:ISOT:R3

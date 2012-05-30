@@ -19,7 +19,7 @@ NDC 0378-6614-93 Cartons of 30 containing 3 Prescription Packs of 10 capsules
 
 NDC 0378-6614-88 Cartons of 100 containing 10 Prescription Packs of 10 capsules
 
-Storage: Store at 20° to 25°C (68° to 77°F).
+Storage: Store at 68° to 77°F (20° to 25°C).
 [See USP Controlled Room Temperature.]
 
 Protect from light.
