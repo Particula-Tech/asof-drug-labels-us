@@ -9,7 +9,7 @@ They are supplied as follows: 25 mg tablets – bottles of 60 count with desicca
 TOPAMAX® (topiramate capsules) Sprinkle Capsules contain small, white to off white spheres.
 The gelatin capsules are white and clear.
 
-They are marked as follows: 15 mg capsule with “TOP” and “15 mg” on the side 25 mg capsule with “TOP” and “25 mg” on the side
+They are marked as follows: 15 mg capsule with "TOP" and "15 mg" on the side 25 mg capsule with "TOP" and "25 mg" on the side
 
 The capsules are supplied as follows: 15 mg capsules – bottles of 60 (NDC 0045-0647-65) 25 mg capsules – bottles of 60 (NDC 0045-0645-65)
 

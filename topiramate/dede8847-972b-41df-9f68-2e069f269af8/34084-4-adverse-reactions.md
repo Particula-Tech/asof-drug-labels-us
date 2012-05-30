@@ -144,106 +144,106 @@ Other events that occurred in more than 1% of adults treated with 200 to 400 mg 
 
 Table 6: Incidence of Treatment-Emergent Adverse Events in Placebo-Controlled, Add-On Epilepsy Trials in Adultsa,b Where Rate Was > 1% in Any Topiramate Group and Greater Than the Rate in Placebo-Treated Patients
 
-| Body System/ Adverse Eventc | Placebo (N=291) |  |  |  | 200-400 (N=183) |  |  | 600-1,000 (N=414) |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | TOPAMAX® Dosage (mg/day) |  |  |  |  |  |  |  |  |
-| Body as a Whole-General Disorders |  |  |  |  |  |  |  |  |  |  |
-| Fatigue | 13 |  |  |  | 15 |  |  | 30 |  |  |
-| Asthenia | 1 |  |  |  | 6 |  |  | 3 |  |  |
-| Back Pain | 4 |  |  |  | 5 |  |  | 3 |  |  |
-| Chest Pain | 3 |  |  |  | 4 |  |  | 2 |  |  |
-| Influenza-Like Symptoms | 2 |  |  |  | 3 |  |  | 4 |  |  |
-| Leg Pain | 2 |  |  |  | 2 |  |  | 4 |  |  |
-| Hot Flushes | 1 |  |  |  | 2 |  |  | 1 |  |  |
-| Allergy | 1 |  |  |  | 2 |  |  | 3 |  |  |
-| Edema | 1 |  |  |  | 2 |  |  | 1 |  |  |
-| Body Odor | 0 |  |  |  | 1 |  |  | 0 |  |  |
-| Rigors | 0 |  |  |  | 1 |  |  | <1 |  |  |
-| Central & Peripheral Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |
-| Dizziness | 15 |  |  |  | 25 |  |  | 32 |  |  |
-| Ataxia | 7 |  |  |  | 16 |  |  | 14 |  |  |
-| Speech Disorders/Related Speech Problems | 2 |  |  |  | 13 |  |  | 11 |  |  |
-| Paresthesia | 4 |  |  |  | 11 |  |  | 19 |  |  |
-| Nystagmus | 7 |  |  |  | 10 |  |  | 11 |  |  |
-| Tremor | 6 |  |  |  | 9 |  |  | 9 |  |  |
-| Language Problems | 1 |  |  |  | 6 |  |  | 10 |  |  |
-| Coordination Abnormal | 2 |  |  |  | 4 |  |  | 4 |  |  |
-| Hypoaesthesia | 1 |  |  |  | 2 |  |  | 1 |  |  |
-| Gait Abnormal | 1 |  |  |  | 3 |  |  | 2 |  |  |
-| Muscle Contractions Involuntary | 1 |  |  |  | 2 |  |  | 2 |  |  |
-| Stupor | 0 |  |  |  | 2 |  |  | 1 |  |  |
-| Vertigo | 1 |  |  |  | 1 |  |  | 2 |  |  |
-| Gastro-Intestinal System Disorders |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 8 |  |  |  | 10 |  |  | 12 |  |  |
-| Dyspepsia | 6 |  |  |  | 7 |  |  | 6 |  |  |
-| Abdominal Pain | 4 |  |  |  | 6 |  |  | 7 |  |  |
-| Constipation | 2 |  |  |  | 4 |  |  | 3 |  |  |
-| Gastroenteritis | 1 |  |  |  | 2 |  |  | 1 |  |  |
-| Dry Mouth | 1 |  |  |  | 2 |  |  | 4 |  |  |
-| Gingivitis | <1 |  |  |  | 1 |  |  | 1 |  |  |
-| GI Disorder | <1 |  |  |  | 1 |  |  | 0 |  |  |
-| Hearing and Vestibular Disorders |  |  |  |  |  |  |  |  |  |  |
-| Hearing Decreased | 1 |  |  |  | 2 |  |  | 1 |  |  |
-| Metabolic and Nutritional Disorders |  |  |  |  |  |  |  |  |  |  |
-| Weight Decrease | 3 |  |  |  | 9 |  |  | 13 |  |  |
-| Muscle-Skeletal System Disorders |  |  |  |  |  |  |  |  |  |  |
-| Myalgia | 1 |  |  |  | 2 |  |  | 2 |  |  |
-| Skeletal Pain | 0 |  |  |  | 1 |  |  | 0 |  |  |
-| Platelet, Bleeding,& Clotting Disorders |  |  |  |  |  |  |  |  |  |  |
-| Epistaxis | 1 |  |  |  | 2 |  |  | 1 |  |  |
-| Psychiatric Disorders |  |  |  |  |  |  |  |  |  |  |
-| Somnolence | 12 |  |  |  | 29 |  |  | 28 |  |  |
-| Nervousness | 6 |  |  |  | 16 |  |  | 19 |  |  |
-| Psychomotor Slowing | 2 |  |  |  | 13 |  |  | 21 |  |  |
-| Difficulty with Memory | 3 |  |  |  | 12 |  |  | 14 |  |  |
-| Anorexia | 4 |  |  |  | 10 |  |  | 12 |  |  |
-| Confusion | 5 |  |  |  | 11 |  |  | 14 |  |  |
-| Depression | 5 |  |  |  | 5 |  |  | 13 |  |  |
-| Difficulty with Concentration/Attention | 2 |  |  |  | 6 |  |  | 14 |  |  |
-| Mood Problems | 2 |  |  |  | 4 |  |  | 9 |  |  |
-| Agitation | 2 |  |  |  | 3 |  |  | 3 |  |  |
-| Aggressive Reaction | 2 |  |  |  | 3 |  |  | 3 |  |  |
-| Emotional Lability | 1 |  |  |  | 3 |  |  | 3 |  |  |
-| Cognitive Problems | 1 |  |  |  | 3 |  |  | 3 |  |  |
-| Libido Decreased | 1 |  |  |  | 2 |  |  | <1 |  |  |
-| Apathy | 1 |  |  |  | 1 |  |  | 3 |  |  |
-| Depersonalization | 1 |  |  |  | 1 |  |  | 2 |  |  |
-| Reproductive Disorders, Female |  |  |  |  |  |  |  |  |  |  |
-| Breast Pain | 2 |  |  |  | 4 |  |  | 0 |  |  |
-| Amenorrhea | 1 |  |  |  | 2 |  |  | 2 |  |  |
-| Menorrhagia | 0 |  |  |  | 2 |  |  | 1 |  |  |
-| Menstrual Disorder | 1 |  |  |  | 2 |  |  | 1 |  |  |
-| Reproductive Disorders, Male |  |  |  |  |  |  |  |  |  |  |
-| Prostatic Disorder | <1 |  |  |  | 2 |  |  | 0 |  |  |
-| Resistance Mechanism Disorders |  |  |  |  |  |  |  |  |  |  |
-| Infection | 1 |  |  |  | 2 |  |  | 1 |  |  |
-| Infection Viral | 1 |  |  |  | 2 |  |  | <1 |  |  |
-| Moniliasis | <1 |  |  |  | 1 |  |  | 0 |  |  |
-| Respiratory System Disorders |  |  |  |  |  |  |  |  |  |  |
-| Pharyngitis | 2 |  |  |  | 6 |  |  | 3 |  |  |
-| Rhinitis | 6 |  |  |  | 7 |  |  | 6 |  |  |
-| Sinusitis | 4 |  |  |  | 5 |  |  | 6 |  |  |
-| Dyspnea | 1 |  |  |  | 1 |  |  | 2 |  |  |
-| Skin and Appendages Disorders |  |  |  |  |  |  |  |  |  |  |
-| Skin Disorder | <1 |  |  |  | 2 |  |  | 1 |  |  |
-| Sweating Increased | <1 |  |  |  | 1 |  |  | <1 |  |  |
-| Rash Erythematous | <1 |  |  |  | 1 |  |  | <1 |  |  |
-| Special Sense Other, Disorders |  |  |  |  |  |  |  |  |  |  |
-| Taste Perversion | 0 |  |  |  | 2 |  |  | 4 |  |  |
-| Urinary System Disorders |  |  |  |  |  |  |  |  |  |  |
-| Hematuria | 1 |  |  |  | 2 |  |  | <1 |  |  |
-| Urinary Tract Infection | 1 |  |  |  | 2 |  |  | 3 |  |  |
-| Micturition Frequency | 1 |  |  |  | 1 |  |  | 2 |  |  |
-| Urinary Incontinence | <1 |  |  |  | 2 |  |  | 1 |  |  |
-| Urine Abnormal | 0 |  |  |  | 1 |  |  | <1 |  |  |
-| Vision Disorders |  |  |  |  |  |  |  |  |  |  |
-| Vision Abnormal | 2 |  |  |  | 13 |  |  | 10 |  |  |
-| Diplopia | 5 |  |  |  | 10 |  |  | 10 |  |  |
-| White Cell and RES Disorders |  |  |  |  |  |  |  |  |  |  |
-| Leukopenia | 1 |  |  |  | 2 |  |  | 1 |  |  |
-| a Patients in these add-on trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to TOPAMAX® or placebo. |  |  |  |  |  |  |  |  |  |  |
-| b Values represent the percentage of patients reporting a given adverse event. Patients may have reported more than one adverse event during the study and can be included in more than one adverse event category. |  |  |  |  |  |  |  |  |  |  |
-| c Adverse events reported by at least 1% of patients in the TOPAMAX® 200-400 mg/day group and more common than in the placebo group are listed in this table. |  |  |  |  |  |  |  |  |  |  |
+| Body System/ Adverse Eventc | Placebo (N=291) |  |  |  | 200-400 (N=183) |  |  | 600-1,000 (N=414) |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | TOPAMAX® Dosage (mg/day) |  |  |  |  |  |  |  |
+| Body as a Whole-General Disorders |  |  |  |  |  |  |  |  |  |
+| Fatigue | 13 |  |  |  | 15 |  |  | 30 |  |
+| Asthenia | 1 |  |  |  | 6 |  |  | 3 |  |
+| Back Pain | 4 |  |  |  | 5 |  |  | 3 |  |
+| Chest Pain | 3 |  |  |  | 4 |  |  | 2 |  |
+| Influenza-Like Symptoms | 2 |  |  |  | 3 |  |  | 4 |  |
+| Leg Pain | 2 |  |  |  | 2 |  |  | 4 |  |
+| Hot Flushes | 1 |  |  |  | 2 |  |  | 1 |  |
+| Allergy | 1 |  |  |  | 2 |  |  | 3 |  |
+| Edema | 1 |  |  |  | 2 |  |  | 1 |  |
+| Body Odor | 0 |  |  |  | 1 |  |  | 0 |  |
+| Rigors | 0 |  |  |  | 1 |  |  | <1 |  |
+| Central & Peripheral Nervous System Disorders |  |  |  |  |  |  |  |  |  |
+| Dizziness | 15 |  |  |  | 25 |  |  | 32 |  |
+| Ataxia | 7 |  |  |  | 16 |  |  | 14 |  |
+| Speech Disorders/Related Speech Problems | 2 |  |  |  | 13 |  |  | 11 |  |
+| Paresthesia | 4 |  |  |  | 11 |  |  | 19 |  |
+| Nystagmus | 7 |  |  |  | 10 |  |  | 11 |  |
+| Tremor | 6 |  |  |  | 9 |  |  | 9 |  |
+| Language Problems | 1 |  |  |  | 6 |  |  | 10 |  |
+| Coordination Abnormal | 2 |  |  |  | 4 |  |  | 4 |  |
+| Hypoaesthesia | 1 |  |  |  | 2 |  |  | 1 |  |
+| Gait Abnormal | 1 |  |  |  | 3 |  |  | 2 |  |
+| Muscle Contractions Involuntary | 1 |  |  |  | 2 |  |  | 2 |  |
+| Stupor | 0 |  |  |  | 2 |  |  | 1 |  |
+| Vertigo | 1 |  |  |  | 1 |  |  | 2 |  |
+| Gastro-Intestinal System Disorders |  |  |  |  |  |  |  |  |  |
+| Nausea | 8 |  |  |  | 10 |  |  | 12 |  |
+| Dyspepsia | 6 |  |  |  | 7 |  |  | 6 |  |
+| Abdominal Pain | 4 |  |  |  | 6 |  |  | 7 |  |
+| Constipation | 2 |  |  |  | 4 |  |  | 3 |  |
+| Gastroenteritis | 1 |  |  |  | 2 |  |  | 1 |  |
+| Dry Mouth | 1 |  |  |  | 2 |  |  | 4 |  |
+| Gingivitis | <1 |  |  |  | 1 |  |  | 1 |  |
+| GI Disorder | <1 |  |  |  | 1 |  |  | 0 |  |
+| Hearing and Vestibular Disorders |  |  |  |  |  |  |  |  |  |
+| Hearing Decreased | 1 |  |  |  | 2 |  |  | 1 |  |
+| Metabolic and Nutritional Disorders |  |  |  |  |  |  |  |  |  |
+| Weight Decrease | 3 |  |  |  | 9 |  |  | 13 |  |
+| Muscle-Skeletal System Disorders |  |  |  |  |  |  |  |  |  |
+| Myalgia | 1 |  |  |  | 2 |  |  | 2 |  |
+| Skeletal Pain | 0 |  |  |  | 1 |  |  | 0 |  |
+| Platelet, Bleeding,& Clotting Disorders |  |  |  |  |  |  |  |  |  |
+| Epistaxis | 1 |  |  |  | 2 |  |  | 1 |  |
+| Psychiatric Disorders |  |  |  |  |  |  |  |  |  |
+| Somnolence | 12 |  |  |  | 29 |  |  | 28 |  |
+| Nervousness | 6 |  |  |  | 16 |  |  | 19 |  |
+| Psychomotor Slowing | 2 |  |  |  | 13 |  |  | 21 |  |
+| Difficulty with Memory | 3 |  |  |  | 12 |  |  | 14 |  |
+| Anorexia | 4 |  |  |  | 10 |  |  | 12 |  |
+| Confusion | 5 |  |  |  | 11 |  |  | 14 |  |
+| Depression | 5 |  |  |  | 5 |  |  | 13 |  |
+| Difficulty with Concentration/Attention | 2 |  |  |  | 6 |  |  | 14 |  |
+| Mood Problems | 2 |  |  |  | 4 |  |  | 9 |  |
+| Agitation | 2 |  |  |  | 3 |  |  | 3 |  |
+| Aggressive Reaction | 2 |  |  |  | 3 |  |  | 3 |  |
+| Emotional Lability | 1 |  |  |  | 3 |  |  | 3 |  |
+| Cognitive Problems | 1 |  |  |  | 3 |  |  | 3 |  |
+| Libido Decreased | 1 |  |  |  | 2 |  |  | <1 |  |
+| Apathy | 1 |  |  |  | 1 |  |  | 3 |  |
+| Depersonalization | 1 |  |  |  | 1 |  |  | 2 |  |
+| Reproductive Disorders, Female |  |  |  |  |  |  |  |  |  |
+| Breast Pain | 2 |  |  |  | 4 |  |  | 0 |  |
+| Amenorrhea | 1 |  |  |  | 2 |  |  | 2 |  |
+| Menorrhagia | 0 |  |  |  | 2 |  |  | 1 |  |
+| Menstrual Disorder | 1 |  |  |  | 2 |  |  | 1 |  |
+| Reproductive Disorders, Male |  |  |  |  |  |  |  |  |  |
+| Prostatic Disorder | <1 |  |  |  | 2 |  |  | 0 |  |
+| Resistance Mechanism Disorders |  |  |  |  |  |  |  |  |  |
+| Infection | 1 |  |  |  | 2 |  |  | 1 |  |
+| Infection Viral | 1 |  |  |  | 2 |  |  | <1 |  |
+| Moniliasis | <1 |  |  |  | 1 |  |  | 0 |  |
+| Respiratory System Disorders |  |  |  |  |  |  |  |  |  |
+| Pharyngitis | 2 |  |  |  | 6 |  |  | 3 |  |
+| Rhinitis | 6 |  |  |  | 7 |  |  | 6 |  |
+| Sinusitis | 4 |  |  |  | 5 |  |  | 6 |  |
+| Dyspnea | 1 |  |  |  | 1 |  |  | 2 |  |
+| Skin and Appendages Disorders |  |  |  |  |  |  |  |  |  |
+| Skin Disorder | <1 |  |  |  | 2 |  |  | 1 |  |
+| Sweating Increased | <1 |  |  |  | 1 |  |  | <1 |  |
+| Rash Erythematous | <1 |  |  |  | 1 |  |  | <1 |  |
+| Special Sense Other, Disorders |  |  |  |  |  |  |  |  |  |
+| Taste Perversion | 0 |  |  |  | 2 |  |  | 4 |  |
+| Urinary System Disorders |  |  |  |  |  |  |  |  |  |
+| Hematuria | 1 |  |  |  | 2 |  |  | <1 |  |
+| Urinary Tract Infection | 1 |  |  |  | 2 |  |  | 3 |  |
+| Micturition Frequency | 1 |  |  |  | 1 |  |  | 2 |  |
+| Urinary Incontinence | <1 |  |  |  | 2 |  |  | 1 |  |
+| Urine Abnormal | 0 |  |  |  | 1 |  |  | <1 |  |
+| Vision Disorders |  |  |  |  |  |  |  |  |  |
+| Vision Abnormal | 2 |  |  |  | 13 |  |  | 10 |  |
+| Diplopia | 5 |  |  |  | 10 |  |  | 10 |  |
+| White Cell and RES Disorders |  |  |  |  |  |  |  |  |  |
+| Leukopenia | 1 |  |  |  | 2 |  |  | 1 |  |
+| a Patients in these add-on trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to TOPAMAX® or placebo. |  |  |  |  |  |  |  |  |  |
+| b Values represent the percentage of patients reporting a given adverse event. Patients may have reported more than one adverse event during the study and can be included in more than one adverse event category. |  |  |  |  |  |  |  |  |  |
+| c Adverse events reported by at least 1% of patients in the TOPAMAX® 200-400 mg/day group and more common than in the placebo group are listed in this table. |  |  |  |  |  |  |  |  |  |
 
 ## Incidence in Study 119 – Add-On Therapy– Adults with Partial Onset Seizures
 
@@ -573,29 +573,29 @@ The most common dose-related adverse events were paresthesia, fatigue, nausea, a
 
 Table 11: Incidence (%) of Dose-Related Adverse Events From Placebo-Controlled, Migraine Trialsa
 
-| Adverse Event | Placebo (N =445) |  | 50 (N = 235) | 100 (N = 386) | 200 (N = 514) |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  | TOPAMAX® Dosage (mg/day) |  |  |  |  |
-| Paresthesia | 6 |  | 35 | 51 | 49 |  |
-| Fatigue | 11 |  | 14 | 15 | 19 |  |
-| Nausea | 8 |  | 9 | 13 | 14 |  |
-| Anorexia | 6 |  | 9 | 15 | 14 |  |
-| Dizziness | 10 |  | 8 | 9 | 12 |  |
-| Weight decrease | 1 |  | 6 | 9 | 11 |  |
-| Difficulty with Memory NOS | 2 |  | 7 | 7 | 11 |  |
-| Diarrhea | 4 |  | 9 | 11 | 11 |  |
-| Difficulty with Concentration/Attention | 2 |  | 3 | 6 | 10 |  |
-| Somnolence | 5 |  | 8 | 7 | 10 |  |
-| Hypoaesthesia | 2 |  | 6 | 7 | 8 |  |
-| Anxiety | 3 |  | 4 | 5 | 6 |  |
-| Depression | 4 |  | 3 | 4 | 6 |  |
-| Mood Problems | 2 |  | 3 | 6 | 5 |  |
-| Dry Mouth | 2 |  | 2 | 3 | 5 |  |
-| Confusion | 2 |  | 2 | 3 | 4 |  |
-| Involuntary Muscle Contractions | 1 |  | 2 | 2 | 4 |  |
-| Abnormal Vision | <1 |  | 1 | 2 | 3 |  |
-| Renal Calculus | 0 |  | 0 | 1 | 2 |  |
-| a The incidence rate of the adverse event in the 200 mg/day group was ≥2% than the rate in both the placebo group and the 50 mg/day group. |  |  |  |  |  |  |
+| Adverse Event | Placebo (N =445) | 50 (N = 235) | 100 (N = 386) | 200 (N = 514) |
+| --- | --- | --- | --- | --- |
+|  |  | TOPAMAX® Dosage (mg/day) |  |  |
+| Paresthesia | 6 | 35 | 51 | 49 |
+| Fatigue | 11 | 14 | 15 | 19 |
+| Nausea | 8 | 9 | 13 | 14 |
+| Anorexia | 6 | 9 | 15 | 14 |
+| Dizziness | 10 | 8 | 9 | 12 |
+| Weight decrease | 1 | 6 | 9 | 11 |
+| Difficulty with Memory NOS | 2 | 7 | 7 | 11 |
+| Diarrhea | 4 | 9 | 11 | 11 |
+| Difficulty with Concentration/Attention | 2 | 3 | 6 | 10 |
+| Somnolence | 5 | 8 | 7 | 10 |
+| Hypoaesthesia | 2 | 6 | 7 | 8 |
+| Anxiety | 3 | 4 | 5 | 6 |
+| Depression | 4 | 3 | 4 | 6 |
+| Mood Problems | 2 | 3 | 6 | 5 |
+| Dry Mouth | 2 | 2 | 3 | 5 |
+| Confusion | 2 | 2 | 3 | 4 |
+| Involuntary Muscle Contractions | 1 | 2 | 2 | 4 |
+| Abnormal Vision | <1 | 1 | 2 | 3 |
+| Renal Calculus | 0 | 0 | 1 | 2 |
+| a The incidence rate of the adverse event in the 200 mg/day group was ≥2% than the rate in both the placebo group and the 50 mg/day group. |  |  |  |  |
 
 ## Other Adverse Events Observed During Migraine Clinical Trials
 

@@ -1,7 +1,10 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020505",
+    "NDA020844"
+  ],
   "inn": "topiramate",
-  "labeler": "Ortho-McNeil Neurologics, Inc.",
+  "labeler": "McNeil Pharmaceuticals",
   "package_ndcs": [
     "0045-0639-65",
     "0045-0640-65",
@@ -10,7 +13,18 @@
     "0045-0645-65",
     "0045-0647-65"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, COATED PELLETS",
+      "generic": "topiramate",
+      "name": "Topamax"
+    },
+    {
+      "form": "TABLET, COATED",
+      "generic": "topiramate",
+      "name": "Topamax"
+    }
+  ],
   "setid": "dede8847-972b-41df-9f68-2e069f269af8",
   "source": "dailymed"
 }
