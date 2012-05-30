@@ -109,7 +109,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store NASONEX?
 
 - Store NASONEX at room temperature between 59°F to 86°F (15°C to 30°C).
-- Avoid prolonged exposure NASONEX container to bright light.
+- Avoid prolonged exposure of NASONEX container to bright light.
 - Shake well before each use.
 
 Keep NASONEX and all medicines out of the reach of children.
@@ -125,13 +125,13 @@ This Patient Information leaflet provides a summary of the most important inform
 If you would like more information, talk with your health-care provider.
 You can ask your health-care provider or pharmacist for information about NASONEX that is written for health professionals.
 
-For more information, go to www.NASONEX.com or call 1-800-526-4099.
+For more information, go to www.NASONEX.com or call 1-800-622-4477.
 
 What are the ingredients in NASONEX?
 
 Active Ingredients: mometasone furoate monohydrate
 
-Inactive Ingredients: glycerin, microcrystalline cellulose and carboxymethycellulose sodium, sodium citrate, citric acid, benzalkonium chloride, and polysorbate 80.
+Inactive Ingredients: glycerin, microcrystalline cellulose and carboxymethylcellulose sodium, sodium citrate, citric acid, benzalkonium chloride, and polysorbate 80.
 
 Patient Instructions for Use
 
@@ -142,9 +142,9 @@ If you have any questions, ask your health-care provider.
 
 Shake the bottle well before each use.
 
-- 1.Remove the plastic cap (Figure 1).
+- 1.Remove the plastic cap (See Figure 1).
 
-- 2.Before you use NASONEX for the first time prime the pump by pressing downward on the shoulders of the white nasal applicator using your index finger and middle finger while holding the base of the bottle with your thumb (Figure 2).
+- 2.Before you use NASONEX for the first time prime the pump by pressing downward on the shoulders of the white nasal applicator using your index finger and middle finger while holding the base of the bottle with your thumb (See Figure 2).
   Do Not pierce the nasal applicator.
   Press down and release the pump 10 times or until a fine spray appears.
   Do Not spray into eyes.
@@ -154,11 +154,11 @@ Shake the bottle well before each use.
 
 - 3.Gently blow your nose to clear the nostrils.
   Close 1 nostril.
-  Tilt your head forward slightly, keep the bottle upright, carefully insert the nasal applicator into the other nostril (Figure 3).
+  Tilt your head forward slightly, keep the bottle upright, carefully insert the nasal applicator into the other nostril (See Figure 3).
   Do Not spray directly onto the nasal septum (the wall between the two nostrils).
 
 - 4.For each spray, hold the spray bottle upright and press firmly downward 1 time on the shoulders of the white nasal applicator using your index and middle fingers while supporting the base of the bottle with your thumb.
-  Breathe gently inward through the nostril (Figure 4).
+  Breathe gently inward through the nostril (See Figure 4).
 
 |  |  | Note: It is important to keep the Nasonex unit in an upright orientation (as seen in Figure 4). Failure to do so may result in an incomplete or non-existent spray. |
 | --- | --- | --- |
@@ -183,20 +183,20 @@ Please see Applicator Cleaning Instructions.
 
 Patient Instruction for cleaning applicator
 
-- 1.To clean the nasal applicator, remove the plastic cap (Figure 5).
+- 1.To clean the nasal applicator, remove the plastic cap (See Figure 5).
 
 - 2.
-  Pull gently upward on the white nasal applicator to remove (Figure 6).
+  Pull gently upward on the white nasal applicator to remove (See Figure 6).
 
 - 3.
   Soak the nasal applicator in cold tap water and rinse both ends of the nasal applicator under cold tap water and dry.
-  (Figure 7).
+  (See Figure 7).
   Do not try to unblock the nasal applicator by inserting a pin or other sharp object as this will damage the applicator and cause you not to get the right dose of medicine.
 
 - 4.
-  Rinse the plastic cap under cold water and dry (Figure 8).
+  Rinse the plastic cap under cold water and dry (See Figure 8).
 
-- 5.Put the nasal applicator back together making sure the pump stem is reinserted into the applicator's center hole (Figure 9).
+- 5.Put the nasal applicator back together making sure the pump stem is reinserted into the applicator's center hole (See Figure 9).
 
 - 6.
   Reprime the pump by pressing downward on the shoulders of the white nasal applicator using your index and middle fingers while holding the base of the bottle with your thumb.
@@ -204,14 +204,19 @@ Patient Instruction for cleaning applicator
   Do Not spray into eyes.
   The pump is now ready to use.
   The pump may be stored unused for up to 1 week without repriming.
-  If unused for more than 1 week, reprime by spraying 2 times or until a fine spray appears (Figure 10).
+  If unused for more than 1 week, reprime by spraying 2 times or until a fine spray appears (See Figure 10).
 
 - 7.
-  Replace the plastic cap (Figure 11).
+  Replace the plastic cap (See Figure 11).
 
-Schering Corporation, a subsidiary of (logo) MERCK & CO., INC., Whitehouse Station, NJ 08889, USA.
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Copyright © 1997, 2010 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
+Manufactured by: Schering-Plough (Singapore) Pte Ltd 70 Tuas West Drive, Singapore 638414 Or Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+
+Copyright © 1997, 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+
 U.S. Patent No. 6,127,353.
-Rev.
-XX/XX XXXXXXX
+
+Rev: 04/2012
+
+032088-NSX-NS-PPI.7

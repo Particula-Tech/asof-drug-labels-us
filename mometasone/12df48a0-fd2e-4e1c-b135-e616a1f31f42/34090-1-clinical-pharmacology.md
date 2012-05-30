@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -83,4 +83,4 @@ Drug-Drug Interactions:
 
 Inhibitors of Cytochrome P450 3A4: In a drug interaction study, an inhaled dose of mometasone furoate 400 mcg was given to 24 healthy subjects twice daily for 9 days and ketoconazole 200 mg (as well as placebo) were given twice daily concomitantly on Days 4 to 9.
 Mometasone furoate plasma concentrations were <150 pcg/mL on Day 3 prior to coadministration of ketoconazole or placebo.
-Following concomitant administration of ketoconazole, 4 out of 12 subjects in the ketoconazole treatment group (n=12) had peak plasma concentrations of mometasone furoate >200 pcg/mL on Day 9 (211–324 pcg/mL).
+Following concomitant administration of ketoconazole, 4 out of 12 subjects in the ketoconazole treatment group (n=12) had peak plasma concentrations of mometasone furoate >200 pcg/mL on Day 9 (211-324 pcg/mL).

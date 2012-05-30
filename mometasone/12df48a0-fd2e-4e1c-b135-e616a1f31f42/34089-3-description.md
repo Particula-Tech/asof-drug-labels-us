@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Mometasone furoate monohydrate, the active component of NASONEX Nasal Spray, 50 mcg, is an anti-inflammatory corticosteroid having the chemical name, 9,21-Dichloro-11ß,17-dihydroxy-16α-methylpregna-1,4-diene-3,20-dione17-(2 furoate) monohydrate, and the following chemical structure:
 

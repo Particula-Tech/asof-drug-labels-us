@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 No formal drug-drug interaction studies have been conducted with NASONEX Nasal Spray 50 mcg.
 

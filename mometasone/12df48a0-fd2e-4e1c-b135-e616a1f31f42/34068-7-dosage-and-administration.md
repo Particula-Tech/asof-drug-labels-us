@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Administer NASONEX Nasal Spray 50 mcg by the intranasal route only.
 Prior to initial use of NASONEX Nasal Spray, 50 mcg, the pump must be primed by actuating ten times or until a fine spray appears.

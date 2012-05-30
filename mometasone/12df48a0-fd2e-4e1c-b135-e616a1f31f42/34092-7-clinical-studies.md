@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Allergic Rhinitis in Adults and Adolescents
 
@@ -40,9 +40,9 @@ TABLE 2: EFFECT OF NASONEX NASAL SPRAY IN TWO RANDOMIZED, PLACEBO-CONTROLLED TRI
 |  | NASONEX 200 mcg qd | NASONEX 200 mcg bid | Placebo | P value for NASONEX 200 mcg qd vs. placebo | P value for NASONEX 200 mcg bid vs. placebo |
 | --- | --- | --- | --- | --- | --- |
 | Study 1 | N=115 | N=122 | N=117 |  |  |
-| Baseline bilateral polyp gradepolyps in each nasal fossa were graded by the investigator based on endoscopic visualization, using a scale of 0–3 where 0 = no polyps; 1 = polyps in the middle meatus, not reaching below the inferior border of the middle turbinate; 2 = polyps reaching below the inferior border of the middle turbinate but not the inferior border of the inferior turbinate; 3 = polyps reaching to or below the border of the inferior turbinate, or polyps medial to the middle turbinate (score reflects sum of left and right nasal fossa grades). | 4.21 | 4.27 | 4.25 |  |  |
+| Baseline bilateral polyp gradepolyps in each nasal fossa were graded by the investigator based on endoscopic visualization, using a scale of 0-3 where 0 = no polyps; 1 = polyps in the middle meatus, not reaching below the inferior border of the middle turbinate; 2 = polyps reaching below the inferior border of the middle turbinate but not the inferior border of the inferior turbinate; 3 = polyps reaching to or below the border of the inferior turbinate, or polyps medial to the middle turbinate (score reflects sum of left and right nasal fossa grades). | 4.21 | 4.27 | 4.25 |  |  |
 | Mean change from baseline in bilateral polyps grade | -1.15 | -0.96 | -0.50 | <0.001 | 0.01 |
-| Baseline nasal congestionnasal congestion/obstruction was scored daily by the patient using a 0–3 categorical scale where 0 = no symptoms, 1 = mild symptoms, 2 = moderate symptoms and 3 = severe symptoms. | 2.29 | 2.35 | 2.28 |  |  |
+| Baseline nasal congestionnasal congestion/obstruction was scored daily by the patient using a 0-3 categorical scale where 0 = no symptoms, 1 = mild symptoms, 2 = moderate symptoms and 3 = severe symptoms. | 2.29 | 2.35 | 2.28 |  |  |
 | Mean change from baseline in nasal congestion | -0.47 | -0.61 | -0.24 | 0.001 | <0.001 |
 | Study 2 | N=102 | N=102 | N=106 |  |  |
 | Baseline bilateral polyp grade | 4.00 | 4.10 | 4.17 |  |  |
@@ -64,7 +64,7 @@ Two out of three studies demonstrated that treatment with Nasonex Nasal Spray si
 
 TABLE 3: EFFECT OF NASONEX NASAL SPRAY IN TWO RANDOMIZED, PLACEBO-CONTROLLED TRIALS ON NASAL CONGESTION IN PATIENTS WITH SEASONAL ALLERGIC RHINITIS
 
-|  | Treatment (Patient Number) | Baseline nasal congestion/obstruction was scored daily by the patient using a 0–3 categorical scale where 0 = no symptoms, 1 = mild symptoms, 2 = moderate symptoms and 3 = severe symptoms. LS Mean LS Mean and p- value was from an ANCOVA model with treatment, baseline value, and center effects. | Change from Baseline LS Mean | Difference from Placebo LS Mean | P value for NASONEX 200 mcg qd vs. placebo |
+|  | Treatment (Patient Number) | Baseline nasal congestion/obstruction was scored daily by the patient using a 0-3 categorical scale where 0 = no symptoms, 1 = mild symptoms, 2 = moderate symptoms and 3 = severe symptoms. LS Mean LS Mean and p- value was from an ANCOVA model with treatment, baseline value, and center effects. | Change from Baseline LS Mean | Difference from Placebo LS Mean | P value for NASONEX 200 mcg qd vs. placebo |
 | --- | --- | --- | --- | --- | --- |
 | Study 1 |  |  |  |  |  |
 |  | NASONEX 200 mcg qd (N=176) | 2.63 | -0.64 | -0.15 | 0.006 |

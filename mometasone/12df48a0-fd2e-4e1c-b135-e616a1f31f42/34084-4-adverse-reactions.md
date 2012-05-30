@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 Systemic and local corticosteroid use may result in the following:
 
@@ -48,7 +48,7 @@ Two percent or less of patients in clinical trials who received NASONEX Nasal Sp
 
 Adverse events which occurred in ≥5% of pediatric patients (ages 3 to 11 years) treated with NASONEX Nasal Spray 50 mcg, 100 mcg/day vs. placebo (regardless of relationship to treatment) and more frequently than in the placebo group included upper respiratory tract infection (5% in NASONEX Nasal Spray 50 mcg group vs. 4% in placebo) and vomiting (5% in NASONEX Nasal Spray 50 mcg group vs. 4% in placebo).
 
-Other adverse events which occurred in less than 5% but greater than or equal to 2% of pediatric patients (ages 3 to 11 years) treated NASONEX Nasal Spray 50 mcg, 100 mcg/day vs. placebo (regardless of relationship to treatment) and more frequently than in the placebo group included: diarrhea, nasal irritation, otitis media, and wheezing.
+Other adverse events which occurred in less than 5% but greater than or equal to 2% of pediatric patients (ages 3 to 11 years) treated with NASONEX Nasal Spray 50 mcg, 100 mcg/day vs. placebo (regardless of relationship to treatment) and more frequently than in the placebo group included: diarrhea, nasal irritation, otitis media, and wheezing.
 
 The adverse event (regardless of relationship to treatment) reported by 5% of pediatric patients ages 2 to 5 years who received NASONEX Nasal Spray, 50 mcg, 100 mcg/day in a clinical trial vs. placebo including 56 subjects (28 each NASONEX Nasal Spray, 50 mcg and placebo) and that was more common with NASONEX Nasal Spray, 50 mcg than placebo, included: upper respiratory tract infection (7% vs. 0%, respectively).
 The other adverse event which occurred in less than 5% but greater than or equal to 2% of mometasone furoate pediatric patients ages 2 to 5 years treated with 100 mcg doses vs. placebo (regardless of relationship to treatment) and more frequently than in the placebo group included: skin trauma.

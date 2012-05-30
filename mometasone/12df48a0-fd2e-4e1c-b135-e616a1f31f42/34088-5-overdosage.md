@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 There are no data available on the effects of acute or chronic overdosage with NASONEX Nasal Spray 50 mcg.
 Because of low systemic bioavailability, and an absence of acute drug-related systemic findings in clinical studies, overdose is unlikely to require any therapy other than observation.

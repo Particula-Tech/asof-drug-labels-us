@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -65,4 +65,4 @@ The adverse reactions reported in this population were similar in type and incid
 
 ## 8.6 Hepatic Impairment
 
-Concentrations of mometasone furoate appear to increase with severity of hepatic impairment [see Clinical Pharmacology (12.3)]
+Concentrations of mometasone furoate appear to increase with severity of hepatic impairment [see Clinical Pharmacology (12.3)].

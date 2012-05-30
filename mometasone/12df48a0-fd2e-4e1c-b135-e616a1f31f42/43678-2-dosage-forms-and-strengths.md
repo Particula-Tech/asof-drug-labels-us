@@ -1,4 +1,4 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 NASONEX Nasal Spray 50 mcg is a metered-dose, manual pump spray unit containing an aqueous suspension of mometasone furoate monohydrate equivalent to 0.05% w/w mometasone furoate calculated on the anhydrous basis.
 

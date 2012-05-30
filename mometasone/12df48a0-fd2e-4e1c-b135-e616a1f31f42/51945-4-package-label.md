@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 17 g Carton
+PRINCIPAL DISPLAY PANEL - Carton 17 g Bottle
 
 NDC 0085-1288-01
 
@@ -12,6 +12,8 @@ For Intranasal Use Only
 
 Rx Only
 
-SCHERING CORPORATION
+NASONEX®
+
+(mometasone furoate monohydrate) Nasal Spray, 50mcg* *calculated on the anhydrous basis
 
 For more NASONEX® information log on to www.nasonex.com

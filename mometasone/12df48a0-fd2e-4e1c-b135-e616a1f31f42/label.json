@@ -3,14 +3,14 @@
     "NDA020762"
   ],
   "inn": "mometasone",
-  "labeler": "Schering Corporation",
+  "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
     "0085-1288-01"
   ],
   "products": [
     {
       "form": "SPRAY, METERED",
-      "generic": "mometasone furoate",
+      "generic": "mometasone furoate monohydrate",
       "name": "NASONEX"
     }
   ],
