@@ -4,6 +4,8 @@ COSOPT PF is supplied in a foil pouch containing 15 low density polyethylene 0.2
 
 NDC 0006-3629-60, package of 60 single-use vials.
 
+NDC 0006-3629-62, package of 180 single-use vials.
+
 Store COSOPT PF at 20-25°C (68-77°F).
 Do not freeze.
 

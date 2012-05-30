@@ -16,6 +16,6 @@ Inactive Ingredients: hydroxyethyl cellulose, mannitol, sodium citrate, sodium h
 
 Rx only
 
-60 Single-Use Containers: 4 pouches × 15 Single-Use Containers (0.2 mL in each single-use container)
+60 Single-Use Containers: 4 pouches x 15 Single-Use Containers (0.2 mL in each single-use container)
 
-6014003
+6081000
