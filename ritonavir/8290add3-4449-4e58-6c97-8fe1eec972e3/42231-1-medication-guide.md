@@ -288,7 +288,7 @@ KALETRA oral solution contains 42.4% alcohol (v/v).
 The makers of these brands are not affiliated with and do not endorse Abbott Laboratories or its products.
 
 Rev.
-04/2012
+05/2012
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
