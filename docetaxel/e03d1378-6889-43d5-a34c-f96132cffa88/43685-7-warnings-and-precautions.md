@@ -1,4 +1,4 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5. WARNINGS AND PRECAUTIONS
 
 ## 5.1 Toxic Deaths
 
@@ -13,29 +13,29 @@ Non-Small Cell Lung Cancer
 
 Docetaxel administered at a dose of 100 mg/m2 in patients with locally advanced or metastatic non-small cell lung cancer who had a history of prior platinum-based chemotherapy was associated with increased treatment-related mortality (14% and 5% in two randomized, controlled studies).
 There were 2.8% treatment-related deaths among the 176 patients treated at the 75 mg/m2 dose in the randomized trials.
-Among patients who experienced treatment-related mortality at the 75 mg/m2 dose level, 3 of 5 patients had an ECOG PS of 2 at study entry [see DOSAGE AND ADMINISTRATION (2.2), CLINICAL STUDIES (14)].
+Among patients who experienced treatment-related mortality at the 75 mg/m2 dose level, 3 of 5 patients had an ECOG PS of 2 at study entry [see Dosage and Administration (2.2), Clinical Studies (14)].
 
 ## 5.2 Hepatic Impairment
 
-Patients with combined abnormalities of transaminases and alkaline phosphatase should not be treated with Docetaxel Injection [see BOXED WARNING, USE IN SPECIFIC POPULATIONS (8.6), CLINICAL STUDIES (14)].
+Patients with combined abnormalities of transaminases and alkaline phosphatase should not be treated with Docetaxel Injection [see Boxed Warning, Use in Specific Populations (8.6), Clinical Studies (14)].
 
 ## 5.3 Hematologic Effects
 
 Perform frequent peripheral blood cell counts on all patients receiving Docetaxel Injection.
 Patients should not be retreated with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1500 cells/mm3 and platelets recover to a level > 100,000 cells/mm3.
 
-A 25% reduction in the dose of Docetaxel Injection is recommended during subsequent cycles following severe neutropenia (<500 cells/mm3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a Docetaxel Injection cycle [see DOSAGE AND ADMINISTRATION (2.7)].
+A 25% reduction in the dose of Docetaxel Injection is recommended during subsequent cycles following severe neutropenia (<500 cells/mm3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a Docetaxel Injection cycle [see Dosage and Administration (2.7)].
 
 Neutropenia (<2000 neutrophils/mm3) occurs in virtually all patients given 60 mg/m2 to 100 mg/m2 of docetaxel and grade 4 neutropenia (<500 cells/mm3) occurs in 85% of patients given 100 mg/m2 and 75% of patients given 60 mg/m2.
 Frequent monitoring of blood counts is, therefore, essential so that dose can be adjusted.
 Docetaxel Injection should not be administered to patients with neutrophils <1500 cells/mm3.
 
 Febrile neutropenia occurred in about 12% of patients given 100 mg/m2 but was very uncommon in patients given 60 mg/m2.
-Hematologic responses, febrile reactions and infections, and rates of septic death for different regimens are dose related [see ADVERSE REACTIONS (6.1), CLINICAL STUDIES (14)].
+Hematologic responses, febrile reactions and infections, and rates of septic death for different regimens are dose related [see Adverse Reactions (6.1), Clinical Studies (14)].
 
 Three breast cancer patients with severe liver impairment (bilirubin >1.7 times ULN) developed fatal gastrointestinal bleeding associated with severe drug-induced thrombocytopenia.
 In gastric cancer patients treated with docetaxel in combination with cisplatin and fluorouracil (TCF), febrile neutropenia and/or neutropenic infection occurred in 12% of patients receiving G-CSF compared to 28% who did not.
-Patients receiving TCF should be closely monitored during the first and subsequent cycles for febrile neutropenia and neutropenic infection [see DOSAGE AND ADMINISTRATION (2.7), ADVERSE REACTIONS (6)].
+Patients receiving TCF should be closely monitored during the first and subsequent cycles for febrile neutropenia and neutropenic infection [see Dosage and Administration (2.7), Adverse Reactions (6)].
 
 ## 5.4 Hypersensitivity Reactions
 
@@ -46,12 +46,12 @@ Patients with a history of severe hypersensitivity reactions should not be recha
 
 Hypersensitivity reactions may occur within a few minutes following initiation of a Docetaxel Injection infusion.
 If minor reactions such as flushing or localized skin reactions occur, interruption of therapy is not required.
-All patients should be premedicated with an oral corticosteroid prior to the initiation of the infusion of Docetaxel Injection [see DOSAGE AND ADMINISTRATION (2.6)].
+All patients should be premedicated with an oral corticosteroid prior to the initiation of the infusion of Docetaxel Injection [see Dosage and Administration (2.6)].
 
 ## 5.5 Fluid Retention
 
 Severe fluid retention has been reported following docetaxel therapy.
-Patients should be premedicated with oral corticosteroids prior to each Docetaxel Injection administration to reduce the incidence and severity of fluid retention [see DOSAGE AND ADMINISTRATION (2.6)].
+Patients should be premedicated with oral corticosteroids prior to each Docetaxel Injection administration to reduce the incidence and severity of fluid retention [see Dosage and Administration (2.6)].
 Patients with pre-existing effusions should be closely monitored from the first dose for the possible exacerbation of the effusions.
 
 When fluid retention occurs, peripheral edema usually starts in the lower extremities and may become generalized with a median weight gain of 2 kg.
@@ -66,13 +66,13 @@ Patients developing peripheral edema may be treated with standard measures, e.g.
 ## 5.6 Acute Myeloid Leukemia
 
 Treatment-related acute myeloid leukemia (AML) or myelodysplasia has occurred in patients given anthracyclines and/or cyclophosphamide, including use in adjuvant therapy for breast cancer.
-In the adjuvant breast cancer trial (TAX316) AML occurred in 3 of 744 patients who received docetaxel, doxorubicin and cyclophosphamide (TAC) and in 1 of 736 patients who received fluorouracil, doxorubicin and cyclophosphamide [see CLINICAL STUDIES (14.2)].
+In the adjuvant breast cancer trial (TAX316) AML occurred in 3 of 744 patients who received docetaxel, doxorubicin and cyclophosphamide (TAC) and in 1 of 736 patients who received fluorouracil, doxorubicin and cyclophosphamide [see Clinical Studies (14.2)].
 In TAC-treated patients, the risk of delayed myelodysplasia or myeloid leukemia requires hematological follow-up.
 
 ## 5.7 Cutaneous Reactions
 
 Localized erythema of the extremities with edema followed by desquamation has been observed.
-In case of severe skin toxicity, an adjustment in dosage is recommended [see DOSAGE AND ADMINISTRATION (2.7)].
+In case of severe skin toxicity, an adjustment in dosage is recommended [see Dosage and Administration (2.7)].
 The discontinuation rate due to skin toxicity was 1.6% (15/965) for metastatic breast cancer patients.
 Among 92 breast cancer patients premedicated with 3-day corticosteroids, there were no cases of severe skin toxicity reported and no patient discontinued docetaxel due to skin toxicity.
 
@@ -80,7 +80,7 @@ Among 92 breast cancer patients premedicated with 3-day corticosteroids, there w
 
 Severe neurosensory symptoms (e.g. paresthesia, dysesthesia, pain) were observed in 5.5% (53/965) of metastatic breast cancer patients, and resulted in treatment discontinuation in 6.1%.
 When these symptoms occur, dosage must be adjusted.
-If symptoms persist, treatment should be discontinued [see DOSAGE AND ADMINISTRATION (2.7)].
+If symptoms persist, treatment should be discontinued [see Dosage and Administration (2.7)].
 Patients who experienced neurotoxicity in clinical trials and for whom follow-up information on the complete resolution of the event was available had spontaneous reversal of symptoms with a median of 9 weeks from onset (range: 0 to 106 weeks).
 Severe peripheral motor neuropathy mainly manifested as distal extremity weakness occurred in 4.4% (42/965).
 
@@ -97,4 +97,4 @@ Embryofetal effects in animals occurred at doses as low as 1/50 and 1/300 the re
 
 There are no adequate and well-controlled studies in pregnant women using Docetaxel Injection.
 If Docetaxel Injection is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant during therapy with Docetaxel Injection [see USE IN SPECIFIC POPULATIONS (8.1)].
+Women of childbearing potential should be advised to avoid becoming pregnant during therapy with Docetaxel Injection [see Use in Specific Populations (8.1)].

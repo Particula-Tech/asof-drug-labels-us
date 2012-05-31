@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16. HOW SUPPLIED/STORAGE AND HANDLING
 
 ## 16.1 How Supplied
 
@@ -23,4 +23,4 @@ After initial puncture, Docetaxel Injection multiple dose vials are stable for 2
 ## 16.3 Handling and Disposal
 
 Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published [see REFERENCES (15)].
+Several guidelines on this subject have been published [see References (15)].

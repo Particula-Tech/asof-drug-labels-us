@@ -1,4 +1,4 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12. CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -19,7 +19,7 @@ Mean steady state volume of distribution was 113 L. In vitro studies showed that
 In three cancer patients, the in vitro binding to plasma proteins was found to be approximately 97%.
 Dexamethasone does not affect the protein binding of docetaxel.
 
-Metabolism: In vitro drug interaction studies revealed that docetaxel is metabolized by the CYP3A4 isoenzyme, and its metabolism may be modified by the concomitant administration of compounds that induce, inhibit, or are metabolized by cytochrome P450 3A4 [see DRUG INTERACTIONS (7)].
+Metabolism: In vitro drug interaction studies revealed that docetaxel is metabolized by the CYP3A4 isoenzyme, and its metabolism may be modified by the concomitant administration of compounds that induce, inhibit, or are metabolized by cytochrome P450 3A4 [see Drug Interactions (7)].
 
 Elimination: A study of 14C-docetaxel was conducted in three cancer patients.
 Docetaxel was eliminated in both the urine and feces following oxidative metabolism of the tert-butyl ester group, but fecal excretion was the main elimination route.
@@ -36,13 +36,13 @@ Hepatic Impairment: The population pharmacokinetic analysis described above indi
 This average, however, includes a substantial range and there is, at present, no measurement that would allow recommendation for dose adjustment in such patients.
 Patients with combined abnormalities of transaminase and alkaline phosphatase should not be treated with Docetaxel Injection.
 Patients with severe hepatic impairment have not been studied.
-[see WARNINGS AND PRECAUTIONS (5.2) and USE IN SPECIFIC POPULATIONS (8.6)]
+[see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
 
 Effect of Race: Mean total body clearance for Japanese patients dosed at the range of 10 mg/m2 to 90 mg/m2 was similar to that of European/American populations dosed at 100 mg/m2, suggesting no significant difference in the elimination of docetaxel in the two populations.
 
 Effect of Ketoconazole: The effect of ketoconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of docetaxel was investigated in 7 cancer patients.
-Patients were randomized to receive either docetaxel (100 mg/m² intravenous) alone or docetaxel (10 mg/m² intravenous) in combination with ketoconazole (200 mg orally once daily for 3 days) in a crossover design with a 3-week washout period.
-The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was co-administration with ketoconazole [see DOSAGE AND ADMINISTRATION (2.7) and DRUG-DRUG INTERACTIONS (7)].
+Patients were randomized to receive either docetaxel (100 mg/m2 intravenous) alone or docetaxel (10 mg/m2 intravenous) in combination with ketoconazole (200 mg orally once daily for 3 days) in a crossover design with a 3-week washout period.
+The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was co-administration with ketoconazole [see Dosage and Administration (2.7) and Drug-Drug Interactions (7)].
 
 Effect of Combination Therapies:
 

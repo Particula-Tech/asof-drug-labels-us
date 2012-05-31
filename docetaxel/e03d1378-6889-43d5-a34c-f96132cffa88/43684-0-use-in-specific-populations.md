@@ -1,8 +1,8 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8. USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see ' WARNINGS AND PRECAUTIONS' section]
+Pregnancy Category D [see ‘Warnings and Precautions’ section]
 
 Based on its mechanism of action and findings in animals, Docetaxel Injection can cause fetal harm when administered to a pregnant woman.
 If Docetaxel Injection is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
@@ -63,4 +63,4 @@ Other reported clinical experience with this treatment regimen has not identifie
 ## 8.6 Hepatic Impairment
 
 Patients with bilirubin >ULN should not receive Docetaxel Injection.
-Also, patients with AST and/or ALT >1.5 x ULN concomitant with alkaline phosphatase >2.5 x ULN should not receive Docetaxel Injection [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.2), CLINICAL PHARMACOLOGY (12.3)].
+Also, patients with AST and/or ALT >1.5 x ULN concomitant with alkaline phosphatase >2.5 x ULN should not receive Docetaxel Injection [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].

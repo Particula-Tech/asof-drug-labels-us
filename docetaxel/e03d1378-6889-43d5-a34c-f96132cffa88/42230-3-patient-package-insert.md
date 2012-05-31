@@ -1,22 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
-
-See FDA-Approved Patient Labeling
-
-• Docetaxel Injection may cause fetal harm.
-Advise patients to avoid becoming pregnant while receiving this drug.
-Women of childbearing potential should use effective contraceptives if receiving Docetaxel Injection [see WARNINGS AND PRECAUTIONS (5.10) and USE IN SPECIFIC POPULATIONS (8.1)].
-
-- Obtain detailed allergy and concomitant drug information from the patient prior to Docetaxel Injection administration.
-- Explain the significance of oral corticosteroids such as dexamethasone administration to the patient to help facilitate compliance.
-  Instruct patients to report if they were not compliant with oral corticosteroid regimen.
-- Instruct patients to immediately report signs of a hypersensitivity reaction.
-- Tell patients to watch for signs of fluid retention such as peripheral edema in the lower extremities, weight gain and dyspnea.
-- Explain the significance of routine blood cell counts.
-  Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever.
-- Instruct patients to report myalgia, cutaneous, or neurologic reactions.
-- Explain to patients that side effects such as nausea, vomiting, diarrhea, constipation, fatigue, excessive tearing, infusion site reactions, and hair loss are associated with docetaxel administration.
-
-Patient Information
+# Patient Information
 
 Docetaxel Injection
 
@@ -55,7 +37,7 @@ Tell your doctor right away if you have any of these signs of a serious allergic
 
 - trouble breathing
 - sudden swelling of your face, lips, tongue, throat, or trouble swallowing
-- hives (raised bumps), rash, or redness all over your body
+- hives (raised bumps), rash, or redness all over your body.
 
 4.
 Your body may hold too much fluid (severe fluid retention) during treatment with Docetaxel Injection.
@@ -80,15 +62,12 @@ Who should not take Docetaxel Injection?
 
 Do not take Docetaxel Injection if you:
 
-• have had a severe allergic reaction to:
+- have had a severe allergic reaction to:
+  - docetaxel, the active ingredient in Docetaxel Injection, or
+  - any other medicines that contain polysorbate 80.
+    Ask your doctor or pharmacist if you are not sure.See "What is the most important information I should know about Docetaxel Injection?" for the signs and symptoms of a severe allergic reaction.
 
-- o docetaxel, the active ingredient in Docetaxel Injection, or
-- o any other medicines that contain polysorbate 80.
-  Ask your doctor or pharmacist if you are not sure.
-
-See "What is the most important information I should know about Docetaxel Injection?" for the signs and symptoms of a severe allergic reaction.
-
-• have a low white blood cell count.
+- have a low white blood cell count.
 
 What should I tell my doctor before receiving Docetaxel Injection?
 
@@ -172,12 +151,21 @@ Active ingredient: docetaxel
 
 Inactive ingredients include: ethanol and polysorbate 80
 
-Manufactured for: Manufactured by
+| Every three-week injection of Docetaxel Injection for breast, non-small cell lung and stomach, and head and neck cancersTake your oral corticosteroid medicine as your doctor tells you. Oral corticosteroid dosing: Day 1 Date:________ Time: _____AM_____ PM Day 2 Date:________ Time: _____AM_____ PM(Docetaxel Injection Treatment Day) Day 3 Date:________ Time: _____AM_____ PM |
+| --- |
 
-Princeton, NJ 08540 EBEWE Pharma Ges.m.b.H.
+| Every three-week injection of Docetaxel Injection for prostate cancerTake your oral corticosteroid medicine as your doctor tells you. Oral corticosteroid dosing: Date:________ Time: ________ Date:________ Time: ________(Docetaxel Injection Treatment Day) Time: ________ |
+| --- |
+
+Manufactured for:
+
+Princeton, NJ 08540
+
+Manufactured by:
+
+EBEWE Pharma Ges.m.b.H.
 Nfg.KG
 
 A-4866 Unterach, Austria
 
-Rev.
-June 2011
+April 2012

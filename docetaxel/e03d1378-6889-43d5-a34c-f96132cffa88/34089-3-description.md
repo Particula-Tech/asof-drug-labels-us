@@ -1,4 +1,4 @@
-# 11 DESCRIPTION
+# 11. DESCRIPTION
 
 Docetaxel is an antineoplastic agent belonging to the taxoid family.
 It is prepared by semisynthesis beginning with a precursor extracted from the renewable needle biomass of yew plants.

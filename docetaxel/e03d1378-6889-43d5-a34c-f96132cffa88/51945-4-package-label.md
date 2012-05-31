@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Principal Display Panel
 
 Rx only NDC 66758-050-01
 
@@ -15,15 +15,12 @@ INJECTION
 For Intravenous Infusion Only
 
 Ready to add to infusion solution.
-
-Check concentration prior to
-
-preparation.
-See package insert
-
-for complete instructions.
+Check concentration prior to preparation.
+See package insert for complete instructions.
 
 SANDOZ
+
+# Package/Label Principal Display Panel
 
 Rx only NDC 66758-050-02
 
@@ -40,15 +37,12 @@ INJECTION
 For Intravenous Infusion Only
 
 Ready to add to infusion solution.
-
-Check concentration prior to
-
-preparation.
-See package insert
-
-for complete instructions.
+Check concentration prior to preparation.
+See package insert for complete instruction
 
 SANDOZ
+
+# Package/Label Principal Display Panel
 
 Rx only NDC 66758-050-03
 
@@ -65,12 +59,7 @@ INJECTION
 For Intravenous Infusion Only
 
 Ready to add to infusion solution.
-
-Check concentration prior to
-
-preparation.
-See package insert
-
-for complete instructions.
+Check concentration prior to preparation.
+See package insert for complete instructions.
 
 SANDOZ
