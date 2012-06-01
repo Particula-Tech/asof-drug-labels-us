@@ -3,13 +3,15 @@
     "NDA022518"
   ],
   "inn": "formoterol",
-  "labeler": "Schering Corporation",
+  "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
     "0085-4610-01",
     "0085-4610-02",
+    "0085-4610-05",
     "0085-4610-06",
     "0085-7206-01",
     "0085-7206-02",
+    "0085-7206-07",
     "0085-7206-08"
   ],
   "products": [
