@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL 15 mg / 500 mg 60 Tablet Bottle
+PRINCIPAL DISPLAY PANEL 15 mg / 500 mg 60 Tablet Bottle
 
 NDC 64764-155-60 60 Tablets
 
@@ -14,7 +14,7 @@ Takeda Logo
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL 15 mg / 850 mg 60 Tablet Bottle
+PRINCIPAL DISPLAY PANEL 15 mg / 850 mg 60 Tablet Bottle
 
 NDC 64764-158-60 60 Tablets
 
