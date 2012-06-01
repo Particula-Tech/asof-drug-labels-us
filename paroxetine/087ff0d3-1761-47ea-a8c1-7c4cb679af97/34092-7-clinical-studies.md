@@ -39,7 +39,7 @@ Subgroup analyses of studies utilizing the immediate-release formulation of paro
 
 The effectiveness of Paroxetine Hydrochloride Controlled-Release Tablets for the treatment of PMDD utilizing a continuous dosing regimen has been established in 2 placebo-controlled trials.
 Patients in these trials met DSM-IV criteria for PMDD.
-In a pool of 1,030 patients, treated with daily doses of Paroxetine Hydrochloride Controlled-Release Tablets 12.5 or 25 mg/day, or placebo the mean duration of the PMDD symptoms was approximately 11 ± 7 years.
+In a pool of 1,030 patients, treated with daily doses of Paroxetine Hydrochloride Controlled-Release Tablets 12.5 or 25 mg/day, or placebo the mean duration of the PMDD symptoms was approximately 11 7 years.
 Patients on systemic hormonal contraceptives were excluded from these trials.
 Therefore, the efficacy of Paroxetine Hydrochloride Controlled-Release Tablets in combination with systemic (including oral) hormonal contraceptives for the continuous daily treatment of PMDD is unknown.
 In both positive studies, patients (N = 672) were treated with 12.5 mg/day or 25 mg/day of Paroxetine Hydrochloride Controlled-Release Tablets or placebo continuously throughout the menstrual cycle for a period of 3 menstrual cycles.

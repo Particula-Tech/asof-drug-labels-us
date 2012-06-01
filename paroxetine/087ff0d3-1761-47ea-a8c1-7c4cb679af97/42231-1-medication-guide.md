@@ -16,9 +16,7 @@ Suicidal thoughts or actions:
 
 - Paroxetine Hydrochloride and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment or when the dose is changed.
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-- Watch for these changes and call your healthcare provider right away if you notice:
-  - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-  - Pay particular attention to such changes when Paroxetine Hydrochloride Controlled-Release Tablets are started or when the dose is changed.
+- Watch for these changes and call your healthcare provider right away if you notice: ●New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe. ●Pay particular attention to such changes when Paroxetine Hydrochloride Controlled-Release Tablets are started or when the dose is changed.
 
 Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 
@@ -113,21 +111,14 @@ Do not take Paroxetine Hydrochloride Controlled-Release Tablets if you:
 
 - are allergic to paroxetine or any of the ingredients in this product.
   See the end of this Medication Guide for a complete list of ingredients in Paroxetine Hydrochloride Controlled-Release Tablets.
-
 - take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
 - Do not take an MAOI within 2 weeks of stopping Paroxetine Hydrochloride Controlled-Release Tablets unless directed to do so by your physician.
 - Do not start Paroxetine Hydrochloride Controlled-Release Tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 - People who take Paroxetine Hydrochloride Controlled-Release Tablets close in time to an MAOI may have serious or even life-threatening side effects.
-  Get medical help right away if you have any of these symptoms:
-  - high fever
-  - uncontrolled muscle spasms
-  - stiff muscles
-  - rapid changes in heart rate or blood pressure
-  - confusion
-  - loss of consciousness (pass out)
+  Get medical help right away if you have any of these symptoms:●high fever●uncontrolled muscle spasms●stiff muscles●rapid changes in heart rate or blood pressure●confusion●loss of consciousness (pass out)
 
-- take MELLARIL® (thioridazine).
+- Take MELLARIL® (thioridazine).
   Do not take MELLARIL® together with Paroxetine Hydrochloride Controlled-Release Tablets because this can cause serious heart rhythm problems or sudden death.
 - take the antipsychotic medicine pimozide (ORAP®) because this can cause serious heart problems.
 
@@ -144,22 +135,8 @@ Before starting Paroxetine Hydrochloride Controlled-Release Tablets, tell your h
 - are breastfeeding.
   Paroxetine Hydrochloride Controlled-Release Tablets pass into your milk.
   Talk to your healthcare provider about the best way to feed your baby while taking Paroxetine Hydrochloride Controlled-Release Tablets.
-- are taking certain drugs such as:
-  - triptans used to treat migraine headache
-  - other antidepressants (SSRIs, SNRIs, tricyclics, or lithium) or antipsychotics
-  - drugs that affect serotonin, such as lithium, tramadol, tryptophan, St. John’s wort
-  - certain drugs used to treat irregular heart beats
-  - certain drugs used to treat schizophrenia
-  - certain drugs used to treat HIV infection
-  - certain drugs that affect the blood, such as warfarin, aspirin, and ibuprofen
-  - certain drugs used to treat epilepsy
-  - atomoxetine
-  - cimetidine
-  - fentanyl
-  - metoprolol
-  - pimozide
-  - procyclidine
-  - tamoxifen
+- are taking certain drugs such as: ●triptans used to treat migraine headache●other antidepressants (SSRIs, SNRIs, tricyclics, or lithium) or antipsychotics●drugs that affect serotonin, such as lithium, tramadol, tryptophan, St. John’s wort●certain drugs used to treat irregular heart beats●certain drugs used to treat schizophrenia●certain drugs used to treat HIV infection ●certain drugs that affect the blood, such as warfarin, aspirin, and ibuprofen●certain drugs used to treat epilepsy●atomoxetine●cimetidine●fentanyl●metoprolol●pimozide●procyclidine●tamoxifen
+
 - have liver problems
 - have kidney problems
 - have heart problems
@@ -225,7 +202,7 @@ YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088 or 1-800-332-1088.
 
 How should I store Paroxetine Hydrochloride Controlled-Release Tablets?
 
-- Store Paroxetine Hydrochloride Controlled-Release Tablets at or below room temperature (77ºF or 25ºC).
+- Store Paroxetine Hydrochloride Controlled-Release Tablets at or below room temperature (77F or 25C).
 - Keep Paroxetine Hydrochloride Controlled-Release Tablets away from light.
 - Keep bottle of Paroxetine Hydrochloride Controlled-Release Tablets closed tightly.
 
@@ -242,7 +219,7 @@ This Medication Guide summarizes the most important information about Paroxetine
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about Paroxetine Hydrochloride Controlled-Release Tablets that is written for healthcare professionals.
 
-For more information about Paroxetine Hydrochloride Controlled-Release Tablets call 800-706-5575.
+For more information about Paroxetine Hydrochloride Controlled-Release Tablets call 1-800-706-5575.
 
 What are the ingredients in Paroxetine Hydrochloride Controlled-Release Tablets?
 

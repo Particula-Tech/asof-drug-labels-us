@@ -93,7 +93,6 @@ The findings from these studies are summarized below:
   No increase in the risk of overall congenital malformations was seen in the paroxetine-exposed infants.
   The cardiac malformations in the paroxetine-exposed infants were primarily ventricular septal defects (VSDs) and atrial septal defects (ASDs).
   Septal defects range in severity from those that resolve spontaneously to those which require surgery.
-
 - A separate retrospective cohort study from the United States (United Healthcare data) evaluated 5,956 infants of mothers dispensed antidepressants during the first trimester (n = 815 for paroxetine).
   This study showed a trend towards an increased risk for cardiovascular malformations for paroxetine (risk of 1.5%) compared to other antidepressants (risk of 1%), for an OR of 1.5 (95% confidence interval 0.8 to 2.9).
   Of the 12 paroxetine-exposed infants with cardiovascular malformations, 9 had VSDs.
@@ -279,7 +278,7 @@ Patients should be advised to notify their physician if they become pregnant or 
 
 ### Nursing
 
-Patients should be advised to notify their physician if they are breastfeeding an infant (see PRECAUTIONS—Nursing Mothers).
+Patients should be advised to notify their physician if they are breastfeeding an infant (see PRECAUTIONS: Nursing Mothers).
 
 ## Laboratory Tests
 
@@ -462,7 +461,7 @@ Some clinical studies have shown that SSRIs (including paroxetine) may affect sp
 
 A reduced pregnancy rate was found in reproduction studies in rats at a dose of paroxetine of 15 mg/kg/day, which is approximately twice the MRHD on a mg/m2 basis.
 Irreversible lesions occurred in the reproductive tract of male rats after dosing in toxicity studies for 2 to 52 weeks.
-These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (approximately 8 and 4 times the MRHD on a mg/m2 basis)
+These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (approximately 8 and 4 times the MRHD on a mg/m2 basis).
 
 ## Pregnancy
 
@@ -495,4 +494,4 @@ SSRIs and SNRIs, including Paroxetine Hydrochloride Controlled-Release Tablets, 
 In worldwide premarketing clinical trials with immediate-release paroxetine hydrochloride, 17% of paroxetine-treated patients (approximately 700) were 65 years or older.
 Pharmacokinetic studies revealed a decreased clearance in the elderly, and a lower starting dose is recommended; there were, however, no overall differences in the adverse event profile between elderly and younger patients, and effectiveness was similar in younger and older patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
 
-In a controlled study focusing specifically on elderly patients with major depressive disorder, Paroxetine Hydrochloride Controlled-Release Tablets were demonstrated to be safe and effective in the treatment of elderly patients (>60 years) with major depressive disorder (see CLINICAL PHARMACOLOGY: Clinical Trials and ADVERSE REACTIONS: Table3.)
+In a controlled study focusing specifically on elderly patients with major depressive disorder, Paroxetine Hydrochloride Controlled-Release Tablets were demonstrated to be safe and effective in the treatment of elderly patients (>60 years) with major depressive disorder (see CLINICAL PHARMACOLOGY: Clinical Trials and ADVERSE REACTIONS: Table 3.)

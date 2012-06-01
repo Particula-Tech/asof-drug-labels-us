@@ -14,7 +14,7 @@ NDC 60505-3674-3 Bottles of 30
 
 NDC 60505-3675-3 Bottles of 30
 
-Store at or below 25°C (77°F) [see USP].
+Store at or below 25oC (77oF) [see USP].
 
 GEOMATRIX is a trademark of Jago Pharma, Muttenz, Switzerland.
 

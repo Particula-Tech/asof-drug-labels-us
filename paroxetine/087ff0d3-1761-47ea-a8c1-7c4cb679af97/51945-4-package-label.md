@@ -4,7 +4,7 @@ Principal Display Panel
 
 NDC 60505-3673-3
 
-Paroxetine HCl
+ParoxetineHCl
 
 Controlled-Release Tablets
 
@@ -49,7 +49,7 @@ Principal Display Panel
 
 NDC 60505-3674-3
 
-Paroxetine HCl
+ParoxetineHCl
 
 Controlled-Release Tablets
 
@@ -94,7 +94,7 @@ Principal Display Panel
 
 NDC 60505-3675-3
 
-Paroxetine HCl
+ParoxetineHCl
 
 Controlled-Release Tablets
 
