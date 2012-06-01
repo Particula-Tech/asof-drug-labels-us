@@ -6,13 +6,11 @@ Heparin Sodium Injection, USP (porcine), preservative-free, is available as foll
 | --- | --- | --- | --- | --- |
 | 25021-401-02 | 1,000 USP Heparin units per mL | 2 mL | Single-Dose Vial | 25 vials per carton |
 
-LATEX-FREE
-
-Sterile, Nonpyrogenic, Preservative-free.
-
+Use only if solution is clear and seal intact.
+Do not use if solution is discolored or contains a precipitate.
 Discard unused portion.
 
-Do not use if solution is discolored or contains a precipitate.
+LATEX-FREE Sterile, Nonpyrogenic, Preservative-free.
 
 Heparin Sodium Injection, USP (porcine), preserved with benzyl alcohol, is available as follows:
 
@@ -20,11 +18,10 @@ Heparin Sodium Injection, USP (porcine), preserved with benzyl alcohol, is avail
 | --- | --- | --- | --- | --- |
 | 25021-404-01 | 20,000 USP Heparin units per mL | 1 mL | Multi-Dose Vial | 25 vials per carton |
 
-LATEX-FREE
-
-Sterile, Nonpyrogenic.
-
+Use only if solution is clear and seal intact.
 Do not use if solution is discolored or contains a precipitate.
+
+LATEX-FREE Sterile, Nonpyrogenic.
 
 ## Storage Conditions
 

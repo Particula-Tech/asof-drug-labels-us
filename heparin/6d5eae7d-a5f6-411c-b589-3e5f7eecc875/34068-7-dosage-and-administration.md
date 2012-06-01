@@ -1,7 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-Slight discoloration does not alter potency.
 
 Confirm the choice of the correct Heparin Sodium Injection vial prior to administration of the drug to a patient (see WARNINGS, Fatal Medication Errors).
 The 1 mL vial must not be confused with a “catheter lock flush” vial or other 1 mL vial of inappropriate strength.
@@ -30,27 +29,31 @@ In converting from heparin to an oral anticoagulant, the dose of the oral antico
 To ensure continuous anticoagulation, it is advisable to continue full heparin therapy for several days after the prothrombin time has reached the therapeutic range.
 Heparin therapy may then be discontinued without tapering.
 
-## Therapeutic Anticoagulant Effect With Full-Dose Heparin
+## Therapeutic Anticoagulant Effect with Full-Dose Heparin
 
 Although dosage must be adjusted for the individual patient according to the results of suitable laboratory tests, the following dosage schedules may be used as guidelines:
 
 | METHOD OF ADMINISTRATION | FREQUENCY | RECOMMENDED DOSE [based on 150 lb (68 kg) patient] |
 | --- | --- | --- |
-| Deep Subcutaneous (Intrafat) Injection A different site should be used for each injection to prevent the development of massive hematoma | Initial Dose Every 8 hours or Every 12 hours | 5,000 units by IV injection, followed by 10,000 to 20,000 units of a concentrated solution, subcutaneously 8,000 to 10,000 units of a concentrated solution 15,000 to 20,000 units of a concentrated solution |
+| Deep Subcutaneous (Intrafat) Injection | Initial Dose | 5,000 units by IV injection, followed by 10,000 to 20,000 units of a concentrated solution, subcutaneously |
+| A different site should be used for each injection to prevent the development of massive hematoma | Every 8 hours or | 8,000 to 10,000 units of a concentrated solution |
+|  | Every 12 hours | 15,000 to 20,000 units of a concentrated solution |
 | Intermittent Intravenous Injection | Initial Dose Every 4 to 6 hours | 10,000 units, either undiluted or in 50 to 100 mL of 0.9% Sodium Chloride Injection, USP 5,000 to 10,000 units, either undiluted or in 50 to 100 mL of 0.9% Sodium Chloride Injection, USP |
 | Intravenous Infusion | Initial Dose Continuous | 5,000 units by IV injection 20,000 to 40,000 units/24 hours in 1,000 mL of 0.9% Sodium Chloride Injection, USP (or in any compatible solution) for infusion |
 
 ## Pediatric Use
 
-Do not administer Heparin Sodium Injection, USP (porcine), preserved with benzyl alcohol, to neonates and infants (see CONTRAINDICATIONS, Pregnancy, Nursing Mothers, and Pediatric Use and PRECAUTIONS, Pediatric Use).
-When indicated, Heparin Sodium Injection, USP (porcine), preservative-free, should be used in neonates and infants.
+Use preservative-free Heparin Sodium Injection in neonates and infants (see WARNINGS, Benzyl Alcohol Toxicity and PRECAUTIONS, Pediatric Use).
 
-Follow recommendations of appropriate pediatric reference texts.
-In general, the following dosage schedule may be used as a guideline:
+There are no adequate and well-controlled studies on heparin use in pediatric patients.
+Pediatric dosing recommendations are based on clinical experience.
+In general, the following dosage schedule may be used as a guideline in pediatric patients:
 
-| Initial Dose: | 50 units/kg (IV, infusion) |
+| Initial Dose | 75 to 100 units/kg (IV bolus over 10 minutes) |
 | --- | --- |
-| Maintenance Dose: | 100 units/kg (IV, infusion) every four hours, or 20,000 units/m2/24 hours continuously |
+| Maintenance Dose | Infants: 25 to 30 units/kg/hour; Infants < 2 months have the highest requirements (average 28 units/kg/hour) |
+|  | Children > 1 year of age: 18 to 20 units/kg/hour; Older children may require less heparin, similar to weight-adjusted adult dosage |
+| Monitoring | Adjust heparin to maintain aPTT of 60 to 85 seconds, assuming this reflects an anti-Factor Xa level of 0.35 to 0.70. |
 
 ## Geriatric Use
 
