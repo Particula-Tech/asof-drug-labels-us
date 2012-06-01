@@ -5,7 +5,7 @@ The usual dose recommendations are as follows:
 
 Adult patients
 
-- *Because of its short half-life, Penicillin G is administered in divided doses, usually every 4-6 hours with the exception of meningococcal meningitis/septicemia, i.e., every 2 hours.
+(*) Because of its short half-life, Penicillin G is administered in divided doses, usually every 4-6 hours with the exception of meningococcal meningitis/septicemia, i.e., every 2 hours.
 
 | CLINICAL INDICATION | DOSAGE |
 | --- | --- |
@@ -26,7 +26,9 @@ Adult patients
 
 Pediatric patients
 
-This product should not be administered to patients requiring less than one million units per dose (see Precautions-Pediatric Use).
+This product should not be administered to patients requiring less than one million units per dose
+
+(see Precautions - Pediatric Use).
 
 | CLINICAL INDICATION | DOSAGE |
 | --- | --- |

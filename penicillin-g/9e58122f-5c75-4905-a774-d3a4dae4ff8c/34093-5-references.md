@@ -1,17 +1,18 @@
 # REFERENCES
 
-1. Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard – 7th ed., CLSI document M7-A7.
-   Clinical and Laboratory Standards Institute, Wayne, PA.
-   January, 2006.
-2. Performance Standards for Antimicrobial Susceptibility Testing; 18th Informational Supplement, CLSI document M100-S18.
+1. Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard – Ninth Edition, CLSI document M07-A9.
    Clinical and Laboratory Standards Institute.
    Wayne, PA.
-   January, 2008.
-3. Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard – 9th ed., CLSI document M2-A9.
+   January, 2012.
+2. Performance Standards for Antimicrobial Susceptibility Testing; Twenty-Second Informational Supplement, CLSI document M100-S22.
    Clinical and Laboratory Standards Institute.
    Wayne, PA.
-   January, 2006.
-4. Methods for Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline, CLSI document M45-A.
+   January, 2012.
+3. Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard – Eleventh Edition, CLSI document M02-A11.
    Clinical and Laboratory Standards Institute.
    Wayne, PA.
-   May, 2006.
+   January, 2012.
+4. Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline-Second Edition, CLSI document M45-A2.
+   Clinical and Laboratory Standards Institute.
+   Wayne, PA.
+   August, 2010.
