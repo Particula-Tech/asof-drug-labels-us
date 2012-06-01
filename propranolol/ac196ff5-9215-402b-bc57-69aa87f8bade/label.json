@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA071402"
+  ],
   "inn": "propranolol",
-  "labeler": "ANI Pharmaceuticals Inc.",
+  "labeler": "ANIP Acquisition Company",
   "package_ndcs": [
     "62559-1106-6"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "metoclopramide hydrochloride",
+      "name": "Metoclopramide"
+    }
+  ],
   "setid": "ac196ff5-9215-402b-bc57-69aa87f8bade",
   "source": "dailymed"
 }

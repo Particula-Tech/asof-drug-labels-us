@@ -9,10 +9,10 @@ Restlessness, drowsiness, fatigue, and lassitude occur in approximately 10% of p
 (see PRECAUTIONS).
 Insomnia, headache, confusion, dizziness or mental depression with suicidal ideation (see WARNINGS) occurs less frequently.
 The incidence of drowsiness is greater at higher doses.
-There are isolated reports of convulsive seizures without clearcut relationship to metoclopramide.
+There are isolated reports of convulsive seizures without clear cut relationship to metoclopramide.
 Rarely, hallucinations have been reported.
 
-## Extrapyramidal Reactions (EPS)
+## Extrapyramidal Reactions
 
 Acute dystonic reactions, the most common type of EPS associated with metoclopramide, occur in approximately 0.2% of patients (1 in 500) treated with 30 to 40 mg of metoclopramide per day.
 
@@ -65,5 +65,4 @@ Rarely, angioneurotic edema, including glossal or laryngeal edema.
 
 ## Miscellaneous
 
-Visual disturbances.
-Porphyria.
+Visual disturbances, Porphyria.

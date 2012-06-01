@@ -3,7 +3,7 @@
 The use of Metoclopramide Oral Solution is recommended for adults only.
 Therapy should not exceed 12 weeks in duration.
 
-## Symptomatic Gastroesophageal Reflux
+Symptomatic Gastroesophageal Reflux
 
 Metoclopramide Oral Solution is indicated as short-term (4 to 12 weeks) therapy for adults with symptomatic, documented gastroesophageal reflux who fail to respond to conventional therapy.
 
@@ -12,7 +12,7 @@ If symptoms are confined to particular situations, such as following the evening
 Healing of esophageal ulcers and erosions has been endoscopically demonstrated at the end of 12- week trial using doses of 15 mg q.i.d.
 As there is no documented correlation between symptoms and healing of esophageal lesions, patients with documented lesions should be monitored endoscopically.
 
-## Diabetic Gastroparesis (diabetic gastric stasis)
+Diabetic Gastroparesis (Diabetic Gastric Stasis)
 
 Metoclopramide is indicated for the relief of symptoms associated with acute and recurrent diabetic gastric stasis.
 The usual manifestations of delayed gastric emptying (e.g., nausea, vomiting, heartburn, persistent fullness after meals and anorexia) appear to respond to metoclopramide within different time intervals.

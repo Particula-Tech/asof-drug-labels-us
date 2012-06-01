@@ -2,31 +2,37 @@
 
 Mental depression has occurred in patients with and without prior history of depression.
 Symptoms have ranged from mild to severe and have included suicidal ideation and suicide.
-Metoclopramide should be given to patients with a prior history of depression only if the expected benefits outweigh the potential risks
+Metoclopramide should be given to patients with a prior history of depression only if the expected benefits outweigh the potential risks.
 
-Extrapyramidal symptoms, manifested primarily as acute dystonic reactions, occur in approximately 1 in 500 patients treated with the usual adult dosages of 30 to 40 mg/day of metoclopramide.
-These usually are seen during the first 24 to 48 hours of treatment with metoclopramide, occur more frequently in pediatric patients and adult patients less than 30 years of age and are even more frequent at the higher doses.
+Extrapyramidal symptoms, manifested primarily as acute dystonic reactions, occur in approximately 1 in 500 patients treated with the usual adult dosages of 30-40 mg/day of metoclopramide.
+These usually are seen during the first 24-48 hours of treatment with metoclopramide, occur more frequently in pediatric patients and adult patients less than 30 years of age and are even more frequent at the higher doses.
 These symptoms may include involuntary movements of limbs and facial grimacing, torticollis, oculogyric crisis, rhythmic protrusion of tongue, bulbar type of speech, trismus, or dystonic reactions resembling tetanus.
 Rarely, dystonic reactions may present as stridor and dyspnea, possibly due to laryngospasm.
 If these symptoms should occur, inject 50 mg diphenhydramine hydrochloride intramuscularly, and they usually will subside.
 Benztropine mesylate, 1 to 2 mg intramuscularly, may also be used to reverse these reactions.
 
 Parkinsonian-like symptoms have occurred, more commonly within the first 6 months after beginning treatment with metoclopramide, but occasionally after longer periods.
-These symptoms generally subside within 2 to 3 months following discontinuance of metoclopramide.
+These symptoms generally subside within 2-3 months following discontinuance of metoclopramide.
 Patients with preexisting Parkinson’s disease should be given metoclopramide cautiously, if at all, since such patients may experience exacerbation of parkinsonian symptoms when taking metoclopramide.
 
 ## Tardive Dyskinesia
 
-Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with metoclopramide.
-Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to predict which patients are likely to develop the syndrome.
-Both the risk of developing the syndrome and the likelihood that it will become irreversible are believed to increase with the duration of treatment and the total cumulative dose.
+(See Boxed Warning)
 
-Less commonly, the syndrome can develop after relatively brief treatment periods at low doses; in these cases, symptoms appear more likely to be reversible.
+Treatment with metoclopramide can cause tardive dyskinesia (TD), a potentially irreversible and disfiguring disorder characterized by involuntary movements of the face, tongue, or extremeties.
+The risk of developing tardive dyskinesia increases with the duration of treatment and the total cumulative dose.
+An analysis of utilization patterns showed that about 20% of patients who used metoclopramide took it longer than 12 weeks.
+Treatment with metoclopramide for longer than the recommended 12 weeks should be avoided in all but rare cases where therapeutic benefit is thought to outweigh the risk of developing TD.
 
-There is no known treatment for established cases of tardive dyskinesia although the syndrome may remit, partially or completely, within several weeks-to-months after metoclopramide is withdrawn.
-Metoclopramide itself, however, may suppress (or partially suppress) the signs of tardive dyskinesia, thereby masking the underlying disease process.
-The effect of this symptomatic suppression upon the long-term course of the syndrome is unknown.
-Therefore, the use of metoclopramide for the symptomatic control of tardive dyskinesia is not recommended.
+Although the risk of developing TD in the general population may be increased among the elderly, women, and diabetics, it is not possible to predict which patients will develop metoclopramide-induced TD.
+Both, the risk of developing TD and the likelihood that TD will become irreversible increase with duration of treatment and total cumulative dose.
+
+Metoclopramide should be discontinued in patients who develop signs or symptoms of TD.
+There is no known effective treatment for established cases of TD, although in some patients, TD may remit, partially or completely, within several weeks to months after metoclopramide is withdrawn.
+
+Metoclopramide itself may suppress, or partially suppress, the signs of TD, thereby masking the underlying disease process.
+The effect of this symptomatic suppression upon the long term course of TD is unknown.
+Therefore, metoclopramide should not be used for the symptomatic control of TD.
 
 ## Neuroleptic Malignant Syndrome
 
@@ -102,7 +108,7 @@ In addition, neonates have reduced levels of NADH-cytochrome b5 reductase, which
 
 The safety profile of metoclopramide in adults cannot be extrapolated to pediatric patients.
 Dystonias and other extrapyramidal reactions associated with metoclopramide are more common in the pediatric population than in adults.
-(see WARNINGS and ADVERSE REACTIONS-Extrapyramidal Reactions.)
+(see WARNINGS and ADVERSE REACTIONS-Extrapyramidal Reactions).
 
 ## Geriatric Use
 

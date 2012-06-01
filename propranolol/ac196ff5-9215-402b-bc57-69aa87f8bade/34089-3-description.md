@@ -1,8 +1,8 @@
 # DESCRIPTION
 
-Metoclopramide Oral Solution USP is an orange-colored, palatable, aromatic, sugar-free liquid for oral administration.
+Metoclopramide Oral Solution, USP is an orange-colored, palatable, aromatic, sugar-free liquid for oral administration.
 
-Each 5 mL (teaspoonful) contains: Metoclopramide base (as the monohydrochloride monohydrate) 5 mg.
+Each 5 mL (1 teaspoonful) contains: Metoclopramide base (as the monohydrochloride monohydrate) 5 mg.
 
 Inactive ingredients: Citric Acid Anhydrous, FD&C Yellow No. 5 (tartrazine), FD&C Red No. 40, Methylparaben, Propylparaben, Purified Water, Saccharin Sodium, Sorbitol Solution 70%, Vanilla Flavor.
 

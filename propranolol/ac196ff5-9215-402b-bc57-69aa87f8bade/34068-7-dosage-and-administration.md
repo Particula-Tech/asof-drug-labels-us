@@ -12,9 +12,9 @@ Occasionally, patients (such as elderly patients) who are more sensitive to the 
 Experience with esophageal erosions and ulcerations is limited, but healing has thus far been documented in one controlled trial using q.i.d. therapy at 15 mg/dose, and this regimen should be used when lesions are present, so long as it is tolerated (see ADVERSE REACTIONS).
 Because of the poor correlation between symptoms and endoscopic appearance of the esophagus, therapy directed at esophageal lesions is best guided by endoscopic evaluation.
 
-Therapy longer than 12 weeks has not been evaluated and cannot be recommended
+Therapy longer than 12 weeks has not been evaluated and cannot be recommended.
 
-## For the Relief of Symptoms Associated with Diabetic Gastroparesis (diabetic gastric stasis)
+## For the Relief of Symptoms Associated with Diabetic Gastroparesis (Diabetic Gastric Stasis)
 
 Administer 10 mg of metoclopramide 30 minutes before each meal and at bedtime for two to eight weeks, depending upon response and the likelihood of continued well-being upon drug discontinuation.
 
@@ -25,7 +25,7 @@ However, if severe symptoms are present, therapy should begin with metoclopramid
 Administration of metoclopramide injection up to 10 days may be required before symptoms subside at which time oral administration may be instituted.
 Since diabetic gastric stasis is frequently recurrent, metoclopramide therapy should be reinstituted at the earliest manifestation.
 
-## USE IN PATIENTS WITH RENAL OR HEPATIC IMPAIRMENT
+## Use in Patients with Renal or Hepatic Impairment
 
 Since metoclopramide is excreted principally through the kidneys, in those patients whose creatinine clearance is below 40 mL/min, therapy should be initiated at approximately one-half the recommended dosage.
 Depending upon clinical efficacy and safety considerations, the dosage may be increased or decreased as appropriate.

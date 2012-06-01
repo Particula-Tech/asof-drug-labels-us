@@ -15,7 +15,7 @@ The increase in LESP from a 5 mg dose lasts about 45 minutes and that of 20 mg l
 Increased rate of stomach emptying has been observed with single oral doses of 10 mg.
 
 The antiemetic properties of metoclopramide appear to be a result of its antagonism of central and peripheral dopamine receptors.
-Dopamine produces nausea and vomiting by stimulation of the medullary chemoreceptor trigger zone (CTZ), and Metoclopramide blocks stimulation of the CTZ by agents like L-dopa or apomorphine, which are known to increase dopamine levels or to possess dopamine-like effects.
+Dopamine produces nausea and vomiting by stimulation of the medullary chemoreceptor trigger zone (CTZ), and metoclopramide blocks stimulation of the CTZ by agents like L-dopa or apomorphine, which are known to increase dopamine levels or to possess dopamine-like effects.
 Metoclopramide also abolishes the slowing of gastric emptying caused by apomorphine.
 
 Like the phenothiazines and related drugs, which are also dopamine antagonists, metoclopramide produces sedation and may produce extrapyramidal reactions, although these are comparatively rare (see WARNINGS).
@@ -27,32 +27,24 @@ The onset of pharmacological action of metoclopramide is 1 to 3 minutes followin
 
 Metoclopramide is rapidly and well absorbed.
 Relative to an intravenous dose of 20 mg, the absolute oral bioavailability of metoclopramide is 80% ± 15.5% as demonstrated in a crossover study of 18 subjects.
-Peak plasma concentrations occur at about 1 to 2 hours after a single oral dose.
+Peak plasma concentrations occur at about 1-2 hours after a single oral dose.
 Similar time to peak is observed after individual doses at steady state.
 
-In a single dose study of 12 subjects, the area under the drug concentration- time curve increases linearly with doses from 20 to 100 mg.
-Peak concentrations increase linearly with dose, time to peak concentrations remains the same; whole body clearance is unchanged; and the elimination rate remains the same.
-The average elimination half-life in individuals with normal renal function is 5 to 6 hours.
+In a single dose study of 12 subjects, the area under the drug concentration-time curve increases linearly with doses from 20 to 100 mg.
+Peak concentrations increase linearly with dose; time to peak concentrations remains the same; whole body clearance is unchanged; and the elimination rate remains the same.
+The average elimination half-life in individuals with normal renal function is 5-6 hours.
 Linear kinetic processes adequately describe the absorption and elimination of metoclopramide.
 
 Approximately 85% of the radioactivity of an orally administered dose appears in the urine within 72 hours.
 Of the 85% eliminated in the urine, about half is present as free or conjugated metoclopramide.
 
 The drug is not extensively bound to plasma proteins (about 30%).
-The whole body volume of distribution is high (about 3.5 L/kg) which suggests extensive distribution of drug to the tissues.
+The whole body volume of distribution is high (about 3.5L/kg) which suggests extensive distribution of the drug to the tissues.
 
 Renal impairment affects the clearance of metoclopramide.
 In a study with patients with varying degrees of renal impairment, a reduction in creatinine clearance was correlated with a reduction in plasma clearance, renal clearance, non-renal clearance, and increase in elimination half-life.
 The kinetics of metoclopramide in the presence of renal impairment remained linear however.
 The reduction in clearance as a result of renal impairment suggests that adjustment downward of maintenance dosage should be done to avoid drug accumulation.
-
-| Parameter | Value |
-| --- | --- |
-| Adult Pharmacokinetic Data |  |
-| Vd (L/Kg) | ~3.5 |
-| Plasma Protein Binding | ~30% |
-| t ½ (hr) | 5 to 6 |
-| Oral Bioavailability | 80% + 15.5% |
 
 In pediatric patients, the pharmacodynamics of metoclopramide following oral and intravenous administration are highly variable and a concentration-effect relationship has not been established.
 

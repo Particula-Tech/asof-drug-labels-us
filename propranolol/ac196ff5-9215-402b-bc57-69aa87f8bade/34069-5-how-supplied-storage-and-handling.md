@@ -7,7 +7,7 @@ NDC 62559-1106-6 – bottle of 16 fl. oz.
 
 Dispense in a tight, light-resistant container.
 
-RECOMMENDED STORAGE
+## RECOMMENDED STORAGE
 
 Store at controlled room temperature, between 20°C and 25°C (68° to 77°F) (see USP).
 
@@ -15,8 +15,8 @@ Manufactured by
 
 ANI Pharmaceuticals, Inc.
 
-Baltimore, MD 21244
+Baudette, MN 56623
 
-501-110616-1
+501-110616-3
 
-Rev 07/08
+Rev 07/11
