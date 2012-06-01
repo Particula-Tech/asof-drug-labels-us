@@ -16,20 +16,20 @@ What is the most important information I should know about SEROQUEL XR?
 
 SEROQUEL XR may cause serious side effects, including:
 
-1. Risk of death in the elderly with dementia
-2. Risk of suicidal thoughts or actions
-3. High blood sugar (hyperglycemia)
-4. High fat levels in your blood (increased cholesterol and triglycerides)
-5. Weight gain
+- Risk of death in the elderly with dementia
+- Risk of suicidal thoughts or actions
+- High blood sugar (hyperglycemia)
+- High fat levels in your blood (increased cholesterol and triglycerides)
+- Weight gain
 
 These serious side effects are described below:
 
-1. Risk of death in the elderly with dementia: Medicines like SEROQUEL XR can increase the risk of death in elderly people who have memory loss (dementia).
-   SEROQUEL XR is not approved for treating psychosis in the elderly with dementia.
-2. Risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions):Talk to your, or your family member’s, healthcare provider about:
-   - all risks and benefits of treatment with antidepressant medicines.
-   - all treatment choices for depression or other serious mental illness.
-
+- Risk of death in the elderly with dementia: Medicines like SEROQUEL XR can increase the risk of death in elderly people who have memory loss (dementia).
+  SEROQUEL XR is not approved for treating psychosis in the elderly with dementia.
+- Risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions):
+- Talk to your, or your family member’s, healthcare provider about:
+  - all risks and benefits of treatment with antidepressant medicines.
+  - all treatment choices for depression or other serious mental illness.
 - Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
 - Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
   Some people may have a particularly high risk of having suicidal thoughts or actions.
@@ -75,9 +75,9 @@ What else do I need to know about antidepressant medicines?
 3.High blood sugar (hyperglycemia): High blood sugar can happen if you have diabetes already or if you have never had diabetes.
 High blood sugar could lead to:
 
-1. Build up of acid in your blood due to ketones (ketoacidosis)
-2. Coma
-3. Death
+- Build up of acid in your blood due to ketones (ketoacidosis)
+- Coma
+- Death
 
 Increases in blood sugar can happen in some people who take SEROQUEL XR.
 Extremely high blood sugar can lead to coma or death.
