@@ -4,7 +4,7 @@ Particular care is needed in patients who are transferred from systemically acti
 After withdrawal from systemic corticosteroids, a number of months is usually required for recovery of hypothalamic-pituitary-adrenal (HPA) function.
 For some patients who have received large doses of oral steroids for long periods of time before therapy with Azmacort Inhalation Aerosol is initiated, recovery may be delayed for one year or longer.
 During this period of HPA suppression, patients may exhibit signs and symptoms of adrenal insufficiency when exposed to trauma, surgery, or infections, particularly gastroenteritis or other conditions with acute electrolyte loss.
-Although Azmacort Inhalation Aerosol may provide control of asthmatic symptoms during these episodes, in recommended doses it supplies only normal physiological amounts of corticosteroidsystemically and does NOT provide the increased systemic steroid which is necessary for coping with these emergencies.
+Although Azmacort Inhalation Aerosol may provide control of asthmatic symptoms during these episodes, in recommended doses it supplies only normal physiological amounts of corticosteroid systemically and does NOT provide the increased systemic steroid which is necessary for coping with these emergencies.
 
 During periods of stress or a severe asthmatic attack, patients who have been recently withdrawn from systemic corticosteroids should be instructed to resume systemic steroids (in large doses) immediately and to contact their physician for further instruction.
 These patients should also be instructed to carry a warning card indicating that they may need supplementary systemic steroids during periods of stress or a severe asthma attack.

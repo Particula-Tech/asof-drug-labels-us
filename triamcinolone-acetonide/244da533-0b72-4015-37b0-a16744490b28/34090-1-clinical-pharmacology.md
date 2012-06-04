@@ -9,7 +9,7 @@ Though highly effective for asthma, glucocorticoids do not affect asthma symptom
 While improvement in asthma may occur as soon as one week after initiation of Azmacort Inhalation Aerosol therapy, maximum improvement may not be achieved for 2 weeks or longer.
 
 Based upon intravenous dosing of triamcinolone acetonide phosphate ester, the half-life of triamcinolone acetonide was reported to be 88 minutes.
-The volume of distribution (Vd) reported was 99.5 L (SD± 27.5) and clearance was 45.2 L/hour (SD ± 9.1) for triamcinolone acetonide.
+The volume of distribution (Vd) reported was 99.5 L (SD ± 27.5) and clearance was 45.2 L/hour (SD ± 9.1) for triamcinolone acetonide.
 The plasma half-life of glucocorticoids does not correlate well with the biologic half-life.
 
 The pharmacokinetics of radiolabeled triamcinolone acetonide [14C] were evaluated following a single oral dose of 800 mcg to healthy male volunteers.

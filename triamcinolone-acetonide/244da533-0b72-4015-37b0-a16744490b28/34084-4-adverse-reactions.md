@@ -6,9 +6,9 @@ The patients were treated with Azmacort Inhalation Aerosol (including doses rang
 
 Adverse Events Occurring at an Incidence of Greater Than 3% and Greater Than Placebo
 
-|  | 150 mcg bid (n=57) |  | 300 mcg bid (n=170) | 600 mcg bid (n=57) |  | (n=167) |
-| --- | --- | --- | --- | --- | --- | --- |
 | Adverse Event |  | Azmacort Dose |  |  | Placebo |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 150 mcg bid (n=57) |  | 300 mcg bid (n=170) | 600 mcg bid (n=57) |  | (n=167) |
 | Sinusitis | 5 (9%) |  | 7 (4%) | 1 (2%) |  | 6 (4%) |
 | Pharyngitis | 4 (7%) |  | 42 (25%) | 10 (18%) |  | 19 (11%) |
 | Headache | 4 (7%) |  | 35 (21%) | 7 (12%) |  | 24 (14%) |

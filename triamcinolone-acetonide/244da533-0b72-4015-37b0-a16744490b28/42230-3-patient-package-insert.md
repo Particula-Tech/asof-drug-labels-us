@@ -1,8 +1,8 @@
-## INFORMATION FOR THE PATIENT
+# INFORMATION FOR THE PATIENT
 
 Your Guide to the
 
-Azmacort ® (triamcinolone acetonide) Inhalation Aerosol
+Azmacort® (triamcinolone acetonide) Inhalation Aerosol
 
 Special Delivery System
 
@@ -96,7 +96,7 @@ NOTE: If your mouth becomes sore or develops a rash, be sure to mention this to 
 
 DOSAGE: USE ONLY AS DIRECTED BY YOUR PHYSICIAN
 
-WARNING: Azmacort ® (triamcinolone acetonide) Inhalation Aerosol contains medication that is intended for treatment of your asthma.
+WARNING: Azmacort® (triamcinolone acetonide) Inhalation Aerosol contains medication that is intended for treatment of your asthma.
 It does not contain medication intended to provide rapid relief of your breathing difficulties during an asthma attack.
 
 It is very important that you use Azmacort Inhalation Aerosol regularly at the intervals recommended by your doctor, and not as an emergency measure.
@@ -138,7 +138,7 @@ STORING YOUR AZMACORT INHALATION AEROSOL INHALER
 - Store your Azmacort Inhalation Aerosol, including the metal canister, at room temperature.
 - Protect from freezing temperatures and direct sunlight.
 - For best results, the canister should be at room temperature before use.
-- DO NOT use after the date shown as “EXP”on the label or box.
+- DO NOT use after the date shown as “EXP” on the label or box.
 - Azmacort Inhalation Aerosol canisters are for use with Azmacort Inhalation Aerosol actuators and spacer-mouthpieces only.
   The actuator and spacer-mouthpiece should not be used with other aerosol medications.
 - REMEMBER: This medicine has been prescribed for you by your doctor.
@@ -161,7 +161,7 @@ The use of soap, detergents, or disinfectants is unnecessary.
 
 HOW TO CHECK CONTENTS OF YOUR CANISTER
 
-Shaking the canister will NOT give you a good estimate of how much Azmacort ® (triamcinolone acetonide) Inhalation Aerosol is left.
+Shaking the canister will NOT give you a good estimate of how much Azmacort® (triamcinolone acetonide) Inhalation Aerosol is left.
 
 We have included a convenient check-off chart to assist you in keeping track of medication puffs used.
 This will help assure that you receive the 240 “Full Puffs” of medication present.

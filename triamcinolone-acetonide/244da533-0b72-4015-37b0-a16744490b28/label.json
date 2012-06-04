@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018117"
+  ],
   "inn": "triamcinolone-acetonide",
   "labeler": "Abbott Laboratories",
   "package_ndcs": [
     "0074-3014-60"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "triamcinolone acetonide",
+      "name": "Azmacort"
+    }
+  ],
   "setid": "244da533-0b72-4015-37b0-a16744490b28",
   "source": "dailymed"
 }
