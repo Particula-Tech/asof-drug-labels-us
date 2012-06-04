@@ -48,7 +48,7 @@ DO NOT WASH OR PUT ANY PART OF YOUR INHALER IN WATER.
 
 9.
 DISCARD THE CANISTER AFTER the date calculated by your physician or pharmacist.
-The correct amount of medication in each inhalation cannot be assured after 100 actuations from the 7.3 g canister or 120 actuations from the 8.7 g canister even though the canister is not completely empty.
+The correct amount of medication in each inhalation cannot be assured after 50 actuations from the 4.2 g canister, 100 actuations from the 7.3 g canister or 120 actuations from the 8.7 g canister even though the canister is not completely empty.
 The canister should be discarded when the labeled number of actuations have been used.
 Before the discard date you should consult your physician to determine whether a refill is needed.
 It is advisable to keep track of the number of doses taken from the canister to better predict when a refill is necessary.
@@ -89,7 +89,7 @@ Mktd by: Teva Respiratory, LLC Horsham, PA 19044
 | Developed and Manufactured by: 3M Drug Delivery Systems Northridge, CA 91324 | OR | 3M Health Care, Ltd. Loughborough, UK |
 | --- | --- | --- |
 
-© 2010 Teva Respiratory, LLC QVAR® is a registered trademark of IVAX LLC, a member of the TEVA Group.
+© 2012 Teva Respiratory, LLC QVAR® is a registered trademark of IVAX LLC, a member of the TEVA Group.
 
-639300 Rev.
-09/10
+656800 Rev.
+05/12
