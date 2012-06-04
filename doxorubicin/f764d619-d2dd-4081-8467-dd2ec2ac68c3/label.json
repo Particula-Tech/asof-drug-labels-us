@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050718"
+  ],
   "inn": "doxorubicin",
-  "labeler": "Ortho Biotech Products",
+  "labeler": "ALZA Corporation",
   "package_ndcs": [
     "17314-9600-1",
     "17314-9600-2"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTABLE, LIPOSOMAL",
+      "generic": "doxorubicin hydrochloride",
+      "name": "DOXIL"
+    }
+  ],
   "setid": "f764d619-d2dd-4081-8467-dd2ec2ac68c3",
   "source": "dailymed"
 }

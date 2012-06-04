@@ -140,4 +140,4 @@ If any signs or symptoms of extravasation have occurred, the infusion should be 
 DOXIL must not be given by the intramuscular or subcutaneous route.
 
 DOXIL should be handled and disposed of in a manner consistent with other anticancer drugs.
-Several guidelines on this subject exist [see References (15)].
+Several guidelines on this subject exist [seeReferences (15)].
