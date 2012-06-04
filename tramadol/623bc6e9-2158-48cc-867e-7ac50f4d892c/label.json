@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021693"
+  ],
   "inn": "tramadol",
-  "labeler": "PriCara",
+  "labeler": "Ortho McNeil Pharmaceuticals",
   "package_ndcs": [
     "0062-0660-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "tramadol hydrochloride",
+      "name": "ULTRAM"
+    }
+  ],
   "setid": "623bc6e9-2158-48cc-867e-7ac50f4d892c",
   "source": "dailymed"
 }
