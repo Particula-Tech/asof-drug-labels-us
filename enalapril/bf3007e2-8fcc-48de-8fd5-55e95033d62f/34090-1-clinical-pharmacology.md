@@ -43,7 +43,7 @@ The amount bound does not increase with dose, indicating a saturable site of bin
 The effective half-life for accumulation of enalaprilat following multiple doses of enalapril maleate is 11 hours.
 
 The disposition of enalapril and enalaprilat in patients with renal insufficiency is similar to that in patients with normal renal function until the glomerular filtration rate is 30 mL/min or less.
-With glomerular filtration rate ≤ 30 mL/min, peak and trough enalaprilat levels increase, time to peak concentration increases and time to steady state may be delayed.
+With glomerular filtration rate ≤30 mL/min, peak and trough enalaprilat levels increase, time to peak concentration increases and time to steady state may be delayed.
 The effective half-life of enalaprilat following multiple doses of enalapril maleate is prolonged at this level of renal insufficiency.
 Enalaprilat is dialyzable at the rate of 62 mL/min.
 

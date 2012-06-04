@@ -14,5 +14,5 @@ The daily dosage should not exceed two tablets of VASERETIC 10-25.
 
 Replacement Therapy: The combination may be substituted for the titrated components.
 
-Use in Renal Impairment: The usual regimens of therapy with VASERETIC need not be adjusted as long as the patient's creatinine clearance is >30 mL/min/1.73m2 (serum creatinine approximately ≤ 3 mg/dL or 265 µmol/L).
+Use in Renal Impairment: The usual regimens of therapy with VASERETIC need not be adjusted as long as the patient's creatinine clearance is >30 mL/min/1.73m2 (serum creatinine approximately ≤3 mg/dL or 265 µmol/L).
 In patients with more severe renal impairment, loop diuretics are preferred to thiazides, so enalapril maleate-hydrochlorothiazide is not recommended (see WARNINGS, Anaphylactoid reactions during membrane exposure).

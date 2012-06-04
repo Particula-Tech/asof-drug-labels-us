@@ -5,7 +5,7 @@ Treatment is symptomatic and supportive.
 Therapy with VASERETIC should be discontinued and the patient observed closely.
 Suggested measures include induction of emesis and/or gastric lavage, and correction of dehydration, electrolyte imbalance and hypotension by established procedures.
 
-Enalapril Maleate – Single oral doses of enalapril above 1,000 mg/kg and ≥ 1,775 mg/kg were associated with lethality in mice and rats, respectively.
+Enalapril Maleate – Single oral doses of enalapril above 1000 mg/kg and ≥1775 mg/kg were associated with lethality in mice and rats, respectively.
 The most likely manifestation of overdosage would be hypotension, for which the usual treatment would be intravenous infusion of normal saline solution.
 Enalaprilat may be removed from general circulation by hemodialysis and has been removed from neonatal circulation by peritoneal dialysis (see WARNINGS, Anaphylactoid reactions during membrane exposure).
 
