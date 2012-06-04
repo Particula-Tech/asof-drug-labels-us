@@ -93,7 +93,7 @@ Adjudication Committee Success Rates at Test of Cure in the S. aureus Bacteremia
 | Baseline Pathogen |  |  |  |
 | Methicillin-susceptible S. aureus | 33/74 (45%) | 34/70 (49%) | −4.0% (−22.6, 14.6)97.5% Confidence Interval (adjusted for multiplicity) |
 | Methicillin-resistant S. aureus | 20/45 (44%) | 14/44 (32%) | 12.6% (−10.2, 35.5) |
-| Entry DiagnosisAccording to the modified Duke criteria4 |  |  |  |
+| Entry DiagnosisAccording to the modified Duke criteria5 |  |  |  |
 | Definite or Possible Infective Endocarditis | 41/90 (46%) | 37/91 (41%) | 4.9% (−11.6, 21.4) |
 | Not Infective Endocarditis | 12/30 (40%) | 11/24 (46%) | −5.8% (−36.2, 24.5) |
 | Final Diagnosis |  |  |  |

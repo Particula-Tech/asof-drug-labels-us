@@ -4,14 +4,17 @@
 
 Teratogenic Effects: Pregnancy Category B
 
-Reproductive and teratology studies performed in rats and rabbits at doses of up to 75 mg/kg (2 and 4 times the 6 mg/kg human dose, respectively, on a body surface area basis) revealed no evidence of harm to the fetus due to daptomycin.
-There are, however, no adequate and well-controlled trials in pregnant women.
+There are no adequate and well-controlled trials of CUBICIN in pregnant women.
+Embryofetal development studies performed in rats and rabbits at doses of up to 75 mg/kg (2 and 4 times the 6 mg/kg human dose, respectively, on a body surface area basis) revealed no evidence of harm to the fetus due to daptomycin.
 Because animal reproduction studies are not always predictive of human response, CUBICIN should be used during pregnancy only if the potential benefit outweighs the possible risk.
 
 ## 8.3 Nursing Mothers
 
-It is not known whether daptomycin is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when CUBICIN is administered to nursing women.
+Daptomycin is present in human milk but is poorly bioavailable orally.
+In a single case study, CUBICIN was administered daily for 28 days to a nursing mother at an IV dose of 6.7 mg/kg/day, and samples of the patient's breast milk were collected over a 24-hour period on day 27.
+The highest measured concentration of daptomycin in the breast milk was 0.045 mcg/mL1.
+The calculated maximum daily CUBICIN dose to the infant (assuming mean milk consumption of 150 mL/kg/day) was 0.1% of the maternal dose (6.7 mg/kg/day).
+Caution should be exercised when CUBICIN is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 

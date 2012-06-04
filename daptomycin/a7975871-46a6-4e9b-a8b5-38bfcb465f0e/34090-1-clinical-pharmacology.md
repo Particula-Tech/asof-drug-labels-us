@@ -225,8 +225,8 @@ Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized broth test method1, 2 with the broth adjusted to a calcium content of 50 mg/L.
-The use of the agar dilution method is not recommended with daptomycin2.
+The MICs should be determined using a standardized broth test method2,3 with the broth adjusted to a calcium content of 50 mg/L.
+The use of the agar dilution method is not recommended with daptomycin3.
 The MICs should be interpreted according to the criteria listed in Table 9.
 
 Table 9.
@@ -245,11 +245,11 @@ A report of "Susceptible" indicates that the antimicrobial is likely to inhibit 
 Diffusion Technique
 
 Quantitative methods that require measurement of zone diameters have not been shown to provide reproducible estimates of the susceptibility of bacteria to daptomycin.
-The use of the disk diffusion method is not recommended with daptomycin2, 3.
+The use of the disk diffusion method is not recommended with daptomycin3,4.
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test1, 2.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test2,3.
 Standard daptomycin powder should provide the range of MIC values noted in Table 10.
 
 Table 10.
