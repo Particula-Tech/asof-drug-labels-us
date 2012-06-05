@@ -20,7 +20,8 @@ When doses exceeding 80 mg/day are given for prolonged periods, careful clinical
 
 ### Geriatric Patients
 
-In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range (see PRECAUTIONS: Geriatric Use).
+In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range.
+(See PRECAUTIONS: Geriatric Use.)
 
 ### Pediatric Patients
 
@@ -45,4 +46,5 @@ As the blood pressure falls under the potentiating effect of furosemide, a furth
 
 ### Geriatric Patients
 
-In general, dose selection and dose adjustment for the elderly patient should be cautious, usually starting at the low end of the dosing range (see PRECAUTIONS: Geriatric Use).
+In general, dose selection and dose adjustment for the elderly patient should be cautious, usually starting at the low end of the dosing range.
+(See PRECAUTIONS: Geriatric Use.)

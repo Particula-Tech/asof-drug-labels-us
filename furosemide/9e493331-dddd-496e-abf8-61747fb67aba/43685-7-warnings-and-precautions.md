@@ -8,7 +8,7 @@ Therefore, careful medical supervision is required and dose and dose schedule mu
 
 In patients with hepatic cirrhosis and ascites, furosemide therapy is best initiated in the hospital.
 In hepatic coma and in states of electrolyte depletion, therapy should not be instituted until the basic condition is improved.
-Sudden alterations of fluid and electrolyte balance in patients with cirrhosis may precipitate hepatic coma; therefore strict observation is necessary during the period of diuresis.
+Sudden alterations of fluid and electrolyte balance in patients with cirrhosis may precipitate hepatic coma; therefore, strict observation is necessary during the period of diuresis.
 Supplemental potassium chloride and, if required, an aldosterone antagonist are helpful in preventing hypokalemia and metabolic alkalosis.
 
 If increasing azotemia and oliguria occur during treatment of severe progressive renal disease, furosemide should be discontinued.
@@ -16,6 +16,7 @@ If increasing azotemia and oliguria occur during treatment of severe progressive
 Cases of tinnitus and reversible or irreversible hearing impairment and deafness have been reported.
 Usually, reports indicate that furosemide ototoxicity is associated with rapid injection, severe renal impairment, doses exceeding several times the usual recommended dose, or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
 If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg furosemide per minute has been used).
+(See PRECAUTIONS: Drug Interactions.)
 
 # PRECAUTIONS
 
@@ -68,7 +69,8 @@ Urine and blood glucose should be checked periodically in diabetics receiving fu
 Furosemide may lower serum levels of calcium (rarely cases of tetany have been reported) and magnesium.
 Accordingly, serum levels of these electrolytes should be determined periodically.
 
-In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed (See PRECAUTIONS: Pediatric Use).
+In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed.
+(See PRECAUTIONS: Pediatric Use.)
 
 ## Drug Interactions
 

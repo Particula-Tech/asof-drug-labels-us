@@ -18,7 +18,7 @@ Gastrointestinal System Reactions
 
 Systemic Hypersensitivity Reactions
 
-1. Severe anaphylactic or anaphylactoid reations (e.g. with shock)
+1. severe anaphylactic or anaphylactoid reations (e.g. with shock)
 2. systemic vasculitis
 3. interstitial nephritis
 4. necrotizing angiitis

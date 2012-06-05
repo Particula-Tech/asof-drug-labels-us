@@ -28,7 +28,7 @@ NDC 0054-4301-29: Bottle of 500 tablets.
 
 Store and Dispense:
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 Note: Dispense in a tight, light-resistant container as defined in the USP/NF.
 Exposure to light may cause slight discoloration.
@@ -60,13 +60,17 @@ NDC 0054-3298-63: Bottle of 500 mL.
 
 Store and Dispense:
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Dispense in a tight, light-resistant container as defined in the USP/NF.
 
 PROTECT FROM LIGHT.
 
 Note: Discard opened bottle after 90 days.
 
-4052002//07Revised November 2010
+Roxane Laboratories, Inc.
 
-© RLI, 2010
+Columbus, Ohio 43216
+
+4052002//08 Revised April 2012
+
+© RLI, 2012
