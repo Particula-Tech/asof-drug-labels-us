@@ -94,12 +94,12 @@ Drug Interactions
 
 Impact of Other Drugs on Dabigatran
 
-### P-gp Inducers
+P-gp Inducers
 
 Rifampin: Rifampin 600 mg once daily for 7 days followed by a single dose of dabigatran decreased its AUC and Cmax by 66% and 67%, respectively.
 By Day 7 after cessation of rifampin treatment, dabigatran exposure was close to normal [see Warnings and Precautions (5.3) and Drug Interactions (7)].
 
-### P-gp Inhibitors
+P-gp Inhibitors
 
 In studies with the P-gp inhibitors ketoconazole, amiodarone, verapamil, and quinidine, the time to peak, terminal half-life, and mean residence time of dabigatran were not affected.
 Any observed changes in Cmax and AUC are described below.
@@ -125,7 +125,7 @@ Concomitant quinidine administration increased dabigatran’s AUC and Cmax by 53
 
 Clarithromycin: Coadministered clarithromycin had no impact on the exposure to dabigatran.
 
-### Other Drugs
+Other Drugs
 
 Clopidogrel: When dabigatran etexilate was given concomitantly with a loading dose of 300 mg or 600 mg clopidogrel, the dabigatran AUC and Cmax increased by approximately 30% and 40%, respectively.
 The concomitant administration of dabigatran etexilate and clopidogrel resulted in no further prolongation of capillary bleeding times compared to clopidogrel monotherapy.

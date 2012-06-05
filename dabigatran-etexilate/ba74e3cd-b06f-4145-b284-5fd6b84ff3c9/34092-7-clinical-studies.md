@@ -19,7 +19,7 @@ Twenty percent of patients had a history of a stroke or TIA and 50% were Vitamin
 Thirty-two percent of the population had never been exposed to a VKA.
 Concomitant diseases of patients in this trial included hypertension 79%, diabetes 23%, and CAD 28%.
 At baseline, 40% of patients were on aspirin and 6% were on clopidogrel.
-For patients randomized to warfarin, the mean percentage of time in therapeutic range (INR 2 to 3) was 64%; the mean percentages of time INR measurements were greater than 4 or less than 1.5 were 2% and 5%, respectively.
+For patients randomized to warfarin, the mean percentage of time in therapeutic range (INR 2 to 3) was 64%.
 
 Relative to warfarin and to PRADAXA 110 mg twice daily, PRADAXA 150 mg twice daily significantly reduced the primary composite endpoint of stroke and systemic embolism (see Table 4 and Figure 2).
 
@@ -38,7 +38,7 @@ Figure 2 Kaplan-Meier Curve Estimate of Time to First Stroke or Systemic Embolis
 
 The contributions of the components of the composite endpoint, including stroke by subtype, are shown in Table 5.
 The treatment effect was primarily a reduction in stroke.
-PRADAXA 150 mg twice daily significantly reduced both ischemic and hemorrhagic strokes relative to warfarin.
+PRADAXA 150 mg twice daily was superior in reducing ischemic and hemorrhagic strokes relative to warfarin.
 
 Table 5 Strokes and Systemic Embolism in the RE-LY Study
 
@@ -53,17 +53,5 @@ Table 5 Strokes and Systemic Embolism in the RE-LY Study
 The efficacy of PRADAXA 150 mg twice daily was generally consistent across major subgroups (see Figure 3).
 
 Figure 3 Stroke and Systemic Embolism Hazard Ratios by Baseline Characteristics
-
-Centers were ranked post hoc by the percentage of time that warfarin-treated patients were in therapeutic range (INR 2 to 3).
-Findings for stroke/systemic embolism, all-cause mortality, and major bleeds are shown for centers above and below the median level of INR control in Table 6.
-The benefits of PRADAXA 150 mg relative to warfarin were most apparent in patients enrolled at centers with INR control below the median.
-
-Table 6 Center INR Control in the RE-LY Study
-
-|  | Centers with INR control below the median of 67% | Centers with INR control above the median of 67% |
-| --- | --- | --- |
-| Stroke/systemic embolism | 0.57 (0.42, 0.76) | 0.76 (0.55, 1.05) |
-| All-cause mortality | 0.78 (0.66, 0.93) | 1.01 (0.84, 1.23) |
-| Major bleed | 0.82 (0.68, 0.99) | 1.08 (0.89, 1.31) |
 
 In RE-LY, a higher rate of clinical myocardial infarction was reported in patients who received PRADAXA (0.7 per 100 patient-years for 150 mg dose) than in those who received warfarin (0.6).
