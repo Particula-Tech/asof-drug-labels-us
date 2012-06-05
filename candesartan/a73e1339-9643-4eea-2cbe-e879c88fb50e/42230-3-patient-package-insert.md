@@ -55,10 +55,10 @@ Low blood pressure can happen in people who take ATACAND and have major surgery 
 
 · have any other medical conditions
 
-· are pregnant or planning to become pregnant.
+·are pregnant or planning to become pregnant.
 See “What is the most important information I should know about ATACAND?”
 
-· are breast-feeding or plan to breast-feed.
+·are breast-feeding or plan to breast-feed.
 It is not known if ATACAND passes into your breast milk.
 You and your doctor should decide if you will take ATACAND or breast-feed.
 You should not do both.
@@ -113,10 +113,10 @@ What are the possible side effects of ATACAND?
 
 ATACAND may cause serious side effects, including:
 
-· Injury or death to your unborn baby.
+·Injury or death to your unborn baby.
 See “What is the most important information I should know about ATACAND?
 
-· Low blood pressure (hypotension).
+·Low blood pressure (hypotension).
 Low blood pressure is most likely to happen if you:
 
 o take water pills (diuretics)
@@ -135,18 +135,18 @@ Low blood pressure can also happen if you have major surgery or anesthesia.
 You will be monitored for this and treated if needed.
 See “What should I tell my doctor before taking ATACAND?”
 
-· Worsening kidney problems.
+·Worsening kidney problems.
 Kidney problems may get worse in people that already have kidney disease or heart problems.
 Your doctor may do blood tests to check for this.
 
-· Worsening liver problems.
+·Worsening liver problems.
 Liver problems may get worse in people who already have liver problems, including inflammation of the liver and jaundice.
 Tell your doctor if you notice that your skin or the whites of your eyes turn yellow.
 
-· Increased potassium in your blood.
+·Increased potassium in your blood.
 Your doctor may do a blood test to check your potassium levels as needed.
 
-· Symptoms of allergic reaction.
+·Symptoms of allergic reaction.
 Call your doctor right away if you have any of these symptoms of an allergic reaction:
 
 o swelling of your face, lips, tongue or throat
