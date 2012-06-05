@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA018565"
+  ],
+  "inn": "morphine",
+  "labeler": "West-ward Pharmaceutical Corp.",
+  "package_ndcs": [
+    "0641-6039-01",
+    "0641-6040-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "morphine sulfate",
+      "name": "INFUMORPH 200"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "morphine sulfate",
+      "name": "INFUMORPH 500"
+    }
+  ],
+  "setid": "db9ac9e3-d761-4a99-9f34-4946ebe8f255",
+  "source": "dailymed"
+}
