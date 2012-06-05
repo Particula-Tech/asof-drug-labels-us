@@ -1,0 +1,21 @@
+# 4 CONTRAINDICATIONS
+
+## 4.1 Active Liver Disease, which may include Unexplained Persistent Elevations of Hepatic Transaminase Levels
+
+## 4.2 Hypersensitivity to any Component of this Medication
+
+## 4.3 Pregnancy
+
+Women who are pregnant or may become pregnant.
+Atorvastatin may cause fetal harm when administered to a pregnant woman.
+Serum cholesterol and triglycerides increase during normal pregnancy, and cholesterol or cholesterol derivatives are essential for fetal development.
+Atherosclerosis is a chronic process and discontinuation of lipid-lowering drugs during pregnancy should have little impact on the outcome of long-term therapy of primary hypercholesterolemia.
+There are no adequate and well-controlled studies of atorvastatin use during pregnancy; however in rare reports, congenital anomalies were observed following intrauterine exposure to statins.
+In rat and rabbit animal reproduction studies, atorvastatin revealed no evidence of teratogenicity.
+ATORVASTATIN SHOULD BE ADMINISTERED TO WOMEN OF CHILDBEARING AGE ONLY WHEN SUCH PATIENTS ARE HIGHLY UNLIKELY TO CONCEIVE AND HAVE BEEN INFORMED OF THE POTENTIAL HAZARDS.
+If the patient becomes pregnant while taking this drug, atorvastatin should be discontinued immediately and the patient apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
+
+## 4.4 Nursing mothers
+
+It is not known whether atorvastatin is excreted into human milk; however a small amount of another drug in this class does pass into breast milk.
+Because statins have the potential for serious adverse reactions in nursing infants, women who require atorvastatin treatment should not breastfeed their infants [see Use in Specific Populations (8.3)].
