@@ -25,6 +25,6 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2012-45
+T2012-123
 
-January 2012
+May 2012

@@ -61,12 +61,11 @@ The terminal elimination half-life of benazeprilat in pediatric patients was aro
 Single and multiple doses of 10 mg or more of Lotensin cause inhibition of plasma ACE activity by at least 80%-90% for at least 24 hours after dosing.
 Pressor responses to exogenous angiotensin I were inhibited by 60%-90% (up to 4 hours post-dose) at the 10-mg dose.
 
-## Hypertension
+## Clinical Studies
+
+Hypertension
 
 Adult
-
-Administration of Lotensin to patients with mild-to-moderate hypertension results in a reduction of both supine and standing blood pressure to about the same extent with no compensatory tachycardia.
-Symptomatic postural hypotension is infrequent, although it can occur in patients who are salt- and/or volume-depleted (see WARNINGS).
 
 In single-dose studies, Lotensin lowered blood pressure within 1 hour, with peak reductions achieved 2-4 hours after dosing.
 The antihypertensive effect of a single dose persisted for 24 hours.
@@ -77,15 +76,8 @@ Four dose-response studies using once-daily dosing were conducted in 470 mild-to
 The minimal effective once-daily dose of Lotensin was 10 mg; but further falls in blood pressure, especially at morning trough, were seen with higher doses in the studied dosing range (10-80 mg).
 In studies comparing the same daily dose of Lotensin given as a single morning dose or as a twice-daily dose, blood pressure reductions at the time of morning trough blood levels were greater with the divided regimen.
 
-During chronic therapy, the maximum reduction in blood pressure with any dose is generally achieved after 1-2 weeks.
-The antihypertensive effects of Lotensin have continued during therapy for at least two years.
-Abrupt withdrawal of Lotensin has not been associated with a rapid increase in blood pressure.
-
-In patients with mild-to-moderate hypertension, Lotensin 10-20 mg was similar in effectiveness to captopril, hydrochlorothiazide, nifedipine SR, and propranolol.
-
 The antihypertensive effects of Lotensin were not appreciably different in patients receiving high- or low-sodium diets.
 
-In hemodynamic studies in dogs, blood pressure reduction was accompanied by a reduction in peripheral arterial resistance, with an increase in cardiac output and renal blood flow and little or no change in heart rate.
 In normal human volunteers, single doses of benazepril caused an increase in renal blood flow but had no effect on glomerular filtration rate.
 
 Use of Lotensin in combination with thiazide diuretics gives a blood-pressure-lowering effect greater than that seen with either agent alone.

@@ -10,6 +10,8 @@ Angioedema associated with laryngeal edema can be fatal.
 If laryngeal stridor or angioedema of the face, tongue, or glottis occurs, treatment with Lotensin should be discontinued and appropriate therapy instituted immediately.
 Where there is involvement of the tongue, glottis, or larynx, likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine injection 1:1000 (0.3 mL to 0.5 mL) should be promptly administered (see ADVERSE REACTIONS).
 
+Black patients receiving ACE inhibitors have been reported to have a higher incidence of angioedema compared to nonblacks.
+
 Intestinal Angioedema: Intestinal angioedema has been reported in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
 The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor.
@@ -34,12 +36,6 @@ In such patients, Lotensin therapy should be started under close medical supervi
 If hypotension occurs, the patient should be placed in a supine position, and, if necessary, treated with intravenous infusion of physiological saline.
 Lotensin treatment usually can be continued following restoration of blood pressure and volume.
 
-## Neutropenia/Agranulocytosis
-
-Another angiotensin-converting enzyme inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression, rarely in uncomplicated patients, but more frequently in patients with renal impairment, especially if they also have a collagen-vascular disease such as systemic lupus erythematosus or scleroderma.
-Available data from clinical trials of benazepril are insufficient to show that benazepril does not cause agranulocytosis at similar rates.
-Monitoring of white blood cell counts should be considered in patients with collagen-vascular disease, especially if the disease is associated with impaired renal function.
-
 ## Fetal toxicity
 
 Pregnancy category D
@@ -57,8 +53,7 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue Lotensin, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to Lotensin for hypotension, oliguria, and hyperkalemia.
-[see Precautions, Pediatric Use]
+Closely observe infants with histories of in utero exposure to Lotensin for hypotension, oliguria, and hyperkalemia [see Precautions, Pediatric Use].
 
 No teratogenic effects of Lotensin were seen in studies of pregnant rats, mice, and rabbits.
 On a mg/m2 basis, the doses used in these studies were 60 times (in rats), 9 times (in mice), and more than 0.8 times (in rabbits) the maximum recommended human dose (assuming a 50-kg woman).
@@ -90,8 +85,6 @@ Risk factors for the development of hyperkalemia include renal insufficiency, di
 Cough: Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, always resolving after discontinuation of therapy.
 ACE inhibitor-induced cough should be considered in the differential diagnosis of cough.
 
-Impaired Liver Function: In patients with hepatic dysfunction due to cirrhosis, levels of benazeprilat are essentially unaltered (see WARNINGS, Hepatic Failure).
-
 Surgery/Anesthesia: In patients undergoing surgery or during anesthesia with agents that produce hypotension, benazepril will block the angiotensin II formation that could otherwise occur secondary to compensatory renin release.
 Hypotension that occurs as a result of this mechanism can be corrected by volume expansion.
 
@@ -119,31 +112,30 @@ Diuretics: Patients on diuretics, especially those in whom diuretic therapy was 
 The possibility of hypotensive effects with Lotensin can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with Lotensin.
 If this is not possible, the starting dose should be reduced (see DOSAGE AND ADMINISTRATION).
 
-Potassium Supplements and Potassium-Sparing Diuretics: Lotensin can attenuate potassium loss caused by thiazide diuretics.
-Potassium-sparing diuretics (spironolactone, amiloride, triamterene, and others) or potassium supplements can increase the risk of hyperkalemia.
-Therefore, if concomitant use of such agents is indicated, they should be given with caution, and the patient’s serum potassium should be monitored frequently.
+Potassium Supplements and Potassium-Sparing Diuretics: Concomitant use with Lotensin may effect potassium levels.
+Monitor potassium periodically.
 
 Oral Anticoagulants: Interaction studies with warfarin and acenocoumarol failed to identify any clinically important effects on the serum concentrations or clinical effects of these anticoagulants.
 
 Lithium: Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving ACE inhibitors (including benazepril) during therapy with lithium.
-These drugs should be coadministered with caution, and frequent monitoring of serum lithium levels is recommended.
-If a diuretic is also used, the risk of lithium toxicity may be increased.
+Monitor lithium levels when used concomitantly with Lotensin.
 
 Gold: Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy.
 
 Anti-diabetics: In rare cases, diabetic patients receiving an ACE inhibitor (including benazepril) concomitantly with insulin or oral anti-diabetics may develop hypoglycemia.
 Such patients should therefore be advised about the possibility of hypoglycemic reactions and should be monitored accordingly.
 
-Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including benazepril, may result in deterioration of renal function, including possible acute renal failure.
+Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including benazepril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving benazepril and NSAID therapy.
 
 The antihypertensive effect of ACE inhibitors, including benazepril, may be attenuated by NSAIDs.
 
-Other: No clinically important pharmacokinetic interactions occurred when Lotensin was administered concomitantly with hydrochlorothiazide, chlorthalidone, furosemide, digoxin, propranolol, atenolol, or cimetidine.
-
-Lotensin has been used concomitantly with beta-adrenergic-blocking agents, calcium-channel-blocking agents, diuretics, digoxin, and hydralazine, without evidence of clinically important adverse interactions.
+Other: Lotensin has been used concomitantly with beta-adrenergic-blocking agents, calcium-channel-blocking agents, diuretics, digoxin, and hydralazine, without evidence of clinically important adverse interactions.
 Benazepril, like other ACE inhibitors, has had less than additive effects with beta-adrenergic blockers, presumably because both drugs lower blood pressure by inhibiting parts of the renin-angiotensin system.
+
+The pharmacokinetics of benazepril are not affected by the following drugs: hydrochlorothiazide, furosemide, chlorthalidone, digoxin, propranolol, atenolol, nifedipine, amlodipine, naproxen, acetylsalicylic acid, or cimetidine.
+Likewise the administration of benazepril does not substantially affect the pharmacokinetics of these medications (cimetidine kinetics were not studied).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -178,6 +170,8 @@ The antihypertensive effects of Lotensin have been evaluated in a double-blind s
 The pharmacokinetics of Lotensin have been evaluated in pediatric patients 6 to 16 years of age (see CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism).
 Lotensin was generally well tolerated and adverse effects were similar to those described in adults.
 (See ADVERSE REACTIONS: Pediatric Patients).
+The long-term effects of benazepril on growth and development have not been studied.
+Infants below the age of 1 year should not be given Lotensin because of the risk of effects on kidney development.
 
 Treatment with Lotensin is not recommended in pediatric patients less than 6 years of age (see ADVERSE REACTIONS), and in children with glomerular filtration rate <30 mL/min as there are insufficient data available to support a dosing recommendation in these groups.
 (See CLINICAL PHARMACOLOGY: Pharmacokinetics and Metabolism, In Pediatric Patients and DOSAGE AND ADMINISTRATION.)
