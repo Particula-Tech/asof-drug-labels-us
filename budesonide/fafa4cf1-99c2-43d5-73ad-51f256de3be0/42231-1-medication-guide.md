@@ -147,8 +147,15 @@ Ask your healthcare provider or pharmacist if you have any questions.
 - SYMBICORT does not relieve sudden symptoms.
   Always have a rescue inhaler medicine with you to treat sudden symptoms.
   If you do not have a rescue inhaler, call your healthcare provider to have one prescribed for you.
-- Call your healthcare provider or get medical care right away if:o your breathing problems worsen with SYMBICORT o you need to use your rescue inhaler medicine more often than usualo your rescue inhaler medicine does not work as well for you at relieving symptoms o you need to use 4 or more inhalations of rescue inhaler medicine for 2 or more days in a row o you use one whole canister of your rescue inhaler medicine in 8 weeks’ time o your peak flow meter results decrease.
-  Your healthcare provider will tell you the numbers that are right for you. o your symptoms do not improve after using SYMBICORT regularly for 1 week.
+- Call your healthcare provider or get medical care right away if:
+- o your breathing problems worsen with SYMBICORT
+- o you need to use your rescue inhaler medicine more often than usual
+- o your rescue inhaler medicine does not work as well for you at relieving symptoms
+- o you need to use 4 or more inhalations of rescue inhaler medicine for 2 or more days in a row
+- o you use one whole canister of your rescue inhaler medicine in 8 weeks’ time
+- o your peak flow meter results decrease.
+  Your healthcare provider will tell you the numbers that are right for you.
+- o your symptoms do not improve after using SYMBICORT regularly for 1 week.
 
 What are the possible side effects with SYMBICORT?
 
@@ -158,16 +165,34 @@ SYMBICORT can cause serious side effects
 - Pneumonia and other lower respiratory tract infections.
   People with COPD have a higher chance of getting pneumonia and other lung infections.
   Inhaled corticosteroids may increase the chance of getting pneumonia.
-  Call your healthcare provider if you notice any of these symptoms: · increase in mucus (sputum) production · change in mucus color · fever · chills · increased cough · increased breathing problems
-
+  Call your healthcare provider if you notice any of these symptoms:
+- · increase in mucus (sputum) production
+- · change in mucus color
+- · fever
+- · chills
+- · increased cough
+- · increased breathing problems
 - Serious allergic reactions including rash, hives, swelling of the face, mouth, and tongue, and breathing problems.
   Call your healthcare provider or get emergency medical care if you get any symptoms of a serious allergic reaction.
 - Immune system effects and a higher chance for infections.
-  Tell your healthcare provider about any signs of infection such as:· fever · pain· body aches· chills· feeling tired· nausea· vomiting
+  Tell your healthcare provider about any signs of infection such as:
+- · fever
+- · pain
+- · body aches
+- · chills
+- · feeling tired
+- · nausea
+- · vomiting
 - Adrenal insufficiency.
   Adrenal insufficiency is a condition in which the adrenal glands do not make enough steroid hormones.
   This can happen when you stop taking oral corticosteroid medicines and start inhaled corticosteroid medicine.
-- Using too much of a LABA medicine may cause:· chest pain· increased blood pressure· a fast and irregular heartbeat· headache· tremor· nervousness
+- Using too much of a LABA medicine may cause:
+- · chest pain
+- · increased blood pressure
+- · a fast and irregular heartbeat
+- · headache
+- · tremor
+- · nervousness
 - Increased wheezing right after taking SYMBICORT.
   Always have a rescue inhaler with you to treat sudden wheezing.
 - Eye problems including glaucoma and cataracts.
@@ -179,7 +204,11 @@ SYMBICORT can cause serious side effects
   A child’s growth should be checked regularly while using SYMBICORT.
 - Swelling of your blood vessels.
   This can happen in people with asthma.
-  Tell your healthcare provider right away if you have: · a feeling of pins and needles or numbness of your arms or legs· flu like symptoms· rash· pain and swelling of the sinuses
+  Tell your healthcare provider right away if you have:
+- · a feeling of pins and needles or numbness of your arms or legs
+- · flu like symptoms
+- · rash
+- · pain and swelling of the sinuses
 - Decreases in blood potassium levels (hypokalemia)
 - Increases in blood sugar levels (hyperglycemia)
 
