@@ -6,6 +6,6 @@ Haloperidol blocks the effects of dopamine and increases its turnover rate; howe
 
 Administration of haloperidol decanoate in sesame oil results in slow and sustained release of haloperidol.
 The plasma concentrations of haloperidol gradually rise, reaching a peak at about 6 days after the injection, and falling thereafter, with an apparent half-life of about 3 weeks.
-Steady state plasma concentrations are achieved after the third or fourth dose.
+Steady-state plasma concentrations are achieved after the third or fourth dose.
 The relationship between dose of haloperidol decanoate and plasma haloperidol concentration is roughly linear for doses below 450 mg.
 It should be noted, however, that the pharmacokinetics of haloperidol decanoate following intramuscular injections can be quite variable between subjects.

@@ -1,7 +1,7 @@
-IM Use Only
+For IM Injection Only
 
 Rx only
 
-45803F
+45803G
 
-Revised: January 2011
+Revised: December 2011

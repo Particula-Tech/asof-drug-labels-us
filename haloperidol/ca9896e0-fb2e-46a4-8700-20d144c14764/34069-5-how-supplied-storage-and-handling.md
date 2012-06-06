@@ -5,7 +5,7 @@
 | 436901 | 63323-469-01 | Haloperidol Decanoate Injection, 50 mg*/mL, 2 mL flip-top vial, packaged individually. |
 | 436905 | 63323-469-05 | Haloperidol Decanoate Injection, 50 mg*/mL, 5 mL multiple dose, flip-top vial, packaged individually. |
 | 437101 | 63323-471-01 | Haloperidol Decanoate Injection, 100 mg*/mL, 2 mL flip-top vial, packaged individually. |
-| 437105 | 63323-471-05 | Haloperidol Decanoate Injection, 100 mg*/mL, 5 mL multiple dose, flip-top vial, packaged individually |
+| 437105 | 63323-471-05 | Haloperidol Decanoate Injection, 100 mg*/mL, 5 mL multiple dose, flip-top vial, packaged individually. |
 
 * as haloperidol
 

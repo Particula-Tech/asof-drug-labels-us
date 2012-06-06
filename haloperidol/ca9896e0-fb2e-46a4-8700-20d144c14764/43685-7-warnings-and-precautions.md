@@ -52,6 +52,11 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 Hyperpyrexia and heat stroke, not associated with the above symptom complex, have also been reported with haloperidol.
 
+## Combined Use of Haloperidol and Lithium
+
+An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN, and fasting blood sugar) followed by irreversible brain damage has occurred in a few patients treated with lithium plus haloperidol.
+A causal relationship between these events and the concomitant administration of lithium and haloperidol has not been established; however, patients receiving such combined therapy should be monitored closely for early evidence of neurological toxicity and treatment discontinued promptly if such signs appear.
+
 ## General
 
 A number of cases of bronchopneumonia, some fatal, have followed the use of antipsychotic drugs, including haloperidol.
@@ -68,33 +73,30 @@ Class Effect: In clinical trial and/or postmarketing experience, events of leuko
 Agranulocytosis has also been reported.
 
 Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
-Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of haloperidol should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of haloperidol decanoate should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3 should discontinue haloperidol and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue haloperidol decanoate and have their WBC followed until recovery.
 
 ## Other
 
 Haloperidol decanoate should be administered cautiously to patients:
 
 - with severe cardiovascular disorders, because of the possibility of transient hypotension and/or precipitation of anginal pain.
-Should hypotension occur and a vasopressor be required, epinephrine should not be used since haloperidol may block its vasopressor activity, and paradoxical further lowering of the blood pressure may occur.
-Instead, metaraminol, phenylephrine or norepinephrine should be used.
-
+  Should hypotension occur and a vasopressor be required, epinephrine should not be used since haloperidol may block its vasopressor activity, and paradoxical further lowering of the blood pressure may occur.
+  Instead, metaraminol, phenylephrine or norepinephrine should be used.
 - receiving anticonvulsant medications, with a history of seizures, or with EEG abnormalities, because haloperidol may lower the convulsive threshold.
-If indicated, adequate anticonvulsant therapy should be concomitantly maintained.
-
+  If indicated, adequate anticonvulsant therapy should be concomitantly maintained.
 - with known allergies, or with a history of allergic reactions to drugs.
-
 - receiving anticoagulants, since an isolated instance of interference occurred with the effects of one anticoagulant (phenindione).
 
 If concomitant antiparkinson medication is required, it may have to be continued after haloperidol decanoate is discontinued because of the prolonged action of haloperidol decanoate.
 If both drugs are discontinued simultaneously, extrapyramidal symptoms may occur.
 The physician should keep in mind the possible increase in intraocular pressure when anticholinergic drugs, including antiparkinson agents, are administered concomitantly with haloperidol decanoate.
 
-In patients with thyrotoxicosis who are also receiving antipsychotic medication, including haloperidol decanoate, severe neurotoxicity (rigidity, inability to walk or talk) may occur.
+When haloperidol decanoate is used to control mania in cyclic disorders, there may be a rapid mood swing to depression.
 
-When haloperidol is used to control mania in bipolar disorders, there may be a rapid mood swing to depression.
+Severe neurotoxicity (rigidity, inability to walk or talk) may occur in patients with thyrotoxicosis who are also receiving antipsychotic medication, including haloperidol.
 
 ## Information for Patients
 
@@ -105,14 +107,48 @@ The use of alcohol with this drug should be avoided due to possible additive eff
 
 ## Drug Interactions
 
-An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN, and FBS) followed by irreversible brain damage has occurred in a few patients treated with lithium plus haloperidol.
-A causal relationship between these events and the concomitant administration of lithium and haloperidol has not been established; however, patients receiving such combined therapy should be monitored closely for early evidence of neurological toxicity and treatment discontinued promptly if such signs appear.
+Drug-drug interactions can be pharmacodynamic (combined pharmacologic effects) or pharmacokinetic (alteration of plasma levels).
+The risks of using haloperidol in combination with other drugs have been evaluated as described below.
 
-As with other antipsychotic agents, it should be noted that haloperidol may be capable of potentiating CNS depressants such as anesthetics, opiates, and alcohol.
+## Pharmacodynamic Interactions
+
+Since QT-prolongation has been observed during haloperidol treatment, caution is advised when prescribing to patient with QT-prolongation conditions (long QT-syndrome, hypokalemia, electrolyte imbalance) or to patients receiving medications known to prolong the QT-interval or known to cause electrolyte imbalance.
+
+As with other antipsychotic agents, it should be noted that haloperidol may be capable of potentiating CNS depressants such as anesthetics, opiates and alcohol.
+
+Ketoconazole is a potent inhibitor of CYP3A4.
+Increases in QTc have been observed when haloperidol was given in combination with the metabolic inhibitors ketoconazole (400 mg/day) and paroxetine (20 mg/day).
+It may be necessary to reduce the haloperidol dosage.
+
+## Pharmacokinetic Interactions
+
+The Effect of Other Drugs on Haloperidol Decanoate
+
+Haloperidol is metabolized by several routes, including the glucuronidation and the cytochrome P450 enzyme system.
+Inhibition of these routes of metabolism by another drug may result in increased haloperidol concentrations and potentially increase the risk of certain adverse events, including QT-prolongation.
+
+Drugs Characterized as Substrates, Inhibitors or Inducers of CYP3A4, CYP2D6 or Glucuronidation
+
+In pharmacokinetic studies, mild to moderately increased haloperidol concentrations have been reported when haloperidol was given concomitantly with drugs characterized as substrates or inhibitors of CYP3A4 or CYP2D6 isoenzymes, such as, itraconazole, nefazodone, buspirone, venlafaxine, alprazolam, fluvoxamine, quinidine, fluoxetine, sertraline, chlorpromazine, and promethazine.
+
+When prolonged treatment (1 to 2 weeks) with enzyme-inducing drugs such as rifampin or carbamazepine is added to haloperidol therapy, this results in a significant reduction of haloperidol plasma levels.
+
+Rifampin
 
 In a study of 12 schizophrenic patients coadministered oral haloperidol and rifampin, plasma haloperidol levels were decreased by a mean of 70% and mean scores on the Brief Psychiatric Rating Scale were increased from baseline.
 In 5 other schizophrenic patients treated with oral haloperidol and rifampin, discontinuation of rifampin produced a mean 3.3-fold increase in haloperidol concentrations.
-Thus, careful monitoring of clinical status is warranted when rifampin is administered or discontinued in haloperidol-treated patients.
+
+Carbamazepine
+
+In a study in 11 schizophrenic patients co-administered haloperidol and increasing doses of carbamazepine, haloperidol plasma concentrations decreased linearly with increasing carbamazepine concentrations.
+
+Thus, careful monitoring of clinical status is warranted when enzyme inducing drugs such as rifampin or carbamazepine are administered or discontinued in haloperidol-treated patients.
+During combination treatment, the haloperidol dose should be adjusted, when necessary.
+After discontinuation of such drugs, it may be necessary to reduce the dosage of haloperidol.
+
+Valproate
+
+Sodium valproate, a drug known to inhibit glucuronidation, does not affect haloperidol plasma concentrations.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
@@ -123,7 +159,7 @@ The available cytogenetic evidence is considered too inconsistent to be conclusi
 Carcinogenicity studies using oral haloperidol were conducted in Wistar rats (dosed at up to 5 mg/kg daily for 24 months) and in Albino Swiss mice (dosed at up to 5 mg/kg daily for 18 months).
 In the rat study survival was less than optimal in all dose groups, reducing the number of rats at risk for developing tumors.
 However, although a relatively greater number of rats survived to the end of the study in high-dose male and female groups, these animals did not have a greater incidence of tumors than control animals.
-Therefore, although not optimal, this study does suggest the absence of a haloperidol related increase in the incidence of neoplasia in rats at doses up to 20 times the usual daily human dose for chronic or resistant patients.
+Therefore, although not optimal, this study does suggest the absence of a haloperidol-related increase in the incidence of neoplasia in rats at doses up to 20 times the usual daily human dose for chronic or resistant patients.
 
 In female mice at 5 and 20 times the highest initial daily dose for chronic or resistant patients, there was a statistically significant increase in mammary gland neoplasia and total tumor incidence; at 20 times the same daily dose there was a statistically significant increase in pituitary gland neoplasia.
 In male mice, no statistically significant differences in incidences of total tumors or specific tumor types were noted.
@@ -137,7 +173,7 @@ Neither clinical studies nor epidemiologic studies conducted to date, however, h
 
 ## Usage in Pregnancy
 
-Pregnancy Category C.
+Pregnancy Category C
 
 Rodents given up to 3 times the usual maximum human dose of haloperidol decanoate showed an increase in incidence of resorption, fetal mortality, and pup mortality.
 No fetal abnormalities were observed.
@@ -152,11 +188,11 @@ Since such experience does not exclude the possibility of fetal damage due to ha
 
 Non-teratogenic Effects
 
-Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
-There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
+Neonates exposed to antipsychotic drugs (including haloperidol) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in these neonates.
 These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
 
-Haloperidol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Haloperidol decanoate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers
 
@@ -170,5 +206,5 @@ Safety and effectiveness of haloperidol decanoate in children have not been esta
 
 Clinical studies of haloperidol did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not consistently identified differences in responses between the elderly and younger patients.
-However, the prevalence of tardive dyskinesia appears to be highest among the elderly, especially elderly women (see WARNINGS: Tardive Dyskinesia).
+However, the prevalence of tardive dyskinesia appears to be highest among the elderly, especially elderly women (see WARNINGS, Tardive Dyskinesia).
 Also, the pharmacokinetics of haloperidol in geriatric patients generally warrants the use of lower doses (see DOSAGE AND ADMINISTRATION).

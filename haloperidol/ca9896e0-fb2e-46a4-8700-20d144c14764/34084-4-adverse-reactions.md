@@ -7,7 +7,7 @@ As with all injectable medications, local tissue reactions have been reported wi
 ## Cardiovascular Effects
 
 Tachycardia, hypotension, and hypertension have been reported.
-QT prolongation and/or ventricular arrhythmias have also been reported, in addition to ECG pattern changes compatible with the polymorphous configuration of torsade de pointes, and may occur more frequently with high doses and in predisposed patients (see WARNINGS and PRECAUTIONS).
+QT-prolongation and/or ventricular arrhythmias have also been reported, in addition to ECG pattern changes compatible with the polymorphous configuration of Torsades de Pointes, and may occur more frequently with high doses and in predisposed patients (see WARNINGS and PRECAUTIONS).
 
 Cases of sudden and unexpected death have been reported in association with the administration of Haloperidol Decanoate Injection.
 The nature of the evidence makes it impossible to determine definitively what role, if any, Haloperidol Decanoate Injection played in the outcome of the reported cases.
@@ -68,7 +68,7 @@ Neuroleptic malignant syndrome (NMS), hyperpyrexia and heat stroke have been rep
 Hematologic Effects
 
 Reports have appeared citing the occurrence of mild and usually transient leukopenia and leukocytosis, minimal decreases in red blood cell counts, anemia, or a tendency toward lymphomonocytosis.
-Agranulocytosis has rarely been reported to have occurred with the use of haloperidol, and then only in association with other medication.
+Agranulocytosis has rarely been reported to have occurred with the use of haloperidol, and then only in association with other medication (see PRECAUTIONS, Leukopenia, Neutropenia, and Agranulocytosis).
 
 Liver Effects
 

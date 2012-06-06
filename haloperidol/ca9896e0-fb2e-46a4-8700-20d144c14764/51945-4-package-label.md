@@ -4,9 +4,7 @@ NDC 63323-469-05
 
 436905
 
-Haloperidol Decanoate
-
-Injection
+Haloperidol Decanoate Injection
 
 50 mg*/mL
 
@@ -24,9 +22,7 @@ NDC 63323-469-05
 
 436905
 
-Haloperidol Decanoate
-
-Injection
+Haloperidol Decanoate Injection
 
 50 mg*/mL
 
@@ -46,9 +42,7 @@ NDC 63323-471-01
 
 437101
 
-Haloperidol Decanoate
-
-Injection
+Haloperidol Decanoate Injection
 
 100 mg*/mL
 
@@ -70,9 +64,7 @@ NDC 63323-471-01
 
 437101
 
-Haloperidol Decanoate
-
-Injection
+Haloperidol Decanoate Injection
 
 100 mg*/mL
 
