@@ -16,19 +16,19 @@ FASLODEX has not been evaluated in patients with severe hepatic impairment (Chil
 
 The proper method of administration of FASLODEX for intramuscular use is described in the instructions that follow:
 
-1. Remove glass syringe barrel from tray and check that it is not damaged.
-2. Remove perforated patient record label from syringe.
-3. Peel open the safety needle (SafetyGlide™) outer packaging.
-   For complete SafetyGlide™ instructions refer below to the "Directions for Use of SafetyGlide™".
-4. Break the seal of the white plastic cover on the syringe luer connector to remove the cover with the attached rubber tip cap (see Figure 1).
-5. Twist to lock the needle to the luer connector.
-6. Remove needle sheath.
-7. Remove excess gas from the syringe (a small gas bubble may remain).
-8. Administer intramuscularly slowly in the buttock.
-9. Immediately activate needle protection device upon withdrawal from patient by pushing lever arm completely forward until needle tip is fully covered (see Figure 2).
-10. Visually confirm that the lever arm has fully advanced and the needle tip is covered.
-    If unable to activate, discard immediately into an approved sharps collector.
-11. Repeat steps 1 through 10 for second syringe.
+- Remove glass syringe barrel from tray and check that it is not damaged.
+- Remove perforated patient record label from syringe.
+- Peel open the safety needle (SafetyGlide™) outer packaging.
+  For complete SafetyGlide™ instructions refer below to the "Directions for Use of SafetyGlide™".
+- Break the seal of the white plastic cover on the syringe luer connector to remove the cover with the attached rubber tip cap (see Figure 1).
+- Twist to lock the needle to the luer connector.
+- Remove needle sheath.
+- Remove excess gas from the syringe (a small gas bubble may remain).
+- Administer intramuscularly slowly in the buttock.
+- Immediately activate needle protection device upon withdrawal from patient by pushing lever arm completely forward until needle tip is fully covered (see Figure 2).
+- Visually confirm that the lever arm has fully advanced and the needle tip is covered.
+  If unable to activate, discard immediately into an approved sharps collector.
+- Repeat steps 1 through 10 for second syringe.
 
 How To Use FASLODEX.
 

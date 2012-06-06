@@ -70,10 +70,10 @@ Table 5: Efficacy Results
 | Number (%) of subjects with CRCR = Complete Response + PRPR = Partial Response | 35 (17.0) | 33 (17.0) | 45 (20.3) | 34 (14.9) |
 | % Difference in Tumor Response Rate (FASFAS = FASLODEX —ANAANA = anastrozole) 2–sided 95.4% CICI = Confidence Interval | 0.0 (-6.3, 8.9) |  | 5.4 (-1.4, 14.8) |  |
 | Time to progression (TTP)Median TTP (days) | 165 | 103 | 166 | 156 |
-| Hazard ratio 2-sided 95.4% CI¶ | 0.9 (0.7, 1.1) |  | 1.0 (0.8, 1.2) |  |
+| Hazard ratio Hazard ratio <1 favors FASLODEX2-sided 95.4% CI¶ | 0.9 (0.7, 1.1) |  | 1.0 (0.8, 1.2) |  |
 | Stable Disease for ≥ 24 weeks (%) | 26.7 | 19.1 | 24.3 | 30.1 |
 | Overall Survival (OS) |  |  |  |  |
 | Died n (%) Median Survival (days) | 152 (73.8%) 844 | 149 (76.8%) 913 | 167 (75.2%) 803 | 173 (75.5%) 736 |
-| Hazard RatioHazard ratio <1 favors FASLODEX(2-sided 95% CI¶) | 0.98 (0.78, 1.24) |  | 0.97 (0.78, 1.21) |  |
+| Hazard Ratio(2-sided 95% CI¶) | 0.98 (0.78, 1.24) |  | 0.97 (0.78, 1.21) |  |
 
 There are no efficacy data for the use of FASLODEX in premenopausal women with advanced breast cancer (women with functioning ovaries as evidenced by menstruation and/or premenopausal LH, FSH and estradiol levels).
