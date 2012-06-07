@@ -4,7 +4,7 @@
 
 JALYN is a combination of 2 drugs with different mechanisms of action to improve symptoms in patients with BPH: dutasteride, a 5 alpha-reductase inhibitor, and tamsulosin, an antagonist of alpha1A-adrenoreceptors.
 
-Dutasteride: Dutasteride inhibits the conversion of testosterone to dihydrotestosterone (DHT).
+Dutasteride: Dutasteride inhibits the conversion of testosterone to DHT.
 DHT is the androgen primarily responsible for the initial development and subsequent enlargement of the prostate gland.
 Testosterone is converted to DHT by the enzyme 5 alpha-reductase, which exists as 2 isoforms, type 1 and type 2.
 The type 2 isoenzyme is primarily active in the reproductive tissues, while the type 1 isoenzyme is also responsible for testosterone conversion in the skin and liver.
@@ -23,7 +23,7 @@ Tamsulosin is not intended for use as an antihypertensive.
 
 ## 12.2 Pharmacodynamics
 
-Dutasteride:Effect on 5 Alpha-Dihydrotestosterone and Testosterone: The maximum effect of daily doses of dutasteride on the reduction of DHT is dose-dependent and is observed within 1 to 2 weeks.
+Dutasteride: Effect on 5 Alpha-Dihydrotestosterone and Testosterone: The maximum effect of daily doses of dutasteride on the reduction of DHT is dose-dependent and is observed within 1 to 2 weeks.
 After 1 and 2 weeks of daily dosing with dutasteride 0.5 mg, median serum DHT concentrations were reduced by 85% and 90%, respectively.
 In patients with BPH treated with dutasteride 0.5 mg/day for 4 years, the median decrease in serum DHT was 94% at 1 year, 93% at 2 years, and 95% at both 3 and 4 years.
 The median increase in serum testosterone was 19% at both 1 and 2 years, 26% at 3 years, and 22% at 4 years, but the mean and median levels remained within the physiologic range.
@@ -39,21 +39,21 @@ Effects on Other Hormones: In healthy volunteers, 52 weeks of treatment with dut
 Statistically significant, baseline-adjusted mean increases compared with placebo were observed for total testosterone at 8 weeks (97.1 ng/dL, P<0.003) and thyroid-stimulating hormone at 52 weeks (0.4 mcIU/mL, P<0.05).
 The median percentage changes from baseline within the dutasteride group were 17.9% for testosterone at 8 weeks and 12.4% for thyroid-stimulating hormone at 52 weeks.
 After stopping dutasteride for 24 weeks, the mean levels of testosterone and thyroid-stimulating hormone had returned to baseline in the group of subjects with available data at the visit.
-In patients with BPH treated with dutasteride in a large randomized, double-blind, placebo-controlled study, there was a median percent increase in luteinizing hormone of 12% at 6 months and 19% at both 12 and 24 months.
+In subjects with BPH treated with dutasteride in a large randomized, double-blind, placebo-controlled trial, there was a median percent increase in luteinizing hormone of 12% at 6 months and 19% at both 12 and 24 months.
 
 Other Effects: Plasma lipid panel and bone mineral density were evaluated following 52 weeks of dutasteride 0.5 mg once daily in healthy volunteers.
 There was no change in bone mineral density as measured by dual energy x-ray absorptiometry compared with either placebo or baseline.
 In addition, the plasma lipid profile (i.e., total cholesterol, low density lipoproteins, high density lipoproteins, and triglycerides) was unaffected by dutasteride.
-No clinically significant changes in adrenal hormone responses to ACTH stimulation were observed in a subset population (n = 13) of the 1-year healthy volunteer study.
+No clinically significant changes in adrenal hormone responses to adrenocorticotropic hormone (ACTH) stimulation were observed in a subset population (n = 13) of the 1-year healthy volunteer trial.
 
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of dutasteride and tamsulosin from JALYN are comparable to the pharmacokinetics of dutasteride and tamsulosin when administered separately.
 
-Absorption: The pharmacokinetic parameters of dutasteride and tamsulosin observed after administration of JALYN in a single dose, randomized, 3-period partial cross-over study are summarized in Table 2 below.
+Absorption: The pharmacokinetic parameters of dutasteride and tamsulosin observed after administration of JALYN in a single dose, randomized, 3-period partial cross-over trial are summarized in Table 2 below.
 
 Table 2.
-Arithmetic Means (SD) of Serum Dutasteride and Tamsulosin in Single-dose Pharmacokinetic Parameters Under Fed Conditions
+Arithmetic Means (SD) of Serum Dutasteride and Tamsulosin in Single-Dose Pharmacokinetic Parameters Under Fed Conditions
 
 | Component | N | AUC(0-t) (ng hr/mL) | Cmax (ng/mL) | Tmax (hr)a | t½ (hr) |
 | --- | --- | --- | --- | --- | --- |
@@ -70,9 +70,9 @@ Tamsulosin exhibits linear kinetics following single and multiple dosing, with a
 Effect of Food: Food does not affect the pharmacokinetics of dutasteride following administration of JALYN.
 However, a mean 30% decrease in tamsulosin Cmax was observed when JALYN was administered with food, similar to that seen when tamsulosin monotherapy was administered under fed versus fasting conditions.
 
-Distribution:Dutasteride: Pharmacokinetic data following single and repeat oral doses show that dutasteride has a large volume of distribution (300 to 500 L). Dutasteride is highly bound to plasma albumin (99.0%) and alpha-1 acid glycoprotein (96.6%).
+Distribution: Dutasteride: Pharmacokinetic data following single and repeat oral doses show that dutasteride has a large volume of distribution (300 to 500 L). Dutasteride is highly bound to plasma albumin (99.0%) and alpha-1 acid glycoprotein (96.6%).
 
-In a study of healthy subjects (n = 26) receiving dutasteride 0.5 mg/day for 12 months, semen dutasteride concentrations averaged 3.4 ng/mL (range: 0.4 to 14 ng/mL) at 12 months and, similar to serum, achieved steady-state concentrations at 6 months.
+In a trial of healthy subjects (n = 26) receiving dutasteride 0.5 mg/day for 12 months, semen dutasteride concentrations averaged 3.4 ng/mL (range: 0.4 to 14 ng/mL) at 12 months and, similar to serum, achieved steady-state concentrations at 6 months.
 On average, at 12 months 11.5% of serum dutasteride concentrations partitioned into semen.
 
 Tamsulosin: The mean steady-state apparent volume of distribution of tamsulosin after intravenous administration to 10 healthy male adults was 16 L, which is suggestive of distribution into extracellular fluids in the body.
@@ -81,7 +81,7 @@ Tamsulosin is extensively bound to human plasma proteins (94% to 99%), primarily
 The results of 2-way in vitro studies indicate that the binding of tamsulosin to human plasma proteins is not affected by amitriptyline, diclofenac, glyburide, simvastatin plus simvastatin-hydroxy acid metabolite, warfarin, diazepam, or propranolol.
 Likewise, tamsulosin had no effect on the extent of binding of these drugs.
 
-Metabolism:Dutasteride: Dutasteride is extensively metabolized in humans.
+Metabolism: Dutasteride: Dutasteride is extensively metabolized in humans.
 In vitro studies showed that dutasteride is metabolized by the CYP3A4 and CYP3A5 isoenzymes.
 Both of these isoenzymes produced the 4′-hydroxydutasteride, 6-hydroxydutasteride, and the 6,4′-dihydroxydutasteride metabolites.
 In addition, the 15-hydroxydutasteride metabolite was formed by CYP3A4.
@@ -101,7 +101,7 @@ The metabolites of tamsulosin undergo extensive conjugation to glucuronide or su
 Incubations with human liver microsomes showed no evidence of clinically significant metabolic interactions between tamsulosin and amitriptyline, albuterol, glyburide, and finasteride.
 However, results of the in vitro testing of the tamsulosin interaction with diclofenac and warfarin were equivocal.
 
-Excretion:Dutasteride: Dutasteride and its metabolites were excreted mainly in feces.
+Excretion: Dutasteride: Dutasteride and its metabolites were excreted mainly in feces.
 As a percent of dose, there was approximately 5% unchanged dutasteride (approximately 1% to approximately 15%) and 40% as dutasteride-related metabolites (~2% to ~90%).
 Only trace amounts of unchanged dutasteride were found in urine (<1%).
 Therefore, on average, the dose unaccounted for approximated 55% (range: 5% to 97%).
@@ -117,17 +117,17 @@ Because of absorption rate-controlled pharmacokinetics with tamsulosin hydrochlo
 
 Tamsulosin undergoes restrictive clearance in humans, with a relatively low systemic clearance (2.88 L/hr).
 
-Specific Populations:Pediatric: The pharmacokinetics of dutasteride and tamsulosin administered together have not been investigated in subjects younger than 18 years.
+Specific Populations: Pediatric: The pharmacokinetics of dutasteride and tamsulosin administered together have not been investigated in subjects younger than 18 years.
 
 Geriatric: Dutasteride and tamsulosin pharmacokinetics using JALYN have not been studied in geriatric patients.
 The following text reflects information for the individual components.
 
 Dutasteride: No dosage adjustment is necessary in the elderly.
 The pharmacokinetics and pharmacodynamics of dutasteride were evaluated in 36 healthy male subjects aged between 24 and 87 years following administration of a single 5-mg dose of dutasteride.
-In this single-dose study, dutasteride half-life increased with age (approximately 170 hours in men aged 20 to 49 years, approximately 260 hours in men aged 50 to 69 years, and approximately 300 hours in men older than 70 years).
+In this single-dose trial, dutasteride half-life increased with age (approximately 170 hours in men aged 20 to 49 years, approximately 260 hours in men aged 50 to 69 years, and approximately 300 hours in men older than 70 years).
 
-Tamsulosin: Cross-study comparison of tamsulosin overall exposure (AUC) and half-life indicate that the pharmacokinetic disposition of tamsulosin may be slightly prolonged in geriatric males compared to young, healthy male volunteers.
-Intrinsic clearance is independent of tamsulosin binding to AAG, but diminishes with age, resulting in a 40% overall higher exposure (AUC) in subjects aged 55 to 75 years compared to subjects aged 20 to 32 years.
+Tamsulosin: Cross-study comparison of tamsulosin overall exposure (AUC) and half-life indicate that the pharmacokinetic disposition of tamsulosin may be slightly prolonged in geriatric males compared with young, healthy male volunteers.
+Intrinsic clearance is independent of tamsulosin binding to AAG, but diminishes with age, resulting in a 40% overall higher exposure (AUC) in subjects aged 55 to 75 years compared with subjects aged 20 to 32 years.
 
 Gender: Dutasteride: Dutasteride is contraindicated in pregnancy and women of childbearing potential and is not indicated for use in other women [see Contraindications (4), Warnings and Precautions (5.6)].
 The pharmacokinetics of dutasteride in women have not been studied.
@@ -162,7 +162,7 @@ Tamsulosin has not been studied in patients with severe hepatic impairment.
 Drug Interactions: There have been no drug interaction studies using JALYN.
 The following text reflects information available for the individual components.
 
-Cytochrome P450 Inhibitors: Dutasteride: No clinical drug interaction studies have been performed to evaluate the impact of CYP3A enzyme inhibitors on dutasteride pharmacokinetics.
+Cytochrome P450 Inhibitors: Dutasteride: No clinical drug interaction trials have been performed to evaluate the impact of CYP3A enzyme inhibitors on dutasteride pharmacokinetics.
 However, based on in vitro data, blood concentrations of dutasteride may increase in the presence of inhibitors of CYP3A4/5 such as ritonavir, ketoconazole, verapamil, diltiazem, cimetidine, troleandomycin, and ciprofloxacin.
 
 Dutasteride does not inhibit the in vitro metabolism of model substrates for the major human cytochrome P450 isoenzymes (CYP1A2, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) at a concentration of 1,000 ng/mL, 25 times greater than steady-state serum concentrations in humans.
@@ -185,21 +185,21 @@ However, there is a potential for significant increase in tamsulosin exposure wh
 Cimetidine: The effects of cimetidine at the highest recommended dose (400 mg every 6 hours for 6 days) on the pharmacokinetics of a single tamsulosin capsule 0.4 mg dose was investigated in 10 healthy volunteers (age range: 21 to 38 years).
 Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%).
 
-Alpha Adrenergic Antagonists: Dutasteride: In a single-sequence, crossover study in healthy volunteers, the administration of tamsulosin or terazosin in combination with dutasteride had no effect on the steady-state pharmacokinetics of either alpha-adrenergic antagonist.
+Alpha Adrenergic Antagonists: Dutasteride: In a single-sequence, crossover trial in healthy volunteers, the administration of tamsulosin or terazosin in combination with dutasteride had no effect on the steady-state pharmacokinetics of either alpha-adrenergic antagonist.
 Although the effect of administration of tamsulosin or terazosin on dutasteride pharmacokinetic parameters was not evaluated, the percent change in DHT concentrations was similar for dutasteride, alone or in combination with tamsulosin or terazosin.
 
-Warfarin: Dutasteride: In a study of 23 healthy volunteers, 3 weeks of treatment with dutasteride 0.5 mg/day did not alter the steady-state pharmacokinetics of the S- or R-warfarin isomers or alter the effect of warfarin on prothrombin time when administered with warfarin.
+Warfarin: Dutasteride: In a trial of 23 healthy volunteers, 3 weeks of treatment with dutasteride 0.5 mg/day did not alter the steady-state pharmacokinetics of the S- or R-warfarin isomers or alter the effect of warfarin on prothrombin time when administered with warfarin.
 
-Tamsulosin: A definitive drug-drug interaction study between tamsulosin and warfarin was not conducted.
+Tamsulosin: A definitive drug-drug interaction trial between tamsulosin and warfarin was not conducted.
 Results from limited in vitro and in vivo studies are inconclusive.
 Therefore, caution should be exercised with concomitant administration of warfarin and tamsulosin.
 
-Nifedipine, Atenolol, Enalapril: Tamsulosin: In 3 studies in hypertensive subjects (age range: 47 to 79 years) whose blood pressure was controlled with stable doses of nifedipine extended-release, atenolol, or enalapril for at least 3 months, tamsulosin hydrochloride capsules 0.4 mg for 7 days followed by tamsulosin hydrochloride capsules 0.8 mg for another 7 days (n = 8 per study) resulted in no clinically significant effects on blood pressure and pulse rate compared with placebo (n = 4 per study).
+Nifedipine, Atenolol, Enalapril: Tamsulosin: In 3 trials in hypertensive subjects (age range: 47 to 79 years) whose blood pressure was controlled with stable doses of nifedipine extended-release, atenolol, or enalapril for at least 3 months, tamsulosin hydrochloride capsules 0.4 mg for 7 days followed by tamsulosin hydrochloride capsules 0.8 mg for another 7 days (n = 8 per trial) resulted in no clinically significant effects on blood pressure and pulse rate compared with placebo (n = 4 per trial).
 Therefore, dosage adjustments are not necessary when tamsulosin is administered concomitantly with nifedipine extended-release, atenolol, or enalapril.
 
-Digoxin and Theophylline: Dutasteride: In a study of 20 healthy volunteers, dutasteride did not alter the steady-state pharmacokinetics of digoxin when administered concomitantly at a dose of 0.5 mg/day for 3 weeks.
+Digoxin and Theophylline: Dutasteride: In a trial of 20 healthy volunteers, dutasteride did not alter the steady-state pharmacokinetics of digoxin when administered concomitantly at a dose of 0.5 mg/day for 3 weeks.
 
-Tamsulosin: In 2 studies in healthy volunteers (n = 10 per study; age range: 19 to 39 years) receiving tamsulosin capsules 0.4 mg/day for 2 days, followed by tamsulosin capsules 0.8 mg/day for 5 to 8 days, single intravenous doses of digoxin 0.5 mg or theophylline 5 mg/kg resulted in no change in the pharmacokinetics of digoxin or theophylline.
+Tamsulosin: In 2 trials in healthy volunteers (n = 10 per trial; age range: 19 to 39 years) receiving tamsulosin capsules 0.4 mg/day for 2 days, followed by tamsulosin capsules 0.8 mg/day for 5 to 8 days, single intravenous doses of digoxin 0.5 mg or theophylline 5 mg/kg resulted in no change in the pharmacokinetics of digoxin or theophylline.
 Therefore, dosage adjustments are not necessary when a tamsulosin capsule is administered concomitantly with digoxin or theophylline.
 
 Furosemide: Tamsulosin: The pharmacokinetic and pharmacodynamic interaction between tamsulosin hydrochloride capsules 0.8 mg/day (steady-state) and furosemide 20 mg intravenously (single dose) was evaluated in 10 healthy volunteers (age range: 21 to 40 years).

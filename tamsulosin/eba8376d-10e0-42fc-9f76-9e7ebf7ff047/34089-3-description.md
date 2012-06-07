@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-JALYN (dutasteride and tamsulosin hydrochloride) Capsules contain dutasteride (a selective inhibitor of both the type 1 and type 2 isoforms of steroid 5 alpha-reductase, an intracellular enzyme that converts testosterone to dihydrotestosterone (DHT) and tamsulosin (an antagonist of alpha1A-adrenoceptors in the prostate).
+JALYN (dutasteride and tamsulosin hydrochloride) Capsules contain dutasteride (a selective inhibitor of both the type 1 and type 2 isoforms of steroid 5 alpha-reductase, an intracellular enzyme that converts testosterone to DHT and tamsulosin (an antagonist of alpha1A-adrenoceptors in the prostate).
 Each JALYN Capsule contains the following:
 
 - One dutasteride oblong, opaque, dull-yellow soft gelatin capsule, containing 0.5 mg of dutasteride dissolved in a mixture of butylated hydroxytoluene and mono-di-glycerides of caprylic/capric acid.

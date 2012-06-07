@@ -30,7 +30,7 @@ Do Not Take JALYN if you are:
 - allergic to dutasteride, tamsulosin, or any of the ingredients in JALYN.
   See the end of this leaflet for a complete list of ingredients in JALYN.
 - taking another medicine that contains an alpha-blocker.
-- allergic to other 5 alpha-reductase inhibitors, for example, PROSCAR (finasteride) Tablets.
+- allergic to other 5 alpha-reductase inhibitors, for example, PROSCAR® (finasteride) Tablets.
 
 What should I tell my healthcare provider before taking JALYN?
 
@@ -105,6 +105,8 @@ The most common side effects of JALYN include:
   If you notice breast lumps or nipple discharge, you should talk to your healthcare provider.
 - runny nose
 
+Depressed mood has been reported in patients receiving dutasteride, an ingredient of JALYN.
+
 Dutasteride, an ingredient of JALYN, has been shown to reduce sperm count, semen volume, and sperm movement.
 However, the effect of JALYN on male fertility is not known.
 
@@ -155,6 +157,11 @@ These 2 medications work in different ways to improve symptoms of BPH.
 Dutasteride shrinks the enlarged prostate and tamsulosin relaxes muscles in the prostate and neck of the bladder.
 These 2 medications, when used together, can improve symptoms of BPH better than either medication when used alone.
 
+JALYN is a registered trademark of GlaxoSmithKline.
+
+The other brands listed are trademarks of their respective owners and are not trademarks of GlaxoSmithKline.
+The makers of these brands are not affiliated with and do not endorse GlaxoSmithKline or its products.
+
 Jointly Manufactured by
 
 Catalent Pharma Solutions
@@ -174,6 +181,6 @@ Distributed by GlaxoSmithKline Research Triangle Park, NC 27709
 ©2012, GlaxoSmithKline.
 All rights reserved.
 
-March 2012
+June 2012
 
-JLN:3PIL
+JLN:4PIL

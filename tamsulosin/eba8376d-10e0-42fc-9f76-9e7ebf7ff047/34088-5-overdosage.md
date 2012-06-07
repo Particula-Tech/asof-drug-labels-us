@@ -3,8 +3,8 @@
 No data are available with regard to overdosage with JALYN.
 The following text reflects information available for the individual components.
 
-Dutasteride: In volunteer studies, single doses of dutasteride up to 40 mg (80 times the therapeutic dose) for 7 days have been administered without significant safety concerns.
-In a clinical study, daily doses of 5 mg (10 times the therapeutic dose) were administered to 60 subjects for 6 months with no additional adverse effects to those seen at therapeutic doses of 0.5 mg.
+Dutasteride: In volunteer trials, single doses of dutasteride up to 40 mg (80 times the therapeutic dose) for 7 days have been administered without significant safety concerns.
+In a clinical trial, daily doses of 5 mg (10 times the therapeutic dose) were administered to 60 subjects for 6 months with no additional adverse effects to those seen at therapeutic doses of 0.5 mg.
 
 There is no specific antidote for dutasteride.
 Therefore, in cases of suspected overdosage symptomatic and supportive treatment should be given as appropriate, taking the long half-life of dutasteride into consideration.

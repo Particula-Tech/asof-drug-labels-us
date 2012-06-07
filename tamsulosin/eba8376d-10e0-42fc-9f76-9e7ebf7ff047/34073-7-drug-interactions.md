@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-There have been no drug interaction studies using JALYN.
+There have been no drug interaction trials using JALYN.
 The following sections reflect information available for the individual components.
 
 ## 7.1 Cytochrome P450 3A Inhibitors
@@ -9,7 +9,7 @@ Dutasteride: Dutasteride is extensively metabolized in humans by the CYP3A4 and 
 The effect of potent CYP3A4 inhibitors on dutasteride has not been studied.
 Because of the potential for drug-drug interactions, use caution when prescribing a dutasteride-containing product, including JALYN, to patients taking potent, chronic CYP3A4 enzyme inhibitors (e.g., ritonavir) [see Clinical Pharmacology (12.3)].
 
-Tamsulosin:Strong and Moderate Inhibitors of CYP3A4 or CYP2D6: Tamsulosin is extensively metabolized, mainly by CYP3A4 or CYP2D6.
+Tamsulosin: Strong and Moderate Inhibitors of CYP3A4 or CYP2D6: Tamsulosin is extensively metabolized, mainly by CYP3A4 or CYP2D6.
 
 Concomitant treatment with ketoconazole (a strong inhibitor of CYP3A4) resulted in increases in the Cmax and AUC of tamsulosin by factors of 2.2 and 2.8, respectively.
 Concomitant treatment with paroxetine (a strong inhibitor of CYP2D6) resulted in increases in the Cmax and AUC of tamsulosin by factors of 1.3 and 1.6, respectively.
@@ -24,7 +24,7 @@ Cimetidine: Treatment with cimetidine resulted in a moderate increase in tamsulo
 
 Dutasteride: Concomitant administration of dutasteride 0.5 mg/day for 3 weeks with warfarin does not alter the steady-state pharmacokinetics of the S- or R-warfarin isomers or alter the effect of warfarin on prothrombin time [see Clinical Pharmacology (12.3)].
 
-Tamsulosin: A definitive drug-drug interaction study between tamsulosin hydrochloride and warfarin was not conducted.
+Tamsulosin: A definitive drug-drug interaction trial between tamsulosin hydrochloride and warfarin was not conducted.
 Results from limited in vitro and in vivo studies are inconclusive.
 Caution should be exercised with concomitant administration of warfarin and tamsulosin-containing products, including JALYN [see Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 

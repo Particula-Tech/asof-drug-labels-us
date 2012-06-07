@@ -64,4 +64,4 @@ Estimates of exposure multiples comparing animal studies to the MRHD for tamsulo
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Central Nervous System Toxicology Studies:Dutasteride: In rats and dogs, repeated oral administration of dutasteride resulted in some animals showing signs of non-specific, reversible, centrally-mediated toxicity without associated histopathological changes at exposures 425- and 315-fold the expected clinical exposure (of parent drug), respectively.
+Central Nervous System Toxicology Studies: Dutasteride: In rats and dogs, repeated oral administration of dutasteride resulted in some animals showing signs of non-specific, reversible, centrally-mediated toxicity without associated histopathological changes at exposures 425- and 315-fold the expected clinical exposure (of parent drug), respectively.

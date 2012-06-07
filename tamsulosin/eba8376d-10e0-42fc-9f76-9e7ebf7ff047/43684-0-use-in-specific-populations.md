@@ -80,7 +80,7 @@ The following text reflects information available for the individual components.
 
 Dutasteride: The effect of hepatic impairment on dutasteride pharmacokinetics has not been studied.
 Because dutasteride is extensively metabolized, exposure could be higher in hepatically impaired patients.
-However, in a clinical study where 60 subjects received 5 mg (10 times the therapeutic dose) daily for 24 weeks, no additional adverse events were observed compared with those observed at the therapeutic dose of 0.5 mg [see Clinical Pharmacology (12.3)].
+However, in a clinical trial where 60 subjects received 5 mg (10 times the therapeutic dose) daily for 24 weeks, no additional adverse events were observed compared with those observed at the therapeutic dose of 0.5 mg [see Clinical Pharmacology (12.3)].
 
 Tamsulosin: Patients with moderate hepatic impairment do not require an adjustment in tamsulosin dosage.
 Tamsulosin has not been studied in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].

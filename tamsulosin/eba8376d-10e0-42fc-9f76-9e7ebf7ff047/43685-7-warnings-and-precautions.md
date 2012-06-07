@@ -25,7 +25,7 @@ Warfarin: Caution should be exercised with concomitant administration of warfari
 
 Coadministration of dutasteride with tamsulosin resulted in similar changes to serum PSA as with dutasteride monotherapy.
 
-In clinical studies, dutasteride reduced serum PSA concentration by approximately 50% within 3 to 6 months of treatment.
+In clinical trials, dutasteride reduced serum PSA concentration by approximately 50% within 3 to 6 months of treatment.
 This decrease was predictable over the entire range of PSA values in patients with symptomatic BPH, although it may vary in individuals.
 Dutasteride-containing treatment, including JALYN, may also cause decreases in serum PSA in the presence of prostate cancer.
 To interpret serial PSAs in men treated with a dutasteride-containing product, including JALYN, a new baseline PSA should be established at least 3 months after starting treatment and PSA monitored periodically thereafter.
@@ -37,13 +37,13 @@ To interpret an isolated PSA value in a man treated with JALYN, for 3 months or 
 The free-to-total PSA ratio (percent free PSA) remains constant, even under the influence of dutasteride.
 If clinicians elect to use percent free PSA as an aid in the detection of prostate cancer in men receiving JALYN, no adjustment to its value appears necessary.
 
-## 5.4 Increased Risk of High-grade Prostate Cancer
+## 5.4 Increased Risk of High-Grade Prostate Cancer
 
 In men aged 50 to 75 years with a prior negative biopsy for prostate cancer and a baseline PSA between 2.5 ng/mL and 10.0 ng/mL taking dutasteride in the 4-year Reduction by Dutasteride of Prostate Cancer Events (REDUCE) trial, there was an increased incidence of Gleason score 8-10 prostate cancer compared with men taking placebo (dutasteride 1.0% versus placebo 0.5%) [see Indications and Usage (1.2), Adverse Reactions (6.1)].
-In a 7-year placebo-controlled clinical trial with another 5 alpha-reductase inhibitor (finasteride 5 mg, PROSCAR), similar results for Gleason score 8-10 prostate cancer were observed (finasteride 1.8% versus placebo 1.1%).
+In a 7-year placebo-controlled clinical trial with another 5 alpha-reductase inhibitor (finasteride 5 mg, PROSCAR®), similar results for Gleason score 8-10 prostate cancer were observed (finasteride 1.8% versus placebo 1.1%).
 
 5 alpha-reductase inhibitors may increase the risk of development of high-grade prostate cancer.
-Whether the effect of 5 alpha-reductase inhibitors to reduce prostate volume, or study-related factors, impacted the results of these studies has not been established.
+Whether the effect of 5 alpha-reductase inhibitors to reduce prostate volume or trial-related factors impacted the results of these trials has not been established.
 
 ## 5.5 Evaluation for Other Urological Diseases
 

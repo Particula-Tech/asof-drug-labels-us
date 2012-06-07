@@ -13,9 +13,9 @@ Patients should sit or lie down at the first signs of orthostatic hypotension [s
 Physicians should inform patients that JALYN reduces serum PSA levels by approximately 50% within 3 to 6 months of therapy, although it may vary for each individual.
 For patients undergoing PSA screening, increases in PSA levels while on treatment with JALYN may signal the presence of prostate cancer and should be evaluated by a healthcare provider [see Warnings and Precautions (5.3)].
 
-## 17.3 Risk of High-grade Prostate Cancer
+## 17.3 Risk of High-Grade Prostate Cancer
 
-Physicians should inform patients that there was an increase in high-grade prostate cancer in men treated with 5 alpha-reductase inhibitors (which are indicated for BPH treatment), including dutasteride, which is a component of JALYN, compared with those treated with placebo in studies looking at the use of these drugs to reduce the risk of prostate cancer [see Indications and Usage (1.2), Warnings and Precautions (5.4), Adverse Reactions (6.1)].
+Physicians should inform patients that there was an increase in high-grade prostate cancer in men treated with 5 alpha-reductase inhibitors (which are indicated for BPH treatment), including dutasteride, which is a component of JALYN, compared with those treated with placebo in trials looking at the use of these drugs to reduce the risk of prostate cancer [see Indications and Usage (1.2), Warnings and Precautions (5.4), Adverse Reactions (6.1)].
 
 ## 17.4 Exposure of Women—Risk to Male Fetus
 
@@ -67,7 +67,7 @@ Distributed by GlaxoSmithKline Research Triangle Park, NC 27709
 ©2012, GlaxoSmithKline.
 All rights reserved.
 
-March 2012 JLN:3PI
+JLN:4PI
 
 PHARMACIST—DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
