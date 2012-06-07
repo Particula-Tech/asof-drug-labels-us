@@ -59,10 +59,10 @@ Renal clearance at steady state was approximately 70 mL/min.
 
 ### Specific Populations
 
-#### Renal Impairment
+### Renal Impairment
 
 An open-label pharmacokinetic study evaluated the pharmacokinetics of linagliptin 5 mg in male and female patients with varying degrees of chronic renal impairment.
-The study included 6 healthy subjects with normal renal function (creatinine clearance [CrCl] ≥80 mL/min), 6 patients with mild renal impairment (CrCl 50 to <80 mL/min), 6 patients with moderate renal impairment (CrCl 30 to >50 mL/min), 10 patients with type 2 diabetes mellitus and severe renal impairment (CrCl <30 mL/min), and 11 patients with type 2 diabetes mellitus and normal renal function.
+The study included 6 healthy subjects with normal renal function (creatinine clearance [CrCl] ≥80 mL/min), 6 patients with mild renal impairment (CrCl 50 to <80 mL/min), 6 patients with moderate renal impairment (CrCl 30 to <50 mL/min), 10 patients with type 2 diabetes mellitus and severe renal impairment (CrCl <30 mL/min), and 11 patients with type 2 diabetes mellitus and normal renal function.
 Creatinine clearance was measured by 24-hour urinary creatinine clearance measurements or estimated from serum creatinine based on the Cockcroft-Gault formula.
 
 Under steady-state conditions, linagliptin exposure in patients with mild renal impairment was comparable to healthy subjects.
@@ -74,49 +74,48 @@ Renal excretion of linagliptin was below 5% of the administered dose and was not
 Patients with type 2 diabetes mellitus and severe renal impairment showed steady-state exposure approximately 40% higher than that of patients with type 2 diabetes mellitus and normal renal function (increase in AUCτ,ss by 42% and Cmax by 35%).
 For both type 2 diabetes mellitus groups, renal excretion was below 7% of the administered dose.
 
-Results of this study, supported by results of population pharmacokinetic analyses, indicate that no dose adjustment is recommended in patients with renal impairment.
+These findings were further supported by the results of population pharmacokinetic analyses.
 
-#### Hepatic Impairment
+### Hepatic Impairment
 
 In patients with mild hepatic impairment (Child-Pugh class A), steady-state exposure (AUCτ,ss) of linagliptin was approximately 25% lower and Cmax,ss was approximately 36% lower than in healthy subjects.
 In patients with moderate hepatic impairment (Child-Pugh class B), AUCss of linagliptin was about 14% lower and Cmax,ss was approximately 8% lower than in healthy subjects.
 Patients with severe hepatic impairment (Child-Pugh class C) had comparable exposure of linagliptin in terms of AUC0-24 and approximately 23% lower Cmax compared with healthy subjects.
 Reductions in the pharmacokinetic parameters seen in patients with hepatic impairment did not result in reductions in DPP-4 inhibition.
-No dose adjustment of linagliptin is necessary in patients with hepatic impairment.
 
-#### Body Mass Index (BMI)/Weight
+### Body Mass Index (BMI)/Weight
 
 No dose adjustment is necessary based on BMI/weight.
 BMI/weight had no clinically meaningful effect on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis.
 
-#### Gender
+### Gender
 
 No dose adjustment is necessary based on gender.
 Gender had no clinically meaningful effect on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis.
 
-#### Geriatric
+### Geriatric
 
-No dose adjustment is recommended based on age, as age did not have a clinically meaningful impact on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis.
+Age did not have a clinically meaningful impact on the pharmacokinetics of linagliptin based on a population pharmacokinetic analysis.
 
-#### Pediatric
+### Pediatric
 
 Studies characterizing the pharmacokinetics of linagliptin in pediatric patients have not yet been performed.
 
-#### Race
+### Race
 
 No dose adjustment is necessary based on race.
 Race had no clinically meaningful effect on the pharmacokinetics of linagliptin based on available pharmacokinetic data, including subjects of White, Hispanic, Black, and Asian racial groups.
 
 ### Drug Interactions
 
-#### In vitro Assessment of Drug Interactions
+### In vitro Assessment of Drug Interactions
 
 Linagliptin is a weak to moderate inhibitor of CYP isozyme CYP3A4, but does not inhibit other CYP isozymes and is not an inducer of CYP isozymes, including CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, and 4A11.
 
 Linagliptin is a P-glycoprotein (P-gp) substrate, and inhibits P-gp mediated transport of digoxin at high concentrations.
 Based on these results and in vivo drug interaction studies, linagliptin is considered unlikely to cause interactions with other P-gp substrates at therapeutic concentrations.
 
-#### In vivo Assessment of Drug Interactions
+### In vivo Assessment of Drug Interactions
 
 Inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations.
 For patients requiring use of such drugs, an alternative to linagliptin is strongly recommended.
@@ -132,6 +131,7 @@ Table 2 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | Glyburide | 1.75 mg# | 5 mg QD | 1.02 | 1.01 |
 | Pioglitazone | 45 mg QD | 10 mg QD | 1.13 | 1.07 |
 | Ritonavir | 200 mg BID | 5 mg# | 2.01 | 2.96 |
+| The efficacy of TRADJENTA may be reduced when administered in combination with strong inducers of CYP3A4 or P-gp (e.g., rifampin). Use of alternative treatments is strongly recommended [see Drug Interactions (7.1)]. |  |  |  |  |
 | Rifampin | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
 | *Multiple dose (steady state) unless otherwise noted #Single dose †AUC = AUC(0 to 24 hours) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments QD = once daily BID = twice daily TID = three times daily |  |  |  |  |
 
@@ -147,4 +147,4 @@ Table 3 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 | Simvastatin | 40 mg QD | 10 mg QD | simvastatin simvastatin acid | 1.34 1.33 | 1.10 1.21 |
 | Warfarin | 10 mg# | 5 mg QD | R-warfarin S-warfarin INR PT | 0.99 1.03 0.93** 1.03** | 1.00 1.01 1.04** 1.15** |
 | Ethinylestradiol and levonorgestrel | ethinylestradiol 0.03 mg and levonorgestrel 0.150 mg QD | 5 mg QD | ethinylestradiol levonorgestrel | 1.01 1.09 | 1.08 1.13 |
-| *Multiple dose (steady state) unless otherwise noted #Single dose †AUC = AUC(INF) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments **AUC=AUC(0-168) and Cmax=Emax for pharmacodynamic endpoints INR = International Normalized Ratio PT = Prothrombin Time QD = once daily BID = twice daily TID = three times daily |  |  |  |  |  |
+| *Multiple dose (steady state) unless otherwise noted #Single dose †AUC = AUC(INF) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments **AUC=AUC(0-168) and Cmax=Emax for pharmacodynamic end points INR = International Normalized Ratio PT = Prothrombin Time QD = once daily TID = three times daily |  |  |  |  |  |

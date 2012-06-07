@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-TRADJENTA™ (TRAD gen ta) (linagliptin) Tablets
+TRADJENTA® (TRAD gen ta) (linagliptin) Tablets
 
 Read this Patient Information before you start taking TRADJENTA and each time you get a refill.
 There may be new information.
@@ -53,7 +53,7 @@ How should I take TRADJENTA?
   Do not take two doses of TRADJENTA at the same time.
 - Your doctor may tell you to take TRADJENTA along with other diabetes medicines.
   Low blood sugar can happen more often when TRADJENTA is taken with certain other diabetes medicines.
-  See "What are the possible side effects of TRADJENTA?"
+  See “What are the possible side effects of TRADJENTA?”
 - If you take too much TRADJENTA, call your doctor or Poison Control Center at 1-800-222-1222 or go to the nearest hospital emergency room right away.
 - When your body is under some types of stress, such as fever, trauma (such as a car accident), infection, or surgery, the amount of diabetes medicine that you need may change.
   Tell your doctor right away if you have any of these conditions and follow your doctor's instructions.
@@ -67,8 +67,8 @@ What are the possible side effects of TRADJENTA?
 TRADJENTA may cause serious side effects, including:
 
 - low blood sugar (hypoglycemia).
-  If you take TRADJENTA with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
-  The dose of your sulfonylurea medicine or insulin may need to be lowered while you take TRADJENTA.
+  If you take TRADJENTA with another medicine that can cause low blood sugar, such as a sulfonylurea, your risk of getting low blood sugar is higher.
+  The dose of your sulfonylurea medicine may need to be lowered while you take TRADJENTA.
   Signs and symptoms of low blood sugar may include:
   - headache
   - drowsiness
@@ -129,7 +129,7 @@ This can lead to serious medical problems.
 The main goal of treating diabetes is to lower your blood sugar to a normal level.
 High blood sugar can be lowered by diet and exercise, and by certain medicines when necessary.
 
-This Patient Information has been approved by the U. S. Food and Drug Administration.
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
@@ -139,12 +139,12 @@ Licensed from: Boehringer Ingelheim International GmbH Ingelheim, Germany
 
 *The brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
-Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright 2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5253DG132011 10007261/02
+IT5253EE232012 10007261/04
 
-IT5437D 10007237/02
+IT5437E 10007237/04
 
-IT5520A 10007443/01
+IT5520B 10007443/02
 
-Revised July 2011
+Revised: May 2012

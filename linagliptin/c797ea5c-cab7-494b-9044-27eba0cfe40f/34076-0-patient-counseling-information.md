@@ -25,10 +25,10 @@ Marketed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
-Copyright 2011 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright 2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5253DG132011 10007261/02
+IT5253EE232012 10007261/04
 
-IT5437D 10007237/02
+IT5437E 10007237/04
 
-IT5520A 10007443/01
+IT5520B 10007443/02

@@ -28,10 +28,11 @@ Safety and effectiveness of TRADJENTA in pediatric patients have not been establ
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients (n = 4040) in clinical studies of TRADJENTA, 1085 patients were 65 years and over, while 131 patients were 75 years and over.
+There were 4040 type 2 diabetes patients treated with linagliptin 5 mg from 15 clinical trials of TRADJENTA; 1085 (27%) were 65 years and over, while 131 (3%) were 75 years and over.
+Of these patients, 2566 were enrolled in 12 double-blind placebo-controlled studies; 591 (23%) were 65 years and over, while 82 (3%) were 75 years and over.
 No overall differences in safety or effectiveness were observed between patients 65 years and over and younger patients.
-While this and other reported clinical experience have not identified differences in response between the elderly and younger patients, greater sensitivity of some older individuals cannot be ruled out.
-No dose adjustment is recommended in this population.
+Therefore, no dose adjustment is recommended in the elderly population.
+While clinical studies of linagliptin have not identified differences in response between the elderly and younger patients, greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
 
