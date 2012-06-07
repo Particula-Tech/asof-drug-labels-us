@@ -197,4 +197,4 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: anaphylaxis; and injection or infusion site reactions including phlebitis, pruritus, irritation, pain, and swelling.
 
 Skin reactions including SJS and TEN have occurred when TREANDA was administered concomitantly with allopurinol and other medications known to cause these syndromes.
-[See Warnings and Precautions (5.5)].
+[See Warnings and Precautions (5.5)]

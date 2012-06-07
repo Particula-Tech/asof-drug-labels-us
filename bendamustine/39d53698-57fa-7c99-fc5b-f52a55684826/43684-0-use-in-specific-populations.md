@@ -34,7 +34,7 @@ The overall response rate for patients 65 years or older was 47% (n=71) for TREA
 In patients younger than 65 years of age, the median progression-free survival was 19 months in the TREANDA group and 8 months in the chlorambucil group.
 In patients 65 years or older, the median progression-free survival was 12 months in the TREANDA group and 8 months in the chlorambucil group.
 
-Non-Hodgkin’s Lymphoma
+Non-Hodgkin's Lymphoma
 
 Efficacy (Overall Response Rate and Duration of Response) was similar in patients < 65 years of age and patients ≥ 65 years.
 Irrespective of age, all of the 176 patients experienced at least one adverse reaction.

@@ -61,7 +61,7 @@ The association with TREANDA therapy has not been determined.
 
 ## 5.7 Extravasation
 
-There are postmarketing reports of bendamustine extravasations resulting in hospitalizations from erythema, marked swelling, and pain.
+There are post-marketing reports of bendamustine extravasations resulting in hospitalizations from erythema, marked swelling, and pain.
 Precautions should be taken to avoid extravasation, including monitoring of the intravenous infusion site for redness, swelling, pain, infection, and necrosis during and after administration of TREANDA.
 
 ## 5.8 Use in Pregnancy
