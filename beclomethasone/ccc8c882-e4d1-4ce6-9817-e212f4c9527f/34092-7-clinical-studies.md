@@ -18,6 +18,8 @@ In a 6 week clinical trial, 270 steroid naive patients with symptomatic asthma b
 Both doses of QVAR were effective in improving asthma control with significantly greater improvements in FEV1, AM PEF, and asthma symptoms than with placebo.
 Shown below is the change from baseline in AM PEF during this trial.
 
+A 6-Week Clinical Trial in Patients with Mild to Moderate Asthma Not on Corticosteroid Therapy Prior to Study Entry: Mean Change in AM PEF
+
 In a 6-week clinical trial, 256 patients with symptomatic asthma being treated with as-needed beta-agonist bronchodilators, were randomized to receive either 160 mcg twice daily of QVAR (delivered as either 40 mcg/actuation or 80 mcg/actuation) or placebo.
 Treatment with QVAR significantly improved asthma control, as assessed by FEV1, AM PEF, and asthma symptoms, when compared to treatment with placebo.
 Comparable improvement in AM PEF was seen for patients receiving 160 mcg twice daily QVAR from the 40 mcg and 80 mcg strength products.
@@ -29,11 +31,15 @@ Patients treated with either QVAR or CFC-BDP had significantly better asthma con
 A daily dose of 320 mcg QVAR administered in divided doses provided comparable control of AM PEF and FEV1 as 672 mcg of CFC-BDP.
 Shown below are the mean AM PEF results from this trial.
 
+A 12-Week Clinical Trial in Moderate Symptomatic Patients with Asthma Responding to Oral Corticosteroid Therapy: Mean AM PEF by Study Week
+
 ## Patients Previously on Inhaled Corticosteroids
 
 In a 6-week clinical trial, 323 patients, who exhibited a deterioration in asthma control during an inhaled corticosteroid washout period, were randomized to daily treatment with either 40, 160, or 320 mcg twice daily QVAR or 42, 168, or 336 mcg twice daily CFC-BDP.
 Treatment with increasing doses of both QVAR and CFC-BDP resulted in increased improvement in FEV1, FEF25-75% (forced expiratory flow over 25-75% of the vital capacity), and asthma symptoms.
 Shown below is the change from baseline in FEV1 as percent predicted after 6 weeks of treatment.
+
+A 6-Week Dose Response Clinical Trial in Patients with Inhaled Corticosteroid Dependent Asthma: Mean Change in FEV1 as Percent of Predicted
 
 ## Patients Previously Maintained on Oral Corticosteroids
 
