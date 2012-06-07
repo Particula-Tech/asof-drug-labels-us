@@ -1,13 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 Rocuronium bromide injection is for intravenous use only.
-This drug should only be administered by experienced clinicians or trained individuals supervised by an experienced clinician familiar with the use, actions, characteristics and complications of neuromuscular blocking agents.
+This drug should only be administered by experienced clinicians or trained individuals supervised by an experienced clinician familiar with the use, actions, characteristics, and complications of neuromuscular blocking agents.
 Doses of rocuronium bromide injection should be individualized and a peripheral nerve stimulator should be used to monitor drug effect, need for additional doses, adequacy of spontaneous recovery or antagonism, and to decrease the complications of overdosage if additional doses are administered.
 
 The dosage information which follows is derived from studies based upon units of drug per unit of body weight.
 It is intended to serve as an initial guide to clinicians familiar with other neuromuscular blocking agents to acquire experience with rocuronium bromide.
 
-In patients in whom potentiation of, or resistance to, neuromuscular block is anticipated, a dose adjustment should be considered [see Dosage and Administration (2.5), Warnings and Precautions (5.9, 5.12), Drug Interactions (7.2, 7.3, 7.4, 7.5,7.6,7.8,7.10), and Use in Specific Populations (8.6)].
+In patients in whom potentiation of, or resistance to, neuromuscular block is anticipated, a dose adjustment should be considered [see Dosage and Administration (2.5), Warnings and Precautions (5.9, 5.12), Drug Interactions (7.2, 7.3, 7.4, 7.5, 7.6, 7.8, 7.10), and Use in Specific Populations (8.6)].
 
 ## 2.1 Dose for Tracheal Intubation
 
@@ -27,7 +27,7 @@ A large bolus dose of 0.9 or 1.2 mg/kg can be administered under opioid/nitrous 
 
 ## 2.2 Rapid Sequence Intubation
 
-In appropriately premedicated and adequately anesthetized patients, rocuronium bromide 0.6 to 1.2 mg/kg will provide excellent or good intubating conditions in most patients in less than 2 minutes [see Clinical Studies(14.1)].
+In appropriately premedicated and adequately anesthetized patients, rocuronium bromide 0.6 to 1.2 mg/kg will provide excellent or good intubating conditions in most patients in less than 2 minutes [see Clinical Studies (14.1)].
 
 ## 2.3 Maintenance Dosing
 
@@ -38,14 +38,14 @@ A clinically insignificant cumulation of effect with repetitive maintenance dosi
 ## 2.4 Use by Continuous Infusion
 
 Infusion at an initial rate of 10 to 12 mcg/kg/min of rocuronium bromide should be initiated only after early evidence of spontaneous recovery from an intubating dose.
-Due to rapid redistribution [see Clinical Pharmacology (12.3)] and the associated rapid spontaneous recovery, initiation of the infusion after substantial return of neuromuscular function (more than 10% of control T1), may necessitate additional bolus doses to maintain adequate block for surgery.
+Due to rapid redistribution [see Clinical Pharmacology (12.3)] and the associated rapid spontaneous recovery, initiation of the infusion after substantial return of neuromuscular function (more than 10% of control T1) may necessitate additional bolus doses to maintain adequate block for surgery.
 
 Upon reaching the desired level of neuromuscular block, the infusion of rocuronium bromide must be individualized for each patient.
 The rate of administration should be adjusted according to the patient’s twitch response as monitored with the use of a peripheral nerve stimulator.
 In clinical trials, infusion rates have ranged from 4 to 16 mcg/kg/min.
 
-Inhalation anesthetics, particularly enflurane and isoflurane, may enhance the neuromuscular blocking action of nondepolarizing muscle relaxants.
-In the presence of steady-state concentrations of enflurane or isoflurane, it may be necessary to reduce the rate of infusion by 30 to 50%, at 45 to 60 minutes after the intubating dose.
+Inhalation anesthetics, particularly enflurane and isoflurane, may enhance the neuromuscular blocking action of non-depolarizing muscle relaxants.
+In the presence of steady-state concentrations of enflurane or isoflurane, it may be necessary to reduce the rate of infusion by 30% to 50%, at 45 to 60 minutes after the intubating dose.
 
 Spontaneous recovery and reversal of neuromuscular blockade following discontinuation of rocuronium bromide infusion may be expected to proceed at rates comparable to that following comparable total doses administered by repetitive bolus injections [see Clinical Pharmacology (12.2)].
 
@@ -55,9 +55,10 @@ Unused portions of infusion solutions should be discarded.
 
 Infusion rates of rocuronium bromide can be individualized for each patient using the following tables for three different concentrations of rocuronium bromide solution as guidelines:
 
-| TABLE 1: Infusion Rates Using Rocuronium Bromide Injection (0.5 mg/mL)* |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Table 1: Infusion Rates Using Rocuronium Bromide Injection (0.5 mg/mL)50 mg rocuronium bromide in 100 mL solution
+
 | Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | (kg) | (lbs) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 |
 | Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |  |  |
 | 10 | 22 | 4.8 | 6 | 7. 2 | 8. 4 | 9. 6 | 10. 8 | 12 | 14. 4 | 16. 8 | 19.2 |
@@ -72,9 +73,10 @@ Infusion rates of rocuronium bromide can be individualized for each patient usin
 | 90 | 198 | 43. 2 | 54 | 64. 8 | 75. 6 | 86. 4 | 97. 2 | 108 | 129. 6 | 151. 2 | 172. 8 |
 | 100 | 220 | 48 | 60 | 72 | 84 | 96 | 108 | 120 | 144 | 168 | 192 |
 
-| TABLE 2: Infusion Rates Using Rocuronium Bromide Injection (1 mg/mL)** |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Table 2: Infusion Rates Using Rocuronium Bromide Injection (1 mg/mL)100 mg rocuronium bromide in 100 mL solution
+
 | Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | (kg) | (lbs) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 |
 | Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |  |  |
 | 10 | 22 | 2. 4 | 3 | 3. 6 | 4. 2 | 4. 8 | 5. 4 | 6 | 7. 2 | 8. 4 | 9. 6 |
@@ -89,9 +91,10 @@ Infusion rates of rocuronium bromide can be individualized for each patient usin
 | 90 | 198 | 21.6 | 27 | 32.4 | 37. 8 | 43. 2 | 48. 6 | 54 | 64. 8 | 75. 6 | 86. 4 |
 | 100 | 220 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 72 | 84 | 96 |
 
-| TABLE 3: Infusion Rates Using Rocuronium Bromide Injection (5 mg/mL)*** |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Table 3: Infusion Rates Using Rocuronium Bromide Injection (5 mg/mL)500 mg rocuronium bromide in 100 mL solution
+
 | Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | (kg) | (lbs) | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 12 | 14 | 16 |
 | Infusion Delivery Rate (mL/hr) |  |  |  |  |  |  |  |  |  |  |  |
 | 10 | 22 | 0. 5 | 0. 6 | 0. 7 | 0. 8 | 1 | 1. 1 | 1. 2 | 1. 4 | 1. 7 | 1. 9 |
@@ -106,32 +109,31 @@ Infusion rates of rocuronium bromide can be individualized for each patient usin
 | 90 | 198 | 4. 3 | 5. 4 | 6. 5 | 7. 6 | 8. 6 | 9. 7 | 10. 8 | 13 | 15. 1 | 17. 3 |
 | 100 | 220 | 4. 8 | 6 | 7. 2 | 8. 4 | 9. 6 | 10. 8 | 12 | 14. 4 | 16. 8 | 19. 2 |
 
-* 50 mg rocuronium bromide in 100 mL solution
-
-** 100 mg rocuronium bromide in 100 mL solution
-
-***500 mg rocuronium bromide in 100 mL solution
-
 ## 2.5 Dosage in Specific Populations
 
 ### Pediatric Patients
 
-The recommended initial intubation dose of rocuronium bromide is 0.6 mg/kg.
+The recommended initial intubation dose of rocuronium bromide is 0.6 mg/kg; however, a lower dose of 0.45 mg/kg may be used depending on anesthetic technique and the age of the patient.
+
+For sevoflurane (induction) rocuronium bromide doses of 0.45 mg/kg and 0.6 mg/kg in general produce excellent to good intubating conditions within 75 seconds.
 When halothane is used, a 0.6 mg/kg dose of rocuronium bromide resulted in excellent to good intubating conditions within 60 seconds.
+
+The time to maximum block for an intubating dose was shortest in infants (28 days up to 3 months) and longest in neonates (birth to less than 28 days).
+The duration of clinical relaxation following an intubating dose is shortest in children (greater than 2 years up to 11 years) and longest in infants.
+
+When sevoflurane is used for induction and isoflurane/nitrous oxide for maintenance of general anesthesia, maintenance dosing of rocuronium bromide can be administered as bolus doses of 0.15 mg/kg at reappearance of T3 in all pediatric age groups.
+Maintenance dosing can also be administered at the reappearance of T2 at a rate of 7 to 10 mcg/kg/min, with the lowest dose requirement for neonates (birth to less than 28 days) and the highest dose requirement for children (greater than 2 years up to 11 years).
 
 When halothane is used for general anesthesia, patients ranging from 3 months old through adolescence can be administered rocuronium bromide maintenance doses of 0.075 to 0.125 mg/kg upon return of T1 to 0.25% to provide clinical relaxation for 7 to 10 minutes.
 Alternatively, a continuous infusion of rocuronium bromide initiated at a rate of 12 mcg/kg/min upon return of T1 to 10% (one twitch present in train-of-four), may also be used to maintain neuromuscular blockade in pediatric patients.
 
-Additional information for administration to pediatric patients is presented elsewhere in the label [see Clinical Pharmacology (12.2)].
+Additional information for administration to pediatric patients of all age groups is presented elsewhere in the label [see Clinical Pharmacology (12.2)].
 
 The infusion of rocuronium bromide must be individualized for each patient.
 The rate of administration should be adjusted according to the patient’s twitch response as monitored with the use of a peripheral nerve stimulator.
 Spontaneous recovery and reversal of neuromuscular blockade following discontinuation of rocuronium bromide infusion may be expected to proceed at rates comparable to that following similar total exposure to single bolus doses [see Clinical Pharmacology (12.2)].
 
 Rocuronium bromide is not recommended for rapid sequence intubation in pediatric patients.
-
-Due to Organon USA Inc.’s marketing exclusivity rights, this drug product is not approved with certain pediatric dosing and administration information.
-Labeling describing additional dosing and administration information in pediatric populations is approved for Organon USA Inc.’s rocuronium bromide injection.
 
 ### Geriatric Patients
 
@@ -141,14 +143,14 @@ No differences in duration of neuromuscular blockade following maintenance doses
 ### Patients with Renal or Hepatic Impairment
 
 No differences from patients with normal hepatic and kidney function were observed for onset time at a dose of 0.6 mg/kg rocuronium bromide.
-When compared to patients with normal renal and hepatic function, the mean clinical duration is similar in patients with renal disease undergoing renal transplant, and is about 1.5 times longer in patients with hepatic disease.
+When compared to patients with normal renal and hepatic function, the mean clinical duration is similar in patients with end-stage renal disease undergoing renal transplant, and is about 1.5 times longer in patients with hepatic disease.
 Patients with renal failure may have a greater variation in duration of effect [see Use in Specific Populations (8.6, 8.7) and Clinical Pharmacology (12.3)].
 
 ### Obese Patients
 
 In obese patients, the initial dose of rocuronium bromide 0.6 mg/kg should be based upon the patient’s actual body weight [see Clinical Studies (14.1)].
 
-An analysis across all US controlled clinical studies indicates that the pharmacodynamics of rocuronium bromide are not different between obese and non-obese patients when dosed based upon their actual body weight.
+An analysis across all U.S. controlled clinical studies indicates that the pharmacodynamics of rocuronium bromide are not different between obese and non-obese patients when dosed based upon their actual body weight.
 
 ### Patients with Reduced Plasma Cholinesterase Activity
 
@@ -167,9 +169,7 @@ During 1 to 2 hours of infusion, the infusion rate of rocuronium bromide require
 
 ## 2.6 Preparation for Administration of Rocuronium Bromide Injection
 
-Diluent Compatibility
-
-Rocuronium bromide injection is compatible in solution with:
+Diluent Compatibility: Rocuronium bromide injection is compatible in solution with:
 
 | 0.9% NaCl solution | sterile water for injection |
 | --- | --- |
@@ -178,9 +178,7 @@ Rocuronium bromide injection is compatible in solution with:
 
 Rocuronium bromide injection is compatible in the above solutions at concentrations up to 5 mg/mL for 24 hours at room temperature in plastic bags, glass bottles, and plastic syringe pumps.
 
-Drug Admixture Incompatibility
-
-Rocuronium bromide injection is physically incompatible when mixed with the following drugs:
+Drug Admixture Incompatibility: Rocuronium bromide injection is physically incompatible when mixed with the following drugs:
 
 | amphotericin | hydrocortisone sodium succinate |
 | --- | --- |
@@ -201,7 +199,5 @@ Unused portions of infusion solutions should be discarded.
 
 Rocuronium bromide injection should not be mixed with alkaline solutions [see Warnings and Precautions (5.10)].
 
-Visual Inspection
-
-Parenteral drug products should be inspected visually for particulate matter and clarity prior to administration whenever solution and container permit.
+Visual Inspection: Parenteral drug products should be inspected visually for particulate matter and clarity prior to administration whenever solution and container permit.
 Do not use solution if particulate matter is present.

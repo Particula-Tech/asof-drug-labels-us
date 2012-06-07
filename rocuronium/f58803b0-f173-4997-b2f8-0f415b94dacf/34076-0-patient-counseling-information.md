@@ -6,10 +6,8 @@ If applicable, inform your patients that certain medical conditions and medicati
 In addition, inform your patient that severe anaphylactic reactions to neuromuscular blocking agents, including rocuronium bromide injection, have been reported.
 Since allergic cross-reactivity has been reported in this class, request information from your patients about previous anaphylactic reactions to other neuromuscular blocking agents.
 
-Manufactured for: Bioniche Pharma USA LLC, Lake Forest, IL 60045
+Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
-Manufactured by: Gland Pharma Ltd Hyderbad 500 043 India
+Manufactured by: Gland Pharma Ltd Hyderabad 500 043 India M.L.: 103/AP/RR/97/F/R
 
-ML # 103/AP/RR/97/F/R
-
-January 2011 LEA-019177-00
+LEA-019177-01 FEBRUARY 2012 MI:ROCUIJ:R1
