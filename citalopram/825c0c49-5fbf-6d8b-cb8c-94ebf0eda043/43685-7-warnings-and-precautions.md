@@ -46,17 +46,29 @@ Prescriptions for citalopram should be written for the smallest quantity of tabl
 
 ## QT-Prolongation and Torsade de Pointes
 
-Citalopram causes dose dependent QT prolongation and should not be dosed above 40 mg/day.
-Torsade de Pointes has been reported post-marketing.
-Citalopram should not be used in patients with congenital long QT syndrome.
-Hypokalemia and hypomagnesemia should be corrected prior to initiation of treatment and periodically monitored.
-ECG monitoring is recommended in patients with congestive heart failure, bradyarrhythmias, or patients on concomitant medication that prolong the QT interval.
-Dose escalations over 20 mg/day in CYP2C19 poor metabolizers or patients taking concomitant cimetidine or another CYP2C19 inhibitor are not recommended.
+Citalopram causes dose dependent QTc prolongation, an ECG abnormality that has been associated with Torsade de Pointes (TdP), ventricular tachycardia, and sudden death, all of which have been observed in post-marketing reports for citalopram.
 
 Individually corrected QTc (QTcNi) interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple-dose study in 119 healthy subjects.
 The maximum mean (upper bound of the 95% one-sided confidence interval) difference from placebo were 8.5 (10.8) and 18.5 (21) msec for 20 mg and 60 mg citalopram, respectively.
 Based on the established exposure-response relationship, the predicted QTcNi change from placebo (upper bound of the 95% one-sided confidence interval) under the Cmax for the dose of 40 mg is 12.6 (14.3) msec.
-In those patients who are CYP2C19 poor metabolizers or those patients who may be taking concomitant cimetidine or another CYP2C19 inhibitor, higher citalopram exposure would be expected, along with any concomitant risks.
+
+Because of the risk of QTc prolongation at higher citalopram doses, it is recommended that citalopram should not be given at doses above 40 mg/day.
+
+It is recommended that citalopram should not be used in patients with congenital long QT syndrome, bradycardia, hypokalemia or hypomagnesemia, recent acute myocardial infarction, or uncompensated heart failure.
+Citalopram should also not be used in patients who are taking other drugs that prolong the QTc interval.
+Such drugs include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic medications, antipsychotic medications (e.g., chlorpromazine, thioridazine), antibiotics (e.g., gatifloxacin, moxifloxacin), or any other class of medications known to prolong the QTc interval (e.g., pentamidine, levomethadyl acetate, methadone).
+
+The citalopram dose should be limited in certain populations.
+The maximum dose should be limited to 20 mg/day in patients who are CYP2C19 poor metabolizers or those patients who may be taking concomitant cimetidine or another CYP2C19 inhibitor, since higher citalopram exposures would be expected.
+The maximum dose should also be limited to 20 mg/day in patients with hepatic impairment and in patients who are greater than 60 years of age because of expected higher exposures.
+
+Electrolyte and/or ECG monitoring is recommended in certain circumstances.
+Patients being considered for citalopram treatment who are at risk for significant electrolyte disturbances should have baseline serum potassium and magnesium measurements with periodic monitoring.
+Hypokalemia (and/or hypomagnesemia) may increase the risk of QTc prolongation and arrhythmia, and should be corrected prior to initiation of treatment and periodically monitored.
+ECG monitoring is recommended in patients for whom citalopram use is not recommended (see above), but, nevertheless, considered essential.
+These include those patients with the cardiac conditions noted above, and those taking other drugs that may prolong the QTc interval.
+
+Citalopram should be discontinued in patients who are found to have persistent QTc measurements > 500 ms. If patients taking citalopram experience symptoms that could indicate the occurrence of cardiac arrhythmias, e.g., dizziness, palpitations, or syncope, the prescriber should initiate further evaluation, including cardiac monitoring.
 
 ## Screening Patients for Bipolar Disorder
 
@@ -142,12 +154,8 @@ Because any psychoactive drug may impair judgment, thinking, or motor skills, ho
 ### Use in Patients with Concomitant Illness
 
 Clinical experience with citalopram in patients with certain concomitant systemic illnesses is limited.
-Due to the risk of QT prolongation, ECG monitoring is advised when using citalopram in patients with congestive heart failure, bradyarrhythmias, or who are taking medications that prolong the QT interval.
-Caution is advised in treating patients with diseases or conditions that cause hypokalemia or hypomagnesemia.
-
-Citalopram has not been systematically evaluated in patients with a recent history of myocardial infarction or unstable heart disease.
-Patients with these diagnoses were generally excluded from clinical studies during the product’s premarketing testing.
-However, the electrocardiograms of 1,116 patients who received citalopram in clinical trials were evaluated and the data indicate that citalopram is not associated with the development of clinically significant ECG abnormalities.
+Due to the risk of QT prolongation, citalopram use should be avoided in patients with certain cardiac conditions, and ECG monitoring is advised if citalopram must be used in such patients.
+Electrolytes should be monitored in treating patients with diseases or conditions that cause hypokalemia or hypomagnesemia (see WARNINGS).
 
 In subjects with hepatic impairment, citalopram clearance was decreased and plasma concentrations were increased.
 The use of citalopram in hepatically impaired patients should be approached with caution and a lower maximum dosage is recommended (see DOSAGE AND ADMINISTRATION).
@@ -194,20 +202,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 There are no specific laboratory tests recommended.
 
-## QT-Prolongation and Torsade de Pointes
-
-Citalopram causes dose dependent QT prolongation and should not be dosed above 40 mg/day.
-Torsade de Pointes has been reported post-marketing.
-Citalopram should not be used in patients with congenital long QT syndrome.
-Hypokalemia and hypomagnesemia should be corrected prior to initiation of treatment and periodically monitored.
-ECG monitoring is recommended in patients with congestive heart failure, bradyarrhythmias, or patients on concomitant medications that prolong the QT interval.
-Dose escalations over 20 mg/day in CYP2C19 poor metabolizers or patients taking concomitant cimetidine or another CYP2C19 inhibitor are not recommended.
-
 ## Drug Interactions
-
-### Drugs That Prolong the QT Interval
-
-ECG monitoring is recommended with concomitant medications that have demonstrated prolongation of the QT interval (see WARNINGS: QT-Prolongation and Torsade de Pointes).
 
 ### Serotonergic Drugs
 
@@ -242,7 +237,7 @@ Patients receiving warfarin therapy should be carefully monitored when citalopra
 
 In subjects who had received 21 days of 40 mg/day citalopram, combined administration of 400 mg/day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.
 
-Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant cimetidine because of the risk of QT prolongation (see DOSAGE AND ADMINISTRATION).
+Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant cimetidine because of the risk of QT prolongation (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
 ### Digoxin
 
@@ -288,13 +283,9 @@ Combined administration of citalopram (titrated to 40 mg/day for 28 days) and th
 
 Combined administration of citalopram (40 mg) and ketoconazole (200 mg) decreased the Cmax and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.
 
-### CYP3A4 and 2C19 Inhibitors
+### CYP2C19 Inhibitors
 
-In vitro studies indicated that CYP3A4 and 2C19 are the primary enzymes involved in the metabolism of citalopram.
-However, coadministration of citalopram (40 mg) and ketoconazole (200 mg), a potent inhibitor of CYP3A4, did not significantly affect the pharmacokinetics of citalopram.
-Because citalopram is metabolized by multiple enzyme systems, inhibition of a single enzyme may not appreciably decrease citalopram clearance.
-
-Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant CYP2C19 inhibitors because of the risk of QT prolongation (see DOSAGE AND ADMINISTRATION).
+Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant CYP2C19 inhibitors because of the risk of QT prolongation (see WARNINGS, DOSAGE AND ADMINISTRATION and CLINICAL PHARMACOLOGY).
 
 ### Metoprolol
 
@@ -403,6 +394,6 @@ Most elderly patients treated with citalopram in clinical trials received daily 
 
 SSRIs and SNRIs, including citalopram, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS: Hyponatremia).
 
-In two pharmacokinetic studies, citalopram AUC was increased by 23% and 30%, respectively, in elderly subjects as compared to younger subjects, and its half-life was increased by 30% and 50%,respectively (see CLINICAL PHARMACOLOGY).
+In two pharmacokinetic studies, citalopram AUC was increased by 23% and 30%, respectively, in subjects ≥ 60 years of age as compared to younger subjects, and its half-life was increased by 30% and 50%, respectively (see CLINICAL PHARMACOLOGY).
 
-20 mg/day is the recommended dose for most elderly patients (see DOSAGE AND ADMINISTRATION).
+20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see WARNINGS and DOSAGE AND ADMINISTRATION).

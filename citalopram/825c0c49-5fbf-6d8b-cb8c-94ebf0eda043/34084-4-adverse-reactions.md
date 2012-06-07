@@ -24,7 +24,7 @@ TABLE 2 Adverse Events Associated with Discontinuation of Treatment in Short-ter
 
 |  | Percentage of Patients Discontinuing Due to Adverse Event |  |
 | --- | --- | --- |
-|  | Citalopram (N = 1063) | Placebo (N = 446) |
+|  | Citalopram (N = 1,063) | Placebo (N = 446) |
 | Body System/Adverse Event |  |  |
 | General |  |  |
 | Asthenia | 1% | < 1% |
