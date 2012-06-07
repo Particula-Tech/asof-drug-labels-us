@@ -25,9 +25,9 @@ Closely observe infants with histories of in utero exposure to ATACAND HCT for h
 There was no evidence of teratogenicity or other adverse effects on embryo-fetal development when pregnant mice, rats or rabbits were treated orally with candesartan cilexetil alone or in combination with hydrochlorothiazide.
 For mice, the maximum dose of candesartan cilexetil was 1000 mg/kg/day (about 150 times the maximum recommended daily human dose [MRHD]Doses compared on the basis of body surface area.
 MRHD considered to be 32 mg for candesartan cilexetil and 12.5 mg for hydrochlorothiazide.).
-For rats, the maximum dose of candesartan cilexetil was 100 mg/kg/day (about 31 times the MRHD).
-For rabbits, the maximum dose of candesartan cilexetil was 1 mg/kg/day (a maternally toxic dose that is about half the MRHD).
-In each of these studies, hydrochlorothiazide was tested at the same dose level (10 mg/kg/day, about 4, 8, and 15 times the MRHD in mouse, rats, and rabbit, respectively).
+For rats, the maximum dose of candesartan cilexetil was 100 mg/kg/day (about 31 times the MRHD1).
+For rabbits, the maximum dose of candesartan cilexetil was 1 mg/kg/day (a maternally toxic dose that is about half the MRHD1).
+In each of these studies, hydrochlorothiazide was tested at the same dose level (10 mg/kg/day, about 4, 8, and 15 times the MRHD1 in mouse, rats, and rabbit, respectively).
 There was no evidence of harm to the rat or mouse fetus or embryo in studies in which hydrochlorothiazide was administered alone to the pregnant rat or mouse at doses of up to 1000 and 3000 mg/kg/day, respectively.
 
 Thiazides cross the placental barrier and appear in cord blood.
@@ -224,7 +224,7 @@ Candesartan (but not its O-deethyl metabolite) was also evaluated in vivo in the
 Candesartan cilexetil was evaluated in the Ames test, the in vitro mouse lymphoma cell assay, the in vivo rat hepatocyte unscheduled DNA synthesis assay and the in vivo mouse micronucleus test, in each case with negative results.
 Candesartan cilexetil was not evaluated in the CHL chromosomal aberration or CHO gene mutation assays.
 
-When hydrochlorothiazide was tested alone, positive results were obtained in vitro in the CHO sister chromatid exchange (clastogenicity) and mouse lymphoma cell (mutagenicity) assays and in the Aspergillus nidulans non-disjunciton assay.
+When hydrochlorothiazide was tested alone, positive results were obtained in vitro in the CHO sister chromatid exchange (clastogenicity) and mouse lymphoma cell (mutagenicity) assays and in the Aspergillusnidulans non-disjunciton assay.
 Hydrochorothiazide was not genotoxic in vitro in the Ames test for point mutations and the CHO test for chromosomal aberrations, or in vivo in assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene.
 
 No fertility studies have been conducted with the combination of candesartan cilexetil and hydrochlorothiazide.
