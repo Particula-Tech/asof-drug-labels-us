@@ -25,6 +25,4 @@ Tampa, Florida 33637 USA
 
 ©Bausch & Lomb Incorporated
 
-U.S. Patent No. 4,996,335
-
 Lotemax is a registered trademark of Bausch & Lomb Incorporated
