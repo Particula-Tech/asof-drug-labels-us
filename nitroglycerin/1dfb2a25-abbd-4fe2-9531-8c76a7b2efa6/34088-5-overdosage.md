@@ -16,4 +16,4 @@ Methemoglobinemia: Methemoglobinemia has been rarely reported with organic nitra
 The diagnosis should be suspected in patients who exhibit signs of impaired oxygen delivery despite adequate arterial PO2.
 Classically, methemoglobinemic blood is described as chocolate brown, without color change on exposure to air.
 
-If methemoglobinemia is present, intravenous administration of methylene blue, 1 to 2 mg/kg of body weight, may be required.
+If methemoglobinemia is present, intravenous administration of methylene blue, 1 mg/kg to 2 mg/kg of body weight, may be required.

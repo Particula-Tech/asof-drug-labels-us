@@ -6,8 +6,8 @@ Animal carcinogenicity studies with sublingually administered or lingual spray n
 
 Rats receiving up to 434 mg/kg/day of dietary nitroglycerin for 2 years developed dose-related fibrotic and neoplastic changes in liver, including carcinomas, and interstitial cell tumors in testes.
 At the highest dose, the incidences of hepatocellular carcinomas was 52% compared to 0% in untreated controls.
-Incidences of testicular tumors were 52% vs. 8% in controls.
-Lifetime dietary administration of up to 1058 mg/k/day of nitroglycerin was not tumorigenic in mice.
+Incidences of testicular tumors were 52% vs 8% in controls.
+Lifetime dietary administration of up to 1058 mg/kg/day of nitroglycerin was not tumorigenic in mice.
 
 Nitroglycerin was found to have reverse mutation activity in the Salmonella typhimurium strain TA1535 (Ames assay).
 A similar mutation in S. typhimurium strain was also reported for other NO donors.

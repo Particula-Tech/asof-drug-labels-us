@@ -7,7 +7,7 @@ These products have been shown to increase the hypotensive effects of nitrate dr
 
 ## 17.2 Administration
 
-Patients should be instructed that prior to initial use of NitroMist Lingual Aerosol, the pump must be primed by pressing the actuator button 10 times to ensure proper dose priming.
+Patients should be instructed that prior to initial use of NitroMist Lingual aerosol, the pump must be primed by pressing the actuator button 10 times to ensure proper dose priming.
 If the product is not used for more than 6 weeks, the bottle can be adequately re-primed with 2 sprays.
 
 NitroMist is meant to be sprayed on or under the tongue at the beginning of angina or to prevent an angina attack.
@@ -36,8 +36,8 @@ When the liquid reaches the bottom of the hole, the remaining doses will have le
 
 Manufactured for Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 by Dynamit Nobel GmbH, Leverkusen, Germany
 
-Marketed and distributed by: Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 USA
+Marketed and Distributed by: Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 USA
 
 NitroMist is a registered trademark of NovaDel Pharma Inc., used by permission.
 
-141F005 Revised 05/2011
+141F006 Revised 02/2012

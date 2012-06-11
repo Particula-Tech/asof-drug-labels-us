@@ -25,7 +25,7 @@ In contrast, when filling pressures and cardiac index are normal, cardiac index 
 ## 12.3 Pharmacokinetics
 
 Nitroglycerin is rapidly absorbed following lingual spray administration.
-In a pharmacokinetic study when a single 1200 mcg dose (three activations of a 400 mcg dose) of NitroMist was administered to healthy volunteers (n=12), all subjects had detectable trinitroglycerin plasma levels (mean Cmax 0.8 ± 0.7 ng/mL and tmax of 8 minutes, range 4 to 15 minutes) beginning at 2 minutes post-dose and higher levels of the 1,2- (mean Cmax 3.7 ± 1 ng/mL and tmax 34 ± 21 minutes, range 15 to 90 minutes) and 1,3-dinitroglycerin metabolites (mean Cmax 1 ± 0.3 ng/mL and mean tmax 41 ± 20 minutes, range 20 to 90 minutes).
+In a pharmacokinetic study when a single 1200 mcg dose (three activations of a 400 mcg dose) of NitroMist was administered to healthy volunteers (n=12), all subjects had detectable trinitroglycerin plasma levels (mean Cmax 0.8 ng/mL ± 0.7 ng/mL and tmax of 8 minutes, range 4 minutes to 15 minutes) beginning at 2 minutes post-dose and higher levels of the 1,2- (mean Cmax 3.7 ng/mL ± 1 ng/mL and tmax 34 minutes ± 21 minutes, range 15 minutes to 90 minutes) and 1,3-dinitroglycerin metabolites (mean Cmax 1 ng/mL ± 0.3 ng/mL and mean tmax 41 minutes ± 20 minutes, range 20 minutes to 90 minutes).
 
 The volume of distribution of nitroglycerin following intravenous administration is 3.3 L/kg.
 
@@ -36,7 +36,7 @@ The mean elimination half-life of both 1,2- and 1,3-dinitroglycerin is about 40 
 The 1,2- and 1,3-dinitroglycerin metabolites have been reported to possess some pharmacological activity, whereas the glycerol mononitrate metabolites of nitroglycerin are essentially inactive.
 Higher plasma concentrations of the dinitro metabolites, with their nearly 8-fold longer elimination half-lives, may contribute significantly to the duration of pharmacologic effect.
 
-In the above referenced pharmacokinetic study the average initial half-lives (T1/2α) of nitroglycerin, and its 1,2- and 1,3-dinitroglycerin metabolites were estimated to be 3, 10, and 11 minutes, respectively.
+In the above referenced pharmacokinetic study the average initial half-lives (T1/2α) of nitroglycerin, and its 1,2- and 1,3-dinitroglycerin metabolites were estimated to be 3 minutes, 10 minutes, and 11 minutes, respectively.
 The half-life of disappearance of the nitroglycerin (T1/2β) (5 minutes) was significantly less than the half-life of appearance (T1/2α) of the 1,2- and 1,3-dinitroglycerin metabolites suggesting the possibility of an additional compartment into which the nitroglycerin disappears from plasma prior to being metabolized into the dinitroglycerin metabolites.
-A second indication of this other compartment is that the appearance of nitroglycerin metabolites in plasma was delayed in some subjects, with zero plasma levels seen for 4-6 minutes after dosing.
+A second indication of this other compartment is that the appearance of nitroglycerin metabolites in plasma was delayed in some subjects, with zero plasma levels seen for 4 minutes to 6 minutes after dosing.
 In some subjects, nitroglycerin metabolites appeared only after nitroglycerin Cmax had been observed.

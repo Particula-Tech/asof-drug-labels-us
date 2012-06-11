@@ -10,7 +10,7 @@ NitroMist is contraindicated in patients with severe anemia.
 
 ## 4.3 Increased Intracranial Pressure
 
-NitroMist is contraindicated in patients with increased intracranial pressure
+NitroMist is contraindicated in patients with increased intracranial pressure.
 
 ## 4.4 Hypersensitivity
 
