@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090862"
+  ],
+  "inn": "voriconazole",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-3416-94"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "voriconazole",
+      "name": "Voriconazole"
+    }
+  ],
+  "setid": "e648a0e4-f324-49dc-a8f6-cf25ff3b2dfe",
+  "source": "dailymed"
+}
