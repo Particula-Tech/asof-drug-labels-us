@@ -7,9 +7,9 @@ NDC 0781-3059-95 ampules of 2 mL in boxes of 10
 Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
 Protect from light.
 
-03-2010M
+02-2012M
 
-A46029685
+A46080183
 
 Manufactured in Canada by
 

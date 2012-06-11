@@ -22,7 +22,7 @@ Comparisons of the systemic availability and equivalent doses for preparations o
 Table 1.
 Comparisons of the Systemic Availability and Equivalent Doses for Preparations of Digoxin Injection
 
-| Product | AbsoluteBioavailability | Equivalent Doses(mcg)For example, 125 mcg Digoxin Tablets equivalent to 100 mcg Digoxin Injection IV.Among Dosage Form |  |  |  |
+| Product | AbsoluteBioavailability | Equivalent Doses(mcg)For example, 125 mcg Digoxin Tablets equivalent to 100 mcg Digoxin Injection IV. Among Dosage Form |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Digoxin Tablets | 60-80% | 62.5 | 125 | 250 | 500 |
 | Digoxin Injection/IV | 100% | 50 | 100 | 200 | 400 |
@@ -63,7 +63,7 @@ Because digoxin is primarily eliminated as unchanged drug via the kidney and bec
 
 The clearance of digoxin can be primarily correlated with renal function as indicated by creatinine clearance.
 The Cockcroft and Gault formula for estimation of creatinine clearance includes age, body weight, and gender.
-A table that provides the usual daily maintenance dose requirements of digoxin tablets based on creatinine clearance (per 70 kg) is presented in the DOSAGE AND ADMINISTRATION section.
+Table 5 that provides the usual daily maintenance dose requirements of digoxin tablets based on creatinine clearance (per 70 kg) is presented in the DOSAGE AND ADMINISTRATION section.
 
 Plasma digoxin concentration profiles in patients with acute hepatitis generally fell within the range of profiles in a group of healthy subjects.
 
