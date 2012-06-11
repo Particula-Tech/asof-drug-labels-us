@@ -50,6 +50,6 @@ Distributed by Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.
 
 Manufactured by Baxter Healthcare Corporation, Deerfield, IL 60015
 
-LAB-0448-5.0
+LAB-0448-6.0
 
-March 2012
+May 2012
