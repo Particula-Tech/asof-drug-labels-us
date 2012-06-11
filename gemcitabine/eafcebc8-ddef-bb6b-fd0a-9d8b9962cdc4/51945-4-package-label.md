@@ -4,6 +4,6 @@
 
 200 mg Vial Carton
 
-1g Vial Label
+1 g Vial
 
-1 g Vial Carton
+1 g Vial
