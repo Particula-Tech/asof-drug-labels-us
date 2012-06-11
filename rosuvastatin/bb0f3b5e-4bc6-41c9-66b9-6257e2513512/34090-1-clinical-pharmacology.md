@@ -13,8 +13,8 @@ Second, rosuvastatin inhibits hepatic synthesis of VLDL, which reduces the total
 - Absorption: In clinical pharmacology studies in man, peak plasma concentrations of rosuvastatin were reached 3 to 5 hours following oral dosing.
   Both Cmax and AUC increased in approximate proportion to CRESTOR dose.
   The absolute bioavailability of rosuvastatin is approximately 20%.
-  Administration of CRESTOR with food did not affect the AUC of rosuvastatin.
-  The AUC of rosuvastatin does not differ following evening or morning drug administration.
+- Administration of CRESTOR with food did not affect the AUC of rosuvastatin.
+- The AUC of rosuvastatin does not differ following evening or morning drug administration.
 - Distribution: Mean volume of distribution at steady-state of rosuvastatin is approximately 134 liters.
   Rosuvastatin is 88% bound to plasma proteins, mostly albumin.
   This binding is reversible and independent of plasma concentrations.
@@ -23,7 +23,7 @@ Second, rosuvastatin inhibits hepatic synthesis of VLDL, which reduces the total
   Overall, greater than 90% of active plasma HMG-CoA reductase inhibitory activity is accounted for by the parent compound.
 - Excretion: Following oral administration, rosuvastatin and its metabolites are primarily excreted in the feces (90%).
   The elimination half-life (t1/2) of rosuvastatin is approximately 19 hours.
-  After an intravenous dose, approximately 28% of total body clearance was via the renal route, and 72% by the hepatic route.
+- After an intravenous dose, approximately 28% of total body clearance was via the renal route, and 72% by the hepatic route.
 - Race: A population pharmacokinetic analysis revealed no clinically relevant differences in pharmacokinetics among Caucasian, Hispanic, and Black or Afro-Caribbean groups.
   However, pharmacokinetic studies, including one conducted in the US, have demonstrated an approximate 2-fold elevation in median exposure (AUC and Cmax) in Asian subjects when compared with a Caucasian control group.
 - Gender: There were no differences in plasma concentrations of rosuvastatin between men and women.
@@ -32,7 +32,7 @@ Second, rosuvastatin inhibits hepatic synthesis of VLDL, which reduces the total
   However, plasma concentrations of rosuvastatin increased to a clinically significant extent (about 3-fold) in patients with severe renal impairment (CLcr < 30 mL/min/1.73 m2) not receiving hemodialysis compared with healthy subjects (CLcr > 80 mL/min/1.73 m2).
 - Hemodialysis: Steady-state plasma concentrations of rosuvastatin in patients on chronic hemodialysis were approximately 50% greater compared with healthy volunteer subjects with normal renal function.
 - Hepatic Impairment: In patients with chronic alcohol liver disease, plasma concentrations of rosuvastatin were modestly increased.
-  In patients with Child-Pugh A disease, Cmax and AUC were increased by 60% and 5%, respectively, as compared with patients with normal liver function.
+- In patients with Child-Pugh A disease, Cmax and AUC were increased by 60% and 5%, respectively, as compared with patients with normal liver function.
   In patients with Child-Pugh B disease, Cmax and AUC were increased 100% and 21%, respectively, compared with patients with normal liver function.
 
 Drug-Drug Interactions:
