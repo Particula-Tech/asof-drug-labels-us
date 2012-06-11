@@ -30,7 +30,7 @@ Before you receive ABRAXANE, tell your doctor if you:
   ABRAXANE can harm your unborn baby.
   Women who may become pregnant should use effective birth control (contraception).
   Talk to your doctor about the best way to prevent pregnancy while receiving ABRAXANE.
-- are breast-feeding or plan to breast-feed.
+- are breastfeeding or plan to breastfeed.
   It is not known if ABRAXANE passes into your breast milk.
   You and your doctor should decide if you will receive ABRAXANE or breastfeed.
 
@@ -51,7 +51,7 @@ What are the possible side effects of ABRAXANE?
 ABRAXANE may cause serious side effects, including:
 
 - decreased blood cell counts.
-  ABRAXANE can cause a severe decrease in neutrophils (a type of white blood cells important in fighting against bacterial infections) and platelets (important for clotting and to control bleeding).
+  ABRAXANE can cause a severe decrease in neutrophils (a type of white blood cells important in fighting in bacterial infections) and platelets (important for clotting and to control bleeding).
   Your doctor will check your blood cell count during your treatment with ABRAXANE and after you have stopped your treatment.
 - • numbness, tingling, or burning in your hands or feet (neuropathy).
 

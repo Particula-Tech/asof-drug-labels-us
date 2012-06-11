@@ -20,7 +20,7 @@ In this trial, patients in the ABRAXANE treatment arm had a statistically signif
 See Table 4.
 There was no statistically significant difference in overall survival between the two study arms.
 
-Table 4: Efficacy Results from Randomized Breast Cancer Trial
+Table 4: Efficacy Results from Randomized Trial
 
 |  |  | ABRAXANE 260 mg/m2 | Paclitaxel Injection 175 mg/m2 |
 | --- | --- | --- | --- |

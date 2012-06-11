@@ -79,7 +79,7 @@ Table 2: Frequencya of Important Treatment Emergent Adverse Events in the Random
 Adverse Event Experiences by Body System
 
 Hematologic Disorders Neutropenia was dose dependent and reversible.
-Among patients with metastatic breast cancer in the randomized trial, neutrophil counts declined below 500 cells/mm3 (Grade 4) in 9% of the patients treated with a dose of 260 mg/m2 compared to 22% in patients receiving solvent-based paclitaxel at a dose of 175 mg/m2.
+Among patients with metastatic breast cancer in the randomized trial, neutrophil counts declined below 500 cells/mm3 (Grade 4) in 9% of the patients treated with a dose of 260 mg/m2 compared to 22% in patients receiving paclitaxel at a dose of 175 mg/m2.
 Pancytopenia has been observed in clinical trials.
 
 Infections Infectious episodes were reported in 24% of the patients treated with ABRAXANE.
@@ -109,8 +109,8 @@ Sensory neuropathy was the cause of ABRAXANE discontinuation in 7/229 (3%) patie
 Twenty-four patients (10%) treated with ABRAXANE developed Grade 3 peripheral neuropathy; of these patients, 14 had documented improvement after a median of 22 days; 10 patients resumed treatment at a reduced dose of ABRAXANE and 2 discontinued due to peripheral neuropathy.
 Of the 10 patients without documented improvement, 4 discontinued the study due to peripheral neuropathy.
 
-No Grade 4 sensory neuropathies were reported.
-Only one incident of motor neuropathy (Grade 2) was observed in either arm of the controlled trial.
+No grade 4 sensory neuropathies were reported.
+Only one incident of motor neuropathy (grade 2) was observed in either arm of the controlled trial.
 
 Vision Disorders Ocular/visual disturbances occurred in 13% of all patients (n=366) treated with ABRAXANE and 1% were severe.
 The severe cases (keratitis and blurred vision) were reported in patients who received higher doses than those recommended (300 or 375 mg/m2).
