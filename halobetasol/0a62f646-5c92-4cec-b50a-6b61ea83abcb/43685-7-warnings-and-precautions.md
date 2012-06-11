@@ -2,7 +2,7 @@
 
 ## General
 
-Systemic absorption of topical corticosteroids can produce reversible hypothalamic- pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
+Systemic absorption of topical corticosteroids can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
 Manifestations of Cushing’s syndrome, hyperglycemia, and glucosuria can also be produced in some patients by systemic absorption of topical corticosteroids while on treatment.
 
 Patients applying a topical steroid to a large surface area or to areas under occlusion should be evaluated periodically for evidence of HPA axis suppression.
@@ -30,7 +30,7 @@ Ultravate Ointment should not be used in the treatment of rosacea or perioral de
 
 ## Information for Patients
 
-Patients using topical corticosteroids should receive the following information and instructions:
+Patients using Ultravate Ointment should receive the following information and instructions:
 
 1) The medication is to be used as directed by the physician.
 It is for external use only.
@@ -46,14 +46,14 @@ Avoid contact with the eyes.
 
 The following tests may be helpful in evaluating patients for HPA axis suppression: ACTH-stimulation test; A.M. plasma cortisol test; Urinary free-cortisol test.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Long-term animal studies have not been performed to evaluate the carcinogenic potential of halobetasol propionate.
 
 Positive mutagenicity effects were observed in two genotoxicity assays.
 Halobetasol propionate was positive in a Chinese hamster micronucleus test, and in a mouse lymphoma gene mutation assay in vitro.
 
-Studies in the rat following oral administration at dose levels up to 50 µg/kg/day indicated no impairment of fertility or general reproductive performance.
+Studies in the rat following oral administration at dose levels up to 50 mcg/kg/day indicated no impairment of fertility or general reproductive performance.
 
 In other genotoxicity testing, halobetasol propionate was not found to be genotoxic in the Ames/Salmonella assay, in the sister chromatid exchange test in somatic cells of the Chinese hamster, in chromosome aberration studies of germinal and somatic cells of rodents, and in a mammalian spot test to determine point mutations.
 

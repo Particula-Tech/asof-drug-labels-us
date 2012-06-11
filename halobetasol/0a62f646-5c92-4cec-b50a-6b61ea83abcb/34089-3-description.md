@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Ultravate® (halobetasol propionate ointment) Ointment, 0.05% contains halobetasol propionate, a synthetic corticosteroid for topical dermatological use.
+Ultravate® (halobetasol propionate) Ointment, 0.05% contains halobetasol propionate, a synthetic corticosteroid for topical dermatological use.
 The corticosteroids constitute a class of primarily synthetic steroids used topically as an anti-inflammatory and antipruritic agent.
 
 Chemically halobetasol propionate is 21-chloro-6α, 9-difluoro-11β, 17-dihydroxy-16β-methylpregna-1, 4-diene-3-20-dione, 17-propionate, C25H31ClF2O5.
