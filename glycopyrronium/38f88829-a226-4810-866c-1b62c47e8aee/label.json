@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA017558"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "West-ward Pharmaceutical Corp.",
+  "package_ndcs": [
+    "0641-6104-01",
+    "0641-6104-25",
+    "0641-6105-01",
+    "0641-6105-25",
+    "0641-6106-01",
+    "0641-6106-25",
+    "0641-6107-01",
+    "0641-6107-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "robinul",
+      "name": "Robinul"
+    }
+  ],
+  "setid": "38f88829-a226-4810-866c-1b62c47e8aee",
+  "source": "dailymed"
+}
