@@ -1,6 +1,4 @@
-FDA-Approved Patient Labeling
-
-PATIENT INFORMATION
+# FDA-Approved Patient Labeling PATIENT INFORMATION
 
 ARIMIDEX®
 

@@ -20,7 +20,7 @@ Adverse reactions occurring with an incidence of at least 5% in either treatment
 
 Table 1 — Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment, or within 14 days of the end of treatment in the ATAC trial The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.
 
-| Body system and adverse reactions byCOSTARTCOSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.preferred termA patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. | ARIMIDEX 1 mg(NN=Number of patients receiving the treatment. = 3092) | Tamoxifen 20 mg(N = 3094) |
+| Body system and adverse reactions by COSTARTCOSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.preferred termA patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. | ARIMIDEX 1 mg (NN=Number of patients receiving the treatment. = 3092) | Tamoxifen 20 mg (N = 3094) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Asthenia | 575 (19) | 544 (18) |
@@ -89,7 +89,7 @@ Certain adverse reactions and combinations of adverse reactions were prospective
 
 Table 2 — Number of Patients with Pre-specified Adverse Reactions in ATAC TrialPatients with multiple events in the same category are counted only once in that category.
 
-|  | ARIMIDEXN=3092(%) | TamoxifenN=3094(%) | Odds-ratio | 95% CI |
+|  | ARIMIDEX N=3092 (%) | Tamoxifen N=3094 (%) | Odds-ratio | 95% CI |
 | --- | --- | --- | --- | --- |
 | Hot Flashes | 1104 (36) | 1264 (41) | 0.80 | 0.73 − 0.89 |
 | Musculoskeletal EventsRefers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia. | 1100 (36) | 911 (29) | 1.32 | 1.19 − 1.47 |
@@ -182,7 +182,7 @@ Adverse reactions occurring with an incidence of at least 5% in either treatment
 
 Table 3 – Adverse Reactions Occurring with an Incidence of at Least 5% in Trials 0030 and 0027
 
-|  | ARIMIDEX(N=506) | Tamoxifen(N=511) |
+|  | ARIMIDEX (N=506) | Tamoxifen (N=511) |
 | --- | --- | --- |
 | Body system Adverse ReactionA patient may have had more than 1 adverse event. | Number (%) of subjects |  |
 | Whole body |  |  |
@@ -228,7 +228,7 @@ No significant differences were seen between treatment groups.
 
 Table 4 – Number of Patients with Pre-specified Adverse Reactions in Trials 0030 and 0027
 
-| Adverse ReactionA patient may have had more than 1 adverse reaction. | ARIMIDEX1 mg(N=506)n (%) | NOLVADEX20 mg(N=511)n (%) |
+| Adverse ReactionA patient may have had more than 1 adverse reaction. | ARIMIDEX 1 mg (N=506) n (%) | NOLVADEX 20 mg (N=511) n (%) |
 | --- | --- | --- |
 |  | Number (n) and Percentage of Patients |  |
 | Depression | 23 (5) | 32 (6) |

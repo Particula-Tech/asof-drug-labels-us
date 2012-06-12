@@ -14,7 +14,7 @@ Demographic and other baseline characteristics were similar among the three trea
 
 Table 7 - Demographic and Baseline Characteristics for ATAC Trial
 
-| Demographic Characteristic | ARIMIDEX1 mg(NN=Number of patients randomized to the treatment=3125) | Tamoxifen20 mg(N=3116) | ARIMIDEX 1 mgplus Tamoxifen20 mgThe combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up(N=3125) |
+| Demographic Characteristic | ARIMIDEX 1 mg (NN=Number of patients randomized to the treatment=3125) | Tamoxifen 20 mg (N=3116) | ARIMIDEX 1 mg plus Tamoxifen 20 mg The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up (N=3125) |
 | --- | --- | --- | --- |
 | Mean age (yrs.) | 64.1 | 64.1 | 64.3 |
 | Age Range (yrs.) | 38.1 - 92.8 | 32.8 - 94.9 | 37.0 - 92.2 |
@@ -69,7 +69,7 @@ Table 8 - All Recurrence and Death EventsThe combination arm was discontinued du
 |  | Number (%) of Patients |  | Number (%) of Patients |  |
 | --- | --- | --- | --- | --- |
 |  | Intent-To-Treat PopulationPatients may fall into more than one category. |  | Hormone Receptor-Positive Subpopulation |  |
-|  | ARIMIDEX1 mg(NN=Number of patients randomized=3125) | Tamoxifen20 mg(N=3116) | ARIMIDEX1 mg(N=2618) | Tamoxifen 20 mg(N=2598 |
+|  | ARIMIDEX 1 mg (NN=Number of patients randomized=3125) | Tamoxifen 20 mg (N=3116) | ARIMIDEX 1 mg (N=2618) | Tamoxifen 20 mg (N=2598 |
 | Median Duration of Therapy (mo) | 60 | 60 | 60 | 60 |
 | Median EfficacyFollow-up (mo) | 68 | 68 | 68 | 68 |
 | Loco-regional recurrence | 119 (3.8) | 149 (4.8) | 76 (2.9) | 101 (3.9) |
@@ -89,7 +89,7 @@ Table 9 - ATAC Efficacy SummaryThe combination arm was discontinued due to lack 
 |  | Number of Events |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Intent-To-Treat Population |  | Hormone Receptor-Positive Subpopulation |  |
-|  | ARIMIDEX 1 mg(N=3125) | Tamoxifen20 mg(N=3116) | ARIMIDEX1 mg(N=2618) | Tamoxifen20 mg(N=2598) |
+|  | ARIMIDEX 1 mg (N=3125) | Tamoxifen 20 mg (N=3116) | ARIMIDEX 1 mg (N=2618) | Tamoxifen 20 mg (N=2598) |
 | Disease-free Survival | 575 | 651 | 424 | 497 |
 | Hazard ratio | 0.87 |  | 0.83 |  |
 | 2-sided 95% CI | 0.78 to 0.97 |  | 0.73 to 0.94 |  |
@@ -111,7 +111,7 @@ Table 10 - Efficacy Summary
 |  | Number of Events |  | Number of Events |  |
 | --- | --- | --- | --- | --- |
 |  | Intent-To-Treat Population |  | Hormone Receptor-Positive Subpopulation |  |
-|  | ARIMIDEX 1 mg(N=3125) | Tamoxifen20 mg(N=3116) | ARIMIDEX1 mg(N=2618) | Tamoxifen20 mg(N=2598) |
+|  | ARIMIDEX 1 mg (N=3125) | Tamoxifen 20 mg (N=3116) | ARIMIDEX 1 mg (N=2618) | Tamoxifen 20 mg (N=2598) |
 | Disease-free Survival | 953 | 1022 | 735 | 924 |
 | Hazard ratio | 0.91 |  | 0.86 |  |
 | 2-sided 95% CI | 0.83 to 0.99 |  | 0.78 to 0.95 |  |
@@ -140,7 +140,7 @@ The following table summarizes the hormone receptor status at entry for all rand
 
 Table 11 — Demographic and Other Baseline Characteristics
 
-| Receptor status | ARIMIDEX1 mg(N=171) | Tamoxifen20 mg(N=182) | ARIMIDEX1 mg(N=340) | Tamoxifen20 mg(N=328) |
+| Receptor status | ARIMIDEX 1 mg (N=171) | Tamoxifen 20 mg (N=182) | ARIMIDEX 1 mg (N=340) | Tamoxifen 20 mg (N=328) |
 | --- | --- | --- | --- | --- |
 |  | Number (%) of subjects |  |  |  |
 |  | Trial 0030 |  | Trial 0027 |  |
@@ -154,7 +154,7 @@ Table 12 below summarizes the results of trial 0030 and trial 0027 for the prima
 
 Table 12 – Efficacy Results of First-line Treatment
 
-|  | ARIMIDEX1 mg(N=171) | Tamoxifen20 mg(N=182) | ARIMIDEX1 mg(N=340) | Tamoxifen20 mg(N=328) |
+|  | ARIMIDEX 1 mg (N=171) | Tamoxifen 20 mg (N=182) | ARIMIDEX 1 mg (N=340) | Tamoxifen 20 mg (N=328) |
 | --- | --- | --- | --- | --- |
 | Endpoint | Trial 0030 |  | Trial 0027 |  |
 | Time to progression (TTP) |  |  |  |  |
@@ -199,7 +199,7 @@ In both studies there were no significant differences between treatment arms wit
 
 Table 13 – Efficacy Results of Second-line Treatment
 
-|  | ARIMIDEX1 mg | ARIMIDEX10 mg | MegestrolAcetate160 mg |
+|  | ARIMIDEX 1 mg | ARIMIDEX 10 mg | Megestrol Acetate 160 mg |
 | --- | --- | --- | --- |
 | Trial 0004 |  |  |  |
 | (N. America) | (N=128) | (N=130) | (N=128) |
@@ -225,7 +225,7 @@ There is, in this data, no indication that ARIMIDEX 10 mg is superior to ARIMIDE
 
 Table 14 – Pooled Efficacy Results of Second-line Treatment
 
-| Trials 0004 & 0005(Pooled Data) | ARIMIDEX1 mgN=263 | ARIMIDEX10 mgN=248 | Megestrol Acetate160 mgN=253 |
+| Trials 0004 & 0005 (Pooled Data) | ARIMIDEX 1 mg N=263 | ARIMIDEX 10 mg N=248 | Megestrol Acetate 160 mg N=253 |
 | --- | --- | --- | --- |
 | Median Time toDeath (months) | 26.7 | 25.5 | 22.5 |
 | 2 Year SurvivalProbability (%) | 56.1 | 54.6 | 46.3 |
