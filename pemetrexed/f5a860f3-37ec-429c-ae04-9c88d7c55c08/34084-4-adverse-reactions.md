@@ -268,11 +268,11 @@ Subpopulations
 
 No relevant effect for ALIMTA safety due to gender or race was identified, except an increased incidence of rash in men (24%) compared to women (16%).
 
-Additional Clinical Trials Experience
+Additional Experience Across Clinical Trials
 
-Across clinical trials, sepsis, which in some cases was fatal, occurred in approximately 1% of patients.
+Sepsis, which in some cases was fatal, occurred in approximately 1% of patients.
 
-Cases of esophagitis have been reported in clinical trials.
+Esophagitis occurred in less than 1% of patients.
 
 ## 6.2 Postmarketing Experience
 

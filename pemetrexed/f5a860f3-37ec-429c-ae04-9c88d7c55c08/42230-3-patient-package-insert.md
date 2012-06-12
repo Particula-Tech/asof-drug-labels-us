@@ -1,4 +1,4 @@
-INFORMATION FOR PATIENTS AND CAREGIVERS ALIMTA® (uh-LIM-tuh)
+PATIENT INFORMATION ALIMTA® (uh-LIM-tuh)
 
 (pemetrexed for injection)
 
@@ -97,10 +97,9 @@ The most common side effects of ALIMTA when given alone or in combination with c
 - Tiredness.
   You may feel tired or weak for a few days after your ALIMTA treatments.
   If you have severe weakness or tiredness, call your doctor.
-- Mouth, throat, lip, or food pipe sores (stomatitis, pharyngitis, esophagitis).
-  You may get redness or sores in your mouth, throat, or on your lips, or you may feel pain or difficulty when drinking or swallowing food.
-  These symptoms may happen a few days after ALIMTA treatment.
-  Talk with your doctor if you get any of these symptoms.
+- Redness or sores in your mouth, throat, on your lips, or in the tube that connects your throat and stomach (esophagus).
+  Redness and sores may begin a few days after your ALIMTA treatment.
+  Call your doctor if this happens, or if you have pain or trouble drinking or swallowing food.
 - Loss of appetite.
   You may lose your appetite and lose weight during your treatment.
   Talk to your doctor if this is a problem for you.
@@ -125,10 +124,10 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ALIMTA that is written for health professionals.
 You can also call 1-800-LILLY-RX (1-800-545-5979) or visit www.ALIMTA.com.
 
-Patient information revised December 19, 2011
+Revised May 2012
 
-Lilly USA, LLC Indianapolis, IN 46285, USA www.ALIMTA.com
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA www.ALIMTA.com
 
-| Copyright © 2004, 2011, Eli Lilly and Company. All rights reserved. |  |
+| Copyright © 2004, 2012, Eli Lilly and Company. All rights reserved. |  |
 | --- | --- |
-| PV 6756 AMP |  |
+| PV 6757 AMP |  |

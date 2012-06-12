@@ -1,7 +1,5 @@
-Literature revised December 19, 2011
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
-Lilly USA, LLC Indianapolis, IN 46285, USA
-
-| Copyright © 2004, 2011, Eli Lilly and Company. All rights reserved. |  |
+| Copyright © 2004, 2012, Eli Lilly and Company. All rights reserved. |  |
 | --- | --- |
-| PV 8921 AMP |  |
+| PV 8922 AMP |  |
