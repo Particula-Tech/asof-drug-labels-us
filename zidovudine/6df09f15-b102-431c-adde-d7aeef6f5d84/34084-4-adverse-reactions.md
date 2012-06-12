@@ -13,9 +13,9 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adults: The frequency and severity of adverse reactions associated with the use of RETROVIR are greater in patients with more advanced infection at the time of initiation of therapy.
 
-Table 2 summarizes events reported at a statistically significant greater incidence for patients receiving RETROVIR in a monotherapy study.
+Table 3 summarizes events reported at a statistically significant greater incidence for patients receiving RETROVIR in a monotherapy study.
 
-Table 2.
+Table 3.
 Percentage (%) of Patients With Adverse Reactionsa in Asymptomatic HIV-1 Infection (ACTG 019)
 
 | Adverse Reaction | RETROVIR 500 mg/day(n = 453) | Placebo(n = 428) |
@@ -32,54 +32,54 @@ Percentage (%) of Patients With Adverse Reactionsa in Asymptomatic HIV-1 Infecti
 | a Reported in ≥5% of study population. |  |  |
 | b Not statistically significant versus placebo. |  |  |
 
-In addition to the adverse reactions listed in Table 2, adverse reactions observed at an incidence of ≥5% in any treatment arm in clinical studies (NUCA3001, NUCA3002, NUCB3001, and NUCB3002) were abdominal cramps, abdominal pain, arthralgia, chills, dyspepsia, fatigue, insomnia, musculoskeletal pain, myalgia, and neuropathy.
+In addition to the adverse reactions listed in Table 3, adverse reactions observed at an incidence of ≥5% in any treatment arm in clinical studies (NUCA3001, NUCA3002, NUCB3001, and NUCB3002) were abdominal cramps, abdominal pain, arthralgia, chills, dyspepsia, fatigue, insomnia, musculoskeletal pain, myalgia, and neuropathy.
 Additionally, in these studies hyperbilirubinemia was reported at an incidence of ≤0.8%.
 
-Selected laboratory abnormalities observed during a clinical study of monotherapy with RETROVIR are shown in Table 3.
+Selected laboratory abnormalities observed during a clinical study of monotherapy with RETROVIR are shown in Table 4.
 
-Table 3.
+Table 4.
 Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Patients With Asymptomatic HIV-1 Infection (ACTG 019)
 
-| Test(Abnormal Level) | RETROVIR 500 mg/day(n = 453) | Placebo(n = 428) |
-| --- | --- | --- |
-| Anemia (Hgb<8 g/dL) | 1% | <1% |
-| Granulocytopenia (<750 cells/mm3) | 2% | 2% |
-| Thrombocytopenia (platelets<50,000/mm3) | 0% | <1% |
-| ALT (>5 x ULN) | 3% | 3% |
-| AST (>5 x ULN) | 1% | 2% |
-| ULN = Upper limit of normal. |  |  |
+| Test(Abnormal Level) | RETROVIR 500 mg/day(n = 453) | Placebo(n = 428) |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Anemia (Hgb<8 g/dL) | 1% | <1% |  |  |  |
+| Granulocytopenia (<750 cells/mm3) | 2% | 2% |  |  |  |
+| Thrombocytopenia (platelets<50,000/mm3) | 0% | <1% |  |  |  |
+| ALT (>5 x ULN) | 3% | 3% |  |  |  |
+| AST (>5 x ULN) | 1% | 2% |  |  |  |
+| ULN = Upper limit of normal. |  |  |  |  |  |
 
 Pediatrics: The clinical adverse reactions reported among adult recipients of RETROVIR may also occur in pediatric patients.
 
-Study ACTG 300: Selected clinical adverse reactions and physical findings with a ≥5% frequency during therapy with EPIVIR® (lamivudine) Oral Suspension 4 mg/kg twice daily plus RETROVIR 160 mg/m2 3 times daily compared with didanosine in therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 4.
-
-Table 4.
-Selected Clinical Adverse Reactions and Physical Findings (≥5% Frequency) in Pediatric Patients in Study ACTG 300
-
-| Adverse Reaction | EPIVIR plus RETROVIR(n = 236) | Didanosine(n = 235) |
-| --- | --- | --- |
-| Body as a whole |  |  |
-| Fever | 25% | 32% |
-| Digestive |  |  |
-| Hepatomegaly | 11% | 11% |
-| Nausea & vomiting | 8% | 7% |
-| Diarrhea | 8% | 6% |
-| Stomatitis | 6% | 12% |
-| Splenomegaly | 5% | 8% |
-| Respiratory |  |  |
-| Cough | 15% | 18% |
-| Abnormal breath sounds/wheezing | 7% | 9% |
-| Ear, Nose, and Throat |  |  |
-| Signs or symptoms of earsa | 7% | 6% |
-| Nasal discharge or congestion | 8% | 11% |
-| Other |  |  |
-| Skin rashes | 12% | 14% |
-| Lymphadenopathy | 9% | 11% |
-| a Includes pain, discharge, erythema, or swelling of an ear. |  |  |
-
-Selected laboratory abnormalities experienced by therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 5.
+Study ACTG 300: Selected clinical adverse reactions and physical findings with a ≥5% frequency during therapy with EPIVIR® (lamivudine) Oral Suspension 4 mg/kg twice daily plus RETROVIR 160 mg/m2 3 times daily compared with didanosine in therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 5.
 
 Table 5.
+Selected Clinical Adverse Reactions and Physical Findings (≥5% Frequency) in Pediatric Patients in Study ACTG 300
+
+| Adverse Reaction | EPIVIR plus RETROVIR(n = 236) | Didanosine(n = 235) |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Body as a whole |  |  |  |  |  |  |  |  |
+| Fever | 25% | 32% |  |  |  |  |  |  |
+| Digestive |  |  |  |  |  |  |  |  |
+| Hepatomegaly | 11% | 11% |  |  |  |  |  |  |
+| Nausea & vomiting | 8% | 7% |  |  |  |  |  |  |
+| Diarrhea | 8% | 6% |  |  |  |  |  |  |
+| Stomatitis | 6% | 12% |  |  |  |  |  |  |
+| Splenomegaly | 5% | 8% |  |  |  |  |  |  |
+| Respiratory |  |  |  |  |  |  |  |  |
+| Cough | 15% | 18% |  |  |  |  |  |  |
+| Abnormal breath sounds/wheezing | 7% | 9% |  |  |  |  |  |  |
+| Ear, Nose, and Throat |  |  |  |  |  |  |  |  |
+| Signs or symptoms of earsa | 7% | 6% |  |  |  |  |  |  |
+| Nasal discharge or congestion | 8% | 11% |  |  |  |  |  |  |
+| Other |  |  |  |  |  |  |  |  |
+| Skin rashes | 12% | 14% |  |  |  |  |  |  |
+| Lymphadenopathy | 9% | 11% |  |  |  |  |  |  |
+| a Includes pain, discharge, erythema, or swelling of an ear. |  |  |  |  |  |  |  |  |
+
+Selected laboratory abnormalities experienced by therapy-naive (≤56 days of antiretroviral therapy) pediatric patients are listed in Table 6.
+
+Table 6.
 Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Pediatric Patients in Study ACTG 300
 
 | Test(Abnormal Level) | EPIVIR plus RETROVIR | Didanosine |

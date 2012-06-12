@@ -35,8 +35,17 @@ The recommended dosage regimen for administration to pregnant women (>14 weeks o
 Maternal Dosing: 100 mg orally 5 times per day until the start of labor [see Clinical Studies(14.3)].
 During labor and delivery, intravenous RETROVIR should be administered at 2 mg/kg (total body weight) over 1 hour followed by a continuous intravenous infusion of 1 mg/kg/hour (total body weight) until clamping of the umbilical cord.
 
-Neonatal Dosing: 2 mg/kg orally every 6 hours starting within 12 hours after birth and continuing through 6 weeks of age.
-Neonates unable to receive oral dosing may be administered RETROVIR intravenously at 1.5 mg/kg, infused over 30 minutes, every 6 hours.
+Neonatal Dosing: Start neonatal dosing within 12 hours after birth and continue through 6 weeks of age.
+Neonates unable to receive oral dosing may be administered RETROVIR intravenously.
+See Table 2.
+
+Table 2.
+Recommended Neonatal Dosages of RETROVIR
+
+| Route | Total Daily Dose | Dose and Dosage Regimen |
+| --- | --- | --- |
+| Oral | 8 mg/kg/day | 2 mg/kg every 6 hours |
+| IV | 6 mg/kg/day | 1.5 mg/kg infused over 30 minutes, every 6 hours |
 
 ## 2.3 Patients With Severe Anemia and/or Neutropenia
 

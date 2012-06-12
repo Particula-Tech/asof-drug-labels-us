@@ -21,9 +21,9 @@ ACTG 300 was a multi-center, randomized, double-blind study that provided for co
 A total of 471 symptomatic, HIV-1-infected therapy-naive pediatric patients were enrolled in these 2 treatment arms.
 The median age was 2.7 years (range: 6 weeks to 14 years), the mean baseline CD4+ cell count was 868 cells/mm3, and the mean baseline plasma HIV-1 RNA was 5.0 log10 copies/mL.
 The median duration that patients remained on study was approximately 10 months.
-Results are summarized in Table 10.
+Results are summarized in Table 11.
 
-Table 10.
+Table 11.
 Number of Patients (%) Reaching a Primary Clinical Endpoint (Disease Progression or Death)
 
 | Endpoint | EPIVIR plus RETROVIR(n = 236) | Didanosine (n = 235) |

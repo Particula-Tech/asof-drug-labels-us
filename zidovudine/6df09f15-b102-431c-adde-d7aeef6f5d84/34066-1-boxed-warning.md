@@ -5,4 +5,4 @@ Hematologic Toxicity: RETROVIR® (zidovudine) Tablets, Capsules, and Syrup have 
 Myopathy: Prolonged use of RETROVIR has been associated with symptomatic myopathy [see Warnings and Precautions (5.2)].
 
 Lactic Acidosis and Severe Hepatomegaly: Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including RETROVIR and other antiretrovirals.
-Suspend treatment if clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity occur [see Warnings and Precautions (5.3)].
+Suspend treatment if clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity occur[see Warnings and Precautions (5.3)].

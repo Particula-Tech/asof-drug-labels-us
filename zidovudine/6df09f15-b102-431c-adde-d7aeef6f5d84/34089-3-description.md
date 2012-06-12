@@ -14,5 +14,5 @@ Each capsule contains 100 mg of zidovudine and the inactive ingredients corn sta
 The 100-mg empty hard gelatin capsule, printed with edible black ink, consists of black iron oxide, dimethylpolysiloxane, gelatin, pharmaceutical shellac, soya lecithin, and titanium dioxide.
 
 RETROVIR Syrup is for oral administration.
-Each teaspoonful (5 mL) of RETROVIR Syrup contains 50 mg of zidovudine and the inactive ingredients sodium benzoate 0.2% (added as a preservative), citric acid, flavors, glycerin, and liquid sucrose.
+Each mL of RETROVIR Syrup contains 10 mg of zidovudine and the inactive ingredients sodium benzoate 0.2% (added as a preservative), citric acid, flavors, glycerin, and liquid sucrose.
 Sodium hydroxide may be added to adjust pH.

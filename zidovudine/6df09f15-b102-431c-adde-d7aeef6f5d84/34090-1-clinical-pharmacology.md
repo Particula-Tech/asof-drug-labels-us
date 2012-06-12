@@ -8,9 +8,9 @@ Zidovudine is an antiviral agent [see Clinical Pharmacology (12.4)].
 
 Absorption and Bioavailability: In adults, following oral administration, zidovudine is rapidly absorbed and extensively distributed, with peak serum concentrations occurring within 0.5 to 1.5 hours.
 The AUC was equivalent when zidovudine was administered as RETROVIR Tablets or Syrup compared with RETROVIR Capsules.
-The pharmacokinetic properties of zidovudine in fasting adult patients are summarized in Table 6.
+The pharmacokinetic properties of zidovudine in fasting adult patients are summarized in Table 7.
 
-Table 6.
+Table 7.
 Zidovudine Pharmacokinetic Parameters in Fasting Adult Patients
 
 | Parameter | Mean ± SD(except where noted) |
@@ -25,7 +25,7 @@ Zidovudine Pharmacokinetic Parameters in Fasting Adult Patients
 | a Median [range]. |  |
 | b Approximate range. |  |
 
-Distribution: The apparent volume of distribution of zidovudine, following oral administration, is 1.6 ± 0.6 L/kg; and binding to plasma protein is low, <38% (Table 6).
+Distribution: The apparent volume of distribution of zidovudine, following oral administration, is 1.6 ± 0.6 L/kg; and binding to plasma protein is low, <38% (Table 7).
 
 Metabolism and Elimination: Zidovudine is primarily eliminated by hepatic metabolism.
 The major metabolite of zidovudine is GZDV.
@@ -38,19 +38,19 @@ Pharmacokinetics of zidovudine were dose independent at oral dosing regimens ran
 Effect of Food on Absorption: RETROVIR may be administered with or without food.
 The zidovudine AUC was similar when a single dose of zidovudine was administered with food.
 
-Special Populations: Renal Impairment: Zidovudine clearance was decreased resulting in increased zidovudine and GZDV half-life and AUC in patients with impaired renal function (n = 14) following a single 200-mg oral dose (Table 7).
+Special Populations: Renal Impairment: Zidovudine clearance was decreased resulting in increased zidovudine and GZDV half-life and AUC in patients with impaired renal function (n = 14) following a single 200-mg oral dose (Table 8).
 Plasma concentrations of AMT were not determined.
 A dose adjustment should not be necessary for patients with creatinine clearance (CrCl) ≥15 mL/min.
 
-Table 7.
+Table 8.
 Zidovudine Pharmacokinetic Parameters in Patients With Severe Renal Impairmenta
 
-| Parameter | Control Subjects(Normal Renal Function)(n = 6) | Patients With Renal Impairment(n = 14) |
-| --- | --- | --- |
-| CrCl (mL/min) | 120 ± 8 | 18 ± 2 |
-| Zidovudine AUC (ng•hr/mL) | 1,400 ± 200 | 3,100 ± 300 |
-| Zidovudine half-life (hr) | 1.0 ± 0.2 | 1.4 ± 0.1 |
-| a Data are expressed as mean ± standard deviation. |  |  |
+| Parameter | Control Subjects(Normal Renal Function)(n = 6) | Patients With Renal Impairment(n = 14) |  |  |
+| --- | --- | --- | --- | --- |
+| CrCl (mL/min) | 120 ± 8 | 18 ± 2 |  |  |
+| Zidovudine AUC (ng•hr/mL) | 1,400 ± 200 | 3,100 ± 300 |  |  |
+| Zidovudine half-life (hr) | 1.0 ± 0.2 | 1.4 ± 0.1 |  |  |
+| a Data are expressed as mean ± standard deviation. |  |  |  |  |
 
 Hemodialysis and Peritoneal Dialysis: The pharmacokinetics and tolerance of zidovudine were evaluated in a multiple-dose study in patients undergoing hemodialysis (n = 5) or peritoneal dialysis (n = 6) receiving escalating doses up to 200 mg 5 times daily for 8 weeks.
 Daily doses of 500 mg or less were well tolerated despite significantly elevated GZDV plasma concentrations.
@@ -61,7 +61,7 @@ A dosage adjustment is recommended for patients undergoing hemodialysis or perit
 Hepatic Impairment: Data describing the effect of hepatic impairment on the pharmacokinetics of zidovudine are limited.
 However, because zidovudine is eliminated primarily by hepatic metabolism, it is expected that zidovudine clearance would be decreased and plasma concentrations would be increased following administration of the recommended adult doses to patients with hepatic impairment [see Dosage and Administration (2.5)].
 
-Pediatric Patients: Zidovudine pharmacokinetics have been evaluated in HIV-1-infected pediatric patients (Table 8).
+Pediatric Patients: Zidovudine pharmacokinetics have been evaluated in HIV-1-infected pediatric patients (Table 9).
 
 Patients Aged 3 Months to 12 Years: Overall, zidovudine pharmacokinetics in pediatric patients greater than 3 months of age are similar to those in adult patients.
 Proportional increases in plasma zidovudine concentrations were observed following administration of oral solution from 90 to 240 mg/m2 every 6 hours.
@@ -75,7 +75,7 @@ The half-life was 13.0 ± 5.8 hours.
 In neonates ≤14 days old, bioavailability was greater, total body clearance was slower, and half-life was longer than in pediatric patients >14 days old.
 For dose recommendations for neonates [see Dosage and Administration (2.2)].
 
-Table 8.
+Table 9.
 Zidovudine Pharmacokinetic Parameters in Pediatric Patientsa
 
 | Parameter | Birth to 14 Days | Aged 14 Days to 3 Months | Aged 3 Months to 12 Years |
@@ -102,7 +102,7 @@ Gender: A pharmacokinetic study in healthy male (n = 12) and female (n = 12) sub
 
 Drug Interactions: [See Drug Interactions (7)].
 
-Table 9.
+Table 10.
 Effect of Coadministered Drugs on Zidovudine AUCa
 
 | Note: ROUTINE DOSE MODIFICATION OF ZIDOVUDINE IS NOT WARRANTED WITH COADMINISTRATION OF THE FOLLOWING DRUGS. |  |  |  |  |  |
