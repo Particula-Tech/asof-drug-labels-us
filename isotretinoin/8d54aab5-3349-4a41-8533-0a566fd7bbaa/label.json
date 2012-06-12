@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA021951"
+  ],
+  "inn": "isotretinoin",
+  "labeler": "Ranbaxy Laboratories Inc.",
+  "package_ndcs": [
+    "10631-115-31",
+    "10631-115-69",
+    "10631-116-31",
+    "10631-116-69",
+    "10631-117-31",
+    "10631-117-69",
+    "10631-118-31",
+    "10631-118-69"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "isotretinoin",
+      "name": "Absorica"
+    }
+  ],
+  "setid": "8d54aab5-3349-4a41-8533-0a566fd7bbaa",
+  "source": "dailymed"
+}
