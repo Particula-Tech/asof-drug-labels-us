@@ -8,7 +8,7 @@ Local reaction, pain, and slight irritation during intravenous administration oc
 
 The frequency and severity of adverse events associated with the use of RETROVIR are greater in patients with more advanced infection at the time of initiation of therapy.
 
-Table 5 summarizes events reported at a statistically significantly greater incidence for patients receiving RETROVIR orally in a monotherapy study:
+Table 5 summarizes events reported at a statistically significantly greater incidence for patients receiving RETROVIR orally in a monotherapy study.
 
 Table 5.
 Percentage (%) of Patients with Adverse Eventsa in Asymptomatic HIV Infection (ACTG 019)
