@@ -53,22 +53,25 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that ZOLOFT is not approved for use in treating bipolar depression.
 
-### Serotonin Syndrome
+Cases of serious sometimes fatal reactions have been reported in patients receiving ZOLOFT (sertraline hydrochloride), a selective serotonin reuptake inhibitor (SSRI), in combination with a monoamine oxidase inhibitor (MAOI).
+Symptoms of a drug interaction between an SSRI and an MAOI include: hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, mental status changes that include confusion, irritability, and extreme agitation progressing to delirium and coma.
+These reactions have also been reported in patients who have recently discontinued an SSRI and have been started on an MAOI.
+Some cases presented with features resembling neuroleptic malignant syndrome.
+Therefore, ZOLOFT should not be used in combination with an MAOI, or within 14 days of discontinuing treatment with an MAOI.
+Similarly, at least 14 days should be allowed after stopping ZOLOFT before starting an MAOI.
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including ZOLOFT, alone but particularly with concomitant use of serotonergic drugs (including triptans), with drugs that impair metabolism of serotonin (in particular, MAOIs, including reversible MAOIs such as linezolid and intravenous methylene blue), or with antipsychotics or other dopamine antagonists.
+The concomitant use of ZOLOFT with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS and WARNINGS – Potential for Interaction with Monoamine Oxidase Inhibitors).
 
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Patients should be monitored for the emergence of serotonin syndrome.
+### Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including ZOLOFT treatment, but particularly with concomitant use of serotonergic drugs (including triptans and fentanyl) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
 The concomitant use of ZOLOFT with MAOIs intended to treat depression is contraindicated.
 
-ZOLOFT should also not be started in a patient who is being treated with reversible MAOIs such as linezolid or intravenous methylene blue.
-All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
-There have been no reports involving the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
-There may be circumstances when it is necessary to initiate treatment with a reversible MAOI such as linezolid or intravenous methylene blue in a patient taking ZOLOFT.
-ZOLOFT should be discontinued before initiating treatment with the reversible MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
-
-If concomitant use of ZOLOFT with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
+If concomitant treatment of ZOLOFT with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
 
 The concomitant use of ZOLOFT with serotonin precursors (such as tryptophan) is not recommended.
 
@@ -166,6 +169,12 @@ Signs and symptoms associated with more severe and/or acute cases have included 
 There have been rare reports of altered platelet function and/or abnormal results from laboratory studies in patients taking ZOLOFT.
 While there have been reports of abnormal bleeding or purpura in several patients taking ZOLOFT, it is unclear whether ZOLOFT had a causative role.
 
+### Angle-Closure Glaucoma
+
+SSRIs including sertraline may have an effect on pupil size resulting in mydriasis.
+This mydriatic effect has the potential to narrow the eye angle resulting in increased intraocular pressure and angle-closure glaucoma, especially in patients pre-disposed.
+Sertraline should therefore be used with caution in patients with angle-closure glaucoma or history of glaucoma.
+
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with ZOLOFT and should counsel them in its appropriate use.
@@ -216,12 +225,6 @@ False-positive urine immunoassay screening tests for benzodiazepines have been r
 This is due to lack of specificity of the screening tests.
 False-positive test results may be expected for several days following discontinuation of sertraline therapy.
 Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish sertraline from benzodiazepines.
-
-## Angle-Closure Glaucoma
-
-SSRIs including sertraline may have an effect on pupil size resulting in mydriasis.
-This mydriatic effect has the potential to narrow the eye angle resulting in increased intraocular pressure and angle-closure glaucoma, especially in patients pre-disposed.
-Sertraline should therefore be used with caution in patients with angle-closure glaucoma or history of glaucoma.
 
 ## Drug Interactions
 
@@ -290,7 +293,7 @@ Furthermore, whenever ZOLOFT is withdrawn from co-therapy, an increased dose of 
 
 ### Serotonergic Drugs
 
-Based on the mechanism of action of SNRIs and SSRIs, including ZOLOFT, and the potential for serotonin syndrome, caution is advised when SNRIs and SSRIs, including ZOLOFT, are coadministered with other drugs that may affect the serotonergic neutrotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see CONTRAINDICATIONS, WARNINGS-Serotonin Syndrome and DOSAGE AND ADMINISTRATION).
+Based on the mechanism of action of SNRIs and SSRIs, including ZOLOFT, and the potential for serotonin syndrome, caution is advised when SNRIs and SSRIs, including ZOLOFT, are coadministered with other drugs that may affect the serotonergic neutrotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS-Serotonin Syndrome).
 The concomitant use of ZOLOFT with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS – Drug Interactions).
 
 ### Triptans
@@ -380,24 +383,21 @@ ZOLOFT (sertraline hydrochloride) should be used during pregnancy only if the po
 
 ## Pregnancy-Nonteratogenic Effects
 
-Neonates exposed to ZOLOFT and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Neonates exposed to ZOLOFT and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+These findings are based on post marketing reports.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS: Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS) – like Reactions).
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS).
 
-Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
-PPHN occurs in 1 – 2 per 1,000 births in the general population and is associated with substantial neonatal morbidity and mortality.
-Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including ZOLOFT) in pregnancy and PPHN.
-Other studies do not show a significant statistical association.
+Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
+PPHN occurs in 1–2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
+In a retrospective case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately sixfold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
+There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
+The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
 
-There have also been postmarketing reports of premature births in pregnant women exposed to sertraline or other SSRIs.
-
-Physicians should also note the results of a prospective longitudinal study of 201 women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
-Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
-
-When treating a pregnant woman with sertraline, the physician should carefully consider both the potential risks of taking an SSRI, along with the established benefits of treating depression with an antidepressant.
-This decision can only be made on a case by case basis (see DOSAGE AND ADMINISTRATION).
+When treating a pregnant woman with ZOLOFT during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
+Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic in the context of antidepressant therapy at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
 
 ## Labor and Delivery
 
@@ -455,10 +455,3 @@ In 354 geriatric subjects treated with ZOLOFT in placebo-controlled trials, the 
 Urinary tract infection was the only adverse event not appearing in Tables 2 and 3 and reported at an incidence of at least 2% and at a rate greater than placebo in placebo-controlled trials.
 
 SSRIS and SNRIs, including ZOLOFT, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia).
-
-## Diabetes/Loss of Glycemic Control
-
-Cases of new onset diabetes mellitus have been reported in patients receiving SSRIs including ZOLOFT.
-Loss of glycemic control including both hyperglycemia and hypoglycemia has also been reported in patients with and without pre-existing diabetes.
-Patients should therefore be monitored for signs and symptoms of glucose fluctuations.
-Diabetic patients especially should have their glycemic control carefully monitored since their dosage of insulin and/or concomitant oral hypoglycemic drug may need to be adjusted.

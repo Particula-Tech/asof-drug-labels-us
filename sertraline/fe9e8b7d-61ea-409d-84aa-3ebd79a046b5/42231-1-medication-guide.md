@@ -95,8 +95,8 @@ Do not take ZOLOFT if you:
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
   People who take ZOLOFT close in time to an MAOI may have serious or even life-threatening side effects.
   Get medical help right away if you have any of these symptoms:
-  - Do not take an MAOI within 2 weeks of stopping ZOLOFT unless directed to do so by your physician.
-  - Do not start ZOLOFT if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
+  - Do not take an MAOI within 2 weeks of stopping ZOLOFT.
+  - Do not start ZOLOFT if you stopped taking an MAOI in the last 2 weeks.
   - high fever
   - uncontrolled muscle spasms
   - stiff muscles
@@ -248,6 +248,6 @@ Inactive ingredients
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-LAB-0540-1.1
+LAB-0540-2.0
 
-March 2012
+August 2011
