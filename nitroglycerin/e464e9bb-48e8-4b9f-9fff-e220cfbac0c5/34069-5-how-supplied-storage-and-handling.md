@@ -14,6 +14,6 @@ Store at 20°-25°C (68°-77°F) [See USP Controlled Room Temperature].
 
 NITRO-BID®(Nitroglycerin Ointment USP, 2%)
 
-SAVAGE LABORATORIES® A division of Nycomed US Inc. MELVILLE, NEW YORK 11747
+SAVAGE LABORATORIES® A division of Fougera Pharmaceuticals Inc. MELVILLE, NEW YORK 11747
 
-I7326/ IF7326 R8/08 #274
+I7326A/IF7326A R09/11 #274

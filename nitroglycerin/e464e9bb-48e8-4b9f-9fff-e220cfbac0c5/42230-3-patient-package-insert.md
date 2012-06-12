@@ -31,4 +31,4 @@ foilpac®: DISCARD IMMEDIATELY AFTER USE.
 
 Store at 20°-25°C (68°-77°F) [See USP Controlled Room Temperature].
 
-SAVAGE LABORATORIES® A division of Nycomed US Inc. MELVILLE, NEW YORK 11747
+SAVAGE LABORATORIES® A division of Fougera Pharmaceuticals Inc. MELVILLE, NEW YORK 11747 R09/11
