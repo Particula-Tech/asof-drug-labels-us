@@ -45,10 +45,15 @@ The most common side effects of finasteride tablets include:
 - enlarged or painful breast.
   You should promptly report to your doctor any changes in your breasts such as lumps, pain or nipple discharge.
 
-In addition, the following have been reported in general use with finasteride tablets:
+The following have been reported in general use with finasteride tablets and/or finasteride at lower doses:
 
 - allergic reactions, including rash, itching, hives, and swelling of the lips and face
 - rarely, some men may have testicular pain
+- trouble getting or keeping an erection that continued after stopping the medication
+- male infertility and/or poor quality of semen.
+  Improvement in the quality of semen has been reported after stopping the medication
+- depression
+- decrease in sex drive that continued after stopping the medication
 - in rare cases, male breast cancer has been reported.
 
 You should discuss side effects with your doctor before taking finasteride tablets and anytime you think you are having a side effect.
@@ -62,7 +67,7 @@ What you need to know while taking finasteride tablets:
   Follow your doctor’s advice about when to have these checkups.
 - Checking for prostate cancer.
   Your doctor has prescribed finasteride tablets for BPH and not for treatment of prostate cancer — but a man can have BPH and prostate cancer at the same time.
-  Checking for prostate cancer should continue while you take finasteride tablets.
+  Your doctor may continue checking for prostate cancer while you take finasteride tablets.
 - About Prostate-Specific Antigen (PSA).
   Your doctor may have done a blood test called PSA for the screening of prostate cancer.
   Because finasteride tablets decreases PSA levels, you should tell your doctor(s) that you are taking finasteride tablets.
@@ -106,4 +111,4 @@ However, since each case of BPH is different, you should know that:
 - You may need to take finasteride tablets for six (6) months or more to see whether it improves your symptoms.
 - Therapy with finasteride tablets may reduce the need for surgery for an enlarged prostate.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 08/2011
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 05/2012

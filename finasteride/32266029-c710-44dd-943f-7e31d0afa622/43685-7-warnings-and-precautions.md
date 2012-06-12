@@ -21,24 +21,25 @@ Similar results were observed in a 4-year placebo-controlled clinical trial with
 5α-­reductase inhibitors may increase the risk of development of high-grade prostate cancer.
 Whether the effect of 5α-reductase inhibitors to reduce prostate volume, or study-related factors, impacted the results of these studies has not been established.
 
-## 5.3 Evaluation for Other Urological Conditions
-
-Prior to initiating therapy with finasteride, appropriate evaluation should be performed to identify other conditions such as infection, prostate cancer, stricture disease, hypotonic bladder or other neurogenic disorders that might mimic BPH.
-Patients with large residual urinary volume and/or severely diminished urinary flow should be carefully monitored for obstructive uropathy.
-These patients may not be candidates for finasteride therapy.
-
-## 5.4 Exposure of Women — Risk to Male Fetus
+## 5.3 Exposure of Women — Risk to Male Fetus
 
 Women should not handle crushed or broken finasteride tablets when they are pregnant or may potentially be pregnant because of the possibility of absorption of finasteride and the subsequent potential risk to a male fetus.
 Finasteride tablets are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets have not been broken or crushed.
 [See Contraindications (4), Use in Specific Populations (8.1) , Clinical Pharmacology (12.3) , How Supplied/Storage and Handling (16) and Patient Counseling Information (17.2).]
 
-## 5.5 Pediatric Patients and Women
+## 5.4 Pediatric Patients and Women
 
-Finasteride is not indicated for use in pediatric patients [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)] or women [see also Warnings and Precautions (5.4), Use in Specific Populations (8.1), Clinical Pharmacology (12.3), How Supplied/Storage and Handling (16) and Patient Counseling Information (17.2)].
+Finasteride is not indicated for use in pediatric patients [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)] or women [see also Warnings and Precautions (5.3), Use in Specific Populations (8.1), Clinical Pharmacology (12.3), How Supplied/Storage and Handling (16) and Patient Counseling Information (17.2)].
 
-## 5.6 Effect on Semen Characteristics
+## 5.5 Effect on Semen Characteristics
 
 Treatment with finasteride for 24 weeks to evaluate semen parameters in healthy male volunteers revealed no clinically meaningful effects on sperm concentration, mobility, morphology, or pH.
 A 0.6 mL (22.1%) median decrease in ejaculate volume with a concomitant reduction in total sperm per ejaculate was observed.
 These parameters remained within the normal range and were reversible upon discontinuation of therapy with an average time to return to baseline of 84 weeks.
+
+## 5.6 Consideration of Other Urological Conditions
+
+Prior to initiating treatment with finasteride, consideration should be given to other urological conditions that may cause similar symptoms.
+In addition, prostate cancer and BPH may coexist.
+Patients with large residual urinary volume and/or severely diminished urinary flow should be carefully monitored for obstructive uropathy.
+These patients may not be candidates for finasteride therapy.

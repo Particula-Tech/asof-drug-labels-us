@@ -63,8 +63,8 @@ Table 3: Mean (SD) Pharmacokinetic Parameters in Healthy Young Subjects (n=15)
 | * Range |  |
 
 Pediatric Finasteride pharmacokinetics have not been investigated in patients <18 years of age.
-Finasteride is not indicated for use in pediatric patients [see Warnings and Precautions (5.5), Use in Specific Populations (8.4)].
-Gender Finasteride is not indicated for use in women [see Contraindications (4) , Warnings and Precautions (5.4 and 5.5), Use in Specific Populations (8.1), How Supplied/Storage and Handling (16) and Patient Counseling Information (17.2)] .
+Finasteride is not indicated for use in pediatric patients [see Warnings and Precautions (5.4), Use in Specific Populations (8.4)].
+Gender Finasteride is not indicated for use in women [see Contraindications (4) , Warnings and Precautions (5.3 and 5.4), Use in Specific Populations (8.1), How Supplied/Storage and Handling (16) and Patient Counseling Information (17.2)] .
 Geriatric No dosage adjustment is necessary in the elderly.
 Although the elimination rate of finasteride is decreased in the elderly, these findings are of no clinical significance.
 [See Clinical Pharmacology (12.3) and Use in Specific Populations (8.5).]

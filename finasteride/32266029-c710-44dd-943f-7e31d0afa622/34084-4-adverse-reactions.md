@@ -24,7 +24,8 @@ Table 1: Drug-Related Adverse Experiences
 | *Combined Years 2 to 4 N = 1524 and 1516, finasteride vs. placebo, respectively |  |  |  |  |
 
 Phase III Studies and 5-Year Open Extensions The adverse experience profile in the 1-year, placebo-controlled, Phase III studies, the 5-year open extensions, and a long-term efficacy and safety study were similar.
-Medical Therapy of Prostatic Symptoms (MTOPS) Study In the MTOPS study, 3047 men with symptomatic BPH were randomized to receive finasteride 5 mg/day (n=768), doxazosin 4 or 8 mg/day (n=756), the combination of finasteride 5 mg/day and doxazosin 4 or 8 mg/day (n=786), or placebo (n=737) for 4 to 6 years [see Clinical Studies (14.2)] .
+Medical Therapy of Prostatic Symptoms (MTOPS) Study In the MTOPS study, 3047 men with symptomatic BPH were randomized to receive finasteride 5 mg/day (n=768), doxazosin 4 or 8 mg/day (n=756), the combination of finasteride 5 mg/day and doxazosin 4 or 8 mg/day (n=786), or placebo (n=737) for 4 to 6 years.
+[See Clinical Studies (14.2).]
 The incidence rates of drug-related adverse experiences reported by ≥2% of patients in any treatment group in the MTOPS Study are listed in Table 2.
 The individual adverse effects which occurred more frequently in the combination group compared to either drug alone were: asthenia, postural hypotension, peripheral edema, dizziness, decreased libido, rhinitis, abnormal ejaculation, impotence and abnormal sexual function (see Table 2).
 Of these, the incidence of abnormal ejaculation in patients receiving combination therapy was comparable to the sum of the incidences of this adverse experience reported for the two monotherapies.
@@ -46,7 +47,7 @@ Table 2: Incidence ≥2% in One or More Treatment Groups Drug-Related Clinical A
 | Urogenital Abnormal Ejaculation Gynecomastia Impotence Sexual Function Abnormal | 2.3 0.7 12.2 0.9 | 4.5 1.1 14.4 2 | 7.2 2.2 18.5 2.5 | 14.1 1.5 22.6 3.1 |
 | * Doxazosin dose was achieved by weekly titration (1 to 2 to 4 to 8 mg). The final tolerated dose (4 mg or 8 mg) was administered at end-Week 4. Only those patients tolerating at least 4 mg were kept on doxazosin. The majority of patients received the 8 mg dose over the duration of the study. |  |  |  |  |
 
-Long-Term Data High-Grade Prostate Cancer The PCPT trial was a 7-year randomized, double-blind, placebo-controlled trial that enrolled 18,882 men ≥55 years of age with a normal digital rectal examination and a PSA ≤ 3 ng/mL.
+Long-Term Data High-Grade Prostate Cancer The PCPT trial was a 7-year randomized, double-blind, placebo-controlled trial that enrolled 18,882 men ≥55 years of age with a normal digital rectal examination and a PSA ≤3 ng/mL.
 Men received either finasteride 5 mg or placebo daily.
 Patients were evaluated annually with PSA and digital rectal exams.
 Biopsies were performed for elevated PSA, an abnormal digital rectal exam, or the end of study.
@@ -62,5 +63,9 @@ New reports of drug-related sexual adverse experiences decreased with duration o
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse effects have been reported in postmarketing experience with finasteride.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: - hypersensitivity reactions, including pruritus, urticaria, and swelling of the lips and face - testicular pain - male breast cancer.
+The following additional adverse effects have been reported in postmarketing experience with finasteride and/or finasteride at lower doses.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: - hypersensitivity reactions, including pruritus, urticaria, and swelling of the lips and face. - testicular pain. - erectile dysfunction (ED) that continued after discontinuation of treatment, reported rarely in men taking finasteride for the treatment of BPH.
+Most men were older and were taking concomitant medications and/or had co-morbid conditions with a known association to ED.
+The independent role of finasteride in these events is unknown. - male infertility and/or poor seminal quality have been reported rarely in men taking finasteride for the treatment of BPH.
+The independent role of finasteride in these events is unknown.
+Normalization or improvement of seminal quality has been reported after discontinuation of finasteride. - depression. - decreased libido that continued after discontinuation of treatment. - male breast cancer.
