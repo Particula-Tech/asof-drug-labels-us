@@ -10,11 +10,9 @@ STELARA® is administered by subcutaneous injection.
 In subjects weighing >100 kg, 45 mg was also shown to be efficacious.
 However, 90 mg resulted in greater efficacy in these subjects [see Clinical Studies (14)].
 
-The safety and efficacy of STELARA® have not been evaluated beyond two years.
-
 ## 2.2 General Considerations for Administration
 
-STELARA® is intended for subcutaneous administration under the supervision of a physician.
+STELARA® is for subcutaneous administration under the supervision of a physician.
 
 Prior to administration, STELARA® should be visually inspected for particulate matter and discoloration.
 STELARA® is colorless to light yellow and may contain a few small translucent or white particles.

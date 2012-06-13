@@ -71,8 +71,6 @@ This may also increase your risk for certain types of cancer.
 
 It is not known if STELARA® is safe and effective in children.
 
-It is not known if taking STELARA® for more than 2 years is safe and effective.
-
 What should I tell my doctor before receiving STELARA®?
 
 Before you receive STELARA®, tell your doctor if you:
@@ -167,10 +165,10 @@ Prefilled Syringe Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, Lic
 
 Vial Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, License No. 1864 at Cilag AG, Schaffhausen, Switzerland
 
-Revised August 2011
+Revised May 2012
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 U.S. License No. 1864
 
-© Janssen Biotech, Inc. 2011
+© Janssen Biotech, Inc. 2012

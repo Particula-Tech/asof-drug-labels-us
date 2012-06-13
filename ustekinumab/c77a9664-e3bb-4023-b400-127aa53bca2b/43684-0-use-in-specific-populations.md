@@ -33,5 +33,5 @@ Safety and effectiveness of STELARA® in pediatric patients have not been evalua
 
 ## 8.5 Geriatric Use
 
-Of the 2266 psoriasis subjects exposed to STELARA®, a total of 131 were 65 years or older, and 14 subjects were 75 years or older.
+Of the 3117 psoriasis subjects exposed to STELARA®, a total of 183 were 65 years or older, and 21 subjects were 75 years or older.
 Although no differences in safety or efficacy were observed between older and younger subjects, the number of subjects aged 65 and over is not sufficient to determine whether they respond differently from younger subjects.

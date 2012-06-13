@@ -15,3 +15,9 @@ The safety of STELARA® in combination with immunosuppressive agents or photothe
 The formation of CYP450 enzymes can be altered by increased levels of certain cytokines (e.g., IL-1, IL-6, IL-10, TNFα, IFN) during chronic inflammation.
 Thus, STELARA®, an antagonist of IL-12 and IL-23, could normalize the formation of CYP450 enzymes.
 Upon initiation of STELARA® in patients who are receiving concomitant CYP450 substrates, particularly those with a narrow therapeutic index, monitoring for therapeutic effect (e.g., for warfarin) or drug concentration (e.g., for cyclosporine) should be considered and the individual dose of the drug adjusted as needed [see Clinical Pharmacology (12.3)].
+
+## 7.4 Allergen Immunotherapy
+
+STELARA® has not been evaluated in patients who have undergone allergy immunotherapy.
+STELARA® may decrease the protective effect of allergen immunotherapy (decrease tolerance) which may increase the risk of an allergic reaction to a dose of allergen immunotherapy.
+Therefore, caution should be exercised in patients receiving or who have received allergen immunotherapy, particularly for anaphylaxis.

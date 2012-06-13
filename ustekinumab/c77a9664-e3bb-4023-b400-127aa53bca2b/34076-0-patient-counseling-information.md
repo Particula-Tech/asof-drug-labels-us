@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+"See FDA-approved patient labeling (Medication Guide)"
+
 Instruct patients to read the Medication Guide before starting STELARA® therapy and to reread the Medication Guide each time the prescription is renewed.
 
 Infections

@@ -41,7 +41,7 @@ The safety of STELARA® has not been evaluated in patients who have a history of
 ## 5.5 Hypersensitivity Reactions
 
 Serious allergic reactions, including angioedema and possible anaphylaxis, have been reported post-marketing.
-If an anaphylactic or other serious allergic reaction occurs, discontinue STELARA® and institute appropriate therapy [see Adverse Reactions (6.2)].
+If an anaphylactic or other serious allergic reaction occurs, discontinue STELARA® and institute appropriate therapy [see Adverse Reactions (6.3)].
 
 ## 5.6 Reversible Posterior Leukoencephalopathy Syndrome
 
@@ -69,9 +69,3 @@ Non-live vaccinations received during a course of STELARA® may not elicit an im
 
 The safety of STELARA® in combination with other immunosuppressive agents or phototherapy has not been evaluated.
 Ultraviolet-induced skin cancers developed earlier and more frequently in mice genetically manipulated to be deficient in both IL-12 and IL-23 or IL-12 alone [see Nonclinical Toxicology (13)].
-
-## 5.9 Theoretical Risk of Immunotherapy
-
-STELARA® has not been evaluated in patients who have undergone allergy immunotherapy.
-STELARA® may decrease the protective effect of allergy immunotherapy and may increase the risk of an allergic reaction to a dose of allergen immunotherapy.
-Therefore, caution should be exercised in patients receiving or who have received allergy immunotherapy, particularly for anaphylaxis.

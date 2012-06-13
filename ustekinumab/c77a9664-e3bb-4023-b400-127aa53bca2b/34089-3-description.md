@@ -5,7 +5,7 @@ Using DNA recombinant technology, STELARA® is produced in a well characterized 
 The manufacturing process contains steps for the clearance of viruses.
 STELARA® is comprised of 1326 amino acids and has an estimated molecular mass that ranges from 148,079 to 149,690 Daltons.
 
-STELARA® is available as: 45 mg of ustekinumab in 0.5 mL and 90 mg of ustekinumab in 1 mL.
+STELARA®, for subcutaneous use, is available as: 45 mg of ustekinumab in 0.5 mL and 90 mg of ustekinumab in 1 mL.
 STELARA® is supplied as a sterile solution in a single-use prefilled syringe with a 27 gauge fixed ½ inch needle, or a single-use 2 mL Type I glass vial with a coated stopper.
 The syringe is fitted with a passive needle guard and a needle cover that is manufactured using a dry natural rubber (a derivative of latex).
 

@@ -38,6 +38,7 @@ The mean (±SD) half-life ranged from 14.9 ± 4.6 to 45.6 ± 80.2 days across al
 Weight
 
 When given the same dose, subjects weighing >100 kg had lower median serum ustekinumab concentrations compared with those subjects weighing ≤100 kg.
+The median trough serum concentrations of ustekinumab in subjects of higher weight (>100 kg) in the 90 mg group were comparable to those in subjects of lower weight (≤100 kg) in the 45 mg group.
 
 Hepatic and Renal Impairment
 

@@ -44,18 +44,17 @@ Clinical Outcomes by Weight STUDY 1 and STUDY 2
 |  | STUDY 1 |  |  | STUDY 2 |  |  |
 |  |  | STELARA® |  |  | STELARA® |  |
 | Subjects randomized | 255 | 255 | 256 | 410 | 409 | 411 |
-| Week 12 |  |  |  |  |  |  |
-| PASI 75 response |  |  |  |  |  |  |
+| PASI 75 response at Week 12Patients were dosed with study medication at Weeks 0 and 4. |  |  |  |  |  |  |
 | ≤ 100 kg | 4% | 74% | 65% | 4% | 73% | 78% |
 |  | 6/166 | 124/168 | 107/164 | 12/290 | 218/297 | 225/289 |
 | >100 kg | 2% | 54% | 68% | 3% | 49% | 71% |
 |  | 2/89 | 47/87 | 63/92 | 3/120 | 55/112 | 86/121 |
-| PGA of Cleared or Minimal |  |  |  |  |  |  |
+| PGA of Cleared or Minimal at Week 12 |  |  |  |  |  |  |
 | ≤ 100 kg | 4% | 64% | 63% | 5% | 74% | 75% |
 |  | 7/166 | 108/168 | 103/164 | 14/290 | 220/297 | 216/289 |
 | >100 kg | 3% | 49% | 58% | 3% | 51% | 69% |
 |  | 3/89 | 43/87 | 53/92 | 4/120 | 57/112 | 84/121 |
 
-Subjects in STUDY 1 were evaluated through Week 52.
-At Week 40, those who were PASI 75 responders at both Weeks 28 and 40 were re-randomized to either continued dosing of STELARA® (STELARA® at Week 40) or to withdrawal of therapy (placebo at Week 40).
+Subjects in STUDY 1 who were PASI 75 responders at both Weeks 28 and 40 were re-randomized at Week 40 to either continued dosing of STELARA® (STELARA® at Week 40) or to withdrawal of therapy (placebo at Week 40).
 At Week 52, 89% (144/162) of subjects re-randomized to STELARA® treatment were PASI 75 responders compared with 63% (100/159) of subjects re-randomized to placebo (treatment withdrawal after Week 28 dose).
+The median time to loss of PASI 75 response among the subjects randomized to treatment withdrawal was 16 weeks.

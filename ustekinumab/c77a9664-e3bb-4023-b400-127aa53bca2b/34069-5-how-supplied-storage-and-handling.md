@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 STELARA® does not contain preservatives.
-STELARA® is available in prefilled syringes or single-use vials containing 45 mg or 90 mg of ustekinumab.
+STELARA® is available in single-use prefilled syringes or single-use vials containing 45 mg or 90 mg of ustekinumab.
 Each prefilled syringe is equipped with a needle safety guard.
 
 The NDC number for the 45 mg prefilled syringe is 57894-060-03.
