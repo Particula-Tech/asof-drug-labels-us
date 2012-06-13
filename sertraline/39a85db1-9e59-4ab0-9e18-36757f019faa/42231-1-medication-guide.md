@@ -237,4 +237,4 @@ Besides, 25 mg contains D&C yellow #10 aluminum lake, FD&C blue #1 aluminum lake
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Orap ® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin ® is a registered trademark of Bristol Myers Squibb.
-Jantoven ® is a registered trademark of Upsher-Smith Laboratories Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 10/2011
+Jantoven ® is a registered trademark of Upsher-Smith Laboratories Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Revised: 02/2012

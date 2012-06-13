@@ -171,7 +171,7 @@ Since the highest recommended pimozide dose (10 mg) has not been evaluated in co
 While the mechanism of this interaction is unknown, due to the narrow therapeutic index of pimozide and due to the interaction noted at a low dose of pimozide, concomitant administration of sertraline hydrochloride and pimozide should be contraindicated (see CONTRAINDICATIONS ).
 Results of a placebo-controlled trial in normal volunteers suggest that chronic administration of sertraline 200 mg/day does not produce clinically important inhibition of phenytoin metabolism.
 Nonetheless, at this time, it is recommended that plasma phenytoin concentrations be monitored following initiation of sertraline hydrochloride therapy with appropriate adjustments to the phenytoin dose, particularly in patients with multiple underlying medical conditions and/or those receiving multiple concomitant medications.
-The effect of sertraline hydrochloride on valproate levels has not been evaluated in clinical trails.
+The effect of sertraline hydrochloride on valproate levels has not been evaluated in clinical trials.
 In the absence of such data, it is recommended that plasma valproate levels be monitored following initiation of sertraline hydrochloride therapy with appropriate adjustments to the valproate dose.
 The risk of using sertraline hydrochloride in combination with other CNS active drugs has not been systematically evaluated.
 Consequently, caution is advised if the concomitant administration of sertraline hydrochloride and such drugs is required.
