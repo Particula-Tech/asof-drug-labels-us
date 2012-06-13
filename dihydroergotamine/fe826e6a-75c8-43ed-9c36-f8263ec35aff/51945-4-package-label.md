@@ -1,0 +1,15 @@
+# PRINCIPAL DISPLAY PANEL - 1 mL ampul Carton
+
+NDC 66490-041-01 Rx Only
+
+D.H.E.
+45® (dihydroergotamine mesylate) injection, USP
+
+1 mg/mL (1 mL ampul)
+
+FOR I.V., I.M. or S.C.
+USE
+
+10 × 1 mL ampuls Unit Dose Package
+
+VALEANT® Pharmaceuticals North America

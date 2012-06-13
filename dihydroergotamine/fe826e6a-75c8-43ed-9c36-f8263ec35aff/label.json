@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA005929"
+  ],
+  "inn": "dihydroergotamine",
+  "labeler": "Valeant Pharmaceuticals North America",
+  "package_ndcs": [
+    "66490-041-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dihydroergotamine mesylate",
+      "name": "Dihydroergotamine Mesylate"
+    }
+  ],
+  "setid": "fe826e6a-75c8-43ed-9c36-f8263ec35aff",
+  "source": "dailymed"
+}
