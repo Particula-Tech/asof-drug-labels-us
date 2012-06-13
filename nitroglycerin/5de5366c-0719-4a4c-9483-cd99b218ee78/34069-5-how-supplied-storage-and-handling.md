@@ -9,5 +9,5 @@
 | 0.6 mg/hr | 120 mg | 30 cm2 | Unit Dose 30 (NDC 0085-3330-30) Institutional Package 30 (NDC 0085-3330-35) |
 | 0.8 mg/hr | 160 mg | 40 cm2 | Unit Dose 30 (NDC 0085-0819-30) Institutional Package 30 (NDC 0085-0819-35) |
 
-Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Do not refrigerate.

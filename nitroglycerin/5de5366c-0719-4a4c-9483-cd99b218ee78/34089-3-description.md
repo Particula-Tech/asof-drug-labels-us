@@ -5,7 +5,7 @@ Nitroglycerin is 1,2,3-propanetriol trinitrate, an organic nitrate whose structu
 and whose molecular weight is 227.09.
 The organic nitrates are vasodilators, active on both arteries and veins.
 
-The NITRO-DUR (nitroglycerin) Transdermal Infusion System is a flat unit designed to provide continuous controlled release of nitroglycerin through intact skin.
+The NITRO-DUR® (nitroglycerin) Transdermal Infusion System is a flat unit designed to provide continuous controlled release of nitroglycerin through intact skin.
 The rate of release of nitroglycerin is linearly dependent upon the area of the applied system; each cm2 of applied system delivers approximately 0.02 mg of nitroglycerin per hour.
 Thus, the 5-, 10-, 15-, 20-, 30-, and 40-cm2 systems deliver approximately 0.1, 0.2, 0.3, 0.4, 0.6, and 0.8 mg of nitroglycerin per hour, respectively.
 

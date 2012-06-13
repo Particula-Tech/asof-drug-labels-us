@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020145"
+  ],
   "inn": "nitroglycerin",
-  "labeler": "Key Pharmaceuticals, Inc.",
+  "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
     "0085-0819-30",
     "0085-0819-35",
@@ -16,7 +18,13 @@
     "0085-3330-30",
     "0085-3330-35"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "nitroglycerin",
+      "name": "NITRO-DUR"
+    }
+  ],
   "setid": "5de5366c-0719-4a4c-9483-cd99b218ee78",
   "source": "dailymed"
 }
