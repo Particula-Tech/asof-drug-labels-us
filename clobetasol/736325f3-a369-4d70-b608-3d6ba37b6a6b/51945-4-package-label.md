@@ -24,7 +24,7 @@ Rx only
 
 E. FOUGERA & CO.
 
-A division of Nycomed US Inc.
+A division of Fougera Pharmaceutical Inc.
 
 Melville, New York 11747
 
@@ -58,6 +58,6 @@ Rx only
 
 E. FOUGERA & CO.
 
-A division of Nycomed US Inc.
+A division of Fougera Pharmaceuticals Inc.
 
 Melville, New York 11747

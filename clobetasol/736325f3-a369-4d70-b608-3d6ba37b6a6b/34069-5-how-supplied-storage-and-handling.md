@@ -8,8 +8,10 @@ Store at controlled room temperature, 15°- 30°C (59°-86°F).
 Do not refrigerate.
 Do not use near an open flame.
 
-January 2008
+E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. MELVILLE, NEW YORK 11747
 
-E. FOUGERA & CO. A division of Nycomed US Inc. MELVILLE, NEW YORK 11747
+I2269D
 
-I2269C
+R12/11
+
+#244
