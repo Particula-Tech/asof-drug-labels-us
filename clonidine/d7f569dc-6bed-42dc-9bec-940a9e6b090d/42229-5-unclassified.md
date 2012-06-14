@@ -4,16 +4,15 @@ Prescribing Information
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Manufactured by: Boehringer Ingelheim Promeco S.A. de C.V., Mexico City, Mexico
+Manufactured by: Boehringer Ingelheim Promeco S.A. de C.V.
+Mexico City, Mexico
 
 Licensed from: Boehringer Ingelheim International GmbH
 
 Address medical inquiries to: (800) 542-6257 or (800) 459-9906 TTY.
 
-©Copyright Boehringer Ingelheim International GmbH 2010 ALL RIGHTS RESERVED
+Copyright 2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Printed in USA
+Revised: May 2012
 
-Rev: April 2010
-
-OT6000HD1310 090340066/US/7
+OT6000JF052012 090340066/8

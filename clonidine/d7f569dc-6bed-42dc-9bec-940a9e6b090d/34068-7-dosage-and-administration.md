@@ -19,5 +19,6 @@ Studies have indicated that 2.4 mg is the maximum effective daily dose, but dose
 
 ## Renal Impairment
 
-Dosage must be adjusted according to the degree of impairment, and patients should be carefully monitored.
+Patients with renal impairment may benefit from a lower initial dose.
+Patients should be carefully monitored.
 Since only a minimal amount of clonidine is removed during routine hemodialysis, there is no need to give supplemental clonidine following dialysis.
