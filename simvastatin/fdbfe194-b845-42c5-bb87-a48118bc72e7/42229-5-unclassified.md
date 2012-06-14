@@ -2,6 +2,6 @@ Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whiteh
 
 By: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
 
-Revised: 02/2012
+Revised: 06/2012
 
-9992858
+USPI-T-07331206R059
