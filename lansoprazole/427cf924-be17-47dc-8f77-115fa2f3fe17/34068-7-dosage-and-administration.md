@@ -15,11 +15,11 @@ In the clinical trials, antacids were used concomitantly with lansoprazole.
 | Maintenance of Healed | 15 mg | Once daily |
 | H. pylori Eradication to Reduce the Risk of Duodenal Ulcer RecurrencePlease refer to amoxicillin and clarithromycin full prescribing information for CONTRAINDICATIONS and WARNINGS, and for information regarding dosing in elderly and renally-impaired patients. |  |  |
 | Triple Therapy: |  |  |
-| Lansoprazole Delayed- Release Capsules USP | 30 mg | Twice daily (q12h) for 10 or 14 days |
+| Lansoprazole Delayed-Release Capsules USP | 30 mg | Twice daily (q12h) for 10 or 14 days |
 | Amoxicillin | 1 gram | Twice daily (q12h) for 10 or 14 days |
 | Clarithromycin | 500 mg | Twice daily (q12h) for 10 or 14 days |
 | Dual Therapy: |  |  |
-| Lansoprazole Delayed- Release Capsules USP | 30 mg | Three times daily (q8h) for 14 days |
+| Lansoprazole Delayed-Release Capsules USP | 30 mg | Three times daily (q8h) for 14 days |
 | Amoxicillin | 1 gram | Three times daily (q8h) for 14 days |
 | Benign Gastric Ulcer |  |  |
 | Short-Term Treatment | 30 mg | Once daily for up to 8 weeks |
@@ -54,7 +54,7 @@ However, consider dose adjustment in patients with severe liver impairment [see 
 
 Administration Options
 
-### Lansoprazole Delayed-Release Capsules USP - Oral Administration
+Lansoprazole Delayed-Release Capsules USP - Oral Administration
 
 - Lansoprazole delayed-release capsules USP should be swallowed whole.
 - Alternatively, for patients who have difficulty swallowing capsules, lansoprazole delayed-release capsules USP can be opened and administered as follows:
@@ -68,7 +68,7 @@ Administration Options
   - Swallow immediately.
   - To ensure complete delivery of the dose, the glass should be rinsed with two or more volumes of juice and the contents swallowed immediately.
 
-### Lansoprazole Delayed-Release Capsules USP - Nasogastric Tube (≥ 16 French) Administration
+Lansoprazole Delayed-Release Capsules USP - Nasogastric Tube (≥ 16 French) Administration
 
 - For patients who have a nasogastric tube in place, lansoprazole delayed-release capsules USP can be administered as follows:
   - Open capsule.

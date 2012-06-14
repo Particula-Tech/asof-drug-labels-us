@@ -24,11 +24,16 @@ Concomitant administration of lansoprazole and tacrolimus may increase whole blo
 A minor increase (10%) in the clearance of theophylline was observed following the administration of lansoprazole concomitantly with theophylline.
 Although the magnitude of the effect on theophylline clearance is small, individual patients may require additional titration of their theophylline dosage when lansoprazole is started or stopped to ensure clinically effective blood levels [see Clinical Pharmacology (12.3)].
 
-For information on drug interactions for amoxicillin or clarithromycin, refer to their full prescribing information, DRUG INTERACTIONS sections.
-
 ## 7.5 Clopidogrel
 
 Concomitant administration of lansoprazole and clopidogrel in healthy subjects had no clinically important effect on exposure to the active metabolite of clopidogrel or clopidogrel-induced platelet inhibition [see Clinical Pharmacology (12.3)].
 No dose adjustment of clopidogrel is necessary when administered with an approved dose of lansoprazole.
+
+## 7.6 Methotrexate
+
+Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
+However, no formal drug interaction studies of high dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.4)].
+
+In a study of rheumatoid arthritis patients receiving low-dose methotrexate, lansoprazole and naproxen, no effect on pharmacokinetics of methotrexate was observed [see Clinical Pharmacology (12.3)].
 
 For information on drug interactions for amoxicillin or clarithromycin, refer to their full prescribing information, DRUG INTERACTIONS sections.

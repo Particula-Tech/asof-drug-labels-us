@@ -45,13 +45,13 @@ Table 5: Mean Antisecretory Effects After 5 Days of Twice Daily and Three Times 
 The inhibition of gastric acid secretion as measured by intragastric pH gradually returned to normal over two to four days after multiple doses.
 There was no indication of rebound gastric acidity.
 
-### Enterochromaffin-like (ECL) Cell Effects
+Enterochromaffin-like (ECL) Cell Effects
 
 During lifetime exposure of rats with up to 150 mg/kg/day of lansoprazole dosed seven days per week, marked hypergastrinemia was observed followed by ECL cell proliferation and formation of carcinoid tumors, especially in female rats.
 Gastric biopsy specimens from the body of the stomach from approximately 150 patients treated continuously with lansoprazole for at least one year did not show evidence of ECL cell effects similar to those seen in rat studies.
 Longer term data are needed to rule out the possibility of an increased risk of the development of gastric tumors in patients receiving long-term therapy with lansoprazole [see Nonclinical Toxicology (13.1)].
 
-### Other Gastric Effects in Humans
+Other Gastric Effects in Humans
 
 Lansoprazole did not significantly affect mucosal blood flow in the fundus of the stomach.
 Due to the normal physiologic effect caused by the inhibition of gastric acid secretion, a decrease of about 17% in blood flow in the antrum, pylorus, and duodenal bulb was seen.
@@ -60,12 +60,12 @@ Lansoprazole increased serum pepsinogen levels and decreased pepsin activity und
 As with other agents that elevate intragastric pH, increases in gastric pH were associated with increases in nitrate-reducing bacteria and elevation of nitrite concentration in gastric juice in patients with gastric ulcer.
 No significant increase in nitrosamine concentrations was observed.
 
-### Serum Gastrin Effects
+Serum Gastrin Effects
 
 In over 2100 patients, median fasting serum gastrin levels increased 50% to 100% from baseline but remained within normal range after treatment with 15 to 60 mg of oral lansoprazole.
 These elevations reached a plateau within two months of therapy and returned to pretreatment levels within four weeks after discontinuation of therapy.
 
-### Endocrine Effects
+Endocrine Effects
 
 Human studies for up to one year have not detected any clinically significant effects on the endocrine system.
 Hormones studied include testosterone, luteinizing hormone (LH), follicle stimulating hormone (FSH), sex hormone binding globulin (SHBG), dehydroepiandrosterone sulfate (DHEA-S), prolactin, cortisol, estradiol, insulin, aldosterone, parathormone, glucagon, thyroid stimulating hormone (TSH), triiodothyronine (T3), thyroxine (T4), and somatotropic hormone (STH).
@@ -73,7 +73,7 @@ Lansoprazole in oral doses of 15 to 60 mg for up to one year had no clinically s
 In addition, lansoprazole in oral doses of 15 to 60 mg for two to eight weeks had no clinically significant effect on thyroid function.
 In 24 month carcinogenicity studies in Sprague-Dawley rats with daily lansoprazole dosages up to 150 mg/kg, proliferative changes in the Leydig cells of the testes, including benign neoplasm, were increased compared to control rats.
 
-### Other Effects
+Other Effects
 
 No systemic effects of lansoprazole on the central nervous system, lymphoid, hematopoietic, renal, hepatic, cardiovascular, or respiratory systems have been found in humans.
 Among 56 patients who had extensive baseline eye evaluations, no visual toxicity was observed after lansoprazole treatment (up to 180 mg/day) for up to 58 months.
@@ -95,7 +95,8 @@ Table 6: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological
 
 | Clarithromycin Pretreatment Results |  | Clarithromycin Post-treatment Results |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  | H. pylori negative - eradicated | H. pylori positive – not eradicated Post-treatment susceptibility results |  |  |  |
+|  |  | H. pylori negative - eradicated | H. pylori positive – not eradicated |  |  |  |
+| Post-treatment susceptibility results |  |  |  |  |  |  |
 | SSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL | I | R | No MIC |  |  |  |
 | Triple Therapy 14 Day (lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily) (M95-399, M93-131, M95-392) |  |  |  |  |  |  |
 | Susceptible | 112 | 105 |  |  |  | 7 |
@@ -108,7 +109,7 @@ Table 6: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological
 
 Patients not eradicated of H. pylori following lansoprazole/amoxicillin/clarithromycin triple therapy will likely have clarithromycin resistant H. pylori.
 Therefore, for those patients who fail therapy, clarithromycin susceptibility testing should be done when possible.
-Patients with clarithromycin resistant H.pylori should not be treated with lansoprazole/amoxicillin/clarithromycin triple therapy or with regimens which include clarithromycin as the sole antimicrobial agent.
+Patients with clarithromycin resistant H. pylori should not be treated with lansoprazole/amoxicillin/clarithromycin triple therapy or with regimens which include clarithromycin as the sole antimicrobial agent.
 
 Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes: In the dual and triple therapy clinical trials, 82.6% (195/236) of the patients that had pretreatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori.
 Of those with pretreatment amoxicillin MICs of greater than 0.25 mcg/mL, three of six had the H. pylori eradicated.
@@ -170,9 +171,9 @@ Elimination: Following single-dose oral administration of lansoprazole, virtuall
 In one study, after a single oral dose of 14C-lansoprazole, approximately one-third of the administered radiation was excreted in the urine and two-thirds was recovered in the feces.
 This implies a significant biliary excretion of the lansoprazole metabolites.
 
-## Specific Populations
+Specific Populations
 
-### Pediatric Use:
+Pediatric Use:
 
 One to 17 years of age
 
@@ -182,6 +183,10 @@ Mean Cmax and AUC values observed on Day 5 of dosing were similar between the tw
 In adolescent subjects aged 12 to 17 years, subjects were randomized to receive lansoprazole at 15 mg or 30 mg daily.
 Mean Cmax and AUC values of lansoprazole were not affected by body weight or age; and nearly dose-proportional increases in mean Cmax and AUC values were observed between the two dose groups in the study.
 Overall, lansoprazole pharmacokinetics in pediatric patients aged 1 to 17 years were similar to those observed in healthy adult subjects.
+
+Neonate to less than one year of age
+
+Refer to Section 8.4 for the pharmacokinetics of lansoprazole in pediatric patients with GERD aged less than 28 days and 1 to 11 months.
 
 Geriatric Use: The clearance of lansoprazole is decreased in the elderly, with elimination half-life increased approximately 50% to 100%.
 Because the mean half-life in the elderly remains between 1.9 to 2.9 hours, repeated once daily dosing does not result in accumulation of lansoprazole.
@@ -199,7 +204,7 @@ Consider dose reduction in patients with severe hepatic impairment [see Use in S
 
 Gender: In a study comparing 12 male and 6 female human subjects who received lansoprazole, no gender differences were found in pharmacokinetics and intragastric pH results [see Use in Specific Populations (8.8)].
 
-## Drug-Drug Interactions
+Drug-Drug Interactions
 
 Lansoprazole may interfere with the absorption of other drugs where gastric pH is an important determinant of bioavailability (e.g., ketoconazole, ampicillin esters, iron salts, digoxin).
 
@@ -222,6 +227,8 @@ Patients treated with proton pump inhibitors and warfarin concomitantly may need
 
 Methotrexate and 7-hydromethotrexate: In an open-label, single-arm, eight-day, pharmacokinetic study of 28 adult rheumatoid arthritis patients (who required the chronic use of 7.5 to 15 mg of methotrexate given weekly), administration of 7 days of naproxen 500 mg twice daily and lansoprazole 30 mg daily had no effect on the pharmacokinetics of methotrexate and 7-hydroxymethotrexate.
 While this study was not designed to assess the safety of this combination of drugs, no major adverse reactions were noted.
+However, this study was conducted with low doses of methotrexate.
+A drug interaction study with high doses of methotrexate has not been conducted.
 
 Amoxicillin: Lansoprazole has also been shown to have no clinically significant interaction with amoxicillin.
 

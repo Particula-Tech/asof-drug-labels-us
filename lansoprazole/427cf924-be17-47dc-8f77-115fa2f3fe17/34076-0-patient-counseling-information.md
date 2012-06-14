@@ -16,7 +16,7 @@ Directions for use specific to the route and available methods of administration
 
 Administration Options
 
-Lansoprazole Delayed-Release Capsules- Oral Administration
+Lansoprazole Delayed-Release Capsules - Oral Administration
 
 - Lansoprazole delayed-release capsules should be swallowed whole.
 - Alternatively, for patients who have difficulty swallowing capsules, lansoprazole delayed-release capsules can be opened and administered as follows:
@@ -41,7 +41,7 @@ Lansoprazole Delayed-Release Capsules – Nasogastric Tube (≥ 16 French) Admin
 
 USE IN OTHER FOODS AND LIQUIDS HAS NOT BEEN STUDIED CLINICALLY AND IS THEREFORE NOT RECOMMENDED.
 
-ENSURE® is a registered trademark of Abbott Laboratories.
+All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
 Manufactured In Israel By:
 
@@ -57,4 +57,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-H 11/2011
+I 4/2012

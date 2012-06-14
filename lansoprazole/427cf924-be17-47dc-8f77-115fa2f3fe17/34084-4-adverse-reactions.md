@@ -11,8 +11,10 @@ The following adverse reactions were reported by the treating physician to have 
 
 Table 1: Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-Term, Placebo-Controlled Lansoprazole Studies
 
-| Body System/Adverse Event | Lansoprazole (N = 2768) % | Placebo (N = 1023) % |
+| Body System/Adverse Event | Lansoprazole | Placebo |
 | --- | --- | --- |
+| (N = 2768) | (N = 1023) |  |
+| % | % |  |
 | Body as a Whole |  |  |
 | Abdominal Pain | 2.1 | 1.2 |
 | Digestive System |  |  |
@@ -34,13 +36,13 @@ Additional adverse experiences occurring in less than 1% of patients or subjects
 
 Body as a Whole - abdomen enlarged, allergic reaction, asthenia, back pain, candidiasis, carcinoma, chest pain (not otherwise specified), chills, edema, fever, flu syndrome, halitosis, infection (not otherwise specified), malaise, neck pain, neck rigidity, pain, pelvic pain
 
-Cardiovascular System- angina, arrhythmia, bradycardia, cerebrovascular accident/cerebral infarction, hypertension/hypotension, migraine, myocardial infarction, palpitations, shock (circulatory failure), syncope, tachycardia, vasodilation
+Cardiovascular System - angina, arrhythmia, bradycardia, cerebrovascular accident/cerebral infarction, hypertension/hypotension, migraine, myocardial infarction, palpitations, shock (circulatory failure), syncope, tachycardia, vasodilation
 
 Digestive System - abnormal stools, anorexia, bezoar, cardiospasm, cholelithiasis, colitis, dry mouth, dyspepsia, dysphagia, enteritis, eructation, esophageal stenosis, esophageal ulcer, esophagitis, fecal discoloration, flatulence, gastric nodules/fundic gland polyps, gastritis, gastroenteritis, gastrointestinal anomaly, gastrointestinal disorder, gastrointestinal hemorrhage, glossitis, gum hemorrhage, hematemesis, increased appetite, increased salivation, melena, mouth ulceration, nausea and vomiting, nausea and vomiting and diarrhea, gastrointestinal moniliasis, rectal disorder, rectal hemorrhage, stomatitis, tenesmus, thirst, tongue disorder, ulcerative colitis, ulcerative stomatitis
 
 Endocrine System - diabetes mellitus, goiter, hypothyroidism
 
-Hemic andLymphatic System - anemia, hemolysis, lymphadenopathy
+Hemic and Lymphatic System - anemia, hemolysis, lymphadenopathy
 
 Metabolism and Nutritional Disorders - avitaminosis, gout, dehydration, hyperglycemia/hypoglycemia, peripheral edema, weight gain/loss
 
@@ -63,7 +65,7 @@ The majority of these cases are foreign-sourced and a relationship to lansoprazo
 Because these reactions were reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events are listed below by COSTART body system.
 
-Body as a Whole - anaphylactic/anaphylactoid reactions; Digestive System - hepatotoxicity, pancreatitis, vomiting; Hemic and Lymphatic System - agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura; Metabolism and Nutritional Disorders – hypomagnesemia; Musculoskeletal System- bone fracture, myositis; Skin and Appendages - severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal); Special Senses - speech disorder; Urogenital System - interstitial nephritis, urinary retention.
+Body as a Whole - anaphylactic/anaphylactoid reactions; Digestive System - hepatotoxicity, pancreatitis, vomiting; Hemic and Lymphatic System - agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura; Metabolism and Nutritional Disorders - hypomagnesemia; Musculoskeletal System - bone fracture, myositis; Skin and Appendages - severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal); Special Senses - speech disorder; Urogenital System - interstitial nephritis, urinary retention.
 
 ## 6.3 Combination Therapy With Amoxicillin and Clarithromycin
 

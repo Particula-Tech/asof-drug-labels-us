@@ -2,9 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
+### Teratogenic Effects
 
-Pregnancy category B
+#### Pregnancy category B
 
 Reproduction studies have been performed in pregnant rats at oral doses up to 40 times the recommended human dose and in pregnant rabbits at oral doses up to 16 times the recommended human dose and have revealed no evidence of impaired fertility or harm to the fetus due to lansoprazole.
 There are, however, no adequate or well-controlled studies in pregnant women.
@@ -20,7 +20,26 @@ Because many drugs are excreted in human milk, because of the potential for seri
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of lansoprazole have been established in pediatric patients 1 to 17 years of age for short-term treatment of symptomatic GERD and erosive esophagitis.
+The safety and effectiveness of lansoprazole have been established in pediatric patients 1 to 17 years of age for short-term treatment of symptomatic GERD and erosive esophagitis, however, lansoprazole was not effective in patients with symptomatic GERD 1 month to less than 1 year of age in a multicenter, double-blind, placebo controlled study.
+
+Neonate to less than 1 year of age
+
+The pharmacokinetics of lansoprazole were studied in pediatric patients with GERD aged less than 28 days and 1 to 11 months.
+Compared to healthy adults receiving 30 mg, neonates had higher exposure (mean weight-based normalized AUC values 2.04 and 1.88 fold higher at doses of 0.5 mg/kg/day and 1 mg/kg/day, respectively).
+Infants aged ≤ 10 weeks had clearance and exposure values that were similar to neonates.
+Infants aged greater than 10 weeks who received 1 mg/kg/day had mean AUC values that were similar to adults who received a 30 mg dose.
+
+Lansoprazole was not found to be effective in a U.S. and Polish 4 week multicenter, double-blind, placebo-controlled, parallel-group study of 162 patients between one month and less than 12 months of age with symptomatic GERD based on a medical history of crying/fussing/irritability associated with feedings who had not responded to conservative GERD management (i.e., non-pharmacologic intervention) for 7 to 14 days.
+Patients received lansoprazole as a suspension daily (0.2 to 0.3 mg/kg/day in infants ≤ 10 weeks of age or 1.0 to 1.5 mg/kg/day in infants greater than 10 weeks or placebo) for up to 4 weeks of double-blind treatment.
+
+The primary efficacy endpoint was assessed by greater than 50% reduction from baseline in either the percent of feedings with a crying/fussing/irritability episode or the duration (minutes) of a crying/fussing/irritability episode within one hour after feeding.
+
+There was no difference in the percentage of responders between the lansoprazole pediatric suspension group and placebo group (54% in both groups).
+
+There were no adverse events reported in pediatric clinical studies (1 month to less than 12 months of age) that were not previously observed in adults.
+
+Based on the results of the Phase 3 efficacy study, lansoprazole was not shown to be effective.
+Therefore, these results do not support the use of lansoprazole in treating symptomatic GERD in infants.
 
 One to 11 years of age
 

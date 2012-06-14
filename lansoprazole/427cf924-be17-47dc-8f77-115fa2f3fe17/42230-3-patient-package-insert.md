@@ -1,3 +1,5 @@
+# PATIENT INFORMATION
+
 FDA-Approved Patient Labeling
 
 Patient Information
@@ -77,6 +79,7 @@ Especially tell your doctor if you take:
 - warfarin (Coumadin®, Jantoven®)
 - tacrolimus (Prograf®)
 - theophylline (Theo-24®, Elixophyllin, Theochron, Theolair™)
+- methotrexate
 
 Ask your doctor or pharmacist if you are not sure if your medicine is listed above.
 
@@ -147,13 +150,13 @@ Tell your doctor if you have any side effect that bothers you or that does not g
 
 These are not all the possible side effects of lansoprazole delayed-release capsules USP.
 For more information, ask your doctor or pharmacist.
-
 Call your doctor for medical advice about side effects.
+
 You may report side effects to the FDA at 1-800-FDA-1088.
 
 How should I store lansoprazole delayed-release capsules USP?
 
-- Store lansoprazole delayed-release capsules USP at room temperature between 20º to 25ºC (68º to 77ºF).
+- Store lansoprazole delayed-release capsules USP at room temperature between 20° to 25°C (68° to 77°F).
 
 Keep lansoprazole delayed-release capsules USP and all medicines out of the reach of children.
 
@@ -196,9 +199,9 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-B 8/2011
+C 4/2012
 
-## Patient Instructions for Use
+PATIENT INSTRUCTIONS FOR USE
 
 Lansoprazole Delayed-Release Capsules USP
 
@@ -242,7 +245,7 @@ Lansoprazole delayed-release capsules USP should not be used in foods or liquids
 
 How should I store lansoprazole delayed-release capsules USP?
 
-- Store lansoprazole delayed-release capsules USP at room temperature between 20º to 25ºC (68º to 77ºF).
+- Store lansoprazole delayed-release capsules USP at room temperature between 20° to 25°C (68° to 77°F).
 
 Keep lansoprazole delayed-release capsules USP and all medicines out of the reach of children.
 
