@@ -169,6 +169,12 @@ Signs and symptoms associated with more severe and/or acute cases have included 
 There have been rare reports of altered platelet function and/or abnormal results from laboratory studies in patients taking sertraline hydrochloride.
 While there have been reports of abnormal bleeding or purpura in several patients taking sertraline hydrochloride, it is unclear whether sertraline hydrochloride had a causative role.
 
+## Angle-Closure Glaucoma
+
+SSRIs including sertraline may have an effect on pupil size resulting in mydriasis.
+This mydriatic effect has the potential to narrow the eye angle resulting in increased intraocular pressure and angle-closure glaucoma, especially in patients pre-disposed.
+Sertraline should therefore be used with caution in patients with angle-closure glaucoma or history of glaucoma.
+
 ## Information for Patients
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with sertraline hydrochloride and should counsel them in its appropriate use.
@@ -212,12 +218,6 @@ The dose should be taken immediately after mixing.
 Do not mix in advance.
 At times, a slight haze may appear after mixing; this is normal.
 Note that caution should be exercised for persons with latex sensitivity, as the dropper dispenser contains dry natural rubber.
-
-## Angle-Closure Glaucoma
-
-SSRIs including sertraline may have an effect on pupil size resulting in mydriasis.
-This mydriatic effect has the potential to narrow the eye angle resulting in increased intraocular pressure and angle-closure glaucoma, especially in patients pre-disposed.
-Sertraline should therefore be used with caution in patients with angle-closure glaucoma or history of glaucoma.
 
 ## Laboratory Tests
 
@@ -390,15 +390,13 @@ Reported clinical findings have included respiratory distress, cyanosis, apnea, 
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS).
 
-Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
-PPHN occurs in 1 – 2 per 1,000 births in the general population and is associated with neonatal morbidity and mortality.
-Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including DRUG) in pregnancy and PPHN.
-Other studies do not show a significant statistical association.
-Neonates exposed to an SSRI in utero may benefit from careful monitoring for signs of respiratory distress over the first 72 hours after delivery.
-PPHN is an uncommon event, and the possible risk of such an event occurring in association with SSRI use needs to be carefully weighed against the potential benefits of treating depression with an antidepressant during pregnancy and the risks of not treating it.
-This decision can only be made on a case by case basis.
+Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
+PPHN occurs in 1–2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
+In a retrospective case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately sixfold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
+There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
+The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
 
-When treating a pregnant woman with sertraline hydrochloride during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
+When treating a pregnant woman with Sertraline hydrochloride during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
 Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic in the context of antidepressant therapy at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
 
 ## Labor and Delivery
@@ -458,10 +456,3 @@ In 354 geriatric subjects treated with sertraline hydrochloride in placebo-contr
 Urinary tract infection was the only adverse event not appearing in Tables 2 and 3 and reported at an incidence of at least 2% and at a rate greater than placebo in placebo-controlled trials.
 
 SSRIS and SNRIs, including sertraline hydrochloride, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia).
-
-### Diabetes/Loss of Glycemic Control
-
-Cases of new onset diabetes mellitus have been reported in patients receiving SSRIs including ZOLOFT.
-Loss of glycemic control including both hyperglycemia and hypoglycemia has also been reported in patients with and without pre-existing diabetes.
-Patients should therefore be monitored for signs and symptoms of glucose fluctuations.
-Diabetic patients especially should have their glycemic control carefully monitored since their dosage of insulin and/or concomitant oral hypoglycemic drug may need to be adjusted.

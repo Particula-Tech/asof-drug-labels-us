@@ -261,7 +261,7 @@ This Medication Guide summarizes the most important information about SERTRALINE
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about SERTRALINE HYDROCHLORIDE that is written for healthcare professionals.
 
-For more information about SERTRALINE HYDROCHLORIDE call 1-800-438-1985.
+For more information about sertraline hydrochloride call 1 800 438 1985 or go to www.greenstonellc.com
 
 What are the ingredients in SERTRALINE HYDROCHLORIDE?
 
@@ -274,6 +274,6 @@ Inactive ingredients
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-LAB-0541-2.0
+LAB-0541-3.0
 
-January 2012
+August 2011
