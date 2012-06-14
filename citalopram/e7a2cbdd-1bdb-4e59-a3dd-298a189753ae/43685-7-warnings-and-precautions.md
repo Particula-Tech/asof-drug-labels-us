@@ -12,7 +12,7 @@ The pooled analyses of placebo-controlled trials in adults with MDD or other psy
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1 .
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1
 
 TABLE 1
 
@@ -33,27 +33,41 @@ All patients being treated with antidepressants for any indication should be mon
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION—Discontinuation of Treatment with Citalopram , for a description of the risks of discontinuation of citalopram).
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION—Discontinuation of Treatment with Citalopram Hydrobromide Oral Solution , for a description of the risks of discontinuation of citalopram).
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for citalopram should be written for the smallest quantity consistent with good patient management, in order to reduce the risk of overdose.
 
-## Screening Patients for Bipolar Disorder
+## QT-Prolongation and Torsade de Pointes
 
-A major depressive episode may be the initial presentation of bipolar disorder.
+Citalopram causes dose-dependent QTc prolongation, an ECG abnormality that has been associated with Torsade de Pointes (TdP), ventricular tachycardia, and sudden death, all of which have been observed in postmarketing reports for citalopram.
+Individually corrected QTc (QTcNi) interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple-dose study in 119 healthy subjects.
+The maximum mean (upper bound of the 95% one-sided confidence interval) difference from placebo were 8.5 (10.8) and 18.5 (21) msec for 20 mg and 60 mg citalopram, respectively.
+Based on the established exposure-response relationship, the predicted QTcNi change from placebo (upper bound of the 95% one-sided confidence interval) under the C max for the dose of 40 mg is 12.6 (14.3) msec.
+Because of the risk of QTc prolongation at higher citalopram doses, it is recommended that citalopram should not be given at doses above 40 mg/day.
+It is recommended that citalopram should not be used in patients with congenital long QT syndrome, bradycardia, hypokalemia or hypomagnesemia, recent acute myocardial infarction, or uncompensated heart failure.
+Citalopram should also not be used in patients who are taking other drugs that prolong the QTc interval.
+Such drugs include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic medications, antipsychotic medications (e.g., chlorpromazine, thioridazine), antibiotics (e.g., gatifloxacin, moxifloxacin), or any other class of medications known to prolong the QTc interval (e.g., pentamidine, levomethadyl acetate, methadone).
+The citalopram dose should be limited in certain populations.
+The maximum dose should be limited to 20 mg/day in patients who are CYP2C19 poor metabolizers or those patients who may be taking concomitant cimetidine or another CYP2C19 inhibitor, since higher citalopram exposures would be expected.
+The maximum dose should also be limited to 20 mg/day in patients with hepatic impairment and in patients who are greater than 60 years of age because of expected higher exposures.
+Electrolyte and/or ECG monitoring is recommended in certain circumstances.
+Patients being considered for citalopram treatment who are at risk for significant electrolyte disturbances should have baseline serum potassium and magnesium measurements with periodic monitoring.
+Hypokalemia (and/or hypomagnesemia) may increase the risk of QTc prolongation and arrhythmia, and should be corrected prior to initiation of treatment and periodically monitored.
+ECG monitoring is recommended in patients for whom citalopram use is not recommended (see above), but, nevertheless, considered essential.
+These include those patients with the cardiac conditions noted above, and those taking other drugs that may prolong the QTc interval.
+Citalopram should be discontinued in patients who are found to have persistent QTc measurements >500 ms. If patients taking citalopram experience symptoms that could indicate the occurrence of cardiac arrhythmias, e.g., dizziness, palpitations, or syncope, the prescriber should initiate further evaluation, including cardiac monitoring.
+Screening Patients for Bipolar Disorder A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that citalopram is not approved for use in treating bipolar depression.
-
-## Potential for Interaction with Monoamine Oxidase Inhibitors
-
-In patients receiving serotonin reuptake inhibitor drugs in combination with a monoamine oxidase inhibitor (MAOI), there have been reports of serious, sometimes fatal, reactions including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
+Potential for Interaction with Monoamine Oxidase Inhibitors In patients receiving serotonin reuptake inhibitor drugs in combination with a monoamine oxidase inhibitor (MAOI), there have been reports of serious, sometimes fatal, reactions including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
 These reactions have also been reported in patients who have recently discontinued SSRI treatment and have been started on an MAOI.
 Some cases presented with features resembling neuroleptic malignant syndrome.
 Furthermore, limited animal data on the effects of combined use of SSRIs and MAOIs suggest that these drugs may act synergistically to elevate blood pressure and evoke behavioral excitation.
 Therefore, it is recommended that citalopram should not be used in combination with an MAOI, or within 14 days of discontinuing treatment with an MAOI.
-Similarly, at least 14 days should be allowed after stopping citalopram hydrobromide tablets before starting an MAOI.
+Similarly, at least 14 days should be allowed after stopping citalopram before starting an MAOI.
 
 ## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
@@ -70,18 +84,13 @@ Treatment with citalopram and any concomitant serotonergic or antidopaminergic a
 
 ## General
 
-### Discontinuation of Treatment with Citalopram
-
-During marketing of citalopram and other SSRIs and SNRIs (serotonin and norepinephrine reuptake inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following:dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
+Discontinuation of Treatment with Citalopram During marketing of citalopram and other SSRIs and SNRIs (serotonin and norepinephrine reuptake inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following:dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
 While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
 Patients should be monitored for these symptoms when discontinuing treatment with citalopram.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate (see DOSAGE AND ADMINISTRATION ).
-
-### Abnormal Bleeding
-
-SSRIs and SNRIs, including citalopram, may increase the risk of bleeding events.
+Abnormal Bleeding SSRIs and SNRIs, including citalopram, may increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to the risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
@@ -97,32 +106,18 @@ Also, patients taking diuretics or who are otherwise volume depleted may be at g
 Discontinuation of citalopram should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
-
-### Activation of Mania/Hypomania
-
-In placebo-controlled trials of citalopram, some of which included patients with bipolar disorder, activation of mania/hypomania was reported in 0.2% of 1063 patients treated with citalopram and in none of the 446 patients treated with placebo.
+Activation of Mania/Hypomania In placebo-controlled trials of citalopram, some of which included patients with bipolar disorder, activation of mania/hypomania was reported in 0.2% of 1063 patients treated with citalopram and in none of the 446 patients treated with placebo.
 Activation of mania/hypomania has also been reported in a small proportion of patients with major affective disorders treated with other marketed antidepressants.
 As with all antidepressants, citalopram should be used cautiously in patients with a history of mania.
-
-### Seizures
-
-Although anticonvulsant effects of citalopram have been observed in animal studies, citalopram has not been systematically evaluated in patients with a seizure disorder.
+Seizures Although anticonvulsant effects of citalopram have been observed in animal studies, citalopram has not been systematically evaluated in patients with a seizure disorder.
 These patients were excluded from clinical studies during the product’s premarketing testing.
 In clinical trials of citalopram, seizures occurred in 0.3% of patients treated with citalopram (a rate of one patient per 98 years of exposure) and 0.5% of patients treated with placebo (a rate of one patient per 50 years of exposure).
 Like other antidepressants, citalopram should be introduced with care in patients with a history of seizure disorder.
-
-### Interference with Cognitive and Motor Performance
-
-In studies in normal volunteers, citalopram in doses of 40 mg/day did not produce impairment of intellectual function or psychomotor performance.
+Interference with Cognitive and Motor Performance In studies in normal volunteers, citalopram in doses of 40 mg/day did not produce impairment of intellectual function or psychomotor performance.
 Because any psychoactive drug may impair judgment, thinking, or motor skills, however, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that citalopram therapy does not affect their ability to engage in such activities.
-
-### Use in Patients with Concomitant Illness
-
-Clinical experience with citalopram in patients with certain concomitant systemic illnesses is limited.
-Caution is advisable in using citalopram in patients with diseases or conditions that produce altered metabolism or hemodynamic responses.
-Citalopram has not been systematically evaluated in patients with a recent history of myocardial infarction or unstable heart disease.
-Patients with these diagnoses were generally excluded from clinical studies during the product’s premarketing testing.
-However, the electrocardiograms of 1116 patients who received citalopram in clinical trials were evaluated and the data indicate that citalopram is not associated with the development of clinically significant ECG abnormalities.
+Use in Patients with Concomitant Illness Clinical experience with citalopram in patients with certain concomitant systemic illnesses is limited.
+Due to the risk of QT prolongation, citalopram use should be avoided in patients with certain cardiac conditions, and ECG monitoring is advised if citalopram must be used in such patients.
+Electrolytes should be monitored in treating patients with diseases or conditions that cause hypokalemia or hypomagnesemia (see WARNIN GS ).
 In subjects with hepatic impairment, citalopram clearance was decreased and plasma concentrations were increased.
 The use of citalopram in hepatically impaired patients should be approached with caution and a lower maximum dosage is recommended (see DOSAGE AND ADMINISTRATION ).
 Because citalopram is extensively metabolized, excretion of unchanged drug in urine is a minor route of elimination.
@@ -159,10 +154,10 @@ There are no specific laboratory tests recommended.
 
 ## Drug Interactions
 
-Serotonergic Drugs Based on the mechanism of action of SNRIs and SSRIs including citalopram and the potential for serotonin syndrome, caution is advised when citalopram is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John’s Wort (see WARNINGS-Serotonin Syndrome ).
+Serotonergic Drugs Based on the mechanism of action of SNRIs and SSRIs including citalopram, and the potential for serotonin syndrome, caution is advised when citalopram is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John’s Wort (see WARNINGS - Serotonin Syndrome ).
 The concomitant use of citalopram with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS - Drug Interactions ).
 Triptans There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
-If concomitant treatment of citalopram with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS-Serotonin Syndrome ).
+If concomitant treatment of citalopram with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS - Serotonin Syndrome ).
 CNS Drugs - Given the primary CNS effects of citalopram, caution should be used when it is taken in combination with other centrally acting drugs.
 Alcohol - Although citalopram did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by depressed patients taking citalopram is not recommended.
 Monoamine Oxidase Inhibitors (MAOIs) - See CONTRAINDICATIONS and WARNINGS .
@@ -171,12 +166,12 @@ Epidemiological studies of the case-control and cohort design that have demonstr
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.
 Patients receiving warfarin therapy should be carefully monitored when citalopram is initiated or discontinued.
 Cimetidine - In subjects who had received 21 days of 40 mg/day citalopram, combined administration of 400 mg/day cimetidine for 8 days resulted in an increase in citalopram AUC and C max of 43% and 39%, respectively.
-The clinical significance of these findings is unknown.
+Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant cimetidine because of the risk of QT prolongation (see WARNINGS and DOSAGE AND ADMINISTRATION ).
 Digoxin - In subjects who had received 21 days of 40 mg/day citalopram, combined administration of citalopram and digoxin (single dose of 1 mg) did not significantly affect the pharmacokinetics of either citalopram or digoxin.
 Lithium - Coadministration of citalopram (40 mg/day for 10 days) and lithium (30 mmol/day for 5 days) had no significant effect on the pharmacokinetics of citalopram or lithium.
 Nevertheless, plasma lithium levels should be monitored with appropriate adjustment to the lithium dose in accordance with standard clinical practice.
 Because lithium may enhance the serotonergic effects of citalopram, caution should be exercised when citalopram and lithium are coadministered.
-Pimozide - In a controlled study, a single dose of pimozide 2 mg co-administered with citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone.
+Pimozide - In a controlled study, a single dose of pimozide 2 mg coadministered with citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone.
 Citalopram did not alter the mean AUC or C max of pimozide.
 The mechanism of this pharmacodynamic interaction is not known.
 Theophylline - Combined administration of citalopram (40 mg/day for 21 days) and the CYP1A2 substrate theophylline (single dose of 300 mg) did not affect the pharmacokinetics of theophylline.
@@ -188,10 +183,8 @@ Prothrombin time was increased by 5%, the clinical significance of which is unkn
 Carbamazepine - Combined administration of citalopram (40 mg/day for 14 days) and carbamazepine (titrated to 400 mg/day for 35 days) did not significantly affect the pharmacokinetics of carbamazepine, a CYP3A4 substrate.
 Although trough citalopram plasma levels were unaffected, given the enzyme-inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of citalopram should be considered if the two drugs are coadministered.
 Triazolam - Combined administration of citalopram (titrated to 40 mg/day for 28 days) and the CYP3A4 substrate triazolam (single dose of 0.25 mg) did not significantly affect the pharmacokinetics of either citalopram or triazolam.
-Ketoconazole - Combined administration of citalopram (40 mg) and ketoconazole(200 mg) decreased the C max and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.
-CYP3A4 and 2C19 Inhibitors - In vitro studies indicated that CYP3A4 and 2C19 are the primary enzymes involved in the metabolism of citalopram.
-However, coadministration of citalopram (40 mg) and ketoconazole (200 mg), a potent inhibitor of CYP3A4, did not significantly affect the pharmacokinetics of citalopram.
-Because citalopram is metabolized by multiple enzyme systems, inhibition of a single enzyme may not appreciably decrease citalopram clearance.
+Ketoconazole - Combined administration of citalopram (40 mg) and ketoconazole (200 mg) decreased the C max and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.
+CYP2C19 Inhibitors - Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant CYP2C19 inhibitors because of the risk of QT prolongation (see WARNINGS, DOSAGE AND ADMINISTRATION, and CLINICAL PHARMACOLOGY ) .
 Metoprolol - Administration of 40 mg/day citalopram for 22 days resulted in a two-fold increase in the plasma levels of the beta-adrenergic blocker metoprolol.
 Increased metoprolol plasma levels have been associated with decreased cardioselectivity.
 Coadministration of citalopram and metoprolol had no clinically significant effects on blood pressure or heart rate.
@@ -204,24 +197,16 @@ Electroconvulsive Therapy (ECT) - There are no clinical studies of the combined 
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-### Carcinogenesis
-
-Citalopram was administered in the diet to NMRI/BOM strain mice and COBS WI strain rats for 18 and 24 months, respectively.
+Carcinogenesis Citalopram was administered in the diet to NMRI/BOM strain mice and COBS WI strain rats for 18 and 24 months, respectively.
 There was no evidence for carcinogenicity of citalopram in mice receiving up to 240 mg/kg/day, which is equivalent to 20 times the maximum recommended human daily dose (MRHD) of 60 mg on a surface area (mg/m 2 ) basis.
 There was an increased incidence of small intestine carcinoma in rats receiving 8 or 24 mg/kg/day, doses which are approximately 1.3 and 4 times the MRHD, respectively, on a mg/m 2 basis.
 A no-effect dose for this finding was not established.
 The relevance of these findings to humans is unknown.
-
-### Mutagenesis
-
-Citalopram was mutagenic in the in vitro bacterial reverse mutation assay (Ames test) in 2 of 5 bacterial strains (Salmonella TA98 and TA1537) in the absence of metabolic activation.
+Mutagenesis Citalopram was mutagenic in the in vitro bacterial reverse mutation assay (Ames test) in 2 of 5 bacterial strains (Salmonella TA98 and TA1537) in the absence of metabolic activation.
 It was clastogenic in the in vitro Chinese hamster lung cell assay for chromosomal aberrations in the presence and absence of metabolic activation.
 Citalopram was not mutagenic in the in vitro mammalian forward gene mutation assay (HPRT) in mouse lymphoma cells or in a coupled in vitro/in vivo unscheduled DNA synthesis (UDS) assay in rat liver.
 It was not clastogenic in the in vitro chromosomal aberration assay in human lymphocytes or in two in vivo mouse micronucleus assays.
-
-### Impairment of Fertility
-
-When citalopram was administered orally to 16 male and 24 female rats prior to and throughout mating and gestation at doses of 32, 48, and 72 mg/kg/day, mating was decreased at all doses, and fertility was decreased at doses ≥ 32 mg/kg/day, approximately 5 times the MRHD of 60 mg/day on a body surface area (mg/m 2 ) basis.
+Impairment of Fertility When citalopram was administered orally to 16 male and 24 female rats prior to and throughout mating and gestation at doses of 32, 48, and 72 mg/kg/day, mating was decreased at all doses, and fertility was decreased at doses ≥ 32 mg/kg/day, approximately 5 times the MRHD of 60 mg/day on a body surface area (mg/m 2 ) basis.
 Gestation duration was increased at 48 mg/kg/day, approximately 8 times the MRHD.
 
 ## Pregnancy
@@ -265,9 +250,11 @@ The decision whether to continue or discontinue either nursing or citalopram the
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS – Clinical Worsening and Suicide Risk ).
+Safety and effectiveness in the pediatric population have not been established (see BOXED WARNING and WARNINGS–Clinical Worsening and Suicide Risk ).
 Two placebo-controlled trials in 407 pediatric patients with MDD have been conducted with citalopram, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of citalopram in a child or adolescent must balance the potential risks with the clinical need.
+Decreased appetite and weight loss have been observed in association with the use of SSRIs.
+Consequently, regular monitoring of weight and growth should be performed in children and adolescents treated with citalopram.
 
 ## Geriatric Use
 
@@ -275,5 +262,5 @@ Of 4422 patients in clinical studies of citalopram, 1357 were 60 and over, 1034 
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 Most elderly patients treated with citalopram in clinical trials received daily doses between 20 and 40 mg (see DOSAGE AND ADMINISTRATION ).
 SSRIs and SNRIs, including citalopram, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia ).
-In two pharmacokinetic studies, citalopram AUC was increased by 23% and 30%, respectively, in elderly subjects as compared to younger subjects, and its half-life was increased by 30% and 50%, respectively (see CLINICAL PHARMACOLOGY ).
-20 mg/day is the recommended dose for most elderly patients (see DOSAGE AND ADMINISTRATION ).
+In two pharmacokinetic studies, citalopram AUC was increased by 23% and 30%, respectively, in subjects ≥ 60 years of age as compared to younger subjects, and its half-life was increased by 30% and 50%, respectively (see CLINICAL PHARMACOLOGY ).
+20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see WARNINGS and DOSAGE AND ADMINISTRATION ).
