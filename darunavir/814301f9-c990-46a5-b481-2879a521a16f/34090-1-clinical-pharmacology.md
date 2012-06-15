@@ -154,7 +154,7 @@ Table 12: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Pre
 | Rilpivirine | 150 mg q.d. | 800/100 mg q.d. | 15 | ↔ | 0.90 (0.81–1.00) | 0.89 (0.81–0.99) | 0.89 (0.68–1.16) |
 | Tenofovir Disoproxil Fumarate | 300 mg q.d. | 300/100 mg b.i.d. | 12 | ↑ | 1.16 (0.94–1.42) | 1.21 (0.95–1.54) | 1.24 (0.90–1.69) |
 | Co-Administration With HCV NS3-4A Protease Inhibitors |  |  |  |  |  |  |  |
-| Boceprevir | 800 mg three times daily | 600/100 mg b.i.d. | 11 | ↓ | 0.64 (0.58–0.71) | 0.56 (0.51–0.61) | 0.41 (0.38–0.45) |
+| BoceprevirAUC is AUC(0-last); N = 10 for Cmin in the reference arm | 800 mg three times daily | 600/100 mg b.i.d. | 11 | ↓ | 0.64 (0.58–0.71) | 0.56 (0.51–0.61) | 0.41 (0.38–0.45) |
 | Telaprevir | 750 mg every 8 hours 1125 mg every 12 hours | 600/100 mg b.i.d. 600/100 mg b.i.d. | 11N = 14 for Cmax 15 | ↓ ↓ | 0.60 (0.56–0.64) 0.53 (0.47–0.59) | 0.60 (0.57–0.63) 0.49 (0.43–0.55) | 0.58 (0.52–0.64) 0.42 (0.35–0.51) |
 | Co-Administration With Other Drugs |  |  |  |  |  |  |  |
 | Carbamazepine | 200 mg b.i.d. | 600/100 mg b.i.d. | 16 | ↔ | 1.04 (0.93–1.16) | 0.99 (0.90–1.08) | 0.85 (0.73–1.00) |
@@ -191,7 +191,7 @@ Table 13: Drug Interactions: Pharmacokinetic Parameters for Co-administered Drug
 | Maraviroc | 150 mg b.i.d. | 600/100 mg b.i.d. | 12 | ↑ | 2.29 (1.46–3.59) | 4.05 (2.94–5.59) | 8.00 (6.35–10.1) |
 | Maraviroc | 150 mg b.i.d. | 600/100 mg b.i.d. with 200 mg b.i.d. etravirine | 10 | ↑ | 1.77 (1.20–2.60) | 3.10 (2.57–3.74) | 5.27 (4.51–6.15) |
 | Co-Administration With HCV NS3-4A Protease Inhibitors |  |  |  |  |  |  |  |
-| Boceprevir | 800 mg three times daily | 600/100 mg b.i.d. | 11 | ↓ | 0.75 (0.67–0.85) | 0.68 (0.65–0.72) | 0.65 (0.56–0.76) |
+| Boceprevir | 800 mg three times daily | 600/100 mg b.i.d. | 12N = 11 for the test arm | ↓ | 0.75 (0.67–0.85) | 0.68 (0.65–0.72) | 0.65 (0.56–0.76) |
 | Telaprevir | 750 mg every 8 hours | 600/100 mg b.i.d. | 11N = 14 for Cmax | ↓ | 0.64 (0.61–0.67) | 0.65 (0.61–0.69) | 0.68 (0.63–0.74) |
 | Co-Administration With Other Drugs |  |  |  |  |  |  |  |
 | Atorvastatin | 40 mg q.d. when administered alone | 300/100 mg b.i.d. | 15 | ↑ | 0.56 (0.48–0.67) | 0.85 (0.76–0.97) | 1.81 (1.37–2.40) |
