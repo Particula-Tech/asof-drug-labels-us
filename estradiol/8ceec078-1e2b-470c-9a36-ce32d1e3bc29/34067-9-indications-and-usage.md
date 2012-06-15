@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Divigel® (estradiol gel) 0.1% is indicated in the treatment of moderate to severe vasomotor symptoms associated with menopause.
+## 1.1 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause

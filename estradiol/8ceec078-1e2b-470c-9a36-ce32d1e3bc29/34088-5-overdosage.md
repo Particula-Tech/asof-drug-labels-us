@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Serious ill effects have not been reported following acute ingestion of large doses of estrogen-containing drug products by young children.
-Overdosage of estrogen may cause nausea and vomiting, and withdrawal bleeding may occur in females.
+Overdosage of estrogen may cause nausea and vomiting, breast tenderness, abdominal pain, drowsiness and fatigue, and withdrawal bleeding may occur in women.
+Treatment of overdose consists of discontinuation of Divigel therapy with institution of appropriate symptomatic care.
