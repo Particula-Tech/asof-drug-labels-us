@@ -1,12 +1,20 @@
-# PRINCIPAL DISPLAY PANEL - 60 Metered Spray Carton Label
+# PRINCIPAL DISPLAY PANEL - 4.9 g Spray Bottle Carton
 
 Nitrolingual® Pumpspray
 
 (nitroglycerin lingual spray)
 
-400 mcg per spray 60 Metered Sprays 4.9 g NET CONTENTS
+400 mcg per spray
 
-DO NOT SHAKE HOLD CONTAINER UPRIGHT PRIME BEFORE USE
+60 Metered Sprays
+
+4.9 g NET CONTENTS
+
+DO NOT SHAKE
+
+HOLD CONTAINER UPRIGHT
+
+PRIME BEFORE USE
 
 NDC 24338-300-65
 

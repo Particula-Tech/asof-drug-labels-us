@@ -10,7 +10,6 @@ The use of any form of nitroglycerin during the early days of acute myocardial i
 Severe hypotension, particularly with upright posture, may occur even with small doses of nitroglycerin.
 The drug, therefore, should be used with caution in subjects who may have volume depletion from diuretic therapy or in patients who have low systolic blood pressure (e.g., below 90 mm Hg).
 Paradoxical bradycardia and increased angina pectoris may accompany nitroglycerin-induced hypotension.
-
 Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy.
 
 Tolerance to this drug and cross-tolerance to other nitrates and nitrites may occur.
@@ -33,6 +32,7 @@ Therefore, any other agents that depend on vascular smooth muscle as the final c
 
 Marked symptomatic orthostatic hypotension has been reported when calcium channel blockers and oral controlled-release nitroglycerin were used in combination.
 Dose adjustments of either class of agents may be necessary.
+
 Concomitant use of nitric oxide donors (like Nitrolingual® Pumpspray) and certain drugs for the treatment of erectile dysfunction (phosphodiesterase inhibitors) can amplify their vasodilatory effects, resulting in severe hypotension.
 
 The concomitant use of these drugs is contraindicated (see CONTRAINDICATIONS) and alternative therapies should be used to treat acute angina episodes.

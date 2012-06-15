@@ -22,8 +22,8 @@ Cardiac index may be increased, decreased, or unchanged.
 Patients with elevated left ventricular filling pressure and systemic vascular resistance values in conjunction with a depressed cardiac index are likely to experience an improvement in cardiac index.
 On the other hand, when filling pressures and cardiac index are normal, cardiac index may be slightly reduced.
 
-In a pharmacokinetic study when a single 0.8 mg dose of Nitrolingual® Pumpspray was administered to healthy volunteers (n = 24), the mean Cmax and tmax were 1,041pg/mL ∙ min and 7.5 minutes, respectively.
-Additionally, in these subjects the mean area-under-the-curve (AUC) was 12,769 pg/mL ∙ min.
+In a pharmacokinetic study when a single 0.8 mg dose of Nitrolingual® Pumpspray was administered to healthy volunteers (n = 24), the mean Cmax and tmax were 1,041pg/mL • min and 7.5 minutes, respectively.
+Additionally, in these subjects the mean area-under-the-curve (AUC) was 12,769 pg/mL • min.
 
 In a randomized, double-blind single-dose, 5-period cross-over study in 51 patients with exertional angina pectoris significant dose-related increases in exercise tolerance, time to onset of angina and ST-segment depression were seen following doses of 0.2, 0.4, 0.8 and 1.6 mg of nitroglycerin delivered by metered pumpspray as compared to placebo.
 

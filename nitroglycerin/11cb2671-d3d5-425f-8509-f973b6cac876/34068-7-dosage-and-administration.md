@@ -2,6 +2,7 @@
 
 At the onset of an attack, one or two metered sprays should be administered onto or under the tongue.
 No more than three metered sprays are recommended within a 15-minute period.
+If the chest pain persists, prompt medical attention is recommended.
 Nitrolingual® Pumpspray may be used prophylactically five to ten minutes prior to engaging in activities which might precipitate an acute attack.
 
 Each metered spray of Nitrolingual® Pumpspray delivers 48 mg of solution containing 400 mcg of nitroglycerin after an initial priming of 5 sprays.

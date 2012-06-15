@@ -11,5 +11,6 @@ Drug rash and/or exfoliative dermatitis have been reported in patients receiving
 Nausea and vomiting appear to be uncommon.
 
 Nitrolingual® Pumpspray given to 51 chronic stable angina patients in single doses of 0.4, 0.8 and 1.6 mg as part of a double-blind, 5-period single-dose cross-over study exhibited an adverse event profile that was generally mild to moderate.
+
 Adverse events occurring at a frequency greater than 2% included: headache, dizziness, and paresthesia.
 Less frequently reported events in this trial included (≤2%): dyspnea, pharyngitis, rhinitis, vasodilation, peripheral edema, asthenia, and abdominal pain.
