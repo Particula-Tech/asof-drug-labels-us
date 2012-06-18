@@ -20,11 +20,12 @@ Across all studies, Avastin was discontinued in 8.4 to 21% of patients because o
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data below reflect exposure to Avastin in 3795 patients with CRC, non‑squamous NSCLC, MBC, glioblastoma, or mRCC trials including controlled (Studies 1, 2, 4, and 7) or uncontrolled, single arm (Study 5) treated at the recommended dose and schedule for a median of 8 to 23 doses of Avastin.
+The data below reflect exposure to Avastin in 4198 patients with CRC, non‑squamous NSCLC, glioblastoma, or mRCC trials including controlled (Studies 1, 2, 4, and 7) or uncontrolled, single arm (Study 5) treated at the recommended dose and schedule for a median of 8 to 23 doses of Avastin.
 [See Clinical Studies (14).]
-Data also reflect exposure to Avastin in 363 patients with metastatic breast cancer (MBC) who received a median of 9.5 doses of Avastin, an indication for which Avastin is not approved.
-The population was aged 18–88 years (median 59), 43.2% male and 85.3% white.
-The population included 1783 first‑ and second‑line mCRC patients who received a median of 10 doses of Avastin, 669 female adjuvant CRC patients who received a median of 23 doses of Avastin, 480 first‑line metastatic NSCLC patients who received a median of 8 doses of Avastin, 163 glioblastoma patients who received a median of 9 doses of Avastin, and 337 mRCC patients who received a median of 16 doses of Avastin.
+The population was aged 18–88 years (median 60 years), 43.6% male and 83.8% white.
+The population included 1783 first‑ and second‑line mCRC patients who received a median of 10 doses of Avastin, 480 first‑line metastatic NSCLC patients who received a median of 8 doses of Avastin, 163 glioblastoma patients who received a median of 9 doses of Avastin, and 337 mRCC patients who received a median of 16 doses of Avastin.
+These data also reflect exposure to Avastin in 363 patients with metastatic breast cancer (MBC) who received a median of 9.5 doses of Avastin, 669 female adjuvant CRC patients who received a median of 23 doses of Avastin and exposure to Avastin in 403 previously untreated patients with diffuse large B‑cell lymphoma (DLBCL) who received a median of 8 doses of Avastin.
+Avastin is not approved for use in MBC, adjuvant CRC, or DLBCL.
 
 Surgery and Wound Healing Complications
 
@@ -76,12 +77,17 @@ Median time to resolution was 6.1 months (95% CI 2.8 months, 11.3 months).
 Proteinuria did not resolve in 40% of patients after median follow up of 11.2 months and required permanent discontinuation of Avastin in 30% of the patients who developed proteinuria (Study 7).
 [See Warnings and Precautions (5.8).]
 
-Congestive Heart Failure
+Congestive Heart Failure (CHF)
 
 The incidence of Grade ≥ 3 left ventricular dysfunction was 1.0% in patients receiving Avastin compared to 0.6% in the control arm across indications.
-In patients with metastatic breast cancer MBC, an indication for which Avastin is not approved, the incidence of Grade 3–4 congestive heart failure (CHF) was increased in patients in the Avastin plus paclitaxel arm (2.2 %) as compared to the control arm (0.3%).
+In patients with metastatic breast cancer (MBC), an indication for which Avastin is not approved, the incidence of Grade 3–4 CHF was increased in patients in the Avastin plus paclitaxel arm (2.2 %) as compared to the control arm (0.3%).
 Among patients receiving prior anthracyclines for MBC, the rate of CHF was 3.8% for patients receiving Avastin as compared to 0.6 % for patients receiving paclitaxel alone.
 The safety of continuation or resumption of Avastin in patients with cardiac dysfunction has not been studied.
+
+In previously untreated patients with diffuse large B‑cell lymphoma (DLBCL), an indication for which Avastin is not approved, the incidence of CHF and decline in left-ventricular ejection fraction (LVEF) were signficantly increased in the Avastin plus R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone) arm (n=403) compared to the placebo plus R-CHOP arm (n=379); both regimens were given for 6 to 8 cycles.
+At the completion of R-CHOP therapy, the incidence of CHF was 10.9% in the Avastin plus R-CHOP arm compared to 5.0% in the R-CHOP alone arm [relative risk (95% CI) of 2.2 (1.3, 3.7)].
+The incidence of a LVEF event, defined as a decline from baseline of 20% or more in LVEF or a decline from baseline of 10% or more to a LVEF value of less than 50%, was also increased in the Avastin plus R-CHOP arm (10.4%) compared to the R-CHOP alone arm (5.0%).
+Time to onset of left-ventricular dysfunction or CHF was 1-6 months after initiation of therapy in at least 85% of the patients and was resolved in 62% of the patients experiencing CHF in the Avastin arm compared to 82% in the control arm.
 
 Ovarian Failure
 
@@ -100,7 +106,7 @@ Avastin was administered at 5 mg/kg every 2 weeks.
 All Grade 3–4 adverse events and selected Grade 1–2 adverse events (hypertension, proteinuria, thromboembolic events) were collected in the entire study population.
 Severe and life‑threatening (Grade 3–4) adverse events, which occurred at a higher incidence (≥ 2%) in patients receiving bolus‑IFL plus Avastin as compared to bolus‑IFL plus placebo, are presented in Table 1.
 
-Table 1: NCI‑CTC Grade 3–4 Adverse Events in Study 1 (Occurring at Higher Incidence [≥ 2%] in Avastin vs. Control)
+Table 1: NCI‑CTC Grade 3–4 Adverse Events in Study 1 (Occurring at Higher Incidence [≥ 2%] Avastin vs. Control)
 
 |  | Arm 1 IFL + Placebo (n = 396) | Arm 2 IFL + Avastin (n = 392) |
 | --- | --- | --- |
@@ -249,6 +255,8 @@ Eye disorders (from unapproved intravitreal use for treatment of various ocular 
 Gastrointestinal: Gastrointestinal ulcer, Intestinal necrosis, Anastomotic ulceration
 
 Hemic and lymphatic: Pancytopenia
+
+Hepatobiliary disorders: Gallbladder perforation
 
 Musculoskeletal: Osteonecrosis of the jaw
 
