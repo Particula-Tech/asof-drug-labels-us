@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA125409"
+  ],
+  "inn": "pertuzumab",
+  "labeler": "Genentech, Inc.",
+  "package_ndcs": [
+    "50242-145-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "pertuzumab",
+      "name": "PERJETA"
+    }
+  ],
+  "setid": "17f85d17-ab71-4f5b-9fe3-0b8c822f69ff",
+  "source": "dailymed"
+}

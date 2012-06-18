@@ -1,0 +1,3 @@
+# 7 DRUG INTERACTIONS
+
+No drug-drug interactions were observed between pertuzumab and trastuzumab, or between pertuzumab and docetaxel.
