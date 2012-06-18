@@ -23,4 +23,4 @@ Drugs & Aging.
 Manufactured by UPSHER-SMITH LABORATORIES, INC. Minneapolis, MN 55447
 
 102770-02 Rev.
-0112
+0512
