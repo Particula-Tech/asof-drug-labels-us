@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Focalin XR is an extended-release formulation of dexmethylphenidate with a bi-modal release profile.
-Focalin XR uses the proprietary SODAS (Spheroidal Oral Drug Absorption System) technology.
+Focalin XR uses the proprietary SODAS® (Spheroidal Oral Drug Absorption System) technology.
 Each bead-filled Focalin XR capsule contains half the dose as immediate-release beads and half as enteric-coated, delayed-release beads, thus providing an immediate release of dexmethylphenidate and a second delayed release of dexmethylphenidate.
 Focalin XR is available as 5, 10, 15, 20, 25, 30, 35, and 40 mg extended-release capsules.
 Focalin XR 5, 10, 15, 20, 25, 30, 35, and 40 mg extended-release capsules provide in a single dose the same amount of dexmethylphenidate as dosages of 2.5, 5, 7.5, 10, 12.5, 15, 17.5, or 20 mg of Focalin given b.i.d. as tablets.

@@ -135,7 +135,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Focalin XR is a trademark of Novartis AG
 
-SODAS® is a registered trademark of Alkermes Gainesville LLC
+SODAS® is a registered trademark of Alkermes Pharma Ireland Limited
 
 This product is covered by US patents including 5,837,284, 5,908,850, 6,228,398, 6,355,656, and 6,635,284.
 
@@ -151,4 +151,4 @@ Gainesville, GA 30504
 
 © Novartis
 
-T2012-114/T2012-115 May 2012/May 2012
+T2012-119/T2012-120 June 2012/June 2012
