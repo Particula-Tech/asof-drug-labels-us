@@ -1,6 +1,6 @@
-PRINCIPAL DISPLAY PANEL - 174 mg Tablet Bottle Label
+PRINCIPAL DISPLAY PANEL - 174 mg Bottle Label
 
-NDC 0024-5810-30 RX ONLY
+NDC 0024-5810-30 Rx ONLY
 
 ONCE DAILY Aplenzin® (bupropion hydrobromide) Extended-Release Tablets
 
@@ -12,11 +12,11 @@ Federal Law requires dispensing of Aplenzin with the Medication Guide attached t
 
 30 Tablets
 
-sanofi aventis
+SANOFI
 
-PRINCIPAL DISPLAY PANEL - 348 mg Tablet Bottle Label
+PRINCIPAL DISPLAY PANEL - 348 mg Bottle Label
 
-NDC 0024-5811-30 RX ONLY
+NDC 0024-5811-30 Rx ONLY
 
 ONCE DAILY Aplenzin® (bupropion hydrobromide) Extended-Release Tablets
 
@@ -28,11 +28,11 @@ Federal Law requires dispensing of Aplenzin with the Medication Guide attached t
 
 30 Tablets
 
-sanofi aventis
+SANOFI
 
-PRINCIPAL DISPLAY PANEL - 522 mg Tablet Bottle Label
+PRINCIPAL DISPLAY PANEL - 522 mg Bottle Label
 
-NDC 0024-5812-30 RX ONLY
+NDC 0024-5812-30 Rx ONLY
 
 ONCE DAILY Aplenzin® (bupropion hydrobromide) Extended-Release Tablets
 
@@ -44,4 +44,4 @@ Federal Law requires dispensing of Aplenzin with the Medication Guide attached t
 
 30 Tablets
 
-sanofi aventis
+SANOFI

@@ -221,17 +221,19 @@ The tablets are printed with edible black ink.
 
 The following are registered trademarks of their respective manufacturers: WELLBUTRIN®/GlaxoSmithKline; WELLBUTRIN XL®/GlaxoSmithKline; ZYBAN®/GlaxoSmithKline; KALETRA®/Abbott Laboratories
 
-Revised: 06/2011
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Rx only
 
-Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, MB Canada R5G 1Z7
+Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
 
-Manufactured for: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 Made in Canada
+Manufactured for: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
+
+©2012 sanofi-aventis U.S. LLC Origin Canada
 
 Rev.
 06/2011
+
+LB0060-02 50099232
 
 Aplenzin® is a registered trademark of sanofi-aventis U.S. LLC
