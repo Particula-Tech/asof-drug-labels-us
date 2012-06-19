@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091294"
+  ],
+  "inn": "abacavir",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-4105-91"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "abacavir sulfate",
+      "name": "Abacavir Sulfate"
+    }
+  ],
+  "setid": "5676d391-f9a4-44be-9604-954b3d8d0e2b",
+  "source": "dailymed"
+}
