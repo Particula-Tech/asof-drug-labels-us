@@ -136,4 +136,4 @@ Manufactured for Novartis Pharmaceuticals Corporation East Hanover, New Jersey 0
 
 © Novartis
 
-T2012-117/T2012-118 May 2012/May 2012
+T2012-121/T2012-122 June 2012/June 2012

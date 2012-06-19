@@ -23,6 +23,6 @@ Dispense in tight container (USP).
 
 Ritalin LA® is a trademark of Novartis AG.
 
-SODAS® is a registered trademark of Alkermes Gainesville LLC.
+SODAS® is a registered trademark of Alkermes Pharma Ireland Limited.
 
 This product is covered by US patents including US 5,837,284 and 6,228,398.
