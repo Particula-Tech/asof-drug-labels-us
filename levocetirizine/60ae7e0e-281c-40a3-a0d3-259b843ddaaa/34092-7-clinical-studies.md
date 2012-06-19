@@ -26,7 +26,7 @@ Table 6: Mean Reflective Pruritus Severity Score in Chronic Idiopathic Urticaria
 
 | Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | Estimate | 95% Cl | p-value |
+|  |  |  |  | Estimate | 95% CI | p-value |
 | Dose-Ranging Trial-Reflective pruritus severity score |  |  |  |  |  |  |
 | Levocetirizine dihydrochloride 2.5 mg | 69 | 2.08 | 1.02 | 0.82 | (0.58, 1.06) | < 0.001 |
 | Levocetirizine dihydrochloride 5 mg | 62 | 2.07 | 0.92 | 0.91 | (0.66, 1.16) | < 0.001 |
@@ -38,4 +38,4 @@ Table 6: Mean Reflective Pruritus Severity Score in Chronic Idiopathic Urticaria
 
 ### Pediatric Patients
 
-There are no clinical trials in pediatric patients with chronic idiopathic urticaria [see Use in Specific Populations (8.4)].
+There are no clinical efficacy trials in pediatric patients with chronic idiopathic urticaria [see Use in Specific Populations (8.4)].

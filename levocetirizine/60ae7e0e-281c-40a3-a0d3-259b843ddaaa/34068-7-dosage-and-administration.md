@@ -1,7 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 Levocetirizine dihydrochloride is available as 5 mg breakable (scored) tablets, allowing for the administration of 2.5 mg, if needed.
-Levocetirizine dihydrochloride tablets can be taken without regard to food consumption.
+Levocetirizine dihydrochloride can be taken without regard to food consumption.
 
 ## 2.1 Adults and Children 12 Years of Age and Older
 
@@ -10,7 +10,7 @@ Some patients may be adequately controlled by 2.5 mg (1/2 tablet) once daily in 
 
 ## 2.2 Children 6 to 11 Years of Age
 
-The recommended dose of levocetirizine dihydrochloride is 2.5 mg (1/2 tablet) once daily in the evening.
+The recommended dose of levocetirizine dihydrochloride tablets is 2.5 mg (1/2 tablet) once daily in the evening.
 The 2.5 mg dose should not be exceeded because the systemic exposure with 5 mg is approximately twice that of adults [see Clinical Pharmacology (12.3)].
 
 ## 2.3 Children 6 months to 5 Years of Age

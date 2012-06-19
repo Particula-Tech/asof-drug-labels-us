@@ -26,13 +26,13 @@ Levocetirizine exhibited linear pharmacokinetics over the therapeutic dose range
 ### Absorption
 
 Levocetirizine is rapidly and extensively absorbed following oral administration.
-In adults, peak plasma concentrations are achieved 0.9 hour after adminstration of the oral tablet.
+In adults, peak plasma concentrations are achieved 0.9 hour after administration of the oral tablet.
 The accumulation ratio following daily oral administration is 1.12 with steady state achieved after 2 days.
 Peak concentrations are typically 270 ng/mL and 308 ng/mL following a single and a repeated 5 mg once daily dose, respectively.
 Food had no effect on the extent of exposure (AUC) of the levocetirizine tablet, but Tmax was delayed by about 1.25 hours and Cmax was decreased by about 36% after administration with a high fat meal; therefore, levocetirizine can be administered with or without food.
 
 A dose of 5 mg (10 mL) of levocetirizine dihydrochloride oral solution is bioequivalent to a 5 mg dose of levocetirizine dihydrochloride tablets.
-Following oral admistration of a 5 mg dose of levocetirizine dihydrochloride oral solution to healthy adult subjects, the mean peak plasma concentrations were achieved approximately 0.5 hour post-dose.
+Following oral administration of a 5 mg dose of levocetirizine dihydrochloride oral solution to healthy adult subjects, the mean peak plasma concentrations were achieved approximately 0.5 hour post-dose.
 
 ### Distribution
 
@@ -70,12 +70,12 @@ The mean Cmax was 450 ng/mL, occurring at a mean time of 1.2 hours, weight-norma
 Dedicated pharmacokinetic studies have not been conducted in pediatric patients younger than 6 years of age.
 
 Pharmacokinetic information in pediatric patients (age 1 to 5 years) is approved for UCB Inc.'s levocetirizine dihydrochloride drug product labeling.
-However,due to UCB Inc.'s marketing exclusivity rights; this drug product is not labeled for such use in those pediatric patients..
+However,due to UCB Inc.'s marketing exclusivity rights; this drug product is not labeled for such use in those pediatric patients.
 
 ### Geriatric Patients
 
 Limited pharmacokinetic data are available in elderly subjects.
-Following once daily repeat oral administration of 30 mg levocetinzine for 6 days in 9 elderly subjects (65-74 years of age), the total body clearance was approximately 33% lower compared to that in younger adults.
+Following once daily repeat oral administration of 30 mg levocetirizine for 6 days in 9 elderly subjects (65-74 years of age), the total body clearance was approximately 33% lower compared to that in younger adults.
 The disposition of racemic cetirizine has been shown to be dependent on renal function rather than on age.
 This finding would also be applicable for levocetirizine, as levocetirizine and cetirizine are both predominantly excreted in urine.
 Therefore, the levocetirizine dihydrochloride dose should be adjusted in accordance with renal function in elderly patients [see Dosage and Administration (2)].
@@ -95,7 +95,7 @@ No race-related differences in the kinetics of racemic cetirizine have been obse
 ### Renal Impairment
 
 Levocetirizine exposure (AUC) exhibited 1.8-, 3.2-, 4.3-, and 5.7-fold increase in mild, moderate, severe, renal impaired, and end-stage renal disease patients, respectively, compared to healthy subjects.
-The corresponding increases of half-life estimates were 1.4-, 2.0-, 2.9-, and 4-fold, respectively
+The corresponding increases of half-life estimates were 1.4-, 2.0-, 2.9-, and 4-fold, respectively.
 
 The total body clearance of levocetirizine after oral dosing was correlated to the creatinine clearance and was progressively reduced based on severity of renal impairment.
 Therefore, it is recommended to adjust the dose and dosing intervals of levocetirizine based on creatinine clearance in patients with mild, moderate, or severe renal impairment.

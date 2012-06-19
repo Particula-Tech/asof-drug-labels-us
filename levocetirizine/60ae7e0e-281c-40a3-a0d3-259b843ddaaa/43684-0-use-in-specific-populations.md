@@ -27,10 +27,10 @@ The recommended dose of levocetirizine dihydrochloride in patients 6 to 11 years
 
 The safety of levocetirizine dihydrochloride 5 mg once daily was evaluated in 243 pediatric patients 6 to 12 years of age in two placebo-controlled clinical trials lasting 4 and 6 weeks [see Adverse Reactions (6.1)].
 
-The effectiveness of levocetirizine dihydrochloride 2.5 mg once daily (6 to 11 years of age) for the treatment of the symptoms of chronic idiopathic urticaria is supported by the extrapolation of demonstrated efficacy of levocetirizine dihydrochloride 5 mg once daily in patients 12 years of age and older and by the pharmacokinetic comparison between adults and children.
+The effectiveness of levocetirizine dihydrochloride 2.5 mg once daily (6 to 11 years of age) for the treatment of the symptoms of chronic idiopathic urticaria is supported by the extrapolation of demonstrated efficacy of levocetirizine dihydrochloride 5 mg once daily in patients 12 years of age and older based on the pharmacokinetic comparison between adults and children.
 
-Cross-study comparisons indicate that administration of a 5 mg dose of levocetirizine dihydrochloride to 6 - 12 year old pediatric patients resulted in about 2-fold the systemic exposure (AUC) observed when 5 mg of levocetirizine dihydrochloride was administered to healthy adults.
-Therefore, in children 6 to 11 years of age the recommended dose of 2.5 mg once daily should not be exceeded [see Dosage and Administration (2.2); Clinical Studies (14); Clinical Pharmacology (12.3)].
+Cross-study comparisons indicate that administration of a 5 mg dose of levocetirizine dihydrochloride to 6 to 12 year old pediatric patients resulted in about 2-fold the systemic exposure (AUC) observed when 5 mg of levocetirizine dihydrochloride was administered to healthy adults.
+Therefore, in children 6 to 11 years of age the recommended dose of 2.5 mg once daily should not be exceeded [see Dosage and Administration (2.2); Clinical Studies (14); and Clinical Pharmacology (12.3)].
 
 Pediatric use information in pediatric patients (age 6 months to 5 years) is approved for UCB Inc.'s levocetirizine dihydrochloride drug product labeling.
 However, due to UCB Inc.'s marketing exclusivity rights; this drug product is not labeled for such use in those pediatric patients.
