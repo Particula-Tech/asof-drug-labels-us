@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-CATAPRES-TTS is a transdermal system providing continuous systemic delivery of clonidine for 7 days at an approximately constant rate.
+CATAPRES-TTS® (clonidine) is a transdermal system providing continuous systemic delivery of clonidine for 7 days at an approximately constant rate.
 Clonidine is a centrally acting alpha-agonist hypotensive agent.
 It is an imidazoline derivative with the chemical name 2, 6-dichloro-N-2-imidazolidinylidenebenzenamine and has the following chemical structure:
 

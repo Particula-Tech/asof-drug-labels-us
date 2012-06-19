@@ -15,7 +15,6 @@ Ipecac syrup-induced vomiting and gastric lavage would not be expected to remove
 If the patch is ingested, whole bowel irrigation may be considered and the administration of activated charcoal and/or cathartic may be beneficial.
 Supportive care may include atropine sulfate for bradycardia, intravenous fluids and/or vasopressor agents for hypotension and vasodilators for hypertension.
 Naloxone may be a useful adjunct for the management of clonidine-induced respiratory depression, hypotension and/or coma; blood pressure should be monitored since the administration of naloxone has occasionally resulted in paradoxical hypertension.
-Tolazoline administration has yielded inconsistent results and is not recommended as first-line therapy.
 Dialysis is not likely to significantly enhance the elimination of clonidine.
 
 The largest overdose reported to date, involved a 28-year old male who ingested 100 mg of clonidine hydrochloride powder.

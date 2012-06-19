@@ -2,7 +2,7 @@
 
 ## Clinical trial experience with CATAPRES-TTS
 
-Most systemic adverse effects during Catapres-TTS® (clonidine) transdermal therapeutic system therapy have been mild and have tended to diminish with continued therapy.
+Most systemic adverse effects during Catapres-TTS transdermal therapeutic system therapy have been mild and have tended to diminish with continued therapy.
 In a 3-month multi-clinic trial of CATAPRES-TTS transdermal therapeutic system in 101 hypertensive patients, the systemic adverse reactions were, dry mouth (25 patients) and drowsiness (12), fatigue (6), headache (5), lethargy and sedation (3 each), insomnia, dizziness, impotence/sexual dysfunction, dry throat (2 each) and constipation, nausea, change in taste and nervousness (1 each).
 
 In the above mentioned 3-month controlled clinical trial, as well as other uncontrolled clinical trials, the most frequent adverse reactions were dermatological and are described below.
@@ -13,7 +13,7 @@ Other skin reactions were localized vesiculation (7 patients), hyperpigmentation
 
 In additional clinical experience, contact dermatitis resulting in treatment discontinuation was observed in 128 of 673 patients (about 19 in 100) after a mean duration of treatment of 37 weeks.
 The incidence of contact dermatitis was about 34 in 100 among white women, about 18 in 100 in white men, about 14 in 100 in black women, and approximately 8 in 100 in black men.
-Analysis of skin reaction data showed that the risk of having to discontinue CATAPRES-TTS transdermal therapeutic system treatment because of contact dermatitis was greatest between treatment weeks 6 and 26, although sensitivity may develop either earlier or later in treatment.
+Analysis of skin reaction data showed that the risk of having to discontinue CATAPRES-TTS® (clonidine) transdermal therapeutic system treatment because of contact dermatitis was greatest between treatment weeks 6 and 26, although sensitivity may develop either earlier or later in treatment.
 
 In a large-scale clinical acceptability and safety study by 451 physicians in a total of 3539 patients, other allergic reactions were recorded for which a causal relationship to CATAPRES-TTS transdermal therapeutic system was not established: maculopapular rash (10 cases); urticaria (2 cases); and angioedema of the face (2 cases), which also affected the tongue in one of the patients.
 
@@ -25,7 +25,7 @@ Decisions to include these reactions in labeling are typically based on one or m
 
 Body as a Whole: Fever; malaise; weakness; pallor; and withdrawal syndrome.
 
-Cardiovascular: Congestive heart failure; cerebrovascular accident; electrocardiographic abnormalities (i.e., bradycardia, sick sinus syndrome disturbances and arrhythmias); chest pain; orthostatic symptoms; syncope; increases in blood pressure; sinus bradycardia and atrioventricular (AV) block with and without the use of concomitant digitalis; Raynaud’s phenomenon; tachycardia; bradycardia; and palpitations.
+Cardiovascular: Congestive heart failure; cerebrovascular accident; electrocardiographic abnormalities (i.e., bradycardia, sick sinus syndrome disturbances and arrhythmias); chest pain; orthostatic symptoms; syncope; increases in blood pressure; sinus bradycardia and AV block with and without the use of concomitant digitalis; Raynaud’s phenomenon; tachycardia; bradycardia; and palpitations.
 
 Central and Peripheral Nervous System/Psychiatric: Delirium; mental depression; hallucinations (including visual and auditory); localized numbness; vivid dreams or nightmares; restlessness; anxiety; agitation; irritability; other behavioral changes; and drowsiness.
 
@@ -43,7 +43,7 @@ Ophthalmological: Blurred vision; burning of the eyes and dryness of the eyes.
 
 Adverse Events Associated with Oral CATAPRES Therapy: Most adverse effects are mild and tend to diminish with continued therapy.
 The most frequent (which appear to be dose-related) are dry mouth, occurring in about 40 of 100 patients; drowsiness, about 33 in 100; dizziness, about 16 in 100; constipation and sedation, each about 10 in 100.
-The following less frequent adverse experiences have also been reported in patients receiving CATAPRES (clonidine hydrochloride, USP) tablets, but in many cases patients were receiving concomitant medication and a causal relationship has not been established.
+The following less frequent adverse experiences have also been reported in patients receiving CATAPRES® (clonidine hydrochloride, USP) tablets, but in many cases patients were receiving concomitant medication and a causal relationship has not been established.
 
 Body as a Whole: Fatigue, fever, headache, pallor, weakness, and withdrawal syndrome.
 Also reported were a weakly positive Coombs’ test and increased sensitivity to alcohol.
