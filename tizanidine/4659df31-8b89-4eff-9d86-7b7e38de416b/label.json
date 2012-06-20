@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076416"
+  ],
   "inn": "tizanidine",
   "labeler": "CARACO PHARMACEUTICAL LABORATORIES, LTD.",
   "package_ndcs": [
@@ -14,7 +16,13 @@
     "57664-503-88",
     "57664-503-89"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "tizanidine",
+      "name": "tizanidine"
+    }
+  ],
   "setid": "4659df31-8b89-4eff-9d86-7b7e38de416b",
   "source": "dailymed"
 }

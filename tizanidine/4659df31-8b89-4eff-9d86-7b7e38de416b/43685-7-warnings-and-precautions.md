@@ -10,7 +10,7 @@ Because long-term clinical study experience at high doses is limited, only those
 ## HYPOTENSION
 
 Tizanidine is an α2-adrenergic agonist (like clonidine) and can produce hypotension.
-In a single dose study where blood pressure was monitored closely after dosing, twothirds of patients treated with 8 mg of tizanidine had a 20% reduction in either the diastolic or systolic BP.
+In a single dose study where blood pressure was monitored closely after dosing, two thirds of patients treated with 8 mg of tizanidine had a 20% reduction in either the diastolic or systolic BP.
 The reduction was seen within 1 hour after dosing, peaked 2 to 3 hours after dosing and was associated, at times, with bradycardia, orthostatic hypotension, lightheadedness/dizziness and rarely syncope.
 The hypotensive effect is dose related and has been measured following single doses of ≥2 mg.
 
@@ -76,7 +76,7 @@ Ciprofloxacin and tizanidine should not be used together (See CONTRAINDICATIONS 
 
 ## POSSIBLE INTERACTION WITH OTHER CYP1A2 INHIBITORS
 
-Because of potential drug interactions, concomitant use of tizanidine with other CYP1A2 inhibitors, such as zileuton, other fluoroquinolones, antiarrythmics (amiodarone mexiletine, propafenone, and verapamil), cimetidine, famotidine, oral contraceptives, acyclovir and ticlopidine (see CLINICAL PHARMACOLOGY: Drug Interactions) should ordinarily be avoided.
+Because of potential drug interactions, concomitant use of tizanidine with other CYP1A2 inhibitors, such as zileuton, other fluoroquinolones, antiarrythmics (amiodarone,mexiletine, propafenone, and verapamil), cimetidine, famotidine, oral contraceptives, acyclovir and ticlopidine (see CLINICAL PHARMACOLOGY: Drug Interactions) should ordinarily be avoided.
 If their use is clinically necessary, they should be used with caution.
 
 # PRECAUTIONS

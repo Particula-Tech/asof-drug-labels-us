@@ -14,6 +14,6 @@ Experience with single doses exceeding 8 mg and daily doses exceeding 24 mg is l
 There is essentially no experience with repeated, single, daytime doses greater than 12 mg or total daily doses greater than 36 mg (see WARNINGS).
 
 Food has complex effects on tizanidine pharmacokinetics.
-These pharmacokinetic differences may result in clinically significant differences when switching administration of the tablet between the fed or fasted state.
+These pharmacokinetic differences may result in clinically significant differences when [1] switching administration of the tablet between the fed or fasted state, [2] switching administration of the capsule between the fed or fasted state, [3] switching between the tablet and capsule in the fed state, or [4] switching between the intact capsule and sprinkling the contents of the capsule on applesauce.
 These changes may result in increased adverse events or delayed/more rapid onset of activity, depending upon the nature of the switch.
 For this reason, the prescriber should be thoroughly familiar with the changes in kinetics associated with these different conditions (see PHARMACOKINETICS).
