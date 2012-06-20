@@ -1,4 +1,4 @@
-## FDA-Approved Patient Labeling
+# FDA-Approved Patient Labeling
 
 PATIENT INFORMATION
 
@@ -122,7 +122,6 @@ SPRYCEL may cause serious side effects, including:
   - shortness of breath and cough.
 - Heart problems.
   SPRYCEL may cause an abnormal heart rate, heart problems or a heart attack.
-  It may also cause changes in the blood vessels supplying the lungs.
   Your healthcare provider will monitor the potassium and magnesium levels in your blood, and your heart function.
 - Pulmonary Arterial Hypertension (PAH).
   SPRYCEL may cause high blood pressure in the vessels of your lungs.

@@ -26,7 +26,7 @@ Table 6: Efficacy Results in Newly Diagnosed Patients with Chronic Phase CML
 | Major Molecular Responseb | 52.1% (45.9–58.3) | 33.8% (28.1–39.9) | p<0.0001* |
 | a Confirmed CCyR is defined as a CCyR noted on two consecutive occasions at least 28 days apart. |  |  |  |
 | b Major molecular response (at any time) was defined as BCR-ABL ratios ≤0.1% by RQ-PCR in peripheral blood samples standardized on the International scale. |  |  |  |
-| *Adjusted for Hasford Score and indicated statistical significance at a pre-defined nominal level of significance. |  |  |  |
+| * Adjusted for Hasford Score and indicated statistical significance at a pre-defined nominal level of significance. |  |  |  |
 | CI = confidence interval. |  |  |  |
 
 Median time to confirmed CCyR was 3.1 months in 199 SPRYCEL responders and 5.6 months in 177 imatinib responders.
