@@ -2,6 +2,6 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Rx only
 
-LAB-0139-21.0
+LAB-0139-22.0
 
-February 2012
+March 2012
