@@ -138,6 +138,8 @@ In addition, the 5 mg tablet contains FD&C Red No. 40, iron oxide colorant, and 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-sanofi-aventis U.S. LLC Bridgewater, NJ 08807
+sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-August 2010
+May 2012
+
+© 2012 sanofi-aventis U.S. LLC

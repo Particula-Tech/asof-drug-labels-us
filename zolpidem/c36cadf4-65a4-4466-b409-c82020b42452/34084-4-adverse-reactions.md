@@ -126,9 +126,9 @@ Rare: arthrosis, muscle weakness, sciatica, tendinitis.
 Reproductive system: Infrequent: menstrual disorder, vaginitis.
 Rare: breast fibroadenosis, breast neoplasm, breast pain.
 
-Respiratory system: Frequent: upper respiratory infection.
+Respiratory system: Frequent: upper respiratory infection, lower respiratory infection.
 Infrequent: bronchitis, coughing, dyspnea, rhinitis.
-Rare: bronchospasm, epistaxis, hypoxia, laryngitis, pneumonia.
+Rare: bronchospasm, respiratory depression, epistaxis, hypoxia, laryngitis, pneumonia.
 
 Skin and appendages: Infrequent: pruritus.
 Rare: acne, bullous eruption, dermatitis, furunculosis, injection-site inflammation, photosensitivity reaction, urticaria.
