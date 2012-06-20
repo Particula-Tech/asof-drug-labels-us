@@ -64,14 +64,15 @@ There may be competition for elimination with other compounds that are also rena
 
 Drug Interactions
 
-Digoxin: Concomitant use of 20 mg SANCTURA ® (trospium chloride immediate release) twice daily at steady state and a single dose of 0.5 mg digoxin in a crossover study with 40 male and female subjects did not affect the pharmacokinetics of either drug.
+Digoxin: Concomitant use of 20 mg SANCTURA® (trospium chloride immediate release) twice daily at steady state and a single dose of 0.5 mg digoxin in a crossover study with 40 male and female subjects did not affect the pharmacokinetics of either drug.
 
 Antacid: A drug interaction study was conducted to evaluate the effect of an antacid containing aluminum hydroxide and magnesium carbonate on the pharmacokinetics of SANCTURA XR® (n=11).
 While the systemic exposure of trospium on average was comparable with and without antacid, 5 individuals demonstrated either an increase or decrease in trospium exposure, in presence of antacid.
 
 Metformin: A drug interaction study was conducted in which SANCTURA XR® 60 mg once daily was co-administered with Glucophage® (metformin hydrochloride) 500 mg twice daily under steady-state conditions in 44 healthy subjects.
 Co-administration of 500 mg metformin immediate release tablets twice daily reduced the steady-state systemic exposure of trospium by approximately 29% for mean AUC0-24 and by 34% for mean Cmax.
-The effect of decrease in trospium exposure on the efficacy of SANCTURA XR® is unknown.The steady-state pharmacokinetics of metformin were comparable when administered with or without 60 mg SANCTURA XR® once daily under fasted condition.
+The effect of decrease in trospium exposure on the efficacy of SANCTURA XR® is unknown.
+The steady-state pharmacokinetics of metformin were comparable when administered with or without 60 mg SANCTURA XR® once daily under fasted condition.
 The effect of metformin at higher doses on trospium PK is unknown.
 
 Pharmacokinetics in Specific Populations

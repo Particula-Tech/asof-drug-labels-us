@@ -107,7 +107,7 @@ Manufactured for: Allergan, Inc. Irvine, CA 92612, U.S.A.
 
 Manufactured by: Catalent Pharma Solutions, Inc. Somerset, NJ 08873, U.S.A.
 
-© 2011 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Opadry® is a registered trademark of BPSI Holdings, Inc. Glucophage® is a registered trademark of Bristol Myers Squibb.
+© 2012 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Opadry® is a registered trademark of BPSI Holdings, Inc. Glucophage® is a registered trademark of Merck Santé S.A.S.
 Made in the U.S.A.
 
 71966US15C
