@@ -16,8 +16,8 @@ It does not appear to interfere with the immunogenicity of inactivated influenza
 Amantadine inhibits the replication of influenza A virus isolates from each of the subtypes, i.e., H1N1, H2N2 and H3N2.
 It has very little or no activity against influenza B virus isolates.
 A quantitative relationship between the in vitro susceptibility of influenza A virus to amantadine and the clinical response to therapy has not been established in man.
-Sensitivity test results, expressed as the concentration of amantadine required to inhibit by 50% the growth of virus (ED50) in tissue culture vary greatly (from 0.1 µg/mL to 25.0 µg/mL) depending upon the assay protocol used, size of virus inoculum, isolates of influenza A virus strains tested, and the cell type used.
-Host cells in tissue culture readily tolerated amantadine up to a concentration of 100 µg/mL.
+Sensitivity test results, expressed as the concentration of amantadine required to inhibit by 50% the growth of virus (ED50) in tissue culture vary greatly (from 0.1 mcg/mL to 25 mcg/mL) depending upon the assay protocol used, size of virus inoculum, isolates of influenza A virus strains tested, and the cell type used.
+Host cells in tissue culture readily tolerated amantadine up to a concentration of 100 mcg/mL.
 
 ### Drug Resistance
 
@@ -41,7 +41,7 @@ Maximum plasma concentrations are directly related to dose for doses up to 200 m
 Doses above 200 mg/day may result in a greater than proportional increase in maximum plasma concentrations.
 It is primarily excreted unchanged in the urine by glomerular filtration and tubular secretion.
 Eight metabolites of amantadine have been identified in human urine.
-One metabolite, an N-acetylated compound, was quantified in human urine and accounted for 5-15% of the administered dose.
+One metabolite, an N-acetylated compound, was quantified in human urine and accounted for 5 to 15% of the administered dose.
 Plasma acetylamantadine accounted for up to 80% of the concurrent amantadine plasma concentration in 5 of 12 healthy volunteers following the ingestion of a 200 mg dose of amantadine.
 Acetylamantadine was not detected in the plasma of the remaining seven volunteers.
 The contribution of this metabolite to efficacy or toxicity is not known.
@@ -50,15 +50,15 @@ There appears to be a relationship between plasma amantadine concentrations and 
 As concentration increases, toxicity seems to be more prevalent, however, absolute values of amantadine concentrations associated with adverse effects have not been fully defined.
 
 Amantadine pharmacokinetics were determined in 24 normal adult male volunteers after the oral administration of a single amantadine hydrochloride 100 mg soft gel capsule.
-The mean ± SD maximum plasma concentration was 0.22 ± 0.03 µg/mL (range: 0.18 to 0.32 µg/mL).
-The time to peak concentration was 3.3 ± 1.5 hours (range: 1.5 to 8.0 hours).
+The mean ± SD maximum plasma concentration was 0.22 ± 0.03 mcg/mL (range: 0.18 to 0.32 mcg/mL).
+The time to peak concentration was 3.3 ± 1.5 hours (range: 1.5 to 8 hours).
 The apparent oral clearance was 0.28 ± 0.11 L/hr/kg (range: 0.14 to 0.62 L/hr/kg).
 The half-life was 17 ± 4 hours (range: 10 to 25 hours).
 Across other studies, amantadine plasma half-life has averaged 16 ± 6 hours (range: 9 to 31 hours) in 19 healthy volunteers.
 
-After oral administration of a single dose of 100 mg amantadine syrup to five healthy volunteers, the mean ± SD maximum plasma concentration Cmax was 0.24 ± 0.04 µg/mL and ranged from 0.18 to 0.28 µg/mL.
-After 15 days of amantadine 100 mg b.i.d., the Cmax was 0.47 ± 0.11 µg/mL in four of the five volunteers.
-The administration of amantadine tablets as a 200 mg single dose to 6 healthy subjects resulted in a Cmax of 0.51 ± 0.14 µg/mL.
+After oral administration of a single dose of 100 mg amantadine syrup to five healthy volunteers, the mean ± SD maximum plasma concentration Cmax was 0.24 ± 0.04 mcg/mL and ranged from 0.18 to 0.28 mcg/mL.
+After 15 days of amantadine 100 mg b.i.d., the Cmax was 0.47 ± 0.11 mcg/mL in four of the five volunteers.
+The administration of amantadine tablets as a 200 mg single dose to 6 healthy subjects resulted in a Cmax of 0.51 ± 0.14 mcg/mL.
 Across studies, the time to Cmax (Tmax) averaged about 2 to 4 hours.
 
 Plasma amantadine clearance ranged from 0.2 to 0.3 L/hr/kg after the administration of 5 mg to 25 mg intravenous doses of amantadine to 15 healthy volunteers.
@@ -66,9 +66,9 @@ Plasma amantadine clearance ranged from 0.2 to 0.3 L/hr/kg after the administrat
 In six healthy volunteers, the ratio of amantadine renal clearance to apparent oral plasma clearance was 0.79 ± 0.17 (mean ± SD).
 
 The volume of distribution determined after the intravenous administration of amantadine to 15 healthy subjects was 3 to 8 L/kg, suggesting tissue binding.
-Amantadine, after single oral 200 mg doses to 6 healthy young subjects and to 6 healthy elderly subjects has been found in nasal mucus at mean ± SD concentrations of 0.15 ± 0.16, 0.28 ± 0.26, and 0.39 ± 0.34 µg/g at 1, 4, and 8 hours after dosing, respectively.
+Amantadine, after single oral 200 mg doses to 6 healthy young subjects and to 6 healthy elderly subjects has been found in nasal mucus at mean ± SD concentrations of 0.15 ± 0.16, 0.28 ± 0.26, and 0.39 ± 0.34 mcg/g at 1, 4, and 8 hours after dosing, respectively.
 These concentrations represented 31 ± 33%, 59 ± 61%, and 95 ± 86% of the corresponding plasma amantadine concentrations.
-Amantadine is approximately 67% bound to plasma proteins over a concentration range of 0.1 to 2.0 µg/mL.
+Amantadine is approximately 67% bound to plasma proteins over a concentration range of 0.1 to 2 mcg/mL.
 Following the administration of amantadine 100 mg as a single dose, the mean ± SD red blood cell to plasma ratio ranged from 2.7 ± 0.5 in 6 healthy subjects to 1.4 ± 0.2 in 8 patients with renal insufficiency.
 
 The apparent oral plasma clearance of amantadine is reduced and the plasma half-life and plasma concentrations are increased in healthy elderly individuals age 60 and older.

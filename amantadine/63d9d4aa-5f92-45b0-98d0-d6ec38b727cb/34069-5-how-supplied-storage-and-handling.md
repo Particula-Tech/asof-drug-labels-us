@@ -4,8 +4,8 @@ Amantadine Hydrochloride Tablets are available as peach, compressed tablets, rou
 
 Bottles of 100 (NDC 0832-0111-00) Bottles of 500 (NDC 0832-0111-50)
 
-Store at controlled room temperature 20-25°C (68-77°F).
-Excursions permitted to 15-30°C (59-86°F).
+Store at controlled room temperature 20 to 25°C (68 to 77°F).
+Excursions permitted to 15 to 30°C (59 to 86°F).
 [See USP controlled room temperature.]
 
 Dispense in a tight container as defined in the USP, with child-resistant closure (as required).

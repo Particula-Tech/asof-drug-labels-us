@@ -140,11 +140,15 @@ There were no effects on fertility at a dose level of 10 mg/kg/day (or 0.3 times
 
 Failed fertility has been reported during human in vitro fertilization (IVF) when the sperm donor ingested amantadine 2 weeks prior to, and during the IVF cycle.
 
-## Pregnancy Category C
+## Pregnancy
+
+### Teratogenic Effects
+
+#### Pregnancy Category C
 
 The effect of amantadine on embryofetal and peri-postnatal development has not been adequately tested, that is, in studies conducted under Good Laboratory Practice (GLP) and according to current recommended methodology.
-However, in two non-GLP studies in rats in which females were dosed from 5 days prior to mating to Day 6 of gestation or on Days 7-14 of gestation, amantadine hydrochloride produced increases in embryonic death at an oral dose of 100 mg/kg (or 3 times the maximum recommended human dose on a mg/m2 basis).
-In the non-GLP rat study in which females were dosed on Days 7-14 of gestation, there was a marked increase in severe visceral and skeletal malformations at oral doses of 50 and 100 mg/kg (or 1.5 and 3 times, respectively, the maximum recommended human dose on a mg/m2 basis).
+However, in two non-GLP studies in rats in which females were dosed from 5 days prior to mating to Day 6 of gestation or on Days 7 to 14 of gestation, amantadine hydrochloride produced increases in embryonic death at an oral dose of 100 mg/kg (or 3 times the maximum recommended human dose on a mg/m2 basis).
+In the non-GLP rat study in which females were dosed on Days 7 to 14 of gestation, there was a marked increase in severe visceral and skeletal malformations at oral doses of 50 and 100 mg/kg (or 1.5 and 3 times, respectively, the maximum recommended human dose on a mg/m2 basis).
 The no-effect dose for teratogenicity was 37 mg/kg (equal to the maximum recommended human dose on a mg/m2 basis).
 The safety margins reported may not accurately reflect the risk considering the questionable quality of the study on which they are based.
 There are no adequate and well-controlled studies in pregnant women.

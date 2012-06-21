@@ -18,11 +18,11 @@ The 100 mg dose is recommended for persons who have demonstrated intolerance to 
 
 ### Pediatric Patients
 
-#### 1 yr.-9 yrs. of age
+#### 1 yr. to 9 yrs. of age
 
 The total daily dose should be calculated on the basis of 2 to 4 mg/lb/day (4.4 to 8.8 mg/kg/day), but not to exceed 150 mg per day.
 
-#### 9 yrs.-12 yrs. of age
+#### 9 yrs. to 12 yrs. of age
 
 The total daily dose is 200 mg given as one tablet of 100 mg twice a day.
 The 100 mg daily dose has not been studied in this pediatric population.
@@ -77,8 +77,8 @@ Depending upon creatinine clearance, the following dosage adjustments are recomm
 
 | CREATININE CLEARANCE (mL/min/1.73 m2) | AMANTADINE HYDROCLORIDE TABLETS DOSAGE |
 | --- | --- |
-| 30-50 | 200 mg 1st day and 100 mg each day thereafter |
-| 15-29 | 200 mg 1st day followed by 100 mg on alternate days |
+| 30 to 50 | 200 mg 1st day and 100 mg each day thereafter |
+| 15 to 29 | 200 mg 1st day followed by 100 mg on alternate days |
 | < 15 | 200 mg every 7 days |
 
 The recommended dosage for patients on hemodialysis is 200 mg every 7 days.
