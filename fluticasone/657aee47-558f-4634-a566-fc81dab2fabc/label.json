@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019958"
+  ],
+  "inn": "fluticasone",
+  "labeler": "PharmaDerm A division of Fougera Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "10337-332-30",
+    "10337-332-60"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluticasone propionate",
+      "name": "Cutivate"
+    }
+  ],
+  "setid": "657aee47-558f-4634-a566-fc81dab2fabc",
+  "source": "dailymed"
+}
