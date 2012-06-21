@@ -11,7 +11,7 @@ Patients should read the patient leaflet entitled “Patient Information VESIcar
 Patients should be informed that solifenacin may produce angioedema, which could result in life-threatening airway obstruction.
 Patients should be advised to promptly discontinue solifenacin therapy and seek immediate attention if they experience edema of the tongue or laryngopharynx, or difficulty breathing.
 
-FDA approved patient labeling
+FDA Approved Patient Labeling
 
 VESIcare® (VES-ih-care)
 
@@ -171,10 +171,10 @@ Marketed and Distributed by:
 
 Astellas Pharma US, Inc.
 
-Deerfield, Illinois 60015-2548
+Northbrook, IL 60062
 
 © 2012 Astellas Pharma US, Inc.
 
-Revised: January 2012
+Revised: June 2012
 
-11F047-VES-SPL
+12B010-VES-SPL

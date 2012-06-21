@@ -47,13 +47,13 @@ Multiple dose studies of VESIcare in elderly volunteers (65 to 80 years) showed 
 
 VESIcare should be used with caution in patients with renal impairment.
 There is a 2.1-fold increase in AUC and 1.6-fold increase in t1/2 of solifenacin in patients with severe renal impairment.
-Doses of VESIcare greater than 5 mg are not recommended in patients with severe renal impairment (CLcr < 30 mL/min) [see Warnings and Precautions (5.6); Dosage and Administration (2.2)].
+Doses of VESIcare greater than 5 mg are not recommended in patients with severe renal impairment (CLcr < 30 mL/min) [see Warnings and Precautions (5.7); Dosage and Administration (2.2)].
 
 ## 8.7 Hepatic Impairment
 
 VESIcare should be used with caution in patients with reduced hepatic function.
 There is a 2-fold increase in the t1/2 and 35% increase in AUC of solifenacin in patients with moderate hepatic impairment.
-Doses of VESIcare greater than 5 mg are not recommended in patients with moderate hepatic impairment (Child-Pugh B). VESIcare is not recommended for patients with severe hepatic impairment (Child-Pugh C) [see Warnings and Precautions (5.5); Dosage and Administration (2.3)].
+Doses of VESIcare greater than 5 mg are not recommended in patients with moderate hepatic impairment (Child-Pugh B). VESIcare is not recommended for patients with severe hepatic impairment (Child-Pugh C) [see Warnings and Precautions (5.6); Dosage and Administration(2.3)].
 
 ## 8.8 Gender
 
