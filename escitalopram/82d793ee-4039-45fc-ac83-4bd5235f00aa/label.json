@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202221"
+  ],
+  "inn": "escitalopram",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-569-24"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "escitalopram oxalate",
+      "name": "Escitalopram Oxalate"
+    }
+  ],
+  "setid": "82d793ee-4039-45fc-ac83-4bd5235f00aa",
+  "source": "dailymed"
+}
