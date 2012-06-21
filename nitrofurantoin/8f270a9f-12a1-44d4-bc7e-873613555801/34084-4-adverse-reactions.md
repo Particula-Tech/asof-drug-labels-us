@@ -1,8 +1,5 @@
 # ADVERSE REACTIONS
 
-In clinical trials of Macrobid, the most frequent clinical adverse events that were reported as possibly or probably drug-related were nausea (8%), headache (6%), and flatulence (1.5%).
-Additional clinical adverse events reported as possibly or probably drug-related occurred in less than 1% of patients studied and are listed below within each body system in order of decreasing frequency:
-
 Gastrointestinal: Diarrhea, dyspepsia, abdominal pain, constipation, emesis
 
 Neurologic: Dizziness, drowsiness, amblyopia
@@ -32,7 +29,7 @@ Asthenia, vertigo, and nystagmus also have been reported with the use of nitrofu
 Benign intracranial hypertension (pseudotumor cerebri), confusion, depression, optic neuritis, and psychotic reactions have been reported rarely.
 Bulging fontanels, as a sign of benign intracranial hypertension in infants, have been reported rarely.
 
-## Respiratory:
+Respiratory:
 
 CHRONIC, SUBACUTE, OR ACUTE PULMONARY HYPERSENSITIVITY REACTIONS MAY OCCUR WITH THE USE OF NITROFURANTOIN.
 

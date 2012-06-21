@@ -1,6 +1,6 @@
 # WARNINGS
 
-## Pulmonary reactions:
+Pulmonary reactions:
 
 ACUTE, SUBACUTE, OR CHRONIC PULMONARY REACTIONS HAVE BEEN OBSERVED IN PATIENTS TREATED WITH NITROFURANTOIN.
 IF THESE REACTIONS OCCUR, MACROBID SHOULD BE DISCONTINUED AND APPROPRIATE MEASURES TAKEN.
@@ -11,14 +11,14 @@ THESE REACTIONS OCCUR RARELY AND GENERALLY IN PATIENTS RECEIVING THERAPY FOR SIX
 CLOSE MONITORING OF THE PULMONARY CONDITION OF PATIENTS RECEIVING LONG-TERM THERAPY IS WARRANTED AND REQUIRES THAT THE BENEFITS OF THERAPY BE WEIGHED AGAINST POTENTIAL RISKS.
 (SEE RESPIRATORY REACTIONS.)
 
-## Hepatotoxicity:
+Hepatotoxicity:
 
 Hepatic reactions, including hepatitis, cholestatic jaundice, chronic active hepatitis, and hepatic necrosis, occur rarely.
 Fatalities have been reported.
 The onset of chronic active hepatitis may be insidious, and patients should be monitored periodically for changes in biochemical tests that would indicate liver injury.
 If hepatitis occurs, the drug should be withdrawn immediately and appropriate measures should be taken.
 
-## Neuropathy:
+Neuropathy:
 
 Peripheral neuropathy, which may become severe or irreversible, has occurred.
 Fatalities have been reported.
@@ -27,14 +27,14 @@ Patients receiving long-term therapy should be monitored periodically for change
 
 Optic neuritis has been reported rarely in postmarketing experience with nitrofurantoin formulations.
 
-## Hemolytic anemia:
+Hemolytic anemia:
 
 Cases of hemolytic anemia of the primaquine-sensitivity type have been induced by nitrofurantoin.
 Hemolysis appears to be linked to a glucose-6-phosphate dehydrogenase deficiency in the red blood cells of the affected patients.
 This deficiency is found in 10 percent of Blacks and a small percentage of ethnic groups of Mediterranean and Near-Eastern origin.
 Hemolysis is an indication for discontinuing Macrobid; hemolysis ceases when the drug is withdrawn.
 
-## Clostridium difficile-associated diarrhea:
+Clostridium difficile-associated diarrhea:
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including nitrofurantoin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.

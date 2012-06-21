@@ -11,6 +11,4 @@
 3. Clinical and Laboratory Standards Institute.
    Performance Standards for Antimicrobial Susceptibility Testing; Nineteenth Informational Supplement.
    CLSI document M100-S19 [ISBN 1-56238-716-2].
-   Clinical and Laboratory Standards Institute, 940 West Valley Road,
-
-Suite 1400, Wayne, Pennsylvania 19087-1898 USA, 2010.
+   Clinical and Laboratory Standards Institute, 940 West Valley Road, Suite 1400, Wayne, Pennsylvania 19087-1898 USA, 2010.
