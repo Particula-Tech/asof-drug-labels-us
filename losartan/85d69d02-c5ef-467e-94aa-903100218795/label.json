@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA202230"
+  ],
+  "inn": "losartan",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-044-10",
+    "33342-044-12",
+    "33342-045-07",
+    "33342-045-10",
+    "33342-045-12",
+    "33342-046-07",
+    "33342-046-10",
+    "33342-046-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "losartan potassium",
+      "name": "Losartan potassium"
+    }
+  ],
+  "setid": "85d69d02-c5ef-467e-94aa-903100218795",
+  "source": "dailymed"
+}
