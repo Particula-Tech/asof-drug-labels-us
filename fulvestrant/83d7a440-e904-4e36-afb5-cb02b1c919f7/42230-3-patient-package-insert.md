@@ -23,22 +23,22 @@ See the end of this leaflet for a list of the ingredients in FASLODEX.
 
 Symptoms of an allergic reaction to FASLODEX may include:
 
-- itching
-- swelling of your face, lips, tongue or throat
-- trouble breathing
+- •itching
+- •swelling of your face, lips, tongue or throat
+- •trouble breathing
 
 What should I tell my healthcare provider before taking FASLODEX?
 
 Before you receive FASLODEX, tell your healthcare provider if you:
 
-- have a low level of platelets in your blood or bleed easily.
-- have liver problems
-- have any other medical conditions
-- are pregnant or plan to become pregnant.
+- •have a low level of platelets in your blood or bleed easily.
+- •have liver problems
+- •have any other medical conditions
+- •are pregnant or plan to become pregnant.
   FASLODEX can harm your unborn baby.
   Talk to your healthcare provider about how to prevent pregnancy while taking FASLODEX.
   Tell your healthcare provider right away if you become pregnant or think you are pregnant while receiving FASLODEX.
-- are breastfeeding or plan to breastfeed.
+- •are breastfeeding or plan to breastfeed.
   You and your healthcare provider will decide if you will take FASLODEX or breast feed.
   You should not do both.
 
@@ -58,19 +58,19 @@ What are the possible side effects of FASLODEX?
 
 Common side effects of FASLODEX include:
 
-- injection site pain
-- nausea
-- muscle, joint, and bone pain
-- headache
-- tiredness
-- hot flashes
-- vomiting
-- loss of appetite
-- weakness
-- cough
-- constipation
-- shortness of breath
-- increased liver enzymes
+- •injection site pain
+- •nausea
+- •muscle, joint, and bone pain
+- •headache
+- •tiredness
+- •hot flashes
+- •vomiting
+- •loss of appetite
+- •weakness
+- •cough
+- •constipation
+- •shortness of breath
+- •increased liver enzymes
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 

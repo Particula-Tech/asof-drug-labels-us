@@ -26,13 +26,13 @@ Table 4: Efficacy Results Study 1: Intent To Treat (ITT) Population
 
 | Endpoint | Fulvestrant 500 mg (N=362) | Fulvestrant 250 mg (N=374) |
 | --- | --- | --- |
-| PFSPFS (Progression Free Survival) = the time between randomization and the earliest of progression or death from any cause.Median (months) | 6.5 | 5.4 |
+| PFSPFS (Progression Free Survival) = the time between randomization and the earliest of progression or death from any causeMedian (months) | 6.5 | 5.4 |
 | Hazard RatioHazard ratio < 1 favors FASLODEX 500 mg. (95% CICI = Confidence Interval) | 0.80 (0.68-0.94) |  |
 | p-value | 0.006 |  |
 | OSOS = Overall SurvivalDied | 175 (48.3) | 203 (54.3) |
 | Median OS (months) | 25.1 | 22.8 |
 | Hazard Ratio (95% CI) | 0.84 (0.69-1.03) |  |
-| ORRORR (Objective Response Rate), defined as number (%) of patients with complete response or partial response, was analyzed in the evaluable patients with measurable disease at baseline (fulvestrant 500 mg N=240; fulvestrant 250 mg N=261).(95% CI) | 13.8% (9.7%, 18.8%) (33/240) | 14.6% (10.5%, 19.4%) (38/261) |
+| ORRORR (Objective Response Rate), defined as number (%) of patients with complete response or partial response, was analyzed in the evaluable patients with measureable disease at baseline (fulvestrant 500 mg N=240; fulvestrant 250 mg N=261). (95% CI) | 13.8% (9.7%, 18.8%)(33/240) | 14.6% (10.5%, 19.4%)(38/261) |
 
 Figure 4 Kaplan-Meier PFS: Study 1 ITT Population
 
