@@ -12,7 +12,7 @@ Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic pe
 
 # PRECAUTIONS
 
-## General
+General
 
 Isoproterenol hydrochloride injection should generally be started at the lowest recommended dose.
 This may be gradually increased if necessary while carefully monitoring the patient.
@@ -33,39 +33,39 @@ Appropriate measures should be taken to ensure adequate ventilation.
 Careful attention should be paid to acid-base balance and to the correction of electrolyte disturbances.
 In cases of shock associated with bacteremia, suitable antimicrobial therapy is, of course, imperative.
 
-## Drug Interactions
+Drug Interactions
 
 Isoproterenol hydrochloride injection and epinephrine should not be administered simultaneously because both drugs are direct cardiac stimulants and their combined effects may induce serious arrhythmias.
 The drugs may, however, be administered alternately provided a proper interval has elapsed between doses.
 
 ISUPREL should be used with caution, if at all, when potent inhalational anesthetics such as halothane are employed because of potential to sensitize the myocardium to effects of sympathomimetic amines.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies in animals to evaluate the carcinogenic potential of isoproterenol hydrochloride have not been done.
 Mutagenic potential and effect on fertility have not been determined.
 There is no evidence from human experience that isoproterenol hydrochloride injection may be carcinogenic or mutagenic or that it impairs fertility.
 
-## Pregnancy Category C
+Pregnancy Category C
 
 Animal reproduction studies have not been conducted with isoproterenol hydrochloride.
 It is also not known whether isoproterenol hydrochloride can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Isoproterenol hydrochloride should be given to a pregnant woman only if clearly needed.
 
-## Nursing Mothers
+Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when isoproterenol hydrochloride injection is administered to a nursing woman.
 
-## Pediatric Use
+Pediatric Use
 
 Safety and efficacy of isoproterenol in pediatric patients have not been established.
 
-Intravenous infusions of isoproterenol in refractory asthmatic children at rates of 0.05-2.7 µg/kg/min have caused clinical deterioration, myocardial necrosis, congestive heart failure and death.
+Intravenous infusions of isoproterenol in refractory asthmatic children at rates of 0.05‑2.7 µg/kg/min have caused clinical deterioration, myocardial necrosis, congestive heart failure and death.
 The risks of cardiac toxicity appear to be increased by some factors [acidosis, hypoxemia, coadministration of corticosteroids, coadministration of methylxanthines (theophylline, theobromine) or aminophylline] that are especially likely to be present in these patients.
 If I.V. isoproterenol is used in children with refractory asthma, patient monitoring must include continuous assessment of vital signs, frequent electrocardiography, and daily measurements of cardiac enzymes, including CPK-MB.
 
-## Geriatric Use
+Geriatric Use
 
 Clinical studies of Isuprel did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects in clinical circumstances.
 There are, however, some data that suggest that elderly healthy or hypertensive patients are less responsive to beta-adrenergic stimulation than are younger subjects.

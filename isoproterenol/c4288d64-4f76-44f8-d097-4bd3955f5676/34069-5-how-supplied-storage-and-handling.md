@@ -8,12 +8,13 @@
 Protect from light.
 Keep in opaque container until used.
 
-Store at controlled room temperature 20° to 25°C (68° to 77°F).
+Store at controlled room temperature 20º to 25ºC (68º to 77ºF).
 [See USP.]
 
 Do not use if the injection is pinkish or darker than slightly yellow or contains a precipitate.
 
-| ©Hospira 2004 | EN-0427 | Printed in USA |
-| --- | --- | --- |
+Revised: August, 2004
+
+©Hospira 2004 EN-0427 Printed in USA
 
 HOSPIRA, INC., LAKE FOREST, IL 60045 USA
