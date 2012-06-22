@@ -1,8 +1,8 @@
-Literature revised August 31, 2011
+Literature revised June 14, 2012
 
 Eli Lilly and Company Indianapolis, IN 46285, USA www.strattera.com
 
-Copyright © 2002, 2011, Eli Lilly and Company.
+Copyright © 2002, 2012, Eli Lilly and Company.
 All rights reserved.
 
-PV 6267 AMP
+PV 6268 AMP

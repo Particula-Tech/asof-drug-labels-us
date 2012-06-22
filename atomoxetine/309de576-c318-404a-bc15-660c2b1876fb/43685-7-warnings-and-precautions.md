@@ -85,8 +85,6 @@ In short-term child and adolescent registration studies, 1.8% (6/340) of STRATTE
 Syncope was not reported during short-term child and adolescent placebo-controlled ADHD registration studies.
 STRATTERA should be used with caution in any condition that may predispose patients to hypotension, or conditions associated with abrupt heart rate or blood pressure changes.
 
-Peripheral vascular effects — There have been spontaneous postmarketing reports of Raynaud's phenomenon (new onset and exacerbation of preexisting condition).
-
 ## 5.5 Emergence of New Psychotic or Manic Symptoms
 
 Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by atomoxetine at usual doses.

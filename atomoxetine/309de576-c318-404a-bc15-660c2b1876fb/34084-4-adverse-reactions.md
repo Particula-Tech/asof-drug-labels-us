@@ -156,6 +156,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Cardiovascular system — QT prolongation, syncope.
 
+Peripheral vascular effects — Raynaud's phenomenon.
+
 General disorders and administration site conditions — Lethargy.
 
 Nervous system disorders — Hypoaesthesia; paraesthesia in children and adolescents; sensory disturbances; tics.
