@@ -3,6 +3,8 @@
 PERFOROMIST (formoterol fumarate) Inhalation Solution is supplied as a 2 mL sterile solution for nebulization in 2.5 mL low-density polyethylene unit dose vials.
 Each vial is overwrapped in a foil pouch and supplied in cartons as listed below.
 
+Carton of 30 individually wrapped unit dose vials, NDC 49502-605-30
+
 Carton of 60 individually wrapped unit dose vials, NDC 49502-605-61
 
 Storage and Handling:

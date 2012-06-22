@@ -152,7 +152,7 @@ If you would like more information, talk with your health care provider.
 You can ask your health care provider or pharmacist for information about PERFOROMIST Inhalation Solution that was written for healthcare professionals.
 
 - For customer service, call 1-800-395-3376
-- To report side effects, call (1-877-446-3679)
+- To report side effects, call 1-877-446-3679
 - For medical information, call 1-800-429-7751
 
 Instructions for Using PERFOROMIST (formoterol fumarate) Inhalation Solution
@@ -182,8 +182,8 @@ Dey®
 Dey Pharma, L.P.
 Napa, CA 94558 U.S.A.
 
-Revised January 2012
+Revised March 2012
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-03-848-04
+03-848-05
