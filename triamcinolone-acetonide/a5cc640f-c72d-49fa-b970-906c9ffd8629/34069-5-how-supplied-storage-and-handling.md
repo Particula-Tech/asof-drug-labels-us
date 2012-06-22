@@ -10,8 +10,6 @@
 
 Store at controlled room temperature 15°-30°C (59°-86°F).
 
-March 2008
+E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, New York 11747
 
-E. FOUGERA & CO. A division of Nycomed US Inc. MELVILLE, NEW YORK 11747
-
-I20515I R3/08
+I20515J/IF20515J R10/11 #221
