@@ -14,7 +14,7 @@ tadalafil tablets
 
 20 mg
 
-LungRx®
+Lung LLCTM
 
 Lilly
 

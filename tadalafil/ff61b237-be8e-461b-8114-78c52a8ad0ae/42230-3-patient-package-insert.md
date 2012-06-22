@@ -45,9 +45,8 @@ What should I tell my healthcare provider before taking ADCIRCA?
 
 Before taking ADCIRCA, tell your healthcare provider about all of your medical conditions, including if you:
 
-are allergic to ADCIRCA or Cialis or any of its ingredients.
-See the end of this leaflet for a complete list of ingredients in ADCIRCA.
-
+- are allergic to ADCIRCA or Cialis or any of its ingredients.
+  See the end of this leaflet for a complete list of ingredients in ADCIRCA.
 - have pulmonary veno-occlusive disease (PVOD)
 - have heart problems such as angina (chest pain), heart failure, irregular heartbeats, or have had a heart attack
 - have low blood pressure or high blood pressure that is not controlled
@@ -178,13 +177,13 @@ ADCIRCA® (tadalafil) is a trademark of Eli Lilly and Company.
 *The brands listed are trademarks of their respective owners and are not trademarks of Eli Lilly and Company.
 The makers of these brands are not affiliated with and do not endorse Eli Lilly and Company or its products.
 
-Literature revised April 5, 2011
+Literature revised March 13, 2012
 
 Manufactured by: Eli Lilly and Company, Indianapolis, IN 46285, USA
 
-Marketed by: Lung Rx, LLC, a wholly owned subsidiary of United Therapeutics Corporation
+Marketed by: Lung LLC, a wholly-owned subsidiary of United Therapeutics Corporation
 
-Copyright © 2009, 2011, Eli Lilly and Company.
+Copyright © 2009, 2012, Eli Lilly and Company.
 All rights reserved.
 
-PV 6482 AMP
+PV 6483 AMP
