@@ -83,13 +83,13 @@ Who Should Not Take CRESTOR?
 
 Do not take CRESTOR if you:
 
-- are pregnant or think you may be pregnant, or are planning to become pregnant.
+- •are pregnant or think you may be pregnant, or are planning to become pregnant.
   CRESTOR may harm your unborn baby.
   If you become pregnant, stop taking CRESTOR and call your health care professional right away
-- are breast-feeding.
+- •are breast-feeding.
   CRESTOR can pass into your breast milk and may harm your baby
-- have liver problems
-- have had an allergic reaction to CRESTOR or are allergic to any of its ingredients.
+- •have liver problems
+- •have had an allergic reaction to CRESTOR or are allergic to any of its ingredients.
   The active ingredient is rosuvastatin calcium.
   The inactive ingredients are: microcrystalline cellulose, lactose monohydrate, tribasic calcium phosphate, crospovidone, magnesium stearate, hypromellose, triacetin, titanium dioxide, yellow ferric oxide, and red ferric oxide
 
@@ -99,14 +99,14 @@ What should I tell my health care professional before taking CRESTOR?
 
 Tell your health care professional if you:
 
-- have a history of muscle pain or weakness
-- are pregnant or think you may be pregnant, or are planning to become pregnant
-- are breast-feeding
-- drink more than 2 glasses of alcohol daily
-- have liver problems
-- have kidney problems
-- have thyroid problems
-- are Asian or of Asian descent
+- •have a history of muscle pain or weakness
+- •are pregnant or think you may be pregnant, or are planning to become pregnant
+- •are breast-feeding
+- •drink more than 2 glasses of alcohol daily
+- •have liver problems
+- •have kidney problems
+- •have thyroid problems
+- •are Asian or of Asian descent
 
 Tell your health care professional about all medicines you take or plan to take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Some medicines may interact with CRESTOR, causing side effects.
@@ -176,11 +176,11 @@ Liver problems.
 Your health care professional should do blood tests to check your liver before you start taking CRESTOR and if you have symptoms of liver problems while you take CRESTOR.
 Call your doctor right away if you have any of the following symptoms of liver problems:
 
-- feel unusually tired or weak
-- loss of appetite
-- upper belly pain
-- dark urine
-- yellowing of your skin or the whites of your eyes
+- •feel unusually tired or weak
+- •loss of appetite
+- •upper belly pain
+- •dark urine
+- •yellowing of your skin or the whites of your eyes
 
 The most common side effects may include:
 

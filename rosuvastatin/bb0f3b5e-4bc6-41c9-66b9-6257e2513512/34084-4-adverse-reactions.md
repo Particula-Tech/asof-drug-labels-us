@@ -2,23 +2,38 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-- Rhabdomyolysis with myoglobinuria and acute renal failure and myopathy (including myositis) [see Warnings and Precautions (5.1)]
-- Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
+- •Rhabdomyolysis with myoglobinuria and acute renal failure and myopathy (including myositis) [see Warnings and Precautions (5.1)]
+- 
+
+- •Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
 
 In the CRESTOR controlled clinical trials database (placebo or active-controlled) of 5394 patients with a mean treatment duration of 15 weeks, 1.4% of patients discontinued due to adverse reactions.
 The most common adverse reactions that led to treatment discontinuation were:
 
-- myalgia
-- abdominal pain
-- nausea
+- •Myalgia
+- 
+
+- •abdominal pain
+- 
+
+- •nausea
 
 The most commonly reported adverse reactions (incidence ≥ 2%) in the CRESTOR controlled clinical trial database of 5394 patients were:
 
-- headache
-- myalgia
-- abdominal pain
-- asthenia
-- nausea
+- •headache
+- 
+
+- •myalgia
+- 
+
+- •abdominal pain
+- 
+
+- •asthenia
+- 
+
+- •nausea
+- 
 
 ## 6.1 Clinical Studies Experience
 
