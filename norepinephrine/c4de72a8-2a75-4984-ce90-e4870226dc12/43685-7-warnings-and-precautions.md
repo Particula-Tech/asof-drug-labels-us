@@ -8,7 +8,7 @@ Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic pe
 
 # PRECAUTIONS
 
-## General
+General
 
 Avoid Hypertension: Because of the potency of LEVOPHED and because of varying response to pressor substances, the possibility always exists that dangerously high blood pressure may be produced with overdoses of this pressor agent.
 It is desirable, therefore, to record the blood pressure every two minutes from the time administration is started until the desired blood pressure is obtained, then every five minutes if administration is to be continued.
@@ -30,36 +30,27 @@ Blanching along the course of the infused vein, sometimes without obvious extrav
 This also may progress on rare occasions to superficial slough, particularly during infusion into leg veins in elderly patients or in those suffering from obliterative vascular disease.
 Hence, if blanching occurs, consideration should be given to the advisability of changing the infusion site at intervals to allow the effects of local vasoconstriction to subside.
 
-## Drug Interactions:
+| IMPORTANT — Antidote for Extravasation Ischemia: To prevent sloughing and necrosis in areas in which extravasation has taken place, the area should be infiltrated as soon as possible with 10 mL to 15 mL of saline solution containing from 5 mg to 10 mg of Regitine® (brand of phentolamine), an adrenergic blocking agent. A syringe with a fine hypodermic needle should be used, with the solution being infiltrated liberally throughout the area, which is easily identified by its cold, hard, and pallid appearance. Sympathetic blockade with phentolamine causes immediate and conspicuous local hyperemic changes if the area is infiltrated within 12 hours. Therefore, phentolamine should be given as soon as possible after the extravasation is noted. |
+| --- |
 
-Cyclopropane and halothane anesthetics increase cardiac autonomic irritability and therefore seem to sensitize the myocardium to the action of intravenously administered epinephrine or norepinephrine.
+Drug Interactions: Cyclopropane and halothane anesthetics increase cardiac autonomic irritability and therefore seem to sensitize the myocardium to the action of intravenously administered epinephrine or norepinephrine.
 Hence, the use of LEVOPHED during cyclopropane and halothane anesthesia is generally considered contraindicated because of the risk of producing ventricular tachycardia or fibrillation.
 The same type of cardiac arrhythmias may result from the use of LEVOPHED in patients with profound hypoxia or hypercarbia.
 
 LEVOPHED should be used with extreme caution in patients receiving monoamine oxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe, prolonged hypertension may result.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
+Carcinogenesis, Mutagenesis, Impairment of Fertility: Studies have not been performed.
 
-Studies have not been performed.
-
-## Pregnancy Category C:
-
-Animal reproduction studies have not been conducted with LEVOPHED.
+Pregnancy Category C: Animal reproduction studies have not been conducted with LEVOPHED.
 It is also not known whether LEVOPHED can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 LEVOPHED should be given to a pregnant woman only if clearly needed.
 
-## Nursing Mothers:
-
-It is not known whether this drug is excreted in human milk.
+Nursing Mothers: It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when LEVOPHED is administered to a nursing woman.
 
-## Pediatric Use:
+Pediatric Use: Safety and effectiveness in pediatric patients has not been established.
 
-Safety and effectiveness in pediatric patients has not been established.
-
-## Geriatric Use:
-
-Clinical studies of LEVOPHED did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Geriatric Use: Clinical studies of LEVOPHED did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
