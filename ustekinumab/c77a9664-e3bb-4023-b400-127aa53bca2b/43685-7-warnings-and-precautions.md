@@ -40,8 +40,8 @@ The safety of STELARA® has not been evaluated in patients who have a history of
 
 ## 5.5 Hypersensitivity Reactions
 
-Serious allergic reactions, including angioedema and possible anaphylaxis, have been reported post-marketing.
-If an anaphylactic or other serious allergic reaction occurs, discontinue STELARA® and institute appropriate therapy [see Adverse Reactions (6.3)].
+Hypersensitivity reactions, including anaphylaxis and angioedema, have been reported post-marketing.
+If an anaphylactic or other clinically significant hypersensitivity reaction occurs, discontinue STELARA® and institute appropriate therapy [see Adverse Reactions (6.3)].
 
 ## 5.6 Reversible Posterior Leukoencephalopathy Syndrome
 
