@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022436"
+  ],
+  "inn": "acyclovir",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-5104-01"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "acyclovir and hydrocortisone",
+      "name": "Xerese"
+    }
+  ],
+  "setid": "3b6ac164-0f1e-4f36-94a1-1fdb07d710f5",
+  "source": "dailymed"
+}
