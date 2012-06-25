@@ -2,11 +2,11 @@
 
 The following adverse reactions are described elsewhere in labeling:
 
-- Worsening angina or myocardial infarction.
+- •Worsening angina or myocardial infarction.
   [see Warnings and Precautions (5)]
-- Worsening heart failure.
+- •Worsening heart failure.
   [see Warnings and Precautions (5)]
-- Worsening AV block.
+- •Worsening AV block.
   [see Contraindications (4)]
 
 ## 6.1 Clinical Trials Experience
@@ -21,7 +21,7 @@ Heart Failure: In the MERIT-HF study comparing TOPROL-XL in daily doses up to 20
 
 The table below lists adverse reactions in the MERIT-HF study that occurred at an incidence of ≥ 1% in the TOPROL-XL group and greater than placebo by more than 0.5%, regardless of the assessment of causality.
 
-Adverse Reactions Occurring in the MERIT-HF Study at an Incidence ≥ 1 % in the TOPROL-XL Group and Greater Than Placebo by More Than 0.5 %
+Adverse Reactions Occurring in the MERIT-HF Study at an Incidence ≥1% in TOPROL-XL Group and Greater Than Placebo by More than 0.5%
 
 |  | TOPROL-XL n=1990 % of patients | Placebo n=2001 % of patients |
 | --- | --- | --- |

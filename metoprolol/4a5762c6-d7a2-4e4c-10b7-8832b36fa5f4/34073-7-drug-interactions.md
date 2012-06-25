@@ -18,4 +18,4 @@ Digitalis glycosides, clonidine, diltiazem and verapamil slow atrioventricular c
 Concomitant use with beta blockers can increase the risk of bradycardia.
 
 If clonidine and a beta blocker, such as metoprolol are coadministered, withdraw the beta-blocker several days before the gradual withdrawal of clonidine because beta-blockers may exacerbate the rebound hypertension that can follow the withdrawal of clonidine.
-If replacing clonidine by beta-blocker therapy, delay the introduction of beta-blockers for several days after clonidine administration has stopped [see Warnings and Precautions(5.11)_Refwilliamsonbk1264646718476].
+If replacing clonidine by beta-blocker therapy, delay the introduction of beta-blockers for several days after clonidine administration has stopped [see Warnings and Precautions(5.11)].
