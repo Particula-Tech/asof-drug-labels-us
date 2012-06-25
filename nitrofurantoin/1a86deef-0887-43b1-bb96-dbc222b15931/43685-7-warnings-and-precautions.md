@@ -11,24 +11,32 @@ THESE REACTIONS OCCUR RARELY AND GENERALLY IN PATIENTS RECEIVING THERAPY FOR SIX
 CLOSE MONITORING OF THE PULMONARY CONDITION OF PATIENTS RECEIVING LONG-TERM THERAPY IS WARRANTED AND REQUIRES THAT THE BENEFITS OF THERAPY BE WEIGHED AGAINST POTENTIAL RISKS.
 (SEE RESPIRATORY REACTIONS.)
 
-Hepatotoxicity: Hepatic reactions, including hepatitis, cholestatic jaundice, chronic active hepatitis, and hepatic necrosis, occur rarely.
+Hepatotoxicity:
+
+Hepatic reactions, including hepatitis, cholestatic jaundice, chronic active hepatitis, and hepatic necrosis, occur rarely.
 Fatalities have been reported.
 The onset of chronic active hepatitis may be insidious, and patients should be monitored periodically for changes in biochemical tests that would indicate liver injury.
 If hepatitis occurs, the drug should be withdrawn immediately and appropriate measures should be taken.
 
-Neuropathy: Peripheral neuropathy, which may become severe or irreversible, has occurred.
+Neuropathy:
+
+Peripheral neuropathy, which may become severe or irreversible, has occurred.
 Fatalities have been reported.
 Conditions such as renal impairment (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine), anemia, diabetes mellitus, electrolyte imbalance, vitamin B deficiency, and debilitating disease may enhance the occurrence of peripheral neuropathy.
 Patients receiving long-term therapy should be monitored periodically for changes in renal function.
 
 Optic neuritis has been reported rarely in postmarketing experience with nitrofurantoin formulations.
 
-Hemolytic anemia: Cases of hemolytic anemia of the primaquine-sensitivity type have been induced by nitrofurantoin.
+Hemolytic anemia:
+
+Cases of hemolytic anemia of the primaquine-sensitivity type have been induced by nitrofurantoin.
 Hemolysis appears to be linked to a glucose-6-phosphate dehydrogenase deficiency in the red blood cells of the affected patients.
 This deficiency is found in 10 percent of Blacks and a small percentage of ethnic groups of Mediterranean and Near-Eastern origin.
-Hemolysis is an indication for discontinuing Nitrofurantoin Monohydrate/Macrocrystals Capsules; hemolysis ceases when the drug is withdrawn.
+Hemolysis is an indication for discontinuing nitrofurantoin monohydrate/macrocrystals capsules; hemolysis ceases when the drug is withdrawn.
 
-Clostridium difficile-associated diarrhea: Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including nitrofurantoin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile-associated diarrhea:
+
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including nitrofurantoin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -41,15 +49,17 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 # PRECAUTIONS
 
-Information for Patients: Patients should be advised to take Nitrofurantoin Monohydrate/Macrocrystals Capsules with food (ideally breakfast and dinner) to further enhance tolerance and improve drug absorption.
+## Information for Patients
+
+Patients should be advised to take nitrofurantoin monohydrate/macrocrystals capsules with food (ideally breakfast and dinner) to further enhance tolerance and improve drug absorption.
 Patients should be instructed to complete the full course of therapy; however, they should be advised to contact their physician if any unusual symptoms occur during therapy.
 
-Patients should be advised not to use antacid preparations containing magnesium trisilicate while taking Nitrofurantoin Monohydrate/Macrocrystals Capsules.
+Patients should be advised not to use antacid preparations containing magnesium trisilicate while taking nitrofurantoin monohydrate/macrocrystals capsules.
 
-Patients should be counseled that antibacterial drugs including Nitrofurantoin Monohydrate/Macrocrystals Capsules should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including nitrofurantoin monohydrate/macrocrystals capsules should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Nitrofurantoin Monohydrate/Macrocrystals Capsules are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Nitrofurantoin Monohydrate/Macrocrystals Capsules or other antibacterial drugs in the future.
+When nitrofurantoin monohydrate/macrocrystals capsules are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by nitrofurantoin monohydrate/macrocrystals capsules or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
@@ -57,7 +67,7 @@ If this occurs, patients should contact their physician as soon as possible.
 
 ## General
 
-Prescribing Nitrofurantoin Monohydrate/Macrocrystals Capsules in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing nitrofurantoin monohydrate/macrocrystals capsules in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## Drug Interactions
 
@@ -67,7 +77,7 @@ The mechanism for this interaction probably is adsorption of nitrofurantoin onto
 Uricosuric drugs, such as probenecid and sulfinpyrazone, can inhibit renal tubular secretion of nitrofurantoin.
 The resulting increase in nitrofurantoin serum levels may increase toxicity, and the decreased urinary levels could lessen its efficacy as a urinary tract antibacterial.
 
-## DRUG OR LABORATORY TEST INTERACTIONS
+## DRUG & OR LABORATORY TEST INTERACTIONS
 
 As a result of the presence of nitrofurantoin, a false-positive reaction for glucose in the urine may occur.
 This has been observed with Benedict's and Fehling's solutions but not with the glucose enzymatic test.
@@ -119,18 +129,19 @@ Because of the potential for serious adverse reactions from nitrofurantoin in nu
 
 ## Pediatric Use
 
-Nitrofurantoin Monohydrate/Macrocrystals Capsules are contraindicated in infants below the age of one month.
+Nitrofurantoin monohydrate/macrocrystals capsules are contraindicated in infants below the age of one month.
 (See CONTRAINDICATIONS.)
 Safety and effectiveness in pediatric patients below the age of twelve years have not been established.
 
 ## Geriatric Use
 
-Clinical studies of Nitrofurantoin Monohydrate/Macrocrystals Capsules did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of nitrofurantoin monohydrate/macrocrystals capsules did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-Spontaneous reports suggest a higher proportion of pulmonary reactions, including fatalities, in elderly patients; these differences appear to be related to the higher proportion of elderly patients receiving long-term nitrofurantoin therapy.
+Spontaneous reports suggest a higher proportion of pulmonary reactions, including fatalities, in elderly patients; these differences appear to be related to the higher proportion of elderly patients receiving long- term nitrofurantoin therapy.
 As in younger patients, chronic pulmonary reactions generally are observed in patients receiving therapy for six months or longer (see WARNINGS).
-Spontaneous reports also suggest an increased proportion of severe hepatic reactions, including fatalities, in elderly (see WARNINGS).
+Spontaneous reports also suggest an increased proportion of severe hepatic reactions, including fatalities, in elderly patients (see WARNINGS).
 
-In general, the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients should be considered when prescribing Nitrofurantoin Monohydrate/Macrocrystals Capsules.
+In general, the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients should be considered when prescribing nitrofurantoin monohydrate/macrocrystals capsules.
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Anuria, oliguria, or significant impairment of renal function (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine) are contraindications (see CONTRAINDICATIONS) Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function.
+Anuria, oliguria, or significant impairment of renal function (creatinine clearance under 60 mL per minute or clinically significant elevated serum creatinine) are contraindications (see CONTRAINDICATIONS).
+Because elderly patients are more likely to have decreased renal function, it may be useful to monitor renal function.
