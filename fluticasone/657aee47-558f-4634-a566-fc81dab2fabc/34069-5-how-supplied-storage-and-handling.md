@@ -7,11 +7,11 @@ CUTIVATE® (fluticasone propionate cream) Cream 0.05% is supplied in:
 
 Store between 2° and 30° C (36° and 86° F).
 
-PharmaDerm® A division of Fougera Pharmaceuticals Inc. Melville, NY 11747 USA www.pharmaderm.com
+PharmaDerm® A division of Fougera Pharmaceuticals Inc. Melville, NY 11747 USA
 
 I8332D
 
 Rev.
-10/11
+09/11
 
 #142
