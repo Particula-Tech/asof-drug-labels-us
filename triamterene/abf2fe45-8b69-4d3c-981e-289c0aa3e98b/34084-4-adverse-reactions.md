@@ -1,8 +1,8 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
-Side effects observed in association with the use of Triamterene and Hydrochlorothiazide Tablets, other combination products containing triamterene/ hydrochlorothiazide, and products containing triamterene or hydrochlorothiazide include the following:
+Side effects observed in association with the use of triamterene and hydrochlorothiazide tablets, other combination products containing triamterene/hydrochlorothiazide, and products containing triamterene or hydrochlorothiazide include the following:
 
-Gastrointestinal: jaundice (intrahepatic cholestatic jaundice), pancreatitis, nausea, appetite disturbance, taste alter¬ation, vomiting, diarrhea, constipation, anorexia, gastric irritation, cramping.
+Gastrointestinal: jaundice (intrahepatic cholestatic jaundice), pancreatitis, nausea, appetite disturbance, taste alteration, vomiting, diarrhea, constipation, anorexia, gastric irritation, cramping.
 
 Central Nervous System: drowsiness and fatigue, insomnia, headache, dizziness, dry mouth, depression, anxiety, vertigo, restlessness, paresthesias.
 
@@ -20,14 +20,14 @@ Other: muscle cramps and weakness, decreased sexual performance and sialadenitis
 
 Whenever adverse reactions are moderate to severe, therapy should be reduced or withdrawn.
 
-Altered Laboratory Findings:
+## Altered Laboratory Findings:
 
-Serum Electrolytes: hyperkalemia, hypokalemia, hyponatremia, hypomagnesemia, hypochloremia (seeWARNINGS,PRECAUTIONS).
+Serum Electrolytes: hyperkalemia, hypokalemia, hyponatremia, hypomagnesemia, hypochloremia (see WARNINGS and PRECAUTIONS).
 
 Creatinine, Blood Urea Nitrogen: Reversible elevations in BUN and serum creatinine have been observed in hypertensive patients treated with triamterene and hydrochlorothiazide tablets.
 
-Glucose: hyperglycemia, glycosuria and diabetes mellitus (seePRECAUTIONS).
+Glucose: hyperglycemia, glycosuria and diabetes mellitus (see PRECAUTIONS).
 
-Serum Uric Acids, PBI and Calcium: (seePRECAUTIONS).
+Serum Uric Acid, PBI and Calcium: (see PRECAUTIONS).
 
 Other: Elevated liver enzymes have been reported in patients receiving triamterene and hydrochlorothiazide tablets.
