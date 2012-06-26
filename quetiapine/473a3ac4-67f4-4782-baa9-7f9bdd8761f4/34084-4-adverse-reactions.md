@@ -26,9 +26,9 @@ Mania: In a single clinical trial in patients with bipolar mania, 4.6% (7/151) o
 There were no adverse reactions leading to discontinuation that occurred at an incidence of ≥ 2% for SEROQUEL XR in the Bipolar Mania trial.
 
 Depression: In a single clinical trial in patients with bipolar depression, 14% (19/137) of patients on SEROQUEL XR discontinued due to an adverse reaction compared to 4% (5/140) on placebo.
-Somnolence∗ was the only adverse reaction leading to discontinuation that occurred at an incidence of ≥ 2% in SEROQUEL XR in the Bipolar Depression trial.
+Somnolence* was the only adverse reaction leading to discontinuation that occurred at an incidence of ≥ 2% in SEROQUEL XR in the Bipolar Depression trial.
 
-∗ The adverse reaction term “somnolence” includes both “somnolence” and “sedation.”
+* The adverse reaction term “somnolence” includes both “somnolence” and “sedation.”
 
 MDD, Adjunctive Therapy: In adjunctive therapy clinical trials in patients with MDD, 12.1% (76/627) of patients on SEROQUEL XR discontinued due to adverse reaction compared to 1.9% (6/309) on placebo.
 Somnolence* was the only adverse reaction leading to discontinuation that occurred at an incidence of ≥ 2% in SEROQUEL XR in MDD trials.
@@ -279,7 +279,7 @@ The incidence of extrapyramidal symptoms was consistent with that seen with the 
 
 Table 15: Adverse Experiences Associated with Extrapyramidal Symptoms in Placebo-controlled Clinical Trials for Schizophrenia
 
-| Preferred term | Placebo(N=319) |  | SEROQUEL XR 300 mg/day (N=91) |  | SEROQUEL XR 400 mg/day (N=227) |  | SEROQUEL XR 600 mg/day (N=310) |  | SEROQUEL XR 800 mg/day (N=323) |  | All Doses (N=951) |  |
+| Preferred term | Placebo(N=319) |  | SEROQUEL XR 300 mg/day(N=91) |  | SEROQUEL XR 400 mg/day(N=227) |  | SEROQUEL XR 600 mg/day(N=310) |  | SEROQUEL XR 800 mg/day(N=323) |  | All Doses(N=951) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | n | % | n | % | n | % | n | % | n | % | n | % |
 | Dystonic eventPatients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration | 0 | 0.0 | 3 | 3.3 | 0 | 0.0 | 4 | 1.3 | 1 | 0.3 | 8 | 0.8 |
@@ -293,7 +293,7 @@ In this study, the incidence of the individual adverse reactions (akathisia, ext
 
 Table 16: Adverse Experiences Associated with Extrapyramidal Symptoms in a Placebo-controlled Clinical Trial for Bipolar Mania
 
-| Preferred termThere were no adverse experiences with the preferred term of dyskinetic event. | Placebo (N=160) |  | SEROQUEL XR (N=151) |  |
+| Preferred termThere were no adverse experiences with the preferred term of dyskinetic event. | Placebo(N=160) |  | SEROQUEL XR(N=151) |  |
 | --- | --- | --- | --- | --- |
 | n | % | n | % |  |
 | Dystonic eventPatients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration | 0 | 0.0 | 1 | 0.7 |
@@ -306,7 +306,7 @@ In this study, the incidence of the individual adverse reactions (akathisia, ext
 
 Table 17: Adverse Experiences Associated with Extrapyramidal Symptoms in a Placebo-controlled Clinical Trial for Bipolar Depression
 
-| Preferred termThere were no adverse experiences with the preferred term of dyskinetic event. | Placebo (N=140) |  | SEROQUEL XR (N=137) |  |
+| Preferred termThere were no adverse experiences with the preferred term of dyskinetic event. | Placebo(N=140) |  | SEROQUEL XR(N=137) |  |
 | --- | --- | --- | --- | --- |
 | n | % | n | % |  |
 | Dystonic eventPatients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration | 0 | 0.0 | 2 | 1.5 |
@@ -320,7 +320,7 @@ Table 18 shows the percentage of patients experiencing adverse reactions potenti
 
 Table 18: Adverse Reactions Potentially Associated with EPS in MDD Trials by Dose, Adjunctive Therapy Clinical Trials (6 weeks duration)
 
-| Preferred term | Placebo (N=309) |  | SEROQUEL XR 150 mg/day (N=315) |  | SEROQUEL XR 300 mg/day (N=312) |  | All Doses (N=627) |  |
+| Preferred term | Placebo(N=309) |  | SEROQUEL XR 150 mg/day(N=315) |  | SEROQUEL XR 300 mg/day(N=312) |  | All Doses(N=627) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | n | % | n | % | n | % | n | % |  |
 | Dystonic event Patients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration | 0 | 0.0 | 1 | 0.3 | 0 | 0.0 | 1 | 0.2 |
@@ -337,7 +337,7 @@ Table 19 below presents a listing of patients with adverse experiences potential
 
 Table 19 Adverse experiences potentially associated with EPS in the short-term placebo-controlled monotherapy trial in adolescent patients with schizophrenia (6-week duration).
 
-| Preferred term | Placebo (N=75) |  | SEROQUEL 400 mg/day (N=73) |  | SEROQUEL 800 mg/day (N=74) |  | All SEROQUEL(N=147) |  |
+| Preferred term | Placebo(N=75) |  | SEROQUEL 400 mg/day(N=73) |  | SEROQUEL 800 mg/day(N=74) |  | All SEROQUEL(N=147) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | n | :% | n | % | n | % | n | % |  |
 | Dystonic event Patients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity | 0 | 0.0 | 2 | 2.7 | 0 | 0.0 | 2 | 1.4 |
@@ -350,7 +350,7 @@ Table 20 below presents a listing of patients with Adverse Experiences potential
 
 Table 20: Adverse experiences potentially associated with EPS in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration)
 
-| Preferred termThere were no adverse experiences with the preferred term of dystonic or dyskinetic events. | Placebo (N=90) |  | SEROQUEL 400 mg/day (N=95) |  | SEROQUEL 600 mg/day (N=98) |  | All SEROQUEL(N=193) |  |
+| Preferred termThere were no adverse experiences with the preferred term of dystonic or dyskinetic events. | Placebo(N=90) |  | SEROQUEL 400 mg/day(N=95) |  | SEROQUEL 600 mg/day(N=98) |  | All SEROQUEL(N=193) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | n | % | n | % | n | % | n | % |  |
 | Parkinsonism Patients with the following terms were counted in this category: cogwheel rigidity, tremor | 1 | 1.1 | 2 | 2.1 | 1 | 1.0 | 3 | 1.6 |
@@ -401,8 +401,8 @@ Mean increases in heart rate were 12.8 bpm and 13.4 bpm for SEROQUEL 400 mg and 
 The following adverse reactions were identified during post approval use of SEROQUEL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction which were temporally related to SEROQUEL therapy include anaphylactic reaction and galactorrhea.
+Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, galactorrhea and bradycardia (which may occur at or near initiation of treatment and be associated with hypotension and/ or syncope).
 
-Other adverse reactions reported since market introduction, which were temporally related to SEROQUEL therapy, but not necessarily causally related, include the following: agranulocytosis, cardiomyopathy, hyponatremia, myocarditis, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and decreased platelets.
+Other adverse reactions reported since market introduction, which were temporally related to quetiapine therapy, but not necessarily causally related, include the following: agranulocytosis, cardiomyopathy, hyponatremia, myocarditis, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and decreased platelets.
 
 In post-marketing clinical trials, elevations in total cholesterol (predominantly LDL cholesterol), dyspnea, palpitations, somnambulism (and other related events) and hypothermia have been reported.

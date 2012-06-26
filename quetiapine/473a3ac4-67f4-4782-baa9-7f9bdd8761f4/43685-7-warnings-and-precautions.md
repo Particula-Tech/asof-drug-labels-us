@@ -20,7 +20,7 @@ There were differences in absolute risk of suicidality across the different indi
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
-Table 1:
+Table 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
@@ -89,13 +89,13 @@ Changes in these parameters should be managed as clinically appropriate.
 
 Adults:
 
-Table 2: Fasting Glucose—Proportion of Patients Shifting to ≥ 126 mg/dL in short-term (≤ 12 weeks) Placebo-Controlled Studies
+Table 2: Fasting Glucose—Proportion of Patients Shifting to ≥ 126 mg/dL in short-term (≤ 12 weeks) Placebo-Controlled StudiesIncludes SEROQUEL and SEROQUEL XR data.
 
-| Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patients n (%) |
+| LaboratoryAnalyte | Category Change(At Least Once)from Baseline | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
-| Fasting Glucose | Normal to High (<100 mg/dL to ≥ 126 mg/dL) | Quetiapine | 2907 | 71 (2.4%) |
+| FastingGlucose | Normal to High(<100 mg/dL to ≥126 mg/dL) | Quetiapine | 2907 | 71 (2.4%) |
 | Placebo | 1346 | 19 (1.4%) |  |  |
-| Borderline to High (≥ 100 mg/dL and <126 mg/dL to ≥ 126 mg/dL) | Quetiapine | 572 | 67 (11.7%) |  |
+| Borderline to High(≥ 100 mg/dL and<126 mg/dL to ≥126 mg/dL) | Quetiapine | 572 | 67 (11.7%) |  |
 | Placebo | 279 | 33 (11.8%) |  |  |
 
 In a 24-week trial (active-controlled, 115 patients treated with SEROQUEL) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of a treatment-emergent post-glucose challenge glucose level ≥ 200 mg/dL was 1.7% and the incidence of a fasting treatment-emergent blood glucose level ≥ 126 mg/dL was 2.6%.
@@ -133,39 +133,39 @@ Table 4 shows the percentage of patients with changes in cholesterol and triglyc
 
 Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
 
-| Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
+| Laboratory Analyte | Indication | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
-| Total Cholesterol ≥240 mg/dL | Schizophrenia6 weeks duration | SEROQUEL XR | 718 | 67 (9%) |
+| Total Cholesterol≥240 mg/dL | Schizophrenia6 weeks duration | SEROQUEL XR | 718 | 67 (9%) |
 | Placebo | 232 | 21 (9%) |  |  |
 | Bipolar Depression8 weeks duration | SEROQUEL XR | 85 | 6 (7%) |  |
 | Placebo | 106 | 3 (3%) |  |  |
 | Bipolar Mania3 weeks duration | SEROQUEL XR | 128 | 9 (7%) |  |
 | Placebo | 134 | 5 (4%) |  |  |
-| Major Depressive Disorder (Adjunct Therapy)6 weeks duration | SEROQUEL XR | 420 | 67 (16%) |  |
+| Major DepressiveDisorder (AdjunctTherapy6 weeks duration | SEROQUEL XR | 420 | 67 (16%) |  |
 | Placebo | 213 | 15 (7%) |  |  |
-| Triglycerides ≥200 mg/dL | Schizophrenia | SEROQUEL XR | 659 | 118 (18%) |
+| Triglycerides ≥200mg/dL | Schizophrenia6 weeks duration | SEROQUEL XR | 659 | 118 (18%) |
 | Placebo | 214 | 11 (5%) |  |  |
 | Bipolar Depression | SEROQUEL XR | 84 | 7 (8%) |  |
 | Placebo | 93 | 7 (8%) |  |  |
 | Bipolar Mania | SEROQUEL XR | 102 | 15 (15%) |  |
 | Placebo | 125 | 8 (6%) |  |  |
-| Major Depressive Disorder (Adjunct Therapy) | SEROQUEL XR | 458 | 75 (16%) |  |
+| Major DepressiveDisorder (AdjunctTherapy | SEROQUEL XR | 458 | 75 (16%) |  |
 | Placebo | 223 | 18 (8%) |  |  |
-| LDL-Cholesterol ≥ 160 mg/dL | Schizophrenia | SEROQUEL XR | 691 | 47 (7%) |
+| LDL-Cholesterol ≥160 mg/dL | Schizophrenia | SEROQUEL XR | 691 | 47 (7%) |
 | Placebo | 227 | 17 (8%) |  |  |
 | Bipolar Depression | SEROQUEL XR | 86 | 3 (4%) |  |
 | Placebo | 104 | 2 (2%) |  |  |
 | Bipolar Mania | SEROQUEL XR | 125 | 5 (4%) |  |
 | Placebo | 135 | 2 (2%) |  |  |
-| Major Depressive Disorder (Adjunct Therapy) | SEROQUEL XR | 457 | 51 (11%) |  |
-| Placebo | 219 | 21 (10%) |  |  |
-| HDL-Cholesterol ≤ 40 mg/dL | Schizophrenia | SEROQUEL XR | 600 | 87 (15%) |
+| Major DepressiveDisorder (AdjunctTherapy | SEROQUEL XR | 457 | 51 (11%) |  |
+| Placebo | 219 | 51 (11%) |  |  |
+| HDL-Cholesterol ≤40 mg/dL | Schizophrenia | SEROQUEL XR | 600 | 21 (10%) |
 | Placebo | 195 | 23 (12%) |  |  |
 | Bipolar Depression | SEROQUEL XR | 78 | 7 (9%) |  |
 | Placebo | 83 | 6 (7%) |  |  |
 | Bipolar Mania | SEROQUEL XR | 100 | 19 (19%) |  |
 | Placebo | 115 | 15 (13%) |  |  |
-| Major Depressive Disorder (Adjunct Therapy) | SEROQUEL XR | 470 | 34 (7%) |  |
+| Major DepressiveDisorder (AdjunctTherapy | SEROQUEL XR | 470 | 34 (7%) |  |
 | Placebo | 230 | 19 (8%) |  |  |
 
 In SEROQUEL clinical trials for schizophrenia, the percentage of patients with shifts in cholesterol and triglycerides from baseline to clinically significant levels were 18% (placebo: 7%) and 22% (placebo: 16%).
@@ -180,17 +180,17 @@ Table 5: Percentage of Patients with Shifts in Total Cholesterol, Triglycerides,
 | Laboratory Analyte | Treatment Arm6 weeks duration | N | Patients n (%) |
 | --- | --- | --- | --- |
 | Cholesterol ≥ 240 mg/dL | Placebo | 213 | 15 (7%) |
-| SEROQUEL XR 150 mg | 223 | 41 (18%) |  |
-| SEROQUEL XR 300 mg | 197 | 26 (13%) |  |
+| SEROQUEL XR150 mg | 223 | 41 (18%) |  |
+| SEROQUEL XR300 mg | 197 | 26 (13%) |  |
 | Triglycerides ≥ 200 mg/dL | Placebo | 223 | 18 (8%) |
-| SEROQUEL XR 150 mg | 232 | 36 (16%) |  |
-| SEROQUEL XR 300 mg | 226 | 39 (17%) |  |
+| SEROQUEL XR150 mg | 232 | 36 (16%) |  |
+| SEROQUEL XR300 mg | 226 | 39 (17%) |  |
 | LDL-Cholesterol ≥ 160 mg/dL | Placebo | 219 | 21 (10%) |
-| SEROQUEL XR 150 mg | 242 | 29 (12%) |  |
-| SEROQUEL XR 300 mg | 215 | 22 (10%) |  |
+| SEROQUEL XR150 mg | 242 | 29 (12%) |  |
+| SEROQUEL XR300 mg | 215 | 22 (10%) |  |
 | HDL-Cholesterol ≤ 40 mg/dL | Placebo | 230 | 19 (8%) |
-| SEROQUEL XR 150 mg | 238 | 14 (6%) |  |
-| SEROQUEL XR 300 mg | 232 | 20 (9%) |  |
+| SEROQUEL XR150 mg | 238 | 14 (6%) |  |
+| SEROQUEL XR300 mg | 232 | 20 (9%) |  |
 
 Children and Adolescents:
 
@@ -198,11 +198,11 @@ Safety and effectiveness of SEROQUEL XR have not been established in pediatric p
 
 Table 6 shows the percentage of children and adolescents with shifts in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline to clinically significant levels by indication in clinical trials with SEROQUEL.
 
-Table 6: Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
+Table 6: Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides LDL-Cholesterol and HDLCholesterol from Baseline to Clinically Significant Levels by Indication
 
-| Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
+| LaboratoryAnalyte | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Total Cholesterol ≥ 200 mg/dL | Schizophrenia13- 17 years, 6 weeks duration | SEROQUEL | 107 | 13 (12%) |
+| Total Cholesterol ≥200 mg/dL | Schizophrenia13-17 years, 6 weeks duration | SEROQUEL | 107 | 13 (12%) |
 | Placebo | 56 | 1 (2%) |  |  |
 | Bipolar Mania10-17 years, 3 weeks duration | SEROQUEL | 159 | 16 (10%) |  |
 | Placebo | 66 | 2 (3%) |  |  |
@@ -210,11 +210,11 @@ Table 6: Percentage of Children and Adolescents with Shifts in Total Cholesterol
 | Placebo | 51 | 4 (8%) |  |  |
 | Bipolar Mania | SEROQUEL | 149 | 32 (22%) |  |
 | Placebo | 60 | 8 (13%) |  |  |
-| LDL-Cholesterol ≥ 130 mg/dL | Schizophrenia | SEROQUEL | 112 | 4 (4%) |
+| LDLCholesterol ≥ 130 mg/dL | Schizophrenia | SEROQUEL | 112 | 4 (4%) |
 | Placebo | 60 | 1 (2%) |  |  |
 | Bipolar Mania | SEROQUEL | 169 | 13 (8%) |  |
 | Placebo | 74 | 4 (5%) |  |  |
-| HDL-Cholesterol ≤ 40 mg/dL | Schizophrenia | SEROQUEL | 104 | 16 (15%) |
+| HDLCholesterol≤40 mg/dL | Schizophrenia | SEROQUEL | 104 | 16 (15%) |
 | Placebo | 54 | 10 (19%) |  |  |
 | Bipolar Mania | SEROQUEL | 154 | 16 (10%) |  |
 | Placebo | 61 | 4 (7%) |  |  |
@@ -229,17 +229,17 @@ Changes in these parameters should be managed as clinically appropriate.
 
 Adults: Table 7 shows the percentage of adult patients with weight gain of ≥ 7% of body weight by indication.
 
-Table 7: Percentage of Patients with Weight Gain ≥ 7% of Body Weight (Adults) by Indication
+Table 7: Percentage of Patients with Weight Gain ≥7% of Body Weight (Adults) by Indication
 
-| Vital sign | Indication | Treatment Arm | N | Patients n (%) |
+| Vital sign | Indication | Treatment Arm | N | Patients n% |
 | --- | --- | --- | --- | --- |
-| Weight Gain ≥ 7% of Body Weight | Schizophrenia: 6 weeks duration | SEROQUEL XR | 907 | 90 (10%) |
+| Weight gain ≥7% of body weight | Schizophrenia6 weeks duration | SEROQUEL XR | 907 | 90 (10%) |
 | Placebo | 299 | 16 (5%) |  |  |
-| Bipolar Mania 3 weeks duration | SEROQUEL XR | 138 | 7 (5%) |  |
+| Bipolar Mania3 weeks duration | SEROQUEL XR | 138 | 7 (5%) |  |
 | Placebo | 150 | 0 (0%) |  |  |
-| Bipolar Depression8 weeks duration | SEROQUEL XR | 110 | 9 (8%) |  |
+| BipolarDepression8 weeks duration | SEROQUEL XR | 110 | 9 (8%) |  |
 | Placebo | 125 | 1 (1%) |  |  |
-| Major Depressive Disorder (Adjunctive Therapy)6 weeks duration | SEROQUEL XR | 616 | 32 (5%) |  |
+| MajorDepressiveDisorder(AdjunctiveTherapy)6 weeks duration | SEROQUEL XR | 616 | 32 (5%) |  |
 | Placebo | 302 | 5 (2%) |  |  |
 
 In schizophrenia trials, the proportions of patients meeting a weight gain criterion of ≥ 7% of body weight were compared in a pool of four 3- to 6-week placebo-controlled clinical trials, revealing a statistically significant greater incidence of weight gain for SEROQUEL (23%) compared to placebo (6%).
@@ -259,11 +259,11 @@ In two clinical trials with SEROQUEL, one in bipolar mania and one in schizophre
 
 Table 9 shows the percentage of patients with weight gain ≥ 7% of body weight in clinical trials with SEROQUEL.
 
-Table 9: Percentage of Patients with Weight Gain ≥ 7% of Body Weight (Children and Adolescents)
+Table 9: Percentage of Patients with Weight Gain ≥7% of Body Weight (Children and Adolescents)
 
 | Vital Sign | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Weight gain ≥ 7% of Body Weight | Schizophrenia6 weeks duration | SEROQUEL | 111 | 23 (21%) |
+| Weightgain ≥7%of BodyWeight | Schizophrenia6 weeks duration | SEROQUEL | 111 | 23 (21%) |
 | Placebo | 44 | 3 (7%) |  |  |
 | Bipolar Mania3 weeks duration | SEROQUEL | 157 | 18 (12%) |  |
 | Placebo | 68 | 0 (0%) |  |  |
@@ -367,12 +367,12 @@ In eight patients, where TBG was measured, levels of TBG were unchanged.
 Table 10 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
 
 Table 10: Incidence of potentially clinically significant shifts in thyroid hormone levels and TSH in short term placebo-controlled clinical trialsBased on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
-Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is > 5 mIU/L at any time.
+Shifts in total T4,,includes SEROQUEL and SEROQUEL XR data.
 
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo |
-| 3.4 % (37/1097) | 0.6% (4/651) | 0.7% (52/7218) | 0.1% (4/3668) | 0.5% (2/369) | 0.0% (0/113) | 0.2% (11/5673) | 0.0% (1/2679) | 3.2% (240/7587) | 2.7% (105/3912) |
+| 3.4 %(37/1097) | 0.6%(4/651) | 0.7%(52/7218) | 0.1%(4/3668) | 0.5%(2/369) | 0.0%(0/113) | 0.2%(11/5673) | 0.0%(1/2679) | 3.2%(240/7587) | 2.7%(105/3912) |
 
 In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, potentially clinically significant shifts in T3 and TSH was 0.0 % for both quetiapine (1/4800) and placebo (0/2190) and for T4 and TSH the shifts were 0.1% (7/6154) for quetiapine versus 0.0 % (1/3007) for placebo.
 
