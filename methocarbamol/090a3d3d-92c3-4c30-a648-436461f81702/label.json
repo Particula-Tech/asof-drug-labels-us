@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA011790"
+  ],
+  "inn": "methocarbamol",
+  "labeler": "West-ward Pharmaceutical Corp.",
+  "package_ndcs": [
+    "0641-6103-01",
+    "0641-6103-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "methocarbamol",
+      "name": "ROBAXIN"
+    }
+  ],
+  "setid": "090a3d3d-92c3-4c30-a648-436461f81702",
+  "source": "dailymed"
+}
