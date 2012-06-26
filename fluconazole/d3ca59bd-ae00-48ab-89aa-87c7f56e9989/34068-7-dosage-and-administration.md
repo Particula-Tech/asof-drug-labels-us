@@ -10,34 +10,34 @@ Treatment should be continued until clinical parameters or laboratory tests indi
 An inadequate period of treatment may lead to recurrence of active infection.
 Patients with AIDS and cryptococcal meningitis or recurrent oropharyngeal candidiasis usually require maintenance therapy to prevent relapse.
 
-### Oropharyngeal candidiasis
+### Oropharyngeal candidiasis:
 
 The recommended dosage of fluconazole for oropharyngeal candidiasis is 200 mg on the first day, followed by 100 mg once daily.
 Clinical evidence of oropharyngeal candidiasis generally resolves within several days, but treatment should be continued for at least 2 weeks to decrease the likelihood of relapse.
 
-### Esophageal candidiasis
+### Esophageal candidiasis:
 
 The recommended dosage of fluconazole for esophageal candidiasis is 200 mg on the first day, followed by 100 mg once daily.
 Doses up to 400 mg/day may be used, based on medical judgment of the patient’s response to therapy.
 Patients with esophageal candidiasis should be treated for a minimum of three weeks and for at least two weeks following resolution of symptoms.
 
-### Systemic Candida infections
+### Systemic Candida infections:
 
 For systemic Candida infections including candidemia, disseminated candidiasis, and pneumonia, optimal therapeutic dosage and duration of therapy have not been established.
 In open, noncomparative studies of small numbers of patients, doses of up to 400 mg daily have been used.
 
-### Urinary tract infections and peritonitis
+### Urinary tract infections and peritonitis:
 
 For the treatment of Candida urinary tract infections and peritonitis, daily doses of 50 to 200 mg have been used in open, noncomparative studies of small numbers of patients.
 
-### Cryptococcal meningitis
+### Cryptococcal meningitis:
 
 The recommended dosage for treatment of acute cryptococcal meningitis is 400 mg on the first day, followed by 200 mg once daily.
 A dosage of 400 mg once daily may be used, based on medical judgment of the patient’s response to therapy.
 The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10 to 12 weeks after the cerebrospinal fluid becomes culture negative.
 The recommended dosage of fluconazole for suppression of relapse of cryptoccocal meningitis in patients with AIDS is 200 mg once daily.
 
-### Prophylaxis in patients undergoing bone marrow transplantation
+### Prophylaxis in patients undergoing bone marrow transplantation:
 
 The recommended fluconazole daily dosage for the prevention of candidiasis in patients undergoing bone marrow transplantation is 400 mg, once daily.
 Patients who are anticipated to have severe granulocytopenia (less than 500 neutrophils per cu mm) should start fluconazole prophylaxis several days before the anticipated onset of neutropenia, and continue for 7 days after the neutrophil count rises above 1000 cells per cu mm.
@@ -58,22 +58,22 @@ Based on the prolonged half-life seen in premature newborns (gestational age 26 
 After the first two weeks, these children should be dosed once daily.
 No information regarding fluconazole pharmacokinetics in full-term newborns is available.
 
-### Oropharyngeal candidiasis
+### Oropharyngeal candidiasis:
 
 The recommended dosage of fluconazole for oropharyngeal candidiasis in children is 6 mg/kg on the first day, followed by 3 mg/kg once daily.
 Treatment should be administered for at least 2 weeks to decrease the likelihood of relapse.
 
-### Esophageal candidiasis
+### Esophageal candidiasis:
 
 For the treatment of esophageal candidiasis, the recommended dosage of fluconazole in children is 6 mg/kg on the first day, followed by 3 mg/kg once daily.
 Doses up to 12 mg/kg/day may be used, based on medical judgment of the patient’s response to therapy.
 Patients with esophageal candidiasis should be treated for a minimum of three weeks and for at least 2 weeks following the resolution of symptoms.
 
-### Systemic Candida infections
+### Systemic Candida infections:
 
 For the treatment of candidemia and disseminated Candida infections, daily doses of 6 to 12 mg/kg/day have been used in an open, noncomparative study of a small number of children.
 
-### Cryptococcal meningitis
+### Cryptococcal meningitis:
 
 For the treatment of acute cryptococcal meningitis, the recommended dosage is 12 mg/kg on the first day, followed by 6 mg/kg once daily.
 A dosage of 12 mg/kg once daily may be used, based on medical judgment of the patient’s response to therapy.
@@ -101,7 +101,7 @@ Males: Weight (kg) × (140 – age) 72 × serum creatinine (mg/100 mL)
 
 Females: 0.85 × above value
 
-Although the pharmacokinetics of fluconazole has not been studied in children with renal insufficiency, dosage reduction in children with renal insufficiency should parallel that recommended for adults.
+Although the pharmacokinetics of fluconazole have not been studied in children with renal insufficiency, dosage reduction in children with renal insufficiency should parallel that recommended for adults.
 The following formula may be used to estimate creatinine clearance in children:
 
 K × linear length or height (cm) serum creatinine (mg/100 mL)
@@ -115,8 +115,35 @@ Fluconazole can be taken with or without food.
 Fluconazole injection has been used safely for up to fourteen days of intravenous therapy.
 The intravenous infusion of fluconazole should be administered at a maximum rate of approximately 200 mg/hour, given as a continuous infusion.
 
-Fluconazole injection in glass containers is intended only for intravenous administration using sterile equipment.
+Fluconazole injection in glass and plastic containers is intended only for intravenous administration using sterile equipment.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
 Do not use if the solution is cloudy or precipitated or if the seal is not intact.
+
+## Directions for IV Use of Fluconazole Injection in Plastic containers
+
+Do not remove unit from overwrap until ready for use.
+The overwrap is a moisture barrier.
+The inner bag maintains the sterility of the product
+
+CAUTION: Do not use plastic containers in series connections.
+Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is completed.
+
+## To Open
+
+Tear overwrap down side at slit and remove solution container.
+Some opacity of the plastic due to moisture absorption during the sterilization process may be observed.
+This is normal and does not affect the solution quality or safety.
+The opacity will diminish gradually.
+After removing overwrap, check for minute leaks by squeezing inner bag firmly.
+If leaks are found, discard solution as sterility may be impaired.
+
+DO NOT ADD SUPPLEMENTARY MEDICATION.
+
+## Preparation for Administration:
+
+1. Suspend container from eyelet support.
+2. Remove plastic protector from outlet port at bottom of container.
+3. Attach administration set.
+   Refer to complete directions accompanying set.

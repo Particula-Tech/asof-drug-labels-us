@@ -1,17 +1,27 @@
 {
   "application_numbers": [
-    "ANDA076736"
+    "ANDA076736",
+    "ANDA078698",
+    "ANDA078764"
   ],
   "inn": "fluconazole",
   "labeler": "West-ward Pharmaceutical Corp",
   "package_ndcs": [
+    "0143-9666-01",
+    "0143-9666-06",
+    "0143-9667-01",
+    "0143-9667-06",
+    "0143-9668-01",
+    "0143-9668-06",
+    "0143-9669-01",
+    "0143-9669-06",
     "0143-9899-01",
-    "0143-9899-91"
+    "0143-9899-06"
   ],
   "products": [
     {
-      "form": "SOLUTION",
-      "generic": "fluconzaole",
+      "form": "INJECTION",
+      "generic": "fluconazole",
       "name": "Fluconazole"
     }
   ],
