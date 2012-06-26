@@ -17,15 +17,19 @@ TABLE 2 Adverse Reactions Reported Regardless of Causality by ≥2% of Patients 
 | Digestive System Disorders Constipation Gastritis | 2.2 4.9 | 1.6 3.9 |
 | Endocrine Disorders Diabetes mellitus | 4.2 | 3.6 |
 | Musculoskeletal Disorders Myalgia | 3.7 | 3.2 |
-| Nervous System / Psychiatric Disorders Headache Insomnia Vertigo | 2.5 4 4.5 | 2.1 3.8 4.2 |
+| Nervous System/Psychiatric Disorders Headache Insomnia Vertigo | 2.5 4 4.5 | 2.1 3.8 4.2 |
 | Respiratory System Disorders Bronchitis Sinusitis | 6.6 2.3 | 6.3 1.8 |
-| Skin / Skin Appendage Disorders Eczema | 4.5 | 3 |
+| Skin/Skin Appendage Disorders Eczema | 4.5 | 3 |
 | Urogenital System Disorders Infection, urinary tract | 3.2 | 3.1 |
 
 Heart Protection Study In the Heart Protection Study (HPS), involving 20,536 patients (age range 40 to 80 years, 25% women, 97% Caucasians, 3% other races) treated with simvastatin 40 mg/day (n=10,269) or placebo (n=10,267) over a mean of 5 years, only serious adverse reactions and discontinuations due to any adverse reactions were recorded.
 Discontinuation rates due to adverse reactions were 4.8% in patients treated with simvastatin compared with 5.1% in patients treated with placebo.
 The incidence of myopathy/rhabdomyolysis was <0.1% in patients treated with simvastatin.
-Other Clinical Studies Other adverse reactions reported in clinical trials were: diarrhea, rash, dyspepsia, flatulence, and asthenia.
+Other Clinical Studies In a clinical trial in which 12,064 patients with a history of myocardial infarction were treated with simvastatin (mean follow-up 6.7 years), the incidence of myopathy (defined as unexplained muscle weakness or pain with a serum creatine kinase [CK] >10 times upper limit of normal [ULN]) in patients on 80 mg/day was approximately 0.9% compared with 0.02% for patients on 20 mg/day.
+The incidence of rhabdomyolysis (defined as myopathy with a CK >40 times ULN) in patients on 80 mg/day was approximately 0.4% compared with 0% for patients on 20 mg/day.
+The incidence of myopathy, including rhabdomyolysis, was highest during the first year and then notably decreased during the subsequent years of treatment.
+In this trial, patients were carefully monitored and some interacting medicinal products were excluded.
+Other adverse reactions reported in clinical trials were: diarrhea, rash, dyspepsia, flatulence, and asthenia.
 Laboratory Tests Marked persistent increases of hepatic transaminases have been noted [see Warnings and Precautions (5.2)] .
 Elevated alkaline phosphatase and γ-glutamyl transpeptidase have also been reported.
 About 5% of patients had elevations of CK levels of 3 or more times the normal value on one or more occasions.
@@ -33,8 +37,11 @@ This was attributable to the noncardiac fraction of CK.
 [See Warnings and Precautions (5.1).]
 Adolescent Patients (ages 10 to 17 years) In a 48-week, controlled study in adolescent boys and girls who were at least 1 year post-menarche, 10 to 17 years of age (43.4% female, 97.7% Caucasians, 1.7% Hispanics, 0.6% Multiracial) with heterozygous familial hypercholesterolemia (n=175), treated with placebo or simvastatin (10 to 40 mg daily), the most common adverse reactions observed in both groups were upper respiratory infection, headache, abdominal pain, and nausea [see Use in Specific Populations (8.4) and Clinical Studies (14.2)] .
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 Because the below reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following additional adverse reactions have been identified during postapproval use of simvastatin: pruritus, alopecia, a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails), dizziness, muscle cramps, myalgia, pancreatitis, memory impairment, paresthesia, peripheral neuropathy, vomiting and anemia, rhabdomyolysis, hepatitis/jaundice, hepatic failure, depression.
+The following additional adverse reactions have been identified during postapproval use of simvastatin: pruritus, alopecia, a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails), dizziness, muscle cramps, myalgia, pancreatitis, paresthesia, peripheral neuropathy, vomiting, anemia, erectile dysfunction, interstitial lung disease, rhabdomyolysis, hepatitis/jaundice, fatal and non-fatal hepatic failure, and depression.
 An apparent hypersensitivity syndrome has been reported rarely which has included some of the following features: anaphylaxis, angioedema, lupus erythematous-like syndrome, polymyalgia rheumatica, dermatomyositis, vasculitis, purpura, thrombocytopenia, leukopenia, hemolytic anemia, positive ANA, ESR increase, eosinophilia, arthritis, arthralgia, urticaria, asthenia, photosensitivity, fever, chills, flushing, malaise, dyspnea, toxic epidermal necrolysis, erythema multiforme, including Stevens-Johnson syndrome.
+There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
+These cognitive issues have been reported for all statins.
+The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).

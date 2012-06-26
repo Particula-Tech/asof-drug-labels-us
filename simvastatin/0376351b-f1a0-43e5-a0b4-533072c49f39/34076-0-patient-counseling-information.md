@@ -1,19 +1,20 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Patients should be advised to adhere to their National Cholesterol Education Program (NCEP)-recommended diet, a regular exercise program, and periodic testing of a fasting lipid panel.
-Patients should be advised about substances they should not take concomitantly with simvastatin [see Warnings and Precautions (5.1)].
-Patients should also be advised to inform other healthcare professionals prescribing a new medication that they are taking simvastatin.
+Patients should be advised about substances they should not take concomitantly with simvastatin [see Contraindications (4) and Warnings and Precautions (5.1)].
+Patients should also be advised to inform other healthcare professionals prescribing a new medication or increasing the dose of an existing medication that they are taking simvastatin.
 
 ## 17.1 Muscle Pain
 
-All patients starting therapy with simvastatin should be advised of the risk of myopathy and told to report promptly any unexplained muscle pain, tenderness or weakness.
-The risk of this occurring is increased when taking certain types of medication or consuming larger quantities of grapefruit juice.
-They should discuss all medication, both prescription and over the counter, with their healthcare professional.
+All patients starting therapy with simvastatin should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness.
+Patients using the 80 mg dose should be informed that the risk of myopathy, including rhabdomyolysis, is increased with use of the 80 mg dose.
+The risk of myopathy, including rhabdomyolysis, occurring with use of simvastatin is increased when taking certain types of medication or consuming larger quantities of grapefruit juice.
+Patients should discuss all medication, both prescription and over the counter, with their healthcare professional.
 
 ## 17.2 Liver Enzymes
 
 It is recommended that liver function tests be performed before the initiation of simvastatin, and thereafter when clinically indicated.
-Patients titrated to the 80 mg dose should receive an additional test prior to titration, 3 months after titration to the 80 mg dose, and periodically thereafter (e.g., semiannually) for the first year of treatment.
+All patients treated with simvastatin should be advised to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
 
 ## 17.3 Pregnancy
 
@@ -24,5 +25,4 @@ Patients should be advised that if they become pregnant they should stop taking 
 ## 17.4 Breastfeeding
 
 Women who are breastfeeding should not use simvastatin.
-Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professional.
-Manufactured for: Northstar Rx LLC Memphis, TN 38141 Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ), Mahaboob Nagar (Dt) AP-509302, INDIA M.L.No.: 22/MN/AP/2009/F/G Issued: 07/2010
+Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professional. ____________________________________________________________________________________________________________________________________________________ Manufactured for: Northstar Rx LLC Memphis, TN 38141 Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ), Mahaboob Nagar (Dt) AP-509302, INDIA M.L.No.: 22/MN/AP/2009/F/G Revised: 03/2012

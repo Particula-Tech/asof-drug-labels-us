@@ -20,10 +20,10 @@ Following an oral dose of 14 C-labeled simvastatin in man, 13% of the dose was e
 Plasma concentrations of total radioactivity (simvastatin plus 14 C-metabolites) peaked at 4 hours and declined rapidly to about 10% of peak by 12 hours postdose.
 Since simvastatin undergoes extensive first-pass extraction in the liver, the availability of the drug to the general circulation is low (<5%).
 Both simvastatin and its β-hydroxyacid metabolite are highly bound (approximately 95%) to human plasma proteins.
-Rat studies indicate that when radiolabeled simvastatin was administered, simvastatin ­derived radioactivity crossed the blood-brain barrier.
+Rat studies indicate that when radiolabeled simvastatin was administered, simvastatin-­derived radioactivity crossed the blood-brain barrier.
 The major active metabolites of simvastatin present in human plasma are the β-hydroxyacid of simvastatin and its 6'-hydroxy, 6'-hydroxymethyl, and 6'-exomethylene derivatives.
 Peak plasma concentrations of both active and total inhibitors were attained within 1.3 to 2.4 hours postdose.
-While the recommended therapeutic dose range is 5 to 80 mg/day, there was no substantial deviation from linearity of AUC of inhibitors in the general circulation with an increase in dose to as high as 120 mg.
+While the recommended therapeutic dose range is 5 to 40 mg/day, there was no substantial deviation from linearity of AUC of inhibitors in the general circulation with an increase in dose to as high as 120 mg.
 Relative to the fasting state, the plasma profile of inhibitors was not affected when simvastatin was administered immediately before an American Heart Association recommended low-fat meal.
 In a study including 16 elderly patients between 70 and 78 years of age who received simvastatin 40 mg/day, the mean plasma level of HMG-CoA reductase inhibitory activity was increased approximately 45% compared with 18 patients between 18 to 30 years of age.
 Clinical study experience in the elderly (n=1522), suggests that there were no overall differences in safety between elderly and younger patients [see Use in Specific Populations (8.5)] .
@@ -35,29 +35,31 @@ Inhibitors of CYP3A4 can raise the plasma levels of HMG-CoA reductase inhibitory
 
 TABLE 3 Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Systemic Exposure
 
-|  | AUC | Cmax |  |  |  |
+| Coadministered Drug or Grapefruit Juice | Dosing of Coadministered Drug or Grapefruit Juice | Dosing of Simvastatin | Geometric Mean Ratio (Ratio* with/without coadministered drug) No Effect = 1 |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug or Grapefruit Juice | Dosing of Coadministered Drug or Grapefruit Juice | Dosing of Simvastatin | Geometric Mean Ratio (Ratio* with / without coadministered drug) No Effect = 1 |  |  |
-| Avoid taking with simvastatin [see Warnings and Precautions (5.1)] |  |  |  |  |  |
+|  | AUC | Cmax |  |  |  |
+| Contraindicated with simvastatin [see Contraindications (4) and Warnings and Precautions (5.1)] |  |  |  |  |  |
 | Telithromycin† | 200 mg QD for 4 days | 80 mg | simvastatin acid‡ simvastatin | 12 8.9 | 15 5.3 |
 | Nelfinavir† | 1250 mg BID for 14 days | 20 mg QD for 28 days | simvastatin acid‡ simvastatin | 6 | 6.2 |
 | Itraconazole† | 200 mg QD for 4 days | 80 mg | simvastatin acid‡ simvastatin |  | 13.1 13.1 |
+| Posaconazole | 100 mg (oral suspension) QD for 13 days 200 mg (oral suspension) QD for 13 days | 40 mg 40 mg | simvastatin acid simvastatin simvastatin acid simvastatin | 7.3 10.3 8.5 10.6 | 9.2 9.4 9.5 11.4 |
+| Gemfibrozil | 600 mg BID for 3 days | 40 mg | simvastatin acid simvastatin | 2.85 1.35 | 2.18 0.91 |
 | Avoid >1 quart of grapefruit juice with simvastatin [see Warnings and Precautions (5.1)] |  |  |  |  |  |
 | Grapefruit Juice§ (high dose) | 200 mL of double-strength TID¶ | 60 mg single dose | simvastatin acid simvastatin | 7 16 |  |
 | Grapefruit Juice§ (low dose) | 8 oz (about 237 mL) of single-strength# | 20 mg single dose | simvastatin acid simvastatin | 1.3 1.9 |  |
-| Avoid taking with >10 mg simvastatin, based on clinical and/or post-marketing experience [see Warnings and Precautions (5.1)] |  |  |  |  |  |
-| Gemfibrozil | 600 mg BID for 3 days | 40 mg | simvastatin acid simvastatin | 2.85 1.35 | 2.18 0.91 |
-| Avoid taking with >20 mg simvastatin, based on clinical and/or post-marketing experience [see Warnings and Precautions (5.1)] |  |  |  |  |  |
+| Avoid taking with >10 mg simvastatin, based on clinical and/or postmarketing experience [see Warnings and Precautions (5.1)] |  |  |  |  |  |
 | Verapamil SR | 240 mg QD Days 1 to 7 then 240 mg BID on Days 8 to 10 | 80 mg on Day 10 | simvastatin acid simvastatin | 2.3 2.5 | 2.4 2.1 |
-| Avoid taking with >40 mg simvastatin, based on clinical and/or post-marketing experience [see Warnings and Precautions (5.1)] |  |  |  |  |  |
 | Diltiazem | 120 mg BID for 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 2.69 3.1 | 2.69 2.88 |
 | Diltiazem | 120 mg BID for 14 days | 20 mg on Day 14 | simvastatin | 4.6 | 3.6 |
+| Avoid taking with >20 mg simvastatin, based on clinical and/or postmarketing experience [see Warnings and Precautions (5.1)] |  |  |  |  |  |
+| Amiodarone | 400 mg QD for 3 days | 40 mg on Day 3 | simvastatin acid simvastatin | 1.75 1.76 | 1.72 1.79 |
+| Amlodipine | 10 mg QD x 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 1.58 1.77 | 1.56 1.47 |
+| Ranolazine SR | 1000 mg BID for 7 days | 80 mg on Day 1 and Day 6 to 9 | simvastatin acid simvastatin | 2.26 1.86 | 2.28 1.75 |
 | No dosing adjustments required for the following: |  |  |  |  |  |
 | Fenofibrate | 160 mg QD x 14 days | 80 mg QD on Days 8 to 14 | simvastatin acid simvastatin | 0.64 0.89 | 0.89 0.83 |
 | Niacin extended-releaseÞ | 2 g single dose | 20 mg single dose | simvastatin acid simvastatin | 1.6 1.4 | 1.84 1.08 |
-| Amlodipine | 10 mg QD x 10 days | 80 mg on Day 10 | simvastatin acid simvastatin | 1.58 1.77 | 1.56 1.47 |
 | Propranolol | 80 mg single dose | 80 mg single dose | total inhibitor active inhibitor | 0.79 0.79 | ↓ from 33.6 to 21.1 ng·eq/mL ↓ from 7 to 4.7 ng·eq/mL |
-| * Results based on a chemical assay except results with propranolol as indicated. † Results could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone. ‡ Simvastatin acid refers to the β-hydroxyacid of simvastatin. § The effect of amounts of grapefruit juice between those used in these two studies on simvastatin pharmacokinetics has not been studied. ¶ Double-strength: one can of frozen concentrate diluted with one can of water. Grapefruit juice was administered TID for 2 days, and 200 mL together with single dose simvastatin and 30 and 90 minutes following single dose simvastatin on Day 3. # Single-strength: one can of frozen concentrate diluted with 3 cans of water. Grapefruit juice was administered with breakfast for 3 days, and simvastatin was administered in the evening on Day 3. Þ Because Chinese patients have an increased risk for myopathy with simvastatin coadministered with lipid-modifying doses (≥ 1 gram/day niacin) of niacin-containing products, and the risk is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products [see Warnings and Precautions (5.1) and Drug Interactions (7.5)]. |  |  |  |  |  |
+| * Results based on a chemical assay except results with propranolol as indicated. † Results could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone. ‡ Simvastatin acid refers to the β-hydroxyacid of simvastatin. § The effect of amounts of grapefruit juice between those used in these two studies on simvastatin pharmacokinetics has not been studied. ¶ Double-strength: one can of frozen concentrate diluted with one can of water. Grapefruit juice was administered TID for 2 days, and 200 mL together with single dose simvastatin and 30 and 90 minutes following single dose simvastatin on Day 3. # Single-strength: one can of frozen concentrate diluted with 3 cans of water. Grapefruit juice was administered with breakfast for 3 days, and simvastatin was administered in the evening on Day 3. Þ Because Chinese patients have an increased risk for myopathy with simvastatin coadministered with lipid-modifying doses (≥ 1 gram/day niacin) of niacin-containing products, and the risk is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products [see Warnings and Precautions (5.1) and Drug Interactions (7.4)]. |  |  |  |  |  |
 
 In a study of 12 healthy volunteers, simvastatin at the 80 mg dose had no effect on the metabolism of the probe cytochrome P450 isoform 3A4 (CYP3A4) substrates midazolam and erythromycin.
 This indicates that simvastatin is not an inhibitor of CYP3A4, and, therefore, is not expected to affect the plasma levels of other drugs metabolized by CYP3A4.

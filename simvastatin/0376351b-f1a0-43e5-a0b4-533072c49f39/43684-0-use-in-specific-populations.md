@@ -34,7 +34,7 @@ Safety and effectiveness of simvastatin in patients 10 to 17 years of age with h
 Patients treated with simvastatin had an adverse reaction profile similar to that of patients treated with placebo.
 Doses greater than 40 mg have not been studied in this population.
 In this limited controlled study, there was no significant effect on growth or sexual maturation in the adolescent boys or girls, or on menstrual cycle length in girls.
-[See Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Studies (14.2).]
+[See Dosage and Administration (2.5), Adverse Reactions (6.1), Clinical Studies (14.2).]
 Adolescent females should be counseled on appropriate contraceptive methods while on simvastatin therapy [see Contraindications (4) and Use in Specific Populations (8.1)].
 Simvastatin has not been studied in patients younger than 10 years of age, nor in pre-menarchal girls.
 
@@ -53,11 +53,14 @@ The relative risk reductions of CHD death, non-fatal MI, coronary and non-corona
 In HPS, among 32,145 patients entering the active run-in period, there were 2 cases of myopathy/rhabdomyolysis; these patients were aged 67 and 73.
 Of the 7 cases of myopathy/rhabdomyolysis among 10,269 patients allocated to simvastatin, 4 were aged 65 or more (at baseline), of whom one was over 75.
 There were no overall differences in safety between older and younger patients in either 4S or HPS.
+Because advanced age (≥65 years) is a predisposing factor for myopathy, including rhabdomyolysis, simvastatin should be prescribed with caution in the elderly.
+In a clinical trial of patients treated with simvastatin 80 mg/day, patients ≥65 years of age had an increased risk of myopathy, including rhabdomyolysis, compared to patients <65 years of age.
+[See Warnings and Precautions (5.1) and Clinical Pharmacology (12.3).]
 
 ## 8.6 Renal Impairment
 
 Caution should be exercised when simvastatin is administered to patients with severe renal impairment.
-[See Dosage and Administration (2.4).]
+[See Dosage and Administration (2.6).]
 
 ## 8.7 Hepatic Impairment
 
