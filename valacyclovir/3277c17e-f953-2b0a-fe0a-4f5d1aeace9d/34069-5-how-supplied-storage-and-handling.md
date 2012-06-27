@@ -8,7 +8,7 @@ Bottle of 30 (NDC 59746-324-30)
 
 Bottle of 90 (NDC 59746-324-90)
 
-Bottle of 100 (NDC 59746-324-01)
+Bottle of 100 (NDC 59746-324-01) Bottle of 250 (NDC 59746-324-37)
 
 Bottle of 300 (NDC 59746-324-47)
 
@@ -20,7 +20,7 @@ Bottle of 30 (NDC 59746-325-30)
 
 Bottle of 90 (NDC 59746-325-90)
 
-Bottle of 100 (NDC 59746-325-01)
+Bottle of 100 (NDC 59746-325-01) Bottle of 250 (NDC 59746-325-37)
 
 Bottle of 300 (NDC 59746-325-47)
 

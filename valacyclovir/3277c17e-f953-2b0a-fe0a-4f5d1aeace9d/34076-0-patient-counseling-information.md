@@ -46,4 +46,4 @@ Patient labeling is provided as a tear-off leaflet at the end of this full presc
 
 Manufactured by: Jubilant Life Sciences Limited Roorkee - 247661, India.
 Marketed by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA.
-Revised: March, 2012
+Revised: May, 2012
