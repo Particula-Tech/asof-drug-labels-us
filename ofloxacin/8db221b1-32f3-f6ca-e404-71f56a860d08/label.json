@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA076527"
+  ],
+  "inn": "ofloxacin",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-0363-1",
+    "60505-0363-2"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "ofloxacin",
+      "name": "Ofloxacin Otic"
+    }
+  ],
+  "setid": "8db221b1-32f3-f6ca-e404-71f56a860d08",
+  "source": "dailymed"
+}
