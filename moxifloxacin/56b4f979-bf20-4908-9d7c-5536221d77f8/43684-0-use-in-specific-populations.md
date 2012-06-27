@@ -2,9 +2,10 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category C
+### Pregnancy Category C.
 
 Because no adequate or well-controlled studies have been conducted in pregnant women, AVELOX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
 Moxifloxacin was not teratogenic when administered to pregnant rats during organogenesis at oral doses as high as 500 mg/kg/day or 0.24 times the maximum recommended human dose based on systemic exposure (AUC), but decreased fetal body weights and slightly delayed fetal skeletal development (indicative of fetotoxicity) were observed.
 Intravenous administration of 80 mg/kg/day (approximately 2 times the maximum recommended human dose based on body surface area (mg/m2) to pregnant rats resulted in maternal toxicity and a marginal effect on fetal and placental weights and the appearance of the placenta.
 There was no evidence of teratogenicity at intravenous doses as high as 80 mg/kg/day.
@@ -43,12 +44,12 @@ In trials of intravenous use, 42% of AVELOX patients were greater than or equal 
 The clinical trial data demonstrate that the safety of intravenous AVELOX in patients aged 65 or older was similar to that of comparator-treated patients.
 In general, elderly patients may be more susceptible to drug-associated effects of the QT interval.
 Therefore, AVELOX should be avoided in patients taking drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia).
-[See Warnings and Precautions (5.3), Drug Interactions (7.4), and Clinical Pharmacology (12.3).]
+[see Warnings and Precautions (5.3), Drug Interactions (7.4), and Clinical Pharmacology (12.3).]
 
 ## 8.6 Renal Impairment
 
 The pharmacokinetic parameters of moxifloxacin are not significantly altered in mild, moderate, severe, or end-stage renal disease.
-No dosage adjustment is necessary in patients with renal impairment, including those patients requiring hemodialysis (HD) or continuous ambulatory peritoneal dialysis (CAPD) [see Dosage and Administration (2), and Clinical Pharmacology (12.3)].
+No dosage adjustment is necessary in patients with renal impairment, including those patients requiring hemodialysis (HD) or continuous ambulatory peritoneal dialysis (CAPD) [see Dosage and Administration (2), and Clinical Pharmacology (12.3).]
 
 ## 8.7 Hepatic Impairment
 

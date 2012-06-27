@@ -14,11 +14,11 @@ Co-administration with a high fat meal (that is, 500 calories from fat) does not
 
 Consumption of 1 cup of yogurt with moxifloxacin does not significantly affect the extent or rate of systemic absorption (AUC).
 
-Table 5: Mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given orally
+Table 5 Mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given orally
 
 |  | Cmax (mg/L) | AUC (mg•h/L) | Half-life (hr) |
 | --- | --- | --- | --- |
-| Single Dose Oral Healthy (n = 372) | 3.1 ± 1 | 36.1 ± 9.1 | 11.5 - 15.6Range of means from different studies |
+| Single Dose Oral Healthy (n = 372) | 3.1 ± 1 | 36.1 ± 9.1 | 11.5–15.6Range of means from different studies |
 | Multiple Dose Oral |  |  |  |
 | Healthy young male/female (n = 15) | 4.5 ± 0.5 | 48 ± 2.7 | 12.7 ± 1.9 |
 | Healthy elderly male (n = 8) | 3.8 ± 0.3 | 51.8 ± 6.7 |  |
@@ -26,7 +26,7 @@ Table 5: Mean (± SD) Cmax and AUC values following single and multiple doses of
 | Healthy young male (n = 8) | 3.6 ± 0.5 | 48.2 ± 9 |  |
 | Healthy young female (n = 9) | 4.2 ± 0.5 | 49.3 ± 9.5 |  |
 
-Table 6: Mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given by 1 hour IV infusion
+Table 6 Mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given by 1 hour IV infusion
 
 |  | Cmax (mg/L) | AUC (mg•h/L) | Half-life (hr) |
 | --- | --- | --- | --- |
@@ -40,7 +40,7 @@ Table 6: Mean (± SD) Cmax and AUC values following single and multiple doses of
 | Multiple Dose IV |  |  |  |
 | Healthy young male (n = 8) | 4.2 ± 0.8 | 38 ± 4.7 | 14.8 ± 2.2 |
 | Healthy elderly (n =12; 8 male, 4 female) | 6.1 ± 1.3 | 48.2 ± 0.9 | 10.1 ± 1.6 |
-| PatientsExpected Cmax (concentration obtained around the time of the end of the infusion (n = 107) |  |  |  |
+| PatientsExpected Cmax (concentration obtained around the time of the end of the infusion) (n = 107) |  |  |  |
 | Male (n = 58) | 4.2 ± 2.6 |  |  |
 | Female (n = 49) | 4.6 ± 1.5 |  |  |
 | <65 years (n = 52) | 4.1 ± 1.4 |  |  |
@@ -48,6 +48,8 @@ Table 6: Mean (± SD) Cmax and AUC values following single and multiple doses of
 
 Plasma concentrations increase proportionately with dose up to the highest dose tested (1200 mg single oral dose).
 The mean (± SD) elimination half-life from plasma is 12 ± 1.3 hours; steady-state is achieved after at least three days with a 400 mg once daily regimen.
+
+Figure 1 Mean Steady-State Plasma Concentrations of Moxifloxacin Obtained With Once Daily Dosing of 400 mg Either Orally (n=10) or by IV Infusion (n=12)
 
 ### Distribution
 
@@ -58,7 +60,7 @@ Moxifloxacin has been detected in the saliva, nasal and bronchial secretions, mu
 Moxifloxacin concentrations measured post-dose in various tissues and fluids following a 400 mg oral or IV dose are summarized in Table 7.
 The rates of elimination of moxifloxacin from tissues generally parallel the elimination from plasma.
 
-Table 7: Moxifloxacin Concentrations (mean ± SD) in Tissues and the Corresponding Plasma Concentrations After a Single 400 mg Oral or Intravenous DoseAll moxifloxacin concentrations were measured 3 hours after a single 400 mg dose, except the abdominal tissue and exudate concentrations which were measured at 2 hours post-dose and the sinus concentrations which were measured 3 hours post-dose after 5 days of dosing.
+Table 7 Moxifloxacin Concentrations (mean ± SD) in Tissues and the Corresponding Plasma Concentrations After a Single 400 mg Oral or Intravenous Dose
 
 | Tissue or Fluid | N | Plasma Concentration (mcg/mL) | Tissue or Fluid Concentration (mcg/mL or mcg/g) | Tissue Plasma Ratio |
 | --- | --- | --- | --- | --- |
@@ -78,6 +80,7 @@ Table 7: Moxifloxacin Concentrations (mean ± SD) in Tissues and the Correspondi
 | Abdominal tissue | 8 | 2.9 ± 0.5 | 7.6 ± 2 | 2.7 ± 0.8 |
 | Abdominal exudate | 10 | 2.3 ± 0.5 | 3.5 ±1.2 | 1.6 ± 0.7 |
 | Abscess fluid | 6 | 2.7 ± 0.7 | 2.3 ±1.5 | 0.8±0.4 |
+| All moxifloxacin concentrations were measured 3 hours after a single 400 mg dose, except the abdominal tissue and exudate concentrations which were measured at 2 hours post-dose and the sinus concentrations which were measured 3 hours post-dose after 5 days of dosing. |  |  |  |  |
 
 ### Metabolism
 
@@ -102,7 +105,8 @@ The mean (± SD) apparent total body clearance and renal clearance are 12 ± 2 L
 Following oral administration of 400 mg moxifloxacin for 10 days in 16 elderly (8 male; 8 female) and 17 young (8 male; 9 female) healthy volunteers, there were no age-related changes in moxifloxacin pharmacokinetics.
 In 16 healthy male volunteers (8 young; 8 elderly) given a single 200 mg dose of oral moxifloxacin, the extent of systemic exposure (AUC and Cmax) was not statistically different between young and elderly males and elimination half-life was unchanged.
 No dosage adjustment is necessary based on age.
-In large phase III studies, the concentrations around the time of the end of the infusion in elderly patients following intravenous infusion of 400 mg were similar to those observed in young patients [see Use In Specific Populations (8.5)].
+In large phase III studies, the concentrations around the time of the end of the infusion in elderly patients following intravenous infusion of 400 mg were similar to those observed in young patients.
+[see Use In Specific Populations (8.5).]
 
 #### Pediatric
 
@@ -150,9 +154,9 @@ No dosage adjustment is recommended for mild, moderate, or severe hepatic insuff
 In 400 mg single oral dose studies in 6 patients with mild (Child-Pugh Class A) and 10 patients with moderate (Child-Pugh Class B) hepatic insufficiency, moxifloxacin mean systemic exposure (AUC) was 78% and 102%, respectively, of 18 healthy controls and mean peak concentration (Cmax) was 79% and 84% of controls.
 
 The mean AUC of the sulfate conjugate of moxifloxacin (M1) increased by 3.9-fold (ranging up to 5.9-fold) and 5.7-fold (ranging up to 8-fold) in the mild and moderate groups, respectively.
-The mean Cmax of M1 increased by approximately 3-fold in both groups (ranging up to 4.7- and 3.9-fold).
+The mean Cmaxof M1 increased by approximately 3-fold in both groups (ranging up to 4.7- and 3.9-fold).
 The mean AUC of the glucuronide conjugate of moxifloxacin (M2) increased by 1.5-fold (ranging up to 2.5-fold) in both groups.
-The mean Cmax of M2 increased by 1.6- and 1.3-fold (ranging up to 2.7- and 2.1-fold), respectively.
+The mean Cmaxof M2 increased by 1.6- and 1.3-fold (ranging up to 2.7- and 2.1-fold), respectively.
 The clinical significance of increased exposure to the sulfate and glucuronide conjugates has not been studied.
 In a subset of patients participating in a clinical trial, the plasma concentrations of moxifloxacin and metabolites determined approximately at the moxifloxacin Tmax following the first intravenous or oral AVELOX dose in the Child-Pugh Class C patients (n=10) were similar to those in the Child-Pugh Class A/B patients (n=5), and also similar to those observed in healthy volunteer studies.
 
@@ -184,33 +188,34 @@ Moxifloxacin should be taken at least 4 hours before or 8 hours after antacids c
 #### Atenolol
 
 In a crossover study involving 24 healthy volunteers (12 male; 12 female), the mean atenolol AUC following a single oral dose of 50 mg atenolol with placebo was similar to that observed when atenolol was given concomitantly with a single 400 mg oral dose of moxifloxacin.
-The mean Cmax of single dose atenolol decreased by about 10% following co-administration with a single dose of moxifloxacin.
+The mean Cmaxof single dose atenolol decreased by about 10% following co-administration with a single dose of moxifloxacin.
 
 #### Calcium
 
 Twelve healthy volunteers were administered concomitant moxifloxacin (single 400 mg dose) and calcium (single dose of 500 mg Ca++ dietary supplement) followed by an additional two doses of calcium 12 and 24 hours after moxifloxacin administration.
 Calcium had no significant effect on the mean AUC of moxifloxacin.
-The mean Cmax was slightly reduced and the time to maximum plasma concentration was prolonged when moxifloxacin was given with calcium compared to when moxifloxacin was given alone (2.5 hours versus 0.9 hours).
+The mean Cmaxwas slightly reduced and the time to maximum plasma concentration was prolonged when moxifloxacin was given with calcium compared to when moxifloxacin was given alone (2.5 hours versus 0.9 hours).
 These differences are not considered to be clinically significant.
 
 #### Digoxin
 
 No significant effect of moxifloxacin (400 mg once daily for two days) on digoxin (0.6 mg as a single dose) AUC was detected in a study involving 12 healthy volunteers.
-The mean digoxin Cmax increased by about 50% during the distribution phase of digoxin.
-This transient increase in digoxin Cmax is not viewed to be clinically significant.
+The mean digoxin Cmaxincreased by about 50% during the distribution phase of digoxin.
+This transient increase in digoxin Cmaxis not viewed to be clinically significant.
 Moxifloxacin pharmacokinetics were similar in the presence or absence of digoxin.
 No dosage adjustment for moxifloxacin or digoxin is required when these drugs are administered concomitantly.
 
 #### Glyburide
 
-In diabetics, glyburide (2.5 mg once daily for two weeks pretreatment and for five days concurrently) mean AUC and Cmax were 12% and 21% lower, respectively, when taken with moxifloxacin (400 mg once daily for five days) in comparison to placebo.
+In diabetics, glyburide (2.5 mg once daily for two weeks pretreatment and for five days concurrently) mean AUC and Cmaxwere 12% and 21% lower, respectively, when taken with moxifloxacin (400 mg once daily for five days) in comparison to placebo.
 Nonetheless, blood glucose levels were decreased slightly in patients taking glyburide and moxifloxacin in comparison to those taking glyburide alone, suggesting no interference by moxifloxacin on the activity of glyburide.
 These interaction results are not viewed as clinically significant.
 
 #### Iron
 
-When moxifloxacin tablets were administered concomitantly with iron (ferrous sulfate 100 mg once daily for two days), the mean AUC and Cmax of moxifloxacin was reduced by 39% and 59%, respectively.
-Moxifloxacin should only be taken more than 4 hours before or 8 hours after iron products [see Dosage and Administration (2.2), Drug Interactions (7.1)].
+When moxifloxacin tablets were administered concomitantly with iron (ferrous sulfate 100 mg once daily for two days), the mean AUC and Cmaxof moxifloxacin was reduced by 39% and 59%, respectively.
+Moxifloxacin should only be taken more than 4 hours before or 8 hours after iron products.
+[see Dosage and Administration (2.2), Drug Interactions (7.1)].
 
 #### Itraconazole
 
@@ -219,7 +224,7 @@ In addition, moxifloxacin was shown not to affect the pharmacokinetics of itraco
 
 #### Morphine
 
-No significant effect of morphine sulfate (a single 10 mg intramuscular dose) on the mean AUC and Cmax of moxifloxacin (400 mg single dose) was observed in a study of 20 healthy male and female volunteers.
+No significant effect of morphine sulfate (a single 10 mg intramuscular dose) on the mean AUC and Cmaxof moxifloxacin (400 mg single dose) was observed in a study of 20 healthy male and female volunteers.
 
 #### Oral Contraceptives
 
@@ -242,7 +247,8 @@ The effect of co-administration of a 400 mg dose of moxifloxacin with theophylli
 #### Warfarin
 
 No significant effect of moxifloxacin (400 mg once daily for eight days) on the pharmacokinetics of R- and S-warfarin (25 mg single dose of warfarin sodium on the fifth day) was detected in a study involving 24 healthy volunteers.
-No significant change in prothrombin time was observed [see Adverse Reactions (6.2), Drug Interactions (7.2)].
+No significant change in prothrombin time was observed.
+[see Adverse Reactions (6.2), Drug Interactions (7.2)].
 
 ## 12.4 Microbiology
 
@@ -270,64 +276,64 @@ Moxifloxacin has been shown to be active against most isolates of the following 
 
 Gram-positive bacteria
 
-- Enterococcus faecalis
-- Staphylococcus aureus
-- Streptococcus anginosus
-- Streptococcus constellatus
-- Streptococcus pneumoniae (including multi-drug resistant strains [MDRSP]*)
-- Streptococcus pyogenes
+- •Enterococcus faecalis
+- •Staphylococcus aureus
+- •Streptococcus anginosus
+- •Streptococcus constellatus
+- •Streptococcus pneumoniae (including multi-drug resistant strains [MDRSP]*)
+- •Streptococcus pyogenes
 
 *MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are strains resistant to two or more of the following antibiotics: penicillin (MIC) ≥2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
 
-#### Gram-negative bacteria
+Gram-negative bacteria
 
-- Enterobacter cloacae
-- Escherichia coli
-- Haemophilus influenzae
-- Haemophilus parainfluenzae
-- Klebsiella pneumoniae
-- Moraxella catarrhalis
-- Proteus mirabilis
+- •Enterobacter cloacae
+- •Escherichia coli
+- •Haemophilusinfluenzae
+- •Haemophilusparainfluenzae
+- •Klebsiellapneumoniae
+- •Moraxella catarrhalis
+- •Proteus mirabilis
 
-#### Anaerobic bacteria
+Anaerobic bacteria
 
-- Bacteroides fragilis
-- Bacteroides thetaiotaomicron
-- Clostridium perfringens
-- Peptostreptococcus species
+- •Bacteroidesfragilis
+- •Bacteroidesthetaiotaomicron
+- •Clostridium perfringens
+- •Peptostreptococcus species
 
-#### Other microorganisms
+Other microorganisms
 
-- Chlamydophila pneumoniae
-- Mycoplasma pneumoniae
+- •Chlamydophilapneumoniae
+- •Mycoplasma pneumoniae
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for moxifloxacin.
 However, the efficacy of AVELOX in treating clinical infections due to these bacteria has not been established in adequate and well controlled clinical trials.
 
-#### Gram-positive bacteria
+Gram-positive bacteria
 
-- Staphylococcus epidermidis
-- Streptococcus agalactiae
-- Streptococcus viridans group
+- •Staphylococcus epidermidis
+- •Streptococcus agalactiae
+- •Streptococcus viridans group
 
-#### Gram-negative bacteria
+Gram-negative bacteria
 
-- Citrobacter freundii
-- Klebsiella oxytoca
-- Legionella pneumophila
+- •Citrobacterfreundii
+- •Klebsiellaoxytoca
+- •Legionella pneumophila
 
-#### Anaerobic bacteria
+Anaerobic bacteria
 
-- Fusobacterium species
-- Prevotella species
+- •Fusobacterium species
+- •Prevotella species
 
 ### Susceptibility Tests Methods
 
 When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-- Dilution Techniques:
+- •Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
@@ -335,18 +341,18 @@ The MICs should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method (broth and/or agar).
 1 The MIC values should be interpreted according to the criteria in Table 8.
 
-#### Diffusion Techniques:
+- •Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
 The zone size prove should be determined using a standardized test method.2,3 This procedure uses paper disks impregnated with 5 mcg moxifloxacin to test the susceptibility of bacteria to moxifloxacin.
 The disc diffusion interpretive criteria are provided in Table 8.
 
-#### Anaerobic Techniques:
+- •Anaerobic Techniques
 
 For anaerobic bacteria, the susceptibility to moxifloxacin can be determined by a standardized test method.4 The MIC values obtained should be interpreted according to the criteria provided in Table 8.
 
-Table 8: Susceptibility Test Interpretive Criteria for Moxifloxacin
+Table 8 Susceptibility Test Interpretive Criteria for Moxifloxacin
 
 |  | MIC (mcg/mL) |  |  | Zone Diameter (mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -354,12 +360,12 @@ Table 8: Susceptibility Test Interpretive Criteria for Moxifloxacin
 | Enterobacteriacae | ≤2 | 4 | ≥8 | ≥19 | 16–18 | ≤15 |
 | Enterococcus faecalis | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14 |
 | Staphylococcus aureus | ≤2 | 4 | ≥8 | ≥19 | 16–18 | ≤15 |
-| Haemophilus influenzae | ≤1 | a | a | ≥18 | a | a |
-| Haemophilus parainfluenzae | ≤1 | a | a | ≥18 | a | a |
-| Streptococcus pneumoniae | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14b |
-| Streptococcus species | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14b |
+| Haemophilusinfluenzae | ≤1 | -The current absence of data on moxifloxacin-resistant isolates precludes defining any results other than “Susceptible”. | - | ≥18 | - | - |
+| Haemophilusparainfluenzae | ≤1 | - | - | ≥18 | - | - |
+| Streptococcus pneumoniae | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14Isolates yielding test results (MIC or zone diameter) other than susceptible, should be submitted to a reference laboratory for additional testing. |
+| Streptococcus species | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14 |
 | Anaerobic bacteria | ≤2 | 4 | ≥8 | - | - | - |
-| S=susceptible, I=Intermediate, and R=resistant.a The current absence of data on moxifloxacin-resistant isolates precludes defining any results other than “Susceptible”. b Isolates yielding test results (MIC or zone diameter) other than susceptible, should be submitted to a reference laboratory for additional testing. |  |  |  |  |  |  |
+| S=susceptible, I=Intermediate, and R=resistant. |  |  |  |  |  |  |
 
 A report of “Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the infection site necessary to inhibit growth of the pathogen.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -367,21 +373,21 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of “Resistant” indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
-#### Quality Control
+- •Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay and the techniques of the individuals performing the test.1,2,3,4 Standard moxifloxacin powder should provide the following range of MIC values noted in Table 9.
 For the diffusion technique using the 5 mcg moxifloxacin disk, the criteria in Table 9 should be achieved.
 
-Table 9: Acceptable Control Ranges for Moxifloxacin
+Table 9 Acceptable Control Ranges for Moxifloxacin
 
 | Strains | MIC range (mcg/mL) | Zone Diameter (mm) |
 | --- | --- | --- |
-| Enterococcus faecalis ATCC 29212 | 0.06–0.5 | - |
+| Enterococcus faecalisATCC 29212 | 0.06–0.5 | - |
 | Escherichia coli ATCC 25922 | 0.008–0.06 | 28–35 |
-| Haemophilus influenzaeATCC 49247 | 0.008–0.03 | 31–39 |
-| Staphylococcus aureus ATCC29213 | 0.015–0.06 | - |
-| Staphylococcus aureus ATCC25923 | - | 28–35 |
+| HaemophilusinfluenzaeATCC 49247 | 0.008–0.03 | 31–39 |
+| Staphylococcus aureusATCC29213 | 0.015–0.06 | - |
+| Staphylococcus aureusATCC25923 | - | 28–35 |
 | Streptococcus pneumoniaeATCC 49619 | 0.06–0.25 | 25–31 |
-| Bacteroides fragilisATCC 25285 | 0.125–0.5 | - |
-| Bacteroides thetaiotaomicronATCC 29741 | 1–4 | - |
-| Eubacterium lentumATCC 43055 | 0.125–0.5 | - |
+| BacteroidesfragilisATCC 25285 | 0.125–0.5 | - |
+| BacteroidesthetaiotaomicronATCC 29741 | 1–4 | - |
+| EubacteriumlentumATCC 43055 | 0.125–0.5 | - |

@@ -36,8 +36,9 @@ The magnitude of QT prolongation may increase with increasing concentrations of 
 Therefore the recommended dose or infusion rate should not be exceeded.
 QT prolongation may lead to an increased risk for ventricular arrhythmias including torsade de pointes.
 No excess in cardiovascular morbidity or mortality attributable to QTc prolongation occurred with AVELOX treatment in over 15,500 patients in controlled clinical studies, including 759 patients who were hypokalemic at the start of treatment, and there was no increase in mortality in over 18,000 AVELOX tablet treated patients in a postmarketing observational study in which ECGs were not performed.
-Elderly patients using IV AVELOX may be more susceptible to drug-associated QT prolongation [see Use In Specific Populations (8.5)].
-In addition, AVELOX should be used with caution in patients with mild, moderate, or severe liver cirrhosis [see Clinical Pharmacology (12.3) and Patient Counseling Information (17.3)].
+Elderly patients using IV AVELOX may be more susceptible to drug-associated QT prolongation.
+[see Use In Specific Populations, (8.5).]
+In addition, AVELOX should be used with caution in patients with mild, moderate, or severe liver cirrhosis.[see Clinical Pharmacology (12.3) and Patient Counseling Information (17.3).]
 
 ## 5.4 Hypersensitivity Reactions
 
@@ -45,7 +46,8 @@ Serious anaphylactic reactions, some following the first dose, have been reporte
 Some reactions were accompanied by cardiovascular collapse, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
 Serious anaphylactic reactions require immediate emergency treatment with epinephrine.
 AVELOX should be discontinued at the first appearance of a skin rash or any other sign of hypersensitivity.
-Oxygen, intravenous steroids, and airway management, including intubation, may be administered as indicated [see Adverse Reactions (6) and Patient Counseling Information (17.3)].
+Oxygen, intravenous steroids, and airway management, including intubation, may be administered as indicated.
+[see Adverse Reactions (6) and Patient Counseling Information (17.3).]
 
 ## 5.5 Other Serious and Sometimes Fatal Reactions
 
@@ -53,12 +55,12 @@ Other serious and sometimes fatal events, some due to hypersensitivity, and some
 These events may be severe and generally occur following the administration of multiple doses.
 Clinical manifestations may include one or more of the following:
 
-- Fever, rash, or severe dermatologic reactions (for example, toxic epidermal necrolysis, Stevens-Johnson syndrome)
-- Vasculitis; arthralgia; myalgia; serum sickness
-- Allergic pneumonitis
-- Interstitial nephritis; acute renal insufficiency or failure
-- Hepatitis; jaundice; acute hepatic necrosis or failure
-- Anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities
+- •Fever, rash, or severe dermatologic reactions (for example, toxic epidermal necrolysis, Stevens-Johnson syndrome)
+- •Vasculitis; arthralgia; myalgia; serum sickness
+- •Allergic pneumonitis
+- •Interstitial nephritis; acute renal insufficiency or failure
+- •Hepatitis; jaundice; acute hepatic necrosis or failure
+- •Anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities
 
 The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted [see Patient Counseling Information (17.3) and Adverse Reactions (6.4).
 
@@ -70,7 +72,8 @@ Convulsions and increased intracranial pressure (including pseudotumor cerebri) 
 Fluoroquinolones may also cause central nervous system (CNS) events including: dizziness, confusion, tremors, hallucinations, depression, and, rarely, suicidal thoughts or acts.
 These reactions may occur following the first dose.
 If these reactions occur in patients receiving AVELOX, the drug should be discontinued and appropriate measures instituted.
-As with all fluoroquinolones, AVELOX should be used with caution in patients with known or suspected CNS disorders (for example, severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold [see Drug Interactions (7.4) Adverse Reactions (6.2, 6.4) and Patient Counseling Information (17.3)].
+As with all fluoroquinolones, AVELOX should be used with caution in patients with known or suspected CNS disorders (for example, severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold.
+[See Drug Interactions (7.4) Adverse Reactions (6.2, 6.4) and Patient Counseling Information (17.3).]
 
 ## 5.7 Clostridium Difficile-Associated Diarrhea
 
@@ -93,13 +96,15 @@ Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/
 
 The oral administration of AVELOX caused lameness in immature dogs.
 Histopathological examination of the weight-bearing joints of these dogs revealed permanent lesions of the cartilage.
-Related quinolone-class drugs also produce erosions of cartilage of weight-bearing joints and other signs of arthropathy in immature animals of various species [see Animal Toxicology and/or Pharmacology (13.2)].
+Related quinolone-class drugs also produce erosions of cartilage of weight-bearing joints and other signs of arthropathy in immature animals of various species.
+[See Animal Toxicology and/or Pharmacology (13.2).]
 
 ## 5.10 Photosensitivity/Phototoxicity
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (for example, burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolone antibiotics after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
-Drug therapy should be discontinued if phototoxicity occurs [see Adverse Reactions (6.4) and Pharmacokinetics (12.3)].
+Drug therapy should be discontinued if phototoxicity occurs.
+[see Adverse Reactions (6.4) and Pharmacokinetics (12.3).]
 
 ## 5.11 Development of Drug Resistant Bacteria
 

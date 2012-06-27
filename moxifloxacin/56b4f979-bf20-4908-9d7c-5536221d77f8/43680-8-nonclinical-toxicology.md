@@ -1,5 +1,3 @@
-# 13 NONCLINICAL TOXICOLOGY
-
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long term studies in animals to determine the carcinogenic potential of moxifloxacin have not been performed.

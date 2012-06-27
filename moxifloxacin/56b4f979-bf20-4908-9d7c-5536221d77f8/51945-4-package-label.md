@@ -1,8 +1,6 @@
-Avelox®
+Avelox® I.V.
 
-I.V.
-
-(moxifloxacin HCl in NaCl injection)
+(moxifloxacinHCl in NaCl injection)
 
 400 mg*/250 mL 0.8% Saline (1.6 mg/mL)
 
@@ -14,7 +12,7 @@ Avelox Five Tablet Carton
 
 08917542 NDC 0085-1733-03
 
-Avelox moxifloxacin HCI Tablets
+Aveloxmoxifloxacin HCI Tablets
 
 FIVE TABLETS
 

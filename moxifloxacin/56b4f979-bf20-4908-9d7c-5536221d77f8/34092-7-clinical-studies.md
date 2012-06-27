@@ -7,18 +7,18 @@ This study compared AVELOX with clarithromycin (500 mg twice daily for 10 days) 
 Clinical success was assessed at 7-17 days post-therapy.
 The clinical success for AVELOX was 89% (222/250) compared to 89% (224/251) for clarithromycin.
 
-Table 10: Clinical Success Rates at Follow-Up Visit for Clinically Evaluable Patients by Pathogen (Acute Bacterial Exacerbation of Chronic Bronchitis)
+Table 10 Clinical Success Rates at Follow-Up Visit for Clinically Evaluable Patients by Pathogen (Acute Bacterial Exacerbation of Chronic Bronchitis)
 
 | PATHOGEN | AVELOX | Clarithromycin |
 | --- | --- | --- |
 | Streptococcus pneumoniae | 16/16 (100%) | 20/23 (87%) |
-| Haemophilus influenzae | 33/37 (89%) | 36/41 (88%) |
-| Haemophilus parainfluenzae | 16/16 (100%) | 14/14 (100%) |
+| Haemophilusinfluenzae | 33/37 (89%) | 36/41 (88%) |
+| Haemophilusparainfluenzae | 16/16 (100%) | 14/14 (100%) |
 | Moraxella catarrhalis | 29/34 (85%) | 24/24 (100%) |
 | Staphylococcus aureus | 15/16 (94%) | 6/8 (75%) |
-| Klebsiella pneumoniae | 18/20 (90%) | 10/11 (91%) |
+| Klebsiellapneumoniae | 18/20 (90%) | 10/11 (91%) |
 
-The microbiological eradication rates (eradication plus presumed eradication) in AVELOX treated patients were Streptococcus pneumoniae 100%, Haemophilus influenzae 89%, Haemophilus parainfluenzae 100%, Moraxella catarrhalis 85%, Staphylococcus aureus 94%, and Klebsiella pneumoniae 85%.
+The microbiological eradication rates (eradication plus presumed eradication) in AVELOX treated patients were Streptococcus pneumoniae 100%, Haemophilusinfluenzae89%, Haemophilusparainfluenzae100%, Moraxella catarrhalis85%, Staphylococcus aureus 94%, and Klebsiellapneumoniae85%.
 
 ## 14.2 Community Acquired Pneumonia
 
@@ -37,15 +37,15 @@ The clinical success rate at the 21-28 days post-therapy visit for AVELOX was 84
 
 The clinical success rates by pathogen across four CAP studies are presented in Table 11.
 
-Table 11: Clinical Success Rates By Pathogen (Pooled CAP Studies)
+Table 11 Clinical Success Rates By Pathogen (Pooled CAP Studies)
 
 | PATHOGEN | AVELOX |  |
 | --- | --- | --- |
 | Streptococcus pneumoniae | 80/85 | (94%) |
 | Staphylococcus aureus | 17/20 | (85%) |
-| Klebsiella pneumoniae | 11/12 | (92%) |
-| Haemophilus influenzae | 56/61 | (92%) |
-| Chlamydophila pneumoniae | 119/128 | (93%) |
+| Klebsiellapneumoniae | 11/12 | (92%) |
+| Haemophilusinfluenzae | 56/61 | (92%) |
+| Chlamydophilapneumoniae | 119/128 | (93%) |
 | Mycoplasma pneumoniae | 73/76 | (96%) |
 | Moraxella catarrhalis | 11/12 | (92%) |
 
@@ -57,7 +57,7 @@ The clinical and bacteriological success rates based on the number of patients t
 
 * MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are strains resistant to two or more of the following antibiotics: penicillin (MIC ≥ 2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
 
-Table 12: Clinical and Bacteriological Success Rates for AVELOX-Treated MDRSP CAP Patients (Population: Valid for Efficacy
+Table 12 Clinical and Bacteriological Success Rates for AVELOX-Treated MDRSP CAP Patients (Population: Valid for Efficacy)
 
 | Screening Susceptibility | Clinical Success |  | Bacteriological Success |  |
 | --- | --- | --- | --- | --- |
@@ -71,7 +71,7 @@ Table 12: Clinical and Bacteriological Success Rates for AVELOX-Treated MDRSP CA
 Not all isolates were resistant to all antimicrobial classes tested.
 Success and eradication rates are summarized in Table 13.
 
-Table 13: Clinical Success Rates and Microbiological Eradication Rates for Resistant Streptococcus pneumoniae (Community Acquired Pneumonia)
+Table 13 Clinical Success Rates and Microbiological Eradication Rates for Resistant Streptococcus pneumoniae (Community Acquired Pneumonia)
 
 | S. pneumoniae with MDRSP | Clinical Success | Bacteriological Eradication Rate |
 | --- | --- | --- |
@@ -89,7 +89,7 @@ Clinical success (cure plus improvement) at the 7 to 21 day post-therapy test of
 
 An additional non-comparative study was conducted to gather bacteriological data and to evaluate microbiological eradication in adult patients treated with AVELOX 400 mg once daily for seven days.
 All patients (n = 336) underwent antral puncture in this study.
-Clinical success rates and eradication/presumed eradication rates at the 21 to 37 day follow-up visit were 97% (29 out of 30) for Streptococcus pneumoniae, 83% (15 out of 18) for Moraxella catarrhalis, and 80% (24 out of 30) for Haemophilus influenzae.
+Clinical success rates and eradication/presumed eradication rates at the 21 to 37 day follow-up visit were 97% (29 out of 30) for Streptococcus pneumoniae, 83% (15 out of 18) for Moraxella catarrhalis, and 80% (24 out of 30) for Haemophilusinfluenzae.
 
 ## 14.5 Uncomplicated Skin and Skin Structure Infections
 
@@ -108,22 +108,22 @@ This study enrolled 804 patients, 632 of which were valid for the efficacy analy
 Surgical incision and drainage or debridement was performed on 55% of the AVELOX treated and 53% of the comparator treated patients in these studies and formed an integral part of therapy for this indication.
 Success rates varied with the type of diagnosis ranging from 61% in patients with infected ulcers to 90% in patients with complicated erysipelas.
 These rates were similar to those seen with comparator drugs.
-The overall success rates in the evaluable patients and the clinical success by pathogen are shown in Tables 14 and 15.
+The overall success rates in the evaluable patients and the clinical success by pathogen are shown in Tables 14and 15.
 
-Table 14: Overall Clinical Success Rates in Patients with Complicated Skin and Skin Structure Infections
+Table 14 Overall Clinical Success Rates in Patients with Complicated Skin and Skin Structure Infections
 
 | Study | AVELOX n/ N (%) | Comparator n/N (%) | 95% Confidence Intervalof difference in success rates between Moxifloxacin and comparator (Moxifloxacin – comparator) |
 | --- | --- | --- | --- |
 | North America | 125/162 (77.2%) | 141/173 (81.5%) | (-14.4%, 2%) |
 | International | 254/315 (80.6%) | 268/317 (84.5%) | (-9.4%, 2.2%) |
 
-Table 14: Clinical Success Rates by Pathogen in Patients with Complicated Skin and Skin Structure Infections
+Table 15 Clinical Success Rates by Pathogen in Patients with Complicated Skin and Skin Structure Infections
 
 | Pathogen | AVELOX n/ N (%) | Comparator n/N (%) |
 | --- | --- | --- |
 | Staphylococcus aureus (methicillin-susceptible strains)methicillin susceptibility was only determined in the North American Study | 106/129 (82.2%) | 120/137 (87.6%) |
 | Escherichia coli | 31/38 (81.6 %) | 28/33 (84.8 %) |
-| Klebsiella pneumoniae | 11/12 (91.7 %) | 7/10 (70%) |
+| Klebsiellapneumoniae | 11/12 (91.7 %) | 7/10 (70%) |
 | Enterobacter cloacae | 9/11 (81.8%) | 4/7 (57.1%) |
 
 ## 14.7 Complicated Intra-Abdominal Infections
@@ -136,7 +136,7 @@ This study enrolled 595 patients, 511 of which were considered clinically evalua
 The clinically evaluable population consisted of subjects with a surgically confirmed complicated infection, at least 5 days of treatment and a 25-50 day follow-up assessment for patients at the Test of Cure visit.
 The overall clinical success rates in the clinically evaluable patients are shown in Table 16.
 
-Table 16: Clinical Success Rates in Patients with Complicated Intra-Abdominal Infections
+Table 16 Clinical Success Rates in Patients with Complicated Intra-Abdominal Infections
 
 | Study | AVELOX n/ N (%) | Comparator n/N (%) | 95% Confidence Intervalof difference in success rates between AVELOX and comparator (AVELOX – comparator) |
 | --- | --- | --- | --- |

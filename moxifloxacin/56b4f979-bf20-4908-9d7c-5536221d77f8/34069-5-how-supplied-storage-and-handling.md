@@ -4,7 +4,7 @@
 
 AVELOX (moxifloxacin hydrochloride) Tablets are available as oblong, dull red film-coated tablets containing 400 mg moxifloxacin.
 
-The tablet is coded with the word “BAYER” on one side and “M400” on the reverse side.
+- The tablet is coded with the word “BAYER” on one side and “M400” on the reverse side.
 
 | Package | NDC Code |
 | --- | --- |

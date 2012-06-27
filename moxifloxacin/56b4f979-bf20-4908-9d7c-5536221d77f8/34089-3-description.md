@@ -7,13 +7,13 @@ Its empirical formula is C21H24FN3O4*HCl and its chemical structure is as follow
 
 ## 11.1 AVELOX Tablets
 
-- AVELOX Tablets are available as film-coated tablets containing moxifloxacin hydrochloride (equivalent to 400 mg moxifloxacin).
-- The inactive ingredients are microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol and ferric oxide.
+- •AVELOX Tablets are available as film-coated tablets containing moxifloxacin hydrochloride (equivalent to 400 mg moxifloxacin).
+- •The inactive ingredients are microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol and ferric oxide.
 
 ## 11.2 AVELOX IV
 
-- AVELOX IV is available in ready-to-use 250 mL latex-free flexibags as a sterile, preservative free, 0.8% sodium chloride aqueous solution of moxifloxacin hydrochloride (containing 400 mg moxifloxacin) with pH ranging from 4.1 to 4.6.
-- The appearance of the intravenous solution is yellow.
+- •AVELOX IV is available in ready-to-use 250 mL latex-free flexibags as a sterile, preservative free, 0.8% sodium chloride aqueous solution of moxifloxacin hydrochloride (containing 400 mg moxifloxacin) with pH ranging from 4.1 to 4.6.
+- •The appearance of the intravenous solution is yellow.
   The color does not affect, nor is it indicative of, product stability.
-- The inactive ingredients are sodium chloride, USP, Water for Injection, USP, and may include hydrochloric acid and/or sodium hydroxide for pH adjustment.
-- AVELOX IV contains approximately 34.2 mEq (787 mg) of sodium in 250 mL.
+- •The inactive ingredients are sodium chloride, USP, Water for Injection, USP, and may include hydrochloric acid and/or sodium hydroxide for pH adjustment.
+- •AVELOX IV contains approximately 34.2 mEq (787 mg) of sodium in 250 mL.

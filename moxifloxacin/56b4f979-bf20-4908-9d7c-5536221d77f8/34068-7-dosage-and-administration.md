@@ -5,16 +5,16 @@
 The dose of AVELOX is 400 mg (orally or as an intravenous infusion) once every 24 hours.
 The duration of therapy depends on the type of infection as described in Table 1.
 
-Table 1: Dosage and Duration of Therapy in Adult Patients
+Table 1 Dosage and Duration of Therapy in Adult Patients
 
-| Type of InfectionDue to the designated pathogens [see Indications and Usage (1), for IV use, see Use in Specific Populations (8.5)]. | Dose Every 24 hours | DurationSequential therapy (intravenous to oral) may be instituted at the discretion of the physician (days) |
+| Type of InfectionDue to the designated pathogens [see Indications and Usage (1), for IV use, see Use in Specific Populations (8.5)]. | Dose Every 24 hours | Duration (days) |
 | --- | --- | --- |
 | Acute Bacterial Sinusitis (1.1) | 400 mg | 10 |
 | Acute Bacterial Exacerbation of Chronic Bronchitis (1.2) | 400 mg | 5 |
-| Community Acquired Pneumonia | 400 mg | 7-14 |
+| Community Acquired Pneumonia | 400 mg | 7–14 |
 | Uncomplicated Skin and Skin Structure Infections (SSSI) (1.4) | 400 mg | 7 |
-| Complicated SSSI (1.5) | 400 mg | 7-21 |
-| Complicated Intra-Abdominal Infections (1.6) | 400 mg | 5-14 |
+| Complicated SSSI (1.5) | 400 mg | 7–21 |
+| Complicated Intra-Abdominal Infections (1.6) | 400 mg | 5–14 |
 
 Intravenous formulation is indicated when it offers a route of administration advantageous to the patient (for example, patient cannot tolerate an oral dosage form).
 When switching from intravenous to oral formulation, no dosage adjustment is necessary.
@@ -53,8 +53,8 @@ If the same intravenous line or a Y-type line is used for sequential infusion of
 
 To prepare AVELOX IV injection premix in flexible containers:
 
-1. Close flow control clamp of administration set.
-2. Remove cover from port at bottom of container.
-3. Insert piercing pin from an appropriate transfer set (for example, one that does not require excessive force, such as ISO compatible administration set) into port with a gentle twisting motion until pin is firmly seated.
+1. 1.Close flow control clamp of administration set.
+2. 2.Remove cover from port at bottom of container.
+3. 3.Insert piercing pin from an appropriate transfer set (for example, one that does not require excessive force, such as ISO compatible administration set) into port with a gentle twisting motion until pin is firmly seated.
 
 NOTE: Refer to complete directions that have been provided with the administration set.

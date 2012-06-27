@@ -4,15 +4,15 @@
 
 The following serious and otherwise important adverse reactions are discussed in greater detail in the warnings and precautions section of the label:
 
-- Tendinopathy and Tendon Rupture [see Warnings and Precautions (5.1)]
-- QT Prolongation [see Warnings and Precautions (5.3)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
-- Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.5)]
-- Central Nervous System Effects [see Warnings and Precautions (5.6)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.7)]
-- Peripheral Neuropathy [see Warnings and Precautions (5.8)]
-- Photosensitivity/Phototoxicity [see Warnings and Precautions (5.10)]
-- Development of Drug Resistant Bacteria [see Warnings and Precautions (5.11)]
+- •Tendinopathy and Tendon Rupture [see Warnings and Precautions (5.1)]
+- •QT Prolongation [see Warnings and Precautions (5.3)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
+- •Other Serious and Sometimes Fatal Reactions [see Warnings and Precautions (5.5)]
+- •Central Nervous System Effects [see Warnings and Precautions (5.6)]
+- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.7)]
+- •Peripheral Neuropathy [see Warnings and Precautions (5.8)]
+- •Photosensitivity/Phototoxicity [see Warnings and Precautions (5.10)]
+- •Development of Drug Resistant Bacteria [see Warnings and Precautions (5.11)]
 
 ## 6.2 Clinical Trial Experience
 
@@ -31,7 +31,7 @@ The most common adverse events leading to discontinuation with the 400 mg IV/PO 
 Adverse reactions occurring in ≥1% of AVELOX-treated patients and less common adverse reactions, occurring in 0.1 to <1% of AVELOX-treated patients, are shown in Tables 2 and Table 3, respectively.
 The most common adverse drug reactions (≥3%) are nausea, diarrhea, headache, and dizziness.
 
-Table 2: Common (≥ 1.0%) Adverse Reactions Reported in Active-Controlled Clinical Trials with AVELOX
+Table 2 Common (≥ 1.0%) Adverse Reactions Reported in Active-Controlled Clinical Trials with AVELOX
 
 | System Organ Class | Adverse ReactionsMedDRA Version 12.0 | %(N=14,981) |
 | --- | --- | --- |
@@ -50,9 +50,9 @@ Table 2: Common (≥ 1.0%) Adverse Reactions Reported in Active-Controlled Clini
 |  | Dizziness | 3.0 |
 | Psychiatric Disorders | Insomnia | 1.9 |
 
-Table 3: Less Common (0.1 to <1.0%) Adverse Reactions Reported in Active-Controlled Clinical Trials with AVELOX (N=14,981)
+Table 3 Less Common (0.1 to <1.0%) Adverse Reactions Reported in Active-Controlled Clinical Trials with AVELOX (N=14,981)
 
-| System Organ Class | Adverse ReactionsMedDRA Version 12.0 |
+| System Organ Class | Adverse Reactionsa |
 | --- | --- |
 | Blood and Lymphatic System Disorders | Thrombocythemia |
 |  | Eosinophilia |
@@ -169,6 +169,8 @@ Table 3: Less Common (0.1 to <1.0%) Adverse Reactions Reported in Active-Control
 |  | Hypotension |
 |  | Phlebitis |
 
+aMedDRA Version 12.0
+
 ## 6.3 Laboratory Changes
 
 Changes in laboratory parameters, without regard to drug relationship, which are not listed above and which occurred in ≥ 2% of patients and at an incidence greater than in controls included: increases in MCH, neutrophils, WBCs, PT ratio, ionized calcium, chloride, albumin, globulin, bilirubin; decreases in hemoglobin, RBCs, neutrophils, eosinophils, basophils, PT ratio, glucose, pO2, bilirubin, and amylase.
@@ -176,20 +178,20 @@ It cannot be determined if any of the above laboratory abnormalities were caused
 
 ## 6.4 Postmarketing Experience
 
-Table 4 lists adverse reactions that have been identified during post-approval use of AVELOX.
-Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+- Table 4 lists adverse reactions that have been identified during post-approval use of AVELOX.
+  Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Table 4: Postmarketing Reports of Adverse Drug Reactions
+Table 4 Postmarketing Reports of Adverse Drug Reactions
 
 | System/Organ Class | Adverse Reaction |
 | --- | --- |
-| Blood and Lymphatic System Disorders | AgranulocytosisPancytopenia [see Warnings and Precautions (5.5) |
+| Blood and Lymphatic System Disorders | AgranulocytosisPancytopenia[see Warnings and Precautions (5.5)] |
 | Cardiac Disorders | Ventricular tachyarrhythmias (including in very rare cases cardiac arrest and torsade de pointes, and usually in patients with concurrent severe underlying proarrhythmic conditions) |
 | Hepatobiliary Disorders | Hepatitis (predominantly cholestatic)Hepatic failure (including fatal cases)Jaundice Acute hepatic necrosis [see Warnings and Precautions (5.5)] |
-| Immune System Disorders | Anaphylactic reactionAnaphylactic shock Angioedema (including laryngeal edema) [see Warnings and Precautions (5.4, 5.5)] |
+| Immune System Disorders | Anaphylactic reactionAnaphylactic shock Angioedema (including laryngeal edema)[see Warnings and Precautions (5.4, 5.5)] |
 | Musculoskeletal and Connective Tissue Disorders | Tendon rupture [see Warnings and Precautions (5.1)] |
-| Nervous System Disorders | Altered coordinationAbnormal gait [see Warnings and Precautions (5.8)]Myasthenia gravis (exacerbation of) [see Warnings and Precautions (5.2)] |
+| Nervous System Disorders | Altered coordinationAbnormal gait[see Warnings and Precautions (5.8)]Myasthenia gravis (exacerbation of)[see Warnings and Precautions (5.2)] |
 | Psychiatric Disorders | Psychotic reaction (very rarely culminating in self-endangering behavior) |
 | Renal and Urinary Disorders | Renal dysfunctionInterstitial nephritis [see Warnings and Precautions (5.5)] |
-| Respiratory, Thoracic and Mediastinal Disorders | Allergic pneumonitis [see Warnings and Precautions (5.5)] |
-| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.10)]Stevens-Johnson syndromeToxic epidermal necrolysis [see Warnings and Precautions (5.5)] |
+| Respiratory, Thoracic and Mediastinal Disorders | Allergic pneumonitis[see Warnings and Precautions (5.5)] |
+| Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction[see Warnings and Precautions (5.10)]Stevens-Johnson syndromeToxic epidermal necrolysis[see Warnings and Precautions (5.5)] |
