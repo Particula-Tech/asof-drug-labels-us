@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091244"
+  ],
+  "inn": "testosterone",
+  "labeler": "West-ward Pharmaceutical Corp",
+  "package_ndcs": [
+    "0143-9726-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "testosterone cypionate",
+      "name": "Testosterone Cypionate"
+    }
+  ],
+  "setid": "f60c5520-b336-44a2-95d5-f274939fa595",
+  "source": "dailymed"
+}
