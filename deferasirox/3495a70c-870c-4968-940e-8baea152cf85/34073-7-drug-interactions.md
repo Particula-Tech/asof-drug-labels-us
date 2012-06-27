@@ -6,7 +6,7 @@ Although deferasirox has a lower affinity for aluminum than for iron, do not adm
 ## 7.1 Effect of Deferasirox on Drug Metabolizing Enzymes
 
 Deferasirox inhibits human CYP3A4, CYP2C8, CYP1A2, CYP2A6, CYP2D6, and CYP2C19 in vitro.
-The clinical significance of deferasirox inhibition of CYP1A2, CYP2A6, CYP2D6, and CYP2C19 is unknown.
+The clinical significance of deferasirox inhibition of CYP2A6, CYP2D6, and CYP2C19 is unknown.
 
 ## 7.2 Interaction with Midazolam and Other Agents Metabolized by CYP3A4
 
