@@ -12,7 +12,7 @@ For adverse experiences occurring in greater than 1% of patients with hypertensi
 
 PERCENT OF PATIENTS IN CONTROLLED STUDIES
 
-|  | ZESTRIL(n=1349)Incidence(discontinuation) | ZESTRIL/Hydrochlorothiazide(n=629)Incidence(discontinuation) | PLACEBO(n=207)Incidence(discontinuation) |
+|  | ZESTRIL (n=1349) Incidence (discontinuation) | ZESTRIL/ Hydrochlorothiazide (n=629) Incidence (discontinuation) | PLACEBO (n=207) Incidence (discontinuation) |
 | --- | --- | --- | --- |
 | Body as a Whole |  |  |  |
 | Fatigue | 2.5 (0.3) | 4.0 (0.5) | 1.0 (0.0) |
@@ -55,7 +55,7 @@ The following table lists those adverse experiences which occurred in greater th
 
 Controlled Trials
 
-|  | ZESTRIL(n=407)Incidence (discontinuation)12 weeks | Placebo(n=155)Incidence(discontinuation) 12 weeks |
+|  | ZESTRIL (n=407) Incidence (discontinuation) 12 weeks | Placebo (n=155) Incidence (discontinuation) 12 weeks |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Chest Pain | 3.4 (0.2) | 1.3 (0.0) |

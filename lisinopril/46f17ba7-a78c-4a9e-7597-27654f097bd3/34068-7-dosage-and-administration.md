@@ -27,7 +27,7 @@ For patients with creatinine clearance ≥ 10 mL/min ≤ 30 mL/min (serum creati
 For patients with creatinine clearance < 10 mL/min (usually on hemodialysis) the recommended initial dose is 2.5 mg.
 The dosage may be titrated upward until blood pressure is controlled or to a maximum of 40 mg daily.
 
-| Renal Status | Creatinine ClearancemL/min | Initial Dosemg/day |
+| Renal Status | Creatinine Clearance mL/min | Initial Dose mg/day |
 | --- | --- | --- |
 | Normal Renal Function to Mild Impairment | >30 | 10 |
 | Moderate to Severe Impairment | ≥10 ≤30 | 5 |

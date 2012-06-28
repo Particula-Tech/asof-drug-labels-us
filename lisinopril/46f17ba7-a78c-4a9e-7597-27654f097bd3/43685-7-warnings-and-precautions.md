@@ -23,7 +23,7 @@ Patients with a history of angioedema unrelated to ACE inhibitor therapy may be 
 Anaphylactoid Reactions During Desensitization: Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions.
 In the same patients, these reactions were avoided when ACE inhibitors were temporarily withheld, but they reappeared upon inadvertent rechallenge.
 
-Anaphylactoid Reactions During Membrane Exposure: Sudden and potentially life—threatening anaphylactoid reactions have been reported in some patients dialyzed with high-flux membranes (e.g., AN69®AN69 is a registered trademark of HOSPAL Ltd.) and treated concomitantly with an ACE inhibitor.
+Anaphylactoid Reactions During Membrane Exposure: Sudden and potentially life—threatening anaphylactoid reactions have been reported in some patients dialyzed with high-flux membranes (e.g., AN69® AN69 is a registered trademark of HOSPAL Ltd.) and treated concomitantly with an ACE inhibitor.
 In such patients, dialysis must be stopped immediately, and aggressive therapy for anaphylactoid reactions must be initiated.
 Symptoms have not been relieved by antihistamines in these situations.
 In these patients, consideration should be given to using a different type of dialysis membrane or a different class of antihypertensive agent.
@@ -184,7 +184,7 @@ Gold: Nitritoid reactions (symptoms include facial flushing, nausea, vomiting an
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 There was no evidence of a tumorigenic effect when lisinopril was administered for 105 weeks to male and female rats at doses up to 90 mg/kg/day (about 56 or 9 timesCalculations assume a human weight of 50 kg and human body surface area of 1.62m2 the maximum recommended daily human dose, based on body weight and body surface area, respectively).
-There was no evidence of carcinogenicity when lisinopril was administered for 92 weeks to (male and female) mice at doses up to 135 mg/kg/day (about 84 times the maximum recommended daily human dose).
+There was no evidence of carcinogenicity when lisinopril was administered for 92 weeks to (male and female) mice at doses up to 135 mg/kg/day (about 84 times2 the maximum recommended daily human dose).
 This dose was 6.8 times the maximum human dose based on body surface area in mice.
 
 Lisinopril was not mutagenic in the Ames microbial mutagen test with or without metabolic activation.
