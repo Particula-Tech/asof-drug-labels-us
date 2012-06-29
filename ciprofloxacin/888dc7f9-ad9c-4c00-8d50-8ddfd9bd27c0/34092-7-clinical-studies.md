@@ -83,9 +83,9 @@ CIPRO Oral Suspension should not be administered through feeding or NG (nasogast
 
 Instruct the patient:
 
-- To shake CIPRO Oral Suspension vigorously each time before use for approximately 15 seconds
-- To always use the graduated measuring spoon to obtain the exact dose.
-- Not chew the microcapsules, but to swallow them.
-- That water may be taken afterwards.
-- Reclose the bottle properly after each use according to instructions on the cap.
-- After treatment has been completed, Cipro Oral Suspension should not be reused.
+- •To shake CIPRO Oral Suspension vigorously each time before use for approximately 15 seconds
+- •To always use the graduated measuring spoon to obtain the exact dose.
+- •Not chew the microcapsules, but to swallow them.
+- •That water may be taken afterwards.
+- •Reclose the bottle properly after each use according to instructions on the cap.
+- •After treatment has been completed, Cipro Oral Suspension should not be reused.

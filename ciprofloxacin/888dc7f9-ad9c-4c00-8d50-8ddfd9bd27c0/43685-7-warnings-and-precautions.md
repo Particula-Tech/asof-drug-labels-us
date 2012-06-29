@@ -38,12 +38,12 @@ Other serious and sometimes fatal events, some due to hypersensitivity, and some
 These events may be severe and generally occur following the administration of multiple doses.
 Clinical manifestations may include one or more of the following:
 
-- Fever, rash, or severe dermatologic reactions (for example, toxic epidermal necrolysis, Stevens-Johnson syndrome);
-- Vasculitis; arthralgia; myalgia; serum sickness;
-- Allergic pneumonitis;
-- Interstitial nephritis; acute renal insufficiency or failure;
-- Hepatitis; jaundice; acute hepatic necrosis or failure;
-- Anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
+- •Fever, rash, or severe dermatologic reactions (for example, toxic epidermal necrolysis, Stevens-Johnson syndrome);
+- •Vasculitis; arthralgia; myalgia; serum sickness;
+- •Allergic pneumonitis;
+- •Interstitial nephritis; acute renal insufficiency or failure;
+- •Hepatitis; jaundice; acute hepatic necrosis or failure;
+- •Anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
 
 The drug should be discontinued immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted (see PRECAUTIONS: Information for Patientsand ADVERSE REACTIONS).
 
@@ -68,12 +68,12 @@ As with all fluoroquinolones, ciprofloxacin should be used with caution in patie
 Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CIPRO, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
-C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+C. difficileproduces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficilecause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficilemay need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 ## Peripheral Neuropathy
@@ -135,7 +135,7 @@ Alteration of the dosage regimen is necessary for patients with impairment of re
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (for example, burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolones after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
-Drug therapy should be discontinued if phototoxicity occurs (See ADVERSE REACTIONS/Postmarketing Adverse Event Reports).
+Drug therapy should be discontinued if phototoxicity occurs (See ADVERSE REACTIONS/Postmarketing Adverse Event Reports).Postmarketing Adverse Event Reports).
 
 As with any potent drug, periodic assessment of organ system functions, including renal, hepatic, and hematopoietic function, is advisable during prolonged therapy.
 
@@ -145,36 +145,36 @@ Prescribing CIPRO Tablets and CIPRO Oral Suspension in the absence of a proven o
 
 Patients should be advised:
 
-- To contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue CIPRO treatment.
+- •To contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue CIPRO treatment.
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
-- That fluoroquinolones like CIPRO may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+- •That fluoroquinolones like CIPRO may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
   Patients should call their healthcare provider right away if they have any worsening muscle weakness or breathing problems.
-- That antibacterial drugs including CIPRO Tablets and CIPRO Oral Suspension should only be used to treat bacterial infections.
+- •That antibacterial drugs including CIPRO Tablets and CIPRO Oral Suspension should only be used to treat bacterial infections.
   They do not treat viral infections (for example, the common cold).
   When CIPRO Tablets and CIPRO Oral Suspension are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
   Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by CIPRO Tablets and CIPRO Oral Suspension or other antibacterial drugs in the future.
-- That ciprofloxacin may be taken with or without meals and to drink fluids liberally.
+- •That ciprofloxacin may be taken with or without meals and to drink fluids liberally.
   As with other quinolones, concurrent administration of ciprofloxacin with magnesium/aluminum antacids, polymeric phosphate binders (for example, sevelamer, lanthanum carbonate) or sucralfate, Videx® (didanosine) chewable/buffered tablets or pediatric powder, other highly buffered drugs, or with other products containing calcium, iron or zinc should be avoided.
   Ciprofloxacin may be taken two hours before or six hours after taking these products.
   Ciprofloxacin should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone since absorption of ciprofloxacin may be significantly reduced; however, ciprofloxacin may be taken with a meal that contains these products.
-- That ciprofloxacin may be associated with hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash or other allergic reaction.
-- That photosensitivity/phototoxicity has been reported in patients receiving quinolones.
+- •That ciprofloxacin may be associated with hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash or other allergic reaction.
+- •That photosensitivity/phototoxicity has been reported in patients receiving quinolones.
   Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.
   If patients need to be outdoors while using quinolones, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, patients should contact their physician.
-- That peripheral neuropathies have been associated with ciprofloxacin use.
+- •That peripheral neuropathies have been associated with ciprofloxacin use.
   If symptoms of peripheral neuropathy including pain, burning, tingling, numbness and/or weakness develop, they should discontinue treatment and contact their physicians.
-- That ciprofloxacin may cause dizziness and lightheadedness; therefore, patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
-- That ciprofloxacin increases the effects of tizanidine (Zanaflex®).
+- •That ciprofloxacin may cause dizziness and lightheadedness; therefore, patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
+- •That ciprofloxacin increases the effects of tizanidine (Zanaflex®).
   Patients should not use ciprofloxacin if they are already taking tizanidine.
-- That ciprofloxacin may increase the effects of theophylline and caffeine.
+- •That ciprofloxacin may increase the effects of theophylline and caffeine.
   There is a possibility of caffeine accumulation when products containing caffeine are consumed while taking quinolones.
-- That convulsions have been reported in patients receiving quinolones, including ciprofloxacin, and to notify their physician before taking this drug if there is a history of this condition.
-- That ciprofloxacin has been associated with an increased rate of adverse events involving joints and surrounding tissue structures (like tendons) in pediatric patients (less than 18 years of age).
+- •That convulsions have been reported in patients receiving quinolones, including ciprofloxacin, and to notify their physician before taking this drug if there is a history of this condition.
+- •That ciprofloxacin has been associated with an increased rate of adverse events involving joints and surrounding tissue structures (like tendons) in pediatric patients (less than 18 years of age).
   Parents should inform their child's physician if the child has a history of joint-related problems before taking this drug.
   Parents of pediatric patients should also notify their child's physician of any joint-related problems that occur during or following ciprofloxacin therapy.
   (See WARNINGS, PRECAUTIONS, Pediatric Use and ADVERSE REACTIONS.)
-- That diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+- •That diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, patients should contact their physician as soon as possible.
 
@@ -277,31 +277,40 @@ Careful monitoring of clozapine associated adverse effects and appropriate adjus
 
 ### Sildenafil
 
-Following concomitant administration of a single oral dose of 50 mg sildenafil with 500 mg ciprofloxacin to healthy subjects, the mean Cmax and mean AUC of sildenafil were both increased approximately two-fold.
+Following concomitant administration of a single oral dose of 50 mg sildenafil with 500 mg ciprofloxacin to healthy subjects, the mean Cmaxand mean AUC of sildenafil were both increased approximately two-fold.
 Therefore, sildenafil should be used with caution when co-administered with ciprofloxacin.
 
 ### Class IA or III Antiarrhythmics
 
-Precaution should be taken when using ciprofloxacin concomitantly with class IA or III antiarrhythmics as ciprofloxacin may have an additive effect on the QT interval (see WARNINGS, Prolongation of the QT Interval and PRECAUTIONS,Geriatric Use).
+Precaution should be taken when using ciprofloxacin concomitantly with class IA or III antiarrhythmics as ciprofloxacin may have an additive effect on the QT interval (see WARNINGS, Prolongation of the QT Interval and PRECAUTIONS,Geriatric UseGeriatric).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Eight in vitro mutagenicity tests have been conducted with ciprofloxacin, and the test results are listed below:
 
-- Salmonella/Microsome Test (Negative)
-- E. coli DNA Repair Assay (Negative)
-- Mouse Lymphoma Cell Forward Mutation Assay (Positive)
-- Chinese Hamster V79 Cell HGPRT Test (Negative)
-- Syrian Hamster Embryo Cell Transformation Assay (Negative)
-- Saccharomyces cerevisiae Point Mutation Assay (Negative)
-- Saccharomyces cerevisiae Mitotic Crossover and Gene Conversion Assay (Negative)
-- Rat Hepatocyte DNA Repair Assay (Positive)
+Salmonella/Microsome Test (Negative)
+
+E. coli DNA Repair Assay (Negative)
+
+Mouse Lymphoma Cell Forward Mutation Assay (Positive)
+
+Chinese Hamster V79 Cell HGPRT Test (Negative)
+
+Syrian Hamster Embryo Cell Transformation Assay (Negative)
+
+Saccharomyces cerevisiae Point Mutation Assay (Negative)
+
+Saccharomyces cerevisiae Mitotic Crossover and Gene Conversion Assay (Negative)
+
+Rat Hepatocyte DNA Repair Assay (Positive)
 
 Thus, 2 of the 8 tests were positive, but results of the following 3 in vivo test systems gave negative results:
 
-- Rat Hepatocyte DNA Repair Assay
-- Micronucleus Test (Mice)
-- Dominant Lethal Test (Mice)
+Rat Hepatocyte DNA Repair Assay
+
+Micronucleus Test (Mice)
+
+Dominant Lethal Test (Mice)
 
 Long-term carcinogenicity studies in rats and mice resulted in no carcinogenic or tumorigenic effects due to ciprofloxacin at daily oral dose levels up to 250 and 750 mg/kg to rats and mice, respectively (approximately 1.7- and 2.5- times the highest recommended therapeutic dose based upon mg/m2).
 
@@ -391,7 +400,7 @@ Geriatric patients are at increased risk for developing severe tendon disorders 
 This risk is further increased in patients receiving concomitant corticosteroid therapy.
 Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
 Caution should be used when prescribing CIPRO to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential side effect and advised to discontinue CIPRO and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur (See BOXED WARNING, WARNINGS, and ADVERSE REACTIONS/Postmarketing Adverse Event Reports).
+Patients should be informed of this potential side effect and advised to discontinue CIPRO and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur (See BOXED WARNING, WARNINGS, and ADVERSE REACTIONS/Postmarketing Adverse Event Reports).Postmarketing Adverse Event Reports).
 
 In a retrospective analysis of 23 multiple-dose controlled clinical trials of ciprofloxacin encompassing over 3500 ciprofloxacin treated patients, 25% of patients were greater than or equal to 65 years of age and 10% were greater than or equal to 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals on any drug therapy cannot be ruled out.

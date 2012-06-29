@@ -25,13 +25,13 @@ A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produ
 
 Steady-state Pharmacokinetic Parameters Following Multiple Oral and IV Doses
 
-| Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
-| --- | --- | --- | --- | --- |
-| AUC (mcg•hr/mL) | q12h, P.O. 13.7a | q12h, IV 12.7a | q12h, P.O. 31.6b | q8h, IV 32.9c |
-| Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
-| aAUC 0-12h |  |  |  |  |
-| bAUC 24h=AUC0-12h x 2 |  |  |  |  |
-| cAUC 24h=AUC0-8h x 3 |  |  |  |  |
+| Parameters | 500 mg | 400 mg | 750 mg | 400 mg |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| AUC (mcg•hr/mL) | q12h, P.O. 13.7a | q12h, IV 12.7a | q12h, P.O. 31.6b | q8h, IV 32.9c |  |  |  |
+| Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |  |  |  |
+| aAUC 0-12h |  |  |  |  |  |  |  |
+| bAUC 24h=AUC0-12h x 2 |  |  |  |  |  |  |  |
+| cAUC 24h=AUC0-8h x 3 |  |  |  |  |  |  |  |
 
 ## Distribution
 

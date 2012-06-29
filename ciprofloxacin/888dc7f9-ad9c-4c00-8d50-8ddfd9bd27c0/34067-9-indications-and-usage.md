@@ -5,25 +5,25 @@ Please see DOSAGE AND ADMINISTRATION for specific recommendations.
 
 ## Adult Patients
 
-Urinary Tract Infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Serratia marcescens, Proteus mirabilis, Providencia rettgeri, Morganella morganii, Citrobacter diversus, Citrobacter freundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus epidermidis, Staphylococcus saprophyticus, or Enterococcus faecalis.
+Urinary Tract Infections caused by Escherichia coli, Klebsiellapneumoniae, Enterobacter cloacae, Serratiamarcescens, Proteus mirabilis, Providenciarettgeri, Morganellamorganii, Citrobacterdiversus, Citrobacterfreundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus epidermidis, Staphylococcus saprophyticus, or Enterococcus faecalis.
 
 Acute Uncomplicated Cystitis in Females caused by Escherichia coli or Staphylococcus saprophyticus.
 
 Chronic Bacterial Prostatitis caused by Escherichia coli or Proteus mirabilis.
 
-Lower Respiratory Tract Infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Pseudomonas aeruginosa, Haemophilus influenzae, Haemophilus parainfluenzae, or penicillin-susceptible Streptococcus pneumoniae.* Also, Moraxella catarrhalis for the treatment of acute exacerbations of chronic bronchitis.
+Lower Respiratory Tract Infections caused by Escherichia coli, Klebsiellapneumoniae, Enterobacter cloacae, Proteus mirabilis, Pseudomonas aeruginosa, Haemophilusinfluenzae, Haemophilusparainfluenzae, or penicillin-susceptible Streptococcus pneumoniae.* Also, Moraxella catarrhalis for the treatment of acute exacerbations of chronic bronchitis.
 
 *Ciprofloxacin is not a drug of first choice in the treatment of presumed or confirmed pneumonia secondary to Streptococcus pneumoniae.
 
-Acute Sinusitis caused by Haemophilus influenzae, penicillin-susceptible Streptococcus pneumoniae, or Moraxella catarrhalis.
+Acute Sinusitis caused by Haemophilusinfluenzae, penicillin-susceptible Streptococcus pneumoniae, or Moraxella catarrhalis.
 
-Skin and Skin Structure Infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Proteus vulgaris, Providencia stuartii, Morganella morganii, Citrobacter freundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus aureus, methicillin-susceptible Staphylococcus epidermidis, or Streptococcus pyogenes.
+Skin and Skin Structure Infections caused by Escherichia coli, Klebsiellapneumoniae, Enterobacter cloacae, Proteus mirabilis, Proteus vulgaris, Providenciastuartii, Morganellamorganii, Citrobacterfreundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus aureus, methicillin-susceptible Staphylococcus epidermidis, or Streptococcus pyogenes.
 
-Bone and Joint Infections caused by Enterobacter cloacae, Serratia marcescens, or Pseudomonas aeruginosa.
+Bone and Joint Infections caused by Enterobacter cloacae, Serratiamarcescens, or Pseudomonas aeruginosa.
 
-Complicated Intra-Abdominal Infections (used in combination with metronidazole) caused by Escherichia coli, Pseudomonas aeruginosa, Proteus mirabilis, Klebsiella pneumoniae, or Bacteroides fragilis.
+Complicated Intra-Abdominal Infections (used in combination with metronidazole) caused by Escherichia coli, Pseudomonas aeruginosa, Proteus mirabilis, Klebsiellapneumoniae, or Bacteroidesfragilis.
 
-Infectious Diarrhea caused by Escherichia coli (enterotoxigenic strains), Campylobacter jejuni, Shigella boydii †, Shigella dysenteriae, Shigella flexneri or Shigella sonnei† when antibacterial therapy is indicated.
+Infectious Diarrhea caused by Escherichia coli (enterotoxigenic strains), Campylobacter jejuni, Shigellaboydii†, Shigelladysenteriae, Shigellaflexneri or Shigellasonnei† when antibacterial therapy is indicated.
 
 †Although treatment of infections due to this organism in this organ system demonstrated a clinically significant outcome, efficacy was studied in fewer than 10 patients.
 

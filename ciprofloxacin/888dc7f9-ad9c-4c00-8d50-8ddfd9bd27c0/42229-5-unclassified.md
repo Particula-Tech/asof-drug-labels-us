@@ -37,16 +37,16 @@ Streptococcus pyogenes
 
 | Campylobacter jejuni | Proteus mirabilis |
 | --- | --- |
-| Citrobacter diversus | Proteus vulgaris |
-| Citrobacter freundii | Providencia rettgeri |
-| Enterobacter cloacae | Providencia stuartii |
+| Citrobacterdiversus | Proteus vulgaris |
+| Citrobacterfreundii | Providenciarettgeri |
+| Enterobacter cloacae | Providenciastuartii |
 | Escherichia coli | Pseudomonas aeruginosa |
-| Haemophilus influenzae | Salmonella typhi |
-| Haemophilus parainfluenzae | Serratia marcescens |
-| Klebsiella pneumoniae | Shigella boydii |
-| Moraxella catarrhalis | Shigella dysenteriae |
-| Morganella morganii | Shigella flexneri |
-| Neisseria gonorrhoeae | Shigella sonnei |
+| Haemophilusinfluenzae | Salmonella typhi |
+| Haemophilusparainfluenzae | Serratiamarcescens |
+| Klebsiellapneumoniae | Shigellaboydii |
+| Moraxella catarrhalis | Shigelladysenteriae |
+| Morganellamorganii | Shigellaflexneri |
+| Neisseria gonorrhoeae | Shigellasonnei |
 
 Ciprofloxacin has been shown to be active against Bacillus anthracis both in vitro and by use of serum levels as a surrogate marker (see INDICATIONS AND USAGE and INHALATIONAL ANTHRAX – ADDITIONAL INFORMATION).
 
@@ -62,12 +62,12 @@ Staphylococcus hominis
 
 ### Gram-negative bacteria
 
-| Acinetobacter lwoffi | Pasteurella multocida |
+| Acinetobacterlwoffi | Pasteurellamultocida |
 | --- | --- |
-| Aeromonas hydrophila | Salmonella enteritidis |
-| Edwardsiella tarda | Vibrio cholerae |
-| Enterobacter aerogenes | Vibrio parahaemolyticus |
-| Klebsiella oxytoca | Vibrio vulnificus |
+| Aeromonashydrophila | Salmonella enteritidis |
+| Edwardsiellatarda | Vibrio cholerae |
+| Enterobacteraerogenes | Vibrio parahaemolyticus |
+| Klebsiellaoxytoca | Vibrio vulnificus |
 | Legionella pneumophila | Yersinia enterocolitica |
 
 ## Susceptibility Test Methods
@@ -75,10 +75,10 @@ Staphylococcus hominis
 When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-- Dilution Techniques: Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
+- •Dilution Techniques: Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
   These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
   The MICs should be determined using a standardized test method (broth and/or agar).1 The MIC values should be interpreted according to criteria provided in Table 1.
-- Diffusion Techniques: Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+- •Diffusion Techniques: Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
   The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
   The zone size should be determined using a standardized test method.2 This procedure uses paper disks impregnated with 5 mcg ciprofloxacin to test the susceptibility of bacteria to ciprofloxacin.
   The disc diffusion interpretive criteria are provided in Table 1.
@@ -105,7 +105,7 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone, which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of “Resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
 
-- Quality Control: Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
+- •Quality Control: Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
   For dilution technique, standard ciprofloxacin powder should provide the MIC values according to criteria outlined in Table 2.
   For diffusion technique, the 5-mcg ciprofloxacin disk should provide the zone diameters outlined in Table 2.
 
@@ -113,11 +113,11 @@ Table 2: Quality Control for Susceptibility Testing of Ciprofloxacin
 
 | Strains | MIC range (mcg/mL) | Zone Diameter (mm) |
 | --- | --- | --- |
-| Enterococcus faecalis ATCC 29212 | 0.25–2 | - |
+| Enterococcus faecalisATCC 29212 | 0.25–2 | - |
 | Escherichia coli ATCC 25922 | 0.004–0.015 | 30–40 |
-| Haemophilus influenzae ATCC 49247 | 0.004–0.03 | 34–42 |
+| HaemophilusinfluenzaeATCC 49247 | 0.004–0.03 | 34–42 |
 | Pseudomonas aeruginosa ATCC 27853 | 0.25–1 | 25–33 |
 | Staphylococcus aureus ATCC29213 | 0.12–0.5 | - |
 | Staphylococcus aureus ATCC25923 | - | 22–30 |
 | Neisseria gonorrhoeae ATCC 49226 N. gonorrhoeae ATCC 49226 tested by agar dilution procedure using GC agar and 1% defined growth supplement in a 5% CO2 environment at 35–37°C for 20–24 hours.3 | 0.001–0.008 | 48–58 |
-| C. jejuni ATCC 33560C. jejuni ATCC 33560 tested by broth microdilution procedure using cation adjusted Mueller Hinton broth with 2.5–5% lysed horse blood in a microaerophilic environment at 36–37°C for 48 hours and for 42°C for 24 hours,2 respectively. | 0.06–0.25 and 0.03–0.12 | - |
+| C. jejuniATCC 33560C. jejuni ATCC 33560 tested by broth microdilution procedure using cation adjusted Mueller Hinton broth with 2.5–5% lysed horse blood in a microaerophilic environment at 36–37°C for 48 hours and for 42°C for 24 hours,2 respectively. | 0.06–0.25 and 0.03–0.12 | - |
