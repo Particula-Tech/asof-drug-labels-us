@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022497"
+  ],
+  "inn": "bupropion",
+  "labeler": "IntelGenx Corp",
+  "package_ndcs": [
+    "14350-450-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "bupropion hydrochloride",
+      "name": "FORFIVO"
+    }
+  ],
+  "setid": "54c6ab59-6645-ae3e-810c-9c1a698feefb",
+  "source": "dailymed"
+}
