@@ -13,18 +13,14 @@ Tablets of 100 mg atenolol, NDC 0310-0101 (round, flat, uncoated white tablets i
 Store at controlled room temperature, 20-25°C (68-77°F) [see USP].
 Dispense in well-closed, light-resistant containers.
 
-TENORMIN is a trademark of the Astrazeneca group of companies
+TENORMIN is a trademark of the AstraZeneca group of companies
 
 ©AstraZeneca 2002, 2003, 2004, 2008
 
-Manufactured for:
+Distributed by:
 
 AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-By: IPR Pharmaceuticals, Inc.
-
-Canovanas, PR 00729
-
-July 2011
+02/2012
