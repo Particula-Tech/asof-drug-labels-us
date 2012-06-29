@@ -15,7 +15,7 @@ Prior to the initiation of the next cycle of therapy, the ANC should be ≥ 1 x 
 
 ## 5.2 Infections
 
-Infection, including pneumonia and sepsis, has been reported in patients in clinical trials and in post-marketing reports.
+Infection, including pneumonia and sepsis, has been reported in adult and pediatric patients in clinical trials and in postmarketing reports.
 Infection has been associated with hospitalization, septic shock and death.
 Patients with myelosuppression following treatment with TREANDA are more susceptible to infections.
 Patients with myelosuppression following TREANDA treatment should be advised to contact a physician if they have symptoms or signs of infection.
@@ -33,7 +33,7 @@ Discontinuation should be considered in patients with Grade 3 or 4 infusion reac
 
 ## 5.4 Tumor Lysis Syndrome
 
-Tumor lysis syndrome associated with TREANDA treatment has been reported in patients in clinical trials and in post-marketing reports.
+Tumor lysis syndrome associated with TREANDA treatment has been reported in patients in clinical trials and in postmarketing reports.
 The onset tends to be within the first treatment cycle of TREANDA and, without intervention, may lead to acute renal failure and death.
 Preventive measures include maintaining adequate volume status, and close monitoring of blood chemistry, particularly potassium and uric acid levels.
 Allopurinol has also been used during the beginning of TREANDA therapy.
@@ -41,7 +41,7 @@ However, there may be an increased risk of severe skin toxicity when TREANDA and
 
 ## 5.5 Skin Reactions
 
-A number of skin reactions have been reported in clinical trials and post-marketing safety reports.
+A number of skin reactions have been reported in clinical trials and postmarketing safety reports.
 These events have included rash, toxic skin reactions and bullous exanthema.
 Some events occurred when TREANDA was given in combination with other anticancer agents, so the precise relationship to TREANDA is uncertain.
 
@@ -61,7 +61,7 @@ The association with TREANDA therapy has not been determined.
 
 ## 5.7 Extravasation
 
-There are post-marketing reports of bendamustine extravasations resulting in hospitalizations from erythema, marked swelling, and pain.
+There are postmarketing reports of bendamustine extravasations resulting in hospitalizations from erythema, marked swelling, and pain.
 Precautions should be taken to avoid extravasation, including monitoring of the intravenous infusion site for redness, swelling, pain, infection, and necrosis during and after administration of TREANDA.
 
 ## 5.8 Use in Pregnancy

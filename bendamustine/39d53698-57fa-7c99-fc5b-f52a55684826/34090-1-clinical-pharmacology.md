@@ -62,7 +62,7 @@ Bendamustine should not be used in patients with moderate (AST or ALT 2.5 - 10 x
 
 ### Effect of Age
 
-Bendamustine exposure (as measured by AUC and Cmax) has been studied in patients ages 31 through 84 years.
+Bendamustine exposure (as measured by AUC and Cmax) has been studied in adult patients ages 31 through 84 years.
 The pharmacokinetics of bendamustine (AUC and Cmax) were not significantly different between patients less than or greater than/equal to 65 years of age.
 [See Use in Specific Populations (8.4, 8.5)]
 
@@ -79,4 +79,4 @@ The significance of this difference on the safety and efficacy of TREANDA in Jap
 
 ## 12.4 Pharmacokinetics/Pharmacodynamics
 
-Based on the pharmacokinetics/pharmacodynamics analyses of data from NHL patients, a correlation was observed between nausea and bendamustine Cmax.
+Based on the pharmacokinetics/pharmacodynamics analyses of data from adult NHL patients, a correlation was observed between nausea and bendamustine Cmax.

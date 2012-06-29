@@ -33,7 +33,7 @@ Table 5: Efficacy Data for CLL
 
 Kaplan-Meier estimates of progression-free survival comparing TREANDA with chlorambucil are shown in Figure 1.
 
-## 14.2 Non-Hodgkin's Lymphoma (NHL)
+## 14.2 Non-Hodgkin Lymphoma (NHL)
 
 The efficacy of TREANDA was evaluated in a single arm study of 100 patients with indolent B-cell NHL that had progressed during or within six months of treatment with rituximab or a rituximab-containing regimen.
 Patients were included if they relapsed within 6 months of either the first dose (monotherapy) or last dose (maintenance regimen or combination therapy) of rituximab.

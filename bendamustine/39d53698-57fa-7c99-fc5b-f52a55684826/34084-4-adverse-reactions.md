@@ -171,7 +171,7 @@ Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patie
 | *Patients may have reported more than 1 adverse reaction. NOTE: Patients counted only once in each preferred term category and once in each system organ class category. |  |  |
 
 Hematologic toxicities, based on laboratory values and CTC grade, in NHL patients treated in both single arm studies combined are described in Table 4.
-Clinically important chemistry laboratory values that were new or worsened from baseline and occurred in >1% of patients at grade 3 or 4, in NHL patients treated in both single arm studies combined were hyperglycemia (3%), elevated creatinine (2%), hyponatremia (2%), and hypocalcemia (2%).
+Clinically important chemistry laboratory values that were new or worsened from baseline and occurred in >1% of patients at Grade 3 or 4, in NHL patients treated in both single arm studies combined were hyperglycemia (3%), elevated creatinine (2%), hyponatremia (2%), and hypocalcemia (2%).
 
 Table 4: Incidence of Hematology Laboratory Abnormalities in Patients Who Received TREANDA in the NHL Studies
 
@@ -186,12 +186,12 @@ Table 4: Incidence of Hematology Laboratory Abnormalities in Patients Who Receiv
 
 In both studies, serious adverse reactions, regardless of causality, were reported in 37% of patients receiving TREANDA.
 The most common serious adverse reactions occurring in ≥5% of patients were febrile neutropenia and pneumonia.
-Other important serious adverse reactions reported in clinical trials and/or post-marketing experience were acute renal failure, cardiac failure, hypersensitivity, skin reactions, pulmonary fibrosis, and myelodysplastic syndrome.
+Other important serious adverse reactions reported in clinical trials and/or postmarketing experience were acute renal failure, cardiac failure, hypersensitivity, skin reactions, pulmonary fibrosis, and myelodysplastic syndrome.
 
 Serious drug-related adverse reactions reported in clinical trials included myelosuppression, infection, pneumonia, tumor lysis syndrome and infusion reactions [see Warnings and Precautions (5)].
 Adverse reactions occurring less frequently but possibly related to TREANDA treatment were hemolysis, dysgeusia/taste disorder, atypical pneumonia, sepsis, herpes zoster, erythema, dermatitis, and skin necrosis.
 
-## 6.3 Post-Marketing Experience
+## 6.3 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of TREANDA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: anaphylaxis; and injection or infusion site reactions including phlebitis, pruritus, irritation, pain, and swelling.

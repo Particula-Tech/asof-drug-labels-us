@@ -20,7 +20,23 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of TREANDA in pediatric patients have not been established.
+The effectiveness of TREANDA in pediatric patients has not been established.
+TREANDA was evaluated in a single Phase 1/2 trial in pediatric patients with leukemia.
+The safety profile for TREANDA in pediatric patients was consistent with that seen in adults, and no new safety signals were identified.
+
+The trial included pediatric patients from 1-19 years of age with relapsed or refractory acute leukemia, including 27 patients with acute lymphocytic leukemia (ALL) and 16 patients with acute myeloid leukemia (AML).
+TREANDA was administered as an intravenous infusion over 60 minutes on Days 1 and 2 of each 21-day cycle.
+Doses of 90 and 120 mg/m2 were evaluated.
+The Phase 1 portion of the study determined that the recommended Phase 2 dose of TREANDA in pediatric patients was 120 mg/m2.
+
+A total of 32 patients entered the Phase 2 portion of the study at the recommended dose and were evaluated for response.
+There was no treatment response (CR+ CRp) in any patient at this dose.
+However, there were 2 patients with ALL who achieved a CR at a dose of 90 mg/m2 in the Phase 1 portion of the study.
+
+In the above-mentioned pediatric trial, the pharmacokinetics of TREANDA at 90 and 120 mg/m2 doses were evaluated in 5 and 38 patients, respectively, aged 1 to 19 years (median age of 10 years).
+
+The geometric mean body surface adjusted clearance of bendamustine was 14.2 L/h/m2.
+The exposures (AUC0-24 and Cmax) to bendamustine in pediatric patients following a 120 mg/m2 intravenous infusion over 60 minutes were similar to those in adult patients following the same 120 mg/m2 dose.
 
 ## 8.5 Geriatric Use
 
@@ -34,7 +50,7 @@ The overall response rate for patients 65 years or older was 47% (n=71) for TREA
 In patients younger than 65 years of age, the median progression-free survival was 19 months in the TREANDA group and 8 months in the chlorambucil group.
 In patients 65 years or older, the median progression-free survival was 12 months in the TREANDA group and 8 months in the chlorambucil group.
 
-Non-Hodgkin's Lymphoma
+Non-Hodgkin Lymphoma
 
 Efficacy (Overall Response Rate and Duration of Response) was similar in patients < 65 years of age and patients ≥ 65 years.
 Irrespective of age, all of the 176 patients experienced at least one adverse reaction.
@@ -64,7 +80,7 @@ The ORR for men (n=90) and women (n=58) in the chlorambucil group was 24% and 28
 In this study, the median progression-free survival for men was 19 months in the TREANDA treatment group and 6 months in the chlorambucil treatment group.
 For women, the median progression-free survival was 13 months in the TREANDA treatment group and 8 months in the chlorambucil treatment group.
 
-Non-Hodgkin’s Lymphoma
+Non-Hodgkin Lymphoma
 
 The pharmacokinetics of bendamustine were similar in male and female patients with indolent NHL.
 No clinically-relevant differences between genders were seen in efficacy (ORR and DR).
