@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Carbidopa and levodopa extended-release tablets are for the treatment of Parkinson's disease and syndrome.
+Carbidopa and levodopa extended-release tablets are an extended-release combination of carbidopa and levodopa for the treatment of Parkinson’s disease and syndrome.
 
 Carbidopa, USP, an inhibitor of aromatic amino acid decarboxylation, is a white, crystalline compound, slightly soluble in water, with a molecular weight of 244.25.
 It is designated chemically as(-)-L-alpha-hydrazino-alpha-methyl-beta-(3,4-dihydroxybenzene) propanoic acid monohydrate.

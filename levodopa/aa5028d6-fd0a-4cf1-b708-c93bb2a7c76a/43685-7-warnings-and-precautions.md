@@ -136,9 +136,7 @@ In reproduction studies with carbidopa and levodopa immediate-release, no effect
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-### Pregnancy Category C
+### Teratogenic Effects. Pregnancy Category C
 
 No teratogenic effects were observed in a study in mice receiving up to 20 times the maximum recommended human dose of carbidopa and levodopa immediate-release.
 There was a decrease in the number of live pups delivered by rats receiving approximately 2 times the maximum recommended human dose of carbidopa and approximately 5 times the maximum recommended human dose of levodopa during organogenesis.

@@ -16,8 +16,9 @@ Dispense in a tight, light resistant container as defined in the USP using a chi
 
 Keep container tightly closed.
 
-DO NOT STORE ABOVE 30°C (86°F).
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+[See USP Controlled Room Temperature.]
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED SEPTEMBER 2011 CBLVER:R11
+REVISED JUNE 2012 CBLVER:R12

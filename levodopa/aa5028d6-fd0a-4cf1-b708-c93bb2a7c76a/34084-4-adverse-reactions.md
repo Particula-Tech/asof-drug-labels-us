@@ -5,7 +5,7 @@ The adverse experience frequency profile of carbidopa and levodopa extended-rele
 
 Table 1 Clinical Adverse Experiences Occurring In 1% or Greater of Patients
 
-| Adverse Experience | Carbidopa and Levodopa Extended-release n=491 % | Carbidopa and Levodopa Immediate-release n=524 % |
+| Adverse Experience | Carbidopa and Levodopa Extended-release n = 491 % | Carbidopa and Levodopa Immediate-release n = 524 % |
 | --- | --- | --- |
 | Dyskinesia | 16.5 | 12.2 |
 | Nausea | 5.5 | 5.7 |

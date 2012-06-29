@@ -28,7 +28,7 @@ The interval between doses of carbidopa and levodopa extended-release tablets sh
 
 A guideline for initiation of carbidopa and levodopa extended-release tablets is shown in Table 3.
 
-Table 3 Guidelines for Initial Conversion from Carbidopa and Levodopa Immediate-release to Carbidopa and Levodopa Extended-release Tablets
+Table 3 Guidelines for Initial Conversion from Carbidopa and Levodopa Immediate-release Tablets to Carbidopa and Levodopa Extended-release Tablets
 
 | Carbidopa and Levodopa Immediate-release Tablets | Carbidopa and Levodopa Extended-release Tablets |
 | --- | --- |
