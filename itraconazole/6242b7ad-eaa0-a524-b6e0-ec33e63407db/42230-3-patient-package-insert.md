@@ -186,7 +186,9 @@ Robins), Tikosyn™ (Pfizer, Inc.), Propulsid® (Janssen Pharmaceutica Products,
 
 Printed in USA
 
-Revised April 2012
+Revised June 2012
+
+Product of Ireland
 
 Manufactured by: JOLLC, Gurabo, Puerto Rico 00778
 
