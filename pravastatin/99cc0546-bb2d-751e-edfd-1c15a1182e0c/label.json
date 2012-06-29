@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA076714"
+  ],
+  "inn": "pravastatin",
+  "labeler": "Dr.Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-229-01",
+    "55111-229-05",
+    "55111-229-30",
+    "55111-229-90",
+    "55111-230-01",
+    "55111-230-05",
+    "55111-230-30",
+    "55111-230-90",
+    "55111-231-01",
+    "55111-231-05",
+    "55111-231-30",
+    "55111-231-90",
+    "55111-274-01",
+    "55111-274-05",
+    "55111-274-30",
+    "55111-274-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pravastatin sodium",
+      "name": "Pravastatin sodium"
+    }
+  ],
+  "setid": "99cc0546-bb2d-751e-edfd-1c15a1182e0c",
+  "source": "dailymed"
+}
