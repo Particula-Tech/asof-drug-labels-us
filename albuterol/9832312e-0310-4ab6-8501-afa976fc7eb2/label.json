@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021747"
+  ],
+  "inn": "albuterol",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0597-0024-02"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "ipratropium bromide and albuterol",
+      "name": "Combivent Respimat"
+    }
+  ],
+  "setid": "9832312e-0310-4ab6-8501-afa976fc7eb2",
+  "source": "dailymed"
+}
