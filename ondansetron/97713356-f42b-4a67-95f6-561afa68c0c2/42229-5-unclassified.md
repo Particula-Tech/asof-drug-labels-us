@@ -6,6 +6,6 @@ Manufactured by:
 
 WEST-WARD PHARMACEUTICALS Eatontown, NJ 07724 USA
 
-Revised June 2011
+Revised October 2011
 
-462-568-02
+462-568-03
