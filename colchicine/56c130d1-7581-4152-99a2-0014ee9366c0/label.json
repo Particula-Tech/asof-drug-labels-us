@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA022352"
+  ],
+  "inn": "colchicine",
+  "labeler": "Takeda Pharmaceuticals America, Inc.",
+  "package_ndcs": [
+    "64764-119-01",
+    "64764-119-03",
+    "64764-119-05",
+    "64764-119-06",
+    "64764-119-07",
+    "64764-119-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "colchicine",
+      "name": "Colcrys"
+    }
+  ],
+  "setid": "56c130d1-7581-4152-99a2-0014ee9366c0",
+  "source": "dailymed"
+}
