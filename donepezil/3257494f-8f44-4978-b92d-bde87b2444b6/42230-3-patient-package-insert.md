@@ -1,6 +1,6 @@
 # PATIENT PACKAGE INSERT
 
-Donepezil Hydrochloride Tablets Read the Patient Information that comes with donepezil hydrochloride tablets before the patient starts taking them and each time you get a refill.
+Donepezil Hydrochloride Tablets USP Read the Patient Information that comes with donepezil hydrochloride tablets before the patient starts taking them and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with the doctor about Alzheimer’s disease or treatment for it.
 If you have questions, ask the doctor or pharmacist.
@@ -120,4 +120,4 @@ For more information call 1-866-850-2876.
 What are the ingredients in donepezil hydrochloride tablets?
 Active ingredient: donepezil hydrochloride Inactive ingredients: hypromellose, lactose monohydrate, low substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized starch, talc, and titanium dioxide.
 In addition, the 10 mg tablets also contains yellow iron oxide.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Issued: April 2011
+Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 072, India Revised: 01/2012
