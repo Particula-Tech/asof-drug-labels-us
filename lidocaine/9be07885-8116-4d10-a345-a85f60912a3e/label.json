@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA008816"
+  ],
+  "inn": "lidocaine",
+  "labeler": "Oak Pharmaceuticals, Inc. (Subsidiary of Akorn, Inc.)",
+  "package_ndcs": [
+    "76478-479-05",
+    "76478-479-30"
+  ],
+  "products": [
+    {
+      "form": "JELLY",
+      "generic": "lidocaine hydrochloride",
+      "name": "Xylocaine"
+    }
+  ],
+  "setid": "9be07885-8116-4d10-a345-a85f60912a3e",
+  "source": "dailymed"
+}
