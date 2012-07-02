@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021450"
+  ],
+  "inn": "zolmitriptan",
+  "labeler": "Impax Laboratories, Inc.",
+  "package_ndcs": [
+    "64896-681-30",
+    "64896-681-51"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "zolmitriptan",
+      "name": "ZOMIG"
+    }
+  ],
+  "setid": "84b51cb9-83f3-4a49-7fa3-1adc0f963658",
+  "source": "dailymed"
+}
