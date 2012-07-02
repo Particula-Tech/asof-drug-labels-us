@@ -94,16 +94,10 @@ The makers of these brands are not affiliated with AstraZeneca or its products.
 
 Distributed by:
 
-ZOMIG® Tablets:
+Impax Pharmaceuticals
 
-Distributed by Impax Pharmaceuticals, a division of Impax Laboratories, Inc.
+A Division of Impax Laboratories, Inc.
 
 Hayward, CA 94544
 
-ZOMIG-ZMT® Orally Disintegrating Tablets:
-
-Distributed by AstraZeneca Pharmaceuticals LP
-
-Wilmington, DE 19850
-
-Rev 02/12 35970–00
+Rev 04/12 35970–01

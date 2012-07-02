@@ -1,18 +1,30 @@
 {
   "application_numbers": [
-    "NDA020768"
+    "NDA020768",
+    "NDA021231"
   ],
   "inn": "zolmitriptan",
   "labeler": "Impax Laboratories, Inc.",
   "package_ndcs": [
+    "64896-671-49",
     "64896-671-51",
-    "64896-672-50"
+    "64896-672-49",
+    "64896-672-50",
+    "64896-691-49",
+    "64896-691-51",
+    "64896-692-49",
+    "64896-692-50"
   ],
   "products": [
     {
       "form": "TABLET",
       "generic": "zolmitriptan",
       "name": "ZOMIG"
+    },
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "zolmitriptan",
+      "name": "ZOMIG ZMT"
     }
   ],
   "setid": "df93b636-103f-4fb5-26b6-50f639e29b1d",
