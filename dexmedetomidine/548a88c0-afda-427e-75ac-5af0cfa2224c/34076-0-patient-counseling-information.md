@@ -19,8 +19,6 @@ Orion Corporation
 
 Espoo, Finland
 
-Revised: 03/2012
-
-EN-3026
+Printed in USA EN-2680
 
 Hospira, Inc., Lake Forest, IL 60045 USA

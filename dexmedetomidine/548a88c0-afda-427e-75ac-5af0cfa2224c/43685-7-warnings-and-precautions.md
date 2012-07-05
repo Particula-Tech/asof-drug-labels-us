@@ -13,13 +13,13 @@ Reports of hypotension and bradycardia have been associated with Precedex infusi
 If medical intervention is required, treatment may include decreasing or stopping the infusion of Precedex, increasing the rate of intravenous fluid administration, elevation of the lower extremities, and use of pressor agents.
 Because Precedex has the potential to augment bradycardia induced by vagal stimuli, clinicians should be prepared to intervene.
 The intravenous administration of anticholinergic agents (e.g., glycopyrrolate, atropine) should be considered to modify vagal tone.
-In clinical trials, in an intensive care setting, glycopyrrolate or atropine were effective in the treatment of most episodes of Precedex-induced bradycardia.
+In clinical trials, glycopyrrolate or atropine were effective in the treatment of most episodes of Precedex-induced bradycardia.
 However, in some patients with significant cardiovascular dysfunction, more advanced resuscitative measures were required.
 
 Caution should be exercised when administering Precedex to patients with advanced heart block and/or severe ventricular dysfunction.
 Because Precedex decreases sympathetic nervous system activity, hypotension and/or bradycardia may be expected to be more pronounced in patients with hypovolemia, diabetes mellitus, or chronic hypertension and in elderly patients.
 
-In clinical trials in an intensive care setting, where other vasodilators or negative chronotropic agents were co-administered with Precedex an additive pharmacodynamic effect was not observed.
+In clinical trials where other vasodilators or negative chronotropic agents were co-administered with Precedex an additive pharmacodynamic effect was not observed.
 Nonetheless, caution should be used when such agents are administered concomitantly with Precedex.
 
 ## 5.3 Transient Hypertension
