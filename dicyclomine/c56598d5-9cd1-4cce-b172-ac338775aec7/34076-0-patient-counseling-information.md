@@ -24,7 +24,7 @@ The patients should be warned not to engage in activities requiring mental alert
 
 Manufactured for:
 
-Axcan Pharma US, Inc.
+Aptalis Pharma US, Inc.
 
 22 Inverness Center Parkway
 
@@ -32,6 +32,6 @@ Suite 310
 
 Birmingham, AL 35242 USA
 
-www.axcan.com
+www.aptalispharma.com
 
-BENTYL® is a registered trademark owned by Axcan Pharma Inc., an affiliated company of Axcan Pharma US, Inc.
+BENTYL® is a registered trademark owned by Aptalis Pharma Canada Inc., an affiliated company of Aptalis Pharma US, Inc.
