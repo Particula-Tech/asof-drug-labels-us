@@ -58,14 +58,14 @@ It should be noted, however, that the highest on-therapy QTcwas in many cases th
 
 Relationship Between QTc Interval Prolongation and Torsade de Pointes
 
-| On-TherapyQTC Interval(msec) | Incidence ofTorsade de Pointes |  | Change in QTCInterval FromBaseline (msec) | Incidence ofTorsade dePointes |
-| --- | --- | --- | --- | --- |
-| < 500 | 1.3% (1787) |  | < 65 | 1.6% (1516) |
-| 500-525 | 3.4% (236) |  | 65-80 | 3.2% (158) |
-| 525-550 | 5.6% (125) |  | 80-100 | 4.1% (146) |
-| >550 | 10.8% (157) |  | 100-130 | 5.2% (115) |
-|  |  |  | >130 | 7.1% (99) |
-| () Number of patients assessed |  |  |  |  |
+| On-TherapyQTC Interval(msec) | Incidence ofTorsade de Pointes |  | Change in QTCInterval FromBaseline (msec) | Incidence ofTorsade dePointes |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| < 500 | 1.3% (1787) |  | < 65 | 1.6% (1516) |  |  |  |
+| 500-525 | 3.4% (236) |  | 65-80 | 3.2% (158) |  |  |  |
+| 525-550 | 5.6% (125) |  | 80-100 | 4.1% (146) |  |  |  |
+| >550 | 10.8% (157) |  | 100-130 | 5.2% (115) |  |  |  |
+|  |  |  | >130 | 7.1% (99) |  |  |  |
+| () Number of patients assessed |  |  |  |  |  |  |  |
 
 Proarrhythmic events must be anticipated not only on initiating therapy, but with every upward dose adjustment.
 Proarrhythmic events most often occur within 7 days of initiating therapy or of an increase in dose; 75% of serious proarrhythmias (Torsade de Pointes and worsened VT) occurred within 7 days of initiating Betapace therapy, while 60% of such events occurred within 3 days of initiation or a dosage change.

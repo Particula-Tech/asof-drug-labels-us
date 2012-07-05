@@ -80,18 +80,19 @@ After discontinuation of amiodarone, Betapace should not be initiated until the 
 
 Betapace Syrup 5 mg/mL can be compounded using Simple Syrup containing 0.1% sodium benzoate (Syrup, NF) available from Humco Laboratories as follows:
 
-1. Measure 120 mL of Simple Syrup.
-2. Transfer the syrup to a 6-ounce amber plastic (polyethylene terephthalate [PET]) prescription bottle.
+1. 1.
+   Measure 120 mL of Simple Syrup.
+2. 2.Transfer the syrup to a 6-ounce amber plastic (polyethylene terephthalate [PET]) prescription bottle.
    NOTE: An oversized bottle is used to allow for a headspace, so that there will be more effective mixing during shaking of the bottle.
-3. Add five (5) Betapace 120 mg tablets to the bottle.
+3. 3.Add five (5) Betapace 120 mg tablets to the bottle.
    These tablets are added intact; it is not necessary to crush the tablets.
    NOTE: The addition of the tablets can also be done first.
    The tablets can also be crushed if preferred.
    If the tablets are crushed, care should be taken to transfer the entire quantity of tablet powder into the bottle containing the syrup.
-4. Shake the bottle to wet the entire surface of the tablets.
+4. 4.Shake the bottle to wet the entire surface of the tablets.
    If the tablets have been crushed, shake the bottle until the endpoint is achieved.
-5. Allow the tablets to hydrate for at least two hours.
-6. After at least two hours have elapsed, shake the bottle intermittently over the course of at least another two hours until the tablets are completely disintegrated.
+5. 5.Allow the tablets to hydrate for at least two hours.
+6. 6.After at least two hours have elapsed, shake the bottle intermittently over the course of at least another two hours until the tablets are completely disintegrated.
    NOTE: The tablets can be allowed to hydrate overnight to simplify the disintegration process.
 
 The endpoint is achieved when a dispersion of fine particles in the syrup is obtained.

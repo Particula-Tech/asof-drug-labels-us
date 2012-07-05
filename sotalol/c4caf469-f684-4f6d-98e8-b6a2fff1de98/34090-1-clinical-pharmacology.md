@@ -20,7 +20,7 @@ In intact animals it slows heart rate, decreases AV nodal conduction and increas
 In man, the Class II (beta-blockade) electrophysiological effects of Betapace are manifested by increased sinus cycle length (slowed heart rate), decreased AV nodal conduction and increased AV nodal refractoriness.
 The Class III electrophysiological effects in man include prolongation of the atrial and ventricular monophasic action potentials, and effective refractory period prolongation of atrial muscle, ventricular muscle, and atrio-ventricular accessory pathways (where present) in both the anterograde and retrograde directions.
 With oral doses of 160 to 640 mg/day, the surface ECG shows dose-related mean increases of 40-100 msec in QT and 10-40 msec in QTc.
-(See WARNINGS for description of relationship between QTc and Torsade de Pointes type arrhythmias.)
+(See WARNINGS for description of relationship between QTcand Torsade de Pointes type arrhythmias.)
 No significant alteration in QRS interval is observed.
 
 In a small study (n=25) of patients with implanted defibrillators treated concurrently with Betapace, the average defibrillatory threshold was 6 joules (range 2-15 joules) compared to a mean of 16 joules for a nonrandomized comparative group primarily receiving amiodarone.
