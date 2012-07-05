@@ -81,7 +81,7 @@ Since carvedilol undergoes substantial oxidative metabolism, the metabolism and 
 
 Amiodarone: In a pharmacokinetic study conducted in 106 Japanese patients with heart failure, coadministration of small loading and maintenance doses of amiodarone with carvedilol resulted in at least a 2-fold increase in the steady-state trough concentrations of S(-) carvedilol [see Drug Interactions (7.6)].
 
-Cimetidine: In a pharmacokinetic study conducted in 10 healthy male subjects, cimetidine (1,000 mg/day) increased the steady-state AUC of carvedilol by 30% with no change in Cmax [see Drug Interactions (7.5)].
+Cimetidine: In a pharmacokinetic study conducted in 10 healthy male subjects, cimetidine (1,000 mg/day) increased the steady-state AUC of carvedilol by 30% with no change in Cmax[see Drug Interactions (7.5)].
 
 Digoxin: Following concomitant administration of carvedilol (25 mg once daily) and digoxin (0.25 mg once daily) for 14 days, steady-state AUC and trough concentrations of digoxin were increased by 14% and 16%, respectively, in 12 hypertensive patients [see Drug Interactions (7.4)].
 
