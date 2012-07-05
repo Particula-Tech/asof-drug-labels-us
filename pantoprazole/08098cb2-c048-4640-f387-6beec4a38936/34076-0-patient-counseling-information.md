@@ -17,8 +17,6 @@ Nycomed GmbH
 
 D78467 Konstanz, Germany
 
-LAB-0459-2.0
-
-Revised October2011
+LAB-0459-3.0
 
 FDA-APPROVED PATIENT INFORMATION

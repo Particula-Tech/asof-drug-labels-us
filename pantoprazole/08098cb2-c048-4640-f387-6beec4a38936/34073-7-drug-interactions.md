@@ -25,3 +25,8 @@ Therefore, pantoprazole may interfere with absorption of drugs where gastric pH 
 
 There have been reports of false positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving proton pump inhibitors.
 An alternative confirmatory method should be considered to verify positive results.
+
+## 7.6 Methotrexate
+
+Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
+However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.8)].

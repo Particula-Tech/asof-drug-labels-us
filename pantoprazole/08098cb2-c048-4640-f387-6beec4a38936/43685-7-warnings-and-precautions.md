@@ -39,3 +39,9 @@ The relevance of these findings to tumor development in humans is unknown [see N
 ## 5.7 Interference with Urine Screen for THC
 
 See Drug Interactions (7.5).
+
+## 5.8 Concomitant use of PROTONIX with Methotrexate
+
+Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
+In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients.
+[see Drug Interactions (7.6)]

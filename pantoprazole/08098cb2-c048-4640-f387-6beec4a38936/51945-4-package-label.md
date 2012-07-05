@@ -1,90 +1,97 @@
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 20 MG LABEL
+PRINCIPAL DISPLAY PANEL – 20 mg Tablet Bottle Label
 
 NDC 0008-0843-81
 
 90 Tablets
 
-PROTONIX®
+PROTONIX® (pantoprazole sodium)
 
-(pantoprazole sodium)
-
-Delayed-Release Tablets
-
-Equivalent to 20 mg pantoprazole
+Delayed-Release Tablets Equivalent to 20 mg pantoprazole
 
 20 mg
 
 Rx only
 
-Wyeth®
+Pfizer
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 40 MG LABEL
+PRINCIPAL DISPLAY PANEL – 40 mg Tablet Bottle Label
 
 NDC 0008-0841-81
 
 90 Tablets
 
-PROTONIX®
+PROTONIX® (pantoprazole sodium)
 
-(pantoprazole sodium)
-
-Delayed-Release Tablets
-
-Equivalent to 40 mg pantoprazole
+Delayed-Release Tablets Equivalent to 40 mg pantoprazole
 
 40 mg
 
 Rx only
 
-Wyeth®
+Pfizer
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 40 MG CARTON
+PRINCIPAL DISPLAY PANEL - 40 mg Tablet Blister Pack
+
+NDC 0008-0841-99
+
+Protonix® (pantoprazole sodium)
+
+Delayed-Release Tablet equivalent to 40 mg pantoprazole
+
+PAA021304 MADE IN GERMANY
+
+Wyeth® Phila.
+PA 19101
+
+PRINCIPAL DISPLAY PANEL – 40 mg Tablet Blister Pack Carton
 
 NDC 0008-0841-99
 
 100 Tablets
 
-10 Redipak® Blister
+10 Redipak® Blister Strips of 10 Tablets
 
-Strips of 10 Tablets
+PROTONIX® (pantoprazole sodium) Delayed-Release Tablets
 
-PROTONIX®
+equivalent to 40 mg pantoprazole
+
+Rx only
+
+Distributed by Pfizer Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc, Philadelphia, PA 19101
+
+PRINCIPAL DISPLAY PANEL – 40 mg Tablet Blister Pack
+
+NDC 0008-0841-17
+
+PROTONIX® 40 mg
 
 (pantoprazole sodium)
 
 Delayed-Release Tablets
 
-Equivalent to
+5 tablets each containing 40 mg pantoprazole
 
-40 mg
-
-pantoprazole
+Visit www.protonix.com for more information.
 
 Rx only
 
-Wyeth®
+PRINCIPAL DISPLAY PANEL – 40 mg Tablet Blister Pack Carton
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 40 MG PACKET
+NDC 0008-0841-17
 
-NDC 0008-0844-01
+PROFESSIONAL SAMPLE – NOT FOR SALE
 
-Protonix® 40 mg
+PROTONIX® 40 mg
 
 (pantoprazole sodium)
 
-For Delayed-Release Oral Suspension*
+Delayed-Release Tablets
 
-Equivalent to 40 mg pantoprazole
-
-*suspension in apple juice or applesauce only
-
-Store at 20° to 25°C (68° to 77°F).
+www.protonix.com
 
 Rx only
 
-Wyeth®
-
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 40 MG CARTON
+PRINCIPAL DISPLAY PANEL – 40 mg Granule Packet Carton
 
 NDC 0008-0844-02
 
@@ -104,34 +111,22 @@ Rx only
 
 Wyeth®
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 40 MG BLISTER
+PRINCIPAL DISPLAY PANEL – 40 mg Granule Packet
 
-NDC 0008-0841-17
+NDC 0008-0844-01
 
-PROTONIX® 40 mg
-
-(pantoprazole sodium)
-
-Delayed-Release Tablets
-
-5 tablets each containing 40 mg pantoprazole
-
-Visit www.protonix.com for more information.
-
-Rx only
-
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 40 MG CARTON
-
-NDC 0008-0841-17
-
-PROFESSIONAL SAMPLE – NOT FOR SALE
-
-PROTONIX® 40 mg
+Protonix® 40 mg
 
 (pantoprazole sodium)
 
-Delayed-Release Tablets
+For Delayed-Release Oral Suspension*
 
-www.protonix.com
+Equivalent to 40 mg pantoprazole
+
+*suspension in apple juice or applesauce only
+
+Store at 20° to 25°C (68° to 77°F).
 
 Rx only
+
+Wyeth®

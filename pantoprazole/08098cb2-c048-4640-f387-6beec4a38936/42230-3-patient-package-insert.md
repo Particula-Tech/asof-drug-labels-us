@@ -52,6 +52,7 @@ Especially tell your doctor if you take:
 - Atazanavir (Reyataz), Nelfinavir (Viracept)
 - Iron supplements
 - Ampicillin antibiotics
+- Methotrexate
 
 Ask your doctor if you are not sure if any of your medicines are the kind listed above.
 
