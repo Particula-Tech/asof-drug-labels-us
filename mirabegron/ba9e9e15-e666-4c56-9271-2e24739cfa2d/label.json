@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA202611"
+  ],
+  "inn": "mirabegron",
+  "labeler": "Astellas Pharma US, Inc.",
+  "package_ndcs": [
+    "0469-2601-30",
+    "0469-2601-71",
+    "0469-2601-90",
+    "0469-2602-30",
+    "0469-2602-71",
+    "0469-2602-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "mirabegron",
+      "name": "Myrbetriq"
+    }
+  ],
+  "setid": "ba9e9e15-e666-4c56-9271-2e24739cfa2d",
+  "source": "dailymed"
+}
