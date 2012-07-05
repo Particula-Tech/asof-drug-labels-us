@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA091264"
+  ],
+  "inn": "levocetirizine",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-551-05",
+    "31722-551-10",
+    "31722-551-18",
+    "31722-551-30",
+    "31722-551-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levocetirizine dihydrochloride",
+      "name": "Levocetirizine Dihydrochloride"
+    }
+  ],
+  "setid": "dd407f8f-140d-489f-b8c5-f6602d87e247",
+  "source": "dailymed"
+}
