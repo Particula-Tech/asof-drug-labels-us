@@ -4,15 +4,19 @@ LEVOPHED, norepinephrine bitartrate injection, USP, contains the equivalent of 4
 
 Supplied as:
 
-Ampuls of 4 mL in boxes of 10 (List 1443)
+Ampuls of 4 mL in boxes of 10, NDC 0409-1443-04
 
-Store at 25°C (77°F); excursions permitted to 15 - 30°C (59 - 86°F).
+Store at 20 to 25°C (68 to 77°F).
+[See USP Controlled Room Temperature.]
 
 Protect from light.
 
 Regitine, trademark, CIBA Pharmaceuticals Company.
 
-| ©Hospira 2004 | EN-0198 | Printed in USA |
-| --- | --- | --- |
+Revised: November, 2009
 
-HOSPIRA, INC., LAKE FOREST, IL 60045, USA
+Printed in USA
+
+EN-2297
+
+Hospira, Inc., Lake Forest, IL 60045 USA

@@ -23,7 +23,7 @@ Occlusive vascular diseases (for example, atherosclerosis, arteriosclerosis, dia
 Therefore, one should avoid the veins of the leg in elderly patients or in those suffering from such disorders.
 Gangrene has been reported in a lower extremity when infusions of LEVOPHED were given in an ankle vein.
 
-Extravasation:The infusion site should be checked frequently for free flow.
+Extravasation: The infusion site should be checked frequently for free flow.
 Care should be taken to avoid extravasation of LEVOPHED into the tissues, as local necrosis might ensue due to the vasoconstrictive action of the drug.
 Blanching along the course of the infused vein, sometimes without obvious extravasation, has been attributed to vasa vasorum constriction with increased permeability of the vein wall, permitting some leakage.
 
