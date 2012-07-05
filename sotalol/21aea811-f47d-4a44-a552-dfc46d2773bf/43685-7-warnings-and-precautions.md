@@ -140,7 +140,7 @@ In patients with diabetes (especially labile diabetes) or with a history of epis
 
 Betapace AF should be used only with extreme caution in patients with sick sinus syndrome associated with symptomatic arrhythmias, because it may cause sinus bradycardia, sinus pauses or sinus arrest.
 In patients with AFIB and sinus node dysfunction, the risk of Torsade de Pointes with Betapace AF therapy is increased, especially after cardioversion.
-Bradycardia following cardioversion in these patients is associated with QTc interval prolongation which is augmented due to the reverse use dependence of the Class III effects of Betapace AF.
+Bradycardia following cardioversion in these patients is associated with QTcinterval prolongation which is augmented due to the reverse use dependence of the Class III effects of Betapace AF.
 Patients with AFIB/AFL associated with the sick sinus syndrome may be treated with Betapace AF if they have an implanted pacemaker for control of bradycardia symptoms.
 
 ## Thyrotoxicosis

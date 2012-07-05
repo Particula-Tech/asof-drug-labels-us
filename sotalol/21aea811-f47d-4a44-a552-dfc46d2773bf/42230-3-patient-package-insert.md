@@ -23,20 +23,20 @@ It is important that when you go home, you take the exact dose the doctor prescr
 At any time while you are taking Betapace AF, watch for signs that you may be getting this different type of abnormal heartbeat and call your doctor if they occur.
 Call your doctor right away if you:
 
-- faint,
-- become dizzy, or
-- have fast heartbeats.
+- •faint,
+- •become dizzy, or
+- •have fast heartbeats.
 
 If you cannot reach your doctor, go to the nearest hospital emergency room.
 Take your Betapace AF tablets with you and show them to the doctor or nurse.
 
 Also, call your doctor right away if you have any of the following conditions:
 
-- severe diarrhea
-- unusual sweating
-- vomiting
-- less appetite than normal, or
-- more thirst than normal.
+- •severe diarrhea
+- • unusual sweating
+- •vomiting
+- •less appetite than normal, or
+- •more thirst than normal.
 
 These are conditions that will make you more likely to get the different type of abnormal heartbeat.
 
@@ -67,10 +67,10 @@ This is why you and your doctor need to discuss the benefits and risks of Betapa
 
 Do not take Betapace AF if you:
 
-- have serious kidney problems or are on kidney dialysis;
-- have lung disease causing shortness of breath (such as asthma, chronic bronchitis or emphysema);
-- have symptoms of heart failure (such as shortness of breath when you exercise or are physically active and swelling of the ankles or legs);
-- have a very slow heart beat and do not have an implanted artificial pacemaker;
+- •have serious kidney problems or are on kidney dialysis;
+- •have lung disease causing shortness of breath (such as asthma, chronic bronchitis or emphysema);
+- •have symptoms of heart failure (such as shortness of breath when you exercise or are physically active and swelling of the ankles or legs);
+- •have a very slow heart beat and do not have an implanted artificial pacemaker;
 
 Taking certain other medicines with Betapace AF can increase the chance that you will get the dangerous abnormal heartbeat discussed in "What is the most important information I should know about Betapace AF?"
 These include medicines used to treat abnormal heart rhythms and some other heart problems as well as medicines used to treat depression and other mental problems, night-time heartburn, asthma and infections.
@@ -137,16 +137,16 @@ Important points about Betapace AF
 
 Betapace AF can help you best if you take it as your doctor has prescribed it.
 
-- Take your medicine every day as prescribed.
-- Do not miss doses or take extra doses.
-- Call your doctor right away if you feel new fast heartbeats with lightheadedness and fainting.
+- •Take your medicine every day as prescribed.
+- •Do not miss doses or take extra doses.
+- •Call your doctor right away if you feel new fast heartbeats with lightheadedness and fainting.
   These can be serious and in rare instances can even cause death.
-- Do not take Betapace AF if you have serious kidney problems, lung disease causing shortness of breath, symptoms of heart failure.
-- Tell your doctor and pharmacist the name of all medications (prescription, non-prescription, and natural/herbal remedies) you are taking.
-- Do not start taking any other medicines without telling your doctor.
-- Go for all your regular checkups.
-- Get your refills on time.
-- Do not stop taking Betapace AF until your doctor tells you to stop.
+- •Do not take Betapace AF if you have serious kidney problems, lung disease causing shortness of breath, symptoms of heart failure.
+- •Tell your doctor and pharmacist the name of all medications (prescription, non-prescription, and natural/herbal remedies) you are taking.
+- •Do not start taking any other medicines without telling your doctor.
+- •Go for all your regular checkups.
+- •Get your refills on time.
+- •Do not stop taking Betapace AF until your doctor tells you to stop.
 
 This leaflet provides a summary of information about Betapace AF.
 Your doctor or pharmacist has a longer leaflet written for healthcare professionals that you can ask to read.

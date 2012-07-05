@@ -61,7 +61,7 @@ In an unblinded multicenter trial of 25 patients with SVT and/or VT receiving da
 One (1) patient, receiving 30 mg/m2 daily, was discontinued because of increased frequency of sinus pauses/bradycardia.
 Additional cardiovascular AEs were seen at the 90 and 210 mg/m2 daily dose levels.
 They included QT prolongations (2 patients), sinus pauses/bradycardia (1 patient), increased severity of atrial flutter and reported chest pain (1 patient).
-Values for QTc ≥525 msec were seen in 2 patients at the 210 mg/m2 daily dose level.
+Values for QTc≥525 msec were seen in 2 patients at the 210 mg/m2 daily dose level.
 Serious adverse events including death, Torsades de Pointes, other proarrhythmias, high-degree A-V blocks and bradycardia have been reported in infants and/or children.
 
 ## Potential Adverse Effects

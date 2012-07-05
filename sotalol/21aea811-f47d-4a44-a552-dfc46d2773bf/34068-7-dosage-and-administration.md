@@ -2,21 +2,21 @@
 
 ## Dosing and Administration in Adults
 
-- Therapy with Betapace AF must be initiated (and, if necessary, titrated) in a setting that provides continuous electrocardiographic (ECG) monitoring and in the presence of personnel trained in the management of serious ventricular arrhythmias.
+- •Therapy with Betapace AF must be initiated (and, if necessary, titrated) in a setting that provides continuous electrocardiographic (ECG) monitoring and in the presence of personnel trained in the management of serious ventricular arrhythmias.
   Patients should continue to be monitored in this way for a minimum of 3 days on the maintenance dose.
   In addition, patients should not be discharged within 12 hours of electrical or pharmacological conversion to normal sinus rhythm.
-- The QT interval is used to determine patient eligibility for Betapace AF treatment and for monitoring safety during treatment.
+- •The QT interval is used to determine patient eligibility for Betapace AF treatment and for monitoring safety during treatment.
   The baseline QT interval must be ≤450 msec in order for a patient to be started on Betapace AF therapy.
   During initiation and titration, the QT interval should be monitored 2-4 hours after each dose.
   If the QT interval prolongs to 500 msec or greater, the dose must be reduced or the drug discontinued.
-- The dose of Betapace AF must be individualized according to calculated creatinine clearance.
+- •The dose of Betapace AF must be individualized according to calculated creatinine clearance.
   In patients with a creatinine clearance >60 mL/min Betapace AF is administered twice daily (BID) while in those with a creatinine clearance between 40 and 60 mL/min, the dose is administered once daily (QD).
   In patients with a creatinine clearance less than 40 mL/min Betapace AF is contraindicated.
   The recommended initial dose of Betapace AF is 80 mg and is initiated as shown in the dosing algorithm described below.
   The 80 mg dose can be titrated upward to 120 mg during initial hospitalization or after discharge on 80 mg in the event of recurrence, by rehospitalization and repeating the same steps used during the initiation of therapy (see Upward Titration of Dose).
-- Patients with atrial fibrillation should be anticoagulated according to usual medical practice.
+- •Patients with atrial fibrillation should be anticoagulated according to usual medical practice.
   Hypokalemia should be corrected before initiation of Betapace AF therapy (see WARNINGS, Ventricular Arrhythmia).
-- Patients to be discharged on Betapace AF therapy from an in-patient setting should have an adequate supply of Betapace AF, to allow uninterrupted therapy until the patient can fill a Betapace AF prescription.
+- •Patients to be discharged on Betapace AF therapy from an in-patient setting should have an adequate supply of Betapace AF, to allow uninterrupted therapy until the patient can fill a Betapace AF prescription.
 
 ## Initiation of Betapace AF Therapy
 
@@ -151,18 +151,18 @@ After discontinuation of amiodarone, Betapace AF should not be initiated until t
 
 Betapace AF Syrup 5 mg/mL can be compounded using Simple Syrup containing 0.1% sodium benzoate (Syrup, NF) available from Humco Laboratories as follows:
 
-1. Measure 120 mL of Simple Syrup
-2. Transfer the syrup to a 6-ounce amber plastic (polyethylene terephthalate [PET]) prescription bottle.
+1. 1.Measure 120 mL of Simple Syrup
+2. 2.Transfer the syrup to a 6-ounce amber plastic (polyethylene terephthalate [PET]) prescription bottle.
    NOTE: An oversized bottle is used to allow for a headspace, so that there will be more effective mixing during shaking of the bottle.
-3. Add five (5) Betapace AF 120 mg tablets to the bottle.
+3. 3.Add five (5) Betapace AF 120 mg tablets to the bottle.
    These tablets are added intact; it is not necessary to crush the tablets.
    NOTE: The addition of the tablets can also be done first.
    The tablets can also be crushed if preferred.
    If the tablets are crushed, care should be taken to transfer the entire quantity of tablet powder into the bottle containing the syrup.
-4. Shake the bottle to wet the entire surface of the tablets.
+4. 4.Shake the bottle to wet the entire surface of the tablets.
    If the tablets have been crushed, shake the bottle until the endpoint is achieved.
-5. Allow the tablets to hydrate for approximately two hours.
-6. After at least two hours have elapsed, shake the bottle intermittently over the course of at least another two hours until the tablets are completely disintegrated.
+5. 5.Allow the tablets to hydrate for approximately two hours.
+6. 6.After at least two hours have elapsed, shake the bottle intermittently over the course of at least another two hours until the tablets are completely disintegrated.
    NOTE: The tablets can be allowed to hydrate overnight to simplify the disintegration process.
 
 The endpoint is achieved when a dispersion of fine particles in the syrup is obtained.
