@@ -7,12 +7,16 @@ While ondansetron’s mechanism of action has not been fully characterized, it i
 
 ## 12.2 Pharmacodynamics
 
+The effect of ondansetron on the QTc interval was evaluated in a double blind, randomized, placebo and positive (moxifloxacin) controlled, crossover study in 58 healthy adult men and women.
+ZOFRAN doses included 8 mg and 32 mg infused intravenously over 15 minutes.
+At the highest tested dose of 32 mg, the maximum mean (upper limit of 90% CI) difference in QTcF from placebo after baseline-correction was 19.6 (21.5) msec.
+At the lower tested dose of 8 mg, the maximum mean (upper limit of 90% CI) difference in QTcF from placebo after baseline-correction was 5.8 (7.8) msec.
+In this study, there were no QTcF measurements greater than 480 msec and no QTcF prolongation was greater than 60 msec.
+
 In normal volunteers, single intravenous doses of 0.15 mg/kg of ondansetron had no effect on esophageal motility, gastric motility, lower esophageal sphincter pressure, or small intestinal transit time.
 In another study in six normal male volunteers, a 16-mg dose infused over 5 minutes showed no effect of the drug on cardiac output, heart rate, stroke volume, blood pressure, or electrocardiogram (ECG).
-However, no thorough QT study has been conducted with ondansetron.
 Multiday administration of ondansetron has been shown to slow colonic transit in normal volunteers.
 Ondansetron has no effect on plasma prolactin concentrations.
-
 In a gender-balanced pharmacodynamic study (n = 56), ondansetron 4 mg administered intravenously or intramuscularly was dynamically similar in the prevention of nausea and vomiting using the ipecacuanha model of emesis.
 
 ## 12.3 Pharmacokinetics
@@ -33,7 +37,6 @@ Pharmacokinetics in Normal Adult Volunteers
 A study was performed in normal volunteers (n = 56) to evaluate the pharmacokinetics of a single 4-mg dose administered as a 5-minute infusion compared to a single intramuscular injection.
 Systemic exposure as measured by mean AUC were equivalent, with values of 156 [95% CI 136, 180] and 161 [95% CI 137, 190] ng•h/mL for intravenous and intramuscular groups, respectively.
 Mean peak plasma concentrations were 42.9 [95% CI 33.8, 54.4] ng/mL at 10 minutes after intravenous infusion and 31.9 [95% CI 26.3, 38.6] ng/mL at 41 minutes after intramuscular injection.
-In normal volunteers (19 to 39 years old, n = 23), the peak plasma concentration was 264 ng/mL following a single 32-mg dose administered as a 15-minute intravenous infusion.
 
 ### Distribution
 
@@ -56,11 +59,9 @@ The pharmacokinetics of intravenous ondansetron did not differ between subjects 
 
 ### Elimination
 
-In normal volunteers (19 to 39 years old, n = 23), following a single 32-mg dose administered as a 15-minute intravenous infusion, the mean elimination half-life was 4.1 hours.
-Systemic exposure to 32 mg of ondansetron was not proportional to dose as measured by comparing dose-normalized AUC values to an 8-mg dose.
+In adult cancer patients, the mean ondansetron elimination half-life was 4.0 hours, and there was no difference in the multidose pharmacokinetics over a 4-day period.
+In a dose proportionality study, systemic exposure to 32 mg of ondansetron was not proportional to dose as measured by comparing dose-normalized AUC values to an 8-mg dose.
 This is consistent with a small decrease in systemic clearance with increasing plasma concentrations.
-
-In adult cancer patients, the mean elimination half-life was 4.0 hours, and there was no difference in the multidose pharmacokinetics over a 4-day period.
 
 ### Geriatrics
 

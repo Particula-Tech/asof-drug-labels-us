@@ -6,18 +6,15 @@ ZOFRAN Injection should be diluted in 50 mL of 5% Dextrose Injection or 0.9% Sod
 
 ### Adults
 
-The recommended adult intravenous dosage of ZOFRAN is a single 32-mg dose or three 0.15-mg/kg doses.
-A single 32-mg dose is infused over 15 minutes beginning 30 minutes before the start of emetogenic chemotherapy.
-Efficacy of the 32-mg single dose beyond 24 hours has not been established.
-The recommended infusion rate should not be exceeded [see Overdosage(10)].
-With the three-dose (0.15-mg/kg) regimen, the first dose is infused over 15 minutes beginning 30 minutes before the start of emetogenic chemotherapy.
-Subsequent doses (0.15 mg/kg) are administered 4 and 8 hours after the first dose of ZOFRAN.
+The recommended adult intravenous dosage of ZOFRAN is three 0.15-mg/kg doses up to a maximum of 16 mg per dose.
+The first dose is infused over 15 minutes beginning 30 minutes before the start of emetogenic chemotherapy.
+Subsequent doses (0.15 mg/kg up to a maximum of 16 mg per dose) are administered 4 and 8 hours after the first dose of ZOFRAN.
 
 ### Pediatrics
 
-For pediatric patients 6 months through 18 years of age, the intravenous dosage of ZOFRAN is three 0.15-mg/kg doses [see Clinical Studies (14.1) and Clinical Pharmacology (12.3)].
+For pediatric patients 6 months through 18 years of age, the intravenous dosage of ZOFRAN is three 0.15-mg/kg doses up to a maximum of 16 mg per dose [see Clinical Studies (14.1) and Clinical Pharmacology (12.3)].
 The first dose is to be administered 30 minutes before the start of moderately to highly emetogenic chemotherapy.
-Subsequent doses (0.15 mg/kg) are administered 4 and 8 hours after the first dose of ZOFRAN.
+Subsequent doses (0.15 mg/kg up to a maximum of 16 mg per dose) are administered 4 and 8 hours after the first dose of ZOFRAN.
 The drug should be infused intravenously over 15 minutes.
 
 ## 2.2 Prevention of Postoperative Nausea and Vomiting

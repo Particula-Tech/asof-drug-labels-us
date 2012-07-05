@@ -4,20 +4,20 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The following adverse reactions have been reported in clinical trials of adult patients treated with ondansetron, the active ingredient of intravenous ZOFRAN at a dosage of three 0.15-mg/kg doses or as a single 32-mg dose.
+The following adverse reactions have been reported in clinical trials of adult patients treated with ondansetron, the active ingredient of intravenous ZOFRAN across a range of dosages.
 A causal relationship to therapy with ZOFRAN (ondansetron) was unclear in many cases.
 
 ### Chemotherapy-Induced Nausea and Vomiting
 
 Table 1.
-Adverse Reactions Reported in > 5% of Adult Patients Who Received Ondansetron at a Dosage of Three 0.15-mg/kg Doses or as a Single 32-mg Dose
+Adverse Reactions Reported in > 5% of Adult Patients Who Received Ondansetron at a Dosage of Three 0.15-mg/kg Doses
 
-|  | Number of Adult Patients With Reaction |  |  |  |
-| --- | --- | --- | --- | --- |
-| Adverse Reaction | ZOFRAN Injection0.15 mg/kg x 3n = 419 | ZOFRAN Injection32 mg x 1n = 220 | Metoclopramiden = 156 | Placebon = 34 |
-| Diarrhea | 16% | 8% | 44% | 18% |
-| Headache | 17% | 25% | 7% | 15% |
-| Fever | 8% | 7% | 5% | 3% |
+|  | Number of Adult Patients With Reaction |  |  |
+| --- | --- | --- | --- |
+| Adverse Reaction | ZOFRAN Injection0.15 mg/kg x 3n = 419 | Metoclopramiden = 156 | Placebon = 34 |
+| Diarrhea | 16% | 44% | 18% |
+| Headache | 17% | 7% | 15% |
+| Fever | 8% | 5% | 3% |
 
 #### Cardiovascular
 
