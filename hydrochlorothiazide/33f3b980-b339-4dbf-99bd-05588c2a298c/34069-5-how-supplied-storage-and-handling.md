@@ -38,6 +38,6 @@ Marketed by:
 
 Rochelle Park, NJ 07662.
 
-Revised: August 2008
+13004203
 
-PSEUSA022-00
+R-01-08/2011
