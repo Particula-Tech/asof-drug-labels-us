@@ -1,3 +1,10 @@
+# WARNINGS
+
+Angioedema of the face, lips, tongue and/or larynx has been reported with oxybutynin.
+In some cases, angioedema occurred after the first dose.
+Angioedema associated with upper airway swelling may be life-threatening.
+If involvement of the tongue, hypopharynx, or larynx occurs, oxybutynin should be promptly discontinued and appropriate therapy and/or measures necessary to ensure a patent airway should be promptly provided.
+
 # PRECAUTIONS
 
 Central Nervous System Effects Oxybutynin is associated with anticholinergic central nervous system (CNS) effects (See).
@@ -17,6 +24,9 @@ Oxybutynin chloride, like other anticholinergic drugs, may decrease gastrointest
 Oxybutynin chloride should be used with caution in patients who have gastroesophageal reflux and/or who are concurrently taking drugs (such as bisphosphonates) that can cause or exacerbate esophagitis.
 
 ## Information for Patients
+
+Patients should be informed that oxybutynin may produce angioedema that could result in life-threatening airway obstruction.
+Patients should be advised to promptly discontinue oxybutynin therapy and seek immediate medical attention if they experience edema of the tongue, edema of the laryngopharynx, or difficulty breathing.
 
 Patients should be informed that heat prostration (fever and heat stroke due to decreased sweating) can occur when anticholinergics such as oxybutynin chloride are administered in the presence of high environmental temperature.
 Because anticholinergic agents such as oxybutynin may produce drowsiness (somnolence), or blurred vision, patients should be advised to exercise caution.
