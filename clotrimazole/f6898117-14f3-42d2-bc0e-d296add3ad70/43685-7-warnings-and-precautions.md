@@ -12,11 +12,11 @@ If irritation or sensitivity develops with the use of clotrimazole cream, treatm
 
 The patient should be advised to:
 
-1. Use the medication for the full treatment time even though the symptoms may have improved.
+1. 1.Use the medication for the full treatment time even though the symptoms may have improved.
    Notify the physician if there is no improvement after four weeks of treatment.
-2. Inform the physician if the area of application shows signs of increased irritation (redness, itching, burning, blistering, swelling, oozing) indicative of possible sensitization.
-3. Avoid the use of occlusive wrappings or dressings.
-4. Avoid sources of infection or reinfection.
+2. 2.Inform the physician if the area of application shows signs of increased irritation (redness, itching, burning, blistering, swelling, oozing) indicative of possible sensitization.
+3. 3.Avoid the use of occlusive wrappings or dressings.
+4. 4.Avoid sources of infection or reinfection.
 
 ## Laboratory Tests
 
