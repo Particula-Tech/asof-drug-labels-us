@@ -19,7 +19,7 @@ Prescribing metronidazole in the absence of a proven or strongly suspected bacte
 
 ## Information for Patients
 
-Alcoholic beverages should be avoided while taking metronidazole and for at least one day afterward (See Drug Interactions).
+Alcoholic beverages should be avoided while taking metronidazole and for at least one day afterward (see Drug Interactions).
 
 Patients should be counseled that antibacterial drugs including metronidazole should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
@@ -40,7 +40,7 @@ This possible drug interaction should be considered when metronidazole is prescr
 The simultaneous administration of drugs that induce microsomal liver enzymes, such as phenytoin or phenobarbital, may accelerate the elimination of metronidazole, resulting in reduced plasma levels; impaired clearance of phenytoin has also been reported.
 
 The simultaneous administration of drugs that decrease microsomal liver enzyme activity, such as cimetidine, may prolong the half-life and decrease plasma clearance of metronidazole.
-In patients stabilized on relatively high doses of lithium, short-term metronidazole therapy has been associated with elevation of serum lithium and, in a few cases, signs of lithium toxicity.
+In patients stabilized on relatively high doses of lithium, short-term metronidazole therapy has been associated with elevation of serum lithium, and in a few cases, signs of lithium toxicity.
 Serum lithium and serum creatinine levels should be obtained several days after beginning metronidazole to detect any increase that may precede clinical symptoms of lithium intoxication.
 
 Alcoholic beverages should not be consumed during metronidazole therapy and for at least one day afterward because abdominal cramps, nausea, vomiting, headaches, and flushing may occur.

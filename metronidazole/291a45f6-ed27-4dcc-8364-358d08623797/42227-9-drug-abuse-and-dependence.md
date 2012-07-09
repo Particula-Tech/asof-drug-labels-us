@@ -6,9 +6,13 @@ In elderly patients, the pharmacokinetics of metronidazole may be altered, and, 
 
 ### In the Female
 
-One day treatment - Two grams of metronidazole, given either as a single dose or in two divided doses of one gram each given in the same day.
+#### One-day treatment
 
-Seven-day course of treatment - 250 mg three times daily for seven consecutive days.
+Two grams of metronidazole, given either as a single-dose or in two divided doses of one gram each given in the same day.
+
+#### Seven-day course of treatment
+
+250 mg three times daily for seven consecutive days.
 
 There is some indication from controlled comparative studies that cure rates as determined by vaginal smears, signs and symptoms, may be higher after a seven-day course of treatment than after a one-day treatment regimen.
 
@@ -17,7 +21,7 @@ Single-dose treatment can assure compliance, especially if administered under su
 A seven-day course of treatment may minimize reinfection by protecting the patient long enough for the sexual contacts to obtain appropriate treatment.
 Further, some patients may tolerate one treatment regimen better than the other.
 
-Pregnant patients should not be treated during the first trimester (See CONTRAINDICATIONS).
+Pregnant patients should not be treated during the first trimester (see CONTRAINDICATIONS).
 In pregnant patients in whom alternative treatment has been inadequate, the one-day course of therapy should not be used, as it results in higher serum levels which can reach the fetal circulation (see PRECAUTIONS, Pregnancy).
 
 When repeat courses of the drug are required, it is recommended that an interval of four to six weeks elapse between courses and that the presence of the trichomonad be reconfirmed by appropriate laboratory measures.
@@ -31,9 +35,13 @@ Treatment should be individualized as for the female.
 
 ### Adults
 
-For acute intestinal amebiasis (acute amebic dysentery): 750 mg orally three times daily for 5 to 10 days.
+#### For acute intestinal amebiasis (acute amebic dysentery)
 
-For amebic liver abscess: 500 mg or 750 mg orally three times daily for 5 to 10 days.
+750 mg orally three times daily for 5 to 10 days.
+
+#### For amebic liver abscess
+
+500 mg or 750 mg orally three times daily for 5 to 10 days.
 
 ### Pediatric Patients
 
@@ -51,7 +59,6 @@ The usual duration of therapy is 7 to 10 days; however, infections of the bone a
 
 Patients with severe hepatic disease metabolize metronidazole slowly, with resultant accumulation of metronidazole and its metabolites in the plasma.
 Accordingly, for such patients, doses below those usually recommended should be administered cautiously.
-
 Close monitoring of plasma metronidazole levels2 and toxicity is recommended.
 
 The dose of metronidazole should not be specifically reduced in anuric patients since accumulated metabolites may be rapidly removed by dialysis.

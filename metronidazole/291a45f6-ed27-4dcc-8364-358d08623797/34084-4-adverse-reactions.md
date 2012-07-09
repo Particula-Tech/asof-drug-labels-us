@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The most serious adverse reactions reported in patients treated with metronidazole have been been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity.
+The most serious adverse reactions reported in patients treated with metronidazole have been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity.
 Since persistent peripheral neuropathy has been reported in some patients receiving prolonged administration of metronidazole, patients should be specifically warned about these reactions and should be told to stop the drug and report immediately to their physicians if any neurologic symptoms occur.
 
 The most common adverse reactions reported have been referable to the gastrointestinal tract, particularly nausea reported by about 12% of patients, sometimes accompanied by headache, anorexia, and occasionally vomiting; diarrhea; epigastric distress; and abdominal cramping.
