@@ -21,8 +21,8 @@ However, as a carbonic anhydrase inhibitor, zonisamide may cause metabolic acido
 
 ## Pharmacokinetics:
 
-Following a 200 to 400 mg oral zonisamide dose, peak plasma concentrations (range: 2 to 5 mcg/mL) in normal volunteers occur within 2 to 6 hours.
-In the presence of food, the time to maximum concentration is delayed, occurring at 4 to 6 hours, but food has no effect on the bioavailability of zonisamide.
+Following a 200 to 400 mg oral zonisamide dose, peak plasma concentrations (range: 2 to 5 mcg/mL) in normal volunteers occur within 2-6 hours.
+In the presence of food, the time to maximum concentration is delayed, occurring at 4-6 hours, but food has no effect on the bioavailability of zonisamide.
 
 Zonisamide extensively binds to erythrocytes, resulting in an eight-fold higher concentration of zonisamide in red blood cells (RBC) than in plasma.
 The pharmacokinetics of zonisamide are dose proportional in the range of 200 to 400 mg, but the Cmax and AUC increase disproportionately at 800 mg, perhaps due to saturable binding of zonisamide to RBC.
@@ -31,7 +31,7 @@ The elimination half-life of zonisamide in plasma is about 63 hours.
 The elimination half-life of zonisamide in RBC is approximately 105 hours.
 
 The apparent volume of distribution (V/F) of zonisamide is about 1.45 L/kg following a 400 mg oral dose.
-Zonisamide, at concentrations of 1.0 to 7.0 mcg/mL, is approximately 40% bound to human plasma proteins.
+Zonisamide, at concentrations of 1 to 7 mcg/mL, is approximately 40% bound to human plasma proteins.
 Protein binding of zonisamide is unaffected in the presence of therapeutic concentrations of phenytoin, phenobarbital or carbamazepine.
 
 ## Metabolism and Excretion:
@@ -82,7 +82,7 @@ Plasma protein binding of phenytoin and carbamazepine was not affected by zonisa
 ## Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors:
 
 Concomitant use of zonisamide, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
-Therefore, if zonisamide is given concomitantly with another carbonic anyhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see PRECAUTIONS, Drug Interactions subsection).
+Therefore, if zonisamide is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see PRECAUTIONS, Drug Interactions subsection).
 
 ## Clinical Studies:
 

@@ -82,12 +82,12 @@ Anyone considering prescribing zonisamide or any other AED must balance the risk
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thought, behavior, or thoughts about self-harm.
+Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers (see WARNINGS, Cognitive/ Neuropsychiatric Adverse Events subsection below).
 
 ## Metabolic Acidosis:
 
-Zonisamide causes hyperchloremic, non-anion gap, metabolic acidosis (i.e., decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) (see PRECAUTIONS, Laboratory tests subsection).
+Zonisamide causes hyperchloremic, non-anion gap, metabolic acidosis (i.e., decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) (see PRECAUTIONS, Laboratory Tests subsection).
 This metabolic acidosis is caused by renal bicarbonate loss due to the inhibitory effect of zonisamide on carbonic anhydrase.
 
 Generally, zonisamide-induced metabolic acidosis occurs early in treatment, but it can develop at any time during treatment.
@@ -117,7 +117,7 @@ In pediatric patients, mean serum bicarbonate reductions ranged from approximate
 
 In two controlled studies in adults, the incidence of a persistent treatment-emergent decrease in serum bicarbonate to less than 20 mEq/L (observed at 2 or more consecutive visits or the final visit) was dose-related at relatively low zonisamide doses.
 In the monotherapy trial of epilepsy, the incidence of a persistent treatment-emergent decrease in serum bicarbonate was 21% for daily zonisamide doses of 25 mg or 100 mg, and was 43% at a daily dose of 300 mg.
-In a placebo-controlled trial for prophylaxis of migraine, the incidence of a persistent treatment-emergent decrease in serum bicarbonate was 7% for placebo, 29% for 150mg daily, and 34% for 300mg daily.
+In a placebo-controlled trial for prophylaxis of migraine, the incidence of a persistent treatment-emergent decrease in serum bicarbonate was 7% for placebo, 29% for 150 mg daily, and 34% for 300 mg daily.
 The incidence of persistent markedly abnormally low serum bicarbonate (decrease to less than 17 mEq/L and more than 5 mEq/L from a pretreatment value of at least 20 mEq/L in these controlled trials was 2% or less.
 
 In the pediatric study, the incidence of persistent, treatment-emergent decreases in serum bicarbonate to levels less than 20 mEq/L was 52%at doses up to 100 mg daily, was 90% for a wide range of doses up to 600 mg daily, and generally appeared to increase with higher doses.
@@ -180,7 +180,7 @@ The analyzed stones were composed of calcium or urate salts.
 In general, increasing fluid intake and urine output can help reduce the risk of stone formation, particularly in those with predisposing risk factors.
 It is unknown, however, whether these measures will reduce the risk of stone formation in patients treated with zonisamide.
 
-Although not approved in pediatric patients, sonographic findings consistent with nephrolithiasis were also detected in 8% of a subset of zonisamide treated pediatric patients who had at least one renal ultrasound prospectively performed in a clinical development development program investigating open-label treatment.
+Although not approved in pediatric patients, sonographic findings consistent with nephrolithiasis were also detected in 8% of a subset of zonisamide treated pediatric patients who had at least one renal ultrasound prospectively performed in a clinical development program investigating open-label treatment.
 The incidence of kidney stone as an adverse event was 3% (see WARNINGS, Metabolic Acidosis subsection).
 
 ### Effect on Renal Function:
@@ -256,7 +256,7 @@ Concurrent medication with drugs that either induce or inhibit CYP3A4 would be e
 
 Zonisamide single dose pharmacokinetic parameters were not affected by cimetidine (300 mg four times a day for 12 days).
 
-### Drugs Interactions with CNS depressants:
+### Drug Interactions with CNS Depressants:
 
 Concomitant administration of zonisamide and alcohol or other CNS depressant drugs has not been evaluated in clinical studies.
 Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, zonisamide should be used with caution if used in combination with alcohol or other CNS depressants.
@@ -266,7 +266,7 @@ Because of the potential of zonisamide to cause CNS depression, as well as other
 Concomitant use of zonisamide, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
 Therefore, if zonisamide is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see CLINICAL PHARMACOLOGY, Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors subsection)
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenicity, Mutagenesis, Impairment of Fertility
 
 No evidence of carcinogenicity was found in mice or rats following dietary administration of zonisamide for two years at doses of up to 80 mg/kg/day.
 In mice, this dose is approximately equivalent to the maximum recommended human dose (MRHD) of 400 mg/day on a mg/m2 basis.
@@ -280,8 +280,6 @@ The low dose in this study is approximately 0.5 times the maximum recommended hu
 
 ## Pregnancy
 
-### Teratogenic effects
-
 Pregnancy Category C (see WARNINGS, Teratogenicity subsection):
 
 Zonisamide may cause serious adverse fetal effects, based on clinical and nonclinical data.
@@ -293,7 +291,7 @@ Pregnant patients should be monitored for metabolic acidosis and treated as in t
 (See WARNINGS, Metabolic Acidosis subsection).
 
 Newborns of mothers treated with zonisamide should be monitored for metabolic acidosis because of transfer of zonisamide to the fetus and possible occurrence of transient metabolic acidosis following birth.
-Transient metabolic acidosis has been reported in neonates born to mothers treated during pregnancy with a different carbonic anhydrase inhibitor
+Transient metabolic acidosis has been reported in neonates born to mothers treated during pregnancy with a different carbonic anhydrase inhibitor.
 
 Zonisamide was teratogenic in mice, rats, and dogs and embryolethal in monkeys when administered during the period of organogenesis.
 Fetal abnormalities or embryo-fetal deaths occurred in these species at zonisamide dosage and maternal plasma levels similar to or lower than therapeutic levels in humans, indicating that use of this drug in pregnancy entails a significant risk to the fetus.
@@ -313,7 +311,7 @@ The lowest embryolethal dose in monkeys was associated with peak maternal plasma
 In a mouse embryo-fetal development study, treatment of pregnant animals with zonisamide (125, 250, or 500 mg/kg/day) during the period of organogenesis resulted in increased incidences of fetal malformations (skeletal and/or craniofacial defects) at all doses tested.
 The low dose in this study is approximately 1.5 times the MRHD on a mg/m2 basis.
 In rats, increased frequencies of malformations (cardiovascular defects) and variations (persistent cords of thymic tissue, decreased skeletal ossification) were observed among the offspring of dams treated with zonisamide (20, 60, or 200 mg/kg/day) throughout organogenesis at all doses.
-The low effect dose is approximately 0.5 times the MRHD on a mg/m2basis.
+The low effect dose is approximately 0.5 times the MRHD on a mg/m2 basis.
 
 Perinatal death was increased among the offspring of rats treated with zonisamide (10, 30, or 60 mg/kg/day) from the latter part of gestation up to weaning at the high dose, or approximately 1.4 times the MRHD on a mg/m2 basis.
 The no effect level of 30 mg/kg/day is approximately 0.7 times the MRHD on a mg/m2 basis.
@@ -344,7 +342,7 @@ Chronic untreated metabolic acidosis in pediatric patients may cause nephrolithi
 A reduction in growth rate may eventually decrease the maximal height achieved.
 The effect of zonisamide on growth and bone-related sequelae has not been systematically investigated.
 
-## Geriatric use
+## Geriatric Use
 
 Single dose pharmacokinetic parameters are similar in elderly and young healthy volunteers (see CLINICAL PHARMACOLOGY, Special Populationssubsection).
 Clinical studies of zonisamide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.

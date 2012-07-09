@@ -1,7 +1,7 @@
 # HOW SUPPLIED
 
-Zonisamide is available as 25 mg, 50 mg and 100 mg two-piece hard gelatin capsules.
-Zonisamide capsules USP available in bottles of 100 and 500 with strengths and colors as follows:
+Zonisamide USP is available as 25 mg, 50 mg and 100 mg two-piece hard gelatin capsules.
+Zonisamide capsules USP are available in bottles of 100 and 500 with strengths and colors as follows:
 
 | Dosage Strength | Capsule Description | Pack | NDC # |
 | --- | --- | --- | --- |

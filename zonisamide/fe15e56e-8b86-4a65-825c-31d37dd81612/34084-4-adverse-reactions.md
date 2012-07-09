@@ -20,7 +20,7 @@ An inspection of these frequencies, however, does provide the prescriber with on
 Table 4.
 Incidence (%) of Treatment-Emergent Adverse Events in Placebo-Controlled, Add-On Trials (Events that occurred in at least 2% of zonisamide-treated patients and occurred more frequently in zonisamide-treated than placebo-treated patients)
 
-| BODY SYSTEM/PREFERRED TERM | Zonisamide (n=269)% | PLACEBO (n=230)% |
+| BODY SYSTEM/PREFERRED TERM | ZONISAMIDE (n=269)% | PLACEBO (n=230)% |
 | --- | --- | --- |
 | BODY AS A WHOLE |  |  |
 | Headache | 10 | 8 |
@@ -33,7 +33,7 @@ Incidence (%) of Treatment-Emergent Adverse Events in Placebo-Controlled, Add-On
 | Dyspepsia | 3 | 1 |
 | Constipation | 2 | 1 |
 | Dry Mouth | 2 | 1 |
-| HEMATOLOGIS AND LYMPHATIC |  |  |
+| HEMATOLOGIC AND LYMPHATIC |  |  |
 | Ecchymosis | 2 | 1 |
 | METABOLIC AND NUTRITIONAL |  |  |
 | Weight Loss | 3 | 2 |

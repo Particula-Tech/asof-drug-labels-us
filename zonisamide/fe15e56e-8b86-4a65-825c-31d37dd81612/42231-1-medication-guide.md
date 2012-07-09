@@ -9,7 +9,7 @@ This information does not take the place of talking to your healthcare provider 
 Zonisamide may cause serious side effects, including:
 
 1. Serious skin rash that can cause death.
-2. Less sweating and increase in your body temperature (fever)
+2. Less sweating and increase in your body temperature (fever).
 3. Suicidal thoughts or actions in some people.
 4. Increased level of acid in your blood (metabolic acidosis).
 5. Problems with your concentration, attention, memory, thinking, speech, or language.
@@ -59,7 +59,7 @@ Call your healthcare provider between visits as needed, especially if you are wo
 Do not stop zonisamide without first talking to a healthcare provider.
 
 Stopping zonisamide suddenly can cause serious problems.
-Stopping a seizure medicine suddenly in patient who has epilepsy can cause seizures that will not stop (status epilepticus).
+Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
 
 4.
 Zonisamide can increase the level of acid in your blood (metabolic acidosis).
@@ -99,7 +99,7 @@ Do not take zonisamide if you are allergic to medicines that contain sulfa.
 
 ## What should I tell my healthcare provider before taking zonisamide?
 
-Before taking zonisamide, tell you healthcare provider about all your medical conditions, including if you:
+Before taking zonisamide, tell your healthcare provider about all your medical conditions, including if you:
 
 - have or have had depression, mood problems or suicidal thoughts or behavior
 - have kidney problems
@@ -147,7 +147,7 @@ Keep a list of them with you to show your healthcare provider and pharmacist eac
 
 ## What should I avoid while taking zonisamide?
 
-- Do not drink alcohol or take other drugs that make you sleep or dizzy while taking zonisamide until you talk to your health care provider.
+- Do not drink alcohol or take other drugs that make you sleepy or dizzy while taking zonisamide until you talk to your health care provider.
   Zonisamide taken with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
 - Do not drive, operate heavy machinery, or do other dangerous activities until you know how zonisamide affects you.
   Zonisamide can slow your thinking and motor skills.
@@ -186,7 +186,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
   [See USP Controlled Room Temperature.]
 - Dry and away from light.
 
-Keep zonisamide and all medicines out of the reach of children.
+Keep zonisamide capsules and all medicines out of the reach of children.
 
 ## General Information about the safe and effective use of zonisamide
 
@@ -196,16 +196,16 @@ Do not give zonisamide to other people, even if they have the same symptoms that
 It may harm them.
 
 This Medication Guide summarizes the most important information about zonisamide.
-IF you would like more information, talk with your healthcare provider.
+If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about zonisamide that is written for health professionals.
 
 For more information, go to www.glenmarkgenerics.com or call 1 (888)721-7115.
 
-## What are the ingredients in zonisamide?
+## What are the ingredients in zonisamide capsules?
 
 Active ingredient: zonisamide USP
 
-Inactive ingredients: microcrystalline cellulose, hydrogenated vegetable oil, sodium lauryl sulfate, gelatin and colorants.
+Inactive ingredients: microcrystalline cellulose, hydrogenated vegetable oil, and sodium lauryl sulfate.
 
 The printed capsule shell of the different strengths is made from the following ingredients:
 
@@ -216,7 +216,7 @@ The printed capsule shell of the different strengths is made from the following 
 100 mg - D&C Yellow #10, FD&C Blue #1, FD&C Yellow #6, gelatin and titanium dioxide
 
 The dyes used in the printing ink are FD&C Blue #1, FD&C Blue #2, FD&C Red #40, D&C Yellow #10 aluminium lake and iron oxide black.
-Additionally, the printing ink also contains n-butyl alcohol, ethanol, methanol, propylene glycol and shellac.
+Additionally, the printing ink also contains n-butyl alcohol, ethanol, propylene glycol and shellac.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -231,4 +231,4 @@ Glenmark Generics Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkgenerics.com
 
-November 2011
+May 2012
