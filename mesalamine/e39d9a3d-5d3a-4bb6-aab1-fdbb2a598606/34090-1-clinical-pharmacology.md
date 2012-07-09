@@ -6,11 +6,9 @@ The usual oral dose of sulfasalazine for active ulcerative colitis in adults is 
 Four grams of sulfasalazine provide 1.6 g of free mesalamine to the colon.
 
 The mechanism of action of mesalamine (and sulfasalazine) is unknown, but appears to be topical rather than systemic.
-Mucosal production of arachidonic acid (AA) metabolites, both through the cyclooxygenase pathways, ie, prostanoids, and through the lipoxygenase pathways, ie, leukotrienes (LTs) and hydroxyeicosatetraenoic acids (HETEs), is increased in patients with chronic inflammatory bowel disease, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostagladin (PG) production in the colon.
+Mucosal production of arachidonic acid (AA) metabolites, both through the cyclooxygenase pathways, ie, prostanoids, and through the lipoxygenase pathways, ie, leukotrienes (LTs) and hydroxyeicosatetraenoic acids (HETEs), is increased in patients with chronic inflammatory bowel disease, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin (PG) production in the colon.
 
-Human Pharmacokinetics and Metabolism
-
-Absorption.
+Human Pharmacokinetics and Metabolism Absorption.
 PENTASA is an ethylcellulose-coated, controlled-release formulation of mesalamine designed to release therapeutic quantities of mesalamine throughout the gastrointestinal tract.
 Based on urinary excretion data, 20% to 30% of the mesalamine in PENTASA is absorbed.
 In contrast, when mesalamine is administered orally as an unformulated 1-g aqueous suspension, mesalamine is approximately 80% absorbed.
