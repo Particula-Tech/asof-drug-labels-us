@@ -32,10 +32,10 @@ Manufactured by: DSM Pharmaceuticals, Inc. Greenville, NC 27834
 
 Manufactured for: Incyte Corporation Wilmington, DE 19880
 
-Jakafi is a trademark of Incyte Corporation.
+Jakafi is a registered trademark of Incyte Corporation.
 All rights reserved.
 
 U.S. Patent No. 7,598,257
 
-© 2011 Incyte Corporation.
+© 2011-2012 Incyte Corporation.
 All rights reserved.

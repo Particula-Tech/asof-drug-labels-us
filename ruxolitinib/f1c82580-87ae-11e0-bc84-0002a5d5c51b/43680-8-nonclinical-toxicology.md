@@ -1,9 +1,8 @@
 # 13. NONCLINICAL TOXICOLOGY
 
-## 13.1. Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Ruxolitinib was not carcinogenic in the 6 month Tg.rasH2 transgenic mouse model.
-A 2-year carcinogenicity study in the rat is ongoing.
+Ruxolitinib was not carcinogenic in the 6-month Tg.rasH2 transgenic mouse model or in a 2-year carcinogenicity study in the rat.
 
 Ruxolitinib was not mutagenic in a bacterial mutagenicity assay (Ames test) or clastogenic in in vitro chromosomal aberration assay (cultured human peripheral blood lymphocytes) or in vivo in a rat bone marrow micronucleus assay.
 

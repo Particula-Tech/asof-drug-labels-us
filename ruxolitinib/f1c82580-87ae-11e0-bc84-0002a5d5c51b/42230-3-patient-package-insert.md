@@ -1,6 +1,6 @@
 Patient Information
 
-Jakafi™ (JAK-ah-fye)
+Jakafi® (JAK-ah-fye)
 
 (ruxolitinib) Tablets
 
@@ -127,12 +127,12 @@ Inactive ingredients: microcrystalline cellulose, lactose monohydrate, magnesium
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Jakafi is a trademark of Incyte Corporation.
+Jakafi is a registered trademark of Incyte Corporation.
 All rights reserved.
 
 U.S. Patent No. 7,598,257
 
-© 2011 Incyte Corporation.
+© 2011-2012 Incyte Corporation.
 All rights reserved.
 
-Issued: November 2011
+Issued: June 2012
