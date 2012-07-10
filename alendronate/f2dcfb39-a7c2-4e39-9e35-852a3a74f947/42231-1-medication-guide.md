@@ -109,8 +109,8 @@ How should I take FOSAMAX?
 - Do not chew or suck on a tablet of FOSAMAX.
 - Swallow FOSAMAX tablet with a full glass (6-8 oz) of plain water only.
 - Do not take FOSAMAX with mineral water, coffee, tea, soda, or juice.
-  - If you take FOSAMAX Daily:
-    - Take 1 FOSAMAX tablet one time a day, every day after you get up for the day and before taking your first food, drink, or other medicine.
+  - If you take Alendronate Daily:
+    - Take 1 alendronate tablet one time a day, every day after you get up for the day and before taking your first food, drink, or other medicine.
   - If you take Once Weekly FOSAMAX:
     - Choose the day of the week that best fits your schedule.
     - Take 1 dose of FOSAMAX every week on your chosen day after you get up for the day and before taking your first food, drink, or other medicine.
@@ -186,9 +186,7 @@ Tablets:
 
 Active ingredient: alendronate sodium
 
-Inactive ingredients: cellulose, lactose, croscarmellose sodium, magnesium stearate.
-
-In addition the 10 mg tablet also contains carnauba wax.
+Inactive ingredients: microcrystalline cellulose, anhydrous lactose, croscarmellose sodium, magnesium stearate.
 
 Oral Solution:
 

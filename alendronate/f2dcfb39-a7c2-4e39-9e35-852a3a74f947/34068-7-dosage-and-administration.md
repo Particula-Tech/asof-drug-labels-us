@@ -1,5 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+Although alendronate tablets 5 mg, 10 mg, 35 mg, and 40 mg are available in the marketplace, FOSAMAX is no longer marketed in the 5 mg, 10 mg, 35 mg, and 40 mg strengths.
+
 ## 2.1 Treatment of Osteoporosis in Postmenopausal Women
 
 The recommended dosage is:
