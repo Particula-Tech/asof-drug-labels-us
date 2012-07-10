@@ -31,3 +31,7 @@ Dispense in a well-closed container as defined in the USP.
 The unit of use package is intended to be dispensed as a unit.
 
 U.S. Patent Nos. 5,916,923, 6,310,101 and 6,444,708
+
+LAB-0465-2.0
+
+Revised May 2012
