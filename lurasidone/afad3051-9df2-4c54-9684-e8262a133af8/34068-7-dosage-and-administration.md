@@ -21,7 +21,7 @@ The dose in these patients should not exceed 80 mg/day [see Use in Specific Popu
 
 Hepatic Impairment
 
-Dose adjustment is recommended in moderate (Child Pugh Score = 7 to 9) and severe hepatic impairment (Child Pugh Score = 10 to 15) patients.
+Dose adjustment is recommended in moderate (Child-Pugh Score = 7 to 9) and severe hepatic impairment (Child-Pugh Score = 10 to 15) patients.
 The recommended starting dose is 20 mg.
 The dose in moderate hepatic impairment patients should not exceed 80 mg/day and the dose in severe hepatic impairment patients should not exceed 40 mg/day [see Use in Specific Populations (8)].
 
@@ -29,9 +29,11 @@ The dose in moderate hepatic impairment patients should not exceed 80 mg/day and
 
 Concomitant Use with Potential CYP3A4 Inhibitors
 
-The dose of LATUDA should not exceed 80 mg/day in combination with a moderate CYP3A4 inhibitor such as diltiazem..
+The recommended starting dose is 20 mg/day.
+The dose of LATUDA should not exceed 80 mg/day in combination with a moderate CYP3A4 inhibitor such as diltiazem.
 LATUDA should not be used in combination with a strong CYP3A4 inhibitor (e.g., ketoconazole) [see Contraindications (4); Drug Interactions (7.1)].
 
-Concomitant Use with Potental CYP3A4 Inducers
+Concomitant Use with Potential CYP3A4 Inducers
 
+The recommended starting dose is 20 mg/day.
 LATUDA should not be used in combination with a strong CYP3A4 inducer (e.g., rifampin) [see Contraindications (4); Drug Interactions (7.1)].

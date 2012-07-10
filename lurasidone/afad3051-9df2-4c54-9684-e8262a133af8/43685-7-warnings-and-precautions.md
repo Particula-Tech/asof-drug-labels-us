@@ -3,7 +3,7 @@
 ## 5.1 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.
+Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6- to 1.7-times the risk of death in placebo-treated patients.
 Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group.
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
@@ -84,7 +84,7 @@ Table 2: Change in Fasting Glucose
 | Mean Change from Baseline (mg/dL) |  |  |  |  |  |  |
 | Serum Glucose | -0.0 | -0.6 | 2.6 | -0.4 | 2.5 | 2.5 |
 | Proportion of Patients with Shifts to ≥ 126 mg/dL |  |  |  |  |  |  |
-| Serum Glucose (≥ 126 mg/dL) | 8.3% (52/628) | 11.7% (7/60) | 12.7% (57/449) | 6.8% (32/472) | 10.0% (26/241) | 5.6% (6/108) |
+| Serum Glucose (≥ 126 mg/dL) | 8.3% (52/628) | 11.7% (7/60) | 12.7% (57/449) | 6.8% (32/472) | 10.0% (26/260) | 5.6% (6/108) |
 
 In the uncontrolled, longer-term studies (primarily open-label extension studies), LATUDA was associated with a mean change in glucose of +1.8 mg/dL at week 24 (n=355), +0.8 mg/dL at week 36 (n=299) and +2.3 mg/dL at week 52 (n=307).
 
@@ -100,10 +100,10 @@ Table 3: Change in Fasting Lipids
 |  |  |  | LATUDA |  |  |  |
 |  | Placebo | 20 mg/day | 40 mg/day | 80 mg/day | 120 mg/day | 160 mg/day |
 | Mean Change from Baseline (mg/dL) |  |  |  |  |  |  |
-| Total cholesterol | -5.8 | -12.3 | -5.7 | -6.2 | -3.8 | -6.9 |
+| Total Cholesterol | -5.8 | -12.3 | -5.7 | -6.2 | -3.8 | -6.9 |
 | Triglycerides | -13.4 | -29.1 | -5.1 | -13.0 | -3.1 | -10.6 |
 | Proportion of Patients with Shifts |  |  |  |  |  |  |
-| Total cholesterol (≥ 240 mg/dL) | 5.3% (30/571) | 13.8% (8/58) | 6.2% (25/402) | 5.3% (23/434) | 3.8% (9/238) | 4.0% (4/101) |
+| Total Cholesterol (≥ 240 mg/dL) | 5.3% (30/571) | 13.8% (8/58) | 6.2% (25/402) | 5.3% (23/434) | 3.8% (9/238) | 4.0% (4/101) |
 | Triglycerides (≥ 200 mg/dL) | 10.1% (53/526) | 14.3% (7/49) | 10.8% (41/379) | 6.3% (25/400) | 10.5% (22/209) | 7.0% (7/100) |
 
 In the uncontrolled, longer-term studies (primarily open-label extension studies), LATUDA was associated with a mean change in total cholesterol and triglycerides of -3.8 (n=356) and -15.1 (n=357) mg/dL at week 24, -3.1 (n=303) and -4.8 (n=303) mg/dL at week 36 and -2.5 (n=307) and -6.9 (n=307) mg/dL at week 52, respectively.
@@ -134,7 +134,7 @@ As with other drugs that antagonize dopamine D2 receptors, LATUDA elevates prola
 Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotrophin secretion.
 This, in turn, may inhibit reproductive function by impairing gonadal steroidogenesis in both female and male patients.
 Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with prolactin-elevating compounds.
-Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male patients [see Adverse Reactions (6)].
+Long-standing hyperprolactinemia, when associated with hypogonadism, may lead to decreased bone density in both female and male patients [see Adverse Reactions (6)].
 
 In short-term, placebo-controlled studies, the median change from baseline to endpoint in prolactin levels for LATUDA-treated patients was 0.4 ng/mL and was -1.9 ng/mL in the placebo-treated patients.
 The median change from baseline to endpoint for males was 0.5 ng/mL and for females was -0.2 ng/mL.
@@ -151,11 +151,11 @@ Table 5: Median Change in Prolactin (ng/mL) from Baseline
 
 The proportion of patients with prolactin elevations ≥ 5× upper limit of normal (ULN) was 2.8% for LATUDA-treated patients versus 1.0% for placebo-treated patients.
 The proportion of female patients with prolactin elevations ≥ 5x ULN was 5.7% for LATUDA-treated patients versus 2.0% for placebo-treated female patients.
-The proportion of male patients with prolactin elevations > 5x ULN was 1.6% versus 0.6% for placebo-treated male patients.
+The proportion of male patients with prolactin elevations ≥ 5x ULN was 1.6% versus 0.6% for placebo-treated male patients.
 
 In the uncontrolled longer-term studies (primarily open-label extension studies), LATUDA was associated with a median change in prolactin of -0.9 ng/mL at week 24 (n=357), -5.3ng/mL at week 36 (n=190) and -2.2 ng/mL at week 52 (n=307).
 
-Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
+Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in a LATUDA carcinogenicity study conducted in rats and mice [see Nonclinical Toxicology (13)].
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
 
@@ -173,18 +173,18 @@ Patients with severe neutropenia (absolute neutrophil count < 1000/mm3) should d
 ## 5.8 Orthostatic Hypotension and Syncope
 
 LATUDA may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
-The incidence of orthostatic hypotension and syncope events from short-term, placebo-controlled studies was (LATUDA incidence, placebo incidence): orthostatic hypotension [0.3% (5/1508), 0.1% (1/708)] and syncope [0.1% (2/1508), 0%].
+The incidence of orthostatic hypotension and syncope events from short-term, placebo-controlled studies was (LATUDA incidence, placebo incidence): orthostatic hypotension [0.3% (5/1508), 0.1% (1/708)] and syncope [0.1% (2/1508), 0% (0/708)].
 Assessment of orthostatic hypotension was defined by vital sign changes (≥ 20 mm Hg decrease in systolic blood pressure and ≥ 10 bpm increase in pulse from sitting to standing or supine to standing positions).
-In short-term clinical trials orthostatic hypotension occurred with a frequency of 0.8% with LATUDA 40 mg, 2.1% with LATUDA 80 mg, 1.7% with LATUDA 120 mg and 0.8% with LATUDA 160 mg compared to 0.7% with placebo.
+In short-term clinical trials, orthostatic hypotension occurred with a frequency of 0.8% with LATUDA 40 mg, 2.1% with LATUDA 80 mg, 1.7% with LATUDA 120 mg and 0.8% with LATUDA 160 mg compared to 0.7% with placebo.
 
-Orthostatic vital signs should be monitored in patients who are vulnerable to hypotension (e.g. dehydration, hypovolemia, and treatment with antihypertensive medications), and in patients with known cardiovascular disease (e.g., heart failure, history of myocardial infarction, ischemia, or conduction abnormalities), or cerebrovascular disease.
+Orthostatic vital signs should be monitored in patients who are vulnerable to hypotension (e.g., dehydration, hypovolemia, and treatment with antihypertensive medications), and in patients with known cardiovascular disease (e.g., heart failure, history of myocardial infarction, ischemia, or conduction abnormalities), or cerebrovascular disease.
 
 ## 5.9 Seizures
 
 As with other antipsychotic drugs, LATUDA should be used cautiously in patients with a history of seizures or with conditions that lower the seizure threshold, e.g., Alzheimer's dementia.
 Conditions that lower the seizure threshold may be more prevalent in patients 65 years or older.
 
-In short-term, placebo-controlled trials, seizures/convulsions occurred in 1.0% (2/1508) of patients treated with LATUDA compared to 0.1% (1/455) placebo-treated patients.
+In short-term, placebo-controlled trials, seizures/convulsions occurred in 0.1% (2/1508) of patients treated with LATUDA compared to 0.1% (1/708) placebo-treated patients.
 
 ## 5.10 Potential for Cognitive and Motor Impairment
 

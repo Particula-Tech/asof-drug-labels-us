@@ -21,7 +21,7 @@ Animal Data
 No adverse developmental effects were seen in a study in which pregnant rats were given LATUDA during the period of organogenesis and continuing through weaning at doses up to 10 mg/kg/day; this dose is approximately half of the MRHD based on body surface area.
 
 No teratogenic effects were seen in studies in which pregnant rats and rabbits were given LATUDA during the period of organogenesis at doses up to 25 and 50 mg/kg/day, respectively.
-These doses are 1.5 and 6 times, in rats and rabbits respectively, the maximum recommended human dose (MRHD) of 160 mg/day based on body surface area.
+These doses are 1.5- and 6-times, in rats and rabbits, respectively, the maximum recommended human dose (MRHD) of 160 mg/day based on body surface area.
 
 ## 8.3 Nursing Mothers
 

@@ -37,11 +37,11 @@ There were no adverse reactions associated with discontinuation in subjects trea
 
 Adverse Reactions Occurring at an Incidence of 2% or More in LATUDA-Treated Patients: Adverse reactions associated with the use of LATUDA (incidence of 2% or greater, rounded to the nearest percent and LATUDA incidence greater than placebo) that occurred during acute therapy (up to 6 weeks in patients with schizophrenia) are shown in Table 6.
 
-Table 6: Adverse Reaction in 2% or More of LATUDA-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in Short-term Schizophrenia Studies
+Table 6: Adverse Reactions in 2% or More of LATUDA-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in Short-term Schizophrenia Studies
 
-| Body System or Organ Class Dictionary-derived Term | Placebo (N=708) | All LATUDA (N=1508) |
-| --- | --- | --- |
 |  | Percentage of Patients Reporting Reaction |  |
+| --- | --- | --- |
+| Body System or Organ Class Dictionary-derived Term | Placebo (N=708) | All LATUDA (N=1508) |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 5 | 10 |
 | Vomiting | 6 | 8 |
@@ -54,7 +54,7 @@ Table 6: Adverse Reaction in 2% or More of LATUDA-Treated Patients and That Occu
 | Akathisia | 3 | 13 |
 | Parkinsonism** | 5 | 10 |
 | Dizziness | 2 | 4 |
-| Dystonia*** | <1 | 5 |
+| Dystonia*** | <1 | 4 |
 | Psychiatric Disorders |  |  |
 | Insomnia | 8 | 10 |
 | Agitation | 4 | 5 |
@@ -79,7 +79,7 @@ Incidence of EPS by dose is provided in Table 7.
 
 Table 7: Incidence of EPS Compared to Placebo
 
-| All EPS events, excluding Akathisia/Restlessness | 7 | 6 | 14 | 13 | 24 | 14 |
+| All EPS events, excluding Akathisia/Restlessness | 6 | 6 | 11 | 12 | 22 | 13 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | LATUDA |  |  |  |
 | Adverse Event Term | Placebo (N=709) (%) | 20 mg/day (N=71) (%) | 40 mg/day (N=487) (%) | 80 mg/day (N=538) (%) | 120 mg/day (N=291) (%) | 160 mg/day (N=121) (%) |
@@ -100,7 +100,7 @@ Dystonia
 
 Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
-While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
+While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first-generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
 
 In the short-term, placebo-controlled clinical trials, dystonia occurred in 4.2% of LATUDA-treated subjects (0.0% LATUDA 20 mg, 3.5% LATUDA 40 mg, 4.5% LATUDA 80 mg, 6.5% LATUDA 120 mg and 2.5% LATUDA 160 mg) compared to 0.8% of subjects receiving placebo.
@@ -115,7 +115,7 @@ Although the reactions reported occurred during treatment with LATUDA, they were
 
 Reactions are further categorized by organ class and listed in order of decreasing frequency according to the following definitions: those occurring in at least 1/100 patients (frequent) (only those not already listed in the tabulated results from placebo-controlled studies appear in this listing); those occurring in 1/100 to 1/1000 patients (infrequent); and those occurring in fewer than 1/1000 patients (rare).
 
-Blood and Lymphatic System Disorders: Infrequent: anemia;
+Blood and Lymphatic System Disorders: Infrequent: anemia
 
 Cardiac Disorders: Frequent: tachycardia; Infrequent: AV block 1st degree, angina pectoris, bradycardia
 
@@ -123,7 +123,7 @@ Ear and Labyrinth Disorders: Infrequent: vertigo
 
 Eye Disorders: Frequent: blurred vision
 
-Gastrointestinal Disorders: Frequent: abdominal pain, diarrhea; Infrequent: gastritis,
+Gastrointestinal Disorders: Frequent: abdominal pain, diarrhea; Infrequent: gastritis
 
 General Disorders and Administrative Site Conditions: Rare: sudden death
 
@@ -133,7 +133,9 @@ Metabolism and Nutritional System Disorders: Frequent: decreased appetite
 
 Musculoskeletal and Connective Tissue Disorders: Rare: rhabdomyolysis
 
-Nervous System Disorders: Infrequent: cerebrovascular accident, dysarthria, Psychiatric Disorders: Infrequent: abnormal dreams, panic attack, sleep disorder;
+Nervous System Disorders: Infrequent: cerebrovascular accident, dysarthria
+
+Psychiatric Disorders: Infrequent: abnormal dreams, panic attack, sleep disorder
 
 Renal and Urinary Disorders: Infrequent: dysuria; Rare: renal failure
 
@@ -141,4 +143,4 @@ Reproductive System and Breast Disorders: Infrequent: amenorrhea, dysmenorrhea; 
 
 Skin and Subcutaneous Tissue Disorders: Frequent: rash, pruritus; Rare: angioedema
 
-Vascular Disorders: Frequent: hypertension;
+Vascular Disorders: Frequent: hypertension

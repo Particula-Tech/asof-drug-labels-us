@@ -14,4 +14,4 @@ LATUDA tablets are intended for oral administration only.
 Each tablet contains 20 mg, 40 mg, 80 mg, or 120 mg of lurasidone hydrochloride.
 
 Inactive ingredients are mannitol, pregelatinized starch, croscarmellose sodium, hypromellose, magnesium stearate, Opadry® and carnauba wax.
-Additionally, the 80 mg tablet contains yellow ferric oxide and FD&C Blue No.2 Aluminum Lake.
+Additionally, the 80 mg tablet contains yellow ferric oxide and FD&C Blue No. 2 Aluminum Lake.

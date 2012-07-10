@@ -3,7 +3,7 @@
 ## 14.1 Schizophrenia
 
 The efficacy of LATUDA for the treatment of schizophrenia was established in five short-term (6-week), placebo-controlled studies in adult patients (mean age of 38.4 years, range 18-72) who met DSM-IV criteria for schizophrenia.
-An active control arm (olanzapine or quetiapine extended-release) was included in two studies to assess assay sensitivity.
+An active-control arm (olanzapine or quetiapine extended-release) was included in two studies to assess assay sensitivity.
 
 Several instruments were used for assessing psychiatric signs and symptoms in these studies:
 
@@ -11,7 +11,7 @@ Several instruments were used for assessing psychiatric signs and symptoms in th
    PANSS total scores may range from 30 to 210.
 2. Brief Psychiatric Rating Scale derived (BPRSd), derived from the PANSS, is a multi-item inventory primarily focusing on positive symptoms of schizophrenia, whereas the PANSS includes a wider range of positive, negative and other symptoms of schizophrenia.
    BPRSd scores may range from 18 to 126.
-3. The Clinical Global Impression severity scale (CGI-S) is a clinician-rated scale that measures the subject's current illness state on a 1 to 7-point scale.
+3. The Clinical Global Impression severity scale (CGI-S) is a clinician-rated scale that measures the subject's current illness state on a 1- to 7-point scale.
 
 The endpoint associated with each instrument is change from baseline in the total score to the end of week 6.
 These changes are then compared to placebo changes for the drug and control groups.
@@ -20,9 +20,9 @@ The results of the studies follow:
 
 1. In a 6-week, placebo-controlled trial (N=145) involving two fixed doses of LATUDA (40 or 120 mg/day), both doses of LATUDA at Endpoint were superior to placebo on the BPRSd total score, and the CGI-S.
 2. In a 6-week, placebo-controlled trial (N=180) involving a fixed dose of LATUDA (80 mg/day), LATUDA at Endpoint was superior to placebo on the BPRSd total score, and the CGI-S.
-3. In a 6-week, placebo and active-controlled trial (N=473) involving two fixed doses of LATUDA (40 or 120 mg/day) and an active control (olanzapine), both LATUDA doses and the active control at Endpoint were superior to placebo on the PANSS total score, and the CGI-S.
+3. In a 6-week, placebo- and active-controlled trial (N=473) involving two fixed doses of LATUDA (40 or 120 mg/day) and an active control (olanzapine), both LATUDA doses and the active control at Endpoint were superior to placebo on the PANSS total score, and the CGI-S.
 4. In a 6-week, placebo-controlled trial (N=489) involving three fixed doses of LATUDA (40, 80 or 120 mg/day), only the 80 mg/day dose of LATUDA at Endpoint was superior to placebo on the PANSS total score, and the CGI-S.
-5. In a 6-week, placebo and active-controlled trial (N=482) involving two fixed doses of LATUDA (80 or 160 mg/day) and an active control (quetiapine extended-release), both LATUDA doses and the active control at Endpoint were superior to placebo on the PANSS total score, and the CGI-S.
+5. In a 6-week, placebo- and active-controlled trial (N=482) involving two fixed doses of LATUDA (80 or 160 mg/day) and an active control (quetiapine extended-release), both LATUDA doses and the active control at Endpoint were superior to placebo on the PANSS total score, and the CGI-S.
 
 Thus, the efficacy of LATUDA at doses of 40, 80, 120 and 160 mg/day has been established (Table 8).
 
