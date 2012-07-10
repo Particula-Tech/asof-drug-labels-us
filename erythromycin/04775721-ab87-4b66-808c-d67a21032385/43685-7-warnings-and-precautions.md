@@ -4,14 +4,6 @@
 
 There have been reports of hepatic dysfunction, including increased liver enzymes, and hepatocellular and/or cholestatic hepatitis, with or without jaundice, occurring in patients receiving oral erythromycin products.
 
-## QT Prolongation
-
-Erythromycin has been associated with prolongation of the QT interval and infrequent cases of arrhythmia.
-Cases of torsades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving erythromycin.
-Fatalities have been reported.
-Erythromycin should be avoided in patients with known prolongation of the QT interval, patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents.
-Elderly patients may be more susceptible to drug-associated effects on the QT interval.
-
 ## Syphilis in Pregnancy
 
 There have been reports suggesting that erythromycin does not reach the fetus in adequate concentration to prevent congenital syphilis.
@@ -20,7 +12,8 @@ Infants born to women treated during pregnancy with oral erythromycin for early 
 ## Clostridium difficile Associated Diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Ery-Ped, and may range in severity from mild diarrhea to fatal colitis.
-Treatment with antibacterial agents alters the normal ora of the colon leading to overgrowth of C. difficile.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
+
 C. difficile produces toxins A and B which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
@@ -38,8 +31,8 @@ There have been post-marketing reports of colchicine toxicity with concomitant u
 This interaction is potentially life-threatening, and may occur while using both drugs at their recommended doses (see PRECAUTIONS – Drug Interactions).
 
 Rhabdomyolysis with or without renal impairment has been reported in seriously ill patients receiving erythromycin concomitantly with lovastatin.
-
 Therefore, patients receiving concomitant lovastatin and erythromycin should be carefully monitored for creatine kinase (CK) and serum transaminase levels.
+
 (See package insert for lovastatin)
 
 # PRECAUTIONS
@@ -86,7 +79,7 @@ There have been published reports suggesting that when oral erythromycin is give
 The mechanism by which this interaction occurs is unknown.
 The decrease in erythromycin concentrations due to co-administration of theophylline could result in subtherapeutic concentrations of erythromycin.
 
-Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent verapamil, belonging to the calcium channel blockers drug class.
+Hypotension, bradyarrhythmias and lactic acidosis have been observed in patients receiving concurrent verapamil, belonging to the calcium channel blockers drug class.
 
 Concomitant administration of erythromycin and digoxin has been reported to result in elevated digoxin serum levels.
 
@@ -101,21 +94,21 @@ The following are examples of some clinically significant CYP3A based drug inter
 Interactions with other drugs metabolized by the CYP3A isoform are also possible.
 The following CYP3A based drug interactions have been observed with erythromycin products in post-marketing experience:
 
-### Ergotamine/dihydroergotamine
+#### Ergotamine/dihydroergotamine
 
 Post-marketing reports indicate that co-administration of erythromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system.
 Concomitant administration of erythromycin with ergotamine or dihydroergotamine is contraindicated (see CONTRAINDICATIONS).
 
-### Triazolobenzodiazepines (such as triazolam and alprazolam) and Related Benzodiazepines
+#### Triazolobenzodiazepines
 
-Erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines.
+(such as triazolam and alprazolam) and Related Benzodiazepines Erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines.
 
-### HMG-CoA Reductase Inhibitors
+#### HMG-CoA Reductase Inhibitors
 
 Erythromycin has been reported to increase concentrations of HMG-CoA reductase inhibitors (e.g., lovastatin and simvastatin).
 Rare reports of rhabdomyolysis have been reported in patients taking these drugs concomitantly.
 
-### Sildenafil (Viagra)
+#### Sildenafil (Viagra)
 
 Erythromycin has been reported to increase the systemic exposure (AUC) of sildenafil.
 Reduction of sildenafil dosage should be considered.
@@ -123,7 +116,7 @@ Reduction of sildenafil dosage should be considered.
 
 There have been spontaneous or published reports of CYP3A based interactions of erythromycin with cyclosporine, carbamazepine, tacrolimus, alfentanil, disopyramide, rifabutin, quinidine, methylprednisolone, cilostazol, vinblastine, and bromocriptine.
 
-Concomitant administration of erythromycin with cisapride, pimozide, astemizole, or terfenadine is contraindicated.
+Concomitant administration of erythromycin with pimozide, astemizole, or terfenadine is contraindicated.
 (See CONTRAINDICATIONS.)
 
 In addition, there have been reports of interactions of erythromycin with drugs not thought to be metabolized by CYP3A, including hexobarbital, phenytoin, and valproate.
@@ -137,11 +130,11 @@ There have been post-marketing reports of drug interactions when erythromycin wa
 Fatalities have been reported.
 (See CONTRAINDICATIONS.)
 
-### Colchicine
+#### Colchicine
 
 Colchicine is a substrate for both CYP3A4 and the efflux transporter P-glycoprotein (P-gp).
 Erythromycin is considered a moderate inhibitor of CYP3A4.
-A signicant increase in colchicine plasma concentration is anticipated when co-administered with moderate CYP3A4 inhibitors such as erythromycin.
+A significant increase in colchicine plasma concentration is anticipated when co-administered with moderate CYP3A4 inhibitors such as erythromycin.
 If co-administration of colchicine and erythromycin is necessary, the starting dose of colchicine may need to be reduced, and the maximum colchicine dose should be lowered.
 Patients should be monitored for clinical symptoms of colchicine toxicity (see WARNINGS).
 
@@ -182,8 +175,8 @@ See INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION sections.
 Elderly patients, particularly those with reduced renal or hepatic function, may be at increased risk for developing erythromycin-induced hearing loss.
 (See ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
 
-Elderly patients may be more susceptible to development of torsades de pointes arrhythmias then younger patients.
-(See WARNINGS).
+Elderly patients may be more susceptible to development of torsades de pointes arrhythmias than younger patients.
+(See ADVERSE REACTIONS).
 
 Elderly patients may experience increased effects of oral anticoagulant therapy while undergoing treatment with erythromycin.
 (See PRECAUTIONS - Drug Interactions).

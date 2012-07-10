@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Ery-Ped (erythromycin ethylsuccinate) oral suspensions may be administered without regard to meals.
+EryPed (erythromycin ethylsuccinate) oral suspensions may be administered without regard to meals.
 
 ## Children
 
@@ -33,33 +33,16 @@ For adult dosage calculation, use a ratio of 400 mg of erythromycin activity as 
 In the treatment of streptococcal infections, a therapeutic dosage of erythromycin ethylsuccinate should be administered for at least 10 days.
 In continuous prophylaxis against recurrences of streptococcal infections in persons with a history of rheumatic heart disease, the usual dosage is 400 mg twice a day.
 
-## For treatment of urethritis due to C. trachomatis or U. urealyticum
+For treatment of urethritis due to C. trachomatis or U. urealyticum: 800 mg three times a day for 7 days.
 
-800 mg three times a day for 7 days.
+For treatment of primary syphilis: Adults: 48 to 64 g given in divided doses over a period of 10 to 15 days.
 
-## For treatment of primary syphilis
+For intestinal amebiasis: Adults: 400 mg four times daily for 10 to 14 days.
+Children: 30 to 50 mg/kg/day in divided doses for 10 to 14 days.
 
-### Adults
+For use in pertussis: Although optimal dosage and duration have not been established, doses of erythromycin utilized in reported clinical studies were 40 to 50 mg/kg/day, given in divided doses for 5 to 14 days.
 
-48 to 64 g given in divided doses over a period of 10 to 15 days.
-
-## For intestinal amebiasis
-
-### Adults
-
-400 mg four times daily for 10 to 14 days.
-
-### Children
-
-30 to 50 mg/kg/day in divided doses for 10 to 14 days.
-
-## For use in pertussis
-
-Although optimal dosage and duration have not been established, doses of erythromycin utilized in reported clinical studies were 40 to 50 mg/kg/day, given in divided doses for 5 to 14 days.
-
-## For treatment of Legionnaires' Disease
-
-Although optimal doses have not been established, doses utilized in reported clinical data were 1.6 to 4 g daily in divided doses.
+For treatment of Legionnaires' Disease: Although optimal doses have not been established, doses utilized in reported clinical data were 1.6 to 4 g daily in divided doses.
 
 For the Ery-Ped 200 unit dose, reconstitute with 2.9 mL of water.
 For the Ery-Ped 400 unit dose, reconstitute with 2.7 mL of water.

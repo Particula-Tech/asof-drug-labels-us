@@ -9,7 +9,6 @@ Onset of pseudomembranous colitis symptoms may occur during or after antibacteri
 (See WARNINGS.)
 
 Erythromycin has been associated with QT prolongation and ventricular arrhythmias, including ventricular tachycardia and torsades de pointes.
-(See WARNINGS.)
 
 Allergic reactions ranging from urticaria to anaphylaxis have occurred.
 Skin reactions ranging from mild eruptions to erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported rarely.

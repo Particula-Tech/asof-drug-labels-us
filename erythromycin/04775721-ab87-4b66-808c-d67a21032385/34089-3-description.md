@@ -4,7 +4,7 @@ Erythromycin is produced by a strain of Saccharopolyspora erythraea (formerly St
 It is basic and readily forms salts with acids.
 The base, the stearate salt, and the esters are poorly soluble in water.
 Erythromycin ethylsuccinate is an ester of erythromycin suitable for oral administration.
-Erythromycin ethylsuccinate is known chemically as erythromycin 2′-(ethyl succinate).
+Erythromycin ethylsuccinate is known chemically as erythromycin 2'-(ethyl succinate).
 The molecular formula is C43H75NO16 and the molecular weight is 862.06.
 The structural formula is:
 
@@ -15,6 +15,6 @@ These products are intended primarily for pediatric use but can also be used in 
 
 ## Inactive Ingredients
 
-### Ery-Ped 200, Ery-Ped 400
+Ery-Ped 200, Ery-Ped 400:
 
 Caramel, polysorbate, sodium citrate, sucrose, xanthan gum and artificial flavors.
