@@ -208,7 +208,7 @@ Rare: breast fibroadenosis, breast neoplasm, breast pain.
 
 Respiratory system: Frequent: sinusitis.
 Infrequent: bronchitis, coughing, dyspnea.
-Rare: bronchospasm, epistaxis, hypoxia, laryngitis, pneumonia.
+Rare: bronchospasm, respiratory depression, epistaxis, hypoxia, laryngitis, pneumonia.
 
 Skin and appendages: Infrequent: pruritus.
 Rare: acne, bullous eruption, dermatitis, furunculosis, injection-site inflammation, photosensitivity reaction, urticaria.

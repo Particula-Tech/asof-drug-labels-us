@@ -7,18 +7,15 @@
   "package_ndcs": [
     "0024-5501-10",
     "0024-5501-31",
-    "0024-5501-34",
-    "0024-5501-50",
     "0024-5521-10",
     "0024-5521-31",
-    "0024-5521-34",
     "0024-5521-50"
   ],
   "products": [
     {
       "form": "TABLET, COATED",
       "generic": "zolpidem tartrate",
-      "name": "Ambien CR"
+      "name": "Ambien"
     }
   ],
   "setid": "404c858c-89ac-4c9d-8a96-8702a28e6e76",
