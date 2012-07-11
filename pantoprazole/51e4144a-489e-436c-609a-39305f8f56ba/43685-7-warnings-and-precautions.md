@@ -47,3 +47,9 @@ For patients expected to be on prolonged treatment or who take PPIs with medicat
 May produce false-positive urine screen for THC (tetrahydrocannabinol).
 
 [See Drug Interactions (7.4)].
+
+## 5.9 Concomitant use of PROTONIX with Methotrexate
+
+Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
+In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients.
+[see Drug Interactions (7.6)]

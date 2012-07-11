@@ -2,7 +2,7 @@ PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 40 MG - IV - LABEL
 
 NDC 0008-0923-51
 
-Protonix® I.V.
+PROTONIX® I.V.
 
 (pantoprazole sodium) for Injection
 
@@ -50,29 +50,15 @@ Rx only
 
 Pfizer Injectables
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 40 MG – 25 X 40 VIALS
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 25 X 40 MG – CARTON
 
-NDC 0008-0923-60
+NDC 0008-0923-60 Contains 25 of NDC 0008-0923-51 Rx only
 
-Contains 25 of NDC 0008-0923-51
+25 x 40 mg Vials PROTONIX® I.V.
+(pantoprazole sodium) for Injection
 
-Rx only
+Equivalent to 40 mg pantoprazole per vial
 
-25 x 40 mg Vials
-
-PROTONIX® I.V.
-
-(pantoprazole sodium)
-
-For Injection
-
-Equivalent to
-
-40 mg
-
-Pantoprazole per vial
-
-For I.V.
-Injection only.
+For I.V. infusion only.
 
 Pfizer Injectables
