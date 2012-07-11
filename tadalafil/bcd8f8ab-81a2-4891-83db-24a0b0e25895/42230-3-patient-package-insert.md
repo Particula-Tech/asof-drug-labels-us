@@ -177,7 +177,7 @@ CIALIS for once daily use is a lower dose you take every day.
 - Take one CIALIS tablet every day at about the same time of day.
   You may attempt sexual activity at any time between doses.
 - If you miss a dose, you may take it when you remember but do not take more than one dose per day.
-  Some form of sexual stimulation is needed for an erection to happen with CIALIS.
+- Some form of sexual stimulation is needed for an erection to happen with CIALIS.
 - Your healthcare provider may change your dose of CIALIS depending on how you respond to the medicine, and on your health condition.
 
 How Should I Take CIALIS for Both ED and the Symptoms of BPH?

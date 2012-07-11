@@ -66,7 +66,7 @@ CIALIS for Once Daily Use
 
 Nitrates
 
-- Concomitant use of nitrates in any form is contraindicated [see Contraindications (4.1)].
+Concomitant use of nitrates in any form is contraindicated [see Contraindications (4.1)].
 
 Alpha Blockers
 
