@@ -4,7 +4,8 @@ Nor-QD (norethindrone) tablets are available in 28-tablet dispensers.
 
 ## STORAGE
 
-Store at controlled room temperature 20°-25°C (68°-77°F) [See USP controlled room temperature].
+Store at controlled room temperature 20°-25°C (68°-77°F).
+[See USP controlled room temperature].
 
 ## DETAILED INFORMATION FOR THE PATIENT
 
@@ -222,11 +223,8 @@ Rx only
 
 Keep out of reach of children.
 
-Address medical inquiries to: WATSON Medical Communications P.O.
-Box 1953 Morristown, NJ 07962-1953 800-272-5525
+For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 800-272-5525
 
-Revised: August 2008
+Revised: July 2011 Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Watson Pharmaceuticals, Inc. Corona, CA 92880 USA
-
-13536-5 S0808
+13536-6

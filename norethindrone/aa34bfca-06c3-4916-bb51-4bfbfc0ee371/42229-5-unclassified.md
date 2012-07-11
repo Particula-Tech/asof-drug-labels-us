@@ -1,1 +1,1 @@
-Patients should be counseled that oral contraceptives do not protect against transmission of HIV (AIDS) and other sexually transmitted diseases (STDs) such as Chlamydia, genital herpes, genital warts, gonorrhea, hepatitis B, and syphilis.
+PHYSICIAN LABELING Patients should be counseled that oral contraceptives do not protect against transmission of HIV (AIDS) and other sexually transmitted diseases (STDs) such as Chlamydia, genital herpes, genital warts, gonorrhea, hepatitis B, and syphilis.
