@@ -23,10 +23,10 @@ Keep out of reach of children.
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 
-Manufactured for: ASCEND Therapeutics, Inc. Herndon, VA 20170 By Laboratoires Besins International Montrouge, France
+Manufactured for: ASCEND Therapeutics, Inc. Herndon, VA 20170 By DPT Laboratories, Ltd. San Antonio, TX 78215
 
 5000718 E01306
 
 Utilizes EHGTM Technology
 
-©2009 ASCEND Therapeutics, Inc.
+©2008 ASCEND Therapeutics, Inc.
