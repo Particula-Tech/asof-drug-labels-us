@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022087"
+  ],
+  "inn": "calcitriol",
+  "labeler": "Perrigo New York Inc",
+  "package_ndcs": [
+    "45802-608-01"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "calcitriol",
+      "name": "calcitriol"
+    }
+  ],
+  "setid": "7fa4ab07-3d8e-4300-91f3-b1e17cba8691",
+  "source": "dailymed"
+}
