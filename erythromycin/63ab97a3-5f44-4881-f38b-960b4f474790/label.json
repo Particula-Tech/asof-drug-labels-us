@@ -6,10 +6,7 @@
   "labeler": "Abbott Laboratories",
   "package_ndcs": [
     "0074-6302-13",
-    "0074-6302-53",
-    "0074-6303-50",
-    "0074-6305-13",
-    "0074-6305-53"
+    "0074-6305-13"
   ],
   "products": [
     {
@@ -21,11 +18,6 @@
       "form": "SUSPENSION",
       "generic": "erythromycin ethylsuccinate",
       "name": "EryPed 400"
-    },
-    {
-      "form": "SUSPENSION",
-      "generic": "erythromycin ethylsuccinate",
-      "name": "EryPed Drops"
     }
   ],
   "setid": "63ab97a3-5f44-4881-f38b-960b4f474790",
