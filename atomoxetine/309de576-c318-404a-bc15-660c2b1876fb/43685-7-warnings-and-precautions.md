@@ -57,7 +57,7 @@ Patients who develop symptoms such as exertional chest pain, unexplained syncope
 ## 5.4 Effects on Blood Pressure and Heart Rate
 
 STRATTERA should be used with caution in patients whose underlying medical conditions could be worsened by increases in blood pressure or heart rate such as certain patients with hypertension, tachycardia, or cardiovascular or cerebrovascular disease.
-It should not be used in patients with severe cardiovascular disorders whose condition would be expected to deteriorate if they experienced clinically important increases in blood pressure or heart rate[see Contraindications (4.5)].
+It should not be used in patients with severe cardiovascular disorders whose condition would be expected to deteriorate if they experienced clinically important increases in blood pressure or heart rate [see Contraindications (4.5)].
 Pulse and blood pressure should be measured at baseline, following STRATTERA dose increases, and periodically while on therapy to detect possible clinically important increases.
 
 The following table provides short-term, placebo-controlled clinical trial data for the proportions of patients having an increase in: diastolic blood pressure ≥15 mm Hg; systolic blood pressure ≥20 mm Hg; heart rate greater than or equal to 20 bpm, in both the pediatric and adult populations (see Table 1).
@@ -77,7 +77,13 @@ Table 1a
 In placebo-controlled registration studies involving pediatric patients, tachycardia was identified as an adverse event for 0.3% (5/1597) of these STRATTERA patients compared with 0% (0/934) of placebo patients.
 The mean heart rate increase in extensive metabolizer (EM) patients was 5.0 beats/minute, and in poor metabolizer (PM) patients 9.4 beats/minute.
 
+In adult clinical trials where EM/PM status was available, the mean heart rate increase in PM patients was significantly higher than in EM patients (11 beats/minute versus 7.5 beats/minute).
+The heart rate effects could be clinically important in some PM patients.
+
 In placebo-controlled registration studies involving adult patients, tachycardia was identified as an adverse event for 1.5% (8/540) of STRATTERA patients compared with 0.5% (2/402) of placebo patients.
+
+In adult clinical trials where EM/PM status was available, the mean change from baseline in diastolic blood pressure in PM patients was higher than in EM patients (4.21 versus 2.13 mm Hg) as was the mean change from baseline in systolic blood pressure (PM: 2.75 versus EM: 2.40 mm Hg).
+The blood pressure effects could be clinically important in some PM patients.
 
 Orthostatic hypotension and syncope have been reported in patients taking STRATTERA.
 In child and adolescent registration studies, 0.2% (12/5596) of STRATTERA-treated patients experienced orthostatic hypotension and 0.8% (46/5596) experienced syncope.

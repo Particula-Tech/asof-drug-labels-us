@@ -9,6 +9,12 @@ The precise mechanism by which atomoxetine produces its therapeutic effects in A
 An exposure-response analysis encompassing doses of atomoxetine (0.5, 1.2 or 1.8 mg/kg/day) or placebo demonstrated atomoxetine exposure correlates with efficacy as measured by the Attention-Deficit/Hyperactivity Disorder Rating Scale-IV-Parent Version: Investigator administered and scored.
 The exposure-efficacy relationship was similar to that observed between dose and efficacy with median exposures at the two highest doses resulting in near maximal changes from baseline [see Clinical Studies (14.2)].
 
+Cardiac Electrophysiology — The effect of STRATTERA on QTc prolongation was evaluated in a randomized, double-blinded, positive-(moxifloxacin 400 mg) and placebo-controlled, cross-over study in healthy male CYP2D6 poor metabolizers.
+A total of 120 healthy subjects were administered STRATTERA (20 mg and 60 mg) twice daily for 7 days.
+No large changes in QTc interval (i.e., increases >60 msec from baseline, absolute QTc >480 msec) were observed in the study.
+However, small changes in QTc interval cannot be excluded from the current study, because the study failed to demonstrate assay sensitivity.
+There was a slight increase in QTc interval with increased atomoxetine concentration.
+
 ## 12.3 Pharmacokinetics
 
 Atomoxetine is well-absorbed after oral administration and is minimally affected by food.

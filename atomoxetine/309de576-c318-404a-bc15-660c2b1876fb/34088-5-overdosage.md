@@ -11,7 +11,7 @@ The most commonly reported symptoms accompanying acute and chronic overdoses of 
 Hyperactivity and agitation have also been reported.
 Signs and symptoms consistent with mild to moderate sympathetic nervous system activation (e.g., tachycardia, blood pressure increased, mydriasis, dry mouth) have also been observed.
 Most events were mild to moderate.
-Less commonly, there have been reports of QT prolongation and mental changes, including disorientation and hallucinations.
+Less commonly, there have been reports of QT prolongation and mental changes, including disorientation and hallucinations [see Clinical Pharmacology (12.2)].
 
 ## 10.2 Management of Overdose
 
