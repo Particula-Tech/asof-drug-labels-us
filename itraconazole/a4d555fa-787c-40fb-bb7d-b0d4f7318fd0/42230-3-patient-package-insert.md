@@ -107,7 +107,7 @@ If you haven't had liver problems, your doctor may recommend blood tests to chec
 
 If you forget to take or miss doses of SPORANOX®, ask your doctor what you should do with the missed doses.
 
-THE SPORANOX PULSEPAK®
+THE SPORANOX PulsePak®
 
 If you use the PulsePak®, you will take SPORANOX® for 1 week and then take no SPORANOX® for the next 3 weeks before repeating the 1-week treatment.
 This is called "pulse dosing."
@@ -190,6 +190,8 @@ Robins), Tikosyn™ (Pfizer, Inc.), Propulsid® (Janssen Pharmaceutica Products,
 
 Corporate Logo
 
-© Ortho-McNeil-Janssen Pharmaceuticals, Inc 2001
+Product of Ireland
 
-Printed in USA/ Revised: April 2012
+© Janssen Pharmaceuticals, Inc 2001
+
+Printed in USA/ Revised: June 2012
