@@ -1,6 +1,6 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
+# Package Label. Prinicipal Display Panel
 
-Tacrolimus Capsules, 0.5 mg - Container Label
+Tacrolimus Capsules, 0.5 mg - Container Label.
 
 Tacrolimus Capsules, 0.5 mg - Container Carton Label
 

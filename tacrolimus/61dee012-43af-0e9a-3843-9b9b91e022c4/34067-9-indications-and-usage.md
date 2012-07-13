@@ -1,5 +1,20 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Tacrolimus capsules are indicated for the prophylaxis of organ rejection in patients receiving allogeneic liver or kidney transplants.
-It is recommended that tacrolimus capsules be used concomitantly with adrenal corticosteroids.
-In kidney transplant recipients, it is recommended that tacrolimus capsules be used in conjunction with azathiprine or mycophenolate moeftil (MMF).
+## 1.1 Prophylaxis of Organ Rejection in Kidney Transplant
+
+Tacrolimus capsules are indicated for the prophylaxis of organ rejection in patients receiving allogeneic kidney transplants.
+It is recommended that tacrolimus capsules be used concomitantly with azathioprine or mycophenolate mofetil (MMF) and adrenal corticosteroids [see Clinical Studies (14.1)].
+Therapeutic drug monitoring is recommended for all patients receiving tacrolimus capsules [see Dosage and Administration (2.6)].
+
+## 1.2 Prophylaxis of Organ Rejection in Liver Transplant
+
+Tacrolimus capsules are indicated for the prophylaxis of organ rejection in patients receiving allogeneic liver transplants.
+It is recommended that tacrolimus capsules be used concomitantly with adrenal corticosteroids [see Clinical Studies (14.2)].
+Therapeutic drug monitoring is recommended for all patients receiving tacrolimus capsules [see Dosage and Administration (2.6)].
+
+## 1.4 Limitations of Use
+
+Tacrolimus capsules should not be used simultaneously with cyclosporine [see Dosage and Administration (2.5)].
+
+Use with sirolimus is not recommended in liver transplant.
+The safety and efficacy of tacrolimus capsules with sirolimus has not been established in kidney transplant [see Warnings and Precautions (5.12)].
