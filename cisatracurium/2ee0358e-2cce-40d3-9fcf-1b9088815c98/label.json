@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA200159"
+  ],
+  "inn": "cisatracurium",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-3152-70",
+    "0781-3152-95"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "cisatracurium besylate",
+      "name": "cisatracurium besylate"
+    }
+  ],
+  "setid": "2ee0358e-2cce-40d3-9fcf-1b9088815c98",
+  "source": "dailymed"
+}
