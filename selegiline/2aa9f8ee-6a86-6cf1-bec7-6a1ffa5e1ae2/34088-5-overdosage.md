@@ -1,11 +1,15 @@
 # OVERDOSAGE
 
-Selegiline: No specific information is available about clinically significant overdoses with selegiline hydrochloride.
-However, experience gained during selegiline's development reveals that some individuals exposed to doses of 600 mg d,l-selegiline suffered severe hypotension and psychomotor agitation.
+## Selegiline
+
+No specific information is available about clinically significant overdoses with selegiline hydrochloride.
+However, experience gained during selegiline's development reveals that some individuals exposed to doses of 600 mg of d,l-selegiline suffered severe hypotension and psychomotor agitation.
 
 Since the selective inhibition of MAO B by selegiline hydrochloride is achieved only at doses in the range recommended for the treatment of Parkinson's disease (e.g., 10 mg/day), overdoses are likely to cause significant inhibition of both MAO A and MAO B. Consequently, the signs and symptoms of overdose may resemble those observed with marketed non-selective MAO inhibitors (e.g., tranylcypromine, isocarboxazide, and phenelzine).
 
-Overdose with Non-Selective MAO Inhibition: NOTE: This section is provided for reference; it does not describe events that have actually been observed with selegiline in overdose.
+## Overdose with Non-Selective MAO Inhibition
+
+NOTE: This section is provided for reference; it does not describe events that have actually been observed with selegiline in overdose.
 
 Characteristically, signs and symptoms of non-selective MAOI overdose may not appear immediately.
 Delays of up to 12 hours between ingestion of drug and the appearance of signs may occur.
@@ -18,7 +22,9 @@ The central nervous and cardiovascular systems are prominently involved.
 
 Signs and symptoms of overdosage may include, alone or in combination, any of the following: drowsiness, dizziness, faintness, irritability, hyperactivity, agitation, severe headache, hallucinations, trismus, opisthotonus, convulsions, and coma; rapid and irregular pulse, hypertension, hypotension and vascular collapse; precordial pain, respiratory depression and failure, hyperpyrexia, diaphoresis, and cool, clammy skin.
 
-Treatment Suggestions for Overdose: NOTE: Because there is no recorded experience with selegiline overdose, the following suggestions are offered based upon the assumption that selegiline overdose may be modeled by non-selective MAOI poisoning.
+## Treatment Suggestions for Overdose
+
+NOTE: Because there is no recorded experience with selegiline overdose, the following suggestions are offered based upon the assumption that selegiline overdose may be modeled by non-selective MAOI poisoning.
 In any case, up-to-date information about the treatment of overdose can often be obtained from a certified Regional Poison Control Center.
 Telephone numbers of certified Poison Control Centers are listed in the Physicians' Desk Reference (PDR).
 

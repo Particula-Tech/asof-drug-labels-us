@@ -1,7 +1,9 @@
 # ADVERSE REACTIONS
 
-Introduction: The number of patients who received selegiline in prospectively monitored pre-marketing studies is limited.
-While other sources of information about the use of selegiline are available (e.g., literature reports, foreign post-marketing reports, etc.), they do not provide the kind of information necessary to estimate the incidence of adverse events.
+## Introduction
+
+The number of patients who received selegiline in prospectively monitored pre-marketing studies is limited.
+While other sources of information about the use of selegiline are available (e.g., literature reports, foreign post-marketing reports, etc.) they do not provide the kind of information necessary to estimate the incidence of adverse events.
 Thus, overall incidence figures for adverse reactions associated with the use of selegiline cannot be provided.
 Many of the adverse reactions seen have also been reported as symptoms of dopamine excess.
 
@@ -14,27 +16,82 @@ Experience with selegiline obtained in parallel, placebo controlled, randomized 
 The following reactions that occurred with greater frequency among the 49 patients assigned to selegiline as compared to the 50 patients assigned to placebo in the only parallel, placebo controlled trial performed in patients with Parkinson's disease are shown in the following Table.
 None of these adverse reactions led to a discontinuation of treatment.
 
-Central Nervous System: Motor/Coordination/Extrapyramidal: increased tremor, chorea, loss of balance, restlessness, blepharospasm, increased bradykinesia, facial grimace, falling down, heavy leg, muscle twitch*, myoclonic jerks*, stiff neck, tardive dyskinesia, dystonic symptoms, dyskinesia, involuntary movements, freezing, festination, increased apraxia, muscle cramps.
+INCIDENCE OF TREATMENT-EMERGENT ADVERSE EXPERIENCES IN THE PLACEBO-CONTROLLED CLINICAL TRIAL
 
-Mental Status/Behavioral/Pychiatric: hallucinations, dizziness, confusion, anxiety, depression, drowsiness, behavior/mood change, dreams/nightmares, tiredness, delusions, disorientation, lightheadedness, impaired memory*, increased energy*, transient high*, hollow feeling, lethargy/malaise, apathy, overstimulation, vertigo, personality change, sleep disturbance, restlessness, weakness, transient irritability.
+| Adverse Event | Number of Patients Reporting Events |  |
+| --- | --- | --- |
+|  | selegiline hydrochloride N = 49 | placebo N = 50 |
+| Nausea | 10 | 3 |
+| Dizziness/Light-headed/Fainting | 7 | 1 |
+| Abdominal Pain | 4 | 2 |
+| Confusion | 3 | 0 |
+| Hallucinations | 3 | 1 |
+| Dry mouth | 3 | 1 |
+| Vivid Dreams | 2 | 0 |
+| Dyskinesias | 2 | 5 |
+| Headache | 2 | 1 |
+| The following events were reported once in either or both groups: |  |  |
+| Ache, generalized | 1 | 0 |
+| Anxiety/Tension | 1 | 1 |
+| Anemia | 0 | 1 |
+| Diarrhea | 1 | 0 |
+| Hair Loss | 0 | 1 |
+| Insomnia | 1 | 1 |
+| Lethargy | 1 | 0 |
+| Leg pain | 1 | 0 |
+| Low back pain | 1 | 0 |
+| Malaise | 0 | 1 |
+| Palpitations | 1 | 0 |
+| Urinary Retention | 1 | 0 |
+| Weight Loss | 1 | 0 |
 
-Pain/Altered Sensation: headache, back pain, leg pain, tinnitus, migraine, supraorbital pain, throat burning, generalized ache, chills, numbness of toes/fingers, taste disturbance.
+In all prospectively monitored clinical investigations, enrolling approximately 920 patients, the following adverse events, classified by body system, were reported.
 
-Autonomic Nervous System: dry mouth, blurred vision, sexual dysfunction.
+## Central Nervous System
 
-Cardiovascular: orthostatic hypotension, hypertension, arrhythmia, palpitations, new or increased angina pectoris, hypotension, tachycardia, peripheral edema, sinus bradycardia, syncope.
+### Motor/Coordination/Extrapyramidal
 
-Gastrointestinal: nausea/vomiting, constipation, weight loss, anorexia, poor appetite, dysphagia, diarrhea, heartburn, rectal bleeding, bruxism*, gastrointestinal bleeding (exacerbation of preexisting ulcer disease).
+increased tremor, chorea, loss of balance, restlessness, blepharospasm, increased bradykinesia, facial grimace, falling down, heavy leg, muscle twitch*, myoclonic jerks*, stiff neck, tardive dyskinesia, dystonic symptoms, dyskinesia, involuntary movements, freezing, festination, increased apraxia, muscle cramps.
 
-Genitourinary/Gynecologic/Endocrine: slow urination, transient anorgasmia*, nocturia, prostatic hypertrophy, urinary hesitancy, urinary retention, decreased penile sensation*, urinary frequency.
+### Mental Status/Behavioral/Psychiatric
 
-Skin and Appendages: increased sweating, diaphoresis, facial hair, hair loss, hematoma, rash, photosensitivity.
+hallucinations, dizziness, confusion, anxiety, depression, drowsiness, behavior/mood change, dreams/nightmares, tiredness, delusions, disorientation, lightheadedness, impaired memory*, increased energy*, transient high*, hollow feeling, lethargy/malaise, apathy, overstimulation, vertigo, personality change, sleep disturbance, restlessness, weakness, transient irritability.
 
-Miscellaneous: asthma, diplopia, shortness of breath, speech affected.
+### Pain/Altered Sensation
 
-Postmarketing Reports: The following experiences were described in spontaneous post-marketing reports.
-These reports do not provide sufficient information to establish a clear causal relationship with the use of selegiline hydrochloride.
+headache, back pain, leg pain, tinnitus, migraine, supraorbital pain, throat burning, generalized ache, chills, numbness of toes/fingers, taste disturbance.
 
-CNS: Seizure in dialyzed chronic renal failure patient on concomitant medications.
+## Autonomic Nervous System
+
+dry mouth, blurred vision, sexual dysfunction.
+
+## Cardiovascular
+
+orthostatic hypotension, hypertension, arrhythmia, palpitations, new or increased angina pectoris, hypotension, tachycardia, peripheral edema, sinus bradycardia, syncope.
+
+## Gastrointestinal
+
+nausea/vomiting, constipation, weight loss, anorexia, poor appetite, dysphagia, diarrhea, heartburn, rectal bleeding, bruxism*, gastrointestinal bleeding (exacerbation of preexisting ulcer disease).
+
+## Genitourinary/Gynecologic/Endocrine
+
+slow urination, transient anorgasmia*, nocturia, prostatic hypertrophy, urinary hesitancy, urinary retention, decreased penile sensation*, urinary frequency.
 
 *Indicates events reported only at doses greater than 10 mg/day.
+
+## Skin and Appendages
+
+increased sweating, diaphoresis, facial hair, hair loss, hematoma, rash, photosensitivity.
+
+## Miscellaneous
+
+asthma, diplopia, shortness of breath, speech affected.
+
+## Postmarketing Reports
+
+The following experiences were described in spontaneous post-marketing reports.
+These reports do not provide sufficient information to establish a clear causal relationship with the use of selegiline hydrochloride.
+
+### CNS
+
+Seizure in dialyzed chronic renal failure patient on concomitant medications.

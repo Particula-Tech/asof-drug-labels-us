@@ -11,7 +11,7 @@ APOTEX INC. SELEGILINE HYDROCHLORIDE TABLETS USP 5 mg
 
 Manufactured by: Manufactured for: Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: November 2003
+Revised: June 2009
 
 Rev.
-0
+1

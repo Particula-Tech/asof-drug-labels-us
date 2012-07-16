@@ -5,7 +5,7 @@ Inhibition of monoamine oxidase, type B, activity is generally considered to be 
 
 Selegiline is best known as an irreversible inhibitor of monoamine oxidase (MAO), an intracellular enzyme associated with the outer membrane of mitochondria.
 Selegiline inhibits MAO by acting as a 'suicide' substrate for the enzyme; that is, it is converted by MAO to an active moiety which combines irreversibly with the active site and/or the enzyme's essential FAD cofactor.
-Because selegiline has greater affinity for type B than for type A active sites, it can serve as a selective inhibitor of MAO type B if it is administered at the recommended dose.
+Because selegiline has greater affinity for type B rather than for type A active sites, it can serve as a selective inhibitor of MAO type B if it is administered at the recommended dose.
 
 MAOs are widely distributed throughout the body; their concentration is especially high in liver, kidney, stomach, intestinal wall, and brain.
 MAOs are currently subclassified into two types, A and B, which differ in their substrate specificity and tissue distribution.
@@ -23,7 +23,7 @@ In addition, one case of hypertensive crisis has been reported in a patient taki
 The pathophysiology of the 'cheese reaction' is complicated and, in addition to its ability to inhibit MAO B selectively, selegiline's relative freedom from this reaction has been attributed to an ability to prevent tyramine and other indirect acting sympathomimetics from displacing norepinephrine from adrenergic neurons.
 However, until the pathophysiology of the 'cheese reaction' is more completely understood, it seems prudent to assume that selegiline can ordinarily only be used safely without dietary restrictions at doses where it presumably selectively inhibits MAO B (e.g., 10 mg/day).
 
-In short, attention to the dose dependent nature of selegiline's selectivity is critical if it is to be used without elaborate restrictions being placed on diet and concomitant drug use although, as noted above, a case of hypertensive reactions has been reported at the recommended dose.
+In short, attention to the dose dependent nature of selegiline's selectivity is critical if it is to be used without elaborate restrictions being placed on diet and concomitant drug use although, as noted above, a few cases of hypertensive reactions have been reported at the recommended dose.
 (See WARNINGS and PRECAUTIONS.)
 
 It is important to be aware that selegiline may have pharmacological effects unrelated to MAO B inhibition.
@@ -32,7 +32,9 @@ Effects resulting from selegiline administration may also be mediated through it
 Two of its three principal metabolites, amphetamine and methamphetamine, have pharmacological actions of their own; they interfere with neuronal uptake and enhance release of several neurotransmitters (e.g., norepinephrine, dopamine, serotonin).
 However, the extent to which these metabolites contribute to the effects of selegiline are unknown.
 
-Rationale for the Use of a Selective Monoamine Oxidase Type B Inhibitor in Parkinson's Disease: Many of the prominent symptoms of Parkinson's disease are due to a deficiency of striatal dopamine that is the consequence of a progressive degeneration and loss of a population of dopaminergic neurons which originate in the substantia nigra of the midbrain and project to the basal ganglia or striatum.
+## Rationale for the Use of a Selective Monoamine Oxidase Type B Inhibitor in Parkinson's Disease
+
+Many of the prominent symptoms of Parkinson's disease are due to a deficiency of striatal dopamine that is the consequence of a progressive degeneration and loss of a population of dopaminergic neurons which originate in the substantia nigra of the midbrain and project to the basal ganglia or striatum.
 Early in the course of Parkinson's Disease, the deficit in the capacity of these neurons to synthesize dopamine can be overcome by administration of exogenous levodopa, usually given in combination with a peripheral decarboxylase inhibitor (carbidopa).
 
 With the passage of time, due to the progression of the disease and/or the effect of sustained treatment, the efficacy and quality of the therapeutic response to levodopa diminishes.
@@ -47,14 +49,15 @@ Selegiline's benefit in Parkinson's disease has only been documented as an adjun
 Whether or not it might be effective as a sole treatment is unknown, but past attempts to treat Parkinson's disease with nonselective MAOI monotherapy are reported to have been unsuccessful.
 It is important to note that attempts to treat Parkinsonian patients with combinations of levodopa and currently marketed non-selective MAO inhibitors were abandoned because of multiple side effects including hypertension, increase in involuntary movement and toxic delirium.
 
-Pharmacokinetic Information (Absorption, Distribution, Metabolism and Elimination - ADME): The absolute bioavailability of selegiline following oral dosing is not known; however, selegiline undergoes extensive metabolism (presumably attributable to presystemic clearance in gut and liver).
+## Pharmacokinetic Information (Absorption, Distribution, Metabolism and Elimination - ADME)
+
+The absolute bioavailability of selegiline following oral dosing is not known; however, selegiline undergoes extensive metabolism (presumably attributable to presystemic clearance in gut and liver).
 The major plasma metabolites are N-desmethylselegiline, L-amphetamine and L-methamphetamine.
 Only N-desmethylselegiline has MAO-B inhibiting activity.
 The peak plasma levels of these metabolites following a single oral dose of 10 mg are from 4 to almost 20 times greater than that of the maximum plasma concentration of selegiline (1 ng/mL).
 The maximum concentrations of amphetamine and methamphetamine, however, are far below those ordinarily expected to produce clinically important effects.
 
-Single oral dose studies do not predict multiple dose kinetics, however.
-At steady state the peak plasma level of selegiline is 4 fold that obtained following a single dose.
+Single oral dose studies do not predict multiple dose kinetics, however, at steady state the peak plasma level of selegiline is 4 fold that obtained following a single dose.
 Metabolite concentrations increase to a lesser extent, averaging 2 fold that seen after a single dose.
 
 The bioavailability of selegiline is increased 3 to 4 fold when it is taken with food.
@@ -69,12 +72,20 @@ For the same reason, it is not possible to predict the rate of recovery of MAO-B
 The recovery of MAO-B activity is a function of de novo protein synthesis; however, information about the rate of de novo protein synthesis is not yet available.
 Although platelet MAO-B activity returns to the normal range within 5 to 7 days of selegiline discontinuation, the linkage between platelet and brain MAO-B inhibition is not fully understood nor is the relationship of MAO-B inhibition to the clinical effect established (see CLINICAL PHARMACOLOGY).
 
-Special Populations:
+## Special Populations
 
-Renal Impairment: No pharmacokinetic information is available on selegiline or its metabolites in renally impaired subjects.
+### Renal Impairment
 
-Hepatic Impairment: No pharmacokinetic information is available on selegiline or its metabolites in hepatically impaired subjects.
+No pharmacokinetic information is available on selegiline or its metabolites in renally impaired subjects.
 
-Age: Although a general conclusion about the effects of age on the pharmacokinetics of selegiline is not warranted because of the size of the sample evaluated (12 subjects greater than 60 years of age, 12 subjects between the ages of 18 to 30), systemic exposure was about twice as great in older as compared to a younger population given a single oral dose of 10 mg.
+### Hepatic Impairment
 
-Gender: No information is available on the effects of gender on the pharmacokinetics of selegiline.
+No pharmacokinetic information is available on selegiline or its metabolites in hepatically impaired subjects.
+
+### Age
+
+Although a general conclusion about the effects of age on the pharmacokinetics of selegiline is not warranted because of the size of the sample evaluated (12 subjects greater than 60 years of age, 12 subjects between the ages of 18 to 30), systemic exposure was about twice as great in older as compared to a younger population given a single oral dose of 10 mg.
+
+### Gender
+
+No information is available on the effects of gender on the pharmacokinetics of selegiline.

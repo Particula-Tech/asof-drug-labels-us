@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074871"
+  ],
   "inn": "selegiline",
   "labeler": "Apotex Corp.",
   "package_ndcs": [
     "60505-3438-3",
     "60505-3438-8"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "selegiline hydrochloride",
+      "name": "Selegiline Hydrochloride"
+    }
+  ],
   "setid": "2aa9f8ee-6a86-6cf1-bec7-6a1ffa5e1ae2",
   "source": "dailymed"
 }
