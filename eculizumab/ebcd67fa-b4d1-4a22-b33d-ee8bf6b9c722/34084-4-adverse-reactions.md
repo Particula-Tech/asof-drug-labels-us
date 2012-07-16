@@ -120,13 +120,14 @@ Table 6: Adverse Reactions Occurring in at Least 15% of Patients Less than 18 Ye
 ## 6.2 Immunogenicity
 
 As with all proteins there is a potential for immunogenicity.
-The immunogenicity of Soliris has been evaluated using two different immunoassays for the detection of anti-eculizumab antibodies: a direct enzyme-linked immunosorbent assay (ELISA) using the Fab fragment of eculizumab as target was used for the PNH indication; and an electro-chemiluminescence (ECL) bridging assay using the eculizumab whole molecular as target was used for the aHUS indication.
-Low titers of antibodies to Soliris were detected in 3/196 (2%) of all PNH patients treated with Soliris by the ELISA assay.
+The immunogenicity of Soliris has been evaluated using two different immunoassays for the detection of anti-eculizumab antibodies: a direct enzyme-linked immunosorbent assay (ELISA) using the Fab fragment of eculizumab as target was used for the PNH indication; and an electro-chemiluminescence (ECL) bridging assay using the eculizumab whole molecular as target was used for the aHUS indication as well as for additional PNH patients.
+In the PNH population, antibodies to Soliris were detected in 3/196 (2%) PNH patients treated with Soliris using the ELISA assay and in 5/161 (3%) patients treated with Soliris using the ECL assay.
 In patients with aHUS treated with Soliris, antibodies to Soliris were detected in 1/37 (2.7%) by the ECL assay.
-An ECL based neutralizing HAHA assay with a low sensitivity of 2 mcg/mL was performed to detect neutralizing antibodies for the 37 patients with aHUS.
+An ECL based neutralizing HAHA assay with a low sensitivity of 2 mcg/mL was performed to detect neutralizing antibodies for the 37 patients with aHUS and also for the 5 PNH patients with positive samples by the ECL assay.
 No neutralizing activity to Soliris was detected in patients with aHUS treated with Soliris.
+In the PNH group, 2/161 (1.2%) patients had low positive values for neutralizing antibodies.
 No apparent correlation of antibody development to clinical response was observed in both indications.
-The immunogenicity data reflect the percentage of patients whose test results were considered positive for antibodies to Soliris in an ELISA based assay and/or an ECL based assay are highly dependent on the sensitivity and specificity of the assay used.
+The immunogenicity data reflect the percentage of patients whose test results were considered positive for antibodies to Soliris in an ELISA-based assay and/or an ECL-based assay are highly dependent on the sensitivity and specificity of the assay used.
 Additionally, the observed incidence of antibody positivity in the assay may be influenced by several factors including sample handling, timing of sample collection, concomitant medications and underlying disease.
 For these reasons, comparison of the incidence of antibodies to Soliris with the incidence of antibodies to other products may be misleading.
 
