@@ -2,12 +2,12 @@
 
 The following adverse reactions described elsewhere in the labeling include:
 
-- Respiratory depression [see Boxed Warning, Warnings and Precautions (5.1, 5.4) and Overdosage (10)]
-- CNS depression [see Warnings and Precautions (5.1, 5.2) and Overdosage (10)]
-- Hypotensive effects [see Warning and Precautions (5.8) and Overdosage (10)]
+- Respiratory depression [see Boxed Warning, Warnings and Precautions (5.2, 5.5), and Overdosage (10)]
+- CNS depression [see Drug Interactions (7.1), and Overdosage (10)]
+- Hypotensive effects [see Warnings and Precautions (5.7), and Overdosage (10)]
 - Drug abuse, addiction, and dependence [see Drug Abuse and Dependence (9.2, 9.3)]
-- Paralytic ileus [see Warnings and Precautions (5.6)]
-- Seizures [see Warnings and Precautions (5.5)]
+- Gastrointestinal Effects [see Warnings and Precautions (5.9, 5.10)]
+- Seizures [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -23,23 +23,23 @@ The most common adverse reactions (>5%) reported by patients in clinical trials 
 
 TABLE 2: Common Adverse Reactions (>5%)
 
-| Adverse Reaction | OxyContin (n=227) |  | Placebo (n=45) |
-| --- | --- | --- | --- |
-|  | (%) |  | (%) |
-| Constipation | (23) |  | (7) |
-| Nausea | (23) |  | (11) |
-| Somnolence | (23) |  | (4) |
-| Dizziness | (13) |  | (9) |
-| Pruritus | (13) |  | (2) |
-| Vomiting | (12) |  | (7) |
-| Headache | (7) |  | (7) |
-| Dry Mouth | (6) |  | (2) |
-| Asthenia | (6) |  | - |
-| Sweating | (5) |  | (2) |
+| Adverse Reaction | OxyContin (n=227) | Placebo (n=45) |
+| --- | --- | --- |
+| (%) | (%) |  |
+| Constipation | (23) | (7) |
+| Nausea | (23) | (11) |
+| Somnolence | (23) | (4) |
+| Dizziness | (13) | (9) |
+| Pruritus | (13) | (2) |
+| Vomiting | (12) | (7) |
+| Headache | (7) | (7) |
+| Dry Mouth | (6) | (2) |
+| Asthenia | (6) | - |
+| Sweating | (5) | (2) |
 
 In clinical trials, the following adverse reactions were reported in patients treated with OxyContin with an incidence between 1% and 5%:
 
-Gastrointestinal disorders: abdominal pain, diarrhea, dyspepsia, gastritis, hiccups
+Gastrointestinal disorders: abdominal pain, diarrhea, dyspepsia, gastritis
 
 General disorders and administration site conditions: chills, fever
 
@@ -87,7 +87,9 @@ Skin and subcutaneous tissue disorders: dry skin, exfoliative dermatitis
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of controlled-release oxycodone.
-Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: abuse, addiction, overdose, death, amenorrhea, symptoms associated with an anaphylactic or anaphylactoid reaction, cholestasis, dental caries, increased hepatic enzymes, muscular hypertonia, hyponatremia, ileus, palpitations (in the context of withdrawal), seizures, syndrome of inappropriate antidiuretic hormone secretion, and urticaria
+The following adverse reactions have been identified during post-approval use of controlled-release oxycodone: abuse, addiction, amenorrhea, cholestasis, death, dental caries, increased hepatic enzymes, hyperalgesia, hyponatremia, ileus, muscular hypertonia, overdose, palpitations (in the context of withdrawal), seizures, syndrome of inappropriate antidiuretic hormone secretion, and urticaria.
+
+Anaphylaxis has been reported with ingredients contained in OxyContin.
+Advise patients how to recognize such a reaction and when to seek medical attention.
 
 In addition to the events listed above, the following have also been reported, potentially due to the swelling and hydrogelling property of the tablet: choking, gagging, regurgitation, tablets stuck in the throat and difficulty swallowing the tablet.

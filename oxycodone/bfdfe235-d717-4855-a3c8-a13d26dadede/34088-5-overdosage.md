@@ -1,20 +1,25 @@
 # 10 OVERDOSAGE
 
-Acute overdosage with OxyContin can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring and death.
+Clinical Presentation
 
-It is important to take the pharmacokinetic profile of OxyContin into account when treating overdose.
-Even in the face of improvement, continued medical monitoring is required because of the possibility of extended effects as opioid continues to be absorbed from ingested tablets.
+Acute overdosage with OxyContin can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring and death.
+Marked mydriasis rather than miosis may be seen due to severe hypoxia in overdose situations.
 
-Deaths due to overdose have been reported with abuse and misuse of whole OxyContin tablets, and with abuse and misuse by ingesting, inhaling, or injecting crushed tablets.
-Review of case reports has indicated that the risk of fatal overdose is further increased when OxyContin is abused concurrently with alcohol or other CNS depressants, including other opioids.
+Treatment of Overdose
 
-In the treatment of OxyContin overdosage, primary attention should be given to the maintenance of a patent airway, and of effective ventilation (clearance of CO2) and oxygenation, whether by spontaneous, assisted or controlled respiration.
-Supportive measures (including oxygen and vasopressors) should be employed in the management of circulatory shock and pulmonary edema accompanying overdose as indicated.
-Cardiac arrest or arrhythmias may require cardiac massage or defibrillation.
+In case of overdose, priorities are the re-establishment of a patent and protected airway and institution of assisted or controlled ventilation if needed.
+Employ other supportive measures (including oxygen, vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
+Cardiac arrest or arrhythmias will require advanced life support techniques.
 
-The pure opioid antagonists such as naloxone or nalmefene are specific antidotes against respiratory depression from opioid overdose.
-Since the duration of action of OxyContin may exceed that of the antagonist, especially when the overdose involves intact tablets, keep the patient under continued surveillance and administer repeated doses of the antagonist according to the antagonist labeling as needed to maintain adequate respiration.
-Do not administer opioid antagonists in the absence of clinically significant respiratory or circulatory depression secondary to oxycodone overdose.
-In patients who are physically dependent on any opioid agonist including OxyContin, an abrupt partial or complete reversal of opioid effects may precipitate an acute abstinence (or withdrawal) syndrome.
-The severity of the withdrawal syndrome produced will depend on the degree of physical dependence and the dose of the antagonist administered.
-See the prescribing information for the specific opioid antagonist for details of its proper use.
+The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
+Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to oxycodone overdose.
+Such agents should be administered cautiously to persons who are known, or suspected to be physically dependent on OxyContin.
+In such cases, an abrupt or complete reversal of opioid effects may precipitate an acute withdrawal syndrome.
+
+Because the duration of reversal would be expected to be less than the duration of action of oxycodone in OxyContin, carefully monitor the patient until spontaneous respiration is reliably re-established.
+OxyContin will continue to release oxycodone and add to the oxycodone load for 24 to 48 hours or longer following ingestion necessitating prolonged monitoring.
+If the response to opioid antagonists is suboptimal or not sustained, additional antagonist should be administered as directed in the product’s prescribing information.
+
+In an individual physically dependent on opioids, administration of the usual dose of the antagonist will precipitate an acute withdrawal syndrome.
+The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
+If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be begun with care and by titration with smaller than usual doses of the antagonist.

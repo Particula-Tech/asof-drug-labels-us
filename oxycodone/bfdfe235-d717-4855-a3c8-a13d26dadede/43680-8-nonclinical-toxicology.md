@@ -18,4 +18,4 @@ Impairment of Fertility
 In a study of reproductive performance, rats were administered a once daily gavage dose of the vehicle or oxycodone hydrochloride (0.5, 2, and 8 mg/kg).
 Male rats were dosed for 28 days before cohabitation with females, during the cohabitation and until necropsy (2-3 weeks post-cohabitation).
 Females were dosed for 14 days before cohabitation with males, during cohabitation and up to gestation day 6.
-Oxycodone hydrochloride did not affect reproductive function in male or female rats at any dose tested (≤8 mg/kg/day).
+Oxycodone hydrochloride did not affect reproductive function in male or female rats at any dose tested (≤ 8 mg/kg/day).

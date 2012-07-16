@@ -18,7 +18,7 @@ However, specific CNS opioid receptors for endogenous compounds with opioid-like
 A single-dose, double-blind, placebo- and dose-controlled study was conducted using OxyContin (10, 20, and 30 mg) in an analgesic pain model involving 182 patients with moderate to severe pain.
 OxyContin doses of 20 mg and 30 mg produced statistically significant pain reduction compared to placebo.
 
-Central Nervous System
+Effects on the Central Nervous System
 
 Oxycodone produces respiratory depression by direct action on brain stem respiratory centers.
 The respiratory depression involves both a reduction in the responsiveness of the brain stem respiratory centers to increases in CO2 tension and to electrical stimulation.
@@ -30,43 +30,43 @@ Oxycodone causes miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origin may produce similar findings).
 Marked mydriasis rather than miosis may be seen with hypoxia in the setting of oxycodone overdose [see Overdosage (10)].
 
-Gastrointestinal Tract and Other Smooth Muscle
+Effects on the Gastrointestinal Tract and Other Smooth Muscle
 
 Oxycodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm resulting in constipation.
 Other opioid-induced effects may include a reduction in gastric, biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
 
-Cardiovascular System
+Effects on the Cardiovascular System
 
 Oxycodone may produce release of histamine with or without associated peripheral vasodilation.
 Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
 
-Endocrine System
+Effects on the Endocrine System
 
-Opioids may influence the hypothalamic-pituitary-adrenal or -gonadal axes.
-Some changes that can be seen include an increase in serum prolactin, and decreases in plasma cortisol and testosterone.
-Clinical signs and symptoms may be manifest from these hormonal changes.
+Opioids inhibit the secretion of ACTH, cortisol, testosterone, and luteinizing hormone (LH) in humans.
+They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Immune System
+Effects on the Immune System
 
-In vitro and animal studies indicate that opioids have a variety of effects on immune functions, depending on the context in which they are used.
+Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
 The clinical significance of these findings is unknown.
+Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-Concentration – Efficacy Relationships
+Concentration –Efficacy Relationships
 
-Studies in normal volunteers and patients reveal predictable relationships between oxycodone dosage and plasma oxycodone concentrations, as well as between concentration and certain expected opioid effects, such as pupillary constriction, sedation, overall subjective "drug effect", analgesia and feelings of "relaxation".
+Studies in normal volunteers and patients reveal predictable relationships between oxycodone dosage and plasma oxycodone concentrations, as well as between concentration and certain expected opioid effects, such as pupillary constriction, sedation, overall subjective “drug effect”, analgesia and feelings of relaxation.
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
 As a result, patients must be treated with individualized titration of dosage to the desired effect.
 The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome and/or the development of analgesic tolerance.
 
-Concentration – Adverse Reaction Relationships
+Concentration –Adverse Reaction Relationships
 
 There is a relationship between increasing oxycodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
 In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related side effects.
 
-The dose of OxyContin must be individualized [see Dosage and Administration (2.6)], because the effective analgesic dose for some patients will be too high to be tolerated by other patients.
+The dose of OxyContin must be individualized because the effective analgesic dose for some patients will be too high to be tolerated by other patients [see Dosage and Administration (2.1)].
 
 ## 12.3 Pharmacokinetics
 
@@ -80,32 +80,32 @@ The oral bioavailability of oxycodone is 60% to 87%.
 The relative oral bioavailability of oxycodone from OxyContin to that from immediate-release oral dosage forms is 100%.
 Upon repeated dosing with OxyContin in healthy subjects in pharmacokinetic studies, steady-state levels were achieved within 24-36 hours.
 Oxycodone is extensively metabolized and eliminated primarily in the urine as both conjugated and unconjugated metabolites.
-The apparent elimination half-life of oxycodone following the administration of OxyContin was 4.5 hours compared to 3.2 hours for immediate-release oxycodone.
+The apparent elimination half-life (t½) of oxycodone following the administration of OxyContin was 4.5 hours compared to 3.2 hours for immediate-release oxycodone.
 
 Absorption
 
 About 60% to 87% of an oral dose of oxycodone reaches the central compartment in comparison to a parenteral dose.
 This high oral bioavailability is due to low pre-systemic and/or first-pass metabolism.
 
-Plasma Oxycodone Concentration Over Time
+Plasma Oxycodone Concentration over Time
 
 Dose proportionality has been established for OxyContin 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 60 mg, and 80 mg tablet strengths for both peak plasma concentrations (Cmax) and extent of absorption (AUC) (see Table 3).
-Given the short elimination half-life of oxycodone, steady-state plasma concentrations of oxycodone are achieved within 24-36 hours of initiation of dosing with OxyContin.
+Given the short elimination t½ of oxycodone, steady-state plasma concentrations of oxycodone are achieved within 24-36 hours of initiation of dosing with OxyContin.
 In a study comparing 10 mg of OxyContin every 12 hours to 5 mg of immediate-release oxycodone every 6 hours, the two treatments were found to be equivalent for AUC and Cmax, and similar for Cmin (trough) concentrations.
 
-TABLE 3 Mean [% coefficient of variation]
+TABLE 3
 
-| Regimen | Dosage Form | AUC (ng•hr/mL)* | Cmax (ng/mL) | Tmax (hr) |  |
-| --- | --- | --- | --- | --- | --- |
-| Single Dose† | 10 mg | 136 [27] | 11.5 [27] | 5.11 [21] |  |
-|  | 15 mg | 196 [28] | 16.8 [29] | 4.59 [19] |  |
-|  | 20 mg | 248 [25] | 22.7 [25] | 4.63 [22] |  |
-|  | 30 mg | 377 [24] | 34.6 [21] | 4.61 [19] |  |
-|  | 40 mg | 497 [27] | 47.4 [30] | 4.40 [22] |  |
-|  | 60 mg | 705 [22] | 64.6 [24] | 4.15 [26] |  |
-|  | 80 mg | 908 [21] | 87.1 [29] | 4.27 [26] |  |
-| * for single-dose AUC = AUC0-inf |  |  |  |  |  |
-| †data obtained while subjects received naltrexone which can enhance absorption |  |  |  |  |  |
+| Mean [% coefficient of variation] |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Regimen | Dosage Form | AUC (ng-hr/mL)* | Cmax (ng/mL) | Tmax (hr) |
+| Single Dose† | 10 mg | 136 [27] | 11.5 [27] | 5.11 [21] |
+|  | 15 mg | 196 [28] | 16.8 [29] | 4.59 [19] |
+|  | 20 mg | 248 [25] | 22.7 [25] | 4.63 [22] |
+|  | 30 mg | 377 [24] | 34.6 [21] | 4.61 [19] |
+|  | 40 mg | 497 [27] | 47.4 [30] | 4.40 [22] |
+|  | 60 mg | 705 [22] | 64.6 [24] | 4.15 [26] |
+|  | 80 mg | 908 [21] | 87.1 [29] | 4.27 [26] |
+| * for single-dose AUC = AUC0-inf †data obtained while subjects received naltrexone which can enhance absorption |  |  |  |  |
 
 Food Effects
 
@@ -116,20 +116,20 @@ Distribution
 Following intravenous administration, the steady-state volume of distribution (Vss) for oxycodone was 2.6 L/kg.
 Oxycodone binding to plasma protein at 37°C and a pH of 7.4 was about 45%.
 Once absorbed, oxycodone is distributed to skeletal muscle, liver, intestinal tract, lungs, spleen, and brain.
-Oxycodone has been found in breast milk [see Use In Specific Populations (8.3)].
+Oxycodone has been found in breast milk [see Use in Specific Populations (8.3)].
 
 Metabolism
 
 Oxycodone is extensively metabolized by multiple metabolic pathways to produce noroxycodone, oxymorphone and noroxymorphone, which are subsequently glucuronidated.
 Noroxycodone and noroxymorphone are the major circulating metabolites.
 CYP3A mediated N-demethylation to noroxycodone is the primary metabolic pathway of oxycodone with a lower contribution from CYP2D6 mediated O-demethylation to oxymorphone.
-Therefore, the formation of these and related metabolites can, in theory, be affected by other drugs (see Drug-Drug Interactions).
+Therefore, the formation of these and related metabolites can, in theory, be affected by other drugs [see Drug Interactions (7.3)].
 
 Noroxycodone exhibits very weak anti-nociceptive potency compared to oxycodone, however, it undergoes further oxidation to produce noroxymorphone, which is active at opioid receptors.
 Although noroxymorphone is an active metabolite and present at relatively high concentrations in circulation, it does not appear to cross the blood-brain barrier to a significant extent.
 Oxymorphone is present in the plasma only at low concentrations and undergoes further metabolism to form its glucuronide and noroxymorphone.
 Oxymorphone has been shown to be active and possessing analgesic activity but its contribution to analgesia following oxycodone administration is thought to be clinically insignificant.
-Other metabolites (α- and ß-oxycodol, noroxycodol and oxymorphol) may be present at very low concentrations and demonstrate limited penetration in to the brain as compared to oxycodone.
+Other metabolites (ɑ- and ß-oxycodol, noroxycodol and oxymorphol) may be present at very low concentrations and demonstrate limited penetration into the brain as compared to oxycodone.
 The enzymes responsible for keto-reduction and glucuronidation pathways in oxycodone metabolism have not been established.
 
 Excretion
@@ -140,14 +140,14 @@ The total plasma clearance was approximately 1.4 L/min in adults.
 
 Special Populations
 
-Elderly (≥65 years)
+Elderly (≥ 65 years)
 
 The plasma concentrations of oxycodone are only nominally affected by age, being 15% greater in elderly as compared to young subjects (age 21-45).
 
 Gender
 
 Across individual pharmacokinetic studies, average plasma oxycodone concentrations for female subjects were up to 25% higher than for male subjects on a body weight adjusted basis.
-The reason for this difference is unknown [see Use In Specific Populations (8.8)].
+The reason for this difference is unknown [see Use in Specific Populations (8.8)].
 
 Renal Impairment
 
@@ -165,16 +165,16 @@ The mean elimination t½ for oxycodone increased by 2.3 hours.
 
 Drug-Drug Interactions
 
-Oxycodone is extensively metabolized by multiple metabolic pathways.
-CYP3A4 is the major enzyme involved in noroxycodone formation followed by CYP2B6, CYP2C9/19 and CYP2D6.
-Drugs that inhibit CYP3A4 activity, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), may cause decreased clearance of oxycodone which could lead to an increase in oxycodone plasma concentrations.
-For example, a published study showed that the co-administration of the antifungal drug, voriconazole, increased oxycodone AUC and Cmax by 3.6 and 1.7 fold, respectively.
-Similarly, CYP450 inducers, such as rifampin, carbamazepine, and phenytoin, may induce the metabolism of oxycodone and, therefore, may cause increased clearance of the drug which could lead to a decrease in oxycodone plasma concentrations, lack of efficacy or, possibly, development of an abstinence syndrome in a patient who had developed physical dependence to oxycodone.
-A published study showed that the co-administration of rifampin, a drug metabolizing enzyme inducer, decreased oxycodone (oral) AUC and Cmax by 86% and 63%, respectively.
+CYP3A4 Inhibitors
 
-Oxymorphone is a minor metabolite, its formation is catalyzed primarily by CYP2D6 and to a small extent by CYP2C19.
-The formation of oxymorphone may be blocked by a variety of drugs (such as antipsychotics, beta blockers, antidepressants, etc.) that inhibit these enzymes.
-However, in a study involving ten subjects using quinidine, a known inhibitor of CYP2D6, the pharmacodynamic effects of oxycodone were unchanged.
-The genetic expression of CYP2D6 may have some influence in the pharmacokinetic properties of oxycodone.
+CYP3A4 is the major enzyme involved in noroxycodone formation.
+Co-administration of OxyContin (10 mg single dose) and the CYP3A4 inhibitor ketoconazole (200 mg BID) increased oxycodone AUC and Cmax by 170% and 100%, respectively [see Drug Interactions (7.3)].
 
-The in vitro drug-drug interaction studies with noroxymorphone using human liver microsomes showed no significant inhibition of CYP2D6 and CYP3A4 activities which suggests that noroxymorphone may not alter the metabolism of other drugs that are metabolized by CYP2D6 and CYP3A4, and such blockade has not been shown to be of clinical significance with oxycodone [see Drug Interactions (7.2)].
+CYP3A4 Inducers
+
+A published study showed that the co-administration of rifampin, a drug metabolizing enzyme inducer, decreased oxycodone AUC and Cmax values by 86% and 63%, respectively [see Drug Interactions (7.3)].
+
+CYP2D6 Inhibitors
+
+Oxycodone is metabolized in part to oxymorphone via CYP2D6.
+While this pathway may be blocked by a variety of drugs such as certain cardiovascular drugs (e.g., quinidine) and antidepressants (e.g., fluoxetine), such blockade has not been shown to be of clinical significance with OxyContin [see Drug Interactions (7.3)].

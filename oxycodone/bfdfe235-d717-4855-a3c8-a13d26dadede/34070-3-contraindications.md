@@ -1,8 +1,8 @@
 # 4 CONTRAINDICATIONS
 
-OxyContin is contraindicated in:
+OxyContin is contraindicated in patients with:
 
-- patients who have significant respiratory depression
-- patients who have or are suspected of having paralytic ileus
-- patients who have acute or severe bronchial asthma
-- patients who have known hypersensitivity to any of its components or the active ingredient, oxycodone.
+- Significant respiratory depression
+- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment
+- Known or suspected paralytic ileus and gastrointestinal obstruction
+- Hypersensitivity (e.g., anaphylaxis) to oxycodone [see Adverse Reactions (6.2)]

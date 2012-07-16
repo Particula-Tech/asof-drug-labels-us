@@ -2,51 +2,64 @@
 
 ## 9.1 Controlled Substance
 
-OxyContin contains oxycodone, which is a Schedule II controlled substance with an abuse liability similar to morphine.
-OxyContin, like morphine and other opioids used for analgesia, can be abused and is subject to criminal diversion.
+OxyContin contains oxycodone, a Schedule II controlled substance with a high potential for abuse similar to other opioids including fentanyl, hydromorphone, methadone, oxycodone, and oxymorphone.
+OxyContin can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
+
+The high drug content in extended-release formulations adds to the risk of adverse outcomes from abuse and misuse.
 
 ## 9.2 Abuse
 
 Abuse of OxyContin poses a hazard of overdose and death.
 This risk is increased with compromising the tablet and with concurrent abuse of alcohol or other substances.
 
+All patients treated with opioids require careful monitoring for signs of abuse and addiction, since use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
+Drug addiction is a treatable disease, utilizing a multi-disciplinary approach, but relapse is common.
+
+Drug abuse is the intentional non-therapeutic use of an over-the-counter or prescription drug, even once, for its rewarding psychological or physiological effects.
+Drug abuse includes, but is not limited to the following examples: the use of a prescription or over-the-counter drug to get “high”, or the use of steroids for performance enhancement and muscle build up.
+
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and include: a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal.
+
+"Drug seeking" behavior is very common to addicts and drug abusers.
+Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated claims of loss of prescriptions, tampering with prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).
+“Doctor shopping” (visiting multiple prescribers) to obtain additional prescriptions is common among drug abusers and people suffering from untreated addiction.
+
+Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with poor pain control.
+
+Abuse and addiction are separate and distinct from physical dependence and tolerance.
+Physicians should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
+In addition, abuse of opioids can occur in the absence of true addiction.
+
+OxyContin, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests as required by state law, is strongly advised.
+
+Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to reduce abuse of opioid drugs.
+
+Risks Specific to Abuse of OxyContin
+
+OxyContin is for oral use only.
+Abuse of OxyContin poses a risk of overdose and death.
+This risk is increased with concurrent abuse of OxyContin with alcohol and other substances.
+Taking cut, broken, chewed, crushed, or dissolved OxyContin enhances drug release and increases the risk of over dose and death.
+
+Abuse may occur by taking intact tablets without legitimate purpose, by crushing and chewing or snorting the crushed formulation, or by injecting a solution made from the crushed formulation.
+
 With parenteral abuse, the tablet excipients can result in death, local tissue necrosis, infection, pulmonary granulomas, and increased risk of endocarditis and valvular heart injury.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases, such as hepatitis and HIV.
 
-Opioid drugs are sought by people with substance use disorders (abuse or addiction, the latter of which is also called "substance dependence") and criminals who supply them by diverting medicines out of legitimate distribution channels.
-OxyContin is a target for theft and diversion.
-
-"Drug-seeking" behavior is very common in persons with substance use disorders.
-Drug-seeking tactics include, but are not limited to, emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated "loss" of prescriptions, altering or forging of prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).
-"Doctor shopping" to obtain additional prescriptions is common among people with untreated substance use disorders, and criminals who divert controlled substances.
-
-The risks of misuse and abuse should be considered when prescribing or dispensing OxyContin.
-Concerns about abuse and addiction, should not prevent the proper management of pain, however.
-Treatment of pain should be individualized, balancing the potential benefits and risks for each patient.
-
-Compromising an extended or controlled-release delivery system will result in the uncontrolled delivery of oxycodone and pose a significant risk to the abuser that could result in overdose and death [see Warnings and Precautions (5.1)].
-The risk of fatal overdose is further increased when oxycodone is abused concurrently with alcohol or other CNS depressants, including other opioids [see Warnings and Precautions (5.3)].
-Abuse may occur by taking intact tablets without legitimate purpose, by crushing and chewing or snorting the crushed formulation, or by injecting a solution made from the crushed formulation.
-
-Drug addiction is characterized by compulsive abuse, repeated use for non-medical purposes, loss of control over intake, craving of psychic effects and continued abuse despite harm or risk of harm in medical, social, legal or occupational domains.
-There is a potential for drug addiction to develop following exposure to opioids, including oxycodone.
-Drug addiction is a treatable disease, but relapse is common.
-
-Abuse and addiction are separate and distinct from physical dependence and tolerance.
-Physicians should be aware that addiction may not be accompanied by concurrent tolerance and physical dependence in all addicts.
-In addition, abuse of opioids can occur in the absence of addiction and is characterized by intentional misuse for non-medical purposes, often in combination with other psychoactive substances.
-OxyContin has been diverted for non-medical use.
-
-Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, proper dispensing and correct storage and handling are appropriate measures that help to limit misuse and abuse of opioid drugs.
-Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests is strongly advised.
-
-Healthcare professionals should contact their State Professional Licensing Board or State Controlled Substances Authority for information on how to prevent and detect abuse or diversion of this product.
-
 ## 9.3 Dependence
 
-Physical dependence to an opioid is manifested by characteristic withdrawal signs and symptoms after abrupt discontinuation of a drug, significant dose reduction or upon administration of an antagonist.
-Physical dependence and tolerance are not unusual during chronic opioid therapy.
+Both tolerance and physical dependence can develop during chronic opioid therapy.
+Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
+Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
 
-The opioid abstinence or withdrawal syndrome in adults is characterized by some or all of the following: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, piloerection, myalgia, mydriasis, irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate [see Use In Specific Populations (8.2)].
+Physical dependence results in withdrawal symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity, e.g., naloxone, nalmefene, or mixed agonist/antagonist analgesics (pentazocine, butorphanol, nalbuphine).
+Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-In general, opioids should not be abruptly discontinued [see Dosage and Administration (2.9)].
+OxyContin should not be abruptly discontinued [see Dosage and Administration (2.4)].
+If OxyContin is abruptly discontinued in a physically-dependent patient, an abstinence syndrome may occur.
+Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
+Other signs and symptoms also may develop, including: irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+
+Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.9)].
