@@ -19,6 +19,21 @@ Clonidine acutely stimulates the release of growth hormone in children as well a
 
 ## Pharmacokinetics
 
-The plasma half-life of clonidine is 12.7 ± 7 hours.
+Clonidine Transdermal System delivers clonidine at an approximately constant rate for 7 days.
+The absolute bioavailability of clonidine from the Clonidine Transdermal System dosage form is approximately 60%.
+Steady-state clonidine plasma levels are obtained within 3 days after transdermal application to the upper outer arm and increase linearly with increasing size of the transdermal patch.
+Mean steady-state plasma concentrations with the 3.33 cm2, 6.67 cm2, and 10.0 cm2 systems are approximately 0.4 ng/mL, 0.8 ng/mL, and 1.1 ng/mL, respectively.
+Similar clonidine steady-state concentrations are reached after application to the chest.
+Steady-state clonidine plasma levels remain constant after removal of one system and application of a new system of the same size.
+
+Following intravenous administration clonidine displays biphasic disposition with a distribution half-life of about 20 minutes and an elimination half-life ranging from 12 to 16 hours.
+The half-life increases up to 41 hours in patients with severe impairment of renal function.
+Clonidine has a total clearance of 177 mL/min and a renal clearance of 102 mL/min.
+The apparent volume of distribution (Vz) of clonidine is 197 L (2.9 L/kg).
+Clonidine crosses the placental barrier.
+It has been shown to cross the blood brain barrier in rats.
+
 Following oral administration, about 40% to 60% of the absorbed dose is recovered in the urine as unchanged drug within 24 hours.
-The remainder of the absorbed dose is metabolized in the liver.
+About 50% of the absorbed dose is metabolized in the liver.
+
+After removal of the Clonidine Transdermal System, clonidine plasma concentrations decline slowly with a half-life of approximately 20 hours.

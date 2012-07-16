@@ -7,4 +7,4 @@ Address medical inquiries to: 1-877-446-3679 (1-877-4-INFO-RX)
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED JULY 2011 CTS:R11
+REVISED JUNE 2012 CTS:R12

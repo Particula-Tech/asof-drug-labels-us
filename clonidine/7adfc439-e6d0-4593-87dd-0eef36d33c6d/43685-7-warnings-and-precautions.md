@@ -3,7 +3,7 @@
 ## Withdrawal
 
 Patients should be instructed not to discontinue therapy without consulting their physician.
-Sudden cessation of clonidine treatment has, in some cases, resulted in symptoms such as nervousness, agitation, headache, and confusion accompanied or followed by a rapid rise in blood pressure and elevated catecholamine concentrations in the plasma.
+Sudden cessation of clonidine treatment has, in some cases, resulted in symptoms such as nervousness, agitation, headache, tremor, and confusion accompanied or followed by a rapid rise in blood pressure and elevated catecholamine concentrations in the plasma.
 The likelihood of such reactions to discontinuation of clonidine therapy appears to be greater after administration of higher doses or continuation of concomitant beta-blocker treatment and special caution is therefore advised in these situations.
 Rare instances of hypertensive encephalopathy, cerebrovascular accidents and death have been reported after clonidine withdrawal.
 When discontinuing therapy with Clonidine Transdermal System, the physician should reduce the dose gradually over 2 to 4 days to avoid withdrawal symptomatology.
@@ -19,7 +19,10 @@ In patients who have developed localized contact sensitization to Clonidine Tran
 
 In patients who develop an allergic reaction to Clonidine Transdermal System, substitution of oral clonidine hydrochloride may also elicit an allergic reaction (including generalized rash, urticaria, or angioedema).
 
-Clonidine Transdermal System should be used with caution in patients with severe coronary insufficiency, conduction disturbances, recent myocardial infarction, cerebrovascular disease, or chronic renal failure.
+The sympatholytic action of clonidine may worsen sinus node dysfunction and atrioventricular (AV) block, especially in patients taking other sympatholytic drugs.
+There are post-marketing reports of patients with conduction abnormalities and/or taking other sympatholytic drugs who developed severe bradycardia requiring IV atropine, IV isoproterenol and temporary cardiac pacing while taking clonidine.
+
+In hypertension caused by pheochromocytoma, no therapeutic effect of Clonidine Transdermal System can be expected.
 
 In rare instances, loss of blood pressure control has been reported in patients using Clonidine Transdermal System according to the instructions for use.
 
@@ -37,8 +40,8 @@ The transdermal clonidine systems should be removed before attempting defibrilla
 
 Patients should be cautioned against interruption of Clonidine Transdermal System therapy without their physician’s advice.
 
-Patients who engage in potentially hazardous activities, such as operating machinery or driving, should be advised of a possible sedative effect of clonidine.
-They should also be informed that this sedative effect may be increased by concomitant use of alcohol, barbiturates, or other sedating drugs.
+Since patients may experience a possible sedative effect, dizziness, or accommodation disorder with use of clonidine, caution patients about engaging in activities such as driving a vehicle or operating appliances or machinery.
+Also, inform patients that this sedative effect may be increased by concomitant use of alcohol, barbiturates, or other sedating drugs.
 
 Patients who wear contact lenses should be cautioned that treatment with Clonidine Transdermal System may cause dryness of eyes.
 
@@ -59,6 +62,7 @@ These instructions are also included in each box of Clonidine Transdermal System
 
 Clonidine may potentiate the CNS-depressive effects of alcohol, barbiturates or other sedating drugs.
 If a patient receiving clonidine is also taking tricyclic antidepressants, the hypotensive effect of clonidine may be reduced, necessitating an increase in the clonidine dose.
+If a patient receiving clonidine is also taking neuroleptics, orthostatic regulation disturbances (e.g., orthostatic hypotension, dizziness, fatigue) may be induced or exacerbated.
 
 Monitor heart rate in patients receiving clonidine concomitantly with agents known to affect sinus node function or AV nodal conduction, e.g., digitalis, calcium channel blockers and beta-blockers.
 Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concomitantly with diltiazem or verapamil.
@@ -96,6 +100,7 @@ Increased resorptions were not associated with treatment at the same or at highe
 Increases in resorption were observed at much higher dose levels (40 times the oral MRDHD on a mg/kg basis; 4 to 8 times the MRDHD on a mg/m2 basis) in mice and rats treated on gestation days 1 to 14 (lowest dose employed in the study was 500 mcg/kg).
 
 No adequate well controlled studies have been conducted in pregnant women.
+Clonidine crosses the placental barrier (See CLINICAL PHARMACOLOGY:Pharmacokinetics).
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 ## Nursing Mothers
@@ -104,4 +109,4 @@ As clonidine is excreted in human milk, caution should be exercised when Clonidi
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established in adequate and well controlled trials (see WARNINGS: Withdrawal).
+Safety and effectiveness in pediatric patients have not been established in adequate and well controlled trials.
