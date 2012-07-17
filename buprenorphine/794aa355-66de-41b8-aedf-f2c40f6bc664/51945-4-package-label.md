@@ -1,23 +1,11 @@
-Butrans
+Butrans® 5 mcg Carton Front View NDC 59011–750–04
 
-buprenorphine transdermal system
+Butrans® 5 mcg Carton Back View NDC 59011–750–04
 
-5 micrograms buprenorphine per hour
+Butrans® 10 mcg Carton Front View NDC 59011–751–04
 
-NDC: 59011-750-04
+Butrans® 10mcg Carton Back View NDC 59011–750–04
 
-Butrans
+Butrans® 20 mcg Carton Front View NDC 59011–752–04
 
-buprenorphine transdermal system
-
-10 micrograms buprenorphine per hour
-
-NDC: 59011-751-04
-
-Butrans
-
-buprenorphine transdermal system
-
-20 micrograms buprenorphine per hour
-
-NDC: 59011-752-04
+Butrans® 20 mcg Carton Back View NDC 59011–752–04

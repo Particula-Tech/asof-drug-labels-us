@@ -1,258 +1,172 @@
-MEDICATION GUIDE
-
-Butrans™ (BYOO-trans) CIII (buprenorphine) Transdermal System
-
-| Keep Butrans in a safe place away from children. Accidental use by a child is a medical emergency and can result in death. If a child accidentally uses Butrans, get emergency help right away. |
+| Medication Guide BUTRANS® (BYOO-trans) (buprenorphine) Transdermal System, CIII |
 | --- |
-
-Read the Medication Guide that comes with Butrans before you start using it and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your doctor about your medical condition or your treatment.
-Make sure you read and understand all the instructions for using Butrans.
-Talk to your doctor if you have questions.
-
-What is the most important information I should know about Butrans?
-
-- Butrans overdose can cause serious and life threatening breathing problems.
-- Butrans is a skin patch that contains the strong opioid pain medicine (narcotic) buprenorphine.
-- Butrans is used to treat moderate to severe chronic pain that continues around-the-clock and is expected to last for a long period of time.
-- Butrans is not for pain that:
-  - you only have once in while (“as needed”)
-  - is expected to last for only a short time or pain due to surgery
-- Serious and life-threatening breathing problems can happen with Butrans, especially during the first 24 to 72 hours after you apply a new patch.
-  This can happen because of an overdose or if the dose you are using is too high for you.
-- Call your doctor right away or get emergency medical help if you:
-  - have trouble breathing
-  - have changes in breathing
-    - unusual deep “sighing” breathing
-    - slow or shallow breathing
-    - new or unusual snoring
-  - have a slow heartbeat
-  - have severe sleepiness
-  - have cold, clammy skin
-  - feel faint, dizzy, confused, or cannot think, walk, or talk normally
-- Do not place direct heat on Butrans.
-  Exposure of Butrans to direct heat may cause too much of the medicine in Butrans to pass into your body.
-  This can lead to overdose and death.
-  Keep the Butrans system away from:
-  - heating pads
-  - electric blankets
-  - heaters
-  - tanning lamps
-  - saunas
-  - hot tubs
-  - heated waterbeds
-  - hot baths
-  - sunbathing
-- Place the Butrans patch only on clean skin.
-  Do not use Butrans on broken, irritated and cracked skin.
-- Do not use Butrans if the seal on the protective pouch is broken or if the patch is cut, damaged or changed.
-  Do not cut the patch.
-
-What is Butrans?
-
-Butrans is a prescription medicine used to treat moderate to severe chronic pain that continues around-the-clock and is expected to last for a long period of time.
-
-| Butrans is a controlled substance (CIII) because it contains buprenorphine that can be a target for people who abuse prescription medicines or street drugs. Prevent theft, misuse and abuse. Keep Butrans in a safe place to protect from being stolen. Never give Butrans to anyone else, even if they have the same symptoms you have. It may harm them or even cause death. Selling or giving away this medicine is against the law. |
-| --- |
-
-It is not known if Butrans is safe and effective in children.
-
-Who should not use Butrans?
-
-Do not use Butrans if you:
-
-- have trouble breathing, severe asthma or severe lung problems
-- have a bowel blockage called paralytic ileus.
-- are allergic to any of the ingredients in Butrans.
-  See the end of this Medication Guide for a list of the ingredients in Butrans.
-  Ask your doctor if you are not sure.
-
-Talk to your doctor before taking this medicine if you have any of these conditions listed above.
-
-What should I tell my doctor before using Butrans?
-
-Butrans may not be right for you.
-Before taking Butrans, tell your doctor if you:
-
-- have trouble breathing or lung problems
-- have or a family member has a history of a heart problem called Long QT syndrome
-- have or have had head injury or brain problems
-- have low blood pressure
-- have liver or kidney problems
-- have hepatitis B or hepatitis C
-- have or have had convulsions or seizures
-- have severe scoliosis
-- have thyroid problems
-- have prostate problems or trouble urinating
-- have adrenal gland problems, such as Addison’s disease
-- have a past or present drinking problem or alcoholism, or a family history of this problem
-- have mental problems including major depression or hallucinations (seeing or hearing things that are not there)
-- have a past or present drug abuse or addiction problem, or a family history of this problem
-- have any other medical conditions
-- are pregnant or plan to become pregnant.
-- are breast-feeding or plan to breast-feed.
-  Butrans passes into your breast milk.
-  You and your doctor should decide if you will take Butrans or breast-feed.
-  You should not do both.
-  Talk to your doctor about the best way to feed your baby if you take Butrans.
-
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Some medicines may cause serious or life-threatening medical problems when taken with Butrans.
-Sometimes, the doses of certain medicines and Butrans need to be changed if used together.
-
-Especially tell your doctor if you take:
-
-- other pain medicines
-- antidepressant medicines
-- sleeping pills
-- antihistamines
-- anti-anxiety medicines
-- muscle relaxants
-- anti-nausea medicines
-- sedative or tranquilizer medicines (medicines that make you sleepy)
-- a medicine for abnormal heartbeats
-
-You should not take Butrans if you already take a monoamine oxidase inhibitor medicine (MAOI) or within 14 days after you stop taking an MAOI medicine.
-
-Ask your doctor if you are not sure if your medicine is one listed above.
-
-Know the medicines you take.
-Keep a list of your medicines to show your doctor and pharmacist.
-Your doctor will tell you if it is safe to take other medicines while you are using Butrans.
-
-How should I use Butrans?
-
-- See the “What is the most important information I should know about Butrans?”
-- Butrans patch comes in three strengths.
-  Each Butrans patch has the strength listed on the patch.
-  Your doctor will prescribe the patch that is right for you.
-  - 5 mcg/hour
-  - 10 mcg/hour
-  - 20 mcg/hour
-- Before you start using Butrans: If you already use a continuous around-the-clock medicine for your pain, your doctor will tell you how to slowly stop using it.
-  Your doctor should prescribe a short-acting opioid pain medicine for you to use while your dose of Butrans is being adjusted to treat your moderate to severe continuous around-the-clock pain.
-- Use Butrans exactly as prescribed by your doctor.
-  Do not change your dose unless your doctor tells you to change it.
-- Do not apply Butrans more often than prescribed.
-- Do not use more than one patch at the same time unless your doctor tells you to do so.
-- You should wear 1 Butrans patch continuously for 7 days.
-- If the patch comes off and accidentally sticks to the skin of another person, take the patch off of that person right away, wash the area with clear water, and get medical care for them right away.
-- Use only water to wash your skin where you apply Butrans.
-  Do not use soap, alcohol, or other solvents to wash the area or remove any leftover adhesive from the patch.
-- See the detailed Instructions for Use that comes with this Medication Guide to learn how to apply Butrans the right way.
-  Talk to your doctor if you have any questions.
-  Your doctor should show you how to use Butrans before you start to use it.
-- If you use more Butrans than your doctor prescribed, or overdose, call your local emergency number or your local Poison Control Center right away at 1-800-222-1222 or get emergency help right away.
-- Call your doctor right away if you have any swelling or blistering around a patch site.
-- Do not apply any medicine, cream, or lotion on the skin at the Butrans application site before applying the patch.
-  This might affect how the patch sticks to the skin and how the medicine is absorbed from the patch.
-- Do not stop using Butrans without first talking to your doctor.
-  Your doctor will give you instructions on how to stop using this medicine slowly to avoid uncomfortable symptoms.
-- After you stop using Butrans patches flush used or unused patches down the toilet or dispose of the patches in household trash using the Patch-Disposal Unit.
-  See the Instructions for Use that comes with this Medication Guide for disposal instructions.
-
-What should I avoid while using Butrans?
-
-- You should not drive, operate heavy machinery, or do other dangerous activities, until you know how you react to this medicine.
-  Butrans can make you sleepy and cause you to feel dizzy or lightheaded.
-  This may affect your ability to think and react.
-  Ask your doctor when it is okay to do these activities.
-- You should not drink alcohol or use prescription or non-prescription medicines that have alcohol in them while using Butrans.
-  Alcohol can increase your chances of having serious side effects including death.
-
-What are the possible side effects of Butrans?
-
-Butrans can cause serious side effects that can lead to death, including:
-
-- See “What is the most important information that I should know about Butrans?”
-- Serious breathing problems that can be life threatening.
-  Call your doctor or get emergency medical help right away if you:
-  - have trouble breathing,
-  - have extreme drowsiness with slowed breathing
-  - have slow shallow breathing (little chest movement with breathing)
-  - feel faint, very dizzy, confused, or have any other unusual symptoms
-- Severe skin reactions.
-  Butrans can cause skin reactions at the site where the patch is applied.
-- Allergic reactions.
-  Rash, itching, and hives are the most common symptoms of an allergic reaction.
-  Call your doctor if you have these symptoms.
-  Get medical help right away if you have any of these symptoms of an allergic reaction while taking Butrans:
-  - swelling of your lips or tongue
-  - breathing problems
-  - wheezing
-  - chest pain
-- Butrans can cause a drop in your blood pressure.
-  Low blood pressure can make you feel dizzy if you get up too fast from sitting or lying down.
-  Low blood pressure is also more likely to happen if you take other medicines that can also lower your blood pressure.
-  Severe low blood pressure can happen if you lose blood or take certain other medicines.
-- Liver problems.
-  Your skin or the white part of your eyes can turn yellow (jaundice), urine can turn dark, stools can turn light in color, you may have less of an appetite, and nausea.
-  Your doctor may do tests before you start and while you take Butrans.
-- Butrans can increase your chances of having a seizure if you have history of seizures.
-  Tell your doctor if you have a seizure or convulsion while taking Butrans.
-- Butrans can cause physical dependence.
-  Do not stop using Butrans or any other opioid without talking to your doctor.
-  You could become sick with uncomfortable withdrawal symptoms because your body has become used to these medicines.
-  Physical dependence is not the same as drug addiction.
-- There is a chance of abuse or addiction with Butrans.
-  The chance is higher if you are or have been addicted to or abused other medicines, street drugs or alcohol in the past.
-  You may have a greater risk of developing abuse or addiction again while using Butrans.
-
-The most common side effects of Butrans include:
-
-- nausea
-- headache
-- dizziness
-- constipation
-- drowsiness
-- vomiting
-- dry mouth and
-- itching, redness, or rash at the patch site
-
-Constipation (incomplete or hard bowel movements) is a very common side effect of all opioid medicines.
-Talk to your doctor about the use of laxatives (medicines to treat constipation) and stool softeners to prevent or treat constipation while using Butrans.
-
-Talk to your doctor about any side effect that bother you or do not go away.
-
-These are not all the possible side effects of Butrans.
-For a complete list, ask your doctor or pharmacist.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store Butrans?
-
-- Store Butrans at room temperature, between 59°F to 86°F (15°C to 30°C).
-- Keep the Butrans patch in its unopened protective pouch until you are ready to use it.
-- Keep Butrans in a safe place out of the reach of children.
-
-General information about Butrans
-
-Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use Butrans for a condition for which it was not prescribed.
-Do not give Butrans to other people for any reason, even if they have the same symptoms you have.
-It may harm them and it is against the law.
-
-This Medication Guide summarizes the most important information about Butrans.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about Butrans that is written for doctors.
-
-For questions about Butrans, call Purdue Pharma at 1-888-726-7535 or visit www.butransrems.com or www.purduepharma.com.
-
-What are the ingredients in Butrans?
-
-Active ingredient: buprenorphine
-
-Inactive ingredients: levulinic acid, oleyl oleate, povidone, and polyacrylate cross-linked with aluminum.
-
-Distributed by: Pharma L.P.
-Stamford, CT 06901-3431
-
-Manufactured by: LTS Lohmann Therapie-Systeme AG Andernach, Germany
-
-U.S. Patent Numbers: 6,231,886 (5 and 10 mcg/hour patches only); 5,804,215; 5,968,547; 6,264,980; 6,344,211; and 6,344,212.
-
-Issued: June 2010 ©2010, Purdue Pharma L.P.
+| BUTRANS is: A strong prescription pain medicine that contains an opioid (narcotic) that is used to treat moderate to severe around-the-clock pain. |
+| Important information about BUTRANS: Get emergency help right away if you take too much BUTRANS (overdose). BUTRANS overdose can cause life-threatening breathing problems that can lead to death.Never give anyone else your BUTRANS. They could die from taking it. Store BUTRANS away from children and in a safe place to prevent stealing or abuse. Selling or giving away BUTRANS is against the law. |
+| Do not use BUTRANS if you have: severe asthma, trouble breathing, or other lung problems.a bowel blockage or have narrowing of the stomach or intestines. |
+| Before applying BUTRANS, tell your healthcare provider if you have a history of: head injury, seizuresliver, kidney, thyroid problemsproblems urinatingheart rhythm problems (Long QT syndrome)pancreas or gallbladder problemsabuse of street or prescription drugs, alcohol addiction, or mental health problems. Tell your healthcare provider if you: have a fever.are pregnant or planning to become pregnant. BUTRANS may harm your unborn baby.are breastfeeding. BUTRANS passes into breast milk and may harm your baby.are taking prescription or over-the-counter medicines, vitamins, or herbal supplements. |
+| While using BUTRANS: Do not change your dose. Apply BUTRANS exactly as prescribed by your healthcare provider.See the detailed Instructions for Use for information about how to apply and dispose of the BUTRANS patch.Do not apply a BUTRANS patch if the pouch seal is broken, or the patch is cut, damaged, or changed in any way.Do not apply more than 1 patch at the same time unless your healthcare provider tells you to.You should wear 1 BUTRANS patch continuously for 7 days.Call your healthcare provider if the dose you are taking does not control your pain.Do not stop using BUTRANS without talking to your healthcare provider. |
+| While using BUTRANS Do Not: Take hot baths or sunbathe, use hot tubs, saunas, heating pads, electric blankets, heated waterbeds, or tanning lamps. These can cause an overdose that can lead to death.Drive or operate heavy machinery,until you know how BUTRANS affects you. BUTRANS can make you sleepy, dizzy, or lightheaded.Drink alcohol or use prescription or over-the-counter medicines that contain alcohol. |
+| The possible side effects of BUTRANS are: constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness, itching, redness or rash where the patch is applied. Call your healthcare provider if you have any of these symptoms and they are severe. |
+| Get emergency medical help if you have: trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, or you are feeling faint. These are not all the possible side effects of BUTRANS. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. For more information go to dailymed.nlm.nih.gov Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431, www.purduepharma.com or call 1-888-726-7535 |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Issue: July 2012
+
+Instructions for Use
+
+Butrans® (BYOO-trans) CIII (buprenorphine) Transdermal System
+
+Be sure that you read, understand, and follow these Instructions for Use before you use Butrans.
+Talk to your doctor or pharmacist if you have any questions.
+
+Before Applying Butrans:
+
+- Do not use soap, alcohol, lotions, oils, or other products to remove any leftover medicine gel from a patch because this may cause more Butrans to pass through the skin.
+- Each patch is sealed in its own protective pouch.
+  Do not remove a patch from the pouch until you are ready to use it.
+- Do not use a patch if the seal on the protective pouch is broken or if the patch is cut, damaged or changed in any way.
+- Butrans patches are available in 3 different strengths and patch sizes.
+  Make sure you have the right strength patch that has been prescribed for you.
+
+Where to apply Butrans:
+
+- Butrans should be applied to the upper outer arm, upper chest, upper back, or the side of the chest (See Figure 1).
+  These 4 sites (located on both sides of the body) provide 8 possible Butrans application sites.
+  You should change the skin site where you apply Butrans each week, making sure that at least 3 weeks (21 days) pass before you re-use the same skin site.
+
+Figure 1
+
+- Apply Butrans to a hairless or nearly hairless skin site.
+  If needed, you can clip the hair at the skin site (See Figure 2).
+  Do not shave the area.
+  The skin site should not be irritated.
+  Use only water to clean the application site.
+  You should not use soaps, alcohol, oils, lotions, or abrasive devices.
+  Allow the skin to dry before you apply the patch.
+
+Figure 2
+
+- The skin site should be free of cuts and irritation (rashes, swelling, redness, or other skin problems).
+
+When to apply a new patch:
+
+- When you apply a new patch, write down the date and time that the patch is applied.
+  Use this to remember when the patch should be removed.
+- Change the patch at the same time of day, one week (exactly 7 days) after you apply it.
+- After removing and disposing of the patch, write down the time it was removed and how it was disposed.
+
+How to apply Butrans:
+
+- If you are wearing a patch, remember to remove it before applying a new one.
+- Each patch is sealed in its own protective pouch.
+- Use scissors to cut open the pouch along the dotted line (See Figure 3) and remove the patch.
+  Do not remove the patch from the pouch until you are ready to use it.
+  Do not use patches that have been cut or damaged in any way.
+
+Figure 3
+
+- Hold the patch with the protective liner facing you.
+- Gently bend the patch (See Figures 4a and 4b) along the faint line and slowly peel the larger portion of the liner, which covers the sticky surface of the patch.
+
+Figure 4a
+
+Figure 4b
+
+- Do not touch the sticky side of the patch with your fingers.
+- Using the smaller portion of the protective liner as a handle (See Figure 5), apply the sticky side of the patch to one of the 8 body locations described above (see Where to apply Butrans?).
+
+Figure 5
+
+- While still holding the sticky side down, gently fold back the smaller portion of the patch.
+  Grasp an edge of the remaining protective liner and slowly peel it off (See Figure 6).
+
+Figure 6
+
+- Press the entire patch firmly into place with the palm (See Figure 7) of your hand over the patch, for about 15 seconds.
+  Do not rub the patch.
+
+Figure 7
+
+- Make sure that the patch firmly sticks to the skin.
+- Go over the edges with your fingers to assure good contact around the patch.
+- Always wash your hands after applying or handling a patch.
+- After the patch is applied, write down the date and time that the patch is applied.
+  Use this to remember when the patch should be removed.
+
+If the patch falls off right away after applying, throw it away and put a new one on at a different skin site (see Disposing of Butrans Patch).
+
+If a patch falls off, do not touch the sticky side of the patch with your fingers.
+A new patch should be applied to a different site.
+Patches that fall off should not be re-applied.
+They must be thrown away correctly.
+
+If the edges of the Butrans patch start to loosen:
+
+- Apply first aid tape only to the edges of the patch.
+- If problems with the patch not sticking continue, cover the patch with special see-through adhesive dressings (for example Bioclusive or Tegaderm).
+  - Remove the backing from the transparent adhesive dressing and place it carefully and completely over the Butrans patch, smoothing it over the patch and your skin.
+- Never cover a Butrans patch with any other bandage or tape.
+  It should only be covered with a special see-through adhesive dressing.
+  Talk to your doctor or pharmacist about the kinds of dressing that should be used.
+
+If your patch falls off later, but before 1 week (7 days) of use, throw it away properly (see Disposing of a Butrans Patch) and apply a new patch at a different skin site.
+Be sure to let your doctor know that this has happened.
+Do not replace the new patch until 1 week (7 days) after you put it on (or as directed by your doctor).
+
+Disposing of Butrans Patch:
+
+Butrans patches must be disposed of by flushing them down the toilet or using the Patch-Disposal Unit.
+
+To flush your Butrans patches down the toilet: Remove your Butrans patch, fold the sticky sides of a used patch together (See Figure 8) and flush it down the toilet right away.
+
+Figure 8
+
+When disposing of unused Butrans patches you no longer need, remove the leftover patches from their protective pouch and remove the protective liner.
+Fold the patches in half with the sticky sides together, and flush the patches down the toilet.
+
+Do not flush the pouch or the protective liner down the toilet.
+These items can be thrown away in the trash.
+
+If you prefer not to flush the used patch down the toilet, you must use the Patch-Disposal Unit provided to you to discard the patch.
+
+Never put used Butrans patches in the trash without first sealing them in the Patch-Disposal Unit.
+
+To dispose of Butrans patches in household trash using the Patch-Disposal Unit: Remove your patch and follow the directions printed on the Patch-Disposal Unit (See Figure 9) or see complete instructions below.
+Use one Patch-Disposal Unit for each patch.
+
+Figure 9
+
+1.
+Peel back the disposal unit liner to show the sticky surface (See Figure 10).
+
+Figure 10
+
+2.
+Place the sticky side of the used or unused patch to the indicated area on the disposal unit (See Figure 11).
+
+Figure 11
+
+3.
+Close the disposal unit by folding the sticky sides together (See Figure 12).
+Press firmly and smoothly over the entire disposal unit so that the patch is sealed within.
+
+Figure 12
+
+4.
+The closed disposal unit, with the patch sealed inside may be thrown away in the trash (See Figure 13).
+
+Figure 13
+
+Do not put unused patches in household trash without first sealing them in the Patch-Disposal Unit.
+
+Always remove the leftover patches from their protective pouch and remove the protective liner.
+The pouch and liner can be disposed of separately in the trash and should not be sealed in the Patch-Disposal Unit.
+
+Distributed by: Purdue Pharma L.P.
+Stamford, CT 06901-3431
+
+Issued: July 2012
+
+©2012, Purdue Pharma L.P.
+
+Bioclusive is a trademark of Systagenix Wound Management (US), Inc. Tegaderm is a trademark of 3M.

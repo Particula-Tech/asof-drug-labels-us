@@ -1,34 +1,46 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See MEDICATION GUIDE (including Instructions for Use) as appended at the end of the full prescribing information.
+See FDA-approved patient labeling (Medication Guide)
 
-## 17.1 Information for Patients and Caregivers
+Abuse Potential Inform patients that BUTRANS contains buprenorphine, a Schedule III controlled substance that is subject to abuse.
+Instruct patients not to share BUTRANS with others and to take steps to protect BUTRANS from theft or misuse.
 
-Provide the following information to patients receiving Butrans or their caregivers:
+Life-Threatening Respiratory Depression Discuss the risk of respiratory depression with patients, explaining that the risk is greatest when starting BUTRANS or when the dose is increased.
+Advise patients how to recognize respiratory depression and to seek medical attention if they are experiencing breathing difficulties.
 
-1. Advise patients to carefully follow instructions for the application, removal, and disposal of Butrans.
-   Each week, apply Butrans to a different site based on the 8 described skin sites, with a minimum of 3 weeks between applications to a previously used site.
-2. Advise patients to apply Butrans to a hairless or nearly hairless skin site.
+Accidental Exposure Instruct patients to take steps to store BUTRANS securely.
+Accidental exposure, especially in children, may results in serious harm or death.
+Advise patients to dispose of unused BUTRANS folding in half and flushing down the toilet.
+
+Risks from Concomitant Use of Alcohol and other CNS Depressants Inform patients that the concomitant use of alcohol with BUTRANS can increase the risk of life-threatening respiratory depression.
+
+Inform patients that potentially serious additive effects may occur if BUTRANS is used with other CNS depressants, and not to use such drugs unless supervised by a health care provider.
+
+Important Administration Instructions
+
+Instruct patients how to properly use BUTRANS, including the following:
+
+1. To carefully follow instructions for the application, removal, and disposal of BUTRANS.
+   Each week, apply BUTRANS to a different site based on the 8 described skin sites, with a minimum of 3 weeks between applications to a previously used site.
+2. To apply BUTRANS to a hairless or nearly hairless skin site.
    If none are available, instruct patients to clip the hair at the site and not to shave the area.
    Instruct patients not to apply to irritated skin.
    If the application site must be cleaned, use clear water only.
    Soaps, alcohol, oils, lotions, or abrasive devices should not be used.
-   Allow the skin to dry before applying Butrans.
-3. Advise the patient to wear Butrans continuously for 7 days.
-4. Advise patients to talk to their doctor if they have any pain or bothersome side effects while they are using Butrans.
-   The dose may have to be changed.
-5. Advise patients not to increase or decrease the Butrans dose they are using without first speaking to their doctor.
-6. Advise patients that Butrans may impair mental and/or physical ability required for the performance of potentially hazardous tasks (e.g., driving, operating heavy machinery).
-7. Advise patients who are taking Butrans not to drink alcohol.
-   They should also avoid taking sleep aids and CNS depressants, unless a doctor prescribes them.
-8. Advise patients that while wearing Butrans, they should avoid exposing the Butrans site to external heat sources, such as heating pads, electric blankets, heat lamps, saunas, hot tubs, heated water beds, etc, because an increase in absorption of buprenorphine may occur that could lead to an overdose or death.
-9. Advise women who become pregnant, or who plan to become pregnant, to ask their doctor about the effects that Butrans may have on themselves and their pregnancy.
-10. Advise patients that buprenorphine is a drug that some people may abuse.
-    They should use Butrans only as directed, and not give it to anyone other than the individual for whom it was prescribed.
-    Protect it from theft.
-    Be especially careful to keep this medication away from children and pets.
-11. Advise patients to tell their doctor if they have a history of serious skin reactions to adhesives, as they may not be able to use Butrans.
-12. Advise patients who must stop using Butrans that they should speak with their doctor to manage the transition to other pain medications.
+   Allow the skin to dry before applying BUTRANS.
+
+Hypotension Inform patients that BUTRANS may cause orthostatic hypotension and syncope.
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position).
+
+Driving or Operating Heavy Machinery Inform patients that BUTRANS may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
+Advise patients not to perform such tasks until they know how they will react to the medication.
+
+Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention.
+
+Anaphylaxis Inform patients that anaphylaxis has been reported with ingredients contained in BUTRANS.
+Advise patients how to recognize such a reaction and when to seek medical attention.
+
+Pregnancy Advise female patients that BUTRANS can cause fetal harm and to inform the prescriber if they are pregnant or plan to become pregnant.
 
 Healthcare professionals can telephone Purdue Pharma’s Medical Services Department (1-888-726-7535) for information on this product.
 
@@ -36,6 +48,4 @@ Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431 Manufactured by: LTS
 
 U.S. Patent Numbers 5681413; 5804215; 6264980; 6315854; 6344211; RE41408; RE41489; RE41571.
 
-© 2011, Purdue Pharma L.P.
-
-302546-0B
+© 2012, Purdue Pharma L.P.

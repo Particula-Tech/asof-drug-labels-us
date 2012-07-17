@@ -1,7 +1,8 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Butrans is available as:
+BUTRANS is a rectangular or square, beige-colored system consisting of a protective liner and functional layers.
+BUTRANS is available in three strengths:
 
-- Butrans 5 mcg/hour Transdermal System (dimensions: 45 mm by 45 mm)
-- Butrans 10 mcg/hour Transdermal System (dimensions: 45 mm by 68 mm)
-- Butrans 20 mcg/hour Transdermal System (dimensions: 72 mm by 72 mm)
+- BUTRANS 5 mcg/hour Transdermal System (dimensions: 45 mm by 45 mm)
+- BUTRANS 10 mcg/hour Transdermal System (dimensions: 45 mm by 68 mm)
+- BUTRANS 20 mcg/hour Transdermal System (dimensions: 72 mm by 72 mm)

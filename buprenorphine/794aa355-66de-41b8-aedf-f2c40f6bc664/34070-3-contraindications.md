@@ -1,12 +1,8 @@
 # 4 CONTRAINDICATIONS
 
-Butrans is contraindicated in:
+BUTRANS is contraindicated in patients with:
 
-- patients who have significant respiratory depression
-- patients who have severe bronchial asthma
-- patients who have or are suspected of having paralytic ileus
-- patients who have known hypersensitivity to any of its components or the active ingredient, buprenorphine
-- the management of acute pain or in patients who require opioid analgesia for a short period of time
-- the management of post-operative pain, including use after out-patient or day surgeries
-- the management of mild pain
-- the management of intermittent pain (e.g., use on an as-needed basis [prn])
+- Significant respiratory depression
+- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment
+- Known or suspected paralytic ileus
+- Hypersensitivity (e.g., anaphylaxis) to buprenorphine [see Warnings and Precautions (5.12), and Adverse Reactions (6)]

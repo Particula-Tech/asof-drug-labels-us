@@ -1,31 +1,37 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Metabolic Drug Interactions
+## 7.1 Hepatic Enzyme Inhibitors and Inducers
 
-### CYP3A4 Inhibitors
-
-Co-administration of ketoconazole, a strong CYP3A4 inhibitor, with Butrans, did not have any effect on Cmax and AUC of buprenorphine.
-Based on this observation, pharmacokinetics of Butrans is not expected to be affected by co-administration of CYP3A4 inhibitors.
+CYP3A4 Inhibitors Co-administration of ketoconazole, a strong CYP3A4 inhibitor, with BUTRANS, did not have any effect on Cmax (maximum concentration) and AUC (area under the curve) of buprenorphine.
+Based on this observation, the pharmacokinetics of BUTRANS are not expected to be affected by co-administration of CYP3A4 inhibitors.
 
 However, certain protease inhibitors (PIs) with CYP3A4 inhibitory activity such as atazanavir and atazanavir/ritonavir resulted in elevated levels of buprenorphine and norbuprenorphine following sublingual administration of buprenorphine and naloxone.
 Patients in this study reported increased sedation, and symptoms of opiate excess have been found in post-marketing reports of patients receiving sublingual buprenorphine and atazanavir with and without ritonavir concomitantly.
-It should be noted that atazanavir is both a CYP3A4 and UGT1A1 inhibitor.
+Atazanavir is both a CYP3A4 and UGT1A1 inhibitor.
 As such, the drug-drug interaction potential for buprenorphine with CYP3A4 inhibitors is likely to be dependent on the route of administration as well as the specificity of enzyme inhibition [see Clinical Pharmacology (12.3)].
 
-### CYP3A4 Inducers
+CYP3A4 Inducers The interaction between buprenorphine and CYP3A4 enzyme inducers has not been studied.
+Monitor patients receiving concurrent therapy with BUTRANS and CYP3A4 inducers (e.g., phenobarbital, carbamazepine, phenytoin, rifampin) closely for reduced efficacy or signs of withdrawal [see Clinical Pharmacology (12.3)].
 
-The interaction between buprenorphine and CYP3A4 enzyme inducers has not been studied; therefore it is recommended that patients receiving Butrans be closely monitored for reduced efficacy if inducers of CYP3A4 (e.g. phenobarbital, carbamazepine, phenytoin, rifampin) are co-administered [see Clinical Pharmacology (12.3)].
-
-## 7.2 Non-Metabolic Drug Interactions
-
-### Benzodiazepines
+## 7.2 Benzodiazepines
 
 There have been a number of reports regarding coma and death associated with the misuse and abuse of the combination of buprenorphine and benzodiazepines.
 In many, but not all of these cases, buprenorphine was misused by self-injection of crushed buprenorphine tablets.
 Preclinical studies have shown that the combination of benzodiazepines and buprenorphine altered the usual ceiling effect on buprenorphine-induced respiratory depression, making the respiratory effects of buprenorphine appear similar to those of full opioid agonists.
-Prescribe Butrans with caution to patients taking benzodiazepines or other drugs that act on the central nervous system regardless of whether these drugs are taken on the advice of a physician or are being abused/misused.
-Warn patients that it is extremely dangerous to self-administer benzodiazepines while taking Butrans, and caution patients to use benzodiazepines concurrently with Butrans only as directed by their physician.
+Closely monitor patients with concurrent use of BUTRANS and benzodiazepines.
+Warn patients that it is extremely dangerous to self-administer benzodiazepines while taking BUTRANS, and warn patients to use benzodiazepines concurrently with BUTRANS only as directed by their physician.
 
-### Skeletal Muscle Relaxants
+## 7.3 CNS Depressants
 
-Butrans, like other opioids, may interact with skeletal muscle relaxants to enhance neuromuscular blocking action and increase respiratory depression.
+Concurrent use of BUTRANS and other central nervous system (CNS) depressants (e.g., sedatives, hypnotics, general anesthetics, antiemetics, phenothiazines, other tranquilizers, and alcohol) can increase the risk of respiratory depression, hypotension, and profound sedation or coma.
+Monitor patients receiving CNS depressants and BUTRANS for signs of respiratory depression and hypotension.
+When such combined therapy is contemplated, reduce the initial dose of one or both agents.
+
+## 7.4 Skeletal Muscle Relaxants
+
+BUTRANS, like other opioids, may interact with skeletal muscle relaxants to enhance neuromuscular blocking action and increase respiratory depression.
+
+## 7.5 Anticholinergics
+
+Anticholinergics or other drugs with anticholinergic activity when used concurrently with opioid analgesics may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
+Monitor patients for signs of urinary retention or reduced gastric motility when BUTRANS is used concurrently with anticholinergic drugs.
