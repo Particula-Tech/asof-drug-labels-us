@@ -1,18 +1,51 @@
-# MEDICATION GUIDE LEVETIRACETAM TABLETS, USP
+# 17 PATIENT COUNSELING INFORMATION
 
-(lee'' va tye ra' se tam).
+See FDA-approved Patient Labeling (Medication Guide).
 
-250 mg, 500 mg, 750 mg and 1000 mg
+Counsel patients on the benefits and risks of receiving levetiracetam tablets.
+Provide the Medication Guide to patients and/or caregivers, and instruct them to read the Medication Guide prior to taking levetiracetam tablets.
+Instruct patients to take levetiracetam tablets only as prescribed.
+
+Suicidal Behavior and Ideation
+
+Counsel patients, their caregivers and/or families that antiepileptic drugs (AEDs), including levetiracetam tablets, may increase the risk of suicidal thoughts and behavior and advise patients to be alert for the emergence or worsening of symptoms of depression; unusual changes in mood or behavior; or suicidal thoughts, behavior or thoughts about self-harm.
+Advise patients, their caregivers and/or families to immediately report behaviors of concern to a healthcare provider.
+
+Psychiatric Reactions and Changes in Behavior
+
+Advise patients that levetiracetam tablets may cause changes in behavior (e.g., aggression, agitation, anger, anxiety, apathy, depression, hostility and irritability) and in rare cases, psychotic symptoms have occurred.
+
+Effects on Driving or Operating Machinery
+
+Inform patients that levetiracetam tablets may cause dizziness and somnolence.
+Inform patients not to drive or operate machinery until they have gained sufficient experience on levetiracetam tablets to gauge whether it adversely affects their ability to drive or operate machinery.
+
+Dermatological Adverse Reactions
+
+Advise patients that serious dermatological adverse reactions have occurred in patients treated with levetiracetam tablets and instruct them to call their physician immediately if a rash develops.
+
+Pregnancy
+
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during levetiracetam tablets therapy.
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
+
+MEDICATION GUIDE
+
+LEVETIRACETAM TABLETS, USP
+
+(lee'' va tye ra' se tam)
 
 Read this Medication Guide before you start taking levetiracetam tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
-## What is the most important information I should know about levetiracetam tablets?
+What is the most important information I should know about levetiracetam tablets?
 
 Like other antiepileptic drugs, levetiracetam tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500 people taking it.
 
-Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse or worry you:
 
 - thoughts about suicide or dying
 - attempts to commit suicide
@@ -22,7 +55,7 @@ Call a healthcare provider right away if you have any of these symptoms, especia
 - panic attacks
 - trouble sleeping (insomnia)
 - new or worse irritability
-- acting aggressive, being angry, or violent
+- acting aggressive, being angry or violent
 - acting on dangerous impulses
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
@@ -36,54 +69,59 @@ Do not stop levetiracetam tablets without first talking to a healthcare provider
 
 How can I watch for early symptoms of suicidal thoughts and actions?
 
-- Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+- Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts or feelings.
 - Keep all follow-up visits with your healthcare provider as scheduled.
 - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
-## What are levetiracetam tablets?
+What are levetiracetam tablets?
 
-Levetiracetam tablets are a prescription medicine taken by mouth that are used with other medicines to treat:
+Levetiracetam tablets are a prescription medicine taken by mouth that is used with other medicines to treat:
 
 - partial onset seizures in people 4 years of age and older with epilepsy
 - myoclonic seizures in people 12 years of age and older with juvenile myoclonic epilepsy
 - primary generalized tonic-clonic seizures in people 6 years of age and older with certain types of generalized epilepsy.
 
-It is not known if levetiracetam tablets are safe or effective in children under 4 years of age.
+It is not known if levetiracetam is safe or effective in children under one month of age.
 
 Before taking your medicine, make sure you have received the correct medicine.
 Compare the name above with the name on your bottle and the appearance of your medicine with the description of levetiracetam tablets provided below.
-Contact your pharmacist immediately if you believe a dispensing error may have occurred.
+Tell your pharmacist immediately if you think you have been given the wrong medicine.
 
-- 250 mg levetiracetam tablets are white, film-coated, round tablets debossed with M above the score and 613 below the score on one side of the tablet and blank on the other side.
-- 500 mg levetiracetam tablets are white, film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 615 to the right of the score on one side of the tablet and blank on the other side.
-- 750 mg levetiracetam tablets are white, film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 617 to the right of the score on one side of the tablet and blank on the other side.
-- 1000 mg levetiracetam tablets are white, film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 619 to the right of the score on one side of the tablet and blank on the other side.
+The 250 mg tablets are white film-coated, round tablets debossed with M above the score and 613 below the score on one side of the tablet and blank on the other side.
 
-## What should I tell my healthcare provider before starting levetiracetam tablets?
+The 500 mg tablets are white film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 615 to the right of the score on one side of the tablet and blank on the other side.
+
+The 750 mg tablets are white film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 617 to the right of the score on one side of the tablet and blank on the other side.
+
+The 1000 mg tablets are white film-coated, modified capsule-shaped tablets debossed with M to the left of the score and 619 to the right of the score on one side of the tablet and blank on the other side.
+
+What should I tell my healthcare provider before starting levetiracetam tablets?
 
 Before taking levetiracetam tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
 - have or have had depression, mood problems or suicidal thoughts or behavior
 - have kidney problems
-- are pregnant or planning to become pregnant.It is not known if levetiracetam will harm your unborn baby.
+- are pregnant or planning to become pregnant.
+  It is not known if levetiracetam tablets will harm your unborn baby.
   You and your healthcare provider will have to decide if you should take levetiracetam tablets while you are pregnant.
   If you become pregnant while taking levetiracetam tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of levetiracetam tablets and other antiepileptic medicine during pregnancy.
-- are breast-feeding.Levetiracetam can pass into your milk and may harm your baby.
+- are breast-feeding.
+  Levetiracetam can pass into your milk and may harm your baby.
   You and your healthcare provider should discuss whether you should take levetiracetam tablets or breast-feed; you should not do both.
 
-Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
 Do not start a new medicine without first talking with your healthcare provider.
 
 Know the medicines you take.
 Keep a list of them to show your healthcare provider and pharmacist each time you get a new medicine.
 
-## How should I take levetiracetam tablets?
+How should I take levetiracetam tablets?
 
-Take levetiracetam tablets exactly as prescribed.
+Take levetiracetam tablets exactly as prescribed:
 
-- Your healthcare provider will tell you how much levetiracetam to take and when to take it.
+- Your healthcare provider will tell you how much levetiracetam tablets to take and when to take it.
   Levetiracetam tablets are usually taken twice a day.
   Take levetiracetam tablets at the same times each day.
 - Your healthcare provider may change your dose.
@@ -99,38 +137,43 @@ Take levetiracetam tablets exactly as prescribed.
   If it is almost time for your next dose, just skip the missed dose.
   Take the next dose at your regular time.
   Do not take two doses at the same time.
-- If you take too much levetiracetam, call your local Poison Control Center or go to the nearest emergency room right away.
+- If you take too much levetiracetam tablets, call your local Poison Control Center or go to the nearest emergency room right away.
 
-## What should I avoid while taking levetiracetam tablets?
+What should I avoid while taking levetiracetam tablets?
 
 Do not drive, operate machinery or do other dangerous activities until you know how levetiracetam tablets affect you.
 Levetiracetam tablets may make you dizzy or sleepy.
 
-## What are the possible side effects of levetiracetam tablets?
+What are the possible side effects of levetiracetam tablets?
 
-- See “What is the most important information I should know about levetiracetam tablets?”
+See “What is the most important information I should know about levetiracetam tablets?”
 
 Levetiracetam tablets can cause serious side effects.
 
 Call your healthcare provider right away if you have any of these symptoms:
 
-- mood and behavior changes such as aggression, agitation, anger, anxiety, apathy, mood swings, depression, hostility, and irritability.
+- mood and behavior changes such as aggression, agitation, anger, anxiety, apathy, mood swings, depression, hostility and irritability.
   A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.
-- extreme sleepiness, tiredness, and weakness
+- extreme sleepiness, tiredness and weakness
 - problems with muscle coordination (problems walking and moving)
+- a skin rash.
+  Serious skin rashes can happen after you start taking levetiracetam tablets.
+  There is no way to tell if a mild rash will become a serious reaction.
 
 The most common side effects seen in people who take levetiracetam tablets include:
 
 - sleepiness
 - weakness
-- dizziness
 - infection
+- dizziness
 
 The most common side effects seen in children who take levetiracetam tablets include, in addition to those listed above:
 
-- accidental injury
+- tiredness
+- acting aggressive
+- nasal congestion
+- decreased appetite
 - irritability
-- hostility
 
 These side effects can happen at any time but happen more often within the first 4 weeks of treatment except for infection.
 
@@ -142,33 +185,33 @@ For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-## How should I store levetiracetam tablets?
+How should I store levetiracetam tablets?
 
-- Store levetiracetam tablets at room temperatureroom temperature, 20° to 25°C (68° to 77°F) away from heat and light.
+- Store levetiracetam tablets at 20° to 25°C (68° to 77°F).
 - Keep levetiracetam tablets and all medicines out of the reach of children.
 
-## General information about levetiracetam tablets.
+General information about levetiracetam tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use levetiracetam tablets for a condition for which they were not prescribed.
+Do not use levetiracetam tablets for a condition for which it was not prescribed.
 Do not give levetiracetam tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
 
 This Medication Guide summarizes the most important information about levetiracetam tablets.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about levetiracetam tablets that is written for health professionals.
-You can also call 1-877-446-3679 (1-877-4-INFO-RX) for more information.
+You can also get information about levetiracetam tablets at www.mylan.com or call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-INFO-RX).
 
-## What are the ingredients of levetiracetam tablets, USP?
+What are the ingredients of levetiracetam tablets, USP?
 
-Levetiracetam tablets active ingredient: levetiracetam, USP.
+Active ingredient: levetiracetam, USP.
 
 Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, povidone, sodium lauryl sulfate, titanium dioxide and triacetin.
 
 Levetiracetam tablets do not contain lactose or gluten.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+This Medication Guide has been approved by the US Food and Drug Administration.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED AUGUST 2011 LVTC:R6mpbmt/MG:LVTC:R3
+REVISED MAY 2012 LVTC:R7mpbmt/MG:LVTC:R4

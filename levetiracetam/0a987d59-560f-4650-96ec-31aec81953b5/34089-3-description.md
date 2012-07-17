@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 Levetiracetam is an antiepileptic drug available as 250 mg, 500 mg, 750 mg or 1000 mg tablets for oral administration.
 
@@ -13,3 +13,5 @@ It is freely soluble in chloroform (65.3 g/100 mL) and in methanol (53.6 g/100 m
 
 Levetiracetam tablets contain the labeled amount of levetiracetam.
 Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, povidone, sodium lauryl sulfate, titanium dioxide and triacetin.
+
+Levetiracetam Tablets USP, 250 mg, 500 mg, 750 mg and 1000 mg Meet USP Dissolution Test 2.
