@@ -121,7 +121,7 @@ Approximately 63% and 55% of these MMF dose reductions were because of adverse r
 Table 22.
 MMF Dose Over Time in the Prograf/MMF Group (Study 2)
 
-| Time period (Days) | Time-averaged MMF dose (grams per day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two grams per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |
+| Time period (Days) | Time-averaged MMF dose (g/day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two grams per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |
 | --- | --- | --- | --- |
 | Less than 2.0 | 2.0 | Greater than 2.0 |  |
 | 0-30 (N=212) | 25% | 69% | 6% |

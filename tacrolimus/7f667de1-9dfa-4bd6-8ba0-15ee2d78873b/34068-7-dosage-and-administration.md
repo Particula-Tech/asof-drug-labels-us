@@ -2,10 +2,10 @@
 
 ## 2.1 Dosage in Adult Kidney, Liver, or Heart Transplant Patients
 
-The initial oral dosage recommendations for adult patients with kidney, liver, or heart transplants along with recommendations for whole blood trough concentrations are shown in Table 1.
+The initial oral dosage recommendations for adult patients with kidney, liver, or heart transplants along with recommendations for whole blood trough concentrations are shown in (Table 1).
 The initial dose of Prograf should be administered no sooner than 6 hours after transplantation in the liver and heart transplant patients.
 In kidney transplant patients, the initial dose of Prograf may be administered within 24 hours of transplantation, but should be delayed until renal function has recovered.
-For blood concentration monitoring details see Dosage and Administration (2.6).
+For blood concentration monitoring details [see Dosage and Administration (2.6)].
 
 Table 1.
 Summary of Initial Oral Dosage Recommendations and Observed Whole Blood Trough Concentrations in Adults
@@ -86,7 +86,7 @@ Some evidence suggests that lower doses should be used in these patients [see Do
 
 It is recommended that patients initiate oral therapy with Prograf capsules if possible.
 
-Initial dosage and observed tacrolimus whole blood trough concentrations for adults are shown in Table 1 and for pediatrics in Table 3[see Dosage and Administration (2.1, 2.2)]; for blood concentration monitoring details in kidney transplant patients [see Dosage and Administration (2.1)].
+Initial dosage and observed tacrolimus whole blood trough concentrations for adults are shown in (Table 1) and for pediatrics in (Table 3) [see Dosage and Administration (2.1, 2.2)]; for blood concentration monitoring details in kidney transplant patients [see Dosage and Administration (2.1)].
 
 It is important to take Prograf capsules consistently every day either with or without food because the presence and composition of food decreases the bioavailability of Prograf [see Clinical Pharmacology (12.3)].
 
@@ -104,7 +104,7 @@ In patients receiving an IV infusion, the first dose of oral therapy should be g
 ## 2.6 Therapeutic Drug Monitoring
 
 Monitoring of tacrolimus blood concentrations in conjunction with other laboratory and clinical parameters is considered an essential aid to patient management for the evaluation of rejection, toxicity, dose adjustments and compliance.
-Observed whole blood trough concentrations can be found in Table 1.
+Observed whole blood trough concentrations can be found in (Table 1).
 Factors influencing frequency of monitoring include but are not limited to hepatic or renal dysfunction, the addition or discontinuation of potentially interacting drugs and the post-transplant time.
 Blood concentration monitoring is not a replacement for renal and liver function monitoring and tissue biopsies.
 Data from clinical trials show that tacrolimus whole blood concentrations were most variable during the first week post-transplantation.

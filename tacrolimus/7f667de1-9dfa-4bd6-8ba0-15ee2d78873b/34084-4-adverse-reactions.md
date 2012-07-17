@@ -9,8 +9,8 @@ The following serious and otherwise important adverse drug reactions are discuss
 - New Onset Diabetes After Transplant [see Warnings and Precautions (5.6)]
 - Nephrotoxicity [see Warnings and Precautions (5.7)]
 - Neurotoxicity [see Warnings and Precautions (5.8)]
-- Hyperkalemia [seeWarnings and Precautions (5.9)]
-- Hypertension [seeWarnings and Precautions (5.10)]
+- Hyperkalemia [see Warnings and Precautions (5.9)]
+- Hypertension [see Warnings and Precautions (5.10)]
 - Anaphylaxis with Prograf Injection [see Warnings and Precautions (5.11)]
 - Myocardial Hypertrophy [see Warnings and Precautions (5.14)]
 - Pure Red Cell Aplasia [see Warnings and Precautions (5.16)]
@@ -149,7 +149,7 @@ Liver Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treate
 
 |  | U.S. TRIAL |  | EUROPEAN TRIAL |  |
 | --- | --- | --- | --- | --- |
-| Prograf(N=250) | Cyclosporine/AZA (N=250) | Prograf(N=264) | Cyclosporine/AZA (N=265) |  |
+| Prograf(N=250) | Cyclosporine/AZA (N=250) | Prograf(N=264) | Cyclosporine/ AZA (N=265) |  |
 | Nervous System |  |  |  |  |
 | Headache InsomniaTremor Paresthesia | 64%64%56%40% | 60%68%46%30% | 37%32%48%17% | 26%23%32%17% |
 | Gastrointestinal |  |  |  |  |
@@ -222,7 +222,7 @@ New Onset Diabetes After Transplant
 Kidney Transplant
 
 New Onset Diabetes After Transplant (NODAT) is defined as a composite of fasting plasma glucose ≥126 mg/dL, HbA1C ≥ 6%, insulin use ≥ 30 days or oral hypoglycemic use.
-In a trial in kidney transplant patients (Study 2), NODAT was observed in 75% in the Prograf-treated and 61% in the Neoral-treated patients without pre-transplant history of diabetes mellitus (Table 9) [seeClinical Studies (14.1)].
+In a trial in kidney transplant patients (Study 2), NODAT was observed in 75% in the Prograf-treated and 61% in the Neoral-treated patients without pre-transplant history of diabetes mellitus (Table 9) [see Clinical Studies (14.1)].
 
 Table 9.
 Incidence of New Onset Diabetes After Transplant at 1 year in Kidney Transplant Recipients in a Phase 3 Trial (Study 2)
@@ -292,15 +292,15 @@ Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Hear
 | Status of PTDMUse of insulin for 30 or more consecutive days without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | US Trial |  | European Trial |  |
 | --- | --- | --- | --- | --- |
 | Prograf/MMF | Cyclosporine/MMF | Prograf/AZA | Cyclosporine/AZA |  |
-| Patients at risk | 75 | 83 | 132 | 138 |
-| New Onset PTDM Patients without pre-transplant history of diabetes mellitus. | 10 (13%) | 6 (7%) | 29 (22%) | 5 (4%) |
+| Patients at riskPatients without pre-transplant history of diabetes mellitus. | 75 | 83 | 132 | 138 |
+| New Onset PTDM | 10 (13%) | 6 (7%) | 29 (22%) | 5 (4%) |
 | Patients still on insulin at 1 year 7-12 months for the U.S. trial. | 7 (9%) | 1 (1%) | 24 (18%) | 4 (3%) |
 
 Less Frequently Reported Adverse Reactions (>3% and <15%)
 
 The following adverse reactions were reported in either liver, kidney, and/or heart transplant recipients who were treated with tacrolimus in clinical trials.
 
-Nervous System [seeWarnings and Precautions (5.8)]
+Nervous System [see Warnings and Precautions (5.8)]
 
 Abnormal dreams, agitation, amnesia, anxiety, confusion, convulsion, crying, depression, elevated mood, emotional lability, encephalopathy, haemorrhagic stroke, hallucinations, hypertonia, incoordination, monoparesis, myoclonus, nerve compression, nervousness, neuralgia, neuropathy, paralysis flaccid, psychomotor skills impaired, psychosis, quadriparesis, somnolence, thinking abnormal, vertigo, writing impaired
 
@@ -310,7 +310,7 @@ Abnormal vision, amblyopia, ear pain, otitis media, tinnitus
 
 Gastrointestinal
 
-Cholangitis, cholestatic jaundice, duodenitis, dysphagia, esophagitis, flatulence, gastritis, gastroesophagitis, gastrointestinal hemorrhage, GGT increase, GI disorder, GI perforation, hepatitis, hepatitis granulomatous, ileus, increased appetite, jaundice, liver damage, oesophagitis ulcerative, oral moniliasis, pancreatic pseudocyst, rectal disorder, stomatitis,
+Cholangitis, cholestatic jaundice, duodenitis, dysphagia, esophagitis, flatulence, gastritis, gastroesophagitis, gastrointestinal hemorrhage, GGT increase, GI disorder, GI perforation, hepatitis, hepatitis granulomatous, ileus, increased appetite, jaundice, liver damage, oesophagitis ulcerative, oral moniliasis, pancreatic pseudocyst, rectal disorder, stomatitis
 
 Cardiovascular
 

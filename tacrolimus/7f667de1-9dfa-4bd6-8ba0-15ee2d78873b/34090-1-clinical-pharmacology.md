@@ -107,7 +107,7 @@ Following IV infusion of a 0.06 (range 0.06 – 0.09) mg/kg/day to 12 pediatric 
 Following oral administration to the same patients, mean AUC and Cmax were 181±65 (range 81-300) ng·hr/mL and 30±11 (range 14-49) ng/mL, respectively.
 The absolute bioavailability was 19±14 (range 5.2-56) %.
 
-Renal and Hepatic Impairment The mean pharmacokinetic parameters for tacrolimus following single administrations to patients with renal and hepatic impairment are given in Table 15.
+Renal and Hepatic Impairment The mean pharmacokinetic parameters for tacrolimus following single administrations to patients with renal and hepatic impairment are given in (Table 15).
 
 Table 15.
 Pharmacokinetic In Renal and Hepatic Impaired Patients
@@ -122,7 +122,7 @@ Pharmacokinetic In Renal and Hepatic Impaired Patients
 
 Renal Impairment: Tacrolimus pharmacokinetics following a single IV administration were determined in 12 patients (7 not on dialysis and 5 on dialysis, serum creatinine of 3.9±1.6 and 12.0±2.4 mg/dL, respectively) prior to their kidney transplant.
 The pharmacokinetic parameters obtained were similar for both groups.
-The mean clearance of tacrolimus in patients with renal dysfunction was similar to that in normal volunteers (Table 15) [seeDosage and Administration (2.3) and Use in Specific Populations (8.6)].
+The mean clearance of tacrolimus in patients with renal dysfunction was similar to that in normal volunteers (Table 15) [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 
 Hepatic Impairment: Tacrolimus pharmacokinetics have been determined in six patients with mild hepatic dysfunction (mean Pugh score: 6.2) following single IV and oral administrations.
 The mean clearance of tacrolimus in patients with mild hepatic dysfunction was not substantially different from that in normal volunteers (see previous table).
@@ -144,7 +144,8 @@ Drug Interactions
 
 Frequent monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when concomitant use of the following drugs with tacrolimus is initiated or discontinued [see Drug Interactions (7)].
 
-Telaprevir (see complete prescribing information for INCIVEKTM): In a single dose study in 9 healthy volunteers, coadministration of tacrolimus (0.5 mg single dose) with telaprevir (750 mg TID for 13 days) increased tacrolimus dose-normalized Cmax by 9.3-fold and AUC by 70-fold [see Drug Interactions (7.3)].
+Telaprevir: In a single dose study in 9 healthy volunteers, coadministration of tacrolimus (0.5 mg single dose) with telaprevir (750 mg three times daily for 13 days) increased the tacrolimus dose-normalized Cmax by 9.3-fold and AUC by 70-fold compared to tacrolimus alone[see Drug Interactions (7.3)].
+Boceprevir: In a single dose study in 12 subjects, coadministration of tacrolimus (0.5 mg single dose) with boceprevir (800 mg three times daily for 11 days) increased tacrolimus Cmax by 9.9-fold and AUC by 17-fold compared to tacrolimus alone [see Drug Interactions (7.3)].
 
 Nelfinavir: Based on a clinical study of 5 liver transplant recipients, co-administration of tacrolimus with nelfinavir increased blood concentrations of tacrolimus significantly and, as a result, a reduction in the tacrolimus dose by an average of 16-fold was needed to maintain mean trough tacrolimus blood concentrations of 9.7 ng/mL.
 It is recommended to avoid concomitant use of Prograf and nelfinavir unless the benefits outweigh the risks [see Drug Interactions (7.3)].

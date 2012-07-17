@@ -8,7 +8,7 @@ The physicians responsible for maintenance therapy should have complete informat
 
 ## 5.2 Lymphoma and Other Malignancies
 
-Patients receiving immunosuppressants, including Prograf, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Box Warning].
+Patients receiving immunosuppressants, including Prograf, are at increased risk of developing lymphomas and other malignancies, particularly of the skin[see Box Warning].
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
@@ -115,9 +115,12 @@ Use of sirolimus with Prograf in studies of de novo liver transplant patients wa
 
 Use of sirolimus (2 mg per day) with Prograf in heart transplant patients in a U.S. trial was associated with increased risk of renal function impairment, wound healing complications, and insulin-dependent post-transplant diabetes mellitus, and is not recommended [see Clinical Studies (14.3)].
 
-## 5.13 Use with Strong Inhibitors and Inducers of CYP3A
+## 5.13 Use with CYP3A4 Inhibitors and Inducers Including Those That Prolong QT
 
-Co-administration with strong CYP3A4-inhibitors (e.g., telaprevir, boceprevir, amiodarone, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) is not recommended without close monitoring of tacrolimus whole blood trough concentrations [see Drug Interactions (7)].
+Coadministration with strong CYP3A4-inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) is not recommended without adjustments in the dosing regimen of tacrolimus and subsequent close monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions [see Drug Interactions (7)].
+
+When coadministering tacrolimus with other substrates and/or inhibitors of CYP3A4 that also have the potential to prolong the QT interval, a reduction in tacrolimus dose, close monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended.
+Use of tacrolimus with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent QT prolongation.
 
 ## 5.14 Myocardial Hypertrophy
 

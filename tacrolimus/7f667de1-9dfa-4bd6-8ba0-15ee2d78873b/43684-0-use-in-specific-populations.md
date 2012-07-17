@@ -42,7 +42,7 @@ Further reductions in dose below the targeted range may be required [seeDosage a
 ## 8.7 Use in Hepatic Impairment
 
 The mean clearance of tacrolimus was substantially lower in patients with severe hepatic impairment (mean Child-Pugh score: >10) compared to healthy volunteers with normal hepatic function.
-Close monitoring of tacrolimus trough concentrations is warranted in patients with hepatic impairment [seeClinical Pharmacology (12.3)].
+Close monitoring of tacrolimus trough concentrations is warranted in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 
 The use of Prograf in liver transplant recipients experiencing post-transplant hepatic impairment may be associated with increased risk of developing renal insufficiency related to high whole-blood trough concentrations of tacrolimus.
 These patients should be monitored closely and dosage adjustments should be considered.
