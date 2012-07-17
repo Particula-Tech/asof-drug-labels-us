@@ -1,9 +1,16 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Morphine, a pure opioid agonist, is relatively selective for the mu receptor, although it can interact with other opioid receptors at higher doses.
+## 12.1 Mechanism of Action
+
+Morphine sulfate, an opioid agonist, is relatively selective for the mu receptor, although it can interact with other opioid receptors at higher doses.
 In addition to analgesia, the widely diverse effects of morphine include drowsiness, changes in mood, respiratory depression, decreased gastrointestinal motility, nausea, vomiting, and alterations of the endocrine and autonomic nervous system.
 
-Effects on the Central Nervous System (CNS): The principal therapeutic action of morphine is analgesia.
+Morphine produces both its therapeutic and its adverse effects by interaction with one or more classes of specific opioid receptors located throughout the body.
+Morphine acts as a full agonist, binding with and activating opioid receptors at sites in the peri-aqueductal and peri-ventricular grey matter, the ventro-medial medulla and the spinal cord to produce analgesia.
+
+Effects on the Central Nervous System
+
+The principal therapeutic action of morphine is analgesia.
 Other therapeutic effects of morphine include anxiolysis, euphoria and feelings of relaxation.
 Although the precise mechanism of the analgesic action is unknown, specific CNS opiate receptors and endogenous compounds with morphine-like activity have been identified throughout the brain and spinal cord and are likely to play a role in the expression and perception of analgesic effects.
 In common with other opioids, morphine causes respiratory depression, in part by a direct effect on the brainstem respiratory centers.
@@ -12,7 +19,9 @@ Antitussive effects may occur with doses lower than those usually required for a
 Morphine causes miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose; however, when asphyxia is present during opioid overdose, marked mydriasis occurs.
 
-Effects on the Gastrointestinal Tract and on Other Smooth Muscle: Gastric, biliary and pancreatic secretions are decreased by morphine.
+Effects on the Gastrointestinal Tract and Other Smooth Muscle
+
+Gastric, biliary and pancreatic secretions are decreased by morphine.
 Morphine causes a reduction in motility and is associated with an increase in tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm.
@@ -20,37 +29,52 @@ The end result may be constipation.
 Morphine can cause a marked increase in biliary tract pressure as a result of spasm of the sphincter of Oddi.
 Morphine may also cause spasm of the sphincter of the urinary bladder.
 
-Effects on the Cardiovascular System: In therapeutic doses, morphine does not usually exert major effects on the cardiovascular system.
+Effects on the Cardiovascular System
+
+In therapeutic doses, morphine does not usually exert major effects on the cardiovascular system.
 Morphine produces peripheral vasodilation which may result in orthostatic hypotension and fainting.
 Release of histamine can occur, which may play a role in opioid-induced hypotension.
 Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes and sweating.
 
-## Pharmacodynamics
+Effects on the Endocrine System
 
-Morphine concentrations are not predictive of analgesic response, especially in patients previously treated with opioids.
-The minimum effective concentration varies widely and is influenced by a variety of factors, including the extent of previous opioid use, age, and general medical condition.
-Effective doses in tolerant patients may be significantly higher than in opioid-naïve patients.
+Opioids inhibit the secretion of ACTH, cortisol, and luteinizing hormone (LH) in humans.
+They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-In all patients, the dose of morphine should be titrated on the basis of clinical evaluation of the patient and to achieve a balance between therapeutic and adverse effects.
+Effects on the Immune System
 
-## Pharmacokinetics
+Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
+The clinical significance of these findings is unknown.
+Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-AVINZA consists of two components, an immediate release component that rapidly achieves plateau morphine plasma concentrations and an extended release component that maintains plasma concentrations throughout the 24-hour dosing interval.
-The amount of morphine absorbed from AVINZA following oral administration is similar to that absorbed from other oral morphine formulations.
+## 12.2 Pharmacodynamics
+
+Plasma Level-Analgesia Relationships
+
+While plasma morphine-efficacy relationships can be demonstrated in non-tolerant individuals, they are influenced by a wide variety of factors and are not generally useful as a guide to the clinical use of morphine.
+The effective dose in opioid-tolerant patients may be 10–50 times as great (or greater) than the appropriate dose for opioid-naïve individuals.
+Dosages of morphine should be chosen and must be titrated on the basis of clinical evaluation of the patient and the balance between therapeutic and adverse effects.
+
+CNS Depressant/Alcohol Interaction
+
+Additive pharmacodynamic effects may be expected when AVINZA is used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression.
+
+## 12.3 Pharmacokinetics
+
+Absorption
+
+AVINZA consists of two components, an immediate release component and an extended-release component.
 
 The oral bioavailability of morphine is less than 40% and shows large inter-individual variability due to extensive pre-systemic metabolism.
-
-### Absorption
 
 Following single-dose oral administration of a 60 mg dose of AVINZA under fasting conditions, morphine concentrations of approximately 3 to 6 ng/ml were achieved within 30 minutes after dosing and maintained for the 24-hour dosing interval.
 The pharmacokinetics of AVINZA were shown to be dose-proportional over a single oral dose range of 30 to 120 mg in healthy volunteers and a multiple oral dose range of at least 30 to 180 mg in patients with chronic moderate to severe pain.
 
-Food Effects: When a 60 mg dose of AVINZA was administered immediately following a high fat meal, peak morphine concentrations and AUC values were similar to those observed when the dose of AVINZA was administered in a fasting state, although achievement of initial concentrations was delayed by approximately 1 hour under fed conditions.
+Food Effect: When a 60 mg dose of AVINZA was administered immediately following a high fat meal, peak morphine concentrations and AUC values were similar to those observed when the dose of AVINZA was administered in a fasting state, although achievement of initial concentrations was delayed by approximately 1 hour under fed conditions.
 Therefore, AVINZA can be administered without regard to food.
 When the contents of AVINZA were administered by sprinkling on applesauce, the rate and extent of morphine absorption were found to be bioequivalent to the same dose when administered as an intact capsule.
 
-Steady State: When dosed once-daily, AVINZA steady-state pharmacokinetics are characterized by a plateau-like plasma concentration profile.
-Steady-state plasma concentrations of morphine are achieved 2 to 3 days after initiation of once-daily administration of AVINZA.
+Steady State: Steady-state plasma concentrations of morphine are achieved 2 to 3 days after initiation of once-daily administration of AVINZA.
 
 AVINZA 60 mg Capsules (once-daily) and 10 mg morphine oral solution (6 times daily) were equally bioavailable.
 
@@ -58,66 +82,70 @@ A once-daily dose of AVINZA provided similar Cmax, Cmin, and AUC values and peak
 
 Table 1 Pharmacokinetic Data Mean ± SD
 
-| Parameter | AVINZA Capsules Once-Daily | Morphine Oral Solution 6-Times Daily |
-| --- | --- | --- |
-| AUC (ng/ml.h) | 273.25 ± 81.24 | 279.11 ± 63.00 |
-| Cmax (ng/ml) | 18.65 ± 7.13 | 19.96 ± 4.82 |
-| Cmin (ng/ml) | 6.98 ± 2.44 | 6.61 ±2.15 |
-| % FL | 106.38 ± 78.14 | 116.22 ±26.67 |
+| Parameter | AVINZA Capsules Once-Daily |  | Morphine Oral Solution 6-Times Daily |  |
+| --- | --- | --- | --- | --- |
+| AUC (ng/ml.h) |  | 273.25 ± 81.24 |  | 279.11 ± 63.00 |
+| Cmax (ng/ml) |  | 18.65 ± 7.13 |  | 19.96 ± 4.82 |
+| Cmin (ng/ml) |  | 6.98 ± 2.44 |  | 6.61 ±2.15 |
+| % FL |  | 106.38 ± 78.14 |  | 116.22 ±26.67 |
 
-### Distribution
+Distribution
 
 Once absorbed, morphine is distributed to skeletal muscle, kidneys, liver, intestinal tract, lungs, spleen and brain.
 Although the primary site of action is the CNS, only small quantities cross the blood-brain barrier.
-Morphine also crosses the placental membranes and has been found in breast milk.
+Morphine also crosses the placental membranes and has been found in breast milk [see Use in Specific Populations (8.1, 8.3)].
 The volume of distribution of morphine is approximately 1 to 6 L/kg, and morphine is 20 to 35% reversibly bound to plasma proteins.
 
-### Metabolism
+Metabolism
 
-The major pathway of morphine detoxification is conjugation, either with D-glucuronic acid to produce glucuronides or with sulfuric acid to produce morphine-3-etheral sulfate.
-While a small fraction (less than 5%) of morphine is demethylated, virtually all morphine is converted by hepatic metabolism to the 3- and 6-glucuronide metabolites (M3G and M6G; about 50% and 15%, respectively).
+The major pathways of morphine metabolism include glucuronidation to produce metabolites including morphine-3-glucuronide, M3G (about 50%) and morphine-6-glucuronide, M6G (about 5 to 15%) and sulfation in the liver to produce morphine-3-etheral sulfate.
+A small fraction (less than 5%) of morphine is demethylated.
 M6G has been shown to have analgesic activity but crosses the blood-brain barrier poorly, while M3G has no significant analgesic activity.
 
-### Excretion
+Excretion
 
-Most of a dose of morphine is excreted in urine as M3G and M6G, with elimination of morphine occurring primarily as renal excretion of M3G.
-Approximately 10% of the dose is excreted unchanged in urine.
-A small amount of the glucuronide conjugates are excreted in bile, with minor enterohepatic recycling.
+Approximately 10% of a morphine dose is excreted unchanged in the urine.
+Elimination of morphine is primarily via hepatic metabolism to glucuronide metabolites M3G and M6G which are then renally excreted.
+A small amount of the glucuronide metabolites is excreted in the bile and there is some minor enterohepatic recycling.
 Seven to 10% of administered morphine is excreted in the feces.
+The mean adult plasma clearance of morphine is about 20 – 30 mL/minute/kg.
+The effective terminal half life of morphine after IV administration is reported to be approximately 2 hours.
+The terminal elimination half-life of morphine following single dose of AVINZA administration is approximately 24 hrs.
 
-The mean adult plasma clearance is approximately 20 to 30 ml/min/kg.
-The effective terminal half-life of morphine after IV administration is reported to be approximately 2 hours.
-In some studies involving longer periods of plasma sampling, a longer terminal half-life of morphine of about 15 hours was reported.
+Special Populations
 
-### In Vitro AVINZA-Alcohol Interaction
+Geriatric Patients
 
-In vitro studies performed by the FDA demonstrated that when AVINZA 30 mg was mixed with 900 mL of buffer solutions containing ethanol (20% and 40%), the dose of morphine that was released was alcohol concentration-dependent, leading to a more rapid release of morphine.
-While the relevance of in vitro lab tests regarding AVINZA to the clinical setting remains to be determined, this acceleration of release may correlate with in vivo rapid release of the total morphine dose, which could result in the absorption of a potentially fatal dose of morphine.
+The pharmacokinetics of AVINZA have not been studied in elderly patients.
 
-### Special Populations
+Pediatric Patients
 
-Geriatric: Elderly patients (aged 65 years or older) may have increased sensitivity to morphine.
-AVINZA pharmacokinetics have not been studied specifically in elderly patients.
-
-Nursing Mothers: Low levels of morphine sulfate have been detected in maternal milk.
-The milk:plasma morphine AUC ratio is about 2.5:1.
-The amount of morphine delivered to the infant depends on the plasma concentration of the mother, the amount of milk ingested by the infant, and the extent of first-pass metabolism.
-
-Pediatric: The pharmacokinetics of AVINZA have not been studied in pediatric patients below the age of 18.
+The pharmacokinetics of AVINZA have not been studied in pediatric patients below the age of 18.
 The range of dose strengths available may not be appropriate for treatment of very young pediatric patients.
 Sprinkling on applesauce is NOT a suitable alternative for these patients.
 
-Gender: A gender analysis of pharmacokinetic data from healthy subjects taking AVINZA indicated that morphine concentrations were similar in males and females.
+Gender
 
-Race: There may be some pharmacokinetic differences associated with race.
-In one published study, Chinese subjects given intravenous morphine had a higher clearance when compared to Caucasian subjects (1852 +/- 116 ml/min compared to 1495 +/- 80 ml/min).
+A gender analysis of pharmacokinetic data from healthy subjects taking AVINZA indicated that morphine concentrations were similar in males and females.
 
-Hepatic Failure: Morphine pharmacokinetics have been reported to be significantly altered in patients with cirrhosis.
+Race
+
+Chinese subjects given intravenous morphine had a higher clearance when compared to Caucasian subjects (1852 +/- 116 ml/min compared to 1495 +/- 80 ml/min).
+
+Hepatic Impairment
+
+Morphine pharmacokinetics are altered in individuals with cirrhosis.
 Clearance was found to decrease with a corresponding increase in half-life.
 The M3G and M6G to morphine plasma AUC ratios also decreased in these subjects, indicating diminished metabolic activity.
+Adequate studies of the pharmacokinetics of morphine in patients with severe hepatic impairment have not been conducted.
 
-Renal Insufficiency: Morphine pharmacokinetics are altered in patients with renal failure.
-Clearance is decreased and the metabolites, M3G and M6G, may accumulate to much higher plasma levels in patients with renal failure as compared to patients with normal renal function.
+Renal Impairment
 
-Drug-Drug Interactions: Known drug-drug interactions involving morphine are pharmacodynamic, not pharmacokinetic.
-(see PRECAUTIONS, Drug Interactions)
+Morphine pharmacokinetics are altered in patients with renal failure.
+The AUC is increased and clearance is decreased and the metabolites, M3G and M6G, may accumulate to much higher plasma levels in patients with renal failure as compared to patients with normal renal function.
+Adequate studies of the pharmacokinetics of morphine in patients with severe renal impairment have not been conducted.
+
+Drug Interaction/Alcohol Interaction
+
+In in vitro studies of the dissolution of AVINZA 30 mg mixed with 900 mL of buffer solutions containing ethanol (20% and 40%), the amount of morphine released increased in an alcohol concentration-dependent manner.
+While the relevance of in vitro lab tests regarding AVINZA to the clinical setting remains to be determined, this acceleration of release may correlate with in vivo rapid release of the total morphine dose, which could result in the absorption of a potentially fatal dose of morphine.

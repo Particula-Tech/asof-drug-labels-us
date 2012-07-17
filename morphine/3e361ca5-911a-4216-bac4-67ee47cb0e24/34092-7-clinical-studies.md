@@ -1,8 +1,4 @@
-# Clinical Studies
-
-AVINZA was studied in over 140 healthy volunteers and 560 patients with chronic, moderate to severe pain who participated in 6 pharmacokinetic studies, 4 clinical studies and 3 studies which provided both pharmacokinetic and clinical data.
-The patient population included those who were either receiving chronic opioid therapy or had a prior sub-optimal response to acetaminophen and/or NSAID therapy, as well as patients who previously received intermittent opioid analgesic therapy.
-In the controlled clinical studies, patients were followed from 7 days to up to 4 weeks, and in the open label studies, patients were followed for up to 6 to 12 months.
+# 14 CLINICAL STUDIES
 
 AVINZA was studied in a double-blind, placebo-controlled, fixed-dose, parallel group trial in 295 patients with moderate to severe pain due to osteoarthritis.
 These patients had either a prior sub-optimal response to acetaminophen, NSAID therapy, or previously received intermittent opioid analgesic therapy.

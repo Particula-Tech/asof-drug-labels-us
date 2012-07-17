@@ -1,4 +1,9 @@
-# SAFETY AND HANDLING
+Manufactured for: King Pharmaceuticals, Inc. Bristol, TN 37620 AVINZA® Information Service: 1-800-776-3637
 
-AVINZA consists of hard gelatin capsules containing polymer-coated morphine sulfate beads that pose no known risk of handling to healthcare workers.
-All opioids are liable to diversion and misuse both by the general public and healthcare workers and should be handled accordingly.
+Utilizing technology developed by: Alkermes Pharma Ireland Ltd. Monksland, Athlone Co Westmeath, Ireland
+
+AVINZA® is a registered trademark of King Pharmaceuticals Research and Development, Inc.
+
+SODAS® is a registered trademark of Alkermes Pharma Ireland Ltd.
+
+LAB-0600-1.0

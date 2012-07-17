@@ -1,11 +1,15 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-AVINZA capsules are a modified-release formulation of morphine sulfate intended for once daily administration indicated for the relief of moderate to severe pain requiring continuous, around-the-clock opioid therapy for an extended period of time.
+AVINZA is indicated for the management of moderate to severe pain when a continuous, around-the-clock opioid analgesic is needed for an extended period of time.
 
-AVINZA is NOT intended for use as a prn analgesic.
+Limitations of Use
 
-The safety and efficacy of using AVINZA in the postoperative setting has not been evaluated.
-AVINZA is not indicated for postoperative use.
-If the patient has been receiving the drug prior to surgery, resumption of the pre-surgical dose may be appropriate once the patient is able to take the drug by mouth.
-Physicians should individualize treatment, moving from parenteral to oral analgesics as appropriate.
-(see American Pain Society guidelines)
+AVINZA is not for use:
+
+- As an as-needed (prn) analgesic
+- For pain that is mild or not expected to persist for an extended period of time
+- For acute pain
+- For postoperative pain unless the patient is already receiving chronic opioid therapy prior to surgery or if the postoperative pain is expected to be moderate to severe and persist for an extended period of time.
+
+AVINZA 90 mg and 120 mg capsules are only for patients in whom tolerance to an opioid of comparable potency is established.
+Patients considered opioid-tolerant are those taking at least 60 mg of morphine daily, at least 30 mg of oral oxycodone daily, at least 8 mg of oral hydromorphone daily, or an equianalgesic dose of another opioid for a week or longer.

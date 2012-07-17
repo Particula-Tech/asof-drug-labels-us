@@ -1,19 +1,28 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-In controlled and open label clinical studies, 560 patients with chronic malignant or non-malignant pain were treated with AVINZA.
+The following serious adverse reactions and/or conditions are discussed elsewhere in the labeling:
+
+- Respiratory Depression [see Warnings and Precautions (5.2)]
+- Chronic Pulmonary Disease [see Warnings and Precautions (5.6)]
+- Head Injuries and Increased Intracranial Pressure [see Warnings and Precautions (5.9)]
+- Interactions with Other CNS Depressants [see Warnings and Precautions (5.7)]
+- Hypotensive Effect [see Warnings and Precautions (5.8)
+- Gastrointestinal Effects [see Warnings and Precautions (5.10)
+- Seizures [see Warnings and Precautions (5.11)
+
+The most common adverse reactions with AVINZA include constipation, nausea and somnolence.
+
+## 6.1 Clinical Studies Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+In controlled and open-label clinical studies, 560 patients with chronic malignant or non-malignant pain were treated with AVINZA.
 The most common serious adverse events reported with administration of AVINZA were vomiting, nausea, death, dehydration, dyspnea, and sepsis.
 (Deaths occurred in patients treated for pain due to underlying malignancy.)
 Serious adverse events caused by morphine include respiratory depression, apnea, and to a lesser degree, circulatory depression, respiratory arrest, shock and cardiac arrest.
 
-## Adverse Events
-
-The common adverse events seen on initiation of therapy with morphine are dose-dependent and are typical opioid-related side effects.
-The most frequent of these include constipation, nausea and somnolence.
-The frequency of these events depends upon several factors including the clinical setting, the patient’s level of opioid tolerance, and host factors specific to the individual.
-These events should be anticipated and managed as part of opioid analgesia therapy.
-
 The most common adverse events (seen in greater than 10%) reported by patients treated with AVINZA during the clinical trials at least once during therapy were constipation, nausea, somnolence, vomiting, and headache.
-Adverse events occurring in 5-10% of study patients were peripheral edema, diarrhea, abdominal pain, infection, urinary tract infection, accidental injury, flu syndrome, back pain, rash, sweating, fever, insomnia, depression, paresthesia, anorexia, dry mouth, asthenia and dyspnea.
+Adverse events occurring in 5–10% of study patients were peripheral edema, diarrhea, abdominal pain, infection, urinary tract infection, accidental injury, flu syndrome, back pain, rash, sweating, fever, insomnia, depression, paresthesia, anorexia, dry mouth, asthenia and dyspnea.
 Other less common side effects expected from opioid analgesics, including morphine, or seen in fewer than 5% of patients taking AVINZA in the clinical trials were:
 
 Body as a Whole: malaise, withdrawal syndrome.
@@ -37,3 +46,6 @@ Skin and Appendages: dry skin, urticaria.
 Special Senses: amblyopia, eye pain, taste perversion.
 
 Urogenital System: abnormal ejaculation, dysuria, impotence, decreased libido, oliguria, urinary retention.
+
+Anaphylaxis has been reported with ingredients contained in AVINZA.
+Advise patients how to recognize such a reaction and when to seek medical attention.
