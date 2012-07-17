@@ -1,6 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
-
-## 16.1 How Supplied
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Zolpidem tartrate tablets are available as follows:
 
@@ -23,7 +21,5 @@ NDC 0781-5318-01, bottle of 100 tablets
 NDC 0781-5318-05, bottle of 500 tablets
 
 NDC 0781-5318-10, bottle of 1000 tablets
-
-## 16.2 Storage and Handling
 
 Store at controlled room temperature 20° -25°C (68° -77°F).

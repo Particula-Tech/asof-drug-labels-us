@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Transient Insomnia
 
@@ -18,26 +18,28 @@ Zolpidem was comparable to placebo on number of awakenings at both doses studied
 Adult outpatients (n=141) with chronic insomnia were also evaluated in a double-blind, parallel group, 4-week trial comparing two doses of zolpidem and placebo.
 Zolpidem 10 mg was superior to placebo on a subjective measure of sleep latency for all 4 weeks, and on subjective measures of total sleep time, number of awakenings, and sleep quality for the first treatment week.
 
-Increased wakefulness during the last third of the night as measured by polysomnography has not been observed in clinical trials with zolpidem.
+Increased wakefulness during the last third of the night as measured by polysomnography has not been observed in clinical trials with zolpidem tartrate.
 
-## 14.3 Studies Pertinent to Safety Concerns for Sedative/Hypnotic Drugs Next-day Residual Effects
+## 14.3 Studies Pertinent to Safety Concerns for Sedative/Hypnotic Drugs
 
-Next-day residual effects of zolpidem tartrate tablets were evaluated in seven studies involving normal volunteers.
+Next-day Residual Effects
+
+Next-day residual effects of zolpidem tartrate tablets were evaluated in seven studies involving normal subjects.
 In three studies in adults (including one study in a phase advance model of transient insomnia) and in one study in elderly subjects, a small but statistically significant decrease in performance was observed in the Digit Symbol Substitution Test (DSST) when compared to placebo.
 Studies of zolpidem tartrate tablets in non-elderly patients with insomnia did not detect evidence of next-day residual effects using the DSST, the Multiple Sleep Latency Test (MSLT), and patient ratings of alertness.
 
-Rebound Effects:
+Rebound Effects
 
 There was no objective (polysomnographic) evidence of rebound insomnia at recommended doses seen in studies evaluating sleep on the nights following discontinuation of zolpidem tartrate tablets.
 There was subjective evidence of impaired sleep in the elderly on the first post-treatment night at doses above the recommended elderly dose of 5 mg.
 
-Memory Impairment:
+Memory Impairment
 
 Controlled studies in adults utilizing objective measures of memory yielded no consistent evidence of next-day memory impairment following the administration of zolpidem tartrate tablets.
 However, in one study involving zolpidem doses of 10 and 20 mg, there was a significant decrease in next-morning recall of information presented to subjects during peak drug effect (90 minutes post-dose), i.e., these subjects experienced anterograde amnesia.
 There was also subjective evidence from adverse event data for anterograde amnesia occurring in association with the administration of zolpidem tartrate tablets, predominantly at doses above 10 mg.
 
-Effects on Sleep Stages:
+Effects on Sleep Stages
 
-In studies that measured the percentage of sleep time spent in each sleep stage, zolpidem tartrate tablets have generally been shown to preserve sleep stages.
+In studies that measured the percentage of sleep time spent in each sleep stage, zolpidem tartrate have generally been shown to preserve sleep stages.
 Sleep time spent in stages 3 and 4 (deep sleep) was found comparable to placebo with only inconsistent, minor changes in REM (paradoxical) sleep at the recommended dose.

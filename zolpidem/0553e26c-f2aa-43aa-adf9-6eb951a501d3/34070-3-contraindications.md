@@ -1,6 +1,4 @@
-# 4. CONTRAINDICATIONS
-
-## 4.1 Hypersensitivity
+# 4 CONTRAINDICATIONS
 
 Zolpidem tartrate tablets are contraindicated in patients with known hypersensitivity to zolpidem tartrate or to any of the inactive ingredients in the formulation.
-[Also, see Severe Anaphylactic and Anaphylactoid Reactions (5.2)].
+Observed reactions include anaphylaxis and angioedema [see WARNINGS AND PRECAUTIONS (5.2)].

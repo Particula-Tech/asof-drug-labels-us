@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA077322"
+  ],
   "inn": "zolpidem",
-  "labeler": "Sandoz Inc.",
+  "labeler": "Sandoz Inc",
   "package_ndcs": [
     "0781-5317-01",
     "0781-5317-05",
@@ -12,7 +14,13 @@
     "0781-5318-10",
     "0781-5318-31"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "zolpidem tartrate",
+      "name": "Zolpidem Tartrate"
+    }
+  ],
   "setid": "0553e26c-f2aa-43aa-adf9-6eb951a501d3",
   "source": "dailymed"
 }
