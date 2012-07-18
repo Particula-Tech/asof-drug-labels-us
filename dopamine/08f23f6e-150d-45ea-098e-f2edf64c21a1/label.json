@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018826"
+  ],
   "inn": "dopamine",
-  "labeler": "HOSPIRA, INC.",
+  "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-7808-22",
     "0409-7808-24",
@@ -9,7 +11,13 @@
     "0409-7809-24",
     "0409-7810-22"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dopamine hydrochloride",
+      "name": "Dopamine Hydrochloride and Dextrose"
+    }
+  ],
   "setid": "08f23f6e-150d-45ea-098e-f2edf64c21a1",
   "source": "dailymed"
 }

@@ -13,7 +13,7 @@ Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic pe
 
 # PRECAUTIONS
 
-## General:
+General:
 
 Solutions containing dextrose should be used with caution in patients with known subclinical or overt diabetes mellitus.
 
@@ -44,16 +44,12 @@ The physician should switch to a more suitable site as soon as possible and the 
 | IMPORTANT ─ Antidote for Peripheral Ischemia: To prevent sloughing and necrosis in ischemic areas, the area should be infiltrated as soon as possible with 10 to 15 mL of 0.9% Sodium Chloride Injection, USP, containing from 5 to 10 mg of Regitine® (brand of phentolamine) an adrenergic blocking agent. Pediatric dosage of Regitine® should be 0.1 ─ 0.2 mg/kg up to a maximum of 10 mg per dose. A syringe with a fine hypodermic needle should be used, and the solution liberally infiltrated throughout the ischemic area. Sympathetic blockade with phentolamine causes immediate and conspicuous local hyperemic changes if the area is infiltrated within 12 hours. Therefore, phentolamine should be given as soon as possible after the extravasation is noted. |
 | --- |
 
-## Laboratory Tests:
-
-Infusion of dopamine suppresses pituitary secretion of thyroid─stimulating hormone, growth hormone, and prolactin.
+Laboratory Tests: Infusion of dopamine suppresses pituitary secretion of thyroid-stimulating hormone, growth hormone, and prolactin.
 
 Weaning: When discontinuing the infusion, it may be necessary to gradually decrease the dose of dopamine HCl while expanding blood volume with IV fluids.
 Sudden cessation may result in marked hypotension.
 
-## Drug Interactions:
-
-Cyclopropane or halogenated hydrocarbon anesthetics increase cardiac autonomic irritability and may sensitize the myocardium to the action of certain intravenously administered catecholamines, such as dopamine.
+Drug Interactions: Cyclopropane or halogenated hydrocarbon anesthetics increase cardiac autonomic irritability and may sensitize the myocardium to the action of certain intravenously administered catecholamines, such as dopamine.
 This interaction appears to be related both to pressor activity and to the β-adrenergic stimulating properties of these catecholamines, and may produce ventricular arrhythmias and hypertension.
 Therefore, EXTREME CAUTION should be exercised when administering dopamine HCl to patients receiving cyclopropane or halogenated hydrocarbon anesthetics.
 Results of studies in animals indicate that dopamine-induced ventricular arrhythmias during anesthesia can be reversed by propranolol.
@@ -76,9 +72,7 @@ The concomitant use of vasopressors, vasoconstricting agents (such as ergonovine
 Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia.
 It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be considered if anticonvulsant therapy is needed.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
-
-Long term animal studies have not been performed to evaluate the carcinogenic potential of dopamine HCl.
+Carcinogenesis, Mutagenesis, Impairment of Fertility: Long term animal studies have not been performed to evaluate the carcinogenic potential of dopamine HCl.
 
 Dopamine HCl at doses approaching maximal solubility showed no clear genotoxic potential in the Ames test.
 Although there was a reproducible dose-dependent increase in the number of revertant colonies with strains TA100 and TA98, both with and without metabolic activation, the small increase was considered inconclusive evidence of mutagenicity.
@@ -86,31 +80,21 @@ In the L5178Y TK+/- mouse lymphoma assay, dopamine HCl at the highest concentrat
 
 No clear evidence of clastogenic potential was reported in the in vivo mouse or male rat bone marrow micronucleus test when the animals were treated intravenously with up to 224 mg/kg and 30 mg/kg of dopamine HCl, respectively.
 
-## Pregnancy:
-
-Pregnancy Category C: Teratogenic Effects: Teratogenicity studies in rats and rabbits at dopamine HCl dosages up to 6 mg/kg/day intravenously during organogenesis produced no detectable teratogenic or embryotoxic effects, although maternal toxicity consisting of mortalities, decreased body weight gain, and pharmacotoxic signs were observed in rats.
+Pregnancy: Pregnancy Category C: Teratogenic Effects: Teratogenicity studies in rats and rabbits at dopamine HCl dosages up to 6 mg/kg/day intravenously during organogenesis produced no detectable teratogenic or embryotoxic effects, although maternal toxicity consisting of mortalities, decreased body weight gain, and pharmacotoxic signs were observed in rats.
 In a published study, dopamine HCl administered at 10 mg/kg subcutaneously for 30 days, markedly prolonged metestrus and increased mean pituitary and ovary weights in female rats.
 Similar administration to pregnant rats throughout gestation or for 5 days starting on gestation day 10 or 15 resulted in decreased body weight gains, increased mortalities and slight increases in cataract formation among the offspring.
 There are no adequate and well-controlled studies in pregnant women, and it is not known if dopamine HCl crosses the placental barrier.
 Dopamine HCl should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Labor and Delivery:
+Labor and Delivery: In obstetrics, if vasopressor drugs are used to correct hypotension or are added to a local anesthetic solution the interaction with some oxytocic drugs may cause severe hypertension.
 
-In obstetrics, if vasopressor drugs are used to correct hypotension or are added to a local anesthetic solution the interaction with some oxytocic drugs may cause severe hypertension.
-
-## Nursing Mothers:
-
-It is not known whether this drug is excreted in human milk.
+Nursing Mothers: It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when dopamine HCl is administered to a nursing mother.
 
-## Pediatric Use:
-
-Dopamine infusions have been used in patients of every age from birth onwards.
+Pediatric Use: Dopamine infusions have been used in patients of every age from birth onwards.
 There are scattered reports of infusion rates in neonates up to 125 mcg/kg/min, but most reports in pediatric patients describe dosing that is similar (on a mcg/kg/min basis) to that used in adults.
 Except for vasoconstrictive effects caused by inadvertent infusion of dopamine into the umbilical artery, adverse effects unique to the pediatric population have not been identified, nor have adverse effects identified in adults been found to be more common in pediatric patients.
 
-## Geriatric Use:
-
-Clinical studies of dopamine injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Geriatric Use: Clinical studies of dopamine injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.

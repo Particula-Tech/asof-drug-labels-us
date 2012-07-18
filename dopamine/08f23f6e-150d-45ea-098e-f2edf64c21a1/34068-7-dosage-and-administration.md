@@ -36,12 +36,10 @@ When discontinuing the infusion, it may be necessary to gradually decrease the d
 Suggested Regimen:
 
 1. When appropriate, increase blood volume with whole blood or plasma until central venous pressure is 10 to 15 cm H2O or pulmonary wedge pressure is 14 to 18 mm Hg.
-2. Begin infusion of dopamine hydrochloride solution at doses of 2 to 5 mcg/kg/min in adult or pediatric patients who are likely to respond to modest increments of heart force and renal perfusion.
-   In more seriously ill patients, begin infusion of dopamine hydrochloride at doses of 5 mcg/kg/min and increase gradually, using 5 to 10 mcg/kg/min increments, up to a rate of 20 to 50 mcg/kg/min as needed.
+2. Begin infusion of dopamine hydrochloride solution at doses of 2 to 5 mcg/kg/min in adult or pediatric patients who are likely to respond to modest increments of heart force and renal perfusion.In more seriously ill patients, begin infusion of dopamine hydrochloride at doses of 5 mcg/kg/min and increase gradually, using 5 to 10 mcg/kg/min increments, up to a rate of 20 to 50 mcg/kg/min as needed.
    If doses in excess of 50 mcg/kg/min are required, check urine output frequently.
    Should urinary flow begin to decrease in the absence of hypotension, reduction of dopamine dosage should be considered.
-   More than 50% of adult patients have been satisfactorily maintained on doses less than 20 mcg/kg/min.
-   In patients who do not respond to these doses with adequate arterial pressures or urine flow, additional increments of dopamine may be given in an effort to produce an appropriate arterial pressure and central perfusion.
+   More than 50% of adult patients have been satisfactorily maintained on doses less than 20 mcg/kg/min.In patients who do not respond to these doses with adequate arterial pressures or urine flow, additional increments of dopamine may be given in an effort to produce an appropriate arterial pressure and central perfusion.
 3. Treatment of all patients requires constant evaluation of therapy in terms of blood volume, augmentation of cardiac contractility, urine flow, cardiac output, blood pressure, and distribution of peripheral perfusion.
    Dosage of dopamine should be adjusted according to the patient’s response.
    Diminution of established urine flow rate, increasing tachycardia or development of new dysrhythmias are reasons to consider decreasing or temporarily suspending the dosage.
@@ -49,9 +47,9 @@ Suggested Regimen:
 
 800 mcg/mL Dosing Chart for Dopamine (mL/hr) Infusion Rate
 
-| Infusion rate | Patient Body Weight (kg) |  |  |  |  |  |  |  |  |  |
+| Infusion rate (mcg/kg/min) | Patient Body Weight (kg) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| (mcg/kg/min) | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 |
+| 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |
 | 2.5 | 1.9 | 3.8 | 5.6 | 7.5 | 9.4 | 11.3 | 13.1 | 15 | 16.9 | 18.8 |
 | 5 | 3.8 | 7.5 | 11.3 | 15 | 18.8 | 22.5 | 26.3 | 30 | 33.8 | 37.5 |
 | 10 | 7.5 | 15 | 22.5 | 30 | 37.5 | 45 | 52.5 | 60 | 67.5 | 75 |
@@ -66,9 +64,9 @@ Suggested Regimen:
 
 1600 mcg/mL Dosing Chart for Dopamine (mL/hr) Infusion Rate
 
-| Infusion rate | Patient Body Weight (kg) |  |  |  |  |  |  |  |  |  |
+| Infusion rate (mcg/kg/min) | Patient Body Weight (kg) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| (mcg/kg/min) | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 |
+| 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |
 | 2.5 | 0.9 | 1.9 | 2.8 | 3.8 | 4.7 | 5.6 | 6.6 | 7.5 | 8.4 | 9.4 |
 | 5 | 1.9 | 3.8 | 5.6 | 7.5 | 9.4 | 11.3 | 13.1 | 15 | 16.9 | 18.8 |
 | 10 | 3.8 | 7.5 | 11.3 | 15 | 18.8 | 22.5 | 26.3 | 30 | 33.8 | 37.5 |
@@ -83,9 +81,9 @@ Suggested Regimen:
 
 3200 mcg/mL Dosing Chart for Dopamine (mL/hr) Infusion Rate
 
-| Infusion rate | Patient Body Weight (kg) |  |  |  |  |  |  |  |  |  |
+| Infusion rate (mcg/kg/min) | Patient Body Weight (kg) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| (mcg/kg/min) | 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 |
+| 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |
 | 2.5 | 0.5 | 0.9 | 1.4 | 1.9 | 2.3 | 2.8 | 3.3 | 3.8 | 4.2 | 4.7 |
 | 5 | 0.9 | 1.9 | 2.8 | 3.8 | 4.7 | 5.6 | 6.6 | 7.5 | 8.4 | 9.4 |
 | 10 | 1.9 | 3.8 | 5.6 | 7.5 | 9.4 | 11.3 | 13.1 | 15 | 16.9 | 18.8 |
@@ -98,9 +96,7 @@ Suggested Regimen:
 | 45 | 8.4 | 16.9 | 25.3 | 33.8 | 42.2 | 50.6 | 59.1 | 67.5 | 75.9 | 84.4 |
 | 50 | 9.4 | 18.8 | 28.1 | 37.5 | 46.9 | 56.3 | 65.6 | 75 | 84.4 | 93.8 |
 
-Parenteral drug products should be visually inspected for particulate matter and discoloration
-
-prior to administration, whenever solution and container permit.
+Parenteral drug products should be visually inspected for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
 INSTRUCTIONS FOR USE
 
