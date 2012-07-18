@@ -1,17 +1,22 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Chemically, morphine sulfate is 7,8-didehydro-4,5α-epoxy-17-methylmorphinan-3,6α-diol sulfate (2:1) (salt) pentahydrate and has the following structural formula:
+MS CONTIN tablets are for oral use and contain morphine sulfate, an agonist at the mu-opioid receptor.
 
-MS CONTIN® (morphine sulfate controlled-release) Tablets are opiate analgesics supplied in 15, 30, 60, 100 and 200 mg tablet strengths.
-The tablet strengths describe the amount of morphine per tablet as the pentahydrated sulfate salt (morphine sulfate, USP).
-MS CONTIN® Controlled-release Tablets 15 mg, 30 mg, 60 mg, 100 mg, and 200 mg contain the following inactive ingredients: cetostearyl alcohol, hydroxyethyl cellulose, hypromellose, magnesium stearate, polyethylene glycol, talc and titanium dioxide.
+Each tablet contains the following inactive ingredients common to all strengths: cetostearyl alcohol, hydroxyethyl cellulose, hypromellose, magnesium stearate, polyethylene glycol, talc and titanium dioxide.
 
-MS CONTIN Controlled-release Tablets 15 mg also contains FD&C Blue No. 2, lactose and polysorbate 80.
+The tablet strengths describe the amount of morphine per tablet as the pentahydrated sulfate salt (morphine sulfate).
 
-MS CONTIN Controlled-release Tablets 30 mg also contains D&C Red No. 7, FD&C Blue No. 1, lactose and polysorbate 80.
+The 15 mg tablets also contain: FD&C Blue No. 2, lactose, polysorbate 80
 
-MS CONTIN Controlled-release Tablets 60 mg also contains D&C Red No. 30, D&C Yellow No. 10, hydroxypropyl cellulose, and lactose.
+The 30 mg tablets also contain: D&C Red No. 7, FD&C Blue No. 1, lactose, polysorbate 80
 
-MS CONTIN Controlled-release Tablets 100 mg also contains black iron oxide.
+The 60 mg tablets also contain: D&C Red No. 30, D&C Yellow No. 10, hydroxypropyl cellulose, lactose
 
-MS CONTIN Controlled-release Tablets 200 mg also contains D&C Yellow No. 10, FD&C Blue No. 1, and hydroxypropyl cellulose.
+The 100 mg tablets also contain: black iron oxide
+
+The 200 mg tablets also contain: D&C Yellow No. 10, FD&C Blue No. 1, hydroxypropyl cellulose
+
+Morphine sulfate is an odorless, white, crystalline powder with a bitter taste.
+It has a solubility of 1 in 21 parts of water and 1 in 1000 parts of alcohol, but is practically insoluble in chloroform or ether.
+The octanol: water partition coefficient of morphine is 1.42 at physiologic pH and the pKb is 7.9 for the tertiary nitrogen (mostly ionized at pH 7.4).
+Its structural formula is:
