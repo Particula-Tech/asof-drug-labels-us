@@ -1,10 +1,14 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+Atorvastatin calcium tablets are supplied as white, oval, biconvex film-coated tablets of atorvastatin calcium containing 10, 20, 40 and 80 mg atorvastatin.
+
 10 mg tablets: Atorvastatin calcium tablets, 10 mg, are available for oral administration as white, oval, biconvex film-coated tablets, engraved “APO” on one side, “A10” on the other side.
 
 Bottles of 30 (NDC 60505-2578-3)
 
 Bottles of 90 (NDC 60505-2578-9)
+
+Bottles of 500 (NDC 60505-2578-5)
 
 Bottles of 1000 (NDC 60505-2578-8)
 
@@ -17,6 +21,8 @@ Blister of 100 (NDC 60505-2578-0)
 Bottles of 30 (NDC 60505-2579-3)
 
 Bottles of 90 (NDC 60505-2579-9)
+
+Bottles of 500 (NDC 60505-2579-5)
 
 Bottles of 1000 (NDC 60505-2579-8)
 
@@ -45,6 +51,8 @@ Bottles of 30 (NDC 60505-2671-3)
 Bottles of 90 (NDC 60505-2671-9)
 
 Bottles of 500 (NDC60505-2671-5)
+
+Bottles of 1000 (NDC 60505-2671-8)
 
 Bottles of 2500 (NDC 60505-2671-7)
 
