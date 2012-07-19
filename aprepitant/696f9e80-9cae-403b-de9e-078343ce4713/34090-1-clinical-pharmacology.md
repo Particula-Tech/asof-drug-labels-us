@@ -13,7 +13,7 @@ Animal and human studies show that aprepitant augments the antiemetic activity o
 
 NK1 Receptor Occupancy
 
-In two single-blind, multiple-dose, randomized, and placebo control studies, healthy young men received oral aprepitant doses of 10 mg (N=2), 30 mg (N=3), 100 mg (N=3) or 300 mg (N=5) once daily for 14 days with 2 or 3 subjects on placebo.
+In two single-blind, multiple-dose, randomized, and placebo-controlled studies, healthy young men received oral aprepitant doses of 10 mg (N=2), 30 mg (N=3), 100 mg (N=3) or 300 mg (N=5) once daily for 14 days with 2 or 3 subjects on placebo.
 Both plasma aprepitant concentration and NK1 receptor occupancy in the corpus striatum by positron emission tomography were evaluated, at predose and 24 hours after the last dose.
 At aprepitant plasma concentrations of ~10 ng/mL and ~100 ng/mL, the NK1 receptor occupancies were ~50% and ~90%, respectively.
 The oral aprepitant regimen for CINV produces mean trough plasma aprepitant concentrations >500 ng/mL, which would be expected to, based on the fitted curve with the Hill equation, result in >95% brain NK1 receptor occupancy.
@@ -66,50 +66,52 @@ Aprepitant is eliminated primarily by metabolism; aprepitant is not renally excr
 The apparent plasma clearance of aprepitant ranged from approximately 62 to 90 mL/min.
 The apparent terminal half-life ranged from approximately 9 to 13 hours.
 
-Special Populations
+Specific Populations
 
 Gender
 
-Following oral administration of a single 125-mg dose of EMEND, no difference in AUC0‑24hr was observed between males and females.
-The Cmax for aprepitant is 16% higher in females as compared with males.
+Following oral administration of a single dose of EMEND, the AUC0‑24hr and Cmax are 14% and 22% higher in females as compared with males.
 The half-life of aprepitant is 25% lower in females as compared with males and Tmax occurs at approximately the same time.
 These differences are not considered clinically meaningful.
-No dosage adjustment for EMEND is necessary based on gender.
+No dosage adjustment is necessary based on gender.
 
 Geriatric
 
 Following oral administration of a single 125-mg dose of EMEND on Day 1 and 80 mg once daily on Days 2 through 5, the AUC0‑24hr of aprepitant was 21% higher on Day 1 and 36% higher on Day 5 in elderly (≥65 years) relative to younger adults.
 The Cmax was 10% higher on Day 1 and 24% higher on Day 5 in elderly relative to younger adults.
 These differences are not considered clinically meaningful.
-No dosage adjustment for EMEND is necessary in elderly patients.
-
-Pediatric
-
-EMEND has not been evaluated in patients below 18 years of age.
+No dosage adjustment is necessary in elderly patients.
 
 Race
 
-Following oral administration of a single 125-mg dose of EMEND, the AUC0-24hr is approximately 25% and 29% higher in Hispanics as compared with Whites and Blacks, respectively.
-The Cmax is 22% and 31% higher in Hispanics as compared with Whites and Blacks, respectively.
+Following oral administration of a single dose of EMEND, the AUC0-24hr and Cmax are approximately 42% and 29% higher in Hispanics as compared with Caucasians.
+The AUC0-24hr and Cmax are 62% and 41% higher in Asians as compared to Caucasians.
+There was no difference in AUC0-24hr or Cmax between Caucasians and Blacks.
 These differences are not considered clinically meaningful.
-There was no difference in AUC0-24hr or Cmax between Whites and Blacks.
-No dosage adjustment for EMEND is necessary based on race.
+No dosage adjustment is necessary based on race.
+
+Body Mass Index (BMI)
+
+For every 5 kg/m2 increase in BMI, AUC0-24hr and Cmax of aprepitant decrease by 11%.
+BMI of subjects in the analysis ranged from 18 kg/m2 to 36 kg/m2.
+This change is not considered clinically meaningful.
+No dosage adjustment is necessary based on BMI.
 
 Hepatic Insufficiency
 
 Following administration of a single 125‑mg dose of EMEND on Day 1 and 80 mg once daily on Days 2 and 3 to patients with mild hepatic impairment (Child-Pugh score 5 to 6), the AUC0-24hr of aprepitant was 11% lower on Day 1 and 36% lower on Day 3, as compared with healthy subjects given the same regimen.
 In patients with moderate hepatic impairment (Child-Pugh score 7 to 9), the AUC0-24hr of aprepitant was 10% higher on Day 1 and 18% higher on Day 3, as compared with healthy subjects given the same regimen.
-These differences in AUC0‑24hr are not considered clinically meaningful; therefore, no dosage adjustment for EMEND is necessary in patients with mild to moderate hepatic impairment.
+These differences in AUC0‑24hr are not considered clinically meaningful; therefore, no dosage adjustment is necessary in patients with mild to moderate hepatic impairment.
 
 There are no clinical or pharmacokinetic data in patients with severe hepatic impairment (Child-Pugh score >9) [see Warnings and Precautions (5.4)].
 
 Renal Insufficiency
 
-A single 240-mg dose of EMEND was administered to patients with severe renal impairment (CrCl<30 mL/min) and to patients with end stage renal disease (ESRD) requiring hemodialysis.
+A single 240-mg dose of EMEND was administered to patients with severe renal impairment (creatinine clearance <30 mL/min/1.73 m2 as measured by 24-hour urinary creatinine clearance) and to patients with end stage renal disease (ESRD) requiring hemodialysis.
 
-In patients with severe renal impairment, the AUC0-∞ of total aprepitant (unbound and protein bound) decreased by 21% and Cmax decreased by 32%, relative to healthy subjects.
+In patients with severe renal impairment, the AUC0-∞ of total aprepitant (unbound and protein bound) decreased by 21% and Cmax decreased by 32%, relative to healthy subjects (creatinine clearance >80 mL/min estimated by Cockcroft-Gault method).
 In patients with ESRD undergoing hemodialysis, the AUC0‑∞ of total aprepitant decreased by 42% and Cmax decreased by 32%.
 Due to modest decreases in protein binding of aprepitant in patients with renal disease, the AUC of pharmacologically active unbound drug was not significantly affected in patients with renal impairment compared with healthy subjects.
 Hemodialysis conducted 4 or 48 hours after dosing had no significant effect on the pharmacokinetics of aprepitant; less than 0.2% of the dose was recovered in the dialysate.
 
-No dosage adjustment for EMEND is necessary for patients with renal impairment or for patients with ESRD undergoing hemodialysis.
+No dosage adjustment is necessary for patients with renal impairment or for patients with ESRD undergoing hemodialysis.

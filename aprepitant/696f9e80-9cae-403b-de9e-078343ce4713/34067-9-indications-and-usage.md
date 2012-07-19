@@ -2,7 +2,7 @@
 
 ## 1.1 Prevention of Chemotherapy Induced Nausea and Vomiting (CINV)
 
-EMENDRegistered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 2003, 2005, 2006 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All Rights Reserved, in combination with other antiemetic agents, is indicated for the:
+EMEND®, in combination with other antiemetic agents, is indicated for the:
 
 - prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of highly emetogenic cancer chemotherapy (HEC) including high-dose cisplatin
 - prevention of nausea and vomiting associated with initial and repeat courses of moderately emetogenic cancer chemotherapy (MEC) [see Dosage and Administration (2.1)].

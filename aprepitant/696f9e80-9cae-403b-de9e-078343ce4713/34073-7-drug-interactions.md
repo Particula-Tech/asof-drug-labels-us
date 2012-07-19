@@ -5,7 +5,7 @@ Aprepitant is also an inducer of CYP2C9.
 
 ## 7.1 Effect of Aprepitant on the Pharmacokinetics of Other Agents
 
-CYP3A4 Substrates:
+CYP3A4 substrates:
 
 Weak inhibition of CYP3A4 by a single 40 mg dose of aprepitant is not expected to alter the plasma concentrations of concomitant medications that are primarily metabolized through CYP3A4 to a clinically significant degree.
 However, higher aprepitant doses or repeated dosing at any aprepitant dose may have a clinically significant effect.
@@ -34,7 +34,7 @@ Docetaxel: In a pharmacokinetic study, EMEND (125 mg/80 mg regimen) did not infl
 
 Vinorelbine: In a pharmacokinetic study, EMEND (125 mg/80 mg regimen) did not influence the pharmacokinetics of vinorelbine to a clinically significant degree.
 
-CYP2C9 Substrates (Warfarin, Tolbutamide):
+CYP2C9 substrates (Warfarin, Tolbutamide):
 
 Aprepitant has been shown to induce the metabolism of S(-) warfarin and tolbutamide, which are metabolized through CYP2C9.
 Coadministration of EMEND with these drugs or other drugs that are known to be metabolized by CYP2C9, such as phenytoin, may result in lower plasma concentrations of these drugs.

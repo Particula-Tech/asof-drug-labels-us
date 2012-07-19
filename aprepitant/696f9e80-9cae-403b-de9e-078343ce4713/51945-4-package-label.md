@@ -1,6 +1,3 @@
-This is a representative sample of the packaging.
-Please see How Supplied section for a complete list of available packaging.
-
 PRINCIPAL DISPLAY PANEL - BiPack 80 mg
 
 NDC 0006-0461-02

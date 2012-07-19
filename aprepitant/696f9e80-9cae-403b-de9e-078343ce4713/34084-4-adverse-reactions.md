@@ -201,7 +201,7 @@ Angioedema and urticaria were reported as serious adverse experiences in a patie
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postmarketing use of aprepitant.
-Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to the drug.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Skin and subcutaneous tissue disorders: pruritus, rash, urticaria, rarely Stevens-Johnson syndrome/toxic epidermal necrolysis.
 

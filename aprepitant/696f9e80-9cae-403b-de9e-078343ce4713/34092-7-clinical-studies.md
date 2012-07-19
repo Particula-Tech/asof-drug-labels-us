@@ -22,7 +22,7 @@ Table 5: Treatment Regimens in Highly Emetogenic Chemotherapy Trials
 | Standard Therapy | Dexamethasone 20 mg PO Ondansetron 32 mg I.V. | Dexamethasone 8 mg PO Daily (morning) Dexamethasone 8 mg PO Daily (evening) |
 | Aprepitant placebo and dexamethasone placebo were used to maintain blinding. |  |  |
 
-During these studies 95% of the patients in the aprepitant group received a concomitant chemotherapeutic agent in addition to protocol-mandated cisplatin.
+During these studies, 95% of the patients in the aprepitant group received a concomitant chemotherapeutic agent in addition to protocol-mandated cisplatin.
 The most common chemotherapeutic agents and the number of aprepitant patients exposed follows: etoposide (106), fluorouracil (100), gemcitabine (89), vinorelbine (82), paclitaxel (52), cyclophosphamide (50), doxorubicin (38), docetaxel (11).
 
 The antiemetic activity of EMEND was evaluated during the acute phase (0 to 24 hours post-cisplatin treatment), the delayed phase (25 to 120 hours post-cisplatin treatment) and overall (0 to 120 hours post-cisplatin treatment) in Cycle 1.
@@ -86,8 +86,8 @@ A statistically significant difference in complete response in favor of the apre
 
 In both studies, the estimated time to first emesis after initiation of cisplatin treatment was longer with the aprepitant regimen, and the incidence of first emesis was reduced in the aprepitant regimen group compared with standard therapy group as depicted in the Kaplan-Meier curves in Figure 1.
 
-Patient-Reported Outcomes: The impact of nausea and vomiting on patients’ daily lives was assessed in Cycle 1 of both Phase III studies using the Functional Living Index–Emesis (FLIE), a validated nausea- and vomiting-specific patient-reported outcome measure.
-Minimal or no impact of nausea and vomiting on patients’ daily lives is defined as a FLIE total score >108.
+Patient-Reported Outcomes: The impact of nausea and vomiting on patients' daily lives was assessed in Cycle 1 of both Phase III studies using the Functional Living Index–Emesis (FLIE), a validated nausea- and vomiting-specific patient-reported outcome measure.
+Minimal or no impact of nausea and vomiting on patients' daily lives is defined as a FLIE total score >108.
 In each of the 2 studies, a higher proportion of patients receiving the aprepitant regimen reported minimal or no impact of nausea and vomiting on daily life (Study 1: 74% versus 64%; Study 2: 75% versus 64%).
 
 Multiple-Cycle Extension: In the same 2 clinical studies, patients continued into the Multiple-Cycle extension for up to 5 additional cycles of chemotherapy.
@@ -145,12 +145,12 @@ Table 9: Percent of Patients Receiving Moderately Emetogenic Chemotherapy Respon
 | Complete Protection | 43 | 37 | NS |
 
 In this study, a statistically significantly (p=0.015) higher proportion of patients receiving the aprepitant regimen (51%) in Cycle 1 had a complete response (primary endpoint) during the overall phase compared with patients receiving standard therapy (42%).
-The difference between treatment groups was primarily driven by the “No Emesis Endpoint”, a principal component of this composite primary endpoint.
+The difference between treatment groups was primarily driven by the "No Emesis Endpoint", a principal component of this composite primary endpoint.
 In addition, a higher proportion of patients receiving the aprepitant regimen in Cycle 1 had a complete response during the acute (0-24 hours) and delayed (25-120 hours) phases compared with patients receiving standard therapy; however, the treatment group differences failed to reach statistical significance, after multiplicity adjustments.
 
-Patient-Reported Outcomes: In a phase III study in patients receiving moderately emetogenic chemotherapy, the impact of nausea and vomiting on patients’ daily lives was assessed in Cycle 1 using the FLIE.
+Patient-Reported Outcomes: In a phase III study in patients receiving moderately emetogenic chemotherapy, the impact of nausea and vomiting on patients' daily lives was assessed in Cycle 1 using the FLIE.
 A higher proportion of patients receiving the aprepitant regimen reported minimal or no impact on daily life (64% versus 56%).
-This difference between treatment groups was primarily driven by the “No Vomiting Domain” of this composite endpoint.
+This difference between treatment groups was primarily driven by the "No Vomiting Domain" of this composite endpoint.
 
 Multiple-Cycle Extension: Patients receiving moderately emetogenic chemotherapy were permitted to continue into the Multiple-Cycle extension of the study for up to 3 additional cycles of chemotherapy.
 Antiemetic effect for patients receiving the aprepitant regimen is maintained during all cycles.
@@ -228,7 +228,7 @@ Table 11: PONV Study 1 – Response Rates for Select Efficacy Endpoints (Modifie
 | Aprepitant 40 mg | 187/293 (63.8) | 8.8% | 1.4 | LB=1.02Based on the prespecified fixed sequence multiplicity strategy, Aprepitant 40 mg was not superior to Ondansetron. |
 | Ondansetron | 154/280 (55.0) |  |  |  |
 | Secondary Endpoint |  |  |  |  |
-| No Vomiting 0 to 48 (Superiority) (no emetic episodes) |  |  |  |  |
+| No Vomiting 0 to 48 hours (Superiority) (no emetic episodes) |  |  |  |  |
 | Aprepitant 40 mg | 238/292 (81.5) | 15.2% | 2.3 | P<0.001 |
 | Ondansetron | 185/279 (66.3) |  |  |  |
 | n/m = Number of responders/number of patients in analysis. Δ Difference (%): Aprepitant 40 mg minus Ondansetron. |  |  |  |  |
@@ -245,7 +245,7 @@ Efficacy measures in PONV Study 2 included:
 
 PONV Study 2 failed to satisfy its primary hypothesis that aprepitant is superior to ondansetron in the prevention of PONV as measured by the proportion of patients with complete response in the 24 hours following end of surgery.
 
-The study demonstrated that both dose levels of aprepitant had a clinically meaningful effect with respect to the secondary endpoint “no vomiting” during the first 24 hours after surgery and showed that the use of 40 mg aprepitant was associated with a 16% improvement over ondansetron for the no vomiting endpoint.
+The study demonstrated that both dose levels of aprepitant had a clinically meaningful effect with respect to the secondary endpoint "no vomiting" during the first 24 hours after surgery and showed that the use of 40 mg aprepitant was associated with a 16% improvement over ondansetron for the no vomiting endpoint.
 
 Table 12: PONV Study 2 (Modified-Intention-to-Treat Population)
 
@@ -263,7 +263,7 @@ Table 12: PONV Study 2 (Modified-Intention-to-Treat Population)
 | No Use of Rescue Medication (for established emesis or nausea, 0 to 24 hours) |  |  |  |  |
 | Aprepitant 40 mg | 112/248 (45.2) | -0.7% | 1.0 | 0.83 |
 | Ondansetron | 113/246 (45.9) |  |  |  |
-| No Vomiting 0 to 48 (Superiority) (no emetic episodes, 0 to 48 hours) |  |  |  |  |
+| No Vomiting 0 to 48 hours (Superiority) (no emetic episodes, 0 to 48 hours) |  |  |  |  |
 | Aprepitant 40 mg | 209/247 (84.6) | 17.7% | 2.7 | <0.001 |
 | Ondansetron | 164/245 (66.9) |  |  |  |
 | n/m = Number of responders/number of patients in analysis. Δ Difference (%): Aprepitant 40 mg minus Ondansetron. |  |  |  |  |

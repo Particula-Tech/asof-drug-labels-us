@@ -1,8 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling.]
-
-## 17.1 Instructions
+"See FDA-Approved Patient Labeling (Patient Information)"
 
 Physicians should instruct their patients to read the patient package insert before starting therapy with EMEND and to reread it each time the prescription is renewed.
 

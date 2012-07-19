@@ -1,5 +1,3 @@
-FDA-Approved Patient Labeling
-
 Patient Information EMEND® (EE mend) (aprepitant) Capsules
 
 Read the Patient Information that comes with EMEND before you start taking it and each time you refill your prescription.
@@ -49,7 +47,7 @@ Before you take EMEND, tell your doctor if you:
 Tell your doctor about all the medicines you are taking or plan to take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
 EMEND may cause serious life-threatening reactions if used with certain medicines.
-See the section “Who should not take EMEND?"
+See the section "Who should not take EMEND?"
 
 EMEND may affect how other medicines work, and other medicines may affect how EMEND works.
 Ask your doctor or pharmacist before you take any new medicine.
@@ -79,7 +77,7 @@ How should I take EMEND?
 - If you are having surgery:
   - Your doctor will prescribe a 40-mg capsule of EMEND for you before surgery.
     You take EMEND within three hours before surgery.
-  - Follow your doctor’s instructions about restrictions on eating and drinking before surgery.
+  - Follow your doctor's instructions about restrictions on eating and drinking before surgery.
 - If you take the blood thinner medicine warfarin sodium (COUMADIN®, JANTOVEN®), your doctor may do blood tests after you take EMEND to check your blood clotting.
 
 What are the possible side effects of EMEND?
@@ -147,15 +145,3 @@ Inactive ingredients: sucrose, microcrystalline cellulose, hydroxypropyl cellulo
 The capsule shell excipients are gelatin, titanium dioxide, and may contain sodium lauryl sulfate and silicon dioxide.
 The 125-mg capsule shell also contains red ferric oxide and yellow ferric oxide.
 The 40-mg capsule shell also contains yellow ferric oxide.
-
-U.S. Patent Nos.: 5,145,684; 5,719,147; 6,048,859; 6,096,742; 6,235,735
-
-The brands listed in the above sections “Who should not take EMEND?” and “What should I tell my doctor before and during treatment with EMEND?” are the registered trademarks of their respective owners and are not trademarks of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
-
-EMEND® is a registered trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 2003, 2005, 2006 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
-
-Issued March 2011
-
-Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
-
-9988902

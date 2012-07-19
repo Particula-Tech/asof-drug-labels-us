@@ -14,7 +14,7 @@ Chemotherapy agents that are known to be metabolized by CYP3A4 include docetaxel
 In clinical studies, EMEND (125 mg/80 mg regimen) was administered commonly with etoposide, vinorelbine, or paclitaxel.
 The doses of these agents were not adjusted to account for potential drug interactions.
 
-In separate pharmacokinetic studies no clinically significant change in docetaxel or vinorelbine pharmacokinetics was observed when EMEND (125 mg/80 mg regimen) was co-administered.
+In separate pharmacokinetic studies, no clinically significant change in docetaxel or vinorelbine pharmacokinetics was observed when EMEND (125 mg/80 mg regimen) was co-administered.
 
 Due to the small number of patients in clinical studies who received the CYP3A4 substrates vinblastine, vincristine, or ifosfamide, particular caution and careful monitoring are advised in patients receiving these agents or other chemotherapy agents metabolized primarily by CYP3A4 that were not studied [see Drug Interactions (7.1)].
 
