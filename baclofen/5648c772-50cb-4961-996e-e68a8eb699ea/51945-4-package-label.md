@@ -1,14 +1,10 @@
 # PRINCIPAL DISPLAY PANEL
 
-## Principal Display Panel Text
+## Baclofen Tablets USP 10 mg 100s Label Text
 
 NDC 0172-4096-60
 
-BACLOFEN
-
-Tablets USP
-
-10 mg
+BACLOFEN Tablets USP 10 mg
 
 Rx only
 
@@ -18,15 +14,11 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## Principal Display Panel Text
+## Baclofen Tablets USP 20 mg 100s Label Text
 
 NDC 0172-4097-60
 
-BACLOFEN
-
-Tablets USP
-
-20 mg
+BACLOFEN Tablets USP 20 mg
 
 Rx only
 
