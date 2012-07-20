@@ -1,0 +1,263 @@
+# WARNINGS
+
+Regarding misoprostol:
+
+See boxed CONTRAINDICATIONS AND WARNINGS.
+
+Regarding diclofenac:
+
+See boxed CONTRAINDICATIONS AND WARNINGS.
+
+# PRECAUTIONS
+
+## General
+
+Diclofenac sodium and misoprostol delayed-release tablets cannot be expected to substitute for corticosteroids or to treat corticosteroid insufficiency.
+Abrupt discontinuation of corticosteroids may lead to disease exacerbation.
+Patients on prolonged corticosteroid therapy should have their therapy tapered slowly if a decision is made to discontinue corticosteroids.
+
+The pharmacological activity of diclofenac sodium and misoprostol delayed-release tablets in reducing fever and inflammation may diminish the utility of these diagnostic signs in detecting complications of presumed noninfectious, painful conditions.
+
+## Hepatic Effects
+
+See WARNINGS.
+
+## Hematological Effects
+
+Anemia is sometimes seen in patients receiving NSAIDs, including diclofenac sodium and misoprostol delayed-release tablets.
+This may be due to fluid retention, occult or gross GI blood loss, or an incompletely described effect upon erythropoiesis.
+Patients on long-term treatment with NSAIDs, including diclofenac sodium and misoprostol delayed-release tablets, should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia.
+
+NSAIDs inhibit platelet aggregation and have been shown to prolong bleeding time in some patients.
+
+Unlike aspirin, their effect on platelet function is quantitatively less, of shorter duration, and reversible.
+Patients receiving diclofenac sodium and misoprostol delayed-release tablets who may be adversely affected by alterations in platelet function, such as those with coagulation disorders or patients receiving anticoagulants, should be carefully monitored.
+
+## Preexisting Asthma
+
+Patients with asthma may have aspirin-sensitive asthma.
+The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm, which can be fatal.
+Since cross reactivity, including bronchospasm, between aspirin and other nonsteroidal anti-inflammatory drugs has been reported in such aspirin-sensitive patients, diclofenac sodium and misoprostol delayed-release tablets should not be administered to patients with this form of aspirin sensitivity and should be used with caution in patients with preexisting asthma.
+
+## Aseptic Meningitis
+
+As with other NSAIDs, aseptic meningitis with fever and coma has been observed on rare occasions in patients on diclofenac therapy.
+Although it is probably more likely to occur in patients with systemic lupus and related connective tissue diseases, it has been reported in patients who do not have an underlying chronic disease.
+If signs or symptoms of meningitis develop in a patient on diclofenac, the possibility of it being related to diclofenac should be considered.
+
+## Porphyria
+
+The use of diclofenac sodium and misoprostol delayed-release tablets in patients with hepatic porphyria should be avoided.
+To date, one patient has been described in whom diclofenac sodium probably triggered a clinical attack of porphyria.
+The postulated mechanism, demonstrated in rats, for causing such attacks by diclofenac sodium, as well as some other NSAIDs, is through stimulation of the porphyrin precursor delta-aminolevulinic acid (ALA).
+
+Information for patients: Women of childbearing potential using diclofenac sodium and misoprostol delayed-release tablets to treat arthritis should be told that they must not be pregnant when therapy with diclofenac sodium and misoprostol delayed-release tablets is initiated, and that they must use an effective contraception method while taking diclofenac sodium and misoprostol delayed-release tablets.
+See boxed CONTRAINDICATIONS AND WARNINGS.
+
+THE PATIENT SHOULD NOT GIVE DICLOFENAC SODIUM/MISOPROSTOL TABLETS TO ANYONE ELSE.
+Diclofenac sodium and misoprostol delayed-release tablets has been prescribed for the patient’s specific condition, may not be the correct treatment for another person, and may be dangerous to the other person if she were to become pregnant.
+SPECIAL NOTE FOR WOMEN: Diclofenac sodium and misoprostol delayed-release tablets contain diclofenac sodium and misoprostol.
+Misoprostol may cause abortion (sometimes incomplete), premature labor, or birth defects if given to pregnant women.
+
+Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
+Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
+
+- Diclofenac sodium and misoprostol delayed-release tablets, like other NSAIDs, may cause serious side effects, such as MI or stroke, which may result in hospitalization and even death.
+  Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
+  Patients should be apprised of the importance of this follow-up (see WARNINGS, CARDIOVASCULAR EFFECTS).
+- Diclofenac sodium and misoprostol delayed-release tablets, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
+  Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulceration and bleeding, and should ask for medical advice when observing any indicative sign or symptoms, including epigastric pain, dyspepsia, melena, and hematemesis.
+  Patients should be apprised of the importance of this follow-up see WARNINGS, Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation).
+- Diclofenac sodium and misoprostol delayed-release tablets, like other NSAIDs, can cause serious skin side effects, such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalization and even death.
+  Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative sign or symptoms.
+  Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
+- Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
+- Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
+  If these occur, patients should be instructed to stop therapy and seek immediate medical attention.
+- Patients should be informed of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
+  If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS, Anaphylactic Reactions).
+- In late pregnancy, as with other NSAIDs, diclofenac sodium and misoprostol delayed-release tablets should not be taken because it may cause premature closure of the ductus arteriosus.
+- Diclofenac sodium and misoprostol delayed-release tablets should not be taken by nursing mothers.
+- Concomitant use of voriconazole increases the systemic exposure to diclofenac.
+  When concomitant voriconazole use is necessary, the total daily dose of diclofenac should not exceed the lowest recommended dose of diclofenac sodium and misoprostol delayed-release tablets 50 mg/0.2 mg twice daily (see Drug Interactions and Dosage and Administration).
+
+See PATIENT INFORMATION at the end of this labeling for important information to discuss with the patient.
+
+Diclofenac sodium and misoprostol delayed-release tablets are available only as a unit-of-use package that includes a leaflet containing patient information.
+The patient should read the leaflet before taking diclofenac sodium and misoprostol delayed-release tablets and each time the prescription is renewed because the leaflet may have been revised.
+Keep diclofenac sodium and misoprostol delayed-release tablets out of the reach of children.
+
+## Laboratory Tests
+
+Because serious GI tract ulcerations and bleeding can occur without warning symptoms, physicians should monitor for signs or symptoms of GI bleeding.
+Patients on long-term treatment with NSAIDs should have their CBC and a chemistry profile checked periodically.
+If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (e.g., eosinophilia, rash, etc.), or if abnormal liver tests persist or worsen, diclofenac sodium and misoprostol delayed-release tablets should be discontinued.
+
+Effect on blood coagulation: Diclofenac sodium impairs platelet aggregation but does not affect bleeding time, plasma thrombin clotting time, plasma fibrinogen, or factors V and VII to XII.
+Statistically significant changes in prothrombin and partial thromboplastin times have been reported in normal volunteers.
+The mean changes were observed to be less than 1 second in both instances, however, and are unlikely to be clinically important.
+Diclofenac sodium is a prostaglandin synthetase inhibitor, however, and all drugs that inhibit prostaglandin synthesis interfere with platelet function to some degree; therefore, patients who may be adversely affected by such an action should be carefully observed.
+Misoprostol has not been shown to exacerbate the effects of diclofenac on platelet activity.
+
+## Drug Interactions
+
+ACE-Inhibitors:
+
+Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE-inhibitors.
+This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors.
+
+Aspirin:
+
+When diclofenac sodium and misoprostol delayed-release tablets are administered with aspirin, the protein binding of diclofenac is reduced, although the clearance of the free diclofenac sodium and misoprostol delayed-release tablets is not altered.
+The clinical significance of this interaction is not known; however, as with other NSAIDs, concomitant administration of diclofenac sodium and aspirin is not generally recommended because of the potential risk of increased adverse effects.
+
+Digoxin:
+
+Elevated digoxin levels have been reported in patients receiving digoxin and diclofenac sodium.
+
+Patients receiving digoxin and diclofenac sodium and misoprostol delayed-release tablets should be monitored for possible digoxin toxicity.
+
+Warfarin:
+
+The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that users of both drugs together have a risk of serious bleeding greater than users of either drug alone.
+
+Oral hypoglycemics:
+
+Diclofenac sodium does not alter glucose metabolism in healthy people nor does it alter the effects of oral hypoglycemic agents.
+There are rare reports, however, from marketing experience, of changes in effects of insulin or oral hypoglycemic agents in the presence of diclofenac sodium that necessitated change in the doses of such agents.
+Both hypo- and hyperglycemic effects have been reported.
+A direct causal relationship has not been established, but physicians should consider the possibility that diclofenac sodium may alter a diabetic patient’s response to insulin or oral hypoglycemic agents.
+
+Methotrexate:
+
+NSAIDs have been reported to competitively inhibit methotrexate accumulation in rabbit kidney slices.
+This may indicate that they could enhance the toxicity of methotrexate.
+Caution should be used when NSAIDs are administered concomitantly with methotrexate.
+
+Cyclosporine:
+
+Diclofenac sodium and misoprostol delayed-release tablets, like other NSAID containing products, may affect renal prostaglandins and increase the toxicity of certain drugs.
+Ingestion of diclofenac sodium and misoprostol delayed-release tablets may increase cyclosporine nephrotoxicity.
+Patients who begin taking diclofenac sodium and misoprostol delayed-release tablets or who increase their dose of diclofenac sodium and misoprostol delayed-release tablets while taking cyclosporine may develop toxicity characteristic for cyclosporine.
+They should be observed closely, particularly if renal function is impaired.
+
+Lithium:
+
+NSAIDs have produced an elevation of plasma lithium levels and a reduction in renal lithium clearance.
+The mean minimum lithium concentration increased 15% and the renal clearance was decreased by approximately 20%.
+These effects have been attributed to inhibition of renal prostaglandin synthesis by the NSAID.
+Thus, when NSAIDs and lithium are administered concurrently, subjects should be observed carefully for signs of lithium toxicity.
+
+Antacids:
+
+Antacids reduce the bioavailability of misoprostol acid.
+Antacids may also delay absorption of diclofenac sodium.
+Magnesium-containing antacids exacerbate misoprostol-associated diarrhea.
+Thus, it is not recommended that diclofenac sodium and misoprostol delayed-release tablets be coadministered with magnesium-containing antacids.
+
+Diuretics:
+
+Clinical studies, as well as post marketing observations, have shown that diclofenac sodium and misoprostol delayed-release tablets can reduce the natriuretic effect of furosemide and thiazides in some patients.
+This response has been attributed to inhibition of renal prostaglandin synthesis.
+During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS, Renal Effects), as well as to assure diuretic efficacy.
+Concomitant therapy with potassium-sparing diuretics may be associated with increased serum potassium levels.
+
+Voriconazole:
+
+In a published study, single dose diclofenac (50 mg) was coadministered with the last dose of voriconazole (400 mg every 12 hours on Day 1, followed by 200 mg every 12 hours on Day 2).
+The mean Cmax and AUC of diclofenac were increased by 2.1-fold and 1.8-fold respectively when coadministered with voriconazole compared to diclofenac alone.
+
+Other drugs:
+
+In small groups of patients (7–10 patients/interaction study), the concomitant administration of azathioprine, gold, chloroquine, D-penicillamine, prednisolone, doxycycline or digitoxin did not significantly affect the peak levels and AUC levels of diclofenac sodium.
+Phenobarbital toxicity has been reported to have occurred in a patient on chronic phenobarbital treatment following the initiation of diclofenac therapy.
+In vitro, diclofenac interferes minimally with the protein binding of prednisolone (10% decrease in binding).
+Benzylpenicillin, ampicillin, oxacillin, chlortetracycline, doxycycline, cephalothin, erythromycin, and sulfamethoxazole have no influence, in vitro, on the protein binding of diclofenac in human serum.
+
+## Animal toxicology
+
+A reversible increase in the number of normal surface gastric epithelial cells occurred in the dog, rat, and mouse during long-term toxicology studies with misoprostol.
+No such increase has been observed in humans administered misoprostol for up to 1 year.
+An apparent response of the female mouse to misoprostol in long-term studies at 100 to 1000 times the human dose was hyperostosis, mainly of the medulla of sternebrae.
+Hyperostosis did not occur in long-term studies in the dog and rat and has not been seen in humans treated with misoprostol.
+
+## Carcinogenesis, mutagenesis, impairment of fertility
+
+Long-term animal studies to evaluate the potential for carcinogenesis and animal studies to evaluate the effects on fertility have been performed with each component of diclofenac sodium and misoprostol delayed-release tablets given alone.
+Diclofenac sodium and misoprostol delayed-release tablets itself (diclofenac sodium and misoprostol combinations in 250:1 ratio) was not genotoxic in the Ames test, the Chinese hamster ovary cell (CHO/HGPRT) forward mutation test, the rat lymphocyte chromosome aberration test, or the mouse micronucleus test.
+
+In a 24-month at carcinogenicity study, oral misoprostol at doses up to 2.4 mg/kg/day (14.4 mg/m2/day, 24 times the recommended maximum human dose of 0.6 mg/m2/day) was not tumorigenic.
+In a 21-month mouse carcinogenicity study, oral misoprostol at doses up to 16 mg/kg/day (48 mg/m2/day), 80 times the recommended maximum human dose based on body surface area, was not tumorigenic.
+Misoprostol, when administered to male and female breeding rats in an oral dose range of 0.1 to 10 mg/kg/day (0.6 to 60 mg/m2/day, 1 to 100 times the recommended maximum human dose based on body surface area) produced dose-related pre- and post-implantation losses and a significant decrease in the number of live pups born at the highest dose.
+These findings suggest the possibility of a general adverse effect on fertility in males and females.
+
+In a 24-month at carcinogenicity study, oral diclofenac sodium up to 2 mg/kg/day (12 mg/m2/day) was not tumorigenic.
+For a 50-kg person of average height (1.46m2 body surface area), this dose represents 0.08 times the recommended maximum human dose (148 mg/m2) on a body surface area basis.
+In a 24-month mouse carcinogenicity study, oral diclofenac sodium at doses up to 0.3 mg/kg/day (0.9 mg/m2/day, 0.006 times the recommended maximum human dose based on body surface area) in males and 1 mg/kg/day (3 mg/m2/day, 0.02 times the recommended maximum human dose based on body surface area) in females was not tumorigenic.
+Diclofenac sodium at oral doses up to 4 mg/kg/day (24 mg/m2/day, 0.16 times the recommended maximum human dose based on body surface area) was found to have no effect on fertility and reproductive performance of male and female rats.
+
+## Pregnancy
+
+Pregnancy category X: See boxed CONTRAINDICATIONS AND WARNINGS regarding misoprostol.
+
+Non-teratogenic effects
+
+See boxed CONTRAINDICATIONS AND WARNINGS.
+Misoprostol may endanger pregnancy (may cause abortion) and thereby cause harm to the fetus when administered to a pregnant woman.
+Misoprostol may produce uterine contractions, uterine bleeding, and expulsion of the products of conception.
+Misoprostol has been used to ripen the cervix, to induce labor, and to treat postpartum hemorrhage, outside of its approved indication.
+A major adverse effect of these uses is hyperstimulation of the uterus.
+Uterine rupture, amniotic fluid embolism, severe genital bleeding, shock, fetal bradycardia, and fetal and material death have been reported.
+Higher doses of misoprostol, including the 100 mcg tablet, may increase the risk of complications from uterine hyperstimulation.
+Diclofenac sodium and misoprostol delayed-release tablets, which contains 200 mcg of misoprostol, is likely to have a greater risk of uterine hyperstimulation than the 100 mcg tablet of misoprostol.
+Abortions caused by misoprostol may be incomplete.
+If a woman is or becomes pregnant while taking this drug, the drug should be discontinued and the patient apprised of the potential hazard to the fetus.
+
+Cases of amniotic fluid embolism, which resulted in maternal and fetal death, have been reported with use of misoprostol during pregnancy.
+Severe vaginal bleeding, retained placenta, shock, fetal bradycardia, and pelvic pain have also been reported.
+These women were administered misoprostol vaginally and/or orally over a range of doses.
+
+Additionally, because of the known effects of nonsteroidal anti-inflammatory drugs including the diclofenac sodium component of diclofenac sodium and misoprostol delayed-release tablets, on the fetal cardiovascular system (closure of ductus arteriosus), use during pregnancy (particularly late pregnancy) should be avoided.
+
+Teratogenic effects
+
+See boxed CONTRAINDICATIONS AND WARNINGS.
+Congenital anomalies sometimes associated with fetal death have been reported subsequent to the unsuccessful use of misoprostol as an abortifacient, but the drug’s teratogenic mechanism has not been demonstrated.
+Several reports in the literature associate the use of misoprostol during the first trimester of pregnancy with skull defects, cranial nerve palsies, facial malformations, and limb defects.
+
+An oral teratology study has been performed in pregnant rabbits at dose combinations (250:1 ratio) up to 10 mg/kg/day diclofenac sodium (120 mg/m2/day, 0.8 times the recommended maximum human dose based on body surface area) and 0.04 mg/kg/day misoprostol (0.48 mg/m2/day, 0.8 times the recommended maximum human dose based on body surface area) and has revealed no evidence of teratogenic potential for diclofenac sodium and misoprostol delayed-release tablets.
+
+Oral teratology studies have been performed in pregnant rats at doses up to 1.6 mg/kg/day (9.6 mg/m2/day, 16 times the recommended maximum human dose based on body surface area) and pregnant rabbits at doses up to 1.0 mg/kg/day (12 mg/m2/day, 20 times the recommended maximum human dose based on body surface area) and have revealed no evidence of teratogenic potential for misoprostol.
+
+Oral teratology studies have been performed in pregnant mice at doses up to 20 mg/kg/day (60 mg/m2/day, 0.4 times the recommended maximum human dose based on body surface area), pregnant rats at doses up to 10 mg/kg/day (60 mg/m2/day, 0.4 times the recommended maximum human dose based on body surface area) and pregnant rabbits at doses up to 10 mg/kg/day (120 mg/m2/day, 0.8 times the recommended maximum human dose based on body surface area) and have revealed no evidence of teratogenic potential for diclofenac sodium.
+
+However, animal reproduction studies are not always predictive of human response.
+There are no adequate and well-controlled studies in pregnant women.
+
+## Nursing mothers
+
+Diclofenac sodium has been found in the milk of nursing mothers.
+Misoprostol is rapidly metabolized in the mother to misoprostol acid, which is biologically active and is excreted in breast milk.
+There are no published reports of adverse effects of misoprostol in breast-feeding infants of mothers taking misoprostol.
+Caution should be exercised when Diclofenac sodium/Misoprostol tablets is administered to a nursing woman.
+
+## Labor and Delivery
+
+In rat studies with NSAIDs, as with other drugs known to inhibit prostaglandin synthesis, an increased incidence of dystocia, delayed parturition, and decreased pup survival occurred.
+
+## Pediatric use
+
+Safety and effectiveness of diclofenac sodium and misoprostol delayed-release tablets in pediatric patients have not been established.
+
+## Geriatric use
+
+As with any NSAIDs, caution should be exercised in treating the elderly (65 years and older).
+
+Of the more than 2,100 subjects in clinical studies with diclofenac sodium and misoprostol delayed-release tablets, 25% were 65 and over, while 6% were 75 and over.
+In studies with diclofenac, 31% of subjects were 65 and over.
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+Diclofenac is known to be substantially excreted by the kidney, and the risk of toxic reactions to diclofenac sodium and misoprostol delayed-release tablets may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see WARNINGS—Renal Effects).
+
+Based on studies in the elderly, no adjustment of the dose of diclofenac sodium and misoprostol delayed-release tablets is necessary in the elderly for pharmacokinetic reasons (see Pharmacokinetics of Diclofenac Sodium and Misoprostol Delayed-Release Tablets—Special populations), although many elderly may need to receive a reduced dose because of low body weight or disorders associated with aging.
