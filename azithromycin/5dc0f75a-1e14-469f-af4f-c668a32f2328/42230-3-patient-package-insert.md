@@ -1,44 +1,193 @@
-How to Use AzaSite®
+PATIENT INFORMATION AzaSite® (A-zuh-site) (azithromycin ophthalmic solution) 1%
 
-General patient information about AzaSite®
+Read this Patient Information before you start using AzaSite® and each time you get a refill.
+There may be new information.
+This information does not take the place of talking to your doctor about your medical condition or treatment.
 
-Do not allow the applicator tip to touch the eye, fingers, or other sources.
+What is AzaSite?
 
-Stop use and contact a physician if any signs of an allergic reaction occur.
+AzaSite is a prescription sterile eye drop solution.
+AzaSite is used to treat bacterial conjunctivitis which is an infection of the eye caused by certain bacteria.
 
-Although it is common to feel better soon after starting therapy, AzaSite® should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may
+It is not known if AzaSite is safe and effective in children less than 1 year of age.
 
-- Decrease the effectiveness of the current treatment
-- Increase the likelihood that bacteria will develop resistance and will not be treatable by AzaSite® or other antibacterial drugs in the future
+Information about bacterial conjunctivitis.
 
-Do not wear contact lenses if you have signs or symptoms of bacterial conjunctivitis.
+Bacterial conjunctivitis is a bacterial infection of the mucous membranes which line the inside of the eyelids.
+Symptoms may include redness of the eye and discharge.
+The infection can be spread to other people and to both eyes.
 
-Wash hands thoroughly before using AzaSite®.
+Who should not use AzaSite?
 
-It is important to follow the steps below for proper administration.
+Do not use AzaSite if you are allergic to azithromycin or any of the ingredients in AzaSite.
+See the end of this Patient Information leaflet for a complete list of the ingredients in AzaSite.
 
-| Please follow steps 1 and 2 the first time you use a new bottle of AzaSite®: |  |
+What should I tell my doctor before using AzaSite?
+
+Before you use AzaSite, tell your doctor if you:
+
+- wear contact lenses.
+  Do not wear contact lenses if you have signs or symptoms of bacterial conjunctivitis.
+- are pregnant or plan to become pregnant.
+  It is not known if AzaSite will harm your unborn baby.
+  Talk to your doctor if you are pregnant or plan to become pregnant.
+- are breast-feeding or plan to breast-feed.
+  It is not known if AzaSite passes into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you are using AzaSite.
+
+Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+
+Know the medicines you take.
+Keep a list of them to show your doctors and pharmacist when you get a new medicine.
+
+How should I use AzaSite?
+
+- Read the Instructions for Use at the end of this Patient Information leaflet for the right way to use AzaSite.
+- Use AzaSite exactly as your doctor tells you to use it.
+- For the first 2 days place 1 drop of AzaSite in your eye (or eyes) each morning and 1 drop in your eye (or eyes) each evening.
+  Wait 8 to 12 hours after placing your morning drops before you place evening drops in your eye (or eyes).
+- For the next 5 days place 1 drop of AzaSite in your eye (or eyes) 1 time each day.
+- Make sure you continue to use AzaSite as directed by your doctor even if you feel better after you start using it.
+  Skipping drops can increase the chances that:
+  - your medicine will not work well
+  - Bacteria can develop resistance, which means in the future your bacterial conjunctivitis may not improve from AzaSite or other drugs that treat infections from bacteria.
+
+What should I be aware of while using AzaSite?
+
+Do not wear contact lenses if you have signs or symptoms of bacterial conjunctivitis and until you have finished your prescribed course of treatment.
+The symptoms of bacterial conjunctivitis may include:
+
+- discharge coming from the eye
+- eye redness
+- eye irritation
+
+Only your doctor can tell you if you have bacterial conjunctivitis.
+
+Severe allergic reactions have been reported rarely when azithromycin has been taken by mouth.
+
+- Serious rash or serious allergic reactions may occur.
+  Azithromycin, the active ingredient in AzaSite, may cause a serious rash or a serious allergic reaction.
+  Both of these reactions may need to be treated in a hospital and may be life-threatening.
+- Stop taking AzaSite and call your doctor right away or get emergency help if you have any of these symptoms:
+  - skin rash, hives, sores in your mouth, or your skin blisters and peels
+  - swelling of your face, eyes, lips, tongue, or throat
+  - trouble swallowing or breathing
+
+Increased risk of other infections caused by bacteria or fungi.
+
+- Using AzaSite for a long time may cause other bacteria or fungi to grow.
+  If this happens you may get a new infection.
+  Tell your doctor right away if your symptoms do not get better.
+
+What are the possible side effects of AzaSite?
+
+The most common side effect of AzaSite is eye irritation.
+
+Other side effects seen with AzaSite include:
+
+- eye burning, stinging and irritation when the drop hits your eye
+- irritation on your eyelid and the skin around your eye
+- a feeling of discomfort and irritation or that something is in your eye
+- dry eye
+- eye pain
+- eye itching
+- discharge coming from your eye
+- changes to the surface of your eye
+- blurred vision
+- changes in your taste
+- hives and rash on your skin
+- stuffy nose and sinus infection
+- swelling around your eye or of your face
+
+Tell your doctor about any side effect that bothers you or that does not go away.
+
+These are not all of the possible side effects of AzaSite.
+For more information, ask your doctor or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+How should I store AzaSite?
+
+- Before you open your AzaSite, store it in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- After you open your AzaSite, store it at room temperature or the refrigerator between 36°F to 77°F (2°C to 25°C).
+- AzaSite should not be stored for more than 14 days after opening.
+  After 14 days, throw the AzaSite bottle away.
+- Safely throw away medicine that is out of date or no longer needed.
+
+Keep AzaSite and all medicines out of reach of children.
+
+General information about the safe and effective use of AzaSite
+
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not use AzaSite for a condition for which it was not prescribed.
+Do not give AzaSite to other people, even if they have the same symptoms that you have.
+It may harm them.
+
+This Patient Information summarizes the most important information about AzaSite.
+If you would like more information, talk with your doctor.
+You can ask your pharmacist or doctor for information about AzaSite that is written for health professionals.
+
+For more information, go to www.azasite.com or call 1-800-622-4477.
+
+What are the ingredients in AzaSite?
+
+Active ingredient: azithromycin
+
+Inactive ingredients: 0.003% benzalkonium chloride, mannitol, citric acid, sodium citrate, poloxamer 407, polycarbophil, edetate disodium (EDTA), sodium chloride, water, and sodium hydroxide.
+
+Instructions for Use AzaSite® (A-zuh-site) (azithromycin ophthalmic solution) 1%
+
+Read this Instructions for Use for AzaSite before you start using it and each time you get a refill.
+There may be new information.
+This leaflet does not take the place of talking to your doctor about your medical condition or treatment.
+
+Important:
+
+- AzaSite is for use as an eye drop only.
+
+The checklist below tells you when to use your medicine for each eye that has bacterial conjunctivitis:
+
+| □ □ | Day 1: _____________________ | 1 drop in the morning and 1 drop in the evening |
+| --- | --- | --- |
+| □ □ | Day 2: _____________________ | 1 drop in the morning and 1 drop in the evening |
+| □ | Day 3: _____________________ | 1 drop anytime during the day |
+| □ | Day 4: _____________________ | 1 drop anytime during the day |
+| □ | Day 5: _____________________ | 1 drop anytime during the day |
+| □ | Day 6: _____________________ | 1 drop anytime during the day |
+| □ | Day 7: _____________________ | 1 drop anytime during the day |
+
+This is a total of 9 drops of AzaSite for each infected eye.
+
+- Avoid letting the applicator tip touch your eye, your fingers, or other objects.
+- If a drop misses your eye, try again.
+- Follow the steps below to use AzaSite correctly.
+
+| Before using a new bottle of AzaSite: |  |
 | --- | --- |
-| 1.Remove the white tamper-evident cap by turning it in a clockwise direction. Discard the white cap. | 2. Holding the bottle upright, remove the tan cap by turning it in a counterclockwise direction. This will allow any excess pressure in the bottle to be released. Replace the tan cap on the bottle and close securely. |
-| Please follow steps 3 through 6 each time you use AzaSite®: |  |
-| 3.Turn the closed bottle upside down. | 4.Shake hand firmly before each use to move the contents into the tip of the bottle. |
-| 5.Keeping the bottle upside down, remove the tan cap. | 6.Tilt head back. With the bottle inverted, gently squeeze the bottle to instill 1 drop into each affected eye. Replace the tan cap back on the bottle and close securely after each administration for proper storage. |
+| Figure A | Figure B |
+| Turn the white cap clockwise until it comes off. Throw away the white cap. See Figure A | Hold the bottle straight, turn the tan cap counterclockwise until it comes off. Put the tan cap back on the bottle and close tightly. (This lets out the air.) See Figure B |
+| Wash your hands each time you use AzaSite. |  |
+| To use AzaSite: |  |
+| Figure C | Figure D |
+| Step 1. Turn the closed bottle upside down. See Figure C | Step 2. Shake your hand firmly. This helps move the medicine into the tip of the bottle. See Figure D |
+| Figure E | Figure F |
+| Step 3. Hold the bottle upside down and take off the tan cap. See Figure E | Step 4. Tilt your head back. Hold the bottle over your eye and gently squeeze the bottle to let 1 drop into each eye that has bacterial conjunctivitis. Put the tan cap back on the bottle and close tightly. See Figure F |
 
-AzaSite® (azithromycin ophthalmic solution) 1% is indicated for the treatment of bacterial conjunctivitis in adults and children 1 year of age and older.
-Recommended dosing for AzaSite® is 1 drop twice a day for 2 days, followed by 1 drop once a day for the next 5 days, for a total of 9 drops per affected eye.
+If a drop does not come out of the bottle, repeat steps one to four.
 
-Important Safety Information: For use as an eyedrop only.
-In clinical trials, the most common ocular adverse event was eye irritation, which occurred in 1% to 2% of patients.
-
-Please see accompanying full Prescribing Information.
+This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
 Manufactured for: Inspire Pharmaceuticals, Inc., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+Manufactured by: Catalent Pharma Solutions, LLC Woodstock, IL 60098
+
+U.S. Patent Nos.: 6,159,458; 6,239,113; 6,569,443; 6,861,411; 7,056,893; and Patents Pending
 
 AzaSite is a registered trademark of InSite Vision Inc.
 
 Copyright © 2011 Inspire Pharmaceuticals, Inc., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 01/2012
+Revised: 07/2012
 
-6068700
+USPPI-OS-82431207R001

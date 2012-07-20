@@ -1,3 +1,5 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-The recommended dosage regimen for the treatment of bacterial conjunctivitis is: Instill 1 drop in the affected eye(s) twice daily, eight to twelve hours apart for the first two days and then instill 1 drop in the affected eye(s) once daily for the next five days.
+The recommended dosage regimen for the treatment of bacterial conjunctivitis is:
+
+Instill 1 drop in the affected eye(s) twice daily, eight to twelve hours apart for the first two days and then instill 1 drop in the affected eye(s) once daily for the next five days.

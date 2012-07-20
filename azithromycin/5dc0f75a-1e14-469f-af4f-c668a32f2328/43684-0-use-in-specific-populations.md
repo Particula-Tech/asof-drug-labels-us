@@ -2,9 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B. Reproduction studies have been performed in rats and mice at doses up to 200 mg/kg/d.
+Pregnancy Category B. Reproduction studies have been performed in rats and mice at doses up to 200 mg/kg/day.
 The highest dose was associated with moderate maternal toxicity.
-These doses are estimated to be approximately 5000 times the maximum human ocular daily dose of 2 mg.
+These doses are estimated to be approximately 5,000 times the maximum human ocular daily dose of 2 mg.
 In the animal studies, no evidence of harm to the fetus due to azithromycin was found.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, azithromycin should be used during pregnancy only if clearly needed.

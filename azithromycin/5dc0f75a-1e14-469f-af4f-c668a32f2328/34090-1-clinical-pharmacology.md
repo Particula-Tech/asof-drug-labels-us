@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Azithromycin is a macrolide antibiotic [see Clinical Pharmacology, Microbiology (12.4)].
+Azithromycin is a macrolide antibiotic [see Clinical Pharmacology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -15,11 +15,9 @@ Azithromycin acts by binding to the 50S ribosomal subunit of susceptible microor
 
 Azithromycin has been shown to be active against most isolates of the following microorganisms, both in vitro and clinically in conjunctival infections [see Indications and Usage (1)].
 
-- CDC coryneform group G*
-- Haemophilus influenzae
-- Staphylococcus aureus
-- Streptococcus mitis group
-- Streptococcus pneumoniae
+CDC coryneform group GEfficacy for this organism was studied in fewer than 10 infections.
+
+Haemophilus influenzae Staphylococcus aureus Streptococcus mitis group Streptococcus pneumoniae
 
 The following in vitro data are also available, but their clinical significance in ophthalmic infections is unknown.
 The safety and effectiveness of AzaSite in treating ophthalmological infections due to these microorganisms have not been established.
@@ -29,18 +27,4 @@ However, a correlation between the in vitro systemic breakpoint and ophthalmolog
 This list of microorganisms is provided as an aid only in assessing the potential treatment of conjunctival infections.
 Azithromycin exhibits in vitro minimal inhibitory concentrations (MICs) of equal or less (systemic susceptible breakpoint) against most (≥90%) of isolates of the following ocular pathogens:
 
-- Chlamydia pneumoniae
-- Chlamydia trachomatis
-- Legionella pneumophila
-- Moraxella catarrhalis
-- Mycoplasma hominis
-- Mycoplasma pneumoniae
-- Neisseria gonorrhoeae
-- Peptostreptococcus species
-- Streptococci (Groups C, F, G)
-- Streptococcus pyogenes
-- Streptococcus agalactiae
-- Ureaplasma urealyticum
-- Viridans group streptococci
-
-*Efficacy for this organism was studied in fewer than 10 infections.
+Chlamydia pneumoniae Chlamydia trachomatis Legionella pneumophila Moraxella catarrhalis Mycoplasma hominis Mycoplasma pneumoniae Neisseria gonorrhoeae Peptostreptococcus species Streptococci (Groups C, F, G) Streptococcus pyogenes Streptococcus agalactiae Ureaplasma urealyticum Viridans group streptococci
