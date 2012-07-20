@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA040039"
+  ],
+  "inn": "triamcinolone-acetonide",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-1282-1",
+    "51672-1282-2",
+    "51672-1282-8"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "triamcinolone acetonide",
+      "name": "Triamcinolone Acetonide"
+    }
+  ],
+  "setid": "e7e16fc2-0222-44f5-925b-928d249f55cf",
+  "source": "dailymed"
+}
