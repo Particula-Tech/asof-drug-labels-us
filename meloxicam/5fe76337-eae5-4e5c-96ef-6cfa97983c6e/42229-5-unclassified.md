@@ -19,7 +19,7 @@ R-03-03/2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
+Manufactured By:
 
 UNICHEM LABORATORIES LTD.
 
