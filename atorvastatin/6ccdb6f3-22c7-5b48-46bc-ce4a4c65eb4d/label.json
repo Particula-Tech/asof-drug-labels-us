@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA202357"
+  ],
+  "inn": "atorvastatin",
+  "labeler": "Dr. Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-124-05",
+    "55111-124-30",
+    "55111-124-60",
+    "55111-124-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "atorvastatin calcium",
+      "name": "Atorvastatin Calcium"
+    }
+  ],
+  "setid": "6ccdb6f3-22c7-5b48-46bc-ce4a4c65eb4d",
+  "source": "dailymed"
+}
