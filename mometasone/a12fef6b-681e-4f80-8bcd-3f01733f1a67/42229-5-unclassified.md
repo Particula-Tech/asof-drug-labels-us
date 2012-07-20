@@ -1,0 +1,13 @@
+Rx Only
+
+For Dermatologic Use Only
+
+Not for Ophthalmic Use
+
+MADE IN CANADA
+
+MANUFACTURED BY TARO PHARMACEUTICALS INC.
+
+BRAMPTON, ONTARIO, CANADA L6T 1C1
+
+: 0F400 RC J1
