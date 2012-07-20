@@ -1,11 +1,9 @@
-US Patent Nos. 5,500,413; 5,596,078; 5,674,850; 5,763,407
+Manufactured for: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-Manufactured for: sanofi-aventis U.S. LLC Bridgewater, NJ 08807
+Revised October 2011 ©2011 sanofi-aventis U.S. LLC
 
-Revised July 2007 ©2007 sanofi-aventis U.S. LLC
+Manufactured for: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-Manufactured for: sanofi-aventis U.S. LLC Bridgewater, NJ 08807
+Revised October 2011
 
-Revised July 2007
-
-©2007 sanofi-aventis U.S. LLC
+©2011 sanofi-aventis U.S. LLC
