@@ -1,10 +1,5 @@
 Rx only
 
-# WARNING
-
-Lithium toxicity is closely related to serum lithium levels, and can occur at doses close to therapeutic levels.
-Facilities for prompt and accurate serum lithium determinations should be available before initiating therapy (see DOSAGE AND ADMINISTRATION).
-
 # DESCRIPTION
 
 Each tablet for oral administration contains:
@@ -63,12 +58,25 @@ In such instances, hospitalization is a necessity.
 
 # WARNINGS
 
+Lithium toxicity is closely related to serum lithium levels, and can occur at doses close to therapeutic levels (see DOSAGE AND ADMINISTRATION).
+
+## Unmasking of Brugada Syndrome
+
+There have been postmarketing reports of a possible association between treatment with lithium and the unmasking of Brugada Syndrome.
+Brugada Syndrome is a disorder characterized by abnormal electrocardiographic (ECG) findings and a risk of sudden death.
+Lithium should generally be avoided in patients with Brugada Syndrome or those suspected of having Brugada Syndrome.
+Consultation with a cardiologist is recommended if: (1) treatment with lithium is under consideration for patients suspected of having Brugada Syndrome or patients who have risk factors for Brugada Syndrome, e.g., unexplained syncope, a family history of Brugada Syndrome, or a family history of sudden unexplained death before the age of 45 years, (2) patients who develop unexplained syncope or palpitations after starting lithium therapy.
+
+## Pregnancy
+
 Lithium may cause fetal harm when administered to a pregnant woman.
 There have been reports of lithium having adverse effects on nidations in rats, embryo viability in mice, and metabolism in-vitro of rat testis and human spermatozoa have been attributed to lithium, as have teratogenicity in submammalian species and cleft palates in mice.
 Studies in rats, rabbits and monkeys have shown no evidence of lithium-induced teratology.
 Data from lithium birth registries suggest an increase in cardiac and other anomalies, especially Ebstein’s anomaly.
 If the patient becomes pregnant while taking lithium, she should be apprised of the potential risk to the fetus.
 If possible, lithium should be withdrawn for at least the first trimester unless it is determined that this would seriously endanger the mother.
+
+## Lithium-Induced Renal Effects
 
 Chronic lithium therapy may be associated with diminution of renal concentrating ability, occasionally presenting as nephrogenic diabetes insipidus, with polyuria and polydipsia.
 Such patients should be carefully managed to avoid dehydration with resulting lithium retention and toxicity.
@@ -103,6 +111,10 @@ Previously existing underlying thyroid disorders do not necessarily constitute a
 Where hypothyroidism occurs during lithium stabilization and maintenance, supplemental thyroid treatment may be used.
 
 ## Information for the Patients
+
+A condition known as Brugada Syndrome may pre-exist and be unmasked by lithium therapy.
+Brugada Syndrome is a heart disorder characterized by abnormal electrocardiographic (ECG) findings and risk of sudden death.
+Patients should be advised to seek immediate emergency assistance if they experience fainting, lightheadedness, abnormal heart beats, or shortness of breath.
 
 Outpatients and their families should be warned that the patient must discontinue lithium therapy and contact his physician if such clinical signs of lithium toxicity as diarrhea, vomiting, tremor, mild ataxia, drowsiness, or muscular weakness occur.
 
@@ -169,62 +181,36 @@ If persistent, a cessation of dosage is indicated.
 
 The following adverse reactions have been reported and do not appear to be directly related to serum lithium levels.
 
-## Neuromuscular
+Neuromuscular: Tremor, muscle hyperirritability (fasciculations, twitching, clonic movements of whole limbs), ataxia, choreo-athetotic movements, hyperactive deep tendon reflexes.
 
-Tremor, muscle hyperirritability (fasciculations, twitching, clonic movements of whole limbs), ataxia, choreo-athetotic movements, hyperactive deep tendon reflexes.
+Central Nervous System: Blackout spells, epileptiform seizures, slurred speech, dizziness, vertigo, incontinence of urine or feces, somnolence, psychomotor retardation, restlessness, confusion, stupor, coma, acute dystonia, downbeat nystagmus.
 
-## Central Nervous System
+Cardiovascular: Cardiac arrhythmia, hypotension, peripheral circulatory collapse, sinus node dysfunction with severe bradycardia (which may result in syncope), unmasking of Brugada Syndrome (See WARNINGS: Unmasking of Brugada Syndrome and PRECAUTIONS: Information for the Patients).
 
-Blackout spells, epileptiform seizures, slurred speech, dizziness, vertigo, incontinence of urine or feces, somnolence, psychomotor retardation, restlessness, confusion, stupor, coma, acute dystonia, downbeat nystagmus.
-
-## Cardiovascular
-
-Cardiac arrhythmia, hypotension, peripheral circulatory collapse, sinus node dysfunction with severe bradycardia (which may result in syncope).
-
-## Neurological
-
-Cases of pseudotumor cerebri (increased intracranial pressure and papilledema) have been reported with lithium use.
+Neurological: Cases of pseudotumor cerebri (increased intracranial pressure and papilledema) have been reported with lithium use.
 If undetected, this condition may result in enlargement of the blind spot, constriction of visual fields and eventual blindness due to optic atrophy.
 Lithium should be discontinued, if clinically possible, if this syndrome occurs.
 
-## Gastrointestinal
+Gastrointestinal: Anorexia, nausea, vomiting, diarrhea.
 
-Anorexia, nausea, vomiting, diarrhea.
+Genitourinary: Albuminuria, oliguria, polyuria, glycosuria.
 
-## Genitourinary
+Dermatologic: Drying and thinning of hair, anesthesia of skin, chronic folliculitis, xerosis cutis, alopecia and exacerbation of psoriasis.
 
-Albuminuria, oliguria, polyuria, glycosuria.
+Autonomic Nervous System: Blurred vision, dry mouth.
 
-## Dermatologic
-
-Drying and thinning of hair, anesthesia of skin, chronic folliculitis, xerosis cutis, alopecia and exacerbation of psoriasis.
-
-## Autonomic Nervous System
-
-Blurred vision, dry mouth.
-
-## Thyroid Abnormalities
-
-Euthyroid goiter and/or hypothyroidism (including myxedema) accompanied by lower T3 and T4.
+Thyroid Abnormalities: Euthyroid goiter and/or hypothyroidism (including myxedema) accompanied by lower T3 and T4.
 Iodine 131 uptake may be elevated.
 (See PRECAUTIONS).
 Paradoxically, rare cases of hyperthyroidism have been reported.
 
-## EEG Changes
+EEG Changes: Diffuse slowing, widening of frequency spectrum, potentiation and disorganization of background rhythm.
 
-Diffuse slowing, widening of frequency spectrum, potentiation and disorganization of background rhythm.
+EKG Changes: Reversible flattening, isoelectricity or inversion of T-waves.
 
-## EKG Changes
+Miscellaneous: Fatigue, lethargy, transient scotomata, dehydration, weight loss, tendency to sleep.
 
-Reversible flattening, isoelectricity or inversion of T-waves.
-
-## Miscellaneous
-
-Fatigue, lethargy, transient scotomata, dehydration, weight loss, tendency to sleep.
-
-## Miscellaneous Reactions Unrelated to Dosage are:
-
-Transient electroencephalographic and electrocardiographic changes, leucocytosis, headache, diffuse non-toxic goiter with or without hypothyroidism, transient hyperglycemia, generalized pruritis with or without rash, cutaneous ulcers, albuminuria, worsening of organic brain syndromes, excessive weight gain, edematous swelling of ankles or wrists, and thirst or polyuria, sometimes resembling diabetes insipidus, and metallic taste.
+Miscellaneous Reactions Unrelated to Dosage are: Transient electroencephalographic and electrocardiographic changes, leucocytosis, headache, diffuse non-toxic goiter with or without hypothyroidism, transient hyperglycemia, generalized pruritus with or without rash, cutaneous ulcers, albuminuria, worsening of organic brain syndromes, excessive weight gain, edematous swelling of ankles or wrists, and thirst or polyuria, sometimes resembling diabetes insipidus, and metallic taste.
 
 A single report has been received of the development of painful discoloration of fingers and toes and coldness of the extremities within one day of the starting of treatment of lithium.
 The mechanism through which these symptoms (resembling Raynaud’s Syndrome) developed is not known.
@@ -340,8 +326,10 @@ NDC 0054-3527-63: Bottles of 500 mL.
 Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
 Dispense in a tight container as defined in the USP/NF.
 
-4055500/07
+4055500/08
 
-Revised July 2009
+Revised October 2011
 
-© RLI, 2009
+© RLI, 2011
+
+Package Label - Lithium Carbonate Tablets USP
