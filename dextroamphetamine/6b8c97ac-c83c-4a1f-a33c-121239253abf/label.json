@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA090533"
+  ],
+  "inn": "dextroamphetamine",
+  "labeler": "Wilshire Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "52536-500-01",
+    "52536-510-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dextroamphetamine sulfate",
+      "name": "Dextroamphetamine Sulfate"
+    }
+  ],
+  "setid": "6b8c97ac-c83c-4a1f-a33c-121239253abf",
+  "source": "dailymed"
+}
