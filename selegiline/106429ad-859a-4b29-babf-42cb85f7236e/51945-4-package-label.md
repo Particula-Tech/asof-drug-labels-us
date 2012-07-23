@@ -2,9 +2,9 @@ PRINCIPAL DISPLAY PANEL - 5 mg
 
 NDC 49502-420-60
 
-ELDEPRYL (selegiline hydrochloride) CAPSULES 5 mg
+ELDEPRYL® (selegiline hydrochloride) Capsules 5 mg
 
-Rx only 60 CAPSULES
+Rx only 60 Capsules
 
 Each capsule contains: Selegiline hydrochloride, USP 5 mg
 
@@ -19,11 +19,11 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Adult Dosage: Two capsules daily.
 
-Distributed by Dey Pharma, L.P.
+Distributed by Mylan Specialty, L.P.
 Napa, CA 94558
 
 Manufactured for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
 
-A3-013-00
+A3-013-01
 
-RSM420D6
+RMS420D7
