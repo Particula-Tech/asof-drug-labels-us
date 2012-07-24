@@ -97,7 +97,7 @@ Generally, TSH is suppressed to < 0.1 mU/L, and this usually requires a levothyr
 However, in patients with high-risk tumors, the target level for TSH suppression may be < 0.01 mU/L.
 
 In the treatment of benign nodules and nontoxic multinodular goiter, TSH is generally suppressed to a higher target (e.g., 0.1 to either 0.5 or 1.0 mU/L) than that used for the treatment of thyroid cancer.
-Levothyroxine sodium is contraindicated if the serum TSH is already suppressed due to the risk of precipitating overt thyrotoxicosis (see CONTRAINDICATIONS - WARNINGS and PRECAUTIONS).
+Levothyroxine sodium is contraindicated if the serum TSH is already suppressed due to the risk of precipitating overt thyrotoxicosis (see CONTRAINDICATIONS, WARNINGS and PRECAUTIONS).
 
 ### Myxedema Coma
 
