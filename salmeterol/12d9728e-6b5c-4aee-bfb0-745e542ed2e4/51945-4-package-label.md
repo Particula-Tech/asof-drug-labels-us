@@ -2,7 +2,7 @@ Principal Display Panel
 
 NDC 0173-0521-00
 
-Serevent® Diskus®
+Serevent®Diskus®
 
 (salmeterol xinafoate inhalation powder)
 
@@ -38,7 +38,7 @@ Principal Display Panel
 
 NDC 0173-0520-00
 
-Serevent® Diskus®
+Serevent®Diskus®
 
 (salmeterol xinafoate inhalation powder)
 

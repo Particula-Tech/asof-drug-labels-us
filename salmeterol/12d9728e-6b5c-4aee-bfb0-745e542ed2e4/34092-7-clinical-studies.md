@@ -92,7 +92,7 @@ The data from the SMART study are not adequate to determine whether concurrent u
 
 Table 5: Asthma-Related Deaths in the 28-Week Salmeterol Multi-center Asthma Research Trial (SMART)
 
-|  | Salmeteroln (%a) | Placebon (%a) | Relative Riskb (95% Confidence Interval) | Excess Deaths Expressed per 10,000 Patientsc (95% Confidence Interval) |
+|  | Salmeteroln (%a) | Placebon (%a) | Relative Riskb(95% Confidence Interval) | Excess Deaths Expressed per 10,000 Patientsc(95% Confidence Interval) |
 | --- | --- | --- | --- | --- |
 | Total Populationd |  |  |  |  |
 | Salmeterol: N = 13,176 | 13 (0.10%) |  | 4.37 (1.25, 15.34) | 8 (3, 13) |
@@ -109,7 +109,7 @@ aLife-table 28-week estimate, adjusted according to the patients’ actual lengt
 bRelative risk is the ratio of the rate of asthma-related death in the salmeterol group and the rate in the placebo group.
 The relative risk indicates how many more times likely an asthma-related death occurred in the salmeterol group than in the placebo group in a 28-week treatment period.
 
-c Estimate of the number of additional asthma-related deaths in patients treated with salmeterol in SMART, assuming 10,000 patients received salmeterol for a 28-week treatment period.
+cEstimate of the number of additional asthma-related deaths in patients treated with salmeterol in SMART, assuming 10,000 patients received salmeterol for a 28-week treatment period.
 Estimate calculated as the difference between the salmeterol and placebo groups in the rates of asthma-related death multiplied by 10,000.
 
 dThe Total Population includes the following ethnic origins listed on the case report form: Caucasian, African American, Hispanic, Asian, and “Other.”

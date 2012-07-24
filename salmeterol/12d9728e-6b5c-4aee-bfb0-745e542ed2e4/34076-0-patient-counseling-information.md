@@ -16,9 +16,9 @@ The physician should provide the patient with such medication and instruct the p
 
 Patients should be instructed to notify their physicians immediately if they experience any of the following:
 
-- Decreasing effectiveness of inhaled, short-acting beta2-agonists
-- Need for more inhalations than usual of inhaled, short-acting beta2-agonists
-- Significant decrease in lung function as outlined by the physician
+- •Decreasing effectiveness of inhaled, short-acting beta2-agonists
+- •Need for more inhalations than usual of inhaled, short-acting beta2-agonists
+- •Significant decrease in lung function as outlined by the physician
 
 Patients should not stop therapy with SEREVENT DISKUS without physician/provider guidance since symptoms may recur after discontinuation.
 
