@@ -7,7 +7,7 @@ Store at controlled room temperature, between 20° and 25°C (689° and 77°F) (
 Rev.
 L 2/2003
 
-Manufactured By:
+Manufactured In Canada By:
 
 Novopharm Limited
 

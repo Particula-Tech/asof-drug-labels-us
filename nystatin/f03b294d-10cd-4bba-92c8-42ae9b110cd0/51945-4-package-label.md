@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-## 500,000 units - 100 Count
+## Nystatin Tablets USP 500,000 units (oral) 100 Label Text
 
 NDC 0093-0983-01
 
