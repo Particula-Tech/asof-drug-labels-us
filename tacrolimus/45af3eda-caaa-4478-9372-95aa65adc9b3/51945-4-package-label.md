@@ -2,11 +2,11 @@
 
 NDC 0378-2045-01
 
-TACROLIMUS CAPSULES 0.5 mg
+Tacrolimus Capsules 0.5 mg
 
-100 CAPSULES (Rx only)
+Rx only 100 CAPSULES
 
-Each capsule contains: Tacrolimus........
+Each capsule contains: Tacrolimus.........
 0.5 mg
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
@@ -20,17 +20,19 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM2045A1
+www.mylan.com
+
+RM2045A2
 
 # PRINCIPAL DISPLAY PANEL - 1 mg
 
 NDC 0378-2046-01
 
-TACROLIMUS CAPSULES 1 mg
+Tacrolimus Capsules 1 mg
 
-100 CAPSULES (Rx only)
+Rx only 100 CAPSULES
 
 Each capsule contains: Tacrolimus.........
 1 mg
@@ -46,17 +48,19 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM2046A1
+www.mylan.com
+
+RM2046A2
 
 # PRINCIPAL DISPLAY PANEL - 5 mg
 
 NDC 0378-2047-01
 
-TACROLIMUS CAPSULES 5 mg
+Tacrolimus Capsules 5 mg
 
-100 CAPSULES (Rx only)
+Rx only 100 CAPSULES
 
 Each capsule contains: Tacrolimus.........
 5 mg
@@ -72,6 +76,8 @@ Store at 20° to 25°C (68° to 77°F).
 
 Usual Dosage: See accompanying prescribing information.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-RM2047A1
+www.mylan.com
+
+RM2047A2
