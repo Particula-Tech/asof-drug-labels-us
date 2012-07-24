@@ -1,12 +1,8 @@
 FOR TOPICAL USE ONLY.
 NOT FOR OPHTHALMIC USE.
 
-Rx Only
+Rx only
 
-| Mfd. By: | Taro Pharmaceuticals Inc. |
-| --- | --- |
-|  | Bramalea, Ontario, Canada L6T 1C3 |
+Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1 Dist. by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532 Revised: October, 2011
 
-Issued: February, 1998
-
-PK-1940-1 29
+PK-1940-3 161

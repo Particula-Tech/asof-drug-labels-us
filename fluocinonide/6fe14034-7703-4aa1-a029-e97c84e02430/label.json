@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074799"
+  ],
   "inn": "fluocinonide",
-  "labeler": "Taro Pharmaceuticals Inc.",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
   "package_ndcs": [
     "51672-1273-2",
     "51672-1273-4"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "fluocinonide",
+      "name": "Fluocinonide"
+    }
+  ],
   "setid": "6fe14034-7703-4aa1-a029-e97c84e02430",
   "source": "dailymed"
 }
