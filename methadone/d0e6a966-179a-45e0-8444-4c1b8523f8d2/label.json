@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA089897"
+  ],
+  "inn": "methadone",
+  "labeler": "Roxane Laboratories, Inc",
+  "package_ndcs": [
+    "0054-3553-44"
+  ],
+  "products": [
+    {
+      "form": "CONCENTRATE",
+      "generic": "methadone hydrochloride",
+      "name": "Methadone Hydrochloride"
+    }
+  ],
+  "setid": "d0e6a966-179a-45e0-8444-4c1b8523f8d2",
+  "source": "dailymed"
+}
