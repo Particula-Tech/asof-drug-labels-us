@@ -1,13 +1,13 @@
-6 mg per mL
+CELESTONE® SOLUSPAN®brand of rapid and repository injectable brand of betamethasone sodium phosphate and betamethasone acetate Injectable Suspension USP 6 mg per mL
 
 Rx only
 
-Manufactured in the UK for Schering Corporation.
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-SP logo Copyright © 1969, 1996, 2001, 2007 Schering Corporation,
+Manufactured by: Patheon UK Limited, Covingham, Swindon, Wiltshire, SN3 5BZ, United Kingdom
 
-Kenilworth, NJ 07033 USA.
-All rights reserved.
+Copyright © 1969, 2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Rev.
-06/08
+Revised: 05/2012
+
+31550327T

@@ -176,7 +176,7 @@ Aminoglutethimide may lead to a loss of corticosteroid-induced adrenal suppressi
 
 ### Amphotericin B Injection and Potassium-Depleting Agents
 
-When corticosteroids are administered concomitantly with potassium-depleting agents (ie, amphotericin-B, diuretics), patients should be observed closely for development of hypokalemia.
+When corticosteroids are administered concomitantly with potassium-depleting agents (ie, amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.
 There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure.
 
 ### Antibiotics
@@ -232,11 +232,11 @@ Concomitant use of aspirin (or other nonsteroidal anti-inflammatory agents) and 
 Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
 The clearance of salicylates may be increased with concurrent use of corticosteroids.
 
-### Skin Tests
+## Skin Tests
 
 Corticosteroids may suppress reactions to skin tests.
 
-### Vaccines
+## Vaccines
 
 Patients on prolonged corticosteroid therapy may exhibit a diminished response to toxoids and live or inactivated vaccines due to inhibition of antibody response.
 Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines.

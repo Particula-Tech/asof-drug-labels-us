@@ -1,6 +1,4 @@
-# ADVERSE REACTIONS
-
-(listed alphabetically, under each subsection)
+# ADVERSE REACTIONS (listed alphabetically, under each subsection)
 
 ## Allergic Reactions
 

@@ -54,13 +54,14 @@ There is virtually no pain on injection, and the "secondary flare" that sometime
 Using sterile technique, a 20- to 24-gauge needle on an empty syringe is inserted into the synovial cavity and a few drops of synovial fluid are withdrawn to confirm that the needle is in the joint.
 The aspirating syringe is replaced by a syringe containing CELESTONE SOLUSPAN Injectable Suspension and injection is then made into the joint.
 
+Recommended Doses for Intra-articular Injection
+
 | Size of joint | Location | Dose (mL) |
 | --- | --- | --- |
-| Recommended Doses for Intra-articular Injection |  |  |
-| Very large | Hip | 1.0–2.0 |
+| Very large | Hip | 1.0-2.0 |
 | Large | Knee, ankle, shoulder | 1.0 |
-| Medium | Elbow, wrist | 0.5–1.0 |
-| Small (metacarpophalangeal, interphalangeal) (sternoclavicular) | Hand, chest | 0.25–0.5 |
+| Medium | Elbow, wrist | 0.5-1.0 |
+| Small (metacarpophalangeal, interphalangeal) (sternoclavicular) | Hand, chest | 0.25-0.5 |
 
 A portion of the administered dose of CELESTONE SOLUSPAN Injectable Suspension is absorbed systemically following intra-articular injection.
 In patients being treated concomitantly with oral or parenteral corticosteroids, especially those receiving large doses, the systemic absorption of the drug should be considered in determining intra-articular dosage.
@@ -78,9 +79,8 @@ The following doses are recommended at intervals of 3 days to a week.
 
 | Diagnosis | CELESTONE SOLUSPAN Injectable Suspension Dose (mL) |
 | --- | --- |
-| Bursitis |  |
-| under heloma durum or heloma molle | 0.25–0.5 |
+| Bursitis under heloma durum or heloma molle | 0.25-0.5 |
 | under calcaneal spur | 0.5 |
 | over hallux rigidus or digiti quinti varus | 0.5 |
 | Tenosynovitis, periostitis of cuboid | 0.5 |
-| Acute gouty arthritis | 0.5–1.0 |
+| Acute gouty arthritis | 0.5-1.0 |

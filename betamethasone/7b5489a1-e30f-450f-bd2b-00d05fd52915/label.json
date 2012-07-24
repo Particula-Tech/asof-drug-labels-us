@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA014602"
+  ],
   "inn": "betamethasone",
-  "labeler": "Schering Corporation",
+  "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
     "0085-0566-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "betamethasone acetate and betamethasone sodium phosphate",
+      "name": "CELESTONE SOLUSPAN"
+    }
+  ],
   "setid": "7b5489a1-e30f-450f-bd2b-00d05fd52915",
   "source": "dailymed"
 }
