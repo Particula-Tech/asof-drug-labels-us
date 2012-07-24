@@ -5,25 +5,25 @@
 Pregnancy Category C
 
 Reproductive studies in rats and rabbits with omeprazole and multiple cohort studies in pregnant women with omeprazole use during the first trimester do not show an increased risk of congenital anomalies or adverse pregnancy outcomes.
-There are no adequate and well controlled studies on the use of omeprazole in pregnant women.
+There are no adequate and well-controlled studies on the use of omeprazole in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 The vast majority of reported experience with omeprazole during human pregnancy is first trimester exposure and the duration of use is rarely specified, e.g., intermittent vs. chronic.
 An expert review of published data on experiences with omeprazole use during pregnancy by TERIS – the Teratogen Information System – concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as fair).
 
 Three epidemiological studies compared the frequency of congenital abnormalities among infants born to women who used omeprazole during pregnancy with the frequency of abnormalities among infants of women exposed to H2–receptor antagonists or other controls.
 A population-based prospective cohort epidemiological study from the Swedish Medical Birth Registry, covering approximately 99% of pregnancies, reported on 955 infants (824 exposed during the first trimester with 39 of these exposed beyond first trimester, and 131 exposed after the first trimester) whose mothers used omeprazole during pregnancy.
-In utero exposure to omeprazole was not associated with increased risk of any malformation (odds ratio 0.82, 95% CI 0.50–1.34), low birth weight or low Apgar score.
+In utero exposure to omeprazole was not associated with increased risk of any malformation (odds ratio 0.82, 95% CI 0.50 to 1.34), low birth weight or low Apgar score.
 The number of infants born with ventricular septal defects and the number of stillborn infants was slightly higher in the omeprazole-exposed infants than the expected number in the normal population.
 The author concluded that both effects may be random.
 
 A retrospective cohort study reported on 689 pregnant women exposed to either H2–blockers or omeprazole in the first trimester (134 exposed to omeprazole).
-The overall malformation rate was 4.4% (95% CI 3.6–5.3) and the malformation rate for first trimester exposure to omeprazole was 3.6% (95% CI 1.5–8.1).
-The relative risk of malformations associated with first trimester exposure to omeprazole compared with non-exposed women was 0.9 (95% CI 0.3–2.2).
+The overall malformation rate was 4.4% (95% CI 3.6 to 5.3) and the malformation rate for first trimester exposure to omeprazole was 3.6% (95% CI 1.5 to 8.1).
+The relative risk of malformations associated with first trimester exposure to omeprazole compared with non-exposed women was 0.9 (95% CI 0.3 to 2.2).
 The study could effectively rule out a relative risk greater than 2.5 for all malformations.
 Rates of preterm delivery or growth retardation did not differ between the groups.
 
 A controlled prospective observational study followed 113 women exposed to omeprazole during pregnancy (89% first trimester exposures).
-The reported rates of major congenital malformations was 4% for the omeprazole group, 2% for controls exposed to non-teratogens, and 2.8% in disease-paired controls (background incidence of major malformations 1–5%).
+The reported rates of major congenital malformations was 4% for the omeprazole group, 2% for controls exposed to non-teratogens, and 2.8% in disease-paired controls (background incidence of major malformations 1 to 5%).
 Rates of spontaneous and elective abortions, preterm deliveries, gestational age at delivery, and mean birth weight did not differ between the groups.
 The sample size in this study has 80% power to detect a 5–fold increase in the rate of major malformation.
 
@@ -44,8 +44,8 @@ Because omeprazole is excreted in human milk, because of the potential for serio
 ## 8.4 Pediatric Use
 
 Use of omeprazole in pediatric and adolescent patients 2 to 16 years of age for the treatment of GERD is supported by a) extrapolation of results, already included in the currently approved labeling, from adequate and well-controlled studies that supported the approval of omeprazole for adults, and b) safety and pharmacokinetic studies performed in pediatric and adolescent patients.
-[See Clinical Pharmacology, Pharmacokinetics, Pediatricfor pharmacokinetic information (12.3) and Dosage and Administration (2).
-Adverse Reactions (6.1) and Clinical Studies, (14.6)].
+[See Clinical Pharmacology, Pharmacokinetics, Pediatric for pharmacokinetic information(12.3) and Dosage and Administration(2).
+Adverse Reactions(6.1) and Clinical Studies(14.6)].
 The safety and effectiveness of omeprazole for the treatment of GERD in patients < 1 year of age have not been established.
 The safety and effectiveness of omeprazole for other pediatric uses have not been established.
 
@@ -58,12 +58,12 @@ Other reported clinical experience has not identified differences in response be
 Pharmacokinetic studies have shown the elimination rate was somewhat decreased in the elderly and bioavailability was increased.
 The plasma clearance of omeprazole was 250 mL/min (about half that of young volunteers) and its plasma half-life averaged one hour, about twice that of young healthy volunteers.
 However, no dosage adjustment is necessary in the elderly.
-[See Clinical Pharmacology (12.3)]
+[See Clinical Pharmacology(12.3)]
 
 ## 8.6 Hepatic Impairment
 
 Consider dose reduction, particularly for maintenance of healing of erosive esophagitis.
-[See Clinical Pharmacology (12.3)]
+[See Clinical Pharmacology(12.3)]
 
 ## 8.7 Renal Impairment
 
@@ -73,4 +73,4 @@ No dosage reduction is necessary.
 ## 8.8 Asian Population
 
 Consider dose reduction, particularly for maintenance of healing of erosive esophagitis.
-[See Clinical Pharmacology (12.3)]
+[See Clinical Pharmacology(12.3)]

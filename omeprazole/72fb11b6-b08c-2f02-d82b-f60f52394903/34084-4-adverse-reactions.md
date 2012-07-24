@@ -7,7 +7,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The safety data described below reflects exposure to omeprazole delayed-release capsules in 3096 patients from worldwide clinical trials (465 patients from US studies and 2,631 patients from international studies).
 Indications clinically studied in US trials included duodenal ulcer, resistant ulcer, and Zollinger-Ellison syndrome.
 The international clinical trials were double blind and open-label in design.
-The most common adverse reactions reported (i.e., with an incidence rate ≥ 2%) from omeprazole delayed-release capsules-treated patients enrolled in these studies included headache (6.9%), abdominal pain (5.2%), nausea (4.0%), diarrhea (3.7%), vomiting (3.2%), and flatulence (2.7%).
+The most common adverse reactions reported (i.e., with an incidence rate ≥ 2%) from omeprazole-treated patients enrolled in these studies included headache (6.9%), abdominal pain (5.2%), nausea (4.0%), diarrhea (3.7%), vomiting (3.2%), and flatulence (2.7%).
 
 Additional adverse reactions that were reported with an incidence ≥1% included acid regurgitation (1.9%), upper respiratory infection (1.9%), constipation (1.5%), dizziness (1.5%), rash (1.5%), asthenia (1.3%), back pain (1.1%), and cough (1.1%).
 
@@ -15,7 +15,8 @@ The clinical trial safety profile in patients greater than 65 years of age was s
 
 The clinical trial safety profile in pediatric patients who received omeprazole delayed-release capsules was similar to that in adult patients.
 Unique to the pediatric population, however, adverse reactions of the respiratory system were most frequently reported in the 2 to 16 year age group (18.5%).
-Similarly, accidental injuries were reported frequently in the 2 to 16 year age group (3.8%).[See Use in Specific Populations (8.4)]
+Similarly, accidental injuries were reported frequently in the 2 to 16 year age group (3.8%).
+[See Use in Specific Populations(8.4)]
 
 ## 6.2 Clinical Trials Experience with Omeprazole in Combination Therapy for H. pylori Eradication
 
@@ -44,17 +45,18 @@ Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitations, el
 
 Endocrine: Gynecomastia
 
-Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth.
+Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth, microscopic colitis.
 During treatment with omeprazole, gastric fundic gland polyps have been noted rarely.
+
 These polyps are benign and appear to be reversible when treatment is discontinued.
 Gastroduodenal carcinoids have been reported in patients with ZE syndrome on long-term treatment with omeprazole.
 This finding is believed to be a manifestation of the underlying condition, which is known to be associated with such tumors.
 
 Hepatic: Liver disease including hepatic failure (some fatal), liver necrosis (some fatal), hepatic encephalopathy hepatocellular disease, cholestatic disease, mixed hepatitis, jaundice, and elevations of liver function tests [ALT, AST, GGT, alkaline phosphatase, and bilirubin]
 
-Metabolic/Nutritional: Hypoglycemia, hyponatremia, weight gain
+Metabolism and Nutritional disorders: Hypoglycemia, hypomagnesemia, hyponatremia, weight gain
 
-Musculoskeletal: Muscle weakness, myalgia, muscle cramps, joint pain, leg pain
+Musculoskeletal: Muscle weakness, myalgia, muscle cramps, joint pain, leg pain, bone fracture
 
 Nervous System/Psychiatric: Psychiatric and sleep disturbances including depression, agitation, aggression, hallucinations, confusion, insomnia, nervousness, apathy, somnolence, anxiety, and dream abnormalities; tremors, paresthesia; vertigo
 

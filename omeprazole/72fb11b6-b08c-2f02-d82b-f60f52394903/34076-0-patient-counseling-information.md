@@ -11,10 +11,4 @@ The applesauce used should not be hot and should be soft enough to be swallowed 
 The pellets should not be chewed or crushed.
 The pellets/applesauce mixture should not be stored for future use.
 
-Manufactured by:
-
-Dr. Reddy’s Laboratories Limited
-
-Bachepalli – 502 325 INDIA
-
-Issued:0109
+Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.7)]

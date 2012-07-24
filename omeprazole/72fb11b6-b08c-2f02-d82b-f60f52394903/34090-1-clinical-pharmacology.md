@@ -18,7 +18,7 @@ When the drug is discontinued, secretory activity returns gradually, over 3 to 5
 The inhibitory effect of omeprazole on acid secretion increases with repeated once-daily dosing, reaching a plateau after four days.
 
 Results from numerous studies of the antisecretory effect of multiple doses of 20 mg and 40 mg of omeprazole in normal volunteers and patients are shown below.
-The “max” value represents determinations at a time of maximum effect (2-6 hours after dosing), while “min” values are those 24 hours after the last dose of omeprazole.
+The “max” value represents determinations at a time of maximum effect (2 to 6 hours after dosing), while “min” values are those 24 hours after the last dose of omeprazole.
 
 Table 1
 
@@ -27,24 +27,29 @@ Range of Mean Values from Multiple Studies of the Mean Antisecretory Effects of 
 | Parameter | Max | Min | Max | Min |
 | --- | --- | --- | --- | --- |
 |  | Omeprazole 20 mg |  | Omeprazole 40 mg |  |
-| % Decrease in Basal Acid Output | 78Single Studies | 58–80 | 94 | 80–93 |
-| % Decrease in Peak Acid Output | 79 | 50–59 | 88 | 62–68 |
-| % Decrease in 24–hr Intragastric Acidity |  | 80–97 |  | 92–94 |
+| % Decrease in Basal Acid Output | 78* | 58 to 80 | 94* | 80 to 93 |
+| % Decrease in Peak Acid Output | 79* | 50 to 59 | 88* | 62 to 68 |
+| % Decrease in 24–hr Intragastric Acidity |  | 80 to 97 |  | 92 to 94 |
+
+* Single Studies
 
 Single daily oral doses of omeprazole ranging from a dose of 10 mg to 40 mg have produced 100% inhibition of 24-hour intragastric acidity in some patients.
 
-Serum Gastric Effects
+Serum Gastrin Effects
 
 In studies involving more than 200 patients, serum gastrin levels increased during the first 1 to 2 weeks of once-daily administration of therapeutic doses of omeprazole in parallel with inhibition of acid secretion.
 No further increase in serum gastrin occurred with continued treatment.
 In comparison with histamine H2-receptor antagonists, the median increases produced by 20 mg doses of omeprazole were higher (1.3 to 3.6 fold vs. 1.1 to 1.8 fold increase).
 Gastrin values returned to pretreatment levels, usually within 1 to 2 weeks after discontinuation of therapy.
 
+Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors.
+
 Enterochromaffin-like (ECL) Cell Effects
 
 Human gastric biopsy specimens have been obtained from more than 3000 patients treated with omeprazole in long-term clinical trials.
 The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients.
-[See Clinical Pharmacology (12] However, these studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
+[See Clinical Pharmacology (12)] However, these studies are of insufficient duration and size to rule out the possible influence of long-term administration of omeprazole on the development of any premalignant or malignant conditions.
 
 Other Effects
 
@@ -74,14 +79,14 @@ Absorption
 Omeprazole delayed-release capsules contain an enteric-coated granule formulation of omeprazole (because omeprazole is acid-labile), so that absorption of omeprazole begins only after the granules leave the stomach.
 Absorption is rapid, with peak plasma levels of omeprazole occurring within 0.5 to 3.5 hours.
 Peak plasma concentrations of omeprazole and AUC are approximately proportional to doses up to 40 mg, but because of a saturable first-pass effect, a greater than linear response in peak plasma concentration and AUC occurs with doses greater than 40 mg.
-Absolute bioavailability (compared with intravenous administration) is about 30-40% at doses of 20-40 mg, due in large part to presystemic metabolism.
-In healthy subjects the plasma half-life is 0.5 to 1 hour, and the total body clearance is 500-600 mL/min.
+Absolute bioavailability (compared with intravenous administration) is about 30 to 40% at doses of 20 to 40 mg, due in large part to presystemic metabolism.
+In healthy subjects the plasma half-life is 0.5 to 1 hour, and the total body clearance is 500 to 600 mL/min.
 
 The bioavailability of omeprazole increases slightly upon repeated administration of omeprazole delayed-release capsules.
 
-Omeprazole delayed-release capsules 40 mg was bioequivalent when administered with and without applesauce.
-However, Omeprazole delayed-release capsules 20 mg was not bioequivalent when administered with and without applesauce.
-When administered with applesauce, a mean 25% reduction in Cmax was observed without a significant change in AUC for Omeprazole delayed-release capsules 20 mg.
+Omeprazole delayed-release capsule 40 mg was bioequivalent when administered with and without applesauce.
+However, Omeprazole delayed-release capsule 20 mg was not bioequivalent when administered with and without applesauce.
+When administered with applesauce, a mean 25% reduction in Cmax was observed without a significant change in AUC for Omeprazole delayed-release capsule 20 mg.
 The clinical relevance of this finding is unknown.
 
 Distribution
@@ -124,7 +129,7 @@ Clarithromycin Tissue Concentrations 2 hours after Dose1
 | Fundus | 20.81 ± 7.64 (n = 5) | 24.25 ± 6.37 (n= 5) |
 | Mucus | 4.15 ± 7.74 (n = 4) | 39.29 ± 32.79 (n=4) |
 
-1 mean ± SD (mcg/g)
+1mean ± SD (mcg/g)
 
 Special Populations
 
@@ -143,21 +148,21 @@ Table 3
 
 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
 
-| Single or Repeated Oral Dosing /Parameter | Children† ≤ 20 kg 2-5 years | Children†> 20 kg 6-16 years | Adults‡(mean 76 kg) 23-29 years(n=12) |
+| Single or Repeated Oral Dosing /Parameter | Children† ≤ 20 kg 2 to 5 years | Children†> 20 kg 6 to 16 years | Adults‡(mean 76 kg) 23 to 29 years(n=12) |
 | --- | --- | --- | --- |
 |  | 10 mg | 20 mg |  |
 | Single Dosing |  |  |  |
-| Cmax*(ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
-| AUC*(ng h/mL) | 511 (n=7) | 1140 (n=32) | 1220 |
+| Cmax* (ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
+| AUC* (ng h/mL) | 511 (n=7) | 1140 (n=32) | 1220 |
 | Repeated Dosing |  |  |  |
 | Cmax* (ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
-| AUC *(ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
+| AUC * (ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
 
 Note: * = plasma concentration adjusted to an oral dose of 1 mg/kg.
 
-†Data from single and repeated dose studies
+† Data from single and repeated dose studies
 
-‡Data from a single and repeated dose study
+‡ Data from a single and repeated dose study
 
 Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules
 
@@ -166,8 +171,8 @@ Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years o
 
 Hepatic Impairment
 
-In patients with chronic hepatic disease, the bioavailability increased to approximately 100% compared with an I.V. dose, reflecting decreased first-pass effect, and the plasma half-life of the drug increased to nearly 3 hours compared with the half-life in normals of 0.5-1 hour.
-Plasma clearance averaged 70 mL/min, compared with a value of 500-600 mL/min in normal subjects.
+In patients with chronic hepatic disease, the bioavailability increased to approximately 100% compared with an I.V. dose, reflecting decreased first-pass effect, and the plasma half-life of the drug increased to nearly 3 hours compared with the half-life in normals of 0.5 to 1 hour.
+Plasma clearance averaged 70 mL/min, compared with a value of 500 to 600 mL/min in normal subjects.
 Dose reduction, particularly where maintenance of healing of erosive esophagitis is indicated, for the hepatically impaired should be considered.
 
 Renal Impairment
@@ -183,7 +188,7 @@ Dose reduction, particularly where maintenance of healing of erosive esophagitis
 
 ## 12.4 Microbiology
 
-Omeprazole and clarithromycin dual therapy and omeprazole, clarithromycin and amoxicillin triple therapy have been shown to be active against most strains of Helicobacter pylori in vitro and in clinical infections as described in the Indications and Usage section (1.1).
+Omeprazole and clarithromycin dual therapy and omeprazole, clarithromycin and amoxicillin triple therapy have been shown to be active against most strains of Helicobacter pyloriin vitro and in clinical infections as described in the Indications and Usage section 1.1.
 
 Helicobacter
 
@@ -202,7 +207,7 @@ Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
 | Clarithromycin Pretreatment Results |  |  | Clarithromycin Post-treatment Results |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomesa |  |  |  |  |  |
-|  | H. pylori negative – eradicated | H. pylori positive – not eradicatedPost-treatment susceptibility results |  |  |  |
+|  | H. pylori negative – eradicated | H. pylori positive – not eradicated Post-treatment susceptibility results |  |  |  |
 |  | Sb | Ib | Rb | No MIC |  |
 | Dual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4,5) |  |  |  |  |  |
 | Susceptible b108 | 72 | 1 |  | 26 | 9 |
@@ -210,12 +215,12 @@ Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
 | Resistant b4 |  |  |  | 4 |  |
 | Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2,3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1,2) |  |  |  |  |  |
 | Susceptible b171 | 153 | 7 |  | 3 | 8 |
-| Intermediate b |  |  |  |  |  |
+| Intermediateb |  |  |  |  |  |
 | Resistant b14 | 4 | 1 |  | 6 | 3 |
 
 aIncludes only patients with pretreatment clarithromycin susceptibility test results
 
-bSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 – 1.0 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL
+bSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL
 
 Patients not eradicated of H. pylori following omeprazole/clarithromycin/amoxicillin triple therapy or omeprazole/clarithromycin dual therapy will likely have clarithromycin resistant H. pylori isolates.
 Therefore, clarithromycin susceptibility testing should be done, if possible.
@@ -230,7 +235,7 @@ Eleven of the patients who failed triple therapy also had post-treatment H. pylo
 Susceptibility Test for Helicobacter pylori
 
 The reference methodology for susceptibility testing of H. pylori is agar dilution MICs1.
-One to three microliters of an inoculum equivalent to a No. 2 McFarland standard (1 x 107 - 1 x 108 CFU/mL for H. pylori) are inoculated directly onto freshly prepared antimicrobial containing Mueller-Hinton agar plates with 5% aged defibrinated sheep blood (≥ 2 weeks old).
+One to three microliters of an inoculum equivalent to a No. 2 McFarland standard (1 x 107 to 1 x 108 CFU/mL for H. pylori) are inoculated directly onto freshly prepared antimicrobial containing Mueller-Hinton agar plates with 5% aged defibrinated sheep blood (≥ 2 weeks old).
 The agar dilution plates are incubated at 35°C in a microaerobic environment produced by a gas generating system suitable for campylobacters.
 After 3 days of incubation, the MICs are recorded as the lowest concentration of antimicrobial agent required to inhibit growth of the organism.
 The clarithromycin and amoxicillin MIC values should be interpreted according to the following criteria:
@@ -247,19 +252,19 @@ Table 5
 
 aThese are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods.
 
-b There were not enough organisms with MICs > 0.25 mcg/mL to determine a resistance breakpoint.
+bThere were not enough organisms with MICs > 0.25 mcg/mL to determine a resistance breakpoint.
 
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 Standard clarithromycin and amoxicillin powders should provide the following MIC values:
 
-| Microorganism | Antimicrobial Agent | MIC (mcg/mL)a. |
+| Microorganism | Antimicrobial Agent | MIC (mcg/mL)a |
 | --- | --- | --- |
-| H. pylori ATCC 43504 | Clarithromycin | 0.016- 0.12 (mcg/mL) |
-| H. pylori ATCC 43504 | Amoxicillin | 0.016- 0.12 (mcg/mL) |
+| H. pylori ATCC 43504 | Clarithromycin | 0.016 to 0.12 (mcg/mL) |
+| H. pylori ATCC 43504 | Amoxicillin | 0.016 to 0.12 (mcg/mL) |
 
-a These are quality control ranges for the agar dilution methodology, and they should not be used to control test results obtained using alternative methods
+a These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods.
 
 Effects on Gastrointestinal Microbial Ecology
 
 Decreased gastric acidity due to any means including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
-Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter.
+Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and, in hospitalized patients, possibly Clostridium difficile.

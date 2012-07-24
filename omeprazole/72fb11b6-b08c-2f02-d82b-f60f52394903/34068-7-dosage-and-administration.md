@@ -5,12 +5,11 @@ In the clinical trials, antacids were used concomitantly with omeprazole.
 
 Patients should be informed that the omeprazole delayed-release capsule should be swallowed whole.
 
-For patients unable to swallow an intact capsule, alternative administration options are available.
-[See Dosage and Administration (2.8)]
+For patients unable to swallow an intact capsule, alternative administration options are available [See Dosage and Administration(2.8)].
 
 ## 2.1 Short-Term Treatment of Active Duodenal Ulcer
 
-The recommended adult oral dose of Omeprazole delayed-release capsules is 20 mg once daily.
+The recommended adult oral dose of omeprazole delayed-release capsules is 20 mg once daily.
 Most patients heal within four weeks.
 Some patients may require an additional four weeks of therapy.
 
@@ -20,11 +19,11 @@ Triple Therapy (omeprazole/clarithromycin/amoxicillin) — The recommended adult
 In patients with an ulcer present at the time of initiation of therapy, an additional 18 days of omeprazole delayed-release capsules 20 mg once daily is recommended for ulcer healing and symptom relief.
 
 Dual Therapy (omeprazole/clarithromycin) — The recommended adult oral regimen is omeprazole delayed-release capsuels 40 mg once daily plus clarithromycin 500 mg three times daily for 14 days.
-In patients with an ulcer present at the time of initiation of therapy, an additional 14 days ofomeprazole delayed-release capsules 20 mg once daily is recommended for ulcer healing and symptom relief.
+In patients with an ulcer present at the time of initiation of therapy, an additional 14 days of omeprazole delayed-release capsules 20 mg once daily is recommended for ulcer healing and symptom relief.
 
 ## 2.3 Gastric Ulcer
 
-The recommended adult oral dose is 40 mg once daily for 4-8 weeks.
+The recommended adult oral dose is 40 mg once daily for 4 to 8 weeks.
 
 ## 2.4 Gastroesophageal Reflux Disease (GERD)
 
@@ -34,7 +33,7 @@ The recommended adult oral dose for the treatment of patients with erosive esoph
 ## 2.5 Maintenance of Healing of Erosive Esophagitis
 
 The recommended adult oral dose is 20 mg daily.
-[See Clinical Studies (14.4)]
+[SeeClinical Studies(14.4)]
 
 ## 2.6 Pathological Hypersecretory Conditions
 
@@ -62,10 +61,15 @@ Alternative administrative options can be used for pediatric patients unable to 
 
 Omeprazole is available as a delayed-release capsule.
 
-For patients who have difficulty swallowing capsules, the contents of an omeprazole delayed-release capsules can be added to applesauce.
+For patients who have difficulty swallowing capsules, the contents of an omeprazole delayed-release capsule can be added to applesauce.
 One tablespoon of applesauce should be added to an empty bowl and the capsule should be opened.
 All of the pellets inside the capsule should be carefully emptied on the applesauce.
 The pellets should be mixed with the applesauce and then swallowed immediately with a glass of cool water to ensure complete swallowing of the pellets.
 The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
 The pellets should not be chewed or crushed.
 The pellets/applesauce mixture should not be stored for future use.
+
+## 2.9 Use with clopidogrel
+
+Avoid concomitant use of clopidogrel and omeprazole.
+Coadministration of clopidogrel with 80 mg omeprazole, a proton pump inhibitor that is an inhibitor of CYP2C19, reduces the pharmacological activity of clopidogrel if given concomitantly or if given 12 hours apart [see Warnings and Precautions (5.4) and Drug Interactions (7.3)].
