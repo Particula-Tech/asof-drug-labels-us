@@ -88,11 +88,11 @@ Plasma MPA AUC observed after oral dosing to volunteers with severe chronic rena
 In addition, the single-dose plasma MPAG AUC was 3-fold to 6-fold higher in volunteers with severe renal impairment than in volunteers with mild renal impairment or healthy volunteers, consistent with the known renal elimination of MPAG.
 No data are available on the safety of long-term exposure to this level of MPAG.
 Plasma MPA AUC observed after single-dose (1 g) intravenous dosing to volunteers (n=4) with severe chronic renal impairment (GFR <25 mL/min/1.73 m 2 ) was 62.4 mcg•h/mL (±19.3).
-Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION ).
+Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied (see PRECAUTIONS: Patients with Renal Impairment and DOSAGE AND ADMINISTRATION ).
 In patients with delayed renal graft function posttransplant, mean MPA AUC 0-12h was comparable to that seen in posttransplant patients without delayed renal graft function.
 There is a potential for a transient increase in the free fraction and concentration of plasma MPA in patients with delayed renal graft function.
 However, dose adjustment does not appear to be necessary in patients with delayed renal graft function.
-Mean plasma MPAG AUC 0-12h was 2-fold to 3-­fold higher than in posttransplant patients without delayed renal graft function (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION ).
+Mean plasma MPAG AUC 0-12h was 2-fold to 3-­fold higher than in posttransplant patients without delayed renal graft function (see PRECAUTIONS: Patients with Renal Impairment and DOSAGE AND ADMINISTRATION ).
 In 8 patients with primary graft non-function following renal transplantation, plasma concentrations of MPAG accumulated about 6-fold to 8-fold after multiple dosing for 28 days.
 Accumulation of MPA was about 1-fold to 2-fold.
 The pharmacokinetics of mycophenolate mofetil are not altered by hemodialysis.

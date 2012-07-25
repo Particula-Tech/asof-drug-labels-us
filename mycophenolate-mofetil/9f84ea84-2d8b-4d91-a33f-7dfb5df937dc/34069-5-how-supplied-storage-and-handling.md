@@ -7,4 +7,4 @@ Dispense in a tight light-resistant container, as defined in the USP with a chil
 Sandimmune is a registered trademark of Novartis Pharmaceuticals Corporation.
 ATGAM is a registered trademark of Pharmacia and Upjohn Company.
 Neoral is a registered trademark of Novartis Pharmaceuticals Corporation.
-Orthoclone OKT is a registered trademark of Ortho Biotech Inc. Maalox is a registered trademark of Novartis Consumer Health, Inc. Manufactured in India by: Alkem Laboratories Limited H.O.: ALKEM HOUSE, Senapati Bapat Marg, Lower Parel, Mumbai – 400 013, INDIA Distributed by: Ascend Laboratories, LLC, Montvale, NJ 07645 PT1261 Issued: November, 2011
+Orthoclone OKT is a registered trademark of Ortho Biotech Inc. Maalox is a registered trademark of Novartis Consumer Health, Inc. Manufactured in India by: Alkem Laboratories Limited H.O.: ALKEM HOUSE, Senapati Bapat Marg, Lower Parel, Mumbai – 400 013, INDIA Distributed by: Ascend Laboratories, LLC, Montvale, NJ 07645 PT1261-02 Revised: July, 2012

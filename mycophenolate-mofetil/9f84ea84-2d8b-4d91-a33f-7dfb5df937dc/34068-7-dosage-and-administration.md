@@ -12,6 +12,9 @@ Mycophenolate Mofetil Capsules, Tablets, and Oral Suspension The initial oral do
 Food had no effect on MPA AUC, but has been shown to decrease MPA C max by 40%.
 Therefore, it is recommended that mycophenolate mofetil be administered on an empty stomach.
 However, in stable renal transplant patients, mycophenolate mofetil may be administered with food if necessary.
+
+Patients should be instructed to take a missed dose as soon as they remember, except if it is near the next scheduled dose, and then continue to take mycophenolate mofetil at the usual times.
+
 Note: If required, mycophenolate mofetil oral suspension can be administered via a nasogastric tube with a minimum size of 8 French (minimum 1.7 mm interior diameter).
 Patients With Hepatic Impairment No dose adjustments are recommended for renal patients with severe hepatic parenchymal disease.
 However, it is not known whether dose adjustments are needed for hepatic disease with other etiologies (see CLINICAL PHARMACOLOGY: Pharmacokinetics ).
@@ -19,11 +22,11 @@ No data are available for cardiac transplant patients with severe hepatic parenc
 Geriatrics The recommended oral dose of 1 g bid for renal transplant patients, 1.5 g bid for cardiac transplant patients, and 1 g bid administered intravenously or 1.5 g bid administered orally in hepatic transplant patients is appropriate for elderly patients (see PRECAUTIONS: Geriatric Use ).
 Dosage Adjustments In renal transplant patients with severe chronic renal impairment (GFR <25 mL/min/1.73 m 2 ) outside the immediate posttransplant period, doses of mycophenolate mofetil greater than 1 g administered twice a day should be avoided.
 These patients should also be carefully observed.
-No dose adjustments are needed in renal transplant patients experiencing delayed graft function postoperatively (see CLINICAL PHARMACOLOGY: Pharmacokinetics and PRECAUTIONS: General ).
+No dose adjustments are needed in renal transplant patients experiencing delayed graft function postoperatively (see CLINICAL PHARMACOLOGY: Pharmacokinetics and PRECAUTIONS: Patients with Renal Impairment ).
 No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
 Mycophenolate mofetil may be used for cardiac or hepatic transplant patients with severe chronic renal impairment if the potential benefits outweigh the potential risks.
 If neutropenia develops (ANC <1.3 x 10 3 /mcL), dosing with mycophenolate mofetil should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see WARNINGS: Neutropenia, ADVERSE REACTIONS, and PRECAUTIONS: Laboratory Tests ).
-HANDLING AND DISPOSAL Mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits (see WARNINGS: Pregnancy ).
+HANDLING AND DISPOSAL Mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits (see Pregnancy and WARNINGS: Embryofetal Toxicity ).
 Mycophenolate mofetil tablets should not be crushed and mycophenolate mofetil capsules should not be opened or crushed.
 Avoid inhalation or direct contact with skin or mucous membranes of the powder contained in mycophenolate mofetil capsules and mycophenolate mofetil oral suspension (before or after constitution).
 If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water.

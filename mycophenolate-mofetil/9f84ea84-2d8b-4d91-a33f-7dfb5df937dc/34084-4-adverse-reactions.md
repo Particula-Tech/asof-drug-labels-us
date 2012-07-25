@@ -7,7 +7,7 @@ Geriatrics Elderly patients (≥65 years), particularly those who are receiving 
 Safety data are summarized below for all active-controlled trials in renal (2 trials), cardiac (1 trial), and hepatic (1 trial) transplant patients.
 Approximately 53% of the renal patients, 65% of the cardiac patients, and 48% of the hepatic patients have been treated for more than 1 year.
 Adverse events reported in ≥20% of patients in the mycophenolate mofetil treatment groups are presented below.
-Table 8 Adverse Events in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Allograft Rejection (Reported in ³20% of Patients in the Mycophenolate mofetil Group)
+Table 9 Adverse Events in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Allograft Rejection (Reported in ³20% of Patients in the Mycophenolate mofetil Group)
 
 |  | % | % | % | % | % | % | % |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -91,7 +91,7 @@ In pediatric patients, no other malignancies besides lymphoproliferative disorde
 Severe neutropenia (ANC <0.5 x 10 3 /mcL) developed in up to 2.0% of renal transplant patients, up to 2.8% of cardiac transplant patients and up to 3.6% of hepatic transplant patients receiving mycophenolate mofetil 3 g daily (see WARNINGS: Neutropenia, PRECAUTIONS: Laboratory Tests and DOSAGE AND ADMINISTRATION ).
 All transplant patients are at increased risk of opportunistic infections.
 The risk increases with total immunosuppressive load (see WARNINGS: Infections and WARNINGS: Latent Viral Infections ).
-Table 9 shows the incidence of opportunistic infections that occurred in the renal, cardiac, and hepatic transplant populations in the azathioprine-controlled prevention trials: Table 9 Viral and Fungal Infections in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Transplant Rejection
+Table 10 shows the incidence of opportunistic infections that occurred in the renal, cardiac, and hepatic transplant populations in the azathioprine-controlled prevention trials: Table 10 Viral and Fungal Infections in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Transplant Rejection
 
 |  | % | % | % | % | % | % | % |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -112,7 +112,7 @@ In the placebo-controlled renal transplant study, the same pattern of opportunis
 In patients receiving mycophenolate mofetil (2 g or 3 g) in controlled studies for prevention of renal, cardiac or hepatic rejection, fatal infection/sepsis occurred in approximately 2% of renal and cardiac patients and in 5% of hepatic patients (see WARNINGS: Infections ).
 In cardiac transplant patients, the overall incidence of opportunistic infections was approximately 10% higher in patients treated with mycophenolate mofetil than in those receiving azathioprine, but this difference was not associated with excess mortality due to infection/sepsis among patients treated with mycophenolate mofetil.
 The following adverse events were reported with 3% to <20% incidence in renal, cardiac, and hepatic transplant patients treated with mycophenolate mofetil, in combination with cyclosporine and corticosteroids.
-Table 10 Adverse Events Reported in 3% to <20% of Patients Treated With Mycophenolate mofetil in Combination With Cyclosporine and Corticosteroids
+Table 11 Adverse Events Reported in 3% to <20% of Patients Treated With Mycophenolate mofetil in Combination With Cyclosporine and Corticosteroids
 
 | Body System |  |
 | --- | --- |
@@ -135,7 +135,7 @@ The potential venous irritation of mycophenolate mofetil intravenous was evaluat
 Adverse events attributable to peripheral venous infusion were phlebitis and thrombosis, both observed at 4% in patients treated with mycophenolate mofetil intravenous.
 In the active controlled study in hepatic transplant patients, 2 g/day of mycophenolate mofetil intravenous were administered in the immediate posttransplant period (up to 14 days).
 The safety profile of intravenous mycophenolate mofetil was similar to that of intravenous azathioprine.
-Postmarketing Experience Congenital Disorders Congenital malformations including ear malformations have been reported in offspring of patients exposed to mycophenolate mofetil during pregnancy (see WARNINGS: Pregnancy ).
+Postmarketing Experience Congenital Disorders: Embryofetal Toxicity: Congenital malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil during pregnancy (see PRECAUTIONS: Pregnancy ).
 Digestive Colitis (sometimes caused by cytomegalovirus), pancreatitis, isolated cases of intestinal villous atrophy.
 Hematologic and Lymphatic Cases of pure red cell aplasia (PRCA) have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents.
 Infections Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally and there is evidence of a higher frequency of certain types of serious infections such as tuberculosis and atypical mycobacterial infection.
