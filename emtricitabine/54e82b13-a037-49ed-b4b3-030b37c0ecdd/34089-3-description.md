@@ -16,7 +16,7 @@ The partition coefficient (log p) for emtricitabine is -0.43 and the pKa is 2.65
 
 Tenofovir Disoproxil Fumarate: Tenofovir disoproxil fumarate is a fumaric acid salt of the bis-isopropoxycarbonyloxymethyl ester derivative of tenofovir.
 The chemical name of tenofovir disoproxil fumarate is 9-[(R)-2 [[bis[[(isopropoxycarbonyl)oxy]- methoxy]phosphinyl]methoxy]propyl]adenine fumarate (1:1).
-It has a molecular formula of C19H30N5O10P • C4H4O4 and a molecular weight of 635.52.
+It has a molecular formula of C19H30N5O10P ∙ C4H4O4 and a molecular weight of 635.52.
 It has the following structural formula:
 
 Tenofovir disoproxil fumarate is a white to off-white crystalline powder with a solubility of 13.4 mg/mL in water at 25 °C.
