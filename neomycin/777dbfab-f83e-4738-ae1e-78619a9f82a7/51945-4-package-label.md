@@ -1,6 +1,6 @@
-# CONTAINER LABELS
+# PRINCIPLE DISPLAY PANEL
 
-## 500 mg Label Text
+## Neomycin Sulfate Tablets USP 500 mg 100s Label Text
 
 NDC 0093-1177-01
 
