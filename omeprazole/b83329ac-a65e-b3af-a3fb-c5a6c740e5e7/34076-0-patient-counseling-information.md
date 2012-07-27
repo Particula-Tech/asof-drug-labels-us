@@ -22,6 +22,6 @@ APOTEX INC. OMEPRAZOLE DELAYED-RELEASE CAPSULES, USP 10 mg, 20 mg and 40 mg
 | Canada | 33326 |
 | M9L 1T9 |  |
 
-Revised: July 2011
+Revised: June 2012
 
-Revision: 13
+Revision: 14

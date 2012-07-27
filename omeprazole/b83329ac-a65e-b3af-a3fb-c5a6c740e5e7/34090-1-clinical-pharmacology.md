@@ -35,12 +35,15 @@ Range of Mean Values from Multiple Studies of the Mean Antisecretory Effects of 
 
 Single daily oral doses of omeprazole ranging from a dose of 10 mg to 40 mg have produced 100% inhibition of 24-hour intragastric acidity in some patients.
 
-Serum Gastric Effects
+Serum Gastrin Effects
 
 In studies involving more than 200 patients, serum gastrin levels increased during the first 1 to 2 weeks of once-daily administration of therapeutic doses of omeprazole in parallel with inhibition of acid secretion.
 No further increase in serum gastrin occurred with continued treatment.
 In comparison with histamine H2-receptor antagonists, the median increases produced by 20 mg doses of omeprazole were higher (1.3 to 3.6 fold vs. 1.1 to 1.8 fold increase).
 Gastrin values returned to pretreatment levels, usually within 1 to 2 weeks after discontinuation of therapy.
+
+Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors.
 
 Enterochromaffin-like (ECL) Cell Effects
 
@@ -109,7 +112,7 @@ Combination Therapy with Antimicrobials
 Omeprazole 40 mg daily was given in combination with clarithromycin 500 mg every 8 hours to healthy adult male subjects.
 The steady state plasma concentrations of omeprazole were increased (Cmax, AUC0-24, and T1/2 increases of 30%, 89% and 34% respectively) by the concomitant administration of clarithromycin.
 The observed increases in omeprazole plasma concentration were associated with the following pharmacological effects.
-The mean 24hour gastric pH value was 5.2 when omeprazole was administered alone and 5.7 when co-administered with clarithromycin.
+The mean 24-hour gastric pH value was 5.2 when omeprazole was administered alone and 5.7 when co-administered with clarithromycin.
 
 The plasma levels of clarithromycin and 14-hydroxy-clarithromycin were increased by the concomitant administration of omeprazole.
 For clarithromycin, the mean Cmax was 10% greater, the mean Cmin was 27% greater, and the mean AUC0-8 was 15% greater when clarithromycin was administered with omeprazole than when clarithromycin was administered alone.
@@ -263,4 +266,4 @@ a These are quality control ranges for the agar dilution methodology and they sh
 Effects on Gastrointestinal Microbial Ecology
 
 Decreased gastric acidity due to any means including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
-Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and possibly Clostridium difficile in hospitalized patients.
+Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter andand, in hospitalized patients, possibly also Clostridium difficile.

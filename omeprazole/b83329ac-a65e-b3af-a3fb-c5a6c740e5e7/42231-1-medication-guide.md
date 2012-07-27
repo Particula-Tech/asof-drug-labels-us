@@ -1,45 +1,45 @@
 Omeprazole Delayed-Release Capsules, USP
 
-Read the patient information that comes with Omeprazole Delayed-Release Capsules before you start taking it and each time you get a refill.
+Read the patient information that comes with omeprazole delayed-release capsules before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
 
-If you have any questions about Omeprazole Delayed-Release Capsules, ask your doctor.
+If you have any questions about omeprazole delayed-release capsules, ask your doctor.
 
 WHAT IS OMEPRAZOLE DELAYED-RELEASE CAPSULES?
 
-Omeprazole Delayed-Release Capsules is a prescription medicine called a proton pump inhibitor (PPI).
-Omeprazole Delayed-Release Capsules reduces the amount of acid in your stomach.
-Omeprazole Delayed-Release Capsules is used in adults:
+Omeprazole delayed-release capsules is a prescription medicine called a proton pump inhibitor (PPI).
+Omeprazole delayed-release capsules reduces the amount of acid in your stomach.
+Omeprazole delayed-release capsules is used in adults:
 
 - for up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).GERD is a chronic condition (lasts a long time) that occurs when acid from the stomach backs up into the esophagus (food pipe) causing symptoms, such as heartburn, or damage to the lining of the esophagus.
   Common symptoms include frequent heartburn that will not go away, a sour or bitter taste in the mouth, and difficulty swallowing.
 
 - for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE)
 - to maintain healing of the esophagus.
-  Omeprazole Delayed-Release Capsules have not been studied for treatment lasting longer than 12 months (1 year)
+  Omeprazole delayed-release capsules have not been studied for treatment lasting longer than 12 months (1 year)
 - for up to 8 weeks for healing stomach ulcers
 - for up to 8 weeks for healing ulcers in the first part of the small bowel (duodenal ulcers)
 - to treat patients with a stomach infection (Helicobacter pylori), along with the antibiotics amoxicillin and clarithromycin.
 - for lowering the amount of stomach acid in people with certain conditions which cause them to make too much acid, including those with Zollinger-Ellison Syndrome.
 
-For children and adolescents 2 to 17 years of age, Omeprazole Delayed-Release Capsules are used:
+For children and adolescents 2 to 17 years of age, omeprazole delayed-release capsules are used:
 
 - for up to 4 weeks to treat the symptoms of gastroesophageal reflux disease (GERD).
 - for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE)
 - to maintain healing of the esophagus
 
-Omeprazole Delayed-Release Capsules are not recommended for children under the age of 1 year.
+Omeprazole delayed-release capsules are not recommended for children under the age of 1 year.
 
-Omeprazole Delayed-Release Capsules may help your acid-related symptoms, but you could still have serious stomach problems.
+Omeprazole delayed-release capsules may help your acid-related symptoms, but you could still have serious stomach problems.
 Talk with your doctor.
 
 WHO SHOULD NOT TAKE OMEPRAZOLE DELAYED-RELEASE CAPSULES?
 
-Do not take Omeprazole Delayed-Release Capsules if you:
+Do not take omeprazole delayed-release capsules if you:
 
-- are allergic to any of the ingredients in Omeprazole Delayed-Release Capsules.
-  See the end of this leaflet for a complete list of ingredients in Omeprazole Delayed-Release Capsules.
+- are allergic to any of the ingredients in omeprazole delayed-release capsules.
+  See the end of this leaflet for a complete list of ingredients in omeprazole delayed-release capsules.
 - are allergic to any other Proton Pump Inhibitor (PPI) medicine.
 
 WHAT SHOULD I TELL MY DOCTOR BEFORE TAKING OMEPRAZOLE DELAYED-RELEASE CAPSULES?
@@ -49,14 +49,15 @@ Tell your doctor about all your medical conditions, including if you:
 - have been told that you have low magnesium levels in your blood
 - have liver problems
 - are pregnant or plan to become pregnant.
-  It is not known if Omeprazole Delayed-Release Capsules will harm your unborn baby.
+  It is not known if omeprazole delayed-release capsules will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
 - are breastfeeding or planning to breastfeed.
-  You and your doctor should decide if you will take Omeprazole Delayed-Release Capsules or breastfeed.
+  You and your doctor should decide if you will take omeprazole delayed-release capsules or breastfeed.
   You should not do both.
 
-Tell your doctor about all of the medicines you take including prescription and non-prescription drugs, vitamins and herbal supplements.
-Omeprazole Delayed-Release Capsules may affect how other medicines work, and other medicines may affect how Omeprazole Delayed-Release Capsules works.
+Tell your doctor about all of the medicines you take including prescription and non-prescription drugs, anti-cancer drugs, vitamins and herbal supplements.
+Omeprazole delayed-release capsules may affect how other medicines work, and other medicines may affect how omeprazole delayed-release capsules works.
+In some cases, a drug you may be taking may need to be temporarily withdrawn.
 Especially tell your doctor if you take:
 
 - atazanavir (Reyataz)
@@ -74,33 +75,37 @@ Especially tell your doctor if you take:
 - phenytoin (Dilantin)
 - disulfiram (Antabuse)
 - clopidogrel (Plavix)
+- St. John’s Wort (Hypericum perforatum)
+- rifampin
+- erlotinib
+- methotrexate
 
 HOW SHOULD I TAKE OMEPRAZOLE DELAYED-RELEASE CAPSULES?
 
-- Take Omeprazole Delayed-Release Capsules exactly as prescribed by your doctor.
-- Do not change your dose or stop Omeprazole Delayed-Release Capsules without talking to your doctor.
-- Take Omeprazole Delayed-Release Capsules at least 1 hour before a meal.
-- Swallow Omeprazole Delayed-Release Capsules whole.
-  Never chew or crush Omeprazole Delayed-Release Capsules.
-- If you have difficulty swallowing Omeprazole Delayed-Release Capsules, you may open the capsule and empty the contents into a tablespoon of applesauce.
+- Take omeprazole delayed-release capsules exactly as prescribed by your doctor.
+- Do not change your dose or stop omeprazole delayed-release capsules without talking to your doctor.
+- Take omeprazole delayed-release capsules at least 1 hour before a meal.
+- Swallow omeprazole delayed-release capsules whole.
+  Never chew or crush omeprazole delayed-release capsules.
+- If you have difficulty swallowing omeprazole delayed-release capsules, you may open the capsule and empty the contents into a tablespoon of applesauce.
   Be sure to swallow the applesauce right away.
   Do not store it for later use.
-- If you forget to take a dose of Omeprazole Delayed-Release Capsules, take it as soon as you remember.
+- If you forget to take a dose of omeprazole delayed-release capsules, take it as soon as you remember.
   If it is almost time for your next dose, do not take the missed dose.
   Take the next dose on time.
   Do not take a double dose to make up for a missed dose.
-- If you take too much Omeprazole Delayed-Release Capsules, tell your doctor right away.
+- If you take too much omeprazole delayed-release capsules, tell your doctor right away.
 
 WHAT ARE THE POSSIBLE SIDE EFFECTS OF OMEPRAZOLE DELAYED-RELEASE CAPSULES?
 
 - Serious allergic reactions.
-  Tell your doctor if you get any of the following symptoms with Omeprazole Delayed-Release Capsules.
+  Tell your doctor if you get any of the following symptoms with omeprazole delayed-release capsules.
 - rash
 - face swelling
 - throat tightness
 - difficulty breathing
 
-Your doctor may stop Omeprazole Delayed-Release Capsules if these symptoms happen.
+Your doctor may stop omeprazole delayed-release capsules if these symptoms happen.
 
 - Low magnesium levels in your body.
   This problem can be serious.
@@ -128,9 +133,9 @@ Tell your doctor right away if you have any of these symptoms:
 
 ο spasm of the voice box
 
-Your doctor may check the level of magnesium in your body before you start taking Omeprazole Delayed-Release Capsules or during treatment if you will be taking Omeprazole Delayed-Release Capsules for a long period of time.
+Your doctor may check the level of magnesium in your body before you start taking omeprazole delayed-release capsules or during treatment if you will be taking omeprazole delayed-release capsules for a long period of time.
 
-The most common side effects with Omeprazole Delayed-Release Capsules in adults and children include:
+The most common side effects with omeprazole delayed-release capsules in adults and children include:
 
 - Headache
 - Abdominal pain
@@ -144,26 +149,26 @@ The most common side effects with Omeprazole Delayed-Release Capsules in adults 
 People who are taking multiple daily doses of proton pump inhibitor medicines for a long period of time may have an increased risk of fractures of the hip, wrist or spine.
 
 Tell your doctor about any side effects that bother you or that do not go away.
-These are not all the possible side effects with Omeprazole Delayed-Release Capsules.
+These are not all the possible side effects with omeprazole delayed-release capsules.
 Talk with your doctor or pharmacist if you have any questions about side effects.
 You may report side effects to the FDA at 1-800-FDA-­1088.
 
 HOW SHOULD I STORE OMEPRAZOLE DELAYED-RELEASE CAPSULES?
 
-Store Omeprazole Delayed-Release Capsules at room temperature between 68°F to 77°F (20°C to 25°C).
+Store omeprazole delayed-release capsules at room temperature between 68°F to 77°F (20°C to 25°C).
 
-Keep the container of Omeprazole Delayed-Release Capsules closed tightly.
+Keep the container of omeprazole delayed-release capsules closed tightly.
 
-Keep Omeprazole Delayed-Release Capsules and all medicines out of the reach of children.
+Keep omeprazole delayed-release capsules and all medicines out of the reach of children.
 
 GENERAL ADVICE
 
 Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet.
-Do not use Omeprazole Delayed-Release Capsules for a condition for which it was not prescribed.
-Do not give Omeprazole Delayed-Release Capsules to other people, even if they have the same symptoms you have.
+Do not use omeprazole delayed-release capsules for a condition for which it was not prescribed.
+Do not give omeprazole delayed-release capsules to other people, even if they have the same symptoms you have.
 It may harm them.
 
-This Patient Information leaflet provides a summary of the most important information about Omeprazole Delayed-Release Capsules.
+This Patient Information leaflet provides a summary of the most important information about omeprazole delayed-release capsules.
 For more information, ask your doctor.
 You can ask your doctor or pharmacist for information that is written for healthcare professionals.
 For more information contact Apotex Corp., Drug Safety at 1-800-667-4708.
@@ -190,4 +195,4 @@ The capsule imprinting ink contains ammonium hydroxide, black iron oxide, ethyl 
 | Canada | 33326 |
 | M9L 1T9 |  |
 
-July 2011
+June 2012

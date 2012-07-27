@@ -6,7 +6,7 @@ Omeprazole delayed-release capsules are indicated for short-term treatment of ac
 Most patients heal within four weeks.
 Some patients may require an additional four weeks of therapy.
 
-Omeprazole delayed-release capsules, in combination with clarithromycin and amoxicillin, are indicated for treatment of patients with H. pylori infection and duodenal ulcer disease (active or up to 1 year history) to eradicate H. pylori in adults.
+Omeprazole delayed-release capsules, in combination with clarithromycin and amoxicillin, are indicated for treatment of patients with H. pylori infection and duodenal ulcer disease (active or up to 1-year history) to eradicate H. pylori in adults.
 
 Omeprazole delayed-release capsules, in combination with clarithromycin are indicated for treatment of patients with H. pylori infection and duodenal ulcer disease to eradicate H. pylori in adults.
 
