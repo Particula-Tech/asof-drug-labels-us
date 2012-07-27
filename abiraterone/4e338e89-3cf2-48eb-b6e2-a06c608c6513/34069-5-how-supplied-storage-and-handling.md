@@ -7,7 +7,7 @@ NDC Number 57894-150-12
 
 Storage and Handling
 
-Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP controlled room temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted in the range from 15°C to 30°C (59°F to 86°F) [see USP controlled room temperature].
 
 Based on its mechanism of action, ZYTIGA may harm a developing fetus.
 Therefore, women who are pregnant or women who may be pregnant should not handle ZYTIGA without protection, e.g., gloves [see Use in Specific Populations (8.1)].

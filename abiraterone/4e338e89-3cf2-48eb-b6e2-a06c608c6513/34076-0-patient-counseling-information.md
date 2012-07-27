@@ -5,7 +5,7 @@ See FDA-approved patient labeling (Patient Information)
 - Patients should be informed that ZYTIGA and prednisone are used together and that they should not interrupt or stop either of these medications without consulting their physician.
 - Patients receiving GnRH agonists should be informed that they need to maintain this treatment during the course of treatment with ZYTIGA and prednisone.
 - Patients should be informed that ZYTIGA must not be taken with food and that no food should be consumed for at least two hours before the dose of ZYTIGA is taken and for at least one hour after the dose of ZYTIGA is taken.
-  They should be informed that the tablets should be swallowed whole with water.
+  They should be informed that the tablets should be swallowed whole with water without crushing or chewing.
   Patients should be informed that taking ZYTIGA with food causes increased exposure and this may result in adverse reactions.
 - Patients should be informed that ZYTIGA is taken once daily and prednisone is taken twice daily according to their physician's instructions.
 - Patients should be informed that in the event of a missed daily dose of ZYTIGA or prednisone, they should take their normal dose the following day.

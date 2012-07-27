@@ -6,6 +6,7 @@ The recommended dose of ZYTIGA is 1,000 mg (four 250 mg tablets) administered or
 ZYTIGA must be taken on an empty stomach.
 No food should be consumed for at least two hours before the dose of ZYTIGA is taken and for at least one hour after the dose of ZYTIGA is taken [see Clinical Pharmacology (12.3)].
 The tablets should be swallowed whole with water.
+Do not crush or chew tablets.
 
 ## 2.2 Dose Modification Guidelines
 

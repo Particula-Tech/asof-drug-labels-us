@@ -24,7 +24,8 @@ Before you take ZYTIGA, tell your healthcare provider if you:
 
 - have heart problems
 - have liver problems
-- have a history of adrenal and/or pituitary problems
+- have a history of adrenal problems
+- have a history of pituitary problems
 - have any other medical conditions
 - plan to become pregnant.
   See "Who should not take ZYTIGA?"
@@ -45,7 +46,7 @@ Keep a list of them with you to show to your healthcare provider and pharmacist 
 How should I take ZYTIGA?
 
 - Take ZYTIGA and prednisone exactly as your healthcare provider tells you.
-- The usual dose of ZYTIGA is four tablets taken once daily.
+- Take your prescribed dose of ZYTIGA one time a day.
 - Your healthcare provider may change your dose if needed.
 - Do not stop taking your prescribed dose of ZYTIGA or prednisone without talking with your healthcare provider first.
 - Take ZYTIGA on an empty stomach.
@@ -53,6 +54,7 @@ How should I take ZYTIGA?
   Taking ZYTIGA with food may cause more of the medicine to be absorbed by the body than is needed and this may cause side effects.
 - No food should be eaten 2 hours before and 1 hour after taking ZYTIGA.
 - Swallow ZYTIGA tablets whole.
+  Do not crush or chew tablets.
 - Take ZYTIGA tablets with water.
 - Men who are sexually active with a pregnant woman must use a condom during and for one week after treatment with ZYTIGA.
   If their sexual partner may become pregnant, a condom and another form of birth control must be used during and for one week after treatment with ZYTIGA.
@@ -121,4 +123,6 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured by: Patheon Inc. Mississauga, Canada Manufactured for: Janssen Biotech, Inc. Horsham, PA 19044
 
-Issued: May 2012
+©Janssen Biotech, Inc. 2012
+
+Revised:July 2012
