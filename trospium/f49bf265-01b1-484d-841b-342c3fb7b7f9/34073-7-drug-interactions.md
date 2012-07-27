@@ -1,0 +1,20 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Digoxin
+
+Concomitant use of SANCTURA® and digoxin did not affect the pharmacokinetics of either drug [see Clinical Pharmacology (12.3)].
+
+## 7.2 Drugs Eliminated by Active Tubular Secretion
+
+Although demonstrated in a drug-drug interaction study not to affect the pharmacokinetics of digoxin, SANCTURA® has the potential for pharmacokinetic interactions with other drugs that are eliminated by active tubular secretion (e.g., procainamide, pancuronium, morphine, vancomycin, and tenofovir).
+Coadministration of SANCTURA® with these drugs may increase the serum concentration of SANCTURA® and/or the coadministered drug due to competition for this elimination pathway.
+Careful patient monitoring is recommended in patients receiving such drugs [see Clinical Pharmacology (12.3)].
+
+## 7.3 Antimuscarinic Agents
+
+The concomitant use of SANCTURA® with other antimuscarinic agents that produce dry mouth, constipation, and other anticholinergic pharmacological effects may increase the frequency and/or severity of such effects.
+SANCTURA® may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility.
+
+## 7.4 Metformin
+
+Co-administration of 500 mg metformin immediate release tablets twice daily with SANCTURA XR® (trospium chloride 60 mg extended release) reduced the steady-state systemic exposure of trospium by approximately 29% for mean AUC0-24 and by 34% for mean Cmax [see Clinical Pharmacology (12.3)].
