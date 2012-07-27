@@ -1,10 +1,10 @@
 # PRINCIPAL DISPLAY PANEL
 
-## Mycophenolate Mofetil Capsules 250 mg 500s Label Text
+## Mycophenolate Mofetil Capsules USP 250 mg 500s Label Text
 
 NDC 0093-7334-05
 
-MYCOPHENOLATE MOFETIL Capsules 250 mg
+MYCOPHENOLATE MOFETIL Capsules USP 250 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -16,11 +16,11 @@ TEVA
 
 # PRINCIPAL DISPLAY PANEL
 
-## Mycophenolate Mofetil Tablets 500 mg 500s Label Text
+## Mycophenolate Mofetil Tablets USP 500 mg 500s Label Text
 
 NDC 0093-7477-05
 
-MYCOPHENOLATE MOFETIL Tablets 500 mg
+MYCOPHENOLATE MOFETIL Tablets USP 500 mg
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 

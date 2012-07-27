@@ -2,6 +2,30 @@
 
 (See boxed WARNING.)
 
+## Embryofetal Toxicity
+
+Mycophenolate mofetil (MMF) can cause fetal harm when administered to a pregnant
+
+female.
+Use of MMF during pregnancy is associated with an increased risk of first
+
+trimester pregnancy loss and an increased risk of congenital malformations, especially
+
+external ear and other facial abnormalities including cleft lip and palate, and anomalies of
+
+the distal limbs, heart, esophagus, and kidney (see PRECAUTIONS, Pregnancy).
+
+## Pregnancy Exposure Prevention and Planning
+
+Females of reproductive potential must be made aware of the increased risk of first
+
+trimester pregnancy loss and congenital malformations and must be counseled regarding
+
+pregnancy prevention and planning.
+For recommended pregnancy testing and
+
+contraception methods (see PRECAUTIONS, Pregnancy Exposure Prevention and Planning).
+
 ## Lymphoma and Malignancy
 
 Patients receiving immunosuppressive regimens involving combinations of drugs, including mycophenolate mofetil, as part of an immunosuppressive regimen are at increased risk of developing lymphomas and other malignancies, particularly of the skin (see ADVERSE REACTIONS).
@@ -15,7 +39,7 @@ In pediatric patients, no other malignancies besides lymphoproliferative disorde
 
 ## Combination With Other Immunosuppressive Agents
 
-Mycophenolate mofetil has been administered in combination with the following agents in clinical trials: antithymocyte globulin, OKT3, cyclosporine, and corticosteroids.
+Mycophenolate mofetil has been administered in combination with the following agents in clinical trials: antithymocyte globulin (ATGAM®), OKT3 (Orthoclone OKT® 3), cyclosporine (Sandimmune®, Neoral®) and corticosteroids.
 The efficacy and safety of the use of mycophenolate mofetil in combination with other immunosuppressive agents have not been determined.
 
 ## Infections
@@ -39,41 +63,6 @@ BKVAN is associated with serious outcomes, including deteriorating renal functio
 Patient monitoring may help detect patients at risk for BK virus-associated nephropathy.
 Reduction in immunosuppression should be considered for patients who develop evidence of BK virus-associated nephropathy.
 
-## Pregnancy
-
-### Teratogenic Effects
-
-#### Pregnancy category D
-
-Mycophenolate mofetil (MMF) can cause fetal harm when administered to a pregnant woman.
-Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, and kidney.
-In the National Transplantation Pregnancy Registry (NTPR), there were data on 33 MMF-exposed pregnancies in 24 transplant patients; there were 15 spontaneous abortions (45%) and 18 live-born infants.
-Four of these 18 infants had structural malformations (22%).
-In postmarketing data (collected 1995 to 2007) on 77 women exposed to systemic MMF during pregnancy, 25 had spontaneous abortions and 14 had a malformed infant or fetus.
-Six of 14 malformed offspring had ear abnormalities.
-Because these postmarketing data are reported voluntarily, it is not always possible to reliably estimate the frequency of particular adverse outcomes.
-These malformations seen in offspring were similar to findings in animal reproductive toxicology studies.
-For comparison, the background rate for congenital anomalies in the United States is about 3%, and NTPR data show a rate of 4 to 5% among babies born to organ transplant patients using other immunosuppressive drugs.
-
-In animal reproductive toxicology studies, there were increased rates of fetal resorptions and malformations in the absence of maternal toxicity.
-Female rats and rabbits received mycophenolate mofetil (MMF) doses equivalent to 0.02 to 0.9 times the recommended human dose for renal and cardiac transplant patients, based on body surface area conversions.
-In rat offspring, malformations included anophthalmia, agnathia, and hydrocephaly.
-In rabbit offspring, malformations included ectopia cordis, ectopic kidneys, diaphragmatic hernia, and umbilical hernia.
-
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
-In certain situations, the patient and her healthcare practitioner may decide that the maternal benefits outweigh the risks to the fetus.
-Women using mycophenolate mofetil capsules or mycophenolate mofetil tablets at any time during pregnancy should be encouraged to enroll in the National Transplantation Pregnancy Registry.
-
-## Pregnancy Exposure Prevention
-
-Women of childbearing potential should have a negative serum or urine pregnancy test with a sensitivity of at least 25 mIU/mL within 1 week prior to beginning therapy.
-Mycophenolate mofetil therapy should not be initiated until a negative pregnancy test report is obtained.
-
-Women of childbearing potential (including pubertal girls and peri-menopausal women) taking mycophenolate mofetil must receive contraceptive counseling and use effective contraception.
-The patient should begin using her two chosen methods of contraception 4 weeks prior to starting mycophenolate mofetil therapy, unless abstinence is the chosen method.
-She should continue contraceptive use during therapy and for 6 weeks after stopping mycophenolate mofetil.
-Patients should be aware that mycophenolate mofetil reduces blood levels of the hormones in the oral contraceptive pill and could theoretically reduce its effectiveness (see PRECAUTIONS, Information for Patients and Drug Interactions, Oral Contraceptives).
-
 ## Neutropenia
 
 Severe neutropenia [absolute neutrophil count (ANC) < 0.5 x 103/µL] developed in up to 2.0% of renal, up to 2.8% of cardiac, and up to 3.6% of hepatic transplant patients receiving mycophenolate mofetil 3 g daily (see ADVERSE REACTIONS).
@@ -93,7 +82,73 @@ In transplant patients, however, reduced immunosuppression may place the graft a
 
 # PRECAUTIONS
 
-## General
+## Pregnancy Exposure Prevention and Planning
+
+Females of reproductive potential must be made aware of the increased risk of first
+
+trimester pregnancy loss and congenital malformations and must be counseled regarding
+
+pregnancy prevention and planning.
+
+Females of reproductive potential include girls who have entered puberty and all women
+
+who have a uterus and have not passed through menopause.
+Menopause is the permanent
+
+end of menstruation and fertility.
+Menopause should be clinically confirmed by a
+
+patient’s healthcare practitioner.
+Some commonly used diagnostic criteria include 1) 12
+
+months of spontaneous amenorrhea (not amenorrhea induced by a medical condition or
+
+medical therapy) or 2) postsurgical from a bilateral oophorectomy.
+
+### Pregnancy Testing
+
+To prevent unplanned exposure during pregnancy, females of reproductive potential should have a serum or urine pregnancy test with a sensitivity of at least 25 mIU/mL immediately before starting mycophenolate mofetil.
+Another pregnancy test with the same sensitivity should be done 8 to 10 days later.
+Repeat pregnancy tests should be performed during routine follow-up visits.
+Results of all pregnancy tests should be discussed with the patient.
+
+In the event of a positive pregnancy test, females should be counseled with regard to whether the maternal benefits of mycophenolate treatment may outweigh the risks to the fetus in certain situations.
+
+### Contraception
+
+Females of reproductive potential taking mycophenolate mofetil must receive contraceptive counseling and use acceptable contraception (see Table 8 for acceptable contraception methods).
+
+Patients must use acceptable birth control during entire mycophenolate mofetil therapy, and for 6 weeks after stopping mycophenolate mofetil, unless the patient chooses abstinence (she chooses to avoid heterosexual intercourse completely).
+
+Patients should be aware that mycophenolate mofetil reduces blood levels of the hormones in the oral contraceptive pill and could theoretically reduce its effectiveness (see PRECAUTIONS,
+
+Information for Patientsand PRECAUTIONS, Drug Interactions,
+
+Oral Contraceptives).
+
+Table 8: Acceptable Contraception Methods for Females of Reproductive Potential Pick from the following birth control options:
+
+| Option 1 Methods toUse Alone | Intrauterine devices (IUDs)Tubal sterilizationPatient's partner had a vasectomy |
+| --- | --- |
+
+OR
+
+| Option 2 | Hormone MethodsChoose 1 |  | Barrier MethodsChoose 1 |
+| --- | --- | --- | --- |
+| Choose OneHormoneMethod ANDOne BarrierMethod | Estrogen and Progesterone Oral Contraceptive PillTransdermal patchVaginal ring Progesterone-only Injection Implant | AND | Diaphragm with spermicideCervical cap with spermicideContraceptive spongeMale condomFemale condom |
+
+OR
+
+| Option 3 | Barrier MethodsChoose 1 |  | Barrier MethodsChoose 1 |
+| --- | --- | --- | --- |
+| Choose One BarrierMethod from each column(must choose two methods) | Diaphragm with spermicideCervical cap with spermicideContraceptive sponge | AND | Male condomFemale condom |
+
+### Pregnancy Planning
+
+For patients who are considering pregnancy, consider alternative immunosuppressants with less potential for embryofetal toxicity.
+Risks and benefits of mycophenolate mofetil should be discussed with the patient.
+
+## Gastrointestinal Disorders
 
 Gastrointestinal bleeding (requiring hospitalization) has been observed in approximately 3% of renal, in 1.7% of cardiac, and in 5.4% of hepatic transplant patients treated with mycophenolate mofetil 3 g daily.
 In pediatric renal transplant patients, 5/148 cases of gastrointestinal bleeding (requiring hospitalization) were observed.
@@ -103,42 +158,61 @@ Most patients receiving mycophenolate mofetil were also receiving other drugs kn
 Patients with active peptic ulcer disease were excluded from enrollment in studies with mycophenolate mofetil.
 Because mycophenolate mofetil has been associated with an increased incidence of digestive system adverse events, including infrequent cases of gastrointestinal tract ulceration, hemorrhage, and perforation, mycophenolate mofetil should be administered with caution in patients with active serious digestive system disease.
 
+## Patients With Renal Impairment
+
 Subjects with severe chronic renal impairment (GFR < 25 mL/min/1.73 m2) who have received single doses of mycophenolate mofetil showed higher plasma MPA and MPAG AUCs relative to subjects with lesser degrees of renal impairment or normal healthy volunteers.
 No data are available on the safety of long-term exposure to these levels of MPAG.
-Doses of mycophenolate mofetil greater than 1 g administered twice a day to renal transplant patients should be avoided and they should be carefully observed (see CLINICAL PHARMACOLOGY, Pharmacokinetics and DOSAGE AND ADMINISTRATION).
+Doses of mycophenolate mofetil greater than 1 g administered twice a day to renal transplant patients should be avoided and they should be carefully observed (see CLINICAL PHARMACOLOGY, Pharmacokineticsand DOSAGE AND ADMINISTRATION).
 
 No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
 Mycophenolate mofetil may be used for cardiac or hepatic transplant patients with severe chronic renal impairment if the potential benefits outweigh the potential risks.
 
-In patients with delayed renal graft function posttransplant, mean MPA AUC(0-12h) was comparable, but MPAG AUC(0-12h) was 2 fold to 3 fold higher, compared to that seen in posttransplant patients without delayed renal graft function.
+In patients with delayed renal graft function posttransplant, mean MPA AUC(0 to12h) was comparable, but MPAG AUC(0 to12h) was 2 fold to 3 fold higher, compared to that seen in posttransplant patients without delayed renal graft function.
 In the three controlled studies of prevention of renal rejection, there were 298 of 1483 patients (20%) with delayed graft function.
 Although patients with delayed graft function have a higher incidence of certain adverse events (anemia, thrombocytopenia, hyperkalemia) than patients without delayed graft function, these events were not more frequent in patients receiving mycophenolate mofetil than azathioprine or placebo.
-No dose adjustment is recommended for these patients; however, they should be carefully observed (see CLINICAL PHARMACOLOGY, Pharmacokinetics and DOSAGE AND ADMINISTRATION).
+No dose adjustment is recommended for these patients; however, they should be carefully observed (see CLINICAL PHARMACOLOGY, Pharmacokineticsand DOSAGE AND ADMINISTRATION).
+
+## Infections in Cardiac Transplant Patients
 
 In cardiac transplant patients, the overall incidence of opportunistic infections was approximately 10% higher in patients treated with mycophenolate mofetil than in those receiving azathioprine therapy, but this difference was not associated with excess mortality due to infection/sepsis among patients treated with mycophenolate mofetil (see ADVERSE REACTIONS).
 
 There were more herpes virus (H. simplex, H. zoster, and cytomegalovirus) infections in cardiac transplant patients treated with mycophenolate mofetil compared to those treated with azathioprine (see ADVERSE REACTIONS).
 
+## Concomitant Medications
+
 It is recommended that mycophenolate mofetil not be administered concomitantly with azathioprine because both have the potential to cause bone marrow suppression and such concomitant administration has not been studied clinically.
 
 In view of the significant reduction in the AUC of MPA by cholestyramine, caution should be used in the concomitant administration of mycophenolate mofetil with drugs that interfere with enterohepatic recirculation because of the potential to reduce the efficacy of mycophenolate mofetil (see PRECAUTIONS, Drug Interactions).
 
+## Patients With HGPRT Deficiency
+
 On theoretical grounds, because mycophenolate mofetil is an IMPDH (inosine monophosphate dehydrogenase) inhibitor, it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
+
+## Immunizations
 
 During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided and patients should be advised that vaccinations may be less effective (see PRECAUTIONS, Drug Interactions, Live Vaccines).
 
+## Phenylketonurics
+
+Mycophenolate mofetil oral suspension contains aspartame, a source of phenylalanine (0.56 mg phenylalanine/mL suspension).
+Therefore, care should be taken if mycophenolate mofetil oral suspension is administered to patients with phenylketonuria.
+
 ## Information for Patients
 
+- See Medication Guide
+- Inform females of reproductive potential that use of mycophenolate mofetil during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, and advise them as to the appropriate steps to manage these risks, including that they must use acceptable contraception (see WARNINGS, Embryofetal Toxicity; PRECAUTIONS, Pregnancy Exposure Prevention and Planning).
+- Discuss pregnancy testing, pregnancy prevention and planning with females of reproductive potential.
+  In the event of a positive pregnancy test, females should be counseled with regard to whether the maternal benefits of mycophenolate treatment may outweigh the risks to the fetus in certain situations.
+- Females of reproductive potential must use acceptable birth control during entire mycophenolate mofetil therapy and for 6 weeks after stopping mycophenolate mofetil, unless the patient chooses to avoid heterosexual intercourse completely (abstinence) (see PRECAUTIONS, Pregnancy Exposure Prevention and Planning, Table 8).
+- For patients who are considering pregnancy, discuss appropriate alternative immunosuppressants with less potential for embryofetal toxicity.
+  Risks and benefits of mycophenolate mofetil should be discussed with the patient.
 - Give patients complete dosage instructions and inform them about the increased risk of lymphoproliferative disease and certain other malignancies.
 - Inform patients that they need repeated appropriate laboratory tests while they are taking mycophenolate mofetil.
-- Inform women of childbearing potential that use of mycophenolate mofetil in pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of birth defects, and that they must use effective contraception.
-- Discuss pregnancy plans with female patients of childbearing potential.
-  - Any female of childbearing potential must use highly effective (two methods) contraception 4 weeks prior to starting mycophenolate mofetil therapy and continue contraception until 6 weeks after stopping mycophenolate mofetil treatment, unless abstinence is the chosen method (see WARNINGS, Pregnancy).
-  - A patient who is planning a pregnancy should not use mycophenolate mofetil unless she cannot be successfully treated with other immunosuppressant drugs.
+- Advise patients that they should not breastfeed during mycophenolate mofetil therapy.
 
 ## Laboratory Tests
 
-Complete blood counts should be performed weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year (see WARNINGS, ADVERSE REACTIONS, and DOSAGE AND ADMINISTRATION).
+Complete blood counts should be performed weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year (see WARNINGS, ADVERSE REACTIONS, andDOSAGE AND ADMINISTRATION).
 
 ## Drug Interactions
 
@@ -158,6 +232,13 @@ Absorption of a single dose of mycophenolate mofetil (2 g) was decreased when ad
 The Cmax and AUC(0-24h) for MPA were 33% and 17% lower, respectively, than when mycophenolate mofetil was administered alone under fasting conditions.
 Mycophenolate mofetil may be administered to patients who are also taking antacids containing magnesium and aluminum hydroxides; however, it is recommended that mycophenolate mofetil and the antacid not be administered simultaneously.
 
+### Proton Pump Inhibitors (PPIs)
+
+Coadministration of PPIs (e.g., lansoprazole, pantoprazole) in single doses to healthy volunteers and multiple doses to transplant patients receiving mycophenolate mofetil has been reported to reduce the exposure to mycophenolic acid (MPA).
+An approximate reduction of 30 to 70% in the Cmax and 25% to 35% in the AUC of MPA has been observed, possibly due to a decrease in MPA solubility at an increased gastric pH.
+The clinical impact of reduced MPA exposure on organ rejection has not been established in transplant patients receiving PPIs and mycophenolate mofetil.
+Because clinical relevance has not been established, PPIs should be used with caution when coadministered to transplant patients being treated with mycophenolate mofetil.
+
 ### Cholestyramine
 
 Following single-dose administration of 1.5 g mycophenolate mofetil to 12 healthy volunteers pretreated with 4 g tid of cholestyramine for 4 days, MPA AUC decreased approximately 40%.
@@ -167,7 +248,7 @@ Therefore, mycophenolate mofetil is not recommended to be given with cholestyram
 
 ### Cyclosporine
 
-Cyclosporine pharmacokinetics (at doses of 275 to 415 mg/day) were unaffected by single and multiple doses of 1.5 g bid of mycophenolate mofetil in 10 stable renal transplant patients.
+Cyclosporine (Sandimmune®) pharmacokinetics (at doses of 275 to 415 mg/day) were unaffected by single and multiple doses of 1.5 g bid of mycophenolate mofetil in 10 stable renal transplant patients.
 The mean (± SD) AUC(0-12h) and Cmax of cyclosporine after 14 days of multiple doses of mycophenolate mofetil were 3290 (± 822) ng•h/mL and 753 (± 161) ng/mL, respectively, compared to 3245 (± 1088) ng•h/mL and 700 (± 246) ng/mL, respectively, 1 week before administration of mycophenolate mofetil.
 
 In renal transplant patients, mean MPA exposure (AUC0-12h) was approximately 30 to 50% greater when mycophenolate mofetil is administered without cyclosporine compared with when mycophenolate mofetil is coadministered with cyclosporine.
@@ -177,7 +258,7 @@ This information should be taken into consideration when MMF is used without cyc
 ### Ganciclovir
 
 Following single-dose administration to 12 stable renal transplant patients, no pharmacokinetic interaction was observed between mycophenolate mofetil (1.5 g) and intravenous ganciclovir (5 mg/kg).
-Mean (± SD) ganciclovir AUC and Cmax (n = 10) were 54.3 (± 19.0) mcg•h/mL and 11.5 (± 1.8) mcg/mL, respectively, after coadministration of the two drugs, compared to 51.0 (± 17.0) mcg•h/mL and 10.6 (± 2.0) mcg/mL, respectively, after administration of intravenous ganciclovir alone.
+Mean (± SD) ganciclovir AUC and Cmax (n = 10) were 54.3 (± 19) mcg•h/mL and 11.5 (± 1.8) mcg/mL, respectively, after coadministration of the two drugs, compared to 51 (± 17) mcg•h/mL and 10.6 (± 2) mcg/mL, respectively, after administration of intravenous ganciclovir alone.
 The mean (± SD) AUC and Cmax of MPA (n = 12) after coadministration were 80.9 (± 21.6) mcg•h/mL and 27.8 (± 13.9) mcg/mL, respectively, compared to values of 80.3 (± 16.4) mcg•h/mL and 30.9 (± 11.2) mcg/mL, respectively, after administration of mycophenolate mofetil alone.
 Because MPAG plasma concentrations are increased in the presence of renal impairment, as are ganciclovir concentrations, the two drugs will compete for tubular secretion and thus further increases in concentrations of both drugs may occur.
 In patients with renal impairment in which MMF and ganciclovir or its prodrug (e.g., valganciclovir) are coadministered, patients should be monitored carefully.
@@ -189,7 +270,7 @@ Mean AUC(0-24h) was similar for ethinylestradiol and 3-keto desogestrel; however
 There was large inter-patient variability (% CV in the range of 60% to 70%) in the data, especially for ethinylestradiol.
 Mean serum levels of LH, FSH and progesterone were not significantly affected.
 Mycophenolate mofetil may not have any influence on the ovulation-suppressing action of the studied oral contraceptives.
-However, it is recommended that oral contraceptives are coadministered with mycophenolate mofetil with caution and additional birth control methods be considered (see WARNINGS, Pregnancy).
+It is recommended to coadminister mycophenolate mofetil with hormonal contraceptives (e.g., birth control pill, transdermal patch, vaginal ring, injection, and implant) with caution and additional barrier contraceptive methods must be used (see PRECAUTIONS, Pregnancy Exposure Prevention and Planning).
 
 ### Sevelamer
 
@@ -200,7 +281,7 @@ Alternatively, it is recommended that sevelamer and other calcium free phosphate
 ### Trimethoprim/Sulfamethoxazole
 
 Following single-dose administration of mycophenolate mofetil (1.5 g) to 12 healthy male volunteers on day 8 of a 10 day course of trimethoprim 160 mg/sulfamethoxazole 800 mg administered bid, no effect on the bioavailability of MPA was observed.
-The mean (± SD) AUC and Cmax of MPA after concomitant administration were 75.2 (± 19.8) mcg•h/mL and 34.0 (± 6.6) mcg/mL, respectively, compared to 79.2 (± 27.9) mcg•h/mL and 34.2 (± 10.7) mcg/mL, respectively, after administration of mycophenolate mofetil alone.
+The mean (± SD) AUC and Cmax of MPA after concomitant administration were 75.2 (± 19.8) mcg•h/mL and 34 (± 6.6) mcg/mL, respectively, compared to 79.2 (± 27.9) mcg•h/mL and 34.2 (± 10.7) mcg/mL, respectively, after administration of mycophenolate mofetil alone.
 
 ### Norfloxacin and Metronidazole
 
@@ -233,7 +314,7 @@ Interference of MPAG hydrolysis may lead to less MPA available for absorption.
 
 ### Live Vaccines
 
-During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided and patients should be advised that vaccinations may be less effective (see PRECAUTIONS, General).
+During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided and patients should be advised that vaccinations may be less effective (see PRECAUTIONS,Immunizations).
 Influenza vaccination may be of value.
 Prescribers should refer to national guidelines for influenza vaccination.
 
@@ -259,9 +340,33 @@ No effects on fertility or reproductive parameters were evident in the dams or i
 
 ### Teratogenic Effects
 
-#### Pregnancy category D
+#### Pregnancy Category D.
 
 See WARNINGS section.
+
+Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, and kidney.
+In animal studies, congenital malformations and pregnancy loss occurred when pregnant rats and rabbits received mycophenolic acid at dose multiples similar to and less than clinical doses.
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+
+Risks and benefits of mycophenolate mofetil should be discussed with the patient.
+When appropriate, consider alternative immunosuppressants with less potential for embryofetal toxicity.
+In certain situations, the patient and her healthcare practitioner may decide that the maternal benefits outweigh the risks to the fetus.
+For those females using mycophenolate mofetil at any time during pregnancy and those becoming pregnant within 6 weeks of discontinuing therapy, the healthcare practitioner should report the pregnancy to the Mycophenolate Pregnancy Registry (1-800-617-8191).
+The healthcare practitioner should strongly encourage the patient to enroll in the pregnancy registry.
+The information provided to the registry will help the healthcare community better understand the effects of mycophenolate in pregnancy.
+
+In the National Transplantation Pregnancy Registry (NTPR), there were data on 33 MMF-exposed pregnancies in 24 transplant patients; there were 15 spontaneous abortions (45%) and 18 live-born infants.
+Four of these 18 infants had structural malformations (22%).
+In postmarketing data (collected 1995 to 2007) on 77 females exposed to systemic MMF during pregnancy, 25 had spontaneous abortions and 14 had a malformed infant or fetus.
+Six of 14 malformed offspring had ear abnormalities.
+Because these postmarketing data are reported voluntarily, it is not always possible to reliably estimate the frequency of particular adverse outcomes.
+These malformations are similar to findings in animal reproductive toxicology studies.
+For comparison, the background rate for congenital anomalies in the United States is about 3%, and NTPR data show a rate of 4 to 5% among babies born to organ transplant patients using other immunosuppressive drugs.
+
+In animal reproductive toxicology studies, there were increased rates of fetal resorptions and malformations in the absence of maternal toxicity.
+Female rats and rabbits received mycophenolate mofetil (MMF) doses equivalent to 0.02 to 0.9 times the recommended human dose for renal and cardiac transplant patients, based on body surface area conversions.
+In rat offspring, malformations included anophthalmia, agnathia, and hydrocephaly.
+In rabbit offspring, malformations included ectopia cordis, ectopic kidneys, diaphragmatic hernia, and umbilical hernia.
 
 ## Nursing Mothers
 
@@ -272,7 +377,7 @@ Because many drugs are excreted in human milk, and because of the potential for 
 ## Pediatric Use
 
 Based on pharmacokinetic and safety data in pediatric patients after renal transplantation, the recommended dose of mycophenolate mofetil oral suspension is 600 mg/m2 bid (up to a maximum of 1 g bid).
-Also see CLINICAL PHARMACOLOGY, CLINICAL STUDIES, ADVERSE REACTIONS, and DOSAGE AND ADMINISTRATION.
+Also see CLINICAL PHARMACOLOGY, CLINICAL STUDIES, ADVERSE REACTIONS, andDOSAGE AND ADMINISTRATION.
 
 Safety and effectiveness in pediatric patients receiving allogeneic cardiac or hepatic transplants have not been established.
 

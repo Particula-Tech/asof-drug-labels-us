@@ -35,7 +35,7 @@ However, MPA Cmax was decreased by 40% in the presence of food (see DOSAGE AND A
 
 ### Distribution
 
-The mean (± SD) apparent volume of distribution of MPA in 12 healthy volunteers is approximately 3.6 (± 1.5) and 4.0 (± 1.2) L/kg following intravenous and oral administration, respectively.
+The mean (± SD) apparent volume of distribution of MPA in 12 healthy volunteers is approximately 3.6 (± 1.5) and 4 (± 1.2) L/kg following intravenous and oral administration, respectively.
 MPA, at clinically relevant concentrations, is 97% bound to plasma albumin.
 MPAG is 82% bound to plasma albumin at MPAG concentration ranges that are normally seen in stable renal transplant patients; however, at higher MPAG concentrations (observed in patients with renal impairment or delayed renal graft function), the binding of MPA may be reduced as a result of competition between MPAG and MPA for protein binding.
 Mean blood to plasma ratio of radioactivity concentrations was approximately 0.6 indicating that MPA and MPAG do not extensively distribute into the cellular fractions of blood.
@@ -83,16 +83,16 @@ Table 1: Pharmacokinetic Parameters for MPA [Mean (± SD)] Following Administrat
 | --- | --- | --- | --- | --- |
 | Healthy Volunteers (single dose) | 1 g/oral | 0.80 (± 0.36) (n = 129) | 24.5 (± 9.5) (n = 129) | 63.9 (± 16.2) (n = 117) |
 | Renal Transplant Patients (bid dosing) Time After Transplantation | Dose/Route | Tmax(h) | Cmax(mcg/mL) | Interdosing Interval AUC(0-12h)(mcg•h/mL) |
-| 5 days | 1 g/iv | 1.58 (± 0.46) (n = 31) | 12.0 (± 3.82) (n = 31) | 40.8 (± 11.4) (n = 31) |
-| 6 days | 1 g/oral | 1.33 (± 1.05) (n = 31) | 10.7 (± 4.83) (n = 31) | 32.9 (± 15.0) (n = 31) |
+| 5 days | 1 g/iv | 1.58 (± 0.46) (n = 31) | 12 (± 3.82) (n = 31) | 40.8 (± 11.4) (n = 31) |
+| 6 days | 1 g/oral | 1.33 (± 1.05) (n = 31) | 10.7 (± 4.83) (n = 31) | 32.9 (± 15) (n = 31) |
 | Early (< 40 days) | 1 g/oral | 1.31 (± 0.76) (n = 25) | 8.16 (± 4.50) (n = 25) | 27.3 (± 10.9) (n = 25) |
 | Early (< 40 days) | 1.5 g/oral | 1.21 (± 0.81) (n = 27) | 13.5 (± 8.18) (n = 27) | 38.4 (± 15.4) (n = 27) |
 | Late (> 3 months) | 1.5 g/oral | 0.90 (± 0.24) (n = 23) | 24.1 (± 12.1) (n = 23) | 65.3 (± 35.4) (n = 23) |
 | Cardiac Transplant Patients (bid dosing) Time After Transplantation | Dose/Route | Tmax(h) | Cmax (mcg/mL) | Interdosing Interval AUC(0-12h) (mcg•h/mL) |
 | Early (Day before discharge) | 1.5 g/oral | 1.8 (± 1.3) (n = 11) | 11.5 (± 6.8) (n = 11) | 43.3 (± 20.8) (n = 9) |
-| Late (> 6 months) | 1.5 g/oral | 1.1 (± 0.7) (n = 52) | 20.0 (± 9.4) (n = 52) | 54.1AUC(0-12h) values quoted are extrapolated from data from samples collected over 4 hours. (± 20.4) (n = 49) |
+| Late (> 6 months) | 1.5 g/oral | 1.1 (± 0.7) (n = 52) | 20 (± 9.4) (n = 52) | 54.1AUC(0-12h) values quoted are extrapolated from data from samples collected over 4 hours. (± 20.4) (n = 49) |
 | Hepatic Transplant Patients (bid dosing) Time After Transplantation | Dose/Route | Tmax(h) | Cmax (mcg/mL) | Interdosing Interval AUC(0-12h) (mcg•h/mL) |
-| 4 to 9 days | 1 g/iv | 1.50 (± 0.517) (n = 22) | 17.0 (± 12.7) (n = 22) | 34.0 (± 17.4) (n = 22) |
+| 4 to 9 days | 1 g/iv | 1.50 (± 0.517) (n = 22) | 17 (± 12.7) (n = 22) | 34 (± 17.4) (n = 22) |
 | Early (5 to 8 days) | 1.5 g/oral | 1.15 (± 0.432) (n = 20) | 13.1 (± 6.76) (n = 20) | 29.2 (± 11.9) (n = 20) |
 | Late (> 6 months) | 1.5 g/oral | 1.54 (± 0.51) (n = 6) | 19.3 (± 11.7) (n = 6) | 49.3 (± 14.8) (n = 6) |
 
@@ -107,12 +107,12 @@ Table 2: Pharmacokinetic Parameters for MPA [Mean (± SD)] Following Single Dose
 
 | Renal Impairment (no. of patients) | Dose | Tmax (h) | Cmax(mcg/mL) | AUC(0-96h)(mcg•h/mL) |
 | --- | --- | --- | --- | --- |
-| Healthy Volunteers GFR > 80 mL/min/1.73 m2 (n = 6) | 1 g | 0.75 (± 0.27) | 25.3 (± 7.99) | 45.0 (± 22.6) |
-| Mild Renal Impairment GFR 50 to 80 mL/min/1.73 m2 (n = 6) | 1 g | 0.75 (± 0.27) | 26.0 (± 3.82) | 59.9 (± 12.9) |
-| Moderate Renal Impairment GFR 25 to 49 mL/min/1.73 m2 (n = 6) | 1 g | 0.75 (± 0.27) | 19.0 (± 13.2) | 52.9 (± 25.5) |
-| Severe Renal Impairment GFR < 25 mL/min/1.73 m2 (n = 7) | 1 g | 1.00 (± 0.41) | 16.3 (± 10.8) | 78.6 (± 46.4) |
+| Healthy Volunteers GFR > 80 mL/min/1.73 m2 (n = 6) | 1 g | 0.75 (± 0.27) | 25.3 (± 7.99) | 45 (± 22.6) |
+| Mild Renal Impairment GFR 50 to 80 mL/min/1.73 m2 (n = 6) | 1 g | 0.75 (± 0.27) | 26 (± 3.82) | 59.9 (± 12.9) |
+| Moderate Renal Impairment GFR 25 to 49 mL/min/1.73 m2 (n = 6) | 1 g | 0.75 (± 0.27) | 19 (± 13.2) | 52.9 (± 25.5) |
+| Severe Renal Impairment GFR < 25 mL/min/1.73 m2 (n = 7) | 1 g | 1 (± 0.41) | 16.3 (± 10.8) | 78.6 (± 46.4) |
 | Hepatic Impairment (no. of patients) | Dose | Tmax (h) | Cmax (mcg/mL) | AUC(0-48h)(mcg•h/mL) |
-| Healthy Volunteers (n = 6) | 1 g | 0.63 (± 0.14) | 24.3 (± 5.73) | 29.0 (± 5.78) |
+| Healthy Volunteers (n = 6) | 1 g | 0.63 (± 0.14) | 24.3 (± 5.73) | 29 (± 5.78) |
 | Alcoholic Cirrhosis (n = 18) | 1 g | 0.85 (± 0.58) | 22.4 (± 10.1) | 29.8 (± 10.7) |
 
 ### Renal Insufficiency
@@ -123,12 +123,12 @@ In addition, the single-dose plasma MPAG AUC was 3 fold to 6 fold higher in volu
 No data are available on the safety of long-term exposure to this level of MPAG.
 
 Plasma MPA AUC observed after single-dose (1 g) intravenous dosing to volunteers (n = 4) with severe chronic renal impairment (GFR < 25 mL/min/1.73 m2) was 62.4 mcg•h/mL (± 19.3).
-Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied (see PRECAUTIONS, General and DOSAGE AND ADMINISTRATION).
+Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied (see PRECAUTIONS,Patients With Renal Impairmentand DOSAGE AND ADMINISTRATION).
 
 In patients with delayed renal graft function posttransplant, mean MPA AUC(0-12h) was comparable to that seen in posttransplant patients without delayed renal graft function.
 There is a potential for a transient increase in the free fraction and concentration of plasma MPA in patients with delayed renal graft function.
 However, dose adjustment does not appear to be necessary in patients with delayed renal graft function.
-Mean plasma MPAG AUC(0-12h) was 2 fold to 3 fold higher than in posttransplant patients without delayed renal graft function (see PRECAUTIONS, General and DOSAGE AND ADMINISTRATION).
+Mean plasma MPAG AUC(0-12h) was 2 fold to 3 fold higher than in posttransplant patients without delayed renal graft function (see PRECAUTIONS,Patients With Renal Impairmentand DOSAGE AND ADMINISTRATION).
 
 In 8 patients with primary graft non-function following renal transplantation, plasma concentrations of MPAG accumulated about 6 fold to 8 fold after multiple dosing for 28 days.
 Accumulation of MPA was about 1 fold to 2 fold.
@@ -164,7 +164,7 @@ Table 3: Mean (± SD) Computed Pharmacokinetic Parameters for MPA by Age and Tim
 | 6 to < 12 yr | (14) | 1.21 (0.532) | 27.8 (14.3) | 61.9 (19.6) |  |
 | 12 to 18 yr | (17) | 0.978 (0.484) | 17.9 (9.57) | 53.6 (20.3)n = 16 |  |
 | 1 to < 2 yr | (4) | Late (Month 9) | 0.604 (0.208) | 25.6 (4.25) | 55.8 (11.6) |
-| 1 to < 6 yr | (12) | 0.869 (0.479) | 30.4 (9.16) | 61.0 (10.7) |  |
+| 1 to < 6 yr | (12) | 0.869 (0.479) | 30.4 (9.16) | 61 (10.7) |  |
 | 6 to < 12 yr | (11) | 1.12 (0.462) | 29.2 (12.6) | 66.8 (21.2) |  |
 | 12 to 18 yr | (14) | 1.09 (0.518) | 18.1 (7.29) | 56.7 (14.0) |  |
 
@@ -176,7 +176,7 @@ MPA AUC values were similar in the early and late posttransplant period across t
 ### Gender
 
 Data obtained from several studies were pooled to look at any gender-related differences in the pharmacokinetics of MPA (data were adjusted to 1 g oral dose).
-Mean (± SD) MPA AUC(0-12h) for males (n = 79) was 32.0 (± 14.5) and for females (n = 41) was 36.5 (± 18.8) mcg•h/mL while mean (± SD) MPA Cmax was 9.96 (± 6.19) in the males and 10.6 (± 5.64) mcg/mL in the females.
+Mean (± SD) MPA AUC(0-12h) for males (n = 79) was 32 (± 14.5) and for females (n = 41) was 36.5 (± 18.8) mcg•h/mL while mean (± SD) MPA Cmax was 9.96 (± 6.19) in the males and 10.6 (± 5.64) mcg/mL in the females.
 These differences are not of clinical significance.
 
 ### Geriatrics
