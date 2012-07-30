@@ -11,7 +11,7 @@ Docetaxel’s binding to microtubules does not alter the number of protofilament
 
 Absorption: The pharmacokinetics of docetaxel have been evaluated in cancer patients after administration of 20 mg/m 2 to 115 mg/m 2 in phase 1 studies.
 The area under the curve (AUC) was dose proportional following doses of 70 mg/m 2 to 115 mg/m 2 with infusion times of 1 to 2 hours.
-Docetaxel’s pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with half-lives for the α, β, and γ phases of 4 min, 36 min, and 11.1 hr, respectively.
+Docetaxel’s pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with half-lives for the α, β, and γ phases of 4 min, 36 min, and 11.1 hour, respectively.
 Mean total body clearance was 21 L/h/m 2 .
 Distribution: The initial rapid decline represents distribution to the peripheral compartments and the late (terminal) phase is due, in part, to a relatively slow efflux of docetaxel from the peripheral compartment.
 Mean steady state volume of distribution was 113 L. In vitro studies showed that docetaxel is about 94% protein bound, mainly to α 1 -acid glycoprotein, albumin, and lipoproteins.

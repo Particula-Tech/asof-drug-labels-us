@@ -87,7 +87,7 @@ Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
 How will I receive DOCEFREZ?
 
-- DOCEFREZ will be given to you as an intravenous (IV) injection into your vein, usually over 1 hour.
+- DOCEFREZ will be given to you as an intravenous injection into your vein, usually over 1 hour.
 - DOCEFREZ is usually given every 3 weeks.
 - Your doctor will decide how long you will receive treatment with DOCEFREZ
 - Your doctor will check your blood cell counts and other blood tests during your treatment with DOCEFREZ to check for side effects of DOCEFREZ.
