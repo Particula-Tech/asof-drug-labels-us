@@ -6,7 +6,7 @@ Category C: There are no adequate and well-controlled studies of rituximab in pr
 Postmarketing data indicate that B-cell lymphocytopenia generally lasting less than six months can occur in infants exposed to rituximab in-utero.
 Rituximab was detected postnatally in the serum of infants exposed in-utero.
 
-Non-Hodgkin's lymphoma, moderate-severe rheumatoid arthritis, Wegener's Granulomatosis and Microscopic Polyangiitis are serious conditions that require treatment.
+Non-Hodgkin's lymphoma, moderate-severe rheumatoid arthritis, Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis are serious conditions that require treatment.
 Rituximab should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
 
 Reproduction studies in cynomolgus monkeys at maternal exposures similar to human therapeutic exposures showed no evidence of teratogenic effects.
@@ -59,9 +59,9 @@ Among the 2578 patients in global RA studies completed to date, 12% were 65–75
 The incidences of adverse reactions were similar between older and younger patients.
 The rates of serious adverse reactions, including serious infections, malignancies, and cardiovascular events were higher in older patients.
 
-Wegener's Granulomatosis and Microscopic Polyangiitis
+Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
 
-Of the 99 Rituxan-treated WG and MPA patients, 36 (36%) were 65 years old and over, while 8 (8%) were 75 years and over.
+Of the 99 Rituxan-treated GPA and MPA patients, 36 (36%) were 65 years old and over, while 8 (8%) were 75 years and over.
 No overall differences in efficacy were observed between patients that were 65 years old and over and younger patients.
 The overall incidence and rate of all serious adverse events was higher in patients 65 years old and over.
 The clinical study did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger subjects.

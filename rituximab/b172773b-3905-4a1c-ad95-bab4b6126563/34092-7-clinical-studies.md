@@ -278,11 +278,11 @@ Table 12 Improvement from Baseline in Health Assessment Questionnaire Disability
 | Mean Improvement from Baseline | 0.19 | 0.42 | 0.23 (0.11, 0.34) |
 | Percent of patients with "Improved" score (Change from Baseline ≥MCID)Minimal Clinically Important Difference: MCID for HAQ = 0.22. | 48% | 58% | 11% (0%, 21%) |
 
-## 14.6 Wegener's Granulomatosis (WG) and Microscopic Polyangiitis (MPA)
+## 14.6 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
-A total of 197 patients with active, severe WG and MPA (two forms of ANCA Associated Vasculidities) were treated in a randomized, double-blind, active-controlled multicenter, non-inferiority study, conducted in two phases – a 6 month remission induction phase and a 12 month remission maintenance phase.
-Patients were 15 years of age or older, diagnosed with WG (75% of patients) or MPA (24% of patients) according to the Chapel Hill Consensus conference criteria (1% of the patients had unknown vasculitis type).
-All patients had active disease, with a Birmingham Vasculitis Activity Score for Wegener's Granulomatosis (BVAS/WG) ≥ 3, and their disease was severe, with at least one major item on the BVAS/WG.
+A total of 197 patients with active, severe GPA and MPA (two forms of ANCA Associated Vasculidities) were treated in a randomized, double-blind, active-controlled multicenter, non-inferiority study, conducted in two phases – a 6 month remission induction phase and a 12 month remission maintenance phase.
+Patients were 15 years of age or older, diagnosed with GPA (75% of patients) or MPA (24% of patients) according to the Chapel Hill Consensus conference criteria (1% of the patients had unknown vasculitis type).
+All patients had active disease, with a Birmingham Vasculitis Activity Score for Granulomatosis with Polyangiitis (BVAS/GPA) ≥ 3, and their disease was severe, with at least one major item on the BVAS/GPA.
 Ninety-six (49%) of patients had new disease and 101 (51%) of patients had relapsing disease.
 
 Patients in both arms received 1000 mg of pulse intravenous methylprednisolone per day for 1 to 3 days within 14 days prior to initial infusion.
@@ -291,7 +291,7 @@ Patients were pre-medicated with antihistamine and acetaminophen prior to Rituxa
 Following intravenous corticosteroid administration, all patients received oral prednisone (1 mg/kg/day, not exceeding 80 mg/day) with pre-specified tapering.
 Once remission was achieved or at the end of the 6 month remission induction period, the cyclophosphamide group received azathioprine to maintain remission.
 The Rituxan group did not receive additional therapy to maintain remission.
-The main outcome measure for both WG and MPA patients was achievement of complete remission at 6 months defined as a BVAS/WGof 0, and off glucocorticoid therapy.
+The main outcome measure for both GPA and MPA patients was achievement of complete remission at 6 months defined as a BVAS/GPA of 0, and off glucocorticoid therapy.
 The pre-specified non-inferiority margin was a treatment difference of 20%.
 As shown in Table 13, the study demonstrated non-inferiority of Rituxan to cyclophosphamide for complete remission at 6 months.
 
@@ -310,4 +310,4 @@ In patients treated with cyclophosphamide (followed by azathioprine for maintena
 Retreatment with Rituxan
 
 Based upon investigator judgment, 15 patients received a second course of Rituxan therapy for treatment of relapse of disease activity which occurred between 8 and 17 months after the first course of Rituxan.
-The limited data preclude any conclusions regarding the efficacy of subsequent courses of Rituxan in patients with WG and MPA [see Warnings and Precautions (5.14)].
+The limited data preclude any conclusions regarding the efficacy of subsequent courses of Rituxan in patients with GPA and MPA [see Warnings and Precautions (5.14)].

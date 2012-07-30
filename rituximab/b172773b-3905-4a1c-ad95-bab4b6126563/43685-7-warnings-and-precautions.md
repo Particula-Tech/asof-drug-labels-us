@@ -104,21 +104,21 @@ The clinical implications of these findings are not known.
 
 In patients with lymphoid malignancies, during treatment with Rituxan monotherapy, obtain complete blood counts (CBC) and platelet counts prior to each Rituxan course.
 During treatment with Rituxan and chemotherapy, obtain CBC and platelet counts at weekly to monthly intervals and more frequently in patients who develop cytopenias [see Adverse Reactions (6.1)].
-In patients with RA, WG or MPA, obtain CBC and platelet counts at two to four month intervals during Rituxan therapy.
+In patients with RA, GPA or MPA, obtain CBC and platelet counts at two to four month intervals during Rituxan therapy.
 The duration of cytopenias caused by Rituxan can extend months beyond the treatment period.
 
-## 5.12 Concomitant Use with Biologic Agents and DMARDS other than Methotrexate in RA, WG and MPA
+## 5.12 Concomitant Use with Biologic Agents and DMARDS other than Methotrexate in RA, GPA and MPA
 
 Limited data are available on the safety of the use of biologic agents or DMARDs other than methotrexate in RA patients exhibiting peripheral B-cell depletion following treatment with rituximab.
 Observe patients closely for signs of infection if biologic agents and/or DMARDs are used concomitantly.
-Use of concomitant immunosuppressants other than corticosteroids has not been studied in WG or MPA patients exhibiting peripheral B-cell depletion following treatment with Rituxan.
+Use of concomitant immunosuppressants other than corticosteroids has not been studied in GPA or MPA patients exhibiting peripheral B-cell depletion following treatment with Rituxan.
 
 ## 5.13 Use in RA Patients Who Have Not Had Prior Inadequate Response to Tumor Necrosis Factor (TNF) Antagonists
 
 While the efficacy of Rituxan was supported in four controlled trials in patients with RA with prior inadequate responses to non-biologic DMARDs, and in a controlled trial in MTX-naïve patients, a favorable risk-benefit relationship has not been established in these populations.
 The use of Rituxan in patients with RA who have not had prior inadequate response to one or more TNF antagonists is not recommended [see Clinical Studies (14.5)].
 
-## 5.14 Retreatment in Patients with Wegener's Granulomatosis (WG) and Microscopic Polyangiitis (MPA)
+## 5.14 Retreatment in Patients with Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
-Limited data are available on the safety and efficacy of subsequent courses of Rituxan in patients with WG and MPA.
+Limited data are available on the safety and efficacy of subsequent courses of Rituxan in patients with GPA and MPA.
 The safety and efficacy of retreatment with Rituxan have not been established [see Dosage and Administration (2.6), Adverse Reactions (6.3), and Clinical Studies (14.6)].

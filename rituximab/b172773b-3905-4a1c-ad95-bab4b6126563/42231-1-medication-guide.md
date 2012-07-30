@@ -57,7 +57,7 @@ Rituxan is a prescription medicine used to treat:
 - Non-Hodgkin's Lymphoma (NHL): alone or with other chemotherapy medicines.
 - Chronic Lymphocytic Leukemia (CLL): with the chemotherapy medicines fludarabine and cyclophosphamide.
 - Rheumatoid Arthritis (RA): with another prescription medicine called methotrexate, to reduce the signs and symptoms of moderate to severe active RA in adults, after treatment with at least one other medicine called a Tumor Necrosis Factor (TNF) antagonist has been used and did not work well enough.
-- Wegener's Granulomatosis (WG) and Microscopic Polyangiitis (MPA): with glucocorticoids, to treat WG and MPA.
+- Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA): with glucocorticoids, to treat GPA and MPA.
 
 People with serious infections should not receive Rituxan.
 
@@ -83,7 +83,7 @@ Before receiving Rituxan, tell your doctor if you:
   You should not receive certain vaccines before or after you receive Rituxan.
   Tell your doctor if anyone in your household is scheduled to receive a vaccination.
   Some types of vaccines can spread to people with a weakened immune system, and cause serious problems.
-- have taken Rituxan for WG or MPA in the past.
+- have taken Rituxan for GPA or MPA in the past.
 - have any other medical conditions
 - are pregnant or planning to become pregnant.
   Rituxan may affect the white blood cell counts of your unborn baby.

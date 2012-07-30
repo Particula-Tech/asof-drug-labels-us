@@ -45,7 +45,7 @@ The recommended dose is:
 - Subsequent courses should be administered every 24 weeks or based on clinical evaluation, but not sooner than every 16 weeks.
 - Rituxan is given in combination with methotrexate.
 
-## 2.6 Recommended Dose for Wegener's Granulomatosis (WG) and Microscopic Polyangiitis (MPA)
+## 2.6 Recommended Dose for Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
 - Administer Rituxan as a 375 mg/m2 intravenous infusion once weekly for 4 weeks.
 - Glucocorticoids administered as methylprednisolone 1000 mg intravenously per day for 1 to 3 days followed by oral prednisone 1 mg/kg/day (not to exceed 80 mg/day and tapered per clinical need) are recommended to treat severe vasculitis symptoms.
@@ -58,11 +58,11 @@ Premedicate before each infusion with acetaminophen and an antihistamine.
 
 For RA patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
 
-For WG and MPA patients, glucocorticoids are given in combination with Rituxan [see Dosage and Administration (2.6)].
+For GPA and MPA patients, glucocorticoids are given in combination with Rituxan [see Dosage and Administration (2.6)].
 
 Pneumocystis jiroveci pneumonia (PCP) and anti-herpetic viral prophylaxis is recommended for patients with CLL during treatment and for up to 12 months following treatment as appropriate.
 
-PCP prophylaxis is also recommended for patients with WG and MPA during treatment and for at least 6 months following the last Rituxan infusion.
+PCP prophylaxis is also recommended for patients with GPA and MPA during treatment and for at least 6 months following the last Rituxan infusion.
 
 ## 2.8 Preparation for Administration
 

@@ -41,9 +41,9 @@ The clinical consequences of decreases in immunoglobulin levels in RA patients t
 
 Treatment with rituximab in patients with RA was associated with reduction of certain biologic markers of inflammation such as interleukin-6 (IL-6), C-reactive protein (CRP), serum amyloid protein (SAA), S100 A8/S100 A9 heterodimer complex (S100 A8/9), anti-citrullinated peptide (anti-CCP), and RF.
 
-Wegener's Granulomatosis and Microscopic Polyangiitis
+Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
 
-In WG and MPA patients, peripheral blood CD19 B-cells depleted to less than 10 cells/µl following the first two infusions of Rituxan, and remained at that level in most (84%) patients through Month 6.
+In GPA and MPA patients, peripheral blood CD19 B-cells depleted to less than 10 cells/µl following the first two infusions of Rituxan, and remained at that level in most (84%) patients through Month 6.
 By Month 12, the majority of patients (81%) showed signs of B-cell return with counts >10 cells/µL.
 By Month 18, most patients (87%) had counts >10 cells/µL.
 
@@ -71,9 +71,9 @@ Following administration of 2 doses of Rituxan in patients with RA, the mean (±
 Based on a population pharmacokinetic analysis of data from 2005 RA patients who received Rituxan, the estimated clearance of rituximab was 0.335 L/day; volume of distribution was 3.1 L and mean terminal elimination half-life was 18.0 days (range, 5.17 to 77.5 days).
 Age, weight and gender had no effect on the pharmacokinetics of rituximab in RA patients.
 
-Wegener's Granulomatosis and Microscopic Polyangiitis
+Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
 
-Based on the population pharmacokinetic analysis of data in 97 WG and MPA patients who received 375 mg/m2 rituximab once weekly by intravenous infusion for four weeks, the estimated median terminal elimination half-life was 23 days (range, 9 to 49 days).
+Based on the population pharmacokinetic analysis of data in 97 GPA and MPA patients who received 375 mg/m2 rituximab once weekly by intravenous infusion for four weeks, the estimated median terminal elimination half-life was 23 days (range, 9 to 49 days).
 Rituximab mean clearance and volume of distribution were 0.
 312 L/day (range, 0.115 to 0.728 L/day) and 4.50 L (range, 2.21 to 7.52 L) respectively.
 Male patients and patients with higher BSA or positive HACA levels have higher clearance.

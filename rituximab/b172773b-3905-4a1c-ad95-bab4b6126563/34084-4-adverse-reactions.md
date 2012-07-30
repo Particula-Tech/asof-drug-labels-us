@@ -18,7 +18,7 @@ The most common adverse reactions of Rituxan (incidence ≥ 25%) observed in cli
 
 ## 6.1 Clinical Trials Experience in Lymphoid Malignancies
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 The data described below reflect exposure to Rituxan in 2783 patients, with exposures ranging from a single infusion up to 2 years.
 Rituxan was studied in both single-arm and controlled trials (n=356 and n = 2427).
@@ -249,21 +249,21 @@ The rates and types of adverse reactions reported for subsequent courses of Ritu
 
 In RA Study 2, where all patients initially received Rituxan, the safety profile of patients who were retreated with Rituxan was similar to those who were retreated with placebo [see Clinical Studies (14.5), and Dosage and Administration (2.5).]
 
-## 6.3 Clinical Trials Experience in Wegener's Granulomatosis (WG) and Microscopic Polyangiitis (MPA)
+## 6.3 Clinical Trials Experience in Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data presented below reflect the experience in 197 patients with WG and MPA treated with Rituxan or cyclophosphamide in a single controlled study, which was conducted in two phases: a 6 month randomized, double-blind, double-dummy, active-controlled remission induction phase and an additional 12 month remission maintenance phase.
-In the 6-month remission induction phase, 197 patients with WG and MPA were randomized to either Rituxan 375 mg/ m2 once weekly for 4 weeks plus glucocorticoids, or oral cyclophosphamide 2 mg/kg daily (adjusted for renal function, white blood cell count, and other factors) plus glucocorticoids to induce remission.
+The data presented below reflect the experience in 197 patients with GPA and MPA treated with Rituxan or cyclophosphamide in a single controlled study, which was conducted in two phases: a 6 month randomized, double-blind, double-dummy, active-controlled remission induction phase and an additional 12 month remission maintenance phase.
+In the 6-month remission induction phase, 197 patients with GPA and MPA were randomized to either Rituxan 375 mg/ m2 once weekly for 4 weeks plus glucocorticoids, or oral cyclophosphamide 2 mg/kg daily (adjusted for renal function, white blood cell count, and other factors) plus glucocorticoids to induce remission.
 Once remission was achieved or at the end of the 6 month remission induction period, the cyclophosphamide group received azathioprine to maintain remission.
 The Rituxan group did not receive additional therapy to maintain remission.
 The primary analysis was at the end of the 6 month remission induction period and the safety results for this period are described below.
 
 Adverse reactions presented below in Table 3 were adverse events which occurred at a rate of greater than or equal to 10% in the Rituxan group.
-This table reflects experience in 99 WG and MPA patients treated with Rituxan, with a total of 47.6 patient-years of observation and 98 WG and MPA patients treated with cyclophosphamide, with a total of 47.0 patient-years of observation.
+This table reflects experience in 99 GPA and MPA patients treated with Rituxan, with a total of 47.6 patient-years of observation and 98 GPA and MPA patients treated with cyclophosphamide, with a total of 47.0 patient-years of observation.
 Infection was the most common category of adverse events reported (47-62%) and is discussed below.
 
-Table 3 Incidence of All Adverse Reactions Occurring in ≥ 10% of Rituxan-treated WG and MPA Patients in the Clinical Study Up to Month 6The study design allowed for crossover or treatment by best medical judgment, and 13 patients in each treatment group received a second therapy during the 6 month study period.
+Table 3 Incidence of All Adverse Reactions Occurring in ≥ 10% of Rituxan-treated GPA and MPA Patients in the Clinical Study Up to Month 6The study design allowed for crossover or treatment by best medical judgment, and 13 patients in each treatment group received a second therapy during the 6 month study period.
 
 | Preferred Term | Rituxan N = 99 n (%) | Cyclophosphamide N = 98 n (%) |
 | --- | --- | --- |
@@ -300,10 +300,10 @@ The most common infections in the Rituxan group were upper respiratory tract inf
 The incidence of serious infections was 11% in the Rituxan-treated patients and 10% in the cyclophosphamide treated patients, with rates of approximately 25 and 28 per 100 patient-years, respectively.
 The most common serious infection was pneumonia.
 
-Retreatment in Patients with WG and MPA
+Retreatment in Patients with GPA and MPA
 
 In the active-controlled, double-blind study, subsequent courses of Rituxan were allowed for patients experiencing a relapse of disease.
-The limited data preclude any conclusions regarding the safety of subsequent courses of Rituxan with WG and MPA [see Dosage and Administration (2.6), and Warnings and Precautions (5.14)].
+The limited data preclude any conclusions regarding the safety of subsequent courses of Rituxan with GPA and MPA [see Dosage and Administration (2.6), and Warnings and Precautions (5.14)].
 
 ## 6.4 Immunogenicity
 
@@ -319,7 +319,7 @@ HACA positivity was not associated with increased infusion reactions or other ad
 Upon further treatment, the proportions of patients with infusion reactions were similar between HACA positive and negative patients, and most reactions were mild to moderate.
 Four HACA positive patients had serious infusion reactions, and the temporal relationship between HACA positivity and infusion reaction was variable.
 
-A total of 23/99 (23%) Rituxan-treated patients with WG and MPA tested positive for HACA by 18 months.
+A total of 23/99 (23%) Rituxan-treated patients with GPA and MPA tested positive for HACA by 18 months.
 The clinical relevance of HACA formation in Rituxan-treated patients is unclear.
 
 ## 6.5 Postmarketing Experience
