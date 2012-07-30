@@ -1,6 +1,12 @@
 Manufactured by:
 
-LEO Pharma A/S Ballerup, Denmark
+LEO Laboratories Ltd.
+
+285 Cashel Road
+
+Dublin 12
+
+Ireland
 
 LEO®
 
@@ -12,4 +18,4 @@ U.S. Patent Nos. RE39,706 E, 6,753,013 and 6,787,529.
 
 024580-04
 
-Revised: 1/2011
+Revised: 1/2012

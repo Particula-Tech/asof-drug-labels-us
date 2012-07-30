@@ -125,8 +125,8 @@ How should I store Taclonex Scalp® Topical Suspension?
 - Keep the bottle in the carton when not in use.
 - Taclonex Scalp® Topical Suspension has an expiration date (exp.) marked on the bottom of the bottle.
   Do not use the topical suspension after this date.
-- Use Taclonex Scalp® Topical Suspension within three months after it has been opened.
-  After three months, safely throw away the bottle with any leftover Taclonex Scalp® Topical Suspension.
+- Use Taclonex Scalp® Topical Suspension within six months after it has been opened.
+  After six months, safely throw away the bottle with any leftover Taclonex Scalp® Topical Suspension.
   If you need to keep using Taclonex Scalp® Topical Suspension or begin using it again, use a new bottle.
 - Keep Taclonex Scalp® Topical Suspension and all medicines out of the reach of children.
 

@@ -17,7 +17,7 @@ Store between 20-25°C (68-77°F); excursions permitted between 15-30°C (59-86�
 Do not refrigerate.
 Keep the bottle in the outer carton when not in use.
 
-The product should be used within three months after it has been opened.
+The product should be used within six months after it has been opened.
 
 ## 16.3 Handling
 

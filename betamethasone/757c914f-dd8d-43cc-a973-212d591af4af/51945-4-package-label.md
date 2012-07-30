@@ -4,7 +4,7 @@ NDC 50222-501-06
 
 Rx only
 
-TACLONEX SCALP® (calcipotriene 0.005% and betamethasone dipropionate 0.064%) Topical Suspension
+TACLONEX SCALP®(calcipotriene 0.005% and betamethasone dipropionate 0.064%) Topical Suspension
 
 For Topical Use Only
 
@@ -19,7 +19,7 @@ Do not refrigerate.
 Keep the bottle in the outer carton when not in use.
 Shake before use.
 
-Discard product three months after opening.
+Discard product six months after opening.
 
 Keep out of the reach of children.
 
