@@ -14,9 +14,9 @@ In addition, rare cases of torsades de pointes have been reported in patients ta
 Results from a multiple time-matched ECG analysis in healthy volunteers did not show any increase in the mean of the QTc interval.
 Multiple, time-matched ECGs collected over a 12-hour period were recorded at baseline and steady-state from 173 healthy male and female volunteers (18–85 years of age) administered posaconazole 400 mg BID with a high-fat meal.
 In this pooled analysis, the mean QTc (Fridericia) interval change from baseline was –5 msec following administration of the recommended clinical dose.
-A decrease in the QTc (F) interval (–3 msec) was also observed in a small number of subjects (n=16) administered placebo.
-The placebo-adjusted mean maximum QTc (F) interval change from baseline was <0 msec (–8 msec).
-No healthy subject administered posaconazole had a QTc (F) interval ≥500 msec or an increase ≥60 msec in their QTc (F) interval from baseline.
+A decrease in the QTc(F) interval (–3 msec) was also observed in a small number of subjects (n=16) administered placebo.
+The placebo-adjusted mean maximum QTc(F) interval change from baseline was <0 msec (–8 msec).
+No healthy subject administered posaconazole had a QTc(F) interval ≥500 msec or an increase ≥60 msec in their QTc(F) interval from baseline.
 
 Posaconazole should be administered with caution to patients with potentially proarrhythmic conditions.
 Do not administer with drugs that are known to prolong the QTc interval and are metabolized through CYP3A4 [see Contraindications (4.3) and Drug Interactions (7.2)].

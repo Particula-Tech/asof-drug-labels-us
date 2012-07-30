@@ -5,7 +5,7 @@
 Pregnancy Category C: There are no adequate and well-controlled studies in pregnant women.
 NOXAFIL should be used in pregnancy only if the potential benefit outweighs the potential risk to the fetus.
 
-Posaconazole has been shown to cause skeletal malformations (cranial malformations and missing ribs) in rats when given in doses ≥27 mg/kg (≥1.4 times the 400 mg BID regimen based on steady-state plasma concentrations of drug in healthy volunteers).
+Posaconazole has been shown to cause skeletal malformations (cranial malformations and missing ribs) in rats when given in doses ≥27 mg/kg (≥1.4 times the 400-mg BID regimen based on steady-state plasma concentrations of drug in healthy volunteers).
 The no-effect dose for malformations in rats was 9 mg/kg, which is 0.7 times the exposure achieved with the 400-mg BID regimen.
 No malformations were seen in rabbits at doses up to 80 mg/kg.
 In the rabbit, the no-effect dose was 20 mg/kg, while high doses of 40 mg/kg and 80 mg/kg, 2.9 or 5.2 times the exposure achieved with the 400-mg BID regimen, caused an increase in resorptions.
@@ -57,7 +57,7 @@ Compared to subjects with normal hepatic function, the mean Cmax was 1% higher, 
 The mean apparent oral clearance (CL/F) was reduced by 18%, 36%, and 28% in subjects with mild, moderate, and severe hepatic insufficiency, respectively, compared to subjects with normal hepatic function.
 The elimination half-life (t½) was 27 hours, 39 hours, 27 hours, and 43 hours in subjects with normal hepatic function and mild, moderate, and severe hepatic insufficiency, respectively.
 
-It is recommended that no dose adjustment of NOXAFIL is needed in patients with mild to severe hepatic insufficiency (Child-Pugh Class A, B, and C) [see Dosage and Administration (2), and Warnings and Precautions (5)].
+It is recommended that no dose adjustment of NOXAFIL is needed in patients with mild to severe hepatic insufficiency (Child-Pugh Class A, B, and C) [see Dosage and Administration (2) and Warnings and Precautions (5)].
 
 ## 8.8 Gender
 

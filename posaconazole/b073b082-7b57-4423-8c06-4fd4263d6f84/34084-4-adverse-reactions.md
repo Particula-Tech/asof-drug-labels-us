@@ -17,8 +17,8 @@ This includes 605 patients in the active-controlled prophylaxis studies, 557 pat
 This represents a heterogeneous population, including immunocompromised patients, e.g., patients with hematological malignancy, neutropenia post-chemotherapy, graft vs. host disease post hematopoietic stem cell transplant, and HIV infection, as well as non-neutropenic patients.
 This patient population was 71% male, had a mean age of 42 years (range 8–84 years, 6% of patients were ≥65 years of age and 1% was <18 years of age), and were 64% white, 16% Hispanic, and 36% non-white (including 14% black).
 Posaconazole therapy was given to 171 patients for ≥6 months, with 58 patients receiving posaconazole therapy for ≥12 months.
-Table 1 presents treatment-emergent adverse reactions observed at an incidence of >10% in posaconazole prophylaxis studies.
-Table 2 presents treatment-emergent adverse reactions observed at an incidence of at least 10% in the OPC/rOPC studies.
+Table 2 presents treatment-emergent adverse reactions observed at an incidence of >10% in posaconazole prophylaxis studies.
+Table 3 presents treatment-emergent adverse reactions observed at an incidence of at least 10% in the OPC/rOPC studies.
 
 Prophylaxis of Aspergillus and Candida: In the 2 randomized, comparative prophylaxis studies, the safety of posaconazole 200 mg three times a day was compared to fluconazole 400 mg once daily or itraconazole 200 mg twice a day in severely immunocompromised patients.
 
@@ -26,7 +26,7 @@ The most frequently reported adverse reactions (>30%) in the prophylaxis clinica
 
 The most common adverse reactions leading to discontinuation of posaconazole in the prophylaxis studies were associated with GI disorders, specifically, nausea (2%), vomiting (2%), and hepatic enzymes increased (2%).
 
-TABLE 1: Study 1 and Study 2.
+TABLE 2: Study 1 and Study 2.
 Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Reactions: Frequency of at Least 10% in the Posaconazole or Fluconazole Treatment Groups (Pooled Prophylaxis Safety Analysis)
 
 | Subjects Reporting any Adverse Reaction | 595 | (98) | 531 | (99) | 58 | (100) |
@@ -93,7 +93,7 @@ Number (%) of Randomized Subjects Reporting Treatment-Emergent Adverse Reactions
 | Pruritus | 69 | (11) | 62 | (12) | 11 | (19) |
 | NOS = not otherwise specified. |  |  |  |  |  |  |
 
-HIV Infected Subjects With OPC: In 2 randomized comparative studies in OPC, the safety of posaconazole at a dose of ≤400 mg QD in 557 HIV-infected patients was compared to the safety of fluconazole in 262 HIV-infected patients at a dose of 100 mg QD.
+HIV Infected Subjects with OPC: In 2 randomized comparative studies in OPC, the safety of posaconazole at a dose of ≤400 mg QD in 557 HIV-infected patients was compared to the safety of fluconazole in 262 HIV-infected patients at a dose of 100 mg QD.
 
 An additional 239 HIV-infected patients with refractory OPC received posaconazole in 2 non-comparative trials for refractory OPC (rOPC).
 
@@ -104,7 +104,7 @@ In the OPC/rOPC studies, the most common adverse reactions were fever, diarrhea,
 The most common adverse reactions that led to treatment discontinuation of posaconazole in the Controlled OPC Pool included respiratory insufficiency (1%) and pneumonia (1%).
 In the refractory OPC pool, the most common adverse reactions that led to treatment discontinuation of posaconazole were AIDS (7%) and respiratory insufficiency (3%).
 
-TABLE 2: Treatment-Emergent Adverse Reactions With Frequency of at Least 10% in OPC Studies (Treated Population)
+TABLE 3: Treatment-Emergent Adverse Reactions with Frequency of at Least 10% in OPC Studies (Treated Population)
 
 | Subjects Reporting any Adverse ReactionNumber of subjects reporting treatment-emergent adverse reactions at least once during the study, without regard to relationship to treatment. Subjects may have reported more than 1 event. | 356 (64) | 175 (67) | 221 (92) |
 | --- | --- | --- | --- |
@@ -159,17 +159,17 @@ Less Common Adverse Reactions: Clinically significant adverse reactions reported
 - Cardiac disorders: Torsades de pointes [see Warnings and Precautions (5.2)]
 - Vascular disorders: pulmonary embolism
 - Liver and Biliary System Disorders: bilirubinemia, hepatic enzymes increased, hepatic function abnormal, hepatitis, hepatomegaly, jaundice, SGOT Increased, SGPT Increased
-- Metabolic and Nutritional Disorders: Hypokalemia
-- Platelet, Bleeding, and Clotting Disorders: Thrombocytopenia
-- Renal & Urinary System Disorders: Renal Failure Acute
+- Metabolic and Nutritional Disorders: hypokalemia
+- Platelet, Bleeding, and Clotting Disorders: thrombocytopenia
+- Renal & Urinary System Disorders: renal failure acute
 
 Clinical Laboratory Values: In healthy volunteers and patients, elevation of liver function test values did not appear to be associated with higher plasma concentrations of posaconazole.
 The majority of abnormal liver function tests were minor, transient, and did not lead to discontinuation of therapy.
 
-For the prophylaxis studies, the number of patients with changes in liver function tests from Common Toxicity Criteria (CTC) Grade 0, 1, or 2 at baseline to Grade 3 or 4 during the study is presented in Table 3.
+For the prophylaxis studies, the number of patients with changes in liver function tests from Common Toxicity Criteria (CTC) Grade 0, 1, or 2 at baseline to Grade 3 or 4 during the study is presented in Table 4.
 
-TABLE 3: Study 1 and Study 2.
-Changes in Liver Function Test Results From CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
+TABLE 4: Study 1 and Study 2.
+Changes in Liver Function Test Results from CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
 
 | Number (%) of Patients With ChangeChange from Grade 0 to 2 at baseline to Grade 3 or 4 during the study. These data are presented in the form X/Y, where X represents the number of patients who met the criterion as indicated, and Y represents the number of patients who had a baseline observation and at least one post-baseline observation. |  |  |
 | --- | --- | --- |
@@ -187,12 +187,12 @@ Changes in Liver Function Test Results From CTC Grade 0, 1, or 2 at Baseline to 
 | Alkaline Phosphatase | 4/281 (1) | 1/276 (<1) |
 | CTC = Common Toxicity Criteria; AST= Aspartate Aminotransferase; ALT= Alanine Aminotransferase. |  |  |
 
-The number of patients treated for OPC with clinically significant liver function test (LFT) abnormalities at any time during the studies is provided in Table 4.
+The number of patients treated for OPC with clinically significant liver function test (LFT) abnormalities at any time during the studies is provided in Table 5.
 (LFT abnormalities were present in some of these patients prior to initiation of the study drug).
 
-TABLE 4: Clinically Significant Laboratory Test Abnormalities Without Regard to Baseline Value
+TABLE 5: Clinically Significant Laboratory Test Abnormalities without Regard to Baseline Value
 
-| Laboratory Test | n= 557(%) | n=262(%) | n=239(%) |
+| Laboratory Test | n=557(%) | n=262(%) | n=239(%) |
 | --- | --- | --- | --- |
 |  | Controlled |  | Refractory |
 |  | Posaconazole | Fluconazole | Posaconazole |
