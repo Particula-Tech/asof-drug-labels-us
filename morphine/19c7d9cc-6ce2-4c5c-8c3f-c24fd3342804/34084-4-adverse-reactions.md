@@ -1,25 +1,60 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The adverse reactions caused by morphine are essentially those observed with other opioid analgesics.
-They include the following major hazards: respiratory depression, apnea, and to a lesser degree, circulatory depression, respiratory arrest, shock, and cardiac arrest.
+The following adverse reactions described elsewhere in the labeling include:
 
-## Most Frequently Observed
+- Respiratory Depression [see Warnings and Precautions (5.2)]
+- Chronic Pulmonary Disease [see Warnings and Precautions (5.5)]
+- Head Injuries and Increased Intracranial Pressure [see Warnings and Precautions (5.8)]
+- Interactions with Other CNS Depressants [see Warnings and Precautions (5.6)]
+- Hypotensive Effect [see Warnings and Precautions (5.7)]
+- Gastrointestinal Effects [see Warnings and Precautions (5.9)]
+- Seizures [see Warnings and Precautions (5.10)]
 
-Constipation, lightheadedness, dizziness, sedation, nausea, vomiting, sweating, dysphoria, and euphoria.
+## 6.1 Clinical Trial Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Morphine sulfate extended-release tablets may increase the risk of serious adverse reactions such as those observed with other opioid analgesics, including respiratory depression, apnea, respiratory arrest, circulatory depression, hypotension, or shock [seeOverdosage (10)].
+
+Most Frequently Observed Reactions
+
+In clinical trials, the most common adverse reactions with morphine sulfate extended-release tablets were constipation, dizziness, sedation, nausea, vomiting, sweating, dysphoria, and euphoric mood.
 
 Some of these effects seem to be more prominent in ambulatory patients and in those not experiencing severe pain.
-Some adverse reactions in ambulatory patients may be alleviated if the patient lies down.
 
-## Less Frequently Observed Reactions
+Less Frequently Observed Reactions
 
-Central Nervous System: Weakness, headache, agitation, tremor, uncoordinated muscle movements, seizure, alterations of mood (nervousness, apprehension, depression, floating feelings), dreams, muscle rigidity, transient hallucinations and disorientation, visual disturbances, insomnia, increased intracranial pressure
+Cardiovascular disorders: tachycardia, bradycardia, palpitations
 
-Gastrointestinal: Dry mouth, biliary tract spasm, laryngospasm, anorexia, diarrhea, cramps, taste alteration, constipation, ileus, intestinal obstruction, dyspepsia, increases in hepatic enzymes
+Eye disorders: visual impairment, vision blurred, diplopia, miosis
 
-Cardiovascular: Flushing of the face, chills, tachycardia, bradycardia, palpitation, faintness, syncope, hypotension, hypertension
+Gastrointestinal disorders: dry mouth, diarrhea, abdominal pain, constipation, dyspepsia
 
-Genitourinary: Urine retention or hesitance, amenorrhea, reduced libido and/or potency
+General disorders and administration site conditions: chills, feeling abnormal, edema, edema peripheral, weakness
 
-Dermatologic: Pruritus, urticaria, other skin rashes, edema, diaphoresis
+Hepatobiliary disorders: biliary colic
 
-Other: Antidiuretic effect, paresthesia, bronchospasm, muscle tremor, blurred vision, nystagmus, diplopia, miosis, anaphylaxis, malaise, thinking disturbances, vertigo
+Metabolism and nutrition disorders: anorexia
+
+Musculoskeletal and connective tissue disorders: muscle rigidity, muscle twitching
+
+Nervous system disorders: presyncope, syncope, headache, tremor, uncoordinated muscle movements, convulsion, intracranial pressure increased, taste alteration, paresthesia, nystagmus
+
+Psychiatric disorders: agitation, mood altered, anxiety, depression, abnormal dreams, hallucination, disorientation, insomnia
+
+Renal and urinary disorders: urinary retention, urinary hesitation, antidiuretic effects
+
+Reproductive system and breast disorders: reduced libido and/or potency
+
+Respiratory, thoracic and mediastinal disorders: laryngospasm
+
+Skin and subcutaneous tissue disorders: pruritus, urticaria, rash
+
+Vascular disorders: flushing, hypotension, hypertension
+
+## 6.2 Post-Marketing Experience
+
+The following adverse reactions have been identified during postapproval use of morphine sulfate extended-release tablets: amenorrhea, asthenia, bronchospasm, confusional state, drug hypersensitivity, fatigue, hyperalgesia, hypertonia, ileus, increased hepatic enzymes, intestinal obstruction, lethargy, malaise, pulmonary edema, thinking disturbances, somnolence, and vertigo.
+
+Anaphylaxis has been reported with ingredients contained in morphine sulfate extended-release tablets.
+Advise patients how to recognize such a reaction and when to seek medical attention.
