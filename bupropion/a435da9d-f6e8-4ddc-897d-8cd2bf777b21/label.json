@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA021515"
+  ],
+  "inn": "bupropion",
+  "labeler": "Valeant Pharmaceuticals North America LLC",
+  "package_ndcs": [
+    "0187-0730-07",
+    "0187-0730-30",
+    "0187-0730-90",
+    "0187-0731-07",
+    "0187-0731-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "bupropion hydrochloride",
+      "name": "WELLBUTRIN"
+    }
+  ],
+  "setid": "a435da9d-f6e8-4ddc-897d-8cd2bf777b21",
+  "source": "dailymed"
+}
