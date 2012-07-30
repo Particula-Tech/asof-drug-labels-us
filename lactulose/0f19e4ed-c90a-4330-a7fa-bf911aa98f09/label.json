@@ -1,15 +1,23 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074623"
+  ],
   "inn": "lactulose",
-  "labeler": "Pharmaceutical Associates, Inc.",
+  "labeler": "Pharmaceutical Associates, Inc,",
   "package_ndcs": [
     "0121-0577-08",
-    "0121-0577-15",
     "0121-0577-16",
-    "0121-0577-30",
-    "0121-0577-32"
+    "0121-0577-32",
+    "0121-4577-15",
+    "0121-4577-30"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "lactulose",
+      "name": "LACTULOSE"
+    }
+  ],
   "setid": "0f19e4ed-c90a-4330-a7fa-bf911aa98f09",
   "source": "dailymed"
 }

@@ -8,7 +8,7 @@ The pH range is 2.5 to 6.5.
 
 Lactulose is a colonic acidifier which promotes laxation.
 
-The chemical name for lactulose is 4-O-β-D-galactopyranosyl-D-fructofuranose.
+The chemical name for lactulose is 4-0-β-D-galactopyranosyl-D-fructofuranose.
 It has the following structural formula:
 
 The molecular weight is 342.30.
