@@ -4,13 +4,12 @@ OCUFLOX® (ofloxacin ophthalmic solution) 0.3% is supplied sterile in opaque whi
 
 5mL in 10mL bottle - NDC 11980-779-05
 
-Note: Store at 15-25°C (59-77°F)
+Note: Store at 15°-25°C (59°-77°F)
 
 Rx only
 
-Revised May 2005
+Revised: 02/2012
 
-© 2005 Allergan, Inc. Irvine, CA 92612, U.S.A. Licensed from: Daiichi Pharmaceutical Co., Ltd., Tokyo, Japan and Santen Pharmaceutical Co., Ltd., Osaka, Japan
+© 2012 Allergan, Inc., Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Made in the U.S.A.
 
-® marks owned by Allergan, Inc. U. S. PAT.
-4,382,892; and 4,551,456 7651X 71589US11S
+71589US12C
