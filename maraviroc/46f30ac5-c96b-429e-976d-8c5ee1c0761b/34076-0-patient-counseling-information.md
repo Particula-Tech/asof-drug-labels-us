@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide.
+See FDA-approved patient labeling (Medication Guide).
 
 Patients should be informed that liver problems including life-threatening cases have been reported with SELZENTRY.
 Patients should be informed that if they develop signs or symptoms of hepatitis or allergic reaction following use of SELZENTRY (rash, skin, or eyes look yellow; dark urine; vomiting; abdominal pain), they should stop SELZENTRY and seek medical evaluation immediately.
@@ -44,6 +44,10 @@ Freiburg, Germany
 ©2011, ViiV Healthcare.
 All rights reserved.
 
-July 2011
+November 2011
 
-SEL: 4PI
+SEL: 5PI
+
+PHARMACIST-DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ _ _ _ _ _ _ _ _

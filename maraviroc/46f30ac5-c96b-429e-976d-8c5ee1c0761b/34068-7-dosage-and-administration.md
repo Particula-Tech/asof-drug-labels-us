@@ -33,6 +33,6 @@ Recommended Dosing Regimens Based on Renal Function
 
 NR = Not recommended.
 
-a See Table 1 for the list of concomitant medications.
+aSee Table 1 for the list of concomitant medications.
 
-b The dose of SELZENTRY should be reduced to 150 mg twice daily if there are any symptoms of postural hypotension [see Warnings and Precautions (5.2)].
+bThe dose of SELZENTRY should be reduced to 150 mg twice daily if there are any symptoms of postural hypotension [see Warnings and Precautions (5.2)].

@@ -36,7 +36,7 @@ Percentage of Subjects With Selected Treatment-Emergent Adverse Events (All Caus
 
 |  | SELZENTRYTwice Dailya |  | Placebo |  |
 | --- | --- | --- | --- | --- |
-|  | N = 426(%) | Exposure-adjusted rate(per 100 pt-yrs)PYE = 309b | N = 426(%) | Exposure-adjusted rate(per 100 pt-yrs)PYE = 111b |
+|  | N = 426(%) | Exposure-adjusted rate(per 100 pt-yrs)PYE = 309b | N = 209(%) | Exposure-adjusted rate(per 100 pt-yrs)PYE = 111b |
 | Eye Disorders |  |  |  |  |
 | Conjunctivitis | 2 | 3 | 1 | 3 |
 | Ocular infections, inflammations, and associated manifestations | 2 | 3 | 1 | 2 |
@@ -172,7 +172,7 @@ Maximum Shift in Laboratory Test Values (Without Regard to Baseline) Incidence â
 | Absolute neutrophil count | <750/mm3 | 5.7 | 4.9 |
 | Hemoglobin | <7.0 g/dL | 2.9 | 2.3 |
 
-a N = Total number of subjects evaluable for laboratory abnormalities.
+aN = Total number of subjects evaluable for laboratory abnormalities.
 
 Percentages based on total subjects evaluated for each laboratory parameter.
 If the same subject in a given treatment group had >1 occurrence of the same abnormality, only the most severe is counted.

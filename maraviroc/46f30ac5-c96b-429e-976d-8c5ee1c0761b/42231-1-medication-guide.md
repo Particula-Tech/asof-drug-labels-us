@@ -1,7 +1,3 @@
-# PHARMACIST-DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ __ _ _ _ _ _ _ _ _
-
 MEDICATION GUIDE
 
 SELZENTRY® (sell-ZEN-tree) Tablets
@@ -80,8 +76,7 @@ Before you take SELZENTRY, tell your healthcare provider if you:
 - are pregnant or plan to become pregnant.
   It is not known if SELZENTRY may harm your unborn baby.
 
-Antiretroviral Pregnancy Registry.
-There is a pregnancy registry for women who take antiviral medicines during pregnancy.
+Antiretroviral Pregnancy Registry.There is a pregnancy registry for women who take antiviral medicines during pregnancy.
 The purpose of the registry is to collect information about the health of you and your baby.
 Talk to your healthcare provider about how you can take part in this registry.
 
@@ -107,7 +102,7 @@ The levels of SELZENTRY in your blood may change and your healthcare provider ma
 
 - nelfinavir (Viracept®) - nefazodone (Serzone®)
 
-- indinavir (Crixivan®) - telithromycin (Ketek®)
+- indinavir (Crixivan®) - telithromycin (Ketek®
 
 - fosamprenavir (Lexiva®) - efavirenz (Sustiva®, Atripla®)
 
