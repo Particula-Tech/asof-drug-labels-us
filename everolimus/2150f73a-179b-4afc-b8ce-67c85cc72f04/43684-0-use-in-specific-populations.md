@@ -2,27 +2,22 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.9)].
+Pregnancy Category D [see Warnings and Precautions (5.10)].
 
-There are no adequate and well-controlled studies of AFINITOR in pregnant women.
-However, based on the mechanism of action, AFINITOR may cause fetal harm when administered to a pregnant woman.
+There are no adequate and well-controlled studies of AFINITOR in pregnant women; however, based on the mechanism of action, AFINITOR can cause fetal harm when administered to a pregnant woman.
 Everolimus caused embryo-fetal toxicities in animals at maternal exposures that were lower than human exposures.
-If this drug is used during pregnancy or if the patient becomes pregnant while taking the drug, the patient should be apprised of the potential hazard to the fetus.
+If this drug is used during pregnancy or if the patient becomes pregnant while taking the drug, the patient should be apprised of the potential hazard to a fetus.
 Women of childbearing potential should be advised to use an effective method of contraception while receiving AFINITOR and for up to 8 weeks after ending treatment.
 
 In animal reproductive studies, oral administration of everolimus to female rats before mating and through organogenesis induced embryo-fetal toxicities, including increased resorption, pre-implantation and post-implantation loss, decreased numbers of live fetuses, malformation (e.g., sternal cleft), and retarded skeletal development.
 These effects occurred in the absence of maternal toxicities.
-Embryo-fetal toxicities occurred at approximately 4% the exposure (AUC0-24h) in patients receiving the 10 mg daily dose.
-In rabbits, embryotoxicity evident as an increase in resorptions occurred at an oral dose approximately 1.6 times the 10 mg daily human dose, and 0.7 times the maximum dose administered to SEGA patients on a body surface area basis.
+Embryo-fetal toxicities in rats occurred at doses ≥ 0.1 mg/kg (0.6 mg/m2) with resulting exposures of approximately 4% of the exposure (AUC0-24h) achieved in patients receiving the 10 mg daily dose of everolimus.
+In rabbits, embryotoxicity evident as an increase in resorptions occurred at an oral dose of 0.8 mg/kg (9.6 mg/m2), approximately 1.6 times either the 10 mg daily dose or the median dose administered to SEGA patients on a body surface area basis.
 The effect in rabbits occurred in the presence of maternal toxicities.
 
 In a pre- and post-natal development study in rats, animals were dosed from implantation through lactation.
-At approximately 10% of the 10 mg daily human dose, and 4% of the maximum dose administered to SEGA patients, based on body surface area, there were no adverse effects on delivery and lactation and there were no signs of maternal toxicity.
-However, there was reduced body weight (up to 9% reduction from the control) and slight reduction in survival in offspring (~5% died or missing).
+At the dose of 0.1 mg/kg (0.6 mg/m2), there were no adverse effects on delivery and lactation or signs of maternal toxicity; however, there were reductions in body weight (up to 9% reduction from the control) and in survival of offspring (~5% died or missing).
 There were no drug-related effects on the developmental parameters (morphological development, motor activity, learning, or fertility assessment) in the offspring.
-
-Doses that resulted in embryo-fetal toxicities in rats and rabbits were ≥ 0.1 mg/kg (0.6 mg/m2) and 0.8 mg/kg (9.6 mg/m2), respectively.
-The dose in the pre- and post-natal development study in rats that caused reduction in body weights and survival of offspring was 0.1 mg/kg (0.6 mg/m2).
 
 ## 8.3 Nursing Mothers
 
@@ -40,10 +35,18 @@ AFINITOR has not been studied in patients with SEGA < 3 years of age.
 
 ## 8.5 Geriatric Use
 
-In the randomized advanced RCC study, 41% of AFINITOR-treated patients were ≥ 65 years of age, while 7% were 75 and over.
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.3)].
+In the randomized advanced hormone receptor positive, HER2-negative breast cancer study, 40% of AFINITOR-treated patients were ≥ 65 years of age, while 15% were 75 and over.
+No overall differences in effectiveness were observed between elderly and younger subjects.
+The incidence of deaths due to any cause within 28 days of the last AFINITOR dose was 6% in patients ≥ 65 years of age compared to 2% in patients < 65 years of age.
+Adverse reactions leading to permanent treatment discontinuation occurred in 33% of patients ≥ 65 years of age compared to 17% in patients < 65 years of age [see Warnings and Precautions (5.5)].
 
-No dosage adjustment is required in elderly patients [see Clinical Pharmacology (12.3)].
+In two other randomized trials (advanced renal cell carcinoma and advanced neuroendocrine tumors of pancreatic origin), no overall differences in safety or effectiveness were observed between elderly and younger subjects.
+In the randomized advanced RCC study, 41% of AFINITOR treated patients were ≥ 65 years of age, while 7% were 75 and over.
+In the randomized advanced PNET study, 30% of AFINITOR-treated patients were ≥ 65 years of age, while 7% were 75 and over.
+
+Other reported clinical experience has not identified differences in response between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.3)].
+
+No dosage adjustment in initial dosing is required in elderly patients, but close monitoring and appropriate dose adjustments for adverse reactions is recommended [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
@@ -55,7 +58,7 @@ Renal impairment is not expected to influence drug exposure and no dosage adjust
 The safety, tolerability and pharmacokinetics of AFINITOR were evaluated in a 34 subject single oral dose study of everolimus in subjects with impaired hepatic function relative to subjects with normal hepatic function.
 Exposure was increased in patients with mild (Child-Pugh class A), moderate (Child-Pugh class B), and severe (Child-Pugh class C) hepatic impairment [see Clinical Pharmacology (12.3)].
 
-For advanced PNET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment, AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
+For advanced HR+ BC, advanced PNET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment, AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
 For patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment, a dose reduction is recommended [see Dosage and Administration (2.2)].
 
 For SEGA patients with severe hepatic impairment (Child-Pugh class C), AFINITOR is not recommended.

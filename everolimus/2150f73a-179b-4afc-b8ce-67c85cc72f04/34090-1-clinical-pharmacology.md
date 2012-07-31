@@ -4,10 +4,14 @@
 
 Everolimus is an inhibitor of mammalian target of rapamycin (mTOR), a serine-threonine kinase, downstream of the PI3K/AKT pathway.
 The mTOR pathway is dysregulated in several human cancers.
-Everolimus binds to an intracellular protein, FKBP-12, resulting in an inhibitory complex formation with mTORC1 and thus inhibition of mTOR kinase activity.
+Everolimus binds to an intracellular protein, FKBP-12, resulting in an inhibitory complex formation with mTOR complex 1 (mTORC1) and thus inhibition of mTOR kinase activity.
 Everolimus reduced the activity of S6 ribosomal protein kinase (S6K1) and eukaryotic elongation factor 4E-binding protein (4E-BP1), downstream effectors of mTOR, involved in protein synthesis.
+S6K1 is a substrate of mTORC1 and phosphorylates the activation domain 1 of the estrogen receptor which results in ligand-independent activation of the receptor.
 In addition, everolimus inhibited the expression of hypoxia-inducible factor (e.g., HIF-1) and reduced the expression of vascular endothelial growth factor (VEGF).
 Inhibition of mTOR by everolimus has been shown to reduce cell proliferation, angiogenesis, and glucose uptake in in vitro and/or in vivo studies.
+
+Constitutive activation of the PI3K/Akt/mTOR pathway can contribute to endocrine resistance in breast cancer.
+In vitro studies show that estrogen-dependent and HER2+ breast cancer cells are sensitive to the inhibitory effects of everolimus, and that combination treatment with everolimus and Akt, HER2, or aromatase inhibitors enhances the anti-tumor activity of everolimus in a synergistic manner.
 
 Two regulators of mTORC1 signaling are the oncogene suppressors tuberin-sclerosis complexes 1 and 2 (TSC1, TSC2).
 Loss or inactivation of either TSC1 or TSC2 leads to activation of downstream signaling.
@@ -74,7 +78,7 @@ Compared to normal subjects (N=13), there was a 1.8-fold, 3.2-fold, and 3.6-fold
 AUC) for subjects with mild (Child-Pugh class A, N=6), moderate (Child-Pugh class B, N=9), and severe (Child-Pugh class C, N=6) hepatic impairment, respectively.
 In another study, the average AUC of everolimus in eight subjects with moderate hepatic impairment (Child-Pugh class B) was twice that found in eight subjects with normal hepatic function.
 
-For advanced PNET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment, AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
+For advanced HR+ BC, advanced PNET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment, AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
 For patients with moderate or mild hepatic impairment, a dose reduction is recommended [see Dosage and Administration (2.2)].
 
 For SEGA patients with mild (Child-Pugh class A) or moderate hepatic impairment (Child-Pugh class B), adjustment to the starting dose may not be needed; however, subsequent dosing should be individualized based on therapeutic drug monitoring [see Dosage and Administration (2.4, 2.5)].

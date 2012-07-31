@@ -25,16 +25,16 @@ Inform patients of the need for the healthcare provider to monitor kidney functi
 
 ## 17.5 Laboratory Tests and Monitoring
 
-Inform patients of the need to monitor blood chemistry and hematology prior to the start of AFINITOR therapy and periodically thereafter [see Warnings and Precautions (5.5)].
+Inform patients of the need to monitor blood chemistry and hematology prior to the start of AFINITOR therapy and periodically thereafter [see Warnings and Precautions (5.6)].
 
 ## 17.6 Drug-drug Interactions
 
 Advise patients to inform their healthcare providers of all concomitant medications, including over-the-counter medications and dietary supplements.
-Inform the patients to avoid concomitant administration of strong CYP3A4 inhibitors or inducers while on AFINITOR treatment [see Dosage and Administration (2.2, 2.4), Warnings and Precautions (5.6), Drug Interactions (7.1, 7.2)].
+Inform the patients to avoid concomitant administration of strong CYP3A4 inhibitors or inducers while on AFINITOR treatment [see Dosage and Administration (2.2, 2.4), Warnings and Precautions (5.7), Drug Interactions (7.1, 7.2)].
 
 ## 17.7 Vaccinations
 
-Advise patients to avoid the use of live vaccines and close contact with those who have received live vaccines [see Warnings and Precautions (5.8)].
+Advise patients to avoid the use of live vaccines and close contact with those who have received live vaccines [see Warnings and Precautions (5.9)].
 
 ## 17.8 Pregnancy
 

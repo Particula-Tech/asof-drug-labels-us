@@ -13,10 +13,10 @@ In healthy subjects, compared to AFINITOR treatment alone there were significant
 - erythromycin (a moderate CYP3A4 inhibitor and a PgP inhibitor) - Cmax and AUC increased by 2.0- and 4.4-fold, respectively.
 - verapamil (a moderate CYP3A4 inhibitor and a PgP inhibitor) - Cmax and AUC increased by 2.3- and 3.5-fold, respectively.
 
-Concomitant strong inhibitors of CYP3A4 should not be used [see Dosage and Administration (2.3, 2.5) and Warnings and Precautions (5.6)].
+Concomitant strong inhibitors of CYP3A4 should not be used [see Dosage and Administration (2.2, 2.4) and Warnings and Precautions (5.7)].
 
 Use caution when AFINITOR is used in combination with moderate CYP3A4 and/or PgP inhibitors.
-If alternative treatment cannot be administered reduce the AFINITOR dose [see Dosage and Administration (2.3, 2.5) and Warnings and Precautions (5.6)].
+If alternative treatment cannot be administered reduce the AFINITOR dose [see Dosage and Administration (2.2, 2.4) and Warnings and Precautions (5.7)].
 
 ## 7.2 Agents that may Decrease Everolimus Blood Concentrations
 
@@ -24,12 +24,16 @@ CYP3A4 Inducers
 
 In healthy subjects, co-administration of AFINITOR with rifampin, a strong inducer of CYP3A4, decreased everolimus AUC and Cmax by 63% and 58% respectively, compared to everolimus treatment alone.
 Consider a dose increase of AFINITOR when co-administered with strong CYP3A4 inducers if alternative treatment cannot be administered.
-St. John’s Wort may decrease everolimus exposure unpredictably and should be avoided [see Dosage and Administration (2.3, 2.5)].
+St. John’s Wort may decrease everolimus exposure unpredictably and should be avoided [see Dosage and Administration (2.2, 2.4)].
 
 ## 7.3 Agents whose Plasma Concentrations may be Altered by Everolimus
 
 Studies in healthy subjects indicate that there are no clinically significant pharmacokinetic interactions between AFINITOR and the HMG-CoA reductase inhibitors atorvastatin (a CYP3A4 substrate) and pravastatin (a non-CYP3A4 substrate) and population pharmacokinetic analyses also detected no influence of simvastatin (a CYP3A4 substrate) on the clearance of AFINITOR.
 
 A study in healthy subjects demonstrated that co-administration of an oral dose of midazolam (sensitive CYP3A4 substrate) with everolimus resulted in a 25% increase in midazolam Cmax and a 30% increase in midazolam AUC(0-inf).
+
+Coadministration of everolimus and exemestane increased exemestane Cmin by 45% and C2h by 64%.
+However, the corresponding estradiol levels at steady state (4 weeks) were not different between the two treatment arms.
+No increase in adverse events related to exemestane was observed in patients with hormone receptor-positive, HER2-negative advanced breast cancer receiving the combination.
 
 Coadministration of everolimus and depot octreotide increased octreotide Cmin by approximately 50%.

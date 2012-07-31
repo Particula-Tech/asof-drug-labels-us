@@ -52,14 +52,14 @@ What is AFINITOR?
 
 AFINITOR is a prescription medicine used to treat:
 
-- people with a type of pancreatic cancer known as pancreatic neuroendocrine tumor (PNET), that has progressed and can not be treated with surgery.
+- advanced hormone receptor-positive, HER2-negative breast cancer, along with the medicine exemestane, in postmenopausal women who have already received certain other medicines for their cancer.
+- adults with a type of pancreatic cancer known as pancreatic neuroendocrine tumor (PNET), that has progressed and cannot be treated with surgery.
   It is not known if AFINITOR is safe and effective in people with carcinoid tumors.
-- people with advanced kidney cancer (renal cell carcinoma or RCC) when certain other medicines have not worked.
+- adults with advanced kidney cancer (renal cell carcinoma or RCC) when certain other medicines have not worked.
 - people with the following types of tumors that are seen with a genetic condition called tuberous sclerosis complex (TSC):
   - a kidney tumor called angiomyolipoma, when their kidney tumor does not require surgery right away.
-  - a brain tumor called subependymal giant cell astrocytoma (SEGA).
-
-It is not known if AFINITOR is safe and effective in children under 3 years of age with SEGA.
+  - a brain tumor called subependymal giant cell astrocytoma (SEGA) in adults and children 3 years and older who cannot have surgery for their tumor.
+    It is not known if AFINITOR is safe and effective in children under 3 years of age with SEGA.
 
 Who should not take AFINITOR?
 
@@ -117,6 +117,8 @@ How should I take AFINITOR?
 - Take AFINITOR exactly as your healthcare provider tells you.
   Your healthcare provider may change your dose of AFINITOR if needed.
 - Swallow AFINITOR tablets whole with a glass of water.
+  Do not crush AFINITOR tablets.
+  Do not take AFINITOR tablets which are crushed or broken.
 - If you cannot swallow AFINITOR tablets whole, you can stir them into a glass of water:
   - Put the prescribed number of tablets into a glass that contains about 2 Tablespoons (30 mL) of water
   - Gently stir the contents until the tablets break apart and then drink the mixture right away
@@ -134,7 +136,7 @@ How should I take AFINITOR?
   If you are not sure about what to do, call your healthcare provider.
 - You should have regular blood tests before you start AFINITOR and as needed during your treatment.
   These will include tests to check your blood cell count, kidney and liver function, cholesterol, and blood sugar levels.
-- If you take AFINITOR to treat SEGA, you will need to have regular blood tests to measure how much AFINITOR is in your blood.
+- If you take AFINITOR to treat SEGA, you will need to have blood tests regularly to measure how much AFINITOR is in your blood.
   This will help your healthcare provider decide how much AFINITOR you need to take.
 
 What should I avoid while taking AFINITOR?
@@ -148,25 +150,34 @@ AFINITOR can cause serious side effects.
 
 - See “What is the most important information I should know about AFINITOR?”
 
-Common side effects of AFINITOR in people with advanced pancreatic neuroendocrine tumors and patients with advanced kidney cancer include:
+Common side effects of AFINITOR in patients with advanced hormone receptor-positive, HER2-negative breast cancer, advanced pancreatic neuroendocrine tumors, and advanced kidney cancer include:
 
 - Mouth ulcers.
   AFINITOR can cause mouth ulcers and sores.
   Tell your healthcare provider if you have pain, discomfort, or open sores in your mouth.
   Your healthcare provider may tell you to use a special mouthwash or mouth gel that does not contain alcohol or peroxide.
+- Infections
 - Feeling weak or tired
 - Cough, shortness of breath
-- Diarrhea
+- Diarrhea and constipation
 - Rash, dry skin, and itching
 - Nausea and vomiting
 - Fever
-- Loss of appetite
+- Loss of appetite, weight loss
 - Swelling of arms, hands, feet, ankles, face or other parts of the body
 - Abnormal taste
+- Dry mouth
 - Inflammation of lining of the digestive system
 - Headache
 - Nose bleeds
-- Pain in arms and legs
+- Pain in arms and legs, mouth and throat, back or joints
+- High blood glucose
+- High blood pressure
+- Difficulty sleeping
+- Hair loss
+- Muscle spasms
+- Feeling dizzy
+- Nail disorders
 
 Common side effects of AFINITOR in patients who have angiomyolipoma with TSC include:
 
@@ -233,7 +244,7 @@ Keep AFINITOR and all medicines out of the reach of children.
 
 General information about AFINITOR
 
-Medicines are sometimes prescribed for conditions that are not mentioned in a patient information leaflet.
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use AFINITOR for a condition for which it was not prescribed.
 Do not give AFINITOR to other people, even if they have the same problem you have.
 It may harm them.
@@ -260,4 +271,4 @@ The brands listed are the trademarks or register marks of their respective owner
 
 © Novartis
 
-T2012-82/T2012-83 April 2012/April 2012
+T2012-132/T2012-133 July 2012/July 2012

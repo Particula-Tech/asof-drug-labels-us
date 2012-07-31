@@ -8,7 +8,9 @@ Everolimus was not genotoxic in a battery of in vitro assays (Ames mutation test
 Everolimus was not genotoxic in an in vivo mouse bone marrow micronucleus test at doses up to 500 mg/kg/day (1500 mg/m2/day, approximately 255-fold the 10 mg daily human dose, and 103-fold the maximum dose administered to patients with SEGA, based on the body surface area), administered as two doses, 24 hours apart.
 
 Based on non-clinical findings, male fertility may be compromised by treatment with AFINITOR.
-In a 13-week male fertility study in rats, testicular morphology was affected at 0.5 mg/kg and above, and sperm motility, sperm count, and plasma testosterone levels were diminished at 5 mg/kg, which resulted in infertility at 5 mg/kg.
+In a 13-week male fertility study in rats, testicular morphology was affected at 0.5 mg/kg and above.
+Sperm motility, sperm count, and plasma testosterone levels were diminished in rats treated with at 5 mg/kg.
+These doses result in exposures which are within the range of therapeutic exposure (52 ng.hr/mL and 414 ng.hr/mL respectively compared to 560 ng.hr/mL human exposure at 10 mg/day), and resulted in infertility in the rats at 5 mg/kg.
 Effects on male fertility occurred at the AUC0-24h values below that of therapeutic exposure (approximately 10%-81% of the AUC0-24h in patients receiving the 10 mg daily dose).
 After a 10-13 week non-treatment period, the fertility index increased from zero (infertility) to 60% (12/20 mated females were pregnant).
 
