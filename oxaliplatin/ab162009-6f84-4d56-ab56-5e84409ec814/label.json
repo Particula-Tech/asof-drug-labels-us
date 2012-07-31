@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078817"
+  ],
+  "inn": "oxaliplatin",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-3315-70",
+    "0781-3317-80"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "oxaliplatin",
+      "name": "Oxaliplatin"
+    }
+  ],
+  "setid": "ab162009-6f84-4d56-ab56-5e84409ec814",
+  "source": "dailymed"
+}
