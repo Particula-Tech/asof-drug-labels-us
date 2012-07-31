@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA063142"
+  ],
+  "inn": "ampicillin",
+  "labeler": "WG Critical Care, LLC",
+  "package_ndcs": [
+    "44567-104-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "ampicillin",
+      "name": "Ampicillin"
+    }
+  ],
+  "setid": "12b6ac82-ca74-4f88-99ea-ae4a1c419b70",
+  "source": "dailymed"
+}

@@ -1,0 +1,1 @@
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Ampicillin and other antibacterial drugs, Ampicillin should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
