@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA065079"
+  ],
+  "inn": "penicillin-g",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-6135-94",
+    "0781-6135-95",
+    "0781-6136-94"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "penicillin g potassium",
+      "name": "Penicillin G Potassium"
+    }
+  ],
+  "setid": "91950983-4884-40d1-abd8-bcc953d61b7f",
+  "source": "dailymed"
+}
