@@ -113,7 +113,7 @@ Very rare gastrointestinal ischemic events including splenic infarction, ischemi
 
 ## Neurological:
 
-As with other acute migraine treatments including other 5HT1 agonists, there have been rare reports of headache.
+As with other acute migraine treatments including other 5-HT1 agonists, there have been rare reports of headache.
 
 ## General:
 

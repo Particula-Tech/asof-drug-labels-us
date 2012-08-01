@@ -9,7 +9,7 @@ The N-desmethyl metabolite also has high affinity for 5-HT1B/1D and modest affin
 Current theories proposed to explain the etiology of migraine headache suggest that symptoms are due to local cranial vasodilatation and/or to the release of sensory neuropeptides (vasoactive intestinal peptide, substance P and calcitonin gene-related peptide) through nerve endings in the trigeminal system.
 The therapeutic activity of zolmitriptan for the treatment of migraine headache can most likely be attributed to the agonist effects at the 5-HT1B/1D receptors on intracranial blood vessels (including the arterio-venous anastomoses) and sensory nerves of the trigeminal system which result in cranial vessel constriction and inhibition of pro-inflammatory neuropeptide release.
 
-## Clinical Pharmacokinetics and Bioavailability;
+## Clinical Pharmacokinetics and Bioavailability:
 
 ### Absorption
 
@@ -28,7 +28,7 @@ No accumulation occurred on multiple dosing.
 
 Mean absolute bioavailability is approximately 40%.
 The mean apparent volume of distribution is 7.0 L/kg.
-Plasma protein binding of zolmitriptan is 25% over the concentration range of 10- 1000ng/mL.
+Plasma protein binding of zolmitriptan is 25% over the concentration range of 10-1000ng/mL.
 
 ### Metabolism:
 
@@ -113,17 +113,13 @@ Table 1: Percentage of Patients with Headache Response (Mild or no Headache) 2 H
 
 |  | Placebo | ZOMIG1.0 mg | ZOMIG2.5 mg | ZOMIG5 mg |
 | --- | --- | --- | --- | --- |
-| Study 1This was the only study in which patients treated the headache in a clinic setting. | 16%(n=19) | 27%(n=22) | NANA - not applicable | 60%p<0.05 in comparison with placebo.p<0.05 in comparison with 1 mg.(n=20) |
+| Study 1This was the only study in which patients treated the headache in a clinic setting. | 16%(n=19) | 27%(n=22) | NANA - not applicable | 60%p<0.05 in comparison with placebo.,p<0.05 in comparison with 1 mg.(n=20) |
 | Study 2 | 19%(n=88) | NA | NA | 66%(n=179) |
-| Study 3 | 34%(n=121) | 50%(n=140) | 65%(n=260) | 67%(n=245) |
+| Study 3 | 34%(n=121) | 50%(n=140) | 65%,(n=260) | 67%,(n=245) |
 | Study 4This was the only study where patients were excluded who had previously used sumatriptan. | 44%(n=55) | NA | NA | 59%(n=491) |
 | Study 5 | 36%(n=92) | NANA | 62%(n=178) | NA |
 
 The estimated probability of achieving an initial headache response by 4 hours following treatment is depicted in Figure 1.
-
-*Figure 1 shows the Kaplan-Meier plot of the probability over time of obtaining headache response (no or mild pain) following treatment with zolmitriptan.
-The averages displayed are based on pooled data from 3 placebo controlled, outpatient trials providing evidence of efficacy (Trials 2, 3 and 5).
-Patients not achieving headache response or taking additional treatment prior to 4 hours were censored at 4 hours.
 
 For patients with migraine associated photophobia, phonophobia, and nausea at baseline, there was a decreased incidence of these symptoms following administration of ZOMIG as compared to placebo.
 

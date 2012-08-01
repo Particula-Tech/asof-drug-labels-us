@@ -49,9 +49,9 @@ Serotonin syndrome symptoms may include mental status changes (e.g., agitation, 
 ## Other Vasospasm-Related Events:
 
 5-HT1 agonists may cause vasospastic reactions other than coronary artery vasospasm such as peripheral and gastrointestinal vascular ischemia.
-As with other serotonin 5HT1 agonists, very rare gastrointestinal ischemic events including ischemic colitis and gastrointestinal infarction or necrosis have been reported with ZOMIG Tablets; these may present as bloody diarrhea or abdominal pain (See CONTRAINDICATIONS).
+As with other serotonin 5-HT1 agonists, very rare gastrointestinal ischemic events including ischemic colitis and gastrointestinal infarction or necrosis have been reported with ZOMIG Tablets; these may present as bloody diarrhea or abdominal pain (See CONTRAINDICATIONS).
 
-Very rare reports of transient and permanent blindness and significant partial vision loss have been reported with the use of 5- HT1 agonists.
+Very rare reports of transient and permanent blindness and significant partial vision loss have been reported with the use of 5-HT1 agonists.
 Visual disorders may also be part of a migraine attack.
 
 ## Increase in Blood Pressure:
@@ -71,7 +71,7 @@ An 18% increase in mean pulmonary artery pressure was seen following dosing with
 As with other 5-HT1B/1D agonists, sensations of tightness, pain, pressure, and heaviness have been reported after treatment with ZOMIG Tablets in the precordium, throat, neck, and jaw.
 Because zolmitriptan may cause coronary artery vasospasm, patients who experience signs or symptoms suggestive of angina following dosing should be evaluated for the presence of CAD or a predisposition to Prinzmetal’s variant angina before receiving additional doses of medication, and should be monitored electrocardiographically if dosing is resumed and similar symptoms recur.
 Similarly, patients who experience other symptoms or signs suggestive of decreased arterial flow, such as ischemic bowel syndrome or Raynaud’s syndrome following the use of any 5-HT1 agonist are candidates for further evaluation.
-(see CONTRAINDICATIONS and WARNINGS.)
+(see CONTRAINDICATIONS and WARNINGS).
 
 Zolmitriptan should also be administered with caution to patients with diseases that may alter the absorption, metabolism, or excretion of drugs, such as impaired hepatic function (see CLINICAL PHARMACOLOGY).
 
