@@ -215,7 +215,7 @@ Serum FSH and estradiol levels have not been shown to be useful in the managemen
 
 Laboratory parameters may be useful in guiding dosage for the treatment of hypoestrogenism due to hypogonadism, castration and primary ovarian failure.
 
-## D. Drug- Laboratory Test Interactions
+## D. Drug-Laboratory Test Interactions
 
 1. Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
 2. Increased thyroid binding globulin (TBG) levels leading to increased circulating total thyroid hormone levels as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
@@ -263,7 +263,7 @@ In boys, estrogen treatment may modify the normal pubertal process and induce gy
 
 There have not been sufficient numbers of geriatric patients involved in studies utilizing PREMARIN to determine whether those over 65 years of age differ from younger subjects in their response to PREMARIN.
 
-### The Women’s Health Initiative Study
+### The Women's Health Initiative Study
 
 In the WHI estrogen-alone substudy (daily CE [0.625 mg]-alone versus placebo), there was a higher relative risk of stroke in women greater than 65 years of age.
 (See CLINICAL STUDIES.)
@@ -271,7 +271,7 @@ In the WHI estrogen-alone substudy (daily CE [0.625 mg]-alone versus placebo), t
 In the WHI estrogen plus progestin substudy (daily CE [0.625 mg] plus MPA [2.5 mg] versus placebo), there was a higher relative risk of nonfatal stroke and invasive breast cancer in women greater than 65 years of age.
 (See CLINICAL STUDIES.)
 
-### The Women’s Health Initiative Memory Study
+### The Women's Health Initiative Memory Study
 
 In the WHIMS ancillary studies of postmenopausal women 65 to 79 years of age, there was an increased risk of developing probable dementia in women receiving estrogen-alone or estrogen plus progestin when compared to placebo.
 (See CLINICAL STUDIES and WARNINGS, Probable Dementia.)

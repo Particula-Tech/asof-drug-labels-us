@@ -76,11 +76,11 @@ The bone turnover markers serum osteocalcin and urinary N-telopeptide significan
 Larger mean decreases from baseline were seen with the active groups than with the placebo group.
 Significant differences from placebo were seen less frequently in urine calcium.
 
-## Women’s Health Initiative Studies
+## Women's Health Initiative Studies
 
 The Women's Health Initiative (WHI) enrolled approximately 27,000 predominantly healthy postmenopausal women in two substudies to assess the risks and benefits of daily oral CE (0.625 mg)-alone or in combination with MPA (2.5 mg) compared to placebo in the prevention of certain chronic diseases.
 The primary endpoint was the incidence of coronary heart disease [(CHD) defined as nonfatal MI, silent MI and CHD death], with invasive breast cancer as the primary adverse outcome.
-A “global index” included the earliest occurrence of CHD, invasive breast cancer, stroke, PE, endometrial cancer (only in CE plus MPA substudy), colorectal cancer, hip fracture, or death due to other causes.
+A "global index" included the earliest occurrence of CHD, invasive breast cancer, stroke, PE, endometrial cancer (only in CE plus MPA substudy), colorectal cancer, hip fracture, or death due to other causes.
 These substudies did not evaluate the effects of CE-alone or CE plus MPA on menopausal symptoms.
 
 ### WHI Estrogen-Alone Substudy
@@ -111,10 +111,10 @@ RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN-ALONE SUBSTUDY OF WHIa
 | Death due to other causese,f | 1.08 (0.88-1.32) | 53 | 50 |
 | Overall mortalityc,d | 1.04 (0.88-1.22) | 79 | 75 |
 | Global Indexg | 1.02 (0.92-1.13) | 206 | 201 |
-| a Adapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi.b Nominal confidence intervals unadjusted for multiple looks and multiple comparisons.c Results are based on centrally adjudicated data for an average follow-up of 7.1 years.d Not included in Global Index.e Results are based on an average follow-up of 6.8 years.f All deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease.g A subset of the events was combined in a “global index,” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
+| a Adapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi.b Nominal confidence intervals unadjusted for multiple looks and multiple comparisons.c Results are based on centrally adjudicated data for an average follow-up of 7.1 years.d Not included in Global Index.e Results are based on an average follow-up of 6.8 years.f All deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease.g A subset of the events was combined in a "global index," defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. |  |  |  |
 
-For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures.
-The absolute excess risk of events included in the “global index” was a nonsignificant 5 events per 10,000 women-years.
+For those outcomes included in the WHI "global index" that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures.
+The absolute excess risk of events included in the "global index" was a nonsignificant 5 events per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.
 
 No overall difference for primary CHD events (nonfatal MI, silent MI and CHD death) and invasive breast cancer incidence in women receiving CE-alone compared with placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow-up of 7.1 years.
@@ -128,10 +128,10 @@ The WHI estrogen-alone substudy stratified by age showed in women 50 to 59 years
 ### WHI Estrogen Plus Progestin Substudy
 
 The WHI estrogen plus progestin substudy was stopped early.
-According to the predefined stopping rule, after an average follow-up of 5.6 years of treatment, the increased risk of invasive breast cancer and cardiovascular events exceeded the specified benefits included in the “global index.”
-The absolute excess risk of events included in the “global index” was 19 per 10,000 women-years.
+According to the predefined stopping rule, after an average follow-up of 5.6 years of treatment, the increased risk of invasive breast cancer and cardiovascular events exceeded the specified benefits included in the "global index."
+The absolute excess risk of events included in the "global index" was 19 per 10,000 women-years.
 
-For those outcomes included in the WHI “global index” that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women years in the group treated with CE plus MPA were 7 more CHD events, 8 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reductions per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
+For those outcomes included in the WHI "global index" that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women years in the group treated with CE plus MPA were 7 more CHD events, 8 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reductions per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 
 Results of the estrogen plus progestin substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.8 percent Black, 5.4 percent Hispanic, 3.9 percent Other) are presented in Table 5.
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
@@ -167,13 +167,13 @@ b Results are based on centrally adjudicated data.
 
 c Nominal confidence intervals unadjusted for multiple looks and multiple comparisons.
 
-d Not included in “global index”.
+d Not included in "global index".
 
 e Includes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer.
 
 f All deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease.
 
-g A subset of the events was combined in a “global index,” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes.
+g A subset of the events was combined in a "global index," defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes.
 
 Timing of the initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen plus progestin substudy stratified by age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for overall mortality [HR 0.69 (95 percent CI, 0.44-1.07)].

@@ -18,9 +18,9 @@ PREMARIN is a medicine that contains a mixture of estrogen hormones.
 
 - Reduce moderate to severe hot flashesEstrogens are hormones made by a woman's ovaries.
   The ovaries normally stop making estrogens when a woman is between 45 and 55 years old.
-  This drop in body estrogen levels causes the “change of life” or menopause (the end of monthly menstrual periods).
+  This drop in body estrogen levels causes the "change of life" or menopause (the end of monthly menstrual periods).
   Sometimes, both ovaries are removed during an operation before natural menopause takes place.
-  The sudden drop in estrogen levels causes “surgical menopause.”When the estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating (“hot flashes” or “hot flushes”).
+  The sudden drop in estrogen levels causes "surgical menopause."When the estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating ("hot flashes" or "hot flushes").
   In some women the symptoms are mild, and they will not need to take estrogens.
   In other women, symptoms can be more severe.
 - Treat menopausal changes in and around the vaginaYou and your healthcare provider should talk regularly about whether you still need treatment with PREMARIN to control these problems.
@@ -87,7 +87,7 @@ Do not start taking PREMARIN if you:
 - High blood sugar
 - Gallbladder disease
 - Liver problems
-- Enlargement of benign tumors of the uterus (“fibroids”)
+- Enlargement of benign tumors of the uterus ("fibroids")
 - Severe allergic reactions
 
 ### Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
@@ -137,7 +137,6 @@ Keep PREMARIN out of the reach of children.
 This leaflet provides a summary of the most important information about PREMARIN.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask for information about PREMARIN that is written for health professionals.
-You can get more information by calling the toll free number 1-800-438-1985.
 
 ## What are the ingredients in PREMARIN?
 
@@ -162,9 +161,9 @@ The appearance of these tablets is a trademark of Wyeth LLC.
 
 Store at Controlled Room Temperature 20° to 25°C (68° to 77°F).
 
-|  | This product's label may have been updated. For current package insert and further product information, please visit www.pfizerpro.com or call our medical communications department toll-free at 1-800-438-1985. |  |
-| --- | --- | --- |
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0515-2.0
+LAB-0515-3.0
 
-Rev 10/2011
+Rev 02/2012

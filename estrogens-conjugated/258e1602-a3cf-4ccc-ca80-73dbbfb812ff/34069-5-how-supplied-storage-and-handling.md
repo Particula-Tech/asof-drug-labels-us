@@ -18,6 +18,6 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (5
 
 Dispense in a well-closed container, as defined in the USP.
 
-LAB-0467-3.0
+LAB-0467-4.0
 
-Rev 10/2011
+Rev 02/2012
