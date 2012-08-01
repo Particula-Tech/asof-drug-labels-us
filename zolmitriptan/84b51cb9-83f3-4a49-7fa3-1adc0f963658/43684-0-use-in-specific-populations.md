@@ -36,7 +36,7 @@ In the postmarketing experience with triptans, including ZOMIG, there is a limit
 
 Although the pharmacokinetic disposition of the drug in the elderly is similar to that seen in younger adults, there is no information about the safety and effectiveness of zolmitriptan in this population because patients over age 65 were excluded from the controlled clinical trials [see Clinical Pharmacology (12.3)].
 
-## 8.6 Hepatic Impairment:
+## 8.6 Hepatic Impairment
 
 The effect of hepatic disease on the pharmacokinetics of zolmitriptan nasal spray has not been evaluated.
 After oral administration, zolmitriptan exposure was increased in patients with severe hepatic impairment, and significant elevation in blood pressure was observed in some patients.

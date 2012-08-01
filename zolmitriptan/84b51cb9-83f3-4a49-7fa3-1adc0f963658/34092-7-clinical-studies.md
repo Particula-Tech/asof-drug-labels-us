@@ -20,7 +20,7 @@ The 2 hour headache response was the primary end-point.
 
 | N | PLACEBO (226) | ZOMIG 5 mg (235) |
 | --- | --- | --- |
-| 2 hours | 31% | 69%p <0.0001 in comparison with placebo |
+| 2 hours | 31% | 69%p<0.0001 in comparison with placebo |
 
 The estimated probability of achieving an initial headache response by 4 hours following treatment with ZOMIG Nasal Spray is depicted in Figure 1.
 

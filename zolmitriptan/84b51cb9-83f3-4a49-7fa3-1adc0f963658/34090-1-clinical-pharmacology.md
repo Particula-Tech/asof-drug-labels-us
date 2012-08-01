@@ -76,7 +76,7 @@ Race:
 
 Retrospective analysis of pharmacokinetic data between Japanese and Caucasians revealed no significant differences for orally dosed zolmitriptan.
 
-## 12.4 Drug Interactions:
+## 12.4 Drug Interactions
 
 All drug interaction studies were performed in healthy volunteers using a single 10 mg dose of zolmitriptan and a single dose of the other drug except where otherwise noted.
 Eight drug interaction studies have been performed with zolmitriptan tablets and one study (xylometazoline) was performed with nasal spray.

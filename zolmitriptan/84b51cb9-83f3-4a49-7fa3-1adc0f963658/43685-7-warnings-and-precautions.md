@@ -81,7 +81,7 @@ In a study of patients with moderate to severe liver disease, 7 of 27 experience
 
 An 18% increase in mean pulmonary artery pressure was seen following dosing with another 5-HT1 agonist in a study evaluating subjects undergoing cardiac catheterization.
 
-## 5.7 Binding to Melanin-Containing Tissues:
+## 5.7 Binding to Melanin-Containing Tissues
 
 When pigmented rats were given a single oral dose of 10 mg/kg of radiolabeled zolmitriptan, the radioactivity in the eye after 7 days, the latest time point examined, was still 75% of the value measured after 4 hours.
 This suggests that zolmitriptan and/or its metabolites may bind to the melanin of the eye.
@@ -89,10 +89,10 @@ Because there could be accumulation in melanin rich tissues over time, this rais
 However, no effects on the retina related to treatment with zolmitriptan were noted in any of the toxicity studies including those conducted by the nasal route.
 Although no systematic monitoring of ophthalmologic function was undertaken in clinical trials, and no specific recommendations for ophthalmologic monitoring are offered, prescribers should be aware of the possibility of long-term ophthalmologic effects.
 
-## 5.8 Laboratory Tests:
+## 5.8 Laboratory Tests
 
 No monitoring of specific laboratory tests is recommended.
 
-## 5.9 Drug/Laboratory Test Interactions:
+## 5.9 Drug/Laboratory Test Interactions
 
 Zolmitriptan is not known to interfere with commonly employed clinical laboratory tests.

@@ -131,7 +131,7 @@ Rare: breast carcinoma, dysmenorrhea, metrorrhagia, breast neoplasm, unintended 
 
 The adverse experience profile seen with ZOMIG Nasal Spray is similar to that seen with ZOMIG tablets and ZOMIG-ZMT tablets except for the occurrence of local adverse reactions from the nasal spray (see ZOMIG Tablet Prescribing Information).
 
-## 6.2 Postmarketing Experience with ZOMIG Tablets:
+## 6.2 Postmarketing Experience with ZOMIG Tablets
 
 The following adverse reactions were identified during post approval use of ZOMIG.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
