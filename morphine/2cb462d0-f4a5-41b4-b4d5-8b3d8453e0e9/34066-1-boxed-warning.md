@@ -1,14 +1,20 @@
-# BOXED WARNING
+# WARNING: ABUSE POTENTIAL, LIFE-THREATENING RESPIRATORY DEPRESSION, and ACCIDENTAL EXPOSURE
 
-KADIAN® contains morphine sulfate, an opioid agonist and a Schedule II controlled substance, with an abuse liability similar to other opioid analgesics.
-KADIAN® can be abused in a manner similar to other opioid agonists, legal or illicit.
-This should be considered when prescribing or dispensing KADIAN® in situations where the physician or pharmacist is concerned about an increased risk of misuse, abuse or diversion.
+Abuse Potential
 
-KADIAN® capsules are an extended-release oral formulation of morphine sulfate indicated for the management of moderate to severe pain when a continuous, around-the-clock opioid analgesic is needed for an extended period of time.
+KADIAN contains morphine, an opioid agonist and Schedule II controlled substance with an abuse liability similar to other opioid agonists, legal or illicit [see Warnings and Precautions (5.1)].
+Assess each patient’s risk for opioid abuse or addiction prior to prescribing KADIAN.
+The risk for opioid abuse is increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depressive disorder).
+Routinely monitor all patients receiving KADIAN for signs of misuse, abuse, and addiction during treatment [see Drug Abuse and Dependence (9)].
 
-KADIAN® Capsules are NOT for use as a prn analgesic.
+Life-threatening Respiratory Depression
 
-KADIAN® 100 mg and 200 mg Capsules ARE FOR USE IN OPIOID-TOLERANT PATIENTS ONLY.
-Ingestion of these capsules or of the pellets within the capsules may cause fatal respiratory depression when administered to patients not already tolerant to high doses of opioids.
-KADIAN® CAPSULES ARE TO BE SWALLOWED WHOLE OR THE CONTENTS OF THE CAPSULES SPRINKLED ON APPLE SAUCE.
-THE PELLETS IN THE CAPSULES ARE NOT TO BE CHEWED, CRUSHED, OR DISSOLVED DUE TO THE RISK OF RAPID RELEASE AND ABSORPTION OF A POTENTIALLY FATAL DOSE OF MORPHINE.
+Respiratory depression, including fatal cases, may occur with use of KADIAN, even when the drug has been used as recommended and not misused or abused [see Warnings and Precautions (5.2)].
+Proper dosing and titration are essential and KADIAN should only be prescribed by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
+Monitor for respiratory depression, especially during initiation of KADIAN or following a dose increase.
+Instruct patients to swallow KADIAN capsules whole or to sprinkle the contents of the capsule on applesauce and swallow without chewing.
+Crushing, dissolving, or chewing the pellets within the capsule can cause rapid release and absorption of a potentially fatal dose of morphine.
+
+Accidental Exposure
+
+Accidental consumption of KADIAN, especially in children, can result in a fatal overdose of morphine [see Warnings and Precautions (5.3)].
