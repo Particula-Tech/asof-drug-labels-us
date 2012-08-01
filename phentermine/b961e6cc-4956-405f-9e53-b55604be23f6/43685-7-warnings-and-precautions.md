@@ -8,7 +8,7 @@ Therefore, coadministration of Suprenza and these drug products is not recommend
 
 ## 5.2 Primary Pulmonary Hypertension
 
-Primary Pulmonary Hypertension (PPH) - a rare, frequently fatal disease of the lungs - has been reported to occur in patients receiving a combination of phentermine with fenfluramine or dexfenfluramine.
+Primary Pulmonary Hypertension (PPH) – a rare, frequently fatal disease of the lungs – has been reported to occur in patients receiving a combination of phentermine with fenfluramine or dexfenfluramine.
 The possibility of an association between PPH and the use of Suprenza alone cannot be ruled out; there have been rare cases of PPH in patients who reportedly have taken phentermine alone.
 The initial symptom of PPH is usually dyspnea.
 Other initial symptoms may include angina pectoris, syncope or lower extremity edema.

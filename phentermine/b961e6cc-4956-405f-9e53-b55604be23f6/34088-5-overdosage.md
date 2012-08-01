@@ -6,7 +6,7 @@ The least amount feasible should be prescribed or dispensed at one time in order
 
 Manifestations of acute overdosage include restlessness, tremor, hyperreflexia, rapid respiration, confusion, assaultiveness, hallucinations, and panic states.
 Fatigue and depression usually follow the central stimulation.
-Cardiovascular effects include arrhythmia, hypertension or hypotension, and circulatory collapse.
+Cardiovascular effects include tachycardia, arrhythmia, hypertension or hypotension, and circulatory collapse.
 Gastrointestinal symptoms include nausea, vomiting, diarrhea and abdominal cramps.
 Overdosage of pharmacologically similar compounds has resulted in fatal poisoning usually terminates in convulsions and coma.
 
