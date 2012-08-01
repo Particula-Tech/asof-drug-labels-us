@@ -84,22 +84,22 @@ Table 8 - All Recurrence and Death EventsThe combination arm was discontinued du
 
 A summary of the study efficacy results is provided in Table 9.
 
-Table 9 - ATAC Efficacy SummaryThe combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.
+Table 9 - ATC Efficacy SummaryThe combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up
 
-|  | Number of Events |  |  |  |
-| --- | --- | --- | --- | --- |
 |  | Intent-To-Treat Population |  | Hormone Receptor-Positive Subpopulation |  |
-|  | ARIMIDEX 1 mg (N=3125) | Tamoxifen 20 mg (N=3116) | ARIMIDEX 1 mg (N=2618) | Tamoxifen 20 mg (N=2598) |
+| --- | --- | --- | --- | --- |
+|  | ARIMIDEX1 mg(N=3125) | Tamoxifen20 mg(N=3116) | ARIMIDEX1 mg(N=2618) | Tamoxifen20 mg(N=2598) |
+|  | Number of Events |  |  |  |
 | Disease-free Survival | 575 | 651 | 424 | 497 |
 | Hazard ratio | 0.87 |  | 0.83 |  |
-| 2-sided 95% CI | 0.78 to 0.97 |  | 0.73 to 0.94 |  |
+| 2-sided95% CI | 0.78 to 0.97 |  | 0.73 to 0.94 |  |
 | p-value | 0.0127 |  | 0.0049 |  |
 | Distant Disease-free Survival | 500 | 530 | 370 | 394 |
-| Hazard ratio | 0.940.83 to 1.06 |  | 0.930.80 to 1.07 |  |
-| 2-sided 95% CI |  |  |  |  |
+| Hazard ratio | 0.94 |  | 0.93 |  |
+| 2-sided95% CI | 0.83 to 1.06 |  | 0.80 to 1.07 |  |
 | Overall Survival | 411 | 420 | 296 | 301 |
-| Hazard ratio | 0.970.85 to 1.12 |  | 0.970.83 to 1.14 |  |
-| 2-sided 95% CI |  |  |  |  |
+| Hazard ratio | 0.97 |  | 0.97 |  |
+| 2-sided95% CI | 0.85 to 1.12 |  | 0.83 to 1.14 |  |
 
 10-year median follow-up Efficacy Results from the ATAC Trial
 
@@ -108,17 +108,17 @@ Patients received study treatment for a median of 60 months (5 years) (see Table
 
 Table 10 - Efficacy Summary
 
-|  | Number of Events |  | Number of Events |  |
-| --- | --- | --- | --- | --- |
 |  | Intent-To-Treat Population |  | Hormone Receptor-Positive Subpopulation |  |
-|  | ARIMIDEX 1 mg (N=3125) | Tamoxifen 20 mg (N=3116) | ARIMIDEX 1 mg (N=2618) | Tamoxifen 20 mg (N=2598) |
+| --- | --- | --- | --- | --- |
+|  | ARIMIDEX1 mg(N=3125) | Tamoxifen20 mg(N=3116) | ARIMIDEX1 mg(N=2618) | Tamoxifen20 mg(N=2598) |
+|  | Number of Events |  |  |  |
 | Disease-free Survival | 953 | 1022 | 735 | 924 |
 | Hazard ratio | 0.91 |  | 0.86 |  |
-| 2-sided 95% CI | 0.83 to 0.99 |  | 0.78 to 0.95 |  |
+| 2-sided95% CI | 0.83 to 0.99 |  | 0.78 to 0.95 |  |
 | p-value | 0.0365 |  | 0.0027 |  |
 | Overall Survival | 734 | 747 | 563 | 586 |
-| Hazard ratio | 0.910.88 to 1.08 |  | 0.950.84 to 1.06 |  |
-| 2-sided 95% CI |  |  |  |  |
+| Hazard ratio | 0.91 |  | 0.95 |  |
+| 2-sided95% CI | 0.88 to 1.08 |  | 0.84 to 1.06 |  |
 
 Figure 3 - Disease-Free Survival Kaplan Meier Survival Curve for all Patients Randomized to ARIMIDEX or Tamoxifen Monotherapy in the ATAC Trial (Intent-to-Treat)(a)
 
@@ -145,7 +145,7 @@ Table 11 — Demographic and Other Baseline Characteristics
 |  | Number (%) of subjects |  |  |  |
 |  | Trial 0030 |  | Trial 0027 |  |
 | ERER=Estrogen receptor and/or PgRPgR=Progesterone receptor | 151 (88.3) | 162 (89.0) | 154 (45.3) | 144 (43.9) |
-| ER unknown, PgR Unknown | 19 (11.1) | 20 (11.0) | 185 (54.4) | 183 (55.8) |
+| ER unknown, PgRUnknown | 19 (11.1) | 20 (11.0) | 185 (54.4) | 183 (55.8) |
 
 For the primary endpoints, trial 0030 showed that ARIMIDEX had a statistically significant advantage over tamoxifen (p=0.006) for time to tumor progression; objective tumor response rates were similar for ARIMIDEX and tamoxifen.
 Trial 0027 showed that ARIMIDEX and tamoxifen had similar objective tumor response rates and time to tumor progression (see Table 12 and Figures 5 and 6).
