@@ -48,7 +48,7 @@ Rx only
 
 Made in USA
 
-LD-201-3 Y37-002-416
+LD-201-4 Y37-002-419
 
 PEEL HERE
 
