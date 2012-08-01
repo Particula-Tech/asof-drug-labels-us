@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL - 2.5 mg
 
 NDC 0591-0405-01 Once-daily Lisinopril Tablets USP 2.5 mg Watson 100 Tablets RX only
 
@@ -12,7 +12,7 @@ Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed By: Watson Pharma, Inc.
 
-# PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL - 5 mg
 
 NDC 0591-0406-01 Once-daily Lisinopril Tablets USP 5 mg Watson 100 Tablets RX only
 
@@ -26,7 +26,7 @@ Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed By: Watson Pharma, Inc.
 
-# PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL - 20 mg
 
 NDC 0591-0408-01 Once-daily Lisinopril Tablets USP 20 mg Watson 100 Tablets RX only
 
@@ -41,7 +41,7 @@ Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed By: Watson Pharma, Inc.
 
-# PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL - 30 mg
 
 NDC 0591-0885-01 Once-daily Lisinopril Tablets USP 30 mg Watson 100 Tablets RX only
 
@@ -56,7 +56,7 @@ Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed By: Watson Pharma, Inc.
 
-# PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL - 40 mg
 
 NDC 0591-0409-01 Once-daily Lisinopril Tablets USP 40 mg Watson 100 Tablets RX only
 
@@ -70,51 +70,3 @@ Keep out of reach of children.
 Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA Code No. GO/DRUGS/741 173691
 
 Distributed By: Watson Pharma, Inc.
-
-# PRINCIPAL DISPLAY PANEL
-
-Lisinopril Tablets USP, 2.5 mg NDC: 0591-0405-00 CAUTION: For Further Manufacturing, Processing or Repackaging Only.
-Rx Only.
-Manufactured By: Watson Pharma Pvt.
-Ltd., Verna, Goa, India.
-403722
-
-# PRINCIPAL DISPLAY PANEL
-
-Lisinopril Tablets USP, 5 mg NDC: 0591-0406-00 CAUTION: For Further Manufacturing, Processing or Repackaging Only.
-Rx Only.
-Manufactured By: Watson Pharma Pvt.
-Ltd., Verna, Goa, India.
-403722
-
-# PRINCIPAL DISPLAY PANEL
-
-Lisinopril Tablets USP, 10 mg NDC: 0591-0407-00 CAUTION: For Further Manufacturing, Processing or Repackaging Only.
-Rx Only.
-Manufactured By: Watson Pharma Pvt.
-Ltd., Verna, Goa, India.
-403722
-
-# PRINCIPAL DISPLAY PANEL
-
-Lisinopril Tablets USP, 20 mg NDC: 0591-0408-00 CAUTION: For Further Manufacturing, Processing or Repackaging Only.
-Rx Only.
-Manufactured By: Watson Pharma Pvt.
-Ltd., Verna, Goa, India.
-403722
-
-# PRINCIPAL DISPLAY PANEL
-
-Lisinopril Tablets USP, 30 mg NDC: 0591-0885-00 CAUTION: For Further Manufacturing, Processing or Repackaging Only.
-Rx Only.
-Manufactured By: Watson Pharma Pvt.
-Ltd., Verna, Goa, India.
-403722
-
-# PRINCIPAL DISPLAY PANEL
-
-Lisinopril Tablets USP, 40 mg NDC: 0591-0409-00 CAUTION: For Further Manufacturing, Processing or Repackaging Only.
-Rx Only.
-Manufactured By: Watson Pharma Pvt.
-Ltd., Verna, Goa, India.
-403722

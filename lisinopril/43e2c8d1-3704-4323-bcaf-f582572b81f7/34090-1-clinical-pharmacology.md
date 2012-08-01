@@ -7,8 +7,7 @@ The beneficial effects of lisinopril in hypertension and heart failure appear to
 Inhibition of ACE results in decreased plasma angiotensin II which leads to decreased vasopressor activity and to decreased aldosterone secretion.
 The latter decrease may result in a small increase of serum potassium.
 In hypertensive patients with normal renal function treated with lisinopril alone for up to 24 weeks, the mean increase in serum potassium was approximately 0.1 mEq/L; however, approximately 15% of patients had increases greater than 0.5 mEq/L and approximately 6% had a decrease greater than 0.5 mEq/L.
-In the same study, patients treated with lisinopril and hydrochlorothiazide for up to 24 weeks had a mean decrease in serum potassium of 0.1 mEq/L; approximately 4% of patients had increases greater than 0.5 mEq/L and approximately 12% had a decrease greater than 0.5 mEq/L.
-(See PRECAUTIONS.)
+In the same study, patients treated with lisinopril and hydrochlorothiazide for up to 24 weeks had a mean decrease in serum potassium of 0.1 mEq/L; approximately 4% of patients had increases greater than 0.5 mEq/L and approximately 12% had a decrease greater than 0.5 mEq/L (See PRECAUTIONS).
 Removal of angiotensin II negative feedback on renin secretion leads to increased plasma renin activity.
 
 ACE is identical to kininase, an enzyme that degrades bradykinin.
@@ -37,8 +36,7 @@ Upon multiple dosing, lisinopril exhibits an effective half-life of accumulation
 Impaired renal function decreases elimination of lisinopril, which is excreted principally through the kidneys, but this decrease becomes clinically important only when the glomerular filtration rate is below 30 mL/min.
 Above this glomerular filtration rate, the elimination half-life is little changed.
 With greater impairment, however, peak and trough lisinopril levels increase, time to peak concentration increases and time to attain steady state is prolonged.
-Older patients, on average, have (approximately doubled) higher blood levels and area under the plasma concentration time curve (AUC) than younger patients.
-(See DOSAGE AND ADMINISTRATION.)
+Older patients, on average, have (approximately doubled) higher blood levels and area under the plasma concentration time curve (AUC) than younger patients (See DOSAGE AND ADMINISTRATION).
 Lisinopril can be removed by hemodialysis.
 
 Studies in rats indicate that lisinopril crosses the blood-brain barrier poorly.
@@ -51,18 +49,16 @@ After doses of 0.1 to 0.2 mg/kg, steady state peak plasma concentrations of lisi
 These values are similar to those obtained previously in adults.
 The typical value of lisinopril oral clearance (systemic clearance/absolute bioavailability) in a child weighing 30 kg is 10 L/h, which increases in proportion to renal function.
 
-## Pharmacodynamics and Clinical Effects:
+## Pharmacodynamics and Clinical Effects
 
 ### Hypertension:
 
 Adult Patients: Administration of lisinopril to patients with hypertension results in a reduction of both supine and standing blood pressure to about the same extent with no compensatory tachycardia.
-Symptomatic postural hypotension is usually not observed although it can occur and should be anticipated in volume and/or salt-depleted patients.
-(See WARNINGS.)
+Symptomatic postural hypotension is usually not observed although it can occur and should be anticipated in volume and/or salt-depleted patients (See WARNINGS).
 When given together with thiazide-type diuretics, the blood pressure lowering effects of the two drugs are approximately additive.
 
 In most patients studied, onset of antihypertensive activity was seen at one hour after oral administration of an individual dose of lisinopril, with peak reduction of blood pressure achieved by 6 hours.
-Although an antihypertensive effect was observed 24 hours after dosing with recommended single daily doses, the effect was more consistent and the mean effect was considerably larger in some studies with doses of 20 mg or more than with lower doses.
-However, at all doses studied, the mean antihypertensive effect was substantially smaller 24 hours after dosing than it was 6 hours after dosing.
+Although an antihypertensive effect was observed 24 hours after dosing with recommended single daily doses, the effect was more consistent and the mean effect was considerably larger in some studies with doses of 20 mg or more than with lower doses; however, at all doses studied, the mean antihypertensive effect was substantially smaller 24 hours after dosing than it was 6 hours after dosing.
 
 In some patients achievement of optimal blood pressure reduction may require two to four weeks of therapy.
 
@@ -84,16 +80,15 @@ In hemodynamic studies in patients with essential hypertension, blood pressure r
 In a study in nine hypertensive patients, following administration of lisinopril, there was an increase in mean renal blood flow that was not significant.
 Data from several small studies are inconsistent with respect to the effect of lisinopril on glomerular filtration rate in hypertensive patients with normal renal function, but suggest that changes, if any, are not large.
 
-In patients with renovascular hypertension lisinopril has been shown to be well tolerated and effective in controlling blood pressure.
-(See PRECAUTIONS.)
+In patients with renovascular hypertension lisinopril has been shown to be well tolerated and effective in controlling blood pressure (See PRECAUTIONS).
 
 Pediatric Patients: In a clinical study involving 115 hypertensive pediatric patients 6 to 16 years of age, patients who weighed < 50 kg received either 0.625, 2.5 or 20 mg of lisinopril daily and patients who weighed ≥ 50 kg received either 1.25, 5, or 40 mg of lisinopril daily.
 At the end of 2 weeks, lisinopril administered once daily lowered trough blood pressure in a dose-dependent manner with consistent antihypertensive efficacy demonstrated at doses > 1.25 mg (0.02 mg/kg).
 This effect was confirmed in a withdrawal phase, where the diastolic pressure rose by about 9 mmHg more in patients randomized to placebo than it did in patients who were randomized to remain on the middle and high doses of lisinopril.
 The dose-dependent antihypertensive effect of lisinopril was consistent across several demographic subgroups: age, Tanner stage, gender, and race.
-In this study, lisinopril was generally well tolerated.
+In this study, lisinopril was generally well-tolerated.
 
-In the above pediatric studies, lisinopril was given either as tablets or in a suspension for those children and infants who were unable to swallow tablets or who required a lower dose than is available in tablet form (see DOSAGE AND ADMINISTRATION).
+In the above pediatric studies, lisinopril was given either as tablets or in a suspension for those children and infants who were unable to swallow tablets or who required a lower dose than is available in tablet form (See DOSAGE AND ADMINISTRATION).
 
 ### Heart Failure:
 
@@ -112,7 +107,7 @@ It was designed to examine the effects of short-term (6 week) treatment with lis
 Patients presenting within 24 hours of the onset of symptoms who were hemodynamically stable were randomized, in a 2 x 2 factorial design, to six weeks of either 1) lisinopril alone (n=4841), 2) nitrates alone (n=4869), 3) lisinopril plus nitrates (n=4841), or 4) open control (n=4843).
 All patients received routine therapies, including thrombolytics (72%), aspirin (84%), and a beta-blocker (31%), as appropriate, normally utilized in acute myocardial infarction (MI) patients.
 
-The protocol excluded patients with hypotension (systolic blood pressure ≤ 100 mmHg), severe heart failure, cardiogenic shock, and renal dysfunction (serum creatinine > 2 mg/dL and/or proteinuria > 500 mg/24 h). Doses of lisinopril were adjusted as necessary according to protocol (see DOSAGE AND ADMINISTRATION).
+The protocol excluded patients with hypotension (systolic blood pressure ≤ 100 mmHg), severe heart failure, cardiogenic shock, and renal dysfunction (serum creatinine > 2 mg/dL and/or proteinuria > 500 mg/24 h). Doses of lisinopril were adjusted as necessary according to protocol (See DOSAGE AND ADMINISTRATION).
 
 Study treatment was withdrawn at six weeks except where clinical conditions indicated continuation of treatment.
 

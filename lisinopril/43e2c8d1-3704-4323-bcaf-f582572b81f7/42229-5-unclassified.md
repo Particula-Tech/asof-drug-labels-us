@@ -1,6 +1,4 @@
-Rx only
-
-# PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL - 10 mg
 
 NDC 0591-0407-01 Once-daily Lisinopril Tablets USP 10 mg Watson 100 Tablets RX only
 

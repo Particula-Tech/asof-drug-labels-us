@@ -16,15 +16,14 @@ Lisinopril Tablets USP 2.5 mg, 5 mg, 10 mg, 20 mg, 30 mg and 40 mg are supplied 
 
 ## Storage
 
-Store at 20º-25ºC (68º-77ºF).
-[See USP controlled room temperature.]
+Store at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
 Protect from moisture, freezing and excessive heat.
 Dispense in a tight container as defined in the USP.
 
+* AN69 is a registered trademark of Hospal Ltd.
+
 Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Distributed By: Watson Pharma, Inc. Corona, CA 92880 USA
+Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: September 2008
-
-173694 0908B
+Revised: June 2012 173694-1
