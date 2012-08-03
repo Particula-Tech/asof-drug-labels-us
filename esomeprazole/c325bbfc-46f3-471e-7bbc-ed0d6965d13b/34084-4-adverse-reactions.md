@@ -70,7 +70,7 @@ Decreases were seen in hemoglobin, white blood cell count,platelets, potassium, 
 
 Pediatric
 
-The safety of oral NEXIUM was evaluated in 316 pediatric and adolescent patients aged 1 to 17 years in four clinical trials for the treatment of symptomatic GERD [see Clinical Studies (14.2)].
+The safety of oral NEXIUM was evaluated in 316 pediatric and adolescent patients aged 1 to 17 years in four clinical trials for the treatment of symptomatic GERD [see Clinical Studies (14)].
 In 109 pediatric patients aged 1 to 11 years, the most frequently reported (at least 1%) treatment-related adverse reactions in these patients were diarrhea (2.8%), headache (1.9%) and somnolence (1.9%).
 In 149 pediatric patients aged 12 to 17 years the most frequently reported (at least 2%) treatment-related adverse reactions in these patients were headache (8.1%), abdominal pain (2.7%), diarrhea (2%), and nausea (2%).
 No new safety concerns were identified in pediatric patients.
