@@ -199,13 +199,5 @@ Inactive ingredients:
 - 4-mg oral granules: mannitol, hydroxypropyl cellulose, and magnesium stearate.
 - 4-mg and 5-mg chewable tablets: mannitol, microcrystalline cellulose, hydroxypropyl cellulose, red ferric oxide, croscarmellose sodium, cherry flavor, aspartame, and magnesium stearate.
   People with Phenylketonuria: SINGULAIR 4-mg chewable tablets contain 0.674 mg of phenylalanine, and SINGULAIR 5-mg chewable tablets contain 0.842 mg of phenylalanine.
-- 10-mg tablet: microcrystalline cellulose, lactose monohydrate (89.3 mg), croscarmellose sodium, hydroxypropyl cellulose, and magnesium stearate.
+- 10-mg tablet: microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, hydroxypropyl cellulose, and magnesium stearate.
   The film coating contains: hydroxypropyl methylcellulose, hydroxypropyl cellulose, titanium dioxide, red ferric oxide, yellow ferric oxide, and carnauba wax.
-
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-Copyright © 1998-2012 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
-
-Revised: 03/2012
-
-USPPI-MF-04761203R023

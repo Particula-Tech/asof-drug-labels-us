@@ -6,7 +6,9 @@ NDC 0006-3841-30
 
 For Pediatric Patients 6 months to 5 years of age.
 
-Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+
+Manuf. by: DSM Pharmaceuticals, Inc. Greenville, NC 27834, USA
 
 Montelukast Sodium (active ingred.)
 Made in Ireland Formulated in USA
