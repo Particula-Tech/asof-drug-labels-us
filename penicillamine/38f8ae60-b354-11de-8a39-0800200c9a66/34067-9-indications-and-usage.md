@@ -7,7 +7,7 @@ As a result, copper is deposited in several organs and appears eventually to pro
 
 Two types of patients require treatment for Wilson’s disease: (1) the symptomatic, and (2) the asymptomatic in whom it can be assumed the disease will develop in the future if the patient is not treated.
 
-Diagnosis, suspected on the basis of family or individual history, physical examination, or a low serum concentration of ceruloplasmin*, is confirmed by the demonstration of Kayser-Fleischer rings or, particularly in the asymptomatic patient, by the quantitative demonstration in a liver biopsy specimen of a concen-tration of copper in excess of 250 mcg/g dry weight.
+Diagnosis, suspected on the basis of family or individual history, physical examination, or a low serum concentration of ceruloplasmin*, is confirmed by the demonstration of Kayser-Fleischer rings or, particularly in the asymptomatic patient, by the quantitative demonstration in a liver biopsy specimen of a concentration of copper in excess of 250 mcg/g dry weight.
 
 Treatment has two objectives:
 
