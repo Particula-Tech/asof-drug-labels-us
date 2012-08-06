@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA090984"
+  ],
+  "inn": "montelukast",
+  "labeler": "Torrent Pharmaceuticals Limited",
+  "package_ndcs": [
+    "13668-079-05",
+    "13668-079-30",
+    "13668-079-74",
+    "13668-079-90",
+    "13668-080-05",
+    "13668-080-30",
+    "13668-080-74",
+    "13668-080-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, CHEWABLE",
+      "generic": "montelukast sodium",
+      "name": "Montelukast Sodium"
+    }
+  ],
+  "setid": "da038cf6-cfad-43a4-ab8e-d81d028d6087",
+  "source": "dailymed"
+}
