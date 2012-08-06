@@ -1,3 +1,3 @@
-# CONTRAINDICATION
+# 4 CONTRAINDICATIONS
 
-VANCOCIN HCl Capsules are contraindicated in patients with known hypersensitivity to vancomycin.
+VANCOCIN CAPSULES are contraindicated in patients with known hypersensitivity to vancomycin.

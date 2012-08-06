@@ -1,30 +1,42 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+Vancomycin is an antibacterial drug (see CLINICAL PHARMACOLOGY, Microbiology [12.4]).
+
+## 12.3 Pharmacokinetics
 
 Vancomycin is poorly absorbed after oral administration.
 During multiple dosing of 250 mg every 8 hours for 7 doses, fecal concentrations of vancomycin in volunteers exceeded 100 mg/kg in the majority of samples.
 No blood concentrations were detected and urinary recovery did not exceed 0.76%.
-Additional data using an oral solution follow.
-In anephric patients with no inflammatory bowel disease, blood concentrations of vancomycin were barely measurable (0.66 μg/mL) in 2 of 5 subjects who received 2 g of vancomycin HCl for Oral Solution daily for 16 days.
-No measurable blood concentrations were attained in the other 3 patients.
-With doses of 2 g daily, very high concentrations of drug can be found in the feces (>3100 mg/kg) and very low concentrations (<1 μg/mL) can be found in the serum of patients with normal renal function who have pseudomembranous colitis.
-Orally administered vancomycin does not usually enter the systemic circulation even when inflammatory lesions are present.
-After multiple-dose oral administration of vancomycin, measurable serum concentrations may infrequently occur in patients with active C. difficile-induced pseudomembranous colitis, and, in the presence of renal impairment, the possibility of accumulation exists.
+In anephric subjects with no inflammatory bowel disease who received vancomycin oral solution 2 g for 16 days, blood concentrations of vancomycin were less than or equal to 0.66 μg/mL in 2 of 5 subjects.
+No measurable blood concentrations were attained in the other 3 subjects.
+Following doses of 2 g daily, concentrations of drug were >3100 mg/kg in the feces and <1 μg/mL in the serum of subjects with normal renal function who had C. difficile-associated diarrhea.
+After multiple-dose oral administration of vancomycin, measurable serum concentrations may occur in patients with active C. difficile-associated diarrhea, and, in the presence of renal impairment, the possibility of accumulation exists.
+It should be noted that the total systemic and renal clearances of vancomycin are reduced in the elderly (see USE IN SPECIFIC POPULATIONS, Geriatric Use [8.5]).
 
-## Microbiology
+## 12.4 Microbiology
 
-The bactericidal action of vancomycin results primarily from inhibition of cell-wall biosynthesis.
+Mechanism of action
+
+The bactericidal action of vancomycin against Staphylococcus aureus and the vegetative cells of Clostridium difficile results primarily from inhibition of cell-wall biosynthesis.
 In addition, vancomycin alters bacterial-cell-membrane permeability and RNA synthesis.
-There is no cross-resistance between vancomycin and other antibiotics.
 
-NOTE: VANCOCIN HCl Capsules are effective only for the infections noted in the INDICATIONS AND USAGE section.
-The oral form is not effective for any other type of infection.
+Mechanism of resistance
 
-Vancomycin has been shown to be active against most strains of the following microorganisms in clinical infections as described in the INDICATIONS AND USAGE section.
+- Staphylococcus aureus
+- S. aureus isolates with vancomycin minimal inhibitory concentrations (MICs) as high as 1024 mcg/mL have been reported.
+- The exact mechanism of this resistance is not clear but is believed to be due to cell wall thickening and potentially the transfer of genetic material.
+- Clostridium difficile
+- Isolates of C. difficile generally have vancomycin MICs of <1 mcg/mL, however vancomycin MICs ranging from 4 mcg/mL to 16 mcg/mL have been reported.
+  The mechanism which mediates C. difficile's decreased susceptibility to vancomycin has not been fully elucidated.
 
-Aerobic gram-positive microorganisms
+Vancomycin has been shown to be active against susceptible isolates of the following bacteria in clinical infections as described in the INDICATIONS AND USAGE section.
 
-- Staphylococcus aureus (including methicillin-resistant strains) associated with enterocolitis
+Gram-positive bacteria
 
-Anaerobic gram-positive microorganisms
+- Staphylococcus aureus (including methicillin-resistant isolates) associated with enterocolitis
 
-- Clostridium difficile antibiotic-associated pseudomembranous colitis.
+Anaerobic Gram-positive bacteria
+
+- Clostridium difficile isolates associated with C. difficile associated diarrhea.
