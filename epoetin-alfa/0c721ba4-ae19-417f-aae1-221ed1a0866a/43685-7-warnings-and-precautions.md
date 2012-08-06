@@ -163,7 +163,7 @@ This has been reported predominantly in patients with CKD receiving ESAs by subc
 PRCA has also been reported in patients receiving ESAs for anemia related to hepatitis C treatment (an indication for which PROCRIT is not approved).
 
 If severe anemia and low reticulocyte count develop during treatment with PROCRIT, withhold PROCRIT and evaluate patients for neutralizing antibodies to erythropoietin.
-Contact Centocor Ortho Biotech (1-800-457-6399) to perform assays for binding and neutralizing antibodies.
+Contact Janssen Products, LP at 1-800-JANSSEN (1-800-526-7736) to perform assays for binding and neutralizing antibodies.
 Permanently discontinue PROCRIT in patients who develop PRCA following treatment with PROCRIT or other erythropoietin protein drugs.
 Do not switch patients to other ESAs.
 

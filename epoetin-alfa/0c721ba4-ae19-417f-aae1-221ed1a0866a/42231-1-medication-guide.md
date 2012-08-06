@@ -213,7 +213,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about PROCRIT.
 If you would like more information about PROCRIT, talk to your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about PROCRIT that is written for healthcare professionals.
-For more information, go to the following website: www.PROCRIT.com or call 1-888-2ASKOBI (1-888-227-5624).
+For more information, go to the following website: www.PROCRIT.com or call 1-800-JANSSEN (1-800-526-7736).
 
 What are the ingredients in PROCRIT?
 
@@ -229,11 +229,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by:
 
-Amgen Manufacturing Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799
+Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A.
 
 Manufactured for:
 
-Centocor Ortho Biotech Products, L.P.
-Raritan, New Jersey 08869-0670 © COBPLP 2000 Printed in U. S. A.
+Janssen Products, LP Horsham, Pennsylvania 19044 © Janssen Products, LP 2000 Printed in U. S. A.
 
-Revised: 06/2011
+Revised: 05/2012

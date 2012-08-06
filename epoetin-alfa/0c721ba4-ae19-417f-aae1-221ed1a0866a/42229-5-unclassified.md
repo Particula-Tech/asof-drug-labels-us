@@ -1,9 +1,8 @@
 PROCRIT® (epoetin alfa)
 
-Manufactured by: Amgen Manufacturing Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799
+Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A.
 
-Distributed for: Centocor Ortho Biotech Products, L.P.
-Raritan, New Jersey 08869-0670 ©COBPLP 2000 Printed in U. S. A.
+Manufactured for: Janssen Products, LP Horsham, Pennsylvania 19044 ©Janssen Products, LP 2000 Printed in U. S. A.
 
 This product, the process of its manufacture, or its use, may be covered by one or more U.S. Patents, including U.S. Patent No. 5,441,868; 5,547,933; 5,618,698; 5,756,349; and 5,955,422.
 
@@ -205,7 +204,8 @@ Keep PROCRIT and all medicines out of reach of children.
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799
+Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A.
 
-Distributed by: Centocor Ortho Biotech Products, L.P.
-Raritan, New Jersey 08869-0670 Revised: 06/2011 © COBPLP 2000 Printed in U. S. A.
+Manufactured for: Janssen Products, LP Horsham, Pennsylvania 19044 © Janssen Products, LP 2000 Printed in U. S. A.
+
+Revised: 05/2012
