@@ -10,14 +10,12 @@ IV INFUSION STERILE
 
 Rx only
 
-Each mL contains 10 mg zidovudine.
+200 mg/20 mL (10 mg/mL)
 
 20-mL Single-Use Vial
 
-FOR INTRAVENOUS INFUSION ONLY.
-MUST BE DILUTED FOR ADMINISTRATION.
+MUST BE DILUTED PRIOR TO INTRAVENOUS INFUSION.
 
-Dilute with 5% Dextrose Injection to a concentration no greater than 4mg/mL.
 Contains no preservative.
 The vial stopper of this product contains dry natural rubber.
 The vehicle contains Water for Injection, qs.
@@ -27,6 +25,7 @@ Store at 15o to 25oC (59o to 77oF) and protect from light.
 
 Distributed by: ViiV Healthcare, RTP, NC 27709
 
-Made in UK
+Made in South Korea
 
-10000000088757 Rev.10/10
+10000000101447 Rev.
+5/12
