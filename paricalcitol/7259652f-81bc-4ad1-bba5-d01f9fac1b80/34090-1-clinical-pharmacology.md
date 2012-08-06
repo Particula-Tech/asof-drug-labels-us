@@ -83,7 +83,7 @@ The influence of severe hepatic impairment on the pharmacokinetics of paricalcit
 
 The pharmacokinetics of paricalcitol have been studied in CKD Stage 5 subjects requiring hemodialysis (HD) and peritoneal dialysis (PD).
 Hemodialysis procedure has essentially no effect on paricalcitol elimination.
-However, compared to healthy subjects, CKD Stage 5 subjects showed a decreased CL and increased half-life (see Pharmacokinetics - Elimination).
+However, compared to healthy subjects, CKD Stage 5 subjects showed a decreased CL and increased half-life (see Pharmacokinetics -Elimination).
 
 ## Drug Interactions
 
