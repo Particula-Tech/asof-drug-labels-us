@@ -1,11 +1,11 @@
 PRINCIPAL DISPLAY PANEL - 2 g Bottle Label
 
-Rx only NDC 0069-4170-34
+Rx only NDC 0069-4170-21
 
-Zmax® (azithromycin extended release) for oral suspension
-
-2 g*
+Zmax™ (azithromycin extended release) for oral suspension
 
 Cherry-Banana Flavored
 
-Pfizer Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+2 grams*
+
+Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017

@@ -1,3 +1,5 @@
+# FDA-approved patient labeling
+
 Read the Patient Information that comes with Zmax ® carefully before you or your child take it.
 This leaflet does not take the place of talking with your doctor about you or your child's medical condition or treatment.
 Only your doctor can decide if Zmax is right for you or your child.
