@@ -1,3 +1,5 @@
+PATIENT INFORMATION
+
 EMTRIVA® (em-treev'-ah) capsules
 
 EMTRIVA oral solution
@@ -60,16 +62,12 @@ Opportunistic infections are infections that develop because the immune system i
 Some of these conditions are pneumonia, herpes virus infections, and Mycobacterium avium complex (MAC) infections.
 It is very important that you see your healthcare provider regularly while taking EMTRIVA.
 
-EMTRIVA does not lower your chance of passing HIV-1 to other people through sexual contact, sharing needles, or being exposed to your blood.
-For your health and the health of others, it is important to always practice safer sex by using a latex or polyurethane condom or other barrier to lower the chance of sexual contact with semen, vaginal secretions, or blood.
-Never use or share dirty needles.
-
 Who should not take EMTRIVA?
 
 - Do not take EMTRIVA if you are allergic to EMTRIVA or any of its ingredients.
   The active ingredient is emtricitabine.
   See the end of this leaflet for a complete list of ingredients.
-- Do not take EMTRIVA if you are already taking ATRIPLA®, COMPLERA™, TRUVADA®, Combivir, Epivir, Epivir-HBV, Epzicom, or Trizivir because these medicines contain the same or similar active ingredients.
+- Do not take EMTRIVA if you are already taking ATRIPLA®, COMPLERA®, TRUVADA®, Combivir, Epivir, Epivir-HBV, Epzicom, or Trizivir because these medicines contain the same or similar active ingredients.
 
 What should I tell my healthcare provider before taking EMTRIVA?
 
@@ -81,7 +79,7 @@ Tell your healthcare provider
   If you use EMTRIVA while you are pregnant, talk to your healthcare provider about how you can be on the EMTRIVA Antiviral Pregnancy Registry.
 - If you are breast-feeding.
   You should not breast feed if you are HIV-positive because of the chance of passing the HIV virus to your baby.
-  Also, it is not known if EMTRIVA can pass into your breast milk and if it can harm your baby.
+  Also, EMTRIVA can pass into your breast milk and it is not known if it can harm your baby.
   If you are a woman who has or will have a baby, talk with your healthcare provider about the best way to feed your baby.
 - If you have kidney problems.
   You may need to take EMTRIVA less often.
@@ -115,14 +113,15 @@ How should I take EMTRIVA?
 
 What should I avoid while taking EMTRIVA?
 
-- Do not breast-feed.
-  See "What should I tell my healthcare provider before taking EMTRIVA?"
-  Talk with your healthcare provider about the best way to feed your baby.
-- Avoid doing things that can spread HIV-1 infection since EMTRIVA doesn't stop you from passing the HIV-1 infection to others.
+Avoid doing things that can spread HIV-1 infection.
+
 - Do not share needles or other injection equipment.
 - Do not share personal items that can have blood or body fluids on them, like toothbrushes or razor blades.
 - Do not have any kind of sex without protection.
-  Always practice safer sex by using a latex or polyurethane condom or other barrier to reduce the chance of sexual contact with semen, vaginal secretions, or blood.
+  Always practice safer sex by using a latex or polyurethane condom or other barrier to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+- Do not breastfeed.
+  EMTRIVA can be passed to your baby in your breast milk.
+  Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
 
 What are the possible side effects of EMTRIVA?
 
@@ -138,7 +137,7 @@ EMTRIVA may cause the following serious side effects (See "What is the most impo
 - "flare-ups" of Hepatitis B Virus infection, in which the disease suddenly returns in a worse way than before, can occur if you stop taking EMTRIVA.
   EMTRIVA is not for the treatment of Hepatitis B Virus (HBV) infection.
 
-Other side effects with EMTRIVA when used with other anti-HIV-1 medicines Include:
+Other side effects with EMTRIVA when used with other anti-HIV-1 medicines include:
 
 - Changes in body fat have been seen in some patients taking EMTRIVA and other anti-HIV-1 medicines.
   These changes may include increased amount of fat in the upper back and neck ("buffalo hump"), breast, and around the main part of your body (trunk).
@@ -185,17 +184,15 @@ What are the ingredients of EMTRIVA?
 
 Active Ingredient: emtricitabine
 
-Inactive Ingredients for EMTRIVA capsules: crospovidone, magnesium stearate, microcrystalline cellulose, and povidone.
+Inactive Ingredients for EMTRIVA capsules: crospovidone, magnesium stearate, microcrystalline cellulose, povidone, titanium dioxide, gelatin, and FD&C blue No. 2.
 
 Inactive Ingredients for EMTRIVA oral solution: Cotton candy flavor, FD&C yellow No. 6, edetate disodium, methylparaben and propylparaben, sodium phosphate (monobasic), propylene glycol, water, and xylitol.
 Sodium hydroxide and hydrochloric acid may be used to adjust pH.
 
-Rx Only
+July 2012
 
-November 2011
-
-COMPLERA, EMTRIVA, TRUVADA, and VIREAD are trademarks or registered trademarks of Gilead Sciences, Inc., or its related companies.
+COMPLERA, EMTRIVA, TRUVADA, and VIREAD are registered trademarks of Gilead Sciences, Inc., or its related companies.
 ATRIPLA is a registered trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-21-500-896-GS-015 18112011
+21-500-896-GS-016

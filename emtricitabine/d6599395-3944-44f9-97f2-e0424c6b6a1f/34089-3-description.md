@@ -14,8 +14,8 @@ The log P for emtricitabine is -0.43 and the pKa is 2.65.
 EMTRIVA is available as capsules or as an oral solution.
 
 EMTRIVA capsules are for oral administration.
-Each capsule contains 200 mg of emtricitabine and the inactive ingredients, crospovidone, magnesium stearate, microcrystalline cellulose, and povidone.
+Each capsule contains 200 mg of emtricitabine and the inactive ingredients crospovidone, magnesium stearate, microcrystalline cellulose, povidone, titanium dioxide, gelatin, and FD&C blue No. 2.
 
 EMTRIVA oral solution is for oral administration.
-One milliliter (1 mL) of EMTRIVA oral solution contains 10 mg of emtricitabine in an aqueous solution with the following inactive ingredients: cotton candy flavor, FD&C yellow No. 6, edetate disodium, methylparaben, and propylparaben (added as preservatives), sodium phosphate (monobasic), propylene glycol, water, and xylitol (added as a sweetener).
+One milliliter (1 mL) of EMTRIVA oral solution contains 10 mg of emtricitabine in an aqueous solution with the following inactive ingredients: cotton candy flavor, FD&C yellow No. 6, edetate disodium, methylparaben and propylparaben (added as preservatives), sodium phosphate (monobasic), propylene glycol, water, and xylitol (added as a sweetener).
 Sodium hydroxide and hydrochloric acid may be used to adjust pH.

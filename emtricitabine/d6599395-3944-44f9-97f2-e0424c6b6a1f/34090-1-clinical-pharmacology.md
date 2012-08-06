@@ -2,14 +2,13 @@
 
 ## 12.1 Mechanism of Action
 
-Emtricitabine is an antiviral drug.
-[See Clinical Pharmacology (12.4)]
+Emtricitabine is an antiviral drug [See Clinical Pharmacology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
-Adult Subjects
+Adults
 
-The pharmacokinetics of emtricitabine were evaluated in healthy volunteers and HIV-1-infected individuals.
+The pharmacokinetics of emtricitabine were evaluated in healthy subjects and HIV-1-infected subjects.
 Emtricitabine pharmacokinetics are similar between these populations.
 
 Figure 1 shows the mean steady-state plasma emtricitabine concentration-time profile in 20 HIV-1-infected subjects receiving EMTRIVA capsules.
@@ -28,7 +27,7 @@ The multiple dose pharmacokinetics of emtricitabine are dose proportional over a
 
 Distribution
 
-In vitro binding of emtricitabine to human plasma proteins was <4% and independent of concentration over the range of 0.02–200 µg/mL.
+In vitro binding of emtricitabine to human plasma proteins was less than 4% and independent of concentration over the range of 0.02–200 µg/mL.
 At peak plasma concentration, the mean plasma to blood drug concentration ratio was ~1.0 and the mean semen to plasma drug concentration ratio was ~4.0.
 
 Metabolism
@@ -55,24 +54,24 @@ Special Populations
 
 Race, Gender
 
-The pharmacokinetics of emtricitabine were similar in adult male and female patients and no pharmacokinetic differences due to race have been identified.
+The pharmacokinetics of emtricitabine were similar in adult male and female subjects and no pharmacokinetic differences due to race have been identified.
 
 Pediatric Patients
 
-The pharmacokinetics of emtricitabine at steady state were determined in 77 HIV-1-infected children, and the pharmacokinetic profile was characterized in four age groups (Table 6).
-The emtricitabine exposure achieved in children receiving a daily dose of 6 mg/kg up to a maximum of 240 mg oral solution or a 200 mg capsule is similar to exposures achieved in adults receiving a once-daily dose of 200 mg.
+The pharmacokinetics of emtricitabine at steady state were determined in 77 HIV-1-infected pediatric subjects, and the pharmacokinetic profile was characterized in four age groups (Table 6).
+The emtricitabine exposure achieved in pediatric subjects receiving a daily dose of 6 mg/kg up to a maximum of 240 mg oral solution or a 200 mg capsule is similar to exposures achieved in adult subjects receiving a once-daily dose of 200 mg.
 
 The pharmacokinetics of emtricitabine were studied in 20 neonates born to HIV-1-positive mothers.
 Each mother received prenatal and intrapartum combination antiretroviral therapy.
 Neonates received up to 6 weeks of zidovudine prophylactically after birth.
 The neonates were administered two short courses of emtricitabine oral solution (each 3 mg/kg once daily × 4 days) during the first 3 months of life.
-The AUC observed in neonates who received a daily dose of 3 mg/kg of emtricitabine was similar to the AUC observed in pediatric patients ≥3 months to 17 years who received a daily dose of emtricitabine as a 6 mg/kg oral solution up to 240 mg or as a 200 mg capsule (Table 6).
+The AUC observed in neonates who received a daily dose of 3 mg/kg of emtricitabine was similar to the AUC observed in pediatric subjects ages 3 months to 17 years who received a daily dose of emtricitabine as a 6 mg/kg oral solution up to 240 mg or as a 200 mg capsule (Table 6).
 
-Table 6 Mean ± SD Pharmacokinetic Parameters by Age Groups for Pediatric Patients and Neonates Receiving EMTRIVA Capsules or Oral Solution
+Table 6 Mean ± SD Pharmacokinetic Parameters by Age Groups for Pediatric Subjects and Neonates Receiving EMTRIVA Capsules or Oral Solution
 
 | Age | 0–3 mo (N=20)Two pharmacokinetic evaluations were conducted in 20 neonates over the first 3 months of life. Median (range) age of infant on day of pharmacokinetic evaluation was 26 (5–81) days. | 3–24 mo (N=14) | 25 mo–6 yr (N=19) | 7–12yr (N=17) | 13–17 yr (N=27) |
 | --- | --- | --- | --- | --- | --- |
-|  | HIV-1-exposed Neonates | HIV-1-infected Pediatric Patients |  |  |  |
+|  | HIV-1-exposed Neonates | HIV-1-infected Pediatric Subjects |  |  |  |
 | Formulation |  |  |  |  |  |
 | Capsule (n) | 0 | 0 | 0 | 10 | 26 |
 | Oral Solution (n) | 20 | 14 | 19 | 7 | 1 |
@@ -87,14 +86,14 @@ The pharmacokinetics of emtricitabine have not been fully evaluated in the elder
 
 Patients with Impaired Renal Function
 
-The pharmacokinetics of emtricitabine are altered in patients with renal impairment [See Warnings and Precautions (5.4)].
-In adult patients with creatinine clearance <50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax and AUC of emtricitabine were increased due to a reduction in renal clearance (Table 7).
-It is recommended that the dosing interval for EMTRIVA be modified in adult patients with creatinine clearance <50 mL/min or in adult patients with ESRD who require dialysis [See Dosage and Administration (2.5)].
+The pharmacokinetics of emtricitabine are altered in subjects with renal impairment [See Warnings and Precautions (5.4)].
+In adult subjects with creatinine clearance less than 50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax and AUC of emtricitabine were increased due to a reduction in renal clearance (Table 7).
+It is recommended that the dosing interval for EMTRIVA be modified in adult patients with creatinine clearance less than 50 mL/min or in adult patients with ESRD who require dialysis [See Dosage and Administration (2.5)].
 The effects of renal impairment on emtricitabine pharmacokinetics in pediatric patients are not known.
 
-Table 7 Mean ± SD Pharmacokinetic Parameters in Adult Patients with Varying Degrees of Renal Function
+Table 7 Mean ± SD Pharmacokinetic Parameters in Adult Subjects with Varying Degrees of Renal Function
 
-| Creatinine Clearance (mL/min) | >80 (N=6) | 50–80 (N=6) | 30–49 (N=6) | <30 (N=5) | ESRDESRD patients requiring dialysis <30 (N=5) |
+| Creatinine Clearance (mL/min) | >80 (N=6) | 50–80 (N=6) | 30–49 (N=6) | <30 (N=5) | ESRDESRD subjects requiring dialysis <30 (N=5) |
 | --- | --- | --- | --- | --- | --- |
 | Baseline creatinine clearance (mL/min) | 107 ± 21 | 59.8 ± 6.5 | 40.9 ± 5.1 | 22.9 ± 5.3 | 8.8 ± 1.4 |
 | Cmax (µg/mL) | 2.2 ± 0.6 | 3.8 ± 0.9 | 3.2 ± 0.6 | 2.8 ± 0.7 | 2.8 ± 0.5 |
@@ -107,7 +106,7 @@ It is not known whether emtricitabine can be removed by peritoneal dialysis.
 
 Patients with Hepatic Impairment
 
-The pharmacokinetics of emtricitabine have not been studied in patients with hepatic impairment, however, emtricitabine is not metabolized by liver enzymes, so the impact of liver impairment should be limited.
+The pharmacokinetics of emtricitabine have not been studied in subjects with hepatic impairment, however, emtricitabine is not metabolized by liver enzymes, so the impact of liver impairment should be limited.
 
 Assessment of Drug Interactions
 
@@ -118,7 +117,7 @@ Based on the results of these in vitro experiments and the known elimination pat
 EMTRIVA has been evaluated in healthy volunteers in combination with tenofovir disoproxil fumarate (DF), zidovudine, indinavir, famciclovir, and stavudine.
 Tables 8 and 9 summarize the pharmacokinetic effects of coadministered drug on emtricitabine pharmacokinetics and effects of emtricitabine on the pharmacokinetics of coadministered drug.
 
-Table 8 Drug Interactions: Change in Pharmacokinetic Parameters for Emtricitabine in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
+Table 8 Drug Interactions: Change in Pharmacokinetic Parameters for Emtricitabine in the Presence of the Coadministered DrugAll interaction trials conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -129,7 +128,7 @@ Table 8 Drug Interactions: Change in Pharmacokinetic Parameters for Emtricitabin
 | Famciclovir | 500 × 1 | 200 × 1 | 12 |  |  | NA |
 | Stavudine | 40 × 1 | 200 × 1 | 6 |  |  | NA |
 
-Table 9 Drug Interactions: Change in Pharmacokinetic Parameters for Coadministered Drug in the Presence of EmtricitabineAll interaction studies conducted in healthy volunteers.
+Table 9 Drug Interactions: Change in Pharmacokinetic Parameters for Coadministered Drug in the Presence of EmtricitabineAll interaction trials conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -152,10 +151,10 @@ Antiviral Activity
 
 The antiviral activity in cell culture of emtricitabine against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, the MAGI-CCR5 cell line, and peripheral blood mononuclear cells.
 The 50% effective concentration (EC50) value for emtricitabine was in the range of 0.0013–0.64 µM (0.0003–0.158 µg/mL).
-In drug combination studies of emtricitabine with nucleoside reverse transcriptase inhibitors (abacavir, lamivudine, stavudine, tenofovir, zalcitabine, zidovudine), non-nucleoside reverse transcriptase inhibitors (delavirdine, efavirenz, nevirapine), and protease inhibitors (amprenavir, nelfinavir, ritonavir, saquinavir), additive to synergistic effects were observed.
+In drug combination trials of emtricitabine with nucleoside reverse transcriptase inhibitors (abacavir, lamivudine, stavudine, tenofovir, zalcitabine, zidovudine), non-nucleoside reverse transcriptase inhibitors (delavirdine, efavirenz, nevirapine), and protease inhibitors (amprenavir, nelfinavir, ritonavir, saquinavir), additive to synergistic effects were observed.
 Emtricitabine displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, and G (EC50 values ranged from 0.007–0.075 µM) and showed strain specific activity against HIV-2 (EC50 values ranged from 0.007–1.5 µM).
 
-The in vivo activity of emtricitabine was evaluated in two clinical trials in which 101 patients were administered 25–400 mg a day of EMTRIVA as monotherapy for 10–14 days.
+The in vivo activity of emtricitabine was evaluated in two clinical trials in which 101 subjects were administered 25–400 mg a day of EMTRIVA as monotherapy for 10–14 days.
 A dose-related antiviral effect was observed, with a median decrease from baseline in plasma HIV-1 RNA of 1.3 log10 at a dose of 25 mg once daily and 1.7 log10 to 1.9 log10 at a dose of 200 mg once daily or twice daily.
 
 Resistance
@@ -163,14 +162,14 @@ Resistance
 Emtricitabine-resistant isolates of HIV-1 have been selected in cell culture and in vivo.
 Genotypic analysis of these isolates showed that the reduced susceptibility to emtricitabine was associated with a substitution in the HIV-1 reverse transcriptase gene at codon 184 which resulted in an amino acid substitution of methionine by valine or isoleucine (M184V/I).
 
-Emtricitabine-resistant isolates of HIV-1 have been recovered from some patients treated with emtricitabine alone or in combination with other antiretroviral agents.
-In a clinical study of treatment-naive patients treated with EMTRIVA, didanosine, and efavirenz [See Clinical Studies (14.1)], viral isolates from 37.5% of patients with virologic failure showed reduced susceptibility to emtricitabine.
+Emtricitabine-resistant isolates of HIV-1 have been recovered from some subjects treated with emtricitabine alone or in combination with other antiretroviral agents.
+In a clinical trial of treatment-naive subjects treated with EMTRIVA, didanosine, and efavirenz [See Clinical Studies (14.1)], viral isolates from 37.5% of subjects with virologic failure showed reduced susceptibility to emtricitabine.
 Genotypic analysis of these isolates showed that the resistance was due to M184V/I substitutions in the HIV-1 reverse transcriptase gene.
 
-In a clinical study of treatment-naive patients treated with either EMTRIVA, VIREAD, and efavirenz or zidovudine/lamivudine and efavirenz [See Clinical Studies (14.1)], resistance analysis was performed on HIV-1 isolates from all confirmed virologic failure patients with >400 copies/mL of HIV-1 RNA at Week 144 or early discontinuation.
+In a clinical trial of treatment-naive subjects treated with either EMTRIVA, VIREAD, and efavirenz or zidovudine/lamivudine and efavirenz [See Clinical Studies (14.1)], resistance analysis was performed on HIV-1 isolates from all confirmed virologic failure subjects with greater than 400 copies/mL of HIV-1 RNA at Week 144 or early discontinuation.
 Development of efavirenz resistance-associated substitutions occurred most frequently and was similar between the treatment arms.
-The M184V amino acid substitution, associated with resistance to EMTRIVA and lamivudine, was observed in 2/19 analyzed patient isolates in the EMTRIVA + VIREAD group and in 10/29 analyzed patient isolates in the lamivudine/zidovudine group.
-Through 144 weeks of Study 934, no patients have developed a detectable K65R substitution in their HIV-1 as analyzed through standard genotypic analysis.
+The M184V amino acid substitution, associated with resistance to EMTRIVA and lamivudine, was observed in 2/19 analyzed subject isolates in the EMTRIVA + VIREAD group and in 10/29 analyzed subject isolates in the lamivudine/zidovudine group.
+Through 144 weeks of Study 934, no subjects have developed a detectable K65R substitution in their HIV-1 as analyzed through standard genotypic analysis.
 
 Cross Resistance
 

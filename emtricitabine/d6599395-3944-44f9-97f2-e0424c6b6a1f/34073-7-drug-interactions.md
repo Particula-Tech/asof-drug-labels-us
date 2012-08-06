@@ -1,4 +1,5 @@
 # 7 DRUG INTERACTIONS
 
 The potential for drug interactions with EMTRIVA has been studied in combination with zidovudine, indinavir, stavudine, famciclovir, and tenofovir disoproxil fumarate.
-There were no clinically significant drug interactions for any of these drugs Drug interactions studies are described elsewhere in the labeling [See Clinical Pharmacology (12.3)]
+There were no clinically significant drug interactions for any of these drugs.
+Drug interactions trials are described elsewhere in the labeling [See Clinical Pharmacology (12.3)].

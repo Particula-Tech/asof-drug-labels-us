@@ -2,7 +2,7 @@
 
 There is no known antidote for EMTRIVA.
 Limited clinical experience is available at doses higher than the therapeutic dose of EMTRIVA.
-In one clinical pharmacology study single doses of emtricitabine 1200 mg were administered to 11 patients.
+In one clinical pharmacology trial single doses of emtricitabine 1200 mg were administered to 11 subjects.
 No severe adverse reactions were reported.
 
 The effects of higher doses are not known.
