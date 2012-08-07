@@ -1,7 +1,7 @@
 Rx only
 
-Manufactured by: Epic Pharma, LLC Laurelton, NY 11413
+Manufactured by: Elite Laboratories, Inc. Northvale, NJ 07647
 
 Distributed by: TAGI Pharma South Beloit, IL 61080
 
-OE1196 MF016ISS11/10 Issued 11/10
+OE1021 MF016ISS05/11 Issued 05/11
