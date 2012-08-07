@@ -154,5 +154,5 @@ Distributed by: Meda Pharmaceuticals Meda Pharmaceuticals Inc. Somerset, NJ 0887
 
 Edluar and Meda Pharmaceuticals are trademarks or registered trademarks of Meda Pharmaceuticals Inc.
 
-IG-6010-02 Rev.
-5/09
+IG-6010-03 Rev.
+10/10

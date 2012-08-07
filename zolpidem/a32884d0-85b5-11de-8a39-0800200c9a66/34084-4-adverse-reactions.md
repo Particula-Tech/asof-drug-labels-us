@@ -41,7 +41,7 @@ TABLE 1: Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controll
 | Drowsiness | 2 | - |
 | Dizziness | 1 | - |
 | Gastrointestinal System |  |  |
-| Diarrhea | 1 |  |
+| Diarrhea | 1 | - |
 | *Reactions reported by at least 1% of patients treated with oral zolpidem and at a greater frequency than placebo. |  |  |
 
 The following table was derived from a pool of three placebo-controlled long-term efficacy trials involving oral zolpidem.
