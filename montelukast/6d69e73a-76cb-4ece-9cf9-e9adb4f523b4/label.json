@@ -1,0 +1,40 @@
+{
+  "application_numbers": [
+    "ANDA091414",
+    "ANDA200889"
+  ],
+  "inn": "montelukast",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-5554-05",
+    "0781-5554-06",
+    "0781-5554-13",
+    "0781-5554-31",
+    "0781-5554-64",
+    "0781-5554-92",
+    "0781-5555-05",
+    "0781-5555-06",
+    "0781-5555-13",
+    "0781-5555-31",
+    "0781-5555-64",
+    "0781-5555-92",
+    "0781-5560-06",
+    "0781-5560-13",
+    "0781-5560-31",
+    "0781-5560-92"
+  ],
+  "products": [
+    {
+      "form": "TABLET, CHEWABLE",
+      "generic": "montelukast",
+      "name": "Montelukast"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "montelukast",
+      "name": "Montelukast"
+    }
+  ],
+  "setid": "6d69e73a-76cb-4ece-9cf9-e9adb4f523b4",
+  "source": "dailymed"
+}
