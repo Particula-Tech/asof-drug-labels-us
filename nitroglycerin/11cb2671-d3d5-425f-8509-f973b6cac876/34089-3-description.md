@@ -7,4 +7,4 @@ The chemical structure is:
 
 Nitrolingual® Pumpspray (nitroglycerin lingual spray 400 mcg) is a metered dose spray containing nitroglycerin.
 This product delivers nitroglycerin (400 mcg per spray, 60 or 200 metered sprays) in the form of spray droplets onto or under the tongue.
-Inactive ingredients: medium-chain triglycerides, dehydrated alcohol, medium-chain partial glycerides, peppermint oil.
+Inactive ingredients: medium-chain triglycerides, dehydrated alcohol, medium-chain partial glycerides, peppermint oil, sodium lactate, lactic acid.
