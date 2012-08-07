@@ -54,11 +54,11 @@ Other reported reactions seen less frequently in clinical trials included abnorm
 
 Initial Therapy - Hypertension
 
-In a clinical study in patients with severe hypertension (diastolic blood pressure ≤110 mmHg and systolic blood pressure ≤140 mmHg), the overall pattern of adverse reactions reported through six weeks of follow-up was similar in patients treated with Diovan HCT as initial therapy and in patients treated with valsartan as initial therapy.
+In a clinical study in patients with severe hypertension (diastolic blood pressure ≥110 mmHg and systolic blood pressure ≥140 mmHg), the overall pattern of adverse reactions reported through six weeks of follow-up was similar in patients treated with Diovan HCT as initial therapy and in patients treated with valsartan as initial therapy.
 Comparing the groups treated with Diovan HCT (force-titrated to 320/25 mg) and valsartan (force-titrated to 320 mg), dizziness was observed in 6% and 2% of patients, respectively.
 Hypotension was observed in 1% of those patients receiving Diovan HCT and 0% of patients receiving valsartan.
 There were no reported cases of syncope in either treatment group.
-Laboratory changes with Diovan HCT as initial therapy in patients with severe hypertension were similar to those reported with Diovan HCT in patients with less severe hypertension [see Clinical Studies (14.2) and Drug Interactions (7.3)].
+Laboratory changes with Diovan HCT as initial therapy in patients with severe hypertension were similar to those reported with Diovan HCT in patients with less severe hypertension [see Clinical Studies (14.2) and Drug Interactions (7)].
 
 Valsartan: In trials in which valsartan was compared to an ACE inhibitor with or without placebo, the incidence of dry cough was significantly greater in the ACE inhibitor group (7.9%) than in the groups who received valsartan (2.6%) or placebo (1.5%).
 In a 129-patient trial limited to patients who had had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, hydrochlorothiazide, or lisinopril were 20%, 19%, 69% respectively (p <0.001).
@@ -104,19 +104,21 @@ Neutropenia: Neutropenia was observed in 0.1% of patients treated with Diovan HC
 The following additional adverse reactions have been reported in valsartan or valsartan/hydrochlorothiazide postmarketing experience.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity: There are rare reports of angioedema;
+Hypersensitivity: There are rare reports of angioedema.
+Some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
+Diovan HCT should not be re-administered to patients who have had angioedema.
 
-Digestive: Elevated liver enzymes and very rare reports of hepatitis;
+Digestive: Elevated liver enzymes and very rare reports of hepatitis
 
-Renal: Impaired renal function;
+Renal: Impaired renal function
 
-Clinical Laboratory Tests: Hyperkalemia;
+Clinical Laboratory Tests: Hyperkalemia
 
-Dermatologic: Alopecia;
+Dermatologic: Alopecia
 
-Vascular: Vasculitis;
+Vascular: Vasculitis
 
-Nervous System: Syncope.
+Nervous System: Syncope
 
 Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
 

@@ -16,6 +16,9 @@ Monitor renal function periodically in patients receiving valsartan and NSAID th
 
 The antihypertensive effect of angiotensin II receptor antagonists, including valsartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
+Potassium: Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium sparing diuretics (e.g. spironolactone, triamterene, amiloride), potassium supplements, or salt substitutes containing potassium may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine.
+If co-medication is considered necessary, monitoring of serum potassium is advisable.
+
 Hydrochlorothiazide: When administered concurrently, the following drugs may interact with thiazide diuretics:
 
 Antidiabetic Drugs (oral agents and insulin) - Dosage adjustment of the antidiabetic drug may be required.
@@ -24,7 +27,7 @@ Lithium - Diuretic agents increase the risk of lithium toxicity.
 Refer to the package insert for lithium preparations before use of such preparations with Diovan HCT.
 Monitoring of serum lithium concentrations is recommended during concurrent use.
 
-Nonsteroidal Anti-inflammatory Drugs (NSAIDS and COX-2 selective inhibitors) When Diovan HCT and nonsteroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+Nonsteroidal Anti-inflammatory Drugs (NSAIDS and COX-2 selective inhibitors) - When Diovan HCT and nonsteroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
 
 Carbamazepine – May lead to symptomatic hyponatremia.
 

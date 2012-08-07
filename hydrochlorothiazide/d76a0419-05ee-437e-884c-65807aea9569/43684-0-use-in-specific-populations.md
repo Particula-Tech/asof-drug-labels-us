@@ -17,8 +17,7 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue Diovan HCT, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to Diovan HCT for hypotension, oliguria, and hyperkalemia.
-[see Use in Specific Populations (8.4)]
+Closely observe infants with histories of in utero exposure to Diovan HCT for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.4)].
 
 Hydrochlorothiazide
 

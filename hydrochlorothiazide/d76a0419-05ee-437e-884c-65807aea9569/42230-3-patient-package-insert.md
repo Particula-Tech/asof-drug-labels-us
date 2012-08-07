@@ -55,6 +55,8 @@ Tell your doctor about all your medical conditions including if you:
 - have low levels of potassium (with or without symptoms such as muscle weakness, muscle spasms, abnormal heart rhythm) or magnesium in your blood
 - have high levels of calcium in your blood (with or without symptoms such as nausea, vomiting, constipation, stomach pain, frequent urination, thirst, muscle weakness and twitching).
 - have high levels of uric acid in the blood.
+- have ever had a reaction called angioedema, to another blood pressure medication.
+  Angioedema causes swelling of the face, lips, tongue, throat and may cause difficulty breathing.
 
 Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
 Some of your other medicines and DIOVAN HCT could affect each other, causing serious side effects.
@@ -62,8 +64,10 @@ Especially, tell your doctor if you take:
 
 - other medicines for high blood pressure or a heart problem
 - water pills (diuretics)
-- potassium supplements
-- a salt substitute containing potassium
+- potassium supplements.
+  Your doctor may check the amount of potassium in your blood periodically.
+- a salt substitute.
+  Your doctor may check the amount of potassium in your blood periodically.
 - antidiabetic medicines including insulin
 - narcotic pain medicines
 - sleeping pills
@@ -72,6 +76,8 @@ Especially, tell your doctor if you take:
 - digoxin or other digitalis glycosides (a heart medicine)
 - muscle relaxants (medicines used during operations)
 - certain cancer medicines, like cyclophosphamide or methotrexate
+- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
+  These drugs may increase the effect of valsartan.
 
 Ask your doctor if you are not sure if you are taking one of these medicines.
 
@@ -194,4 +200,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2012-52/T2012-53 February 2012/February 2012
+T2012-144/T2012-145 July 2012/July 2012
