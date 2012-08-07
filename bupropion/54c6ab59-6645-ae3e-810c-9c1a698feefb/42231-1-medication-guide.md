@@ -1,8 +1,5 @@
 # SPL MEDGUIDE SECTION
 
-| MEDICATION GUIDE FORFIVO XL Fore fye' voe Eks el (buprorion hydrochloride extended-release tablets) |
-| --- |
-
 Read this Medication Guide carefully before you start using FORFIVO XL and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.

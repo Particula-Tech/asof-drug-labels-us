@@ -28,3 +28,5 @@ In many postmarketing cases, resolution of symptoms after discontinuation of ZYB
 The risks of using bupropion for smoking cessation should be weighed against the benefits of its use.
 ZYBAN has been demonstrated to increase the likelihood of abstinence from smoking for as long as 6 months compared to treatment with placebo.
 The health benefits of quitting smoking are immediate and substantial [see Warnings and Precautions (5.2) and Patient Counseling Information (17)].
+
+MEDICATION GUIDE FORFIVO XL Fore fye' voe Eks el (buprorion hydrochloride extended-release tablets)
