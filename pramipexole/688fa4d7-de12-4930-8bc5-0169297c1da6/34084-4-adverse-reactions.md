@@ -1,24 +1,34 @@
-# ADVERSE EVENTS
+# 6 ADVERSE REACTIONS
 
-## Parkinson's Disease
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-During the premarketing development of pramipexole, patients with either early or advanced Parkinson's disease were enrolled in clinical trials.
+- Falling Asleep During Activities of Daily Living [see Warnings and Precautions (5.1)].
+- Symptomatic Orthostatic Hypotension [see Warnings and Precautions (5.2)].
+- Impulse Control/Compulsive Behaviors [see Warnings and Precautions (5.3)].
+- Hallucinations [see Warnings and Precautions (5.4)].
+- Dyskinesia [see Warnings and Precautions (5.5)].
+- Renal Impairment [see Warnings and Precautions (5.6)].
+- Rhabdomyolysis [see Warnings and Precautions (5.7)].
+- Retinal Pathology in Rat [see Warnings and Precautions (5.8)].
+- Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.9)].
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse event rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+Parkinson's Disease During the premarketing development of pramipexole, patients with either early or advanced Parkinson's disease were enrolled in clinical trials.
 Apart from the severity and duration of their disease, the two populations differed in their use of concomitant levodopa therapy.
 Patients with early disease did not receive concomitant levodopa therapy during treatment with pramipexole; those with advanced Parkinson's disease all received concomitant levodopa treatment.
 Because these two populations may have differential risks for various adverse events, this section will, in general, present adverse-event data for these two populations separately.
 
 Because the controlled trials performed during premarketing development all used a titration design, with a resultant confounding of time and dose, it was impossible to adequately evaluate the effects of dose on the incidence of adverse events.
 
-Early Parkinson's Disease
-
-In the three double-blind, placebo-controlled trials of patients with early Parkinson's disease, the most commonly observed adverse events (>5%) that were numerically more frequent in the group treated with MIRAPEX tablets were nausea, dizziness, somnolence, insomnia, constipation, asthenia, and hallucinations.
+Early Parkinson's Disease In the three double-blind, placebo-controlled trials of patients with early Parkinson's disease, the most commonly observed adverse events (>5%) that were numerically more frequent in the group treated with MIRAPEX tablets were nausea, dizziness, somnolence, insomnia, constipation, asthenia, and hallucinations.
 
 Approximately 12% of 388 patients with early Parkinson's disease and treated with MIRAPEX tablets who participated in the double-blind, placebo-controlled trials discontinued treatment due to adverse events compared with 11% of 235 patients who received placebo.
-The adverse events most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [3.1% on MIRAPEX tablets vs 0.4% on placebo]; dizziness [2.1% on MIRAPEX tablets vs 1% on placebo]; somnolence [1.6% on MIRAPEX tablets vs 0% on placebo]; extrapyramidal syndrome [1.6% on MIRAPEX tablets vs 6.4% on placebo]; headache and confusion [1.3% and 1.0%, respectively, on Mirapex® (pramipexole dihydrochloride) tablets vs 0% on placebo]); and gastrointestinal system (nausea [2.1% on MIRAPEX tablets vs 0.4% on placebo]).
+The adverse events most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [3.1% on MIRAPEX tablets vs 0.4% on placebo]; dizziness [2.1% on MIRAPEX tablets vs 1% on placebo]; somnolence [1.6% on MIRAPEX tablets vs 0% on placebo]; extrapyramidal syndrome [1.6% on MIRAPEX tablets vs 6.4% on placebo]; headache and confusion [1.3% and 1.0%, respectively, on MIRAPEX tablets vs 0% on placebo]); and gastrointestinal system (nausea [2.1% on MIRAPEX tablets vs 0.4% on placebo]).
 
-#### Adverse-event Incidence in Controlled Clinical Studies in Early Parkinson's Disease
-
-Table 3 lists treatment-emergent adverse events that occurred in the double-blind, placebo-controlled studies in early Parkinson's disease that were reported by ≥1% of patients treated with MIRAPEX tablets and were numerically more frequent than in the placebo group.
+Adverse-event Incidence in Controlled Clinical Studies in Early Parkinson's Disease: Table 4 lists treatment-emergent adverse events that occurred in the double-blind, placebo-controlled studies in early Parkinson's disease that were reported by ≥1% of patients treated with MIRAPEX tablets and were numerically more frequent than in the placebo group.
 In these studies, patients did not receive concomitant levodopa.
 Adverse events were usually mild or moderate in intensity.
 
@@ -26,9 +36,9 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 However, the cited figures do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the adverse-event incidence rate in the population studied.
 
-Table 3 Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo-Controlled Trials in Early Parkinson's Disease (Events ≥1% of Patients Treated with MIRAPEX tablets and Numerically More Frequent than in the Placebo Group)
+Table 4 Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo-Controlled Trials in Early Parkinson's Disease (Events ≥1% of Patients Treated with MIRAPEX tablets and Numerically More Frequent than in the Placebo Group)
 
-| Body System/ Adverse Event | MIRAPEX N=388 | Placebo N=235 |
+| Body System/ Adverse Event | MIRAPEX (N=388) % | Placebo (N=235) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 14 | 12 |
@@ -63,22 +73,18 @@ Table 3 Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo-Con
 | Impotence | 2 | 1 |
 | *Patients may have reported multiple adverse experiences during the study or at discontinuation; thus, patients may be included in more than one category. |  |  |
 
-Other events reported by 1% or more of patients with early Parkinson's disease and treated with Mirapex® (pramipexole dihydrochloride) tablets but reported equally or more frequently in the placebo group were infection, accidental injury, headache, pain, tremor, back pain, syncope, postural hypotension, hypertonia, depression, abdominal pain, anxiety, dyspepsia, flatulence, diarrhea, rash, ataxia, dry mouth, extrapyramidal syndrome, leg cramps, twitching, pharyngitis, sinusitis, sweating, rhinitis, urinary tract infection, vasodilation, flu syndrome, increased saliva, tooth disease, dyspnea, increased cough, gait abnormalities, urinary frequency, vomiting, allergic reaction, hypertension, pruritus, hypokinesia, increased creatine PK, nervousness, dream abnormalities, chest pain, neck pain, paresthesia, tachycardia, vertigo, voice alteration, conjunctivitis, paralysis, accommodation abnormalities, tinnitus, diplopia, and taste perversions.
+Other events reported by 1% or more of patients with early Parkinson's disease and treated with MIRAPEX tablets but reported equally or more frequently in the placebo group were infection, accidental injury, headache, pain, tremor, back pain, syncope, postural hypotension, hypertonia, depression, abdominal pain, anxiety, dyspepsia, flatulence, diarrhea, rash, ataxia, dry mouth, extrapyramidal syndrome, leg cramps, twitching, pharyngitis, sinusitis, sweating, rhinitis, urinary tract infection, vasodilation, flu syndrome, increased saliva, tooth disease, dyspnea, increased cough, gait abnormalities, urinary frequency, vomiting, allergic reaction, hypertension, pruritus, hypokinesia, increased creatine PK, nervousness, dream abnormalities, chest pain, neck pain, paresthesia, tachycardia, vertigo, voice alteration, conjunctivitis, paralysis, accommodation abnormalities, tinnitus, diplopia, and taste perversions.
 
 In a fixed-dose study in early Parkinson's disease, occurrence of the following events increased in frequency as the dose increased over the range from 1.5 mg/day to 6 mg/day: postural hypotension, nausea, constipation, somnolence, and amnesia.
 The frequency of these events was generally 2-fold greater than placebo for pramipexole doses greater than 3 mg/day.
 The incidence of somnolence with pramipexole at a dose of 1.5 mg/day was comparable to that reported for placebo.
 
-Advanced Parkinson's Disease
+Advanced Parkinson's Disease In the four double-blind, placebo-controlled trials of patients with advanced Parkinson's disease, the most commonly observed adverse events (>5%) that were numerically more frequent in the group treated with MIRAPEX tablets and concomitant levodopa were postural (orthostatic) hypotension, dyskinesia, extrapyramidal syndrome, insomnia, dizziness, hallucinations, accidental injury, dream abnormalities, confusion, constipation, asthenia, somnolence, dystonia, gait abnormality, hypertonia, dry mouth, amnesia, and urinary frequency.
 
-In the four double-blind, placebo-controlled trials of patients with advanced Parkinson's disease, the most commonly observed adverse events (>5%) that were numerically more frequent in the group treated with MIRAPEX tablets and concomitant levodopa were postural (orthostatic) hypotension, dyskinesia, extrapyramidal syndrome, insomnia, dizziness, hallucinations, accidental injury, dream abnormalities, confusion, constipation, asthenia, somnolence, dystonia, gait abnormality, hypertonia, dry mouth, amnesia, and urinary frequency.
-
-Approximately 12% of 260 patients with advanced Parkinson's disease who received Mirapex® (pramipexole dihydrochloride) tablets and concomitant levodopa in the double-blind, placebo-controlled trials discontinued treatment due to adverse events compared with 16% of 264 patients who received placebo and concomitant levodopa.
+Approximately 12% of 260 patients with advanced Parkinson's disease who received MIRAPEX tablets and concomitant levodopa in the double-blind, placebo-controlled trials discontinued treatment due to adverse events compared with 16% of 264 patients who received placebo and concomitant levodopa.
 The events most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [2.7% on MIRAPEX tablets vs 0.4% on placebo]; dyskinesia [1.9% on MIRAPEX tablets vs 0.8% on placebo]; extrapyramidal syndrome [1.5% on MIRAPEX tablets vs 4.9% on placebo]; dizziness [1.2% on MIRAPEX tablets vs 1.5% on placebo]; confusion [1.2% on MIRAPEX tablets vs 2.3% on placebo]); and cardiovascular system (postural [orthostatic] hypotension [2.3% on MIRAPEX tablets vs 1.1% on placebo]).
 
-Adverse-event Incidence in Controlled Clinical Studies in Advanced Parkinson's Disease
-
-Table 4 lists treatment-emergent adverse events that occurred in the double-blind, placebo-controlled studies in advanced Parkinson's disease that were reported by ≥1% of patients treated with MIRAPEX tablets and were numerically more frequent than in the placebo group.
+Adverse-event Incidence in Controlled Clinical Studies in Advanced Parkinson's Disease: Table 5 lists treatment-emergent adverse events that occurred in the double-blind, placebo-controlled studies in advanced Parkinson's disease that were reported by ≥1% of patients treated with MIRAPEX tablets and were numerically more frequent than in the placebo group.
 In these studies, MIRAPEX tablets or placebo was administered to patients who were also receiving concomitant levodopa.
 Adverse events were usually mild or moderate in intensity.
 
@@ -86,9 +92,9 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 However, the cited figures do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the adverse-events incidence rate in the population studied.
 
-Table 4 Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo-Controlled Trials in Advanced Parkinson's Disease (Events ≥1% of Patients Treated with MIRAPEX tablets and Numerically More Frequent than in the Placebo Group)
+Table 5 Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo-Controlled Trials in Advanced Parkinson's Disease (Events ≥1% of Patients Treated with MIRAPEX tablets and Numerically More Frequent than in the Placebo Group)
 
-| Body System/ Adverse Event | MIRAPEX† (pramipexole dihydrochloride) N=260 | Placebo† N=264 |
+| Body System/ Adverse Event | MIRAPEX† (N=260) % | Placebo† (N=264) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Accidental injury | 17 | 15 |
@@ -141,29 +147,26 @@ Table 4 Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo-Con
 | Urinary frequency | 6 | 3 |
 | Urinary tract infection | 4 | 3 |
 | Urinary incontinence | 2 | 1 |
-| * Patients may have reported multiple adverse experiences during the study or at discontinuation; thus, patients may be included in more than one category. |  |  |
-| † Patients received concomitant levodopa. |  |  |
+| *Patients may have reported multiple adverse experiences during the study or at discontinuation; thus, patients may be included in more than one category. †Patients received concomitant levodopa. |  |  |
 
-Other events reported by 1% or more of patients with advanced Parkinson's disease and treated with Mirapex® (pramipexole dihydrochloride) tablets but reported equally or more frequently in the placebo group were nausea, pain, infection, headache, depression, tremor, hypokinesia, anorexia, back pain, dyspepsia, flatulence, ataxia, flu syndrome, sinusitis, diarrhea, myalgia, abdominal pain, anxiety, rash, paresthesia, hypertension, increased saliva, tooth disorder, apathy, hypotension, sweating, vasodilation, vomiting, increased cough, nervousness, pruritus, hypesthesia, neck pain, syncope, arthralgia, dysphagia, palpitations, pharyngitis, vertigo, leg cramps, conjunctivitis, and lacrimation disorders.
+Other events reported by 1% or more of patients with advanced Parkinson's disease and treated with MIRAPEX tablets but reported equally or more frequently in the placebo group were nausea, pain, infection, headache, depression, tremor, hypokinesia, anorexia, back pain, dyspepsia, flatulence, ataxia, flu syndrome, sinusitis, diarrhea, myalgia, abdominal pain, anxiety, rash, paresthesia, hypertension, increased saliva, tooth disorder, apathy, hypotension, sweating, vasodilation, vomiting, increased cough, nervousness, pruritus, hypesthesia, neck pain, syncope, arthralgia, dysphagia, palpitations, pharyngitis, vertigo, leg cramps, conjunctivitis, and lacrimation disorders.
 
-## Restless Legs Syndrome
-
-MIRAPEX tablets for treatment of RLS have been evaluated for safety in 889 patients, including 427 treated for over six months and 75 for over one year.
+Restless Legs Syndrome MIRAPEX tablets for treatment of RLS have been evaluated for safety in 889 patients, including 427 treated for over six months and 75 for over one year.
 
 The overall safety assessment focuses on the results of three double-blind, placebo-controlled trials, in which 575 patients with RLS were treated with MIRAPEX tablets for up to 12 weeks.
-The most commonly observed adverse events with MIRAPEX tablets in the treatment of RLS (observed in > 5% of pramipexole-treated patients and at a rate at least twice that observed in placebo-treated patients) were nausea and somnolence.
+The most commonly observed adverse events with MIRAPEX tablets in the treatment of RLS (observed in >5% of pramipexole-treated patients and at a rate at least twice that observed in placebo-treated patients) were nausea and somnolence.
 Occurrences of nausea and somnolence in clinical trials were generally mild and transient.
 
 Approximately 7% of 575 patients treated with MIRAPEX tablets during the double-blind periods of three placebo-controlled trials discontinued treatment due to adverse events compared to 5% of 223 patients who received placebo.
 The adverse event most commonly causing discontinuation of treatment was nausea (1%).
 
-Table 5 lists treatment-emergent events that occurred in three double-blind, placebo-controlled studies in RLS patients that were reported by ≥ 2% of patients treated with MIRAPEX tablets and were numerically more frequent than in the placebo group.
+Table 6 lists treatment-emergent events that occurred in three double-blind, placebo-controlled studies in RLS patients that were reported by ≥2% of patients treated with MIRAPEX tablets and were numerically more frequent than in the placebo group.
 
 The prescriber should be aware that these figures cannot be used to predict the incidence of adverse events in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical studies.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 However, the cited figures do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the adverse-event incidence rate in the population studied.
 
-Table 5 Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo-Controlled Trials in Restless Legs Syndrome (Events ≥ 2% of Patients Treated with MIRAPEX tablets and Numerically More Frequent than in the Placebo Group)
+Table 6 Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo-Controlled Trials in Restless Legs Syndrome (Events ≥2% of Patients Treated with MIRAPEX tablets and Numerically More Frequent than in the Placebo Group)
 
 | Body System/ Adverse Event | MIRAPEX 0.125 – 0.75 mg/day (N=575) % | Placebo (N=223) % |
 | --- | --- | --- |
@@ -181,13 +184,13 @@ Table 5 Treatment-Emergent Adverse-Event* Incidence in Double-Blind, Placebo-Con
 | Somnolence | 6 | 3 |
 | *Patients may have reported multiple adverse experiences during the study or at discontinuation; thus, patients may be included in more than one category. |  |  |
 
-Other events reported by 2% or more of RLS patients treated with Mirapex® (pramipexole dihydrochloride) tablets but equally or more frequently in the placebo group, were: vomiting, nasopharyngitis, back pain, pain in extremity, dizziness, and insomnia.
+Other events reported by 2% or more of RLS patients treated with MIRAPEX tablets but reported equally or more frequently in the placebo group, were: vomiting, nasopharyngitis, back pain, pain in extremity, dizziness, and insomnia.
 
-Table 6 summarizes data for adverse events that appeared to be dose related in the 12-week fixed dose study.
+Table 7 summarizes data for adverse events that appeared to be dose related in the 12-week fixed dose study.
 
-Table 6 Dose Related Adverse Events in a 12-Week Double-Blind, Placebo-Controlled Fixed Dose Study in Restless Legs Syndrome (Occurring in ≥ 5% of all Patients in the Treatment Phase)
+Table 7 Dose-Related Adverse Events in a 12-Week Double-Blind, Placebo-Controlled Fixed Dose Study in Restless Legs Syndrome (Occurring in ≥5% of all Patients in the Treatment Phase)
 
-| Body System/ Adverse Event | MIRAPEX 0.25 mg (N=88) % | MIRAPEX 0.5 mg (N=80) % | MIRAPEX 0.75 mg (N=90) % | Placebo (n=86) % |
+| Body System/ Adverse Event | MIRAPEX 0.25 mg (N=88) % | MIRAPEX 0.5 mg (N=80) % | MIRAPEX 0.75 mg (N=90) % | Placebo (N=86) % |
 | --- | --- | --- | --- | --- |
 | Gastrointestinal disorders |  |  |  |  |
 | Nausea | 11 | 19 | 27 | 5 |
@@ -205,17 +208,14 @@ Table 6 Dose Related Adverse Events in a 12-Week Double-Blind, Placebo-Controlle
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Pain in extremity | 3 | 3 | 7 | 1 |
 
-## General
-
-Adverse Events; Relationship to Age, Gender, and Race
-
-Among the treatment-emergent adverse events in patients treated with MIRAPEX tablets, hallucination appeared to exhibit a positive relationship to age in patients with Parkinson’s disease.
+General Adverse Events; Relationship to Age, Gender, and Race Among the treatment-emergent adverse events in patients treated with MIRAPEX tablets, hallucination appeared to exhibit a positive relationship to age in patients with Parkinson’s disease.
 Although no gender-related differences were observed in Parkinson’s disease patients, nausea and fatigue, both generally transient, were more frequently reported by female than male RLS patients.
-Less than 4% of patients enrolled were non-Caucasian, therefore, an evaluation of adverse events related to race is not possible.
+Less than 4% of patients enrolled were non-Caucasian: therefore, an evaluation of adverse events related to race is not possible.
 
-Other Adverse Events Observed During Phase 2 and 3 Clinical Trials
+Laboratory Tests During the development of MIRAPEX tablets, no systematic abnormalities on routine laboratory testing were noted.
+Therefore, no specific guidance is offered regarding routine monitoring; the practitioner retains responsibility for determining how best to monitor the patient in his or her care.
 
-MIRAPEX tablets have been administered to 1620 Parkinson’s disease patients and to 889 RLS patients in Phase 2 and 3 clinical trials.
+Other Adverse Events Observed During Phase 2 and 3 Clinical Trials MIRAPEX tablets have been administered to 1620 Parkinson’s disease patients and to 889 RLS patients in Phase 2 and 3 clinical trials.
 During these trials, all adverse events were recorded by the clinical investigators using terminology of their own choosing; similar types of events were grouped into a smaller number of standardized categories using MedDRA dictionary terminology.
 These categories are used in the listing below.
 Adverse events which are not listed above but occurred on at least two occasions (one occasion if the event was serious) in the 2509 individuals exposed to MIRAPEX tablets are listed below.
@@ -265,15 +265,10 @@ Skin and subcutaneous tissue disorders: acne, alopecia, cold sweat, dermal cyst,
 
 Vascular disorders: aneurysm, angiopathy, arteriosclerosis, circulatory collapse, deep vein thrombosis, embolism, hematoma, hot flush, hypertensive crisis, lymphoedema, pallor, phlebitis, Raynaud’s phenomenon, shock, thrombophlebitis, thrombosis, varicose vein
 
-Falling Asleep During Activities of Daily Living
+## 6.2 Post Marketing Experience
 
-Patients treated with Mirapex® (pramipexole dihydrochloride) tablets have reported falling asleep while engaged in activities of daily living, including operation of a motor vehicle which sometimes resulted in accidents (see bolded WARNING).
-
-Post-Marketing Experience
-
-In addition to the adverse events reported during clinical trials, the following adverse reactions have been identified during post-approval use of MIRAPEX tablets, primarily in Parkinson’s disease patients.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
-Similar types of events were grouped into a smaller number of standardized categories using the MedDRA dictionary: abnormal behavior, abnormal dreams, accidents (including fall), blackouts, cardiac failure, compulsive shopping, fatigue, hallucinations (all kinds), headache, hypotension (including postural hypotension), increased eating (including binge eating, compulsive eating, and hyperphagia), libido disorders (including increased and decreased libido, and hypersexuality), pathological gambling, pruritus, syncope, vomiting, and weight increase.
+In addition to the adverse events reported during clinical trials, the following adverse reactions have been identified during post-approval use of MIRAPEX tablets, primarily in Parkinson’s disease patients.Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Decisions to include these events in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
+Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: abnormal behavior, abnormal dreams, accidents (including fall), blackouts, cardiac failure, compulsive shopping, fatigue, hallucinations (all kinds), headache, hypotension (including postural hypotension), increased eating (including binge eating, compulsive eating, and hyperphagia), libido disorders (including increased and decreased libido, and hypersexuality), pathological gambling, pruritus, syncope, vomiting, and weight increase.
 
 In a pharmacoepidemiological study, pramipexole use was associated with an increased risk of cardiac failure compared with non-use of pramipexole.
