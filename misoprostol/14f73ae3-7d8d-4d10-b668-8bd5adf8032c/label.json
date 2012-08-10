@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA091667"
+  ],
+  "inn": "misoprostol",
+  "labeler": "GAVIS Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "43386-160-06",
+    "43386-160-12",
+    "43386-161-01",
+    "43386-161-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "misoprostol",
+      "name": "Misoprostol"
+    }
+  ],
+  "setid": "14f73ae3-7d8d-4d10-b668-8bd5adf8032c",
+  "source": "dailymed"
+}
