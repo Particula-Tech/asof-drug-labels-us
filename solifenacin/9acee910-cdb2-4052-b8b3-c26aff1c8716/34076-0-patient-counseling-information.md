@@ -175,6 +175,6 @@ Northbrook, IL 60062
 
 © 2012 Astellas Pharma US, Inc.
 
-Revised: June 2012
+Revised: August 2012
 
-12B010-VES-SPL
+11K089-VES-SPL

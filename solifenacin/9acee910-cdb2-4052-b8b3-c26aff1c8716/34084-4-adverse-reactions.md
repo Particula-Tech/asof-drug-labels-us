@@ -57,8 +57,20 @@ The following events have been reported in association with solifenacin use in w
 
 General: peripheral edema, hypersensitivity reactions, including angioedema with airway obstruction, rash, pruritus, urticaria, and anaphylactic reaction;
 
-Central Nervous: headache, confusion, hallucinations and somnolence;
+Central Nervous: headache, confusion, hallucinations, delirium and somnolence;
 
 Cardiovascular: QT prolongation; Torsade de Pointes;
 
-Dermatologic: exfoliative dermatitis and erythema multiforme.
+Hepatic: liver disorders mostly characterized by abnormal liver function tests, AST (aspartate aminotransferase), ALT (alanine aminotransferase), GGT (gamma-glutamyl transferase);
+
+Renal: renal impairment;
+
+Metabolism and nutrition disorders: decreased appetite, hyperkalemia;
+
+Dermatologic: exfoliative dermatitis and erythema multiforme;
+
+Eye disorders: glaucoma;
+
+Gastrointestinal disorders: gastroesophageal reflux disease and ileus;
+
+Respiratory, thoracic and mediastinal disorders: dysphonia;
