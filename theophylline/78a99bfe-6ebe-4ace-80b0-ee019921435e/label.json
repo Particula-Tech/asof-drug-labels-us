@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091586"
+  ],
+  "inn": "theophylline",
+  "labeler": "Tris Pharma Inc",
+  "package_ndcs": [
+    "27808-033-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "theophylline",
+      "name": "Theophylline"
+    }
+  ],
+  "setid": "78a99bfe-6ebe-4ace-80b0-ee019921435e",
+  "source": "dailymed"
+}

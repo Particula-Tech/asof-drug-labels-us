@@ -1,0 +1,230 @@
+# WARNINGS
+
+Concurrent Illness:
+
+Theophylline should be used with extreme caution in patients with the following clinical conditions due to the increased risk of exacerbation of the concurrent condition:
+
+Active peptic ulcer disease
+
+Seizure disorders
+
+Cardiac arrhythmias (not including bradyarrhythmias)
+
+Conditions That Reduce Theophylline Clearance:
+
+There are several readily identifiable causes of reduced theophylline clearance.
+If the total daily dose is not appropriately reduced in the presence of these risk factors, severe and potentially fatal theophylline toxicity can occur.
+Careful consideration must be given to the benefits and risks of theophylline use and the need for more intensive monitoring of serum theophylline concentrations in patients with the following risk factors:
+
+Age
+
+Neonates (term and premature) Children <1 year Elderly (>60 years)
+
+Concurrent Diseases
+
+Acute pulmonary edema
+
+Congestive heart failure
+
+Cor-pulmonale
+
+Fever; ≥102° for 24 hours or more; or lesser temperature elevations for longer periods
+
+Hypothyroidism
+
+Liver disease; cirrhosis, acute hepatitis
+
+Reduced renal function in infants <3 months of age
+
+Sepsis with multi-organ failure
+
+Shock
+
+Cessation Of Smoking
+
+Drug Interactions Adding a drug that inhibits theophylline metabolism (e.g., cimetidine, erythromycin, tacrine) or stopping a concurrently administered drug that enhances theophylline metabolism (e.g., carbamazepine, rifampin).
+(see PRECAUTIONS, Drug Interactions, Table II).
+
+When Signs Or Symptoms Of Theophylline Toxicity Are Present:
+
+Whenever a patient receiving theophylline develops nausea or vomiting, particularly repetitive vomiting, or other signs or symptoms consistent with theophylline toxicity (even if another cause may be suspected), additional doses of theophylline should be withheld and a serum theophylline concentration measured immediately.
+Patients should be instructed not to continue any dosage that causes adverse effects and to withhold subsequent doses until the symptoms have resolved, at which time the clinician may instruct the patient to resume the drug at a lower dosage (see DOSAGE AND ADMINISTRATION, Dosing Guidelines, Table VI).
+
+Dosage Increases:
+
+Increases in the dose of theophylline should not be made in response to an acute exacerbation of symptoms of chronic lung disease since theophylline provides little added benefit to inhaled beta-2 selective agonists and systemically administered corticosteroids in this circumstance and increases the risk of adverse effects.
+A peak steady-state serum theophylline concentration should be measured before increasing the dose in response to persistent chronic symptoms to ascertain whether an increase in dose is safe.
+Before increasing the theophylline dose on the basis of a low serum concentration, the clinician should consider whether the blood sample was obtained at an appropriate time in relationship to the dose and whether the patient has adhered to the prescribed regimen (see PRECAUTIONS, Laboratory Tests).
+
+As the rate of theophylline clearance may be dose-dependent (i.e., steady-state serum concentrations may increase disproportionately to the increase in dose), an increase in dose based upon a sub-therapeutic serum concentration measurement should be conservative.
+In general, limiting dose increases to about 25% of the previous total daily dose will reduce the risk of unintended excessive increases in serum theophylline concentration (see DOSAGE AND ADMINISTRATION, Table VI).
+
+# PRECAUTIONS
+
+## General
+
+Careful consideration of the various interacting drugs and physiologic conditions that can alter theophylline clearance and require dosage adjustment should occur prior to initiation of theophylline therapy, prior to increases in theophylline dose, and during follow up (see WARNINGS).
+The dose of theophylline selected for initiation of therapy should be low and, if tolerated, increased slowly over a period of a week or longer with the final dose guided by monitoring serum theophylline concentrations and the patient’s clinical response (see DOSAGE AND ADMINISTRATION, Table V).
+
+Monitoring Serum Theophylline Concentrations:
+
+Serum theophylline concentration measurements are readily available and should be used to determine whether the dosage is appropriate.
+Specifically, the serum theophylline concentration should be measured as follows:
+
+1. When initiating therapy to guide final dosage adjustment after titration.
+2. Before making a dose increase to determine whether the serum concentration is sub-therapeutic in a patient who continues to be symptomatic.
+3. Whenever signs or symptoms of theophylline toxicity are present.
+4. Whenever there is a new illness, worsening of a chronic illness or a change in the patient’s treatment regimen that may alter theophylline clearance (e.g., fever >102°F sustained for ≥24 hours, hepatitis, or drugs listed in Table II are added or discontinued).
+
+To guide a dose increase, the blood sample should be obtained at the time of the expected peak serum theophylline concentration; 1 to 2 hours after a dose at steady-state.
+For most patients, steady-state will be reached after 3 days of dosing when no doses have been missed, no extra doses have been added, and none of the doses have been taken at unequal intervals.
+A trough concentration (i.e., at the end of the dosing interval) provides no additional useful information and may lead to an inappropriate dose increase since the peak serum theophylline concentration can be two or more times greater than the trough concentration with an immediate-release formulation.
+If the serum sample is drawn more than two hours after the dose, the results must be interpreted with caution since the concentration may not be reflective of the peak concentration.
+In contrast, when signs or symptoms of theophylline toxicity are present, the serum sample should be obtained as soon as possible, analyzed immediately, and the result reported to the clinician without delay.
+In patients in whom decreased serum protein binding is suspected (e.g., cirrhosis, women during the third trimester of pregnancy), the concentration of unbound theophylline should be measured and the dosage adjusted to achieve an unbound concentration of 6 to 12 mcg/mL.
+
+Saliva concentrations of theophylline cannot be used reliably to adjust dosage without special techniques.
+
+Effects On Laboratory Tests:
+
+As a result of its pharmacological effects, theophylline at serum concentrations within the 10 to 20 mcg/mL range modestly increases plasma glucose (from a mean of 88 mg% to 98 mg%), uric acid (from a mean of 4 mg/dl to 6 mg/dl), free fatty acids (from a mean of 451 µЄq/l to 800 µЄq/l, total cholesterol (from a mean of 140 to 160 mg/dl), HDL (from a mean of 36 to 50 mg/dl), HDL/LDL ratio (from a mean of 0.5 to 0.7), and urinary free cortisol excretion (from a mean of 44 to 63 mcg/24 hr). Theophylline at serum concentrations within the 10 to 20 mcg/mL range may also transiently decrease serum concentrations of triiodothyronine (144 before, 131 after one week and 142 ng/dl after 4 weeks of theophylline).
+The clinical importance of these changes should be weighed against the potential therapeutic benefit of theophylline in individual patients.
+
+## Information for Patients
+
+The patient (or parent/care giver) should be instructed to seek medical advice whenever nausea, vomiting, persistent headache, insomnia or rapid heart beat occurs during treatment with theophylline, even if another cause is suspected.
+The patient should be instructed to contact their clinician if they develop a new illness, especially if accompanied by a persistent fever, if they experience worsening of a chronic illness, if they start or stop smoking cigarettes or marijuana, or if another clinician adds a new medication or discontinues a previously prescribed medication.
+Patients should be instructed to inform all clinicians involved in their care that they are taking theophylline, especially when a medication is being added or deleted from their treatment.
+Patients should be instructed to not alter the dose, timing of the dose, or frequency of administration without first consulting their clinician.
+If a dose is missed, the patient should be instructed to take the next dose at the usually scheduled time and to not attempt to make up for the missed dose.
+
+## Drug Interactions
+
+Theophylline interacts with a wide variety of drugs.
+The interaction may be pharmacodynamic, i.e., alterations in the therapeutic response to theophylline or another drug or occurrence of adverse effects without a change in serum theophylline concentration.
+More frequently, however, the interaction is pharmacokinetic, i.e., the rate of theophylline clearance is altered by another drug resulting in increased or decreased serum theophylline concentrations.
+Theophylline only rarely alters the pharmacokinetics of other drugs.
+
+The drugs listed in Table II have the potential to produce clinically significant pharmacodynamic or pharmacokinetic interactions with theophylline.
+The information in the “Effect” column of Table II assumes that the interacting drug is being added to a steady-state theophylline regimen.
+If theophylline is being initiated in a patient who is already taking a drug that inhibits theophylline clearance (e.g., cimetidine, erythromycin), the dose of theophylline required to achieve a therapeutic serum theophylline concentration will be smaller.
+Conversely, if theophylline is being initiated in a patient who is already taking a drug that enhances theophylline clearance (e.g., rifampin), the dose of theophylline required to achieve a therapeutic serum theophylline concentration will be larger.
+Discontinuation of a concomitant drug that increases theophylline clearance will result in accumulation of theophylline to potentially toxic levels, unless the theophylline dose is appropriately reduced.
+Discontinuation of a concomitant drug that inhibits theophylline clearance will result in decreased serum theophylline concentrations, unless the theophylline dose is appropriately increased.
+
+The drugs listed in Table III have either been documented not to interact with theophylline or do not produce a clinically significant interaction (i.e., <15% change in theophylline clearance).
+
+The listing of drugs in Tables II and III are current as of February 9, 1995.
+New interactions are continuously being reported for theophylline, especially with new chemical entities.
+The clinician should not assume that a drug does not interact with theophylline if it is not listed in Table II.
+Before addition of a newly available drug in a patient receiving theophylline, the package insert of the new drug and/or the medical literature should be consulted to determine if an interaction between the new drug and theophylline has been reported.
+
+Table II.
+Clinically significant drug interactions with theophylline*
+
+| Drug | Type of Interaction | Effect** |
+| --- | --- | --- |
+| Adenosine | Theophylline blocks adenosine receptors. | Higher doses of adenosine may be required to achieve desired effect. |
+| Alcohol | A single large dose of alcohol (3 ml/kg of whiskey) decreases theophylline clearance for up to 24 hours. | 30% increase |
+| Allopurinol | Decreases theophylline clearance at allopurinol doses ≥600 mg/day. | 25% increase |
+| Aminoglutethimide | Increases theophylline clearance by induction of microsomal enzyme activity. | 25% decrease |
+| Carbamazepine | Similar to aminoglutethimide. | 30% decrease |
+| Cimetidine | Decreases theophylline clearance by inhibiting cytochrome P450 1A2. | 70% increase |
+| Ciprofloxacin | Similar to cimetidine. | 40% increase |
+| Clarithromycin | Similar to erythromycin. | 25% increase |
+| Diazepam | Benzodiazepines increase CNS concentrations of adenosine, a potent CNS depressant, while theophylline blocks adenosine receptors. | Larger diazepam doses may be required to produce desired level of sedation. Discontinuation of theophylline without reduction of diazepam dose may result in respiratory depression. |
+| Disulfiram | Decreases theophylline clearance by inhibiting hydroxylation and demethylation. | 50% increase |
+| Enoxacin | Similar to cimetidine. | 300% increase |
+| Ephedrine | Synergistic CNS effects. | Increased frequency of nausea, nervousness, and insomnia. |
+| Erythromycin | Erythromycin metabolite decreases theophylline clearance by inhibiting cytochrome P450 3A3. | 35% increase. Erythromycin steady-state serum concentrations decrease by a similar amount. |
+| Estrogen | Estrogen containing oral contraceptives decrease theophylline clearance in a dose-dependent fashion. The effect of progesterone on theophylline clearance is unknown. | 30% increase |
+| Flurazepam | Similar to diazepam. | Similar to diazepam. |
+| Fluvoxamine | Similar to cimetidine. | Similar to cimetidine. |
+| Halothane | Halothane sensitizes the myocardium to catecholamines, theophylline increases release of endogenous catecholamines. | Increased risk of ventricular arrhythmias. |
+| Interferon, human recombinant alpha-A | Decreases theophylline clearance. | 100% increase |
+| Isoproterenol (IV) | Increases theophylline clearance. | 20% decrease |
+| Ketamine | Pharmacologic | May lower theophylline seizure threshold. |
+| Lithium | Theophylline increases renal lithium clearance. | Lithium dose required to achieve a therapeutic serum concentration increased an average of 60%. |
+| Lorazepam | Similar to diazepam. | Similar to diazepam. |
+| Methotrexate (MTX) | Decreases theophylline clearance. | 20% increase after low dose MTX, higher dose MTX may have a greater effect. |
+| Mexiletine | Similar to disulfiram. | 80% increase |
+| Midazolam | Similar to diazepam. | Similar to diazepam. |
+| Moricizine | Increases theophylline clearance. | 25% decrease |
+| Pancuronium | Theophylline may antagonize non-depolarizing neuromuscular blocking effects; possibly due to phosphodiesterase inhibition. | Larger dose of pancuronium may be required to achieve neuromuscular blockade. |
+| Pentoxifylline | Decreases theophylline clearance. | 30% increase |
+| Phenobarbital (PB) | Similar to aminoglutethimide. | 25% decrease after two weeks of concurrent PB. |
+| Phenytoin | Phenytoin increases theophylline clearance by increasing microsomal enzyme activity. Theophylline decreases phenytoin absorption. | Serum theophylline and phenytoin concentrations decrease about 40%. |
+| Propafenone | Decreases theophylline clearance and pharmacologic interaction. | 40% increase. Beta-2 blocking effect may decrease efficacy of theophylline. |
+| Propranolol | Similar to cimetidine and pharmacologic interaction. | 100% increase. Beta-2 blocking effect may decrease efficacy of theophylline. |
+| Rifampin | Increases theophylline clearance by increasing cytochrome P450 1A2 and 3A3 activity. | 20 to 40% decrease |
+| Sulfinpyrazone | Increases theophylline clearance by increasing demethylation and hydroxylation. Decreases renal clearance of theophylline. | 20% decrease |
+| Tacrine | Similar to cimetidine, also increases renal clearance of theophylline. | 90% increase |
+| Thiabendazole | Decreases theophylline clearance. | 190% increase |
+| Ticlopidine | Decreases theophylline clearance. | 60% increase |
+| Troleandomycin | Similar to erythromycin. | 33 to 100% increase depending on troleandomycin dose. |
+| Verapamil | Similar to disulfiram. | 20% increase |
+| *Refer to PRECAUTIONS, Drug Interactions for further information regarding table.**Average effect on steady state theophylline concentration or other clinical effect for pharmacologic interactions. Individual patients may experience larger changes in serum theophylline concentration than the value listed. |  |  |
+
+Table III.
+Drugs that have been documented not to interact with theophylline or drugs that produce no clinically significant interaction with theophylline.*
+
+| albuterol, systemic and inhaled | diltiazem | medroxyprogesterone | roxithromycin |
+| --- | --- | --- | --- |
+| dirithromycin | methylprednisolone | Sorbitol (purgative doses do not inhibit theophylline absorption) |  |
+| amoxicillin | enflurane | metronidazole |  |
+| ampicillin, with or without sulbactam | famotidine | metoprolol |  |
+| felodipine | nadolol |  |  |
+| finasteride | nifedipine |  |  |
+| atenolol | hydrocortisone | nizatidine | sucralfate |
+| azithromycin | isoflurane | norfloxacin | terbutaline, systemic |
+| caffeine, dietary ingestion | isoniazid | ofloxacin | terfenadine |
+| isradipine | omeprazole | tetracycline |  |
+| cefaclor | influenza vaccine | prednisone, prednisolone | tocainide |
+| co-trimoxazole (trimethoprim and sulfamethoxazole) | ketoconazole |  |  |
+| lomefloxacin | ranitidine |  |  |
+| mebendazole | rifabutin |  |  |
+| * Refer to PRECAUTIONS, Drug Interactions for information regarding table. |  |  |  |
+
+The Effect Of Other Drugs On Theophylline Serum Concentration Measurements: Most serum theophylline assays in clinical use are immunoassays which are specific for theophylline.
+Other xanthines such as caffeine, dyphylline, and pentoxifylline are not detected by these assays.
+Some drugs (e.g., cefazolin, cephalothin), however, may interfere with certain HPLC techniques.
+Caffeine and xanthine metabolites in neonates or patients with renal dysfunction may cause the reading from some dry reagent office methods to be higher than the actual serum theophylline concentration.
+
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Long term carcinogenicity studies have been carried out in mice (oral doses 30 to 150 mg/kg) and rats (oral doses 5 to 75 mg/kg).
+Results are pending.
+
+Theophylline has been studied in Ames salmonella, in vivo and in vitro cytogenetics, micronucleus and Chinese hamster ovary test systems and has not been shown to be genotoxic.
+
+In a 14 week continuous breeding study, theophylline, administered to mating pairs of B6C3F1 mice at oral doses of 120, 270 and 500 mg/kg (approximately 1 to 3 times the human dose on a mg/m2 basis) impaired fertility, as evidenced by decreases in the number of live pups per litter, decreases in the mean number of litters per fertile pair, and increases in the gestation period at the high dose as well as decreases in the proportion of pups born alive at the mid and high dose.
+In 13 week toxicity studies, theophylline was administered to F344 rats and B6C3F1 mice at oral doses of 40 to 300 mg/kg (approximately 2 times the human dose on a mg/m2 basis).
+At the high dose, systemic toxicity was observed in both species including decreases in testicular weight.
+
+## Pregnancy
+
+Category C: There are no adequate and well controlled studies in pregnant women.
+Additionally, there are no teratogenicity studies in non-rodents (e.g., rabbits).
+Theophylline was not shown to be teratogenic in CD-1 mice at oral doses up to 400 mg/kg, approximately 2 times the human dose on a mg/m2 basis or in CD-1 rats at oral doses up to 260 mg/kg, approximately 3 times the recommended human dose on a mg/m2 basis.
+At a dose of 220 mg/kg, embryotoxicity was observed in rats in the absence of maternal toxicity.
+
+## Nursing Mothers
+
+Theophylline is excreted into breast milk and may cause irritability or other signs of mild toxicity in nursing human infants.
+The concentration of theophylline in breast milk is about equivalent to the maternal serum concentration.
+An infant ingesting a liter of breast milk containing 10 to 20 mcg/mL of theophylline per day is likely to receive 10 to 20 mg of theophylline per day.
+Serious adverse effects in the infant are unlikely unless the mother has toxic serum theophylline concentrations.
+
+## Pediatric Use
+
+Theophylline is safe and effective for the approved indications in pediatric patients (see, INDICATIONS AND USAGE).
+The maintenance dose of theophylline must be selected with caution in pediatric patients since the rate of theophylline clearance is highly variable across the age range of neonates to adolescents (see CLINICAL PHARMACOLOGY, Table I, WARNINGS, and DOSAGE AND ADMINISTRATION, Table V). Due to the immaturity of theophylline metabolic pathways in infants under the age of one year, particular attention to dosage selection and frequent monitoring of serum theophylline concentrations are required when theophylline is prescribed to pediatric patients in this age group.
+
+## Geriatric Use
+
+Elderly patients are at significantly greater risk of experiencing serious toxicity from theophylline than younger patients due to pharmacokinetic and pharmacodynamic changes associated with aging.
+Theophylline clearance is reduced in patients greater than 60 years of age, resulting in increased serum theophylline concentrations in response to a given theophylline dose.
+Protein binding may be decreased in the elderly resulting in a larger proportion of the total serum theophylline concentration in the pharmacologically active unbound form.
+Elderly patients also appear to be more sensitive to the toxic effects of theophylline after chronic overdosage than younger patients.
+For these reasons, the maximum daily dose of theophylline in patients greater than 60 years of age ordinarily should not exceed 400 mg/day unless the patient continues to be symptomatic and the peak steady state serum theophylline concentration is <10 mcg/mL (see DOSAGE AND ADMINISTRATION).
+Theophylline doses greater than 400 mg/d should be prescribed with caution in elderly patients.
