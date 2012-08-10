@@ -1,13 +1,22 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Morphine Sulfate Extended-Release Tablets are supplied in tablet form for oral administration.
-Chemically, morphine sulfate is 7,8-didehydro-4,5α-epoxy-17-methylmorphinan-3,6α-diol sulfate (2:1) (salt) pentahydrate and has the following structural formula:
+Morphine sulfate extended-release tablets are for oral use and contain morphine sulfate, an agonist at the mu-opioid receptor.
 
-Morphine sulfate extended-release tablets are opiate analgesics supplied in 15, 30, 60, 100 and 200 mg tablet strengths.
+Each tablet contains the following inactive ingredients common to all strengths: hydroxypropyl methylcellulose, lactose monohydrate, magnesium stearate, silicone dioxide, titanium dioxide, and triacetine.
+
 The tablet strengths describe the amount of morphine per tablet as the pentahydrated sulfate salt (morphine sulfate USP).
-All strengths contain the following inactive ingredients: hydroxypropyl methylcellulose, lactose monohydrate, magnesium stearate, silicone dioxide, titanium dioxide, and triacetine.
+
 The 15 mg tablets also contain: polyethylene glycol, polydextrose, and FD&C Blue No. 2.
+
 The 30 mg tablets also contain: polyethylene glycol, polydextrose, FD&C Blue No. 2, and D&C Red No. 7.
+
 The 60 mg tablets also contain: polyethylene glycol, polydextrose, FD&C Yellow No. 6, and iron oxide red.
-The 100 mg* tablets also contain: iron oxide black.
-The 200 mg* tablets also contain: polyethylene glycol, FD&C Blue No. 1, and D&C Yellow No. 10 Lake. *100 mg and 200 mg ARE FOR USE IN OPIOID-TOLERANT PATIENTS ONLY.
+
+The 100 mg tablets also contain: iron oxide black.
+
+The 200 mg tablets also contain: polyethylene glycol, FD&C Blue No. 1, and D&C Yellow No. 10 Lake.
+
+Morphine sulfate is an odorless, white, crystalline powder with a bitter taste.
+It has a solubility of 1 in 21 parts of water and 1 in 1000 parts of alcohol, but is practically insoluble in chloroform or ether.
+The octanol: water partition coefficient of morphine is 1.42 at physiologic pH and the pKb is 7.9 for the tertiary nitrogen (mostly ionized at pH 7.4).
+Its structural formula is:

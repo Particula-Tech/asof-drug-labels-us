@@ -4,7 +4,7 @@
     "ANDA076438"
   ],
   "inn": "morphine",
-  "labeler": "Mallinckrodt Inc.",
+  "labeler": "Mallinckrodt, Inc.",
   "package_ndcs": [
     "0406-8315-01",
     "0406-8315-62",
@@ -18,7 +18,7 @@
   ],
   "products": [
     {
-      "form": "TABLET",
+      "form": "TABLET, EXTENDED RELEASE",
       "generic": "morphine sulfate",
       "name": "MORPHINE SULFATE"
     }

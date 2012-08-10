@@ -1,6 +1,8 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Morphine sulfate extended-release tablets are contraindicated in patients with known hypersensitivity to morphine or in any situation where opioids are contraindicated.
-This includes patients with respiratory depression (in the absence of resuscitative equipment or in unmonitored settings), and in patients with acute or severe bronchial asthma or hypercarbia.
+Morphine sulfate extended-release tablets are contraindicated in patients with:
 
-Morphine sulfate extended-release tablets are contraindicated in any patient who has or is suspected of having a paralytic ileus.
+- Significant respiratory depression
+- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment
+- Known or suspected paralytic ileus
+- Hypersensitivity (e.g., anaphylaxis) to morphine [see Adverse Reactions (6.2)]
