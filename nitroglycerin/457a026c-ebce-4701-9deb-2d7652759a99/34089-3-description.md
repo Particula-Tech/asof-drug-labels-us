@@ -20,7 +20,7 @@ Composition, osmolarity and pH are given in Table 1.
 
 | Table 1 |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Composition |  | Normal physiologic osmolarity range is approximately 280 to 310 mOsmol/L. Administration of substantially hypertonic solutions ((≥600 mOsmol/L) may cause vein damage.Osmolarity (mOsmol/L) (calc) | pH |
+|  | Composition |  | Normal physiologic osmolarity range is approximately 280 to 310 mOsmol/L. Administration of substantially hypertonic solutions (≥600 mOsmol/L) may cause vein damage.Osmolarity (mOsmol/L) (calc) | pH |
 | Nitroglycerin (mcg/mL) | Dextrose Hydrous, USP (g/L) |  |  |  |
 | 25 mg Nitroglycerin in 5% Dextrose Injection | 100 | 50 | 428 | 4.0 (3.0 to 5.0) |
 | 50 mg Nitroglycerin in 5% Dextrose Injection | 200 | 50 | 440 | 4.0 (3.0 to 5.0) |

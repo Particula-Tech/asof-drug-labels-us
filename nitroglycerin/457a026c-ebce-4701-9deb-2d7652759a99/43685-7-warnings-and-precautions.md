@@ -47,7 +47,7 @@ Nitroglycerin in 5% Dextrose Injection should be administered only via an infusi
 
 Intracoronary injection of Nitroglycerin in 5% Dextrose Injection has not been studied.
 
-Solutions containing dextrose should be used with caution in patients with known sub-clinical or overt diabetes mellitus.]
+Solutions containing dextrose should be used with caution in patients with known sub-clinical or overt diabetes mellitus.
 
 ## Laboratory Tests:
 
@@ -65,7 +65,7 @@ In patients receiving intravenous nitroglycerin, concomitant heparin therapy sho
 Administration of Nitroglycerin in 5% Dextrose Injection through the same infusion set as blood can result in pseudoagglutination and hemolysis.
 More generally, Nitroglycerin in 5% Dextrose Injection should not be mixed with any other medication of any kind.
 
-## Carcinogenesis and Mutagenesis and Impairment of Fertility:
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Animal carcinogenesis studies with injectable nitroglycerin have not been performed.
 
@@ -96,10 +96,10 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## Pediatric Use:
 
-It is not known whether nitroglycerin is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when nitroglycerin is administered to a nursing woman.
+Safety and effectiveness in the pediatric population have not been established.
+However, the relationship between hemodynamic effects of nitroglycerin and dose in the pediatric population have been documented in the literature.
 
-| Table 2 |  |  |  |  |  |  |  |  |  |  |
+| Table 2. |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Studies in the literature used doses of nitroglycerin injection in pediatric patients ranging from 0.5 to 5 mcg/kg/min. The following chart can be used to calculate the flow rate in mL/hour of nitroglycerin using the 100 mcg/mL (25 mg/250 mL) concentration of nitroglycerin. Note: Very low infusion rates may require that a more dilute concentration of nitroglycerin infusion solution be prepared. |  |  |  |  |  |  |  |  |  |  |
 | Flow Rate (mL/hour) Using the 100 mcg/mL (25mg/250 mL) Concentration |  |  |  |  |  |  |  |  |  |  |

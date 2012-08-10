@@ -14,8 +14,14 @@ Protect from freezing.
 It is recommended the product be stored at room temperature (25°C).
 Brief exposure up to 40°C does not adversely affect the product.
 
-Baxter Healthcare Corporation
-
-Deerfield, IL 60015
+Baxter Healthcare Corporation Deerfield, IL 60015
 
 Printed in USA
+
+*For Bar Code Position Only 071900232
+
+© Copyright 1989, 1990, 1995, Baxter Healthcare Corporation.
+All rights reserved.
+
+7-19-00-232 Rev.
+January 2000
