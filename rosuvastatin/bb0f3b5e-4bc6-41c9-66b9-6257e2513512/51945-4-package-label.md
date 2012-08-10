@@ -50,7 +50,7 @@ Otto-Hahn-Strasse
 
 68723 Plankstadt, Germany
 
-Product of UK
+Product of Belgium
 
 AstraZeneca
 
@@ -106,6 +106,6 @@ Otto-Hahn-Strasse
 
 68723 Plankstadt, Germany
 
-Product of UK
+Product of Belgium
 
 AstraZeneca
