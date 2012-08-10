@@ -7,7 +7,7 @@ A calibrated electronic infusion device is recommended for controlling the rate 
 
 Infusion of dobutamine should be started at a low rate (0.5-1.0 µg/kg/min) and titrated at intervals of a few minutes, guided by the patient’s response, including systemic blood pressure, urine flow, frequency of ectopic activity, heart rate, and (whenever possible) measurements of cardiac output, central venous pressure, and/or pulmonary capillary wedge pressure.
 In reported trials, the optimal infusion rates have varied from patient to patient, usually 2-20 µg/kg/min but sometimes slightly outside of this range.
-On rare occasions, infusion rates up to 40µg/kg/min have been required to obtain the desired effect.
+On rare occasions, infusion rates up to 40 µg/kg/min have been required to obtain the desired effect.
 
 Rates of infusion in mL/hour for dobutamine hydrochloride concentrations of 500, 1,000, 2,000 and 4,000 mg/L are in Table 2.
 

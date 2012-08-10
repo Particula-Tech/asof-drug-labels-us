@@ -41,7 +41,7 @@ Such use could result in air embolism due to residual air being drawn from the p
    Refer to complete directions accompanying set.
 
 Table 2.
-Infusion Rate (mL/hr) of Dobutamine Hydrochloride in 5% Dextrose Injection
+Infusion Rate (mL/hr) of Dobutamine Hydrochloride in 5% Dextrose Injection.
 
 | 500 mcg/mL Patient's Weight (Kg) |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -98,13 +98,11 @@ BAXTER, AND VIAFLEX ARE TRADEMARKS OF BAXTER INTERNATIONAL, INC.
 ©Copyright 1991, 1993, Baxter Healthcare Corporation.
 All rights reserved.
 
-Baxter Healthcare Corporation
-
-Deerfield, IL 60015 USA
+Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Printed in USA
 
-7-19-30-266 Rev July 2002
+7-19-30-266 Revised July 2002
 
 *BAR CODE POSITION ONLY
 

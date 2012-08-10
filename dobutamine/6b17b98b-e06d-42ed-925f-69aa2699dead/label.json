@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020255"
+  ],
   "inn": "dobutamine",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
@@ -9,7 +11,13 @@
     "0338-1075-02",
     "0338-1077-02"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "dobutamine hydrochloride",
+      "name": "Dobutamine Hydrochloride in Dextrose"
+    }
+  ],
   "setid": "6b17b98b-e06d-42ed-925f-69aa2699dead",
   "source": "dailymed"
 }
