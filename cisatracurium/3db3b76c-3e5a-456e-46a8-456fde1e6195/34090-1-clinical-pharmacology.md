@@ -181,11 +181,11 @@ Heart Rate and MAP Change at 1 Minute After the Initial Dose, By Age Group Treat
 
 The neuromuscular blocking activity of NIMBEX is due to parent drug.
 Cisatracurium plasma concentration-time data following IV bolus administration are best described by a two-compartment open model (with elimination from both compartments) with an elimination half-life (t½β) of 22 minutes, a plasma clearance (CL) of 4.57 mL/min/kg, and a volume of distribution at steady state (Vss) of 145 mL/kg.
-Cisatracurium undergoes organ-independent Hofmann elimination (a chemical process dependent on pH and temperature) to form the monoquaternary acrylate metabolite and laudanosine, neither of which has any neuromuscular blocking activity (see Pharmacokinetics - Metabolism section).
+Cisatracurium undergoes organ-independent Hofmann elimination (a chemical process dependent on pH and temperature) to form the monoquaternary acrylate metabolite and laudanosine, neither of which has any neuromuscular blocking activity (see Pharmacokinetics -Metabolism section).
 Following administration of radiolabeled cisatracurium, 95% of the dose was recovered in the urine; less than 10% of the dose was excreted as unchanged parent drug.
 Laudanosine, a metabolite of cisatracurium (and atracurium) has been noted to cause transient hypotension and, in higher doses, cerebral excitatory effects when administered to several animal species.
 The relationship between CNS excitation and laudanosine concentrations in humans has not been established (see PRECAUTIONS - Long-term Use in the Intensive Care Unit).
-Because cisatracurium is three times more potent than atracurium and lower doses are required, the corresponding laudanosine concentrations following cisatracurium are one third of those that would be expected following an equipotent dose of atracurium (see Pharmacokinetics - Special Populations - Intensive Care Unit Patients).
+Because cisatracurium is three times more potent than atracurium and lower doses are required, the corresponding laudanosine concentrations following cisatracurium are one third of those that would be expected following an equipotent dose of atracurium (see Pharmacokinetics - Special Populations -Intensive Care Unit Patients).
 
 Results from population pharmacokinetic/pharmacodynamic (PK/PD) analyses from 241 healthy surgical patients are summarized in Table 5.
 
@@ -200,7 +200,7 @@ Key Population PK/PD Parameter Estimates for Cisatracurium in Healthy Surgical P
 | EC50 (ng/mL)¶ | 141 | 52% |
 | * Healthy male non-obese patients 19-64 years of age with creatinine clearance values greater than 70 mL/min who received cisatracurium during opioid anesthesia and had venous samples collected. † The percent standard error of the mean (%SEM) ranged from 3% to 12% indicating good precision for the PK/PD estimates. ‡ Expressed as a coefficient of variation; the %SEM ranged from 20% to 35% indicating adequate precision for the estimates of interpatient variability. § Vss is the volume of distribution at steady state estimated using a two-compartment model with elimination from both compartments. Vss is equal to the sum of the volume in the central compartment (Vc) and the volume in the peripheral compartment (Vp); interpatient variability could only be estimated for Vc. ll Rate constant describing the equilibration between plasma concentrations and neuromuscular block. ¶ Concentration required to produce 50% T1 suppression; an index of patient sensitivity. |  |  |
 
-The magnitude of interpatient variability in CL was low (16%), as expected based on the importance of Hofmann elimination (see Pharmacokinetics - Elimination).
+The magnitude of interpatient variability in CL was low (16%), as expected based on the importance of Hofmann elimination (see Pharmacokinetics -Elimination).
 The magnitudes of interpatient variability in CL and volume of distribution were low in comparison to those for keo and EC50.
 This suggests that any alterations in the time course of cisatracurium-induced block are more likely to be due to variability in the pharmacodynamic parameters than in the pharmacokinetic parameters.
 Parameter estimates from the population pharmacokinetic analyses were supported by noncompartmental pharmacokinetic analyses on data from healthy patients and from special patient populations.
@@ -212,7 +212,7 @@ In addition, population pharmacokinetic analyses revealed no statistically signi
 
 The volume of distribution of cisatracurium is limited by its large molecular weight and high polarity.
 The Vss was equal to 145 mL/kg (Table 4) in healthy 19- to 64-year-old surgical patients receiving opioid anesthesia.
-The Vss was 21% larger in similar patients receiving inhalation anesthesia (see Pharmacokinetics - Special Populations - Other Patient Factors).
+The Vss was 21% larger in similar patients receiving inhalation anesthesia (see Pharmacokinetics - Special Populations -Other Patient Factors).
 
 ### Protein Binding
 
