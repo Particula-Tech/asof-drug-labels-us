@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-ACULAR® ophthalmic solution is contraindicated in patients with previously demonstrated hypersensitivity to any of the ingredients in the formulation.
+ACULAR® solution is contraindicated in patients with previously demonstrated hypersensitivity to any of the ingredients in the formulation.

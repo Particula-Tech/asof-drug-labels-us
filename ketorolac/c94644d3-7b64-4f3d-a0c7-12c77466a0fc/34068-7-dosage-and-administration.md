@@ -1,7 +1,14 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-The recommended dose of ACULAR® ophthalmic solution is one drop (0.25 mg) four times a day for relief of ocular itching due to seasonal allergic conjunctivitis.
+## 2.1 Recommended Dosing
 
-For the treatment of postoperative inflammation in patients who have undergone cataract extraction, one drop of ACULAR® ophthalmic solution should be applied to the affected eye(s) four times daily beginning 24 hours after cataract surgery and continuing through the first 2 weeks of the postoperative period.
+Patient Dosing
 
-ACULAR® ophthalmic solution has been safely administered in conjunction with other ophthalmic medications such as antibiotics, beta blockers, carbonic anhydrase inhibitors, cycloplegics, and mydriatics.
+The recommended dose of ACULAR® ophthalmic solution is one drop four times a day to the affected eye(s) for relief of ocular itching due to seasonal allergic conjunctivitis.
+
+For the treatment of postoperative inflammation in patients who have undergone cataract extraction, one drop of ACULAR® ophthalmic solution should be applied to the affected eye four times daily beginning 24 hours after cataract surgery and continuing through the first 2 weeks of the postoperative period.
+
+## 2.2 Use with Other Topical Ophthalmic Medications
+
+ACULAR® ophthalmic solution has been safely administered in conjunction with other ophthalmic medications such as antibiotics, alpha-agonists, beta blockers, carbonic anhydrase inhibitors, cycloplegics, and mydriatics.
+Drops should be administered at least 5 minutes apart.
