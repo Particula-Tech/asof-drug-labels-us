@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 40 mg/2 mL Vial Carton
+PRINCIPAL DISPLAY PANEL - 40 mg/2 mL Vial Carton
 
 NDC 0009-7529-04 Rx only
 

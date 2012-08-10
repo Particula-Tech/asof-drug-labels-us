@@ -1,165 +1,118 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Combination-Agent Dosage
+## 2.1 Colorectal Cancer Combination Regimens 1 and 2
 
-### Dosage Regimens
-
-#### CAMPTOSAR Injection in Combination with 5-Fluorouracil (5-FU) and Leucovorin (LV)
-
-CAMPTOSAR should be administered as an intravenous infusion over 90 minutes (see Preparation of Infusion Solution).
-For all regimens, the dose of LV should be administered immediately after CAMPTOSAR, with the administration of 5-FU to occur immediately after receipt of LV.
-CAMPTOSAR should be used as recommended; the currently recommended regimens are shown in Table 10.
-
-Table 10.
-Combination-Agent Dosage Regimens & Dose ModificationsDose reductions beyond dose level –2 by decrements of ≈20% may be warranted for patients continuing to experience toxicity.
-Provided intolerable toxicity does not develop, treatment with additional cycles may be continued indefinitely as long as patients continue to experience clinical benefit.
-
-| Regimen 1 6-wk cycle with bolus 5-FU/LV (next cycle begins on day 43) | CAMPTOSAR LV 5-FU | 125 mg/m2 IV over 90 min, d 1,8,15,22 20 mg/m2 IV bolus, d 1,8,15,22 500 mg/m2 IV bolus, d 1,8,15,22 |  |  |
-| --- | --- | --- | --- | --- |
-| Starting Dose & Modified Dose Levels (mg/m2) |  |  |  |  |
-| Starting Dose | Dose Level -1 | Dose Level -2 |  |  |
-| CAMPTOSAR | 125 | 100 | 75 |  |
-| LV | 20 | 20 | 20 |  |
-| 5-FU | 500 | 400 | 300 |  |
-| Regimen 2 6-wk cycle with infusional 5-FU/LV (next cycle begins on day 43) | CAMPTOSAR LV 5-FU Bolus 5-FU InfusionInfusion follows bolus administration. | 180 mg/m2 IV over 90 min, d 1,15,29 200 mg/m2 IV over 2 h, d 1,2,15,16,29,30 400 mg/m2 IV bolus, d 1,2,15,16,29,30 600 mg/m2 IV over 22 h, d 1,2,15,16,29,30 |  |  |
-| Starting Dose & Modified Dose Levels (mg/m2) |  |  |  |  |
-| Starting Dose | Dose Level -1 | Dose Level -2 |  |  |
-| CAMPTOSAR | 180 | 150 | 120 |  |
-| LV | 200 | 200 | 200 |  |
-| 5-FU Bolus | 400 | 320 | 240 |  |
-| 5-FU Infusion | 600 | 480 | 360 |  |
-
-Dosing for patients with bilirubin >2 mg/dL cannot be recommended because there is insufficient information to recommend a dose in these patients.
-It is recommended that patients receive premedication with antiemetic agents.
-Prophylactic or therapeutic administration of atropine should be considered in patients experiencing cholinergic symptoms.
-See PRECAUTIONS, General.
-
-### Dose Modifications
-
-Patients should be carefully monitored for toxicity and assessed prior to each treatment.
-Doses of CAMPTOSAR and 5-FU should be modified as necessary to accommodate individual patient tolerance to treatment.
-Based on the recommended dose-levels described in Table 10, Combination-Agent Dosage Regimens & Dose Modifications, subsequent doses should be adjusted as suggested in Table 11, Recommended Dose Modifications for Combination Schedules.
-All dose modifications should be based on the worst preceding toxicity.
-After the first treatment, patients with active diarrhea should return to pre-treatment bowel function without requiring anti-diarrhea medications for at least 24 hours before the next chemotherapy administration.
-
-A new cycle of therapy should not begin until the toxicity has recovered to NCI grade 1 or less.
-Treatment maybe delayed 1 to 2 weeks to allow for recovery from treatment-related toxicity.
-If the patient has not recovered, consideration should be given to discontinuing therapy.
-Provided intolerable toxicity does not develop, treatment with additional cycles of CAMPTOSAR/5-FU/LV may be continued indefinitely as long as patients continue to experience clinical benefit.
-
-Table 11.
-Recommended Dose Modifications for CAMPTOSAR/5-Fluorouracil (5-FU)/Leucovorin (LV) Combination Schedules
-
-| Toxicity NCI CTC GradeNational Cancer Institute Common Toxicity Criteria (version 1.0) (Value) | During a Cycle of Therapy | At the Start of Subsequent Cycles of TherapyRelative to the starting dose used in the previous cycle |
-| --- | --- | --- |
-| Patients should return to pre-treatment bowel function without requiring antidiarrhea medications for at least 24 hours before the next chemotherapy administration. A new cycle of therapy should not begin until the granulocyte count has recovered to ≥1500/mm3, and the platelet count has recovered to ≥100,000/mm3, and treatment-related diarrhea is fully resolved. Treatment should be delayed 1 to 2 weeks to allow for recovery from treatment-related toxicities. If the patient has not recovered after a 2-week delay, consideration should be given to discontinuing therapy |  |  |
-| No toxicity | Maintain dose level | Maintain dose level |
-| Neutropenia |  |  |
-| 1 (1500 to 1999/mm3) | Maintain dose level | Maintain dose level |
-| 2 (1000 to 1499/mm3) | ↓ 1 dose level | Maintain dose level |
-| 3 (500 to 999/mm3) | Omit dose until resolved to ≤ grade 2, then ↓ 1 dose level | ↓ 1 dose level |
-| 4 (<500/mm3) | Omit dose until resolved to ≤ grade 2, then ↓ 2 dose levels | ↓ 2 dose levels |
-| Neutropenic fever | Omit dose until resolved, then ↓ 2 dose levels |  |
-| Other hematologic toxicities | Dose modifications for leukopenia or thrombocytopenia during a cycle of therapy and at the start of subsequent cycles of therapy are also based on NCI toxicity criteria and are the same as recommended for neutropenia above. |  |
-| Diarrhea |  |  |
-| 1 (2–3 stools/day > pretxPretreatment) | Delay dose until resolved to baseline, then give same dose | Maintain dose level |
-| 2 (4–6 stools/day > pretx) | Omit dose until resolved to baseline, then ↓ 1 dose level | Maintain dose level |
-| 3 (7–9 stools/day > pretx) | Omit dose until resolved to baseline, then ↓ 1 dose level | ↓ 1 dose level |
-| 4 (≥10 stools/day > pretx) | Omit dose until resolved to baseline, then ↓ 2 dose levels | ↓ 2 dose levels |
-| Other nonhematologic toxicitiesExcludes alopecia, anorexia, asthenia |  |  |
-| 1 | Maintain dose level | Maintain dose level |
-| 2 | Omit dose until resolved to ≤ grade 1, then ↓ 1 dose level | Maintain dose level |
-| 3 | Omit dose until resolved to ≤ grade 2, then ↓ 1 dose level | ↓ 1 dose level |
-| 4 | Omit dose until resolved to ≤ grade 2, then ↓ 2 dose levels | ↓ 2 dose levels |
-|  | For mucositis/stomatitis decrease only 5-FU, not CAMPTOSAR | For mucositis/stomatitis decrease only 5-FU, not CAMPTOSAR. |
-
-## Single-Agent Dosage Schedules
-
-### Dosage Regimens
-
-CAMPTOSAR should be administered as an intravenous infusion over 90 minutes for both the weekly and once-every-3-week dosage schedules (see Preparation of Infusion Solution).
-Single-agent dosage regimens are shown in Table 12.
-
-Table 12.
-Single-Agent Regimens of CAMPTOSAR and Dose Modifications
-
-| Weekly RegimenSubsequent doses may be adjusted as high as 150 mg/m2 or to as low as 50 mg/m2 in 25 to 50 mg/m2 decrements depending upon individual patient tolerance. | 125 mg/m2 IV over 90 min, d 1,8,15,22 then 2-wk rest |  |  |
-| --- | --- | --- | --- |
-| Starting Dose & Modified Dose Levels (mg/m2) |  |  |  |
-| Starting Dose | Dose Level -1 | Dose Level -2 |  |
-| 125 | 100 | 75 |  |
-| Once-Every-3-Week RegimenSubsequent doses may be adjusted as low as 200 mg/m2 in 50 mg/m2 decrements depending upon individual patient tolerance. | 350 mg/m2 IV over 90 min, once every 3 wksProvided intolerable toxicity does not develop, treatment with additional cycles may be continued indefinitely as long as patients continue to experience clinical benefit. |  |  |
-| Starting Dose & Modified Dose Levels (mg/m2) |  |  |  |
-| Starting Dose | Dose Level -1 | Dose Level -2 |  |
-| 350 | 300 | 250 |  |
+Administer CAMPTOSAR as a 90-minute intravenous infusion followed by LV and 5-FU.
+The currently recommended regimens are shown in Table 1.
 
 A reduction in the starting dose by one dose level of CAMPTOSAR may be considered for patients with any of the following conditions: prior pelvic/abdominal radiotherapy, performance status of 2, or increased bilirubin levels.
 Dosing for patients with bilirubin >2 mg/dL cannot be recommended because there is insufficient information to recommend a dose in these patients.
 
-It is recommended that patients receive premedication with antiemetic agents.
-Prophylactic or therapeutic administration of atropine should be considered in patients experiencing cholinergic symptoms.
-See PRECAUTIONS, General.
+Table 1.
+Combination-Agent Dosage Regimens and Dose ModificationsDose reductions beyond Dose Level –2 by decrements of ≈ 20% may be warranted for patients continuing to experience toxicity.
+Provided intolerable toxicity does not develop, treatment with additional cycles may be continued indefinitely as long as patients continue to experience clinical benefit.
 
-### Dose Modifications
+| Regimen 1 6-wk cycle with bolus 5-FU/LV (next cycle begins on day 43) | CAMPTOSAR LV 5-FU | 125 mg/m2 intravenous infusion over 90 minutes, days 1,8,15,22 20 mg/m2 intravenous injection bolus, days 1,8,15,22 500 mg/m2 intravenous injection bolus, days 1,8,15,22 |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Starting Dose & Modified Dose Levels (mg/m2) |  |  |  |  |  |
+| Starting Dose | Dose Level -1 | Dose Level -2 |  |  |  |
+|  | CAMPTOSAR | 125 | 100 | 75 |  |
+|  | LV | 20 | 20 | 20 |  |
+|  | 5-FU | 500 | 400 | 300 |  |
+| Regimen 2 |  |  |  |  |  |
+| 6-wk cycle with infusional 5-FU/LV (next cycle begins on day 43) | CAMPTOSAR LV 5-FU Bolus 5-FU InfusionInfusion follows bolus administration. | 180 mg/m2 intravenous infusion over 90 minutes, days 1,15,29 200 mg/m2 intravenous infusion over 2 hours, days 1,2,15,16,29,30 400 mg/m2 intravenous injection bolus, days 1,2,15,16,29,30 600 mg/m2 intravenous infusion over 22 hours, days 1,2,15,16,29,30 |  |  |  |
+|  |  | Starting Dose & Modified Dose Levels (mg/m2) |  |  |  |
+|  |  | Starting Dose | Dose Level -1 | Dose Level -2 |  |
+|  | CAMPTOSAR | 180 | 150 | 120 |  |
+|  | LV | 200 | 200 | 200 |  |
+|  | 5-FU Bolus | 400 | 320 | 240 |  |
+|  | 5-FU Infusion | 600 | 480 | 360 |  |
 
-Patients should be carefully monitored for toxicity and doses of CAMPTOSAR should be modified as necessary to accommodate individual patient tolerance to treatment.
-Based on recommended dose-levels described in Table 12, Single-Agent Regimens of CAMPTOSAR and Dose Modifications, subsequent doses should be adjusted as suggested in Table 13, Recommended Dose Modifications for Single-Agent Schedules.
+Dosing for patients with bilirubin >2 mg/dL cannot be recommended because there is insufficient information to recommend a dose in these patients [see Warnings and Precautions (5.10), Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+
+Dose Modifications
+
+Based on recommended dose levels described in Table 1, Combination Regimens of CAMPTOSAR and Dose Modifications, subsequent doses should be adjusted as suggested in Table 2, Recommended Dose Modifications for Combination Regimens.
 All dose modifications should be based on the worst preceding toxicity.
 
-A new cycle of therapy should not begin until the toxicity has recovered to NCI grade 1 or less.
-Treatment may be delayed 1 to 2 weeks to allow for recovery from treatment-related toxicity.
-If the patient has not recovered, consideration should be given to discontinuing this combination therapy.
-Provided intolerable toxicity does not develop, treatment with additional cycles of CAMPTOSAR may be continued indefinitely as long as patients continue to experience clinical benefit.
+Table 2.
+Recommended Dose Modifications for CAMPTOSAR/5-Fluorouracil (5-FU)/Leucovorin (LV) Combination Schedules
 
-Table 13.
-Recommended Dose Modifications For Single-Agent SchedulesAll dose modifications should be based on the worst preceding toxicity
+| Toxicity NCI CTC GradeNational Cancer Institute Common Toxicity Criteria (version 1.0) (Value) | During a Cycle of Therapy | At the Start of Subsequent Cycles of TherapyRelative to the starting dose used in the previous cycle |
+| --- | --- | --- |
+| Patients should return to pre-treatment bowel function without requiring antidiarrhea medications for at least 24 hours before the next chemotherapy administration. A new cycle of therapy should not begin until the granulocyte count has recovered to ≥1500/mm3, and the platelet count has recovered to ≥100,000/mm3, and treatment-related diarrhea is fully resolved. Treatment should be delayed 1 to 2 weeks to allow for recovery from treatment-related toxicities. If the patient has not recovered after a 2-week delay, consideration should be given to discontinuing therapy. |  |  |
+| No toxicity | Maintain dose level | Maintain dose level |
+| Neutropenia 1 (1500 to 1999/mm3) 2 (1000 to 1499/mm3) 3 (500 to 999/mm3) 4 (<500/mm3) | Maintain dose level ↓ 1 dose level Omit dose until resolved to ≤ grade 2, then ↓ 1 dose level Omit dose until resolved to ≤ grade 2, then ↓ 2 dose levels | Maintain dose level Maintain dose level ↓ 1 dose level ↓ 2 dose levels |
+| Neutropenic fever | Omit dose until resolved, then ↓ 2 dose levels |  |
+| Other hematologic toxicities | Dose modifications for leukopenia or thrombocytopenia during a cycle of therapy and at the start of subsequent cycles of therapy are also based on NCI toxicity criteria and are the same as recommended for neutropenia above. |  |
+| Diarrhea 1 (2–3 stools/day > pretxPretreatment) 2 (4–6 stools/day > pretx) 3 (7–9 stools/day > pretx) 4 (≥10 stools/day > pretx) | Delay dose until resolved to baseline, then give same dose Omit dose until resolved to baseline, then ↓ 1 dose level Omit dose until resolved to baseline, then ↓ 1 dose level Omit dose until resolved to baseline, then ↓ 2 dose levels | Maintain dose level Maintain dose level ↓ 1 dose level ↓ 2 dose levels |
+| Other nonhematologic toxicitiesExcludes alopecia, anorexia, asthenia 1 2 3 4 | Maintain dose level Omit dose until resolved to ≤ grade 1, then ↓ 1 dose level Omit dose until resolved to ≤ grade 2, then ↓ 1 dose level Omit dose until resolved to ≤ grade 2, then ↓ 2 dose levels For mucositis/stomatitis decrease only 5-FU, not CAMPTOSAR | Maintain dose level Maintain dose level ↓ 1 dose level ↓ 2 dose levels For mucositis/stomatitis decrease only 5-FU, not CAMPTOSAR. |
 
-| Weekly | Weekly | Once Every 3 Weeks |  |
+## 2.2 Colorectal Single Agent Regimens 1 and 2
+
+Administer CAMPTOSAR as a 90-minute intravenous infusion.
+The currently recommended regimens are shown in Table 3.
+
+A reduction in the starting dose by one dose level of CAMPTOSAR may be considered for patients with any of the following conditions: prior pelvic/abdominal radiotherapy, performance status of 2, or increased bilirubin levels.
+Dosing for patients with bilirubin >2 mg/dL cannot be recommended because there is insufficient information to recommend a dose in these patients.
+
+Table 3.
+Single-Agent Regimens of CAMPTOSAR and Dose Modifications
+
+| Regimen 1 (weekly)Subsequent doses may be adjusted as high as 150 mg/m2 or to as low as 50 mg/m2 in 25 to 50 mg/m2 decrements depending upon individual patient tolerance. | 125 mg/m2 intravenous infusion over 90 minutes, days 1,8,15,22 then 2-week rest |  |  |
+| --- | --- | --- | --- |
+|  | Starting Dose and Modified Dose LevelsProvided intolerable toxicity does not develop, treatment with additional cycles may be continued indefinitely as long as patients continue to experience clinical benefit. (mg/m2) |  |  |
+|  | Starting Dose | Dose Level -1 | Dose Level -2 |
+|  | 125 | 100 | 75 |
+| Regimen 2 (every 3 weeks)Subsequent doses may be adjusted as low as 200 mg/m2 in 50 mg/m2 decrements depending upon individual patient tolerance. | 350 mg/m2 intravenous infusion over 90 minutes, once every 3 weeks |  |  |
+|  | Starting Dose and Modified Dose Levels (mg/m2) |  |  |
+|  | Starting Dose | Dose Level -1 | Dose Level -2 |
+|  | 350 | 300 | 250 |
+
+Dose Modifications
+
+Based on recommended dose-levels described in Table 3, Single-Agent Regimens of CAMPTOSAR and Dose Modifications, subsequent doses should be adjusted as suggested in Table 4, Recommended Dose Modifications for Single-Agent Schedules.
+All dose modifications should be based on the worst preceding toxicity.
+
+Table 4: Recommended Dose Modifications For Single-Agent SchedulesAll dose modifications should be based on the worst preceding toxicity
+
+|  | Weekly | Weekly | Once Every 3 Weeks |
 | --- | --- | --- | --- |
 | A new cycle of therapy should not begin until the granulocyte count has recovered to ≥1500/mm3, and the platelet count has recovered to ≥100,000/mm3, and treatment-related diarrhea is fully resolved. Treatment should be delayed 1 to 2 weeks to allow for recovery from treatment-related toxicities. If the patient has not recovered after a 2-week delay, consideration should be given to discontinuing CAMPTOSAR. |  |  |  |
 | Worst Toxicity NCI GradeNational Cancer Institute Common Toxicity Criteria (version 1.0) (Value) | During a Cycle of Therapy | At the Start of the Next Cycles of Therapy (After Adequate Recovery), Compared with the Starting Dose in the Previous Cycle |  |
 | No toxicity | Maintain dose level | ↑ 25 mg/m2 up to a maximum dose of 150 mg/m2 | Maintain dose level |
 | Neutropenia |  |  |  |
-| 1 (1500 to 1999/mm3) | Maintain dose level | Maintain dose level | Maintain dose level |
-| 2 (1000 to 1499/mm3) | ↓ 25 mg/m2 | Maintain dose level | Maintain dose level |
-| 3 (500 to 999/mm3) | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
-| 4 (<500/mm3) | Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m2 | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
+| 1 (1500 to 1999/mm3) 2 (1000 to 1499/mm3) 3 (500 to 999/mm3) 4 (<500/mm3) | Maintain dose level ↓ 25 mg/m2 Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m2 | Maintain dose level Maintain dose level ↓ 25 mg/m2 ↓ 50 mg/m2 | Maintain dose level Maintain dose level ↓ 50 mg/m2 ↓ 50 mg/m2 |
 | Neutropenic fever | Omit dose until resolved, then ↓ 50 mg/m2 when resolved | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
 | Other hematologic toxicities | Dose modifications for leukopenia, thrombocytopenia, and anemia during a cycle of therapy and at the start of subsequent cycles of therapy are also based on NCI toxicity criteria and are the same as recommended for neutropenia above. |  |  |
 | Diarrhea |  |  |  |
-| 1 (2–3 stools/day > pretxPretreatment) | Maintain dose level | Maintain dose level | Maintain dose level |
-| 2 (4–6 stools/day > pretx) | ↓ 25 mg/m2 | Maintain dose level | Maintain dose level |
-| 3 (7–9 stools/day > pretx) | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
-| 4 (≥10 stools/day > pretx) | Omit dose until resolved to ≤ grade 2 then ↓ 50 mg/m2 | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
-| Other nonhematologicExcludes alopecia, anorexia, asthenia toxicities |  |  |  |
-| 1 | Maintain dose level | Maintain dose level | Maintain dose level |
-| 2 | ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
-| 3 | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
-| 4 | Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m2 | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
+| 1 (2–3 stools/day > pretxPretreatment) 2 (4–6 stools/day > pretx) 3 (7–9 stools/day > pretx) 4 (≥10 stools/day > pretx) | Maintain dose level ↓ 25 mg/m2 Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 Omit dose until resolved to ≤ grade 2 then ↓ 50 mg/m2 | Maintain dose level Maintain dose level ↓ 25 mg/m2 ↓ 50 mg/m2 | Maintain dose level Maintain dose level ↓ 50 mg/m2 ↓ 50 mg/m2 |
+| Other nonhematologicExcludes alopecia, anorexia, asthenia toxicities 1 2 3 4 | Maintain dose level ↓ 25 mg/m2 Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m2 | Maintain dose level ↓ 25 mg/m2 ↓ 25 mg/m2 ↓ 50 mg/m2 | Maintain dose level ↓ 50 mg/m2 ↓ 50 mg/m2 ↓ 50 mg/m2 |
 
-## Dosage in Patients with Reduced UGT1A1 Activity
+## 2.3 Dosage in Patients with Reduced UGT1A1 Activity
 
-When administered in combination with other agents, or as a single-agent, a reduction in the starting dose by at least one level of CAMPTOSAR should be considered for patients known to be homozygous for the UGT1A1*28 allele (see CLINICAL PHARMACOLOGY and WARNINGS).
-However, the precise dose reduction in this patient population is not known and subsequent dose modifications should be considered based on individual patient tolerance to treatment (see Tables 10–13).
+When administered in combination with other agents, or as a single-agent, a reduction in the starting dose by at least one level of CAMPTOSAR should be considered for patients known to be homozygous for the UGT1A1*28 allele [see Dosage and Administration (2.1 and 2.2) and Warnings and Precautions (5.3)].
+However, the precise dose reduction in this patient population is not known, and subsequent dose modifications should be considered based on individual patient tolerance to treatment (see Tables 1–4).
 
-## Preparation & Administration Precautions
+## 2.4 Premedication
 
-As with other potentially toxic anticancer agents, care should be exercised in the handling and preparation of infusion solutions prepared from CAMPTOSAR Injection.
-The use of gloves is recommended.
-If a solution of CAMPTOSAR contacts the skin, wash the skin immediately and thoroughly with soap and water.
-If CAMPTOSAR contacts the mucous membranes, flush thoroughly with water.
+It is recommended that patients receive premedication with antiemetic agents.
+In clinical studies of the weekly dosage schedule, the majority of patients received 10 mg of dexamethasone given in conjunction with another type of antiemetic agent, such as a 5-HT3 blocker (e.g., ondansetron or granisetron).
+Antiemetic agents should be given on the day of treatment, starting at least 30 minutes before administration of CAMPTOSAR.
+Physicians should also consider providing patients with an antiemetic regimen (e.g., prochlorperazine) for subsequent use as needed.
+A similar antiemetic regimen should be used with Camptosar in combination therapy.
 
-Several published guidelines for handling and disposal of anticancer agents are available.1–4
+Prophylactic or therapeutic administration of atropine should be considered in patients experiencing cholinergic symptoms.
 
-## Preparation of Infusion Solution
+## 2.5 Preparation of Infusion Solution
 
-Inspect vial contents for particulate matter and repeat inspection when drug product is withdrawn from vial into syringe.
+Inspect vial contents for particulate matter and discoloration and repeat inspection when drug product is withdrawn from vial into syringe.
 
 CAMPTOSAR Injection 20 mg/mL is intended for single use only and any unused portion should be discarded.
 
 CAMPTOSAR Injection must be diluted prior to infusion.
-CAMPTOSAR should be diluted in 5% Dextrose Injection, USP, (preferred) or 0.9% Sodium Chloride Injection, USP, to a final concentration range of 0.12 to 2.8 mg/mL.
-In most clinical trials, CAMPTOSAR was administered in 250 mL to 500 mL of 5% Dextrose Injection, USP.
+CAMPTOSAR should be diluted in 5% Dextrose Injection, USP, (preferred) or 0.9% Sodium Chloride Injection, USP, to a final concentration range of 0.12 mg/mL to 2.8 mg/mL.
+Other drugs should not be added to the infusion solution.
 
 The solution is physically and chemically stable for up to 24 hours at room temperature and in ambient fluorescent lighting.
 Solutions diluted in 5% Dextrose Injection, USP, and stored at refrigerated temperatures (approximately 2° to 8°C, 36° to 46°F), and protected from light are physically and chemically stable for 48 hours.
@@ -168,8 +121,18 @@ Freezing CAMPTOSAR and admixtures of CAMPTOSAR may result in precipitation of th
 
 The CAMPTOSAR Injection solution should be used immediately after reconstitution as it contains no antibacterial preservative.
 Because of possible microbial contamination during dilution, it is advisable to use the admixture prepared with 5% Dextrose Injection, USP, within 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
-In the case of admixtures prepared with 5% Dextrose Injection, USP, or Sodium Chloride Injection, USP, the solutions should be used within 6 hours if kept at room temperature.
-If reconstitution and dilution are performed under strict aseptic conditions (e.g. on Laminar Air Flow bench) CAMPTOSAR Injection solution should be used (infusion completed) within 12 hours at room temperature or 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
+In the case of admixtures prepared with 5% Dextrose Injection, USP, or Sodium Chloride Injection, USP, the solutions should be used within 4 hours if kept at room temperature.
+If reconstitution and dilution are performed under strict aseptic conditions (e.g. on Laminar Air Flow bench), CAMPTOSAR Injection solution should be used (infusion completed) within 12 hours at room temperature or 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
 
-Other drugs should not be added to the infusion solution.
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+## 2.6 Safe Handling
+
+Care should be exercised in the handling and preparation of infusion solutions prepared from CAMPTOSAR Injection.
+The use of gloves is recommended.
+If a solution of CAMPTOSAR contacts the skin, wash the skin immediately and thoroughly with soap and water.
+If CAMPTOSAR contacts the mucous membranes, flush thoroughly with water.
+Several published guidelines for handling and disposal of anticancer agents are available.
+
+## 2.7 Extravasation
+
+Care should be taken to avoid extravasation, and the infusion site should be monitored for signs of inflammation.
+Should extravasation occur, flushing the site with sterile water and applications of ice are recommended.
