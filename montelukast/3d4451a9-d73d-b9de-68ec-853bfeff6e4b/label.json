@@ -1,0 +1,40 @@
+{
+  "application_numbers": [
+    "ANDA201581",
+    "ANDA201582"
+  ],
+  "inn": "montelukast",
+  "labeler": "Dr.Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-593-05",
+    "55111-593-30",
+    "55111-593-78",
+    "55111-593-79",
+    "55111-593-90",
+    "55111-594-05",
+    "55111-594-30",
+    "55111-594-78",
+    "55111-594-79",
+    "55111-594-90",
+    "55111-725-01",
+    "55111-725-10",
+    "55111-725-30",
+    "55111-725-78",
+    "55111-725-79",
+    "55111-725-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, CHEWABLE",
+      "generic": "montelukast sodium",
+      "name": "Montelukast Sodium"
+    },
+    {
+      "form": "TABLET, COATED",
+      "generic": "montelukast sodium",
+      "name": "Montelukast Sodium"
+    }
+  ],
+  "setid": "3d4451a9-d73d-b9de-68ec-853bfeff6e4b",
+  "source": "dailymed"
+}
