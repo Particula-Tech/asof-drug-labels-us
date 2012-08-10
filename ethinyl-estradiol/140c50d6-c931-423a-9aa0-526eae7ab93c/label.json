@@ -1,6 +1,5 @@
 {
   "application_numbers": [
-    "ANDA072692",
     "ANDA072693",
     "ANDA072695",
     "ANDA072696"
@@ -8,8 +7,6 @@
   "inn": "ethinyl-estradiol",
   "labeler": "Barr Laboratories Inc.",
   "package_ndcs": [
-    "0555-9007-42",
-    "0555-9007-57",
     "0555-9008-58",
     "0555-9008-67",
     "0555-9009-42",

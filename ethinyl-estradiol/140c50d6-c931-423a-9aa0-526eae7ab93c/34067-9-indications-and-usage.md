@@ -1,10 +1,10 @@
-# INDICATIONS AND USAGE:
+# INDICATIONS AND USAGE
 
-Nortrel® 1/35 (21) Tablets and (28) Tablets, Nortrel® 0.5/35 (21) Tablets and (28) Tablets are indicated for the prevention of pregnancy in women who elect to use this product as a method of contraception.
+Nortrel® 1/35 (21) Tablets and (28) Tablets, Nortrel® 0.5/35 (28) Tablets are indicated for the prevention of pregnancy in women who elect to use this product as a method of contraception.
 
 Oral contraceptives are highly effective.
 Table I lists the typical accidental pregnancy rates for users of combination oral contraceptives and other methods of contraception.
-The efficacy of these contraceptive methods, except sterilization, depends upon the reliability with which they are used.
+The efficacy of these contraceptive methods, except sterilization, the IUD, and the NORPLANT System depends upon the reliability with which they are used.
 Correct and consistent use of methods can result in lower failure rates.
 
 TABLE I: PERCENTAGE OF WOMEN EXPERIENCING AN UNINTENDED PREGNANCY DURING THE FIRST YEAR OF TYPICAL USE AND THE FIRST YEAR OF PERFECT USE OF CONTRACEPTION AND THE PERCENTAGE CONTINUING USE AT THE END OF THE FIRST YEAR.
@@ -20,7 +20,6 @@ UNITED STATES
 | Ovulation Method |  | 3 |  |
 | Sympto-Thermal Cervical mucus (ovulation) method supplemented by calendar in the pre-ovulatory and basal body temperature in the post-ovulatory phases. |  | 2 |  |
 | Post-Ovulation |  | 1 |  |
-| Withdrawal | 19 | 4 |  |
 | Cap With spermicidal cream or jelly. |  |  |  |
 | Parous Women | 40 | 26 | 42 |
 | Nulliparous Women | 20 | 9 | 56 |
@@ -28,6 +27,7 @@ UNITED STATES
 | Parous Women | 40 | 20 | 42 |
 | Nulliparous Women | 20 | 9 | 56 |
 | Diaphragm | 20 | 6 | 56 |
+| Withdrawal | 19 | 4 |  |
 | Condom Without spermicides |  |  |  |
 | Female (Reality) | 21 | 5 | 56 |
 | Male | 14 | 3 | 61 |
@@ -35,11 +35,13 @@ UNITED STATES
 | Progestin Only |  | 0.5 |  |
 | Combined |  | 0.1 |  |
 | IUD |  |  |  |
-| Progesterone T | 2.0 | 1.5 | 81 |
+| Progesterone T | 2 | 1.5 | 81 |
 | Copper T380A | 0.8 | 0.6 | 78 |
 | LNg 20 | 0.1 | 0.1 | 81 |
 | Depo-Provera | 0.3 | 0.3 | 70 |
 | Norplant and Norplant-2 | 0.05 | 0.05 | 88 |
 | Female Sterilization | 0.5 | 0.5 | 100 |
-| Male Sterilization | 0.15 | 0.10 | 100 |
-| Adapted from Hatcher et al., 1998 Ref. #1. |  |  |  |
+| Male Sterilization | 0.15 | 0.1 | 100 |
+| Adapted from Hatcher et al., 1998 Ref. #1.Emergency Contraceptive Pills: Treatment initiated within 72 hours after unprotected intercourse reduces the risk of pregnancy by at least 75%.The treatment schedule is one dose within 72 hours after unprotected intercourse, and a second dose 12 hours after the first dose. The Food and Drug Administration has declared the following brands of oral contraceptives to be safe and effective for emergency contraception: Ovral® (1 dose is 2 white pills), Alesse® (1 dose is 5 pink pills), Nordette® or Levlen® (1 dose is 2 light-orange pills), Lo/Ovral® (1 dose is 4 white pills), Triphasil® or Tri-Levlen® (1 dose is 4 yellow pills).Lactational Amenorrhea Method: LAM is highly effective, temporary method of contraception. However, to maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breastfeeds is reduced, bottle feeds are introduced, or the baby reaches six months of age.Source: Trussell J, Contraceptive efficacy. In Hatcher RA, Trussell J, Stewart F, CatesW, Stewart GK, Kowal D, Guest F, Contraceptive Technology: Seventeenth Revised Edition. New York NY: Irvington Publishers, 1998. |  |  |  |
+
+Nortrel® 0.5/35 and 1/35have not been studied for and are not indicated for use in emergency contraception.

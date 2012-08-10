@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS:
+# ADVERSE REACTIONS
 
 An increased risk of the following serious adverse reactions has been associated with the use of oral contraceptives (see WARNINGSsection).
 
@@ -11,6 +11,11 @@ An increased risk of the following serious adverse reactions has been associated
 - Hypertension
 - Gallbladder disease
 - Hepatic adenomas or benign liver tumors
+
+There is evidence of an association between the following conditions and the use of oral contraceptives:
+
+- Mesenteric thrombosis
+- Retinal thrombosis
 
 The following adverse reactions have been reported in patients receiving oral contraceptives and are believed to be drug-related:
 
@@ -30,14 +35,14 @@ The following adverse reactions have been reported in patients receiving oral co
 - Diminution in lactation when given immediately postpartum
 - Cholestatic jaundice
 - Migraine
-- Rash (allergic)
+- Allergic reaction, including rash, urticaria, angioedema
 - Mental depression
 - Reduced tolerance to carbohydrates
 - Vaginal candidiasis
 - Change in corneal curvature (steepening)
 - Intolerance to contact lenses
 
-The following adverse reactions have been reported in users of oral contraceptives and the association has been neither confirmed nor refuted:
+The following adverse reactions have been reported in users of oral contraceptives and a causal association has been neither confirmed nor refuted:
 
 - Pre-menstrual syndrome
 - Cataracts

@@ -1,4 +1,4 @@
-# REFERENCES:
+# REFERENCES
 
 1. Trussel J. Contraceptive efficacy.
    In Hatcher RA, Trussel J, Stewart F, Cates W, Stewart GK, Kowal D, Guest F, Contraceptive Technology: Seventeenth Revised Edition.
@@ -100,8 +100,8 @@
     Br Med J 1986; 293:723-725.
 39. Miller DR, Rosenberg L, Kaufman DW, Schottenfeld D, Stolley PD, Shapiro S. Breast cancer risk in relation to early oral contraceptive use.
     Obstet Gynecol 1986; 68:863-868.
-40. Olson H, Olson KL, Moller TR, Ranstam J, Holm P. Oral contraceptive use and breast cancer in young women in Sweden (letter).
-    Lancet 1985; 2:748-749.
+40. Olsson H, Olsson ML, Moller TR, Ranstam J, Holm P. Oral contraceptive use and breast cancer in young women in Sweden (letter).
+    Lancet 1985; 1 (8431): 748-749.
 41. McPherson K, Vessey M, Neil A, Doll R, Jones L, Roberts M. Early contraceptive use and breast cancer: Results of another case-control study.
     Br J Cancer 1987; 56:653-660.
 42. Huggins GR, Zucker PF.
@@ -190,7 +190,7 @@
 75. Ory HW.
     Functional ovarian cysts and oral contraceptives: negative association confirmed surgically.
     JAMA 1974; 228:68-69.
-76. Ory WH, Cole P, MacMahon B, Hoover R. Oral contraceptives and reduced risk of benign breast disease.
+76. Ory HW, Cole P, MacMahon B, Hoover R. Oral contraceptives and reduced risk of benign breast disease.
     N Engl J Med 1976; 294:419-422.
 77. Ory HW.
     The noncontraceptive health benefits from oral contraceptive use.
@@ -201,7 +201,7 @@
     JAMA 1988; 259:1828-1833.
 80. Hennekens CH, Speizer FE, Lipnick RJ, Rosner B, Bain C, Belanger C, Stampfer MJ, Willett W, Peto R. A case-control study of oral contraceptive use and breast cancer.
     JNCI 1984; 72:39-42.
-81. LaVecchia C, DeCarli A, Fasoli M, Francheschi S, Gentile A, Negri E, Parazzini F, Tognoni G. Oral contraceptives and cancers of the breast and of the female genital tract.
+81. LaVecchia C, Decarli A, Fasoli M, Franceschi S, Gentile A, Negri E, Parazzini F, Tognoni G. Oral contraceptives and cancers of the breast and of the female genital tract.
     Interim results from a case-control study.
     Br J Cancer 1986; 54:311-317.
 82. Meirik O, Lund E, Adami H, Bergstrom R, Christoffersen T, Bergsjo P. Oral contraceptive use and breast cancer in young women.
@@ -228,3 +228,11 @@
     Lancet 1996; 347:1713-1727.
 91. Palmer JR, Rosenberg L, Kaufman DW, Warshauer ME, Stolley P, Shapiro S. Oral contraceptive Use and Liver Cancer.
     Am J Epidemiol 1989; 130:878-882.
+92. Improving access to quality care in family planning: Medical eligibility criteria for contraceptive use.
+    Geneva, WHO, Family and Reproductive Health, 1996.
+93. Bork K, Fischer B, DeWald G. Recurrent episodes of skin angioedema and severe attacks of abdominal pain induced by oral contraceptives or hormone replacement therapy.
+    Am J Med 2003;114:294-298.
+94. Van Giersbergen PLM, Halabi A, Dingemanse J. Pharmacokinetic interaction between bosentan and the oral contraceptives norethisterone and ethinyl estradiol.
+    Int J Clin Pharmacol Ther 2006;44(3):113-118.
+95. Christensen J, Petrenaite V, Atterman J, et al. Oral contraceptives induce lamotrigine metabolism: evidence from a double-blind, placebo-controlled trial.
+    Epilepsia 2007;48(3):484-489.
