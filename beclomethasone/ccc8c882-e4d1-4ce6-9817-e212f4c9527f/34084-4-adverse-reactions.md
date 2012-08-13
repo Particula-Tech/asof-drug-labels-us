@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The following reporting rates of common adverse experiences are based upon four clinical trials in which 1196 Patients (671 female and 525 male adults previously treated with as-needed bronchodilators and/or inhaled corticosteroids) were treated with QVAR (doses of 40, 80, 160, or 320 mcg twice daily) or CFC-BDP (doses of 42, 168, or 336 mcg twice daily) or placebo.
+The following reporting rates of common adverse experiences are based upon 4 clinical trials in which 1196 Patients (671 female and 525 male adults previously treated with as-needed bronchodilators and/or inhaled corticosteroids) were treated with QVAR (doses of 40, 80, 160, or 320 mcg twice daily) or CFC-BDP (doses of 42, 168, or 336 mcg twice daily) or placebo.
 The table below includes all events reported by patients taking QVAR (whether considered drug related or not) that occurred at a rate over 3% for either QVAR or CFC-BDP.
 In considering these data, difference in average duration of exposure and clinical trial design should be taken into account.
 
@@ -24,13 +24,15 @@ Adverse Events Reported by at Least 3% of the Patients for Either QVAR or CFC-BD
 Other adverse events that occurred in these clinical trials using QVAR with an incidence of 1% to 3% and which occurred at a greater incidence than placebo were: dysphonia, dysmenorrhea and coughing.
 
 No patients treated with QVAR in the clinical development program developed symptomatic oropharyngeal candidiasis.
-
 If such an infection develops, treatment with appropriate antifungal therapy or discontinuance of treatment with QVAR may be required.
 
 ## Pediatric Studies
 
-In two 12-week placebo controlled studies in steroid naive pediatric patients 5 to 12 years of age, no clinically relevant differences were found in the pattern, severity, or frequency of adverse events compared with those reported in adults, with the exception of conditions which are more prevalent in a pediatric population generally.
+In two 12-week placebo-controlled studies in steroid naive pediatric patients 5 to 12 years of age, no clinically relevant differences were found in the pattern, severity, or frequency of adverse events compared with those reported in adults, with the exception of conditions which are more prevalent in a pediatric population generally.
 
 ## Adverse Event Reports from Other Sources
 
 Rare cases of immediate and delayed hypersensitivity reactions, including urticaria, angioedema, rash, and bronchospasm, have been reported following the oral and intranasal inhalation of beclomethasone dipropionate.
+
+During postmarketing experience, psychiatric events and behavioral changes such as aggression, depression, sleep disorders, psychomotor hyperactivity, and suicidal ideation have been reported (primarily in children).
+Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

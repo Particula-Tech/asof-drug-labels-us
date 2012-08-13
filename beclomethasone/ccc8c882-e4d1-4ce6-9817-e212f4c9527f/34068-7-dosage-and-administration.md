@@ -3,13 +3,13 @@
 Patients should prime QVAR by actuating into the air twice before using for the first time or if QVAR has not been used for over ten days.
 Avoid spraying in the eyes or face when priming QVAR.
 QVAR is a solution aerosol, which does not require shaking.
-Consistent dose delivery is achieved, whether using the 40 or 80 mcg strengths, due to proportionality of the two products (i.e., two actuations of 40 mcg strength should provide a dose comparable to one actuation of the 80 mcg strength).
+Consistent dose delivery is achieved, whether using the 40 or 80 mcg strengths, due to proportionality of the 2 products (i.e., 2 actuations of 40 mcg strength should provide a dose comparable to 1 actuation of the 80 mcg strength).
 
 QVAR should be administered by the oral inhaled route in patients 5 years of age and older.
 Use of QVAR with a spacer device in children less than 5 years of age is not recommended (see PRECAUTIONS, Pediatric Use).
 The onset and degree of symptom relief will vary in individual patients.
-Improvement in asthma symptoms should be expected within the first or second week of starting treatment, but maximum benefit should not be expected until 3-4 weeks of therapy.
-For patients who do not respond adequately to the starting dose after 3-4 weeks of therapy, higher doses may provide additional asthma control.
+Improvement in asthma symptoms should be expected within the first or second week of starting treatment, but maximum benefit should not be expected until 3 to 4 weeks of therapy.
+For patients who do not respond adequately to the starting dose after 3 to 4 weeks of therapy, higher doses may provide additional asthma control.
 The safety and efficacy of QVAR when administered in excess of recommended doses has not been established.
 
 Table 2: Recommended Dosing for Adults and Adolescents

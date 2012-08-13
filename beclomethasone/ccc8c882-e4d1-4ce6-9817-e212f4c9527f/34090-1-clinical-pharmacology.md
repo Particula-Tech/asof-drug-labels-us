@@ -18,14 +18,14 @@ The pharmacokinetics of 17-BMP has been studied in asthmatics given single doses
 
 ### Absorption
 
-The mean peak plasma concentration (Cmax) of BDP was 88 pg/ml at 0.5 hour after inhalation of 320 mcg using QVAR (four actuations of the 80 mcg/actuation strength).
+The mean peak plasma concentration (Cmax) of BDP was 88 pg/ml at 0.5 hour after inhalation of 320 mcg using QVAR (4 actuations of the 80 mcg/actuation strength).
 The mean peak plasma concentration of the major and most active metabolite, 17-BMP, was 1419 pg/ml at 0.7 hour after inhalation of 320 mcg of QVAR.
 When the same nominal dose is provided by the two QVAR strengths (40 and 80 mcg/actuation), equivalent systemic pharmacokinetics can be expected.
 The Cmax of 17-BMP increased dose proportionally in the dose range of 80 and 320 mcg.
 
 ### Metabolism
 
-Three major metabolites are formed via cytochrome P450 3A catalyzed biotransformation - beclomethasone-17-monopropionate (17-BMP), beclomethasone-21-monopropionate (21-BMP) and beclomethasone (BOH).
+Three major metabolites are formed via cytochrome P450-3A catalyzed biotransformation - beclomethasone-17-monopropionate (17-BMP), beclomethasone-21-monopropionate (21-BMP) and beclomethasone (BOH).
 Lung slices metabolize BDP rapidly to 17-BMP and more slowly to BOH.
 17-BMP is the most active metabolite.
 
@@ -57,10 +57,10 @@ This implies that approximately twice the systemic exposure to 17-BMP would be e
 ## Pharmacodynamics
 
 Improvement in asthma control following inhalation can occur within 24 hours of beginning treatment in some patients, although maximum benefit may not be achieved for 1 to 2 weeks, or longer.
-The effects of QVAR on the hypothalamic-pituitary-adrenal (HPA) axis were studied in 40 corticosteroid naive patients.
+The effects of QVAR on the hypothalamic-pituitary-adrenal (HPA) axis were studied in 40 corticosteroid-naive patients.
 QVAR, at doses of 80, 160 or 320 mcg twice daily was compared with placebo and 336 mcg twice daily of beclomethasone dipropionate in a CFC propellant based formulation (CFC-BDP).
-Active treatment groups showed an expected dose-related reduction in 24-hour urinary free cortisol (a sensitive marker of adrenal production of cortisol).
-Patients treated with the highest recommended dose of QVAR (320 mcg twice daily) had a 37.3% reduction in 24-hour urinary free cortisol compared to a reduction of 47.3% produced by treatment with 336 mcg twice daily of CFC-BDP.
-There was a 12.2% reduction in 24 hour urinary free cortisol seen in the group of patients that received 80 mcg twice daily of QVAR and a 24.6% reduction in the group of patients that received 160 mcg twice daily.
+Active treatment groups showed an expected dose-related reduction in 24-hour urinary-free cortisol (a sensitive marker of adrenal production of cortisol).
+Patients treated with the highest recommended dose of QVAR (320 mcg twice daily) had a 37.3% reduction in 24-hour urinary-free cortisol compared to a reduction of 47.3% produced by treatment with 336 mcg twice daily of CFC-BDP.
+There was a 12.2% reduction in 24-hour urinary-free cortisol seen in the group of patients that received 80 mcg twice daily of QVAR and a 24.6% reduction in the group of patients that received 160 mcg twice daily.
 An open label study of 354 asthma patients given QVAR at recommended doses for one year assessed the effect of QVAR treatment on the HPA axis (as measured by both morning and stimulated plasma cortisol).
 Less than 1% of patients treated for one year with QVAR had an abnormal response (peak less than 18 mcg/dL) to short-cosyntropin test.

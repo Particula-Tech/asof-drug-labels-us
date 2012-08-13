@@ -16,8 +16,8 @@ Remove the plastic cap (see Figure 1) and be sure there are no foreign objects i
 Figure 1
 
 2.
-As with all aerosol medications, it is recommended to prime the QVAR inhaler before using for the very first time after purchase, and in cases where the inhaler has not been used for more than ten days.
-Prime by releasing two actuations into the air, away from your eyes and face.
+As with all aerosol medications, it is recommended to prime the QVAR inhaler before using for the very first time after purchase, and in cases where the inhaler has not been used for more than 10 days.
+Prime by releasing 2 actuations into the air, away from your eyes and face.
 Be sure the canister is firmly seated in the plastic mouthpiece adapter before each use.
 
 3.
@@ -29,7 +29,7 @@ Figure 2
 
 4.
 WHILE BREATHING IN DEEPLY AND SLOWLY, PRESS DOWN ON THE CAN WITH YOUR FINGER.
-When you have finished breathing in, hold your breath as long as you comfortably can (i.e., 5 - 10 seconds).
+When you have finished breathing in, hold your breath as long as you comfortably can (i.e., 5 to 10 seconds).
 
 5.
 TAKE YOUR FINGER OFF THE CAN and remove the inhaler from your mouth.
@@ -54,7 +54,7 @@ Before the discard date you should consult your physician to determine whether a
 It is advisable to keep track of the number of doses taken from the canister to better predict when a refill is necessary.
 Just as you should not take extra doses without consulting your physician, you also should not stop taking QVAR without consulting your physician.
 
-IMPORTANT QVAR is preventive therapy for asthma and must be used regularly and at the times your physician has prescribed.
+IMPORTANT: QVAR is preventive therapy for asthma and must be used regularly and at the times your physician has prescribed.
 
 DO NOT CONFUSE QVAR WITH OTHER ASTHMA MEDICATION.
 QVAR WILL NOT PROVIDE IMMEDIATE RELIEF IF YOU ARE HAVING AN ASTHMA ATTACK.
@@ -86,10 +86,19 @@ Store QVAR Inhalation Aerosol when not being used, so that the product rests on 
 
 Mktd by: Teva Respiratory, LLC Horsham, PA 19044
 
-| Developed and Manufactured by: 3M Drug Delivery Systems Northridge, CA 91324 | OR | 3M Health Care, Ltd. Loughborough, UK |
-| --- | --- | --- |
+Developed and Manufactured by:
 
-© 2012 Teva Respiratory, LLC QVAR® is a registered trademark of IVAX LLC, a member of the TEVA Group.
+3M Drug Delivery Systems
 
-656800 Rev.
-05/12
+Northridge, CA 91324
+
+OR
+
+3M Health Care, Ltd.
+
+Loughborough, UK
+
+© 2012 Teva Respiratory, LLC QVAR is a registered trademark of IVAX LLC, a member of the TEVA Group.
+
+657100 Rev.
+07/12

@@ -25,7 +25,7 @@ If chickenpox develops, treatment with antiviral agents may be considered.
 QVAR is not a bronchodilator and is not indicated for rapid relief of bronchospasm.
 
 As with other inhaled asthma medications, bronchospasm, with an immediate increase in wheezing, may occur after dosing.
-If bronchospasm occurs following dosing with QVAR, it should be treated immediately with a short acting inhaled bronchodilator.
+If bronchospasm occurs following dosing with QVAR, it should be treated immediately with a short-acting inhaled bronchodilator.
 Treatment with QVAR should be discontinued and alternate therapy instituted.
 Patients should be instructed to contact their physician immediately when episodes of asthma, which are not responsive to bronchodilators, occur during the course of treatment with QVAR.
 During such episodes, patients may require therapy with oral corticosteroids.
@@ -35,8 +35,8 @@ During such episodes, patients may require therapy with oral corticosteroids.
 ## General
 
 During withdrawal from oral corticosteroids, some patients may experience symptoms of systemically active corticosteroid withdrawal, e.g., joint and/or muscular pain, lassitude and depression, despite maintenance or even improvement of respiratory function.
-Although suppression of HPA function below the clinical normal range did not occur with doses of QVAR up to and including 640 mcg/day, a dose dependent reduction of adrenal cortisol production was observed.
-Since inhaled beclomethasone dipropionate is absorbed into the circulation and can be systemically active, HPA axis suppression by QVAR could occur when recommended doses are exceeded or in particularly sensitive individuals.
+Although suppression of HPA function below the clinical normal range did not occur with doses of QVAR up to and including 640 mcg/day, a dose-dependent reduction of adrenal cortisol production was observed.
+Since inhaled beclomethasone dipropionate is absorbed into the circulation and can be systemically active, HPA-axis suppression by QVAR could occur when recommended doses are exceeded or in particularly sensitive individuals.
 Since individual sensitivity to effects on cortisol production exist, physicians should consider this information when prescribing QVAR.
 Because of the possibility of systemic absorption of inhaled corticosteroids, patients treated with these drugs should be observed carefully for any evidence of systemic corticosteroid effect.
 Particular care should be taken in observing patients postoperatively or during periods of stress for evidence of inadequate adrenal response.
@@ -44,8 +44,8 @@ Particular care should be taken in observing patients postoperatively or during 
 It is possible that systemic corticosteroid effects, such as hypercorticism and adrenal suppression, may appear in a small number of patients, particularly at higher doses.
 If such changes occur, QVAR should be reduced slowly, consistent with accepted procedures for management of asthma symptoms and for tapering of systemic steroids.
 
-A 12 month randomized controlled clinical trial evaluated the effects of HFA beclomethasone dipropionate without spacer versus CFC beclomethasone dipropionate with large volume spacer on growth in children age 5-11.
-A total of 520 patients were enrolled, of whom 394 received HFA-BDP (100 – 400 mcg/day ex-valve) and 126 received CFC-BDP (200 – 800 mcg/day ex-valve).
+A 12-month, randomized, controlled clinical trial evaluated the effects of HFA beclomethasone dipropionate without spacer versus CFC beclomethasone dipropionate with large volume spacer on growth in children age 5 to 11.
+A total of 520 patients were enrolled, of whom 394 received HFA-BDP (100 to 400 mcg/day ex-valve) and 126 received CFC-BDP (200 to 800 mcg/day ex-valve).
 Similar control of asthma was noted in each treatment arm.
 When comparing results at month 12 to baseline, the mean growth velocity in children treated with HFA-BDP was approximately 0.5 cm/year less than that noted with children treated with CFC-BDP via large volume spacer.
 
@@ -105,7 +105,7 @@ No inhibition of the estrous cycle in dogs was seen following 12 months of expos
 Like other corticosteroids, parenteral (subcutaneous) beclomethasone dipropionate was teratogenic and embryocidal in the mouse and rabbit when given at a dose of 0.1 mg/kg/day in mice or at a dose of 0.025 mg/kg/day in rabbits.
 These doses in mice and rabbits were approximately one-half the maximum recommended daily inhalation dose in adults on a mg/m2 basis.
 No teratogenicity or embryocidal effects were seen in rats when exposed to an inhalation dose of 15 mg/kg/day (approximately 190 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis).
-There are no adequate and well controlled studies in pregnant women.
+There are no adequate and well-controlled studies in pregnant women.
 Beclomethasone dipropionate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ### Non-teratogenic Effects

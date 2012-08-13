@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-QVAR is supplied in two strengths:
+QVAR is supplied in 2 strengths:
 
 - QVAR 40 mcg is supplied either in a 7.3 g canister containing 100 actuations with a beige plastic actuator and gray dust cap, and Patient's Instructions; box of one; 100 Actuations – NDC 59310-175-40 or in an 8.7 g canister containing 120 actuations with a beige plastic actuator and gray dust cap, and Patient's Instructions; box of one; 120 Actuations – NDC 59310-202-40
 - QVAR 80 mcg is supplied either in a 4.2 g canister, for Institutional Use, containing 50 actuations with a dark mauve plastic actuator and a gray dust cap, and Patient's Instructions; box of one; 50 Actuations – NDC 59310-204-50, a 7.3 g canister containing 100 actuations with a dark mauve plastic actuator and gray dust cap, and Patient's Instructions; box of one; 100 Actuations – NDC 59310-177-80 or in an 8.7 g canister containing 120 actuations with a dark mauve plastic actuator and gray dust cap, and Patient's Instructions; box of one; 120 Actuations – NDC 59310-204-80
@@ -24,3 +24,27 @@ Exposure to temperatures above 49°C (120°F) may cause bursting.
 Never throw container into fire or incinerator.
 
 Keep out of reach of children.
+
+Rx only
+
+Mktd by: Teva Respiratory, LLC– Horsham, PA 19044
+
+Developed and Manufactured by:
+
+3M Drug Delivery Systems
+
+Northridge, CA 91324
+
+OR
+
+3M Health Care, Ltd.
+
+Loughborough, UK
+
+July 2012
+
+© 2012 Teva Respiratory, LLC 657100 QVAR is a registered trademark of IVAX LLC, a member of the TEVA Group.
+Rev.
+07/12
+
+OptiChamber is a registered trademark of Respironics Healthscan, Inc. and AeroChamber Plus is a registered trademark of Trudell Medical International Trudell Partnership Holdings Limited and Packard Medical Supply Centre Ltd.
