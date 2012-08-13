@@ -212,8 +212,4 @@ Inactive ingredients: calcium carbonate, croscarmellose sodium, microcrystalline
 
 Film coating: Opadry® II White 85F28751 (polyvinyl alcohol, titanium dioxide, PEG 3000 and talc) or Opadry® II Blue 85F10919 (polyvinyl alcohol, titanium dioxide, PEG 3000, talc, and FD&C blue #2)
 
-Rx only
-
-Manufactured by Pfizer Ireland Pharmaceuticals Dublin, Ireland
-
-LAB-0347-3.0 July 2009
+LAB-0347- 5.0 January 2012
