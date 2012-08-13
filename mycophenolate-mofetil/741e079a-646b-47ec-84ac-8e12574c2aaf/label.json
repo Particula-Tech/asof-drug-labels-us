@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA090253"
+  ],
+  "inn": "mycophenolate-mofetil",
+  "labeler": "Accord Healthcare Inc",
+  "package_ndcs": [
+    "16729-019-01",
+    "16729-019-16",
+    "16729-094-01",
+    "16729-094-16",
+    "16729-094-29"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "mycophenolate mofetil",
+      "name": "Mycophenolate Mofetil"
+    },
+    {
+      "form": "CAPSULE, GELATIN COATED",
+      "generic": "mycophenolate mofetil",
+      "name": "Mycophenolate Mofetil"
+    }
+  ],
+  "setid": "741e079a-646b-47ec-84ac-8e12574c2aaf",
+  "source": "dailymed"
+}
