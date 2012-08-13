@@ -173,7 +173,6 @@ Drugs That May Potentiate Renal Dysfunction
 Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein.
 Various agents are known to either increase or decrease plasma or whole blood of cyclosporine levels usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
 Compounds that decrease cyclosporine absorption such as orlistat should be avoided.
-Cyclosporine is extensively metabolized by cytochrome P-450 3A..
 Monitoring of circulating cyclosporine concentrations and appropriate Sandimmune® (cyclosporine) dosage adjustment are essential when these drugs are used concomitantly.
 (See Blood Level Monitoring.)
 
