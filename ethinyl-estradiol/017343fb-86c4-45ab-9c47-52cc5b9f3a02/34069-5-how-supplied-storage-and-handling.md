@@ -8,8 +8,8 @@ The ring should be replaced in this reclosable sachet after use for convenient d
 
 ## Storage
 
-Prior to dispensing to the user, store refrigerated 2°–8°C (36°–46°F).
-After dispensing to the user, NuvaRing® can be stored for up to 4 months at 25°C (77°F); excursions permitted to 15°–30°C (59°–86°F) [see USP Controlled Room Temperature].
+Prior to dispensing to the user, store refrigerated 2–8°C (36–46°F).
+After dispensing to the user, NuvaRing® can be stored for up to 4 months at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
 Avoid storing NuvaRing® in direct sunlight or at temperatures above 30°C (86°F).
 For the Dispenser: When NuvaRing® is dispensed to the user, place an expiration date on the label.
 The date should not exceed either 4 months from the date of dispensing or the expiration date, whichever comes first.

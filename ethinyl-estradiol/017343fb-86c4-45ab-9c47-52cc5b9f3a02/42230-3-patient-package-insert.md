@@ -14,7 +14,7 @@ What is NuvaRing®?
 
 NuvaRing® (NEW-vah-ring) is a flexible combined contraceptive vaginal ring.
 It is used to prevent pregnancy.
-It does not protect against HIV infection (AIDS) and other sexually transmitted diseases (STD's) such as chlamydia, genital herpes, genital warts, gonorrhea, hepatitis B, and syphilis.
+It does not protect against HIV infection (AIDS) and other sexually transmitted diseases (STDs) such as chlamydia, genital herpes, genital warts, gonorrhea, hepatitis B, and syphilis.
 
 NuvaRing® contains a combination of a progestin and estrogen, two kinds of female hormones.
 You insert the ring in your vagina and leave it there for three weeks.
@@ -56,7 +56,7 @@ Talk with your healthcare provider about using NuvaRing® if you:
 - smoke
 - recently had a baby
 - recently had a miscarriage or abortion
-- are breast-feeding
+- are breastfeeding
 - are taking other medications
 
 In addition, talk to your healthcare provider about using NuvaRing® if you have any of the following conditions.
@@ -234,7 +234,7 @@ Cigarette smoking increases the risk of serious cardiovascular side effects when
 This risk increases even more if you are over age 35 and if you smoke 15 or more cigarettes a day.
 Women who use combination hormonal contraceptives, like NuvaRing®, are strongly advised not to smoke.
 
-Do not breast-feed while using NuvaRing®.
+Do not breastfeed while using NuvaRing®.
 Some of the medicine may pass through the milk to the baby and could cause yellowing of the skin (jaundice) and breast enlargement in your baby.
 NuvaRing® could also decrease the amount and quality of your breast milk.
 
@@ -247,9 +247,9 @@ The blood levels of these hormones were not changed when women used vaginal, wat
 
 Certain drugs and herbal supplements may interact with combined hormonal contraceptives to make them less effective in preventing pregnancy or cause an increase in breakthrough bleeding.
 Such drugs include rifampin, drugs used for epilepsy such as barbiturates (for example, phenobarbital), carbamazepine, and phenytoin, primidone, topiramate, phenylbutazone, modafinil, and some drugs used for HIV such as ritonavir.
-Pregnancies and breakthrough bleeding have been reported by users of combined hormonal contraceptives who also used the herbal supplement St. John's Wort.
-You may need to use a non-hormonal method of contraception during any cycle in which you take drugs that can make oral contraceptives less effective.
-Be sure to tell your healthcare provider if you are taking or start taking any other medications, including non-prescription products or herbal products while using NuvaRing®.
+Pregnancies and breakthrough bleeding have been reported by users of combined hormonal contraceptives who also used the herbal supplement St. John's wort.
+You may need to use a nonhormonal method of contraception during any cycle in which you take drugs that can make oral contraceptives less effective.
+Be sure to tell your healthcare provider if you are taking or start taking any other medications, including nonprescription products or herbal products while using NuvaRing®.
 
 While using NuvaRing®, you should not rely upon a diaphragm when you need a back-up method of birth control because NuvaRing® may interfere with the correct placement and position of a diaphragm.
 
@@ -266,8 +266,8 @@ What are the possible risks and side effects of NuvaRing®?
   If you take hormonal contraceptives and need elective surgery, need to stay in bed for a prolonged illness or have recently delivered a baby, you may be at risk of developing blood clots.
   You should consult your doctor or healthcare provider about stopping hormonal contraceptives three to four weeks before surgery and not taking hormonal contraceptives for two weeks after surgery or during bed rest.
   You should also not take hormonal contraceptives soon after delivery of a baby.
-  It is advisable to wait for at least four weeks after delivery if you are not breast-feeding.
-  If you are breast-feeding, you should wait until you have weaned your child before using the pill (see PRECAUTIONS, NURSING MOTHERS).
+  It is advisable to wait for at least four weeks after delivery if you are not breastfeeding.
+  If you are breastfeeding, you should wait until you have weaned your child before using the pill (see PRECAUTIONS, NURSING MOTHERS).
 - Strokes and heart attacks Hormonal contraceptives may increase your risk of strokes (blockage of blood flow to the brain) or heart attacks (blockage of blood flow to the heart).
   Any of these conditions can cause death or serious disability.
   Smoking greatly increases the risk of having strokes and heart attacks.
@@ -364,7 +364,7 @@ By comparison, the chances of getting pregnant in the first year of typical use 
 Other Information
 
 - Store NuvaRing® at room temperature, 25°C (77°F).
-  Temperatures can be from 15°-30°C (59°-86°F).
+  Temperatures can be from 15-30°C (59-86°F).
   Avoid direct sunlight or storing above 30°C (86°F).
 - Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
   Do not use NuvaRing® for a condition for which it was not prescribed.
@@ -374,13 +374,3 @@ Other Information
 This leaflet summarizes the most important information about NuvaRing®.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about NuvaRing® that is written for health professionals.
-
-1-877-NUVARING
-
-U.S. Patent No. 5,989,581.
-
-Copyright © 2001, 2010 N.V.
-Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
-
-34823804T Rev.
-11/10

@@ -40,12 +40,12 @@ In all of these cases, the woman should use an additional barrier method such as
 
 The woman may start using NuvaRing® within the first five days following a complete first trimester abortion and does not need to use an additional method of contraception.
 If use of NuvaRing® is not started within five days following a first trimester abortion, the woman should follow the instructions for "No hormonal contraceptive use in the preceding cycle."
-In the meantime she should be advised to use a non-hormonal contraceptive method.
+In the meantime she should be advised to use a nonhormonal contraceptive method.
 
 ### Following delivery or second trimester abortion
 
-The use of NuvaRing® for contraception may be initiated four weeks postpartum in women who elect not to breast-feed.
-Women who are breast-feeding should be advised not to use NuvaRing® but to use other forms of contraception until the child is weaned.
+The use of NuvaRing® for contraception may be initiated four weeks postpartum in women who elect not to breastfeed.
+Women who are breastfeeding should be advised not to use NuvaRing® but to use other forms of contraception until the child is weaned.
 NuvaRing® use may be initiated four weeks after a second trimester abortion.
 When NuvaRing® is used postpartum or postabortion, the increased risk of thromboembolic disease must be considered.
 (See CONTRAINDICATIONS and WARNINGS concerning thromboembolic disease.

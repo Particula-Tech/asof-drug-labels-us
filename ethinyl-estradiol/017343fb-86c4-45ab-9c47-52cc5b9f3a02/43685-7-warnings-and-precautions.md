@@ -33,7 +33,7 @@ It is unknown if NuvaRing® has a different risk of venous thromboembolism than 
 A two- to four-fold increase in relative risk of post-operative thromboembolic complications has been reported with the use of oral contraceptives.
 The relative risk of venous thrombosis in women who have predisposing conditions is twice that of women without such medical conditions.
 If feasible, combination hormonal contraceptives, including NuvaRing®, should be discontinued at least four weeks prior to and for two weeks after elective surgery of a type associated with an increase in risk of thromboembolism and during and following prolonged immobilization.
-Since the immediate postpartum period is also associated with an increased risk of thromboembolism, combination hormonal contraceptives, such as NuvaRing®, should be started no earlier than four to six weeks after delivery in women who elect not to breast-feed.
+Since the immediate postpartum period is also associated with an increased risk of thromboembolism, combination hormonal contraceptives, such as NuvaRing®, should be started no earlier than four to six weeks after delivery in women who elect not to breastfeed.
 
 The clinician should be alert to the earliest manifestations of thrombotic disorders (thrombophlebitis, pulmonary embolism, cerebrovascular disorders, and retinal thrombosis).
 Should any of these occur or be suspected, NuvaRing® should be discontinued immediately.
@@ -285,7 +285,7 @@ Healthcare providers should refer to the label of the individual anti-HIV protea
 
 ### c. Herbal products
 
-Herbal products containing St. John's Wort (hypericum perforatum) may induce hepatic enzymes (cytochrome P450) and p-glycoprotein transporter and may reduce the effectiveness of contraceptive steroids.
+Herbal products containing St. John's wort (hypericum perforatum) may induce hepatic enzymes (cytochrome P450) and p-glycoprotein transporter and may reduce the effectiveness of contraceptive steroids.
 This may also result in breakthrough bleeding.
 
 ### Increase in plasma hormone levels associated with co-administered drugs
@@ -306,7 +306,7 @@ Decreased plasma concentrations of acetaminophen and increased clearance of tema
 
 Certain endocrine and liver function tests and blood components may be affected by combined hormonal contraceptives:
 
-1. Increased prothrombin and factors VII, VIII, IX and X; decreased antithrombin 3, increased norepinephrine-induced platelet aggregability.
+1. Increased prothrombin and factors VII, VIII, IX, and X; decreased antithrombin 3, increased norepinephrine-induced platelet aggregability.
 2. Increased thyroid-binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 by column or by radioimmunoassay.
    Free T3 resin uptake is decreased, reflecting the elevated TBG; free T4 concentration is unaltered.
 3. Other binding proteins may be elevated in serum.
@@ -335,8 +335,8 @@ Teratology studies have been performed in rats and rabbits using the oral route 
 The effects of NuvaRing® in nursing mothers have not been evaluated and are unknown.
 Small amounts of contraceptive steroids have been identified in the milk of nursing mothers and a few adverse effects on the child have been reported, including jaundice and breast enlargement.
 In addition, contraceptive steroids given in the postpartum period may interfere with lactation by decreasing the quantity and quality of breast milk.
-Long-term follow-up of children whose mothers used combination hormonal contraceptives while breast-feeding has shown no deleterious effects on infants.
-However, women who are breast-feeding should be advised not to use NuvaRing® but to use other forms of contraception until the child is weaned.
+Long-term follow-up of children whose mothers used combination hormonal contraceptives while breastfeeding has shown no deleterious effects on infants.
+However, women who are breastfeeding should be advised not to use NuvaRing® but to use other forms of contraception until the child is weaned.
 
 ## 15. PEDIATRIC USE
 
@@ -374,7 +374,7 @@ If the ring is accidentally expelled and is left outside of the vagina for less 
 NuvaRing® can be rinsed with cool to lukewarm (not hot) water and reinserted as soon as possible, but at the latest within three hours.
 If NuvaRing® is lost, a new vaginal ring should be inserted and the regimen should be continued without alteration.
 
-### If NuvaRing® is out of the vagina for more than three continuous hours
+### If NuvaRing® is out of the vagina for more than three continuous hours:
 
 #### During Weeks 1 and 2
 
