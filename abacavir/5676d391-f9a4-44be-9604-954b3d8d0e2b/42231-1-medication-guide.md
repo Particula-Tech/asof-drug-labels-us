@@ -206,8 +206,8 @@ Inactive ingredients: colloidal silicon dioxide, hypromellose, magnesium stearat
 This Medication Guide has been approved by the US Food and Drug Administration.
 
 ** The brand names mentioned are registered trademarks of their respective manufacturers.
-Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
-
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-75006009 REVISED MAY 2012 MX:ABCV:R2m
+Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
+
+75050142 REVISED JULY 2012 MX:ABCV:R3m

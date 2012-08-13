@@ -1,12 +1,12 @@
 PRINCIPAL DISPLAY PANEL - 300 mg
 
-NDC 0378-4105-91
+NDC 0378-4015-91
 
 Abacavir Tablets, USP 300 mg
 
 Notice to Authorized Dispenser: Each time abacavir tablets are dispensed, give the patient a Medication Guide and Warning Card from the carton.
 
-Rx only 60 TABLETS
+Rx only 60 Tablets
 
 Each film-coated tablet contains abacavir sulfate, USP equivalent to 300 mg of abacavir.
 
@@ -27,6 +27,6 @@ Made in India
 
 Code No.: MH/DRUGS/25/NKD/89
 
-www.mylan.com
+Mylan.com
 
-MX:4105:1C:R1
+MX:4105:1C:R2
