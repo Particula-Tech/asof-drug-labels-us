@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019386"
+  ],
+  "inn": "esmolol",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "10019-120-01",
+    "10019-120-39"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "esmolol hydrochloride",
+      "name": "Esmolol Hydrochloride"
+    }
+  ],
+  "setid": "f0a56c07-8f0f-4499-8d00-f13a966bf988",
+  "source": "dailymed"
+}
