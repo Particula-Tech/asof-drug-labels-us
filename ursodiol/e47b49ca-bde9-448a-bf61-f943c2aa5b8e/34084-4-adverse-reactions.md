@@ -14,7 +14,7 @@ Figure 2
 | Allergy | 8 | (5.2) | 7 | (4.4) |
 | Chest Pain | 5 | (3.2) | 10 | (6.3) |
 | Fatigue | 7 | (4.5) | 8 | (5.0) |
-| Infection Viral | 20 | (19.4) | 41 | (25.8) |
+| Infection Viral | 30 | (19.4) | 41 | (25.8) |
 | Digestive System |  |  |  |  |
 | Abdominal Pain | 67 | (43.2) | 70 | (44.0) |
 | Cholecystitis | 8 | (5.2) | 7 | (4.4) |
@@ -38,7 +38,7 @@ Figure 2
 | Pharyngitis | 13 | (8.4) | 5 | (3.1) |
 | Rhinitis | 8 | (5.2) | 11 | (6.9) |
 | Sinusitis | 17 | (11.0) | 18 | (11.3) |
-| Upper Rrespiratory Tract Infection | 24 | (15.5) | 21 | (13.2) |
+| Upper Respiratory Tract Infection | 24 | (15.5) | 21 | (13.2) |
 | Urogenital System |  |  |  |  |
 | Urinary Tract Infection | 10 | (6.5) | 7 | (4.4) |
 | Gallstone Dissolution In Ursodiol and Placebo Patients |  |  |  |  |
@@ -68,7 +68,7 @@ Figure 3
 | Headache | 80 | (24.8) | 78 | (24.0) |
 | Respiratory System |  |  |  |  |
 | Pharyngitis | 10 | (3.1) | 19 | (5.8) |
-| Sinusitis |  |  |  |  |
+| Sinusitis | 17 | (5.3) | 18 | (5.5) |
 | Upper Respiratory Tract Infection | 40 | (12.4) | 35 | (10.8) |
 | Skin and Appendages |  |  |  |  |
 | Alopecia | 17 | (5.3) | 8 | (2.5) |

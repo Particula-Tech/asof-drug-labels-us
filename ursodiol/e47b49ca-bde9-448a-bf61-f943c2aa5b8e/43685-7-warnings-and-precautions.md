@@ -13,8 +13,8 @@ However, patients given ursodiol should have SGOT (AST) and SGPT (ALT) measured 
 ## Drug Interactions
 
 Bile acid sequestering agents such as cholestyramine and colestipol may interfere with the action of ursodiol by reducing its absorption.
-Aluminum-based antacids have been shown to absorb bile acids in vitro and may be expected to interfere with ursodiol page 4 of 7 in the same manner as the bile acid sequestering agents.
-Estrogens, oral contraceptives, and clofibrate (and perhaps other lipidlowering drugs) increase hepatic cholesterol secretion, and encourage cholesterol gallstone formation and hence may counteract the effectiveness of ursodiol.
+Aluminum-based antacids have been shown to absorb bile acids in vitro and may be expected to interfere with ursodiol in the same manner as the bile acid sequestering agents.
+Estrogens, oral contraceptives, and clofibrate (and perhaps other lipid-lowering drugs) increase hepatic cholesterol secretion, and encourage cholesterol gallstone formation and hence may counteract the effectiveness of ursodiol.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

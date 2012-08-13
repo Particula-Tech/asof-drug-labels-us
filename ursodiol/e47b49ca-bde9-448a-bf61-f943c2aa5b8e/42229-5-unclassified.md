@@ -21,7 +21,8 @@ Age, sex, weight, degree of obesity, and serum cholesterol level are not related
 
 A nonvisualizing gallbladder by oral cholecystogram prior to the initiation of therapy is not a contraindication to ursodiol therapy (the group of patients with nonvisualizing gallbladders in the ursodiol studies had complete stone dissolution rates similar to the group of patients with visualizing gallbladders).
 However, gallbladder nonvisualization developing during ursodiol treatment predicts failure of complete stone dissolution and in such cases therapy should be discontinued.
-Partial stone dissolution occurring within 6 months of beginning therapy with ursodiol appears to be associated with a > 70% chance of eventual complete stone dissolution with further treatment; partial dissolution observed within 1 year of starting therapy indicates a 40% probability of complete dissolution.Stone recurrence after dissolution with ursodiol therapy
+Partial stone dissolution occurring within 6 months of beginning therapy with ursodiol appears to be associated with a > 70% chance of eventual complete stone dissolution with further treatment; partial dissolution observed within 1 year of starting therapy indicates a 40% probability of complete dissolution.
+Stone recurrence after dissolution with ursodiol therapy
 
 was seen within 2 years in 8/27 (30%) of patients in the U.K. studies.
 Of 16 patients in the U.K. study whose stones had previously dissolved on chenodiol but later recurred, 11 had complete dissolution on ursodiol.
