@@ -22,6 +22,8 @@ Discard opened bottle after 90 days.
 
 PROTECT FROM LIGHT.
 
-4048501//03Revised June 2006
+4048501//06 Revised July 2012
 
-© RLI, 2006
+© RLI, 2012
+
+Diazepam Oral Solution, 5 mg per 5 mL, CIV
