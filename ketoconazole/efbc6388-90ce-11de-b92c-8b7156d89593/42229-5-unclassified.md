@@ -1,8 +1,10 @@
+Product of Belgium
+
 Manufactured by: Janssen Pharmaceutica N.V.
 Beerse, Belgium
 
-Manufactured for: PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ 08869
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-©Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2004
+©Janssen Pharmaceuticals, Inc. 2004
 
-Revised: July 2010
+Revised: August 2012
