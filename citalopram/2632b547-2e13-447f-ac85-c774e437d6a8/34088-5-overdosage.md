@@ -15,6 +15,6 @@ Establish and maintain an airway to ensure adequate ventilation and oxygenation.
 Gastric evacuation by lavage and use of activated charcoal should be considered.
 Careful observation and cardiac and vital sign monitoring are recommended, along with general symptomatic and supportive care.
 Due to the large volume of distribution of citalopram, forced diuresis, dialysis, hemoperfusion, and exchange transfusion are unlikely to be of benefit.
-There are no specific antidotes for citalopram tablets.
+There are no specific antidotes for citalopram.
 In managing overdosage, consider the possibility of multiple-drug involvement.
 The physician should consider contacting a poison control center for additional information on the treatment of any overdose.
