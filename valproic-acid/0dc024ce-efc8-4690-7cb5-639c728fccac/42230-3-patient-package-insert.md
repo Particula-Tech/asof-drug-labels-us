@@ -61,3 +61,5 @@ Manufactured for
 Abbott Laboratories
 
 North Chicago, IL 60064 U.S.A.
+
+03–A392 June 2010
