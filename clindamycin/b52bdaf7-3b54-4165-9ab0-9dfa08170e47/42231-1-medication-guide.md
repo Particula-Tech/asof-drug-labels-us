@@ -1,4 +1,4 @@
-## Clindamycin Phosphate Vaginal Cream, USP FOR INTRAVAGINAL USE ONLY NOT FOR OPHTHALMIC, DERMAL, OR ORAL USE DIRECTIONS FOR USE
+# Clindamycin Phosphate Vaginal Cream, USP FOR INTRAVAGINAL USE ONLY NOT FOR OPHTHALMIC, DERMAL, OR ORAL USE DIRECTIONS FOR USE
 
 Disposable plastic applicators are provided with this package.
 They are designed to allow proper vaginal administration of the cream.
