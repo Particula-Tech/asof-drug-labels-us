@@ -15,8 +15,8 @@
 5. Arcioni R, della Rocca M, Romanò R, et al. Anesth Analg.
    2002;94:1553-1557.
 
-10003003/04
+10003003/05
 
-Revised October 2010
+Revised October 2011
 
-© RLI, 2010
+© RLI, 2011
