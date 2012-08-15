@@ -32,8 +32,8 @@ The long-term effects of reduction in growth velocity associated with intranasal
 The potential for "catch-up" growth following discontinuation of treatment with intranasal corticosteroids has not been adequately studied.
 The growth of pediatric patients receiving intranasal corticosteroids, including QNASL Nasal Aerosol, should be monitored routinely (e.g., via stadiometry).
 
-A 12 month randomized controlled clinical trial evaluated the effects of QVAR®, an orally inhaled HFA beclomethasone dipropionate product, without spacer versus chlorofluorocarbon-propelled (CFC) beclomethasone dipropionate with large volume spacer on growth in children with asthma ages 5-11 years.
-A total of 520 patients were enrolled, of whom 394 received HFA-beclomethasone dipropionate (100 – 400 mcg/day ex-valve) and 126 received CFC-beclomethasone dipropionate (200 – 800 mcg/day ex-valve).
+A 12-month, randomized, controlled clinical trial evaluated the effects of QVAR®, an orally inhaled HFA beclomethasone dipropionate product, without spacer versus chlorofluorocarbon-propelled (CFC) beclomethasone dipropionate with large volume spacer on growth in children with asthma ages 5 to 11 years.
+A total of 520 patients were enrolled, of whom 394 received HFA-beclomethasone dipropionate (100 to 400 mcg/day ex-valve) and 126 received CFC-beclomethasone dipropionate (200 to 800 mcg/day ex-valve).
 When comparing results at month 12 to baseline, the mean growth velocity in children treated with HFA-beclomethasone dipropionate was approximately 0.5 cm/year less than that noted with children treated with CFC-beclomethasone dipropionate via large volume spacer.
 The potential growth effects of prolonged treatment should be weighed against the clinical benefits obtained and the risks/benefits of treatment alternatives.
 

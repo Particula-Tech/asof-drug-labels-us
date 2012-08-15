@@ -17,6 +17,6 @@ Do not store near heat or open flame.
 Do not expose to temperatures higher than 49°C (120°F) as this may cause bursting of the canister.
 Never throw the device into a fire or an incinerator.
 
-Store at 25°C (77°F); excursions are permitted between 15 and 30°C (59 and 86°F).
+Store at 25°C (77°F); excursions are permitted between 15° and 30°C (59° and 86°F).
 
 Keep out of reach of children.

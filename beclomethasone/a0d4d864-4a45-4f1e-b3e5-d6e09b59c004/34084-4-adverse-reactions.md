@@ -9,7 +9,7 @@ Systemic and local corticosteroid use may result in the following:
 
 ## 6.1 Clinical Trials Experience
 
-The safety data described below for adults and adolescents 12 years of age and older with seasonal or perennial allergic rhinitis are based on four placebo-controlled clinical trials of 2 to 6 weeks' duration evaluating doses of beclomethasone nasal aerosol from 80 to 320 mcg once daily.
+The safety data described below for adults and adolescents 12 years of age and older with seasonal or perennial allergic rhinitis are based on 4 placebo-controlled clinical trials of 2 to 6 weeks duration evaluating doses of beclomethasone nasal aerosol from 80 to 320 mcg once daily.
 These short-term trials included a total of 1394 patients with either seasonal or perennial allergic rhinitis.
 Of these, 575 (378 female and 197 male) received at least one dose of QNASL Nasal Aerosol, 320 mcg once daily and 578 (360 female and 218 male) received placebo.
 Patient ages ranged from 12 to 82 years and the racial distribution of patients was 81% white, 16% black, and 4% other.
@@ -33,7 +33,7 @@ Nasal ulcerations occurred in 2 patients treated with placebo and in 1 patient t
 There were no differences in the incidence of adverse reactions based on gender or race.
 Clinical trials did not have sufficient numbers of patients aged 65 years and older to determine whether they respond differently than younger patients.
 
-Long-Term 52-Week Safety Trial: In a 52-week placebo-controlled long term safety trial in patients with PAR, 415 patients (128 males and 287 females, aged 12 to 74 years) were treated with QNASL Nasal Aerosol at a dose of 320 mcg once daily and 111 patients (44 males and 67 females, aged 12 to 67 years) were treated with placebo.
+Long-Term 52-Week Safety Trial: In a 52-week placebo-controlled long-term safety trial in patients with PAR, 415 patients (128 males and 287 females, aged 12 to 74 years) were treated with QNASL Nasal Aerosol at a dose of 320 mcg once daily and 111 patients (44 males and 67 females, aged 12 to 67 years) were treated with placebo.
 Of the 415 patients treated with QNASL Nasal Aerosol, 219 patients were treated for 52 weeks and 196 patients were treated for 30 weeks.
 While most adverse events were similar in type and rate between the treatment groups, epistaxis occurred more frequently in patients who received QNASL Nasal Aerosol (45 out of 415, 11%) than in patients who received placebo (2 out of 111, 2%).
 Epistaxis also tended to be more severe in patients treated with QNASL Nasal Aerosol.

@@ -2,7 +2,7 @@
 
 ## 14.1 Seasonal and Perennial Allergic Rhinitis
 
-Adult and Adolescent Patients Aged 12 Years and Older: The efficacy and safety of QNASL Nasal Aerosol have been evaluated in 3 randomized, double-blind, parallel-group, multicenter, placebo-controlled clinical trials of 2 to 6 weeks' duration in adult and adolescent patients 12 years and older with symptoms of seasonal or perennial allergic rhinitis.
+Adult and Adolescent Patients Aged 12 Years and Older: The efficacy and safety of QNASL Nasal Aerosol have been evaluated in 3 randomized, double-blind, parallel-group, multicenter, placebo-controlled clinical trials of 2 to 6 weeks duration in adult and adolescent patients 12 years and older with symptoms of seasonal or perennial allergic rhinitis.
 The 3 clinical trials included one 2-week dose-ranging trial in patients with seasonal allergic rhinitis, one 2-week efficacy trial in patients with seasonal allergic rhinitis, and one 6-week efficacy trial in patients with perennial allergic rhinitis.
 The trials included a total of 1049 patients (366 males and 683 females).
 About 81% of patients were Caucasian and 17% African American, the mean age was approximately 38 years.
@@ -13,7 +13,7 @@ TNSS is calculated as the sum of the patients' scoring of the 4 individual nasal
 Morning and evening TNSS scores were averaged over the treatment period and the difference from placebo in the change from baseline rTNSS was the primary efficacy endpoint.
 The morning iTNSS reflects the TNSS at the end of the 24-hour dosing interval and is an indication of whether the effect was maintained over the 24-hour dosing interval.
 
-Dose-Ranging Trial: The dose-ranging trial was a 2-week trial that evaluated the efficacy of three doses of beclomethasone dipropionate nasal aerosol (80, 160, and 320 mcg, once daily) in patients with seasonal allergic rhinitis.
+Dose-Ranging Trial: The dose-ranging trial was a 2-week trial that evaluated the efficacy of 3 doses of beclomethasone dipropionate nasal aerosol (80, 160, and 320 mcg, once daily) in patients with seasonal allergic rhinitis.
 In this trial, only treatment with beclomethasone dipropionate nasal aerosol at the dose of 320 mcg/day resulted in statistically significant improvements compared with placebo in the primary efficacy endpoint, rTNSS (Table 2).
 
 Table 2.
@@ -29,7 +29,7 @@ Mean Changes from Baseline in Reflective Total Nasal Symptom Score Over 2 Weeks 
 
 The 320 mcg dose also demonstrated a statistically significant decrease in morning iTNSS than placebo, indicating that the effect was maintained over the 24-hour dosing interval.
 
-Seasonal and Perennial Allergic Rhinitis Trials: In two randomized, double-blind, parallel-group, multicenter, placebo-controlled efficacy trials, once daily treatment with QNASL Nasal Aerosol for 2 weeks in patients with seasonal allergic rhinitis and for 6 weeks in patients with perennial allergic rhinitis resulted in statistically significant greater decreases from baseline in the rTNSS and morning iTNSS than placebo (Table 3).
+Seasonal and Perennial Allergic Rhinitis Trials: In 2 randomized, double-blind, parallel-group, multicenter, placebo-controlled efficacy trials, once-daily treatment with QNASL Nasal Aerosol for 2 weeks in patients with seasonal allergic rhinitis and for 6 weeks in patients with perennial allergic rhinitis resulted in statistically significant greater decreases from baseline in the rTNSS and morning iTNSS than placebo (Table 3).
 
 Table 3.
 Mean Changes From Baseline in Reflective and Instantaneous Total Nasal Symptom Scores in Adult and Adolescent Patients with Seasonal or Perennial Allergic Rhinitis (ITT Population)

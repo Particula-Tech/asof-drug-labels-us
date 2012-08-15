@@ -16,8 +16,8 @@ Patients should inform their health care providers if a change in vision is note
 
 ## 17.3 Hypersensitivity Reactions Including Anaphylaxis
 
-Hypersensitivity reactions including anaphylaxis, angioedema, urticaria, and rash have been reported following administration of beclomethasone dipropionate nasal and inhalationally administered products.
-Angioedema, urticaria, and rash, have been reported following administration of QNASL Nasal Aerosol.
+Hypersensitivity reactions including anaphylaxis, angioedema, urticaria, and rash have been reported following administration of beclomethasone dipropionate nasally administered and inhalationally administered products.
+Angioedema, urticaria, and rash have been reported following administration of QNASL Nasal Aerosol.
 If any such reactions occur, patients should discontinue use of QNASL Nasal Aerosol [see Warnings and Precautions (5.3)].
 
 ## 17.4 Immunosuppression
@@ -27,10 +27,22 @@ Patients should be informed of potential worsening of existing tuberculosis; fun
 
 ## 17.5 Use Daily for Best Effect
 
-Patients should use QNASL Nasal Aerosol on a regular, once daily basis for optimal effect.
+Patients should use QNASL Nasal Aerosol on a regular, once-daily basis for optimal effect.
 QNASL Nasal Aerosol may not have an immediate effect on rhinitis symptoms.
 The patient should not increase the prescribed dosage but should contact their physician if symptoms do not improve or if the condition worsens.
 
 ## 17.6 Keep Spray Out of Eyes or Mouth
 
 Patients should be informed to avoid spraying QNASL Nasal Aerosol in their eyes or mouth.
+
+Teva Respiratory, LLC Horsham, PA 19044 USA
+
+©2012, Teva Respiratory, LLC.
+All rights reserved.
+
+QNASL is a trademark of Teva Respiratory, LLC.
+
+Manufactured for Teva Respiratory, LLC Horsham, PA 19044 By: 3M Drug Delivery Systems Northridge, CA 91324
+
+Rev.
+06/12

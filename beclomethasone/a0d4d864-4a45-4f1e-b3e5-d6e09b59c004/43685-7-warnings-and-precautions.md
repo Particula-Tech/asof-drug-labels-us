@@ -6,7 +6,7 @@ Nasal Discomfort, Epistaxis, and Nasal Ulceration: In clinical trials of 2 to 52
 In the 52-week safety trial in patients with perennial allergic rhinitis, nasal erosions were identified in 4 of 415 patients and a nasal ulceration was identified in 1 of 415 patients treated with QNASL Nasal Aerosol.
 No nasal erosions or ulcerations were reported for patients who received placebo.
 Patients using QNASL Nasal Aerosol over several months or longer should be examined periodically for possible changes in the nasal mucosa.
-If an adverse reaction (e.g. erosion, ulceration) is noted, discontinue QNASL Nasal Aerosol.
+If an adverse reaction (e.g., erosion, ulceration) is noted, discontinue QNASL Nasal Aerosol.
 [see Adverse Reactions (6.1)].
 
 Candida Infection: In previous clinical trials with an aqueous formulation of beclomethasone dipropionate administered intranasally, localized infections of the nose and pharynx with Candida albicans had been reported.
@@ -32,8 +32,8 @@ No instances of cataract formation or other clinically significant ocular incide
 
 ## 5.3 Hypersensitivity Reactions Including Anaphylaxis
 
-Hypersensitivity reactions including anaphylaxis, angioedema, urticaria, and rash, have been reported following administration of beclomethasone dipropionate nasal and inhalationally administered products.
-Angioedema, urticaria, and rash, have been reported following administration of QNASL Nasal Aerosol.
+Hypersensitivity reactions including anaphylaxis, angioedema, urticaria, and rash have been reported following administration of beclomethasone dipropionate nasally administered and inhalationally administered products.
+Angioedema, urticaria, and rash have been reported following administration of QNASL Nasal Aerosol.
 Discontinue QNASL Nasal Aerosol if any such reactions occur [see Contraindications (4)].
 
 ## 5.4 Immunosuppression

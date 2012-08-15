@@ -11,13 +11,13 @@ The clinical significance of these findings is unknown.
 
 ## 12.2 Pharmacodynamics
 
-Adrenal Function: The effects of QNASL Nasal Aerosol on the HPA axis were evaluated in a 6 week, randomized, double-blind, parallel-group trial in adult and adolescent patients 12 to 45 years of age with perennial allergic rhinitis.
+Adrenal Function: The effects of QNASL Nasal Aerosol on the HPA axis were evaluated in a 6-week, randomized, double-blind, parallel-group trial in adult and adolescent patients 12 to 45 years of age with perennial allergic rhinitis.
 QNASL Nasal Aerosol 320 mcg, once daily, was compared with both placebo nasal aerosol and a positive control (a placebo/prednisone group that received prednisone 10 mg orally once daily for the final 7 days of the treatment period).
-HPA-axis function was assessed by 24 hour serial serum cortisol levels prior to the first dose and after 6 weeks of treatment.
+HPA-axis function was assessed by 24-hour serial serum cortisol levels prior to the first dose and after 6 weeks of treatment.
 Patients were domiciled for the 24-hour serum cortisol assessments.
-The change from baseline in the 24 hour serum cortisol weighted mean for QNASL Nasal Aerosol and placebo after 6 weeks of treatment were compared.
+The change from baseline in the 24-hour serum cortisol weighted mean for QNASL Nasal Aerosol and placebo after 6 weeks of treatment were compared.
 Baseline geometric mean serum cortisol weighted mean values were similar in the QNASL Nasal Aerosol 320 mcg/day and placebo treatment groups (9.04 and 8.45 mcg/dL, respectively).
-After 6 weeks of treatment, the geometric mean values were (8.18 and 8.01 mcg/dL, respectively) with a change from baseline in 24 hour serum cortisol weighted mean for the QNASL Nasal Aerosol and placebo groups of 0.86 and 0.44, resulting in a difference of 0.42.
+After 6 weeks of treatment, the geometric mean values were 8.18 and 8.01 mcg/dL, respectively with a change from baseline in 24-hour serum cortisol weighted mean for the QNASL Nasal Aerosol and placebo groups of 0.86 and 0.44, resulting in a difference of 0.42.
 The geometric mean ratio for QNASL Nasal Aerosol 320 mcg/day to placebo was 0.96 (95% CI: 0.87, 1.06).
 For comparison, in the positive-control (prednisone) treatment group, the geometric mean ratio for placebo to placebo/prednisone 10 mg/day was 3.17 (95% CI: 2.68, 3.74).
 
@@ -26,7 +26,7 @@ For comparison, in the positive-control (prednisone) treatment group, the geomet
 Absorption
 
 Following intranasal administration, most of the beclomethasone dipropionate undergoes extensive conversion to its active metabolite, beclomethasone-17-monopropionate, during absorption.
-Plasma concentrations of beclomethasone dipropionate and beclomethasone-17-monopropionate have been measured in two clinical trials with QNASL Nasal Aerosol.
+Plasma concentrations of beclomethasone dipropionate and beclomethasone-17-monopropionate have been measured in 2 clinical trials with QNASL Nasal Aerosol.
 
 The single-dose pharmacokinetics of QNASL Nasal Aerosol were evaluated in a randomized, open-label, 3-period, crossover trial in healthy volunteers.
 Systemic levels of beclomethasone-17-monopropionate and beclomethasone dipropionate after single-dose intranasal administration of beclomethasone dipropionate at doses of 80 and 320 mcg were compared with the systemic levels of beclomethasone-17-monopropionate and beclomethasone dipropionate after administration of orally inhaled beclomethasone dipropionate HFA at a dose of 320 mcg (QVAR® Inhalation Aerosol).
@@ -37,7 +37,7 @@ Following repeated once-daily administration of QNASL Nasal Aerosol, there was n
 
 Distribution
 
-The in vitro protein binding for beclomethasone-17-monopropionate was reported to be 94 to 96% over the concentration range of 1000 to 5000 pg/mL.
+The in vitro protein binding for beclomethasone-17-monopropionate was reported to be 94% to 96% over the concentration range of 1000 to 5000 pg/mL.
 The volume of distribution at steady state for beclomethasone dipropionate is moderate (20 L) but more extensive for beclomethasone-17-monopropionate (424 L).
 
 Metabolism
