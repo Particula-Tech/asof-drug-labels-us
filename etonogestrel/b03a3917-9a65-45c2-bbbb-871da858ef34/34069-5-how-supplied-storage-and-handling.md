@@ -9,5 +9,5 @@ NDC 0052-0274-01
 
 ## 16.2 Storage and Handling
 
-Store NEXPLANON (etonogestrel implant) Radiopaque at 25ºC (77ºF); excursions permitted to 15º–30ºC (59º–86ºF) [see USP Controlled Room Temperature].
+Store NEXPLANON (etonogestrel implant) Radiopaque at 25ºC (77ºF); excursions permitted to 15-30ºC (59-86ºF) [see USP Controlled Room Temperature].
 Avoid storing NEXPLANON at temperatures above 30ºC (86ºF).

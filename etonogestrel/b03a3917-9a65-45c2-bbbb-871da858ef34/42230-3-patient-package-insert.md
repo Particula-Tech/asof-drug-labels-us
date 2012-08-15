@@ -273,9 +273,13 @@ If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider for information about NEXPLANON that is written for healthcare professionals.
 You may also call 1-877-467-5266 or visit www.NEXPLANON-USA.com.
 
-Copyright © 2011 N.V.
-Organon, a subsidiary of Merck & Co., Inc. All rights reserved.
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Revised: 03/2012
+Manufactured by: N.V.
+Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA
 
-900415-IMPx-IPT-PPI.9
+Copyright © 2011 MSD Oss B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+
+Revised: 05/2012
+
+900415-IMPx-IPT-PPI.10

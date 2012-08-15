@@ -28,7 +28,7 @@ Table 3: Adverse Reactions Leading to Discontinuation of Treatment in 1% or More
 
 Other adverse reactions that were reported by at least 5% of subjects in the non-radiopaque etonogestrel implant clinical trials are listed in Table 4.
 
-Table 4: Common Adverse Reactions Reported by ≥5% of Subjects in Clinical Trials with the Non-Radiopaque Etonogestrel Implant (IMPLANON)
+Table 4: Common Adverse Reactions Reported by ≥5% of Subjects in Clinical Trials With the Non-Radiopaque Etonogestrel Implant (IMPLANON)
 
 | Adverse Reactions | All Studies N = 942 |
 | --- | --- |

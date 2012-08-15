@@ -22,7 +22,7 @@ The mean (± SD) serum etonogestrel concentration decreased gradually over time,
 
 The pharmacokinetic profile of NEXPLANON is shown in Figure 20.
 
-| Figure 20: Mean (± SD) serum concentration-time profile of etonogestrel after insertion of NEXPLANON during 3 years of use |
+| Figure 20: Mean (± SD) Serum Concentration-Time Profile of Etonogestrel After Insertion of NEXPLANON During 3 Years of Use |
 | --- |
 
 Distribution

@@ -18,8 +18,8 @@ Use of NEXPLANON before the fourth postpartum week has not been studied.
 Small amounts of etonogestrel are excreted in breast milk.
 During the first months after insertion of NEXPLANON, when maternal blood levels of etonogestrel are highest, about 100 ng of etonogestrel may be ingested by the child per day based on an average daily milk ingestion of 658 mL.
 Based on daily milk ingestion of 150 mL/kg, the mean daily infant etonogestrel dose one month after insertion of the non-radiopaque etonogestrel implant (IMPLANON) is about 2.2% of the weight-adjusted maternal daily dose, or about 0.2% of the estimated absolute maternal daily dose.
-The health of breast-fed infants whose mothers began using the non-radiopaque etonogestrel implant during the fourth to eighth week postpartum (n=38) was evaluated in a comparative study with infants of mothers using a non-hormonal IUD (n=33).
-They were breast-fed for a mean duration of 14 months and followed up to 36 months of age.
+The health of breastfed infants whose mothers began using the non-radiopaque etonogestrel implant during the fourth to eighth week postpartum (n=38) was evaluated in a comparative study with infants of mothers using a non-hormonal IUD (n=33).
+They were breastfed for a mean duration of 14 months and followed up to 36 months of age.
 No significant effects and no differences between the groups were observed on the physical and psychomotor development of these infants.
 No differences between groups in the production or quality of breast milk were detected.
 

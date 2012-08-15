@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Changes in Contraceptive Effectiveness Associated with Coadministration of Other Products
+## 7.1 Changes in Contraceptive Effectiveness Associated With Coadministration of Other Products
 
 Drugs or herbal products that induce enzymes, including CYP3A4, that metabolize progestins may decrease the plasma concentrations of progestins, and may decrease the effectiveness of NEXPLANON.
 In women on long-term treatment with hepatic enzyme inducing drugs, it is recommended to remove the implant and to advise a contraceptive method that is unaffected by the interacting drug.
@@ -23,7 +23,7 @@ HIV Antiretrovirals
 Significant changes (increase or decrease) in the plasma levels of progestin have been noted in some cases of co-administration with HIV protease inhibitors or with non-nucleoside reverse transcriptase inhibitors.
 Consult the labeling of all concurrently-used drugs to obtain further information about interactions with hormonal contraceptives or the potential for enzyme alterations.
 
-## 7.2 Increase in Plasma Concentrations of Etonogestrel Associated with Coadministered Drugs
+## 7.2 Increase in Plasma Concentrations of Etonogestrel Associated With Coadministered Drugs
 
 CYP3A4 inhibitors such as itraconazole or ketoconazole may increase plasma concentrations of etonogestrel.
 

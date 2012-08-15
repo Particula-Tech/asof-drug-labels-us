@@ -10,7 +10,7 @@ Undetected failure to insert the implant may lead to an unintended pregnancy.
 Complications related to insertion and removal procedures, such as pain, paresthesias, bleeding, hematoma, scarring or infection, may occur.
 
 If NEXPLANON is inserted too deeply (intramuscular or in the fascia), neural or vascular injury may occur.
-To reduce the risk of neural or vascular injury, NEXPLANON should be inserted at the inner side of the non-dominant upper arm about 8–10 cm (3–4 inches) above the medial epicondyle of the humerus.
+To reduce the risk of neural or vascular injury, NEXPLANON should be inserted at the inner side of the non-dominant upper arm about 8-10 cm (3-4 inches) above the medial epicondyle of the humerus.
 NEXPLANON should be inserted subdermally just under the skin to avoid the large blood vessels and nerves that lie deeper in the subcutaneous tissues in the sulcus between the triceps and biceps muscles.
 Deep insertions of the non-radiopaque etonogestrel implant (IMPLANON) have been associated with paraesthesia (due to neural injury) and migration of the implant (due to intramuscular or fascial insertion), and in a very few cases with intravascular insertion.
 If infection develops at the insertion site, start suitable treatment.
@@ -35,21 +35,21 @@ Abnormal bleeding should be evaluated as needed to exclude pathologic conditions
 In clinical studies of the non-radiopaque etonogestrel implant, reports of changes in bleeding pattern were the most common reason for stopping treatment (11.1%).
 Irregular bleeding (10.8%) was the single most common reason women stopped treatment, while amenorrhea (0.3%) was cited less frequently.
 In these studies, women had an average of 17.7 days of bleeding or spotting every 90 days (based on 3,315 intervals of 90 days recorded by 780 patients).
-The percentages of patients having 0, 1–7, 8–21, or >21 days of spotting or bleeding over a 90-day interval while using the non-radiopaque etonogestrel implant are shown in Table 1.
+The percentages of patients having 0, 1-7, 8-21, or >21 days of spotting or bleeding over a 90-day interval while using the non-radiopaque etonogestrel implant are shown in Table 1.
 
-Table 1: Percentages of Patients with 0, 1–7, 8–21, or >21 Days of Spotting or Bleeding over a 90-Day Interval while using the Non-Radiopaque Etonogestrel Implant (IMPLANON)
+Table 1: Percentages of Patients With 0, 1-7, 8-21, or >21 Days of Spotting or Bleeding Over a 90-Day Interval While Using the Non-Radiopaque Etonogestrel Implant (IMPLANON)
 
-| Treatment Days 91–180 (N = 745) | Treatment Days 271–360 (N = 657) | Treatment Days 631–720 (N = 547) |  |
+| Treatment Days 91-180 (N = 745) | Treatment Days 271-360 (N = 657) | Treatment Days 631-720 (N = 547) |  |
 | --- | --- | --- | --- |
 | Total Days of Spotting or Bleeding | Percentage of Patients |  |  |
 | 0 Days | 19% | 24% | 17% |
-| 1–7 Days | 15% | 13% | 12% |
-| 8–21 Days | 30% | 30% | 37% |
+| 1-7 Days | 15% | 13% | 12% |
+| 8-21 Days | 30% | 30% | 37% |
 | >21 Days | 35% | 33% | 35% |
 
 Bleeding patterns observed with use of the non-radiopaque etonogestrel implant for up to 2 years, and the proportion of 90-day intervals with these bleeding patterns, are summarized in Table 2.
 
-Table 2: Bleeding Patterns Using the Non-Radiopaque Etonogestrel Implant (IMPLANON) during the First 2 Years of UseBased on 3,315 recording periods of 90 days duration in 780 women, excluding the first 90 days after implant insertion
+Table 2: Bleeding Patterns Using the Non-Radiopaque Etonogestrel Implant (IMPLANON) During the First 2 Years of UseBased on 3315 recording periods of 90 days duration in 780 women, excluding the first 90 days after implant insertion
 
 | BLEEDING PATTERNS | DEFINITIONS | %% = Percentage of 90-day intervals with this pattern |
 | --- | --- | --- |

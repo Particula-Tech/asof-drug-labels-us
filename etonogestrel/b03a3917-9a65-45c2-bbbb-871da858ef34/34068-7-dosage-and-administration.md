@@ -5,13 +5,13 @@ The efficacy of NEXPLANON does not depend on daily, weekly or monthly administra
 All healthcare providers should receive instruction and training prior to performing insertion and/or removal of NEXPLANON.
 
 A single NEXPLANON implant is inserted subdermally in the upper arm.
-To reduce the risk of neural or vascular injury, the implant should be inserted at the inner side of the non-dominant upper arm about 8–10 cm (3–4 inches) above the medial epicondyle of the humerus.
+To reduce the risk of neural or vascular injury, the implant should be inserted at the inner side of the non-dominant upper arm about 8-10 cm (3-4 inches) above the medial epicondyle of the humerus.
 The implant should be inserted subdermally just under the skin to avoid the large blood vessels and nerves that lie deeper in the subcutaneous tissues in the sulcus between the triceps and biceps muscles.
 NEXPLANON must be inserted by the expiration date stated on the packaging.
 NEXPLANON is a long-acting (up to 3 years), reversible, hormonal contraceptive method.
 The implant must be removed by the end of the third year and may be replaced by a new implant at the time of removal, if continued contraceptive protection is desired.
 
-## 2.1 Initiating Contraception with NEXPLANON
+## 2.1 Initiating Contraception With NEXPLANON
 
 IMPORTANT: Rule out pregnancy before inserting the implant.
 
@@ -105,7 +105,7 @@ Step 1.
 Have the woman lie on her back on the examination table with her non-dominant arm flexed at the elbow and externally rotated so that her wrist is parallel to her ear or her hand is positioned next to her head (Figure 1).
 
 Step 2.
-Identify the insertion site, which is at the inner side of the non-dominant upper arm about 8–10 cm (3–4 inches) above the medial epicondyle of the humerus (Figure 2).
+Identify the insertion site, which is at the inner side of the non-dominant upper arm about 8-10 cm (3-4 inches) above the medial epicondyle of the humerus (Figure 2).
 The implant should be inserted subdermally just under the skin to avoid the large blood vessels and nerves that lie deeper in the subcutaneous tissue in the sulcus between the triceps and biceps muscles [see Warnings and Precautions (5.1)].
 
 Step 3.
