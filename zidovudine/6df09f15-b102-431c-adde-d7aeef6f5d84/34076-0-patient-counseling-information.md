@@ -60,6 +60,4 @@ Research Triangle Park, NC 27709
 ©2012, ViiV Healthcare.
 All rights reserved.
 
-May 2012
-
 RTT:7PI

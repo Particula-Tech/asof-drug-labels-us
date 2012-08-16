@@ -87,11 +87,13 @@ RETROVIR®
 
 SYRUP
 
-Rx only
+10 mg/mL
 
 240 mL
 
-Each 5 mL (1 teaspoonful) contains zidovudine 50 mg and sodium benzoate 0.2% added as a preservative.
+Rx only
+
+Contains sodium benzoate 0.2% added as a preservative.
 
 See prescribing information for dosage information.
 
@@ -105,11 +107,11 @@ Research Triangle Park, NC 27709
 
 by:
 
-GlaxoSmithKline
+GlaxoSmithKline, Research Triangle Park, NC 27709
 
-Research Triangle Park, NC 27709
+Made in Canada
 
-Made in South Korea
+Rev.
+5/12
 
-A083865 Rev.
-07/10
+A101265
