@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "BLA125418"
+  ],
+  "inn": "aflibercept",
+  "labeler": "sanofi-aventis U.S. LLC",
+  "package_ndcs": [
+    "0024-5840-01",
+    "0024-5840-03",
+    "0024-5841-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION, CONCENTRATE",
+      "generic": "ziv-aflibercept",
+      "name": "ZALTRAP"
+    }
+  ],
+  "setid": "f6725df6-50ee-4b0a-b900-d02ba634395d",
+  "source": "dailymed"
+}
