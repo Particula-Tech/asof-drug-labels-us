@@ -2,12 +2,12 @@
 
 ## 5.1 Lack of Interchangeability between Botulinum Toxin Products
 
-The potency Units of Dysport are specific to the preparation and assay method utilized.
-They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of Dysport cannot be compared to or converted into units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
+The potency Units of DYSPORT® are specific to the preparation and assay method utilized.
+They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of DYSPORT® cannot be compared to or converted into units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
 
 ## 5.2 Spread of Toxin Effect
 
-Post-marketing safety data from Dysport and other approved botulinum toxins suggest that botulinum toxin effects may, in some cases, be observed beyond the site of local injection.
+Post-marketing safety data from DYSPORT® and other approved botulinum toxins suggest that botulinum toxin effects may, in some cases, be observed beyond the site of local injection.
 The symptoms are consistent with the mechanism of action of botulinum toxin and may include asthenia, generalized muscle weakness, diplopia, blurred vision, ptosis, dysphagia, dysphonia, dysarthria, urinary incontinence and breathing difficulties.
 These symptoms have been reported hours to weeks after injection.
 Swallowing and breathing difficulties can be life threatening and there have been reports of death related to spread of toxin effects.
@@ -16,7 +16,7 @@ In unapproved uses, including spasticity in children and adults, and in approved
 
 ## 5.3 Dysphagia and Breathing Difficulties in Treatment of Cervical Dystonia
 
-Treatment with Dysport and other botulinum toxin products can result in swallowing or breathing difficulties.
+Treatment with DYSPORT® and other botulinum toxin products can result in swallowing or breathing difficulties.
 Patients with pre-existing swallowing or breathing difficulties may be more susceptible to these complications.
 In most cases, this is a consequence of weakening of muscles in the area of injection that are involved in breathing or swallowing.
 When distant effects occur, additional respiratory muscles may be involved [see Warnings and Precautions (5.2)].
@@ -27,22 +27,22 @@ Aspiration may result from severe dysphagia and is a particular risk when treati
 
 Treatment of cervical dystonia with botulinum toxins may weaken neck muscles that serve as accessory muscles of ventilation.
 This may result in a critical loss of breathing capacity in patients with respiratory disorders who may have become dependent upon these accessory muscles.
-There have been post-marketing reports of serious breathing difficulties, including respiratory failure, in cervical dystonia patients.
+There have been postmarketing reports of serious breathing difficulties, including respiratory failure, in cervical dystonia patients.
 
 Patients treated with botulinum toxin may require immediate medical attention should they develop problems with swallowing, speech or respiratory disorders.
 These reactions can occur within hours to weeks after injection with botulinum toxin [see Warnings and Precautions (5.2), Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
 
 ## 5.4 Facial Anatomy in the Treatment of Glabellar Lines
 
-Caution should be exercised when administering Dysport to patients with surgical alterations to the facial anatomy, excessive weakness or atrophy in the target muscle(s), marked facial asymmetry, inflammation at the injection site(s), ptosis, excessive dermatochalasis, deep dermal scarring, thick sebaceous skin [see Dosage and Administration (2.2.3)] or the inability to substantially lessen glabellar lines by physically spreading them apart [see Clinical Studies (14.2)].
+Caution should be exercised when administering DYSPORT® to patients with surgical alterations to the facial anatomy, excessive weakness or atrophy in the target muscle(s), marked facial asymmetry, inflammation at the injection site(s), ptosis, excessive dermatochalasis, deep dermal scarring, thick sebaceous skin [see Dosage and Administration (2.2.3)] or the inability to substantially lessen glabellar lines by physically spreading them apart [see Clinical Studies (14.2)].
 
-Do not exceed the recommended dosage and frequency of administration of Dysport.
-In clinical trials, subjects who received a higher dose of Dysport had an increased incidence of eyelid ptosis.
+Do not exceed the recommended dosage and frequency of administration of DYSPORT®.
+In clinical trials, subjects who received a higher dose of DYSPORT® had an increased incidence of eyelid ptosis.
 
 ## 5.5 Pre-existing Neuromuscular Disorders
 
 Individuals with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis or neuromuscular junction disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) should be monitored particularly closely when given botulinum toxin.
-Patients with neuromuscular disorders may be at increased risk of clinically significant effects including severe dysphagia and respiratory compromise from typical doses of Dysport [see Adverse Reactions (6.1)].
+Patients with neuromuscular disorders may be at increased risk of clinically significant effects including severe dysphagia and respiratory compromise from typical doses of DYSPORT® [see Adverse Reactions (6.1)].
 
 ## 5.6 Human Albumin
 
@@ -54,4 +54,4 @@ No cases of transmission of viral diseases or CJD have ever been reported for al
 ## 5.7 Intradermal Immune Reaction
 
 The possibility of an immune reaction when injected intradermally is unknown.
-The safety of Dysport for the treatment of hyperhidrosis has not been established.
+The safety of DYSPORT® for the treatment of hyperhidrosis has not been established.

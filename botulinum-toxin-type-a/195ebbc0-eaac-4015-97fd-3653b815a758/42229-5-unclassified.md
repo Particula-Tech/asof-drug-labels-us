@@ -1,9 +1,9 @@
 Manufactured by: Ipsen Biopharm Ltd. Wrexham, LL13 9UF, UK
 
-Distributed by: Tercica, Inc. a subsidiary of the Ipsen Group Brisbane, CA 94005
+Distributed by: Ipsen Biopharmaceuticals, Inc. Basking Ridge, NJ 07920
 
 and
 
 Medicis Aesthetics Inc. a wholly owned subsidiary of Medicis Pharmaceutical Corporation Scottsdale, AZ 85256
 
-07100158
+1030400
