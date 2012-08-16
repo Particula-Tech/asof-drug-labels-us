@@ -79,11 +79,11 @@ Nevertheless, a decision should be made whether to discontinue nursing or to dis
 ## Pediatric Use
 
 Use of DIPROLENE AF Cream 0.05% in pediatric patients 12 years of age and younger is not recommended (see CLINICAL PHARMACOLOGY and ADVERSE REACTIONS).
-In an open-label study, 19 of 60 (32%) evaluable pediatric patients (aged 3 months–12 years old) using DIPROLENE AF Cream 0.05% for treatment of atopic dermatitis demonstrated HPA axis suppression.
+In an open-label study, 19 of 60 (32%) evaluable pediatric patients (aged 3 months-12 years old) using DIPROLENE AF Cream 0.05% for treatment of atopic dermatitis demonstrated HPA axis suppression.
 The proportion of patients with adrenal suppression in this study was progressively greater, the younger the age group (see CLINICAL PHARMACOLOGY, Pharmacokinetics section).
 
 Pediatric patients may demonstrate greater susceptibility to topical corticosteroid-induced HPA axis suppression and Cushing's syndrome than mature patients because of a larger skin surface area to body weight ratio.
-The study described above supports this premise, as adrenal suppression in 9–12 year olds, 6–8 year olds, 2–5 year olds, and 3 months–1 year old was 17%, 32%, 38%, and 50%, respectively.
+The study described above supports this premise, as adrenal suppression in 9-12 year olds, 6-8 year olds, 2-5 year olds, and 3 months-1 year old was 17%, 32%, 38%, and 50%, respectively.
 
 Hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing's syndrome, and intracranial hypertension have been reported in children receiving topical corticosteroids.
 Manifestations of adrenal suppression in children include linear growth retardation, delayed weight gain, low plasma cortisol levels, and absence of response to ACTH stimulation.

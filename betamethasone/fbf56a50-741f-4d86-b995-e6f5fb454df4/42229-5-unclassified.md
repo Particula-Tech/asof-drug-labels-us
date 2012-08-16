@@ -1,20 +1,13 @@
 brand of augmented betamethasone dipropionateVehicle augments the penetration of the steroid.
+Cream 0.05% (potency expressed as betamethasone)
 
-Cream 0.05%
+For Dermatologic Use Only - Not for Ophthalmic Use
 
-(potency expressed as betamethasone)
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-For Dermatologic Use Only – Not for Ophthalmic Use
+Manufactured by: Schering Plough Canada, Inc. Pointe Claire, Quebec, Canada
 
-PRODUCT INFORMATION
-
-Manufactured by: Schering-Plough Canada, Inc., Pointe Claire, Quebec, Canada
-
-Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
-
-Copyright © 1987, 2001 Schering Corporation, a subsidiary of Merck & Co., Inc.
-
-All rights reserved.
+Copyright © 1987, 2001 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
 Rev.
-08/10 34489300T
+05/12 011460-DPL-CR-USPI.2
