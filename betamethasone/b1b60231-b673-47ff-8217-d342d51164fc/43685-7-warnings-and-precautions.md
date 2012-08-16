@@ -3,7 +3,6 @@
 ## General
 
 Systemic absorption of topical corticosteroids has produced reversible HPA axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients.
-
 Conditions which augment systemic absorption include the application of the more potent corticosteroids, use over large surface areas, prolonged use, and the addition of occlusive dressings.
 Use of more than one corticosteroid-containing product at the same time may increase total systemic glucocorticoid exposure (see DOSAGE AND ADMINISTRATION).
 
@@ -27,7 +26,6 @@ If irritation develops, topical corticosteroids should be discontinued and appro
 
 In the presence of dermatological infections, the use of an appropriate antifungal or antibacterial agent should be instituted.
 If a favorable response does not occur promptly, the corticosteroid should be discontinued until the infection has been adequately controlled.
-
 DIPROLENE Ointment should not be used in the treatment of rosacea or perioral dermatitis, and it should not be used on the face, groin, or in the axillae.
 
 ## Information for Patients

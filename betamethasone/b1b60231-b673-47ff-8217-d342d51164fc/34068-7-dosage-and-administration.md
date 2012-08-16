@@ -1,7 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
 Apply a thin film of DIPROLENE® Ointment to the affected skin once or twice daily.
-
 DIPROLENE Ointment is a super-high potency topical corticosteroid.
 Treatment with DIPROLENE Ointment should be limited to 50 g per week.
 

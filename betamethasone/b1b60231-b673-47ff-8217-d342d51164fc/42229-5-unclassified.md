@@ -1,17 +1,13 @@
 brand of augmented betamethasone dipropionateVehicle augments the penetration of the steroid.
+Ointment 0.05% (potency expressed as betamethasone)
 
-Ointment 0.05%
+For Dermatologic Use Only - Not for Ophthalmic Use
 
-(potency expressed as betamethasone)
+Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-For Dermatologic Use Only–Not for Ophthalmic Use
+Manufactured by: Schering Plough Canada, Inc. Pointe Claire, Quebec, Canada
 
-PRODUCT INFORMATION
+Copyright © 1983, 2004 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Manufactured by: Schering-Plough Canada, Inc., Pointe Claire, Quebec, Canada
-
-Distributed by: Schering Corporation, a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
-
-Copyright © 1983, 2004 Schering Corporation, a subsidiary of Merck & Co., Inc. All rights reserved.
 Rev.
-8/10 34489700T
+05/12 011460-DPL-OT-USPI.2

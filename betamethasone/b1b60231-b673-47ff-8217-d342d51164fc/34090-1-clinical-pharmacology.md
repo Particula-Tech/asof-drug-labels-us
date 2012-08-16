@@ -2,7 +2,6 @@
 
 The corticosteroids are a class of compounds comprising steroid hormones secreted by the adrenal cortex and their synthetic analogs.
 In pharmacologic doses, corticosteroids are used primarily for their anti-inflammatory and/or immunosuppressive effects.
-
 Topical corticosteroids, such as betamethasone dipropionate, are effective in the treatment of corticosteroid-responsive dermatoses primarily because of their anti-inflammatory, antipruritic, and vasoconstrictive actions.
 However, while the physiologic, pharmacologic, and clinical effects of the corticosteroids are well known, the exact mechanisms of their actions in each disease are uncertain.
 Betamethasone dipropionate, a corticosteroid, has been shown to have topical (dermatologic) and systemic pharmacologic and metabolic effects characteristic of this class of drugs.

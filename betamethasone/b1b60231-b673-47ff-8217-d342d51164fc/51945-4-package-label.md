@@ -1,8 +1,8 @@
-# PRINCIPAL DISPLAY PANEL - 50 g Tube Box
+# PRINCIPAL DISPLAY PANEL - 15 g Tube Box
 
-NDC 0085-0575-05
+NDC 0085-0575-02
 
-50 g
+15 g
 
 Diprolene® brand of augmented betamethasone dipropionate*
 
@@ -11,8 +11,6 @@ Ointment 0.05%
 (Potency expressed as betamethasone)
 
 *Vehicle augments the penetration of the steroid.
-
-O
 
 For dermatologic use only.
 
