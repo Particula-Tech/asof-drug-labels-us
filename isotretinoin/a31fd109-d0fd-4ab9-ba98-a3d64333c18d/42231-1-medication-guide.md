@@ -290,3 +290,8 @@ The edible imprinting ink contains: 10 mg strength, D&C red no. 7 calcium lake, 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Dilantin is a registered trademark of Warner-Lambert Company LLC.
+
+BARR LABORATORIES, INC. POMONA, NY 10970
+
+Iss.
+2/2010 BR-1054, 1055, 1056, 1057

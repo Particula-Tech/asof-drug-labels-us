@@ -19,8 +19,3 @@ Monthly Required iPLEDGE Interactions
 | Enters 2 forms of contraception | X |  |
 | PHARMACIST |  |  |
 | Contacts system to get an authorization | X | X |
-
-BARR LABORATORIES, INC. POMONA, NY 10970
-
-Iss.
-2/2010 BR-1054, 1055, 1056, 1057
