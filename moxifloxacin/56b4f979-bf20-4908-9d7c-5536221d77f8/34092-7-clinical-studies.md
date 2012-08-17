@@ -18,7 +18,7 @@ Table 10 Clinical Success Rates at Follow-Up Visit for Clinically Evaluable Pati
 | Staphylococcus aureus | 15/16 (94%) | 6/8 (75%) |
 | Klebsiellapneumoniae | 18/20 (90%) | 10/11 (91%) |
 
-The microbiological eradication rates (eradication plus presumed eradication) in AVELOX treated patients were Streptococcus pneumoniae 100%, Haemophilusinfluenzae89%, Haemophilusparainfluenzae100%, Moraxella catarrhalis85%, Staphylococcus aureus 94%, and Klebsiellapneumoniae85%.
+The microbiological eradication rates (eradication plus presumed eradication) in AVELOX treated patients were Streptococcus pneumoniae 100%, Haemophilus influenzae89%, Haemophilus parainfluenzae100%, Moraxella catarrhalis85%, Staphylococcus aureus 94%, and Klebsiella pneumonia 85%.
 
 ## 14.2 Community Acquired Pneumonia
 
@@ -108,7 +108,7 @@ This study enrolled 804 patients, 632 of which were valid for the efficacy analy
 Surgical incision and drainage or debridement was performed on 55% of the AVELOX treated and 53% of the comparator treated patients in these studies and formed an integral part of therapy for this indication.
 Success rates varied with the type of diagnosis ranging from 61% in patients with infected ulcers to 90% in patients with complicated erysipelas.
 These rates were similar to those seen with comparator drugs.
-The overall success rates in the evaluable patients and the clinical success by pathogen are shown in Tables 14and 15.
+The overall success rates in the evaluable patients and the clinical success by pathogen are shown in Tables 14 and 15.
 
 Table 14 Overall Clinical Success Rates in Patients with Complicated Skin and Skin Structure Infections
 

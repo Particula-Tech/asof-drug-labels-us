@@ -16,6 +16,8 @@ Patients should be advised to drink fluids liberally.
 
 AVELOX tablets should be taken at least 4 hours before or 8 hours after multivitamins (containing iron or zinc), antacids (containing magnesium or aluminum), sucralfate, or VIDEX® (didanosine) chewable/buffered tablets or the pediatric powder for oral solution.
 
+## 17.3 Serious and Potentially Serious Adverse Reactions
+
 To assure safe and effective use of AVELOX, patients should be informed of the following serious adverse reactions that have been associated with AVELOX and other fluoroquinolone use:
 
 - •Tendon Disorders: Patients should contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue AVELOX treatment.
