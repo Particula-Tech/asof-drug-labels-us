@@ -1,8 +1,8 @@
 # DESCRIPTION
 
-Estraderm® (estradiol transdermal system) is designed to release estradiol through a rate-limiting membrane continuously upon application to intact skin.
+Estraderm (estradiol transdermal system) is designed to release estradiol through a rate-limiting membrane continuously upon application to intact skin.
 
-Two systems are available to provide nominal in vivo delivery of 0.05 or 0.1 mg of estradiol per day via skin of average permeability (interindividual variation in skin permeability is approximately 20%).
+Two systems are available to provide nominal in vivo delivery of 0.05 or 0.1 mg of estradiol per day via skin of average permeability (interindividual variation in skin permeability is approximately 20 percent).
 Each corresponding system having an active surface area of 10 or 20 cm2 contains 4 or 8 mg of estradiol USP and 0.3 or 0.6 mL of alcohol USP, respectively.
 The composition of the systems per unit area is identical.
 

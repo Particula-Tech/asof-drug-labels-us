@@ -1,25 +1,25 @@
 # DOSAGE AND ADMINISTRATION
 
-The adhesive side of the Estraderm® (estradiol transdermal system) system should be placed on a clean, dry area of the skin on the trunk of the body (including the buttocks and abdomen).
+The adhesive side of the Estraderm transdermal system should be placed on a clean, dry area of the skin on the trunk of the body (including the buttocks and abdomen).
 The site selected should be one that is not exposed to sunlight.
 Estraderm should not be applied to the breasts.
 The Estraderm system should be replaced twice weekly.
 The sites of application must be rotated, with an interval of at least 1 week allowed between applications to a particular site.
 The area selected should not be oily, damaged, or irritated.
 The waistline should be avoided, since tight clothing may rub the system off.
-The system should be applied immediately after opening the pouch and removing the protective liner.
-The system should be pressed firmly in place with the palm of the hand for about 10 seconds, making sure there is good contact, especially around the edges.
-In the unlikely event that a system should fall off, the same system may be reapplied.
+The transdermal system should be applied immediately after opening the pouch and removing the protective liner.
+The transdermal system should be pressed firmly in place with the palm of the hand for about 10 seconds, making sure there is good contact, especially around the edges.
+In the unlikely event that a transdermal system should fall off, the same system may be reapplied.
 If necessary, a new system may be applied.
 In either case, the original treatment schedule should be continued.
 
-## Initiation of Therapy
+Initiation of Therapy
 
-When estrogen is prescribed for a postmenopausal woman with a uterus, progestin should also be initiated to reduce the risk of endometrial cancer.
+When estrogen therapy is prescribed for a postmenopausal woman with a uterus, a progestin should also be initiated to reduce the risk of endometrial cancer.
 A woman without a uterus does not need progestin.
 Use of estrogen-alone or in combination with a progestin, should be with the lowest effective dose and the shortest duration consistent with treatment goals and risks for the individual woman.
-Patients should be reevaluated periodically as clinically appropriate (e.g., 3-month to 6-month intervals) to determine whether treatment is still necessary (See BOXED WARNING and WARNINGS).
-For women who have a uterus, adequate diagnostic measures, such as endometrial sampling, when indicated, should be undertaken to rule out malignancy in cases of undiagnosed persistent or recurring abnormal vaginal bleeding.
+Patients should be reevaluated periodically as clinically appropriate (for example, 3-month to 6-month intervals) to determine whether treatment is still necessary.
+Adequate diagnostic measures, such as directed or random endometrial sampling, when indicated, should be undertaken to rule out malignancy in a postmenopausal woman with a uterus with undiagnosed persistent or recurring abnormal genital bleeding.
 
 Estraderm is currently available in two dosage forms – 0.05 mg and 0.1 mg.
 Patients should be started at the lowest dose.
@@ -34,7 +34,7 @@ Discontinuation of estrogen therapy may reestablish bone loss at a rate comparab
 In women not currently taking oral estrogens, treatment with Estraderm may be initiated at once.
 In women who are currently taking oral estrogen, treatment with Estraderm should be initiated 1 week after withdrawal of oral hormone therapy, or sooner if menopausal symptoms reappear in less than 1 week.
 
-## Therapeutic Regimen
+Therapeutic Regimen
 
 Estraderm therapy may be given continuously in patients who do not have an intact uterus.
-In those patients with an intact uterus, Estraderm may be given on a cyclic schedule (e.g., 3 weeks on drug followed by 1 week off drug).
+In those patients with an intact uterus, Estraderm may be given on a cyclic schedule (for example, 3 weeks on drug followed by 1 week off drug).

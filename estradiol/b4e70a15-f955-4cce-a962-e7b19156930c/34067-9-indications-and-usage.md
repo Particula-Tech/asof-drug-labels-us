@@ -1,9 +1,9 @@
 # INDICATIONS AND USAGE
 
-Estraderm® (estradiol transdermal system) is indicated in:
+Estraderm is indicated in:
 
-1. Treatment of moderate to severe vasomotor symptoms associated with the menopause.
-2. Treatment of moderate to severe symptoms of vulvar and vaginal atrophy associated with the menopause.
+1. Treatment of moderate to severe vasomotor symptoms due to menopause.
+2. Treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause.
    When prescribing solely for the treatment of symptoms of vulvar and vaginal atrophy, topical vaginal products should be considered.
 3. Treatment of hypoestrogenism due to hypogonadism, castration, or primary ovarian failure.
 4. Prevention of postmenopausal osteoporosis.
@@ -12,4 +12,4 @@ Estraderm® (estradiol transdermal system) is indicated in:
 The mainstays for decreasing the risk of postmenopausal osteoporosis are weight-bearing exercise, adequate calcium and vitamin D intake, and when indicated, pharmacologic therapy.
 Postmenopausal women require an average of 1500 mg/day of elemental calcium.
 Therefore, when not contraindicated, calcium supplementation may be helpful for women with suboptimal dietary intake.
-Vitamin D supplementation of 400-800 IU/day may also be required to ensure adequate daily intake in postmenopausal women.
+Vitamin D supplementation of 400 to 800 IU per day may also be required to ensure adequate daily intake in postmenopausal women.

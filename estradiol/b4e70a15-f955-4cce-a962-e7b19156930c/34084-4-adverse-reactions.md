@@ -2,41 +2,44 @@
 
 See BOXED WARNING, WARNINGS and PRECAUTIONS.
 
-The most commonly reported adverse reaction to Estraderm® (estradiol transdermal system) in clinical trials was redness and irritation at the application site.
-This occurred in about 17% of the women treated and caused approximately 2% to discontinue therapy.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+The most commonly reported adverse reaction to Estraderm in clinical trials was redness and irritation at the application site.
+This occurred in about 17 percent of the women treated and caused approximately 2 percent to discontinue therapy.
 Reports of rash have been rare.
 There have also been rare reports of severe systemic allergic reactions.
 
-The following additional adverse reactions have been reported with estrogens:
+Postmarketing Experience
 
-## 1. Genitourinary System
+The following additional adverse reactions have been identified during post-approval use of Estraderm.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Changes in vaginal bleeding pattern and abnormal withdrawal bleeding or flow; breakthrough bleeding; spotting; dysmenorrhea, increase in size of uterine leiomyomata; vaginitis, including vaginal candidiasis; change in amount of cervical secretion; changes in cervical ectropion; ovarian cancer; endometrial hyperplasia; endometrial cancer.
+Genitourinary System
 
-## 2. Breasts
+Breakthrough bleeding, spotting, endometrial hyperplasia, uterine leiomyomata.
 
-Tenderness, enlargement, pain, nipple discharge, galactorrhea; fibrocystic breast changes; breast cancer.
+Breast
 
-## 3. Cardiovascular
+Breast cancer, discomfort, pain, tenderness.
 
-Deep and superficial venous thrombosis; pulmonary embolism; thrombophlebitis; myocardial infarction; stroke; increase in blood pressure.
+Cardiovascular
 
-## 4. Gastrointestinal
+Hypertension, varicose veins, pulmonary embolism.
 
-Nausea, vomiting; abdominal cramps, bloating; cholestatic jaundice; increased incidence of gallbladder disease; pancreatitis, enlargement of hepatic hemangiomas.
+Gastrointestinal
 
-## 5. Skin
+Abdominal pain, abdominal distension, abnormal liver tests, jaundice cholestatic, nausea, vomiting, diarrhea, cholelithiasis, gall bladder disorder.
 
-Chloasma or melasma, which may persist when drug is discontinued; erythema multiforme; erythema nodosum; hemorrhagic eruption; loss of scalp hair; hirsutism; pruritus, rash.
+Skin
 
-## 6. Eyes
+Alopecia, contact dermatitis, pigmentation disorders, cholasma, melasma, pruritus.
 
-Retinal vascular thrombosis; intolerance to contact lenses.
+Central Nervous System
 
-## 7. Central Nervous System
+Affect lability, dizziness, depression, nervousness, libido disorder, headache, migraine.
 
-Headache; migraine; dizziness; mental depression; chorea; nervousness; mood disturbances; irritability; exacerbation of epilepsy, dementia.
+Miscellaneous
 
-## 8. Miscellaneous
+Back pain, extremity pain, edema, hypersensitivity, libido disorder, increase or decrease in weight.
 
-Increase or decrease in weight; reduced carbohydrate tolerance; aggravation of porphyria; edema; arthralgias; leg cramps; changes in libido; anaphylactoid/anaphylactic reactions including urticaria and angioedema; hypocalcemia; exacerbation of asthma; increased triglycerides.
+Additional postmarketing adverse reactions have been reported in patients receiving other forms of hormone therapy.
