@@ -18,7 +18,7 @@ accord
 
 NDC 16729-019-01
 
-MYCOPHENOLATE Mofetil Capsules
+MYCOPHENOLATE Mofetil Tablets
 
 500 mg
 
@@ -26,6 +26,6 @@ Rx Only
 
 Attention Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
-100 Capsules
+100 Tablets
 
 accord

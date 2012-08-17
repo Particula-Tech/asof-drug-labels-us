@@ -1,5 +1,6 @@
 {
   "application_numbers": [
+    "ANDA065416",
     "ANDA090253"
   ],
   "inn": "mycophenolate-mofetil",
@@ -18,7 +19,7 @@
       "name": "Mycophenolate Mofetil"
     },
     {
-      "form": "CAPSULE, GELATIN COATED",
+      "form": "TABLET",
       "generic": "mycophenolate mofetil",
       "name": "Mycophenolate Mofetil"
     }
