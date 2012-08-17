@@ -17,10 +17,10 @@ In controlled studies, the nature, severity and incidence of the adverse events 
 
 Based on the historical experience with Sandimmune®, the following reactions occurred in 3% or greater of 892 patients involved in clinical trials of kidney, heart, and liver transplants.
 
-|  |  | Sandimmune® (N = 227) % | Azathioprine (N = 228) % | Kidney (N = 705) % | Heart (N = 112) % | Liver (N = 75) % |
-| --- | --- | --- | --- | --- | --- | --- |
 |  |  | Randomized Kidney Patients |  | Cyclosporine Patients (Sandimmune®) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
 | Body System | Adverse Reactions |  |  |  |  |  |
+|  |  | Sandimmune® (N = 227) % | Azathioprine (N = 228) % | Kidney (N = 705) % | Heart (N = 112) % | Liver (N = 75) % |
 | Genitourinary |  |  |  |  |  |  |
 |  | Renal Dysfunction | 32 | 6 | 25 | 38 | 37 |
 | Cardiovascular |  |  |  |  |  |  |
@@ -79,7 +79,7 @@ Infectious Complications in Historical Randomized Studies in Renal Transplant Pa
 ## Postmarketing Experience, Kidney, Liver and Heart Transplantation
 
 BK virus associated nephropathy has been observed in patients receiving immunosuppressants, including Gengraf.
-This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss (see WARNINGS, Kidney, Liver and Heart Transplant).
+This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss (see WARNINGS - Kidney, Liver and Heart Transplant).
 
 ## Rheumatoid Arthritis
 
@@ -94,9 +94,9 @@ These elevations are likely to become more pronounced without dose reduction or 
 
 Cyclosporine (MODIFIED)/Sandimmune® Rheumatoid Arthritis Percentage of Patients with Adverse Events ≥ 3% in any Cyclosporine Treated Group
 
-| Body System | Preferred Term | Sandimmune®† (N = 269) | Sandimmune® (N = 155) | Methotrexate & Sandimmune® (N = 74) | Methotrexate & Placebo (N = 73) | Cyclosporine (MODIFIED) (N = 143) | Placebo (N = 201) |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Studies 651+652+2008 | Study 302 | Study 654 | Study 654 | Study 302 | Studies 651+652 +2008 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Body System | Preferred Term | Sandimmune®† (N = 269) | Sandimmune® (N = 155) | Methotrexate & Sandimmune® (N = 74) | Methotrexate & Placebo (N = 73) | Cyclosporine (MODIFIED) (N = 143) | Placebo (N = 201) |
 | Autonomic Nervous System Disorders |  |  |  |  |  |  |  |
 |  | Flushing | 2% | 2% | 3% | 0% | 5% | 2% |
 | Body As A Whole - General Disorders |  |  |  |  |  |  |  |
@@ -294,7 +294,7 @@ Adverse Events Occurring in 3% or More of Psoriasis Patients in Controlled Clini
 | Gum Hyperplasia | 3.8% | 6.0% |
 | Nausea | 5.5% | 5.9% |
 | White cell and RES | 4.4% | 2.7% |
-| * Total percentage of events within the system.** Newly occurring hypertension = SBP ≥160 mm Hg and/or DBP ≥90 mm Hg. |  |  |
+| * Total percentage of events within the system. ** Newly occurring hypertension = SBP ≥160 mm Hg and/or DBP ≥90 mm Hg. |  |  |
 
 The following events occurred in 1% to less than 3% of psoriasis patients treated with cyclosporine:
 

@@ -38,9 +38,9 @@ This form of nephrotoxicity is usually responsive to cyclosporine dosage reducti
 Although specific diagnostic criteria which reliably differentiate renal graft rejection from drug toxicity have not been found, a number of parameters have been significantly associated with one or the other.
 It should be noted however, that up to 20% of patients may have simultaneous nephrotoxicity and rejection.
 
-| Parameter | Nephrotoxicity | Rejection |
-| --- | --- | --- |
 | Nephrotoxicity vs. Rejection |  |  |
+| --- | --- | --- |
+| Parameter | Nephrotoxicity | Rejection |
 | History | Donor > 50 years old or hypotensive Prolonged kidney preservation Prolonged anastomosis time Concomitant nephrotoxic drugs | Anti-donor immune response Retransplant patient |
 | Clinical | Often > 6 weeks postopb Prolonged initial nonfunction (acute tubular necrosis) | Often < 4 weeks postopb Fever > 37.5°C Weight gain > 0.5 kg Graft swelling and tenderness Decrease in daily urine volume > 500 mL (or 50%) |
 | Laboratory | CyA serum trough level > 200 ng/mL Gradual rise in Cr (< 0.15 mg/dL/day)a Cr plateau < 25% above baseline BUN/Cr ≥ 20 | CyA serum trough level < 150 ng/mL Rapid rise in Cr (> 0.3 mg/dL/day)a Cr > 25% above baseline BUN/Cr < 20 |
@@ -261,12 +261,12 @@ In addition, concomitant non-steroidal anti-inflammatory drugs, particularly in 
 | trimethoprim with sulfamethoxazole | ketoconazole | sulindac | tacrolimus |
 |  |  |  | Other Drugs |
 |  |  |  | fibric acid derivatives |
-|  |  |  | (e.g.,bezafibrate, fenofibrate)methotrexate |
+|  |  |  | (e.g.,bezafibrate, fenofibrate) methotrexate |
 
 ### Drugs That Alter Cyclosporine Concentrations
 
 Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein.
-Various agents are known to either increase or decrease plasma and whole blood of cyclosporine concentrations usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
+Various agents are known to either increase or decrease plasma or whole blood of cyclosporine levels usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
 Compounds that decrease cyclosporine absorption such as orlistat should be avoided.
 Monitoring of circulating cyclosporine concentrations and appropriate Gengraf (cyclosporine capsules, USP [MODIFIED]) dosage adjustment are essential when these drugs are used concomitantly (see DOSAGE AND ADMINISTRATION - Blood Concentration Monitoring).
 
@@ -356,7 +356,7 @@ Psoriasis patients receiving other immunosuppressive agents or radiation therapy
 
 For additional information on Cyclosporine Drug Interactions please contact Abbott Laboratories Medical Information Department at 1-800-633-9110.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Carcinogenicity studies were carried out in male and female rats and mice.
 In the 78-week mouse study, evidence of a statistically significant trend was found for lymphocytic lymphomas in females, and the incidence of hepatocellular carcinomas in mid-dose males significantly exceeded the control value.
