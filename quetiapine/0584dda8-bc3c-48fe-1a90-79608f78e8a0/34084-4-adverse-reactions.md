@@ -47,7 +47,7 @@ The cited figures, however, do provide the prescribing physician with some basis
 
 Table 8 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during acute therapy of schizophrenia (up to 6 weeks) and bipolar mania (up to 12 weeks) in 1% or more of patients treated with SEROQUEL (doses ranging from 75 to 800 mg/day) where the incidence in patients treated with SEROQUEL was greater than the incidence in placebo-treated patients.
 
-Table 8: Treatment-Emergent Adverse Reaction Incidence in 3- to 12-Week Placebo-Controlled Clinical Trials for the Treatment of Schizophrenia and Bipolar Mania (Monotherapy)Reactions for which the SEROQUEL incidence was equal to or less than placebo are not listed in the table, but included the following: accidental injury, akathisia, chest pain, cough increased, depression, diarrhea, extrapyramidal syndrome, hostility, hypertension, hypertonia, hypotension, increased appetite, infection, insomnia, leukopenia, malaise, nausea, nervousness, paresthesia, peripheral edema, sweating, tremor, and weight loss.
+Table 8: Treatment-Emergent Adverse Reaction Incidence in 3- to 12-Week Placebo-Controlled Clinical Trials for the Treatment of Schizophrenia and Bipolar Mania (Monotherapy)Reactions for which the SEROQUEL incidence was equal to or less than placebo are not listed in the table, but included the following: accidental injury, akathisia, chest pain, cough increased, depression, diarrhea, extrapyramidal syndrome, hostility, hypertension, hypertonia, hypotension, increased appetite, infection, insomnia, leucopenia, malaise, nausea, nervousness, paresthesia, peripheral edema, sweating, tremor and weight loss.
 
 | Body System/ Preferred Term | SEROQUEL (n=719) | PLACEBO (n=404) |
 | --- | --- | --- |
@@ -89,7 +89,7 @@ In the acute adjunct therapy of bipolar mania (up to 3 weeks) studies, the most 
 
 Table 9 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred during therapy (up to 3 weeks) of acute mania in 1% or more of patients treated with SEROQUEL (doses ranging from 100 to 800 mg/day) used as adjunct therapy to lithium and divalproex where the incidence in patients treated with SEROQUEL was greater than the incidence in placebo-treated patients.
 
-Table 9: Treatment-Emergent Adverse Reaction Incidence in 3-Week Placebo-Controlled Clinical Trials for the Treatment of Bipolar Mania (Adjunct Therapy)Reactions for which the SEROQUEL incidence was equal to or less than placebo are not listed in the table, but included the following: akathisia, diarrhea, insomnia, nausea, accidental injury, chest pain, face edema, flu syndrome, electrocardiogram abnormal, vomiting, gastritis, SGPT increased, weight loss, nervousness, paresthesia, extrapyramidal syndrome, confusion, cough increased, rash and urinary incontinence.
+Table 9: Treatment-Emergent Adverse Reaction Incidence in 3-Week Placebo-Controlled Clinical Trials for the Treatment of Bipolar Mania (Adjunct Therapy)Reactions for which the SEROQUEL incidence was equal to or less than placebo are not listed in the table, but included the following: akathisia, diarrhea, insomnia, nausea, accidental injury, chest pain, face edema, flu syndrome, electrocardiogram abnormal, vomiting, gastritis, SGPT increased, weight loss, nervousness, parethesia, extrapyramidal syndrome, confusion, cough increased, rash and urinary incontinence.
 
 | Body System/ Preferred Term | SEROQUEL (n=196) | PLACEBO (n=203) |
 | --- | --- | --- |
@@ -243,11 +243,11 @@ Table 11: Adverse experiences potentially associated with EPS in a short-term, p
 | Preferred Term | Placebo (N=51) |  | SEROQUEL 75 mg/day (N=53) |  | SEROQUEL 150 mg/day (N=48) |  | SEROQUEL 300 mg/day (N=52) |  | SEROQUEL 600 mg/day (N=51) |  | SEROQUEL 750 mg/day (N=54) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | n | % | n | % | n | % | n | % | n | % | n | % |
-| Dystonic eventPatients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle ridgidity | 4 | 7.8 | 2 | 3.8 | 2 | 4.2 | 0 | 0.0 | 2 | 3.9 | 3 | 5.6 |
+| Dystonic eventPatients with the following terms were counted in this category: nuchal rigity, hypertonia, dystonia, muscle rigidity | 4 | 7.8 | 2 | 3.8 | 2 | 4.2 | 0 | 0.0 | 2 | 3.9 | 3 | 5.6 |
 | ParkinsonismPatients with the following terms were counted in this category: cogwheel rigidity, tremor | 4 | 7.8 | 2 | 3.8 | 0 | 0.0 | 1 | 1.9 | 1 | 2.0 | 1 | 1.9 |
-| AkathisiaPatients with the following terms were counted in this category: akathisia | 4 | 7.8 | 1 | 1.9 | 1 | 2.1 | 0 | 0.0 | 0 | 0.0 | 1 | 1.9 |
-| Dyskinetic eventPatients with the following terms were counted in this category: tardive dyskinesia,dyskinesia, choreoathetosis | 0 | 0.0 | 2 | 3.8 | 0 | 0.0 | 0 | 0.0 | 1 | 2.0 | 0 | 0.0 |
-| Other extraphyrmidal eventPatients with the following terms were counted in this category: restlessness, extrapyramidal disorder | 4 | 7.8 | 2 | 3.8 | 0 | 0.0 | 3 | 5.8 | 3 | 5.9 | 1 | 1.9 |
+| AkathisiaPatients with the following terms were counted in this category: akathsia | 4 | 7.8 | 1 | 1.9 | 1 | 2.1 | 0 | 0.0 | 0 | 0.0 | 1 | 1.9 |
+| Dyskinetic eventPatients with the following terms were counted in this category: tardive dyskinesia, dyskinesia, choreoathetosis | 0 | 0.0 | 2 | 3.8 | 0 | 0.0 | 0 | 0.0 | 1 | 2.0 | 0 | 0.0 |
+| Other extraphyrmidal eventPatients with the following terms were counted in this category: restlessness;, extrapyramidal disorder | 4 | 7.8 | 2 | 3.8 | 0 | 0.0 | 3 | 5.8 | 3 | 5.9 | 1 | 1.9 |
 
 Parkinsonism incidence rates as measured by the Simpson-Angus total score for placebo and the five fixed doses (75, 150, 300, 600, 750 mg/day) were: -0.6; -1.0, -1.2; -1.6; -1.8 and -1.8.
 The rate of anticholinergic medication use to treat emergent EPS for placebo and the five fixed doses was: 14%; 11%; 10%; 8%; 12% and 11%.
@@ -397,8 +397,8 @@ Table 15: Adverse experiences potentially associated with EPS in the short-term 
 |  | n | % | n | % | n | % | n | % |
 | Dystonic eventPatients with the following terms were counted in this category: nuchal rigidity, hypertonia, dystonia, muscle rigidity | 0 | 0.0 | 2 | 2.7 | 0 | 0.0 | 2 | 1.4 |
 | ParkinsonismPatients with the following terms were counted in this category: cogwheel rigidity, tremor | 2 | 2.7 | 4 | 5.5 | 4 | 5.4 | 8 | 5.4 |
-| AkathisiaPatients with tthe following terms were counted in this category: akathisia | 3 | 4.0 | 3 | 4.1 | 4 | 5.4 | 7 | 4.8 |
-| Dyskinetic eventPatients with the following terms were counted in tis category: tardive dyskinesia, dyskinesia, choreoathetosis | 0 | 0.0 | 2 | 2.7 | 0 | 0.0 | 2 | 1.4 |
+| AkathisiaPatients with the following terms were counted in this category: akathisia | 3 | 4.0 | 3 | 4.1 | 4 | 5.4 | 7 | 4.8 |
+| Dyskinetic eventPatients with the following terms were counted in this category: tardive dyskinesia, dyskinesia, choreoathetosis | 0 | 0.0 | 2 | 2.7 | 0 | 0.0 | 2 | 1.4 |
 | Other Extrapyramidal EventsPatients with the following terms were counted in this category: restlessness, extrapyramidal disorder | 0 | 0.0 | 2 | 2.7 | 2 | 2.7 | 4 | 2.7 |
 
 Table 16 below presents a listing of patients with Adverse Experiences potentially associated with EPS in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration).
@@ -409,7 +409,7 @@ Table 16: Adverse experiences potentially associated with EPS in a short-term pl
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | n | % | n | % | n | % | n | % |
 | ParkinsonismPatients with the following terms were counted in this category: cogwheel rigidity, tremor | 1 | 1.1 | 2 | 2.1 | 1 | 1.0 | 3 | 1.6 |
-| AkathisiaPatients with the following terms were countedin this category: akathisia | 0 | 0.0 | 1 | 1.0 | 1 | 1.0 | 2 | 1.0 |
+| AkathisiaPatients with the following terms were counted in this category: akathisia | 0 | 0.0 | 1 | 1.0 | 1 | 1.0 | 2 | 1.0 |
 | Other Extrapyramidal EventsPatients with the following terms were counted in this category: restlessness, extrapyramidal disorder | 0 | 0.0 | 1 | 1.1 | 1 | 1.0 | 2 | 1.0 |
 
 Adverse Reactions in Long-Term Open-Label Trial
@@ -424,9 +424,9 @@ It is important to emphasize that, although the reactions reported occurred duri
 
 Reactions are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing); infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
 
-Nervous System: Infrequent: abnormal dreams, dyskinesia, thinking abnormal, tardive dyskinesia, vertigo, involuntary movements, confusion, amnesia, psychosis, hallucinations, hyperkinesia, libido increasedadjusted for gender, urinary retention, incoordination, paranoid reaction, abnormal gait, myoclonus, delusions, manic reaction, apathy, ataxia, depersonalization, stupor, bruxism, catatonic reaction, hemiplegia; Rare: aphasia, buccoglossal syndrome, choreoathetosis, delirium, emotional lability, euphoria, libido decreased*, neuralgia, stuttering, subdural hematoma.
+Nervous System: Infrequent: abnormal dreams, dyskinesia, thinking abnormal, tardive dyskinesia, vertigo, involuntary movements, confusion, amnesia, psychosis, hallucinations, hyperkinesia, libido increased*, urinary retention, incoordination, paranoid reaction, abnormal gait, myoclonus, delusions, manic reaction, apathy, ataxia, depersonalization, stupor, bruxism, catatonic reaction, hemiplegia; Rare: aphasia, buccoglossal syndrome, choreoathetosis, delirium, emotional lability, euphoria, libido decreased*, neuralgia, stuttering, subdural hematoma.
 
-Body as a Whole: Frequent: flu syndrome; Infrequent: neck pain, pelvic pain, suicide attempt, malaise, photosensitivity reaction, chills, face edema, moniliasis; Rare: abdomen enlarged.
+Body as a Whole: Frequent: flu syndrome; Infrequent: neck pain, pelvic pain*, suicide attempt, malaise, photosensitivity reaction, chills, face edema, moniliasis; Rare: abdomen enlarged.
 
 Digestive System: Frequent: anorexia; Infrequent: increased salivation, increased appetite, gamma glutamyl transpeptidase increased, gingivitis, dysphagia, flatulence, gastroenteritis, gastritis, hemorrhoids, stomatitis, thirst, tooth caries, fecal incontinence, gastroesophageal reflux, gum hemorrhage, mouth ulceration, rectal hemorrhage, tongue edema; Rare: glossitis, hematemesis, intestinal obstruction, melena, pancreatitis.
 
@@ -438,11 +438,13 @@ Metabolic and Nutritional System: Infrequent: weight loss, alkaline phosphatase 
 
 Skin and Appendages System: Infrequent: pruritus, acne, eczema, contact dermatitis, maculopapular rash, seborrhea, skin ulcer; Rare: exfoliative dermatitis, psoriasis, skin discoloration.
 
-Urogenital System: Infrequent: dysmenorrhea, vaginitis, urinary incontinence, metrorrhagia, impotence, dysuria, vaginal moniliasis, abnormal ejaculation, cystitis, urinary frequency, amenorrhea, female lactation, leukorrhea, vaginal hemorrhage, vulvovaginitis orchitis; Rare: gynecomastia, nocturia, polyuria, acute kidney failure.
+Urogenital System: Infrequent: dysmenorrheal*, vaginitis*, urinary incontinence, metrorrhagia*, impotence*, dysuria, vaginal moniliasis*, abnormal ejaculation*, cystitis, urinary frequency, amenorrhea*, female lactation*, leucorrhea*, vaginal hemorrhage*, vulvovaginitis* orchitis*; Rare: gynecomastia*, nocturia, polyuria, acute kidney failure.
 
 Special Senses: Infrequent: conjunctivitis, abnormal vision, dry eyes, tinnitus, taste perversion, blepharitis, eye pain; Rare: abnormality of accommodation, deafness, glaucoma.
 
 Musculoskeletal System: Infrequent: pathological fracture, myasthenia, twitching, arthralgia, arthritis, leg cramps, bone pain.
+
+*Adjusted for gender
 
 Hemic and Lymphatic System: Infrequent: leukocytosis, anemia, ecchymosis, eosinophilia, hypochromic anemia; lymphadenopathy, cyanosis; Rare: hemolysis, thrombocytopenia.
 
@@ -484,8 +486,8 @@ Mean increases in heart rate were 12.8 bpm and 13.4 bpm for SEROQUEL 400 mg and 
 The following adverse reactions were identified during post approval of SEROQUEL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction which were temporally related to SEROQUEL therapy include: anaphylactic reaction and galactorrhea.
+Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include: anaphylactic reaction, galactorrhea and bradycardia (which may occur at or near initiation of treatment and be associated with hypotension and/or syncope..
 
-Other adverse reactions reported since market introduction, which were temporally related to SEROQUEL therapy, but not necessarily causally related, include the following: agranulocytosis, cardiomyopathy, hyponatremia, myocarditis, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and decreased platelets.
+Other adverse reactions reported since market introduction, which were temporally related to quetiapine therapy, but not necessarily causally related, include the following: agranulocytosis, cardiomyopathy, hyponatremia, myocarditis, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), and decreased platelets.
 
 In post-marketing clinical trials, elevations in total cholesterol (predominantly LDL cholesterol), somnambulism (and other related events) and hypothermia have been reported.

@@ -72,7 +72,7 @@ Dose Selection—SEROQUEL should be administered twice daily.
 However, based on response and tolerability SEROQUEL may be administered three times daily where needed.
 
 The total daily dose for the initial five days of therapy is 50 mg (Day 1), 100 mg (Day 2), 200 mg (Day 3), 300 mg (Day 4) and 400 mg (Day 5).
-After Day 5, the dose should be adjusted within the recommended dose range of 400 to 600 mg/day based on response and tolerability.
+After Day 5, the dose should be adjusted within the recommended dose range of 400 to 600mg/day based on response and tolerability.
 Dosage adjustments should be in increments of no greater than 100 mg/day.
 Efficacy was demonstrated with SEROQUEL at both 400 mg and 600 mg; however, no additional benefit was seen in the 600 mg group.
 

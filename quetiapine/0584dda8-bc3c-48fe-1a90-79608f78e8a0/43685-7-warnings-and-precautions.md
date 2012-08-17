@@ -24,13 +24,13 @@ These risk differences (drug-placebo difference in the number of cases of suicid
 
 Table 1
 
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| Age Range | Drug-Placebo Difference in Number of Cases of Sucidality per 1000 Patients Treated |
 | --- | --- |
-|  | Increases Compared to Placebo |
+|  | Increased Compared to Placebo |
 | <18 | 14 additional cases |
-| 18–24 | 5 additional cases |
+| 18-24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25–64 | 1 fewer case |
+| 25-64 | 1 fewer cases |
 | ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
@@ -93,14 +93,14 @@ Changes in these parameters should be managed as clinically appropriate.
 
 Adults:
 
-Table 2: Fasting Glucose — Proportion of Patients Shifting to ≥ 126 mg/dL in Short-Term (≤ 12 weeks) Placebo-Controlled Studies
+1. 1.Table 2: Fasting Glucose - Proportion of Patients Shifting to ≥126 mg/dL in Short-Term (≤ 12 weeks) Placebo-Controlled StudiesIncludes SEROQUEL and SEROQUEL XR data.
 
-| Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patients n (%) |
+| Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
-| Fasting Glucose | Normal to High (<100 mg/dL to ≥ 126 mg/dL) | Quetiapine | 2907 | 71 (2.4%) |
+| Fasting Glucose | Normal to High(<100 mg/dL to ≥126 mg/dL) | Quetiapine | 2907 | 71 (2.4%) |
 | Placebo | 1346 | 19 (1.4%) |  |  |
-| Borderline to High (≥ 100 mg/dL and < 126 mg/dL to ≥ 126 mg/dL) | Quetiapine | 572 | 67 (11.7%) |  |
-| Placebo | 279 | 33 (11.8%) |  |  |
+| Borderline to High(≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Quetipine | 572 | 67 (11.7%) |  |
+| Placeob | 279 | 33 (11.8%) |  |  |
 
 In a 24-week trial (active-controlled, 115 patients treated with SEROQUEL) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of a treatment-emergent post-glucose challenge glucose level ≥ 200 mg/dL was 1.7% and the incidence of a fasting treatment-emergent blood glucose level ≥ 126 mg/dL was 2.6%.
 The mean change in fasting glucose from baseline was 3.2 mg/dL and mean change in 2 hour glucose from baseline was -1.8 mg/dL for quetiapine.
@@ -108,7 +108,9 @@ The mean change in fasting glucose from baseline was 3.2 mg/dL and mean change i
 In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar maintenance, mean exposure of 213 days for SEROQUEL (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5.0 mg/dL for SEROQUEL and –0.05 mg/dL for placebo.
 The exposure-adjusted rate of any increased blood glucose level (≥ 126 mg/dL) for patients more than 8 hours since a meal (however, some patients may not have been precluded from calorie intake from fluids during fasting period) was 18.0 per 100 patient years for SEROQUEL (10.7% of patients; n=556) and 9.5 for placebo per 100 patient years (4.6% of patients; n=581).
 
-Children and Adolescents: In a placebo-controlled SEROQUEL monotherapy study of adolescent patients (13 –17 years of age) with schizophrenia (6 weeks duration), the mean change in fasting glucose levels for SEROQUEL (n=138) compared to placebo (n=67) was –0.75 mg/dL versus –1.70 mg/dL.
+Children and Adolescents:
+
+In a placebo-controlled SEROQUEL monotherapy study of adolescent patients (13 –17 years of age) with schizophrenia (6 weeks duration), the mean change in fasting glucose levels for SEROQUEL (n=138) compared to placebo (n=67) was –0.75 mg/dL versus –1.70 mg/dL.
 In a placebo-controlled SEROQUEL monotherapy study of children and adolescent patients (10 –17 years of age) with bipolar mania (3 weeks duration), the mean change in fasting glucose level for SEROQUEL (n=170) compared to placebo (n=81) was 3.62 mg/dL versus –1.17 mg/dL.
 No patient in either study with a baseline normal fasting glucose level (<100 mg/dL) or a baseline borderline fasting glucose level (≥100 mg/dL and <126 mg/dL) had a treatment-emergent blood glucose level of ≥126 mg/dL.
 
@@ -136,7 +138,7 @@ Table 3: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglyce
 | Placebo | 70 | 11 (16%) |  |  |
 | Bipolar Depression | SEROQUEL | 436 | 59 (14%) |  |
 | Placebo | 232 | 20 (9%) |  |  |
-| LDL-Cholesterol ≥ 160 mg/dL | Schizophrenia | SEROQUEL | naParameters not measured in the SEROQUEL registration studies for schizophrenia. Lipid parameters also were not measured in the bipolar mania registration studies. | na |
+| LDL-Cholesterol ≥ 160 mg/dL | Schizophrenia6 weeks duration | SEROQUEL | naParameters not measured in the SEROQUEL registration studies for schizophrenia. Lipid parameters also were not measured in the bipolar mania registration studies | na |
 | Placebo | na | na |  |  |
 | Bipolar Depression | SEROQUEL | 465 | 29 (6%) |  |
 | Placebo | 256 | 12 (5%) |  |  |
@@ -151,19 +153,19 @@ Table 4: Percentage of Children and Adolescents with Shifts in Total Cholesterol
 
 | Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Total Cholesterol ≥ 200 mg/dL | Schizophrenia13-17 years, 6 weeks duration | SEROQUEL | 107 | 13 (12%) |
+| Total Cholesterol≥ 200 mg/dL | Schizophrenia13-17 years, 6 weeks duration | SEROQUEL | 107 | 13 (12%) |
 | Placebo | 56 | 1 (2%) |  |  |
 | Bipolar Mania10-17 years, 3 weeks duration | SEROQUEL | 159 | 16 (10%) |  |
 | Placebo | 66 | 2 (3%) |  |  |
-| Triglycerides ≥150 mg/dL | Schizophrenia | SEROQUEL | 103 | 17 (17%) |
+| Triglycerides≥150 mg/dL | Schizophrenia | SEROQUEL | 103 | 17 (17%) |
 | Placebo | 51 | 4 (8%) |  |  |
 | Bipolar Mania | SEROQUEL | 149 | 32 (22%) |  |
 | Placebo | 60 | 8 (13%) |  |  |
-| LDL-Cholesterol ≥ 130 mg/dL | Schizophrenia | SEROQUEL | 112 | 4 (4%) |
+| LDL-Cholesterol≥ 130 mg/dL | Schizophrenia | SEROQUEL | 112 | 4 (4%) |
 | Placebo | 60 | 1 (2%) |  |  |
 | Bipolar Mania | SEROQUEL | 169 | 13 (8%) |  |
 | Placebo | 74 | 4 (5%) |  |  |
-| HDL-Cholesterol ≤ 40 mg/dL | Schizophrenia | SEROQUEL | 104 | 16 (15%) |
+| HDL-Cholesterol≤ 40 mg/dL | Schizophrenia | SEROQUEL | 104 | 16 (15%) |
 | Placebo | 54 | 10 (19%) |  |  |
 | Bipolar Mania | SEROQUEL | 154 | 16 (10%) |  |
 | Placebo | 61 | 4 (7%) |  |  |
@@ -182,13 +184,13 @@ Table 5: Proportion of Patients with Weight Gain ≥7% of Body Weight (Adults)
 
 | Vital Sign | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Weight Gain ≥7% of Body Weight | Schizophreniaup to 6 weeks duration | SEROQUEL | 391 | 89 (23%) |
+| Weight Gain ≥7% of Body Weight | SchizophreniaUp to 6 weeks duration | SEROQUEL | 391 | 89 (23%) |
 | Placebo | 206 | 11 (6%) |  |  |
-| Bipolar Mania (monotherapy)up to 12 weeks duration | SEROQUEL | 209 | 44 (21%) |  |
+| Bipolar Mania (monotherapy)Up to 12 weeks duration | SEROQUEL | 209 | 44 (21%) |  |
 | Placebo | 198 | 13 (7%) |  |  |
-| Bipolar Mania (adjunct therapy)up to 3 weeks duration | SEROQUEL | 196 | 25 (13%) |  |
+| Bipolar Mania(adjunct therapy)Up to 3 weeks duration | SEROQUEL | 196 | 25 (13%) |  |
 | Placebo | 203 | 8 (4%) |  |  |
-| Bipolar Depressionup to 8 weeks duration | SEROQUEL | 554 | 47 (8%) |  |
+| Bipolar DepressionUp to 8 weeks duration | SEROQUEL | 554 | 47 (8%) |  |
 | Placebo | 295 | 7 (2%) |  |  |
 
 Children and Adolescents: In two clinical trials with SEROQUEL, one in bipolar mania and one in schizophrenia, reported increases in weight are included in the table below.
@@ -197,9 +199,9 @@ Table 6: Proportion of Patients with Weight Gain ≥7% of Body Weight (Children 
 
 | Vital Sign | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Weight Gain ≥7% of Body Weight | Schizophrenia: 6 weeks duration | SEROQUEL | 111 | 23 (21%) |
+| Weight Gain ≥7% of Body Weight | Schizophrenia6 weeks duration | SEROQUEL | 111 | 23 (21%) |
 | Placebo | 44 | 3 (7%) |  |  |
-| Bipolar Mania: 3 weeks duration | SEROQUEL | 157 | 18 (12%) |  |
+| Bipolar Mania3 weeks duration | SEROQUEL | 157 | 18 (12%) |  |
 | Placebo | 68 | 0 (0%) |  |  |
 
 The mean change in body weight in the schizophrenia trial was 2.0 kg in the SEROQUEL group and -0.4 kg in the placebo group and in the bipolar mania trial it was 1.7 kg in the SEROQUEL group and 0.4 kg in the placebo group.
@@ -300,12 +302,12 @@ In eight patients, where TBG was measured, levels of TBG were unchanged.
 Table 7 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
 
 Table 7: Incidence of potentially clinically significant shifts in thyroid hormone levels and TSH in short term placebo-controlled clinical trialsBased on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
-Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is > 5 mIU/L at any time.
+Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mIU/L at any time.Includes SEROQUEL and SEROQUEL XR data.
 
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo |
-| 3.4 % (37/1097) | 0.6% (4/651) | 0.7% (52/7218) | 0.1% (4/3668) | 0.5% (2/369) | 0.0% (0/113) | 0.2% (11/5673) | 0.0% (1/2679) | 3.2% (240/7587) | 2.7% (105/3912) |
+| 3.4%(37/1097) | 0.6%(4/651) | 0.7%(52/7218) | 0.1%(4/3668) | 0.5%(2/369) | 0.0%(0/113) | 0.2%(11/5673) | 0.0%(1/2679) | 3.2%(240/7587) | 2.7%(105/3912) |
 
 In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, potentially clinically significant shifts in T3 and TSH was 0.0 % for both quetiapine (1/4800) and placebo (0/2190) and for T4 and TSH the shifts were 0.1% (7/6154) for quetiapine versus 0.0% (1/3007) for placebo.
 
