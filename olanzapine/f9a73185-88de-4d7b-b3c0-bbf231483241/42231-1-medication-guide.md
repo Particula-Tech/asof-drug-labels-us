@@ -1,6 +1,10 @@
 Medication Guide
 
-ZYPREXA® RELPREVV™ (zy-PREX-a REL-prev) (olanzapine) For Extended Release Injectable Suspension
+ZYPREXA® RELPREVV™ (zy-PREX-a REL-prev)
+
+(olanzapine)
+
+For Extended Release Injectable Suspension
 
 Read the Medication Guide that comes with ZYPREXA RELPREVV before you start taking it and each time before you get an injection.
 There may be new information.
@@ -9,73 +13,83 @@ Talk with your doctor if there is something you do not understand or you want to
 
 What is the most important information I should know about ZYPREXA RELPREVV?
 
-To receive ZYPREXA RELPREVV you have to:
+Before you receive ZYPREXA RELPREVV treatment you must:
 
-- talk to your doctor to understand the benefits and risks of ZYPREXA RELPREVV
-- register in and agree to the rules of the ZYPREXA RELPREVV Patient Care Program
+- understand the risks and benefits of ZYPREXA RELPREVV treatment.
+  Your doctor will talk to you about the risks and benefits of ZYPREXA RELPREVV treatment.
+- register in the ZYPREXA RELPREVV Patient Care Program.
+  You must agree to the rules of the ZYPREXA RELPREVV Patient Care Program before you register.
 
-Serious side effects may happen when you take ZYPREXA RELPREVV, including:
+ZYPREXA RELPREVV may cause serious side effects, including:
 
-Post-injection Delirium Sedation Syndrome (PDSS): PDSS is a serious reaction that can happen after you get a ZYPREXA RELPREVV injection if the medicine gets in your blood too fast.
-If this happens, you may have some of these symptoms:
+1. Post-injection Delirium Sedation Syndrome (PDSS).
+2. Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
+3. High blood sugar (hyperglycemia).
+4. High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17.
+5. Weight gain, especially in teenagers age 13 to 17.
 
-- feel more sleepy than usual
-- feel dizzy
-- feel confused or disoriented
-- trouble talking or walking
-- muscles feel stiff or shaking
-- feel weak
-- feel grouchy or angry
-- feel nervous or anxious
-- higher blood pressure
-- seizures
-- pass out (become unconscious or coma)
+These serious side effects are described below.
 
-If you have symptoms of PDSS, you need to get medical help or be taken to an emergency room right away.
-
-Increased risk of death in elderly patients with dementia-related psychosis: Medicines like ZYPREXA RELPREVV can raise the risk of death in elderly people who have lost touch with reality (psychosis) due to confusion and memory loss (dementia).
-ZYPREXA RELPREVV is not approved for treating psychosis in the elderly with dementia.
-
-High blood sugar (hyperglycemia): High blood sugar can happen if you have diabetes already or even if you have never had diabetes.
-In rare cases, this could lead to ketoacidosis (build up of acid in the blood due to ketones), coma, or death.
-Your doctor should do lab tests to check your blood sugar before you start taking ZYPREXA RELPREVV and during treatment.
-In people who do not have diabetes, sometimes high blood sugar goes away when ZYPREXA RELPREVV is stopped.
-People with diabetes and some people who did not have diabetes before taking ZYPREXA RELPREVV need to take medicine for high blood sugar even after they stop taking ZYPREXA RELPREVV.
-
-If you have diabetes, follow your doctor's instructions about how often to check your blood sugar while taking ZYPREXA RELPREVV.
-
-Call your doctor if you have any of these symptoms of high blood sugar (hyperglycemia) while taking ZYPREXA RELPREVV:
-
-- feel very thirsty
-- need to urinate more than usual
-- feel very hungry
-- feel weak or tired
-- feel sick to your stomach
-- feel confused, or your breath smells fruity.
-
-High cholesterol and triglyceride levels in the blood (fat in the blood) may happen in people treated with ZYPREXA RELPREVV, especially in teenagers (13-17 years old).
-ZYPREXA RELPREVV is not approved in patients less than 18 years old.
-You may not have any symptoms, so your doctor should do blood tests to check your cholesterol and triglyceride levels before you start taking ZYPREXA RELPREVV and during treatment.
-
-Increase in weight (weight gain): Weight gain is very common in people who take ZYPREXA RELPREVV.
-Teenagers (13-17 years old) are more likely to gain weight and to gain more weight than adults.
-ZYPREXA RELPREVV is not approved in patients less than 18 years old.
-Some people may gain a lot of weight while taking ZYPREXA RELPREVV, so you and your doctor should check your weight regularly.
-Talk to your doctor about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
-
-Increased risk in teenagers (13-17 years old): ZYPREXA RELPREVV is not approved in patients less than 18 years old.
-Possible serious risks of weight gain and increases in cholesterol and triglycerides are more common in teenagers than in adults.
-You and your doctor should decide if other available treatments should be used first.
-Before your teenager takes ZYPREXA RELPREVV, talk with your doctor about the possible long-term risks of teenagers taking ZYPREXA RELPREVV.
+1. Post-injection Delirium Sedation Syndrome (PDSS).
+   PDSS is a serious problem that can happen after you get a ZYPREXA RELPREVV injection if the medicine gets in your blood too fast.
+   This problem usually happens within 3 hours after you receive ZYPREXA RELPREVV.
+   If the medicine gets in your blood too fast, you may have some of the following symptoms:You will need to stay at the clinic where you receive the injection for at least 3 hours so your doctor can make sure you do not have symptoms of PDSS.
+   When you leave the clinic someone must be with you.
+   If you have symptoms of PDSS after you leave the clinic, get medical help or go to an emergency room right away.
+   - feel more sleepy than usual
+   - feel dizzy
+   - feel confused or disoriented
+   - trouble talking or walking
+   - muscles feel stiff or shaking
+   - feel weak
+   - feel grouchy or angry
+   - feel nervous or anxious
+   - higher blood pressure
+   - seizures (convulsions)
+   - pass out (become unconscious or coma)
+2. Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
+   ZYPREXA RELPREVV is not approved for treating psychosis in elderly people with dementia.
+3. High blood sugar (hyperglycemia).
+   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
+   High blood sugar could lead to:Your doctor should do tests to check your blood sugar before you start taking ZYPREXA RELPREVV and during treatment.
+   In people who do not have diabetes, sometimes high blood sugar goes away when ZYPREXA RELPREVV is stopped.
+   People with diabetes and some people who did not have diabetes before taking ZYPREXA RELPREVV need to take medicine for high blood sugar even after they stop taking ZYPREXA RELPREVV.
+   If you have diabetes, follow your doctor's instructions about how often to check your blood sugar while taking ZYPREXA RELPREVV.
+   Call your doctor if you have any of these symptoms of high blood sugar (hyperglycemia) while taking ZYPREXA RELPREVV:
+   - a build up of acid in your blood due to ketones (ketoacidosis)
+   - coma
+   - death
+   - feel very thirsty
+   - need to urinate more than usual
+   - feel very hungry
+   - feel weak or tired
+   - feel sick to your stomach
+   - feel confused or your breath smells fruity
+4. High fat levels in your blood (cholesterol and triglycerides).
+   High fat levels may happen in people treated with ZYPREXA RELPREVV, especially in teenagers (13 to 17 years old).
+   ZYPREXA RELPREVV is not approved in patients less than 18 years old.
+   You may not have any symptoms, so your doctor should do blood tests to check your cholesterol and triglyceride levels before you start taking ZYPREXA RELPREVV and during treatment.
+5. Weight gain.
+   Weight gain is very common in people who take ZYPREXA RELPREVV.
+   Teenagers (13 to 17 years old) are more likely to gain weight and to gain more weight than adults.
+   ZYPREXA RELPREVV is not approved in patients less than 18 years old.
+   Some people may gain a lot of weight while taking ZYPREXA RELPREVV, so you and your doctor should check your weight regularly.
+   Talk to your doctor about ways to control weight gain, such as eating a healthy, balanced diet, and exercising.
 
 What is ZYPREXA RELPREVV?
 
-ZYPREXA RELPREVV is a long-acting prescription medicine given by injection used to treat schizophrenia in adults.
-The symptoms of schizophrenia include hearing voices, seeing things that are not there, having beliefs that are not true, and being suspicious or withdrawn.
-Treatment with ZYPREXA RELPREVV may lessen some of your symptoms of schizophrenia.
+ZYPREXA RELPREVV is a long-acting prescription medicine given by injection and used to treat schizophrenia in adults.
+The symptoms of schizophrenia include:
+
+- hearing voices
+- seeing things that are not there
+- having beliefs that are not true
+- being suspicious or withdrawn
+
+Some of your symptoms of schizophrenia may improve with treatment with ZYPREXA RELPREVV.
 If you do not think you are getting better, call your doctor.
 
-It is not known if ZYPREXA RELPREVV is safe and works in children younger than 18 years old.
+It is not known if ZYPREXA RELPREVV is safe and effective in children under 18 years of age.
 
 What should I tell my doctor before taking ZYPREXA RELPREVV?
 
@@ -113,18 +127,17 @@ ZYPREXA RELPREVV and some medicines may interact with each other and may not wor
 Your doctor can tell you if it is safe to take ZYPREXA RELPREVV with your other medicines.
 Do not start or stop any medicine while taking ZYPREXA RELPREVV without talking to your doctor first.
 
-How will I receive ZYPREXA RELPREVV?
+How should I receive ZYPREXA RELPREVV?
 
 - ZYPREXA RELPREVV will be injected into the muscle in your buttock (gluteus) by your doctor or nurse at the clinic.
 - After receiving ZYPREXA RELPREVV, you will need to stay at the clinic for at least 3 hours.
 - When you leave the clinic, someone must be with you.
-- You should not drive or use heavy machinery for the rest of the day after receiving ZYPREXA RELPREVV.
 - Call your doctor if you do not think you are getting better or have any concerns about your condition while taking ZYPREXA RELPREVV.
 
-What should I avoid while taking ZYPREXA RELPREVV?
+What should I avoid while receiving ZYPREXA RELPREVV?
 
 - ZYPREXA RELPREVV can cause sleepiness and may affect your ability to make decisions, think clearly, or react quickly.
-  You should not drive, operate heavy machinery, or do other dangerous activities until you know how ZYPREXA RELPREVV affects you.
+  Do not drive, operate heavy machinery, or do other dangerous activities until you know how ZYPREXA RELPREVV affects you.
   You should not drive or operate heavy machinery for the rest of the day after each injection.
 - Avoid drinking alcohol while taking ZYPREXA RELPREVV.
   Drinking alcohol while you take ZYPREXA RELPREVV may make you sleepier than if you take ZYPREXA RELPREVV alone.
@@ -143,13 +156,13 @@ Serious side effects may happen when you take ZYPREXA RELPREVV, including:
   - excessive sweating
   - rigid muscles
   - confusion
-  - changes in your breathing, heartbeat, and blood pressure.
+  - changes in your breathing, heartbeat, and blood pressure
 - Tardive Dyskinesia: This condition causes body movements that keep happening and that you can not control.
   These movements usually affect the face and tongue.
   Tardive dyskinesia may not go away, even if you stop taking ZYPREXA RELPREVV.
   It may also start after you stop taking ZYPREXA RELPREVV.
   Tell your doctor if you get any body movements that you can not control.
-- Decreased blood pressure when you change positions, with symptoms of dizziness, fast or slow heart beat, or fainting.
+- Decreased blood pressure when you change positions, with symptoms of dizziness, fast or slow heartbeat, or fainting.
 - Difficulty swallowing, that can cause food or liquid to get into your lungs.
 - Seizures: Tell your doctor if you have a seizure during treatment with ZYPREXA RELPREVV.
 - Problems with control of body temperature: You could become very hot, for instance when you exercise a lot or stay in an area that is very hot.
@@ -159,7 +172,7 @@ Serious side effects may happen when you take ZYPREXA RELPREVV, including:
   - dry mouth
   - feeling very hot
   - feeling thirsty
-  - not able to produce urine.
+  - not able to produce urine
 
 Common side effects of ZYPREXA RELPREVV include: headache, sleepiness or drowsiness, weight gain, dry mouth, diarrhea, nausea, common cold, eating more (increased appetite), vomiting, cough, back pain, or pain at the injection site.
 
@@ -188,7 +201,7 @@ Inactive ingredients: carboxymethylcellulose sodium, mannitol, polysorbate 80, s
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised July 5, 2011
+Medication Guide revised August 3, 2012
 
 Marketed by: Lilly USA, LLC
 
@@ -196,7 +209,7 @@ Indianapolis, IN 46285, USA
 
 www.zyprexarelprevv.com
 
-Copyright © 2009, 2011, Eli Lilly and Company.
+Copyright © 2009, 2012, Eli Lilly and Company.
 All rights reserved.
 
-PV 5941 AMP
+PV 5942 AMP
