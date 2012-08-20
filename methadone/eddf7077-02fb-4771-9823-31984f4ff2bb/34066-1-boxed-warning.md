@@ -1,22 +1,29 @@
-Deaths, cardiac and respiratory, have been reported during initiation and conversion of pain patients to methadone treatment from treatment with other opioid agonists.
-It is critical to understand the pharmacokinetics of methadone when converting patients from other opioids (see DOSAGE AND ADMINISTRATION).
-Particular vigilance is necessary during treatment initiation, during conversion from one opioid to another, and during dose titration.
+WARNING: ABUSE POTENTIAL, LIFE-THREATENING RESPIRATORY DEPRESSION, LIFE-THREATENING QT PROLONGATION, ACCIDENTAL EXPOSURE, and TREATMENT FOR OPIOID ADDICTION
 
-Respiratory depression is the chief hazard associated with methadone hydrochloride administration.
-Methadone's peak respiratory depressant effects typically occur later, and persist longer than its peak analgesic effects, particularly in the early dosing period.
-These characteristics can contribute to cases of iatrogenic overdose, particularly during treatment initiation and dose titration.
+Abuse Potential
 
-In addition, cases of QT interval prolongation and serious arrhythmia (torsades de pointes) have been observed during treatment with methadone.
+Methadone hydrochloride tablets contain methadone, an opioid agonist and Schedule II controlled substance with an abuse liability similar to other opioid agonists, legal or illicit [see Warnings and Precautions (5.1)].
+Assess each patient’s risk for opioid abuse or addiction prior to prescribing methadone hydrochloride tablets.
+The risk for opioid abuse is increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depressive disorder).
+Routinely monitor all patients receiving methadone hydrochloride tablets for signs of misuse, abuse, and addiction during treatment [see Drug Abuse and Dependence (9)].
+
+Life-Threatening Respiratory Depression
+
+Respiratory depression, including fatal cases, have been reported during initiation and conversion of patients to methadone hydrochloride tablets, and even when the drug has been used as recommended and not misused or abused [see Warnings and Precautions (5.2)].
+Proper dosing and titration are essential and methadone hydrochloride tablets should only be prescribed by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
+Monitor for respiratory depression, especially during initiation of methadone hydrochloride tablets or following a dose increase.
+The peak respiratory depressant effect of methadone hydrochloride tablets occurs later, and persists longer than the peak analgesic effect, especially during the initial dosing period.
+
+Life-Threatening QT Prolongation
+
+QT interval prolongation and serious arrhythmia (torsades de pointes) have occurred during treatment with methadone.
 Most cases involve patients being treated for pain with large, multiple daily doses of methadone, although cases have been reported in patients receiving doses commonly used for maintenance treatment of opioid addiction.
+Closely monitor patients for changes in cardiac rhythm during initiation and titration of methadone hydrochloride tablets.
 
-Methadone treatment for analgesic therapy in patients with acute or chronic pain should only be initiated if the potential analgesic or palliative care benefit of treatment with methadone is considered and outweighs the risks.
+Accidental Exposure
 
-## Conditions for Distribution and Use of Methadone Products for the Treatment of Opioid Addiction
+Accidental ingestion of methadone hydrochloride tablets, especially in children, can result in a fatal overdose of methadone [see Warnings and Precautions (5.4)].
 
-Code of Federal Regulations, Title 42, Sec 8
+Conditions For Distribution And Use Of Methadone Products For The Treatment Of Opioid Addiction
 
-Methadone products when used for the treatment of opioid addiction in detoxification or maintenance programs, shall be dispensed only by opioid treatment programs (and agencies, practitioners or institutions by formal agreement with the program sponsor) certified by the Substance Abuse and Mental Health Services Administration and approved by the designated state authority.
-Certified treatment programs shall dispense and use methadone in oral form only and according to the treatment requirements stipulated in the Federal Opioid Treatment Standards (42 CFR 8.12).
-See below for important regulatory exceptions to the general requirement for certification to provide opioid agonist treatment.
-
-Failure to abide by the requirements in these regulations may result in criminal prosecution, seizure of the drug supply, revocation of the program approval, and injunction precluding operation of the program.
+For detoxification and maintenance of opioid dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8, including limitations on unsupervised administration [see Indications and Usage (1)].
