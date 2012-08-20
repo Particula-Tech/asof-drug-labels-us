@@ -1,0 +1,17 @@
+{
+  "application_numbers": [],
+  "inn": "tetracaine",
+  "labeler": "Alcon Laboratories, Inc.",
+  "package_ndcs": [
+    "0065-0741-12"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tetracaine hydrochloride",
+      "name": "Tetracaine Hydrochloride"
+    }
+  ],
+  "setid": "5c7b1de4-9f55-1d0e-ef6d-b0ba2cbaba79",
+  "source": "dailymed"
+}
