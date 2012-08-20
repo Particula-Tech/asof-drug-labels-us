@@ -19,5 +19,3 @@ The hydrolysis product and major human metabolite of levetiracetam (ucb L057) wa
 ### Impairment of Fertility
 
 No adverse effects on male or female fertility or reproductive performance were observed in rats at oral doses up to 1800 mg/kg/day (6 times the maximum recommended human dose on a mg/m2 or systemic exposure [AUC] basis).
-
-## 13.2 Animal Toxicology and/or Pharmacology
