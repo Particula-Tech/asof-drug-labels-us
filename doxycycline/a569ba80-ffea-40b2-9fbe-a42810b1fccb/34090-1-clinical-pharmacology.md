@@ -4,10 +4,10 @@ Tetracyclines are readily absorbed and are bound to plasma proteins in varying d
 They are concentrated by the liver in the bile, and excreted in the urine and feces at high concentrations and in a biologically active form.
 Doxycycline is virtually completely absorbed after oral administration.
 
-Following a 200 mg dose, normal adult volunteers averaged peak serum levels of 2.6 mcg/mL of doxycycline at 2 hours decreasing to 1.45 mcg/mL at 24 hours.
+Following a 200 mg dose, normal adult volunteers averaged peak serum levels of 2.6 mcg/mL of doxycycline at 2 hours, decreasing to 1.45 mcg/mL at 24 hours.
 Excretion of doxycycline by the kidney is about 40%/72 hours in individuals with normal function (creatinine clearance about 75 mL/min.).
-This percentage excretion may fall as low as 1-5%/72 hours in individuals with severe renal insufficiency (creatinine clearance below 10 mL/min.).
-Studies have shown no significant difference in serum half-life of doxycycline (range 18-22 hours) in individuals with normal and severely impaired renal function.
+This percentage excretion may fall as low as 1 to 5%/72 hours in individuals with severe renal insufficiency (creatinine clearance below 10 mL/min.).
+Studies have shown no significant difference in serum half-life of doxycycline (range 18 to 22 hours) in individuals with normal and severely impaired renal function.
 
 Hemodialysis does not alter serum half-life.
 
@@ -27,7 +27,7 @@ Cross-resistance of these organisms to tetracyclines is common.
 - Haemophilus influenzae
 - Yersinia pestis (formerly Pasteurella pestis)
 - Francisella tularensis (formerly Pasteurella tularensis)
-- Vibrio cholera (formerly Vibrio comma)
+- Vibrio cholerae (formerly Vibrio comma)
 - Bartonella bacilliformis
 - Brucella species
 
@@ -43,7 +43,7 @@ Because many strains of the following groups of gram-negative microorganisms hav
 ## Gram-Positive Bacteria
 
 Because many strains of the following groups of gram-positive microorganisms have been shown to be resistant to tetracycline, culture and susceptibility testing are recommended.
-Up to 44% of strains of Streptococcus pyogenes and 74% of Streptococcus faecalis have been found to be resistant to tetracycline drugs.
+Up to 44 percent of strains of Streptococcus pyogenes and 74 percent of Streptococcus faecalis have been found to be resistant to tetracycline drugs.
 Therefore, tetracycline should not be used for streptococcal disease unless the organism has been demonstrated to be susceptible.
 
 - Streptococcus pyogenes
@@ -70,10 +70,12 @@ Therefore, tetracycline should not be used for streptococcal disease unless the 
 - Balantidium coli
 - Plasmodium falciparum
 
-Doxycycline has been found to be active against the asexual erythrocytic forms of Plasmodium falciparum but not against the gametocytes of P. falciparum.
+Doxycycline has been found to be active against the asexual erythrocytic forms of Plasmodium falciparum, but not against the gametocytes of P. falciparum.
 The precise mechanism of action of the drug is not known.
 
-Susceptibility tests: Diffusion techniques:
+## Susceptibility tests:
+
+Diffusion techniques:
 
 Quantitative methods that require measurement of zone diameters give the most precise estimate of the susceptibility of bacteria to antimicrobial agents.
 One such standard procedure1 which has been recommended for use with disks to test susceptibility of organisms to doxycycline uses the 30-mcg tetracycline-class disk or the 30-mcg doxycycline disk.
@@ -84,12 +86,12 @@ Reports from the laboratory giving results of the standard single-disk susceptib
 | Zone diameter (mm) |  | Interpretation |
 | --- | --- | --- |
 | tetracycline | doxycycline |  |
-| ≥19 | ≥16 | Susceptible |
-| 15-18 | 13-15 | Intermediate |
-| ≤14 | ≤12 | Resistant |
+| ≥ 19 | ≥ 16 | Susceptible |
+| 15 to 18 | 13 to 15 | Intermediate |
+| ≤ 14 | ≤ 12 | Resistant |
 
 A report of “Susceptible” indicates that the pathogen is likely to be inhibited by generally achievable blood levels.
-A report of “Intermediate” suggests that the organism would be susceptible if a high dosage is used or if the infection is confined to tissues and fluids in which antimicrobial levels are attained.
+A report of “Intermediate” suggests that the organism would be susceptible if a high dosage is used or if the infection is confined to tissues and fluids in which high antimicrobial levels are attained.
 A report of “Resistant” indicates that achievable concentrations are unlikely to be inhibitory, and other therapy should be selected.
 
 Standardized procedures require the use of laboratory control organisms.
@@ -98,8 +100,8 @@ The 30-mcg tetracycline-class disk or the 30-mcg doxycycline disk should give th
 | Organism | Zone Diameter (mm) |  |
 | --- | --- | --- |
 |  | tetracycline | doxycycline |
-| E. coli ATCC 25922 | 18-25 | 18-24 |
-| S. aureus ATCC 25923 | 19-28 | 23-29 |
+| E. coli ATCC 25922 | 18 to 25 | 18 to 24 |
+| S. aureus ATCC 25923 | 19 to 28 | 23 to 29 |
 
 Dilution techniques:
 
@@ -108,16 +110,16 @@ The MIC values obtained should be interpreted according to the following criteri
 
 | MIC (mcg/mL) | Interpretation |
 | --- | --- |
-| ≤4 | Susceptible |
+| ≤ 4 | Susceptible |
 | 8 | Intermediate |
-| ≥16 | Resistant |
+| ≥ 16 | Resistant |
 
 As with standard diffusion techniques, dilution methods require the use of laboratory control organisms.
 Standard tetracycline powder should provide the following MIC values:
 
 | Organism | MIC (mcg/mL) |
 | --- | --- |
-| E. coli ATCC 25922 | 1-4 |
-| S. aureus ATCC 29213 | 0.25-1 |
-| E. faecalis ATCC 29212 | 8-32 |
-| P. aeruginosa ATCC 27853 | 8-32 |
+| E. coli ATCC 25922 | 1 to 4 |
+| S. aureus ATCC 29213 | 0.25 to 1 |
+| E. faecalis ATCC 29212 | 8 to 32 |
+| P. aeruginosa ATCC 27853 | 8 to 32 |

@@ -8,9 +8,11 @@ Doxycycline Hyclate Tablets (equivalent to 100 mg Doxycycline) are round, film-c
 
 Dispense in a tight, light-resistant container with child-resistant closure.
 
-Recommended storage: Store below 30°C (86°F).
+## Recommended storage:
 
-ANIMAL PHARMACOLOGY AND ANIMAL TOXICOLOGY
+Store below 30°C (86°F).
+
+## ANIMAL PHARMACOLOGY AND ANIMAL TOXICOLOGY
 
 Hyperpigmentation of the thyroid has been produced by members of the tetracycline class in the following species: in rats by oxytetracycline, doxycycline, tetracycline PO4, and methacycline; in minipigs by doxycycline, minocycline, tetracycline PO4, and methacycline; in dogs by doxycycline and minocycline; in monkeys by minocycline.
 

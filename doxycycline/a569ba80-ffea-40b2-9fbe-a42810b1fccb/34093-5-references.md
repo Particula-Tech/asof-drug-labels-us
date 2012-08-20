@@ -8,7 +8,7 @@
    Teratogenic Effects of Drugs.
    A Resource for Clinicians (TERIS).
    Baltimore, MD: The Johns Hopkins University Press, 2000: 149-195. bCziezel AE and Rockenbauer M. Teratogenic study of doxycycline.
-   Obstet Gynecol 1997; 89: 524-528. cHorne HW Jr. and Kundsin RB.
+   Obstet Gynecol 1997; 89: 524-528. cHorne HW Jr and Kundsin RB.
    The role of mycoplasma among 81 consecutive pregnancies: a prospective study.
    Int J Fertil 1980; 25: 315-317. dHale T. Medications and Mothers Milk.
    9th edition.
@@ -16,6 +16,6 @@
 
 Manufactured by: Watson Laboratories, Inc. Corona, CA 92880 USA
 
-Distributed by: Watson Pharma, Inc. Corona, CA 92880 USA
+Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: February 2009
+Revised: June 2012

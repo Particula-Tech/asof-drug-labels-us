@@ -12,9 +12,9 @@ Doxycycline is indicated for the treatment of the following infections:
 - Respiratory tract infections caused by Mycoplasma pneumoniae.
 - Lymphogranuloma venereum caused by Chlamydia trachomatis.
 - Psittacosis (ornithosis) caused by Chlamydia psittaci.
-- Trachoma caused by Chlamydia trachomatis, although the infectious agent is not always eliminated as judged by immunofluorescence.
+- Trachoma caused by Chlamydia trachomatis, although the infectious agent is not always eliminated, as judged by immunofluorescence.
 - Inclusion conjunctivitis caused by Chlamydia trachomatis.
-- Uncomplicated urethral, endocervical or rectal infections in adults caused by Chlamydia trachomatis.
+- Uncomplicated urethral, endocervical, or rectal infections in adults caused by Chlamydia trachomatis.
 - Nongonococcal urethritis caused by Ureaplasma urealyticum.
 - Relapsing fever due to Borrelia recurrentis.
 
@@ -49,17 +49,11 @@ Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure
 When penicillin is contraindicated, doxycycline is an alternative drug in the treatment of the following infections:
 
 - Uncomplicated gonorrhea caused by Neisseria gonorrhoeae.
-
 - Syphilis caused by Treponema pallidum.
-
 - Yaws caused by Treponema pertenue.
-
 - Listeriosis due to Listeria monocytogenes.
-
 - Vincent’s infection caused by Fusobacterium fusiforme.
-
 - Actinomycosis caused by Actinomyces israelii.
-
 - Infections caused by Clostridium species.
 
 In acute intestinal amebiasis, doxycycline may be a useful adjunct to amebicides.
@@ -69,4 +63,4 @@ In severe acne, doxycycline may be useful adjunctive therapy.
 ## Prophylaxis:
 
 Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (<4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains.
-See DOSAGE AND ADMINISTRATION section and Information For Patients subsection of the PRECAUTIONS section.
+(See DOSAGE AND ADMINISTRATION section and Information for Patients subsection of the PRECAUTIONS section.)
