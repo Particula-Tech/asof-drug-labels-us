@@ -13,15 +13,15 @@ Therapy with AVELOX may be initiated before results of these tests are known; on
 
 ## 1.1 Acute Bacterial Sinusitis
 
-AVELOX is indicated for the treatment of Acute Bacterial Sinusitis caused by Streptococcus pneumoniae, Haemophilusinfluenzae, or Moraxella catarrhalis [see Clinical Studies (14.4)].
+AVELOX is indicated for the treatment of Acute Bacterial Sinusitis caused by Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis [see Clinical Studies (14.4)].
 
 ## 1.2 Acute Bacterial Exacerbation of Chronic Bronchitis
 
-AVELOX is indicated for the treatment of Acute Bacterial Exacerbation of Chronic Bronchitis caused by Streptococcus pneumoniae, Haemophilusinfluenzae, Haemophilusparainfluenzae, Klebsiellapneumoniae, methicillin-susceptible Staphylococcus aureus, or Moraxella catarrhalis [see Clinical Studies (14.1)].
+AVELOX is indicated for the treatment of Acute Bacterial Exacerbation of Chronic Bronchitis caused by Streptococcus pneumoniae, Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiell apneumoniae, methicillin-susceptible Staphylococcus aureus, or Moraxella catarrhalis [see Clinical Studies (14.1)].
 
 ## 1.3 Community Acquired Pneumonia
 
-AVELOX is indicated for the treatment of Community Acquired Pneumonia caused by Streptococcus pneumoniae (including multi-drug resistant strains*), Haemophilusinfluenzae, Moraxella catarrhalis, methicillin-susceptible Staphylococcus aureus, Klebsiellapneumoniae, Mycoplasma pneumoniae, or Chlamydophilapneumoniae.
+AVELOX is indicated for the treatment of Community Acquired Pneumonia caused by Streptococcus pneumoniae (including multi-drug resistant strains*), Haemophilus influenzae, Moraxella catarrhalis, methicillin-susceptible Staphylococcus aureus, Klebsiella pneumoniae, Mycoplasma pneumoniae, or Chlamydophila pneumoniae.
 
 * MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are strains resistant to two or more of the following antibiotics: penicillin (minimum inhibitory concentrations [MIC] ≥ 2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole [see Clinical Studies (14.2)].
 
@@ -31,8 +31,8 @@ AVELOX is indicated for the treatment of Uncomplicated Skin and Skin Structure I
 
 ## 1.5 Complicated Skin and Skin Structure Infections
 
-AVELOX is indicated for the treatment of Complicated Skin and Skin Structure Infections caused by methicillin-susceptible Staphylococcus aureus, Escherichia coli, Klebsiellapneumoniae, or Enterobactercloacae[see Clinical Studies (14.6)].
+AVELOX is indicated for the treatment of Complicated Skin and Skin Structure Infections caused by methicillin-susceptible Staphylococcus aureus, Escherichia coli, Klebsiella pneumoniae, or Enterobacter cloacae[see Clinical Studies (14.6)].
 
 ## 1.6 Complicated Intra-Abdominal Infections
 
-AVELOX is indicated for the treatment of Complicated Intra-Abdominal Infections including polymicrobial infections such as abscess caused by Escherichia coli, Bacteroidesfragilis, Streptococcus anginosus, Streptococcus constellatus, Enterococcus faecalis, Proteus mirabilis, Clostridium perfringens, Bacteroidesthetaiotaomicron, or Peptostreptococcusspecies [see Clinical Studies (14.7)].
+AVELOX is indicated for the treatment of Complicated Intra-Abdominal Infections including polymicrobial infections such as abscess caused by Escherichia coli, Bacteroides fragilis, Streptococcus anginosus, Streptococcus constellatus, Enterococcus faecalis, Proteus mirabilis, Clostridium perfringens, Bacteroides thetaiotaomicron, or Peptostreptococcusspecies [see Clinical Studies (14.7)].

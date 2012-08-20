@@ -12,11 +12,11 @@ Table 10 Clinical Success Rates at Follow-Up Visit for Clinically Evaluable Pati
 | PATHOGEN | AVELOX | Clarithromycin |
 | --- | --- | --- |
 | Streptococcus pneumoniae | 16/16 (100%) | 20/23 (87%) |
-| Haemophilusinfluenzae | 33/37 (89%) | 36/41 (88%) |
-| Haemophilusparainfluenzae | 16/16 (100%) | 14/14 (100%) |
+| Haemophilus influenzae | 33/37 (89%) | 36/41 (88%) |
+| Haemophilus parainfluenzae | 16/16 (100%) | 14/14 (100%) |
 | Moraxella catarrhalis | 29/34 (85%) | 24/24 (100%) |
 | Staphylococcus aureus | 15/16 (94%) | 6/8 (75%) |
-| Klebsiellapneumoniae | 18/20 (90%) | 10/11 (91%) |
+| Klebsiella pneumoniae | 18/20 (90%) | 10/11 (91%) |
 
 The microbiological eradication rates (eradication plus presumed eradication) in AVELOX treated patients were Streptococcus pneumoniae 100%, Haemophilus influenzae89%, Haemophilus parainfluenzae100%, Moraxella catarrhalis85%, Staphylococcus aureus 94%, and Klebsiella pneumonia 85%.
 
@@ -43,9 +43,9 @@ Table 11 Clinical Success Rates By Pathogen (Pooled CAP Studies)
 | --- | --- | --- |
 | Streptococcus pneumoniae | 80/85 | (94%) |
 | Staphylococcus aureus | 17/20 | (85%) |
-| Klebsiellapneumoniae | 11/12 | (92%) |
-| Haemophilusinfluenzae | 56/61 | (92%) |
-| Chlamydophilapneumoniae | 119/128 | (93%) |
+| Klebsiella pneumoniae | 11/12 | (92%) |
+| Haemophilus influenzae | 56/61 | (92%) |
+| Chlamydophila pneumoniae | 119/128 | (93%) |
 | Mycoplasma pneumoniae | 73/76 | (96%) |
 | Moraxella catarrhalis | 11/12 | (92%) |
 
@@ -123,7 +123,7 @@ Table 15 Clinical Success Rates by Pathogen in Patients with Complicated Skin an
 | --- | --- | --- |
 | Staphylococcus aureus (methicillin-susceptible strains)methicillin susceptibility was only determined in the North American Study | 106/129 (82.2%) | 120/137 (87.6%) |
 | Escherichia coli | 31/38 (81.6 %) | 28/33 (84.8 %) |
-| Klebsiellapneumoniae | 11/12 (91.7 %) | 7/10 (70%) |
+| Klebsiella pneumoniae | 11/12 (91.7 %) | 7/10 (70%) |
 | Enterobacter cloacae | 9/11 (81.8%) | 4/7 (57.1%) |
 
 ## 14.7 Complicated Intra-Abdominal Infections

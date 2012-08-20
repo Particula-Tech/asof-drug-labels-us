@@ -154,9 +154,9 @@ No dosage adjustment is recommended for mild, moderate, or severe hepatic insuff
 In 400 mg single oral dose studies in 6 patients with mild (Child-Pugh Class A) and 10 patients with moderate (Child-Pugh Class B) hepatic insufficiency, moxifloxacin mean systemic exposure (AUC) was 78% and 102%, respectively, of 18 healthy controls and mean peak concentration (Cmax) was 79% and 84% of controls.
 
 The mean AUC of the sulfate conjugate of moxifloxacin (M1) increased by 3.9-fold (ranging up to 5.9-fold) and 5.7-fold (ranging up to 8-fold) in the mild and moderate groups, respectively.
-The mean Cmaxof M1 increased by approximately 3-fold in both groups (ranging up to 4.7- and 3.9-fold).
+The mean Cmax of M1 increased by approximately 3-fold in both groups (ranging up to 4.7- and 3.9-fold).
 The mean AUC of the glucuronide conjugate of moxifloxacin (M2) increased by 1.5-fold (ranging up to 2.5-fold) in both groups.
-The mean Cmaxof M2 increased by 1.6- and 1.3-fold (ranging up to 2.7- and 2.1-fold), respectively.
+The mean Cmax of M2 increased by 1.6- and 1.3-fold (ranging up to 2.7- and 2.1-fold), respectively.
 The clinical significance of increased exposure to the sulfate and glucuronide conjugates has not been studied.
 In a subset of patients participating in a clinical trial, the plasma concentrations of moxifloxacin and metabolites determined approximately at the moxifloxacin Tmax following the first intravenous or oral AVELOX dose in the Child-Pugh Class C patients (n=10) were similar to those in the Child-Pugh Class A/B patients (n=5), and also similar to those observed in healthy volunteer studies.
 
@@ -188,7 +188,7 @@ Moxifloxacin should be taken at least 4 hours before or 8 hours after antacids c
 #### Atenolol
 
 In a crossover study involving 24 healthy volunteers (12 male; 12 female), the mean atenolol AUC following a single oral dose of 50 mg atenolol with placebo was similar to that observed when atenolol was given concomitantly with a single 400 mg oral dose of moxifloxacin.
-The mean Cmaxof single dose atenolol decreased by about 10% following co-administration with a single dose of moxifloxacin.
+The mean Cmax of single dose atenolol decreased by about 10% following co-administration with a single dose of moxifloxacin.
 
 #### Calcium
 
@@ -213,7 +213,7 @@ These interaction results are not viewed as clinically significant.
 
 #### Iron
 
-When moxifloxacin tablets were administered concomitantly with iron (ferrous sulfate 100 mg once daily for two days), the mean AUC and Cmaxof moxifloxacin was reduced by 39% and 59%, respectively.
+When moxifloxacin tablets were administered concomitantly with iron (ferrous sulfate 100 mg once daily for two days), the mean AUC and Cmax of moxifloxacin was reduced by 39% and 59%, respectively.
 Moxifloxacin should only be taken more than 4 hours before or 8 hours after iron products.
 [see Dosage and Administration (2.2), Drug Interactions (7.1)].
 
@@ -224,7 +224,7 @@ In addition, moxifloxacin was shown not to affect the pharmacokinetics of itraco
 
 #### Morphine
 
-No significant effect of morphine sulfate (a single 10 mg intramuscular dose) on the mean AUC and Cmaxof moxifloxacin (400 mg single dose) was observed in a study of 20 healthy male and female volunteers.
+No significant effect of morphine sulfate (a single 10 mg intramuscular dose) on the mean AUC and Cmax of moxifloxacin (400 mg single dose) was observed in a study of 20 healthy male and female volunteers.
 
 #### Oral Contraceptives
 
@@ -289,22 +289,22 @@ Gram-negative bacteria
 
 - •Enterobacter cloacae
 - •Escherichia coli
-- •Haemophilusinfluenzae
-- •Haemophilusparainfluenzae
-- •Klebsiellapneumoniae
+- •Haemophilus influenzae
+- •Haemophilus parainfluenzae
+- •Klebsiella pneumoniae
 - •Moraxella catarrhalis
 - •Proteus mirabilis
 
 Anaerobic bacteria
 
-- •Bacteroidesfragilis
-- •Bacteroidesthetaiotaomicron
+- •Bacteroides fragilis
+- •Bacteroides thetaiotaomicron
 - •Clostridium perfringens
 - •Peptostreptococcus species
 
 Other microorganisms
 
-- •Chlamydophilapneumoniae
+- •Chlamydophila pneumoniae
 - •Mycoplasma pneumoniae
 
 The following in vitro data are available, but their clinical significance is unknown.
@@ -319,8 +319,8 @@ Gram-positive bacteria
 
 Gram-negative bacteria
 
-- •Citrobacterfreundii
-- •Klebsiellaoxytoca
+- •Citrobacter freundii
+- •Klebsiellao xytoca
 - •Legionella pneumophila
 
 Anaerobic bacteria
@@ -360,8 +360,8 @@ Table 8 Susceptibility Test Interpretive Criteria for Moxifloxacin
 | Enterobacteriacae | ≤2 | 4 | ≥8 | ≥19 | 16–18 | ≤15 |
 | Enterococcus faecalis | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14 |
 | Staphylococcus aureus | ≤2 | 4 | ≥8 | ≥19 | 16–18 | ≤15 |
-| Haemophilusinfluenzae | ≤1 | -The current absence of data on moxifloxacin-resistant isolates precludes defining any results other than “Susceptible”. | - | ≥18 | - | - |
-| Haemophilusparainfluenzae | ≤1 | - | - | ≥18 | - | - |
+| Haemophilus influenzae | ≤1 | -The current absence of data on moxifloxacin-resistant isolates precludes defining any results other than “Susceptible”. | - | ≥18 | - | - |
+| Haemophilus parainfluenzae | ≤1 | - | - | ≥18 | - | - |
 | Streptococcus pneumoniae | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14Isolates yielding test results (MIC or zone diameter) other than susceptible, should be submitted to a reference laboratory for additional testing. |
 | Streptococcus species | ≤1 | 2 | ≥4 | ≥18 | 15–17 | ≤14 |
 | Anaerobic bacteria | ≤2 | 4 | ≥8 | - | - | - |
@@ -384,10 +384,10 @@ Table 9 Acceptable Control Ranges for Moxifloxacin
 | --- | --- | --- |
 | Enterococcus faecalisATCC 29212 | 0.06–0.5 | - |
 | Escherichia coli ATCC 25922 | 0.008–0.06 | 28–35 |
-| HaemophilusinfluenzaeATCC 49247 | 0.008–0.03 | 31–39 |
+| Haemophilus influenzaeATCC 49247 | 0.008–0.03 | 31–39 |
 | Staphylococcus aureusATCC29213 | 0.015–0.06 | - |
 | Staphylococcus aureusATCC25923 | - | 28–35 |
 | Streptococcus pneumoniaeATCC 49619 | 0.06–0.25 | 25–31 |
-| BacteroidesfragilisATCC 25285 | 0.125–0.5 | - |
-| BacteroidesthetaiotaomicronATCC 29741 | 1–4 | - |
-| EubacteriumlentumATCC 43055 | 0.125–0.5 | - |
+| Bacteroides fragilisATCC 25285 | 0.125–0.5 | - |
+| Bacteroides thetaiotaomicronATCC 29741 | 1–4 | - |
+| Eubacterium lentumATCC 43055 | 0.125–0.5 | - |
