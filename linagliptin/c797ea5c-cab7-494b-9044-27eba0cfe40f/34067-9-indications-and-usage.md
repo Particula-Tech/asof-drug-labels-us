@@ -7,5 +7,3 @@ TRADJENTA tablets are indicated as an adjunct to diet and exercise to improve gl
 ## 1.2 Important Limitations of Use
 
 TRADJENTA should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis, as it would not be effective in these settings.
-
-TRADJENTA has not been studied in combination with insulin.

@@ -11,7 +11,6 @@ What is TRADJENTA?
 - TRADJENTA is a prescription medicine used along with diet and exercise to lower blood sugar in adults with type 2 diabetes.
 - TRADJENTA is not for people with type 1 diabetes.
 - TRADJENTA is not for people with diabetic ketoacidosis (increased ketones in the blood or urine).
-- It is not known if TRADJENTA is safe and effective when used with insulin.
 - It is not known if TRADJENTA is safe and effective in children.
 
 Who should not take TRADJENTA?
@@ -141,10 +140,10 @@ Licensed from: Boehringer Ingelheim International GmbH Ingelheim, Germany
 
 Copyright 2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5253EE232012 10007261/04
+IT5253LH152012 10007261/05
 
-IT5437E 10007237/04
+IT5437G 10007237/05
 
-IT5520B 10007443/02
+IT5520D 10007443/03
 
-Revised: May 2012
+Revised: August 2012
