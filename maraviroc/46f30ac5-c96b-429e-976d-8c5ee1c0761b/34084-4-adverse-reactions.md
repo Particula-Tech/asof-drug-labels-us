@@ -163,7 +163,7 @@ Laboratory Abnormalities:
 Table 6.
 Maximum Shift in Laboratory Test Values (Without Regard to Baseline) Incidence ≥2% of Grade 3-4 Abnormalities (ACTG Criteria) Study A4001026 (96 Weeks)
 
-| Laboratory Parameter Preferred Term | Limit | SELZENTRY 300 mg Twice Daily + Zidovudine/Lamivudine (N = 353)a% | Efavirenz 600 mg Once Daily+ Zidovudine/Lamivudine (N = 350)a% |
+| Laboratory Parameter Preferred Term | Limit | SELZENTRY300 mg Twice Daily +Zidovudine/Lamivudine (N = 353)a% | Efavirenz600 mg Once Daily+Zidovudine/Lamivudine (N = 350)a% |
 | --- | --- | --- | --- |
 | Aspartate aminotransferase | >5.0 x ULN | 4.0 | 4.0 |
 | Alanine aminotransferase | >5.0 x ULN | 3.9 | 4.0 |

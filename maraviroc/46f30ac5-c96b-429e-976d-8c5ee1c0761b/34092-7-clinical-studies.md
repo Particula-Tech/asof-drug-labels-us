@@ -58,7 +58,7 @@ The Week 48 results for the pooled Studies A4001027 and A4001028 are shown in Ta
 Table 13.
 Outcomes of Randomized Treatment at Week 48 Studies A4001027 and A4001028
 
-| Outcome | SELZENTRYTwice Daily(N = 426) | Placebo (N = 209) | Mean Difference |
+| Outcome | SELZENTRYTwice Daily(N = 426) | Placebo(N = 209) | Mean Difference |
 | --- | --- | --- | --- |
 | Mean change from Baseline to Week 48 in HIV-1 RNA (log10 copies/mL) | -1.84 | -0.78 | -1.05 |
 | <400 copies/mL at Week 48 | 239 (56%) | 47 (22%) | 34% |
@@ -105,12 +105,12 @@ Demographic and Baseline Characteristics of Subjects in Study A4001026
 | Range | 20-69 | 18-77 |
 | Female, n% | 104 (29) | 102 (28) |
 | Race, n% |  |  |
-| WhiteBlack | 204 (57) | 198 (55) |
+| White | 204 (57) | 198 (55) |
 | Black | 123 (34) | 133 (37) |
 | Asian | 6 (2) | 5 (1) |
 | Other | 27 (8) | 25 (7) |
 | Median (range) CD4+ cell count (cells/µL) | 241 (5-1,422) | 254 (8-1,053) |
-| Median (range) HIV-1 RNA (log10 copies/mL | 4.9 (3-7) | 4.9 (3-7) |
+| Median (range) HIV-1 RNA (log10 copies/mL) | 4.9 (3-7) | 4.9 (3-7) |
 
 The treatment outcomes at 96 weeks for Study A4001026 are shown in Table 15.
 Treatment outcomes are based on reanalysis of the screening samples using a more sensitive tropism assay, Enhanced sensitivity TROFILE HIV tropism assay, which became available after the Week 48 analysis, approximately 15% of the subjects identified as CCR5-tropic in the original analysis had dual/mixed- or CXCR4-tropic virus.

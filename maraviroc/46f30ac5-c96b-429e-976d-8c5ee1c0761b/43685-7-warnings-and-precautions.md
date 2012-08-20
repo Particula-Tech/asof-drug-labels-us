@@ -34,8 +34,10 @@ If patients with severe renal impairment or ESRD experience any symptoms of post
 
 ## 5.3 Immune Reconstitution Syndrome
 
-Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including maraviroc.
-During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as infection with Mycobacterium avium, cytomegalovirus, Pneumocystis jirovecii, Mycobacterium tuberculosis, or reactivation of Herpes simplex and Herpes zoster), which may necessitate further evaluation and treatment.
+Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including SELZENTRY.
+During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as infection with Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis, or reactivation of Herpes simplex and Herpes zoster), which may necessitate further evaluation and treatment.
+
+Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
 ## 5.4 Potential Risk of Infection
 
