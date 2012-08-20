@@ -123,17 +123,25 @@ Table 21 Histological, Virological, Biochemical, and Serological Response at Wee
 
 Treatment Beyond 48 Weeks
 
-In Studies 0102 (HBeAg-negative) and 0103 (HBeAg-positive), subjects rolled over with no interruption in treatment to open-label VIREAD after receiving double-blind treatment for 48 weeks (either VIREAD or HEPSERA).
+In Studies 0102 (HBeAg-negative) and 0103 (HBeAg-positive), subjects who completed double-blind treatment (389 and 196 subjects who were originally randomized to VIREAD and HEPSERA, respectively) were eligible to roll over to open-label VIREAD with no interruption in treatment.
 
-In Study 0102, 315 of 375 subjects (84%) completed 192 weeks of treatment.
-Among subjects randomized to VIREAD followed by open-label treatment with VIREAD, 85% had HBV DNA < 400 copies/mL, and 68% had ALT normalization at Week 192.
-In the group of subjects randomized to HEPSERA followed by open-label treatment with VIREAD, 95% of this cohort had HBV DNA < 400 copies/mL and 80% had ALT normalization at Week 192.
-No subject in either treatment group experienced HBsAg loss/seroconversion through Week 192.
+In Study 0102, 304 of 375 subjects (81%) continued in the study through Week 240.
+Among subjects randomized to VIREAD followed by open-label treatment with VIREAD, 82% had HBV DNA < 400 copies/mL, and 69% had ALT normalization at Week 240.
+Among subjects randomized to HEPSERA followed by open-label treatment with VIREAD, 88% had HBV DNA < 400 copies/mL and 76% had ALT normalization through Week 240.
+No subject in either treatment group experienced HBsAg loss/seroconversion through Week 240.
 
-In Study 0103, 198 of 266 subjects (74%) completed 192 weeks of treatment.
-Among subjects randomized to VIREAD, 71% had HBV DNA < 400 copies/mL, 58% had ALT normalization, and 32% had HBeAg loss (23% seroconversion to anti-HBe antibody) through Week 192.
-Among subjects randomized to HEPSERA followed by up to 144 weeks of open-label treatment with VIREAD, 71% had HBV DNA < 400 copies/mL, 57% had ALT normalization, and 35% had HBeAg loss (29% seroconversion to anti-HBe antibody) through Week 192.
-In both treatment groups, HBsAg loss was 9% and seroconversion to anti-HBs was 7% at Week 192.
+In Study 0103, 185 of 266 subjects (69%) continued in the study through Week 240.
+Among subjects randomized to VIREAD, 63% had HBV DNA < 400 copies/mL, 44% had ALT normalization, and 34% had HBeAg loss (26% seroconversion to anti-HBe antibody) through Week 240.
+Among subjects randomized to HEPSERA followed by up to 192 weeks of open-label treatment with VIREAD, 64% had HBV DNA < 400 copies/mL, 54% had ALT normalization, and 34% had HBeAg loss (29% seroconversion to anti-HBe antibody) through Week 240.
+At Week 240, HBsAg loss was 9% in both treatment groups, and seroconversion to anti-HBs was 7% for the subjects initially randomized to VIREAD and 9% for subjects initially randomized to HEPSERA.
+
+Of the originally randomized and treated 641 subjects in the two studies, liver biopsy data from 328 subjects who received continuing open-label treatment with VIREAD monotherapy were available for analysis at baseline, Week 48 and Week 240.
+There were no apparent differences between the subset of subjects who had liver biopsy data at Week 240 and those subjects remaining on open-label VIREAD without biopsy data that would be expected to affect histological outcomes at Week 240.
+Among the 328 subjects evaluated, the observed histological response rates were 80% and 88% at Week 48 and Week 240, respectively.
+In the subjects without cirrhosis at baseline (Ishak fibrosis score 0-4), 92% (216/235) and 95% (223/235) had either improvement or no change in Ishak fibrosis score at Week 48 and Week 240, respectively.
+In subjects with cirrhosis at baseline (Ishak fibrosis score 5-6), 97% (90/93) and 99% (92/93) had either improvement or no change in Ishak fibrosis score at Week 48 and Week 240, respectively.
+Twenty-nine percent (27/93) and 72% (67/93) of subjects with cirrhosis at baseline experienced regression of cirrhosis by Week 48 and Week 240, respectively, with a reduction in Ishak fibrosis score of at least 2 points.
+No definitive conclusions can be established about the remaining study population who were not part of this subset analysis.
 
 Across the combined HBV treatment trials, the number of subjects with lamivudine- or adefovir-resistance associated substitutions at baseline was too small to establish efficacy in this subgroup.
 

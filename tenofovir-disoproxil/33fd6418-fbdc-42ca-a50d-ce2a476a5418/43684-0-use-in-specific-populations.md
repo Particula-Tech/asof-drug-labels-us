@@ -4,18 +4,20 @@
 
 Pregnancy Category B
 
-Reproduction studies have been performed in rats and rabbits at doses up to 14 and 19 times the human dose based on body surface area comparisons and revealed no evidence of impaired fertility or harm to the fetus due to tenofovir.
-There are, however, no adequate and well-controlled studies in pregnant women.
+There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, VIREAD should be used during pregnancy only if clearly needed.
 
 Antiretroviral Pregnancy Registry: To monitor fetal outcomes of pregnant women exposed to VIREAD, an Antiretroviral Pregnancy Registry has been established.
 Healthcare providers are encouraged to register patients by calling 1-800-258-4263.
 
+### Animal Data
+
+Reproduction studies have been performed in rats and rabbits at doses up to 14 and 19 times the human dose based on body surface area comparisons and revealed no evidence of impaired fertility or harm to the fetus due to tenofovir.
+
 ## 8.3 Nursing Mothers
 
 Nursing Mothers: The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breast-feed their infants to avoid risking postnatal transmission of HIV-1.
-Studies in rats have demonstrated that tenofovir is secreted in milk.
-In humans, samples of breast milk obtained from five HIV-1 infected mothers in the first post-partum week show that tenofovir is excreted in human milk at low levels.
+Samples of breast milk obtained from five HIV-1 infected mothers in the first post-partum week show that tenofovir is excreted in human milk at low levels.
 The impact of this exposure in breastfed infants is unknown.
 Because of both the potential for HIV-1 transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breast-feed if they are receiving VIREAD.
 

@@ -202,11 +202,11 @@ Clinical Trials in Adult Subjects with Chronic Hepatitis B and Compensated Liver
 Treatment-Emergent Adverse Reactions: In controlled clinical trials in subjects with chronic hepatitis B (0102 and 0103), more subjects treated with VIREAD during the 48-week double-blind period experienced nausea: 9% with VIREAD versus 2% with HEPSERA.
 Other treatment-emergent adverse reactions reported in more than 5% of subjects treated with VIREAD included: abdominal pain, diarrhea, headache, dizziness, fatigue, nasopharyngitis, back pain and skin rash.
 
-During the open-label phase of treatment with VIREAD (weeks 48–192) in Studies 0102 and 0103, less than 1% of subjects (5/585) experienced a confirmed increase in serum creatinine of 0.5 mg/dL from baseline.
-No significant change in the tolerability profile was observed with continued treatment for up to 192 weeks.
+During the open-label phase of treatment with VIREAD (weeks 48–240) in Studies 0102 and 0103, less than 1% of subjects (5/585) experienced a confirmed increase in serum creatinine of 0.5 mg/dL from baseline.
+No significant change in the tolerability profile was observed with continued treatment for up to 240 weeks.
 
 Laboratory Abnormalities: A summary of Grade 3 and 4 laboratory abnormalities through Week 48 is provided in Table 10.
-Grade 3/4 laboratory abnormalities were similar in subjects continuing VIREAD treatment for up to 192 weeks in these trials.
+Grade 3/4 laboratory abnormalities were similar in subjects continuing VIREAD treatment for up to 240 weeks in these trials.
 
 Table 10 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Studies 0102 and 0103 (0–48 Weeks)
 
