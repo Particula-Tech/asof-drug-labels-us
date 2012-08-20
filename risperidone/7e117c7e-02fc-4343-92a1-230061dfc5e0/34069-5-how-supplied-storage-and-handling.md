@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+## 16.1 How Supplied
+
 RISPERDAL® (risperidone) Tablets
 
 RISPERDAL® (risperidone) Tablets are imprinted "JANSSEN" on one side and either "Ris 0.25", "Ris 0.5", "R1", "R2", "R3", or "R4" according to their respective strengths.
@@ -14,7 +16,7 @@ RISPERDAL® (risperidone) Tablets are imprinted "JANSSEN" on one side and either
 
 3 mg yellow, capsule-shaped tablets: bottles of 60 NDC 50458-330-06, bottles of 500 NDC 50458-330-50, and hospital unit dose blister packs of 100 NDC 50458-330-01.
 
-4 mg green, capsule-shaped tablets: bottles of 60 NDC 50458-350-06, and hospital unit dose blister packs of 100 NDC 50458-350-01.
+4 mg green, capsule-shaped tablets: bottles of 60 NDC 50458-350-06 and hospital unit dose blister packs of 100 NDC 50458-350-01.
 
 RISPERDAL® (risperidone) Oral Solution
 
@@ -37,7 +39,7 @@ Orally Disintegrating Tablets 3 mg and 4 mg are packaged in a child-resistant po
 
 4 mg coral, round, biconvex tablets: 28 blisters per box, NDC 50458-355-28.
 
-Storage and Handling
+## 16.2 Storage and Handling
 
 RISPERDAL® Tablets should be stored at controlled room temperature 15°–25°C (59°–77°F).
 Protect from light and moisture.

@@ -1,6 +1,9 @@
-Revised September 2011 © Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2007
+RISPERDAL® Tablets Active ingredient is made in Ireland Finished product is manufactured by: Janssen Ortho, LLC Gurabo, Puerto Rico 00778
 
-RISPERDAL® Tablets are manufactured by: Janssen Ortho LLC, Gurabo, Puerto Rico 00778 RISPERDAL® Oral Solution is manufactured by: Janssen Pharmaceutica N.V.
-Beerse, Belgium RISPERDAL® M-TAB® Orally Disintegrating Tablets are manufactured by: Janssen Ortho LLC, Gurabo, Puerto Rico 00778
+RISPERDAL® Oral Solution Active ingredient is made in Belgium Finished product is manufactured by: Janssen Pharmaceutica NV Beerse, Belgium
 
-RISPERDAL® Tablets, RISPERDAL® M-TAB® Orally Disintegrating Tablets, and RISPERDAL® Oral Solution are manufactured for: Janssen, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+RISPERDAL® M-TAB® Orally Disintegrating Tablets Active ingredient is made in Ireland Finished product is manufactured by: Janssen Ortho, LLC Gurabo, Puerto Rico 00778
+
+RISPERDAL® Tablets, RISPERDAL® M-TAB® Orally Disintegrating Tablets, and RISPERDAL® Oral Solution are manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+
+Revised August 2012 © Janssen Pharmaceuticals, Inc. 2007
