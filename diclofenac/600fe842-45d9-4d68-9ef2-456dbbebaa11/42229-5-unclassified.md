@@ -1,3 +1,3 @@
 Rx only
 
-LAB-0061-18.0 April 2012
+LAB-0061-19.0 August 2012

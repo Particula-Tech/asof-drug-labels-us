@@ -286,6 +286,10 @@ This response has been attributed to inhibition of renal prostaglandin synthesis
 During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure (see WARNINGS, Renal Effects), as well as to assure diuretic efficacy.
 Concomitant therapy with potassium-sparing diuretics may be associated with increased serum potassium levels.
 
+#### Potent CYP2C9 inhibitors
+
+Caution is recommended when co-prescribing diclofenac with potent CYP2C9 inhibitors (such as sulfinpyrazone and voriconazole), which could result in a significant increase in peak plasma concentrations and exposure to diclofenac due to inhibition of diclofenac metabolism.
+
 #### Voriconazole
 
 In a published study, single dose diclofenac (50 mg) was coadministered with the last dose of voriconazole (400 mg every 12 hours on Day 1, followed by 200 mg every 12 hours on Day 2).
