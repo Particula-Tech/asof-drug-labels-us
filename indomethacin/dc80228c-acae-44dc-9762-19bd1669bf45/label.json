@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA079175"
+  ],
+  "inn": "indomethacin",
+  "labeler": "KVK-Tech, Inc.",
+  "package_ndcs": [
+    "10702-016-01",
+    "10702-016-03",
+    "10702-016-06",
+    "10702-016-09",
+    "10702-016-10",
+    "10702-016-50"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "indomethacin",
+      "name": "Indomethacin"
+    }
+  ],
+  "setid": "dc80228c-acae-44dc-9762-19bd1669bf45",
+  "source": "dailymed"
+}

@@ -1,0 +1,28 @@
+# INDICATIONS AND USAGE:
+
+Carefully consider the potential benefits and risks of Indomethacin Extended-release Capsules USP 75 mg and other treatment options before deciding to use Indomethacin Extended-release Capsule USP 75 mg.
+Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS).
+
+Indomethacin Extended-release Capsules USP 75 mg has been found effective in active stages of the following:
+
+1.
+Moderate to severe rheumatoid arthritis including acute flares of chronic disease.
+
+2.
+Moderate to severe ankylosing spondylitis.
+
+3.
+Moderate to severe osteoarthritis.
+
+4.
+Acute painful shoulder (bursitis and/or tendinitis).
+
+Indomethacin Extended-release Capsules USP 75 mg are not recommended for the treatment of acute gouty arthritis.
+
+Indomethacin may enable the reduction of steroid dosage in patients receiving steroids for the more severe forms of rheumatoid arthritis.
+In such instances the steroid dosage should be reduced slowly and the patients followed very closely for any possible adverse effects.
+
+The use of indomethacin in conjunction with aspirin or other salicylates is not recommended.
+Controlled clinical studies have shown that the combined use of indomethacin and aspirin does not produce any greater therapeutic effect than the use of indomethacin alone.
+Furthermore, in one of these clinical studies, the incidence of gastrointestinal side effects was significantly increased with combined therapy.
+(See PRECAUTIONS, Drug Interactions).
