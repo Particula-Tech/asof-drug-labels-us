@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA200275"
+  ],
+  "inn": "norethindrone",
+  "labeler": "Amneal Pharmaceuticals",
+  "package_ndcs": [
+    "65162-475-05",
+    "65162-475-09",
+    "65162-475-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "norethindrone",
+      "name": "Norethindrone Acetate"
+    }
+  ],
+  "setid": "64cb920c-36e8-4d62-9d08-3ddf3989d313",
+  "source": "dailymed"
+}
