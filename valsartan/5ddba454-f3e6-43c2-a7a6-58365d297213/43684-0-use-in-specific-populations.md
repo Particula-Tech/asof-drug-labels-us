@@ -8,7 +8,7 @@ Use of drugs that act on the renin-angiotensin system during the second and thir
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue Diovan as soon as possible.
-These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy.
+These adverse outcomes are usually associated with use of these drugs in the second and third trimesters of pregnancy.
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
 Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
 
@@ -38,7 +38,7 @@ Diovan is not recommended for pediatric patients under 6 years of age due to saf
 
 No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2.
 
-There is limited clinical experience with Diovan in pediatric patients with mild to moderate hepatic impairment [See Warnings (5.3)].
+There is limited clinical experience with Diovan in pediatric patients with mild to moderate hepatic impairment [See Warnings and Precautions (5.3)].
 
 Daily oral dosing of neonatal/juvenile rats with valsartan at doses as low as 1 mg/kg/day (about 10% of the maximum recommended pediatric dose on a mg/m2 basis) from postnatal day 7 to postnatal day 70 produced persistent, irreversible kidney damage.
 These kidney effects in neonatal rats represent expected exaggerated pharmacological effects that are observed if rats are treated during the first 13 days of life.
@@ -57,3 +57,13 @@ No overall difference in the efficacy or safety of valsartan was observed in thi
 Of the 2,511 patients with heart failure randomized to valsartan in the Valsartan Heart Failure Trial, 45% (1,141) were 65 years of age or older.
 In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), 53% (2,596) of the 4,909 patients treated with valsartan and 51% (2,515) of the 4,885 patients treated with valsartan + captopril were 65 years of age or older.
 There were no notable differences in efficacy or safety between older and younger patients in either trial.
+
+## 8.6 Renal Impairment
+
+Safety and effectiveness of Diovan in patients with severe renal impairment (CrCl ≤ 30 mL/min) have not been established.
+No dose adjustment is required in patients with mild (CrCl 60-90 mL/min) or moderate (CrCl 30-60) renal impairment.
+
+## 8.7 Hepatic Impairment
+
+No dose adjustment is necessary for patients with mild-to-moderate liver disease.
+No dosing recommendations can be provided for patients with severe liver disease.

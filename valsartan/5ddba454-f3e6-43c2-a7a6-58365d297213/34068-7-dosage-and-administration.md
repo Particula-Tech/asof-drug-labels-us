@@ -32,7 +32,7 @@ No data are available in pediatric patients either undergoing dialysis or with a
 [See Pediatric Use (8.4)]
 
 Diovan is not recommended for patients <6 years old.
-[See Adverse Reactions (6.1), Clinical Trials (14.1)]
+[See Adverse Reactions (6.1), Clinical Studies (14.1)]
 
 Preparation of Suspension (for 160 mL of a 4 mg/mL suspension)
 

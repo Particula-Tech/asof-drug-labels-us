@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-None
+Do not use in patients with known hypersensitivity to any component.

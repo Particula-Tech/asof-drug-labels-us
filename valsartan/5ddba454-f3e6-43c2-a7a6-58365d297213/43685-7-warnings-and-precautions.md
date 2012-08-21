@@ -24,24 +24,16 @@ In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), hypotension in 
 If excessive hypotension occurs, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
 A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
 
-## 5.3 Impaired Hepatic Function
+## 5.3 Impaired Renal Function
 
-As the majority of valsartan is eliminated in the bile, patients with mild-to-moderate hepatic impairment, including patients with biliary obstructive disorders, showed lower valsartan clearance (higher AUCs).
-Care should be exercised in administering Diovan to these patients.
+Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.
+Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g. patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on Diovan.
+Monitor renal function periodically in these patients.
+Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Diovan.
 
-## 5.4 Impaired Renal Function
+## 5.4 Hyperkalemia
 
-In studies of ACE inhibitors in hypertensive patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen have been reported.
-In a 4-day trial of valsartan in 12 hypertensive patients with unilateral renal artery stenosis, no significant increases in serum creatinine or blood urea nitrogen were observed.
-There has been no long-term use of Diovan in patients with unilateral or bilateral renal artery stenosis, but an effect similar to that seen with ACE inhibitors should be anticipated.
-
-As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals.
-In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with angiotensin-converting enzyme inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
-Similar outcomes have been reported with Diovan.
-
-Some patients with heart failure have developed increases in blood urea nitrogen, serum creatinine, and potassium.
+Some patients with heart failure have developed increases in potassium.
 These effects are usually minor and transient, and they are more likely to occur in patients with pre-existing renal impairment.
-Dosage reduction and/or discontinuation of the diuretic and/or Diovan may be required.
-In the Valsartan Heart Failure Trial, in which 93% of patients were on concomitant ACE inhibitors, treatment was discontinued for elevations in creatinine or potassium (total of 1.0% on valsartan vs. 0.2% on placebo).
-In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), discontinuations due to various types of renal dysfunction occurred in 1.1% of valsartan-treated patients and 0.8% of captopril-treated patients.
-Evaluation of patients with heart failure or post-myocardial infarction should always include assessment of renal function.
+Dosage reduction and/or discontinuation of Diovan may be required.
+[see Adverse Reactions (6.1)]

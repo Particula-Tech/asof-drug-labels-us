@@ -69,7 +69,8 @@ The adverse experience profile of Diovan in heart failure patients was consisten
 In the Valsartan Heart Failure Trial, comparing valsartan in total daily doses up to 320 mg (n=2,506) to placebo (n=2,494), 10% of valsartan patients discontinued for adverse reactions vs. 7% of placebo patients.
 
 The table shows adverse reactions in double-blind short-term heart failure trials, including the first 4 months of the Valsartan Heart Failure Trial, with an incidence of at least 2% that were more frequent in valsartan-treated patients than in placebo-treated patients.
-All patients received standard drug therapy for heart failure, frequently as multiple medications, which could include diuretics, digitalis, beta-blockers, or ACE inhibitors.
+All patients received standard drug therapy for heart failure, frequently as multiple medications, which could include diuretics, digitalis, beta-blockers.
+About 93% of patients received concomitant ACE inhibitors.
 
 |  | Valsartan (n=3,282) | Placebo (n=2,740) |
 | --- | --- | --- |
@@ -83,6 +84,8 @@ All patients received standard drug therapy for heart failure, frequently as mul
 | Hyperkalemia | 2% | 1% |
 | Hypotension, postural | 2% | 1% |
 
+Discontinuations occurred in 0.5% of valsartan-treated patients and 0.1% of placebo patients for each of the following: elevations in creatinine and elevations in potassium.
+
 Other adverse reactions with an incidence greater than 1% and greater than placebo included headache NOS, nausea, renal impairment NOS, syncope, blurred vision, upper abdominal pain and vertigo.
 (NOS = not otherwise specified).
 
@@ -92,6 +95,8 @@ Post-Myocardial Infarction
 
 The safety profile of Diovan was consistent with the pharmacology of the drug and the background diseases, cardiovascular risk factors, and clinical course of patients treated in the post-myocardial infarction setting.
 The table shows the percent of patients discontinued in the valsartan and captopril-treated groups in the Valsartan in Acute Myocardial Infarction Trial (VALIANT) with a rate of at least 0.5% in either of the treatment groups.
+
+Discontinuations due to renal dysfunction occurred in 1.1% of valsartan-treated patients and 0.8% of captopril-treated patients.
 
 |  | Valsartan (n=4,885) | Captopril (n=4,879) |
 | --- | --- | --- |
@@ -106,19 +111,21 @@ The table shows the percent of patients discontinued in the valsartan and captop
 
 The following additional adverse reactions have been reported in post-marketing experience:
 
-Hypersensitivity: There are rare reports of angioedema;
+Hypersensitivity: There are rare reports of angioedema.
+Some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
+Diovan should not be re-administered to patients who have had angioedema.
 
-Digestive: Elevated liver enzymes and very rare reports of hepatitis;
+Digestive: Elevated liver enzymes and very rare reports of hepatitis
 
-Renal: Impaired renal function;
+Renal: Impaired renal function, renal failure
 
-Clinical Laboratory Tests: Hyperkalemia;
+Clinical Laboratory Tests: Hyperkalemia
 
-Dermatologic: Alopecia.
+Dermatologic: Alopecia
 
-Blood and Lymphatic: There are very rare reports of thrombocytopenia.
+Blood and Lymphatic: There are very rare reports of thrombocytopenia
 
-Vascular: Vasculitis.
+Vascular: Vasculitis
 
 Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
 

@@ -62,6 +62,9 @@ It is not known if DIOVAN passes into your breast milk.
 You and your doctor should decide if you will take DIOVAN or breast-feed, but not both.
 Talk with your doctor about the best way to feed your baby if you take DIOVAN.
 
+• have ever had a reaction called angioedema, to another blood pressure medicine.
+Angioedema causes swelling of the face, lips, tongue and/or throat, and may cause difficulty breathing.
+
 Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
 Especially tell your doctor if you take:
 
@@ -69,11 +72,16 @@ Especially tell your doctor if you take:
 
 • water pills (also called “diuretics”)
 
-• potassium supplements
+• potassium supplements.
+Your doctor may check the amount of potassium in your blood periodically
 
-• a salt substitute
+• a salt substitute.
+Your doctor may check the amount of potassium in your blood periodically
 
 • Nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
+
+• certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
+These drugs may increase the effect of valsartan.
 
 Know the medicines you take.
 Keep a list of your medicines with you to show to your doctor and pharmacist when a new medicine is prescribed.
@@ -200,4 +208,4 @@ East Hanover, NJ 07936
 
 © Novartis
 
-T2012-64/T2012-65 February 2012/February 2012
+T2012-136/T2012-137 July 2012/July 2012
