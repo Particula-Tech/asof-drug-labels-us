@@ -2,32 +2,19 @@
 
 Read the Medication Guide that comes with Mycophenolate Mofetil Capsules USP and Tablets USP before you start taking it and each time you refill your prescription.
 There may be new information.
-This Medication Guide does not take the place of talking with your healthcare provider about your medical condition or your treatment.
+This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
 
 What is the most important information I should know about Mycophenolate Mofetil Capsules USP and Tablets USP?
 
 Mycophenolate Mofetil Capsules USP and Tablets USP can cause serious side effects:
 
-- Possible loss of a pregnancy and higher risk of birth defects.
-  Women who take mycophenolate mofetil USP during pregnancy have a higher risk of losing a pregnancy (miscarriage) during the first 3 months (first trimester), and a higher risk that their baby will be born with birth defects
+- Increased risk of loss of a pregnancy (miscarriage) and higher risk of birth defects.
+  Females who take mycophenolate mofetil USP during pregnancy have a higher risk of miscarriage during the first 3 months (first trimester), and a higher risk that their baby will be born with birth defects.
 
-If you are a female and are able to become pregnant
+If you are a female who can become pregnant
 
 - 
-  - your healthcare provider must talk with you about effective birth control methods (contraceptive counseling)
-  - you should have a negative pregnancy test within 1 week before you start to take mycophenolate mofetil USP
-  - you must use 2 different types of effective birth control at the same time, for 4 weeks before you start taking mycophenolate mofetil USP, during your entire mycophenolate mofetil USP therapy and for 6 weeks after stopping mycophenolate mofetil USP, unless you choose to avoid sexual intercourse completely (abstinence).
-    Mycophenolate mofetil USP decreases blood levels of the hormones in birth control pills that you take by mouth.
-    Birth control pills may not work as well while you take mycophenolate mofetil USP, and you could become pregnant If you plan to become pregnant, talk with your healthcare provider.
-    Your healthcare provider will decide if other medicines to prevent rejection may be right for you.
-    In certain situations, you and your healthcare provider may decide that taking mycophenolate mofetil USP is more important to your health than the possible risks to your unborn baby.
-- If you get pregnant while taking mycophenolate mofetil USP, do not stop taking mycophenolate mofetil USP.
-  Call your healthcare provider right away.
-  You and your healthcare provider should report any cases of pregnancies to
-  - FDA MedWatch at 1-800-FDA-1088
-
-Talk to your healthcare provider about joining the National Transplantation Pregnancy Registry at 1-877-955-6877.
-
+  - your doctor must talk with you about acceptable birth control methods (contraceptive counseling) to use while taking mycophenolate mofetil USP.
 - Increased risk of getting serious infections.
   Mycophenolate mofetil USP weakens the body’s immune system and affects your ability to fight infections.
   Serious infections can happen with mycophenolate mofetil USP and can lead to death.
@@ -50,7 +37,7 @@ Talk to your healthcare provider about joining the National Transplantation Preg
   - Fungal infections.
     Yeasts and other types of fungal infections can happen with mycophenolate mofetil USP and can cause serious tissue and blood infections (see “What are the possible side effects of Mycophenolate Mofetil Capsules USP and Tablets USP?”)
 
-Call your healthcare provider right away if you have any of the following signs and symptoms of infection:
+Call your doctor right away if you have any of the following signs and symptoms of infection:
 
 - 
   - Temperature of 100.5°F or greater
@@ -63,7 +50,7 @@ Call your healthcare provider right away if you have any of the following signs 
   - Cuts, scrapes or incisions that are red, warm and oozing pus
 - Increased risk of getting certain cancers.
   People who take mycophenolate mofetil USP have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
-  Tell your healthcare provider if you have:
+  Tell your doctor if you have:
   - unexplained fever, prolonged tiredness, weight loss or lymph node swelling
   - a brown or black skin lesion with uneven borders, or one part of the lesion does not look like the other
   - a change in the size and color of a mole
@@ -78,7 +65,6 @@ Mycophenolate Mofetil Capsules USP and Tablets USP is a prescription medicine to
 Rejection is when the body’s immune system perceives the new organ as a “foreign” threat and attacks it.
 
 Mycophenolate Mofetil Capsules USP and Tablets USP is used with other medicines called cyclosporine (Sandimmune®, Gengraf®, Neoral®) and corticosteroids.
-These medicines work together to prevent rejection to your transplanted organ.
 
 Mycophenolate mofetil USP has been used safely and works in children who received a kidney transplant as it does in adults.
 It is not known if mycophenolate mofetil USP is safe and works in children who receive a heart or liver transplant.
@@ -88,9 +74,9 @@ Who should not take Mycophenolate Mofetil Capsules USP and Tablets USP?
 Do not take mycophenolate mofetil USP if you are allergic to mycophenolate mofetil USP or any of the ingredients in Mycophenolate Mofetil Capsules USP and Tablets USP.
 See the end of this Medication Guide for a complete list of ingredients in Mycophenolate Mofetil Capsules USP and Tablets USP.
 
-What should I tell my healthcare provider before taking Mycophenolate Mofetil Capsules USP and Tablets USP?
+What should I tell my doctor before taking Mycophenolate Mofetil Capsules USP and Tablets USP?
 
-Tell your healthcare provider about all of your medical conditions, if you:
+Tell your doctor about all of your medical conditions, if you:
 
 - 
   - have any digestive problems, such as ulcers
@@ -103,10 +89,9 @@ Tell your healthcare provider about all of your medical conditions, if you:
     Some vaccines may not work as well during treatment with mycophenolate mofetil USP
   - are pregnant or are planning to become pregnant.
     See “What is the most important information I should know about Mycophenolate Mofetil Capsules USP and Tablets USP?”
-  - are breastfeeding.
+  - are breastfeeding or plan to breastfeed.
     It is not known if mycophenolate mofetil USP passes into breast milk.
-    You and your healthcare provider will decide if you will take mycophenolate mofetil USP or breastfeed.
-    You should not do both without first talking with your healthcare provider
+    You and your doctor will decide if you will take mycophenolate mofetil USP or breastfeed.
 
 Tell your healthcare provider about all of the medicines you are taking including prescription and nonprescription medicines, vitamins and herbal supplements.
 Some medicines may affect the way mycophenolate mofetil USP works, and mycophenolate mofetil USP may affect how some medicines work.
@@ -120,6 +105,7 @@ Especially tell your healthcare provider if you take:
   - acyclovir (Zovirax®), valacyclovir (Valtrex®), ganciclovir (Cytovene®-IV, Vitrasert®), valganciclovir (Valcyte®)
   - rifampin (Rifater®, Rifamate®, Rimactane®, Rifadin®)
   - antacids that contain magnesium and aluminum (mycophenolate mofetil USP and the antacid should not be taken at the same time)
+  - proton pump inhibitors (PPIs) (Prevacid®, Protonix®)
   - sulfamethoxazole/trimethoprim (Bactrim™, Bactrim DS™)
   - norfloxacin (Noroxin®) and metronidazole (Flagyl®, Flagyl® ER, Flagyl® IV, Metro IV, Helidac®, Pylera™)
   - ciprofloxacin (Cipro®, Cipro® XR, Ciloxan®, Proquin® XR) and amoxicillin plus clavulanic acid (Augmentin®, Augmentin XR™)
@@ -127,29 +113,30 @@ Especially tell your healthcare provider if you take:
   - cholestyramine (Questran Light®, Questran®, Locholest Light, Locholest, Prevalite®)
 
 Know the medicines you take.
-Keep a list of them to show to your healthcare provider and pharmacist when you get a new medicine.
-Do not take any new medicine without talking with your healthcare provider.
+Keep a list of them to show to your doctor or nurse and pharmacist when you get a new medicine.
+Do not take any new medicine without talking with your doctor.
 
 How should I take Mycophenolate Mofetil Capsules USP and Tablets USP?
 
 - 
-  - Take mycophenolate mofetil USP exactly as prescribed
-  - Do not stop taking mycophenolate mofetil USP or change the dose unless your healthcare provider tells you to
+  - Take mycophenolate mofetil USP exactly as prescribed.
+  - Do not stop taking mycophenolate mofetil USP or change the dose unless your doctor tells you to.
   - If you miss a dose of mycophenolate mofetil USP, or are not sure when you took your last dose, take the regular amount of mycophenolate mofetil USP prescribed as soon as you remember.
-    If it is time for your next dose, skip the missed dose.
+    If it is time for your next dose, skip the missed dose and take your next dose at your normal scheduled time.
     Do not take 2 doses at the same time.
-    Call your healthcare provider if you are not sure what to do
+    Call your doctor if you are not sure what to do.
   - Take mycophenolate mofetil capsules USP, tablets USP and oral suspension USP on an empty stomach, either 1 hour before or 2 hours after a meal, unless your healthcare provider tells you otherwise.
-    With the approval of your healthcare provider, in stable kidney transplant patients, mycophenolate mofetil USP can be taken with food if necessary
+    With the approval of your healthcare provider, in stable kidney transplant patients, mycophenolate mofetil USP can be taken with food if necessary.
   - Most people take mycophenolate mofetil USP by mouth either as caramel opaque/blue opaque capsules or white tablets.
-    Some people may get mycophenolate mofetil USP soon after their transplant surgery as an infusion into a vein
+    Some people may get mycophenolate mofetil USP soon after their transplant surgery as an infusion into a vein.
   - Do not crush mycophenolate mofetil tablets USP.
-    Do not open or crush mycophenolate mofetil capsules USP
-  - If you are not able to swallow mycophenolate mofetil tablets USP or capsules USP, your healthcare provider may prescribe mycophenolate mofetil oral suspension USP.
+    Do not open or crush mycophenolate mofetil capsules USP.
+  - If you are not able to swallow mycophenolate mofetil tablets USP or capsules USP, your healthcare provider may prescribe mycophenolate mofetil oral suspension.
+    USP.
     This is a liquid form of mycophenolate mofetil USP.
-    Your pharmacist will mix the medicine before giving it to you
-  - Do not mix mycophenolate mofetil oral suspension USP with any other medicine
-  - If you take too much mycophenolate mofetil USP, call your healthcare provider or the poison control center right away
+    Your pharmacist will mix the medicine before giving it to you.
+  - Do not mix mycophenolate mofetil oral suspension USP with any other medicine.
+  - If you take too much mycophenolate mofetil USP, call your doctor or the poison control center right away.
 
 What should I avoid while taking Mycophenolate Mofetil Capsules USP and Tablets USP?
 
@@ -160,7 +147,7 @@ What should I avoid while taking Mycophenolate Mofetil Capsules USP and Tablets 
   People who take mycophenolate mofetil USP have a higher risk of getting skin cancer.
   (See “What is the most important information I should know about Mycophenolate Mofetil Capsules USP and Tablets USP?”)
   Wear protective clothing when you are in the sun and use a sunscreen with a high protection factor (SPF 30 and above).
-  This is especially important if your skin is very fair or if you have a family history of skin cancer
+  This is especially important if your skin is very fair or if you have a family history of skin cancer.
 
 What are the possible side effects of Mycophenolate Mofetil Capsules USP and Tablets USP?
 
@@ -172,28 +159,28 @@ Mycophenolate Mofetil Capsules USP and Tablets USP can cause serious side effect
   - white blood cells, especially neutrophils.
     Neutrophils fight against bacterial infections.
     You have a higher chance of getting an infection when your white blood cell count is low.
-    This is most common from 3 months to 6 months after your transplant
+    This is most common from 3 months to 6 months after your transplant.
   - red blood cells.
     Red blood cells carry oxygen to your body tissues.
     You have a higher chance of getting severe anemia when your red blood cell count is low.
   - platelets.
-    Platelets help with blood clotting
+    Platelets help with blood clotting.
 
-Your healthcare provider will do blood tests before you start taking mycophenolate mofetil USP and during treatment with mycophenolate mofetil USP to check your blood cell counts.
+Your doctor will do blood tests before you start taking mycophenolate mofetil USP and during treatment with mycophenolate mofetil USP to check your blood cell counts.
 
-Tell your healthcare provider right away if you have any signs of infection (see “What is the most important information I should know about Mycophenolate Mofetil Capsules USP and Tablets USP?”), or any unexpected bruising or bleeding.
-Also, tell your healthcare provider if you have unusual tiredness, lack of energy, dizziness or fainting.
+Tell your doctor right away if you have any signs of infection (see “What is the most important information I should know about Mycophenolate Mofetil Capsules USP and Tablets USP?”), or any unexpected bruising or bleeding.
+Also, tell your doctor if you have unusual tiredness, lack of energy, dizziness or fainting.
 
 - Stomach problems.
   Stomach and intestinal bleeding can happen in people who take high doses of mycophenolate mofetil USP.
-  Bleeding can be severe and you may have to be hospitalized for treatment
+  Bleeding can be severe and you may have to be hospitalized for treatment.
 
 Common side effects include:
 
 - 
   - diarrhea.
-    Call your healthcare provider right away if you have diarrhea.
-    Do not stop taking mycophenolate mofetil USP without first talking with your healthcare provider
+    Call your doctor right away if you have diarrhea.
+    Do not stop taking mycophenolate mofetil USP without first talking with your doctor.
   - vomiting
   - pain
   - stomach area pain
@@ -217,10 +204,10 @@ Side effects that happen more often in children than in adults taking Mycophenol
   - vomiting
 
 These are not all of the possible side effects of mycophenolate mofetil USP.
-Tell your healthcare provider about any side effect that bothers you or that does not go away.
+Tell your doctor about any side effect that bothers you or that does not go away.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to the FDA at 1-800-FDA-1088.
+You may report side effects to the FDA at 1-800-FDA-1088 or to Roxane Laboratories, Inc., at 1-800-962-8364.
 
 How should I store Mycophenolate Mofetil Capsules USP and Tablets USP?
 
@@ -228,7 +215,7 @@ How should I store Mycophenolate Mofetil Capsules USP and Tablets USP?
   Keep the container closed tightly
 - Store the prepared mycophenolate mofetil oral suspension USP at room temperature, between 59oF to 86oF (15oC to 30oC), for up to 60 days.
   You can also store mycophenolate mofetil oral suspension USP in the refrigerator at 36oF to 46oF (2oC to 8oC).
-  Do not freeze mycophenolate mofetil oral suspension USP
+  Do not freeze mycophenolate mofetil oral suspension USP.
 - Keep Mycophenolate Mofetil Capsules USP and Tablets USP and all medicines out of the reach of children
 
 General Information about Mycophenolate Mofetil Capsules USP and Tablets USP
@@ -241,7 +228,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about mycophenolate mofetil USP.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about mycophenolate mofetil USP that is written for healthcare professionals.
-For more information, go to www.Roxane.com or call 1-800-962-8364.
+For more information, call 1-800-962-8364 or visit www.Roxane.com.
 
 What are the ingredients in Mycophenolate Mofetil Capsules USP and Tablets USP?
 
@@ -258,8 +245,14 @@ CellCept, Cytovene-IV, and Valcyte are registered trademarks of Hoffmann-La Roch
 
 Any other trademarks in this document are the property of their respective owners.
 
-10004763/04
+For additional copies of this Medication Guide, please call 1-800-962-8364 or visit www.Roxane.com.
 
-Revised March 2011
+Roxane Laboratories, Inc.
 
-© RLI, 2011
+Columbus, Ohio 43216
+
+10004763/05
+
+Revised June 2012
+
+© RLI, 2012

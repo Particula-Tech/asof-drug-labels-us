@@ -15,7 +15,7 @@ Safety data are summarized below for all active-controlled trials in renal (2 tr
 Approximately 53% of the renal patients, 65% of the cardiac patients, and 48% of the hepatic patients have been treated for more than 1 year.
 Adverse events reported in ≥20% of patients in the mycophenolate mofetil USP treatment groups are presented below.
 
-Table 8: Adverse Events in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Allograft Rejection (Reported in ≥20% of Patients in the Mycophenolate Mofetil USP Group)
+Table 9: Adverse Events in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Allograft Rejection (Reported in ≥20% of Patients in the Mycophenolate Mofetil USP Group)
 
 |  | Renal Studies |  |  | Cardiac Study |  | Hepatic Study |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -106,9 +106,9 @@ Severe neutropenia (ANC <0.5 x 103/mcL) developed in up to 2% of renal transplan
 
 All transplant patients are at increased risk of opportunistic infections.
 The risk increases with total immunosuppressive load (see WARNINGS: Infections and WARNINGS: Latent Viral Infections).
-Table 9 shows the incidence of opportunistic infections that occurred in the renal, cardiac, and hepatic transplant populations in the azathioprine-controlled prevention trials:
+Table 10 shows the incidence of opportunistic infections that occurred in the renal, cardiac, and hepatic transplant populations in the azathioprine-controlled prevention trials:
 
-Table 9: Viral and Fungal Infections in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Transplant Rejection
+Table 10: Viral and Fungal Infections in Controlled Studies in Prevention of Renal, Cardiac or Hepatic Transplant Rejection
 
 |  | Renal Studies |  |  | Cardiac Study |  | Hepatic Study |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -132,7 +132,7 @@ In cardiac transplant patients, the overall incidence of opportunistic infection
 
 The following adverse events were reported with 3% to <20% incidence in renal, cardiac, and hepatic transplant patients treated with mycophenolate mofetil USP, in combination with cyclosporine and corticosteroids.
 
-Table 10: Adverse Events Reported in 3% to <20% of Patients Treated with Mycophenolate Mofetil USP in Combination with Cyclosporine and Corticosteroids
+Table 11: Adverse Events Reported in 3% to <20% of Patients Treated with Mycophenolate Mofetil USP in Combination with Cyclosporine and Corticosteroids
 
 | Body System |  |
 | --- | --- |
@@ -167,7 +167,9 @@ The safety profile of intravenous mycophenolate mofetil was similar to that of i
 
 ### Congenital Disorders
 
-Congenital malformations including ear malformations have been reported in offspring of patients exposed to mycophenolate mofetil USP during pregnancy (see WARNINGS: Pregnancy).
+#### Embryofetal Toxicity
+
+Congenital malformations and an increased incidence of first trimester pregnancy loss have been reported following exposure to mycophenolate mofetil USP during pregnancy (see PRECAUTIONS:Pregnancy).
 
 ### Digestive
 

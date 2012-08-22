@@ -123,12 +123,12 @@ In addition, the single­dose plasma MPAG AUC was 3­fold to 6­fold higher in v
 No data are available on the safety of long­term exposure to this level of MPAG.
 
 Plasma MPA AUC observed after single­dose (1 g) intravenous dosing to volunteers (N=4) with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) was 62.4 mcg•h/mL (±19.3).
-Multiple dosing of mycophenolate mofetil USP in patients with severe chronic renal impairment has not been studied (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).
+Multiple dosing of mycophenolate mofetil USP in patients with severe chronic renal impairment has not been studied (see PRECAUTIONS:Patients with Renal Impairment and DOSAGE AND ADMINISTRATION).
 
 In patients with delayed renal graft function posttransplant, mean MPA AUC(0­12h) was comparable to that seen in posttransplant patients without delayed renal graft function.
 There is a potential for a transient increase in the free fraction and concentration of plasma MPA in patients with delayed renal graft function.
 However, dose adjustment does not appear to be necessary in patients with delayed renal graft function.
-Mean plasma MPAG AUC(0­12h) was 2­fold to 3­fold higher than in posttransplant patients without delayed renal graft function (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).
+Mean plasma MPAG AUC(0­12h) was 2­fold to 3­fold higher than in posttransplant patients without delayed renal graft function (see PRECAUTIONS:Patients with Renal Impairment and DOSAGE AND ADMINISTRATION).
 
 In 8 patients with primary graft non­function following renal transplantation, plasma concentrations of MPAG accumulated about 6­fold to 8­fold after multiple dosing for 28 days.
 Accumulation of MPA was about 1­fold to 2­fold.
@@ -157,17 +157,17 @@ Table 3: Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Early (Day 7) |  |  |  |  |  |  |
 | 1 to <2 yr | (6)A subset of 1 to <6 yr |  | 3.03 | (4.7) | 10.3 | (5.8) | 22.5 | (6.66) |
-| 1 to < 6 yr | (17) |  | 1.63 | (2.85) | 13.2 | (7.16) | 27.4 | (9.54) |
+| 1 to <6 yr | (17) |  | 1.63 | (2.85) | 13.2 | (7.16) | 27.4 | (9.54) |
 | 6 to <12 yr | (16) |  | 0.94 | (0.546) | 13.1 | (6.3) | 33.2 | (12.1) |
 | 12 to 18 yr | (21) |  | 1.16 | (0.83) | 11.7 | (10.7) | 26.3 | (9.14)N=20 |
 |  |  | Late (Month 3) |  |  |  |  |  |  |
 | 1 to <2 yr | (4) |  | 0.725 | (0.276) | 23.8 | (13.4) | 47.4 | (14.7) |
-| 1 to < 6 yr | (15) |  | 0.989 | (0.511) | 22.7 | (10.1) | 49.7 | (18.2) |
+| 1 to <6 yr | (15) |  | 0.989 | (0.511) | 22.7 | (10.1) | 49.7 | (18.2) |
 | 6 to <12 yr | (14) |  | 1.21 | (0.532) | 27.8 | (14.3) | 61.9 | (19.6) |
 | 12 to 18 yr | (17) |  | 0.978 | (0.484) | 17.9 | (9.57) | 53.6 | (20.3)N=16 |
 |  |  | Late (Month 9) |  |  |  |  |  |  |
 | 1 to <2 yr | (4) |  | 0.604 | (0.208) | 25.6 | (4.25) | 55.8 | (11.6) |
-| 1 to < 6 yr | (12) |  | 0.869 | (0.479) | 30.4 | (9.16) | 61 | (10.7) |
+| 1 to <6 yr | (12) |  | 0.869 | (0.479) | 30.4 | (9.16) | 61 | (10.7) |
 | 6 to <12 yr | (11) |  | 1.12 | (0.462) | 29.2 | (12.6) | 66.8 | (21.2) |
 | 12 to 18 yr | (14) |  | 1.09 | (0.518) | 18.1 | (7.29) | 56.7 | (14) |
 

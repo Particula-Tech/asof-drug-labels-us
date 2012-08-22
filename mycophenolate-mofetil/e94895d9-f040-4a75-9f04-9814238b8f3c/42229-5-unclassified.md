@@ -1,8 +1,8 @@
 # Rx only
 
-# WARNING
+# WARNING: EMBRYOFETAL TOXICITY, MALIGNANCIES, AND SERIOUS INFECTIONS
 
-| Immunosuppression may lead to increased susceptibility to infection and possible development of lymphoma. Only physicians experienced in immunosuppressive therapy and management of renal, cardiac or hepatic transplant patients should use mycophenolate mofetil USP. Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources. The physician responsible for maintenance therapy should have complete information requisite for the follow-up of the patient. Female users of childbearing potential must use contraception. Use of mycophenolate mofetil USP during pregnancy is associated with increased risk of pregnancy loss and congenital malformations. |  |
+| Use during pregnancy is associated with increased risks of first trimester pregnancy loss and congenital malformations. Females of reproductive potential (FRP) must be counseled regarding pregnancy prevention and planning (see WARNINGS and PRECAUTIONS). Immunosuppression may lead to increased susceptibility to infection and possible development of lymphoma. Only physicians experienced in immunosuppressive therapy and management of renal, cardiac or hepatic transplant patients should prescribe mycophenolate mofetil USP. Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources. The physician responsible for maintenance therapy should have complete information requisite for the follow-up of the patient counseled regarding pregnancy prevention and planning (see WARNINGS and PRECAUTIONS). |  |
 | --- | --- |
 
 # CLINICAL STUDIES
@@ -117,7 +117,7 @@ Mycophenolate Mofetil Capsules USP and Mycophenolate Mofetil Tablets USP should 
 
 # HANDLING AND DISPOSAL
 
-Mycophenolate mofetil USP has demonstrated teratogenic effects in rats and rabbits (see WARNINGS: Pregnancy).
+Mycophenolate mofetil USP has demonstrated teratogenic effects in rats and rabbits (see Pregnancy and WARNINGS:Embryofetal Toxicity).
 Mycophenolate mofetil tablets USP should not be crushed and mycophenolate mofetil capsules USP should not be opened or crushed.
 Avoid inhalation or direct contact with skin or mucous membranes of the powder contained in mycophenolate mofetil capsules USP and mycophenolate mofetil oral suspension USP (before or after constitution).
 If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water.
