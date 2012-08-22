@@ -1,14 +1,10 @@
-# Principal Display Panel
+# Principal Display Panel - 125 mcg Tablet
 
-NDC 0173-0242-55
+100 Tablets NDC 0173-0242-55
 
-LANOXIN®
-
-(digoxin)
+LANOXIN® (digoxin)
 
 Tablets, USP
-
-100 Tablets
 
 Each scored tablet contains
 
@@ -16,42 +12,25 @@ Each scored tablet contains
 
 Rx only
 
-See prescribing information for dosage information.
+Manufactured by DSM Pharmaceuticals, Inc. Greenville, NC 27834 for
 
-Store at 25oC (77oF) in a dry place and protect from light (see insert).
+GlaxoSmithKline Research Triangle Park, NC 27709 Made in Germany
 
-Dispense in tight, light-resistant container as defined in the USP.
-
-Do not use if printed safety seal under cap is broken or missing.
-
-Manufactured by
-
-DSM Pharmaceuticals, Inc.
-
-Greenville, NC 27834 for
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Made in Germany
-
-10000000060556
-
-Rev.
+10000000060556 Rev.
 9/08
 
-# Principal Display Panel
+See prescribing information for dosage information.
+Store at 25°C (77°F) in a dry place and protect from light (see insert).
+Dispense in tight, light-resistant container as defined in the USP.
+Do not use if printed safety seal under cap is broken or missing.
 
-NDC 0173-0249-55
+# Principal Display Panel - 250 mcg Tablet
 
-LANOXIN®
+100 Tablets NDC 0173-0249-55
 
-(digoxin)
+LANOXIN® (digoxin)
 
 Tablets, USP
-
-100 Tablets
 
 Each scored tablet contains
 
@@ -59,27 +38,14 @@ Each scored tablet contains
 
 Rx only
 
-See prescribing information for dosage information.
+Manufactured by DSM Pharmaceuticals, Inc. Greenville, NC 27834 for
 
-Store at 25oC (77oF) in a dry place (see insert).
+GlaxoSmithKline Research Triangle Park, NC 27709 Made in Germany
 
-Dispense in tight container as defined in the USP.
-
-Do not use if printed safety seal under cap is broken or missing.
-
-Manufactured by
-
-DSM Pharmaceuticals, Inc.
-
-Greenville, NC 27834 for
-
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-Made in Germany
-
-10000000060558
-
-Rev.
+10000000060558 Rev.
 9/08
+
+See prescribing information for dosage information.
+Store at 25°C (77°F) in a dry place (see insert).
+Dispense in tight container as defined in the USP.
+Do not use if printed safety seal under cap is broken or missing.
