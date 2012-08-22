@@ -1,9 +1,10 @@
 # 11 DESCRIPTION
 
-Prograf is available for oral administration as capsules (tacrolimus capsules) containing the equivalent of 0.5 mg, 1 mg or 5 mg of anhydrous tacrolimus.
-Inactive ingredients include lactose monohydrate, hypromellose, croscarmellose sodium, and magnesium stearate.
-The 0.5 mg capsule shell contains gelatin, titanium dioxide and ferric oxide, the 1 mg capsule shell contains gelatin and titanium dioxide, and the 5 mg capsule shell contains gelatin, titanium dioxide and ferric oxide.
-Prograf is also available as a sterile solution (tacrolimus injection) containing the equivalent of 5 mg anhydrous tacrolimus in 1 mL for administration by intravenous infusion only.
+Prograf is available for oral administration as capsules (tacrolimus capsules USP) containing the equivalent of 0.5 mg, 1 mg or 5 mg of anhydrous tacrolimus USP.
+Inactive ingredients include lactose monohydrate NF, hypromellose USP, croscarmellose sodium NF, and magnesium stearate NF.
+The 0.5 mg capsule shell contains gelatin NF, titanium dioxide USP and ferric oxide NF, the 1 mg capsule shell contains gelatin NF and titanium dioxide USP, and the 5 mg capsule shell contains gelatin NF, titanium dioxide USP and ferric oxide NF.
+
+Prograf is also available as a sterile solution (tacrolimus injection) containing the equivalent of 5 mg anhydrous tacrolimus USP in 1 mL for administration by intravenous infusion only.
 Each mL contains polyoxyl 60 hydrogenated castor oil (HCO-60), 200 mg, and dehydrated alcohol, USP, 80.0% v/v.
 Prograf injection must be diluted with 0.9% Sodium Chloride Injection or 5% Dextrose Injection before use.
 

@@ -42,7 +42,7 @@ Incidence of BPAR, Graft Loss, Death or Loss to Follow-up at 12 Months (Study 1)
 | Components of efficacy failure |  |  |  |  |
 | BPAR | 113 (29.0%) | 106 (26.6%) | 60 (15.0%) | 152 (38.1%) |
 | Graft loss excluding death | 28 (7.2%) | 20 (5.0%) | 12 (3.0%) | 30 (7.5%) |
-| Mortality | 13 (3.3%) | 7 (1.8%) | 11 (2.7%) | 12 (3.0%) |
+| MMortality | 13 (3.3%) | 7 (1.8%) | 11 (2.7%) | 12 (3.0%) |
 | Lost to follow-up | 5 (1.3%) | 7 (1.8%) | 5 (1.3%) | 6 (1.5%) |
 | Treatment Difference of efficacy failure compared to Group C (99.2% CIAdjusted for multiple (6) pairwise comparisons using Bonferroni corrections.) | 15.8% (7.1%, 24.3%) | 11.2% (2.7%, 19.5%) | - | 26.0% (17.2%, 34.7%) |
 | Key: Group A=CsA/MMF/CS, B=CsA/MMF/CS/Daclizumab, C=Tac/MMF/CS/Daclizumab, and D=Siro/MMF/CS/Daclizumab |  |  |  |  |

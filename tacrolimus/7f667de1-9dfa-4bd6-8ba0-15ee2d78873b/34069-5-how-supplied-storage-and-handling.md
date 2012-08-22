@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 Prograf (tacrolimus) Capsules
+## 16.1 Prograf (tacrolimus) Capsules USP
 
-| strength | 0.5 mg(containing the equivalent of 0.5 mg anhydrous tacrolimus) | 1 mg(containing the equivalent of 1 mg anhydrous tacrolimus) | 5 mg(containing the equivalent of 5 mg anhydrous tacrolimus) |
+| strength | 0.5 mg(containing the equivalent of 0.5 mg anhydrous tacrolimus USP) | 1 mg(containing the equivalent of 1 mg anhydrous tacrolimus USP) | 5 mg(containing the equivalent of 5 mg anhydrous tacrolimus USP) |
 | --- | --- | --- | --- |
 | shape/color | oblong/light yellow | oblong/white | oblong/grayish red |
 | branding on capsule cap/body | 607 | 617 | 657 |
@@ -11,7 +11,7 @@
 
 Made in Japan
 
-Note: Prograf capsules are not filled to maximum capsule capacity.
+Note: Prograf capsules USP are not filled to maximum capsule capacity.
 Capsule contains labeled amount.
 
 Store and Dispense
@@ -24,7 +24,7 @@ Store at 25°C (77°F); excursions permitted to 15°C-30°C (59°F-86°F).
 
 NDC 0469-3016-01 Product Code 301601
 
-5 mg/mL (equivalent of 5 mg of anhydrous tacrolimus per mL) supplied as a sterile solution in a 1 mL ampule, in boxes of 10 ampules
+5 mg/mL (equivalent of 5 mg of anhydrous tacrolimus USP per mL) supplied as a sterile solution in a 1 mL ampule, in boxes of 10 ampules
 
 Made in Ireland
 

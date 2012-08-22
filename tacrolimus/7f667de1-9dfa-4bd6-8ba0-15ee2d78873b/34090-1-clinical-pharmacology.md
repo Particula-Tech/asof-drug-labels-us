@@ -107,7 +107,7 @@ Following IV infusion of a 0.06 (range 0.06 – 0.09) mg/kg/day to 12 pediatric 
 Following oral administration to the same patients, mean AUC and Cmax were 181±65 (range 81-300) ng·hr/mL and 30±11 (range 14-49) ng/mL, respectively.
 The absolute bioavailability was 19±14 (range 5.2-56) %.
 
-Renal and Hepatic Impairment The mean pharmacokinetic parameters for tacrolimus following single administrations to patients with renal and hepatic impairment are given in (Table 15).
+Renal and Hepatic Impairment The mean pharmacokinetic parameters for tacrolimus following single administrations to patients with renal and hepatic impairment are given in Table 15.
 
 Table 15.
 Pharmacokinetic In Renal and Hepatic Impaired Patients
@@ -144,7 +144,7 @@ Drug Interactions
 
 Frequent monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when concomitant use of the following drugs with tacrolimus is initiated or discontinued [see Drug Interactions (7)].
 
-Telaprevir: In a single dose study in 9 healthy volunteers, coadministration of tacrolimus (0.5 mg single dose) with telaprevir (750 mg three times daily for 13 days) increased the tacrolimus dose-normalized Cmax by 9.3-fold and AUC by 70-fold compared to tacrolimus alone[see Drug Interactions (7.3)].
+Telaprevir: In a single dose study in 9 healthy volunteers, coadministration of tacrolimus (0.5 mg single dose) with telaprevir (750 mg three times daily for 13 days) increased the tacrolimus dose-normalized Cmax by 9.3-fold and AUC by 70-fold compared to tacrolimus alone [see Drug Interactions (7.3)].
 Boceprevir: In a single dose study in 12 subjects, coadministration of tacrolimus (0.5 mg single dose) with boceprevir (800 mg three times daily for 11 days) increased tacrolimus Cmax by 9.9-fold and AUC by 17-fold compared to tacrolimus alone [see Drug Interactions (7.3)].
 
 Nelfinavir: Based on a clinical study of 5 liver transplant recipients, co-administration of tacrolimus with nelfinavir increased blood concentrations of tacrolimus significantly and, as a result, a reduction in the tacrolimus dose by an average of 16-fold was needed to maintain mean trough tacrolimus blood concentrations of 9.7 ng/mL.

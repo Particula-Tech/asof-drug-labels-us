@@ -8,7 +8,7 @@ The physicians responsible for maintenance therapy should have complete informat
 
 ## 5.2 Lymphoma and Other Malignancies
 
-Patients receiving immunosuppressants, including Prograf, are at increased risk of developing lymphomas and other malignancies, particularly of the skin[see Box Warning].
+Patients receiving immunosuppressants, including Prograf, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Box Warning].
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.

@@ -42,7 +42,7 @@ Inform patients that Prograf can cause high blood pressure which may require tre
 
 ## 17.9 Drug Interactions
 
-Instruct patients to tell their health care providers when they start or stop taking all the medicines, including prescription medicines and non-prescription medicines, natural or herbal remedies, nutritional supplements and vitamins [seeDrug Interactions (7)].
+Instruct patients to tell their health care providers when they start or stop taking all the medicines, including prescription medicines and non-prescription medicines, natural or herbal remedies, nutritional supplements and vitamins [see Drug Interactions (7)].
 
 ## 17.10 Pregnant Women and Nursing Mothers
 
@@ -54,12 +54,26 @@ Inform patients that Prograf can interfere with the usual response to immunizati
 
 Rx only
 
+Product of Japan
+
+Ampules manufactured by:
+
+Astellas Ireland Co.,
+
+Limited, Killorglin, County Kerry, Ireland
+
+Capsules manufactured by:
+
+Astellas Pharma Tech, Co., Ltd.
+
+Toyama City, Toyama Japan
+
 Marketed by:
 
 Astellas Pharma US, Inc.
 
-Deerfield, IL 60015-2548
+Northbrook, IL 60062
 
-Revised: July 2012
+Revised: August 2012
 
-11L091-PRG-SPL
+12C020-PRG-SPL

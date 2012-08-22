@@ -2,7 +2,7 @@
 
 PROGRAF[PRO-graf]
 
-(tacrolimus) capsules
+(tacrolimus) capsule USP
 
 Read this Patient Information before you start taking PROGRAF and each time you get a refill.
 There may be new information.
@@ -30,9 +30,7 @@ Prograf can cause serious side effects, including:
 
 What is PROGRAF?
 
-PROGRAF is a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant and
-
-PROGRAF is not for use with medicines called cyclosporines (Gengraf®, Neoral®, and Sandimune®).
+PROGRAF is a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant and PPROGRAF is not for use with medicines called cyclosporines (Gengraf®, Neoral®, and Sandimune®).
 
 PROGRAF is not for use with a medicine called sirolimus (Rapamune®) in people who have had a liver or heart transplants.
 
@@ -233,12 +231,26 @@ Inactive ingredients: lactose monohydrate, hypromellose, croscarmellose sodium, 
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
+Product of Japan
+
+Ampules manufactured by:
+
+Astellas Ireland Co.,
+
+Limited, Killorglin, County Kerry, Ireland
+
+Capsules manufactured by:
+
+Astellas Pharma Tech, Co., Ltd.
+
+Toyama City, Toyama Japan
+
 Marketed by:
 
 Astellas Pharma US, Inc.
 
-Deerfield, IL 60015-2548
+Northbrook, IL 60062
 
-Revised: July 2012
+Issued August 2012
 
-11L091-PRG-PI
+12C020-PRG-PI-SPL
