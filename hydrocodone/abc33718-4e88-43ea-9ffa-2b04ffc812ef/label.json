@@ -5,8 +5,11 @@
   "inn": "hydrocodone",
   "labeler": "Amneal Pharmaceuticals",
   "package_ndcs": [
+    "53746-116-01",
+    "53746-117-01",
     "53746-145-01",
-    "53746-145-05"
+    "53746-145-05",
+    "53746-146-01"
   ],
   "products": [
     {
