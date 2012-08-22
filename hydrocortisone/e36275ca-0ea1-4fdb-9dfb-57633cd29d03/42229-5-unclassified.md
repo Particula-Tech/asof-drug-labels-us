@@ -4,6 +4,7 @@ CONTAINS BENZYL ALCOHOL
 
 For Intravenous or Intramuscular Administration
 
-Rx only
+This product's label may have been updated.
+For current full prescribing information please visit www.pfizer.com
 
-LAB-0121-8.0 July 2010
+LAB-0121-10.0 July 2012
