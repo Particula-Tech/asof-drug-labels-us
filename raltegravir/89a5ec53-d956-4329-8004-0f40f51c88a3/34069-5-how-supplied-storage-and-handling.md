@@ -10,13 +10,13 @@ ISENTRESS tablets 100 mg are pale orange, oval-shaped, orange-banana flavored, c
 They are supplied as follows:
 
 - NDC 0006-0477-61 unit-of-use bottles of 60.
-- No. 3965
+- No. 3972
 
 ISENTRESS tablets 25 mg are pale yellow, round, orange-banana flavored, chewable tablets with the Merck logo on one side and "473" on the other side.
 They are supplied as follows:
 
 - NDC 0006-0473-61 unit-of-use bottles of 60.
-- No. 3972
+- No. 3965
 
 Storage and Handling
 

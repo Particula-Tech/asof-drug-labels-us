@@ -11,7 +11,10 @@ Delay in stopping ISENTRESS treatment or other suspect agents after the onset of
 
 ## 5.2 Immune Reconstitution Syndrome
 
-During the initial phase of treatment, patients responding to antiretroviral therapy may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium complex, cytomegalovirus, Pneumocystis jiroveci pneumonia, Mycobacterium tuberculosis, or reactivation of varicella zoster virus), which may necessitate further evaluation and treatment.
+Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including ISENTRESS.
+During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jiroveci pneumonia, tuberculosis), which may necessitate further evaluation and treatment.
+
+Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
 ## 5.3 Phenylketonurics
 

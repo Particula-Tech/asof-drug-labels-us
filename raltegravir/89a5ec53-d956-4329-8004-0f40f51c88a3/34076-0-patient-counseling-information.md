@@ -12,7 +12,7 @@ Patients should be informed that ISENTRESS is not a cure for HIV infection or AI
 Patients should be told that sustained decreases in plasma HIV RNA have been associated with a reduced risk of progression to AIDS and death.
 Patients should remain on continuous HIV therapy to control HIV infection and decrease HIV-related illnesses.
 They should also be told that people taking ISENTRESS may still get infections or other conditions common in people with HIV (opportunistic infections).
-Patients should be advised to continue to practice safer sex and to use latex or polyurethane condoms or other barrier methods to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions or blood.
+Patients should be advised to continue to practice safer sex and to use latex or polyurethane condoms to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions or blood.
 Patients should also be advised to never re-use or share needles or other injection equipment, or share personal items that can have blood or body fluids on them, such as toothbrushes and razor blades.
 
 Physicians should instruct their patients that if they miss a dose, they should take it as soon as they remember.
