@@ -29,7 +29,7 @@ Blackout spells, epileptiform seizures, slurred speech, dizziness, vertigo, inco
 
 ## Cardiovascular
 
-Cardiac arrhythmia, hypotension, peripheral circulatory collapse, sinus node dysfunction with severe bradycardia (which may result in syncope) unmasking of Brugada Syndrome (See WARNINGS: Unmasking of Brugada Syndromeand PRECAUTIONS: Information for the Patients).
+Cardiac arrhythmia, hypotension, peripheral circulatory collapse, sinus node dysfunction with severe bradycardia (which may result in syncope) unmasking of Brugada Syndrome (See WARNINGS: Unmasking of Brugada Syndrome and PRECAUTIONS: Information for the Patients).
 
 ## Neurological
 
