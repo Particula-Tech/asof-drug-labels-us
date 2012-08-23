@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - Gel Cartidge Carton
+PRINCIPAL DISPLAY PANEL - Gel Cartidge Carton
 
 NDC 66312-110-20 Rx only
 
@@ -13,7 +13,7 @@ Please see enclosed package insert for full prescribing information.
 
 DENTSPLY PHARMACEUTICAL
 
-# PRINCIPAL DISPLAY PANEL - Dispenser Carton
+PRINCIPAL DISPLAY PANEL - Dispenser Carton
 
 oraqix®
 
