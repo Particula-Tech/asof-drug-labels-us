@@ -15,7 +15,7 @@ Drug-seeking tactics include emergency calls or visits near the end of office ho
 
 Abuse and addiction are separate and distinct from physical dependence and tolerance.
 Physicians should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
-In addition, abuse of ULTRAM® can occur in the absence of true addiction and is characterized by misuse for non-medical purposes, often in combination with other psychoactive substances.
+In addition, abuse of tramadol hydrochloride can occur in the absence of true addiction and is characterized by misuse for non-medical purposes, often in combination with other psychoactive substances.
 
 Concerns about abuse and addiction should not prevent the proper management of pain.
 However all patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.

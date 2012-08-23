@@ -12,6 +12,3 @@ Average daily doses of approximately 250 mg of tramadol hydrochloride in divided
 Titration Trials
 
 In a randomized, blinded clinical study with 129 to 132 patients per group, a 10-day titration to a daily tramadol hydrochloride dose of 200 mg (50 mg four times per day), attained in 50 mg increments every 3 days, was found to result in fewer discontinuations due to dizziness or vertigo than titration over only 4 days or no titration.
-In a second study with 54 to 59 patients per group, patients who had nausea or vomiting when titrated over 4 days were randomized to re-initiate tramadol hydrochloride therapy using slower titration rates.
-
-A 16-day titration schedule, starting with 25 mg qAM and using additional doses in 25 mg increments every third day to 100 mg/day (25 mg four times per day), followed by 50 mg increments in the total daily dose every third day to 200 mg/day (50 mg four times per day), resulted in fewer discontinuations due to nausea or vomiting and fewer discontinuations due to any cause than did a 10-day titration schedule.

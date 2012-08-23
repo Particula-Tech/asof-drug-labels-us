@@ -127,7 +127,7 @@ With the prolonged half-life in these conditions, achievement of steady-state is
 ## Information for Patients
 
 - Patients should be informed that tramadol hydrochloride may cause seizures and/or serotonin syndrome with concomitant use of serotonergic agents (including SSRIs, SNRIs, and triptans) or drugs that significantly reduce the metabolic clearance of tramadol.
-- may impair mental or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery.
+- Tramadol hydrochloride may impair mental or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery.
 - Tramadol hydrochloride should not be taken with alcohol containing beverages.
 - Tramadol hydrochloride should be used with caution when taking medications such as tranquilizers, hypnotics or other opiate containing analgesics.
 - The patient should be instructed to inform the physician if they are pregnant, think they might become pregnant, or are trying to become pregnant (see PRECAUTIONS, Labor and Delivery).
@@ -165,7 +165,7 @@ In vitro drug interaction studies in human liver microsomes indicate that tramad
 Potential for Other Drugs to Affect Tramadol
 
 In vitro drug interaction studies in human liver microsomes indicate that concomitant administration with inhibitors of CYP2D6 such as fluoxetine, paroxetine, and amitriptyline could result in some inhibition of the metabolism of tramadol.
-Administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or inducers, such as rifampin and St. John’s Wort, with tramadol hydrochloride may affect the metabolism of tramadol leading to alteted tramadol exposure.
+Administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or inducers, such as rifampin and St. John’s Wort, with tramadol hydrochloride may affect the metabolism of tramadol leading to altered tramadol exposure.
 
 Potential for Tramadol to Affect Other Drugs
 
@@ -175,7 +175,7 @@ Tramadol is a mild inducer of selected drug metabolism pathways measured in anim
 
 Use With Cimetidine
 
-Concomitant administration of tramadol hydrochloride® with cimetidine does not result in clinically significant changes in tramadol pharmacokinetics.
+Concomitant administration of tramadol hydrochloride with cimetidine does not result in clinically significant changes in tramadol pharmacokinetics.
 Therefore, no alteration of the tramadol hydrochloride dosage regimen is recommended.
 
 Use With Digoxin and Warfarin
@@ -213,7 +213,7 @@ Tramadol was evaluated in peri- and post-natal studies in rats.
 Progeny of dams receiving oral (gavage) dose levels of 50 mg/kg (300 mg/m2 or 1.2 times the maximum daily human tramadol dosage) or greater had decreased weights, and pup survival was decreased early in lactation at 80 mg/kg (480 mg/m2 or 1.9 and higher the maximum daily human dose).
 
 There are no adequate and well-controlled studies in pregnant women.
-Tramadol Hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Tramadol hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Neonatal seizures, neonatal withdrawal syndrome, fetal death and still birth have been reported during post-marketing.
 
 ## Labor and Delivery

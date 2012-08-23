@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Tramadol hydrochloride tablets is a centrally acting analgesic.
+Tramadol hydrochloride tablets, USP are a centrally acting analgesic.
 The chemical name for tramadol hydrochloride is (±)cis-2-[(dimethylamino)methyl]-1-(3methoxyphenyl) cyclohexanol hydrochloride.
 Its structural formula is:
 
@@ -10,5 +10,5 @@ Tramadol hydrochloride is a white, bitter, crystalline and odorless powder.
 It is readily soluble in water and ethanol and has a pKa of 9.41.
 The n-octanol/water log partition coefficient (logP) is 1.35 at pH 7.
 
-Each tramadol hydrochloride tablet intended for oral administration contains 50 mg of tramadol hydrochloride.
+Each tramadol hydrochloride tablet, USP intended for oral administration contains 50 mg of tramadol hydrochloride.
 In addition, it also contains the following inactive ingredients: hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, sodium starch glycolate, and titanium dioxide.

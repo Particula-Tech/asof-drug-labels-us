@@ -3,15 +3,16 @@
     "ANDA076003"
   ],
   "inn": "tramadol",
-  "labeler": "Amneal Pharmaceuticals, LLC",
+  "labeler": "Amneal Pharmaceuticals",
   "package_ndcs": [
     "65162-627-01",
+    "65162-627-10",
     "65162-627-11",
     "65162-627-50"
   ],
   "products": [
     {
-      "form": "TABLET",
+      "form": "TABLET, COATED",
       "generic": "tramadol hydrochloride",
       "name": "Tramadol Hydrochloride"
     }

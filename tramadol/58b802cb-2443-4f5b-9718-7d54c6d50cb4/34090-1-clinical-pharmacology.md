@@ -34,7 +34,7 @@ In general, both enantiomers of tramadol and M1 follow a parallel time course in
 Steady-state plasma concentrations of both tramadol and M1 are achieved within two days with four times per day dosing.
 There is no evidence of self-induction (see Figure 1 and Table 1 below).
 
-Figure 1: Mean Tramadol and M1 Plasma Concentration Profiles after a Single 100 mg Oral Dose and after Twenty-Nine 100 mg Oral Doses of Tramadol HCl given four times per year
+Figure 1: Mean Tramadol and M1 Plasma Concentration Profiles after a Single 100 mg Oral Dose and after Twenty-Nine 100 mg Oral Doses of Tramadol HCl given four times per day
 
 Table 1 Mean (%CV) Pharmacokinetic Parameters for Racemic Tramadol and M1 Metabolite
 

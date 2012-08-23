@@ -1,12 +1,11 @@
-# DOSAGE & ADMINISTRATION
+# DOSAGE AND ADMINISTRATION
 
 ## Adults (17 years of age and over)
 
-For patients with moderate to moderately severe chronic pain not requiring rapid onset of analgesic effect, the tolerability of tramadol hydrochloride tablets can be improved by initiating therapy with the following titration regimen: tramadol hydrochloride tablets should be started at 25 mg/day qAM and titrated in 25 mg increments as separate doses every 3 days to reach 100 mg/day (25 mg q.i.d.).
-Thereafter the total daily dose may be increased by 50 mg as tolerated every 3 days to reach 200 mg/day (50 mg q.i.d.).
-After titration, tramdol hydrochloride tablets 50 to 100 mg can be administered as needed for pain relief every 4 to 6 hours not to exceed 400 mg/day.
+For patients with moderate to moderately severe chronic pain not requiring rapid onset of analgesic effect, the tolerability of tramadol hydrochloride tablets, USP can be improved by initiating therapy with a titration regimen: The total daily dose may be increased by 50 mg as tolerated every 3 days to reach 200 mg/day (50 mg q.i.d.).
+After titration, tramadol hydrochloride tablets, USP 50 to 100 mg can be administered as needed for pain relief every 4 to 6 hours not to exceed 400 mg/day.
 
-For the subset of patients for whom rapid onset of analgesic effect is required and for whom the benefits outweigh the risk of discontinuation due to adverse events associated with higher initial doses, tramdol hydrochloride tablets 50 mg to 100 mg can be administered as needed for pain relief every four to six hours, not to exceed 400 mg per day.
+For the subset of patients for whom rapid onset of analgesic effect is required and for whom the benefits outweigh the risk of discontinuation due to adverse events associated with higher initial doses, tramadol hydrochloride tablets, USP 50 mg to 100 mg can be administered as needed for pain relief every four to six hours, not to exceed 400 mg per day.
 
 ## Individualization of Dose
 
