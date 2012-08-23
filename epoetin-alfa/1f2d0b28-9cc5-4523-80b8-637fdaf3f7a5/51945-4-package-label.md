@@ -12,7 +12,9 @@ recombinant
 
 Multidose Vials
 
-20,000 Units / 2 mL (10,000 Units / mL)
+20,000 Units / 2 mL
+
+(10,000 Units / mL)
 
 20,000 Units / 2 mL (10,000 Units / mL)
 
@@ -26,7 +28,7 @@ Store at 2° to 8°C (36° to 46°F).
 
 Do Not Freeze or Shake.
 
-Manufactured by Amgen Manufacturing Limited, a subsidiary of Amgen Inc.
+Manufactured by Amgen Manufacturing, Limited, a subsidiary of Amgen Inc.
 
 Thousand Oaks, CA 91320-1799 U.S.A.
 
@@ -50,7 +52,9 @@ recombinant
 
 Multidose Vials
 
-20,000 Units / mL
+20,000
+
+Units / mL
 
 20,000 Units / mL
 

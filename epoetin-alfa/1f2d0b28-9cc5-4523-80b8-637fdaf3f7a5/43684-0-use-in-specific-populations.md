@@ -6,7 +6,7 @@ The multidose vials are formulated with benzyl alcohol.
 Do not administer Epogen from multidose vials, or Epogen from single-dose vials admixed with bacteriostatic saline containing benzyl alcohol, to pregnant women.
 When therapy with Epogen is needed during pregnancy, use a benzyl alcohol-free formulation [see Dosage and Administration (2) and Contraindications (4)].
 
-### Pregnancy Category C (single-dose vials only)
+Pregnancy Category C (single-dose vials only)
 
 There are no adequate and well-controlled studies of Epogen use during pregnancy.
 There are limited data on Epogen use in pregnant women.

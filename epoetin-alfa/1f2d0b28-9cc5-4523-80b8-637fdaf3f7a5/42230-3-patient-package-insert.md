@@ -30,7 +30,7 @@ When you receive your Epogen vial and syringes make sure that:
   If you shake Epogen, the solution in the vial may look foamy and should not be used.
 - Do not freeze Epogen.
   Do not use a vial of Epogen that has been frozen.
-- Store Epogen in the refrigerator between 36°F and 46°F (2° to 8°C).
+- Store Epogen in the refrigerator between 36°F to 46°F (2°C to 8°C).
 - Keep Epogen away from light.
 - Single-dose vials of Epogen should be used only one time.
   Throw the vial away after use even if there is medicine left in the vial.
@@ -66,56 +66,54 @@ Important: Follow these instructions exactly to help avoid infections.
 
 Preparing the dose:
 
-1. Remove the vial of Epogen from the refrigerator.
-   During this time, protect the solution from light.
-2. Do not use a single-dose vial of Epogen more than one time.
-3. Do not shake Epogen.
-4. Gather the other supplies you will need for your injection (vial, syringe, alcohol wipes, cotton ball, and a puncture-proof container for throwing away the syringe and needle).
-   See Figure 1.
-5. Check the date on the Epogen vial to be sure that the drug has not expired.
-6. Wash your hands well with soap and water before preparing the medicine.
-   See Figure 2.
-7. Flip off the protective color cap on the top of the vial.
-   Do not remove the grey rubber stopper.
-   Wipe the top of the grey rubber stopper with an alcohol wipe.
-   See Figures 3 and 4.
-8. Check the package containing the syringe.
-   If the package has been opened or damaged, do not use that syringe.
-   Throw away the syringe in the puncture-proof disposable container.
-   If the syringe package is undamaged, open the package and remove the syringe.
-9. Using a syringe and needle that has been recommended by your healthcare provider, carefully remove the needle cover.
-   See Figure 5.
-   Then draw air into the syringe by pulling back on the plunger.
-   The amount of air drawn into the syringe should be equal to the amount (mL or cc) of the Epogen dose prescribed by your healthcare provider.
-   See Figure 6.
-10. With the vial on a flat work surface, insert the needle straight down through the grey rubber stopper of the Epogen vial.
-    See Figure 7.
-11. Push the plunger of the syringe down to inject the air from the syringe into the vial of Epogen.
-    The air injected into the vial will allow Epogen to be easily withdrawn into the syringe.
-    See Figure 7.
-12. Keep the needle inside the vial.
-    Turn the vial and syringe upside down.
-    Be sure the tip of the needle is in the Epogen liquid.
-    Keep the vial upside down.
-    Slowly pull back on the plunger to fill the syringe with Epogen liquid to the number (mL or cc) that matches the dose your healthcare provider prescribed.
-    See Figure 8.
-13. Keep the needle in the vial.
-    Check for air bubbles in the syringe.
-    A small amount of air is harmless.
-    Too large an air bubble will give you the wrong Epogen dose.
-    To remove air bubbles, gently tap the syringe with your fingers until the air bubbles rise to the top of the syringe.
-    Slowly push the plunger up to force the air bubbles out of the syringe.
-    Keep the tip of the needle in the Epogen liquid.
-    Pull the plunger back to the number on the syringe that matches your dose.
-    Check again for air bubbles.
-    If there are still air bubbles, repeat the steps above to remove them.
-    See Figures 9 and 10.
-14. Double-check that you have the correct dose in the syringe.
-    Lay the vial down on its side with the needle still in it until after you have selected and prepared your site for injection.
+- Remove the vial of Epogen from the refrigerator.
+  During this time, protect the solution from light.
+- Do not use a single-dose vial of Epogen more than one time.
+- Do not shake Epogen.
+- Gather the other supplies you will need for your injection (vial, syringe, alcohol wipes, cotton ball, and a puncture-proof container for throwing away the syringe and needle).
+  See Figure 1.
+- Check the date on the Epogen vial to be sure that the drug has not expired.
+- Wash your hands well with soap and water before preparing the medicine.
+  See Figure 2.
+- Flip off the protective color cap on the top of the vial.
+  Do not remove the grey rubber stopper.
+  Wipe the top of the grey rubber stopper with an alcohol wipe.
+  See Figures 3 and 4.
+- Check the package containing the syringe.
+  If the package has been opened or damaged, do not use that syringe.
+  Throw away the syringe in the puncture-proof disposable container.
+  If the syringe package is undamaged, open the package and remove the syringe.
+- Using a syringe and needle that has been recommended by your healthcare provider, carefully remove the needle cover.
+  See Figure 5.
+  Then draw air into the syringe by pulling back on the plunger.
+  The amount of air drawn into the syringe should be equal to the amount (mL or cc) of the Epogen dose prescribed by your healthcare provider.
+  See Figure 6.
+- With the vial on a flat work surface, insert the needle straight down through the grey rubber stopper of the Epogen vial.
+  See Figure 7.
+- Push the plunger of the syringe down to inject the air from the syringe into the vial of Epogen.
+  The air injected into the vial will allow Epogen to be easily withdrawn into the syringe.
+  See Figure 7.
+- Keep the needle inside the vial.
+  Turn the vial and syringe upside down.
+  Be sure the tip of the needle is in the Epogen liquid.
+  Keep the vial upside down.
+  Slowly pull back on the plunger to fill the syringe with Epogen liquid to the number (mL or cc) that matches the dose your healthcare provider prescribed.
+  See Figure 8.
+- Keep the needle in the vial.
+  Check for air bubbles in the syringe.
+  A small amount of air is harmless.
+  Too large an air bubble will give you the wrong Epogen dose.
+  To remove air bubbles, gently tap the syringe with your fingers until the air bubbles rise to the top of the syringe.
+  Slowly push the plunger up to force the air bubbles out of the syringe.
+  Keep the tip of the needle in the Epogen liquid.
+  Pull the plunger back to the number on the syringe that matches your dose.
+  Check again for air bubbles.
+  If there are still air bubbles, repeat the steps above to remove them.
+  See Figures 9 and 10.
+- Double-check that you have the correct dose in the syringe.
+  Lay the vial down on its side with the needle still in it until after you have selected and prepared your site for injection.
 
-Selecting and preparing the injection site:
-
-Epogen can be injected into your body using two different ways (routes) as described below.
+Selecting and preparing the injection site:Epogen can be injected into your body using two different ways (routes) as described below.
 Follow your healthcare provider’s instructions about how you should inject Epogen.
 In patients on hemodialysis, the intravenous (IV) route is recommended.
 
@@ -168,7 +166,7 @@ Intravenous Route:
 How should I dispose of the vials, syringes, and needles?
 
 Do not reuse the single-dose vials, syringes, or needles.
-Throw away the vials, syringes and needles as instructed by your healthcare provider or by following these steps:
+Throw away the vials, syringes, and needles as instructed by your healthcare provider or by following these steps:
 
 - Do not throw the vials, syringes, or needles in the household trash or recycle.
 - Do not put the needle cover back on the needle.
@@ -186,8 +184,10 @@ Keep Epogen and all medicines out of reach of children.
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 [Amgen Logo] Manufactured by:
 
-Amgen Manufacturing Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799
+Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A
 
-Revised: 06/2011 © 1989-2011 Amgen Inc. All rights reserved.
+Revised: 05/2012 © 1989-2012 Amgen Inc. All rights reserved.
 
-1xxxxxx - v2
+1xxxxxx - v3
+
+PMV 3

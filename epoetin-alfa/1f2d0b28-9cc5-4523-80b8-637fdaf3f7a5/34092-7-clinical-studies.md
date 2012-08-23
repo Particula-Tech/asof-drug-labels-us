@@ -101,7 +101,7 @@ Study C1: Proportion of Patients Transfused
 
 |  | Week 5 Through Week 16 or End of Study Last-known RBC transfusion status carried forward for patients who discontinued treatment. |  |
 | --- | --- | --- |
-| Chemotherapy Regimen | Epogen (n = 174) | Placebo (n = 170) |
+| Chemotherapy Regimen | Epogen (n = 174) | Placebo(n = 170) |
 | All Regimens | 14% (25/174)Two-sided p < 0.001, logistic regression analysis adjusting for accrual rate and stratification variables | 28% (48/170) |
 | Regimens without cisplatin | 14% (21/148) | 26% (35/137) |
 | Regimens containing cisplatin | 15% (4/26) | 39% (13/33) |

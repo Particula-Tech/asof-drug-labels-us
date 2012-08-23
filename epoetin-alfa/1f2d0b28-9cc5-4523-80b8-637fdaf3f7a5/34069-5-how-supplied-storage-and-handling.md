@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Store at 36oF to 46oF (2oC to 8oC).
+Store at 36ºF to 46ºF (2ºC to 8ºC).
 Do not freeze.
 
 Do not shake.

@@ -15,7 +15,7 @@ The design and overall results of the 3 large trials comparing higher and lower 
 
 Table 1: Randomized Controlled Trials Showing Adverse Cardiovascular Outcomes in Patients With CKD
 
-|  | Normal Hematocrit Study (NHS)(N = 1265) | CHOIR(N = 1432) | TREAT(N = 4038) |
+|  | Normal Hematocrit Study (NHS) (N = 1265) | CHOIR(N = 1432) | TREAT(N = 4038) |
 | --- | --- | --- | --- |
 | Time Period of Trial | 1993 to 1996 | 2003 to 2006 | 2004 to 2009 |
 | Population | CKD patients on hemodialysis with coexisting CHF or CAD, hematocrit 30 ± 3% on epoetin alfa | CKD patients not on dialysis with hemoglobin < 11 g/dL not previously administered epoetin alfa | CKD patients not on dialysis with type II diabetes, hemoglobin ≤ 11 g/dL |
@@ -83,16 +83,16 @@ Randomized, Controlled Studies With Decreased Survival and/or Decreased Locoregi
 | Study/Tumor/(n) | Hemoglobin Target | Achieved Hemoglobin(Median; Q1, Q3Q1= 25th percentile Q3= 75th percentile) | Primary Efficacy Outcome | Adverse Outcome for ESA- containing Arm |
 | --- | --- | --- | --- | --- |
 | Chemotherapy |  |  |  |  |
-| Study 1Metastatic breast cancer(n = 939) | 12-14 g/dL | 12.9 g/dL;12.2, 13.3 g/dL | 12-month overall survival | Decreased 12-month survival |
-| Study 2Lymphoid malignancy(n = 344) | 13-15 g/dL (M) 13-14 g/dL (F) | 11 g/dL;9.8, 12.1 g/dL | Proportion of patients achieving a hemoglobin response | Decreased overall survival |
-| Study 3Early breast cancer(n = 733) | 12.5-13 g/dL | 13.1 g/dL;12.5, 13.7 g/dL | Relapse-free and overall survival | Decreased 3-year relapse-free and overall survival |
-| Study 4Cervical cancer(n = 114) | 12-14 g/dL | 12.7 g/dL;12.1, 13.3 g/dL | Progression-free and overall survival and locoregional control | Decreased 3-year progression-free and overall survival and locoregional control |
+| Study 1 Metastatic breast cancer (n = 939) | 12-14 g/dL | 12.9 g/dL;12.2, 13.3 g/dL | 12-month overall survival | Decreased 12-month survival |
+| Study 2 Lymphoid malignancy (n = 344) | 13-15 g/dL (M) 13-14 g/dL (F) | 11 g/dL;9.8, 12.1 g/dL | Proportion of patients achieving a hemoglobin response | Decreased overall survival |
+| Study 3 Early breast cancer (n = 733) | 12.5-13 g/dL | 13.1 g/dL;12.5, 13.7 g/dL | Relapse-free and overall survival | Decreased 3-year relapse-free and overall survival |
+| Study 4 Cervical cancer (n = 114) | 12-14 g/dL | 12.7 g/dL;12.1, 13.3 g/dL | Progression-free and overall survival and locoregional control | Decreased 3-year progression-free and overall survival and locoregional control |
 | Radiotherapy Alone |  |  |  |  |
-| Study 5Head and neck cancer(n = 351) | ≥ 15 g/dL (M) ≥ 14 g/dL (F) | Not available | Locoregional progression-free survival | Decreased 5-year locoregional progression-free and overall survival |
-| Study 6Head and neck cancer(n = 522) | 14-15.5 g/dL | Not available | Locoregional disease control | Decreased locoregional disease control |
+| Study 5 Head and neck cancer (n = 351) | ≥ 15 g/dL (M) ≥ 14 g/dL (F) | Not available | Locoregional progression-free survival | Decreased 5-year locoregional progression-free and overall survival |
+| Study 6 Head and neck cancer (n = 522) | 14-15.5 g/dL | Not available | Locoregional disease control | Decreased locoregional disease control |
 | No Chemotherapy or Radiotherapy |  |  |  |  |
-| Study 7Non-small cell lung cancer(n = 70) | 12-14 g/dL | Not available | Quality of life | Decreased overall survival |
-| Study 8Non-myeloid malignancy(n = 989) | 12-13 g/dL | 10.6 g/dL;9.4, 11.8 g/dL | RBC transfusions | Decreased overall survival |
+| Study 7 Non-small cell lung cancer (n = 70) | 12-14 g/dL | Not available | Quality of life | Decreased overall survival |
+| Study 8 Non-myeloid malignancy(n = 989) | 12-13 g/dL | 10.6 g/dL;9.4, 11.8 g/dL | RBC transfusions | Decreased overall survival |
 
 ### Decreased Overall Survival
 

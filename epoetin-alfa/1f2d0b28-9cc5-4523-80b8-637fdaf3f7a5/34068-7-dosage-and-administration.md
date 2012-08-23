@@ -105,7 +105,7 @@ After 8 weeks of therapy, if there is no response as measured by hemoglobin leve
 
 The recommended Epogen regimens are:
 
-- 300 Units/kg per day subcutaneously for 14 days total: administered daily for 10 days before surgery, on the day of surgery, and for 4 days after surgery.
+- 300 Units/kg per day subcutaneously for 15 days total: administered daily for 10 days before surgery, on the day of surgery, and for 4 days after surgery.
 - 600 Units/kg subcutaneously in 4 doses administered 21, 14, and 7 days before surgery and on the day of surgery.
 
 Deep venous thrombosis prophylaxis is recommended during Epogen therapy [see Warnings and Precautions (5.1)].

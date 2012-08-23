@@ -232,8 +232,8 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by:
 
-Amgen Manufacturing Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799
+Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A Revised: 05/2012 © 1989-2012 Amgen Inc. All rights reserved.
 
-Revised: 06/2011 © 1989-2011 Amgen Inc. All rights reserved.
+1xxxxxx- v4
 
-1xxxxxx- v3
+PMV 4
