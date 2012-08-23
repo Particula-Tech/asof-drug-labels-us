@@ -15,6 +15,19 @@ M2 and M3 receptors are found in the bladder and may play a role in the pathogen
 Placebo-controlled studies assessing the impact on urodynamic variables of an immediate-release formulation of trospium chloride were conducted in patients with conditions characterized by involuntary detrusor contractions.
 The results demonstrated that trospium chloride increases maximum cystometric bladder capacity and volume at first detrusor contraction.
 
+Electrophysiology
+
+The effect of 20 mg twice daily and up to 100 mg twice daily of an immediate-release formulation of trospium chloride on QT interval was evaluated in a single-blind, randomized, placebo and active (moxifloxacin 400 mg daily) controlled, 5-day parallel trial in 170 male and female healthy volunteer subjects aged 18 to 45 years.
+The QT interval was measured over a 24-hour period at steady state.
+Trospium chloride was not associated with an increase in individual corrected (QTcI) or Fridericia corrected (QTcF) QT interval at any time during steady state measurement, while moxifloxacin was associated with a 6.4 msec increase in QTcF.
+
+In this study, asymptomatic, non-specific T-wave inversions were observed more often in subjects receiving trospium chloride than in subjects receiving moxifloxacin or placebo following five days of treatment.
+The clinical significance of T-wave inversion in this study is unknown.
+This finding was not observed during routine safety monitoring in overactive bladder patients from 2 placebo-controlled clinical trials in 591 patients treated with 20 mg twice daily of immediate-release trospium chloride, nor was it observed in 2 placebo-controlled clinical trials in 578 patients treated with SANCTURA XR® capsules.
+
+Also in this study, the immediate-release formulation of trospium chloride was associated with an increase in heart rate that correlated with increasing plasma concentration, with a mean elevation in heart rate compared to placebo of 9 beats per minute for the 20 mg dose and of 18 beats per minute for the 100 mg dose.
+In the two Phase 3 SANCTURA XR® trials the mean increase in heart rate compared to placebo was approximately 3 beats per minute in both studies.
+
 ## 12.3 Pharmacokinetics
 
 Absorption: Mean absolute bioavailability of a 20 mg immediate-release dose is 9.6% (range 4.0-16.1%).
@@ -28,7 +41,7 @@ A summary of mean (± standard deviation) pharmacokinetic parameters for a singl
 
 Table 3: Mean (±SD) Pharmacokinetic Parameter Estimates for a Single 60 mg Oral Dose of SANCTURA XR® in Healthy Volunteers
 
-| Treatment | AUC(0-24) (ng•h/mL) | Cmax (ng/mL) | Tmax a (h) | t ½ b (h) |
+| Treatment | AUC (0-24) (ng•h/mL) | C max (ng/mL) | T maxa (h) | t ½b (h) |
 | --- | --- | --- | --- | --- |
 | SANCTURA XR® 60 mg | 18.0 ± 13.4 | 2.0 ± 1.5 | 5.0 (3.0-7.5) | 36 ± 22 |
 | a Tmax expressed as median (range). |  |  |  |  |
@@ -52,15 +65,15 @@ Trospium chloride is widely distributed, with an apparent volume of distribution
 Metabolism: The metabolic pathway of trospium in humans has not been fully defined.
 Of the dose absorbed following oral administration, metabolites account for approximately 40% of the excreted dose.
 The major metabolic pathway of trospium is hypothesized as ester hydrolysis with subsequent conjugation of benzylic acid to form azoniaspironortropanol with glucuronic acid.
-Cytochrome P450 does not contribute significantly to the elimination of trospium.
-Data taken from in vitro studies of human liver microsomes investigating the inhibitory effect of trospium on seven cytochrome P450 isoenzyme substrates (CYP1A2, 2A6, 2C9, 2C19, 2D6, 2E1, and 3A4) suggest a lack of inhibition at clinically relevant concentrations.
+CYP P450 does not contribute significantly to the elimination of trospium.
+Data taken from in vitro studies of human liver microsomes investigating the inhibitory effect of trospium on seven CYP P450 isoenzyme substrates (CYP1A2, 2A6, 2C9, 2C19, 2D6, 2E1, and 3A4) suggest a lack of inhibition at clinically relevant concentrations.
 
 Excretion: The plasma half-life for trospium following oral administration of SANCTURA XR® is approximately 35 hours.
 After oral administration of an immediate-release formulation of 14C-labeled trospium chloride, a majority of the dose (85.2%) was recovered in feces and a smaller amount (5.8% of the dose) was recovered in urine.
 Of the radioactivity excreted into the urine, 60% was unchanged trospium.
 
 The mean renal clearance for trospium (29.07 L/hour) is 4-fold higher than average glomerular filtration rate, indicating that active tubular secretion is a major route of elimination.
-There may be competition for elimination with other compounds that are also renally eliminated (see Drug Interactions (7)).
+There may be competition for elimination with other compounds that are also renally eliminated [see Drug Interactions (7)].
 
 Drug Interactions
 
@@ -75,9 +88,9 @@ The effect of decrease in trospium exposure on the efficacy of SANCTURA XR® is 
 The steady-state pharmacokinetics of metformin were comparable when administered with or without 60 mg SANCTURA XR® once daily under fasted condition.
 The effect of metformin at higher doses on trospium PK is unknown.
 
-Pharmacokinetics in Specific Populations
+Specific Populations
 
-Age: In a phase 3 clinical trial of SANCTURA XR®, the observed plasma trospium concentrations were similar in older (≥ 65 years) and younger (< 65 years) OAB patients.
+Age: In a phase 3 clinical trial of SANCTURA XR®, the observed plasma trospium concentrations were similar in older (greater than or equal to 65 years) and younger (less than 65 years) OAB patients.
 
 Pediatric: The pharmacokinetics of SANCTURA XR® were not evaluated in pediatric patients.
 
@@ -87,9 +100,9 @@ Gender: Gender differences in pharmacokinetics of SANCTURA XR® have not been fo
 Data from healthy subjects suggests lower exposure in males compared to females.
 
 Hepatic Impairment: There is no information regarding the effect of severe hepatic impairment on exposure to SANCTURA XR®.
-In a study of patients with mild (Child-Pugh score 5-6) and with moderate (Child-Pugh score 7-8) hepatic impairment, given 40 mg of immediate-release trospium chloride, mean Cmax increased 12% and 63% respectively, and mean AUC0-∞ decreased 5% and 15%, respectively, compared to healthy subjects.
+In a study of patients with mild (Child-Pugh score 5-6) and with moderate (Child-Pugh score 7-8) hepatic impairment, given 40 mg of immediate-release trospium chloride, mean Cmax increased 12% and 63% respectively, and mean AUC(0-∞) decreased 5% and 15%, respectively, compared to healthy subjects.
 
 Renal Impairment: The pharmacokinetics of SANCTURA XR® in patients with severe renal impairment has not been evaluated.
-In a study of an immediate-release formulation of trospium chloride, 4.2-fold and 1.8-fold increases in mean AUC(0–∞) and Cmax, respectively, were detected in patients with severe renal impairment (creatinine clearance < 30 mL/minute), compared with healthy subjects, along with the appearance of an additional elimination phase with a long half-life (~33 hours vs. 18 hours).
-Use of SANCTURA XR® is not recommended in patients with severe renal impairment (see Dosage and Administration (2)).
+In a study of an immediate-release formulation of trospium chloride, 4.2-fold and 1.8-fold increases in mean AUC(0–∞) and Cmax, respectively, were detected in patients with severe renal impairment (creatinine clearance less than 30 mL/minute), compared with healthy subjects, along with the appearance of an additional elimination phase with a long half-life (~33 hours vs. 18 hours).
+Use of SANCTURA XR® is not recommended in patients with severe renal impairment [see Dosage and Administration (2)].
 The pharmacokinetics of trospium chloride have not been studied in people with creatinine clearance ranging from 30-80 mL/min.

@@ -9,16 +9,16 @@ SANCTURA XR® may potentially alter the absorption of some concomitantly adminis
 
 ## 7.1 Digoxin
 
-Concomitant use of trospium chloride 20mg twice daily and digoxin did not affect the pharmacokinetics of either drug (see Pharmacokinetics (12.3)).
+Concomitant use of trospium chloride 20mg twice daily and digoxin did not affect the pharmacokinetics of either drug [see Clinical Pharmacology (12.3)].
 
 ## 7.2 Antacid
 
 While the systemic exposure of trospium on average was comparable with and without antacid containing aluminum hydroxide and magnesium carbonate, 5 out of 11 individuals in a drug interaction study demonstrated either an increase or decrease in trospium exposure, in presence of antacid.
-The clinical relevance of these findings is not known (see Pharmacokinetics (12.3)).
+The clinical relevance of these findings is not known [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Metformin
 
-Co-administration of 500 mg metformin immediate release tablets twice daily reduced the steady-state systemic exposure of trospium by approximately 29% for mean AUC0-24 and by 34% for mean Cmax.
+Co-administration of 500 mg metformin immediate release tablets twice daily reduced the steady-state systemic exposure of trospium by approximately 29% for mean AUC(0-24) and by 34% for mean Cmax.
 The effect of a decrease in trospium exposure on the efficacy of SANCTURA XR® is unknown.
 The steady-state pharmacokinetics of metformin were comparable when administered with or without 60 mg SANCTURA XR® once daily under fasted condition.
-The effect of metformin at higher doses on trospium PK is unknown (see Pharmacokinetics (12.3)).
+The effect of metformin at higher doses on trospium PK is unknown [see Clinical Pharmacology (12.3)].

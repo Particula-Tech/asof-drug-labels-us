@@ -71,7 +71,8 @@ The most common side effects with SANCTURA XR® are:
 SANCTURA XR® may cause other less common side effects, including:
 
 - trouble emptying the bladder;
-- blurred vision;
+- blurred vision and drowsiness.
+  Do not drive or operate heavy machinery until you know how SANCTURA XR® affects you.
 - heat prostration.
   Due to decreased sweating, heat prostration can occur when drugs such as SANCTURA XR® are used in a hot environment.
 
@@ -107,7 +108,9 @@ Manufactured for: Allergan, Inc. Irvine, CA 92612, U.S.A.
 
 Manufactured by: Catalent Pharma Solutions, Inc. Somerset, NJ 08873, U.S.A.
 
-© 2012 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Opadry® is a registered trademark of BPSI Holdings, Inc. Glucophage® is a registered trademark of Merck Santé S.A.S.
-Made in the U.S.A.
+© 2012 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Opadry® is a registered trademark of BPSI Holdings, LLC.
+Glucophage® is a registered trademark of Merck Santé S.A.S.
+Patented.
+See: www.allergan.com/products/patent_notices Made in the U.S.A.
 
-71966US15C
+71966US16
