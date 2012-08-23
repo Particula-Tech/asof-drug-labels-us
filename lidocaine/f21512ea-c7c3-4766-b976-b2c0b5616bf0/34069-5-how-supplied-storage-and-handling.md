@@ -4,9 +4,9 @@ Lidocaine Hydrochloride and 5% Dextrose Injection, USP in VIAFLEX plastic contai
 
 | Code | Size (mL) | NDC | Product Name |
 | --- | --- | --- | --- |
-| 2B0972 | 250 | 0338-0409-02 | 0.4% Lidocaine Hydrochloride and 5% |
-| 2B0973 | 500 | 0338-0409-03 | Dextrose Injection, USP |
-| 2B0962 | 250 | 0338-0411-02 | 0.8% Lidocaine Hydrochloride and 5% Dextrose Injection, USP |
+| 2B0972 | 250 | 0338-0409-02 | Lidocaine Hydrochloride and 5% Dextrose |
+| 2B0973 | 500 | 0338-0409-03 | Injection, USP (4 mg/mL) |
+| 2B0962 | 250 | 0338-0411-02 | Lidocaine Hydrochloride and 5% Dextrose Injection, USP (8 mg/mL) |
 
 Exposure of pharmaceutical products to heat should be minimized.
 Avoid excessive heat.

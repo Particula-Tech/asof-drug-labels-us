@@ -3,7 +3,7 @@
 WARNING: Do not use plastic containers in series connections.
 Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is completed.
 
-## To Open
+## To Open:
 
 Tear overwrap down side at slit and remove solution container.
 Some opacity of the plastic due to moisture absorption during the sterilization process may be observed.
@@ -22,11 +22,11 @@ Do not add supplementary medication.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
-*Bar Code Position Only 071968197
+*Bar Code Position Only 071968966
 
-07-19-68-197
+07-19-68-966
 
 Rev.
-December 2011
+April 2012
 
 BAXTER, VIAFLEX, and PL 146 are trademarks of Baxter International Inc.

@@ -42,15 +42,13 @@ Coadministration of propranolol or cimetidine with lidocaine has been reported t
 When lidocaine is administered with other antiarrhythmic drugs such as amiodarone, phenytoin, procainamide, propranolol or quinidine, the cardiac effects may be additive or antagonistic and toxic effects may be additive.
 Phenytoin may stimulate the hepatic metabolism of lidocaine, but the clinical significance of this effect is not known.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility:
 
 Long term animal studies have not been performed to evaluate carcinogenic potential, mutagenic potential or the effect on fertility of lidocaine hydrochloride.
 
 ## Pregnancy:
 
-### Teratogenic Effects
-
-#### Pregnancy Category B
+### Teratogenic Effects: Pregnancy Category B
 
 Reproduction studies have been performed in rats at doses up to five times the maximum human dose and have revealed no significant findings.
 There are, however, no adequate and well-controlled studies in pregnant women.
