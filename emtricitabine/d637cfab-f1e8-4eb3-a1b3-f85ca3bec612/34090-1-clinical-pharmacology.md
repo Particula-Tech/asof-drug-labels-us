@@ -249,7 +249,7 @@ In a pooled resistance analysis for subjects receiving rilpivirine in combinatio
 In the combined studies, 44% (34/77) of the virologic failures in the rilpivirine arms had genotypic and phenotypic resistance to rilpivirine compared to 23% (10/43) of the virologic failures in the efavirenz arms who had genotypic and phenotypic resistance to efavirenz.
 Moreover, phenotypic and/or genotypic resistance to emtricitabine and tenofovir emerged in 51% (39/77) and 9% (7/77) of the virologic failures, respectively, in the rilpivirine arms compared to 16% (7/43) and 9% (4/43) in the efavirenz arms.
 
-Emerging NNRTI substitutions in the rilpivirine virologic failures included V90I, K101E/P/T, E138K/G, V179I/L, Y181I/C, V189I, H221Y, F227C/L and M230L, which were associated with a rilpivirine phenotypic fold change range of 2.6 – 621.
+Emerging NNRTI substitutions in the rilpivirine virologic failures included V90I, K101E/P/T, E138K/G, V179I/L, Y181I/C, V189I, H221Y, F227C/L and M230L, which were associated with a rilpivirine phenotypic fold change range of 2.6–621.
 The E138K substitution emerged most frequently on rilpivirine treatment commonly in combination with the M184I substitution.
 The emtricitabine and lamivudine resistance-associated substitutions M184I or V emerged more frequently in rilpivirine virologic failures compared to efavirenz virologic failures (see Table 8).
 

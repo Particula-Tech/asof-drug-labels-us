@@ -36,7 +36,7 @@ FDA-Approved Patient Labeling
 
 Patient Information
 
-COMPLERA™ (kom-PLEH-rah) (emtricitabine, rilpivirine and tenofovir disoproxil fumarate) Tablets
+COMPLERA® (kom-PLEH-rah) (emtricitabine, rilpivirine and tenofovir disoproxil fumarate) Tablets
 
 Important: Ask your doctor or pharmacist about medicines that should not be taken with COMPLERA.
 For more information, see the section "What should I tell my healthcare provider before taking COMPLERA?"
@@ -293,11 +293,11 @@ Gilead Sciences, Inc.
 
 Foster City, CA 94404
 
-Issued: August 2011
+Issued: August 2012
 
 COMPLERA, EMTRIVA, HEPSERA, TRUVADA, and VIREAD are trademarks of Gilead Sciences, Inc., or one of its related companies.
 EDURANT is a trademark of Tibotec Pharmaceuticals.
 ATRIPLA is a trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-202123-GS-000 02AUG2011
+202123-GS-001
