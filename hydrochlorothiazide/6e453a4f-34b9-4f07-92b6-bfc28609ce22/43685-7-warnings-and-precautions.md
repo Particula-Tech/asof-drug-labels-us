@@ -226,6 +226,14 @@ Monitor renal function periodically in patients receiving lisinopril and NSAID t
 
 The antihypertensive effect of ACE inhibitors, including lisinopril, may be attenuated by NSAIDs.
 
+Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function and electrolytes in patients on ZESTORETIC and other agents that affect the RAS.
+
+Do not co-administer aliskiren with ZESTORETIC in patients with diabetes.
+Avoid use of aliskiren with ZESTORETIC in patients with renal impairment (GFR < 60 ml/min).
+
 Other Agents: Lisinopril has been used concomitantly with nitrates and/or digoxin without evidence of clinically significant adverse interactions.
 No meaningful clinically important pharmacokinetic interactions occurred when lisinopril was used concomitantly with propranolol, digoxin, or hydrochlorothiazide.
 The presence of food in the stomach does not alter the bioavailability of lisinopril.
