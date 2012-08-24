@@ -1,77 +1,85 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in one clinical trial of a drug cannot be directly compared with rates in the clinical trials of the same or another drug and may not reflect the rates observed in practice.
+The following adverse reactions are discussed in greater detail in the Warnings and Precautions (5) section of the label:
+
+- Endophthalmitis and Retinal Detachments
+- Increases in Intraocular Pressure
+- Thromboembolic Events
+- Fatal Events in DME Patients
 
 ## 6.1 Injection Procedure
 
-Serious adverse reactions related to the injection procedure have occurred in <0.1% of intravitreal injections, including endophthalmitis [see Warnings and Precautions (5.1)], rhegmatogenous retinal detachments, and iatrogenic traumatic cataracts.
+Serious adverse reactions related to the injection procedure have occurred in < 0.1% of intravitreal injections, including endophthalmitis [see Warnings and Precautions (5.1)], rhegmatogenous retinal detachment, and iatrogenic traumatic cataract.
 
 ## 6.2 Clinical Studies Experience
 
-The data below reflect exposure to 0.5 mg LUCENTIS in 440 patients with neovascular AMD in three double-masked, controlled studies (AMD-1, AMD-2, and AMD-3) [see Clinical Studies (14.1)] as well as exposure to 0.5 mg LUCENTIS in 259 patients with macular edema following RVO in two double-masked, controlled studies (RVO-1 and RVO-2) [see Clinical Studies (14.2)].
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in one clinical trial of a drug cannot be directly compared with rates in the clinical trials of the same or another drug and may not reflect the rates observed in practice.
 
 Ocular Reactions
 
-Table 1 shows frequently reported ocular adverse reactions in LUCENTIS treated patients compared with the control group.
+Table 1 shows frequently reported ocular adverse reactions in LUCENTIS-treated patients compared with the control group.
 
-Table 1: Ocular Reactions in AMD and RVO Studies
+Table 1 Ocular Reactions in the DME, AMD, and RVO Studies
 
-| Adverse Reaction | AMD 2-year |  | AMD 1-year |  | RVO 6-month |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| LUCENTIS | Control | LUCENTIS | Control | LUCENTIS | Control |  |
-| n=379 | n=379 | n=440 | n=441 | n=259 | n=260 |  |
-| Conjunctival hemorrhage | 74% | 60% | 64% | 50% | 48% | 37% |
-| Eye pain | 35% | 30% | 26% | 20% | 17% | 12% |
-| Vitreous floaters | 27% | 8% | 19% | 5% | 7% | 2% |
-| Intraocular pressure increased | 24% | 7% | 17% | 5% | 7% | 2% |
-| Vitreous detachment | 21% | 19% | 15% | 15% | 4% | 2% |
-| Intraocular inflammation | 18% | 8% | 13% | 7% | 1% | 3% |
-| Cataract | 17% | 14% | 11% | 9% | 2% | 2% |
-| Foreign body sensation in eyes | 16% | 14% | 13% | 10% | 7% | 5% |
-| Eye irritation | 15% | 15% | 13% | 12% | 7% | 6% |
-| Lacrimation increased | 14% | 12% | 8% | 8% | 2% | 3% |
-| Blepharitis | 12% | 8% | 8% | 5% | 0% | 1% |
-| Dry eye | 12% | 7% | 7% | 7% | 3% | 3% |
-| Visual disturbance or vision blurred | 18% | 15% | 13% | 10% | 5% | 3% |
-| Eye pruritis | 12% | 11% | 9% | 7% | 1% | 2% |
-| Ocular hyperemia | 11% | 8% | 7% | 4% | 5% | 3% |
-| Retinal disorder | 10% | 7% | 8% | 4% | 2% | 1% |
-| Maculopathy | 9% | 9% | 6% | 6% | 11% | 7% |
-| Retinal degeneration | 8% | 6% | 5% | 3% | 1% | 0% |
-| Ocular discomfort | 7% | 4% | 5% | 2% | 2% | 2% |
-| Conjunctival hyperemia | 7% | 6% | 5% | 4% | 0% | 0% |
-| Posterior capsule opacification | 7% | 4% | 2% | 2% | 0% | 1% |
-| Injection site hemorrhage | 5% | 2% | 3% | 1% | 0% | 0% |
+| n=250 | n=250 | n=379 | n=379 | n=440 | n=441 | n=259 | n=260 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | DME 2-year |  | AMD 2-year |  | AMD 1-year |  | RVO 6-month |  |
+| Adverse Reaction | LUCENTIS 0.3 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control |
+| Conjunctival hemorrhage | 47% | 32% | 74% | 60% | 64% | 50% | 48% | 37% |
+| Eye pain | 17% | 13% | 35% | 30% | 26% | 20% | 17% | 12% |
+| Vitreous floaters | 10% | 4% | 27% | 8% | 19% | 5% | 7% | 2% |
+| Intraocular pressure increased | 18% | 7% | 24% | 7% | 17% | 5% | 7% | 2% |
+| Vitreous detachment | 11% | 15% | 21% | 19% | 15% | 15% | 4% | 2% |
+| Intraocular inflammation | 4% | 3% | 18% | 8% | 13% | 7% | 1% | 3% |
+| Cataract | 28% | 32% | 17% | 14% | 11% | 9% | 2% | 2% |
+| Foreign body sensation in eyes | 10% | 5% | 16% | 14% | 13% | 10% | 7% | 5% |
+| Eye irritation | 8% | 5% | 15% | 15% | 13% | 12% | 7% | 6% |
+| Lacrimation increased | 5% | 4% | 14% | 12% | 8% | 8% | 2% | 3% |
+| Blepharitis | 3% | 2% | 12% | 8% | 8% | 5% | 0% | 1% |
+| Dry eye | 5% | 3% | 12% | 7% | 7% | 7% | 3% | 3% |
+| Visual disturbance or vision blurred | 8% | 4% | 18% | 15% | 13% | 10% | 5% | 3% |
+| Eye pruritis | 4% | 4% | 12% | 11% | 9% | 7% | 1% | 2% |
+| Ocular hyperemia | 9% | 9% | 11% | 8% | 7% | 4% | 5% | 3% |
+| Retinal disorder | 2% | 2% | 10% | 7% | 8% | 4% | 2% | 1% |
+| Maculopathy | 5% | 7% | 9% | 9% | 6% | 6% | 11% | 7% |
+| Retinal degeneration | 1% | 0% | 8% | 6% | 5% | 3% | 1% | 0% |
+| Ocular discomfort | 2% | 1% | 7% | 4% | 5% | 2% | 2% | 2% |
+| Conjunctival hyperemia | 1% | 2% | 7% | 6% | 5% | 4% | 0% | 0% |
+| Posterior capsule opacification | 4% | 3% | 7% | 4% | 2% | 2% | 0% | 1% |
+| Injection site hemorrhage | 1% | 0% | 5% | 2% | 3% | 1% | 0% | 0% |
 
 Non-Ocular Reactions
 
-Table 2 shows frequently reported non-ocular adverse reactions in LUCENTIS treated patients compared with the control group.
+Non-ocular adverse reactions with an incidence of ≥ 5% in patients receiving LUCENTIS for DME, AMD, and/or RVO and which occurred at a ≥ 1% higher frequency in patients treated with LUCENTIS compared to control are shown in Table 2.
+Though less common, wound healing complications were also observed in some studies.
 
-Table 2: Non-Ocular Reactions in AMD and RVO Studies
+Table 2 Non-Ocular Reactions in the DME, AMD and RVO Studies
 
-| Adverse Reaction | AMD 2-year |  | AMD 1-year |  | RVO 6-month |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| LUCENTIS | Control | LUCENTIS | Control | LUCENTIS | Control |  |
-| n=379 | n=379 | n=440 | n=441 | n=259 | n=260 |  |
-| Nasopharyngitis | 16% | 13% | 8% | 9% | 5% | 4% |
-| Headache | 12% | 9% | 6% | 5% | 3% | 3% |
-| Arthralgia | 11% | 9% | 5% | 5% | 2% | 1% |
-| Bronchitis | 11% | 9% | 6% | 5% | 0% | 2% |
-| Urinary tract infection | 9% | 9% | 5% | 5% | 1% | 2% |
-| Cough | 9% | 8% | 5% | 4% | 2% | 2% |
-| Nausea | 9% | 6% | 5% | 5% | 1% | 2% |
-| Upper respiratory tract infection | 9% | 8% | 5% | 5% | 2% | 2% |
-| Sinusitis | 8% | 7% | 5% | 5% | 3% | 2% |
-| Anemia | 8% | 7% | 4% | 3% | 1% | 1% |
-| Influenza | 7% | 5% | 3% | 2% | 3% | 2% |
-| Chronic obstructive pulmonary disease | 6% | 3% | 1% | 0% | 0% | 0% |
-| Hypercholesterolemia | 5% | 5% | 3% | 2% | 1% | 1% |
-| Insomnia | 5% | 5% | 3% | 2% | 1% | 1% |
-| Pain in extremity | 5% | 6% | 3% | 2% | 1% | 1% |
-| Atrial fibrillation | 5% | 4% | 2% | 2% | 1% | 0% |
-| Anxiety | 4% | 4% | 3% | 2% | 1% | 2% |
-| Dyspnea | 4% | 3% | 2% | 2% | 0% | 0% |
-| Gastroenteritis viral | 4% | 1% | 3% | 1% | 1% | 0% |
+| n=250 | n=250 | n=379 | n=379 | n=440 | n=441 | n=259 | n=260 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | DME 2-year |  | AMD 2-year |  | AMD 1-year |  | RVO 6-month |  |
+| Adverse Reaction | LUCENTIS 0.3 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control | LUCENTIS 0.5 mg | Control |
+| Nasopharyngitis | 12% | 6% | 16% | 13% | 8% | 9% | 5% | 4% |
+| Anemia | 11% | 10% | 8% | 7% | 4% | 3% | 1% | 1% |
+| Nausea | 10% | 9% | 9% | 6% | 5% | 5% | 1% | 2% |
+| Cough | 9% | 4% | 9% | 8% | 5% | 4% | 1% | 2% |
+| Constipation | 8% | 4% | 5% | 7% | 3% | 4% | 0% | 1% |
+| Seasonal allergy | 8% | 4% | 4% | 4% | 2% | 2% | 0% | 2% |
+| Hypercholesterolemia | 7% | 5% | 5% | 5% | 3% | 2% | 1% | 1% |
+| Influenza | 7% | 3% | 7% | 5% | 3% | 2% | 3% | 2% |
+| Renal failure | 7% | 6% | 1% | 1% | 0% | 0% | 0% | 0% |
+| Upper respiratory tract infection | 7% | 7% | 9% | 8% | 5% | 5% | 2% | 2% |
+| Gastroesophageal reflux disease | 6% | 4% | 4% | 6% | 3% | 4% | 1% | 0% |
+| Headache | 6% | 8% | 12% | 9% | 6% | 5% | 3% | 3% |
+| Edema peripheral | 6% | 4% | 3% | 5% | 2% | 3% | 0% | 1% |
+| Renal failure chronic | 6% | 2% | 0% | 1% | 0% | 0% | 0% | 0% |
+| Neuropathy peripheral | 5% | 3% | 1% | 1% | 1% | 0% | 0% | 0% |
+| Sinusitis | 5% | 8% | 8% | 7% | 5% | 5% | 3% | 2% |
+| Bronchitis | 4% | 4% | 11% | 9% | 6% | 5% | 0% | 2% |
+| Atrial fibrillation | 3% | 3% | 5% | 4% | 2% | 2% | 1% | 0% |
+| Arthralgia | 3% | 3% | 11% | 9% | 5% | 5% | 2% | 1% |
+| Chronic obstructive pulmonary disease | 1% | 1% | 6% | 3% | 3% | 1% | 0% | 0% |
+| Wound healing complications | 1% | 0% | 1% | 1% | 1% | 0% | 0% | 0% |
 
 ## 6.3 Immunogenicity
 
@@ -83,4 +91,11 @@ After monthly dosing with LUCENTIS for 6 to 24 months, antibodies to LUCENTIS we
 
 The clinical significance of immunoreactivity to LUCENTIS is unclear at this time.
 Among neovascular AMD patients with the highest levels of immunoreactivity, some were noted to have iritis or vitritis.
-Intraocular inflammation was not observed in the RVO patients with the highest levels of immunoreactivity.
+Intraocular inflammation was not observed in DME or RVO patients with the highest levels of immunoreactivity.
+
+## 6.4 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of LUCENTIS.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Ocular: Tear of retinal pigment epithelium among patients with neovascular AMD
