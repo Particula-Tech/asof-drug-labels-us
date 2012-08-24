@@ -69,19 +69,19 @@ EMSAM is not approved for use in pediatric patients.
 
 What is the most important information I should know about EMSAM?
 
-- EMSAM (selegiline transdermal system) contains a medicine called a monoamine oxidase inhibitor, also called a MAOI.
-  MAOI medicines, including EMSAM, can cause a sudden, large increase in blood pressure (hypertensive crisis) if you eat foods and drinks that contain high amounts of tyramine.
-  A hypertensive crisis can be a life-threatening condition.
-  See "What are the possible side effects of EMSAM?" for signs and symptoms of a hypertensive crisis.
-  - EMSAM comes in three different doses and patch sizes:
-    - a 6 mg/24 hours patch
-    - a 9 mg/24 hours patch
-    - a 12 mg/24 hours patch
-  - You must avoid (not eat or drink) certain foods and drinks while using EMSAM 9 mg/24 hours and EMSAM 12 mg/24 hours patches and for 2 weeks after stopping EMSAM 9 mg/24 hours and EMSAM 12 mg/24 hours patches.
-    (The table below lists these foods and drinks.Adapted from K.I.
-    Shulman, S.E.
-    Walker, Psychiatric Annals 2001; 31:378-384) The table also lists foods and drinks that are okay to eat and drink while using EMSAM 9 mg/24 hours and EMSAM 12 mg/24 hours patches.
-  - You do not have to make any diet changes with the EMSAM 6 mg/24 hours patch.
+1.
+EMSAM (selegiline transdermal system) contains a medicine called a monoamine oxidase inhibitor, also called a MAOI.
+MAOI medicines, including EMSAM, can cause a sudden, large increase in blood pressure (hypertensive crisis) if you eat foods and drinks that contain high amounts of tyramine.
+A hypertensive crisis can be a life-threatening condition.
+See "What are the possible side effects of EMSAM?" for signs and symptoms of a hypertensive crisis.
+
+- EMSAM comes in three different doses and patch sizes:
+  - a 6 mg/24 hours patch
+  - a 9 mg/24 hours patch
+  - a 12 mg/24 hours patch
+- You must avoid (not eat or drink) certain foods and drinks while using EMSAM 9 mg/24 hours and EMSAM 12 mg/24 hours patches and for 2 weeks after stopping EMSAM 9 mg/24 hours and EMSAM 12 mg/24 hours patches.
+  (The table below lists these foods and drinks.1) The table also lists foods and drinks that are okay to eat and drink while using EMSAM 9 mg/24 hours and EMSAM 12 mg/24 hours patches.
+- You do not have to make any diet changes with the EMSAM 6 mg/24 hours patch.
 
 | Type of Food and Drink | Tyramine-Rich Foods and Drinks to Avoid | Acceptable Foods and Drinks, Containing No or Little Tyramine |
 | --- | --- | --- |
@@ -89,12 +89,18 @@ What is the most important information I should know about EMSAM?
 | Vegetables | ● Broad bean pods (fava bean pods) | ● All other vegetables |
 | Dairy (milk products) | ● Aged cheeses | ● Processed cheeses, mozzarella, ricotta cheese, cottage cheese, and yogurt |
 | Drinks | ● All tap beers and other beers that have not been pasteurized | ● As with other antidepressants, concomitant use of alcohol with EMSAM is not recommended. (Bottled and canned beers and wines contain little or no tyramine.) |
-| Other | ● Concentrated yeast extact (such as Marmite) ● Sauerkraut ● Most soybean products (including soy sauce and tofu) ● Over-the-counter supplements containing tyramine | ● Brewer's yeast, baker's yeast ● Soy milk ● Pizzas from commercial chain resturants prepared with cheeses low in tyramine |
+| Other | ● Concentrated yeast extract (such as Marmite) ● Sauerkraut ● Most soybean products (including soy sauce and tofu) ● Over-the-counter supplements containing tyramine | ● Brewer's yeast, baker's yeast ● Soy milk ● Pizzas from commercial chain restaurants prepared with cheeses low in tyramine |
+
+1Adapted from K.I.
+Shulman, S.E.
+Walker, Psychiatric Annals 2001; 31:378-384
 
 - All foods you eat must be fresh or properly frozen.
 - Avoid foods when you do not know their storage conditions.
-- EMSAM can cause serious and potentially life-threatening reactions if used with certain other medicines.
-  Do not take the following medicines while using EMSAM, and for 2 weeks after stopping EMSAM: ▪ other medicines to treat depression (antidepressants) including other MAOI medicines ▪ medicine which contains selegiline (such as Eldepryl®) ▪ St. John’s wort (a herbal supplement) ▪ Demerol® (meperidine), or medicines that contain meperidine (a narcotic pain medicine) or the pain medicines tramadol, methadone, or propoxyphene ▪ Tegretol® (carbamazepine), or other medicines that contain carbamazepine (a seizure medicine) ▪ Trileptal® (oxcarbazepine), or other medicines that contain oxcarbazepine (a seizure medicine) ▪ Cold or cough preparations that contain dextromethorphan ▪ Flexeril® or other medicines that contain cyclobenzaprine (a medicine used to treat muscle spasms) ▪ decongestant medicines, found in many products to treat cold symptoms ▪ over-the-counter diet pills or herbal weight-loss products ▪ any herbal or dietary supplement that contains tyramine ▪ medicines called amphetamines, also called stimulants or “uppers” ▪ BuSpar® (buspirone HCl), an anxiety medicine
+
+2.
+EMSAM can cause serious and potentially life-threatening reactions if used with certain other medicines.
+Do not take the following medicines while using EMSAM, and for 2 weeks after stopping EMSAM: ▪ other medicines to treat depression (antidepressants) including other MAOI medicines ▪ medicine which contains selegiline (such as Eldepryl®) ▪ St. John’s wort (a herbal supplement) ▪ Demerol® (meperidine), or medicines that contain meperidine (a narcotic pain medicine) or the pain medicines tramadol, methadone, or propoxyphene ▪ Tegretol® (carbamazepine), or other medicines that contain carbamazepine (a seizure medicine) ▪ Trileptal® (oxcarbazepine), or other medicines that contain oxcarbazepine (a seizure medicine) ▪ Cold or cough preparations that contain dextromethorphan ▪ Flexeril® or other medicines that contain cyclobenzaprine (a medicine used to treat muscle spasms) ▪ decongestant medicines, found in many products to treat cold symptoms ▪ over-the-counter diet pills or herbal weight-loss products ▪ any herbal or dietary supplement that contains tyramine ▪ medicines called amphetamines, also called stimulants or “uppers” ▪ BuSpar® (buspirone HCl), an anxiety medicine
 
 Some of these medicines will have to be stopped for at least a week before you can start using EMSAM.
 
@@ -275,6 +281,6 @@ Napa, CA 94558
 
 MANUFACTURED FOR: Somerset Pharmaceuticals, Inc. Morgantown, WV 26505
 
-*Prozac® is a registered trademark of Eli Lilly and Company *Zoloft® is a registered trademark of Pfizer Pharmaceuticals *Anafranil® is a registered trademark of Mallinckrodt Inc. *Demerol® is a registered trademark of Sanofi *Eldepryl® is a registered trademark of Somerset Pharmaceuticals *Tegretol® and Trileptal® are registered trademarks of Novartis Pharmaceuticals Corporation *Flexeril® is a registered trademark of ALZA Corporation *BuSpar® is registered trademark of Bristol-Myers Squibb Company
+*Demerol® is a registered trademark of Sanofi *Eldepryl® is a registered trademark of Somerset Pharmaceuticals *Tegretol® and Trileptal® are registered trademarks of Novartis Pharmaceuticals Corporation *Flexeril® is a registered trademark of ALZA Corporation *BuSpar® is registered trademark of Bristol-Myers Squibb Company
 
-JANUARY 2010 EMSAM:PLR8 03-944-01
+REVISED AUGUST 2011 EMSAM:PLR9 03-944-02

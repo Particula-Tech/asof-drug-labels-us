@@ -11,7 +11,7 @@ The mechanism of action of EMSAM as an antidepressant is not fully understood, b
 In an in vivo animal model used to test for antidepressant activity (Forced Swim Test), selegiline administered by transdermal patch exhibited antidepressant properties only at doses that inhibited both MAO-A and MAO-B activity in the brain.
 In the CNS, MAO-A and MAO-B play important roles in the catabolism of neurotransmitter amines such as norepinephrine, dopamine, and serotonin, as well as neuromodulators such as phenylethylamine.
 Other molecular sites of action have also been explored and in this regard, a direct pharmacological interaction may also occur between selegiline and brain neuronal α2B receptors.
-In in vitro receptor binding assays, selegiline has demonstrated affinity for the human recombinant adrenergic α2B receptor (Ki = 284 µM).
+In in vitro receptor binding assays, selegiline has demonstrated affinity for the human recombinant adrenergic α2B receptor (Ki = 0.3 µM).
 No affinity [Ki > 10 µM] was noted at dopamine receptors, adrenergic β3, glutamate, muscarinic M1-M5, nicotinic, or rolipram receptor/sites.
 
 ## Pharmacokinetics
