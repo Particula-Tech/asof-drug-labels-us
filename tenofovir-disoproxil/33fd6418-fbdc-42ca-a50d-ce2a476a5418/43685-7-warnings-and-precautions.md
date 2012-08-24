@@ -68,11 +68,16 @@ Changes from baseline BMD Z-scores were -0.341 for lumbar spine and -0.458 for t
 In both trials, skeletal growth (height) appeared to be unaffected.
 Markers of bone turnover in VIREAD-treated pediatric subjects suggest increased bone turnover, consistent with the effects observed in adults.
 
+In a clinical trial (Study 115) conducted in pediatric subjects 12 to less than 18 years of age with chronic hepatitis B infection, both the VIREAD and placebo treatment arms experienced an overall increase in mean lumbar spine BMD over 72 weeks, as expected for an adolescent population.
+The BMD gains from baseline to Week 72 in lumbar spine and total body BMD in VIREAD-treated subjects (+5% and +3%, respectively) were less than the BMD gains observed in placebo-treated subjects (+8% and +5%, respectively).
+Three subjects in the VIREAD group and two subjects in the placebo group had significant (greater than 4%) lumbar spine BMD loss at Week 72.
+At baseline, mean BMD Z-scores in subjects randomized to VIREAD were −0.43 for lumbar spine and −0.20 for total body, and mean BMD Z-scores in subjects randomized to placebo were −0.28 for lumbar spine and −0.26 for total body.
+In subjects receiving VIREAD for 72 weeks, the mean change in BMD Z-score was −0.05 for lumbar spine and −0.15 for total body compared to +0.07 and +0.06, respectively, in subjects receiving placebo.
+As observed in pediatric studies of HIV-infected patients, skeletal growth (height) appeared to be unaffected.
+
 The effects of VIREAD-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
 
 Cases of osteomalacia (associated with proximal renal tubulopathy and which may contribute to fractures) have been reported in association with the use of VIREAD [See Adverse Reactions (6.2)].
-
-The bone effects of VIREAD have not been studied in patients with chronic HBV infection.
 
 ## 5.7 Fat Redistribution
 

@@ -17,11 +17,13 @@ Reproduction studies have been performed in rats and rabbits at doses up to 14 a
 ## 8.3 Nursing Mothers
 
 Nursing Mothers: The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breast-feed their infants to avoid risking postnatal transmission of HIV-1.
-Samples of breast milk obtained from five HIV-1 infected mothers in the first post-partum week show that tenofovir is excreted in human milk at low levels.
+Samples of breast milk obtained from five HIV-1 infected mothers in the first post-partum week show that tenofovir is secreted in human milk.
 The impact of this exposure in breastfed infants is unknown.
 Because of both the potential for HIV-1 transmission and the potential for serious adverse reactions in nursing infants, mothers should be instructed not to breast-feed if they are receiving VIREAD.
 
 ## 8.4 Pediatric Use
+
+Pediatric Patients 2 Years of Age and Older with HIV-1 infection
 
 The safety of VIREAD in pediatric patients aged 2 to less than 18 years is supported by data from two randomized trials in which VIREAD was administered to HIV-1 infected treatment-experienced subjects.
 In addition, the pharmacokinetic profile of tenofovir in patients 2 to less than 18 years of age at the recommended doses was similar to that found to be safe and effective in adult clinical trials [See Clinical Pharmacology (12.3)].
@@ -41,7 +43,19 @@ Subgroup analyses suggest the lack of difference in virologic response may be at
 Although changes in HIV-1 RNA in these highly treatment-experienced subjects were less than anticipated, the comparability of the pharmacokinetic and safety data to that observed in adults supports the use of VIREAD in pediatric patients 12 years of age and older who weigh greater than or equal to 35 kg and whose HIV-1 isolate is expected to be sensitive to VIREAD.
 [See Warnings and Precautions (5.6), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)].
 
-Safety and effectiveness of VIREAD in pediatric patients younger than 2 years of age have not been established.
+Safety and effectiveness of VIREAD in pediatric patients younger than 2 years of age with HIV-1 infection have not been established.
+
+Pediatric Patients 12 Years of Age and Older with Chronic Hepatitis B
+
+In Study 115, 106 HBeAg negative (9%) and positive (91%) subjects aged 12 to less than 18 years with chronic HBV infection were randomized to receive blinded treatment with VIREAD 300 mg (N = 52) or placebo (N = 54) for 72 weeks.
+At study entry, the mean HBV DNA was 8.1 log10 copies/mL and mean ALT was 101 U/L.
+Of 52 subjects treated with VIREAD, 20 subjects were nucleos(t)ide-naïve and 32 subjects were nucleos(t)ide-experienced.
+Thirty-one of the 32 nucleos(t)ide-experienced subjects had prior lamivudine experience.
+At Week 72, 88% (46/52) of subjects in the VIREAD group and 0% (0/54) of subjects in the placebo group had HBV DNA <400 copies/mL.
+Among subjects with abnormal ALT at baseline, 74% (26/35) of subjects receiving VIREAD had normalized ALT at Week 72 compared to 31% (13/42) in the placebo group.
+One VIREAD-treated subject experienced sustained HBsAg-loss and seroconversion to anti-HBs during the first 72 weeks of study participation.
+
+Safety and effectiveness of VIREAD in pediatric patients younger than 12 years of age or less than 35 kg with chronic hepatitis B have not been established.
 
 ## 8.5 Geriatric Use
 

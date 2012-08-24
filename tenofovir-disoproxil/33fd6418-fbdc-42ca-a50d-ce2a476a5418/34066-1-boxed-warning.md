@@ -1,4 +1,4 @@
-# WARNINGS: LACTIC ACIDOSIS/SEVERE HEPATOMEGALY WITH STEATOSIS and POST TREATMENT EXACERBATION OF HEPATITIS
+# WARNING: LACTIC ACIDOSIS/SEVERE HEPATOMEGALY WITH STEATOSIS and POST TREATMENT EXACERBATION OF HEPATITIS
 
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs, including VIREAD, in combination with other antiretrovirals [See Warnings and Precautions (5.1)].
 

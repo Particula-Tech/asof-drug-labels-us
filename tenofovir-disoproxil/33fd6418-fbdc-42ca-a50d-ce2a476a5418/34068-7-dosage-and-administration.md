@@ -1,14 +1,17 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dose in Adults
+## 2.1 Recommended Dose in Adults and Pediatric Patients 12 Years of Age and Older (35 kg or more)
 
 For the treatment of HIV-1 or chronic hepatitis B: The dose is one 300 mg VIREAD tablet once daily taken orally, without regard to food.
 
-For adults unable to swallow VIREAD tablets, the oral powder formulation (7.5 scoops) may be used.
+For patients unable to swallow VIREAD tablets, the oral powder formulation (7.5 scoops) may be used.
 
 In the treatment of chronic hepatitis B, the optimal duration of treatment is unknown.
+Safety and efficacy in pediatric patients with chronic hepatitis B weighing less than 35 kg have not been established.
 
-## 2.2 Recommended Dose in Pediatric Patients (2 to Less Than 18 Years of Age)
+## 2.2 Recommended Dose in Pediatric Patients 2 Years to Less Than 12 Years of Age
+
+HIV-1 Infection
 
 For the treatment of HIV-1 in pediatric patients 2 years of age and older, the recommended oral dose of VIREAD is 8 mg of tenofovir disoproxil fumarate per kilogram of body weight (up to a maximum of 300 mg) once daily administered as oral powder or tablets.
 
@@ -50,6 +53,10 @@ Table 2 Dosing Recommendations for Pediatric Patients ≥2 Years of Age and Weig
 | 22 to <28 | 200 mg |
 | 28 to <35 | 250 mg |
 | ≥35 | 300 mg |
+
+Chronic Hepatitis B
+
+Safety and efficacy of VIREAD in patients younger than 12 years of age have not been established.
 
 ## 2.3 Dose Adjustment for Renal Impairment in Adults
 

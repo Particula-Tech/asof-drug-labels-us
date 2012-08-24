@@ -23,7 +23,7 @@ VIREAD can cause serious side effects, including:
   - feel dizzy or lightheaded
   - have a fast or irregular heartbeat
 - 2.Severe liver problems.
-  Severe liver problems can happen in people who take VIREAD.
+  Severe liver problems can happen in people who take VIREAD or similar medicines.
   In some cases these liver problems can lead to death.
   Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis) when you take VIREAD.
   Call your healthcare provider right away if you have any of the following symptoms of liver problems:
@@ -50,7 +50,7 @@ What is VIREAD?
 
 VIREAD is a prescription medicine used:
 
-- with other antiviral medicines to treat Human Immunodeficiency Virus (HIV) in adults and children 2 years of age and older.
+- 1.with other antiviral medicines to treat Human Immunodeficiency Virus-1 (HIV-1) in people 2 years of age and older.
   HIV is the virus that causes AIDS (Acquired Immune Deficiency Syndrome).
   - When used with other HIV medicines, VIREAD may reduce the amount of HIV in your blood (called "viral load").
     VIREAD may also help to increase the number of CD4 (T) cells in your blood which help fight off other infections.
@@ -58,46 +58,46 @@ VIREAD is a prescription medicine used:
     This may reduce your risk of death or infections that can happen when your immune system is weak (opportunistic infections).
   - VIREAD does not cure HIV infection or AIDS.
     People taking VIREAD may still develop infections or other conditions associated with HIV infection.
-  - Patients must stay on continuous HIV therapy to control infection and decrease HIV-related illnesses.
+  - You must stay on continuous HIV therapy to control infection and decrease HIV-related illnesses.
   - It is very important that you stay under the care of your healthcare provider.
-- to treat chronic hepatitis B virus (HBV) in adults.
-  VIREAD will not cure HBV.
+  - It is not known if VIREAD is safe and effective for the treatment of HIV-1 infection in children under the age of 2 years.
+- 2.to treat chronic (long-lasting) hepatitis B virus (HBV) in people 12 years of age and older.
+  - VIREAD will not cure HBV.
   - VIREAD may lower the amount of HBV in your body.
   - VIREAD may improve the condition of your liver.
-
-The long-term effects of taking VIREAD for treatment of chronic hepatitis B infection are not known.
-
-It is not known if VIREAD is safe and effective for treatment of chronic hepatitis B in children under the age of 18 years.
+  - The long-term effects of taking VIREAD for treatment of chronic hepatitis B infection are not known.
+  - It is not known if VIREAD is safe and effective for treatment of chronic hepatitis B in children under the age of 12 years.
 
 What should I tell my healthcare provider before taking VIREAD?
 
 Before you take VIREAD, tell your healthcare provider if you:
 
-- have liver problems, including hepatitis B (HBV) infection
-- have kidney problems
-- have bone problems
-- have any other medical conditions, including HIV infection
+- have liver problems, including hepatitis B (HBV) infection.
+- have kidney problems.
+- have bone problems.
+- have any other medical conditions, including HIV infection.
 - are pregnant or plan to become pregnant.
   It is not known if VIREAD will harm your unborn baby.
   Pregnancy Registry.
   There is a pregnancy registry for women who take antiviral medicines during pregnancy.
   Its purpose is to collect information about the health of you and your baby.
   Talk to your healthcare provider about how you can take part in this registry.
-
-Do not breastfeed if you are taking VIREAD.
-Tenofovir passes into your breast milk.
-You should not breastfeed because of the risk of passing HIV to your baby.
-Talk to your healthcare provider about the best way to feed your baby.
+- are breastfeeding or plan to breastfeed.
+  Do not breastfeed if you are taking VIREAD.
+  Tenofovir passes into your breast milk.
+  You should not breastfeed because of the risk of passing HIV to your baby.
+  Talk to your healthcare provider about the best way to feed your baby.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 VIREAD may affect the way other medicines work, and other medicines may affect how VIREAD works.
 
 Do not take VIREAD if you also take:
 
-- other medicines that contain tenofovir (ATRIPLA, COMPLERA, TRUVADA)
-- adefovir (HEPSERA)
+- other medicines that contain tenofovir (ATRIPLA®, COMPLERA®, TRUVADA®)
+- adefovir (HEPSERA®)
 
-Especially tell your healthcare provider if you take the following medications, as the dose of these other medications may need to be changed:
+Especially tell your healthcare provider if you take the following medications.
+The dose of these other medications may need to be changed.
 
 - didanosine (VIDEX, VIDEX EC)
 - atazanavir (REYATAZ)
@@ -111,10 +111,10 @@ How should I take VIREAD?
 - See "What is the most important information I should know about VIREAD?"
 - Take VIREAD exactly as your healthcare provider tells you to take it.
 - Take VIREAD at the same time every day.
-- For adults: the usual dose of VIREAD is one 300 mg tablet each day.
-  If you have kidney problems, your healthcare provider may tell you to take VIREAD less often.
-- Adults who are unable to swallow VIREAD tablets whole may take 7½ scoops of VIREAD oral powder.
-- For children 2 years of age and older, your healthcare provider will prescribe the right dose of VIREAD oral powder or tablets based on your child's body weight.
+- For adults and children 12 years of age and older, the usual dose of VIREAD is one 300 mg tablet each day.
+- If you are an adult with kidney problems, your healthcare provider may tell you to take VIREAD less often.
+- Adults and children 12 years of age and older who are unable to swallow VIREAD tablets whole may take 7½ scoops of VIREAD oral powder.
+- For children 2 to 12 years of age, your healthcare provider will prescribe the right dose of VIREAD oral powder or tablets based on your child's body weight.
 - Tell your healthcare provider if your child has problems with swallowing tablets.
 - See the "Instructions for Use" section at the end of this Patient Information leaflet for information about the right way to measure and take VIREAD oral powder.
 - Take VIREAD tablets by mouth, with or without food.
@@ -129,7 +129,8 @@ What are the possible side effects of VIREAD?
 VIREAD may cause serious side effects, including:
 
 - See "What is the most important information I should know about VIREAD?"
-- New or worse kidney problems can happen in some people who take VIREAD.
+- New or worse kidney problems, including kidney failure, can happen in some people who take VIREAD.
+  Your healthcare provider should do blood tests to check your kidneys before you start treatment with VIREAD.
   If you have had kidney problems in the past or need to take another medicine that can cause kidney problems, your healthcare provider may need to do blood tests to check your kidneys during your treatment with VIREAD.
 - Bone problems can happen in some people who take VIREAD.
   Bone problems include bone pain, softening or thinning (which may lead to fractures).
@@ -165,7 +166,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store VIREAD?
 
-- Store VIREAD tablets or oral powder at 59 °F to 86 °F (15 °C to 30 °C).
+- Store VIREAD tablets or oral powder at room temperature between 68 °F to 77 °F (20 °C to 25 °C).
 - Keep VIREAD in the original container.
 - Do not use VIREAD if the seal over the bottle opening is broken or missing.
 - Keep the bottle tightly closed.
@@ -181,7 +182,7 @@ It may harm them.
 
 Avoid doing things that can spread HIV-1 or HBV infection to others.
 
-- Do not share needles or other injection equipment.
+- Do not share or re-use needles or other injection equipment.
 - Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
 - Do not have any kind of sex without protection.
   Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
@@ -201,9 +202,9 @@ Active Ingredient: tenofovir disoproxil fumarate
 
 Inactive Ingredients:
 
-Oral Powder: mannitol, hydroxypropyl cellulose, ethylcellulose, and silicon dioxide.
+VIREAD tablets: croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and pregelatinized starch.
 
-Tablets: croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and pregelatinized starch.
+VIREAD Oral Powder: mannitol, hydroxypropyl cellulose, ethylcellulose, and silicon dioxide.
 
 Tablet Coating:
 

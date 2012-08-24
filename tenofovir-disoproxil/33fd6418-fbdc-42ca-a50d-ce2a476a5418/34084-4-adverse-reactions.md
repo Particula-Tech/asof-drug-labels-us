@@ -199,7 +199,7 @@ Three of these 4 subjects presented with hypophosphatemia and also had decreases
 
 Clinical Trials in Adult Subjects with Chronic Hepatitis B and Compensated Liver Disease
 
-Treatment-Emergent Adverse Reactions: In controlled clinical trials in subjects with chronic hepatitis B (0102 and 0103), more subjects treated with VIREAD during the 48-week double-blind period experienced nausea: 9% with VIREAD versus 2% with HEPSERA.
+Treatment-Emergent Adverse Reactions: In controlled clinical trials in 641 subjects with chronic hepatitis B (0102 and 0103), more subjects treated with VIREAD during the 48-week double-blind period experienced nausea: 9% with VIREAD versus 2% with HEPSERA.
 Other treatment-emergent adverse reactions reported in more than 5% of subjects treated with VIREAD included: abdominal pain, diarrhea, headache, dizziness, fatigue, nasopharyngitis, back pain and skin rash.
 
 During the open-label phase of treatment with VIREAD (weeks 48–240) in Studies 0102 and 0103, less than 1% of subjects (5/585) experienced a confirmed increase in serum creatinine of 0.5 mg/dL from baseline.
@@ -235,6 +235,13 @@ Three of these subjects (each of whom had a Child-Pugh score greater than or equ
 Because both VIREAD and decompensated liver disease may have an impact on renal function, the contribution of VIREAD to renal impairment in this population is difficult to ascertain.
 
 One of 45 subjects experienced an on-treatment hepatic flare during the 48 Week trial.
+
+Clinical Trials in Pediatric Subjects 12 Years of Age and Older with Chronic Hepatitis B
+
+Assessment of adverse reactions is based on one randomized study (Study GS-US-174-0115) in 106 pediatric subjects (12 to less than 18 years of age) infected with chronic hepatitis B receiving treatment with VIREAD (N = 52) or placebo (N = 54) for 72 weeks.
+The adverse reactions observed in pediatric subjects who received treatment with VIREAD were consistent with those observed in clinical trials of VIREAD in adults.
+
+The mean rate of bone mineral density gain was less in VIREAD-treated subjects compared to placebo [See Warnings and Precautions (5.6)].
 
 ## 6.2 Postmarketing Experience
 

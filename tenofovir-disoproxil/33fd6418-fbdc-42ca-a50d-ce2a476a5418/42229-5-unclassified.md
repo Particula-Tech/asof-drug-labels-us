@@ -39,10 +39,10 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for and distributed by: Gilead Sciences, Inc. Foster City, CA 94404
 
-August 2012
+Revised August 2012
 
 COMPLERA, EMTRIVA, GSI, HEPSERA, TRUVADA, and VIREAD are registered trademarks of Gilead Sciences, Inc., or its related companies.
 ATRIPLA is a registered trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks herein are the property of their respective owners.
 
-21-356-GS-031
+21-356-GS-032

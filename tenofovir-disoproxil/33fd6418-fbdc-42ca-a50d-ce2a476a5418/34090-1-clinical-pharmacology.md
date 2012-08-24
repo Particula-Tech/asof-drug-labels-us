@@ -52,13 +52,15 @@ Gender: Tenofovir pharmacokinetics are similar in male and female subjects.
 Pediatric Patients 2 Years of Age and Older: Steady-state pharmacokinetics of tenofovir were evaluated in 31 HIV-1 infected pediatric subjects 2 to less than 18 years (Table 11).
 Tenofovir exposure achieved in these pediatric subjects receiving oral once daily doses of VIREAD 300 mg (tablet) or 8 mg/kg of body weight (powder) up to a maximum dose of 300 mg was similar to exposures achieved in adults receiving once-daily doses of VIREAD 300 mg.
 
-Table 11 Mean (± SD) Tenofovir Pharmacokinetic Parameters by Age Groups for Pediatric Patients
+Table 11 Mean (± SD) Tenofovir Pharmacokinetic Parameters by Age Groups for HIV–1–infected Pediatric Patients
 
 |  | 12 to <18 Year (N=8) | 2 to <12 Years (N=23) |
 | --- | --- | --- |
 | Dose and Formulation | 300 mg Tablet | 8 mg/kg Oral Powder |
 | Cmax (µg/mL) | 0.38 ± 0.13 | 0.24 ± 0.13 |
 | AUCtau (µg∙hr/mL) | 3.39 ± 1.22 | 2.59 ± 1.06 |
+
+Tenofovir exposures in 52 HBV-infected pediatric subjects (12 to less than 18 years of age) receiving oral once-daily doses of VIREAD 300 mg tablet were comparable to exposures achieved in HIV-1-infected adults and adolescents receiving once-daily doses of 300 mg.
 
 Geriatric Patients: Pharmacokinetic trials have not been performed in the elderly (65 years and older).
 
@@ -88,8 +90,9 @@ At concentrations substantially higher (~300-fold) than those observed in vivo, 
 However, a small (6%) but statistically significant reduction in metabolism of CYP1A substrate was observed.
 Based on the results of in vitro experiments and the known elimination pathway of tenofovir, the potential for CYP mediated interactions involving tenofovir with other medicinal products is low.
 
-VIREAD has been evaluated in healthy volunteers in combination with abacavir, atazanavir, didanosine, efavirenz, emtricitabine, entecavir, indinavir, lamivudine, lopinavir/ritonavir, methadone, nelfinavir, oral contraceptives, ribavirin, saquinavir/ritonavir, and tacrolimus.
+VIREAD has been evaluated in healthy volunteers in combination with other antiretroviral and potential concomitant drugs.
 Tables 13 and 14 summarize pharmacokinetic effects of coadministered drug on tenofovir pharmacokinetics and effects of VIREAD on the pharmacokinetics of coadministered drug.
+No clinically significant drug interactions have been observed between VIREAD and efavirenz, methadone, nelfinavir, oral contraceptives, or ribavirin.
 
 Table 13 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirSubjects received VIREAD 300 mg once daily. in the Presence of the Coadministered Drug
 
@@ -98,19 +101,14 @@ Table 13 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirS
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Tenofovir Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect =; NC = Not Calculated (90% CI) |  |  |
 | Abacavir | 300 once | 8 |  |  | NC |
 | AtazanavirReyataz Prescribing Information | 400 once daily × 14 days | 33 | ↑ 14 (↑ 8 to ↑ 20) | ↑ 24 (↑ 21 to ↑ 28) | ↑ 22 (↑ 15 to ↑ 30) |
-| Didanosine (enteric-coated) | 400 once | 25 |  |  |  |
-| Didanosine (buffered) | 250 or 400 once daily × 7 days | 14 |  |  |  |
-| Efavirenz | 600 once daily × 14 days | 29 |  |  |  |
+| DidanosineSubjects received didanosine buffered tablets. | 250 or 400 once daily × 7 days | 14 |  |  |  |
 | Emtricitabine | 200 once daily × 7 days | 17 |  |  |  |
 | Entecavir | 1 mg once daily × 10 days | 28 |  |  |  |
 | Indinavir | 800 three times daily × 7 days | 13 | ↑ 14 (↓ 3 to ↑ 33) |  |  |
 | Lamivudine | 150 twice daily × 7 days | 15 |  |  |  |
 | Lopinavir/Ritonavir | 400/100 twice daily × 14 days | 24 |  | ↑ 32 (↑ 25 to ↑ 38) | ↑ 51 (↑ 37 to ↑ 66) |
-| Nelfinavir | 1250 twice daily × 14 days | 29 |  |  |  |
 | Saquinavir/Ritonavir | 1000/100 twice daily × 14 days | 35 |  |  | ↑ 23 (↑ 16 to ↑ 30) |
 | Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 | ↑ 13 (↑ 1 to ↑ 27) |  |  |
-
-Following multiple dosing to HIV- and HBV-negative subjects receiving either chronic methadone maintenance therapy or oral contraceptives, or single doses of ribavirin, steady state tenofovir pharmacokinetics were similar to those observed in previous trials, indicating lack of clinically significant drug interactions between these agents and VIREAD.
 
 Table 14 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of VIREAD
 
@@ -120,41 +118,21 @@ Table 14 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | Abacavir | 300 once | 8 | ↑ 12 (↓ 1 to ↑ 26) |  | NA |
 | AtazanavirReyataz Prescribing Information | 400 once daily × 14 days | 34 | ↓ 21 (↓ 27 to ↓ 14) | ↓ 25 (↓ 30 to ↓ 19) | ↓ 40 (↓ 48 to ↓ 32) |
 | Atazanavir | Atazanavir/ Ritonavir 300/100 once daily × 42 days | 10 | ↓ 28 (↓ 50 to ↑ 5) | ↓ 25In HIV-infected subjects, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3- and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. (↓ 42 to ↓ 3) | ↓ 23 (↓ 46 to ↑ 10) |
-| Efavirenz | 600 once daily × 14 days | 30 |  |  |  |
+| DidanosineVidex EC Prescribing Information. Subjects received didanosine enteric-coated capsules. | 250 once, simultaneously with VIREAD and a light meal373 kcal, 8.2 g fat | 33 | ↓ 20Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions. (↓ 32 to ↓ 7) |  | NA |
 | Emtricitabine | 200 once daily × 7 days | 17 |  |  | ↑ 20 (↑ 12 to ↑ 29) |
 | Entecavir | 1 mg once daily × 10 days | 28 |  | ↑ 13 (↑ 11 to ↑ 15) |  |
 | Indinavir | 800 three times daily × 7 days | 12 | ↓ 11 (↓ 30 to ↑ 12) |  |  |
 | Lamivudine | 150 twice daily × 7 days | 15 | ↓ 24 (↓ 34 to ↓ 12) |  |  |
 | Lopinavir | Lopinavir/Ritonavir 400/100 twice daily × 14 days | 24 |  |  |  |
 | Ritonavir |  |  |  |  |  |
-| MethadoneR-(active), S- and total methadone exposures were equivalent when dosed alone or with VIREAD. | 40–110 once daily × 14 daysIndividual subjects were maintained on their stable methadone dose. No pharmacodynamic alterations (opiate toxicity or withdrawal signs or symptoms) were reported. | 13 |  |  |  |
-| Nelfinavir | 1250 twice daily × 14 days | 29 |  |  |  |
-| M8 metabolite |  |  |  |  |  |
-| Oral ContraceptivesEthinyl estradiol and 17-deacetyl norgestimate (pharmacologically active metabolite) exposures were equivalent when dosed alone or with VIREAD. | Ethinyl Estradiol/ Norgestimate (Ortho-Tricyclen) once daily × 7 days | 20 |  |  |  |
-| Ribavirin | 600 once | 22 |  |  | NA |
 | Saquinavir | Saquinavir/Ritonavir 1000/100 twice daily × 14 days | 32 | ↑ 22 (↑ 6 to ↑ 41) | ↑ 29Increases in AUC and Cmin are not expected to be clinically relevant; hence no dose adjustments are required when tenofovir DF and ritonavir-boosted saquinavir are coadministered. (↑ 12 to ↑ 48) | ↑ 47 (↑ 23 to ↑ 76) |
 | Ritonavir |  |  | ↑ 23 (↑ 3 to ↑ 46) |  |  |
 | Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 |  |  |  |
 
-Table 15 summarizes the drug interaction between VIREAD and didanosine.
 Coadministration of VIREAD and didanosine should be undertaken with caution [See Drug Interactions (7.1)].
 When administered with multiple doses of VIREAD, the Cmax and AUC of didanosine 400 mg increased significantly.
 The mechanism of this interaction is unknown.
 When didanosine 250 mg enteric-coated capsules were administered with VIREAD, systemic exposures to didanosine were similar to those seen with the 400 mg enteric-coated capsules alone under fasted conditions.
-
-Table 15 Drug Interactions: Pharmacokinetic Parameters for Didanosine in the Presence of VIREAD
-
-| Cmax | AUC |  |  |  |
-| --- | --- | --- | --- | --- |
-| Didanosine Dose (mg)/ Method of Administration | VIREAD Method of AdministrationAdministration with food was with a light meal (~373 kcal, 20% fat). | N | % Difference (90% CI) vs. Didanosine 400 mg Alone, FastedIncrease = ↑; Decrease = ↓; No Effect = |  |
-| Buffered tablets |  |  |  |  |
-| 400 once dailyIncludes 4 subjects weighing less than 60 kg receiving ddI 250 mg. × 7 days | Fasted 1 hour after didanosine | 14 | ↑ 28 (↑ 11 to ↑ 48) | ↑ 44 (↑ 31 to ↑ 59) |
-| Enteric coated capsules |  |  |  |  |
-| 400 once, fasted | With food, 2 hours after didanosine | 26 | ↑ 48 (↑ 25 to ↑ 76) | ↑ 48 (↑ 31 to ↑ 67) |
-| 400 once, with food | Simultaneously with didanosine | 26 | ↑ 64 (↑ 41 to ↑ 89) | ↑ 60 (↑ 44 to ↑ 79) |
-| 250 once, fasted | With food, 2 hours after didanosine | 28 | ↓ 10 (↓ 22 to ↑ 3) |  |
-| 250 once, fasted | Simultaneously with didanosine | 28 |  | ↑ 14 (0 to ↑ 31) |
-| 250 once, with food | Simultaneously with didanosine | 28 | ↓ 29 (↓ 39 to ↓ 18) | ↓ 11 (↓ 23 to ↑ 2) |
 
 ## 12.4 Microbiology
 
@@ -217,9 +195,9 @@ HIV-1 RNA responses among these subjects were durable through Week 48.
 Studies 902 and 907 Phenotypic Analyses
 
 Phenotypic analysis of baseline HIV-1 from treatment-experienced subjects (N=100) demonstrated a correlation between baseline susceptibility to VIREAD and response to VIREAD therapy.
-Table 16 summarizes the HIV-1 RNA response by baseline VIREAD susceptibility.
+Table 15 summarizes the HIV-1 RNA response by baseline VIREAD susceptibility.
 
-Table 16 HIV-1 RNA Response at Week 24 by Baseline VIREAD Susceptibility (Intent-To-Treat)Tenofovir susceptibility was determined by recombinant phenotypic Antivirogram assay (Virco).
+Table 15 HIV-1 RNA Response at Week 24 by Baseline VIREAD Susceptibility (Intent-To-Treat)Tenofovir susceptibility was determined by recombinant phenotypic Antivirogram assay (Virco).
 
 | Baseline VIREAD SusceptibilityFold change in susceptibility from wild-type. | Change in HIV-1 RNAAverage HIV-1 RNA change from baseline through Week 24 (DAVG24) in log10 copies/mL. (N) |
 | --- | --- |
@@ -241,9 +219,9 @@ Resistance
 Cumulative VIREAD genotypic resistance has been evaluated annually for up to 240 weeks in Studies 0102, 0103, 0106, and 0108 with the paired HBV reverse transcriptase amino acid sequences of the pre-treatment and on-treatment isolates from subjects who received at least 24 weeks of VIREAD monotherapy and remained viremic with HBV DNA greater than or equal to 400 copies/mL at the end of each study year (or at discontinuation of VIREAD monotherapy) using an as-treated analysis.
 In the nucleotide-naïve population from Studies 0102 and 0103, HBeAg-positive subjects had a higher baseline viral load than HBeAg-negative subjects and a significantly higher proportion of the subjects remained viremic at their last time point on VIREAD monotherapy (15% versus 4%, respectively).
 
-HBV isolates from these subjects who remained viremic showed treatment-emergent substitutions (Table 17); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to VIREAD (genotypic and phenotypic analyses).
+HBV isolates from these subjects who remained viremic showed treatment-emergent substitutions (Table 16); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to VIREAD (genotypic and phenotypic analyses).
 
-Table 17 Amino Acid Substitutions in Viremic Subjects across HBV Trials of VIREAD
+Table 16 Amino Acid Substitutions in Viremic Subjects across HBV Trials of VIREAD
 
 |  | Nucleotide-Naïve (N=417)Nucleotide-naïve subjects from Studies 0102 (N=246) and 0103 (N=171) receiving up to 240 weeks of treatment with VIREAD. | HEPSERA-Experienced (N=247)HEPSERA-experienced subjects from Studies 0102/0103 (N=195) and 0106 (N=52) receiving up to 192 weeks of treatment with VIREAD after switching to VIREAD from HEPSERA. Study 0106, a randomized, double-blind, 168-week Phase 2 trial, has been completed. |  |
 | --- | --- | --- | --- |

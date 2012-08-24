@@ -12,9 +12,9 @@ Patients should be advised that:
   - Do not share needles or other injection equipment.
   - Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
   - Do not have any kind of sex without protection.
-    Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
+    Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
   - Do not breastfeed.
-    Tenofovir is excreted in breast milk.
+    Tenofovir is excreted in breast milk and it is not known whether it can harm the baby.
     Mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
 - The long term effects of VIREAD are unknown.
 - VIREAD tablets and oral powder are for oral ingestion only.
@@ -31,7 +31,7 @@ Patients should be advised that:
 - VIREAD should not be administered in combination with HEPSERA [See Warnings and Precautions (5.4)].
 - Patients with HIV-1 should be tested for Hepatitis B virus (HBV) before initiating antiretroviral therapy [See Warnings and Precautions (5.5)].
 - In patients with chronic hepatitis B, it is important to obtain HIV antibody testing prior to initiating VIREAD [See Warnings and Precautions (5.5)].
-- Decreases in bone mineral density have been observed with the use of VIREAD in patients with HIV.
+- Decreases in bone mineral density have been observed with the use of VIREAD.
   Bone mineral density monitoring should be considered in patients who have a history of pathologic bone fracture or at risk for osteopenia [See Warnings and Precautions (5.6)].
 - In the treatment of chronic hepatitis B, the optimal duration of treatment is unknown.
   The relationship between response and long-term prevention of outcomes such as hepatocellular carcinoma is not known.
