@@ -1,3 +1,3 @@
 # Principal Display Panel
 
-Glenmark NDC 68462-461-10 TROSPIUM CHLORIDE TABLETS 20 mg Rx Only 1000 Tablets
+Glenmark NDC 68462-461-60 TROSPIUM CHLORIDETABLETS 20 mg Rx Only 60 Tablets

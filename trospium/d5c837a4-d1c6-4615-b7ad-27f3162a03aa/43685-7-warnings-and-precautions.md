@@ -9,17 +9,27 @@ If involvement of the tongue, hypopharynx, or larynx occurs, trospium chloride s
 
 ## General
 
-Risk of Urinary Retention: Trospium chloride should be administered with caution to patients with clinically significant bladder outflow obstruction because of the risk of urinary retention.
+### Risk of Urinary Retention:
 
-Decreased Gastrointestinal Motility: Trospium chloride should be administered with caution to patients with gastrointestinal obstructive disorders because of the risk of gastric retention (See CONTRAINDICATIONS).
+Trospium chloride should be administered with caution to patients with clinically significant bladder outflow obstruction because of the risk of urinary retention.
+
+### Decreased Gastrointestinal Motility:
+
+Trospium chloride should be administered with caution to patients with gastrointestinal obstructive disorders because of the risk of gastric retention (See CONTRAINDICATIONS).
 Trospium chloride, like other anticholinergic drugs, may decrease gastrointestinal motility and should be used with caution in patients with conditions such as ulcerative colitis, intestinal atony and myasthenia gravis.
 
-Controlled Narrow-angle Glaucoma: In patients being treated for narrow-angle glaucoma, trospium chloride should only be used if the potential benefits outweigh the risks and in that circumstance only with careful monitoring.
+### Controlled Narrow-angle Glaucoma:
 
-Patients with Renal Impairment: Dose modification is recommended in patients with severe renal impairment (creatinine clearance < 30 mL/min).
+In patients being treated for narrow-angle glaucoma, trospium chloride should only be used if the potential benefits outweigh the risks and in that circumstance only with careful monitoring.
+
+### Patients with Renal Impairment:
+
+Dose modification is recommended in patients with severe renal impairment (creatinine clearance < 30 mL/min).
 In such patients, trospium chloride should be administered as 20 mg once a day at bedtime (See DOSAGE AND ADMINISTRATION).
 
-Patients with Hepatic Impairment: Caution should be used when administering trospium chloride in patients with moderate or severe hepatic impairment (See CLINICAL PHARMACOLOGY: Pharmacokinetics in Specific Populations).
+### Patients with Hepatic Impairment:
+
+Caution should be used when administering trospium chloride in patients with moderate or severe hepatic impairment (See CLINICAL PHARMACOLOGY: Pharmacokinetics in Specific Populations).
 
 ## Information for Patients
 
@@ -36,7 +46,7 @@ If a dose is skipped, patients are advised to take their next dose 1 hour prior 
 
 ## Drug-Drug Interactions
 
-Trospium chloride is metabolized by ester hydrolysis and excreted by the kidneys through a combination of tubular secretion and glomerular filtration.
+Trospium chlorideis metabolized by ester hydrolysis and excreted by the kidneys through a combination of tubular secretion and glomerular filtration.
 Based on in vitro data, no clinically relevant metabolic drug-drug interactions are expected with trospium.
 However, some drugs which are actively secreted by the kidney may interact with trospium by competing for renal tubular secretion.
 Co-administration of 500 mg metformin immediate release tablets twice daily with trospium chloride 60 mg extended release tablets reduced the steady-state systemic exposure of trospium by approximately 29% for mean AUC0-24 and by 34% for mean Cmax.
@@ -44,7 +54,7 @@ Co-administration of 500 mg metformin immediate release tablets twice daily with
 The concomitant use of trospium chloride with other antimuscarinic agents that produce dry mouth, constipation, and other anticholinergic pharmacological effects may increase the frequency and/or severity of such effects.
 Trospium chloride may potentially alter the absorption of some concomitantly administered drugs due to anticholinergic effects on gastrointestinal motility.
 
-Concomitant use of trospium chloride and digoxin did not affect the pharmacokinetics of either drug.
+Concomitant use of trospium chlorideand digoxin did not affect the pharmacokinetics of either drug.
 
 Drugs Eliminated by Active Tubular Secretion: Although demonstrated in a drug-drug interaction study not to affect the pharmacokinetics of digoxin, trospium chloride has the potential for pharmacokinetic interactions with other drugs that are eliminated by active tubular secretion (e.g. procainamide, pancuronium, morphine, vancomycin, and tenofovir).
 

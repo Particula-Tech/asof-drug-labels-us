@@ -51,10 +51,10 @@ After oral administration of an immediate-release formulation of 14 C-trospium c
 The mean renal clearance for trospium (29.07 L/hour) is 4-fold higher than average glomerular filtration rate, indicating that active tubular secretion is a major route of elimination for trospium.
 There may be competition for elimination with other compounds that are also renally eliminated (See PRECAUTIONS: Drug Interactions).
 
-A summary of mean (± standard deviation) pharmacokinetic parameters for a single 20 mg dose of trospium chloride is provided in Table 1.
+A summary of mean (± standard deviation) pharmacokinetic parameters for a single 20 mg dose of trospium chloride tablets is provided in Table 1.
 
 Table 1.
-Mean (± SD) Pharmacokinetic Parameter Estimates for a Single 20 mg trospium chloride Dose in Healthy Volunteers
+Mean (± SD) Pharmacokinetic Parameter Estimates for a Single 20 mg Trospium Chloride Tablet Dose in Healthy Volunteers
 
 | Cmax (ng/mL) | AUC 0-∞ (ng/ mL · hr) | Tmax (hr) | t½ (hr) |
 | --- | --- | --- | --- |
@@ -76,8 +76,8 @@ The pharmacokinetics of trospium chloride were not evaluated in pediatric patien
 ##### Gender:
 
 Studies comparing the pharmacokinetics in different genders had conflicting results.
-When a single 40 mg trospium chloride dose was administered to 16 elderly subjects, exposure was 45% lower in elderly females compared to elderly males.
-When 20 mg trospium chloride was dosed twice daily for 4 days to 6 elderly males and 6 elderly females (60 to 75 years), AUC and Cmax were 26% and 68% higher, respectively, in females without hormone replacement therapy than in males.
+When a single 40 mg trospium chloride tablet dose was administered to 16 elderly subjects, exposure was 45% lower in elderly females compared to elderly males.
+When 20 mg trospium chloride tablet was dosed twice daily for 4 days to 6 elderly males and 6 elderly females (60 to 75 years), AUC and Cmax were 26% and 68% higher, respectively, in females without hormone replacement therapy than in males.
 
 #### Race:
 
