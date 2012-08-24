@@ -12,5 +12,5 @@ Miosis relieves appositional angle narrowing and closure, which lowers IOP in ce
 
 Systemic exposure to pilocarpine was evaluated in 14 healthy subjects administered 2 drops of Isopto® Carpine (pilocarpine hydrochloride ophthalmic solution) 4% to both eyes four times daily for eight days.
 A comparison of Cmax values on Days 5 and 8 indicated that pilocarpine concentrations in plasma reached steady-state following topical administration of Isopto® Carpine 4%.
-The mean (SD) Cmax and AUC0-last values on Day 8 were 3.7 (3.2) ng/mL and 7.7 (8.4) ngxhour/mL, respectively.
+The mean (SD) Cmax and AUC0-last values on Day 8 were 3.7 (3.2) ng/mL and 7.7 (8.4) ng×hour/mL, respectively.
 The Tmax values on Day 8 ranged from 0.5 to 1 hour.

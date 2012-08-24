@@ -26,16 +26,4 @@ If more than one topical ophthalmic medication is being used, the medicines must
 
 To limit exposure to pilocarpine to the eye alone, close eyes gently and apply pressure with finger to the corner of eye by the nose for 2 minutes after instillation of Isopto® Carpine ophthalmic solution.
 
-Rx Only
-
-ALCON LABORATORIES, INC.
-
-6201 South Freeway
-
-Fort Worth, Texas 76134 USA
-
-1-800-757-9195
-
-Printed in USA
-
-©2009, 2010 Alcon, Inc.
+Rx Only Printed in USA ©2009, 2010 Alcon, Inc. ALCON LABORATORIES, INC. 6201 South Freeway Fort Worth, Texas 76134 USA 1-800-757-9195 9005884-0910
