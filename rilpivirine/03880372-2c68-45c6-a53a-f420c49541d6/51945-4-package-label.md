@@ -4,6 +4,8 @@ PRINCIPAL DISPLAY PANEL - 25 mg Bottle Label
 
 EDURANT™ (rilpivirine) tablets
 
+25 mg
+
 Each tablet contains 27.5 mg of rilpivirine hydrochloride, which is equivalent to 25 mg of rilpivirine.
 
 Rx only

@@ -177,4 +177,4 @@ EDURANT™ is the trademark of Tibotec Pharmaceuticals
 
 © Tibotec, Inc. 2011
 
-Issued May 2011
+Issued August 2012
