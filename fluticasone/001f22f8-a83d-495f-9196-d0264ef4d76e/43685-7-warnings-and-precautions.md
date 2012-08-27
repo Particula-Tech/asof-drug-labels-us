@@ -2,7 +2,7 @@
 
 ## 5.1 Local Effects
 
-In clinical studies, the development of localized infections of the mouth and pharynx with Candida albicans has occurred in patients treated with FLOVENT DISKUS.
+In clinical studies, the development of localized infections of the mouth and pharynx with Candida albicanshas occurred in patients treated with FLOVENT DISKUS.
 When such an infection develops, it should be treated with appropriate local or systemic (i.e., oral antifungal) therapy while treatment with FLOVENT DISKUS continues, but at times therapy with FLOVENT DISKUS may need to be interrupted.
 Patients should rinse the mouth after inhalation of FLOVENT DISKUS [see Adverse Reactions (6.1)].
 

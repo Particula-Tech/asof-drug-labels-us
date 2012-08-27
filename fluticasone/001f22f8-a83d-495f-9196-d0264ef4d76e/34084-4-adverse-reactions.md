@@ -2,12 +2,12 @@
 
 Systemic and local corticosteroid use may result in the following:
 
-- Candida albicans infection [see Warnings and Precautions (5.1)]
-- Immunosuppression [see Warnings and Precautions (5.3)]
-- Hypercorticism and adrenal suppression [see Warnings and Precautions (5.5)]
-- Reduction in bone mineral density [see Warnings and Precautions (5.7)]
-- Growth effects [see Warnings and Precautions (5.8)]
-- Glaucoma and cataracts [see Warnings and Precautions (5.9)]
+- •Candida albicans infection [see Warnings and Precautions (5.1)]
+- •Immunosuppression [see Warnings and Precautions (5.3)]
+- •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.5)]
+- •Reduction in bone mineral density [see Warnings and Precautions (5.7)]
+- •Growth effects [see Warnings and Precautions (5.8)]
+- •Glaucoma and cataracts [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 

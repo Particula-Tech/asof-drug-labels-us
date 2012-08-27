@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0600-02
 
-Flovent® Diskus® 50 mcg
+Flovent®Diskus® 50 mcg
 
 (fluticasone propionate inhalation powder, 50 mcg)
 
@@ -36,7 +36,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0602-02
 
-Flovent® Diskus® 100 mcg
+Flovent®Diskus® 100 mcg
 
 (fluticasone propionate inhalation powder, 100 mcg)
 
@@ -70,7 +70,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0601-02
 
-Flovent® Diskus® 250 mcg
+Flovent®Diskus® 250 mcg
 
 (fluticasone propionate inhalation powder, 250 mcg)
 
