@@ -140,8 +140,6 @@ Changes in thyroid status of the patient may necessitate adjustment in dosage.
 Steroids should be used with caution in active or latent peptic ulcers, diverticulitis, fresh intestinal anastomoses, and nonspecific ulcerative colitis, since they may increase the risk of a perforation.
 Signs of peritoneal irritation following gastrointestinal perforation in patients receiving corticosteroids may be minimal or absent.
 
-There is an enhanced effect due to decreased metabolism of corticosteroids in patients with cirrhosis.
-
 ## Musculoskeletal
 
 Corticosteroids decrease bone formation and increase bone resorption both through their effect on calcium regulation (i.e., decreasing absorption and increasing excretion) and inhibition of osteoblast function.

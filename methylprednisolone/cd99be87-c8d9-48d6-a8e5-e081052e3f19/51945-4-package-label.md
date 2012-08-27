@@ -1,40 +1,42 @@
-# PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
+# PRINCIPAL DISPLAY PANEL - 500 mg Vial Label
 
 500 mg*
 
-NDC 0009-0758-01 Rx only
-
-1 Vial 4–125 mg Doses
+4–125 mg Doses NDC 0009-0758-01
 
 Solu-Medrol® methylprednisolone sodium succinate for injection, USP 500 mg*
 
 For intramuscular or intravenous use
 
-Recommended Diluent Contains Benzyl Alcohol as a Preservative (This Package Does Not Contain Diluent)
+Recommended Diluent Contains Benzyl Alcohol as a Preservative
+
+Rx only
 
 Pfizer Injectables
 
-# PRINCIPAL DISPLAY PANEL - 1 gram Vial Carton
+# PRINCIPAL DISPLAY PANEL - 1 gram Vial Label
 
 1 gram*
 
-NDC 0009-0698-01 Rx only
+NDC 0009-0698-01
 
-1 Vial 8–125 mg Doses
+8–125 mg Doses
 
 Solu-Medrol® methylprednisolone sodium succinate for injection, USP 1 gram*
 
 For intramuscular or intravenous use
 
-Recommended Diluent Contains Benzyl Alcohol as a Preservative (This Package Does Not Contain Diluent)
+Recommended Diluent Contains Benzyl Alcohol as a Preservative
+
+Rx only
 
 Pfizer Injectables
 
-# PRINCIPAL DISPLAY PANEL - 2 gram Vial Carton
+# PRINCIPAL DISPLAY PANEL - 2 gram Vial Label
 
 2 grams*
 
-NDC 0009-0796-01 Rx only
+NDC 0009-0796-01
 
 Single-Dose Container
 
@@ -42,7 +44,9 @@ Solu-Medrol® methylprednisolone sodium succinate for injection, USP 2 grams*
 
 For intramuscular or intravenous use
 
-(with Bacteriostatic Water for Injection with Benzyl Alcohol 0.945% w/v) Diluent Contains Benzyl Alcohol as a Preservative
+Diluent Contains Benzyl Alcohol as a Preservative
+
+Rx only
 
 Pfizer Injectables
 
@@ -54,13 +58,15 @@ Single-Dose Vials 25–1 mL Act-O-Vial® Systems
 
 Solu-Medrol® methylprednisolone sodium succinate for injection, USP
 
-For intramuscular or intravenous use
-
 40 mg*
+
+For intramuscular or intravenous use
 
 Preservative-Free
 
-Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+Pfizer Injectables
+
+40 mg*
 
 # PRINCIPAL DISPLAY PANEL - 125 mg Vial Carton
 
@@ -70,13 +76,15 @@ Single-Dose Vials 25–2 mL Act-O-Vial® Systems
 
 Solu-Medrol® methylprednisolone sodium succinate for injection, USP
 
-For intramuscular or intravenous use
-
 125 mg*
+
+For intramuscular or intravenous use
 
 Preservative-Free
 
-Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+Pfizer Injectables
+
+125 mg*
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
 
