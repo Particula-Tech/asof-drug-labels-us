@@ -10,7 +10,7 @@ For deltoid or gluteal intramuscular injection only
 
 PLEASE READ COMPLETE INSTRUCTIONS PRIOR TO USE.
 
-Risperdal®CONSTA® risperidone Long-Acting Injection
+Risperdal®CONSTA® risperiDONE Long-Acting Injection
 
 DOSE PACK CONTENTS:
 
@@ -48,7 +48,7 @@ For deltoid or gluteal intramuscular injection only
 
 PLEASE READ COMPLETE INSTRUCTIONS PRIOR TO USE.
 
-Risperdal®CONSTA® risperidone Long-Acting Injection
+Risperdal®CONSTA® risperiDONE Long-Acting Injection
 
 DOSE PACK CONTENTS:
 
@@ -86,7 +86,7 @@ For deltoid or gluteal intramuscular injection only
 
 PLEASE READ COMPLETE INSTRUCTIONS PRIOR TO USE.
 
-Risperdal®CONSTA® risperidone Long-Acting Injection
+Risperdal®CONSTA® risperiDONE Long-Acting Injection
 
 DOSE PACK CONTENTS:
 
@@ -124,7 +124,7 @@ For deltoid or gluteal intramuscular injection only
 
 PLEASE READ COMPLETE INSTRUCTIONS PRIOR TO USE.
 
-Risperdal®CONSTA® risperidone Long-Acting Injection
+Risperdal®CONSTA® risperiDONE Long-Acting Injection
 
 DOSE PACK CONTENTS:
 

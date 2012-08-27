@@ -110,7 +110,8 @@ Remove the dose pack of RISPERDAL® CONSTA® from the refrigerator and allow it 
    Wipe the top of the grey rubber stopper with an alcohol wipe and allow to dry.
 2. Peel back the blister pouch and remove the SmartSite® Needle-Free Vial Access Device by holding between the white luer cap and the skirt.
    Do not touch the spike tip of the access device at any time.
-3. It is very important that the SmartSite® Needle-Free Vial Access Device be placed on the vial correctly or the diluent could leak upon transfer to the vial Place the vial on a hard surface.
+3. It is very important that the SmartSite® Needle-Free Vial Access Device be placed on the vial correctly or the diluent could leak upon transfer to the vial.
+   Place the vial on a hard surface.
    Hold the base of the vial.
    Orient the SmartSite® Needle-Free Vial Access Device vertically over the vial so that the spike tip is at the center of the vial's rubber stopper.
    With a straight downward push, press the spike tip of the SmartSite® Needle-Free Vial Access Device through the center of the vial's rubber stopper until the device securely snaps onto the vial top.

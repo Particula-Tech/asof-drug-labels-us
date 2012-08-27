@@ -1,6 +1,6 @@
-Revised December 2011 ©Ortho-McNeil-Janssen Pharmaceuticals, Inc. 2007
+Product of Ireland
 
-Risperidone is manufactured by: Janssen Pharmaceutical Ltd. Wallingstown, Little Island, County Cork, Ireland
+Risperidone active ingredient is manufactured by: Janssen Pharmaceutical Wallingstown, Little Island, County Cork, Ireland
 
 Microspheres are manufactured by: Alkermes, Inc. Wilmington, Ohio
 
@@ -10,9 +10,6 @@ or
 
 Cilag AG Schaffhausen, Switzerland
 
-or
+RISPERDAL® CONSTA® is manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-Ortho Biotech Products, L.P.
-Raritan, NJ
-
-RISPERDAL® CONSTA® is manufactured for: Janssen, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+Revised June 2012 © Janssen Pharmaceuticals, Inc. 2007
