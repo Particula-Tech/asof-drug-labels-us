@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090979"
+  ],
+  "inn": "benzoyl-peroxide",
+  "labeler": "Perrigo New York Inc",
+  "package_ndcs": [
+    "45802-736-84"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "clindamycin, benzoyl peroxide",
+      "name": "clindamycin phosphate and benzoyl peroxide"
+    }
+  ],
+  "setid": "1c7040f2-e503-408a-b07e-72c7972ce78d",
+  "source": "dailymed"
+}
