@@ -50,5 +50,3 @@ www.Roxane.com, or call 1-800-962-8364
 4077444//04
 
 © RLI, 2012
-
-Package Label - DOLOPHINE® (methadone hydrochloride) tablets, CII
