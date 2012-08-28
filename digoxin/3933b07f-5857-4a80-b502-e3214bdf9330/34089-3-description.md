@@ -2,7 +2,7 @@
 
 Digoxin is one of the cardiac (or digitalis) glycosides, a closely related group of drugs having in common specific effects on the myocardium.
 These drugs are found in a number of plants.
-Digoxin is extracted from the leaves ofDigitalis lanata.
+Digoxin is extracted from the leaves of Digitalis lanata.
 The term“digitalis” is used to designate the whole group of glycosides.
 The glycosides are composed of two portions: a sugar and a cardenolide (hence “glycosides”).
 

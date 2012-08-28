@@ -12,10 +12,13 @@ To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at
 
 For Product Inquiry call 1-877-845-0689.
 
-Manufactured by:
+Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL), S.A.
+Estrada do Rio da Mό, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTUGAL
+
+Distributed by:
 
 WEST-WARD PHARMACEUTICALS Eatontown, NJ 07724 USA
 
-Revised June 2011
+Revised January 2012
 
-462-334-01
+462-636-00 PIN299-WES/1
