@@ -1,7 +1,9 @@
 Distributed by: ATON PHARMA Lawrenceville NJ 08648 USA
 
-Manufactured by: Merck and Co., Inc. West Point, PA 19486 USA
+Patent pending
 
-Issued May 2007
+Manufactured by: Pharmaceutics International, Inc. 10819 Gilroy Road Hunt Valley, MD 21031 USA
 
-201330
+Issued March 2010
+
+8838-00

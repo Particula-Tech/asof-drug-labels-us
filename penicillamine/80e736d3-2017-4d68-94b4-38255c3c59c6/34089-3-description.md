@@ -16,6 +16,8 @@ The empirical formula is C5H11NO2S, giving it a molecular weight of 149.21.
 The structural formula is:
 
 It reacts readily with formaldehyde or acetone to form a thiazolidine-carboxylic acid.
-Capsules CUPRIMINERegistered trademark of ATON PHARMA, INC. COPYRIGHT © 2007 ATON PHARMA, INC. All rights reserved (Penicillamine) for oral administration contain either 125 mg or 250 mg of penicillamine.
+Capsules CUPRIMINERegistered trademark of ATON PHARMA, INC. COPYRIGHT © 2010 ATON PHARMA, INC. All rights reserved.
+Patent pending.
+(Penicillamine) for oral administration contain either 125 mg or 250 mg of penicillamine.
 Each capsule contains the following inactive ingredients: D & C Yellow 10, gelatin, lactose, magnesium stearate, and titanium dioxide.
 The 125 mg capsule also contains iron oxide.

@@ -71,8 +71,8 @@ Bartter and colleagues depict the process by which penicillamine interacts with 
 |  | PSSP + CS' |  | PS' + CSSP |
 |  | CSSC + PSSP' |  | 2CSSP |
 |  | CSSC = cystine |  |  |
-|  | CS' = deprotonated |  |  |
-|  | cysteine PSSP = penicillamine disulfide |  |  |
+|  | CS' = deprotonated cysteine |  |  |
+|  | PSSP = penicillamine disulfide |  |  |
 |  | PS' = deprotonated penicillamine sulfhydryl |  |  |
 |  | CSSP = penicillamine-cysteine mixed disulfide |  |  |
 
