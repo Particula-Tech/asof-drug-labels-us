@@ -21,7 +21,7 @@ The finding of increased risk with AEDs of varying mechanisms of action and acro
 The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
 Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 3: Risk by Indication for Antiepileptic Drugs (including gabapentin, the active ingredient in Gralise) in the Pooled Analysis
+Table 3: Risk by Indication for Antiepileptic Drugs (including gabapentin, the active ingredient in GRALISE) in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -58,7 +58,7 @@ Therefore, the effect of gabapentin therapy on the incidence of new tumors in hu
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan Hypersensitivity, has been reported in patients taking antiepileptic drugs, including GRALISE.
 Some of these events have been fatal or life-threatening.
 DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
-Eosinophilia is oftem present.
+Eosinophilia is often present.
 Because this disorder is variable in its expression, other organ systems not noted here may be involved.
 
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.

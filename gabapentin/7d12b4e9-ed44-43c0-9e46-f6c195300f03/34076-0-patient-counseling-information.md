@@ -30,6 +30,6 @@ Marketed by: Depomed, Inc. Menlo Park, CA 94025
 
 Opadry® is a registered trademark of BPSI Holdings, LLC.
 
-© 2012 Depomed, Inc. GRA-004-C.2 JAN 2012 Issued JAN 2012
+© 2012 Depomed, Inc. GRA-004-C.3 AUG 2012 Issued AUG 2012
 
-U.S. Patents: 7,438,927; 6,340,475; 6,488,962; 6,635,280; 6,723,340; 7,731,989
+U.S. Patents: 7,438,927; 6,340,475; 6,488,962; 6,635,280; 6,723,340; 7,731,989; 8,192,756

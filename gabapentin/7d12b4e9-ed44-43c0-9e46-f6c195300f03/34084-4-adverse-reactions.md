@@ -46,7 +46,7 @@ Events in more than 1% of patients but equally or more frequently in the GRALISE
 
 In addition to the adverse experiences reported during clinical testing of gabapentin, the following adverse experiences have been reported in patients receiving other formulations of marketed gabapentin.
 These adverse experiences have not been listed above and data are insufficient to support an estimate of their incidence or to establish causation.
-The listing is alphabetized: angioedema, blood glucose fluctuation, breast hypertrophy, erythema multiforme, elevated liver function tests, fever, hyponatremia, jaundice, movement disorder, Stevens-Johnson syndrome.
+The listing is alphabetized: angioedema, blood glucose fluctuation, breast enlargement, elevated creatine kinase, elevated liver function tests, erythema multiforme, fever, hyponatremia, jaundice, movement disorder, Stevens-Johnson syndrome.
 
 Adverse events following the abrupt discontinuation of gabapentin immediate release have also been reported.
 The most frequently reported events were anxiety, insomnia, nausea, pain and sweating.
