@@ -2,7 +2,7 @@
 
 ## 4.1 Hypersensitivity
 
-STRATTERA is contraindicated in patients known to be hypersensitive to atomoxetine or other constituents of the product [see Warnings and Precautions (5.7)].
+STRATTERA is contraindicated in patients known to be hypersensitive to atomoxetine or other constituents of the product [see Warnings and Precautions (5.8)].
 
 ## 4.2 Monoamine Oxidase Inhibitors (MAOI)
 

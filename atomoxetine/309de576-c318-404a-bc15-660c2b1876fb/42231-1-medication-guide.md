@@ -230,13 +230,13 @@ Emsam® is a registered trademark of Somerset Pharmaceuticals Inc.
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-Patient Information revised March 7, 2011
+Patient Information revised July 9, 2012
 
-Eli Lilly and Company Indianapolis, IN 46285, USA
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 www.strattera.com
 
-Copyright © 2003, 2011, Eli Lilly and Company.
+Copyright © 2003, 2012, Eli Lilly and Company.
 All rights reserved.
 
-PV 5856 AMP
+PV 5857 AMP
