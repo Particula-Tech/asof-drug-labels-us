@@ -12,3 +12,8 @@ NDC 23635-412-01 100 TABLETS EXALGO® Once Daily (hydromorphone HCl) Extended-Re
 
 NDC 23635-416-01 100 TABLETS EXALGO® Once Daily (hydromorphone HCl) Extended-Release Tablets CII 16 mg Rx only Each tablet contains: Hydromorphone Hydrochloride USP.......
 16 mg For opioid tolerant patients only Dispense the accompanying Medication Guide to each patient Mallinckrodt
+
+# PRINCIPAL DISPLAY PANEL - 32 mg
+
+NDC 23635-432-01 100 TABLETS EXALGO® Once Daily (hydromorphone HCl) Extended-Release Tablets CII 32 mg Rx only Each tablet contains: Hydromorphone Hydrochloride USP.......
+32 mg For opioid tolerant patients only Dispense the accompanying Medication Guide to each patient Mallinckrodt

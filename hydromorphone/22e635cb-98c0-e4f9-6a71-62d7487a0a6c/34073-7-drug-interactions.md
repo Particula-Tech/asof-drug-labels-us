@@ -2,25 +2,20 @@
 
 ## 7.1 CNS Depressants
 
-The concomitant use of EXALGO with central nervous system depressants such as hypnotics, sedatives, general anesthetics, antipsychotics and alcohol may cause additive depressant effects and respiratory depression.
-Additionally, hypotension and profound sedation or coma could occur.
-When this combination is indicated, the dose of one or both agents should be reduced.
-The concomitant use of alcohol should be avoided [see Clinical Pharmacology (12.3)].
+Avoid use of EXALGO with central nervous system depressants such as hypnotics, sedatives, general anesthetics, antipsychotics and alcohol, due to the increased risk of respiratory depression, hypotension and profound sedation or coma.
 
-## 7.2 Monoamine Oxidase (MAO) Inhibitors
+## 7.2 Mixed Agonist/Antagonist Opioid Analgesics
 
-MAO inhibitors may cause CNS excitation or depression, hypotension or hypertension if co-administered with opioids including EXALGO.
-EXALGO is not intended for patients taking MAO inhibitors or within 14 days of stopping such treatment.
+Mixed agonist/antagonists (buprenorphine, nalbuphine, pentazocine) may reduce the analgesic effect of EXALGO and/or may precipitate withdrawal symptoms in these patients.
+Avoid the use of agonist/antagonist analgesics in patients receiving EXALGO.
 
-## 7.3 Mixed Agonist/Antagonist Opioid Analgesics
+## 7.3 Monoamine Oxidase Inhibitors (MAOI)
 
-The concomitant use of EXALGO with morphine agonist/antagonists (buprenorphone, nalbuphine, pentazocine) could lead to a reduction of the analgesic effect by competitive blocking of receptors, thus leading to risk of withdrawal symptoms.
-Therefore, this combination is not recommended.
+The effects of opioid analgesics may be potentiated by MAOIs.
+EXALGO is not recommended for use in patients who have received MAOIs within 14 days.
+If concurrent therapy with an MAOI and EXALGO is unavoidable, monitor patients for increased respiratory and central nervous system depression.
 
 ## 7.4 Anticholinergics
 
 Anticholinergics or other medications with anticholinergic activity when used concurrently with EXALGO may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
-
-## 7.5 Cytochrome P450 Enzymes
-
-In vitro data suggest that hydromorphone in clinically relevant concentrations has minimal potential to inhibit the activity of human hepatic CYP450 enzymes including CYP1A2, 2C9, 2C19, 2D6, 3A4, and 4A11.
+Monitor patients for signs of urinary retention or reduced gastric motility when EXALGO is used concurrently with anticholinergic drugs.

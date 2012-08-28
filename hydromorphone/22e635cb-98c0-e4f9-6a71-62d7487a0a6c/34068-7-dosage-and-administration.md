@@ -1,94 +1,126 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Selection of patients for treatment with EXALGO is governed by the same principles that apply to the use of similar opioid analgesics.
-Physicians should individualize treatment in every case, using non-opioid analgesics, opioids on an as-needed basis and/or combination products, and chronic opioid therapy in a progressive plan of pain management such as the guidelines outlined by the World Health Organization or the Federation of State Medical Boards Model Guidelines.
+## 2.1 Initial Dosing
 
-EXALGO should be swallowed whole and should not be broken, crushed, dissolved, or chewed before swallowing.
+Initiate the dosing regimen for each patient individually, taking into account the patient's prior analgesic treatment experience.
+Overestimating the EXALGO dose when converting patients from another opioid medication can result in fatal overdose with the first dose.
+Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy with EXALGO [see Warnings and Precautions (5.2)].
 
-## 2.1 Conversion to EXALGO in Opioid Tolerant Patients
+Consider the following factors when selecting an initial dose of EXALGO:
 
-The dose range of EXALGO studied in clinical trials is 8 mg to 64 mg.
-The tablets are to be administered every 24 hours with or without food.
-Discontinue all other extended-release opioids when beginning EXALGO therapy.
-As EXALGO is only for use in opioid tolerant patients, do not begin any patient on EXALGO as the first opioid.
+- Total daily dose and potency of the opioid the patient has been taking previously;
+- Reliability of the relative potency estimate used to calculate the equivalent dose of hydromorphone needed (Note: potency estimates may vary with the route of administration);
+- Patient's degree of opioid experience and opioid tolerance;
+- General condition and medical status of the patient;
+- Concurrent medication;
+- Type and severity of the patient's pain.
 
-Use caution to avoid medication errors when prescribing or dispensing EXALGO 8 mg tablets, as 8 mg tablets are also available as immediate-release hydromorphone tablets.
+EXALGO is administered at a frequency of once daily (every 24 hours), approximately the same time every day, with or without food.
 
-It is critical to initiate the dosing regimen individually for each patient.
-Overestimating the EXALGO dose when converting patients from another opioid medication can result in fatal overdose with the first dose [see Overdosage (10)].
+To avoid medication errors, prescribers and pharmacists must be aware that hydromorphone is available as both immediate-release 8 mg tablets and extended-release 8 mg tablets.
 
-In the selection of the initial dose of EXALGO, give attention to the following:
+Discontinue or taper all other extended-release opioids when beginning EXALGO therapy.
+As EXALGO is only for use in opioid-tolerant patients, do not begin any patient on EXALGO as the first opioid.
 
-- the daily dose, potency, and specific characteristics of the opioid the patient has been taking previously;
-- the reliability of the relative potency estimate used to calculate the equivalent hydromorphone dose needed;
-- the patient's degree of opioid tolerance;
-- the age, general condition, and medical status of the patient;
-- concurrent non-opioid analgesics and other medications, such as those with Central Nervous System (CNS) activity [see Drug Interactions (7)];
-- the type and severity of the patient's pain;
-- the balance between pain control and adverse effects;
-- risk factors for abuse, addiction, or diversion, including a prior history of abuse, addiction, or diversion.
+Conversion from Other Oral Hydromorphone Formulations to EXALGO
 
-The following dosing recommendations, therefore, can only be considered as suggested approaches to what is actually a series of clinical decisions over time in the management of the pain of each individual patient.
+Patients receiving oral immediate-release hydromorphone may be converted to EXALGO by administering a starting dose equivalent to the patient’s total daily oral hydromorphone dose, taken once daily.
 
-Conversion from Other Oral Hydromorphone Formulations to EXALGO Patients receiving oral immediate-release hydromorphone may be converted to EXALGO by administering a starting dose equivalent to the patient’s total daily oral hydromorphone dose, taken once daily.
-The dose of EXALGO can be titrated every 3 to 4 days until adequate pain relief with tolerable side effects has been achieved [see Dosage and Administration (2.1)].
+Conversion from Oral Opioids to EXALGO
 
-Conversion from Oral Opioids to EXALGO For conversion from other opioids to EXALGO, physicians and other healthcare professionals are advised to refer to published relative potency information, keeping in mind that conversion ratios are only approximate.
-In general, start EXALGO therapy by administering 50% of the calculated total daily dose of EXALGO (see conversion ratio table below) every 24 hours.
-The initial dose of EXALGO can be titrated until adequate pain relief with tolerable side effects has been achieved.
-The following table provides approximate equivalent doses, which may be used as a guideline for conversion.
+While there are useful tables of oral and parenteral equivalents, there is substantial inter-patient variation in the relative potency of different opioid drugs and formulations.
+Specific recommendations of equianalgesic doses are not available because of a lack of systematic evidence for these types of analgesic substitutions.
+Published relative potency data are available, but such ratios are approximations.
+As such, it is safer to underestimate a patient's 24-hour oral hydromorphone requirement and provide rescue medication (e.g. immediate-release hydromorphone) than to overestimate and manage an adverse reaction.
 
-- The conversion ratios and approximate equivalent doses in this conversion table (Table 1) are only to be used for the conversion from current oral opioid therapy to EXALGO.
-  No fixed conversion ratio is likely to be satisfactory in all patients, especially in patients receiving large opioid doses.
+The following table was used in a clinical trial of EXALGO.
+The recommended starting dose of EXALGO is 50% of the calculated estimate of daily hydromorphone requirement.
+Calculate the estimated daily hydromorphone requirement using Table 1.
+
+- The conversion ratios in this Table 1 are only to be used for the conversion from current oral opioid therapy to EXALGO.
+  Do not use this table to convert patients from EXALGO to another opioid.
+  Doing so may result in fatal overdose.
+- For patients on a single opioid, sum the total daily dose of the opioid and then multiply the total daily dose by the conversion ratio to calculate the approximate oral hydromorphone equivalent.
 - For patients on a regimen of mixed opioids, calculate the approximate oral hydromorphone dose for each opioid and sum the totals.
 - For patients on a regimen of fixed-ratio opioid/non-opioid analgesic medications, only the opioid component of these medications should be used in the conversion.
-  The non-opioid component may be continued as a separate drug, or a different non-opioid analgesic may be selected.
-- There is substantial patient variation in the relative potency of different opioid drugs and formulations.
 - It is extremely important to monitor all patients closely when converting from methadone to other opioid agonists.
   The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
   Methadone has a long half-life and tends to accumulate in the plasma.
-- The recommended doses are only a starting point, and close observation and titration are indicated until a satisfactory dose is obtained on the new therapy.
+- Monitor patients for signs or symptoms of opioid withdrawal when converting patients to EXALGO.
+
+Example conversion from a single opioid to EXALGO:
+
+Step 1: Sum the total daily dose of the opioid
+
+- 30 mg of oxycodone twice daily equals a total daily dose of 60 mg of oxycodone
+
+Step 2: Calculate the approximately equivalent dose of oral hydromorphone based on the total daily dose of the opioid
+
+- Multiply the 60 mg total daily dose of oxycodone by the conversion factor of 0.4 for a result of 24 mg of oral hydromorphone
+
+Step 3: Calculate the starting dose of EXALGO, which is 50% of the calculated oral hydromorphone dose
+
+- 50% of 24 mg results in an initial dose of 12 mg of EXALGO once daily
+- Adjust individually for each patient
 
 Table 1.
-Conversion Ratios to EXALGOThe conversion ratios and approximate equivalent doses in this conversion table are only to be used for the conversion from current opioid therapy to EXALGO.
+Conversion Ratios to EXALGO*
 
-| Previous Opioid | Approximate Equivalent Oral Dose | Oral Conversion RatioRatio for conversion of oral opioid dose to approximate hydromorphone equivalent dose. |
+| Previous Opioid | Approximate EquivalentOral Dose | Approximate OralConversion Ratio |
 | --- | --- | --- |
 | Hydromorphone | 12 mg | 1 |
 | Codeine | 200 mg | 0.06 |
 | Hydrocodone | 30 mg | 0.4 |
-| MethadoneIt is extremely important to monitor all patients closely when converting from methadone to other opioid agonists. The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure. Methadone has a long half-life and tends to accumulate in the plasma. | 20 mg | 0.6 |
+| Methadone† | 20 mg | 0.6 |
 | Morphine | 60 mg | 0.2 |
 | Oxycodone | 30 mg | 0.4 |
 | Oxymorphone | 20 mg | 0.6 |
 
-Select opioid, sum the total daily dose, and then multiply the dose by the conversion ratio to calculate the approximate oral hydromorphone equivalent.
+* The conversion ratios and approximate equivalent doses in this conversion table are only to be used for the conversion from current opioid therapy to EXALGO.
 
-Conversion from Transdermal Fentanyl to EXALGO Eighteen hours following the removal of the transdermal fentanyl patch, EXALGO treatment can be initiated.
-For each 25 mcg/hr fentanyl transdermal dose the equianalgesic dose of EXALGO is 12 mg every 24 hours.
+† It is extremely important to monitor all patients closely when converting from methadone to other opioid agonists.
+The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
+Methadone has a long half-life and tends to accumulate in the plasma.
+
+Conversion from Transdermal Fentanyl to EXALGO
+
+Eighteen hours following the removal of the transdermal fentanyl patch, EXALGO treatment can be initiated.
+For each 25 mcg/hr fentanyl transdermal dose, the equianalgesic dose of EXALGO is 12 mg every 24 hours.
 An appropriate starting dose of EXALGO is 50% of the calculated total daily dose every 24 hours.
 
-Individualization of Dosage
+## 2.2 Titration and Maintenance of Therapy
 
-- Once therapy is initiated, assess pain relief and other opioid adverse reactions frequently.
-- Titrate patients to adequate analgesia with dose increases not more often than every 3 to 4 days, in order to attain steady-state plasma concentrations of hydromorphone at each dose.
-- As a guideline, consider dosage increases of 25% to 50% of the current daily dose of EXALGO for each titration step.
-- If more than two doses of rescue medication are needed within a 24 hour period for two consecutive days, the dose of EXALGO may need to be titrated upward.
-- Administer EXALGO no more frequently than every 24 hours.
+Individually titrate EXALGO to a dose that provides adequate analgesia and minimizes adverse reactions.
+Continually reevaluate patients receiving EXALGO to assess the maintenance of pain control and the relative incidence of adverse reactions.
+During chronic therapy, especially for non-cancer-related pain (or pain associated with other terminal illnesses), periodically reassess the continued need for the use of opioid analgesics.
 
-During periods of changing analgesic requirements, including initial titration, maintain frequent contact between physician, other members of the healthcare team, the patient and the caregiver/family.
+If the level of pain increases, attempt to identify the source of increased pain, while adjusting the EXALGO dose to decrease the level of pain.
+Plasma levels of EXALGO are sustained for 18 to 24 hours.
+Dosage adjustments may be made every 3 to 4 days.
+Patients who experience breakthrough pain may require dosage adjustment or rescue medication.
 
-## 2.2 Maintenance of Therapy
-
-During chronic therapy with EXALGO, assess the continued need for around-the-clock opioid therapy periodically.
-Continue to assess patients for their clinical risks for opioid abuse, addiction, or diversion particularly with high-dose formulations.
-If patients need to titrate while on maintenance therapy, follow the same method outlined in Individualization of Dosage to re-establish pain control.
+If signs of excessive opioid-related adverse reactions are observed, the next dose may be reduced.
+Adjust the dose to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
 ## 2.3 Discontinuation of EXALGO
 
-When the patient no longer requires therapy with EXALGO, taper doses gradually, by 25 to 50% every 2 or 3 days down to a dose of 8 mg before discontinuation of therapy, to prevent signs and symptoms of withdrawal in the physically dependent patient.
+When a patient no longer requires therapy with EXALGO, taper doses gradually, by 25% to 50% every 2 or 3 days down to a dose of 8 mg before discontinuation of therapy, to prevent signs and symptoms of withdrawal in the opioid-tolerant patient.
 
-## 2.4 Renal and Hepatic Impairment
+To dispose of unused EXALGO flush all remaining tablets down the toilet or remit to authorities at a certified drug take-back program.
 
-Start patients with moderate and severe hepatic and moderate renal impairment on a reduced dose and closely monitor during dose titration.
-As EXALGO is only intended for once daily administration, consider use of an alternate analgesic that may permit more flexibility with the dosing interval in patients with severe renal impairment.
+## 2.4 Hepatic Impairment
+
+Start patients with moderate hepatic impairment on 25% of the EXALGO dose that would be prescribed for patients with normal hepatic function.
+Closely monitor patients with moderate hepatic impairment for respiratory and central nervous system depression during initiation of therapy with EXALGO and during dose titration.
+Use of alternate analgesics is recommended for patients with severe hepatic impairment [see Use in Specific Populations (8.7)].
+
+## 2.5 Renal Impairment
+
+Start patients with moderate renal impairment on 50% and patients with severe renal impairment on 25% of the EXALGO dose that would be prescribed for patients with normal renal function.
+Closely monitor patients with renal impairment for respiratory and central nervous system depression during initiation of therapy with EXALGO and during dose titration.
+As EXALGO is only intended for once daily administration, consider use of an alternate analgesic that may permit more flexibility with the dosing interval in patients with severe renal impairment [see Use in Specific Populations (8.8)].
+
+## 2.6 Administration of EXALGO
+
+Instruct patients to swallow EXALGO tablets intact.
+The tablets are not to be crushed, dissolved, or chewed due to the risk of rapid release and absorption of a potentially fatal dose of hydromorphone [see Warnings and Precautions (5.2)].
