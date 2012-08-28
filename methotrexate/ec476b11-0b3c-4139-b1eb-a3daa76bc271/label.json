@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA040266"
+  ],
+  "inn": "methotrexate",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-122-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "methotrexate sodium",
+      "name": "Methotrexate"
+    }
+  ],
+  "setid": "ec476b11-0b3c-4139-b1eb-a3daa76bc271",
+  "source": "dailymed"
+}
