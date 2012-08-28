@@ -155,9 +155,9 @@ This difference between treatment groups was primarily driven by the "No Vomitin
 Multiple-Cycle Extension: Patients receiving moderately emetogenic chemotherapy were permitted to continue into the Multiple-Cycle extension of the study for up to 3 additional cycles of chemotherapy.
 Antiemetic effect for patients receiving the aprepitant regimen is maintained during all cycles.
 
-Postmarketing Trial: In a postmarketing, multicenter, randomized, double-blind, parallel-group, clinical study in 848 cancer patients, the aprepitant regimen (N = 430) was compared with a standard of care therapy (N = 418) in patients receiving a moderately emetogenic chemotherapy regimen that included any IV dose of oxaliplatin, carboplatin, epirubicin, idarubicin, ifosfamide, irinotecan, daunorubicin, doxorubicin; cyclophosphamide IV (<1500 mg/m2); or cytarabine IV (>1 g/m2).
+Postmarketing Trial: In a postmarketing, multicenter, randomized, double-blind, parallel-group, clinical study in 848 cancer patients, the aprepitant regimen (N=430) was compared with a standard of care therapy (N=418) in patients receiving a moderately emetogenic chemotherapy regimen that included any IV dose of oxaliplatin, carboplatin, epirubicin, idarubicin, ifosfamide, irinotecan, daunorubicin, doxorubicin; cyclophosphamide IV (<1500 mg/m2); or cytarabine IV (>1 g/m2).
 
-Of the 430 patients who were randomized to receive the aprepitant regimen, approximately 76% were women and 24% were men.
+Of the 430 patients who were randomized to receive the aprepitant regimen, 76% were women and 24% were men.
 The distribution by race was 67% White, 6% Black or African American, 11% Asian, and 12% multiracial.
 Classified by ethnicity, 36% were Hispanic and 64% were non-Hispanic.
 The aprepitant-treated patients in this clinical study ranged from 22 to 85 years of age, with a mean age of 57 years; approximately 59% of the patients were 55 years or older with 32 patients being over 74 years.
