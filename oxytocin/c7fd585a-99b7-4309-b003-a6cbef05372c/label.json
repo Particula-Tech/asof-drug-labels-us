@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA018248"
+  ],
+  "inn": "oxytocin",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-012-01",
+    "63323-012-10",
+    "63323-012-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "oxytocin",
+      "name": "Oxytocin"
+    }
+  ],
+  "setid": "c7fd585a-99b7-4309-b003-a6cbef05372c",
+  "source": "dailymed"
+}
