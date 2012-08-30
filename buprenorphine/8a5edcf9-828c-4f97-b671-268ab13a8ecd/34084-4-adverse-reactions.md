@@ -2,7 +2,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-## 6.1 Adverse Events in Clinical Trials - SUBOXONE Sublingual film
+## 6.1 Adverse Events in Clinical Trials - SUBOXONE sublingual film
 
 The safety of SUBOXONE sublingual film is supported by clinical trials using SUBUTEX (buprenorphine) sublingual tablets and SUBOXONE (buprenorphine and naloxone) sublingual tablets, and other trials using buprenorphine sublingual solutions, as well as an open-label study in 194 patients treated with SUBOXONE sublingual film.
 In total, safety data from clinical studies are available from over 3000 opioid-dependent subjects exposed to buprenorphine at doses in the range used in the treatment of opioid dependence.
@@ -12,13 +12,13 @@ The most common adverse event (>1%) associated with the sublingual administratio
 Other adverse events were constipation, glossodynia, oral mucosal erythema, vomiting, intoxication, disturbance in attention, palpitations, insomnia, withdrawal syndrome, hyperhidrosis, and blurred vision.
 
 Other adverse event data were derived from larger, controlled studies of SUBOXONE (buprenorphine and naloxone) and SUBUTEX (buprenorphine) tablets and of buprenorphine sublingual solution.
-In a comparative study of SUBOXONE (buprenorphine and naloxone) and SUBUTEX (buprenorphine) sublingual tablets, adverse event profiles were similar for subjects treated with 16/4 mg SUBOXONE (buprenorphine and naloxone) sublingual tablets or 16 mg SUBUTEX (buprenorphine) sublingual tablets.
+In a comparative study of SUBOXONE (buprenorphine and naloxone) and SUBUTEX (buprenorphine) sublingual tablets, adverse event profiles were similar for subjects treated with 16 mg/4 mg SUBOXONE (buprenorphine and naloxone) sublingual tablets or 16 mg SUBUTEX (buprenorphine) sublingual tablets.
 The following adverse events were reported to occur by at least 5% of patients in a 4-week study of SUBOXONE (buprenorphine and naloxone) sublingual tablets and SUBUTEX (buprenorphine) sublingual tablets.
 
-Table 1.
+Table 2.
 Adverse Events (≥5%) by Body System and Treatment Group in a 4-week Study
 
-| Body System/ Adverse Event (COSTART Terminology) | SUBOXONE (buprenorphine and naloxone) sublingual tablets 16/4 mg/day N=107 n (%) | SUBUTEX (buprenorphine) sublingual tablets 16 mg/day N=103 n (%) | Placebo N=107 n (%) |
+| Body System/ Adverse Event (COSTART Terminology) | SUBOXONE (buprenorphine and naloxone) sublingual tablets 16 mg/4 mg/day N=107 n (%) | SUBUTEX (buprenorphine) sublingual tablets 16 mg/day N=103 n (%) | Placebo N=107 n (%) |
 | --- | --- | --- | --- |
 | Body as a Whole |  |  |  |
 | Asthenia | 7 (6.5%) | 5 (4.9%) | 7 (6.5%) |
@@ -45,9 +45,9 @@ Adverse Events (≥5%) by Body System and Treatment Group in a 4-week Study
 | Abbreviations: COSTART = Coding Symbols for Thesaurus of Adverse Reaction Terms. |  |  |  |
 
 The adverse event profile of buprenorphine was also characterized in the dose-controlled study of a buprenorphine ethanolic solution, over a range of doses in four months of treatment.
-Table 2 shows adverse events reported by at least 5% of subjects in any dose group in the dose-controlled trial.
+Table 3 shows adverse events reported by at least 5% of subjects in any dose group in the dose-controlled trial.
 
-Table 2.
+Table 3.
 Adverse Events (≥5%) by Body System and Treatment Group in a 16-week Study
 
 | Body System/ Adverse Event (COSTART Terminology) | Buphrenorphine Dose |  |  |  |  |
@@ -92,6 +92,6 @@ Adverse Events (≥5%) by Body System and Treatment Group in a 16-week Study
 | 8 mg solution approximates a 12 mg tablet dose |  |  |  |  |  |
 | 16 mg solution approximates a 24 mg tablet dose |  |  |  |  |  |
 
-## 6.2 Adverse Events – Post-marketing Experience with SUBOXONE Sublingual Tablets
+## 6.2 Adverse Events – Post-marketing Experience with Suboxone Sublingual Tablets
 
 The most frequently reported post-marketing adverse event not observed in clinical trials was peripheral edema.

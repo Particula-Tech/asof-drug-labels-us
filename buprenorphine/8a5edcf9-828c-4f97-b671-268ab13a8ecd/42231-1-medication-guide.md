@@ -1,8 +1,7 @@
 MEDICATION GUIDE SUBOXONE®(Sub-OX-own) (buprenorphine and naloxone) Sublingual Film (CIII)
 
-| IMPORTANT: |
+| IMPORTANT: Keep SUBOXONE in a secure place away from children. Accidental use by a child is a medical emergency and can result in death. If a child accidentally uses SUBOXONE, get emergency help right away. |
 | --- |
-| Keep SUBOXONE in a secure place away from children. Accidental use by a child is a medical emergency and can result in death. If a child accidentally uses SUBOXONE, get emergency help right away. |
 
 Read this Medication Guide that comes with SUBOXONE before you start taking it and each time you get a refill.
 There may be new information.
@@ -14,9 +13,12 @@ Share the important information in this Medication Guide with members of your ho
 What is the most important information I should know about SUBOXONE?
 
 - SUBOXONE can cause serious and life-threatening breathing problems.
-  Call your doctor right away or get emergency help if:These can be signs of an overdose or other serious problems.
+  Call your doctor right away or get emergency help if:
   - You feel faint, dizzy, or confused
   - Your breathing gets much slower than is normal for you
+
+These can be signs of an overdose or other serious problems.
+
 - SUBOXONE contains an opioid that can cause physical dependence.
   - Do not stop taking SUBOXONE without talking to your doctor.
     You could become sick with uncomfortable withdrawal signs and symptoms because your body has become used to this medicine.
@@ -94,9 +96,11 @@ How should I take SUBOXONE sublingual film?
   Your doctor may change your dose after seeing how it affects you.
   Do not change your dose unless your doctor tells you to change it.
 - Do not take SUBOXONE more often than prescribed by your doctor.
+
 - Each SUBOXONE sublingual film comes in a sealed child-resistant foil pouch.
   Wait to open SUBOXONE until right before you use it.
 - To open your SUBOXONE sublingual film foil pouch, fold along the dotted line and tear down at slit (see Figure 1) or cut with scissors along the arrow.
+
 - Before taking SUBOXONE, drink water to moisten your mouth.
   This helps the film dissolve more easily.
 - Hold the film between two fingers by the outside edges.
@@ -180,15 +184,6 @@ How should I store SUBOXONE?
 - Store at 25°C (77°F), excursions permitted to 15-30°C (59-86°F).
 - Keep SUBOXONE in a safe place, out of the sight and reach of children.
 
-How should I dispose of unused SUBOXONE sublingual film?
-
-- Dispose of unopened SUBOXONE sublingual films as soon as you no longer need them:
-  1. Remove the SUBOXONE film from its foil pouch.
-  2. Drop the SUBOXONE film into the toilet.
-  3. Repeat steps 1 and 2 for each SUBOXONE film.
-     Flush the toilet after all unneeded films have been put into the toilet.
-- Do not flush foil pouches or cartons down the toilet.
-
 General information about the safe and effective use of SUBOXONE
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
@@ -207,12 +202,16 @@ Active Ingredients: buprenorphine and naloxone.
 
 Inactive Ingredients: polyethylene oxide, hydroxypropyl methylcellulose, maltitol, acesulfame potassium, lime flavor, citric acid, sodium citrate, FD&C yellow #6, and white ink.
 
-Approved: August 2010
-
 Manufactured for Reckitt Benckiser Pharmaceuticals Inc. Richmond, VA 23235 by MonoSol Rx LLC, Warren, NJ 07059
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
+August 2012
+
 SUBOXONE® is a registered trademark of Reckitt Benckiser Healthcare (UK) Ltd.
 
-Copyright © 2010 Reckitt Benckiser Pharmaceuticals Inc. Printed in USA TF08054 Rev 09/2010
+Copyright © 2010 Reckitt Benckiser Pharmaceuticals Inc.
+
+Printed in USA
+
+1-1202-020-US-0812

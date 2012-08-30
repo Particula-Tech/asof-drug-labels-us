@@ -1,5 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+See FDA-approved patient labeling (Medication Guide)
+
+Patients should be advised NOT to cut, chew or swallow SUBOXONE sublingual film.
+
 ## 17.1 Safe Use
 
 Before initiating treatment with Suboxone, explain the points listed below to caregivers and patients.
@@ -36,18 +40,7 @@ Instruct patients to read the Medication Guide each time Suboxone is dispensed b
 - Patients should inform their family members that, in the event of emergency, the treating physician or emergency room staff should be informed that the patient is physically dependent on an opioid and that the patient is being treated with SUBOXONE sublingual film.
 - Refer to the Medication Guide for additional information regarding the counseling information.
 
-## 17.2 Disposal of Unused SUBOXONE Sublingual Film
-
-Unopened SUBOXONE sublingual films should be disposed of as soon as they are no longer needed:
-
-1. Remove the SUBOXONE film from its foil pouch.
-2. Drop the SUBOXONE film into the toilet.
-3. Repeat steps 1 and 2 for each SUBOXONE film.
-   Flush the toilet after all unneeded films have been put into the toilet.
-
-Foil pouches or cartons should not be flushed down the toilet.
-
-RA016 09/2010 Revised 9/7/2010
+1-1202-019-US-0212
 
 Manufactured for Reckitt Benckiser Pharmaceuticals Inc., Richmond, VA 23235 by: MonoSol Rx, LLC, Warren, NJ 07059
 

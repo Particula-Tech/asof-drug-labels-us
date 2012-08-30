@@ -11,10 +11,10 @@ Multiple refills should not be prescribed early in treatment or without appropri
 ## 5.2 Respiratory Depression
 
 Buprenorphine, particularly when taken by the IV route, in combination with benzodiazepines or other CNS depressants (including alcohol), has been associated with significant respiratory depression and death.
-Many, but not all post-marketing reports regarding coma and death associated with the concomitant use of buprenorphine and benzodiazepines, involved misuse by self-injection.
+Many, but not all, post-marketing reports regarding coma and death associated with the concomitant use of buprenorphine and benzodiazepines involved misuse by self-injection.
 Deaths have also been reported in association with concomitant administration of buprenorphine with other depressants such as alcohol or other CNS depressant drugs.
 Patients should be warned of the potential danger of self-administration of benzodiazepines or other depressants while under treatment with SUBOXONE sublingual film.
-[see Drug Interactions (7.3)]
+[see Drug Interactions (7.3)].
 
 In the case of overdose, the primary management should be the re-establishment of adequate ventilation with mechanical assistance of respiration, if required.
 Naloxone may be of value for the management of buprenorphine overdose.
@@ -24,14 +24,14 @@ SUBOXONE sublingual film should be used with caution in patients with compromise
 
 ## 5.3 CNS Depression
 
-Patients receiving buprenorphine in the presence of opioid analgesics, general anesthetics, benzodiazepines, phenothiazines, other tranquilizers, sedative/hypnotics or other CNS depressants (including alcohol) may exhibit increased CNS depression.
+Patients receiving buprenorphine in the presence of opioid analgesics, general anesthetics, benzodiazepines, phenothiazines, other tranquilizers, sedative/hypnotics, or other CNS depressants (including alcohol) may exhibit increased CNS depression.
 Consider dose reduction of CNS depressants, SUBOXONE sublingual film, or both in situations of concomitant prescription.
 [see Drug Interactions (7.3)].
 
 ## 5.4 Unintentional Pediatric Exposure
 
 Buprenorphine can cause severe, possibly fatal, respiratory depression in children who are accidentally exposed to it.
-Store buprenorphine-containing medications safely out of the sight and reach of children and destroy any unused medication appropriately [see Disposal of Unused SUBOXONE Sublingual Film (17.2)].
+Store buprenorphine-containing medications safely out of the sight and reach of children.
 
 ## 5.5 Dependence
 
@@ -88,7 +88,7 @@ Like other opioids, SUBOXONE sublingual film may produce orthostatic hypotension
 
 ## 5.13 Elevation of Cerebrospinal Fluid Pressure
 
-Buprenorphine, like other opioids, may elevate cerebrospinal fluid pressure and should be used with caution in patients with head injury, intracranial lesions and other circumstances when cerebrospinal pressure may be increased.
+Buprenorphine, like other opioids, may elevate cerebrospinal fluid pressure and should be used with caution in patients with head injury, intracranial lesions, and other circumstances when cerebrospinal pressure may be increased.
 Buprenorphine can produce miosis and changes in the level of consciousness that may interfere with patient evaluation.
 
 ## 5.14 Elevation of Intracholedochal Pressure

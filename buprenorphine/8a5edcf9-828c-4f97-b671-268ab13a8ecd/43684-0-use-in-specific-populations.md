@@ -10,10 +10,10 @@ SUBOXONE sublingual film should be used during pregnancy only if the potential b
 Teratogenic Effects:
 
 Effects on embryo-fetal development were studied in Sprague-Dawley rats and Russian white rabbits following oral (1:1) and intramuscular (IM) (3:2) administration of mixtures of buprenorphine and naloxone.
-Following oral administration to rats and rabbits, no teratogenic effects were observed at buprenorphine doses up to 250 mg/kg/day and 40 mg/kg/day, respectively (estimated exposure approximately 150 times and 50 times, respectively, the recommended human daily sublingual dose of 16 mg on a mg/m2 basis).
-No definitive drug-related teratogenic effects were observed in rats and rabbits at IM doses up to 30 mg/kg/day (estimated exposure approximately 20 times and 35 times, respectively, the recommended human daily dose of 16 mg on a mg/m2 basis).
+Following oral administration to rats and rabbits, no teratogenic effects were observed at buprenorphine doses up to 250 mg/kg/day and 40 mg/kg/day, respectively (estimated exposure approximately 150 times and 50 times, respectively, the recommended human daily sublingual dose of 16 mg on a mg/m² basis).
+No definitive drug-related teratogenic effects were observed in rats and rabbits at IM doses up to 30 mg/kg/day (estimated exposure approximately 20 times and 35 times, respectively, the recommended human daily dose of 16 mg on a mg/m² basis).
 Acephalus was observed in one rabbit fetus from the low-dose group and omphalocele was observed in two rabbit fetuses from the same litter in the mid-dose group; no findings were observed in fetuses from the high-dose group.
-Following oral administration of buprenorphine to rats, dose-related post-implantation losses, evidenced by increases in the numbers of early resorptions with consequent reductions in the numbers of fetuses, were observed at doses of 10 mg/kg/day or greater (estimated exposure approximately 6 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis).
+Following oral administration of buprenorphine to rats, dose-related post-implantation losses, evidenced by increases in the numbers of early resorptions with consequent reductions in the numbers of fetuses, were observed at doses of 10 mg/kg/day or greater (estimated exposure approximately 6 times the recommended human daily sublingual dose of 16 mg on a mg/m² basis).
 In the rabbit, increased post-implantation losses occurred at an oral dose of 40 mg/kg/day.
 Following IM administration in the rat and the rabbit, post-implantation losses, as evidenced by decreases in live fetuses and increases in resorptions, occurred at 30 mg/kg/day.
 
@@ -25,9 +25,9 @@ In rabbits, buprenorphine produced statistically significant pre-implantation lo
 
 Non-teratogenic Effects:
 
-Dystocia was noted in pregnant rats treated intramuscularly with buprenorphine 5 mg/kg/day (approximately 3 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis).
-Fertility, peri-, and post-natal development studies with buprenorphine in rats indicated increases in neonatal mortality after oral doses of 0.8 mg/kg/day and up (approximately 0.5 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis), after IM doses of 0.5 mg/kg/day and up (approximately 0.3 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis), and after SC doses of 0.1 mg/kg/day and up (approximately 0.06 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis).
-Delays in the occurrence of righting reflex and startle response were noted in rat pups at an oral dose of 80 mg/kg/day (approximately 50 times the recommended human daily sublingual dose of 16 mg on a mg/m2 basis).
+Dystocia was noted in pregnant rats treated intramuscularly with buprenorphine 5 mg/kg/day (approximately 3 times the recommended human daily sublingual dose of 16 mg on a mg/m² basis).
+Fertility, peri-, and post-natal development studies with buprenorphine in rats indicated increases in neonatal mortality after oral doses of 0.8 mg/kg/day and up (approximately 0.5 times the recommended human daily sublingual dose of 16 mg on a mg/m² basis), after IM doses of 0.5 mg/kg/day and up (approximately 0.3 times the recommended human daily sublingual dose of 16 mg on a mg/m² basis), and after SC doses of 0.1 mg/kg/day and up (approximately 0.06 times the recommended human daily sublingual dose of 16 mg on a mg/m² basis).
+Delays in the occurrence of righting reflex and startle response were noted in rat pups at an oral dose of 80 mg/kg/day (approximately 50 times the recommended human daily sublingual dose of 16 mg on a mg/m² basis).
 
 ## 8.3 Nursing Mothers
 

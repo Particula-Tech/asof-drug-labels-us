@@ -3,17 +3,21 @@
     "NDA022410"
   ],
   "inn": "buprenorphine",
-  "labeler": "Reckitt Benckiser Pharmaceuticals Inc.",
+  "labeler": "Reckitt Benckiser Pharmaceuticals Inc",
   "package_ndcs": [
     "12496-1202-1",
     "12496-1202-3",
+    "12496-1204-1",
+    "12496-1204-3",
     "12496-1208-1",
-    "12496-1208-3"
+    "12496-1208-3",
+    "12496-1212-1",
+    "12496-1212-3"
   ],
   "products": [
     {
       "form": "FILM, SOLUBLE",
-      "generic": "buprenorphine and naloxone",
+      "generic": "buprenorphine hydrochloride, naloxone hydrochloride",
       "name": "Suboxone"
     }
   ],
