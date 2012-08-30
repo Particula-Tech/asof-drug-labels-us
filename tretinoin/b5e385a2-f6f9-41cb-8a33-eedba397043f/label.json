@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020404"
+  ],
+  "inn": "tretinoin",
+  "labeler": "Actavis Mid Atlantic LLC",
+  "package_ndcs": [
+    "0472-0117-20",
+    "0472-0117-45"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "tretinoin",
+      "name": "Tretinoin"
+    }
+  ],
+  "setid": "b5e385a2-f6f9-41cb-8a33-eedba397043f",
+  "source": "dailymed"
+}
