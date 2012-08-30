@@ -27,7 +27,6 @@ Pharmacokinetics: In a multiple-dose pharmacokinetic study in male volunteers fo
 Tmax values were 1.25 hours and 0.85 hours.
 Cmax values were 15 ng/mL and 41 ng/mL.
 The AUC trapezoidal values were 33 h(ng/mL) and 108 h(ng/mL), respectively, for the 5 and 10 mg doses following the last 6 hour dose.
-
 Pharmacokinetics in elderly male volunteers (N = 11) were comparable to those in younger men.
 In five healthy elderly female volunteers, the mean Cmax and AUC were approximately twice that of elderly males and young normal male volunteers.
 
@@ -39,7 +38,6 @@ Inactivation of pilocarpine is thought to occur at neuronal synapses and probabl
 Pilocarpine and its minimally active or inactive degradation products, including pilocarpic acid, are excreted in the urine.
 Pilocarpine does not bind to human or rat plasma proteins over a concentration range of 5 to 25,000 ng/mL.
 The effect of pilocarpine on plasma protein binding of other drugs has not been evaluated.
-
 In patients with mild to moderate hepatic impairment (N=12), administration of a single 5 mg dose resulted in a 30% decrease in total plasma clearance and a doubling of exposure (as measured by AUC).
 Peak plasma levels were also increased by about 30% and half-life was increased to 2.1 hrs.
 
@@ -88,7 +86,7 @@ After 12 weeks of treatment, statistically significant global improvement of dry
 The 2.5 mg (10mg/day) group was not significantly different than placebo.
 However, a subgroup of patients with rheumatoid arthritis tended to improve in global assessments at both the 2.5 mg q.i.d.
 (9 patients) and 5 mg q.i.d.
-(16 patients) dose (10-20 mg/day).
+(16 patients) dose (10-20 mg/ day).
 The clinical significance of this finding is unknown.
 
 Patients' assessments of specific dry mouth symptoms such as severity of dry mouth, mouth discomfort, ability to sleep without drinking water, and decreased use of saliva substitutes were also found to be consistent with the significant global improvement described when measured after 6 weeks and 12 weeks of pilocarpine hydrochloride tablets use.

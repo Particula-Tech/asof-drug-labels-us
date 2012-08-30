@@ -1,12 +1,21 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA020237",
+    "NDA020327"
+  ],
   "inn": "pilocarpine",
-  "labeler": "Activis Elizabeth LLC",
+  "labeler": "Actavis Elizabeth LLC",
   "package_ndcs": [
     "0228-2801-11",
     "0228-2837-11"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pilocarpine hydrochloride",
+      "name": "Pilocarpine hydrochloride"
+    }
+  ],
   "setid": "610022b7-7dc9-405a-a580-104657f43bdf",
   "source": "dailymed"
 }

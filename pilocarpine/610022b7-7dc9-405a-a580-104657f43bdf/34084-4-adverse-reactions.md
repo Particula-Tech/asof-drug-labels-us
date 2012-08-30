@@ -7,11 +7,11 @@ The majority of patients were between 50 and 64 years (51%), 33% were 65 years a
 
 The most frequent adverse experiences associated with pilocarpine hydrochloride tablets were a consequence of the expected pharmacologic effects of pilocarpine.
 
-| N=121 | N=141 | N=152 |  |
+|  | (30mg/day) | (15mg/day) |  |
 | --- | --- | --- | --- |
-| Adverse Event | Pilocarpine HCI |  | Placebo |
-| 10 mg t.i.d. | 5 mg t.i.d. | (t.i.d.) |  |
-| (30mg/day) | (15mg/day) |  |  |
+| Adverse Event | Pilocarpine HCl |  | Placebo |
+|  | 10 mg t.i.d. | 5 mg t.i.d. | (t.i.d.) |
+|  | N=121 | N=141 | N=152 |
 | Sweating | 68% | 29% | 9% |
 | Nausea | 15 | 6 | 4 |
 | Rhinitis | 14 | 5 | 7 |
@@ -24,11 +24,11 @@ The most frequent adverse experiences associated with pilocarpine hydrochloride 
 
 In addition, the following adverse events (≥3% incidence) were reported at dosages of 15-30 mg/day in the controlled clinical trials:
 
-| N=212 | N=152 |  |
+|  | N=212 | N=152 |
 | --- | --- | --- |
 | Adverse Event | Pilocarpine HCl | Placebo |
-| 5-10 mg t.i.d. | (t.i.d.) |  |
-| (15-30 mg/day) |  |  |
+|  | 5-10 mg t.i.d. | (t.i.d.) |
+|  | (15-30 mg/day) |  |
 | Headache | 11% | 8% |
 | Dyspepsia | 7 | 5 |
 | Lacrimation | 6 | 8 |
@@ -39,7 +39,7 @@ In addition, the following adverse events (≥3% incidence) were reported at dos
 | Pharyngitis | 3 | 8 |
 | Hypertension | 3 | 1 |
 
-The following events were reported with treated head and neck cancer patients at incidences of 1% to 2% at dosages of 7.5 to 30 mg/day: abnormal vision, conjunctivitis, dysphagia, epistaxis, myalgias, pruritus, rash, sinusitis, tachycardia, taste perversion, tremor, voice alteration.
+The following events were reported with treated head and neck cancer patients at incidences of 1% to 2% at dosages of 7.5 to 30 mg/ day: abnormal vision, conjunctivitis, dysphagia, epistaxis, myalgias, pruritus, rash, sinusitis, tachycardia, taste perversion, tremor, voice alteration.
 
 The following events were reported rarely in treated head and neck cancer patients (<1%): Causal relation is unknown.
 
@@ -77,11 +77,11 @@ In the 2 placebo-controlled studies, the most common adverse events related to d
 The most commonly reported reason for patient discontinuation of treatment was sweating.
 Expected pharmacologic effects of pilocarpine include the following adverse experiences associated with pilocarpine hydrochloride tablets:
 
-| Adverse Event | Pilocarpine HCI | Placebo |
+|  | N=255 | N=253 |
 | --- | --- | --- |
-| 5 mg q.i.d. | (q.i.d.) |  |
-| (20 mg/day) |  |  |
-| N=255 | N=253 |  |
+| Adverse Event | Pilocarpine HCl | Placebo |
+|  | 5 mg q.i.d. | (q.i.d.) |
+|  | (20 mg/day) |  |
 | Sweating | 40% | 7% |
 | Urinary Frequency | 10 | 4 |
 | Nausea | 9 | 9 |
@@ -121,7 +121,7 @@ Cardiovascular: angina pectoris, arrhythmia, ECG abnormality, hypotension, hyper
 
 Digestive: anorexia, bilirubinemia, cholelithiasis, colitis, dry mouth, eructation, gastritis, gastroenteritis, gastrointestinal disorder, gingivitis, hepatitis, abnormal liver function tests, melena, nausea & vomiting, pancreatitis, parotid gland enlargement, salivary gland enlargement, sputum increased, taste loss, tongue disorder, tooth disorder
 
-Hematologic: hematuria, lymphadenopathy, abnormal platelets, thrombocythemia, `thrombocytopenia, thrombosis, abnormal WBC
+Hematologic: hematuria, lymphadenopathy, abnormal platelets, thrombocythemia, thrombocytopenia, thrombosis, abnormal WBC
 
 Metabolic and Nutritional: peripheral edema, hypoglycemia
 
@@ -138,3 +138,11 @@ Special senses: cataract, conjunctivitis, dry eyes, ear disorder, ear pain, eye 
 Urogenital: breast pain, dysuria, mastitis, menorrhagia, metrorrhagia, ovarian disorder, pyuria, salpingitis, urethral pain, urinary urgency, vaginal hemorrhage, vaginal moniliasis
 
 The following adverse experiences have been reported rarely with ocular pilocarpine: A-V block, agitation, ciliary congestion, confusion, delusion, depression, dermatitis, middle ear disturbance, eyelid twitching, malignant glaucoma, iris cysts, macular hole, shock, and visual hallucination.
+
+MANAGEMENT OF OVERDOSE: Fatal overdosage with pilocarpine has been reported in the scientific literature at doses presumed to be greater than 100 mg in two hospitalized patients.
+100 mg of pilocarpine is considered potentially fatal.
+Overdosage should be treated with atropine titration (0.5 mg to 1.0 mg given subcutaneously or intravenously) and supportive measures to maintain respiration and circulation.
+Epinephrine
+
+(0.3 mg to 1.0 mg, subcutaneously or intramuscularly) may also be of value in the presence of severe cardiovascular depression or bronchoconstriction.
+It is not known if pilocarpine is dialyzable.
