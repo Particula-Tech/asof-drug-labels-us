@@ -1,6 +1,13 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Clopidogrel bisulfate is indicated for the reduction of atherothrombotic events as follows:
+## 1.1 Acute Coronary Syndrome (ACS)
 
-- Recent MI, Recent Stroke or Established Peripheral Arterial DiseaseFor patients with a history of recent myocardial infarction (MI), recent stroke, or established peripheral arterial disease, clopidogrel bisulfate has been shown to reduce the rate of a combined endpoint of new ischemic stroke (fatal or not), new MI (fatal or not), and other vascular death.
-- Acute Coronary SyndromeFor patients with acute coronary syndrome (unstable angina/non-Q-wave MI) including patients who are to be managed medically and those who are to be managed with percutaneous coronary intervention (with or without stent) or CABG, clopidogrel bisulfate has been shown to decrease the rate of a combined endpoint of cardiovascular death, MI, or stroke as well as the rate of a combined endpoint of cardiovascular death, MI, stroke, or refractory ischemia.
+- For patients with non-ST-segment elevation ACS [unstable angina (UA)/non-ST-elevation myocardial infarction (NSTEMI)], including patients who are to be managed medically and those who are to be managed with coronary revascularization, clopidogrel bisulate has been shown to decrease the rate of a combined endpoint of cardiovascular death, myocardial infarction (MI), or stroke as well as the rate of a combined endpoint of cardiovascular death, MI, stroke, or refractory ischemia.
+- For patients with ST-elevation myocardial infarction (STEMI), clopidogdrel bisulfate has been shown to reduce the rate of death from any cause and the rate of a combined endpoint of death, re-infarction, or stroke.
+  The benefit for patients who undergo primary percutaneous coronary intervention is unknown.
+
+The optimal duration of clopidogrel bisulfate therapy in ACS is unknown.
+
+## 1.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease
+
+For patients with a history of recent myocardial infarction (MI), recent stroke, or established peripheral arterial disease, clopidogrel bisulfate has been shown to reduce the rate of a combined endpoint of new ischemic stroke (fatal or not), new MI (fatal or not), and other vascular death.

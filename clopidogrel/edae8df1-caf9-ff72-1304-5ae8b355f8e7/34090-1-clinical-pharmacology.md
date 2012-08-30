@@ -1,73 +1,121 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
-Clopidogrel is an inhibitor of platelet aggregation.
-A variety of drugs that inhibit platelet function have been shown to decrease morbid events in people with established cardiovascular atherosclerotic disease as evidenced by stroke or transient ischemic attacks, myocardial infarction, unstable angina or the need for vascular bypass or angioplasty.
-This indicates that platelets participate in the initiation and/or evolution of these events and that inhibiting them can reduce the event rate.
+Clopidogrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y12 class of ADP receptors on platelets.
 
-## Pharmacodynamic Properties
+## 12.2 Pharmacodynamics
 
-Clopidogrel selectively inhibits the binding of adenosine diphosphate (ADP) to its platelet receptor and the subsequent ADP-mediated activation of the glycoprotein GPIIb/IIIa complex, thereby inhibiting platelet aggregation.
-Biotransformation of clopidogrel is necessary to produce inhibition of platelet aggregation, but an active metabolite responsible for the activity of the drug has not been isolated.
-Clopidogrel also inhibits platelet aggregation induced by agonists other than ADP by blocking the amplification of platelet activation by released ADP.
-Clopidogrel does not inhibit phosphodiesterase activity.
+Clopidogrel must be metabolized by CYP450 enzymes to produce the active metabolite that inhibits platelet aggregation.
+The active metabolite of clopidogrel selectively inhibits the binding of adenosine diphosphate (ADP) to its platelet P2Y12 receptor and the subsequent ADP-mediated activation of the glycoprotein GPIIb/IIIa complex, thereby inhibiting platelet aggregation.
+This action is irreversible.
+Consequently, platelets exposed to clopidogrel's active metabolite are affected for the remainder of their lifespan (about 7 to 10 days).
+Platelet aggregation induced by agonists other than ADP is also inhibited by blocking the amplification of platelet activation by released ADP.
 
-Clopidogrel acts by irreversibly modifying the platelet ADP receptor.
-Consequently, platelets exposed to clopidogrel are affected for the remainder of their lifespan.
-
-Dose dependent inhibition of platelet aggregation can be seen 2 hours after single oral doses of clopidogrel bisulfate.
-Repeated doses of 75 mg clopidogrel bisulfate per day inhibit ADP-induced platelet aggregation on the first day, and inhibition reaches steady state between Day 3 and Day 7.
-At steady state, the average inhibition level observed with a dose of 75 mg clopidogrel bisulfate per day was between 40% and 60%.
+Dose-dependent inhibition of platelet aggregation can be seen 2 hours after single oral doses of clopidogrel.
+Repeated doses of 75 mg clopidogrel per day inhibit ADP-induced platelet aggregation on the first day, and inhibition reaches steady state between Day 3 and Day 7.
+At steady state, the average inhibition level observed with a dose of 75 mg clopidogrel per day was between 40% and 60%.
 Platelet aggregation and bleeding time gradually return to baseline values after treatment is discontinued, generally in about 5 days.
 
-## Pharmacokinetics and Metabolism
+Geriatric Patients
 
-After repeated 75 mg oral doses of clopidogrel (base), plasma concentrations of the parent compound, which has no platelet inhibiting effect, are very low and are generally below the quantification limit (0.00025 mg/L) beyond 2 hours after dosing.
-Clopidogrel is extensively metabolized by the liver.
-The main circulating metabolite is the carboxylic acid derivative, and it too has no effect on platelet aggregation.
-It represents about 85% of the circulating drug-related compounds in plasma.
+Elderly (≥75 years) and young healthy subjects had similar effects on platelet aggregation.
 
-Following an oral dose of 14C-labeled clopidogrel in humans, approximately 50% was excreted in the urine and approximately 46% in the feces in the 5 days after dosing.
-The elimination half-life of the main circulating metabolite was 8 hours after single and repeated administration.
-Covalent binding to platelets accounted for 2% of radiolabel with a half-life of 11 days.
+Renally-Impaired Patients
 
-### Effect of Food
+After repeated doses of 75 mg clopidogrel per day, patients with severe renal impairment (creatinine clearance from 5 to 15 mL/min) and moderate renal impairment (creatinine clearance from 30 to 60 mL/min) showed low (25%) inhibition of ADP-induced platelet aggregation.
 
-Administration of clopidogrel bisulfate with meals did not significantly modify the bioavailability of clopidogrel as assessed by the pharmacokinetics of the main circulating metabolite.
+Hepatically-Impaired Patients
 
-### Absorption and Distribution
+After repeated doses of 75 mg clopidogrel per day for 10 days in patients with severe hepatic impairment, inhibition of ADP-induced platelet aggregation was similar to that observed in healthy subjects.
 
-Clopidogrel is rapidly absorbed after oral administration of repeated doses of 75 mg clopidogrel (base), with peak plasma levels (3 mg/L) of the main circulating metabolite occurring approximately 1 hour after dosing.
-The pharmacokinetics of the main circulating metabolite are linear (plasma concentrations increased in proportion to dose) in the dose range of 50 to 150 mg of clopidogrel.
-Absorption is at least 50% based on urinary excretion of clopidogrel-related metabolites.
+Gender
 
-Clopidogrel and the main circulating metabolite bind reversibly in vitro to human plasma proteins (98% and 94%, respectively).
-The binding is nonsaturable in vitro up to a concentration of 100 µg/mL.
+In a small study comparing men and women, less inhibition of ADP-induced platelet aggregation was observed in women.
 
-### Metabolism and Elimination
+## 12.3 Pharmacokinetics
 
-In vitro and in vivo, clopidogrel undergoes rapid hydrolysis into its carboxylic acid derivative.
-In plasma and urine, the glucuronide of the carboxylic acid derivative is also observed.
+Clopidogrel is a prodrug and is metabolized to a pharmacologically active metabolite and inactive metabolites.
 
-## Special Populations
+Absorption
 
-### Geriatric Patients
+After single and repeated oral doses of 75 mg per day, clopidogrel is rapidly absorbed.
+Absorption is at least 50%, based on urinary excretion of clopidogrel metabolites.
 
-Plasma concentrations of the main circulating metabolite are significantly higher in elderly (≥75 years) compared to young healthy volunteers but these higher plasma levels were not associated with differences in platelet aggregation and bleeding time.
-No dosage adjustment is needed for the elderly.
+Effect of Food
 
-### Renally Impaired Patients
+Clopidogrel can be administered with or without food.
+In a study in healthy male subjects when Clopidogrel 75 mg per day was given with a standard breakfast, mean inhibition of ADP-induced platelet aggregation was reduced by less than 9%.
+The active metabolite AUC0–24 was unchanged in the presence of food, while there was a 57% decrease in active metabolite Cmax.
+Similar results were observed when a Clopidogrel 300 mg loading dose was administered with a high-fat breakfast.
 
-After repeated doses of 75 mg clopidogrel bisulfate per day, plasma levels of the main circulating metabolite were lower in patients with severe renal impairment (creatinine clearance from 5 to 15 mL/min) compared to subjects with moderate renal impairment (creatinine clearance 30 to 60 mL/min) or healthy subjects.
-Although inhibition of ADP-induced platelet aggregation was lower (25%) than that observed in healthy volunteers, the prolongation of bleeding time was similar to healthy volunteers receiving 75 mg of clopidogrel bisulfate per day.
+Metabolism
 
-### Gender
+Clopidogrel is extensively metabolized by two main metabolic pathways: one mediated by esterases and leading to hydrolysis into an inactive carboxylic acid derivative (85% of circulating metabolites) and one mediated by multiple cytochrome P450 enzymes.
+Cytochromes first oxidize clopidogrel to a 2-oxo-clopidogrel intermediate metabolite.
+Subsequent metabolism of the 2-oxo-clopidogrel intermediate metabolite results in formation of the active metabolite, a thiol derivative of clopidogrel.
+This metabolic pathway is mediated by CYP2C19, CYP3A, CYP2B6 and CYP1A2.
+The active thiol metabolite binds rapidly and irreversibly to platelet receptors, thus inhibiting platelet aggregation for the lifespan of the platelet.
 
-No significant difference was observed in the plasma levels of the main circulating metabolite between males and females.
-In a small study comparing men and women, less inhibition of ADP-induced platelet aggregation was observed in women, but there was no difference in prolongation of bleeding time.
-In the large, controlled clinical study (Clopidogrel vs. Aspirin in Patients at Risk of Ischemic Events; CAPRIE), the incidence of clinical outcome events, other adverse clinical events, and abnormal clinical laboratory parameters was similar in men and women.
+The Cmax of the active metabolite is twice as high following a single 300 mg clopidogrel loading dose as it is after four days of 75 mg maintenance dose.
+Cmax occurs approximately 30 to 60 minutes after dosing.
+In the 75 to 300 mg dose range, the pharmacokinetics of the active metabolite deviates from dose proportionality: increasing the dose by a factor of four results in 2.0- and 2.7-fold increases in Cmax and AUC, respectively.
 
-### Race
+Elimination
 
-Pharmacokinetic differences due to race have not been studied.
+Following an oral dose of 14C-labeled clopidogrel in humans, approximately 50% of total radioactivity was excreted in urine and approximately 46% in feces over the 5 days post-dosing.
+After a single, oral dose of 75 mg, clopidogrel has a half-life of approximately 6 hours.
+The half-life of the active metabolite is about 30 minutes.
+
+Drug Interactions
+
+Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
+Concomitant use of certain inhibitors of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
+
+Proton Pump Inhibitors (PPI)
+
+The effect of proton pump inhibitors (PPI) on the systemic exposure to the clopidogrel active metabolite following multiple doses of Clopidogrel 75 mg evaluated in dedicated drug interaction studies is presented in Figure 1.
+
+Pharmacodynamic and pharmacokinetic parameters measured in these studies showed that the interaction was highest with omeprazole and least with dexlansoprazole.
+
+## 12.5 Pharmacogenomics
+
+CYP2C19 is involved in the formation of both the active metabolite and the 2-oxo-clopidogrel intermediate metabolite.
+Clopidogrel active metabolite pharmacokinetics and antiplatelet effects, as measured by ex vivo platelet aggregation assays, differ according to CYP2C19 genotype.
+Genetic variants of other CYP450 enzymes may also affect the formation of clopidogrel's active metabolite.
+
+The CYP2C19*1 allele corresponds to fully functional metabolism while the CYP2C19*2 and *3 alleles are nonfunctional.
+CYP2C19*2 and *3 account for the majority of reduced function alleles in white (85%) and Asian (99%) poor metabolizers.
+Other alleles associated with absent or reduced metabolism are less frequent, and include, but are not limited to, CYP2C19*4, *5, *6, *7, and *8.
+A patient with poor metabolizer status will possess two loss-of-function alleles as defined above.
+Published frequencies for poor CYP2C19 metabolizer genotypes are approximately 2% for whites, 4% for blacks and 14% for Chinese.
+Tests are available to determine a patient's CYP2C19 genotype.
+
+A crossover study in 40 healthy subjects, 10 each in the four CYP2C19 metabolizer groups, evaluated pharmacokinetic and antiplatelet responses using 300 mg followed by 75 mg per day and 600 mg followed by 150 mg per day, each for a total of 5 days.
+Decreased active metabolite exposure and diminished inhibition of platelet aggregation were observed in the poor metabolizers as compared to the other groups.
+When poor metabolizers received the 600 mg/150 mg regimen, active metabolite exposure and antiplatelet response were greater than with the 300 mg/75 mg regimen (see Table 3).
+An appropriate dose regimen for this patient population has not been established in clinical outcome trials.
+
+Table 3: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C19 Metabolizer Status
+
+|  | Dose | Ultrarapid (n=10) | Extensive (n=10) | Intermediate (n=10) | Poor (n=10) |
+| --- | --- | --- | --- | --- | --- |
+| Cmax (ng/mL) | 300 mg (24 h) | 24 (10) | 32 (21) | 23 (11) | 11 (4) |
+|  | 600 mg (24 h) | 36 (13) | 44 (27) | 39 (23) | 17 (6) |
+|  | 75 mg (Day 5) | 12 (6) | 13 (7) | 12 (5) | 4 (1) |
+|  | 150 mg (Day 5) | 16 (9) | 19 (5) | 18 (7) | 7 (2) |
+| IPA (%)Inhibition of platelet aggregation with 5mcM ADP; larger value indicates greater platelet inhibition | 300 mg (24 h) | 40 (21) | 39 (28) | 37 (21) | 24 (26) |
+|  | 600 mg (24 h) | 51 (28) | 49 (23) | 56 (22) | 32 (25) |
+|  | 75 mg (Day 5) | 56 (13) | 58 (19) | 60 (18) | 37 (23) |
+|  | 150 mg (Day 5) | 68 (18) | 73 (9) | 74 (14) | 61 (14) |
+| VASP-PRI (%) Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition | 300 mg (24 h) | 73 (12) | 68 (16) | 78 (12) | 91 (12) |
+|  | 600 mg (24 h) | 51 (20) | 48 (20) | 56 (26) | 85 (14) |
+|  | 75 mg (Day 5) | 40 (9) | 39 (14) | 50 (16) | 83 (13) |
+|  | 150 mg (Day 5) | 20 (10) | 24 (10) | 29 (11) | 61 (18) |
+| Values are mean (SD) |  |  |  |  |  |
+
+Some published studies suggest that intermediate metabolizers have decreased active metabolite exposure and diminished antiplatelet effects.
+
+The relationship between CYP2C19 genotype and clopidogrel treatment outcome was evaluated in retrospective analyses of clopidogrel-treated subjects in CHARISMA (n=2428) and TRITON-TIMI 38 (n=1477), and in several published cohort studies.
+In TRITON-TIMI 38 and the majority of the cohort studies, the combined group of patients with either intermediate or poor metabolizer status had a higher rate of cardiovascular events (death, myocardial infarction, and stroke) or stent thrombosis compared to extensive metabolizers.
+In CHARISMA and one cohort study, the increased event rate was observed only in poor metabolizers.

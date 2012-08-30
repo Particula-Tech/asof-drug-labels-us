@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076274"
+  ],
   "inn": "clopidogrel",
   "labeler": "Apotex Corp.",
   "package_ndcs": [
@@ -8,7 +10,13 @@
     "60505-0253-3",
     "60505-0253-4"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "clopidogrel bisulfate",
+      "name": "Clopidogrel"
+    }
+  ],
   "setid": "edae8df1-caf9-ff72-1304-5ae8b355f8e7",
   "source": "dailymed"
 }
