@@ -34,7 +34,9 @@ To assure safe and effective use of AVELOX, patients should be informed of the f
   Patients should discontinue AVELOX at the first sign of a skin rash or other signs of an allergic reaction.
 - •Convulsions: Convulsions have been reported in patients receiving quinolones, and they should notify their physician before taking AVELOX if there is a history of this condition.
   Patients should also inform their physician if they are taking NSAIDs concurrently with AVELOX.
-- •Neurologic Adverse Effects (for example, dizziness, lightheadedness): AVELOX may cause dizziness and lightheadedness; therefore, patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
+- •Neurologic Adverse Effects (for example, dizziness, lightheadedness): AVELOX may cause dizziness, lightheadedness and vision disorders; therefore, patients should know how they react to this drug before they operate an automobile or machinery or engage in activities requiring mental alertness or coordination.
+- •Psychotic Reaction:Psychotic reactions sometimes resulting in self-injurious behavior have been reported in patients receiving quinolones.
+  Patients should notify their physician if they have a history of psychiatric illness before taking AVELOX.
 - •Peripheral Neuropathies: If symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness develop, patients should discontinue AVELOX and contact their physician.
 - •Photosensitivity/Phototoxicity: Patients should be informed that photosensitivity/phototoxicity has been reported in patients receiving quinolones.
   Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking quinolones.

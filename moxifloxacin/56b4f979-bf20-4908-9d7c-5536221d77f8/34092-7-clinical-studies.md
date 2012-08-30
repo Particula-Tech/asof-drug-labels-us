@@ -18,7 +18,7 @@ Table 10 Clinical Success Rates at Follow-Up Visit for Clinically Evaluable Pati
 | Staphylococcus aureus | 15/16 (94%) | 6/8 (75%) |
 | Klebsiella pneumoniae | 18/20 (90%) | 10/11 (91%) |
 
-The microbiological eradication rates (eradication plus presumed eradication) in AVELOX treated patients were Streptococcus pneumoniae 100%, Haemophilus influenzae89%, Haemophilus parainfluenzae100%, Moraxella catarrhalis85%, Staphylococcus aureus 94%, and Klebsiella pneumonia 85%.
+The microbiological eradication rates (eradication plus presumed eradication) in AVELOX treated patients were Streptococcus pneumoniae 100%, Haemophilus influenzae 89%, Haemophilus parainfluenzae 100%, Moraxella catarrhalis 85%, Staphylococcus aureus 94%, and Klebsiella pneumonia 85%.
 
 ## 14.2 Community Acquired Pneumonia
 
@@ -55,7 +55,7 @@ AVELOX was effective in the treatment of community acquired pneumonia (CAP) caus
 Of 37 microbiologically evaluable patients with MDRSP isolates, 35 patients (95%) achieved clinical and bacteriological success post-therapy.
 The clinical and bacteriological success rates based on the number of patients treated are shown in Table 12.
 
-* MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are strains resistant to two or more of the following antibiotics: penicillin (MIC ≥ 2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
+* MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are isolates resistant to two or more of the following antibiotics: penicillin (MIC ≥ 2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
 
 Table 12 Clinical and Bacteriological Success Rates for AVELOX-Treated MDRSP CAP Patients (Population: Valid for Efficacy)
 
@@ -121,7 +121,7 @@ Table 15 Clinical Success Rates by Pathogen in Patients with Complicated Skin an
 
 | Pathogen | AVELOX n/ N (%) | Comparator n/N (%) |
 | --- | --- | --- |
-| Staphylococcus aureus (methicillin-susceptible strains)methicillin susceptibility was only determined in the North American Study | 106/129 (82.2%) | 120/137 (87.6%) |
+| Staphylococcus aureus (methicillin-susceptible isolates)methicillin susceptibility was only determined in the North American Study | 106/129 (82.2%) | 120/137 (87.6%) |
 | Escherichia coli | 31/38 (81.6 %) | 28/33 (84.8 %) |
 | Klebsiella pneumoniae | 11/12 (91.7 %) | 7/10 (70%) |
 | Enterobacter cloacae | 9/11 (81.8%) | 4/7 (57.1%) |

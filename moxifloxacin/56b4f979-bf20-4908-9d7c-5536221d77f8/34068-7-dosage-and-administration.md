@@ -26,11 +26,11 @@ Oral doses of AVELOX should be administered at least 4 hours before or 8 hours a
 
 ## 2.3 Administration Instructions
 
-### AVELOX Tablets
+### AVELOX Film-Coated Tablets
 
 AVELOX Tablets can be taken with or without food, drink fluids liberally.
 
-### AVELOX IV
+### AVELOX IV Solution for Infusion
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 

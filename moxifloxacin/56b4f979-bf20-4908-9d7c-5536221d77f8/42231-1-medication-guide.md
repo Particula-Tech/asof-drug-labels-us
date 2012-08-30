@@ -179,6 +179,7 @@ Talk to your healthcare provider right away if you have any of these side effect
 - •Feel more suspicious (paranoia)
 - •Suicidal thoughts or acts
 - •Nightmares
+- •Vision Loss
 - • Serious allergic reactions
 
 Allergic reactions can happen in people taking fluoroquinolones, including AVELOX, even after only one dose.
@@ -272,7 +273,7 @@ What are the ingredients in AVELOX?
   - ∘Active ingredient: moxifloxacin hydrochloride
   - ∘Inactive ingredients: sodium chloride, USP, water for injection, USP, and may include hydrochloric acid and/or sodium hydroxide for pH adjustment
 
-Revised January 2012
+Revised August 2012
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -280,16 +281,12 @@ Manufactured for: Bayer HealthCare Pharmaceuticals Inc. Wayne, NJ 07470
 
 AVELOX Tablets manufactured in Germany AVELOX IV manufactured in Germany or AVELOX IV manufactured in Norway by Fresenius Kabi Norge AS NO-1753 Halden, Norway
 
-Distributed by: Schering Corporation, a subsidiary of
+Distributed by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co, Inc. Whitehouse Station, NJ 08889, USA
 
-MERCK & CO., INC.
-
-Whitehouse Station, NJ 08889, USA
-
-AVELOX® is a registered trademark of Bayer Aktiengesellschaft and is used under license by Schering Corporation, a subsidiary of Merck & Co., Inc.
+AVELOX® is a registered trademark of Bayer Aktiengesellschaft and is used under license by Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
 
 Rx Only
 
 ©2012 Bayer HealthCare Pharmaceuticals Inc.
 
-83680831, R.2
+83680831, R.3

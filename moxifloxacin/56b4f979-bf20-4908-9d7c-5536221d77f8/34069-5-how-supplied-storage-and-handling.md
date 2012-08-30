@@ -2,7 +2,7 @@
 
 ## 16.1 AVELOX Tablets
 
-AVELOX (moxifloxacin hydrochloride) Tablets are available as oblong, dull red film-coated tablets containing 400 mg moxifloxacin.
+AVELOX (moxifloxacin) hydrochloride tablets are available as oblong, dull red film-coated tablets containing 400 mg moxifloxacin.
 
 The tablet is coded with the word “BAYER” on one side and “M400” on the reverse side.
 
@@ -17,7 +17,7 @@ Avoid high humidity.
 
 ## 16.2 AVELOX Intravenous Solution – Premix Bags
 
-AVELOX IV (moxifloxacin hydrochloride in sodium chloride injection) is available in ready-to-use 250 mL latex-free flexible bags containing 400 mg of moxifloxacin in 0.8% saline.
+AVELOX IV (moxifloxacin) hydrochloride in sodium chloride injection) is available in ready-to-use 250 mL latex-free flexible bags containing 400 mg of moxifloxacin in 0.8% saline.
 NO FURTHER DILUTION OF THIS PREPARATION IS NECESSARY.
 
 | Package | NDC Code |

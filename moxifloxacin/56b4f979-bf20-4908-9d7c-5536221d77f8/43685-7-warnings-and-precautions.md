@@ -38,7 +38,8 @@ QT prolongation may lead to an increased risk for ventricular arrhythmias includ
 No excess in cardiovascular morbidity or mortality attributable to QTc prolongation occurred with AVELOX treatment in over 15,500 patients in controlled clinical studies, including 759 patients who were hypokalemic at the start of treatment, and there was no increase in mortality in over 18,000 AVELOX tablet treated patients in a postmarketing observational study in which ECGs were not performed.
 Elderly patients using IV AVELOX may be more susceptible to drug-associated QT prolongation.
 [see Use In Specific Populations, (8.5).]
-In addition, AVELOX should be used with caution in patients with mild, moderate, or severe liver cirrhosis.[see Clinical Pharmacology (12.3) and Patient Counseling Information (17.3).]
+In addition, AVELOX should be used with caution in patients with mild, moderate, or severe liver cirrhosis.
+[See Clinical Pharmacology (12.3) and Patient Counseling Information (17.3).]
 
 ## 5.4 Hypersensitivity Reactions
 
@@ -90,7 +91,8 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## 5.8 Peripheral Neuropathy
 
-Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving quinolones [see Adverse Reactions (6.2) and Patient Counseling Information (17.3)].
+Rare cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving quinolones including AVELOX.
+AVELOX should be discontinued if the patient experiences symptoms of neuropathy in order to prevent the development of an irreversible condition [see Adverse Reactions (6.2, 6.4) and Patient Counseling Information (17.3)].
 
 ## 5.9 Arthropathic Effects in Animals
 

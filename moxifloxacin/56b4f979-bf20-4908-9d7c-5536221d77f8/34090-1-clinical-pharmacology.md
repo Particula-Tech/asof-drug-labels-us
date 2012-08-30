@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-AVELOX is a member of the fluoroquinolone class of antibacterial agents [see Clinical Pharmacology (12.4)].
+AVELOX is a member of the fluoroquinolone class of antibacterial agents [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -280,10 +280,10 @@ Gram-positive bacteria
 - •Staphylococcus aureus
 - •Streptococcus anginosus
 - •Streptococcus constellatus
-- •Streptococcus pneumoniae (including multi-drug resistant strains [MDRSP]*)
+- •Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]**)
 - •Streptococcus pyogenes
 
-*MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are strains resistant to two or more of the following antibiotics: penicillin (MIC) ≥2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
+**MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are isolates resistant to two or more of the following antibiotics: penicillin (MIC) ≥2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
 
 Gram-negative bacteria
 
@@ -378,7 +378,7 @@ A report of “Resistant” indicates that the antimicrobial is not likely to in
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay and the techniques of the individuals performing the test.1,2,3,4 Standard moxifloxacin powder should provide the following range of MIC values noted in Table 9.
 For the diffusion technique using the 5 mcg moxifloxacin disk, the criteria in Table 9 should be achieved.
 
-Table 9 Acceptable Control Ranges for Moxifloxacin
+Table 9 Acceptable Quality Control Ranges for Moxifloxacin
 
 | Strains | MIC range (mcg/mL) | Zone Diameter (mm) |
 | --- | --- | --- |

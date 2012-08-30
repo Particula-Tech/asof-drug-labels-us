@@ -187,11 +187,13 @@ Table 4 Postmarketing Reports of Adverse Drug Reactions
 | --- | --- |
 | Blood and Lymphatic System Disorders | AgranulocytosisPancytopenia[see Warnings and Precautions (5.5)] |
 | Cardiac Disorders | Ventricular tachyarrhythmias (including in very rare cases cardiac arrest and torsade de pointes, and usually in patients with concurrent severe underlying proarrhythmic conditions) |
+| Ear and Labyrinth Disorders | Hearing impairment, including deafness (reversible in majority of cases) |
+| Eye Disorders | Vision loss (especially in the course of CNS reactions, transient in majority of cases) |
 | Hepatobiliary Disorders | Hepatitis (predominantly cholestatic)Hepatic failure (including fatal cases)Jaundice Acute hepatic necrosis [see Warnings and Precautions (5.5)] |
 | Immune System Disorders | Anaphylactic reactionAnaphylactic shock Angioedema (including laryngeal edema)[see Warnings and Precautions (5.4, 5.5)] |
 | Musculoskeletal and Connective Tissue Disorders | Tendon rupture [see Warnings and Precautions (5.1)] |
-| Nervous System Disorders | Altered coordinationAbnormal gait[see Warnings and Precautions (5.8)]Myasthenia gravis (exacerbation of)[see Warnings and Precautions (5.2)] |
-| Psychiatric Disorders | Psychotic reaction (very rarely culminating in self-endangering behavior) |
+| Nervous System Disorders | Altered coordinationAbnormal gait[see Warnings and Precautions (5.8)]Myasthenia gravis (exacerbation of)[see Warnings and Precautions (5.2)]Muscle weaknessPeripheral neuropathy, polyneuropathy[see Warnings and Precautions (5.8)] |
+| Psychiatric Disorders | Psychotic reaction (very rarely culminating in self-injurious behavior, such as suicidal ideation/thoughts or suicide attempts [see Warnings and Precautions (5.6)] |
 | Renal and Urinary Disorders | Renal dysfunctionInterstitial nephritis [see Warnings and Precautions (5.5)] |
 | Respiratory, Thoracic and Mediastinal Disorders | Allergic pneumonitis[see Warnings and Precautions (5.5)] |
 | Skin and Subcutaneous Tissue Disorders | Photosensitivity/phototoxicity reaction[see Warnings and Precautions (5.10)]Stevens-Johnson syndromeToxic epidermal necrolysis[see Warnings and Precautions (5.5)] |
