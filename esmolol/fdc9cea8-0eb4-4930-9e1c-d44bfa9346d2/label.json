@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA076573"
+  ],
+  "inn": "esmolol",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-652-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "esmolol hydrochloride",
+      "name": "Esmolol"
+    }
+  ],
+  "setid": "fdc9cea8-0eb4-4930-9e1c-d44bfa9346d2",
+  "source": "dailymed"
+}
