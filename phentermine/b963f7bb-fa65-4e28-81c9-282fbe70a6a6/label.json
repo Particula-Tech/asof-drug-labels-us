@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA040875",
+    "ANDA040886"
+  ],
+  "inn": "phentermine",
+  "labeler": "KVK-Tech, Inc.",
+  "package_ndcs": [
+    "10702-026-01",
+    "10702-026-03",
+    "10702-026-10",
+    "10702-027-01",
+    "10702-027-03",
+    "10702-027-10",
+    "10702-028-01",
+    "10702-028-03",
+    "10702-028-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "phentermine hydrochloride",
+      "name": "Phentermine Hydrochloride"
+    }
+  ],
+  "setid": "b963f7bb-fa65-4e28-81c9-282fbe70a6a6",
+  "source": "dailymed"
+}
