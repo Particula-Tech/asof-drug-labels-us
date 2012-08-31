@@ -208,7 +208,7 @@ For anaerobic bacteria, the susceptibility to meropenem as MICs can be determine
 
 | Table 2. Susceptibility Interpretive Criteria for Meropenem |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Minimum Inhibitory Concentrations(mcg/mL) |  |  | Disk Diffusion (zone diameters in mm) |  |  |
+|  | Minimum InhibitoryConcentrations(mcg/mL) |  |  | Disk Diffusion (zone diameters in mm) |  |  |
 | Pathogen | S | I | R | S | I | R |
 | Enterobacteriaceae, Acinetobacter spp. and Pseudomonas aeruginosa | ≤ 4 | 8 | ≥ 16 | ≥ 16 | 14–15 | ≤ 13 |
 | Haemophilus influenzaeThe current absence of data on resistant isolates precludes defining any category other than “Susceptible”. If isolates yield MIC results other than susceptible, they should be submitted to a reference laboratory for additional testing. | ≤ 0.5 | — | — | ≥ 20 | — | — |

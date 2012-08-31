@@ -2,15 +2,15 @@
 
 The following are discussed in greater detail in other sections of labeling:
 
-- Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
-- Seizure Potential [see Warnings and Precautions (5.2)]
-- Interaction with Valproic Acid [see Warnings and Precautions (5.3)]
-- Clostridium difficile – Associated Diarrhea [see Warnings and Precautions (5.4)]
-- Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.5)]
-- Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions (5.6)]
-- Laboratory Tests [see Warnings and Precautions (5.7)]
-- Patients with Renal Impairment [see Warnings and Precautions (5.8)]
-- Dialysis [see Warnings and Precautions (5.9)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- •Seizure Potential [see Warnings and Precautions (5.2)]
+- •Interaction with Valproic Acid [see Warnings and Precautions (5.3)]
+- •Clostridium difficile – Associated Diarrhea [see Warnings and Precautions (5.4)]
+- •Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.5)]
+- •Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions (5.6)]
+- •Laboratory Tests [see Warnings and Precautions (5.7)]
+- •Patients with Renal Impairment [see Warnings and Precautions (5.8)]
+- •Dialysis [see Warnings and Precautions (5.9)]
 
 ## 6.1 Adverse Reactions from Clinical Trials
 

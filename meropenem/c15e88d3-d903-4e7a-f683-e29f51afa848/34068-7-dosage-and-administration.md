@@ -15,7 +15,7 @@ When only serum creatinine is available, the following formula (Cockcroft and Ga
 
 Males: Creatinine Clearance (mL/min) =
 
-Weight (kg) x (140 - age)__
+Weight (kg) x (140 - age)
 
 72 x serum creatinine (mg/dL)
 
