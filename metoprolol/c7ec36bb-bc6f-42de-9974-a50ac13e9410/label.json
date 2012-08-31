@@ -5,12 +5,18 @@
   "inn": "metoprolol",
   "labeler": "West-ward Pharmaceutical Corp",
   "package_ndcs": [
+    "0143-9660-10",
     "0143-9873-01"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
       "generic": "metoprolol tartrate",
+      "name": "Metoprolol Tartrate"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "metoroprolol tartrate",
       "name": "Metoprolol Tartrate"
     }
   ],
