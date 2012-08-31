@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA075154"
+  ],
+  "inn": "midazolam",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-411-10",
+    "63323-411-12",
+    "63323-411-25",
+    "63323-412-02",
+    "63323-412-05",
+    "63323-412-10",
+    "63323-412-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "midazolam hydrochloride",
+      "name": "Midazolam"
+    }
+  ],
+  "setid": "a91ce254-14a3-4cbf-8ab8-5da252aa3fdc",
+  "source": "dailymed"
+}
