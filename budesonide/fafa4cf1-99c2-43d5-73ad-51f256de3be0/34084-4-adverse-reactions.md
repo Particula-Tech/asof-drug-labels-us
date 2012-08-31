@@ -8,17 +8,12 @@ Data from a large placebo-controlled US study that compared the safety of anothe
 
 Systemic and inhaled corticosteroid use may result in the following:
 
-- Candida albicans infection [see Warnings and Precautions (5.4)]
-
-- Pneumonia or lower respiratory tract infections in patients with COPD [see Warnings and Precautions (5.5)]
-
-- Immunosuppression [see Warnings and Precautions (5.6)]
-
-- Hypercorticism and adrenal suppression [see Warnings and Precautions (5.8)]
-
-- Growth effects in pediatric patients [see Warnings and Precautions (5.14)]
-
-- Glaucoma and cataracts [see Warnings and Precautions (5.15)]
+- •Candida albicans infection [see Warnings and Precautions (5.4)]
+- •Pneumonia or lower respiratory tract infections in patients with COPD [see Warnings and Precautions (5.5)]
+- •Immunosuppression [see Warnings and Precautions (5.6)]
+- •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.8)]
+- •Growth effects in pediatric patients [see Warnings and Precautions (5.14)]
+- •Glaucoma and cataracts [see Warnings and Precautions (5.15)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -35,10 +30,10 @@ In considering these data, the increased average duration of patient exposure fo
 
 Table 1 Adverse-reactions occurring at an incidence of ≥ 3% and more commonly than placebo in the SYMBICORT groups: pooled data from three 12-week, double-blind, placebo-controlled clinical asthma trials in patients 12 years and older
 
-| Nasopharyngitis | 10.5 | 9.7 | 14.0 | 11.0 | 10.1 | 9.0 |
+| Adverse Event | 80/4.5 mcg N= 277 % | 160/4.5 mcg N =124 % | 80 mcg N =121 % | 160 mcg N = 109 % | 4.5 mcg N = 237 % | N = 400 % |
 | --- | --- | --- | --- | --- | --- | --- |
 | TreatmentAll treatments were administered as two inhalations twice daily. | SYMBICORT |  | Budesonide |  | Formoterol | Placebo |
-| Adverse Event | 80/4.5 mcg N = 277 % | 160/4.5 mcg N =124 % | 80 mcg N =121 % | 160 mcg N = 109 % | 4.5 mcg N = 237 % | N = 400 % |
+| Nasopharyngitis | 10.5 | 9.7 | 14.0 | 11.0 | 10.1 | 9.0 |
 | Headache | 6.5 | 11.3 | 11.6 | 12.8 | 8.9 | 6.5 |
 | Upper respiratory tract infection | 7.6 | 10.5 | 8.3 | 9.2 | 7.6 | 7.8 |
 | Pharyngolaryngeal pain | 6.1 | 8.9 | 5.0 | 7.3 | 3.0 | 4.8 |
@@ -67,9 +62,9 @@ In considering these data, the increased average duration of patient exposure to
 
 Table 2 Adverse reactions occurring at an incidence of ≥ 3% and more commonly than placebo in the SYMBICORT group: pooled data from two double-blind, placebo-controlled clinical COPD trials
 
-| TreatmentAll treatments were administered as two inhalations twice daily | SYMBICORT | Budesonide | Formoterol | Placebo |
+| TreatmentAll treatments were administered as two inhalations twice daily. | SYMBICORT | Budesonide | Formoterol | Placebo |
 | --- | --- | --- | --- | --- |
-| Adverse Event | 160/4.5 mcg N=771 % | 160 mcgN=275% | 4.5 mcgN=779% | N=781% |
+| Adverse Event | 160/4.5 mcgN=771% | 160 mcgN=275% | 4.5 mcgN=779% | N=781% |
 | Nasopharyngitis | 7.3 | 3.3 | 5.8 | 4.9 |
 | Oral candidiasis | 6.0 | 4.4 | 1.2 | 1.8 |
 | Bronchitis | 5.4 | 4.7 | 4.5 | 3.5 |

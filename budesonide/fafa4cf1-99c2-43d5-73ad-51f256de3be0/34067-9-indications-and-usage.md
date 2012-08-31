@@ -12,7 +12,7 @@ Do not use SYMBICORT for patients whose asthma is adequately controlled on low o
 
 Important Limitations of Use:
 
-• SYMBICORT is NOT indicated for the relief of acute bronchospasm.
+- •SYMBICORT is NOT indicated for the relief of acute bronchospasm.
 
 ## 1.2 Maintenance Treatment of Chronic Obstructive Pulmonary Disease (COPD)
 

@@ -22,9 +22,9 @@ The predefined asthma-worsening criteria were a clinically important decrease in
 For the criterion of nighttime awakening due to asthma, patients were allowed to remain in the study at the discretion of the investigator if none of the other asthma-worsening criteria were met.
 The percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma is shown in Table 3.
 
-Table 3 The number and percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma (Study 1)
+Table 3 The numberof percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma (Study 1)
 
-|  | Symbicort160/4.5 mcg n=124 | Budesonide 160 mcg plus Formoterol 4.5 mcg n=115 | Budesonide 160 mcg n=109 | Formoterol 4.5 mcg n=123 | Placebo n=125 |
+|  | SYMBICORT 160/4.5 mcgn=124 | Budesonide160 mcg plus Formoterol4.5 mcgn=115 | Budesonide160 mcgn=109 | Formoterol4.5 mcgn=123 | Placebon=125 |
 | --- | --- | --- | --- | --- | --- |
 | Patients withdrawn due to predefined asthma eventThese criteria were assessed on a daily basis irrespective of the timing of the clinic visit, with the exception of FEV1, which was assessed at each clinic visit. | 13 (10.5) | 13 (11.3) | 22 (20.2) | 44 (35.8) | 62 (49.6) |
 | Patients with a predefined asthma eventIndividual criteria are shown for patients meeting any predefined asthma event, regardless of withdrawal status. | 37 (29.8) | 24 (20.9) | 48 (44.0) | 68 (55.3) | 84 (67.2) |
@@ -50,7 +50,7 @@ Table 4 Mean values for selected secondary efficacy variables (Study 1)
 | Change from Baseline | 35 | 28 | 9 | -9 | -18 |
 | PM PEF (L/min) Baseline | 351 | 348 | 357 | 354 | 369 |
 | Change from Baseline | 34 | 26 | 7 | -7 | -18 |
-| Albuterol rescue use Baseline | 2.1 | 2.3 | 2.7 | 2.5 | 2.4 |
+| Albuterol rescue useBaseline | 2.1 | 2.3 | 2.7 | .5 | 2.4 |
 | Change from Baseline | -1.0 | -1.5 | -0.8 | -0.3 | 0.8 |
 | Average symptom score/day (0–3 scale) Baseline | 0.99 | 1.03 | 1.04 | 1.04 | 1.08 |
 | Change from Baseline | -0.28 | -0.32 | -0.14 | -0.05 | 0.10 |
@@ -72,7 +72,7 @@ The method of assessment and criteria used were identical to that in Study 1.
 
 Table 5 The number and percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma (Study 2)
 
-|  | SYMBICORT 80/4.5 mcg(n=123) | Budesonide 80 mcg (n=121) | Formoterol 4.5 mcg (n=114) | Placebo (n=122) |
+|  | SYMBICORT80/4.5 mcg(n=123) | Budesonide80 mcg(n=121) | Formoterol4.5 mcg(n=114) | Placebo(n=122) |
 | --- | --- | --- | --- | --- |
 | Patients withdrawn due to predefined asthma eventThese criteria were assessed on a daily basis irrespective of the timing of the clinic visit, with the exception of FEV1, which was assessed at each clinic visit. | 9 (7.3) | 8 (6.6) | 21 (18.4) | 40 (32.8) |
 | Patients with a predefined asthma eventIndividual criteria are shown for patients meeting any predefined asthma event, regardless of withdrawal status. | 23 (18.7) | 26 (21.5) | 48 (42.1) | 69 (56.6) |

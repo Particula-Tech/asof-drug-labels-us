@@ -15,11 +15,9 @@ Acute symptoms should be treated with an inhaled, short-acting beta2-agonist suc
 
 Patients should be instructed to notify their physician immediately if they experience any of the following:
 
-• Decreasing effectiveness of inhaled, short-acting beta2 -agonists
-
-• Need for more inhalations than usual of inhaled, short-acting beta2 -agonists
-
-• Significant decrease in lung function as outlined by the physician
+- •Decreasing effectiveness of inhaled, short-acting beta2-agonists
+- •Need for more inhalations than usual of inhaled, short-acting beta2-agonists
+- •Significant decrease in lung function as outlined by the physician
 
 Patients should not stop therapy with SYMBICORT without physician/provider guidance since symptoms may recur after discontinuation.
 
