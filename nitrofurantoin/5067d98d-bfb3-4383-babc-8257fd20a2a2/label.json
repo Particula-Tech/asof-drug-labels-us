@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020064"
+  ],
+  "inn": "nitrofurantoin",
+  "labeler": "Almatica Pharma Inc.",
+  "package_ndcs": [
+    "52427-285-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nitrofurantoin monohydrate/macrocrystalline",
+      "name": "Macrobid"
+    }
+  ],
+  "setid": "5067d98d-bfb3-4383-babc-8257fd20a2a2",
+  "source": "dailymed"
+}
