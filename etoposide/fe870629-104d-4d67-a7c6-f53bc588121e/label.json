@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA074983"
+  ],
+  "inn": "etoposide",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-104-05",
+    "63323-104-25",
+    "63323-104-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "etoposide",
+      "name": "Etoposide"
+    }
+  ],
+  "setid": "fe870629-104d-4d67-a7c6-f53bc588121e",
+  "source": "dailymed"
+}
