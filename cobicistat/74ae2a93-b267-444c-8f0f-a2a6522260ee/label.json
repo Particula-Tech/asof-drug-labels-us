@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA203100"
+  ],
+  "inn": "cobicistat",
+  "labeler": "Gilead Sciences, Inc.",
+  "package_ndcs": [
+    "61958-1201-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate",
+      "name": "Stribild"
+    }
+  ],
+  "setid": "74ae2a93-b267-444c-8f0f-a2a6522260ee",
+  "source": "dailymed"
+}
