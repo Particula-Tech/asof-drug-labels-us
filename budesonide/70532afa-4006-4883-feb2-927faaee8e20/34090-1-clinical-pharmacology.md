@@ -18,16 +18,22 @@ The mean decrease in the integrated 0-24 hour plasma cortisol concentration was 
 
 ## 12.3 Pharmacokinetics
 
-Absorption: The absorption of ENTOCORT EC seems to be complete, although Cmax and Tmax are variable.
+Absorption
+
+The absorption of ENTOCORT EC seems to be complete, although Cmax and Tmax are variable.
 Time to peak concentration varies in individual patients between 30 and 600 minutes.
 Following oral administration of 9 mg of budesonide in healthy subjects, a peak plasma concentration of approximately 5 nmol/L is observed and the area under the plasma concentration time curve is approximately 30 nmol•hr/L.
 The systemic availability after a single dose is higher in patients with Crohn's disease compared to healthy volunteers, (21% vs 9%) but approaches that in healthy volunteers after repeated dosing.
 
-Distribution: The mean volume of distribution (Vss) of budesonide varies between 2.2 and 3.9 L/kg in healthy subjects and in patients.
+Distribution
+
+The mean volume of distribution (Vss) of budesonide varies between 2.2 and 3.9 L/kg in healthy subjects and in patients.
 Plasma protein binding is estimated to be 85 to 90% in the concentration range 1 to 230 nmol/L, independent of gender.
 The erythrocyte/plasma partition ratio at clinically relevant concentrations is about 0.8.
 
-Metabolism: Following absorption, budesonide is subject to high first pass metabolism (80-90%).
+Metabolism
+
+Following absorption, budesonide is subject to high first pass metabolism (80-90%).
 In vitro experiments in human liver microsomes demonstrate that budesonide is rapidly and extensively biotransformed, mainly by CYP3A4, to its 2 major metabolites, 6β-hydroxy budesonide and 16α-hydroxy prednisolone.
 The glucocorticoid activity of these metabolites is negligible (less than 1/100) in relation to that of the parent compound.
 
@@ -37,21 +43,29 @@ These high plasma clearance values approach the estimated liver blood flow, and,
 
 The plasma elimination half-life, t1/2, after administration of intravenous doses ranges between 2 and 3.6 hours, and does not differ between healthy adults and patients with Crohn’s disease.
 
-Excretion: Budesonide is excreted in urine and feces in the form of metabolites.
+Excretion
+
+Budesonide is excreted in urine and feces in the form of metabolites.
 After oral as well as intravenous administration of micronized [3H]-budesonide, approximately 60% of the recovered radioactivity is found in urine.
 The major metabolites, including 6β-hydroxy budesonide and 16α-hydroxy prednisolone, are mainly renally excreted, intact or in conjugated forms.
 No unchanged budesonide is detected in urine.
 
 Special Populations
 
-Gender: No significant pharmacokinetic differences have been identified due to gender.
+Gender
 
-Hepatic Insufficiency: In patients with liver cirrhosis, systemic availability of orally administered budesonide correlates with disease severity and is, on average, 2.5-fold higher compared with healthy controls.
+No significant pharmacokinetic differences have been identified due to gender.
+
+Hepatic Insufficiency
+
+In patients with liver cirrhosis, systemic availability of orally administered budesonide correlates with disease severity and is, on average, 2.5-fold higher compared with healthy controls.
 Patients with mild liver disease are minimally affected.
 Patients with severe liver dysfunction were not studied.
 Absorption parameters are not altered, and for the intravenous dose, no significant differences in CL or Vss are observed.
 
-Renal Insufficiency: The pharmacokinetics of budesonide in patients with renal impairment has not been studied.
+Renal Insufficiency
+
+The pharmacokinetics of budesonide in patients with renal impairment has not been studied.
 Intact budesonide is not renally excreted, but metabolites are to a large extent, and might therefore reach higher levels in patients with impaired renal function.
 However, these metabolites have negligible corticosteroid activity as compared with budesonide (less than 1/100).
 

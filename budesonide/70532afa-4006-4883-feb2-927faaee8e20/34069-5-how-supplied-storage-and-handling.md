@@ -6,4 +6,4 @@ NDC 0186–0702–10 Bottles of 100
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [See USP Controlled Room Temperature].
 
-Keep container tightly closed.
+Keep container tightly

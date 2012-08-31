@@ -2,15 +2,11 @@
 
 Systemic glucocorticosteroid use may result in the following:
 
-· Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.1)]
-
-· Symptoms of steroid withdrawal in those patients transferring from Systemic Glucocorticosteroid Therapy [see Warnings and Precautions (5.2)]
-
-· Immunosuppression [see Warnings and Precautions (5.3)]
-
-· Increased Systemic Glucocorticosteroid Susceptibilty [see Warnings and Precautions (5.4)]
-
-· Other Glucocorticosteroid Effects [see Warnings and Precautions (5.5)]
+- •Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.1)]
+- •Symptoms of steroid withdrawal in those patients transferring from Systemic Glucocorticosteroid Therapy [see Warnings and Precautions (5.2)]
+- •Immunosuppression [see Warnings and Precautions (5.3)]
+- •Increased Systemic Glucocorticosteroid Susceptibilty [see Warnings and Precautions (5.4)]
+- •Other Glucocorticosteroid Effects [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -25,14 +21,11 @@ Adverse reactions occurring in greater than or equal to 5% of the patients are l
 
 Table 1 Adverse Reactions Occurring in greater than or equal to 5% of the Patients in any treated group
 
-| Nausea | 57(11) | 10(9) | 18(12) | 7(8) |
+| Adverse Reaction | ENTOCORT EC 9 mg n=520 Number (%) | Placebo n=107 Number (%) | Prednisolone 40 mg n=145 Number (%) | ComparatorThis drug is not approved for the treatment of Crohn’s disease in the United States. n=88 Number (%) |
 | --- | --- | --- | --- | --- |
-|  | ENTOCORT EC | Placebo | Prednisolone | ComparatorThis drug is not approved for the treatment of Crohn’s disease in the United States. |
-|  | 9 mg |  | 40 mg |  |
-|  | n=520 | n=107 | n=145 | n=88 |
-| Adverse Reaction | Number (%) | Number (%) | Number (%) | Number (%) |
 | Headache | 107(21) | 19(18) | 31(21) | 11(13) |
 | Respiratory Infection | 55 (11) | 7(7) | 20(14) | 5(6) |
+| Nausea | 57(11) | 10(9) | 18(12) | 7(8) |
 | Back Pain | 36(7) | 10(9) | 17(12) | 5(6) |
 | Dyspepsia | 31(6) | 4(4) | 17(12) | 3(3) |
 | Dizziness | 38(7) | 5(5) | 18(12) | 5(6) |
@@ -87,11 +80,8 @@ Table 2 displays the frequency and incidence of signs/symptoms of hypercorticism
 
 Table 2 Summary and Incidence of Signs/Symptoms of Hypercorticism in Short-Term Studies
 
-| Signs/Symptom | Number (%) | Number (%) | Number (%) |
+| Signs/Symptom | ENTOCORT EC 9 mg n=427 Number (%) | Placebo n=107 Number (%) | Prednisolone Taper 40 mg n=145 Number (%) |
 | --- | --- | --- | --- |
-|  | ENTOCORT EC | Placebo | Prednisolone Taper |
-|  | 9 mg |  | 40 mg |
-|  | n=427 | n=107 | n=145 |
 | Acne | 63(15) | 14(13) | 33(23)Statistically significantly different from ENTOCORT EC 9 mg |
 | Bruising Easily | 63(15) | 12(11) | 13(9) |
 | Moon Face | 46(11) | 4(4) | 53(37) |
@@ -104,11 +94,8 @@ Table 3 displays the frequency and incidence of signs/symptoms of hypercorticism
 
 Table 3 Summary and Incidence of Symptoms of Hypercorticism in Long-Term Studies
 
-|  | ENTOCORT EC | ENTOCORT EC | Placebo |
+| Signs/Symptom | ENTOCORT EC 3 mg n=88 Number (%) | ENTOCORT EC 6 mg n=145 Number (%) | Placebo n=143 Number (%) |
 | --- | --- | --- | --- |
-|  | 3 mg | 6 mg |  |
-|  | n=88 | n=145 | n=143 |
-| Signs/Symptom | Number (%) | Number (%) | Number (%) |
 | Bruising easily | 4(5) | 15(10) | 5(4) |
 | Acne | 4(5) | 14(10) | 3(2) |
 | Moon face | 3(3) | 6(4) | 0 |
