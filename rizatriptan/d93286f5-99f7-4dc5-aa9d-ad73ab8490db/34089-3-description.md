@@ -1,6 +1,7 @@
 # 11 DESCRIPTION
 
 MAXALT contains rizatriptan benzoate, a selective 5-hydroxytryptamine1B/1D (5-HT1B/1D) receptor agonist.
+
 Rizatriptan benzoate is described chemically as: N,N-dimethyl-5-(1H-1,2,4-triazol-1-ylmethyl)-1H-indole-3-ethanamine monobenzoate and its structural formula is:
 
 Its empirical formula is C15H19N5•C7H6O2, representing a molecular weight of the free base of 269.4.
