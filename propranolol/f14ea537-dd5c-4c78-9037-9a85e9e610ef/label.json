@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA075826"
+  ],
+  "inn": "propranolol",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-604-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "propranolol hydrochloride",
+      "name": "Propranolol"
+    }
+  ],
+  "setid": "f14ea537-dd5c-4c78-9037-9a85e9e610ef",
+  "source": "dailymed"
+}
