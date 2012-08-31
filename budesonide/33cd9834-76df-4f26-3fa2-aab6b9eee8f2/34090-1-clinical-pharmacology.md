@@ -94,7 +94,9 @@ Reduced liver function may affect the elimination of corticosteroids.
 The pharmacokinetics of budesonide were affected by compromised liver function as evidenced by a doubled systemic availability after oral ingestion.
 The intravenous pharmacokinetics of budesonide were, however, similar in cirrhotic patients and in healthy adults.
 
-Nursing Mothers: The disposition of budesonide when delivered by inhalation from a dry powder inhaler at doses of 200 or 400 mcg twice daily for at least 3 months was studied in eight lactating women with asthma from 1 to 6 months postpartum.
+Nursing Mothers:
+
+The disposition of budesonide when delivered by inhalation from a dry powder inhaler at doses of 200 or 400 mcg twice daily for at least 3 months was studied in eight lactating women with asthma from 1 to 6 months postpartum.
 Systemic exposure to budesonide in these women appears to be comparable to that in non-lactating women with asthma from other studies.
 Breast milk obtained over eight hours post-dose revealed that the maximum concentration of budesonide for the 400 and 800 mcg doses was 0.39 and 0.78 nmol/L, respectively, and occurred within 45 minutes after dosing.
 The estimated oral daily dose of budesonide from breast milk to the infant is approximately 0.007 and 0.014 mcg/kg/day for the two dose regimens used in this study, which represents approximately 0.3% to 1% of the dose inhaled by the mother.

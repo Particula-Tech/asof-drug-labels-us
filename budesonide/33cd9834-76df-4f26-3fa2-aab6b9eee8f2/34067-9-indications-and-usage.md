@@ -6,4 +6,4 @@ PULMICORT RESPULES is indicated for the maintenance treatment of asthma and as p
 
 Important Limitations of Use:
 
-• PULMICORT RESPULES is NOT indicated for the relief of acute bronchospasm.
+- •PULMICORT RESPULES is NOT indicated for the relief of acute bronchospasm.

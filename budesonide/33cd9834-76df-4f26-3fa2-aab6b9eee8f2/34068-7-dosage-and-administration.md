@@ -12,9 +12,9 @@ The recommended starting dose and highest recommended dose of PULMICORT RESPULES
 
 Dosing recommendations based on previous therapy are as follows:
 
-- Bronchodilators alone: 0.5 mg once daily or 0.25 mg twice daily
-- Inhaled corticosteroids: 0.5 mg once daily or 0.25 mg twice daily up to 0.5 mg twice daily
-- Oral corticosteroids: 0.5 mg twice daily or 1 mg once daily
+- •Bronchodilators alone: 0.5 mg once daily or 0.25 mg twice daily
+- •Inhaled corticosteroids: 0.5 mg once daily or 0.25 mg twice daily up to 0.5 mg twice daily
+- •Oral corticosteroids: 0.5 mg twice daily or 1 mg once daily
 
 In symptomatic children not responding to non-steroidal therapy, a starting dose of 0.25 mg once daily may be considered.
 If once-daily treatment does not provide adequate control, the total daily dose should be increased and/or administered as a divided dose.

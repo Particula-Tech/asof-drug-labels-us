@@ -20,9 +20,9 @@ Acute symptoms should be treated with an inhaled, short-acting beta2-agonist suc
 (The healthcare professional should provide that patient with such medication and instruct the patient in how it should be used.)
 Patients should be instructed to notify their healthcare professional immediately if they experience any of the following:
 
-- Decreasing effectiveness of inhaled, short-acting beta2- agonists
-- Need for more inhalations than usual of inhaled, short-acting beta2-agonists
-- Significant decrease in lung function as outlined by the physician
+- •Decreasing effectiveness of inhaled, short-acting beta2- agonists
+- •Need for more inhalations than usual of inhaled, short-acting beta2-agonists
+- •Significant decrease in lung function as outlined by the physician
 
 Patients should not stop therapy with PULMICORT RESPULES without physician/provider guidance since symptoms may recur after discontinuation [see Warnings and Precautions (5.2)]
 

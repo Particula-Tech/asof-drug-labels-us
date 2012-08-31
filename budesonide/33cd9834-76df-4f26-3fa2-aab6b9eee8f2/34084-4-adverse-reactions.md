@@ -2,14 +2,14 @@
 
 Systemic and inhaled corticosteroid use may result in the following:
 
-- Candida albicans infection [see Warnings and Precautions (5.1)]
-- Hypersensitivity reactions including anaphylaxis [see Warnings and Precautions (5.3)]
-- Immunosuppression [see Warnings and Precautions (5.4)]
-- Hypercorticism and adrenal suppression [see Warnings and Precautions (5.6)]
-- Reduction in bone mineral density [see Warnings and Precautions (5.7)]
-- Growth effects in pediatric patients [see Warnings and Precautions (5.8)and Use in Specific Populations, Pediatric Use (8.4)]
-- Glaucoma, increased intraocular pressure and cataracts [see Warnings and Precautions (5.9)]
-- Eosinophilic conditions and Churg-Strauss syndrome [see Warnings and Precautions (5.11)]
+- •Candida albicans infection [see Warnings and Precautions (5.1)]
+- •Hypersensitivity reactions including anaphylaxis [see Warnings and Precautions (5.3)]
+- •Immunosuppression [see Warnings and Precautions (5.4)]
+- •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.6)]
+- •Reduction in bone mineral density [see Warnings and Precautions (5.7)]
+- •Growth effects in pediatric patients [see Warnings and Precautions (5.8)and Use in Specific Populations, Pediatric Use (8.4)]
+- •Glaucoma, increased intraocular pressure and cataracts [see Warnings and Precautions (5.9)]
+- •Eosinophilic conditions and Churg-Strauss syndrome [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
