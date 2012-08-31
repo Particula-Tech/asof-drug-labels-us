@@ -159,7 +159,7 @@ Other side effects with SINGULAIR include:
 - nose bleed, stuffy nose
 - diarrhea, heartburn, indigestion, inflammation of the pancreas, nausea, stomach or intestinal upset, vomiting
 - hepatitis
-- bruising, rash, severe skin reactions (erythema multiforme) that may occur without warning
+- bruising, rash, severe skin reactions (erythema multiforme, Stevens-Johnson syndrome/toxic epidermal necrolysis) that may occur without warning
 - joint pain, muscle aches and muscle cramps
 - tiredness, swelling
 
