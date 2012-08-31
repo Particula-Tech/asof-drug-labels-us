@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 50 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 50 mg Bottle Label
 
 NDC 50458-659-60
 
@@ -12,4 +12,4 @@ SCORED TABLET
 
 Rx only.
 
-PriCara® Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
+janssen

@@ -1,13 +1,13 @@
 Full Prescribing Information
 
+Product of Switzerland
+
 Manufactured by:
 
 Janssen Ortho, LLC Gurabo, Puerto, Rico 00778
 
 Manufactured for:
 
-PriCara, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, New Jersey 08869
+Janssen Pharmaceuticals, Inc. Titusville, New Jersey 08560
 
-© OMPJI 2003 Revised September 2009
-
-(Insert new code)
+© Janssen Pharmaceuticals, Inc. 2003 Revised June 2012
