@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA075772"
+  ],
+  "inn": "ketorolac",
+  "labeler": "West-ward Pharmaceutical Corp.",
+  "package_ndcs": [
+    "0641-6041-01",
+    "0641-6041-25",
+    "0641-6042-01",
+    "0641-6042-25",
+    "0641-6043-01",
+    "0641-6043-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ketorolac tromethamine",
+      "name": "Ketorolac Tromethamine"
+    }
+  ],
+  "setid": "0c2c75c9-ed7b-46a8-9543-429bf2d8f090",
+  "source": "dailymed"
+}
