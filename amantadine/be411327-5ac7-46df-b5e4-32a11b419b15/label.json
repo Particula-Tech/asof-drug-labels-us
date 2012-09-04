@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074509"
+  ],
   "inn": "amantadine",
   "labeler": "Pharmaceutical Associates, Inc.",
   "package_ndcs": [
     "0121-0646-10",
     "0121-0646-16"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "amantadine hydrochloride",
+      "name": "AMANTADINE HYDROCHLORIDE"
+    }
+  ],
   "setid": "be411327-5ac7-46df-b5e4-32a11b419b15",
   "source": "dailymed"
 }
