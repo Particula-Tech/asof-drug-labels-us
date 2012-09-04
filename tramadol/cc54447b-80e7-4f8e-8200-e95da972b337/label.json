@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021693"
+  ],
+  "inn": "tramadol",
+  "labeler": "Shionogi Inc.",
+  "package_ndcs": [
+    "59630-825-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "tramadol hydrochloride",
+      "name": "Rybix"
+    }
+  ],
+  "setid": "cc54447b-80e7-4f8e-8200-e95da972b337",
+  "source": "dailymed"
+}
