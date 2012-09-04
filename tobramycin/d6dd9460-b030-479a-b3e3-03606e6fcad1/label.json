@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA065122"
+  ],
+  "inn": "tobramycin",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-305-02",
+    "63323-306-02",
+    "63323-306-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "tobramycin sulfate",
+      "name": "Tobramycin"
+    }
+  ],
+  "setid": "d6dd9460-b030-479a-b3e3-03606e6fcad1",
+  "source": "dailymed"
+}
