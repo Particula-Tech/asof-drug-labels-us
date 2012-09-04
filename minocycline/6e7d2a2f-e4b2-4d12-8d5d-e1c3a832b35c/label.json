@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA201922"
+  ],
+  "inn": "minocycline",
+  "labeler": "Ranbaxy Laboratories Inc.",
+  "package_ndcs": [
+    "10631-330-05",
+    "10631-330-06",
+    "10631-330-30",
+    "10631-331-05",
+    "10631-331-06",
+    "10631-331-30",
+    "10631-332-05",
+    "10631-332-06",
+    "10631-332-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "minocycline hydrochloride",
+      "name": "Ximino"
+    }
+  ],
+  "setid": "6e7d2a2f-e4b2-4d12-8d5d-e1c3a832b35c",
+  "source": "dailymed"
+}
