@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203853"
+  ],
+  "inn": "acetylcysteine",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-690-30"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "acetylcysteine",
+      "name": "Acetylcysteine"
+    }
+  ],
+  "setid": "75b48fab-cef6-465c-a1e0-d085b3988bc4",
+  "source": "dailymed"
+}
