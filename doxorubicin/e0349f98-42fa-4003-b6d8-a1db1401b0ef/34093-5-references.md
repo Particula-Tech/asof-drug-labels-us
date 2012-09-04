@@ -1,0 +1,22 @@
+# REFERENCES
+
+1. Recommendations for the Safe Handling of Parenteral Antineoplastic Drugs.
+   NIH Publication No. 83-2621.
+   For sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, DC 20402.
+2. AMA Council Report.
+   Guidelines for Handling Parenteral Antineoplastics.
+   JAMA1985; 2.53(11):1590-1592.
+3. National Study Commission on Cytotoxic Exposure-Recommendations for Handling of Cytotoxic Agents.
+   Available from Louis P. Jeffrey, ScD., Chairman, National Study Commission on Cytotoxic Exposure, Massachusetts College of Pharmacy and Allied Health Sciences, 179 Longwood Avenue, Boston, MA 02115.
+4. Clinical Oncology Society of Australia, Guidelines and Recommendations for Safe Handling of Antineoplastic Agents.
+   Med J Australia 1983; 1:426-428.
+5. Jones RB, et al. Safe Handling of Chemotherapeutic Agents: A Report from the Mount
+6. Sinai Medical Center.
+   CA-A Cancer Journal for Clinicians 1983; (Sept/Oct): 258-263.
+7. American Society of Hospital Pharmacists Technical Assistance Bulletin on Handling Cytotoxic and Hazardous Drugs.
+   Am J Hosp Pharm 1990; 47:1033-1049.
+8. Controlling Occupational Exposure to Hazardous Drugs (OSHA Work-Practice Guidelines).
+   Am J Health-Syst Pharm 1996; 53:1669-1685.
+9. ONS Clinical Practice Committee.
+   Cancer Chemotherapy Guidelines and Recommendations for Practice.
+   Pittsburgh, PA: Oncology Nursing Society; 1999: 32-41.

@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA063277"
+  ],
+  "inn": "doxorubicin",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-101-61",
+    "63323-883-05",
+    "63323-883-10",
+    "63323-883-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "doxorubicin hydrochloride",
+      "name": "Doxorubicin Hydrochloride"
+    }
+  ],
+  "setid": "e0349f98-42fa-4003-b6d8-a1db1401b0ef",
+  "source": "dailymed"
+}

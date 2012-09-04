@@ -1,0 +1,7 @@
+Rx only
+
+FOR INTRAVENOUS USE ONLY
+
+45771C
+
+Revised: January 2008
