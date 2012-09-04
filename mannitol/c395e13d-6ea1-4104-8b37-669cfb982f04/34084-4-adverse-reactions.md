@@ -1,0 +1,21 @@
+# ADVERSE REACTIONS
+
+Reactions are infrequent and may include:
+
+Metabolic: fluid and electrolyte imbalance, acidosis, dehydration.
+
+Gastrointestinal: dryness of mouth, nausea, vomiting, diarrhea.
+
+Genitourinary: osmotic nephrosis, urinary retention.
+
+Central Nervous System: headache, convulsions, dizziness.
+
+Special Senses: Blurred vision, rhinitis.
+
+Cardiovascular: pulmonary edema, edema, hypotension, hypertension, tachycardia, angina-like chest pains.
+
+Dermatologic: skin necrosis, thrombophlebitis.
+
+Hypersensitivity: urticaria.
+
+Miscellaneous: thirst, arm pain, chills, fever.

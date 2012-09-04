@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA080677"
+  ],
+  "inn": "mannitol",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-024-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "mannitol",
+      "name": "Mannitol"
+    }
+  ],
+  "setid": "c395e13d-6ea1-4104-8b37-669cfb982f04",
+  "source": "dailymed"
+}
