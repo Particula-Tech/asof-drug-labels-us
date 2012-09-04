@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA017584"
+  ],
+  "inn": "lidocaine",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-208-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "lidocaine hydrochloride",
+      "name": "Lidocaine"
+    }
+  ],
+  "setid": "f1b26274-a55e-4321-b96c-ce0df830f205",
+  "source": "dailymed"
+}
