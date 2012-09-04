@@ -1,0 +1,107 @@
+# WARNINGS
+
+Rapid bolus administration (e.g., over several minutes) may be associated with exaggerated hypotension and, rarely, cardiac arrest.
+
+Vancomycin should be administered in a diluted solution over a period of not less than 60 minutes to avoid rapid-infusion-related reactions.
+Stopping the infusion usually results in a prompt cessation of these reactions.
+
+Ototoxicity has occurred in patients receiving vancomycin.
+It may be transient or permanent.
+It has been reported mostly in patients who have been given excessive doses, who have an underlying hearing loss, or who are receiving concomitant therapy with another ototoxic agent such as an aminoglycoside.
+Vancomycin should be used with caution in patients with renal insufficiency because the risk of toxicity is appreciably increased by high, prolonged blood concentrations.
+
+Dosage of vancomycin must be adjusted for patients with renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including vancomycin, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
+
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
+# PRECAUTIONS
+
+## General
+
+Prescribing vancomycin in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+
+Clinically significant serum concentrations have been reported in some patients being treated for active C. difficile-induced pseudomembranous colitis after multiple oral doses of vancomycin.
+
+Prolonged use of vancomycin may result in the overgrowth of nonsusceptible organisms.
+Careful observation of the patient is essential.
+If superinfection occurs during therapy, appropriate measures should be taken.
+In rare instances, there have been reports of pseudomembranous colitis due to C. difficile developing in patients who received IV vancomycin.
+
+In order to minimize the risk of nephrotoxicity when treating patients with underlying renal dysfunction or patients receiving concomitant therapy with an aminoglycoside, serial monitoring of renal function should be performed and particular care should be taken in following appropriate dosing schedules (see DOSAGE AND ADMINISTRATION).
+
+Serial tests of auditory function may be helpful in order to minimize the risk of ototoxicity.
+
+Reversible neutropenia has been reported in patients receiving vancomycin (see ADVERSE REACTIONS).
+Patients who will undergo prolonged therapy with vancomycin or those who are receiving concomitant drugs which may cause neutropenia should have periodic monitoring of the leukocyte count.
+
+Vancomycin is irritating to tissue and must be given by a secure IV route of administration.
+Pain, tenderness and necrosis occur with intramuscular (IM) injection of vancomycin or with inadvertent extravasation.
+Thrombophlebitis may occur, the frequency and severity of which can be minimized by administering the drug slowly as a dilute solution (2.5 to 5 g/L) and by rotating the sites of infusion.
+
+There have been reports that the frequency of infusion-related events (including hypotension, flushing, erythema, urticaria and pruritus) increases with the concomitant administration of anesthetic agents.
+Infusion-related events may be minimized by the administration of vancomycin as a 60-minute infusion prior to anesthetic induction.
+
+The safety and efficacy of vancomycin administration by the intraperitoneal and intrathecal (intralumbar or intraventricular) routes have not been assessed.
+
+Although the safety and efficacy of vancomycin by the intraperitoneal route have not been established, reports reveal that the product has been given by this route during peritoneal dialysis.
+Administration of vancomycin by the intraperitoneal route during continuous ambulatory peritoneal dialysis has resulted in over 50 reports of chemical peritonitis that developed in some patients within the 12-hour period after administration.
+To date, all have been self-limited and ranged from cloudy dialysate alone to severe abdominal pain and fever.
+Most cloudy dialysates were sterile and some contained increased numbers of white blood cells and polymorphonuclear cells.
+Fluids usually cleared promptly after discontinuation of the vancomycin.
+
+## Information for Patients
+
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
+
+Patients should be counseled that antibacterial drugs including vancomycin should only be used to treat bacterial infections.
+They do not treat viral infections (e.g., the common cold).
+When vancomycin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by vancomycin or other antibacterial drugs in the future.
+
+## Drug Interactions
+
+Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing (see Pediatric Use) and anaphylactoid reactions (see ADVERSE REACTIONS).
+
+Concurrent and/or sequential systemic or topical use of other potentially, neurotoxic and/or nephrotoxic drugs, such as amphotericin B, aminoglycosides, bacitracin, polymyxin B, colistin, viomycin, or cisplatin, when indicated requires careful monitoring.
+
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Although no long-term studies in animals have been performed to evaluate carcinogenic potential, no mutagenic potential of vancomycin was found in standard laboratory tests.
+No definitive fertility studies have been performed.
+
+## Pregnancy
+
+Teratogenic Effects: Pregnancy Category C
+
+In a controlled clinical study, vancomycin was administered to pregnant women for serious staphylococcal infections that were complications of their IV drug abuse to evaluate potential ototoxic and nephrotoxic effects on the infant.
+Vancomycin was found in cord blood.
+No sensorineural hearing loss or nephrotoxicity attributable to vancomycin was noted.
+One infant experienced conductive hearing loss that was not attributed to the administration of vancomycin.
+Because the number of patients treated in this study was limited and vancomycin was administered only in the second and third trimesters, it is not known whether vancomycin causes fetal harm.
+
+## Nursing Mothers
+
+Vancomycin is excreted in human milk.
+Caution should be exercised when vancomycin is administered to a nursing woman.
+Because of the potential for adverse events, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+
+## Pediatric Use
+
+In premature neonates and young infants, it may be appropriate to confirm desired vancomycin serum concentrations.
+Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing in pediatric patients (see ADVERSE REACTIONS).
+
+## Geriatrics
+
+The natural decrement of glomerular filtration with increasing age may lead to elevated vancomycin serum concentrations if dosage is not adjusted.
+Vancomycin dosage schedules should be adjusted in elderly patients (see DOSAGE AND ADMINISTRATION).

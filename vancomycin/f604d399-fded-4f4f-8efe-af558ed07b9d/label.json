@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA062663"
+  ],
+  "inn": "vancomycin",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-221-10",
+    "63323-284-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "vancomycin hydrochloride",
+      "name": "VANCOMYCIN HYDROCHLORIDE"
+    }
+  ],
+  "setid": "f604d399-fded-4f4f-8efe-af558ed07b9d",
+  "source": "dailymed"
+}
