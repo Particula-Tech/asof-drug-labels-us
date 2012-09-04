@@ -8,6 +8,6 @@ Gilead Sciences, Inc. Foster City, California 94404
 
 TUCOS_640796_PI_2011_03(K)
 
-© 2011 Genentech, Inc. All rights reserved.
+© 2012 Genentech, Inc. All rights reserved.
 
 Representative sample of labeling (see the HOW SUPPLIED section for complete listing):

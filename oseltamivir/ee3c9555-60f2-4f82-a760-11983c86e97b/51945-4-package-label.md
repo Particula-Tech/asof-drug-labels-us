@@ -1,12 +1,10 @@
-PRINCIPAL DISPLAY PANEL - 6 mg/mL Bottle Carton
+PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton
 
 NDC 0004-0820-09
 
 Tamiflu® (oseltamivir phosphate) for Oral Suspension
 
 6 mg/mL
-
-New Strength
 
 Each mL contains 6 mg oseltamivir base after constitution.
 
@@ -16,23 +14,9 @@ Rx only
 
 Genentech
 
-PRINCIPAL DISPLAY PANEL - 12 mg/mL Bottle Carton
+10134540
 
-NDC 0004-0810-95
-
-Roche
-
-TAMIFLU® (oseltamivir phosphate) for Oral Suspension
-
-12 mg/mL
-
-Each mL contains 12 mg oseltamivir base after constitution.
-
-Rx only
-
-25 mL Deliverable volume after constitution
-
-PRINCIPAL DISPLAY PANEL - 30 mg Carton
+PRINCIPAL DISPLAY PANEL - 30 mg Capsule Carton
 
 NDC 0004-0802-85
 
@@ -48,7 +32,7 @@ Rx only
 
 Genentech
 
-PRINCIPAL DISPLAY PANEL - 45 mg Carton
+PRINCIPAL DISPLAY PANEL - 45 mg Capsule Carton
 
 NDC 0004-0801-85
 
@@ -64,7 +48,7 @@ Rx only
 
 Genentech
 
-PRINCIPAL DISPLAY PANEL - 75 mg Carton
+PRINCIPAL DISPLAY PANEL - 75 mg Capsule Carton
 
 NDC 0004-0800-85
 
