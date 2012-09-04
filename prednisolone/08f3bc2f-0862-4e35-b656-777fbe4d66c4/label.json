@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019157"
+  ],
+  "inn": "prednisolone",
+  "labeler": "UCB Manufacturing, Inc.",
+  "package_ndcs": [
+    "53014-250-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "prednisolone sodium phosphate",
+      "name": "Pediapred"
+    }
+  ],
+  "setid": "08f3bc2f-0862-4e35-b656-777fbe4d66c4",
+  "source": "dailymed"
+}
