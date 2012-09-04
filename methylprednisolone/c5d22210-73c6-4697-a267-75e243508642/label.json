@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA040612"
+  ],
+  "inn": "methylprednisolone",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-265-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "methylprednisolone sodium succinate",
+      "name": "Methylprednisolone Sodium Succinate"
+    }
+  ],
+  "setid": "c5d22210-73c6-4697-a267-75e243508642",
+  "source": "dailymed"
+}
