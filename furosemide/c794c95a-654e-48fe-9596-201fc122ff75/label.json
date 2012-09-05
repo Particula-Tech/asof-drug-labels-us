@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA018902"
+  ],
+  "inn": "furosemide",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-280-02",
+    "63323-280-04",
+    "63323-280-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "furosemide",
+      "name": "Furosemide"
+    }
+  ],
+  "setid": "c794c95a-654e-48fe-9596-201fc122ff75",
+  "source": "dailymed"
+}
