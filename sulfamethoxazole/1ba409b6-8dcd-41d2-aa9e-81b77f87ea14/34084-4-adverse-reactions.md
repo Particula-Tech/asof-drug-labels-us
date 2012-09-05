@@ -12,7 +12,7 @@ Gastrointestinal: Hepatitis (including cholestatic jaundice and hepatic necrosis
 
 Genitourinary: Renal failure, interstitial nephritis, BUN and serum creatinine elevation, toxic nephrosis with oliguria and anuria, crystalluria and nephrotoxicity in association with cyclosporine.
 
-Metabolic and Nutritional: Hyperkalemia (see PRECAUTIONS: Use in the Treatment of and Prophylaxis for Pneumocystis Carinii Pneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS).
+Metabolic and Nutritional: Hyperkalemia (see PRECAUTIONS: Use in the Treatment of and Prophylaxis for Pneumocystis Jiroveci Pneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS).
 
 Neurologic: Aseptic meningitis, convulsions, peripheral neuritis, ataxia, vertigo, tinnitus, headache.
 
@@ -29,10 +29,10 @@ Respiratory: Cough, shortness of breath and pulmonary infiltrates (see WARNINGS)
 
 Miscellaneous: Weakness, fatigue, insomnia.
 
-## Postmarketing Experience
+Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of trimethoprim-sulfamethoxazole.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-- ΣThrombotic thrombocytopenia purpura
-- ΣIdiopathic thrombocytopenic purpura
+- Thrombotic thrombocytopenia purpura
+- Idiopathic thrombocytopenic purpura

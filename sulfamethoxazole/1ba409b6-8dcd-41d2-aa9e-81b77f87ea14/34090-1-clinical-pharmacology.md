@@ -3,7 +3,7 @@
 BACTRIM is rapidly absorbed following oral administration.
 Both sulfamethoxazole and trimethoprim exist in the blood as unbound, protein-bound and metabolized forms; sulfamethoxazole also exists as the conjugated form.
 The metabolism of sulfamethoxazole occurs predominately by N4-acetylation, although the glucuronide conjugate has been identified.
-The principal metabolites of trimethoprim are the 1- and 3-oxides and the 3'- and 4'-hydroxy derivatives.
+The principal metabolites of trimethoprim are the 1- and 3-oxides and the 3′- and 4′-hydroxy derivatives.
 The free forms of sulfamethoxazole and trimethoprim are considered to be the therapeutically active forms.
 Approximately 70% of sulfamethoxazole and 44% of trimethoprim are bound to plasma proteins.
 The presence of 10 mg percent sulfamethoxazole in plasma decreases the protein binding of trimethoprim by an insignificant degree; trimethoprim does not influence the protein binding of sulfamethoxazole.
@@ -36,17 +36,11 @@ In vitro studies have shown that bacterial resistance develops more slowly with 
 
 Sulfamethoxazole and trimethoprim have been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-Aerobic gram-positive microorganisms:
+Aerobic gram-positive microorganisms: Streptococcus pneumoniae
 
-Streptococcus pneumoniae
+Aerobic gram-negative microorganisms: Escherichia coli (including susceptible enterotoxigenic strains implicated in traveler's diarrhea) Klebsiella species Enterobacter species Haemophilus influenzae Morganella morganii Proteus mirabilis Proteus vulgaris Shigella flexneri Shigella sonnei
 
-Aerobic gram-negative microorganisms:
-
-Escherichia coli (including susceptible enterotoxigenic strains implicated in traveler's diarrhea) Klebsiella species Enterobacter species Haemophilus influenzae Morganella morganii Proteus mirabilis Proteus vulgaris Shigella flexneri Shigella sonnei
-
-Other Organisms:
-
-Pneumocystis carinii
+Other Organisms: Pneumocystis jiroveci
 
 Susceptibility Testing Methods:
 
@@ -77,7 +71,7 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of "Resistant" indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
 
-### Quality Control
+Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 Standard sulfamethoxazole/trimethoprim powder should provide the following range of values:
@@ -113,7 +107,7 @@ Reports from the laboratory providing results of the standard single-disk suscep
 Interpretation should be as stated above for results using dilution techniques.
 Interpretation involves correlation of the diameter obtained in the disk test with the MIC for sulfamethoxazole/trimethoprim.
 
-### Quality Control
+Quality Control
 
 As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
 For the diffusion technique, the 1.25/23.75 µg sulfamethoxazole/trimethoprim diskMueller-Hinton agar should be checked for excessive levels of thymidine or thymine.

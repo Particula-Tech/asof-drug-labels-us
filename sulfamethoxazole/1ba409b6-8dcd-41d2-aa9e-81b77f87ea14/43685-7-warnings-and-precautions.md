@@ -1,5 +1,7 @@
 # WARNINGS
 
+Hypersensitivity and Other Fatal Reactions
+
 FATALITIES ASSOCIATED WITH THE ADMINISTRATION OF SULFONAMIDES, ALTHOUGH RARE, HAVE OCCURRED DUE TO SEVERE REACTIONS, INCLUDING STEVENS-JOHNSON SYNDROME, TOXIC EPIDERMAL NECROLYSIS, FULMINANT HEPATIC NECROSIS, AGRANULOCYTOSIS, APLASTIC ANEMIA AND OTHER BLOOD DYSCRASIAS.
 
 SULFONAMIDES, INCLUDING SULFONAMIDE-CONTAINING PRODUCTS SUCH AS SULFAMETHOXAZOLE/TRIMETHOPRIM, SHOULD BE DISCONTINUED AT THE FIRST APPEARANCE OF SKIN RASH OR ANY SIGN OF ADVERSE REACTION.
@@ -8,14 +10,18 @@ Clinical signs, such as rash, sore throat, fever, arthralgia, pallor, purpura or
 
 Cough, shortness of breath, and pulmonary infiltrates are hypersensitivity reactions of the respiratory tract that have been reported in association with sulfonamide treatment.
 
-## Thrombocytopenia
+Thrombocytopenia
 
 Sulfamethoxazole/trimethoprim-induced thrombocytopenia may be an immune-mediated disorder.
 Severe cases of thrombocytopenia that are fatal or life threatening have been reported.
 Thrombocytopenia usually resolves within a week upon discontinuation of sulfamethoxazole/trimethoprim.
 
+Streptococcal Infections and Rheumatic Fever
+
 The sulfonamides should not be used for treatment of group A β-hemolytic streptococcal infections.
 In an established infection, they will not eradicate the streptococcus and, therefore, will not prevent sequelae such as rheumatic fever.
+
+Clostridium difficile associated diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including BACTRIM, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -28,31 +34,50 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
+Adjunctive treatment with Leucovorin for Pneumocystis jiroveci pneumonia
+
+Treatment failure and excess mortality were observed when trimethoprim-sulfamethoxazole was used concomitantly with leucovorin for the treatment of HIV positive patients with Pneumocystis jiroveci pneumonia in a randomized placebo controlled trial.6 Co-administration of trimethoprim-sulfamethoxazole and leucovorin during treatment of Pneumocystis jiroveci pneumonia should be avoided.
+
 # PRECAUTIONS
 
-General: Prescribing Bactrim (sulfamethoxazole and trimethoprim) tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Development of drug resistant bacteria
+
+Prescribing Bactrim (sulfamethoxazole and trimethoprim) tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+
+Folate deficiency
 
 BACTRIM should be given with caution to patients with impaired renal or hepatic function, to those with possible folate deficiency (e.g., the elderly, chronic alcoholics, patients receiving anticonvulsant therapy, patients with malabsorption syndrome, and patients in malnutrition states) and to those with severe allergies or bronchial asthma.
-In glucose-6-phosphate dehydrogenase deficient individuals, hemolysis may occur.
-This reaction is frequently dose-related (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
-
-Cases of hypoglycemia in non-diabetic patients treated with BACTRIM are seen rarely, usually occurring after a few days of therapy.
-Patients with renal dysfunction, liver disease, malnutrition or those receiving high doses of BACTRIM are particularly at risk.
 
 Hematological changes indicative of folic acid deficiency may occur in elderly patients or in patients with preexisting folic acid deficiency or kidney failure.
 These effects are reversible by folinic acid therapy.
 
+Hemolysis
+
+In glucose-6-phosphate dehydrogenase deficient individuals, hemolysis may occur.
+This reaction is frequently dose-related (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+
+Hypoglycemia
+
+Cases of hypoglycemia in non-diabetic patients treated with BACTRIM are seen rarely, usually occurring after a few days of therapy.
+Patients with renal dysfunction, liver disease, malnutrition or those receiving high doses of BACTRIM are particularly at risk.
+
+Phenylalanine metabolism
+
 Trimethoprim has been noted to impair phenylalanine metabolism, but this is of no significance in phenylketonuric patients on appropriate dietary restriction.
+
+Porphyria and Hypothyroidism
 
 As with all drugs containing sulfonamides, caution is advisable in patients with porphyria or thyroid dysfunction.
 
-Use in the Treatment of and Prophylaxis for Pneumocystis Carinii Pneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS): AIDS patients may not tolerate or respond to BACTRIM in the same manner as non-AIDS patients.
-The incidence of side effects, particularly rash, fever, leukopenia and elevated aminotransferase (transaminase) values, with BACTRIM therapy in AIDS patients who are being treated for Pneumocystis carinii pneumonia has been reported to be greatly increased compared with the incidence normally associated with the use of BACTRIM in non-AIDS patients.
+Use in the Treatment of and Prophylaxis for Pneumocystis Jiroveci Pneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS): AIDS patients may not tolerate or respond to BACTRIM in the same manner as non-AIDS patients.
+The incidence of side effects, particularly rash, fever, leukopenia and elevated aminotransferase (transaminase) values, with BACTRIM therapy in AIDS patients who are being treated for Pneumocystis jiroveci pneumonia has been reported to be greatly increased compared with the incidence normally associated with the use of BACTRIM in non-AIDS patients.
 The incidence of hyperkalemia appears to be increased in AIDS patients receiving BACTRIM.
 Adverse effects are generally less severe in patients receiving BACTRIM for prophylaxis.
-A history of mild intolerance to BACTRIM in AIDS patients does not appear to predict intolerance of subsequent secondary prophylaxis.6 However, if a patient develops skin rash or any sign of adverse reaction, therapy with BACTRIM should be reevaluated (see WARNINGS).
+A history of mild intolerance to BACTRIM in AIDS patients does not appear to predict intolerance of subsequent secondary prophylaxis.7 However, if a patient develops skin rash or any sign of adverse reaction, therapy with BACTRIM should be reevaluated (see WARNINGS).
 
-High dosage of trimethoprim, as used in patients with Pneumocystis carinii pneumonia, induces a progressive but reversible increase of serum potassium concentrations in a substantial number of patients.
+Co-administration of BACTRIM and leucovorin should be avoided with Pneumocystis jiroveci pneumonia (see WARNINGS).
+
+High dosage of trimethoprim, as used in patients with Pneumocystis jiroveci pneumonia, induces a progressive but reversible increase of serum potassium concentrations in a substantial number of patients.
 Even treatment with recommended doses may cause hyperkalemia when trimethoprim is administered to patients with underlying disorders of potassium metabolism, with renal insufficiency, or if drugs known to induce hyperkalemia are given concomitantly.
 Close monitoring of serum potassium is warranted in these patients.
 
@@ -77,7 +102,6 @@ Drug Interactions: In elderly patients concurrently receiving certain diuretics,
 
 It has been reported that BACTRIM may prolong the prothrombin time in patients who are receiving the anticoagulant warfarin.
 This interaction should be kept in mind when BACTRIM is given to patients already on anticoagulant therapy, and the coagulation time should be reassessed.
-
 BACTRIM may inhibit the hepatic metabolism of phenytoin.
 BACTRIM, given at a common clinical dosage, increased the phenytoin half-life by 39% and decreased the phenytoin metabolic clearance rate by 27%.
 When administering these drugs concurrently, one should be alert for possible excessive phenytoin effect.
@@ -99,14 +123,14 @@ Like other sulfonamide-containing drugs, BACTRIM potentiates the effect of oral 
 
 In the literature, a single case of toxic delirium has been reported after concomitant intake of sulfamethoxazole/trimethoprim and amantadine.
 
-In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole/trimethoprim and an angiotensin converting enzyme inhibitor.7,8
+In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole/trimethoprim and an angiotensin converting enzyme inhibitor.8,9
 
 Drug/Laboratory Test Interactions: BACTRIM, specifically the trimethoprim component, can interfere with a serum methotrexate assay as determined by the competitive binding protein technique (CBPA) when a bacterial dihydrofolate reductase is used as the binding protein.
 No interference occurs, however, if methotrexate is measured by a radioimmunoassay (RIA).
 
 The presence of sulfamethoxazole and trimethoprim may also interfere with the Jaffé alkaline picrate reaction assay for creatinine, resulting in overestimations of about 10% in the range of normal values.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
+Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Carcinogenesis: Long-term studies in animals to evaluate carcinogenic potential have not been conducted with BACTRIM.
 
@@ -125,7 +149,7 @@ In one study, however, cleft palates were observed in one litter out of 9 when 3
 
 In some rabbit studies, an overall increase in fetal loss (dead and resorbed and malformed conceptuses) was associated with doses of trimethoprim 6 times the human therapeutic dose.
 
-While there are no large, well-controlled studies on the use of sulfamethoxazole and trimethoprim in pregnant women, Brumfitt and Pursell,9 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or sulfamethoxazole and trimethoprim.
+While there are no large, well-controlled studies on the use of sulfamethoxazole and trimethoprim in pregnant women, Brumfitt and Pursell,10 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or sulfamethoxazole and trimethoprim.
 The incidence of congenital abnormalities was 4.5% (3 of 66) in those who received placebo and 3.3% (4 of 120) in those receiving sulfamethoxazole and trimethoprim.
 There were no abnormalities in the 10 children whose mothers received the drug during the first trimester.
 In a separate survey, Brumfitt and Pursell also found no congenital abnormalities in 35 children whose mothers had received oral sulfamethoxazole and trimethoprim at the time of conception or shortly thereafter.
@@ -136,7 +160,7 @@ Nonteratogenic Effects: See CONTRAINDICATIONS section.
 
 Nursing Mothers: See CONTRAINDICATIONS section.
 
-Pediatric Use: BACTRIM is not recommended for infants younger than 2 months of age (see INDICATIONS and CONTRAINDICATIONS sections).
+Pediatric Use: BACTRIM is contraindicated for infants younger than 2 months of age (see INDICATIONS and CONTRAINDICATIONS sections).
 
 Geriatric Use: Clinical studies of BACTRIM did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
