@@ -1,6 +1,6 @@
 # WARNINGS
 
-Acyclovir Oral Suspension is intended for oral ingestion only.
+Acyclovir oral suspension is intended for oral ingestion only.
 Renal failure, in some cases resulting in death, has been observed with acyclovir therapy (see ADVERSE REACTIONS: Observed During Clinical Practice and OVERDOSAGE).
 Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), which has resulted in death, has occurred in immunocompromised patients receiving acyclovir therapy.
 
@@ -12,6 +12,8 @@ Caution should also be exercised when administering acyclovir to patients receiv
 ## Information for Patients
 
 Patients are instructed to consult with their physician if they experience severe or troublesome adverse reactions, they become pregnant or intend to become pregnant, they intend to breastfeed while taking orally administered acyclovir, or they have any other questions.
+
+Patients should be advised to maintain adequate hydration.
 
 Herpes Zoster: There are no data on treatment initiated more than 72 hours after onset of the zoster rash.
 Patients should be advised to initiate treatment as soon as possible after a diagnosis of herpes zoster.
@@ -54,7 +56,7 @@ Testicular atrophy and aspermatogenesis were observed in rats and dogs at higher
 
 ### Teratogenic Effects
 
-Pregnancy category B. Acyclovir administered during organogenesis was not teratogenic in the mouse (450 mg/kg/day, p.o.), rabbit (50 mg/kg/day, s.c. and IV), or rat (50 mg/kg/day, s.c.).
+Pregnancy Category B. Acyclovir administered during organogenesis was not teratogenic in the mouse (450 mg/kg/day, p.o.), rabbit (50 mg/kg/day, s.c. and IV), or rat (50 mg/kg/day, s.c.).
 These exposures resulted in plasma levels 9 and 18, 16 and 106, and 11 and 22 times, respectively, human levels.
 
 There are no adequate and well-controlled studies in pregnant women.

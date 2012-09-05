@@ -1,6 +1,8 @@
 # CLINICAL PHARMACOLOGY
 
-Pharmacokinetics: The pharmacokinetics of acyclovir after oral administration have been evaluated in healthy volunteers and in immunocompromised patients with herpes simplex or varicella-zoster virus infection.
+## Pharmacokinetics
+
+The pharmacokinetics of acyclovir after oral administration have been evaluated in healthy volunteers and in immunocompromised patients with herpes simplex or varicella-zoster virus infection.
 Acyclovir pharmacokinetic parameters are summarized in Table 1.
 
 Table 1: Acyclovir Pharmacokinetic Characteristics (Range)
@@ -19,17 +21,19 @@ Table 2: Acyclovir Peak and Trough Concentrations at Steady State
 
 | Parameter | 200 mg | 400 mg | 800 mg |
 | --- | --- | --- | --- |
-| CSS max | 0.83 mcg/mL | 1.21 mcg/mL | 1.61 mcg/mL |
-| CSS trough | 0.46 mcg/mL | 0.63 mcg/mL | 0.83 mcg/mL |
+| CSS | 0.83 | 1.21 | 1.61 |
+| max | mcg/mL | mcg/mL | mcg/mL |
+| CSS | 0.46 | 0.63 | 0.83 |
+| trough | mcg/mL | mcg/mL | mcg/mL |
 
-There was no effect of food on the absorption of acyclovir (n=6); therefore, Acyclovir Oral Suspension may be administered with or without food.
+There was no effect of food on the absorption of acyclovir (n=6); therefore, acyclovir oral suspension may be administered with or without food.
 
 The only known urinary metabolite is 9-[(carboxymethoxy)methyl]guanine.
 
-Special Populations:Adults With Impaired Renal Function: The half-life and total body clearance of acyclovir are dependent on renal function.
+Special Populations: Adults With Impaired Renal Function: The half-life and total body clearance of acyclovir are dependent on renal function.
 A dosage adjustment is recommended for patients with reduced renal function (see DOSAGE AND ADMINISTRATION).
 
-Geriatrics: Acyclovir plasma concentrations are higher in geriatric patients compared to younger adults, in part due to age-related changes in renal function.
+Geriatrics: Acyclovir plasma concentrations are higher in geriatric patients compared with younger adults, in part due to age-related changes in renal function.
 Dosage reduction may be required in geriatric patients with underlying renal impairment (see PRECAUTIONS: Geriatric Use).
 
 Pediatrics: In general, the pharmacokinetics of acyclovir in pediatric patients is similar to that of adults.
@@ -38,7 +42,7 @@ Mean half-life after oral doses of 300 mg/m2 and 600 mg/m2 in pediatric patients
 Drug Interactions: Coadministration of probenecid with intravenous acyclovir has been shown to increase the mean acyclovir half-life and the area under the concentration-time curve.
 Urinary excretion and renal clearance were correspondingly reduced.
 
-Clinical Trials:Initial Genital Herpes: Double-blind, placebo-controlled studies have demonstrated that orally administered acyclovir significantly reduced the duration of acute infection and duration of lesion healing.
+Clinical Trials: Initial Genital Herpes: Double-blind, placebo-controlled studies have demonstrated that orally administered acyclovir significantly reduced the duration of acute infection and duration of lesion healing.
 The duration of pain and new lesion formation was decreased in some patient groups.
 
 Recurrent Genital Herpes: Double-blind, placebo-controlled studies in patients with frequent recurrences (6 or more episodes per year) have shown that orally administered acyclovir given daily for 4 months to 10 years prevented or reduced the frequency and/or severity of recurrences in greater than 95% of patients.
