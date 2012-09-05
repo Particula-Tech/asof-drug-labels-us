@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA075936"
+  ],
+  "inn": "milrinone",
+  "labeler": "APP Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "63323-617-10",
+    "63323-617-20",
+    "63323-617-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "milrinone lactate",
+      "name": "Milrinone Lactate"
+    }
+  ],
+  "setid": "ac43ba6b-635d-4129-8eea-96f3f5a4785e",
+  "source": "dailymed"
+}
