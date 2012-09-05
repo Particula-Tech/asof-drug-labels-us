@@ -2,17 +2,12 @@
 
 Systemic and intranasal corticosteroids use may result in the following:
 
-· EpistaxisCandida albicans infection, nasal septum perforation, and impaired wound healing [see Warnings and Precautions (5.1)].
-
-· Hypersensitivity Including Anaphylaxis [see Warnings and Precautions (5.2)].
-
-· Immunosuppression [see Warnings and Precautions (5.3)].
-
-· Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.4)].
-
-· Growth Effect [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
-
-· Glaucoma and Cataracts [see Warnings and Precautions (5.7)].
+- •EpistaxisCandida albicans infection, nasal septum perforation, and impaired wound healing [see Warnings and Precautions (5.1)].
+- •Hypersensitivity Including Anaphylaxis [see Warnings and Precautions (5.2)].
+- •Immunosuppression [see Warnings and Precautions (5.3)].
+- •Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.4)].
+- •Growth Effect [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
+- •Glaucoma and Cataracts [see Warnings and Precautions (5.7)].
 
 ## 6.1 Clinical Trials Experience
 

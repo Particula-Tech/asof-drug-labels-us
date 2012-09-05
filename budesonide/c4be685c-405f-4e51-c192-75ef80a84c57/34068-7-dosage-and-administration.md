@@ -14,4 +14,4 @@ If not used for two consecutive days, reprime with one spray or until a fine spr
 If not used for more than 14 days, rinse the applicator and reprime with two sprays or until a fine spray appears.
 Shake the container gently before each use.
 
-Illustrated Patient’s Instructions for Use accompany each package of RHINOCORT AQUA 32 mcg.
+Illustrated Patient’s Instructions for Use accompany each package of RHINOCORT AQUA Nasal Spray 32 mcg.
