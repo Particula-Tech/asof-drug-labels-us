@@ -17,8 +17,8 @@ Secondary endpoints of morning and evening peak expiratory flow rate, daytime as
 
 12-Week Trial in Adult Patients with Mild to Moderate Asthma (Study 1) Mean Change from Baseline in FEV1 (L)
 
-Footnote: PULMICORT TURBUHALER; a different PULMICORT DPI.
-Statistical model is analysis of covariance with treatment and region (US/Asia) as factors and the baseline value as the covariate.
+- Footnote: PULMICORT TURBUHALER; a different PULMICORT DPI.
+  Statistical model is analysis of covariance with treatment and region (US/Asia) as factors and the baseline value as the covariate.
 
 Patients 6 to 17 years of age (Study 2)
 
@@ -29,5 +29,5 @@ Secondary endpoints of morning and evening PEF showed differences from baseline 
 
 12-Week Trial in Pediatric Patients With Mild Asthma (Study 2) Mean Change from Baseline in Percent Predicted FEV1
 
-Footnote: PULMICORT TURBUHALER; a different PULMICORT DPI.
-Statistical model is analysis of covariance with treatment and region (US/Asia) as factors and the baseline value as the covariate.
+- Footnote: PULMICORT TURBUHALER; a different PULMICORT DPI.
+  Statistical model is analysis of covariance with treatment and region (US/Asia) as factors and the baseline value as the covariate.

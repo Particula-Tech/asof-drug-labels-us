@@ -2,14 +2,14 @@
 
 Systemic and inhaled corticosteroid use may result in the following:
 
-- Candida albicans infection [seeWarnings and Precautions (5.1)]
-- Hypersensitivity Including Anaphylaxis [seeWarnings and Precautions (5.3)]
-- Immunosuppression [seeWarnings and Precautions (5.4)]
-- Hypercorticism and Adrenal Suppression [seeWarnings and Precautions (5.6)]
-- Reduction in Bone Mineral Density [seeWarnings and Precautions (5.8)]
-- Growth Effects [seeWarnings and Precautions (5.9) and Use in Specific Populations (8.4)]
-- Glaucoma and Cataracts [seeWarnings and Precautions (5.10)]
-- Eosinophilic conditions and Churg-Strauss [seeWarnings and Precautions (5.12)]
+- •Candida albicans infection [seeWarnings and Precautions (5.1)]
+- •Hypersensitivity Including Anaphylaxis [seeWarnings and Precautions (5.3)]
+- •Immunosuppression [seeWarnings and Precautions (5.4)]
+- •Hypercorticism and Adrenal Suppression [seeWarnings and Precautions (5.6)]
+- •Reduction in Bone Mineral Density [seeWarnings and Precautions (5.8)]
+- •Growth Effects [seeWarnings and Precautions (5.9) and Use in Specific Populations (8.4)]
+- •Glaucoma and Cataracts [seeWarnings and Precautions (5.10)]
+- •Eosinophilic conditions and Churg-Strauss [seeWarnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -25,7 +25,7 @@ Table 1 includes all adverse reactions (regardless of investigator causality ass
 
 Table 1 - Adverse Reactions occurring at an incidence of ≥1% and more commonly than placebo in the PULMICORT FLEXHALER group: pooled data from two 12-week, double-blind, placebo-controlled clinical asthma trials in patients 6 years and older
 
-| Adverse Event | PULMICORT FLEXHALER 360 mcg twice dailyN=226 % | Placebo N=230 % |
+| Adverse Event | PULMICORT FLEXHALER360 mcg twice dailyN=226% | PlaceboN=230% |
 | --- | --- | --- |
 | Nasopharyngitis | 9.3 | 8.3 |
 | Nasal congestion | 2.7 | 0.4 |
