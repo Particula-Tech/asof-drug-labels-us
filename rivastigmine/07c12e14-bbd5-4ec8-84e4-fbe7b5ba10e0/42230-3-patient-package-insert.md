@@ -13,6 +13,12 @@ There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 If you do not understand the information, or have any questions about Exelon Patch, talk with your healthcare provider or pharmacist.
 
+Exelon patch is available in 3 dosage strengths
+
+- 4.6 mg per day (4.6 mg/24 hours)
+- 9.5 mg per day (9.5 mg/24 hours)
+- 13.3 mg per day (13.3 mg/24 hours)
+
 What is Exelon Patch?
 
 Exelon Patch is a prescription medicine used to treat:
@@ -54,7 +60,7 @@ Especially tell your healthcare provider if you take:
 
 - a medicine used to treat inflammation (nonsteroidal anti-inflammatory drugs)
 - other medicines used to treat Alzheimer’s or Parkinson’s disease
-- an anticholinergic medicine, such as an allergy or cold medicine, a medicine to treat bladder or bowel spasms, or certain asthma medicines
+- an anticholinergic medicine, such as an allergy or cold medicine, a medicine to treat bladder or bowel spasms, or certain asthma medicines, or certain medicines to prevent motion or travel sickness
 
 Ask your healthcare provider if you are not sure if your medicine is one listed above.
 
@@ -88,7 +94,15 @@ How should I use Exelon Patch?
 
 Where should I Apply Exelon Patch?
 
-- Apply 1 Exelon Patch to ONLY ONE of the outlined areas shown in the figures below (See figure A): • upper back, left or right side • lower back, left or right side • upper arm, left or right • chest, left or right side
+- Apply 1 Exelon Patch to ONLY ONE of the outlined areas shown in the figures below (See figure A):
+  - upper back, left or right side
+  - lower back, left or right side
+  - upper arm, left or right
+  - chest, left or right side
+
+Figure A
+
+Apply one patch to ONLY ONE of the following possible sites each day
 
 The diagram represents areas on the body where Exelon Patch may be applied.
 Only one patch should be worn at a time.
@@ -108,10 +122,14 @@ Do not open the pouch or remove a patch until just before you apply it.
 Cut the pouch along the dotted line to open and remove the patch (See Figure B). Save the pouch for later use.
 The patch should not be cut or folded sharply.
 
+Figure B
+
 2.
 A protective liner covers the sticky (adhesive) side of the patch.
 Peel off one side of the protective cover.
 Do not touch the sticky part of the patch with your finger (See Figure C).
+
+Figure C
 
 3.
 Apply the sticky side of the patch onto your chosen skin site.
@@ -119,8 +137,12 @@ Apply the sticky side of the patch onto your chosen skin site.
 4.
 Peel off the other side of the protective cover (See Figure D).
 
+Figure D
+
 5.
 Press down on the patch firmly to make sure that the edges stick well (See Figure E).
+
+Figure E
 
 Wash your hands with soap and water after applying the patch.
 
@@ -142,8 +164,7 @@ What are the possible side effects of Exelon Patch?
 
 Exelon Patch may cause serious side effects including:
 
-- Stomach or bowel (intestinal) problems, including: • nausea • vomiting • diarrhea • loss of appetite • weight loss • bleeding in your stomach (ulcers)
-
+- Stomach or bowel (intestinal) problems, including: ▪ nausea ▪ vomiting ▪ diarrhea ▪ dehydration ▪ loss of appetite ▪ weight loss ▪ bleeding in your stomach (ulcers)
 - heart problems
 - seizures
 - problems with movement (tremors)
@@ -190,6 +211,8 @@ What are the ingredients of Exelon Patch?
 
 Active ingredient: rivastigmine
 
-T2010-42
-
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
+
+©Novartis
+
+T2012-155/T2012-156 August 2012/August 2012

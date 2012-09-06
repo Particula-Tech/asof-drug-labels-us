@@ -1,91 +1,61 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
 ## 5.1 Medication Errors Resulting in Overdose
 
-Medication errors with Exelon patches have resulted in serious adverse events; some cases have required hospitalization, and rarely, led to death.
+Medication errors with Exelon Patch have resulted in serious adverse reactions; some cases have required hospitalization, and rarely, led to death.
 The majority of medication errors have involved not removing the old patch when putting on a new one and the use of multiple patches at one time.
-Patients and caregivers must be given proper instruction on the dosage and administration of Exelon patches.
+Instruct patients and their caregivers on important administration instructions for Exelon Patch.
+[see Dosage and Administration (2.4)].
 
 ## 5.2 Gastrointestinal Adverse Reactions
 
-At higher than recommended doses, Exelon Patch (rivastigmine transdermal system) use is associated with significant gastrointestinal adverse reactions, including nausea, vomiting, diarrhea, anorexia/decreased appetite and weight loss.
-For this reason, patients administered Exelon Patch should always be started at a dose of 4.6 mg/24 hours and titrated to the maintenance dose of 9.5 mg/24 hours.
-If treatment is interrupted for longer than three days, treatment should be reinitiated with the lowest daily dose [see Dosage and Administration (2)] to reduce the possibility of severe vomiting and its potentially serious sequelae (e.g., there has been one post-marketing report of severe vomiting with esophageal rupture following inappropriate reinitiation of treatment with a 4.5-mg dose of an oral formulation after 8 weeks of treatment interruption).
+Exelon Patch can cause gastrointestinal adverse reactions, including significant nausea, vomiting, diarrhea, anorexia/decreased appetite, and weight loss.
+Dehydration may result from prolonged vomiting or diarrhea and can be associated with serious outcomes.
+The incidence and severity of these reactions are dose-related [see Adverse Reactions (6.1)].
+For this reason, initiate treatment with Exelon Patch at a dose of 4.6 mg/24 hours and titrate to a dose of 9.5 mg/24 hours and then to a dose of 13.3 mg/24 hours, if appropriate [see Dosage and Administration (2.1)].
 
-At higher than recommended doses, caregivers should be advised of the high incidence of nausea and vomiting associated with the use of Exelon Patch along with the possibility of anorexia and weight loss.
-Caregivers should be encouraged to monitor for these adverse events and inform the physician if they occur.
-It is critical to inform caregivers that if therapy has been interrupted for more than three days, the next dose should not be administered until they have discussed this with the physician.
+If treatment is interrupted for more than three days because of intolerance, reinitiate Exelon Patch with the 4.6 mg/24 hours dose to reduce the possibility of severe vomiting and its potentially serious sequelae.
+A postmarketing report described a case of severe vomiting with esophageal rupture following inappropriate reinitiation of treatment of an oral formulation of rivastigmine without retitration after 8 weeks of treatment interruption.
 
-Nausea and Vomiting
+Inform caregivers to monitor for gastrointestinal adverse reactions and to inform the physician if they occur.
+It is critical to inform caregivers that if therapy has been interrupted for more than three days because of intolerance, the next dose should not be administered without contacting the physician regarding proper retitration.
 
-In the controlled clinical trial, 7% of patients treated with Exelon Patch 9.5 mg/24 hours developed nausea, as compared to 23% of patients who received the Exelon capsule at doses up to 6 mg BID and 5% of those who received placebo.
-In the same clinical trial, 6% of patients treated with Exelon Patch 9.5 mg/24 hours developed vomiting, as compared with 17% of patients who received the Exelon capsule at doses up to 6 mg BID and 3% of those who received placebo.
-The proportion of patients who discontinued treatment on account of vomiting was 0% of the patients who received Exelon Patch 9.5 mg/24 hours as well as 2% of patients who received the Exelon capsule at doses up to 6 mg BID and 0% of those who received placebo.
-Vomiting was severe in 0% of patients who received Exelon Patch 9.5 mg/24 hours and 1% of patients who received the Exelon capsule at doses up to 6 mg BID and 0% of those who received placebo.
+## 5.3 Other Adverse Reactions from Increased Cholinergic Activity
 
-In the same clinical trial, 21% of patients treated with the higher dose of Exelon Patch 17.4 mg/24 hours developed nausea, 19% developed vomiting, and the proportion of these patients who discontinued treatment on account of vomiting was 2%.
-Vomiting was severe in 1% of patients treated with Exelon Patch 17.4 mg/24 hours.
+Neurologic Effects
 
-Weight Loss
+Extrapyramidal Symptoms: Like other cholinomimetics, rivastigmine may exacerbate or induce extrapyramidal symptoms.
+Worsening of parkinsonian symptoms, particularly tremor, has been observed in patients with dementia associated with Parkinson’s disease who were treated with Exelon capsules.
 
-In the controlled clinical trial, the proportion of patients who had weight loss equal to or greater than 7% of their baseline weight was 8% of those treated with Exelon Patch 9.5 mg/24 hours, 11% of patients who received the Exelon capsule at doses up to 6 mg BID and 6% of those who received placebo.
-
-In the same clinical trial, 12% of those treated with 17.4 mg/24 hours had weight loss equal to or greater than 7% of their baseline weight.
-It is not clear how much of the weight loss was associated with anorexia, nausea, vomiting, and the diarrhea associated with the drug.
-
-Diarrhea
-
-In the controlled clinical trial, 6% of patients treated with Exelon Patch 9.5 mg/24 hours developed diarrhea, as compared with 5% of patients who received the Exelon capsule at doses up to 6 mg BID, 10% of those treated with 17.4 mg/24 hours and 3% of those who received placebo.
-
-Anorexia/Decreased Appetite
-
-In the controlled clinical trial, 3% of patients treated with Exelon Patch 9.5 mg/24 hours were recorded as developing decreased appetite or anorexia, as compared with 9% of patients who received the Exelon capsule at doses up to 6 mg BID, 9% of those treated with Exelon Patch 17.4 mg/24 hours and 2% of those who received placebo.
+Seizures: Drugs that increase cholinergic activity are believed to have some potential for causing seizures.
+However, seizure activity also may be a manifestation of Alzheimer's disease.
 
 Peptic Ulcers/Gastrointestinal Bleeding
 
-Because of their pharmacological action, cholinesterase inhibitors may be expected to increase gastric acid secretion due to increased cholinergic activity.
-Therefore, patients should be monitored closely for symptoms of active or occult gastrointestinal bleeding, especially those at increased risk for developing ulcers, e.g., those with a history of ulcer disease or those receiving concurrent nonsteroidal anti-inflammatory drugs (NSAIDs).
-Clinical studies of Exelon have shown no significant increase, relative to placebo, in the incidence of either peptic ulcer disease or gastrointestinal bleeding.
+Cholinesterase inhibitors, including rivastigmine, may increase gastric acid secretion due to increased cholinergic activity.
+Monitor patients using Exelon Patch for symptoms of active or occult gastrointestinal bleeding, especially those at increased risk for developing ulcers, e.g., those with a history of ulcer disease or those receiving concurrent nonsteroidal anti-inflammatory drugs (NSAIDs).
+Clinical studies of rivastigmine have shown no significant increase, relative to placebo, in the incidence of either peptic ulcer disease or gastrointestinal bleeding.
 
-## 5.3 Anesthesia
+Use with Anesthesia
 
-Exelon, as a cholinesterase inhibitor, is likely to exaggerate succinylcholine-type muscle relaxation during anesthesia.
+Rivastigmine, as a cholinesterase inhibitor, is likely to exaggerate succinylcholine-type muscle relaxation during anesthesia.
 
-## 5.4 Cardiovascular Conditions
+Cardiac Conduction Effects
 
-Drugs that increase cholinergic activity may have vagotonic effects on heart rate (e.g., bradycardia).
-The potential for this action may be particularly important to patients with sick sinus syndrome or other supraventricular cardiac conduction conditions.
-In clinical trials, Exelon was not associated with any increased incidence of cardiovascular adverse events, heart rate or blood pressure changes, or ECG abnormalities.
+Because rivastigmine increases cholinergic activity, use of the Exelon Patch may have vagotonic effects on heart rate (e.g., bradycardia).
+The potential for this action may be particularly important in patients with sick sinus syndrome or other supraventricular cardiac conduction conditions.
+In clinical trials, rivastigmine was not associated with any increased incidence of cardiovascular adverse events, heart rate or blood pressure changes, or ECG abnormalities.
 
-## 5.5 Genitourinary Conditions
+Genitourinary Effects
 
-Although this was not observed in clinical trials of Exelon, drugs that increase cholinergic activity may cause urinary obstruction.
+Although not observed in clinical trials of rivastigmine, drugs that increase cholinergic activity may cause urinary obstruction.
 
-## 5.6 Neurological Conditions
+Pulmonary Effects
 
-Seizures
+Like other drugs that increase cholinergic activity, Exelon Patch should be used with care in patients with a history of asthma or obstructive pulmonary disease.
 
-Drugs that increase cholinergic activity are believed to have some potential for causing seizures.
-However, seizure activity also may be a manifestation of Alzheimer's disease.
-
-Extrapyramidal Symptoms
-
-Like other cholinomimetics, rivastigmine may exacerbate or induce extrapyramidal symptoms.
-Worsening of parkinsonian symptoms, particularly tremor, has been observed in patients with dementia associated with Parkinson’s disease who were treated with Exelon capsules.
-
-## 5.7 Pulmonary Conditions
-
-Like other drugs that increase cholinergic activity, Exelon should be used with care in patients with a history of asthma or obstructive pulmonary disease.
-
-## 5.8 Effects on Ability to Drive and Use Machines
+## 5.4 Impairment in Driving or Use of Machinery
 
 Dementia may cause gradual impairment of driving performance or compromise the ability to use machinery.
-The administration of rivastigmine may also result in adverse events that are detrimental to these functions.
-Thus, the ability to continue driving or operating machinery should be routinely evaluated by the treating physician.
-
-## 5.9 Special Populations
-
-Low Body Weight
-
-Patients with body weight below 50 kg may experience more adverse events and may be more likely to discontinue due to adverse events.
-Particular caution should be exercised in titrating these patients above the recommended maintenance dose of the Exelon Patch 9.5 mg/24 hours.
+The administration of rivastigmine may also result in adverse reactions that are detrimental to these functions.
+During treatment with the Exelon Patch, routinely evaluate the patient's ability to continue driving or operating machinery.

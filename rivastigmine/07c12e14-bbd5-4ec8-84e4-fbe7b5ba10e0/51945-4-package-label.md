@@ -25,3 +25,19 @@ EXELON® Patch
 Each System Delivers 9.5 mg/24 hours
 
 Contains 30 Systems
+
+PRINCIPAL DISPLAY PANEL
+
+Package Label – 13.3 mg / 24 hours
+
+Rx Only NDC 0078-0503-15
+
+EXELON® Patch
+
+(rivastigmine transdermal system)
+
+Each System Delivers 13.3 mg/24 hours
+
+For Transdermal Use Only
+
+Contains 30 Systems

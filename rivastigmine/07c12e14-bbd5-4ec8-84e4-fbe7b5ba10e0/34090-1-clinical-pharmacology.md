@@ -1,43 +1,39 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
-Pathological changes in dementia of the Alzheimer’s type and dementia associated with Parkinson’s disease involve cholinergic neuronal pathways that project from the basal forebrain to the cerebral cortex and hippocampus.
-These pathways are thought to be intricately involved in memory, attention, learning, and other cognitive processes.
-While the precise mechanism of action for rivastigmine is unknown, it is postulated to exert its therapeutic effect by enhancing cholinergic function.
+Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function.
 This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase.
-If this proposed mechanism is correct, the effect of rivastigmine may lessen as the disease process advances and fewer cholinergic neurons remain functionally intact.
+If this mechanism is correct, the effect of rivastigmine may lessen as the disease process advances and fewer cholinergic neurons remain functionally intact.
 There is no evidence that rivastigmine alters the course of the underlying dementing process.
 
 ## 12.2 Pharmacodynamics
 
-After a 6-mg oral dose of rivastigmine in humans, anticholinesterase activity is present in CSF for about 10 hours, with a maximum inhibition of about 60% 5 hours after dosing.
+After a 6-mg oral dose of rivastigmine in humans, anticholinesterase activity is present in cerebrospinal fluid for about 10 hours, with a maximum inhibition of about 60% 5 hours after dosing.
 
-In-vitro and in-vivo studies demonstrate that the inhibition of cholinesterase by rivastigmine is not affected by the concomitant administration of memantine, an N-methyl-D-aspartate receptor antagonist.
+In vitro and in vivo studies demonstrate that the inhibition of cholinesterase by rivastigmine is not affected by the concomitant administration of memantine, an N-methyl-D-aspartate receptor antagonist.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
-After the first dose, there is a lag time of 0.5-1 hour in the absorption of rivastigmine from Exelon Patch (rivastigmine transdermal system).
-Concentrations then rise slowly typically reaching a maximum after 8 hours, although maximum values (Cmax) are often reached at later times as well (10-16 hours).
+After the initial application of Exelon Patch, there is a lag time of 0.5-1 hour in the absorption of rivastigmine.
+Concentrations then rise slowly typically reaching a maximum after 8 hours, although maximum values (Cmax) can also occur later (at 10-16 hours).
 After the peak, plasma concentrations slowly decrease over the remainder of the 24-hour period of application.
 At steady state, trough levels are approximately 60-80% of peak levels.
-Fluctuation (between Cmax and Cmin) is lower for Exelon Patch than for the oral formulation.
-Exelon Patch 9.5 mg/24 hours exhibited exposure approximately the same as that provided by an oral dose of 6 mg twice daily (i.e., 12 mg/day).
 
+Exelon Patch 9.5 mg/24 hours gave exposure approximately the same as that provided by an oral dose of 6 mg twice daily (i.e., 12 mg/day).
 Inter-subject variability in exposure was lower (43-49%) for the Exelon Patch formulation as compared with the oral formulations (73-103%).
+Fluctuation (between Cmax and Cmin) is less for Exelon Patch than for the oral formulation of rivastigmine.
 
-A relationship between drug exposure at steady state (rivastigmine and metabolite NAP226-90) and body weight was observed in Alzheimer’s dementia patients.
-Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state concentrations in a patient with a body weight of 35 kg are approximately doubled, while for a patient with a body weight of 100 kg the concentrations are approximately halved.
-The effect of body weight on drug exposure suggests special attention to patients with very low body weight during up-titration [see Dosage and Administration (2)].
+Figure 2 displays rivastigmine plasma concentrations over 24 hours for the three available patch strengths.
 
-Over a 24-hour dermal application, approximately 50% of the drug load is released from the system.
+Over a 24-hour dermal application, approximately 50% of the drug content of the patch is released from the system.
 
 Exposure (AUC∞) to rivastigmine (and metabolite NAP266-90) was highest when the patch was applied to the upper back, chest, or upper arm.
-Two other sites (abdomen and thigh) could be used if none of the three other sites is available, but the practitioner should keep in mind that the rivastigmine plasma exposure associated with these sites was approximately 20-30% lower.
+Two other sites (abdomen and thigh) could be used if none of the three other sites is available, but the practitioner should be aware that the rivastigmine plasma exposure associated with these sites was approximately 20-30% lower.
 
-There was no relevant accumulation of rivastigmine or the metabolite NAP226-90 in plasma in patients with Alzheimer’s disease upon multiple dosing.
+There was no relevant accumulation of rivastigmine or the metabolite NAP226-90 in plasma in patients with Alzheimer’s disease with daily dosing.
 
 Distribution
 
@@ -48,12 +44,12 @@ It has an apparent volume of distribution in the range of 1.8-2.7 L/kg.
 Metabolism
 
 Rivastigmine is extensively metabolized primarily via cholinesterase-mediated hydrolysis to the decarbamylated metabolite NAP226-90.
-In-vitro, this metabolite shows minimal inhibition of acetylcholinesterase (<10%).
-Based on evidence from in-vitro and animal studies, the major cytochrome P450 isoenzymes are minimally involved in rivastigmine metabolism.
+In vitro, this metabolite shows minimal inhibition of acetylcholinesterase (<10%).
+Based on evidence from in vitro and animal studies, the major cytochrome P450 isoenzymes are minimally involved in rivastigmine metabolism.
 
 The metabolite-to-parent AUC∞ ratio was about 0.7 after Exelon Patch application versus 3.5 after oral administration, indicating that much less metabolism occurred after dermal treatment.
 Less NAP226-90 is formed following patch application, presumably because of the lack of presystemic (hepatic first pass) metabolism.
-Based on in-vitro studies, no unique metabolic routes were detected in human skin.
+Based on in vitro studies, no unique metabolic routes were detected in human skin.
 
 Elimination
 
@@ -63,3 +59,56 @@ Following administration of 14C-rivastigmine, renal elimination was rapid and es
 Less than 1% of the administered dose is excreted in the feces.
 The apparent elimination half-life in plasma is approximately 3 hours after patch removal.
 Renal clearance was approximately 2.1-2.8 L/hr.
+
+Renal Impairment
+
+No study was conducted with Exelon Patch in subjects with renal impairment.
+Following a single 3-mg dose, mean oral clearance of rivastigmine is 64% lower in moderately impaired renal patients (n=8, GFR=10-50 mL/min) than in healthy subjects (n=10, GFR≥60 mL/min); Cl/F=1.7 L/min and 4.8 L/min, respectively.
+In patients with severe renal impairment (n=8, GFR<10 mL/min), mean oral clearance of rivastigmine is 43% higher than in healthy subjects (n=10, GFR≥60 mL/min); Cl/F=6.9 L/min and 4.8 L/min, respectively.
+For unexplained reasons, the severely impaired renal patients had a higher clearance of rivastigmine than moderately impaired patients.
+Despite this finding, consider a reduced dose in patients with moderate to severe renal impairment [see Dosage and Administration (2.3)].
+
+Hepatic Impairment
+
+No pharmacokinetic study was conducted with Exelon Patch in subjects with hepatic impairment.
+After multiple 6-mg twice daily oral dosing, the mean clearance of rivastigmine was 65% lower in mild (n=7, Child-Pugh score 5-6) and moderate (n=3, Child-Pugh score 7-9) hepatically impaired patients (biopsy proven, liver cirrhosis) than in healthy subjects (n=10).
+
+Body Weight
+
+A relationship between drug exposure at steady state (rivastigmine and metabolite NAP226-90) and body weight was observed in Alzheimer’s dementia patients.
+Rivastigmine exposure is higher in subjects with low body weight.
+Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state concentrations in a patient with a body weight of 35 kg would be approximately doubled, while for a patient with a body weight of 100 kg the concentrations would be approximately halved [see Dosage and Administration (2.3)].
+
+Age
+
+Age had no impact on the exposure to rivastigmine in Alzheimer’s disease patients treated with Exelon Patch.
+
+Gender or Race
+
+No specific pharmacokinetic study was conducted to investigate the effect of gender and race on the disposition of Exelon Patch.
+A population pharmacokinetic analysis of oral rivastigmine indicated that neither gender (n=277 males and 348 females) nor race (n=575 White, 34 Black, 4 Asian, and 12 Other) affected clearance of the drug.
+Similar results were seen with analyses of pharmacokinetic data obtained after the administration of Exelon Patch.
+
+Smoking
+
+Population pharmacokinetic analysis showed that nicotine use increased the oral clearance of rivastigmine by 23% (n=75 smokers and 549 nonsmokers).
+
+Drug Interaction Studies
+
+No specific interaction studies have been conducted with Exelon Patch.
+Information presented below is from studies with oral rivastigmine.
+
+Effect of Rivastigmine on the Metabolism of Other Drugs
+
+Rivastigmine is primarily metabolized through hydrolysis by esterases.
+Minimal metabolism occurs via the major cytochrome P450 isoenzymes.
+Based on in vitro studies, no pharmacokinetic drug interactions with drugs metabolized by the following isoenzyme systems are expected: CYP1A2, CYP2D6, CYP3A4/5, CYP2E1, CYP2C9, CYP2C8, CYP2C19, or CYP2B6.
+
+No pharmacokinetic interaction was observed between rivastigmine taken orally and digoxin, warfarin, diazepam or fluoxetine in studies in healthy volunteers.
+The increase in prothrombin time induced by warfarin is not affected by administration of rivastigmine.
+
+Effect of Other Drugs on the Metabolism of Rivastigmine
+
+Drugs that induce or inhibit CYP450 metabolism are not expected to alter the metabolism of rivastigmine.
+
+Population pharmacokinetic analysis with a database of 625 patients showed that the pharmacokinetics of rivastigmine taken orally were not influenced by commonly prescribed medications such as antacids (n=77), antihypertensives (n=72), ß-blockers (n=42), calcium channel blockers (n=75), antidiabetics (n=21), nonsteroidal anti-inflammatory drugs (n=79), estrogens (n=70), salicylate analgesics (n=177), antianginals (n=35) and antihistamines (n=15).

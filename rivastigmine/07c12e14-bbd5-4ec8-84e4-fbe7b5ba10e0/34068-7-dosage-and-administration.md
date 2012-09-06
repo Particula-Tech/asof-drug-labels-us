@@ -1,79 +1,68 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2DOSAGE AND ADMINISTRATION
 
-## 2.1 Alzheimer’s Disease
+## 2.1 Recommended Dosing
 
-Table 1: Patch Size, Drug Content and Nominal Delivery Rate
-
-| Rivastigmine Nominal Dose | Rivastigmine Content per Exelon Patch | Exelon Patch Size |
-| --- | --- | --- |
-| 4.6 mg/24 hours | 9 mg | 5 cm2 |
-| 9.5 mg/24 hours | 18 mg | 10 cm2 |
+The effective dosage of Exelon Patch is 9.5 mg/24 hours or 13.3 mg/24 hours administered once per day; replace with a new patch every 24 hours.
 
 Initial Dose
 
-Treatment is started with Exelon Patch 4.6 mg/24 hours.
+Initiate treatment with one 4.6 mg/24 hours Exelon Patch applied to the skin once daily [see Dosage and Administration (2.4)].
 
-After a minimum of 4 weeks of treatment and if well tolerated, this dose should be increased to Exelon Patch 9.5 mg/24 hours, which is the recommended effective dose.
+Dose Titration
 
-Maintenance Dose
+Increase the dose only after a minimum of 4 weeks at the previous dose, and only if the previous dose has been well tolerated.
+Continue the recommended effective dose of 9.5 mg/24 hours for as long as therapeutic benefit persists.
+Patients can then be increased to the maximum effective dose of 13.3 mg/24 hours dose.
+Doses higher than 13.3 mg/24 hours confer no appreciable additional benefit, and are associated with an increase in the incidence of adverse reactions [see Warnings and Precautions (5.2), Adverse Reactions (6.1)].
 
-Dose increases should occur only after a minimum of 4 weeks at the previous dose, and only if the previous dose has been well tolerated.
-The maximum recommended dose is 9.5 mg/24 hours.
-Higher doses confer no appreciable additional benefit, and are associated with significant increase in the incidence of adverse events [see Adverse Reactions (6)].
+Interruption of Treatment
 
-If adverse effects (e.g., nausea, vomiting, diarrhea, loss of appetite) cause intolerance during treatment, the patient should be instructed to discontinue treatment for three or more days and then restart at the same or next lower dose level.
-If treatment is interrupted for longer than three days, treatment should be reinitiated with the lowest daily dose and titrated as described above [also see Warnings and Precautions (5)].
+If dosing is interrupted for three days or fewer, restart treatment with the same or lower strength Exelon Patch.
+If dosing is interrupted for more than three days, restart treatment with the 4.6 mg/24 hours Exelon Patch and titrate as described above.
 
-Switching from Capsules or Oral Solution
+## 2.2 Dosing in Specific Populations
+
+Dosing Modifications in Patients with Renal or Hepatic Impairment
+
+Consider using the 4.6 mg/24 hours Exelon Patch as both the initial and maximum dose in patients with moderate to severe renal impairment and in patients with mild to moderate hepatic impairment.
+Pharmacokinetic studies of oral rivastigmine in these patient populations showed reduced clearance of the drug [see Use in Specific Populations (8.6, 8.7), Clinical Pharmacology (12.3)].
+
+Dosing Modifications in Patients with Low Body Weight
+
+Because rivastigmine blood levels vary with weight [see Use in Specific Populations (8.8), Clinical Pharmacology (12.3)], carefully titrate and monitor patients with low body weight (<50kg) for toxicities (e.g., excessive nausea, vomiting) and consider reducing the maintenance dose to the 4.6 mg/24 hours Exelon Patch if such toxicities develop.
+
+## 2.3 Switching to Exelon Patch from Exelon Capsules or Exelon Oral Solution
 
 Patients treated with Exelon capsules or oral solution may be switched to Exelon Patch as follows:
 
-A patient who is on a total daily dose of <6 mg of oral rivastigmine can be switched to Exelon Patch 4.6 mg/24 hours.
+- A patient who is on a total daily dose of <6 mg of oral rivastigmine can be switched to the 4.6 mg/24 hours Exelon Patch.
+- A patient who is on a total daily dose of 6-12 mg of oral rivastigmine can be switched to the 9.5 mg/24 hours Exelon Patch.
 
-A patient who is on a total daily dose of 6-12 mg of oral rivastigmine may be directly switched to Exelon Patch 9.5 mg/24 hours.
+Instruct patients or caregivers to apply the first patch on the day following the last oral dose.
 
-It is recommended to apply the first patch on the day following the last oral dose.
+## 2.4 Important Administration Instructions
 
-Method of Administration
+Exelon Patch is for transdermal use on intact skin.
 
-Exelon Patch is intended for transdermal use (on intact skin) only.
-The patch should not be used if the pouch seal is broken or the patch is cut, damaged, or changed in any way.
+(a) Do not use the patch if the pouch seal is broken or the patch is cut, damaged, or changed in any way.
 
-Exelon Patch should be applied once a day to clean, dry, hairless, intact healthy skin in a place that will not be rubbed against by tight clothing.
-The upper or lower back is recommended as the site of application because the patch is less likely to be removed by the patient; however, when sites on the back are not accessible the patch can be applied to the upper arm or chest.
-The patch should not be applied to skin that is red, irritated, or cut.
-It is recommended that the site of patch application be changed daily to avoid potential irritation, although consecutive patches can be applied to the same anatomic site (e.g., another spot on the upper back).
+(b) Apply the Exelon Patch once a day
 
-The patch should be pressed down firmly until the edges stick well.
-The patch can be used in situations that include bathing and hot weather.
+- Press down firmly until the edges stick well when applying to clean, dry, hairless, intact healthy skin in a place that will not be rubbed against by tight clothing.
+- Use the upper or lower back as the site of application because the patch is less likely to be removed by the patient.
+  If sites on the back are not accessible, apply the patch to the upper arm or chest.
+- Do not apply to a skin area where cream, lotion, or powder has recently been applied.
 
-The patch should be replaced with a new one every 24 hours.
-Only one patch should be worn at a time [see Overdosage (10)].
-Do not apply a new patch to that same spot for at least 14 days.
-The previous day’s patch must be removed before applying a new patch.
-Patients and caregivers should be instructed accordingly [see Patient Counseling Information (17)].
+(c) Do not apply to skin that is red, irritated, or cut.
 
-Used patches should be placed in the previously saved pouch and discarded safely in the trash, away from pets or children.
+(d) Replace the Exelon Patch with a new patch every 24 hours.
+If taking 4.6 mg/24 hours, instruct patients to only wear one patch at a time (remove the previous day's patch before applying a new patch) [see Warnings and Precautions (5.1) and Overdosage (10)].
+If a dose is missed, apply a new patch immediately.
 
-Incompatibilities
+(e) Change the site of patch application daily to minimize potential irritation, although a new patch can be applied to the same general anatomic site (e.g., another spot on the upper back) on consecutive days.
+Do not apply a new patch to the same location for at least 14 days.
 
-To prevent interference with the adhesive properties of the patch, the patch should not be applied to a skin area where cream, lotion or powder has recently been applied.
+(f) May wear the patch during bathing and in hot weather.
+But avoid long exposure to external heat sources (excessive sunlight, saunas, solariums).
 
-Special Populations
-
-Hepatic Impairment
-
-Dosage adjustment is not necessary in hepatically impaired patients, as the dose of drug is individually titrated to tolerability.
-
-Renal Impairment
-
-No dose adjustment is necessary for patients with renal impairment.
-
-Low Body Weight
-
-Patients with body weight below 50 kg may experience more adverse events and may be more likely to discontinue due to adverse events.
-Particular caution should be exercised in titrating these patients above the recommended maintenance dose of Exelon Patch 9.5 mg/24 hours.
-
-## 2.2 Parkinson’s Disease Dementia
-
-See Dosage and Administration (2.1).
+(g) Place used patches in the previously saved pouch and discard in the trash, away from pets or children.
