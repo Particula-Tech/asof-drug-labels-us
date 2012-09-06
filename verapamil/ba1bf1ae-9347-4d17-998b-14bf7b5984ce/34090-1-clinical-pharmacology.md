@@ -4,14 +4,14 @@ Verapamil hydrochloride is a calcium ion influx inhibitor (slow channel blocker 
 
 ## Mechanism of Action
 
-### Essential Hypertension:
+### Essential Hypertension
 
 Verapamil hydrochloride exerts antihypertensive effects by decreasing systemic vascular resistance, usually without orthostatic decreases in blood pressure or reflex tachycardia; bradycardia (rate less than 50 beats/min) is uncommon (1.4%).
 During isometric or dynamic exercise verapamil hydrochloride does not alter systolic cardiac function in patients with normal ventricular function.
 Verapamil hydrochloride does not alter total serum calcium levels.
 However, one report suggested that calcium levels above the normal range may alter the therapeutic effect of verapamil hydrochloride.
 
-### Other Pharmacological Actions of verapamil hydrochloride include the following:
+### Other Pharmacological Actions of Verapamil Hydrochloride Include the Following
 
 Verapamil hydrochloride dilates the main coronary arteries and coronary arterioles, both in normal and ischemic regions, and is a potent inhibitor of coronary artery spasm, whether spontaneous or ergonovine-induced.
 This property increases myocardial oxygen delivery in patients with coronary artery spasm, and is responsible for the effectiveness of verapamil hydrochloride in vasospastic (Prinzmetal’s or variant) as well as unstable angina at rest.
@@ -51,7 +51,7 @@ No relationship has been established between the plasma concentration of verapam
 Aging may affect the pharmacokinetics of verapamil.
 Elimination half-life may be prolonged in the elderly.
 
-In multiple dose studies under fasting conditions the bioavailability measured by AUC of verapamil hydrochloride extended-release was similar to verapamil hydrochloride (immediate release); rates of absorption were, of course, different.
+In multiple dose studies under fasting conditions the bioavailability measured by AUC of verapamil hydrochloride extended-release was similar to verapamil hydrochloride immediate release; rates of absorption were, of course, different.
 In a randomized, single-dose, crossover study using healthy volunteers, administration of 240 mg verapamil hydrochloride extended-release with food produced peak plasma verapamil concentrations of 79 ng/mL, time to peak plasma verapamil concentration of 7.71 hours, and AUC(0-24 hr) of 841 ng-hr/mL.
 When verapamil hydrochloride extended-release was administered to fasting subjects, peak plasma verapamil concentration was 164 ng/mL; time to peak plasma verapamil concentration was 5.21 hours; and AUC(0-24 hr) was 1,478 ng-hr/mL.
 Similar results were demonstrated for plasma norverapamil.

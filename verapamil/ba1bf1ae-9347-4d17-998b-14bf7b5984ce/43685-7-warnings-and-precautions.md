@@ -4,7 +4,7 @@
 
 Verapamil has a negative inotropic effect which, in most patients, is compensated by its afterload reduction (decreased systemic vascular resistance) properties without a net impairment of ventricular performance.
 In clinical experience with 4,954 patients, 87 (1.8%) developed congestive heart failure or pulmonary edema.
-Verapamil should be avoided in patients with severe left ventricular dysfunction (e.g. ejection fraction less than 30%, or moderate to severe symptoms of cardiac failure) and in patients with any degree of ventricular dysfunction if they are receiving a beta- adrenergic blocker (see PRECAUTIONS, Drug Interactions).
+Verapamil should be avoided in patients with severe left ventricular dysfunction (e.g., ejection fraction less than 30%, or moderate to severe symptoms of cardiac failure) and in patients with any degree of ventricular dysfunction if they are receiving a beta- adrenergic blocker (see PRECAUTIONS, Drug Interactions).
 Patients with milder ventricular dysfunction should, if possible, be controlled with optimum doses of digitalis and/or diuretics before verapamil treatment (Note interactions with digoxin under PRECAUTIONS).
 
 ## Hypotension:
@@ -43,18 +43,12 @@ Three patients died in pulmonary edema; all had severe left ventricular outflow 
 Eight other patients had pulmonary edema and/or severe hypotension; abnormally high (greater than 20 mmHg) pulmonary wedge pressure and a marked left ventricular outflow obstruction were present in most of these patients.
 Concomitant administration of quinidine (see PRECAUTIONS, Drug Interactions) preceded the severe hypotension in 3 of the 8 patients (2 of whom developed pulmonary edema).
 Sinus bradycardia occurred in 11% of the patients, second-degree AV block in 4% and sinus arrest in 2%.
-It must be appreciated that this group of patients has a serious disease with a high mortality rate.
+It must be appreciated that this group of patients had a serious disease with a high mortality rate.
 Most adverse effects responded well to dose reduction and only rarely did verapamil have to be discontinued.
 
 # PRECAUTIONS
 
 ## General
-
-### Use in Patients with Impaired Hepatic Functions:
-
-Since verapamil is highly metabolized by the liver, it should be administered cautiously to patients with impaired hepatic function.
-Severe liver dysfunction prolongs the elimination half-life of immediate release verapamil to about 14 to 16 hours; hence, approximately 30% of the dose given to patients with normal liver function should be administered to these patients.
-Careful monitoring for abnormal prolongation of the PR interval or other signs of excessive pharmacologic effects (see OVERDOSAGE) should be carried out.
 
 ### Use in Patients with Attenuated (Decreased) Neuromuscular Transmission:
 
@@ -70,9 +64,16 @@ These patients should be carefully monitored for abnormal prolongation of the PR
 
 ## Drug Interactions
 
-Telethromycin: Hypotension and bradyarrhythmias have been observed in patients receiving concurrent telethromycin, an antibiotic in the ketolide class of antibiotics.
+Telithromycin: Hypotension and bradyarrhythmias have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class of antibiotics.
 
-Clonidine:Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with verapamil.
+HMG-CoA Reductase Inhibitors: The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.
+
+Co-administration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone.
+Limit the dose of simvastatin in patients on verapamil to 10 mg daily.
+Limit the daily dose of lovastatin to 40 mg.
+Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.
+
+Clonidine: Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with verapamil.
 Monitor heart rate in patients receiving concomitant verapamil and clonidine.
 
 Cytochrome Inducers/Inhibitors: In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450 CYP3A4, CYP1A2, CYP2C8, CYP2C9 and CYP2C18.
@@ -82,9 +83,9 @@ Aspirin:In a few reported cases, coadministration of verapamil with aspirin has 
 
 Grapefruit juice: The intake of grapefruit juice may increase drug levels of verapamil.
 
-Beta-Blockers:Concomitant therapy with beta-adrenergic blockers and verapamil may result in additive negative effects on heart rate, atrioventricular conduction, and/or cardiac contractility.
+Beta Blockers: Concomitant therapy with beta-adrenergic blockers and verapamil may result in additive negative effects on heart rate, atrioventricular conduction, and/or cardiac contractility.
 The combination of sustained-release verapamil and beta-adrenergic blocking agents has not been studied.
-However, there have reports of excessive bradycardia and AV block, including complete heart block, when the combination has been used for the treatment of hypertension.
+However, there have been reports of excessive bradycardia and AV block, including complete heart block, when the combination has been used for the treatment of hypertension.
 For hypertensive patients, the risks of combined therapy may outweigh the potential benefits.
 The combination should be used only with caution and close monitoring.
 
@@ -101,12 +102,12 @@ Maintenance and digitalization doses should be reduced when verapamil is adminis
 Whenever overdigitalization is suspected, the daily dose of digitalis should be reduced or temporarily discontinued.
 Upon discontinuation of verapamil hydrochloride, the patient should be reassessed to avoid underdigitalization.
 
-Antihypertensive Agents: Verapamil administered concomitantly with oral antihypertensive agents (e.g. vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta-blockers) will usually have an additive effect on lowering blood pressure.
+Antihypertensive Agents: Verapamil administered concomitantly with oral antihypertensive agents (e.g., vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta-blockers) will usually have an additive effect on lowering blood pressure.
 Patients receiving these combinations should be appropriately monitored.
 Concomitant use of agents that attenuate alpha-adrenergic function with verapamil may result in a reduction in blood pressure that is excessive in some patients.
-Such an effect was observed in one study following the concomitant administration of verapamil and prazosin
+Such an effect was observed in one study following the concomitant administration of verapamil and prazosin.
 
-Antiarrhythmic Agents:
+Antiarrhythmic Agents
 
 Disopyramide: Until data on possible interactions between verapamil and disopyramide phosphate are obtained, disopyramide should not be administered within 48 hours before or 24 hours after verapamil administration.
 
@@ -120,7 +121,7 @@ The electrophysiological effects of quinidine and verapamil on AV conduction wer
 Verapamil significantly counteracted the effects of quinidine on AV conduction.
 There has been a report of increased quinidine levels during verapamil therapy.
 
-Nitrates:Verapamil has been given concomitantly with short- and long-acting nitrates without any undesirable drug interactions.
+Nitrates: Verapamil has been given concomitantly with short- and long-acting nitrates without any undesirable drug interactions.
 The pharmacologic profile of both drugs and the clinical experience suggest beneficial interactions.
 
 Other
@@ -129,7 +130,7 @@ Alcohol: Verapamil has been found to significantly inhibit ethanol elimination r
 (See CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism).
 
 Cimetidine: The interaction between cimetidine and chronically administered verapamil has not been studied.
-Variable results on clearance have been obtained in acute studies of healthy volunteers: clearance of verapamil was either reduced or unchanged.
+Variable results on clearance have been obtained in acute studies of healthy volunteers; clearance of verapamil was either reduced or unchanged.
 
 Lithium:Increased sensitivity to the effects of lithium (neurotoxicity) has been reported during concomitant verapamil-lithium therapy; lithium levels have been observed sometimes to increase, sometimes to decrease, and sometimes to be unchanged.
 Patients receiving both drugs must be monitored carefully.
@@ -146,7 +147,7 @@ Cyclosporine:Verapamil therapy may increase serum levels of cyclosporine.
 Theophylline:Verapamil therapy may inhibit the clearance and increase the plasma levels of theophylline.
 
 Inhalation Anesthetics: Animal experiments have shown that inhalation anesthetics depress cardiovascular activity by decreasing the inward movement of calcium ions.
-When used concomitantly, inhalation anesthetics and calcium antagonists, such as verapamil should each be titrated carefully to avoid excessive cardiovascular depression.
+When used concomitantly, inhalation anesthetics and calcium antagonists, such as verapamil, should each be titrated carefully to avoid excessive cardiovascular depression.
 
 Neuromuscular Blocking Agents:Clinical data and animal studies suggest that verapamil may potentiate the activity of neuromuscular blocking agents (curare-like and depolarizing).
 It may be necessary to decrease the dose of verapamil and/or the dose of the neuromuscular blocking agent when the drugs are used concomitantly.
@@ -178,7 +179,7 @@ Such adverse experiences have not been reported in the literature, despite a lon
 ## Nursing Mothers
 
 Verapamil is excreted in human milk.
-Because of the potential for adverse reactions in nursing infants from verapamil, nursing should be discontinued while verapamil is administered
+Because of the potential for adverse reactions in nursing infants from verapamil, nursing should be discontinued while verapamil is administered.
 
 ## Pediatric Use
 

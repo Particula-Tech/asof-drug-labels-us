@@ -3,8 +3,8 @@
 Overdose with verapamil may lead to pronounced hypotension, bradycardia, and conduction system abnormalities (e.g., junctional rhythm with AV dissociation and high degree AV block, including asystole).
 Other symptoms secondary to hypoperfusion (e.g., metabolic acidosis, hyperglycemia, hyperkalemia, renal dysfunction, and convulsions) may be evident.
 
-Treat all verapamil overdoses as serious and maintain observations for at least 48 hours [especially verapamil hydrochloride extended-release] preferably under continuous hospital care.
-Delayed pharmacodynamic consequences may occur with the sustained release formulation.
+Treat all verapamil overdoses as serious and maintain observation for at least 48 hours [especially verapamil hydrochloride extended-release] preferably under continuous hospital care.
+Delayed pharmacodynamic consequences may occur with the sustained-release formulation.
 Verapamil is known to decrease gastrointestinal transit time.
 
 In overdose, tablets of verapamil hydrochloride extended-release have occasionally been reported to form concretions within the stomach or intestines.

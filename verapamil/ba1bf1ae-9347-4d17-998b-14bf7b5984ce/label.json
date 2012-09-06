@@ -1,10 +1,16 @@
 {
   "application_numbers": [
+    "ANDA078906",
     "ANDA090700"
   ],
   "inn": "verapamil",
   "labeler": "Glenmark Generics Inc.,USA",
   "package_ndcs": [
+    "68462-260-01",
+    "68462-260-05",
+    "68462-260-10",
+    "68462-260-30",
+    "68462-260-90",
     "68462-292-01",
     "68462-292-05",
     "68462-292-90",
@@ -14,9 +20,9 @@
   ],
   "products": [
     {
-      "form": "TABLET, EXTENDED RELEASE",
-      "generic": "verapamil",
-      "name": "Verapamil"
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "verapamil hydrochloride",
+      "name": "verapamil hydrochloride"
     }
   ],
   "setid": "ba1bf1ae-9347-4d17-998b-14bf7b5984ce",
