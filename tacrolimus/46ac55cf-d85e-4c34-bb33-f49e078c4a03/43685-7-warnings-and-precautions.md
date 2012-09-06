@@ -114,9 +114,12 @@ The safety and efficacy of tacrolimus with sirolimus has not been established in
 
 Use of sirolimus with tacrolimus in studies of de novo liver transplant patients was associated with an excess mortality, graft loss, and hepatic artery thrombosis (HAT) and is not recommended [see INDICATIONS AND USAGE (1.4)].
 
-## 5.13 Use with Strong Inhibitors and Inducers of CYP3A
+## 5.13 Use with CYP3A4 Inhibitors and Inducers Including Those That Prolong QT
 
-Co-administration with strong CYP3A4-inhibitors (e.g., ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) is not recommended without close monitoring of tacrolimus whole blood trough concentrations [see DRUG INTERACTIONS (7)].
+Co-administration with strong CYP3A4-inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin) is not recommended without adjustments in the dosing regimen of tacrolimus and subsequent close monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions [see DRUG INTERACTIONS (7)].
+
+When coadministering tacrolimus with other substrates and/or inhibitors of CYP3A4 that also have the potential to prolong the QT interval, a reduction in tacrolimus dose, close monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended.
+Use of tacrolimus with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent QT prolongation.
 
 ## 5.14 Myocardial Hypertrophy
 

@@ -2,18 +2,18 @@
 
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
-- Lymphoma and Other Malignancies [see BOX WARNING, WARNINGS AND PRECAUTIONS (5.2)]
-- Serious Infections [see BOX WARNING, WARNINGS AND PRECAUTIONS (5.3)]
-- Polyoma Virus Infections [see BOX WARNING, WARNINGS AND PRECAUTIONS (5.4)]
-- CMV Infections [see BOX WARNING, WARNINGS AND PRECAUTIONS (5.5)]
-- New Onset Diabetes After Transplant [see WARNINGS AND PRECAUTIONS (5.6)]
-- Nephrotoxicity [see WARNINGS AND PRECAUTIONS (5.7)]
-- Neurotoxicity [see WARNINGS AND PRECAUTIONS (5.8)]
-- Hyperkalemia [see WARNINGS AND PRECAUTIONS (5.9)]
-- Hypertension [see WARNINGS AND PRECAUTIONS (5.10)]
-- Anaphylaxis with Tacrolimus Injection [see WARNINGS AND PRECAUTIONS (5.11)]
-- Myocardial Hypertrophy [see WARNINGS AND PRECAUTIONS (5.14)]
-- Pure Red Cell Aplasia [see WARNINGS AND PRECAUTIONS (5.16)]
+- •Lymphoma and Other Malignancies [see BOX WARNING, WARNINGS AND PRECAUTIONS (5.2)]
+- •Serious Infections [see BOX WARNING, WARNINGS AND PRECAUTIONS (5.3)]
+- •Polyoma Virus Infections [see BOX WARNING, WARNINGS AND PRECAUTIONS (5.4)]
+- •CMV Infections [see BOX WARNING, WARNINGS AND PRECAUTIONS (5.5)]
+- •New Onset Diabetes After Transplant [see WARNINGS AND PRECAUTIONS (5.6)]
+- •Nephrotoxicity [see WARNINGS AND PRECAUTIONS (5.7)]
+- •Neurotoxicity [see WARNINGS AND PRECAUTIONS (5.8)]
+- •Hyperkalemia [see WARNINGS AND PRECAUTIONS (5.9)]
+- •Hypertension [see WARNINGS AND PRECAUTIONS (5.10)]
+- •Anaphylaxis with Tacrolimus Injection [see WARNINGS AND PRECAUTIONS (5.11)]
+- •Myocardial Hypertrophy [see WARNINGS AND PRECAUTIONS (5.14)]
+- •Pure Red Cell Aplasia [see WARNINGS AND PRECAUTIONS (5.16)]
 
 ## 6.1 Clinical Studies Experience
 

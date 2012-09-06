@@ -3,8 +3,8 @@
 ## 2.1 Dosage in Adult Kidney, or Liver Transplant Patients
 
 The initial oral dosage recommendations for adult patients with kidney, or liver transplants along with recommendations for whole blood trough concentrations are shown in Table 1.
-The initial dose of tacrolimus capsules should be administered no sooner than 6 hours after transplantation in the liver transplant patients.
-In kidney transplant patients, the initial dose of tacrolimus capsules may be administered within 24 hours of transplantation, but should be delayed until renal function has recovered.
+The initial dose of tacrolimus capsules, USP should be administered no sooner than 6 hours after transplantation in the liver transplant patients.
+In kidney transplant patients, the initial dose of tacrolimus capsules, USP may be administered within 24 hours of transplantation, but should be delayed until renal function has recovered.
 For blood concentration monitoring details see DOSAGE AND ADMINISTRATION (2.6).
 
 Table 1.
@@ -17,10 +17,10 @@ Summary of Initial Oral Dosage Recommendations and Observed Whole Blood Trough C
 | In combination with MMF/IL-2 receptor antagonista | 0.1 mg/kg/day | month 1 to 12: 4 to 11 ng/mL |
 | Adult liver transplant patients | 0.10 to 0.15 mg/kg/day | month 1 to 12: 5 to 20 ng/mL |
 
-a In a second smaller trial, the initial dose of tacrolimus was 0.15 to 0.2 mg/kg/day and observed tacrolimus concentrations were 6 to 16 ng/mL during month 1 to 3 and 5 to 12 ng/mL during month 4 to 12 [see CLINICAL STUDIES (14.1)].
+a In a second smaller trial, the initial dose of tacrolimus was 0.15 to 0.2 mg/kg/day and observed tacrolimus concentrations were 6 to 16 ng/mL during months 1 to 3 and 5 to 12 ng/mL during months 4 to 12 [see CLINICAL STUDIES (14.1)].
 
 Dosing should be titrated based on clinical assessments of rejection and tolerability.
-Lower tacrolimus capsules dosages than the recommended initial dosage may be sufficient as maintenance therapy.
+Lower tacrolimus capsules, USP dosages than the recommended initial dosage may be sufficient as maintenance therapy.
 Adjunct therapy with adrenal corticosteroids is recommended early post-transplant.
 
 The data in kidney transplant patients indicate that the Black patients required a higher dose to attain comparable trough concentrations compared to Caucasian patients (Table 2).
@@ -38,11 +38,11 @@ Comparative Dose and Trough Concentrations Based on Race
 
 Initial Dose – Injection
 
-Tacrolimus injection should be used only as a continuous IV infusion and when the patient cannot tolerate oral administration of tacrolimus capsules.
-Tacrolimus injection should be discontinued as soon as the patient can tolerate oral administration of tacrolimus capsules, usually within 2 to 3 days.
+Tacrolimus injection should be used only as a continuous IV infusion and when the patient cannot tolerate oral administration of tacrolimus capsules, USP.
+Tacrolimus injection should be discontinued as soon as the patient can tolerate oral administration of tacrolimus capsules, USP, usually within 2 to 3 days.
 In a patient receiving an IV infusion, the first dose of oral therapy should be given 8 to 12 hours after discontinuing the IV infusion.
 
-The observed trough concentrations described above pertain to oral administration of tacrolimus capsules only; while monitoring tacrolimus capsules concentrations in patients receiving tacrolimus injection as a continuous IV infusion may have some utility, the observed concentrations will not represent comparable exposures to those estimated by the trough concentrations observed in patients on oral therapy.
+The observed trough concentrations described above pertain to oral administration of tacrolimus capsules, USP only; while monitoring tacrolimus capsules concentrations in patients receiving tacrolimus injection as a continuous IV infusion may have some utility, the observed concentrations will not represent comparable exposures to those estimated by the trough concentrations observed in patients on oral therapy.
 
 The recommended starting dose of tacrolimus injection is 0.03 to 0.05 mg/kg/day in kidney and liver transplant given as a continuous IV infusion.
 Adult patients should receive doses at the lower end of the dosing range.
@@ -69,35 +69,35 @@ Experience in pediatric kidney transplantation patients is limited.
 
 ## 2.3 Dosage Adjustment in Patients with Renal Impairment
 
-Due to its potential for nephrotoxicity, consideration should be given to dosing tacrolimus capsules at the lower end of the therapeutic dosing range in patients who have received a liver transplant and have pre-existing renal impairment.
+Due to its potential for nephrotoxicity, consideration should be given to dosing tacrolimus capsules, USP at the lower end of the therapeutic dosing range in patients who have received a liver transplant and have pre-existing renal impairment.
 Further reductions in dose below the targeted range may be required.
 
-In kidney transplant patients with post-operative oliguria, the initial dose of tacrolimus capsules should be administered no sooner than 6 hours and within 24 hours of transplantation, but may be delayed until renal function shows evidence of recovery.
+In kidney transplant patients with post-operative oliguria, the initial dose of tacrolimus capsules, USP should be administered no sooner than 6 hours and within 24 hours of transplantation, but may be delayed until renal function shows evidence of recovery.
 
 ## 2.4 Dosage Adjustments in Patients with Hepatic Impairment
 
-Due to the reduced clearance and prolonged half-life, patients with severe hepatic impairment (Child Pugh ≥ 10) may require lower doses of tacrolimus capsules.
+Due to the reduced clearance and prolonged half-life, patients with severe hepatic impairment (Child Pugh ≥ 10) may require lower doses of tacrolimus capsules, USP.
 Close monitoring of blood concentrations is warranted.
 
-The use of tacrolimus capsules in liver transplant recipients experiencing post-transplant hepatic impairment may be associated with increased risk of developing renal insufficiency related to high whole-blood concentrations of tacrolimus.
+The use of tacrolimus capsules, USP in liver transplant recipients experiencing post-transplant hepatic impairment may be associated with increased risk of developing renal insufficiency related to high whole-blood concentrations of tacrolimus.
 These patients should be monitored closely and dosage adjustments should be considered.
 Some evidence suggests that lower doses should be used in these patients [see DOSAGE AND ADMINISTRATION (2.1), USE IN SPECIFIC POPULATIONS (8.7) and CLINICAL PHARMACOLOGY (12.3)].
 
 ## 2.5 Administration Instructions
 
-It is recommended that patients initiate oral therapy with tacrolimus capsules if possible.
+It is recommended that patients initiate oral therapy with tacrolimus capsules, USP if possible.
 
 Initial dosage and observed tacrolimus whole blood trough concentrations for adults are shown in Table 1 and for pediatrics in Table 3 [see DOSAGE AND ADMINISTRATION (2.1, 2.2)]; for blood concentration monitoring details in kidney transplant patients [see DOSAGE AND ADMINISTRATION (2.1)].
 
-It is important to take tacrolimus capsules consistently every day either with or without food because the presence and composition of food decreases the bioavailability of tacrolimus capsules [see CLINICAL PHARMACOLOGY (12.3)].
+It is important to take tacrolimus capsules, USP consistently every day either with or without food because the presence and composition of food decreases the bioavailability of tacrolimus capsules, USP [see CLINICAL PHARMACOLOGY (12.3)].
 
-Patients should not eat grapefruit or drink grapefruit juice in combination with tacrolimus capsules [see DRUG INTERACTIONS (7.2)].
+Patients should not eat grapefruit or drink grapefruit juice in combination with tacrolimus capsules, USP [see DRUG INTERACTIONS (7.2)].
 
-Tacrolimus capsules should not be used simultaneously with cyclosporine.
-Tacrolimus capsules or cyclosporine should be discontinued at least 24 hours before initiating the other.
-In the presence of elevated tacrolimus capsules or cyclosporine concentrations, dosing with the other drug usually should be further delayed.
+Tacrolimus capsules, USP should not be used simultaneously with cyclosporine.
+Tacrolimus capsules, USP or cyclosporine should be discontinued at least 24 hours before initiating the other.
+In the presence of elevated tacrolimus capsules, USP or cyclosporine concentrations, dosing with the other drug usually should be further delayed.
 
-In patients unable to take oral tacrolimus capsules, therapy may be initiated with tacrolimus injection as a continuous IV infusion.
+In patients unable to take oral tacrolimus capsules, USP, therapy may be initiated with tacrolimus injection as a continuous IV infusion.
 If IV therapy is necessary, conversion from IV to oral tacrolimus is recommended as soon as oral therapy can be tolerated.
 This usually occurs within 2 to 3 days.
 In patients receiving an IV infusion, the first dose of oral therapy should be given 8 to 12 hours after discontinuing the IV infusion.

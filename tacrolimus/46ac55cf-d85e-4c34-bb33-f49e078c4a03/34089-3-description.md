@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Tacrolimus capsules are available for oral administration containing the equivalent of 0.5 mg, 1 mg or 5 mg of anhydrous tacrolimus.
+Tacrolimus capsules, USP are available for oral administration containing the equivalent of 0.5 mg, 1 mg or 5 mg of anhydrous tacrolimus.
 In addition, each capsule contains the following inactive ingredients: croscarmellose sodium, hypromellose, lactose monohydrate, and magnesium stearate.
 
 The tacrolimus capsule shell for 0.5 mg strength consists of gelatin, titanium dioxide and yellow iron oxide.
@@ -9,7 +9,7 @@ The tacrolimus capsule shell for 1 mg strength consists of black iron oxide, gel
 
 The tacrolimus capsule shell for 5 mg strength consists of red iron oxide, gelatin, and titanium dioxide.
 
-Tacrolimus capsules 0.5 mg, 1 mg and 5 mg are printed with edible black ink.
+Tacrolimus capsules, USP 0.5 mg, 1 mg and 5 mg are printed with edible black ink.
 The black ink is comprised of ammonia, black iron oxide, butyl alcohol, potassium hydroxide, propylene glycol, and shellac.
 
 Tacrolimus, previously known as FK506, is the active ingredient in tacrolimus capsules.
@@ -21,3 +21,5 @@ The chemical structure of tacrolimus is:
 Tacrolimus has a molecular formula of C44H69NO12•H2O and a formula weight of 822.03.
 Tacrolimus appears as white crystals or crystalline powder.
 It is practically insoluble in water, freely soluble in ethanol, and very soluble in methanol and chloroform.
+
+USP Dissolution test 2 and Organic Impurities procedure 2 used.

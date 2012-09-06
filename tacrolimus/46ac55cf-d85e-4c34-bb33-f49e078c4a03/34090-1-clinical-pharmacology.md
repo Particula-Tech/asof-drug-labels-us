@@ -23,25 +23,13 @@ Pharmacokinetics Parameters (mean±S.D.) of Tacrolimus in Healthy Volunteers and
 | Population | N | Route(Dose) | Parameters |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cmax(ng/mL) | Tmax(hr) | AUC(ng•hr/mL) | t1/2(hr) | CI(L/hr/kg) | V(L/kg) |  |  |  |
-| HealthyVolunteers | 8 | IV(0.025 mg/kg/4hr) | a | a | 598b± 125 | 34.2± 7.7 | 0.040± 0.009 | 1.91± 0.31 |
-| 16 | PO(5 mg) | 29.7± 7.2 | 1.6± 0.7 | 243c± 73 | 34.8± 11.4 | 0.041d± 0.008 | 1.94d± 0.53 |  |
-| KidneyTransplantPatients | 26 | IV(0.02 mg/kg/12 hr) | a | a | 294e± 262 | 18.8± 16.7 | 0.083± 0.050 | 1.41± 0.66 |
-| PO(0.2 mg/kg/day) | 19.2± 10.3 | 3 | 203e± 42 | f | f | f |  |  |
-| PO(0.3 mg/kg/day) | 24.2± 15.8 | 1.5 | 288e± 93 | f | f | f |  |  |
-| LiverTransplantPatients | 17 | IV(0.05 mg/kg/12 hr) | a | a | 3300e± 2130 | 11.7± 3.9 | 0.053± 0.017 | 0.85± 0.30 |
-| PO(0.3 mg/kg/day) | 68.5± 30 | 2.3± 1.5 | 519e± 179 | f | f | f |  |  |
-
-a not applicable
-
-b AUC0-120
-
-c AUC0-72
-
-d Corrected for individual bioavailability
-
-e AUC0-inf
-
-f not available
+| HealthyVolunteers | 8 | IV(0.025 mg/kg/4hr) | not applicable |  | 598AUC0-120± 125 | 34.2± 7.7 | 0.040± 0.009 | 1.91± 0.31 |
+| 16 | PO(5 mg) | 29.7± 7.2 | 1.6± 0.7 | 243AUC0-72± 73 | 34.8± 11.4 | 0.041Corrected for individual bioavailability± 0.008 | 1.94± 0.53 |  |
+| KidneyTransplantPatients | 26 | IV(0.02 mg/kg/12 hr) |  |  | 294AUC 0-inf± 262 | 18.8± 16.7 | 0.083± 0.050 | 1.41± 0.66 |
+| PO(0.2 mg/kg/day) | 19.2± 10.3 | 3 | 203± 42 | not available |  |  |  |  |
+| PO(0.3 mg/kg/day) | 24.2± 15.8 | 1.5 | 288± 93 |  |  |  |  |  |
+| LiverTransplantPatients | 17 | IV(0.05 mg/kg/12 hr) |  |  | 3300± 2130 | 11.7± 3.9 | 0.053± 0.017 | 0.85± 0.30 |
+| PO(0.3 mg/kg/day) | 68.5± 30 | 2.3± 1.5 | 519± 179 |  |  |  |  |  |
 
 Due to intersubject variability in tacrolimus pharmacokinetics, individualization of dosing regimen is necessary for optimal therapy [see DOSAGE AND ADMINISTRATION (2.6)].
 Pharmacokinetic data indicate that whole blood concentrations rather than plasma concentrations serve as the more appropriate sampling compartment to describe tacrolimus pharmacokinetics.
@@ -152,6 +140,10 @@ A retrospective comparison of pharmacokinetics in healthy volunteers, and in kid
 Drug Interactions
 
 Frequent monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when concomitant use of the following drugs with tacrolimus is initiated or discontinued [see DRUG INTERACTIONS (7)].
+
+Telaprevir: In a single dose study in 9 healthy volunteers, coadministration of tacrolimus (0.5 mg single dose) with telaprevir (750 mg three times daily for 13 days) increased the tacrolimus dose normalized Cmax by 9.3-fold and AUC by 70-fold compared to tacrolimus alone [seeDRUG INTERACTIONS (7.3)].
+
+Boceprevir: In a single dose study in 12 subjects, coadministration of tacrolimus (0.5 mg single dose) with boceprevir (800 mg three times daily for 11 days) increased tacrolimus Cmax by 9.9-fold and AUC by 17-fold compared to tacrolimus alone [seeDRUG INTERACTIONS (7.3)].
 
 Nelfinavir: Based on a clinical study of 5 liver transplant recipients, co-administration of tacrolimus with nelfinavir increased blood concentrations of tacrolimus significantly and, as a result, a reduction in the tacrolimus dose by an average of 16-fold was needed to maintain mean trough tacrolimus blood concentrations of 9.7 ng/mL.
 It is recommended to avoid concomitant use of tacrolimus and nelfinavir unless the benefits outweigh the risks [see DRUG INTERACTIONS (7.3)].
