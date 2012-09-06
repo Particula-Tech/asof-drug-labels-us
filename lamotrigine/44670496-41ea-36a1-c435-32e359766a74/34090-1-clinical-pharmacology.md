@@ -92,7 +92,7 @@ Evidence gathered from other sources suggests that self-induction by lamotrigine
 Elimination: The elimination half-life and apparent clearance of lamotrigine following administration of lamotrigine to adult patients with epilepsy and healthy volunteers is summarized in Table 14.
 Half-life and apparent oral clearance vary depending on concomitantAEDs.
 
-Drug Interactions: The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8,5.13), Drug Interactions (7)].
+Drug Interactions: The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8,5.12), Drug Interactions (7)].
 The net effects of drug interactions with lamotrigine are summarized in Tables 13 and 15, followed by details of the drug interaction studies below.
 
 Table 15.

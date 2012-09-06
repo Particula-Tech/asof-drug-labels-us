@@ -197,7 +197,7 @@ Respiratory: Sinusitis.
 
 Urogenital: Urinary frequency.
 
-Adverse Reactions Following Abrupt Discontinuation: In the 2 maintenance trials, there was no increase in the incidence, severity or type of adverse reactions in Bipolar Disorder patients after abruptly terminating therapy with lamotrigine.
+Adverse Reactions Following Abrupt Discontinuation: In the 2 maintenance trials, there was no increase in the incidence, severity, or type of adverse reactions in Bipolar Disorder patients after abruptly terminating therapy with lamotrigine.
 In clinical trials in patients with Bipolar Disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine.
 However, there were confounding factors that may have contributed to the occurrence of seizures in these bipolar patients [see Warnings and Precautions (5.9)].
 
@@ -235,7 +235,7 @@ Rare: Alcohol intolerance, alkaline phosphatase increase, alanine transaminase i
 Musculoskeletal System: Infrequent: Arthritis, leg cramps, myasthenia, and twitching.Rare: Bursitis, muscle atrophy, pathological fracture, and tendinous contracture.
 
 Nervous System: Frequent: Confusion and paresthesia.
-Infrequent: Akathisia, apathy, aphasia, CNS depression, depersonalization, dysarthria, dyskinesia, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, libido decreased, memory decrease, mind racing, movement disorder, myoclonus, panic attack, paranoid reaction, personality disorder, psychosis, sleep disorder, stupor, and suicidal ideation.
+Infrequent: Akathisia, apathy, aphasia, central nervous system (CNS) depression, depersonalization, dysarthria, dyskinesia, euphoria, hallucinations, hostility, hyperkinesia, hypertonia, libido decreased, memory decrease, mind racing, movement disorder, myoclonus, panic attack, paranoid reaction, personality disorder, psychosis, sleep disorder, stupor, and suicidal ideation.
 Rare: Choreoathetosis, delirium, delusions, dysphoria, dystonia, extrapyramidal syndrome, faintness, grand mal convulsions, hemiplegia, hyperalgesia, hyperesthesia, hypokinesia, hypotonia, manic depression reaction, muscle spasm, neuralgia, neurosis, paralysis, and peripheral neuritis.
 
 Respiratory System: Infrequent: Yawn.

@@ -96,13 +96,24 @@ What is lamotrigine?
 
 Lamotrigine is a prescription medicine used:
 
-- together with other medicines to treat certain types of seizures (partial seizures, generalized seizures of Lennox-Gastaut syndrome) in people 2 years or older.
-- alone when changing from other medicines used to treat partial seizures in people 16 years or older.
-- for the long-term treatment of Bipolar I Disorder to lengthen the time between mood episodes in people 18 years or older who have been treated for mood episodes with other medicine.
-  It is not known if lamotrigine is safe or effective in children or teenagers under the age of 18 with mood disorders such as bipolar disorder or depression.
-  It is not known if lamotrigine is safe or effective when used alone as the first treatment of seizures in adults.Who should not take lamotrigine?You should not take lamotrigine if you have had an allergic reaction to lamotrigine or to any of the inactive ingredients in lamotrigine.
-  See the end of this leaflet for a complete list of ingredients in lamotrigine.
-  What should I tell my healthcare provider before taking lamotrigine?Before taking lamotrigine, tell your healthcare provider about all of your medical conditions, including if you:
+1. together with other medicines to treat certain types of seizures (partial seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people 2 years or older.
+
+2. alone when changing from other medicines used to treat partial seizures in people 16 years or older.
+
+3. for the long-term treatment of Bipolar I Disorder to lengthen the time between mood episodes in people 18 years or older who have been treated for mood episodes with other medicine.
+
+It is not known if lamotrigine is safe or effective in children or teenagers under the age of 18 with mood disorders such as bipolar disorder or depression.
+
+It is not known if lamotrigine is safe or effective when used alone as the first treatment of seizures in adults.
+
+Who should not take lamotrigine?
+
+You should not take lamotrigine if you have had an allergic reaction to lamotrigine or to any of the inactive ingredients in lamotrigine.
+See the end of this leaflet for a complete list of ingredients in lamotrigine.
+
+What should I tell my healthcare provider before taking lamotrigine?
+
+Before taking lamotrigine, tell your healthcare provider about all of your medical conditions, including if you:
 
 - have had a rash or allergic reaction to another antiseizure medicine.
 - have or have had depression, mood problems or suicidal thoughts or behavior.
@@ -115,13 +126,17 @@ Lamotrigine is a prescription medicine used:
   It is not known if lamotrigine will harm your unborn baby.
   If you become pregnant while taking lamotrigine, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
-  The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.are breastfeeding.
-  Lamotrigine can pass into your breast milk.
-  You and your healthcare provider should decide if you should take lamotrigine or breastfeed.
-  Breastfeeding while taking lamotrigine is not recommended.
-  Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-  If you use lamotrigine with certain other medicines can affect each other, causing side effects.
-  How should I take lamotrigine?
+  The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
+- are breastfeeding.
+  Lamotrigine passes into breast milk and may cause side effects in a breastfed baby.
+  If you breastfeed while taking lamotrigine, watch your baby closely for trouble breathing, episodes of temporarily stopping breathing, sleepiness, or poor sucking.
+  Call your baby’s healthcare provider right away if you see any of these problems.
+  Talk to your healthcare provider about the best way to feed your baby if you take lamotrigine.
+
+Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+If you use lamotrigine with certain other medicines can affect each other, causing sideeffects.
+
+How should I take lamotrigine?
 
 - Take lamotrigine exactly as prescribed.
 - Your healthcare provider may change your dose.
@@ -140,11 +155,25 @@ Lamotrigine is a prescription medicine used:
 - If you have trouble swallowing lamotrigine tablets, tell your healthcare provider because there may be another form of lamotrigine you can take.
 - If you receive lamotrigine in a blisterpack, examine the blisterpack before use.
   Do not use if blisters are torn, broken, or missing.
-  What should I avoid while taking lamotrigine?
+
+What should I avoid while taking lamotrigine?
+
 - Do not drive a car or operate complex, hazardous machinery until you know how lamotrigine affects you.
-  What are possible side effects of lamotrigine?
-- See “What is the most important information I should know about lamotrigine?”
-  Common side effects of lamotrigine include:
+
+What are possible side effects of lamotrigine?
+
+See “What is the most important information I should know about lamotrigine?”
+
+Common side effects of lamotrigine include:
+
+| ● dizzinessr | ● tremor |
+| --- | --- |
+| ● headache | ● rash |
+| ● blurred or double vision | ● fever |
+| ● lack of coordination | ● abdominal pain |
+| ● sleepiness | ● back pain |
+| ● nausea, vomiting | ● tiredness |
+| ● insomnia | ● dry mouth |
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
@@ -156,22 +185,23 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store lamotrigine?
 
-• Store lamotrigine tablets at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+● Store lamotrigine tablets at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature] in a dry place and protect from light.
 
-• Keep lamotrigine and all medicines out of the reach of children.
+● Keep lamotrigine and all medicines out of the reach of children.
 
-General information about lamotrigineMedicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+General information about lamotrigine
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use lamotrigine for a condition for which it was not prescribed.
 Do not give lamotrigine to other people, even if they have the same symptoms you have.
 It may harm them.
-
 This Medication Guide summarizes the most important information about lamotrigine.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about lamotrigine that is written for healthcare professionals.
 
 What are the ingredients in lamotrigine?
 
-Active ingredient: lamotrigine USP
+Active ingredient: lamotrigine USP.
 
 Inactive ingredients: hydroxypropyl cellulose; L-hydroxypropyl cellulose; magnesium stearate; mannitol; powdered cellulose; talc; and ferric oxide.
 
@@ -185,6 +215,6 @@ Manufactured by
 
 Dr. Reddy’s Laboratories Limited
 
-Bachepalli – 502 325 INDIA
+Bachupally – 500 090 INDIA
 
-Revised: 0212
+Revised: 0912

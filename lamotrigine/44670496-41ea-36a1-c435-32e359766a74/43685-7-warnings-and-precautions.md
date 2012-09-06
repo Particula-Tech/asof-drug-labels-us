@@ -21,7 +21,7 @@ Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults.
 Specifically, of 584 patients administered lamotrigine with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered lamotrigine in the absence of valproate were hospitalized.
 
-Patients with History of Allergy or Rash to Other AEDs: The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation of lamotrigine is exceeded and in patients with a history of allergy or rash to other AEDs.
+Patients with History of Allergy or Rash to Other Antiepileptic Drugs: The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation of lamotrigine is exceeded and in patients with a history of allergy or rash to other AEDs.
 
 ## 5.2 Multiorgan Hypersensitivity Reactions and Organ Failure
 
