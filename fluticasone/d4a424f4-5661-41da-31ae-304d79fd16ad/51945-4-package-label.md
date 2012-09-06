@@ -28,9 +28,9 @@ Shake gently before each use.
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Research Triangle Park,
 
-Made in Singapore
+NC 27709
 
-A071967 Rev.
-8/09
+A107265 Rev.
+6/12

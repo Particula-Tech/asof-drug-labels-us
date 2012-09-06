@@ -58,6 +58,7 @@ DOSAGE
   For ADOLESCENTS and CHILDREN (4 years of age and older), the usual starting dosage is 1 spray in each nostril once daily.
   Sometimes your doctor may recommend using 2 sprays in each nostril daily.
   Then, after you have begun to feel better, 1 spray in each nostril daily may be adequate for you.
+
 - DO NOT use more of your medicine or take it more often than your doctor advises.
 - FLONASE may begin to work within 12 hours of the first dose, but it takes several days of regular use to reach its greatest effect.
   It is important that you use FLONASE Nasal Spray as prescribed by your doctor.
