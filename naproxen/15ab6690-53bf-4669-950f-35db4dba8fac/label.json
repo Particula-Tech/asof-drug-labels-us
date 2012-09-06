@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020353"
+  ],
+  "inn": "naproxen",
+  "labeler": "Shionogi Inc.",
+  "package_ndcs": [
+    "59630-375-10",
+    "59630-777-03",
+    "59630-850-75"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "naproxen sodium",
+      "name": "Naprelan"
+    }
+  ],
+  "setid": "15ab6690-53bf-4669-950f-35db4dba8fac",
+  "source": "dailymed"
+}
