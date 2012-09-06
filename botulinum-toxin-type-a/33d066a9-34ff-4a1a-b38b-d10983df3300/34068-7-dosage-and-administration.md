@@ -38,7 +38,7 @@ A decrease or increase in the BOTOX dose is also possible by administering a sma
 An injection of BOTOX is prepared by drawing into an appropriately sized sterile syringe an amount of the properly reconstituted toxin slightly greater than the intended dose.
 Air bubbles in the syringe barrel are expelled and the syringe is attached to an appropriate injection needle.
 Patency of the needle should be confirmed.
-A new, sterile, needle and syringe should be used to enter the vial on each occasion for removal of BOTOX.
+A new, sterile needle and syringe should be used to enter the vial on each occasion for removal of BOTOX.
 
 Reconstituted BOTOX should be clear, colorless, and free of particulate matter.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration and whenever the solution and the container permit.
@@ -96,7 +96,7 @@ A one inch needle may be needed in the neck region for patients with thick neck 
 With the exception of the procerus muscle, which should be injected at one site (midline), all muscles should be injected bilaterally with half the number of injection sites administered to the left, and half to the right side of the head and neck.
 The recommended re-treatment schedule is every 12 weeks.
 
-Diagrams 1-4: Recommended Injection Sites (A thru G) for Chronic Migraine
+Diagrams 1-4: Recommended Injection Sites (A through G) for Chronic Migraine
 
 Table 2: BOTOX Dosing by Muscle for Chronic Migraine
 

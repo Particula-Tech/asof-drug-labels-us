@@ -144,6 +144,6 @@ The exact relationship of these events to the botulinum toxin injection has not 
 New onset or recurrent seizures have also been reported, typically in patients who are predisposed to experiencing these events.
 The exact relationship of these events to the botulinum toxin injection has not been established.
 
-The following adverse events have been identified during postapproval use of BOTOX: abdominal pain; anorexia; brachial plexopathy; diarrhea; dyspnea; facial palsy; facial paresis; hyperhidrosis; hypoacusis; hypoaesthesia; localized numbness; malaise; muscle weakness; myalgia; paresthesia; pyrexia; radiculopathy; skin rash (including erythema multiforme,and psoriasiform eruption); tinnitus; vertigo; visual disturbances; and vomiting.
+The following adverse events have been identified during postapproval use of BOTOX: abdominal pain; anorexia; brachial plexopathy; diarrhea; dyspnea; facial palsy; facial paresis; hyperhidrosis; hypoacusis; hypoaesthesia; localized numbness; malaise; muscle weakness; myalgia; paresthesia; pyrexia; radiculopathy; skin rash (including erythema multiforme, and psoriasiform eruption); tinnitus; vertigo; visual disturbances; and vomiting.
 
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
