@@ -117,7 +117,7 @@ Nervous System/Psychiatric: Stroke, ataxia, memory impairment, tremor, periphera
 
 Respiratory System: Malignant lung neoplasms, hemoptysis, pulmonary infiltrates, bronchospasm, asthma, pleural effusion, pneumonia, eosinophilic pneumonitis, bronchitis, wheezing, orthopnea, painful respiration, epistaxis, laryngitis, sinusitis, pharyngeal pain, pharyngitis, rhinitis, rhinorrhea.
 
-Skin: Urticaria, alopecia, herpes zoster, photosensitivity, skin lesions, skin infections, pemphigus, erythema, flushing, diaphoresis, cutaneous pseudolymphoma.
+Skin: Urticaria, alopecia, herpes zoster, photosensitivity, skin lesions, skin infections, pemphigus, erythema, flushing, diaphoresis, cutaneous pseudolymphoma, psoriasis..
 Other severe skin reactions have been reported rarely, including toxic epidermal necrolysis and Stevens-Johnson syndrome; causal relationship has not been established.
 
 Special Senses: Visual loss, diplopia, blurred vision, tinnitus, photophobia, taste disturbances.
@@ -140,13 +140,11 @@ These adverse experiences were possibly dose-related (see above data from ATLAS 
 In patients treated with lisinopril for six weeks after acute myocardial infarction, hypotension (systolic blood pressure (100 mmHg) resulted in discontinuation of therapy in 9.7% of the patients.
 (See WARNINGS).
 
-Fetal/Neonatal Morbidity and Mortality: See WARNINGS, Fetal/Neonatal Morbidity and Mortality.
-
 Cough: See PRECAUTIONS, Cough
 
 Pediatric Patients: No relevant differences between the adverse experience profile for pediatric patients and that previously reported for adult patients were identified.
 
-## CLINICAL LABORATORY TEST FINDINGS
+## Clinical Laboratory Test Findings
 
 Serum Electrolytes: Hyperkalemia (See PRECAUTIONS), hyponatremia.
 
