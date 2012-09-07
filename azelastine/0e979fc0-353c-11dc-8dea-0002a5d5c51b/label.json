@@ -1,13 +1,10 @@
 {
   "application_numbers": [
-    "NDA022203",
     "NDA022371"
   ],
   "inn": "azelastine",
   "labeler": "Meda Pharmaceuticals Inc.",
   "package_ndcs": [
-    "0037-0242-30",
-    "0037-0242-57",
     "0037-0243-04",
     "0037-0243-30"
   ],
