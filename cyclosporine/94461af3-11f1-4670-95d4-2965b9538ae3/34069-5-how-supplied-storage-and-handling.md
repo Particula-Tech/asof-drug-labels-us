@@ -39,6 +39,6 @@ Distributed by:
 
 Novartis Pharmaceuticals Corporation, East Hanover, New Jersey 07936
 
-REV: OCTOBER 2009 T2009-104
-
 © Novartis
+
+T2012-159 August 2012

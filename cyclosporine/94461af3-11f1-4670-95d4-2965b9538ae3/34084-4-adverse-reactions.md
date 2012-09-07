@@ -4,14 +4,22 @@
 
 The principal adverse reactions of cyclosporine therapy are renal dysfunction, tremor, hirsutism, hypertension, and gum hyperplasia.
 
+Hypertension
+
 Hypertension, which is usually mild to moderate, may occur in approximately 50% of patients following renal transplantation and in most cardiac transplant patients.
+
+Glomerular Capillary Thrombosis
 
 Glomerular capillary thrombosis has been found in patients treated with cyclosporine and may progress to graft failure.
 The pathologic changes resembled those seen in the hemolytic-uremic syndrome and included thrombosis of the renal microvasculature, with platelet-fibrin thrombi occluding glomerular capillaries and afferent arterioles, microangiopathic hemolytic anemia, thrombocytopenia, and decreased renal function.
 Similar findings have been observed when other immunosuppressives have been employed post-transplantation.
 
+Hypomagnesemia
+
 Hypomagnesemia has been reported in some, but not all, patients exhibiting convulsions while on cyclosporine therapy.
 Although magnesium-depletion studies in normal subjects suggest that hypomagnesemia is associated with neurologic disorders, multiple factors, including hypertension, high dose methylprednisolone, hypocholesterolemia, and nephrotoxicity associated with high plasma concentrations of cyclosporine appear to be related to the neurological manifestations of cyclosporine toxicity.
+
+Clinical Studies
 
 In controlled studies, the nature, severity, and incidence of the adverse events that were observed in 493 transplanted patients treated with Neoral® were comparable with those observed in 208 transplanted patients who received Sandimmune® in these same studies when the dosage of the two drugs was adjusted to achieve the same cyclosporine blood trough concentrations.
 
@@ -43,7 +51,7 @@ Based on the historical experience with Sandimmune®, the following reactions oc
 
 Among 705 kidney transplant patients treated with cyclosporine oral solution (Sandimmune®) in clinical trials, the reason for treatment discontinuation was renal toxicity in 5.4%, infection in 0.9%, lack of efficacy in 1.4%, acute tubular necrosis in 1.0%, lymphoproliferative disorders in 0.3%, hypertension in 0.3%, and other reasons in 0.7% of the patients.
 
-The following reactions occurred in 2% or less of Sandimmune®-treated patients: allergic reactions, anemia, anorexia, confusion, conjunctivitis, edema, fever, brittle fingernails, gastritis, hearing loss, hiccups, hyperglycemia, muscle pain, peptic ulcer, thrombocytopenia, tinnitus.
+The following reactions occurred in 2% or less of cyclosporine-treated patients: allergic reactions, anemia, anorexia, confusion, conjunctivitis, edema, fever, brittle fingernails, gastritis, hearing loss, hiccups, hyperglycemia, migraine (Neoral®), muscle pain, peptic ulcer, thrombocytopenia, tinnitus.
 
 The following reactions occurred rarely: anxiety, chest pain, constipation, depression, hair breaking, hematuria, joint pain, lethargy, mouth sores, myocardial infarction, night sweats, pancreatitis, pruritus, swallowing difficulty, tingling, upper GI bleeding, visual disturbance, weakness, weight loss.
 
@@ -71,9 +79,20 @@ Fatal outcomes have been reported.
 
 ## Postmarketing Experience, Kidney, Liver and Heart Transplantation
 
-BK virus associated nephropathy has been observed in patients receiving immunosuppressants, including Neoral.
-This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss.
-(see WARNINGS, Kidney, Liver and Heart Transplant).
+Hepatotoxicity
+
+Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis and liver failure; serious and/or fatal outcomes have been reported.
+[See WARNINGS/Hepatotoxicity]
+
+Increased Risk of Infections
+
+Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported.
+[See WARNINGS/ Polyoma Virus Infection]
+
+Headache, including Migraine
+
+Cases of migraine have been reported.
+In some cases, patients have been unable to continue cyclosporine, however, the final decision on treatment discontinuation should be made by the treating physician following the careful assessment of benefits versus risks.
 
 ## Rheumatoid Arthritis
 
