@@ -9,7 +9,7 @@ If serious reactions to Lexiscan occur, consider the use of aminophylline, an ad
 ## 5.2 Sinoatrial and Atrioventricular Nodal Block
 
 Adenosine receptor agonists, including Lexiscan, can depress the SA and AV nodes and may cause first-, second- or third-degree AV block, or sinus bradycardia requiring intervention.
-In clinical trials first degree AV block (PR prolongation > 220 msec) developed in 3% of patients within 2 hours of Lexiscan administration; transient second-degree AV block with one dropped beat was observed in one patient receiving Lexiscan.
+In clinical trials first-degree AV block (PR prolongation > 220 msec) developed in 3% of patients within 2 hours of Lexiscan administration; transient second-degree AV block with one dropped beat was observed in one patient receiving Lexiscan.
 In postmarketing experience, third degree heart block and asystole within minutes of Lexiscan administration have occurred [see Adverse Reactions (6.2)].
 
 ## 5.3 Hypersensitivity, including Anaphylaxis

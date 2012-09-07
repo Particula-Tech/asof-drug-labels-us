@@ -14,13 +14,13 @@ Patients with COPD or asthma should be informed to discuss their respiratory his
 
 Rx Only
 
-Marketed by: Astellas Pharma US, Inc. Deerfield, IL 60015
+Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
 Syringes Manufactured by: Hospira, Inc. Lake Forest, IL 60045 USA
 
 Only Lexiscan is the trademark of Astellas US, LLC.
 Other trademarks listed belong to their respective owners.
 
-Revised: October 2011
+Revised: July 2012
 
-11H061-LEX-SPL
+12D028-LEX-SPL

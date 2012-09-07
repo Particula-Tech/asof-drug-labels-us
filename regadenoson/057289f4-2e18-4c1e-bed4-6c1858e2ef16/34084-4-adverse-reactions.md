@@ -51,14 +51,14 @@ Respiratory Abnormalities
 
 In a randomized, placebo-controlled trial (Study 3) of 999 subjects with asthma (n=532) or stable chronic obstructive pulmonary disease (n=467), the overall incidence of pre-specified respiratory adverse reactions was greater in the Lexiscan group compared to the placebo group (p < 0.001).
 Most respiratory adverse reactions resolved without therapy; a few subjects received aminophylline or a short acting bronchodilator.
-No differences were observed between treatment arms in the reduction of >15% from baseline at two-hours in FEV1 (Table 3)
+No differences were observed between treatment arms in the reduction of >15% from baseline at two-hours in FEV1 (Table 3).
 
 Table 3 Respiratory Adverse Effects in Study 3All subjects continued the use of their respiratory medications as prescribed prior to administration of Lexiscan.
 
 |  | Asthma Cohort |  | COPD Cohort |  |
 | --- | --- | --- | --- | --- |
 |  | Lexiscan (N=356) | Placebo(N=176) | Lexiscan(N=316) | Placebo(N=151) |
-| Overall Pre-specified Respiratory Adverse ReactionSubjects may have reported more than one type of adverse reaction. Adverse reactions were collected up to 24 hours following drug administration. Pre-specified respiratory adverse reactions including dyspnea, wheezing, obstructive airway disorder, dyspnea exertional, and tachypnea. | 12.9% | 2.3% | 19.0% | 4.0% |
+| Overall Pre-specified Respiratory Adverse ReactionPatients may have reported more than one type of adverse reaction. Adverse reactions were collected up to 24 hours following drug administration. Pre-specified respiratory adverse reactions included dyspnea, wheezing, obstructive airway disorder, dyspnea exertional, and tachypnea. | 12.9% | 2.3% | 19.0% | 4.0% |
 | Dyspnea | 10.7% | 1.1% | 18.0% | 2.6% |
 | Wheezing | 3.1% | 1.1% | 0.9% | 0.7% |
 | FEV1 reduction >15%Change from baseline at 2 hours | 1.1% | 2.9% | 4.2% | 5.4% |
