@@ -63,9 +63,15 @@ A single case of rhabdomyolysis occurred in a 49-year-old male with advanced Par
 The patient was hospitalized with an elevated CPK (10,631 IU/L).
 The symptoms resolved with discontinuation of the medication.
 
-## 5.8 Retinal Pathology in Rat
+## 5.8 Retinal Pathology
 
-Pathologic changes (degeneration and loss of photoreceptor cells) were observed in the retina of albino rats in the 2-year carcinogenicity study.
+Human Data A two-year open-label, randomized, parallel-group safety study of retinal deterioration and vision compared MIRAPEX tablets and immediate-release ropinirole.
+Two hundred thirty four Parkinson’s disease patients (115 on pramipexole, mean dose 3.0 mg/day and 119 on ropinirole, mean dose 9.5 mg/day) were evaluated using a panel of clinical ophthalmological assessments.
+Of 234 patients who were evaluable, 196 had been treated for two years and 29 were judged to have developed clinical abnormalities that were considered meaningful (19 patients in each treatment arm had received treatment for less than two years).
+There was no statistical difference in retinal deterioration between the treatment arms; however, the study was only capable of detecting a very large difference between treatments.
+In addition, because the study did not include an untreated comparison group (placebo treated), it is unknown whether the findings reported in patients treated with either drug are greater than the background rate in an aging population.
+
+Animal Data Pathologic changes (degeneration and loss of photoreceptor cells) were observed in the retina of albino rats in the 2-year carcinogenicity study.
 While retinal degeneration was not diagnosed in pigmented rats treated for 2 years, a thinning in the outer nuclear layer of the retina was slightly greater in rats given drug compared with controls.
 Evaluation of the retinas of albino mice, monkeys, and minipigs did not reveal similar changes.
 The potential significance of this effect in humans has not been established, but cannot be disregarded because disruption of a mechanism that is universally present in vertebrates (i.e., disk shedding) may be involved [see Nonclinical Toxicology (13.2)].

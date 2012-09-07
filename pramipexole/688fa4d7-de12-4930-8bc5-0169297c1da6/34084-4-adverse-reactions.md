@@ -9,7 +9,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Dyskinesia [see Warnings and Precautions (5.5)].
 - Renal Impairment [see Warnings and Precautions (5.6)].
 - Rhabdomyolysis [see Warnings and Precautions (5.7)].
-- Retinal Pathology in Rat [see Warnings and Precautions (5.8)].
+- Retinal Pathology [see Warnings and Precautions (5.8)].
 - Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.9)].
 
 ## 6.1 Clinical Trials Experience
@@ -208,7 +208,7 @@ Table 7 Dose-Related Adverse Events in a 12-Week Double-Blind, Placebo-Controlle
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Pain in extremity | 3 | 3 | 7 | 1 |
 
-General Adverse Events; Relationship to Age, Gender, and Race Among the treatment-emergent adverse events in patients treated with MIRAPEX tablets, hallucination appeared to exhibit a positive relationship to age in patients with Parkinson’s disease.
+General Adverse Events: Relationship to Age, Gender, and Race Among the treatment-emergent adverse events in patients treated with MIRAPEX tablets, hallucination appeared to exhibit a positive relationship to age in patients with Parkinson’s disease.
 Although no gender-related differences were observed in Parkinson’s disease patients, nausea and fatigue, both generally transient, were more frequently reported by female than male RLS patients.
 Less than 4% of patients enrolled were non-Caucasian: therefore, an evaluation of adverse events related to race is not possible.
 
@@ -269,6 +269,6 @@ Vascular disorders: aneurysm, angiopathy, arteriosclerosis, circulatory collapse
 
 In addition to the adverse events reported during clinical trials, the following adverse reactions have been identified during post-approval use of MIRAPEX tablets, primarily in Parkinson’s disease patients.Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these events in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
-Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: abnormal behavior, abnormal dreams, accidents (including fall), blackouts, cardiac failure, compulsive shopping, fatigue, hallucinations (all kinds), headache, hypotension (including postural hypotension), increased eating (including binge eating, compulsive eating, and hyperphagia), libido disorders (including increased and decreased libido, and hypersexuality), pathological gambling, pruritus, syncope, vomiting, and weight increase.
+Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: abnormal behavior, abnormal dreams, accidents (including fall), blackouts, cardiac failure, compulsive shopping, fatigue, hallucinations (all kinds), headache, hypotension (including postural hypotension), inappropriate antidiuretic hormone secretion (SIADH), increased eating (including binge eating, compulsive eating, and hyperphagia), libido disorders (including increased and decreased libido, and hypersexuality), pathological gambling, pruritus, syncope, vomiting, and weight increase.
 
 In a pharmacoepidemiological study, pramipexole use was associated with an increased risk of cardiac failure compared with non-use of pramipexole.

@@ -1,6 +1,6 @@
 Mirapex® (mîr′-ah-pĕx) (pramipexole dihydrochloride) tablets
 
-Read this Patient Information before you start taking MIRAPEX this medicine and each time you get a refill.
+Read this Patient Information before you start taking MIRAPEX and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 
@@ -31,7 +31,7 @@ It is not known if MIRAPEX is safe and effective in children.
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
 The combination of MIRAPEX and other medicines may affect each other and may cause side effects.
-MIRAPEX may affect the way other medicines work, and other medicines may affect how MIRAPEX work.
+MIRAPEX may affect the way other medicines work, and other medicines may affect how MIRAPEX works.
 
 - medicines called neuroleptics (phenothiazines, butyrophenones, thioxanthenes) or metoclopramide.
   MIRAPEX may not work as well if you take these medicines.
@@ -148,6 +148,6 @@ The brands listed are trademarks of their respective owners and are not trademar
 
 ©2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: July 2012
+Revised: September 2012
 
-10003128/11 OT1338OG252012 10003129/10 IT1322N
+10003128/12 OT1338RI052012 10003129/11 IT1322Q
