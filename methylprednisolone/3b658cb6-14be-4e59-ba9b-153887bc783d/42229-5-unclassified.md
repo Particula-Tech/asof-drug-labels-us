@@ -6,4 +6,8 @@ Federal (USA) law restricts this drug to use by or on the order of a licensed ve
 
 Made in Italy
 
-Revised June 2011 4265003.00
+Pharmacia & Upjohn Co. Kalamazoo, MI 49001, USA
+
+Revised July 2006
+
+812 602 311 692167
