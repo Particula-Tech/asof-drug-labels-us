@@ -1,6 +1,6 @@
 # PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 15 G CONTAINER
 
-Pharma Derm® NDC 0462-0333-15
+PharmaDerm® NDC 0462-0333-15
 
 Cutivate® Ointment, 0.005%
 
@@ -14,7 +14,7 @@ Rx only 15 g
 
 NDC 0462-0333-15
 
-Pharma Derm®
+PharmaDerm®
 
 Cutivate® Ointment, 0.005%
 
