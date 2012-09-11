@@ -1,22 +1,20 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-AFINITOR should be administered orally once daily at the same time every day, either consistently with food or consistently without food [see Clinical Pharmacology (12.3)].
+AFINITOR is available in two dosage forms: tablets (AFINITOR Tablets) and tablets for oral suspension (AFINITOR DISPERZ).
+AFINITOR DISPERZ is recommended only for the treatment of patients with subependymal giant cell astrocytoma (SEGA) and tuberous sclerosis complex (TSC) in conjunction with therapeutic drug monitoring [see Clinical Pharmacology (12.3)].
 
-AFINITOR tablets should be swallowed whole with a glass of water.
-AFINITOR tablets should not be crushed.
-Do not take tablets which are crushed or broken.
-For patients unable to swallow tablets, AFINITOR tablet(s) should be dispersed completely in a glass of water (containing approximately 30 mL) by gently stirring, immediately prior to drinking.
-The glass should be rinsed with the same volume of water and the rinse should be completely swallowed to ensure that the entire dose is administered.
+## 2.1 Recommended Dose in Advanced Hormone Receptor-Positive, HER2-Negative Breast Cancer, Advanced PNET, Advanced RCC, and Renal Angiomyolipoma with TSC
 
-Continue treatment as long as clinical benefit is observed or until unacceptable toxicity occurs.
+The recommended dose of AFINITOR Tablets is 10 mg, to be taken once daily at the same time every day.
+Administer either consistently with food or consistently without food [see Clinical Pharmacology (12.3)].
+AFINITOR Tablets should be swallowed whole with a glass of water.
+Do not break or crush tablets.
 
-## 2.1 Recommended Dose in Advanced Hormone Receptor-Positive, HER2-Negative Breast Cancer, Advanced PNET, Advanced RCC and Renal Angiomyolipoma with TSC
-
-The recommended dose of AFINITOR is 10 mg, to be taken once daily.
+Continue treatment until disease progression or unacceptable toxicity occurs.
 
 ## 2.2 Dose Modifications in Advanced Hormone Receptor-Positive, HER2-Negative Breast Cancer, Advanced PNET, Advanced RCC, and Renal Angiomyolipoma with TSC
 
-Management of Adverse Reactions
+Adverse Reactions
 
 Management of severe or intolerable adverse reactions may require temporary dose reduction and/or interruption of AFINITOR therapy.
 If dose reduction is required, the suggested dose is approximately 50% lower than the daily dose previously administered [see Warnings and Precautions (5)].
@@ -48,7 +46,7 @@ Table 1: AFINITOR Dose Adjustment and Management Recommendation for Adverse Reac
 | a Severity grade description: 1 = mild symptoms; 2 = moderate symptoms; 3 = severe symptoms; 4 = life-threatening symptoms. |  |  |
 | b If dose reduction is required, the suggested dose is approximately 50% lower than the dose previously administered. |  |  |
 | c Activities of daily living (ADL) |  |  |
-| d Avoid using agents containing hydrogen peroxide, iodine, and thyme derivatives in management of stomatitis as they may worsen mouth ulcers. |  |  |
+| d Avoid using agents containing alcohol, hydrogen peroxide, iodine, and thyme derivatives in management of stomatitis as they may worsen mouth ulcers. |  |  |
 
 Hepatic Impairment
 
@@ -56,9 +54,7 @@ Hepatic impairment will increase the exposure to everolimus [see Warnings and Pr
 Dose adjustments are recommended:
 
 - Mild hepatic impairment (Child-Pugh class A) – The recommended dose is 7.5 mg daily; the dose may be decreased to 5 mg if not well tolerated.
-
 - Moderate hepatic impairment (Child-Pugh class B) – The recommended dose is 5 mg daily; the dose may be decreased to 2.5 mg if not well tolerated.
-
 - Severe hepatic impairment (Child-Pugh class C) – If the desired benefit outweighs the risk, a dose of 2.5 mg daily may be used but must not be exceeded.
 
 Dose adjustments should be made if a patient’s hepatic (Child-Pugh) status changes during treatment.
@@ -74,6 +70,8 @@ An AFINITOR dose increase from 2.5 mg to 5 mg may be considered based on patient
 If the moderate inhibitor is discontinued, a washout period of approximately 2 to 3 days should be allowed before the AFINITOR dose is increased.
 If the moderate inhibitor is discontinued, the AFINITOR dose should be returned to the dose used prior to initiation of the moderate CYP3A4 and/or PgP inhibitor.
 
+Grapefruit, grapefruit juice, and other foods that are known to inhibit cytochrome P450 and PgP activity may increase everolimus exposures and should be avoided during treatment.
+
 Strong CYP3A4 Inducers
 
 Avoid the use of concomitant strong CYP3A4 inducers (e.g., phenytoin, carbamazepine, rifampin, rifabutin, rifapentine, phenobarbital).
@@ -82,81 +80,120 @@ This dose of AFINITOR is predicted, based on pharmacokinetic data, to adjust the
 However, there are no clinical data with this dose adjustment in patients receiving strong CYP3A4 inducers.
 If the strong inducer is discontinued, the AFINITOR dose should be returned to the dose used prior to initiation of the strong CYP3A4 inducer [see Warnings and Precautions (5.7) and Drug Interactions (7.2)].
 
-Grapefruit, grapefruit juice, and other foods that are known to inhibit cytochrome P450 and PgP activity may increase everolimus exposures and should be avoided during treatment.
 St. John’s Wort (Hypericum perforatum) may decrease everolimus exposure unpredictably and should be avoided.
 
-## 2.3 Recommended Dose in Subependymal Giant Cell Astrocytoma
+## 2.3 Recommended Dose in SEGA with TSC
 
-The recommended starting dose of AFINITOR for treatment of patients with SEGA is according to Table 2:
+The recommended starting dose is 4.5 mg/m2, once daily.
+The recommended starting dose for patients with severe hepatic impairment (Child-Pugh class C) or requiring moderate CYP3A4 and/or PgP inhibitors is 2.5 mg/m2, once daily [see Dosage and Administration (2.5)].
+The recommended starting dose for patients requiring a concomitant strong CYP3A4 inducer is 9 mg/m2, once daily [see Dosage and Administration (2.5)].
+Round dose to the nearest strength of either AFINITOR Tablets or AFINITOR DISPERZ.
 
-Table 2: Recommended Starting Dose of AFINITOR for Treatment of Patients with SEGA
+Use therapeutic drug monitoring to guide subsequent dosing [see Dosage and Administration (2.4)].
+Adjust dose at two week intervals as needed to achieve and maintain trough concentrations of 5 to 15 ng/mL [see Dosage and Administration (2.4, 2.5)].
 
-| Body Surface Area (BSA) | Starting Dose |
-| --- | --- |
-| 0.5 m2 to 1.2 m2 | 2.5 mg once daily |
-| 1.3 m2 to 2.1 m2 | 5 mg once daily |
-| Greater than or equal to 2.2 m2 | 7.5 mg once daily |
+Continue treatment until disease progression or unacceptable toxicity occurs.
+The optimal duration of therapy is unknown.
 
-Patients receiving AFINITOR may require dose adjustments based on everolimus whole blood trough concentrations achieved, tolerability, individual response, and change in concomitant medications including CYP3A4-inducing antiepileptic drugs [see Warnings and Precautions (5.7) and Drug Interactions (7.1, 7.2)].
-Dose adjustments can be made at two week intervals [see Dosage and Administration (2.4, 2.5)].
+## 2.4 Therapeutic Drug Monitoring in SEGA with TSC
 
-Evaluate SEGA volume approximately 3 months after commencing AFINITOR therapy and periodically thereafter, with subsequent dose adjustments taking into consideration changes in SEGA volume, corresponding trough concentration, and tolerability.
-Responses have been observed at trough concentrations as low as 3 ng/mL; as such, once acceptable efficacy has been achieved, additional dose increases may not be necessary.
+Monitor everolimus whole blood trough levels routinely in all patients.
+When possible, use the same assay and laboratory for therapeutic drug monitoring throughout treatment.
 
-AFINITOR has not been studied in patients with SEGA < 3 years of age or with BSA < 0.58 m2.
+Assess trough concentrations approximately two weeks after initiation of treatment, a change in dose, a change in co-administration of CYP3A4 and/or PgP inducers or inhibitors, a change in hepatic function, or a change in dosage form between AFINITOR Tablets and AFINITOR DISPERZ.
+Once a stable dose is attained, monitor trough concentrations every 3 to 6 months in patients with changing body surface area or every 6 to 12 months in patients with stable body surface area for the duration of treatment.
 
-The optimal duration of therapy for patients with SEGA is unknown.
+Titrate the dose to attain trough concentrations of 5 to 15 ng/mL.
 
-## 2.4 Dose Modifications in Subependymal Giant Cell Astrocytoma
+- For trough concentrations less than 5 ng/mL, increase the daily dose by 2.5 mg (in patients taking AFINITOR Tablets) or 2 mg (in patients taking AFINITOR DISPERZ).
+- For trough concentrations greater than 15 ng/mL, reduce the daily dose by 2.5 mg (in patients taking AFINITOR Tablets) or 2 mg (in patients taking AFINITOR DISPERZ).
+- If dose reduction is required for patients receiving the lowest available strength, administer every other day.
 
-Management of Adverse Reactions
+## 2.5 Dose Modifications in SEGA with TSC
 
-Management of severe or intolerable adverse reactions may require temporary dose reduction and/or interruption of AFINITOR therapy.
-If a dose reduction is required, the suggested dose is approximately 50% lower than the dose previously administered [see Table 1 in Dosage and Administration (2.2) and Warnings and Precautions (5].
-For dose reductions below the lowest available strength, consider alternate day dosing.
+Adverse Reactions
+
+Reduce dose or withhold AFINITOR Tablets or AFINITOR DISPERZ for severe or intolerable adverse reactions [see Warnings and Precautions (5)].
+Reduce the dose of AFINITOR Tablets or AFINITOR DISPERZ by approximately 50%.
+If dose reduction is required for patients receiving the lowest available strength, administer every other day [see Table 1 in Dosage and Administration (2.2)].
 
 Hepatic Impairment
 
-Adjustment to the recommended starting dose for patients with SEGA who have mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment may not be needed; however, subsequent dosing should be based on therapeutic drug monitoring (TDM).
-
-AFINITOR is not recommended for use in patients with SEGA who have severe hepatic impairment (Child-Pugh class C).
-
-Everolimus whole blood trough concentration should be assessed approximately 2 weeks after commencing treatment or after any change in hepatic status (Child-Pugh).
-Dosing should be titrated to attain trough concentrations of 5 to 10 ng/mL [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+- Reduce the starting dose of AFINITOR Tablets or AFINITOR DISPERZ by approximately 50% in patients with SEGA who have severe hepatic impairment (Child-Pugh class C) [see Dosage and Administration (2.3)].
+  Adjustment to the starting dose for patients with SEGA who have mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment may not be needed.
+  Subsequent dosing should be based on therapeutic drug monitoring.
+- Assess everolimus trough concentrations approximately two weeks after commencing treatment, a change in dose, or any change in hepatic function [see Dosage and Administration (2.3, 2.4)].
 
 CYP3A4 and/or P-glycoprotein (PgP) Inhibitors
 
-Avoid the use of strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, nefazodone, saquinavir, telithromycin, ritonavir, indinavir, nelfinavir, voriconazole) [see Warnings and Precautions (5.7) and Drug Interactions (7.1)].
+Avoid the use of concomitant strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, nefazodone, saquinavir, telithromycin, ritonavir, indinavir, nelfinavir, voriconazole) in patients receiving AFINITOR Tablets or AFINITOR DISPERZ [see Warnings and Precautions (5.7) and Drug Interactions (7.1)].
 
-Use caution when co-administered with moderate CYP3A4 and/or PgP inhibitors (e.g., amprenavir, fosamprenavir, aprepitant, erythromycin, fluconazole, verapamil, diltiazem).
-If patients require co-administration of a moderate CYP3A4 and/or PgP inhibitor, reduce the AFINITOR dose by approximately 50% to maintain trough concentrations of 5 to 10 ng/mL.
-If dose reduction is required for patients receiving 2.5 mg daily, consider alternate day dosing.
-Subsequent dosing should be individualized based on therapeutic drug monitoring.
-Everolimus trough concentrations should be assessed approximately 2 weeks after the addition of a moderate CYP3A4 and/or PgP inhibitor.
-If the moderate inhibitor is discontinued, the AFINITOR dose should be returned to the dose used prior to initiation of the moderate CYP3A4 and/or PgP inhibitor and the everolimus trough concentration should be re-assessed approximately 2 weeks later [see Dosage and Administration (2.5), Warnings and Precautions (5.7) and Drug Interactions (7.1)].
+For patients who require treatment with moderate CYP3A4 and/or PgP inhibitors (e.g., amprenavir, fosamprenavir, aprepitant, erythromycin, fluconazole, verapamil, diltiazem):
+
+- Reduce the AFINITOR Tablets or AFINITOR DISPERZ dose by approximately 50%.
+  Administer every other day if dose reduction is required for patients receiving the lowest available strength [see Dosage and Administration (2.3)].
+- Assess everolimus trough concentrations approximately two weeks after dose reduction [see Dosage and Administration (2.3, 2.4)].
+- Resume the dose that was used prior to initiating the CYP3A4 and/or PgP inhibitor 2 to 3 days after discontinuation of a moderate inhibitor.
+  Assess the everolimus trough concentration approximately two weeks later [see Dosage and Administration (2.3, 2.4)].
+
+Do not ingest foods or nutritional supplements (e.g., grapefruit, grapefruit juice) that are known to inhibit cytochrome P450 or PgP activity.
 
 Strong CYP3A4 Inducers
 
-Avoid the use of concomitant strong CYP3A4 inducers (e.g., phenytoin, carbamazepine, rifampin, rifabutin, rifapentine, phenobarbital).
-For patients requiring a concomitant strong CYP3A4 inducer, double the AFINITOR dose.
-Subsequent dosing should be individualized based on therapeutic drug monitoring.
-If the strong inducer is discontinued, the AFINITOR dose should be returned to the dose used prior to initiation of the strong CYP3A4 inducer and the everolimus trough concentrations should be assessed approximately 2 weeks later [see Dosage and Administration (2.5), Warnings and Precautions (5.7) and Drug Interactions (7.2)].
+Avoid the use of concomitant strong CYP3A4 inducers (e.g., phenytoin, carbamazepine, rifampin, rifabutin, rifapentine, phenobarbital) if alternative therapy is available [see Warnings and Precautions (5.7) and Drug Interactions (7.2)].
+For patients who require treatment with a strong CYP3A4 inducer:
 
-Grapefruit, grapefruit juice, and other foods that are known to inhibit cytochrome P450 and PgP activity may increase everolimus exposures and should be avoided during treatment.
-St. John’s Wort (Hypericum perforatum) may decrease everolimus exposure unpredictably and should be avoided.
+- Double the dose of AFINITOR Tablets or AFINITOR DISPERZ [see Dosage and Administration (2.3)].
+- Assess the everolimus trough concentration two weeks after doubling the dose and adjust the dose if necessary to maintain a trough concentration of 5 to 15 ng/mL [see Dosage and Administration (2.3, 2.4)].
+- Return the AFINITOR Tablets or AFINITOR DISPERZ dose to that used prior to initiating the strong CYP3A4 inducer if the strong inducer is discontinued, and assess the everolimus trough concentrations approximately two weeks later [see Dosage and Administration (2.3, 2.4)].
 
-## 2.5 Therapeutic Drug Monitoring in Subependymal Giant Cell Astrocytoma
+Do not ingest foods or nutritional supplements (e.g., St. John’s Wort (Hypericum perforatum)) that are known to induce cytochrome P450 activity.
 
-Routine everolimus whole blood therapeutic drug concentration monitoring is recommended for all patients using a validated assay.
-Trough concentrations should be assessed approximately 2 weeks after commencing treatment.
-Dosing should be titrated to attain trough concentrations of 5 to 10 ng/mL.
+## 2.6 Administration of AFINITOR Tablets in SEGA with TSC
 
-There is limited safety experience with patients having trough concentrations > 10 ng/mL.
-If concentrations are between 10 and 15 ng/mL, and the patient has demonstrated adequate tolerability and tumor response, no dose reductions are needed.
-The dose of AFINITOR should be reduced if trough concentrations > 15 ng/mL are observed.
+Do not combine the two dosage forms (AFINITOR Tablets and AFINITOR DISPERZ) to achieve the desired dose.
+Use one dosage form or the other.
 
-If concentrations are < 5 ng/mL, the daily dose may be increased by 2.5 mg every 2 weeks, subject to tolerability.
-Daily dose may be reduced by 2.5 mg every 2 weeks to attain a target of 5 to 10 ng/mL.
-If dose reduction is required for patients receiving 2.5 mg daily, alternate day dosing should be used.
+Administer AFINITOR Tablets orally once daily at the same time every day.
+Administer either consistently with food or consistently without food [see Clinical Pharmacology (12.3)].
 
-Trough concentrations should be assessed approximately 2 weeks after any change in dose, after an initiation or change in co-administration of CYP3A4 and/or PgP inducers or inhibitors, or after any change in hepatic status (Child-Pugh Classification) [see Dosage and Administration (2.4), Warnings and Precautions (5.7, 5.8), Drug Interactions (7.1, 7.2)].
+AFINITOR Tablets should be swallowed whole with a glass of water.
+Do not break or crush tablets.
+
+## 2.7 Administration and Preparation of AFINITOR DISPERZ in SEGA with TSC
+
+Do not combine the two dosage forms (AFINITOR Tablets and AFINITOR DISPERZ) to achieve the desired dose.
+Use one dosage form or the other.
+
+Administer AFINITOR DISPERZ (everolimus tablets for oral suspension) as a suspension only.
+
+Administer AFINITOR DISPERZ orally once daily at the same time every day.
+Administer either consistently with food or consistently without food [see Clinical Pharmacology (12.3)].
+
+Administer suspension immediately after preparation.
+Discard suspension if not administered within 60 minutes after preparation.
+
+Prepare suspension in water only.
+
+Using an oral syringe:
+
+- Place the prescribed dose of AFINITOR DISPERZ into a 10-mL syringe.
+  Do not exceed a total of 10 mg per syringe.
+  If higher doses are required, prepare an additional syringe.
+  Do not break or crush tablets.
+- Draw approximately 5 mL of water and 4 mL of air into the syringe.
+- Place the filled syringe into a container (tip up) for 3 minutes, until the AFINITOR DISPERZ tablets are in suspension.
+- Gently invert the syringe 5 times immediately prior to administration.
+- After administration of the prepared suspension, draw approximately 5 mL of water and 4 mL of air into the same syringe, and swirl the contents to suspend remaining particles.
+  Administer the entire contents of the syringe.
+
+Using a small drinking glass:
+
+- Place the prescribed dose of AFINITOR DISPERZ into a small drinking glass (maximum size 100 mL) containing approximately 25 mL of water.
+  Do not exceed a total of 10 mg of AFINITOR DISPERZ per glass.
+  If higher doses are required, prepare an additional glass.
+  Do not break or crush tablets.
+- Allow 3 minutes for suspension to occur.
+- Stir the contents gently with a spoon, immediately prior to drinking.
+- After administration of the prepared suspension, add 25 mL of water and stir with the same spoon to re-suspend remaining particles.
+  Administer the entire contents of the glass.

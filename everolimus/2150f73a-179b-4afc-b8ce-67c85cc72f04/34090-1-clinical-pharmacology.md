@@ -19,17 +19,12 @@ In TSC, a genetic disorder, inactivating mutations in either the TSC1 or the TSC
 
 ## 12.2 Pharmacodynamics
 
-QT/QTc Prolongation Potential
-
-In a randomized, placebo-controlled, crossover study, 59 healthy subjects were administered a single oral dose of AFINITOR (20 mg and 50 mg) and placebo.
-There is no indication of a QT/QTc prolonging effect of AFINITOR in single doses up to 50 mg.
-
 Exposure Response Relationships
 
 Markers of protein synthesis show that inhibition of mTOR is complete after a 10 mg daily dose.
 
 In patients with SEGA, higher everolimus trough concentrations appear to be associated with larger reductions in SEGA volume.
-However, as responses have been observed at trough concentrations as low as 3 ng/mL, once acceptable efficacy has been achieved, additional dose increase may not be necessary.
+However, as responses have been observed at trough concentrations as low as 5 ng/mL, once acceptable efficacy has been achieved, additional dose increase may not be necessary.
 
 ## 12.3 Pharmacokinetics
 
@@ -40,9 +35,14 @@ Following single doses, Cmax is dose-proportional between 5 mg and 10 mg.
 At doses of 20 mg and higher, the increase in Cmax is less than dose-proportional, however AUC shows dose-proportionality over the 5 mg to 70 mg dose range.
 Steady-state was achieved within 2 weeks following once-daily dosing.
 
+Dose Proportionality in Patients with SEGA and TSC: In patients with SEGA and TSC, everolimus Cmin was approximately dose-proportional within the dose range from 1.35 mg/m2 to 14.4 mg/m2.
+
 Food effect: In healthy subjects, high fat meals reduced systemic exposure to AFINITOR 10 mg tablet (as measured by AUC) by 22% and the peak blood concentration Cmax by 54%.
 Light fat meals reduced AUC by 32% and Cmax by 42%.
 Food, however, had no apparent effect on the post absorption phase concentration-time profile.
+
+Relative bioavailability of AFINITOR DISPERZ (everolimus tablets for oral suspension): The AUC0-∞ of AFINITOR DISPERZ was equivalent to that of AFINITOR Tablets; the Cmax of this dosage form was 20-36% lower than that of AFINITOR Tablets.
+The predicted trough concentrations at steady-state were similar after daily administration.
 
 Distribution
 
@@ -81,12 +81,14 @@ In another study, the average AUC of everolimus in eight subjects with moderate 
 For advanced HR+ BC, advanced PNET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment, AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
 For patients with moderate or mild hepatic impairment, a dose reduction is recommended [see Dosage and Administration (2.2)].
 
-For SEGA patients with mild (Child-Pugh class A) or moderate hepatic impairment (Child-Pugh class B), adjustment to the starting dose may not be needed; however, subsequent dosing should be individualized based on therapeutic drug monitoring [see Dosage and Administration (2.4, 2.5)].
-For SEGA patients with severe hepatic impairment (Child-Pugh class C), AFINITOR should not be used.
+For patients with SEGA and mild or moderate hepatic impairment, adjust the dose of AFINITOR Tablets or AFINITOR DISPERZ based on therapeutic drug monitoring.
+For patients with SEGA and severe hepatic impairment, reduce the starting dose of AFINITOR Tablets or AFINITOR DISPERZ by approximately 50% and adjust subsequent doses based on therapeutic drug monitoring [see Dosage and Administration (2.4, 2.5)].
 
 Effects of Age and Gender
 
 In a population pharmacokinetic evaluation in cancer patients, no relationship was apparent between oral clearance and patient age or gender.
+
+In patients with SEGA, the geometric mean Cmin values normalized to mg/m2 dose in patients aged < 10 years and 10 to 18 years were lower by 54% and 40%, respectively, than those observed in adults (> 18 years of age), suggesting that everolimus clearance normalized to body surface area was higher in pediatric patients as compared to adults.
 
 Ethnicity
 
@@ -96,6 +98,7 @@ Based on analysis of population pharmacokinetics, oral clearance (CL/F) is on av
 
 The significance of these differences on the safety and efficacy of everolimus in Japanese or Black patients has not been established.
 
-Dose Proportionality in Patients with SEGA
+## 12.6 QT/QTc Prolongation Potential
 
-In patients with SEGA, intra-patient steady-state trough concentrations were dose-proportional at daily doses of 1.5 to 14.6 mg/m2 [see Dosage and Administration (2.3, 2.4)].
+In a randomized, placebo-controlled, crossover study, 59 healthy subjects were administered a single oral dose of AFINITOR (20 mg and 50 mg) and placebo.
+There is no indication of a QT/QTc prolonging effect of AFINITOR in single doses up to 50 mg.

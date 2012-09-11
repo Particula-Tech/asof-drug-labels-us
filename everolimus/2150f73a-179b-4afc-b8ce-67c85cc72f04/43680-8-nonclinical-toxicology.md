@@ -9,7 +9,7 @@ Everolimus was not genotoxic in an in vivo mouse bone marrow micronucleus test a
 
 Based on non-clinical findings, male fertility may be compromised by treatment with AFINITOR.
 In a 13-week male fertility study in rats, testicular morphology was affected at 0.5 mg/kg and above.
-Sperm motility, sperm count, and plasma testosterone levels were diminished in rats treated with at 5 mg/kg.
+Sperm motility, sperm count, and plasma testosterone levels were diminished in rats treated with 5 mg/kg.
 These doses result in exposures which are within the range of therapeutic exposure (52 ng.hr/mL and 414 ng.hr/mL respectively compared to 560 ng.hr/mL human exposure at 10 mg/day), and resulted in infertility in the rats at 5 mg/kg.
 Effects on male fertility occurred at the AUC0-24h values below that of therapeutic exposure (approximately 10%-81% of the AUC0-24h in patients receiving the 10 mg daily dose).
 After a 10-13 week non-treatment period, the fertility index increased from zero (infertility) to 60% (12/20 mated females were pregnant).

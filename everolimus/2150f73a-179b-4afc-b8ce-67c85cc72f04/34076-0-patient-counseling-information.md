@@ -15,7 +15,7 @@ Patients should be aware of the signs and symptoms of infection and should repor
 ## 17.3 Oral Ulceration
 
 Inform patients of the possibility of developing mouth ulcers, stomatitis, and oral mucositis.
-In such cases, mouthwashes and/or topical treatments are recommended, but these should not contain alcohol or peroxide [see Warnings and Precautions (5.3)].
+In such cases, mouthwashes and/or topical treatments are recommended, but these should not contain alcohol, peroxide, iodine, or thyme [see Warnings and Precautions (5.3)].
 
 ## 17.4 Renal Failure
 
@@ -30,22 +30,32 @@ Inform patients of the need to monitor blood chemistry and hematology prior to t
 ## 17.6 Drug-drug Interactions
 
 Advise patients to inform their healthcare providers of all concomitant medications, including over-the-counter medications and dietary supplements.
-Inform the patients to avoid concomitant administration of strong CYP3A4 inhibitors or inducers while on AFINITOR treatment [see Dosage and Administration (2.2, 2.4), Warnings and Precautions (5.7), Drug Interactions (7.1, 7.2)].
+Inform the patients to avoid concomitant administration of strong CYP3A4 inhibitors or inducers while on AFINITOR treatment [see Dosage and Administration (2.2, 2.5), Warnings and Precautions (5.7), Drug Interactions (7.1, 7.2)].
 
 ## 17.7 Vaccinations
 
 Advise patients to avoid the use of live vaccines and close contact with those who have received live vaccines [see Warnings and Precautions (5.9)].
 
-## 17.8 Pregnancy
+## 17.8 Embryo-fetal Toxicity
 
-Advise female patients of childbearing potential that AFINITOR may cause fetal harm and that an effective method of contraception should be used during therapy with AFINITOR and for 8 weeks after ending treatment.
+Advise female patients of childbearing potential that AFINITOR may cause fetal harm and that a highly effective method of contraception should be used during therapy with AFINITOR and for 8 weeks after ending treatment [see Warnings and Precautions (5.10)].
 
-## 17.9 Dosing Instructions
+## 17.9 Safe Handling Practices for AFINITOR DISPERZ
 
-Inform patients to take AFINITOR orally once daily at the same time every day, either consistently with food or consistently without food.
-AFINITOR should be swallowed whole with a glass of water.
-For patients unable to swallow tablets, AFINITOR tablet(s) should be dispersed completely in a glass of water (containing approximately 30 mL) by gently stirring, immediately prior to drinking.
-The glass should be rinsed with the same volume of water and the rinse should be completely swallowed to ensure that the entire dose is administered.
+Advise patients and their caregivers to read and carefully follow the FDA approved AFINITOR DISPERZ “Instructions for Use” to minimize unintended exposure to AFINITOR.
+
+## 17.10 Dosing Instructions
+
+Advise patients that AFINITOR is available in two dosage forms: tablets (AFINITOR Tablets) and tablets for oral suspension (AFINITOR DISPERZ).
+AFINITOR DISPERZ is recommended only for the treatment of patients with SEGA and TSC in conjunction with therapeutic drug monitoring [see Dosage and Administration (2) and Clinical Pharmacology (12.3)].
+
+Inform patients to take AFINITOR Tablets orally once daily at the same time every day, either consistently with food or consistently without food.
+Inform patients that AFINITOR Tablets should be swallowed whole with a glass of water.
+
+Inform patients that AFINITOR DISPERZ should be taken as a suspension only and should not be swallowed whole.
+The suspension should be taken orally once daily at the same time every day, either consistently with food or consistently without food.
+Review the procedures for preparation of the AFINITOR DISPERZ suspension with patients [see Dosage and Administration (2.7)].
+Refer patients to the “Instructions for Use” pamphlet for additional information regarding these procedures.
 
 Instruct patients that if they miss a dose of AFINITOR, they may still take it up to 6 hours after the time they would normally take it.
 If more than 6 hours have elapsed, they should be instructed to skip the dose for that day.

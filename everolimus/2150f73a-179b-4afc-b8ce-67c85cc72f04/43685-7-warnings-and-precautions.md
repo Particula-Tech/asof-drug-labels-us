@@ -37,8 +37,8 @@ If a diagnosis of invasive systemic fungal infection is made, discontinue AFINIT
 ## 5.3 Oral Ulceration
 
 Mouth ulcers, stomatitis, and oral mucositis have occurred in patients treated with AFINITOR at an incidence ranging from 44-86% across the clinical trial experience.
-Grade 3 or 4 stomatitis was reported in 4-8% of patients [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)].
-In such cases, topical treatments are recommended, but alcohol- or peroxide-containing mouthwashes should be avoided as they may exacerbate the condition.
+Grade 3 or 4 stomatitis was reported in 4-9% of patients [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)].
+In such cases, topical treatments are recommended, but alcohol-, peroxide-, iodine-, or thyme- containing mouthwashes should be avoided as they may exacerbate the condition.
 Antifungal agents should not be used unless fungal infection has been diagnosed [see Drug Interactions (7.1)].
 
 ## 5.4 Renal Failure
@@ -47,7 +47,7 @@ Cases of renal failure (including acute renal failure), some with a fatal outcom
 
 ## 5.5 Geriatric Patients
 
-In the randomized advanced hormone receptor positive, HER2-negative breast cancer study, the incidence of deaths due to any cause within 28 days of the last AFINITOR dose was 6% in patients ≥ 65 years of age compared to 2% in patients < 65 years of age.
+In the randomized advanced hormone receptor-positive, HER2-negative breast cancer study, the incidence of deaths due to any cause within 28 days of the last AFINITOR dose was 6% in patients ≥ 65 years of age compared to 2% in patients < 65 years of age.
 Adverse reactions leading to permanent treatment discontinuation occurred in 33% of patients ≥ 65 years of age compared to 17% in patients < 65 years of age.
 Careful monitoring and appropriate dose adjustments for adverse reactions are recommended [see Dosage and Administration (2.2), Use in Specific Populations (8.5)].
 
@@ -71,11 +71,11 @@ Monitoring of complete blood count is recommended prior to the start of AFINITOR
 
 ## 5.7 Drug-drug Interactions
 
-Due to significant increases in exposure of everolimus, co-administration with strong CYP3A4 inhibitors should be avoided [see Dosage and Administration (2.2, 2.4) and Drug Interactions (7.1)].
+Due to significant increases in exposure of everolimus, co-administration with strong CYP3A4 inhibitors should be avoided [see Dosage and Administration (2.2, 2.5) and Drug Interactions (7.1)].
 
-A reduction of the AFINITOR dose is recommended when co-administered with a moderate CYP3A4 and/or PgP inhibitor [see Dosage and Administration (2.2, 2.4) and Drug Interactions (7.1)].
+A reduction of the AFINITOR dose is recommended when co-administered with a moderate CYP3A4 and/or PgP inhibitor [see Dosage and Administration (2.2, 2.5) and Drug Interactions (7.1)].
 
-An increase in the AFINITOR dose is recommended when co-administered with a strong CYP3A4 inducer [see Dosage and Administration (2.2, 2.4) and Drug Interactions (7.2)].
+An increase in the AFINITOR dose is recommended when co-administered with a strong CYP3A4 inducer [see Dosage and Administration (2.2, 2.5) and Drug Interactions (7.2)].
 
 ## 5.8 Hepatic Impairment
 
@@ -84,19 +84,19 @@ Exposure to everolimus was increased in patients with hepatic impairment [see Cl
 For advanced HR+ BC, advanced PNET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment (Child-Pugh class C), AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
 For patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment, a dose reduction is recommended [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
-For SEGA patients with severe hepatic impairment, AFINITOR is not recommended.
-For SEGA patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment, adjustment to the starting dose may not be needed; however subsequent dosing should be individualized based on therapeutic drug monitoring [see Dosage and Administration (2.4, 2.5)].
+For patients with SEGA and mild or moderate hepatic impairment, adjust the dose of AFINITOR Tablets or AFINITOR DISPERZ based on therapeutic drug monitoring.
+For patients with SEGA and severe hepatic impairment, reduce the starting dose of AFINITOR Tablets or AFINITOR DISPERZ by approximately 50% and adjust subsequent doses based on therapeutic drug monitoring [see Dosage and Administration (2.4, 2.5)].
 
 ## 5.9 Vaccinations
 
-The use of live vaccines and close contact with those who have received live vaccines should be avoided during treatment with AFINITOR.
-Examples of live vaccines are: intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines.
+During AFINITOR treatment, avoid the use of live vaccines and avoid close contact with individuals who have received live vaccines (e.g., intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines).
 
-The timing of routine vaccinations in pediatric patients with SEGA should be considered prior to the start of everolimus therapy.
+For pediatric patients with SEGA that do not require immediate treatment, complete the recommended childhood series of live virus vaccinations according to American Council on Immunization Practices (ACIP) guidelines prior to the start of therapy.
+An accelerated vaccination schedule may be appropriate.
 
 ## 5.10 Embryo-fetal Toxicity
 
 There are no adequate and well-controlled studies of AFINITOR in pregnant women; however, based on the mechanism of action, AFINITOR can cause fetal harm.
 Everolimus caused embryo-fetal toxicities in animals at maternal exposures that were lower than human exposures.
 If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
-Women of childbearing potential should be advised to use an effective method of contraception while using AFINITOR and for up to 8 weeks after ending treatment [see Use in Specific Populations (8.1)].
+Women of childbearing potential should be advised to use a highly effective method of contraception while using AFINITOR and for up to 8 weeks after ending treatment [see Use in Specific Populations (8.1)].

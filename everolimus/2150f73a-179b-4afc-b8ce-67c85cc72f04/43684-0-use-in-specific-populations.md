@@ -6,8 +6,8 @@ Pregnancy Category D [see Warnings and Precautions (5.10)].
 
 There are no adequate and well-controlled studies of AFINITOR in pregnant women; however, based on the mechanism of action, AFINITOR can cause fetal harm when administered to a pregnant woman.
 Everolimus caused embryo-fetal toxicities in animals at maternal exposures that were lower than human exposures.
-If this drug is used during pregnancy or if the patient becomes pregnant while taking the drug, the patient should be apprised of the potential hazard to a fetus.
-Women of childbearing potential should be advised to use an effective method of contraception while receiving AFINITOR and for up to 8 weeks after ending treatment.
+If this drug is used during pregnancy or if the patient becomes pregnant while taking the drug, the patient should be apprised of the potential hazard to the fetus.
+Women of childbearing potential should be advised to use a highly effective method of contraception while receiving AFINITOR and for up to 8 weeks after ending treatment.
 
 In animal reproductive studies, oral administration of everolimus to female rats before mating and through organogenesis induced embryo-fetal toxicities, including increased resorption, pre-implantation and post-implantation loss, decreased numbers of live fetuses, malformation (e.g., sternal cleft), and retarded skeletal development.
 These effects occurred in the absence of maternal toxicities.
@@ -27,11 +27,27 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-AFINITOR is recommended for use only in patients with SEGA who are aged ≥ 3 years.
+Pediatric use of AFINITOR Tablets and AFINITOR DISPERZ is recommended for patients 1 year of age and older with TSC for the treatment of SEGA that requires therapeutic intervention but cannot be curatively resected.
+The safety and effectiveness of AFINITOR Tablets and AFINITOR DISPERZ have not been established in pediatric patients with renal angiomyolipoma with TSC in the absence of SEGA.
 
-A prospective, open-label, single-arm trial was conducted to evaluate the safety and efficacy of AFINITOR in patients with SEGA associated with TSC.
-In total, 28 patients received treatment with AFINITOR; median age was 11 years (range 3 34).
-AFINITOR has not been studied in patients with SEGA < 3 years of age.
+The effectiveness of AFINITOR in pediatric patients with SEGA was demonstrated in two clinical trials based on demonstration of durable objective response, as evidenced by reduction in SEGA tumor volume [see Clinical Studies (14.5)].
+Improvement in disease-related symptoms and overall survival in pediatric patients with SEGA has not been demonstrated.
+The long term effects of AFINITOR on growth and pubertal development are unknown.
+
+Study 1 was a randomized, double-blind, multicenter trial comparing AFINITOR (n=78) to placebo (n=39) in pediatric and adult patients.
+The median age was 9.5 years (range 0.8 to 26 years).
+At the time of randomization, a total of 20 patients were < 3 years of age, 54 patients were 3 to < 12 years of age, 27 patients were 12 to < 18 years of age, and 16 patients were ≥ 18 years of age.
+The overall nature, type, and frequency of adverse reactions across the age groups evaluated were similar, with the exception of a higher per patient incidence of infectious serious adverse events in patients < 3 years of age.
+A total of 6 of 13 patients (46%) < 3 years of age had at least one serious adverse event due to infection, compared to 2 of 7 patients (29%) treated with placebo.
+No patient in any age group discontinued AFINITOR due to infection [see Adverse Reactions (6.5)].
+Subgroup analyses showed reduction in SEGA volume with AFINITOR treatment in all pediatric age subgroups.
+
+Study 2 was an open-label, single-arm, single-center trial of AFINITOR (N=28) in patients aged ≥ 3 years; median age was 11 years (range 3 to 34 years).
+A total of 16 patients were 3 to < 12 years, 6 patients were 12 to < 18 years, and 6 patients were ≥ 18 years.
+The frequency of adverse reactions across the age groups was generally similar [see Adverse Reactions (6.5)].
+Subgroup analyses showed reductions in SEGA volume with AFINITOR treatment in all pediatric age subgroups.
+
+Everolimus clearance normalized to body surface area was higher in pediatric patients than in adults with SEGA [see Clinical Pharmacology (12.3)].The recommended starting dose and subsequent requirement for therapeutic drug monitoring to achieve and maintain trough concentrations of 5 to 15 ng/mL are the same for adult and pediatric patients with SEGA [see Dosage and Administration (2.3, 2.4)].
 
 ## 8.5 Geriatric Use
 
@@ -61,5 +77,6 @@ Exposure was increased in patients with mild (Child-Pugh class A), moderate (Chi
 For advanced HR+ BC, advanced PNET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment, AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
 For patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment, a dose reduction is recommended [see Dosage and Administration (2.2)].
 
-For SEGA patients with severe hepatic impairment (Child-Pugh class C), AFINITOR is not recommended.
-For SEGA patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment, adjustment to the starting dose may not be needed; however, subsequent dosing should be individualized based on therapeutic drug monitoring [see Dosage and Administration (2.4, 2.5)].
+For patients with SEGA who have severe hepatic impairment (Child-Pugh class C), reduce the starting dose of AFINITOR Tablets or AFINITOR DISPERZ by approximately 50%.
+For patients with SEGA who have mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment, adjustment to the starting dose may not be needed.
+Subsequent dosing should be based on therapeutic drug monitoring [see Dosage and Administration (2.4, 2.5)].
