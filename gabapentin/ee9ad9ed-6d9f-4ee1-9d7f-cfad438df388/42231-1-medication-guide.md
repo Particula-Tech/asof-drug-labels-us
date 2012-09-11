@@ -164,4 +164,7 @@ Inactive ingredients in the oral solution: glycerin, xylitol, purified water, an
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0397-3.0 September 2011
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com
+
+LAB-0397-4.0 July 2012
