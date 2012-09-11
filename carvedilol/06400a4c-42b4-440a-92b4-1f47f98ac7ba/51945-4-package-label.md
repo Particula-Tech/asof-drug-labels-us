@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL
+Principal Display Panel
 
 NDC 0007-3370-13
 
@@ -8,13 +8,17 @@ COREG CRTM
 
 Extended-release Capsules
 
-Rx only
+10 mg
 
 30 Capsules
 
-10 mg
+Rx only
 
 ONCE-A-DAY DOSING
+
+www.CoregCR.com
+
+Call 1-800-496-9181
 
 Each extended-release capsule contains 10 mg of carvedilol phosphate.
 Store at 25oC (77oF) [see USP].
@@ -29,12 +33,10 @@ GlaxoSmithKline, Research Triangle Park, NC 27709
 
 Made in Ireland
 
-©2007, GlaxoSmithKline Rev.
-2/07 10000000037773
+©2011, GlaxoSmithKline Rev.
+11/11
 
-www.CoregCR.com
-
-Call 1-800-496-9181
+10000000100739
 
 Principal Display Panel
 
@@ -48,11 +50,15 @@ Extended-release Capsules
 
 20 mg
 
-Rx only
-
 30 Capsules
 
+Rx only
+
 ONCE-A-DAY DOSING
+
+www.CoregCR.com
+
+Call 1-800-496-9181
 
 Each extended-release capsule contains 20 mg of carvedilol phosphate.
 Store at 25oC (77oF) [see USP].
@@ -67,12 +73,10 @@ GlaxoSmithKline, Research Triangle Park, NC 27709
 
 Made in Ireland
 
-©2007, GlaxoSmithKline Rev.
-2/07 10000000037774
+©2011, GlaxoSmithKline Rev.
+11/11
 
-www.CoregCR.com
-
-Call 1-800-496-9181
+10000000100740
 
 Principal Display Panel
 
@@ -86,11 +90,15 @@ Extended-release Capsules
 
 40 mg
 
-Rx only
-
 30 Capsules
 
+Rx only
+
 ONCE-A-DAY DOSING
+
+www.CoregCR.com
+
+Call 1-800-496-9181
 
 Each extended-release capsule contains 40 mg of carvedilol phosphate.
 Store at 25oC (77oF) [see USP].
@@ -105,12 +113,10 @@ GlaxoSmithKline, Research Triangle Park, NC 27709
 
 Made in Ireland
 
-©2007, GlaxoSmithKline Rev.
-2/07 10000000037775
+©2011, GlaxoSmithKline Rev.
+11/11
 
-www.CoregCR.com
-
-Call 1-800-496-9181
+10000000100791
 
 Principal Display Panel
 
@@ -124,11 +130,15 @@ Extended-release Capsules
 
 80 mg
 
-Rx only
-
 30 Capsules
 
+Rx only
+
 ONCE-A-DAY DOSING
+
+www.CoregCR.com
+
+Call 1-800-496-9181
 
 Each extended-release capsule contains 80 mg of carvedilol phosphate.
 Store at 25oC (77oF) [see USP].
@@ -143,9 +153,7 @@ GlaxoSmithKline, Research Triangle Park, NC 27709
 
 Made in Ireland
 
-©2007, GlaxoSmithKline Rev.
-2/07 10000000037776
+©2011, GlaxoSmithKline Rev.
+11/11
 
-www.CoregCR.com
-
-Call 1-800-496-9181
+10000000100792

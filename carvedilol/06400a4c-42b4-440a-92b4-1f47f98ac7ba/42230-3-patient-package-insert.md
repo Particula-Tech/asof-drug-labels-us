@@ -20,9 +20,9 @@ What is COREG CR?
 COREG CR is a prescription medicine that belongs to a group of medicines called “beta-blockers”.
 COREG CR is used, often with other medicines, for the following conditions:
 
-- to treat patients with certain types of heart failure
-- to treat patients who had a heart attack that worsened how well the heart pumps
-- to treat patients with high blood pressure (hypertension)
+- •to treat patients with certain types of heart failure
+- •to treat patients who had a heart attack that worsened how well the heart pumps
+- •to treat patients with high blood pressure (hypertension)
 
 COREG CR is not approved for use in children under 18 years of age.
 
@@ -30,30 +30,30 @@ Who should not take COREG CR?
 
 Do not take COREG CR if you:
 
-- have severe heart failure and require certain intravenous medicines that help support circulation.
-- have asthma or other breathing problems.
-- have a slow heartbeat or certain conditions that cause your heart to skip a beat (irregular heartbeat).
-- have liver problems.
-- are allergic to any of the ingredients in COREG CR.
+- •have severe heart failure and require certain intravenous medicines that help support circulation.
+- •have asthma or other breathing problems.
+- •have a slow heartbeat or certain conditions that cause your heart to skip a beat (irregular heartbeat).
+- •have liver problems.
+- •are allergic to any of the ingredients in COREG CR.
   See “What are the ingredients in COREG CR?”
 
 What should I tell my doctor before taking COREG CR?
 
 Tell your doctor about all of your medical conditions, including if you:
 
-- have asthma or other lung problems (such as bronchitis or emphysema).
-- have problems with blood flow in your feet and legs (peripheral vascular disease).
+- •have asthma or other lung problems (such as bronchitis or emphysema).
+- •have problems with blood flow in your feet and legs (peripheral vascular disease).
   COREG CR can make some of your symptoms worse.
-- have diabetes.
-- have thyroid problems.
-- have a condition called pheochromocytoma.
-- have had severe allergic reactions.
-- are scheduled for surgery and will be given anesthetic agents.
-- are scheduled for cataract surgery and have taken or are currently taking COREG CR.
-- are pregnant or trying to become pregnant.
+- •have diabetes.
+- •have thyroid problems.
+- •have a condition called pheochromocytoma.
+- •have had severe allergic reactions.
+- •are scheduled for surgery and will be given anesthetic agents.
+- •are scheduled for cataract surgery and have taken or are currently taking COREG CR.
+- •are pregnant or trying to become pregnant.
   It is not known if COREG CR is safe for your unborn baby.
   You and your doctor should talk about the best way to control your high blood pressure during pregnancy.
-- are breastfeeding.
+- •are breastfeeding.
   It is not known if COREG CR passes into your breast milk.
   You should not breastfeed while using COREG CR.
 
@@ -67,21 +67,21 @@ Keep a list of your medicines and show it to your doctor and pharmacist before y
 
 How should I take COREG CR?
 
-- Take COREG CR exactly as prescribed.
+- •Take COREG CR exactly as prescribed.
   Take COREG CR one time each day with food.
   It is important that you take COREG CR only one time each day.
   To lessen possible side effects, your doctor might begin with a low dose and then slowly increase the dose.
-- Swallow COREG CR capsules whole.
+- •Swallow COREG CR capsules whole.
   Do not chew or crush COREG CR capsules.
-- If you have trouble swallowing COREG CR whole:
-  - The capsule may be carefully opened and the beads sprinkled over a spoonful of applesauce which should be eaten right away.
+- •If you have trouble swallowing COREG CR whole:
+  - ∘The capsule may be carefully opened and the beads sprinkled over a spoonful of applesauce which should be eaten right away.
     The applesauce should not be warm.
-  - Do not sprinkle beads on foods other than applesauce.
-- Do not stop taking COREG CR and do not change the amount of COREG CR you take without talking to your doctor.
-- If you miss a dose of COREG CR, take your dose as soon as you remember, unless it is time to take your next dose.
+  - ∘Do not sprinkle beads on foods other than applesauce.
+- •Do not stop taking COREG CR and do not change the amount of COREG CR you take without talking to your doctor.
+- •If you miss a dose of COREG CR, take your dose as soon as you remember, unless it is time to take your next dose.
   Take your next dose at the usual time.
   Do not take 2 doses at the same time.
-- If you take too much COREG CR, call your doctor or poison control center right away.
+- •If you take too much COREG CR, call your doctor or poison control center right away.
 
 What should I avoid while taking COREG CR?
 
@@ -92,23 +92,23 @@ What are possible side effects of COREG CR?
 
 Serious side effects of COREG CR include:
 
-- chest pain and heart attack if you suddenly stop taking COREG CR.See “What is the most important information I should know about COREG CR?”
-- slow heart beat.
-- low blood pressure (which may cause dizziness or fainting when you stand up).
+- •chest pain and heart attack if you suddenly stop taking COREG CR.See “What is the most important information I should know about COREG CR?”
+- •slow heart beat.
+- •low blood pressure (which may cause dizziness or fainting when you stand up).
   If these happen, sit or lie down, and tell your doctor right away.
-- worsening heart failure.
+- •worsening heart failure.
   Tell your doctor right away if you have signs and symptoms that your heart failure may be worse, such as weight gain or increased shortness of breath.
-- changes in your blood sugar.
+- •changes in your blood sugar.
   If you have diabetes, tell your doctor if you have any changes in your blood sugar levels.
-- masking (hiding) the symptoms of low blood sugar, especially a fast heartbeat.
-- new or worsening symptoms of peripheral vascular disease.
-  - leg pain that happens when you walk, but goes away when you rest
-  - no feeling (numbness) in your legs or feet while you are resting
-  - cold legs or feet
-- masking the symptoms of hyperthyroidism (overactive thyroid), such as a fast heartbeat.
-- worsening of severe allergic reactions.
+- •masking (hiding) the symptoms of low blood sugar, especially a fast heartbeat.
+- •new or worsening symptoms of peripheral vascular disease.
+  - ∘leg pain that happens when you walk, but goes away when you rest
+  - ∘no feeling (numbness) in your legs or feet while you are resting
+  - ∘cold legs or feet
+- •masking the symptoms of hyperthyroidism (overactive thyroid), such as a fast heartbeat.
+- •worsening of severe allergic reactions.
   Medicines to treat a severe allergic reaction may not work as well while you are taking COREG CR.
-- rare but serious allergic reactions (including hives or swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing) have happened in patients who were on COREG or COREG CR.
+- •rare but serious allergic reactions (including hives or swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing) have happened in patients who were on COREG or COREG CR.
   These reactions can be life-threatening.
   In some cases, these reactions happened in patients who had been on COREG before taking COREG CR.
 
