@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA015296"
+  ],
+  "inn": "fluocinolone-acetonide",
+  "labeler": "Medimetriks Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "43538-920-60",
+    "43538-921-60"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "fluocinolone acetonide",
+      "name": "Synalar"
+    },
+    {
+      "form": "KIT",
+      "generic": "fluocinolone acetonide",
+      "name": "Synalar TS"
+    }
+  ],
+  "setid": "4feecef4-553f-4a90-a3ce-a19eb04bd68e",
+  "source": "dailymed"
+}
