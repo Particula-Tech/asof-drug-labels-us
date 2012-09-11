@@ -4,7 +4,7 @@
 
 ### Teratogenic Effects
 
-Pregnancy category X [see Contraindications (4.1)]
+Pregnancy Category X [see Contraindications (4.1)]
 
 Anastrozole may cause fetal harm when administered to a pregnant woman and offers no clinical benefit to premenopausal women with breast cancer.
 Anastrozole is contraindicated in women who are or may become pregnant.
@@ -25,10 +25,39 @@ Because many drugs are excreted in human milk and because of the tumorigenicity 
 
 ## 8.4 Pediatric Use
 
-The efficacy of anastrozole tablets in the treatment of pubertal gynecomastia in adolescent boys and in the treatment of precocious puberty in girls with McCune-Albright Syndrome has not been demonstrated.
+Clinical studies in pediatric patients included a placebo-controlled trial in pubertal boys of adolescent age with gynecomastia and a single-arm trial in girls with McCune-Albright syndrome and progressive precocious puberty.
+The efficacy of anastrozole tablets in the treatment of pubertal gynecomastia in adolescent boys and in the treatment of precocious puberty in girls with McCune-Albright syndrome has not been demonstrated.
 
-Labeling describing clinical trials and pharmacokinetic studies of anastrozole in pubertal boys of adolescent age with gynecomastia and in girls with McCune-Albright Syndrome and progressive precocious puberty is approved for AstraZeneca Pharmaceuticals LP's Arimidex®.
-However, due to AstraZeneca Pharmaceuticals LP's marketing exclusivity rights, a description of those trials and studies is not approved for this anastrozole labeling.
+### Gynecomastia Study
+
+A randomized, double-blind, placebo-controlled, multi-center study enrolled 80 boys with pubertal gynecomastia aged 11 to 18 years.
+Patients were randomized to a daily regimen of either anastrozole tablets 1 mg or placebo.
+After 6 months of treatment there was no statistically significant difference in the percentage of patients who experienced a ≥ 50% reduction in gynecomastia (primary efficacy analysis).
+Secondary efficacy analyses (absolute change in breast volume, the percentage of patients who had any reduction in the calculated volume of gynecomastia, breast pain resolution) were consistent with the primary efficacy analysis.
+Serum estradiol concentrations at Month 6 of treatment were reduced by 15.4% in the anastrozole group and 4.5% in the placebo group.
+
+Adverse reactions that were assessed as treatment-related by the investigators occurred in 16.3% of the anastrozole -treated patients and 8.1% of the placebo-treated patients with the most frequent being acne (7% anastrozole and 2.7% placebo) and headache (7% anastrozole and 0% placebo); all other adverse reactions showed small differences between treatment groups.
+One patient treated with anastrozole tablets discontinued the trial because of testicular enlargement.
+The mean baseline-subtracted change in testicular volume after 6 months of treatment was + 6.6 ± 7.9 cm3 in the anastrozole -treated patients and + 5.2 ± 8 cm3 in the placebo group.
+
+### McCune-Albright Syndrome Study
+
+A multi-center, single-arm, open-label study was conducted in 28 girls with McCune-Albright syndrome and progressive precocious puberty aged 2 to < 10 years.
+All patients received a 1 mg daily dose of anastrozole tablets.
+The trial duration was 12 months.
+Patients were enrolled on the basis of a diagnosis of typical (27/28) or atypical (1/27) McCune-Albright syndrome, precocious puberty, history of vaginal bleeding, and/or advanced bone age.
+Patients’ baseline characteristics included the following: a mean chronological age of 5.9 ± 2 years, a mean bone age of 8.6 ± 2.6 years, a mean growth rate of 7.9 ± 2.9 cm/year and a mean Tanner stage for breast of 2.7 ± 0.81.
+Compared to pre-treatment data there were no on-treatment statistically significant reductions in the frequency of vaginal bleeding days, or in the rate of increase of bone age (defined as a ratio between the change in bone age over the change of chronological age).
+There were no clinically significant changes in Tanner staging, mean ovarian volume, mean uterine volume and mean predicted adult height.
+A small but statistically significant reduction of growth rate from 7.9 ± 2.9 cm/year to 6.5 ± 2.8 cm/year was observed but the absence of a control group precludes attribution of this effect to treatment or to other confounding factors such as variations in endogenous estrogen levels commonly seen in McCune-Albright syndrome patients.
+
+Five patients (18%) experienced adverse reactions that were considered possibly related to anastrozole tablets.
+These were nausea, acne, pain in an extremity, increased alanine transaminase and aspartate transaminase, and allergic dermatitis.
+
+### Pharmacokinetics in Pediatric Patients
+
+Following 1 mg once daily multiple administration in pediatric patients, the mean time to reach the maximum anastrozole concentration was 1 hr. The mean (range) disposition parameters of anastrozole in pediatric patients were described by a CL/F of 1.54 L/h (0.77 to 4.53 L/h) and V/F of 98.4 L (50.7 to 330 L). The terminal elimination half-life was 46.8 h, which was similar to that observed in postmenopausal women treated with anastrozole for breast cancer.
+Based on a population pharmacokinetic analysis, the pharmacokinetics of anastrozole was similar in boys with pubertal gynecomastia and girls with McCune-Albright syndrome.
 
 ## 8.5 Geriatric Use
 
@@ -38,7 +67,7 @@ In studies 0004 and 0005, 50% of patients were 65 or older.
 Response rates and time to progression were similar for the over 65 and younger patients.
 
 In the ATAC study, 45% of patients were 65 years of age or older.
-The efficacy of anastrozole compared to tamoxifen in patients who were 65 years or older (N = 1413 for anastrozole and N = 1410 for tamoxifen, the hazard ratio for disease-free survival was 0.93 [95% CI: 0.80, 1.08]) was less than efficacy observed in patients who were less than 65 years of age (N = 1712 for anastrozole and N = 1706 for tamoxifen, the hazard ratio for disease-free survival was 0.79 [95% CI: 0.67, 0.94]).
+The efficacy of anastrozole compared to tamoxifen in patients who were 65 years or older (N = 1413 for anastrozole and N = 1410 for tamoxifen, the hazard ratio for disease-free survival was 0.93 [95% CI: 0.8, 1.08]) was less than efficacy observed in patients who were less than 65 years of age (N = 1712 for anastrozole and N = 1706 for tamoxifen, the hazard ratio for disease-free survival was 0.79 [95% CI: 0.67, 0.94]).
 
 The pharmacokinetics of anastrozole are not affected by age.
 

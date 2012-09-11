@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-A conventional carcinogenesis study in rats at doses of 1.0 to 25 mg/kg/day (about 10 to 243 times the daily maximum recommended human dose on a mg/m2 basis) administered by oral gavage for up to 2 years revealed an increase in the incidence of hepatocellular adenoma and carcinoma and uterine stromal polyps in females and thyroid adenoma in males at the high dose.
+A conventional carcinogenesis study in rats at doses of 1 to 25 mg/kg/day (about 10 to 243 times the daily maximum recommended human dose on a mg/m2 basis) administered by oral gavage for up to 2 years revealed an increase in the incidence of hepatocellular adenoma and carcinoma and uterine stromal polyps in females and thyroid adenoma in males at the high dose.
 A dose-related increase was observed in the incidence of ovarian and uterine hyperplasia in females.
 At 25 mg/kg/day, plasma AUC0-24 hr levels in rats were 110 to 125 times higher than the level exhibited in postmenopausal volunteers at the recommended dose.
 A separate carcinogenicity study in mice at oral doses of 5 to 50 mg/kg/day (about 24 to 243 times the daily maximum recommended human dose on a mg/m2 basis) for up to 2 years produced an increase in the incidence of benign ovarian stromal, epithelial and granulosa cell tumors at all dose levels.
@@ -31,5 +31,5 @@ Studies in both rats and rabbits at doses equal to or greater than 0.1 and 0.02 
 Placental weights were significantly increased in rats at doses of 0.1 mg/kg/day or more.
 
 Evidence of fetotoxicity, including delayed fetal development (i.e., incomplete ossification and depressed fetal body weights), was observed in rats administered doses of 1 mg/kg/day (which produced plasma anastrozole Cssmax and AUC0-24 hr that were 19 times and 9 times higher than the respective values found in postmenopausal volunteers at the recommended dose).
-There was no evidence of teratogenicity in rats administered doses up to 1.0 mg/kg/day.
-In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 1.0 mg/kg/day (about 16 times the recommended human dose on a mg/m2 basis); there was no evidence of teratogenicity in rabbits administered 0.2 mg/kg/day (about 3 times the recommended human dose on a mg/m2 basis).
+There was no evidence of teratogenicity in rats administered doses up to 1 mg/kg/day.
+In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 1 mg/kg/day (about 16 times the recommended human dose on a mg/m2 basis); there was no evidence of teratogenicity in rabbits administered 0.2 mg/kg/day (about 3 times the recommended human dose on a mg/m2 basis).

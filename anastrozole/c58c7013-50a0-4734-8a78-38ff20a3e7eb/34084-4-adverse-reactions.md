@@ -91,24 +91,24 @@ Table 2 — Number of Patients With Pre-Specified Adverse Reactions in ATAC Tria
 
 |  | Anastrozole N = 3092 (%) | Tamoxifen N = 3094 (%) | Odds- ratio | 95% CI |
 | --- | --- | --- | --- | --- |
-| Hot Flashes | 1104 (36) | 1264 (41) | 0.80 | 0.73 to 0.89 |
+| Hot Flashes | 1104 (36) | 1264 (41) | 0.8 | 0.73 to 0.89 |
 | Musculoskeletal EventsRefers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia. | 1100 (36) | 911 (29) | 1.32 | 1.19 to 1.47 |
 | Fatigue/Asthenia | 575 (19) | 544 (18) | 1.07 | 0.94 to 1.22 |
-| Mood Disturbances | 597 (19) | 554 (18) | 1.10 | 0.97 to 1.25 |
+| Mood Disturbances | 597 (19) | 554 (18) | 1.1 | 0.97 to 1.25 |
 | Nausea and Vomiting | 393 (13) | 384 (12) | 1.03 | 0.88 to 1.19 |
-| All Fractures | 315 (10) | 209 (7) | 1.57 | 1.30 to 1.88 |
+| All Fractures | 315 (10) | 209 (7) | 1.57 | 1.3 to 1.88 |
 | Fractures of Spine, Hip, or Wrist | 133 (4) | 91 (3) | 1.48 | 1.13 to 1.95 |
 | Wrist/Colles’ fractures | 67 (2) | 50 (2) |  |  |
 | Spine fractures | 43 (1) | 22 (1) |  |  |
 | Hip fractures | 28 (1) | 26 (1) |  |  |
 | Cataracts | 182 (6) | 213 (7) | 0.85 | 0.69 to 1.04 |
-| Vaginal Bleeding | 167 (5) | 317 (10) | 0.50 | 0.41 to 0.61 |
-| Ischemic Cardiovascular Disease | 127 (4) | 104 (3) | 1.23 | 0.95 to 1.60 |
-| Vaginal Discharge | 109 (4) | 408 (13) | 0.24 | 0.19 to 0.30 |
-| Venous Thromboembolic events | 87 (3) | 140 (5) | 0.61 | 0.47 to 0.80 |
+| Vaginal Bleeding | 167 (5) | 317 (10) | 0.5 | 0.41 to 0.61 |
+| Ischemic Cardiovascular Disease | 127 (4) | 104 (3) | 1.23 | 0.95 to 1.6 |
+| Vaginal Discharge | 109 (4) | 408 (13) | 0.24 | 0.19 to 0.3 |
+| Venous Thromboembolic events | 87 (3) | 140 (5) | 0.61 | 0.47 to 0.8 |
 | Deep Venous Thromboembolic Events | 48 (2) | 74 (2) | 0.64 | 0.45 to 0.93 |
-| Ischemic Cerebrovascular Event | 62 (2) | 88 (3) | 0.70 | 0.50 to 0.97 |
-| Endometrial CancerPercentages calculated based upon the numbers of patients with an intact uterus at baseline. | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 to 0.94 |
+| Ischemic Cerebrovascular Event | 62 (2) | 88 (3) | 0.7 | 0.5 to 0.97 |
+| Endometrial CancerPercentages calculated based upon the numbers of patients with an intact uterus at baseline. | 4 (0.2) | 13 (0.6) | 0.31 | 0.1 to 0.94 |
 
 Ischemic Cardiovascular Events
 
@@ -246,7 +246,7 @@ Table 4 - Number of Patients With Pre-Specified Adverse Reactions in Trials 0030
 
 Second-Line Therapy
 
-Anastrozole was tolerated in two controlled clinical trials (i.e., Trials 0004 and 0005), with less than 3.3% of the anastrozole-treated patients and 4.0% of the megestrol acetate-treated patients withdrawing due to an adverse reaction.
+Anastrozole was tolerated in two controlled clinical trials (i.e., Trials 0004 and 0005), with less than 3.3% of the anastrozole-treated patients and 4% of the megestrol acetate-treated patients withdrawing due to an adverse reaction.
 
 The principal adverse reaction more common with anastrozole than megestrol acetate was diarrhea.
 Adverse reactions reported in greater than 5% of the patients in any of the treatment groups in these two controlled clinical trials, regardless of causality, are presented below:
@@ -310,9 +310,7 @@ Skin and Appendages: Hair thinning (alopecia); pruritus
 
 Urogenital: Urinary tract infection; breast pain
 
-The incidences of the following adverse reaction
-
-groups potentially causally related to one or both of the therapies because of their pharmacology, were statistically analyzed: weight gain, edema, thromboembolic disease, gastrointestinal disturbance, hot flushes, and vaginal dryness.
+The incidences of the following adverse reaction groups potentially causally related to one or both of the therapies because of their pharmacology, were statistically analyzed: weight gain, edema, thromboembolic disease, gastrointestinal disturbance, hot flushes, and vaginal dryness.
 These six groups, and the adverse reactions captured in the groups, were prospectively defined.
 The results are shown in the table below.
 

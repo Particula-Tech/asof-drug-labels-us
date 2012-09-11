@@ -1,8 +1,6 @@
 # PATIENT INFORMATION
 
-ANASTROZOLE (an as' troe zole)
-
-Tablets
+ANASTROZOLE (an as' troe zole) Tablets
 
 Read the information that comes with anastrozole tablets before you start taking them and each time you get a refill.
 The information may have changed.
@@ -171,8 +169,6 @@ Active ingredient: anastrozole
 
 Inactive ingredients: hypromellose, lactose monohydrate, macrogol/PEG 400, macrogol/PEG 6000, magnesium stearate, povidone, sodium starch glycolate and titanium dioxide.
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
-
 Manufactured In Israel By:
 
 TEVA PHARMACEUTICAL IND.
@@ -187,4 +183,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-D 7/2011
+A 6/2012

@@ -28,3 +28,21 @@ Patients should be informed that an increased level of cholesterol might be seen
 ## 17.6 Tamoxifen
 
 Patients should be advised not to take anastrozole with tamoxifen.
+
+All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
+
+Manufactured In Israel By:
+
+TEVA PHARMACEUTICAL IND.
+LTD.
+
+Jerusalem, 91010, Israel
+
+Manufactured For:
+
+TEVA PHARMACEUTICALS USA
+
+Sellersville, PA 18960
+
+Rev.
+E 6/2012
