@@ -17,9 +17,9 @@ Cmin and Cmax remained essentially unchanged from day 2 through day 5 of therapy
 | *Azithromycin 250 mg tablets are bioequivalent to 250 mg capsules in the fasted state. Azithromycin 250 mg capsules are no longer commercially available. |  |  |
 
 In a two-way crossover study, 12 adult healthy volunteers (6 males, 6 females) received 1,500 mg of azithromycin administered in single daily doses over either 5 days (two 250 mg tablets on day 1, followed by one 250 mg tablet on days 2 to 5) or 3 days (500 mg per day for days 1 to 3).
-Due to limited serum samples on day 2 (3 day regimen) and days 2 to 4 (5 day regimen), the serum concentration-time profile of each subject was fit to a 3-compartment model and the AUC0-∞ for the fitted concentration profile was comparable between the 5 day and 3 day regimens.
+Due to limited serum samples on day 2 (3 day regimen) and days 2 to 4 (5 day regimen), the serum concentration-time profile of each subject was fit to a 3 compartment model and the AUC0-∞ for the fitted concentration profile was comparable between the 5 day and 3 day regimens.
 
-|  | 3-Day Regimen |  | 5-Day Regimen |  |
+|  | 3 Day Regimen |  | 5 Day Regimen |  |
 | --- | --- | --- | --- | --- |
 | Pharmacokinetic Parameter[mean (SD)] | Day 1 | Day 3 | Day 1 | Day 5 |
 | Cmax (serum, mcg/mL) | 0.44 (0.22) | 0.54 (0.25) | 0.43 (0.2) | 0.24 (0.06) |
@@ -35,7 +35,7 @@ Two azithromycin 250 mg tablets are bioequivalent to a single 500 mg tablet.
 
 The absolute bioavailability of azithromycin 250 mg capsules is 38%.
 
-In a two-way crossover study in which 12 healthy subjects received a single 500 mg dose of azithromycin (two 250 mg tablets) with or without a high fat meal, food was shown to increase Cmax by 23% but had no effect on AUC.
+In a two-way crossover study in which 12 healthy subjects received a single 500 mg dose of azithromycin (two 250 mg tablets) with or without a high-fat meal, food was shown to increase Cmax by 23% but had no effect on AUC.
 
 When azithromycin suspension was administered with food to 28 adult healthy male subjects, Cmax increased by 56% and AUC was unchanged.
 
@@ -77,7 +77,7 @@ In vitro and in vivo studies to assess the metabolism of azithromycin have not b
 
 ## Elimination
 
-Plasma concentrations of azithromycin following single 500 mg oral and i.v. doses declined in a polyphasic pattern with a mean apparent plasma clearance of 630 mL/min and terminal elimination half-life of 68 hours.
+Plasma concentrations of azithromycin following single 500 mg oral and I.V. doses declined in a polyphasic pattern with a mean apparent plasma clearance of 630 mL/min and terminal elimination half-life of 68 hours.
 The prolonged terminal half-life is thought to be due to extensive uptake and subsequent release of drug from tissues.
 
 Biliary excretion of azithromycin, predominantly as unchanged drug, is a major route of elimination.
@@ -159,20 +159,20 @@ Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Pr
 | Indinavir | 800 mg TID x 5 days | 1,200 mg PO on day 5 | 18 | 0.96(0.86 to 1.08) | 0.9(0.81 to 1) |
 | Midazolam | 15 mg PO on day 3 | 500 mg/day PO x 3 days | 12 | 1.27(0.89 to 1.81) | 1.26(1.01 to 1.56) |
 | Nelfinavir | 750 mg TID x 11 days | 1,200 mg PO on day 9 | 14 | 0.9(0.81 to 1.01) | 0.85 (0.78 to 0.93) |
-| Rifabutin | 300 mg/day x 10 days | 500 mg PO on day1, then 250 mg/day on days 2-10 | 6 | See footnote below | NA |
+| Rifabutin | 300 mg/day x 10 days | 500 mg PO on day 1, then 250 mg/day on days 2 to 10 | 6 | See footnote below | NA |
 | Sildenafil | 100 mg on days 1 and 4 | 500 mg/day PO x 3 days | 12 | 1.16(0.86 to 1.57) | 0.92(0.75 to 1.12) |
-| Theophylline | 4 mg/kg IV on days 1, 11, 25 | 500 mg PO on day 7, then 250 mg/day on days 8-11 | 10 | 1.19(1.02 to 1.4) | 1.02(0.86 to 1.22) |
-| Theophylline | 300 mg PO BID x15 days | 500 mg PO on day 6, then 250 mg/day on days 7-10 | 8 | 1.09(0.92 to 1.29) | 1.08(0.89 to 1.31) |
+| Theophylline | 4 mg/kg I.V. on days 1, 11, 25 | 500 mg PO on day 7, then 250 mg/day on days 8 to 11 | 10 | 1.19(1.02 to 1.4) | 1.02(0.86 to 1.22) |
+| Theophylline | 300 mg PO BID x 15 days | 500 mg PO on day 6, then 250 mg/day on days 7 to 10 | 8 | 1.09(0.92 to 1.29) | 1.08(0.89 to 1.31) |
 | Triazolam | 0.125 mg on day 2 | 500 mg PO on day1, then 250 mg/dayon day 2 | 12 | 1.06 | 1.02 |
-| Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day PO x 7 days | 1,200 mg PO on day 7 | 12 | 0.85(0.75 to 0.97)/0.90(0.78 to 1.03) | 0.87(0.80 to 0.95)/0.96(0.88 to 1.03) |
-| Zidovudine | 500 mg/day PO x 21 days | 600 mg/day PO x 14 days | 5 | 1.12(0.42 to 3.02) | 0.94(0.52 to 1.70) |
+| Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day PO x 7 days | 1,200 mg PO on day 7 | 12 | 0.85(0.75 to 0.97)/0.9(0.78 to 1.03) | 0.87(0.8 to 0.95)/0.96(0.88 to 1.03) |
+| Zidovudine | 500 mg/day PO x 21 days | 600 mg/day PO x 14 days | 5 | 1.12(0.42 to 3.02) | 0.94(0.52 to 1.7) |
 | Zidovudine | 500 mg/day PO x 21 days | 1,200 mg/day PO x 14 days | 4 | 1.31(0.43 to 3.97) | 1.3(0.69 to 2.43) |
-| NA - Not Available Mean rifabutin concentrations one-half day after the last dose of rifabutin were 60 ng/mL when co-administered with azithromycin and 71 ng/mL when co-administered with placebo. |  |  |  |  |  |
+| NA - Not Available Mean rifabutin concentrations one-half day after the last dose of rifabutin were 60 ng/mL when coadministered with azithromycin and 71 ng/mL when coadministered with placebo. |  |  |  |  |  |
 
 Table 2.
-Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs (see PRECAUTIONS, Drug Interactions)
+Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Coadministered Drugs (see PRECAUTIONS, Drug Interactions)
 
-| Co-administered Drug | Dose of Coadministered Drug | Dose of Azithromycin | n | Ratio (with/withoutcoadministered drug) of Azithromycin PharmacokineticParameters (90% CI);No Effect = 1 |  |
+| Coadministered Drug | Dose of Coadministered Drug | Dose of Azithromycin | n | Ratio (with/withoutcoadministered drug) of Azithromycin PharmacokineticParameters (90% CI);No Effect = 1 |  |
 | --- | --- | --- | --- | --- | --- |
 | Mean Cmax | Mean AUC |  |  |  |  |
 | Efavirenz | 400 mg/day x 7 days | 600 mg PO on day 7 | 14 | 1.22(1.04 to 1.42) | 0.9290% Confidence interval not reported |
@@ -181,7 +181,7 @@ Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence o
 | Rifabutin | 300 mg/day x 10 days | 500 mg PO on day 1, then 250 mg/day on days 2 to 10 | 6 | See footnote below | NA |
 | NA – Not available |  |  |  |  |  |
 
-Mean azithromycin concentrations one day after the last dose was 53 ng/mL when coadministered with 300 mg daily rifabutin and 49 ng/mL when coadministered with placebo.
+Mean azithromycin concentrations one day after the last dose were 53 ng/mL when coadministered with 300 mg daily rifabutin and 49 ng/mL when coadministered with placebo.
 
 ## Microbiology
 
@@ -265,16 +265,16 @@ Quantitative methods are used to determine antimicrobial minimum inhibitory conc
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method1,3 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of azithromycin powder.
-The MIC values should be interpreted according to criteria provided in Table 1.
+The MIC values should be interpreted according to criteria provided in Table 3.
 
 #### Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 15 mcg azithromycin to test the susceptibility of microorganisms to azithromycin.
-The disk diffusion interpretive criteria are provided in Table 1.
+The disk diffusion interpretive criteria are provided in Table 3.
 
-Table 1.
+Table 3.
 Susceptibility Interpretive Criteria for Azithromycin Susceptibility Test Result Interpretive Criteria
 
 | Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion(zone diameters in mm) |  |  |
@@ -293,15 +293,15 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of “resistant” indicates that the pathogen is not likely to be inhibited if the antimicrobial compound reaches the concentrations usually achievable; other therapy should be selected.
 
-QUALITY CONTROL
+### Quality Control
 
 Standardized susceptibility test procedures require the use of quality control microorganisms to control the technical aspects of the test procedures.
-Standard azithromycin powder should provide the following range of values noted in Table 2.
+Standard azithromycin powder should provide the following range of values noted in Table 4.
 Quality control microorganisms are specific strains of organisms with intrinsic biological properties.
 QC strains are very stable strains which will give a standard and repeatable susceptibility pattern.
 The specific strains used for microbiological quality control are not clinically significant.
 
-Table 2.
+Table 4.
 Acceptable Quality Control Ranges for Azithromycin
 
 | QC Strain | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion(zone diameters in mm) |

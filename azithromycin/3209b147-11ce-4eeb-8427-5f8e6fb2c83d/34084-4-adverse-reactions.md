@@ -5,7 +5,7 @@ Potentially serious side effects of angioedema and cholestatic jaundice were rep
 Approximately 0.7% of the patients (adults and pediatric patients) from the 5 day multiple dose clinical trials discontinued azithromycin therapy because of treatment-related side effects.
 In adults given 500 mg/day for 3 days, the discontinuation rate due to treatment-related side effects was 0.6%.
 In clinical trials in pediatric patients given 30 mg/kg, either as a single dose or over 3 days, discontinuation from the trials due to treatment-related side effects was approximately 1% (see DOSAGE AND ADMINISTRATION).
-Most of the side effects leading to discontinuation were related to the gastrointestinal tract, e.g., nausea, vomiting, diarrhea, or abdominal pain (see CLINICAL STUDIES IN PEDIATRIC PATIENTS).
+Most of the side effects leading to discontinuation were related to the gastrointestinal tract, e.g., nausea, vomiting, diarrhea, or abdominal pain (see CLINICAL STUDIES, Pediatric Patients).
 
 ## Clinical
 
@@ -40,7 +40,7 @@ The majority of these complaints were mild in nature.
 
 Single- and Multiple-dose regimens: The types of side effects in pediatric patients were comparable to those seen in adults, with different incidence rates for the dosage regimens recommended in pediatric patients.
 
-Acute Otitis Media: For the recommended total dosage regimen of 30 mg/kg, the most frequent side effects (≥ 1%) attributed to treatment were diarrhea, abdominal pain, vomiting, nausea and rash (see DOSAGE AND ADMINISTRATION and CLINICAL STUDIES IN PEDIATRIC PATIENTS).
+Acute Otitis Media: For the recommended total dosage regimen of 30 mg/kg, the most frequent side effects (≥ 1%) attributed to treatment were diarrhea, abdominal pain, vomiting, nausea and rash (see DOSAGE AND ADMINISTRATION and CLINICAL STUDIES, Pediatric Patients).
 
 The incidence, based on dosing regimen, is described in the table below:
 
@@ -54,19 +54,17 @@ Community-Acquired Pneumonia: For the recommended dosage regimen of 10 mg/kg on 
 
 The incidence is described in the table below:
 
-| Dosage | Diarrhea/Loose | Abdominal |  |  |  |
+| Dosage Regimen | Diarrhea/Loose stools, % | Abdominal Pain, % | Vomiting, % | Nausea, % | Rash, % |
 | --- | --- | --- | --- | --- | --- |
-| Regimen | stools, % | Pain, % | Vomiting, % | Nausea, % | Rash, % |
 | 5 day | 5.8% | 1.9% | 1.9% | 1.9% | 1.6% |
 
-Pharyngitis/tonsillitis: For the recommended dosage regimen of 12 mg/kg on Days 1-5, the most frequent side effects attributed to treatment were diarrhea, vomiting, abdominal pain, nausea and headache.
+Pharyngitis/tonsillitis: For the recommended dosage regimen of 12 mg/kg on Days 1 to 5, the most frequent side effects attributed to treatment were diarrhea, vomiting, abdominal pain, nausea and headache.
 
 The incidence is described in the table below:
 
-| Dosage |  | Abdominal |  |  |  |  |
+| Dosage Regimen | Diarrhea, % | AbdominalPain, % | Vomiting, % | Nausea, % | Rash, % | Headache, % |
 | --- | --- | --- | --- | --- | --- | --- |
-| Regimen | Diarrhea, % | Pain, % | Vomiting, % | Nausea, % | Rash, % | Headache, % |
-| 5-day | 5.4% | 3.4% | 5.6% | 1.8% | 0.7% | 1.1% |
+| 5 day | 5.4% | 3.4% | 5.6% | 1.8% | 0.7% | 1.1% |
 
 With any of the treatment regimens, no other treatment-related side effects occurred in pediatric patients treated with azithromycin with a frequency greater than 1%.
 Side effects that occurred with a frequency of 1% or less included the following:
@@ -91,14 +89,14 @@ Special Senses: Conjunctivitis.
 
 ## Postmarketing Experience
 
-Adverse events reported with azithromycin during the post-marketing period in adult and/or pediatric patients for which a causal relationship may not be established include:
+Adverse events reported with azithromycin during the postmarketing period in adult and/or pediatric patients for which a causal relationship may not be established include:
 
 Allergic: Arthralgia, edema, urticaria and angioedema.
 
 Cardiovascular: Arrhythmias including ventricular tachycardia and hypotension.
 There have been rare reports of QT prolongation and torsades de pointes.
 
-Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence and vomiting/diarrhea rarely resulting in dehydration, pseudomembranous colitis, pancreatitis, oral candidiasis and rare reports of tongue discoloration
+Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea rarely resulting in dehydration, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and rare reports of tongue discoloration.
 
 General: Asthenia, paresthesia, fatigue, malaise and anaphylaxis (rarely fatal).
 
@@ -116,7 +114,7 @@ Psychiatric: Aggressive reaction and anxiety.
 
 Skin/Appendages: Pruritus, rarely serious skin reactions including erythema multiforme, Stevens-Johnson syndrome and toxic epidermal necrolysis.
 
-Special Senses: Hearing disturbances including hearing loss, deafness and/or tinnitus and rare reports of taste/smell perversion and/or loss.
+Special Senses: Hearing disturbances including hearing loss, deafness and/or tinnitus and reports of taste/smell perversion and/or loss.
 
 ## Laboratory Abnormalities
 

@@ -14,7 +14,7 @@ Physicians should be aware that reappearance of the allergic symptoms may occur 
 ## Hepatotoxicity
 
 Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure have been reported, some of which have resulted in death.
-Discontinue azithromycin immediately if signs and symptoms of hepatisis occur.
+Discontinue azithromycin immediately if signs and symptoms of hepatitis occur.
 
 ## Treatment of Pneumonia
 
@@ -23,26 +23,31 @@ Azithromycin should not be used in patients with pneumonia who are judged to be 
 
 Clostridium Difficile-associated Diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including azithromycin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including azithromycin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+Hypertoxin- producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
+## QT Prolongation
+
+Prolonged cardiac repolarization and QT interval, imparting a risk of developing cardiac arrhythmia and torsades de pointes, have been seen in treatment with macrolides, including azithromycin.
+Cases of torsades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving azithromycin.
+Although the absolute risk is unknown, it appears to be low with azithromycin likely due to the lack of appreciable drug interactions, and the observation that it is rarely reported as a postmarket adverse event.
+However, it would be prudent to avoid use in patients with known prolongation of the QT interval, patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents.
+Elderly patients may be more susceptible to drug-associated effects on the QT interval.
+
 # PRECAUTIONS
 
 ## General
 
 Because azithromycin is principally eliminated via the liver, caution should be exercised when azithromycin is administered to patients with impaired hepatic function.
-Due to the limited data in subjects with GFR < 10 mL/min, caution should be exercised when prescribing azithromycin in these patients (see CLINICAL PHARMACOLOGY, Special Populations - Renal Insufficiency).
-
-Prolonged cardiac repolarization and QT interval, imparting a risk of developing cardiac arrhythmia and torsades de pointes, have been seen in treatment with other macrolides.
-A similar effect with azithromycin cannot be completely ruled out in patients at increased risk for prolonged cardiac repolarization.
+Due to the limited data in subjects with GFR < 10 mL/min, caution should be exercised when prescribing azithromycin in these patients (see CLINICAL PHARMACOLOGY, Special Populations, Renal Insufficiency).
 
 Exacerbation of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
 
@@ -50,7 +55,7 @@ Prescribing azithromycin in the absence of a proven or strongly suspected bacter
 
 ## Information for Patients
 
-Azithromycin oral suspension can be taken with or without food.
+Azithromycin for oral suspension can be taken with or without food.
 
 Patients should also be cautioned not to take aluminum- and magnesium-containing antacids and azithromycin simultaneously.
 
@@ -70,10 +75,10 @@ If this occurs, patients should contact their physician as soon as possible.
 Coadministration of nelfinavir at steady-state with a single oral dose of azithromycin resulted in increased azithromycin serum concentrations.
 Although a dose adjustment of azithromycin is not recommended when administered in combination with nelfinavir, close monitoring for known side effects of azithromycin, such as liver enzyme abnormalities and hearing impairment, is warranted (see ADVERSE REACTIONS).
 
-Although, in a study of 22 healthy men, a 5-day course of azithromycin did not affect the prothrombin time from a subsequently administered dose of warfarin, spontaneous postmarketing reports suggest that concomitant administration of azithromycin may potentiate the effects of oral anticoagulants.
+Although, in a study of 22 healthy men, a 5 day course of azithromycin did not affect the prothrombin time from a subsequently administered dose of warfarin, spontaneous postmarketing reports suggest that concomitant administration of azithromycin may potentiate the effects of oral anticoagulants.
 Prothrombin times should be carefully monitored while patients are receiving azithromycin and oral anticoagulants concomitantly.
 
-Drug interaction studies were performed with azithromycin and other drugs likely to be co-administered (see CLINICAL PHARMACOLOGY, Drug-Drug Interactions).
+Drug interaction studies were performed with azithromycin and other drugs likely to be coadministered (see CLINICAL PHARMACOLOGY, Drug-Drug Interactions).
 When used in therapeutic doses, azithromycin had a modest effect on the pharmacokinetics of atorvastatin, carbamazepine, cetirizine, didanosine, efavirenz, fluconazole, indinavir, midazolam, rifabutin, sildenafil, theophylline (intravenous and oral), triazolam, trimethoprim/sulfamethoxazole or zidovudine.
 Coadministration with efavirenz, or fluconazole had a modest effect on the pharmacokinetics of azithromycin.
 No dosage adjustment of either drug is recommended when azithromycin is coadministered with any of the above agents.
@@ -117,7 +122,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## Pediatric Use
 
-See CLINICAL PHARMACOLOGY, INDICATIONS AND USAGE, and DOSAGE AND ADMINISTRATION.
+See CLINICAL PHARMACOLOGY; INDICATIONS AND USAGE; and DOSAGE AND ADMINISTRATION.
 
 Acute Otitis Media (total dosage regimen: 30 mg/kg, see DOSAGE AND ADMINISTRATION): Safety and effectiveness in the treatment of pediatric patients with otitis media under 6 months of age have not been established.
 
@@ -127,9 +132,10 @@ Use of azithromycin for the treatment of acute bacterial sinusitis in pediatric 
 Community-Acquired Pneumonia (dosage regimen: 10 mg/kg on Day 1 followed by 5 mg/kg on Days 2 to 5): Safety and effectiveness in the treatment of pediatric patients with community-acquired pneumonia under 6 months of age have not been established.
 Safety and effectiveness for pneumonia due to Chlamydiapneumoniae and Mycoplasma pneumoniae were documented in pediatric clinical trials.
 Safety and effectiveness for pneumonia due to Haemophilus influenzae and Streptococcus pneumoniae were not documented bacteriologically in the pediatric clinical trial due to difficulty in obtaining specimens.
-Use of azithromycin for these two microorganisms is supported, however, by evidence from adequate and wellcontrolled studies in adults.
+Use of azithromycin for these two microorganisms is supported, however, by evidence from adequate and well-controlled studies in adults.
 
 Pharyngitis/Tonsillitis (dosage regimen: 12 mg/kg on Days 1 to 5): Safety and effectiveness in the treatment of pediatric patients with pharyngitis/tonsillitis under 2 years of age have not been established.
+
 Studies evaluating the use of repeated courses of therapy have not been conducted (see CLINICAL PHARMACOLOGY and ANIMAL TOXICOLOGY).
 
 ## Geriatric Use
@@ -139,6 +145,8 @@ Dosage adjustment does not appear to be necessary for older patients with normal
 
 In multiple-dose clinical trials of oral azithromycin, 9% of patients were at least 65 years of age (458/4949) and 3% of patients (144/4949) were at least 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+Elderly patients may be more susceptible to development of torsades de pointes arrhythmia than younger patients (see WARNINGS).
 
 Azithromycin for oral suspension 100 mg/5 mL contains 8.8 mg of sodium per 5 mL of constituted solution.
 

@@ -92,7 +92,7 @@ For a list of all the side effects that have been reported, ask the doctor, nurs
 
 • What Should I Do If My Child Vomits (Spits Up) The 1-Day Treatment of Azithromycin?
 
-If your child vomits within 30 minutes after the 1-day treatment for an ear infection, please call your child’s doctor.
+If your child vomits within 30 minutes after the 1 day treatment for an ear infection, please call your child’s doctor.
 
 • What To Do For An Overdose
 
@@ -114,5 +114,5 @@ Manufactured For:
 
 TEVA PHARMACEUTICALS USA Sellersville, PA 18960
 
-Iss.
-11/2009
+Rev.
+A 6/2012

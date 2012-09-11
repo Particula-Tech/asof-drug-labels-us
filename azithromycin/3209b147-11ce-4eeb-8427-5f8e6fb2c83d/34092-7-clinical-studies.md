@@ -88,7 +88,7 @@ Safety and efficacy using azithromycin 30 mg/kg given as a single dose
 
 Protocol 5
 
-A double blind, controlled, randomized trial was performed at nine clinical centers.
+A double-blind, controlled, randomized trial was performed at nine clinical centers.
 Pediatric patients from 6 months to 12 years of age were randomized 1:1 to treatment with either azithromycin (given at 30 mg/kg as a single dose on Day 1) or amoxicillin/clavulanate potassium (7:1), divided q12h for 10 days.
 Each child received active drug, and placebo matched for the comparator.
 
@@ -103,6 +103,7 @@ The most common side effects were diarrhea (6.4% with azithromycin vs. 12.7% wit
 Protocol 6
 
 In a non-comparative clinical and microbiological trial, 248 patients from 6 months to 12 years of age with documented acute otitis media were dosed with a single oral dose of azithromycin (30 mg/kg on Day 1).
+
 For the 240 patients who were evaluable for clinical modified Intent-to-Treat (MITT) analysis, the clinical success rate (i.e., cure plus improvement) at Day 10 was 89% and for the 242 patients evaluable at Day 24 to 28, the clinical success rate (cure) was 85%.
 
 Presumed Bacteriologic Eradication
@@ -144,7 +145,7 @@ The most common side effects were diarrhea/loose stools (6% azithromycin vs. 2% 
 
 ## Adult Patients
 
-Acute Bacterial Exacerbations of Chronic Obstructive Pulmonary Disease
+### Acute Bacterial Exacerbations of Chronic Obstructive Pulmonary Disease
 
 In a randomized, double-blind controlled clinical trial of acute exacerbation of chronic bronchitis (AECB), azithromycin (500 mg once daily for 3 days) was compared with clarithromycin (500 mg twice daily for 10 days).
 The primary endpoint of this trial was the clinical cure rate at Day 21 to 24.
@@ -162,7 +163,7 @@ The following outcomes were the clinical cure rates at the Day 21 to 24 visit fo
 In the safety analysis of this study, the incidence of treatment-related adverse events, primarily gastrointestinal, were comparable between treatment arms (25% with azithromycin and 29% with clarithromycin).
 The most common side effects were diarrhea, nausea and abdominal pain with comparable incidence rates for each symptom of 5 to 9% between the two treatment arms (see ADVERSE REACTIONS).
 
-Acute Bacterial Sinusitis
+### Acute Bacterial Sinusitis
 
 In a randomized, double blind, double-dummy controlled clinical trial of acute bacterial sinusitis, azithromycin (500 mg once daily for 3 days) was compared with amoxicillin/clavulanate (500/125 mg tid for 10 days).
 Clinical response assessments were made at Day 10 and Day 28.
