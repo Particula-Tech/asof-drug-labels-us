@@ -8,6 +8,14 @@ OZURDEX® (dexamethasone intravitreal implant) is contraindicated in patients wi
 
 OZURDEX® is contraindicated in patients with advanced glaucoma.
 
-## 4.3 Hypersensitivity
+## 4.3 Aphakic Eyes with Rupture of the Posterior Lens Capsule
+
+OZURDEX® is contraindicated in patients who have aphakic eyes with rupture of the posterior lens capsule.
+
+## 4.4 ACIOL and Rupture of the Posterior Lens Capsule
+
+OZURDEX® is contraindicated in eyes with ACIOL (Anterior Chamber Intraocular Lens) and rupture of the posterior lens capsule.
+
+## 4.5 Hypersensitivity
 
 OZURDEX® is contraindicated in patients with known hypersensitivity to any components of this product.

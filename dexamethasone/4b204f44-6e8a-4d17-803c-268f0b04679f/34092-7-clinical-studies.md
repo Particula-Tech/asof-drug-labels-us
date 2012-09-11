@@ -26,5 +26,5 @@ Posterior Segment Uveitis
 
 The efficacy of OZURDEX® was assessed in a single, multicenter, masked, randomized study of 153 patients with non-infectious uveitis affecting the posterior segment of the eye.
 
-After a single injection, the percent of patients reaching a vitreous haze score of 0 (where a score of 0 represents no inflammation) was statistically significantly greater for patients receiving OZURDEX® versus sham at week 8 (primary time point) (47% vs. 12%).
-The percent of patients achieving a 3-line improvement from baseline BCVA was 43% for patients receiving OZURDEX® vs. 7% for sham at week 8.
+After a single injection, the percent of patients reaching a vitreous haze score of 0 (where a score of 0 represents no inflammation) was statistically significantly greater for patients receiving OZURDEX® versus sham at week 8 (primary time point) (47% versus 12%).
+The percent of patients achieving a 3-line improvement from baseline BCVA was 43% for patients receiving OZURDEX® versus 7% for sham at week 8.
