@@ -25,7 +25,7 @@ TABLE 4
 | Aminoglycoside | ZOSYN Dose (grams) | ZOSYN Diluent Volume (mL) | Aminoglycoside Concentration Range* (mg/mL) | Acceptable Diluents |
 | --- | --- | --- | --- | --- |
 | Amikacin | 2.25, 3.375, 4.5 | 50, 100, 150 | 1.75 - 7.5 | 0.9% Sodium Chloride or 5% Dextrose |
-| Gentamicin | 2.25, 3.375, 4.5 | 100, 150 | 0.7 - 3.32 | 0.9% Sodium Chloride |
+| Gentamicin | 2.25, 3.375, 4.5 | 50, 100, 150 | 0.7 - 3.32 | 0.9% Sodium Chloride or 5% Dextrose |
 | *The concentration ranges in Table 4 are based on administration of the aminoglycoside in divided doses (10-15 mg/kg/day in two daily doses for amikacin and 3-5 mg/kg/day in three daily doses for gentamicin). Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with ZOSYN containing EDTA has not been evaluated. See package insert for each aminoglycoside for complete Dosage and Administration instructions. |  |  |  |  |
 
 ZOSYN is not compatible with tobramycin for simultaneous coadministration via Y-site infusion.
@@ -109,7 +109,7 @@ Dextrose 5%
 
 Dextran 6% in Saline
 
-Lactated Ringer's Solution (Compatible only with reformulated ZOSYN containing EDTA)
+Lactated Ringer's Solution (Compatible only with reformulated ZOSYN containing EDTA and is compatible for co-administration via a Y-site).
 
 ‡ Maximum recommended volume per dose of Sterile Water for Injection is 50 mL.
 
