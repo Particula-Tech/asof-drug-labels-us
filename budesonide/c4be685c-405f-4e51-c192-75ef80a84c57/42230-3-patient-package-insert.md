@@ -79,9 +79,9 @@ RHINOCORT AQUA Nasal Spray may cause serious side effects including:
 - •fungal infection in your nose.
 - •allergic reactions.
   Tell your healthcare provider or get medical help right away if you have:
-  - • skin rash, redness or swelling
-  - • severe itching
-  - • swelling of the face, mouth and tongue
+  - •skin rash, redness or swelling
+  - •severe itching
+  - •swelling of the face, mouth and tongue
 - •immune system problems that may increase your risk of infections.
   You are more likely to get infections if you take medicines that weaken your body’s ability to fight infections.
   Avoid contact with people who have contagious diseases such as chicken pox or measles while using RHINOCORT AQUA Nasal Spray.
@@ -224,7 +224,7 @@ Figure E
 
 Figure F
 
-How to clean your RHINOORT AQUA Nasal Spray
+How to clean your RHINOCORT AQUA Nasal Spray
 
 Figure G
 
