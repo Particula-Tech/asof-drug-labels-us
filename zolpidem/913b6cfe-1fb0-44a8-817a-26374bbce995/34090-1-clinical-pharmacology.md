@@ -84,7 +84,7 @@ There were no pharmacodynamic effects of zolpidem detected on subjective drowsin
 A single-dose interaction study with zolpidem tartrate 10 mg and rifampin 600 mg at steady-state levels in female subjects showed significant reductions of the AUC (-73%), Cmax (-58%), and T1/2 (-36 %) of zolpidem together with significant reductions in the pharmacodynamic effects of zolpidem tartrate.
 Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem.
 
-A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmax of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30 %) along with an increase in the pharmacodynamic effects of zolpidem.
+A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmax of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30%) along with an increase in the pharmacodynamic effects of zolpidem.
 Consideration should be given to using a lower dose of zolpidem when ketoconazole and zolpidem are given together.
 
 ### Other Drugs with No Interactions with Zolpidem

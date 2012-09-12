@@ -16,7 +16,7 @@ The effect on sleep latency was similar for females receiving 1.75 mg of Interme
 ### Outpatient Study (As-needed Dosing)
 
 Adult patients aged 18 to 64 years (N=295; 201 women, 94 men) with difficulty returning to sleep after middle-of-the-night awakenings were evaluated in a double-blind, placebo-controlled 4-week outpatient study of Intermezzo.
-Patients took study drug (3.5 mg of Intermezzo or placebo) on an as needed (prn) basis, when they had difficulty returning to sleep after waking in the middle of the night, provided they had at least 4 hours time remaining in bed.
+Patients took study drug (3.5 mg of Intermezzo or placebo) on an as-needed (prn) basis, when they had difficulty returning to sleep after waking in the middle of the night, provided they had at least 4 hours time remaining in bed.
 Subjective (patient-estimated) time to fall back to sleep after middle-of-the-night awakening was significantly shorter for Intermezzo 3.5 mg compared to placebo.
 
 ## 14.2 Special Safety Studies
@@ -24,9 +24,7 @@ Subjective (patient-estimated) time to fall back to sleep after middle-of-the-ni
 ### Driving Study
 
 A randomized, double-blind, placebo-controlled, active-control, single-center, four-period, crossover study in 40 healthy subjects was conducted to evaluate the effects of middle-of-the-night administration of Intermezzo on next-morning driving performance.
-The four randomized treatments included Intermezzo 3.5 mg four hours before driving,
-
-Intermezzo 3.5 mg three hours before driving, placebo, and a positive control (an unapproved sedative-hypnotic) given nine hours before driving.
+The four randomized treatments included Intermezzo 3.5 mg four hours before driving, Intermezzo 3.5 mg three hours before driving, placebo, and a positive control (an unapproved sedative-hypnotic) given nine hours before driving.
 
 The primary outcome measure was the change in the standard deviation of lateral position (SDLP), a measure of driving impairment.
 The results were analyzed using a symmetry analysis, which determined the proportion of subjects whose change from their own SDLP in the placebo condition was statistically significantly above a threshold thought to reflect clinically meaningful driving impairment.

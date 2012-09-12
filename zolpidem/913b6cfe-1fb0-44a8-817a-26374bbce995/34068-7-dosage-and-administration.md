@@ -13,7 +13,7 @@ The blister should be removed from the pouch just prior to dosing.
 ## 2.2 Basic Dosing Information
 
 The recommended and maximum dose of Intermezzo is 1.75 mg for women and 3.5 mg for men, taken only once per night as needed if a middle-of-the-night awakening is followed by difficulty returning to sleep.
-The recommended doses for women and men are different because women clear zolpidem from the body at a lower rate than men [see Use in Specific Populations (8.6)].
+The recommended doses for women and men are different because women clear zolpidem from the body at a lower rate than men[see Use in Specific Populations (8.6)].
 
 ## 2.3 Use with CNS Depressants
 

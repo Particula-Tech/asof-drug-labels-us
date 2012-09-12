@@ -42,7 +42,7 @@ Intermezzo Dosing Time Chart
 Intermezzo Dosing Time Tool (see Figure C):
 
 - Turn the Intermezzo Dosing Time Tool wheel to show the earliest time that you must be awake under the green arrow.
-  Take Intermezzo before the time under the brown arrow.
+- Take Intermezzo before the time under the brown arrow.
 
 During the night when you take Intermezzo:
 
@@ -80,4 +80,4 @@ This Medication Guide and Instructions for Use have been approved by the U.S. Fo
 Distributed by: Purdue Pharma L.P.
 Stamford, CT 06901-3431
 
-December, 2011
+Issued: July 2012
