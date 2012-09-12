@@ -34,7 +34,7 @@ In a 3-week study in 170 patients, most previously untreated with midodrine, the
 After week 1, midodrine-treated patients had small improvements in dizziness/lightheadedness/unsteadiness scores and global evaluations, but these effects were made difficult to interpret by a high early drop-out rate (about 25% vs 5% on placebo).
 Supine and sitting blood pressure rose 16/8 and 20/10 mmHg, respectively, on average.
 
-In a 2-day study, after open-label midodrine, known midodrine responders received midodrine 10 mg or placebo at 0, 3, and 6 hours.
+In a 2-day study, after open-label midodrine, known midodrine responders received midodrine 10 mg or placebo at 0, 3 and 6 hours.
 One-minute standing systolic blood pressures were increased 1 hour after each dose by about 15 mmHg and 3 hours after each dose by about 12 mmHg; 3-minute standing pressures were increased also at 1, but not 3, hours after dosing.
 There were increases in standing time seen intermittently 1 hour after dosing, but not at 3 hours.
 

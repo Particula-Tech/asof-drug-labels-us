@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Midodrine HCl Tablets are supplied as 2.5 mg, 5 mg and 10 mg tablets for oral administration.
+Midodrine HCl Tablets, USP are supplied as 2.5 mg, 5 mg and 10 mg tablets for oral administration.
 The 2.5 mg tablet is a white, round, uncoated tablet, scored on one side with “US” above and “2.5” below the score and “211” on the other side.
 The 5 mg tablet is a pink, round, uncoated tablet, scored on one side with “US” above and “5” below the score and “212” on the other side.
 The 10 mg tablet is a purple, round, uncoated tablet, scored on one side with “US” above and “10” below the score and “213” on the other side.
@@ -17,8 +17,8 @@ Store at 25°C (77°F)
 
 Excursions permitted to 15-30°C (59-86°F)
 
-[see USP Controlled Room Temperature]
+[See USP Controlled Room Temperature]
 
 Manufactured by UPSHER-SMITH LABORATORIES, INC. Minneapolis, MN 55447
 
-Rev 1105
+Revised 0212

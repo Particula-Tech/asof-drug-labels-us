@@ -1,8 +1,8 @@
 # OVERDOSAGE
 
 Symptoms of overdose could include hypertension, piloerection (goosebumps), a sensation of coldness and urinary retention.
-There are 2 reported cases of overdose with midodrine, both in young males.
-One patient ingested midodrine hydrochloride drops, 250 mg, experienced systolic blood pressure greater than 200 mmHg, was treated with an IV injection of 20 mg of phentolamine, and was discharged the same night with out any complaints.
+There are 2 reported cases of overdosage with midodrine, both in young males.
+One patient ingested midodrine hydrochloride drops, 250 mg, experienced systolic blood pressure greater than 200 mmHg, was treated with an IV injection of 20 mg of phentolamine, and was discharged the same night without any complaints.
 The other patient ingested 205 mg of midodrine hydrochloride (41 x 5 mg tablets), and was found lethargic and unable to talk, unresponsive to voice but responsive to painful stimuli, hypertensive and bradycardic.
 Gastric lavage was performed, and the patient recovered fully by the next day without sequelae.
 

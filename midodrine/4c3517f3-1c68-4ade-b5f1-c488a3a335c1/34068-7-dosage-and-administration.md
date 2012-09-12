@@ -5,11 +5,11 @@ Dosing should take place during the daytime hours when the patient needs to be u
 A suggested dosing schedule of approximately 4-hour intervals is as follows: shortly before, or upon arising in the morning, midday and late afternoon (not later than 6 P.M.).
 Doses may be given in 3-hour intervals, if required, to control symptoms, but not more frequently.
 Single doses as high as 20 mg have been given to patients, but severe and persistent systolic supine hypertension occurs at a high rate (about 45%) at this dose.
-In order to reduce the potential for supine hypertension during sleep, midodrine HCl tablets should not be given after the evening meal or less than 4 hours before bedtime.
+In order to reduce the potential for supine hypertension during sleep, Midodrine HCl Tablets should not be given after the evening meal or less than 4 hours before bedtime.
 Total daily doses greater than 30 mg have been tolerated by some patients, but their safety and usefulness have not been studied systematically or established.
-Because of the risk of supine hypertension, midodrine HCl tablets should be continued only in patients who appear to attain symptomatic improvement during initial treatment.
+Because of the risk of supine hypertension, Midodrine HCl Tablets should be continued only in patients who appear to attain symptomatic improvement during initial treatment.
 
-The supine and standing blood pressure should be monitored regularly, and the administration of midodrine HCl tablets should be stopped if supine blood pressure increases excessively.
+The supine and standing blood pressure should be monitored regularly, and the administration of Midodrine HCl Tablets should be stopped if supine blood pressure increases excessively.
 
 Because desglymidodrine is excreted renally, dosing in patients with abnormal renal function should be cautious; although this has not been systematically studied, it is recommended that treatment of these patients be initiated using 2.5 mg doses.
 

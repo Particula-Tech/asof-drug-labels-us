@@ -2,7 +2,7 @@
 
 NDC 0245-0211-01
 
-Midodrine HCl Tablets
+Midodrine HCl Tablets, USP
 
 2.5 mg
 
@@ -14,7 +14,7 @@ UPSHER-SMITH
 
 NDC 0245-0212-01
 
-Midodrine HCl Tablets
+Midodrine HCl Tablets, USP
 
 5 mg
 
@@ -26,7 +26,7 @@ UPSHER-SMITH
 
 NDC 0245-0213-01
 
-Midodrine HCl Tablets
+Midodrine HCl Tablets, USP
 
 10 mg
 
