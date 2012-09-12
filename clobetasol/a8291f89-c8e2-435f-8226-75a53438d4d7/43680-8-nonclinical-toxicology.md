@@ -7,7 +7,7 @@ In a 90-day repeat-dose toxicity study in rats, topical administration of Olux-E
 A NOAEL could not be determined in this study.
 Although the clinical relevance of the findings in animals to humans is not clear, sustained glucocorticoid-related immune suppression may increase the risk of infection and possibly the risk for carcinogenesis.
 
-Clobetasol propionate was non-mutagenic in four different test systems: the Ames test, the mouse lymphoma test, the Saccharomyces cerevisiae gene conversion assay, and the E. coli B WP2 fluctuation test.
+Clobetasol propionate was non-mutagenic in four different test systems: the Ames test, the mouse lymphoma test, the Saccharomycescerevisiae gene conversion assay, and the E. coli B WP2 fluctuation test.
 In the in vivo mouse micronucleus test, a positive finding was observed at 24 hours, but not at 48 hours, following oral administration at a dose of 2000 mg/kg.
 
 Studies in the rat following subcutaneous administration of clobetasol propionate at dosage levels up to 0.05 mg/kg per day revealed that the females exhibited an increase in the number of resorbed embryos and a decrease in the number of living fetuses at the highest dose.

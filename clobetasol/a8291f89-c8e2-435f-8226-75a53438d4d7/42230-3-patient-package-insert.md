@@ -19,8 +19,8 @@ Olux-E Foam is a prescription corticosteroid medicine used on the skin (topical)
 
 Olux-E Foam should not be used:
 
-- on your face, underarms, or groin area
-- if you have skin thinning (atrophy) at the treatment area
+- •on your face, underarms, or groin area
+- •if you have skin thinning (atrophy) at the treatment area
 
 You should not use Olux-E Foam for longer than 2 weeks in a row.
 
@@ -30,18 +30,18 @@ What should I tell my doctor before using Olux-E Foam?
 
 Before you use Olux-E Foam, tell you doctor if you:
 
-- have had irritation or other skin reaction to a steroid medicine in the past
-- have a skin infection.
+- •have had irritation or other skin reaction to a steroid medicine in the past
+- •have a skin infection.
   You may need medicine to treat the skin infection before using Olux-E Foam.
-- have diabetes
-- have adrenal gland problems
-- have liver problems
-- plan to have surgery
-- have any other medical condition
-- are pregnant or plan to become pregnant.
+- •have diabetes
+- •have adrenal gland problems
+- •have liver problems
+- •plan to have surgery
+- •have any other medical condition
+- •are pregnant or plan to become pregnant.
   It is not known if Olux-E Foam will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
-- are breast-feeding or plan to breast-feed.
+- •are breast-feeding or plan to breast-feed.
   It is not known if Olux-E Foam passes into your breast milk.
 
 Do not apply Olux-E Foam to your chest area if you are breastfeeding a baby.
@@ -56,17 +56,17 @@ Keep a list of your medicines with you to show your doctor and pharmacist when y
 
 How should I use Olux-E Foam?
 
-- See “What is Olux-E Foam?”
-- Use Olux-E Foam exactly as your doctor tells you to use it.
+- •See “What is Olux-E Foam?”
+- •Use Olux-E Foam exactly as your doctor tells you to use it.
   See the “Instructions for applying Olux-E Foam”.
-- This medicine is for use on the skin only.
+- •This medicine is for use on the skin only.
   Do not get Olux-E Foam in your eyes, mouth, or vagina.
-- Apply Olux-E Foam 2 times each day, one time in the morning and one time at night, or as directed by your doctor.
-- Do not bandage or cover your treated area unless your doctor tells you to.
-- Do not use Olux-E Foam for longer than 2 weeks in a row.
-- Talk to your doctor if your skin does not improve after 2 weeks of treatment with Olux-E Foam.
-- See your doctor regularly to check your symptoms and side effects while taking Olux-E Foam.
-- Olux-E Foam is flammable.
+- •Apply Olux-E Foam 2 times each day, one time in the morning and one time at night, or as directed by your doctor.
+- •Do not bandage or cover your treated area unless your doctor tells you to.
+- •Do not use Olux-E Foam for longer than 2 weeks in a row.
+- •Talk to your doctor if your skin does not improve after 2 weeks of treatment with Olux-E Foam.
+- •See your doctor regularly to check your symptoms and side effects while taking Olux-E Foam.
+- •Olux-E Foam is flammable.
   Avoid heat, flame, or smoking during and right after using Olux-E Foam.
 
 Instructions for applying Olux-E Foam
@@ -116,44 +116,38 @@ What are the possible side effects of Olux-E Foam?
 
 Olux-E Foam may cause serious side effects, including:
 
-- Symptoms of a disorder where the adrenal gland does not make enough of certain hormones (adrenal insufficiency) during treatment or after stopping treatment.
+- •Symptoms of a disorder where the adrenal gland does not make enough of certain hormones (adrenal insufficiency) during treatment or after stopping treatment.
   Your doctor may do blood tests to check you for adrenal insufficiency while you are using Olux-E Foam.
   Tell your doctor if you have any of these persistent symptoms of adrenal insufficiency:
-
-- tiredness that worsens and does not go away
-- muscle weakness
-- loss of appetite
-- nausea or vomiting
-- dizziness or fainting
-- irritability and depression
-- weight loss
-
-- Cushing’s syndrome, when the body is exposed to too much of the hormone cortisol.
+- •tiredness that worsens and does not go away
+- •muscle weakness
+- •loss of appetite
+- •nausea or vomiting
+- •dizziness or fainting
+- •irritability and depression
+- •weight loss
+- •Cushing’s syndrome, when the body is exposed to too much of the hormone cortisol.
   Your doctor may do tests to check for this.
   Symptoms can include:
-
-- weight gain, especially around your upper back and midsection
-- tiredness and muscle weakness
-- roundness of your face (moon face)
-- slow healing of cuts, insect bites and infections
-- depression, anxiety and irritability
-- new or worsening high blood pressure
-
-- high blood sugar (hyperglycemia) or diabetes mellitus that has not been diagnosed can happen with treatment.
+- •weight gain, especially around your upper back and midsection
+- •tiredness and muscle weakness
+- •roundness of your face (moon face)
+- •slow healing of cuts, insect bites and infections
+- •depression, anxiety and irritability
+- •new or worsening high blood pressure
+- •high blood sugar (hyperglycemia) or diabetes mellitus that has not been diagnosed can happen with treatment.
   Your doctor may do tests to check you for this.
-
-- skin problems, including reactions where the medicine is applied, skin infections, and allergic reactions (allergic contact dermatitis).
+- •skin problems, including reactions where the medicine is applied, skin infections, and allergic reactions (allergic contact dermatitis).
   Tell your doctor if you get any new skin problems.
-
-- effects on growth and weight in children.
+- •effects on growth and weight in children.
 
 The most common side effects of Olux-E Foam include:
 
-- thinning of skin
-- burning
-- redness
-- itching
-- dryness
+- •thinning of skin
+- •burning
+- •redness
+- •itching
+- •dryness
 
 Tell your doctor if you have any reaction on your treated skin such as pain, tenderness, swelling, or healing problems.
 
@@ -165,10 +159,10 @@ You may report side effects to FDA at 1-800-FDA-1088 or www.fda.gov/medwatch, or
 
 How should I store Olux-E Foam?
 
-- Store the Olux-E Foam at room temperature, between 68°F to 77°F (20°C to 25°C).
+- •Store the Olux-E Foam at room temperature, between 68°F to 77°F (20°C to 25°C).
   Olux-E Foam is flammable.
   Keep the can away from fire and heat.
-- Do not pierce or burn the Olux-E Foam can.
+- •Do not pierce or burn the Olux-E Foam can.
   Never throw the can into a fire, even if the can is empty.
 
 Keep Olux-E Foam and all medicines out of the reach of children.

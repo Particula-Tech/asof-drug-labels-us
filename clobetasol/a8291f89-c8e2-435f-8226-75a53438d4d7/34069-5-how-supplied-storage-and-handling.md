@@ -4,8 +4,8 @@
 
 Olux-E (clobetasol propionate) Foam, 0.05% is supplied as follows:
 
-- 50 g aluminum can NDC 63032-101-50
-- 100 g aluminum can NDC 63032-101-00
+- •50 g aluminum can NDC 63032-101-50
+- •100 g aluminum can NDC 63032-101-00
 
 ## 16.2 Storage and Handling
 

@@ -10,7 +10,7 @@ Use of Olux-E Foam for longer than 2 weeks may suppress the immune system.
 [see Nonclinical Toxicology (13.1).]
 
 In a study including 37 subjects ages 12 and older with at least 30% body surface area (BSA), adrenal suppression was identified in 6 out of 37 subjects (16.2%) after two weeks of treatment with Olux-E.
-[seeClinical Pharmacology(12.2.)]
+[see Clinical Pharmacology(12.2.)]
 
 Because of the potential for systemic absorption, use of Olux-E may require that patients be periodically evaluated for HPA axis suppression.
 Factors that predispose a patient using a topical corticosteroid to HPA axis suppression include the use of more potent steroids, use over large surface areas, use over prolonged periods, use under occlusion, use on an altered skin barrier, and use in patients with liver failure.
