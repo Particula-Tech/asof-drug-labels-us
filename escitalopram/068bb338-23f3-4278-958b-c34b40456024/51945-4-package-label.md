@@ -1,0 +1,7 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+Escitalopram Tablets USP 5 mg: label
+
+Escitalopram Tablets USP 10 mg: label
+
+Escitalopram Tablets USP 20 mg: label

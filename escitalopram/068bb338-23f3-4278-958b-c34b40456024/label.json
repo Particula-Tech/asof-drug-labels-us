@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "ANDA090939"
+  ],
+  "inn": "escitalopram",
+  "labeler": "Torrent Pharmaceuticals Limited",
+  "package_ndcs": [
+    "13668-135-01",
+    "13668-135-10",
+    "13668-135-30",
+    "13668-135-40",
+    "13668-135-74",
+    "13668-136-01",
+    "13668-136-10",
+    "13668-136-30",
+    "13668-136-43",
+    "13668-136-74",
+    "13668-137-01",
+    "13668-137-10",
+    "13668-137-20",
+    "13668-137-30",
+    "13668-137-74"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "escitalopram oxalate",
+      "name": "escitalopram oxalate"
+    }
+  ],
+  "setid": "068bb338-23f3-4278-958b-c34b40456024",
+  "source": "dailymed"
+}
