@@ -25,11 +25,8 @@ TABLE 5
 | Aminoglycoside | ZOSYN Dose (grams) | Aminoglycoside Concentration Range* (mg/mL) | Acceptable Diluents |
 | --- | --- | --- | --- |
 | Amikacin | 2.25, 3.375, 4.5 | 1.75 – 7.5 | 0.9% Sodium Chloride or 5% Dextrose |
-| Gentamicin | 2.25 or 4.5 | 0.7 – 3.32 | 0.9% Sodium Chloride |
+| Gentamicin | 2.25, 3.375, 4.5 | 0.7 – 3.32 | 0.9% Sodium Chloride or 5% Dextrose |
 | *The concentration ranges in Table 5 are based on administration of the aminoglycoside in divided doses (10-15 mg/kg/day in two daily doses for amikacin and 3-5 mg/kg/day in three daily doses for gentamicin). Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with ZOSYN containing EDTA has not been evaluated. See package insert for each aminoglycoside for complete Dosage and Administration instructions. |  |  |  |
-
-ZOSYN in Galaxy containers are available as 2.25 g per 50 mL, 3.375 g per 50 mL, and 4.5 g per 100 mL.
-ZOSYN 3.375 g per 50 mL Galaxy containers are NOT compatible with gentamicin for coadministration via a Y-site due to the higher concentrations of piperacillin and tazobactam.
 
 ZOSYN is not compatible with tobramycin for simultaneous coadministration via Y-site infusion.
 Compatibility of ZOSYN with other aminoglycosides has not been established.
@@ -75,7 +72,9 @@ The other available formulations of ZOSYN can be used in this population.
 
 ## DIRECTIONS FOR USE OF ZOSYN (PIPERACILLIN AND TAZOBACTAM INJECTION) IN GALAXY CONTAINERS (PL 2040 PLASTIC)
 
-ZOSYN Injection (PL 2040 Plastic) is to be administered after thawing to room temperature using sterile equipment.
+ZOSYN Injection (PL 2040 Plastic) is to be administered using sterile equipment after thawing to room temperature.
+
+Zosyn containg EDTA is compatible for co-administration via a Y-site intravenous tube with Lactated Ringer's injection, USP.
 
 Administer by infusion over a period of at least 30 minutes.
 During the infusion it is desirable to discontinue the primary infusion solution.
