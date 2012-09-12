@@ -2,14 +2,14 @@
 
 Systemic and inhaled corticosteroid use may result in the following:
 
-- •Candida albicans infection [seeWarnings and Precautions (5.1)]
-- •Hypersensitivity Including Anaphylaxis [seeWarnings and Precautions (5.3)]
-- •Immunosuppression [seeWarnings and Precautions (5.4)]
-- •Hypercorticism and Adrenal Suppression [seeWarnings and Precautions (5.6)]
-- •Reduction in Bone Mineral Density [seeWarnings and Precautions (5.8)]
-- •Growth Effects [seeWarnings and Precautions (5.9) and Use in Specific Populations (8.4)]
-- •Glaucoma and Cataracts [seeWarnings and Precautions (5.10)]
-- •Eosinophilic conditions and Churg-Strauss [seeWarnings and Precautions (5.12)]
+- Candida albicans infection [seeWarnings and Precautions (5.1)]
+- Hypersensitivity Including Anaphylaxis [seeWarnings and Precautions (5.3)]
+- Immunosuppression [seeWarnings and Precautions (5.4)]
+- Hypercorticism and Adrenal Suppression [seeWarnings and Precautions (5.6)]
+- Reduction in Bone Mineral Density [seeWarnings and Precautions (5.8)]
+- Growth Effects [seeWarnings and Precautions (5.9) and Use in Specific Populations (8.4)]
+- Glaucoma and Cataracts [seeWarnings and Precautions (5.10)]
+- Eosinophilic conditions and Churg-Strauss [seeWarnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -61,11 +61,11 @@ Adverse reactions, regardless of investigator causality assessment, reported in 
 The following adverse reactions have been reported during post-approval use of PULMICORT FLEXHALER.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune system disorders: immediate and delayed hypersensitivity reactions including anaphylactic reaction, angioedema, bronchospasm, rash, contact dermatitis, urticaria, and cough, wheezing or bronchospasm in patients with severe milk protein hypersensitivity [seeWarnings and Precautions (5.3) and Containdications (4)]
+Immune system disorders: immediate and delayed hypersensitivity reactions including anaphylactic reaction, angioedema, bronchospasm, rash, contact dermatitis, urticaria, and cough, wheezing or bronchospasm in patients with severe milk protein hypersensitivity [see Warnings and Precautions (5.3) and Contraindications (4)]
 
-Endocrine disorders: symptoms of hypocorticism and hypercorticism [seeWarnings and Precautions (5.6)]
+Endocrine disorders: symptoms of hypocorticism and hypercorticism [see Warnings and Precautions (5.6)]
 
-Eye disorders: cataracts, glaucoma, increased intraocular pressure [seeWarnings and Precautions (5.10)]
+Eye disorders: cataracts, glaucoma, increased intraocular pressure [see Warnings and Precautions (5.10)]
 
 Psychiatric disorders: psychiatric symptoms including psychosis, depression, aggressive reactions, irritability, nervousness, restlessness, and anxiety
 

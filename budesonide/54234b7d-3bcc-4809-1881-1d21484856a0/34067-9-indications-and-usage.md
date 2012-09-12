@@ -6,4 +6,4 @@ PULMICORT FLEXHALER is indicated for the maintenance treatment of asthma as prop
 
 Important Limitations of Use:
 
-- •PULMICORT FLEXHALER is NOT indicated for the relief of acute bronchospasm.
+- PULMICORT FLEXHALER is NOT indicated for the relief of acute bronchospasm.
