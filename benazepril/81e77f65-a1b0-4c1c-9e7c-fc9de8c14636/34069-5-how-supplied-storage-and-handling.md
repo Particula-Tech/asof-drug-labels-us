@@ -26,12 +26,6 @@ Storage: Do not store above 30ºC (86ºF).
 Protect from moisture and light.
 Dispense in tight, light-resistant container (USP).
 
-Manufactured by:
-
-Novartis Pharmaceuticals Corporation
-
-Suffern, New York 10901
-
 Distributed by:
 
 Novartis Pharmaceuticals Corporation
@@ -40,4 +34,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2012-51 February 2012
+T2012-147 July 2012

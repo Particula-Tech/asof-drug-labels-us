@@ -90,7 +90,7 @@ After oral administration of hydrochlorothiazide, diuresis begins within 2 hours
 
 Drug Interactions
 
-Lotensin HCT potentiates the antihypertensive action of other antihypertensive drugs (e.g. curare derivatives, guanethidine, methyldopa, beta-blockers, vasodilators, calcium channel blockers ACE inhibitors and ARBs and DRIs).
+Lotensin HCT potentiates the antihypertensive action of other antihypertensive drugs (e.g., curare derivatives, guanethidine, methyldopa, beta-blockers, vasodilators, calcium channel blockers ACE inhibitors and ARBs and DRIs).
 
 ## CLINICAL STUDIES
 
@@ -106,6 +106,10 @@ In studies comparing the same daily dose of benazepril given as a single morning
 The antihypertensive effects of benazepril were not appreciably different in patients receiving high- or low-sodium diets.
 
 Benazapril-Hydrochlorothiazide
+
+In 15 controlled clinical trials, 1453 healthy or hypertensive patients were exposed to benazepril and hydrochlorothiazide of which 459 were exposed for at least 6 months, 214 for at least 12 months and 25 for at least 24 months.
+
+The combination of benazepril-hydrochlorothiazide resulted in mean placebo-adjusted decreases in sitting systolic and diastolic blood pressures of 10/6 mm Hg with 5-6.25 mg and 10-12.5 mg doses, and 20/10 mm Hg with 20-25 mg dose.
 
 In clinical trials of benazepril/hydrochlorothiazide using benazepril doses of 5-20 mg and hydrochlorothiazide doses of 6.25-25 mg, the antihypertensive effects were sustained for at least 24 hours, and they increased with increasing dose of either component.
 Although benazepril monotherapy is somewhat less effective in blacks than in nonblacks, the efficacy of combination therapy appears to be independent of race.

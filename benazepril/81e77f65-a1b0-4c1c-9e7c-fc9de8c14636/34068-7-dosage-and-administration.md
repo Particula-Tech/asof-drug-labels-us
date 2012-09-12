@@ -2,7 +2,7 @@
 
 Dose once daily.
 The dosage may then be increased after 2 to 3 weeks as needed to help achieve blood pressure goals.
-The maximum recommended dose is 20mg/25mg
+The maximum recommended dose is 20mg/25mg.
 
 Switch Therapy: A patient whose blood pressure is not adequately controlled with benazapril alone or with hydrochlorothiazide alone may be switched to combination therapy with Lotensin HCT.
 The usual recommended starting dose is 10/12.5 mg once daily to control blood pressure.

@@ -74,7 +74,7 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue Lotensin HCT, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to Lotensin HCT for hypotension, oliguria, and hyperkalemia [see Precautions, Pediatric Use].
+Closely observe infants with histories of in utero exposure to Lotensin HCT for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use).
 
 No teratogenic effects of Lotensin were seen in studies of pregnant rats, mice, and rabbits.
 On a mg/m2 basis, the doses used in these studies were 60 times (in rats), 9 times (in mice), and more than 0.8 times (in rabbits) the maximum recommended human dose (assuming a 50-kg woman).
@@ -86,7 +86,7 @@ Thiazides can cross the placenta, and concentrations reached in the umbilical ve
 It accumulates in the amniotic fluid, with reported concentrations up to 19 times higher than in umbilical vein plasma.
 Use of thiazides during pregnancy is associated with a risk of fetal or neonatal jaundice or thrombocytopenia.
 Since they do not prevent or alter the course of EPH (Edema, Proteinuria, Hypertension) gestosis (pre-eclampsia), these drugs must not be used to treat hypertension in pregnant women.
-The use of hydrochlorothiazide for other indications (e.g. heart disease) in pregnancy should be avoided.
+The use of hydrochlorothiazide for other indications (e.g., heart disease) in pregnancy should be avoided.
 
 ## Hepatic Failure
 
@@ -120,7 +120,7 @@ Hypomagnesema can result in hypokalemia which appears difficult to treat despite
 Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
 Monitor serum electrolytes periodically.
 
-Metabolic Disturbances:
+Metabolic Disturbances
 
 Hydrochlorothiazide
 
@@ -165,7 +165,7 @@ Therapy with Lotensin HCT should be interrupted for a few days before carrying o
 
 Interactions Common for Both Benazepril and Hydrochlorothiazide
 
-Potassium Supplements and Potassium-Sparing Diuretics: Concomitant use with Lotensin HCT may effect potassium levels.
+Potassium Supplements and Potassium-Sparing Diuretics: Concomitant use with Lotensin HCT may affect potassium levels.
 Monitor potassium periodically.
 
 Lithium: Renal clearance of lithium is reduced by thiazides and increase the risk of lithium toxicity.
@@ -180,8 +180,8 @@ The antihypertensive effect of benazepril and hydrochlorothiazide may be attenua
 
 Benazepril
 
-Benazepril has been used concomitantly with beta adrenergic-blocking agents, calcium-blocking agents, cimetidine, diuretics, digoxin, hydralazine, and naproxen without evidence of clinically important adverse interactions.
-Other ACE inhibitors have had less than additive effects with beta adrenergic blockers, presumably because drugs of both classes lower blood pressure by inhibiting parts of the renin-angiotensin system.
+Benazepril has been used concomitantly with beta-adrenergic-blocking agents, calcium-blocking agents, cimetidine, diuretics, digoxin, hydralazine, and naproxen without evidence of clinically important adverse interactions.
+Other ACE inhibitors have had less than additive effects with beta-adrenergic blockers, presumably because drugs of both classes lower blood pressure by inhibiting parts of the renin-angiotensin system.
 
 Interaction studies with warfarin and acenocoumarol have failed to identify any clinically important effects of benazepril on the serum concentrations or clinical effects of these anticoagulants.
 
@@ -198,9 +198,9 @@ Skeletal muscle relaxants: Possible increased responsiveness to muscle relaxants
 
 Antidiabetic agents: Dosage adjustment of antidiabetic drug may be required.
 
-Antineoplastic agents (e.g. cyclophosphamide, methotrexate): Concomitant use of thiazide diuretics may reduce renal excretion of cytotoxic agents and enhance their myelosuppressive effects.
+Antineoplastic agents (e.g., cyclophosphamide, methotrexate): Concomitant use of thiazide diuretics may reduce renal excretion of cytotoxic agents and enhance their myelosuppressive effects.
 
-Drugs that alter gastrointestinal motility: The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g. atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate.
+Drugs that alter gastrointestinal motility: The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g., atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate.
 Conversely, pro-kinetic drugs may decrease the bioavailability of thiazide diuretics.
 
 Cyclosporin: Concomitant treatment with diuretics may increase the risk of hyperuricaemia and gout-type complications.
@@ -228,7 +228,7 @@ Positive test results were also obtained in the Aspergillus nidulans nondisjunct
 Fertility
 
 There are no human fertility data for hydrochlorothiazide.
-In animal studies, benazepril and hydrochlorothiazide alone or in combination had no effect on fertility and conception (see Non-Clinical Safety Data).
+In animal studies, benazepril and hydrochlorothiazide alone or in combination had no effect on fertility and conception (see PRECAUTIONS, Non-clinical safety data).
 
 ## Use in Specific Populations
 
@@ -262,7 +262,7 @@ No dose adjustment is required in patients with mild (CrCL 60-90 ml/min) or mode
 
 ## Hepatic Impairment
 
-No adjustment of the initial dose is required for patients with mild to moderate hepatic impairment (see Clinical Pharmacology).
+No adjustment of the initial dose is required for patients with mild to moderate hepatic impairment (see CLINICAL PHARMACOLOGY).
 
 Hydrochlorothiazide
 
