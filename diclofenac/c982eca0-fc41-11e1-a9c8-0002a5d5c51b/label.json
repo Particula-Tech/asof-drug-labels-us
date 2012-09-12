@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022202"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Depomed, Inc.",
+  "package_ndcs": [
+    "13913-008-11",
+    "13913-008-94"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "diclofenac potassium",
+      "name": "Zipsor"
+    }
+  ],
+  "setid": "c982eca0-fc41-11e1-a9c8-0002a5d5c51b",
+  "source": "dailymed"
+}
