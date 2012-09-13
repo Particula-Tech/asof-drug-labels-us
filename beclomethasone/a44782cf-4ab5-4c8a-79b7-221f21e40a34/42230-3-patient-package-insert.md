@@ -6,7 +6,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 BECONASE AQ®
 
-(beclomethasone dipropionate,
+(beclomethasonedipropionate,
 
 monohydrate)
 
