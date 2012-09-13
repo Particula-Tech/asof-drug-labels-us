@@ -1,10 +1,14 @@
 # 1 INDICATIONS AND USAGE
 
-Aplenzin® (bupropion hydrobromide extended-release tablets) is indicated for the treatment of major depressive disorder.
+## 1.1 Major Depressive Disorder
 
-The efficacy of bupropion in the treatment of a major depressive episode was established in two 4-week controlled trials of inpatients and in one 6-week controlled trial of outpatients whose diagnoses corresponded most closely to the Major Depression category of the APA Diagnostic and Statistical Manual (DSM) [see CLINICAL STUDIES (14)].
+APLENZIN® (bupropion hydrobromide extended-release tablets) is indicated for the treatment of major depressive disorder (MDD), as defined by the Diagnostic and Statistical Manual (DSM).
 
-A major depressive episode (DSM-IV) implies the presence of 1) depressed mood or 2) loss of interest or pleasure; in addition, at least 5 of the following symptoms have been present during the same 2-week period and represent a change from previous functioning: depressed mood, markedly diminished interest or pleasure in usual activities, significant change in weight and/or appetite, insomnia or hypersomnia, psychomotor agitation or retardation, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, a suicide attempt, or suicidal ideation.
+The efficacy of the immediate-release formulation of bupropion was established in two 4-week controlled inpatient trials and one 6-week controlled outpatient trial of adult patients with MDD.
+The efficacy of the sustained-release formulation of bupropion in the maintenance treatment of MDD was established in a long-term (up to 44 weeks), placebo-controlled trial in patients who had responded to bupropion in an 8-week study of acute treatment [see Clinical Studies (14.1)].
 
-The efficacy of bupropion in maintaining an antidepressant response for up to 44 weeks following 8 weeks of acute treatment was demonstrated in a placebo-controlled trial with the sustained-release formulation of bupropion [see CLINICAL STUDIES (14)].
-Nevertheless, the physician who elects to use Aplenzin for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
+## 1.2 Seasonal Affective Disorder
+
+APLENZIN is indicated for the prevention of seasonal major depressive episodes in patients with a diagnosis of seasonal affective disorder (SAD).
+
+The efficacy of bupropion hydrochloride extended-release tablets in the prevention of seasonal major depressive episodes was established in 3 placebo-controlled trials in adult outpatients with a history of MDD with an autumn-winter seasonal pattern as defined in the DSM [see Clinical Studies (14.2)].

@@ -1,44 +1,49 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing Considerations
+## 2.1 Administration Instructions
 
-It is particularly important to administer Aplenzin Tablets in a manner most likely to minimize the risk of seizure [see WARNINGS AND PRECAUTIONS: Seizures (5.5)].
-Gradual escalation in dosage is also important if agitation, motor restlessness, and insomnia, often seen during the initial days of treatment, are to be minimized.
-If necessary, these effects may be managed by temporary reduction of dose or the short-term administration of an intermediate to long-acting sedative hypnotic.
-A sedative hypnotic usually is not required beyond the first week of treatment.
-Insomnia may also be minimized by avoiding bedtime doses.
-If distressing, untoward effects supervene, dose escalation should be stopped.
-Aplenzin should be swallowed whole and not crushed, divided, or chewed.
-Aplenzin may be taken without regard to meals.
+To minimize the risk of seizure, increase the dose gradually [see Warnings and Precautions (5.3)].
 
-## 2.2 Initial Treatment
+APLENZIN should be swallowed whole and not crushed, divided, or chewed.
+APLENZIN should be administered in the morning and may be taken with or without regard to meals.
 
-The usual adult target dose for Aplenzin Tablets is 348 mg/day (equivalent to 300 mg/day bupropion HCl), given once daily in the morning.
-Dosing with Aplenzin Tablets should begin at 174 mg/day (equivalent to 150 mg/day bupropion HCl) given as a single daily dose in the morning.
-If the 174 mg initial dose is adequately tolerated, an increase to the 348 mg/day target dose, given as once daily, may be made as early as day 4 of dosing.
-There should be an interval of at least 24 hours between successive doses.
+## 2.2 Equivalent Daily Doses of APLENZIN (Bupropion hydrobromide) and Bupropion hydrochloride
 
-Increasing the Dosage Above 348 mg/day: As with other antidepressants, the full antidepressant effect of Aplenzin Tablets may not be evident until 4 weeks of treatment or longer.
-An increase in dosage to the maximum of 522 mg/day, given as a single dose, may be considered for patients in whom no clinical improvement is noted after several weeks of treatment at 348 mg/day.
+See Table 1 for equivalent daily doses of APLENZIN (bupropion hydrobromide) and bupropion hydrochloride.
 
-## 2.3 Maintenance Treatment
+Table 1: Equivalent Daily Doses of APLENZIN (Bupropion hydrobromide) and Bupropion hydrochloride
 
-It is generally agreed that acute episodes of depression require several months or longer of sustained pharmacological therapy beyond response to the acute episode.
-It is unknown whether or not the dose of Aplenzin needed for maintenance treatment is identical to the dose needed to achieve an initial response.
-Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment.
+| APLENZIN (bupropion hydrobromide) | Bupropion hydrochloride |
+| --- | --- |
+| 522 mg | 450 mg |
+| 348 mg | 300 mg |
+| 174 mg | 150 mg |
 
-## 2.4 Switching Patients from WELLBUTRIN, WELLBUTRIN SR or WELLBUTRIN XL
+## 2.3 Dosage for Major Depressive Disorder (MDD)
 
-When switching patients from WELLBUTRIN®, WELLBUTRIN® SR or WELLBUTRIN XL® Tablets to Aplenzin, give the equivalent total daily dose when possible (522 mg bupropion HBr are equivalent to 450 mg bupropion HCl; 348 mg bupropion HBr are equivalent to 300 mg bupropion HCl; 174 mg bupropion HBr are equivalent to 150 mg bupropion HCl).
-Patients who are currently being treated with WELLBUTRIN Tablets at 300 mg/day (for example, 100 mg 3 times a day) may be switched to Aplenzin 348 mg once daily.
-Patients who are currently being treated with WELLBUTRIN SR Sustained-Release Tablets at 300 mg/day (for example, 150 mg twice daily) may be switched to Aplenzin 348 mg once daily.
+The recommended starting dose for MDD is 174 mg once daily in the morning.
+After 4 days of dosing, the dose may be increased to the target dose of 348 mg once daily in the morning.
 
-## 2.5 Dosage Adjustment for Patients with Impaired Hepatic Function
+It is generally agreed that acute episodes of depression require several months or longer of antidepressant treatment beyond the response in the acute episode.
+It is unknown whether the APLENZIN dose needed for maintenance treatment is identical to the dose that provided an initial response.
+Periodically reassess the need for maintenance treatment and the appropriate dose for such treatment.
 
-Aplenzin should be used with extreme caution in patients with severe hepatic cirrhosis.
-The dose should not exceed 174 mg every other day in these patients.
-Aplenzin should be used with caution in patients with hepatic impairment (including mild to moderate hepatic cirrhosis) and a reduced frequency and/or dose should be considered in patients with mild to moderate hepatic cirrhosis [see WARNINGS AND PRECAUTIONS: Hepatic Impairment (5.6), USE IN SPECIFIC POPULATION: Hepatic Impairment (8.7), and CLINICAL PHARMACOLOGY: Pharmacokinetics (12.3)].
+## 2.4 Dosage for Seasonal Affective Disorder (SAD)
 
-## 2.6 Dosage Adjustment for Patients with Impaired Renal Function
+The recommended starting dose for SAD is 174 mg once daily.
+After 7 days of dosing, the dose may be increased to the target dose of 348 mg once daily in the morning.
+Doses above 300 mg of bupropion HCl extended-release (equivalent to APLENZIN 348 mg) were not assessed in the SAD trials.
 
-Aplenzin should be used with caution in patients with renal impairment and a reduced frequency and/or dose should be considered [see USE IN SPECIFIC POPULATIONS: Renal Impairment (8.6) and CLINICAL PHARMACOLOGY, Pharmacokinetics (12.3)].
+For the prevention of seasonal MDD episodes associated with SAD, initiate APLENZIN in the autumn, prior to the onset of depressive symptoms.
+Continue treatment through the winter season.
+Taper and discontinue APLENZIN in early spring.
+For patients treated with 348 mg per day, decrease the dose to 150 mg once daily before discontinuing APLENZIN.
+Individualize the timing of initiation and duration of treatment should be individualized, based on the patient’s historical pattern of seasonal MDD episodes.
+
+## 2.5 To Discontinue APLENZIN, Taper the Dose
+
+When discontinuing treatment in patients treated with APLENZIN 348 mg once daily, decrease the dose to 174 mg once daily prior to discontinuation.
+
+## 2.6 Dosage Adjustment for Patients with Impaired Hepatic Function
+
+For patients with severe hepatic impairment, the recommended initial and maximum dose is 174 mg every other day [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
