@@ -10,11 +10,7 @@ NASAL SPRAY
 
 20 mg
 
-Rx only
-
 0.1 mL per unit
-
-6 Nasal Spray Units
 
 For Intranasal Use Only
 
@@ -24,9 +20,14 @@ Each unit dose nasal spray contains 20 mg of sumatriptan.
 
 Do not test before use.
 
-©2009, GlaxoSmithKline
+Rx only
 
-10000000076010
+6 Nasal Spray Units
+
+©2012, GlaxoSmithKline
+
+10000000076010 Rev.
+4/12
 
 # Principal Display Panel
 
@@ -40,11 +41,7 @@ NASAL SPRAY
 
 5 mg
 
-Rx only
-
 0.1 mL per unit
-
-6 Nasal Spray Units
 
 For Intranasal Use Only
 
@@ -54,6 +51,11 @@ Each unit dose nasal spray contains 5 mg of sumatriptan.
 
 Do not test before use.
 
-©2009, GlaxoSmithKline
+Rx only
 
-10000000076012
+6 Nasal Spray Units
+
+©2012, GlaxoSmithKline
+
+10000000105782 Rev.
+4/12
