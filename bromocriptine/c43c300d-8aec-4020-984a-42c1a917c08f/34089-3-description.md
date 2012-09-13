@@ -1,9 +1,10 @@
 # DESCRIPTION
 
 Bromocriptine mesylate is an ergot derivative with potent dopamine receptor agonist activity.
-Bromocriptine mesylate is chemically designated as 2-bromoergocryptine monomethanesulfonate (salt).* Bromocriptine mesylate is a white or slightly colored, fine crystalline powder odorless or having a weak characteristic odor.
 
-Structural Formula
+Bromocriptine mesylate is chemically designated as Ergotaman 3´,6´,18-trione, 2-bromo-12´-hydroxy-2´-(1-methylethyl)-5´-(2-methylpropyl)-, (5’α)-monomethanesulfonate (salt).
+
+The structural formula is:
 
 2.5 mg Tablets
 

@@ -2,10 +2,10 @@
 
 ## Hyperprolactinemia-Associated Dysfunctions
 
-Bromocriptine mesylate tablets are indicated for the treatment of dysfunctions associated with hyperprolactinemia including amenorrhea with or without galactorrhea, infertility or hypogonadism.
+Bromocriptine mesylate tablets are indicated for the treatment of dysfunctions associated with hyperprolactinemiaincluding amenorrhea with or without galactorrhea, infertility or hypogonadism.
 Bromocriptine mesylate treatment is indicated in patients with prolactin-secreting adenomas, which may be the basic underlying endocrinopathy contributing to the above clinical presentations.
 Reduction in tumor size has been demonstrated in both male and female patients with macroadenomas.
-In cases where adenecto-my is elected, a course of bromocriptine mesylate therapy may be used to reduce the tumor mass prior to surgery.
+In cases where adenectomy is elected, a course of bromocriptine mesylate therapy may be used to reduce the tumor mass prior to surgery.
 
 ## Acromegaly
 

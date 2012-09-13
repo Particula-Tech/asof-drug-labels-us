@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA074631"
+  ],
   "inn": "bromocriptine",
-  "labeler": "Lek Pharmaceuticals, Inc.",
+  "labeler": "Sandoz Inc",
   "package_ndcs": [
     "0781-5325-01",
     "0781-5325-31"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "bromocriptine mesylate",
+      "name": "Bromocriptine mesylate"
+    }
+  ],
   "setid": "c43c300d-8aec-4020-984a-42c1a917c08f",
   "source": "dailymed"
 }

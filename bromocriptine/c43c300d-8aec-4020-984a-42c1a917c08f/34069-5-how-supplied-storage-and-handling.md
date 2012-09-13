@@ -1,27 +1,23 @@
 # HOW SUPPLIED
 
-Bromocriptine mesylate tablets, USP 2.5 mg are white to yellowish white round tablets, scored on one side with debossed code BCT 2 1/2 on reverse side and are available in
+Bromocriptine mesylate tablets are available as follows:
 
-NDC 0781-5325-31 bottles of 30
+2.5 mg white to yellowish white round tablets, scored on one side with debossed code BCT 2 1/2 on reverse side.
 
-NDC 0781-5325-01 bottles of 100
+NDC 0781-5325-31 bottle of 30 tablets
 
-Store below 25°C (77°F).
-Dispense in a tight, light-resistant container as defined in the USP.
+NDC 0781-5325-01 bottle of 100 tablets
 
-Keep this and all drugs out of the reach of children.
+## STORAGE
 
-Rev.
-April 2005
+Store at 20°-25°C (68° - 77°F) [see USP Controlled Room Temperature].
+Protect from moisture.
+Dispense in a tight, light-resistant container.
 
-Manufactured by Lek Pharmaceuticals d.d.
+Manufactured in Slovenia
 
-Verovøkova 57, Ljubljana, Slovenia
+by Lek Pharmaceuticals d.d.
 
-Distributed by Lek Pharmaceuticals, Inc.
+for Sandoz Inc., Princeton, NJ 08540
 
-an affiliate of Sandoz Inc.
-
-SANDOZ
-
-Broomfield, CO 80020
+Rev. date: January 2008
