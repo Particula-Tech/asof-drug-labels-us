@@ -55,9 +55,9 @@ The overall incidence and nature of adverse reactions observed were similar to t
 
 Long term chronic use safety data for COMBIVENT RESPIMAT were obtained from one 48-week, randomized, multi-center, open-label, parallel-group trial that compared COMBIVENT RESPIMAT (20/100 mcg), CFC-propelled COMBIVENT Inhalation Aerosol (36/206 mcg) and the free combination of ipratropium bromide (34 mcg) and albuterol (180 mcg) HFA inhalation aerosols administered 4 times a day in 465 adult COPD patients (273 males and 192 females) 40 years of age and older.
 Of these patients, 157 were treated with COMBIVENT RESPIMAT.
-The COMBIVENT RESPIMAT group was composed of mostly Caucasian (93.5 %) patients with a mean age of 62.9 years, and a mean percent predicted FEV1 at screening of 47.0%.
-An interim evaluation of the 24-week safety data from the trial revealed that most adverse reactions were similar in type and rate between treatment groups.
-However, cough occurred more frequently in patients enrolled in the COMBIVENT RESPIMAT group (6.4%) compared to those in the CFC-propelled COMBIVENT Inhalation Aerosol (2.6%) or the free combination of ipratropium bromide and albuterol HFA inhalation aerosols (3.2%) groups.
+The COMBIVENT RESPIMAT group was composed of mostly Caucasian (93.5%) patients with a mean age of 62.9 years, and a mean percent predicted FEV1 at screening of 47.0%.
+An evaluation of the safety data from the trial revealed that most adverse reactions were similar in type and rate between treatment groups.
+However, cough occurred more frequently in patients enrolled in the COMBIVENT RESPIMAT group (7.0%) compared to those in the CFC-propelled COMBIVENT Inhalation Aerosol (2.6%) or the free combination of ipratropium bromide and albuterol HFA inhalation aerosols (3.9%) groups.
 
 In addition to the adverse reactions reported in the controlled clinical trial with COMBIVENT RESPIMAT, adverse reaction information concerning CFC-propelled COMBIVENT Inhalation Aerosol is derived from two 12-week controlled clinical trials (N=358 for CFC-propelled COMBIVENT Inhalation Aerosol).
 Adverse reactions reported in ≥2% of patients in the CFC-propelled COMBIVENT Inhalation Aerosol treatment group include: bronchitis, upper respiratory tract infection, headache, dyspnea, cough, pain, respiratory disorder, sinusitis, pharyngitis and nausea.
@@ -74,3 +74,5 @@ Eye disorders: glaucoma, blurred vision, mydriasis, conjunctival hyperemia, halo
 Allergic-type reactions such as skin reactions including rash, pruritus, and urticaria (including giant urticaria), angioedema including that of tongue, lips and face, laryngospasm, and anaphylactic reaction have also been reported with CFC-propelled COMBIVENT Inhalation Aerosol, with positive re-challenge in some cases [see Warnings and Precautions (5.6)].
 
 In a 5-year placebo-controlled trial, hospitalizations for supraventricular tachycardia and/or atrial fibrillation occurred with an incidence rate of 0.5% in COPD patients receiving CFC-propelled Atrovent® (ipratropium bromide) Inhalation Aerosol.
+
+Metabolic acidosis has been reported with use of albuterol-containing products.

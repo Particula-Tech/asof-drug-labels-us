@@ -4,8 +4,8 @@ Address medical inquiries to: (800) 542-6257 or 800 459-9906 TTY.
 
 COMBIVENT® and RESPIMAT® are registered trademarks and used under license from Boehringer Ingelheim International GmbH
 
-Copyright Boehringer Ingelheim International GmbH, 2012 ALL RIGHTS RESERVED
+Copyright 2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-OT24008CB142012 301041-02
+OT24008DI052012 301041-03
 
-IT5581A 301198-02
+IT5581B 301198-04
