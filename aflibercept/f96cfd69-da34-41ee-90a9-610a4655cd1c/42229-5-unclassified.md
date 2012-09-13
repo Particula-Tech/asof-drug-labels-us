@@ -10,15 +10,15 @@ Tarrytown, NY 10591-6707
 
 U.S. License Number 1760
 
-EYLEA™ is a trademark of Regeneron Pharmaceuticals, Inc.
+EYLEA is a registered trademark of Regeneron Pharmaceuticals, Inc.
 
-© 2011, Regeneron Pharmaceuticals, Inc.
+© 2012, Regeneron Pharmaceuticals, Inc.
 
 All rights reserved.
 
-V1.0
+V2.0
 
-Issue Date: November /2011
+Issue Date: August 2012
 
 Initial U.S. Approval: 2011
 

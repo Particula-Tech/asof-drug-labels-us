@@ -21,7 +21,7 @@ Vial
 
 The glass vial is for single use only.
 
-1. Remove the protective plastic cap from the vial (see Figure 1).
+1. 1.Remove the protective plastic cap from the vial (see Figure 1).
 
 | Figure 1: |
 | --- |
