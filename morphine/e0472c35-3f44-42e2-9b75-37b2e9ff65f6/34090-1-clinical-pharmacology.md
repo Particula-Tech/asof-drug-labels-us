@@ -8,6 +8,17 @@ In addition to analgesia, the widely diverse effects of morphine sulfate include
 Morphine produces both its therapeutic and its adverse effects by interaction with one or more classes of specific opioid receptors located throughout the body.
 Morphine acts as a full agonist, binding with and activating opioid receptors at sites in the peri-aqueductal and peri-ventricular grey matter, the ventro-medial medulla and the spinal cord to produce analgesia.
 
+## 12.2 Pharmacodynamics
+
+Plasma Level-Analgesia Relationships
+
+While plasma morphine-efficacy relationships can be demonstrated in non-tolerant individuals, they are influenced by a wide variety of factors and are not generally useful as a guide to the clinical use of morphine.
+Dosages of morphine should be chosen and must be titrated on the basis of clinical evaluation of the patient and the balance between therapeutic and adverse effects.
+
+CNS Depressant/Alcohol Interaction
+
+Additive pharmacodynamic effects may be expected when MS CONTIN is used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression.
+
 Effects on the Central Nervous System
 
 The principal actions of therapeutic value of morphine are analgesia and sedation.
@@ -45,17 +56,6 @@ Effects on the Immune System
 Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
-
-## 12.2 Pharmacodynamics
-
-Plasma Level-Analgesia Relationships
-
-While plasma morphine-efficacy relationships can be demonstrated in non-tolerant individuals, they are influenced by a wide variety of factors and are not generally useful as a guide to the clinical use of morphine.
-Dosages of morphine should be chosen and must be titrated on the basis of clinical evaluation of the patient and the balance between therapeutic and adverse effects.
-
-CNS Depressant/Alcohol Interaction
-
-Additive pharmacodynamic effects may be expected when MS CONTIN is used in conjunction with alcohol, other opioids, or illicit drugs that cause central nervous system depression.
 
 ## 12.3 Pharmacokinetics
 
