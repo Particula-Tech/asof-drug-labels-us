@@ -4,7 +4,7 @@ Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 
 
 Manufactured for: Janssen Products, LP Horsham, Pennsylvania 19044 ©Janssen Products, LP 2000 Printed in U. S. A.
 
-This product, the process of its manufacture, or its use, may be covered by one or more U.S. Patents, including U.S. Patent No. 5,441,868; 5,547,933; 5,618,698; 5,756,349; and 5,955,422.
+Patent: www.procrit.com/patents/
 
 Instructions for Use
 
