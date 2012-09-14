@@ -21,7 +21,7 @@ Diabetic Peripheral Neuropathic Pain — The recommended dose for Cymbalta is 60
 There is no evidence that doses higher than 60 mg confer additional significant benefit and the higher dose is clearly less well tolerated [see Clinical Studies (14.3)].
 For patients for whom tolerability is a concern, a lower starting dose may be considered.
 
-Since diabetes is frequently complicated by renal disease, a lower starting dose and gradual increase in dose should be considered for patients with renal impairment [see Clinical Pharmacology (12.3) and Dosage and Administration (2.3)].
+Since diabetes is frequently complicated by renal disease, a lower starting dose and gradual increase in dose should be considered for patients with renal impairment [see Dosage and Administration (2.3), Use in Specific Populations (8.10), and Clinical Pharmacology (12.3)].
 
 Fibromyalgia — The recommended dose for Cymbalta is 60 mg administered once daily.
 Treatment should begin at 30 mg once daily for 1 week, to allow patients to adjust to the medication before increasing to 60 mg once daily.

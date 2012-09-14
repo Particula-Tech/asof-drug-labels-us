@@ -49,6 +49,9 @@ Because the safety of duloxetine in infants is not known, nursing while on Cymba
 Safety and effectiveness in the pediatric population have not been established [see Boxed Warning and Warnings and Precautions (5.1)].
 Anyone considering the use of Cymbalta in a child or adolescent must balance the potential risks with the clinical need.
 
+Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
+Consequently, regular monitoring of weight and growth should be performed in children and adolescents treated with an SNRI such as Cymbalta.
+
 ## 8.5 Geriatric Use
 
 Of the 2,418 patients in premarketing clinical studies of Cymbalta for MDD, 5.9% (143) were 65 years of age or over.

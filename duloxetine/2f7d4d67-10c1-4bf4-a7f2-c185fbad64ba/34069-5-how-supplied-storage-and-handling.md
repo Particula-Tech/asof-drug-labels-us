@@ -16,11 +16,11 @@ Cymbalta is available as delayed release capsules in the following strengths, co
 | Bottles of 30 | NA | 0002-3240-30 | 0002-3237-30 | 0002-3270-30 |
 | Bottles of 60 | 0002-3235-60 | NA | NA | NA |
 | Bottles of 90 | NA | 0002-3240-90 | NA | NA |
-| Bottles of 1000 | NA | 0002-3240-04 | 0002-3237-04 | 0002-3270-04 |
-| Blisters ID†100 | NA | 0002-3240-33 | 0002-3237-33 | 0002-3270-33 |
+| Bottles of 1000 | NA | NA | NA | 0002-3270-04 |
+| Blisters ID†100 | NA | 0002-3240-33 | NA | 0002-3270-33 |
 | a equivalent to duloxetine base |  |  |  |  |
 | † Identi-Dose® (unit dose medication, Lilly) |  |  |  |  |
 
-## 16.2 Storage
+## 16.2 Storage and Handling
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].

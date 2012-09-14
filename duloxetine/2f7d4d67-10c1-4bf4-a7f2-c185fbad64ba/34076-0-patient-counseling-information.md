@@ -28,25 +28,72 @@ All of these might affect the enteric coating.
 
 While patients may notice improvement with Cymbalta therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
 
-## 17.5 Abnormal Bleeding
+## 17.5 Hepatotoxicity
 
-Patients should be cautioned about the concomitant use of duloxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.5)].
+Patients should be informed that severe liver problems, sometimes fatal, have been reported in patients treated with Cymbalta.
+Patients should be instructed to talk to their healthcare provider if they develop itching, right upper belly pain, dark urine, or yellow skin/eyes while taking Cymbalta, which may be signs of liver problems.
+Patients should talk to their healthcare provider about their alcohol consumption.
+Use of Cymbalta with heavy alcohol intake may be associated with severe liver injury [see Warnings and Precautions (5.2)].
 
-## 17.6 Severe Skin Reactions
+## 17.6 Alcohol
 
-Patients should be cautioned that Cymbalta may cause serious skin reactions.
-This may need to be treated in a hospital and may be life-threatening.
-Patients should be counseled to call their doctor right away or get emergency help if they have skin blisters, peeling rash, sores in their mouth, hives, or any other allergic reactions [see Warnings and Precautions (5.6)].
+Although Cymbalta does not increase the impairment of mental and motor skills caused by alcohol, use of Cymbalta concomitantly with heavy alcohol intake may be associated with severe liver injury.
+For this reason, Cymbalta should not be prescribed for patients with substantial alcohol use [see Warnings and Precautions (5.2) and Drug Interactions (7.16)].
 
-## 17.7 Concomitant Medications
+## 17.7 Orthostatic Hypotension and Syncope
 
-Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter medications, since there is a potential for interactions [see Dosage and Administration (2.5), Contraindications (4.1), Warnings and Precautions (5.4 and 5.11), and Drug Interactions (7)].
+Patients should be advised of the risk of orthostatic hypotension and syncope, especially during the period of initial use and subsequent dose escalation, and in association with the use of concomitant drugs that might potentiate the orthostatic effect of duloxetine [see Warnings and Precautions (5.3)].
 
 ## 17.8 Serotonin Syndrome
 
 Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Cymbalta and triptans, tramadol or other serotonergic agents [see Warnings and Precautions (5.4) and Drug Interactions (7.14)].
 
-## 17.9 Pregnancy and Breast Feeding
+## 17.9 Abnormal Bleeding
+
+Patients should be cautioned about the concomitant use of duloxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.5)].
+
+## 17.10 Severe Skin Reactions
+
+Patients should be cautioned that Cymbalta may cause serious skin reactions.
+This may need to be treated in a hospital and may be life-threatening.
+Patients should be counseled to call their doctor right away or get emergency help if they have skin blisters, peeling rash, sores in their mouth, hives, or any other allergic reactions [see Warnings and Precautions (5.6)].
+
+## 17.11 Discontinuation of Treatment
+
+Patients should be instructed that discontinuation of Cymbalta may be associated with symptoms such as dizziness, headache, nausea, diarrhea, paresthesia, irritability, vomiting, insomnia, anxiety, hyperhidrosis, and fatigue, and should be advised not to alter their dosing regimen, or stop taking Cymbalta without consulting their physician [see Warnings and Precautions (5.7)].
+
+## 17.12 Activation of Mania or Hypomania
+
+Patients with depressive symptoms should be adequately screened for risk of bipolar disorder (e.g. family history of suicide, bipolar disorder, and depression) prior to initiating treatment with Cymbalta.
+Patients should be advised to report any signs or symptoms of a manic reaction such as greatly increased energy, severe trouble sleeping, racing thoughts, reckless behavior, talking more or faster than usual, unusually grand ideas, and excessive happiness or irritability [see Warnings and Precautions (5.8)].
+
+## 17.13 Seizures
+
+Patients should be advised to inform their physician if they have a history of seizure disorder [see Warnings and Precautions (5.9)].
+
+## 17.14 Effects on Blood Pressure
+
+Patients should be cautioned that Cymbalta may cause an increase in blood pressure [see Warnings and Precautions (5.10)].
+
+## 17.15 Concomitant Medications
+
+Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter medications, since there is a potential for interactions [see Dosage and Administration (2.5), Contraindications (4.1), Warnings and Precautions (5.4 and 5.11), and Drug Interactions (7)].
+
+## 17.16 Hyponatremia
+
+Patients should be advised that hyponatremia has been reported as a result of treatment with SNRIs and SSRIs, including Cymbalta.
+Patients should be advised of the signs and symptoms of hyponatremia [see Warnings and Precautions (5.12)].
+
+## 17.17 Concomitant Illnesses
+
+Patients should be advised to inform their physicians about all of their medical conditions [see Warnings and Precautions (5.13)].
+
+## 17.18 Urinary Hesitancy and Retention
+
+Cymbalta is in a class of medicines that may affect urination.
+Patients should be instructed to consult with their healthcare provider if they develop any problems with urine flow [see Warnings and Precautions (5.14)].
+
+## 17.19 Pregnancy and Breast Feeding
 
 Patients should be advised to notify their physician if they
 
@@ -55,19 +102,19 @@ Patients should be advised to notify their physician if they
 - are breast feeding [see Dosage and Administration (2.3) and Use in Specific Populations (8.1, 8.2, and 8.3)].
 
 Lilly maintains a pregnancy registry to monitor the pregnancy outcomes of women exposed to Cymbalta while pregnant.
-Healthcare providers are encouraged to register any patient who is exposed to Cymbalta during pregnancy by calling the Cymbalta Pregnancy Registry at 1-866-814-6975 or by visiting www.cymbaltapregnancyregistry.com
+Healthcare providers are encouraged to register any patient who is exposed to Cymbalta during pregnancy by calling the Cymbalta Pregnancy Registry at 1-866-814-6975 or by visiting www.cymbaltapregnancyregistry.com.
 
-## 17.10 Alcohol
-
-Although Cymbalta does not increase the impairment of mental and motor skills caused by alcohol, use of Cymbalta concomitantly with heavy alcohol intake may be associated with severe liver injury.
-For this reason, Cymbalta should not be prescribed for patients with substantial alcohol use [see Warnings and Precautions (5.2) and Drug Interactions (7.16)].
-
-## 17.11 Orthostatic Hypotension and Syncope
-
-Patients should be advised of the risk of orthostatic hypotension and syncope, especially during the period of initial use and subsequent dose escalation, and in association with the use of concomitant drugs that might potentiate the orthostatic effect of duloxetine [see Warnings and Precautions (5.3)].
-
-## 17.12 Interference with Psychomotor Performance
+## 17.20 Interference with Psychomotor Performance
 
 Any psychoactive drug may impair judgment, thinking, or motor skills.
 Although in controlled studies Cymbalta has not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.
 Therefore, patients should be cautioned about operating hazardous machinery including automobiles, until they are reasonably certain that Cymbalta therapy does not affect their ability to engage in such activities.
+
+Literature revised September 11, 2012
+
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
+
+Copyright © 2004, 2012, Eli Lilly and Company.
+All rights reserved.
+
+PV 9471 AMP

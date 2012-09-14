@@ -62,9 +62,9 @@ Cases of cholestatic jaundice with minimal elevation of transaminase levels have
 Other postmarketing reports indicate that elevated transaminases, bilirubin, and alkaline phosphatase have occurred in patients with chronic liver disease or cirrhosis.
 
 Cymbalta increased the risk of elevation of serum transaminase levels in development program clinical trials.
-Liver transaminase elevations resulted in the discontinuation of 0.3% (91/31,268) of Cymbalta-treated patients.
+Liver transaminase elevations resulted in the discontinuation of 0.3% (92/34,756) of Cymbalta-treated patients.
 In most patients, the median time to detection of the transaminase elevation was about two months.
-In placebo-controlled trials in any indication, for patients with normal and abnormal baseline ALT values, elevation of ALT >3 times the upper limit of normal occurred in 1.32% (135/10,244) of Cymbalta-treated patients compared to 0.49% (37/7556) of placebo-treated patients.
+In placebo-controlled trials in any indication, for patients with normal and abnormal baseline ALT values, elevation of ALT >3 times the upper limit of normal occurred in 1.25% (144/11,496) of Cymbalta-treated patients compared to 0.45% (39/8716) of placebo-treated patients.
 In placebo-controlled studies using a fixed dose design, there was evidence of a dose response relationship for ALT and AST elevation of >3 times the upper limit of normal and >5 times the upper limit of normal, respectively.
 
 Because it is possible that duloxetine and alcohol may interact to cause liver injury or that duloxetine may aggravate pre-existing liver disease, Cymbalta should not be prescribed to patients with substantial alcohol use or evidence of chronic liver disease.
@@ -111,7 +111,7 @@ Cymbalta should be discontinued at the first appearance of blisters, peeling ras
 ## 5.7 Discontinuation of Treatment with Cymbalta
 
 Discontinuation symptoms have been systematically evaluated in patients taking duloxetine.
-Following abrupt or tapered discontinuation in placebo-controlled clinical trials, the following symptoms occurred at 1% or greater and at a significantly higher rate in duloxetine-treated patients compared to those discontinuing from placebo: dizziness, nausea, headache, paresthesia, fatigue, vomiting, irritability, insomnia, diarrhea, anxiety, and hyperhidrosis.
+Following abrupt or tapered discontinuation in placebo-controlled clinical trials, the following symptoms occurred at 1% or greater and at a significantly higher rate in duloxetine-treated patients compared to those discontinuing from placebo: dizziness, headache, nausea, diarrhea, paresthesia, irritability, vomiting, insomnia, anxiety, hyperhidrosis, and fatigue.
 
 During marketing of other SSRIs and SNRIs (serotonin and norepinephrine reuptake inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
 Although these events are generally self-limiting, some have been reported to be severe.
@@ -123,7 +123,7 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 
 ## 5.8 Activation of Mania/Hypomania
 
-In placebo-controlled trials in patients with major depressive disorder, activation of mania or hypomania was reported in 0.1% (3/3007) of duloxetine-treated patients and 0.1% (1/1883) of placebo-treated patients.
+In placebo-controlled trials in patients with major depressive disorder, activation of mania or hypomania was reported in 0.1% (4/3779) of duloxetine-treated patients and 0.04% (1/2536) of placebo-treated patients.
 No activation of mania or hypomania was reported in GAD, fibromyalgia, or chronic musculoskeletal pain placebo-controlled trials.
 Activation of mania or hypomania has been reported in a small proportion of patients with mood disorders who were treated with other marketed drugs effective in the treatment of major depressive disorder.
 As with these other agents, Cymbalta should be used cautiously in patients with a history of mania.
@@ -131,7 +131,7 @@ As with these other agents, Cymbalta should be used cautiously in patients with 
 ## 5.9 Seizures
 
 Duloxetine has not been systematically evaluated in patients with a seizure disorder, and such patients were excluded from clinical studies.
-In placebo-controlled clinical trials, seizures/convulsions occurred in 0.03% (3/11,305) of patients treated with duloxetine and 0.01% (1/8224) of patients treated with placebo.
+In placebo-controlled clinical trials, seizures/convulsions occurred in 0.02% (3/12,722) of patients treated with duloxetine and 0.01% (1/9513) of patients treated with placebo.
 Cymbalta should be prescribed with care in patients with a history of a seizure disorder.
 
 ## 5.10 Effect on Blood Pressure
