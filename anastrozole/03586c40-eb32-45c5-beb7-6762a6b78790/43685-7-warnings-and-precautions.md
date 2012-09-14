@@ -13,4 +13,4 @@ Patients receiving tamoxifen had a mean increase in both lumbar spine and total 
 
 ## 5.3 Cholesterol
 
-During the ATAC trial, more patients receiving anastrozole were reported to have an elevated serum cholesterol compared to patients receiving tamoxifen (9% versus 3.5%, respectively) [see Adverse Reactions, (6.1)].
+During the ATAC trial, more patients receiving anastrozole were reported to have elevated serum cholesterol compared to patients receiving tamoxifen (9% versus 3.5%, respectively) [see Adverse Reactions, (6.1)].

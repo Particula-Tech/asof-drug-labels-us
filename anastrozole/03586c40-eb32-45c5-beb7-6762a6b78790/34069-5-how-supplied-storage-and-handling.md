@@ -1,6 +1,14 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-These tablets are supplied in bottles of 30 tablets (NDC 16729-035-10).
+Anastrozole tablets, 1 mg are white to off-white, round biconvex, film coated tablets, with “AHI” debossing on one side and plain on other side and are supplied as follows:
+
+Bottles of 30 tablets (NDC 16729-035-10)
+
+Bottles of 90 tablets (NDC 16729-035-15)
+
+Bottles of 500 tablets (NDC 16729-035-16)
+
+Bottles of 1000 tablets (NDC 16729-035-17)
 
 ## Storage
 
