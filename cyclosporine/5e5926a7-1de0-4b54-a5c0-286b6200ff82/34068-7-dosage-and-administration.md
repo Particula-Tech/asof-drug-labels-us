@@ -11,7 +11,7 @@ There is a trend towards use of even lower initial doses for renal transplantati
 The initial single daily dose is continued postoperatively for 1-2 weeks and then tapered by 5% per week to a maintenance dose of 5-10 mg/kg/day.
 Some centers have successfully tapered the maintenance dose to as low as 3 mg/kg/day in selected renal transplant patients without an apparent rise in rejection rate.
 
-(See Blood Level Monitoring below.)
+(See Blood Concentration Monitoring below.)
 
 In pediatric usage, the same dose and dosing regimen may be used as in adults although in several studies, children have required and tolerated higher doses than those used in adults.
 
@@ -60,9 +60,9 @@ The Cremophor® EL (polyoxyethylated castor oil) contained in the concentrate fo
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-## Blood Level Monitoring
+## Blood Concentration Monitoring
 
-Several study centers have found blood level monitoring of cyclosporine useful in patient management.
+Several study centers have found blood concentration monitoring of cyclosporine useful in patient management.
 While no fixed relationships have yet been established, in one series of 375 consecutive cadaveric renal transplant recipients, dosage was adjusted to achieve specific whole blood 24-hour trough levels of 100-200 ng/mL as determined by high-pressure liquid chromatography (HPLC).
 
 Of major importance to blood level analysis is the type of assay used.

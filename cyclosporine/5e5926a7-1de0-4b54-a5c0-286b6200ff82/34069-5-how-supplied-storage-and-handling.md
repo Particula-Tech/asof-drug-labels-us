@@ -45,12 +45,8 @@ FOR INFUSION ONLY
 
 Distributed by:
 
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
+Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2012-146
-
-August 2012
+T2012-160 August 2012
