@@ -81,7 +81,7 @@ Using PULMICORT RESPULES with certain other medicines may affect each other caus
 Especially tell your healthcare provider if your child takes:
 
 - •corticosteroids
-- •nti-seizure medicine (anticonvulsants)
+- •anti-seizure medicine (anticonvulsants)
 - •medicines that suppress the immune system (immunosuppressant)
 - •ketoconazale (Nizoral)
 - •certain medicines that can affect how your liver breaks down medicine
