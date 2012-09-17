@@ -31,7 +31,7 @@ For children and adolescents 2 to 17 years of age, Omeprazole Delayed-Release Ca
 - for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE)
 - to maintain healing of the esophagus
 
-Omeprazole Delayed-Release Capsules are not recommended for children under the age of 2 years Omeprazole Delayed-Release Capsules may help your acid-related symptoms, but you could still have serious stomach problems.
+Omeprazole Delayed-Release Capsules are not recommended for children under the age of 1 year Omeprazole Delayed-Release Capsules may help your acid-related symptoms, but you could still have serious stomach problems.
 Talk with your doctor.
 
 WHO SHOULD NOT TAKE OMEPRAZOLE DELAYED-RELEASE CAPSULES?
@@ -189,6 +189,6 @@ Kremers Urban Pharmaceuticals Inc.
 
 Princeton, NJ 08540, USA
 
-CIA74312A
+CIA74312C
 
-Revised: 10E 03/2012
+Revised: 12E 09/2012
