@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA200753",
+    "ANDA200855"
+  ],
+  "inn": "leucovorin",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-813-10",
+    "25021-814-30",
+    "25021-815-30",
+    "25021-816-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "leucovorin calcium",
+      "name": "Leucovorin"
+    }
+  ],
+  "setid": "9d0e5356-ff39-4a8e-944c-e808a21ef4b2",
+  "source": "dailymed"
+}
