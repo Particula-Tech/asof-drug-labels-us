@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090827"
+  ],
+  "inn": "caffeine",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-601-03"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "caffeine citrate",
+      "name": "caffeine citrate"
+    }
+  ],
+  "setid": "5f38c395-0093-4afd-89ec-f96e5dc0934a",
+  "source": "dailymed"
+}
