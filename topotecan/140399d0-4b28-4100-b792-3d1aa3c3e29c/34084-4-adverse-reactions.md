@@ -51,8 +51,8 @@ One patient death (68 years of age) was attributed to treatment-related diarrhea
 
 In addition to the adverse reactions listed previously, the following adverse reactions have been reported with HYCAMTIN for Injection:
 
-- Incidence >10%: Febrile neutropenia, abdominal pain, stomatitis, constipation.
-- Incidence 1 to 10%: Sepsis, hypersensitivity (including rash), hyperbilirubinemia, malaise.
+- •Incidence >10%: Febrile neutropenia, abdominal pain, stomatitis, constipation.
+- •Incidence 1 to 10%: Sepsis, hypersensitivity (including rash), hyperbilirubinemia, malaise.
 
 ## 6.2 Postmarketing Experience
 

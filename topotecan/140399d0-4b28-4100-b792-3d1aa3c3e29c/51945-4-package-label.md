@@ -24,12 +24,12 @@ Store bottle protected from light in the original outer carton.
 
 Dosage: See accompanying prescribing information.
 
-GlaxoSmithKline
+GlaxoSmithKline, RTP, NC 27709
 
-RTP, NC 27709
+Made in Ireland
 
-10000000056467 Rev.
-5/08
+10000000106569 Rev.
+5/12
 
 Principal Display Panel
 
@@ -57,9 +57,9 @@ Store bottle protected from light in the original outer carton.
 
 Dosage: See accompanying prescribing information.
 
-GlaxoSmithKline
+GlaxoSmithKline, RTP, NC 27709
 
-RTP, NC 27709
+Made in Ireland
 
-10000000056468 Rev.
-5/08
+10000000106531 Rev.
+5/12
