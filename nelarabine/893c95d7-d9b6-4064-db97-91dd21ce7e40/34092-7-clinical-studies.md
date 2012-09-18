@@ -73,7 +73,7 @@ CR = Complete response
 
 CR* = Complete response without hematologic recovery
 
-a Does not include 5 patients who were transplanted or had subsequent systemic chemotherapy (duration of response in these 5 patients was 4.7 to 42.1 weeks).
+aDoes not include 5 patients who were transplanted or had subsequent systemic chemotherapy (duration of response in these 5 patients was 4.7 to 42.1 weeks).
 
 The mean number of days on therapy was 46 days (range of 7 to 129 days).
 Median time to CR plus CR* was 3.4 weeks (95% CI: 3.0, 3.7).

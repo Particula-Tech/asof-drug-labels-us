@@ -2,9 +2,9 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-- Neurologic [see Boxed Warning and Warnings and Precautions (5.1)]
-- Hematologic [see Warnings and Precautions (5.2)]
-- Hyperuricemia [see Warnings and Precautions (5.4)]
+- •Neurologic [see Boxed Warning and Warnings and Precautions (5.1)]
+- •Hematologic [see Warnings and Precautions (5.2)]
+- •Hyperuricemia [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
