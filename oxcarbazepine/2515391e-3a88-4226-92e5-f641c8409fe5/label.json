@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202961"
+  ],
+  "inn": "oxcarbazepine",
+  "labeler": "Amneal Pharmaceuticals",
+  "package_ndcs": [
+    "65162-649-78"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "oxcarbazepine",
+      "name": "Oxcarbazepine"
+    }
+  ],
+  "setid": "2515391e-3a88-4226-92e5-f641c8409fe5",
+  "source": "dailymed"
+}
