@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-MEPRON Suspension is indicated for the prevention of Pneumocystis carinii pneumonia in patients who are intolerant to trimethoprim-sulfamethoxazole (TMP-SMX).
+MEPRON Suspension is indicated for the prevention of Pneumocystiscarinii pneumonia in patients who are intolerant to trimethoprim-sulfamethoxazole (TMP-SMX).
 
 MEPRON Suspension is also indicated for the acute oral treatment of mild-to-moderate PCP in patients who are intolerant to TMP-SMX.
 
@@ -13,7 +13,7 @@ The indication for prevention of PCP is based on the results of 2 clinical trial
 This randomized, open-label trial enrolled a total of 1,057 patients at 48 study centers.
 Patients were randomized to receive 1,500 mg MEPRON Suspension once daily (n = 536) or 100 mg dapsone once daily (n = 521).
 Median follow-up was 24 months.
-Patients randomized to the dapsone arm who were seropositive for Toxoplasma gondii and had a CD4 count <100 cells/mm3 also received pyrimethamine and folinic acid.
+Patients randomized to the dapsone arm who were seropositive for Toxoplasmagondii and had a CD4 count <100 cells/mm3 also received pyrimethamine and folinic acid.
 PCP event rates are shown in Table 3.
 There was no significant difference in mortality rates between the groups.
 

@@ -12,15 +12,16 @@ SUSPENSION
 
 210 mL
 
-Rx only
-
 Each 5 mL (1 teaspoonful) contains 750 mg atovaquone.
 
-See package insert for Dosage and Administration.
+Rx only
+
+See accompanying prescribing information for Dosage and Administration.
 
 Store at 15o to 25oC (59o to 77oF).
 
 DO NOT FREEZE.
+Dispense in a tight container as defined in USP.
 
 SHAKE GENTLY BEFORE USING.
 
@@ -28,10 +29,10 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-Made in Canada
+Made in India
 
-A022402 Rev.
-12/05
+A107757 Rev.
+6/12
 
 # Principal Display Panel
 
@@ -47,19 +48,17 @@ SUSPENSION
 
 5 mL
 
-Rx only
-
 Each 5 mL sachet (1 teaspoonful) contains 750 mg atovaquone.
 
 Store at 15o to 25oC (59o to 77oF).
-
 DO NOT FREEZE.
+
+Rx only
 
 See accompanying prescribing information for Dosage and Administration.
 
 Contains 42 sachets of 5 mL each
 
-GlaxoSmithKline
+©2012, GlaxoSmithKline
 
-A076214 Rev.
-12/09
+A107852

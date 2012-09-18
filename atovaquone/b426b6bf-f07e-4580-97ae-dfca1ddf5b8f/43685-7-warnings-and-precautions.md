@@ -49,7 +49,7 @@ It is not known if MEPRON interferes with clinical laboratory test or assay resu
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenicity studies in rats were negative; 24-month studies in mice showed treatment-related increases in incidence of hepatocellular adenoma and hepatocellular carcinoma at all doses tested which ranged from 1.4 to 3.6 times the average steady-state plasma concentrations in humans during acute treatment of Pneumocystis carinii pneumonia.
+Carcinogenicity studies in rats were negative; 24-month studies in mice showed treatment-related increases in incidence of hepatocellular adenoma and hepatocellular carcinoma at all doses tested which ranged from 1.4 to 3.6 times the average steady-state plasma concentrations in humans during acute treatment of Pneumocystiscarinii pneumonia.
 Atovaquone was negative with or without metabolic activation in the Ames Salmonella mutagenicity assay, the Mouse Lymphoma mutagenesis assay, and the Cultured Human Lymphocyte cytogenetic assay.
 No evidence of genotoxicity was observed in the in vivo Mouse Micronucleus assay.
 

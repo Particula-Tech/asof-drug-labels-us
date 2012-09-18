@@ -3,7 +3,7 @@
 ## Mechanism of Action
 
 Atovaquone is a hydroxy-1,4-naphthoquinone, an analog of ubiquinone, with antipneumocystis activity.
-The mechanism of action against Pneumocystis carinii has not been fully elucidated.
+The mechanism of action against Pneumocystiscarinii has not been fully elucidated.
 In Plasmodium species, the site of action appears to be the cytochrome bc1 complex (Complex III).
 Several metabolic enzymes are linked to the mitochondrial electron transport chain via ubiquinone.
 Inhibition of electron transport by atovaquone will result in indirect inhibition of these enzymes.

@@ -90,7 +90,7 @@ Zidovudine had no effect on atovaquone pharmacokinetics.
 
 ## Relationship Between Plasma Atovaquone Concentration and Clinical Outcome
 
-In a comparative study of atovaquone tablets with TMP-SMX for oral treatment of mild-to-moderate Pneumocystis carinii pneumonia (PCP) (see INDICATIONS AND USAGE), where AIDS patients received 750 mg atovaquone tablets 3 times daily for 21 days, the mean steady-state atovaquone concentration was 13.9 ± 6.9 mcg/mL (n = 133).
+In a comparative study of atovaquone tablets with TMP-SMX for oral treatment of mild-to-moderate Pneumocystiscarinii pneumonia (PCP) (see INDICATIONS AND USAGE), where AIDS patients received 750 mg atovaquone tablets 3 times daily for 21 days, the mean steady-state atovaquone concentration was 13.9 ± 6.9 mcg/mL (n = 133).
 Analysis of these data established a relationship between plasma atovaquone concentration and successful treatment.
 This is shown in Table 2.
 
