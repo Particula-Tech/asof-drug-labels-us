@@ -46,7 +46,6 @@ Patients using topical corticosteroids should receive the following information 
 1. This medication is to be used as directed by the physician.
    It is for external use only.
    Avoid contact with the eyes.
-   Wash hands after each application.
 2. Patients should be advised not to use this medication for any disorder other than that for which it was prescribed.
 3. The treated skin area should not be bandaged or otherwise covered or wrapped so as to be occlusive unless directed by the physician.
 4. Patients should report any signs of local adverse reactions, especially under occlusive dressings.
