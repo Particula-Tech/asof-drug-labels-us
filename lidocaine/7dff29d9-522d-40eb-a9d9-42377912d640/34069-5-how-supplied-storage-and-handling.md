@@ -4,9 +4,6 @@ Lidocaine Hydrochloride and 5% Dextrose Injection USP is supplied sterile and no
 
 | Fill | NDC | Cat. No. | Solution |
 | --- | --- | --- | --- |
-| 4 g Lidocaine Hydrochloride: |  |  |  |
-| 500 mL | 0264-9598-10 | P5981 | 0.8% Lidocaine Hydrochloride |
-|  |  |  | and 5% Dextrose Injection USP |
 | 2 g Lidocaine Hydrochloride: |  |  |  |
 | 500 mL | 0264-9594-10 | P5941 | 0.4% Lidocaine Hydrochloride |
 |  |  |  | and 5% Dextrose Injection USP |

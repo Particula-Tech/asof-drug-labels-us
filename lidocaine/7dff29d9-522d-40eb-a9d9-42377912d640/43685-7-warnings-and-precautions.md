@@ -5,6 +5,8 @@ Signs of excessive depression of cardiac conductivity, such as prolongation of t
 It is mandatory to have emergency resuscitative equipment and drugs immediately available to manage adverse reactions involving cardiovascular, respiratory, or central nervous systems.
 Occasional acceleration of ventricular rate may occur when lidocaine hydrochloride is administered to patients with atrial fibrillation.
 Evidence for proper usage in pediatric patients is limited.
+Anaphylactic reactions may occur following administration of lidocaine hydrochloride.
+In the case of severe reaction, discontinue the use of the drug.
 
 Because dosages of this drug are titrated to response (see DOSAGE AND ADMINISTRATION), no additives should be made to Lidocaine Hydrochloride and 5% Dextrose Injection USP.
 
@@ -67,7 +69,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 ## Pediatric Use
 
 The safety and effectiveness of lidocaine has not been established in pediatric patients (neonates to adolescents).
-(See WARNINGS and DOSAGE AND ADMINISTRATION.)
+(see WARNINGS and DOSAGE AND ADMINISTRATION.)
 
 ## Geriatric Use
 
