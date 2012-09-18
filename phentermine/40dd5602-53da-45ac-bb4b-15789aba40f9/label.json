@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA022580"
+  ],
+  "inn": "phentermine",
+  "labeler": "Vivus, Inc.",
+  "package_ndcs": [
+    "62541-201-14",
+    "62541-201-30",
+    "62541-202-30",
+    "62541-203-30",
+    "62541-204-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "phentermine hydrochloride and topiramate",
+      "name": "Qsymia"
+    }
+  ],
+  "setid": "40dd5602-53da-45ac-bb4b-15789aba40f9",
+  "source": "dailymed"
+}
