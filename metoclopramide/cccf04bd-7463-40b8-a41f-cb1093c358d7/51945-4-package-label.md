@@ -1,4 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - 25 Vial Label
+# PRINCIPAL DISPLAY PANEL
+
+## Metoclopramide Injection 10 mg/2 mL 25 x 2 mL Single Dose Vials Tray Label Text
 
 NDC 0703-4502-04 Rx only
 
