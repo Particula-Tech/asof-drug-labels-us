@@ -5,7 +5,7 @@ Individualize treatment in every case, using non-opioid analgesics, opioids on a
 
 ## 2.1 Individualization of Dosage
 
-As with any opioid drug product adjust the dosing regimen for each patient individually, taking into account the patient’s prior analgesic treatment experience.
+As with any opioid drug product, adjust the dosing regimen for each patient individually, taking into account the patient’s prior analgesic treatment experience.
 In the selection of the initial dose of morphine sulfate, give attention to the following:
 
 - the total daily dose, potency and specific characteristics of the opioid the patient has been taking previously;
@@ -27,7 +27,7 @@ During periods of changing analgesic requirements, including initial titration, 
 
 Start patients who have not been receiving opioid analgesics on morphine sulfate in the following dosing range using tablets, 15 mg or 30 mg strengths:
 
-- Morphine Sulfate Tablets: 15 to 30 mg every 4 hours as needed for pain.
+Morphine Sulfate Tablets: 15 to 30 mg every 4 hours as needed for pain.
 
 Titrate the dose based upon the individual patient’s response to their initial dose of morphine sulfate.
 Adjust the dose to an acceptable level of analgesia taking into account the improvement in pain intensity and the tolerability of the morphine by the patient.
@@ -40,16 +40,16 @@ It is better to underestimate a patient’s 24-hour oral morphine sulfate dose a
 
 Consider the following general points regarding opioid conversions.
 
-### Conversion From Parenteral Morphine to Oral Morphine Sulfate
+Conversion From Parenteral Morphine to Oral Morphine Sulfate
 
 For conversion from parenteral to oral morphine sulfate, anywhere from 3 to 6 mg of oral morphine sulfate may be required to provide pain relief equivalent to 1 mg of parenteral morphine.
 
-### Conversion From Parenteral Oral Non-Morphine Opioids to Oral Morphine Sulfate
+Conversion From Parenteral Oral Non-Morphine Opioids to Oral Morphine Sulfate
 
 In converting patients from other opioids to morphine sulfate, close observation and adjustment of dosage based upon the patient’s response to morphine sulfate is imperative.
 Physicians and other healthcare professionals are advised to refer to published relative potency information, keeping in mind that conversion ratios are only approximate.
 
-### Conversion From Controlled-Release Oral Morphine to Oral Morphine Sulfate
+Conversion From Controlled-Release Oral Morphine to Oral Morphine Sulfate
 
 For a given dose, the same total amount of morphine sulfate is available from Morphine Sulfate Tablets, Morphine Sulfate Oral Solution, and controlled-release and extended-release morphine capsules.
 The extended duration of release of morphine sulfate from controlled-release tablets or extended-release tablets results in reduced maximum and increased minimum plasma morphine sulfate concentrations than with shorter acting morphine sulfate products.

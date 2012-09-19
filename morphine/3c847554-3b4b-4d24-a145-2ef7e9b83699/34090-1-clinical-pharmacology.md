@@ -5,7 +5,7 @@
 Morphine sulfate, a pure opioid agonist, is relatively selective for the mu receptor, although it can interact with other opioid receptors at higher doses.
 In addition to analgesia, the widely diverse effects of morphine sulfate include drowsiness, changes in mood, respiratory depression, decreased gastrointestinal motility, nausea, vomiting, and alterations of the endocrine and autonomic nervous system.
 
-### Effects on the Central Nervous System (CNS)
+Effects on the Central Nervous System (CNS)
 
 The principal therapeutic action of morphine sulfate is analgesia.
 Other therapeutic effects of morphine sulfate include anxiolysis, euphoria and feelings of relaxation.
@@ -15,7 +15,7 @@ Morphine sulfate and related opioids depress the cough reflex by direct effect o
 
 Morphine sulfate causes miosis, even in total darkness.
 
-### Effects on the Gastrointestinal Tract and on Other Smooth Muscle
+Effects on the Gastrointestinal Tract and on Other Smooth Muscle
 
 Gastric, biliary and pancreatic secretions are decreased by morphine sulfate.
 Morphine sulfate causes a reduction in motility and is associated with an increase in tone in the antrum of the stomach and duodenum.
@@ -25,21 +25,21 @@ The end result may be constipation.
 Morphine sulfate can cause a marked increase in biliary tract pressure as a result of spasm of the sphincter of Oddi.
 Morphine sulfate may also cause spasm of the sphincter of the urinary bladder.
 
-### Effects on the Cardiovascular System
+Effects on the Cardiovascular System
 
 In therapeutic doses, morphine sulfate does not usually exert major effects on the cardiovascular system.
 Morphine sulfate produces peripheral vasodilation which may result in orthostatic hypotension and fainting.
 Release of histamine can occur, which may play a role in opioid-induced hypotension.
 Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes and sweating.
 
-### Endocrine System
+Endocrine System
 
 Opioid agonists have been shown to have a variety of effects on the secretion of hormones.
 Opioids inhibit the secretion of ACTH, cortisol, and luteinizing hormone (LH) in humans.
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon in humans and other species, rats and dogs.
 Thyroid stimulating hormone (TSH) has been shown to be both inhibited and stimulated by opioids.
 
-### Immune System
+Immune System
 
 Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
 The clinical significance of these findings is unknown.
@@ -52,37 +52,37 @@ Effective doses in tolerant patients may be significantly higher than in opioid-
 
 ## 12.3 Pharmacokinetics
 
-### Absorption
+Absorption
 
 Morphine sulfate is about two-thirds absorbed from the gastrointestinal tract with the maximum analgesic effect occurring 60 minutes post-administration.
 The oral bioavailability of morphine sulfate is less than 40% and shows large inter-individual variability due to extensive pre-systemic metabolism.
 
-### Food Effects
+Food Effects
 
 When morphine sulfate 30 mg tablet was administered 30 minutes after ingesting a high fat/high calorie meal, there was no change in the extent of absorption (AUC) of morphine sulfate.
 There was, however, an increase in the median Tmax from 0.5 to 0.75 hours and an 11% decrease in Cmax.
 The tablet can be administered without regard to meals.
 
-### Steady-State
+Steady-State
 
 Administration of the 30 mg Morphine Sulfate Tablet and 30 mg of Morphine Sulfate Oral Solution every six hours for 5 days resulted in a comparable 24-hour exposure (AUC).
 The steady-state levels were achieved within 48 hours for both tablets and solution.
 The mean steady state Cmax values were about 78 and 58 ng/mL for tablet and solution, respectively.
 
-### Distribution
+Distribution
 
 Once absorbed, morphine sulfate is distributed to skeletal muscle, kidneys, liver, intestinal tract, lungs, spleen and brain.
 Although the primary site of action is the CNS, only small quantities cross the blood-brain barrier.
 Morphine sulfate also crosses the placental membranes and has been found in breast milk.
 The volume of distribution of morphine sulfate is approximately 1 to 6 L/kg, and morphine sulfate is 20 to 35% reversibly bound to plasma proteins.
 
-### Metabolism
+Metabolism
 
 The major pathway of morphine sulfate detoxification is conjunction, either with D-glucuronic acid to produce glucuronides or with sulfuric acid to produce morphine-3-etheral sulfate.
 While a small fraction (less than 5%) of morphine sulfate is demethylated, virtually all morphine sulfate is converted by hepatic metabolism to the 3- and 6-glucuronide metabolites (M3G and M6G; about 50% and 15%, respectively).
 M6G has been shown to have analgesic activity but crosses the blood-brain barrier poorly, while M3G has no significant analgesic activity.
 
-### Excretion
+Excretion
 
 Most of a dose of morphine sulfate is excreted in urine as M3G and M6G, with elimination of morphine sulfate occurring primarily as renal excretion of M3G.
 Approximately 10% of the dose is excreted unchanged in urine.
@@ -93,7 +93,7 @@ The mean adult plasma clearance is approximately 20 to 30 mL/min/kg.
 The effective terminal half-life of morphine sulfate after IV administration is reported to be approximately 2 hours.
 In some studies involving longer periods of plasma sampling, a longer terminal half-life of morphine sulfate of about 15 hours was reported.
 
-### Race
+Race
 
 There may be some pharmacokinetic differences associated with race.
 In one published study, Chinese subjects given intravenous morphine sulfate had a higher clearance when compared to Caucasian subjects (1852 +/- 116 mL/min compared to 1495 +/- 80 mL/min).

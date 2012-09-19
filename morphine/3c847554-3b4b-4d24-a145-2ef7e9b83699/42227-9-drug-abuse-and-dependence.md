@@ -28,7 +28,7 @@ Parenteral drug abuse is commonly associated with transmission of infectious dis
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms.
-[See USE IN SPECIFIC POPULATIONS (8.2)]
+[See USE IN SPECIFIC POPULATIONS (8.6)]
 
 ## 9.3 Dependence
 

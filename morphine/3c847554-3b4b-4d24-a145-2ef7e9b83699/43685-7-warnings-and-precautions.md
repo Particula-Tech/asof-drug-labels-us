@@ -60,7 +60,7 @@ Exercise caution in the administration of morphine sulfate to patients with CNS 
 
 All opioids may aggravate convulsions in patients with convulsive disorders, and all opioids may induce or aggravate seizures in some clinical settings.
 
-Keep Morphine Sulfate Tablets out of the reach of children.
+Keep morphine sulfate tablets out of the reach of children.
 In case of accidental ingestion, seek emergency medical help immediately.
 
 ## 5.9 Driving and Operating Machinery
