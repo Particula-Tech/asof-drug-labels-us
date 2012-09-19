@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075873"
+  ],
   "inn": "midazolam",
-  "labeler": "Roxane",
+  "labeler": "Roxane Laboratories, Inc",
   "package_ndcs": [
     "0054-3566-99"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SYRUP",
+      "generic": "midazolam hydrochloride",
+      "name": "Midazolam Hydrochloride"
+    }
+  ],
   "setid": "a833c24b-6dca-44d7-a0d6-20012fa1ea77",
   "source": "dailymed"
 }
