@@ -6,12 +6,12 @@ An ALZA OROS® Technology Product
 
 DITROPAN XL® and OROS® are registered trademarks of ALZA Corporation.
 
-Manufactured for: Ortho Women's Health & Urology, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Raritan, NJ 08869
+Product of France
 
-Placeholder for Ortho Women's Health & Urology, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc. Logo
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-© Ortho-McNeil-Janssen Pharmaceuticals, Inc. 1998
+Placeholder for Janssen Pharmaceuticals, Inc. Logo
 
-10192603
+© Janssen Pharmaceuticals, Inc. 1998
 
-Revised December 2011
+Revised August 2012

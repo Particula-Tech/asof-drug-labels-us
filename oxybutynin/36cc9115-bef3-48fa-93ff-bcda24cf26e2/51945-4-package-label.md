@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 5 mg 100 tablet bottle
+# PRINCIPAL DISPLAY PANEL - 5 mg 100 Tablet Bottle Label
 
 NDC 50458-805-01 100 tablets
 
@@ -8,9 +8,7 @@ DITROPAN XL® (oxybutynin chloride) Extended-release tablets
 
 Rx only
 
-Ditropan XL®and OROS®are registered trademarks of ALZA Corporation.
-
-# PRINCIPAL DISPLAY PANEL - 10 mg 100 tablet bottle
+# PRINCIPAL DISPLAY PANEL - 10 mg 100 Tablet Bottle Label
 
 NDC 50458-810-01 100 tablets
 
@@ -20,9 +18,7 @@ DITROPAN XL® (oxybutynin chloride) Extended-release tablets
 
 Rx only
 
-Ditropan XL®and OROS®are registered trademarks of ALZA Corporation.
-
-# PRINCIPAL DISPLAY PANEL - 15 mg 100 tablet bottle
+# PRINCIPAL DISPLAY PANEL - 15 mg 100 Tablet Bottle Label
 
 NDC 50458-815-01 100 tablets
 
@@ -31,5 +27,3 @@ DITROPAN XL® (oxybutynin chloride) Extended-release tablets
 15 mg
 
 Rx only
-
-Ditropan XL®and OROS®are registered trademarks of ALZA Corporation.

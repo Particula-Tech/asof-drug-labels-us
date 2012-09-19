@@ -45,7 +45,7 @@ Table 2 Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacok
 | --- | --- | --- | --- | --- |
 | Cmax (ng/mL) | 0.7 ± 0.4 | 1.3 ± 0.8 | 7.8 ± 3.7 | 4.2 ± 2.3 |
 | Tmax (h) | 5.0 | 5.0 | 5.0 | 5.0 |
-| AUC(ng∙h/mL) | 12.8 ± 7.0 | 23.7 ± 14.4 | 125.1 ± 66.7 | 73.6 ± 47.7 |
+| AUC (ng∙h/mL) | 12.8 ± 7.0 | 23.7 ± 14.4 | 125.1 ± 66.7 | 73.6 ± 47.7 |
 
 #### Food Effects
 
