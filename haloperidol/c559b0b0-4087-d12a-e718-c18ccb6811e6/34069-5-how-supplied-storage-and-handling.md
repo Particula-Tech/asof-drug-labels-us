@@ -53,4 +53,4 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED OCTOBER 2011 HALO:R20
+REVISED DECEMBER 2011 HALO:R21
