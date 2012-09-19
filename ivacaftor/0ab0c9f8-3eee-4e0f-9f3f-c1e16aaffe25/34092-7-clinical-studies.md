@@ -40,10 +40,9 @@ Weight data, when expressed as body mass index normalized for age and sex in pat
 
 Table 2: Effect of KALYDECO on Other Efficacy Endpoints in Trials 1 and 2
 
-| Endpoint | (95% CI) | P value | (95% CI) | P value |
+| Endpoint | Treatment differenceTreatment difference = effect of KALYDECO − effect of Placebo (95% CI) | P value | Treatment difference (95% CI) | P value |
 | --- | --- | --- | --- | --- |
 |  | Trial 1 |  | Trial 2 |  |
-|  | Treatment differenceTreatment difference = effect of KALYDECO – effect of Placebo |  | Treatment difference |  |
 | Mean absolute change from baseline in CF symptom score (points) |  |  |  |  |
 | Through Week 24 | 8.1 (4.7, 11.4) | <0.0001 | 6.1 (-1.4, 13.5) | 0.1092 |
 | Through Week 48 | 8.6 (5.3, 11.9) | <0.0001 | 5.1 (-1.6, 11.8) | 0.1354 |

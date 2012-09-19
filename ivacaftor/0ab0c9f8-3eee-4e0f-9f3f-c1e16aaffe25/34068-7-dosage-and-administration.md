@@ -11,6 +11,6 @@ The dose of KALYDECO should be reduced to 150 mg once daily for patients with mo
 
 ## 2.3 Dosage Adjustment for Patients Taking Drugs that are CYP3A Inhibitors
 
-When KALYDECO is being co-administered with strong CYP3A inhibitors (e.g., ketoconazole) the dose should be reduced to 150 mg twice-a-week.
+When KALYDECO is being co-administered with strong CYP3A inhibitors (e.g., ketoconazole), the dose should be reduced to 150 mg twice-a-week.
 The dose of KALYDECO should be reduced to 150 mg once daily when co-administered with moderate CYP3A inhibitors (e.g., fluconazole).
 Food containing grapefruit or Seville oranges should be avoided [see Drug Interactions (7.1), Clinical Pharmacology (12.3), and Patient Counseling Information (17.2)].

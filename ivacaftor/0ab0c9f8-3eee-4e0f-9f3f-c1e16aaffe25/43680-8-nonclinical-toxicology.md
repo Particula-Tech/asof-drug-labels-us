@@ -12,3 +12,8 @@ Increases in prolonged diestrus were observed in females at 200 mg/kg/day.
 Ivacaftor also increased the number of females with all nonviable embryos and decreased corpora lutea, implantations, and viable embryos in rats at 200 mg/kg/day (approximately 6 times the MRHD based on summed AUCs of ivacaftor and its metabolites) when dams were dosed prior to and during early pregnancy.
 These impairments of fertility and reproductive performance in male and female rats at 200 mg/kg/day were attributed to severe toxicity.
 No effects on male or female fertility and reproductive performance indices were observed at ≤100 mg/kg/day (approximately 3 times the MRHD based on summed AUCs of ivacaftor and its metabolites).
+
+## 13.2 Animal Toxicology and/or Pharmacology
+
+Cataracts were seen in juvenile rats dosed with ivacaftor from postnatal day 7-35 at dose levels of 10 mg/kg/day and higher (approximately 0.12 times the MRHD based on summed AUCs of ivacaftor and its metabolites).
+This finding has not been observed in older animals.

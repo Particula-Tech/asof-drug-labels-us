@@ -15,7 +15,7 @@ Patients treated with KALYDECO were between the ages of 6 and 53 years.
 In these trials, the proportion of patients who prematurely discontinued study drug due to adverse reactions was 2% for KALYDECO-treated patients and 5% for placebo-treated patients.
 Serious adverse reactions, whether considered drug-related or not by the investigators, which occurred more frequently in KALYDECO-treated patients included abdominal pain, increased hepatic enzymes, and hypoglycemia.
 
-Overall, the most common adverse reactions in 353 patients with CF were headache (17%), upper respiratory tract infection (16%), nasal congestion (16%), nausea (10%), rash (10%), rhinitis (6%), dizziness (5%), arthralgia (5%), and bacteria in sputum (5%).
+Overall, the most common adverse reactions in 221 patients with CF who had either a G551D mutation or were homozygous for the F508del mutation in the CFTR gene and treated with KALYDECO were headache (17%), upper respiratory tract infection (16%), nasal congestion (16%), nausea (10%), rash (10%), rhinitis (6%), dizziness (5%), arthralgia (5%), and bacteria in sputum (5%).
 
 The incidence of adverse reactions below is based upon two double-blind, placebo-controlled 48-week clinical trials in a total of 213 patients with CF ages 6 to 53 who have a G551D mutation in the CFTR gene and who were treated with KALYDECO 150 mg orally or placebo twice daily.
 Table 1 shows adverse reactions occurring in ≥8% of KALYDECO-treated patients with CF who have a G551D mutation in the CFTR gene that also occurred at a higher rate than in the placebo-treated patients in the two double-blind, placebo-controlled trials.
@@ -53,5 +53,5 @@ Skin and subcutaneous tissue disorders: acne
 Laboratory Abnormalities
 
 Transaminase Elevations: During 48-week, placebo-controlled clinical studies, the incidence of maximum transaminase (ALT or AST) >8, >5 or >3 × ULN was 2%, 3% and 6% in KALYDECO-treated patients and 2%, 2% and 8% in placebo-treated patients, respectively.
-Two patients (2%) on placebo and 1 patient (0.5 %) on KALYDECO permanently discontinued treatment for elevated transaminases, all >8x ULN.
+Two patients (2%) on placebo and 1 patient (0.5 %) on KALYDECO permanently discontinued treatment for elevated transaminases, all >8× ULN.
 Two patients treated with KALYDECO were reported to have serious adverse reactions of elevated liver transaminases compared to none on placebo [see Warnings and Precautions (5.1)].

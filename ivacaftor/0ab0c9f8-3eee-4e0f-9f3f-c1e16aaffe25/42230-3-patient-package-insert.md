@@ -110,7 +110,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store KALYDECO?
 
-- Store KALYDECO at room temperature between 68°F to 77°F (20°C to 25°C).
+- Store KALYDECO at room temperature between 68ºF to 77ºF (20ºC to 25ºC).
 - Do not use KALYDECO after the expiration date on the package.
 
 Keep KALYDECO and all medicines out of the reach of children.
@@ -130,9 +130,7 @@ For more information, go to www.kalydeco.com or call 1-877-752-5933.
 
 What are the ingredients in KALYDECO?
 
-Active ingredient: ivacaftor
-
-Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose acetate succinate, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulfate.
+Active ingredient: ivacaftor Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose acetate succinate, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulfate.
 
 The tablet film coat contains: carnauba wax, FD&C Blue #2, PEG 3350, polyvinyl alcohol, talc, and titanium dioxide.
 
@@ -142,8 +140,8 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for: Vertex Pharmaceuticals Incorporated 130 Waverly Street Cambridge, MA 02139
 
-Approved January 2012
+Approved August 2012
 
 KALYDECO is a trademark of Vertex Pharmaceuticals Incorporated.
 VERTEX and the VERTEX triangle logo are registered trademarks of Vertex Pharmaceuticals Incorporated.
-All other trademarks referenced herein are the property of their respective owners. ©2012 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 69264
+All other trademarks referenced herein are the property of their respective owners. ©2012 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED 69264-01

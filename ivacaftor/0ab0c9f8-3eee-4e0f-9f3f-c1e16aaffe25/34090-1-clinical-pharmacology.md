@@ -7,8 +7,8 @@ The CFTR protein is a chloride channel present at the surface of epithelial cell
 Ivacaftor facilitates increased chloride transport by potentiating the channel-open probability (or gating) of the G551D-CFTR protein.
 
 In vitro, ivacaftor increased CFTR-mediated transepithelial current (IT) in rodent cells expressing G551D-CFTR protein following addition of a cyclic adenosine monophosphate (cAMP) agonist with an EC50 of 100 ± 47 nM; however, ivacaftor did not increase IT in the absence of cAMP agonist.
-Ivacaftor also increased IT in human bronchial epithelial cells expressing G551D-CFTR protein following addition of a cAMP agonist with an EC50 of 236 nM.
-Ivacaftor increased the open probability of G551D-CFTR protein in single channel patch clamp experiments using membrane patches from rodent cells expressing G551D-CFTR protein by 10-fold versus untreated cells after addition of PKA and ATP.
+Ivacaftor also increased IT in human bronchial epithelial cells expressing G551D-CFTR protein following addition of a cAMP agonist by 10-fold with an EC50 of 236 ±200 nM.
+Ivacaftor increased the open probability of G551D-CFTR protein in single channel patch clamp experiments using membrane patches from rodent cells expressing G551D-CFTR protein by 6-fold versus untreated cells after addition of PKA and ATP.
 
 ## 12.2 Pharmacodynamics
 
@@ -79,7 +79,7 @@ When benefits are expected to outweigh the risks, KALYDECO should be used with c
 Renal impairment
 
 KALYDECO has not been studied in patients with mild, moderate or severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or in patients with end stage renal disease.
-No dose adjustments are recommended for mild and moderate renal impairment patients because of negligible elimination of ivacaftor and its metabolites in urine (only 6.6% of total radioactivity was recovered in the urine in a human PK study); however, caution is recommended when administering KALYDECO to patients with severe renal impairment or end stage renal disease.
+No dose adjustments are recommended for mild and moderate renal impairment patients because of minimal elimination of ivacaftor and its metabolites in urine (only 6.6% of total radioactivity was recovered in the urine in a human PK study); however, caution is recommended when administering KALYDECO to patients with severe renal impairment or end stage renal disease.
 
 Gender
 
@@ -101,11 +101,7 @@ Dosing recommendations for co-administered drugs following administration with K
 
 Figure 1: Impact of KALYDECO on Other Drugs
 
-Note: The data obtained with substrates but without co-administration of KALYDECO are used as reference.
-
-*NE: Norethindrone; **EE: Ethinyl Estradiol
-
-The vertical lines are at 0.8, 1.0 and 1.25, respectively.
+Note: The data obtained with substrates but without co-administration of KALYDECO are used as reference. *NE: Norethindrone; **EE: Ethinyl Estradiol The vertical lines are at 0.8, 1.0 and 1.25, respectively.
 
 Potential for Other Drugs to Affect Ivacaftor
 
@@ -115,5 +111,4 @@ KALYDECO dosing recommendations for co-administration with CYP3A inhibitors or i
 Figure 2: Impact of Other Drugs on KALYDECO
 
 Note: The data obtained for KALYDECO without co-administration of inducers or inhibitors are used as reference.
-
 The vertical lines are at 0.8, 1.0 and 1.25, respectively.
