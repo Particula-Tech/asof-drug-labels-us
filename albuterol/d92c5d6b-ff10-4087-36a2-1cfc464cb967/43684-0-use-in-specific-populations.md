@@ -51,15 +51,16 @@ The in vitro study data when simulated to patients suggest that the dose of VENT
 However, clinical studies in children under 4 years of age described above suggest that either the optimal dose of VENTOLIN HFA has not been defined in this age-group or VENTOLIN HFA is not effective in this age-group.
 The safety and effectiveness of VENTOLIN HFA administered with or without a spacer device in children under 4 years of age has not been demonstrated.
 
-Table 2: In Vitro Medication Delivery Through AeroChamber Plus® Valved Holding Chamber With a Facemask
+Table 2.
+In Vitro Medication Delivery Through AeroChamber Plus® Valved Holding Chamber With a Facemask
 
-| Age | Facemask | Flow Rate (L/min) | Holding Time (seconds) | Mean Medication Delivery Through AeroChamber Plus (mcg/actuation) | Body Weight 50th Percentile (kg)* | Medication Delivered per Actuation (mcg/kg)† |
+| Age | Facemask | Flow Rate (L/min) | Holding Time (seconds) | Mean Medication Delivery Through AeroChamber Plus (mcg/actuation) | Body Weight 50th Percentile (kg)a | Medication Delivered per Actuation (mcg/kg)b |
 | --- | --- | --- | --- | --- | --- | --- |
 | 6 to 12 Months | Small | 4.9 | 02510 | 18.219.813.815.4 | 7.5-9.9 | 1.8-2.42.0-2.61.4-1.81.6-2.1 |
 | 2 to 5 Years | Small | 8.0 | 02510 | 17.816.016.318.3 | 12.3-18.0 | 1.0-1.40.9-1.30.9-1.31.0-1.5 |
 | 2 to 5 Years | Medium | 8.0 | 02510 | 21.115.318.318.2 | 12.3-18.0 | 1.2-1.70.8-1.21.0-1.51.0-1.5 |
 | >5 Years | Medium | 12.0 | 02510 | 26.820.919.620.3 | 18.0 | 1.51.21.11.1 |
-| *Centers for Disease Control growth charts, developed by the National Center for Health Statistics in collaboration with the National Center for Chronic Disease Prevention and Health Promotion (2000). Ranges correspond to the average of the 50th percentile weight for boys and girls at the ages indicated.†A single inhalation of VENTOLIN HFA in a 70-kg adult without use of a valved holding chamber and facemask delivers approximately 90 mcg, or 1.3 mcg/kg. |  |  |  |  |  |  |
+| aCenters for Disease Control growth charts, developed by the National Center for Health Statistics in collaboration with the National Center for Chronic Disease Prevention and Health Promotion (2000). Ranges correspond to the average of the 50th percentile weight for boys and girls at the ages indicated.bA single inhalation of VENTOLIN HFA in a 70-kg adult without use of a valved holding chamber and facemask delivers approximately 90 mcg, or 1.3 mcg/kg. |  |  |  |  |  |  |
 
 ## 8.5 Geriatric Use
 

@@ -2,10 +2,10 @@
 
 Use of VENTOLIN HFA may be associated with the following:
 
-- Paradoxical bronchospasm [see Warnings and Precautions (5.1)]
-- Cardiovascular effects [see Warnings and Precautions (5.4)]
-- Immediate hypersensitivity reactions [see Warnings and Precautions (5.6)]
-- Hypokalemia [see Warnings and Precautions (5.8)]
+- •Paradoxical bronchospasm [see Warnings and Precautions (5.1)]
+- •Cardiovascular effects [see Warnings and Precautions (5.4)]
+- •Immediate hypersensitivity reactions [see Warnings and Precautions (5.6)]
+- •Hypokalemia [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -22,7 +22,7 @@ Overall, the incidence and nature of the adverse reactions reported for VENTOLIN
 Table 1 lists the incidence of all adverse reactions (whether considered by the investigator to be related or unrelated to drug) from these studies that occurred at a rate of 3% or greater in the group treated with VENTOLIN HFA and more frequently in the group treated with VENTOLIN HFA than in the HFA-134a placebo inhaler group.
 
 Table 1.
-Overall Adverse Reactions With ≥3% Incidence in 2 Large 12-Week Clinical Trials in Adolescents and Adults*
+Overall Adverse Reactions With ≥3% Incidence in 2 Large 12-Week Clinical Trials in Adolescents and Adultsa
 
 | Adverse Reaction | Percent of Patients |  |  |
 | --- | --- | --- | --- |
@@ -35,7 +35,7 @@ Overall Adverse Reactions With ≥3% Incidence in 2 Large 12-Week Clinical Trial
 | Cough | 5 | 2 | 2 |
 | Musculoskeletal |  |  |  |
 | Musculoskeletal pain | 5 | 5 | 4 |
-| *This table includes all adverse reactions (whether considered by the investigator to be drug-related or unrelated to drug) that occurred at an incidence rate of at least 3.0% in the group treated with VENTOLIN HFA and more frequently in the group treated with VENTOLIN HFA than in the HFA-134a placebo inhaler group. |  |  |  |
+| aThis table includes all adverse reactions (whether considered by the investigator to be drug-related or unrelated to drug) that occurred at an incidence rate of at least 3.0% in the group treated with VENTOLIN HFA and more frequently in the group treated with VENTOLIN HFA than in the HFA-134a placebo inhaler group. |  |  |  |
 
 Adverse reactions reported by less than 3% of the adolescent and adult patients receiving VENTOLIN HFA and by a greater proportion of patients receiving VENTOLIN HFA than receiving HFA-134a placebo inhaler and that have the potential to be related to VENTOLIN HFA include diarrhea, laryngitis, oropharyngeal edema, cough, lung disorders, tachycardia, and extrasystoles.
 Palpitation and dizziness have also been observed with VENTOLIN HFA.
@@ -56,4 +56,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Cases of paradoxical bronchospasm, hoarseness, arrhythmias (including atrial fibrillation, supraventricular tachycardia), and hypersensitivity reactions (including urticaria, angioedema, rash) have been reported after the use of VENTOLIN HFA.
 
-In addition, albuterol, like other sympathomimetic agents, can cause adverse reactions such as hypokalemia, hypertension, peripheral vasodilatation, angina, tremor, central nervous system stimulation, hyperactivity, sleeplessness, headache, muscle cramps, and drying or irritation of the oropharynx.
+In addition, albuterol, like other sympathomimetic agents, can cause adverse reactions such as hypokalemia, hypertension, peripheral vasodilatation, angina, tremor, central nervous system stimulation, hyperactivity, sleeplessness, headache, muscle cramps, drying or irritation of the oropharynx, and metabolic acidosis.

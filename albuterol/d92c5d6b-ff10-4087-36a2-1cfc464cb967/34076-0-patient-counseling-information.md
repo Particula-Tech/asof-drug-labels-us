@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (17.8)
+See FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 ## 17.1 Frequency of Use
 
@@ -16,7 +16,7 @@ Patients should prime VENTOLIN HFA before using for the first time, when the inh
 To prime VENTOLIN HFA, patients should release 4 sprays into the air away from the face, shaking well before each spray.
 
 Cleaning: To ensure proper dosing and to prevent actuator orifice blockage, patients should be instructed to wash the actuator and dry thoroughly at least once a week.
-Patients should be informed that detailed cleaning instructions are included in the Information for the Patient leaflet.
+Patients should be informed that detailed cleaning instructions are included in the Patient Information leaflet.
 
 ## 17.3 Dose Counter
 
@@ -43,10 +43,6 @@ Common adverse effects of treatment with inhaled albuterol include palpitations,
 
 Patients who are pregnant or nursing should contact their physicians about the use of VENTOLIN HFA.
 
-## 17.8 FDA-Approved Patient Labeling
-
-See tear-off leaflet below.
-
 VENTOLIN is a registered trademark of GlaxoSmithKline.
 
 AeroChamber Plus is a registered trademark of Monaghan Medical Inc.
@@ -57,7 +53,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2009, GlaxoSmithKline.
+©2012, GlaxoSmithKline.
 All rights reserved.
+
+VNT:7PI
 
 PHARMACIST—DETACH HERE AND GIVE LEAFLET TO PATIENT

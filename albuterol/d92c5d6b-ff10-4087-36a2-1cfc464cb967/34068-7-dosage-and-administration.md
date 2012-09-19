@@ -26,4 +26,4 @@ When the counter reads 020, the patient should contact the pharmacist for a refi
 VENTOLIN HFA comes in a moisture-protective foil pouch, which should be removed prior to use.
 Discard VENTOLIN HFA when the counter reads 000 or 12 months after removal from the moisture-protective foil pouch, whichever comes first [see Dosage Forms and Strengths (3)].
 
-See 17.8 FDA-Approved Patient Labeling for instructions on how to prime and clean the inhaler to ensure proper dosing and to prevent actuator orifice blockage.
+See Patient Information tear-off leaflet for instructions on how to prime and clean the inhaler to ensure proper dosing and to prevent actuator orifice blockage.

@@ -9,7 +9,7 @@ NDC 0173-0682-21 8-g canister containing 60 actuations
 NDC 0173-0682-24 8-g institutional pack canister containing 60 actuations
 
 Before using, VENTOLIN HFA should be removed from the moisture-protective foil pouch.
-The pouch and dessicant should be discarded.
+The pouch and desiccant should be discarded.
 VENTOLIN HFA should be discarded 12 months after removal from the pouch.
 
 Priming VENTOLIN HFA is essential to ensure appropriate albuterol content in each actuation.
@@ -18,7 +18,7 @@ The inhaler should be primed before using it for the first time, when the inhale
 
 After priming, each actuation delivers 120 mcg of albuterol sulfate, USP in 75 mg of suspension from the valve and 108 mcg of albuterol sulfate, USP from the mouthpiece (equivalent to 90 mcg of albuterol base from the mouthpiece).
 
-To ensure proper dosing and to prevent actuator orifice blockage, wash the actuator with warm water and let it air-dry completely at least once a week [see FDA-Approved Patient Labeling (17.8)].
+To ensure proper dosing and to prevent actuator orifice blockage, wash the actuator with warm water and let it air-dry completely at least once a week [see the Patient Information tear‑off leaflet].
 
 The blue actuator supplied with VENTOLIN HFA should not be used with any other product canisters, and actuators from other products should not be used with a VENTOLIN HFA canister.
 
