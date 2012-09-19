@@ -6,9 +6,7 @@ Valacyclovir is an antiviral drug [see Clinical Pharmacology (12.4)] .
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of valacyclovir and acyclovir after oral administration of valacyclovir hydrochloride have been investigated in 14 volunteer studies involving 283 adults.
-Labeling describing use of valacyclovir in pediatric patients with chickenpox (ages 1 month to < 12 years) is approved for GlaxoSmithKline’s Valtrex ® Caplets.
-However, due to GlaxoSmithKline’s marketing exclusivity rights, that additional pediatric information is not approved for this valacylcovir hydrochloride tablet product.
+The pharmacokinetics of valacyclovir and acyclovir after oral administration of valacyclovir hydrochloride have been investigated in 14 volunteer studies involving 283 adults and in 3 studies involving 112 pediatric subjects from 1 month to <12 years of age.
 Pharmacokinetics in Adults: Absorption and Bioavailability: After oral administration, valacyclovir hydrochloride is rapidly absorbed from the gastrointestinal tract and nearly completely converted to acyclovir and L- valine by first-pass intestinal and/or hepatic metabolism.
 The absolute bioavailability of acyclovir after administration of valacyclovir hydrochloride is 54.5% ± 9.1% as determined following a 1 gram oral dose of valacyclovir hydrochloride and a 350 mg intravenous acyclovir dose to 12 healthy volunteers.
 Acyclovir bioavailability from the administration of valacyclovir hydrochloride is not altered by administration with food (30 minutes after an 873 Kcal breakfast, which included 51 grams of fat).
@@ -53,8 +51,18 @@ HIV Disease: In 9 patients with HIV disease and CD4+ cell counts <150 cells/mm 3
 Geriatrics: After single-dose administration of 1 gram of valacyclovir hydrochloride in healthy geriatric volunteers, the half-life of acyclovir was 3.11 ± 0.51 hours, compared with 2.91 ± 0.63 hours in healthy younger adult volunteers.
 The pharmacokinetics of acyclovir following single- and multiple-dose oral administration of valacyclovir hydrochloride in geriatric volunteers varied with renal function.
 Dose reduction may be required in geriatric patients, depending on the underlying renal status of the patient [see Dosage and Administration (2.4), Use in Specific Populations (8.5), (8.6)] .
-Labeling describing additional pharmacokinetic studies with valacyclovir hydrochloride in pediatric patients (ages of 1 month to < 12 years) is approved for GlaxoSmithKline’s Valtrex ® Caplets.
-However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of those pharmacokinetic studies is not approved for this valacylcovir hydrochloride tablet product.
+Pediatrics: Acyclovir pharmacokinetics have been evaluated in a total of 98 pediatric patients (1 month to <12 years of age) following administration of the first dose of an extemporaneous oral suspension of valacyclovir [see Adverse Reactions (6.2), Use in Specific Populations (8.4)] .
+Acyclovir pharmacokinetic parameter estimates following a 20 mg/kg dose are provided in Table 4.
+
+Table 4.
+Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameter Estimates Following First-Dose Administration of 20 mg/kg Valacyclovir Oral Suspension to Pediatric Patients vs. 1 Gram Single Dose of Valacyclovir Hydrochloride to Adults
+
+| 1 - <2 yr (N = 6) | 2 - <6 yr (N = 12) | 6 - <12 yr (N = 8) |  |  |
+| --- | --- | --- | --- | --- |
+| Parameter | Pediatric Patients (20 mg/kg Oral Suspension) |  |  | Adults 1 gram Solid Dose of Valacyclovir Hydrochloridea (N = 15) |
+| AUC (mcg•hr/mL) Cmax (mcg/mL) | 14.4 (±6.26) 4.03 (±1.37) | 10.1 (±3.35) 3.75 (±1.14) | 13.1 (±3.43) 4.71 (±1.2) | 17.2 (±3.1) 4.72 (±1.37) |
+| a Historical estimates using pediatric pharmacokinetic sampling schedule. |  |  |  |  |
+
 Drug Interactions: When valacyclovir hydrochloride is coadministered with antacids, cimetidine and/or probenicid, digoxin, or thiazide diuretics in patients with normal renal function, the effects are not considered to be of clinical significance (see below).
 Therefore, when valacyclovir hydrochloride is coadministered with these drugs in patients with normal renal function, no dosage adjustment is recommended.
 Antacids: The pharmacokinetics of acyclovir after a single dose of valacyclovir hydrochloride (1 gram) were unchanged by coadministration of a single dose of antacids (Al 3+ or Mg ++ ).

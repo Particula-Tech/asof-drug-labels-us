@@ -25,9 +25,9 @@ The median time to lesion healing was about 4½ days in both treatment groups.
 The median time to cessation of pain was about 3 days in both treatment groups.
 Suppressive Therapy: Two clinical studies were conducted, one in immunocompetent adults and one in HIV-infected adults.
 A double-blind, 12-month, placebo- and active-controlled study enrolled immunocompetent adults with a history of 6 or more recurrences per year.
-Outcomes for the overall study population are shown in Table 4.
+Outcomes for the overall study population are shown in Table 5.
 
-Table 4.
+Table 5.
 Recurrence Rates in Immunocompetent Adults at 6 and 12 Months
 
 | Outcome | 6 Months |  |  | 12 Months |  |  |
@@ -43,9 +43,9 @@ In a second study, 293 HIV-infected adults on stable antiretroviral therapy with
 The median duration of recurrent genital herpes in enrolled subjects was 8 years, and the median number of recurrences in the year prior to enrollment was 5.
 Overall, the median prestudy HIV-1 RNA was 2.6 log 10 copies/mL.
 Among patients who received valacyclovir hydrochloride, the prestudy median CD4+ cell count was 336 cells/mm 3 ; 11% had <100 cells/mm 3 , 16% had 100 to 199 cells/mm 3 , 42% had 200 to 499 cells/mm 3 , and 31% had ≥500 cells/mm 3 .
-Outcomes for the overall study population are shown in Table 5.
+Outcomes for the overall study population are shown in Table 6.
 
-Table 5.
+Table 6.
 Recurrence Rates in HIV-Infected Adults at 6 Months
 
 | Outcome | Valacyclovir Hydrochloride 500 mg twice daily (n = 194) | Placebo (n = 99) |
@@ -62,9 +62,9 @@ Both partners were counseled on safer sex practices and were advised to use cond
 Source partners were randomized to treatment with either valacyclovir hydrochloride 500 mg once daily or placebo once daily for 8 months.
 The primary efficacy endpoint was symptomatic acquisition of HSV-2 in susceptible partners.
 Overall HSV-2 acquisition was defined as symptomatic HSV-2 acquisition and/or HSV-2 seroconversion in susceptible partners.
-The efficacy results are summarized in Table 6.
+The efficacy results are summarized in Table 7.
 
-Table 6.
+Table 7.
 Percentage of Susceptible Partners Who Acquired HSV-2 Defined by the Primary and Selected Secondary Endpoints
 
 | Endpoint | Valacyclovir Hydrochloridea (n = 743) | Placebo (n = 741) |
@@ -83,5 +83,16 @@ In patients less than 50 years of age, the median time to cessation of new lesio
 In patients greater than 50 years of age, the median time to cessation of new lesions was 3 days in patients treated with either valacyclovir hydrochloride or oral acyclovir.
 In patients less than 50 years of age, no difference was found with respect to the duration of pain after healing (post-herpetic neuralgia) between the recipients of valacyclovir hydrochloride and placebo.
 In patients greater than 50 years of age, among the 83% who reported pain after healing (post-herpetic neuralgia), the median duration of pain after healing [95% confidence interval] in days was: 40 [31, 51], 43 [36, 55], and 59 [41, 77] for 7-day valacyclovir hydrochloride, 14-day valacyclovir hydrochloride, and 7-day oral acyclovir, respectively.
-Labeling describing clinical studies of valacyclovir hydrochloride in pediatric patients with chickenpox (ages 2 to ≤ 18 years) for the treatment of chickenpox is approved for GlaxoSmithKline’s Valtrex ® Caplets.
-However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of those clinical studies is not approved for this valacyclovir hydrochloride tablet product.
+
+## 14.4 Chickenpox
+
+The use of valacyclovir hydrochloride for treatment of chickenpox in pediatric patients 2 to <18 years of age is based on single-dose pharmacokinetic and multiple-dose safety data from an open-label trial with valacyclovir and supported by safety and extrapolated efficacy data from 3 randomized, double-blind, placebo-controlled trials evaluating oral acyclovir in pediatric patients.
+
+The single-dose pharmacokinetic and multiple-dose safety study enrolled 27 pediatric patients 1 to <12 years of age with clinically suspected VZV infection.
+Each subject was dosed with valacyclovir oral suspension, 20 mg/kg 3 times daily for 5 days.
+Acyclovir systemic exposures in pediatric patients following valacyclovir oral suspension were compared with historical acyclovir systemic exposures in immunocompetent adults receiving the solid oral dosage form of valacyclovir or acyclovir for the treatment of herpes zoster.
+The mean projected daily acyclovir exposures in pediatric patients across all age-groups (1 to <12 years of age) were lower (C max : ↓13%, AUC: ↓30%) than the mean daily historical exposures in adults receiving valacyclovir 1 gram 3 times daily, but were higher (daily AUC: ↑50%) than the mean daily historical exposures in adults receiving acyclovir 800 mg 5 times daily.
+The projected daily exposures in pediatric patients were greater (daily AUC approximately 100% greater) than the exposures seen in immunocompetent pediatric patients receiving acyclovir 20 mg/kg 4 times daily for the treatment of chickenpox.
+Based on the pharmacokinetic and safety data from this study and the safety and extrapolated efficacy data from the acyclovir studies, oral valacyclovir 20 mg/kg 3 times a day for 5 days (not to exceed 1 gram 3 times daily) is recommended for the treatment of chickenpox in pediatric patients 2 to <18 years of age.
+Because the efficacy and safety of acyclovir for the treatment of chickenpox in children <2 years of age have not been established, efficacy data cannot be extrapolated to support valacyclovir treatment in children <2 years of age with chickenpox.
+Valacyclovir is also not recommended for the treatment of herpes zoster in children because safety data up to 7 days’ duration are not available [see Use in Specific Populations (8.4)] .

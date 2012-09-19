@@ -31,6 +31,8 @@ There are no data on the safety or effectiveness of chronic suppressive therapy 
 
 There are no data on treatment initiated more than 72 hours after onset of the zoster rash.
 Patients should be advised to initiate treatment as soon as possible after a diagnosis of herpes zoster.
-Labeling describing use of valacyclovir hydrochloride in pediatric patients with chickenpox (ages of 2 to ≤ 18 years) for the treatment of chickenpox is approved for GlaxoSmithKline’s Valtrex ® Caplets.
-However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of that use is not approved for this valacyclovir hydrochloride tablet product.
-Manufactured for: Northstar Rx LLC Memphis, TN 38141 Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 072, India Code No.: 19/HD/AP/95/F/R Revised: 06/2010
+
+## 17.5 Chickenpox
+
+Patients should be advised to initiate treatment at the earliest sign or symptom of chickenpox.
+Manufactured for: Northstar Rx LLC Memphis, TN 38141 Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt) AP-509302, INDIA M.L.No.: 22/MN/AP/2009/F/G Revised: 04/2012
