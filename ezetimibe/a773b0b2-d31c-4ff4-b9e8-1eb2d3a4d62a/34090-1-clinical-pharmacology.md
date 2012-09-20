@@ -93,12 +93,12 @@ TABLE 4: Effect of Co-Administered Drugs on Total Ezetimibe
 
 |  | Change in AUC | Change in Cmax |
 | --- | --- | --- |
-| Co-Administered Drug and Dosing Regimen | Total Ezetimibe Based on 10 mg dose of ezetimibe |  |
+| Co-Administered Drug and Dosing Regimen | Total Ezetimibe Based on 10-mg dose of ezetimibe. |  |
 | Cyclosporine-stable dose required (75–150 mg BID)Post-renal transplant patients with mild impaired or normal renal function. In a different study, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m2) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects.,See Drug Interactions (7). | ↑240% | ↑290% |
 | Fenofibrate, 200 mg QD, 14 days | ↑48% | ↑64% |
 | Gemfibrozil, 600 mg BID, 7 days | ↑64% | ↑91% |
 | Cholestyramine, 4 g BID, 14 days | ↓55% | ↓4% |
-| Aluminum & magnesium hydroxide combination antacid, single doseSupralox, 20 mL | ↓4% | ↓30% |
+| Aluminum & magnesium hydroxide combination antacid, single doseSupralox, 20 mL. | ↓4% | ↓30% |
 | Cimetidine, 400 mg BID, 7 days | ↑6% | ↑22% |
 | Glipizide, 10 mg, single dose | ↑4% | ↓8% |
 | Statins |  |  |
@@ -112,13 +112,13 @@ TABLE 5: Effect of Ezetimibe Co-Administration on Systemic Exposure to Other Dru
 
 | Co-Administered Drug and its Dosage Regimen | Ezetimibe Dosage Regimen | Change in AUC of Co-Administered Drug | Change in Cmax of Co-Administered Drug |
 | --- | --- | --- | --- |
-| Warfarin, 25 mg single dose on day 7 | 10 mg QD, 11 days | ↓2% (R-warfarin) ↓4% (S-warfarin) | ↑3% (R-warfarin) ↑1% (S-warfarin) |
-| Digoxin, 0.5 mg single dose | 10 mg QD, 8 days | ↑2% | ↓7% |
+| Warfarin, 25-mg single dose on Day 7 | 10 mg QD, 11 days | ↓2% (R-warfarin) ↓4% (S-warfarin) | ↑3% (R-warfarin) ↑1% (S-warfarin) |
+| Digoxin, 0.5-mg single dose | 10 mg QD, 8 days | ↑2% | ↓7% |
 | Gemfibrozil, 600 mg BID, 7 daysSee Drug Interactions (7). | 10 mg QD, 7 days | ↓1% | ↓11% |
 | Ethinyl estradiol & Levonorgestrel, QD, 21 days | 10 mg QD, days 8–14 of 21d oral contraceptive cycle | Ethinyl estradiol 0% Levonorgestrel 0% | Ethinyl estradiol ↓9% Levonorgestrel ↓5% |
-| Glipizide, 10 mg on days 1 and 9 | 10 mg QD, days 2–9 | ↓3% | ↓5% |
+| Glipizide, 10 mg on Days 1 and 9 | 10 mg QD, days 2–9 | ↓3% | ↓5% |
 | Fenofibrate, 200 mg QD, 14 days | 10 mg QD, 14 days | ↑11% | ↑7% |
-| Cyclosporine, 100 mg single dose day 7 | 20 mg QD, 8 days | ↑15% | ↑10% |
+| Cyclosporine, 100-mg single dose Day 7 | 20 mg QD, 8 days | ↑15% | ↑10% |
 | Statins |  |  |  |
 | Lovastatin 20 mg QD, 7 days | 10 mg QD, 7 days | ↑19% | ↑3% |
 | Pravastatin 20 mg QD, 14 days | 10 mg QD, 14 days | ↓20% | ↓24% |

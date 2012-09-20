@@ -32,14 +32,14 @@ The effects of ZETIA co-administered with simvastatin (n=126) compared to simvas
 In a multicenter, double-blind, controlled study followed by an open-label phase, 142 boys and 106 postmenarchal girls, 10 to 17 years of age (mean age 14.2 years, 43% females, 82% Caucasians, 4% Asian, 2% Blacks, 13% multi-racial) with HeFH were randomized to receive either ZETIA co-administered with simvastatin or simvastatin monotherapy.
 Inclusion in the study required 1) a baseline LDL-C level between 160 and 400 mg/dL and 2) a medical history and clinical presentation consistent with HeFH.
 The mean baseline LDL-C value was 225 mg/dL (range: 161–351 mg/dL) in the ZETIA co-administered with simvastatin group compared to 219 mg/dL (range: 149–336 mg/dL) in the simvastatin monotherapy group.
-The patients received co-administered ZETIA and simvastatin (10 mg, 20 mg, or 40 mg) or simvastatin monotherapy (10 mg, 20 mg, or 40 mg) for 6 weeks, co-administered ZETIA and 40 mg simvastatin or 40 mg simvastatin monotherapy for the next 27 weeks, and open-label co-administered ZETIA and simvastatin (10 mg, 20 mg, or 40 mg) for 20 weeks thereafter.
+The patients received co-administered ZETIA and simvastatin (10 mg, 20 mg, or 40 mg) or simvastatin monotherapy (10 mg, 20 mg, or 40 mg) for 6 weeks, co-administered ZETIA and 40-mg simvastatin or 40-mg simvastatin monotherapy for the next 27 weeks, and open-label co-administered ZETIA and simvastatin (10 mg, 20 mg, or 40 mg) for 20 weeks thereafter.
 
 The results of the study at Week 6 are summarized in Table 3.
 Results at Week 33 were consistent with those at Week 6.
 
 TABLE 3: Mean Percent Difference at Week 6 Between the Pooled ZETIA Co-Administered with Simvastatin Group and the Pooled Simvastatin Monotherapy Group in Adolescent Patients with Heterozygous Familial Hypercholesterolemia
 
-|  | Total-C | LDL-C | Apo B | Non-HDL-C | TGFor triglycerides, median % change from baseline | HDL-C |
+|  | Total-C | LDL-C | Apo B | Non-HDL-C | TGFor triglycerides, median % change from baseline. | HDL-C |
 | --- | --- | --- | --- | --- | --- | --- |
 | Mean percent difference between treatment groups | -12% | -15% | -12% | -14% | -2% | +0.1% |
 | 95% Confidence Interval | (-15%, -9%) | (-18%, -12%) | (-15%, -9%) | (-17%, -11%) | (-9%, +4%) | (-3%, +3%) |

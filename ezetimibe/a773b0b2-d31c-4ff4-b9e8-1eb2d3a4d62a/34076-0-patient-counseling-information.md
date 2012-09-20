@@ -25,12 +25,12 @@ Patients should be advised that if they become pregnant they should stop taking 
 Women who are breastfeeding should be advised to not use ZETIA added to statin therapy.
 Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professionals.
 
-Manufactured for: MSP Distribution Services (C) LLC, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-By: Schering Corporation, a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
+Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 U.S. Patent Nos. 5,846,966; 7,030,106 and RE 42,461.
 
-Revised: 01/2012
+Copyright © (2001-2012) MSD International GmbH, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-35223509T REV 23
+Revised: 06/2012
+
+USPI-T-06531206R024

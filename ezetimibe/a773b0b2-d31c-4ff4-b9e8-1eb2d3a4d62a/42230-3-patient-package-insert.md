@@ -33,7 +33,7 @@ ZETIA has not been studied in children under age 10.
 
 What should I tell my doctor before and while taking ZETIA?
 
-Tell your doctor about any prescription and non-prescription medicines you are taking or plan to take, including natural or herbal remedies.
+Tell your doctor about any prescription and nonprescription medicines you are taking or plan to take, including natural or herbal remedies.
 
 Tell your doctor about all your medical conditions including allergies.
 
@@ -106,12 +106,12 @@ Inactive ingredients:
 
 Croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, and sodium lauryl sulfate.
 
-Manufactured for: MSP Distribution Services (C) LLC, a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-By: Schering Corporation, a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
+Merck Sharp & Dohm Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
 U.S. Patent Nos. 5,846,966; 7,030,106 and RE 42,461.
 
-Revised: 01/2012
+Copyright © (2001-2012) MSD International GmbH, a subsidiary of Merck & Co., Inc. All rights reserved.
 
-35223606T REV 23
+Revised: 06/2012
+
+USPPI-T-06531206R024

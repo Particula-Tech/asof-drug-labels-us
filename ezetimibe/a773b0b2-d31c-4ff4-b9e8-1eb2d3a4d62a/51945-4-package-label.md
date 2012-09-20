@@ -9,7 +9,3 @@ NDC 66582-414-28
 Zetia® (ezetimibe) Tablets 10 mg
 
 Rx only
-
-Distributed by:
-
-MERCK/Schering-Plough Pharmaceuticals
