@@ -27,7 +27,7 @@ ZOMIG should not be administered to patients with hemiplegic or basilar migraine
 
 ## 4.7 Administration of MAO-A inhibitors within 2 weeks
 
-Concurrent administration of MAO-A inhibitors or use of zolmitriptan within 2 weeks of discontinuation of MAO-A inhibitor therapy is contraindicated [see Clinical Pharmacology (12.4) and Drug Interactions (7.2)].
+Concurrent administration of MAO-A inhibitors or use of zolmitriptan within 2 weeks of discontinuation of MAO-A inhibitor therapy is contraindicated [see Clinical Pharmacology (12.4)andDrug Interactions (7.2)].
 
 ## 4.8 Hypersensitivity to zolmitriptan
 

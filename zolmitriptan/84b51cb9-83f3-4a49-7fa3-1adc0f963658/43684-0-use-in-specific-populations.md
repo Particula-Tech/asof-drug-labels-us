@@ -41,4 +41,4 @@ Although the pharmacokinetic disposition of the drug in the elderly is similar t
 The effect of hepatic disease on the pharmacokinetics of zolmitriptan nasal spray has not been evaluated.
 After oral administration, zolmitriptan exposure was increased in patients with severe hepatic impairment, and significant elevation in blood pressure was observed in some patients.
 Because of the similarity in exposure, zolmitriptan tablets and nasal spray should have similar dosage adjustments and should be administered with caution in subjects with liver disease, generally using doses less than 2.5 mg.
-Doses lower than 5 mg can only be achieved through the use of an oral formulation [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+Doses lower than 5 mg can only be achieved through the use of an oral formulation [see Dosage and Administration (2.2)andClinical Pharmacology (12.3)].

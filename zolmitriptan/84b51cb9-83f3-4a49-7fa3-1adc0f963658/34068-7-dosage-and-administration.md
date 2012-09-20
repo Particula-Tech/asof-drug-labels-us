@@ -19,4 +19,4 @@ The safety of treating an average of more than four headaches in a 30-day period
 ## 2.2 Hepatic Impairment
 
 Patients with moderate to severe hepatic impairment have decreased clearance of zolmitriptan and significant elevation in blood pressure was observed in some patients.
-Use of doses less than 2.5 mg of an alternate formulation with blood pressure monitoring is recommended [see Clinical Pharmacology (12.3) and Warnings and Precautions (5.6)].
+Use of doses less than 2.5 mg of an alternate formulation with blood pressure monitoring is recommended [see Clinical Pharmacology (12.3)andWarnings and Precautions (5.6)].

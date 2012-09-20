@@ -6,7 +6,7 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 
 Serious cardiac reactions, including myocardial infarction, have occurred following the use of ZOMIG Tablets.
 These reactions are extremely rare and most have been reported in patients with risk factors predictive of CAD.
-Reactions reported, in association with triptans, have included coronary artery vasospasm, transient myocardial ischemia, myocardial infarction, ventricular tachycardia, and ventricular fibrillation [see Contraindications, (4.1) and Warnings and Precautions (5.1)].
+Reactions reported, in association with triptans, have included coronary artery vasospasm, transient myocardial ischemia, myocardial infarction, ventricular tachycardia, and ventricular fibrillation [see Contraindications (4.1)andWarnings and Precautions (5.1)].
 
 Incidence in Controlled Clinical Trials:
 

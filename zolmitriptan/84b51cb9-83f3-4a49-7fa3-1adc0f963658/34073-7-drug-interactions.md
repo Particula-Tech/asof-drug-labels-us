@@ -8,7 +8,7 @@ Because there is a theoretical basis that these effects may be additive, use of 
 ## 7.2 MAO-A Inhibitors
 
 MAO-A inhibitors increase the systemic exposure of zolmitriptan.
-Therefore, the use of zolmitriptan in patients receiving MAO-A inhibitors is contraindicated [see Clinical Pharmacology (12.4) and Contraindications (4.7)].
+Therefore, the use of zolmitriptan in patients receiving MAO-A inhibitors is contraindicated [see Clinical Pharmacology (12.4)andContraindications (4.7)].
 
 ## 7.3 5-HT1B/1D agonists (e.g. triptans)
 

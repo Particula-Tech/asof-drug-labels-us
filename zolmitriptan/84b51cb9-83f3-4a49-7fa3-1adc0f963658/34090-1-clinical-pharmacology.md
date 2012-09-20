@@ -91,7 +91,7 @@ The pharmacokinetics of zolmitriptan, as well as its effect on blood pressure, w
 
 MAO Inhibitors:
 
-Following one week of administration of 150 mg bid moclobemide, a specific MAO-A inhibitor, there was an increase of about 25% in both Cmax and AUC for zolmitriptan and a 3-fold increase in the Cmax and AUC of the active N-desmethyl metabolite of zolmitriptan [see Contraindications (4) and Warnings and Precautions (5)].
+Following one week of administration of 150 mg bid moclobemide, a specific MAO-A inhibitor, there was an increase of about 25% in both Cmax and AUC for zolmitriptan and a 3-fold increase in the Cmax and AUC of the active N-desmethyl metabolite of zolmitriptan [see Contraindications (4)andWarnings and Precautions (5)].
 
 Selegiline, a selective MAO-B inhibitor, at a dose of 10 mg/day for 1 week, had no effect on the pharmacokinetics of zolmitriptan and its metabolite.
 
