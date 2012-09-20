@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA202992"
+  ],
+  "inn": "teriflunomide",
+  "labeler": "Genzyme Corp.",
+  "package_ndcs": [
+    "58468-0210-1",
+    "58468-0210-2",
+    "58468-0211-1",
+    "58468-0211-2"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "teriflunomide",
+      "name": "Aubagio"
+    }
+  ],
+  "setid": "4650d12c-b9c8-4525-b07f-a2d773eca155",
+  "source": "dailymed"
+}

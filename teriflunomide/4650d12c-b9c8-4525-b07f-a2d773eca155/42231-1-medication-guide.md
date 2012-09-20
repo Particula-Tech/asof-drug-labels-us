@@ -1,0 +1,171 @@
+Medication Guide
+
+AUBAGIO (oh-BAH-gee-oh) (teriflunomide) tablets
+
+Read this Medication Guide before you start using AUBAGIO and each time you get a refill.
+There may be new information.
+This information does not take the place of talking with your doctor about your medical condition or your treatment.
+
+What is the most important information I should know about AUBAGIO?
+
+AUBAGIO may cause serious side effects, including:
+
+- Liver problems: AUBAGIO may cause serious liver problems that may lead to death.
+  Your risk of liver problems may be higher if you take other medicines that also affect your liver.
+  Your doctor should do blood tests to check your liver:Call your doctor right away if you have any of the following symptoms of liver problems:
+  - within 6 months before you start taking AUBAGIO
+  - 1 time a month for 6 months after you start taking AUBAGIO
+  - nausea
+  - vomiting
+  - stomach pain
+  - loss of appetite
+  - tiredness
+  - your skin or the whites of your eyes turn yellow
+  - dark urine
+- Harm to your unborn baby: AUBAGIO may cause harm to your unborn baby.
+  Do not take AUBAGIO if you are pregnant.
+  Do not take AUBAGIO unless you are using effective birth control.
+  - If you are a female, you should have a pregnancy test before you start taking AUBAGIO.
+    Use effective birth control during your treatment with AUBAGIO.
+  - After stopping AUBAGIO, continue using effective birth control until you have blood tests to make sure your blood levels of AUBAGIO are low enough.
+    If you become pregnant while taking AUBAGIO or within 2 years after you stop taking it, tell your doctor right away.
+  - AUBAGIO Pregnancy Registry.
+    If you become pregnant while taking AUBAGIO or during the 2 years after you stop taking AUBAGIO, talk to your doctor about enrolling in the AUBAGIO Pregnancy Registry at 1-800-745-4447, option 2.
+    The purpose of this registry is to collect information about your health and your baby's health.
+  - For men taking AUBAGIO:
+    - If your female partner plans to become pregnant, you should stop taking AUBAGIO and ask your doctor how to quickly lower the levels of AUBAGIO in your blood.
+    - If your female partner does not plan to become pregnant, you and your female partner should use effective birth control during your treatment with AUBAGIO.
+      AUBAGIO remains in your blood after you stop taking it, so continue using effective birth control until AUBAGIO blood levels have been checked and they are low enough.
+
+AUBAGIO may stay in your blood for up to 2 years after you stop taking it.
+Your doctor can prescribe a medicine to help lower your blood levels of AUBAGIO more quickly.
+Talk to your doctor if you want more information about this.
+
+What is AUBAGIO?
+
+AUBAGIO is a prescription medicine used to treat relapsing forms of multiple sclerosis (MS).
+AUBAGIO can decrease the number of MS flare-ups (relapses).
+AUBAGIO does not cure MS, but it can help slow down the physical problems that MS causes.
+
+It is not known if AUBAGIO is safe and effective in children.
+
+Who should not take AUBAGIO?
+
+Do not take AUBAGIO if you:
+
+- have severe liver problems
+- are pregnant or are of childbearing age and not using effective birth control
+- take a medicine called leflunomide
+
+What should I tell my doctor before taking AUBAGIO?
+
+Before you take AUBAGIO, tell your doctor if you:
+
+- have liver or kidney problems
+- have a fever or infection, or you are unable to fight infections
+- have numbness or tingling in your hands or feet that is different from your MS symptoms
+- have diabetes
+- have had serious skin problems when taking other medicines
+- have breathing problems
+- have high blood pressure
+- are breastfeeding or plan to breastfeed.
+  It is not known if AUBAGIO passes into your breast milk.
+  You and your doctor should decide if you will take AUBAGIO or breastfeed.
+  You should not do both at the same time.
+
+Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+
+Using AUBAGIO and other medicines may affect each other causing serious side effects.
+AUBAGIO may affect the way other medicines work, and other medicines may affect how AUBAGIO works.
+
+Especially tell your doctor if you take medicines that could raise your chance of getting infections, including medicines used to treat cancer or to control your immune system.
+
+Ask your doctor or pharmacist for a list of these medicines if you are not sure.
+
+Know the medicines you take.
+Keep a list of them to show your doctor or pharmacist when you get a new medicine.
+
+How should I take AUBAGIO?
+
+- Take AUBAGIO exactly as your doctor tells you to take it.
+- Take AUBAGIO 1 time each day.
+- Take AUBAGIO with or without food.
+
+What are possible side effects of AUBAGIO?
+
+AUBAGIO may cause serious side effects, including:
+
+- See "What is the most important information I should know about AUBAGIO?"
+- decreases in your white blood cell count.
+  Your white blood cell counts should be checked before you start taking AUBAGIO.
+  When you have a low white blood cell count you:
+  - may have more frequent infections.
+    You should have a skin test for TB (Tuberculosis) before you start taking AUBAGIO.
+    Tell your doctor if you have any of these symptoms of an infection:
+    - fever
+    - tiredness
+    - body aches
+    - chills
+    - nausea
+    - vomiting
+  - should not receive certain vaccinations during your treatment with AUBAGIO and for 6 months after your treatment with AUBAGIO ends.
+- numbness or tingling in your hands or feet that is different from your MS symptoms.
+  You have a greater chance of getting peripheral neuropathy if you:Tell your doctor if you have numbness or tingling in your hands or feet that is different from your MS.
+  - are over 60 years of age
+  - take certain medicines that affect your nervous system
+  - have diabetes
+- kidney problems.
+  Tell your doctor if you have pain in your side (flank pain).
+- high potassium levels in your blood.
+  Tell your doctor if you have nausea that does not go away or a racing heartbeat.
+- serious skin problems.
+  Tell your doctor if you have any skin problems such as redness and peeling.
+- new or worsening breathing problems.
+  Tell your doctor if you have shortness of breath or coughing with or without fever.
+- high blood pressure.
+  Your doctor should check your blood pressure before you start taking AUBAGIO and while you are taking AUBAGIO.
+
+The most common side effects of AUBAGIO include:
+
+- increases in the results of blood tests to check your liver
+- hair thinning or loss (alopecia)
+- diarrhea
+- flu
+- nausea
+- burning or prickling feeling in your skin (paraesthesia)
+
+Tell your doctor if you have any side effect that bothers you or that does not go away.
+
+These are not all the possible side effects of AUBAGIO.
+For more information, ask your doctor or pharmacist.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-332-1088.
+
+How should I store AUBAGIO?
+
+- Store AUBAGIO at room temperature between 68°F to 77°F (20°C to 25°C).
+- Keep AUBAGIO and all medicines out of reach of children.
+
+General information about the safe and effective use of AUBAGIO.
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+Do not use AUBAGIO for a condition for which it was not prescribed.
+Do not give AUBAGIO to other people, even if they have the same symptoms you have.
+It may harm them.
+
+This Medication Guide summarizes the most important information about AUBAGIO.
+If you would like more information, talk with your doctor.
+You can ask your doctor or pharmacist for information about AUBAGIO that is written for healthcare professionals.
+
+For more information, go to www.aubagio.com or call Genzyme Medical Information Services at 1-800-745-4447, option 2.
+
+What are the ingredients in AUBAGIO?
+
+Active ingredient: teriflunomide
+
+Inactive ingredients in 7 mg and 14 mg tablets: lactose monohydrate, corn starch, hydroxypropylcellulose, microcrystalline cellulose, sodium starch glycolate, magnesium stearate, hypromellose, titanium dioxide, talc, polyethylene glycol and indigo carmine aluminum lake.
+
+In addition, the 7 mg tablets also contain iron oxide yellow.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
