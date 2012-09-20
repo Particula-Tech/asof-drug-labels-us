@@ -10,33 +10,29 @@ This information does not take the place of talking with your healthcare provide
 
 What is the most important information I should know about ANDROGEL 1.62%?
 
-ANDROGEL 1.62% can transfer from your body to others.
-This can happen if other people come into contact with the area where the ANDROGEL 1.62% was applied.
+1. Early signs and symptoms of puberty have happened in young children who were accidentally exposed to testosterone through contact with men using ANDROGEL 1.62%.
+   Signs and symptoms of early puberty in a child may include: ANDROGEL 1.62% can transfer from your body to others.
+   - enlarged penis or clitoris
+   - early development of pubic hair
+   - increased erections or sex drive
+   - aggressive behavior
+2. Women and children should avoid contact with the unwashed or unclothed area where ANDROGEL 1.62% has been applied to your skin.
+   Stop using ANDROGEL 1.62% and call your healthcare provider right away if you see any signs and symptoms in a child or a woman that may have occurred through accidental exposure to ANDROGEL 1.62%.
+   Signs and symptoms of exposure to ANDROGEL 1.62% in children may include: Signs and symptoms of exposure to ANDROGEL 1.62% in women may include:
+   - enlarged penis or clitoris
+   - early development of pubic hair
+   - increased erections or sex drive
+   - aggressive behavior
+   - changes in body hair
+   - a large increase in acne
 
-Signs of puberty that are not expected (for example, pubic hair) have happened in young children who were accidentally exposed to testosterone through skin-to-skin contact with men using topical testosterone products like ANDROGEL 1.62%.
-
-- Women and children should avoid contact with the unwashed or unclothed area where ANDROGEL 1.62% has been applied.
-  If a woman or child makes contact with the ANDROGEL 1.62% application area, the contact area on the woman or child should be washed well with soap and water right away.
 - To lower the risk of transfer of ANDROGEL 1.62% from your body to others, you should follow these important instructions:
   - Apply ANDROGEL 1.62% only to your shoulders and upper arms that will be covered by a short sleeve t-shirt.
   - Wash your hands right away with soap and water after applying ANDROGEL 1.62%.
   - After the gel has dried, cover the application area with clothing.
     Keep the area covered until you have washed the application area well or have showered.
-  - If you expect another person to have skin-to-skin contact with your shoulders or upper arms, first wash the application area well with soap and water.
-
-Stop using ANDROGEL 1.62% and call your healthcare provider right away if you see any signs and symptoms in a child or a woman that may have occurred through accidental exposure to ANDROGEL 1.62%.
-
-Signs and symptoms in children may include:
-
-- enlarged penis or clitoris
-- early development of pubic hair
-- increased erections or sex drive
-- aggressive behavior
-
-Signs and symptoms in women may include:
-
-- changes in body hair
-- a large increase in acne
+  - If you expect to have skin-to-skin contact with another person, first wash the application area well with soap and water.
+  - If a woman or child makes contact with the ANDROGEL 1.62% application area, that area on the woman or child should be washed well with soap and water right away.
 
 What is ANDROGEL 1.62%?
 
@@ -63,8 +59,7 @@ Do not use ANDROGEL 1.62% if you:
 - have or might have prostate cancer
 - are pregnant or may become pregnant or are breast-feeding.
   ANDROGEL 1.62% may harm your unborn or breast-feeding baby.
-
-Women who are pregnant or who may become pregnant should avoid contact with the area of skin where ANDROGEL 1.62% has been applied.
+  Women who are pregnant or who may become pregnant should avoid contact with the area of skin where ANDROGEL 1.62% has been applied.
 
 Talk to your healthcare provider before taking this medicine if you have any of the above conditions.
 
@@ -100,7 +95,7 @@ How should I use ANDROGEL 1.62%?
 - Your healthcare provider will tell you how much ANDROGEL 1.62% to apply and when to apply it.
 - Your healthcare provider may change your ANDROGEL 1.62% dose.
   Do not change your ANDROGEL 1.62% dose without talking to your healthcare provider.
-- ANDROGEL 1.62% is to be applied to the area of shoulders and upper arms that will be covered by a short sleeve t-shirt.
+- ANDROGEL 1.62% is to be applied to the area of your shoulders and upper arms that will be covered by a short sleeve t-shirt.
   Do not apply ANDROGEL 1.62% to any other parts of your body such as your stomach area (abdomen), penis, or scrotum.
 - Apply ANDROGEL 1.62% at the same time each morning.
   ANDROGEL 1.62% should be applied after showering or bathing.
@@ -108,30 +103,51 @@ How should I use ANDROGEL 1.62%?
 - Avoid showering, swimming or bathing for at least 2 hours after you apply ANDROGEL 1.62%.
 - ANDROGEL 1.62% is flammable until dry.
   Let ANDROGEL 1.62% dry before smoking or going near an open flame.
+- Let the application site dry completely before putting on a t-shirt.
 
 Applying ANDROGEL 1.62%:
+
+ANDROGEL 1.62% comes in a pump or in packets.
+
+- Before applying ANDROGEL 1.62% make sure that your shoulders and upper arms are clean, dry, and that there is no broken skin.
+- The application sites for ANDROGEL 1.62% are the upper arms and shoulders that will be covered by a short sleeve t-shirt (See Figure A).
+
+If you are using ANDROGEL 1.62% pump:
 
 - Before using a new bottle of ANDROGEL 1.62 % for the first time, you will need to prime the pump.
   To prime the ANDROGEL 1.62% pump, slowly push the pump all the way down 3 times.
   Do not use any ANDROGEL 1.62% that came out while priming.
   Wash it down the sink to avoid accidental exposure to others.
   Your ANDROGEL 1.62% pump is now ready to use.
-- Use ANDROGEL 1.62% exactly as your healthcare provider tells you to use it.
-  Your healthcare provider will tell you the dose of ANDROGEL 1.62% that is right for you.
-- Before applying ANDROGEL 1.62% make sure that your shoulders and upper arms are clean, dry, and that there is no broken skin.
-  - Remove the cap from the pump.
-    Then, position the nozzle over the palm of your hand and slowly and fully depress the pump.
-  - The application sites for ANDROGEL 1.62% are the upper arms and shoulders that will be covered by a short sleeve t-shirt (See Figure 1).
-
-| Find Your Dose as Prescribed by Your Physician |  | Application Method |
-| --- | --- | --- |
-| 1 PUMP DEPRESSION | 20.25 mg | Using the palm of the hand, apply one depression of ANDROGEL 1.62% to 1 upper arm and shoulder. |
-| 2 PUMP DEPRESSIONS | 40.5 mg | Using the palm of the hand, apply one pump depression of ANDROGEL 1.62% to one upper arm and shoulder and then apply one pump depression of ANDROGEL 1.62% to the opposite upper arm and shoulder. |
-| 3 PUMP DEPRESSIONS | 60.75 mg | Using the palm of the hand, apply two pump depressions of ANDROGEL 1.62% to one upper arm and shoulder and then apply one pump depression of ANDROGEL 1.62% to the opposite upper arm and shoulder. |
-| 4 PUMP DEPRESSIONS | 81 mg | Using the palm of the hand, apply two pump depressions of ANDROGEL 1.62% to one upper arm and shoulder and then apply two pump depressions of ANDROGEL 1.62% to the opposite upper arm and shoulder. |
-
-- Let the application site dry completely before putting on a t-shirt.
+- Remove the cap from the pump.
+  Then, position the nozzle over the palm of your hand and slowly push the pump all the way down.
+  Apply ANDROGEL 1.62% to the application site.
+  You may also apply ANDROGEL 1.62% directly to the application site.
 - Wash your hands with soap and water right away.
+
+| Find Your Dose as Prescribed by Your Healthcare Provider |  | Application Method |
+| --- | --- | --- |
+| 1 PUMP DEPRESSION | 20.25 mg | Apply 1 pump depression of ANDROGEL 1.62% to 1 upper arm and shoulder. |
+| 2 PUMP DEPRESSIONS | 40.5 mg | Apply 1 pump depression of ANDROGEL 1.62% to 1 upper arm and shoulder and then apply 1 pump depression of ANDROGEL 1.62% to the opposite upper arm and shoulder. |
+| 3 PUMP DEPRESSIONS | 60.75 mg | Apply 2 pump depressions of ANDROGEL 1.62% to 1 upper arm and shoulder and then apply 1 pump depression of ANDROGEL 1.62% to the opposite upper arm and shoulder. |
+| 4 PUMP DEPRESSIONS | 81 mg | Apply 2 pump depressions of ANDROGEL 1.62% to 1 upper arm and shoulder and then apply 2 pump depressions of ANDROGEL 1.62% to the opposite upper arm and shoulder. |
+
+If you are using ANDROGEL 1.62% packets:
+
+- Tear open the packet completely at the dotted line.
+  Squeeze from the bottom of the packet to the top.
+- Squeeze all of the ANDROGEL 1.62% out of the packet into the palm of your hand.
+  Apply ANDROGEL 1.62% to the application site.
+  You may also apply ANDROGEL 1.62% directly to the application site.
+- ANDROGEL 1.62% should be applied right away.
+- Wash your hands with soap and water right away.
+
+| Find Your Dose as Prescribed by Your Healthcare Provider |  | Application Method |
+| --- | --- | --- |
+| One 20.25 mg packet | 20.25 mg | Apply 1 packet of ANDROGEL 1.62% to 1 upper arm and shoulder. |
+| One 40.5 mg packet | 40.5 mg | Apply half of the 40.5 mg packet of ANDROGEL 1.62% to 1 upper arm and shoulder and then apply the remaining packet contents to the opposite upper arm and shoulder. |
+| One 40.5 mg packet and one 20.25 mg packet | 60.75 mg | Apply one 40.5 mg packet of ANDROGEL 1.62% to 1 upper arm and shoulder and then apply one 20.25 mg packet of ANDROGEL 1.62% to the opposite upper arm and shoulder. |
+| Two 40.5 mg packets | 81 mg | Apply one 40.5 mg packet of ANDROGEL 1.62% to 1 upper arm and shoulder and then apply one 40.5 mg packet of ANDROGEL 1.62% to the opposite upper arm and shoulder. |
 
 What are the possible side effects of ANDROGEL 1.62%?
 
@@ -179,13 +195,13 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store ANDROGEL 1.62%?
 
 - Store ANDROGEL 1.62% at 59ºF to 86ºF (15ºC to 30ºC).
-- When it is time to throw away the pump, safely throw away used ANDROGEL 1.62% in household trash.
+- When it is time to throw away the pump or packets, safely throw away used ANDROGEL 1.62% in household trash.
   Be careful to prevent accidental exposure of children or pets.
 - Keep ANDROGEL 1.62% away from fire.
 
 Keep ANDROGEL 1.62% and all medicines out of the reach of children.
 
-General information about the safe and effective use of ANDROGEL 1.62%:
+General information about the safe and effective use of ANDROGEL 1.62%
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use ANDROGEL 1.62% for a condition for which it was not prescribed.
@@ -206,16 +222,10 @@ Inactive ingredients: carbopol 980, ethyl alcohol, isopropyl myristate, purified
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-© 2011 Abbott Laboratories
+A090630053786 September 2012
 
-Distributed by:
+© 2012 Abbott Laboratories
+
+Marketed by:
 
 Abbott Laboratories North Chicago, IL, 60064, U.S.A.
-
-1068523 4E Rev Apr 2011
-
-Approved: 04/2011
-
-Abbott
-
-1062416 4E Rev Apr 2011

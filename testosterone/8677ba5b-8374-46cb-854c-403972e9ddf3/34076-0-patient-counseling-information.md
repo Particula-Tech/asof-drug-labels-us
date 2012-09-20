@@ -27,7 +27,7 @@ Strict adherence to the following precautions is advised to minimize the potenti
   - Wash hands with soap and water immediately after application.
   - Cover the application site(s) with clothing after the gel has dried.
   - Wash the application site(s) thoroughly with soap and water prior to any situation where skin-to-skin contact of the application site with another person is anticipated.
-- In the event that unwashed or unclothed skin to which AndroGel 1.62%.has been applied comes in contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible [see Dosage and Administration (2.2), Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+- In the event that unwashed or unclothed skin to which AndroGel 1.62% has been applied comes in contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible [see Dosage and Administration (2.2), Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
 ## 17.3 Potential Adverse Reactions with Androgens
 
@@ -50,12 +50,8 @@ Patients should be informed that treatment with androgens may lead to adverse re
 - Wait 2 hours before swimming or washing following application of AndroGel 1.62%.
   This will ensure that the greatest amount of AndroGel 1.62% is absorbed into their system.
 
+A090630053786 September 2012
+
 Marketed by: Abbott Laboratories North Chicago, IL, 60064, U.S.A.
 
-© 2011 Abbott Laboratories
-
-Revised: 04/2011
-
-1062416 4E Rev Apr 2011
-
-Abbott
+© 2012 Abbott Laboratories

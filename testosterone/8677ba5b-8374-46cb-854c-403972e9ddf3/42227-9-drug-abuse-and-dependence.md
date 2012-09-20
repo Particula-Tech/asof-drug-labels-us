@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance
 
-AndroGel 1.62% contains testosterone, a Schedule III controlled substance as defined under the Anabolic Steroids Control Act.
+AndroGel 1.62% contains testosterone, a Schedule III controlled substance in the Controlled Substances Act.
 
 ## 9.2 Abuse
 

@@ -7,4 +7,4 @@ In mice, the implant induced cervical-uterine tumors which metastasized in some 
 There is suggestive evidence that injection of testosterone into some strains of female mice increases their susceptibility to hepatoma.
 Testosterone is also known to increase the number of tumors and decrease the degree of differentiation of chemically induced carcinomas of the liver in rats.
 Testosterone was negative in the in vitro Ames and in the in vivo mouse micronucleus assays.
-The administration of exogenous testosterone has been reported to suppress spermatogenesis in the rat, dog and no-human primates, which was reversible on cessation of the treatment.
+The administration of exogenous testosterone has been reported to suppress spermatogenesis in the rat, dog and non-human primates, which was reversible on cessation of the treatment.

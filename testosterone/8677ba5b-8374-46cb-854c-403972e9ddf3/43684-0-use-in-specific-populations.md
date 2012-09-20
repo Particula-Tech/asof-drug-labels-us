@@ -14,7 +14,7 @@ Testosterone and other androgens may adversely affect lactation [see Contraindic
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of AndroGel 1.62% in pediatric patients < 18 years old has not been established.
+The safety and effectiveness of AndroGel 1.62% in pediatric patients less than 18 years old has not been established.
 Improper use may result in acceleration of bone age and premature closure of epiphyses.
 
 ## 8.5 Geriatric Use

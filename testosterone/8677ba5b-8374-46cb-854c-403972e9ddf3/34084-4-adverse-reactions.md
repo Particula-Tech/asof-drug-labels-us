@@ -20,9 +20,9 @@ During the open-label period, three patients had a serum PSA value > 4.0 ng/mL, 
 The other patient did not undergo repeat PSA testing.
 Among previous placebo patients, 3 of 28 (10.7%), had increased PSA as an adverse event in the open-label period.
 
-Table 3 shows adverse reactions reported by >2% of patients in the 182-day, double-blind period of the AndroGel 1.62% clinical trial and more frequent in the AndroGel 1.62% treated group versus placebo.
+Table 4 shows adverse reactions reported by >2% of patients in the 182-day, double-blind period of the AndroGel 1.62% clinical trial and more frequent in the AndroGel 1.62% treated group versus placebo.
 
-Table 3: Adverse Reactions Reported in >2% of Patients in the 182-Day, Double-Blind Period of AndroGel 1.62% Clinical Trial
+Table 4: Adverse Reactions Reported in >2% of Patients in the 182-Day, Double-Blind Period of AndroGel 1.62% Clinical Trial
 
 |  | Number (%) of Patients |  |
 | --- | --- | --- |
@@ -56,9 +56,9 @@ None of these subjects were discontinued from the study due to application site 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of AndroGel 1%.
-Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 4).
+Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 5).
 
-Table 4: Adverse Reactions from Post Approval Experience of AndroGel 1% by System Organ Class
+Table 5: Adverse Reactions from Post Approval Experience of AndroGel 1% by System Organ Class
 
 | System Organ Class | Adverse Reaction |
 | --- | --- |

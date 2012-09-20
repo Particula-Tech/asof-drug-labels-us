@@ -3,9 +3,12 @@
     "NDA022309"
   ],
   "inn": "testosterone",
-  "labeler": "Abbott Products, Inc.",
+  "labeler": "Abbott Laboratories",
   "package_ndcs": [
-    "0051-8462-02",
+    "0051-8462-01",
+    "0051-8462-12",
+    "0051-8462-30",
+    "0051-8462-31",
     "0051-8462-33"
   ],
   "products": [

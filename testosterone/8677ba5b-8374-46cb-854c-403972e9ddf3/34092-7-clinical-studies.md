@@ -21,9 +21,9 @@ Two patients had a Cmax >2500 ng/dL on Day 112 (2510 ng/dL and 2550 ng/dL, respe
 
 Patients could agree to continue in an open-label, active treatment maintenance period of the study for an additional 182 days.
 
-Dose titrations on Days 14, 28, and 42 resulted in final doses of 20.25 mg – 81 mg on Day 112 as shown in Table 5.
+Dose titrations on Days 14, 28, and 42 resulted in final doses of 20.25 mg – 81 mg on Day 112 as shown in Table 6.
 
-Table 5: Mean (SD) Testosterone Concentrations (Cavg and Cmax) by final dose on Days 112 and 364
+Table 6: Mean (SD) Testosterone Concentrations (Cavg and Cmax) by final dose on Days 112 and 364
 
 | Parameter | Final Dose on Day 112 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |

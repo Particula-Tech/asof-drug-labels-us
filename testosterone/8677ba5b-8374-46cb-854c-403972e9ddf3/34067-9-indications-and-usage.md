@@ -7,4 +7,7 @@ AndroGel 1.62% is an androgen indicated for replacement therapy in adult males f
 - Hypogonadotropic hypogonadism (congenital or acquired): idiopathic gonadotropin or luteinizing hormone-releasing hormone (LHRH) deficiency or pituitary-hypothalamic injury from tumors, trauma, or radiation.
   These men have low testosterone serum concentrations, but have gonadotropins in the normal or low range.
 
-Important limitations of use: Safety and efficacy of AndroGel 1.62% in males <18 years old have not been established [See Use in Specific Populations (8.4)].
+Important limitations of use:
+
+- Safety and efficacy of AndroGel 1.62% in males less than 18 years old have not been established [see Use in Specific Populations (8.4)].
+- Topical testosterone products may have different doses, strengths, or application instructions that may result in different systemic exposure [see Indications and Usage (1), and Clinical Pharmacology (12.3)].
