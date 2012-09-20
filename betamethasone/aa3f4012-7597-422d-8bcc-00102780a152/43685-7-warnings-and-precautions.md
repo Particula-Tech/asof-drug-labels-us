@@ -30,31 +30,30 @@ It is not a disclosure of all possible adverse or intended effects.
 
 Patients using topical corticosteroids should receive the following information and instructions:
 
-1.
-This medication is to be used as directed by the physician.
-It is for external use only.
-Avoid contact with the eyes.
+- 1.
+  This medication is to be used as directed by the physician.
+  It is for external use only.
+  Avoid contact with the eyes.
+- 2.
+  Patients should be advised not to use this medication for any disorder other than that for which it was prescribed.
 
-2.
-Patients should be advised not to use this medication for any disorder other than that for which it was prescribed.
-
-3.
-The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive.
-(See DOSAGE AND ADMINISTRATION.)
+- 3.
+  The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive.
+  (See DOSAGE AND ADMINISTRATION.)
 
 4.
 Patients should report any signs of local adverse reactions.
 
-5.
-Other corticosteroid-containing products should not be used with Betamethasone Dipropionate Ointment without first talking to your physician.
+- 5.
+  Other corticosteroid-containing products should not be used with Betamethasone Dipropionate Ointment without first talking to your physician.
 
 ## Laboratory Tests
 
 The following tests may be helpful in evaluating HPA axis suppression:
 
-Urinary-free cortisol test
-
-ACTH stimulation test
+- 
+  - Urinary-free cortisol test
+  - ACTH stimulation test
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -91,7 +90,7 @@ Nevertheless, caution should be exercised when topical corticosteroids are presc
 ## Pediatric Use
 
 Betamethasone Dipropionate Ointment is not recommended in pediatric patients 12 years of age and younger.
-(See CLINICAL PHARMACOLOGYand ADVERSE REACTIONSSections.)
+(See CLINICAL PHARMACOLOGY and ADVERSE REACTIONS Sections.)
 
 In an open-label study, 15 of 53 (28%) evaluable pediatric patients (aged 6 months – 12 years old) using Betamethasone Dipropionate Ointment for treatment of atopic dermatitis demonstrated HPA axis suppression.
 The proportion of patients with adrenal suppression in this study was progressively greater, the younger the age group.
