@@ -45,16 +45,18 @@ Hematologic Reactions
 
 Dermatologic-Hypersensitivity Reactions
 
-1. exfoliative dermatitis
-2. bullous pemphigoid
+1. toxic epidermal necrolysis
+2. Stevens-Johnson Syndrome
 3. erythema multiforme
-4. purpura
-5. photosensitivity
-6. urticaria
-7. rash
-8. pruritus
-9. Stevens-Johnson Syndrome
-10. toxic epidermal necrolysis
+4. drug rash with eosinophilia and systemic symptoms
+5. acute generalized exanthematous pustulosis
+6. exfoliative dermatitis
+7. bullous pemphigoid
+8. purpura
+9. photosensitivity
+10. rash
+11. pruritus
+12. urticaria
 
 Cardiovascular Reaction
 
