@@ -12,15 +12,17 @@ Other less frequently observed adverse reactions expected from opioid analgesics
 
 Cardiovascular System: bradycardia, hypertension, hypotension, palpitations, syncope, tachycardia
 
-Digestive System: biliary pain, dyspepsia, dysphagia, gastroenteritis, abnormal liver function tests, rectal disorder, thirst
+Digestive System: anorexia, biliary pain, dyspepsia, dysphagia, gastroenteritis, abnormal liver function tests, rectal disorder, thirst
+
+Endocrine: hypogonadism
 
 Hemic and Lymphatic System: anemia, thrombocytopenia
 
 Metabolic and Nutritional Disorders: edema, weight loss
 
-Musculoskeletal: skeletal muscle rigidity
+Musculoskeletal: skeletal muscle rigidity, decreased bone mineral density
 
-Nervous System: abnormal dreams, abnormal gait, agitation, amnesia, anxiety, ataxia, confusion, convulsions, coma, delirium, hallucinations, lethargy, nervousness, abnormal thinking, tremor, vasodilation, vertigo, headache
+Nervous System: abnormal dreams, abnormal gait, agitation, amnesia, anxiety, ataxia, confusion, convulsions, coma, delirium, depression, dry mouth, euphoria, hallucinations, lethargy, nervousness, abnormal thinking, tremor, vasodilation, vertigo, headache
 
 Respiratory System: hiccup, hypoventilation, voice alteration
 
@@ -28,4 +30,4 @@ Skin and Appendages: dry skin, urticaria, pruritus
 
 Special Senses: amblyopia, eye pain, taste perversion
 
-Urogenital System: abnormal ejaculation, dysuria, impotence, decreased libido, oliguria, urinary retention, antidiuretic effect
+Urogenital System: abnormal ejaculation, dysuria, impotence, decreased libido, oliguria, urinary retention or hesitancy, antidiuretic effect, amenorrhea

@@ -19,7 +19,7 @@ Consider alternative non-opioid analgesics, and use morphine sulfate only under 
 Morphine sulfate oral solution 100 mg per 5 mL (20 mg/mL) is for use in opioid-tolerant patients only.
 Administration of this formulation may cause fatal respiratory depression when administered to patients who are not tolerant to the respiratory depressant effects of opioids.
 
-## 5.3 Misuse, Abuse, and Diversion of Opioids
+## 5.3 Misuse, Abuse and Diversion of Opioids
 
 Morphine sulfate is an opioid agonist and a Schedule II controlled substance.
 Such drugs are sought by drug abusers and people with addiction disorders.
@@ -28,7 +28,7 @@ Diversion of Schedule II products is an act subject to criminal penalty.
 Morphine sulfate can be abused in a manner similar to other opioid agonists, legal or illicit.
 This should be considered when prescribing or dispensing morphine sulfate in situations where the physician or pharmacist is concerned about an increased risk of misuse, abuse, or diversion.
 
-Morphine sulfate may be abused by crushing, chewing, snorting or injecting the product.
+Morphine sulfate may be abused by inhaling or injecting the product.
 These practices pose a significant risk to the abuser that could result in overdose and death [see Drug Abuse and Dependence (9)].
 
 Concerns about abuse, addiction, and diversion should not prevent the proper management of pain.
@@ -43,7 +43,7 @@ Morphine sulfate may be expected to have additive effects when used in conjuncti
 In the presence of head injury, intracranial lesions or a preexisting increase in intracranial pressure, the possible respiratory depressant effects of morphine sulfate and its potential to elevate cerebrospinal fluid pressure (resulting from vasodilation following CO2 retention) may be markedly exaggerated.
 Furthermore, morphine sulfate can produce effects on pupillary response and consciousness, which may obscure neurologic signs of further increases in intracranial pressure in patients with head injuries.
 
-## 5.6 Hypotensive Effect
+## 5.6 Hypotensive Effects
 
 Morphine sulfate may cause severe hypotension in an individual whose ability to maintain blood pressure has already been compromised by a depleted blood volume or concurrent administration of drugs such as phenothiazines or general anesthetics.
 Morphine sulfate may produce orthostatic hypotension and syncope in ambulatory patients.

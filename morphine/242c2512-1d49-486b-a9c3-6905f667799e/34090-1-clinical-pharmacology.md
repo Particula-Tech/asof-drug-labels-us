@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Morphine sulfate, a pure opioid agonist, is relatively selective for the mu receptor, although it can interact with other opioid receptors at higher doses.
+Morphine sulfate, an opioid agonist, is relatively selective for the mu receptor, although it can interact with other opioid receptors at higher doses.
 In addition to analgesia, the widely diverse effects of morphine sulfate include drowsiness, changes in mood, respiratory depression, decreased gastrointestinal motility, nausea, vomiting, and alterations of the endocrine and autonomic nervous system.
 
 Effects on the Central Nervous System (CNS)

@@ -1,8 +1,6 @@
-# 17.3 Patient Instructions for Use
+# Instructions for Use
 
-Patient Instructions for Use
-
-MORPHINE SULFATE Oral Solution 100 mg per 5 mL (20 mg/mL) Oral Syringe
+Morphine Sulfate Oral Solution 100 mg per 5 mL (20 mg/mL) Oral Syringe
 
 Important information about measuring morphine sulfate oral solution
 
@@ -23,11 +21,11 @@ See Figure 1 for additional information.
 
 Figure 1
 
-Tagamet is a trademark of SmithKline Beecham Pharmaceutical Co.
+Tagamet is a registered trademark of Medtech Products Inc.
 
 Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-Issued 08/2011
+Issued 07/2012
 
 Mallinckrodt
 

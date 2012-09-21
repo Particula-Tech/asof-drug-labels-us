@@ -14,7 +14,7 @@ Give primary attention to reestablishment of a patent airway and institution of 
 Employ supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema accompanying overdose as indicated.
 Cardiac arrest or arrhythmias may require cardiac massage or defibrillation.
 
-The pure opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
+Naloxone is a pure opioid antagonist that is a specific antidote to respiratory depression resulting from opioid overdose.
 Since the duration of reversal is expected to be less than the duration of action of morphine sulfate, carefully monitor the patient until spontaneous respiration is reliably reestablished.
 If the response to opioid antagonists is suboptimal or only brief in nature, administer additional antagonist as directed by the manufacturer of the product.
 

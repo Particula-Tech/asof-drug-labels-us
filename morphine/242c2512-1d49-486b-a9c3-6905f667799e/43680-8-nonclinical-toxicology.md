@@ -2,13 +2,22 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Studies in animals to evaluate the carcinogenic potential of morphine sulfate have not been conducted.
-No formal studies to assess the mutagenic potential of morphine sulfate have been conducted.
-In the published literature, the results of in vitro studies showed that morphine sulfate is non-mutagenic in the Drosophila melanogaster lethal mutation assay and produced no evidence of chromosomal aberrations when incubated with murine splenocytes.
-Contrary to these results, morphine sulfate was found to increase DNA fragmentation when incubated in vitro with a human lymphoma line.
-In vivo, morphine sulfate has been reported to produce an increase in the frequency of micronuclei in bone marrow cells and immature red blood cells in the mouse micronucleus test and to induce chromosomal aberrations in murine lymphocytes and spermatids.
-Some of the in vivo clastogenic effects reported with morphine sulfate in mice may be directly related to increases in glucocorticoid levels produced by morphine sulfate in this species.
+Carcinogenesis
 
-A literature report indicated that morphine sulfate impairs fertility in rats.
-In a fertility study in which male rats were administered morphine sulfate subcutaneous prior to mating (up to 30 mg/kg twice daily) and during mating (20 mg/kg twice daily) with untreated females, a number of adverse reproductive effects were observed.
-These included reduction in total pregnancies, higher incidence of pseudopregnancies, and reduction in implantation sites.
+Studies in animals to evaluate the carcinogenic potential of morphine have not been conducted.
+
+Mutagenesis
+
+No formal studies to assess the mutagenic potential of morphine have been conducted.
+In the published literature, morphine was found to be mutagenic in vitro increasing DNA fragmentation in human T-cells.
+Morphine was reported to be mutagenic in the in vivo mouse micronucleus assay and positive for the induction of chromosomal aberrations in mouse spermatids and murine lymphocytes.
+Mechanistic studies suggest that the in vivo clastogenic effects reported with morphine in mice may be related to increases in glucocorticoid levels produced by morphine in this species.
+In contrast to the above positive findings, in vitro studies in the literature have also shown that morphine did not induce chromosomal aberrations in human leukocytes or translocations or lethal mutations in Drosophila.
+
+Impairment of Fertility
+
+No formal nonclinical studies to assess the potential of morphine to impair fertility have been conducted.
+Several nonclinical studies from the literature have demonstrated adverse effects on male fertility in the rat from exposure to morphine.
+One study in which male rats were administered morphine sulfate subcutaneously prior to mating (up to 30 mg/kg twice daily) and during mating (20 mg/kg twice daily) with untreated females, a number of adverse reproductive effects including reduction in total pregnancies, higher incidence of pseudopregnancies, and reduction in implantation sites were seen.
+Studies from the literature have also reported changes in hormonal levels (i.e. testosterone, luteinizing hormone, serum corticosterone) following treatment with morphine.
+These changes may be associated with the reported effects on fertility in the rat.
