@@ -1,10 +1,10 @@
 # 1 INDICATIONS AND USAGE
 
-REVATIO® is indicated for the treatment of pulmonary arterial hypertension (WHO Group I) to improve exercise ability and delay clinical worsening.
-The delay in clinical worsening was demonstrated when REVATIO was added to background epoprostenol therapy.
+REVATIO is indicated for the treatment of pulmonary arterial hypertension (WHO Group I) in adults to improve exercise ability and delay clinical worsening.
+The delay in clinical worsening was demonstrated when REVATIO was added to background epoprostenol therapy [see Clinical Studies (14)].
 
-Studies establishing effectiveness included predominately patients with NYHA Functional Class II-III symptoms and etiologies of primary pulmonary hypertension (71%) or pulmonary hypertension associated with connective tissue disease (25%).
+Studies establishing effectiveness were short-term (12 to 16 weeks), and included predominately patients with New York Heart Association (NYHA) Functional Class II–III symptoms and idiopathic etiology (71%) or associated with connective tissue disease (CTD) (25%).
 
 Limitation of Use
 
-The efficacy of REVATIO has not been adequately evaluated in patients taking bosentan concurrently.
+The efficacy of REVATIO in the treatment of pulmonary arterial hypertension (PAH) has not been adequately evaluated in patients taking bosentan.

@@ -2,18 +2,18 @@
 
 ## 12.1 Mechanism of Action
 
-Sildenafil is an inhibitor of cGMP specific phosphodiesterase type-5 (PDE5) in the smooth muscle of the pulmonary vasculature, where PDE5 is responsible for degradation of cGMP.
+Sildenafil is an inhibitor of cGMP specific phosphodiesterase type-5 (PDE-5) in the smooth muscle of the pulmonary vasculature, where PDE-5 is responsible for degradation of cGMP.
 Sildenafil, therefore, increases cGMP within pulmonary vascular smooth muscle cells resulting in relaxation.
-In patients with pulmonary hypertension, this can lead to vasodilation of the pulmonary vascular bed and, to a lesser degree, vasodilatation in the systemic circulation.
+In patients with PAH, this can lead to vasodilation of the pulmonary vascular bed and, to a lesser degree, vasodilatation in the systemic circulation.
 
-Studies in vitro have shown that sildenafil is selective for PDE5.
-Its effect is more potent on PDE5 than on other known phosphodiesterases (10-fold for PDE6, > 80-fold for PDE1, > 700-fold for PDE2, PDE3, PDE4, PDE7, PDE8, PDE9, PDE10, and PDE11).
-The approximately 4,000-fold selectivity for PDE5 versus PDE3 is important because PDE3 is involved in control of cardiac contractility.
-Sildenafil is only about 10-fold as potent for PDE5 compared to PDE6, an enzyme found in the retina and involved in the phototransduction pathway of the retina.
+Studies in vitro have shown that sildenafil is selective for PDE-5.
+Its effect is more potent on PDE-5 than on other known phosphodiesterases (10-fold for PDE6, greater than 80-fold for PDE1, greater than 700-fold for PDE2, PDE3, PDE4, PDE7, PDE8, PDE9, PDE10, and PDE11).
+The approximately 4,000-fold selectivity for PDE-5 versus PDE3 is important because PDE3 is involved in control of cardiac contractility.
+Sildenafil is only about 10-fold as potent for PDE-5 compared to PDE6, an enzyme found in the retina and involved in the phototransduction pathway of the retina.
 This lower selectivity is thought to be the basis for abnormalities related to color vision observed with higher doses or plasma levels [see Clinical Pharmacology (12.2)].
 
-In addition to pulmonary vascular smooth muscle and the corpus cavernosum, PDE5 is also found in other tissues including vascular and visceral smooth muscle and in platelets.
-The inhibition of PDE5 in these tissues by sildenafil may be the basis for the enhanced platelet anti-aggregatory activity of nitric oxide observed in vitro, and the mild peripheral arterial-venous dilatation in vivo.
+In addition to pulmonary vascular smooth muscle and the corpus cavernosum, PDE-5 is also found in other tissues including vascular and visceral smooth muscle and in platelets.
+The inhibition of PDE-5 in these tissues by sildenafil may be the basis for the enhanced platelet anti-aggregatory activity of nitric oxide observed in vitro, and the mild peripheral arterial-venous dilatation in vivo.
 
 ## 12.2 Pharmacodynamics
 
@@ -25,13 +25,13 @@ Similar effects on blood pressure were noted with 25 mg, 50 mg and 100 mg doses 
 Larger effects were recorded among patients receiving concomitant nitrates [see Contraindications (4)].
 
 Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no clinically relevant effects on ECG.
-After chronic dosing of 80 mg TID to patients with pulmonary arterial hypertension, no clinically relevant effects on ECG were reported.
+After chronic dosing of 80 mg TID to patients with PAH, no clinically relevant effects on ECG were reported.
 
 After chronic dosing of 80 mg TID sildenafil to healthy volunteers, the largest mean change from baseline in supine systolic and supine diastolic blood pressures was a decrease of 9.0 mmHg and 8.4 mmHg, respectively.
 
 After chronic dosing of 80 mg TID sildenafil to patients with systemic hypertension, the mean change from baseline in systolic and diastolic blood pressures was a decrease of 9.4 mmHg and 9.1 mmHg, respectively.
 
-After chronic dosing of 80 mg TID sildenafil to patients with pulmonary arterial hypertension, lesser reductions than above in systolic and diastolic blood pressures were observed (a decrease in both of 2 mmHg).
+After chronic dosing of 80 mg TID sildenafil to patients with PAH, lesser reductions than above in systolic and diastolic blood pressures were observed (a decrease in both of 2 mmHg).
 
 Effects of REVATIO on Vision
 
@@ -50,13 +50,15 @@ The mean steady state volume of distribution (Vss) for sildenafil is 105 L, indi
 Sildenafil and its major circulating N-desmethyl metabolite are both approximately 96% bound to plasma proteins.
 Protein binding is independent of total drug concentrations.
 
+Bioequivalence was established between the 20 mg tablet and the 10 mg/mL oral suspension when administered as a 20 mg single oral dose of sildenafil (as citrate).
+
 Metabolism and Excretion
 
 Sildenafil is cleared predominantly by the CYP3A (major route) and cytochrome P450 2C9 (CYP2C9, minor route) hepatic microsomal isoenzymes.
 The major circulating metabolite results from N-desmethylation of sildenafil, and is, itself, further metabolized.
-This metabolite has a phosphodiesterase selectivity profile similar to sildenafil and an in vitro potency for PDE5 approximately 50% of the parent drug.
+This metabolite has a phosphodiesterase selectivity profile similar to sildenafil and an in vitro potency for PDE-5 approximately 50% of the parent drug.
 In healthy volunteers, plasma concentrations of this metabolite are approximately 40% of those seen for sildenafil, so that the metabolite accounts for about 20% of sildenafil's pharmacologic effects.
-In patients with pulmonary arterial hypertension, however, the ratio of the metabolite to sildenafil is higher.
+In patients with PAH, however, the ratio of the metabolite to sildenafil is higher.
 Both sildenafil and the active metabolite have terminal half-lives of about 4 hours.
 
 After either oral or intravenous administration, sildenafil is excreted as metabolites predominantly in the feces (approximately 80% of the administered oral dose) and to a lesser extent in the urine (approximately 13% of the administered oral dose).
@@ -72,7 +74,7 @@ None of these factors had a significant impact on sildenafil pharmacokinetics in
 
 In patients with PAH, the average steady-state concentrations were 20–50% higher when compared to those of healthy volunteers.
 There was also a doubling of Cmin levels compared to healthy volunteers.
-Both findings suggest a lower clearance and/or a higher oral bioavailability of sildenafil in patients with pulmonary hypertension compared to healthy volunteers.
+Both findings suggest a lower clearance and/or a higher oral bioavailability of sildenafil in patients with PAH compared to healthy volunteers.
 
 Geriatric Patients
 
@@ -82,7 +84,7 @@ Due to age-differences in plasma protein binding, the corresponding increase in 
 Renal Impairment
 
 In volunteers with mild (CLcr = 50–80 mL/min) and moderate (CLcr = 30–49 mL/min) renal impairment, the pharmacokinetics of a single oral dose of sildenafil (50 mg) was not altered.
-In volunteers with severe (CLcr < 30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and Cmax compared to age-matched volunteers with no renal impairment.
+In volunteers with severe (CLcr less than 30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and Cmax compared to age-matched volunteers with no renal impairment.
 In addition, N-desmethyl metabolite AUC and Cmax values were significantly increased 200 % and 79 %, respectively, in subjects with severe renal impairment compared to subjects with normal renal function.
 
 Hepatic Impairment
@@ -92,67 +94,43 @@ Patients with severe hepatic impairment (Child-Pugh class C) have not been studi
 
 Drug Interaction Studies
 
+In vitro studies
+
 Sildenafil metabolism is principally mediated by the CYP3A (major route) and CYP2C9 (minor route) cytochrome P450 isoforms.
 Therefore, inhibitors of these isoenzymes may reduce sildenafil clearance and inducers of these isoenzymes may increase sildenafil clearance.
 
-Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A (IC50 >150 µM).
+Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A (IC50 greater than150 µM).
 
-Ritonavir and other CYP3A Inhibitors
+Sildenafil is not expected to affect the pharmacokinetics of compounds which are substrates of these CYP enzymes at clinically relevant concentrations.
 
-In study in healthy volunteers, co-administration with ritonavir, a potent CYP3A inhibitor, at steady state (500 mg BID) with sildenafil (100 mg single dose) resulted in a 300% (4-fold) increase in sildenafil Cmax and a 1000% (11-fold) increase in sildenafil plasma AUC.
-At 24 hours, the plasma levels of sildenafil were still approximately 200 ng/mL, compared to approximately 5 ng/mL when sildenafil was dosed alone.
-This is consistent with ritonavir's marked effects on a broad range of P450 substrates.
-Although the interaction between other protease inhibitors (except saquinavir) and REVATIO has not been studied, their concomitant use is expected to increase sildenafil levels.
+In vivo studies
 
-Population data from patients in clinical trials indicated a reduction in sildenafil clearance when it was co-administered with CYP3A inhibitors.
+The effects of other drugs on sildenafil pharmacokinetics and the effects of sildenafil on the exposure to other drugs are shown in Figure 7 and Figure 8, respectively.
+
+| Figure 7. Effects of Other Drugs on Sildenafil Pharmacokinetics |
+| --- |
+| Figure 8 Effects of Sildenafil on Other Drugs |
+
+CYP3A Inhibitors and Beta Blockers
+
+Population pharmacokinetic analysis of data from patients in clinical trials indicated an approximately 30% reduction in sildenafil clearance when it was co-administered with mild/moderate CYP3A inhibitors and an approximately 34% reductions in sildenafil clearance when co-administered with beta-blockers.
 Sildenafil exposure without concomitant medication is shown to be 5-fold higher at a dose of 80 mg TID compared to its exposure at a dose of 20 mg TID.
 This concentration range covers the same increased sildenafil exposure observed in specifically-designed drug interaction studies with CYP3A inhibitors (except for potent inhibitors such as ketoconazole, itraconazole, and ritonavir).
 
-Cimetidine (800 mg), a nonspecific CYP inhibitor, caused a 56% increase in plasma sildenafil concentrations when co-administered with sildenafil (50 mg) to healthy volunteers.
+CYP3A4 inducers
 
-When a single 100 mg dose of sildenafil was co-administered with erythromycin, a CYP3A inhibitor, at steady state (500 mg BID for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
-
-In a study performed in healthy volunteers, co-administration of the HIV protease inhibitor saquinavir, a CYP3A inhibitor, at steady state (1200 mg TID) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC.
+Population pharmacokinetic analysis of data from patients in clinical trials indicated an approximately 3-fold increase in sildenafil clearance when it was co-administered with mild CYP3A inducers, which is consistent with the effect of bosentan on sildenafil clearance in healthy volunteers.
+Concomitant administration of potent CYP3A inducers is expected to cause substantial decreases in plasma levels of sildenafil.
 
 REVATIO Injection: Predictions based on a pharmacokinetic model suggest that drug-drug interactions with CYP3A inhibitors will be less than those observed after oral sildenafil administration.
 
-Bosentan
-
-In a study of healthy male volunteers, co-administration of sildenafil at steady state (80 mg TID) with bosentan (a moderate inducer of CYP3A, CYP2C9 and possibly of cytochrome P450 2C19) at steady state (125 mg BID) resulted in a 63% decrease of sildenafil AUC and a 55% decrease in sildenafil Cmax.
-Co-administration resulted in a 50% increase in AUC of bosentan.
-The combination of both drugs did not lead to clinically significant changes in blood pressure (supine or standing).
-Concomitant administration of potent CYP3A inducers is expected to cause greater decreases in plasma levels of sildenafil.
-
 Epoprostenol
 
-The mean reduction of sildenafil (80 mg tid) bioavailability due to co-administration of epoprostenol was 28%, resulting in about 22% lower mean average steady state concentrations.
+The mean reduction of sildenafil (80 mg TID) bioavailability due to co-administration of epoprostenol was 28%, resulting in about 22% lower mean average steady state concentrations.
 Therefore, the slight decrease of sildenafil exposure in the presence of epoprostenol is not considered clinically relevant.
 The effect of sildenafil on epoprostenol pharmacokinetics is not known.
 
-CYP Substrates and Beta-blockers
-
-Population pharmacokinetic analysis of clinical trial data indicated a reduction in sildenafil clearance or an increase of oral bioavailability when co-administered with CYP3A substrates and the combination of CYP3A substrates and beta-blockers.
-
-In a study of healthy volunteers, sildenafil (100 mg) did not affect the steady-state pharmacokinetics of the HIV protease inhibitors saquinavir and ritonavir, both of which are CYP3A substrates.
-
 No significant interactions were shown with tolbutamide (250 mg) or warfarin (40 mg), both of which are metabolized by CYP2C9.
-
-Oral Contraceptives
-
-Concomitant administration of oral contraceptives (ethinyl estradiol 30 mcg and levonorgestrel 150 mcg) did not affect the pharmacokinetics of sildenafil.
-Sildenafil had no impact on the plasma levels of oral contraceptives (ethinyl estradiol 30 mcg and levonorgestrel 150 mcg).
-
-Atorvastatin
-
-Concomitant administration of a single 100 mg dose of sildenafil with 10 mg of atorvastatin did not alter the pharmacokinetics of either sildenafil or atorvastatin.
-
-Antacids
-
-Single doses of antacid (magnesium hydroxide/aluminum hydroxide) did not affect the bioavailability of sildenafil.
-
-Aspirin
-
-Sildenafil (50 mg) did not potentiate the increase in bleeding time caused by aspirin (150 mg).
 
 Alcohol
 

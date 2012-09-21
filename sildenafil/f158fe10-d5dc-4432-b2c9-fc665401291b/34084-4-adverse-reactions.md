@@ -1,29 +1,29 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed elsewhere in the labeling:
+The following serious adverse events are discussed elsewhere in the labeling:
 
-- Hypotension [see Warnings and Precautions (5.1)]
-- Vision loss [see Warnings and Precautions (5.4)]
-- Hearing loss [see Warnings and Precautions (5.5)]
-- Priapism [see Warnings and Precautions (5.7)]
-- Vaso-occlusive crisis [see Warnings and Precautions (5.8)]
+- Mortality with pediatric use[see Warnings and Precautions (5.1) and Use in Specific Populations (8.4)]
+- Hypotension [see Warnings and Precautions (5.2)]
+- Vision loss [see Warnings and Precautions (5.5)]
+- Hearing loss [see Warnings and Precautions (5.6)]
+- Priapism [see Warnings and Precautions (5.8)]
+- Vaso-occlusive crisis [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Safety data were obtained from the 12 week, placebo-controlled clinical study and an open-label extension study in 277 treated patients with pulmonary arterial hypertension.
-Doses up to 80 mg TID were studied.
+Safety data of REVATIO in adults were obtained from the 12-week, placebo-controlled clinical study (Study 1) and an open-label extension study in 277 REVATIO-treated patients with PAH, WHO Group I Diagnostic Classification [see Clinical Studies (14)].
 
-The overall frequency of discontinuation in REVATIO-treated patients at the recommended dose of 20 mg TID was 3% and was the same for the placebo group.
+The overall frequency of discontinuation in REVATIO-treated patients 20 mg TID was 3% and was the same for the placebo group.
 
-In the placebo-controlled trial in pulmonary arterial hypertension, the adverse drug reactions that were reported by at least 3% of REVATIO patients treated at the recommended dosage (20 mg TID) and were more frequent in REVATIO patients than placebo patients, are shown in Table 1.
-Adverse events were generally transient and mild to moderate in nature.
+In Study 1, the adverse reactions that were reported by at least 3% of REVATIO-treated patients (20 mg TID) and were more frequent in REVATIO-treated patients than in placebo-treated patients are shown in Table 1.
+Adverse reactions were generally transient and mild to moderate in nature.
 
 Table 1.
-REVATIO All Causality Adverse Events in ≥ 3% of Patients and More Frequent (> 1%) than Placebo
+Most Common Adverse Reactions in Patients with PAH in Study 1 (More Frequent in REVATIO-Treated Patients than Placebo-Treated Patients and Incidence ≥3% in REVATIO-Treated Patients)
 
-| ADVERSE EVENT % | Placebo (n = 70) | REVATIO 20 mg TID (n = 69) | Placebo- Subtracted |
+|  | Placebo, % (n = 70) | REVATIO 20 mg TID, % (n = 69) | Placebo- Subtracted, % |
 | --- | --- | --- | --- |
 | Epistaxis | 1 | 9 | 8 |
 | Headache | 39 | 46 | 7 |
@@ -32,45 +32,44 @@ REVATIO All Causality Adverse Events in ≥ 3% of Patients and More Frequent (> 
 | Insomnia | 1 | 7 | 6 |
 | Erythema | 1 | 6 | 5 |
 | Dyspnea exacerbated | 3 | 7 | 4 |
-| Rhinitis nos | 0 | 4 | 4 |
-| Diarrhea nos | 6 | 9 | 3 |
+| Rhinitis | 0 | 4 | 4 |
+| Diarrhea | 6 | 9 | 3 |
 | Myalgia | 4 | 7 | 3 |
 | Pyrexia | 3 | 6 | 3 |
-| Gastritis nos | 0 | 3 | 3 |
+| Gastritis | 0 | 3 | 3 |
 | Sinusitis | 0 | 3 | 3 |
 | Paresthesia | 0 | 3 | 3 |
-| nos: Not otherwise specified |  |  |  |
 
-At doses higher than the recommended 20 mg TID, there was a greater incidence of some adverse events including flushing, diarrhea, myalgia and visual disturbances.
+At doses higher than the recommended 20 mg TID, there was a greater incidence of some adverse reactions including flushing, diarrhea, myalgia and visual disturbances.
 Visual disturbances were identified as mild and transient, and were predominately color-tinge to vision, but also increased sensitivity to light or blurred vision.
 
-The incidence of retinal hemorrhage at the recommended sildenafil 20 mg TID dose was 1.4% versus 0% placebo and for all sildenafil doses studied was 1.9% versus 0% placebo.
-The incidence of eye hemorrhage at both the recommended dose and at all doses studied was 1.4% for sildenafil versus 1.4% for placebo.
-The patients experiencing these events had risk factors for hemorrhage including concurrent anticoagulant therapy.
+The incidence of retinal hemorrhage with REVATIO 20 mg TID was 1.4% versus 0% placebo and for all REVATIO doses studied was 1.9% versus 0% placebo.
+The incidence of eye hemorrhage at both 20 mg TID and at all doses studied was 1.4% for REVATIO versus 1.4% for placebo.
+The patients experiencing these reactions had risk factors for hemorrhage including concurrent anticoagulant therapy.
 
-In a placebo-controlled fixed dose titration study of REVATIO (starting with recommended dose of 20 mg TID and increased to 40 mg TID and then 80 mg TID) as an adjunct to intravenous epoprostenol in pulmonary arterial hypertension, the adverse events that were reported were more frequent than in the placebo arm (> 6% difference) are shown in Table 2.
+In a placebo-controlled fixed dose titration study (Study 2) of REVATIO (starting with recommended dose of 20 mg TID and increased to 40 mg TID and then 80 mg TID) as an adjunct to intravenous epoprostenol in patients with PAH, the adverse reactions that were more frequent in the REVATIO + epoprostenol group than in the epoprostenol group (greater than 6% difference) are shown in Table 2 [see Clinical Studies (14)].
 
 Table 2.
-REVATIO-Epoprostenol Adverse Events More Frequent (> 6%) than Placebo
+Adverse Reactions (%) in patients with PAH in Study 2 (incidence in REVATIO + Epoprostenol group at least 6% greater than Epoprostenol group)
 
-| ADVERSE EVENT % | Placebo + Epoprostenol (n = 131) | REVATIO + Epoprostenol (n = 134) | Placebo- Subtracted % |
+|  | REVATIO + Epoprostenol (n = 134) | Epoprostenol (n = 131) | (REVATIO + Epoprostenol) minus Epoprostenol |
 | --- | --- | --- | --- |
-| Headache | 34 | 57 | 23 |
-| Edemaincludes peripheral edema | 13 | 25 | 14 |
-| Dyspepsia | 2 | 16 | 14 |
-| Pain in extremity | 6 | 17 | 11 |
-| Diarrhea | 18 | 25 | 7 |
-| Nausea | 18 | 25 | 7 |
-| Nasal congestion | 2 | 9 | 7 |
+| Headache | 57 | 34 | 23 |
+| Edemaincludes peripheral edema | 25 | 13 | 14 |
+| Dyspepsia | 16 | 2 | 14 |
+| Pain in extremity | 17 | 6 | 11 |
+| Diarrhea | 25 | 18 | 7 |
+| Nausea | 25 | 18 | 7 |
+| Nasal congestion | 9 | 2 | 7 |
 
 REVATIO Injection
 
-REVATIO injection was studied in a 66-patient, placebo-controlled study at doses targeting plasma concentrations between 10 and 500 ng/mL (up to 8 times the exposure of the recommended dose).
-Adverse events in PAH patients were similar to those seen with oral tablets.
+REVATIO injection was studied in a 66-patient, placebo-controlled study in patients with PAH at doses targeting plasma concentrations between 10 and 500 ng/mL (up to 8 times the exposure of the recommended dose).
+Adverse events with REVATIO injection were similar to those seen with oral tablets.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of sildenafil (marketed for both PAH and erectile dysfunction).
+The following adverse reactions have been identified during post approval use of sildenafil (marketed for both PAH and erectile dysfunction).
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Cardiovascular Events
@@ -81,24 +80,6 @@ Many of these events were reported to occur during or shortly after sexual activ
 Others were reported to have occurred hours to days after use concurrent with sexual activity.
 It is not possible to determine whether these events are related directly to sildenafil, to sexual activity, to the patient's underlying cardiovascular disease, or to a combination of these or other factors.
 
-Decreases in and Loss of Vision
+Nervous system
 
-When used to treat erectile dysfunction, non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including permanent loss of vision, has been reported postmarketing in temporal association with the use of phosphodiesterase type 5 (PDE5) inhibitors, including sildenafil.
-Most, but not all, of these patients had underlying anatomic or vascular risk factors for developing NAION, including but not necessarily limited to: low cup to disc ratio ("crowded disc"), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia and smoking.
-It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors, to the patient's underlying vascular risk factors or anatomical defects, to a combination of these factors, or to other factors [see Warnings and Precautions (5.4)].
-
-Loss of Hearing
-
-Cases of sudden decrease or loss of hearing have been reported postmarketing in temporal association with the use of PDE5 inhibitors, including REVATIO.
-In some of the cases, medical conditions and other factors were reported that may have also played a role in the otologic adverse events.
-In many cases, medical follow-up information was limited.
-It is not possible to determine whether these reported events are related directly to the use of REVATIO, to the patient's underlying risk factors for hearing loss, a combination of these factors, or to other factors [see Warnings and Precautions (5.5)].
-
-Other Events
-
-The following list includes other adverse events that have been identified during postmarketing use of REVATIO.
-The list does not include adverse events that are reported from clinical trials and that are listed elsewhere in this section.
-These events have been chosen for inclusion either due to their seriousness, reporting frequency, lack of clear alternative causation, or a combination of these factors.
-Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
-Nervous system: Seizure, seizure recurrence
+Seizure, seizure recurrence
