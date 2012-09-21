@@ -15,5 +15,5 @@ Circulating plasma levels of ketoconazole were < 6 ng/mL for a majority of subje
 
 ## 12.4 Microbiology
 
-Ketoconazole is an antifungal agent which inhibits the in vitro synthesis of ergosterol, a key sterol in the cell membrane of Malassezia furfur.
+Ketoconazole is an antifungal agent which inhibits the in vitro synthesis of ergosterol, a key sterol in the cell membrane of Malasseziafurfur.
 The clinical significance of antifungal activity in the treatment of seborrheic dermatitis is not known.
