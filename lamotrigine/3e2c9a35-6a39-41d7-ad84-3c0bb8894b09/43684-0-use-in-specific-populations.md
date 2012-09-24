@@ -21,7 +21,7 @@ Maternal toxicity was observed at the higher dose tested.
 
 When pregnant rats were administered lamotrigine (oral doses of 5, 10, or 20 mg/kg) during the latter part of gestation, increased offspring mortality (including stillbirths) was seen at all doses.
 The lowest effect dose for peri/postnatal developmental toxicity in rats is less than the human dose of 400 mg/day on a mg/m2 basis.
-Maternal toxicity was observed at the two highest doses tested.
+Maternal toxicity was observed at the 2 highest doses tested.
 
 Lamotrigine decreases fetal folate concentrations in rat, an effect known to be associated with adverse pregnancy outcomes in animals and humans.
 
@@ -57,7 +57,7 @@ Immediate-release lamotrigine was associated with an increased risk for infectio
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
 
-In a juvenile animal study in which lamotrigine (oral doses of 5, 15, or 30 mg/kg) was administered to young rats (postnatal days 7-62), decreased viability and growth were seen at the highest dose tested and long-term behavioral abnormalities (decreased locomotor activity, increased reactivity, and learning deficits in animals tested as adults) were observed at the two highest doses.
+In a juvenile animal study in which lamotrigine (oral doses of 5, 15, or 30 mg/kg) was administered to young rats (postnatal days 7 to 62), decreased viability and growth were seen at the highest dose tested and long-term behavioral abnormalities (decreased locomotor activity, increased reactivity, and learning deficits in animals tested as adults) were observed at the 2 highest doses.
 The no-effect dose for adverse effects on neurobehavioral development is less than the human dose of 400 mg/day on a mg/m2 basis.
 
 ## 8.5 Geriatric Use

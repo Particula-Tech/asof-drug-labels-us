@@ -55,7 +55,7 @@ These have included neutropenia, leukopenia, anemia, thrombocytopenia, pancytope
 AEDs, including LAMICTAL XR, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (monotherapy and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (monotherapy and adjunctive therapy) of 11 different AEDs showed that patients randomized to 1 of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately 1 case of suicidal thinking or behavior for every 530 patients treated.
 There were 4 suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number of events is too small to allow any conclusion about drug effect on suicide.
 
@@ -157,7 +157,7 @@ Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigin
 
 Because lamotrigine binds to melanin, it could accumulate in melanin-rich tissues over time.
 This raises the possibility that lamotrigine may cause toxicity in these tissues after extended use.
-Although ophthalmological testing was performed in one controlled clinical trial, the testing was inadequate to exclude subtle effects or injury occurring after long-term exposure.
+Although ophthalmological testing was performed in 1 controlled clinical trial, the testing was inadequate to exclude subtle effects or injury occurring after long-term exposure.
 Moreover, the capacity of available tests to detect potentially adverse consequences, if any, of lamotrigine binding to melanin is unknown [see Clinical Pharmacology (12.2)].
 
 Accordingly, although there are no specific recommendations for periodic ophthalmological monitoring, prescribers should be aware of the possibility of long-term ophthalmologic effects.

@@ -182,7 +182,7 @@ Do not use if printed safety seal under cap is broken or missing.
 
 Store at 25oC (77oF); excursion permitted to 15 – 30oC (59 – 86oF).
 
-Visit www.LAMICTALXR.com
+Visit _Refwww.LAMICTALXR.com
 
 GlaxoSmithKline
 
@@ -363,7 +363,7 @@ Do not use if printed safety seal under cap is broken or missing.
 
 Store at 25oC (77oF); excursion permitted to 15 – 30oC (59 – 86oF).
 
-Visit www.LAMICTALXR.com
+Visit _Refwww.LAMICTALXR.com
 
 GlaxoSmithKline
 

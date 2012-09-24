@@ -2,14 +2,14 @@
 
 The following adverse reactions are described in more detail in the Warnings and Precautions section of the label:
 
-- Serious skin rashes [see Warnings and Precautions (5.1)]
-- Multiorgan hypersensitivity reactions and organ failure [see Warnings and Precautions (5.2)]
-- Blood dyscrasias [see Warnings and Precautions (5.3)]
-- Suicidal behavior and ideation [see Warnings and Precautions (5.4)]
-- Aseptic meningitis [see Warnings and Precautions (5.5)]
-- Withdrawal seizures [see Warnings and Precautions (5.8)]
-- Status epilepticus [see Warnings and Precautions (5.9)]
-- Sudden unexplained death in epilepsy [see Warnings and Precautions (5.10)]
+- •Serious skin rashes [see Warnings and Precautions (5.1)]
+- •Multiorgan hypersensitivity reactions and organ failure [see Warnings and Precautions (5.2)]
+- •Blood dyscrasias [see Warnings and Precautions (5.3)]
+- •Suicidal behavior and ideation [see Warnings and Precautions (5.4)]
+- •Aseptic meningitis [see Warnings and Precautions (5.5)]
+- •Withdrawal seizures [see Warnings and Precautions (5.8)]
+- •Status epilepticus [see Warnings and Precautions (5.9)]
+- •Sudden unexplained death in epilepsy [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trial Experience With LAMICTAL XR for Treatment of Primary Generalized Tonic-Clonic and Partial Onset Seizures
 
