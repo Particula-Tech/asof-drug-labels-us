@@ -30,7 +30,7 @@ Children and Adolescents
 At steady-state the pharmacokinetics of the parent compound, in children and adolescents (10-17 years of age), were similar to adults.
 However, when adjusted for dose and weight, AUC and Cmax of the parent compound were 41% and 39% lower, respectively, in children and adolescents than in adults.
 For the active metabolite, norquetiapine, AUC and Cmax were 45% and 31% higher, respectively, in children and adolescents than in adults.
-When adjusted for dose and weight, the pharmacokinetics of the metabolite, norquetiapine, was similar between children and adolescents and adults [see Use in Specific Populations (8.4)].
+When adjusted for dose and weight, the pharmacokinetics of the metabolite, norquetiapine, was similar between children and adolescents and adults [seeUse in Specific Populations (8.4)].
 
 Absorption
 

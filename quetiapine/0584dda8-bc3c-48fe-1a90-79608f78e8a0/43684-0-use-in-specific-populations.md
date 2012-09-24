@@ -51,7 +51,7 @@ Orthostatic hypotension occurred more frequently in adults (4-7%) compared to ch
 
 Schizophrenia
 
-The efficacy and safety of SEROQUEL in the treatment of schizophrenia in adolescents aged 13 to 17 years were demonstrated in one 6–week, double-blind, placebo-controlled trial [see Indications and Usage (1.1), Dosage and Administration (2.1), Adverse Reactions (6.1), and Clinical Studies (14.1)].
+The efficacy and safety of SEROQUEL in the treatment of schizophrenia in adolescents aged 13 to 17 years were demonstrated in one 6–week, double-blind, placebo-controlled trial [see Indications and Usage (1.1),Dosage and Administration (2.1), Adverse Reactions (6.1), and Clinical Studies (14.1)].
 
 Safety and effectiveness of SEROQUEL in pediatric patients less than 13 years of age with schizophrenia have not been established.
 
@@ -79,4 +79,4 @@ The pharmacokinetics of the active metabolite, norquetiapine, were similar betwe
 Of the approximately 3700 patients in clinical studies with SEROQUEL, 7% (232) were 65 years of age or over.
 In general, there was no indication of any different tolerability of SEROQUEL in the elderly compared to younger adults.
 Nevertheless, the presence of factors that might decrease pharmacokinetic clearance, increase the pharmacodynamic response to SEROQUEL, or cause poorer tolerance or orthostasis, should lead to consideration of a lower starting dose, slower titration, and careful monitoring during the initial dosing period in the elderly.
-The mean plasma clearance of SEROQUEL was reduced by 30% to 50% in elderly patients when compared to younger patients [see Clinical Pharmacology (12) and Dosage and Administration (2)].
+The mean plasma clearance of SEROQUEL was reduced by 30% to 50% in elderly patients when compared to younger patients [see Clinical Pharmacology (12) andDosage and Administration (2)].

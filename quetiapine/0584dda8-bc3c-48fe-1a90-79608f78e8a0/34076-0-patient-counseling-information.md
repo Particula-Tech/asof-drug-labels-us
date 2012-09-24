@@ -71,7 +71,7 @@ As with other medications, patients should be advised to notify their physicians
 Pregnancy and Nursing
 
 Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
-Patients should be advised not to breast feed if they are taking quetiapine [see Use in Specific Populations (8.1) and (8.3)].
+Patients should be advised not to breast feed if they are taking quetiapine [see Use in Specific Populations(8.1) and (8.3)].
 
 Need for Comprehensive Treatment Program
 

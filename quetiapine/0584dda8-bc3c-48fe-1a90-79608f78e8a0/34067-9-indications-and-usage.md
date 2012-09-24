@@ -16,7 +16,7 @@ Efficacy was established in two 8-week monotherapy trials in adult patients with
 
 SEROQUEL is indicated for the maintenance treatment of bipolar I disorder, as an adjunct to lithium or divalproex.
 Efficacy was established in two maintenance trials in adults.
-The effectiveness of SEROQUEL as monotherapy for the maintenance treatment of bipolar disorder has not been systematically evaluated in controlled clinical trials [see Clinical Studies (14.2)].
+The effectiveness of SEROQUEL as monotherapy for the maintenance treatment of bipolar disorder has not been systematically evaluated in controlled clinical trials [seeClinical Studies (14.2)].
 
 ## 1.3 Special Considerations in Treating Pediatric Schizophrenia and Bipolar I Disorder
 
