@@ -1,10 +1,11 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions to cefepime are described below and elsewhere in the labeling:
+The following adverse reactions are discussed in other sections of the labeling:
 
 - Hypersensitivity reactions [see Warnings and Precautions (5.1)]
-- Neurologic adverse events in patients with renal impairment [see Warnings and Precautions (5.2)]
-- Clostridium difficile-associated diarrhea [see Warnings and Precautions (5.3)]
+- Renal Impairment [see Warnings and Precautions (5.2)]
+- Neurotoxicity [see Warnings and Precautions (5.3)]
+- Clostridium difficile-associated diarrhea [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -20,7 +21,7 @@ However, the incidence of discontinuation due to rash increased with the higher 
 
 The following adverse reactions were thought to be probably related to cefepime during evaluation of the drug in clinical trials conducted in North America (n=3125 cefepime-treated patients).
 
-Table 3: Adverse Clinical Reactions Cefepime Multiple-Dose Dosing Regimens Clinical Trials – North America
+Table 3: Adverse Clinical Reactions Cefepime Multiple-dose Dosing Regimens Clinical Trials – North America
 
 | Incidence equal to or greater than 1% | Local reactionsLocal reactions, irrespective of relationship to cefepime in those patients who received intravenous infusion (n=3048). (3.0%), including phlebitis (1.3%), pain and/or inflammation (0.6%); rash (1.1%) |
 | --- | --- |
@@ -31,7 +32,7 @@ Reactions included rash (4%), diarrhea (3%), nausea (2%), vomiting (1%), pruritu
 
 The following adverse laboratory changes, irrespective of relationship to therapy with cefepime, were seen during clinical trials conducted in North America.
 
-Table 4: Adverse Laboratory Changes Cefepime Multiple-Dose Dosing Regimens Clinical Trials – North America
+Table 4: Adverse Laboratory Changes Cefepime Multiple-dose Dosing Regimens Clinical Trials – North America
 
 | Incidence equal to or greater than 1% | Positive Coombs' Test (without hemolysis) (16.2%); decreased phosphorus (2.8%); increased ALT/SGPT (2.8%), AST/SGOT (2.4%); eosinophils (1.7%); abnormal PTT (1.6%), PT (1.4%) |
 | --- | --- |
@@ -45,7 +46,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Anaphylaxis (including anaphylactic shock, transient leukopenia, neutropenia, agranulocytosis and thrombocytopenia) has been reported.
 
 Encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and nonconvulsive status epilepticus have been reported.
-Although most cases occurred in patients with renal impairment who received doses of cefepime that exceeded the recommended dosage schedules, some cases of encephalopathy occurred in patients receiving an appropriate dosage adjustment for their degree of renal impairment.
+Although most cases occurred in patients with renal impairment who received doses of cefepime that exceeded the recommended dosage schedules, some cases of neurotoxicity occurred in patients receiving an appropriate dosage adjustment for their degree of renal impairment.
+If neurotoxicity associated with cefepime therapy occurs, consider discontinuing cefepime or making appropriate dosage adjustments in patients with renal impairment.
 
 ## 6.3 Cephalosporin-class Adverse Reactions
 

@@ -150,7 +150,7 @@ Cefepime has been shown to have in vitro activity against most isolates of the f
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method (broth and/or agar) 2 {see References (15)].
+The MICs should be determined using a standardized test method (broth and/or agar) 2 [see References (15)].
 The MIC values should be interpreted according to criteria provided in Table 7.
 
 #### Diffusion Technique

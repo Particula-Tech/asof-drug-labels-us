@@ -9,16 +9,21 @@ Serious acute hypersensitivity reactions may require treatment with epinephrine 
 
 ## 5.2 Use in Patients with Renal Impairment
 
-In patients with creatinine clearance less than or equal to 60 mL/min, adjust the dose of Cefepime for Injection USP and Dextrose Injection USP to compensate for the slower rate of renal elimination [see Dosage and Administration (2.2)].
-Because high and prolonged serum antibiotic concentrations can occur from usual dosages in patients with renal impairment or other conditions that may compromise renal function, the maintenance dosage should be reduced when Cefepime for Injection USP and Dextrose Injection USP is administered to such patients.
+In patients with creatinine clearance less than or equal to 60 mL/min, the dose of Cefepime Injection should be adjusted to compensate for the slower rate of renal elimination.
+Because high and prolonged cefepime concentrations can occur from usual dosages in patients with renal impairment or other conditions that may compromise renal function, the maintenance dosage should be reduced when Cefepime Injection is administered to such patients.
 Continued dosage should be determined by degree of renal impairment, severity of infection, and susceptibility of the causative organisms.
+Refer to specific recommendations for dosing adjustment [see Dosage and Administration (2.2)].
 
-During postmarketing surveillance, serious adverse events have been reported including life-threatening or fatal occurrences of the following: encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and non-convulsive status epilepticus [see Adverse Reactions (6.2)].
-Most cases occurred in patients with renal impairment who received doses of cefepime that exceeded the recommended dosages.
-However, some cases of encephalopathy occurred in patients receiving a dosage adjustment appropriate for their degree of renal impairment.
+## 5.3 Neurotoxicity
+
+During postmarketing surveillance, serious adverse reactions have been reported including life-threatening or fatal occurrences of the following: encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, seizures, and nonconvulsive status epilepticus [see Adverse Reactions (6.2)].
+Most cases occurred in patients with renal impairment who did not receive appropriate dosage adjustment.
+However, some cases of neurotoxicity occurred in patients receiving a dosage adjustment appropriate for their degree of renal impairment.
+
 In the majority of cases, symptoms of neurotoxicity were reversible and resolved after discontinuation of cefepime and/or after hemodialysis.
+If neurotoxicity associated with cefepime therapy occurs, consider discontinuing cefepime or making appropriate dosage adjustments in patients with renal impairment.
 
-## 5.3 Clostridium difficile-Associated Diarrhea
+## 5.4 Clostridium difficile-associated Diarrhea
 
 Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including cefepime, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -31,7 +36,7 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.4 Risk of Development of Drug-Resistant Bacteria
+## 5.5 Risk of Development of Drug-resistant Bacteria
 
 Prescribing Cefepime for Injection USP and Dextrose Injection USP in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
@@ -39,11 +44,11 @@ As with other antimicrobials, prolonged use of Cefepime for Injection USP and De
 Repeated evaluation of the patient's condition is essential.
 Should superinfection occur during therapy, appropriate measures should be taken.
 
-## 5.5 Patients with Meningeal Seeding/Meningitis
+## 5.6 Patients with Meningeal Seeding/Meningitis
 
 In those patients in whom meningeal seeding from a distant infection site or in whom meningitis is suspected or documented, an alternate drug with demonstrated clinical efficacy in this setting should be used.
 
-## 5.6 Drug/Laboratory Test Interactions
+## 5.7 Drug/Laboratory Test Interactions
 
 ### Urinary Glucose
 
@@ -61,16 +66,16 @@ Many cephalosporins, including cefepime, have been associated with a fall in pro
 Those at risk include patients with renal or hepatic impairment, or poor nutritional state, as well as patients receiving a protracted course of antimicrobial therapy.
 Prothrombin time should be monitored in patients at risk, and exogenous vitamin K administered as indicated.
 
-## 5.7 Patients with a History of Gastrointestinal Disease
+## 5.8 Patients with a History of Gastrointestinal Disease
 
 Cefepime for Injection USP and Dextrose Injection USP should be prescribed with caution in individuals with a history of gastrointestinal disease, particularly colitis.
 
-## 5.8 Possible Effects of Arginine on Glucose Metabolism
+## 5.9 Possible Effects of Arginine on Glucose Metabolism
 
 Cefepime for Injection USP and Dextrose Injection USP contains arginine.
 Arginine has been shown to alter glucose metabolism and elevate serum potassium transiently when administered at 33 times the amount provided by the maximum recommended human dose of cefepime.
 The effect of lower doses is not presently known.
 
-## 5.9 Patients with Overt or Known Subclinical Diabetes Mellitus or Carbohydrate Intolerance
+## 5.10 Patients with Overt or Known Subclinical Diabetes Mellitus or Carbohydrate Intolerance
 
 As with other dextrose-containing solutions, Cefepime for Injection USP and Dextrose Injection USP should be prescribed with caution in patients with overt or known subclinical diabetes mellitus or carbohydrate intolerance for any reason.

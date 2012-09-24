@@ -24,4 +24,4 @@ Cefepime for Injection USP and Dextrose Injection USP is indicated for moderate 
 
 ## 1.5 Complicated Intra-abdominal Infections
 
-Cefepime for Injection USP and Dextrose Injection USP is indicated for complicated intra-abdominal infections (used in combination with metronidazole) caused by Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis [see Clinical Studies (14.2)].
+Cefepime for Injection USP and Dextrose Injection USP is indicated for complicated intra-abdominal infections (used in combination with metronidazole) caused by Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis [seeClinical Studies (14.2)].
