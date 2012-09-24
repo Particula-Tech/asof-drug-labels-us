@@ -8,7 +8,7 @@ Therefore, it is important that the dosing recommendations be followed closely.
 
 The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation of LAMICTAL is exceeded and in patients with a history of allergy or rash to other AEDs.
 
-LAMICTAL Starter Kits and LAMICTAL® ODT™ Patient Titration Kits provide LAMICTAL at doses consistent with the recommended titration schedule for the first 5 weeks of treatment, based upon concomitant medications for patients with epilepsy (>12 years of age) and Bipolar I Disorder (≥18 years of age) and are intended to help reduce the potential for rash.
+LAMICTAL Starter Kits and LAMICTAL® ODT™ Patient Titration Kits provide LAMICTAL at doses consistent with the recommended titration schedule for the first 5 weeks of treatment, based upon concomitant medications, for patients with epilepsy (>12 years of age) and Bipolar I Disorder (≥18 years of age) and are intended to help reduce the potential for rash.
 The use of LAMICTAL Starter Kits and LAMICTAL ODT Patient Titration Kits is recommended for appropriate patients who are starting or restarting LAMICTAL [see How Supplied/Storage and Handling (16)].
 
 It is recommended that LAMICTAL not be restarted in patients who discontinued due to rash associated with prior treatment with lamotrigine, unless the potential benefits clearly outweigh the risks.
@@ -29,9 +29,9 @@ See below for adjustments to maintenance doses of LAMICTAL in women taking estro
 
 Adjustments to the Maintenance Dose of LAMICTAL in Women Taking Estrogen-Containing Oral Contraceptives:
 
-(1) Taking Estrogen-Containing Oral Contraceptives: For women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of LAMICTAL will in most cases need to be increased, by as much as 2-fold over the recommended target maintenance dose, in order to maintain a consistent lamotrigine plasma level [see Clinical Pharmacology (12.3)].
+(1) Taking Estrogen-Containing Oral Contraceptives: For women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of LAMICTAL will in most cases need to be increased, by as much as 2-fold over the recommended target maintenance dose, to maintain a consistent lamotrigine plasma level [see Clinical Pharmacology (12.3)].
 
-(2) Starting Estrogen-Containing Oral Contraceptives: In women taking a stable dose of LAMICTAL and not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose will in most cases need to be increased by as much as 2-fold in order to maintain a consistent lamotrigine plasma level.
+(2) Starting Estrogen-Containing Oral Contraceptives: In women taking a stable dose of LAMICTAL and not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose will in most cases need to be increased by as much as 2-fold to maintain a consistent lamotrigine plasma level.
 The dose increases should begin at the same time that the oral contraceptive is introduced and continue, based on clinical response, no more rapidly than 50 to 100 mg/day every week.
 Dose increases should not exceed the recommended rate (see Table 1 or Table 5) unless lamotrigine plasma levels or clinical response support larger increases.
 Gradual transient increases in lamotrigine plasma levels may occur during the week of inactive hormonal preparation (“pill-free” week), and these increases will be greater if dose increases are made in the days before or during the week of inactive hormonal preparation.

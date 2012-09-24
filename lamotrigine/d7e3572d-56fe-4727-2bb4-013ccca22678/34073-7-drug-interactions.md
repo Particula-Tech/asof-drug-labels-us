@@ -12,7 +12,7 @@ Established and Other Potentially Significant Drug Interactions
 |  | ↓ levonorgestrel | Decrease in levonorgestrel component by 19%. |
 | Carbamazepine (CBZ) and CBZ epoxide | ↓ lamotrigine | Addition of carbamazepine decreases lamotrigine concentration approximately 40%. |
 |  | ? CBZ epoxide | May increase CBZ epoxide levels |
-| Phenobarbital/Primidone | ↓ lamotrigine | Decreased lamotrigine concentration approximately 40%. |
+| Phenobarbital/primidone | ↓ lamotrigine | Decreased lamotrigine concentration approximately 40%. |
 | Phenytoin (PHT) | ↓ lamotrigine | Decreased lamotrigine concentration approximately 40%. |
 | Rifampin | ↓ lamotrigine | Decreased lamotrigine AUC approximately 40%. |
 | Valproate | ↑ lamotrigine | Increased lamotrigine concentrations slightly more than 2-fold. |

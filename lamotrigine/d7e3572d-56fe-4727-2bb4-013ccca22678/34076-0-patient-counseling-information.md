@@ -80,9 +80,7 @@ LAMICTAL Orally Disintegrating Tablets are manufactured by
 
 Eurand, Inc., Vandalia, OH 45377
 
-©2011, GlaxoSmithKline.
+©2012, GlaxoSmithKline.
 All rights reserved.
 
-November 2011
-
-LMT:7PI
+LMT:8PI

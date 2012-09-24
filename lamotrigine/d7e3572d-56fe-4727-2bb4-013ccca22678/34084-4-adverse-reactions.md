@@ -2,14 +2,14 @@
 
 The following adverse reactions are described in more detail in the Warnings and Precautions section of the label:
 
-- Serious skin rashes [see Warnings and Precautions (5.1)]
-- Multiorgan hypersensitivity reactions and organ failure [see Warnings and Precautions (5.2)]
-- Blood dyscrasias [see Warnings and Precautions (5.3)]
-- Suicidal behaviorand ideation [see Warnings and Precautions (5.4)]
-- Aseptic meningitis [see Warnings and Precautions (5.6)]
-- Withdrawal seizures [see Warnings and Precautions(5.9)]
-- Status epilepticus [see Warnings and Precautions(5.10)]
-- Sudden unexplained death in epilepsy [see Warnings and Precautions(5.11)]
+- •Serious skin rashes [see Warnings and Precautions (5.1)]
+- •Multiorgan hypersensitivity reactions and organ failure [see Warnings and Precautions (5.2)]
+- •Blood dyscrasias [see Warnings and Precautions (5.3)]
+- •Suicidal behaviorand ideation [see Warnings and Precautions (5.4)]
+- •Aseptic meningitis [see Warnings and Precautions (5.6)]
+- •Withdrawal seizures [see Warnings and Precautions(5.9)]
+- •Status epilepticus [see Warnings and Precautions(5.10)]
+- •Sudden unexplained death in epilepsy [see Warnings and Precautions(5.11)]
 
 ## 6.1 Clinical Trials
 
@@ -116,9 +116,9 @@ Dose-Related Adverse Reactions From a Randomized, Placebo-Controlled Adjunctive 
 | Nausea | 11 | 18 | 25a |
 | Vomiting | 4 | 11 | 18a |
 
-aSignificantly greater than placebo group (P <0.05).
+aSignificantly greater than placebo group (P<0.05).
 
-bSignificantly greater than group receiving LAMICTAL 300 mg (P <0.05).
+bSignificantly greater than group receiving LAMICTAL 300 mg (P<0.05).
 
 The overall adverse reaction profile for LAMICTAL was similar between females and males, and was independent of age.
 Because the largest non-Caucasian racial subgroup was only 6% of patients exposed to LAMICTAL in placebo-controlled trials, there are insufficient data to support a statement regarding the distribution of adverse reaction reports by race.
