@@ -15,15 +15,15 @@ The pooled analyses of placebo-controlled trials in children and adolescents wit
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk differences (drug vs placebo), however, were relatively stable with age strata and across indications.
-These risk difference (drug-placebo difference in the number of cases of suicidiality per 1000 patients treated) are provided in TABLE 1.
+The risk differences (drug vs. placebo), however, were relatively stable with age strata and across indications.
+These risk difference (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in TABLE 1.
 
 TABLE 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
 | <18 18-24 | Increases Compared to Placebo 14 additional cases 5 additional cases |
-| 25-64 >65 | Decreases Compared to Placebo 1 fewer case 6 fewer cases |
+| 25-64 ≥65 | Decreases Compared to Placebo 1 fewer case 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
@@ -44,6 +44,31 @@ Families and caregivers of patients being treated with antidepressants for major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for Citalopram Hydrobromide should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
+## QT-Prolongation and Torsade de Pointes
+
+Citalopram causes dose-dependent QTc prolongation, an ECG abnormality that has been associated with Torsade de Pointes (TdP), ventricular tachycardia, and sudden death, all of which have been observed in postmarketing reports for citalopram.
+
+Individual corrected QTc (QTcNi) interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple-dose study in 119 healthy subjects.
+The maximum mean (upper bound of the 95% one-sided confidence interval) difference from placebo were 8.5 (10.8) and 18.5 (21) msec or 20 mg and 60 mg citalopram, respectively.
+Basedon the established exposure-response relationship, the predicted QTcNi change from placebo (upper bound of the 95% one-sided confidence interval) under the Cmax for the dose of 40 mg is 12.6 (14.3) msec.
+
+Because of the risk of QTc prolongation at higher citalopram doses, it is recommended that citalopram should not begiven at doses above 40 mg/day.
+It is recommended that citalopram should not be used in patients with congenital long QT syndrome, bradycardia, hypokalemia or hypomagnesemia, recent acute myocardial infarction, or uncompensated heart failure.
+Citalopram should also not be used in patients who are taking other drugs that prolong the QTc interval.
+Such drugs include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic medications, antipsychotic medications (e.g., chlorpromazine, thioridazine, antibiotics (e.g., gatifloxacin, moxifloaxacin), or any other class of medications known to prolong the QTc interval (e.g., pentamidine, levomethadyl acetate, methadone).
+
+The citalopram dose should be limited in certain populations.
+The maximum dose should be limited to 20 mg/day in patients who are CYP2C19 poor metabolizers or those patients who may be taking concomitant cimetidine or another CYP2C19 inhibitor, since higher citalopram exposures would be expected.
+The maximum dose should also be limited to 20 mg/day in patients with hepatic impairment and in patients who are greater than 60 years of age because of expected higher exposures.
+
+Electrolyte and/or ECG monitoring is recommended in certain circumstances.
+Patients being considered for citalopram treatment who are at risk for significant electrolyte disturbances should have baseline serum potassium and magnesium measurements with periodic monitoring.
+Hypokalemia (and/or hypomagnesemia) may increase the risk of QTc prolongation and arrhythmia, and should be corrected prior to initiation of treatment and periodically monitored.
+ECG monitoring is recommended in patients for whom citalopram use is not recommended (see above), but, nevertheless, considered essential.
+These include those patients with the cardiac conditions noted above, and those taking other drugs that may prolong the QTc interval.
+
+Citalopram should be discontinued in patients who are found to have persistent QTc measurements >500 ms. If patients taking citalopram experience symptoms that could indicate the occurrence of cardiac arrhythmias, e.g., dizziness, palpitations, or syncope, the prescriber should initiate further evaluation, including cardiac monitoring.
+
 ## Screening Patients for Bipolar Disorder
 
 A major depressive episode may be the initial presentation of bipolar disorder.
@@ -61,9 +86,9 @@ Furthermore, limited animal data on the effects of combined use of SSRIs and MAO
 Therefore, it is recommended that citalopram should not be used in combination with an MAOI, or within 14 days of discontinuing treatment with an MAOI.
 Similarly, at least 14 days should be allowed after stopping citalopram before starting an MAOI.
 
-## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-Like Reactions
+## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs, including citalopram treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including citalopram treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Serotonin syndrome, in its most severe form can resemeble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status chances.
 Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
@@ -94,6 +119,7 @@ SSRIs and SNRIs, including citalopram, may increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to the risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of citalopram with NSAIDS, aspirin, or other drugs that affect coagulation.
 
 ### Hyponatremia
@@ -128,12 +154,9 @@ Because any psychoactive drug may impair judgment, thinking, or motor skills, ho
 
 ### Use in Patients with Concomitant Illness
 
-Clinical experience with citalopram in patients with certain concomitant systemic illnesses is limited.
-Caution is advisable in using citalopram in patients with diseases or conditions that produce altered metabolism or hemodynamic responses.
-
-Citalopram has not been systematically evaluated in patients with a recent history of myocardial infarction or unstable heart disease.
-Patients with these diagnoses were generally excluded from clinical studies during the product’s premarketing testing.
-However, the electrocardiograms of 1116 patients who received citalopram in clinical trials were evaluated and the data indicate that citalopram is not associated with the development of clinically significant ECG abnormalities.
+Clinical experience with citalopram in patients with certain concomitant systemicillnesses is limited.
+Due to the risk of QT prolongation, citalopram must be used in such patients.
+Electrolytes should be monitored in treating patients with diseases or conditions that cause hypokalemia or hypomagnesemia (see WARNINGS).
 
 In subjects with hepatic impairment, citalopram clearance was decreased and plasma concentrations were increased.
 The use of citalopram in hepatically impaired patients should be approached with caution and a lower maximum dosage is recommended (see DOSAGE AND ADMINISTRATION).
@@ -147,13 +170,13 @@ Physicians are advised to discuss the following issues with patients for whom th
 
 Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of citalopram and triptans, tramadol or other serotonergic agents.
 
-Although in controlled studies citalopram has not been shown to impair psychomotor performance, any psychoactive drug may impair judgment, thinking, or motor skills, and so patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that citalopram therapy does not affect their ability to engage in such activities.
+Although in controlled studies citalopram has not been shown to impair psychomotor performance, any psychoactive drug may impair judgment, thinking, or motor skills, so patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that citalopram therapy does not affect their ability to engage in such activities.
 
 Patients should be told that, although citalopram has not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of citalopram and alcohol in depressed patients is not advised.
 
 Patients should be advised to inform their physician if they are taking, or plan to take, any prescription or over-the-counter drugs, as there is a potential for interactions.
 
-Patients should be cautioned about the concomitant use of citalopram and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since the combined use of psychotropic drugs that interfere with serotonin reuptake and these agents had been associated with an increased risk of bleeding.
+Patients should be cautioned about the concomitant use of citalopram and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since the combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding.
 
 Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
 
@@ -180,17 +203,30 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 There are no specific laboratory tests recommended.
 
+## QT-Prolongation and Torsade de Pointes
+
+Citalopram causes dose dependent QT prolongation and should not be dosed above 40 mg/day.
+Torsade de Pointes has been reported postmarketing.
+Citalopram should not be used in patients with congenital long QT syndrome.
+Hypokalemia and hypomagnesemia should be corrected prior to initiation of treatment and periodically monitored.
+ECG monitoring is recommended in patients with congestive heart failure, bradyarrhythmias, or patients on concomitant medications that prolong the QT interval.
+Dose escalations over 20 mg/day in CYP2C19 poor metabolizers or patients taking concomitant cimetidine or another CYP2C19 inhibitor are not recommended.
+
 ## Drug Interactions
+
+### Drugs that Prolong the QT interval
+
+ECG monitoring is recommended with concomitant medications that have demonstrated prolongation of the QT interval (see WARNINGS: QT-Prolongation and Torsade de Pointes).
 
 ### Serotonergic Drugs
 
-Based on the mechanism of action of SNRIs and SSRIs including citalopram, and the potential for serotonin syndrome, caution is advised when citalopram is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-Like Reactions: Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-Like Reactions).
-The concomitant use of citalopram with other SSRIs, SNRIs or tryptophan is not recommended (see Drug Interactions: Drug Interactions).
+Based on the mechanism of action of SNRIs and SSRIs including citalopram, and the potential for serotonin syndrome, caution is advised when citalopram is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS: Serotonin Syndrome).
+The concomitant use of citalopram with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS: Drug Interactions).
 
 ### Triptans
 
 There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
-If concomitant treatment of citalopram with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-Like Reactions: Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-Like Reactions).
+If concomitant treatment of citalopram with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS: Serotonin Syndrome).
 
 ### CNS Drugs
 
@@ -208,13 +244,14 @@ See CONTRAINDICATIONS and WARNINGS.
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin potentiate the risk of bleeding.
-Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadminitered with warfarin.
-Patients receiving warfarin therapy should be carefully monitored when citalopram is initiated or discontinued..
+Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.
+Patients receiving warfarin therapy should be carefully monitored when citalopram is initiated or discontinued.
 
 ### Cimetidine
 
 In subjects who had received 21 days of 40 mg/day citalopram, combined administration of 400 mg/day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.
-The clinical significance of these findings is unknown.
+
+Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant cimetidine because of the risk of QT prolongation (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
 ### Digoxin
 
@@ -260,11 +297,9 @@ Combined administration of citalopram (titrated to 40 mg/day for 28 days) and th
 
 Combined administration of citalopram (40 mg) and ketoconazole (200 mg) decreased the Cmax and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.
 
-### CYP3A4 and 2C19 Inhibitors
+### CYP2C19 Inhibitors
 
-In vitro studies indicated that CYP3A4 and 2C19 are the primary enzymes involved in the metabolism of citalopram.
-However, coadministration of citalopram (40 mg) and ketoconazole (200 mg), a potent inhibitor of CYP3A4, did not significantly affect the pharmacokinetics of citalopram.
-Because citalopram is metabolized by multiple enzyme systems, inhibition of a single enzyme may not appreciably decrease citalopram clearance.
+Citalopram 20 mg/day is the maximum recommended dose for patients taking concomitant CYP2C19 inhibitors because of the risk of QT prolongation (see WARNINGS, DOSAGE AND ADMINISTRATION, and CLINICAL PHARMACOLOGY).
 
 ### Metoprolol
 
@@ -325,9 +360,7 @@ A no-effect dose was not determined in that study.
 
 There are no adequate and well-controlled studies in pregnant women; therefore, citalopram should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Pregnancy
-
-### Nonteratogenic Effects
+### Pregnancy-Nonteratogenic Effects
 
 Neonates exposed to citalopram and other SSRIs or SNRIs, late in the third trimester, have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
@@ -356,9 +389,12 @@ The decision whether to continue or discontinue either nursing or citalopram the
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established (see WARNINGSand WARNINGS-Clinical Worsening and Suicide Risk).
+Safety and effectiveness in the pediatric population have not been established (see BOXED WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
 Two placebo-controlled trials in 407 pediatric patients with MDD have been conducted with citalopram, and the data were not sufficient to support a claim for use in pediatric patients.
 Anyone considering the use of citalopram in a child or adolescent must balance the potential risks with the clinical need.
+
+Decreased appetite and weight loss have been observed in association with the use of SSRIs.
+Consequently, regular monitoring of weight and growth should be performed in children and adolescents treated with citalopram.
 
 ## Geriatric Use
 
@@ -366,8 +402,8 @@ Of 4422 patients in clinical studies of citalopram, 1357 were 60 and over, 1034 
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 Most elderly patients treated with citalopram in clinical trials received daily doses between 20 and 40 mg (see DOSAGE AND ADMINISTRATION).
 
-SSRIs and SNRIs, including citalopram, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see Hyponatremia: Hyponatremia).
+SSRIs and SNRIs, including citalopram, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS: Hyponatremia).
 
-In two pharmacokinetic studies, citalopram AUC was increased by 23% and 30%, respectively, in elderly subjects as compared to younger subjects, and its half-life was increased by 30% and 50%, respectively (see CLINICAL PHARMACOLOGY).
+In two pharmacokinetic studies, citalopram AUC was increased by 23% and 30%, respectively, in subjects ≥ 60 years of age as compared to younger subjects, and its half-life was increased by 30% and 50%, respectively (see CLINICAL PHARMACOLOGY).
 
-20 mg/day is the recommended dose for most elderly patients (see DOSAGE AND ADMINISTRATION).
+20 mg/day is the maximum recommended dose for patients who are greater than 60 years of age (see WARNINGS and DOSAGE AND ADMINISTRATION).
