@@ -3,12 +3,12 @@
 Each white, capsule-shaped, scored reglan® tablet (metoclopramide tablets, USP) contains 10 mg metoclopramide base (as the monohydrochloride monohydrate).
 Available in:
 
-Bottles of 100 tablets (NDC 62559-166-01)
+Bottles of 100 tablets (NDC 6255916601)
 
 Each green, elliptical-shaped reglan® tablet (metoclopramide tablets, USP) contains 5 mg metoclopramide base (as the monohydrochloride monohydrate).
 Available in:
 
-Bottles of 100 tablets (NDC 62559-165-01)
+Bottles of 100 tablets (NDC 6255916501)
 
 Dispense tablets in tight, light-resistant container.
 
@@ -20,10 +20,10 @@ ANI Pharmaceuticals, Inc.
 
 Baudette, MN 56623
 
-For Medical Inquiries, call PROSAR Inc toll free at 1-800-308-6755.
+For Medical Inquiries, call toll free at 1-800-308-6755.
 
 www.anipharmaceuticals.com
 
 PCS 9454
 
-Rev 05/2011
+Rev 09/2011

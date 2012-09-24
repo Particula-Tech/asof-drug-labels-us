@@ -2,7 +2,7 @@
 
 Therapy with reglan® tablets should not exceed 12 weeks in duration.
 
-## For the relief of Symptomatic Gastroesophageal Reflux
+## For the Relief of Symptomatic Gastroesophageal Reflux
 
 Administer from 10 mg to 15 mg reglan® (metoclopramide hydrochloride, USP) orally up to q.i.d.
 30 minutes before each meal and at bedtime, depending upon symptoms being treated and clinical response (see CLINICAL PHARMACOLOGY and INDICATIONS AND USAGE).

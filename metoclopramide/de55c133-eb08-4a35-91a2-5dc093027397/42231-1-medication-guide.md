@@ -1,4 +1,4 @@
-# Medication guide
+# Medication Guide
 
 REGLAN (REG-lan) Tablets (metoclopramide tablets)
 
@@ -177,7 +177,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about REGLAN.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about REGLAN that is written for health professionals.
-For more information, go to www.anipharmaceuticals.com or call PROSAR Inc toll free at 1-800-308-6755.
+For more information, go to www.anipharmaceuticals.com or call toll free at 1-800-308-6755.
 
 What are the ingredients in REGLAN?
 
@@ -185,10 +185,9 @@ Active ingredient: metoclopramide
 
 Inactive ingredients:
 
-- REGLAN 10 mg tablets: magnesium stearate, mannitol, microcrystalline cellulose, stearic acid
+REGLAN 10 mg tablets: magnesium stearate, mannitol, microcrystalline cellulose, stearic acid
 
-- 
-  - REGLAN 5 mg tablets: corn starch, D&C yellow 10 aluminum lake, FD&C blue 1 aluminum lake, lactose, microcrystalline cellulose, silicon dioxide, stearic acid
+REGLAN 5 mg tablets: corn starch, D&C yellow 10 aluminum lake, FD&C blue 1 aluminum lake, lactose, microcrystalline cellulose, silicon dioxide, stearic acid
 
 Manufactured by:
 
@@ -196,11 +195,11 @@ ANI Pharmaceuticals, Inc.
 
 Baudette, MN 56623
 
-For Medical Inquiries, call PROSAR Inc toll-free 1-800-308-6755. www.anipharmaceuticals.com
+For Medical Inquiries, call toll-free 1-800-308-6755. www.anipharmaceuticals.com
 
-PCS 9455
+PCS 9454
 
 Rev.
-05/2011 Revised May 2011
+09/11 Revised September 2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
