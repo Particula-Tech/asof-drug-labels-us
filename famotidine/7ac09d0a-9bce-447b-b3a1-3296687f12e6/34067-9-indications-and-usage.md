@@ -1,0 +1,4 @@
+# Uses
+
+- relieves heartburn associated with acid indigestion and sour stomach
+- prevents heartburn associated with acid indigestion and sour stomach brought on by eating or drinking certain food and beverages
