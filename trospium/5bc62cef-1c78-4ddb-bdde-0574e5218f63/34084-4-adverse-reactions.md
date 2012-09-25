@@ -24,7 +24,7 @@ Table 1: Incidence of treatment-emergent adverse events reported in at least 1% 
 
 | Placebo N=587 | SANCTURA XR® N=578 |  |
 | --- | --- | --- |
-| MedDRA Preferred term | Number of patients (%) |  |
+| MedDRA Preferred Term | Number of Patients (%) |  |
 | Dry mouth | 22 (3.7) | 62 (10.7) |
 | Constipation | 9 (1.5) | 49 (8.5) |
 | Dry eye | 1 (0.2) | 9 (1.6) |
@@ -45,7 +45,7 @@ Table 2: Incidence of treatment-emergent adverse events reported in at least 2% 
 
 | Placebo N=587 | SANCTURA XR® N=578 |  |
 | --- | --- | --- |
-| MedDRA Preferred term | Number of patients (%) |  |
+| MedDRA Preferred Term | Number of Patients (%) |  |
 | Dry mouth | 22 (3.7) | 64 (11.1) |
 | Constipation | 10 (1.7) | 52 (9.0) |
 | Urinary tract infection | 29 (4.9) | 42 (7.3) |
