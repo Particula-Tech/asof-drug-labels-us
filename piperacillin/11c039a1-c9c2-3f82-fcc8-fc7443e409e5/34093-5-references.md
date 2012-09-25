@@ -31,8 +31,8 @@ Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.
 
 Philadelphia, PA 19101
 
-NOVAPLUS is a registered trademark of Novation, LLC
+Novation and NOVAPLUS are registered trademarks of Novation LLC.
 
-LAB-0447-5.0
+LAB-0447-6.0
 
-July 2012
+September 2012
