@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category B.
+### Teratogenic Effects: Pregnancy Category B.
 
 There are no adequate and well-controlled studies of ATROVENT HFA (ipratropium bromide) Inhalation Aerosol in pregnant women.
 ATROVENT HFA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

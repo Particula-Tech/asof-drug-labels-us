@@ -35,20 +35,20 @@ When these patients were administered 4 inhalations QID (16 inhalations/day=336 
 
 ### Specific Populations
 
-#### Geriatric Patients
+Geriatric Patients
 
 In the pharmacokinetic study with 29 COPD patients, a subset of 14 patients were > 65 years of age.
 Mean peak plasma ipratropium concentrations of 56±24 pg/mL were obtained following a single administration of 4 inhalations (21 mcg/puff) of ATROVENT HFA (84 mcg).
 When these 14 patients were administered 4 inhalations four times a day (16 inhalations/day) for one week, the mean peak plasma ipratropium concentration only increased to 84±50 pg/mL indicating that the pharmacokinetic behavior of ipratropium bromide in the geriatric population is consistent with younger patients.
 
-#### Renally Impaired Patients
+Renally Impaired Patients
 
 The pharmacokinetics of ATROVENT HFA have not been studied in patients with renal insufficiency.
 
-#### Hepatically Impaired Patients
+Hepatically Impaired Patients
 
 The pharmacokinetics of ATROVENT HFA have not been studied in patients with hepatic insufficiency.
 
-#### Drug-Drug Interaction
+Drug-Drug Interaction
 
 No specific pharmacokinetic studies were conducted to evaluate potential drug-drug interactions with other medications.
