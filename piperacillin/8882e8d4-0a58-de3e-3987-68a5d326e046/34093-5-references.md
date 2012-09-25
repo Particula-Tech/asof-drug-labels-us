@@ -27,8 +27,8 @@ Distributed by Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.
 
 Manufactured by Baxter Healthcare Corporation, Deerfield, IL 60015
 
-NOVAPLUS is a registered trademark of Novation, LLC
+Novation and NOVAPLUS are registered trademarks of Novation LLC.
 
-LAB-0449-5.0
+LAB-0449-6.0
 
-July 2012
+September 2012
