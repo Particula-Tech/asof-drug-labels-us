@@ -4,37 +4,18 @@
 
 Heparin Sodium Injection, USP
 
-1,000 USP units/mL
+| NDC No. | Type Container | USP Heparin Units/Fill | Quantity |
+| --- | --- | --- | --- |
+| 0409-2720-01 | Single Dose vial | 1,000 USP Heparin Units/mL | Tray of 25 |
+| 0409-2720-02 | Multiple Dose vial | 10,000 USP Heparin Units/10 mL (1,000 USP Heparin Units/mL) | Tray of 25 |
+| 0409-2720-03 | Multiple Dose vial | 30,000 USP Heparin Units/30 mL (1,000 USP Heparin Units/mL) | Tray of 25 |
+| 0409-2723-01 | Single Dose vial | 5,000 USP Heparin Units/mL | Tray of 25 |
+| 0409-2723-02 | Multiple Dose vial | 50,000 USP Heparin Units/10 mL (5,000 USP Heparin Units/mL) | Tray of 25 |
+| 0409-2721-01 | Single Dose vial | 10,000 USP Heparin Units/mL | Tray of 25 |
 
-1 mL Single Dose vial packaged in a tray of 25
-
-(NDC 0409-2720-01)
-
-10 mL Multiple Dose vial packaged in a tray of 25
-
-(NDC 0409-2720-02)
-
-30 mL Multiple Dose vial packaged in a tray of 25
-
-(NDC 0409-2720-03)
-
-5,000 USP units/mL
-
-1 mL Single Dose vial packaged in a tray of 25
-
-(NDC 0409-2723-01)
-
-10 mL Multiple Dose vial packaged in a tray of 25
-
-(NDC 0409-2723-02)
-
-10,000 USP units/mL
-
-1 mL Single Dose vial packaged in a tray of 25
-
-(NDC 0409-2721-01)
-
-Storage
-
-Store at 20 to 25°C (68 to 77°F).
+Store at 20 to 25˚C (68 to 77˚F).
 [See USP Controlled Room Temperature.]
+
+To report SUSPECTED ADVERSE REACTIONS, contact Hospira, Inc. at 1-800-441-4100 or electronically at ProductComplaintsPP@hospira.com, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+For more information go to www.hospira.com or call 1-800-615-0187.

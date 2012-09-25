@@ -1,6 +1,6 @@
 # REFERENCES
 
-1. Tahata T, Shigehito M, Kusuhara K, Ueda Y, et al. Delayed-Onset of Heparin Induced Thrombocytopenia - A Case Report - J Jpn Assn Torca Surg.
+1. Tahata T, Shigehito M, Kusuhara K, Ueda Y, et al. Delayed-Onset of Heparin Induced Thrombocytopenia – A Case Report – J Jpn Assn Torca Surg.
    1992;40(3):110-111.
 2. Warkentin T, Kelton J. Delayed-Onset Heparin-Induced Thrombocytopenia and Thrombosis.
    Annals of Internal Medicine.
@@ -10,7 +10,7 @@
 4. Dieck, J., C. Rizo-Patron, et al. (1990).
    “A New Manifestation and Treatment Alternative for Heparin-Induced Thrombosis.”
    Chest.
-   98(1524-26).
+   1990; 98:1524-26.
 5. Smythe M, Stephens J, Mattson.
    Delayed-Onset Heparin Induced Thrombocytopenia.
    Annals of Emergency Medicine, 2005;45(4):417-419.
@@ -18,8 +18,8 @@
    Blood.
    2003;102(11):127b.
 
-Created: March, 2008
+Revised: 07/2012
 
-| Printed in USA | EN-1846 |
-| --- | --- |
-| Hospira, Inc., Lake Forest, IL 60045 USA |  |
+EN-2985
+
+Hospira, Inc., Lake Forest, IL 60045 USA

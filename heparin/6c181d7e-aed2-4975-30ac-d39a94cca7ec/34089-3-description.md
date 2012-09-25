@@ -6,7 +6,7 @@ These sugars are present in decreasing amounts, usually in the order (2)> (1)> (
 Heparin is strongly acidic because of its content of covalently linked sulfate and carboxylic acid groups.
 In heparin sodium, the acidic protons of the sulfate units are partially replaced by sodium ions.
 
-The structural formula (representative subunits) of Heparin Sodium is as follows:
+Structural formula of Heparin Sodium (representative subunits):
 
 Heparin Sodium Injection, USP is a sterile solution of heparin sodium derived from porcine intestinal mucosa, standardized for anticoagulant activity.
 It is to be administered by intravenous or deep subcutaneous routes.
