@@ -1,7 +1,17 @@
-Rx ONLY
+PRINTED IN THE USA
 
-Pharmaceutical Associates, Inc. Greenville, SC 29605
+R04/10
 
-www.paipharma.com
+Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
 
-R04/08
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+R04/10
+
+MGAD102
+
+Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
+
+Medication Guide revised, January 26, 2010
+
+PRINTED IN USA

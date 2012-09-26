@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA076015"
+  ],
   "inn": "fluoxetine",
   "labeler": "Pharmaceutical Associates, Inc.",
   "package_ndcs": [
     "0121-0721-04",
     "0121-4721-05"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "fluoxetine hydrochloride",
+      "name": "Fluoxetine"
+    }
+  ],
   "setid": "180a07fd-1f6a-4617-b8e0-f938c65ba273",
   "source": "dailymed"
 }

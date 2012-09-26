@@ -1,6 +1,6 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Human Experience
+## 10.1 Human Experience
 
 Worldwide exposure to fluoxetine hydrochloride is estimated to be over 38 million patients (circa 1999).
 Of the 1578 cases of overdose involving fluoxetine hydrochloride, alone or with other drugs, reported from this population, there were 195 deaths.
@@ -18,9 +18,9 @@ He had been receiving 100 mg of fluoxetine daily for 6 months in addition to clo
 Mixed-drug ingestion or other methods of suicide complicated all 6 overdoses in children that resulted in fatalities.
 The largest ingestion in pediatric patients was 3 grams which was nonlethal.
 
-Other important adverse events reported with fluoxetine overdose (single or multiple drugs) include coma, delirium, ECG abnormalities (such as QT interval prolongation and ventricular tachycardia, including torsades de pointes-type arrhythmias), hypotension, mania, neuroleptic malignant syndrome-like events, pyrexia, stupor, and syncope.
+Other important adverse reactions reported with fluoxetine overdose (single or multiple drugs) include coma, delirium, ECG abnormalities (such as QT interval prolongation and ventricular tachycardia, including torsades de pointes-type arrhythmias), hypotension, mania, neuroleptic malignant syndrome-like reactions, pyrexia, stupor, and syncope.
 
-## Animal Experience
+## 10.2 Animal Experience
 
 Studies in animals do not provide precise or necessarily valid information about the treatment of human overdose.
 However, animal experiments can provide useful insights into possible treatment strategies.
@@ -30,29 +30,30 @@ Acute high oral doses produced hyperirritability and convulsions in several anim
 
 Among 6 dogs purposely overdosed with oral fluoxetine, 5 experienced grand mal seizures.
 Seizures stopped immediately upon the bolus intravenous administration of a standard veterinary dose of diazepam.
-In this short-term study, the lowest plasma concentration at which a seizure occurred was only twice the maximum plasma concentration seen in humans taking 80 mg/day, chronically.
+In this short-term study, the lowest plasma concentration at which a seizure occurred was only twice the maximum plasma concentration seen in humans taking 80 mg/day chronically.
 
 In a separate single-dose study, the ECG of dogs given high doses did not reveal prolongation of the PR, QRS, or QT intervals.
 Tachycardia and an increase in blood pressure were observed.
 Consequently, the value of the ECG in predicting cardiac toxicity is unknown.
-Nonetheless, the ECG should ordinarily be monitored in cases of human overdose (see Management of Overdose).
+Nonetheless, the ECG should ordinarily be monitored in cases of human overdose [see Overdosage (10.3)].
 
-## Management of Overdose
+## 10.3 Management of Overdose
 
-Treatment should consist of those general measures employed in the management of overdosage with any drug effective in the treatment of major depressive disorder.
+Treatment should consist of those general measures employed in the management of overdosage with any drug effective in the treatment of Major Depressive Disorder.
 
 Ensure an adequate airway, oxygenation, and ventilation.
 Monitor cardiac rhythm and vital signs.
 General supportive and symptomatic measures are also recommended.
 Induction of emesis is not recommended.
-Gastric lavage with a large-bore orogastric tube with appropriate airway protection, if needed, may be indicated if performed soon after ingestion or in symptomatic patients.
+Gastric lavage with a large-bore orogastric tube with appropriate airway protection, if needed, may be indicated if performed soon after ingestion, or in symptomatic patients.
 
 Activated charcoal should be administered.
 Due to the large volume of distribution of this drug, forced diuresis, dialysis, hemoperfusion, and exchange transfusion are unlikely to be of benefit.
 No specific antidotes for fluoxetine are known.
 
 A specific caution involves patients who are taking or have recently taken fluoxetine and might ingest excessive quantities of a TCA.
-In such a case, accumulation of the parent tricyclic and/or an active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation (see Other drugs effective in the treatment of major depressive disorder under PRECAUTIONS).
+In such a case, accumulation of the parent tricyclic and/or an active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation [see Drug Interactions (7.
+9)].
 
 Based on experience in animals, which may not be relevant to humans, fluoxetine-induced seizures that fail to remit spontaneously may respond to diazepam.
 
