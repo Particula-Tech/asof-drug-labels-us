@@ -29,10 +29,8 @@ GlaxoSmithKline
 
 RTP, NC 27709
 
-Made in Singapore
-
-10000000059029 Rev.
-7/09
+10000000108525 Rev.
+7/12
 
 Principal Display Panel
 
@@ -67,7 +65,5 @@ GlaxoSmithKline
 
 RTP, NC 27709
 
-Made in Singapore
-
-10000000059030 Rev.
-7/09
+10000000108527 Rev.
+7/12
