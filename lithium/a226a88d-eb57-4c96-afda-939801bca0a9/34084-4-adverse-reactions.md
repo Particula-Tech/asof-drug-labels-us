@@ -20,7 +20,7 @@ The following reactions have been reported and appear to be related to serum lit
 
 Neuromuscular/Central Nervous System: tremor, muscle hyperirritability (fasciculations, twitching, clonic movements of whole limbs), hypertonicity, ataxia, choreo-athetotic movements, hyperactive deep tendon reflex, extrapyramidal symptoms including acute dystonia, cogwheel rigidity, blackout spells, epileptiform seizures, slurred speech, dizziness, vertigo, downbeat nystagmus, incontinence of urine or feces, somnolence, psychomotor retardation, restlessness, confusion, stupor, coma, tongue movements, tics, tinnitus, hallucinations, poor memory, slowed intellectual functioning, startled response, worsening of organic brain syndromes, myasthenia gravis (rarely).
 
-Cardiovascular: cardiac arrhythmia, hypotension, peripheral circulatory collapse, bradycardia, sinus node dysfunction with severe bradycardia (which may result in syncope).
+Cardiovascular: cardiac arrhythmia, hypotension, peripheral circulatory collapse, bradycardia, sinus node dysfunction with severe bradycardia (which may result in syncope), unmasking of Brugada Syndrome (See WARNINGS: Unmasking of Brugada Syndrome and PRECAUTIONS: Information for the Patients).
 
 Gastrointestinal: anorexia, nausea, vomiting, diarrhea, gastritis, salivary gland swelling, abdominal pain, excessive salivation, flatulence, indigestion.
 

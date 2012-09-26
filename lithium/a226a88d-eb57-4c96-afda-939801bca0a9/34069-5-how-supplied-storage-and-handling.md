@@ -9,6 +9,6 @@ The tablets meet the requirements of USP Dissolution Test 2 in the USP monograph
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
-10002294/03 Revised February 2008
+10002294/04 Revised December 2011
 
-© RLI, 2008
+© RLI, 2011
