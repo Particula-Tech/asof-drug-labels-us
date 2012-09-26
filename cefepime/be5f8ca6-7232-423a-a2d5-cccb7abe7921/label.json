@@ -3,14 +3,14 @@
     "NDA050817"
   ],
   "inn": "cefepime",
-  "labeler": "BAXTER HEALTHCARE CORPORATION",
+  "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
     "0338-1301-41",
     "0338-1301-48"
   ],
   "products": [
     {
-      "form": "INJECTION",
+      "form": "INJECTION, SOLUTION",
       "generic": "cefepime",
       "name": "Cefepime"
     }
