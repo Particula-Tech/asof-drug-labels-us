@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA074712"
+  ],
+  "inn": "lactulose",
+  "labeler": "Cumberland Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "66220-719-01",
+    "66220-719-30",
+    "66220-729-01",
+    "66220-729-30"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SOLUTION",
+      "generic": "lactulose",
+      "name": "Kristalose"
+    }
+  ],
+  "setid": "535dd1ea-b567-49f7-9a84-8ea91e78c466",
+  "source": "dailymed"
+}
