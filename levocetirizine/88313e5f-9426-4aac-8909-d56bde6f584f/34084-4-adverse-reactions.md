@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-Use of XYZAL has been associated with somnolence, fatigue, and asthenia [see Warnings and Precautions (5.1)].
+Use of XYZAL has been associated with somnolence, fatigue, asthenia, and urinary retention [see Warnings and Precautions (5)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -89,9 +89,9 @@ The elevations were transient and did not lead to discontinuation in any patient
 
 ## 6.2 Post-Marketing Experience
 
-In addition to the adverse reactions reported during clinical trials and listed above, adverse events have also been identified during post-approval use of XYZAL in other countries.
+In addition to the adverse reactions reported during clinical trials and listed above, adverse events have also been identified during post-approval use of XYZAL.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Adverse events of hypersensitivity and anaphylaxis, angioedema, fixed drug eruption, pruritus, rash, and urticaria, convulsion, paraesthesia, dizziness, aggression and agitation, hallucinations, depression, visual disturbances, blurred vision, palpitations, tachycardia, dyspnea, nausea, vomiting, hepatitis, dysuria, and myalgia have been reported.
+Adverse events of hypersensitivity and anaphylaxis, increased appetite, angioedema, fixed drug eruption, pruritus, rash and urticaria, convulsion, paraesthesia, dizziness, tremor, dysgeusia, vertigo, aggression and agitation, hallucinations, depression, insomnia, suicidal ideation, visual disturbances, blurred vision, palpitations, tachycardia, dyspnea, nausea, vomiting, hepatitis, dysuria, urinary retention, myalgia, and edema have been reported.
 
 Besides these events reported under treatment with XYZAL, other potentially severe adverse events have been reported from the post-marketing experience with cetirizine.
-Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with XYZAL: suicidal ideation, orofacial dyskinesia, severe hypotension, cholestasis, glomerulonephritis, and still birth.
+Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with XYZAL: orofacial dyskinesia, severe hypotension, cholestasis, glomerulonephritis, and still birth.
