@@ -9,7 +9,7 @@ The following are discussed in greater detail in other sections of the labeling:
 - Dyskinesia [see Warnings and Precautions (5.5)]
 - Renal Impairment [see Warnings and Precautions (5.6)]
 - Rhabdomyolysis [see Warnings and Precautions (5.7)]
-- Retinal Pathology in Rat [see Warnings and Precautions (5.8)]
+- Retinal Pathology [see Warnings and Precautions (5.8)]
 - Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
@@ -173,6 +173,6 @@ Vascular disorders: aneurysm, angiopathy, arteriosclerosis, circulatory collapse
 The following adverse reactions have been identified during post-approval use of immediate-release pramipexole tablets, primarily in Parkinson’s disease patients.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
-Similar types of events were grouped into a smaller number of standardized categories using the MedDRA terminology: abnormal behavior, abnormal dreams, accidents (including fall), blackouts, cardiac failure, compulsive shopping, fatigue, hallucinations (all kinds), headache, hypotension (including postural hypotension), increased eating (including binge eating, compulsive eating, and hyperphagia), libido disorders (including increased and decreased libido, and hypersexuality), pathological gambling, pruritus, syncope, vomiting, and weight increase.
+Similar types of events were grouped into a smaller number of standardized categories using the MedDRA terminology: abnormal behavior, abnormal dreams, accidents (including fall), blackouts, cardiac failure, compulsive shopping, fatigue, hallucinations (all kinds), headache, hypotension (including postural hypotension), inappropriate antidiuretic hormone secretion (SIADH), increased eating (including binge eating, compulsive eating, and hyperphagia), libido disorders (including increased and decreased libido, and hypersexuality), pathological gambling, pruritus, syncope, vomiting, and weight increase.
 
 In a pharmacoepidemiological study, pramipexole use was associated with an increased risk of cardiac failure compared with non-use of pramipexole.
