@@ -4,30 +4,20 @@
 
 NDC 0093-6815-73
 
-BUDESONIDE
-
-Inhalation Suspension
+BUDESONIDE Inhalation Suspension
 
 0.25 mg/2 mL
 
-Each unit-dose vial delivers 2 mL of a sterile suspension containing
+Each unit-dose vial delivers 2 mL of a sterile suspension containing 0.25 mg of micronized budesonide.
 
-0.25 mg of micronized budesonide.
-
-Steri-Neb TM
-
-brand of
-
-Sterile Unit-Dose Vials
+Steri-Neb TM brand of Sterile Unit-Dose Vials
 
 For Oral Inhalation Only
 
 NOT FOR INJECTION
 
 For use only in a jet nebulizer.
-Do NOT use in an ultrasonic
-
-nebulizer.
+Do NOT use in an ultrasonic nebulizer.
 
 Rx only
 
@@ -41,30 +31,20 @@ TEVA
 
 NDC 0093-6816-73
 
-BUDESONIDE
-
-Inhalation Suspension
+BUDESONIDE Inhalation Suspension
 
 0.5 mg/2 mL
 
-Each unit-dose vial delivers 2 mL of a sterile suspension containing
+Each unit-dose vial delivers 2 mL of a sterile suspension containing 0.5 mg of micronized budesonide.
 
-0.5 mg of micronized budesonide.
-
-Steri-Neb TM
-
-brand of
-
-Sterile Unit-Dose Vials
+Steri-Neb TM brand of Sterile Unit-Dose Vials
 
 For Oral Inhalation Only
 
 NOT FOR INJECTION
 
 For use only in a jet nebulizer.
-Do NOT use in an ultrasonic
-
-nebulizer.
+Do NOT use in an ultrasonic nebulizer.
 
 Rx only
 

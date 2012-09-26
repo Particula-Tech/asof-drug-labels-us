@@ -53,7 +53,7 @@ The information below includes all adverse reactions by system organ class with 
 
 Blood and lymphatic system disorders: cervical lymphadenopathy
 
-Ear and labyrinth disorders: earache
+Ear and labyrinth disorders:earache
 
 General disorders and administration site conditions: fatigue, flu-like disorder
 
@@ -71,9 +71,7 @@ Nervous system disorders: hyperkinesia
 
 Psychiatric disorders: emotional lability
 
-Respiratory, thoracic, and mediastinal disorders: chest pain, dysphonia, stridor
-
-Skin and subcutaneous tissue disorders: contact dermatitis, eczema, pustular rash, pruritus, purpura
+Respiratory, thoracic, and mediastinal disorders: chest pain, dysphonia, stridorSkin and subcutaneous tissue disorders: contact dermatitis, eczema, pustular rash, pruritus, purpura
 
 The incidence of reported adverse events was similar between the 447 budesonide inhalation suspension-treated (mean total daily dose 0.5 to 1 mg) and 223 conventional therapy-treated pediatric asthma patients followed for one year in three open-label studies.
 

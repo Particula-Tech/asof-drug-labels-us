@@ -24,7 +24,7 @@ In another study in rats, no teratogenic or embryocidal effects were seen at inh
 
 Experience with oral corticosteroids since their introduction in pharmacologic, as opposed to physiologic, doses suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
 
-Non-teratogenic Effects:
+### Non-teratogenic Effects:
 
 Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
 Such infants should be carefully observed.
