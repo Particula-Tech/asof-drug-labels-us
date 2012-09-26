@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Each Vial is for single eye use only.
-EYLEA is supplied in the following presentation [see Dosage and Administration (2.3) and (2.4)].
+EYLEA is supplied in the following presentation [see Dosage and Administration (2.4) and (2.5)].
 
 | NDC NUMBER | CARTON TYPE | CARTON CONTENTS |
 | --- | --- | --- |

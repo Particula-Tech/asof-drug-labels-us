@@ -23,5 +23,5 @@ The safety and effectiveness of EYLEA in pediatric patients have not been establ
 
 ## 8.5 Geriatric Use
 
-In the clinical studies, approximately 89% (1616/1817) of patients randomized to treatment with EYLEA were ≥65 years of age and approximately 63% (1139/1817) were ≥75 years of age.
+In the clinical studies, approximately 85% (1728/2034) of patients randomized to treatment with EYLEA were ≥65 years of age and approximately 58% (1177/2034) were ≥75 years of age.
 No significant differences in efficacy or safety were seen with increasing age in these studies.

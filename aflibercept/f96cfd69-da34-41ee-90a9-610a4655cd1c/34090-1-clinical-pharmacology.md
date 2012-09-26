@@ -11,18 +11,27 @@ Aflibercept acts as a soluble decoy receptor that binds VEGF-A and PlGF, and the
 
 ## 12.2 Pharmacodynamics
 
-In the phase 3 studies anatomic measures of disease activity improved similarly in all treatment groups from baseline to week 52.
+Neovascular (Wet) Age-Related Macular Degeneration (AMD)
+
+In the clinical studies anatomic measures of disease activity improved similarly in all treatment groups from baseline to week 52.
 Anatomic data were not used to influence treatment decisions.
+[see Clinical Studies (14.1)].
+
+Macular Edema Following Central Retinal Vein Occlusion (CRVO)
+
+Reductions in mean retinal thickness were observed in COPERNICUS and GALILEO at Week 24 compared to baseline.
+Anatomic data were not used to influence treatment decisions.
+[see Clinical Studies (14.2)].
 
 ## 12.3 Pharmacokinetics
 
 EYLEA is administered intravitreally to exert local effects in the eye.
-In patients with wet AMD, following intravitreal administration of EYLEA, a fraction of the administered dose is expected to bind with endogenous VEGF in the eye to form an inactive aflibercept: VEGF complex.
+In patients with wet AMD or CRVO, following intravitreal administration of EYLEA, a fraction of the administered dose is expected to bind with endogenous VEGF in the eye to form an inactive aflibercept: VEGF complex.
 Once absorbed into the systemic circulation, aflibercept presents in the plasma as free aflibercept (unbound to VEGF) and a more predominant stable inactive form with circulating endogenous VEGF (i.e., aflibercept: VEGF complex).
 
 Absorption/Distribution
 
-Following intravitreal administration of 2 mg per eye of EYLEA to patients with wet AMD, the mean Cmax of free aflibercept in the plasma was 0.02 mcg/mL (range: 0 to 0.054 mcg/mL) and was attained in 1 to 3 days.
+Following intravitreal administration of 2 mg per eye of EYLEA to patients with wet AMD and CRVO, the mean Cmax of free aflibercept in the plasma was 0.02 mcg/mL (range: 0 to 0.054 mcg/mL) and 0.05 mcg/mL (range 0 to 0.081 mcg/mL), respectively and was attained in 1 to 3 days.
 The free aflibercept plasma concentrations were undetectable two weeks post-dosing in all patients.
 Aflibercept did not accumulate in plasma when administered as repeated doses intravitreally every 4 weeks.
 It is estimated that after intravitreal administration of 2 mg to patients, the mean maximum plasma concentration of free aflibercept is more than 100 fold lower than the concentration of aflibercept required to half-maximally bind systemic VEGF.
@@ -39,5 +48,6 @@ Specific Populations
 
 Renal Impairment
 
-Pharmacokinetic analysis of a subgroup of patients (n=492) in one Phase 3 study, of which 43% had renal impairment (mild n=120, moderate n=74, and severe n=16), revealed no differences with respect to plasma concentrations of free aflibercept after intravitreal administration every 4 or 8 weeks.
-No dose adjustment based on renal impairment status is needed.
+Pharmacokinetic analysis of a subgroup of patients (n=492) in one wet AMD study, of which 43% had renal impairment (mild n=120, moderate n=74, and severe n=16), revealed no differences with respect to plasma concentrations of free aflibercept after intravitreal administration every 4 or 8 weeks.
+Similar results were seen in patients in a CRVO study.
+No dose adjustment based on renal impairment status is needed for either wet AMD or CRVO patients.
