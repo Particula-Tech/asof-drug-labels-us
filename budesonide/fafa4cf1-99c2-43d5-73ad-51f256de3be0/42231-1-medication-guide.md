@@ -128,14 +128,14 @@ Ask your healthcare provider or pharmacist if you have any questions.
   Always have a rescue inhaler medicine with you to treat sudden symptoms.
   If you do not have a rescue inhaler, call your healthcare provider to have one prescribed for you.
 - •Call your healthcare provider or get medical care right away if:
-  - oyour breathing problems worsen with SYMBICORT
-- oyou need to use your rescue inhaler medicine more often than usual
-- oyour rescue inhaler medicine does not work as well for you at relieving symptoms
-- oyou need to use 4 or more inhalations of rescue inhaler medicine for 2 or more days in a row
-- oyou use one whole canister of your rescue inhaler medicine in 8 weeks’ time
-- oyour peak flow meter results decrease.
-  Your healthcare provider will tell you the numbers that are right for you.
-- oyour symptoms do not improve after using SYMBICORT regularly for 1 week.
+  - •your breathing problems worsen with SYMBICORT
+  - •you need to use your rescue inhaler medicine more often than usual
+  - •your rescue inhaler medicine does not work as well for you at relieving symptoms
+  - •you need to use 4 or more inhalations of rescue inhaler medicine for 2 or more days in a row
+  - •you use one whole canister of your rescue inhaler medicine in 8 weeks’ time
+  - •your peak flow meter results decrease.
+    Your healthcare provider will tell you the numbers that are right for you.
+  - •your symptoms do not improve after using SYMBICORT regularly for 1 week.
 
 What are the possible side effects with SYMBICORT?
 
@@ -146,33 +146,33 @@ SYMBICORT can cause serious side effects
   People with COPD have a higher chance of getting pneumonia and other lung infections.
   Inhaled corticosteroids may increase the chance of getting pneumonia.
   Call your healthcare provider if you notice any of these symptoms:
-  - oincrease in mucus (sputum) production
-- ochange in mucus color
-- ofever
-- ochills
-- oincreased cough
-- oincreased breathing problems
+  - •increase in mucus (sputum) production
+  - •change in mucus color
+  - •fever
+  - •chills
+  - •increased cough
+  - •increased breathing problems
 - •Serious allergic reactions including rash, hives, swelling of the face, mouth, and tongue, and breathing problems.
   Call your healthcare provider or get emergency medical care if you get any symptoms of a serious allergic reaction.
 - •Immune system effects and a higher chance for infections.
   Tell your healthcare provider about any signs of infection such as:
-  - ofever
-- opain
-- obody aches
-- ochills
-- ofeeling tired
-- onausea
-- ovomiting
+  - •fever
+  - •pain
+  - •body aches
+  - •chills
+  - •feeling tired
+  - •nausea
+  - •vomiting
 - •Adrenal insufficiency.
   Adrenal insufficiency is a condition in which the adrenal glands do not make enough steroid hormones.
   This can happen when you stop taking oral corticosteroid medicines and start inhaled corticosteroid medicine.
 - •Using too much of a LABA medicine may cause:
-  - ochest pain
-- oincreased blood pressure
-- oa fast and irregular heartbeat
-- oheadache
-- otremor
-- onervousness
+  - •chest pain
+  - •increased blood pressure
+  - •a fast and irregular heartbeat
+  - •headache
+  - •tremor
+  - •nervousness
 - •Increased wheezing right after taking SYMBICORT.
   Always have a rescue inhaler with you to treat sudden wheezing.
 - •Eye problems including glaucoma and cataracts.
@@ -185,10 +185,10 @@ SYMBICORT can cause serious side effects
 - •Swelling of your blood vessels.
   This can happen in people with asthma.
   Tell your healthcare provider right away if you have:
-  - oa feeling of pins and needles or numbness of your arms or legs
-- oflu like symptoms
-- orash
-- opain and swelling of the sinuses
+  - •a feeling of pins and needles or numbness of your arms or legs
+  - •flu like symptoms
+  - •rash
+  - •pain and swelling of the sinuses
 - •Decreases in blood potassium levels (hypokalemia)
 - •Increases in blood sugar levels (hyperglycemia)
 

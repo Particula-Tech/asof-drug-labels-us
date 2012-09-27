@@ -106,7 +106,7 @@ If such effects occur, the dosage of SYMBICORT should be reduced slowly, consist
 
 ## 5.9 Drug Interactions With Strong Cytochrome P450 3A4 Inhibitors
 
-Caution should be exercised when considering the coadministration of SYMBICORT with ketoconazole, and other known strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to budesonide may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)]
+Caution should be exercised when considering the coadministration of SYMBICORT with ketoconazole, and other known strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to budesonide may occur [see Drug Interactions (7.1), and Clinical Pharmacology (12.3)]
 
 ## 5.10 Paradoxical Bronchospasm and Upper Airway Symptoms
 
