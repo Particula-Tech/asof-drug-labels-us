@@ -73,7 +73,7 @@ Hematologic: increased platelets, increased eosinophils, decreased platelets, de
 
 Renal: increased creatinine and increased BUN
 
-NOTE: For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported irrespective of relationship to MERREM I.V., increased in patients with moderately severe renal impairment (creatinine clearance >10 to 26 mL/min) [see Dosage and Administration (2.2), Warnings and Precautions (5.8), Use in Specific Populations (8.5) and (8.6) and Clinical Pharmacology (12.3)].
+NOTE: For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported irrespective of relationship to MERREM I.V., increased in patients with moderately severe renal impairment (creatinine clearance >10 to 26 mL/min) [see Dosage and Administration (2.2),Warnings and Precautions (5.8), Use in Specific Populations (8.5) and (8.6) and Clinical Pharmacology (12.3)].
 
 Urinalysis: presence of red blood cells
 

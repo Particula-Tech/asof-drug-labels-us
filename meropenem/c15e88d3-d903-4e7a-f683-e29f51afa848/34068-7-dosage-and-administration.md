@@ -59,7 +59,7 @@ Constitute injection vials (500 mg and 1 g) with sterile Water for Injection.
 (See table below.)
 Shake to dissolve and let stand until clear.
 
-| Vial Size | Amount of Diluent Added (mL) | Approximate Withdrawable Volume (mL) | Approximate Average Concentration (mg/mL) |
+| Vial Size | Amount of Diluent Added (mL) | Approximate Withdrawable Volume(mL) | Approximate Average Concentration (mg/mL) |
 | --- | --- | --- | --- |
 | 500 mg | 10 | 10 | 50 |
 | 1 g | 20 | 20 | 50 |
@@ -67,7 +67,7 @@ Shake to dissolve and let stand until clear.
 For Infusion
 
 Infusion vials (500 mg and 1 g) may be directly constituted with a compatible infusion fluid.
-Alternatively, an injection vial may be constituted, then the resulting solution added to an I.V. container and further diluted with an appropriate infusion fluid [see Dosage and Administration (2.5) and (2.6)].
+Alternatively, an injection vial may be constituted, then the resulting solution added to an I.V. container and further diluted with an appropriate infusion fluid [see Dosage and Administration (2.5) and(2.6)].
 
 WARNING: Do not use flexible container in series connections.
 

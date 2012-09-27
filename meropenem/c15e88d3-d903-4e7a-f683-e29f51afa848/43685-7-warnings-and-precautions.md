@@ -14,7 +14,7 @@ Other therapy may also be administered as indicated.
 ## 5.2 Seizure Potential
 
 Seizures and other adverse CNS experiences have been reported during treatment with MERREM I.V.
-These experiences have occurred most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) or with bacterial meningitis and/or compromised renal function [see Adverse Reactions (6.1) and Drug Interactions (7.2)].
+These experiences have occurred most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) or with bacterial meningitis and/or compromised renal function [see Adverse Reactions (6.1)and Drug Interactions (7.2)].
 
 During clinical investigations, 2904 immunocompetent adult patients were treated for non-CNS infections with the overall seizure rate being 0.7% (based on 20 patients with this adverse event).
 All meropenem-treated patients with seizures had pre-existing contributing factors.
@@ -63,7 +63,7 @@ While MERREM I.V. possesses the characteristic low toxicity of the beta-lactam g
 
 ## 5.8 Patients with Renal Impairment
 
-In patients with renal impairment, thrombocytopenia has been observed but no clinical bleeding reported [see Dosage and Administration (2.2), Adverse Reactions (6.1), Use In Specific Populations (8.5) and (8.6), andClinical Pharmacology (12.3)].
+In patients with renal impairment, thrombocytopenia has been observed but no clinical bleeding reported [see Dosage and Administration (2.2), Adverse Reactions (6.1), Use In Specific Populations (8.5) and (8.6), and Clinical Pharmacology (12.3)].
 
 ## 5.9 Dialysis
 
