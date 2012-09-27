@@ -10,7 +10,7 @@ Embryotoxicity was characterized by increased embryo-fetal deaths and reduced li
 ## 8.3 Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
-Because many drugs, including anthracyclines, are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from DOXIL, mothers should discontinue nursing prior to taking this drug.
+Because many drugs, including anthracyclines, are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from DOXIL, discontinue nursing during treatment with DOXIL.
 
 ## 8.4 Pediatric Use
 

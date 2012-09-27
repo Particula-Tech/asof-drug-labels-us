@@ -1,4 +1,4 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-- 20 mg/10 mL single use vial
-- 50 mg/25 mL single use vial
+- Single use vial: 20 mg/10 mL
+- Single use vial: 50 mg/25 mL

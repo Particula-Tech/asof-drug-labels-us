@@ -236,4 +236,4 @@ Respiratory, Thoracic and Mediastinal Disorders: rare cases of pulmonary embolis
 
 Hematologic disorders: Secondary acute myelogenous leukemia with and without fatal outcome has been reported in patients whose treatment included DOXIL.
 
-Skin and subcutaneous tissue disorders: rare cases of erythema multiforme, Stevens- Johnson syndrome and toxic epidermal necrolysis have been reported.
+Skin and subcutaneous tissue disorders: rare cases of erythema multiforme, Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported.
