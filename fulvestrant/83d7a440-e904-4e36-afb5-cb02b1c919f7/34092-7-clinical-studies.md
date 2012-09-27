@@ -22,7 +22,7 @@ Figure 4 shows a Kaplan-Meier plot of the Progression Free Survival (PFS) data d
 Figure 5 shows a Kaplan-Meier plot of the Overall Survival (OS) data.
 There was no statistically significant difference in OS between the two treatment groups.
 
-Table 4: Efficacy Results Study 1: Intent To Treat (ITT) Population
+Table 4 Efficacy Results Study 1: Intent To Treat (ITT) Population
 
 | Endpoint | Fulvestrant 500 mg (N=362) | Fulvestrant 250 mg (N=374) |
 | --- | --- | --- |
@@ -60,7 +60,7 @@ The effectiveness of FASLODEX 250 mg was determined by comparing Objective Respo
 The two studies ruled out (by one-sided 97.7% confidence limit) inferiority of FASLODEX to anastrozole of 6.3% and 1.4% in terms of ORR.
 There was no statistically significant difference in overall survival (OS) between the two treatment groups after a follow-up duration of 28.2 months in Study 2 and 24.4 months in Study 3.
 
-Table 5: Efficacy Results
+Table 5 Efficacy Results
 
 | Endpoint | 250 mg (n=206) | 1 mg (n=194) | 250 mg (n=222) | 1 mg (n=229) |
 | --- | --- | --- | --- | --- |
