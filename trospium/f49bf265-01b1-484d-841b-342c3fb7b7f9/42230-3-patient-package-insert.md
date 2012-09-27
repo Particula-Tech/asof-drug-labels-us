@@ -118,4 +118,4 @@ Address Medical Inquiries to: 1-800-433-8871
 
 © 2012 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc.
 
-72157US13
+72548US10
