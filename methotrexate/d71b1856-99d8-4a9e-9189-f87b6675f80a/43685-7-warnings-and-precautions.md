@@ -1,8 +1,8 @@
 # WARNINGS
 
-See Boxed WARNINGS.
+# WARNINGS
 
-Methotrexate formulations and diluents containing preservatives must not be used for intrathecal or high dose methotrexate therapy.
+See Boxed WARNINGS.
 
 # PRECAUTIONS
 
@@ -73,7 +73,10 @@ Therefore, patients receiving concomitant therapy with methotrexate and other po
 
 Methotrexate may decrease the clearance of theophylline; theophylline levels should be monitored when used concurrently with methotrexate.
 
-Certain side effects such as mouth sores may be reduced by folate supplementation with methotrexate.
+Vitamin preparations containing folic acid or its derivatives may decrease responses to systemically administered methotrexate.
+Preliminary animal and human studies have shown that small quantities of intravenously administered leucovorin enter the CSF primarily as 5-methyltetrahydrofolate and, in humans, remain 1 to 3 orders of magnitude lower than the usual methotrexate concentrations following intrathecal administration.
+
+Folate deficiency states may increase methotrexate toxicity.
 
 Trimethoprim/sulfamethoxazole has been reported rarely to increase bone marrow suppression in patients receiving methotrexate, probably by an additive antifolate effect.
 
@@ -102,17 +105,6 @@ Safety and effectiveness in pediatric patients have been established only in can
 
 Published clinical studies evaluating the use of methotrexate in children and adolescents (i.e., patients 2 to 16 years of age) with JRA demonstrated safety comparable to that observed in adults with rheumatoid arthritis.
 (See CLINICAL PHARMACOLOGY, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION.)
-
-## Geriatric Use
-
-Clinical studies of methotrexate did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger subjects.
-In general, dose selection for an elderly patient should be cautious reflecting the greater frequency of decreased hepatic and renal function, decreased folate stores, concomitant disease or other drug therapy (i.e., that interfere with renal function, methotrexate or folate metabolism) in this population (see Precautions: Drug Interactions).
-Since decline in renal function may be associated with increases in adverse events and serum creatinine measurements may over estimate renal function in the elderly, more accurate methods (i.e., creatinine clearance) should be considered.
-Serum methotrexate levels may also be helpful.
-Elderly patients should be closely monitored for early signs of hepatic, bone marrow and renal toxicity.
-In chronic use situations, certain toxicities may be reduced by folate supplementation.
-Postmarketing experience suggests that the occurrence of bone marrow suppression, thrombocytopenia, and pneumonitis may increase with age.
-See Boxed WARNINGS and Adverse Reactions.
 
 ## Organ System Toxicity
 
@@ -154,7 +146,7 @@ Of the 64 cases of fibrosis, 60 were deemed mild.
 The reticulin stain is more sensitive for early fibrosis and its use may increase these figures.
 It is unknown whether even longer use will increase these risks.
 
-Liver function tests should be performed at baseline and at 4-8 week intervals in patients receiving methotrexate for rheumatoid arthritis.
+Liver function tests should be performed at baseline and at to -8 week intervals in patients receiving methotrexate for rheumatoid arthritis.
 Pretreatment liver biopsy should be performed for patients with a history of excessive alcohol consumption, persistently abnormal baseline liver function test values or chronic hepatitis B or C infection.
 During therapy, liver biopsy should be performed if there are persistent liver function test abnormalities or there is a decrease in serum albumin below the normal range (in the setting of well controlled rheumatoid arthritis).
 
@@ -172,6 +164,19 @@ Hypogammaglobulinemia has been reported rarely.
 Potentially fatal opportunistic infections, especially Pneumocystis carinii pneumonia, may occur with methotrexate therapy.
 When a patient presents with pulmonary symptoms, the possibility of Pneumocystis carinii pneumonia should be considered.
 
+### Neurologic
+
+There have been reports of leukoencephalopathy following intravenous administration of methotrexate to patients who have had craniospinal irradiation.
+Serious neurotoxicity, frequently manifested as generalized or focal seizures, has been reported with unexpectedly increased frequency among pediatric patients with acute lymphoblastic leukemia who were treated with intermediate-dose intravenous methotrexate (1 gm/m2).
+Symptomatic patients were commonly noted to have leukoencephalopathy and/or microangiopathic calcifications on diagnostic imaging studies.
+Chronic leukoencephalopathy has also been reported in patients who received repeated doses of high-dose methotrexate with leucovorin rescue even without cranial irradiation.
+Discontinuation of methotrexate does not always result in complete recovery.
+
+A transient acute neurologic syndrome has been observed in patients treated with high dosage regimens.
+
+Manifestations of this stroke-like encephalopathy may include confusion, hemiparesis, transient blindness, seizures and coma.
+The exact cause is unknown.
+
 ### Pulmonary
 
 Pulmonary symptoms (especially a dry nonproductive cough) or a nonspecific pneumonitis occurring during methotrexate therapy may be indicative of a potentially dangerous lesion and require interruption of treatment and careful investigation.
@@ -180,7 +185,7 @@ This lesion can occur at all dosages.
 
 ### Renal
 
-Methotrexate may cause renal damage that may lead to acute renal failure.
+High doses of methotrexate used in the treatment of osteosarcoma may cause renal damage leading to acute renal failure.
 Nephrotoxicity is due primarily to the precipitation of methotrexate and 7-hydroxymethotrexate in the renal tubules.
 Close attention to renal function including adequate hydration, urine alkalinization and measurement of serum methotrexate and creatinine levels are essential for safe administration.
 
@@ -195,7 +200,7 @@ Methotrexate should be used with extreme caution in the presence of debility.
 
 Methotrexate exits slowly from third space compartments (e.g., pleural effusions or ascites).
 This results in a prolonged terminal plasma half-life and unexpected toxicity.
-In patients with significant third space accumulations, it is advisable to evacuate the fluid before treatment and to monitor plasma methotrexate levels.
+In patients with significant thir- space accumulations, it is advisable to evacuate the fluid before treatment and to monitor plasma methotrexate levels.
 
 Lesions of psoriasis may be aggravated by concomitant exposure to ultraviolet radiation.
 Radiation dermatitis and sunburn may be “recalled” by the use of methotrexate.

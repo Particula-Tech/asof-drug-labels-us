@@ -12,7 +12,7 @@ In the oncology setting, concomitant treatment and the underlying disease make s
 
 Alimentary System: gingivitis, pharyngitis, stomatitis, anorexia, nausea, vomiting, diarrhea, hematemesis, melena, gastrointestinal ulceration and bleeding, enteritis, pancreatitis.
 
-Blood and Lymphatic System Disorders: Suppressed hematopoiesis causing anemia, aplastic anemia, pancytopenia, leukopenia, neutropenia, and/or thrombocytopenia, lymphadenopathy and lymphoproliferative disorders (including reversible).
+Blood and Lymphatic System Disorders: Suppressed hematopoiesis causing anemia, aplastic anemia, pancytopenia, leukopeni, and/or thrombocytopeni.
 Hypogammaglobulinemia has been reported rarely.
 
 Cardiovascular: pericarditis, pericardial effusion, hypotension, and thromboembolic events (including arterial thrombosis, cerebral thrombosis, deep vein thrombosis, retinal vein thrombosis, thrombophlebitis, and pulmonary embolus).
@@ -20,11 +20,7 @@ Cardiovascular: pericarditis, pericardial effusion, hypotension, and thromboembo
 Central Nervous System: headaches, drowsiness, blurred vision, transient blindness, speech impairment including dysarthria and aphasia, hemiparesis, paresis and convulsions have also occurred following administration of methotrexate.
 Following low doses, there have been occasional reports of transient subtle cognitive dysfunction, mood alteration, unusual cranial sensations, leukoencephalopathy, or encephalopathy.
 
-Hepatobiliary Disorders: hepatotoxicity, acute hepatitis, chronic fibrosis and cirrhosis, decrease in serum albumin, liver enzyme elevations.
-
-Infection: There have been case reports of sometimes fatal opportunistic infections in patients receiving methotrexate therapy for neoplastic and non-neoplastic diseases.
-Pneumocystis carinii pneumonia was the most common opportunistic infection.
-There have also been reports of infections, pneumonia, sepsis, nocardiosis, histoplasmosis, cryptococcosis, Herpes zoster, H. simplex hepatitis, and disseminated H. simplex.
+Infection: There have been case reports of sometimes fatal opportunistic infections in patients receiving methotrexate therapy for neoplastic and non-neoplastic diseases.Pneumocystis cariniii pneumonia was the most common opportunistic infection.Other reported infections include, sepsis, nocardiosis, histoplasmosis, cryptococcosis, Herpes zoster,H. simplexx hepatitis, and disseminatedH. simplexx.
 
 Musculoskeletal System: stress fracture.
 
@@ -41,7 +37,7 @@ Anaphylactoid reactions have been reported.
 
 ## Adverse Reactions in Double-Blind Rheumatoid Arthritis Studies
 
-The approximate incidences of methotrexate attributed (i.e., placebo rate subtracted) adverse reactions in 12 to 18 week double-blind studies of patients (N=128) with rheumatoid arthritis treated with low-dose oral (7.5 to 15 mg/week) pulse methotrexate, are listed below.
+The approximate incidences of methotrexat- attributed (i.e., placebo rate subtracted) adverse reactions in 12 to 18 week double-blind studies of patients (N=128) with rheumatoid arthritis treated with low-dose oral (7.5 to 15 mg/week) pulse methotrexate, are listed below.
 Virtually all of these patients were on concomitant nonsteroidal anti-inflammatory drugs and some were also taking low dosages of corticosteroids.
 Hepatic histology was not examined in these short-term studies.
 (See PRECAUTIONS.)
@@ -52,7 +48,7 @@ Incidence 3% to 10%: Stomatitis, thrombocytopenia (platelet count less than 100,
 
 Incidence 1% to 3%: Rash/pruritus/dermatitis, diarrhea, alopecia, leukopenia (WBC less than 3000/mm3), pancytopenia, dizziness.
 
-Two other controlled trials of patients (N=680) with Rheumatoid Arthritis on 7.5 mg to 15 mg/wk oral doses showed an incidence of interstitial pneumonitis of 1%.
+Two other controlled trials of patients (N=680) withrRheumatoidaArthritis on 7.5 mg to 15 mg/wk oral doses showed an incidence of interstitial pneumonitis of 1%.
 (See PRECAUTIONS.)
 
 Other less common reactions included decreased hematocrit, headache, upper respiratory infection, anorexia, arthralgias, chest pain, coughing, dysuria, eye discomfort, epistaxis, fever, infection, sweating, tinnitus, and vaginal discharge.
@@ -63,7 +59,7 @@ There are no recent placebo-controlled trials in patients with psoriasis.
 There are two literature reports (Roenigk, 1969 and Nyfors, 1978) describing large series (N=204, 248) of psoriasis patients treated with methotrexate.
 Dosages ranged up to 25 mg per week and treatment was administered for up to four years.
 With the exception of alopecia, photosensitivity, and “burning of skin lesions” (each 3% to 10%), the adverse reaction rates in these reports were very similar to those in the rheumatoid arthritis studies.
-Rarely, painful plaque erosions may appear.
+Rarely, painful plaque erosions may appea (Pearce, HP and Wilson, BB: Am Acad Dermatol 35: 835-838, 1996)r.
 
 ## Adverse Reactions in JRA Studies
 

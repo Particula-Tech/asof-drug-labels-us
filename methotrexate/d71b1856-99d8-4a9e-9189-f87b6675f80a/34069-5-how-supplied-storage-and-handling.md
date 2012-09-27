@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Methotrexate Sodium Tablets USP, 2.5 mg (contain an amount of methotrexate sodium equivalent to 2.5 mg of methotrexate)
+Methotrexate Tablets USP, 2.5 mg (contain an amount of methotrexate sodium equivalent to 2.5 mg of methotrexate)
 
 Yellow, round, scored tablets (Identified 54 323)
 

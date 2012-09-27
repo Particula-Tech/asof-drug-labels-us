@@ -1,8 +1,8 @@
 # Patient Instructions
 
-METHOTREXATE SODIUM Tablets USP, 2.5 mg
+METHOTREXATE Tablets USP, 2.5 mg
 
-Read the Patient Information that comes with Methotrexate Sodium Tablets USP, 2.5 mg before you start using it and each time you get a refill.
+Read the Patient Information that comes with Methotrexate Tablets USP, 2.5 mg before you start using it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition or treatment.
 
@@ -35,7 +35,7 @@ Do not take methotrexate if:
 - you are breast-feeding.
   Methotrexate can harm your baby.
   You will need to decide either to breast-feed or to take methotrexate, but not both.
-- you have any conditions that weaken your immune system (immuno-deficiency conditions).
+- you have any conditions that weaken your immune system (immunodeficiency conditions).
 - your bone marrow does not make enough blood cells, or if you have low white blood cell counts, low platelet counts, or serious anemia.
 - you drink alcohol or have liver problems from alcohol abuse.
 - you have chronic liver disease.
@@ -99,7 +99,7 @@ Methotrexate can cause serious and life-threatening problems including (see “W
 - lung disease
 - cancer of the lymph system (lymphoma)
 - severe skin reactions and rashes
-- opportunistic infections such asPneumocystis carini pneumonia
+- opportunistic infections such as Pneumocystis carini pneumonia
 - soft tissue and bone damage if you are getting radiation therapy at the same time you are taking methotrexate.
 
 The most common side effects of methotrexate include:
@@ -145,6 +145,8 @@ Active Ingredient: Methotrexate contains an amount of methotrexate sodium equiva
 
 Inactive Ingredients: lactose, magnesium stearate, pregelatinized starch NF, sodium hydroxide, and sodium starch glycolate.
 
-10004494/03
+10004494/05
 
-© RLI, 2007
+Revised February 2012
+
+© RLI, 2012

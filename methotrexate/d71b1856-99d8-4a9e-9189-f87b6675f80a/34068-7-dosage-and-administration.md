@@ -4,7 +4,7 @@
 
 Oral administration in tablet form is often preferred when low doses are being administered since absorption is rapid and effective serum levels are obtained.
 
-### Choriocarcinoma and similar trophoblastic diseases
+### Choriocarcinoma andSsimila TtrophoblasticDdiseases
 
 Methotrexate is administered orally or intramuscularly in doses of 15 to 30 mg daily for a five-day course.
 Such courses are usually repeated for 3 to 5 times as required, with rest periods of one or more weeks interposed between courses, until any manifesting toxic symptoms subside.
@@ -73,19 +73,23 @@ The optimal duration of therapy is unknown.
 Limited data available from long-term studies in adults indicate that the initial clinical improvement is maintained for at least two years with continued therapy.
 When methotrexate is discontinued, the arthritis usually worsens within 3 to 6 weeks.
 
-The patient should be fully informed of the risks involved and should be under constant supervision of the physician.
+The patient should befully informed of the risks involved and should be under constant supervision of the physician..
 (See Information for Patients under PRECAUTIONS.)
 Assessment of hematologic, hepatic, renal, and pulmonary function should be made by history, physical examination, and laboratory tests before beginning, periodically during, and before reinstituting methotrexate therapy.
 (See PRECAUTIONS.)
 Appropriate steps should be taken to avoid conception during methotrexate therapy.
 (See PRECAUTIONS and CONTRAINDICATIONS.)
 
+Weekly therapy may be instituted to provide doses over a range of 5 mg to 15 mg administered as a single weekly dose.
+
 All schedules should be continually tailored to the individual patient.
 An initial test dose may be given prior to the regular dosing schedule to detect any extreme sensitivity to adverse effects.
 (See ADVERSE REACTIONS.)
 Maximal myelosuppression usually occurs in seven to ten days.
 
-### Psoriasis: Recommended Starting Dose Schedules
+### Psoriasis
+
+Recommended Starting Dose Schedules
 
 1. Weekly single oral, IM or IV dose schedule: 10 to 25 mg per week until adequate response is achieved.
 2. Divided oral dose schedule: 2.5 mg at 12-hour intervals for three doses.
