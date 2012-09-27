@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA201146"
+  ],
+  "inn": "donepezil",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-027-07",
+    "33342-027-10",
+    "33342-027-12",
+    "33342-027-31",
+    "33342-028-07",
+    "33342-028-10",
+    "33342-028-12",
+    "33342-028-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "donepezil hydrochloride",
+      "name": "Donepezil Hydrochloride"
+    }
+  ],
+  "setid": "06dd25a5-1bf2-446d-ad75-ff9d55117660",
+  "source": "dailymed"
+}
