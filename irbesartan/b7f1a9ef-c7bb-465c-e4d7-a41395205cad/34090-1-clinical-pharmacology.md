@@ -145,11 +145,14 @@ The primary composite endpoint was the time to occurrence of any one of the foll
 Treatment with AVAPRO resulted in a 20% risk reduction versus placebo (p=0.0234) (see Figure 3 and Table 1).
 Treatment with AVAPRO also reduced the occurrence of sustained doubling of serum creatinine as a separate endpoint (33%), but had no significant effect on ESRD alone and no effect on overall mortality (see Table 1).
 
+Figure 3: IDNT: Kaplan-Meier Estimates Of Primary Endpoint (Doubling of Serum Creatinine, End-Stage Renal Disease or All-Cause Mortality
+
 The percentages of patients experiencing an event during the course of the study can be seen in Table 1 below:
+
+Table 1: IDNT: Components of Primary Composite Endpoint
 
 |  | AVAPRO N=579 (%) | Placebo N=569 (%) | Hazard Ratio | 95% CI | Amlodipine N=567 (%) | Hazard Ratio | 95% CI |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Table 1: | IDNT: Components of Primary Composite Endpoint |  |  |  |  |  |  |
 |  |  | Comparison With Placebo |  |  | Comparison With Amlodipine |  |  |
 | Primary Composite Endpoint | 32.6 | 39.0 | 0.80 | 0.66-0.97 (p=0.0234) | 41.1 | 0.77 | 0.63-0.93 |
 | Breakdown of first occurring event contributing to primary endpoint |  |  |  |  |  |  |  |
@@ -170,9 +173,10 @@ Table 2 presents results for demographic subgroups.
 Subgroup analyses are difficult to interpret and it is not known whether these observations represent true differences or chance effects.
 For the primary endpoint, AVAPRO’s favorable effects were seen in patients also taking other antihypertensive medications (angiotensin II receptor antagonists, angiotensin-converting-enzyme inhibitors and calcium channel blockers were not allowed), oral hypoglycemic agents, and lipid-lowering agents.
 
+Table 2: IDNT: Primary Efficacy Outcome Within Subgroups
+
 | Baseline Factors | AVAPRO N=579 (%) | Placebo N=569 (%) | Hazard Ratio | 95% Cl |
 | --- | --- | --- | --- | --- |
-| Table 2: | IDNT: Primary Efficacy Outcome Within Subgroups |  |  |  |
 |  |  | Comparison With Placebo |  |  |
 | Gender |  |  |  |  |
 | Male | 27.5 | 36.7 | 0.68 | 0.53-0.88 |

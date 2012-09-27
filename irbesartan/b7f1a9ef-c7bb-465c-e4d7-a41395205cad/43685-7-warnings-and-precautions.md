@@ -77,6 +77,14 @@ Monitor renal function periodically in patients receiving irbesartan and NSAID t
 
 The antihypertensive effect of angiotensin II receptor antagonists, including irbesartan, may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
+### Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin-receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function, and electrolytes in patients on AVAPRO and other agents that affect the RAS.
+
+Do not coadminister aliskiren with AVAPRO in patients with diabetes.
+Avoid use of aliskiren with AVAPRO in patients with renal impairment (GFR <60 mL/min).
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No evidence of carcinogenicity was observed when irbesartan was administered at doses of up to 500/1000 mg/kg/day (males/females, respectively) in rats and 1000 mg/kg/day in mice for up to 2 years.
