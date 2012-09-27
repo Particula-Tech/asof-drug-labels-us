@@ -45,7 +45,7 @@ Based on a limited number (N=8) of mother/infant pairs, calculated infant daily 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of SEROQUEL XR have not been established in pediatric patients and SEROQUEL XR is not approved for patients under the age of 18 years [see Warnings and Precautions (5) and Adverse Reactions (6)].
+Safety and effectiveness of SEROQUEL XR have not been established in pediatric patients and SEROQUEL XR is not approved for patients under the age of 18 years [see Warnings and Precautions (5)and Adverse Reactions (6)].
 
 In general, the adverse reactions observed in children and adolescents during the clinical trials with SEROQUEL were similar to those in the adult population with few exceptions.
 Increases in systolic and diastolic blood pressure occurred in children and adolescents and did not occur in adults.
@@ -56,7 +56,7 @@ Orthostatic hypotension occurred more frequently in adults (4-7%) compared to ch
 Sixty-eight patients in clinical studies with SEROQUEL XR were 65 years of age or over.
 In general, there was no indication of any different tolerability of SEROQUEL XR in the elderly compared to younger adults.
 Nevertheless, the presence of factors that might decrease pharmacokinetic clearance, increase the pharmacodynamic response to SEROQUEL XR, or cause poorer tolerance or orthostasis, should lead to consideration of a lower starting dose, slower titration, and careful monitoring during the initial dosing period in the elderly.
-The mean plasma clearance of quetiapine was reduced by 30% to 50% in elderly patients when compared to younger patients [see Dosage and Administration (2.4) and Pharmacokinetics (12.3)].
+The mean plasma clearance of quetiapine was reduced by 30% to 50% in elderly patients when compared to younger patients [see Dosage and Administration (2.4)and Pharmacokinetics (12.3)].
 
 ## 8.6 Renal Impairment
 

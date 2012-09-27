@@ -89,7 +89,7 @@ Changes in these parameters should be managed as clinically appropriate.
 
 Adults:
 
-Table 2: Fasting Glucose—Proportion of Patients Shifting to ≥ 126 mg/dL in short-term (≤ 12 weeks) Placebo-Controlled StudiesIncludes SEROQUEL and SEROQUEL XR data.
+Table 2 Fasting Glucose—Proportion of Patients Shifting to ≥ 126 mg/dL in short-term (≤ 12 weeks) Placebo-Controlled StudiesIncludes SEROQUEL and SEROQUEL XR data
 
 | LaboratoryAnalyte | Category Change(At Least Once)from Baseline | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
@@ -106,7 +106,7 @@ The exposure-adjusted rate of any increased blood glucose level (≥ 126 mg/dL) 
 
 Table 3 shows the percentage of patients with shifts in blood glucose to ≥ 126 mg/dL from normal baseline in MDD adjunct therapy trials by dose.
 
-Table 3: Percentage of Patients with Shifts from Normal Baseline in Blood Glucose to ≥ 126 mg/dL (assumed fasting) in MDD Adjunct Therapy Trials by Dose
+Table 3 Percentage of Patients with Shifts from Normal Baseline in Blood Glucose to ≥ 126 mg/dL (assumed fasting) in MDD Adjunct Therapy Trials by Dose
 
 | Laboratory Analyte | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- |
@@ -131,7 +131,7 @@ Adults:
 
 Table 4 shows the percentage of patients with changes in cholesterol and triglycerides from baseline by indication in clinical trials with SEROQUEL XR.
 
-Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
+Table 4 Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
 
 | Laboratory Analyte | Indication | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
@@ -175,22 +175,22 @@ Lipid parameters were not measured in the bipolar mania studies.
 
 Table 5 shows the percentage of patients in MDD adjunctive therapy trials with clinically significant shifts in total-cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline by dose.
 
-Table 5: Percentage of Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels in MDD Adjunctive Therapy Trials by Dose
+Table 5 Percentage of Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels in MDD Adjunctive Therapy Trials by Dose
 
 | Laboratory Analyte | Treatment Arm6 weeks duration | N | Patients n (%) |
 | --- | --- | --- | --- |
 | Cholesterol ≥ 240 mg/dL | Placebo | 213 | 15 (7%) |
-| SEROQUEL XR150 mg | 223 | 41 (18%) |  |
-| SEROQUEL XR300 mg | 197 | 26 (13%) |  |
+| SEROQUEL XR 150 mg | 223 | 41 (18%) |  |
+| SEROQUEL XR 300 mg | 197 | 26 (13%) |  |
 | Triglycerides ≥ 200 mg/dL | Placebo | 223 | 18 (8%) |
-| SEROQUEL XR150 mg | 232 | 36 (16%) |  |
-| SEROQUEL XR300 mg | 226 | 39 (17%) |  |
+| SEROQUEL XR 150 mg | 232 | 36 (16%) |  |
+| SEROQUEL XR 300 mg | 226 | 39 (17%) |  |
 | LDL-Cholesterol ≥ 160 mg/dL | Placebo | 219 | 21 (10%) |
-| SEROQUEL XR150 mg | 242 | 29 (12%) |  |
-| SEROQUEL XR300 mg | 215 | 22 (10%) |  |
+| SEROQUEL XR 150 mg | 242 | 29 (12%) |  |
+| SEROQUEL XR 300 mg | 215 | 22 (10%) |  |
 | HDL-Cholesterol ≤ 40 mg/dL | Placebo | 230 | 19 (8%) |
-| SEROQUEL XR150 mg | 238 | 14 (6%) |  |
-| SEROQUEL XR300 mg | 232 | 20 (9%) |  |
+| SEROQUEL XR 150 mg | 238 | 14 (6%) |  |
+| SEROQUEL XR 300 mg | 232 | 20 (9%) |  |
 
 Children and Adolescents:
 
@@ -198,7 +198,7 @@ Safety and effectiveness of SEROQUEL XR have not been established in pediatric p
 
 Table 6 shows the percentage of children and adolescents with shifts in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline to clinically significant levels by indication in clinical trials with SEROQUEL.
 
-Table 6: Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides LDL-Cholesterol and HDLCholesterol from Baseline to Clinically Significant Levels by Indication
+Table 6 Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides LDL-Cholesterol and HDLCholesterol from Baseline to Clinically Significant Levels by Indication
 
 | LaboratoryAnalyte | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -206,7 +206,7 @@ Table 6: Percentage of Children and Adolescents with Shifts in Total Cholesterol
 | Placebo | 56 | 1 (2%) |  |  |
 | Bipolar Mania10-17 years, 3 weeks duration | SEROQUEL | 159 | 16 (10%) |  |
 | Placebo | 66 | 2 (3%) |  |  |
-| Triglycerides ≥150 mg/dL | Schizophrenia | SEROQUEL | 103 | 17 (17%) |
+| Triglycerides ≥150 mg/dL | Schizophrenia13-17 years, 6 weeks duration | SEROQUEL | 103 | 17 (17%) |
 | Placebo | 51 | 4 (8%) |  |  |
 | Bipolar Mania | SEROQUEL | 149 | 32 (22%) |  |
 | Placebo | 60 | 8 (13%) |  |  |
@@ -229,7 +229,7 @@ Changes in these parameters should be managed as clinically appropriate.
 
 Adults: Table 7 shows the percentage of adult patients with weight gain of ≥ 7% of body weight by indication.
 
-Table 7: Percentage of Patients with Weight Gain ≥7% of Body Weight (Adults) by Indication
+Table 7 of Patients with Weight Gain ≥7% of Body Weight (Adults) by Indication
 
 | Vital sign | Indication | Treatment Arm | N | Patients n% |
 | --- | --- | --- | --- | --- |
@@ -246,7 +246,7 @@ In schizophrenia trials, the proportions of patients meeting a weight gain crite
 
 Table 8 shows the percentage of adult patients with weight gain of ≥ 7% of body weight for MDD by dose.
 
-Table 8: Percentage of Patients with Weight Gain ≥ 7% of Body Weight in MDD Adjunctive Therapy Trials by Dose (Adults)
+Table 8 Percentage of Patients with Weight Gain ≥ 7% of Body Weight in MDD Adjunctive Therapy Trials by Dose (Adults)
 
 | Vital sign | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- |
@@ -259,7 +259,7 @@ In two clinical trials with SEROQUEL, one in bipolar mania and one in schizophre
 
 Table 9 shows the percentage of patients with weight gain ≥ 7% of body weight in clinical trials with SEROQUEL.
 
-Table 9: Percentage of Patients with Weight Gain ≥7% of Body Weight (Children and Adolescents)
+Table 9 Percentage of Patients with Weight Gain ≥7% of Body Weight (Children and Adolescents)
 
 | Vital Sign | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -366,7 +366,7 @@ In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 10 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
 
-Table 10: Incidence of potentially clinically significant shifts in thyroid hormone levels and TSH in short term placebo-controlled clinical trialsBased on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
+Table 10 Incidence of potentially clinically significant shifts in thyroid hormone levels and TSH in short term placebo-controlled clinical trialsBased on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
 Shifts in total T4,,includes SEROQUEL and SEROQUEL XR data.
 
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |

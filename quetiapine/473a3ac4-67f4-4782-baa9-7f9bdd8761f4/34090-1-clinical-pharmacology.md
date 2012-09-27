@@ -97,7 +97,7 @@ Drug-Drug Interactions
 In vitro enzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivo metabolism mediated by cytochromes P450 1A2, 2C9, 2C19, 2D6 and 3A4.
 
 Quetiapine oral clearance is increased by the prototype cytochrome P450 3A4 inducer, phenytoin, and decreased by the prototype cytochrome P450 3A4 inhibitor, ketoconazole.
-Dose adjustment of quetiapine will be necessary if it is coadministered with phenytoin or ketoconazole [see Dosage and Administration (2.4) and Drug Interactions (7.1)].
+Dose adjustment of quetiapine will be necessary if it is coadministered with phenytoin or ketoconazole [see Dosage and Administration (2.4)and Drug Interactions (7.1)].
 
 Quetiapine oral clearance is not inhibited by the non-specific enzyme inhibitor, cimetidine.
 
