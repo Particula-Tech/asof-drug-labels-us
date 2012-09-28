@@ -12,9 +12,9 @@ In the cat, sumatriptan selectively constricts the carotid arteriovenous anastom
 
 ## Pharmacokinetics
 
-The mean maximum concentration following oral dosing with 25 mg is 18 ng/mL (range, 7 to 47 ng/mL) and 51 ng/mL (range, 28 to 100 ng/mL) following oral dosing with 100 mg of sumatriptan.
+The mean maximum concentration following oral dosing with 25 mg is 18 ng/mL (range: 7 to 47 ng/mL) and 51 ng/mL (range: 28 to 100 ng/mL) following oral dosing with 100 mg of sumatriptan.
 This compares with a C max of 5 and 16 ng/mL following dosing with a 5 and 20 mg intranasal dose, respectively.
-The mean C max following a 6 mg subcutaneous injection is 71 ng/mL (range, 49 to 110 ng/mL).
+The mean C max following a 6 mg subcutaneous injection is 71 ng/mL (range: 49 to 110 ng/mL).
 The bioavailability is approximately 15%, primarily due to presystemic metabolism and partly due to incomplete absorption.
 The C max is similar during a migraine attack and during a migraine-free period, but the T max is slightly later during the attack, approximately 2.5 hours compared to 2 hours.
 When given as a single dose, sumatriptan displays dose proportionality in its extent of absorption (area under the curve [AUC]) over the dose range of 25 to 200 mg, but the C max after 100 mg is approximately 25% less than expected (based on the 25 mg dose).
@@ -35,7 +35,7 @@ Renal Impairment The effect of renal impairment on the pharmacokinetics of sumat
 Hepatic Impairment The liver plays an important role in the presystemic clearance of orally administered sumatriptan.
 Accordingly, the bioavailability of sumatriptan following oral administration may be markedly increased in patients with liver disease.
 In 1 small study of hepatically impaired patients (N = 8) matched for sex, age, and weight with healthy subjects, the hepatically impaired patients had an approximately 70% increase in AUC and C max and a T max 40 minutes earlier compared to the healthy subjects (see DOSAGE AND ADMINISTRATION ).
-Age The pharmacokinetics of oral sumatriptan in the elderly (mean age, 72 years; 2 males and 4 females) and in patients with migraine (mean age, 38 years; 25 males and 155 females) were similar to that in healthy male subjects (mean age, 30 years) (see PRECAUTIONS: Geriatric Use ).
+Age The pharmacokinetics of oral sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in patients with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years) (see PRECAUTIONS: Geriatric Use ).
 Gender In a study comparing females to males, no pharmacokinetic differences were observed between genders for AUC, C max , T max , and half-life.
 Race The systemic clearance and C max of sumatriptan were similar in black (N = 34) and Caucasian (N = 38) healthy male subjects.
 
@@ -73,9 +73,10 @@ Because studies are conducted at different times, with different samples of pati
 Table 1.
 Percentage of Patients With Headache Response (No or Mild Pain) 2 and 4 Hours Following Treatment
 
-|  | 2 hr | 4 hr | 2 hr | 4 hr | 2 hr | 4 hr | 2 hr | 4 hr |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Placebo |  | Sumatriptan Tablets 25 mg |  | Sumatriptan Tablets 50 mg |  | Sumatriptan Tablets 100 mg |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | PlaceboPlacebo |  | Sumatriptan Tablets 25 mgSumatriptan Tablets 25 mg |  | Sumatriptan Tablets 50 mgSumatriptan Tablets 50 mg |  | Sumatriptan Tablets 100 mgSumatriptan Tablets 100 mg |  |
+|  | 2 hr | 4 hr | 2 hr | 4 hr | 2 hr | 4 hr | 2 hr | 4 hr |
 | Study 1 | 27% | 38% | 52%* | 67%* | 61%*† | 78%*† | 62%*† | 79%*† |
 | (N = 94) |  | (N = 298) |  | (N = 296) |  | (N = 296) |  |  |
 | Study 2 | 26% | 38% | 52%* | 70%* | 50%* | 68%* | 56%* | 71%* |
