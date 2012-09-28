@@ -1,23 +1,27 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-METHADONE HYDROCHLORIDE Oral Solution, USP
+## 16.1 Storage and Handling
 
-5 mg per 5 mL clear, orange-colored, citrus-flavored solution
-
-NDC 0054-3555-63: Bottles of 500 mL.
-
-10 mg per 5 mL clear, orange-colored, citrus-flavored solution
-
-NDC 0054-3556-63: Bottles of 500 mL.
+Methadone is a controlled substance.
+Like fentanyl, morphine, oxycodone, hydromorphone, and oxymorphone, methadone is controlled under Schedule II of the Federal Controlled Substances Act.
+Methadone may be targeted for theft and diversion by criminals [see Warnings and Precautions (5.1)].
 
 Dispense in a tight, light-resistant container as defined in the USP/NF.
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 
-DEA order form required.
+## 16.2 How Supplied
 
-4056301//02
+Methadone Hydrochloride Oral Solution USP
 
-Revised February 2007
+Methadone Hydrochloride Oral Solution USP 5 and 10 mg per 5 mL is an orange-colored, citrus-flavored solution available in two strengths as follows:
 
-© RLI, 2007
+5 mg per 5 mL Oral Solution
+
+NDC 0054-3555-63: Bottles of 500 mL
+
+10 mg per 5 mL Oral Solution
+
+NDC 0054-3556-63: Bottles of 500 mL
+
+DEA order form required

@@ -1,33 +1,95 @@
-Deaths, cardiac and respiratory, have been reported during initiation and conversion of pain patients to methadone treatment from treatment with other opioid agonists.
-It is critical to understand the pharmacokinetics of methadone when converting patients from other opioids (see DOSAGE AND ADMINISTRATION).
-Particular vigilance is necessary during treatment initiation, during conversion from one opioid to another, and during dose titration.
+# WARNING: ABUSE POTENTIAL, LIFE-THREATENING RESPIRATORY DEPRESSION, LIFE-THREATENING QT PROLONGATION, ACCIDENTAL EXPOSURE, and TREATMENT FOR OPIOID ADDICTION
 
-Respiratory depression is the chief hazard associated with methadone hydrochloride administration.
-Methadone's peak respiratory depressant effects typically occur later, and persist longer than its peak analgesic effects, particularly in the early dosing period.
-These characteristics can contribute to cases of iatrogenic overdose, particularly during treatment initiation and dose titration.
+Abuse Potential
 
-In addition, cases of QT interval prolongation and serious arrhythmia (torsades de pointes) have been observed during treatment with methadone.
+Methadone is an opioid agonist and Schedule II controlled substance with an abuse liability similar to other opioid agonists, legal or illicit [see Warnings and Precautions (5.1)].
+Assess each patient’s risk for opioid abuse or addiction prior to prescribing methadone.
+The risk for opioid abuse is increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depressive disorder).
+Routinely monitor all patients receiving methadone for signs of misuse, abuse, and addiction during treatment [see Drug Abuse and Dependence (9)].
+
+Life-Threatening Respiratory Depression
+
+Respiratory depression, including fatal cases, have been reported during initiation and conversion of patients to methadone, and even when the drug has been used as recommended and not misused or abused [see Warnings an Precautions (5.2)].
+Proper dosing and titration are essential and methadone should only be prescribed by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
+Monitor for respiratory depression, especially during initiation of methadone or following a dose increase.
+The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak analgesic effect, especially during the initial dosing period.
+
+Life-Threatening QT Prolongation
+
+QT interval prolongation and serious arrhythmia (torsades de pointes) have occurred during treatment with methadone.
 Most cases involve patients being treated for pain with large, multiple daily doses of methadone, although cases have been reported in patients receiving doses commonly used for maintenance treatment of opioid addiction.
+Closely monitor patients for changes in cardiac rhythm during initiation and titration of methadone.
 
-Methadone treatment for analgesic therapy in patients with acute or chronic pain should only be initiated if the potential analgesic or palliative care benefit of treatment with methadone is considered and outweighs the risks.
+Accidental Exposure
+
+Accidental ingestion of Methadone Hydrochloride Oral Solution USP, especially in children, can result in a fatal overdose of methadone [see Warnings and Precautions (5.4)].
 
 Conditions For Distribution And Use Of Methadone Products For The Treatment Of Opioid Addiction
 
-Code of Federal Regulations, Title 42, Sec 8
+For detoxification and maintenance of opioid dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8, including limitations on unsupervised administration [see Indications and Usage(1)].
 
-Methadone products when used for the treatment of opioid addiction in detoxification or maintenance programs, shall be dispensed only by opioid treatment programs (and agencies, practitioners or institutions by formal agreement with the program sponsor) certified by the Substance Abuse and Mental Health Services Administration and approved by the designated state authority.
-Certified treatment programs shall dispense and use methadone in oral form only and according to the treatment requirements stipulated in the Federal Opioid Treatment Standards (42 CFR 8.12).
-See below for important regulatory exceptions to the general requirement for certification to provide opioid agonist treatment.
+For detoxification and maintenance of opioid dependence methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8.12, including limitations on unsupervised administration.
 
-Failure to abide by the requirements in these regulations may result in criminal prosecution, seizure of the drug supply, revocation of the program approval, and injunction precluding operation of the program.
+Methadone is:
 
-For detoxification and maintenance of opiate dependence methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8.12, including limitations on unsupervised administration.
+- A strong prescription pain medicine, an opioid (narcotic) that is used to treat moderate to severe around-the-clock pain.
+- Used to manage drug addiction.
 
-WARNINGS
+Important information about Methadone:
 
-Keep Methadone Hydrochloride Oral Solution out of the reach of children.
-Accidental overdose by a child is a medical emergency and can result in death.
-If a child accidentally takes methadone, get emergency help right away.
+- Get emergency help right away if you take too much Methadone (overdose).
+  Methadone overdose can cause life threatening breathing problems that can lead to death.
+- Never give anyone else your Methadone.
+  They could die from taking it.
+  Store Methadone away from children and in a safe place to prevent stealing or abuse.
+  Selling or giving away Methadone is against the law.
 
-Do not take a higher dose of Methadone Hydrochloride Oral Solution or take it more often than prescribed.
-This can lead to an overdose and possible death.
+Do not take Methadone if you have:
+
+- Severe asthma, trouble breathing, or other lung problems.
+- A bowel blockage or have narrowing of the stomach or intestines.
+
+Before taking Methadone, tell your healthcare provider if you have a history of:
+
+- head injury, seizures
+- heart, liver, kidney, thyroid problems
+- problems urinating
+- pancreas or gallbladder problems
+- abuse of street or prescription drugs, alcohol addiction, or mental health problems.
+
+Tell your healthcare provider if you are:
+
+- pregnant or planning to become pregnant.
+  Methadone may harm your unborn baby.
+- breastfeeding.
+  Methadone passes into breast milk and may harm your baby.
+- taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
+
+When taking Methadone:
+
+- Do not change your dose.
+  Take Methadone exactly as prescribed by your healthcare provider.
+- Do not take more than your prescribed dose in 24 hours.
+  If you take Methadone for pain and miss a dose, take Methadone as soon as possible and then take your next dose 8 or 12 hours later as directed by your healthcare provider.
+  If it is almost time for your next dose, skip the missed dose and go back to your regular dosing schedule.
+- If you take Methadone for opioid addiction, take your next dose the following day as scheduled.
+  Do not take extra doses.
+  Taking more than the prescribed dose may cause you to overdose because Methadone builds up in your body over time.
+- Call your healthcare provider if the dose you are taking does not control your pain.
+- Do not stop taking Methadone without talking to your healthcare provider.
+- After you stop taking Methadone, flush any unused Methadone down the toilet.
+
+While taking Methadone Do Not:
+
+- Drive or operate heavy machinery, until you know how Methadone affects you.
+  Methadone can make you sleepy, dizzy, or lightheaded.
+- Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
+
+The possible side effects of Methadone are:
+
+- constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness.
+  Call your healthcare provider if you have any of these symptoms and they are severe.
+
+Get emergency medical help if you have:
+
+- trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, or you are feeling faint.
