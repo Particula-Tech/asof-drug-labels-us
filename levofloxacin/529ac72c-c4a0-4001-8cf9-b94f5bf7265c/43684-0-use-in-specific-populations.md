@@ -16,11 +16,14 @@ Because of the potential for serious adverse reactions from levofloxacin in nurs
 ## 8.4 Pediatric Use
 
 Quinolones, including levofloxacin, cause arthropathy and osteochondrosis in juvenile animals of several species [see Warnings and Precautions (5.10) and Animal Toxicology and/or Pharmacology (13.2)] .
-Inhalational Anthrax (Post-Exposure) Levofloxacin is indicated in pediatric patients for inhalational anthrax (post-exposure).
+Inhalational Anthrax (Post-Exposure) Levofloxacin is indicated in pediatric patients 6 months of age and older, for inhalational anthrax (post-exposure).
 The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate.
-The safety of levofloxacin in pediatric patients treated for more than 14 days has not been studied.
-The pharmacokinetics of levofloxacin following a single intravenous dose were investigated in pediatric patients ranging in age from six months to 16 years.
-Pediatric patients cleared levofloxacin faster than adult patients resulting in lower plasma exposures than adults for a given mg/kg dose [see Indications and Usage (1.13), Dosage and Administration (2.2), Clinical Pharmacology (12.3) and Clinical Studies (14.9)] .
+The safety of levofloxacin in pediatric patients treated for more than 14 days has not been studied [see Indications and Usage (1.13), Dosage and Administration (2.2) and Clinical Studies (14.9)] .
+Plague Levofloxacin is indicated in pediatric patients, 6 months of age and older, for treatment of plague, including pneumonic and septicemic plague due to Yersinia pestis ( Y. pestis ) and prophylaxis for plague.
+Efficacy studies of levofloxacin could not be conducted in humans with pneumonic plague for ethical and feasibility reasons.
+Therefore, approval of this indication was based on an efficacy study conducted in animals.
+The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate [see Indications and Usage (1.14), Dosage and Administration (2.2) and Clinical Studies (14.10)].
+Safety and effectiveness in pediatric patients below the age of six months have not been established.
 Adverse Events In clinical trials, 1534 children (6 months to 16 years of age) were treated with oral and intravenous levofloxacin.
 Children 6 months to 5 years of age received levofloxacin 10 mg/kg twice a day and children greater than 5 years of age received 10 mg/kg once a day (maximum 500 mg per day) for approximately 10 days.
 A subset of children in the clinical trials (1340 levofloxacin-treated and 893 non-fluoroquinolone-treated) enrolled in a prospective, long-term surveillance study to assess the incidence of protocol-defined musculoskeletal disorders (arthralgia, arthritis, tendinopathy, gait abnormality) during 60 days and 1 year following the first dose of the study drug.
