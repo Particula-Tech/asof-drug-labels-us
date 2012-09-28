@@ -1,8 +1,23 @@
 # WARNINGS
 
+## Lithium Toxicity
+
+Lithium toxicity is closely related to serum lithium concentrations and can occur at doses close to the therapeutic concentrations (see DOSAGE AND ADMINISTRATION).
+
+Outpatients and their families should be warned that the patient must discontinue lithium therapy and contact his physician if such clinical signs of lithium toxicity as diarrhea, vomiting, tremor, mild ataxia, drowsiness, or muscular weakness occur.
+
 Lithium should generally not be given to patients with significant renal or cardiovascular disease, severe debilitation, dehydration, sodium depletion, and to patients receiving diuretics, or angiotensin converting enzyme (ACE) inhibitors, since the risk of lithium toxicity is very high in such patients.
 If the psychiatric indication is life threatening, and if such a patient fails to respond to other measures, lithium treatment may be undertaken with extreme caution, including daily serum lithium determinations and adjustment to the usually low doses ordinarily tolerated by these individuals.
 In such instances, hospitalization is a necessity.
+
+## Unmasking of Brugada Syndrome
+
+There have been postmarketing reports of a possible association between treatment with lithium and the unmasking of Brugada Syndrome.
+Brugada Syndrome is a disorder characterized by abnormal electrocardiographic (ECG) findings and a risk of sudden death.
+Lithium should generally be avoided in patients with Brugada Syndrome or those suspected of having Brugada Syndrome.
+Consultation with a cardiologist is recommended if: (1) treatment with lithium is under consideration for patients suspected of having Brugada Syndrome or patients who have risk factors for Brugada Syndrome, e.g., unexplained syncope, a family history of Brugada Syndrome, or a family history of sudden unexplained death before the age of 45 years, (2) patients who develop unexplained syncope or palpitations after starting lithium therapy.
+
+## Renal Effects
 
 Chronic lithium therapy may be associated with diminution of renal concentrating ability, occasionally presenting as nephrogenic diabetes insipidus, with polyuria and polydipsia.
 Such patients should be carefully managed to avoid dehydration with resulting lithium retention and toxicity.
@@ -16,14 +31,14 @@ Kidney function should be assessed prior to and during lithium therapy.
 Routine urinalysis and other tests may be used to evaluate tubular function (e.g., urine specific gravity or osmolality following a period of water deprivation, or 24-hour urine volume) and glomerular function (e.g., serum creatinine or creatinine clearance).
 During lithium therapy, progressive or sudden changes in renal function, even within the normal range, indicate the need for re-evaluation of treatment.
 
+## Encephalopathic Syndrome
+
 An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN and FBS) has occurred in a few patients treated with lithium plus a neuroleptic, most notably haloperidol.
 In some instances, the syndrome was followed by irreversible brain damage.
 Because of possible causal relationship between these events and the concomitant administration of lithium and neuroleptic drugs, patients receiving such combined therapy or patients with organic brain syndrome or other CNS impairment should be monitored closely for early evidence of neurologic toxicity and treatment discontinued promptly if such signs appear.
 This encephalopathic syndrome may be similar to or the same as Neuroleptic Malignant Syndrome (NMS).
 
-Lithium toxicity is closely related to serum lithium concentrations and can occur at doses close to the therapeutic concentrations (see DOSAGE AND ADMINISTRATION).
-
-Outpatients and their families should be warned that the patient must discontinue lithium therapy and contact his physician if such clinical signs of lithium toxicity as diarrhea, vomiting, tremor, mild ataxia, drowsiness, or muscular weakness occur.
+## Concomitant Use With Neuromuscular Blocking Agents
 
 Lithium may prolong the effects of neuromuscular blocking agents.
 Therefore, neuromuscular blocking agents should be given with caution to patients receiving lithium.
@@ -72,7 +87,7 @@ See WARNINGS for additional caution information.
 
 Concomitant administration of carbamazepine and lithium may increase the risk of neurotoxic side effects.
 
-The following drugs can lower serum lithium concentrations by increasing urinary lithium excretion: acetazolamide, urea, xanthine preparations and alkalinizing agents such as sodium bicarbonate.
+The following drugs can lower serum lithium concentrations by increasing urinary lithium excretion: acetazolamide, urea, xanthine preparations, and alkalinizing agents such as sodium bicarbonate.
 
 Concomitant extended use of iodide preparations, especially potassium iodide, with lithium may produce hypothyroidism.
 
@@ -95,19 +110,19 @@ In a study conducted in healthy subjects, mean steady-state lithium plasma level
 Lithium may impair mental and/or physical abilities.
 Patients should be cautioned about activities requiring alertness (e.g., operating vehicles or machinery).
 
-## Pregnancy
+## Usage in Pregnancy
 
 ### Pregnancy Category D
 
-(see WARNINGS: Usage in Pregnancy).
+(see WARNINGS).
 
-## Nursing Mothers
+## Usage in Nursing Mothers
 
-Because of the potential for serious adverse reactions in nursing infants and neonates from lithium, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother (see WARNINGS: Usage in Nursing Mothers).
+Because of the potential for serious adverse reactions in nursing infants and neonates from lithium, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother (see WARNINGS).
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients below the age of 12 have not been established (see WARNINGS: Pediatric Use).
+Safety and effectiveness in pediatric patients below the age of 12 have not been established (see WARNINGS).
 
 ## Geriatric Use
 

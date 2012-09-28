@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS
 
 Lithium Carbonate Extended Release Tablets are indicated in the treatment of manic episodes of Bipolar Disorder.
 Bipolar Disorder, Manic (DSM-IV) is equivalent to Manic Depressive illness, Manic, in the older DSM-II terminology.

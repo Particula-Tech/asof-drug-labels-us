@@ -17,6 +17,6 @@ Store at 20° to 25°C (68° to 77°F).
 Protect from moisture.
 Dispense in tight, child-resistant container as defined in USP/NF.
 
-10002523/04October 2007
+10002523/05 Revised December 2011
 
-© RLI, 2007
+© RLI, 2011
