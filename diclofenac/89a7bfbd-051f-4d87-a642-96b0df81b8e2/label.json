@@ -5,7 +5,9 @@
   "inn": "diclofenac",
   "labeler": "PharmaDerm, A division of Fougera Pharmaceuticals Inc.",
   "package_ndcs": [
-    "10337-803-01"
+    "10337-803-01",
+    "10337-803-08",
+    "10337-803-81"
   ],
   "products": [
     {
