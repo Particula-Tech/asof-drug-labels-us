@@ -90,7 +90,7 @@ As with all vasodilators, enalapril should be given with caution to patients wit
 Impaired Renal Function:
 
 As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals.
-In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with angiotensin converting enzyme inhibitors, including VASOTEC, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death.
+In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with angiotensin converting enzyme inhibitors, including VASOTEC, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death (see PRECAUTIONS, Drug Interactions).
 
 In clinical studies in hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine were observed in 20 percent of patients.
 These increases were almost always reversible upon discontinuation of enalapril and/or diuretic therapy.
@@ -154,6 +154,14 @@ This information is intended to aid in the safe and effective use of this medica
 It is not a disclosure of all possible adverse or intended effects.
 
 Drug Interactions
+
+### Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function, and electrolytes in patients on VASOTEC and other agents that affect the RAS.
+
+Do not coadminister aliskiren with VASOTEC in patients with diabetes.
+Avoid use of aliskiren with VASOTEC in patients with renal impairment (GFR <60 mL/min).
 
 Hypotension — Patients on Diuretic Therapy:
 

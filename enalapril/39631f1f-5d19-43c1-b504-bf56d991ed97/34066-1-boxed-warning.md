@@ -2,6 +2,6 @@
 
 See full prescribing information for complete boxed warning.
 
-- When pregnancy is detected, discontinue Vasotec® as soon as possible.
+- When pregnancy is detected, discontinue VASOTEC® as soon as possible.
 - Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus.
   See Warnings: Fetal Toxicity
