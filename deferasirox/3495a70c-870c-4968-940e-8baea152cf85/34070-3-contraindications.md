@@ -2,7 +2,9 @@
 
 Exjade is contraindicated in patients with:
 
-- creatinine clearance <40 mL/min or serum creatinine >2 times the age-appropriate upper limit of normal;
-- poor performance status and high-risk myelodysplastic syndromes or advanced malignancies [see Warnings and Precautions (5.7)];
-- platelet counts <50 x 109/L;
-- known hypersensitivity to deferasirox or any component of Exjade.
+- Serum creatinine >2 times the age-appropriate upper limit of normal or creatinine clearance <40 mL/min or [see Warning and Precautions (5.1)];
+- Poor performance status;
+- High-risk myelodysplastic syndromes;
+- Advanced malignancies;
+- Platelet counts <50 x 109/L;
+- Known hypersensitivity to deferasirox or any component of Exjade [see Warnings and Precautions (5.6) and Adverse Reactions (6.2)].

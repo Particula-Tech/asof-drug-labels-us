@@ -9,7 +9,7 @@ The clinical significance of these decreases is uncertain.
 
 ## 12.2 Pharmacodynamics
 
-Pharmacodynamic effects tested in an iron balance metabolic study showed that deferasirox (10, 20 and 40 mg/kg per day) was able to induce a mean net iron excretion (0.119, 0.329 and 0.445 mg Fe/kg body weight per day, respectively) within the clinically relevant range (0.1-0.5 mg/kg per day).
+Pharmacodynamic effects tested in an iron balance metabolic study showed that deferasirox (10, 20 and 40 mg per kg per day) was able to induce a mean net iron excretion (0.119, 0.329 and 0.445 mg Fe/kg body weight per day, respectively) within the clinically relevant range (0.1-0.5 mg per kg per day).
 Iron excretion was predominantly fecal.
 
 ## 12.3 Pharmacokinetics
@@ -42,16 +42,37 @@ Deferasirox and metabolites are primarily (84% of the dose) excreted in the fece
 Renal excretion of deferasirox and metabolites is minimal (8% of the administered dose).
 The mean elimination half-life (t1/2) ranged from 8-16 hours following oral administration.
 
+Drug Interactions
+
+Midazolam: In healthy volunteers, the concomitant administration of Exjade and midazolam (a CYP3A4 probe substrate) resulted in a decrease of midazolam peak concentration by 23% and exposure by 17%.
+In the clinical setting, this effect may be more pronounced.
+The study was not adequately designed to conclusively assess the potential induction of CYP3A4 by deferasirox [see Drug Interactions (7.2)].
+
+Repaglinide: In a healthy volunteer study, the concomitant administration of Exjade (30 mg per kg/day for 4 days) and the CYP2C8 probe substrate repaglinide (single dose of 0.5 mg) resulted in an increase in repaglinide systemic exposure (AUC) to 2.3-fold of control and an increase in Cmax of 62% [see Drug Interactions (7.3)].
+
+Theophylline: In a healthy volunteer study, the concomitant administration of Exjade (repeated dose of 30 mg per kg/day) and the CYP1A2 substrate theophylline (single dose of 120 mg) resulted in an approximate doubling of the theophylline AUC and elimination half-life.
+The single dose Cmax was not affected, but an increase in theophylline Cmax is expected to occur with chronic dosing [see Drug Interactions (7.4].
+
+Rifampicin: In a healthy volunteer study, the concomitant administration of Exjade (single dose of 30 mg per kg) and the potent UDP-glucuronosyltransferase (UGT) inducer rifampicin (600 mg/day for 9 days) resulted in a decrease of deferasirox systemic exposure (AUC) by 44% [see Drug Interactions (7.5)].
+
+Cholesytramine: The concomitant use of Exjade with bile acid sequestrants may result in a decrease in Exjade efficacy.
+In healthy volunteers, the administration of cholesytramine after a single dose of deferasirox resulted in a 45% decrease in deferasirox exposure (AUC) [see Drug Interactions (7.6)].
+
+In vitro studies:
+
+- Cytochrome P450 Enzymes: Deferasirox inhibits human CYP3A4, CYP2C8, CYP1A2, CYP2A6, CYP2D6, and CYP2C19 in vitro.
+- Transporter Systems: The addition of cyclosporin A (PgP/MRP1/MRP2 inhibitor) or verapamil (PgP/MRP1 inhibitor) did not influence ICL670 permeability in vitro.
+
 Pharmacokinetics in Special Populations
 
 Pediatric: Following oral administration of single or multiple doses, systemic exposure of adolescents and children to deferasirox was less than in adult patients.
 In children <6 years of age, systemic exposure was about 50% lower than in adults.
 
-Geriatric: The pharmacokinetics of deferasirox have not been studied in geriatric patients (65 years of age or older).
+Geriatric: The pharmacokinetics of deferasirox have not been studied in elderly patients (65 years of age or older).
 
 Gender: Females have a moderately lower apparent clearance (by 17.5%) for deferasirox compared to males.
 
 ## 12.6 QT Prolongation
 
-The effect of 20 and 40 mg/kg per day of deferasirox on the QT interval was evaluated in a single-dose, double-blind, randomized, placebo- and active-controlled (moxifloxacin 400 mg), parallel group study in 182 healthy male and female volunteers age 18-65 years.
+The effect of 20 and 40 mg per kg per day of deferasirox on the QT interval was evaluated in a single-dose, double-blind, randomized, placebo- and active-controlled (moxifloxacin 400 mg), parallel group study in 182 healthy male and female volunteers age 18-65 years.
 No evidence of prolongation of the QTc interval was observed in this study.

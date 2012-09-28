@@ -1,46 +1,37 @@
 # 7 DRUG INTERACTIONS
 
+## 7.1 Aluminum Containing Antacid Preparations
+
 The concomitant administration of Exjade and aluminum-containing antacid preparations has not been formally studied.
-Although deferasirox has a lower affinity for aluminum than for iron, do not administer Exjade with aluminum-containing antacid preparations.
+Although deferasirox has a lower affinity for aluminum than for iron, avoid use of Exjade with aluminum-containing antacid preparations due to the mechanism of action of Exjade.
 
-## 7.1 Effect of Deferasirox on Drug Metabolizing Enzymes
+## 7.2 Agents Metabolized by CYP3A4
 
-Deferasirox inhibits human CYP3A4, CYP2C8, CYP1A2, CYP2A6, CYP2D6, and CYP2C19 in vitro.
-The clinical significance of deferasirox inhibition of CYP2A6, CYP2D6, and CYP2C19 is unknown.
+Deferasirox may induce CYP3A4 resulting in a decrease in CYP3A4 substrate concentration when these drugs are coadministered.
+Closely monitor patients for signs of reduced effectiveness when deferasirox is administered with drugs metabolized by CYP3A4 (e.g., alfentanil, aprepitant, budesonide, buspirone, conivaptan, cyclosporine, darifenacin, darunavir, dasatinib, dihydroergotamine, dronedarone, eletriptan, eplerenone, ergotamine, everolimus, felodipine, fentanyl, hormonal contraceptive agents, indinavir, fluticasone, lopinavir, lovastatin, lurasidone, maraviroc, midazolam, nisoldipine, pimozide, quetiapine, quinidine, saquinavir, sildenafil, simvastatin, sirolimus, tacrolimus, tolvaptan, tipranavir, triazolam, ticagrelor, and vardenafil) [see Clinical Pharmacology (12.3)].
 
-## 7.2 Interaction with Midazolam and Other Agents Metabolized by CYP3A4
+## 7.3 Agents Metabolized by CYP2C8
 
-In healthy volunteers, the concomitant administration of Exjade and midazolam (a CYP3A4 probe substrate) resulted in a decrease of midazolam peak concentration by 23 % and exposure by 17%.
-In the clinical setting, this effect may be more pronounced.
-Therefore, due to a possible decrease in CYP3A4 substrate concentration and potential loss of effectiveness, use caution when deferasirox is administered with drugs metabolized by CYP3A4 (e.g., cyclosporine, simvastatin, hormonal contraceptive agents).
-
-## 7.3 Interaction with Repaglinide and Other Agents Metabolized by CYP2C8
-
-In a healthy volunteer study, the concomitant administration of Exjade (30 mg/kg/day for 4 days) and the CYP2C8 probe substrate repaglinide (single dose of 0.5 mg) resulted in an increase in repaglinide systemic exposure (AUC) to 2.3-fold of control and an increase in Cmax of 62%.
+Deferasirox inhibits CYP2C8 resulting in an increase in CYP2C8 substrate (e.g., repaglinide and paclitaxel) concentration when these drugs are coadministered.
 If Exjade and repaglinide are used concomitantly, consider decreasing the dose of repaglinide and perform careful monitoring of blood glucose levels.
-Exercise caution when Exjade and other CYP2C8 substrates like paclitaxel are co-administered.
+Closely monitor patients for signs of exposure related toxicity when Exjade is co-administered with other CYP2C8 substrates [see Clinical Pharmacology (12.3)].
 
-## 7.4 Interaction with Theophylline and Other Agents Metabolized by CYP1A2
+## 7.4 Agents Metabolized by CYP1A2
 
-In a healthy volunteer study, the concomitant administration of Exjade (repeated dose of 30 mg/kg/day) and the CYP1A2 substrate theophylline (single dose of 120 mg) resulted in an approximate doubling of the theophylline AUC and elimination half-life.
-The single dose Cmax was not affected, but an increase in theophylline Cmax is expected to occur with chronic dosing.
-This increase in plasma concentrations could lead to clinically significant theophylline induced CNS or other adverse reactions.
-Avoid the concomitant use of theophylline or other CYP1A2 substrates with a narrow therapeutic index with Exjade.
-If you must co-administer theophylline with Exjade, monitor theophylline concentrations and consider theophylline dose modification.
+Deferasirox inhibits CYP1A2 resulting in an increase in CYP1A2 substrate (e.g., alosetron, caffeine, duloxetine, melatonin, ramelteon, tacrine, theophylline, tizanidine) concentration when these drugs are coadministered.
+An increase in theophylline plasma concentrations could lead to clinically significant theophylline induced CNS or other adverse reactions.
+Avoid the concomitant use of theophylline or other CYP1A2 substrates with a narrow therapeutic index (e.g., tizanidine) with Exjade.
+Monitor theophylline concentrations and consider theophylline dose modification if you must co-administer theophylline with Exjade.
+Closely monitor patients for signs of exposure related toxicity when Exjade is coadministered with other drugs metabolized by CYP1A2 [see Clinical Pharmacology (12.3)].
 
-Use caution when Exjade is administered with other drugs metabolized by CYP1A2 such as cyclobenzaprine, imipramine, haloperidol, fluvoxamine, mexiletine, olanzapine, tizanidine, zileuton, and zolmitriptan.
+## 7.5 Agents Inducing UDP-glucuronosyltransferase (UGT) Metabolism
 
-## 7.5 Interaction with Agents Inducing UDP-glucuronosyltransferase (UGT) Metabolism
-
-In a healthy volunteer study, the concomitant administration of Exjade (single dose of 30 mg/kg) and the potent UDP-glucuronosyltransferase (UGT) inducer rifampicin (600 mg/day for 9 days) resulted in a decrease of deferasirox systemic exposure (AUC) by 44%.
-Therefore, the concomitant use of Exjade with potent UGT inducers (e.g., rifampicin, phenytoin, phenobarbital, ritonavir) may result in a decrease in Exjade efficacy.
-
+Deferasirox is a substrate of UGT1A1 and to a lesser extent UGT1A3.
+The concomitant use of Exjade with potent UGT inducers (e.g., rifampicin, phenytoin, phenobarbital, ritonavir) may result in a decrease in Exjade efficacy due to a possible decrease in deferasirox concentration.
 Avoid the concomitant use of potent UGT inducers with Exjade.
-If you must co-administer these agents together, consider increasing the initial dose of Exjade to 30 mg/kg and monitor serum ferritin levels and clinical responses for further dose modification [see Dosage and Administration (2.2)].
+Consider increasing the initial dose of Exjade if you must co-administer these agents together [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
-## 7.6 Interaction with Cholestyramine
+## 7.6 Bile Acid Sequestrants
 
-The concomitant use of Exjade with cholestyramine may result in a decrease in Exjade efficacy.
-In healthy volunteers, the administration of cholesytramine after a single dose of deferasirox resulted in a 45% decrease in deferasirox exposure (AUC).
-Avoid the concomitant use of cholestyramine with Exjade.
-If you must co-administer these agents together, consider increasing the initial dose of Exjade to 30 mg/kg and monitor serum ferritin levels and clinical responses for further dose modification [see Dosage and Administration (2.2)].
+Avoid the concomitant use of bile acid sequestrants (e.g., cholestyramine, colesevelam, colestipol) with Exjade due to a possible decrease in deferasirox concentration.
+If you must co-administer these agents together, consider increasing the initial dose of Exjade [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].

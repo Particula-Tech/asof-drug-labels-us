@@ -4,10 +4,12 @@
 
 The following adverse reactions are also discussed in other sections of the labeling:
 
-Renal Failure [see Warnings and Precautions (5.1)].
-Hepatic Failure [see Warnings and Precautions (5.2)].
-Fatal and non-fatal Gastrointestinal Bleedings [see Warnings and Precautions (5.3)].
-Cytopenias [see Warnings and Precautions (5.4)].
+- Renal Toxicity, Renal Failure and Proteinuria [see Warnings and Precautions (5.1)]
+- Hepatic Toxicity and Failure [see Warnings and Precautions (5.2)]
+- Gastrointestinal Hemorrhage [see Warnings and Precautions (5.3)]
+- Bone Marrow Suppression [see Warnings and Precautions (5.4)]
+- Skin Rash [see Warnings and Precautions (5.7)]
+- Auditory and Ocular Abnormalities [see Warnings and Precautions (5.9]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -66,9 +68,7 @@ Number (%) of Patients with Increases in Serum Creatinine or SGPT/ALT in Study 1
 Proteinuria
 
 In clinical studies, urine protein was measured monthly.
-Intermittent proteinuria (urine protein/creatinine ratio >0.6 mg/mg) occurred in 18.6% of Exjade-treated patients compared to 7.2% of deferoxamine-treated patients in Study 1.
-Although no patients were discontinued from Exjade in clinical studies up to 1 year due to proteinuria, monthly monitoring is recommended.
-The mechanism and clinical significance of the proteinuria are uncertain.
+Intermittent proteinuria (urine protein/creatinine ratio >0.6 mg/mg) occurred in 18.6% of Exjade-treated patients compared to 7.2% of deferoxamine-treated patients in Study 1 [see Warnings and Precautions (5.1)].
 
 Other Adverse Reactions
 
@@ -78,9 +78,15 @@ Adverse reactions which most frequently led to dose interruption or dose adjustm
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been spontaneously reported during postapproval use of Exjade.
+The following adverse reactions have been spontaneously reported during post-approval use of Exjade.
 Because these reactions are reported voluntarily from a population of uncertain size, in which patients may have received concomitant medication, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure.
 
 Skin and subcutaneous tissue disorders: leukocytoclastic vasculitis, urticaria, alopecia
 
 Immune system disorders: hypersensitivity reactions (including anaphylaxis and angioedema).
+
+Renal and urinary disorders: acute renal failure, tubulointerstitial nephritis
+
+Hepatobiliary disorders: hepatic failure
+
+Gastrointestinal disorders: gastrointestinal hemorrhage

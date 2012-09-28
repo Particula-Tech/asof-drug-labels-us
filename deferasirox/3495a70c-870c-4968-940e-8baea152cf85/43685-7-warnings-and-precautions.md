@@ -1,94 +1,88 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Renal
+## 5.1 Renal Toxicity, Renal Failure and Proteinuria
 
-Acute renal failure, fatal in some patients and requiring dialysis in others, has been reported following the postmarketing use of Exjade (deferasirox).
-Most fatalities occurred in patients with multiple comorbidities and who were in advanced stages of their hematological disorders.
-Monitor serum creatinine and/or creatinine clearance in patients who: are at increased risk of complications, have preexisting renal conditions, are elderly, have comorbid conditions, or are receiving medicinal products that depress renal function.
-Closely monitor the renal function of patients with creatinine clearances between 40 and less than 60 mL/min, particularly in situations where patients have additional risk factors that may further impair renal function such as concomitant medications, dehydration, or severe infections.
+Exjade can cause acute renal failure, fatal in some patients and requiring dialysis in others.
+Post-marketing experience showed that most fatalities occurred in patients with multiple comorbidities and who were in advanced stages of their hematological disorders.
+In the clinical trials, Exjade treated patients experienced dose-dependent increases in serum creatinine.
+These increases occurred at a greater frequency compared to deferoxamine treated patients (38% vs. 14%, respectively, in Study 1 and 36% vs 22%, respectively, in Study 3).
+[see Adverse Reactions (6.1) and (6.2)].
 
-Assess serum creatinine and/or creatinine clearance in duplicate before initiating therapy to establish a reliable pretreatment baseline, due to variations in measurements.
-Monitor serum creatinine and/or creatinine clearance monthly thereafter.
-In patients with additional renal risk factors (see above), monitor serum creatinine and/or creatinine clearance weekly during the first month after initiation or modification of therapy and monthly thereafter.
+Measure serum creatinine in duplicate (due to variations in measurements) and determine the creatinine clearance (estimated by the Cockcroft-Gault method) before initiating therapy in all patients in order to establish a reliable pretreatment baseline.
+Monitor serum creatinine and/or creatinine clearance at least monthly thereafter or more frequently for increases.
+Monitor serum creatinine weekly during the first month after initiation or modification of therapy and at least monthly thereafter.
+Dose reduction, interruption, or discontinuation based on increases in serum creatinine may be necessary.
+[see Dose and Administration (2.4)].
 
-Consider dose reduction, interruption, or discontinuation for increases in serum creatinine.
-If there is a progressive increase in serum creatinine beyond the age-appropriate upper limit of normal, interrupt Exjade use.
-Once the creatinine has returned to within the normal range, therapy with Exjade may be reinitiated at a lower dose followed by gradual dose escalation, if the clinical benefit is expected to outweigh potential risks [see Dose Modifications (2.2)].
+Exjade is contraindicated in patients with creatinine clearance < 40 mL/minute or serum creatinine greater than 2 times the age appropriate upper limit of normal.
 
-In the clinical studies, for increases of serum creatinine on 2 consecutive measures (>33% in patients >15 years of age or >33% and greater than the age-appropriate upper limit of normal in patients <15 years of age), the daily dose of Exjade was reduced by 10 mg/kg.
-Patients with baseline serum creatinine above the upper limit of normal were excluded from clinical studies.
+Renal tubular damage, including Fanconi’s Syndrome, has been reported in patients treated with Exjade, most commonly in children and adolescents with β-thalassemia and serum ferritin levels <1500 mcg/L.
 
-In the clinical studies, Exjade-treated patients experienced dose-dependent increases in serum creatinine.
-These increases occurred at a greater frequency compared to deferoxamine-treated patients (38% vs. 14%, respectively, in Study 1 and 36% vs 22%, respectively, in Study 3).
-Most of the creatinine elevations remained within the normal range [see Adverse Reactions (6.1)].
-There have also been reports of renal tubulopathy in patients treated with Exjade.
-The majority of these patients were children and adolescents with ß-thalassemia and serum ferritin levels <1500 mcg/L.
+Intermittent proteinuria (urine protein/creatinine ratio >0.6 mg/mg) occurred in 18.6% of Exjade-treated patients compared to 7.2% of deferoxamine-treated patients in Study 1.
+In clinical trials, Exjade was temporarily withheld until the urine protein/creatinine ratio fell below 0.6 mg/mg.
+Monthly monitoring for proteinuria is recommended.
+The mechanism and clinical significance of the proteinuria are uncertain [see Adverse Reactions (6.1)].
 
-## 5.2 Hepatic Dysfunction and Failure
+## 5.2 Hepatic Toxicity and Failure
 
-Avoid the use of Exjade in patients with severe (Child-Pugh C) hepatic impairment.
-For patients with moderate (Child-Pugh B) hepatic impairment, a 50% reduction in the starting dose is recommended [see Dosage and Administration (2.2), and Use in Specific Populations (8.7)].
-Closely monitor patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment for efficacy and adverse reactions that may require dose titration.
+Exjade can cause hepatic injury, fatal in some patients.
+In Study 1, 4 patients [1.3%] discontinued Exjade because of hepatic toxicity (drug-induced hepatitis in 2 patients and increased serum transaminases in 2 additional patients).
+Hepatic toxicity appears to be more common in patients greater than 55 years of age.
+Hepatic failure was more common in patients with significant comorbidities, including liver cirrhosis and multiorgan failure [see Adverse Reactions (6.1)].
 
-In Study 1, 4 patients discontinued Exjade because of hepatic abnormalities (drug-induced hepatitis in 2 patients and increased serum transaminases in 2 additional patients).
-There have been postmarketing reports of hepatic failure, some with a fatal outcome, in patients treated with Exjade.
-Most of these events occurred in patients greater than 55 years of age.
-Most reports of hepatic failure involved patients with significant comorbidities, including liver cirrhosis and multiorgan failure.
-Serum transaminases and bilirubin should be monitored before the initiation of treatment, every 2 weeks during the first month and monthly thereafter.
+Measure transaminases (AST and ALT) and bilirubin in all patients before the initiation of treatment and every 2 weeks during the first month and at least monthly thereafter.
 Consider dose modifications or interruption of treatment for severe or persistent elevations.
 
-## 5.3 Gastrointestinal
+Avoid the use of Exjade in patients with severe (Child-Pugh C) hepatic impairment.
+Reduce the starting dose in patients with moderate (Child-Pugh B) hepatic impairment [see Dosage and Administration (2.3), and Use in Specific Populations (8.7)].
+Patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment may be at higher risk for hepatic toxicity.
 
-Fatal GI hemorrhages, especially in elderly patients who had advanced hematologic malignancies and/or low platelet counts, have been reported.
+## 5.3 Gastrointestinal Hemorrhage
+
+GI hemorrhages, including deaths, have been reported, especially in elderly patients who had advanced hematologic malignancies and/or low platelet counts.
 Non-fatal upper GI irritation, ulceration and hemorrhage have been reported in patients, including children and adolescents, receiving Exjade [see Adverse Reactions (6.1)].
-Physicians and patients should remain alert for signs and symptoms of GI ulceration and hemorrhage during Exjade therapy and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected.
-Use caution when administering Exjade in combination with drugs that have ulcerogenic or hemorrhagic potential, such as non-steroidal anti-inflammatory drugs (NSAIDs), corticosteroids, oral bisphosphonates, or anticoagulants.
+Physicians and patients should monitor for signs and symptoms of GI ulceration and hemorrhage during Exjade therapy and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected.
+The risk of gastrointestinal hemorrhage may be increased when administering Exjade in combination with drugs that have ulcerogenic or hemorrhagic potential, such as non-steroidal anti-inflammatory drugs (NSAIDs), corticosteroids, oral bisphosphonates, or anticoagulants.
 
-## 5.4 Cytopenias
+## 5.4 Bone Marrow Suppression
 
-There have been postmarketing reports (both spontaneous and from clinical trials) of cytopenias, including agranulocytosis, neutropenia and thrombocytopenia, in patients treated with Exjade.
-Some of these patients died.
-The relationship of these episodes to treatment with Exjade is uncertain.
-Most of these patients had preexisting hematologic disorders that are frequently associated with bone marrow failure [see Adverse Reactions (6.2)].
-Monitor blood counts regularly.
-Consider interrupting treatment with Exjade in patients who develop unexplained cytopenia.
-Reintroduction of therapy with Exjade may be considered, once the cause of the cytopenia has been elucidated.
+Neutropenia, agranulocytosis, and thrombocytopenia, including fatal events, have been reported in patients treated with Exjade.
+Preexisting hematologic disorders may increase this risk.
+Monitor blood counts in all patients.
+Interrupt treatment with Exjade in patients who develop cytopenias until the cause of the cytopenia has been determined.
+Exjade is contraindicated in patients with platelet counts below 50 x 109/L.
 
-## 5.5 Hypersensitivity
+## 5.5 Increased Risk of Toxicity in the Elderly
 
-Serious hypersensitivity reactions (such as anaphylaxis and angioedema) have been reported in patients receiving Exjade, with the onset of the reaction occurring in the majority of cases within the first month of treatment [see Adverse Reactions (6.2)].
+Exjade has been associated with serious and fatal adverse reactions in the postmarketing setting, predominantly in elderly patients.
+Monitor elderly patients treated with Exjade more frequently for toxicity.
+[see Use in Specific Populations (8.5)].
+
+## 5.6 Hypersensitivity
+
+Exjade may cause serious hypersensitivity reactions (such as anaphylaxis and angioedema), with the onset of the reaction usually occurring within the first month of treatment [see Adverse Reactions (6.2)].
 If reactions are severe, discontinue Exjade and institute appropriate medical intervention.
+Exjade is contraindicated in patients with known hypersensitivity to Exjade.
 
-## 5.6 Rash
+## 5.7 Skin Rash
 
-Rashes may occur during Exjade (deferasirox) treatment.
+Rashes may occur during Exjade treatment [see Adverse Reactions (6.1)].
 For rashes of mild to moderate severity, Exjade may be continued without dose adjustment, since the rash often resolves spontaneously.
-In severe cases, Exjade may be interrupted.
+In severe cases, interrupt treatment with Exjade.
 Reintroduction at a lower dose with escalation may be considered in combination with a short period of oral steroid administration.
-Erythema multiforme has been reported during Exjade treatment.
 
-## 5.7 Co-morbidities
+## 5.8 Erythema multiforme
 
-Clinical trials to demonstrate increased survival or to confirm clinical benefit have not been completed.
-Exjade has been shown to decrease serum ferritin and liver iron concentration in clinical trials.
-Consider the importance of these factors as well as individual patient factors and the prognosis associated with any underlying conditions before initiation of Exjade therapy [see Contraindications (4)].
+Erythema multiforme has been reported during Exjade therapy.
+If erythema multiforme is suspected, discontinue Exjade.
 
-In postmarketing experience, there have been reports of serious adverse reactions, some with a fatal outcome, in patients taking Exjade therapy, predominantly when the drug was administered to patients with advanced age, complications from underlying conditions or very advanced disease.
-Most of these deaths occurred within six months of Exjade initiation and generally involved worsening of the underlying condition.
-The reports do not rule out the possibility that Exjade may have contributed to the deaths.
+## 5.9 Auditory and Ocular Abnormalities
 
-## 5.8 Special Senses
+Auditory disturbances (high frequency hearing loss, decreased hearing), and ocular disturbances (lens opacities, cataracts, elevations in intraocular pressure, and retinal disorders) were reported at a frequency of <1% with Exjade therapy in the clinical studies.
+Perform auditory and ophthalmic testing (including slit lamp examinations and dilated fundoscopy) before starting Exjade treatment and thereafter at regular intervals (every 12 months).
+If disturbances are noted, monitor more closely and consider dose reduction or interruption.
 
-Auditory disturbances (high frequency hearing loss, decreased hearing), and ocular disturbances (lens opacities, cataracts, elevations in intraocular pressure, and retinal disorders) have been reported at a frequency of <1% with Exjade therapy in the clinical studies.
-Auditory and ophthalmic testing (including slit lamp examinations and dilated fundoscopy) are recommended before starting Exjade treatment and thereafter at regular intervals (every 12 months).
-If disturbances are noted, consider dose reduction or interruption.
+## 5.10 Overchelation
 
-## 5.9 Laboratory Tests
-
-Measure serum ferritin monthly to assess response to therapy and to evaluate for the possibility of overchelation of iron.
-If the serum ferritin falls consistently below 500 mcg/L, consider temporarily interrupting therapy with Exjade [see Dosage and Administration (2.2)].
-
-In the clinical studies, the correlation coefficient between the serum ferritin and LIC was 0.63.
-Therefore, changes in serum ferritin levels may not always reliably reflect changes in LIC.
-
-Perform laboratory monitoring of renal and hepatic function [see Warnings and Precautions (5.1, 5.3)].
+Measure serum ferritin monthly to assess for possible overchelation of iron.
+If the serum ferritin falls below 500 mcg/L, consider temporarily interrupting therapy with Exjade since this result may increase Exjade toxicity [see Dosage and Administration (2.1)].

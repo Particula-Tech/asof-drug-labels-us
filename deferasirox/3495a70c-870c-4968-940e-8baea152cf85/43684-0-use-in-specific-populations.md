@@ -8,10 +8,10 @@ There are no adequate and well-controlled studies with Exjade in pregnant women.
 Administration of deferasirox to animals during pregnancy and lactation resulted in decreased offspring viability and an increase in renal anomalies in male offspring at exposures that were less than the recommended human exposure.
 Exjade should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-In embryofetal developmental studies, pregnant rats and rabbits received oral deferasirox during the period of organogenesis at doses up to (100 mg/kg/day in rats and 50 mg/kg/day in rabbits) 0.8 times the MRHD (Maximum Recommended Human Dose) on a mg/m2 basis.
+In embryofetal developmental studies, pregnant rats and rabbits received oral deferasirox during the period of organogenesis at doses up to (100 mg per kg/day in rats and 50 mg per kg/day in rabbits) 0.8 times the MRHD (Maximum Recommended Human Dose) on a mg/m2 basis.
 These doses resulted in maternal toxicity but no fetal harm was observed.
 
-In a prenatal and postnatal developmental study, pregnant rats received oral deferasirox daily from organogenesis through lactation day 20 at doses (10, 30, and 90 mg/kg/day) 0.08, 0.2, and 0.7 times the MRHD on a mg/m2 basis.
+In a prenatal and postnatal developmental study, pregnant rats received oral deferasirox daily from organogenesis through lactation day 20 at doses (10, 30, and 90 mg per kg/day) 0.08, 0.2, and 0.7 times the MRHD on a mg/m2 basis.
 Maternal toxicity, loss of litters, and decreased offspring viability occurred at 0.7 times the MRHD on a mg/m2 basis, and increases in renal anomalies in male offspring occurred at 0.2 times the MRHD on a mg/m2 basis.
 
 ## 8.3 Nursing Mothers
@@ -30,17 +30,26 @@ The recommended starting dose and dosing modification are the same for children 
 
 Growth and development were within normal limits in children followed for up to 5 years in clinical trials.
 
+Safety and effectiveness of Exjade in children < 2 years of age have not been established.
+
 ## 8.5 Geriatric Use
 
-Four hundred and thirty-one (431) patients ≥65 years of age have been studied in clinical trials of Exjade.
+Four hundred and thirty-one (431) patients ≥65 years of age were studied in clinical trials of Exjade.
 The majority of these patients had myelodysplastic syndrome (MDS) (n=393).
 In these trials, elderly patients experienced a higher frequency of adverse reactions than younger patients.
-Closely monitor elderly patients for early signs or symptoms of adverse reactions that may require a dose adjustment.
-Elderly patients are at increased risk for Exjade toxicity due to the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Monitor elderly patients for early signs or symptoms of adverse reactions that may require a dose adjustment.
+Elderly patients are at increased risk for toxicity due to the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range.
 
 ## 8.6 Renal Impairment
 
-Exjade has not been studied in patients with renal impairment [see Warnings and Precautions (5.1)].
+The safety, efficacy and pharmacokinetics of Exjade have not been studied in patients with renal impairment.
+
+Exjade can cause renal failure.
+Monitor serum creatinine and calculate creatinine clearance (using Cockcroft-Gault method) during treatment in all patients.
+Reduce, interrupt or discontinue Exjade dosing based on increases in serum creatinine [see Dose and Administration (2.4) and Warnings and Precautions (5.1)].
+
+Exjade is contraindicated in patients with a creatinine clearance <40 mL/min or serum creatinine >2 times the age-appropriate upper limit of normal [see Contraindications (4)].
 
 ## 8.7 Hepatic Impairment
 
@@ -50,4 +59,4 @@ The impact of severe (Child-Pugh C) hepatic impairment was assessed in only one 
 
 Avoid the use of Exjade in patients with severe (Child-Pugh C) hepatic impairment.
 For patients with moderate (Child-Pugh B) hepatic impairment, the starting dose should be reduced by 50%.
-Closely monitor patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment for efficacy and adverse reactions that may require dose titration [See Dosage and Administration (2.2), and Warnings and Precautions (5.2].
+Closely monitor patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment for efficacy and adverse reactions that may require dose titration [See Dosage and Administration (2.3), and Warnings and Precautions (5.2].
