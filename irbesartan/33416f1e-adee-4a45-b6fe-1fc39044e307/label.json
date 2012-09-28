@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA202910"
+  ],
+  "inn": "irbesartan",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-729-05",
+    "31722-729-30",
+    "31722-729-31",
+    "31722-729-90",
+    "31722-730-05",
+    "31722-730-30",
+    "31722-730-31",
+    "31722-730-90",
+    "31722-731-05",
+    "31722-731-30",
+    "31722-731-31",
+    "31722-731-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "irbesartan",
+      "name": "Irbesartan"
+    }
+  ],
+  "setid": "33416f1e-adee-4a45-b6fe-1fc39044e307",
+  "source": "dailymed"
+}
