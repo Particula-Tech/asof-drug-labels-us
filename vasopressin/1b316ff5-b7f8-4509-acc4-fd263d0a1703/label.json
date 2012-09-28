@@ -1,0 +1,17 @@
+{
+  "application_numbers": [],
+  "inn": "vasopressin",
+  "labeler": "JHP Pharmaceuticals LLC",
+  "package_ndcs": [
+    "42023-117-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "vasopressin",
+      "name": "Pitressin"
+    }
+  ],
+  "setid": "1b316ff5-b7f8-4509-acc4-fd263d0a1703",
+  "source": "dailymed"
+}
