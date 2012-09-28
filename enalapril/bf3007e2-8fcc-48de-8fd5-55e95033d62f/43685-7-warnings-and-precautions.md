@@ -124,7 +124,7 @@ Enalapril Maleate
 Aortic Stenosis/Hypertrophic Cardiomyopathy: As with all vasodilators, enalapril should be given with caution to patients with obstruction in the outflow tract of the left ventricle.
 
 Impaired Renal Function: As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals.
-In patients with severe congestive heart failure whose renal function may depend on the activity of the renin-angiotensin-aldersterone system, treatment with angiotensin converting enzyme inhibitors, including enalapril, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death.
+In patients with severe congestive heart failure whose renal function may depend on the activity of the renin-angiotensin-aldersterone system, treatment with angiotensin converting enzyme inhibitors, including enalapril, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death (see PRECAUTIONS, Drug Interactions).
 
 In clinical studies in hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine were observed in 20 percent of patients.
 These increases were almost always reversible upon discontinuation of enalapril and/or diuretic therapy.
@@ -209,6 +209,14 @@ It is not a disclosure of all possible adverse or intended effects.
 Drug Interactions
 
 ### Enalapril Maleate
+
+#### Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function, and electrolytes in patients on VASERETIC and other agents that affect the RAS.
+
+Do not coadminister aliskiren with VASERETIC in patients with diabetes.
+Avoid use of aliskiren with VASERETIC in patients with renal impairment (GFR <60 mL/min.
 
 Hypotension – Patients on Diuretic Therapy: Patients on diuretics and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with enalapril.
 The possibility of hypotensive effects with enalapril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with enalapril.
