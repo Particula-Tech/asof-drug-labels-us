@@ -7,7 +7,7 @@ This enzyme is expressed in testicular, adrenal, and prostatic tumor tissues and
 
 CYP17 catalyzes two sequential reactions: 1) the conversion of pregnenolone and progesterone to their 17α-hydroxy derivatives by 17α-hydroxylase activity and 2) the subsequent formation of dehydroepiandrosterone (DHEA) and androstenedione, respectively, by C17, 20 lyase activity.
 DHEA and androstenedione are androgens and are precursors of testosterone.
-Inhibition of CYP17 by abiraterone can also result in increased mineralocorticoid production by the adrenals (see Warnings and Precautions [5.1]).
+Inhibition of CYP17 by abiraterone can also result in increased mineralocorticoid production by the adrenals [see Warnings and Precautions (5.1)].
 
 Androgen sensitive prostatic carcinoma responds to treatment that decreases androgen levels.
 Androgen deprivation therapies, such as treatment with GnRH agonists or orchiectomy, decrease androgen production in the testes but do not affect androgen production by the adrenals or in the tumor.
@@ -71,7 +71,7 @@ Systemic exposure to abiraterone after a single oral 1,000 mg dose did not incre
 
 Drug Interactions
 
-In vitro studies with human hepatic microsomes showed that abiraterone is a strong inhibitor of CYP1A2, CYP2D6 and CYP2C8, and a moderate inhibitor of CYP2C9, CYP2C19 and CYP3A4/5.
+In vitro studies with human hepatic microsomes showed that abiraterone is a strong inhibitor of CYP1A2, CYP2D6, and CYP2C8 and a moderate inhibitor of CYP2C9, CYP2C19 and CYP3A4/5.
 
 In an in vivo drug-drug interaction trial, the Cmax and AUC of dextromethorphan (CYP2D6 substrate) were increased 2.8- and 2.9-fold, respectively when dextromethorphan 30 mg was given with abiraterone acetate 1,000 mg daily (plus prednisone 5 mg twice daily).
 The AUC for dextrorphan, the active metabolite of dextromethorphan, increased approximately 1.3 fold [see Drug Interactions (7.1)].
@@ -82,7 +82,7 @@ Abiraterone is a substrate of CYP3A4, in vitro.
 The effects of strong CYP3A4 inhibitors or inducers on the pharmacokinetics of abiraterone have not been evaluated, in vivo.
 Strong inhibitors and inducers of CYP3A4 should be avoided or used with caution [see Drug Interactions (7.2)].
 
-## 12.4 QT Prolongation
+## 12.6 QT Prolongation
 
 In a multi-center, open-label, single-arm trial, 33 patients with metastatic CRPC received ZYTIGA orally at a dose of 1,000 mg once daily at least 1 hour before or 2 hours after a meal in combination with prednisone 5 mg orally twice daily.
 Assessments up to Cycle 2 Day 2 showed no large changes in the QTc interval (i.e., >20 ms) from baseline.

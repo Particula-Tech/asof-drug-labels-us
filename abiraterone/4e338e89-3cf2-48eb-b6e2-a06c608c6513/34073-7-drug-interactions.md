@@ -7,8 +7,9 @@ In a CYP2D6 drug-drug interaction trial, the Cmax and AUC of dextromethorphan (C
 Avoid co-administration of abiraterone acetate with substrates of CYP2D6 with a narrow therapeutic index (e.g., thioridazine).
 If alternative treatments cannot be used, exercise caution and consider a dose reduction of the concomitant CYP2D6 substrate drug [see Clinical Pharmacology (12.3)].
 
-In vitro, ZYTIGA was shown to inhibit the hepatic drug-metabolizing enzyme CYP2C8.
+In vitro, ZYTIGA inhibits CYP2C8.
 There are no clinical data on the use of ZYTIGA with drugs that are substrates of CYP2C8.
+However, patients should be monitored closely for signs of toxicity related to the CYP2C8 substrate if used concomitantly with abiraterone acetate.
 
 ## 7.2 Drugs that Inhibit or Induce CYP3A4 Enzymes
 

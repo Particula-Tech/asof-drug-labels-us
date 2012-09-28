@@ -83,7 +83,7 @@ ZYTIGA may cause serious side effects including:
 
 The most common side effects of ZYTIGA include:
 
-| joint swelling or painmuscle acheshot flushesdiarrheaurinary tract infectioncoughirregular heartbeats | urinate more often than normalneed to get up at night to urinateheartburncold like symptomsbone fractures |
+| joint swelling or painmuscle acheshot flushesdiarrheaurinary tract infectioncough | irregular heartbeatsurinate more often than normalneed to get up at night to urinateheartburncold like symptomsbone fractures |
 | --- | --- |
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
@@ -125,4 +125,4 @@ Manufactured by: Patheon Inc. Mississauga, Canada Manufactured for: Janssen Biot
 
 ©Janssen Biotech, Inc. 2012
 
-Revised:July 2012
+Revised: September 2012
