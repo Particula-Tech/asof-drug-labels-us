@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA020405"
+  ],
+  "inn": "digoxin",
+  "labeler": "Covis Pharmaceuticals Inc",
+  "package_ndcs": [
+    "24987-242-55",
+    "24987-242-56",
+    "24987-242-75",
+    "24987-249-55",
+    "24987-249-56",
+    "24987-249-75",
+    "24987-249-80"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "digoxin",
+      "name": "LANOXIN"
+    }
+  ],
+  "setid": "d7d0dba4-eb56-4631-90eb-1869cfaab436",
+  "source": "dailymed"
+}
