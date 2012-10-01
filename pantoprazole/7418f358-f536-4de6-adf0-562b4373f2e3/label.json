@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA202038"
+  ],
+  "inn": "pantoprazole",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-559-10",
+    "65862-559-90",
+    "65862-559-99",
+    "65862-560-10",
+    "65862-560-90",
+    "65862-560-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "pantoprazole sodium",
+      "name": "Pantoprazole Sodium"
+    }
+  ],
+  "setid": "7418f358-f536-4de6-adf0-562b4373f2e3",
+  "source": "dailymed"
+}
