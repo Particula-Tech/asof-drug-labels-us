@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021473"
+  ],
+  "inn": "ciprofloxacin",
+  "labeler": "Bayer HealthCare Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "50419-788-00",
+    "50419-788-01",
+    "50419-789-00",
+    "50419-789-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "ciprofloxacin",
+      "name": "Cipro"
+    }
+  ],
+  "setid": "4a3cec22-74d0-440a-a9f4-4d5f02e8417a",
+  "source": "dailymed"
+}
