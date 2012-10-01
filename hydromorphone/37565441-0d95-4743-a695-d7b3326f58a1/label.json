@@ -1,5 +1,6 @@
 {
   "application_numbers": [
+    "NDA019891",
     "NDA019892"
   ],
   "inn": "hydromorphone",
@@ -10,9 +11,15 @@
     "42858-302-01",
     "42858-302-25",
     "42858-302-50",
-    "42858-303-01"
+    "42858-303-01",
+    "42858-304-16"
   ],
   "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "hydromorphone hydrochloride",
+      "name": "Hydromorphone Hydrochloride"
+    },
     {
       "form": "TABLET",
       "generic": "hydromorphone hydrochloride",

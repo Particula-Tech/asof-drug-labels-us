@@ -1,11 +1,11 @@
 # CLINICAL PHARMACOLOGY
 
-Hydromorphone hydrochloride is a pure opioid agonist with the principal therapeutic activity of analgesia.
+Hydromorphone Hydrochloride is a pure opioid agonist with the principal therapeutic activity of analgesia.
 A significant feature of the analgesia is that it can occur without loss of consciousness.
 Opioid analgesics also suppress the cough reflex and may cause respiratory depression, mood changes, mental clouding, euphoria, dysphoria, nausea, vomiting and electroencephalographic changes.
 Many of the effects described below are common to this class of mu-opioid agonist analgesics which includes morphine, oxycodone, hydrocodone, codeine and fentanyl.
-In some instances, data may not exist to distinguish the effects of Hydromorphone Hydrochloride Tablets from those observed with other opioid analgesics.
-However, in the absence of data to the contrary, it is assumed that Hydromorphone Hydrochloride Tablets would possess all the actions of mu-agonist opioids.
+In some instances, data may not exist to distinguish the effects of Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablets from those observed with other opioid analgesics.
+However, in the absence of data to the contrary, it is assumed that Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablets would possess all the actions of mu-agonist opioids.
 
 ## Central Nervous System
 
@@ -20,7 +20,7 @@ The mechanism of respiratory depression also involves a reduction in the respons
 
 Hydromorphone causes miosis.
 Pinpoint pupils are a common sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origin may produce similar findings).
-Marked mydriasis rather than miosis may be seen with hypoxia in the setting of Hydromorphone Hydrochloride Tablets overdose.
+Marked mydriasis rather than miosis may be seen with hypoxia in the setting of Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablet overdose.
 
 ## Gastrointestinal Tract and Other Smooth Muscle
 
@@ -38,14 +38,15 @@ Other manifestations of histamine release and/or peripheral vasodilation may inc
 
 ## Pharmacokinetics and Metabolism
 
-The analgesic activity of Hydromorphone Hydrochloride Tablets is due to the parent drug, hydromorphone.
+The analgesic activity of Hydromorphone Hydrochloride Oral Solution and Hydromorphone Hydrochloride Tablets are due to the parent drug, hydromorphone.
 Hydromorphone is rapidly absorbed from the gastrointestinal tract after oral administration and undergoes extensive first-pass metabolism.
 Exposure of hydromorphone (Cmax and AUC0-24) is dose-proportional at a dose range of 2 and 8 mg.
 In vivo bioavailability following single-dose administration of the 8 mg tablet is approximately 24% (coefficient of variation 21%).
+Bioequivalence between the Hydromorphone Hydrochloride 8 mg tablet and an equivalent dose of Hydromorphone Hydrochloride Oral Solution has been demonstrated.
 
 ### Absorption
 
-After oral administration of Hydromorphone Hydrochloride Tablets peak plasma hydromorphone concentrations are generally attained within ½ to 1-hour.
+After oral administration of 8 mg Hydromorphone Hydrochloride Oral Solution or tablets, peak plasma hydromorphone concentrations are generally attained within ½ to 1-hour.
 
 | Dosage Form | C max (ng) | T max (hrs) | AUC (ng*hr/mL) | T ½ (hrs) |
 | --- | --- | --- | --- | --- |
@@ -60,7 +61,7 @@ The effects may not be clinically relevant.
 
 ### Distribution
 
-At therapeutic plasma levels, hydromorphone is approximately 8-19% bound to plasma proteins.
+At therapeutic plasma levels, hydromorphone is approximately 8 to19% bound to plasma proteins.
 After an intravenous bolus dose, the steady state of volume distribution [mean (%cv)] is 302.9 (32%) liters.
 
 ### Metabolism
@@ -78,24 +79,24 @@ The terminal elimination half-life of hydromorphone after an intravenous dose is
 
 ### Hepatic Impairment
 
-After oral administration of hydromorphone at a single 4 mg dose (2 mg Hydromorphone Hydrochloride Tablets), mean exposure to hydromorphone (Cmax and AUC∞) is increased 4-fold in patients with moderate (Child-Pugh Group B) hepatic impairment compared with subjects with normal hepatic function.
+After oral administration of Hydromorphone at a single 4 mg dose (2 mg Hydromorphone Hydrochloride Tablets), mean exposure to hydromorphone (Cmax and AUC∞) is increased 4-fold in patients with moderate (Child-Pugh Group B) hepatic impairment compared with subjects with normal hepatic function.
 Due to increased exposure of hydromorphone, patients with moderate hepatic impairment should be started at a lower dose and closely monitored during dose titration.
 Pharmacokinetics of hydromorphone in severe hepatic impairment patients has not been studied.
 Further increase in Cmax and AUC of hydromorphone in this group is expected.
 As such, starting dose should be even more conservative.
-Use of oral liquid is recommended to adjust the dose (see DOSAGE AND ADMINISTRATION).
+Use of oral solution is recommended to adjust the dose (see DOSAGE AND ADMINISTRATION).
 
 ### Renal Impairment
 
-After oral administration of hydromorphone at a single 4 mg dose (2 mg Hydromorphone Hydrochloride Tablets), exposure to hydromorphone (Cmax and AUC0-48) is increased in patients with impaired renal function by 2-fold in moderate (CLcr = 40 - 60 mL/min) and 3-fold in severe (CLcr < 30 mL/min) renal impairment compared with normal subjects (CLcr > 80 mL/min).
+After oral administration of hydromorphone at a single 4 mg dose (2 mg Hydromorphone Hydrochloride Tablets), exposure to hydromorphone (Cmax and AUC0-48) is increased in patients with impaired renal function by 2-fold in moderate (CLcr = 40 to 60 mL/min) and 3-fold in severe (CLcr < 30 mL/min) renal impairment compared with normal subjects (CLcr > 80 mL/min).
 In addition, in patients with severe renal impairment hydromorphone appeared to be more slowly eliminated with longer terminal elimination half-life (40 hr) compared to patients with normal renal function (15 hr). Patients with moderate renal impairment should be started on a lower dose.
 Starting doses for patients with severe renal impairment should be even lower.
 Patients with renal impairment should be closely monitored during dose titration.
-Use of oral liquid is recommended to adjust the dose (see DOSAGE AND ADMINISTRATION).
+Use of oral solution is recommended to adjust the dose (see DOSAGE AND ADMINISTRATION).
 
 ### Pediatrics
 
-Pharmacokinetics of hydromorphone have not been evaluated in children.
+Pharmacokinetics of hydromorphone has not been evaluated in children.
 
 ### Geriatric
 
@@ -114,7 +115,7 @@ Hydromorphone is also found in low levels in breast milk, and may cause respirat
 
 ## CLINICAL TRIALS
 
-Analgesic effects of single doses of Hydromorphone Hydrochloride Oral Liquid administered to patients with post-surgical pain have been studied in double-blind controlled trials.
-In one study, both 5 mg and 10 mg of Hydromorphone Hydrochloride Oral Liquid provided significantly more analgesia than placebo.
-In another trial, 5 mg and 10 mg of Hydromorphone Hydrochloride Oral Liquid were compared to 30 mg and 60 mg of morphine sulfate oral liquid.
-The pain relief provided by 5 mg and 10 mg Hydromorphone Hydrochloride Oral Liquid was comparable to 30 mg and 60 mg oral morphine sulfate, respectively.
+Analgesic effects of single doses of Hydromorphone Hydrochloride Oral Solution administered to patients with post-surgical pain have been studied in double-blind controlled trials.
+In one study, both 5 mg and 10 mg of Hydromorphone Hydrochloride Oral Solution provided significantly more analgesia than placebo.
+In another trial, 5 mg and 10 mg of Hydromorphone Hydrochloride Oral Solution were compared to 30 mg and 60 mg of morphine sulfate oral solution.
+The pain relief provided by 5 mg and 10 mg Hydromorphone Hydrochloride Oral Solution was comparable to 30 mg and 60 mg oral morphine sulfate, respectively.
