@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022497"
+  ],
+  "inn": "bupropion",
+  "labeler": "Edgemont Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "49909-010-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "bupropion hydrochloride",
+      "name": "Forfivo"
+    }
+  ],
+  "setid": "677a2372-2789-4fe0-8482-43d95d16975a",
+  "source": "dailymed"
+}
