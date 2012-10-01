@@ -1,0 +1,21 @@
+# PRINCIPAL DISPLAY PANEL - 30 mL Vial Carton
+
+NDC 42023-101-10
+
+Adrenalin® Chloride Solution
+
+(EPINEPHrine Injection, USP)
+
+1 mg per mL 1:1000 30 mL MULTIPLE DOSE VIAL
+
+JHP PHARMACEUTICALS
+
+# PRINCIPAL DISPLAY PANEL - 1 mL Vial Label
+
+NDC 42023-122-25
+
+Adrenalin® (EPINEPHrine Injection, USP)
+
+1 mg 1:1000 1 mL
+
+3003057
