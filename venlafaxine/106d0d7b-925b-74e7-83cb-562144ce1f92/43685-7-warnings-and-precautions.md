@@ -53,28 +53,20 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that venlafaxine hydrochloride is not approved for use in treating bipolar depression.
 
-## Potential for Interaction with Monoamine Oxidase Inhibitors
-
-Adverse reactions, some of which were serious, have been reported in patients who have recently been discontinued from a monoamine oxidase inhibitor (MAOI) and started on venlafaxine hydrochloride, or who have recently had venlafaxine hydrochloride therapy discontinued prior to initiation of an MAOI.
-These reactions have included tremor, myoclonus, diaphoresis, nausea, vomiting, flushing, dizziness, hyperthermia with features resembling neuroleptic malignant syndrome, seizures, and death.
-In patients receiving antidepressants with pharmacological properties similar to venlafaxine in combination with a monoamine oxidase inhibitor, there have also been reports of serious, sometimes fatal, reactions.
-For a selective serotonin reuptake inhibitor, these reactions have included hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
-Some cases presented with features resembling neuroleptic malignant syndrome.
-Severe hyperthermia and seizures, sometimes fatal, have been reported in association with the combined use of tricyclic antidepressants and MAOIs.
-These reactions have also been reported in patients who have recently discontinued these drugs and have been started on an MAOI.
-Therefore, it is recommended that venlafaxine hydrochloride not be used in combination with an MAOI, or within at least 14 days of discontinuing treatment with an MAOI.
-Based on the half-life of venlafaxine hydrochloride, at least 7 days should be allowed after stopping venlafaxine hydrochloride before starting an MAOI.
-
 ## Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome may occur with venlafaxine hydrochloride treatment, particularly with concomitant use of serotonergic drugs (including SSRIs, SNRIs and triptans) and with drugs that impair metabolism of serotonin (including MAOIs).
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting diarrhea) (see PRECAUTIONS, Drug Interactions).
+Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like ReactionsThe development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including venlafaxine hydrochloride treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs, eg, methylene blue), or with antipsychotics or other dopamine antagonists.
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia,incoordination) and/or gastrointestinal symptoms [e.g., nausea, vomiting diarrhea] (see PRECAUTIONS, DrugInteractions).
+Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
+Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
 
-The concomitant use of venlafaxine hydrochloride with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONSand WARNINGS, Potential for Interaction with Monoamine Oxidase Inhibitors).
+The concomitant use of venlafaxine hydrochloride with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS).
 
-If concomitant treatment of venlafaxine hydrochloride with an SSRI, an SNRI or a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS, Drug Interactions).
+If concomitant treatment of venlafaxine hydrochloride with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS, DrugInteractions).
 
 The concomitant use of venlafaxine hydrochloride with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS, Drug Interactions).
+
+Treatment with venlafaxine hydrochloride and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## Sustained Hypertension
 
@@ -359,7 +351,7 @@ Therefore, no dosage adjustment is required when venlafaxine is coadministered w
 
 #### Ketoconazole
 
-A pharmacokinetic study with ketoconazole 100 mg b.i.d. with a single dose of venlafaxine 50 mg and 25 mg in extensive metabolizers (EM; n = 14) and poor metabolizers (PM; n = 6) of CYP2D6, respectively, resulted in higher plasma concentrations of both venlafaxine and O-desmethylvenlafaxine in most subjects following administration of ketoconazole.
+A pharmacokinetic study with ketoconazole 100 mg b.i.d. with a single dose of venlafaxine 50 mg and 25 mg in extensive metabolizers (EM; n = 14) and poor metabolizers (PM; n = 6) of CYP2D6, respectively, resulted in higher plasma concentrations of both venlafaxine and O-desvenlafaxine (ODV) in most subjects following administration of ketoconazole.
 Venlafaxine Cmax increased by 26% in EM subjects and 48% in PM subjects.
 Cmax values for ODV increased by 14% and 29% in EM and PM subjects, respectively.
 
@@ -367,7 +359,7 @@ Venlafaxine AUC increased by 21% in EM subjects and 70% in PM subjects (range in
 Combined AUCs of venlafaxine and ODV increased on average by approximately 23% in EMs and 53% in PMs, (range in PMs 4% - 134%).
 
 Concomitant use of CYP3A4 inhibitors and venlafaxine may increase levels of venlafaxine and ODV.
-Therefore, caution is advised if a patients therapy includes a CYP3A4 inhibitor and venlafaxine concomitantly.
+Therefore, caution is advised if a patient's therapy includes a CYP3A4 inhibitor and venlafaxine concomitantly.
 
 #### CYP3A4 Inhibitors
 
@@ -436,7 +428,7 @@ Venlafaxine did not inhibit the metabolism of diazepam which is partially metabo
 
 ### Monoamine Oxidase Inhibitors
 
-See CONTRAINDICATIONS and WARNINGS.
+See CONTRAINDICATIONS.
 
 ### CNS-Active Drugs
 
@@ -445,7 +437,7 @@ Consequently, caution is advised if the concomitant administration of venlafaxin
 
 #### Serotonergic Drugs
 
-Based on the mechanism of action of venlafaxine and the potential for serotonin syndrome, caution is advised when venlafaxine is co-administered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, SSRIs, other SNRIs, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort (see WARNINGS, Serotonin Syndrome).
+Based on the mechanism of action of venlafaxine and the potential for serotonin syndrome, caution is advised when venlafaxine is co-administered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, SSRIs, other SNRIs, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort and methylene blue (see WARNINGS, Serotonin Syndrome).
 If concomitant treatment of venlafaxine with these drugs is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
 The concomitant use of venlafaxine hydrochloride with tryptophan supplements is not recommended (see WARNINGS, Serotonin Syndrome).
 
@@ -453,6 +445,13 @@ The concomitant use of venlafaxine hydrochloride with tryptophan supplements is 
 
 There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
 If concomitant treatment of venlafaxine with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
+
+### Drug-Laboratory Test Interactions
+
+False-positive urine immunoassay screening tests for phencyclidine (PCP) and amphetamine have been reported in patients taking venlafaxine.
+This is due to lack of specificity of the screening tests.
+False positive test results may be expected for several days following discontinuation of venlafaxine therapy.
+Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish venlafaxine from PCP and amphetamine.
 
 ### Electroconvulsive Therapy
 
