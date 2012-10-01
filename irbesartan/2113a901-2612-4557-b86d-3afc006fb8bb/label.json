@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA203081"
+  ],
+  "inn": "irbesartan",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-637-05",
+    "65862-637-30",
+    "65862-637-90",
+    "65862-638-05",
+    "65862-638-10",
+    "65862-638-30",
+    "65862-638-78",
+    "65862-638-90",
+    "65862-639-05",
+    "65862-639-30",
+    "65862-639-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "irbesartan",
+      "name": "Irbesartan"
+    }
+  ],
+  "setid": "2113a901-2612-4557-b86d-3afc006fb8bb",
+  "source": "dailymed"
+}
