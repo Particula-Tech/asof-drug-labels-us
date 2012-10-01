@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA083312"
+  ],
+  "inn": "promethazine",
+  "labeler": "West-ward Pharmaceutical Corp.",
+  "package_ndcs": [
+    "0641-1495-31",
+    "0641-1495-35",
+    "0641-1496-31",
+    "0641-1496-35"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "promethazine hydrochloride",
+      "name": "Promethazine Hydrochloride"
+    }
+  ],
+  "setid": "13d9e59d-eadb-41d5-9f47-9c11a6efb31c",
+  "source": "dailymed"
+}

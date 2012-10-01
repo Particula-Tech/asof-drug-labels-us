@@ -1,0 +1,27 @@
+# OVERDOSAGE
+
+Signs and symptoms of overdosage range from mild depression of the central nervous system and cardiovascular system to profound hypotension, respiratory depression, unconsciousness and sudden death.
+Other reported reactions include hyperreflexia, hypertonia, ataxia, athetosis, and extensor-plantar reflexes (Babinski reflex).
+
+Stimulation may be evident, especially in pediatric patients and geriatric patients.
+Convulsions may rarely occur.
+A paradoxical-type reaction has been reported in pediatric patients receiving single doses of 75 mg to 125 mg orally, characterized by hyperexcitability and nightmares.
+
+Atropine-like signs and symptoms-dry mouth; fixed, dilated pupils; flushing; etc., as well as gastrointestinal symptoms, may occur.
+
+## Treatment
+
+Treatment of overdosage is essentially symptomatic and supportive.
+Only in cases of extreme overdosage or individual sensitivity do vital signs, including respiration, pulse, blood pressure, temperature, and EKG, need to be monitored.
+Attention should be given to the reestablishment of adequate respiratory exchange through provision of a patent airway and institution of assisted or controlled ventilation.
+Diazepam may be used to control convulsions.
+Acidosis and electrolyte losses should be corrected.
+Note that any depressant effects of promethazine hydrochloride injection are not reversed by naloxone.
+
+Avoid analeptics, which may cause convulsions.
+The treatment of choice for resulting hypotension is administration of intravenous fluids, accompanied by repositioning if indicated.
+In the event that vasopressors are considered for the management of severe hypotension which does not respond to intravenous fluids and repositioning, the administration of norepinephrine or phenylephrine should be considered.
+EPINEPHRINE SHOULD NOT BE USED, since its use in a patient with partial adrenergic blockade may further lower the blood pressure.
+Extrapyramidal reactions may be treated with anticholinergic antiparkinson agents, diphenhydramine, or barbiturates.
+Oxygen may also be administered.
+Limited experience with dialysis indicates that it is not helpful.
