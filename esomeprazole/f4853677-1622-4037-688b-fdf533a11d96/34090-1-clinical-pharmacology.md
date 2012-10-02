@@ -19,7 +19,7 @@ Table 3: Effect on Intragastric pH on Day 5 (N=36)
 
 | Parameter | NEXIUM40 mg | NEXIUM20 mg |
 | --- | --- | --- |
-| % Time Gastric pH >4Gastric pH was measured over a 24-hour period(Hours) | 70%p< 0.01 NEXIUM 40 mg vs. NEXIUM 20 mg (16.8 h) | 53% (12.7 h) |
+| % Time Gastric pH >4Gastric pH was measured over a 24-hour period(Hours) | 70%p< 0.01 NEXIUM 40 mg vs. NEXIUM 20 mg(16.8 h) | 53%(12.7 h) |
 | Coefficient of variation | 26% | 37% |
 | Median 24 Hour pH | 4.9 | 4.1 |
 | Coefficient of variation | 16% | 27% |
@@ -71,14 +71,12 @@ The results are shown in the Table 4:
 
 Table 4: Pharmacokinetic Parameters of NEXIUM on Day 5 Following Oral Dosing for 5 Days
 
-| Parameter * (CV) | NEXIUM 40 mg | NEXIUM 20 mg |
+| Parameter Values represent the geometric mean, except the Tmax, which is the arithmetic mean; CV = Coefficient of variation (CV) | NEXIUM 40 mg | NEXIUM 20 mg |
 | --- | --- | --- |
 | AUC (μmol*h/L) | 12.6 (42%) | 4.2 (59%) |
 | Cmax (μmol/L) | 4.7 (37%) | 2.1 (45%) |
 | Tmax (h) | 1.6 | 1.6 |
 | t1/2 (h) | 1.5 | 1.2 |
-
-* Values represent the geometric mean, except the Tmax, which is the arithmetic mean; CV = Coefficient of variation
 
 Distribution
 

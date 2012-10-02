@@ -16,18 +16,14 @@ NEXIUM is a prescription medicine called a proton pump inhibitor (PPI).
 
 NEXIUM is used in adults:
 
-• for 4 to 8 weeks to treat the symptoms of gastroesophageal reflux disease (GERD).
-NEXIUM may also be prescribed to heal acid-related damage to the lining of the esophagus (erosive esophagitis), and to help continue this healing.
-
-GERD is a chronic condition (lasts a long time) that occurs when acid from the stomach backs up into the esophagus (food pipe) causing symptoms, such as heartburn, or damage to the lining of the esophagus.
-Common symptoms include frequent heartburn that will not go away, a sour or bitter taste in the mouth, and difficulty swallowing.
-
-• for up to 6 months to reduce the risk of stomach ulcers in some people taking pain medicines called non-steroidal anti-inflammatory drugs (NSAIDs).
-
-• to treat patients with a stomach infection (Helicobacter pylori), along with the antibiotics amoxicillin and clarithromycin.
-
-• for the long-term treatment of conditions where your stomach makes too much acid, including Zollinger-Ellison Syndrome.
-Zollinger-Ellison Syndrome is a rare condition in which the stomach produces a more than normal amount of acid.
+- •for 4 to 8 weeks to treat the symptoms of gastroesophageal reflux disease (GERD).
+  NEXIUM may also be prescribed to heal acid-related damage to the lining of the esophagus (erosive esophagitis), and to help continue this healing.
+- •GERD is a chronic condition (lasts a long time) that occurs when acid from the stomach backs up into the esophagus (food pipe) causing symptoms, such as heartburn, or damage to the lining of the esophagus.
+  Common symptoms include frequent heartburn that will not go away, a sour or bitter taste in the mouth, and difficulty swallowing.
+- •for up to 6 months to reduce the risk of stomach ulcers in some people taking pain medicines called non-steroidal anti-inflammatory drugs (NSAIDs).
+- •to treat patients with a stomach infection (Helicobacter pylori), along with the antibiotics amoxicillin and clarithromycin.
+- •for the long-term treatment of conditions where your stomach makes too much acid, including Zollinger-Ellison Syndrome.
+  Zollinger-Ellison Syndrome is a rare condition in which the stomach produces a more than normal amount of acid.
 
 For children and adolescents 1 year to 17 years of age, NEXIUM may be prescribed for up to 8 weeks for short-term treatment of GERD.
 
@@ -39,97 +35,97 @@ Who should not take Nexium?
 
 Do not take NEXIUM if you:
 
-• are allergic to any of the ingredients in NEXIUM.
-See the end of this leaflet for a complete list of ingredients in NEXIUM.
-
-• are allergic to any other Proton Pump Inhibitor (PPI) medicine.
+- •are allergic to any of the ingredients in NEXIUM.
+  See the end of this leaflet for a complete list of ingredients in NEXIUM.
+- •are allergic to any other Proton Pump Inhibitor (PPI) medicine.
 
 What should I tell my doctor before taking Nexium?
 
 Tell your doctor about all your medical conditions, including if you:
 
-- have been told that you have low magnesium levels in your blood
-- have liver problems
-- are pregnant, think you may be pregnant, or are planning to become pregnant.
-- are breastfeeding or planning to breastfeed.
+- •have been told that you have low magnesium levels in your blood
+- •have liver problems
+- •are pregnant, think you may be pregnant, or are planning to become pregnant.
+- •are breastfeeding or planning to breastfeed.
   Talk with your doctor about the best way to feed your baby if you take NEXIUM.
 
 Tell your doctor about all of the medicines you take including prescription and non-prescription drugs, vitamins and herbal supplements.
 NEXIUM may affect how other medicines work, and other medicines may affect how NEXIUM works.
 Especially tell your doctor if you take:
 
-- warfarin (Coumadin)
-- ketoconazole (Nizoral)
-- voriconazole (Vfend)
-- atazanavir (Reyataz)
-- nelfinavir (Viracept)
-- saquinavir (Fortovase)
-- products that contain iron
-- digoxin (Lanoxin, Lanoxicaps)
-- St.John’s Wort (Hypericum perforatum)
-- Rifampin
-- cilostazol (Pletal)
-- diazepam (Valium)
-- tacrolimus (Prograf)
-- Erlotinib
-- Methotrexate
+- •warfarin (Coumadin)
+- •ketoconazole (Nizoral)
+- •voriconazole (Vfend)
+- •atazanavir (Reyataz)
+- •nelfinavir (Viracept)
+- •saquinavir (Fortovase)
+- •products that contain iron
+- •digoxin (Lanoxin, Lanoxicaps)
+- •St.John’s Wort (Hypericum perforatum)
+- •Rifampin
+- •cilostazol (Pletal)
+- •diazepam (Valium)
+- •tacrolimus (Prograf)
+- •Erlotinib
+- •Methotrexate
 
 How should I take Nexium?
 
-- Take NEXIUM exactly as prescribed by your doctor.
-- Do not change your dose or stop NEXIUM without talking to your doctor.
-- Take NEXIUM at least 1 hour before a meal.
-- Swallow NEXIUM capsules whole.
+- •Take NEXIUM exactly as prescribed by your doctor.
+- •Do not change your dose or stop NEXIUM without talking to your doctor.
+- •Take NEXIUM at least 1 hour before a meal.
+- •Swallow NEXIUM capsules whole.
   Never chew or crush NEXIUM.
-- If you have difficulty swallowing NEXIUM capsules, you may open the capsule and empty the contents into a tablespoon of applesauce.
+- •If you have difficulty swallowing NEXIUM capsules, you may open the capsule and empty the contents into a tablespoon of applesauce.
   Be sure to swallow the applesauce right away.
   Do not store it for later use.
-- If you forget to take a dose of NEXIUM, take it as soon as you remember.
+- •If you forget to take a dose of NEXIUM, take it as soon as you remember.
   If it is almost time for your next dose, do not take the missed dose.
   Take the next dose on time.
   Do not take a double dose to make up for a missed dose.
-- If you take too much NEXIUM, tell your doctor right away.
-- See the “Instructions for Use” at the end of this leaflet for instructions how to take NEXIUM For Delayed-Release Oral Suspension, and how to mix and give NEXIUM Delayed-Release Capsules and NEXIUM For Delayed-Release Oral Suspension, through a nasogastric tube or gastric tube.
+- •If you take too much NEXIUM, tell your doctor right away.
+- •See the “Instructions for Use” at the end of this leaflet for instructions how to take NEXIUM For Delayed-Release Oral Suspension, and how to mix and give NEXIUM Delayed-Release Capsules and NEXIUM For Delayed-Release Oral Suspension, through a nasogastric tube or gastric tube.
 
 What are the possible side effects of Nexium?
 
-- Serious allergic reactions.
+- •Serious allergic reactions.
   Tell your doctor if you get any of the following symptoms with NEXIUM.
-- rash
-- face swelling
-- throat tightness
-- difficulty breathing
+- •rash
+- •face swelling
+- •throat tightness
+- •difficulty breathing
 
 Your doctor may stop NEXIUM if these symptoms happen.
 
-- Low magnesium levels in your body.
+- •Low magnesium levels in your body.
   This problem can be serious.
   Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
   You may or may not have symptoms of low magnesium.
-  Tell your doctor right away if you have any of these symptoms:
-  - seizures
-  - dizziness
-  - abnormal or fast heart beat
-  - jitteriness
-  - jerking movements or shaking (tremors)
-  - muscle weakness
-  - spasms of the hands and feet
-  - cramps or muscle aches
-  - spasm of the voice box
+- Tell your doctor right away if you have any of these symptoms:
+
+- oseizures
+- odizziness
+- oabnormal or fast heart beat
+- ojitteriness
+- ojerking movements or shaking (tremors)
+- omuscle weakness
+- ospasms of the hands and feet
+- ocramps or muscle aches
+- ospasm of the voice box
 
 Your doctor may check the level of magnesium in your body before you start taking NEXIUM or during treatment if you will be taking NEXIUM for a long period of time.
 
 The most common side effects with NEXIUM may include:
 
-- Headache
-- Diarrhea
-- Nausea
-- Gas
-- Abdominal pain
-- Constipation
-- Dry mouth
-- Drowsiness
+- •Headache
+- •Diarrhea
+- •Nausea
+- •Gas
+- •Abdominal pain
+- •Constipation
+- •Dry mouth
+- •Drowsiness
 
 People who are taking multiple daily doses of proton pump inhibitor medicines for a long period of time may have an increased risk of fractures of the hip, wrist or spine.
 
@@ -142,8 +138,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Nexium?
 
-- Store NEXIUM at room temperature between 68°F to 77°F (20°C to 25°C).
-- Keep the container of NEXIUM closed tightly.
+- •Store NEXIUM at room temperature between 68°F to 77°F (20°C to 25°C).
+- •Keep the container of NEXIUM closed tightly.
 
 Keep NEXIUM and all medicines out of the reach of children.
 
@@ -173,18 +169,18 @@ For instructions on taking Delayed-Release Capsules, see the section of this lea
 
 Take NEXIUM for Delayed-Release Oral Suspension as follows:
 
-- NEXIUM for Delayed-Release Oral Suspension comes in foil packets containing 2.5 mg, 5 mg, 10 mg, 20 mg, or 40 mg strengths.
-- You should use an oral syringe to measure the amount of water needed to mix your dose.
+- •NEXIUM for Delayed-Release Oral Suspension comes in foil packets containing 2.5 mg, 5 mg, 10 mg, 20 mg, or 40 mg strengths.
+- •You should use an oral syringe to measure the amount of water needed to mix your dose.
   Ask your pharmacist for an oral syringe.
-- If your prescribed dose is 2.5 mg or 5 mg, add 5 mL of water to a container, then add the contents of a foil packet containing the dose prescribed by your doctor.
-- If your prescribed dose is 10 mg, 20 mg, or 40 mg, add 15 mL of water to a container, then add the contents of a foil packet containing the dose prescribed by your doctor.
-- If you or your child are instructed to use more than one foil packet for the prescribed dose, follow the mixing instructions provided by your pharmacist or doctor.
-- Stir.
-- Leave 2 to 3 minutes to thicken.
-- Stir and take dose within 30 minutes.
+- •If your prescribed dose is 2.5 mg or 5 mg, add 5 mL of water to a container, then add the contents of a foil packet containing the dose prescribed by your doctor.
+- •If your prescribed dose is 10 mg, 20 mg, or 40 mg, add 15 mL of water to a container, then add the contents of a foil packet containing the dose prescribed by your doctor.
+- •If you or your child are instructed to use more than one foil packet for the prescribed dose, follow the mixing instructions provided by your pharmacist or doctor.
+- •Stir.
+- •Leave 2 to 3 minutes to thicken.
+- •Stir and take dose within 30 minutes.
   If not used within 30 minutes, throw away this dose and mix a new dose.
-- If any medicine remains after drinking, add more water, stir, and take dose right away.
-- For young children, you can give the dose with an oral syringe.
+- •If any medicine remains after drinking, add more water, stir, and take dose right away.
+- •For young children, you can give the dose with an oral syringe.
   Rinse the oral syringe with water after each use.
 
 NEXIUM Delayed-Release Capsules and NEXIUM for Delayed-Release Oral Suspension may be given through a nasogastric tube (NG tube) or gastric tube, as prescribed by your doctor.
@@ -192,27 +188,27 @@ Follow the instructions below:
 
 NEXIUM Delayed-Release Capsules:
 
-- Open the capsule and empty the granules into a 60 mL catheter tipped syringe.
+- •Open the capsule and empty the granules into a 60 mL catheter tipped syringe.
   Mix with 50 mL of water.
   Use only a catheter tipped syringe to give NEXIUM through a NG tube.
-- Replace the plunger and shake the syringe well for 15 seconds.
+- •Replace the plunger and shake the syringe well for 15 seconds.
   Hold the syringe with the tip up and check for granules in the tip.
-- Give the medicine right away.
-- Do not give the granules if they have dissolved or have broken into pieces.
-- Attach the syringe to the NG tube.
+- •Give the medicine right away.
+- •Do not give the granules if they have dissolved or have broken into pieces.
+- •Attach the syringe to the NG tube.
   Give the medicine in the syringe through the NG tube into the stomach.
-- After giving the granules, flush the NG tube with more water.
+- •After giving the granules, flush the NG tube with more water.
 
 NEXIUM for Delayed-Release Oral Suspension:
 
-- NEXIUM for Delayed-Release Oral Suspension comes in foil packets containing 2.5 mg, 5 mg, 10 mg, 20 mg, or 40 mg strengths.
-- Use only a catheter tipped syringe to give NEXIUM through a NG tube or gastric tube
-- If your prescribed dose is 2.5 mg or 5 mg, add 5 mL of water to a catheter tipped syringe, then add the contents of a foil packet containing the dose prescribed by your doctor.
-- If your prescribed dose is 10 mg, 20 mg, or 40 mg, add 15 mL of water to a catheter tipped syringe, then add the contents of a foil packet containing the dose prescribed by your doctor.
-- Shake the syringe right away and then leave it for 2 to 3 minutes to thicken.
-- Shake the syringe and give the medicine through the NG or gastric tube (French size 6 or larger) into the stomach within 30 minutes.
-- Refill the syringe with the same amount of water (either 5 mL or 15 mL of water depending on your dose).
-- Shake the syringe and flush any remaining medicine from the NG tube or gastric tube into the stomach.
+- •NEXIUM for Delayed-Release Oral Suspension comes in foil packets containing 2.5 mg, 5 mg, 10 mg, 20 mg, or 40 mg strengths.
+- •Use only a catheter tipped syringe to give NEXIUM through a NG tube or gastric tube
+- •If your prescribed dose is 2.5 mg or 5 mg, add 5 mL of water to a catheter tipped syringe, then add the contents of a foil packet containing the dose prescribed by your doctor.
+- •If your prescribed dose is 10 mg, 20 mg, or 40 mg, add 15 mL of water to a catheter tipped syringe, then add the contents of a foil packet containing the dose prescribed by your doctor.
+- •Shake the syringe right away and then leave it for 2 to 3 minutes to thicken.
+- •Shake the syringe and give the medicine through the NG or gastric tube (French size 6 or larger) into the stomach within 30 minutes.
+- •Refill the syringe with the same amount of water (either 5 mL or 15 mL of water depending on your dose).
+- •Shake the syringe and flush any remaining medicine from the NG tube or gastric tube into the stomach.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 

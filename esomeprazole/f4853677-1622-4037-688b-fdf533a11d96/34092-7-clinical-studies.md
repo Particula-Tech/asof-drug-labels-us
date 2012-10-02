@@ -87,9 +87,8 @@ No significant treatment related differences were seen.
 In a multicenter, parallel-group study, 109 pediatric patients with a history of endoscopically-proven GERD (1 to 11 years of age; 53 female; 89 Caucasian, 19 Black, 1 Other) were treated with NEXIUM once daily for up to 8 weeks to evaluate safety and tolerability.
 Dosing by patient weight was as follows:
 
-weight < 20 kg: once daily treatment with NEXIUM 5 mg or 10 mg
-
-weight ≥ 20 kg: once daily treatment with NEXIUM 10 mg or 20 mg
+- weight < 20 kg: once daily treatment with NEXIUM 5 mg or 10 mg
+- weight ≥ 20 kg: once daily treatment with NEXIUM 10 mg or 20 mg
 
 Patients were endoscopically characterized as to the presence or absence of erosive esophagitis.
 

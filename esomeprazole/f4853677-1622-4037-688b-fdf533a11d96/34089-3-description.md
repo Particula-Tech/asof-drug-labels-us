@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-—+The active ingredient in the proton pump inhibitor NEXIUM® (esomeprazole magnesium) Delayed-Release Capsules for oral administration and NEXIUM (esomeprazole magnesium) For Delayed-Release Oral Suspension is bis(5-methoxy-2-[(S)-[(4-methoxy-3,5-dimethyl-2-pyridinyl)methyl]sulfinyl]-1H-benzimidazole-1-yl) magnesium trihydrate.
+The active ingredient in the proton pump inhibitor NEXIUM® (esomeprazole magnesium) Delayed-Release Capsules for oral administration and NEXIUM (esomeprazole magnesium) For Delayed-Release Oral Suspension is bis(5-methoxy-2-[(S)-[(4-methoxy-3,5-dimethyl-2-pyridinyl)methyl]sulfinyl]-1H-benzimidazole-1-yl) magnesium trihydrate.
 Esomeprazole is the S-isomer of omeprazole, which is a mixture of the S- and R- isomers.
 (Initial U.S. approval of esomeprazole magnesium: 2001).
 Its molecular formula is (C17H18N3O3S)2Mg x 3 H2O with molecular weight of 767.2 as a trihydrate and 713.1 on an anhydrous basis.
