@@ -5,12 +5,13 @@
   "inn": "acetazolamide",
   "labeler": "X-GEN Pharmaceuticals, Inc.",
   "package_ndcs": [
-    "39822-0190-1"
+    "39822-0190-1",
+    "39822-0190-7"
   ],
   "products": [
     {
       "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
-      "generic": "acetazolamide sodium",
+      "generic": "acetazolamide",
       "name": "Acetazolamide"
     }
   ],

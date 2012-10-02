@@ -8,7 +8,7 @@ Caution is advised for patients receiving concomitant high-dose aspirin and acet
 
 # PRECAUTIONS
 
-## GENERAL
+## General
 
 Increasing the dose does not increase the diuresis and may increase the incidence of drowsiness and/or paresthesia.
 Increasing the dose often results in a decrease in diuresis.
@@ -38,9 +38,9 @@ The drug had no effect on fertility when administered in the diet to male and fe
 
 ## Pregnancy
 
-### Teratogenic Effects
+### Teratogenic Effects: Pregnancy Category C
 
-Pregnancy Category C: Acetazolamide, administered orally or parenterally, has been shown to be teratogenic (defects of the limbs) in mice, rats, hamsters and rabbits.
+Acetazolamide, administered orally or parenterally, has been shown to be teratogenic (defects of the limbs) in mice, rats, hamsters and rabbits.
 There are no adequate and well-controlled studies in pregnant women.
 Acetazolamide should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
