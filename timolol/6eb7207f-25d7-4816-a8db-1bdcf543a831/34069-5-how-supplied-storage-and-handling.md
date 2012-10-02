@@ -5,7 +5,7 @@ They are supplied as follows:
 
 NDC 0006-0059-68 bottles of 100.
 
-No. 3344 — Tablets BLOCADREN, 10 mg, are light blue, round, scored, compressed tablets, with code MSD 136 on one side and BLOCADREN on theother.
+No. 3344 — Tablets BLOCADREN, 10 mg, are light blue, round, scored, compressed tablets, with code MSD 136 on one side and BLOCADREN on the other.
 They are supplied as follows:
 
 NDC 0006-0136-68 bottles of 100

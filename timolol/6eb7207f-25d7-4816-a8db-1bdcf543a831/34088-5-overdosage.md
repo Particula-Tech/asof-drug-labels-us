@@ -4,7 +4,7 @@ Overdosage has been reported with Tablets BLOCADREN.
 A 30-year-old female ingested 650 mg of BLOCADREN (maximum recommended daily dose — 60 mg) and experienced second and third degree heart block.
 She recovered without treatment but approximately two months later developed irregular heartbeat, hypertension, dizziness, tinnitus, faintness, increased pulse rate and borderline first degree heart block.
 
-The oral LD50of the drug is 1190 and 900 mg/kg in female mice and female rats, respectively.
+The oral LD50 of the drug is 1190 and 900 mg/kg in female mice and female rats, respectively.
 
 An in vitro hemodialysis study, using 14C timolol added to human plasma or whole blood, showed that timolol was readily dialyzed from these fluids; however, a study of patients with renal failure showed that timolol did not dialyze readily.
 
