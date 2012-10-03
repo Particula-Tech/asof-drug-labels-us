@@ -46,7 +46,8 @@ Pulmonary function studies should be considered at that time.
 Onset of new neurological symptoms has been reported with CUPRIMINE (see ADVERSE REACTIONS).
 Occasionally, neurological symptoms become worse during initiation of therapy with CUPRIMINE (see INDICATIONS).
 Myasthenic syndrome sometimes progressing to myasthenia gravis has been reported.
-Ptosis and diplopia, with weakness of the extraocular muscles, are often early signs of myasthenia.In the majority of cases, symptoms of myasthenia have receded after withdrawal of penicillamine.
+Ptosis and diplopia, with weakness of the extraocular muscles, are often early signs of myasthenia.
+In the majority of cases, symptoms of myasthenia have receded after withdrawal of penicillamine.
 
 Most of the various forms of pemphigus have occurred during treatment with penicillamine.
 Pemphigus vulgaris and pemphigus foliaceus are reported most frequently, usually as a late complication of therapy.
@@ -97,7 +98,7 @@ There is a report that a woman with rheumatoid arthritis treated with less than 
 Some patients may experience drug fever, a marked febrile response to penicillamine, usually in the second to third week following initiation of therapy.
 Drug fever may sometimes be accompanied by a macular cutaneous eruption.
 
-In the case of drug fever in patients withWilson's disease or cystinuria, penicillamine should be temporarily discontinued until the reaction subsides.
+In the case of drug fever in patients with Wilson's disease or cystinuria, penicillamine should be temporarily discontinued until the reaction subsides.
 Then penicillamine should be reinstituted with a small dose that is gradually increased until the desired dosage is attained.
 Systemic steroid therapy may be necessary, and is usually helpful, in such patients in whom drug fever and rash develop several times.
 

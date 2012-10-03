@@ -14,7 +14,7 @@ NDC 0006-0672-68 in bottles of 100.
 
 Keep container tightly closed.
 
-Merck& Co., Inc.,Whitehouse Station, NJ 08889, USA
+MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
 
 Issued October 2004
 

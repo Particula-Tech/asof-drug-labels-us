@@ -36,7 +36,7 @@ Noticeable improvement may not occur for one to three months.
 Occasionally, neurologic symptoms become worse during initiation of therapy with CUPRIMINE.
 Despite this, the drug should not be withdrawn.
 Temporary interruption carries an increased risk of developing a sensitivity reaction upon resumption of therapy, although it may result in clinical improvement of neurological symptoms (see WARNINGS).
-If the neurological symptoms and signs continue to worsen for a month after the initiation of CUPRIMINE therapy, several short courses of treatment with 2,3-dimercaprol (BAL) while continuing CUPRIMINE may be considered.
+If the neurological symptoms and signs continue to worsen for a month after the initiation of CUPRIMINE therapy, several short courses of treatment with 2,3 - dimercaprol (BAL) while continuing CUPRIMINE may be considered.
 
 Treatment of asymptomatic patients has been carried out for over thirty years.
 Symptoms and signs of the disease appear to be prevented indefinitely if daily treatment with CUPRIMINE is continued.
@@ -71,7 +71,8 @@ Bartter and colleagues depict the process by which penicillamine interacts with 
 | --- | --- | --- |
 | PSSP + CS´ | -------------> <-------------- | PS´+ CSSP |
 | CSSC + PSSP´ | -------------> <-------------- | 2CSSP |
-| CSSC = cystine |  |  |
+
+CSSC = cystine
 
 CS´ = deprotonated cysteine
 

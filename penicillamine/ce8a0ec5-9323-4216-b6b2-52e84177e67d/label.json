@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019853"
+  ],
   "inn": "penicillamine",
-  "labeler": "Merck & Co., Inc.",
+  "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
     "0006-0602-68",
     "0006-0672-68"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "penicillamine",
+      "name": "CUPRIMINE"
+    }
+  ],
   "setid": "ce8a0ec5-9323-4216-b6b2-52e84177e67d",
   "source": "dailymed"
 }
