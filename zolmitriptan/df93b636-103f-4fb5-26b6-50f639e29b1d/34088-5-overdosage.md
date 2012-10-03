@@ -1,11 +1,10 @@
-# OVERDOSAGE:
+# 10 OVERDOSAGE
 
-There is no experience with clinical overdose.
-Volunteers receiving single 50 mg oral doses of zolmitriptan commonly experienced sedation.
+There is no experience with acute overdose of ZOMIG.
+Clinical study subjects who received single 50 mg oral doses of ZOMIG commonly experienced sedation.
 
-The elimination half-life of ZOMIG is 3 hours (see CLINICAL PHARMACOLOGY), and therefore monitoring of patients after overdose with ZOMIG should continue for at least 15 hours or while symptoms or signs persist.
-
-There is no specific antidote to zolmitriptan.
+There is no specific antidote to ZOMIG.
 In cases of severe intoxication, intensive care procedures are recommended, including establishing and maintaining a patent airway, ensuring adequate oxygenation and ventilation, and monitoring and support of the cardiovascular system.
 
-It is unknown what effect hemodialysis or peritoneal dialysis has on the plasma concentrations of zolmitriptan.
+The elimination half-life of ZOMIG is 3 hours [see Clinical Pharmacology (12.1)];therefore, monitor patients after overdose with ZOMIG for at least 15 hours or until symptoms or signs resolve.
+It is unknown what effect hemodialysis or peritoneal dialysis has on the plasma concentrations of zolmitriptan..

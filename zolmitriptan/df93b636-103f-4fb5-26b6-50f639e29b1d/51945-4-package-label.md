@@ -12,7 +12,7 @@ USUAL DOSAGE: See accompanying Prescribing Information.
 
 WARNING: As with all medication, keep out of the reach of children.
 
-Store at controlled room temperature 20-25°C (68-77°F)
+Store at controlled room temperature 20-25ºC (68-77ºF)
 
 [see USP].
 Protect from light and moisture.
@@ -34,8 +34,6 @@ Hayward, CA 94544
 Product of Switzerland
 
 ZOMIG is a trademark of the AstraZeneca group of companies.
-
-©AstraZeneca 2012
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 5 mg
 
@@ -51,7 +49,7 @@ USUAL DOSAGE: See accompanying Prescribing Information.
 
 WARNING: As with all medication, keep out of the reach of children.
 
-Store at controlled room temperature 20-25°C (68-77°F)
+Store at controlled room temperature 20-25ºC (68-77ºF)
 
 [see USP].
 Protect from light and moisture.
@@ -76,9 +74,9 @@ ZOMIG is a trademark of the AstraZeneca group of companies.
 
 ©AstraZeneca 2012
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 2.5 mg
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL –2.5 mg
 
-NDC 64896-691-51
+NDC 64896-671-49
 
 SIX orally disintegrating tablets
 
@@ -96,7 +94,7 @@ WARNING: As with all medication, keep out of the reach of children.
 
 Store at controlled room temperature
 
-20-25°C (68-77°F) [see USP].
+20-25ºC (68-77ºF) [see USP].
 Protect from
 
 light and moisture.
@@ -141,7 +139,7 @@ WARNING: As with all medication, keep out of the reach of children.
 
 Store at controlled room temperature
 
-20-25°C (68-77°F) [see USP].
+20-25ºC (68-77ºF) [see USP].
 Protect from
 
 light and moisture.

@@ -1,34 +1,35 @@
-# DOSAGE AND ADMINISTRATION:
+# 2 DOSAGE AND ADMINISTRATION
 
-## ZOMIG Tablets
+## 2.1 Dosing Information
 
-In controlled clinical trials, single doses of 1, 2.5 and 5 mg of ZOMIG Tablets were effective for the acute treatment of migraines in adults.
-A greater proportion of patients had headache response following a 2.5 or 5 mg dose than following a 1 mg dose (see Table 1).
-In the only direct comparison of 2.5 and 5 mg, there was little added benefit from the larger dose but side effects are generally increased at 5 mg (see Table 2).
-Patients should, therefore, be started on 2.5 mg or lower.
-A dose lower than 2.5 mg can be achieved by manually breaking the scored 2.5 mg tablet in half.
+The recommended starting dose of ZOMIG is 1.25 mg or 2.5 mg.
+The 1.25 mg dose can be achieved by manually breaking the functionally-scored 2.5 mg tablet in half.
+The maximum recommended single dose of ZOMIG is 5 mg.
 
-If the headache returns, the dose may be repeated after 2 hours, not to exceed 10 mg within a 24-hour period.
-Controlled trials have not adequately established the effectiveness of a second dose if the initial dose is ineffective.
+In controlled clinical trials, a greater proportion of patients had headache response following a 2.5 mg or 5 mg dose than following a 1 mg dose.
+There was little added benefit from the 5 mg dose compared to the 2.5 mg dose, but adverse reactions were more frequent with the 5 mg dose.
 
-The safety of treating an average of more than three headaches in a 30-day period has not been established.
+If the migraine has not resolved by 2 hours after taking ZOMIG, or returns after a transient improvement, a second dose may be administered at least 2 hours after the first dose.
+The maximum daily dose is 10 mg in any 24-hour period.
 
-### ZOMIG-ZMT Orally Disintegrating Tablets
+The safety of ZOMIG in the treatment of an average of more than three migraines in a 30-day period has not been established.
 
-In a controlled clinical trial, a single dose of 2.5 mg of ZOMIG-ZMT Tablets was effective for the acute treatment of migraines in adults.
+## 2.2 Administration of ZOMIG-ZMT Orally Disintegrating Tablets
 
-If the headache returns, the dose may be repeated after 2 hours, not to exceed 10 mg within a 24-hour period.
-Controlled trials have not adequately established the effectiveness of a second dose if the initial dose is ineffective.
-
-The safety of treating an average of more than three headaches in a 30-day period has not been established.
-
+Instruct patients not to break ZOMIG-ZMT orally disintegrating tablets because they are not functionally-scored.
 Administration with liquid is not necessary.
-The orally disintegrating tablet is packaged in a blister.
-Patients should be instructed not to remove the tablet from the blister until just prior to dosing.
-The blister pack should then be peeled open, and the orally disintegrating tablet placed on the tongue, where it will dissolve and be swallowed with the saliva.
-It is not recommended to break the orally disintegrating tablet.
 
-## Hepatic Impairment:
+Orally disintegrating tablets are packaged in a blister pack.
+Instruct patients not to remove the tablet from the blister until just prior to dosing.
+Subsequently, instruct patients to peel the blister pack open, and to place the orally disintegrating tablet on the tongue, where it will dissolve and it will be swallowed with the saliva.
 
-Patients with moderate to severe hepatic impairment have decreased clearance of zolmitriptan and significant elevation in blood pressure was observed in some patients.
-Use of a low dose with blood pressure monitoring is recommended (see CLINICAL PHARMACOLOGY AND WARNINGS).
+## 2.3 Dosing in Patients with Hepatic Impairment
+
+The recommended dose of ZOMIG in patients with moderate to severe hepatic impairment is 1.25 mg (one-half of one 2.5 mg ZOMIG tablet) because of increased zolmitriptan blood levels in these patients and elevation of blood pressure in some of these patients.
+Limit the total daily dose in patients with severe hepatic impairment to no more than 5 mg per day.
+
+The use of ZOMIG-ZMT orally disintegrating tablets is not recommended in patients with moderate or severe hepatic impairment because these orally disintegrating tablets should not be broken in half [see Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+
+## 2.4 Dosing in Patients taking Cimetidine
+
+If ZOMIG is co-administered with cimetidine, limit the maximum single dose of ZOMIG to 2.5 mg, not to exceed 5 mg in any 24-hour period [see Drug Interactions (7.5), Clinical Pharmacology (12.3)].
