@@ -25,6 +25,8 @@ If after long-term therapy the drug is to be stopped, it is recommended that it 
 
 In the treatment of acute exacerbations of multiple sclerosis, daily doses of 800 mg of hydrocortisone for a week followed by 320 mg every other day for one month are recommended (see PRECAUTIONS, Neurologic-psychiatric).
 
+In patients with liver disease, there may be an increased effect and reduced dosing may be considered (see WARNINGS and PRECAUTIONS)
+
 In pediatric patients, the initial dose of hydrocortisone may vary depending on the specific disease entity being treated.
 The range of initial doses is 0.56 to 8 mg/kg/day in three or four divided doses (20 to 240 mg/m2bsa/day).
 For the purpose of comparison, the following is the equivalent milligram dosage of the various glucocorticoids:

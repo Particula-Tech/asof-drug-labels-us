@@ -127,7 +127,7 @@ Changes in thyroid status of the patient may necessitate adjustment in dosage.
 Steroids should be used with caution in active or latent peptic ulcers, diverticulitis, fresh intestinal anastomoses, and non-specific ulcerative colitis, since they may increase the risk of a perforation.
 Signs of peritoneal irritation following gastrointestinal perforation in patients receiving corticosteroids may be minimal or absent.
 
-There is an enhanced effect due to decreased metabolism of corticosteroids in patients with cirrhosis.
+There is an enhanced effect due to decreased metabolism of corticosteroids in patients with cirrhosis (see DOSAGE AND ADMINISTRATION).
 
 ## Musculoskeletal
 
