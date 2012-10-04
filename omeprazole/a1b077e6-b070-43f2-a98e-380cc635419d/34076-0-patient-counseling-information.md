@@ -13,21 +13,21 @@ The pellets/applesauce mixture should not be stored for future use.
 
 PRILOSEC For Delayed-Release Oral Suspension should be administered as follows:
 
-- Empty the contents of a 2.5 mg packet into a container containing 5 mL of water.
-- Empty the contents of a 10 mg packet into a container containing 15 mL of water.
-- Stir
-- Leave 2 to 3 minutes to thicken.
-- Stir and drink within 30 minutes.
-- If any material remains after drinking, add more water, stir and drink immediately.
+- •Empty the contents of a 2.5 mg packet into a container containing 5 mL of water.
+- •Empty the contents of a 10 mg packet into a container containing 15 mL of water.
+- •Stir
+- •Leave 2 to 3 minutes to thicken.
+- •Stir and drink within 30 minutes.
+- •If any material remains after drinking, add more water, stir and drink immediately.
 
 For patients with a nasogastric or gastric tube in place:
 
-- Add 5 mL of water to a catheter tipped syringe and then add the contents of a 2.5 mg packet (or 15 mL of water for the 10 mg packet).
+- •Add 5 mL of water to a catheter tipped syringe and then add the contents of a 2.5 mg packet (or 15 mL of water for the 10 mg packet).
   It is important to only use a catheter tipped syringe when administering PRILOSEC through a nasogastric tube or gastric tube.
-- Immediately shake the syringe and leave 2 to 3 minutes to thicken.
-- Shake the syringe and inject through the nasogastric or gastric tube, French size 6 or larger, into the stomach within 30 minutes.
-- Refill the syringe with an equal amount of water.
-- Shake and flush any remaining contents from the nasogastric or gastric tube into the stomach.
+- •Immediately shake the syringe and leave 2 to 3 minutes to thicken.
+- •Shake the syringe and inject through the nasogastric or gastric tube, French size 6 or larger, into the stomach within 30 minutes.
+- •Refill the syringe with an equal amount of water.
+- •Shake and flush any remaining contents from the nasogastric or gastric tube into the stomach.
 
 Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.7)].
 

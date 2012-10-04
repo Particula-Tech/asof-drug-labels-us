@@ -18,22 +18,23 @@ PRILOSEC is a prescription medicine called a proton pump inhibitor (PPI).
 PRILOSEC reduces the amount of acid in your stomach.
 PRILOSEC is used in adults:
 
-- for up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
-  GERD is a chronic condition (lasts a long time) that occurs when acid from the stomach backs up into the esophagus (food pipe) causing symptoms, such as heartburn, or damage to the lining of the esophagus.
+- •for up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
+- GERD is a chronic condition (lasts a long time) that occurs when acid from the stomach backs up into the esophagus (food pipe) causing symptoms, such as heartburn, or damage to the lining of the esophagus.
   Common symptoms include frequent heartburn that will not go away, a sour or bitter taste in the mouth, and difficulty swallowing.
-- for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE)
-- to maintain healing of the esophagus.
+
+- •for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE)
+- •to maintain healing of the esophagus.
   PRILOSEC has not been studied for treatment lasting longer than 12 months (1 year)
-- for up to 8 weeks for healing stomach ulcers
-- for up to 8 weeks for healing ulcers in the first part of the small bowel (duodenal ulcers)
-- to treat patients with a stomach infection (Helicobacter pylori), along with the antibiotics amoxicillin and clarithromycin.
-- for lowering the amount of stomach acid in people with certain conditions which cause them to make too much acid, including those with Zollinger-Ellison Syndrome.
+- •for up to 8 weeks for healing stomach ulcers
+- •for up to 8 weeks for healing ulcers in the first part of the small bowel (duodenal ulcers)
+- •to treat patients with a stomach infection (Helicobacter pylori), along with the antibiotics amoxicillin and clarithromycin.
+- •for lowering the amount of stomach acid in people with certain conditions which cause them to make too much acid, including those with Zollinger-Ellison Syndrome.
 
 For children and adolescents 1 to 17 years of age, PRILOSEC is used:
 
-- for up to 4 weeks to treat the symptoms of gastroesophageal reflux disease (GERD).
-- for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE)
-- to maintain healing of the esophagus
+- •for up to 4 weeks to treat the symptoms of gastroesophageal reflux disease (GERD).
+- •for up to 8 weeks to heal acid-related damage to the lining of the esophagus (called erosive esophagitis or EE)
+- •to maintain healing of the esophagus
 
 PRILOSEC is not recommended for children under the age of 1 year.
 PRILOSEC may help your acid-related symptoms, but you could still have serious stomach problems.
@@ -43,20 +44,20 @@ WHO SHOULD NOT TAKE PRILOSEC?
 
 Do not take PRILOSEC if you:
 
-- are allergic to any of the ingredients in PRILOSEC.
+- •are allergic to any of the ingredients in PRILOSEC.
   See the end of this leaflet for a complete list of ingredients in PRILOSEC.
-- are allergic to any other Proton Pump Inhibitor (PPI) medicine.
+- •are allergic to any other Proton Pump Inhibitor (PPI) medicine.
 
 WHAT SHOULD I TELL MY DOCTOR BEFORE TAKING PRILOSEC?
 
 Tell your doctor about all your medical conditions, including if you:
 
-- have been told that you have low magnesium levels in your blood
-- have liver problems
-- are pregnant or plan to become pregnant.
+- •have been told that you have low magnesium levels in your blood
+- •have liver problems
+- •are pregnant or plan to become pregnant.
   It is not known if PRILOSEC will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
-- are breastfeeding or planning to breastfeed.
+- •are breastfeeding or planning to breastfeed.
   You and your doctor should decide if you will take PRILOSEC or breastfeed.
   You should not do both.
 
@@ -65,55 +66,56 @@ PRILOSEC may affect how other medicines work, and other medicines may affect how
 In some cases, a drug you may be taking may need to be temporarily withdrawn.
 Especially tell your doctor if you take:
 
-- atazanavir (Reyataz)
-- nelfinavir (Viracept)
-- saquinavir (Fortovase)
-- cilostazol (Pletal)
-- ketoconazole (Nizoral)
-- voriconazole (Vfend)
-- ampicillin (Unasyn)
-- products that contain iron
-- warfarin (Coumadin)
-- digoxin (Lanoxin, Lanoxincaps)
-- tacrolimus (Prograf)
-- diazepam (Valium)
-- phenytoin (Dilantin)
-- disulfiram (Antabuse)
-- clopidogrel (Plavix)
-- St. John’s Wort (Hypericum perforatum)
-- rifampin
-- erlotinib
-- methotrexate
+- •atazanavir (Reyataz)
+- •nelfinavir (Viracept)
+- •saquinavir (Fortovase)
+- •cilostazol (Pletal)
+- •ketoconazole (Nizoral)
+- •voriconazole (Vfend)
+- •ampicillin (Unasyn)
+- •products that contain iron
+- •warfarin (Coumadin)
+- •digoxin (Lanoxin, Lanoxincaps)
+- •tacrolimus (Prograf)
+- •diazepam (Valium)
+- •phenytoin (Dilantin)
+- •disulfiram (Antabuse)
+- •clopidogrel (Plavix)
+- •St.
+  John’s Wort (Hypericum perforatum)
+- •rifampin
+- •erlotinib
+- •methotrexate
 
 HOW SHOULD I TAKE PRILOSEC?
 
-- Take PRILOSEC exactly as prescribed by your doctor.
-- Do not change your dose or stop PRILOSEC without talking to your doctor.
-- Take PRILOSEC at least 1 hour before a meal.
-- Swallow PRILOSEC capsules whole.
+- •Take PRILOSEC exactly as prescribed by your doctor.
+- •Do not change your dose or stop PRILOSEC without talking to your doctor.
+- •Take PRILOSEC at least 1 hour before a meal.
+- •Swallow PRILOSEC capsules whole.
   Never chew or crush PRILOSEC.
-- If you have difficulty swallowing PRILOSEC capsules, you may open the capsule and empty the contents into a tablespoon of applesauce.
+- •If you have difficulty swallowing PRILOSEC capsules, you may open the capsule and empty the contents into a tablespoon of applesauce.
   Be sure to swallow the applesauce right away.
   Do not store it for later use.
-- If you forget to take a dose of PRILOSEC, take it as soon as you remember.
+- •If you forget to take a dose of PRILOSEC, take it as soon as you remember.
   If it is almost time for your next dose, do not take the missed dose.
   Take the next dose on time.
   Do not take a double dose to make up for a missed dose.
-- If you take too much PRILOSEC, tell your doctor right away.
-- See the “Patient Instructions for Use” at the end of this leaflet for instructions how to take PRILOSEC Delayed-Release Oral Suspension, and how to mix and give PRILOSEC For Delayed-Release Oral Suspension, through a nasogastric tube or gastric tube.
+- •If you take too much PRILOSEC, tell your doctor right away.
+- •See the “Patient Instructions for Use” at the end of this leaflet for instructions how to take PRILOSEC Delayed-Release Oral Suspension, and how to mix and give PRILOSEC For Delayed-Release Oral Suspension, through a nasogastric tube or gastric tube.
 
 WHAT ARE THE POSSIBLE SIDE EFFECTS OF PRILOSEC?
 
-- Serious allergic reactions.
+- •Serious allergic reactions.
   Tell your doctor if you get any of the following symptoms with PRILOSEC.
-- rash
-- face swelling
-- throat tightness
-- difficulty breathing
+- •rash
+- •face swelling
+- •throat tightness
+- •difficulty breathing
 
 Your doctor may stop PRILOSEC if these symptoms happen.
 
-- Low magnesium levels in your body.
+- •Low magnesium levels in your body.
   This problem can be serious.
   Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
@@ -121,28 +123,28 @@ Your doctor may stop PRILOSEC if these symptoms happen.
 
 Tell your doctor right away if you have any of these symptoms:
 
-- seizures
-- dizziness
-- abnormal or fast heart beat
-- jitteriness
-- jerking movements or shaking (tremors)
-- muscle weakness
-- spasms of the hands and feet
-- cramps or muscle aches
-- spasm of the voice box
+- •seizures
+- •dizziness
+- •abnormal or fast heart beat
+- •jitteriness
+- •jerking movements or shaking (tremors)
+- •muscle weakness
+- •spasms of the hands and feet
+- •cramps or muscle aches
+- •spasm of the voice box
 
 Your doctor may check the level of magnesium in your body before you start taking PRILOSEC or during treatment if you will be taking PRILOSEC for a long period of time.
 
 The most common side effects with PRILOSEC in adults and children include:
 
-- Headache
-- Abdominal pain
-- Nausea
-- Diarrhea
-- Vomiting
-- Gas
-- Respiratory system events
-- Fever
+- •Headache
+- •Abdominal pain
+- •Nausea
+- •Diarrhea
+- •Vomiting
+- •Gas
+- •Respiratory system events
+- •Fever
 
 People who are taking multiple daily doses of proton pump inhibitor medicines for a long period of time may have an increased risk of fractures of the hip, wrist or spine.
 
@@ -176,10 +178,10 @@ For instructions on taking Delayed-Release Capsules, please see “HOW SHOULD I 
 
 Take PRILOSEC Delayed-Release Oral Suspension as follows:
 
-- Empty the contents of a 2.5 mg packet into a container containing 1 teaspoon (5 mL) of water or empty the contents of a 10 mg packet into a container with 1 tablespoon (15 mL) of water
-- Stir.
-- Leave 2 to 3 minutes to thicken.
-- Stir and drink within 30 minutes.
+- •Empty the contents of a 2.5 mg packet into a container containing 1 teaspoon (5 mL) of water or empty the contents of a 10 mg packet into a container with 1 tablespoon (15 mL) of water
+- •Stir.
+- •Leave 2 to 3 minutes to thicken.
+- •Stir and drink within 30 minutes.
 
 If any medicine remains after drinking, add more water, stir, and drink right away.
 
@@ -188,12 +190,12 @@ Follow the instructions below:
 
 PRILOSEC for Delayed-Release Oral Suspension:
 
-- Add 5 mL of water to a catheter tipped syringe and then add the contents of a 2.5 mg packet (or 15 mL of water for the 10 mg packet), as instructed by your doctor.
+- •Add 5 mL of water to a catheter tipped syringe and then add the contents of a 2.5 mg packet (or 15 mL of water for the 10 mg packet), as instructed by your doctor.
   Use only a catheter tipped syringe to give PRILOSEC through a NG tube or gastric tube.
-- Shake the syringe right away and then leave it for 2 to 3 minutes to thicken.
-- Shake the syringe and give the medicine through the NG or gastric tube (French size 6 or larger) into the stomach within 30 minutes.
-- Refill the syringe with an equal amount of water.
-- Shake and flush any remaining contents from the NG tube or gastric tube into the stomach.
+- •Shake the syringe right away and then leave it for 2 to 3 minutes to thicken.
+- •Shake the syringe and give the medicine through the NG or gastric tube (French size 6 or larger) into the stomach within 30 minutes.
+- •Refill the syringe with an equal amount of water.
+- •Shake and flush any remaining contents from the NG tube or gastric tube into the stomac
 
 WHAT ARE THE INGREDIENTS IN PRILOSEC?
 

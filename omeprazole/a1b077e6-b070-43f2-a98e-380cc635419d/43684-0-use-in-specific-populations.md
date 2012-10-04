@@ -32,7 +32,7 @@ Several studies have reported no apparent adverse short-term effects on the infa
 Reproductive studies conducted with omeprazole on rats at oral doses up to 56 times the human dose and in rabbits at doses up to 56 times the human dose did not show any evidence of teratogenicity.
 In pregnant rabbits, omeprazole at doses about 5.5 to 56 times the human dose produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy loss.
 In rats treated with omeprazole at doses about 5.6 to 56 times the human dose, dose-related embryo/fetal toxicity and postnatal developmental toxicity occurred in offspring.
-[See Animal Toxicology and/or Pharmacology (13.2)].
+[SeeAnimal Toxicology and/or Pharmacology (13.2)].
 
 ## 8.3 Nursing Mothers
 
@@ -72,4 +72,4 @@ No dosage reduction is necessary.
 ## 8.8 Asian Population
 
 Consider dose reduction, particularly for maintenance of healing of erosive esophagitis.
-[See Clinical Pharmacology (12.3)]
+[SeeClinical Pharmacology (12.3)]

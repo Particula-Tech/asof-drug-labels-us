@@ -20,16 +20,14 @@ The inhibitory effect of omeprazole on acid secretion increases with repeated on
 Results from numerous studies of the antisecretory effect of multiple doses of 20 mg and 40 mg of omeprazole in normal volunteers and patients are shown below.
 The “max” value represents determinations at a time of maximum effect (2-6 hours after dosing), while “min” values are those 24 hours after the last dose of omeprazole.
 
-Table 1
+Table 1 Range of Mean Values from Multiple Studies of the Mean Antisecretory Effects of Omeprazole After Multiple Daily Dosing
 
-Range of Mean Values from Multiple Studies of the Mean Antisecretory Effects of Omeprazole After Multiple Daily Dosing
-
-| Parameter | Max | Min | Max | Min |
-| --- | --- | --- | --- | --- |
 |  | Omeprazole 20 mg |  | Omeprazole 40 mg |  |
-| % Decrease in Basal Acid Output | 78Single Studies | 58–80 | 94 | 80–93 |
-| % Decrease in Peak Acid Output | 79 | 50–59 | 88 | 62–68 |
-| % Decrease in 24–hr. Intragastric Acidity |  | 80–97 |  | 92–94 |
+| --- | --- | --- | --- | --- |
+| Parameter | Max | Min | Max | Min |
+| % Decrease in Basal Acid Output | 78Single Studies | 58-80 | 94Single Studies | 80-93 |
+| % Decrease in Peak Acid Output | 79 | 50-59 | 88 | 62-68 |
+| % Decrease in 24-hr. Intragastric Acidity |  | 80-97 |  | 92-94 |
 
 Single daily oral doses of omeprazole ranging from a dose of 10 mg to 40 mg have produced 100% inhibition of 24-hour intragastric acidity in some patients.
 
@@ -119,9 +117,7 @@ For clarithromycin, the mean Cmax was 10% greater, the mean Cmin was 27% greater
 Similar results were seen for 14-hydroxy-clarithromycin, the mean Cmax was 45% greater, the mean Cmin was 57% greater, and the mean AUC0-8 was 45% greater.
 Clarithromycin concentrations in the gastric tissue and mucus were also increased by concomitant administration of omeprazole.
 
-Table 2
-
-Clarithromycin Tissue Concentrations 2 hours after DoseMean ± SD (μg/g)
+Table 2 Clarithromycin Tissue Concentrations 2 hours after DoseMean ± SD (μg/g)
 
 | Tissue | Clarithromycin | Clarithromycin + Omeprazole |
 | --- | --- | --- |
@@ -142,19 +138,17 @@ Pediatric Use
 
 The pharmacokinetics of omeprazole have been investigated in pediatric patients 2 to 16 years of age:
 
-Table 3
+Table 3 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations compared with Adults
 
-Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
-
-| Single or Repeated Oral Dosing /Parameter | ChildrenData from single and repeated dose studies ≤ 20 kg 2-5 years | Children > 20 kg 6-16 years | AdultsData from a single and repeated dose study Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules(mean 76 kg) 23-29 years (n=12) |
+| Single or Repeated Oral Dosing/Parameter | ChildrenData from single and repeated dose studies. Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules. ≤ 20 kg2-5 years | Children > 20 kg6-16 years | AdultsData from a single and repeated dose study. Doses of 10, 20 and 40 mg omeprazole as enteric-coated granules. (mean 76 kg)23-29 years (n=12) |
 | --- | --- | --- | --- |
 |  | 10 mg | 20 mg |  |
 | Single Dosing |  |  |  |
-| CmaxNote: ‡ = plasma concentration adjusted to an oral dose of 1 mg/kg. (ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
-| AUC(ng h/mL) | 511 (n=7) | 1140 (n=32) | 1220 |
+| CmaxPlasma concentration adjusted to an oral dose of 1 mg/kg. (ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
+| AUC (ng h/mL) | 511 (n=7) | 1140 (n=32) | 1220 |
 | Repeated Dosing |  |  |  |
-| Cmax(ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
-| AUC(ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
+| Cmax (ng/mL) | 539 (n=4) | 851 (n=32) | 1458 |
+| AUC (ng h/mL) | 1179 (n=2) | 2276 (n=23) | 3352 |
 
 Following comparable mg/kg doses of omeprazole, younger children (2 to 5 years of age) have lower AUCs than children 6 to 16 years of age or adults; AUCs of the latter two groups did not differ.
 [See Dosage and Administration (2)]
@@ -190,23 +184,20 @@ Amoxicillin pretreatment susceptible isolates (≤ 0.25 µg/mL) were found in 99
 Amoxicillin pretreatment minimum inhibitory concentrations (MICs) > 0.25 µg/mL occurred in 0.7% (3/439) of the patients, all of whom were in the clarithromycin and amoxicillin study arm.
 One patient had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of > 256 µg/mL by Etest®.
 
-Table 4
+Table 4 Clarithromycin Susceptibility test Results and Cliniical/Bacteriological OutcomesIncludes only patients with pretreatment clarithromycin susceptibility test results.
 
-Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
-
-| Clarithromycin Pretreatment Results |  |  | Clarithromycin Post-treatment Results |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes Includes only patients with pretreatment clarithromycin susceptibility test results |  |  |  |  |  |
-|  | H. pylori negative – eradicated | H. pylori positive – not eradicatedPost-treatment susceptibility results |  |  |  |
-|  | SSusceptible (S) MIC ≤ 0.25 µg/mL, Intermediate (I) MIC 0.5 – 1.0 µg/mL, Resistant (R) MIC ≥ 2 µg/mL | I | R | No MIC |  |
-| Dual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4,5) |  |  |  |  |  |
-| Susceptible 108 | 72 | 1 |  | 26 | 9 |
-| Intermediate 1 |  |  |  | 1 |  |
-| Resistant 4 |  |  |  | 4 |  |
-| Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2) |  |  |  |  |  |
-| Susceptible 171 | 153 | 7 |  | 3 | 8 |
-| Intermediate |  |  |  |  |  |
-| Resistant 14 | 4 | 1 |  | 6 | 3 |
+| Clarithromycin Pretreatment Results |  |  | Clarithromycin Post-treatment Results |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| H. pylori negative - eradicated |  |  | H. pylori positive – not eradicatedPost-treatment susceptibility results |  |  |  |
+| SSusceptible (S) MIC ≤ 0.25 μg/mL, Intermediate (I) MIC 0.5 – 1.0 μg/mL, Resistant (R) MIC ≥ 2 μg/mL. | I | R | No MIC |  |  |  |
+| Dual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4,5) |  |  |  |  |  |  |
+| Susceptible† | 108 | 72 | 1 |  | 26 | 9 |
+| Intermediate† | 1 |  |  |  | 1 |  |
+| Resistant† | 4 |  |  |  | 4 |  |
+| Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2) |  |  |  |  |  |  |
+| Susceptible† | 171 | 153 | 7 |  | 3 | 8 |
+| Intermediate† |  |  |  |  |  |  |
+| Resistant † | 14 | 4 | 1 |  | 6 | 3 |
 
 Patients not eradicated of H. pylori following omeprazole/clarithromycin/amoxicillin triple therapy or omeprazole/clarithromycin dual therapy will likely have clarithromycin resistant H. pylori isolates.
 Therefore, clarithromycin susceptibility testing should be done, if possible.
@@ -228,21 +219,21 @@ The clarithromycin and amoxicillin MIC values should be interpreted according to
 
 Table 5
 
-| Clarithromycin MIC (µg/mL) These are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods. | Interpretation |
+| Clarithromycin MIC (μg/mL)There are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods. | Interpretation |
 | --- | --- |
 | ≤ 0.25 | Susceptible (S) |
 | 0.5 | Intermediate (I) |
 | > 1.0 | Resistant (R) |
-| Amoxicillin MIC (µg/mL),There were not enough organisms with MICs > 0.25 µg/mL to determine a resistance breakpoint. | Interpretation |
+| Amoxicillin MIC (μg/mL)There are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods.There were not enough organisms with MICs > 2.05 μg/mL to determine a resistance breakpoint. | Interpretation |
 | ≤ 0.25 | Susceptible (S) |
 
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
 Standard clarithromycin and amoxicillin powders should provide the following MIC values:
 
-| Microorganism | Antimicrobial Agent | MIC (µg/mL) These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods. |
+| Microorganism | Antimicrobial Agent | MIC (μg/mL)These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods. |
 | --- | --- | --- |
-| H. pylori ATCC 43504 | Clarithromycin | 0.016- 0.12 (µg/mL) |
-| H. pylori ATCC 43504 | Amoxicillin | 0.016- 0.12 (µg/mL) |
+| H. pylori ATCC 43504 | Clarithromycin | 0.016-0.12 (μg/mL) |
+| H. pylori ATCC 43504 | Amoxicillin | 0.016-0.12 (μg/mL) |
 
 Effects on Gastrointestinal Microbial Ecology
 
