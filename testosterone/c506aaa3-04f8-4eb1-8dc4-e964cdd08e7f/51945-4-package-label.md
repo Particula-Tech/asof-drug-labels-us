@@ -2,7 +2,7 @@ NDC 0051–8425–30
 
 CIII
 
-AndroGel® (testosterone gel) 1%
+AndroGel®(testosterone gel) 1%
 
 30 Unit-dose Packets
 
@@ -14,13 +14,13 @@ Rx Only Abbott
 
 Dispense the enclosed Medication Guide to each patient.
 
-* See accompanying package insert.
+*See accompanying package insert.
 
 NDC 0051–8450–30
 
 CIII
 
-AndroGel® (testosterone gel 1%)
+AndroGel® (testosterone gel) 1%
 
 30 Unit-dose Packets
 
@@ -28,9 +28,9 @@ Contains 5 grams per unit dose
 
 Clear, colorless gel provides transdermal delivery of testosterone through the skin of the shoulders, upper arms, or abdomen.*
 
-Dispense the enclosed Medication guide to each patient.
+Dispense the enclosed Medication Guide to each patient.
 
-*See accompanying package insert.
+* See accompanying package insert.
 
 Rx Only Abbott
 
@@ -38,7 +38,7 @@ NDC 0051–8488–88
 
 CIII
 
-AndroGel® (testosterone 1% Pump
+AndroGel® (testosterone gel) 1% Pump
 
 This package contains 2 multi-dose pumps.
 Each pump is capable of dispensing 75g or 60 metered 1.25g doses.
@@ -46,23 +46,5 @@ Each pump is capable of dispensing 75g or 60 metered 1.25g doses.
 Clear, colorless gel provides transdermal delivery of testosterone through the skin of the shoulders, upper arms, or abdomen.*
 
 Dispense the enclosed Medication Guide to each patient.
-
-Rx Only Abbott
-
-NDC 0051–8444–18
-
-CIII
-
-AndroGel® (testosterone gel) 1% Pump
-
-Multi-dose pump capable of dispensing 37.5 grams or 30 metered 1.25 gram doses.
-
-Clear, colorless gel provides transdermal delivery of testosterone through the skin of the shoulders, upper arms or abdomen.*
-
-Professional Sample-May not be sold or billed
-
-Dispense the enclosed medication guide.
-
-* See accompanying Medication Guide
 
 Rx Only Abbott

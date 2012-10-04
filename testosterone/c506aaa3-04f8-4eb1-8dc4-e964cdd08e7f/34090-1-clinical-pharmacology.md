@@ -8,33 +8,31 @@ Testosterone and DHT are necessary for the normal development of secondary sex c
 Male hypogonadism results from insufficient secretion of testosterone and is characterized by low serum testosterone concentrations.
 Signs/symptoms associated with male hypogonadism include erectile dysfunction and decreased sexual desire, fatigue and loss of energy, mood depression, regression of secondary sexual characteristics and osteoporosis.
 
-Male hypogonadism has two main etiologies.
-Primary hypogonadism is caused by defects of the gonads, such as Klinefelter's Syndrome or Leydig cell aplasia, whereas secondary hypogonadism is the failure of the hypothalamus (or pituitary) to produce sufficient gonadotropins (FSH, LH).
+Male hypogonadism can present as primary hypogonadism caused by defects of the gonads, such as Klinefelter’s Syndrome or Leydig cell aplasia while secondary hypogonadism is the failure of the hypothalamus or pituitary to produce sufficient gonadotropins (FSH, LH).
+
+## 12.2 Pharmacodynamics
+
+No specific pharmacodynamic studies were conducted using AndroGel 1%.
 
 ## 12.3 Pharmacokinetics
 
-Adult Males
-
 Absorption
 
-AndroGel delivers physiologic amounts of testosterone, producing circulating testosterone concentrations that approximate normal levels (298 – 1043 ng/dL) seen in healthy men.
-AndroGel provides continuous transdermal delivery of testosterone for 24 hours following a single application to intact, clean, dry skin of the shoulders, upper arms and/or abdomen.
+AndroGel 1% delivers physiologic amounts of testosterone, producing circulating testosterone concentrations that approximate normal concentrations (298 - 1043 ng/dL) seen in healthy men.
+AndroGel 1% provides continuous transdermal delivery of testosterone for 24 hours following a single application to intact, clean, dry skin of the shoulders, upper arms and/or abdomen.
 
-AndroGel is a hydroalcoholic formulation that dries quickly when applied to the skin surface.
+AndroGel 1% is a hydroalcoholic formulation that dries quickly when applied to the skin surface.
 The skin serves as a reservoir for the sustained release of testosterone into the systemic circulation.
 Approximately 10% of the testosterone dose applied on the skin surface from AndroGel is absorbed into systemic circulation.
-Therefore, 5 g and 10 g of AndroGel systemically deliver approximately 5 mg and 10 mg of testosterone, respectively.
-In a study with 10 g of AndroGel, all patients showed an increase in serum testosterone within 30 minutes, and eight of nine patients had a serum testosterone concentration within normal range by 4 hours after the initial application.
+In a study with AndroGel 1% 100 mg, all patients showed an increase in serum testosterone within 30 minutes, and eight of nine patients had a serum testosterone concentration within normal range by 4 hours after the initial application.
 Absorption of testosterone into the blood continues for the entire 24-hour dosing interval.
-Serum concentrations approximate the steady-state level by the end of the first 24 hours and are at steady state by the second or third day of dosing.
+Serum concentrations approximate the steady-state concentration by the end of the first 24 hours and are at steady state by the second or third day of dosing.
 
-With single daily applications of AndroGel, follow-up measurements 30, 90 and 180 days after starting treatment have confirmed that serum testosterone concentrations are generally maintained within the eugonadal range.
-Figure 1 summarizes the 24-hour pharmacokinetic profiles of testosterone for hypogonadal men (<300 ng/dL) maintained on 5 g or 10 g of AndroGel for 30 days.
-The average (± SD) daily testosterone concentration produced by AndroGel 10 g on Day 30 was 792 (± 294) ng/dL and by AndroGel 5 g 566 (± 262) ng/dL.
+With single daily applications of AndroGel 1%, follow-up measurements 30, 90 and 180 days after starting treatment have confirmed that serum testosterone concentrations are generally maintained within the eugonadal range.
+Figure 1 summarizes the 24-hour pharmacokinetic profiles of testosterone for hypogonadal men (less than 300 ng/dL) maintained on AndroGel 1% 50 mg or 100 mg for 30 days.
+The average (± SD) daily testosterone concentration produced by AndroGel 1% 100 mg on Day 30 was 792 (± 294) ng/dL and by AndroGel 1% 50 mg 566 (± 262) ng/dL.
 
-Figure 1: Mean (± SD) Steady-State Serum Testosterone Concentrations on Day 30 in Patients Applying AndroGel Once Daily
-
-When AndroGel treatment is discontinued after achieving steady state, serum testosterone levels remain in the normal range for 24 to 48 hours but return to their pretreatment levels by the fifth day after the last application.
+Figure 1: Mean (± SD) Steady-State Serum Testosterone Concentrations on Day 30 in Patients Applying AndroGel 1% Once Daily
 
 Distribution
 
@@ -43,15 +41,24 @@ Approximately 40% of testosterone in plasma is bound to SHBG, 2% remains unbound
 
 Metabolism
 
-There is considerable variation in the half-life of testosterone as reported in the literature, ranging from 10 to 100 minutes.
 Testosterone is metabolized to various 17-keto steroids through two different pathways.
-The major active metabolites of testosterone are estradiol and DHT.
+The major active metabolites of testosterone are estradiol and dihydrotestosterone (DHT).
 
-DHT concentrations increased in parallel with testosterone concentrations during AndroGel treatment.
-After 180 days of treatment in adult males, mean DHT concentrations were within the normal range with 5 g AndroGel and were about 7% above the normal range after a 10 g dose.
-The mean steady-state DHT/T ratio during 180 days of AndroGel treatment remained within normal limits and ranged from 0.23 to 0.29 (5 g/day) and from 0.27 to 0.33 (10 g/day).
+DHT concentrations increased in parallel with testosterone concentrations during AndroGel 1% treatment.
+The mean steady-state DHT/T ratio during 180 days of AndroGel treatment ranged from 0.23 to 0.29 (50 mg of AndroGel 1%/day) and from 0.27 to 0.33 (100 mg of AndroGel 1%/day).
 
 Excretion
 
-About 90% of a dose of testosterone given intramuscularly is excreted in the urine as glucuronic and sulfuric acid conjugates of testosterone and its metabolites; about 6% of a dose is excreted in the feces, mostly in the unconjugated form.
+There is considerable variation in the half-life of testosterone concentration as reported in the literature, ranging from 10 to 100 minutes.
+About 90% of a dose of testosterone given intramuscularly is excreted in the urine as glucuronic and sulfuric acid conjugates of testosterone and its metabolites.
+About 6% of a dose is excreted in the feces, mostly in the unconjugated form.
 Inactivation of testosterone occurs primarily in the liver.
+
+When AndroGel 1% treatment is discontinued after achieving steady state, serum testosterone concentrations remain in the normal range for 24 to 48 hours but return to their pretreatment concentrations by the fifth day after the last application.
+
+Testosterone Transfer from Male Patients to Female Partners
+
+The potential for dermal testosterone transfer following AndroGel 1% use was evaluated in a clinical study between males dosed with AndroGel 1% and their untreated female partners.
+Two (2) to 12 hours after application of 100 mg of testosterone administered as AndroGel 1% by the male subjects, the couples (N = 38 couples) engaged in daily, 15-minute sessions of vigorous skin-to-skin contact so that the female partners gained maximum exposure to the AndroGel 1% application sites.
+Under these study conditions, all unprotected female partners had a serum testosterone concentration >2 times the baseline value at some time during the study.
+When a shirt covered the application site(s), the transfer of testosterone from the males to the female partners was completely prevented.

@@ -6,13 +6,13 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Clinical Trials in Hypogonadal Men
 
-Table 2 shows the incidence of all adverse events judged by the investigator to be at least possibly related to treatment with AndroGel and reported by >1% of patients in a 180 Day, Phase 3 study.
+Table 2 shows the incidence of all adverse events judged by the investigator to be at least possibly related to treatment with AndroGel 1% and reported by >1% of patients in a 180 Day, Phase 3 study.
 
-Table 2: Adverse Events Possibly, Probably or Definitely Related to Use of AndroGel in the 180-Day Controlled Clinical Trial
+Table 2: Adverse Events Possibly, Probably or Definitely Related to Use of AndroGel 1% in the 180-Day Controlled Clinical Trial
 
-| Adverse Event | Dose of AndroGel |  |  |
+| Adverse Event | Dose of AndroGel 1% |  |  |
 | --- | --- | --- | --- |
-| 5 g | 7.5 g | 10 g |  |
+| 50 mg | 75 mg | 100 mg |  |
 |  | N = 77 | N = 40 | N = 78 |
 | Acne | 1% | 3% | 8% |
 | Alopecia | 1% | 0% | 1% |
@@ -35,17 +35,17 @@ Table 2: Adverse Events Possibly, Probably or Definitely Related to Use of Andro
 
 Other less common adverse reactions, reported in fewer than 1% of patients included: amnesia, anxiety, discolored hair, dizziness, dry skin, hirsutism, hostility, impaired urination, paresthesia, penis disorder, peripheral edema, sweating, and vasodilation.
 
-In this 180 day clinical trial, skin reactions at the site of application were reported with AndroGel, but none was severe enough to require treatment or discontinuation of drug.
+In this 180 day clinical trial, skin reactions at the site of application were reported with AndroGel 1%, but none was severe enough to require treatment or discontinuation of drug.
 
-Six patients (4%) in this trial had adverse events that led to discontinuation of AndroGel.
-These events included: cerebral hemorrhage, convulsion (neither of which were considered related to AndroGel administration), depression, sadness, memory loss, elevated prostate specific antigen, and hypertension.
-No AndroGel patient discontinued due to skin reactions.
+Six patients (4%) in this trial had adverse events that led to discontinuation of AndroGel 1%.
+These events included: cerebral hemorrhage, convulsion (neither of which were considered related to AndroGel 1% administration), depression, sadness, memory loss, elevated prostate specific antigen, and hypertension.
+No AndroGel 1% patient discontinued due to skin reactions.
 
-In a separate uncontrolled pharmacokinetic study of 10 patients, two had adverse events associated with AndroGel; these were asthenia and depression in one patient and increased libido and hyperkinesia in the other.
+In a separate uncontrolled pharmacokinetic study of 10 patients, two had adverse events associated with AndroGel 1%; these were asthenia and depression in one patient and increased libido and hyperkinesia in the other.
 
-In a 3 year, flexible dose, extension study, the incidence of all adverse events judged by the investigator to be at least possibly related to treatment with AndroGel and reported by > 1% of patients is shown in Table 3.
+In a 3 year, flexible dose, extension study, the incidence of all adverse events judged by the investigator to be at least possibly related to treatment with AndroGel 1% and reported by > 1% of patients is shown in Table 3.
 
-Table 3: Adverse Events Possibly, Probably or Definitely Related to Use of AndroGel in the 3 Year, Flexible Dose, Extension Study
+Table 3: Adverse Events Possibly, Probably or Definitely Related to Use of AndroGel 1% in the 3 Year, Flexible Dose, Extension Study
 
 |  | (N = 162) |
 | --- | --- |
@@ -72,7 +72,7 @@ Discontinuation for adverse events in this study included: two patients with app
 Increases in Serum PSA Observed in Clinical Trials of Hypogonadal Men
 
 During the initial 6-month study, the mean change in PSA values had a statistically significant increase of 0.26 ng/mL.
-Serum PSA was measured every 6 months thereafter in the 162 hypogonadal men on AndroGel in the 3-year extension study.
+Serum PSA was measured every 6 months thereafter in the 162 hypogonadal men on AndroGel 1% in the 3-year extension study.
 There was no additional statistically significant increase observed in mean PSA from 6 months through 36 months.
 However, there were increases in serum PSA observed in approximately 18% of individual patients.
 The overall mean change from baseline in serum PSA values for the entire group from month 6 to 36 was 0.11 ng/mL.
@@ -89,23 +89,10 @@ The second patient's PSA levels were 4.2 ng/mL, 5.2 ng/mL, 5.8 ng/mL, and 6.6 ng
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of AndroGel.
-Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post approval use of AndroGel 1%.
+Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 4).
 
-Secondary Exposure to Testosterone in Children
-
-Cases of secondary exposure to testosterone resulting in virilization of children have been reported in postmarket surveillance.
-Signs and symptoms of these reported cases have included enlargement of the clitoris (with surgical intervention) or the penis, development of pubic hair, increased erections and libido, aggressive behavior, and advanced bone age.
-In most cases with a reported outcome, these signs and symptoms were reported to have regressed with removal of the testosterone gel exposure.
-In a few cases, however, enlarged genitalia did not fully return to age appropriate normal size, and bone age remained modestly greater than chronological age.
-In some of the cases, direct contact with the sites of application on the skin of men using testosterone gel was reported.
-In at least one reported case, the reporter considered the possibility of secondary exposure from items such as the testosterone gel user's shirts and/or other fabric, such as towels and sheets [see Warnings and Precautions (5.2)].
-
-Hypogonadal Men
-
-Table 4 includes adverse reactions that have been identified postmarketing.
-
-Table 4: Adverse Drug Reactions from Postmarketing Experience of AndroGel by MedDRA System Organ Class
+Table 4: Adverse Drug Reactions from Postmarketing Experience of AndroGel 1% by MedDRA System Organ Class
 
 | Blood and the lymphatic system disorders: | Elevated Hgb, Hct (polycythemia) |
 | --- | --- |
@@ -114,7 +101,7 @@ Table 4: Adverse Drug Reactions from Postmarketing Experience of AndroGel by Med
 | General disorders and administration site reactions: | Asthenia, edema, malaise |
 | Genitourinary disorders: | Impaired urination |
 | Hepatobiliary disorders: | Abnormal liver function tests (e.g. transaminases, elevated GGTP, bilirubin) |
-| Investigations: | Elevated PSA, electrolyte changes (nitrogen, calcium, potassium, phosphorus, sodium), changes in serum lipids (hyperlipidemia, elevated triglycerides, decreased HDL), impaired glucose tolerance, fluctuating testosterone levels, weight increase |
+| Investigations: | Elevated PSA, electrolyte changes (nitrogen, calcium, potassium, phosphorus, sodium), changes in serum lipids (hyperlipidemia, elevated triglycerides, decreased HDL), impaired glucose tolerance, fluctuating testosterone concentrations, weight increase |
 | Neoplasms benign, malignant and unspecified (cysts and polyps): | Prostate cancer |
 | Nervous system: | Headache, dizziness, sleep apnea, insomnia |
 | Psychiatric disorders: | Depression, emotional lability, decreased libido, nervousness, hostility, amnesia, anxiety |
@@ -122,3 +109,10 @@ Table 4: Adverse Drug Reactions from Postmarketing Experience of AndroGel by Med
 | Respiratory disorders: | Dyspnea |
 | Skin and subcutaneous tissue disorders: | Acne, alopecia, application site reaction (pruritus, dry skin, erythema, rash, discolored hair, paresthesia), sweating |
 | Vascular disorders: | Hypertension, vasodilation (hot flushes) |
+
+Secondary Exposure to Testosterone in Children Cases of secondary exposure to testosterone resulting in virilization of children have been reported in postmarket surveillance.
+Signs and symptoms of these reported cases have included enlargement of the clitoris (with surgical intervention) or the penis, development of pubic hair, increased erections and libido, aggressive behavior, and advanced bone age.
+In most cases with a reported outcome, these signs and symptoms were reported to have regressed with removal of the testosterone gel exposure.
+In a few cases, however, enlarged genitalia did not fully return to age appropriate normal size, and bone age remained modestly greater than chronological age.
+In some of the cases, direct contact with the sites of application on the skin of men using testosterone gel was reported.
+In at least one reported case, the reporter considered the possibility of secondary exposure from items such as the testosterone gel user's shirts and/or other fabric, such as towels and sheets [see Warnings and Precautions (5.2)].

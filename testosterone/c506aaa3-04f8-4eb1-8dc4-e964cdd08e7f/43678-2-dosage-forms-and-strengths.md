@@ -1,10 +1,8 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-AndroGel (testosterone gel) 1% for topical use is available in either unit-dose packets or multiple-dose pumps.
-The 75 g (60 metered-dose) pump delivers 1.25 g of product when the pump mechanism is fully depressed once.
+AndroGel (testosterone gel) 1% for topical use is available as follows:
 
-AndroGel is available in the following three package containers:
-
-- 2 x 75 g pumps (each pump dispenses 60 metered 1.25 g doses)
-- 2.5 g packet
-- 5 g packet
+- A metered-dose pump.
+  Each pump actuation delivers 12.5 mg of testosterone in 1.25 g of gel.
+- A unit dose packet containing 25 mg of testosterone provided in 2.5 g of gel.
+- A unit dose packet containing 50 mg of testosterone provided in 5 g of gel.

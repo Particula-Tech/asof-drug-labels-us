@@ -1,1 +1,0 @@
-# FDA-Approved Medication Guide
