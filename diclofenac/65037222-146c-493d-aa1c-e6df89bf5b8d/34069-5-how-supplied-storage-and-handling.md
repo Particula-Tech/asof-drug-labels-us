@@ -1,27 +1,7 @@
-# HOW SUPPLIED
+# HOW SUPPLIED SECTION
 
 Voltaren Ophthalmic 0.1% (1 mg/mL) Sterile Solution is supplied in a low density polyethylene (LDPE) white bottle with a LDPE Dropper Tip and Polypropylene grey closure.
-The 2.5 mL fill is supplied in a 7.5 mL size bottle.
-The 5.0 mL fill is supplied in a 10.0 mL size bottle.
-
-Bottles of 2.5 mL NDC 0078-0477-61
-
-Bottles of 5 mL NDC 0078-0478-61
-
-Store at 15ºC to 25ºC (59º to 77ºF).
-
+The 5 mL fill is supplied in a 10 mL size bottle.
+Bottles of 5 mL NDC 0078-0478-61 Store at 15°C to 25°C (59° to 77°F).
 Dispense in original, unopened container only.
-
-Made in Canada
-
-Manufactured for:
-
-Novartis Pharmaceuticals Corporation
-
-East Hanover, New Jersey 07936
-
-© Novartis
-
-T2011-80
-
-April 2011
+Alcon® Made in Canada Manufactured for: Alcon Laboratories, Inc. 6201 South Freeway Fort Worth, TX 76134 USA © 2012 Novartis AAA2684-0112

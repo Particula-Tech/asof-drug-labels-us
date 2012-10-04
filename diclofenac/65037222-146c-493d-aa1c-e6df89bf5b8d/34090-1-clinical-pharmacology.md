@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY SECTION
 
 ## Pharmacodynamics
 
@@ -17,11 +17,10 @@ This study suggests that limited, if any, systemic absorption occurs with Voltar
 
 ## Clinical Trials
 
-Postoperative Anti-Inflammatory Effects
+### Postoperative Anti-Inflammatory Effects
 
 In two double-masked, controlled, efficacy studies of postoperative inflammation, a total of 206 cataract patients were treated with Voltaren Ophthalmic and 103 patients were treated with vehicle placebo.
 Voltaren Ophthalmic was favored over vehicle placebo over a 2-week period for the clinical assessments of inflammation as measured by anterior chamber cells and flare.
-
 In double-masked, controlled studies of corneal refractive surgery (radial keratotomy (RK) and laser photorefractive keratectomy (PRK)) patients were treated with Voltaren Ophthalmic and/or vehicle placebo.
 The efficacy of Voltaren Ophthalmic given before and shortly after surgery was favored over vehicle placebo during the 6-hour period following surgery for the clinical assessments of pain and photophobia.
 Patients were permitted to use a hydrogel soft contact lens with Voltaren Ophthalmic for up to three days after PRK.
