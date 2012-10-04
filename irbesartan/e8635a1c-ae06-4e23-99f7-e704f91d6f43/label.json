@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA202254"
+  ],
+  "inn": "irbesartan",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-047-07",
+    "33342-047-12",
+    "33342-047-15",
+    "33342-048-07",
+    "33342-048-12",
+    "33342-048-15",
+    "33342-049-07",
+    "33342-049-15",
+    "33342-049-39"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "irbesartan",
+      "name": "Irbesartan"
+    }
+  ],
+  "setid": "e8635a1c-ae06-4e23-99f7-e704f91d6f43",
+  "source": "dailymed"
+}
