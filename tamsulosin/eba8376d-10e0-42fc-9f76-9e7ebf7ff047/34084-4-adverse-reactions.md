@@ -25,19 +25,19 @@ Adverse Reactions Reported Over a 48-Month Period in ≥1% of Subjects and More 
 | Coadministrationa | (n = 1,610) | (n = 1,527) | (n = 1,428) | (n = 1,283) | (n = 1,200) |
 | Dutasteride | (n = 1,623) | (n = 1,548) | (n = 1,464) | (n = 1,325) | (n = 1,200) |
 | Tamsulosin | (n = 1,611) | (n = 1,545) | (n = 1,468) | (n = 1,281) | (n = 1,112) |
-| Ejaculation disordersb |  |  |  |  |  |
+| Ejaculation disordersb,c |  |  |  |  |  |
 | Coadministration | 7.8% | 1.6% | 1.0% | 0.5% | <0.1% |
 | Dutasteride | 1.0% | 0.5% | 0.5% | 0.2% | 0.3% |
 | Tamsulosin | 2.2% | 0.5% | 0.5% | 0.2% | 0.3% |
-| Impotencec |  |  |  |  |  |
+| Impotencec,d |  |  |  |  |  |
 | Coadministration | 5.4% | 1.1% | 1.8% | 0.9% | 0.4% |
 | Dutasteride | 4.0% | 1.1% | 1.6% | 0.6% | 0.3% |
 | Tamsulosin | 2.6% | 0.8% | 1.0% | 0.6% | 1.1% |
-| Decreased libidod |  |  |  |  |  |
+| Decreased libidoc,d |  |  |  |  |  |
 | Coadministration | 4.5% | 0.9% | 0.8% | 0.2% | 0.0% |
 | Dutasteride | 3.1% | 0.7% | 1.0% | 0.2% | 0.0% |
 | Tamsulosin | 2.0% | 0.6% | 0.7% | 0.2% | <0.1% |
-| Breast disorderse |  |  |  |  |  |
+| Breast disordersf |  |  |  |  |  |
 | Coadministration | 1.1% | 1.1% | 0.8% | 0.9% | 0.6% |
 | Dutasteride | 0.9% | 0.9% | 1.2% | 0.5% | 0.7% |
 | Tamsulosin | 0.4% | 0.4% | 0.4% | 0.2% | 0.0% |
@@ -48,13 +48,17 @@ Adverse Reactions Reported Over a 48-Month Period in ≥1% of Subjects and More 
 
 aCoadministration = AVODART® 0.5 mg once daily plus tamsulosin 0.4 mg once daily.
 
-b Includes anorgasmia, retrograde ejaculation, semen volume decreased, orgasmic sensation decreased, orgasm abnormal, ejaculation delayed, ejaculation disorder, ejaculation failure, and premature ejaculation.
+bIncludes anorgasmia, retrograde ejaculation, semen volume decreased, orgasmic sensation decreased, orgasm abnormal, ejaculation delayed, ejaculation disorder, ejaculation failure, and premature ejaculation.
 
-cIncludes erectile dysfunction and disturbance in sexual arousal.
+cThese sexual adverse reactions are associated with dutasteride treatment (including monotherapy and combination with tamsulosin).
+These adverse reactions may persist after treatment discontinuation.
+The role of dutasteride in this persistence is unknown.
 
-d Includes libido decreased, libido disorder, loss of libido, sexual dysfunction, and male sexual dysfunction.
+dIncludes erectile dysfunction and disturbance in sexual arousal.
 
-eIncludes breast enlargement, gynecomastia, breast swelling, breast pain, breast tenderness, nipple pain, and nipple swelling.
+eIncludes libido decreased, libido disorder, loss of libido, sexual dysfunction, and male sexual dysfunction.
+
+fIncludes breast enlargement, gynecomastia, breast swelling, breast pain, breast tenderness, nipple pain, and nipple swelling.
 
 Cardiac Failure: In CombAT, after 4 years of treatment, the incidence of the composite term cardiac failure in the coadministration group (12/1,610; 0.7%) was higher than in either monotherapy group: dutasteride, 2/1,623 (0.1%) and tamsulosin, 9/1,611 (0.6%).
 Composite cardiac failure was also examined in a separate 4-year placebo-controlled trial evaluating dutasteride in men at risk for development of prostate cancer.
@@ -102,13 +106,15 @@ Neoplasms: Male breast cancer.
 
 Psychiatric Disorders: Depressed mood.
 
+Reproductive System and Breast Disorders:Testicular pain and testicular swelling.
+
 Tamsulosin:
 
 Immune System Disorders: Hypersensitivity reactions, including rash, urticaria, pruritus, angioedema, and respiratory problems.
 
 Cardiac Disorders: Palpitations, dyspnea, atrial fibrillation, arrhythmia, and tachycardia.
 
-Skin Disorders: Skin desquamation, including Stevens-Johnson syndrome.
+Skin Disorders: Skin desquamation, including Stevens‑Johnson syndrome.
 
 Gastrointestinal Disorders: Constipation, vomiting.
 

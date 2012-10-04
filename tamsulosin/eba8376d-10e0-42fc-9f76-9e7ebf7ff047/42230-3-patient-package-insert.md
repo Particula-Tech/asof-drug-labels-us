@@ -97,13 +97,15 @@ Get medical help right away if you have these serious allergic reactions.
 
 The most common side effects of JALYN include:
 
-- ejaculation problems
-- trouble getting or keeping an erection (impotence)
-- a decrease in sex drive (libido)
+- ejaculation problems*
+- trouble getting or keeping an erection (impotence)*
+- a decrease in sex drive (libido)*
 - dizziness
 - enlarged or painful breasts.
   If you notice breast lumps or nipple discharge, you should talk to your healthcare provider.
 - runny nose
+
+*Some of these events may continue after you stop taking JALYN.
 
 Depressed mood has been reported in patients receiving dutasteride, an ingredient of JALYN.
 
@@ -181,6 +183,6 @@ Distributed by GlaxoSmithKline Research Triangle Park, NC 27709
 ©2012, GlaxoSmithKline.
 All rights reserved.
 
-June 2012
+October 2012
 
-JLN:4PIL
+JLN:5PIL
