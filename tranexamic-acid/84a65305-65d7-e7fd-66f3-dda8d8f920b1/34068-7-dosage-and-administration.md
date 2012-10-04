@@ -16,7 +16,7 @@ Dosage of LYSTEDA in Patients with Renal Impairment
 
 | Serum Creatinine (mg/dL) | Adjusted Dose | Total Daily Dose |
 | --- | --- | --- |
-|  | LYSTEDA |  |
+| LYSTEDA |  |  |
 | Cr above 1.4 and ≤ 2.8 | 1300 mg (two 650 mg tablets) two times a day for a maximum of 5 days during menstruation | 2600 mg |
 | Cr above 2.8 and ≤ 5.7 | 1300 mg (two 650 mg tablets) once a day for a maximum of 5 days during menstruation | 1300 mg |
 | Cr above 5.7 | 650 mg (one 650 mg tablet) once a day for a maximum of 5 days during menstruation | 650 mg |

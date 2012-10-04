@@ -5,7 +5,7 @@ No drug-drug interaction studies were conducted with LYSTEDA.
 ## 7.1 Hormonal Contraceptives
 
 Because LYSTEDA is antifibrinolytic, concomitant use of hormonal contraception and LYSTEDA may further exacerbate the increased thrombotic risk associated with combination hormonal contraceptives.
-Women using hormonal contraception should use LYSTEDA only if there is a strong medical need and the benefit of treatment will outweigh the potential increased risk of a thrombotic event [see Warnings and Precautions (5.1) and Clinical Pharmacology (‎12.3)].
+Women using hormonal contraception should use LYSTEDA only if there is a strong medical need and the benefit of treatment will outweigh the potential increased risk of a thrombotic event [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 7.2 Tissue Plasminogen Activators
 

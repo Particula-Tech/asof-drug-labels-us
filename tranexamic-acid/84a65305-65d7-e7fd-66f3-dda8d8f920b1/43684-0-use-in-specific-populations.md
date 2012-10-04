@@ -1,6 +1,6 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1 Pregnancy (Category B)
 
 LYSTEDA is not indicated for use in pregnant women.
 Reproduction studies have been performed in mice, rats and rabbits and have revealed no evidence of impaired fertility or harm to the fetus due to tranexamic acid.

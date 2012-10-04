@@ -1,24 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
-
-See FDA-approved patient labeling (Patient Information)
-
-Instruct patients that the usual schedule is to take two tablets with liquids, three times a day during menstruation.
-Patients should be instructed not to exceed 3 doses (6 tablets) in a 24-hour period or to take for more than 5 days in any menstrual cycle.
-
-Inform patients that they should immediately stop LYSTEDA if they notice any eye symptoms or change in their vision.
-Instruct them to report any such problems promptly to their physician and to follow-up with an ophthalmologist for a complete ophthalmic evaluation, including dilated retinal examination of the retina.
-
-Inform patients that they should stop LYSTEDA and seek immediate medical attention if they notice symptoms of a severe allergic reaction (e.g., shortness of breath or throat tightening).
-
-Instruct patients that common side effects of LYSTEDA include headache, sinus and nasal symptoms, back pain, abdominal pain, musculoskeletal pain, joint pain, muscle cramps, migraine, anemia and fatigue.
-
-Advise patients to contact their healthcare provider if their heavy menstrual bleeding symptoms persist or worsen.
-
-Remind patients to read the Patient Labeling carefully.
-
-PATIENT INFORMATION
-
-LYSTEDA (pronounced lye-sted-a) tranexamic acid tablets
+PATIENT INFORMATION LYSTEDA (pronounced lye-sted-a) tranexamic acid tablets
 
 Read the Patient Information that comes with LYSTEDA before you start using the drug and each time you get a refill.
 There may be new information.
@@ -151,17 +131,9 @@ Inactive ingredients: microcrystalline cellulose, colloidal silicon dioxide, pre
 
 RX only
 
-Manufactured for:
+Manufactured for: Ferring Pharmaceuticals Inc. Parsippany, NJ 07054
 
-Ferring Pharmaceuticals Inc.
-
-Parsippany, NJ 07054
-
-By:
-
-Mikart, Inc.
-
-Atlanta, GA 30318
+By: Mikart, Inc. Atlanta, GA 30318
 
 Rev.
 4/2011

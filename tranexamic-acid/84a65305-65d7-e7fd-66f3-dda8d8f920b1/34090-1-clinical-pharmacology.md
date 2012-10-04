@@ -46,17 +46,15 @@ Mean (CV%) Pharmacokinetic Parameters Following a Single (two 650 mg tablets) an
 | --- | --- | --- |
 | Parameter | Arithmetic Mean (CV%) |  |
 | Cmax (mcg/mL) | 13.83 (32.14) | 16.41 (26.19) |
-| AUCtldc (mcg∙h/mL) | 77.96 (31.14) | 77.67 a (29.39) |
+| AUCtldc (mcg∙h/mL) | 77.96 (31.14) | 77.67 AUC0-tau (mcg∙h/mL) = area under the drug concentration curve from time 0 to 8 hours (29.39) |
 | AUCinf (mcg∙h/mL) | 80.19 (30.43) | - |
-| Tmax (h)b | 2.5 (1 – 5) | 2.5 (2 – 3.5) |
+| Tmax (h)Data presented as median (range) | 2.5 (1 – 5) | 2.5 (2 – 3.5) |
 | t1/2 (h) | 11.08 (16.94) | - |
 | Cmax = maximum concentration |  |  |
 | AUCtldc = area under the drug concentration curve from time 0 to time of last determinable concentration |  |  |
 | AUCinf = area under the drug concentration curve from time 0 to infinity |  |  |
 | Tmax = time to maximum concentration |  |  |
 | t1/2 = terminal elimination half-life |  |  |
-| aAUC0-tau (mcg·h/mL) = area under the drug concentration curve from time 0 to 8 hours |  |  |
-| bData presented as median (range) |  |  |
 
 Effect of food: LYSTEDA may be administered without regard to meals.
 A single dose administration (two 650 mg tablets) of LYSTEDA with food increased both Cmax and AUC by 7% and 16%, respectively.
@@ -91,16 +89,18 @@ Pregnancy (Category B)
 
 LYSTEDA is not indicated for use in pregnant women.
 Tranexamic acid is known to cross the placenta and appears in cord blood at concentrations approximately equal to maternal concentration.
-There are no adequate and well-controlled studies in pregnant women [see Use in Specific Populations (‎8.1)].
+There are no adequate and well-controlled studies in pregnant women [see Use in Specific Populations (8.1)].
 
 Nursing Mothers
 
-Tranexamic acid is present in the mother’s milk at a concentration of about one hundredth of the corresponding serum concentrations.
-LYSTEDA should be used during lactation only if clearly needed [see Use in Specific Populations (‎8.3)].
+Tranexamic acid is present in the mother's milk at a concentration of about one hundredth of the corresponding serum concentrations.
+LYSTEDA should be used during lactation only if clearly needed [see Use in Specific Populations (8.3)].
 
 Pediatric Use
 
-LYSTEDA is indicated for women of reproductive age and is not intended for use in premenarcheal girls.LYSTEDA has not been studied in adolescents under age 18 with heavy menstrual bleeding.
+LYSTEDA is indicated for women of reproductive age and is not intended for use in premenarcheal girls.
+
+LYSTEDA has not been studied in adolescents under age 18 with heavy menstrual bleeding.
 
 Geriatric Use
 
@@ -131,15 +131,15 @@ Women using hormonal contraception should use LYSTEDA only if there is a strong 
 
 Factor IX Complex Concentrates or Anti-inhibitor Coagulant Concentrates
 
-LYSTEDA is not recommended in patients taking either Factor IX complex concentrates or anti-inhibitor coagulant concentrates because the risk of thrombosis may be increased [see Warnings and Precautions (5.1) and Drug Interactions (‎7.3)].
+LYSTEDA is not recommended in patients taking either Factor IX complex concentrates or anti-inhibitor coagulant concentrates because the risk of thrombosis may be increased [see Warnings and Precautions (5.1) and Drug Interactions (7.3)].
 
 Tissue Plasminogen Activators
 
 Concomitant therapy with tissue plasminogen activators may decrease the efficacy of both LYSTEDA and tissue plasminogen activators.
-Therefore, exercise caution if a patient taking LYSTEDA therapy requires tissue plasminogen activators [see Drug Interactions (‎7.2)].
+Therefore, exercise caution if a patient taking LYSTEDA therapy requires tissue plasminogen activators [see Drug Interactions (7.2)].
 
 All-Trans Retinoic Acid (Oral Tretinoin)
 
 In a study involving 28 patients with acute promyelocytic leukemia who were given either orally administered all-trans retinoic acid plus intravenously administered tranexamic acid, all-trans retinoic acid plus chemotherapy, or all-trans retinoic acid plus tranexamic acid plus chemotherapy, all 4 patients who were given all-trans retinoic acid plus tranexamic acid died, with 3 of the 4 deaths due to thrombotic complications.
 It appears that the procoagulant effect of all-trans retinoic acid may be exacerbated by concomitant use of tranexamic acid.
-Therefore, exercise caution when prescribing LYSTEDA to patients with acute promyelocytic leukemia taking all-trans retinoic acid [see Warnings and Precautions (5.1) and Drug Interactions (‎7.4)].
+Therefore, exercise caution when prescribing LYSTEDA to patients with acute promyelocytic leukemia taking all-trans retinoic acid [see Warnings and Precautions (5.1) and Drug Interactions (7.4)].

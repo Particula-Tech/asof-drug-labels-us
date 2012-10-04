@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 LYSTEDA (tranexamic acid) tablets are provided as white oval-shaped tablets.
-Each tablet is debossed with the marking "XP650" and are supplied as:
+Each tablet is debossed with the marking "XP650"and are supplied as:
 
 | Quantity | Package Type | NDC Number |
 | --- | --- | --- |

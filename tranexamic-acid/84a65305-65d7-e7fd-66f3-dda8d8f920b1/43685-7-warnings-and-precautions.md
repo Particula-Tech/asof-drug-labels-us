@@ -9,7 +9,7 @@ Because LYSTEDA is antifibrinolytic, the risk of venous thromboembolism, as well
 This is of particular concern in women who are obese or smoke cigarettes, especially smokers over 35 years of age [see Contraindications (4.1) and Drug Interactions (7.1)].
 
 Women using hormonal contraception were excluded from the clinical trials supporting the safety and efficacy of LYSTEDA, and there are no clinical trial data on the risk of thrombotic events with the concomitant use of LYSTEDA with hormonal contraceptives.
-There have been U.S. postmarketing reports of venous and arterial thrombotic events in women who have used LYSTEDA concomitantly with combined hormonal contraceptives.
+There have been US postmarketing reports of venous and arterial thrombotic events in women who have used LYSTEDA concomitantly with combined hormonal contraceptives.
 Women using hormonal contraception, especially those who are obese or smoke, should use LYSTEDA only if there is a strong medical need and the benefit of treatment will outweigh the potential increased risk of a thrombotic event.
 Do not use LYSTEDA in women who are taking more than the approved dose of a hormonal contraceptive.
 
@@ -19,7 +19,7 @@ LYSTEDA is not recommended for women taking either Factor IX complex concentrate
 
 All-Trans Retinoic Acid (Oral Tretinoin)
 
-Exercise caution when prescribing LYSTEDA to women with acute promyelocytic leukemia taking all‑trans retinoic acid for remission induction because of possible exacerbation of the procoagulant effect of all-trans retinoic acid [see Drug Interactions (7.4) and Clinical Pharmacology (12.3)].
+Exercise caution when prescribing LYSTEDA to women with acute promyelocytic leukemia taking all-trans retinoic acid for remission induction because of possible exacerbation of the procoagulant effect of all-trans retinoic acid [see Drug Interactions (7.4) and Clinical Pharmacology (12.3)].
 
 Ocular Effects
 

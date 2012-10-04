@@ -26,27 +26,23 @@ Across the studies, the combined exposure to 3900 mg/day LYSTEDA was 947 cycles 
 
 A list of adverse events occurring in ≥ 5% of subjects and more frequently in LYSTEDA treated subjects receiving 3900 mg/day compared to placebo is provided in Table 2.
 
-Table 2: Adverse Events Reported by ≥ 5% of Subjects Treated with LYSTEDA and More Frequently in LYSTEDA-treated Subjects
+Table 2.
+Adverse Events Reported by ≥ 5% of Subjects Treated with LYSTEDA and More Frequently in LYSTEDA-treated Subjects
 
 |  | LYSTEDA 3900 mg/day n (%) (N=232) | Placebo n (%) (N=139) |
 | --- | --- | --- |
 | Total Number of Adverse Events | 1500 | 923 |
 | Number of Subjects with at Least One Adverse Event | 208 (89.7%) | 122 (87.8%) |
-| HEADACHEa | 117 (50.4%) | 65 (46.8%) |
-| NASAL & SINUS SYMPTOMSb | 59 (25.4%) | 24 (17.3%) |
+| HEADACHE Includes headache and tension headache | 117 (50.4%) | 65 (46.8%) |
+| NASAL & SINUS SYMPTOMS Nasal and sinus symptoms include nasal, respiratory tract and sinus congestion, sinusitis, acute sinusitis, sinus headache, allergic sinusitis and sinus pain, and multiple allergies and seasonal allergies | 59 (25.4%) | 24 (17.3%) |
 | BACK PAIN | 48 (20.7%) | 21 (15.1%) |
-| ABDOMINAL PAINc | 46 (19.8%) | 25 (18.0%) |
-| MUSCULOSKELETAL PAINd | 26 (11.2%) | 4 (2.9%) |
-| ARTHRALGIAe | 16 (6.9%) | 7 (5.0%) |
+| ABDOMINAL PAIN Abdominal pain includes abdominal tenderness and discomfort | 46 (19.8%) | 25 (18.0%) |
+| MUSCULOSKELETAL PAIN Musculoskeletal pain includes musculoskeletal discomfort and myalgia | 26 (11.2%) | 4 (2.9%) |
+| ARTHRALGIA Arthralgia includes joint stiffness and swelling | 16 (6.9%) | 7 (5.0%) |
 | MUSCLE CRAMPS & SPASMS | 15 (6.5%) | 8 (5.8%) |
 | MIGRAINE | 14 (6.0%) | 8 (5.8%) |
 | ANEMIA | 13 (5.6%) | 5 (3.6%) |
 | FATIGUE | 12 (5.2%) | 6 (4.3%) |
-| a Includes headache and tension headache |  |  |
-| b Nasal and sinus symptoms include nasal, respiratory tract and sinus congestion, sinusitis, acute sinusitis, sinus headache, allergic sinusitis and sinus pain, and multiple allergies and seasonal allergies |  |  |
-| c Abdominal pain includes abdominal tenderness and discomfort |  |  |
-| d Musculoskeletal pain includes musculoskeletal discomfort and myalgia |  |  |
-| e Arthralgia includes joint stiffness and swelling |  |  |
 
 Long-term Studies
 
@@ -66,14 +62,14 @@ The average duration of LYSTEDA use was 3.5 days per cycle.
 
 The types and severity of adverse events in these two long-term open-label trials were similar to those observed in the double-blind, placebo-controlled studies although the percentage of subjects reporting them was greater in the 27-month study, most likely because of the longer study duration.
 
-A case of severe allergic reaction to LYSTEDA was reported in the extension trial, involving a subject on her fourth cycle of treatment who experienced dyspnea, tightening of her throat, and facial flushing that required emergency medical treatment.
+A case of severe allergic reaction to LYSTEDA was reported in the extension trial, involving a subject on her fourth cycle of treatment, who experienced dyspnea, tightening of her throat, and facial flushing that required emergency medical treatment.
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified from postmarketing experience with tranexamic acid.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Based on U.S. and worldwide postmarketing reports, the following have been reported in patients receiving tranexamic acid for various indications:
+Based on US and worldwide postmarketing reports, the following have been reported in patients receiving tranexamic acid for various indications:
 
 - Nausea, vomiting, and diarrhea
 - Allergic skin reactions
