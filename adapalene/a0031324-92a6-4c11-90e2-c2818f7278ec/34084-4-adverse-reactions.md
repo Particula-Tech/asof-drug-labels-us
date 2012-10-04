@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reactions rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
@@ -37,7 +37,7 @@ The following selected adverse reactions occurred in less than 1% of patients: a
 
 In a one-year, open-label safety study of 551 patients with acne who received DIFFERIN Gel, 0.3%, the pattern of adverse reactions was similar to the 12-week controlled study.
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-Marketing Experience
 
 The following adverse reactions have been identified during post approval use of adapalene: skin irritation, application site pain, face edema, eyelid edema, lip swelling, and angioedema.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.

@@ -1,6 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Information for Patients
+"See FDA-approved patient labeling (Patient Information)"
+
+Information for Patients
 
 Patients using DIFFERIN Gel, 0.3%, should receive the following information and instructions:
 
