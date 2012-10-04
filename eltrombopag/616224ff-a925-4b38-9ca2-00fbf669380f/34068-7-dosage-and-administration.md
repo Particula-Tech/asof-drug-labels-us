@@ -23,7 +23,7 @@ For patients of East Asian ancestry with hepatic impairment (Child-Pugh Class A,
 After initiating PROMACTA, adjust the dose to achieve and maintain a platelet count ≥50 x 109/L as necessary to reduce the risk for bleeding.
 Do not exceed a dose of 75 mg daily.
 Monitor clinical hematology and liver tests regularly throughout therapy with PROMACTA and modify the dosage regimen of PROMACTA based on platelet counts as outlined in Table 1.
-During therapy with PROMACTA, assess CBCs with differentials (including platelet count) weekly until a stable platelet count has been achieved.
+During therapy with PROMACTA, assess CBCs with differentials (including platelet counts) weekly until a stable platelet count has been achieved.
 Obtain CBCs with differentials (including platelet counts) monthly thereafter.
 
 Table 1.

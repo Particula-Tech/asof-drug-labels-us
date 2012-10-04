@@ -17,10 +17,10 @@ Evaluate abnormal serum liver tests with repeat testing within 3 to 5 days.
 If the abnormalities are confirmed, monitor serum liver tests weekly until the abnormality(ies) resolve, stabilize, or return to baseline levels.
 Discontinue PROMACTA if ALT levels increase to ≥3X the upper limit of normal (ULN) and are:
 
-- progressive, or
-- persistent for ≥4 weeks, or
-- accompanied by increased direct bilirubin, or
-- accompanied by clinical symptoms of liver injury or evidence for hepatic decompensation.
+- •progressive, or
+- •persistent for ≥4 weeks, or
+- •accompanied by increased direct bilirubin, or
+- •accompanied by clinical symptoms of liver injury or evidence for hepatic decompensation.
 
 Reinitiating treatment with PROMACTA is not recommended.
 If the potential benefit for reinitiating treatment with PROMACTA is considered to outweigh the risk for hepatotoxicity, then cautiously reintroduce PROMACTA and measure serum liver tests weekly during the dose adjustment phase.

@@ -14,24 +14,24 @@ What is the most important information I should know about PROMACTA?
 
 PROMACTA can cause serious side effects, including:
 
-- Liver problems.
+- •Liver problems.
   PROMACTA may damage your liver and cause serious illness and death.
   You must have blood tests to check your liver before you start taking PROMACTA and during treatment with PROMACTA.
   Your healthcare provider will order these blood tests.
   In some cases PROMACTA treatment may need to be stopped.
   Tell your healthcare provider right away if you have any of these signs and symptoms of liver problems:
-  - yellowing of the skin or the whites of the eyes (jaundice)
-  - unusual darkening of the urine
-  - unusual tiredness
-  - right upper stomach area pain
-- Bone marrow changes (increased reticulin and possible bone marrow fibrosis).
+  - ∘yellowing of the skin or the whites of the eyes (jaundice)
+  - ∘unusual darkening of the urine
+  - ∘unusual tiredness
+  - ∘right upper stomach area pain
+- •Bone marrow changes (increased reticulin and possible bone marrow fibrosis).
   Long-term use of PROMACTA may cause changes in your bone marrow.
   These changes may lead to abnormal blood cells or your body making less blood cells.
   The mild form of these bone marrow changes is called “increased reticulin” which may progress to a more severe form called “fibrosis”.
   The mild form may cause no problems while the severe form may cause life-threatening blood problems.
   Signs of bone marrow changes may show up as abnormal results in your blood tests.
   Your healthcare provider will decide if abnormal blood test results mean that you should have bone marrow tests or if you should stop taking PROMACTA.
-- High platelet counts and higher chance for blood clots.
+- •High platelet counts and higher chance for blood clots.
   Your chance of getting a blood clot is increased if your platelet count is too high during treatment with PROMACTA.
   Your chance of getting a blood clot may also be increased during treatment with PROMACTA if you have normal or low platelet counts.
   You may have severe problems or die from some forms of blood clots, such as clots that travel to the lungs or that cause heart attacks or strokes.
@@ -39,10 +39,10 @@ PROMACTA can cause serious side effects, including:
   Tell your healthcare provider right away if you have signs and symptoms of a blood clot in the leg, such as swelling, pain, or tenderness in your leg.
   People with chronic liver disease may be at risk for a type of blood clot in the stomach area.
   Stomach area pain may be a symptom of this type of blood clot.
-- Worsening of blood cancers.
+- •Worsening of blood cancers.
   PROMACTA is not for use in people with blood cancer or a precancerous condition called myelodysplastic syndrome (MDS).
   If you have one of these conditions, PROMACTA may worsen your cancer or condition and may cause you to die sooner.
-- New or worsened cataracts (a clouding of the lens in the eye).
+- •New or worsened cataracts (a clouding of the lens in the eye).
   New or worsened cataracts have happened in people taking PROMACTA.
   Your healthcare provider will check your eyes before and during your treatment with PROMACTA.
   Tell your healthcare provider about any changes in your eyesight while taking PROMACTA.
@@ -66,22 +66,22 @@ What should I tell my healthcare provider before taking PROMACTA?
 
 Before you take PROMACTA, tell your healthcare provider if you:
 
-- have liver or kidney problems
-- have or had a blood clot
-- have a history of cataracts
-- have had surgery to remove your spleen (splenectomy)
-- have a bone marrow problem, including a blood cancer or Myelodysplastic Syndrome (MDS)
-- have bleeding problems
-- are Asian and you are of Chinese, Japanese, Taiwanese, or Korean ancestry, you may need a lower dose of PROMACTA.
-- have any other medical conditions
-- are pregnant, think you may be pregnant, or plan to get pregnant.
+- •have liver or kidney problems
+- •have or had a blood clot
+- •have a history of cataracts
+- •have had surgery to remove your spleen (splenectomy)
+- •have a bone marrow problem, including a blood cancer or Myelodysplastic Syndrome (MDS)
+- •have bleeding problems
+- •are Asian and you are of Chinese, Japanese, Taiwanese, or Korean ancestry, you may need a lower dose of PROMACTA.
+- •have any other medical conditions
+- •are pregnant, think you may be pregnant, or plan to get pregnant.
   It is not known if PROMACTA will harm an unborn baby.
   Pregnancy Registry: There is a registry for women who become pregnant during treatment with PROMACTA.
   If you become pregnant, consider this registry.
   The purpose of the registry is to collect safety information about the health of you and your baby.
   Contact the registry as soon as you become aware of the pregnancy, or ask your healthcare provider to contact the registry for you.
   You and your healthcare provider can get information and enroll in the registry by calling 1-888-825-5249.
-- are breast-feeding or plan to breast-feed.
+- •are breast-feeding or plan to breast-feed.
   It is not known if PROMACTA passes into your breast milk.
   You and your healthcare provider should decide whether you will take PROMACTA or breast-feed.
   You should not do both.
@@ -92,14 +92,14 @@ Certain other medicines may affect the way PROMACTA works.
 
 Especially tell your healthcare provider if you take:
 
-- certain medicines used to treat high cholesterol, called “statins”.
-- a blood thinner medicine.
+- •certain medicines used to treat high cholesterol, called “statins”.
+- •a blood thinner medicine.
 
 Certain medicines may keep PROMACTA from working correctly.
 Take PROMACTA either 4 hours before or 4 hours after taking these products:
 
-- antacids used to treat stomach ulcers or heartburn.
-- multivitamins or products that contain iron, calcium, aluminum, magnesium, selenium, and zinc which may be found in mineral supplements.
+- •antacids used to treat stomach ulcers or heartburn.
+- •multivitamins or products that contain iron, calcium, aluminum, magnesium, selenium, and zinc which may be found in mineral supplements.
 
 Ask your healthcare provider if you are not sure if your medicine is one that is listed above.
 
@@ -108,20 +108,20 @@ Keep a list of them and show it to your healthcare provider and pharmacist when 
 
 How should I take PROMACTA?
 
-- Take PROMACTA exactly as your healthcare provider tells you.
+- •Take PROMACTA exactly as your healthcare provider tells you.
   Do not stop using PROMACTA without talking with your healthcare provider first.
   Do not change your dose or schedule for taking PROMACTA unless your healthcare provider tells you to change it.
-- Take PROMACTA on an empty stomach, either 1 hour before or 2 hours after eating food.
-- Take PROMACTA at least 4 hours before or 4 hours after eating dairy products and calcium fortified juices.
-- If you miss a dose of PROMACTA, wait and take your next scheduled dose.
+- •Take PROMACTA on an empty stomach, either 1 hour before or 2 hours after eating food.
+- •Take PROMACTA at least 4 hours before or 4 hours after eating dairy products and calcium fortified juices.
+- •If you miss a dose of PROMACTA, wait and take your next scheduled dose.
   Do not take more than one dose of PROMACTA in one day.
-- If you take too much PROMACTA, you may have a higher chance of serious side effects.
+- •If you take too much PROMACTA, you may have a higher chance of serious side effects.
   Call your healthcare provider right away.
-- Your healthcare provider will check your platelet count every week and change your dose of PROMACTA as needed.
+- •Your healthcare provider will check your platelet count every week and change your dose of PROMACTA as needed.
   This will happen every week until your healthcare provider decides that your dose of PROMACTA can stay the same.
   After that, you will need to have blood tests every month.
   When you stop taking PROMACTA, you will need to have blood tests for at least 4 weeks to check if your platelet count drops too low.
-- Tell your healthcare provider about any bruising or bleeding that happens while you take and after you stop taking PROMACTA.
+- •Tell your healthcare provider about any bruising or bleeding that happens while you take and after you stop taking PROMACTA.
 
 What should I avoid while taking PROMACTA?
 
@@ -131,22 +131,22 @@ What are the possible side effects of PROMACTA?
 
 PROMACTA may cause serious side effects.
 
-- See “What is the most important information I should know about PROMACTA?”.
+See “What is the most important information I should know about PROMACTA?”.
 
 The most common side effects of PROMACTA are:
 
-- nausea
-- diarrhea
-- upper respiratory tract infection; symptoms may include runny nose, stuffy nose, and sneezing
-- vomiting
-- muscle aches
-- urinary tract infections; symptoms may include frequent or urgent need to urinate, low fever in some people, pain or burning with urination
-- pain or swelling (inflammation) in your throat or mouth (oropharyngeal pain and pharyngitis)
-- abnormal liver function tests
-- abnormal skin sensations such as tingling, itching, or burning
-- back pain
-- ‘flu’ symptoms (influenza); symptoms may include fever, headache, tiredness, cough, sore throat, and body aches
-- rash
+- •nausea
+- •diarrhea
+- •upper respiratory tract infection; symptoms may include runny nose, stuffy nose, and sneezing
+- •vomiting
+- •muscle aches
+- •urinary tract infections; symptoms may include frequent or urgent need to urinate, low fever in some people, pain or burning with urination
+- •pain or swelling (inflammation) in your throat or mouth (oropharyngeal pain and pharyngitis)
+- •abnormal liver function tests
+- •abnormal skin sensations such as tingling, itching, or burning
+- •back pain
+- •‘flu’ symptoms (influenza); symptoms may include fever, headache, tiredness, cough, sore throat, and body aches
+- •rash
 
 These are not all the possible side effects of PROMACTA.
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
@@ -157,8 +157,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store PROMACTA Tablets?
 
-- Store at room temperature between 59oF to 86oF (15oC to 30oC).
-- Keep PROMACTA and all medicines out of the reach of children.
+- •Store at room temperature between 59oF to 86oF (15oC to 30oC).
+- •Keep PROMACTA and all medicines out of the reach of children.
 
 General information about the safe and effective use of PROMACTA
 
@@ -179,8 +179,8 @@ Active ingredient: eltrombopag olamine.
 
 Inactive ingredients:
 
-- Tablet Core: Magnesium stearate, mannitol, microcrystalline cellulose, povidone, and sodium starch glycolate.
-- Coating: Hypromellose, polyethylene glycol 400, titanium dioxide, polysorbate 80 (12.5 mg tablet), and FD&C Yellow No. 6 aluminum lake (25 mg tablet), FD&C Blue No. 2 aluminum lake (50 mg tablet), or Iron Oxide Red and Iron Oxide Black (75 mg tablet).
+- •Tablet Core: Magnesium stearate, mannitol, microcrystalline cellulose, povidone, and sodium starch glycolate.
+- •Coating: Hypromellose, polyethylene glycol 400, titanium dioxide, polysorbate 80 (12.5 mg tablet), and FD&C Yellow No. 6 aluminum lake (25 mg tablet), FD&C Blue No. 2 aluminum lake (50 mg tablet), or Iron Oxide Red and Iron Oxide Black (75 mg tablet).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
