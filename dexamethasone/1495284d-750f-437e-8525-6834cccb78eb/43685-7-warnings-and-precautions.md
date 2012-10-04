@@ -101,7 +101,7 @@ As sodium retention with resultant edema and potassium loss may occur in patient
 ## Endocrine
 
 Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
-This type of relativeinsufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
+This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
 Since mineralocorticoid secretion may be impaired, salt and/or a mineralocorticoid should be administered concurrently.
 
 ## Gastrointestinal
