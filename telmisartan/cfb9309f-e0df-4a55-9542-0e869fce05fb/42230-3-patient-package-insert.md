@@ -144,6 +144,8 @@ What is High Blood Pressure (Hypertension)?
 Blood pressure is the force in your blood vessels when your heart beats and when your heart rests.
 You have high blood pressure when the force is too much.
 MICARDIS tablets can help your blood vessels relax so your blood pressure is lower.
+Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
+
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to the blood vessels.
 If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure, and vision problems.
 
@@ -168,8 +170,8 @@ Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
 Copyright 2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: January 2012
+Revised: September 2012
 
-OT1200SA252012 090340194/12
+OT1200TI242012 090340194/13
 
-IT12004O 10005385/9
+IT12004P 10005385/10

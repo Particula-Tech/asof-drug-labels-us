@@ -24,6 +24,8 @@ The incidence of symptomatic orthostasis after the first dose in all controlled 
 
 There were no changes in the heart rate of patients treated with telmisartan in controlled trials.
 
+There are no trials of MICARDIS demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.
+
 ## 14.2 Cardiovascular Risk Reduction
 
 Support for use to reduce the risk of cardiovascular events was obtained in a pair of studies.
@@ -35,6 +37,7 @@ The secondary 3-component composite endpoint was death from cardiovascular cause
 ONTARGET was a randomized, active-controlled, multinational, double-blind study in 25,620 patients who were randomized to telmisartan 80 mg, ramipril 10 mg, or their combination.
 The population studied was 73% male, 74% Caucasian, 14% Asian, and 57% were 65 years of age or older.
 Baseline therapy included acetylsalicylic acid (76%), lipid lowering agents (64%), beta-blockers (57%), calcium channel blockers (34%), nitrates (29%), and diuretics (28%).
+Mean blood pressure at randomization was 134/77 mmHg.
 The mean duration of follow up was about 4 years and 6 months.
 During the study, 22.0% (n=1878) of telmisartan patients discontinued the active treatment, compared to 24.4% (n=2095) of ramipril patients and 25.3% (n=2152) of telmisartan/ramipril patients.
 
@@ -42,6 +45,7 @@ TRANSCEND randomized patients to telmisartan 80 mg (n=2954) or placebo (n=2972).
 The mean duration of follow up was 4 years and 8 months.
 The population studied was 57% male, 62% Caucasian, 21% Asian, and 60% were 65 years of age or older.
 Baseline therapy included acetylsalicylic acid (75%), lipid lowering agents (58%), beta-blockers (58%), calcium channel blockers (41%), nitrates (34%) and diuretics (33%).
+Mean blood pressure at randomization was 135/78 mmHg.
 During the study, 17.7% (n=523) of telmisartan patients discontinued the active treatment, compared to 19.4% (n=576) of placebo patients.
 
 The results for the TRANSCEND trial are summarized in Table 2, and the results for ONTARGET are summarized in Table 3, below:
