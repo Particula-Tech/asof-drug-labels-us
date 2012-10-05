@@ -4,7 +4,7 @@ NDC 0002-7635-11
 
 VL7635/VL7622
 
-ZYPREXA® RelprevvTM
+ZYPREXA® Relprevv™
 
 (olanzapine)
 
@@ -14,7 +14,7 @@ For Extended Release Injectable Suspension
 
 Convenience kit includes:
 
-One vial of Zyprexa® RelprevvTM 210 mg/vial
+One vial of Zyprexa® Relprevv™ 210 mg/vial
 
 One 3-mL vial of diluent
 
@@ -43,7 +43,7 @@ NDC 0002-7636-11
 
 VL7636/VL7622
 
-ZYPREXA® RelprevvTM
+ZYPREXA® Relprevv™
 
 (olanzapine)
 
@@ -53,7 +53,7 @@ For Extended Release Injectable Suspension
 
 Convenience kit includes:
 
-One vial of Zyprexa® RelprevvTM 300 mg/vial
+One vial of Zyprexa® Relprevv™ 300 mg/vial
 
 One 3-mL vial of diluent
 
@@ -82,7 +82,7 @@ NDC 0002-7637-11
 
 VL7637/VL7622
 
-ZYPREXA® RelprevvTM
+ZYPREXA® Relprevv™
 
 (olanzapine)
 
@@ -92,7 +92,7 @@ For Extended Release Injectable Suspension
 
 Convenience kit includes:
 
-One vial of Zyprexa® RelprevvTM 405 mg/vial
+One vial of Zyprexa® Relprevv™ 405 mg/vial
 
 One 3-mL vial of diluent
 
