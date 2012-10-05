@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021011"
+  ],
+  "inn": "oxycodone",
+  "labeler": "Mallinckrodt, Inc",
+  "package_ndcs": [
+    "23635-580-10",
+    "23635-580-25",
+    "23635-581-10",
+    "23635-582-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "oxycodone hydrochloride",
+      "name": "Roxicodone"
+    }
+  ],
+  "setid": "5a8157d3-ba20-4abf-b0d4-6ad141b31d63",
+  "source": "dailymed"
+}
