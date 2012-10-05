@@ -108,6 +108,6 @@ Cardiac disorders: Atrioventricular block, atrial fibrillation, atrial flutter, 
 
 Immune system disorders: Drug hypersensitivity reactions
 
-Psychiatric disorders: Aggression, agitation, insomnia, psychotic disorder
+Psychiatric disorders: Aggression, agitation, hallucination, insomnia, psychotic disorder
 
 Skin and subcutaneous tissue disorders: Angioedema, rash, urticaria
