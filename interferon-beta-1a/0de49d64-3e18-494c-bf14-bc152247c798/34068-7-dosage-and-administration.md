@@ -1,31 +1,46 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-The recommended dosage of AVONEX® (Interferon beta-1a) is 30 mcg injected intramuscularly once a week.
+## 2.1 Dosing Information
 
-AVONEX® is intended for use under the guidance and supervision of a physician.
-Patients may self-inject only if their physician determines that it is appropriate and with medical follow-up, as necessary, after proper training in intramuscular injection technique.
-Sites for injection include the thigh or upper arm (see Medication Guide).
+AVONEX is administered intramuscularly.
 
-A 25 gauge, 1” needle for intramuscular injection may be substituted for the 23 gauge, 1 ¼” needle by the prescribing physician, if deemed appropriate.
+The recommended dose is 30 micrograms once a week.
+To reduce the incidence and severity of flu-like symptoms that may occur when initiating AVONEX therapy at a dose of 30 micrograms, AVONEX may be started at a dose of 7.5 micrograms and the dose may be increased by 7.5 micrograms each week for the next three weeks until the recommended dose of 30 micrograms is achieved (see Table 1).
+An AVOSTARTGRIP kit containing 3 titration devices can be used for titration and is to be used only with AVONEX Prefilled Syringes.
 
-## Reconstitution of AVONEX® Vials
+Table 1: Schedule for Dose Titration
 
-Use appropriate aseptic technique during the preparation of AVONEX®.
-To reconstitute lyophilized AVONEX®, use a sterile syringe and MICRO PIN® to inject 1.1 mL of the supplied diluent, Sterile Water for Injection, USP, into the AVONEX® vial.
-Gently swirl the vial of AVONEX® to dissolve the drug completely.
-DO NOT SHAKE.
-The reconstituted solution should be clear to slightly yellow without particles.
-Inspect the reconstituted product visually prior to use.
-Discard the product if it contains particulate matter or is discolored.
-Each vial of reconstituted solution contains 30 mcg/1.0 mL Interferon beta-1a.
+|  | AVONEX Dose1 | Recommended Dose |
+| --- | --- | --- |
+| Week 1 | 7.5 micrograms | 1/4 dose |
+| Week 2 | 15 micrograms | 1/2 dose |
+| Week 3 | 22.5 micrograms | 3/4 dose |
+| Week 4+ | 30 micrograms | full dose |
+| 1Dosed once a week, intramuscularly |  |  |
 
-Withdraw 1.0 mL of reconstituted solution from the vial into a sterile syringe.
-Replace the cover on the MICRO PIN®, attach the sterile needle and inject the solution intramuscularly.
-The AVONEX® and diluent vials are for single-use only; unused portions should be discarded.
+## 2.2 Important Administration Instructions (All Dosage Forms)
 
-## Using Avonex® Prefilled Syringes
+All AVONEX dosage forms are single-use (injection of reconstituted solution, prefilled syringe, and prefilled autoinjector).
+See Patient's Instructions for Use for complete administration instructions.
 
-The AVONEX® prefilled syringe should be held upright (cap faces up).
-Remove the cap by bending it at a 90°angle until it snaps free.
-Attach the needle and inject the solution intramuscularly.
-The AVONEX® prefilled syringe is for single-use only.
+The first AVONEX injection should be performed under the supervision of an appropriately qualified health care professional.
+If patients or caregivers are to administer AVONEX, train them in the proper intramuscular injection technique and assess their ability to inject intramuscularly to ensure the proper administration of AVONEX.
+
+Advise patients and caregivers to:
+
+- rotate sites for intramuscular injections with each injection to minimize the likelihood of injection site reactions
+- NOT inject into an area of the body where the skin is irritated, reddened, bruised, infected or scarred in any way
+- Check the injection site after 2 hours for redness, swelling, or tenderness
+- Contact their doctor or nurse if they have a skin reaction and it does not clear up in a few days
+
+A 25 gauge, 1” needle for intramuscular injection with AVONEX prefilled syringe or injection of reconstituted solution may be substituted for the 23 gauge, 1 ¼” needle by the healthcare provider, if deemed appropriate.
+A 25 gauge, 5/8” needle specific to the prefilled autoinjector is supplied with the AVONEX PEN Administration Dose Pack.
+DO NOT use any other needle with the autoinjector.
+
+Use safe disposal procedures for needles and syringes.
+Do not re-use needles, syringes, prefilled syringes, or autoinjectors.
+Following the administration of each titrated dose, discard any remaining product.
+
+## 2.3 Premedication for Flu-like Symptoms
+
+Concurrent use of analgesics and/or antipyretics on treatment days may help ameliorate flu-like symptoms associated with AVONEX use.

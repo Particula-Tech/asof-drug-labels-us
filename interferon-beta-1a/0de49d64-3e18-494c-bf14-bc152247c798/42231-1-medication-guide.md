@@ -1,164 +1,199 @@
-MEDICATION GUIDE
+Medication Guide
 
-AVONEX®
+AVONEX® (a-vuh-necks)
 
-Interferon beta-1a
+(interferon beta-1a)
 
-(Including appendix with instructions for using AVONEX® Prefilled Syringe or the AVONEX® vials)
+Injection for intramuscular use
 
-Please read this guide carefully before you start to use AVONEX® (a-vuh-necks) and each time your prescription is refilled since there may be new information.
-The information in this guide does not take the place of talking with your doctor or healthcare professional.
+Read this Medication Guide before you start using AVONEX, and each time you get a refill.
+There may be new information.
+This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
 
-What is the most important information I should know about AVONEX®?
+What is the most important information I should know about AVONEX?
 
-AVONEX® will not cure multiple sclerosis (MS) but it has been shown to decrease the number of flare-ups and slow the occurrence of some of the physical disability that is common in people with MS. AVONEX® can cause serious side effects, so before you start taking AVONEX®, you should talk with your doctor about the possible benefits of AVONEX® and its possible side effects to decide if AVONEX® is right for you.
-Potential serious side effects include:
+AVONEX can cause serious side effects.
+Tell your healthcare provider right away if you have any of the symptoms listed below while taking AVONEX.
 
-- Depression - Some people treated with interferons, including AVONEX®, have become depressed (feeling sad, feeling low or feeling bad about oneself).
-  Some people have thought about killing themselves and a few have committed suicide.
-  Depression is common in people with MS. If you are noticeably sadder or feeling more hopeless, you should tell a family member or friend right away and call your doctor as soon as possible.
-  You should tell the doctor if you have ever had any mental illness, including depression, and if you take any medicines for depression.
-- Liver problems - Your liver may be affected by taking AVONEX® and a few patients have developed severe liver injury.
-  Your healthcare provider may ask you to have regular blood tests to make sure that your liver is working properly.
-  If your skin or the whites of your eyes become yellow or if you are bruising easily you should call your doctor immediately.
-- Risk to pregnancy - If you become pregnant while taking AVONEX®, you should stop using AVONEX® immediately and call your doctor.
-  AVONEX® may cause you to lose your baby (miscarry) or may cause harm to your unborn child.
-  You and your doctor will need to decide whether the potential benefit of taking AVONEX® is greater than the risks are to your unborn child.
-- Allergic reactions - Some patients taking AVONEX® have had severe allergic reactions leading to difficulty breathing.
-  Allergic reactions can happen after your first dose or may not happen until after you have taken AVONEX® many times.
-  Less severe allergic reactions such as rash, itching, skin bumps or swelling of the mouth and tongue can also happen.
-  If you think you are having an allergic reaction, stop using AVONEX® immediately and call your doctor.
-- Blood problems - You may have a drop in the levels of infection-fighting blood cells, red blood cells or cells that help to form blood clots.
-  If the drop in levels are severe, they can lessen your ability to fight infections, make you feel tired or sluggish or cause you to bruise or bleed easily.
-- Seizures - Some patients have had seizures while taking AVONEX®, including some patients who have never had seizures before.
-  It is not known whether the seizures were related to the effects of their MS, to AVONEX®, or to a combination of both.
-  If you have a seizure while taking AVONEX®, you should stop taking AVONEX® and call your doctor right away.
-- Heart problems - While AVONEX® is not known to have direct effects on the heart, a few patients who did not have a history of heart problems developed heart muscle problems or congestive heart failure after taking AVONEX®.
-  Some of the symptoms of heart problems are swollen ankles, shortness of breath, decreased ability to exercise, fast heartbeat, tightness in chest, increased need to urinate at night, and not being able to lay flat in bed.
-  If you develop these symptoms or any heart problems while taking AVONEX®, you should call your doctor right away.
+1. Behavioral health problems including depression, suicidal thoughts or hallucinations.
+   Some people taking AVONEX may develop mood or behavior problems including:
+   - irritability (getting upset easily)
+   - depression (feeling hopeless or feeling bad about yourself)
+   - nervousness
+   - anxiety
+   - aggressive behavior
+   - thoughts of hurting yourself or suicide
+   - hearing or seeing things that others do not hear or see (hallucinations)
+2. Liver problems, or worsening of liver problems including liver failure and death.
+   Symptoms may include: nausea loss of appetite tiredness dark colored urine and pale stools yellowing of your skin or the white part of your eye bleeding more easily than normal confusion sleepiness During your treatment with AVONEX you will need to see your healthcare provider regularly and have regular blood tests to check for side effects.
+3. Serious allergic reactions and skin reactions.
+   Symptoms may include:
+   - itching
+   - swelling of the face, eyes, lips, tongue or throat
+   - trouble breathing
+   - anxiousness
+   - feeling faint
+   - skin rash, hives, sores in your mouth, or your skin blisters and peels
 
-For more information on possible side effects with AVONEX®, please read the section on “What are the possible side effects of AVONEX®?” in this Medication Guide.
+What is AVONEX?
 
-What is AVONEX®?
+AVONEX is a form of a protein called beta interferon that occurs naturally in the body.
+AVONEX is a prescription medicine used to treat adults with relapsing forms of multiple sclerosis (MS).
+This includes people who have had their first symptoms of multiple sclerosis and have an MRI consistent with multiple sclerosis.
 
-AVONEX® is a form of a protein called beta interferon that occurs naturally in the body.
-It is used to treat relapsing forms of multiple sclerosis.
-It will not cure your MS but may decrease the number of flare-ups of the disease and slow the occurrence of some of the physical disability that is common in people with MS. MS is a life-long disease that affects your nervous system by destroying the protective covering (myelin) that surrounds your nerve fibers.
-The way AVONEX® works in MS is not known.
+AVONEX will not cure your MS but may decrease the number of flare-ups of the disease and slow the occurrence of some of the physical disability that is common in people with MS. MS is a life-long disease that affects your nervous system by destroying the protective covering (myelin) that surrounds your nerve fibers.
 
-Who should not take AVONEX®?
+The way AVONEX works in MS is not known.
 
-Do not take AVONEX® if you have had an allergic reaction (difficulty breathing, itching, flushing or skin bumps spread widely over the body) to interferon beta.
+It is not known if AVONEX is safe and effective in children.
 
-Do not take the vial formulation of AVONEX® if you have a history of hypersensitivity to albumin (human).
+Who should not use AVONEX?
 
-If you have ever had any of the following conditions or serious medical problems, you should tell your doctor before taking AVONEX®:
+Do not take AVONEX if you:
 
-- Depression (sinking feeling or sadness), anxiety (feeling uneasy or fearful for no reason), or trouble sleeping
-- Problems with your thyroid gland
-- Blood problems such as bleeding or bruising easily and anemia (low red blood cells) or low white blood cells
-- Seizures (for example, epilepsy)
-- Heart problems
-- Liver disease
-- Are planning to become pregnant
+- are allergic to interferon beta, albumin (human), or any of the ingredients in AVONEX.
+  See the end of this Medication Guide for a complete list of ingredients in AVONEX.
 
-You should tell your doctor if you are taking any other prescription or nonprescription medicines.
-This includes any vitamin or mineral supplements, or herbal products.
+What should I tell my healthcare provider before using AVONEX?
 
-How should I take AVONEX®?
+Before taking AVONEX, tell your healthcare provider if you:
 
-To get the most benefit from this medicine, it is important that you take AVONEX® exactly as your doctor tells you.
+- are being treated for a mental illness or had treatment in the past for any mental illness, including depression and suicidal behavior
+- have or had bleeding problems or blood clots
+- have or had low blood cell counts
+- have or had liver problems
+- have or had seizures (epilepsy)
+- have or had heart problems
+- have or had thyroid problems
+- have or had any kind of autoimmune disease (where the body's immune system attacks the body's own cells), such as psoriasis, systemic lupus erythematosus, or rheumatoid arthritis
+- drink alcohol
+- are pregnant or plan to become pregnant.
+  It is not known if AVONEX will harm your unborn baby.
+  Tell your healthcare provider if you become pregnant during your treatment with AVONEX.
+- are breastfeeding or plan to breastfeed.
+  It is not known if AVONEX passes into your breast milk.
+  You and your healthcare provider should decide if you will use AVONEX or breastfeed.
+  You should not do both.
 
-AVONEX® is given by injection into the muscle (intramuscular injection) once a week, on the same day (for example, every Monday right before bedtime).
-If you miss a dose, you should take your next dose as soon as you remember.
-You should continue your regular schedule the following week.
-Do not take AVONEX® on two consecutive days.
-Take only the dose your doctor has prescribed for you.
-Do not change your dose unless you are told to by your doctor.
-If you take more than your prescribed dose, call your healthcare provider right away.
-Your doctor may want to monitor you more closely.
+Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
-You should always follow your doctor's instructions and advice about how to take this medication.
-If your doctor feels that you, or a family member or friend, may give you the injections, then you and/or the other person should be instructed by your doctor or other healthcare provider in how to prepare and inject your dose of AVONEX®.
-Do not try to give yourself injections at home until you are sure that you (or the person who will be giving you the injections) fully understands and is comfortable with how to prepare and inject the product.
-At the end of this guide there are detailed instructions on how to prepare and give yourself an injection of AVONEX® that will help remind you of the instructions from your doctor or healthcare provider.
+How should I use AVONEX?
 
-Always use a new, unopened AVONEX® vial or prefilled syringe for each injection.
-Never reuse the vials or syringes.
+- Your healthcare provider should show you how to prepare and measure your dose of AVONEX and how to inject your AVONEX before you use AVONEX for the first time.
+- Your healthcare provider or nurse should watch the first AVONEX injection you give yourself.
+- AVONEX is given once a week by injection into the muscle (intramuscular injection).
+- Inject AVONEX exactly as your healthcare provider tells you.
+- Your healthcare provider will tell you how much AVONEX to inject and how often to inject AVONEX.
+  Do not inject more than your healthcare provider tells you to.
+- Do not change your dose unless your healthcare provider tells you to.
+- Change (rotate) your injection site you choose with each injection.
+  This will help decrease the chance that you will have an injection site reaction.
+- Do not inject into an area of the body where the skin is irritated, reddened, bruised, infected or scarred in any way.
+- AVONEX comes as a:
+  - Vial with freeze-dried (lyophilized) powder
+  - Prefilled syringe (can be used with the AVOSTARTGRIP™ titration kit)
+  - Single-Use Prefilled Autoinjector Pen (AVONEX® PEN™)
 
-It is important to keep your work area, your hands, and your injection site clean to minimize risk of infection.
-You should wash your hands prior to handling the syringe.
+Your healthcare provider will decide which one is best for you.
+See the Instructions for Use at the end of this Medication Guide for detailed instructions for preparing and injecting your dose of AVONEX.
 
-It is important that you change your injection site each week.
+- Always use a new, unopened AVONEX vial, prefilled syringe, or single-use prefilled autoinjector pen for each intramuscular injection.
 
-Do not inject into an area of the body where the skin is irritated, reddened, bruised, infected or scarred in any way.
-Use the alcohol wipe to thoroughly clean the skin at the injection site you have chosen.
-Using a circular motion, and starting at the injection site and moving outward, clean the injection site with an alcohol wipe.
-Let the skin area dry before you inject the AVONEX®.
+What are the possible side effects of AVONEX?
 
-AVONEX® comes in two different forms (a powder in a single-use vial and a liquid in a prefilled syringe).
-See the attached appendix for detailed instructions for preparing and giving a dose of AVONEX®.
-These instructions are specific to the form of AVONEX® chosen for you by your healthcare provider.
+AVONEX can cause serious side effects including:
 
-What should I avoid while taking AVONEX®?
+- See “What is the most important information I should know about AVONEX?”
+- Heart problems, including heart failure.
+  While AVONEX is not known to have any direct effects on the heart, a few patients who did not have a history of heart problems developed heart muscle problems or congestive heart failure after taking AVONEX.
+  If you already have heart failure, AVONEX may cause your heart failure to get worse.
+  Call your healthcare provider right away if you have worsening symptoms of heart failure such as shortness of breath or swelling of your lower legs or feet while using AVONEX.
+  - Some people using AVONEX may have other heart problems including:
+    - low blood pressure
+    - fast or abnormal heart beat
+    - chest pain
+    - heart attack or a heart muscle problem (cardiomyopathy)
+- Blood problems.
+  AVONEX can affect your bone marrow and cause low red and white blood cell, and platelet counts.
+  In some people, these blood cell counts may fall to dangerously low levels.
+  If your blood cell counts become very low, you can get infections and problems with bleeding and bruising.
+- Seizures.
+  Some patients have had seizures while taking AVONEX, including patients who have never had seizures before.
+- Infections.
+  Some people who take AVONEX may get an infection.
+  Symptoms of an infection may include:
+  - fever
+  - chills
+  - pain or burning with urination
+  - urinating often
+  - bloody diarrhea
+  - coughing up mucus
+- Thyroid problems.
+  Some people taking AVONEX develop changes in their thyroid function.
+  Symptoms of thyroid changes include:
+  - problems concentrating
+  - feeling cold or hot all the time
+  - weight changes (gain or loss)
+  - skin changes
 
-- Pregnancy - You should avoid becoming pregnant while taking AVONEX® until you have talked with your doctor.
-  AVONEX® can cause you to lose your baby (miscarry).
-  If you become pregnant while taking AVONEX®, you should stop using AVONEX® immediately and tell your doctor.
-  You and your doctor will need to decide whether the potential benefit of taking AVONEX® is greater than the risk to your unborn child.
-  If you become pregnant while taking AVONEX®, consider enrolling in the AVONEX® Pregnancy Registry by calling 1-800-456-2255.
-- Breast-feeding - You should talk to your doctor if you are breast-feeding an infant.
-  It is not known if the interferon in AVONEX® gets into the breast milk, or if it could harm your nursing baby.
+Tell your healthcare provider right away if you have any of the symptoms listed above.
 
-What are the possible side effects of AVONEX®?
+The most common side effects of AVONEX include:
 
-- Flu-like symptoms - Most people who take AVONEX® have flu-like symptoms (fever, chills, sweating, muscle aches, and tiredness) early during the course of therapy.
+- Flu-like symptoms.
+  Most people who take AVONEX have flu-like symptoms early during the course of therapy.
   Usually, these symptoms last for a day after the injection.
-  You may be able to manage these flu-like symptoms by injecting your AVONEX® dose at bedtime and taking over-the-counter pain and fever reducers.
+  You may be able to manage these flu-like symptoms by taking over-the-counter pain and fever reducers.
   For many people, these symptoms lessen or go away over time.
-  Talk to your doctor if these symptoms continue longer than the first few months of therapy, or if they are difficult to manage.
-- Depression - Some patients taking interferons have become severely depressed and/or anxious.
-  If you feel sad or hopeless you should tell a friend or family member right away and call your doctor immediately.
-  Your doctor or healthcare provider may ask that you stop taking AVONEX®, and/or may recommend that you take a medication to treat your depression.
-  (See “What is the most important information I should know about AVONEX®?”)
-- Liver problems – Your liver function may be affected.
-  If you develop symptoms of changes in your liver, including yellowing of the skin and whites of the eyes and easy bruising, call your doctor immediately.
-  (See “What is the most important information I should know about AVONEX®?”)
-- Blood problems - A drop in the levels of white (infection-fighting) blood cells, red blood cells, or a part of your blood that helps to form blood clots (platelets) can happen.
-  If this drop in blood levels is severe, it can lessen your ability to fight infections, make you feel very tired or sluggish, or cause you to bruise or bleed easily.
-  Your doctor may ask you to have periodic blood tests.
-  (See “What is the most important information I should know about AVONEX®?”)
-- Thyroid problems - Some people taking AVONEX® develop changes in the function of their thyroid.
-  Symptoms of these changes include feeling cold or hot all the time, a change in your weight (gain or loss) without a change in your diet or amount of exercise you get, or feeling emotional.
-- Seizures - Some patients have had seizures while taking AVONEX®, including patients who have never had seizures before.
-  It is not known whether the seizures were related to the effects of their MS, to AVONEX®, or to a combination of both.
-  If you have a seizure while taking AVONEX®, you should call your doctor right away.
-  (See “What is the most important information I should know about AVONEX®?”)
-- Heart problems - While AVONEX® is not known to have any direct effects on the heart, a few patients who did not have a history of heart problems developed heart muscle problems or congestive heart failure after taking AVONEX®.
-  Some of the symptoms of heart problems are swollen ankles, shortness of breath, decreased ability to exercise, fast heartbeat, tightness in chest, increased need to urinate at night, and not being able to lay flat in bed.
-  If you develop these symptoms or any heart problems while taking AVONEX®, you should call your doctor right away.
-  (See “What is the most important information I should know about AVONEX®?”)
+  Symptoms may include:
+  - muscle aches
+  - fever
+  - tiredness
+  - chills
 
-If you get any of the symptoms listed in this section or any listed in the section “What is the most important information I should know about AVONEX®?”, you should call your doctor right away.
-Whether you experience any side effects or not, you and your doctor should periodically discuss your general health.
-Your doctor may want to monitor you more closely or may ask you to have blood tests more frequently.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-General advice about prescription medicines
+How should I store AVONEX?
+
+- Store AVONEX in the refrigerator at 36°F to 46°F (2°C to 8°C).
+- Do not freeze AVONEX.
+  Do not use AVONEX that has been frozen.
+- Do not store AVONEX above 77°F (25°C).
+- Keep AVONEX away from light.
+- Do not use AVONEX past the expiration date.
+- If you cannot refrigerate your AVONEX vials, you can store your AVONEX vials at 77°F (25°C) for up to 30 days.
+  After mixing, the AVONEX solution should be used immediately, within 6 hours when stored refrigerated at 36°F to 46°F (2°C to 8°C).
+- If you cannot refrigerate your AVONEX PEN and AVONEX prefilled syringes, you can store your AVONEX PEN and AVONEX prefilled syringes up to 77°F (25°C) for up to 7 days.
+
+Keep AVONEX vials, prefilled syringes, pens and all other medicines out of the reach of children.
+
+General advice about the safe and effective use of AVONEX
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-This medication has been prescribed for your particular condition.
-Do not use it for another condition or give this drug to anyone else.
-If you have questions you should speak with your doctor or healthcare professional.
-You may also ask your doctor or pharmacist for a copy of the information provided to them with the product.
+Do not use AVONEX for a condition for which it was not prescribed.
+Do not give AVONEX to other people, even if they have the same symptoms that you have, it may harm them.
 
-Keep this and all drugs out of the reach of children.
+This Medication Guide summarizes the most important information about AVONEX.
+If you would like more information, talk with your healthcare provider.
+You may ask your healthcare provider or pharmacist for information about AVONEX that is written for healthcare professionals.
+
+What are the ingredients in AVONEX?
+
+Active ingredient: interferon beta-1a
+
+Inactive ingredients:
+
+- Vial with freeze-dried (lyophilized) powder: albumin (human), sodium chloride, dibasic sodium phosphate, and monobasic sodium phosphate.
+- Single-Use Prefilled Syringe: sodium acetate trihydrate, glacial acetic acid, arginine hydrochloride, polysorbate 20 in water for injection.
+- Single-Use Prefilled Autoinjector Pen: sodium acetate trihydrate, glacial acetic acid, arginine hydrochloride, polysorbate 20 in water for injection.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Biogen Idec Inc. 14 Cambridge Center Cambridge, MA 02142 USA ©2006 Biogen Idec Inc. All rights reserved.
+Manufactured by: BIOGEN IDEC INC. 14 Cambridge Center Cambridge, MA 02142 USA ©1996-2012 Biogen Idec Inc. All rights reserved.
 1-800-456-2255
 
-(Issue date 11/2006)
+Revised 02/2012
 
 Medication Guide Appendix: Instructions for Preparing and Giving a Dose with an AVONEX® Vial
 
@@ -214,7 +249,7 @@ You should wash your hands prior to preparing the medication.
     DO NOT aim the stream of diluent directly on the AVONEX® powder.
     Too direct or forceful a stream of diluent onto the powder may cause foaming, and make it difficult to withdraw AVONEX®.
 14. Without removing the syringe, gently swirl the vial until the AVONEX® is dissolved.
-    Do not shake.
+    DO NOT SHAKE.
 15. Check to see that all of the AVONEX® is dissolved.
     Check the solution in the vial of AVONEX®.
     It should be clear to slightly yellow in color and should not have any particles.
@@ -237,7 +272,6 @@ This can be as simple as switching between thighs (if you are always injecting y
 Keeping a record of the date and location of each injection will help you.
 
 Do not inject into an area of the body where the skin is irritated, reddened, bruised, infected or scarred in any way.
-
 The best sites for intramuscular injection are the thigh and upper arm:
 
 - thigh
@@ -268,4 +302,11 @@ Your doctor, nurse or pharmacist should provide you with instructions on how to 
 - Always keep your disposal container out of the reach of children.
 - DO NOT throw used needles and syringes into the household trash and DO NOT RECYCLE.
 
+Manufactured by: Biogen Idec Inc. 14 Cambridge Center Cambridge, MA 02142 USA ©1996-2011 Biogen Idec Inc. All rights reserved.
+1-800-456-2255
+
 Appendix Revision Date: 11/2004
+
+I63005-11
+
+*Micro Pin® is the trademark of B. Braun Medical Inc.
