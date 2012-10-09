@@ -13,7 +13,7 @@ The initial oral dose of Cyclosporine Oral Solution USP MODIFIED can be given 4 
 The initial dose of Cyclosporine Oral Solution USP MODIFIED varies depending on the transplanted organ and the other immunosuppressive agents included in the immunosuppressive protocol.
 In newly transplanted patients, the initial oral dose of Cyclosporine Oral Solution USP MODIFIED is the same as the initial oral dose of Sandimmune® (Cyclosporine Oral Solution USP).
 Suggested initial doses are available from the results of a 1994 survey of the use of Sandimmune® (Cyclosporine Oral Solution USP) in US transplant centers.
-The mean ±SD initial doses were 9±3 mg/kg/day for renal transplant patients (75 centers), 8 ± 4 mg/kg/day for liver transplant patients (30 centers), and 7±3 mg/kg/day for heart transplant patients (24 centers).
+The mean ± SD initial doses were 9 ± 3 mg/kg/day for renal transplant patients (75 centers), 8 ± 4 mg/kg/day for liver transplant patients (30 centers), and 7 ± 3 mg/kg/day for heart transplant patients (24 centers).
 Total daily doses were divided into two equal daily doses.
 The Cyclosporine Oral Solution USP MODIFIED dose is subsequently adjusted to achieve a pre-defined cyclosporine blood concentration (see Blood Concentration Monitoring in Transplant Patients, below).
 If cyclosporine trough blood concentrations are used, the target range is the same for Cyclosporine Oral Solution USP MODIFIED as for Sandimmune® (Cyclosporine Oral Solution USP).

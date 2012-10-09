@@ -4,14 +4,22 @@
 
 The principal adverse reactions of cyclosporine therapy are renal dysfunction, tremor, hirsutism, hypertension, and gum hyperplasia.
 
+### Hypertension
+
 Hypertension, which is usually mild to moderate, may occur in approximately 50% of patients following renal transplantation and in most cardiac transplant patients.
+
+### Glomerular Capillary Thrombosis
 
 Glomerular capillary thrombosis has been found in patients treated with cyclosporine and may progress to graft failure.
 The pathologic changes resembled those seen in the hemolytic-uremic syndrome and included thrombosis of the renal microvasculature, with platelet-fibrin thrombi occluding glomerular capillaries and afferent arterioles, microangiopathic hemolytic anemia, thrombocytopenia, and decreased renal function.
 Similar findings have been observed when other immunosuppressives have been employed post-transplantation.
 
+### Hypomagnesemia
+
 Hypomagnesemia has been reported in some, but not all, patients exhibiting convulsions while on cyclosporine therapy.
 Although magnesium-depletion studies in normal subjects suggest that hypomagnesemia is associated with neurologic disorders, multiple factors, including hypertension, high dose methylprednisolone, hypocholesterolemia, and nephrotoxicity associated with high plasma concentrations of cyclosporine appear to be related to the neurological manifestations of cyclosporine toxicity.
+
+### Clinical Studies
 
 In controlled studies, the nature, severity and incidence of the adverse events that were observed in 493 transplanted patients treated with Cyclosporine Oral Solution USP MODIFIED were comparable with those observed in 208 transplanted patients who received Sandimmune® (Cyclosporine Oral Solution USP) in these same studies when the dosage of the two drugs was adjusted to achieve the same cyclosporine blood trough concentrations.
 
@@ -22,27 +30,27 @@ Based on the historical experience with Sandimmune® (Cyclosporine Oral Solution
 | Body System | Adverse Reactions | Sandimmune®(Cyclosporine Oral Solution USP) (N = 227)% | Azathioprine (N = 228)% | Kidney (N = 705)% | Heart (N = 112)% | Liver (N = 75)% |
 | Genitourinary | Renal dysfunction | 32 | 6 | 25 | 38 | 37 |
 | Cardiovascular | Hypertension | 26 | 18 | 13 | 53 | 27 |
-|  | Cramps | 4 | <1 | 2 | <1 | 0 |
-| Skin | Hirsutism | 21 | <1 | 21 | 28 | 45 |
+|  | Cramps | 4 | < 1 | 2 | < 1 | 0 |
+| Skin | Hirsutism | 21 | < 1 | 21 | 28 | 45 |
 |  | Acne | 6 | 8 | 2 | 2 | 1 |
 | Central Nervous System | Tremor | 12 | 0 | 21 | 31 | 55 |
 |  | Convulsions | 3 | 1 | 1 | 4 | 5 |
-|  | Headache | 2 | <1 | 2 | 15 | 4 |
+|  | Headache | 2 | < 1 | 2 | 15 | 4 |
 | Gastrointestinal | Gum hyperplasia | 4 | 0 | 9 | 5 | 16 |
-|  | Diarrhea | 3 | <1 | 3 | 4 | 8 |
-|  | Nausea/Vomiting | 2 | <1 | 4 | 10 | 4 |
-|  | Hepatotoxicity | <1 | <1 | 4 | 7 | 4 |
-|  | Abdominal discomfort | <1 | 0 | <1 | 7 | 0 |
+|  | Diarrhea | 3 | < 1 | 3 | 4 | 8 |
+|  | Nausea/Vomiting | 2 | < 1 | 4 | 10 | 4 |
+|  | Hepatotoxicity | < 1 | < 1 | 4 | 7 | 4 |
+|  | Abdominal discomfort | < 1 | 0 | < 1 | 7 | 0 |
 | Autonomic Nervous System | Paresthesia | 3 | 0 | 1 | 2 | 1 |
-|  | Flushing | <1 | 0 | 4 | 0 | 4 |
-| Hematopoietic | Leukopenia | 2 | 19 | <1 | 6 | 0 |
-|  | Lymphoma | <1 | 0 | 1 | 6 | 1 |
-| Respiratory | Sinusitis | <1 | 0 | 4 | 3 | 7 |
-| Miscellaneous | Gynecomastia | <1 | 0 | <1 | 4 | 3 |
+|  | Flushing | < 1 | 0 | 4 | 0 | 4 |
+| Hematopoietic | Leukopenia | 2 | 19 | < 1 | 6 | 0 |
+|  | Lymphoma | < 1 | 0 | 1 | 6 | 1 |
+| Respiratory | Sinusitis | < 1 | 0 | 4 | 3 | 7 |
+| Miscellaneous | Gynecomastia | < 1 | 0 | < 1 | 4 | 3 |
 
 Among 705 kidney transplant patients treated with Sandimmune® (Cyclosporine Oral Solution USP) in clinical trials, the reason for treatment discontinuation was renal toxicity in 5.4%, infection in 0.9%, lack of efficacy in 1.4%, acute tubular necrosis in 1%, lymphoproliferative disorders in 0.3%, hypertension in 0.3%, and other reasons in 0.7% of the patients.
 
-The following reactions occurred in 2% or less of Sandimmune® (Cyclosporine Oral Solution USP) treated patients: allergic reactions, anemia, anorexia, confusion, conjunctivitis, edema, fever, brittle fingernails, gastritis, hearing loss, hiccups, hyperglycemia, muscle pain, peptic ulcer, thrombocytopenia, tinnitus.
+The following reactions occurred in 2% or less of cyclosporine-treated patients: allergic reactions, anemia, anorexia, confusion, conjunctivitis, edema, fever, brittle fingernails, gastritis, hearing loss, hiccups, hyperglycemia, migraine (Cyclosporine Oral Solution USP MODIFIED), muscle pain, peptic ulcer, thrombocytopenia, tinnitus.
 
 The following reactions occurred rarely: anxiety, chest pain, constipation, depression, hair breaking, hematuria, joint pain, lethargy, mouth sores, myocardial infarction, night sweats, pancreatitis, pruritus, swallowing difficulty, tingling, upper GI bleeding, visual disturbance, weakness, weight loss.
 
@@ -59,8 +67,18 @@ Infectious Complications in Historical Randomized Studies in Renal Transplant Pa
 
 ## Postmarketing Experience, Kidney, Liver and Heart Transplantation
 
-BK virus associated nephropathy has been observed in patients receiving immunosuppressants, including Cyclosporine Oral Solution USP MODIFIED.
-This infection is associated with serious outcomes, including deteriorating renal function and renal graft loss (see WARNINGS, Kidney, Liver and Heart Transplant).
+### Hepatotoxicity
+
+Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis and liver failure; serious and/or fatal outcomes have been reported (see WARNINGS, Hepatotoxicity).
+
+### Increased Risk of Infections
+
+Cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), sometimes fatal; and polyoma virus-associated nephropathy (PVAN), especially BK virus resulting in graft loss have been reported (see WARNINGS, Polyomavirus Infections).
+
+### Headache, Including Migraine
+
+Cases of migraine have been reported.
+In some cases, patients have been unable to continue cyclosporine, however, the final decision on treatment discontinuation should be made by the treating physician following the careful assessment of benefits versus risks.
 
 ## Rheumatoid Arthritis
 
@@ -82,10 +100,10 @@ Cyclosporine Oral Solution USP MODIFIED / Sandimmune® (Cyclosporine Oral Soluti
 |  | Flushing | 2% | 2% | 3% | 0% | 5% | 2% |
 | Body As a Whole-General Disorders |  |  |  |  |  |  |  |
 |  | Accidental trauma | 0% | 1% | 10% | 4% | 4% | 0% |
-|  | Edema NOS**NOS = Not Otherwise Specified. | 5% | 14% | 12% | 4% | 10% | <1% |
+|  | Edema NOS**NOS = Not Otherwise Specified. | 5% | 14% | 12% | 4% | 10% | < 1% |
 |  | Fatigue | 6% | 3% | 8% | 12% | 3% | 7% |
 |  | Fever | 2% | 3% | 0% | 0% | 2% | 4% |
-|  | Influenza-like symptoms | <1% | 6% | 1% | 0% | 3% | 2% |
+|  | Influenza-like symptoms | < 1% | 6% | 1% | 0% | 3% | 2% |
 |  | Pain | 6% | 9% | 10% | 15% | 13% | 4% |
 |  | Rigors | 1% | 1% | 4% | 0% | 3% | 1% |
 | Cardiovascular Disorders |  |  |  |  |  |  |  |
@@ -151,7 +169,7 @@ Cyclosporine Oral Solution USP MODIFIED / Sandimmune® (Cyclosporine Oral Soluti
 | Vascular (Extracardiac) Disorders |  |  |  |  |  |  |  |
 |  | Purpura | 3% | 4% | 1% | 1% | 2% | 0% |
 
-In addition, the following adverse events have been reported in 1% to <3% of the rheumatoid arthritis patients in the cyclosporine treatment group in controlled clinical trials.
+In addition, the following adverse events have been reported in 1% to < 3% of the rheumatoid arthritis patients in the cyclosporine treatment group in controlled clinical trials.
 
 ### Autonomic Nervous System
 
@@ -243,7 +261,7 @@ These elevations are likely to become more pronounced and may result in irrevers
 
 Adverse Events Occurring in 3% or More of Psoriasis Patients in Controlled Clinical Trials
 
-| Body System*Total percentage of events within the system | Preferred Term | Cyclosporine Oral Solution USP MODIFIED (N = 182) | Sandimmune®(Cyclosporine Oral Solution USP) (N = 185) |
+| Body System* *Total percentage of events within the system | Preferred Term | Cyclosporine Oral Solution USP MODIFIED (N = 182) | Sandimmune®(Cyclosporine Oral Solution USP) (N = 185) |
 | --- | --- | --- | --- |
 | Infection or Potential Infection |  | 24.7% | 24.3% |
 |  | Influenza-like symptoms | 9.9% | 8.1% |
@@ -312,7 +330,7 @@ Acne, folliculitis, keratosis, pruritus, rash, dry skin
 
 Micturition frequency
 
-### Visio
+### Vision
 
 Abnormal vision
 
@@ -320,5 +338,5 @@ Mild hypomagnesemia and hyperkalemia may occur but are asymptomatic.
 Increases in uric acid may occur and attacks of gout have been rarely reported.
 A minor and dose related hyperbilirubinemia has been observed in the absence of hepatocellular damage.
 Cyclosporine therapy may be associated with a modest increase of serum triglycerides or cholesterol.
-Elevations of triglycerides (>750 mg/dL) occur in about 15% of psoriasis patients; elevations of cholesterol (>300 mg/dL) are observed in less than 3% of psoriasis patients.
+Elevations of triglycerides (> 750 mg/dL) occur in about 15% of psoriasis patients; elevations of cholesterol (> 300 mg/dL) are observed in less than 3% of psoriasis patients.
 Generally these laboratory abnormalities are reversible upon dose reduction or discontinuation of cyclosporine.

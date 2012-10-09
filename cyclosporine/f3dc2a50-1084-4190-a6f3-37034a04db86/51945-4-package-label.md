@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-## Cyclosporine Oral Solution USP Modified 100mg/mL Label Text
+## Cyclosporine Oral Solution USP Modified 100 mg/mL 50 mL Label Text
 
 NDC 0172-7313-20
 

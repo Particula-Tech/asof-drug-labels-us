@@ -13,7 +13,7 @@ Allow to warm to room temperature 25°C (77°F) to reverse these changes.
 Sandimmune® is a registered trademark of Novartis.
 
 Rev.
-C 4/2010
+D 9/2012
 
 Manufactured In Czech Republic By
 

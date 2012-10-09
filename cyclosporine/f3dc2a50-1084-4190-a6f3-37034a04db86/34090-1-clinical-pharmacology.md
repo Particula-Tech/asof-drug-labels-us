@@ -52,7 +52,7 @@ When the patients were administered Cyclosporine Oral Solution USP MODIFIED with
 
 Pharmacokinetic Parameters (mean ± SD)
 
-| Patient Population | Dose/day11Total daily dose was divided into two doses administered every 12 hours(mg/d) | Dose/weight (mg/kg/d) | AUC22AUC was measured over one dosing interval (ng•hr/mL) | Cmax(ng/mL) | Trough33Trough concentration was measured just prior to the morning Cyclosporine USP MODIFIED dose, approximately 12 hours after the previous dose (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
+| Patient Population | Dose/ day11Total daily dose was divided into two doses administered every 12 hours(mg/d) | Dose/ weight (mg/kg/d) | AUC22AUC was measured over one dosing interval (ng•hr/mL) | Cmax(ng/mL) | Trough33Trough concentration was measured just prior to the morning Cyclosporine USP MODIFIED dose, approximately 12 hours after the previous dose (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | De novo renal transplant44Assay: TDx specific monoclonal fluorescence polarization immunoassay Week 4 (N = 37) | 597 ± 174 | 7.95 ± 2.81 | 8772 ± 2089 | 1802 ± 428 | 361 ± 129 | 593 ± 204 | 7.8 ± 2.9 |
 | Stable renal transplant4 (N = 55) | 344 ± 122 | 4.10 ± 1.58 | 6035 ± 2194 | 1333 ± 469 | 251 ± 116 | 492 ± 140 | 5.9 ± 2.1 |
@@ -107,11 +107,16 @@ In 7 liver de novo transplant patients aged 1.4 to 10 years, the absolute bioava
 
 Pediatric Pharmacokinetic Parameters (mean ± SD)
 
-| Patient Population | Dose/day (mg/d) | Dose/weight (mg/kg/d) | AUC11AUC was measured over one dosing interval(ng•hr/mL) | Cmax (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
+| Patient Population | Dose/ day (mg/d) | Dose/weight (mg/kg/d) | AUC11AUC was measured over one dosing interval(ng•hr/mL) | Cmax (ng/mL) | CL/F (mL/min) | CL/F (mL/min/kg) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Stable liver transplant22Assay: Cyclo-trac specific monoclonal radioimmunoassay Age 2 to 8, dosed TID (N = 9) Age 8 to 15, dosed BID (N = 8) | 101 ± 25 188 ± 55 | 5.95 ± 1.324.96 ± 2.09 | 2163 ± 8014272 ± 1462 | 629 ± 219975 ± 281 | 285 ± 94378 ± 80 | 16.6 ± 4.310.2 ± 4.0 |
-| Stable liver transplant33Assay: TDx specific monoclonal fluorescence polarization immunoassay Age 3, dosed BID (N = 1) Age 8 to 15, dosed BID (N = 5) | 120 158 ± 55 | 8.335.51 ± 1.91 | 58324452 ± 2475 | 10501013 ± 635 | 171328 ± 121 | 11.911.0 ± 1.9 |
-| Stable renal transplant3 Age 7 to 15, dosed BID (N = 5) | 328 ± 83 | 7.37 ± 4.11 | 6922 ± 1988 | 1827 ± 487 | 418 ± 143 | 8.7 ± 2.9 |
+| Stable liver transplant22Assay: Cyclo-trac specific monoclonal radioimmunoassay |  |  |  |  |  |  |
+| Age 2 to 8, dosed TID (N = 9) | 101 ± 25 | 5.95 ± 1.32 | 2163 ± 801 | 629 ± 219 | 285 ± 94 | 16.6 ± 4.3 |
+| Age 8 to 15, dosed BID (N = 8) | 188 ± 55 | 4.96 ± 2.09 | 4272 ± 1462 | 975 ± 281 | 378 ± 80 | 10.2 ± 4 |
+| Stable liver transplant33Assay: TDx specific monoclonal fluorescence polarization immunoassay |  |  |  |  |  |  |
+| Age 3, dosed BID (N = 1) | 120 | 8.33 | 5832 | 1050 | 171 | 11.9 |
+| Age 8 to 15, dosed BID (N = 5) | 158 ± 55 | 5.51 ± 1.91 | 4452 ± 2475 | 1013 ± 635 | 328 ± 121 | 11 ± 1.9 |
+| Stable renal transplant3 |  |  |  |  |  |  |
+| Age 7 to 15, dosed BID (N = 5) | 328 ± 83 | 7.37 ± 4.11 | 6922 ± 1988 | 1827 ± 487 | 418 ± 143 | 8.7 ± 2.9 |
 
 ### Geriatric Population
 
