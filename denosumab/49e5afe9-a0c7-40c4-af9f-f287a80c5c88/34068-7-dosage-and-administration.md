@@ -23,9 +23,7 @@ Prior to administration, Prolia may be removed from the refrigerator and brought
 This generally takes 15 to 30 minutes.
 Do not warm Prolia in any other way [see How Supplied/Storage and Handling (16)].
 
-Instructions for Prefilled Syringe with Needle Safety Guard
-
-IMPORTANT: In order to minimize accidental needlesticks, the Prolia single-use prefilled syringe will have a green safety guard; manually activate the safety guard after the injection is given.
+Instructions for Prefilled Syringe with Needle Safety Guard IMPORTANT: In order to minimize accidental needlesticks, the Prolia single-use prefilled syringe will have a green safety guard; manually activate the safety guard after the injection is given.
 
 DO NOT slide the green safety guard forward over the needle before administering the injection; it will lock in place and prevent injection.
 
@@ -38,10 +36,11 @@ Step 1: Remove Grey Needle Cap
 | Remove needle cap. |  |
 | --- | --- |
 
-Step 2: Administer Injection
+Step 2: Administer Subcutaneous Injection
 
-| Insert needle and inject all the liquid. |  |
+| Choose an injection site. The recommended injection sites for Prolia include: the upper arm OR the upper thigh OR the abdomen. |  |
 | --- | --- |
+| Insert needle and inject all the liquid subcutaneously. Do not administer into muscle or blood vessel. |  |
 
 DO NOT put grey needle cap back on needle.
 
@@ -60,8 +59,6 @@ DO NOT grip the green safety guard too firmly – it will move easily if you hol
 Immediately dispose of the syringe and needle cap in the nearest sharps container.
 DO NOT put the needle cap back on the used syringe.
 
-Instructions for Single-use Vial
-
-For administration of Prolia from the single-use vial, use a 27-gauge needle to withdraw and inject the 1 mL dose.
+Instructions for Single-use Vial For administration of Prolia from the single-use vial, use a 27-gauge needle to withdraw and inject the 1 mL dose.
 Do not re-enter the vial.
 Discard vial and any liquid remaining in the vial.

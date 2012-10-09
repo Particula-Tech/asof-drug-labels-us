@@ -9,7 +9,7 @@ Prevention of the RANKL/RANK interaction inhibits osteoclast formation, function
 ## 12.2 Pharmacodynamics
 
 In clinical studies, treatment with 60 mg of Prolia resulted in reduction in the bone resorption marker serum type 1 C-telopeptide (CTX) by approximately 85% by 3 days, with maximal reductions occurring by 1 month.
-CTX levels were below the limit of assay quantitation (0.049 ng/mL) in 39% to 68% of subjects 1 to 3 months after dosing of Prolia.
+CTX levels were below the limit of assay quantitation (0.049 ng/mL) in 39% to 68% of patients 1 to 3 months after dosing of Prolia.
 At the end of each dosing interval, CTX reductions were partially attenuated from a maximal reduction of ≥ 87% to ≥ 45% (range: 45% to 80%), as serum denosumab levels diminished, reflecting the reversibility of the effects of Prolia on bone remodeling.
 These effects were sustained with continued treatment.
 Upon reinitiation, the degree of inhibition of CTX by Prolia was similar to that observed in patients initiating Prolia treatment.
@@ -31,13 +31,9 @@ Prolia pharmacokinetics were not affected by the formation of binding antibodies
 A population pharmacokinetic analysis was performed to evaluate the effects of demographic characteristics.
 This analysis showed no notable differences in pharmacokinetics with age (in postmenopausal women), race, or body weight (36 to 140 kg).
 
-Drug Interactions
+Drug Interactions No drug-drug interaction studies have been conducted with Prolia.
 
-No drug-drug interaction studies have been conducted with Prolia.
-
-Specific Populations
-
-Gender: Mean serum denosumab concentration-time profiles observed in a study conducted in healthy men ≥ 50 years were similar to those observed in a study conducted in postmenopausal women using the same dose regimen.
+Specific Populations Gender: Mean serum denosumab concentration-time profiles observed in a study conducted in healthy men ≥ 50 years were similar to those observed in a study conducted in postmenopausal women using the same dose regimen.
 
 Age: The pharmacokinetics of denosumab were not affected by age across all populations studied whose ages ranged from 28 to 87 years.
 

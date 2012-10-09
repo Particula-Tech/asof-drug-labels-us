@@ -51,6 +51,9 @@ Prolia can cause serious side effects including:
    Your doctor should examine your mouth before you start Prolia.
    Your doctor may tell you to see your dentist before you start Prolia.
    It is important for you to practice good mouth care during treatment with Prolia.
+5. Unusual thigh bone fractures.
+   Some people have developed unusual fractures in their thigh bone.
+   Symptoms of a fracture include new or unusual pain in your hip, groin, or thigh.
 
 Call your doctor right away if you have any of these side effects.
 
@@ -59,10 +62,11 @@ What is Prolia?
 Prolia is a prescription medicine used to:
 
 - Treat osteoporosis (thinning and weakening of bone) in women after menopause (“change of life”) who:
-  - are at high risk for fracture (broken bone).
-  - cannot use another osteoporosis medicine or other osteoporosis medicines did not work well.
-- Treat bone loss in men who are at high risk for fracture receiving certain treatments for prostate cancer that has not spread to other parts of the body.
-- Treat bone loss in women who are at high risk for fracture receiving certain treatments for breast cancer that has not spread to other parts of the body.
+  - are at high risk for fracture (broken bone)
+  - cannot use another osteoporosis medicine or other osteoporosis medicines did not work well
+- Increase bone mass in men with osteoporosis who are at high risk for fracture
+- Treat bone loss in men who are at high risk for fracture receiving certain treatments for prostate cancer that has not spread to other parts of the body
+- Treat bone loss in women who are at high risk for fracture receiving certain treatments for breast cancer that has not spread to other parts of the body
 
 It is not known if Prolia is safe and effective in children.
 
@@ -81,18 +85,21 @@ Before taking Prolia, tell your doctor if you:
 
 - Are taking a medicine called Xgeva (denosumab).
   Xgeva contains the same medicine as Prolia.
-- Have low blood calcium.
-- Cannot take daily calcium and vitamin D.
-- Had parathyroid or thyroid surgery (glands located in your neck).
-- Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome).
-- Have kidney problems or are on kidney dialysis.
+- Have low blood calcium
+- Cannot take daily calcium and vitamin D
+- Had parathyroid or thyroid surgery (glands located in your neck)
+- Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)
+- Have kidney problems or are on kidney dialysis
 - Plan to have dental surgery or teeth removed.
 - Are pregnant or plan to become pregnant.
   Prolia may harm your unborn baby.
   Tell your doctor right away if you become pregnant while taking Prolia.
   - Pregnancy Surveillance Program: Prolia is not intended for use in pregnant women.
-    If you become pregnant while taking Prolia, talk to your doctor about enrolling in Amgen’s Pregnancy Surveillance Program or call 1-800-772-6436 (l-800-77-AMGEN).
+    If you become pregnant while taking Prolia, talk to your doctor about enrolling in Amgen’s Pregnancy Surveillance Program or call 1-800-772-6436 (1-800-77-AMGEN).
     The purpose of this program is to collect information about women who have become pregnant while taking Prolia.
+  - If you are a man and you receive Prolia: Small amounts of Prolia may be in semen.
+    If your sexual partner is pregnant, some Prolia from your semen may reach the unborn baby.
+    While the risk is likely to be low, it is important to talk to your doctor if your partner becomes pregnant while you are taking Prolia.
 - Are breastfeeding or plan to breastfeed.
   It is not known if Prolia passes into your breast milk.
   You and your doctor should decide if you will take Prolia or breastfeed.
@@ -119,7 +126,7 @@ What are the possible side effects of Prolia?
 Prolia may cause serious side effects.
 
 - See “What is the most important information I should know about Prolia?”
-- Long-term effects on bone: It is not known if the use of Prolia over a long period of time may cause slow healing of broken bones or unusual fractures.
+- It is not known if the use of Prolia over a long period of time may cause slow healing of broken bones.
 
 The most common side effects of Prolia in women who are being treated for osteoporosis after menopause are:
 
@@ -128,6 +135,12 @@ The most common side effects of Prolia in women who are being treated for osteop
 - high cholesterol
 - muscle pain
 - bladder infection
+
+The most common side effects of Prolia in men with osteoporosis are:
+
+- back pain
+- joint pain
+- common cold (runny nose or sore throat)
 
 The most common side effects of Prolia in patients receiving certain treatments for prostate or breast cancer are:
 
@@ -170,10 +183,8 @@ For more information, go to www.Prolia.com or call Amgen at 1-800-772-6436.
 What are the ingredients in Prolia?
 Active ingredient: denosumab Inactive ingredients: sorbitol, acetate, polysorbate 20 (prefilled syringe only), Water for Injection (USP), and sodium hydroxide
 
-[Amgen Logo]
-
 Amgen Manufacturing Limited, a subsidiary of Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-1xxxxxx - v4 Revised: 05/2012 PMV4
+1xxxxxx - v5 Revised: 09/2012 PMV5

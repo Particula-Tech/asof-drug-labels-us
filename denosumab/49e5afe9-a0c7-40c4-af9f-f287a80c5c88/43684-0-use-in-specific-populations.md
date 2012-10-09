@@ -12,7 +12,7 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 Women who become pregnant during Prolia treatment are encouraged to enroll in Amgen’s Pregnancy Surveillance Program.
 Patients or their physicians should call 1 800 77 AMGEN (1-800-772-6436) to enroll.
 
-Clinical Considerations The effects of Prolia are likely to be greater during the second and third trimesters of pregnancy.
+Clinical Considerations The effects of Prolia on the fetus are likely to be greater during the second and third trimesters of pregnancy.
 Monoclonal antibodies, such as denosumab, are transported across the placenta in a linear fashion as pregnancy progresses, with the largest amount transferred during the third trimester.
 If the patient becomes pregnant during Prolia therapy, treatment should be discontinued and the patient should consult their physician.
 
@@ -54,6 +54,7 @@ Some bone abnormalities recovered once exposure was ceased following birth; howe
 ## 8.5 Geriatric Use
 
 Of the total number of patients in clinical studies of Prolia, 9943 patients (76%) were ≥ 65 years old, while 3576 (27%) were ≥ 75 years old.
+Of the patients in the osteoporosis study in men, 133 patients (55%) were ≥ 65 years old, while 39 patients (16%) were ≥ 75 years old.
 No overall differences in safety or efficacy were observed between these patients and younger patients and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
@@ -68,3 +69,12 @@ Adequate intake of calcium and vitamin D is important in patients with severe re
 ## 8.7 Hepatic Impairment
 
 No clinical studies have been conducted to evaluate the effect of hepatic impairment on the pharmacokinetics of Prolia.
+
+## 8.8 Males
+
+Prolia may cause fetal harm [see Use in Specific Populations (8.1)].
+
+The extent to which denosumab is present in seminal fluid is unknown.
+There is a potential for fetal exposure to denosumab when a man treated with Prolia has unprotected sexual intercourse with a pregnant partner.
+The risk of fetal harm is likely to be low.
+Advise men being treated with Prolia who have a pregnant partner of this potential risk.
