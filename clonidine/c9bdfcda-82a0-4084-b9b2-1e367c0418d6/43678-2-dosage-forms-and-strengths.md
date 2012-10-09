@@ -1,4 +1,4 @@
-# 3. DOSAGE FORM AND STRENGTHS
+# 3. DOSAGE FORMS AND STRENGTHS
 
 KAPVAY tablets are available in two strengths, 0.1 mg and 0.2 mg as an extended-release formulation.
 Both the 0.1 mg and 0.2 mg tablets are white, non-scored, standard convex with debossing on one side.

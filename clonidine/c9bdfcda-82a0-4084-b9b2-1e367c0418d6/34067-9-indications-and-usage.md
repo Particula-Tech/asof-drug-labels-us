@@ -1,6 +1,6 @@
 # 1. INDICATIONS AND USAGE
 
-KAPVAY™ (clonidine hydrochloride) extended-release is indicated for the treatment of attention deficit hyperactivity disorder (ADHD) as monotherapy and as adjunctive therapy to stimulant medications.
+KAPVAY® (clonidine hydrochloride) extended-release is indicated for the treatment of attention deficit hyperactivity disorder (ADHD) as monotherapy and as adjunctive therapy to stimulant medications.
 
 The efficacy of KAPVAY in the treatment of ADHD is based on two controlled trials (one monotherapy and one adjunctive to stimulant medication) in children and adolescents ages 6-17 who met DSM-IV criteria for ADHD hyperactive or combined hyperactive/inattentive subtypes [see Clinical Studies (14)].
 In the adjunctive study, KAPVAY was administered to patients who had been on a stable regimen of either methylphenidate or amphetamine (or their derivatives) and who had not achieved an optimal response.

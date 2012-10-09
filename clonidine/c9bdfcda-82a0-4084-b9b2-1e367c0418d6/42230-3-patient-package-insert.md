@@ -1,4 +1,4 @@
-Patient Information KAPVAY™ (KAP-vay) (clonidine hydrochloride) Extended-ReleaseTablets
+Patient Information KAPVAY® (KAP-vay) (clonidine hydrochloride) Extended-ReleaseTablets
 
 Read the Patient Information that comes with KAPVAY before you start taking it and each time you get a refill.
 There may be new information.
@@ -59,7 +59,7 @@ How should I take KAPVAY?
   Your doctor may change your dose of KAPVAY.
   Do not change your dose of KAPVAY without talking to your doctor.
 - Do not stop taking KAPVAY without talking to your doctor.
-- KAPVAY can be taken with or without food
+- KAPVAY can be taken with or without food.
 - KAPVAY should be taken 2 times a day (in the morning and at bedtime).
 - If you miss a dose of KAPVAY, skip the missed dose.
   Just take the next dose at your regular time.
@@ -91,10 +91,7 @@ The most common side effects of KAPVAY include:
 
 - sleepiness
 - tiredness
-- upper respiratory tract infection, symptoms may include:
-  - cough
-  - runny nose
-  - sneezing
+- upper respiratory tract infection, symptoms may include: ♦ cough ♦ runny nose ♦ sneezing
 - irritability
 - sore throat
 - trouble sleeping (insomnia)
@@ -117,7 +114,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store KAPVAY?
 
 - Store KAPVAY between 68°-77°F (20°-25°C).
-- Keep KAPVAY in a tightly closed container and keep KAPVAY out of the light.
+- Keep KAPVAY in a tightly closed container.
 
 Keep KAPVAY and all medicines out of the reach of children.
 
@@ -133,10 +130,13 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can also ask your doctor or pharmacist for information about KAPVAY that is written for healthcare professionals.
 
-For more information about KAPVAY, go to www.KAPVAY.com or call 1-800-849-9707 ext.
-1454.
+For more information about KAPVAY, go to www.KAPVAY.com or call 1-800-849-9707.
 
 What are the ingredients in KAPVAY?
 
 - Active Ingredient: clonidine hydrochloride
 - Inactive Ingredients: sodium lauryl sulfate, lactose monohydrate, hypromellose type 2208, partially pregelatinized starch, colloidal silicon dioxide, and magnesium stearate
+
+Revised: 07/2012
+
+Distributed by: Shionogi Inc. Florham Park, NJ 07932

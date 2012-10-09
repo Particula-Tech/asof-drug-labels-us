@@ -3,14 +3,21 @@
     "NDA022331"
   ],
   "inn": "clonidine",
-  "labeler": "Shionogi Pharma, Inc.",
+  "labeler": "Shionogi Inc.",
   "package_ndcs": [
-    "59630-657-08",
-    "59630-657-60",
     "59630-658-08",
-    "59630-658-60"
+    "59630-658-60",
+    "59630-659-08",
+    "59630-659-60",
+    "59630-670-20",
+    "59630-670-60"
   ],
   "products": [
+    {
+      "form": "KIT",
+      "generic": "clonidine hydrochloride",
+      "name": "Kapvay"
+    },
     {
       "form": "TABLET, EXTENDED RELEASE",
       "generic": "clonidine hydrochloride",

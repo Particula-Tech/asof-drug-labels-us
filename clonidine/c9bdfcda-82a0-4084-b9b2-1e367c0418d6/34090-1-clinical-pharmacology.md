@@ -35,16 +35,13 @@ Food had no effect on plasma concentrations, bioavailability, or elimination hal
 
 Table 6 Pharmacokinetic Parameters of Clonidine in Healthy Adult Volunteers
 
-| Parameter | Mean | SD | Mean | SD | MEAN | SD |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | CATAPRES-Fasted n=15 |  | KAPVAY-Fed n=15 |  | KAPVAY-Fasted n=14 |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Parameter | Mean | SD | Mean | SD | MEAN | SD |
 | Cmax (pg/mL) | 443 | 59.6 | 235 | 34.7 | 258 | 33.3 |
 | AUCinf (hr*pg/mL) | 7313 | 1812 | 6505 | 1728 | 6729 | 1650 |
 | hTmax (hr) | 2.07 | 0.5 | 6.80 | 3.61 | 6.50 | 1.23 |
 | T1/2 (hr) | 12.57 | 3.11 | 12.67 | 3.76 | 12.65 | 3.56 |
-
-| Figure 1 Mean Clonidine Concentration-Time Profiles after Single Dose Administration |
-| --- |
 
 Multiple-dose Pharmacokinetics in Children and Adolescents
 
