@@ -29,7 +29,7 @@ The mechanism of the antihypertensive effect of thiazides is unknown.
 
 ### General
 
-#### CandesartanCilexetil
+#### Candesartan Cilexetil
 
 Candesartan cilexetil is rapidly and completely bioactivated by ester hydrolysis during absorption from the gastrointestinal tract to candesartan, a selective AT1 subtype angiotensin II receptor antagonist.
 Candesartan is mainly excreted unchanged in urine and feces (via bile).

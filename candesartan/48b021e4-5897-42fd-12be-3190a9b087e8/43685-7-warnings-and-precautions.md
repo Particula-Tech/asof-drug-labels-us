@@ -224,7 +224,7 @@ Candesartan (but not its O-deethyl metabolite) was also evaluated in vivo in the
 Candesartan cilexetil was evaluated in the Ames test, the in vitro mouse lymphoma cell assay, the in vivo rat hepatocyte unscheduled DNA synthesis assay and the in vivo mouse micronucleus test, in each case with negative results.
 Candesartan cilexetil was not evaluated in the CHL chromosomal aberration or CHO gene mutation assays.
 
-When hydrochlorothiazide was tested alone, positive results were obtained in vitro in the CHO sister chromatid exchange (clastogenicity) and mouse lymphoma cell (mutagenicity) assays and in the Aspergillusnidulans non-disjunciton assay.
+When hydrochlorothiazide was tested alone, positive results were obtained in vitro in the CHO sister chromatid exchange (clastogenicity) and mouse lymphoma cell (mutagenicity) assays and in the Aspergillus nidulans non-disjunciton assay.
 Hydrochorothiazide was not genotoxic in vitro in the Ames test for point mutations and the CHO test for chromosomal aberrations, or in vivo in assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene.
 
 No fertility studies have been conducted with the combination of candesartan cilexetil and hydrochlorothiazide.

@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-## CandesartanCilexetil-Hydrochlorothiazide
+## Candesartan Cilexetil-Hydrochlorothiazide
 
 ATACAND HCT has been evaluated for safety in more than 2800 patients treated for hypertension.
 More than 750 of these patients were studied for at least six months and more than 500 patients were treated for at least one year.
