@@ -8,6 +8,8 @@ PREVACID® LANSOPRAZOLE DELAYED-RELEASE CAPSULES
 
 Rx only
 
+Dispense the accompanying Medication Guide to each patient
+
 Takeda logo
 
 PRINCIPAL DISPLAY PANEL - 30 mg Capsule Bottle Label
@@ -20,6 +22,8 @@ PREVACID® LANSOPRAZOLE DELAYED-RELEASE CAPSULES
 
 Rx only
 
+Dispense the accompanying Medication Guide to each patient
+
 Takeda logo
 
 PRINCIPAL DISPLAY PANEL - 15 mg SoluTab Blister Carton
@@ -31,6 +35,8 @@ PREVACID® SoluTab™ LANSOPRAZOLE Delayed-Release Orally Disintegrating Tablets
 15 mg
 
 Rx only
+
+Dispense the enclosed Medication Guide to each patient
 
 Takeda logo
 
@@ -47,6 +53,8 @@ PREVACID® SoluTab™ LANSOPRAZOLE Delayed-Release Orally Disintegrating Tablets
 30 mg
 
 Rx only
+
+Dispense the enclosed Medication Guide to each patient
 
 Takeda logo
 

@@ -91,7 +91,7 @@ Amoxicillin pretreatment susceptible isolates (≤0.25 mcg/mL) occurred in 97.8%
 Twenty-one of 957 patients (2.2%) by E-test, and 2 of 100 patients (2.0%) by agar dilution, had amoxicillin pretreatment MICs of greater than 0.25 mcg/mL.
 One patient on the 14-day triple therapy regimen had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of greater than 256 mcg/mL by E-test and the patient was eradicated of H. pylori (Table 6).
 
-Table 6: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pretreatment clarithromycin susceptibility test results
+Table 6: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes#
 
 |  |  | SSusceptible (S) MIC ≤0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥2 mcg/mL | I | R | No MIC |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -105,6 +105,7 @@ Table 6: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological
 | Susceptible | 42 | 40 | 1 |  | 1 |  |
 | Intermediate |  |  |  |  |  |  |
 | Resistant | 4 | 1 |  |  | 3 |  |
+| #Includes only patients with pretreatment clarithromycin susceptibility results |  |  |  |  |  |  |
 
 Patients not eradicated of H. pylori following lansoprazole/amoxicillin/clarithromycin triple therapy will likely have clarithromycin resistant H. pylori.
 Therefore, for those patients who fail therapy, clarithromycin susceptibility testing should be done when possible.
@@ -116,31 +117,7 @@ A total of 30% (21/70) of the patients failed lansoprazole 30 mg three times dai
 Post-treatment susceptibility results were not obtained on 11 of the patients who failed therapy.
 Nine of the 11 patients with amoxicillin post-treatment MICs that failed the triple therapy regimen also had clarithromycin resistant H. pylori isolates.
 
-Susceptibility Test for Helicobacter pylori: The reference methodology for susceptibility testing of H. pylori is agar dilution MICs.1 One to three microliters of an inoculum equivalent to a No. 2 McFarland standard (1 × 107 to 1 × 108 CFU/mL for H. pylori) are inoculated directly onto freshly prepared antimicrobial-containing Mueller-Hinton agar plates with 5% aged defibrinated sheep blood (≥2 weeks old).
-The agar dilution plates are incubated at 35°C in a microaerobic environment produced by a gas generating system suitable for campylobacters.
-
-After 3 days of incubation, the MICs are recorded as the lowest concentration of antimicrobial agent required to inhibit growth of the organism.
-The clarithromycin and amoxicillin MIC values should be interpreted according to the following criteria (Table 7):
-
-Table 7
-
-| Clarithromycin MIC (mcg/mL)These are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods. | Interpretation |
-| --- | --- |
-| ≤0.25 | Susceptible (S) |
-| 0.5-1.0 | Intermediate (I) |
-| ≥2.0 | Resistant (R) |
-| Amoxicillin MIC (mcg/mL),There were not enough organisms with MICs greater than 0.25 mcg/mL to determine a resistance breakpoint. | Interpretation |
-| ≤0.25 | Susceptible (S) |
-
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Standard clarithromycin and amoxicillin powders should provide the following MIC values (Table 8):
-
-Table 8
-
-| Microorganism | Antimicrobial Agent | MIC (mcg/mL)These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods. |
-| --- | --- | --- |
-| H. pylori ATCC 43504 | Clarithromycin | 0.015-0.12 |
-| H. pylori ATCC 43504 | Amoxicillin | 0.015-0.12 |
+Susceptibility Test for Helicobacter pylori: For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
 
 ## 12.3 Pharmacokinetics
 
