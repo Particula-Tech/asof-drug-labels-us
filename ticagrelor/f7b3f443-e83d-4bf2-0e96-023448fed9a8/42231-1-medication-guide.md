@@ -16,17 +16,17 @@ BRILINTA is used to lower your chance of having a heart attack or dying from a h
 In cases of serious bleeding, such as internal bleeding, the bleeding may result in the need for blood transfusions or surgery.
 While you take BRILINTA:
 
-- you may bruise and bleed more easily
-- you are more likely to have nose bleeds
-- it will take longer than usual for any bleeding to stop
+- •you may bruise and bleed more easily
+- •you are more likely to have nose bleeds
+- •it will take longer than usual for any bleeding to stop
 
 Call your doctor right away, if you have any of these signs or symptoms of bleeding while taking BRILINTA:
 
-- bleeding that is severe or that you cannot control
-- pink, red or brown urine
-- vomiting blood or your vomit looks like “coffee grounds”
-- red or black stools (looks like tar)
-- coughing up blood or blood clots
+- •bleeding that is severe or that you cannot control
+- •pink, red or brown urine
+- •vomiting blood or your vomit looks like “coffee grounds”
+- •red or black stools (looks like tar)
+- •coughing up blood or blood clots
 
 Do not stop taking BRILINTA without talking to the doctor who prescribes it for you.
 People who are treated with a stent, and stop taking BRILINTA too soon, have a higher risk of getting a blood clot in the stent, having a heart attack, or dying.
@@ -48,8 +48,8 @@ What is BRILINTA?
 
 BRILINTA is a prescription medicine used to treat people who:
 
-- have had a recent heart attack or severe chest pain that happened because their heart was not getting enough oxygen.
-- have had a heart attack or chest pain and are being treated with medicines or with a procedure to open blocked arteries in the heart.
+- •have had a recent heart attack or severe chest pain that happened because their heart was not getting enough oxygen.
+- •have had a heart attack or chest pain and are being treated with medicines or with a procedure to open blocked arteries in the heart.
 
 BRILINTA is used with aspirin to lower your chance of having another serious problem with your heart or blood vessels, such as heart attack, stroke, or blood clots in your stent.
 These can be fatal.
@@ -63,10 +63,10 @@ Who should not take BRILINTA?
 
 Do not take BRILINTA if you:
 
-- are bleeding now
-- have a history of bleeding in the brain
-- have bleeding from your stomach or intestine now (an ulcer)
-- have severe liver problems
+- •are bleeding now
+- •have a history of bleeding in the brain
+- •have bleeding from your stomach or intestine now (an ulcer)
+- •have severe liver problems
 
 When instructed by your doctor, you should stop taking BRILINTA 5 days before you have elective surgery.
 This will help to decrease your risk of bleeding with your surgery or procedure.
@@ -76,17 +76,17 @@ What should I tell my doctor before taking BRILINTA?
 
 Before you take BRILINTA, tell your doctor if you:
 
-- have had bleeding problems in the past
-- have had any recent serious injury or surgery
-- plan to have surgery or a dental procedure
-- have a history of stomach ulcers or colon polyps
-- have lung problems, such as COPD or asthma
-- have liver problems
-- have a history of stroke
-- are pregnant, or are plan to become pregnant.
+- •have had bleeding problems in the past
+- •have had any recent serious injury or surgery
+- •plan to have surgery or a dental procedure
+- •have a history of stomach ulcers or colon polyps
+- •have lung problems, such as COPD or asthma
+- •have liver problems
+- •have a history of stroke
+- •are pregnant, or are plan to become pregnant.
   It is not known if BRILINTA will harm your unborn baby.
   You and your doctor should decide if you will take BRILINTA.
-- are breastfeeding.
+- •are breastfeeding.
   It is not known if BRILINTA passes into your breast-milk.
   You and your doctor should decide if you will take BRILINTA or breastfeed.
   You should not do both without talking with your doctor.
@@ -99,13 +99,13 @@ BRILINTA may affect the way other medicines work, and other medicines may affect
 
 Especially tell your doctor if you take:
 
-- an HIV-AIDS medicine
-- medicine for heart conditions or high blood pressure
-- medicine for high blood cholesterol levels
-- an anti-fungal medicine by mouth
-- an anti-seizure medicine
-- a blood thinner medicine
-- rifampin (Rifater, Rifamate, Rimactane, Rifadin)
+- •an HIV-AIDS medicine
+- •medicine for heart conditions or high blood pressure
+- •medicine for high blood cholesterol levels
+- •an anti-fungal medicine by mouth
+- •an anti-seizure medicine
+- •a blood thinner medicine
+- •rifampin (Rifater, Rifamate, Rimactane, Rifadin)
 
 Ask your doctor or pharmacist if you are not sure if your medicine is listed above.
 
@@ -114,21 +114,21 @@ Keep a list of them to show your doctor and pharmacist when you get a new medici
 
 How should I take BRILINTA?
 
-- Take BRILINTA exactly as prescribed by your doctor.
-- Your doctor will tell you how many BRILINTA tablets to take and when to take them.
-- Take BRILINTA with a low dose (not more than 100 mg daily) of aspirin.
+- •Take BRILINTA exactly as prescribed by your doctor.
+- •Your doctor will tell you how many BRILINTA tablets to take and when to take them.
+- •Take BRILINTA with a low dose (not more than 100 mg daily) of aspirin.
   You may take BRILINTA with or without food.
-- Take your doses of BRILINTA around the same time every day.
-- If you forget to take your scheduled dose of BRILINTA, take your next dose at its scheduled time.
+- •Take your doses of BRILINTA around the same time every day.
+- •If you forget to take your scheduled dose of BRILINTA, take your next dose at its scheduled time.
   Do not take two doses at the same time unless your doctor tells you to.
-- If you take too much BRILINTA or overdose, call your doctor or poison control center right away, or go to the nearest emergency room.
+- •If you take too much BRILINTA or overdose, call your doctor or poison control center right away, or go to the nearest emergency room.
 
 What are the possible side effects of BRILINTA?
 
 BRILINTA can cause serious side effects, including:
 
-- See “What is the most important information I should know about BRILINTA?”
-- Shortness of breath.
+- •See “What is the most important information I should know about BRILINTA?”
+- •Shortness of breath.
   Call your doctor if you have new or unexpected shortness of breath when you are at rest, at night, or when you are doing any activity.
   Your doctor can decide what treatment is needed.
 
@@ -142,7 +142,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store BRILINTA?
 
-- Store BRILINTA at room temperature between 59°F to 86°F (15°C to 30°C).
+- •Store BRILINTA at room temperature between 59°F to 86°F (15°C to 30°C).
 
 Keep BRILINTA and all medicines out of the reach of children.
 

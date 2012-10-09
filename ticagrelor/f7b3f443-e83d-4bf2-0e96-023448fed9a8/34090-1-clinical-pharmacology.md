@@ -91,7 +91,7 @@ CYP3A inducers (e.g., rifampin) substantially reduce ticagrelor blood levels.
 
 Figure 5 – Effect of co-administered drugs on the pharmacokinetics of ticagrelor
 
-* See Dosage and Administration (2).
+* SeeDosage and Administration (2).
 
 Effects of BRILINTA on Other Drugs
 

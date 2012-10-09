@@ -31,7 +31,7 @@ Separate secondary endpoint analyses are shown for the overall occurrence of CV 
 
 Table 4 – Patients with Outcome Events, in PLATO (KM%)
 
-|  | BRILINTAN=9333 | Clopidogrel N=9291 | Hazard Ratio (95% CI) | p-value |
+|  | BRILINTAN=9333 | ClopidogrelN=9291 | Hazard Ratio(95% CI) | p-value |
 | --- | --- | --- | --- | --- |
 | Composite of CV death, MI, or stroke | 9.8 | 11.7 | 0.84 (0.77, 0.92) | 0.0003 |
 | CV death | 2.9 | 4.0 | 0.74 |  |

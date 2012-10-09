@@ -4,7 +4,7 @@
 
 The following adverse reactions are also discussed elsewhere in the labeling:
 
-- Dyspnea [see Warnings and Precautions (5.4)]
+- •Dyspnea [see Warnings and Precautions (5.4)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -14,13 +14,13 @@ Bleeding
 
 PLATO used the following bleeding severity categorization:
 
-- Major bleed – fatal/life-threatening.
+- •Major bleed – fatal/life-threatening.
   Any one of the following: fatal; intracranial; intrapericardial bleed with cardiac tamponade; hypovolemic shock or severe hypotension due to bleeding and requiring pressors or surgery; clinically overt or apparent bleeding associated with a decrease in hemoglobin (Hb) of more than 5 g/dL; transfusion of 4 or more units (whole blood or packed red blood cells (PRBCs)) for bleeding.
-- Major bleed – other.
+- •Major bleed – other.
   Any one of the following: significantly disabling (e.g., intraocular with permanent vision loss); clinically overt or apparent bleeding associated with a decrease in Hb of 3 g/dL; transfusion of 2-3 units (whole blood or PRBCs) for bleeding.
-- Minor bleed.
+- •Minor bleed.
   Requires medical intervention to stop or treat bleeding (e.g., epistaxis requiring visit to medical facility for packing).
-- Minimal bleed.
+- •Minimal bleed.
   All others (e.g., bruising, bleeding gums, oozing from injection sites, etc.) not requiring intervention or treatment.
 
 Figure 1 shows major bleeding events over time.
