@@ -56,8 +56,6 @@ FORADIL AEROLIZER is used with a long-term asthma control medicine, such as an i
 LABA medicines, such as FORADIL AEROLIZER, increase the risk of death from asthma problems.
 FORADIL AEROLIZER is not for adults and children with asthma who are well controlled with long-term asthma control medicine, such as low to medium dose of an inhaled corticosteroid medicine.
 
-It is not known if FORADIL AEROLIZER is safe and effective in children under 5 years of age.
-
 Exercise-Induced Bronchospasm (EIB)
 
 FORADIL AEROLIZER is used to prevent wheezing caused by exercise in adults and children 5 years of age and older.
@@ -68,6 +66,8 @@ FORADIL AEROLIZER is used to prevent wheezing caused by exercise in adults and c
 Chronic Obstructive Pulmonary Disease (COPD)
 
 FORADIL AEROLIZER is used long-term, 2 times each day (morning and evening), to control symptoms of COPD and prevent wheezing in adults with COPD.
+
+It is not known if FORADIL AEROLIZER is safe and effective in children under 5 years of age.
 
 Who should not use FORADIL AEROLIZER?
 
@@ -88,6 +88,9 @@ Tell your healthcare provider about all of your health conditions, including if 
 - have seizures
 - have thyroid problems
 - have diabetes
+- have an aneurysm (swelling of an artery)
+- have a pheochromocytoma (a tumor of the adrenal gland that can affect your blood pressure)
+- are scheduled to have surgery
 - are pregnant or planning to become pregnant.
   It is not known if FORADIL AEROLIZER may harm your unborn baby.
 - are breastfeeding.
@@ -107,9 +110,9 @@ Keep a list and show it to your healthcare provider and pharmacist each time you
 How do I use FORADIL capsules with the Aerolizer inhaler?
 
 See the step-by-step instructions for using FORADIL Capsules with the Aerolizer inhaler at the end of this Medication Guide.
-Do not use FORADIL unless your healthcare provider has taught you and you understand everything.
-Ask your healthcare provider or pharmacist if you have any questions.
 
+- Do not use FORADIL unless your healthcare provider has taught you and you understand everything.
+  Ask your healthcare provider or pharmacist if you have any questions.
 - Children should use FORADIL AEROLIZER with an adult’s help, as instructed by the child’s healthcare provider.
 - Use FORADIL AEROLIZER exactly as prescribed.
   Do not use FORADIL AEROLIZER more often than prescribed.
@@ -131,21 +134,23 @@ Ask your healthcare provider or pharmacist if you have any questions.
   Always have a rescue inhaler medicine with you to treat sudden symptoms.
   If you do not have an inhaled, short-acting bronchodilator, contact your healthcare provider to have one prescribed for you.
 
-- Call your healthcare provider or get medical care right away if:
-  - your breathing problems worsen with FORADIL AEROLIZER
-  - you need to use your rescue inhaler medicine more often than usual
-  - your rescue inhaler medicine does not work as well for you at relieving symptoms
-  - you need to use 4 or more inhalations of your rescue inhaler medicine for 2 or more days in a row
-  - you use 1 whole canister of your rescue inhaler medicine in 8 weeks time
-  - your peak flow meter results decrease.
-    Your healthcare provider will tell you the numbers that are right for you.
-  - you have asthma and your symptoms do not improve after using FORADIL AEROLIZER regularly for 1 week.
+Call your healthcare provider or get medical care right away if:
+
+- your breathing problems worsen with FORADIL AEROLIZER
+- you need to use your rescue inhaler medicine more often than usual
+- your rescue inhaler medicine does not work as well for you at relieving symptoms
+- you need to use 4 or more inhalations of your rescue inhaler medicine for 2 or more days in a row
+- you use 1 whole canister of your rescue inhaler medicine in 8 weeks time
+- your peak flow meter results decrease.
+  Your healthcare provider will tell you the numbers that are right for you.
+- you have asthma and your symptoms do not improve after using FORADIL AEROLIZER regularly for 1 week.
 
 What are the possible side effects with FORADIL AEROLIZER?
 
 FORADIL AEROLIZER may cause serious side effects, including:
 
-- See "What is the most important information I should know about FORADIL AEROLIZER?"
+See "What is the most important information I should know about FORADIL AEROLIZER?"
+
 - Sudden breathing problems immediately after inhaling your medicine (wheezing or coughing and difficulty breathing)
 - Fast or irregular heart beat (palpitations)
 - Serious allergic reactions including rash, hives, swelling of the face, mouth, and tongue, and breathing problems.
@@ -210,7 +215,8 @@ How do I store FORADIL AEROLIZER?
 - Do not remove FORADIL capsules from their foil blister package until just before use.
 - Always discard the old AEROLIZER inhaler by the “Use by” date and use the new one provided with each new prescription.
 - Safely discard FORADIL capsules and the Aerolizer inhaler if no longer needed or is out-of-date.
-- Keep FORADIL AEROLIZER and all medicines out of the reach of children.
+
+Keep FORADIL AEROLIZER and all medicines out of the reach of children.
 
 General Information about FORADIL AEROLIZER
 

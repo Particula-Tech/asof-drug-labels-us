@@ -66,7 +66,7 @@ Seven treatment-emergent adverse reactions showed dose ordering among tested dos
 
 Number and Frequency of Treatment-Emergent Adverse Reactions in Adult COPD Patients Treated in Multiple-Dose Controlled Clinical Trials
 
-Overall, the frequency of all cardiovascular treatment-emergent adverse reactions in the two pivotal studies was6.4% for FORADIL AEROLIZER 12 mcg twice daily, and 6.0% for placebo.
+Overall, the frequency of all cardiovascular treatment-emergent adverse reactions in the two pivotal studies was 6.4% for FORADIL AEROLIZER 12 mcg twice daily, and 6.0% for placebo.
 There were no frequently-occurring specific cardiovascular treatment-emergent adverse reactions for FORADIL AEROLIZER (frequency greater than or equal to 1% and greater than placebo).
 
 ## 6.3 Post Marketing Experience
@@ -86,6 +86,6 @@ Respiratory, thoracic and mediastinal disorders: Cough
 
 Skin and subcutaneous tissue disorders: Rash
 
-Cardiac disorders: Atrial fibrillation, angina pectoris, ventricular extrasystoles, tachyarrhythmia
+Cardiac disorders: Angina pectoris, cardiac arrhythmias, e.g. atrial fibrillation, ventricular extrasystoles, tachyarrhythmia
 
 Investigations: Electrocardiogram QT prolonged, blood pressure increased (including hypertension)

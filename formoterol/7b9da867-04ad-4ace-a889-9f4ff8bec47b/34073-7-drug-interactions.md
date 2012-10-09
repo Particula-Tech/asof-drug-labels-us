@@ -15,7 +15,7 @@ Although the clinical significance of these effects is not known, caution is adv
 
 ## 7.4 Monoamine Oxidase Inhibitors and Tricyclic Antidepressants, QTc Prolonging Drugs
 
-Formoterol, as with other beta2-agonists, should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors, tricyclic antidepressants, or drugs known to prolong the QTc interval because the action of adrenergic agonists on the cardiovascular system may be potentiated by these agents.
+Formoterol, as with other beta2-agonists, should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors, tricyclic antidepressants, macrolides or drugs known to prolong the QTc interval because the action of adrenergic agonists on the cardiovascular system may be potentiated by these agents.
 Drugs that are known to prolong the QTc interval have an increased risk of ventricular arrhythmias.
 
 ## 7.5 Beta-blockers
@@ -25,3 +25,7 @@ Beta-blockers not only block the therapeutic effects of beta2-agonists, such as 
 Therefore, patients with asthma should not normally be treated with beta-blockers.
 However, under certain circumstances, e.g., as prophylaxis after myocardial infarction, there may be no acceptable alternatives to the use of beta-blockers in patients with asthma.
 In this setting, cardioselective beta-blockers could be considered, although they should be administered with caution.
+
+## 7.6 Halogenated Hydrocarbons
+
+There is an elevated risk of arrhythmias in patients receiving concomitant anesthesia with halogenated hydrocarbons.

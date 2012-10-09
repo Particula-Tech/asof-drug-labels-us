@@ -85,7 +85,7 @@ Allergic reactions to products containing milk proteins may occur in patients wi
 
 ## 5.8 Coexisting Conditions
 
-Formoterol fumarate, like other sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension; in patients with convulsive disorders or thyrotoxicosis; and in patients who are unusually responsive to sympathomimetic amines.
+Formoterol fumarate, like other sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, hypertension, aneurysm, and pheochromocytoma; in patients with convulsive disorders or thyrotoxicosis; and in patients who are unusually responsive to sympathomimetic amines.
 Doses of the related beta2-agonist albuterol, when administered intravenously, have been reported to aggravate preexisting diabetes mellitus and ketoacidosis.
 
 ## 5.9 Hypokalemia and Hyperglycemia
