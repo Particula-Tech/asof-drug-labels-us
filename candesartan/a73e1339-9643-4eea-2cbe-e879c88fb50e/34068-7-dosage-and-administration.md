@@ -56,22 +56,15 @@ Any strength of ATACAND tablets can be used in the preparation of the suspension
 Follow the steps below for preparation of the suspension.
 The number of tablets and volume of vehicle specified below will yield 160 mL of a 1 mg/mL suspension.
 
-· Prepare the vehicle by adding equal volumes of *Ora-Plus® (80 mL) and *Ora-Sweet SF® (80 mL) or, alternatively, use *,†Ora-Blend SF® (160 mL).
-
-· Add a small amount of vehicle to the required number of ATACAND tablets (five 32 mg tablets) and grind into a smooth paste using a mortar and pestle.
-
-· Add the paste to a preparation vessel of suitable size.
-
-· Rinse the mortar and pestle clean using the vehicle and add this to the vessel.
-Repeat, if necessary.
-
-· Prepare the final volume by adding the remaining vehicle.
-
-· Mix thoroughly.
-
-· Dispense into suitably sized amber PET bottles.
-
-· Label with an expiry date of 100 days and include the following instructions:
+- •Prepare the vehicle by adding equal volumes of Ora-Plus®, Ora-Sweet SF®, and Ora-Blend SF® are registered trademarks of Paddock Laboratories, Inc.Ora-Plus® (80 mL) and 11,†Supplied as a 50/50% pre-mix of Ora-Plus® and Ora-Sweet SF®.Ora-Blend SF® (160 mL).
+- •Add a small amount of vehicle to the required number of ATACAND tablets (five 32 mg tablets) and grind into a smooth paste using a mortar and pestle.
+- •Add the paste to a preparation vessel of suitable size.
+- •Rinse the mortar and pestle clean using the vehicle and add this to the vessel.
+  Repeat, if necessary.
+- •Prepare the final volume by adding the remaining vehicle.
+- •Mix thoroughly.
+- •Dispense into suitably sized amber PET bottles.
+- •Label with an expiry date of 100 days and include the following instructions:
 
 Store at room temperature (below 30°C/86°F).
 Use within 30 days after first opening.
@@ -80,10 +73,6 @@ Do not use after the expiry date stated on the bottle.
 Do not freeze.
 
 Shake well before each use.
-
-*Ora-Plus®, Ora-Sweet SF®, and Ora-Blend SF® are registered trademarks of Paddock Laboratories, Inc.
-
-†Supplied as a 50/50% pre-mix of Ora-Plus® and Ora-Sweet SF®.
 
 ## 2.3 Adult Heart Failure
 

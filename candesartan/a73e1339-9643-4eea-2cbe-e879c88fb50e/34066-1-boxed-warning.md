@@ -1,7 +1,6 @@
 # WARNING: FETAL TOXICITY
 
-• When pregnancy is detected, discontinue ATACAND as soon as possible.
-(5.1)
-
-• Drugs that directly on the renin-angiotensin system can cause injury and death to the developing fetus.
-(5.1)
+- •When pregnancy is detected, discontinue ATACAND as soon as possible.
+  (5.1)
+- •Drugs that directly on the renin-angiotensin system can cause injury and death to the developing fetus.
+  (5.1)
