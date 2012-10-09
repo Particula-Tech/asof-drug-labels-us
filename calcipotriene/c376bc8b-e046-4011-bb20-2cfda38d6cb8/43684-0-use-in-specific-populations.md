@@ -4,7 +4,7 @@
 
 Teratogenic Effects, Pregnancy Category C:
 
-There are no adequate and well-controlled studies in pregnant women.
+There are no adequate and well-controlled trials in pregnant women.
 Therefore, SORILUX Foam should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Studies of teratogenicity were done by the oral route where bioavailability is expected to be approximately 40-60% of the administered dose.
@@ -25,5 +25,9 @@ Safety and effectiveness of SORILUX Foam in pediatric patients less than 18 year
 
 ## 8.5 Geriatric Use
 
-Clinical studies of SORILUX Foam did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical trials of SORILUX Foam did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+
+## 8.6 Unevaluated Uses
+
+SORILUX Foam has not been evaluated in patients with erythrodermic, exfoliative, or pustular psoriasis.
