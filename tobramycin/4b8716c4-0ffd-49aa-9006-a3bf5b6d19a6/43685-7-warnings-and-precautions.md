@@ -26,9 +26,9 @@ Because animal studies are not always predictive of human response, this drug sh
 
 ## Nursing Mothers
 
-Because of the potential for adverse reactions in nursing infants from TOBREX, a decision should be made whether to discontinue nursing the infant or discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for adverse reactions in nursing infants from TOBREX®, a decision should be made whether to discontinue nursing the infant or discontinue the drug, taking into account the importance of the drug to the mother.
 
-## Pediatrics
+## Pediatric Use
 
 Safety and effectiveness in pediatric patients below the age of 2 months has not been established.
 
