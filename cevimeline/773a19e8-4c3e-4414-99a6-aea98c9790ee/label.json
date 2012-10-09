@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020989"
+  ],
+  "inn": "cevimeline",
+  "labeler": "Ranbaxy Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "63304-479-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "cevimeline",
+      "name": "Cevimeline"
+    }
+  ],
+  "setid": "773a19e8-4c3e-4414-99a6-aea98c9790ee",
+  "source": "dailymed"
+}
