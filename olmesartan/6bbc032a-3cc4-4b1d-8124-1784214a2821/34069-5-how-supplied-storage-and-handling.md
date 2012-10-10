@@ -15,7 +15,6 @@ Tablets are supplied as follows:
 | --- | --- | --- | --- |
 | Bottle of 30 tablets | NDC 65597-105-30 | NDC 65597-106-30 | NDC 65597-107-30 |
 | Bottle of 90 tablets | NDC 65597-105-90 | NDC 65597-106-90 | NDC 65597-107-90 |
-| 10 Blister cards of 10 tablets | NDC 65597-105-10 | NDC 65597-106-10 | NDC 65597-107-10 |
 | Bottle of 1000 tablets | NDC 65597-105-11 | NDC 65597-106-11 | NDC 65597-107-11 |
 
 ## Storage
@@ -29,4 +28,4 @@ Rx Only
 Copyright © Daiichi Sankyo, Inc. 2006.
 All rights reserved.
 
-Revised MM/yyyy
+Revised 09/2012
