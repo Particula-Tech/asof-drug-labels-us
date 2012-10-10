@@ -2,6 +2,4 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Rx only
 
-Manufactured by Patheon YM, Inc. Toronto, Ontario M3B 1Y5 Canada
-
-LAB-0040-6.0 June 2011
+LAB-0040-7.0 September 2012
