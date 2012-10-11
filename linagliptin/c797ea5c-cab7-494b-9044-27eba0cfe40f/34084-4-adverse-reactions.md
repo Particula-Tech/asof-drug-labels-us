@@ -19,17 +19,17 @@ Table 1 Adverse Reactions Reported in ≥2% of Patients Treated with TRADJENTA a
 
 |  | Number (%) of Patients |  |
 | --- | --- | --- |
-|  | TRADJENTA 5 mg n = 3625 | Placebo n = 2176 |
+| TRADJENTA 5 mg n = 3625 | Placebo n = 2176 |  |
 | Nasopharyngitis | 254 (7.0) | 132 (6.1) |
 | Diarrhea | 119 (3.3) | 65 (3.0) |
 | Cough | 76 (2.1) | 30 (1.4) |
 
 Rates for other adverse reactions for TRADJENTA 5 mg versus placebo when TRADJENTA was used in combination with specific anti-diabetic agents were: urinary tract infection (3.1% vs 0%) and hypertriglyceridemia (2.4% vs 0%) when TRADJENTA was used as add-on to sulfonylurea; hyperlipidemia (2.7% vs 0.8%) and weight increased (2.3% vs 0.8%) when TRADJENTA was used as add-on to pioglitazone; and constipation (2.1% vs 1%) when TRADJENTA was used add-on to basal insulin therapy.
 
-Following 52 weeks’ treatment in a controlled study comparing TRADJENTA with glimepiride in which all patients were also receiving metformin, adverse reactions reported in ≥5% of patients treated with TRADJENTA (n = 776) and more frequently than in patients treated with a sulfonylurea (n = 775) were arthralgia (5.7% vs 3.5%), back pain (6.4% vs 5.2%), and headache (5.7% vs 4.2%).
+Following 104 weeks’ treatment in a controlled study comparing TRADJENTA with glimepiride in which all patients were also receiving metformin, adverse reactions reported in ≥5% of patients treated with TRADJENTA (n = 776) and more frequently than in patients treated with a sulfonylurea (n = 775) were back pain (9.1% vs 8.4%), arthralgia (8.1% vs 6.1%), upper respiratory tract infection (8.0% vs 7.6%), headache (6.4% vs 5.2%), cough (6.1% vs 4.9%), and pain in extremity (5.3% vs 3.9%).
 
 Other adverse reactions reported in clinical studies with treatment of TRADJENTA were hypersensitivity (e.g., urticaria, angioedema, localized skin exfoliation, or bronchial hyperreactivity), and myalgia.
-In the clinical trial program, pancreatitis was reported in 21.9 cases per 10,000 patient year exposure while being treated with TRADJENTA compared with 8 cases per 10,000 patient year exposure while being treated with placebo.
+In the clinical trial program, pancreatitis was reported in 15.2 cases per 10,000 patient year exposure while being treated with TRADJENTA compared with 3.7 cases per 10,000 patient year exposure while being treated with comparator (placebo and active comparator, sulfonylurea).
 Three additional cases of pancreatitis were reported following the last administered dose of linagliptin.
 
 ### Hypoglycemia
@@ -41,11 +41,11 @@ Adverse reactions of hypoglycemia were based on all reports of hypoglycemia.
 A concurrent glucose measurement was not required or was normal in some patients.
 Therefore, it is not possible to conclusively determine that all these reports reflect true hypoglycemia.
 
-In the study of patients receiving TRADJENTA as add-on therapy to a stable dose of insulin for up to 52 weeks (n=1261), no significant difference in the incidence of investigator reported hypoglycemia, defined as all symptomatic or asymptomatic episodes with a self measured blood glucose ≤70mg/dL, was noted between the TRADJENTA (31.4%) and placebo (32.9%) treated groups.
+In the study of patients receiving TRADJENTA as add-on therapy to a stable dose of insulin for up to 52 weeks (n=1261), no significant difference in the incidence of investigator reported hypoglycemia, defined as all symptomatic or asymptomatic episodes with a self measured blood glucose ≤70 mg/dL, was noted between the TRADJENTA (31.4%) and placebo (32.9%) treated groups.
 During the same time period, severe hypoglycemic events, defined as requiring the assistance of another person to actively administer carbohydrate, glucagon or other resuscitative actions, were reported in 11 (1.7%) of TRADJENTA treated patients and 7 (1.1%) of placebo treated patients.
 Events that were considered life-threatening or required hospitalization were reported in 3 (0.5%) patients on TRADJENTA and 1 (0.2%) on placebo.
 
-Use in Renal Impairment TRADJENTA was compared to placebo as add-on to pre-existing antidiabetic therapy over 52 weeks in 133 patients with severe renal impairment (estimated GFR <30 ml/min).
+Use in Renal Impairment TRADJENTA was compared to placebo as add-on to pre-existing antidiabetic therapy over 52 weeks in 133 patients with severe renal impairment (estimated GFR <30 mL/min).
 For the initial 12 weeks of the study, background antidiabetic therapy was kept stable and included insulin, sulfonylurea, glinides, and pioglitazone.
 For the remainder of the trial, dose adjustments in antidiabetic background therapy were allowed.
 

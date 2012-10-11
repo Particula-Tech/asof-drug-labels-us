@@ -124,9 +124,10 @@ No dose adjustment of TRADJENTA is recommended based on results of the described
 
 Table 2 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 
-| AUC† | Cmax |  |  |  |
-| --- | --- | --- | --- | --- |
 | Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Linagliptin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.0 |  |
+| --- | --- | --- | --- | --- |
+| AUC† | Cmax |  |  |  |
+| No dosing adjustments required for TRADJENTA when given with following coadministered drugs: |  |  |  |  |
 | Metformin | 850 mg TID | 10 mg QD | 1.20 | 1.03 |
 | Glyburide | 1.75 mg# | 5 mg QD | 1.02 | 1.01 |
 | Pioglitazone | 45 mg QD | 10 mg QD | 1.13 | 1.07 |
@@ -137,9 +138,10 @@ Table 2 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 
 Table 3 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 
-|  | AUC† | Cmax |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Linagliptin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.0 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | AUC† | Cmax |  |  |  |
+| No dosing adjustments required for the following coadministered drugs: |  |  |  |  |  |
 | Metformin | 850 mg TID | 10 mg QD | metformin | 1.01 | 0.89 |
 | Glyburide | 1.75 mg# | 5 mg QD | glyburide | 0.86 | 0.86 |
 | Pioglitazone | 45 mg QD | 10 mg QD | pioglitazone metabolite M-III metabolite M-IV | 0.94 0.98 1.04 | 0.86 0.96 1.05 |

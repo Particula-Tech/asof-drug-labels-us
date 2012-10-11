@@ -6,7 +6,7 @@ A total of 3648 patients with type 2 diabetes were randomized and exposed to lin
 The overall ethnic/racial distribution in these studies was 69% White, 29% Asian, and 2.5% Black, and included 16% Hispanic/Latino patients.
 Fifty two percent of patients were male.
 Patients had an overall mean age of 57 years (range 20 to 91 years).
-In addition, an active (glimepiride)-controlled study of 52 weeks’ duration was conducted in 1559 patients with type 2 diabetes who had inadequate glycemic control on metformin, and a placebo-controlled study of 52 weeks’ duration was conducted in 133 patients with type 2 diabetes and severe chronic renal impairment (eGFR <30 mL/min).
+In addition, an active (glimepiride)-controlled study of 104 weeks’ duration was conducted in 1551 patients with type 2 diabetes who had inadequate glycemic control on metformin, and a placebo-controlled study of 52 weeks’ duration was conducted in 133 patients with type 2 diabetes and severe chronic renal impairment (eGFR <30 mL/min).
 
 In patients with type 2 diabetes, treatment with TRADJENTA produced clinically significant improvements in hemoglobin A1c (A1C), fasting plasma glucose (FPG), and 2-hour post-prandial glucose (PPG) compared with placebo.
 
@@ -29,26 +29,26 @@ Change from baseline in body weight did not differ significantly between the gro
 
 Table 4 Glycemic Parameters in Placebo-Controlled Monotherapy Studies of TRADJENTA*
 
-|  | TRADJENTA 5 mg | Placebo | TRADJENTA 5 mg | Placebo |
-| --- | --- | --- | --- | --- |
 |  | 18-Week Study |  | 24-Week Study |  |
+| --- | --- | --- | --- | --- |
+| TRADJENTA 5 mg | Placebo | TRADJENTA 5 mg | Placebo |  |
 | A1C (%) |  |  |  |  |
 | Number of patients | n = 147 | n = 73 | n = 333 | n = 163 |
 | Baseline (mean) | 8.1 | 8.1 | 8.0 | 8.0 |
-| Change from baseline (adjusted mean) | -0.4 | 0.1 | -0.4 | 0.3 |
+| Change from baseline (adjusted mean***) | -0.4 | 0.1 | -0.4 | 0.3 |
 | Difference from placebo (adjusted mean) (95% CI) | -0.6 (-0.9, -0.3) | -- | -0.7 (-0.9, -0.5) | -- |
 | Patients [n (%)] achieving A1C <7%** | 32 (23.5) | 8 (11.8) | 77 (25) | 17 (12) |
 | FPG (mg/dL) |  |  |  |  |
 | Number of patients | n = 138 | n = 66 | n = 318 | n = 149 |
 | Baseline (mean) | 178 | 176 | 164 | 166 |
-| Change from baseline (adjusted mean) | -13 | 7 | -9 | 15 |
+| Change from baseline (adjusted mean***) | -13 | 7 | -9 | 15 |
 | Difference from placebo (adjusted mean) (95% CI) | -21 (-31, -10) | -- | -23 (-30, -16) | -- |
 | 2-hour PPG (mg/dL) |  |  |  |  |
 | Number of patients | Data not available | Data not available | n = 67 | n = 24 |
 | Baseline (mean) | -- | -- | 258 | 244 |
-| Change from baseline (adjusted mean) | -- | -- | -34 | 25 |
+| Change from baseline (adjusted mean***) | -- | -- | -34 | 25 |
 | Difference from placebo (adjusted mean) (95% CI) | -- | -- | -58 (-82, -34) | -- |
-| *Full analysis population using last observation on study **18-week study: Placebo, n=68; TRADJENTA, n=136 24-week study: Placebo, n=147; TRADJENTA, n=306 |  |  |  |  |
+| *Full analysis population using last observation on study **18-week study: Placebo, n=68; TRADJENTA, n=136 24-week study: Placebo, n=147; TRADJENTA, n=306 ***18-week study. HbA1c; ANCOVA model included treatment, reason for metformin intolerance and number of prior oral anti-diabetic medicine(s) (OADs) as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment, reason for metformin intolerance and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. 24-week study. HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. PPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline postprandial glucose after two hours as covariate. |  |  |  |  |
 
 ## 14.2 Combination Therapy
 
@@ -71,20 +71,20 @@ Table 5 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combina
 | A1C (%) |  |  |
 | Number of patients | n = 513 | n = 175 |
 | Baseline (mean) | 8.1 | 8.0 |
-| Change from baseline (adjusted mean) | -0.5 | 0.15 |
+| Change from baseline (adjusted mean***) | -0.5 | 0.15 |
 | Difference from placebo + metformin (adjusted mean) (95% CI) | -0.6 (-0.8, -0.5) | -- |
 | Patients [n (%)] achieving A1C <7%** | 127 (26.2) | 15 (9.2) |
 | FPG (mg/dL) |  |  |
 | Number of patients | n = 495 | n = 159 |
 | Baseline (mean) | 169 | 164 |
-| Change from baseline (adjusted mean) | -11 | 11 |
+| Change from baseline (adjusted mean***) | -11 | 11 |
 | Difference from placebo + metformin (adjusted mean) (95% CI) | -21 (-27, -15) | -- |
 | 2-hour PPG (mg/dL) |  |  |
 | Number of patients | n = 78 | n = 21 |
 | Baseline (mean) | 270 | 274 |
-| Change from baseline (adjusted mean) | -49 | 18 |
+| Change from baseline (adjusted mean***) | -49 | 18 |
 | Difference from placebo + metformin (adjusted mean) (95% CI) | -67 (-95, -40) | -- |
-| *Full analysis population using last observation on study **TRADJENTA 5 mg + Metformin, n=485; Placebo +Metformin, n=163. |  |  |
+| *Full analysis population using last observation on study **TRADJENTA 5 mg + Metformin, n=485; Placebo + Metformin, n=163. ***HbA1c: ANCOVA model included treatment and number of prior oral OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. PPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline postprandial glucose after two hours as covariate. |  |  |
 
 ### Initial Combination Therapy with Metformin
 
@@ -99,7 +99,7 @@ Patients who failed to meet specific glycemic goals during the study were treate
 
 Initial therapy with the combination of linagliptin and metformin provided significant improvements in A1C and fasting plasma glucose (FPG) compared to placebo, to metformin alone, and to linagliptin alone (Table 6).
 
-The adjusted mean treatment difference in A1C from baseline to week 24 (LOCF) was -0.5% (95% CI -0.7, -0.3; p<0.0001) for linagliptin 2.5 mg/metformin 1000 mg twice daily compared to metformin 1000 twice daily; -1.1% (95% CI -1.4, -0.9; p<0.0001) for linagliptin 2.5 mg/metformin 1000 mg twice daily compared to TRADJENTA 5 mg once daily; -0.6% (95% CI -0.8, -0.4; p<0.0001) for linagliptin 2.5 mg/metformin 500 mg twice daily compared to metformin 500 mg twice daily; and 0.8% (95% CI -1.0, -0.5; p<0.0001) for linagliptin 2.5 mg/metformin 500 mg twice daily compared to TRADJENTA 5 mg once daily.
+The adjusted mean treatment difference in A1C from baseline to week 24 (LOCF) was -0.5% (95% CI -0.7, -0.3; p<0.0001) for linagliptin 2.5 mg/metformin 1000 mg twice daily compared to metformin 1000 twice daily; -1.1% (95% CI -1.4, -0.9; p<0.0001) for linagliptin 2.5 mg/metformin 1000 mg twice daily compared to TRADJENTA 5 mg once daily; -0.6% (95% CI -0.8, -0.4; p<0.0001) for linagliptin 2.5 mg/metformin 500 mg twice daily compared to metformin 500 mg twice daily; and -0.8% (95% CI -1.0, -0.6; p<0.0001) for linagliptin 2.5 mg/metformin 500 mg twice daily compared to TRADJENTA 5 mg once daily.
 
 Lipid effects were generally neutral.
 No meaningful change in body weight was noted in any of the 6 treatment groups.
@@ -111,48 +111,51 @@ Table 6 Glycemic Parameters at Final Visit (24-Week Study) for Linagliptin and M
 | A1C (%) |  |  |  |  |  |  |
 | Number of patients | n = 65 | n = 135 | n = 141 | n = 137 | n = 138 | n = 140 |
 | Baseline (mean) | 8.7 | 8.7 | 8.7 | 8.7 | 8.5 | 8.7 |
-| Change from baseline (adjusted mean) | 0.1 | -0.5 | -0.6 | -1.2 | -1.1 | -1.6 |
+| Change from baseline (adjusted mean****) | 0.1 | -0.5 | -0.6 | -1.2 | -1.1 | -1.6 |
 | Difference from placebo (adjusted mean) (95% CI) | -- | -0.6 (-0.9, -0.3) | -0.8 (-1.0, -0.5) | -1.3 (-1.6, -1.1) | -1.2 (-1.5, -0.9) | -1.7 (-2.0, -1.4) |
 | Patients [n (%)] achieving A1C <7%*** | 7 (10.8) | 14 (10.4) | 26 (18.6) | 41 (30.1) | 42 (30.7) | 74 (53.6) |
 | Patients (%) receiving rescue medication | 29.2 | 11.1 | 13.5 | 7.3 | 8.0 | 4.3 |
 | FPG (mg/dL) |  |  |  |  |  |  |
 | Number of patients | n = 61 | n = 134 | n = 136 | n = 135 | n = 132 | n = 136 |
 | Baseline (mean) | 203 | 195 | 191 | 199 | 191 | 196 |
-| Change from baseline (adjusted mean) | 10 | -9 | -16 | -33 | -32 | -49 |
+| Change from baseline (adjusted mean****) | 10 | -9 | -16 | -33 | -32 | -49 |
 | Difference from placebo (adjusted mean) (95% CI) | -- | -19 (-31, -6) | -26 (-38, -14) | -43 (-56, -31) | -42 (-55, -30) | -60 (-72, -47) |
-| *Total daily dose of TRADJENTA is equal to 5 mg **Full analysis population using last observation on study ***Metformin 500 mg twice daily, n=140; Linagliptin 2.5 mg twice daily + met 500 twice daily, n=136; Metformin 1000 mg twice daily, n=137; Linagliptin 2.5 mg twice daily and Metformin 1000 mg twice daily, n=138. |  |  |  |  |  |  |
+| *Total daily dose of TRADJENTA is equal to 5 mg **Full analysis population using last observation on study ***Metformin 500 mg twice daily, n=140; Linagliptin 2.5 mg twice daily + met 500 twice daily, n=136; Metformin 1000 mg twice daily, n=137; Linagliptin 2.5 mg twice daily and Metformin 1000 mg twice daily, n=138. ****HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |  |  |  |  |
 
 ### Active-Controlled Study vs Glimepiride in Combination with Metformin
 
-The efficacy of TRADJENTA is being evaluated in a 104-week, double-blind, glimepiride-controlled, non-inferiority study in patients with type 2 diabetes with insufficient glycemic control despite metformin therapy.
+The efficacy of TRADJENTA was evaluated in a 104-week, double-blind, glimepiride-controlled, non-inferiority study in patients with type 2 diabetes with insufficient glycemic control despite metformin therapy.
 Patients being treated with metformin only entered a run-in period of 2 weeks’ duration, whereas patients pretreated with metformin and one additional antihyperglycemic agent entered a run-in treatment period of 6 weeks’ duration with metformin monotherapy (dose of ≥1500 mg/day) and washout of the other agent.
 After an additional 2-week placebo run-in period, those with inadequate glycemic control (A1C 6.5% to 10%) were randomized 1:1 to the addition of TRADJENTA 5 mg once daily or glimepiride.
+Randomization was stratified by baseline HbA1c (<8.5% versus ≥8.5%), and the previous use of antidiabetic drugs (metformin alone vs metformin plus one other OAD).
 Patients receiving glimepiride were given an initial dose of 1 mg/day and then electively titrated over the next 12 weeks to a maximum dose of 4 mg/day as needed to optimize glycemic control.
 Thereafter, the glimepiride dose was to be kept constant, except for down-titration to prevent hypoglycemia.
 
-After 52 weeks, TRADJENTA and glimepiride both had reductions from baseline in A1C (-0.4% for TRADJENTA, -0.6% for glimepiride) from a baseline mean of 7.7% (Table 7).
+After 52 and 104 weeks, TRADJENTA and glimepiride both had reductions from baseline in A1C (52 weeks: -0.4% for TRADJENTA, -0.6% for glimepiride; 104 weeks: -0.2% for TRADJENTA, -0.4% for glimepiride) from a baseline mean of 7.7% (Table 7).
 The mean difference between groups in A1C change from baseline was 0.2% with 2-sided 97.5% confidence interval (0.1%, 0.3%) for the intent-to-treat population using last observation carried forward.
 These results were consistent with the completers analysis.
 
-Patients treated with TRADJENTA exhibited a significant mean decrease from baseline body weight compared to a significant weight gain in patients administered glimepiride (-1.1 kg vs +1.4 kg, p< 0.0001).
+Table 7 Glycemic Parameters at 52 and 104 Weeks in Study Comparing TRADJENTA to Glimepiride as Add-On Therapy in Patients Inadequately Controlled on Metformin**
 
-Table 7 Glycemic Parameters at 52 Weeks in Study Comparing TRADJENTA to Glimepiride as Add-On Therapy in Patients Inadequately Controlled on Metformin**
+|  | Week 52 |  | Week 104 |  |
+| --- | --- | --- | --- | --- |
+|  | TRADJENTA 5 mg + Metformin | Glimepiride + Metformin (mean Glimepiride dose 3 mg) | TRADJENTA 5 mg + Metformin | Glimepiride + Metformin (mean Glimepiride dose 3 mg) |
+| A1C (%) |  |  |  |  |
+| Number of patients | n = 764 | n = 755 | n = 764 | n = 755 |
+| Baseline (mean) | 7.7 | 7.7 | 7.7 | 7.7 |
+| Change from baseline (adjusted mean****) | -0.4 | -0.6 | -0.2 | -0.4 |
+| Difference from glimepiride (adjusted mean) (97.5% CI) | 0.2 (0.1, 0.3) | -- | 0.2 (0.1, 0.3) | -- |
+| FPG (mg/dL) |  |  |  |  |
+| Number of patients | n = 733 | n = 725 | n = 733 | n = 725 |
+| Baseline (mean) | 164 | 166 | 164 | 166 |
+| Change from baseline (adjusted mean****) | -8* | -15 | -2† | -9 |
+| Hypoglycemia incidence (%)*** |  |  |  |  |
+| Number of patients | n = 776 | n = 775 | n = 776 | n = 775 |
+| Incidence**** | 5.3 * | 31.1 | 7.5 * | 36.1 |
+| *p<0.0001 vs glimepiride; †p=0.0012 vs glimepiride **Full analysis population using last observation on study ***Hypoglycemic incidence included both asymptomatic events (not accompanied by typical symptoms and plasma glucose concentration of ≤70 mg/dL.) and symptomatic events with typical symptoms of hypoglycemia and plasma glucose concentration of ≤70 mg/dL. ****HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. Hypoglycemia incidence (%): Cochran-Mantel-Haenszel test was performed on the patient population contained in the treated set, to compare the proportion of patients with hypoglycaemic events between patients treated with linagliptin and patients treated with glimepiride. |  |  |  |  |
 
-|  | TRADJENTA 5 mg + Metformin | Glimepiride + Metformin (mean Glimepiride dose 3 mg) |
-| --- | --- | --- |
-| A1C (%) |  |  |
-| Number of patients | n = 766 | n = 761 |
-| Baseline (mean) | 7.7 | 7.7 |
-| Change from baseline (adjusted mean) | -0.4 | -0.6 |
-| Difference from glimepiride (adjusted mean) (97.5% CI) | -- | 0.2 (0.1, 0.3) |
-| FPG (mg/dL) |  |  |
-| Number of patients | n = 736 | n = 731 |
-| Baseline (mean) | 164 | 167 |
-| Change from baseline (adjusted mean) | -9 | -16 |
-| Hypoglycemia incidence (%) |  |  |
-| Number of patients | n = 778 | n = 781 |
-| Incidence | 5.4* | 31.8 |
-| *p<0.0001 vs glimepiride **Full analysis population using last observation on study |  |  |
+Patients treated with linagliptin had a mean baseline body weight of 86 kg and were observed to have an adjusted mean decrease in body weight of 1.1 kg at 52 weeks and 1.4 kg at 104 weeks.
+Patient on glimepiride had a mean baseline body weight of 87 kg and were observed to have an adjusted mean increase from baseline in body weight of 1.4 kg at 52 weeks and 1.3 kg at 104 weeks (treatment difference p<0.0001 for both timepoints).
 
 ### Add-On Combination Therapy with Pioglitazone
 
@@ -174,15 +177,15 @@ Table 8 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combina
 | A1C (%) |  |  |
 | Number of patients | n = 252 | n = 128 |
 | Baseline (mean) | 8.6 | 8.6 |
-| Change from baseline (adjusted mean) | -1.1 | -0.6 |
+| Change from baseline (adjusted mean**) | -1.1 | -0.6 |
 | Difference from placebo + pioglitazone (adjusted mean) (95% CI) | -0.5 (-0.7, -0.3) | -- |
 | Patients [n (%)] achieving A1C <7% | 108 (42.9) | 39 (30.5) |
 | FPG (mg/dL) |  |  |
 | Number of patients | n = 243 | n = 122 |
 | Baseline (mean) | 188 | 186 |
-| Change from baseline (adjusted mean) | -33 | -18 |
+| Change from baseline (adjusted mean**) | -33 | -18 |
 | Difference from placebo + pioglitazone (adjusted mean) (95% CI) | -14 (-21, -7) | -- |
-| *Full analysis population using last observation on study |  |  |
+| *Full analysis population using last observation on study **HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |
 
 ### Add-On Combination with Sulfonylureas
 
@@ -204,15 +207,15 @@ Table 9 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combina
 | A1C (%) |  |  |
 | Number of patients | n = 158 | n = 82 |
 | Baseline (mean) | 8.6 | 8.6 |
-| Change from baseline (adjusted mean) | -0.5 | -0.1 |
+| Change from baseline (adjusted mean***) | -0.5 | -0.1 |
 | Difference from placebo + SU (adjusted mean) (95% CI) | -0.5 (-0.7, -0.2) | -- |
 | Patients [n (%)] achieving A1C <7%** | 23 (14.7) | 3 (3.7) |
 | FPG (mg/dL) |  |  |
 | Number of patients | n = 155 | n = 78 |
 | Baseline (mean) | 180 | 171 |
-| Change from baseline (adjusted mean) | -8 | -2 |
+| Change from baseline (adjusted mean***) | -8 | -2 |
 | Difference from placebo + SU (adjusted mean) (95% CI) | -6 (-17, 4) | -- |
-| SU = sulfonylurea *Full analysis population using last observation on study **TRADJENTA 5 mg+SU, n=156; Placebo + SU, n=82. |  |  |
+| SU = sulfonylurea *Full analysis population using last observation on study **TRADJENTA 5 mg+SU, n=156; Placebo + SU, n=82. ***HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates |  |  |
 
 ### Add-On Combination Therapy with Metformin and a Sulfonylurea
 
@@ -223,7 +226,7 @@ Patients who failed to meet specific glycemic goals during the study were treate
 Glycemic endpoints measured included A1C and FPG.
 
 In combination with a sulfonylurea and metformin, TRADJENTA provided statistically significant improvements in A1C and FPG compared with placebo (Table 10).
-In the entire study population (patients on TRADJENTA in combination with sulfonylurea and metformin), a mean reduction from baseline relative to placebo in A1C of -0.6% and in FPG of -12.7 mg/dL was seen.
+In the entire study population (patients on TRADJENTA in combination with sulfonylurea and metformin), a mean reduction from baseline relative to placebo in A1C of -0.6% and in FPG of -13 mg/dL was seen.
 Rescue therapy was used in 5.4% of patients treated with TRADJENTA 5 mg and in 13% of patients treated with placebo.
 Change from baseline in body weight did not differ significantly between the groups.
 
@@ -234,19 +237,19 @@ Table 10 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combin
 | A1C (%) |  |  |
 | Number of patients | n = 778 | n = 262 |
 | Baseline (mean) | 8.2 | 8.1 |
-| Change from baseline (adjusted mean) | -0.7 | -0.1 |
+| Change from baseline (adjusted mean***) | -0.7 | -0.1 |
 | Difference from placebo (adjusted mean) (95% CI) | -0.6 (-0.7, -0.5) | -- |
 | Patients [n (%)] achieving A1C <7%** | 217 (29.2) | 20 (8.1) |
 | FPG (mg/dL) |  |  |
 | Number of patients | n = 739 | n = 248 |
 | Baseline (mean) | 159 | 163 |
-| Change from baseline (adjusted mean) | -5 | 8 |
+| Change from baseline (adjusted mean***) | -5 | 8 |
 | Difference from placebo (adjusted mean) (95% CI) | -13 (-18, -7) | -- |
-| SU = sulfonylurea *Full analysis population using last observation on study **TRADJENTA 5 mg+Metformin+SU, n=742; Placebo + Metformin+ SU, n=247 |  |  |
+| SU = sulfonylurea *Full analysis population using last observation on study **TRADJENTA 5 mg+Metformin+SU, n=742; Placebo + Metformin+ SU, n=247 ***HbA1c: ANCOVA model included treatment as class-effects and baseline HbA1c as continuous covariates. FPG; ANCOVA model included treatment as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |
 
 Add-On Combination Therapy with Insulin A total of 1261 patients with type 2 diabetes inadequately controlled on basal insulin alone or basal insulin in combination with oral drugs participated in a randomized, double-blind placebo controlled trial designed to evaluate the efficacy of TRADJENTA as add-on therapy to basal insulin over 24-weeks.
 Randomization was stratified by baseline HbA1c (<8.5% versus ≥8.5%), renal function impairment status (based on baseline eGFR), and concomitant use of oral antidiabetic drugs (none, metformin only, pioglitazone only, metformin + pioglitazone).
-Patients with a baseline A1C of ≥7% and ≤10% were included in the study including 709 patients with renal impairment (eGFR <90 ml/min), most of whom (n=575) were categorized as mild renal impairment (eGFR 60 to <90 ml/min).
+Patients with a baseline A1C of ≥7% and ≤10% were included in the study including 709 patients with renal impairment (eGFR <90 mL/min), most of whom (n=575) were categorized as mild renal impairment (eGFR 60 to <90 mL/min).
 Patients entered a 2-week placebo run-in period on basal insulin (e.g., insulin glargine, insulin detemir, or NPH insulin) with or without metformin and/or pioglitazone background therapy.
 Following the run-in period, patients with inadequate glycemic control were randomized to the addition of either 5 mg of TRADJENTA or placebo, administered once daily.
 Patients were maintained on a stable dose of insulin prior to enrollment, during the run-in period and during the first 24 weeks of treatment.
@@ -267,21 +270,21 @@ Table 11 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combin
 | Number of patients | n = 618 | n = 617 |
 | Baseline (mean) | 8.3 | 8.3 |
 | Change from baseline (adjusted mean***) | -0.6 | 0.1 |
-| Difference from placebo (adjusted mean***) (95% CI) | -0.65 (-0.74, -0.55) | -- |
+| Difference from placebo (adjusted mean***) (95% CI) | -0.7 (-0.7, -0.6) | -- |
 | Patients [n (%)] achieving A1C <7%** | 116 (19.5) | 48 (8.1) |
 | FPG (mg/dL) |  |  |
 | Number of patients | n = 613 | n = 608 |
 | Baseline (mean) | 147 | 151 |
 | Change from baseline (adjusted mean***) | -8 | 3 |
 | Difference from placebo (adjusted mean***) (95% CI) | -11 (-16, -6) | -- |
-| *Full analysis population using last observation carried forward (LOCF) method on study **TRADJENTA+Insulin, N=595; Placebo+Insulin, N=593 ***Model includes baseline A1C, treatment group, baseline eGFR, type of concomitant oral antidiabetic drugs, and for FPG analysis, baseline FPG |  |  |
+| *Full analysis population using last observation carried forward (LOCF) method on study **TRADJENTA+Insulin, N=595; Placebo+Insulin, N=593 ***HbA1c: ANCOVA model included treatment, categorical renal function impairment status and concomitant OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment, categorical renal function impairment status and concomitant OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |
 
-The difference between treatment with linagliptin and placebo in terms of adjusted mean change from baseline in HbA1c after 24 weeks was comparable for patients with no renal impairment (eGRF ≥ 90 ml/min, n=539), with mild renal impairment (eGFR 60 to <90 ml/min, n= 565), or with moderate renal impairment (eGFR 30 to <60 ml/min, n=124).
+The difference between treatment with linagliptin and placebo in terms of adjusted mean change from baseline in HbA1c after 24 weeks was comparable for patients with no renal impairment (eGFR ≥ 90 mL/min, n=539), with mild renal impairment (eGFR 60 to <90 mL/min, n= 565), or with moderate renal impairment (eGFR 30 to <60 mL/min, n=124).
 
 ## 14.3 Renal Impairment
 
 A total of 133 patients with type 2 diabetes participated in a 52 week, double-blind, randomized, placebo-controlled trial designed to evaluate the efficacy and safety of TRADJENTA in patients with both type 2 diabetes and severe chronic renal impairment.
-Participants with an estimated [based on the four variables modified diet in renal disease (MDRD) equation] GFR value of <30 ml/min were eligible to participate in the study.
+Participants with an estimated [based on the four variables modified diet in renal disease (MDRD) equation] GFR value of <30 mL/min were eligible to participate in the study.
 Randomization was stratified by baseline HbA1c (≤8% and >8%) and background antidiabetic therapy (insulin or any combination with insulin, SU or glinides as monotherapy and pioglitazone or any other antidiabetics excluding any other DPP-4 inhibitors).
 For the initial 12 weeks of the study, background antidiabetic therapy was kept stable and included insulin, sulfonylurea, glinides, and pioglitazone.
 For the remainder of the trial, dose adjustments in antidiabetic background therapy were allowed.

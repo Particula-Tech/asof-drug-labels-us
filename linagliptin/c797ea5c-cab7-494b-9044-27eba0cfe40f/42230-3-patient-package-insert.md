@@ -19,9 +19,10 @@ Who should not take TRADJENTA?
   - are allergic to linagliptin or any of the ingredients in TRADJENTA.
     See the end of this leaflet for a complete list of ingredients in TRADJENTA.
 - Symptoms of a serious allergic reaction to TRADJENTA are:
-  - rash
-  - raised red patches on your skin (hives)
-  - swelling of your face, lips, and throat that may cause difficulty breathing or swallowing
+  - 
+    - rash
+    - raised red patches on your skin (hives)
+    - swelling of your face, lips, and throat that may cause difficulty breathing or swallowing
 
 What should I tell my doctor before using TRADJENTA?
 
@@ -66,8 +67,8 @@ What are the possible side effects of TRADJENTA?
 TRADJENTA may cause serious side effects, including:
 
 - low blood sugar (hypoglycemia).
-  If you take TRADJENTA with another medicine that can cause low blood sugar, such as a sulfonylurea, your risk of getting low blood sugar is higher.
-  The dose of your sulfonylurea medicine may need to be lowered while you take TRADJENTA.
+  If you take TRADJENTA with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin, your risk of getting low blood sugar is higher.
+  The dose of your sulfonylurea medicine or insulin may need to be lowered while you take TRADJENTA.
   Signs and symptoms of low blood sugar may include:
   - headache
   - drowsiness
@@ -140,10 +141,8 @@ Licensed from: Boehringer Ingelheim International GmbH Ingelheim, Germany
 
 Copyright 2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5253LH152012 10007261/05
+IT5253MJ032012 10007261/06
 
-IT5437G 10007237/05
+IT5437H 10007237/06
 
-IT5520D 10007443/03
-
-Revised: August 2012
+Revised: September 2012
