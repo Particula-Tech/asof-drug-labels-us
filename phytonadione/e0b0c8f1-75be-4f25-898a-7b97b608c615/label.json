@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA083722"
+  ],
+  "inn": "phytonadione",
+  "labeler": "International Medication Systems, Limited",
+  "package_ndcs": [
+    "76329-1240-5"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, EMULSION",
+      "generic": "phytonadione",
+      "name": "Phytonadione"
+    }
+  ],
+  "setid": "e0b0c8f1-75be-4f25-898a-7b97b608c615",
+  "source": "dailymed"
+}
