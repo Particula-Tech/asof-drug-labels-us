@@ -1,11 +1,11 @@
 # DESCRIPTION
 
-Mycophenolate mofetil, USP is the 2-morpholinoethyl ester of mycophenolic acid (MPA), an immunosuppressive agent; inosine monophosphate dehydrogenase (IMPDH) inhibitor.
+Mycophenolate mofetil is the 2-morpholinoethyl ester of mycophenolic acid (MPA), an immunosuppressive agent; inosine monophosphate dehydrogenase (IMPDH) inhibitor.
 
 The chemical name for mycophenolate mofetil (MMF) is 2-morpholinoethyl (E)-6-(1,3-dihydro-4-hydroxy-6-methoxy-7-methyl-3-oxo-5-isobenzofuranyl)-4-methyl-4-hexenoate.
 It has a molecular formula of C23H31NO7, a molecular weight of 433.50, and the following structural formula:
 
-Mycophenolate mofetil, USP is a white to off-white crystalline powder.
+Mycophenolate mofetil is a white to off-white crystalline powder.
 It is slightly soluble in water (43 mcg/mL at pH 7.4); the solubility increases in acidic medium (4.27 mg/mL at pH 3.6).
 It is freely soluble in acetone, soluble in methanol, and sparingly soluble in ethanol.
 The apparent partition coefficient in 1-octanol/water (pH 7.4) buffer solution is 238.

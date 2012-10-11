@@ -90,7 +90,7 @@ Table 1 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administratio
 | Late (> 3 months) | 1.5 g/oral | 0.90 (±0.24) (n=23) | 24.1 (±12.1) (n=23) | 65.3 (±35.4) (n=23) |
 | Cardiac Transplant Patients (bid dosing) Time After Transplantation | Dose/Route | Tmax(h) | Cmax(mcg/mL) | Interdosing Interval AUC(0-12h) (mcg•h/mL) |
 | Early (Day before discharge) | 1.5 g/oral | 1.8 (±1.3) (n=11) | 11.5 (±6.8) (n=11) | 43.3 (±20.8) (n=9) |
-| Late (> 6 months) | 1.5 g/oral | 1.1(±0.7) (n=52) | 20 (±9.4) (n=52) | 54. 1* (±20.4) (n=49) |
+| Late (> 6 months) | 1.5 g/oral | 1.1(±0.7) (n=52) | 20 (±9.4) (n=52) | 54.1* (±20.4) (n=49) |
 | Hepatic Transplant Patients (bid dosing) Time After Transplantation | Dose/Route | Tmax(h) | Cmax(mcg/mL) | Interdosing Interval AUC(0-12h) mcg•h/mL) |
 | 4 to 9 days | 1 g/iv | 1.50 (±0.517) (n=22) | 17(±12.7) (n=22) | 34 (±17.4) (n=22) |
 | Early (5 to 8 days) | 1.5 g/oral | 1.15(±0.432) (n=20) | 13.1(±6.76) (n=20) | 29.2 (±11.9) (n=20) |
@@ -109,10 +109,10 @@ Table 2 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses 
 
 | Renal Impairment (no. of patients) | Dose | Tmax(h) | Cmax(mcg/mL) | AUC(0-96h) (mcg•h/mL) |
 | --- | --- | --- | --- | --- |
-| Healthy VolunteersGFR> 80 mL/min/1.73 m2 (n=6) | 1g | 0.75 (±0.27) | 25.3 (±7.99) | 45 (±22.6) |
-| Mild Renal ImpairmentGFR 50 to 80 mL/min/1.73 m2 (n=6) | 1g | 0.75 (±0.27) | 26 (±3.82) | 59.9 (±12.9) |
-| Moderate Renal ImpairmentGFR 25 to 49 mL/min/1.73 m2 (n=6) | 1g | 0.75 (±0.27) | 19(±13.2) | 52.9(±25.5) |
-| Severe Renal ImpairmentGFR< 25 mL/min/1.73 m2 (n=7) | 1g | 1 (±0.41) | 16.3 (±10.8) | 78.6 (±46.4) |
+| Healthy Volunteers GFR> 80 mL/min/1.73 m2 (n=6) | 1g | 0.75 (±0.27) | 25.3 (±7.99) | 45 (±22.6) |
+| Mild Renal Impairment GFR 50 to 80 mL/min/1.73 m2 (n=6) | 1g | 0.75 (±0.27) | 26 (±3.82) | 59.9 (±12.9) |
+| Moderate Renal Impairment GFR 25 to 49 mL/min/1.73 m2 (n=6) | 1g | 0.75 (±0.27) | 19(±13.2) | 52.9(±25.5) |
+| Severe Renal Impairment GFR< 25 mL/min/1.73 m2 (n=7) | 1g | 1 (±0.41) | 16.3 (±10.8) | 78.6 (±46.4) |
 | Hepatic Impairment (no. of patients) | Dose | Tmax(h) | Cmax(mcg/mL) | AUC(0-48h) (mcg•h/mL) |
 | Healthy Volunteers (n=6) | 1g | 0.63 (±0.14) | 24.3 (±5.73) | 29 (±5.78) |
 | Alcoholic Cirrhosis (n=18) | 1g | 0.85 (±0.58) | 22.4 (±10.1) | 29.8 (±10.7) |
@@ -125,12 +125,12 @@ In addition, the single-dose plasma MPAG AUC was 3-fold to 6-fold higher in volu
 No data are available on the safety of long-term exposure to this level of MPAG.
 
 Plasma MPA AUC observed after single-dose (1 g) intravenous dosing to volunteers (n=4) with severe chronic renal impairment (GFR < 25 mL/min/1.73 m2) was 62.4 mcg·h/mL (±19.3).
-Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).
+Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied (see PRECAUTIONS: Patients with Renal Impairment and DOSAGE AND ADMINISTRATION).
 
 In patients with delayed renal graft function posttransplant, mean MPA AUC(0–12h) was comparable to that seen in posttransplant patients without delayed renal graft function.
 There is a potential for a transient increase in the free fraction and concentration of plasma MPA in patients with delayed renal graft function.
 However, dose adjustment does not appear to be necessary in patients with delayed renal graft function.
-Mean plasma MPAG AUC(0–12h) was 2-fold to 3-fold higher than in posttransplant patients without delayed renal graft function (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).
+Mean plasma MPAG AUC(0–12h) was 2-fold to 3-fold higher than in posttransplant patients without delayed renal graft function (see PRECAUTIONS: Patients with Renal Impairment and DOSAGE AND ADMINISTRATION).
 
 In 8 patients with primary graft non-function following renal transplantation, plasma concentrations of MPAG accumulated about 6-fold to 8-fold after multiple dosing for 28 days.
 Accumulation of MPA was about 1-fold to 2-fold.
@@ -155,11 +155,20 @@ The pharmacokinetic data for MPA is provided in Table 3:
 
 Table 3 Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time After Allogeneic Renal Transplantation
 
-| Age Group (n) | Time | Tmax(h) | Dose Adjusted*Cmax(mcg/mL) | Dose Adjusted*AUC0-12 (mcg• h/mL) |
+| Age Group (n) | Time | Tmax (h) | Dose Adjusted* Cmax (mcg/mL) | Dose Adjusted* AUC(0–12) (mcg∙h/mL) |
 | --- | --- | --- | --- | --- |
-| 1 to < 2 yr (6)†1 to< 6yr (17)6 to<12yr (16) 12 to 18 yr (21) | Early (Day 7) | 3.03 (4.70) 1.63 (2.85) 0.940 (0.546) 1.16 (0.830) | 10.3 (5.80) 13.2 (7.16) 13.1 (6.30) 11.7 (10.7) | 22.5 (6.66) 27.4 (9.54) 33.2 (12.1) 26.3 (9.14)‡ |
-| 1 to < 2 yr (4)† 1 to< 6yr (15) 6 to< 12yr (14) 12 to 18 yr (17) | Late (Month 3) | 0.725 (0.276) 0.989 (0.511) 1.21 (0.532) 0.978 (0.484) | 23.8 (13.4) 22.7 (10.1) 27.8 (14.3) 17.9 (9.57) | 47.4 (14.7) 49.7 (18.2) 61.9 (19.6) 53.6 (20.3)§ |
-| 1 to < 2 yr (4)† 1 to < 6yr (12) 6 to< 12yr (11)12 to 18 yr (14) | Late (Month 9) | 0.604 (0.208)0.869 (0.479)1.12 (0.462) 1.09 (0.518) | 25.6 (4.25)30.4 (9.16)29.2 (12.6)18.1 (7.29) | 55.8 (11.6) 61 (10.7) 66.8 (21.2) 56.7 (14) |
+| 1 to < 2 yr (6)† | Early (Day 7) | 3.03 (4.70) | 10.3 (5.80) | 22.5 (6.66) |
+| 1 to < 6 yr (17) |  | 1.63 (2.85) | 13.2 (7.16) | 27.4 (9.54) |
+| 6 to < 12 yr (16) |  | 0.940 (0.546) | 13.1 (6.30) | 33.2 (12.1) |
+| 12 to 18 yr (21) |  | 1.16 (0.830) | 11.7 (10.7) | 26.3 (9.14)‡ |
+| 1 to < 2 yr (4)† | Late (Month 3) | 0.725 (0.276) | 23.8 (13.4) | 47.4 (14.7) |
+| 1 to < 6 yr (15) |  | 0.989 (0.511) | 22.7 (10.1) | 49.7 (18.2) |
+| 6 to < 12 yr (14) |  | 1.21 (0.532) | 27.8 (14.3) | 61.9 (19.6) |
+| 12 to 18 yr (17) |  | 0.978 (0.484) | 17.9 (9.57) | 53.6 (20.3)§ |
+| 1 to < 2 yr (4)† | Late (Month 9) | 0.604 (0.208) | 25.6 (4.25) | 55.8 (11.6) |
+| 1 to < 6 yr (12) |  | 0.869 (0.479) | 30.4 (9.16) | 61 (10.7) |
+| 6 to < 12 yr (11) |  | 1.12 (0.462) | 29.2 (12.6) | 66.8 (21.2) |
+| 12 to 18 yr (14) |  | 1.09 (0.518) | 18.1 (7.29) | 56.7 (14) |
 
 * adjusted to a dose of 600 mg/m2
 

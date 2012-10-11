@@ -2,7 +2,7 @@
 
 ## Renal, Cardiac, and Hepatic Transplant
 
-Mycophenolate mofetil, capsule, USP is indicated for the prophylaxis of organ rejection in patients receiving allogeneic renal, cardiac or hepatic transplants.
+Mycophenolate mofetil capsule, USP is indicated for the prophylaxis of organ rejection in patients receiving allogeneic renal, cardiac or hepatic transplants.
 Mycophenolate mofetil capsules, USP should be used concomitantly with cyclosporine and corticosteroids.
 
 Mycophenolate mofetil intravenous is an alternative dosage form to mycophenolate mofetil capsules, tablets and oral suspension.
