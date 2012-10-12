@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA202057"
+  ],
+  "inn": "icosapent-ethyl",
+  "labeler": "Amarin Pharma Inc.",
+  "package_ndcs": [
+    "52937-001-04",
+    "52937-001-20",
+    "52937-001-21"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "icosapent ethyl",
+      "name": "Vascepa"
+    }
+  ],
+  "setid": "9c1a2828-1583-4414-ab22-a60480e8e508",
+  "source": "dailymed"
+}
