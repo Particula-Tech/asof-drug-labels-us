@@ -1,1 +1,1 @@
-LAB-0231-6.0 August 2011
+LAB-0231-7.0 September 2012
