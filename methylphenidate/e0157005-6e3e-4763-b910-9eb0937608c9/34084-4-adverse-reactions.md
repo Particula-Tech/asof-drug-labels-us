@@ -1,0 +1,60 @@
+# 6 ADVERSE REACTIONS
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+Clinical Trials Experience with Other Methylphenidate Products in Children, Adolescents, and Adults with ADHD
+
+Commonly reported (≥ 2% of the methylphenidate group and at least twice the rate of the placebo group) adverse reactions from placebo-controlled trials of methylphenidate products include: appetite decreased, weight decreased, nausea, abdominal pain, dyspepsia, dry mouth, vomiting, insomnia, anxiety, nervousness, restlessness, affect lability, agitation, irritability, dizziness, vertigo, tremor, blurred vision, blood pressure increased, heart rate increased, tachycardia, palpitations, hyperhidrosis, and pyrexia.
+
+Clinical Trials Experience with QUILLIVANT XR in Children and Adolescents with ADHD
+
+There is limited experience with QUILLIVANT XR in controlled trials.
+Based on this limited experience, the adverse reaction profile of QUILLIVANT XR appears similar to other methylphenidate extended-release products.
+The most common (≥2% in the QUILLIVANT XR group and greater than placebo) adverse reactions reported in the Phase 3 controlled study conducted in 45 ADHD patients (ages 6-12 years) were affect lability, excoriation, initial insomnia, tic, decreased appetite, vomiting, motion sickness, eye pain, and rash.
+
+Table 2.
+Common Adverse Reactions occurring in ≥2% of subjects on QUILLIVANT XR and greater than placebo during the controlled cross-over phase
+
+| Adverse reaction | QUILLIVANT XR N= 45 | Placebo N= 45 |
+| --- | --- | --- |
+| Affect lability | 9% | 2% |
+| Excoriation | 4% | 0 |
+| Initial Insomnia | 2% | 0 |
+| Tic | 2% | 0 |
+| Decreased appetite | 2% | 0 |
+| Vomiting | 2% | 0 |
+| Motion sickness | 2% | 0 |
+| Eye pain | 2% | 0 |
+| Rash | 2% | 0 |
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of methylphenidate products.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+These adverse reactions are as follows:
+
+Blood and Lymphatic System Disorders: Pancytopenia, Thrombocytopenia, Thrombocytopenic purpura
+
+Cardiac Disorders: Angina pectoris, Bradycardia, Extrasystole, Supraventricular tachycardia, Ventricular extrasystole
+
+Eye Disorders: Diplopia, Mydriasis, Visual impairment
+
+General Disorders: Chest pain, Chest discomfort, Hyperpyrexia
+
+Immune System Disorders: Hypersensitivity reactions such as Angioedema, Anaphylactic reactions, Auricular swelling, Bullous conditions, Exfoliative conditions, Urticarias, Pruritus NEC, Rashes, Eruptions, and Exanthemas NEC
+
+Investigations: Alkaline phosphatase increased, Bilirubin increased, Hepatic enzyme increased, Platelet count decreased, White blood cell count abnormal
+
+Musculoskeletal, Connective Tissue and Bone Disorders: Arthralgia, Myalgia, Muscle twitching
+
+Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia
+
+Psychiatric Disorders: Disorientation, Hallucination, Hallucination auditory, Hallucination visual, Mania
+
+Urogenital System: Priapism
+
+Skin and Subcutaneous Tissue Disorders: Alopecia, Erythema
+
+Vascular Disorders: Raynaud's phenomenon

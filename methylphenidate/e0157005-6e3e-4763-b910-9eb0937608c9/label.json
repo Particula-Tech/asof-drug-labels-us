@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA202100"
+  ],
+  "inn": "methylphenidate",
+  "labeler": "NextWave Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24478-190-10",
+    "24478-200-20",
+    "24478-210-30"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "methylphenidate hydrochloride",
+      "name": "Quillivant"
+    }
+  ],
+  "setid": "e0157005-6e3e-4763-b910-9eb0937608c9",
+  "source": "dailymed"
+}
