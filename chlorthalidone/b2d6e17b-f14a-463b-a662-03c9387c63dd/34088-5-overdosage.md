@@ -2,7 +2,7 @@
 
 Limited data are available related to overdosage in humans.
 
-Azilsartan medoxomil
+Azilsartanmedoxomil
 
 Limited data are available related to overdosage in humans.
 During controlled clinical trials in healthy subjects, once daily doses up to 320 mg of azilsartan medoxomil were administered for 7 days and were well tolerated.

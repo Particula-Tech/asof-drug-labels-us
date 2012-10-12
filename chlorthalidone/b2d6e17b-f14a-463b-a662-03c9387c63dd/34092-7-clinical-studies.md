@@ -16,9 +16,9 @@ The blood pressure lowering effect was maintained throughout the 24-hour period 
 Table 2.
 Mean Change from Baseline in Systolic/Diastolic Blood Pressure (mm Hg) as Measured by ABPM at Trough (22-24 Hours Post-Dose) at Week 8: Combination Therapy vs Monotherapy
 
-|  | 0 | 20 | 40 | 80 |
-| --- | --- | --- | --- | --- |
 | Chlorthalidone, mg | Azilsartan Medoxomil, mg |  |  |  |
+| --- | --- | --- | --- | --- |
+| 0 | 20 | 40 | 80 |  |
 | 0 | N/A | -12 / -8 | -13 / -7 | -15 / -9 |
 | 12.5 | -13 / -7 | -23 / -13 | -24 / -14 | -26 / -17 |
 | 25 | -16 / -8 | -26 / -15 | -30 / -17 | -28 / -16 |
@@ -26,12 +26,15 @@ Mean Change from Baseline in Systolic/Diastolic Blood Pressure (mm Hg) as Measur
 Table 3.
 Mean Change from Baseline in Clinic Systolic/Diastolic Blood Pressure (mm Hg) at Week 8: Combination Therapy vs Monotherapy
 
-|  | 0 | 20 | 40 | 80 |
-| --- | --- | --- | --- | --- |
 | Chlorthalidone, mg | Azilsartan Medoxomil, mg |  |  |  |
+| --- | --- | --- | --- | --- |
+| 0 | 20 | 40 | 80 |  |
 | 0 | N/A | -20 / -7 | -23 / -9 | -24 / -10 |
 | 12.5 | -21 / -7 | -34 / -14 | -37 / -16 | -37 / -17 |
-| 25 | -27 / -9 | -37 / - 16 | -40 / -17 | -40 / -19 |
+| 25 | -27 / -9 | -37 / -16 | -40 / -17 | -40 / -19 |
+
+Figure 3.
+Mean Change from Baseline at Week 8 in Ambulatory Systolic Blood Pressure (mm Hg) by Treatment and Hour
 
 Edarbyclor was effective in reducing blood pressure regardless of age, gender, or race.
 
@@ -43,10 +46,10 @@ Similar results were observed in all subgroups, including age, gender, or race o
 Table 4.
 Mean Change in Systolic/Diastolic Blood Pressure (mm Hg) at Week 12
 
-|  | Edarbyclor 40/25 mg N=355 | OLM/HCTZ 40/25 mg N=364 |
+|  | Edarbyclor 40/25 mgN=355 | OLM/HCTZ 40/25 mgN=364 |
 | --- | --- | --- |
-| Clinic (Mean Baseline 165/96 mm Hg) | -43 / -19 | -37 / -16 |
-| Trough by ABPM (22-24 hours) (Mean Baseline 153/92 mm Hg) | -33 / -20 | -26 / -16 |
+| Clinic(Mean Baseline 165/96 mm Hg) | -43 / -19 | -37 / -16 |
+| Trough by ABPM (22-24 hours)(Mean Baseline 153/92 mm Hg) | -33 / -20 | -26 / -16 |
 
 Edarbyclor lowered blood pressure more effectively than OLM/HCTZ at each hour of the 24-hour interdosing period as measured by ABPM.
 

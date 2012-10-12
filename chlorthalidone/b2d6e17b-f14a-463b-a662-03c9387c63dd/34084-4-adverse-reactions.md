@@ -2,11 +2,11 @@
 
 The following potential adverse reactions with Edarbyclor, azilsartan medoxomil, or chlorthalidone and similar agents are included in more detail in the Warnings and Precautions section of the label:
 
-- Fetal toxicity [see Warnings and Precautions (5.1)]
-- Hypotension in Volume- or Salt-Depleted Patients [see Warnings and Precautions (5.2)]
-- Impaired Renal Function [see Warnings and Precautions (5.3)]
-- Hypokalemia [see Warnings and Precautions (5.4)]
-- Hyperuricemia [see Warnings and Precautions (5.5)]
+- •Fetal toxicity [see Warnings and Precautions (5.1)]
+- •Hypotension in Volume- or Salt-Depleted Patients [see Warnings and Precautions (5.2)]
+- •Impaired Renal Function [see Warnings and Precautions (5.3)]
+- •Hypokalemia [see Warnings and Precautions (5.4)]
+- •Hyperuricemia [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -20,7 +20,7 @@ Common adverse reactions that occurred in the 8-week factorial design trial in a
 Table 1.
 Adverse Reactions Occurring at an Incidence of ≥2% of Edarbyclor-treated Patients and > Azilsartan medoxomil or Chlorthalidone
 
-| Preferred Term | Azilsartan medoxomil 20, 40, 80 mg (N=470) | Chlorthalidone 12.5, 25 mg (N=316) | Edarbyclor 40 / 12.5, 40 / 25 mg (N=302) |
+| Preferred Term | Azilsartanmedoxomil 20, 40, 80 mg (N=470) | Chlorthalidone 12.5, 25 mg (N=316) | Edarbyclor 40 / 12.5, 40 / 25 mg (N=302) |
 | --- | --- | --- | --- |
 | Dizziness | 1.7% | 1.9% | 8.9% |
 | Fatigue | 0.6% | 1.3% | 2.0% |
@@ -34,7 +34,7 @@ The adverse reaction profile obtained from 52 weeks of open-label combination th
 
 In 3 double-blind, active controlled, titration studies, in which Edarbyclor was titrated to higher doses in a step-wise manner, adverse reactions and discontinuations for adverse events were less frequent than in the fixed-dose factorial trial.
 
-Azilsartan medoxomil
+Azilsartanmedoxomil
 
 A total of 4814 patients were evaluated for safety when treated with azilsartan medoxomil at doses of 20, 40 or 80 mg in clinical trials.
 This includes 1704 patients treated for at least 6 months, of these, 588 were treated for at least 1 year.

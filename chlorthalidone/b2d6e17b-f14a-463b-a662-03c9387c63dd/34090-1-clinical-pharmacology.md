@@ -6,7 +6,7 @@ The active ingredients of Edarbyclor target two separate mechanisms involved in 
 Azilsartan blocks the vasoconstriction and sodium retaining effects of angiotensin II on cardiac, vascular smooth muscle, adrenal and renal cells.
 Chlorthalidone produces diuresis with increased excretion of sodium and chloride at the cortical diluting segment of the ascending limb of Henle's loop of the nephron.
 
-Azilsartan medoxomil
+Azilsartanmedoxomil
 
 Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzymes (ACE, kinase II).
 Angiotensin II is the principle pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium.
@@ -38,7 +38,7 @@ Edarbyclor
 Edarbyclor tablets have been shown to be effective in lowering blood pressure.
 Both azilsartan medoxomil and chlorthalidone lower blood pressure by reducing peripheral resistance but through complementary mechanisms.
 
-Azilsartan medoxomil
+Azilsartanmedoxomil
 
 Azilsartan inhibits the pressor effects of an angiotensin II infusion in a dose-related manner.
 An azilsartan single dose equivalent to 32 mg azilsartan medoxomil inhibited the maximal pressor effect by approximately 90% at peak, and approximately 60% at 24 hours.
@@ -59,7 +59,7 @@ The elimination half-lives of azilsartan and chlorthalidone are approximately 12
 
 There is no clinically significant effect of food on the bioavailability of Edarbyclor.
 
-Azilsartan medoxomil
+Azilsartanmedoxomil
 
 Absorption: Azilsartan medoxomil is rapidly hydrolyzed to azilsartan, the active metabolite, in the gastrointestinal tract during absorption.
 Azilsartan medoxomil is not detected in plasma after oral administration.
@@ -71,7 +71,7 @@ Food does not affect the bioavailability of azilsartan.
 
 Distribution
 
-Azilsartan medoxomil: The volume of distribution of azilsartan is approximately 16L.
+Azilsartanmedoxomil: The volume of distribution of azilsartan is approximately 16L.
 Azilsartan is highly bound to human plasma proteins (>99%), mainly serum albumin.
 Protein binding is constant at azilsartan plasma concentrations well above the range achieved with recommended doses.
 
@@ -83,7 +83,7 @@ In the plasma, approximately 75% of chlorthalidone is bound to plasma proteins, 
 
 Metabolism and Elimination
 
-Azilsartan medoxomil: Azilsartan is metabolized to two primary metabolites.
+Azilsartanmedoxomil: Azilsartan is metabolized to two primary metabolites.
 The major metabolite in plasma is formed by O-dealkylation, referred to as metabolite M-II, and the minor metabolite is formed by decarboxylation, referred to as metabolite M-I.
 Systemic exposures to the major and minor metabolites in humans were approximately 50% and less than 1% of azilsartan, respectively.
 M-I and M-II do not contribute to the pharmacologic activity of azilsartan medoxomil.
@@ -99,5 +99,8 @@ Data are not available regarding percentage of dose as unchanged drug and metabo
 
 Special Populations
 
-Azilsartan medoxomil: The effect of demographic and functional factors on the pharmacokinetics of azilsartan was studied in single and multiple dose studies.
+Azilsartanmedoxomil: The effect of demographic and functional factors on the pharmacokinetics of azilsartan was studied in single and multiple dose studies.
 Pharmacokinetic measures indicating the magnitude of the effect on azilsartan are presented in Figure 2 as change relative to reference (test/reference).
+
+Figure 2.
+Impact of intrinsic factors on the pharmacokinetics of azilsartan

@@ -2,7 +2,7 @@
 
 ## 5.1 Fetal Toxicity
 
-Azilsartan medoxomil
+Azilsartanmedoxomil
 
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
@@ -28,11 +28,11 @@ Edarbyclor
 Monitor for worsening renal function in patients with renal impairment.
 Consider withholding or discontinuing Edarbyclor if progressive renal impairment becomes evident.
 
-Azilsartan medoxomil
+Azilsartanmedoxomil
 
 As a consequence of inhibiting the renin-angiotensin system, changes in renal function may be anticipated in susceptible individuals treated with Edarbyclor.
 In patients whose renal function may depend on the activity of the renin-angiotensin system (e.g., patients with severe congestive heart failure, renal artery stenosis, or volume depletion), treatment with angiotensin-converting enzyme inhibitors and angiotensin receptor blockers has been associated with oliguria or progressive azotemia and rarely with acute renal failure and death.
-Similar results may be anticipated in patients treated with Edarbyclor [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Similar results may be anticipated in patients treated with Edarbyclor [see Drug Interactions (7), Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen have been reported.
 There has been no long-term use of azilsartan medoxomil in patients with unilateral or bilateral renal artery stenosis, but similar results are expected.

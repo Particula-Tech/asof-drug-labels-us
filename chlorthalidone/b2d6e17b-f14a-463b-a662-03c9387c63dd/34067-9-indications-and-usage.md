@@ -35,6 +35,14 @@ Data from an 8-week, active-controlled, factorial trial provide estimates of the
 Figures 1.a-1.d provide estimates of the likelihood of achieving target clinic systolic and diastolic blood pressure control with Edarbyclor 40/25 mg tablets after 8 weeks, based on baseline systolic or diastolic blood pressure.
 The curve for each treatment group was estimated by logistic regression modeling and is more variable at the tails.
 
+Figure 1.a Probability of Achieving Systolic Blood Pressure <140 mmHg at Week 8
+
+Figure 1.b Probability of Achieving Systolic Blood Pressure <130 mmHg at Week 8
+
+Figure 1.c Probability of Achieving Diastolic Blood Pressure <90 mmHg at Week 8
+
+Figure 1.d Probability of Achieving Diastolic Blood Pressure <80 mmHg at Week 8
+
 For example, a patient with a baseline blood pressure of 170/105 mm Hg has approximately a 48% likelihood of achieving a goal of <140 mm Hg (systolic) and 48% likelihood of achieving <90 mm Hg (diastolic) on azilsartan medoxomil 80 mg.
 The likelihood of achieving these same goals on chlorthalidone 25 mg is approximately 51% (systolic) and 40% (diastolic).
 These likelihoods rise to 85% (systolic) and 85% (diastolic) with Edarbyclor 40/25 mg.

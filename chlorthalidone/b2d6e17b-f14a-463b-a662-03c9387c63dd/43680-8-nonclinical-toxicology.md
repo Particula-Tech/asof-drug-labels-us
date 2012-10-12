@@ -5,7 +5,7 @@
 No carcinogenicity, mutagenicity, or fertility studies have been conducted with the combination of azilsartan medoxomil and chlorthalidone.
 However, these studies have been conducted for azilsartan medoxomil alone.
 
-Azilsartan medoxomil
+Azilsartanmedoxomil
 
 Carcinogenesis: Azilsartan medoxomil was not carcinogenic when assessed in 26-week transgenic (Tg.rasH2) mouse and 2-year rat studies.
 The highest doses tested (450 mg azilsartan medoxomil/kg/day in the mouse and 600 mg azilsartan medoxomil/kg/day in the rat) produced exposures to azilsartan that are 12 (mice) and 27 (rats) times the average exposure to azilsartan in humans given the maximum recommended human dose (MRHD, 80 mg azilsartan medoxomil/day).
@@ -34,7 +34,7 @@ With the exception of these findings, there were no toxicologically synergistic 
 
 In an embryo-fetal developmental study in rats, there was no teratogenicity or increase in fetal mortality in the litters of dams receiving azilsartan medoxomil, M-II and chlorthalidone concomitantly at maternally toxic doses.
 
-Azilsartan medoxomil
+Azilsartanmedoxomil
 
 Reproductive Toxicology: In peri- and postnatal rat development studies, adverse effects on pup viability, delayed incisor eruption and dilatation of the renal pelvis along with hydronephrosis were seen when azilsartan medoxomil was administered to pregnant and nursing rats at 1.2 times the MRHD on a mg/m2 basis.
 Reproductive toxicity studies indicated that azilsartan medoxomil was not teratogenic when administered at oral doses up to 1000 mg azilsartan medoxomil/kg/day to pregnant rats (122 times the MRHD on a mg/m2 basis) or up to 50 mg azilsartan medoxomil/kg/day to pregnant rabbits (12 times the MRHD on a mg/m2 basis).

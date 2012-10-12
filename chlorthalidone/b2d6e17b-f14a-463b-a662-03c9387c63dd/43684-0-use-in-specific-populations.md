@@ -52,7 +52,7 @@ Chlorthalidone may precipitate azotemia.
 
 ## 8.7 Hepatic Impairment
 
-Azilsartan medoxomil
+Azilsartanmedoxomil
 
 No dose adjustment is necessary for subjects with mild or moderate hepatic impairment.
 Azilsartan medoxomil has not been studied in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].

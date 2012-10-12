@@ -6,7 +6,7 @@ The pharmacokinetics of azilsartan medoxomil and chlorthalidone are not altered 
 
 No drug interaction studies have been conducted with other drugs and Edarbyclor, although studies have been conducted with azilsartan medoxomil and chlorthalidone.
 
-Azilsartan medoxomil
+Azilsartanmedoxomil
 
 No clinically significant drug interactions have been observed in studies of azilsartan medoxomil or azilsartan given with amlodipine, antacids, chlorthalidone, digoxin, fluconazole, glyburide, ketoconazole, metformin, pioglitazone, and warfarin.
 Therefore, azilsartan medoxomil may be used concomitantly with these medications.
@@ -18,6 +18,14 @@ These effects are usually reversible.
 Monitor renal function periodically in patients receiving Edarbyclor and NSAID therapy.
 
 The antihypertensive effect of Edarbyclor may be attenuated by NSAIDs, including selective COX-2 inhibitors.
+
+Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function and electrolytes in patients on Edarbyclor and other agents that affect the RAS.
+
+Do not coadminister aliskiren with Edarbyclor in patients with diabetes.
+Avoid use of aliskiren with Edarbyclor in patients with renal impairment (GFR <60 mL/min).
 
 Chlorthalidone
 
