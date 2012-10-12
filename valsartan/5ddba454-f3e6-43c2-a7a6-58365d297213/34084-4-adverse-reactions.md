@@ -55,13 +55,13 @@ Diovan has been evaluated for safety in over 400 pediatric patients aged 6 to 17
 No relevant differences were identified between the adverse experience profile for pediatric patients aged 6-16 years and that previously reported for adult patients.
 Headache and hyperkalemia were the most common adverse events suspected to be study drug-related in older children (6 to 17 years old) and younger children (6 months to 5 years old), respectively.
 Hyperkalemia was mainly observed in children with underlying renal disease.
-Neurocognitive and developmental assessment of pediatric patients aged 6 to 16 years revealed no overall clinically relevant adverse impact after treatment with Diovan for up to one year.
+Neurocognitive and developmental assessment of pediatric patients aged 6 to 16 years revealed no overall clinically relevant adverse impact after treatment with Diovan for up to 1 year.
 
 Diovan is not recommended for pediatric patients under 6 years of age.
 In a study (n=90) of pediatric patients (1-5 years), two deaths and three cases of on-treatment transaminase elevations were seen in the one-year open-label extension phase.
 These 5 events occurred in a study population in which patients frequently had significant co-morbidities.
 A causal relationship to Diovan has not been established.
-In a second study in which 75 children aged 1 to 6 years were randomized, no deaths and one case of marked liver transaminase elevations occurred during a one year open-label extension.
+In a second study in which 75 children aged 1 to 6 years were randomized, no deaths and one case of marked liver transaminase elevations occurred during a 1 year open-label extension.
 
 Heart Failure
 

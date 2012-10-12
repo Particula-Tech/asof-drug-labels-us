@@ -13,7 +13,7 @@ In most patients, after administration of a single oral dose, onset of antihyper
 The antihypertensive effect persists for 24 hours after dosing, but there is a decrease from peak effect at lower doses (40 mg) presumably reflecting loss of inhibition of angiotensin II.
 At higher doses, however (160 mg), there is little difference in peak and trough effect.
 During repeated dosing, the reduction in blood pressure with any dose is substantially present within 2 weeks, and maximal reduction is generally attained after 4 weeks.
-In long-term follow-up studies (without placebo control), the effect of valsartan appeared to be maintained for up to two years.
+In long-term follow-up studies (without placebo control), the effect of valsartan appeared to be maintained for up to 2 years.
 The antihypertensive effect is independent of age, gender or race.
 The latter finding regarding race is based on pooled data and should be viewed with caution, because antihypertensive drugs that affect the renin-angiotensin system (that is, ACE inhibitors and angiotensin-II blockers) have generally been found to be less effective in low-renin hypertensives (frequently blacks) than in high-renin hypertensives (frequently whites).
 In pooled, randomized, controlled trials of Diovan that included a total of 140 blacks and 830 whites, valsartan and an ACE-inhibitor control were generally at least as effective in blacks as whites.
@@ -108,7 +108,7 @@ Patients were randomized within 12 hours to 10 days after the onset of myocardia
 In the combination group, the dose of valsartan was titrated from 20 mg twice daily to the highest tolerated dose up to a maximum of 80 mg twice daily; the dose of captopril was the same as for monotherapy.
 The population studied was 69% male, 94% Caucasian, and 53% were 65 years of age or older.
 Baseline therapy included aspirin (91%), beta-blockers (70%), ACE inhibitors (40%), thrombolytics (35%) and statins (34%).
-The mean treatment duration was two years.
+The mean treatment duration was 2 years.
 The mean daily dose of Diovan in the monotherapy group was 217 mg.
 
 The primary endpoint was time to all-cause mortality.

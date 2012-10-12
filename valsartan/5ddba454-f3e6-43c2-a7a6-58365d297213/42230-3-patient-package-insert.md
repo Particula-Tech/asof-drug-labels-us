@@ -208,4 +208,4 @@ East Hanover, NJ 07936
 
 © Novartis
 
-T2012-136/T2012-137 July 2012/July 2012
+T2012-137 July 2012

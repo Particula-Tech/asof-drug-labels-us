@@ -48,7 +48,7 @@ The recovery is mainly as unchanged drug, with only about 20% of dose recovered 
 The primary metabolite, accounting for about 9% of dose, is valeryl 4-hydroxy valsartan.
 In vitro metabolism studies involving recombinant CYP 450 enzymes indicated that the CYP 2C9 isoenzyme is responsible for the formation of valeryl-4-hydroxy valsartan.
 Valsartan does not inhibit CYP 450 isozymes at clinically relevant concentrations.
-CYP 450 mediated drug interaction between valsartan and co-administered drugs are unlikely because of the low extent of metabolism.
+CYP 450 mediated drug interaction between valsartan and coadministered drugs are unlikely because of the low extent of metabolism.
 
 Following intravenous administration, plasma clearance of valsartan is about 2 L/h and its renal clearance is 0.62 L/h (about 30% of total clearance).
 
