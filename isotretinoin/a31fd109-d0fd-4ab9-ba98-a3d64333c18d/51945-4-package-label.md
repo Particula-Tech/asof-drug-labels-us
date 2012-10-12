@@ -1,143 +1,107 @@
-# PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL, Part 1 of 4
 
-## 10 mg Carton Text 30s
+# PRINCIPAL DISPLAY PANEL, part 2 of 4
 
-Barr Laboratories Inc.
+# PRINCIPAL DISPLAY PANEL, part 3 of 4
 
-NDC 0555-1054-86
+# PRINCIPAL DISPLAY PANEL, part 4 of 4
 
-ClaravisTM
+## Claravis 10 mg Capsules Prescription Blister 10s Pack Text
 
-(isotretinoin capsules, USP)
+Barr
 
-Each capsule contains 10 mg isotretinoin
+Laboratories Inc. Claravis TM (isotretinoin capsules, USP)
 
-Rx only
+Each capsule contains 10 mg isotretinoin Prescription Blister Pack
 
-Protect from Light
+10 Capsules Rx only PATIENT:
 
-10 mg
+READ INFORMATION CAREFULLY.
+CAUSES BIRTH DEFECTS DO NOT GET PREGNANT
 
-3 Prescription Blister Packs of 10 Capsules Each (30 Capsules)
+10 mg PHARMACISTS: DISPENSE INTACT.
 
-Reminders for Pharmacists:
+THIS AREA FOR
 
-- Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com
-- Write Risk Management Authorization number on the prescription.
-- Dispense no more than a 30-day supply.
-  No refills.
-- Dispense Prescription Packs intact.
-- Do not dispense after the "Do not dispense to Patient After" date.
-- A Medication Guide is included in each Prescription Pack.
+PRESCRIPTION LABEL
 
-CAUSES BIRTH DEFECTS
+# PRINCIPAL DISPLAY PANEL, Part 1 of 4
 
-DO NOT GET PREGNANT
+# PRINCIPAL DISPLAY PANEL, part 2 of 4
 
-# PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL, part 3 of 4
 
-## 20 mg Carton Text 30s
+# PRINCIPAL DISPLAY PANEL, part 4 of 4
 
-Barr Laboratories Inc.
+## Claravis 20 mg Capsules Prescription Blister 10s Pack Text
 
-NDC 0555-1055-86
+Barr
 
-ClaravisTM
+Laboratories Inc. Claravis TM (isotretinoin capsules, USP)
 
-(isotretinoin capsules, USP)
+Each capsule contains 20 mg isotretinoin Prescription Blister Pack
 
-Each capsule contains 20 mg isotretinoin
+10 Capsules Rx only PATIENT:
 
-Rx only
+READ INFORMATION CAREFULLY.
+CAUSES BIRTH DEFECTS DO NOT GET PREGNANT
 
-Protect from Light
+20 mg PHARMACISTS: DISPENSE INTACT.
 
-20 mg
+THIS AREA FOR
 
-3 Prescription Blister Packs of 10 Capsules Each (30 Capsules)
+PRESCRIPTION LABEL
 
-Reminders for Pharmacists:
+# PRINCIPAL DISPLAY PANEL, Part 1 of 4
 
-- Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com
-- Write Risk Management Authorization number on the prescription.
-- Dispense no more than a 30-day supply.
-  No refills.
-- Dispense Prescription Packs intact.
-- Do not dispense after the "Do not dispense to Patient After" date.
-- A Medication Guide is included in each Prescription Pack.
+# PRINCIPAL DISPLAY PANEL, part 2 of 4
 
-CAUSES BIRTH DEFECTS
+# PRINCIPAL DISPLAY PANEL, part 3 of 4
 
-DO NOT GET PREGNANT
+# PRINCIPAL DISPLAY PANEL, part 4 of 4
 
-# PRINCIPAL DISPLAY PANEL
+## Claravis 30 mg Capsules Prescription Blister 10s Pack Text
 
-## 30 mg Carton Text 30s
+Barr
 
-Barr Laboratories Inc.
+Laboratories Inc. Claravis TM (isotretinoin capsules, USP)
 
-NDC 0555-1056-86
+Each capsule contains 30 mg isotretinoin Prescription Blister Pack
 
-ClaravisTM
+10 Capsules Rx only PATIENT:
 
-(isotretinoin capsules, USP)
+READ INFORMATION CAREFULLY.
+CAUSES BIRTH DEFECTS DO NOT GET PREGNANT
 
-Each capsule contains 30 mg isotretinoin
+30 mg PHARMACISTS: DISPENSE INTACT.
 
-Rx only
+THIS AREA FOR
 
-Protect from Light
+PRESCRIPTION LABEL
 
-30 mg
+# PRINCIPAL DISPLAY PANEL, Part 1 of 4
 
-3 Prescription Blister Packs of 10 Capsules Each (30 Capsules)
+# PRINCIPAL DISPLAY PANEL, part 2 of 4
 
-Reminders for Pharmacists:
+# PRINCIPAL DISPLAY PANEL, part 3 of 4
 
-- Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com
-- Write Risk Management Authorization number on the prescription.
-- Dispense no more than a 30-day supply.
-  No refills.
-- Dispense Prescription Packs intact.
-- Do not dispense after the "Do not dispense to Patient After" date.
-- A Medication Guide is included in each Prescription Pack.
+# PRINCIPAL DISPLAY PANEL, part 4 of 4
 
-CAUSES BIRTH DEFECTS
+## Claravis 40 mg Capsules Prescription Blister 10s Pack Text
 
-DO NOT GET PREGNANT
+Barr
 
-# PRINCIPAL DISPLAY PANEL
+Laboratories Inc. Claravis TM (isotretinoin capsules, USP)
 
-## 40 mg Carton Text 30s
+Each capsule contains 40 mg isotretinoin Prescription Blister Pack
 
-Barr Laboratories Inc.
+10 Capsules Rx only PATIENT:
 
-NDC 0555-1057-86
+READ INFORMATION CAREFULLY.
+CAUSES BIRTH DEFECTS DO NOT GET PREGNANT
 
-ClaravisTM
+40 mg PHARMACISTS: DISPENSE INTACT.
 
-(isotretinoin capsules, USP)
+THIS AREA FOR
 
-Each capsule contains 40 mg isotretinoin
-
-Rx only
-
-Protect from Light
-
-40 mg
-
-3 Prescription Blister Packs of 10 Capsules Each (30 Capsules)
-
-Reminders for Pharmacists:
-
-- Dispense isotretinoin only for registered patients after obtaining authorization from the iPLEDGE program by calling 1-866-495-0654 or visiting www.ipledgeprogram.com
-- Write Risk Management Authorization number on the prescription.
-- Dispense no more than a 30-day supply.
-  No refills.
-- Dispense Prescription Packs intact.
-- Do not dispense after the "Do not dispense to Patient After" date.
-- A Medication Guide is included in each Prescription Pack.
-
-CAUSES BIRTH DEFECTS
-
-DO NOT GET PREGNANT
+PRESCRIPTION LABEL
