@@ -14,7 +14,7 @@ Patients treated with proton pump inhibitors and warfarin concomitantly should b
 ## 7.3 Clopidogrel
 
 Concomitant administration of pantoprazole and clopidogrel in healthy subjects had no clinically important effect on exposure to the active metabolite of clopidogrel or clopidogrel-induced platelet inhibition [see Clinical Pharmacology (12.3)].
-No dose adjustment of clopidogrel is necessary when administered with an approved dose of Protonix.
+No dose adjustment of clopidogrel is necessary when administered with an approved dose of PROTONIX.
 
 ## 7.4 Drugs for which Gastric pH Can Affect Bioavailability
 
@@ -28,4 +28,4 @@ An alternative confirmatory method should be considered to verify positive resul
 ## 7.6 Methotrexate
 
 Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
-However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.9)].
+However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.10)].
