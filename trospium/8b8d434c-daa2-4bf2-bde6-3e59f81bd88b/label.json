@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA091289"
+  ],
+  "inn": "trospium",
+  "labeler": "Watson Laboratories, Inc.",
+  "package_ndcs": [
+    "0591-3636-05",
+    "0591-3636-30",
+    "0591-3636-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "trospium chloride",
+      "name": "Trospium Chloride"
+    }
+  ],
+  "setid": "8b8d434c-daa2-4bf2-bde6-3e59f81bd88b",
+  "source": "dailymed"
+}
