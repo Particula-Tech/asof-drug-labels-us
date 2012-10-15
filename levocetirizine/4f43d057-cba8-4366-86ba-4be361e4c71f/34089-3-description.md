@@ -11,5 +11,5 @@ C21H25ClN2O3•2HCl M.W.
 Levocetirizine dihydrochloride is a white, or almost white powder and is freely soluble in water, practically insoluble in acetone and in methylene chloride.
 Levocetirizine dihydrochloride tablets, 5 mg are formulated as immediate-release white to off-white, film-coated, oval-shaped, scored tablets for oral administration.
 One side of the tablet is scored in half and debossed with the number "9" on one side of the score and "3" on the other.
-The other side of the tablet debossed with the number "7701."
+The other side of the tablet is debossed with the number "7701."
 Inactive ingredients are: colloidal silicon dioxide, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
