@@ -24,7 +24,7 @@ Attention PHARMACIST
 
 Each patient is required to receive the enclosed Medication Guide and Patient Instructions for Use.
 
-Dispense in Child Resistant Container.
+Zolpimist must be dispensed in the original Child Resistant Container.
 
 Usual Adult Dosage: One or two sprays at bedtime as directed.
 See complete prescribing information and patient counseling information for administration instructions.
@@ -47,7 +47,7 @@ AVOID PROLONGED PRODUCT EXPOSURE TO ABOVE 30°C
 
 Rev.
 Oct.
-2010
+2011
 
 Right Side Panel
 
@@ -91,7 +91,7 @@ Attention Health Care Provider
 
 Each patient is required to receive the enclosed Medication Guide and Patient Instructions for Use.
 
-Dispense in Child Resistant Container.
+Zolpimist must be dispensed in the original Child Resistant Container.
 
 Usual Adult Dosage: One or two sprays at bedtime as directed.
 See complete prescribing information and patient counseling information for administration instructions.
@@ -114,7 +114,7 @@ AVOID PROLONGED PRODUCT EXPOSURE TO ABOVE 30°C
 
 Rev.
 Oct.
-2010
+2011
 
 Right Side Panel
 
