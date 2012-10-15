@@ -1,14 +1,17 @@
+500 mg
+
 [al'-ō-prĭm]
 
 For Intravenous Infusion Only
 
 PRODUCT INFORMATION
 
-Manufactured for: Bioniche Pharma USA LLC, Lake Forest, IL 60045
+010790
+
+Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: DSM Pharmaceuticals, Inc. Greenville, NC 27834
 
-ALOPRIM® is a registered trademark of Bioniche Teo.
-April 2008
+010790 REVISED JULY 2012 MI:ALOPIJ:R2
 
-005863
+ALOPRIM® is a registered trademark of Bioniche Teoranta.
