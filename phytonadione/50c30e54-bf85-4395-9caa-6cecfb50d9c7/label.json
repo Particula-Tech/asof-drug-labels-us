@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA010104"
+  ],
   "inn": "phytonadione",
-  "labeler": "Merck & Co., Inc.",
+  "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
     "0006-0043-68"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "phytonadione",
+      "name": "MEPHYTON"
+    }
+  ],
   "setid": "50c30e54-bf85-4395-9caa-6cecfb50d9c7",
   "source": "dailymed"
 }
