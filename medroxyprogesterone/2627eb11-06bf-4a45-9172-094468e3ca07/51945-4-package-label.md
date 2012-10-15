@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 2.5 mg tablet - bottle of 100
+# PRINCIPAL DISPLAY PANEL - 2.5 mg Tablet Bottle Label
 
 NDC 59762-3740-1 100 Tablets
 
@@ -10,9 +10,9 @@ medroxy- progesterone acetate tablets, USP
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 2.5 mg tablet - bottle of 1000
+# PRINCIPAL DISPLAY PANEL - 2.5 mg Tablet Bottle Carton
 
-NDC 59762-3740-5 1000 Tablets
+NDC 59762-3740-1 100 Tablets
 
 GREENSTONE® BRAND
 
@@ -22,7 +22,7 @@ medroxy- progesterone acetate tablets, USP
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 5 mg tablet - bottle of 100
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
 
 NDC 59762-3741-1 100 Tablets
 
@@ -34,9 +34,9 @@ medroxy- progesterone acetate tablets, USP
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 5 mg tablet - bottle of 1000
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Carton
 
-NDC 59762-3741-4 1000 Tablets
+NDC 59762-3741-1 100 Tablets
 
 GREENSTONE® BRAND
 
@@ -46,9 +46,9 @@ medroxy- progesterone acetate tablets, USP
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 10 mg tablet - bottle of 100
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
-NDC 59762-3741-2 100 Tablets
+NDC 59762-3742-2 100 Tablets
 
 GREENSTONE® BRAND
 
@@ -58,9 +58,9 @@ medroxy- progesterone acetate tablets, USP
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 10 mg tablet - bottle of 1000
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Carton
 
-NDC 59762-3741-8 1000 Tablets
+NDC 59762-3742-2 100 Tablets
 
 GREENSTONE® BRAND
 
