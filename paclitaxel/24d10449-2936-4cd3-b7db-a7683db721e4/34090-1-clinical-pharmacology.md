@@ -14,7 +14,7 @@ Following intravenous administration of ABRAXANE, paclitaxel plasma concentratio
 The terminal half-life was about 27 hours.
 
 The drug exposure (AUCs) was dose proportional over 80 to 375 mg/m2 and the pharmacokinetics of paclitaxel for ABRAXANE were independent of the duration of administration.
-At the recommended ABRAXANE clinical dose, 260 mg/m2, the mean maximum concentration of paclitaxel, which occurred at the end of the infusion, was 18,741 ng/mL.
+At the recommended ABRAXANE clinical dose 260 mg/m2, for metastatic breast cancer, the mean maximum concentration of paclitaxel, which occurred at the end of the infusion, was 18,741 ng/mL.
 The mean total clearance was 15 L/hr/m2.
 The mean volume of distribution was 632 L/m2; the large volume of distribution indicates extensive extravascular distribution and/or tissue binding of paclitaxel.
 
@@ -46,7 +46,7 @@ The 260 mg/m2 dose for mild impairment and the 200 mg/m2 dose for moderate hepat
 The 130 mg/m2 dose in patients with severe hepatic impairment resulted in lower paclitaxel exposures than those seen in normal subjects.
 In addition, patients with severe hepatic impairment had higher mean cycle 1 absolute neutrophil count (ANC) nadir values than those with mild and moderate hepatic impairment.
 
-Table 3: Exposure (AUC0-∞) of ABRAXANE Administered IV over 30 Minutes in Patients with Hepatic Impairment
+Table 3: Exposure (AUC0-∞) of ABRAXANE Administered Intravenously over 30 Minutes in Patients with Hepatic Impairment
 
 | Dose | Mild (n=5) | Moderate (n=5) | Severea (n=5) |
 | --- | --- | --- | --- |
@@ -59,7 +59,7 @@ Table 3: Exposure (AUC0-∞) of ABRAXANE Administered IV over 30 Minutes in Pati
 A starting dose of 130 mg/m2 is recommended in patients with severe hepatic impairment.
 Escalation of the dose up to 200 mg/m2 should be considered for subsequent cycles in patients with severe hepatic impairment based on individual tolerance.
 The 200 mg/m2 dose has not been evaluated in patients with severe hepatic impairment, but it is predicted to adjust the paclitaxel AUC to the range observed in patients with normal hepatic function.
-There are no data for patients with AST > 10 x ULN and bilirubin > 5.0 x ULN [see Dosage and Administration (2.2), and Use in Specific Populations (8.6)].
+There are no data for patients with AST > 10 x ULN and bilirubin > 5.0 x ULN [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 Effect of Renal Impairment The effect of renal impairment on the disposition of ABRAXANE has not been investigated [see Use in Specific Populations (8.7)].
 

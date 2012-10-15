@@ -2,7 +2,7 @@ Patient Information
 
 ABRAXANE® for Injectable Suspension (ah-BRAKS-ane) (paclitaxel protein-bound particles for injectable suspension) (albumin-bound)
 
-Read this Patient information before you start receiving ABRAXANE and before each infusion.
+Read this Patient Information before you start receiving ABRAXANE and before each infusion.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 
 What is ABRAXANE?
@@ -15,7 +15,7 @@ Who should not receive ABRAXANE?
 
 Do not receive ABRAXANE if:
 
-- your white blood cell count is below 1,500 cells/ mm3.
+- your white blood cell count is below 1,500 cells/ mm3
 - you have had a severe hypersensitivity reaction to ABRAXANE
 
 What should I tell my doctor before receiving ABRAXANE?
@@ -42,8 +42,10 @@ Keep a list to show your doctor and pharmacist each time you get a new medicine.
 How will I receive ABRAXANE?
 
 - Your doctor will prescribe ABRAXANE in an amount that is right for you.
-- Premedication to prevent allergic reactions is not needed to receive ABRAXANE.
-- ABRAXANE will be given to you by intravenous (IV) infusion into your vein.
+- Premedication to prevent allergic reactions is generally not needed to receive ABRAXANE.
+  Premedication may be needed if you have had prior allergic reactions to ABRAXANE.
+  In case of severe allergic reaction, ABRAXANE should not be used again.
+- ABRAXANE will be given to you by intravenous infusion into your vein.
 - Your doctor should do regular blood tests while you receive ABRAXANE.
 
 What are the possible side effects of ABRAXANE?
@@ -51,9 +53,10 @@ What are the possible side effects of ABRAXANE?
 ABRAXANE may cause serious side effects, including:
 
 - decreased blood cell counts.
-  ABRAXANE can cause a severe decrease in neutrophils (a type of white blood cells important in fighting in bacterial infections) and platelets (important for clotting and to control bleeding).
+  ABRAXANE can cause a severe decrease in neutrophils (a type of white blood cells important in fighting bacterial infections) and platelets (important for clotting and to control bleeding).
   Your doctor will check your blood cell count during your treatment with ABRAXANE and after you have stopped your treatment.
-- • numbness, tingling, or burning in your hands or feet (neuropathy).
+- numbness, tingling, or burning in your hands or feet (neuropathy).
+- hypersensitivity reactions, which could be severe, and sometimes fatal.
 
 The most common side effects of ABRAXANE include:
 
@@ -72,7 +75,7 @@ General information about the safe and effective use of ABRAXANE.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 
-This patient information leaflet summarizes the important information about ABRAXANE.
+This Patient Information leaflet summarizes the important information about ABRAXANE.
 If you would like more information, talk to your doctor.
 You can ask your doctor or pharmacist for information about ABRAXANE that is written for healthcare professionals.
 
@@ -86,14 +89,14 @@ Other ingredient: human albumin (containing sodium caprylate and sodium acetyltr
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: January 2012
+Revised: September 2012
 
-Manufactured for: Celgene Corporation
+Manufactured for: Celgene Corporation Summit, NJ 07901
 
-Summit, NJ 07901
-
-ABRAXANE® is a registered trademark of Abraxis BioScience, LLC ©2005-2012 Abraxis BioScience, LLC All Rights Reserved Abraxis BioScience, LLC is a wholly owned subsidiary of Celgene Corporation
+ABRAXANE® is a registered trademark of Abraxis BioScience, LLC. ©2005-2012 Abraxis BioScience, LLC.
+All Rights Reserved.
+Abraxis BioScience, LLC is a wholly owned subsidiary of Celgene Corporation.
 
 U.S. Patent Numbers: 5,439,686; 5,498,421; 6,096,331; 6,506,405; 6,537,579; 6,749,868; 6,753,006; 7,820,788; 7,923,536; and RE41,884
 
-ABRPPI.002 01/12
+ABRPPI.003 09/12

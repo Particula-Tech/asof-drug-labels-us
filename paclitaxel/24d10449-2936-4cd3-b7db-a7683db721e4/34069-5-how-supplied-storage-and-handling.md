@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Product No.: 103450 NDC No.: 68817-134-50 100 mg of paclitaxel in a single use vial, individually packaged in a carton.
+Product No.: 103450 NDC No.: 68817-134-50 100 mg of paclitaxel in a single-use vial, individually packaged in a carton.
 
 ## 16.2 Storage
 

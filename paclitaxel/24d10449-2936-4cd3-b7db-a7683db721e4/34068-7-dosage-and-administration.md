@@ -8,10 +8,10 @@ After failure of combination chemotherapy for metastatic breast cancer or relaps
 
 No dose adjustment is necessary for patients with mild hepatic impairment.
 Patients with moderate and severe hepatic impairment treated with ABRAXANE may be at increased risk of toxicities known to paclitaxel.
-Patients should not receive ABRAXANE if AST > 10 x ULN or bilirubin > 5.0 x ULN.
+Do not dose patients with ABRAXANE if AST >10 x ULN or bilirubin > 5.0 x ULN.
 Recommendations for dosage adjustment for the first course of therapy are shown in Table 1.
 The dose of ABRAXANE can be increased up to 200 mg/m2 in patients with severe hepatic impairment in subsequent cycles based on individual tolerance.
-Patients should be monitored closely [see Clinical Pharmacology (12.3) and Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+Patients should be monitored closely [see Warnings and Precautions (5.3), Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 Table 1: Recommendations for Starting Dose in Patients with Hepatic Impairment
 
@@ -24,7 +24,7 @@ Table 1: Recommendations for Starting Dose in Patients with Hepatic Impairment
 | a Dosage recommendations are for the first course of therapy. The need for further dose adjustments in subsequent courses should be based on individual tolerance. |  |  |  |  |  |
 | b A dose increase to 200 mg/m2 in subsequent courses should be considered based on individual tolerance. |  |  |  |  |  |
 
-## 2.3 Dose Reduction: in Case of Severe Neutropenia or Severe Sensory Neuropathy
+## 2.3 Dose Reduction in Case of Severe Neutropenia or Severe Sensory Neuropathy
 
 Patients who experience severe neutropenia (neutrophil <500 cells/mm3 for a week or longer) or severe sensory neuropathy during ABRAXANE therapy should have dosage reduced to 220 mg/m2 for subsequent courses of ABRAXANE.
 For recurrence of severe neutropenia or severe sensory neuropathy, additional dose reduction should be made to 180 mg/m2.
@@ -41,7 +41,9 @@ If ABRAXANE contacts mucous membranes, the membranes should be flushed thoroughl
 Given the possibility of extravasation, it is advisable to closely monitor the infusion site for possible infiltration during drug administration.
 Limiting the infusion of ABRAXANE to 30 minutes, as directed, reduces the likelihood of infusion-related reactions [see Adverse Reactions (6.2)].
 
-No premedication to prevent hypersensitivity reactions is required prior to administration of ABRAXANE.
+Premedication to prevent hypersensitivity reactions is generally not needed prior to the administration of ABRAXANE.
+Premedication may be needed in patients who have had prior hypersensitivity reactions to ABRAXANE.
+Patients who experience a severe hypersensitivity reaction to ABRAXANE should not be re-challenged with this drug [see Warnings and Precautions (5.3)].
 
 ## 2.5 Preparation for Intravenous Administration
 
@@ -65,9 +67,9 @@ If particulates or settling are visible, the vial should be gently inverted agai
 Discard the reconstituted suspension if precipitates are observed.
 Discard any unused portion.
 
-Inject the appropriate amount of reconstituted ABRAXANE into an empty, sterile IV bag [plasticized polyvinyl chloride (PVC) containers, PVC or non-PVC type IV bag].
+Inject the appropriate amount of reconstituted ABRAXANE into an empty, sterile intravenous bag [plasticized polyvinyl chloride (PVC) containers, PVC or non-PVC type intravenous bag].
 The use of specialized DEHP-free solution containers or administration sets is not necessary to prepare or administer ABRAXANE infusions.
-The use of an in line filter is not recommended.
+The use of an in-line filter is not recommended.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 

@@ -5,8 +5,8 @@
 Data from 106 patients accrued in two single arm open label studies and from 460 patients enrolled in a randomized comparative study were available to support the use of ABRAXANE in metastatic breast cancer.
 
 Single Arm Open Label Studies In one study, ABRAXANE was administered as a 30-minute infusion at a dose of 175 mg/m2 to 43 patients with metastatic breast cancer.
-The second trial utilized a dose of 300 mg/m2 as a 30 minute infusion in 63 patients with metastatic breast cancer.
-Cycles were administered at 3 week intervals.
+The second trial utilized a dose of 300 mg/m2 as a 30-minute infusion in 63 patients with metastatic breast cancer.
+Cycles were administered at 3-week intervals.
 Objective responses were observed in both studies.
 
 Randomized Comparative Study This multicenter trial was conducted in 460 patients with metastatic breast cancer.

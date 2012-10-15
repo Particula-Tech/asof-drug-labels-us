@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.5)].
+Pregnancy Category D [see Warnings and Precautions (5.6)].
 
 There are no adequate and well-controlled studies in pregnant women using ABRAXANE.
 Based on its mechanism of action and findings in animals, ABRAXANE can cause fetal harm when administered to a pregnant woman.

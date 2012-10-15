@@ -35,7 +35,7 @@ Table 2: Frequencya of Important Treatment Emergent Adverse Events in the Random
 | Hypotension | 5 | 5 |
 | Severe Cardiovascular Eventsd | 3 | 4 |
 | Abnormal ECG |  |  |
-| All patients | 60 | 52 |
+| All Patients | 60 | 52 |
 | Patients with Normal Baseline | 35 | 30 |
 | Respiratory |  |  |
 | Cough | 7 | 6 |
@@ -54,10 +54,10 @@ Table 2: Frequencya of Important Treatment Emergent Adverse Events in the Random
 | Severe Symptomsd | 0 | <1 |
 | Gastrointestinal |  |  |
 | Nausea |  |  |
-| Any symptoms | 30 | 22 |
+| Any Symptoms | 30 | 22 |
 | Severe Symptomsd | 3 | <1 |
 | Vomiting |  |  |
-| Any symptoms | 18 | 10 |
+| Any Symptoms | 18 | 10 |
 | Severe Symptomsd | 4 | 1 |
 | Diarrhea |  |  |
 | Any symptoms | 27 | 15 |
@@ -72,7 +72,7 @@ Table 2: Frequencya of Important Treatment Emergent Adverse Events in the Random
 | AST (SGOT) Elevations | 39 | 32 |
 | Injection Site Reaction | <1 | 1 |
 | a Based on worst grade by NCI Common Terminology Criteria for Adverse Events (CTCAE) version 2. |  |  |
-| b Paclitaxel injection pts received premedication. |  |  |
+| b Paclitaxel injection patients received premedication. |  |  |
 | c Includes treatment-related events related to hypersensitivity (e.g., flushing, dyspnea, chest pain, hypotension) that began on a day of dosing. |  |  |
 | d Severe events are defined as at least grade 3 toxicity. |  |  |
 
@@ -92,7 +92,7 @@ Cardiovascular Hypotension, during the 30-minute infusion, occurred in 5% of pat
 Bradycardia, during the 30-minute infusion, occurred in <1% of patients.
 These vital sign changes most often caused no symptoms and required neither specific therapy nor treatment discontinuation.
 
-Severe cardiovascular events possibly related to single-agent ABRAXANE occurred in approximately 3% of patients..
+Severe cardiovascular events possibly related to single-agent ABRAXANE occurred in approximately 3% of patients.
 These events included cardiac ischemia/infarction, chest pain, cardiac arrest, supraventricular tachycardia, edema, thrombosis, pulmonary thromboembolism, pulmonary emboli, and hypertension.
 Cases of cerebrovascular attacks (strokes) and transient ischemic attacks have been reported.
 
@@ -139,13 +139,16 @@ The use of ABRAXANE in patients previously exhibiting hypersensitivity to paclit
 Cardiovascular There have been reports of congestive heart failure and left ventricular dysfunction with ABRAXANE.
 Most of the individuals were previously exposed to cardiotoxic drugs, such as anthracyclines, or had underlying cardiac history.
 
-Respiratory There have been reports of interstitial pneumonia and pulmonary embolism in patients receiving ABRAXANE and reports of radiation pneumonitis in patients receiving concurrent radiotherapy.
+Respiratory There have been reports of pneumonitis, interstitial pneumonia and pulmonary embolism in patients receiving ABRAXANE and reports of radiation pneumonitis in patients receiving concurrent radiotherapy.
 Reports of lung fibrosis have been received as part of the continuing surveillance of paclitaxel injection safety and may also be observed with ABRAXANE.
 
-Neurologic Cranial nerve palsies and vocal cord paresis have been reported, as has autonomic neuropathy resulting in paralytic ileus.
+Neurologic Cranial nerve palsies and vocal cord paresis have been reported as well as autonomic neuropathy resulting in paralytic ileus.
 
 Vision Disorders Reports in the literature of abnormal visual evoked potentials in patients treated with paclitaxel injection suggest persistent optic nerve damage.
 These may also be observed with ABRAXANE.
+
+Reduced visual acuity due to cystoid macular edema (CME) has been reported during treatment with ABRAXANE as well as with other taxanes.
+After cessation of treatment, CME improves and visual acuity may return to baseline.
 
 Hepatic Reports of hepatic necrosis and hepatic encephalopathy leading to death have been received as part of the continuing surveillance of paclitaxel injection safety and may occur following ABRAXANE treatment.
 
@@ -159,7 +162,7 @@ Severe events such as phlebitis, cellulitis, induration, necrosis, and fibrosis 
 In some cases the onset of the injection site reaction in paclitaxel injection patients either occurred during a prolonged infusion or was delayed by a week to ten days.
 Recurrence of skin reactions at a site of previous extravasation following administration of paclitaxel injection at a different site, i.e., “recall”, has been reported.
 
-Other Clinical Events Skin reactions including generalized or maculo-papular rash, erythema, and pruritis have been observed with ABRAXANE.
+Other Clinical Events Skin reactions including generalized or maculopapular rash, erythema, and pruritus have been observed with ABRAXANE.
 There have been case reports of photosensitivity reactions, radiation recall phenomenon, and in some patients previously exposed to capecitabine, reports of palmar-plantar erythrodysesthesia.
 Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported.
 
