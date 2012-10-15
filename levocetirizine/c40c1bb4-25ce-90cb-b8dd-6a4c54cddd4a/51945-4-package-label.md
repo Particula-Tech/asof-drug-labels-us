@@ -1,3 +1,3 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
 
-Container
+Levocetirizine Dihydrochloride Tablets, 5 mg - Container Label

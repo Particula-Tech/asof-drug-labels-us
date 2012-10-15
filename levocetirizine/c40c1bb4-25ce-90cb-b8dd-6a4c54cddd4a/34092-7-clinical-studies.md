@@ -9,7 +9,7 @@ The two trials included one 4-week dose-ranging trial and one 4-week single-dose
 These trials included 423 patients (139 males and 284 females).
 Most patients (>90%) were Caucasian and the mean age was 41.
 Of these patients, 146 received levocetirizine dihydrochloride 5 mg once daily in the evening.
-Efficacy was assessed based on patient recording of pruritus severity on a severity score of 0–3 (0 = none to 3 = severe).
+Efficacy was assessed based on patient recording of pruritus severity on a severity score of 0 to 3 (0 = none to 3 = severe).
 The primary efficacy endpoint was the mean reflective pruritus severity score over the first week and over the entire treatment period.
 Additional efficacy variables were the instantaneous pruritus severity score, the number and size of wheals, and duration of pruritus.
 

@@ -1,18 +1,18 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Activities Requiring Mental Alertness
+## 17.1 Somnolence
 
-Patients should be cautioned against engaging in hazardous occupations requiring complete mental alertness, and motor coordination such as operating machinery or driving a motor vehicle after ingestion of levocetirizine dihydrochloride.
+Caution patients against engaging in hazardous occupations requiring complete mental alertness, and motor coordination such as operating machinery or driving a motor vehicle after ingestion of levocetirizine dihydrochloride.
 
 ## 17.2 Concomitant Use of Alcohol and other Central Nervous System Depressants
 
-Concurrent use of levocetirizine dihydrochloride with alcohol or other central nervous system depressants should be avoided because additional reduction in mental alertness may occur.
+Instruct patients to avoid concurrent use of levocetirizine dihydrochloride with alcohol or other central nervous system depressants because additional reduction in mental alertness may occur..
 
 ## 17.3 Dosing of Levocetirizine Dihydrochloride Tablets
 
-The daily dose in adults and adolescents 12 years of age and older should not exceed 5 mg once daily in the evening.
+Do not exceed the recommended daily dose in adults and adolescents 12 years of age and older of 5 mg once daily in the evening.
 In children 6 to 11 years of age the recommended dose is 2.5 mg once daily in the evening.
-Patients should be advised to not ingest more than the recommended dose of levocetirizine dihydrochloride because of the increased risk of somnolence at higher doses.
+Advise patients to not ingest more than the recommended dose of levocetirizine dihydrochloride because of the increased risk of somnolence at higher doses.
 
 Pediatric use information in pediatric patients (age 6 months to 5 years) is approved for UCB Inc.’s levocetirizine dihydrochloride drug product labeling.
 However, due to UCB Inc.’s marketing exclusivity rights; this drug product is not labeled for such use in those pediatric patients.
@@ -23,6 +23,6 @@ Manufactured by:
 
 Dr. Reddy’s Laboratories Limited
 
-Bachepalli – 502 325 INDIA
+Bachupally – 500 090 INDIA
 
-Issued: 0211
+Revised: 1012

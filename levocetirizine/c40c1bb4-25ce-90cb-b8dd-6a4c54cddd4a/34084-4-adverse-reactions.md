@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-Use of levocetirizine dihydrochloride has been associated with somnolence, fatigue, and asthenia [see Warnings and Precautions (5.1)].
+Use of levocetirizine dihydrochloride has been associated with somnolence, fatigue, asthenia, and urinary retention [see Warnings and Precautions (5)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -20,12 +20,12 @@ In studies up to 6 weeks in duration, the mean age of the adult and adolescent p
 
 In these trials 43% and 42% of the subjects in the levocetirizine dihydrochloride 2.5 mg and 5 mg groups, respectively, had at least one adverse event compared to 43% in the placebo group.
 
-In placebo-controlled trials of 1-6 weeks in duration, the most common adverse reactions were somnolence, nasopharyngitis, fatigue, dry mouth, and pharyngitis, and most were mild to moderate in intensity.
+In placebo-controlled trials of 1 to 6 weeks in duration, the most common adverse reactions were somnolence, nasopharyngitis, fatigue, dry mouth, and pharyngitis, and most were mild to moderate in intensity.
 Somnolence with levocetirizine dihydrochloride showed dose ordering between tested doses of 2.5, 5 and 10 mg and was the most common adverse reaction leading to discontinuation (0.5%).
 
 Table 1 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 12 years and older exposed to levocetirizine dihydrochloride 2.5 mg or 5 mg in eight placebo-controlled clinical trials and that were more common with levocetirizine dihydrochloride than placebo.
 
-Table 1 Adverse Reactions Reported in ≥ 2%* of Subjects Aged 12 Years and Older Exposed to levocetirizine dihydrochloride 2.5 mg or 5 mg in Placebo-Controlled Clinical Trials 1-6 Weeks in Duration
+Table 1 Adverse Reactions Reported in ≥ 2%* of Subjects Aged 12 Years and Older Exposed to levocetirizine dihydrochloride 2.5 mg or 5 mg in Placebo-Controlled Clinical Trials 1 to 6 Weeks in Duration
 
 | Adverse Reactions | levocetirizine dihydrochloride2.5 mg (n = 421) | levocetirizine dihydrochloride 5 mg (n = 1070) | Placebo (n = 912) |
 | --- | --- | --- | --- |
@@ -42,9 +42,9 @@ Additional adverse reactions of medical significance observed at a higher incide
 
 A total of 243 pediatric patients 6 to 12 years of age received levocetirizine dihydrochloride 5 mg once daily in two short-term placebo controlled double-blind trials.
 The mean age of the patients was 9.8 years, 79 (32%) were 6 to 8 years of age, and 50% were Caucasian.
-Table 2 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 6-12 years exposed to levocetirizine dihydrochloride 5 mg in placebo-controlled clinical trials and that were more common with levocetirizine dihydrochloride than placebo.
+Table 2 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 6 to 12 years exposed to levocetirizine dihydrochloride 5 mg in placebo-controlled clinical trials and that were more common with levocetirizine dihydrochloride than placebo.
 
-Table 2 Adverse Reactions in Subjects Aged 6-12 Years Reported in ≥2%* for levocetirizine dihydrochloride 5 mg in Placebo-Controlled Clinical Trials 4 and 6 Weeks in Duration
+Table 2 Adverse Reactions in Subjects Aged 6 to 12 Years Reported in ≥2%* for levocetirizine dihydrochloride 5 mg in Placebo-Controlled Clinical Trials 4 and 6 Weeks in Duration
 
 | Adverse Reactions | levocetirizine dihydrochloride 5 mg/day (n = 243) | Placebo (n = 240) |
 | --- | --- | --- |
@@ -72,9 +72,9 @@ The elevations were transient and did not lead to discontinuation in any patient
 
 ## 6.2 Post-Marketing Experience
 
-In addition to the adverse reactions reported during clinical trials and listed above, adverse events have also been identified during post-approval use of levocetirizine dihydrochloride in other countries.
+In addition to the adverse reactions reported during clinical trials and listed above, adverse events have also been identified during post-approval use of levocetirizine dihydrochloride.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Adverse events of hypersensitivity and anaphylaxis, angioneurotic edema, fixed drug eruption, pruritus, rash, and urticaria, convulsion, aggression and agitation, visual disturbances, palpitations, dyspnea, nausea, hepatitis, and myalgia have been reported.
+Adverse events of hypersensitivity and anaphylaxis, increased appetite, angioedema, fixed drug eruption, pruritus, rash, and urticaria, convulsion, paraesthesia, dizziness, tremor, dysgeusia, vertigo, aggression and agitation, hallucinations, depression, insomnia, suicidal ideation, visual disturbances, blurred vision, palpitations, tachycardia, dyspnea, nausea, vomiting, hepatitis, dysuria, urinary retention, myalgia, and edema have been reported..
 
 Besides these events reported under treatment with levocetirizine dihydrochloride, other potentially severe adverse events have been reported from the post-marketing experience with cetirizine.
-Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with levocetirizine dihydrochloride: hallucinations, suicidal ideation, orofacial dyskinesia, severe hypotension, cholestasis, glomerulonephritis, and still birth.
+Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with levocetirizine dihydrochloride: suicidal ideation, orofacial dyskinesia, severe hypotension, cholestasis, glomerulonephritis, and still birth.

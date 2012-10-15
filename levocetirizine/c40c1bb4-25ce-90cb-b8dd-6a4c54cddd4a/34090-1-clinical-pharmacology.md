@@ -28,8 +28,7 @@ Levocetirizine exhibited linear pharmacokinetics over the therapeutic dose range
   The accumulation ratio following daily oral administration is 1.12 with steady state achieved after 2 days.
   Peak concentrations are typically 270 ng/mL and 308 ng/mL following a single and a repeated 5 mg once daily dose, respectively.
   Food had no effect on the extent of exposure (AUC) of the levocetirizine tablet, but Tmax was delayed by about 1.25 hours and Cmax was decreased by about 36% after administration with a high fat meal; therefore, levocetirizine can be administered with or without food.
-
-- Distribution The mean plasma protein binding of levocetirizine in vitro ranged from 91 to 92%, independent of concentration in the range of 90-5000 ng/mL, which includes the therapeutic plasma levels observed.
+- Distribution The mean plasma protein binding of levocetirizine in vitro ranged from 91 to 92%, independent of concentration in the range of 90 to 5000 ng/mL, which includes the therapeutic plasma levels observed.
   Following oral dosing, the average apparent volume of distribution is approximately 0.4 L/kg, representative of distribution in total body water.
 
 - Metabolism The extent of metabolism of levocetirizine in humans is less than 14% of the dose and therefore differences resulting from genetic polymorphism or concomitant intake of hepatic drug metabolizing enzyme inhibitors are expected to be negligible.
@@ -55,7 +54,7 @@ Levocetirizine exhibited linear pharmacokinetics over the therapeutic dose range
   However, due to UCB Inc.’s marketing exclusivity rights; this drug product is not labeled for such use in those pediatric patients.
 
 - Geriatric Patients Limited pharmacokinetic data are available in elderly subjects.
-  Following once daily repeat oral administration of 30 mg levocetirizine for 6 days in 9 elderly subjects (65–74 years of age), the total body clearance was approximately 33% lower compared to that in younger adults.
+  Following once daily repeat oral administration of 30 mg levocetirizine for 6 days in 9 elderly subjects (65 to 74 years of age), the total body clearance was approximately 33% lower compared to that in younger adults.
   The disposition of racemic cetirizine has been shown to be dependent on renal function rather than on age.
   This finding would also be applicable for levocetirizine, as levocetirizine and cetirizine are both predominantly excreted in urine.
   Therefore, the levocetirizine dihydrochloride dose should be adjusted in accordance with renal function in elderly patients [see Dosage and Administration(2)].

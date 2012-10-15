@@ -1,3 +1,1 @@
-Container Label 90's
-
-Carton
+Levocetirizine Dihydrochloride Tablets, 5 mg - Carton Label
