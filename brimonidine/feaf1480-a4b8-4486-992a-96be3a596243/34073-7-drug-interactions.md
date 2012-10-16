@@ -38,5 +38,5 @@ Caution, however, is advised in patients taking tricyclic antidepressants which 
 
 ## 7.9 Monoamine Oxidase Inhibitors
 
-Monoamine oxidase (MAO) inhibitors may theoretically interfere with the metabolism of brimonidine and potentially result in an increased systemic side-effect such as hypotension.
-Caution is advised in patients taking MAO inhibitors which can affect the metabolism and uptake of circulating amines.
+Monoamine oxidase (MAO) inhibitors may theoretically interfere with the metabolism of brimonidine and potentially result in an increased systemic side effect such as hypotension.
+Caution, however, is advised in patients taking MAO inhibitors which can affect the metabolism and uptake of circulating amines.

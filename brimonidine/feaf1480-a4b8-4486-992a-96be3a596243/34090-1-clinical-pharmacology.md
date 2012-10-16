@@ -7,10 +7,10 @@ Each of these two components decreases elevated intraocular pressure, whether or
 Elevated intraocular pressure is a major risk factor in the pathogenesis of optic nerve damage and glaucomatous visual field loss.
 The higher the level of intraocular pressure, the greater the likelihood of glaucomatous field loss and optic nerve damage.
 
-COMBIGAN® is a selective alpha-2 adrenergic receptor agonist with a non-selective beta-adrenergic receptor inhibitor.
+COMBIGAN® is a relatively selective alpha-2 adrenergic receptor agonist with a non-selective beta-adrenergic receptor inhibitor.
 Both brimonidine and timolol have a rapid onset of action, with peak ocular hypotensive effect seen at two hours post-dosing for brimonidine and one to two hours for timolol.
 
-Fluorophotometric studies in animals and humans suggest that brimonidine tartrate has a dual mechanism of action by reducing aqueous humor production and increasing nonpressure dependent uveoscleral outflow.
+Fluorophotometric studies in animals and humans suggest that brimonidine tartrate has a dual mechanism of action by reducing aqueous humor production and increasing uveoscleral outflow.
 
 Timolol maleate is a beta1 and beta2 adrenergic receptor inhibitor that does not have significant intrinsic sympathomimetic, direct myocardial depressant, or local anesthetic (membrane-stabilizing) activity.
 
@@ -23,7 +23,7 @@ Normal volunteers dosed with one drop of COMBIGAN® twice daily in both eyes for
 Plasma concentrations of brimonidine peaked at 1 to 4 hours after ocular dosing.
 Peak plasma concentrations of timolol occurred approximately 1 to 3 hours post-dose.
 
-In a crossover study of COMBIGAN®, brimonidine tartrate 0.2%, and timolol 0.5% administered twice daily for 7 days in healthy volunteers, the mean brimonidine area-under-the-plasma-concentration-time curve (AUC) for COMBIGAN® was 128 ± 61 pg•hr/mL versus 141 ± 106 pg•hr/mL for the respective monotherapy treatments; mean Cmax values of brimonidine were comparable following COMBIGAN® treatment versus monotherapy (32.7 ± 15.0 pg/mL versus 34.7 ± 22.6 pg/mL, respectively).
+In a crossover study of COMBIGAN®, brimonidine tartrate 0.2%, and timolol 0.5% administered twice daily for 7 days in healthy volunteers, the mean brimonidine area-under-the-plasma-concentration-time curve (AUC) for COMBIGAN® was 128 ± 61 pg•hr/mL versus 141 ± 106 pg•hr/mL for the respective monotherapy treatments; mean Cmax values of brimonidine were comparable following COMBIGAN® treatment versus monotherapy (32.7 ± 15 pg/mL versus 34.7 ± 22.6 pg/mL, respectively).
 Mean timolol AUC for COMBIGAN® was similar to that of the respective monotherapy treatment (2919 ± 1679 pg•hr/mL versus 2909 ± 1231 pg•hr/mL, respectively); mean Cmax of timolol was approximately 20% lower following COMBIGAN® treatment versus monotherapy.
 
 In a parallel study in patients dosed twice daily with COMBIGAN®, twice daily with timolol 0.5%, or three times daily with brimonidine tartrate 0.2%, one-hour post dose plasma concentrations of timolol and brimonidine were approximately 30-40% lower with COMBIGAN® than their respective monotherapy values.

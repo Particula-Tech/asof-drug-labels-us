@@ -4,18 +4,18 @@
 
 COMBIGAN® contains timolol maleate; and although administered topically can be absorbed systemically.
 Therefore, the same types of adverse reactions found with systemic administration of beta-adrenergic blocking agents may occur with topical administration.
-For example, severe respiratory reactions including death due to bronchospasm in patients with asthma have been reported following systemic or ophthalmic administration of timolol maleate (see CONTRAINDICATIONS, 4).
+For example, severe respiratory reactions including death due to bronchospasm in patients with asthma have been reported following systemic or ophthalmic administration of timolol maleate [see Contraindications (4.1)].
 
 ## 5.2 Cardiac Failure
 
 Sympathetic stimulation may be essential for support of the circulation in individuals with diminished myocardial contractility, and its inhibition by beta-adrenergic receptor blockade may precipitate more severe failure.
 
 In patients without a history of cardiac failure, continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
-At the first sign or symptom of cardiac failure, COMBIGAN® should be discontinued (see also CONTRAINDICATIONS, 4).
+At the first sign or symptom of cardiac failure, COMBIGAN® should be discontinued [see Contraindications (4.2)].
 
 ## 5.3 Obstructive Pulmonary Disease
 
-Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease [other than bronchial asthma or a history of bronchial asthma, in which COMBIGAN® is contraindicated (see CONTRAINDICATIONS, 4)] should, in general, not receive beta-blocking agents, including COMBIGAN®.
+Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease [other than bronchial asthma or a history of bronchial asthma, in which COMBIGAN® is contraindicated [see Contraindications (4.1)] should, in general, not receive beta-blocking agents, including COMBIGAN®.
 
 ## 5.4 Potentiation of Vascular Insufficiency
 
@@ -42,12 +42,16 @@ Beta-adrenergic receptor blocking agents may mask the signs and symptoms of acut
 Beta-adrenergic blocking agents may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
 Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta-adrenergic blocking agents that might precipitate a thyroid storm.
 
-## 5.9 Contamination of Topical Ophthalmic Products After Use
+## 5.9 Ocular Hypersensitivity
+
+Ocular hypersensitivity reactions have been reported with brimonidine tartrate ophthalmic solutions 0.2%, with some reported to be associated with an increase in intraocular pressure [see Contraindications (4.4)].
+
+## 5.10 Contamination of Topical Ophthalmic Products After Use
 
 There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
-These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface (see PATIENT COUNSELING INFORMATION, 17).
+These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see Patient Counseling Information (17)].
 
-## 5.10 Impairment of Beta-adrenergically Mediated Reflexes During Surgery
+## 5.11 Impairment of Beta-adrenergically Mediated Reflexes During Surgery
 
 The necessity or desirability of withdrawal of beta-adrenergic blocking agents prior to major surgery is controversial.
 Beta-adrenergic receptor blockade impairs the ability of the heart to respond to beta-adrenergically mediated reflex stimuli.
