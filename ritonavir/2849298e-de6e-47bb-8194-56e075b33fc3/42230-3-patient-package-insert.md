@@ -232,10 +232,12 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I Store NORVIR?
 
-- Store NORVIR tablets and NORVIR Oral Solution at room temperature between 68°F to 77°F (20°C to 25°C).
-- Do not refrigerate NORVIR Oral Solution.
-- Shake NORVIR Oral Solution well before each use.
-- Keep NORVIR Oral Solution away from heat.
+- Store NORVIR oral solution at room temperature between 68°F to 77°F (20°C to 25°C).
+- Store NORVIR tablets at or below 30°C (86°F).
+  Exposure to temperatures up to 50°C (122°F) for seven days permitted.
+- Do not refrigerate NORVIR oral solution.
+- Shake NORVIR oral solution well before each use.
+- Keep NORVIR oral solution away from heat.
 - Store NORVIR tablets and NORVIR oral solution in the original container given to you by the pharmacist.
 - Exposure of NORVIR tablets to high humidity outside the original container for longer than 2 weeks is not recommended.
 - Use NORVIR tablets and NORVIR Oral Solution by the expiration date on the bottle.
@@ -269,4 +271,4 @@ NORVIR tablets and oral solution are manufactured by: Abbott Laboratories North 
 The makers of these brands are not affiliated with and do not endorse Abbott Laboratories or its products.
 
 Rev.
-02/2012
+10/2012

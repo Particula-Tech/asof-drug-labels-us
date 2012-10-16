@@ -10,7 +10,8 @@ Bottles of 30 tablets each (NDC 0074-3333-30).
 
 Recommended Storage
 
-Store NORVIR film-coated tablets at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP controlled room temperature].
+Store at or below 30°C (86°F).
+Exposure to temperatures up to 50°C (122°F) for seven days permitted.
 Dispense in original container or USP equivalent tight container (60 mL or less).
 For patient use: exposure of this product to high humidity outside the original or USP equivalent tight container (60 mL or less) for longer than 2 weeks is not recommended.
 
