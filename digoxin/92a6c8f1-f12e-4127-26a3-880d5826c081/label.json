@@ -1,12 +1,20 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018118"
+  ],
   "inn": "digoxin",
-  "labeler": "GlaxoSmithKline",
+  "labeler": "GlaxoSmithKline LLC",
   "package_ndcs": [
     "0173-0272-55",
     "0173-0274-55"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "digoxin",
+      "name": "LANOXICAPS"
+    }
+  ],
   "setid": "92a6c8f1-f12e-4127-26a3-880d5826c081",
   "source": "dailymed"
 }

@@ -7,23 +7,23 @@ Due to the more complete absorption of digoxin from soft capsules, recommended o
 
 Because the significance of the higher peak serum concentrations associated with once daily capsules is not established, divided daily dosing is presently recommended for:
 
-1. Infants and children under 10 years of age;
-2. Patients requiring a daily dose of 300 mcg (0.3 mg) or greater;
-3. Patients with a previous history of digitalis toxicity;
-4. Patients considered likely to become toxic;
-5. Patients in whom compliance is not a problem.
+1. 1.Infants and children under 10 years of age;
+2. 2.Patients requiring a daily dose of 300 mcg (0.3 mg) or greater;
+3. 3.Patients with a previous history of digitalis toxicity;
+4. 4.Patients considered likely to become toxic;
+5. 5.Patients in whom compliance is not a problem.
 
 Where compliance is considered a problem, single daily dosing may be appropriate.
 
 In selecting a dose of digoxin, the following factors must be considered:
 
-1. The body weight of the patient.
+1. 1.The body weight of the patient.
    Doses should be calculated based upon lean (i.e., ideal) body weight.
-2. The patient’s renal function, preferably evaluated on the basis of estimated creatinine clearance.
-3. The patient’s age.
+2. 2.The patient’s renal function, preferably evaluated on the basis of estimated creatinine clearance.
+3. 3.The patient’s age.
    Infants and children require different doses of digoxin than adults.
    Also, advanced age may be indicative of diminished renal function even in patients with normal serum creatinine concentration (i.e., below 1.5 mg/dL).
-4. Concomitant disease states, concurrent medications, or other factors likely to alter the pharmacokinetic or pharmacodynamic profile of digoxin (see PRECAUTIONS).
+4. 4.Concomitant disease states, concurrent medications, or other factors likely to alter the pharmacokinetic or pharmacodynamic profile of digoxin (see PRECAUTIONS).
 
 ## Serum Digoxin Concentrations
 
@@ -43,11 +43,11 @@ On a twice-daily dosing schedule, there will be only minor differences in serum 
 
 If a discrepancy exists between the reported serum concentration and the observed clinical response, the clinician should consider the following possibilities:
 
-1. Analytical problems in the assay procedure.
-2. Inappropriate serum sampling time.
-3. Administration of a digitalis glycoside other than digoxin.
-4. Conditions (described in WARNINGS and PRECAUTIONS) causing an alteration in the sensitivity of the patient to digoxin.
-5. Serum digoxin concentration may decrease acutely during periods of exercise without any associated change in clinical efficacy due to increased binding of digoxin to skeletal muscle.
+1. 1.Analytical problems in the assay procedure.
+2. 2.Inappropriate serum sampling time.
+3. 3.Administration of a digitalis glycoside other than digoxin.
+4. 4.Conditions (described in WARNINGS and PRECAUTIONS) causing an alteration in the sensitivity of the patient to digoxin.
+5. 5.Serum digoxin concentration may decrease acutely during periods of exercise without any associated change in clinical efficacy due to increased binding of digoxin to skeletal muscle.
 
 ## Heart Failure
 
@@ -55,9 +55,9 @@ If a discrepancy exists between the reported serum concentration and the observe
 
 Digitalization may be accomplished by either of two general approaches that vary in dosage and frequency of administration, but reach the same endpoint in terms of total amount of digoxin accumulated in the body.
 
-1. If rapid digitalization is considered medically appropriate, it may be achieved by administering a loading dose based upon projected peak digoxin body stores.
+1. 1.If rapid digitalization is considered medically appropriate, it may be achieved by administering a loading dose based upon projected peak digoxin body stores.
    Maintenance dose can be calculated as a percentage of the loading dose.
-2. More gradual digitalization may be obtained by beginning an appropriate maintenance dose, thus allowing digoxin body stores to accumulate slowly.
+2. 2.More gradual digitalization may be obtained by beginning an appropriate maintenance dose, thus allowing digoxin body stores to accumulate slowly.
    Steady-state serum digoxin concentrations will be achieved in approximately 5 half-lives of the drug for the individual patient.
    Depending upon the patient’s renal function, this will take between 1 and 3 weeks.
 
