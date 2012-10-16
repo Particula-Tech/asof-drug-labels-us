@@ -1,7 +1,8 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-OXYTROL 3.9 mg/day (oxybutynin transdermal system).
-Each 39 cm2 system imprinted with OXYTROL 3.9 mg/day contains 36 mg oxybutynin for nominal delivery of 3.9 mg oxybutynin per day when dosed in a twice weekly regimen.
+How Supplied Unit Dose: Heat sealed pouch containing 1 OXYTROL (oxybutynin transdermal system).
+
+Each 39 cm2 system imprinted with “OXYTROL 3.9 mg/day” contains 36 mg of oxybutynin for nominal delivery of 3.9 mg oxybutynin per day when dosed in a twice weekly regimen.
 
 NDC 52544-920-08 Patient Calendar Box of 8 Systems
 
@@ -13,11 +14,3 @@ Apply immediately after removal from the protective pouch.
 Discard used OXYTROL in household trash in a manner that prevents accidental application or ingestion by children, pets, or others.
 
 Keep out of reach of children.
-
-Rx only
-
-For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 07054 USA 800-272-5525
-
-Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
-
-Revised: April 2011 195564-01
