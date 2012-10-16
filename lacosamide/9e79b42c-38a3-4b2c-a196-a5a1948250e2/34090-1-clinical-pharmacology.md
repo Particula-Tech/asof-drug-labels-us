@@ -67,7 +67,7 @@ There is no enantiomeric interconversion of lacosamide.
 
 ### Special Populations
 
-#### Renal impairment
+Renal impairment
 
 Lacosamide and its major metabolite are eliminated from the systemic circulation primarily by renal excretion.
 
@@ -80,7 +80,7 @@ Therefore dosage supplementation of up to 50% following hemodialysis should be c
 In all renal impaired patients, the dose titration should be performed with caution.
 [see Dosage and Administration (2.3)]
 
-#### Hepatic impairment
+Hepatic impairment
 
 Lacosamide undergoes metabolism.
 Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50-60% higher AUC compared to healthy subjects).
@@ -93,21 +93,21 @@ The pharmacokinetics of lacosamide have not been evaluated in severe hepatic imp
 VIMPAT use is not recommended in patients with severe hepatic impairment.
 [see Dosage and Administration (2.3)] Patients with co-existing hepatic and renal impairment should be monitored closely during dose titration.
 
-#### Geriatric
+Geriatric
 
 In the elderly (>65 years), dose and body-weight normalized AUC and Cmax is about 20% increased compared to young subjects (18-64 years).
 This may be related to body weight and decreased renal function in elderly subjects.
 Dose reduction is not considered to be necessary.
 
-#### Pediatric Patients
+Pediatric Patients
 
 Pharmacokinetics of VIMPAT have not been studied in pediatric patients.
 
-#### Gender
+Gender
 
 VIMPAT clinical trials indicate that gender does not have a clinically relevant influence on the pharmacokinetics of VIMPAT.
 
-#### Race
+Race
 
 There are no clinically relevant differences in the pharmacokinetics of VIMPAT between Asian, Black, and Caucasian subjects.
 
@@ -118,7 +118,7 @@ Results from a trial in poor metabolizers (PM) (N=4) and extensive metabolizers 
 
 ### Drug interactions
 
-#### In Vitro Assessment of Drug Interactions
+In Vitro Assessment of Drug Interactions
 
 In vitro metabolism studies indicate that lacosamide does not induce the enzyme activity of drug metabolizing cytochrome P450 isoforms CYP1A2, 2B6, 2C9, 2C19 and 3A4.
 Lacosamide did not inhibit CYP 1A1, 1A2, 2A6, 2B6, 2C8, 2C9, 2D6, 2E1, 3A4/5 at plasma concentrations observed in clinical studies.
@@ -133,7 +133,7 @@ The relative contribution of other CYP isoforms or non-CYP enzymes in the metabo
 
 Since <15% of lacosamide is bound to plasma proteins, a clinically relevant interaction with other drugs through competition for protein binding sites is unlikely.
 
-#### In Vivo Assessment of Drug Interactions
+In Vivo Assessment of Drug Interactions
 
 Drug interaction studies with AEDs
 

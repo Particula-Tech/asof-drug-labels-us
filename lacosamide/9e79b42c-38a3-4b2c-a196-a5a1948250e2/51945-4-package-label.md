@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 50 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 50 mg Bottle Label
 
 NDC 0131-2477-35
 
@@ -10,7 +10,7 @@ Rx only 60 tablets
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
 
 NDC 0131-2478-35
 
@@ -22,7 +22,7 @@ Rx only 60 tablets
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-PRINCIPAL DISPLAY PANEL - 150 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 150 mg Bottle Label
 
 NDC 0131-2479-35
 
@@ -34,7 +34,7 @@ Rx only 60 tablets
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-PRINCIPAL DISPLAY PANEL - 200 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 200 mg Bottle Label
 
 NDC 0131-2480-35
 
@@ -46,15 +46,29 @@ Rx only 60 tablets
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-PRINCIPAL DISPLAY PANEL - 20 mL Vial Label
+PRINCIPAL DISPLAY PANEL - Kit Carton
 
-NDC 0131-1810-67 Single Use Vial
+2 Week Starter Kit
+
+VIMPAT® (lacosamide) tablets CV
+
+ATTENTION PHYSICIAN: Each patient is required to receive the accompanying Medication Guide.
+
+Not for Sale Professional Samples
+
+PRINCIPAL DISPLAY PANEL - 200 mg/20 mL Vial Label
+
+NDC 0131-1810-67
+
+Single Use Vial
 
 VIMPAT® (lacosamide) injection CV
 
-200 mg /20 mL (10 mg /mL)
+200 mg /20 mL (1 0 mg /mL)
 
-For Intravenous Use Only Rx only
+For Intravenous Use Only
+
+Rx only
 
 20 mL
 
@@ -73,13 +87,3 @@ ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medic
 Manufactured for: UCB, Inc. Smyrna, GA 30080
 
 465 mL
-
-PRINCIPAL DISPLAY PANEL - Kit Carton
-
-2 Week Starter Kit
-
-VIMPAT® (lacosamide) tablets CV
-
-ATTENTION PHYSICIAN: Each patient is required to receive the accompanying Medication Guide.
-
-Not for Sale Professional Samples
