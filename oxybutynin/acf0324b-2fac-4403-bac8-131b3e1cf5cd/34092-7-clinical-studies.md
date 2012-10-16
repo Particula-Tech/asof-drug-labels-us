@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of GELNIQUE was evaluated in a single randomized, double-blind, placebo-controlled, parallel group 12-week study for the treatment of overactive bladder with symptoms of urge incontinence, urgency and frequency.
+The efficacy and safety of GELNIQUE were evaluated in a single randomized, double-blind, placebo-controlled, parallel group 12-week study for the treatment of overactive bladder with symptoms of urge incontinence, urgency and frequency.
 Key entry criteria included adults with symptomatic overactive bladder with an average of ≥ 4 incontinence episodes in a 3-day period and at least 8 micturitions per day.
 Patients were randomized to daily applications of GELNIQUE 1 gram or matching placebo gel.
 A total of 389 patients received GELNIQUE and 400 patients received placebo gel.

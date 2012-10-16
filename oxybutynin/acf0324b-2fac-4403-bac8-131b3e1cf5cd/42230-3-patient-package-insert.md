@@ -72,14 +72,12 @@ How should I use GELNIQUE?
 Applying GELNIQUE:
 
 1.
-Selecting your application site:
-
-Apply GELNIQUE only to 1 of the shaded areas shown in the figure below: (See Figure A)
+Selecting your application site: Apply GELNIQUE only to 1 of the shaded areas shown in the figure below: (See Figure A)
 
 - stomach (abdomen)
 - upper arms
 - shoulder
-- thigh
+- thigh Figure A
 
 - Wash the area where GELNIQUE will be applied with mild soap and water.
   Allow the area to dry completely.
@@ -89,13 +87,13 @@ Apply GELNIQUE only to 1 of the shaded areas shown in the figure below: (See Fig
 How to use the GELNIQUE packets (sachets):
 
 - Find the notch at the top of your GELNIQUE packet.
-  Tear off the top of the GELNIQUE packet at the notch (See Figure B).
+  Tear off the top of the GELNIQUE packet at the notch (See Figure B). Figure B
 
 - Squeeze all of the GELNIQUE out of the packet onto your hand (palm or fingertips) or you can squeeze all of the GLENIQUE from the packet right onto the application site (See Figure C).
 - Squeeze from the bottom of the packet toward the open end.
   Repeat until the packet is empty.
   The amount of GELNIQUE in each packet will be about the size of a nickel.
-  Apply GELNIQUE to your skin (shown in Figure C).
+  Apply GELNIQUE to your skin (shown in Figure C). Figure C
 
 - Wash your hands with soap and water right away.
 - Throw away the packet in the trash out of the reach of children to avoid accidental exposure.
@@ -107,7 +105,6 @@ What should I avoid while using GELNIQUE?
 - Do not take a bath, swim, shower, exercise, or get the application site wet for at least 1 hour after you apply your dose.
 
 What are the possible side effects of GELNIQUE?
-
 GELNIQUE can cause serious side effects including:
 
 - Allergic reactions, including allergic skin reactions
@@ -162,4 +159,4 @@ For all medical inquiries contact: WATSON Medical Communications Parsippany, NJ 
 
 Distributed By: Watson Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: March 2012 193908-01
+Revised: October 2012
