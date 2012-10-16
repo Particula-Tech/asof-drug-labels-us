@@ -51,10 +51,10 @@ Micro-dosed progesterone preparations (“minipills” that do not contain an es
 
 Isotretinoin may cause depression, psychosis and, rarely, suicidal ideation, suicide attempts, suicide, and aggressive and/or violent behaviors.
 No mechanism of action has been established for these reactions [see Adverse Reactions (6.1)].
-Prescribers should read the brochure, “Recognizing Psychiatric Disorders in Adolescents and Young Adults”: A Guide for Prescribers of Isotretinoin.
+Prescribers should read the brochure, Recognizing Psychiatric Disorders in Adolescents and Young Adults: A Guide for Prescribers of Isotretinoin.
 Prescribers should be alert to the warning signs of psychiatric disorders to guide patients to receive the help they need.
 Therefore, prior to initiation of Absorica™ therapy, patients and family members should be asked about any history of psychiatric disorder, and at each visit during therapy patients should be assessed for symptoms of depression, mood disturbance, psychosis, or aggression to determine if further evaluation may be necessary.
-Signs and symptoms of depression, as described in the brochure (“Recognizing Psychiatric Disorders in Adolescents and Young Adults”), include sad mood, hopelessness, feelings of guilt, worthlessness or helplessness, loss of pleasure or interest in activities, fatigue, difficulty concentrating, change in sleep pattern, change in weight or appetite, suicidal thoughts or attempts, restlessness, irritability, acting on dangerous impulses, and persistent physical symptoms unresponsive to treatment.
+Signs and symptoms of depression, as described in the brochure (Recognizing Psychiatric Disorders in Adolescents and Young Adults), include sad mood, hopelessness, feelings of guilt, worthlessness or helplessness, loss of pleasure or interest in activities, fatigue, difficulty concentrating, change in sleep pattern, change in weight or appetite, suicidal thoughts or attempts, restlessness, irritability, acting on dangerous impulses, and persistent physical symptoms unresponsive to treatment.
 Patients should stop Absorica™ and the patient or a family member should promptly contact their prescriber if the patient develops depression, mood disturbance, psychosis, or aggression, without waiting until the next visit.
 Discontinuation of Absorica™ therapy may be insufficient; further evaluation may be necessary.
 While such monitoring may be helpful, it may not detect all patients at risk.

@@ -2,10 +2,10 @@
 
 Absorica™ capsules (isotretinoin) are supplied as opaque hard gelatin capsules, imprinted as follows:
 
-- 10 mg capsules; Dark yellow capsule imprinted with black ink “G 240” on cap and “10” on the body Box of 30 capsules (3 x 10 Prescription Packs): NDC 10631-115-69
-- 20 mg capsules; Red opaque capsule imprinted with black ink “G 241” on cap and “20” on the body Box of 30 capsules (3 x 10 Prescription Packs): NDC 10631-116-69
-- 30 mg capsules; Brown opaque capsule imprinted with white ink “G 242” on cap and “30” on the body Box of 30 capsules (3 x 10 Prescription Packs): NDC 10631-117-69
-- 40 mg capsules; Brown and red capsule imprinted with white ink “G 325” on cap and “40” on the body Box of 30 capsules (3 x 10 Prescription Packs): NDC 10631-118-69
+- 10 mg capsules; Dark yellow capsule imprinted with black ink “G 240” on cap and “10” on the body Box of 30 capsules (3 x 10 Prescription Packs): NDC 10631-115-31
+- 20 mg capsules; Red opaque capsule imprinted with black ink “G 241” on cap and “20” on the body Box of 30 capsules (3 x 10 Prescription Packs): NDC 10631-116-31
+- 30 mg capsules; Brown opaque capsule imprinted with white ink “G 242” on cap and “30” on the body Box of 30 capsules (3 x 10 Prescription Packs): NDC 10631-117-31
+- 40 mg capsules; Brown and red capsule imprinted with white ink “G 325” on cap and “40” on the body Box of 30 capsules (3 x 10 Prescription Packs): NDC 10631-118-31
 
 Storage and Handling
 

@@ -63,5 +63,5 @@ After a single 40 mg (2 x 20 mg) oral dose of Absorica™ to 57 healthy adult su
 Special Patient Populations
 
 The pharmacokinetics of isotretinoin were evaluated after single and multiple doses in 38 pediatric patients (12 to 15 years) and 19 adult patients (≥18 years) who received isotretinoin for the treatment of severe recalcitrant nodular acne.
-In both age groups, 4-oxo-isotretinoin was the major metabolite; tretinoin and 4-oxo tretinoin were also observed.
+In both age groups, 4-oxo-isotretinoin was the major metabolite; tretinoin and 4-oxo-tretinoin were also observed.
 There were no statistically significant differences in the pharmacokinetics of isotretinoin between pediatric and adult patients.

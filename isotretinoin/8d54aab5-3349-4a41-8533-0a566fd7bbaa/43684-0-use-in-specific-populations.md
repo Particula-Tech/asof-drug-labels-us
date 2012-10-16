@@ -126,5 +126,5 @@ If the patient has unprotected heterosexual intercourse at any time 1 month befo
 4. Have a second pregnancy test after using 2 forms of effective contraception for 1 month as described above depending on whether she has regular menses or not.
 
 If a pregnancy does occur during Absorica™ treatment, Absorica™ must be discontinued immediately.
-The patient should be referred to an Obstetrician- Gynecologist experienced in reproductive toxicity for further evaluation and counseling.
+The patient should be referred to an obstetrician-gynecologist experienced in reproductive toxicity for further evaluation and counseling.
 Any suspected fetal exposure during or 1 month after Absorica™ therapy must be reported immediately to the FDA via the MedWatch number 1-800-FDA-1088 and also to the iPLEDGE pregnancy registry at 1-866-495-0654 or via the internet (www.ipledgeprogram.com) [see Warnings and Precautions (5.2)].
