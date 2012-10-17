@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA202210"
+  ],
+  "inn": "escitalopram",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-036-11",
+    "33342-036-12",
+    "33342-037-11",
+    "33342-037-12",
+    "33342-038-11",
+    "33342-038-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "escitalopram oxalate",
+      "name": "Escitalopram Oxalate"
+    }
+  ],
+  "setid": "24b43cb4-1a26-44a2-b1d8-a40239eb5c7c",
+  "source": "dailymed"
+}
