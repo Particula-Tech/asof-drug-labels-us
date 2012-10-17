@@ -8,6 +8,8 @@ Bottles of 30 NDC 13668-135-30
 
 Bottles of 100 NDC 13668-135-01
 
+Bottles of 500 NDC 13668-135-05
+
 Bottles of 1000 NDC 13668-135-10
 
 Bottles of 4000 NDC 13668-135-40
@@ -20,6 +22,8 @@ Bottles of 30 NDC 13668-136-30
 
 Bottles of 100 NDC 13668-136-01
 
+Bottles of 500 NDC 13668-136-05
+
 Bottles of 1000 NDC 13668-136-10
 
 Bottles of 3000 NDC 13668-136-43
@@ -31,6 +35,8 @@ Escitalopram tablets, USP 20 mg are white to off-white, round, biconvex, film co
 Bottles of 30 NDC 13668-137-30
 
 Bottles of 100 NDC 13668-137-01
+
+Bottles of 500 NDC 13668-137-05
 
 Bottles of 1000 NDC 13668-137-10
 
