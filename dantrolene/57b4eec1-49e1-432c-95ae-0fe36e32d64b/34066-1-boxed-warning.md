@@ -5,6 +5,8 @@ Even sporadic short courses of these higher dose levels within a treatment regim
 Liver dysfunction as evidenced by blood chemical abnormalities alone (liver enzyme elevations) has been observed in patients exposed to Dantrium for varying periods of time.
 Overt hepatitis has occurred at varying intervals after initiation of therapy, but has been most frequently observed between the third and twelfth month of therapy.
 The risk of hepatic injury appears to be greater in females, in patients over 35 years of age, and in patients taking other medication(s) in addition to Dantrium (dantrolene sodium).
+Spontaneous reports suggest a higher proportion of hepatic events with fatal outcome in elderly patients receiving Dantrium.
+However, the majority of these cases were complicated with confounding factors such as intercurrent illnesses and/or concomitant potentially hepatotoxic medications (see Geriatric Use subsection).
 Dantrium should be used only in conjunction with appropriate monitoring of hepatic function including frequent determination of SGOT or SGPT.
 If no observable benefit is derived from the administration of Dantrium after a total of 45 days, therapy should be discontinued.
 The lowest possible effective dose for the individual patient should be prescribed.

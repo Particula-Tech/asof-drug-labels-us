@@ -29,7 +29,7 @@ Respiratory: Feeling of suffocation, respiratory depression.
 
 Special Senses: Excessive tearing.
 
-Hypersensitivity: Pleural effusion with pericarditis, anaphylaxis.
+Hypersensitivity: Pleural effusion with pericarditis, pleural effusion with associated eosinophilia, anaphylaxis.
 
 Other: Chills and fever.
 

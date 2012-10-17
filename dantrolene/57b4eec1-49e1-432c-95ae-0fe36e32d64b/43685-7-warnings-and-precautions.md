@@ -20,13 +20,15 @@ Laboratory monitoring should be frequent and the drug should be withdrawn immedi
 Some patients have reacted with unmistakable signs of liver abnormality upon administration of a challenge dose, while others have not.
 
 Dantrium should be used with particular caution in females and in patients over 35 years of age in view of apparent greater likelihood of drug-induced, potentially fatal, hepatocellular disease in these groups.
+Spontaneous reports suggest a higher proportion of hepatic events with fatal outcome in elderly patients receiving Dantrium.
+However, the majority of these cases were complicated with confounding factors such as intercurrent illnesses and/or concomitant potentially hepatotoxic medications (see Geriatric Use subsection).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term safety of Dantrium in humans has not been established.
 Chronic studies in rats, dogs, and monkeys at dosages greater than 30 mg/kg/day showed growth or weight depression and signs of hepatopathy and possible occlusion nephropathy, all of which were reversible upon cessation of treatment.
 Sprague-Dawley female rats fed dantrolene sodium for 18 months at dosage levels of 15, 30, and 60 mg/kg/day showed an increased incidence of benign and malignant mammary tumors compared with concurrent controls.
-At the highest dose level, there was an increase in the incidence of benign hepatic lymphatic neoplasms.
+At the highest dose level, there was an increase in the incidence of benign lymphatic neoplasms.
 In a 30-month study at the same dose levels also in Sprague-Dawley rats, dantrolene sodium produced a decrease in the time of onset of mammary neoplasms.
 Female rats at the highest dose level showed an increased incidence of hepatic lymphangiomas and hepatic angiosarcomas.
 
@@ -40,9 +42,9 @@ Dantrolene sodium has produced positive results in the Ames S. Typhimurium bacte
 
 ### Pregnancy Category C
 
-Dantrium has been shown to be embryocidal in the rabbit and has been shown to decrease pup survival in the rat when given at doses seven times the human oral dose.
-There are no adequate and well-controlled studies in pregnant women (see Labor and Delivery subheading for information regarding placental transfer of the drug).
-Dantrium capsules should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Adequate animal reproduction studies have not been conducted with Dantrium.
+It is also not known whether Dantrium can cause fatal harm when administered to a pregnant woman or can affect reproduction capacity.
+Dantrium should be given to a pregnant woman only if clearly needed.
 
 ## Labor and Delivery
 
@@ -60,6 +62,15 @@ Dantrium should not be used in nursing mothers.
 The long-term safety of Dantrium in pediatric patients under the age of 5 years has not been established.
 Because of the possibility that adverse effects of the drug could become apparent only after many years, a benefit-risk consideration of the long-term use of Dantrium is particularly important in pediatric patients.
 
+## Geriatric Use
+
+Clinical studies of Dantrium did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experience in the literature has not identified differences in responses between the elderly and younger patients.
+In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+As with all patients receiving Dantrium, it is recommended that elderly patients receive the lowest dose compatible with the optimal response.
+Spontaneous reports suggest a higher proportion of hepatic events with fatal outcome in elderly patients receiving Dantrium.
+However, the majority of these cases were complicated with confounding factors such as intercurrent illnesses and/or concomitant potentially hepatotoxic medications (for hepatotoxicity details and its management see Black Box and Warnings Sections).
+
 ## Drug Interactions
 
 Drowsiness may occur with Dantrium therapy, and the concomitant administration of CNS depressants such as sedatives and tranquilizing agents may result in further drowsiness.
@@ -76,6 +87,7 @@ Administration of Dantrium may potentiate vecuronium-induced neuromuscular block
 # PRECAUTIONS
 
 Dantrium should be used with caution in patients with impaired pulmonary function, particularly those with obstructive pulmonary disease, and in patients with severely impaired cardiac function due to myocardial disease.
+Dantrium is associated with pleural effusion with associated eosinophilia.
 It should be used with caution in patients with a history of previous liver disease or dysfunction (see WARNINGS).
 
 ## Information for Patients
