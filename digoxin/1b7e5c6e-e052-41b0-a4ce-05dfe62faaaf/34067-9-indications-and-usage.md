@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Heart Failure
+## 1.1 Heart Failure in Adults
 
 Digoxin Oral Solution, USP is indicated for the treatment of mild to moderate heart failure.
 Digoxin increases left ventricular ejection fraction and improves heart failure symptoms as evidenced by increased exercise capacity and decreased heart failure-related hospitalizations and emergency care, while having no effect on mortality.

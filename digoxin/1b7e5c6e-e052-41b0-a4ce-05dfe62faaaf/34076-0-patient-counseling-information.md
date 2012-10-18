@@ -21,6 +21,6 @@ Roxane Laboratories, Inc.
 
 Columbus, Ohio 43216
 
-10001143/06Revised November 2011
+10001143/07Revised August 2012
 
-© RLI, 2011
+© RLI, 2012

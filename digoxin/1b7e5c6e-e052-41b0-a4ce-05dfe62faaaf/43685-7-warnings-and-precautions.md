@@ -36,7 +36,7 @@ Digoxin is primarily excreted by the kidneys; therefore, patients with impaired 
 Because of the prolonged elimination half-life, a longer period of time is required to achieve an initial or new steady-state serum concentration in patients with renal impairment than in patients with normal renal function.
 If appropriate care is not taken to reduce the dose of digoxin, such patients are at high risk for toxicity, and toxic effects will last longer in such patients than in patients with normal renal function.
 
-## 5.6 Use During Electrical Cardioversion
+## 5.6 Use in Patients with Electrolyte Disorders
 
 In patients with hypokalemia or hypomagnesemia, toxicity may occur at concentrations within therapeutic range because potassium or magnesium depletion sensitizes the myocardium to digoxin.
 Therefore, it is desirable to maintain normal serum potassium and magnesium concentrations in patients being treated with digoxin.
@@ -48,7 +48,7 @@ Most notably, it is commonly seen in alcoholics and in patients with diabetes me
 Because digoxin’s therapeutic and toxic effects are all largely mediated by intracellular calcium distribution, they are affected by abnormalities in serum calcium levels.
 Hypercalcemia increases the risk of digoxin toxicity, while digoxin may be therapeutically ineffective in the presence of hypocalcemia.
 
-## 5.7 Use in Electrical Cardioversion
+## 5.7 Use During Electrical Cardioversion
 
 Reduction of digoxin dosage may be desirable prior to electrical cardioversion to avoid induction of ventricular arrhythmias, but the physician must consider the consequences of a rapid increase in ventricular response to atrial fibrillation if digoxin is withheld 1 to 2 days prior to cardioversion.
 If there is a suspicion that digitalis toxicity exists, elective cardioversion should be delayed.
@@ -69,19 +69,19 @@ Digoxin responses are normal in patients with compensated thyroid disease.
 In patients with acute myocardial infarction, particularly if they have ongoing ischemia, the use of inotropic drugs, such as digoxin, may result in undesirable increases in myocardial oxygen demand and ischemia.
 Moreover, the use of digoxin may result in potentially detrimental increases in coronary vascular resistance mediated through alpha adrenergic receptor stimulation.
 
-5.10 Use in Patients with Myocarditis
+## 5.10 Use in Patients with Myocarditis
 
 Digoxin can precipitate vasoconstriction and may promote production of pro-inflammatory cytokines.
 Therefore, avoid digoxin in patients with myocarditis.
 
-5.11 ECG Changes During Exercise
+## 5.11 ECG Changes During Exercise
 
 The use of therapeutic doses of digoxin may cause prolongation of the PR interval and depression of the ST segment on the electrocardiogram.
 Digoxin may produce false positive ST-T changes on the electrocardiogram during exercise testing that may be indistinguishable from those of ischemia.
 These electrophysiologic effects reflect an expected effect of the drug and are not indicative of toxicity.
 Digoxin does not significantly decrease heart rate during exercise.
 
-5.12 Laboratory Tests
+## 5.12 Laboratory Tests
 
 Patients receiving digoxin should have their serum electrolytes and renal function (serum creatinine concentrations) assessed periodically; the frequency of assessments will depend on the clinical setting.
 

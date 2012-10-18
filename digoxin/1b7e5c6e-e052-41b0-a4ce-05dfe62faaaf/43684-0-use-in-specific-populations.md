@@ -56,6 +56,6 @@ Hypothyroid patients may require smaller doses of digoxin.
 
 Race differences in digoxin pharmacokinetics have not been formally studied, but are not expected.
 
-## 8.11 Malabsorption Conditions
+## 8.11 Malabsorption
 
-Race differences in digoxin pharmacokinetics have not been formally studied, but are not expected.
+The absorption of digoxin is reduced in some malabsorption conditions such as chronic diarrhea.

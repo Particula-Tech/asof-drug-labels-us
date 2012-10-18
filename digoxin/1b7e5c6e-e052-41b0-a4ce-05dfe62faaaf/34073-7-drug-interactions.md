@@ -27,7 +27,7 @@ Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter 
 | Digoxin concentrations increased, but magnitude is unclear |  |  |  |
 | Alprazolam, Azithromycin, Clarithromycin, Cyclosporine, Diclofenac, Diphenoxylate, Epoprostenol, Erythromycin, Esomeprazole, Indomethacin, Itraconazole, Ketoconazole, Lansoprazole, Metformin, Omeprazole, Propantheline, Spironolactone, Tetracycline |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary. |
 | Digoxin concentrations decreased |  |  |  |
-| Acarbose, Activated Charcoal, Albuterol, Antacids, Anti-cancer drugs, Cholestyramine, Colestipol, Exenatide, Kaolin-pectin, Meals High in Bran, Metoclpramide, Miglitol, Neomycin, Rifampin, Salbutamol, St. John’s Wort, Sucralfate, Sulfasalazine |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20% to 40% as necessary. |
+| Acarbose, Activated Charcoal, Albuterol, Antacids, Anti-cancer drugs, Cholestyramine, Colestipol, Exenatide, Kaolin-pectin, Meals High in Bran, Metoclopramide, Miglitol, Neomycin, Rifampin, Salbutamol, St. John’s Wort, Sucralfate, Sulfasalazine |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20% to 40% as necessary. |
 | No significant Digoxin concentrations changes |  |  |  |
 | Please refer to section 12.3 for a complete list of drugs which were studied but reported no significant changes on digoxin exposure. |  |  | No additional actions are required. |
 
