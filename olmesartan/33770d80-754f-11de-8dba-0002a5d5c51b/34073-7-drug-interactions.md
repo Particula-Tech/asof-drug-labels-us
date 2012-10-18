@@ -13,3 +13,11 @@ These effects are usually reversible.
 Monitor renal function periodically in patients receiving olmesartan medoxomil and NSAID therapy.
 
 The antihypertensive effect of angiotensin II receptor antagonists, including olmesartan medoxomil may be attenuated by NSAIDs including selective COX-2 inhibitors.
+
+Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function and electrolytes in patients on Benicar and other agents that affect the RAS.
+
+Do not co-administer aliskiren with Benicar in patients with diabetes [see Contraindications (4)].
+Avoid use of aliskiren with Benicar in patients with renal impairment (GFR <60 ml/min).
