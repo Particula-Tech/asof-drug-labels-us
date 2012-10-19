@@ -161,4 +161,4 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 www.mylan.com
 
-RM6410A10
+RM6410A9
