@@ -9,7 +9,7 @@ CUTIVATE® Lotion is supplied in
 Store between 15° and 30°C (59° and 86°F).
 Do not refrigerate.
 
-Keep the container tightly closed.
+Keep container tightly sealed.
 
 Revised: 10/2011
 
