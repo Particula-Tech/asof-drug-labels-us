@@ -12,7 +12,7 @@ The maintenance infusion was continued up to hour 48.
 Additional 10-minute infusions of 150 mg intravenous amiodarone were given for "breakthrough" VT/VF more frequently to the 125 mg dose group, thereby considerably reducing the planned 8-fold differences in total dose to 1.8- and 2.6-fold, respectively, in the two studies.
 
 The prospectively defined primary efficacy end point was the rate of VT/VF episodes per hour.
-For both studies, the median rate was 0.02 episodes per hour in patients receiving the high dose and 0.07 episodes per hour in patients receiving the low dose, or approximately 0.5 versus 1.7 episodes per day (p=0.07, 2-sided, in both studies).
+For both studies, the median rate was 0.02 episodes per hour in patients receiving the high dose and 0.07 episodes per hour in patients receiving the low dose, or approximately 0.5 versus 1.7 episodes per day (p = 0.07, 2-sided, in both studies).
 In one study, the time to first episode of VT/VF was significantly prolonged (approximately 10 hours in patients receiving the low dose and 14 hours in patients receiving the high dose).
 In both studies, significantly fewer supplemental infusions were given to patients in the high-dose group.
 At the end of double-blind therapy or after 48 hours, all patients were given open access to whatever treatment (including intravenous amiodarone) was deemed necessary.

@@ -51,7 +51,7 @@ Table 2: AMIODARONE HCl SOLUTION STABILITY
 
 | Solution | Concentration (mg/mL) | Container | Comments |
 | --- | --- | --- | --- |
-| 5% Dextrose in Water (D5W) | 1 to 6 | PVC | Physically compatible, with amiodarone loss <10% at 2 hours at room temperature. |
+| 5% Dextrose in Water (D5W) | 1 to 6 | PVC | Physically compatible, with amiodarone loss < 10% at 2 hours at room temperature. |
 | 5% Dextrose in Water (D5W) | 1 to 6 | Polyolefin, Glass | Physically compatible, with no amiodarone loss at 24 hours at room temperature. |
 
 Admixture Incompatibility
@@ -85,5 +85,5 @@ Table 4: RECOMMENDATIONS FOR ORAL DOSAGE AFTER INTRAVENOUS INFUSION
 | Duration of Amiodarone InfusionAssuming a 720 mg/day infusion (0.5 mg/min). | Initial Daily Dose of Oral Amiodarone |
 | --- | --- |
 | < 1 week | 800 to 1600 mg |
-| 1-3 weeks | 600 to 800 mg |
+| 1 - 3 weeks | 600 to 800 mg |
 | > 3 weeksIntravenous amiodarone is not intended for maintenance treatment. | 400 mg |

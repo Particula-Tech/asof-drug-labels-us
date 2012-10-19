@@ -11,7 +11,7 @@ The most important adverse reactions were hypotension, asystole/cardiac arrest/p
 Overall, treatment was discontinued for about 9% of the patients because of adverse reactions.
 The most common adverse reactions leading to discontinuation of intravenous amiodarone therapy were hypotension (1.6%), asystole/cardiac arrest/PEA (1.2%), VT (1.1%), and cardiogenic shock (1%).
 
-Table 5 lists the most common (incidence ≥2%) adverse reactions during intravenous amiodarone therapy considered at least possibly drug-related.
+Table 5 lists the most common (incidence ≥ 2%) adverse reactions during intravenous amiodarone therapy considered at least possibly drug-related.
 These data were collected in clinical trials involving 1836 patients with life-threatening VT/VF.
 Data from all assigned treatment groups are pooled because none of the adverse reactions appeared to be dose-related.
 
@@ -60,7 +60,7 @@ Pancreatic: pancreatitis
 
 Renal: renal impairment, renal insufficiency, acute renal failure,
 
-Respiratory: bronchospasm, possibly fatal respiratory disorders (including distress, failure, arrest and ARDS), bronchiolitis obliterans organizing pneumonia (possibly fatal), dyspnea, cough, hemoptysis, wheezing, hypoxia, pulmonary infiltrates, and /or mass, pleuritis
+Respiratory: bronchospasm, possibly fatal respiratory disorders (including distress, failure, arrest and ARDS), bronchiolitis obliterans organizing pneumonia (possibly fatal), dyspnea, cough, hemoptysis, wheezing, hypoxia, pulmonary infiltrates, and/or mass, pleuritis
 
 Thyroid: thyroid nodules/thyroid cancer
 

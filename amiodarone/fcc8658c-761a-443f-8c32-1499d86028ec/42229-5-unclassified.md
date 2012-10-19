@@ -1,3 +1,7 @@
-Manufactured for: Bioniche Pharma USA LLC, Lake Forest IL 60045 Manufactured by: Bioniche Teo., Inverin, Co. Galway, Ireland
+Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
-0456L111
+Manufactured by: Mylan Institutional Galway, Ireland
+
+0456L113
+
+REVISED AUGUST 2012 MI:AMDRIJ:R2

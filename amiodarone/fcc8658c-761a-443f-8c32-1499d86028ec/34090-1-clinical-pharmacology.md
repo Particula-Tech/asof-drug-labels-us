@@ -21,7 +21,7 @@ Table 6: EFFECTS OF INTRAVENOUS AND ORAL AMIODARONE ON ELECTROPHYSIOLOGIC PARAME
 | Oral | ↑ | ↔ | ↑ | ↑ | ↔ | ↑ | ↑ | ↑ |
 | ↔ No change |  |  |  |  |  |  |  |  |
 
-At higher doses (>10 mg/kg) of intravenous amiodarone, prolongation of the ERP RV and modest prolongation of the QRS have been seen.
+At higher doses (> 10 mg/kg) of intravenous amiodarone, prolongation of the ERP RV and modest prolongation of the QRS have been seen.
 These differences between oral and IV administration suggest that the initial acute effects of intravenous amiodarone may be predominately focused on the AV node, causing an intranodal conduction delay and increased nodal refractoriness due to slow channel blockade (class IV activity) and noncompetitive adrenergic antagonism (class II activity).
 
 ## 12.2 Pharmacodynamics
@@ -43,7 +43,7 @@ Amiodarone exhibits complex disposition characteristics after intravenous admini
 Peak serum concentrations after single 5 mg/kg 15-minute intravenous infusions in healthy subjects range between 5 and 41 mg/L.
 Peak concentrations after 10-minute infusions of 150 mg intravenous amiodarone in patients with ventricular fibrillation (VF) or hemodynamically unstable ventricular tachycardia (VT) range between 7 and 26 mg/L.
 Due to rapid distribution, serum concentrations decline to 10% of peak values within 30 to 45 minutes after the end of the infusion.
-In clinical trials, after 48 hours of continued infusions (125, 500 or 1000 mg/day) plus supplemental (150 mg) infusions (for recurrent arrhythmias), amiodarone mean serum concentrations between 0.7 to 1.4 mg/L were observed (n=260).
+In clinical trials, after 48 hours of continued infusions (125, 500 or 1000 mg/day) plus supplemental (150 mg) infusions (for recurrent arrhythmias), amiodarone mean serum concentrations between 0.7 to 1.4 mg/L were observed (n = 260).
 
 Metabolism:
 
@@ -55,7 +55,7 @@ The highly variable systemic availability of oral amiodarone may be attributed t
 
 Distribution/Elimination:
 
-From in vitro studies, the protein binding of amiodarone is >96%.
+From in vitro studies, the protein binding of amiodarone is > 96%.
 Amiodarone and DEA cross the placenta and both appear in breast milk.
 Neither amiodarone nor DEA is dialyzable.
 
