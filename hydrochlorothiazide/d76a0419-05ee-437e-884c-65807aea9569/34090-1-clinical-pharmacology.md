@@ -8,7 +8,7 @@ Valsartan blocks the vasoconstrictor and aldosterone-secreting effects of angiot
 Its action is therefore independent of the pathways for angiotensin II synthesis.
 
 There is also an AT2 receptor found in many tissues, but AT2 is not known to be associated with cardiovascular homeostasis.
-Valsartan has much greater affinity (about 20,000-fold) for the AT1 receptor than for the AT2 receptor.
+Valsartan has much greater affinity (about 20000-fold) for the AT1 receptor than for the AT2 receptor.
 The primary metabolite of valsartan is essentially inactive with an affinity for the AT1 receptor about one 200th that of valsartan itself.
 
 Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is widely used in the treatment of hypertension.
@@ -75,7 +75,7 @@ Metabolism
 Valsartan: The primary metabolite, accounting for about 9% of dose, is valeryl 4-hydroxy valsartan.
 In vitro metabolism studies involving recombinant CYP 450 enzymes indicated that the CYP 2C9 isoenzyme is responsible for the formation of valeryl-4-hydroxy valsartan.
 Valsartan does not inhibit CYP 450 isozymes at clinically relevant concentrations.
-CYP 450 mediated drug interaction between valsartan and co-administered drugs are unlikely because of the low extent of metabolism.
+CYP 450 mediated drug interaction between valsartan and coadministered drugs are unlikely because of the low extent of metabolism.
 
 Hydrochlorothiazide: Is not metabolized.
 
@@ -93,7 +93,7 @@ Special Populations
 Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
 A limited amount of data suggest that the systemic clearance of hydrochlorothiazide is reduced in both healthy and hypertensive elderly subjects compared to young healthy volunteers.
 
-Gender: Pharmacokinetics of valsartan does not differ significantly between males and females.
+Gender: Pharmacokinetics of valsartan do not differ significantly between males and females.
 
 Race: Pharmacokinetic differences due to race have not been studied.
 
@@ -101,7 +101,7 @@ Renal Insufficiency: There is no apparent correlation between renal function (me
 Valsartan has not been studied in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
 Valsartan is not removed from the plasma by hemodialysis.
 
-In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was doubled in individuals with mild/moderate renal impairment (30 < CLcr < 90 mL/min) and tripled in severe renal impairment (≤ 30 mL/min), compared to individuals with normal renal function (CLcr > 90 mL/min) [see Use in Specific Populations (8.6)].
+In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was doubled in individuals with mild/moderate renal impairment (30 < CrCl < 90 mL/min) and tripled in severe renal impairment (≤ 30 mL/min), compared to individuals with normal renal function (CrCl > 90 mL/min) [see Use in Specific Populations (8.6)].
 
 Hepatic Insufficiency: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight) [see Use in Specific Populations (8.7)].
 
@@ -109,10 +109,10 @@ Drug Interactions
 
 Hydrochlorothiazide:
 
-Drugs that alter gastrointestinal motility: The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g. atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate.
+Drugs that alter gastrointestinal motility: The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g., atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate.
 Conversely, pro-kinetic drugs may decrease the bioavailability of thiazide diuretics.
 
 Cholestyramine: In a dedicated drug interaction study, administration of cholestyramine 2 hours before hydrochlorothiazide resulted in a 70% reduction in exposure to hydrochlorothiazide.
 Further, administration of hydrochlorothiazide 2 hours before cholestyramine resulted in 35% reduction in exposure to hydrochlorothiazide.
 
-Antineoplastic agents (e.g. cyclophosphamide, methotrexate): Concomitant use of thiazide diuretics may reduce renal excretion of cytotoxic agents and enhance their myelosuppressive effects.
+Antineoplastic agents (e.g., cyclophosphamide, methotrexate): Concomitant use of thiazide diuretics may reduce renal excretion of cytotoxic agents and enhance their myelosuppressive effects.

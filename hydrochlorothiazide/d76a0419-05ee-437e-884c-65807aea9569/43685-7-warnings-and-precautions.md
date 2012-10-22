@@ -23,9 +23,9 @@ A transient hypotensive response is not a contraindication to further treatment,
 ## 5.3 Impaired Renal Function
 
 Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.
-Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g. patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on Diovan HCT.
+Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on Diovan HCT.
 Monitor renal function periodically in these patients.
-Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Diovan HCT.
+Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Diovan HCT [see Drug Interactions (7)].
 
 ## 5.4 Hypersensitivity Reaction
 

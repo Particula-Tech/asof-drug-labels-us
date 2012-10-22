@@ -6,11 +6,11 @@ These benefits have been seen in controlled trials of antihypertensive drugs fro
 There are no controlled trials demonstrating risk reduction with Diovan HCT.
 
 Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake.
-Many patients will require more than one drug to achieve blood pressure goals.
+Many patients will require more than 1 drug to achieve blood pressure goals.
 For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program’s Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC).
 
 Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits.
-The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly.
+The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality have also been seen regularly.
 
 Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit.
 Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal.
@@ -33,7 +33,7 @@ Diovan HCT may be used as initial therapy in patients who are likely to need mul
 The choice of Diovan HCT as initial therapy for hypertension should be based on an assessment of potential benefits and risks.
 
 Patients with stage 2 hypertension are at a relatively high risk for cardiovascular events (such as strokes, heart attacks, and heart failure), kidney failure, and vision problems, so prompt treatment is clinically relevant.
-The decision to use a combination as initial therapy should be individualized and should be shaped by considerations such as baseline blood pressure, the target goal and the incremental likelihood of achieving goal with a combination compared to monotherapy.
+The decision to use a combination as initial therapy should be individualized and should be shaped by considerations such as baseline blood pressure, the target goal, and the incremental likelihood of achieving goal with a combination compared to monotherapy.
 Individual blood pressure goals may vary based upon the patient’s risk.
 
 Data from the high dose multifactorial trial [see Clinical Studies (14.1)] provides estimates of the probability of reaching a target blood pressure with Diovan HCT compared to valsartan or hydrochlorothiazide monotherapy.

@@ -18,15 +18,15 @@ If you have any questions about DIOVAN HCT, ask your doctor or pharmacist.
 
 What is DIOVAN HCT?
 
-DIOVAN HCT contains two prescription medicines:
+DIOVAN HCT contains 2 prescription medicines:
 
 1. valsartan, an angiotensin receptor blocker (ARB)
 2. hydrochlorothiazide (HCTZ), a water pill (diuretic)
 
 DIOVAN HCT may be used to lower high blood pressure (hypertension) in adults-
 
-- when one medicine to lower your high blood pressure is not enough
-- as the first medicine to lower high blood pressure if your doctor decides you are likely to need more than one medicine.
+- when 1 medicine to lower your high blood pressure is not enough.
+- as the first medicine to lower high blood pressure if your doctor decides you are likely to need more than 1 medicine.
 
 DIOVAN HCT has not been studied in children under 18 years of age.
 
@@ -36,7 +36,7 @@ Do not take DIOVAN HCT if you:
 
 - are allergic to any of the ingredients in DIOVAN HCT.
   See the end of this leaflet for a complete list of ingredients in DIOVAN HCT.
-- make less urine due to kidney problems
+- make less urine due to kidney problems.
 - are allergic to medicines that contain sulfonamides.
 
 What should I tell my doctor before taking DIOVAN HCT?
@@ -45,9 +45,9 @@ Tell your doctor about all your medical conditions including if you:
 
 - are pregnant or plan to become pregnant.
   See “What is the most important information I should know about DIOVAN HCT?”
-- are breast-feeding.
+- are breastfeeding.
   DIOVAN HCT passes into breast milk.
-  You should choose either to take DIOVAN HCT or breast-feed, but not both.
+  You should choose either to take DIOVAN HCT or breastfeed, but not both.
 - have liver problems
 - have kidney problems
 - have or had gallstones
@@ -79,7 +79,7 @@ Especially, tell your doctor if you take:
 - certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
   These drugs may increase the effect of valsartan.
 
-Ask your doctor if you are not sure if you are taking one of these medicines.
+Ask your doctor if you are not sure if you are taking 1 of these medicines.
 
 Know the medicines you take.
 Keep a list of your medicines with you to show to your doctor and pharmacist when a new medicine is prescribed.
@@ -123,7 +123,7 @@ Call your doctor right away.
 - Allergic reactions.
   People with and without allergy problems or asthma who take DIOVAN HCT may get allergic reactions.
 - Worsening of Lupus.
-  Hydrochlorothiazide, one of the medicines in DIOVAN HCT may cause Lupus to become active or worse.
+  Hydrochlorothiazide, 1 of the medicines in DIOVAN HCT may cause Lupus to become active or worse.
 - Fluid and electrolyte (salt) problems.
   Tell your doctor about any of the following signs and symptoms of fluid and electrolyte problems:
 
@@ -200,4 +200,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2012-144/T2012-145 July 2012/July 2012
+T2012-187 October 2012

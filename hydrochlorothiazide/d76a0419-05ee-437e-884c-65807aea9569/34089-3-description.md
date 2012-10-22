@@ -15,5 +15,5 @@ Hydrochlorothiazide is chemically described as 6-chloro-3,4-dihydro-2H-1,2,4-ben
 Hydrochlorothiazide is a thiazide diuretic.
 Its empirical formula is C7H8ClN3O4S2, its molecular weight is 297.73, and its structural formula is
 
-Diovan HCT tablets are formulated for oral administration to contain valsartan and hydrochlorothiazide, USP 80/12.5 mg, 160/12.5 mg, 160/25 mg, 320/12.5 mg and 320/25 mg.
+Diovan HCT tablets are formulated for oral administration to contain valsartan and hydrochlorothiazide, USP 80/12.5 mg, 160/12.5 mg, 160/25 mg, 320/12.5 mg, and 320/25 mg.
 The inactive ingredients of the tablets are colloidal silicon dioxide, crospovidone, hydroxypropyl methylcellulose, iron oxides, magnesium stearate, microcrystalline cellulose, polyethylene glycol, talc, and titanium dioxide.

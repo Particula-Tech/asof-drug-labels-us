@@ -26,7 +26,7 @@ Hydrochlorothiazide, like other diuretics, can cause placental hypoperfusion.
 It accumulates in the amniotic fluid, with reported concentrations up to 19 times higher than in umbilical vein plasma.
 Use of thiazides during pregnancy is associated with a risk of fetal or neonatal jaundice or thrombocytopenia.
 Since they do not prevent or alter the course of EPH (Edema, Proteinuria, Hypertension) gestosis (pre-eclampsia), these drugs should not be used to treat hypertension in pregnant women.
-The use of hydrochlorothiazide for other indications (e.g. heart disease) in pregnancy should be avoided.
+The use of hydrochlorothiazide for other indications (e.g., heart disease) in pregnancy should be avoided.
 
 ## 8.3 Nursing Mothers
 

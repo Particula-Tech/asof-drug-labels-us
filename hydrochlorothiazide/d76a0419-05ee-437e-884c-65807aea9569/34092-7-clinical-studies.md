@@ -2,23 +2,23 @@
 
 ## 14.1 Hypertension
 
-Valsartan-Hydrochlorothiazide: In controlled clinical trials including over 7600 patients, 4372 patients were exposed to valsartan (80, 160 and 320 mg) and concomitant hydrochlorothiazide (12.5 and 25 mg).
-Two factorial trials compared various combinations of 80/12.5 mg, 80/25 mg, 160/12.5 mg, 160/25 mg, 320/12.5 mg and 320/25 mg with their respective components and placebo.
-The combination of valsartan and hydrochlorothiazide resulted in additive placebo-adjusted decreases in systolic and diastolic blood pressure at trough of 14-21/8-11 mmHg at 80/12.5 mg to 320/25 mg, compared to 7-10/4-5 mmHg for valsartan 80 mg to 320 mg and 5-11/2-5 mmHg for hydrochlorothiazide 12.5 mg to 25 mg, alone.
+Valsartan-Hydrochlorothiazide: In controlled clinical trials including over 7600 patients, 4372 patients were exposed to valsartan (80, 160, and 320 mg) and concomitant hydrochlorothiazide (12.5 and 25 mg).
+Two factorial trials compared various combinations of 80/12.5 mg, 80/25 mg, 160/12.5 mg, 160/25 mg, 320/12.5 mg, and 320/25 mg with their respective components and placebo.
+The combination of valsartan and hydrochlorothiazide resulted in additive placebo-adjusted decreases in systolic and diastolic blood pressure at trough of 14-21/8-11 mmHg at 80/12.5 mg to 320/25 mg, compared to 7-10/4-5 mmHg for valsartan 80 mg to 320 mg, and 5-11/2-5 mmHg for hydrochlorothiazide 12.5 mg to 25 mg alone.
 
 Three other controlled trials investigated the addition of hydrochlorothiazide to patients who did not respond adequately to valsartan 80 mg to valsartan 320 mg, resulted in the additional lowering of systolic and diastolic blood pressure by approximately 4-12/2-5 mmHg.
 
 The maximal antihypertensive effect was attained 4 weeks after the initiation of therapy, the first time point at which blood pressure was measured in these trials.
 
-In long-term follow-up studies (without placebo control) the effect of the combination of valsartan and hydrochlorothiazide appeared to be maintained for up to two years.
+In long-term follow-up studies (without placebo control) the effect of the combination of valsartan and hydrochlorothiazide appeared to be maintained for up to 2 years.
 The antihypertensive effect is independent of age or gender.
-The overall response to the combination was similar for Black and non-Black patients.
+The overall response to the combination was similar for black and non-black patients.
 
 There was essentially no change in heart rate in patients treated with the combination of valsartan and hydrochlorothiazide in controlled trials.
 
 There are no trials of the Diovan HCT combination tablet demonstrating reductions in cardiovascular risk in patients with hypertension, but the hydrochlorothiazide component and several ARBs, which are the same pharmacological class as the valsartan component, have demonstrated such benefits.
 
-Valsartan: The antihypertensive effects of valsartan were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (one in patients over 65) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95-115.
+Valsartan: The antihypertensive effects of valsartan were demonstrated principally in 7 placebo-controlled, 4- to 12-week trials (1 in patients over 65) of dosages from 10 to 320 mg/day in patients with baseline diastolic blood pressures of 95-115.
 The studies allowed comparison of once-daily and twice-daily regimens of 160 mg/day; comparison of peak and trough effects; comparison (in pooled data) of response by gender, age, and race; and evaluation of incremental effects of hydrochlorothiazide.
 
 Administration of valsartan to patients with essential hypertension results in a significant reduction of sitting, supine, and standing systolic and diastolic blood pressure, usually with little or no orthostatic change.
@@ -27,10 +27,10 @@ In most patients, after administration of a single oral dose, onset of antihyper
 The antihypertensive effect persists for 24 hours after dosing, but there is a decrease from peak effect at lower doses (40 mg) presumably reflecting loss of inhibition of angiotensin II.
 At higher doses, however (160 mg), there is little difference in peak and trough effect.
 During repeated dosing, the reduction in blood pressure with any dose is substantially present within 2 weeks, and maximal reduction is generally attained after 4 weeks.
-In long-term follow-up studies (without placebo control) the effect of valsartan appeared to be maintained for up to two years.
+In long-term follow-up studies (without placebo control) the effect of valsartan appeared to be maintained for up to 2 years.
 The antihypertensive effect is independent of age, gender or race.
-The latter finding regarding race is based on pooled data and should be viewed with caution, because antihypertensive drugs that affect the renin-angiotensin system (that is, ACE inhibitors and angiotensin II blockers) have generally been found to be less effective in low-renin hypertensives (frequently Blacks) than in high-renin hypertensives (frequently Whites).
-In pooled, randomized, controlled trials of Diovan that included a total of 140 Blacks and 830 Whites, valsartan and an ACE-inhibitor control were generally at least as effective in Blacks as Whites.
+The latter finding regarding race is based on pooled data and should be viewed with caution, because antihypertensive drugs that affect the renin-angiotensin system (that is, ACE inhibitors and angiotensin II blockers) have generally been found to be less effective in low-renin hypertensives (frequently blacks) than in high-renin hypertensives (frequently whites).
+In pooled, randomized, controlled trials of Diovan that included a total of 140 blacks and 830 whites, valsartan and an ACE-inhibitor control were generally at least as effective in blacks as whites.
 The explanation for this difference from previous findings is unclear.
 
 Abrupt withdrawal of valsartan has not been associated with a rapid increase in blood pressure.
@@ -54,8 +54,8 @@ Patients were force-titrated at 2-week intervals.
 Patients on combination therapy were subsequently titrated to 160/25 mg followed by 320/25 mg valsartan/hydrochlorothiazide.
 Patients on monotherapy were subsequently titrated to 320 mg valsartan followed by a titration to 320 mg valsartan to maintain the blind.
 
-The study randomized 608 patients, including 261 (43%) females, 147 (24%) Blacks, and 75 (12%) ≥65 years of age.
+The study randomized 608 patients, including 261 (43%) females, 147 (24%) blacks, and 75 (12%) ≥65 years of age.
 The mean blood pressure at baseline for the total population was 168/112 mmHg.
 The mean age was 52 years.
 After 4 weeks of therapy, reductions in systolic and diastolic blood pressure were 9/5 mmHg greater in the group treated with Diovan HCT compared to valsartan.
-Similar trends were seen when the patients were grouped according to gender, race or age.
+Similar trends were seen when the patients were grouped according to gender, race, or age.

@@ -12,3 +12,5 @@ The patients should be told that if syncope occurs, Diovan HCT should be discont
 All patients should be cautioned that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope.
 
 Potassium Supplements: A patient receiving Diovan HCT should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician.
+
+T2012-186 October 2012

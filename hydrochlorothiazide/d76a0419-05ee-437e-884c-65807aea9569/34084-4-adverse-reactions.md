@@ -7,7 +7,7 @@ The adverse reaction information from clinical trials does, however, provide a b
 
 Hypertension
 
-Diovan HCT (valsartan and hydrochlorothiazide, USP) has been evaluated for safety in more than 5,700 patients, including over 990 treated for over 6 months, and over 370 for over 1 year.
+Diovan HCT (valsartan and hydrochlorothiazide, USP) has been evaluated for safety in more than 5700 patients, including over 990 treated for over 6 months, and over 370 for over 1 year.
 Adverse experiences have generally been mild and transient in nature and have only infrequently required discontinuation of therapy.
 The overall incidence of adverse reactions with Diovan HCT was comparable to placebo.
 
@@ -30,7 +30,7 @@ Gastrointestinal: Dyspepsia, diarrhea, flatulence, dry mouth, nausea, abdominal 
 
 General and Administration Site Conditions: Asthenia, chest pain, fatigue, peripheral edema and pyrexia
 
-Infections and Infestations: Bronchitis, bronchitis acute, influenza, gastroenteritis, sinusitis, upper respiratory tract infection and urinary tract infection
+Infections and Infestations: Bronchitis, bronchitis acute, influenza, gastroenteritis, sinusitis, upper respiratory tract infection, and urinary tract infection
 
 Investigations: Blood urea increased
 
@@ -44,7 +44,7 @@ Renal and Urinary: Pollakiuria
 
 Reproductive System: Erectile dysfunction
 
-Respiratory, Thoracic and Mediastinal: Dyspnea, cough, nasal congestion, pharyngolaryngeal pain and sinus congestion
+Respiratory, Thoracic and Mediastinal: Dyspnea, cough, nasal congestion, pharyngolaryngeal pain, and sinus congestion
 
 Skin and Subcutaneous Tissue: Hyperhidrosis and rash
 
@@ -54,7 +54,7 @@ Other reported reactions seen less frequently in clinical trials included abnorm
 
 Initial Therapy - Hypertension
 
-In a clinical study in patients with severe hypertension (diastolic blood pressure ≥110 mmHg and systolic blood pressure ≥140 mmHg), the overall pattern of adverse reactions reported through six weeks of follow-up was similar in patients treated with Diovan HCT as initial therapy and in patients treated with valsartan as initial therapy.
+In a clinical study in patients with severe hypertension (diastolic blood pressure ≥110 mmHg and systolic blood pressure ≥140 mmHg), the overall pattern of adverse reactions reported through 6 weeks of follow-up was similar in patients treated with Diovan HCT as initial therapy and in patients treated with valsartan as initial therapy.
 Comparing the groups treated with Diovan HCT (force-titrated to 320/25 mg) and valsartan (force-titrated to 320 mg), dizziness was observed in 6% and 2% of patients, respectively.
 Hypotension was observed in 1% of those patients receiving Diovan HCT and 0% of patients receiving valsartan.
 There were no reported cases of syncope in either treatment group.
@@ -67,37 +67,37 @@ Other reported reactions seen less frequently in clinical trials included chest 
 
 Hydrochlorothiazide: Other adverse reactions not listed above that have been reported with hydrochlorothiazide, without regard to causality, are listed below:
 
-Body As A Whole: weakness;
+Body As A Whole: weakness
 
-Digestive: pancreatitis, jaundice (intrahepatic cholestatic jaundice), sialadenitis, cramping, gastric irritation;
+Digestive: pancreatitis, jaundice (intrahepatic cholestatic jaundice), sialadenitis, cramping, gastric irritation
 
-Hematologic: aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia;
+Hematologic: aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia
 
-Hypersensitivity: purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), fever, respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions;
+Hypersensitivity: purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), fever, respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions
 
-Metabolic: hyperglycemia, glycosuria, hyperuricemia;
+Metabolic: hyperglycemia, glycosuria, hyperuricemia
 
-Musculoskeletal: muscle spasm;
+Musculoskeletal: muscle spasm
 
-Nervous System/Psychiatric: restlessness;
+Nervous System/Psychiatric: restlessness
 
-Renal: renal failure, renal dysfunction, interstitial nephritis;
+Renal: renal failure, renal dysfunction, interstitial nephritis
 
-Skin: erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis;
+Skin: erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis
 
-Special Senses: transient blurred vision, xanthopsia.
+Special Senses: transient blurred vision, xanthopsia
 
 Clinical Laboratory Test Findings
 
 In controlled clinical trials, clinically important changes in standard laboratory parameters were rarely associated with administration of Diovan HCT.
 
-Creatinine/Blood Urea Nitrogen (BUN): Minor elevations in creatinine and BUN occurred in 2% and 15% respectively, of patients taking Diovan HCT and 0.4% and 6% respectively, given placebo in controlled clinical trials.
+Creatinine/Blood Urea Nitrogen (BUN): Minor elevations in creatinine and BUN occurred in 2% and 15% respectively, of patients taking Diovan HCT and 0.4% and 6% respectively, given placebo in controlled clinical trials
 
-Hemoglobin and Hematocrit: Greater than 20% decreases in hemoglobin and hematocrit were observed in less than 0.1% of Diovan HCT patients, compared with 0% in placebo-treated patients.
+Hemoglobin and Hematocrit: Greater than 20% decreases in hemoglobin and hematocrit were observed in less than 0.1% of Diovan HCT patients, compared with 0% in placebo-treated patients
 
-Liver Function Tests: Occasional elevations (greater than 150%) of liver chemistries occurred in Diovan HCT-treated patients.
+Liver Function Tests: Occasional elevations (greater than 150%) of liver chemistries occurred in Diovan HCT-treated patients
 
-Neutropenia: Neutropenia was observed in 0.1% of patients treated with Diovan HCT and 0.4% of patients treated with placebo.
+Neutropenia: Neutropenia was observed in 0.1% of patients treated with Diovan HCT and 0.4% of patients treated with placebo
 
 ## 6.2 Postmarketing Experience
 
@@ -126,7 +126,7 @@ Hydrochlorothiazide:
 
 The following additional adverse reactions have been reported in post-marketing experience with hydrochlorothiazide:
 
-Acute renal failure, renal disorder, aplastic anemia, erythema multiforme, pyrexia, muscle spasm, asthenia, acute angle-closure glaucoma, bone marrow failure, worsening of diabetes control, hypokalemia, blood lipids increased, hyponatremia, hypomagnesemia, hypercalcemia, hypochloremic alkalosis, impotence, visual impairment.
+Acute renal failure, renal disorder, aplastic anemia, erythema multiforme, pyrexia, muscle spasm, asthenia, acute angle-closure glaucoma, bone marrow failure, worsening of diabetes control, hypokalemia, blood lipids increased, hyponatremia, hypomagnesemia, hypercalcemia, hypochloremic alkalosis, impotence, and visual impairment.
 
 Pathological changes in the parathyroid gland of patients with hypercalcemia and hypophosphatemia have been observed in a few patients on prolonged thiazide therapy.
 If hypercalcemia occurs, further diagnostic evaluation is necessary.
