@@ -18,15 +18,15 @@ If you have any questions about EXFORGE, ask your doctor or pharmacist.
 
 What is EXFORGE?
 
-EXFORGE contains two prescription medicines:
+EXFORGE contains 2 prescription medicines:
 
 1. amlodipine, a calcium channel blocker
 2. valsartan, an angiotensin receptor blocker (ARB).
 
 EXFORGE may be used to lower high blood pressure (hypertension) in adults
 
-- when one medicine to lower your high blood pressure is not enough
-- as the first medicine to lower high blood pressure if your doctor decides you are likely to need more than one medicine.
+- when 1 medicine to lower your high blood pressure is not enough
+- as the first medicine to lower high blood pressure if your doctor decides you are likely to need more than 1 medicine.
 
 EXFORGE has not been studied in children under 18 years of age.
 
@@ -36,24 +36,33 @@ Tell your doctor about all of your medical conditions, including if you:
 
 - are pregnant or plan to become pregnant.
   See “What is the most important information I should know about EXFORGE?”
-- are breast-feeding or plan to breast-feed.
+- are breastfeeding or plan to breastfeed.
   EXFORGE may pass into your milk.
-  Do not breast-feed while you are taking EXFORGE.
+  Do not breastfeed while you are taking EXFORGE.
 - have heart problems
 - have liver problems
 - have kidney problems
 - are vomiting or having a lot of diarrhea
+- have ever had a reaction called angioedema, to another blood pressure medicine.
+  Angioedema causes swelling of the face, lips, tongue, throat, and may cause difficulty breathing.
 
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Some of your other medicines and EXFORGE could affect each other, causing serious side effects.
 
 Especially tell your doctor if you take:
 
+- simvastatin or other cholesterol lowering medicine
 - other medicines for high blood pressure or a heart problem
 - water pills (diuretics)
-- potassium supplements
-- a salt substitute
+- potassium supplements.
+  Your doctor may check the amount of potassium in your blood periodically.
+- a salt substitute.
+  Your doctor may check the amount of potassium in your blood periodically.
 - nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen)
+- medicines used to prevent and treat fungal skin infections (such as Ketoconazole, itraconazole)
+- medicines used to treat bacterial infections (such as clarithromycin, telithromycin)
+- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
+  These drugs may increase the effect of valsartan.
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your doctor or pharmacist when you get a new medicine.
@@ -69,7 +78,9 @@ How should I take EXFORGE?
   If it is close to your next dose, do not take the missed dose.
   Just take the next dose at your regular time.
 - If you take too much EXFORGE, call your doctor or Poison Control Center, or go to the emergency room.
-- Tell all your doctors or dentist you are taking EXFORGE if you: ○ are going to have surgery ○ go for kidney dialysis
+- Tell all your doctors or dentist you are taking EXFORGE if you:
+  - are going to have surgery
+  - go for kidney dialysis
 
 What should I avoid while taking EXFORGE?
 
@@ -84,12 +95,12 @@ EXFORGE may cause serious side effects including:
   See “What is the most important information I should know about EXFORGE?”
 - low blood pressure (hypotension).
   Low blood pressure is most likely to happen if you:
-- take water pills
-- are on a low salt diet
-- get dialysis treatments
-- have heart problems
-- get sick with vomiting or diarrhea
-- drink alcohol
+  - take water pills
+  - are on a low-salt diet
+  - get dialysis treatments
+  - have heart problems
+  - get sick with vomiting or diarrhea
+  - drink alcohol
 
 Lie down if you feel faint or dizzy.
 Call your doctor right away.
@@ -102,13 +113,13 @@ Call your doctor right away.
   Some people will have changes in blood tests for kidney function and may need a lower dose of EXFORGE.
   Call your doctor if you have swelling in your feet, ankles, or hands or unexplained weight gain.
   If you have heart failure, your doctor should check your kidney function before prescribing EXFORGE.
-- laboratory blood test changes in people with congestive heart failure.
-  Some people with congestive heart failure who take valsartan, one of the medicines in EXFORGE, have changes in blood tests including increased potassium and decreased kidney function.
+- laboratory blood test changes in people with heart failure.
+  Some people with heart failure who take valsartan, 1 of the medicines in EXFORGE, have changes in blood tests including increased potassium and decreased kidney function.
 
 The most common side effects of EXFORGE include:
 
 - swelling (edema) of the hands, ankles, or feet
-- nasal congestion, sore throat and discomfort when swallowing
+- nasal congestion, sore throat, and discomfort when swallowing
 - upper respiratory tract infection (head or chest cold)
 - dizziness
 
@@ -143,9 +154,9 @@ What are the ingredients in EXFORGE?
 
 Active ingredients: Amlodipine besylate and valsartan
 
-The inactive ingredients of all strengths of the tablets are colloidal silicon dioxide, crospovidone, magnesium stearate and microcrystalline cellulose.
+The inactive ingredients of all strengths of the tablets are colloidal silicon dioxide, crospovidone, magnesium stearate, and microcrystalline cellulose.
 Additionally, the 5/320 mg and 10/320 mg strengths contain iron oxide yellow and sodium starch glycolate.
-The film coating contains hypromellose, iron oxides, polyethylene glycol, talc and titanium dioxide.
+The film coating contains hypromellose, iron oxides, polyethylene glycol, talc, and titanium dioxide.
 
 What is high blood pressure (hypertension)?
 
@@ -155,7 +166,7 @@ EXFORGE can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower blood pressure lower your chance of having a stroke or heart attack.
 
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to blood vessels.
-If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure and vision problems.
+If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure, and vision problems.
 
 *Norvasc® is a registered trademark of Pfizer, Inc.
 
@@ -169,4 +180,4 @@ East Hanover, New Jersey 07936
 
 ©Novartis
 
-T2012-35/T2012-36 January 2012/January 2012
+T2012-189 September 2012

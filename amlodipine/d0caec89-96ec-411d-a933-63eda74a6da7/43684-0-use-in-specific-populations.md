@@ -18,8 +18,7 @@ If oligohydramnios is observed, discontinue Exforge, unless it is considered lif
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
 
-Closely observe infants with histories of in utero exposure to Exforge for hypotension, oliguria, and hyperkalemia.
-[see Use in Specific Populations (8.4)]
+Closely observe infants with histories of in utero exposure to Exforge for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.4)].
 
 ## 8.2 Labor and Delivery
 
@@ -51,7 +50,23 @@ No overall differences in the efficacy or safety of Exforge was observed in this
 Amlodipine: Clinical studies of amlodipine besylate tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
-Elderly patients have decreased clearance of amlodipine with a resulting increase of AUC of approximately 40-60%, and a lower initial dose may be required [see Dosage and Administration (2.1)].
+Elderly patients have decreased clearance of amlodipine with a resulting increase of AUC of approximately 40-60%, and a lower initial dose may be required.
 
-Valsartan: In the controlled clinical trials of valsartan, 1,214 (36.2%) of hypertensive patients treated with valsartan were ≥65 years and 265 (7.9%) were ≥75 years.
+Valsartan: In the controlled clinical trials of valsartan, 1214 (36.2%) of hypertensive patients treated with valsartan were ≥65 years and 265 (7.9%) were ≥75 years.
 No overall difference in the efficacy or safety of valsartan was observed in this patient population, but greater sensitivity of some older individuals cannot be ruled out.
+
+## 8.6 Renal Impairment
+
+Safety and effectiveness of Exforge in patients with severe renal impairment (CrCl< 30 mL/min) have not been established.
+No dose adjustment is required in patients with mild (60-90 mL/min) or moderate (CrCl 30-60) renal impairment.
+
+## 8.7 Hepatic Impairment
+
+Amlodipine
+
+Exposure to amlodipine is increased in patients with hepatic insufficiency, thus consider using lower doses of Exforge [see Clinical Pharmacology (12.3)].
+
+Valsartan
+
+No dose adjustment is necessary for patients with mild-to-moderate disease.
+No dosing recommendations can be provided for patients with severe liver disease.

@@ -2,25 +2,13 @@
 
 ## 2.1 General Considerations
 
-Amlodipine is an effective treatment of hypertension in once daily doses of 2.5 mg to 10 mg while valsartan is effective in doses of 80 mg to 320 mg.
-In clinical trials with once daily Exforge (amlodipine and valsartan) using amlodipine doses of 5 mg to 10 mg and valsartan doses of 160 mg to 320 mg, the antihypertensive effects increased with increasing doses.
-
-The hazards [see Warnings and Precautions(5)] of valsartan are generally independent of dose; those of amlodipine are a mixture of dose-dependent phenomena (primarily peripheral edema) and dose-independent phenomena, the former much more common than the latter [see Adverse Reactions (6)].
-
+Dose once daily.
+The dosage can be increased after 1 to 2 weeks of therapy to a maximum of one 10/320mg tablet once daily as needed to control blood pressure.
 The majority of the antihypertensive effect is attained within 2 weeks after initiation of therapy or a change in dose.
-The dosage can be increased after 1 to 2 weeks of therapy to a maximum of one 10/320 mg tablet once daily as needed to control blood pressure [see Clinical Studies (14)].
 
 Exforge may be administered with or without food.
 
 Exforge may be administered with other antihypertensive agents.
-
-Elderly patients: Because of decreased clearance of amlodipine, therapy should usually be initiated at 2.5 mg.
-
-Renal Impairment: No initial dosage adjustment is required for patients with mild or moderate renal impairment.
-Titrate slowly in patients with severe renal impairment.
-
-Hepatic Impairment: No initial dosage adjustment is required for patients with mild or moderate liver insufficiency.
-Titrate slowly in patients with hepatic impairment.
 
 ## 2.2 Add-on Therapy
 

@@ -42,7 +42,7 @@ Following administration of therapeutic doses to patients with hypertension, aml
 These decreases in blood pressure are not accompanied by a significant change in heart rate or plasma catecholamine levels with chronic dosing.
 Although the acute intravenous administration of amlodipine decreases arterial blood pressure and increases heart rate in hemodynamic studies of patients with chronic stable angina, chronic oral administration of amlodipine in clinical trials did not lead to clinically significant changes in heart rate or blood pressures in normotensive patients with angina.
 
-With chronic once daily administration, antihypertensive effectiveness is maintained for at least 24 hours.
+With chronic, once-daily administration, antihypertensive effectiveness is maintained for at least 24 hours.
 Plasma concentrations correlate with effect in both young and elderly patients.
 The magnitude of reduction in blood pressure with amlodipine is also correlated with the height of pretreatment elevation; thus, individuals with moderate hypertension (diastolic pressure 105-114 mmHg) had about a 50% greater response than patients with mild hypertension (diastolic pressure 90-104 mmHg).
 Normotensive subjects experienced no clinically significant change in blood pressure (+1/-2 mmHg).
@@ -50,13 +50,13 @@ Normotensive subjects experienced no clinically significant change in blood pres
 In hypertensive patients with normal renal function, therapeutic doses of amlodipine resulted in a decrease in renal vascular resistance and an increase in glomerular filtration rate and effective renal plasma flow without change in filtration fraction or proteinuria.
 
 As with other calcium channel blockers, hemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with amlodipine have generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume.
-In hemodynamic studies, amlodipine has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when co-administered with beta-blockers to man.
+In hemodynamic studies, amlodipine has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when coadministered with beta-blockers to man.
 Similar findings, however, have been observed in normals or well-compensated patients with heart failure with agents possessing significant negative inotropic effects.
 
-Amlodipine does not change sinoatrial nodal function or atrioventricular conduction in intact animals or man.
+Amlodipine does not change sinoatrial nodal function or atrioventricular (AV) conduction in intact animals or man.
 In patients with chronic stable angina, intravenous administration of 10 mg did not significantly alter A-H and H-V conduction and sinus node recovery time after pacing.
 Similar results were obtained in patients receiving amlodipine and concomitant beta-blockers.
-In clinical studies in which amlodipine was administered in combination with beta-blockers to patients with either hypertension or angina, no adverse effects of electrocardiographic parameters were observed.
+In clinical studies in which amlodipine was administered in combination with beta-blockers to patients with either hypertension or angina, no adverse effects of electrocardiographic (ECG) parameters were observed.
 In clinical trials with angina patients alone, amlodipine therapy did not alter electrocardiographic intervals or produce higher degrees of AV blocks.
 
 Amlodipine has indications other than hypertension which can be found in the Norvasc* package insert.
@@ -105,12 +105,12 @@ Food decreases the exposure (as measured by AUC) to valsartan by about 40% and p
 The steady state volume of distribution of valsartan after intravenous administration is 17 L indicating that valsartan does not distribute into tissues extensively.
 Valsartan is highly bound to serum proteins (95%), mainly serum albumin.
 
-Valsartan shows bi-exponential decay kinetics following intravenous administration with an average elimination half-life of about 6 hours.
+Valsartan shows biexponential decay kinetics following intravenous administration with an average elimination half-life of about 6 hours.
 The recovery is mainly as unchanged drug, with only about 20% of dose recovered as metabolites.
 The primary metabolite, accounting for about 9% of dose, is valeryl 4-hydroxy valsartan.
 In vitro metabolism studies involving recombinant CYP 450 enzymes indicated that the CYP 2C9 isoenzyme is responsible for the formation of valeryl-4-hydroxy valsartan.
 Valsartan does not inhibit CYP 450 isozymes at clinically relevant concentrations.
-CYP 450 mediated drug interaction between valsartan and co-administered drugs are unlikely because of the low extent of metabolism.
+CYP 450 mediated drug interaction between valsartan and coadministered drugs are unlikely because of the low extent of metabolism.
 
 Valsartan, when administered as an oral solution, is primarily recovered in feces (about 83% of dose) and urine (about 13% of dose).
 Following intravenous administration, plasma clearance of valsartan is about 2 L/h and its renal clearance is 0.62 L/h (about 30% of total clearance).
@@ -119,13 +119,13 @@ Exforge
 
 Following oral administration of Exforge in normal healthy adults, peak plasma concentrations of valsartan and amlodipine are reached in 3 and 6-8 hours, respectively.
 The rate and extent of absorption of valsartan and amlodipine from Exforge are the same as when administered as individual tablets.
-The bioavailabilities of amlodipine and valsartan are not altered by the co-administration of food.
+The bioavailabilities of amlodipine and valsartan are not altered by the coadministration of food.
 
 Special Populations
 
 Geriatric
 
-Studies with Amlodipine: Elderly patients have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40%-60%; therefore a lower initial dose of amlodipine may be required.
+Studies with Amlodipine: Elderly patients have decreased clearance of amlodipine with a resulting increase in peak plasma levels, elimination half-life and AUC.
 
 Studies with Valsartan: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
 No dosage adjustment is necessary.
@@ -137,7 +137,6 @@ Studies with Valsartan: Pharmacokinetics of valsartan does not differ significan
 Renal Insufficiency
 
 Studies with Amlodipine: The pharmacokinetics of amlodipine is not significantly influenced by renal impairment.
-Patients with renal failure may therefore receive the usual initial dose.
 
 Studies with Valsartan: There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment.
 Consequently, dose adjustment is not required in patients with mild-to-moderate renal dysfunction.
@@ -147,8 +146,34 @@ In the case of severe renal disease, exercise care with dosing of valsartan.
 
 Hepatic Insufficiency
 
-Studies with Amlodipine: Patients with hepatic insufficiency have decreased clearance of amlodipine with resulting increase in AUC of approximately 40%-60%; therefore, a lower initial dose of amlodipine may be required.
+Studies with Amlodipine: Patients with hepatic insufficiency have decreased clearance of amlodipine with resulting increase in AUC of approximately 40%-60%.
 
 Studies with Valsartan: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex and weight).
 In general, no dosage adjustment is needed in patients with mild-to-moderate liver disease.
 Care should be exercised in patients with liver disease.
+
+Drug Interactions
+
+In vitro data in human plasma indicate that amlodipine has no effect on the protein binding of digoxin, phenytoin, warfarin and indomethacin.
+
+Cimetidine: Coadministration of amlodipine with cimetidine did not alter the pharmacokinetics of amlodipine.
+
+Grapefruit juice: Coadministration of 240 mL of grapefruit juice with a single oral dose of amlodipine 10 mg in 20 healthy volunteers had no significant effect on the pharmacokinetics of amlodipine.
+
+Maalox® (antacid): Coadministration of the antacid Maalox with a single dose of amlodipine had no significant effect on the pharmacokinetics of amlodipine.
+
+Sildenafil: A single 100 mg dose of sildenafil (Viagra®**) in subjects with essential hypertension had no effect on the pharmacokinetic parameters of amlodipine.
+When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect.
+
+Atorvastatin: Coadministration of multiple 10 mg doses of amlodipine with 80 mg of atorvastatin resulted in no significant change in the steady state pharmacokinetic parameters of atorvastatin.
+
+Digoxin: Coadministration of amlodipine with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.
+
+Warfarin: Coadministration of amlodipine with warfarin did not change the warfarin prothrombin response time.
+
+Simvastatin: Coadministration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone.
+Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
+
+CYP3A4 Inhibitors: Coadministration of a 180 mg daily dose of diltiazem with 5 mg amlodpidine in elderly hypertensives patients resulted in a 60% increase in amlodipine systemic exposure.
+Erythromycin coadministration in healthy volunteers did not significantly change amlodipine systemic exposure.
+However, strong inhbitors of CYP3A4 (i.e., ketoconazole, itraconazole, ritonavir) may increase the plasma concentrations of amlodipine to a greater extent.
