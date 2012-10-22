@@ -42,7 +42,7 @@ Aerobic gram-positive microorganisms: Streptococcus pneumoniae
 
 Aerobic gram-negative microorganisms: Escherichia coli (including susceptible enterotoxigenic strains implicated in traveler's diarrhea) Klebsiella species Enterobacter species Haemophilus influenzae Morganella morganii Proteus mirabilis Proteus vulgaris Shigella flexneri Shigella sonnei
 
-Other Organisms: Pneumocystis carinii
+Other Organisms: Pneumocystis jiroveci
 
 Susceptibility Testing Methods:
 

@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of sulfamethoxazole and trimethoprim tablets and other antibacterial drugs, sulfamethoxazole and trimethoprim should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of sulfamethoxazole and trimethoprim tablets and other antibacterial drugs, sulfamethoxazole and trimethoprim tablets should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to empiric selection of therapy.
 
@@ -15,6 +15,6 @@ Acute Exacerbations of Chronic Bronchitis in Adults: For the treatment of acute 
 
 Shigellosis: For the treatment of enteritis caused by susceptible strains of Shigella flexneri and Shigella sonnei when antibacterial therapy is indicated.
 
-Pneumocystis Carinii Pneumonia: For the treatment of documented Pneumocystis carinii pneumonia and for prophylaxis against Pneumocystis carinii pneumonia in individuals who are immunosuppressed and considered to be at an increased risk of developing Pneumocystis carinii pneumonia.
+Pneumocystis Jiroveci Pneumonia: For the treatment of documented Pneumocystis jiroveci pneumonia and for prophylaxis against Pneumocystis jiroveci pneumonia in individuals who are immunosuppressed and considered to be at an increased risk of developing Pneumocystis jiroveci pneumonia.
 
 Traveler's Diarrhea in Adults: For the treatment of traveler's diarrhea due to susceptible strains of enterotoxigenic E. coli.
