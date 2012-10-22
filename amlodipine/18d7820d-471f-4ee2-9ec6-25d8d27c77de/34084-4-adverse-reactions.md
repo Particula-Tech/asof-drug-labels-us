@@ -37,7 +37,7 @@ Eye Disorders: vision blurred
 
 Gastrointestinal Disorders: diarrhea, abdominal pain upper, vomiting, abdominal pain, toothache, dry mouth, gastritis, hemorrhoids
 
-General Disorders and Administration Site Conditions: asthenia, non-cardiac chest pain, chills, malaise
+General Disorders and Administration Site Conditions: asthenia, noncardiac chest pain, chills, malaise
 
 Infections and Infestations: upper respiratory tract infection, bronchitis, influenza, pharyngitis, tooth abscess, gastroenteritis viral, respiratory tract infection, rhinitis, urinary tract infection
 
@@ -45,7 +45,7 @@ Injury, Poisoning and Procedural Complications: back injury, contusion, joint sp
 
 Investigations: blood uric acid increased, blood creatine phosphokinase increased, weight decreased
 
-Metabolism and Nutrition Disorders: hypokalaemia, diabetes mellitus, hyperlipidemia, hyponatremia
+Metabolism and Nutrition Disorders: hypokalemia, diabetes mellitus, hyperlipidemia, hyponatremia
 
 Musculoskeletal and Connective Tissue Disorders: pain in extremity, arthralgia, musculoskeletal pain, muscular weakness, musculoskeletal weakness, musculoskeletal stiffness, joint swelling, neck pain, osteoarthritis, tendonitis
 
@@ -67,7 +67,7 @@ Isolated cases of the following clinically notable adverse reactions were also o
 
 Amlodipine
 
-Amlodipine has been evaluated for safety in more than 11,000 patients in U.S. and foreign clinical trials.
+Amlodipine has been evaluated for safety in more than 11000 patients in US and foreign clinical trials.
 Other adverse reactions not listed above that have been reported in <1% but >0.1% of patients in controlled clinical trials or under conditions of open trials or marketing experience where a causal relationship is uncertain were:
 
 Cardiovascular: arrhythmia (including ventricular tachycardia and atrial fibrillation), bradycardia, chest pain, peripheral ischemia, syncope, postural hypotension, vasculitis
@@ -101,9 +101,9 @@ Adverse reactions reported for amlodipine for indications other than hypertensio
 
 Valsartan
 
-Valsartan has been evaluated for safety in more than 4,000 hypertensive patients in clinical trials.
+Valsartan has been evaluated for safety in more than 4000 hypertensive patients in clinical trials.
 In trials in which valsartan was compared to an ACE inhibitor with or without placebo, the incidence of dry cough was significantly greater in the ACE inhibitor group (7.9%) than in the groups who received valsartan (2.6%) or placebo (1.5%).
-In a 129 patient trial limited to patients who had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, HCTZ, or lisinopril were 20%, 19%, and 69% respectively (p<0.001).
+In a 129-patient trial limited to patients who had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, HCTZ, or lisinopril were 20%, 19%, and 69% respectively (p<0.001).
 
 Other adverse reactions, not listed above, occurring in >0.2% of patients in controlled clinical trials with valsartan are:
 
@@ -139,7 +139,7 @@ Special Senses: transient blurred vision, xanthopsia.
 
 Clinical Laboratory Test Findings
 
-Clinical laboratory test findings for Exforge HCT were obtained in a controlled trial of Exforge HCT administered at the maximal dose of 10/320/25 mg compared to maximal doses of dual therapies, i.e. valsartan/HCTZ 320/25 mg, amlodipine/valsartan 10/320 mg, and HCTZ/amlodipine 25/10 mg.
+Clinical laboratory test findings for Exforge HCT were obtained in a controlled trial of Exforge HCT administered at the maximal dose of 10/320/25 mg compared to maximal doses of dual therapies, i.e., valsartan/HCTZ 320/25 mg, amlodipine/valsartan 10/320 mg, and HCTZ/amlodipine 25/10 mg.
 Findings for the components of Exforge HCT were obtained from other trials.
 
 Creatinine: In hypertensive patients, greater than 50% increases in creatinine occurred in 2.1% of Exforge HCT patients compared to 2.4% of valsartan/HCTZ patients, 0.7% of amlodipine/valsartan patients, and 1.8% of HCTZ/amlodipine patients.
@@ -157,13 +157,13 @@ In heart failure patients, greater than 50% increases in BUN were observed in 17
 Serum Electrolytes (Potassium): In hypertensive patients, greater than 20% decreases in serum potassium were observed in 6.5% of Exforge HCT-treated patients compared to 3.3% of valsartan/HCTZ patients, 0.4% of amlodipine/valsartan patients, and 19.3% of HCTZ/amlodipine patients.
 Greater than 20% increases in potassium were observed in 3.5% of Exforge HCT-treated patients compared to 2.4% of valsartan/HCTZ patients, 6.2% of amlodipine/valsartan patients, and 2.2% of HCTZ/amlodipine patients.
 
-In heart failure patients, greater than 20% increases in serum potassium were observed in 10% of valsartan-treated patients compared to 5.1% of placebo-treated patients [see Warnings and Precautions, Electrolytes and Metabolic Imbalances (5.10)].
+In heart failure patients, greater than 20% increases in serum potassium were observed in 10% of valsartan-treated patients compared to 5.1% of placebo-treated patients [see Warnings and Precautions (5.5)].
 
 Neutropenia: Neutropenia (<1500/L) was observed in 1.9% of patients treated with valsartan and 0.8% of patients treated with placebo.
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been reported in post marketing experience.
+The following additional adverse reactions have been reported in postmarketing experience.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Amlodipine
@@ -173,15 +173,17 @@ Jaundice and hepatic enzyme elevations (mostly consistent with cholestasis or he
 
 Valsartan
 
-The following additional adverse reactions have been reported in post-marketing experience with valsartan or valsartan/hydrochlorothiazide:
+The following additional adverse reactions have been reported in postmarketing experience with valsartan or valsartan/hydrochlorothiazide:
 
-Blood and Lymphatic: There are very rare reports of thrombocytopenia.
+Blood and Lymphatic: Decrease in hemoglobin, decrease in hematocrit, neutropenia
 
 Hypersensitivity: There are rare reports of angioedema.
+Some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
+Exforge HCT should not be re-administered to patients who have had angioedema.
 
 Digestive: Elevated liver enzymes and very rare reports of hepatitis
 
-Renal: Impaired renal function
+Renal: Impaired renal function, renal failure
 
 Clinical Laboratory Tests: Hyperkalemia
 

@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-Because of the hydrochlorothiazide component, Exforge HCT is contraindicated in patients with anuria or hypersensitivity to other sulfonamide-derived drugs.
+Do not use in patients with anuria, hypersensitivity to other sulfonamide-derived drugs, or hypersensitivity to any component of this product.

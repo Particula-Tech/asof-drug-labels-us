@@ -28,33 +28,32 @@ A transient hypotensive response is not a contraindication to further treatment,
 
 ## 5.3 Increased Angina and/or Myocardial Infarction
 
-Rarely, patients, particularly those with severe obstructive coronary artery disease, have developed documented increased frequency, duration or severity of angina or acute myocardial infarction upon starting calcium channel blocker therapy or at the time of dosage increase.
-The mechanism of this effect has not been elucidated.
+Worsening angina and acute myocardial infarction can develop after starting or increasing the dose of amlodipine, particularly in patients with severe obstructive coronary artery disease.
 
 ## 5.4 Impaired Renal Function
 
 Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.
-Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g. patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on Exforge HCT.
+Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on Exforge HCT.
 Monitor renal function periodically in these patients.
 Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Exforge HCT.
 
-## 5.5 Heart Failure
+## 5.5 Potassium Abnormalities
 
-Exforge HCT has not been studied in patients with heart failure.
+In the controlled trial of Exforge HCT in moderate to severe hypertensive patients, the incidence of hypokalemia (serum potassium <3.5 mEq/L) at any time post-baseline with the maximum dose of Exforge HCT (10/320/25 mg) was 10% compared to 25% with HCTZ/amlodipine (25/10 mg), 7% with valsartan/HCTZ (320/25 mg), and 3% with amlodipine/valsartan (10/320 mg).
+One patient (0.2%) discontinued therapy due to an adverse event of hypokalemia in each of the Exforge HCT and HCTZ/amlodipine groups.
+The incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4% with Exforge HCT compared to 0.2-0.7% with the dual therapies.
 
-Studies with amlodipine: In general, calcium channel blockers should be used with close monitoring, including close follow-up of fluid status, electrolytes, renal function, and blood pressure in patients with heart failure.
-Amlodipine (5-10 mg per day) has been studied in a placebo-controlled trial of 1,153 patients with NYHA Class III or IV heart failure on stable doses of ACE inhibitor, digoxin, and diuretics.
-Follow-up was at least 6 months, with a mean of about 14 months.
-There was no overall adverse effect on survival or cardiac morbidity (as defined by life-threatening arrhythmia, acute myocardial infarction, or hospitalization for worsened heart failure).
-Amlodipine has been compared to placebo in four 8-12 week studies of patients with NYHA class II/III heart failure, involving a total of 697 patients.
-In these studies, there was no evidence of worsened heart failure based on measures of exercise tolerance, NYHA classification, symptoms, or LVEF.
-
-Studies with valsartan: Some patients with heart failure have developed increases in blood urea nitrogen, serum creatinine, and potassium on valsartan.
+Some patients with heart failure have developed increases in potassium on valsartan.
 These effects are usually minor and transient, and they are more likely to occur in patients with pre-existing renal impairment.
 Dosage reduction and/or discontinuation of the diuretic and/or valsartan may be required.
-In the Valsartan Heart Failure Trial, in which 93% of patients were on concomitant ACE inhibitors, treatment was discontinued for elevations in creatinine or potassium (total of 1.0% on valsartan vs. 0.2% on placebo).
-In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), discontinuation due to various types of renal dysfunction occurred in 1.1% of valsartan-treated patients and 0.8% of captopril-treated patients.
-Evaluation of patients with heart failure or post-myocardial infarction should always include assessment of renal function.
+
+Hydrochlorothiazide can cause hypokalemia and hyponatremia.
+Hypomagnesemia can result in hypokalemia which appears difficult to treat despite potassium repletion.
+Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
+Monitor serum electrolytes periodically.
+
+If hypokalemia is accompanied by clinical signs (e.g., muscular weakness, paresis, or ECG alterations), Exforge HCT should be discontinued.
+Correction of hypokalemia and any coexisting hypomagnesmia is recommended prior to the initiation of thiazides.
 
 ## 5.6 Hypersensitivity Reaction
 
@@ -68,24 +67,7 @@ Thiazide diuretics have been reported to cause exacerbation or activation of sys
 
 Lithium generally should not be given with thiazides [see Drug Interactions, Hydrochlorothiazide, Lithium (7)].
 
-## 5.9 Electrolytes and Metabolic Imbalances
-
-Amlodipine - Valsartan - Hydrochlorothiazide
-
-In the controlled trial of Exforge HCT in moderate to severe hypertensive patients, the incidence of hypokalemia (serum potassium <3.5 mEq/L) at any time post-baseline with the maximum dose of Exforge HCT (10/320/25 mg) was 10% compared to 25% with HCTZ/amlodipine (25/10 mg), 7% with valsartan/HCTZ (320/25 mg), and 3% with amlodipine/valsartan (10/320 mg).
-One patient (0.2%) discontinued therapy due to an adverse event of hypokalemia in each of the Exforge HCT and HCTZ/amlodipine groups.
-The incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4% with Exforge HCT compared to 0.2-0.7% with the dual therapies.
-Monitor serum electrolytes periodically based on Exforge HCT use and other factors such as renal function, other medications, or history of prior electrolyte imbalances.
-
-Hydrochlorothiazide
-
-Hydrochlorothiazide can cause hypokalemia and hyponatremia.
-Hypomagnesemia can result in hypokalemia which appears difficult to treat despite potassium repletion.
-Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
-Monitor serum electrolytes periodically.
-
-If hypokalemia is accompanied by clinical signs (e.g. muscular weakness, paresis, or ECG alterations), Exforge HCT should be discontinued.
-Correction of hypokalemia and any coexisting hypomagnesmia is recommended prior to the initiation of thiazides.
+## 5.9 Metabolic Imbalances
 
 Hydrochlorothiazide may alter glucose tolerance and raise serum levels of cholesterol and triglycerides.
 

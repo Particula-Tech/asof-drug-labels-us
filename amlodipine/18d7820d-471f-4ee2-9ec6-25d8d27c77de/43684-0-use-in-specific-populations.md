@@ -27,7 +27,7 @@ Hydrochlorothiazide, like other diuretics, can cause placental hypoperfusion.
 It accumulates in the amniotic fluid, with required concentrations up to 19 times higher than in umbilical vein plasma.
 Use of thiazides during pregnancy is associated with a risk of fetal or neonatal jaundice of thrombocytopenia.
 Since they do not prevent or alter the course of EPH (Edema, Proteinuria, Hypertension) gestosis (pre-eclampsia), these drugs should not be used to treat hypertension in pregnant women.
-The use of hydrochlorothiazide for other indications (e.g. heart disease) in pregnancy should be avoided.
+The use of hydrochlorothiazide for other indications (e.g., heart disease) in pregnancy should be avoided.
 
 ## 8.3 Nursing Mothers
 
@@ -45,19 +45,21 @@ Exchange transfusions or dialysis may be required as a means of reversing hypote
 
 ## 8.5 Geriatric Use
 
+Exposure to amlodipine is increased in elderly patients, thus consider lower initial doses of Exforge HCT [see Clinical Pharmacology (12.3)].
+
 In controlled clinical trials, 82 hypertensive patients treated with Exforge HCT were ≥65 years and 13 were ≥75 years.
 No overall differences in the efficacy or safety of Exforge HCT were observed in this patient population, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
 
-Safety and effectiveness of Exforge HCT in patients with renal impairment (CrCl< 30 mL/min) have not been established.
+Safety and effectiveness of Exforge HCT in patients with severe renal impairment (CrCl< 30 mL/min) have not been established.
 No dose adjustment is required in patients with mild (60-90 mL/min) or moderate (CrCl 30-60) renal impairment.
 
 ## 8.7 Hepatic Impairment
 
 Amlodipine
 
-Amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t½) is 56 hours in patients with impaired hepatic function.
+Exposure to amlodipine is increased in patients with hepatic insufficiency, thus consider using lower doses of Exforge HCT [see Clinical Pharmacology (12.3)].
 
 Valsartan
 

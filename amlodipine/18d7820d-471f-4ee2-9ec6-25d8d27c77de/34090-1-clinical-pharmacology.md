@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The active ingredients of Exforge HCT target three separate mechanisms involved in blood pressure regulation.
+The active ingredients of Exforge HCT target 3 separate mechanisms involved in blood pressure regulation.
 Specifically, amlodipine blocks the contractile effects of calcium on cardiac and vascular smooth muscle cells; valsartan blocks the vasoconstriction and sodium retaining effects of angiotensin II on cardiac, vascular smooth muscle, adrenal and renal cells; and hydrochlorothiazide directly promotes the excretion of sodium and chloride in the kidney leading to reductions in intravascular volume.
 A more detailed description of the mechanism of action of each individual component follows.
 
@@ -26,7 +26,7 @@ Valsartan blocks the vasoconstrictor and aldosterone-secreting effects of angiot
 Its action is therefore independent of the pathways for angiotensin II synthesis.
 
 There is also an AT2 receptor found in many tissues, but AT2 is not known to be associated with cardiovascular homeostasis.
-Valsartan has much greater affinity (about 20,000-fold) for the AT1 receptor than for the AT2 receptor.
+Valsartan has much greater affinity (about 20000-fold) for the AT1 receptor than for the AT2 receptor.
 The increased plasma levels of angiotensin following AT1 receptor blockade with valsartan may stimulate the unblocked AT2 receptor.
 The primary metabolite of valsartan is essentially inactive with an affinity for the AT1 receptor about one-200th that of valsartan itself.
 
@@ -50,8 +50,8 @@ The mechanism of the antihypertensive effect of thiazides is unknown.
 ## 12.2 Pharmacodynamics
 
 Exforge HCT has been shown to be effective in lowering blood pressure.
-The three components of Exforge HCT (amlodipine, valsartan, hydrochlorothiazide) lower the blood pressure through complementary mechanisms, each working at a separate site and blocking different effector pathways.
-The pharmacodynamics of each individual component is described below.
+The 3 components of Exforge HCT (amlodipine, valsartan, hydrochlorothiazide) lower the blood pressure through complementary mechanisms, each working at a separate site and blocking different effector pathways.
+The pharmacodynamics of each individual component are described below.
 
 Exforge HCT has not been studied in indications other than hypertension.
 
@@ -61,7 +61,7 @@ Following administration of therapeutic doses to patients with hypertension, aml
 These decreases in blood pressure are not accompanied by a significant change in heart rate or plasma catecholamine levels with chronic dosing.
 Although the acute intravenous administration of amlodipine decreases arterial blood pressure and increases heart rate in hemodynamic studies of patients with chronic stable angina, chronic oral administration of amlodipine in clinical trials did not lead to clinically significant changes in heart rate or blood pressures in normotensive patients with angina.
 
-With chronic once daily administration, antihypertensive effectiveness is maintained for at least 24 hours.
+With chronic, once-daily administration, antihypertensive effectiveness is maintained for at least 24 hours.
 Plasma concentrations correlate with effect in both young and elderly patients.
 The magnitude of reduction in blood pressure with amlodipine is also correlated with the height of pretreatment elevation; thus, individuals with moderate hypertension (diastolic pressure 105-114 mmHg) had about a 50% greater response than patients with mild hypertension (diastolic pressure 90-104 mmHg).
 Normotensive subjects experienced no clinically significant change in blood pressure (+1/-2 mmHg).
@@ -69,14 +69,14 @@ Normotensive subjects experienced no clinically significant change in blood pres
 In hypertensive patients with normal renal function, therapeutic doses of amlodipine resulted in a decrease in renal vascular resistance and an increase in glomerular filtration rate and effective renal plasma flow without change in filtration fraction or proteinuria.
 
 As with other calcium channel blockers, hemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with amlodipine have generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume.
-In hemodynamic studies, amlodipine has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when co-administered with beta-blockers to man.
+In hemodynamic studies, amlodipine has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when coadministered with beta-blockers to man.
 Similar findings, however, have been observed in normals or well-compensated patients with heart failure with agents possessing significant negative inotropic effects.
 
 Amlodipine does not change sinoatrial nodal function or atrioventricular conduction in intact animals or man.
 In patients with chronic stable angina, intravenous administration of 10 mg did not significantly alter A-H and H-V conduction and sinus node recovery time after pacing.
 Similar results were obtained in patients receiving amlodipine and concomitant beta-blockers.
-In clinical studies in which amlodipine was administered in combination with beta-blockers to patients with either hypertension or angina, no adverse effects of electrocardiographic parameters were observed.
-In clinical trials with angina patients alone, amlodipine therapy did not alter electrocardiographic intervals or produce higher degrees of AV blocks.
+In clinical studies in which amlodipine was administered in combination with beta-blockers to patients with either hypertension or angina, no adverse effects of electrocardiographic (ECG) parameters were observed.
+In clinical trials with angina patients alone, amlodipine therapy did not alter ECG intervals or produce higher degrees of AV blocks.
 
 Amlodipine has indications other than hypertension which are described in its full prescribing information.
 
@@ -96,16 +96,6 @@ Valsartan has indications other than hypertension which are described in its ful
 Hydrochlorothiazide
 
 After oral administration of hydrochlorothiazide, diuresis begins within 2 hours, peaks in about 4 hours and lasts about 6 to 12 hours.
-
-Drug Interactions
-
-Hydrochlorothiazide:
-
-Alcohol, barbiturates, or narcotics: Potentiation of orthostatic hypotension may occur.
-
-Skeletal muscle relaxants: Possible increased responsiveness to muscle relaxants such as curare derivatives.
-
-Digitalis glycosides: Thiazide-induced hypokalemia or hypomagnesemia may predispose the patient to digoxin toxicity.
 
 ## 12.3 Pharmacokinetics
 
@@ -137,12 +127,12 @@ Absolute bioavailability is about 25% (range 10%-35%).
 The steady state volume of distribution of valsartan after intravenous administration is 17 L indicating that valsartan does not distribute into tissues extensively.
 Valsartan is highly bound to serum proteins (95%), mainly serum albumin.
 
-Valsartan shows bi-exponential decay kinetics following intravenous administration with an average elimination half-life of about 6 hours.
+Valsartan shows biexponential decay kinetics following intravenous administration with an average elimination half-life of about 6 hours.
 The recovery is mainly as unchanged drug, with only about 20% of dose recovered as metabolites.
 The primary metabolite, accounting for about 9% of dose, is valeryl 4-hydroxy valsartan.
 In vitro metabolism studies involving recombinant CYP450 enzymes indicated that the CYP2C9 isoenzyme is responsible for the formation of valeryl-4-hydroxy valsartan.
 Valsartan does not inhibit CYP450 isozymes at clinically relevant concentrations.
-CYP450 mediated drug interaction between valsartan and co-administered drugs are unlikely because of the low extent of metabolism.
+CYP450 mediated drug interaction between valsartan and coadministered drugs are unlikely because of the low extent of metabolism.
 
 Valsartan, when administered as an oral solution, is primarily recovered in feces (about 83% of dose) and urine (about 13% of dose).
 Following intravenous administration, plasma clearance of valsartan is about 2 L/h and its renal clearance is 0.62 L/h (about 30% of total clearance).
@@ -153,26 +143,27 @@ The estimated absolute bioavailability of hydrochlorothiazide after oral adminis
 Peak plasma hydrochlorothiazide concentrations (Cmax) are reached within 2 to 5 hours after oral administration.
 There is no clinically significant effect of food on the bioavailability of hydrochlorothiazide.
 
-Hydrochlorothiazide binds to albumin (40 to 70%) and distributes into erythrocytes.
-Following oral administration, plasma hydrochlorothiazide concentrations decline bi-exponentially, with a mean distribution half-life of about 2 hours and an elimination half-life of about 10 hours.
+Hydrochlorothiazide binds to albumin (40% to 70%) and distributes into erythrocytes.
+Following oral administration, plasma hydrochlorothiazide concentrations decline biexponentially, with a mean distribution half-life of about 2 hours and an elimination half-life of about 10 hours.
 
 About 70% of an orally administered dose of hydrochlorothiazide is eliminated in the urine as unchanged drug.
 
 Special Populations
 
-Geriatric: Elderly patients have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40%-60%.
+Geriatric: Elderly patients have decreased clearance of amlodipine with a resulting increase in peak plasma levels, elimination half-life, and AUC.
 Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
 Limited amount of data suggest that the systemic clearance of hydrochlorothiazide is reduced in both healthy and hypertensive elderly subjects compared to young healthy volunteers.
 
-Gender: Pharmacokinetics of valsartan does not differ significantly between males and females.
+Gender: Pharmacokinetics of valsartan do not differ significantly between males and females.
 
 Race: Pharmacokinetic differences due to race have not been studied.
 
-Renal Insufficiency: The pharmacokinetics of amlodipine is not significantly influenced by renal impairment.
-There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment.Valsartan has not been studied in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
+Renal Insufficiency: The pharmacokinetics of amlodipine are not significantly influenced by renal impairment.
+There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment.
+Valsartan has not been studied in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
 Valsartan is not removed from the plasma by hemodialysis.
 
-In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was doubled in individuals with mild/moderate renal impairment (30 < CLcr < 90 mL/min) and tripled in severe renal impairment (≤ 30 mL/min), compared to individuals with normal renal function (CLcr > 90 mL/min).
+In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was doubled in individuals with mild/moderate renal impairment (30 < CrCl < 90 mL/min) and tripled in severe renal impairment (≤ 30 mL/min), compared to individuals with normal renal function (CrCl > 90 mL/min).
 [see Use in Special Populations (8.6)]
 
 Hepatic Insufficiency: Patients with hepatic insufficiency have decreased clearance of amlodipine with resulting increase in AUC of approximately 40%-60%.
@@ -181,12 +172,46 @@ On average, patients with mild-to-moderate chronic liver disease have twice the 
 
 Drug Interactions
 
+Amlodipine:
+
+In vitro data in human plasma indicate that amlodipine has no effect on the protein binding of digoxin, phenytoin, warfarin, and indomethacin.
+
+Cimetidine: Coadministration of amlodipine with cimetidine did not alter the pharmacokinetics of amlodipine.
+
+Grapefruit juice: Coadministration of 240 mL of grapefruit juice with a single oral dose of amlodipine 10 mg in 20 healthy volunteers had no significant effect on the pharmacokinetics of amlodipine.
+
+Maalox® (antacid): Coadministration of the antacid Maalox with a single dose of amlodipine had no significant effect on the pharmacokinetics of amlodipine.
+
+Sildenafil: A single 100 mg dose of sildenafil in subjects with essential hypertension had no effect on the pharmacokinetic parameters of amlodipine.
+When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect.
+
+Atorvastatin: Coadministration of multiple 10 mg doses of amlodipine with 80 mg of atorvastatin resulted in no significant change in the steady state pharmacokinetic parameters of atorvastatin.
+
+Digoxin: Coadministration of amlodipine with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.
+
+Ethanol (alcohol): Single and multiple 10 mg doses of amlodipine had no significant effect on the pharmacokinetics of ethanol.
+
+Warfarin: Coadministration of amlodipine with warfarin did not change the warfarin prothrombin response time.
+
+Simvastatin: Coadministration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone.
+Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
+
+CYP3A4 Inhibitors: Coadministration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
+Erythromycin coadministration in healthy volunteers did not significantly change amlodipine systemic exposure.
+However, strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, ritonavir) may increase the plasma concentrations of amlodipine to a greater extent.
+
 Hydrochlorothiazide:
 
-Drugs that alter gastrointestinal motility: The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g. atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate.
+Drugs that alter gastrointestinal motility: The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g., atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate.
 Conversely, pro-kinetic drugs may decrease the bioavailability of thiazide diuretics.
 
 Cholestyramine: In a dedicated drug interaction study, administration of cholestyramine 2 hours before hydrochlorothiazide resulted in a 70% reduction in exposure to hydrochlorothiazide.
 Further, administration of hydrochlorothiazide 2 hours before cholestyramine resulted in 35% reduction in exposure to hydrochlorothiazide.
 
 Antineoplastic agents (e.g. cyclophosphamide, methotrexate): Concomitant use of thiazide diuretics may reduce renal excretion of cytotoxic agents and enhance their myelosuppressive effects.
+
+Alcohol, barbiturates, or narcotics: Potentiation of orthostatic hypotension may occur.
+
+Skeletal muscle relaxants: Possible increased responsiveness to muscle relaxants such as curare derivatives.
+
+Digitalis glycosides: Thiazide-induced hypokalemia or hypomagnesemia may predispose the patient to digoxin toxicity.

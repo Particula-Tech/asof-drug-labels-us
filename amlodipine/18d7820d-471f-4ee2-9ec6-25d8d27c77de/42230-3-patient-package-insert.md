@@ -14,13 +14,13 @@ What is the most important information I should know about EXFORGE HCT?
 
 What is EXFORGE HCT?
 
-EXFORGE HCT contains three prescription medicines:
+EXFORGE HCT contains 3 prescription medicines:
 
 1. amlodipine, a calcium channel blocker
 2. valsartan, an angiotensin receptor blocker, and
 3. hydrochlorothiazide, a diuretic (water pill)
 
-EXFORGE HCT may be used to lower blood pressure in adults when two medicines to lower your high blood pressure are not enough.
+EXFORGE HCT may be used to lower blood pressure in adults when 2 medicines to lower your high blood pressure are not enough.
 
 EXFORGE HCT has not been studied in children under 18 years of age.
 
@@ -34,9 +34,9 @@ Tell your doctor about all of your medical conditions, including if you:
 
 - are pregnant or plan to become pregnant.
   See “What is the most important information I should know about EXFORGE HCT?”
-- are breast-feeding or plan to breast-feed.
+- are breastfeeding or plan to breastfeed.
   EXFORGE HCT may pass into your milk.
-  Do not breast-feed while you are taking EXFORGE HCT.
+  Do not breastfeed while you are taking EXFORGE HCT.
 - are allergic to any of the ingredients in EXFORGE HCT.
   See the end of this leaflet for a list of the ingredients in EXFORGE HCT.
 - have heart problems
@@ -46,28 +46,37 @@ Tell your doctor about all of your medical conditions, including if you:
 - have or had gallstones
 - have Lupus
 - have low levels of potassium (with or without symptoms such as muscle weakness, muscle spasms, abnormal heart rhythm) or magnesium in your blood
-- have high levels of calcium in your blood (with or without symptoms such as nausea, vomiting, constipation, stomach pain, frequent urination, thirst, muscle weakness and twitching).
+- have high levels of calcium in your blood (with or without symptoms such as nausea, vomiting, constipation, stomach pain, frequent urination, thirst, muscle weakness, and twitching).
 - have high levels of uric acid in the blood.
+- have ever had a reaction called angioedema, to another blood pressure medicine.
+  Angioedema causes swelling of the face, lips, tongue, and may cause difficulty breathing.
 
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Some of your other medicines and EXFORGE HCT could affect each other, causing serious side effects.
 
 Especially tell your doctor if you take:
 
+- simvastatin or other cholesterol lowering medicine
 - other medicines for high blood pressure or a heart problem
 - water pills (“diuretics”)
-- potassium supplements or using a salt substitute containing potassium
+- potassium supplements.
+  Your doctor may check the amount of potassium in your blood periodically.
+- salt substitute containing potassium.
+  Your doctor may check the amount of potassium in your blood periodically.
 - diabetes medicine including insulin
 - narcotic pain medicines
-- sleeping pills and anti-seizure medicines called barbiturates
+- sleeping pills and antiseizure medicines called barbiturates
 - lithium, a medicine used to treat some types of depression
-- aspirin or other medicines called non-steriodal anti-inflammatory drugs (NSAIDs), like ibuprofen or naproxen
+- aspirin or other medicines called nonsteroidal anti-inflammatory drugs (NSAIDs), like ibuprofen or naproxen
 - steroids
-- cholesterol lowering medicine
 - alcohol
 - digoxin or other digitalis glycosides (a heart medicine)
 - muscle relaxants (medicines used during operations)
 - certain cancer medicines, like cyclophosphamide or methotrexate
+- medicines used to prevent and treat fungal infections (such as ketoconazole, intraconazole).
+- medicines used to treat bacterial infections (such as clarithromycin, telithromycin).
+- certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporin) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
+  These drugs may increase the effect of valsartan.
 
 Know the medicines you take.
 Keep a list of your medicines and show it to your doctor or pharmacist when you get a new medicine.
@@ -111,8 +120,8 @@ Call your doctor right away.
   Some people will have changes in blood tests for kidney function and may need a lower dose of EXFORGE HCT.
   Call your doctor if you have swelling in your feet, ankles, or hands, or unexplained weight gain.
   If you have heart failure, your doctor should check your kidney function before prescribing EXFORGE HCT.
-- laboratory blood test changes in people with congestive heart failure.
-  Some people with congestive heart failure who take valsartan, one of the medicines in EXFORGE HCT, have changes in blood tests including increased potassium and decreased kidney function.
+- laboratory blood test changes in people with heart failure.
+  Some people with heart failure who take valsartan, one of the medicines in EXFORGE HCT, have changes in blood tests including increased potassium and decreased kidney function.
 - allergic reactions
 - skin rash.
   Call your doctor right away if you get an unusual skin rash.
@@ -163,10 +172,10 @@ For more information go to www.EXFORGE.com or call 1-888-839-3674.
 
 What are the ingredients in EXFORGE HCT?
 
-Active ingredients: amlodipine besylate, valsartan and hydrochlorothiazide
+Active ingredients: amlodipine besylate, valsartan, and hydrochlorothiazide
 
 The inactive ingredients of all strengths of the tablets are crospovidone, magnesium stearate, microcrystalline cellulose, and colloidal anhydrous silica.
-The film coating contains hypromellose, talc, macrogol 4000 and may contain titanium dioxide or yellow and red iron oxides.
+The film coating contains hypromellose, talc, macrogol 4000, and may contain titanium dioxide or yellow and red iron oxides.
 
 What is high blood pressure (hypertension)?
 
@@ -176,7 +185,7 @@ EXFORGE HCT can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower blood pressure lower your chance of having a stroke or heart attack.
 
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to blood vessels.
-If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure and vision problems.
+If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure, and vision problems.
 
 Distributed by:
 
@@ -186,4 +195,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2012-54/T2012-55 February 2012/February 2012
+T2012-191 September 2012
