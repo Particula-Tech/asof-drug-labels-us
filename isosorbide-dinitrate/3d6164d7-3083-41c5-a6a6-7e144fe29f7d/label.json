@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "ANDA075743"
+  ],
   "inn": "isosorbide-dinitrate",
-  "labeler": "Par Pharmaceutical Inc",
+  "labeler": "Par Pharmaceutical Inc.",
   "package_ndcs": [
     "49884-556-01",
     "49884-556-10",
@@ -16,7 +18,13 @@
     "49884-635-01",
     "49884-635-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "lisinopril",
+      "name": "Lisinopril"
+    }
+  ],
   "setid": "3d6164d7-3083-41c5-a6a6-7e144fe29f7d",
   "source": "dailymed"
 }
