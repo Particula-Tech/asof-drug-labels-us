@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019851"
+  ],
+  "inn": "benazepril",
+  "labeler": "Validus Pharmaceuticals LLC",
+  "package_ndcs": [
+    "30698-449-01",
+    "30698-450-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "benazepril hydrochloride",
+      "name": "Lotensin"
+    }
+  ],
+  "setid": "2abb091b-a53e-46b0-9b84-e5ee8f2bdd8e",
+  "source": "dailymed"
+}
