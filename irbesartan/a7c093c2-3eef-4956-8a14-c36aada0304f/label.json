@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA201531"
+  ],
+  "inn": "irbesartan",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-410-06",
+    "68180-410-09",
+    "68180-411-02",
+    "68180-411-06",
+    "68180-411-09",
+    "68180-412-02",
+    "68180-412-06",
+    "68180-412-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "irbesartan",
+      "name": "Irbesartan"
+    }
+  ],
+  "setid": "a7c093c2-3eef-4956-8a14-c36aada0304f",
+  "source": "dailymed"
+}
