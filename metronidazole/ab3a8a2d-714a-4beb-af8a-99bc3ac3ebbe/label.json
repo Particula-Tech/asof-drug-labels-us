@@ -5,9 +5,11 @@
   "inn": "metronidazole",
   "labeler": "Galderma Laboratories, L.P.",
   "package_ndcs": [
+    "0299-3820-00",
     "0299-3820-01",
     "0299-3820-03",
-    "0299-3820-60"
+    "0299-3820-60",
+    "0299-3820-99"
   ],
   "products": [
     {
