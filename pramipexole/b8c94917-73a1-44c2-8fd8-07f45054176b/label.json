@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "ANDA202164"
+  ],
+  "inn": "pramipexole",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-031-06",
+    "33342-031-10",
+    "33342-031-12",
+    "33342-032-06",
+    "33342-032-10",
+    "33342-032-12",
+    "33342-033-06",
+    "33342-033-10",
+    "33342-033-12",
+    "33342-034-06",
+    "33342-034-10",
+    "33342-034-12",
+    "33342-035-06",
+    "33342-035-10",
+    "33342-035-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pramipexole dihydrochloride",
+      "name": "Pramipexole dihydrochloride"
+    }
+  ],
+  "setid": "b8c94917-73a1-44c2-8fd8-07f45054176b",
+  "source": "dailymed"
+}

@@ -1,0 +1,3 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+PRINCIPAL DISPLAY PANEL - 0.125 mg Pramipexole Dihydrochloride Tablets 0.125 mg NDC 33342-031-10 Bottle of 90 TABLETS Rx only PRINCIPAL DISPLAY PANEL - 0.25 mg Pramipexole Dihydrochloride Tablets 0.25 mg NDC 33342-032-10 Bottle of 90 TABLETS Rx only PRINCIPAL DISPLAY PANEL - 0.5 mg Pramipexole Dihydrochloride Tablets 0.5 mg NDC 33342-033-10 Bottle of 90 TABLETS Rx only PRINCIPAL DISPLAY PANEL - 1 mg Pramipexole Dihydrochloride Tablets 1 mg NDC 33342-034-06 30 (3x10)UNIT DOSE TABLETS Rx only PRINCIPAL DISPLAY PANEL - 1.5 mg Pramipexole Dihydrochloride Tablets 1.5 mg NDC 33342-035-12 100 (10x10)UNIT DOSE TABLETS Rx only
