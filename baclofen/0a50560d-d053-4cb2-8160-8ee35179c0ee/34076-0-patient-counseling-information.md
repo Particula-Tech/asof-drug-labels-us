@@ -42,6 +42,6 @@ CNS Therapeutics Inc.
 
 St. Paul MN 55101 USA
 
-© CNS Therapeutics, Inc 2010
+© CNS Therapeutics, Inc. 2010-2012
 
 All Rights Reserved

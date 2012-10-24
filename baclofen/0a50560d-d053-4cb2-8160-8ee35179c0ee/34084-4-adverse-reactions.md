@@ -110,8 +110,8 @@ The following events occurred among the 62 patients receiving intrathecal baclof
 
 Events Observed during the Pre-marketing Evaluation of Intrathecal Baclofen — Adverse events associated with the use of intrathecal baclofen reflect experience gained with a total of 211 U. S. patients with spasticity of cerebral origin, of whom 112 were pediatric patients (under age 16 at enrollment).
 They received intrathecal baclofen for periods of one day (screening) (N= 211) to 84 months (maintenance) (N= 1).
-The usual screening bolus dose administered prior to pump implantation in these studies was 50 - 75 mcg.
-The maintenance dose ranged from 22 mcg to 1,400 mcg per day.
+The usual screening bolus dose administered prior to pump implantation in these studies was 50 mcg - 75 mcg.
+The maintenance dose ranged from 22 mcg/day to 1,400 mcg/day.
 Doses used in this patient population for long term infusion are generally lower than those required for patients with spasticity of spinal cord origin.
 
 Because of the open, uncontrolled nature of the experience, a causal linkage between events observed and the administration of intrathecal baclofen cannot be reliably assessed in many cases.

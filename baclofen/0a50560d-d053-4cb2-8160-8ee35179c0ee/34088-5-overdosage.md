@@ -24,4 +24,4 @@ The dosage may be repeated at 5 to 10 minute intervals until a therapeutic effec
 
 Physostigmine may not be effective in reversing large overdoses and patients may need to be maintained with respiratory support.
 
-If lumbar puncture is not contraindicated, consideration should be given to withdrawing 30 - 40 mL of CSF to reduce CSF baclofen concentration.
+If lumbar puncture is not contraindicated, consideration should be given to withdrawing 30 mL to 40 mL of CSF to reduce CSF baclofen concentration.
