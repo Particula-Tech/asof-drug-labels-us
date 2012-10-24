@@ -77,7 +77,7 @@ Intravenous Infusion (10 mg and 20 mg) over 10 minutes to 30 minutes for Pediatr
 
 40 mg vial
 
-A solution for intravenous infusion is prepared by first reconstituting the contents of one vial with 5 mL of 0.9% Sodium Chloride Injection, USP and further diluting the resulting solution to a final volume of 50 ml.
+A solution for intravenous infusion is prepared by first reconstituting the contents of one vial with 5 mL of 0.9% Sodium Chloride Injection, USP and further diluting the resulting solution to a final volume of 50 mL.
 The resultant concentration after diluting to a final volume of 50 mL is 0.8 mg/mL.
 
 20 mg dose: Withdraw 25 mL of the final solution and administer as an intravenous infusion over 10 minutes to 30 minutes

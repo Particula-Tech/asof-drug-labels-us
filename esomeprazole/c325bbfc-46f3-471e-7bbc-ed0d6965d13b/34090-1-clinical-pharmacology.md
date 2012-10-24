@@ -99,6 +99,12 @@ Less than 1% of parent drug is excreted in the urine.
 Esomeprazole is completely eliminated from plasma, and there is no accumulation during once daily administration.
 The plasma elimination half-life of intravenous esomeprazole is approximately 1.1 to 1.4 hours and is prolonged with increasing dose of intravenous esomeprazole.
 
+Concomitant Use with Clopidogrel
+
+Results from a crossover study in healthy subjects have shown a pharmacokinetic interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and esomeprazole (40 mg p.o. once daily) when co-administered for 30 days.
+Exposure to the active metabolite of clopidogrel was reduced by 35% to 40% over this time period.
+Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation was related to the change in the exposure to clopidogrel active metabolite.
+
 Special Populations
 
 Investigation of age, gender, race, renal, and hepatic impairment and metabolizer status has been made previously with oral esomeprazole.
@@ -139,4 +145,4 @@ The pharmacokinetics of esomeprazole in patients with renal impairment are not e
 Effects on Gastrointestinal Microbial Ecology
 
 Decreased gastric acidity due to any means including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
-Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and, in hospitalized patients, possibly also Clostridium difficile.
+Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and, in hospitalized patients, possibly also Clostridiumdifficile.
