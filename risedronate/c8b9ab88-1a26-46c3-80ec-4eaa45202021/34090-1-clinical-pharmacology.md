@@ -23,11 +23,11 @@ In addition, serum bone-specific alkaline phosphatase at 1 year was reduced by 3
 Absorption
 
 The mean absolute oral bioavailability of the 30 mg risedronate sodium immediate-release tablet taken 4 hours prior to a meal is 0.63 percent (90 percent confidence interval [CI]: 0.54 percent to 0.75 percent) and is similar to an oral solution.
-The time to peak concentration (Tmax) for Atelvia tablet is ~3 hours when administered in the morning 4 hours prior to a meal.
+The time to peak concentration (Tmax) for Atelvia tablet is approximately 3 hours when administered in the morning 4 hours prior to a meal.
 
 Food Effect
 
-In a crossover pharmacokinetic study, the bioavailability of Atelvia 35 mg delayed-release tablets decreased by ~30 percent when administered immediately after a high-fat breakfast compared to administration in the morning 4 hours before a meal.
+In a crossover pharmacokinetic study, the bioavailability of Atelvia 35 mg delayed-release tablets decreased by approximately 30 percent when administered immediately after a high-fat breakfast compared to administration in the morning 4 hours before a meal.
 
 The bioavailability of the 35 mg Atelvia tablet administered after a high-fat breakfast was similar to risedronate sodium 35 mg immediate-release tablet dosed 4 hours before a meal in one study and was approximately 2- to 4-fold greater than the immediate-release 35 mg tablet administered 30 minutes prior to a high-fat breakfast.
 
@@ -79,3 +79,7 @@ Drug Interactions: Risedronate is not metabolized and does not induce or inhibit
 
 Calcium supplement: A Phase 1 single-dose, cross-over study in 101 postmenopausal women evaluated the relative bioavailability of Atelvia 35 mg delayed-release tablets taken after breakfast and following a 600 mg elemental calcium/400 IU vitamin D supplement, compared to Atelvia alone taken after breakfast without calcium or vitamin D supplemention.
 The addition of the calcium/vitamin D supplement following the meal resulted in an approximate 38 percent reduction in the amount of risedronate absorbed [see Drug Interactions (7)].
+
+Proton Pump Inhibitors: A Phase 1, 2-period, cross-over study in 60 healthy postmenopausal female subjects evaluated the relative bioavailability of a single dose Atelvia 35 mg delayed-release tablet taken after breakfast following 6 days of esomeprazole magnesium delayed release 40 mg capsules.
+On Day 6, esomeprazole 40 mg capsule was administered with 240 mL water one hour before breakfast and Atelvia 35 mg tablet was administered with 240 mL water within 10 minutes after a standard breakfast.
+The Cmax and AUCinf of risedronate were increased by 60 percent and 22 percent, respectively, in presence of esomeprazole.

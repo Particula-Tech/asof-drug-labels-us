@@ -1,4 +1,4 @@
-# Medication Guide
+Medication Guide
 
 Medication Guide Atelvia® (uh-TEL-v-uh) (risedronate sodium) delayed-release tablets
 
@@ -197,6 +197,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by: Norwich Pharmaceuticals, Inc. North Norwich, NY 13814 Marketed by: Warner Chilcott (US), LLC Rockaway, NJ 07866 1-800-521-8813
 
-0979G018
+0979G0112
 
 Covered under one or more of U.S. Patent Nos. 5,583,122; 5,622,721; 7,645,459 B2 and 7,645,460 B2, and other patents pending.

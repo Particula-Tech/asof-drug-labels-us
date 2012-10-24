@@ -87,7 +87,7 @@ In patients with active upper gastrointestinal disease at baseline, the incidenc
 Musculoskeletal Adverse Reactions: The incidence of adverse reactions in the placebo and risedronate sodium immediate-release 5 mg daily groups were: back pain (26.1 percent versus 28.0 percent), arthralgia (22.1 percent versus 23.7 percent), myalgia (6.2 percent versus 6.7 percent), and bone pain (4.8 percent versus 5.3 percent).
 
 Laboratory Test Findings: Throughout the Phase 3 studies, transient decreases from baseline in serum calcium (<1 percent) and serum phosphate (<3 percent) and compensatory increases in serum PTH levels (<30 percent) were observed within 6 months in patients in osteoporosis clinical trials treated with risedronate sodium immediate-release 5 mg daily.
-There were no significant differences in serum calcium, phosphate, or PTH levels between placebo and risedronate sodium immediate- release 5 mg daily at 3 years.
+There were no significant differences in serum calcium, phosphate, or PTH levels between placebo and risedronate sodium immediate-release 5 mg daily at 3 years.
 Serum calcium levels below 8 mg/dL were observed in 18 patients, 9 (0.5 percent) in each treatment arm (placebo and risedronate sodium immediate-release 5 mg daily).
 Serum phosphorus levels below 2 mg/dL were observed in 14 patients, 3 (0.2 percent) treated with placebo and 11 (0.6 percent) treated with risedronate sodium immediate-release 5 mg daily.
 There have been rare reports (<0.1 percent) of abnormal liver function tests.

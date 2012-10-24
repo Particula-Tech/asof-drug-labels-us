@@ -14,7 +14,7 @@ Esophageal adverse experiences, such as esophagitis, esophageal ulcers and esoph
 In some cases, these have been severe and required hospitalization.
 Physicians should therefore be alert to any signs or symptoms signaling a possible esophageal reaction and patients should be instructed to discontinue Atelvia and seek medical attention if they develop dysphagia, odynophagia, retrosternal pain or new or worsening heartburn.
 
-The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking oral bisphosphonates and/or who fail to swallow it with the recommended 4 oz. of water, and/or who continue to take oral bisphosphonates after developing symptoms suggestive of esophageal irritation.
+The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking oral bisphosphonates and/or who fail to swallow it with the recommended 4 ounces of water, and/or who continue to take oral bisphosphonates after developing symptoms suggestive of esophageal irritation.
 Therefore, it is very important that the full dosing instructions are provided to, and understood by, the patient [see Dosage and Administration (2)].
 In patients who cannot comply with dosing instructions due to mental disability, therapy with Atelvia should be used under appropriate supervision.
 
@@ -35,7 +35,7 @@ Clinical judgment of the treating physician and/or oral surgeon should guide the
 
 Patients who develop ONJ while on bisphosphonate therapy should receive care by an oral surgeon.
 In these patients, extensive dental surgery to treat ONJ may exacerbate the condition.
-Discontinuation of bisphosphonate therapy should be considered based on individual benefit/risk assessment [see Adverse Reactions (6.2)]
+Discontinuation of bisphosphonate therapy should be considered based on individual benefit/risk assessment [see Adverse Reactions (6.2)].
 
 ## 5.5 Musculoskeletal Pain
 
