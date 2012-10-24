@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+“See FDA-Approved Medication Guide”
+
 PRILOSEC should be taken before eating.
 Patients should be informed that the PRILOSEC Delayed-Release Capsule should be swallowed whole.
 
@@ -29,10 +31,16 @@ For patients with a nasogastric or gastric tube in place:
 - •Refill the syringe with an equal amount of water.
 - •Shake and flush any remaining contents from the nasogastric or gastric tube into the stomach.
 
-Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.7)].
+Advise patients to immediately report and seek care for diarrhea that does not improve.
+This may be a sign of Clostridiumdifficile associated diarrhea [seeWarnings and Precautions (5.3)].
+
+Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.6)].
 
 PRILOSEC is a trademark of the AstraZeneca group of companies.
 
+Manufactured for: AstraZeneca LP, Wilmington, DE 19850
+
 ©AstraZeneca 2012
 
-Manufactured for: AstraZeneca LP, Wilmington, DE 19850
+Rev.
+10/2012

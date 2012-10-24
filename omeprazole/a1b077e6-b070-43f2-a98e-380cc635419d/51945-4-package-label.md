@@ -10,6 +10,8 @@ PRILOSEC®
 
 10 mg
 
+Dispense the accompanying Medication Guide to each patient.
+
 Rx only
 
 AstraZeneca
@@ -26,6 +28,8 @@ PRILOSEC®
 
 20 mg
 
+Dispense the accompanying Medication Guide to each patient.
+
 Rx only
 
 AstraZeneca
@@ -41,6 +45,8 @@ PRILOSEC®
 30 Delayed-Release Capsules
 
 40 mg
+
+Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
@@ -62,6 +68,8 @@ Packet contains 2.8 mg of omeprazole magnesium which is equivalent
 
 to 2.5 mg of omeprazole as delayed-release granules.
 
+Dispense the enclosed Medication Guide to each patient.
+
 Rx only
 
 Manufactured for: AstraZeneca LP, Wilmington, DE 19850
@@ -81,6 +89,8 @@ For Delayed-Release Oral Suspension
 Packet contains 11.2 mg of omeprazole magnesium which is equivalent
 
 to 10 mg of omeprazole as delayed-release granules.
+
+Dispense the enclosed Medication Guide to each patient.
 
 Rx only
 

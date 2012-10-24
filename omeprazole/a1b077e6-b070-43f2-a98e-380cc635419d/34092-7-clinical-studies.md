@@ -51,9 +51,9 @@ For a given patient, H. pylori was considered eradicated if at least two of thes
 
 The combination of omeprazole plus clarithromycin plus amoxicillin was effective in eradicating H. pylori.
 
-Table 6 Per-Protocol and Intent-to-Treat H. pylori Eradication Rates % of Patients Cured [95% Confidence Interval]
+Table 5 Per-Protocol and Intent-to-Treat H. pylori Eradication Rates % of Patients Cured [95% Confidence Interval]
 
-|  | Per-ProtocolPatients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. Pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer. | Intent-to-TreatPatients were included in theanalysis if they had documented H. Pylori infection at baseline and had confirmed duodenal ulcer disease. All dropouts were included as failures of therapy. | Per-Protocol | Intent-to-Treat |
+|  | Per-ProtocolPatients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. Pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer. | Intent-to-TreatPatients were included in the analysis if they had documented H. Pylori infection at baseline and had confirmed duodenal ulcer disease. All dropouts were included as failures of therapy. | Per-Protocol | Intent-to-Treat |
 | --- | --- | --- | --- | --- |
 |  | PRILOSEC +clarithromycin +amoxicillin |  | Clarithromycin +amoxicillin |  |
 | Study 1 | 77(p < 0.05) versus clarithromycin plus amoxicillin. [64, 86](n = 64) | 69 [57, 79](n = 80) | 43 [31, 56](n = 67) | 37 [27, 48] (n = 84) |
@@ -75,9 +75,9 @@ In the per-protocol analysis, the following patients were excluded: dropouts, pa
 
 The combination of omeprazole and clarithromycin was effective in eradicating H. pylori.
 
-Table 7 H. pylori Eradication Rates (Per-Protocol Analysis at 4 to 6 Weeks) % of Patients Cured [95% Confidence Interval]
+Table 6 H. pylori Eradication Rates (Per-Protocol Analysis at 4 to 6 Weeks) % of Patients Cured [95% Confidence Interval]
 
-|  | PRILOSEC +Clarithromycin | PRILOSEC | Clarithromycin |
+|  | PRILOSEC + Clarithromycin | PRILOSEC | Clarithromycin |
 | --- | --- | --- | --- |
 | U.S. Studies |  |  |  |
 | Study 4 | 74 [60, 85]Statistically significantly higher than clarithromycin monotherapy (p < 0.05)Statistically significantly higher than omeprazole monotherapy (p < 0.05)(n = 53) | 0 [0, 7] (n = 54) | 31 [18, 47] (n = 42) |
@@ -90,7 +90,7 @@ Ulcer healing was not significantly different when clarithromycin was added to o
 
 The combination of omeprazole and clarithromycin was effective in eradicating H. pylori and reduced duodenal ulcer recurrence.
 
-Table 8 Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status % of Patients with Ulcer Recurrence
+Table 7 Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status % of Patients with Ulcer Recurrence
 
 |  | H. pylori eradicatedH. Pylori eradication status assessed at same time point as ulcer recurrence | H. pylori not eradicated |
 | --- | --- | --- |
@@ -133,7 +133,7 @@ Symptomatic GERD
 A placebo-controlled study was conducted in Scandinavia to compare the efficacy of omeprazole 20 mg or 10 mg once daily for up to 4 weeks in the treatment of heartburn and other symptoms in GERD patients without erosive esophagitis.
 Results are shown below.
 
-Treatment of Gastric Ulcer % Successful Symptomatic OutcomeDefined as complete resolution of heartburn
+Successful Symptomatic OutcomeDefined as complete resolution of heartburn
 
 |  | PRILOSEC 20 mg a.m. | PRILOSEC 10 mg a.m. | Placebo a.m. |
 | --- | --- | --- | --- |
@@ -146,10 +146,10 @@ In a U.S. multicenter double-blind placebo controlled study of 20 mg or 40 mg of
 
 Treatment of Gastric Ulcer % Successful Symptomatic Outcome
 
-|  | 20 mgPRILOSEC(n = 83) | 40 mgPRILOSEC(n = 87) | Placebo(n = 43) |
+| Week | 20 mgPRILOSEC(n = 83) | 40 mgPRILOSEC(n = 87) | Placebo(n = 43) |
 | --- | --- | --- | --- |
-| Week 4 | 39(p < 0.01) PRILOSEC versus placebo | 45(p < 0.01) PRILOSEC versus placebo | 7 |
-| Week 8 | 74 | 75 | 14 |
+| 4 | 39(p < 0.01) PRILOSEC versus placebo | 45(p < 0.01) PRILOSEC versus placebo | 7 |
+| 8 | 74 | 75 | 14 |
 
 In this study, the 40 mg dose was not superior to the 20 mg dose of PRILOSEC in the percentage healing rate.
 Other controlled clinical trials have also shown that PRILOSEC is effective in severe GERD.

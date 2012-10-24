@@ -37,7 +37,7 @@ The efficacy of PRILOSEC used for longer than 8 weeks in these patients has not 
 If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given.
 If there is recurrence of erosive esophagitis or GERD symptoms (eg, heartburn), additional 4-8 week courses of omeprazole may be considered.
 
-## 1.4 Maintenance of Healing of Erosive Esophagitis (adults and pediatric patients)
+## 1.4 Maintenance of Healing of Erosive Esophagitis (adults)
 
 PRILOSEC is indicated to maintain healing of erosive esophagitis in pediatric patients and adults.
 
