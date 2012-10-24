@@ -22,7 +22,7 @@ If labetolol is used with nitroglycerin in patients with angina pectoris, additi
 Coadministration of aspirin and nitroglycerin has been reported to result in increased nitroglycerin maximum concentrations by as much as 67% and AUC by 73% when administered as a single dose.
 The vasodilatory and hemodynamic effects of nitroglycerin may be enhanced by concomitant administration of aspirin.
 
-## 7.4 Tissue-type Plasminogen Activator (t-PA)
+## 7.4 Tissue-type plasminogen activator (t-PA)
 
 Intravenous administration of nitroglycerin decreases the thrombolytic effect of tissue-type plasminogen activator (t-PA).
 Plasma levels of t-PA are reduced when coadministered with nitroglycerin.
