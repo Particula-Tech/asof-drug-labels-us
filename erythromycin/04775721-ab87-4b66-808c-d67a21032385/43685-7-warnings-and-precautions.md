@@ -4,6 +4,14 @@
 
 There have been reports of hepatic dysfunction, including increased liver enzymes, and hepatocellular and/or cholestatic hepatitis, with or without jaundice, occurring in patients receiving oral erythromycin products.
 
+## QT Prolongation
+
+Erythromycin has been associated with prolongation of the QT interval and infrequent cases of arrhythmia.
+Cases of torsades de pointes have been spontaneously reported during postmarketing surveillance in patients receiving erythromycin.
+Fatalities have been reported.
+Erythromycin should be avoided in patients with known prolongation of the QT interval, patients with ongoing proarrhythmic conditions such as uncorrected hypokalemia or hypomagnesemia, clinically significant bradycardia, and in patients receiving Class IA (quinidine, procainamide) or Class III (dofetilide, amiodarone, sotalol) antiarrhythmic agents.
+Elderly patients may be more susceptible to drug-associated effects on the QT interval.
+
 ## Syphilis in Pregnancy
 
 There have been reports suggesting that erythromycin does not reach the fetus in adequate concentration to prevent congenital syphilis.
@@ -32,7 +40,6 @@ This interaction is potentially life-threatening, and may occur while using both
 
 Rhabdomyolysis with or without renal impairment has been reported in seriously ill patients receiving erythromycin concomitantly with lovastatin.
 Therefore, patients receiving concomitant lovastatin and erythromycin should be carefully monitored for creatine kinase (CK) and serum transaminase levels.
-
 (See package insert for lovastatin)
 
 # PRECAUTIONS
@@ -79,7 +86,7 @@ There have been published reports suggesting that when oral erythromycin is give
 The mechanism by which this interaction occurs is unknown.
 The decrease in erythromycin concentrations due to co-administration of theophylline could result in subtherapeutic concentrations of erythromycin.
 
-Hypotension, bradyarrhythmias and lactic acidosis have been observed in patients receiving concurrent verapamil, belonging to the calcium channel blockers drug class.
+Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent verapamil, belonging to the calcium channel blockers drug class.
 
 Concomitant administration of erythromycin and digoxin has been reported to result in elevated digoxin serum levels.
 
@@ -99,9 +106,9 @@ The following CYP3A based drug interactions have been observed with erythromycin
 Post-marketing reports indicate that co-administration of erythromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system.
 Concomitant administration of erythromycin with ergotamine or dihydroergotamine is contraindicated (see CONTRAINDICATIONS).
 
-#### Triazolobenzodiazepines
+#### Triazolobenzodiazepines (such as triazolam and alprazolam) and Related Benzodiazepines
 
-(such as triazolam and alprazolam) and Related Benzodiazepines Erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines.
+Erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines.
 
 #### HMG-CoA Reductase Inhibitors
 
@@ -116,7 +123,7 @@ Reduction of sildenafil dosage should be considered.
 
 There have been spontaneous or published reports of CYP3A based interactions of erythromycin with cyclosporine, carbamazepine, tacrolimus, alfentanil, disopyramide, rifabutin, quinidine, methylprednisolone, cilostazol, vinblastine, and bromocriptine.
 
-Concomitant administration of erythromycin with pimozide, astemizole, or terfenadine is contraindicated.
+Concomitant administration of erythromycin with cisapride, pimozide, astemizole, or terfenadine is contraindicated.
 (See CONTRAINDICATIONS.)
 
 In addition, there have been reports of interactions of erythromycin with drugs not thought to be metabolized by CYP3A, including hexobarbital, phenytoin, and valproate.
@@ -176,7 +183,7 @@ Elderly patients, particularly those with reduced renal or hepatic function, may
 (See ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
 
 Elderly patients may be more susceptible to development of torsades de pointes arrhythmias than younger patients.
-(See ADVERSE REACTIONS).
+(See WARNINGS).
 
 Elderly patients may experience increased effects of oral anticoagulant therapy while undergoing treatment with erythromycin.
 (See PRECAUTIONS - Drug Interactions).

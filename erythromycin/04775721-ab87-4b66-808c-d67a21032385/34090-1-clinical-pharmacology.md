@@ -79,9 +79,9 @@ For Streptococcus spp. and Streptococcus pneumoniae:
 
 | MIC (µg/mL) | Interpretation |
 | --- | --- |
-| ≤ 0.5 | Susceptible (S) |
-| 1 - 4 | Intermediate (I) |
-| ≥ 8 | Resistant (R) |
+| ≤ 0.25 | Susceptible (S) |
+| 0.5 | Intermediate (I) |
+| ≥ 1 | Resistant (R) |
 
 A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
 A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.

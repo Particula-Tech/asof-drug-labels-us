@@ -12,7 +12,7 @@ Erythromycin activity
 
 Rx only
 
-arbor™ PHARMACEUTICALS, INC. www.arborpharma.com
+arbor® PHARMACEUTICALS, INC.
 
 # PRINCIPAL DISPLAY PANEL - 400 mg per 5 mL Bottle Label
 
@@ -28,4 +28,4 @@ Erythromycin activity
 
 Rx only
 
-arbor™ PHARMACEUTICALS, INC. www.arborpharma.com
+arbor® PHARMACEUTICALS, INC.
