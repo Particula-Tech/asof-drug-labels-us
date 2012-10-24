@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020801"
+  ],
+  "inn": "famotidine",
+  "labeler": "McNeil Consumer Pharmaceuticals Co.",
+  "package_ndcs": [
+    "16837-867-25",
+    "16837-867-35"
+  ],
+  "products": [
+    {
+      "form": "TABLET, CHEWABLE",
+      "generic": "famotidine",
+      "name": "Pepcid AC"
+    }
+  ],
+  "setid": "bffa809f-78fd-488d-9d6e-72bdd484089d",
+  "source": "dailymed"
+}
