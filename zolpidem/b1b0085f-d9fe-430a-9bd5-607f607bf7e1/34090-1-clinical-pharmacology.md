@@ -23,7 +23,7 @@ Following administration of zolpidem tartrate extended-release tablets, administ
 The mean AUC of zolpidem was 740 ng·hr/mL (range: 295 to 1359 ng·hr/mL).
 
 A food-effect study in 45 healthy subjects compared the pharmacokinetics of zolpidem tartrate extended-release tablets 12.5 mg when administered while fasting or within 30 minutes after a meal.
-Results demonstrated that with food, mean AUC and Cmax were decreased by 23% and 30%, respectively, while median Tmax was increased from 2 hours to 4 hours.
+Results demonstrated that with food, mean AUC and Cmax were decreased by 23% and 30%, respectively, while median Tmaxwas increased from 2 hours to 4 hours.
 The half-life was not changed.
 These results suggest that, for faster sleep onset, zolpidem tartrate extended-release tablets should not be administered with or immediately after a meal.
 
@@ -57,9 +57,9 @@ The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was g
 Renal Impairment
 
 Zolpidem tartrate extended-release tablets was not studied in patients with renal impairment.
-The pharmacokinetics of an immediate-release formulation of zolpidem tartrate were studied in 11 patients with end-stage renal failure (mean Clcr = 6.5 ± 1.5 mL/min) undergoing hemodialysis three times a week, who were dosed with zolpidem tartrate 10 mg orally each day for 14 or 21 days.
+The pharmacokinetics of an immediate-release formulation of zolpidem tartrate were studied in 11 patients with end-stage renal failure (mean Clcr= 6.5 ± 1.5 mL/min) undergoing hemodialysis three times a week, who were dosed with zolpidem tartrate 10 mg orally each day for 14 or 21 days.
 No statistically significant differences were observed for Cmax, Tmax, half-life, and AUC between the first and last day of drug administration when baseline concentration adjustments were made.
-On day 1, Cmax was 172 ± 29 ng/mL (range: 46 to 344 ng/mL).
+On day 1, Cmaxwas 172 ± 29 ng/mL (range: 46 to 344 ng/mL).
 After repeated dosing for 14 or 21 days, Cmax was 203 ± 32 ng/mL (range: 28 to 316 ng/mL).
 On day 1, Tmax was 1.7 ± 0.3 hr (range: 0.5 to 3 hr); after repeated dosing Tmax was 0.8 ± 0.2 hr (range: 0.5 to 2 hr). This variation is accounted for by noting that last-day serum sampling began 10 hours after the previous dose, rather than after 24 hours.
 This resulted in residual drug concentration and a shorter period to reach maximal serum concentration.

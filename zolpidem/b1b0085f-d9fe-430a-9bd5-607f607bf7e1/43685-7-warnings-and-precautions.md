@@ -51,11 +51,11 @@ Dosage adjustments may be necessary when zolpidem tartrate extended-release tabl
 
 ## 5.6 Special Populations
 
-Use In The Elderly And/Or Debilitated Patients: Impaired motor and/or cognitive performance after repeated exposure or unusual sensitivity to sedative/hypnotic drugs is a concern in the treatment of elderly and/or debilitated patients.
+Use In The Elderly And/Or Debilitated Patients:Impaired motor and/or cognitive performance after repeated exposure or unusual sensitivity to sedative/hypnotic drugs is a concern in the treatment of elderly and/or debilitated patients.
 Therefore, the recommended zolpidem tartrate extended-release tablets dosage is 6.25 mg in such patients to decrease the possibility of side effects [see DOSAGE AND ADMINISTRATION (2.2)].
 These patients should be closely monitored.
 
-Use In Patients With Concomitant Illness: Clinical experience with zolpidem tartrate extended-release tablets in patients with concomitant systemic illness is limited.
+Use In Patients With Concomitant Illness:Clinical experience with zolpidem tartrate extended-release tablets in patients with concomitant systemic illness is limited.
 Caution is advisable in using zolpidem tartrate extended-release tablets in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
 
 Although studies did not reveal respiratory depressant effects at hypnotic doses of zolpidem in normals or in patients with mild to moderate chronic obstructive pulmonary disease (COPD), a reduction in the Total Arousal Index together with a reduction in lowest oxygen saturation and increase in the times of oxygen desaturation below 80% and 90% was observed in patients with mild-to-moderate sleep apnea when treated with an immediate-release formulation of zolpidem tartrate (10 mg) when compared to placebo.
@@ -69,10 +69,10 @@ No dosage adjustment in renally impaired patients is required; however, these pa
 
 A study in subjects with hepatic impairment did reveal prolonged elimination in this group; therefore, treatment should be initiated with zolpidem tartrate extended-release tablets 6.25 mg in patients with hepatic compromise, and they should be closely monitored [see DOSAGE AND ADMINISTRATION (2.2) AND CLINICAL PHARMACOLOGY (12.3)].
 
-Use In Patients With Depression: As with other sedative/hypnotic drugs, zolpidem tartrate extended-release tablets should be administered with caution to patients exhibiting signs or symptoms of depression.
+Use In Patients With Depression:As with other sedative/hypnotic drugs, zolpidem tartrate extended-release tablets should be administered with caution to patients exhibiting signs or symptoms of depression.
 Suicidal tendencies may be present in such patients and protective measures may be required.
 Intentional overdosage is more common in this group of patients; therefore, the least amount of drug that is feasible should be prescribed for the patient at any one time.
 
-Use In Pediatric Patients: Safety and effectiveness of zolpidem has not been established in pediatric patients.
-In an 8-week study in pediatric patients (aged 6-17 years) with insomnia associated with ADHD given an immediate-release oral solution of zolpidem tartrate, zolpidem did not decrease sleep latency compared to placebo.
+Use In Pediatric Patients:Safety and effectiveness of zolpidem has not been established in pediatric patients.
+In an 8-week study in pediatric patients (aged 6 to 17 years) with insomnia associated with ADHD given an immediate-release oral solution of zolpidem tartrate, zolpidem did not decrease sleep latency compared to placebo.
 Hallucinations were reported in 7.4% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations [see USE IN SPECIFIC POPULATIONS (8.4)].

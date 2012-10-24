@@ -30,7 +30,7 @@ There were no significant pharmacodynamic effects of zolpidem on subjective drow
 
 A randomized, placebo-controlled, crossover interaction study in eight healthy female subjects between five consecutive daily doses of rifampin (600 mg) and a single dose of an immediate-release formulation of zolpidem tartrate (20 mg) given 17 hours after the last dose of rifampin showed significant reductions of the AUC (-73%), Cmax (-58%), and T1/2 (-36%) of zolpidem together with significant reductions in the pharmacodynamic effects of zolpidem.
 
-A randomized double-blind crossover interaction study in twelve healthy subjects showed that co-administration of a single 5 mg dose of immediate-release zolpidem tartrate with ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmax of zolpidem by a factor of 1.3 and increased the total AUC of zolpidem by a factor of 1.7 compared to zolpidem alone and prolonged the elimination half-life by approximately 30% along with an increase in the pharmacodynamic effects of zolpidem.
+A randomized double-blind crossover interaction study in twelve healthy subjects showed that co-administration of a single 5 mg dose of immediate-release zolpidem tartrate with ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmaxof zolpidem by a factor of 1.3 and increased the total AUC of zolpidem by a factor of 1.7 compared to zolpidem alone and prolonged the elimination half-life by approximately 30% along with an increase in the pharmacodynamic effects of zolpidem.
 Caution should be used when ketoconazole is given with zolpidem and consideration should be given to using a lower dose of zolpidem when ketoconazole and zolpidem are given together.
 Patients should be advised that use of zolpidem tartrate extended-release tablets with ketoconazole may enhance the sedative effects.
 
@@ -40,7 +40,7 @@ A study involving cimetidine/zolpidem and ranitidine/zolpidem combinations revea
 
 Zolpidem had no effect on digoxin pharmacokinetics and did not affect prothrombin time when given with warfarin in normal subjects.
 
-## 7.4 Drug-Laboratory Test Interactions
+## 7.4 Drug-Laboratory Tests Interactions
 
 Zolpidem is not known to interfere with commonly employed clinical laboratory tests.
 In addition, clinical data indicate that zolpidem does not cross-react with benzodiazepines, opiates, barbiturates, cocaine, cannabinoids, or amphetamines in two standard urine drug screens.

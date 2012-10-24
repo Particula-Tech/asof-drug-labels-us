@@ -4,7 +4,7 @@
 
 Zolpidem tartrate extended-release tablet was evaluated in three placebo-controlled studies for the treatment of patients with chronic primary insomnia (as defined in the APA Diagnostic and Statistical Manual of Mental Disorders, DSM IV).
 
-Adult outpatients (18-64 years) with primary insomnia (N=212) were evaluated in a double-blind, randomized, parallel-group, 3-week trial comparing zolpidem tartrate extended-release tablets 12.5 mg and placebo.
+Adult outpatients (18 to 64 years) with primary insomnia (N=212) were evaluated in a double-blind, randomized, parallel-group, 3-week trial comparing zolpidem tartrate extended-release tablets 12.5 mg and placebo.
 Zolpidem tartrate extended-release tablets 12.5 mg decreased wake time after sleep onset (WASO) for the first 7 hours during the first 2 nights and for the first 5 hours after 2 weeks of treatment.
 Zolpidem tartrate extended-release tablet 12.5 mg was superior to placebo on objective measures (polysomnography recordings) of sleep induction (by decreasing latency to persistent sleep [LPS]) during the first 2 nights of treatment and after 2 weeks of treatment.
 Zolpidem tartrate extended-release tablet 12.5 mg was also superior to placebo on the patient reported global impression regarding the aid to sleep after the first 2 nights and after 3 weeks of treatment.
@@ -16,13 +16,13 @@ Zolpidem tartrate extended-release tablets 6.25 mg was superior to placebo on th
 
 In both studies, in patients treated with zolpidem tartrate extended-release tablets, polysomnography showed increased wakefulness at the end of the night compared to placebo-treated patients.
 
-In a 24-week double-blind, placebo controlled, randomized study in adult outpatients (18-64 years) with primary insomnia (N=1025), zolpidem tartrate extended-release tablet 12.5 mg administered as needed (3 to 7 nights per week) was superior to placebo over 24 weeks, on patient global impression regarding aid to sleep, and on patient-reported specific sleep parameters for sleep induction and sleep maintenance with no significant increased frequency of drug intake observed over time.
+In a 24-week double-blind, placebo controlled, randomized study in adult outpatients (18 to 64 years) with primary insomnia (N=1025), zolpidem tartrate extended-release tablet 12.5 mg administered as needed (3 to 7 nights per week) was superior to placebo over 24 weeks, on patient global impression regarding aid to sleep, and on patient-reported specific sleep parameters for sleep induction and sleep maintenance with no significant increased frequency of drug intake observed over time.
 
 ## 14.2 Studies Pertinent To Safety Concerns For Sedative/Hypnotic Drugs
 
 Next-Day Residual Effects
 
-In five clinical studies [three controlled studies in adults (18-64 years of age) administered zolpidem tartrate extended-release tablets 12.5 mg and two controlled studies in the elderly (≥ 65 years of age) administered zolpidem tartrate extended-release tablets 6.25 mg or 12.5 mg], the effect of zolpidem tartrate extended-release tablets on vigilance, memory, or motor function were assessed using neurocognitive tests.
+In five clinical studies [three controlled studies in adults (18 to 64 years of age) administered zolpidem tartrate extended-release tablets 12.5 mg and two controlled studies in the elderly (≥ 65 years of age) administered zolpidem tartrate extended-release tablets 6.25 mg or 12.5 mg], the effect of zolpidem tartrate extended-release tablets on vigilance, memory, or motor function were assessed using neurocognitive tests.
 In these studies, no significant decrease in performance was observed eight hours after a nighttime dose.
 In addition, no evidence of next-day residual effects was detected with zolpidem tartrate extended-release tablets 12.5 mg and 6.25 mg using self-ratings of sedation.
 

@@ -2,26 +2,26 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Serious anaphylactic and anaphylactoid reactions [see WARNINGS AND PRECAUTIONS (5.2)
-- Abnormal thinking, behavior changes, and complex behaviors [see WARNINGS AND PRECAUTIONS (5.3)]
-- Withdrawal effects [see WARNINGS AND PRECAUTIONS (5.4)]
-- CNS-depressant effects [see WARNINGS AND PRECAUTIONS (5.5)]
+- •Serious anaphylactic and anaphylactoid reactions [see WARNINGS AND PRECAUTIONS (5.2)
+- •Abnormal thinking, behavior changes, and complex behaviors [see WARNINGS AND PRECAUTIONS (5.3)]
+- •Withdrawal effects [see WARNINGS AND PRECAUTIONS (5.4)]
+- •CNS-depressant effects [see WARNINGS AND PRECAUTIONS (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
-Associated with discontinuation of treatment: In 3-week clinical trials in adults and elderly patients (> 65 years), 3.5% (7/201) patients receiving zolpidem tartrate extended-release tablets 6.25 or 12.5 mg discontinued treatment due to an adverse reaction as compared to 0.9% (2/216) of patients on placebo.
+Associated with discontinuation of treatment:In 3-week clinical trials in adults and elderly patients (> 65 years), 3.5% (7/201) patients receiving zolpidem tartrate extended-release tablets 6.25 or 12.5 mg discontinued treatment due to an adverse reaction as compared to 0.9% (2/216) of patients on placebo.
 The reaction most commonly associated with discontinuation in patients treated with zolpidem tartrate extended-release tablets was somnolence (1%).
 
-In a 6-month study in adult patients (18-64 years of age), 8.5% (57/669) of patients receiving zolpidem tartrate extended-release tablets 12.5 mg as compared to 4.6% on placebo (16/349) discontinued treatment due to an adverse reaction.
+In a 6-month study in adult patients (18 to 64 years of age), 8.5% (57/669) of patients receiving zolpidem tartrate extended-release tablets 12.5 mg as compared to 4.6% on placebo (16/349) discontinued treatment due to an adverse reaction.
 Reactions most commonly associated with discontinuation of zolpidem tartrate extended-release tablets included anxiety (anxiety, restlessness or agitation) reported in 1.5% (10/669) of patients as compared to 0.3% (1/349) of patients on placebo, and depression (depression, major depression or depressed mood) reported in 1.5% (10/669) of patients as compared to 0.3% (1/349) of patients on placebo.
 
 Data from a clinical study in which selective serotonin reuptake inhibitor- (SSRI-) treated patients were given zolpidem revealed that four of the seven discontinuations during double-blind treatment with zolpidem (n=95) were associated with impaired concentration, continuing or aggravated depression, and manic reaction; one patient treated with placebo (n =97) was discontinued after an attempted suicide.
 
-Most commonly observed adverse reactions in controlled trials: During treatment with zolpidem tartrate extended-release tablets in adults and elderly at daily doses of 12.5 mg and 6.25 mg, respectively, each for three weeks, the most commonly observed adverse reactions associated with the use of zolpidem tartrate extended-release tablets were headache, next-day somnolence, and dizziness.
+Most commonly observed adverse reactions in controlled trials:During treatment with zolpidem tartrate extended-release tablets in adults and elderly at daily doses of 12.5 mg and 6.25 mg, respectively, each for three weeks, the most commonly observed adverse reactions associated with the use of zolpidem tartrate extended-release tablets were headache, next-day somnolence, and dizziness.
 
 In the 6-month trial evaluating zolpidem tartrate extended-release tablets 12.5 mg, the adverse reaction profile was consistent with that reported in short-term trials, except for a higher incidence of anxiety (6.3% for zolpidem tartrate extended-release tablets versus 2.6% for placebo).
 
-Adverse reactions observed at an incidence of ≥ 1% in controlled trials: The following tables enumerate treatment-emergent adverse reaction frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate extended-release tablets in placebo-controlled trials.
+Adverse reactions observed at an incidence of ≥ 1% in controlled trials:The following tables enumerate treatment-emergent adverse reaction frequencies that were observed at an incidence equal to 1% or greater among patients with insomnia who received zolpidem tartrate extended-release tablets in placebo-controlled trials.
 Events reported by investigators were classified utilizing the MedDRA dictionary for the purpose of establishing event frequencies.
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice, in which patient characteristics and other factors differ from those that prevailed in these clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigators involving related drug products and uses, since each group of drug trials is conducted under a different set of conditions.
@@ -109,56 +109,56 @@ Incidences of Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlle
 Table 2.
 Incidences of Treatment-Emergent Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial in Elderly (percentage of patients reporting)
 
-| Body System/Adverse Reaction * | Zolpidem Tartrate Extended-Release Tablet 6.25 mg (N=99) | Placebo (N=106) |
-| --- | --- | --- |
-| Infections and infestations |  |  |
-| Nasopharyngitis | 6 | 4 |
-| Lower respiratory tract infection | 1 | 0 |
-| Otitis externa | 1 | 0 |
-| Upper respiratory tract infection | 1 | 0 |
-| Psychiatric disorders |  |  |
-| Anxiety | 3 | 2 |
-| Psychomotor retardation | 2 | 0 |
-| Apathy | 1 | 0 |
-| Depressed mood | 1 | 0 |
-| Nervous system disorders |  |  |
-| Headache | 14 | 11 |
-| Dizziness | 8 | 3 |
-| Somnolence | 6 | 5 |
-| Burning sensation | 1 | 0 |
-| Dizziness postural | 1 | 0 |
-| Memory disorders ** | 1 | 0 |
-| Muscle contractions involuntary | 1 | 0 |
-| Paresthesia | 1 | 0 |
-| Tremor | 1 | 0 |
-| Cardiac disorders |  |  |
-| Palpitations | 2 | 0 |
-| Respiratory, thoracic and mediastinal disorders |  |  |
-| Dry throat | 1 | 0 |
-| Gastrointestinal disorders |  |  |
-| Flatulence | 1 | 0 |
-| Vomiting | 1 | 0 |
-| Skin and subcutaneous tissue disorders |  |  |
-| Rash | 1 | 0 |
-| Urticaria | 1 | 0 |
-| Musculoskeletal and connective tissue disorders |  |  |
-| Arthralgia | 2 | 0 |
-| Muscle cramp | 2 | 1 |
-| Neck pain | 2 | 0 |
-| Renal and urinary disorders |  |  |
-| Dysuria | 1 | 0 |
-| Reproductive system and breast disorders |  |  |
-| Vulvovaginal dryness | 1 | 0 |
-| General disorders and administration site conditions |  |  |
-| Influenza like illness | 1 | 0 |
-| Pyrexia | 1 | 0 |
-| Injury, poisoning and procedural complications |  |  |
-| Neck injury | 1 | 0 |
-| *Reactions reported by at least 1% of patients treated with zolpidem tartrate extended-release tablets and at greater frequency than in the placebo group. **Memory disorders include: memory impairment, amnesia, anterograde amnesia. |  |  |
+| Body System/Adverse Reaction * | Zolpidem Tartrate Extended-Release Tablet 6.25 mg (N=99) | Placebo (N=106) |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Infections and infestations |  |  |  |  |  |
+| Nasopharyngitis | 6 | 4 |  |  |  |
+| Lower respiratory tract infection | 1 | 0 |  |  |  |
+| Otitis externa | 1 | 0 |  |  |  |
+| Upper respiratory tract infection | 1 | 0 |  |  |  |
+| Psychiatric disorders |  |  |  |  |  |
+| Anxiety | 3 | 2 |  |  |  |
+| Psychomotor retardation | 2 | 0 |  |  |  |
+| Apathy | 1 | 0 |  |  |  |
+| Depressed mood | 1 | 0 |  |  |  |
+| Nervous system disorders |  |  |  |  |  |
+| Headache | 14 | 11 |  |  |  |
+| Dizziness | 8 | 3 |  |  |  |
+| Somnolence | 6 | 5 |  |  |  |
+| Burning sensation | 1 | 0 |  |  |  |
+| Dizziness postural | 1 | 0 |  |  |  |
+| Memory disorders ** | 1 | 0 |  |  |  |
+| Muscle contractions involuntary | 1 | 0 |  |  |  |
+| Paresthesia | 1 | 0 |  |  |  |
+| Tremor | 1 | 0 |  |  |  |
+| Cardiac disorders |  |  |  |  |  |
+| Palpitations | 2 | 0 |  |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |
+| Dry throat | 1 | 0 |  |  |  |
+| Gastrointestinal disorders |  |  |  |  |  |
+| Flatulence | 1 | 0 |  |  |  |
+| Vomiting | 1 | 0 |  |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |  |
+| Rash | 1 | 0 |  |  |  |
+| Urticaria | 1 | 0 |  |  |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |  |
+| Arthralgia | 2 | 0 |  |  |  |
+| Muscle cramp | 2 | 1 |  |  |  |
+| Neck pain | 2 | 0 |  |  |  |
+| Renal and urinary disorders |  |  |  |  |  |
+| Dysuria | 1 | 0 |  |  |  |
+| Reproductive system and breast disorders |  |  |  |  |  |
+| Vulvovaginal dryness | 1 | 0 |  |  |  |
+| General disorders and administration site conditions |  |  |  |  |  |
+| Influenza like illness | 1 | 0 |  |  |  |
+| Pyrexia | 1 | 0 |  |  |  |
+| Injury, poisoning and procedural complications |  |  |  |  |  |
+| Neck injury | 1 | 0 |  |  |  |
+| *Reactions reported by at least 1% of patients treated with zolpidem tartrate extended-release tablets and at greater frequency than in the placebo group. **Memory disorders include: memory impairment, amnesia, anterograde amnesia. |  |  |  |  |  |
 
-Dose Relationship For Adverse Reactions: There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
+Dose Relationship For Adverse Reactions:There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
 
-Other Adverse Reactions Observed During The Premarketing Evaluation Of Zolpidem Tartrate Extended-Release Tablet: Other treatment-emergent adverse reactions associated with participation in zolpidem tartrate extended-release tablets studies (those reported at frequencies of <1%) were not different in nature or frequency to those seen in studies with immediate-release zolpidem tartrate, which are listed below.
+Other Adverse Reactions Observed During The Premarketing Evaluation Of Zolpidem Tartrate Extended-Release Tablet:Other treatment-emergent adverse reactions associated with participation in zolpidem tartrate extended-release tablets studies (those reported at frequencies of <1%) were not different in nature or frequency to those seen in studies with immediate-release zolpidem tartrate, which are listed below.
 
 Adverse Events Observed During the Premarketing Evaluation of Immediate-Release Zolpidem Tartrate
 
@@ -180,10 +180,10 @@ Body as a whole: Frequent: asthenia.
 Infrequent: chest pain, edema, falling, fever, malaise, trauma.
 Rare: allergic reaction, allergy aggravated, anaphylactic shock, face edema, hot flashes, increased ESR, pain, restless legs, rigors, tolerance increased, weight decrease.
 
-Cardiovascular system: Infrequent: cerebrovascular disorder, hypertension, tachycardia.
+Cardiovascular system:Infrequent: cerebrovascular disorder, hypertension, tachycardia.
 Rare: angina pectoris, arrhythmia, arteritis, circulatory failure, extrasystoles, hypertension aggravated, myocardial infarction, phlebitis, pulmonary embolism, pulmonary edema, varicose veins, ventricular tachycardia.
 
-Central and peripheral nervous system: Frequent: ataxia, confusion, drowsiness, drugged feeling, euphoria, insomnia, lethargy, lightheadedness, vertigo.
+Central and peripheral nervous system:Frequent: ataxia, confusion, drowsiness, drugged feeling, euphoria, insomnia, lethargy, lightheadedness, vertigo.
 Infrequent: agitation, decreased cognition, detached, difficulty concentrating, dysarthria, emotional lability, hallucination, hypoesthesia, illusion, leg cramps, migraine, nervousness,paresthesia, sleeping (after daytime dosing), speech disorder, stupor, tremor.
 Rare: abnormal gait, abnormal thinking, aggressive reaction, apathy, appetite increased, decreased libido, delusion, dementia, depersonalization, dysphasia, feeling strange, hypokinesia, hypotonia, hysteria, intoxicated feeling, manic reaction, neuralgia, neuritis, neuropathy, neurosis, panic attacks, paresis, personality disorder, somnambulism, suicide attempts, tetany, yawning.
 
@@ -191,7 +191,7 @@ Gastrointestinal system: Frequent: diarrhea, dyspepsia, hiccup.
 Infrequent: anorexia, constipation, dysphagia, flatulence, gastroenteritis.
 Rare: enteritis, eructation, esophagospasm, gastritis, hemorrhoids, intestinal obstruction, rectal hemorrhage, tooth caries.
 
-Hematologic and lymphatic system: Rare: anemia, hyperhemoglobinemia, leukopenia, lymphadenopathy, macrocytic anemia, purpura, thrombosis.
+Hematologic and lymphatic system:Rare: anemia, hyperhemoglobinemia, leukopenia, lymphadenopathy, macrocytic anemia, purpura, thrombosis.
 
 Immunologic system: Infrequent: infection.
 Rare: abscess herpes simplex herpes zoster, otitis externa, otitis media.
@@ -202,23 +202,23 @@ Rare: bilirubinemia, increased SGOT.
 Metabolic and nutritional: Infrequent: hyperglycemia, thirst.
 Rare: gout, hypercholesteremia, hyperlipidemia, increased alkaline phosphatase, increased BUN, periorbital edema.
 
-Musculoskeletal system: Infrequent: arthritis.
+Musculoskeletal system:Infrequent: arthritis.
 Rare: arthrosis, muscle weakness, sciatica, tendinitis.
 
-Reproductive system: Infrequent: menstrual disorder, vaginitis.
+Reproductive system:Infrequent: menstrual disorder, vaginitis.
 Rare: breast fibroadenosis, breast neoplasm, breast pain.
 
-Respiratory system: Frequent: sinusitis.
+Respiratory system:Frequent: sinusitis.
 Infrequent: bronchitis, coughing, dyspnea.
 Rare: bronchospasm, epistaxis, hypoxia, laryngitis, pneumonia.
 
-Skin and appendages: Infrequent: pruritus.
+Skin and appendages:Infrequent: pruritus.
 Rare: acne, bullous eruption, dermatitis, furunculosis, injection-site inflammation, photosensitivity reaction, urticaria.
 
-Special senses: Frequent: diplopia, vision abnormal.
+Special senses:Frequent: diplopia, vision abnormal.
 Infrequent: eye irritation, eye pain, scleritis, taste perversion, tinnitus.
 Rare: conjunctivitis, corneal ulceration, lacrimation abnormal, parosmia, photopsia.
 
-Urogenital system: Frequent: urinary tract infection.
+Urogenital system:Frequent: urinary tract infection.
 Infrequent: cystitis, urinary incontinence.
 Rare: acute renal failure, dysuria, micturition frequency, nocturia, polyuria, pyelonephritis, renal pain, urinary retention.

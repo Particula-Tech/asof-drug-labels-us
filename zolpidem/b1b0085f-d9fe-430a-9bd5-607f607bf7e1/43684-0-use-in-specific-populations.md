@@ -35,9 +35,9 @@ Caution should be exercised when zolpidem tartrate extended-release tablet is ad
 
 Safety and effectiveness of zolpidem have not been established in pediatric patients.
 
-In an 8-week controlled study, 201 pediatric patients (aged 6-17 years) with insomnia associated with attention-deficit/hyperactivity disorder (90% of the patients were using psychoanaleptics), were treated with an oral solution of zolpidem (n=136), or placebo (n = 65).
+In an 8-week controlled study, 201 pediatric patients (aged 6 to 17 years) with insomnia associated with attention-deficit/hyperactivity disorder (90% of the patients were using psychoanaleptics), were treated with an oral solution of zolpidem (n=136), or placebo (n = 65).
 Zolpidem did not significantly decrease latency to persistent sleep, compared to placebo, as measured by polysomnography after 4 weeks of treatment.
-Psychiatric and nervous system disorders comprised the most frequent (> 5%) treatment emergent adverse reactions observed with zolpidem versus placebo and included dizziness (23.5% vs. 1.5%), headache (12.5% vs. 9.2%), and hallucinations (7.4% vs. 0%) [see WARNINGS AND PRECAUTIONS (5.6)].
+Psychiatric and nervous system disorders comprised the most frequent (> 5%) treatment emergent adverse reactions observed with zolpidem versus placebo and included dizziness (23.5% vs. 1.5%), headache (12.5% vs. 9.2%), and hallucinations (7.4% vs. 0%) [seeWARNINGS AND PRECAUTIONS (5.6)].
 Ten patients on zolpidem (7.4%) discontinued treatment due to an adverse reaction.
 
 FDA has not required pediatric studies of zolpidem tartrate extended-release tablets in the pediatric population based on these efficacy and safety findings.
