@@ -37,7 +37,7 @@ If progressive renal impairment becomes evident consider withholding or disconti
 Olmesartan medoxomil.
 Changes in renal function occur in some individuals treated with olmesartan medoxomil as a consequence of inhibiting the renin-angiotensin-aldosterone system.
 In patients whose renal function may depend upon the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with ACE inhibitors and angiotensin receptor antagonists has been associated with oliguria or progressive azotemia and (rarely) with acute renal failure and/or death.
-Similar effects may occur in patients treated with Tribenzor due to the olmesartan medoxomil component [see Clinical Pharmacology (12.3)].
+Similar effects may occur in patients treated with Tribenzor due to the olmesartan medoxomil component [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen (BUN) have been reported.
 There has been no long-term use of olmesartan medoxomil in patients with unilateral or bilateral renal artery stenosis, but similar effects would be expected with Tribenzor because of the olmesartan medoxomil component.

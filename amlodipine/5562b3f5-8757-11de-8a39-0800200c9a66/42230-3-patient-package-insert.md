@@ -30,6 +30,7 @@ Do not take Tribenzor if you:
 - have low or no urine output
 - are allergic to other Sulfonamide type medicines.
   Ask your doctor if you are not sure.
+- are taking aliskiren and have diabetes.
 
 What should I tell my doctor before taking Tribenzor?
 Before taking Tribenzor, tell your doctor if you:
