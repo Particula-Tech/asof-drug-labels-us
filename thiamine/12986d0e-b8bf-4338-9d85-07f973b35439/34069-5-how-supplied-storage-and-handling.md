@@ -11,8 +11,12 @@ Protect from light.
 
 Use only if solution is clear and seal intact.
 
+Preservative Free.
+
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
-Made in Ireland
+Manufactured by: Mylan Institutional Galway, Ireland
 
-SEPTEMBER 2011 MI:THIAIJ:R1
+0788L102
+
+REVISED APRIL 2012 MI:THIAIJ:R2

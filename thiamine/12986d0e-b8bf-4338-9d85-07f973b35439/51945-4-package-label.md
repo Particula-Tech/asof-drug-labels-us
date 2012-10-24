@@ -2,11 +2,13 @@ PRINCIPAL DISPLAY PANEL - 200 mg/2 mL
 
 NDC 67457-196-02
 
-For Intramuscular or Intravenous Use Only
-
 Thiamine Hydrochloride Injection, USP 200 mg/2 mL (100 mg/mL)
 
+For Intramuscular or Intravenous Use Only
+
 Rx only 25 x 2 mL Multi-Dose Vials
+
+Preservative Free
 
 Sterile.
 Non-pyrogenic.
@@ -24,10 +26,10 @@ Protect from light.
 
 Use only if solution is clear and seal intact.
 
-MI:196:25C:R1
+MI:196:25C:R2
 
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
-Made in Ireland
+Manufactured by: Mylan Institutional Galway, Ireland
 
-www.mylan.com
+Mylan.com
