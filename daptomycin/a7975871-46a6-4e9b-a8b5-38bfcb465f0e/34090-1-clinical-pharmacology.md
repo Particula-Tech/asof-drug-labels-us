@@ -120,7 +120,7 @@ No adjustment of CUBICIN dosage is warranted in obese patients.
 
 Pediatric
 
-The pharmacokinetics of daptomycin in pediatric populations (<18 years of age) have not been established.
+The pharmacokinetics of daptomycin in pediatric populations (<18 years of age) have not been established [see Nonclinical Toxicology (13.2)].
 
 Drug-Drug Interactions
 

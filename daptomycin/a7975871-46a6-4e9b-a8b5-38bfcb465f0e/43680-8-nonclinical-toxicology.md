@@ -9,6 +9,8 @@ Daptomycin did not affect the fertility or reproductive performance of male and 
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
+Adult Animals
+
 In animals, daptomycin administration has been associated with effects on skeletal muscle.
 However, there were no changes in cardiac or smooth muscle.
 Skeletal muscle effects were characterized by microscopic degenerative/regenerative changes and variable elevations in creatine phosphokinase (CPK).
@@ -17,10 +19,23 @@ The degree of skeletal myopathy showed no increase when treatment was extended f
 Severity was dose-dependent.
 All muscle effects, including microscopic changes, were fully reversible within 30 days following the cessation of dosing.
 
-In adult animals, effects on peripheral nerve (characterized by axonal degeneration and frequently accompanied by significant losses of patellar reflex, gag reflex, and pain perception) were observed at doses higher than those associated with skeletal myopathy.
+In adult animals, effects on peripheral nerve (characterized by axonal degeneration and frequently accompanied by significant losses of patellar reflex, gag reflex, and pain perception) were observed at daptomycin doses higher than those associated with skeletal myopathy.
 Deficits in the dogs' patellar reflexes were seen within 2 weeks after the start of treatment at 40 mg/kg/day (9 times the human Cmax at the 6 mg/kg q24h dose), with some clinical improvement noted within 2 weeks after the cessation of dosing.
-However, at 75 mg/kg/day for 1 month, 7/8 dogs failed to regain full patellar reflex responses within a 3-month recovery period.
+However, at 75 mg/kg/day for 1 month, 7 of 8 dogs failed to regain full patellar reflex responses within a 3-month recovery period.
 In a separate study in dogs receiving doses of 75 and 100 mg/kg/day for 2 weeks, minimal residual histological changes were noted at 6 months after the cessation of dosing.
 However, recovery of peripheral nerve function was evident.
 
-Tissue distribution studies in rats showed that daptomycin is retained in the kidney but appears to penetrate only minimally the blood-brain barrier following single and multiple doses.
+Tissue distribution studies in rats showed that daptomycin is retained in the kidney but appears to penetrate the blood-brain barrier only minimally following single and multiple doses.
+
+Juvenile Animals
+
+Target organs of daptomycin-related effects in 7-week-old juvenile dogs were skeletal muscle and nerve, the same target organs as in adult dogs.
+In juvenile dogs, nerve effects were noted at lower daptomycin blood concentrations than in adult dogs following 28 days of dosing.
+In contrast to adult dogs, juvenile dogs also showed evidence of effects in nerves of the spinal cord as well as peripheral nerves after 28 days of dosing.
+No nerve effects were noted in juvenile dogs following 14 days of dosing at doses up to 75 mg/kg/day.
+
+Administration of daptomycin to 7-week-old juvenile dogs for 28 days at doses of 50 mg/kg/day produced minimal degenerative effects on the peripheral nerve and spinal cord in several animals, with no corresponding clinical signs.
+A dose of 150 mg/kg/day for 28 days produced minimal degeneration in the peripheral nerve and spinal cord as well as minimal to mild degeneration of the skeletal muscle in a majority of animals, accompanied by slight to severe muscle weakness evident in most dogs.
+Following a 28-day recovery phase, microscopic examination revealed recovery of the skeletal muscle and the ulnar nerve effects, but nerve degeneration in the sciatic nerve and spinal cord was still observed in all 150 mg/kg/day dogs.
+
+Following once-daily administration of daptomycin to juvenile dogs for 28 days, microscopic effects in nerve tissue were noted at a Cmax value of 417 mcg/mL, which is approximately 3-fold less than the Cmax value associated with nerve effects in adult dogs treated once daily with daptomycin for 28 days (1308 mcg/mL).

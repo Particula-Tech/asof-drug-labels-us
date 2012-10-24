@@ -18,7 +18,7 @@ Caution should be exercised when CUBICIN is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of CUBICIN in patients under the age of 18 years have not been established.
+Safety and effectiveness of CUBICIN in patients under the age of 18 years have not been established [see Nonclinical Toxicology (13.2)].
 
 ## 8.5 Geriatric Use
 
