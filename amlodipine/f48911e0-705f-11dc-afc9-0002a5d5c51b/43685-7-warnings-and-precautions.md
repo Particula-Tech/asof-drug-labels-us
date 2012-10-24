@@ -46,7 +46,7 @@ There are no studies of Azor in patients with renal impairment.
 Olmesartan medoxomil.
 Changes in renal function may be anticipated in susceptible individuals treated with olmesartan medoxomil as a consequence of inhibiting the renin-angiotensin-aldosterone system.
 In patients whose renal function may depend upon the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with angiotensin converting enzyme inhibitors and angiotensin receptor antagonists has been associated with oliguria or progressive azotemia and (rarely) with acute renal failure and/or death.
-Similar effects may occur in patients treated with Azor because of the olmesartan medoxomil component [See Clinical Pharmacology (12.3)].
+Similar effects may occur in patients treated with Azor because of the olmesartan medoxomil component [See Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen (BUN) have been reported.
 There has been no long-term use of olmesartan medoxomil in patients with unilateral or bilateral renal artery stenosis, but similar effects would be expected with olmesartan medoxomil and Azor.

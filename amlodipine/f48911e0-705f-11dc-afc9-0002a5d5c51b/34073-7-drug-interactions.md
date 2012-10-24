@@ -44,3 +44,11 @@ No significant drug interactions were reported in studies in which olmesartan me
 The bioavailability of olmesartan medoxomil was not significantly altered by the co-administration of antacids [Al(OH)3/Mg(OH)2].
 
 Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; thus, interactions with drugs that inhibit, induce, or are metabolized by those enzymes are not expected.
+
+Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function and electrolytes in patients on Azor and other agents that affect the RAS.
+
+Do not co-administer aliskiren with Azor in patients with diabetes [See Contraindications (4)].
+Avoid use of aliskiren with Azor in patients with renal impairment (GFR <60 ml/min).
