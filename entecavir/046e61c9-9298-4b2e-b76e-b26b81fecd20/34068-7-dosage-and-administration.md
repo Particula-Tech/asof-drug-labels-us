@@ -17,7 +17,7 @@ The recommended dose of BARACLUDE for chronic hepatitis B virus infection in adu
 ### Oral Solution
 
 BARACLUDE (entecavir) Oral Solution contains 0.05 mg of entecavir per milliliter.
-Therefore, 10 mL of the oral solution provides a 0.5-mg dose and 20 mL provides a 1-mg dose of entecavir.
+Therefore, 10 mL of the oral solution provides a 0.5 mg dose and 20 mL provides a 1 mg dose of entecavir.
 
 ## 2.2 Renal Impairment
 

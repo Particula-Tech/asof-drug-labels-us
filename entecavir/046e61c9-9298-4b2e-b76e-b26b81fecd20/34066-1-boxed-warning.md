@@ -1,4 +1,4 @@
-# WARNINGS: SEVERE ACUTE EXACERBATIONS OF HEPATITIS B, PATIENTS CO-INFECTED WITH HIV AND HBV, and LACTIC ACIDOSIS AND HEPATOMEGALY
+# WARNING: SEVERE ACUTE EXACERBATIONS OF HEPATITIS B, PATIENTS CO-INFECTED WITH HIV AND HBV, and LACTIC ACIDOSIS AND HEPATOMEGALY
 
 Severe acute exacerbations of hepatitis B have been reported in patients who have discontinued anti-hepatitis B therapy, including entecavir.
 Hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in patients who discontinue anti-hepatitis B therapy.

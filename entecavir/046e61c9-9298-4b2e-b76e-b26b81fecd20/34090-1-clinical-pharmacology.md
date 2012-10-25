@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Entecavir is an antiviral drug [see Clinical Pharmacology (12.4)].
+Entecavir is an antiviral drug [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -13,8 +13,8 @@ The single- and multiple-dose pharmacokinetics of entecavir were evaluated in he
 Following oral administration in healthy subjects, entecavir peak plasma concentrations occurred between 0.5 and 1.5 hours.
 Following multiple daily doses ranging from 0.1 to 1.0 mg, Cmax and area under the concentration-time curve (AUC) at steady state increased in proportion to dose.
 Steady state was achieved after 6 to 10 days of once-daily administration with approximately 2-fold accumulation.
-For a 0.5-mg oral dose, Cmax at steady state was 4.2 ng/mL and trough plasma concentration (Ctrough) was 0.3 ng/mL.
-For a 1-mg oral dose, Cmax was 8.2 ng/mL and Ctrough was 0.5 ng/mL.
+For a 0.5 mg oral dose, Cmax at steady state was 4.2 ng/mL and trough plasma concentration (Ctrough) was 0.3 ng/mL.
+For a 1 mg oral dose, Cmax was 8.2 ng/mL and Ctrough was 0.5 ng/mL.
 
 In healthy subjects, the bioavailability of the tablet was 100% relative to the oral solution.
 The oral solution and tablet may be used interchangeably.
@@ -45,14 +45,14 @@ Gender: There are no significant gender differences in entecavir pharmacokinetic
 
 Race: There are no significant racial differences in entecavir pharmacokinetics.
 
-Elderly: The effect of age on the pharmacokinetics of entecavir was evaluated following administration of a single 1-mg oral dose in healthy young and elderly volunteers.
+Elderly: The effect of age on the pharmacokinetics of entecavir was evaluated following administration of a single 1 mg oral dose in healthy young and elderly volunteers.
 Entecavir AUC was 29.3% greater in elderly subjects compared to young subjects.
 The disparity in exposure between elderly and young subjects was most likely attributable to differences in renal function.
 Dosage adjustment of BARACLUDE should be based on the renal function of the patient, rather than age [see Dosage and Administration (2.2)].
 
 Pediatrics: Pharmacokinetic studies have not been conducted in children.
 
-Renal impairment: The pharmacokinetics of entecavir following a single 1-mg dose were studied in subjects (without chronic hepatitis B virus infection) with selected degrees of renal impairment, including subjects whose renal impairment was managed by hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
+Renal impairment: The pharmacokinetics of entecavir following a single 1 mg dose were studied in subjects (without chronic hepatitis B virus infection) with selected degrees of renal impairment, including subjects whose renal impairment was managed by hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
 Results are shown in Table 5 [see Dosage and Administration (2.2)].
 
 Table 5: Pharmacokinetic Parameters in Subjects with Selected Degrees of Renal Function
@@ -67,15 +67,15 @@ Table 5: Pharmacokinetic Parameters in Subjects with Selected Degrees of Renal F
 | CLT/F (mL/min) (SD) | 588.1 (153.7) | 309.2 (62.6) | 226.3 (60.1) | 100.6 (29.1) | 50.6 (16.5) | 35.7 (19.6) |
 | a Dosed immediately following hemodialysis. CLR = renal clearance; CLT/F = apparent oral clearance. |  |  |  |  |  |  |
 
-Following a single 1-mg dose of entecavir administered 2 hours before the hemodialysis session, hemodialysis removed approximately 13% of the entecavir dose over 4 hours.
+Following a single 1 mg dose of entecavir administered 2 hours before the hemodialysis session, hemodialysis removed approximately 13% of the entecavir dose over 4 hours.
 CAPD removed approximately 0.3% of the dose over 7 days [see Dosage and Administration (2.2)].
 
-Hepatic impairment: The pharmacokinetics of entecavir following a single 1-mg dose were studied in subjects (without chronic hepatitis B virus infection) with moderate or severe hepatic impairment (Child-Turcotte-Pugh Class B or C). The pharmacokinetics of entecavir were similar between hepatically impaired and healthy control subjects; therefore, no dosage adjustment of BARACLUDE is recommended for patients with hepatic impairment.
+Hepatic impairment: The pharmacokinetics of entecavir following a single 1 mg dose were studied in subjects (without chronic hepatitis B virus infection) with moderate or severe hepatic impairment (Child-Turcotte-Pugh Class B or C). The pharmacokinetics of entecavir were similar between hepatically impaired and healthy control subjects; therefore, no dosage adjustment of BARACLUDE is recommended for patients with hepatic impairment.
 
-Post-liver transplant: The safety and efficacy of BARACLUDE in liver transplant recipients are unknown.
-However, in a small pilot study of entecavir use in HBV-infected liver transplant recipients on a stable dose of cyclosporine A (n=5) or tacrolimus (n=4), entecavir exposure was approximately 2-fold the exposure in healthy subjects with normal renal function.
+Post-liver transplant: Limited data are available on the safety and efficacy of BARACLUDE in liver transplant recipients.
+In a small pilot study of entecavir use in HBV-infected liver transplant recipients on a stable dose of cyclosporine A (n=5) or tacrolimus (n=4), entecavir exposure was approximately 2-fold the exposure in healthy subjects with normal renal function.
 Altered renal function contributed to the increase in entecavir exposure in these subjects.
-The potential for pharmacokinetic interactions between entecavir and cyclosporine A or tacrolimus was not formally evaluated [see Use in Specific Populations (8.7)].
+The potential for pharmacokinetic interactions between entecavir and cyclosporine A or tacrolimus was not formally evaluated [see Use in Specific Populations (8.8)].
 
 ### Drug Interactions
 
@@ -103,7 +103,7 @@ The median EC50 value for entecavir against lamivudine-resistant HBV (rtL180M, r
 
 The coadministration of HIV nucleoside/nucleotide reverse transcriptase inhibitors (NRTIs) with BARACLUDE is unlikely to reduce the antiviral efficacy of BARACLUDE against HBV or of any of these agents against HIV.
 In HBV combination assays in cell culture, abacavir, didanosine, lamivudine, stavudine, tenofovir, or zidovudine were not antagonistic to the anti-HBV activity of entecavir over a wide range of concentrations.
-In HIV antiviral assays, entecavir was not antagonistic to the cell culture anti-HIV activity of these six NRTIs or emtricitabine at concentrations greater than 100 times the Cmax of entecavir using the 1-mg dose.
+In HIV antiviral assays, entecavir was not antagonistic to the cell culture anti-HIV activity of these six NRTIs or emtricitabine at concentrations greater than 100 times the Cmax of entecavir using the 1 mg dose.
 
 #### Antiviral Activity against HIV
 
@@ -126,7 +126,7 @@ In addition, emerging amino acid substitutions at rtM204I/V and rtL180M, rtL80I,
 For subjects who continued treatment beyond 48 weeks, 75% (202/269) had HBV DNA <300 copies/mL at end of dosing (up to 96 weeks).
 
 HBeAg-positive (n=243) and -negative (n=39) treatment-naïve subjects who failed to achieve the study-defined complete response by 96 weeks were offered continued entecavir treatment in a rollover study.
-Complete response for HBeAg-positive was <0.7 MEq/mL (approximately 7 x 105 copies/mL) serum HBV DNA and HBeAg loss and, for HBeAg-negative was <0.7 MEq/mL HBV DNA and ALT normalization.
+Complete response for HBeAg-positive was <0.7 MEq/mL (approximately 7 × 105 copies/mL) serum HBV DNA and HBeAg loss and, for HBeAg-negative was <0.7 MEq/mL HBV DNA and ALT normalization.
 Subjects received 1 mg entecavir once daily for up to an additional 144 weeks.
 Of these 282 subjects, 141 HBeAg-positive and 8 HBeAg-negative subjects entered the long-term follow-up rollover study and were evaluated for entecavir resistance.
 Of the 149 subjects entering the rollover study, 88% (131/149), 92% (137/149), and 92% (137/149) attained serum HBV DNA <300 copies/mL by Weeks 144, 192, and 240 (including end of dosing), respectively.

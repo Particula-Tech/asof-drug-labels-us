@@ -42,7 +42,7 @@ Table 2: Clinical Adverse Reactionsa of Moderate-Severe Intensity (Grades 2–4)
 | Insomnia | <1% | <1% | 0 | <1% |
 | a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. |  |  |  |  |
 | b Studies AI463022 and AI463027. |  |  |  |  |
-| c Includes Study AI463026 and the BARACLUDE 1-mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of BARACLUDE (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. |  |  |  |  |
+| c Includes Study AI463026 and the BARACLUDE 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of BARACLUDE (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. |  |  |  |  |
 
 #### Laboratory Abnormalities
 
@@ -54,20 +54,20 @@ Table 3: Selected Treatment-Emergenta Laboratory Abnormalities Reported in Four 
 | --- | --- | --- | --- | --- |
 |  | Nucleoside-Naïveb |  | Lamivudine-Refractoryc |  |
 | Any Grade 3–4 laboratory abnormalityd | 35% | 36% | 37% | 45% |
-| ALT >10 X ULN and >2 X baseline | 2% | 4% | 2% | 11% |
-| ALT >5.0 X ULN | 11% | 16% | 12% | 24% |
+| ALT >10 × ULN and >2 × baseline | 2% | 4% | 2% | 11% |
+| ALT >5.0 × ULN | 11% | 16% | 12% | 24% |
 | Albumin <2.5 g/dL | <1% | <1% | 0 | 2% |
-| Total bilirubin >2.5 X ULN | 2% | 2% | 3% | 2% |
-| Lipase ≥2.1 X ULN | 7% | 6% | 7% | 7% |
-| Creatinine >3.0 X ULN | 0 | 0 | 0 | 0 |
+| Total bilirubin >2.5 × ULN | 2% | 2% | 3% | 2% |
+| Lipase ≥2.1 × ULN | 7% | 6% | 7% | 7% |
+| Creatinine >3.0 × ULN | 0 | 0 | 0 | 0 |
 | Confirmed creatinine increase ≥0.5 mg/dL | 1% | 1% | 2% | 1% |
 | Hyperglycemia, fasting >250 mg/dL | 2% | 1% | 3% | 1% |
 | Glycosuriae | 4% | 3% | 4% | 6% |
 | Hematuriaf | 9% | 10% | 9% | 6% |
 | Platelets <50,000/mm3 | <1% | <1% | <1% | <1% |
-| a On-treatment value worsened from baseline to Grade 3 or Grade 4 for all parameters except albumin (any on-treatment value <2.5 g/dL), confirmed creatinine increase ≥0.5 mg/dL, and ALT >10 X ULN and >2 X baseline. |  |  |  |  |
+| a On-treatment value worsened from baseline to Grade 3 or Grade 4 for all parameters except albumin (any on-treatment value <2.5 g/dL), confirmed creatinine increase ≥0.5 mg/dL, and ALT >10 × ULN and >2 × baseline. |  |  |  |  |
 | b Studies AI463022 and AI463027. |  |  |  |  |
-| c Includes Study AI463026 and the BARACLUDE 1-mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of BARACLUDE (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. |  |  |  |  |
+| c Includes Study AI463026 and the BARACLUDE 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of BARACLUDE (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. |  |  |  |  |
 | d Includes hematology, routine chemistries, renal and liver function tests, pancreatic enzymes, and urinalysis. |  |  |  |  |
 | e Grade 3 = 3+, large, ≥ 500 mg/dL; Grade 4 = 4+, marked, severe. |  |  |  |  |
 | f Grade 3 = 3+, large; Grade 4 = ≥ 4+, marked, severe, many. |  |  |  |  |
@@ -89,7 +89,7 @@ Table 4: Exacerbations of Hepatitis During Off-Treatment Follow-up, Subjects in 
 
 |  | BARACLUDE | Lamivudine |
 | --- | --- | --- |
-|  | Subjects with ALT Elevations >10 X ULN and >2 X Referencea |  |
+|  | Subjects with ALT Elevations >10 × ULN and >2 × Referencea |  |
 | Nucleoside-naïve |  |  |
 | HBeAg-positive | 4/174 (2%) | 13/147 (9%) |
 | HBeAg-negative | 24/302 (8%) | 30/270 (11%) |
@@ -107,12 +107,16 @@ The majority of deaths (11 in the BARACLUDE group and 16 in the adefovir dipivox
 The rate of hepatocellular carcinoma (HCC) through Week 48 was 6% (6/102) for subjects treated with BARACLUDE and 8% (7/89) for subjects treated with adefovir dipivoxil.
 Five percent of subjects in either treatment arm discontinued therapy due to an adverse event through Week 48.
 
-No subject in either treatment arm experienced an on-treatment hepatic flare (ALT >2 X baseline and >10 X ULN) through Week 48.
+No subject in either treatment arm experienced an on-treatment hepatic flare (ALT >2 × baseline and >10 × ULN) through Week 48.
 Eleven of 102 (11%) subjects treated with BARACLUDE and 11/89 (13%) subjects treated with adefovir dipivoxil had a confirmed increase in serum creatinine of 0.5 mg/dL through Week 48.
 
 ### HIV/HBV Co-infected
 
 The safety profile of BARACLUDE 1 mg (n=51) in HIV/HBV co-infected subjects enrolled in Study AI463038 was similar to that of placebo (n=17) through 24 weeks of blinded treatment and similar to that seen in non-HIV infected subjects [see Warnings and Precautions (5.2)].
+
+### Liver Transplant Recipients
+
+Among 65 subjects receiving BARACLUDE in an open-label, post-liver transplant trial [see Use in Specific Populations (8.8)], the frequency and nature of adverse events were consistent with those expected in patients who have received a liver transplant and the known safety profile of BARACLUDE.
 
 ## 6.2 Postmarketing Experience
 

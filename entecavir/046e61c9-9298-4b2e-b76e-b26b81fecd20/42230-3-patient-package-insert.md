@@ -1,5 +1,3 @@
-FDA-approved Patient Labeling
-
 Patient Information
 
 BARACLUDE® (BEAR ah klude) (entecavir) Tablets and Oral Solution
@@ -173,14 +171,6 @@ Active ingredient: entecavir
 
 Inactive ingredients in BARACLUDE Tablets: lactose monohydrate, microcrystalline cellulose, crospovidone, povidone, magnesium stearate.
 
-Tablet film-coat: titanium dioxide, hypromellose, polyethylene glycol 400, polysorbate 80 (0.5-mg tablet only), and iron oxide red (1-mg tablet only).
+Tablet film-coat: titanium dioxide, hypromellose, polyethylene glycol 400, polysorbate 80 (0.5 mg tablet only), and iron oxide red (1 mg tablet only).
 
 Inactive ingredients in BARACLUDE Oral Solution: maltitol, sodium citrate, citric acid, methylparaben, propylparaben, and orange flavor.
-
-Bristol-Myers Squibb Company Princeton, NJ 08543 USA
-
-This Patient Information Leaflet has been approved by the U.S. Food and Drug Administration.
-
-1195459B2
-
-Rev November 2011

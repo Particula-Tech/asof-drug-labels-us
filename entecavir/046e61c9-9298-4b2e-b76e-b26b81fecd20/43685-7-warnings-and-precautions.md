@@ -9,7 +9,7 @@ If appropriate, initiation of anti-hepatitis B therapy may be warranted.
 ## 5.2 Patients Co-infected with HIV and HBV
 
 BARACLUDE has not been evaluated in HIV/HBV co-infected patients who were not simultaneously receiving effective HIV treatment.
-Limited clinical experience suggests there is a potential for the development of resistance to HIV nucleoside reverse transcriptase inhibitors if BARACLUDE is used to treat chronic hepatitis B virus infection in patients with HIV infection that is not being treated [see Clinical Pharmacology (12.4)].
+Limited clinical experience suggests there is a potential for the development of resistance to HIV nucleoside reverse transcriptase inhibitors if BARACLUDE is used to treat chronic hepatitis B virus infection in patients with HIV infection that is not being treated [see Microbiology (12.4)].
 Therefore, therapy with BARACLUDE is not recommended for HIV/HBV co-infected patients who are not also receiving HAART.
 Before initiating BARACLUDE therapy, HIV antibody testing should be offered to all patients.
 BARACLUDE has not been studied as a treatment for HIV infection and is not recommended for this use.

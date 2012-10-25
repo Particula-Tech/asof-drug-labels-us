@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of BARACLUDE were evaluated in three Phase 3 active-controlled trials [see Clinical Studies (14.1 and 14.2)].
+The safety and efficacy of BARACLUDE were evaluated in three Phase 3 active-controlled trials [see (Clinical Studies 14.1, 14.2)].
 These studies included 1633 subjects 16 years of age or older with chronic hepatitis B virus infection (serum HBsAg-positive for at least 6 months) accompanied by evidence of viral replication (detectable serum HBV DNA, as measured by the bDNA hybridization or PCR assay).
 Subjects had persistently elevated ALT levels at least 1.3 times ULN and chronic inflammation on liver biopsy compatible with a diagnosis of chronic viral hepatitis.
 The safety and efficacy of BARACLUDE were also evaluated in a study of 191 HBV-infected subjects with decompensated liver disease and in a study of 68 subjects co-infected with HBV and HIV [see Clinical Studies (14.1)].
@@ -47,8 +47,8 @@ Table 7: Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Nu
 |  | Study AI463022 (HBeAg-Positive) |  | Study AI463027 (HBeAg-Negative) |  |
 | HBV DNAa |  |  |  |  |
 | Proportion undetectable (<300 copies/mL) | 67% | 36% | 90% | 72% |
-| Mean change from baseline (log10 copies/mL) | -6.86 | -5.39 | -5.04 | -4.53 |
-| ALT normalization (≤1 X ULN) | 68% | 60% | 78% | 71% |
+| Mean change from baseline (log10 copies/mL) | −6.86 | −5.39 | −5.04 | −4.53 |
+| ALT normalization (≤1 × ULN) | 68% | 60% | 78% | 71% |
 | HBeAg seroconversion | 21% | 18% | NA | NA |
 | a Roche COBAS Amplicor PCR assay [lower limit of quantification (LLOQ) = 300 copies/mL]. |  |  |  |  |
 
@@ -89,8 +89,8 @@ Table 9: Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, La
 | --- | --- | --- |
 | HBV DNAa |  |  |
 | Proportion undetectable (<300 copies/mL) | 19% | 1% |
-| Mean change from baseline (log10 copies/mL) | -5.11 | -0.48 |
-| ALT normalization (≤1 X ULN) | 61% | 15% |
+| Mean change from baseline (log10 copies/mL) | −5.11 | −0.48 |
+| ALT normalization (≤1 × ULN) | 61% | 15% |
 | HBeAg seroconversion | 8% | 3% |
 | a Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |
 
@@ -116,7 +116,7 @@ Table 10: Selected Endpoints at Week 48, Subjects with Decompensated Liver Disea
 | Proportion undetectable (<300 copies/mL) | 57% | 20% |
 | Stable or improved CTP scorec | 61% | 67% |
 | HBsAg loss | 5% | 0 |
-| Normalization of ALT (≤1 X ULN)d | 49/78 (63%) | 33/71 (46%) |
+| Normalization of ALT (≤1 × ULN)d | 49/78 (63%) | 33/71 (46%) |
 | a Endpoints were analyzed using intention-to-treat (ITT) method, treated subjects as randomized. |  |  |
 | b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |
 | c Defined as decrease or no change from baseline in CTP score. |  |  |
@@ -140,35 +140,35 @@ Table 11: Virologic and Biochemical Endpoints at Week 24, Study AI463038
 | --- | --- | --- |
 | HBV DNAb |  |  |
 | Proportion undetectable (<300 copies/mL) | 6% | 0 |
-| Mean change from baseline (log10 copies/mL) | -3.65 | +0.11 |
-| ALT normalization (≤1 X ULN) | 34%c | 8%c |
+| Mean change from baseline (log10 copies/mL) | −3.65 | +0.11 |
+| ALT normalization (≤1 × ULN) | 34%c | 8%c |
 | a All subjects also received a lamivudine-containing HAART regimen. |  |  |
 | b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |
-| c Percentage of subjects with abnormal ALT (>1 X ULN) at baseline who achieved ALT normalization (n=35 for BARACLUDE and n=12 for placebo). |  |  |
+| c Percentage of subjects with abnormal ALT (>1 × ULN) at baseline who achieved ALT normalization (n=35 for BARACLUDE and n=12 for placebo). |  |  |
 
-For subjects originally assigned to BARACLUDE, at the end of the open-label phase (Week 48), 8% of subjects had HBV DNA <300 copies/mL by PCR, the mean change from baseline HBV DNA by PCR was ‑4.20 log10 copies/mL, and 37% of subjects with abnormal ALT at baseline had ALT normalization (≤1 X ULN).
+For subjects originally assigned to BARACLUDE, at the end of the open-label phase (Week 48), 8% of subjects had HBV DNA <300 copies/mL by PCR, the mean change from baseline HBV DNA by PCR was −4.20 log10 copies/mL, and 37% of subjects with abnormal ALT at baseline had ALT normalization (≤1 × ULN).
 
 ## 14.2 Outcomes beyond 48 Weeks
 
 The optimal duration of therapy with BARACLUDE is unknown.
-According to protocol-mandated criteria in the Phase 3 clinical trials, subjects discontinued BARACLUDE or lamivudine treatment after 52 weeks according to a definition of response based on HBV virologic suppression (<0.7 MEq/mL by bDNA assay) and loss of HBeAg (in HBeAg-positive subjects) or ALT <1.25 X ULN (in HBeAg-negative subjects) at Week 48.
-Subjects who achieved virologic suppression but did not have serologic response (HBeAg-positive) or did not achieve ALT <1.25 X ULN (HBeAg-negative) continued blinded dosing through 96 weeks or until the response criteria were met.
+According to protocol-mandated criteria in the Phase 3 clinical trials, subjects discontinued BARACLUDE or lamivudine treatment after 52 weeks according to a definition of response based on HBV virologic suppression (<0.7 MEq/mL by bDNA assay) and loss of HBeAg (in HBeAg-positive subjects) or ALT <1.25 × ULN (in HBeAg-negative subjects) at Week 48.
+Subjects who achieved virologic suppression but did not have serologic response (HBeAg-positive) or did not achieve ALT <1.25 × ULN (HBeAg-negative) continued blinded dosing through 96 weeks or until the response criteria were met.
 These protocol-specified subject management guidelines are not intended as guidance for clinical practice.
 
 Nucleoside-naïve subjects: Among nucleoside-naïve, HBeAg-positive subjects (Study AI463022), 243 (69%) BARACLUDE-treated subjects and 164 (46%) lamivudine-treated subjects continued blinded treatment for up to 96 weeks.
 Of those continuing blinded treatment in Year 2, 180 (74%) BARACLUDE subjects and 60 (37%) lamivudine subjects achieved HBV DNA <300 copies/mL by PCR at the end of dosing (up to 96 weeks).
-193 (79%) BARACLUDE subjects achieved ALT ≤1 X ULN compared to 112 (68%) lamivudine subjects, and HBeAg seroconversion occurred in 26 (11%) BARACLUDE subjects and 20 (12%) lamivudine subjects.
+193 (79%) BARACLUDE subjects achieved ALT ≤1 × ULN compared to 112 (68%) lamivudine subjects, and HBeAg seroconversion occurred in 26 (11%) BARACLUDE subjects and 20 (12%) lamivudine subjects.
 
 Among nucleoside-naïve, HBeAg-positive subjects, 74 (21%) BARACLUDE subjects and 67 (19%) lamivudine subjects met the definition of response at Week 48, discontinued study drugs, and were followed off treatment for 24 weeks.
-Among BARACLUDE responders, 26 (35%) subjects had HBV DNA <300 copies/mL, 55 (74%) subjects had ALT ≤1 X ULN, and 56 (76%) subjects sustained HBeAg seroconversion at the end of follow-up.
-Among lamivudine responders, 20 (30%) subjects had HBV DNA <300 copies/mL, 41 (61%) subjects had ALT ≤1 X ULN, and 47 (70%) subjects sustained HBeAg seroconversion at the end of follow-up.
+Among BARACLUDE responders, 26 (35%) subjects had HBV DNA <300 copies/mL, 55 (74%) subjects had ALT ≤1 × ULN, and 56 (76%) subjects sustained HBeAg seroconversion at the end of follow-up.
+Among lamivudine responders, 20 (30%) subjects had HBV DNA <300 copies/mL, 41 (61%) subjects had ALT ≤1 × ULN, and 47 (70%) subjects sustained HBeAg seroconversion at the end of follow-up.
 
 Among nucleoside-naïve, HBeAg-negative subjects (Study AI463027), 26 (8%) BARACLUDE-treated subjects and 28 (9%) lamivudine-treated subjects continued blinded treatment for up to 96 weeks.
-In this small cohort continuing treatment in Year 2, 22 BARACLUDE and 16 lamivudine subjects had HBV DNA <300 copies/mL by PCR, and 7 and 6 subjects, respectively, had ALT ≤1 X ULN at the end of dosing (up to 96 weeks).
+In this small cohort continuing treatment in Year 2, 22 BARACLUDE and 16 lamivudine subjects had HBV DNA <300 copies/mL by PCR, and 7 and 6 subjects, respectively, had ALT ≤1 × ULN at the end of dosing (up to 96 weeks).
 
 Among nucleoside-naïve, HBeAg-negative subjects, 275 (85%) BARACLUDE subjects and 245 (78%) lamivudine subjects met the definition of response at Week 48, discontinued study drugs, and were followed off treatment for 24 weeks.
 In this cohort, very few subjects in each treatment arm had HBV DNA <300 copies/mL by PCR at the end of follow-up.
-At the end of follow-up, 126 (46%) BARACLUDE subjects and 84 (34%) lamivudine subjects had ALT ≤1 X ULN.
+At the end of follow-up, 126 (46%) BARACLUDE subjects and 84 (34%) lamivudine subjects had ALT ≤1 × ULN.
 
 Lamivudine-refractory subjects: Among lamivudine-refractory subjects (Study AI463026), 77 (55%) BARACLUDE-treated subjects and 3 (2%) lamivudine subjects continued blinded treatment for up to 96 weeks.
-In this cohort of BARACLUDE subjects, 31 (40%) subjects achieved HBV DNA <300 copies/mL, 62 (81%) subjects had ALT ≤1 X ULN, and 8 (10%) subjects demonstrated HBeAg seroconversion at the end of dosing.
+In this cohort of BARACLUDE subjects, 31 (40%) subjects achieved HBV DNA <300 copies/mL, 62 (81%) subjects had ALT ≤1 × ULN, and 8 (10%) subjects demonstrated HBeAg seroconversion at the end of dosing.
