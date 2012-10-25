@@ -58,7 +58,7 @@ Infections have been uncommonly reported in association with treatment-related n
 - –It is not recommended to initiate ACTEMRA treatment in patients with a low neutrophil count, i.e., absolute neutrophil count (ANC) less than 2000 per mm3.
   In patients who develop an absolute neutrophil count less than 500 per mm3 treatment is not recommended.
 - – Neutrophils should be monitored every 4 to 8 weeks [see Clinical Pharmacology (12.2)].
-  For recommended modifications based on ANC results see Dosage and Administration (2.3).
+  For recommended modifications based on ANC results see Dosage and Administration (2.4).
 
 Platelets
 
@@ -68,7 +68,7 @@ Treatment-related reduction in platelets was not associated with serious bleedin
 - –It is not recommended to initiate ACTEMRA treatment in patients with a platelet count below 100,000 per mm3.
   In patients who develop a platelet count less than 50,000 per mm3 treatment is not recommended.
 - –Platelets should be monitored every 4 to 8 weeks.
-  For recommended modifications based on platelet counts see Dosage and Administration (2.3).
+  For recommended modifications based on platelet counts see Dosage and Administration (2.4).
 
 Liver Function Tests
 
@@ -84,7 +84,7 @@ Elevations resolved when MTX and ACTEMRA were discontinued.
   In patients who develop elevated ALT or AST greater than 5x ULN treatment is not recommended.
 - –ALT and AST levels should be monitored every 4 to 8 weeks.
   When clinically indicated, other liver function tests such as bilirubin should be considered.
-  For recommended modifications based on transaminases see Dosage and Administration (2.3).
+  For recommended modifications based on transaminases see Dosage and Administration (2.4).
 
 Lipids
 
@@ -108,7 +108,9 @@ ACTEMRA is an immunosuppressant, and treatment with immunosuppressants may resul
 
 Hypersensitivity reactions, including anaphylaxis and death, have been reported in association with infusion of ACTEMRA [see Adverse Reactions (6.1)].
 Anaphylaxis and other hypersensitivity reactions that required treatment discontinuation were reported in 0.1% (3 out of 2644) of patients in the 6-month controlled trials, and in 0.2% (8 out of 4009) of patients in the all-exposure rheumatoid arthritis population; and in the SJIA controlled trial, 1 out of 112 patients (0.9%).
-In the postmarketing setting, a patient with a previous infusion reaction and premedicated with steroids and antihistamines experienced fatal anaphylaxis during subsequent treatment with ACTEMRA [see Adverse Reactions (6.2)].
+In the postmarketing setting, events of clinically significant hypersensitivity and anaphylaxis, including events with a fatal outcome, have occurred in patients treated with a range of doses of ACTEMRA, with or without concomitant arthritis therapies.
+Events have occurred in patients who received premedication.
+Clinically significant hypersensitivity and anaphylaxis events have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of ACTEMRA [see Adverse Reactions (6.2)].
 ACTEMRA should only be administered by a healthcare professional with appropriate medical support to manage anaphylaxis.
 If anaphylaxis or other clinically significant hypersensitivity reaction occurs, administration of ACTEMRA should be stopped immediately and ACTEMRA should be permanently discontinued.
 Do not administer ACTEMRA to patients with known hypersensitivity to ACTEMRA [see Contraindications (4) and Adverse Reactions (6)].

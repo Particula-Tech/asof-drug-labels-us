@@ -3,11 +3,7 @@
 ## 2.1 Rheumatoid Arthritis
 
 ACTEMRA may be used as monotherapy or concomitantly with methotrexate or other DMARDs.
-The recommended dose of ACTEMRA for adult patients given once every 4 weeks as a 60-minute single intravenous drip infusion is:
-
-| Recommended Adult Dosage Every 4 Weeks |  |
-| --- | --- |
-| Patients who have had an inadequate response to one or more TNF antagonists | When used in combination with DMARDs or as monotherapy the recommended starting dose is 4 mg per kg followed by an increase to 8 mg per kg based on clinical response. |
+The recommended dose of ACTEMRA for adult patients given as a 60-minute single intravenous drip infusion is 4 mg per kg every 4 weeks followed by an increase to 8 mg per kg every 4 weeks based on clinical response.
 
 - Reduction of dose from 8 mg per kg to 4 mg per kg is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia [see Dosage and Administration (2.4), Warnings and Precautions (5.3), and Adverse Reactions (6.1)].
 - Doses exceeding 800 mg per infusion are not recommended in RA patients [see Clinical Pharmacology (12.3)].

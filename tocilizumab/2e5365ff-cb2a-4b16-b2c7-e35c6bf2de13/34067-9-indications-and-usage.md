@@ -2,7 +2,7 @@
 
 ## 1.1 Rheumatoid Arthritis (RA)
 
-ACTEMRA® (tocilizumab) is indicated for the treatment of adult patients with moderately to severely active rheumatoid arthritis who have had an inadequate response to one or more TNF antagonist therapies.
+ACTEMRA® (tocilizumab) is indicated for the treatment of adult patients with moderately to severely active rheumatoid arthritis who have had an inadequate response to one or more Disease-Modifying Anti-Rheumatic Drugs (DMARDs).
 
 ## 1.2 Systemic Juvenile Idiopathic Arthritis (SJIA)
 

@@ -8,15 +8,16 @@ What is the most important information I should know about ACTEMRA?
 
 ACTEMRA can cause serious side effects including:
 
-- 1.Serious Infections
+- 1.Serious Infections.
 
 ACTEMRA is a medicine that affects your immune system.
 ACTEMRA can lower the ability of your immune system to fight infections.
 Some people have serious infections while taking ACTEMRA, including tuberculosis (TB), and infections caused by bacteria, fungi, or viruses that can spread throughout the body.
 Some people have died from these infections.
 
+Your doctor should test you for TB before starting ACTEMRA.
+
 - 
-  - Your doctor should test you for TB before starting ACTEMRA.
   - Your doctor should monitor you closely for signs and symptoms of TB during treatment with ACTEMRA.
 
 You should not start taking ACTEMRA if you have any kind of infection unless your healthcare provider says it is okay.
@@ -33,8 +34,7 @@ Before starting ACTEMRA, tell your healthcare provider if you:
   - warm, red, or painful skin or sores on your body
   - diarrhea or stomach pain
   - burning when you urinate or urinating more often than normal
-  - feel very tired
-- are being treated for an infection
+- feel very tired are being treated for an infection
 - get a lot of infections or have infections that keep coming back
 - have diabetes, HIV, or a weak immune system.
   People with these conditions have a higher chance for infections.
@@ -50,13 +50,14 @@ ACTEMRA can make you more likely to get infections or make worse any infection t
 - 2.Tears (perforation) of the stomach or intestines.
 
 - 
-  - Before taking ACTEMRA, tell your healthcare provider if you have had diverticulitis (inflammation in parts of the large intestine) or ulcers in your stomach or intestines.
+  - Tell your healthcare provider if you have had diverticulitis (inflammation in parts of the large intestine) or ulcers in your stomach or intestines.
     Some people taking ACTEMRA get tears in their stomach or intestine.
     This happens most often in people who also take nonsteroidal anti-inflammatory drugs (NSAIDs), corticosteroids, or methotrexate.
   - Tell your healthcare provider right away if you have fever and stomach-area pain that does not go away, and a change in your bowel habits.
 
 - 3.Changes in certain laboratory test results.
-  Your healthcare provider should do blood tests before you start receiving ACTEMRA and every 4 to 8 weeks for rheumatoid arthritis and every 2 to 4 weeks for SJIA during treatment to check for the following side effects of ACTEMRA:
+
+Your healthcare provider should do blood tests before you start receiving ACTEMRA and every 4 to 8 weeks for rheumatoid arthritis and every 2 to 4 weeks for SJIA during treatment to check for the following side effects of ACTEMRA:
 
 - 
   - low neutrophil count.
@@ -72,8 +73,7 @@ ACTEMRA can make you more likely to get infections or make worse any infection t
 
 - 4.Cancer.
 
-ACTEMRA may decrease the activity of your immune system.
-Medicines that affect the immune system may increase your risk of certain cancers.
+ACTEMRA may increase your risk of certain cancers by changing the way your immune system works.
 Tell your healthcare provider if you have ever had any type of cancer.
 
 See "What are the possible side effects with ACTEMRA?" for more information about side effects.
@@ -84,7 +84,7 @@ ACTEMRA is a prescription medicine called an Interleukin-6 (IL-6) receptor inhib
 ACTEMRA is used to treat:
 
 - 
-  - Adults with moderately to severely active rheumatoid arthritis (RA) after at least one other medicine called a Tumor Necrosis Factor (TNF) antagonist has been used and did not work well.
+  - Adults with moderately to severely active rheumatoid arthritis (RA) after at least one other medicine called a Disease Modifying Anti-Rheumatic Drug (DMARD) has been used and did not work well.
   - People with active systemic juvenile idiopathic arthritis (SJIA) ages 2 and above.
 
 It is not known if ACTEMRA is safe and effective in children with SJIA under 2 years of age or in children with conditions other than SJIA.
@@ -194,7 +194,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 You may also report side effects to Genentech at 1-888-835-2555.
 
-General information about ACTEMRA
+General information about ACTEMRA.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 This Medication Guide summarizes the most important information about ACTEMRA.
@@ -212,18 +212,12 @@ Inactive ingredients: sucrose, polysorbate 80, disodium phosphate dodecahydrate,
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-MG Revised: April 2011
+MG Revised: October 2012
 
 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
 
 Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990 US License No. 1048
 
-AAI_4877533_PI_10142010_K
-
-AAI_4877533_MG_10142010_K
-
-PI Revised: April 2011
-
-© 2011 Genentech, Inc. All rights reserved.
+© 2012 Genentech, Inc. All rights reserved.
 
 Representative sample of labeling (see the HOW SUPPLIED section for complete listing):

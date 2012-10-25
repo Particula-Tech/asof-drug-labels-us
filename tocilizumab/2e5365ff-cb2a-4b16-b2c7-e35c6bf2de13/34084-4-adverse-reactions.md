@@ -79,7 +79,7 @@ In the all-exposure population, the pattern and incidence of decreases in platel
 Liver Function Tests
 
 Liver enzyme abnormalities are summarized in Table 1.
-In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of ACTEMRA, or reduction in ACTEMRA dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.3)].
+In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of ACTEMRA, or reduction in ACTEMRA dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.4)].
 These elevations were not associated with clinically relevant increases in direct bilirubin, nor were they associated with clinical evidence of hepatitis or hepatic insufficiency [see Warnings and Precautions (5.3)].
 
 Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period of Studies I to VFor a description of these studies, see Section 14, Clinical Studies.
