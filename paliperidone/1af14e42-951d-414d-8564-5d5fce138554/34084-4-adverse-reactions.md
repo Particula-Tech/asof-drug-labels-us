@@ -3,31 +3,19 @@
 The following are discussed in more detail in other sections of the labeling:
 
 - Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
-- Cerebrovascular adverse events, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
+- Cerebrovascular adverse reactions, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
 - Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
 - QT prolongation [see Warnings and Precautions (5.4)]
 - Tardive dyskinesia [see Warnings and Precautions (5.5)]
 - Metabolic changes [see Warnings and Precautions (5.6)]
-- Hyperprolactinemia [see Warnings and Precautions (5.7)]
-- Orthostatic hypotension and syncope [see Warnings and Precautions (5.8)]
-- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.9)]
+- Orthostatic hypotension and syncope [see Warnings and Precautions (5.7)]
+- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.8)]
+- Hyperprolactinemia [See Warnings and Precautions (5.9)]
 - Potential for cognitive and motor impairment [see Warnings and Precautions (5.10)]
 - Seizures [see Warnings and Precautions (5.11)]
 - Dysphagia [see Warnings and Precautions (5.12)]
-- Suicide [see Warnings and Precautions (5.13)]
-- Priapism [see Warnings and Precautions (5.14)]
-- Thrombotic Thrombocytopenic Purpura [see Warnings and Precautions (5.15)]
-- Disruption of body temperature regulation [see Warnings and Precautions (5.16)]
-- Avoidance of inadvertent injection into a blood vessel [see Warnings and Precautions (5.17)]
-- Antiemetic effect [see Warnings and Precautions (5.18)]
-- Increased sensitivity in patients with Parkinson's disease or those with dementia with Lewy bodies [see Warnings and Precautions (5.19)]
-- Diseases or conditions that could affect metabolism or hemodynamic responses [see Warnings and Precautions (5.19)]
-
-Throughout this section, a distinction is made between adverse events and adverse reactions.
-Adverse events are events reported by the clinician investigator and there is no attempt to assign causality to the study drug.
-Adverse reactions are adverse events that are considered to be reasonably associated with the use of INVEGA® SUSTENNA® (adverse drug reactions) based on a predetermined method of assessment, e.g., a comparison of adverse event rates for drug and placebo groups for the event of interest.
-It is not possible to reliably establish causality by considering individual adverse event reports for drug-treated patients.
-Thus, the section overall is labeled Adverse Reactions, however, individual subsections are labeled adverse reactions or adverse events, depending on what is included in the subsection.
+- Priapism [see Warnings and Precautions (5.13)]
+- Disruption of body temperature regulation [see Warnings and Precautions (5.14)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -42,19 +30,21 @@ Consequently, to provide a meaningful estimate of the proportion of individuals 
 
 The majority of all adverse reactions were mild to moderate in severity.
 
-## 6.1 Commonly-Observed Adverse Events in Double-Blind, Placebo-Controlled Clinical Trials
+## 6.1 Clinical Trials Experience
 
-Table 5 lists the adverse events reported in 2% or more of INVEGA® SUSTENNA®-treated subjects with schizophrenia in the four fixed-dose, double-blind, placebo-controlled trials.
+Commonly Reported Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials
+
+Table 5 lists the adverse reactions reported in 2% or more of INVEGA® SUSTENNA®-treated subjects and at a greater proportion than in the placebo group with schizophrenia in the four fixed-dose, double-blind, placebo-controlled trials.
 
 Table 5.
-Incidence of Treatment Emergent Adverse Events in ≥ 2% of INVEGA® SUSTENNA®-Treated Subjects with Schizophrenia in Four Fixed-Dose, Double-Blind, Placebo-Controlled Trials
+Incidence of Treatment Emergent Adverse Reactions in ≥ 2% of INVEGA® SUSTENNA®-Treated Subjects (and greater than Placebo) with Schizophrenia in Four Fixed-Dose, Double-Blind, Placebo-Controlled Trials
 
 | System Organ Class Adverse Event | PlaceboPlacebo group is pooled from all studies and included either deltoid or gluteal injection depending on study design. (N=510) | 39 mg (N=130) | 78 mg (N=302) | 156 mg (N=312) | 234/39 mgInitial deltoid injection of 234 mg followed by either 39 mg, 156 mg, or 234 mg every 4 weeks by deltoid or gluteal injection. Other dose groups (39 mg, 78 mg, and 156 mg) are from studies involving only gluteal injection. [See Clinical Studies (14)] (N=160) | 234/156 mg (N=165) | 234/234 mg (N=163) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | INVEGA® SUSTENNA® |  |  |  |  |  |  |
 | Total percentage of subjects with adverse event | 70 | 75 | 68 | 69 | 63 | 60 | 63 |
 | Gastrointestinal disorders |  |  |  |  |  |  |  |
 | Abdominal discomfort/abdominal pain upper | 2 | 2 | 4 | 4 | 1 | 2 | 4 |
-| Constipation | 5 | 3 | 5 | 5 | 2 | 4 | 1 |
 | Diarrhea | 2 | 0 | 3 | 2 | 1 | 2 | 2 |
 | Dry mouth | 1 | 3 | 1 | 0 | 1 | 1 | 1 |
 | Nausea | 3 | 4 | 4 | 3 | 2 | 2 | 2 |
@@ -68,10 +58,7 @@ Incidence of Treatment Emergent Adverse Events in ≥ 2% of INVEGA® SUSTENNA®-
 | Nasopharyngitis | 2 | 0 | 2 | 2 | 4 | 2 | 2 |
 | Upper respiratory tract infection | 2 | 2 | 2 | 2 | 1 | 2 | 4 |
 | Urinary tract infection | 1 | 0 | 1 | <1 | 1 | 1 | 2 |
-| Injury, poisoning and procedural complications |  |  |  |  |  |  |  |
-| Skin laceration | <1 | 2 | <1 | 0 | 1 | 0 | 0 |
 | Investigations |  |  |  |  |  |  |  |
-| Alanine aminotransferase increased | 2 | 0 | 2 | 1 | 1 | 1 | 1 |
 | Weight increased | 1 | 4 | 4 | 1 | 1 | 1 | 2 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |  |  |  |
 | Back pain | 2 | 2 | 1 | 3 | 1 | 1 | 1 |
@@ -87,9 +74,7 @@ Incidence of Treatment Emergent Adverse Events in ≥ 2% of INVEGA® SUSTENNA®-
 | Psychiatric disorders |  |  |  |  |  |  |  |
 | Agitation | 7 | 10 | 5 | 9 | 8 | 5 | 4 |
 | Anxiety | 7 | 8 | 5 | 3 | 5 | 6 | 6 |
-| Insomnia | 15 | 15 | 15 | 13 | 12 | 10 | 13 |
 | Nightmare | <1 | 2 | 0 | 0 | 0 | 0 | 0 |
-| Suicidal ideation | 2 | 0 | 1 | 2 | 2 | 2 | 1 |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |  |
 | Cough | 1 | 2 | 3 | 1 | 0 | 1 | 1 |
 | Vascular disorders |  |  |  |  |  |  |  |
@@ -97,16 +82,14 @@ Incidence of Treatment Emergent Adverse Events in ≥ 2% of INVEGA® SUSTENNA®-
 | Percentages are rounded to whole numbers. Table includes adverse events that were reported in 2% or more of subjects in any of the INVEGA® SUSTENNA® dose groups and which occurred at greater incidence than in the placebo group. |  |  |  |  |  |  |  |
 | Adverse events for which the INVEGA® SUSTENNA® incidence was equal to or less than placebo are not listed in the table, but included the following: dyspepsia, psychotic disorder, schizophrenia, and tremor. The following terms were combined: somnolence/sedation, breast tenderness/breast pain, abdominal discomfort/abdominal pain upper/stomach discomfort, and tachycardia/sinus tachycardia/heart rate increased. All injection site reaction-related adverse events were collapsed and are grouped under "Injection site reactions". |  |  |  |  |  |  |  |
 
-## 6.2 Adverse Reactions Observed During the Clinical Trial Evaluation of INVEGA® SUSTENNA® and Not Listed in Table 5
+Other Adverse Reactions Observed During the Clinical Trial Evaluation of INVEGA® SUSTENNA®
 
-The following additional adverse reactions occurred in INVEGA® SUSTENNA®-treated subjects in the above four fixed-dose, double-blind, placebo-controlled trials, in the double-blind phase of the maintenance trial, or in INVEGA® SUSTENNA®-treated subjects with schizophrenia who participated in other clinical trials, and were not reported in Table 5.
+The following additional adverse reactions occurred in INVEGA® SUSTENNA®-treated subjects in the above four fixed-dose, double-blind, placebo-controlled trials, in the double-blind phase of the maintenance trial, or in INVEGA® SUSTENNA®-treated subjects with schizophrenia who participated in other clinical trials, and were not reported in Table 5 or in other sections of labeling above.
 They were determined to be adverse reactions based upon reasons to suspect causality such as timing of onset or termination with respect to drug use, plausibility in light of the drug's known pharmacology, occurrence at a frequency above that expected in the treated population or occurrence of an event typical of drug-induced adverse reactions.
 
-Cardiac disorders: atrioventricular block first degree, bradycardia, bundle branch block, electrocardiogram QT prolonged, palpitations, postural orthostatic tachycardia syndrome, tachycardia
+Cardiac disorders: atrioventricular block first degree, bradycardia, bundle branch block, palpitations, postural orthostatic tachycardia syndrome, tachycardia
 
 Ear and labyrinth disorders: vertigo
-
-Endocrine disorders: hyperprolactinemia
 
 Eye disorders: eye movement disorder, eye rolling, oculogyric crisis, vision blurred
 
@@ -114,13 +97,13 @@ Gastrointestinal disorders: salivary hypersecretion
 
 Immune system disorders: hypersensitivity
 
-Investigations: blood cholesterol increased, blood glucose increased, blood triglycerides increased, electrocardiogram abnormal
+Investigations: electrocardiogram abnormal
 
-Metabolism and nutrition disorders: decreased appetite, hyperglycemia, hyperinsulinemia, increased appetite
+Metabolism and nutrition disorders: decreased appetite, hyperinsulinemia, increased appetite
 
 Musculoskeletal and connective tissue disorders: joint stiffness, muscle rigidity, muscle spasms, muscle tightness, muscle twitching, nuchal rigidity
 
-Nervous system disorders: bradykinesia, cerebrovascular accident, convulsion, dizziness postural, drooling, dysarthria, dyskinesia, dystonia, hypertonia, lethargy, neuroleptic malignant syndrome, oromandibular dystonia, parkinsonism, psychomotor hyperactivity, syncope, tardive dyskinesia
+Nervous system disorders: bradykinesia, cerebrovascular accident, convulsion, dizziness postural, drooling, dysarthria, dyskinesia, dystonia, hypertonia, lethargy, oromandibular dystonia, parkinsonism, psychomotor hyperactivity, syncope
 
 Psychiatric disorders: restlessness
 
@@ -128,22 +111,18 @@ Reproductive system and breast disorders: amenorrhea, breast discharge, erectile
 
 Skin and subcutaneous tissue disorders: drug eruption, pruritus, pruritus generalized, rash, urticaria
 
-Vascular disorders: orthostatic hypotension
+Discontinuations Due to Adverse EventsThe percentages of subjects who discontinued due to adverse events in the four fixed-dose, double-blind, placebo-controlled trials were 5.0% and 7.8% in INVEGA® SUSTENNA®- and placebo-treated subjects, respectively.
 
-## 6.3 Discontinuations Due to Adverse Events
-
-The percentages of subjects who discontinued due to adverse events in the four fixed-dose, double-blind, placebo-controlled trials were 5.0% and 7.8% in INVEGA® SUSTENNA®- and placebo-treated subjects, respectively.
-
-## 6.4 Dose-Related Adverse Reactions
+Dose-Related Adverse Reactions
 
 Based on the pooled data from the four fixed-dose, double-blind, placebo-controlled trials, among the adverse reactions that occurred at ≥ 2% incidence in the subjects treated with INVEGA® SUSTENNA®, only akathisia increased with dose.
 Hyperprolactinemia also exhibited a dose relationship, but did not occur at ≥ 2% incidence in INVEGA® SUSTENNA®-treated subjects from the four fixed-dose studies.
 
-## 6.5 Demographic Differences
+Demographic Differences
 
 An examination of population subgroups in the double-blind placebo-controlled trials did not reveal any evidence of differences in safety on the basis of age, gender, or race alone; however, there were few subjects ≥ 65 years of age.
 
-## 6.6 Extrapyramidal Symptoms (EPS)
+Extrapyramidal Symptoms (EPS)
 
 Pooled data from the two double-blind, placebo-controlled, 13-week, fixed-dose trials provided information regarding treatment-emergent EPS.
 Several methods were used to measure EPS: (1) the Simpson-Angus global score (mean change from baseline or score at the end of trial) which broadly evaluates Parkinsonism, (2) the Barnes Akathisia Rating Scale global clinical rating score (mean change from baseline or score at the end of trial) which evaluates akathisia, (3) use of anticholinergic medications to treat emergent EPS, (4) the Abnormal Involuntary Movement Scale scores (mean change from baseline or scores at the end of trial) (Table 6), and (5) incidence of spontaneous reports of EPS (Table 7).
@@ -165,7 +144,7 @@ Treatment-Emergent Extrapyramidal Symptoms (EPS)-Related Adverse Events by MedDR
 
 | EPS Group | (N=262) | (N=130) | (N=223) | (N=228) |
 | --- | --- | --- | --- | --- |
-|  |  | Percentage of Subjects |  |  |
+|  | Percentage of Subjects |  |  |  |
 |  |  | INVEGA® SUSTENNA® |  |  |
 |  | Placebo | 39 mg | 78 mg | 156 mg |
 | Overall percentage of subjects with EPS-related adverse events | 10 | 12 | 11 | 11 |
@@ -189,14 +168,14 @@ Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to t
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
 
-## 6.7 Laboratory Test Abnormalities
+Laboratory Test Abnormalities
 
 In the pooled data from the two double-blind, placebo-controlled, 13-week, fixed-dose trials, a between-group comparison revealed no medically important differences between INVEGA® SUSTENNA® and placebo in the proportions of subjects experiencing potentially clinically significant changes in routine serum chemistry, hematology, or urinalysis parameters.
 Similarly, there were no differences between INVEGA® SUSTENNA® and placebo in the incidence of discontinuations due to changes in hematology, urinalysis, or serum chemistry, including mean changes from baseline in fasting glucose, insulin, c-peptide, triglyceride, HDL, LDL, and total cholesterol measurements.
-However, INVEGA® SUSTENNA® was associated with increases in serum prolactin [see Warnings and Precautions (5.7)].
+However, INVEGA® SUSTENNA® was associated with increases in serum prolactin [see Warnings and Precautions (5.9)].
 The results from the 13-week study involving 234 mg initiation dosing, the 9-week, fixed-dose, double-blind, placebo-controlled trial, and the double-blind phase of the maintenance trial exhibited comparable findings.
 
-## 6.8 Pain Assessment and Local Injection Site Reactions
+Pain Assessment and Local Injection Site Reactions
 
 In the pooled data from the two 13-week, fixed-dose, double-blind, placebo-controlled trials, the mean intensity of injection pain reported by subjects using a visual analog scale (0 = no pain to 100 = unbearably painful) decreased in all treatment groups from the first to the last injection (placebo: 10.9 to 9.8; 39 mg: 10.3 to 7.7; 78 mg: 10.0 to 9.2; 156 mg: 11.1 to 8.8).
 The results from both the 9-week, fixed-dose, double-blind, placebo-controlled trial and the double-blind phase of the maintenance trial exhibited comparable findings.
@@ -206,13 +185,13 @@ Investigator ratings of injection pain were similar for the placebo and INVEGA®
 Investigator evaluations of the injection site after the first injection for redness, swelling, induration, and pain were rated as absent for 69–100% of subjects in both the INVEGA® SUSTENNA® and placebo groups.
 At Day 92, investigators rated absence of redness, swelling, induration, and pain in 95–100% of subjects in both the INVEGA® SUSTENNA® and placebo groups.
 
-## 6.9 Adverse Reactions Reported in Clinical Trials with Oral Paliperidone
+Adverse Reactions Reported in Clinical Trials with Oral Paliperidone
 
 The following is a list of additional adverse reactions that have been reported in clinical trials with oral paliperidone:
 
 Cardiac disorders: bundle branch block left, sinus arrhythmia
 
-Gastrointestinal disorders: abdominal pain, flatulence, small intestinal obstruction
+Gastrointestinal disorders: abdominal pain, constipation, flatulence, small intestinal obstruction
 
 General disorders and administration site conditions: edema, edema peripheral
 
@@ -234,11 +213,11 @@ Skin and subcutaneous tissue disorders: rash papular
 
 Vascular disorders: hypotension, ischemia
 
-## 6.10 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of paliperidone; because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: angioedema, priapism, swollen tongue, urinary incontinence, urinary retention.
+The following adverse reactions have been identified during postapproval use of paliperidone; because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: angioedema, swollen tongue, thrombotic thrombocytopenic purpura, urinary incontinence, and urinary retention.
 
-## 6.11 Adverse Reactions Reported With Risperidone
+## 6.3 Adverse Reactions Reported With Risperidone
 
 Paliperidone is the major active metabolite of risperidone.
 Adverse reactions reported with oral risperidone and risperidone long-acting injection can be found in the ADVERSE REACTIONS sections of the package inserts for those products.

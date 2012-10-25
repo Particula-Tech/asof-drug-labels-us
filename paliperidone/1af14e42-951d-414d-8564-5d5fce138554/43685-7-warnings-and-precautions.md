@@ -2,13 +2,19 @@
 
 ## 5.1 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
-Elderly patients with dementia-related psychosis treated with atypical antipsychotic drugs are at an increased risk of death compared to placebo.
-INVEGA® SUSTENNA® (paliperidone palmitate) is not approved for the treatment of dementia-related psychosis [see Boxed Warning].
+Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
+Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.
+Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group.
+Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
+Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
+The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
+INVEGA® SUSTENNA® (paliperidone palmitate) is not approved for the treatment of patients with dementia-related psychosis.
+[see Boxed Warning].
 
-## 5.2 Cerebrovascular Adverse Events, Including Stroke, in Elderly Patients With Dementia-Related Psychosis
+## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
-In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse events (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
-Oral paliperidone and INVEGA® SUSTENNA® were not marketed at the time these studies were performed and are not approved for the treatment of patients with dementia-related psychosis [see also Boxed Warning and Warnings and Precautions (5.1)].
+In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
+Oral paliperidone and INVEGA® SUSTENNA® were not marketed at the time these studies were performed and are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
@@ -31,7 +37,7 @@ Paliperidone causes a modest increase in the corrected QT (QTc) interval.
 The use of paliperidone should be avoided in combination with other drugs that are known to prolong QTc including Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmic medications, antipsychotic medications (e.g., chlorpromazine, thioridazine), antibiotics (e.g., gatifloxacin, moxifloxacin), or any other class of medications known to prolong the QTc interval.
 Paliperidone should also be avoided in patients with congenital long QT syndrome and in patients with a history of cardiac arrhythmias.
 
-Certain circumstances may increase the risk of the occurrence of torsade de pointes and/or sudden death in association with the use of drugs that prolong the QTc interval, including (1) bradycardia; (2) hypokalemia or hypomagnesemia; (3) concomitant use of other drugs that prolong the QTc interval; and (4) presence of congenital prolongation of the QT interval.
+Certain circumstances may increase the risk of the occurrence of Torsades de pointes and/or sudden death in association with the use of drugs that prolong the QTc interval, including (1) bradycardia; (2) hypokalemia or hypomagnesemia; (3) concomitant use of other drugs that prolong the QTc interval; and (4) presence of congenital prolongation of the QT interval.
 
 The effects of oral paliperidone on the QT interval were evaluated in a double-blind, active-controlled (moxifloxacin 400 mg single dose), multicenter QT study in adults with schizophrenia and schizoaffective disorder, and in three placebo- and active-controlled 6-week, fixed-dose efficacy trials in adults with schizophrenia.
 
@@ -158,7 +164,28 @@ Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain 
 
 In a long-term open-label pharmacokinetic and safety study in which the highest dose available (234 mg) was evaluated, INVEGA® SUSTENNA® was associated with a mean change in weight of +2.4 kg at Week 29 (n=134) and +4.3 kg at Week 53 (n=113).
 
-## 5.7 Hyperprolactinemia
+## 5.7 Orthostatic Hypotension and Syncope
+
+Paliperidone can induce orthostatic hypotension and syncope in some patients because of its alpha-blocking activity.
+Syncope was reported in < 1% (4/1293) of subjects treated with INVEGA® SUSTENNA® in the recommended dose range of 39 mg to 234 mg in the four fixed-dose, double-blind, placebo-controlled trials compared with 0% (0/510) of subjects treated with placebo.
+In the four fixed-dose efficacy studies, orthostatic hypotension was reported as an adverse event by < 1% (2/1293) of INVEGA® SUSTENNA®-treated subjects compared to 0% (0/510) with placebo.
+Incidences of orthostatic hypotension and syncope in the long-term studies were similar to those observed in the short-term studies.
+
+INVEGA® SUSTENNA® should be used with caution in patients with known cardiovascular disease (e.g., heart failure, history of myocardial infarction or ischemia, conduction abnormalities), cerebrovascular disease, or conditions that predispose the patient to hypotension (e.g., dehydration, hypovolemia, and treatment with antihypertensive medications).
+Monitoring of orthostatic vital signs should be considered in patients who are vulnerable to hypotension.
+
+## 5.8 Leukopenia, Neutropenia, and Agranulocytosis
+
+Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including INVEGA®, an oral form of paliperidone.
+Agranulocytosis has also been reported.
+
+Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
+Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of INVEGA® SUSTENNA® should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+
+Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue INVEGA® SUSTENNA® and have their WBC followed until recovery.
+
+## 5.9 Hyperprolactinemia
 
 Like other drugs that antagonize dopamine D2 receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
 Paliperidone has a prolactin-elevating effect similar to that seen with risperidone, a drug that is associated with higher levels of prolactin than other antipsychotic drugs.
@@ -171,27 +198,6 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 An increase in the incidence of pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
-
-## 5.8 Orthostatic Hypotension and Syncope
-
-Paliperidone can induce orthostatic hypotension and syncope in some patients because of its alpha-blocking activity.
-Syncope was reported in < 1% (4/1293) of subjects treated with INVEGA® SUSTENNA® in the recommended dose range of 39 mg to 234 mg in the four fixed-dose, double-blind, placebo-controlled trials compared with 0% (0/510) of subjects treated with placebo.
-In the four fixed-dose efficacy studies, orthostatic hypotension was reported as an adverse event by < 1% (2/1293) of INVEGA® SUSTENNA®-treated subjects compared to 0% (0/510) with placebo.
-Incidences of orthostatic hypotension and syncope in the long-term studies were similar to those observed in the short-term studies.
-
-INVEGA® SUSTENNA® should be used with caution in patients with known cardiovascular disease (e.g., heart failure, history of myocardial infarction or ischemia, conduction abnormalities), cerebrovascular disease, or conditions that predispose the patient to hypotension (e.g., dehydration, hypovolemia, and treatment with antihypertensive medications).
-Monitoring of orthostatic vital signs should be considered in patients who are vulnerable to hypotension.
-
-## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
-
-Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including INVEGA®, an oral form of paliperidone.
-Agranulocytosis has also been reported.
-
-Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
-Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of INVEGA® SUSTENNA® should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
-
-Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue INVEGA® SUSTENNA® and have their WBC followed until recovery.
 
 ## 5.10 Potential for Cognitive and Motor Impairment
 
@@ -212,46 +218,13 @@ Esophageal dysmotility and aspiration have been associated with antipsychotic dr
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's dementia.
 INVEGA® SUSTENNA® and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 
-## 5.13 Suicide
-
-The possibility of suicide attempt is inherent in psychotic illnesses, and close supervision of high-risk patients should accompany drug therapy.
-
-## 5.14 Priapism
+## 5.13 Priapism
 
 Drugs with alpha-adrenergic blocking effects have been reported to induce priapism.
 Although no cases of priapism have been reported in clinical trials with INVEGA® SUSTENNA®, priapism has been reported with oral paliperidone during postmarketing surveillance.
 Severe priapism may require surgical intervention.
 
-## 5.15 Thrombotic Thrombocytopenic Purpura (TTP)
-
-No cases of TTP were observed during clinical studies with oral paliperidone or INVEGA® SUSTENNA®.
-Although cases of TTP have been reported in association with risperidone administration, the relationship to risperidone therapy is unknown.
-
-## 5.16 Body Temperature Regulation
+## 5.14 Disruption of Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing INVEGA® SUSTENNA® to patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
-
-## 5.17 Administration
-
-INVEGA® SUSTENNA® is intended for intramuscular injection, and care must be taken to avoid inadvertent injection into a blood vessel [see Dosage and Administration (2.3)].
-
-## 5.18 Antiemetic Effect
-
-An antiemetic effect was observed in preclinical studies with paliperidone.
-This effect, if it occurs in humans, may mask the signs and symptoms of overdosage with certain drugs or of conditions such as intestinal obstruction, Reye's syndrome, and brain tumor.
-
-## 5.19 Use in Patients with Concomitant Illness
-
-Clinical experience with INVEGA® SUSTENNA® in patients with certain concomitant illnesses is limited [see Clinical Pharmacology (12.3)].
-
-Patients with Parkinson's Disease or Dementia with Lewy Bodies are reported to have an increased sensitivity to antipsychotic medication.
-Manifestations of this increased sensitivity include confusion, obtundation, postural instability with frequent falls, extrapyramidal symptoms, and clinical features consistent with the neuroleptic malignant syndrome.
-
-INVEGA® SUSTENNA® has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
-Patients with these diagnoses were excluded from premarketing clinical trials.
-Because of the risk of orthostatic hypotension with INVEGA® SUSTENNA®, caution should be observed in patients with known cardiovascular disease [see Warnings and Precautions (5.8)].
-
-## 5.20 Monitoring: Laboratory Tests
-
-No specific laboratory tests are recommended.

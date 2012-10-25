@@ -1,11 +1,12 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+See FDA-approved patient labeling (Patient Information)
+
 Physicians are advised to discuss the following issues with patients for whom they prescribe INVEGA® SUSTENNA®.
-See FDA-approved patient labeling (Information for Patients and Caregivers).
 
 ## 17.1 Orthostatic Hypotension
 
-Patients should be advised that there is risk of orthostatic hypotension, particularly at the time of initiating treatment, re-initiating treatment, or increasing the dose [see Warnings and Precautions (5.8)].
+Patients should be advised that there is risk of orthostatic hypotension, particularly at the time of initiating treatment, re-initiating treatment, or increasing the dose [see Warnings and Precautions (5.7)].
 
 ## 17.2 Interference with Cognitive and Motor Performance
 
@@ -17,7 +18,8 @@ Patients should be advised to notify their physician if they become pregnant or 
 
 ## 17.4 Nursing
 
-Patients should be advised not to breast-feed an infant during treatment with INVEGA® SUSTENNA® [see Use in Specific Populations (8.3)].
+Inform patients and caregivers that INVEGA® SUSTENNA® is present in human breast milk; there is a potential for serious adverse reactions in nursing infants.
+Advise patients that the decision whether to discontinue nursing or to discontinue the drug should take into account the importance of the drug to the patient [see Use in Specific Populations (8.3)].
 
 ## 17.5 Concomitant Medication
 
@@ -29,4 +31,4 @@ Patients should be advised to avoid alcohol while taking INVEGA® SUSTENNA® [se
 
 ## 17.7 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.16)].
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.14)].

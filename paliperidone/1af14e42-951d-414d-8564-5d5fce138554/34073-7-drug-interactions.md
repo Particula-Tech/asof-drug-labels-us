@@ -4,42 +4,28 @@ Since paliperidone palmitate is hydrolyzed to paliperidone [see Clinical Pharmac
 
 ## 7.1 Potential for INVEGA® SUSTENNA® to Affect Other Drugs
 
-Given the primary CNS effects of paliperidone [see Adverse Reactions (6.1)], INVEGA® SUSTENNA® should be used with caution in combination with other centrally acting drugs and alcohol.
+Given the primary CNS effects of paliperidone [see Adverse Reactions (6.1)], INVEGA® SUSTENNA® should be used with caution when administered concomitantlywith other centrally acting drugs and alcohol.
 Paliperidone may antagonize the effect of levodopa and other dopamine agonists.
 
-Because of its potential for inducing orthostatic hypotension, an additive effect may be observed when INVEGA® SUSTENNA® is administered with other therapeutic agents that have this potential [see Warnings and Precautions (5.8)].
+Because of its potential for inducing orthostatic hypotension, an additive effect may occur when INVEGA® SUSTENNA® is administered with other therapeutic agents that have this potential [see Warnings and Precautions (5.7)].
 
-Paliperidone is not expected to cause clinically important pharmacokinetic interactions with drugs that are metabolized by cytochrome P450 isozymes.
-In vitro studies in human liver microsomes showed that paliperidone does not substantially inhibit the metabolism of drugs metabolized by cytochrome P450 isozymes, including CYP1A2, CYP2A6, CYP2C8/9/10, CYP2D6, CYP2E1, CYP3A4, and CYP3A5.
-Therefore, paliperidone is not expected to inhibit clearance of drugs that are metabolized by these metabolic pathways in a clinically relevant manner.
-Paliperidone is also not expected to have enzyme inducing properties.
-
-Paliperidone is a weak inhibitor of P-glycoprotein (P-gp) at high concentrations.
-No in vivo data are available and the clinical relevance is unknown.
-
+No dose adjustment is necessary for lithium when it is coadministered with INVEGA® SUSTENNA®.
 Pharmacokinetic interaction between INVEGA® SUSTENNA® and lithium is unlikely.
 
-In a drug interaction study, co-administration of oral paliperidone extended-release tablets (12 mg once daily for 5 days) with divalproex sodium extended-release tablets (500 mg to 2000 mg once daily) did not affect the steady-state pharmacokinetics (AUC24h and Cmax,ss) of valproate in 13 patients stabilized on valproate.
-In a clinical study, subjects on stable doses of valproate had comparable valproate average plasma concentrations when oral paliperidone extended-release tablets 3–15 mg/day was added to their existing valproate treatment.
+No dose adjustment is necessary for valproate when INVEGA® SUSTENNA® is added to the therapy.
+Steady-state pharmacokinetics of valproate was not affected when patients were coadministered oral paliperidone extended-release tablets [see Clinical Pharmacology (12.3)].
+
+Paliperidone is not expected to cause clinically important pharmacokinetic interactions with drugs that are metabolized by cytochrome P450 isozymes [see Clinical Pharmacology (12.3)].
 
 ## 7.2 Potential for Other Drugs to Affect INVEGA® SUSTENNA®
 
-Paliperidone is not a substrate of CYP1A2, CYP2A6, CYP2C9, and CYP2C19, so that an interaction with inhibitors or inducers of these isozymes is unlikely.
-While in vitro studies indicate that CYP2D6 and CYP3A4 may be minimally involved in paliperidone metabolism, in vivo studies do not show decreased elimination by these isozymes and they contribute to only a small fraction of total body clearance.
-In vitro studies have shown that paliperidone is a P-gp substrate.
+On initiation of strong inducers of CYP3A4 (e.g., carbamazepine, rifampin, or St John's wort), it may be necessary to increase the dose of INVEGA® SUSTENNA®.
+Conversely, on discontinuation of the strong inducers, it may be necessary to decrease the dose of INVEGA® SUSTENNA® [see Clinical Pharmacology (12.3)].
 
-Co-administration of oral paliperidone extended release once daily with carbamazepine 200 mg twice daily caused a decrease of approximately 37% in the mean steady-state Cmax and AUC of paliperidone.
-This decrease is caused, to a substantial degree, by a 35% increase in renal clearance of paliperidone.
-A minor decrease in the amount of drug excreted unchanged in the urine suggests that there was little effect on the CYP metabolism or bioavailability of paliperidone during carbamazepine co-administration.
-On initiation of carbamazepine, the dose of INVEGA® SUSTENNA® should be re-evaluated and increased if necessary.
-Conversely, on discontinuation of carbamazepine, the dose of INVEGA® SUSTENNA® should be re-evaluated and decreased if necessary.
+No dose adjustment is necessary for INVEGA® SUSTENNA® when valproate is added to treatment [see Clinical Pharmacology (12.3)].
 
-Paliperidone is metabolized to a limited extent by CYP2D6 [see Clinical Pharmacology (12.3)].
-In an interaction study in healthy subjects in which a single 3 mg dose of oral paliperidone extended release was administered concomitantly with 20 mg per day of paroxetine (a potent CYP2D6 inhibitor), paliperidone exposures were on average 16% (90% CI: 4, 30) higher in CYP2D6 extensive metabolizers.
-Higher doses of paroxetine have not been studied.
-The clinical relevance is unknown.
+No dose adjustment is necessary for INVEGA® SUSTENNA® when it is coadministered with lithium.
+Pharmacokinetic interaction between INVEGA® SUSTENNA® and lithium is unlikely.
 
-Co-administration of a single dose of an oral paliperidone extended-release 12 mg tablet with divalproex sodium extended-release tablets (two 500 mg tablets once daily at steady-state) resulted in an increase of approximately 50% in the Cmax and AUC of paliperidone.
-Although this interaction has not been studied with INVEGA® SUSTENNA®, a clinically significant interaction would not be expected between divalproex sodium and INVEGA® SUSTENNA® intramuscular injection.
-
-Pharmacokinetic interaction between lithium and INVEGA® SUSTENNA® is unlikely.
+In vitro studies indicate that CYP2D6 and CYP3A4 may be involved in paliperidone metabolism; however, there is no evidence in vivo that inhibitors of these enzymes significantly affect the metabolism of paliperidone.
+Paliperidone is not a substrate of CYP1A2, CYP2A6, CYP2C9, and CYP2C19; an interaction with inhibitors or inducers of these isozymes is unlikely.

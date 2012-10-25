@@ -1,5 +1,6 @@
 # 11 DESCRIPTION
 
+INVEGA® SUSTENNA® is an atypical antipsychotic.
 INVEGA® SUSTENNA® contains paliperidone palmitate.
 The active ingredient, paliperidone palmitate, is a psychotropic agent belonging to the chemical class of benzisoxazole derivatives.
 INVEGA® SUSTENNA® contains a racemic mixture of (+)- and (-)- paliperidone palmitate.

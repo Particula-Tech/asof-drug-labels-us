@@ -1,6 +1,4 @@
-# Information for Patients and Caregivers
-
-INVEGA® SUSTENNA® (paliperidone palmitate) Extended-Release Injectable Suspension
+Information for Patients and Caregivers INVEGA® SUSTENNA® (paliperidone palmitate) Extended-Release Injectable Suspension
 
 Important Information
 
@@ -144,8 +142,6 @@ This may result in some side effects including missed menstrual periods, leakage
 
 If you have a prolonged or painful erection lasting more than 4 hours, seek immediate medical help to avoid long-term injury.
 
-Call your doctor right away if you start thinking about suicide or wanting to hurt yourself.
-
 INVEGA® SUSTENNA® can make some people feel dizzy, sleepy, or less alert.
 Until you know how you are going to respond to INVEGA® SUSTENNA®, be careful driving a car, operating machines, or doing things that require you to be alert.
 
@@ -157,6 +153,10 @@ Do not drink alcohol while you are taking INVEGA® SUSTENNA®.
 
 This is not a complete list of all possible side effects.
 Ask your doctor or treatment team if you have any questions or want more information.
+
+Other information to share with your doctor
+
+Call your doctor right away if you start thinking about suicide or wanting to hurt yourself.
 
 How can I get the most benefit from my INVEGA® SUSTENNA® treatment?
 
@@ -180,4 +180,6 @@ You can also visit the website at www.invegasustenna.com or call the toll-free n
 
 Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-© Janssen Pharmaceuticals, Inc. 2009 September 2011
+© Janssen Pharmaceuticals, Inc. 2009
+
+August 2012
