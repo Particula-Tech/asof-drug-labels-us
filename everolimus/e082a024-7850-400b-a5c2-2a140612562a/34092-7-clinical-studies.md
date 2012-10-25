@@ -2,7 +2,7 @@
 
 ## 14.1 Prevention of Organ Rejection after Renal Transplantation
 
-A 24-month, multi-national, open-label, randomized (1:1:1) trial was conducted comparing two concentration-controlled everolimus regimens of 1.5 mg per day starting dose (targeting 3 to 8 ng/mL) and 3.0 mg per day starting dose (targeting 6 to 12 ng/mL) with reduced doses of cyclosporine and corticosteroids, to 1.44 gm per day of mycophenolic acid with standard doses of cyclosporine and corticosteroids.
+A 24-month, multi-national, open-label, randomized (1:1:1) trial was conducted comparing two concentration-controlled everolimus regimens of 1.5 mg per day starting dose (targeting 3 to 8 ng/mL using an LCMSMS assay method) and 3.0 mg per day starting dose (targeting 6 to 12 ng/mL using an LCMSMS assay method) with reduced doses of cyclosporine and corticosteroids, to 1.44 gm per day of mycophenolic acid with standard doses of cyclosporine and corticosteroids.
 The mean cyclosporine starting dose was 5.2, 5.0 and 5.7 mg/kg body weight/day in the everolimus 1.5 mg, 3.0 mg and in mycophenolic acid groups, respectively.
 The cyclosporine dose in the everolimus group was then adjusted to the blood trough concentration ranges indicated in Table 3, whereas in the Myfortic group the target ranges were 200-300 ng/mL starting Day 5: 200-300 ng/mL, and 100-250 ng/mL from Month 2 to Month 12.
 

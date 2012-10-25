@@ -32,7 +32,7 @@ Inform patients that Zortress has been associated with an increased risk of kidn
 
 Advise patients of the risks of impaired kidney function with the combination of Zortress and cyclosporine as well as the need for routine blood concentration monitoring for both drugs.
 Advise patients of the importance of serum creatinine monitoring.
-[See Warning and Precautions (5.5)]
+[See Warnings and Precautions (5.5)]
 
 ## 17.6 Angioedema
 
@@ -93,3 +93,5 @@ Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
+
+T2012-176 October 2012

@@ -48,7 +48,7 @@ The most common causes of death across the study groups were related to cardiac 
 
 There were 12 (4%) graft losses in the everolimus group and 8 (3%) in the control group over the 12 month study period.
 Of the graft losses, 4 were due to renal artery and two due to renal vein thrombosis in the everolimus group (2%) compared to two renal artery thromboses in the control group (1%).
-[See Boxed Warning and Warnings and Precautions (5.5)]
+[See Boxed Warning and Warnings and Precautions (5.4)]
 
 The most common (≥20%) adverse reactions observed in the everolimus group were: peripheral edema, constipation, hypertension, nausea, anemia, urinary tract infection, and hyperlipidemia.
 
@@ -171,7 +171,7 @@ General Disorders and Administrative Site Conditions: chest discomfort, chest pa
 
 Hepatobiliary Disorders: hepatic enzyme increased, bilirubin increased
 
-Infections and Infestations: BK virus infection [See Warnings and Precautions (5.11)], bacteremia, bronchitis, candidiasis, cellulitis, folliculitis, gastroenteritis, influenza, nasopharyngitis, onychomycosis, oral candidiasis, osteomyelitis, pneumonia, pyelonephritis, sinusitis, tinea pedis, urethritis, wound infection, herpes infections [See Boxed Warning and Warnings and Precautions (5.2)]
+Infections and Infestations: BK virus infection [See Warnings and Precautions (5.11)], bacteremia, bronchitis, candidiasis, cellulitis, folliculitis, gastroenteritis, influenza, nasopharyngitis, onychomycosis, oral candidiasis, osteomyelitis, pneumonia, pyelonephritis, sinusitis, tinea pedis, urethritis, wound infection, herpes infections [See Boxed Warning and Warnings and Precautions (5.3)]
 
 Injury Poisoning and Procedural Complications: incision site complications including infections, perinephric collection, seroma, wound dehiscence, incisional hernia, perinephric hematoma, localized intraabdominal fluid collection, impaired healing, lymophocele, lymphorrhea
 
@@ -203,6 +203,6 @@ These results indicate that everolimus increases the cyclosporine-induced nephro
 
 ## 6.3 Post Marketing Experience
 
-Adverse reactions identified from the post-marketing use of the combination regimen of everolimus and cyclosporine that are not specific to any one transplant indication include angioedema [See Warnings and Precautions (5.4)] and pancreatitis.
+Adverse reactions identified from the post-marketing use of the combination regimen of everolimus and cyclosporine that are not specific to any one transplant indication include angioedema [See Warnings and Precautions (5.4)], pancreatitis and pulmonary embolism.
 There have also been reports of male infertility with mTOR inhibitors including everolimus.
 [See Warnings and Precautions (5.16)].

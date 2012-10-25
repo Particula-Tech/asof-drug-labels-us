@@ -61,7 +61,7 @@ Everolimus has not been studied in patients with baseline cholesterol levels >35
 
 Due to an interaction with cyclosporine, clinical trials of everolimus and cyclosporine in kidney transplant patients strongly discouraged patients from receiving the HMG-CoA reductase inhibitors simvastatin and lovastatin.
 During everolimus therapy with cyclosporine, patients administered an HMG-CoA reductase inhibitor and/or fibrate should be monitored for the possible development of rhabdomyolysis and other adverse effects, as described in the respective labeling for these agents.
-[See Drug Interactions (7.6)]
+[See Drug Interactions (7.7)]
 
 ## 5.10 Proteinuria
 

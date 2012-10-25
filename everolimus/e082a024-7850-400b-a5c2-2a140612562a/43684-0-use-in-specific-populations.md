@@ -24,13 +24,13 @@ Because many drugs are excreted in human milk and because of the potential for s
 ## 8.4 Pediatric Use
 
 The safe and effective use of Zortress in kidney transplant patients younger than 18 years of age has not been established.
-[See Clinical Pharmacology (12.4)]
+[See Clinical Pharmacology (12.3)]
 
 ## 8.5 Geriatric Use
 
 There is limited clinical experience on the use of Zortress in patients of age 65 or older.
 There is no evidence to suggest that elderly patients will require a different dosage recommendation from younger adult patients.
-[See Clinical Pharmacology (12.4)]
+[See Clinical Pharmacology (12.3)]
 
 ## 8.6 Hepatic Impairment
 

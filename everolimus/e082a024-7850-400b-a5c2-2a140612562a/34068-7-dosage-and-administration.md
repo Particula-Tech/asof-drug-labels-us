@@ -23,12 +23,18 @@ Optimally, dose adjustments of everolimus should be based on trough concentratio
 There is an interaction of cyclosporine on everolimus, and consequently, everolimus concentrations may decrease if cyclosporine exposure is reduced.
 [See Drug Interactions (7.2)]
 
+The everolimus recommended therapeutic range of 3 to 8 ng/mL is based on an LCMSMS assay method.
+Currently in clinical practice, everolimus whole blood concentrations may be measured by chromatographic or immunoassay methodologies.
+Because the measured everolimus whole blood concentrations depend on the assay used, individual patient sample concentration values from different assays may not be interchangeable.
+Consideration of assay results must be made with knowledge of the specific assay used.
+Therefore, communication should be maintained with the laboratory performing the assay.
+
 ## 2.3 Therapeutic Drug Monitoring- Cyclosporine
 
 Both cyclosporine doses and the target range for whole blood trough concentrations should be reduced, when given in a regimen with everolimus, in order to minimize the risk of nephrotoxicity.
 [See Warnings and Precautions (5.6) and Drug Interactions (7.2), Clinical Pharmacology (12.6)]
 
-The recommended cyclosporine therapeutic range when administered with everolimus are 100 to 200 ng/mL through Month 1 post-transplant, 75 to 150 ng/mL at Months 2 and 3 post-transplant, 50 to 100 ng/mL at Month 4 post-transplant, and 25 to 50 ng/mL from Month 6 through Month 12 post-transplant.
+The recommended cyclosporine therapeutic ranges when administered with everolimus are 100 to 200 ng/mL through Month 1 post-transplant, 75 to 150 ng/mL at Months 2 and 3 post-transplant, 50 to 100 ng/mL at Month 4 post-transplant, and 25 to 50 ng/mL from Month 6 through Month 12 post-transplant.
 The median trough concentrations observed in the clinical trial ranged between 161 to 185 ng/mL through Month 1 post-transplant and between 111 to 140 ng/mL at Months 2 and 3 post-transplant.
 The median trough concentration was 99 ng/mL at Month 4 post-transplant and ranged between 46 to 75 ng/mL from Months 6 through Month 12 post-transplant.
 [See Clinical Pharmacology (12.6) and Clinical Studies (14.1)]

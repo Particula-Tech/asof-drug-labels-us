@@ -24,7 +24,7 @@ The steady-state Cmax and AUC estimates of everolimus were significantly increas
 
 Multiple-dose ketoconazole administration to healthy volunteers significantly increased single dose estimates of everolimus Cmax, AUC, and half-life.
 It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir) not be co-administered with everolimus.
-[See Warnings and Precautions (5.11), and Clinical Pharmacology (12.3)]
+[See Warnings and Precautions (5.12), and Clinical Pharmacology (12.3)]
 
 ## 7.4 Erythromycin (Moderate CYP3A4 Inhibitor)
 
@@ -54,7 +54,7 @@ Due to an interaction with cyclosporine, clinical studies of everolimus with cyc
 
 Pre-treatment of healthy subjects with multiple-dose rifampin followed by a single dose of everolimus increased everolimus clearance and decreased the everolimus Cmax and AUC estimates.
 Combination with rifampin is not recommended.
-[See Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)]
+[See Warnings and Precautions (5.12) and Clinical Pharmacology (12.3)]
 
 ## 7.9 Other Possible Interactions
 

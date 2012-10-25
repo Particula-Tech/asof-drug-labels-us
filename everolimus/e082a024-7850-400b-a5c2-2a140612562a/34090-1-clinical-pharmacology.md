@@ -96,7 +96,7 @@ No dosage adjustments are needed for concomitant administration of everolimus an
 
 Rifampin (Strong CYP3A4/ P-gp Inducer): Pre-treatment of 12 healthy subjects with multiple-dose rifampin (600 mg once-daily for 8 days) followed by a single dose of 4 mg everolimus increased everolimus clearance nearly 3-fold, and decreased Cmax by 58% and AUC by 63%.
 Combination with rifampin is not recommended.
-[See Drug Interactions (7.7)]
+[See Drug Interactions (7.8)]
 
 Special Populations
 
@@ -120,7 +120,7 @@ The safety and efficacy of everolimus has not been established in pediatric pati
 
 Geriatrics
 
-A limited reduction in everolimus oral CL of 0.33% per year was estimated in adults (age range studied was 16 to 70 years.
+A limited reduction in everolimus oral CL of 0.33% per year was estimated in adults (age range studied was 16 to 70 years).
 There is no evidence to suggest that elderly patients will require a different dosage recommendation from younger adult patients.
 
 Race
@@ -129,7 +129,7 @@ Based on analysis of population pharmacokinetics, oral clearance (CL/F) is, on a
 
 ## 12.5 Everolimus Whole Blood Concentrations Observed in Kidney Transplant Patients
 
-Based on exposure-efficacy and exposure-safety analyses of clinical trials, kidney transplant patients achieving everolimus whole blood trough concentrations ≥3.0 ng/mL have been found to have a lower incidence of treated biopsy-proven acute rejection compared with patients whose trough concentrations were below 3.0 ng/mL.
+Based on exposure-efficacy and exposure-safety analyses of clinical trials and using an LCMSMS assay method, kidney transplant patients achieving everolimus whole blood trough concentrations ≥3.0 ng/mL have been found to have a lower incidence of treated biopsy-proven acute rejection compared with patients whose trough concentrations were below 3.0 ng/mL.
 Patients who attained everolimus trough concentrations within the range of 6 to 12 ng/mL had similar efficacy and more adverse events than patients who attained lower trough concentrations between 3 to 8 ng/mL.
 [See Dosage and Administration (2.2)]
 
