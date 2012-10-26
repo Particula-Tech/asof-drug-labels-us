@@ -7,10 +7,10 @@ ALIMTA was administered intravenously over 10 minutes at a dose of 500 mg/m2 wit
 Gemcitabine was administered at a dose of 1250 mg/m2 on Day 1 and Day 8, and cisplatin was administered intravenously at a dose of 75 mg/m2 after administration of gemcitabine, on Day 1 of each 21-day cycle.
 Treatment was administered up to a total of 6 cycles, and patients in both treatment arms received folic acid, vitamin B12, and dexamethasone [see Dosage and Administration (2.3)].
 
-Patient demographics of the intent to treat (ITT) population are shown in Table 9.
+Patient demographics of the intent to treat (ITT) population are shown in Table 10.
 The demographics and disease characteristics were well balanced.
 
-Table 9: First-Line Therapy: Summary of Patient Characteristics in Study of NSCLC
+Table 10: First-Line Therapy: Summary of Patient Characteristics in Study of NSCLC
 
 | Patient characteristic | ALIMTA plus Cisplatin (AC) (N=862) | Gemcitabine plus Cisplatin (GC) (N=863) |
 | --- | --- | --- |
@@ -31,7 +31,7 @@ Table 9: First-Line Therapy: Summary of Patient Characteristics in Study of NSCL
 | Large cell | 76 (8.8%) | 77 (8.9%) |
 | Otherb | 106 (12.3%) | 146 (16.9%) |
 | Squamous | 244 (28.3%) | 229 (26.5%) |
-| ECOG PSc, d |  |  |
+| ECOG PSc,d |  |  |
 | 0/1 | 35.4%/64.6% | 35.6%/64.3% |
 | Smoking Historye |  |  |
 | Ever/never smoker | 83.1%/16.9% | 83.9%/16.1% |
@@ -48,7 +48,7 @@ Patients treated with gemcitabine plus cisplatin received a relative dose intens
 The primary endpoint in this study was overall survival.
 The median survival time was 10.3 months in the ALIMTA plus cisplatin treatment arm and 10.3 months in the gemcitabine plus cisplatin arm, with an adjusted hazard ratio of 0.94.
 
-Table 10: First-Line Therapy: Efficacy in NSCLC – ITT Population
+Table 11: First-Line Therapy: Efficacy in NSCLC – ITT Population
 
 |  | ALIMTA plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |
 | --- | --- | --- |
@@ -61,10 +61,10 @@ Table 10: First-Line Therapy: Efficacy in NSCLC – ITT Population
 | b A HR that is less than 1.0 indicates that survival is better in the AC arm than in the GC arm. Alternatively, a HR that is greater than 1.0 indicates survival is better in the GC arm than in the AC arm. |  |  |
 
 A pre-specified analysis of the impact of NSCLC histology on overall survival was examined.
-Clinically relevant differences in survival according to histology were observed and are shown in Table 11.
+Clinically relevant differences in survival according to histology were observed and are shown in Table 12.
 This difference in treatment effect for ALIMTA based on histology demonstrating a lack of efficacy in squamous cell histology was also observed in the single-agent, second-line study and the maintenance study [see Clinical Studies (14.2, 14.3)].
 
-Table 11: First-Line Therapy: Overall Survival in NSCLC Histologic Subgroups
+Table 12: First-Line Therapy: Overall Survival in NSCLC Histologic Subgroups
 
 | Histology Subgroup | Median Overall Survival in Months (95% CI) |  |  |  | Unadjusted Hazard Ratio (HR)a,b (95% CI) | Adjusted Hazard Ratio (HR)a,b,c (95% CI) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -82,17 +82,20 @@ Table 11: First-Line Therapy: Overall Survival in NSCLC Histologic Subgroups
 
 ## 14.2 Non-Small Cell Lung Cancer – Maintenance
 
+ALIMTA Maintenance Following Non-ALIMTA Containing Platinum-Based, Induction Therapy
+
 A multi-center, randomized, double-blind, placebo-controlled study was conducted in 663 patients with Stage IIIb/IV NSCLC who did not progress after four cycles of platinum-based chemotherapy.
 Patients who did not progress were randomized 2:1 to receive ALIMTA or placebo immediately following platinum-based chemotherapy.
-ALIMTA was administered intravenously over 10 minutes at a dose of 500 mg/m 2 on Day 1 of each 21-day cycle, until disease progression.
-Patients in both study arms received folic acid, vitamin B 12, and dexamethasone [see Dosage and Administration (2.3)].
+Of the randomized patients, 47.2% versus 52.7% achieved a complete or partial response to induction therapy and 51.9% versus 47.3% had stable disease after induction therapy in the ALIMTA and placebo arms, respectively.
+ALIMTA was administered intravenously over 10 minutes at a dose of 500 mg/m2 on Day 1 of each 21-day cycle, until disease progression.
+Patients in both study arms received folic acid, vitamin B12, and dexamethasone [see Dosage and Administration (2.3)].
 
 The study was designed to demonstrate superior progression-free survival and overall survival of ALIMTA over placebo.
 Progression-free survival (PFS) was assessed by independent review.
-Patient characteristics of the intent to treat (ITT) population are shown in Table 12.
+Patient characteristics of the intent to treat (ITT) population are shown in Table 13.
 The demographics and baseline disease characteristics were well balanced between study arms.
 
-Table 12: Maintenance Therapy: Summary of Patient Characteristics in Study of NSCLC
+Table 13: Maintenance Therapy Following Platinum-Based Induction Therapy: Summary of Patient Characteristics in Study of NSCLC
 
 | Patient characteristic | ALIMTA (N=441) | Placebo (N=222) |
 | --- | --- | --- |
@@ -104,17 +107,17 @@ Table 12: Maintenance Therapy: Summary of Patient Characteristics in Study of NS
 | Caucasian | 279 (63.3%) | 149 (67.1%) |
 | East Asian | 104 (23.6%) | 50 (22.5%) |
 | Other | 58 (13.2%) | 23 (10.4%) |
-| Stage at Entry a |  |  |
+| Stage at Entrya |  |  |
 | IIIb/IV | 18.0%/82.0% | 21.2%/78.8% |
 | Histology (%) |  |  |
-| Nonsquamous NSCLC b | 325 (73.7%) | 156 (70.3%) |
+| Nonsquamous NSCLCb | 325 (73.7%) | 156 (70.3%) |
 | Adenocarcinoma | 222 (50.3%) | 106 (47.7%) |
 | Large cell | 10 (2.3%) | 10 (4.5%) |
-| Other c | 93 (21.1%) | 40 (18.0%) |
+| Otherc | 93 (21.1%) | 40 (18.0%) |
 | Squamous | 116 (26.3%) | 66 (29.7%) |
-| ECOG PS d |  |  |
+| ECOG PSd |  |  |
 | 0/1 | 40.1%/59.9% | 38.3%/61.7% |
-| Smoking History e |  |  |
+| Smoking Historye |  |  |
 | Ever/never smoker | 74.1%/25.9% | 71.5%/28.5% |
 | Time from start of induction therapy to study randomization (months) |  |  |
 | Median (range) | 3.25 (1.6-4.8) | 3.29 (2.7-5.1) |
@@ -135,36 +138,36 @@ For the population of patients with squamous NSCLC, ALIMTA did not improve OS co
 This difference in treatment effect for ALIMTA based on histology demonstrating lack of benefit in squamous cell histology was also observed in the first-line and second-line studies.
 [see Clinical Studies (14.1, 14.3)]
 
-Efficacy results for the overall patient population are presented in Table 13 and Figure 3, and efficacy results by pre-specified histologic subgroups are presented in Table 14 and Figure 4, below.
+Efficacy results for the overall patient population are presented in Table 14 and Figure 3, and efficacy results by pre-specified histologic subgroups are presented in Table 15 and Figure 4, below.
 
-Table 13: Maintenance Therapy: Efficacy of ALIMTA versus Placebo in NSCLC - ITT Population
+Table 14: Maintenance Therapy Following Platinum-Based Induction Therapy: Efficacy of ALIMTA versus Placebo in NSCLC - ITT Population
 
-| Efficacy Parameter a,b | ALIMTA (N=441) | Placebo (N=222) |
+| Efficacy Parametera,b | ALIMTA (N=441) | Placebo (N=222) |
 | --- | --- | --- |
-| Median overall survival c (95% CI) | 13.4 mos (11.9-15.9) | 10.6 mos (8.7-12.0) |
-| Hazard ratio (HR) c (95% CI) | 0.79 (0.65-0.95) |  |
+| Median overall survivalc (95% CI) | 13.4 mos (11.9-15.9) | 10.6 mos (8.7-12.0) |
+| Hazard ratio (HR)c (95% CI) | 0.79 (0.65-0.95) |  |
 | p-value | p=0.012 |  |
 | Median progression-free survival (95% CI) | 4.0 mos (3.1-4.4) | 2.0 mos (1.5-2.8) |
-| Hazard ratio (HR) c (95% CI) | 0.60 (0.49-0.73) |  |
+| Hazard ratio (HR)c (95% CI) | 0.60 (0.49-0.73) |  |
 | p-value | p<0.00001 |  |
 | a PFS and OS were calculated from time of randomization, after completion of 4 cycles of induction platinum-based chemotherapy. |  |  |
 | b Values for PFS given based on independent review (ALIMTA N=387, Placebo N=194). |  |  |
 | c Unadjusted hazard ratios are provided. A HR <1.0 indicates that the result is better in the ALIMTA arm than in the placebo arm. |  |  |
 
-Table 14: Maintenance Therapy: Efficacy in NSCLC by Histologic Subgroups a
+Table 15: Maintenance Therapy Following Platinum-Based Induction Therapy: Efficacy in NSCLC by Histologic Subgroupsa
 
-|  | Overall Survival |  | Progression-Free Survival b |  |
+|  | Overall Survival |  | Progression-Free Survivalb |  |
 | --- | --- | --- | --- | --- |
 | ALIMTA | Placebo | ALIMTA | Placebo |  |
 | Median (months) | Median (months) | Median (months) | Median (months) |  |
-| HR c (95% CI) |  | HR c (95% CI) |  |  |
-| Nonsquamous NSCLC d | 15.5 | 10.3 | 4.4 | 1.8 |
+| HRc(95% CI) |  | HRc(95% CI) |  |  |
+| Nonsquamous NSCLCd | 15.5 | 10.3 | 4.4 | 1.8 |
 | N=481 | 0.70 (0.56-0.88) |  | 0.47 (0.37-0.60) |  |
 | Adenocarcinoma | 16.8 | 11.5 | 4.6 | 2.7 |
 | N=328 | 0.73 (0.56-0.96) |  | 0.51 (0.38-0.68) |  |
 | Large cell carcinoma | 8.4 | 7.9 | 4.5 | 1.5 |
 | N=20 | 0.98 (0.36-2.65) |  | 0.40 (0.12-1.29) |  |
-| Other e | 11.3 | 7.7 | 4.1 | 1.6 |
+| Othere | 11.3 | 7.7 | 4.1 | 1.6 |
 | N=133 | 0.61 (0.40-0.94) |  | 0.44 (0.28-0.68) |  |
 | Squamous cell | 9.9 | 10.8 | 2.4 | 2.5 |
 | N=182 | 1.07 (0.77-1.50) |  | 1.03 (0.71-1.49) |  |
@@ -174,16 +177,82 @@ Table 14: Maintenance Therapy: Efficacy in NSCLC by Histologic Subgroups a
 | d Includes patients with adenocarcinoma, large cell carcinoma, and other histology. |  |  |  |  |
 | e The subgroup of “Other” represents patients with a primary diagnosis of NSCLC whose disease did not clearly qualify as adenocarcinoma, large cell carcinoma, or squamous cell carcinoma. |  |  |  |  |
 
+Continuation of ALIMTA as Maintenance Following ALIMTA Plus Platinum Induction Therapy
+
+A multi-center, randomized, double-blind, placebo-controlled study was conducted to evaluate continuation of ALIMTA in patients with Stage IIIb/IV nonsquamous NSCLC.
+Patients completing induction treatment of four cycles of ALIMTA plus cisplatin with stable disease or better and PS 0/1 were randomized (2:1) to maintenance treatment with ALIMTA or placebo.
+Randomization was stratified by response to induction (complete response (CR)/partial response (PR) versus stable disease (SD)), disease stage (IIIb versus IV), and ECOG performance status (0 versus 1).
+ALIMTA was administered intravenously over 10 minutes at a dose of 500 mg/m2 on Day 1 of each 21-day cycle and continued until disease progression.
+Patients in both study arms received folic acid, vitamin B12, and dexamethasone [see Dosage and Administration (2.3)].
+The main efficacy outcome was investigator-assessed progression-free survival.
+
+A total of 539 patients were randomized; all completed four cycles of ALIMTA and cisplatin induction prior to randomization.
+Of the randomized patients, 44% versus 42% achieved a complete or partial response to induction therapy and 53% versus 53% had stable disease after induction treatment in the ALIMTA or the placebo arms respectively.
+
+Patient demographics of the intent to treat (ITT) population are shown in Table 16.
+
+Table 16: ALIMTA as Maintenance Therapy Following ALIMTA Plus Cisplatin Induction Therapy: Summary of Patient Characteristics in Study of Nonsquamous NSCLC
+
+| Patient characteristic | ALIMTA (N=359) | Placebo (N=180) |
+| --- | --- | --- |
+| Age (yrs) |  |  |
+| Median | 61.0 | 62.4 |
+| Range | 31.9-78.7 | 34.9-83.3 |
+| Gender (%) |  |  |
+| Male | 201 (56%) | 112 (62%) |
+| Female | 158 (44%) | 68 (38%) |
+| Ethnic Origin (%) |  |  |
+| Caucasian | 339 (94%) | 171 (95%) |
+| Asian | 16 (4.5%) | 8 (4.4%) |
+| African | 4 (1.1%) | 1 (0.6%) |
+| Stage at Entry |  |  |
+| IIIb | 31 (9%) | 18 (10%) |
+| IV | 328 (91%) | 162 (90%) |
+| Histology (%) |  |  |
+| Nonsquamous NSCLCa |  |  |
+| Adenocarcinoma | 310 (86%) | 161 (89%) |
+| Large cell | 24 (7%) | 12 (7%) |
+| Otherb | 25 (7%) | 7 (3.9%) |
+| ECOG PS (%) |  |  |
+| 0 | 113 (32%) | 60 (33%) |
+| 1 | 245 (68%) | 118 (66%) |
+| Smoking Historyc |  |  |
+| Ever | 274 (76%) | 144 (80%) |
+| Never smoker | 83 (23%) | 34 (19%) |
+| a Histological or cytological diagnosis of NSCLC defined as other than predominantly squamous cell histology (squamous cell and/or mixed small cell, non-small cell histology were not permitted on this study). |  |  |
+| b The subcategory of “Other” represents patients with a primary diagnosis of NSCLC whose disease did not clearly qualify as adenocarcinoma or large-cell carcinoma. |  |  |
+| c Smoking history was not reported for all randomized patients. |  |  |
+
+Patients received a median of four cycles of ALIMTA maintenance or placebo.
+The percentages of patients that received post-study treatment were similar (64% in the ALIMTA arm and 72% in the placebo arm).
+
+The trial showed a statistically significant improvement in progression-free survival and in overall survival for patients randomized to ALIMTA maintenance.
+Efficacy results are presented in Table 17 and Figure 5.
+
+Table 17: ALIMTA Maintenance Therapy Following ALIMTA Plus Cisplatin Induction Therapy: Efficacy of ALIMTA versus Placebo in Nonsquamous NSCLC
+
+| Efficacy Parametera,b | ALIMTA (N=359) | Placebo (N=180) |
+| --- | --- | --- |
+| Median overall survivalc (95% CI) | 13.9 mos (12.8-16.0) | 11.0 mos (10.0-12.5) |
+| Hazard ratio (HR)c (95% CI) | 0.78 (0.64-0.96) |  |
+| p-value | p=0.02 |  |
+| Median progression-free survival (95% CI) | 4.1 mos (3.2-4.6) | 2.8 mos (2.6-3.1) |
+| Hazard ratio (HR)c (95% CI) | 0.62 (0.49-0.79) |  |
+| p-value | p<0.0001 |  |
+| a PFS and OS were calculated from time of randomization, after completion of 4 cycles of ALIMTA plus cisplatin induction therapy. |  |  |
+| b Values for PFS given based on investigator assessment. |  |  |
+| c A hazard ratio of less than 1 indicates that the maintenance treatment with pemetrexed is associated with lower risk of progression or death compared to treatment with placebo. |  |  |
+
 ## 14.3 Non-Small Cell Lung Cancer – After Prior Chemotherapy
 
 A multi-center, randomized, open label study was conducted in patients with Stage III or IV NSCLC after prior chemotherapy to compare the overall survival following treatment with ALIMTA versus docetaxel.
-ALIMTA was administered intravenously over 10 minutes at a dose of 500 mg/m 2 and docetaxel was administered at 75 mg/m 2 as a 1-hour intravenous infusion.
+ALIMTA was administered intravenously over 10 minutes at a dose of 500 mg/m2 and docetaxel was administered at 75 mg/m2 as a 1-hour intravenous infusion.
 Both drugs were given on Day 1 of each 21-day cycle.
 All patients treated with ALIMTA received vitamin supplementation with folic acid and vitamin B 12.
 The study was intended to show either an overall survival superiority or non-inferiority of ALIMTA to docetaxel.
-Patient demographics of the intent to treat (ITT) population are shown in Table 15.
+Patient demographics of the intent to treat (ITT) population are shown in Table 18.
 
-Table 15: Second-Line Therapy: Summary of Patient Characteristics in NSCLC Study
+Table 18: Second-Line Therapy: Summary of Patient Characteristics in NSCLC Study
 
 | Patient characteristic | ALIMTA (N=283) | Docetaxel (N=288) |
 | --- | --- | --- |
@@ -198,16 +267,16 @@ Table 15: Second-Line Therapy: Summary of Patient Characteristics in NSCLC Study
 | Squamous | 78 (27.6) | 94 (32.6) |
 | Bronchoalveolar | 4 (1.4) | 1 (0.3) |
 | Other | 47 (16.6) | 51 (17.7) |
-| Performance Status (%) a |  |  |
+| Performance Status (%)a |  |  |
 | 0-1 | 234 (88.6) | 240 (87.6) |
 | 2 | 30 (11.4) | 34 (12.4) |
 | a Performance status was not reported for all randomized patients. Percentages are representative of N=264 for the ALIMTA arm and N=274 for the docetaxel arm. |  |  |
 
 The primary endpoint in this study was overall survival.
-The median survival time was 8.3 months in the ALIMTA treatment arm and 7.9 months in the docetaxel arm, with a hazard ratio of 0.99 (see Table 16).
+The median survival time was 8.3 months in the ALIMTA treatment arm and 7.9 months in the docetaxel arm, with a hazard ratio of 0.99 (see Table 19).
 The study did not show an overall survival superiority of ALIMTA.
 
-Table 16: Efficacy of ALIMTA versus Docetaxel in Non-Small Cell Lung Cancer - ITT Population
+Table 19: Efficacy of ALIMTA versus Docetaxel in Non-Small Cell Lung Cancer - ITT Population
 
 |  | ALIMTA (N=283) | Docetaxel (N=288) |
 | --- | --- | --- |
@@ -218,18 +287,18 @@ Table 16: Efficacy of ALIMTA versus Docetaxel in Non-Small Cell Lung Cancer - IT
 | Overall response rate (95% CI) | 8.5% (5.2-11.7) | 8.3% (5.1-11.5) |
 
 A retrospective analysis of the impact of NSCLC histology on overall survival was examined.
-Clinically relevant differences in survival according to histology were observed and are shown in Table 17.
+Clinically relevant differences in survival according to histology were observed and are shown in Table 20.
 This difference in treatment effect for ALIMTA based on histology demonstrating a lack of efficacy in squamous cell histology was also observed in the first-line combination study and in the maintenance study [see Clinical Studies (14.1, 14.2)].
 
-Table 17: Second-Line Therapy: Overall Survival of ALIMTA versus Docetaxel in NSCLC by Histologic Subgroups
+Table 20: Second-Line Therapy: Overall Survival of ALIMTA versus Docetaxel in NSCLC by Histologic Subgroups
 
-| Histology Subgroup | Median Overall Survival in Months (95% CI) |  |  |  | Unadjusted Hazard Ratio (HR)a,b (95% CI) | Adjusted Hazard Ratio (HR) a,b,c (95% CI) |
+| Histology Subgroup | Median Overall Survival in Months (95% CI) |  |  |  | Unadjusted Hazard Ratio (HR)a,b (95% CI) | Adjusted Hazard Ratio (HR)a,b,c (95% CI) |
 | --- | --- | --- | --- | --- | --- | --- |
 | ALIMTA |  | Docetaxel |  |  |  |  |
-| Nonsquamous NSCLC d (N=399) | 9.3 (7.8-9.7) | N=205 | 8.0 (6.3-9.3) | N=194 | 0.89 (0.71-1.13) | 0.78 (0.61-1.00) |
+| Nonsquamous NSCLCd (N=399) | 9.3 (7.8-9.7) | N=205 | 8.0 (6.3-9.3) | N=194 | 0.89 (0.71-1.13) | 0.78 (0.61-1.00) |
 | Adenocarcinoma (N=301) | 9.0 (7.6-9.6) | N=158 | 9.2 (7.5-11.3) | N=143 | 1.09 (0.83-1.44) | 0.92 (0.69-1.22) |
 | Large Cell (N=47) | 12.8 (5.8-14.0) | N=18 | 4.5 (2.3-9.1) | N=29 | 0.38 (0.18-0.78) | 0.27 (0.11-0.63) |
-| Other e (N=51) | 9.4 (6.0-10.1) | N=29 | 7.9 (4.0-8.9) | N=22 | 0.62 (0.32-1.23) | 0.57 (0.27-1.20) |
+| Othere (N=51) | 9.4 (6.0-10.1) | N=29 | 7.9 (4.0-8.9) | N=22 | 0.62 (0.32-1.23) | 0.57 (0.27-1.20) |
 | Squamous Cell (N=172) | 6.2 (4.9-8.0) | N=78 | 7.4 (5.6-9.5) | N=94 | 1.32 (0.93-1.86) | 1.56 (1.08-2.26) |
 | a A HR that is less than 1.0 indicates that survival is better in the ALIMTA arm than in the docetaxel arm. Alternatively, a HR that is greater than 1.0 indicates survival is better in the docetaxel arm than in the ALIMTA arm. |  |  |  |  |  |  |
 | b Unadjusted for multiple comparisons. |  |  |  |  |  |  |
@@ -247,9 +316,9 @@ After 117 patients were treated, white cell and GI toxicity led to a change in p
 The primary analysis of this study was performed on the population of all patients randomly assigned to treatment who received study drug (randomized and treated).
 An analysis was also performed on patients who received folic acid and vitamin B 12 supplementation during the entire course of study therapy (fully supplemented), as supplementation is recommended [see Dosage and Administration (2.3)].
 Results in all patients and those fully supplemented were similar.
-Patient demographics are shown in Table 18.
+Patient demographics are shown in Table 21.
 
-Table 18: Summary of Patient Characteristics in MPM Study
+Table 21: Summary of Patient Characteristics in MPM Study
 
 |  | Randomized and Treated Patients |  | Fully Supplemented Patients |  |
 | --- | --- | --- | --- | --- |
@@ -270,20 +339,20 @@ Table 18: Summary of Patient Characteristics in MPM Study
 | III | 73 (32.4) | 68 (30.6) | 51 (30.5) | 49 (30.4) |
 | IV | 101 (44.9) | 105 (47.2) | 74 (44.3) | 73 (45.3) |
 | Unspecified | 1 (0.4) | 2 (0.9) | 1 (0.6) | 2 (1.2) |
-| Diagnosis/Histology a (%) |  |  |  |  |
+| Diagnosis/Histologya (%) |  |  |  |  |
 | Epithelial | 154 (68.1) | 152 (68.5) | 117 (69.6) | 113 (69.3) |
 | Mixed | 37 (16.4) | 36 (16.2) | 25 (14.9) | 25 (15.3) |
 | Sarcomatoid | 18 (8.0) | 25 (11.3) | 14 (8.3) | 17 (10.4) |
 | Other | 17 (7.5) | 9 (4.1) | 12 (7.1) | 8 (4.9) |
-| Baseline KPS b (%) |  |  |  |  |
+| Baseline KPSb (%) |  |  |  |  |
 | 70-80 | 109 (48.2) | 97 (43.7) | 83 (49.4) | 69 (42.3) |
 | 90-100 | 117 (51.8) | 125 (56.3) | 85 (50.6) | 94 (57.7) |
 | a Only 67% of the patients had the histologic diagnosis of malignant mesothelioma confirmed by independent review. |  |  |  |  |
 | b Karnofsky Performance Scale. |  |  |  |  |
 
-Table 19 and Figure 5 summarize the survival results for all randomized and treated patients regardless of vitamin supplementation status and those patients receiving vitamin supplementation from the time of enrollment in the trial.
+Table 22 and Figure 6 summarize the survival results for all randomized and treated patients regardless of vitamin supplementation status and those patients receiving vitamin supplementation from the time of enrollment in the trial.
 
-Table 19: Efficacy of ALIMTA plus Cisplatin versus Cisplatin in Malignant Pleural Mesothelioma
+Table 22: Efficacy of ALIMTA plus Cisplatin versus Cisplatin in Malignant Pleural Mesothelioma
 
 |  | Randomized and Treated Patients |  | Fully Supplemented Patients |  |
 | --- | --- | --- | --- | --- |
@@ -291,7 +360,7 @@ Table 19: Efficacy of ALIMTA plus Cisplatin versus Cisplatin in Malignant Pleura
 | Median overall survival | 12.1 mos | 9.3 mos | 13.3 mos | 10.0 mos |
 | (95% CI) | (10.0-14.4) | (7.8-10.7) | (11.4-14.9) | (8.4-11.9) |
 | Hazard ratio | 0.77 |  | 0.75 |  |
-| Log rank p-value a | 0.020 |  | 0.051 |  |
+| Log rank p-valuea | 0.020 |  | 0.051 |  |
 | a p-value refers to comparison between arms. |  |  |  |  |
 
 Similar results were seen in the analysis of patients (N=303) with confirmed histologic diagnosis of malignant pleural mesothelioma.
@@ -303,7 +372,7 @@ Objective tumor response for malignant pleural mesothelioma is difficult to meas
 However, based upon prospectively defined criteria, the objective tumor response rate for ALIMTA plus cisplatin was greater than the objective tumor response rate for cisplatin alone.
 There was also improvement in lung function (forced vital capacity) in the ALIMTA plus cisplatin arm compared to the control arm.
 
-Patients who received full supplementation with folic acid and vitamin B 12 during study therapy received a median of 6 and 4 cycles in the ALIMTA/cisplatin (N=168) and cisplatin (N=163) arms, respectively.
-Patients who never received folic acid and vitamin B 12 during study therapy received a median of 2 cycles in both treatment arms (N=32 and N=38 for the ALIMTA/cisplatin and cisplatin arm, respectively).
+Patients who received full supplementation with folic acid and vitamin B12 during study therapy received a median of 6 and 4 cycles in the ALIMTA/cisplatin (N=168) and cisplatin (N=163) arms, respectively.
+Patients who never received folic acid and vitamin B12 during study therapy received a median of 2 cycles in both treatment arms (N=32 and N=38 for the ALIMTA/cisplatin and cisplatin arm, respectively).
 Patients receiving ALIMTA in the fully supplemented group received a relative dose intensity of 93% of the protocol specified ALIMTA dose intensity; patients treated with cisplatin in the same group received 94% of the projected dose intensity.
 Patients treated with cisplatin alone had a dose intensity of 96%.

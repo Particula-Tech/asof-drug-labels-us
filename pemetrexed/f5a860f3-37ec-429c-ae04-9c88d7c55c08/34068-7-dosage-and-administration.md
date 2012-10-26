@@ -1,36 +1,28 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Combination Use with Cisplatin
-
-Nonsquamous Non-Small Cell Lung Cancer and Malignant Pleural Mesothelioma
+## 2.1 Combination Use with Cisplatin for Nonsquamous Non-Small Cell Lung Cancer or Malignant Pleural Mesothelioma
 
 The recommended dose of ALIMTA is 500 mg/m2 administered as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle.
 The recommended dose of cisplatin is 75 mg/m2 infused over 2 hours beginning approximately 30 minutes after the end of ALIMTA administration.
-Patients should receive appropriate hydration prior to and/or after receiving cisplatin.
 See cisplatin package insert for more information.
 
-## 2.2 Single-Agent Use
-
-Nonsquamous Non-Small Cell Lung Cancer
+## 2.2 Single-Agent Use as Maintenance Following First-Line Therapy, or as a Second-Line Therapy
 
 The recommended dose of ALIMTA is 500 mg/m2 administered as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle.
 
-## 2.3 Premedication Regimen
+## 2.3 Premedication Regimen and Concurrent Medications
 
 Vitamin Supplementation
 
-To reduce toxicity, patients treated with ALIMTA must be instructed to take a low-dose oral folic acid preparation or multivitamin with folic acid on a daily basis.
-At least 5 daily doses of folic acid must be taken during the 7-day period preceding the first dose of ALIMTA; and dosing should continue during the full course of therapy and for 21 days after the last dose of ALIMTA.
-Patients must also receive one (1) intramuscular injection of vitamin B12 during the week preceding the first dose of ALIMTA and every 3 cycles thereafter.
-Subsequent vitamin B12 injections may be given the same day as ALIMTA.
-In clinical trials, the dose of folic acid studied ranged from 350 to 1000 mcg, and the dose of vitamin B12 was 1000 mcg.
-The most commonly used dose of oral folic acid in clinical trials was 400 mcg [see Warnings and Precautions (5.1)].
+Instruct patients to initiate folic acid 400 mcg to 1000 mcg orally once daily beginning 7 days before the first dose of ALIMTA.
+Continue folic acid during the full course of therapy and for 21 days after the last dose of ALIMTA [see Warnings and Precautions (5.1)].
 
-Corticosteroid
+Administer vitamin B12 1 mg intramuscularly 1 week prior to the first dose of ALIMTA and every 3 cycles thereafter.
+Subsequent vitamin B12 injections may be given the same day as treatment with ALIMTA [see Warnings and Precautions (5.1)].
 
-Skin rash has been reported more frequently in patients not pretreated with a corticosteroid.
-Pretreatment with dexamethasone (or equivalent) reduces the incidence and severity of cutaneous reaction.
-In clinical trials, dexamethasone 4 mg was given by mouth twice daily the day before, the day of, and the day after ALIMTA administration [see Warnings and Precautions (5.1)].
+Corticosteroids
+
+Administer dexamethasone 4 mg by mouth twice daily the day before, the day of, and the day after ALIMTA administration [see Warnings and Precautions (5.1)].
 
 ## 2.4 Laboratory Monitoring and Dose Reduction/Discontinuation Recommendations
 

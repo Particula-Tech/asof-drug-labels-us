@@ -1,16 +1,17 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Premedication Regimen
+## 5.1 Requirement for Premedication and Concomitant Medication to Reduce Toxicity
 
-Need for Folate and Vitamin B12Supplementation
+Vitamin Supplementation
 
-Patients treated with ALIMTA must be instructed to take folic acid and vitamin B12 as a prophylactic measure to reduce treatment-related hematologic and GI toxicity [see Dosage and Administration (2.3)].
-In clinical studies, less overall toxicity and reductions in Grade 3/4 hematologic and nonhematologic toxicities such as neutropenia, febrile neutropenia, and infection with Grade 3/4 neutropenia were reported when pretreatment with folic acid and vitamin B12 was administered.
+Prior to treatment with ALIMTA, initiate supplementation with oral folic acid and intramuscular vitamin B12 to reduce the severity of hematologic and gastrointestinal toxicity of ALIMTA [see Dosage and Administration (2.3)].
+Do not substitute oral vitamin B12 for intramuscular vitamin B12.
+In clinical studies, the incidence of the following Grade 3-4 toxicities were higher in patients with mesothelioma who were never supplemented as compared to patients who were fully supplemented with folic acid and vitamin B12 prior to and throughout ALIMTA treatment: neutropenia [38% versus 23%], thrombocytopenia [9% versus 5%], febrile neutropenia [9% versus 0.6%], and infection with neutropenia [6% versus.
+0].
 
-Corticosteroid Supplementation
+Corticosteroids
 
-Skin rash has been reported more frequently in patients not pretreated with a corticosteroid in clinical trials.
-Pretreatment with dexamethasone (or equivalent) reduces the incidence and severity of cutaneous reaction [see Dosage and Administration (2.3)].
+Administer dexamethasone the day before, the day of, and the day after ALIMTA administration [see Dosage and Administration (2.3)].
 
 ## 5.2 Bone Marrow Suppression
 
@@ -32,7 +33,8 @@ Caution should be used when administering NSAIDs concurrently with ALIMTA to pat
 
 ## 5.5 Required Laboratory Monitoring
 
-Patients should not begin a new cycle of treatment unless the ANC is ≥1500 cells/mm3, the platelet count is ≥100,000 cells/mm3, and creatinine clearance is ≥45 mL/min [see Dosage and Administration (2.4)].
+Obtain a complete blood count and renal function tests at the beginning of each cycle and as needed.
+Do not initiate a cycle of treatment unless the ANC is ≥1500 cells/mm3, the platelet count is ≥100,000 cells/mm3, and creatinine clearance is ≥45 mL/min [see Dosage and Administration (2.4)].
 
 ## 5.6 Pregnancy Category D
 

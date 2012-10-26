@@ -7,7 +7,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 In clinical trials, the most common adverse reactions (incidence ≥20%) during therapy with ALIMTA as a single-agent were fatigue, nausea, and anorexia.
 Additional common adverse reactions (incidence ≥20%) during therapy with ALIMTA when used in combination with cisplatin included vomiting, neutropenia, leukopenia, anemia, stomatitis/pharyngitis, thrombocytopenia, and constipation.
 
-Non-Small Cell Lung Cancer (NSCLC) — Combination with Cisplatin
+Non-Small Cell Lung Cancer (NSCLC) – ALIMTA in Combination with Cisplatin
 
 Table 4 provides the frequency and severity of adverse reactions that have been reported in >5% of 839 patients with NSCLC who were randomized to study and received ALIMTA plus cisplatin and 830 patients with NSCLC who were randomized to study and received gemcitabine plus cisplatin.
 All patients received study therapy as initial treatment for locally advanced or metastatic NSCLC and patients in both treatment groups were fully supplemented with folic acid and vitamin B12.
@@ -70,11 +70,14 @@ Incidence Less than 1%
 
 Non-Small Cell Lung Cancer (NSCLC) — Maintenance
 
-Table 5 provides the frequency and severity of adverse reactions that have been reported in >5% of 438 patients with NSCLC who received ALIMTA and 218 patients with NSCLC who received placebo.
+ALIMTA Maintenance Following Non-ALIMTA Containing, Platinum-Based Induction Therapy
+
+Table 5 provides the frequency and severity of adverse reactions reported in >5% of the 438 patients with NSCLC who received ALIMTA maintenance and the 218 patients with NSCLC who received placebo following a platinum-based induction therapy.
+
 All patients received study therapy immediately following 4 cycles of platinum-based treatment for locally advanced or metastatic NSCLC.
 Patients in both study arms were fully supplemented with folic acid and vitamin B12.
 
-Table 5: Adverse Reactions in Patients Receiving ALIMTA versus Placebo in NSCLCa
+Table 5: Adverse Reactions in Patients Receiving ALIMTA versus Placebo in NSCLCa Following Platinum-Based Induction Therapy
 
 |  | ALIMTA (N=438) |  | Placebo (N=218) |  |
 | --- | --- | --- | --- | --- |
@@ -132,12 +135,70 @@ Incidence Less than 1%
 - Neurology — motor neuropathy
 - Renal — renal failure
 
+Continuation of ALIMTA as Maintenance Following ALIMTA Plus Platinum Induction Therapy
+
+Table 6 provides the frequency and severity of adverse reactions reported in >5% of the 500 patients with non-squamous NSCLC who received at least one cycle of ALIMTA maintenance (n=333) or placebo (n=167) on the continuation maintenance trial.
+
+The median of maintenance cycles administered to patients receiving one or more doses of maintenance therapy was 4 on both the pemetrexed and placebo arms.
+Dose reductions for adverse events occurred in 3.3% of patients in the ALIMTA arm and 0.6% in the placebo arm.
+Dose delays for adverse events occurred in 22% of patients in the ALIMTA arm and 16% in the placebo arm.
+Patients in both study arms were supplemented with folic acid and vitamin B12.
+
+Table 6: Selecteda Adverse Reactionsb Occurring in ≥5% of Patients Receiving ALIMTA in Nonsquamous NSCLC Following ALIMTA Plus Cisplatin Induction Therapy
+
+| Adverse Reaction Organ System and Term | ALIMTA (N=333) |  | Placebo (N=167) |  |
+| --- | --- | --- | --- | --- |
+| All Gradesa Toxicity (%) | Grade 3-4a Toxicity (%) | All Gradesa Toxicity (%) | Grades 3-4a Toxicity (%) |  |
+| All Adverse Reactions | 53 | 17 | 34 | 4.8 |
+| Laboratory |  |  |  |  |
+| Hematologic |  |  |  |  |
+| Anemia | 15 | 4.8 | 4.8 | 0.6 |
+| Neutropenia | 9 | 3.9 | 0.6 | 0 |
+| Clinical |  |  |  |  |
+| Constitutional Symptoms |  |  |  |  |
+| Fatigue | 18 | 4.5 | 11 | 0.6 |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 12 | 0.3 | 2.4 | 0 |
+| Vomiting | 6 | 0 | 1.8 | 0 |
+| Mucositis/stomatitis | 5 | 0.3 | 2.4 | 0 |
+| General Disorders |  |  |  |  |
+| Edema | 5 | 0 | 3.6 | 0 |
+| a Adverse reactions of any severity (all grades) occurring more frequently (≥5%) or Grade 3-4 adverse reactions occurring more frequently (≥2%) in ALIMTA-treated patients compared to those receiving placebo. |  |  |  |  |
+| b NCI CTCAE Criteria version 3.0 |  |  |  |  |
+
+Administration of RBC (13% versus 4.8%) and platelet (1.5% versus 0.6%) transfusions, erythropoiesis stimulating agents (12% versus 7%), and granulocyte colony stimulating factors (6% versus 0) were higher in the ALIMTA arm compared to the placebo arm.
+
+The following additional Grade 3 or 4 adverse reactions were observed more frequently in the ALIMTA arm.
+
+Incidence 1% to 5%
+
+- 
+- Blood/Bone Marrow — thrombocytopenia
+- 
+- General Disorders — febrile neutropenia
+
+Incidence Less than 1%
+
+- 
+- Cardiovascular — ventricular tachycardia, syncope
+- 
+- General Disorders — pain
+- 
+- Gastrointestinal — gastrointestinal obstruction
+- 
+- Neurologic — depression
+- 
+- 
+- Renal — renal failure
+- 
+- Vascular — pulmonary embolism
+
 Non-Small Cell Lung Cancer (NSCLC) – After Prior Chemotherapy
 
-Table 6 provides the frequency and severity of adverse reactions that have been reported in >5% of 265 patients randomly assigned to receive single-agent ALIMTA with folic acid and vitamin B12 supplementation and 276 patients randomly assigned to receive single-agent docetaxel.
+Table 7 provides the frequency and severity of adverse reactions that have been reported in >5% of 265 patients randomly assigned to receive single-agent ALIMTA with folic acid and vitamin B12 supplementation and 276 patients randomly assigned to receive single-agent docetaxel.
 All patients were diagnosed with locally advanced or metastatic NSCLC and received prior chemotherapy.
 
-Table 6: Adverse Reactions in Fully Supplemented Patients Receiving ALIMTA versus Docetaxel in NSCLCa
+Table 7: Adverse Reactions in Fully Supplemented Patients Receiving ALIMTA versus Docetaxel in NSCLCa
 
 |  | ALIMTA (N=265) |  | Docetaxel (N=276) |  |
 | --- | --- | --- | --- | --- |
@@ -189,10 +250,10 @@ Incidence Less than 1%
 
 Malignant Pleural Mesothelioma (MPM)
 
-Table 7 provides the frequency and severity of adverse reactions that have been reported in >5% of 168 patients with mesothelioma who were randomly assigned to receive cisplatin and ALIMTA and 163 patients with mesothelioma randomly assigned to receive single-agent cisplatin.
+Table 8 provides the frequency and severity of adverse reactions that have been reported in >5% of 168 patients with mesothelioma who were randomly assigned to receive cisplatin and ALIMTA and 163 patients with mesothelioma randomly assigned to receive single-agent cisplatin.
 In both treatment arms, these chemonaive patients were fully supplemented with folic acid and vitamin B12.
 
-Table 7: Adverse Reactions in Fully Supplemented Patients Receiving ALIMTA plus Cisplatin in MPMa
+Table 8: Adverse Reactions in Fully Supplemented Patients Receiving ALIMTA plus Cisplatin in MPMa
 
 |  | ALIMTA/cisplatin (N=168) |  | Cisplatin (N=163) |  |
 | --- | --- | --- | --- | --- |
@@ -246,11 +307,11 @@ Incidence Less than 1%
 - Cardiovascular — arrhythmia
 - Neurology — motor neuropathy
 
-Effects of Vitamin Supplementations
+Effects of Vitamin Supplementations on Toxicity
 
-Table 8 compares the incidence (percentage of patients) of CTC Grade 3/4 toxicities in patients who received vitamin supplementation with daily folic acid and vitamin B12 from the time of enrollment in the study (fully supplemented) with the incidence in patients who never received vitamin supplementation (never supplemented) during the study in the ALIMTA plus cisplatin arm.
+Table 9 compares the incidence (percentage of patients) of CTC Grade 3/4 toxicities in patients who received vitamin supplementation with daily folic acid and vitamin B12 from the time of enrollment in the study (fully supplemented) with the incidence in patients who never received vitamin supplementation (never supplemented) during the study in the ALIMTA plus cisplatin arm.
 
-Table 8: Selected Grade 3/4 Adverse Events Comparing Fully Supplemented versus Never Supplemented Patients in the ALIMTA plus Cisplatin arm (% incidence)
+Table 9: Selected Grade 3/4 Adverse Events Comparing Fully Supplemented versus Never Supplemented Patients in the ALIMTA plus Cisplatin arm (% incidence)
 
 | Adverse Eventa (%) | Fully Supplemented Patients (N=168) | Never Supplemented Patients (N=32) |
 | --- | --- | --- |
@@ -263,8 +324,6 @@ Table 8: Selected Grade 3/4 Adverse Events Comparing Fully Supplemented versus N
 | a Refer to NCI CTC criteria for lab and non-laboratory values for each grade of toxicity (Version 2.0). |  |  |
 
 The following adverse events were greater in the fully supplemented group compared to the never supplemented group: hypertension (11%, 3%), chest pain (8%, 6%), and thrombosis/embolism (6%, 3%).
-
-Subpopulations
 
 No relevant effect for ALIMTA safety due to gender or race was identified, except an increased incidence of rash in men (24%) compared to women (16%).
 
@@ -279,9 +338,9 @@ Esophagitis occurred in less than 1% of patients.
 The following adverse reactions have been identified during post-approval use of ALIMTA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-These reactions have occurred with ALIMTA when used as a single-agent and in combination therapies.
+These reactions occurred with ALIMTA when used as a single-agent and in combination therapies.
 
-Gastrointestinal — colitis
+Gastrointestinal — colitis, pancreatitis
 
 General Disorders and Administration Site Conditions — edema
 

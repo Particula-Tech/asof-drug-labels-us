@@ -24,7 +24,6 @@ ALIMTA is a treatment for:
 
 To lower your chances of side effects of ALIMTA, you must also take folic acid and vitamin B12 prior to and during your treatment with ALIMTA.
 Your doctor will prescribe a medicine called a “corticosteroid” to take for 3 days during your treatment with ALIMTA.
-Corticosteroid medicines lower your chances of getting skin reactions with ALIMTA.
 
 In children, ALIMTA has not been shown to be effective.
 No important differences in side effects were seen in children compared to adults (see “What are the possible side effects of ALIMTA?”).
@@ -53,9 +52,8 @@ How is ALIMTA given?
 - If you have completed initial treatment for your non-small cell lung cancer, you may receive ALIMTA alone, given as a 10 minute infusion into your vein.
 - If you are being treated because your non-small cell lung cancer has returned, you may receive ALIMTA alone, given as a 10 minute infusion into your vein.
 - Your doctor will prescribe a medicine called a “corticosteroid” to take for 3 days during your treatment with ALIMTA.
-  Corticosteroid medicines lower your chances for getting skin reactions with ALIMTA.
 - It is very important to take folic acid and vitamin B12 during your treatment with ALIMTA to lower your chances of harmful side effects.
-  You must start taking 350-1000 micrograms of folic acid every day for at least 5 days out of the 7 days before your first dose of ALIMTA.
+  You must start taking 400-1000 micrograms of folic acid every day for at least 5 days out of the 7 days before your first dose of ALIMTA.
   You must keep taking folic acid every day during the time you are getting treatment with ALIMTA and for 21 days after your last treatment.
   You can get folic acid vitamins over-the-counter.
   Folic acid is also found in many multivitamin pills.
@@ -124,10 +122,11 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ALIMTA that is written for health professionals.
 You can also call 1-800-LILLY-RX (1-800-545-5979) or visit www.ALIMTA.com.
 
-Revised May 2012
+Revised October 2012
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA www.ALIMTA.com
 
-| Copyright © 2004, 2012, Eli Lilly and Company. All rights reserved. |  |
-| --- | --- |
-| PV 6757 AMP |  |
+Copyright © 2004, 2012, Eli Lilly and Company.
+All rights reserved.
+
+PV 6758 AMP

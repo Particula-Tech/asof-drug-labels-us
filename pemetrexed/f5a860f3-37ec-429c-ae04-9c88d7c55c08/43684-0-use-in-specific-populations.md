@@ -33,27 +33,16 @@ The average pemetrexed clearance (2.30 L/h/m2) and half-life (2.3 hours) in pedi
 ## 8.5 Geriatric Use
 
 ALIMTA is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection.
 Renal function monitoring is recommended with administration of ALIMTA.
 No dose reductions other than those recommended for all patients are necessary for patients 65 years of age or older [see Dosage and Administration (2.4)].
 
-In the initial treatment non-small cell lung cancer clinical trial, 37.7% of patients treated with ALIMTA plus cisplatin were ≥65 years and Grade 3/4 neutropenia was greater as compared to patients <65 years (19.9% versus 12.2%).
-For patients <65 years, the HR for overall survival was 0.96 (95% CI: 0.83, 1.10) and for patients ≥65 years the HR was 0.88 (95% CI: 0.74, 1.06) in the intent to treat population.
-
-In the maintenance non-small cell lung cancer trial 33.3% of patients treated with ALIMTA were ≥65 years and no differences were seen in Grade 3/4 adverse reactions as compared to patients <65 years.
-For patients <65 years, the HR for overall survival was 0.74 (95% CI: 0.58, 0.93) and for patients ≥65 years the HR was 0.88 (95% CI: 0.65, 1.21) in the intent to treat population.
-
-In the non-small cell lung cancer trial after prior chemotherapy, 29.7% patients treated with ALIMTA were ≥65 years and Grade 3/4 hypertension was greater as compared to patients <65 years.
-For patients <65 years, the HR for overall survival was 0.95 (95% CI: 0.76, 1.19), and for patients ≥65 years the HR was 1.15 (95% CI: 0.79, 1.68) in the intent to treat population.
-
-The mesothelioma trial included 36.7% patients treated with ALIMTA plus cisplatin that were ≥65 years, and Grade 3/4 fatigue, leukopenia, neutropenia, and thrombocytopenia were greater as compared to patients <65 years.
-For patients <65 years, the HR for overall survival was 0.71 (95% CI: 0.53, 0.96) and for patients ≥65 years, the HR was 0.85 (95% CI: 0.59, 1.22) in the intent to treat population.
+Of 3,946 patients (34.0% ≥65) studied across the five clinical trials [see Clinical Studies (14.1, 14.2, 14.3, and 14.4)], the effect of ALIMTA on survival was similar in patients <65 compared to ≥65 years of age.
+There were no differences in safety with the exception of the following Grade 3-4 adverse reactions, which were noted in at least one of the five trials to be greater in patients 65 years of age and older as compared to younger patients: anemia, fatigue, thrombocytopenia, hypertension, and neutropenia.
 
 ## 8.6 Patients with Hepatic Impairment
 
-There was no effect of elevated AST, ALT, or total bilirubin on the pharmacokinetics of pemetrexed [see Clinical Pharmacology (12.3)].
-
-Dose adjustments based on hepatic impairment experienced during treatment with ALIMTA are provided in Table 2 [see Dosage and Administration (2.4)].
+There was no effect of elevated AST, ALT, or total bilirubin on the pharmacokinetics of pemetrexed.
+However, no formal studies have been conducted to examine the pharmacokinetics of pemetrexed in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Patients with Renal Impairment
 
@@ -63,28 +52,8 @@ Cisplatin coadministration with ALIMTA has not been studied in patients with mod
 
 ## 8.8 Gender
 
-In the initial treatment non-small cell lung cancer trial, 70% of patients were males and 30% females.
-For males the HR for overall survival was 0.97 (95% CI: 0.85, 1.10) and for females the HR was 0.86 (95% CI: 0.70, 1.06) in the intent to treat population.
-
-In the maintenance non-small cell lung cancer trial, 73% of patients were males and 27% females.
-For males the HR for overall survival was 0.78 (95% CI: 0.63, 0.96) and for females the HR was 0.83 (95% CI: 0.56, 1.21) in the intent to treat population.
-
-In the non-small cell lung cancer trial after prior chemotherapy, 72% of patients were males and 28% females.
-For males the HR for overall survival was 0.95 (95% CI: 0.76, 1.19) and for females the HR was 1.28 (95% CI: 0.86, 1.91) in the intent to treat population.
-
-In the mesothelioma trial, 82% of patients were males and 18% females.
-For males the HR for overall survival was 0.85 (95% CI: 0.66, 1.09) and for females the HR was 0.48 (95% CI: 0.27, 0.85) in the intent to treat population.
+Of 3,946 patients (Male 70.5%) studied across the five registration studies for ALIMTA indications [see Clinical Studies (14.1, 14.2, 14.3, and 14.4)], the effect of ALIMTA on survival was similar in female and male patients.
 
 ## 8.9 Race
 
-In the initial treatment non-small cell lung cancer trial, 78% of patients were Caucasians, 13% East/Southeast Asians, and 9% others.
-For Caucasians, the HR for overall survival was 0.92 (95% CI: 0.82, 1.04), for East/Southeast Asians the HR was 0.86 (95% CI: 0.61, 1.21), and for others the HR was 1.24 (95% CI: 0.84, 1.84) in the intent to treat population.
-
-In the maintenance non-small cell lung cancer trial, 65% of patients were Caucasians, 23% East Asian, and 12% others.
-For Caucasians the HR for overall survival was 0.77 (95% CI: 0.62, 0.97), for East Asians was 1.05 (95% CI: 0.70, 1.59) and for others the HR was 0.46 (95% CI: 0.26, 0.79) in the intent to treat population.
-
-In the non-small cell lung cancer trial after prior chemotherapy, 71% of patients were Caucasians and 29% others.
-For Caucasians the HR for overall survival was 0.91 (95% CI: 0.73, 1.15) and for others the HR was 1.27 (95% CI: 0.87, 1.87) in the intent to treat population.
-
-In the mesothelioma trial, 92% of patients were Caucasians and 8% others.
-For Caucasians, the HR for overall survival was 0.77 (95% CI: 0.61, 0.97) and for others the HR was 0.86 (95% CI: 0.39, 1.90) in the intent to treat population.
+Of 3,946 patients (Caucasian 78.6%) studied across the five registration studies for ALIMTA indications [see Clinical Studies (14.1, 14.2, 14.3, and 14.4)], the effect of ALIMTA on survival was similar in the Caucasian and non-Caucasian patients.

@@ -48,15 +48,11 @@ The pharmacokinetics of pemetrexed in special populations were examined in about
 
 In vitro studies indicate that pemetrexed is a substrate of OAT3 (organic anion transporter 3), a transporter that may play a role in active secretion of pemetrexed.
 
-Effect of Age
+Effect of Age, Gender or Race
 
 No effect of age on the pharmacokinetics of pemetrexed was observed over a range of 26 to 80 years.
 
-Effect of Gender
-
 The pharmacokinetics of pemetrexed were not different in male and female patients.
-
-Effect of Race
 
 The pharmacokinetics of pemetrexed were similar in Caucasians and patients of African descent.
 Insufficient data are available to compare pharmacokinetics for other ethnic groups.
