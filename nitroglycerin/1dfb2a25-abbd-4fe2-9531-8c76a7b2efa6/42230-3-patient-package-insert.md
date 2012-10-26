@@ -52,6 +52,6 @@ Marketed and Distributed by: Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 USA
 
 NitroMist is a registered trademark of NovaDel Pharma Inc., used by permission.
 
-NDC 24090-410-07 NDC 24090-410-03
+NDC 24090-410-08 NDC 24090-410-04
 
-141P000 Revised 05/2012
+141P004 Revised 05/2011

@@ -16,7 +16,7 @@ Hypotension induced by nitroglycerin may be accompanied by paradoxical bradycard
 The benefits of NitroMist in patients with acute myocardial infarction or congestive heart failure have not been established.
 If one elects to use NitroMist in these conditions, careful clinical or hemodynamic monitoring must be used because of the possibility of hypotension and tachycardia.
 
-## 5.3 Hypertrophic cardiomyopathy
+## 5.3 Hypertrophic Cardiomyopathy
 
 Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy.
 

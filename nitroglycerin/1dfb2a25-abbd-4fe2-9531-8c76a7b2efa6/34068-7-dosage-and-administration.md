@@ -14,7 +14,7 @@ NitroMist may be used prophylactically 5 minutes to 10 minutes before engaging i
 After an initial priming of 10 sprays, each metered spray of NitroMist delivers 33 mg of solution containing 400 mcg of nitroglycerin.
 It will remain adequately primed for 6 weeks.
 If the product is not used within 6 weeks, it can be adequately re-primed with 2 sprays.
-NitroMist is available in either 200 metered sprays or 60 metered sprays per container, but the total number of available doses depends on the number of sprays per use (1 spray or 2 sprays), and the frequency of priming.
+NitroMist is available in either 230 metered sprays or 90 metered sprays per container, but the total number of available doses depends on the number of sprays per use (1 spray or 2 sprays), and the frequency of priming.
 
 ## 2.3 Administration
 

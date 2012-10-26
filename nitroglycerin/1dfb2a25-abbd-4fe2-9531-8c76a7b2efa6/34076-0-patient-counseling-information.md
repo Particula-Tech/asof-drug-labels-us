@@ -36,8 +36,8 @@ When the liquid reaches the bottom of the hole, the remaining doses will have le
 
 Manufactured for Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 by Dynamit Nobel GmbH, Leverkusen, Germany
 
-Marketed and distributed by: Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 USA
+Marketed and Distributed by: Akrimax Pharmaceuticals, LLC Cranford, NJ 07016 USA
 
 NitroMist is a registered trademark of NovaDel Pharma Inc., used by permission.
 
-141F000 Revised 05/2012
+141F006 Revised 02/2012
