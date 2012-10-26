@@ -1,71 +1,13 @@
-# PRINCIPAL DISPLAY PANEL
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Pramipexole Dihydrochloride Tablets
+Pramipexole Dihydrochloride Tablets 0.125 mg
 
-NDC 13668-091-05
+Pramipexole Dihydrochloride Tablets 0.25 mg
 
-0.125 mg
+Pramipexole Dihydrochloride Tablets 0.5 mg
 
-500 Tablets
+Pramipexole Dihydrochloride Tablets 0.75 mg
 
-Rx Only
+Pramipexole Dihydrochloride Tablets 1 mg
 
-PRINCIPAL DISPLAY PANEL
-
-Pramipexole Dihydrochloride Tablets
-
-NDC 13668-092-05
-
-0.25 mg
-
-500 Tablets
-
-Rx Only
-
-PRINCIPAL DISPLAY PANEL
-
-Pramipexole Dihydrochloride Tablets
-
-NDC 13668-093-05
-
-0.5 mg
-
-500 Tablets
-
-Rx Only
-
-PRINCIPAL DISPLAY PANEL
-
-Pramipexole Dihydrochloride Tablets
-
-NDC 13668-184-05
-
-0.75 mg
-
-500 Tablets
-
-Rx Only
-
-PRINCIPAL DISPLAY PANEL
-
-Pramipexole Dihydrochloride Tablets
-
-NDC 13668-094-05
-
-1 mg
-
-500 Tablets
-
-Rx Only
-
-PRINCIPAL DISPLAY PANEL
-
-Pramipexole Dihydrochloride Tablets
-
-NDC 13668-095-05
-
-1.5 mg
-
-500 Tablets
-
-Rx Only
+Pramipexole Dihydrochloride Tablets 1.5 mg
