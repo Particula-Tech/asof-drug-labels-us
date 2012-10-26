@@ -8,46 +8,33 @@ Symptomatic response to therapy with NEXIUM does not preclude the presence of ga
 
 Atrophic gastritis has been noted occasionally in gastric corpus biopsies from patients treated long-term with omeprazole, of which esomeprazole is an enantiomer.
 
-## 5.3 Bone Fracture
+## 5.3 Clostridium difficile associated diarrhea
+
+Published observational studies suggest that PPI therapy like NEXIUM may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
+This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
+
+Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
+
+Clostridium diffficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents.
+For more information specific to antibacterial agents (clarithromycin and amoxicillin) indicated for use in combination with NEXIUM, refer to WARNINGS and PRECAUTIONS sections of those package inserts.
+
+## 5.4 Interaction with Clopidogrel
+
+Avoid concomitant use of NEXIUM with clopidogrel.
+Clopidogrel is a prodrug.
+Inhibition of platelet aggregation by clopidogrel is entirely due to an active metabolite.
+The metabolism of clopidogrel to its active metabolite can be impaired by use with concomitant medications, such as esomeprazole that inhibit CYP2C19 activity.
+Concomitant use of clopidogrel with 40 mg esomeprazole reduces the pharmacological activity of clopidogrel.
+When using NEXIUM consider alternative anti-platelet therapy.
+[see Drug Interactions (7.3)and Pharmacokinetics (12.3)]
+
+## 5.5 Bone Fracture
 
 Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines.
-[see Dosage and Administration (2) and Adverse Reactions (6.2)]
-
-## 5.4 Risks of Amoxicillin (as Part of H. pylori Triple Therapy)
-
-[See Warnings and Precautions in the prescribing information for amoxicillin.]
-
-Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients on penicillin therapy.
-These reactions are more apt to occur in individuals with a history of penicillin hypersensitivity and/or a history of sensitivity to multiple allergens.
-
-There have been well documented reports of individuals with a history of penicillin hypersensitivity reactions that have experienced severe hypersensitivity reactions when treated with a cephalosporin.
-Before initiating therapy with any penicillin, careful inquiry should be made concerning previous hypersensitivity reactions to penicillins, cephalosporins, and other allergens.
-If an allergic reaction occurs, amoxicillin should be discontinued and the appropriate therapy instituted.
-
-Serious anaphylactic reactions require immediate emergency treatment with epinephrine.
-Oxygen, intravenous steroids, and airway management, including intubation, should also be administered as indicated.
-
-Pseudomembranous colitis has been reported with nearly all antibacterial agents, including clarithromycin and amoxicillin, and may range in severity from mild to life threatening.
-Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
-
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is a primary cause of “antibiotic-associated colitis”.
-
-After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
-Mild cases of pseudomembranous colitis usually respond to discontinuation of the drug alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against Clostridium difficile colitis.
-
-## 5.5 Risks of Clarithromycin (as Part of H. pylori Triple Therapy)
-
-[See Warnings and Precautions in the prescribing information for clarithromycin]
-
-Clarithromycin should not be used in pregnant women except in clinical circumstances where no alternative therapy is appropriate.
-If pregnancy occurs while taking clarithromycin, the patient should be apprised of the potential hazard to the fetus.
-
-Concomitant administration of clarithromycin with cisapride, pimozide, astemizole, terfenadine, ergotamine, or dihydroergotamine is contraindicated.
+[seeDosage and Administration (2) and Adverse Reactions (6.2)]
 
 ## 5.6 Hypomagnesemia
 
@@ -56,12 +43,12 @@ Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 
 For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically.
-[See Adverse Reactions (6.2)]
+[SeeAdverse Reactions (6.2)]
 
 ## 5.7 Concomitant use of NEXIUM with St John’s Wort or rifampin
 
 Drugs which induce CYP2C19 or CYP3A4 (such as St John’s Wort or rifampin) can substantially decrease esomeprazole concentrations.
-[see Drug Interactions (7.3)] Avoid concomitant use of NEXIUM with St John’s Wort, or rifampin.
+[seeDrug Interactions (7.3)] Avoid concomitant use of NEXIUM with St John’s Wort, or rifampin.
 
 ## 5.8 Interactions with Diagnostic Investigations for Neuroendocrine Tumors
 

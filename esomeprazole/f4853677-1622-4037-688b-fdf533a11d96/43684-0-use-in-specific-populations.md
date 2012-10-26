@@ -12,7 +12,7 @@ Esomeprazole is the s-isomer of omeprazole.
 In four population-based cohort studies that included 1226 women exposed during the first trimester of pregnancy to omeprazole there was no increased risk of congenital anomalies.
 
 Reproductive studies with esomeprazole have been performed in rats at doses up to 57 times the human dose and in rabbits at doses up to 35 times the human dose and have revealed no evidence of impaired fertility or harm to the fetus.
-[See Animal Toxicology and/or Pharmacology (13.2)]
+[SeeAnimal Toxicology and/or Pharmacology (13.2)]
 
 Reproductive studies conducted with omeprazole on rats at oral doses up to 56 times the human dose and in rabbits at doses up to 56 times the human dose did not show any evidence of teratogenicity.
 In pregnant rabbits, omeprazole at doses about 5.5 to 56 times the human dose produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy loss.
@@ -33,12 +33,12 @@ However, the safety and effectiveness of NEXIUM have not been established in pat
 
 1 to 17 years of age
 
-Use of NEXIUM in pediatric and adolescent patients 1 to 17 years of age for short-term treatment (up to eight weeks) of GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety and pharmacokinetic studies performed in pediatric and adolescent patients [see Clinical Pharmacology (12.3), Dosage and Administration (2), Adverse Reactions (6.1), and Clinical Studies, (14.3)].
+Use of NEXIUM in pediatric and adolescent patients 1 to 17 years of age for short-term treatment (up to eight weeks) of GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety and pharmacokinetic studies performed in pediatric and adolescent patients [seeClinical Pharmacology (12.3), Dosage and Administration (2), Adverse Reactions (6.1), and Clinical Studies (14.3)].
 The safety and effectiveness of NEXIUM for other pediatric uses have not been established.
 
 Erosive esophagitis due to acid-mediated GERD in infants 1 month to less than one year of age
 
-Use of NEXIUM in pediatric patients 1 month to less than 1 year of age for treatment (up to 6 weeks) of erosive esophagitis due to acid-mediated GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety, pharmacokinetic, and pharmacodynamic studies performed in pediatric patients [see Clinical Pharmacology (12.3), Dosage and Administration (2), Adverse Reactions (6.1), and Clinical Studies, (14.3)].
+Use of NEXIUM in pediatric patients 1 month to less than 1 year of age for treatment (up to 6 weeks) of erosive esophagitis due to acid-mediated GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety, pharmacokinetic, and pharmacodynamic studies performed in pediatric patients [seeClinical Pharmacology (12.3), Dosage and Administration (2), Adverse Reactions (6.1), and Clinical Studies, (14.3)].
 
 Symptomatic GERD in infants 1 month to less than one year of age
 
@@ -51,7 +51,7 @@ There were 80 patients who attained a pre-specified level of symptom improvement
 Efficacy was assessed by observing the time from randomization to study discontinuation due to symptom worsening during the four-week, treatment-withdrawal phase.
 
 The following pharmacokinetic and pharmacodynamic information was obtained in pediatric patients with GERD aged birth to less than one year of age.
-In infants (1 to 11 months old, inclusive) given NEXIUM 1 mg/kg once daily, the percent time with intragastric pH > 4 increased from 29% at baseline to 69% on Day 7, which is similar to the pharmacodynamic effect in adults [see Clinical Pharmacology (12.2)].
+In infants (1 to 11 months old, inclusive) given NEXIUM 1 mg/kg once daily, the percent time with intragastric pH > 4 increased from 29% at baseline to 69% on Day 7, which is similar to the pharmacodynamic effect in adults [seeClinical Pharmacology (12.2)].
 Apparent clearance (CL/F) increases with age in pediatric patients from birth to 2 years of age.
 
 Neonates 0 to 1 month of age

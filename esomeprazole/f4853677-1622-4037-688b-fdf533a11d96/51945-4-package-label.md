@@ -14,13 +14,15 @@ NEXIUM ®
 
 Rx only
 
+Dispense the accompanying Medication Guide to each patient.
+
 AstraZeneca
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 40 mg 30Capsules
 
 NDC 0186-5040-31
 
-NEXIUM ®
+NEXIUM®
 
 (esomeprazole magnesium)
 
@@ -32,13 +34,15 @@ NEXIUM ®
 
 Rx only
 
+Dispense the accompanying Medication Guide to each patient.
+
 AstraZeneca
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL- 20 mg 100 Capsules
 
 NDC 0186-5022-28
 
-NEXIUM ®
+NEXIUM®
 
 (esomeprazole magnesium)
 
@@ -50,13 +54,15 @@ NEXIUM ®
 
 Rx only
 
+Dispense the enclosed Medication Guide to each patient.
+
 AstraZeneca
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 40 mg 100 Capsules
 
 NDC 0186-5042-28
 
-NEXIUM ®
+NEXIUM®
 
 (esomeprazole magnesium)
 
@@ -67,6 +73,8 @@ NEXIUM ®
 *Each delayed-release capsule contains 40 mg esomeprazole
 
 Rx only
+
+Dispense the enclosed Medication Guide to each patient.
 
 AstraZeneca
 
@@ -89,6 +97,8 @@ Each carton contains 30 Child-resistant packets.
 *Each packet contains 2.8 mg of esomeprazole magnesium trihydrate
 
 which is equivalent to 2.5 mg of esomeprazole as enteric-coated granules.
+
+Dispense the enclosed Medication Guide to each patient.
 
 Rx only
 
@@ -114,6 +124,8 @@ Each carton contains 30 Child-resistant packets.
 
 which is equivalent to 5 mg of esomeprazole as enteric-coated granules.
 
+Dispense the enclosed Medication Guide to each patient.
+
 Rx only
 
 AstraZeneca
@@ -137,6 +149,8 @@ Each carton contains 30 Child-resistant packets.
 *Each packet contains 11.1 mg of esomeprazole magnesium trihydrate
 
 which is equivalent to 10 mg of esomeprazole as enteric-coated granules.
+
+Dispense the enclosed Medication Guide to each patient.
 
 Rx only
 
@@ -162,6 +176,8 @@ Each carton contains 30 Child-resistant packets.
 
 which is equivalent to 20 mg of esomeprazole as enteric-coated granules.
 
+Dispense the enclosed Medication Guide to each patient.
+
 Rx only
 
 AstraZeneca
@@ -185,6 +201,8 @@ Each carton contains 30 Child-resistant packets.
 *Each packet contains 44.5 mg of esomeprazole magnesium trihydrate
 
 which is equivalent to 40 mg of esomeprazole as enteric-coated granules.
+
+Dispense the enclosed Medication Guide to each patient.
 
 Rx only
 
