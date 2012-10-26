@@ -10,8 +10,8 @@ the calibrated dropper provided.
 
 Discard opened bottle after 90 days.
 
-4055805//03
+4055805//04
 
-Revised June 2007
+Revised October 2012
 
-© RLI, 2007
+© RLI, 2012

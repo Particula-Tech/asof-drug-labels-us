@@ -7,5 +7,3 @@ Rx Only
 Roxane Laboratories, Inc.
 
 Bottle Label
-
-Folding Box
