@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA019085"
+  ],
   "inn": "ipratropium",
-  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals Inc.",
   "package_ndcs": [
     "0597-0082-14"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "ipratropium bromide monhydrate",
+      "name": "Atrovent"
+    }
+  ],
   "setid": "bb538b29-33b5-4dc2-8b89-65b4f51096a7",
   "source": "dailymed"
 }

@@ -1,4 +1,4 @@
-## Patient's Instructions for Use
+# Patient's Instructions for Use
 
 Atrovent®
 
