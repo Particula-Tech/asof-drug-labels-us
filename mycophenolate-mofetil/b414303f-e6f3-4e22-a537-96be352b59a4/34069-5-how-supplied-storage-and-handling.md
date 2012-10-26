@@ -2,16 +2,17 @@
 
 ## Mycophenolate Mofetil Capsules USP, 250 mg
 
-Mycophenolate mofetil capsules USP are available as:
+Mycophenolate mofetil capsules USP are available as follows:
 
 250 mg – hard gelatin capsules with a light blue opaque cap and a bright orange opaque body, filled with a white to off-white powder with small agglomerates; imprinted with "TEVA" on the cap and "7334" on the body.
-They are available in bottles of 100 and 500, and in unit-dose boxes of 100 (10 x 10).
+They are available in bottles of 100 and 500 capsules, and in unit-dose boxes of 100 capsules (10 x 10).
 
 ## Mycophenolate Mofetil Tablets USP, 500 mg
 
-Mycophenolate mofetil tablets USP are available as:
+Mycophenolate mofetil tablets USP are available as follows:
 
-500 mg – purple, oval-shaped, film-coated tablets, debossed with “93” on one side of the tablet and with “7477” on the other side in bottles of 100 and 500.
+500 mg – purple, oval-shaped, film-coated tablets, debossed with “93” on one side of the tablet and with “7477” on the other side.
+They are available in bottles of 100 and 500 tablets.
 
 ## Storage and Dispensing Information
 
@@ -37,4 +38,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-H 6/2012
+I 8/2012

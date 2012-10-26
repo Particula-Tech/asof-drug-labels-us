@@ -26,12 +26,12 @@ A dose of 1.5 g bid oral (daily dose of 3 g) is recommended for use in adult car
 
 A dose of 1.5 g bid oral (daily dose of 3 g) is recommended for use in adult hepatic transplant patients.
 
-## Mycophenolate Mofetil Capsules and Tablets USP
+## Mycophenolate Mofetil Capsules and Tablets
 
-The initial oral dose of mycophenolate mofetil capsules USP or mycophenolate mofetil tablets USP should be given as soon as possible following renal, cardiac or hepatic transplantation.
+The initial oral dose of mycophenolate mofetil capsules or mycophenolate mofetil tablets should be given as soon as possible following renal, cardiac or hepatic transplantation.
 Food had no effect on MPA AUC, but has been shown to decrease MPA Cmax by 40%.
-Therefore, it is recommended that mycophenolate mofetil capsules USP and mycophenolate mofetil tablets USP be administered on an empty stomach.
-However, in stable renal transplant patients, mycophenolate mofetil capsules USP and mycophenolate mofetil tablets USP may be administered with food if necessary.
+Therefore, it is recommended that mycophenolate mofetil capsules and mycophenolate mofetil tablets be administered on an empty stomach.
+However, in stable renal transplant patients, mycophenolate mofetil capsules and mycophenolate mofetil tablets may be administered with food if necessary.
 
 Patients should be instructed to take a missed dose as soon as they remember, except if it is near the next scheduled dose, and then continue to take mycophenolate mofetil at the usual times.
 
@@ -50,11 +50,11 @@ The recommended oral dose of 1 g bid for renal transplant patients, 1.5 g bid fo
 
 ## Dosage Adjustments
 
-In renal transplant patients with severe chronic renal impairment (GFR < 25 mL/min/1.73 m2) outside the immediate posttransplant period, doses of mycophenolate mofetil capsules USP or mycophenolate mofetil tablets USP greater than 1 g administered twice a day should be avoided.
+In renal transplant patients with severe chronic renal impairment (GFR < 25 mL/min/1.73 m2) outside the immediate posttransplant period, doses of mycophenolate mofetil capsules or mycophenolate mofetil tablets greater than 1 g administered twice a day should be avoided.
 These patients should also be carefully observed.
 No dose adjustments are needed in renal transplant patients experiencing delayed graft function postoperatively (see CLINICAL PHARMACOLOGY,Pharmacokineticsand PRECAUTIONS,Patients With Renal Impairment).
 
 No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
-Mycophenolate mofetil capsules USP and mycophenolate mofetil tablets USP may be used for cardiac or hepatic transplant patients with severe chronic renal impairment if the potential benefits outweigh the potential risks.
+Mycophenolate mofetil capsules and mycophenolate mofetil tablets may be used for cardiac or hepatic transplant patients with severe chronic renal impairment if the potential benefits outweigh the potential risks.
 
-If neutropenia develops (ANC < 1.3 x 103/µL), dosing with mycophenolate mofetil capsules USP and mycophenolate mofetil tablets USP should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see WARNINGS, Neutropenia;ADVERSE REACTIONS; and PRECAUTIONS,Laboratory Tests).
+If neutropenia develops (ANC < 1.3 x 103/µL), dosing with mycophenolate mofetil capsules and mycophenolate mofetil tablets should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately (see WARNINGS, Neutropenia;ADVERSE REACTIONS; and PRECAUTIONS,Laboratory Tests).

@@ -148,7 +148,7 @@ How should I take mycophenolate mofetil capsules and mycophenolate mofetil table
   Call your doctor if you are not sure what to do.
 - Take mycophenolate mofetil capsules and tablets on an empty stomach, either 1 hour before or 2 hours after a meal, unless your doctor tells you otherwise.
   With the approval of your doctor, in stable kidney transplant patients, mycophenolate mofetil capsules and mycophenolate mofetil tablets can be taken with food if necessary.
-- Most people take mycophenolate mofetil capsules or mycophenolate mofetil tablets by mouth either as light-blue and bright-orange capsules or purple tablets.
+- Most people take mycophenolate mofetil capsules or mycophenolate mofetil tablets by mouth either as light blue and bright orange capsules or purple tablets.
   Some people may get mycophenolate mofetil hydrochloride for injection soon after their transplant surgery as an infusion into a vein.
 - Do not crush mycophenolate mofetil tablets.
   Do not open or crush mycophenolate mofetil capsules.
@@ -257,42 +257,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 For additional copies of this Medication Guide, please call 1-888-838-2872, MEDICAL AFFAIRS.
 
-Sandimmune® and Neoral® are registered trademarks of Novartis Corp.
-
-Gengraf® is a registered trademark of Abbott Laboratories.
-
-Renagel® is a registered trademark of Genzyme Corp. Renvela™ is a trademark of Genzyme Corp.
-
-Zovirax®, Valtrex®, Augmentin®, and Augmentin® XR are registered trademarks of GlaxoSmithKline.
-
-Cytovene®-IV and Valcyte® are registered trademarks of Hoffman-LaRoche Inc. Bactrim™ and Bactrim DS™ are trademarks of Hoffman-LaRoche Inc.
-
-Vitrasert® is a registered trademark of Bausch and Lomb Inc.
-
-Rifater®, Rifamate®, and Rifadin® are registered trademarks of Sanofi-Aventis U.S. LLC.
-
-Rimactane® is a registered trademark of Actavis Totowa LLC.
-
-Noroxin® is a registered trademark of Merck & Co., Inc.
-
-Flagyl®, Flagyl® ER, and Flagyl® IV are registered trademarks of G.D.
-Searle & Co. LLC.
-
-Helidac® and Imuran® are registered trademarks of Prometheus Laboratories Inc.
-
-Pylera® is a registered trademark of Axcan Pharma Inc.
-
-Cipro® and Cipro® XR are registered trademarks of Bayer Aktiengesellschaft.
-
-Ciloxan® is a registered trademark of Alcon Research LTD.
-
-Proquin® XR is a registered trademark of Depomed, Inc.
-
-Azasan® is a registered trademark of AAIPharma Inc.
-
-Questran Light® and Questran® are registered trademarks of Par Pharmaceutical, Inc.
-
-Prevalite® is a registered trademark of Upsher-Smith Laboratories Inc.
+All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
 Manufactured In Israel By:
 
@@ -308,4 +273,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-E 6/2012
+F 8/2012

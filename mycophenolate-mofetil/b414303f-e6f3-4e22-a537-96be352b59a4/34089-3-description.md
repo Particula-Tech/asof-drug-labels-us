@@ -19,3 +19,5 @@ Mycophenolate mofetil, USP is available for oral administration as capsules cont
 Inactive ingredients in mycophenolate mofetil capsules USP, 250 mg include: black iron oxide, croscarmellose sodium, D&C red #28, D&C yellow #10, FD&C blue #1, FD&C red #40, gelatin, magnesium stearate, povidone, pregelatinized starch, propylene glycol, shellac glaze, and titanium dioxide.
 
 Inactive ingredients in mycophenolate mofetil tablets USP, 500 mg include: croscarmellose sodium, FD&C blue #2 aluminum lake, FD&C red #40 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, talc, and titanium dioxide.
+
+Mycophenolate mofetil tablets USP meet USP Dissolution Test 3.

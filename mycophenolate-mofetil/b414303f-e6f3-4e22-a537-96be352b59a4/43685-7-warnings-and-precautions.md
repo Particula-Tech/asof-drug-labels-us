@@ -141,7 +141,7 @@ OR
 
 | Option 3 | Barrier MethodsChoose 1 |  | Barrier MethodsChoose 1 |
 | --- | --- | --- | --- |
-| Choose One BarrierMethod from each column(must choose two methods) | Diaphragm with spermicideCervical cap with spermicideContraceptive sponge | AND | Male condomFemale condom |
+| Choose One BarrierMethod From Each Column(must choose two methods) | Diaphragm with spermicideCervical cap with spermicideContraceptive sponge | AND | Male condomFemale condom |
 
 ### Pregnancy Planning
 
@@ -229,7 +229,7 @@ Because MPAG plasma concentrations are increased in the presence of renal impair
 ### Antacids With Magnesium and Aluminum Hydroxides
 
 Absorption of a single dose of mycophenolate mofetil (2 g) was decreased when administered to ten rheumatoid arthritis patients also taking Maalox® TC (10 mL qid).
-The Cmax and AUC(0-24h) for MPA were 33% and 17% lower, respectively, than when mycophenolate mofetil was administered alone under fasting conditions.
+The Cmax and AUC(0 to 24h) for MPA were 33% and 17% lower, respectively, than when mycophenolate mofetil was administered alone under fasting conditions.
 Mycophenolate mofetil may be administered to patients who are also taking antacids containing magnesium and aluminum hydroxides; however, it is recommended that mycophenolate mofetil and the antacid not be administered simultaneously.
 
 ### Proton Pump Inhibitors (PPIs)
@@ -249,9 +249,9 @@ Therefore, mycophenolate mofetil is not recommended to be given with cholestyram
 ### Cyclosporine
 
 Cyclosporine (Sandimmune®) pharmacokinetics (at doses of 275 to 415 mg/day) were unaffected by single and multiple doses of 1.5 g bid of mycophenolate mofetil in 10 stable renal transplant patients.
-The mean (± SD) AUC(0-12h) and Cmax of cyclosporine after 14 days of multiple doses of mycophenolate mofetil were 3290 (± 822) ng•h/mL and 753 (± 161) ng/mL, respectively, compared to 3245 (± 1088) ng•h/mL and 700 (± 246) ng/mL, respectively, 1 week before administration of mycophenolate mofetil.
+The mean (± SD) AUC(0 to 12h) and Cmax of cyclosporine after 14 days of multiple doses of mycophenolate mofetil were 3290 (± 822) ng•h/mL and 753 (± 161) ng/mL, respectively, compared to 3245 (± 1088) ng•h/mL and 700 (± 246) ng/mL, respectively, 1 week before administration of mycophenolate mofetil.
 
-In renal transplant patients, mean MPA exposure (AUC0-12h) was approximately 30 to 50% greater when mycophenolate mofetil is administered without cyclosporine compared with when mycophenolate mofetil is coadministered with cyclosporine.
+In renal transplant patients, mean MPA exposure (AUC0 to 12h) was approximately 30 to 50% greater when mycophenolate mofetil is administered without cyclosporine compared with when mycophenolate mofetil is coadministered with cyclosporine.
 This interaction is due to cyclosporine inhibition of multidrug-resistance-associated protein 2 (MRP-2) transporter in the biliary tract, thereby preventing the excretion of MPAG into the bile that would lead to enterohepatic recirculation of MPA.
 This information should be taken into consideration when MMF is used without cyclosporine.
 
@@ -266,7 +266,7 @@ In patients with renal impairment in which MMF and ganciclovir or its prodrug (e
 ### Oral Contraceptives
 
 A study of coadministration of mycophenolate mofetil (1 g bid) and combined oral contraceptives containing ethinylestradiol (0.02 mg to 0.04 mg) and levonorgestrel (0.05 mg to 0.20 mg), desogestrel (0.15 mg) or gestodene (0.05 mg to 0.10 mg) was conducted in 18 women with psoriasis over 3 consecutive menstrual cycles.
-Mean AUC(0-24h) was similar for ethinylestradiol and 3-keto desogestrel; however, mean levonorgestrel AUC(0-24h) significantly decreased by about 15%.
+Mean AUC(0 to 24h) was similar for ethinylestradiol and 3-keto desogestrel; however, mean levonorgestrel AUC(0 to 24h) significantly decreased by about 15%.
 There was large inter-patient variability (% CV in the range of 60% to 70%) in the data, especially for ethinylestradiol.
 Mean serum levels of LH, FSH and progesterone were not significantly affected.
 Mycophenolate mofetil may not have any influence on the ovulation-suppressing action of the studied oral contraceptives.
@@ -274,7 +274,7 @@ It is recommended to coadminister mycophenolate mofetil with hormonal contracept
 
 ### Sevelamer
 
-Concomitant administration of sevelamer and mycophenolate mofetil in adult and pediatric patients decreased the mean MPA Cmax and AUC0-12h by 36% and 26% respectively.
+Concomitant administration of sevelamer and mycophenolate mofetil in adult and pediatric patients decreased the mean MPA Cmax and AUC0 to 12h by 36% and 26% respectively.
 This data suggest that sevelamer and other calcium free phosphate binders should not be administered simultaneously with mycophenolate mofetil.
 Alternatively, it is recommended that sevelamer and other calcium free phosphate binders preferentially could be given 2 hours after mycophenolate mofetil intake to minimize the impact on the absorption of MPA.
 
@@ -285,10 +285,10 @@ The mean (± SD) AUC and Cmax of MPA after concomitant administration were 75.2 
 
 ### Norfloxacin and Metronidazole
 
-Following single-dose administration of mycophenolate mofetil (1 g) to 11 healthy volunteers on day 4 of a 5 day course of a combination of norfloxacin and metronidazole, the mean MPA AUC0-48h was significantly reduced by 33% compared to the administration of mycophenolate mofetil alone (p < 0.05).
+Following single-dose administration of mycophenolate mofetil (1 g) to 11 healthy volunteers on day 4 of a 5 day course of a combination of norfloxacin and metronidazole, the mean MPA AUC0 to 48h was significantly reduced by 33% compared to the administration of mycophenolate mofetil alone (p < 0.05).
 Therefore, mycophenolate mofetil is not recommended to be given with the combination of norfloxacin and metronidazole.
-There was no significant effect on mean MPA AUC0-48h when mycophenolate mofetil was concomitantly administered with norfloxacin or metronidazole separately.
-The mean (± SD) MPA AUC0-48h after coadministration of mycophenolate mofetil with norfloxacin or metronidazole separately was 48.3 (± 24) mcg•h/mL and 42.7 (± 23) mcg•h/mL, respectively, compared with 56.2 (± 24) mcg•h/mL after administration of mycophenolate mofetil alone.
+There was no significant effect on mean MPA AUC0 to 48h when mycophenolate mofetil was concomitantly administered with norfloxacin or metronidazole separately.
+The mean (± SD) MPA AUC0 to 48h after coadministration of mycophenolate mofetil with norfloxacin or metronidazole separately was 48.3 (± 24) mcg•h/mL and 42.7 (± 23) mcg•h/mL, respectively, compared with 56.2 (± 24) mcg•h/mL after administration of mycophenolate mofetil alone.
 
 ### Ciprofloxacin and Amoxicillin Plus Clavulanic Acid
 
@@ -300,7 +300,7 @@ The change in trough level may not accurately represent changes in overall MPA e
 
 ### Rifampin
 
-In a single heart-lung transplant patient, after correction for dose, a 67% decrease in MPA exposure (AUC0-12h) has been observed with concomitant administration of mycophenolate mofetil and rifampin.
+In a single heart-lung transplant patient, after correction for dose, a 67% decrease in MPA exposure (AUC0 to 12h) has been observed with concomitant administration of mycophenolate mofetil and rifampin.
 Therefore, mycophenolate mofetil is not recommended to be given with rifampin concomitantly unless the benefit outweighs the risk.
 
 ### Other Interactions
@@ -340,7 +340,7 @@ No effects on fertility or reproductive parameters were evident in the dams or i
 
 ### Teratogenic Effects
 
-#### Pregnancy Category D.
+#### Pregnancy Category D
 
 See WARNINGS section.
 
