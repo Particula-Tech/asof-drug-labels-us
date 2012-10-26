@@ -1,4 +1,10 @@
 # 1 INDICATIONS AND USAGE
 
-ABRAXANE for Injectable Suspension (paclitaxel protein-bound particles for injectable suspension) is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy.
+## 1.1 Metastatic Breast Cancer
+
+ABRAXANE is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy.
 Prior therapy should have included an anthracycline unless clinically contraindicated.
+
+## 1.2 Non-Small Cell Lung Cancer
+
+ABRAXANE is indicated for the first-line treatment of locally advanced or metastatic non-small cell lung cancer, in combination with carboplatin, in patients who are not candidates for curative surgery or radiation therapy.

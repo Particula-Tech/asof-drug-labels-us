@@ -25,14 +25,17 @@ The safety and effectiveness of ABRAXANE in pediatric patients have not been eva
 
 ## 8.5 Geriatric Use
 
-Of the 229 patients in the randomized study who received ABRAXANE, 13% were at least 65 years of age and < 2% were 75 years or older.
+Of the 229 patients in the randomized study who received ABRAXANE for the treatment of metastatic breast cancer, 13% were at least 65 years of age and < 2% were 75 years or older.
 No toxicities occurred notably more frequently among patients who received ABRAXANE.
+
+Of the 514 patients in the randomized study who received ABRAXANE and carboplatin for the first-line treatment of non-small cell lung cancer, 31% were 65 years or older and 3.5% were 75 years or older.
+Myelosuppression, peripheral neuropathy, and arthralgia were more frequent in patients 65 years or older compared to patients younger than 65 years old.
+No overall difference in effectiveness, as measured by response rates, was observed between patients 65 years or older compared to patients younger than 65 years old.
 
 ## 8.6 Patients with Hepatic Impairment
 
-Because the exposure and toxicity of paclitaxel can be increased in patients with hepatic impairment, the administration of ABRAXANE should be performed with caution in patients with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+Because the exposure and toxicity of paclitaxel can be increased in patients with hepatic impairment, the administration of ABRAXANE should be performed with caution in patients with hepatic impairment [see Dosage and Administration (2.3), Warnings and Precautions (5.4), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Patients with Renal Impairment
 
 The use of ABRAXANE has not been studied in patients with renal impairment.
-Patients were excluded for baseline serum bilirubin >1.5 mg/dL or baseline serum creatinine >2 mg/dL.
