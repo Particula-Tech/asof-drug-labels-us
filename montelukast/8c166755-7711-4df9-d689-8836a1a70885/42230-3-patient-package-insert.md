@@ -16,14 +16,14 @@ What is SINGULAIR?
 
 SINGULAIR is used to:
 
-1. Prevent asthma attacks and for the long-term treatment of asthma in adults and children ages 12 months and older.
-   Do not take SINGULAIR if you need relief right away for a sudden asthma attack.
-   If you get an asthma attack, you should follow the instructions your healthcare provider gave you for treating asthma attacks.
-2. Prevent exercise-induced asthma in people 6 years of age and older.
-3. Help control the symptoms of allergic rhinitis (sneezing, stuffy nose, runny nose, itching of the nose).
-   SINGULAIR is used to treat:
-   - outdoor allergies that happen part of the year (seasonal allergic rhinitis) in adults and children ages 2 years and older, and
-   - indoor allergies that happen all year (perennial allergic rhinitis) in adults and children ages 6 months and older.
+- 1.Prevent asthma attacks and for the long-term treatment of asthma in adults and children ages 12 months and older.
+  Do not take SINGULAIR if you need relief right away for a sudden asthma attack.
+  If you get an asthma attack, you should follow the instructions your healthcare provider gave you for treating asthma attacks.
+- 2.Prevent exercise-induced asthma in people 6 years of age and older.
+- 3.Help control the symptoms of allergic rhinitis (sneezing, stuffy nose, runny nose, itching of the nose).
+  SINGULAIR is used to treat:
+  - outdoor allergies that happen part of the year (seasonal allergic rhinitis) in adults and children ages 2 years and older, and
+  - indoor allergies that happen all year (perennial allergic rhinitis) in adults and children ages 6 months and older.
 
 Who should not take SINGULAIR?
 
@@ -157,7 +157,7 @@ Other side effects with SINGULAIR include:
 - dizziness, drowsiness, pins and needles/numbness, seizures (convulsions or fits)
 - palpitations
 - nose bleed, stuffy nose
-- diarrhea, heartburn, indigestion, inflammation of the pancreas, nausea, stomach or intestinal upset, vomiting
+- heartburn, indigestion, inflammation of the pancreas, nausea, stomach or intestinal upset, vomiting
 - hepatitis
 - bruising, rash, severe skin reactions (erythema multiforme, Stevens-Johnson syndrome/toxic epidermal necrolysis) that may occur without warning
 - joint pain, muscle aches and muscle cramps

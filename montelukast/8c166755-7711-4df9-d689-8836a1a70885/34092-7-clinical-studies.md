@@ -33,10 +33,10 @@ Table 2: Effect of SINGULAIR on Primary and Secondary Endpoints in a Multination
 | Nocturnal Awakenings (#/week) | 285 | 5.46 | -2.03 | 195 | 5.57 | -0.78 |
 
 Both studies evaluated the effect of SINGULAIR on secondary outcomes, including asthma attack (utilization of health-care resources such as an unscheduled visit to a doctor's office, emergency room, or hospital; or treatment with oral, intravenous, or intramuscular corticosteroid), and use of oral corticosteroids for asthma rescue.
-In the Multinational study, significantly fewer patients (15.6% of patients) on SINGULAIR experienced asthma attacks compared with patients on placebo (27.3%, p < 0.001).
-In the US study, 7.8% of patients on SINGULAIR and 10.3% of patients on placebo experienced asthma attacks, but the difference between the two treatment groups was not significant (p = 0.334).
-In the Multinational study, significantly fewer patients (14.8% of patients) on SINGULAIR were prescribed oral corticosteroids for asthma rescue compared with patients on placebo (25.7%, p < 0.001).
-In the US study, 6.9% of patients on SINGULAIR and 9.9% of patients on placebo were prescribed oral corticosteroids for asthma rescue, but the difference between the two treatment groups was not significant (p = 0.196).
+In the Multinational study, significantly fewer patients (15.6% of patients) on SINGULAIR experienced asthma attacks compared with patients on placebo (27.3%, p<0.001).
+In the US study, 7.8% of patients on SINGULAIR and 10.3% of patients on placebo experienced asthma attacks, but the difference between the two treatment groups was not significant (p=0.334).
+In the Multinational study, significantly fewer patients (14.8% of patients) on SINGULAIR were prescribed oral corticosteroids for asthma rescue compared with patients on placebo (25.7%, p<0.001).
+In the US study, 6.9% of patients on SINGULAIR and 9.9% of patients on placebo were prescribed oral corticosteroids for asthma rescue, but the difference between the two treatment groups was not significant (p=0.196).
 
 Onset of Action and Maintenance of Effects
 
