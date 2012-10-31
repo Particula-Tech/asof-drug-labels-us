@@ -1,6 +1,6 @@
 PRINCIPAL DISPLAY PANEL – 2.5 mL Trade Carton
 
-NDC-31357-040-25
+NDC 31357-040-03
 
 AzaSite® (azithromycin ophthalmic solution) 1%
 

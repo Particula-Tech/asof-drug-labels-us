@@ -1,9 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-AzaSite is a sterile aqueous topical ophthalmic formulation of 1% azithromycin in a white, round, low-density polyethylene (LDPE) bottle, with a natural LDPE dropper tip, and a tan colored high density polyethylene (HDPE) eyedropper cap.
-A white tamper evident overcap is provided.
+AzaSite is a sterile aqueous topical ophthalmic formulation of 1% azithromycin.
 
-2.5 mL in 5 mL bottle containing a total of 25 mg of azithromycin (NDC 31357-040-25)
+NDC 31357-040-25: 2.5 mL in 5 mL bottle containing a total of 25 mg of azithromycin in a white, round, low-density polyethylene (LDPE) bottle, with a clear LDPE dropper tip, and a tan colored high density polyethylene (HDPE) eyedropper cap.
+A white tamper evident over-cap is provided.
+
+NDC 31357-040-03: 2.5 mL in 4 mL bottle containing a total of 25 mg of azithromycin in a white, round, low-density polyethylene (LDPE) bottle, with a clear LDPE dropper tip, and a tan colored high density polyethylene (HDPE) eyedropper cap.
+A white tamper evident over-cap is provided.
 
 Storage and Handling:
 

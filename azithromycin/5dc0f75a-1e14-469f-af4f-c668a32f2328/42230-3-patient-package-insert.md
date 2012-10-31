@@ -188,6 +188,6 @@ AzaSite is a registered trademark of InSite Vision Inc.
 
 Copyright © 2011 Inspire Pharmaceuticals, Inc., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 07/2012
+Revised: 10/2012
 
-USPPI-OS-82431207R001
+USPPI-OS-82431210R002
