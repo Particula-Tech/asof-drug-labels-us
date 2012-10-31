@@ -1,7 +1,5 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
 
-10 mg Labels
+Montelukast Sodium Tablets, 10 mg - Container Label
 
-Container Label 90's count
-
-Carton Label
+Montelukast Sodium Tablets, 10 mg - Carton Label

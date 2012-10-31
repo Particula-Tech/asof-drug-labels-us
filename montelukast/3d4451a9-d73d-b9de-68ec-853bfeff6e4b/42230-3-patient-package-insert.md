@@ -1,5 +1,3 @@
-# SPL PATIENT PACKAGE INSERT SECTION
-
 Patient Information
 
 Montelukast Sodium Tablets
@@ -202,7 +200,7 @@ Other side effects with montelukast sodium include:
 
 • hepatitis
 
-• bruising, rash, severe skin reactions (erythema multiforme) that may occur without warning
+• bruising, rash, severe skin reactions (erythema multiforme, Stevens-Johnson syndrome/toxic neccrolysis) that may occur without warning
 
 • joint pain, muscle aches and muscle cramps
 
@@ -241,7 +239,7 @@ Active ingredient: montelukast sodium
 
 Inactive ingredients:
 
-• 10 mg tablets: croscarmellose sodium, hydroxypropyl cellulose, lactose monohydrate (89.3 mg), magnesium stearate and microcrystalline cellulose.
+• 10 mg tablets: croscarmellose sodium, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate and microcrystalline cellulose.
 The film coating consists of: hypromellose, iron oxide yellow, iron oxide red, iron oxide black, polyethyleneglycol 400 and titanium dioxide.
 
 • 4 mg and 5 mg chewable tablets: aspartame, cherry flavor, croscarmellose sodium, hydroxypropyl cellulose, mannitol, magnesium stearate, microcrystalline cellulose and red ferric oxide.
@@ -261,4 +259,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Issued: 0712
+Revised: 1012

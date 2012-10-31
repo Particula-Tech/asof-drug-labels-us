@@ -1,11 +1,7 @@
-# chewable Tablets 4 mg labels
+Montelukast Sodium Chewable Tablets, 4 mg - Container Label
 
-container label-90's count
+Montelukast Sodium Chewable Tablets, 4mg - Carton
 
-Carton Label
+Montelukast Sodium Chewable Tablets, 5 mg - Container Label
 
-# chewable tablets 5 mg labels
-
-container label-90's count
-
-carton label
+Montelukast Sodium Chewable Tablets, 5 mg - Carton Label

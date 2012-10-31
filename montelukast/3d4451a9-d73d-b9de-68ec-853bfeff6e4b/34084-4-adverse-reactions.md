@@ -95,7 +95,7 @@ Gastrointestinal disorders: diarrhea, dyspepsia, nausea, pancreatitis, vomiting.
 Hepatobiliary disorders: Cases of cholestatic hepatitis, hepatocellular liver-injury, and mixed-pattern liver injury have been reported in patients treated with montelukast sodium.
 Most of these occurred in combination with other confounding factors, such as use of other medications, or when montelukast sodium was administered to patients who had underlying potential for liver disease such as alcohol use or other forms of hepatitis.
 
-Skin and subcutaneous tissue disorders: angioedema, bruising, erythema multiforme, erythema nodosum, pruritus, urticaria.
+Skin and subcutaneous tissue disorders: angioedema, bruising, erythema multiforme, erythema nodosum, pruritus, Stevens-Johnson syndrome/toxic epidermal necrolysis,urticaria.
 
 Musculoskeletal and connective tissue disorders: arthralgia, myalgia including muscle cramps.
 
