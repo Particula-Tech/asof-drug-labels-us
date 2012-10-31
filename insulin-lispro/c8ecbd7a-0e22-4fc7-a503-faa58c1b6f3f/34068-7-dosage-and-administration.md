@@ -10,6 +10,8 @@ Blood glucose monitoring is essential in all patients receiving insulin therapy.
 The total daily insulin requirement may vary and is usually between 0.5 to 1 unit/kg/day.
 Insulin requirements may be altered during stress, major illness, or with changes in exercise, meal patterns, or coadministered drugs.
 
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+
 ## 2.2 Subcutaneous Administration
 
 HUMALOG should be given within 15 minutes before a meal or immediately after a meal.
@@ -29,3 +31,8 @@ Change the HUMALOG in the reservoir at least every 7 days, change the infusion s
 The initial programming of the external insulin infusion pump should be based on the total daily insulin dose of the previous regimen.
 Although there is significant variability among patients, approximately 50% of the total dose is usually given as meal-related boluses of HUMALOG and the remainder is given as a basal infusion.
 HUMALOG is recommended for use in pump systems suitable for insulin infusion such as MiniMed, Disetronic, and other equivalent pumps [see For Patients Using Continuous Subcutaneous Insulin Pumps (17.2)].
+
+## 2.4 Intravenous Administration
+
+HUMALOG can be administered intravenously under medical supervision with close monitoring of blood glucose and potassium levels to avoid hypoglycemia and hypokalemia [see Warnings and Precautions (5.4), How Supplied/Storage and Handling (16.4)].
+HUMALOG should be used at concentrations from 0.1 unit/mL to 1.0 unit/mL in infusion systems containing 0.9% sodium chloride.

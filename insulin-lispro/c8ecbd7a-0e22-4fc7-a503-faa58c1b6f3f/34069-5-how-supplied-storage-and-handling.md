@@ -11,13 +11,13 @@ HUMALOG 100 units per mL (U-100) is available as:
 | 5 x 3 mL prefilled pen | NDC 0002-8725-59 (HP-8725) |
 | 5 x 3 mL Humalog KwikPen (prefilled) | NDC 0002-8799-59 (HP-8799) |
 
-## 16.2 Storage
+## 16.2 Storage and Handling
 
 Do not use after the expiration date.
 
 Unopened HUMALOG should be stored in a refrigerator (36° to 46°F [2° to 8°C]), but not in the freezer.
 Do not use HUMALOG if it has been frozen.
-In-use HUMALOG vials, cartridges, pens, and HUMALOG KwikPen® should be stored at room temperature, below 86°F (30°C) and must be used within 28 days or be discarded, even if they still contain HUMALOG.
+In-use HUMALOG vials, cartridges, pens, and HUMALOG KwikPen should be stored at room temperature, below 86°F (30°C) and must be used within 28 days or be discarded, even if they still contain HUMALOG.
 Protect from direct heat and light.
 See table below:
 
@@ -41,3 +41,7 @@ Do not dilute HUMALOG contained in a cartridge or HUMALOG used in an external in
 Diluted HUMALOG for Subcutaneous Injection — HUMALOG may be diluted with Sterile Diluent for HUMALOG for subcutaneous injection.
 Diluting one part HUMALOG to nine parts diluent will yield a concentration one-tenth that of HUMALOG (equivalent to U-10).
 Diluting one part HUMALOG to one part diluent will yield a concentration one-half that of HUMALOG (equivalent to U-50).
+
+## 16.4 Admixture for Intravenous Administration
+
+Infusion bags prepared with HUMALOG are stable when stored in a refrigerator (2° to 8°C [36° to 46°F]) for 48 hours and then may be used at room temperature for up to an additional 48 hours [see Dosage and Administration (2.4)].

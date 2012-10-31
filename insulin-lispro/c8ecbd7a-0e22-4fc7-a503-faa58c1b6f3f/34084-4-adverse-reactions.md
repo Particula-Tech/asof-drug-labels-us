@@ -96,7 +96,8 @@ Antibody Production
 
 In large clinical trials with patients with type 1 (n=509) and type 2 (n=262) diabetes mellitus, anti-insulin antibody (insulin lispro-specific antibodies, insulin-specific antibodies, cross-reactive antibodies) formation was evaluated in patients receiving both regular human insulin and HUMALOG (including patients previously treated with human insulin and naive patients).
 As expected, the largest increase in the antibody levels occurred in patients new to insulin therapy.
-The antibody levels peaked by 12 months and declined over the remaining years of the study These antibodies do not appear to cause deterioration in glycemic control or necessitate an increase in insulin dose.
+The antibody levels peaked by 12 months and declined over the remaining years of the study.
+These antibodies do not appear to cause deterioration in glycemic control or necessitate an increase in insulin dose.
 There was no statistically significant relationship between the change in the total daily insulin dose and the change in percent antibody binding for any of the antibody types.
 
 ## 6.2 Postmarketing Experience

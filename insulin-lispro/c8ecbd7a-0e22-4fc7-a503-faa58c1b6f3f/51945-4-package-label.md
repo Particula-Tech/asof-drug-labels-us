@@ -1,6 +1,4 @@
-PACKAGE LABELING
-
-PACKAGE CARTON – HUMALOG Vial 10 mL 1ct
+PACKAGE CARTON – HUMALOG 10 mL vial 1ct
 
 NDC 0002-7510-01
 
@@ -15,8 +13,6 @@ Humalog®
 insulin lispro injection, USP
 
 (rDNA origin)
-
-For subcutaneous use.
 
 Rx only
 
@@ -33,6 +29,8 @@ NDC 0002-8799-59
 Humalog® KwikPenTM
 
 insulin lispro injection, USP (rDNA origin)
+
+prefilled insulin delivery device
 
 HP-8799
 

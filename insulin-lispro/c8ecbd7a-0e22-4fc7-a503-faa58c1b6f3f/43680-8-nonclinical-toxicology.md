@@ -11,6 +11,6 @@ Insulin lispro was not mutagenic in the following genetic toxicity assays: bacte
 Male fertility was not compromised when male rats given subcutaneous insulin lispro injections of 5 and 20 units/kg/day (0.8 and 3 times the human subcutaneous dose of 1 unit/kg/day, based on units/body surface area) for 6 months were mated with untreated female rats.
 In a combined fertility, perinatal, and postnatal study in male and female rats given 1, 5, and 20 units/kg/day subcutaneously (0.16, 0.8, and 3 times the human subcutaneous dose of 1 unit/kg/day, based on units/body surface area), mating and fertility were not adversely affected in either gender at any dose.
 
-## 13.2 Animal Toxicology and /or Pharmacology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 In standard biological assays in fasted rabbits, 0.2 unit/kg of insulin lispro injected subcutaneously had the same glucose-lowering effect and had a more rapid onset of action as 0.2 unit/kg of regular human insulin.

@@ -37,7 +37,7 @@ Severe, life-threatening, generalized allergy, including anaphylaxis, can occur 
 
 All insulin products, including HUMALOG, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
 Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
-Use caution in patients who may be at risk for hypokalemia (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations).
+Use caution in patients who may be at risk for hypokalemia (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations and patients receiving intravenously administered insulin).
 
 ## 5.5 Renal or Hepatic Impairment
 
