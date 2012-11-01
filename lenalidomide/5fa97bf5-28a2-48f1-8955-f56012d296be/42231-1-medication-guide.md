@@ -21,7 +21,7 @@ What is the most important information I should know about REVLIMID?
   REVLIMID has harmed unborn animals in animal testing.
   Females must not get pregnant: If you become pregnant while taking REVLIMID, stop taking it right away and call your healthcare provider.
   If your healthcare provider is not available, you can call 1-888-668-2528 for medical information.
-  Healthcare providers and patients should report all cases of pregnancy to: It is not known if REVLIMID passes into semen, so: Men, if your female partner becomes pregnant, you should call your healthcare provider right away.
+  Healthcare providers and patients should report all cases of pregnancy to: REVLIMID can pass into human semen: Men, if your female partner becomes pregnant, you should call your healthcare provider right away.
   Low white blood cells (neutropenia) and low platelets (thrombocytopenia).
   REVLIMID causes low white blood cells and low platelets in most patients.
   You may need a blood transfusion or certain medicines if your blood counts drop too low.
@@ -74,6 +74,8 @@ What should I tell my healthcare provider before taking REVLIMID?
 
 Tell your healthcare provider about all of your medical conditions, including if you:
 
+- are lactose intolerant.
+  REVLIMID contains lactose.
 - are pregnant or breastfeeding.
   REVLIMID must not be used by women who are pregnant or breastfeeding.
   See "What is the most important information I should know about REVLIMID?"
@@ -131,7 +133,11 @@ What are the possible side effects of REVLIMID?
   Call your healthcare provider right away if you have any skin reaction while taking REVLIMID.
 - Tumor lysis syndrome.
   Metabolic complications that can occur during treatment of cancer and sometimes even without treatment.
-  These complications are caused by the breakdown products of dying cancer cells and may include the following: changes to blood chemistry, high potassium, phosphorus, uric acid, and low calcium consequently leading to changes in kidney function, heart beat, seizures, and sometimes death.
+  These complications are caused by the breakdown products of dying cancer cells and may include the following: changes to blood chemistry, high potassium, phosphorus, uric acid, and low calcium that may lead to changes in kidney function, heart beat, seizures, and sometimes death.
+- Risk of new cancers (malignancies).
+  People with multiple myeloma who receive melphalan (a type of chemotherapy) or a blood stem cell transplant with the addition of REVLIMID have a higher risk of developing new cancers, including certain blood cancers (acute myelogenous leukemia or AML) and a type of lymphoma called Hodgkin lymphoma.
+  Talk with your healthcare provider about your risk of developing new cancers if you take REVLIMID.
+  Your healthcare provider will check you for new cancers during your treatment with REVLIMID.
 
 Common side effects of REVLIMID are:
 
@@ -143,12 +149,12 @@ Common side effects of REVLIMID are:
 These are not all the possible side effects of REVLIMID.
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
-Call your healthcare provider for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store REVLIMID?
 
-- Store REVLIMID at room temperature, 59°F to 86°F (15°C to 30°C).
+- Store REVLIMID at room temperature between, 59°F to 86°F (15°C to 30°C).
 
 Keep REVLIMID and all medicines out of the reach of children.
 
@@ -171,14 +177,16 @@ Active ingredient: lenalidomide
 Inactive ingredients: lactose anhydrous, microcrystalline cellulose, croscarmellose sodium, and magnesium stearate.
 
 The 5 mg and 25 mg capsule shells contain gelatin, titanium dioxide and black ink.
-The 10 mg capsule shell contains gelatin, FD&C blue #2, yellow iron oxide, titanium dioxide and black ink.
+The 2.5 and 10 mg capsule shell contains gelatin, FD&C blue #2, yellow iron oxide, titanium dioxide and black ink.
 The 15 mg capsule shell contains gelatin, FD&C blue #2, titanium dioxide and black ink.
+
+This Medication Guide has been approved by the US Food and Drug Administration.
+
+Revised May/2012
 
 Manufactured for Celgene Corporation
 
 Summit, NJ 07901
-
-This Medication Guide has been approved by the US Food and Drug Administration.
 
 REVLIMID®, RevAssist®, and THALOMID® are registered trademarks of Celgene Corporation.
 
@@ -186,5 +194,3 @@ U.S. Pat.
 Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,465,800; 7,855,217
 
 ©2005-2012 Celgene Corporation, All Rights Reserved.
-
-RevPlyMG.012 03/12
