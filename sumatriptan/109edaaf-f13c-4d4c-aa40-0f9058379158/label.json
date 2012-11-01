@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022041"
+  ],
+  "inn": "sumatriptan",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
+  "package_ndcs": [
+    "0069-0138-01",
+    "0069-0138-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "sumatriptan",
+      "name": "ALSUMA"
+    }
+  ],
+  "setid": "109edaaf-f13c-4d4c-aa40-0f9058379158",
+  "source": "dailymed"
+}
