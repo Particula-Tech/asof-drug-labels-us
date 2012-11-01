@@ -67,7 +67,7 @@ Distributed by GlaxoSmithKline Research Triangle Park, NC 27709
 ©2012, GlaxoSmithKline.
 All rights reserved.
 
-JLN:5PI
+JLN:6PI
 
 PHARMACIST—DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 

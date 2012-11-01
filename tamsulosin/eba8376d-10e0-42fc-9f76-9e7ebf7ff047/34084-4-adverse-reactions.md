@@ -33,7 +33,7 @@ Adverse Reactions Reported Over a 48-Month Period in ≥1% of Subjects and More 
 | Coadministration | 5.4% | 1.1% | 1.8% | 0.9% | 0.4% |
 | Dutasteride | 4.0% | 1.1% | 1.6% | 0.6% | 0.3% |
 | Tamsulosin | 2.6% | 0.8% | 1.0% | 0.6% | 1.1% |
-| Decreased libidoc,d |  |  |  |  |  |
+| Decreased libidoc,e |  |  |  |  |  |
 | Coadministration | 4.5% | 0.9% | 0.8% | 0.2% | 0.0% |
 | Dutasteride | 3.1% | 0.7% | 1.0% | 0.2% | 0.0% |
 | Tamsulosin | 2.0% | 0.6% | 0.7% | 0.2% | <0.1% |
