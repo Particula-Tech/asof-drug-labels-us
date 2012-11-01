@@ -10,7 +10,7 @@ Serum sodium and potassium should be carefully monitored during mannitol adminis
 If urine output continues to decline during mannitol infusion, the patient’s clinical status should be closely reviewed and mannitol infusion suspended if necessary.
 Accumulation of mannitol may result in overexpansion of the extracellular fluid which may intensify existing or latent congestive heart failure.
 
-fxcessive loss of water and electrolytes may lead to serious imbalances.
+Excessive loss of water and electrolytes may lead to serious imbalances.
 With continued administration of mannitol, loss of water in excess of electrolytes can cause hypernatremia.
 Electrolyte measurements, including sodium and potassium, are therefore, of vital importance in monitoring the infusion of mannitol.
 
@@ -40,9 +40,11 @@ Although blood levels of mannitol can be measured, there is little if any clinic
 The appropriate monitoring of blood levels of sodium and potassium; degree of hemoconcentration or hemodilution, if any; indices of renal, cardiac and pulmonary function are paramount in avoiding excessive fluid and electrolyte shifts.
 The routine features of physical examination and clinical chemistries suffice in achieving an adequate degree of appropriate patient monitoring.
 
-## Pregnancy: Teratogenic Effects
+## Pregnancy
 
-### Pregnancy Category C
+### Teratogenic Effects
+
+#### Pregnancy Category C
 
 Animal reproduction studies have not been conducted with mannitol.
 It is also not known whether mannitol can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.

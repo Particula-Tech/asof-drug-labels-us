@@ -14,15 +14,10 @@ If leaks are found, discard solution as sterility may be impaired.
 
 ## Preparation for Administration
 
-1.
-Suspend container from eyelet support.
-
-2.
-Remove plastic protector from outlet port at bottom of container.
-
-3.
-Attach administration set.
-Refer to complete directions accompanying set.
+1. Suspend container from eyelet support.
+2. Remove plastic protector from outlet port at bottom of container.
+3. Attach administration set.
+   Refer to complete directions accompanying set.
 
 Baxter Healthcare Corporation
 
