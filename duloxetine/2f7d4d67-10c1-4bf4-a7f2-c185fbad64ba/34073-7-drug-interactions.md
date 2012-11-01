@@ -68,32 +68,26 @@ Therefore, an increase or decrease in the metabolism of CYP3A substrates (e.g., 
 Results of in vitro studies demonstrate that duloxetine does not inhibit CYP2C19 activity at therapeutic concentrations.
 Inhibition of the metabolism of CYP2C19 substrates is therefore not anticipated, although clinical studies have not been performed.
 
-## 7.13 Monoamine Oxidase Inhibitors
+## 7.13 Monoamine Oxidase Inhibitors (MAOIs)
 
-[see Dosage and Administration (2.5), Contraindications (4.1), and Warnings and Precautions (5.4)].
+[See Dosage and Administration (2.5, 2.6), Contraindications (4.1), and Warnings and Precautions (5.4)].
 
 ## 7.14 Serotonergic Drugs
 
-Based on the mechanism of action of SNRIs and SSRIs, including Cymbalta, and the potential for serotonin syndrome, caution is advised when Cymbalta is co-administered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort.
-The concomitant use of Cymbalta with other SSRIs, SNRIs or tryptophan is not recommended [see Warnings and Precautions (5.4)].
+[See Dosage and Administration (2.5, 2.6), Contraindications (4.1), and Warnings and Precautions (5.4)].
 
-## 7.15 Triptans
-
-There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
-If concomitant treatment of Cymbalta with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Warnings and Precautions (5.4)].
-
-## 7.16 Alcohol
+## 7.15 Alcohol
 
 When Cymbalta and ethanol were administered several hours apart so that peak concentrations of each would coincide, Cymbalta did not increase the impairment of mental and motor skills caused by alcohol.
 
 In the Cymbalta clinical trials database, three Cymbalta-treated patients had liver injury as manifested by ALT and total bilirubin elevations, with evidence of obstruction.
 Substantial intercurrent ethanol use was present in each of these cases, and this may have contributed to the abnormalities seen [see Warnings and Precautions (5.2 and 5.11)].
 
-## 7.17 CNS Drugs
+## 7.16 CNS Drugs
 
 [See Warnings and Precautions (5.11)].
 
-## 7.18 Drugs Highly Bound to Plasma Protein
+## 7.17 Drugs Highly Bound to Plasma Protein
 
 Because duloxetine is highly bound to plasma protein, administration of Cymbalta to a patient taking another drug that is highly protein bound may cause increased free concentrations of the other drug, potentially resulting in adverse reactions.
 However, co-administration of duloxetine (60 or 120 mg) with warfarin (2-9 mg), a highly protein-bound drug, did not result in significant changes in INR and in the pharmacokinetics of either total S-or total R-warfarin (protein bound plus free drug) [see Drug Interactions (7.4)].

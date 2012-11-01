@@ -1,11 +1,11 @@
 # 4 CONTRAINDICATIONS
 
-## 4.1 Monoamine Oxidase Inhibitors
+## 4.1 Monoamine Oxidase Inhibitors (MAOIs)
 
-Concomitant use in patients taking monoamine oxidase inhibitors (MAOIs) is contraindicated due to the risk of serious, sometimes fatal, drug interactions with serotonergic drugs.
-These interactions may include hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
-These reactions have also been reported in patients who have recently discontinued serotonin reuptake inhibitors and are then started on an MAOI.
-Some cases presented with features resembling neuroleptic malignant syndrome [see Dosage and Administration (2.5) and Warnings and Precautions (5.4)].
+The use of MAOIs intended to treat psychiatric disorders with Cymbalta or within 5 days of stopping treatment with Cymbalta is contraindicated because of an increased risk of serotonin syndrome.
+The use of Cymbalta within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated [see Dosage and Administration (2.5) and Warnings and Precautions (5.4)].
+
+Starting Cymbalta in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome [see Dosage and Administration (2.6) and Warnings and Precautions (5.4)].
 
 ## 4.2 Uncontrolled Narrow-Angle Glaucoma
 

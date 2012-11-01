@@ -75,7 +75,20 @@ Nursing Mothers — Because the safety of duloxetine in infants is not known, nu
 Symptoms associated with discontinuation of Cymbalta and other SSRIs and SNRIs have been reported.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible [see Warnings and Precautions (5.7)].
 
-## 2.5 Switching Patients to or from a Monoamine Oxidase Inhibitor
+## 2.5 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
-At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with Cymbalta.
-In addition, at least 5 days should be allowed after stopping Cymbalta before starting an MAOI [see Contraindications (4.1) and Warnings and Precautions (5.4)].
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with Cymbalta.
+Conversely, at least 5 days should be allowed after stopping Cymbalta before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.1)].
+
+## 2.6 Use of Cymbalta with Other MAOIs such as Linezolid or Methylene Blue
+
+Do not start Cymbalta in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4.1)].
+
+In some cases, a patient already receiving Cymbalta therapy may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, Cymbalta should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for 5 days or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with Cymbalta may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.4)].
+
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with Cymbalta is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.4)].

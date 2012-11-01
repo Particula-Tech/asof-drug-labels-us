@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Clinical Worsening and Suicide Risk
+## 5.1 Suicidal Thoughts and Behaviors in Adolescents and Young Adults
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
@@ -76,20 +76,22 @@ Syncope and orthostatic hypotension tend to occur within the first week of thera
 The risk of blood pressure decreases may be greater in patients taking concomitant medications that induce orthostatic hypotension (such as antihypertensives) or are potent CYP1A2 inhibitors [see Warnings and Precautions (5.11) and Drug Interactions (7.1)] and in patients taking duloxetine at doses above 60 mg daily.
 Consideration should be given to discontinuing duloxetine in patients who experience symptomatic orthostatic hypotension and/or syncope during duloxetine therapy.
 
-## 5.4 Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+## 5.4 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including Cymbalta treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including Cymbalta, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
-The concomitant use of Cymbalta with MAOIs intended to treat depression is contraindicated [see Contraindications (4.1)].
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
 
-If concomitant treatment of Cymbalta with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Drug Interactions (7.15)].
+The concomitant use of Cymbalta with MAOIs intended to treat psychiatric disorders is contraindicated.
+Cymbalta should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking Cymbalta.
+Cymbalta should be discontinued before initiating treatment with the MAOI [see Dosage and Administration (2.5, 2.6), and Contraindications (4.1)].
 
-The concomitant use of Cymbalta with serotonin precursors (such as tryptophan) is not recommended [see Drug Interactions (7.14)].
-
-Treatment with duloxetine and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+If concomitant use of Cymbalta with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+Treatment with Cymbalta and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## 5.5 Abnormal Bleeding
 
@@ -162,9 +164,9 @@ Because of the risk of serious ventricular arrhythmias and sudden death potentia
 Other Clinically Important Drug Interactions
 
 Alcohol — Use of Cymbalta concomitantly with heavy alcohol intake may be associated with severe liver injury.
-For this reason, Cymbalta should not be prescribed for patients with substantial alcohol use [see Warnings and Precautions (5.2) and Drug Interactions (7.16)].
+For this reason, Cymbalta should not be prescribed for patients with substantial alcohol use [see Warnings and Precautions (5.2) and Drug Interactions (7.15)].
 
-CNS Acting Drugs — Given the primary CNS effects of Cymbalta, it should be used with caution when it is taken in combination with or substituted for other centrally acting drugs, including those with a similar mechanism of action [see Warnings and Precautions (5.11) and Drug Interactions (7.17)].
+CNS Acting Drugs — Given the primary CNS effects of Cymbalta, it should be used with caution when it is taken in combination with or substituted for other centrally acting drugs, including those with a similar mechanism of action [see Warnings and Precautions (5.11) and Drug Interactions (7.16)].
 
 ## 5.12 Hyponatremia
 

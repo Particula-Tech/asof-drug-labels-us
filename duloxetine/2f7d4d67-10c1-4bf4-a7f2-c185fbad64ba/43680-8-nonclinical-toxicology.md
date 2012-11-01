@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis — Duloxetine was administered in the diet to mice and rats for 2 years.
 

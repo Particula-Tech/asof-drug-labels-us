@@ -70,7 +70,7 @@ The patients had a baseline pain score of 6.5 on an 11-point scale ranging from 
 Both studies compared Cymbalta 60 mg once daily or 120 mg daily (given in divided doses in FM-1 and as a single daily dose in FM-2) with placebo.
 FM-2 additionally compared Cymbalta 20 mg with placebo during the initial three months of a six-month study.
 A total of 354 patients (234 Cymbalta, 120 placebo) were enrolled in FM-1 and a total of 520 patients (376 Cymbalta, 144 placebo) were enrolled in FM-2 (5% male, 95% female).
-Treatment with Cymbalta 60 mg or 120 mg daily statistically significantly improved the endpoint mean pain scores from baseline and increase the proportion of patients with at least a 50% reduction in pain score from baseline.
+Treatment with Cymbalta 60 mg or 120 mg daily statistically significantly improved the endpoint mean pain scores from baseline and increased the proportion of patients with at least a 50% reduction in pain score from baseline.
 Pain reduction was observed in patients both with and without comorbid MDD.
 However, the degree of pain reduction may be greater in patients with comorbid MDD.
 For various degrees of improvement in pain from baseline to study endpoint, Figures 3 and 4 show the fraction of patients achieving that degree of improvement.

@@ -56,6 +56,10 @@ Serotonin Syndrome - This condition can be life-threatening and may include:
 - sweating or fever
 - nausea, vomiting, or diarrhea
 - muscle rigidity
+- dizziness
+- flushing
+- tremor
+- seizures
 
 4.
 Abnormal bleeding: Cymbalta and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin*, Jantoven*), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
@@ -138,8 +142,8 @@ Do NOT take Cymbalta if you:
 - have uncontrolled narrow-angle glaucoma
 - take a Monoamine Oxidase Inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-- Do not take an MAOI within 5 days of stopping Cymbalta.
-- Do not start Cymbalta if you stopped taking an MAOI in the last 2 weeks.
+- Do not take an MAOI within 5 days of stopping Cymbalta unless directed to do so by your physician.
+- Do not start Cymbalta if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take Cymbalta close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
@@ -159,8 +163,8 @@ Before starting Cymbalta, tell your healthcare provider if you:
 
 - Are taking certain drugs such as:
   - Triptans used to treat migraine headache
-  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, MAOIs or antipsychotics
-  - Tramadol
+  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs or MAOIs
+  - Tramadol and fentanyl
   - Cimetidine
   - The antibiotics ciprofloxacin, enoxacin
   - Medicine to control heart rate such as propafenone, flecainide, quinidine
@@ -270,7 +274,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 *The brands listed are trademarks of their respective owners and not trademarks of Eli Lilly and Company.
 
-Medication Guide revised: August 24, 2012
+Medication Guide revised: October 18, 2012
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
@@ -281,4 +285,4 @@ Cymbalta (duloxetine hydrochloride) is a registered trademark of Eli Lilly and C
 Copyright © 2009, 2012, Eli Lilly and Company.
 All rights reserved.
 
-PV 7091 AMP
+PV 7092 AMP

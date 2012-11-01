@@ -5,7 +5,7 @@
 Teratogenic Effects, Pregnancy Category C — In animal reproduction studies, duloxetine has been shown to have adverse effects on embryo/fetal and postnatal development.
 
 When duloxetine was administered orally to pregnant rats and rabbits during the period of organogenesis, there was no evidence of teratogenicity at doses up to 45 mg/kg/day (7 times the maximum recommended human dose [MRHD, 60 mg/day] and 4 times the human dose of 120 mg/day on a mg/m2 basis, in rat; 15 times the MRHD and 7 times the human dose of 120 mg/day on a mg/m2 basis in rabbit).
-However, fetal weights were decreased at this dose, with a no-effect dose of 10 mg/kg/day (2 times the MRHD and ≈1 times the human dose of 120 mg/day on a mg/m2 basis in rat; 3 times the MRHD and 2 times the human dose of 120 mg/day on a mg/m2 basis in rabbits).
+However, fetal weights were decreased at this dose, with a no-effect dose of 10 mg/kg/day (2 times the MRHD and ≈1 times the human dose of 120 mg/day on a mg/m2 basis in rats; 3 times the MRHD and 2 times the human dose of 120 mg/day on a mg/m2 basis in rabbits).
 
 When duloxetine was administered orally to pregnant rats throughout gestation and lactation, the survival of pups to 1 day postpartum and pup body weights at birth and during the lactation period were decreased at a dose of 30 mg/kg/day (5 times the MRHD and 2 times the human dose of 120 mg/day on a mg/m2 basis); the no-effect dose was 10 mg/kg/day.
 Furthermore, behaviors consistent with increased reactivity, such as increased startle response to noise and decreased habituation of locomotor activity, were observed in pups following maternal exposure to 30 mg/kg/day.
@@ -46,11 +46,22 @@ Because the safety of duloxetine in infants is not known, nursing while on Cymba
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established [see Boxed Warning and Warnings and Precautions (5.1)].
-Anyone considering the use of Cymbalta in a child or adolescent must balance the potential risks with the clinical need.
+Efficacy was not demonstrated in two 10-week, placebo-controlled trials with 800 pediatric patients with MDD, age 7-17.
+Neither Cymbalta nor the active control (indicated for treatment of pediatric depression) statistically separated from placebo.
+Duloxetine steady state plasma concentration was comparable in children (7 - 12 years), adolescents (13 - 17 years) and adults.
+Cymbalta has not been studied in patients under the age of 7.
+Thus, safety and effectiveness in the pediatric population has not been established [see Boxed Warning and Warnings and Precautions (5.1)].
 
 Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
-Consequently, regular monitoring of weight and growth should be performed in children and adolescents treated with an SNRI such as Cymbalta.
+Pediatric patients treated with Cymbalta in MDD clinical trials experienced a 0.2 kg mean decrease in weight at 10-weeks, compared with a mean weight gain of approximately 0.6 kg in placebo-treated patients.
+The proportion of patients who experienced a clinically significant decrease in weight (≥3.5%) was greater in the Cymbalta group than in the placebo group (11% and 6%, respectively).
+Subsequently, over the six-month uncontrolled extension period, most Cymbalta-treated patients trended toward recovery to their expected baseline weight percentile based on population data from age- and gender-matched peers.
+Perform regular monitoring of weight and growth in children and adolescents treated with an SNRI such as Cymbalta.
+
+In the 2 pediatric MDD studies, the safety findings were consistent with the known safety and tolerability profile for Cymbalta.
+
+Duloxetine administration to young rats from post-natal day 21 (weaning) through post-natal day 90 (adult) resulted in decreased body weights that persisted into adulthood, but recovered when drug treatment was discontinued; slightly delayed (~1.5 days) sexual maturation in females, without any effect on fertility; and a delay in learning a complex task in adulthood, which was not observed after drug treatment was discontinued.
+These effects were observed at the high dose of 45 mg/kg/day; the no-effect-level was 20 mg/kg/day.
 
 ## 8.5 Geriatric Use
 

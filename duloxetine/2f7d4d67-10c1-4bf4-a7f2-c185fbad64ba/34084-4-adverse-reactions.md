@@ -119,7 +119,7 @@ Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | c Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain |  |  |
 | d Also includes asthenia |  |  |
 | e Also includes hypersomnia and sedation |  |  |
-| f Also includes initial insomnia, middle insomnia, early morning awakening |  |  |
+| f Also includes initial insomnia, middle insomnia, and early morning awakening |  |  |
 | g Also includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
 | h Also includes loss of libido |  |  |
 | i Also includes anorgasmia |  |  |
@@ -157,7 +157,7 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | Paraesthesiag | 2 | 2 |
 | Tremorb | 2 | <1 |
 | Psychiatric Disorders |  |  |
-| Insomniab,h,j | 10 | 5 |
+| Insomniab,h | 10 | 5 |
 | Agitationi | 3 | <1 |
 | Reproductive System and Breast Disorders |  |  |
 | Erectile Dysfunctionb | 4 | <1 |

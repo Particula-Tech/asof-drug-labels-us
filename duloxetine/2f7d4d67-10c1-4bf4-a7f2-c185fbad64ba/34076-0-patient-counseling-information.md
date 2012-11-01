@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Medication Guide
+See FDA-approved patient labeling (Medication Guide).
 
 ## 17.1 Information on Medication Guide
 
@@ -12,7 +12,7 @@ The complete text of the Medication Guide is reprinted at the end of this docume
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking Cymbalta.
 
-## 17.2 Clinical Worsening and Suicide Risk
+## 17.2 Suicidal Thoughts and Behaviors
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
@@ -38,7 +38,7 @@ Use of Cymbalta with heavy alcohol intake may be associated with severe liver in
 ## 17.6 Alcohol
 
 Although Cymbalta does not increase the impairment of mental and motor skills caused by alcohol, use of Cymbalta concomitantly with heavy alcohol intake may be associated with severe liver injury.
-For this reason, Cymbalta should not be prescribed for patients with substantial alcohol use [see Warnings and Precautions (5.2) and Drug Interactions (7.16)].
+For this reason, Cymbalta should not be prescribed for patients with substantial alcohol use [see Warnings and Precautions (5.2) and Drug Interactions (7.15)].
 
 ## 17.7 Orthostatic Hypotension and Syncope
 
@@ -46,7 +46,10 @@ Patients should be advised of the risk of orthostatic hypotension and syncope, e
 
 ## 17.8 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Cymbalta and triptans, tramadol or other serotonergic agents [see Warnings and Precautions (5.4) and Drug Interactions (7.14)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Cymbalta and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John's Wort [see Contraindications (4.1), Warnings and Precautions (5.4), and Drug Interactions (7.14)].
+
+Patients should be advised of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be cautioned to seek medical care immediately if they experience these symptoms.
 
 ## 17.9 Abnormal Bleeding
 
@@ -110,11 +113,11 @@ Any psychoactive drug may impair judgment, thinking, or motor skills.
 Although in controlled studies Cymbalta has not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.
 Therefore, patients should be cautioned about operating hazardous machinery including automobiles, until they are reasonably certain that Cymbalta therapy does not affect their ability to engage in such activities.
 
-Literature revised September 11, 2012
+Literature revised October 18, 2012
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
 Copyright © 2004, 2012, Eli Lilly and Company.
 All rights reserved.
 
-PV 9471 AMP
+PV 9472 AMP
