@@ -4,7 +4,7 @@ See FDA-Approved Patient Labeling (17.6).
 
 ## 17.1 Hypotension
 
-Patients should be told about the possible occurrence of symptoms related to postural hypotension, such as dizziness, when taking tamsulosin hydrochloride capsules, and they should be cautioned about driving, operating machinery or performing hazardous tasks [ see Warnings and Precautions (5.1) ].
+Patients should be told about the possible occurrence of symptoms related to postural hypotension, such as dizziness, when taking tamsulosin hydrochloride capsules, and they should be cautioned about driving, operating machinery, or performing hazardous tasks [ see Warnings and Precautions (5.1) ].
 
 ## 17.2 Priapism
 
@@ -30,7 +30,7 @@ PATIENT INFORMATION Tamsulosin Hydrochloride Capsules USP, 0.4 mg Read the Patie
 The information may have changed.
 This leaflet does not take the place of discussions with your doctor about your medical condition or your treatment.
 What are tamsulosin hydrochloride capsules?
-Tamsulosin hydrochloride capsules is a prescription alpha blocker medicine used to treat the signs and symptoms of benign prostatic hyperplasia (BPH), a condition your doctor may refer to as an enlarged prostate.
+Tamsulosin hydrochloride capsules are a prescription alpha-blocker medicine used to treat the signs and symptoms of benign prostatic hyperplasia (BPH), a condition your doctor may refer to as an enlarged prostate.
 
 - Tamsulosin hydrochloride capsules are not for women.
 - Tamsulosin hydrochloride capsules are not for children.
@@ -39,14 +39,14 @@ Who should not take tamsulosin hydrochloride capsules?
 Do not take tamsulosin hydrochloride capsules if you are allergic to any of its ingredients.
 See the end of this leaflet for a complete list of ingredients in tamsulosin hydrochloride capsules.
 What should I tell my doctor before using tamsulosin hydrochloride capsules?
-Before taking tamsulosin hydrochloride capsules, tell your doctor about all your medical conditions including:
+Before taking tamsulosin hydrochloride capsules, tell your doctor about all your medical conditions, including:
 
 - any kidney or liver problems.
 - any history of low blood pressure.
 - any allergies to sulfa or any other medicines.
 - if you are planning to have cataract surgery.
 
-Tell your doctor about all the medicines you take including:
+Tell your doctor about all the medicines you take, including:
 
 - any prescription medicines, including blood pressure medicines.
 - any non-prescription medicines, including vitamins and herbal supplements.
@@ -84,14 +84,14 @@ If the symptoms are severe or do not improve, call your doctor.
 
 - Allergic reactions.
   Make your doctor aware of any allergic reactions you may experience while taking tamsulosin hydrochloride capsules.
-  Allergic reactions may include: Rare and more serious allergic reactions may also include:
+  Allergic reactions may include: Rare and more serious allergic reactions may also occur.
+  Get medical help right away if you have any of the following reactions:
   - rash
   - itching
   - hives
   - swelling of face, tongue, or throat
   - difficulty breathing
-
-Get medical help right away if you have swelling of the face, tongue or throat, or difficulty breathing.
+  - blistering of the skin
 
 - A painful erection that will not go away.
   Tamsulosin hydrochloride capsules can cause a painful erection (priapism), which cannot be relieved by having sex.

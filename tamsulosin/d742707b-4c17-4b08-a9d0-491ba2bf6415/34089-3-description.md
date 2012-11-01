@@ -9,4 +9,4 @@ The molecular weight of tamsulosin hydrochloride is 444.98.
 Its structural formula is: Each tamsulosin hydrochloride capsule USP for oral administration contains tamsulosin hydrochloride USP 0.4 mg, and the following inactive ingredients: microcrystalline cellulose, methacrylic acid copolymer dispersion, hypromellose acetate succinate, triethyl citrate, talc, and sodium lauryl sulfate.
 The capsule shell contains gelatin, sodium lauryl sulfate, FD&C blue No. 2, ferric oxide red, ferric oxide yellow, and titanium dioxide.
 Imprinting black ink contains shellac, dehydrated alcohol, butyl alcohol, propylene glycol, strong ammonia solution, black iron oxide, and potassium hydroxide.
-USP dissolution test is pending.
+It meets USP Dissolution Test 9.
