@@ -133,24 +133,41 @@ Table 6 Efficacy Results in Studies 7, 8, and 9
 
 In Study 8, overall survival estimates at 5 years were 58% vs. 46% for R-CHOP and CHOP, respectively.
 
-## 14.4 Chronic Lymphocytic Leukemia (CLL)
+## 14.4 Ninety-Minute Infusions in Previously Untreated Follicular NHL and DLBCL
 
-The safety and effectiveness of Rituxan were evaluated in two randomized (1:1) multicenter open-label studies comparing FC alone or in combination with Rituxan for up to 6 cycles in patients with previously untreated CLL [Study 10 (n = 817)] or previously treated CLL [Study 11 (n = 552)].
+In Study 10, a total of 363 patients with previously untreated follicular NHL (n = 113) or DLBCL (n = 250) were evaluated in a prospective, open-label, multi-center, single-arm trial for the safety of 90-minute rituximab infusions.
+Patients with follicular NHL received rituximab 375 mg/m2 plus CVP chemotherapy.
+Patients with DLBCL received rituximab 375 mg/m2 plus CHOP chemotherapy.
+Patients with clinically significant cardiovascular disease were excluded from the study.
+Patients were eligible for a 90-minute infusion at Cycle 2 if they did not experience a Grade 3-4 infusion-related adverse event with Cycle 1 and had a circulating lymphocyte count ≤ 5000/mm3 before Cycle 2.
+All patients were pre-medicated with acetaminophen and an antihistamine and received the glucocorticoid component of their chemotherapy prior to Rituxan infusion.
+The main outcome measure was the development of Grade 3-4 infusion-related reactions on the day of, or day after, the 90-minute infusion at Cycle 2 [see Adverse Reactions (6.1)].
+
+Eligible patients received their Cycle 2 rituximab infusion over 90 minutes as follows: 20% of the total dose given in the first 30 minutes and the remaining 80% of the total dose given over the next 60 minutes [see Dosage and Administration (2.1)].
+Patients who tolerated the 90-minute rituximab infusion at Cycle 2 continued to receive subsequent rituximab infusions at the 90-minute infusion rate for the remainder of the treatment regimen (through Cycle 6 or Cycle 8).
+
+The incidence of Grade 3-4 infusion-related reactions at Cycle 2 was 1.1% (95% CI [0.3%, 2.8%]) among all patients, 3.5% (95% CI [1.0%, 8.8%]) for those patients treated with R-CVP, and 0.0% (95% CI [0.0%, 1.5%]) for those patients treated with R-CHOP.
+For Cycles 2-8, the incidence of Grade 3-4 infusion-related reactions was 2.8% (95% CI [1.3%, 5.0%]).
+No acute fatal infusion related reactions were observed.
+
+## 14.5 Chronic Lymphocytic Leukemia (CLL)
+
+The safety and effectiveness of Rituxan were evaluated in two randomized (1:1) multicenter open-label studies comparing FC alone or in combination with Rituxan for up to 6 cycles in patients with previously untreated CLL [Study 11 (n = 817)] or previously treated CLL [Study 12 (n = 552)].
 Patients received fludarabine 25 mg/m2/day and cyclophosphamide 250 mg/m2/day on days 1, 2 and 3 of each cycle, with or without Rituxan.
 In both studies, seventy-one percent of CLL patients received 6 cycles and 90% received at least 3 cycles of Rituxan-based therapy.
 
-In Study 10, 30% of patients were 65 years or older, 31% were Binet stage C, 45% had B symptoms, more than 99% had ECOG performance status (PS) 0–1, 74% were male, and 100% were White.
-In Study 11, 44% of patients were 65 years or older, 28% had B symptoms, 82% received a prior alkylating drug, 18% received prior fludarabine, 100% had ECOG PS 0–1, 67% were male and 98% were White.
+In Study 11, 30% of patients were 65 years or older, 31% were Binet stage C, 45% had B symptoms, more than 99% had ECOG performance status (PS) 0–1, 74% were male, and 100% were White.
+In Study 12, 44% of patients were 65 years or older, 28% had B symptoms, 82% received a prior alkylating drug, 18% received prior fludarabine, 100% had ECOG PS 0–1, 67% were male and 98% were White.
 
-The main outcome measure in both studies was progression-free survival (PFS), defined as the time from randomization to progression, relapse, or death, as determined by investigators (Study 10) or an independent review committee (Study 11).
-The investigator assessed results in Study 11 were supportive of those obtained by the independent review committee.
+The main outcome measure in both studies was progression-free survival (PFS), defined as the time from randomization to progression, relapse, or death, as determined by investigators (Study 11) or an independent review committee (Study 12).
+The investigator assessed results in Study 12 were supportive of those obtained by the independent review committee.
 Efficacy results are presented in Table 7.
 
-Table 7 Efficacy Results in Studies 10 and 11
+Table 7 Efficacy Results in Studies 11 and 12
 
 | R-FC N = 408 | FC N = 409 | R-FC N = 276 | FC N = 276 |  |
 | --- | --- | --- | --- | --- |
-|  | Study 10As defined in 1996 National Cancer Institute Working Group guidelines. (Previously untreated) |  | Study 11 (Previously treated) |  |
+|  | Study 11As defined in 1996 National Cancer Institute Working Group guidelines. (Previously untreated) |  | Study 12 (Previously treated) |  |
 | Median PFS (months) | 39.8 | 31.5 | 26.7 | 21.7 |
 | Hazard ratio (95% CI) | 0.56 (0.43, 0.71) |  | 0.76 (0.6, 0.96) |  |
 | P value (Log-Rank test) | < 0.01 |  | 0.02 |  |
@@ -159,17 +176,17 @@ Table 7 Efficacy Results in Studies 10 and 11
 Across both studies, 243 of 676 Rituxan-treated patients (36%) were 65 years of age or older and 100 Rituxan-treated patients (15%) were 70 years of age or older.
 The results of exploratory subset analyses in elderly patients are presented in Table 8.
 
-Table 8 Efficacy Results in Studies 10 and 11 in Subgroups Defined by AgeFrom exploratory analyses.
+Table 8 Efficacy Results in Studies 11 and 12 in Subgroups Defined by AgeFrom exploratory analyses.
 
 | Age subgroup | Number of Patients | Hazard Ratio for PFS (95% CI) | Number of Patients | Hazard Ratio for PFS (95% CI) |
 | --- | --- | --- | --- | --- |
-|  | Study 10 |  | Study 11 |  |
+|  | Study 11 |  | Study 12 |  |
 | Age < 65 yrs | 572 | 0.52 (0.39, 0.70) | 313 | 0.61 (0.45, 0.84) |
 | Age ≥ 65 yrs | 245 | 0.62 (0.39, 0.99) | 233 | 0.99 (0.70, 1.40) |
 | Age < 70 yrs | 736 | 0.51 (0.39, 0.67) | 438 | 0.67 (0.51, 0.87) |
 | Age ≥ 70 yrs | 81 | 1.17 (0.51, 2.66) | 108 | 1.22 (0.73, 2.04) |
 
-## 14.5 Rheumatoid Arthritis (RA)
+## 14.6 Rheumatoid Arthritis (RA)
 
 Reducing the Signs and Symptoms: Initial and Re-Treatment Courses
 
@@ -246,7 +263,7 @@ Table 11 Mean Radiographic Change From Baseline to 104 Weeks
 | JSN Score | 0.20 | 0.42 | – | – |
 
 In RA Study 1 and its open-label extension, 70% of patients initially randomized to Rituxan + MTX and 72% of patients initially randomized to placebo + MTX were evaluated radiographically at Year 2.
-As shown in Table 11 progression of structural damage in Rituxan + MTX patients was further reduced in the second year of treatment.
+As shown in Table 11, progression of structural damage in Rituxan + MTX patients was further reduced in the second year of treatment.
 
 Following 2 years of treatment with Rituxan + MTX, 57% of patients had no progression of structural damage.
 During the first year, 60% of Rituxan + MTX treated patients had no progression, defined as a change in TSS of zero or less compared to baseline, compared to 46% of placebo + MTX treated patients.
@@ -276,9 +293,9 @@ Table 12 Improvement from Baseline in Health Assessment Questionnaire Disability
 |  | Placebo + MTX n = 172 | Rituxan 2 × 1000 mg + MTX n = 170 | Treatment Difference (Rituxan – Placebo)Adjusted difference stratified by region (US, rest of the world) and rheumatoid factor (RF) status (positive ≥ 20 IU/mL, negative < 20 IU/mL) at baseline. (95% CI) |
 | --- | --- | --- | --- |
 | Mean Improvement from Baseline | 0.19 | 0.42 | 0.23 (0.11, 0.34) |
-| Percent of patients with "Improved" score (Change from Baseline ≥MCID)Minimal Clinically Important Difference: MCID for HAQ = 0.22. | 48% | 58% | 11% (0%, 21%) |
+| Percent of patients with "Improved" score (Change from Baseline ≥ MCID)Minimal Clinically Important Difference: MCID for HAQ = 0.22. | 48% | 58% | 11% (0%, 21%) |
 
-## 14.6 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
+## 14.7 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
 A total of 197 patients with active, severe GPA and MPA (two forms of ANCA Associated Vasculidities) were treated in a randomized, double-blind, active-controlled multicenter, non-inferiority study, conducted in two phases – a 6 month remission induction phase and a 12 month remission maintenance phase.
 Patients were 15 years of age or older, diagnosed with GPA (75% of patients) or MPA (24% of patients) according to the Chapel Hill Consensus conference criteria (1% of the patients had unknown vasculitis type).
@@ -291,7 +308,7 @@ Patients were pre-medicated with antihistamine and acetaminophen prior to Rituxa
 Following intravenous corticosteroid administration, all patients received oral prednisone (1 mg/kg/day, not exceeding 80 mg/day) with pre-specified tapering.
 Once remission was achieved or at the end of the 6 month remission induction period, the cyclophosphamide group received azathioprine to maintain remission.
 The Rituxan group did not receive additional therapy to maintain remission.
-The main outcome measure for both GPA and MPA patients was achievement of complete remission at 6 months defined as a BVAS/GPA of 0, and off glucocorticoid therapy.
+The main outcome measure for both GPA and MPA patients was achievement of complete remission at 6 months defined as a BVAS/GPAof 0, and off glucocorticoid therapy.
 The pre-specified non-inferiority margin was a treatment difference of 20%.
 As shown in Table 13, the study demonstrated non-inferiority of Rituxan to cyclophosphamide for complete remission at 6 months.
 

@@ -23,6 +23,7 @@ The unknown risks to the infant from oral ingestion of Rituxan should be weighed
 ## 8.4 Pediatric Use
 
 FDA has not required pediatric studies in polyarticular juvenile idiopathic arthritis (PJIA) patients ages 0 to 16 due to concerns regarding the potential for prolonged immunosuppression as a result of B-cell depletion in the developing juvenile immune system.
+Hypogammaglobulinemia has been observed in pediatric patients treated with Rituxan.
 
 The safety and effectiveness of Rituxan in pediatric patients have not been established.
 
@@ -47,11 +48,11 @@ Chronic Lymphocytic Leukemia
 
 Among patients with CLL evaluated in two randomized active-controlled trials, 243 of 676 Rituxan-treated patients (36%) were 65 years of age or older; of these, 100 Rituxan-treated patients (15%) were 70 years of age or older.
 
-In exploratory analyses defined by age, there was no observed benefit from the addition of Rituxan to fludarabine and cyclophosphamide among patients 70 years of age or older in Study 10 or in Study 11; there was also no observed benefit from the addition of Rituxan to fludarabine and cyclophosphamide among patients 65 years of age or older in Study 11 [see Clinical Studies (14.4)].
+In exploratory analyses defined by age, there was no observed benefit from the addition of Rituxan to fludarabine and cyclophosphamide among patients 70 years of age or older in Study 11 or in Study 12; there was also no observed benefit from the addition of Rituxan to fludarabine and cyclophosphamide among patients 65 years of age or older in Study 12 [see Clinical Studies (14.5)].
 Patients 70 years or older received lower dose intensity of fludarabine and cyclophosphamide compared to younger patients, regardless of the addition of Rituxan.
-In Study 10, the dose intensity of Rituxan was similar in older and younger patients, however in Study 11 older patients received a lower dose intensity of Rituxan.
+In Study 11, the dose intensity of Rituxan was similar in older and younger patients, however in Study 12 older patients received a lower dose intensity of Rituxan.
 
-The incidence of Grade 3 and 4 adverse reactions was higher among patients receiving R-FC who were 70 years or older compared to younger patients for neutropenia [44% vs. 31% (Study 10); 56% vs. 39% (Study 11)], febrile neutropenia [16% vs. 6% (Study 10)], anemia [5% vs. 2% (Study 10); 21% vs. 10% (Study 11)], thrombocytopenia [19% vs. 8% (Study 11)], pancytopenia [7% vs. 2% (Study 10); 7% vs. 2% (Study 11)] and infections [30% vs. 14% (Study 11)].
+The incidence of Grade 3 and 4 adverse reactions was higher among patients receiving R-FC who were 70 years or older compared to younger patients for neutropenia [44% vs. 31% (Study 11); 56% vs. 39% (Study 12)], febrile neutropenia [16% vs. 6% (Study 10)], anemia [5% vs. 2% (Study 11); 21% vs. 10% (Study 12)], thrombocytopenia [19% vs. 8% (Study 12)], pancytopenia [7% vs. 2% (Study 11); 7% vs. 2% (Study 12)] and infections [30% vs. 14% (Study 12)].
 
 Rheumatoid Arthritis
 

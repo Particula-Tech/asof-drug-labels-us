@@ -20,7 +20,7 @@ Little or no binding was observed in the non-lymphoid tissues examined.
 
 ## 12.2 Pharmacodynamics
 
-Non-Hodgkins Lymphoma (NHL)
+Non-Hodgkin's Lymphoma (NHL)
 
 In NHL patients, administration of Rituxan resulted in depletion of circulating and tissue-based B cells.
 Among 166 patients in Study 1, circulating CD19-positive B cells were depleted within the first three weeks with sustained depletion for up to 6 to 9 months post treatment in 83% of patients.
@@ -49,7 +49,7 @@ By Month 18, most patients (87%) had counts >10 cells/µL.
 
 ## 12.3 Pharmacokinetics
 
-Non-Hodgkins Lymphoma (NHL)
+Non-Hodgkin's Lymphoma (NHL)
 
 Pharmacokinetics were characterized in 203 NHL patients receiving 375 mg/m2 Rituxan weekly by intravenous infusion for 4 doses.
 Rituximab was detectable in the serum of patients 3 to 6 months after completion of treatment.

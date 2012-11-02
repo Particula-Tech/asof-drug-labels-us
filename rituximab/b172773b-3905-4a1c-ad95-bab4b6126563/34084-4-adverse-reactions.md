@@ -32,13 +32,16 @@ Infusion Reactions
 In the majority of patients with NHL, infusion reactions consisting of fever, chills/rigors, nausea, pruritus, angioedema, hypotension, headache, bronchospasm, urticaria, rash, vomiting, myalgia, dizziness, or hypertension occurred during the first Rituxan infusion.
 Infusion reactions typically occurred within 30 to 120 minutes of beginning the first infusion and resolved with slowing or interruption of the Rituxan infusion and with supportive care (diphenhydramine, acetaminophen, and intravenous saline).
 The incidence of infusion reactions was highest during the first infusion (77%) and decreased with each subsequent infusion.
-[See Boxed Warning, Warnings and Precautions (5.1).]
+[See Boxed Warning, Warnings and Precautions (5.1)].
+In patients with previously untreated follicular NHL or previously untreated DLBCL, who did not experience a Grade 3 or 4 infusion-related reaction in Cycle 1 and received a 90-minute infusion of Rituxan at Cycle 2, the incidence of Grade 3-4 infusion-related reactions on the day of, or day after the infusion was 1.1% (95% CI [0.3%, 2.8%]).
+For Cycles 2-8, the incidence of Grade 3-4 infusion reactions on the day of or day after the 90-minute infusion, was 2.8% (95% CI [1.3%, 5.0%]).
+[See Warnings and Precautions (5.1), Clinical Studies (14.4)].
 
 Infections
 
 Serious infections (NCI CTCAE Grade 3 or 4), including sepsis, occurred in less than 5% of patients with NHL in the single-arm studies.
 The overall incidence of infections was 31% (bacterial 19%, viral 10%, unknown 6%, and fungal 1%).
-[See Warnings and Precautions (5.4), (5.5), (5.6).]
+[See Warnings and Precautions (5.4), (5.5), (5.6)].
 
 In randomized, controlled studies where Rituxan was administered following chemotherapy for the treatment of follicular or low-grade NHL, the rate of infection was higher among patients who received Rituxan.
 In diffuse large B-cell lymphoma patients, viral infections occurred more frequently in those who received Rituxan.
@@ -126,7 +129,7 @@ Previously Untreated, Low-Grade or Follicular, NHL
 
 In Study 4, patients in the R-CVP arm experienced a higher incidence of infusional toxicity and neutropenia compared to patients in the CVP arm.
 The following adverse reactions occurred more frequently (≥ 5%) in patients receiving R-CVP compared to CVP alone: rash (17% vs. 5%), cough (15% vs. 6%), flushing (14% vs. 3%), rigors (10% vs. 2%), pruritus (10% vs. 1%), neutropenia (8% vs. 3%), and chest tightness (7% vs. 1%).
-[See Clinical Studies (14.2).]
+[See Clinical Studies (14.2)].
 
 In Study 5, detailed safety data collection was limited to serious adverse reactions, Grade ≥ 2 infections, and Grade ≥ 3 adverse reactions.
 In patients receiving Rituxan as single-agent maintenance therapy following Rituxan plus chemotherapy, infections were reported more frequently compared to the observation arm (37% vs. 22%).
@@ -134,7 +137,7 @@ Grade 3-4 adverse reactions occurring at a higher incidence (≥ 2%) in the Ritu
 
 In Study 6, the following adverse reactions were reported more frequently (≥ 5%) in patients receiving Rituxan following CVP compared to patients who received no further therapy: fatigue (39% vs. 14%), anemia (35% vs. 20%), peripheral sensory neuropathy (30% vs. 18%), infections (19% vs. 9%), pulmonary toxicity (18% vs. 10%), hepato-biliary toxicity (17% vs. 7%), rash and/or pruritus (17% vs. 5%), arthralgia (12% vs. 3%), and weight gain (11% vs. 4%).
 Neutropenia was the only Grade 3 or 4 adverse reaction that occurred more frequently (≥ 2%) in the Rituxan arm compared with those who received no further therapy (4% vs. 1%).
-[See Clinical Studies (14.3).]
+[See Clinical Studies (14.3)].
 
 DLBCL
 
@@ -148,15 +151,15 @@ Other Grade 3 or 4 adverse reactions occurring more frequently among patients re
 
 CLL
 
-The data below reflect exposure to Rituxan in combination with fludarabine and cyclophosphamide in 676 patients with CLL in Study 10 or Study 11 [see Clinical Studies (14.4)].
+The data below reflect exposure to Rituxan in combination with fludarabine and cyclophosphamide in 676 patients with CLL in Study 11 or Study 12 [see Clinical Studies (14.5)].
 The age range was 30–83 years and 71% were men.
-Detailed safety data collection in Study 10 was limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
+Detailed safety data collection in Study 11 was limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
 
 Infusion-related adverse reactions were defined by any of the following adverse events occurring during or within 24 hours of the start of infusion: nausea, pyrexia, chills, hypotension, vomiting, and dyspnea.
 
-In Study 10, the following Grade 3 and 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion reactions (9% in R-FC arm), neutropenia (30% vs. 19%), febrile neutropenia (9% vs. 6%), leukopenia (23% vs. 12%), and pancytopenia (3% vs. 1%).
+In Study 11, the following Grade 3 and 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion reactions (9% in R-FC arm), neutropenia (30% vs. 19%), febrile neutropenia (9% vs. 6%), leukopenia (23% vs. 12%), and pancytopenia (3% vs. 1%).
 
-In Study 11, the following Grade 3 or 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion reactions (7% in R-FC arm), neutropenia (49% vs. 44%), febrile neutropenia (15% vs. 12%), thrombocytopenia (11% vs. 9%), hypotension (2% vs. 0%), and hepatitis B (2% vs. < 1%).
+In Study 12, the following Grade 3 or 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion reactions (7% in R-FC arm), neutropenia (49% vs. 44%), febrile neutropenia (15% vs. 12%), thrombocytopenia (11% vs. 9%), hypotension (2% vs. 0%), and hepatitis B (2% vs. < 1%).
 Fifty-nine percent of R-FC-treated patients experienced an infusion reaction of any severity.
 
 ## 6.2 Clinical Trials Experience in Rheumatoid Arthritis
@@ -247,7 +250,7 @@ In the experience with Rituxan in RA patients, 2578 patients have been exposed t
 Most of the patients who received additional courses did so 24 weeks or more after the previous course and none were retreated sooner than 16 weeks.
 The rates and types of adverse reactions reported for subsequent courses of Rituxan were similar to rates and types seen for a single course of Rituxan.
 
-In RA Study 2, where all patients initially received Rituxan, the safety profile of patients who were retreated with Rituxan was similar to those who were retreated with placebo [see Clinical Studies (14.5), and Dosage and Administration (2.5).]
+In RA Study 2, where all patients initially received Rituxan, the safety profile of patients who were retreated with Rituxan was similar to those who were retreated with placebo [see Clinical Studies (14.6), and Dosage and Administration (2.5)].
 
 ## 6.3 Clinical Trials Experience in Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
@@ -299,6 +302,11 @@ The most common infections in the Rituxan group were upper respiratory tract inf
 
 The incidence of serious infections was 11% in the Rituxan-treated patients and 10% in the cyclophosphamide treated patients, with rates of approximately 25 and 28 per 100 patient-years, respectively.
 The most common serious infection was pneumonia.
+
+Hypogammaglobulinemia
+
+Hypogammaglobulinemia (IgA, IgG or IgM below the lower limit of normal) has been observed in patients with GPA and MPA treated with Rituxan.
+At 6 months, in the Rituxan group, 27%, 58% and 51% of patients with normal immunoglobulin levels at baseline, had low IgA, IgG and IgM levels, respectively compared to 25%, 50% and 46% in the cyclophosphamide group.
 
 Retreatment in Patients with GPA and MPA
 
