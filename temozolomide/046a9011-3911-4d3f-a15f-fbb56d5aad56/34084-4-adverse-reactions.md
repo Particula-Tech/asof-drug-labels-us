@@ -18,7 +18,7 @@ TABLE 7: Number (%) of Patients with Adverse Reactions: All and Severe/Life Thre
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Concomitant Phase RT Alone (n=285) |  |  |  | Concomitant Phase RT+TMZ (n=288)One patient who was randomized to RT only arm received RT+temozolomide. |  |  |  | Maintenance Phase TMZ (n=224) |  |  |  |
 | Subjects Reporting any Adverse Reaction | 258 | (91) | 74 | (26) | 266 | (92) | 80 | (28) | 206 | (92) | 82 | (37) |
-| Body as a Whole - General Disorders |  |  |  |  |  |  |  |  |  |  |  |  |
+| Body as a Whole — General Disorders |  |  |  |  |  |  |  |  |  |  |  |  |
 | Anorexia | 25 | (9) | 1 | (<1) | 56 | (19) | 2 | (1) | 61 | (27) | 3 | (1) |
 | Dizziness | 10 | (4) | 0 |  | 12 | (4) | 2 | (1) | 12 | (5) | 0 |  |
 | Fatigue | 139 | (49) | 15 | (5) | 156 | (54) | 19 | (7) | 137 | (61) | 20 | (9) |
@@ -79,7 +79,7 @@ The median nadirs occurred at 26 days for platelets (range: 21–40 days) and 28
 Only 14% (22/158) of patients had a neutrophil nadir and 20% (32/158) of patients had a platelet nadir, which may have delayed the start of the next cycle.
 Less than 10% of patients required hospitalization, blood transfusion, or discontinuation of therapy due to myelosuppression.
 
-In clinical trial experience with 110 to 111 women and 169 to 174 men (depending on measurements), there were higher rates of Grade 4 neutropenia (ANC<500 cells/µL) and thrombocytopenia (<20,000 cells/µL) in women than men in the first cycle of therapy (12% vs. 5% and 9% vs. 3%, respectively).
+In clinical trial experience with 110 to 111 women and 169 to 174 men (depending on measurements), there were higher rates of Grade 4 neutropenia (ANC <500 cells/µL) and thrombocytopenia (<20,000 cells/µL) in women than men in the first cycle of therapy (12% vs. 5% and 9% vs. 3%, respectively).
 
 In the entire safety database for which hematologic data exist (N=932), 7% (4/61) and 9.5% (6/63) of patients over age 70 experienced Grade 4 neutropenia or thrombocytopenia in the first cycle, respectively.
 For patients less than or equal to age 70, 7% (62/871) and 5.5% (48/879) experienced Grade 4 neutropenia or thrombocytopenia in the first cycle, respectively.

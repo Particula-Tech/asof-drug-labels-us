@@ -13,37 +13,95 @@ Several guidelines on this subject have been published.
 
 TEMODAR Capsules:
 
-TEMODAR (temozolomide) Capsules are supplied in amber glass bottles with child-resistant polypropylene caps containing the following capsule strengths:
+TEMODAR (temozolomide) Capsules are supplied in amber glass bottles with child-resistant polypropylene caps or child-resistant sachets containing the following capsule strengths:
 
 TEMODAR Capsules 5 mg: have opaque white bodies with green caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
 The cap is imprinted with "TEMODAR".
-They are supplied as follows: 5-count - NDC 0085-3004-02 14-count - NDC 0085-3004-01
+They are supplied as follows:
+
+Bottles:
+
+- 5-count – NDC 0085-3004-02
+- 14-count – NDC 0085-3004-01
+
+Sachets:
+
+- 5-count – NDC 0085-3004-03
+- 14-count – NDC 0085-3004-04
 
 TEMODAR Capsules 20 mg: have opaque white bodies with yellow caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
 The cap is imprinted with "TEMODAR".
-They are supplied as follows: 5-count - NDC 0085-1519-02 14-count - NDC 0085-1519-01
+They are supplied as follows:
+
+Bottles:
+
+- 5-count – NDC 0085-1519-02
+- 14-count – NDC 0085-1519-01
+
+Sachets:
+
+- 5-count – NDC 0085-1519-03
+- 14-count – NDC 0085-1519-04
 
 TEMODAR Capsules 100 mg: have opaque white bodies with pink caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
 The cap is imprinted with "TEMODAR".
-They are supplied as follows: 5-count - NDC 0085-1366-02 14-count - NDC 0085-1366-01
+They are supplied as follows:
+
+Bottles:
+
+- 5-count – NDC 0085-1366-02
+- 14-count – NDC 0085-1366-01
+
+Sachets:
+
+- 5-count – NDC 0085-1366-03
+- 14-count – NDC 0085-1366-04
 
 TEMODAR Capsules 140 mg: have opaque white bodies with blue caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
 The cap is imprinted with "TEMODAR".
-They are supplied as follows: 5-count - NDC 0085-1425-01 14-count - NDC 0085-1425-02
+They are supplied as follows:
+
+Bottles:
+
+- 5-count – NDC 0085-1425-01
+- 14-count – NDC 0085-1425-02
+
+Sachets:
+
+- 5-count – NDC 0085-1425-03
+- 14-count – NDC 0085-1425-04
 
 TEMODAR Capsules 180 mg: have opaque white bodies with orange caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
 The cap is imprinted with "TEMODAR".
-They are supplied as follows: 5-count - NDC 0085-1430-01 14-count - NDC 0085-1430-02
+They are supplied as follows:
+
+Bottles:
+
+- 5-count – NDC 0085-1430-01
+- 14-count – NDC 0085-1430-02
+
+Sachets:
+
+- 5-count – NDC 0085-1430-03
+- 14-count – NDC 0085-1430-04
 
 TEMODAR Capsules 250 mg: have opaque white bodies with white caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
 The cap is imprinted with "TEMODAR".
-They are supplied as follows: 5-count - NDC 0085-1417-01
+They are supplied as follows:
+
+Bottles:
+
+- 5-count – NDC 0085-1417-01
+
+Sachets:
+
+- 5-count – NDC 0085-1417-02
 
 TEMODAR for Injection:
 
@@ -54,9 +112,7 @@ TEMODAR for Injection 100 mg: NDC 0085-1381-01
 
 ## 16.3 Storage
 
-Store TEMODAR Capsules at 25°C (77°F); excursions permitted to 15°–30°C (59°–86°F)
-
-[see USP Controlled Room Temperature].
+Store TEMODAR Capsules at 25°C (77°F); excursions permitted to 15°–30°C (59°–86°F) [see USP Controlled Room Temperature].
 
 Store TEMODAR for Injection refrigerated at 2°–8°C (36°–46°F).
 After reconstitution, store reconstituted product at room temperature (25°C [77°F]).

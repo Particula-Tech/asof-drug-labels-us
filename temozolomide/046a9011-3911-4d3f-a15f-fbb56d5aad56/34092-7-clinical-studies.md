@@ -8,7 +8,7 @@ This was followed by 6 cycles of TEMODAR alone (150 or 200 mg/m2) on Days 1 to 5
 Patients in the control arm received RT only.
 In both arms, focal radiation therapy was delivered as 60 Gy/30 fractions.
 Focal RT includes the tumor bed or resection site with a 2- to 3-cm margin.
-Pneumocystis carinii pneumonia (PCP) prophylaxis was required during the TMZ + RT, regardless of lymphocyte count, and was to continue until recovery of lymphocyte count to less than or equal to Grade 1.
+Pneumocystis carinii pneumonia (PCP) prophylaxis was required during the TMZ+RT, regardless of lymphocyte count, and was to continue until recovery of lymphocyte count to less than or equal to Grade 1.
 
 At the time of disease progression, TEMODAR was administered as salvage therapy in 161 patients of the 282 (57%) in the RT alone arm, and 62 patients of the 277 (22%) in the TEMODAR+RT arm.
 
@@ -34,8 +34,8 @@ The median time from initial diagnosis to first relapse was 13.8 months (4.2–7
 TEMODAR Capsules were given for the first 5 consecutive days of a 28-day cycle at a starting dose of 150 mg/m2/day.
 If the nadir and day of dosing (Day 29, Day 1 of next cycle) absolute neutrophil count was ≥1.5 × 109/L (1500/µL) and the nadir and Day 29, Day 1 of next cycle platelet count was ≥100 × 109/L (100,000/µL), the TEMODAR dose was increased to 200 mg/m2/day for the first 5 consecutive days of a 28-day cycle.
 
-In the refractory anaplastic astrocytoma population, the overall tumor response rate (CR + PR) was 22% (12/54 patients) and the complete response rate was 9% (5/54 patients).
-The median duration of all responses was 50 weeks (range: 16–114 weeks) and the median duration of complete responses was 64 weeks (range:52–114 weeks).
+In the refractory anaplastic astrocytoma population, the overall tumor response rate (CR+PR) was 22% (12/54 patients) and the complete response rate was 9% (5/54 patients).
+The median duration of all responses was 50 weeks (range: 16–114 weeks) and the median duration of complete responses was 64 weeks (range: 52–114 weeks).
 In this population, progression-free survival at 6 months was 45% (95% CI: 31%–58%) and progression-free survival at 12 months was 29% (95% CI: 16%–42%).
 Median progression-free survival was 4.4 months.
 Overall survival at 6 months was 74% (95% CI: 62%–86%) and 12-month overall survival was 65% (95% CI: 52%–78%).

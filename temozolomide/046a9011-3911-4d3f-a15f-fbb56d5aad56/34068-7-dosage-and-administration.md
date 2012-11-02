@@ -154,7 +154,7 @@ TABLE 6: Suggested Capsule Combinations Based on Daily Dose in Adults
 
 TEMODAR Capsules:
 
-In clinical trials, TEMODAR was administered under both fasting and nonfasting conditions; however, absorption is affected by food [see Clinical Pharmacology (12)], and consistency of administration with respect to food is recommended.
+In clinical trials, TEMODAR was administered under both fasting and nonfasting conditions; however, absorption is affected by food [see Clinical Pharmacology (12.3)], and consistency of administration with respect to food is recommended.
 There are no dietary restrictions with TEMODAR.
 To reduce nausea and vomiting, TEMODAR should be taken on an empty stomach.
 Bedtime administration may be advised.

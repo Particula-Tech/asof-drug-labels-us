@@ -54,7 +54,7 @@ Clinical studies of temozolomide did not include sufficient numbers of subjects 
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-In the anaplastic astrocytoma study population, patients 70 years of age or older had a higher incidence of Grade 4 neutropenia and Grade 4 thrombocytopenia (2/8; 25%, P=0.31 and 2/10; 20%, P=0.09, respectively) in the first cycle of therapy than patients under 70 years of age [see Warnings and Precautions (5) and Adverse Reactions (6)].
+In the anaplastic astrocytoma study population, patients 70 years of age or older had a higher incidence of Grade 4 neutropenia and Grade 4 thrombocytopenia (2/8; 25%, P=0.31 and 2/10; 20%, P=0.09, respectively) in the first cycle of therapy than patients under 70 years of age [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 
 In newly diagnosed patients with glioblastoma multiforme, the adverse reaction profile was similar in younger patients (<65 years) vs. older (≥65 years).
 
