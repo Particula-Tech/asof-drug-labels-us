@@ -35,7 +35,7 @@ Cardiovascular: In the randomized comparison of metoprolol and placebo described
 
 |  | Metoprolol | Placebo |
 | --- | --- | --- |
-| Hypotension (systolic BP < 90 mm Hg) | 27.4% | 23.2% |
+| Hypotension (systolic BP < 90 mmHg) | 27.4% | 23.2% |
 | Bradycardia (heart rate <40 beats/min) | 15.9% | 6.7% |
 | Second- or third-degree heart block | 4.7% | 4.7% |
 | First-degree heart block (P-R ≥0.26 sec) | 5.3% | 1.9% |

@@ -10,7 +10,7 @@ Potential signs and symptoms associated with overdosage with metoprolol are brad
 ## Treatment
 
 There is no specific antidote.
-In general, patients with acute or recent myocardial infarction may be more hemodynamically unstable than other patients and should be treated accordingly (see WARNINGS: Myocardial Infarction ).
+In general, patients with acute or recent myocardial infarction may be more hemodynamically unstable than other patients and should be treated accordingly (see WARNINGS, Myocardial Infarction ).
 On the basis of the pharmacologic actions of metoprolol, the following general measures should be employed: Elimination of the Drug: Gastric lavage should be performed.
 Bradycardia: Atropine should be administered.
 If there is no response to vagal blockade, isoproterenol should be administered cautiously.

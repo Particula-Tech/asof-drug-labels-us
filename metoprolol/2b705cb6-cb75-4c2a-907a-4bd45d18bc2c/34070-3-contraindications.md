@@ -6,7 +6,6 @@ Metoprolol tartrate tablets are contraindicated in sinus bradycardia, heart bloc
 Hypersensitvity to metoprolol and related derivatives, or to any of the excipients; hypersensitivity to other beta-blockers (cross sensitivity between beta-blockers can occur).
 Sick-sinus syndrome.
 Severe peripheral arterial circulatory disorders.
-Pheochromocytoma (see WARNINGS ).
 
 ## Myocardial Infarction
 

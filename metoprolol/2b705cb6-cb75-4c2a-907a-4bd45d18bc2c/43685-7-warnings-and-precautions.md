@@ -14,6 +14,32 @@ At the first sign or symptom of impending cardiac failure, patients should be fu
 The response should be observed closely.
 If cardiac failure continues, despite adequate digitalization and diuretic therapy, metoprolol should be withdrawn.
 
+### Bronchospastic Diseases
+
+PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS, including metoprolol.
+Because of its relative beta1 selectivity, however, metoprolol may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
+Since beta1 selectivity is not absolute, a beta2-stimulating agent should be administered concomitantly, and the lowest possible dose of metoprolol tartrate should be used.
+In these circumstances it would be prudent initially to administer metoprolol in smaller doses three times daily, instead of larger doses two times daily, to avoid the higher plasma levels associated with the longer dosing interval (see DOSAGE AND ADMINISTRATION).
+
+### Major Surgery
+
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anes­thesia and surgical procedures.
+
+### Diabetes and Hypoglycemia
+
+Metoprolol should be used with caution in diabetic patients if a beta-blocking agent is required.
+Beta-blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
+
+### Pheochromocytoma
+
+If metoprolol is used in the setting of pheochromocytoma, it should be given in combination with an alpha blocker, and only after the alpha blocker has been initiated.
+Administration of beta-blockers alone in the setting of pheochromocytoma has been associated with a paradoxical increase in blood pressure due to the attenuation of beta-mediated vasodilatation in skeletal muscle.
+
+### Thyrotoxicosis
+
+Beta-adrenergic blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
+Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta-blockade, which might precipitate a thyroid storm.
+
 ## Myocardial Infarction
 
 ### Cardiac Failure
@@ -82,7 +108,7 @@ Some inhalation anesthetics may enhance the cardiodepressant effect of beta-bloc
 
 Potent inhibitors of the CYP2D6 enzyme may increase the plasma concentration of metoprolol.
 Strong inhibition of CYP2D6 would mimic the pharmacokinetics of CYP2D6 poor metabolizer (see Pharmacokinetics section).
-Caution should therefore be exercised when co-administering potent CYP2D6 inhibitors with metoprolol.
+Caution should therefore be exercised when coadministering potent CYP2D6 inhibitors with metoprolol.
 Known clinically significant potent inhibitors of CYP2D6 are antidepressants such as fluoxetine, paroxetine or bupropion, antipsychotics such as thioridazine, antiarrhythmics such as quinidine or propafenone, antiretrovirals such as ritonavir, antihistamines such as diphenhydramine, antimalarials such as hydroxychloroquine or quinidine, antifungals such as terbinafine and medications for stomach ulcers such as cimetidine.
 
 ### Clonidine
