@@ -21,7 +21,7 @@ While there is no body of evidence available to answer the question of how long 
 No additional benefit was demonstrated for doses above 20 mg twice daily.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
-## 2.2 Bipolar I Disorder
+## 2.2 Bipolar I Disorder (Acute Mixed or Manic Episodes and Maintenance Treatment as an Adjunct to Lithium or Valproate)
 
 Acute Treatment of Manic or Mixed Episodes
 

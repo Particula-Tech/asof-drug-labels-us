@@ -7,7 +7,7 @@ Based upon the pharmacodynamic and pharmacokinetic profile of ziprasidone, possi
 
 ## 7.1 Metabolic Pathway
 
-Approximately two-thirds of ziprasidone is metabolized via reduction by aldehyde oxidase.
+Approximately two-thirds of ziprasidone is metabolized via a combination of chemical reduction by glutathione and enzymatic reduction by aldehyde oxidase.
 There are no known clinically relevant inhibitors or inducers of aldehyde oxidase.
 Less than one-third of ziprasidone metabolic clearance is mediated by cytochrome P450 catalyzed oxidation.
 

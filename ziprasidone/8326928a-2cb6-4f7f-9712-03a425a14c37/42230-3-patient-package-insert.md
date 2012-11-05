@@ -169,4 +169,9 @@ GEODON is a prescription medicine and only your doctor can decide if it is right
 If you have any questions or want more information about GEODON, talk with your doctor or pharmacist.
 You can also visit www.geodon.com.
 
-LAB-0273-17.0
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com
+
+LAB-0272-5.0
+
+October 2012

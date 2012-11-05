@@ -12,7 +12,7 @@ Whether ziprasidone will cause torsade de pointes or increase the rate of sudden
 Geodon is indicated for the treatment of schizophrenia.
 The efficacy of oral ziprasidone was established in four short-term (4- and 6-week) controlled trials of adult schizophrenic inpatients and in one maintenance trial of stable adult schizophrenic inpatients [see Clinical Studies (14.1)].
 
-## 1.2 Bipolar I Disorder
+## 1.2 Bipolar I Disorder (Acute Mixed or Manic Episodes and Maintenance Treatment as an Adjunct to Lithium or Valproate)
 
 Geodon is indicated as monotherapy for the acute treatment of manic or mixed episodes associated with bipolar I disorder.
 Efficacy was established in two 3-week monotherapy studies in adult patients.
@@ -23,7 +23,7 @@ Efficacy was established in a maintenance trial in adult patients.
 The efficacy of Geodon as monotherapy for the maintenance treatment of bipolar I disorder has not been systematically evaluated in controlled clinical trials.
 [see Clinical Studies (14.2)].
 
-## 1.3 Acute Agitation in Schizophrenic Patients
+## 1.3 Acute Treatment of Agitation in Schizophrenia
 
 GEODON intramuscular is indicated for the treatment of acute agitation in schizophrenic patients for whom treatment with ziprasidone is appropriate and who need intramuscular antipsychotic medication for rapid control of agitation.
 The efficacy of intramuscular ziprasidone for acute agitation in schizophrenia was established in single day controlled trials of agitated schizophrenic inpatients.

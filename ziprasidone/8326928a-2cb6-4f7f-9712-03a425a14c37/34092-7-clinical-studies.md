@@ -31,7 +31,7 @@ The results of the oral ziprasidone trials in schizophrenia follow:
   There were insufficient data to examine population subsets based on age and race.
   Examination of population subsets based on gender did not reveal any differential responsiveness.
 
-## 14.2 Bipolar I Disorder
+## 14.2 Bipolar I Disorder (Acute Mixed or Manic Episodes and Maintenance Treatment as an Adjunct to Lithium or Valproate)
 
 Acute Manic and Mixed Episodes Associated with Bipolar I Disorder
 
@@ -61,7 +61,7 @@ Ziprasidone was superior to placebo in increasing the time to recurrence of a mo
 The types of relapse events observed included depressive, manic, and mixed episodes.
 Depressive, manic, and mixed episodes accounted for 53%, 34%, and 13%, respectively, of the total number of relapse events in the study.
 
-## 14.3 Acute Agitation in Schizophrenic Patients
+## 14.3 Acute Treatment of Agitation in Schizophrenia
 
 The efficacy of intramuscular ziprasidone in the management of agitated schizophrenic patients was established in two short-term, double-blind trials of schizophrenic subjects who were considered by the investigators to be "acutely agitated" and in need of IM antipsychotic medication.
 In addition, patients were required to have a score of 3 or more on at least 3 of the following items of the PANSS: anxiety, tension, hostility and excitement.

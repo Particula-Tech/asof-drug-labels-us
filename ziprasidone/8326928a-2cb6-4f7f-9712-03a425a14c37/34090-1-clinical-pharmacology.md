@@ -37,14 +37,14 @@ The in vitro plasma protein binding of ziprasidone was not altered by warfarin o
 Thus, the potential for drug interactions with ziprasidone due to displacement is minimal.
 
 Metabolism and Elimination: Ziprasidone is extensively metabolized after oral administration with only a small amount excreted in the urine (<1%) or feces (<4%) as unchanged drug.
-Ziprasidone is primarily cleared via three metabolic routes to yield four major circulating metabolites, benzisothiazole (BITP) sulphoxide, BITP-sulphone, ziprasidone sulphoxide, and S-methyl-dihydroziprasidone.
+Ziprasidone is primarily cleared via three metabolic routes to yield four major circulating metabolites, benzisothiazole (BITP) sulphoxide, BITP-sulphone, ziprasidone sulphoxide, and S-methyldihydroziprasidone.
 Approximately 20% of the dose is excreted in the urine, with approximately 66% being eliminated in the feces.
 Unchanged ziprasidone represents about 44% of total drug-related material in serum.
-In vitro studies using human liver subcellular fractions indicate that S-methyl-dihydroziprasidone is generated in two steps.
-The data indicate that the reduction reaction is mediated by aldehyde oxidase and the subsequent methylation is mediated by thiol methyltransferase.
+In vitro studies using human liver subcellular fractions indicate that S-methyldihydroziprasidone is generated in two steps.
+These studies indicate that the reduction reaction is mediated primarily by chemical reduction by glutathione as well as by enzymatic reduction by aldehyde oxidase and the subsequent methylation is mediated by thiol methyltransferase.
 In vitro studies using human liver microsomes and recombinant enzymes indicate that CYP3A4 is the major CYP contributing to the oxidative metabolism of ziprasidone.
 CYP1A2 may contribute to a much lesser extent.
-Based on in vivo abundance of excretory metabolites, less than one-third of ziprasidone metabolic clearance is mediated by cytochrome P450 catalyzed oxidation and approximately two-thirds via reduction by aldehyde oxidase.
+Based on in vivo abundance of excretory metabolites, less than one-third of ziprasidone metabolic clearance is mediated by cytochrome P450 catalyzed oxidation and approximately two-thirds via reduction.
 There are no known clinically relevant inhibitors or inducers of aldehyde oxidase.
 
 Intramuscular Pharmacokinetics
