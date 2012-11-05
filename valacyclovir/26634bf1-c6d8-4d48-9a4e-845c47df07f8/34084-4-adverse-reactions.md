@@ -49,12 +49,12 @@ Incidence (%) of Laboratory Abnormalities in Herpes Zoster and Genital Herpes St
 
 ## 6.2 Clinical Trials Experience in Pediatric Patients
 
-Sixty-five of these pediatric patients, 12 to < 18 years of age, received oral tablets for 1 to 2 days for treatment of cold sores.
+Sixty-five pediatric patients, 12 to < 18 years of age, received oral tablets for 1 to 2 days for treatment of cold sores.
 The frequency, intensity, and nature of clinical adverse reactions and laboratory abnormalities were similar to those seen in adults.
 
 Pediatric Patients 12 to < 18 Years of Age (Cold Sores): In clinical studies for the treatment of cold sores, the adverse reactions reported by adolescent patients receiving valacyclovir hydrochloride 2 grams twice daily for 1 day, or valacyclovir hydrochloride 2 grams twice daily for 1 day followed by 1 gram twice daily for 1 day (n = 65, across both dosing groups), or placebo (n = 30), respectively, included headache (17%, 3%) and nausea (8%, 0%).
 
-Labeling describing additional clinical trial adverse reactions in pediatric patients (ages of 1 month to ≤ 12 years) is approved for GlaxoSmithKline’s Valtrex® Caplets.
+Labeling describing additional clinical trial adverse reactions in pediatric patients (ages of 1 month to ≤ 12 years) is approved for GlaxoSmithKline’s Valtrex ® Caplets.
 However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of those adverse reactions is not approved for this valacyclovir HCL tablet product.
 
 ## 6.3 Postmarketing Experience

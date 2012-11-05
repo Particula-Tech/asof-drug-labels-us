@@ -8,7 +8,7 @@ Valacyclovir is an antiviral drug [see Clinical Pharmacology (12.4)].
 
 The pharmacokinetics of valacyclovir and acyclovir after oral administration of valacyclovir hydrochloride have been investigated in 14 volunteer studies involving 283 adults.
 
-Labeling describing use of valacyclovir in pediatric patients with chickenpox (ages 1 month to < 12 years) is approved for GlaxoSmithKline’s Valtrex® Caplets.
+Labeling describing use of valacyclovir in pediatric patients with chickenpox (ages 1 month to < 12 years) is approved for GlaxoSmithKline’s Valtrex ® Caplets.
 However, due to GlaxoSmithKline’s marketing exclusivity rights, that additional pediatric information is not approved for this valacyclovir HCL tablet product.
 
 Pharmacokinetics in Adults:Absorption and Bioavailability: After oral administration, valacyclovir hydrochloride is rapidly absorbed from the gastrointestinal tract and nearly completely converted to acyclovir and L-valine by first-pass intestinal and/or hepatic metabolism.
@@ -56,7 +56,7 @@ Specific Populations:Renal Impairment: Reduction in dosage is recommended in pat
 Following administration of valacyclovir hydrochloride to volunteers with ESRD, the average acyclovir half-life is approximately 14 hours.
 During hemodialysis, the acyclovir half-life is approximately 4 hours.
 Approximately one third of acyclovir in the body is removed by dialysis during a 4-hour hemodialysis session.
-Apparent plasma clearance of acyclovir in dialysis patients was 86.3 ± 21.3 mL/min/1.73 m2 compared with 679.16 ± 162.76 mL/min/1.73 m2 in healthy volunteers.
+Apparent plasma clearance of acyclovir in dialysis patients was 86.3 ± 21.3 mL/min/1.73 m 2 compared with 679.16 ± 162.76 mL/min/1.73 m2 in healthy volunteers.
 
 Hepatic Impairment: Administration of valacyclovir hydrochloride to patients with moderate (biopsy-proven cirrhosis) or severe (with and without ascites and biopsy-proven cirrhosis) liver disease indicated that the rate but not the extent of conversion of valacyclovir to acyclovir is reduced, and the acyclovir half-life is not affected.
 Dosage modification is not recommended for patients with cirrhosis.
@@ -67,7 +67,7 @@ Geriatrics: After single-dose administration of 1 gram of valacyclovir hydrochlo
 The pharmacokinetics of acyclovir following single- and multiple-dose oral administration of valacyclovir hydrochloride in geriatric volunteers varied with renal function.
 Dose reduction may be required in geriatric patients, depending on the underlying renal status of the patient [see Dosage and Administration (2.4), Use in Specific Populations (8.5), (8.6)].
 
-Labeling describing additional pharmacokinetic studies with valacyclovir HCL in pediatric patients (ages of 1 month to < 12 years) is approved for GlaxoSmithKline’s Valtrex® Caplets.
+Labeling describing additional pharmacokinetic studies with valacyclovir HCL in pediatric patients (ages of 1 month to < 12 years) is approved for GlaxoSmithKline’s Valtrex ® Caplets.
 However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of those pharmacokinetic studies is not approved for this valacyclovir HCL tablet product.
 
 Drug Interactions: When valacyclovir hydrochloride is coadministered with antacids, cimetidine and/or probenicid, digoxin, or thiazide diuretics in patients with normal renal function, the effects are not considered to be of clinical significance (see below).

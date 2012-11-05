@@ -39,7 +39,7 @@ Recurrence Rates in Immunocompetent Adults at 6 and 12 Months
 
 | Outcome | 6 Months |  |  | 12 Months |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Valacyclovirhydrochloride 1 gram once daily (n = 269) | Oral acyclovir 400 mg twice daily (n = 267) | Placebo (n = 134) | Valacyclovirhydrochloride1 gram once daily (n = 269) | Oral acyclovir 400 mg twice daily (n = 267) | Placebo (n = 134) |  |
+| Valacyclovir hydrochloride 1 gram once daily (n = 269) | Oral acyclovir 400 mg twice daily (n = 267) | Placebo (n = 134) | Valacyclovir hydrochloride1 gram once daily (n = 269) | Oral acyclovir 400 mg twice daily (n = 267) | Placebo (n = 134) |  |
 | Recurrence free | 55% | 54% | 7% | 34% | 34% | 4% |
 | Recurrences | 35% | 36% | 83% | 46% | 46% | 85% |
 | Unknown* | 10% | 10% | 10% | 19% | 19% | 10% |
@@ -49,14 +49,14 @@ Subjects with 9 or fewer recurrences per year showed comparable results with val
 
 In a second study, 293 HIV-infected adults on stable antiretroviral therapy with a history of 4 or more recurrences of ano-genital herpes per year were randomized to receive either valacyclovir hydrochloride 500 mg twice daily (n = 194) or matching placebo (n = 99) for 6 months.
 The median duration of recurrent genital herpes in enrolled subjects was 8 years, and the median number of recurrences in the year prior to enrollment was 5.
-Overall, the median prestudy HIV-1 RNA was 2.6 log10 copies/mL.
+Overall, the median prestudy HIV-1 RNA was 2.6 log 10 copies/mL.
 Among patients who received valacyclovir hydrochloride, the prestudy median CD4+ cell count was 336 cells/mm3; 11% had < 100 cells/mm3, 16% had 100 to 199 cells/mm3, 42% had 200 to 499 cells/mm3, and 31% had ≥ 500 cells/mm3.
 Outcomes for the overall study population are shown in Table 6.
 
 Table 6.
 Recurrence Rates in HIV-Infected Adults at 6 Months
 
-| Outcome | Valacyclovirhydrochloride500 mg twice daily (n = 194) | Placebo (n = 99) |
+| Outcome | Valacyclovir hydrochloride500 mg twice daily (n = 194) | Placebo (n = 99) |
 | --- | --- | --- |
 | Recurrence free | 65% | 26% |
 | Recurrences | 17% | 57% |
@@ -75,7 +75,7 @@ The efficacy results are summarized in Table 7.
 Table 7.
 Percentage of Susceptible Partners Who Acquired HSV-2 Defined by the Primary and Selected Secondary Endpoints
 
-| Endpoint | Valacyclovirhydrochloride* (n = 743) | Placebo (n = 741) |
+| Endpoint | Valacyclovir hydrochloride* (n = 743) | Placebo (n = 741) |
 | --- | --- | --- |
 | Symptomatic HSV-2 acquisition | 4 (0.5%) | 16 (2.2%) |
 | HSV-2 seroconversion | 12 (1.6%) | 24 (3.2%) |
@@ -92,5 +92,5 @@ In patients greater than 50 years of age, the median time to cessation of new le
 In patients less than 50 years of age, no difference was found with respect to the duration of pain after healing (post-herpetic neuralgia) between the recipients of valacyclovir hydrochloride and placebo.
 In patients greater than 50 years of age, among the 83% who reported pain after healing (post-herpetic neuralgia), the median duration of pain after healing [95% confidence interval] in days was: 40 [31, 51], 43 [36, 55], and 59 [41, 77] for 7-day valacyclovir hydrochloride, 14-day valacyclovir hydrochloride, and 7-day oral acyclovir, respectively.
 
-Labeling describing clinical studies of valacyclovir HCL in pediatric patients with chickenpox (ages 2 to ≤ 18 years) for the treatment of chickenpox is approved for GlaxoSmithKline’s Valtrex® Caplets.
+Labeling describing clinical studies of valacyclovir HCL in pediatric patients with chickenpox (ages 2 to ≤ 18 years) for the treatment of chickenpox is approved for GlaxoSmithKline’s Valtrex ® Caplets.
 However, due to GlaxoSmithKline’s marketing exclusivity rights, a description of those clinical studies is not approved for this valacyclovir HCL tablet product.

@@ -15,7 +15,7 @@ Animal reproduction studies performed at oral doses that provided up to 10 and 7
 
 ## 8.3 Nursing Mothers
 
-Following oral administration of a 500 mg dose of valacyclovir hydrochloride to 5 nursing mothers, peak acyclovir concentrations (Cmax) in breast milk ranged from 0.5 to 2.3 times (median 1.4) the corresponding maternal acyclovir serum concentrations.
+Following oral administration of a 500 mg dose of valacyclovir hydrochloride to 5 nursing mothers, peak acyclovir concentrations (C max) in breast milk ranged from 0.5 to 2.3 times (median 1.4) the corresponding maternal acyclovir serum concentrations.
 The acyclovir breast milk AUC ranged from 1.4 to 2.6 times (median 2.2) maternal serum AUC.
 A 500 mg maternal dosage of valacyclovir hydrochloride twice daily would provide a nursing infant with an oral acyclovir dosage of approximately 0.6 mg/kg/day.
 This would result in less than 2% of the exposure obtained after administration of a standard neonatal dose of 30 mg/kg/day of intravenous acyclovir to the nursing infant.
@@ -35,9 +35,9 @@ The efficacy and safety of valacyclovir have not been established in pediatric p
 - < 18 years of age with herpes zoster
 - for suppressive therapy following neonatal HSV infection.
 
-In infants 1 month to < 3 months of age, mean acyclovir exposures resulting from a 25 mg/kg dose were higher (Cmax: ↑30%, AUC: ↑60%) than acyclovir exposures following a 1 gram dose of valacyclovir in adults.
+In infants 1 month to < 3 months of age, mean acyclovir exposures resulting from a 25 mg/kg dose were higher (C max: ↑30%, AUC: ↑60%) than acyclovir exposures following a 1 gram dose of valacyclovir in adults.
 
-Labeling describing pediatric use information in pediatric patients with chickenpox (ages 2 to ≤18 years) and additional pharmacokinetic studies in pediatric patients (ages 3 months to < 12 years) treated with valacyclovir HCL is approved for GlaxoSmithKline’s Valtrex® Caplets.
+Labeling describing pediatric use information in pediatric patients with chickenpox (ages 2 to ≤18 years) and additional pharmacokinetic studies in pediatric patients (ages 3 months to < 12 years) treated with valacyclovir HCL is approved for GlaxoSmithKline’s Valtrex ® Caplets.
 However, due to GlaxoSmithKline’s marketing exclusivity rights, that additional pediatric information is not approved for this valacyclovir HCL tablet product.
 
 ## 8.5 Geriatric Use
