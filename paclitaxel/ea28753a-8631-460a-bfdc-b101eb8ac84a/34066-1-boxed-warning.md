@@ -1,6 +1,6 @@
 # WARNING
 
-Paclitaxel Injection should be administered under the supervision of a physician experienced in the use of cancer chemotherapeutic agents.
+Paclitaxel Injection, USP should be administered under the supervision of a physician experienced in the use of cancer chemotherapeutic agents.
 Appropriate management of complications is possible only when adequate diagnostic and treatment facilities are readily available.
 
 Anaphylaxis and severe hypersensitivity reactions characterized by dyspnea and hypotension requiring treatment, angioedema, and generalized urticaria have occurred in 2%-4% of patients receiving paclitaxel in clinical trials.

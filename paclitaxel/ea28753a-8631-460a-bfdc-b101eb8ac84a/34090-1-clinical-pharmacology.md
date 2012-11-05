@@ -10,7 +10,8 @@ The later phase is due, in part, to a relatively slow efflux of paclitaxel from 
 
 Pharmacokinetic parameters of paclitaxel following 3- and 24-hour infusions of paclitaxel at dose levels of 135 and 175 mg/m2 were determined in a Phase 3 randomized study in ovarian cancer patients and are summarized in the following table:
 
-Table 1: Summary of Pharmakokinetic Parameters – Mean Values
+Table 1.
+Summary of Pharmacokinetic Parameters – Mean Values
 
 | Dose (mg/m2) | Infusion Duration (h) | N (patients) | Cmax (ng/mL) | AUC (0-∞) (ng•h/mL) | T-HALF (h) | CLT (L/h/m2) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -26,10 +27,11 @@ The mean apparent volume of distribution at steady state, with the 24-hour infus
 
 The pharmacokinetics of paclitaxel were also evaluated in adult cancer patients who received single doses of 15-135 mg/m2 given by 1-hour infusions (n=15), 30-275 mg/m2 given by 6-hour infusions (n=36), and 200-275 mg/m2 given by 24-hour infusions (n=54) in Phase 1 & 2 studies.
 Values for CLT and volume of distribution were consistent with the findings in the Phase 3 study.
+The pharmacokinetics of paclitaxel in patients with AIDS-related Kaposi’s sarcoma have not been studied.
 
-In vitro studies of binding to human serum proteins, using paclitaxel concentrations ranging from 0.1 to 50 µg/mL, indicate that between 89%-98% of drug is bound; the presence of cimetidine, ranitidine, dexamethasone, or diphenhydramine did not affect protein binding of paclitaxel.
+In vitro studies of binding to human serum proteins, using paclitaxel concentrations ranging from 0.1 to 50 μg/mL, indicate that between 89%-98% of drug is bound; the presence of cimetidine, ranitidine, dexamethasone, or diphenhydramine did not affect protein binding of paclitaxel.
 
-After intravenous administration of 15-275 mg/m2 doses of Paclitaxel Injection as 1-, 6-, or 24-hour infusions, mean values for cumulative urinary recovery of unchanged drug ranged from 1.3% to 12.6% of the dose, indicating extensive non-renal clearance.
+After intravenous administration of 15-275 mg/m2 doses of Paclitaxel Injection, USP as 1-, 6-, or 24-hour infusions, mean values for cumulative urinary recovery of unchanged drug ranged from 1.3% to 12.6% of the dose, indicating extensive non-renal clearance.
 In five patients administered a 225 or 250 mg/m2 dose of radiolabeled paclitaxel as a 3-hour infusion, a mean of 71% of the radioactivity was excreted in the feces in 120 hours, and 14% was recovered in the urine.
 Total recovery of radioactivity ranged from 56% to 101% of the dose.
 Paclitaxel represented a mean of 5% of the administered radioactivity recovered in the feces, while metabolites, primarily 6α-hydroxypaclitaxel, accounted for the balance.
@@ -38,6 +40,11 @@ In vitro, the metabolism of paclitaxel to 6α-hydroxypaclitaxel was inhibited by
 Testosterone, 17α-ethinyl estradiol, retinoic acid, and quercetin, a specific inhibitor of CYP2C8, also inhibited the formation of 6α-hydroxypaclitaxel in vitro.
 The pharmacokinetics of paclitaxel may also be altered in vivo as a result of interactions with compounds that are substrates, inducers, or inhibitors of CYP2C8 and/or CYP3A4.
 (See PRECAUTIONS: Drug Interactions section.)
+
+The disposition and toxicity of paclitaxel 3-hour infusion were evaluated in 35 patients with varying degrees of hepatic function.
+Relative to patients with normal bilirubin, plasma paclitaxel exposure in patients with abnormal serum bilirubin ≤2 times upper limit of normal (ULN) administered 175 mg/m2 was increased, but with no apparent increase in the frequency or severity of toxicity.
+In 5 patients with serum total bilirubin >2 times ULN, there was a statistically nonsignificant higher incidence of severe myelosuppression, even at a reduced dose (110 mg/m2), but no observed increase in plasma exposure.
+(See PRECAUTIONS: Hepatic and DOSAGE AND ADMINISTRATION.)
 The effect of renal or hepatic dysfunction on the disposition of paclitaxel has not been investigated.
 
 Possible interactions of paclitaxel with concomitantly administered medications have not been formally investigated.
