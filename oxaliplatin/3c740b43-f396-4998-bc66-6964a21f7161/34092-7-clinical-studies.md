@@ -87,13 +87,13 @@ Table 18 - Summary of DFS analysis – ITT analysis Data cut off for disease fre
 | Disease-free survival % [95% CI]Disease-free survival at 5 years | 73.3 [70.7, 76.0] | 67.4 [64.6, 70.2] |
 | Hazard ratio [95% CI]A hazard ratio of less than 1.00 favors Eloxatin + Infusional 5-fluorouracil/leucovorin | 0.80 [0.68, 0.93] |  |
 | Stratified Logrank test | p=0.003 |  |
-| Stage III (Dukes’ C) |  |  |
+| Stage III (Dukes' C) |  |  |
 | N | 672 | 675 |
 | Number of events –relapse or death (%) | 226 (33.6) | 271 (40.1) |
 | Disease-free survival % [95% CI] | 66.4 [62.7, 70.0] | 58.9 [55.2, 62.7] |
 | Hazard ratio [95% CI] | 0.78 [0.65, 0.93] |  |
 | Logrank test | p=0.005 |  |
-| Stage II (Dukes’ B2) |  |  |
+| Stage II (Dukes' B2) |  |  |
 | N | 451 | 448 |
 | Number of events – relapse or death (%) | 78 (17.3) | 89 (19.9) |
 | Disease-free survival % [95% CI] | 83.7 [80.2, 87.1] | 79.9 [76.2, 83.7] |
@@ -117,11 +117,11 @@ Table 19 - Summary of OS analysis - ITT analysisData cut off for overall surviva
 | N | 1123 | 1123 |
 | Number of death events (%) | 245 (21.8) | 283 (25.2) |
 | Hazard ratioA hazard ratio of less than 1.00 favors Eloxatin + Infusional 5-fluorouracil/leucovorin[95% CI] | 0.84 [0.71, 1.00] |  |
-| Stage III (Dukes’ C) |  |  |
+| Stage III (Dukes' C) |  |  |
 | N | 672 | 675 |
 | Number of death events (%) | 182 (27.1) | 220 (32.6) |
 | Hazard ratio [95% CI] | 0.80 [0.65, 0.97] |  |
-| Stage II (Dukes’ B2) |  |  |
+| Stage II (Dukes' B2) |  |  |
 | N | 451 | 448 |
 | Number of death events (%) | 63 (14.0) | 63 (14.1) |
 | Hazard ratio [95% CI] | 1.00 [0.70, 1.41] |  |

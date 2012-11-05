@@ -56,15 +56,7 @@ In patients with severe renal impairment, the initial recommended ELOXATIN dose 
 
 ## 2.3 Preparation of Infusion Solution
 
-Powder for solution for infusion Reconstitution or final dilution must never be performed with a sodium chloride solution or other chloride containing solutions.
-The lyophilized powder is reconstituted by adding 10 mL (for the 50 mg vial) or 20 mL (for the 100 mg vial) of Water for Injection, USP or 5% Dextrose Injection, USP.
-Do not administer the reconstituted solution without further dilution.
-The reconstituted solution must be further diluted in an infusion solution of 250–500 mL of 5% Dextrose Injection, USP.
-After reconstitution in the original vial, the solution may be stored up to 24 hours under refrigeration [2–8°C (36–46°F)].
-After final dilution with 250–500 mL of 5% Dextrose Injection, USP, the shelf life is 6 hours at room temperature [20–25°C (68–77°F)] or up to 24 hours under refrigeration [2–8°C (36–46°F)].
-ELOXATIN is not light sensitive.
-
-Concentrate for solution for infusion Do not freeze and protect from light the concentrated solution.
+Do not freeze and protect from light the concentrated solution.
 A final dilution must never be performed with a sodium chloride solution or other chloride-containing solutions.
 The solution must be further diluted in an infusion solution of 250-500 mL of 5% Dextrose Injection, USP.
 After dilution with 250-500 mL of 5% Dextrose Injection, USP, the shelf life is 6 hours at room temperature [20-25°C (68-77°F)] or up to 24 hours under refrigeration [2-8°C (36-46°F)].

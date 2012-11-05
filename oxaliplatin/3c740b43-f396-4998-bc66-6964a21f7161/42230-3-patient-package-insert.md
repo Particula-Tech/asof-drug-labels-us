@@ -1,8 +1,6 @@
-# 17.2 FDA-Approved Patient Labeling
-
 Patient Information
 
-ELOXATIN ® (eh-LOX-ah-tin) (OXALIplatin) powder, for solution for intravenous use and ELOXATIN® (eh-LOX-ah-tin) (OXALIplatin) concentrate, for solution for intravenous use
+ELOXATIN® (eh-LOX-ah-tin) (OXALIplatin) concentrate, for solution for intravenous use
 
 Read this Patient Information leaflet carefully before you start receiving ELOXATIN.
 There may be new information.
@@ -37,7 +35,7 @@ Call your doctor right away if you have any of the following signs or symptoms o
 - sweating
 - chest pain
 
-See “What are the possible side effects of ELOXATIN?” for information about other serious side effects.
+See "What are the possible side effects of ELOXATIN?" for information about other serious side effects.
 
 What is ELOXATIN?
 
@@ -128,7 +126,7 @@ What are the possible side effects of ELOXATIN?
 ELOXATIN can cause serious side effects, including:
 
 - Serious allergic reactions.
-  See “What is the most important information I should know about ELOXATIN?”
+  See "What is the most important information I should know about ELOXATIN?"
 - Nerve problems.
   ELOXATIN can affect how your nerves work and make you feel.
   Tell your doctor right away if you get any signs of nerve problems listed below:
@@ -149,7 +147,7 @@ ELOXATIN can cause serious side effects, including:
   The nerve problems can also start up to 2 days after treatment.
   If you develop nerve problems, the amount of ELOXATIN in your next treatment may be changed or ELOXATIN treatment may be stopped.
 - 
-- For information on ways to lessen or help with the nerve problems, see the end of this leaflet, “How can I reduce the side effects caused by cold temperatures?”
+- For information on ways to lessen or help with the nerve problems, see the end of this leaflet, "How can I reduce the side effects caused by cold temperatures?"
 - 
 - 
 - 
@@ -161,11 +159,11 @@ ELOXATIN can cause serious side effects, including:
   Your doctor will do blood tests to check your liver.
 - Harm to an unborn baby.
   ELOXATIN may cause harm to your unborn baby.
-  See “What should I tell my doctor before treatment with ELOXATIN?”
+  See "What should I tell my doctor before treatment with ELOXATIN?"
 
 The most common side effects of ELOXATIN include:
 
-- Decreased blood counts: ELOXATIN can cause a decrease in neutrophils (a type of white blood cells important in fighting in bacterial infections), red blood cells (blood cells that carry oxygen to the tissues), and platelets (important for clotting and to control bleeding).
+- Decreased blood counts: ELOXATIN can cause a decrease in neutrophils (a type of white blood cells important in fighting bacterial infections), red blood cells (blood cells that carry oxygen to the tissues), and platelets (important for clotting and to control bleeding).
 - High blood pressure (hypertension)
 - Infection Call your doctor right away if you get any of the following signs of infection: ▪fever (temperature of 100.5 F or greater)▪chills or shivering▪pain on swallowing▪sore throat ▪cough that brings up mucus▪burning or pain on urination▪redness or swelling at intravenous site
 
@@ -225,4 +223,4 @@ You can ask your doctor or pharmacist for information about ELOXATIN that is wri
 What are the ingredients in ELOXATIN?
 Active ingredient: oxaliplatin
 
-Powder for solution for infusion inactive ingredients: lactose monohydrate Concentrate for solution for infusion inactive ingredients: water for injection
+Concentrate for solution for infusion inactive ingredients: water for injection

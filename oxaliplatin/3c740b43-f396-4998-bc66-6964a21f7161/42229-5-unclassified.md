@@ -1,7 +1,5 @@
-Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807
+Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-Eloxatin is also manufactured by Ben Venue Laboratories Cleveland, OH 44146 0568 for sanofi-aventis U.S. LLC
+© 2012 sanofi-aventis U.S. LLC
 
-© 2011 sanofi-aventis U.S. LLC
-
-Revised: December 2011
+Revised: October 2012
