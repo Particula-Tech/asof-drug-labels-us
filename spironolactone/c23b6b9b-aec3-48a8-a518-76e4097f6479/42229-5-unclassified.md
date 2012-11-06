@@ -1,3 +1,3 @@
 Manufactured by: MUTUAL PHARMACEUTICAL COMPANY INC, Philadelphia, PA 19124 USA
 
-Rev 02, May 2009
+Rev 04, September 2012
