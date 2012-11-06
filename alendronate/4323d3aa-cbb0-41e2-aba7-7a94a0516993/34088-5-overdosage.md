@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 Significant lethality after single oral doses was seen in female rats and mice at 552 mg/kg (3256 mg/m 2 ) and 966 mg/kg (2898 mg/m 2 ), respectively.
 In males, these values were slightly higher, 626 and 1280 mg/kg, respectively.
