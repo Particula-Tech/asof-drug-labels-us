@@ -13,7 +13,7 @@ Mild-to-moderate infections of the upper-respiratory tract due to susceptible st
 
 Venereal infections—Syphilis, yaws, bejel, and pinta.
 
-Medical Conditions in which Penicillin G Benzathine Therapy is Indicated as Prophylaxis:
+Medical Conditions in which Penicillin G Benzathine Therapy is indicated as Prophylaxis:
 
 Rheumatic fever and/or chorea—Prophylaxis with penicillin G benzathine has proven effective in preventing recurrence of these conditions.
 It has also been used as follow-up prophylactic therapy for rheumatic heart disease and acute glomerulonephritis.

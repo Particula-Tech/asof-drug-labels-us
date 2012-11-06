@@ -28,9 +28,19 @@
    Assoc.
    J., 112:395, 1975.
 9. SCHANZER, H. et al: Accidental intra-arterial injection of penicillin G. JAMA, 242:1289, 1979.
-
-Rx only
-
-Prescribing Information as of September 2009.
+10. Clinical and Laboratory Standards Institute (CLSI).
+    Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard - 9th ed.
+    CLSI document M07-A9.
+    CLSI, 950 West Valley Rd., Suite 2500, Wayne, PA 19087, 2012
+11. CLSI.
+    Performance Standards for Antimicrobial Susceptibility Testing; 22nd Informational Supplement.
+    CLSI document M100-S22, 2012.
+12. CLSI.
+    Performance Standards for Antimicrobial Disk Susceptibility Tests, Approved Standard – 11th ed.
+    CLSI document M02-A11, 2012
 
 Manufactured and Distributed by: King Pharmaceuticals, Inc., Bristol, TN 37620
+
+LAB-0588-2.0
+
+September 2012

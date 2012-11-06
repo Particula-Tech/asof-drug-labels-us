@@ -18,13 +18,66 @@ In neonates and young infants and in individuals with impaired kidney function, 
 
 ## Microbiology
 
+### Mechanism of Action
+
 Penicillin G exerts a bactericidal action against penicillin-susceptible microorganisms during the stage of active multiplication.
-It acts through the inhibition of biosynthesis of cell-wall mucopeptide.
-It is not active against the penicillinase-producing bacteria, which include many strains of staphylococci.
+It acts through the inhibition of biosynthesis of cell-wall peptidoglycan, rendering the cell wall osmotically unstable.
 
-The following in vitro data are available, but their clinical significance is unknown.
-Penicillin G exerts high in vitro activity against staphylococci (except penicillinase-producing strains), streptococci (Groups A, C, G, H, L, and M), and pneumococci.
-Other organisms susceptible to penicillin G are Neisseria gonorrhoeae, Corynebacterium diphtheriae, Bacillus anthracis, Clostridia species, Actinomyces bovis, Streptobacillus moniliformis, Listeria monocytogenes, and Leptospira species.
-Treponema pallidum is extremely susceptible to the bactericidal action of penicillin G.
+### Mechanism of Resistance
 
-Susceptibility Test: If the Kirby-Bauer method of disc susceptibility is used, a 20-unit penicillin disc should give a zone greater than 28 mm when tested against a penicillin-susceptible bacterial strain.
+Penicillin is not active against penicillinase-producing bacteria or against organisms resistant to beta-lactams because of alterations in the penicillin-binding proteins.
+Resistance to penicillin G has not been reported in Streptococcus pyogenes.
+
+Penicillin has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
+
+Gram-positive bacteria
+
+Beta-hemolytic streptococci (groups A, B, C, G, H, L and M)
+
+Other microorganisms
+
+Treponema pallidum
+
+Treponema carateum
+
+### Susceptibility Test Methods
+
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug product for treatment.
+
+#### Dilution Techniques
+
+Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
+These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+The MICs should be determined using a standardized procedure.
+The MIC values should be interpreted according to the following criteria:
+
+#### Diffusion techniques
+
+Quantitative methods that require the measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
+The zone size should be determined using a standardized test method.
+This procedure uses paper discs impregnated with 10 units penicillin to test the susceptibility of microorganisms to penicillin G benzathine injectable solution.
+The disc diffusion interpretive criteria are provided in the table below.
+
+Streptococcus pyogenes (Group A)
+
+Susceptibility Test Interpretive Criteria for Penicillin
+
+| Pathogen | Susceptible (S) | Intermediate (I) | Resistant (R) | Susceptible (S) | Intermediate (I) | Resistant (R) |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | MIC (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
+| Streptococcus pyogenesSusceptibility testing of penicillins for treatment of β–hemolytic streptococcal infections need not be performed routinely, because non-susceptible isolates are extremely rare in any β-hemolytic streptococcus and have not been reported from Streptococcus pyogenes. Any β -hemolytic streptococcal isolate found to be non-susceptible to penicillin should be re-identified, retested, and, if confirmed, submitted to a public health authority.,The lack of data precludes defining any other interpretive criteria than 'susceptible'. | ≤ 0.12 | - | - | ≥ 24 | - | - |
+
+#### Quality Control
+
+Standardized susceptibility test procedure require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.
+Standard penicillin powder should provide the range of MIC values noted in the following table.
+For the diffusion technique using the 10 unit penicillin disc, the criteria in the following table should be achieved.
+
+Acceptable Quality Control Ranges for Penicillin
+
+| QC Strain | MIC (mcg/ml) | Disc Diffusion (zone diameter in mm) |
+| --- | --- | --- |
+| Streptococcus pneumoniae ATCC 49619 | 0.25–1 | 24 – 30 |
+| ATCC = American Type Culture Collection |  |  |
