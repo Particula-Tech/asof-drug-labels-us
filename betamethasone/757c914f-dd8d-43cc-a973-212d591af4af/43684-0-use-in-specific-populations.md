@@ -4,10 +4,10 @@
 
 Teratogenic Effects: Pregnancy Category C
 
-Animal reproduction studies have not been conducted with Taclonex Scalp® Topical Suspension.
-Taclonex Scalp® Topical Suspension contains calcipotriene that has been shown to be fetotoxic and betamethasone dipropionate that has been shown to be teratogenic in animals when given systemically.
+Animal reproduction studies have not been conducted with Taclonex® Topical Suspension.
+Taclonex® Topical Suspension contains calcipotriene that has been shown to be fetotoxic and betamethasone dipropionate that has been shown to be teratogenic in animals when given systemically.
 There are no adequate and well-controlled studies in pregnant women.
-Taclonex Scalp® Topical Suspension should be used during pregnancy only if the potential benefit to the patient justifies the potential risk to the fetus.
+Taclonex® Topical Suspension should be used during pregnancy only if the potential benefit to the patient justifies the potential risk to the fetus.
 
 Teratogenicity studies with calcipotriene were performed by the oral route in rats and rabbits.
 In rabbits, increased maternal and fetal toxicity were noted at a dosage of 12 mcg/kg/day (144 mcg/m2/day); a dosage of 36 mcg/kg/day (432 mcg/m2/day) resulted in a significant increase in the incidence of incomplete ossification of the pubic bones and forelimb phalanges of fetuses.
@@ -20,19 +20,18 @@ Betamethasone dipropionate has been shown to be teratogenic in mice and rabbits 
 Those dose levels are lower than the maximum topical dose in man (about 5,950 mcg/m2/day).
 The abnormalities observed included umbilical hernia, exencephaly and cleft palate.
 
-Pregnant women were excluded from the clinical studies conducted with Taclonex Scalp® Topical Suspension.
+Pregnant women were excluded from the clinical studies conducted with Taclonex® Topical Suspension.
 
 ## 8.3 Nursing Mothers
 
 Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
-
 It is not known whether topically administered calcipotriene or corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
-
-Because many drugs are excreted in human milk, caution should be exercised when Taclonex Scalp® Topical Suspension is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when Taclonex® Topical Suspension is administered to a nursing woman.
+The patient should be instructed not to use Taclonex® Topical Suspension on the breast when nursing.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of the use of Taclonex Scalp® Topical Suspension in pediatric patients have not been studied.
+Safety and effectiveness of the use of Taclonex® Topical Suspension in pediatric patients have not been studied.
 Because of a higher ratio of skin surface area to body mass, children under the age of 12 years may be at particular risk of systemic adverse effects when they are treated with topical corticosteroids.
 [See Warnings and Precautions (5.2)]
 
@@ -42,7 +41,14 @@ Manifestations of intracranial hypertension include bulging fontanelles, headach
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients in the controlled clinical studies of Taclonex Scalp® Topical Suspension, 334 were 65 years or older, while 84 were 75 years or older.
+Of the total number of subjects in the controlled clinical studies of Taclonex® Topical Suspension in psoriasis vulgaris on non-scalp areas, 124 were 65 years or older, while 36 were 75 years or older.
+Of the total number of subjects in the controlled clinical studies of Taclonex® Topical Suspension in scalp psoriasis, 334 were 65 years or older, while 84 were 75 years or older.
 
-No overall differences in safety or effectiveness of Taclonex Scalp® Topical Suspension were observed between these patients and younger patients.
+No overall differences in safety or effectiveness of Taclonex® Topical Suspension were observed between subjects in these age ranges versus younger subjects.
 All other reported clinical experience has not identified any differences in response between elderly and younger patients.
+
+## 8.6 Unevaluated Uses
+
+- Safety and efficacy in patients with known or suspected disorders of calcium metabolism have not been evaluated
+- Safety and efficacy in patients with known erythrodermic, exfoliative, or pustular psoriasis have not been evaluated
+- Safety and efficacy in patients with severe renal insufficiency or severe hepatic disorders have not been evaluated
