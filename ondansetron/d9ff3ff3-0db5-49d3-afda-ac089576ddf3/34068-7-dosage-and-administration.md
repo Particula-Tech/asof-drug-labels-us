@@ -1,0 +1,69 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 Prevention of Nausea and Vomiting Associated With Highly Emetogenic Cancer Chemotherapy
+
+Adults
+
+The recommended adult oral dosage of ZUPLENZ (ondansetron) oral soluble film is 24 mg given successively as three 8 mg films administered 30 minutes before the start of single-day highly emetogenic chemotherapy, including cisplatin ≥50 mg/m 2.
+Each ZUPLENZ oral soluble film should be allowed to dissolve completely before administering the next film.
+[see Dosage and Administration (2.6)].
+Multiday, single-dose administration of a 24 mg dosage has not been studied.
+
+Pediatrics
+
+Safety and effectiveness of ZUPLENZ in pediatric patients have not been established for this indication.
+
+## 2.2 Prevention of Nausea and Vomiting Associated With Moderately Emetogenic Cancer Chemotherapy
+
+Adults
+
+The recommended adult oral dosage is one 8 mg ZUPLENZ oral soluble film given twice a day.
+The first dose should be administered 30 minutes before the start of emetogenic chemotherapy, with a subsequent dose 8 hours after the first dose.
+One 8 mg ZUPLENZ oral soluble film should be administered twice a day (every 12 hours) for 1 to 2 days after completion of chemotherapy [see Dosage and Administration (2.6)].
+
+Pediatrics
+
+For pediatric patients 12 years of age and older, the dosage is the same as for adults.
+For pediatric patients 4 through 11 years of age, the dosage is one 4 mg ZUPLENZ oral soluble film given three times a day.
+The first dose should be administered 30 minutes before the start of emetogenic chemotherapy, with subsequent doses 4 and 8 hours after the first dose.
+One 4 mg ZUPLENZ oral soluble film should be administered three times a day (every 8 hours) for 1 to 2 days after completion of chemotherapy [see Dosage and Administration (2.6)].
+
+## 2.3 Prevention of Nausea and Vomiting Associated With Radiotherapy
+
+Adults
+
+The recommended adult oral dosage of ZUPLENZ oral soluble film is one 8 mg film given three times a day [see Dosage and Administration (2.6)].
+
+For total body irradiation, one 8 mg ZUPLENZ oral soluble film should be administered 1 to 2 hours before each fraction of radiotherapy administered each day.
+
+For single high-dose fraction radiotherapy to the abdomen, one 8 mg ZUPLENZ oral soluble film should be administered 1 to 2 hours before radiotherapy, with subsequent doses every 8 hours after the first dose for 1 to 2 days after completion of radiotherapy.
+
+For daily fractionated radiotherapy to the abdomen, one 8 mg ZUPLENZ oral soluble film should be administered 1 to 2 hours before radiotherapy, with subsequent doses every 8 hours after the first dose for each day radiotherapy is given.
+
+Pediatrics
+
+Safety and effectiveness of ZUPLENZ in pediatric patients have not been established for this indication.
+
+## 2.4 Prevention of Postoperative Nausea and/or Vomiting
+
+Adults
+
+The recommended adult oral dosage of ZUPLENZ oral soluble film is 16 mg given successively as two 8 mg films 1 hour before induction of anesthesia.
+Each ZUPLENZ oral soluble film should be allowed to dissolve completely before administering the next film [see Dosage and Administration (2.6)].
+
+Pediatrics
+
+Safety and effectiveness of ZUPLENZ in pediatric patients have not been established for this indication.
+
+## 2.5 Dosage Adjustment for Patients with Impaired Hepatic Function
+
+In patients with severe hepatic impairment (Child-Pugh score of 10 or greater) 2, clearance is reduced and apparent volume of distribution is increased with a resultant increase in plasma half-life [see Clinical Pharmacology (12.3)].
+In such patients, a total daily dose of 8 mg should not be exceeded.
+
+## 2.6 Important Administration Instructions
+
+With dry hands, fold the pouch along the dotted line to expose the tear notch.
+While still folded, tear the pouch carefully along the edge and remove the ZUPLENZ oral soluble film from the pouch.
+Immediately place the film on top of the tongue where it dissolves in 4 to 20 seconds.
+Once the ZUPLENZ oral soluble film is dissolved, swallow with or without liquid [see Clinical Pharmacology (12.3)].
+Wash hands after taking ZUPLENZ.
