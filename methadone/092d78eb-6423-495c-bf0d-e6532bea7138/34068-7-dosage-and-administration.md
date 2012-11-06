@@ -78,13 +78,13 @@ Oral Morphine to Intravenous Methadone Conversion for Chronic Administration
 Table 2.
 Parenteral Morphine to Intravenous Methadone Conversion for Chronic Administration (Derived from Table 1, assuming a 3:1 oral:parenteral morphine ratio)
 
-| Total Daily Baseline Parenteral Morphine Dose | Estimated Daily Parenteral Methadone Requirement as Percent of Total Daily Morphine DoseThe total daily methadone dose derived from the table above may then be divided to reflect the intended dosing schedule (i.e., for administration every 8 hours, divide total daily methadone dose by 3). |
-| --- | --- |
-| 10 mg to 30 mg | 40% to 66% |
-| 30mg to 50 mg | 27% to 66% |
-| 50mg to 100 mg | 22% to 50% |
-| 100 mg to 200 mg | 15% to 34% |
-| 200 mg to 500 mg | 10% to 20% |
+| Total Daily Baseline Parenteral Morphine Dose | Estimated Daily Parenteral Methadone Requirement as Percent of Total Daily Morphine DoseThe total daily methadone dose derived from the table above may then be divided to reflect the intended dosing schedule (i.e., for administration every 8 hours, divide total daily methadone dose by 3). |  |
+| --- | --- | --- |
+| 10 mg to 30 mg | 40% to 66% |  |
+| 30 mg to 50 mg | 27% to 66% |  |
+| 50 mg to 100 mg | 22% to 50% |  |
+| 100 mg to 200 mg | 15% to 34% |  |
+| 200 mg to 500 mg | 10% to 20% |  |
 
 Note: Equianalgesic methadone dosing varies not only between patients, but also within the same patient, depending on baseline morphine (or other opioid) dose.
 Tables 1 and 2 have been included in order to illustrate this concept and to provide a safe starting point for opioid conversion.

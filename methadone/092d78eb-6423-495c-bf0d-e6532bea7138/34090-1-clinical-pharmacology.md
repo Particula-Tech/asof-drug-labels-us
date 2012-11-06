@@ -20,7 +20,7 @@ As with many drugs, absorption into the systemic circulation may vary with subcu
 
 ### Distribution
 
-Methadone is a lipophilic drug and the steady state volume of distribution ranges between 2 -6 L/kg.
+Methadone is a lipophilic drug and the steady state volume of distribution ranges between 2 - 6 L/kg.
 In plasma, methadone is predominantly bound to α1-acid glycoprotein (85% - 90%).
 Methadone is secreted in saliva, breast milk, amniotic fluid and umbilical cord plasma.
 
