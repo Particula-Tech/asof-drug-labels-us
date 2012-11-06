@@ -6,8 +6,9 @@ Glucocorticoids are adrenocortical steroids, both naturally occurring and synthe
 Prednisolone sodium phosphate occurs as white or slightly yellow, friable granules or powder.
 It is freely soluble in water; soluble in methanol; slightly soluble in alcohol and in chloroform; and very slightly soluble in acetone and in dioxane.
 
-The chemical name of prednisolone sodium phosphate is pregna-1, 4-diene-3, 20-dione, 11, 17-dihydroxy-21-(phosphonooxy)-, disodium salt, (11ß)-.
-The empirical formula is C21H27Na2O8P; the molecular weight is 484.39.
+The chemical name of prednisolone sodium phosphate is pregna-1,4-diene-3, 20-dione, 11, 17-dihydroxy-21 -(phosphonooxy)-, disodium salt, (1113)-.
+
+The empirical formula is C21H27Na2OsP; the molecular weight is 484.39.
 Its chemical structure is:
 
 Each orally disintegrating tablet also contains the following inactive ingredients: citric acid, colloidal silicon dioxide, crospovidone, grape flavor, hypromellose, magnesium stearate, mannitol, methacrylate copolymer, microcrystalline cellulose, sodium bicarbonate, sucralose, and sucrose.

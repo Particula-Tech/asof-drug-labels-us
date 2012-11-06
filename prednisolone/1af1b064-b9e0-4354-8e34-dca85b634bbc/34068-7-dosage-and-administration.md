@@ -24,22 +24,14 @@ Patients should be instructed not to remove the tablet from the blister until ju
 The blister pack should then be peeled open, and the orally disintegrating tablet placed on the tongue, where tablets may be swallowed whole as any conventional tablet, or allowed to dissolve in the mouth, with or without the assistance of water.
 Orally disintegrating tablet dosage forms are friable and are not intended to be cut, split, or broken.
 
-Multiple Sclerosis
+Multiple Sclerosis In the treatment of acute exacerbations of multiple sclerosis, daily doses of 200 mg of prednisolone for a week followed by 80 mg every other day for one month have been shown to be effective.
 
-In the treatment of acute exacerbations of multiple sclerosis, daily doses of 200 mg of prednisolone for a week followed by 80 mg every other day for one month have been shown to be effective.
-
-Pediatric
-
-In pediatric patients, the initial dose of Orapred may vary depending on the specific disease entity being treated.
+Pediatric In pediatric patients, the initial dose of Orapred may vary depending on the specific disease entity being treated.
 The range of initial doses is 0.14 to 2 mg/kg/day in three or four divided doses (4 to 60 mg/m2bsa/day).
 
-Nephrotic Syndrome
+Nephrotic Syndrome The standard regimen used to treat nephrotic syndrome in pediatric patients is 60 mg/m2/day given in three divided doses for 4 weeks, followed by 4 weeks of single dose alternate-day therapy at 40 mg/m2/day.
 
-The standard regimen used to treat nephrotic syndrome in pediatric patients is 60 mg/m2/day given in three divided doses for 4 weeks, followed by 4 weeks of single dose alternate-day therapy at 40 mg/m2/day.
-
-Asthma
-
-The National Heart, Lung, and Blood Institute (NHLBI) recommended dosing for systemic prednisone, prednisolone or methylprednisolone in children whose asthma is uncontrolled by inhaled corticosteroids and long-acting bronchodilators is 1-2 mg/kg/day in single or divided doses.
+Asthma The National Heart, Lung, and Blood Institute (NHLBI) recommended dosing for systemic prednisone, prednisolone or methylprednisolone in children whose asthma is uncontrolled by inhaled corticosteroids and long-acting bronchodilators is 1 -2 mg/kg/day in single or divided doses.
 
 It is further recommended that short course, or "burst" therapy, be continued until a child achieves a peak expiratory flow rate of 80% of his or her personal best or symptoms resolve.
 This usually requires 3 to 10 days of treatment, although it can take longer.

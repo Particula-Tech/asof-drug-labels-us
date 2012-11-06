@@ -72,7 +72,7 @@ For the treatment of:
 - Fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate chemotherapy
 - Hypersensitivity pneumonitis
 - Idiopathic bronchiolitis obliterans with organizing pneumonia
-- Idiopathic eosinophilic pneumonias
+- Idiopathic eosinophilia pneumonias
 - Idiopathic pulmonary fibrosis Pneumocystis carinii pneumonia (PCP) associated with hypoxemia occurring in an HIV (+) individual who is also under treatment with appropriate anti-PCP antibiotics
 - Symptomatic sarcoidosis
 

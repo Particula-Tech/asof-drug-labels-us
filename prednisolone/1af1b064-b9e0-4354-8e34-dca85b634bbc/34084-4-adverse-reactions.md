@@ -20,7 +20,7 @@ Metabolic: Negative nitrogen balance due to protein catabolism
 
 Musculoskeletal: Aseptic necrosis of femoral and humeral heads; charcot-like arthropathy, loss of muscle mass; muscle weakness; osteoporosis; pathologic fracture of long bones; steroid myopathy; tendon rupture; vertebral compression fractures
 
-Neurological: Arachnoiditis, convulsions; depression, emotional instability, euphoria, headache; increased intracranial pressure with papilledema (pseudotumor cerebri) usually following discontinuation of treatment; insomnia, meningitis, mood swings, neuritis, neuropathy, paraparesis/paraplegia, paresthesia, personality changes, sensory disturbances, vertigo
+Neurological: Arachnoiditis, convulsions; depression, emotional instability, euphoria, headache; increased intracranial pressure with papilledema (pseudotumor cerebri) usually following discontinuation of treatment; insomnia, meningitis, mood swings, neuritis, neuropathy, paraparesis/ paraplegia, paresthesia, personality changes, sensory disturbances, vertigo
 
 Ophthalmic: Exophthalmos; glaucoma; increased intraocular pressure; posterior subcapsular cataracts
 

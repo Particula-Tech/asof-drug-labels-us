@@ -1,62 +1,27 @@
-# 10 mg Carton
+PRINCIPAL DISPLAY PANEL
 
-Rx only
+Rx only NDC 59630-700-48 Grape Flavor Orapred ODT® (prednisolone sodium phosphate orally disintegrating tablets) Equivalent to prednisolone 10mg
 
-NDC 59630-700-48
+PRINCIPAL DISPLAY PANEL
 
-Grape Flavor
+PROFESSIONAL SAMPLE Not to be Sold Orapred ODT® (prednisolone sodium phosphate orally disintegrating tablets) Equivalent to prednisolone 10mg Rx only NDC 59630-700-48
 
-Orapred ODT®
+PRINCIPAL DISPLAY PANEL
 
-(prednisolone sodium phosphate) orally disintegrating tablets
+Rx only NDC 59630-701-48 Grape Flavor Orapred ODT® (prednisolone sodium phosphate orally disintegrating tablets) Equivalent to prednisolone 15mg
 
-Equivalent to prednisolone 10mg
+PRINCIPAL DISPLAY PANEL
 
-Usual Dosage: See package insert for full prescribing information
+Rx only Professional Sample - Not to be Sold NDC 59630-701-02 Grape Flavor Orapred ODT® (prednisolone sodium phosphate orally disintegrating tablets) Equivalent to prednisolone 15mg
 
-Store at 20° -25°C (68° -77°F).
-Excursions permitted to 15° -30°C (59° -86°F).
-[See USP Controlled Room Temperature].
-Protect from moisture.
+PRINCIPAL DISPLAY PANEL
 
-# 15 mg Carton
+PROFESSIONAL SAMPLE Not to be Sold Orapred ODT® (prednisolone sodium phosphate orally disintegrating tablets) Equivalent to prednisolone 15mgRx only NDC 59630-701-02
 
-Rx only
+PRINCIPAL DISPLAY PANEL
 
-NDC 59630-701-48
+Rx only NDC 59630-702-48 Grape Flavor Orapred ODT® (prednisolone sodium phosphate orally disintegrating tablets) Equivalent to prednisolone 30mg
 
-Grape Flavor
+PRINCIPAL DISPLAY PANEL
 
-Orapred ODT®
-
-(prednisolone sodium phosphate) orally disintegrating tablets
-
-Equivalent to prednisolone 15mg
-
-Usual Dosage: See package insert for full prescribing information
-
-Store at 20° -25°C (68° -77°F).
-Excursions permitted to 15° -30°C (59° -86°F).
-[See USP Controlled Room Temperature].
-Protect from moisture.
-
-# 30 mg Carton
-
-Rx only
-
-NDC 59630-702-48
-
-Grape Flavor
-
-Orapred ODT®
-
-(prednisolone sodium phosphate) orally disintegrating tablets
-
-Equivalent to prednisolon 30mg
-
-Usual Dosage: See package insert for full prescribing information
-
-Store at 20° -25°C (68° -77°F).
-Excursions permitted to 15° -30°C (59° -86°F).
-[See USP Controlled Room Temperature].
-Protect from moisture.
+PROFESSIONAL SAMPLE Not to be Sold Orapred ODT® (prednisolone sodium phosphate orally disintegrating tablets) Equivalent to prednisolone 30mg Rx only NDC 59630-702-48

@@ -23,7 +23,6 @@ The degree to which the dose, route and duration of corticosteroid administratio
 Corticosteroids may mask some signs of infection and may reduce resistance to new infections.
 
 Corticosteroids may exacerbate infections and increase risk of disseminated infection.
-
 The use of Orapred in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
 
 Chickenpox and measles can have a more serious or even fatal course in non-immune children or adults on corticosteroids.
@@ -38,7 +37,6 @@ In such patients, corticosteroid-induced immunosuppression may lead to Strongylo
 Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug reactions.
 
 Corticosteroids may increase risk of reactivation or exacerbation of latent infection.
-
 If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
 During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
 
@@ -54,12 +52,12 @@ These effects are less likely to occur with the synthetic derivatives except whe
 Dietary salt restriction and potassium supplementation may be necessary.
 These agents should be used with caution in patients with hypertension, congestive heart failure, or renal insufficiency.
 
-Literature reports suggest an association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with caution in these patients
+Literature reports suggest an association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with caution in these patients.
 
 ## 5.4 Use in Patients with Gastrointestinal Disorders
 
-There is an increased risk of gastrointestinal (GI) perforation in patients with certain GI disorders.
-Signs of GI perforation, such as peritoneal irritation, may be masked in patients receiving corticosteroids.
+There is an increased risk of gastrointestinal (Gl) perforation in patients with certain Gl disorders.
+Signs of Gl perforation, such as peritoneal irritation, may be masked in patients receiving corticosteroids.
 
 Corticosteroids should be used with caution if there is a probability of impending perforation, abscess or other pyogenic infections; diverticulitis; fresh intestinal anastomoses; and active or latent peptic ulcer.
 
@@ -83,9 +81,7 @@ The use of oral corticosteroids is not recommended in the treatment of optic neu
 Intraocular pressure may become elevated in some individuals.
 If steroid therapy is continued for more than 6 weeks, intraocular pressure should be monitored.
 
-Patients with Ocular Herpes Simplex
-
-Corticosteroids should be used cautiously in patients with ocular herpes simplex because of possible corneal perforation.
+Patients with Ocular Herpes Simplex Corticosteroids should be used cautiously in patients with ocular herpes simplex because of possible corneal perforation.
 Corticosteroids should not be used in active ocular herpes simplex.
 
 ## 5.8 Vaccination
@@ -106,14 +102,12 @@ Growth and development of pediatric patients on prolonged corticosteroid therapy
 
 Prednisolone can cause fetal harm when administered to a pregnant woman.
 Human and animal studies suggest that use of corticosteroids during the first trimester of pregnancy is associated with an increased risk of orofacial clefts, intrauterine growth restriction and decreased birth weight.
-If this drug is used during pregnancy, or if the patient becomes pregnant while using this drug, the patient should be apprised of the potential hazard to the fetus.
-[see Use in Specific Populations (8.1)].
+If this drug is used during pregnancy, or if the patient becomes pregnant while using this drug, the patient should be apprised of the potential hazard to the fetus, [see Use in Specific Populations (8.1)].
 
 ## 5.11 Neuromuscular Effects
 
 Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that they affect the ultimate outcome or natural history of the disease.
-The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect.
-[see Dosage and Administration (3)].
+The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect, [see Dosage and Administration (3)]
 
 An acute myopathy has been observed with the use of high doses of corticosteroids, most often occurring in patients with disorders of neuromuscular transmission (e.g., myasthenia gravis), or in patients receiving concomitant therapy with neuromuscular blocking drugs (e.g., pancuronium).
 This acute myopathy is generalized, may involve ocular and respiratory muscles, and may result in quadriparesis.
