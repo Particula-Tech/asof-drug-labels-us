@@ -17,4 +17,7 @@ Patients should be told that exposure to sunlight and ultraviolet (UV) light sho
 
 Women of childbearing potential should be informed of the potential risks during pregnancy and told that they should use effective contraception prior to initiation of Rapamune therapy, during Rapamune therapy, and for 12 weeks after Rapamune therapy has been stopped [see Use in Specific Populations (8.1)].
 
-LAB-0473-1.0
+This product’s label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
+
+LAB-0473-2.0

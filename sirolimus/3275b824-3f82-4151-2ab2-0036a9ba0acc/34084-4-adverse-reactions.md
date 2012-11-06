@@ -74,7 +74,7 @@ The following adverse reactions were reported less frequently (≥ 3%, but < 20%
 - Musculoskeletal System – Bone necrosis.
 - Respiratory System – Pneumonia, epistaxis.
 - Skin – Melanoma, squamous cell carcinoma, basal cell carcinoma.
-- Urogenital System – Pyelonephritis, decline in renal function (creatinine increased) in long-term combination of cyclosporine with Rapamune [see Warnings and Precautions (5.8)].
+- Urogenital System – Pyelonephritis, decline in renal function (creatinine increased) in long-term combination of cyclosporine with Rapamune [see Warnings and Precautions (5.8)], ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
 
 Less frequently (< 3%) occurring adverse reactions included: lymphoma/post-transplant lymphoproliferative disorder, mycobacterial infections (including M. tuberculosis), pancreatitis, cytomegalovirus (CMV), and Epstein-Barr virus.
 
@@ -191,5 +191,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
   In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of Rapamune.
   The risk may be increased as the sirolimus trough concentration increases [see Warnings and Precautions (5.11)]; pulmonary hemorrhage; pleural effusion; alveolar proteinosis.
 - Skin – Exfoliative dermatitis [see Warnings and Precautions (5.4)].
-- Urogenital – Nephrotic syndrome, proteinuria, focal segmental glomerulosclerosis.
+- Urogenital – Nephrotic syndrome, proteinuria, focal segmental glomerulosclerosis, ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
   Azoospermia has been reported with the use of Rapamune and has been reversible upon discontinuation of Rapamune in most cases.

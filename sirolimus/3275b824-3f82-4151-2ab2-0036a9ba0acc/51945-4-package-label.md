@@ -76,53 +76,45 @@ NDC 0008-1040-05
 
 100 Tablets
 
-Rapamune®
+Rapamune® (sirolimus)
 
-(sirolimus)
+Rx Only
 
 0.5 mg Tablets
 
 For oral use only.
 
-Wyeth®
-
-Wyeth Pharmaceuticals Inc.
+Pfizer
 
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 0.5 MG TABLETS - REDIPAK®BLISTER
 
-NDC 00008-1040-10
+NDC 0008-1040-10
 
-Rapamune®
+Rapamune® (sirolimus) Tablet
 
-(sirolimus)
+0.5 mg
 
-Tablet 0.5 mg
+Wyeth Sub of Pfizer Inc Phila, PA 19101
 
-Wyeth®
+13096000
+
+EXP AND LOT AREA
 
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 0.5 MG TABLETS – CARTON
 
-NDC 00008-1040-10
+NDC 0008-1040-10
 
-Rapamune®
+Rx Only
 
-(sirolimus)
+Rapamune® (sirolimus)
 
 0.5 mg Tablets
 
-For oral use only
+For oral use only.
 
-Rx only
+DISPENSE WITH MEDICATION GUIDE ENCLOSED OR PROVIDED SEPARATELY
 
-10 blister cards of
-
-10 tablets each
-
-(100 tablets total)
-
-Wyeth®
-
-Wyeth Pharmaceuticals Inc.
+10 blister cards of 10 tablets each (100 tablets total)
 
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG TABLETS – LABEL
 
@@ -130,45 +122,45 @@ NDC 0008-1041-05
 
 100 Tablets
 
-Rapamune®
+Rapamune® (sirolimus)
 
-(sirolimus)
+Rx Only
 
 1 mg Tablets
 
 For oral use only.
 
-Wyeth Pharmaceuticals Inc.
-
-Rx only
-
-Wyeth®
+Pfizer
 
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG TABLETS - REDIPAK®BLISTER
 
 NDC 0008-1041-10
 
-Rapamune®
+Rapamune® (sirolimus) Tablet
 
-(sirolimus)
+1 mg
 
-Tablet, 1 mg
+Wyeth Sub of Pfizer Inc Phila, PA 19101
+
+13096300
+
+EXP AND LOT AREA
 
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1 MG TABLETS – CARTON
 
 NDC 0008-1041-10
 
-Rapamune®
+Rx Only
 
-(sirolimus)
+Rapamune® (sirolimus)
 
 1 mg Tablets
 
 For oral use only.
 
-Rx only
+DISPENSE WITH MEDICATION GUIDE ENCLOSED OR PROVIDED SEPARATELY
 
-Wyeth®
+10 blister cards of 10 tablets each (100 tablets total)
 
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 2 MG TABLETS – LABEL
 
@@ -176,16 +168,12 @@ NDC 0008-1042-05
 
 100 Tablets
 
-Rapamune®
+Rapamune® (sirolimus)
 
-(sirolimus)
+Rx Only
 
 2 mg Tablets
 
 For oral use only.
 
-Rx only
-
-Wyeth Pharmaceuticals Inc.
-
-Wyeth®
+Pfizer
