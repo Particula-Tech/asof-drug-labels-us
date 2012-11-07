@@ -17,7 +17,7 @@ HPA-axis function was assessed by 24-hour serial serum cortisol levels prior to 
 Patients were domiciled for the 24-hour serum cortisol assessments.
 The change from baseline in the 24-hour serum cortisol weighted mean for QNASL Nasal Aerosol and placebo after 6 weeks of treatment were compared.
 Baseline geometric mean serum cortisol weighted mean values were similar in the QNASL Nasal Aerosol 320 mcg/day and placebo treatment groups (9.04 and 8.45 mcg/dL, respectively).
-After 6 weeks of treatment, the geometric mean values were 8.18 and 8.01 mcg/dL, respectively with a change from baseline in 24-hour serum cortisol weighted mean for the QNASL Nasal Aerosol and placebo groups of 0.86 and 0.44, resulting in a difference of 0.42.
+After 6 weeks of treatment, the geometric mean values were 8.18 and 8.01 mcg/dL, respectively, with a change from baseline in 24-hour serum cortisol weighted mean for the QNASL Nasal Aerosol and placebo groups of 0.86 and 0.44, resulting in a difference of 0.42.
 The geometric mean ratio for QNASL Nasal Aerosol 320 mcg/day to placebo was 0.96 (95% CI: 0.87, 1.06).
 For comparison, in the positive-control (prednisone) treatment group, the geometric mean ratio for placebo to placebo/prednisone 10 mg/day was 3.17 (95% CI: 2.68, 3.74).
 

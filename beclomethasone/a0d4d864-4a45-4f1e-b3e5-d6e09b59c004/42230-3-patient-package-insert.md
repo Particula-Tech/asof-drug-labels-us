@@ -1,4 +1,4 @@
-# Patient Information
+# PATIENT INFORMATION AND INSTRUCTIONS FOR USE LEAFLET
 
 QNASL (kyoo nay' zel) (beclomethasone dipropionate) Nasal Aerosol
 
@@ -8,7 +8,7 @@ Read this Patient Information before you start using QNASL Nasal Aerosol and eac
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-What is QNASL Nasal Aerosol
+What is QNASL Nasal Aerosol?
 
 QNASL Nasal Aerosol is a prescription medicine that treats seasonal nasal and year-round nasal allergy symptoms in adults and adolescents 12 years of age and older.
 
@@ -57,13 +57,13 @@ How should I use QNASL Nasal Aerosol?
   Do not spray it in your eyes or mouth
 - Use QNASL Nasal Aerosol exactly as your healthcare provider tells you to use it.
   Do not use more of your medicine or take it more often than your healthcare provider tells you
-- QNASL Nasal Aerosol must be primed before you use it the first time and if you do not use it for 7 or more days in a row.
-  Do not prime your QNASL Nasal Aerosol everyday
+- QNASL Nasal Aerosol must be primed before you use it for the first time and if you do not use it for 7 or more days in a row.
+  Do not prime your QNASL Nasal Aerosol every day
 - Your QNASL Nasal Aerosol has a spray counter which should read 120 sprays after your 4 initial priming sprays
 - Do not use your QNASL Nasal Aerosol after the spray counter reads 0.
   You may not get the right amount of medicine
 - The usual dose of QNASL Nasal Aerosol is 2 sprays in each nostril, 1 time a day.
-  You should not use more than a total 4 sprays per day
+  You should not use more than a total of 4 sprays per day
 - You will get the best results if you keep using QNASL Nasal Aerosol regularly each day.
   If your symptoms do not improve or get worse, call your healthcare provider
 
@@ -132,7 +132,7 @@ How should I store QNASL Nasal Aerosol?
 - Do not throw the QNASL Nasal Aerosol canister into a fire or an incinerator
 - Safely throw away medicine that is out of date or no longer needed
 
-Keep QNASL Nasal Aerosol and all medicines out of reach of children.
+Keep QNASL Nasal Aerosol and all medicines out of the reach of children.
 
 General information about the safe and effective use of QNASL Nasal Aerosol
 
@@ -151,7 +151,7 @@ What should I know about allergic rhinitis?
 
 "Rhinitis" means inflammation of the lining of the nose.
 Allergic rhinitis is sometimes called "hay fever."
-Allergic rhinitis can be caused by allergies to pollen, animal dander, house dust mite, mold spores and other things.
+Allergic rhinitis can be caused by allergies to pollen, animal dander, house dust mite, mold spores, and other things.
 If you have allergic rhinitis, your nose becomes stuffy, runny, and itchy.
 You may also sneeze a lot.
 You may also have red, itchy, watery eyes or an itchy throat; or blocked, itchy ears.
@@ -162,7 +162,7 @@ Active ingredient: beclomethasone dipropionate
 
 Inactive ingredient: propellant HFA-134a and ethanol
 
-Instructions for Use
+INSTRUCTIONS FOR USE
 
 QNASL (kyoo nay' zel) (beclomethasone dipropionate) Nasal Aerosol
 
@@ -238,7 +238,7 @@ How to know when to stop using your QNASL Aerosol device
 - Do not use your QNASL Nasal Aerosol device when 0 is shown in the spray counter window (See Figure I).
 
 - Throw away your QNASL Nasal Aerosol device when the spray counter reaches 0
-- Do not throw your QNASL Nasal Aerosol canister in a fire or an incinerator
+- Do not throw your QNASL Nasal Aerosol canister into a fire or an incinerator
 - Talk with your health care provider before your supply of QNASL Nasal Aerosol runs out to see if you should get a refill
 
 This PPI and Instructions for Use has been approved by the U.S. Food and Drug Administration.
@@ -251,7 +251,7 @@ By: 3M Drug Delivery Systems
 
 Northridge, CA 91324
 
-©2012, Teva Respiratory, LLC
+©2012 Teva Respiratory, LLC
 
 All rights reserved.
 
