@@ -63,7 +63,7 @@ The majority of these cases are foreign-sourced and a relationship to lansoprazo
 Because these reactions were reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events are listed below by COSTART body system.
 
-Body as a Whole – anaphylactic/anaphylactoid reactions; Digestive System - hepatotoxicity, pancreatitis, vomiting; Hemic and Lymphatic System - agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura; Metabolism and Nutritional Disorders – hypomagnesemia; Musculoskeletal System - bone fracture,myositis; Skin and Appendages – severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal); Special Senses - speech disorder; Urogenital System – interstitial nephritis, urinary retention.
+Body as a Whole – anaphylactic/anaphylactoid reactions; Digestive System - hepatotoxicity, pancreatitis, vomiting; Hemic and Lymphatic System - agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura; Infections and Infestations – Clostridium difficile associated diarrhea; Metabolism and Nutritional Disorders – hypomagnesemia; Musculoskeletal System - bone fracture,myositis; Skin and Appendages – severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal); Special Senses - speech disorder; Urogenital System – interstitial nephritis, urinary retention.
 
 ## 6.3 Combination Therapy with Amoxicillin and Clarithromycin
 
@@ -81,7 +81,7 @@ Dual Therapy: Lansoprazole delayed-release capsules /amoxicillin
 The most frequently reported adverse reactions for patients who received lansoprazole delayed-release capsules three times daily plus amoxicillin three times daily dual therapy were diarrhea (8%) and headache (7%).
 No treatment-emergent adverse reactions were observed at significantly higher rates with lansoprazole delayed-release capsules three times daily plus amoxicillin three times daily dual therapy than with lansoprazole delayed-release capsules alone.
 
-For information on adverse reactions with amoxicillin or clarithromycin, refer to their full prescribing information, ADVERSE REACTIONS sections
+For information about adverse reactions with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole delayed-release capsules, refer to the ADVERSE REACTIONS section of their package inserts.
 
 ## 6.4 Laboratory Values
 
@@ -96,4 +96,4 @@ None of these patients who received lansoprazole delayed-release capsules report
 
 In clinical trials using combination therapy with lansoprazole delayed-release capsules plus amoxicillin and clarithromycin, and lansoprazole delayed-release capsules plus amoxicillin, no increased laboratory abnormalities particular to these drug combinations were observed.
 
-For information on laboratory value changes with amoxicillin or clarithromycin, refer to their full prescribing information, ADVERSE REACTIONS sections.
+For information about laboratory value changes with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole delayed-release capsules, refer to the ADVERSE REACTIONS section of their package inserts.

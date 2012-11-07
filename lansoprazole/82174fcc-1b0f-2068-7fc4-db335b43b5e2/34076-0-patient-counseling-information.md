@@ -1,10 +1,14 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling]
+[See FDA-Approved Medication Guide and Patient Instructions for Use]
 
 Patient should be informed of the following:
 
-Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.3)].
+- Advise patients to immediately report and seek care for diarrhea that does not improve.
+  This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.2)].
+- Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.4)].
+
+Information for Patients
 
 Lansoprazole is available as a capsule and is available in 15 mg and 30 mg strengths.
 Directions for use specific to the route and available methods of administration is presented below.
