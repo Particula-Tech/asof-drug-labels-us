@@ -26,6 +26,6 @@ Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
 Copyright 2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: January 2012
+Revised: October 2012
 
-IT13006NA252012 10004142/09
+IT13006QJ312012 10004142/11

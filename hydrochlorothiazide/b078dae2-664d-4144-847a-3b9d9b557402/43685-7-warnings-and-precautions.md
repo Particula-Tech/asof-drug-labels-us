@@ -156,6 +156,9 @@ Potassium Supplements: A patient receiving MICARDIS HCT tablets should be told n
 
 ### Telmisartan
 
+Aliskiren: Do not co-administer aliskiren with MICARDIS HCT in patients with diabetes.
+Avoid use of aliskiren with MICARDIS HCT in patients with renal impairment (GFR <60 mL/min).
+
 Digoxin: When telmisartan was co-administered with digoxin, median increases in digoxin peak plasma concentration (49%) and in trough concentration (20%) were observed.
 It is, therefore, recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing telmisartan to avoid possible over- or under-digitalization.
 
