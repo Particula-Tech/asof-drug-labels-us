@@ -1,4 +1,4 @@
-# Medication Guide Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
+# Medication Guide - Anafranil™ (clomipramine hydrochloride) Capsules USP Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
 Read the Medication Guide that comes with you or your family member's antidepressant medicine.
 This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
@@ -22,8 +22,27 @@ What is the most important information I should know about antidepressant medici
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
-| thoughts about suicide or dyingattempts to commit suicidenew or worse depressionnew or worse anxietyfeeling very agitated or restlesspanic attackstrouble sleeping (insomnia) | new or worse irritabilityacting aggressive, being angry, or violentacting on dangerous impulsesan extreme increase in activity and talking (mania)other unusual changes in behavior or mood |
-| --- | --- |
+- thoughts about suicide or dying
+- attempts to commit suicide
+- new or worse depression
+- new or worse anxiety
+- feeling very agitated or restless
+- panic attacks
+- trouble sleeping (insomnia)
+- new or worse irritability
+- acting aggressive, being angry, or violent
+- acting on dangerous impulses
+- an extreme increase in activity and talking (mania)
+- other unusual changes in behavior or mood
+
+Who should not take Anafranil?
+
+Do not take Anafranil if you:
+
+- take a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
+  - Do not take an MAOI within 2 weeks of stopping Anafranil unless directed to do so by your physician.
+  - Do not start Anafranil if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 What else do I need to know about antidepressant medicines?
 
@@ -44,14 +63,14 @@ What else do I need to know about antidepressant medicines?
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Mallinckrodt Inc. Hazelwood, MO 63042 USA
+Anafranil is a trademark of Mallinckrodt LLC.
 
-[05/2009]
+Manufactured by Patheon Inc. Whitby, Ontario, Canada L1N 5Z5 for Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-COVIDIEN™
+Rev 10/2012
 
 Mallinckrodt
 
-Rev 06/2009
+COVIDIEN™

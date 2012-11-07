@@ -26,3 +26,21 @@ While there are no systematic studies that answer the question of how long to co
 Although the efficacy of Anafranil after 10 weeks has not been documented in controlled trials, patients have been continued in therapy under double-blind conditions for up to 1 year without loss of benefit.
 However, dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for treatment.
 During maintenance, the total daily dose may be given once daily at bedtime.
+
+## Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with Anafranil.
+Conversely, at least 14 days should be allowed after stopping Anafranil before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
+
+## Use of Anafranil With Other MAOIs, Such as Linezolid or Methylene Blue
+
+Do not start Anafranil in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
+
+In some cases, a patient already receiving Anafranil therapy may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, Anafranil should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for two weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with Anafranil may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
+
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with Anafranil is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
