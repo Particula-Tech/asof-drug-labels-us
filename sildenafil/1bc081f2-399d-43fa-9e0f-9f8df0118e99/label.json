@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA091479"
+  ],
+  "inn": "sildenafil",
+  "labeler": "Torrent Pharmaceuticals Limited",
+  "package_ndcs": [
+    "13668-185-05",
+    "13668-185-30",
+    "13668-185-51",
+    "13668-185-74",
+    "13668-185-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sildenafil citrate",
+      "name": "SILDENAFIL CITRATE"
+    }
+  ],
+  "setid": "1bc081f2-399d-43fa-9e0f-9f8df0118e99",
+  "source": "dailymed"
+}
