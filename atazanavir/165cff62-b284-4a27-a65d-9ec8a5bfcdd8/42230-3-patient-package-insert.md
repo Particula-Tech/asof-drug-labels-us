@@ -192,7 +192,7 @@ The following medicines may require your healthcare provider to monitor your the
   There is an increased chance of serious side effects if you take REYATAZ with this cholesterol-lowering medicine.
 - Medicines for abnormal heart rhythm: CORDARONE® (amiodarone), lidocaine, quinidine (also known as CARDIOQUIN®, QUINIDEX®, and others).
 - MYCOBUTIN® (rifabutin, an antibiotic used to treat tuberculosis).
-- BUPRENEX®, SUBUTEX®, SUBOXONE® (buprenorphine or buprenorphine/naloxone, used to treat pain and addiction to narcotic painkillers).
+- BUPRENEX®, SUBUTEX®, SUBOXONE®, (buprenorphine or buprenorphine/naloxone, used to treat pain and addiction to narcotic painkillers).
 - VASCOR® (bepridil, used for chest pain).
 - COUMADIN® (warfarin).
 - Tricyclic antidepressants such as ELAVIL® (amitriptyline), NORPRAMIN® (desipramine), SINEQUAN® (doxepin), SURMONTIL® (trimipramine), TOFRANIL® (imipramine), or VIVACTIL® (protriptyline).
@@ -259,4 +259,4 @@ Other brands listed are the trademarks of their respective owners and are not tr
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1246226B2 Rev March 2012
+1246226B3 Rev November 2012
