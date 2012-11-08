@@ -42,7 +42,7 @@ A large degree of intersubject variability was noted.
 Three patients with more severe cirrhosis had a more substantial decrease in venlafaxine clearance (about 90%) compared to normal subjects.
 
 In a second study, venlafaxine was administered orally and intravenously in normal (n = 21) subjects, and in Child-Pugh A (n = 8) and Child-Pugh B (n = 11) subjects (mildly and moderately impaired, respectively).
-Venlafaxine oral bioavailability was increased 2-3 fold, oral elimination half-life was approximately twice as long and oral clearance was reduced by more than half, compared to normal subjects.
+Venlafaxine oral bioavailability was increased 2 to 3 fold, oral elimination half-life was approximately twice as long and oral clearance was reduced by more than half, compared to normal subjects.
 In hepatically impaired subjects, ODV oral elimination half-life was prolonged by about 40%, while oral clearance for ODV was similar to that for normal subjects.
 A large degree of intersubject variability was noted.
 
@@ -50,9 +50,9 @@ Dosage adjustment is necessary in these hepatically impaired patients (see DOSAG
 
 ### Renal Disease
 
-In a renal impairment study, venlafaxine elimination half-life after oral administration was prolonged by about 50% and clearance was reduced by about 24% in renally impaired patients (GFR = 10-70 mL/min), compared to normal subjects.
+In a renal impairment study, venlafaxine elimination half-life after oral administration was prolonged by about 50% and clearance was reduced by about 24% in renally impaired patients (GFR = 10 to 70 mL/min), compared to normal subjects.
 In dialysis patients, venlafaxine elimination half-life was prolonged by about 180% and clearance was reduced by about 57% compared to normal subjects.
-Similarly, ODV elimination half-life was prolonged by about 40% although clearance was unchanged in patients with renal impairment (GFR = 10-70 mL/min) compared to normal subjects.
+Similarly, ODV elimination half-life was prolonged by about 40% although clearance was unchanged in patients with renal impairment (GFR = 10 to 70 mL/min) compared to normal subjects.
 In dialysis patients, ODV elimination half-life was prolonged by about 142% and clearance was reduced by about 56%, compared to normal subjects.
 A large degree of intersubject variability was noted.
 
@@ -61,8 +61,8 @@ Dosage adjustment is necessary in these patients (see DOSAGE AND ADMINISTRATION)
 ## CLINICAL TRIALS
 
 The efficacy of venlafaxine hydrochloride tablets as a treatment for major depressive disorder was established in 5 placebo-controlled, short-term trials.
-Four of these were 6-week trials in adult outpatients meeting DSM-III or DSM-III-R criteria for major depression: two involving dose titration with venlafaxine hydrochloride tablets in a range of 75 to 225 mg/day (t.i.d. schedule), the third involving fixed venlafaxine hydrochloride tablets doses of 75, 225, and 375 mg/day (t.i.d. schedule), and the fourth involving doses of 25, 75, and 200 mg/day (b.i.d. schedule).
-The fifth was a 4-week study of adult inpatients meeting DSM-III-R criteria for major depression with melancholia whose venlafaxine hydrochloride tablets doses were titrated in a range of 150 to 375 mg/day (t.i.d. schedule).
+Four of these were 6 week trials in adult outpatients meeting DSM-III or DSM-III-R criteria for major depression: two involving dose titration with venlafaxine hydrochloride tablets in a range of 75 to 225 mg/day (t.i.d. schedule), the third involving fixed venlafaxine hydrochloride tablets doses of 75, 225, and 375 mg/day (t.i.d. schedule), and the fourth involving doses of 25, 75, and 200 mg/day (b.i.d. schedule).
+The fifth was a 4 week study of adult inpatients meeting DSM-III-R criteria for major depression with melancholia whose venlafaxine hydrochloride tablets doses were titrated in a range of 150 to 375 mg/day (t.i.d. schedule).
 In these 5 studies, venlafaxine hydrochloride tablets were shown to be significantly superior to placebo on at least 2 of the following 3 measures: Hamilton Depression Rating Scale (total score), Hamilton depressed mood item, and Clinical Global Impression-Severity of Illness rating.
 Doses from 75 to 225 mg/day were superior to placebo in outpatient studies and a mean dose of about 350 mg/day was effective in inpatients.
 Data from the 2 fixed-dose outpatient studies were suggestive of a dose-response relationship in the range of 75 to 225 mg/day.
@@ -72,9 +72,9 @@ While there were no efficacy studies focusing specifically on an elderly populat
 Overall, approximately 2/3 of all patients in these trials were women.
 Exploratory analyses for age and gender effects on outcome did not suggest any differential responsiveness on the basis of age or sex.
 
-In one longer-term study, adult outpatients meeting DSM-IV criteria for major depressive disorder who had responded during an 8-week open trial on venlafaxine hydrochloride extended-release capsules (75, 150, or 225 mg, qAM) were randomized to continuation of their same venlafaxine hydrochloride extended-release capsules dose or to placebo, for up to 26 weeks of observation for relapse.
+In one longer-term study, adult outpatients meeting DSM-IV criteria for major depressive disorder who had responded during an 8 week open trial on venlafaxine hydrochloride extended-release capsules (75, 150, or 225 mg, qAM) were randomized to continuation of their same venlafaxine hydrochloride extended-release capsules dose or to placebo, for up to 26 weeks of observation for relapse.
 Response during the open phase was defined as a CGI Severity of Illness item score of ≤ 3 and a HAM-D-21 total score of ≤ 10 at the day 56 evaluation.
-Relapse during the double-blind phase was defined as follows: (1) a reappearance of major depressive disorder as defined by DSM-IV criteria and a CGI Severity of Illness item score of ≥ 4 (moderately ill), (2) 2 consecutive CGI Severity of Illness item scores of ≥ 4, or (3) a final CGI Severity of Illness item score of ≥ 4 for any patient who withdrew from the study for any reason.
+Relapse during the doubleblind phase was defined as follows: (1) a reappearance of major depressive disorder as defined by DSM-IV criteria and a CGI Severity of Illness item score of ≥ 4 (moderately ill), (2) 2 consecutive CGI Severity of Illness item scores of ≥ 4, or (3) a final CGI Severity of Illness item score of ≥ 4 for any patient who withdrew from the study for any reason.
 Patients receiving continued venlafaxine hydrochloride extended-release capsules treatment experienced significantly lower relapse rates over the subsequent 26 weeks compared with those receiving placebo.
 
 In a second longer-term trial, adult outpatients meeting DSM-III-R criteria for major depression, recurrent type, who had responded (HAM-D-21 total score ≤ 12 at the day 56 evaluation) and continued to be improved [defined as the following criteria being met for days 56 through 180: (1) no HAM-D-21 total score ≥ 20; (2) no more than 2 HAM-D-21 total scores > 10; and (3) no single CGI Severity of Illness item score ≥ 4 (moderately ill)] during an initial 26 weeks of treatment on venlafaxine hydrochloride tablets (100 to 200 mg/day, on a b.i.d. schedule) were randomized to continuation of their same venlafaxine hydrochloride tablets dose or to placebo.

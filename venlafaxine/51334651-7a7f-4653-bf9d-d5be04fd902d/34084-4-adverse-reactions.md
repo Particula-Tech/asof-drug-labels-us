@@ -17,12 +17,11 @@ The more common events (≥ 1%) associated with discontinuation and considered t
 | Nausea | 6% | 1% |
 | Urogenital |  |  |
 | Abnormal | 3% | − |
-| ejaculationPercentages based on the number of males. |  |  |
+| ejaculation— Less than 1% |  |  |
 | Other |  |  |
 | Headache | 3% | 1% |
 | Asthenia | 2% | − |
 | Sweating | 2% | − |
-| — Less than 1% |  |  |
 
 ## Incidence in Controlled Trials
 
@@ -32,7 +31,7 @@ The most commonly observed adverse events associated with the use of venlafaxine
 
 ### Adverse Events Occurring at an Incidence of 1% or More Among Venlafaxine Hydrochloride Tablets -Treated Patients
 
-The table that follows enumerates adverse events that occurred at an incidence of 1% or more, and were more frequent than in the placebo group, among venlafaxine hydrochloride tablets-treated patients who participated in short-term (4- to 8-week) placebo-controlled trials in which patients were administered doses in a range of 75 to 375 mg/day.
+The table that follows enumerates adverse events that occurred at an incidence of 1% or more, and were more frequent than in the placebo group, among venlafaxine hydrochloride tablets-treated patients who participated in short-term (4 to 8 week) placebo-controlled trials in which patients were administered doses in a range of 75 to 375 mg/day.
 This table shows the percentage of patients in each group who had at least one episode of an event at some time during their treatment.
 Reported adverse events were classified using a standard COSTART-based Dictionary terminology.
 
@@ -40,8 +39,7 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence rate in the population studied.
 
-TABLE 2 Treatment-Emergent Adverse Experience Incidence in 4- to 8-Week Placebo-Controlled Clinical TrialsEvents reported by at least 1% of patients treated with venlafaxine hydrochloride tablets are included, and are rounded to the nearest %.
-Events for which the venlafaxine hydrochloride tablets incidence was equal to or less than placebo are not listed in the table, but included the following: abdominal pain, pain, back pain, flu syndrome, fever, palpitation, increased appetite, myalgia, arthralgia, amnesia, hypesthesia, rhinitis, pharyngitis, sinusitis, cough increased, and dysmenorrhea‡.
+TABLE 2 Treatment-Emergent Adverse Experience Incidence in 4 to 8 Week Placebo-Controlled Clinical Trials— Incidence less than 1%.
 
 |  |  | (n=1033) | (n=609) |
 | --- | --- | --- | --- |
@@ -92,12 +90,11 @@ Events for which the venlafaxine hydrochloride tablets incidence was equal to or
 |  | Tinnitus | 2% | — |
 |  | Mydriasis | 2% | — |
 | Urogenital System | Abnormal ejaculation/ |  |  |
-|  | Orgasm | 12%Incidence based on number of male patients. | — |
+|  | Orgasm | 12%Events reported by at least 1% of patients treated with venlafaxine hydrochloride tablets are included, and are rounded to the nearest %. Events for which the venlafaxine hydrochloride tablets incidence was equal to or less than placebo are not listed in the table, but included the following: abdominal pain, pain, back pain, flu syndrome, fever, palpitation, increased appetite, myalgia, arthralgia, amnesia, hypesthesia, rhinitis, pharyngitis, sinusitis, cough increased, and dysmenorrhea‡. | — |
 |  | Impotence | 6 % | — |
 |  | Urinary frequency | 3% | 2% |
 |  | Urination impaired | 2% | — |
-|  | Orgasm disturbance | 2%Incidence based on number of female patients. | — |
-| — Incidence less than 1%. |  |  |  |
+|  | Orgasm disturbance | 2%Incidence based on number of male patients. | — |
 
 ### Dose Dependency of Adverse Events
 
@@ -113,29 +110,29 @@ TABLE 3 Treatment-Emergent Adverse Experience Incidence in a Dose Comparison Tri
 | Body System/ |  |  |  |  |
 | Preferred Term | Placebo | 75 | 225 | 375 |
 | Body as a Whole |  |  |  |  |
-| Abdominal pain | 3.3% | 3.4% | 2.2% | 8.0% |
+| Abdominal pain | 3.3% | 3.4% | 2.2% | 8% |
 | Asthenia | 3.3% | 16.9% | 14.6% | 14.8% |
 | Chills | 1.1% | 2.2% | 5.6% | 6.8% |
 | Infection | 2.2% | 2.2% | 5.6% | 2.3% |
 | Cardiovascular System |  |  |  |  |
 | Hypertension | 1.1% | 1.1% | 2.2% | 4.5% |
-| Vasodilatation | 0.0% | 4.5% | 5.6% | 2.3% |
+| Vasodilatation | 0% | 4.5% | 5.6% | 2.3% |
 | Digestive System |  |  |  |  |
-| Anorexia | 2.2% | 14.6% | 13.5% | 17.0% |
+| Anorexia | 2.2% | 14.6% | 13.5% | 17% |
 | Dyspepsia | 2.2% | 6.7% | 6.7% | 4.5% |
-| Nausea | 14.1% | 32.6% | 38.2% | 58.0% |
+| Nausea | 14.1% | 32.6% | 38.2% | 58% |
 | Vomiting | 1.1% | 7.9% | 3.4% | 6.8% |
 | Nervous System |  |  |  |  |
-| Agitation | 0.0% | 1.1% | 2.2% | 4.5% |
+| Agitation | 0% | 1.1% | 2.2% | 4.5% |
 | Anxiety | 4.3% | 11.2% | 4.5% | 2.3% |
 | Dizziness | 4.3% | 19.1% | 22.5% | 23.9% |
 | Insomnia | 9.8% | 22.5% | 20.2% | 13.6% |
 | Libido decreased | 1.1% | 2.2% | 1.1% | 5.7% |
 | Nervousness | 4.3% | 21.3% | 13.5% | 12.5% |
-| Somnolence | 4.3% | 16.9% | 18.0% | 26.1% |
-| Tremor | 0.0% | 1.1% | 2.2% | 10.2% |
+| Somnolence | 4.3% | 16.9% | 18% | 26.1% |
+| Tremor | 0% | 1.1% | 2.2% | 10.2% |
 | Respiratory System |  |  |  |  |
-| Yawn | 0.0% | 4.5% | 5.6% | 8.0% |
+| Yawn | 0% | 4.5% | 5.6% | 8% |
 | Skin and Appendages |  |  |  |  |
 | Sweating | 5.4% | 6.7% | 12.4% | 19.3% |
 | Special Senses |  |  |  |  |
@@ -143,13 +140,13 @@ TABLE 3 Treatment-Emergent Adverse Experience Incidence in a Dose Comparison Tri
 | accommodation | 0.0% | 9.1% | 7.9% | 5.6% |
 | Urogenital System |  |  |  |  |
 | Abnormal |  |  |  |  |
-| ejaculation/orgasm | 0.0% | 4.5% | 2.2% | 12.5% |
-| Impotence | 0.0% | 5.8% | 2.1% | 3.6% |
+| ejaculation/orgasm | 0% | 4.5% | 2.2% | 12.5% |
+| Impotence | 0% | 5.8% | 2.1% | 3.6% |
 | (Number of men) | (n=63) | (n=52) | (n=48) | (n=56) |
 
 ### Adaptation to Certain Adverse Events
 
-Over a 6-week period, there was evidence of adaptation to some adverse events with continued therapy (e.g., dizziness and nausea), but less to other effects (e.g., abnormal ejaculation and dry mouth).
+Over a 6 week period, there was evidence of adaptation to some adverse events with continued therapy (e.g., dizziness and nausea), but less to other effects (e.g., abnormal ejaculation and dry mouth).
 
 ### Vital Sign Changes
 
@@ -164,9 +161,9 @@ However, there is a dose dependency for blood pressure increase (see WARNINGS).
 Of the serum chemistry and hematology parameters monitored during clinical trials with venlafaxine hydrochloride tablets, a statistically significant difference with placebo was seen only for serum cholesterol.
 In premarketing trials, treatment with venlafaxine hydrochloride tablets was associated with a mean final on-therapy increase in total cholesterol of 3 mg/dL.
 
-Patients treated with venlafaxine hydrochloride tablets for at least 3 months in placebo-controlled 12-month extension trials had a mean final on-therapy increase in total cholesterol of 9.1 mg/dL compared with a decrease of 7.1 mg/dL among placebo-treated patients.
+Patients treated with venlafaxine hydrochloride tablets for at least 3 months in placebo-controlled 12 month extension trials had a mean final on-therapy increase in total cholesterol of 9.1 mg/dL compared with a decrease of 7.1 mg/dL among placebo-treated patients.
 This increase was duration dependent over the study period and tended to be greater with higher doses.
-Clinically relevant increases in serum cholesterol, defined as 1) a final on-therapy increase in serum cholesterol ≥ 50 mg/dL from baseline and to a value ≥ 261 mg/dL or 2) an average on-therapy increase in serum cholesterol ≥ 50 mg/dL from baseline and to a value ≥ 261 mg/dL, were recorded in 5.3% of venlafaxine-treated patients and 0.0% of placebo-treated patients (see PRECAUTIONS-General-Serum Cholesterol Elevation).
+Clinically relevant increases in serum cholesterol, defined as 1) a final on-therapy increase in serum cholesterol ≥ 50 mg/dL from baseline and to a value ≥ 261 mg/dL or 2) an average on-therapy increase in serum cholesterol ≥ 50 mg/dL from baseline and to a value ≥ 261 mg/dL, were recorded in 5.3% of venlafaxine-treated patients and 0% of placebo-treated patients (see PRECAUTIONS-General-Serum Cholesterol Elevation).
 
 ### ECG Changes
 
@@ -178,7 +175,7 @@ In a flexible-dose study, with doses in the range of 200 to 375 mg/day and mean 
 During its premarketing assessment, multiple doses of venlafaxine hydrochloride tablets were administered to 2897 patients in Phase 2 and Phase 3 studies.
 In addition, in premarketing assessment, of venlafaxine hydrochloride extended-release capsules, multiple doses were administered to 705 patients in Phase 3 major depressive disorder studies and venlafaxine hydrochloride tablets were administered to 96 patients.
 During its premarketing assessment, multiple doses of venlafaxine hydrochloride extended-release capsules were also administered to 1381 patients in Phase 3 GAD studies and 277 patients in Phase 3 Social Anxiety Disorder studies.
-The conditions and duration of exposure to venlafaxine in both development programs varied greatly, and included (in overlapping categories) open and double-blind studies, uncontrolled and controlled studies, inpatient (venlafaxine hydrochloride tablets only) and outpatient studies, fixed-dose and titration studies.
+The conditions and duration of exposure to venlafaxine in both development programs varied greatly, and included (in overlapping categories) open and doubleblind studies, uncontrolled and controlled studies, inpatient (venlafaxine hydrochloride tablets only) and outpatient studies, fixed-dose and titration studies.
 Untoward events associated with this exposure were recorded by clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of untoward events into a smaller number of standardized event categories.
 

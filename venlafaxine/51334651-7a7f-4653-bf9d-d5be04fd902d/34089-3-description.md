@@ -7,8 +7,9 @@ The structural formula is shown below.
 
 Venlafaxine hydrochloride
 
-Venlafaxine hydrochloride is a white crystalline powder.
-It is freely soluble in water and dilute hydrochloric acid, soluble in ethanol and chloroform and insoluble in ether.
+Venlafaxine hydrochloride, USP is a white to off-white crystalline powder.
+It is soluble in methanol and in water.
+Its octanol:water (0.2 M sodium chloride) partition coefficient is 0.43.
 
 Each venlafaxine hydrochloride tablet intended for oral administration contains venlafaxine hydrochloride equivalent to 25 mg or 37.5 mg or 50 mg or 75 mg or 100 mg of venlafaxine.
-In addition, each tablet contains the following inactive ingredients: ferric oxide yellow, ferric oxide red, lactose monohydrate, magnesium stearate, microcrystalline cellulose and sodium starch glycolate.
+In addition, each tablet contains the following inactive ingredients: ferric oxide red, ferric oxide yellow, lactose monohydrate, magnesium stearate, microcrystalline cellulose and sodium starch glycolate.

@@ -2,7 +2,7 @@
 
 Venlafaxine hydrochloride tablets are indicated for the treatment of major depressive disorder.
 
-The efficacy of venlafaxine hydrochloride tablets in the treatment of major depressive disorder was established in 6-week controlled trials of adult outpatients whose diagnoses corresponded most closely to the DSM-III or DSM-III-R category of major depression and in a 4-week controlled trial of inpatients meeting diagnostic criteria for major depression with melancholia (see CLINICAL TRIALS).
+The efficacy of venlafaxine hydrochloride tablets in the treatment of major depressive disorder was established in 6 week controlled trials of adult outpatients whose diagnoses corresponded most closely to the DSM-III or DSM-III-R category of major depression and in a 4 week controlled trial of inpatients meeting diagnostic criteria for major depression with melancholia (see CLINICAL TRIALS).
 
 A major depressive episode implies a prominent and relatively persistent depressed or dysphoric mood that usually interferes with daily functioning (nearly every day for at least 2 weeks); it should include at least 4 of the following 8 symptoms: change in appetite, change in sleep, psychomotor agitation or retardation, loss of interest in usual activities or decrease in sexual drive, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, and a suicide attempt or suicidal ideation.
 

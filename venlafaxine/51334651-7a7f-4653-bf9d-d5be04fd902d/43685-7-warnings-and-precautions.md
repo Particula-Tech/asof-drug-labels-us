@@ -5,7 +5,7 @@
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
@@ -20,11 +20,11 @@ Table 1
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
-| <18 | 14 additional cases |
-| 18-24 | 5 additional cases |
+| < 18 | 14 additional cases |
+| 18 to 24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25-64 | 1 fewer case |
-| ≥65 | 6 fewer cases |
+| 25 to 64 | 1 fewer case |
+| ≥ 65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
@@ -55,7 +55,7 @@ It should be noted that venlafaxine hydrochloride tablets are not approved for u
 
 ## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including venlafaxine hydrochloride tablets treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
+The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including venlafaxine hydrochloride tablets treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs, e.g., methylene blue), or with antipsychotics or other dopamine antagonists.
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms [e.g., nausea, vomiting diarrhea] (see PRECAUTIONS, Drug Interactions).
 Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
 Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
@@ -80,15 +80,15 @@ Probability of Sustained Elevation in SDBP (Pool of Premarketing Venlafaxine Stu
 | --- | --- |
 | Venlafaxine |  |
 | < 100 mg/day | 3% |
-| 101-200 mg/day | 5% |
-| 201-300 mg/day | 7% |
+| 101 to 200 mg/day | 5% |
+| 201 to 300 mg/day | 7% |
 | > 300 mg/day | 13% |
 | Placebo | 2% |
 
-An analysis of the patients with sustained hypertension and the 19 venlafaxine patients who were discontinued from treatment because of hypertension (<1% of total venlafaxine-treated group) revealed that most of the blood pressure increases were in a modest range (10 to 15 mm Hg, SDBP).
+An analysis of the patients with sustained hypertension and the 19 venlafaxine patients who were discontinued from treatment because of hypertension (< 1% of total venlafaxine-treated group) revealed that most of the blood pressure increases were in a modest range (10 to 15 mm Hg, SDBP).
 Nevertheless, sustained increases of this magnitude could have adverse consequences.
 Cases of elevated blood pressure requiring immediate treatment have been reported in post marketing experience.
-Pre-existing hypertension should be controlled before treatment with venlafaxine.
+Preexisting hypertension should be controlled before treatment with venlafaxine.
 It is recommended that patients receiving venlafaxine have regular monitoring of blood pressure.
 For patients who experience a sustained increase in blood pressure while receiving venlafaxine, either dose reduction or discontinuation should be considered.
 
@@ -116,7 +116,7 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 
 ### Anxiety and Insomnia
 
-Treatment-emergent anxiety, nervousness, and insomnia were more commonly reported for venlafaxine-treated patients compared to placebo-treated patients in a pooled analysis of short-term, double-blind, placebo-controlled depression studies:
+Treatment-emergent anxiety, nervousness, and insomnia were more commonly reported for venlafaxine-treated patients compared to placebo-treated patients in a pooled analysis of short-term, doubleblind, placebo-controlled depression studies:
 
 | Symptom | n=1033 | n = 609 |
 | --- | --- | --- |
@@ -134,36 +134,36 @@ A loss of 5% or more of body weight occurred in 6% of patients treated with venl
 However, discontinuation for weight loss associated with venlafaxine was uncommon (0.1% of venlafaxine-treated patients in the Phase 2 and Phase 3 depression trials).
 
 The safety and efficacy of venlafaxine therapy in combination with weight loss agents, including phentermine, have not been established.
-Co-administration of venlafaxine hydrochloride tablets and weight loss agents is not recommended.
+Coadministration of venlafaxine hydrochloride tablets and weight loss agents is not recommended.
 Venlafaxine hydrochloride tablets are not indicated for weight loss alone or in combination with other products.
 
 ### Pediatric Patients
 
-Weight loss has been observed in pediatric patients (ages 6-17) receiving venlafaxine hydrochloride extended-release capsules.
-In a pooled analysis of four eight-week, double-blind, placebo-controlled, flexible dose outpatient trials for major depressive disorder (MDD) and generalized anxiety disorder (GAD), venlafaxine hydrochloride extended-release capsules-treated patients lost an average of 0.45 kg (n = 333), while placebo-treated patients gained an average of 0.77 kg (n = 333).
-More patients treated with venlafaxine hydrochloride extended-release capsules than with placebo experienced a weight loss of at least 3.5% in both the MDD and the GAD studies (18% of venlafaxine hydrochloride extended-release capsules-treated patients vs. 3.6% of placebo-treated patients; p<0.001).
+Weight loss has been observed in pediatric patients (ages 6 to 17) receiving venlafaxine hydrochloride extended-release capsules.
+In a pooled analysis of four eight week, doubleblind, placebo-controlled, flexible dose outpatient trials for major depressive disorder (MDD) and generalized anxiety disorder (GAD), venlafaxine hydrochloride extended-release capsules-treated patients lost an average of 0.45 kg (n = 333), while placebo-treated patients gained an average of 0.77 kg (n = 333).
+More patients treated with venlafaxine hydrochloride extended-release capsules than with placebo experienced a weight loss of at least 3.5% in both the MDD and the GAD studies (18% of venlafaxine hydrochloride extended-release capsules-treated patients vs. 3.6% of placebo-treated patients; p < 0.001).
 Weight loss was not limited to patients with treatment-emergent anorexia (see PRECAUTIONS, General, Changes in Appetite).
 
 The risks associated with longer-term venlafaxine hydrochloride extended-release capsules use were assessed in an open-label study of children and adolescents who received venlafaxine hydrochloride extended-release capsules for up to six months.
 The children and adolescents in the study had increases in weight that were less than expected based on data from age- and sex-matched peers.
-The difference between observed weight gain and expected weight gain was larger for children (<12 years old) than for adolescents (>12 years old).
+The difference between observed weight gain and expected weight gain was larger for children (< 12 years old) than for adolescents (> 12 years old).
 
 ## Changes in Height
 
-Pediatric Patients: During the eight-week placebo-controlled GAD studies, venlafaxine hydrochloride extended-release capsules-treated patients (ages 6-17) grew an average of 0.3 cm (n = 122), while placebo-treated patients grew an average of 1.0 cm (n = 132); p=0.041.
+Pediatric Patients: During the eight week placebo-controlled GAD studies, venlafaxine hydrochloride extended-release capsules-treated patients (ages 6 to 17) grew an average of 0.3 cm (n = 122), while placebo-treated patients grew an average of 1 cm (n = 132); p=0.041.
 This difference in height increase was most notable in patients younger than twelve.
-During the eight-week placebo-controlled MDD studies, venlafaxine hydrochloride extended-release capsules-treated patients grew an average of 0.8 cm (n = 146), while placebo-treated patients grew an average of 0.7 cm (n = 147).
-In the six-month open-label study, children and adolescents had height increases that were less than expected based on data from age- and sex-matched peers.
-The difference between observed growth rates and expected growth rates was larger for children (<12 years old) than for adolescents (>12 years old).
+During the eight week placebo-controlled MDD studies, venlafaxine hydrochloride extended-release capsules-treated patients grew an average of 0.8 cm (n = 146), while placebo-treated patients grew an average of 0.7 cm (n = 147).
+In the six month open-label study, children and adolescents had height increases that were less than expected based on data from age- and sex-matched peers.
+The difference between observed growth rates and expected growth rates was larger for children (< 12 years old) than for adolescents (> 12 years old).
 
 ### Changes in Appetite
 
-Adult Patients: Treatment-emergent anorexia was more commonly reported for venlafaxine-treated (11%) than placebo-treated patients (2%) in the pool of short-term, double-blind, placebo-controlled depression studies.
+Adult Patients: Treatment-emergent anorexia was more commonly reported for venlafaxine-treated (11%) than placebo-treated patients (2%) in the pool of short-term, doubleblind, placebo-controlled depression studies.
 
 ### Pediatric Patients
 
 Decreased appetite has been observed in pediatric patients receiving venlafaxine hydrochloride extended-release capsules.
-In the placebo-controlled trials for GAD and MDD, 10% of patients aged 6-17 treated with venlafaxine hydrochloride extended-release capsules for up to eight weeks and 3% of patients treated with placebo reported treatment-emergent anorexia (decreased appetite).
+In the placebo-controlled trials for GAD and MDD, 10% of patients aged 6 to 17 treated with venlafaxine hydrochloride extended-release capsules for up to eight weeks and 3% of patients treated with placebo reported treatment-emergent anorexia (decreased appetite).
 None of the patients receiving venlafaxine hydrochloride extended-release capsules discontinued for anorexia or weight loss.
 
 ### Activation of Mania/Hypomania
@@ -202,7 +202,7 @@ Patients should be cautioned about the risk of bleeding associated with the conc
 
 ### Serum Cholesterol Elevation
 
-Clinically relevant increases in serum cholesterol were recorded in 5.3% of venlafaxine-treated patients and 0.0% of placebo-treated patients treated for at least 3 months in placebo-controlled trials (see ADVERSE REACTIONS – Laboratory Changes) Measurement of serum cholesterol levels should be considered during long-term treatment.
+Clinically relevant increases in serum cholesterol were recorded in 5.3% of venlafaxine-treated patients and 0% of placebo-treated patients treated for at least 3 months in placebo-controlled trials (see ADVERSE REACTIONS – Laboratory Changes) Measurement of serum cholesterol levels should be considered during long-term treatment.
 
 ### Interstitial Lung Disease and Eosinophilic Pneumonia
 
@@ -216,11 +216,11 @@ Clinical experience with venlafaxine hydrochloride tablets in patients with conc
 Caution is advised in administering venlafaxine hydrochloride tablets to patients with diseases or conditions that could affect hemodynamic responses or metabolism.
 
 Venlafaxine hydrochloride tablets have not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
-Patients with these diagnoses were systematically excluded from many clinical studies during the product’s premarketing testing.
-Evaluation of the electrocardiograms for 769 patients who received venlafaxine hydrochloride tablets in 4- to 6-week double-blind placebo-controlled trials, however, showed that the incidence of trial-emergent conduction abnormalities did not differ from that with placebo.
+Patients with these diagnoses were systematically excluded from many clinical studies during the product's premarketing testing.
+Evaluation of the electrocardiograms for 769 patients who received venlafaxine hydrochloride tablets in 4 to 6 week doubleblind placebo-controlled trials, however, showed that the incidence of trial-emergent conduction abnormalities did not differ from that with placebo.
 The mean heart rate in venlafaxine hydrochloride tablets-treated patients was increased relative to baseline by about 4 beats per minute.
 
-The electrocardiograms for 357 patients who received venlafaxine hydrochloride extended-release capsules and 285 patients who received placebo in 8- to 12-week double-blind, placebo-controlled trials were analyzed.
+The electrocardiograms for 357 patients who received venlafaxine hydrochloride extended-release capsules and 285 patients who received placebo in 8 to 12 week doubleblind, placebo-controlled trials were analyzed.
 The mean change from baseline in corrected QT interval (QTc) for venlafaxine hydrochloride extended-release capsules-treated patients was increased relative to that for placebo-treated patients (increase of 4.7 msec for venlafaxine hydrochloride extended-release capsules and decrease of 1.9 msec for placebo).
 In these same trials, the mean change from baseline in heart rate for venlafaxine hydrochloride extended-release capsules-treated patients was significantly higher than that for placebo (a mean increase of 4 beats per minute for venlafaxine hydrochloride extended-release capsules and 1 beat per minute for placebo).
 In a flexible-dose study, with venlafaxine hydrochloride tablets doses in the range of 200 to 375 mg/day and mean dose greater than 300 mg/day, venlafaxine hydrochloride tablets-treated patients had a mean increase in heart rate of 8.5 beats per minute compared with 1.7 beats per minute in the placebo group.
@@ -260,7 +260,7 @@ Patients should be advised to notify their physician if they become pregnant or 
 
 ### Nursing
 
-Patients should be advised to notify their physician if they are breast-feeding an infant.
+Patients should be advised to notify their physician if they are breastfeeding an infant.
 
 ### Mydriasis
 
@@ -300,9 +300,9 @@ Additionally, administration of venlafaxine in a stable regimen did not exaggera
 
 Concomitant administration of cimetidine and venlafaxine in a steady-state study for both drugs resulted in inhibition of first-pass metabolism of venlafaxine in 18 healthy subjects.
 The oral clearance of venlafaxine was reduced by about 43%, and the exposure (AUC) and maximum concentration (Cmax) of the drug were increased by about 60%.
-However, co-administration of cimetidine had no apparent effect on the pharmacokinetics of ODV, which is present in much greater quantity in the circulation than is venlafaxine.
+However, coadministration of cimetidine had no apparent effect on the pharmacokinetics of ODV, which is present in much greater quantity in the circulation than is venlafaxine.
 The overall pharmacological activity of venlafaxine plus ODV is expected to increase only slightly, and no dosage adjustment should be necessary for most normal adults.
-However, for patients with pre-existing hypertension, and for elderly patients or patients with hepatic dysfunction, the interaction associated with the concomitant use of venlafaxine and cimetidine is not known and potentially could be more pronounced.
+However, for patients with preexisting hypertension, and for elderly patients or patients with hepatic dysfunction, the interaction associated with the concomitant use of venlafaxine and cimetidine is not known and potentially could be more pronounced.
 Therefore, caution is advised with such patients.
 
 ### Diazepam
@@ -376,12 +376,12 @@ The clinical significance of elevated 2-OH-desipramine levels is unknown.
 
 ### Metoprolol
 
-Concomitant administration of venlafaxine (50 mg every 8 hours for 5 days) and metoprolol (100 mg every 24 hours for 5 days) to 18 healthy male subjects in a pharmacokinetic interaction study for both drugs resulted in an increase of plasma concentrations of metoprolol by approximately 30-40% without altering the plasma concentrations of its active metabolite, α-hydroxymetoprolol.
+Concomitant administration of venlafaxine (50 mg every 8 hours for 5 days) and metoprolol (100 mg every 24 hours for 5 days) to 18 healthy male subjects in a pharmacokinetic interaction study for both drugs resulted in an increase of plasma concentrations of metoprolol by approximately 30 to 40% without altering the plasma concentrations of its active metabolite, α-hydroxymetoprolol.
 Metoprolol did not alter the pharmacokinetic profile of venlafaxine or its active metabolite, O-desmethylvenlafaxine.
 
 Venlafaxine appeared to reduce the blood pressure lowering effect of metoprolol in this study.
 The clinical relevance of this finding for hypertensive patients is unknown.
-Caution should be exercised with co-administration of venlafaxine and metoprolol.
+Caution should be exercised with coadministration of venlafaxine and metoprolol.
 
 Venlafaxine treatment has been associated with dose-related increases in blood pressure in some patients.
 It is recommended that patients receiving venlafaxine hydrochloride tablets have regular monitoring of blood pressure (see WARNINGS).
@@ -427,7 +427,7 @@ Consequently, caution is advised if the concomitant administration of venlafaxin
 
 ## Serotonergic Drugs
 
-Based on the mechanism of action of venlafaxine and the potential for serotonin syndrome, caution is advised when venlafaxine is co-administered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, SSRIs, other SNRIs, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John’s Wort (see WARNINGS, Serotonin Syndrome).
+Based on the mechanism of action of venlafaxine and the potential for serotonin syndrome, caution is advised when venlafaxine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, SSRIs, other SNRIs, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort and methylene blue (see WARNINGS, Serotonin Syndrome).
 If concomitant treatment of venlafaxine hydrochloride tablets with these drugs is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
 The concomitant use of venlafaxine hydrochloride tablets with tryptophan supplements is not recommended (see WARNINGS, Serotonin Syndrome).
 
@@ -435,6 +435,13 @@ The concomitant use of venlafaxine hydrochloride tablets with tryptophan supplem
 
 There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
 If concomitant treatment of venlafaxine hydrochloride tablets with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
+
+Drug-Laboratory Test Interactions
+
+False-positive urine immunoassay screening tests for phencyclidine (PCP) and amphetamine have been reported in patients taking venlafaxine.
+This is due to lack of specificity of the screening tests.
+False positive test results may be expected for several days following discontinuation of venlafaxine therapy.
+Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish venlafaxine from PCP and amphetamine.
 
 ### Electroconvulsive Therapy
 
@@ -493,7 +500,7 @@ The effect of venlafaxine hydrochloride tablets on labor and delivery in humans 
 
 ## Nursing Mothers
 
-Venlafaxine and ODV have been reported to be excreted in human milk.
+Venlafaxine and ODV have been reported to be excreted in humanmilk.
 Because of the potential for serious adverse reactions in nursing infants from venlafaxine hydrochloride tablets, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
@@ -503,11 +510,11 @@ Two placebo-controlled trials in 766 pediatric patients with MDD and two placebo
 
 Anyone considering the use of venlafaxine hydrochloride tablets in a child or adolescent must balance the potential risks with the clinical need.
 
-Although no studies have been designed to primarily assess venlafaxine hydrochloride extended-release capsule’s impact on the growth, development, and maturation of children and adolescents, the studies that have been done suggest that venlafaxine hydrochloride extended-release capsules may adversely affect weight and height (see PRECAUTIONS, General,Changes in Height and Changes in Weight).
+Although no studies have been designed to primarily assess venlafaxine hydrochloride extended-release capsule's impact on the growth, development, and maturation of children and adolescents, the studies that have been done suggest that venlafaxine hydrochloride extended-release capsules may adversely affect weight and height (see PRECAUTIONS, General,Changes in Height and Changes in Weight).
 Should the decision be made to treat a pediatric patient with venlafaxine hydrochloride tablets, regular monitoring of weight and height is recommended during treatment, particularly if it is to be continued long term.
 The safety of venlafaxine hydrochloride extended-release capsules treatment for pediatric patients has not been systematically assessed for chronic treatment longer than six months in duration.
 
-In the studies conducted in pediatric patients (ages 6-17), the occurrence of blood pressure and cholesterol increases considered to be clinically relevant in pediatric patients was similar to that observed in adult patients.
+In the studies conducted in pediatric patients (ages 6 to 17), the occurrence of blood pressure and cholesterol increases considered to be clinically relevant in pediatric patients was similar to that observed in adult patients.
 Consequently, the precautions for adults apply to pediatric patients (see WARNINGS, Sustained Hypertension, and PRECAUTIONS, General, Serum Cholesterol Elevation).
 
 ## Geriatric Use
