@@ -36,6 +36,8 @@ Rx only Abbott
 
 NDC 0074–6624–11
 
+Abbo-Pac®
+
 Synthroid®
 
 Levothyroxine Sodium Tablets, USP
@@ -48,9 +50,9 @@ THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
 
 Rx only Abbott
 
-NDC 0074–6624–71
+NDC 0074–6624–72
 
-4 cards x 7 tablets
+2 cards x 7 tablets
 
 Synthroid®
 
