@@ -8,7 +8,7 @@ LIVALO can be taken at any time of the day with or without food.
 
 ## 17.2 Muscle Pain
 
-Patients should be advised to promptly notify their physician of any unexplained muscle pain, tenderness, or weakness.
+Patients should be advised to promptly notify their physician of any unexplained muscle pain, tenderness, or weakness particularly if accompanied by malaise or fever, or if these muscle signs or symptoms persist after discontinuing LIVALO.
 They should discuss all medication, both prescription and over the counter, with their physician.
 
 ## 17.3 Pregnancy
