@@ -4,9 +4,9 @@ NDC 0378-8015-93
 
 Lansoprazole Delayed-release Capsules, USP 15 mg
 
-PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 30 CAPSULES
+Rx only 30 Capsules
 
 Each capsule contains 15 mg of lansoprazole, USP as enteric-coated pellets.
 
@@ -23,9 +23,9 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-www.mylan.com
+Mylan.com
 
-RMX8015H2
+RMX8015H3
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -39,9 +39,9 @@ NDC 0378-8030-93
 
 Lansoprazole Delayed-release Capsules, USP 30 mg
 
-PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 30 CAPSULES
+Rx only 30 Capsules
 
 Each capsule contains 30 mg of lansoprazole, USP as enteric-coated pellets.
 
@@ -58,9 +58,9 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-www.mylan.com
+Mylan.com
 
-RMX8030H2
+RMX8030H3
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

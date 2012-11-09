@@ -4,9 +4,9 @@ Duodenal Ulcer
 
 In a U.S. multicenter, double-blind, placebo-controlled, dose-response (15 mg, 30 mg and 60 mg of lansoprazole once daily) study of 284 patients with endoscopically documented duodenal ulcer, the percentage of patients healed after 2 and 4 weeks was significantly higher with all doses of lansoprazole than with placebo.
 There was no evidence of a greater or earlier response with the two higher doses compared with lansoprazole 15 mg.
-Based on this study and the second study described below, the recommended dose of lansoprazole in duodenal ulcer is 15 mg per day (Table 9).
+Based on this study and the second study described below, the recommended dose of lansoprazole in duodenal ulcer is 15 mg per day (Table 7).
 
-Table 9.
+Table 7.
 Duodenal Ulcer Healing Rates
 
 |  | Lansoprazole |  |  | Placebo |
@@ -20,11 +20,11 @@ Lansoprazole 15 mg was significantly more effective than placebo in relieving da
 
 In a second U.S. multicenter study, also double-blind, placebo-controlled, dose-comparison (15 mg and 30 mg of lansoprazole once daily), and including a comparison with ranitidine, in 280 patients with endoscopically documented duodenal ulcer, the percentage of patients healed after 4 weeks was significantly higher with both doses of lansoprazole than with placebo.
 There was no evidence of a greater or earlier response with the higher dose of lansoprazole.
-Although the 15 mg dose of lansoprazole was superior to ranitidine at 4 weeks, the lack of significant difference at 2 weeks and the absence of a difference between 30 mg of lansoprazole and ranitidine leaves the comparative effectiveness of the two agents undetermined (Table 10).
+Although the 15 mg dose of lansoprazole was superior to ranitidine at 4 weeks, the lack of significant difference at 2 weeks and the absence of a difference between 30 mg of lansoprazole and ranitidine leaves the comparative effectiveness of the two agents undetermined (Table 8).
 
 [See Indications and Usage (1.1).]
 
-Table 10.
+Table 8.
 Duodenal Ulcer Healing Rates
 
 |  | Lansoprazole |  | Ranitidine | Placebo |
@@ -51,9 +51,9 @@ Dual therapy was shown to be more effective than both monotherapies.
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence.
 
 A randomized, double-blind clinical study performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) compared the efficacy of lansoprazole triple therapy for 10 and 14 days.
-This study established that the 10-day triple therapy was equivalent to the 14-day triple therapy in eradicating H. pylori (Tables 11 and 12) [see Indications and Usage (1.2)].
+This study established that the 10-day triple therapy was equivalent to the 14-day triple therapy in eradicating H. pylori (Tables 9 and 10) [see Indications and Usage (1.2)].
 
-Table 11.
+Table 9.
 H. pylori Eradication Rates- Triple Therapy
 
 | (Lansoprazole/amoxicillin/clarithromycin)Percent of Patients Cured[95% Confidence Interval](Number of patients) |  |  |  |
@@ -64,7 +64,7 @@ H. pylori Eradication Rates- Triple Therapy
 | M95-399The 95% confidence interval for the difference in eradication rates, 10-day minus 14-day is (-10.5, 8.1) in the evaluable analysis and (-9.7, 9.1) in the intent-to-treat analysis. | 14 days | 85[77 to 91](n = 113) | 82[73.9 to 88.1](n = 126) |
 | 10 days | 84[76 to 89.8](n = 123) | 81[73.9 to 87.6](n = 135) |  |
 
-Table 12.
+Table 10.
 H. pylori Eradication Rates- 14-Day Dual Therapy
 
 | (Lansoprazole/amoxicillin) Percent of Patients Cured [95% Confidence Interval] (Number of patients) |  |  |
@@ -77,10 +77,10 @@ Long-Term Maintenance Treatment of Duodenal Ulcers
 
 Lansoprazole has been shown to prevent the recurrence of duodenal ulcers.
 Two independent, double-blind, multicenter, controlled trials were conducted in patients with endoscopically confirmed healed duodenal ulcers.
-Patients remained healed significantly longer and the number of recurrences of duodenal ulcers was significantly less in patients treated with lansoprazole than in patients treated with placebo over a 12 month period (Table 13).
+Patients remained healed significantly longer and the number of recurrences of duodenal ulcers was significantly less in patients treated with lansoprazole than in patients treated with placebo over a 12 month period (Table 11).
 [See Indications and Usage (1.3).]
 
-Table 13.
+Table 11.
 Endoscopic Remission Rates
 
 |  |  |  | Percent in Endoscopic Remission |  |  |
@@ -97,10 +97,10 @@ In trial #2, no significant difference was noted between lansoprazole 15 mg and 
 
 Gastric Ulcer
 
-In a U.S. multicenter, double-blind, placebo-controlled study of 253 patients with endoscopically documented gastric ulcer, the percentage of patients healed at 4 and 8 weeks was significantly higher with lansoprazole 15 mg and 30 mg once a day than with placebo (Table 14).
+In a U.S. multicenter, double-blind, placebo-controlled study of 253 patients with endoscopically documented gastric ulcer, the percentage of patients healed at 4 and 8 weeks was significantly higher with lansoprazole 15 mg and 30 mg once a day than with placebo (Table 12).
 [See Indications and Usage (1.4).]
 
-Table 14.
+Table 12.
 Gastric Ulcer Healing Rates
 
 |  | Lansoprazole |  |  | Placebo |
@@ -120,10 +120,10 @@ In two U.S. and Canadian multicenter, double-blind, active-controlled studies in
 A total of 711 patients were enrolled in the study, and 701 patients were treated.
 Patients ranged in age from 18 to 88 years (median age 59 years), with 67% female patients and 33% male patients.
 Race was distributed as follows: 87% Caucasian, 8% Black, 5% Other.
-There was no statistically significant difference between lansoprazole 30 mg daily and the active control on symptom relief (i.e., abdominal pain) (Table 15).
+There was no statistically significant difference between lansoprazole 30 mg daily and the active control on symptom relief (i.e., abdominal pain) (Table 13).
 [See Indications and Usage (1.5).]
 
-Table 15.
+Table 13.
 NSAID-Associated Gastric Ulcer Healing RatesActual observed ulcer(s) healed at time points + 2 days
 
 |  | Study #1 |  |
@@ -144,10 +144,10 @@ In one large U.S., multicenter, double-blind, placebo-and misoprostol-controlled
 A total of 537 patients were enrolled in the study, and 535 patients were treated.
 Patients ranged in age from 23 to 89 years (median age 60 years), with 65% female patients and 35% male patients.
 Race was distributed as follows: 90% Caucasian, 6% Black, 4% Other.
-The 30 mg dose of lansoprazole demonstrated no additional benefit in risk reduction of the NSAID-associated gastric ulcer than the 15 mg dose (Table 16).
+The 30 mg dose of lansoprazole demonstrated no additional benefit in risk reduction of the NSAID-associated gastric ulcer than the 15 mg dose (Table 14).
 [See Indications and Usage (1.6).]
 
-Table 16.
+Table 14.
 Proportion of Patients Remaining Free of Gastric Ulcers% = Life Table Estimate (p < 0.001) Lansoprazole 15 mg daily versus placebo; lansoprazole 30 mg daily versus placebo; and misoprostol 200 mcg 4 times daily versus placebo.
 (p < 0.05) Misoprostol 200 mcg 4 times daily versus lansoprazole 15 mg daily; and misoprostol 200 mcg 4 times daily versus lansoprazole 30 mg daily
 
@@ -165,9 +165,9 @@ Symptomatic GERD: In a U.S. multicenter, double-blind, placebo-controlled study 
 No significant additional benefit from lansoprazole 30 mg once daily was observed.
 
 The intent-to-treat analyses demonstrated significant reduction in frequency and severity of day and night heartburn.
-Data for frequency and severity for the 8-week treatment period are presented in Table 17 and in Figures 1 and 2:
+Data for frequency and severity for the 8-week treatment period are presented in Table 15 and in Figures 1 and 2:
 
-Table 17.
+Table 15.
 Frequency of Heartburn
 
 | Variable | Placebo | Lansoprazole 15 mg | Lansoprazole 30 mg |
@@ -189,9 +189,9 @@ No significant additional benefit from lansoprazole 30 mg once daily was observe
 
 Erosive Esophagitis
 
-In a U.S. multicenter, double-blind, placebo-controlled study of 269 patients entering with an endoscopic diagnosis of esophagitis with mucosal grading of 2 or more and grades 3 and 4 signifying erosive disease, the percentages of patients with healing are presented in Table 18:
+In a U.S. multicenter, double-blind, placebo-controlled study of 269 patients entering with an endoscopic diagnosis of esophagitis with mucosal grading of 2 or more and grades 3 and 4 signifying erosive disease, the percentages of patients with healing are presented in Table 16:
 
-Table 18.
+Table 16.
 Erosive Esophagitis Healing Rates
 
 |  | Lansoprazole |  |  | Placebo |
@@ -206,9 +206,9 @@ In this study, all lansoprazole groups reported significantly greater relief of 
 Although all doses were effective, the earlier healing in the higher two doses suggests 30 mg daily as the recommended dose.
 
 Lansoprazole was also compared in a U.S. multicenter, double-blind study to a low dose of ranitidine in 242 patients with erosive reflux esophagitis.
-Lansoprazole at a dose of 30 mg was significantly more effective than ranitidine 150 mg twice daily as shown below (Table 19).
+Lansoprazole at a dose of 30 mg was significantly more effective than ranitidine 150 mg twice daily as shown below (Table 17).
 
-Table 19.
+Table 17.
 Erosive Esophagitis Healing Rates
 
 |  | Lansoprazole | Ranitidine |
@@ -229,10 +229,10 @@ In the two trials described and in several smaller studies involving patients wi
 In a U.S. multicenter, double-blind, active-controlled study, 30 mg of lansoprazole was compared with ranitidine 150 mg twice daily in 151 patients with erosive reflux esophagitis that was poorly responsive to a minimum of 12 weeks of treatment with at least one H2-receptor antagonist given at the dose indicated for symptom relief or greater, namely, cimetidine 800 mg/day, ranitidine 300 mg/day, famotidine 40 mg/day or nizatidine 300 mg/day.
 Lansoprazole 30 mg was more effective than ranitidine 150 mg twice daily in healing reflux esophagitis, and the percentage of patients with healing were as follows.
 This study does not constitute a comparison of the effectiveness of histamine H2-receptor antagonists with lansoprazole, as all patients had demonstrated unresponsiveness to the histamine H2-receptor antagonist mode of treatment.
-It does indicate, however, that lansoprazole may be useful in patients failing on a histamine H2-receptor antagonist (Table 20).
+It does indicate, however, that lansoprazole may be useful in patients failing on a histamine H2-receptor antagonist (Table 18).
 [See Indications and Usage (1.7).]
 
-Table 20.
+Table 18.
 Reflux Esophagitis Healing Rates in Patients Poorly Responsive to Histamine H2-Receptor Antagonist Therapy
 
 |  | Lansoprazole | Ranitidine |
@@ -245,9 +245,9 @@ Reflux Esophagitis Healing Rates in Patients Poorly Responsive to Histamine H2-R
 Long-Term Maintenance Treatment of Erosive Esophagitis
 
 Two independent, double-blind, multicenter, controlled trials were conducted in patients with endoscopically confirmed healed esophagitis.
-Patients remained in remission significantly longer and the number of recurrences of erosive esophagitis was significantly less in patients treated with lansoprazole than in patients treated with placebo over a 12-month period (Table 21).
+Patients remained in remission significantly longer and the number of recurrences of erosive esophagitis was significantly less in patients treated with lansoprazole than in patients treated with placebo over a 12-month period (Table 19).
 
-Table 21.
+Table 19.
 Endoscopic Remission Rates
 
 |  |  |  | Percent in Endoscopic Remission |  |  |

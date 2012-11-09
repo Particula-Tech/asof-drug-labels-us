@@ -126,31 +126,7 @@ Nine of the 11 patients with amoxicillin post-treatment MICs that failed the tri
 
 ### Susceptibility Test for Helicobacter pylori
 
-The reference methodology for susceptibility testing of H. pylori is agar dilution MICs.1 One to three microliters of an inoculum equivalent to a No. 2 McFarland standard (1 x 107 to 1 x 108 CFU/mL for H. pylori) are inoculated directly onto freshly prepared antimicrobial-containing Mueller-Hinton agar plates with 5% aged defibrinated sheep blood (≥ 2 weeks old).
-The agar dilution plates are incubated at 35°C in a microaerobic environment produced by a gas generating system suitable for campylobacters.
-
-After 3 days of incubation, the MICs are recorded as the lowest concentration of antimicrobial agent required to inhibit growth of the organism.
-The clarithromycin and amoxicillin MIC values should be interpreted according to the following criteria (Table 7):
-
-Table 7
-
-| Clarithromycin MIC (mcg/mL)These are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods. | Interpretation |
-| --- | --- |
-| ≤ 0.25 | Susceptible (S) |
-| 0.5 to 1 | Intermediate (I) |
-| ≥ 2 | Resistant (R) |
-| Amoxicillin MIC (mcg/mL)There were not enough organisms with MICs greater than 0.25 mcg/mL to determine a resistance breakpoint. | Interpretation |
-| ≤ 0.25 | Susceptible (S) |
-
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Standard clarithromycin and amoxicillin powders should provide the following MIC values (Table 8):
-
-Table 8
-
-| Microorganism | Antimicrobial Agent | MIC (mcg/mL)These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods. |
-| --- | --- | --- |
-| H.pylori ATCC 43504 | Clarithromycin | 0.015 to 0.12 |
-| H.pylori ATCC 43504 | Amoxicillin | 0.015 to 0.12 |
+For susceptibility testing information about Helicobacter pylori, see Microbiology section in the prescribing information for clarithromycin and amoxicillin.
 
 ## 12.3 Pharmacokinetics
 
@@ -201,6 +177,10 @@ In adolescent subjects aged 12 to 17 years, subjects were randomized to receive 
 Mean Cmax and AUC values of lansoprazole were not affected by body weight or age; and nearly dose proportional increases in mean Cmax and AUC values were observed between the two dose groups in the study.
 Overall, lansoprazole pharmacokinetics in pediatric patients aged 1 to 17 years were similar to those observed in healthy adult subjects.
 
+##### Neonate to Less than One Year of Age
+
+Refer to Section 8.4 for the pharmacokinetics of lansoprazole in pediatric patients with GERD aged less than 28 days and 1 to 11 months.
+
 #### Geriatric Use
 
 The clearance of lansoprazole is decreased in the elderly, with elimination half-life increased approximately 50% to 100%.
@@ -223,7 +203,7 @@ Consider dose reduction in patients with severe hepatic impairment [see Use in S
 
 #### Gender
 
-In a study comparing 12 male and six female human subjects who received lansoprazole, no gender differences were found in pharmacokinetics and intragastric pH results [see Use in Specific Populations (8.5)].
+In a study comparing 12 male and six female human subjects who received lansoprazole, no gender differences were found in pharmacokinetics and intragastric pH results [see Use in Specific Populations (8.8)].
 
 ### Drug-Drug Interactions
 
@@ -256,6 +236,8 @@ Patients treated with proton pump inhibitors and warfarin concomitantly may need
 
 In an open-label, single-arm, 8 day, pharmacokinetic study of 28 adult rheumatoid arthritis patients (who required the chronic use of 7.5 mg to 15 mg of methotrexate given weekly), administration of 7 days of naproxen 500 mg twice daily and lansoprazole 30 mg daily had no effect on the pharmacokinetics of methotrexate and 7-hydroxymethotrexate.
 While this study was not designed to assess the safety of this combination of drugs, no major adverse reactions were noted.
+However, this study was conducted with low doses of methotrexate.
+A drug interaction study with high doses of methotrexate has not been conducted.
 
 #### Amoxicillin
 

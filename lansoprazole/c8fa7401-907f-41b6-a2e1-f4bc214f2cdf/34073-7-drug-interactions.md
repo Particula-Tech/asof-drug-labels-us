@@ -33,4 +33,16 @@ Although the magnitude of the effect on theophylline clearance is small, individ
 Concomitant administration of lansoprazole and clopidogrel in healthy subjects had no clinically important effect on exposure to the active metabolite of clopidogrel or clopidogrel-induced platelet inhibition [see Clinical Pharmacology (12.3)].
 No dose adjustment of clopidogrel is necessary when administered with an approved dose of lansoprazole.
 
-For information on drug interactions for amoxicillin or clarithromycin, refer to their full prescribing information, DRUG INTERACTIONS sections.
+## 7.6 Methotrexate
+
+Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
+However, no formal drug interaction studies of high dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.5)].
+
+In a study of rheumatoid arthritis patients receiving low-dose methotrexate, lansoprazole and naproxen, no effect on pharmacokinetics of methotrexate was observed [see Clinical Pharmacology (12.3)].
+
+## 7.7 Combination Therapy with Clarithromycin
+
+Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions due to drug interactions [see Warnings and Precautions in prescribing information for clarithromycin].
+Because of these drug interactions, clarithromycin is contraindicated for coadministration with certain drugs [see Contraindications in prescribing information for clarithromycin].
+
+For information about drug interactions of antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole, refer to the DRUG INTERACTIONS section of their package inserts.

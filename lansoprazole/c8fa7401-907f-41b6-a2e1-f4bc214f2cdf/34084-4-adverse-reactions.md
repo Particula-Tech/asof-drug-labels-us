@@ -72,6 +72,8 @@ Digestive System: hepatotoxicity, pancreatitis, vomiting;
 
 Hemic and Lymphatic System: agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura;
 
+Infections and Infestations: Clostridium difficile associated diarrhea;
+
 Metabolism and Nutritional Disorders: hypomagnesemia;
 
 Musculoskeletal System: bone fracture, myositis;
@@ -102,7 +104,7 @@ No treatment-emergent adverse reactions were observed at significantly higher ra
 The most frequently reported adverse reactions for patients who received lansoprazole 3 times daily plus amoxicillin 3 times daily dual therapy were diarrhea (8%) and headache (7%).
 No treatment-emergent adverse reactions were observed at significantly higher rates with lansoprazole 3 times daily plus amoxicillin 3 times daily dual therapy than with lansoprazole alone.
 
-For information on adverse reactions with amoxicillin or clarithromycin, refer to their full prescribing information, ADVERSE REACTIONS sections.
+For information about adverse reactions with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole, refer to the ADVERSE REACTIONS section of their package inserts.
 
 ## 6.4 Laboratory Values
 
@@ -117,4 +119,4 @@ None of these patients who received lansoprazole reported jaundice at any time d
 
 In clinical trials using combination therapy with lansoprazole plus amoxicillin and clarithromycin, and lansoprazole plus amoxicillin, no increased laboratory abnormalities particular to these drug combinations were observed.
 
-For information on laboratory value changes with amoxicillin or clarithromycin, refer to their full prescribing information, ADVERSE REACTIONS sections.
+For information about laboratory value changes with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole, refer to the ADVERSE REACTIONS section of their package inserts.
