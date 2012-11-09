@@ -9,6 +9,12 @@ Lenalidomide causes a delay in tumor growth in some in vivo nonclinical hematopo
 Lenalidomide inhibits the secretion of pro-inflammatory cytokines such as tumor necrosis factor alpha (TNF-α), from peripheral blood mononuclear cells.
 Lenalidomide also inhibited the expression of cyclooxygenase-2 (COX-2) but not COX-1 in vitro.
 
+## 12.2 Pharmacodynamics
+
+The effect of lenalidomide on the QTc interval was evaluated in 60 healthy male subjects in a randomized, thorough QT study with placebo and positive controls.
+At a dose two times the maximum recommended dose, lenalidomide does not prolong the QTc interval to any clinically relevant extent.
+The largest upper bound of the 2-sided 90% CI for the mean differences between lenalidomide and placebo was below 10 ms.
+
 ## 12.3 Pharmacokinetics
 
 Absorption

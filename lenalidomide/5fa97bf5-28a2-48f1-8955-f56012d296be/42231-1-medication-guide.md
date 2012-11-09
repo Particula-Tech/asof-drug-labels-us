@@ -182,7 +182,7 @@ The 15 mg capsule shell contains gelatin, FD&C blue #2, titanium dioxide and bla
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-Revised May/2012
+Revised November/2012
 
 Manufactured for Celgene Corporation
 
@@ -194,3 +194,5 @@ U.S. Pat.
 Nos. 5,635,517; 6,045,501; 6,281,230; 6,315,720; 6,555,554; 6,561,976; 6,561,977; 6,755,784; 6,908,432; 7,119,106; 7,189,740; 7,465,800; 7,855,217
 
 ©2005-2012 Celgene Corporation, All Rights Reserved.
+
+RevPlyMG.014 11/12
