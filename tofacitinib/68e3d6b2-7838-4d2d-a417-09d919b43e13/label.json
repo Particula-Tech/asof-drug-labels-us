@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA203214"
+  ],
+  "inn": "tofacitinib",
+  "labeler": "U.S. Pharmaceuticals",
+  "package_ndcs": [
+    "63539-012-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "tofacitinib citrate",
+      "name": "XELJANZ"
+    }
+  ],
+  "setid": "68e3d6b2-7838-4d2d-a417-09d919b43e13",
+  "source": "dailymed"
+}

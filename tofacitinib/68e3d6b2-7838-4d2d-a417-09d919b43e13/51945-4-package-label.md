@@ -1,0 +1,15 @@
+PRINCIPAL DISPLAY PANEL - 60 Tablet Bottle Label
+
+PROFESSIONAL SAMPLE-NOT FOR SALE ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer
+
+NDC 63539-012-02
+
+Xeljanz™ (tofacitinib tablets)
+
+5 mg*
+
+60 Tablets
+
+Rx only
