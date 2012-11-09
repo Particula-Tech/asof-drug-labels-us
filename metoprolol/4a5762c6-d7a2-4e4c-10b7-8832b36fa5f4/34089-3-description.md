@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-TOPROL-XL, metoprolol succinate, is a beta1-selective (cardioselective) adrenoceptor blocking agent, for oral administration, available as extended release tablets.
+TOPROL-XL, metoprolol succinate, is a beta1-selective (cardioselective) adrenoceptor blocking agent, for oral administration, available as extended-release tablets.
 TOPROL-XL has been formulated to provide a controlled and predictable release of metoprolol for once-daily administration.
 The tablets comprise a multiple unit system containing metoprolol succinate in a multitude of controlled release pellets.
 Each pellet acts as a separate drug delivery unit and is designed to deliver metoprolol continuously over the dosage interval.
