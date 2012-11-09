@@ -2,7 +2,7 @@
 
 ## 17.1 Skeletal Muscle Effects
 
-Patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever.
+Patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing CRESTOR.
 
 ## 17.2 Concomitant Use of Antacids
 
@@ -32,7 +32,7 @@ Wilmington, DE 19850
 ASTRAZENECA
 
 Rev.
-February, 2012
+October 2012
 
 PATIENT INFORMATION
 
@@ -172,6 +172,9 @@ This may be an early sign of a rare muscle problem that could lead to serious ki
 The risk of muscle problems is greater in people who are 65 years of age or older, or who already have thyroid or kidney problems.
 The chance of muscle problems may be increased if you are taking certain other medicines with CRESTOR.
 
+If you have muscle problems that do not go away even after your health care professional has advised you to stop taking CRESTOR, notify your health care professional.
+Your health care professional may do further tests to diagnose the cause of your muscle problems.
+
 Liver problems.
 Your health care professional should do blood tests to check your liver before you start taking CRESTOR and if you have symptoms of liver problems while you take CRESTOR.
 Call your doctor right away if you have any of the following symptoms of liver problems:
@@ -233,4 +236,4 @@ Wilmington, DE 19850
 ASTRAZENECA
 
 Rev.
-February, 2012
+October 2012

@@ -3,35 +3,21 @@
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
 - •Rhabdomyolysis with myoglobinuria and acute renal failure and myopathy (including myositis) [see Warnings and Precautions (5.1)]
-- 
-
 - •Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
 
 In the CRESTOR controlled clinical trials database (placebo or active-controlled) of 5394 patients with a mean treatment duration of 15 weeks, 1.4% of patients discontinued due to adverse reactions.
 The most common adverse reactions that led to treatment discontinuation were:
 
 - •Myalgia
-- 
-
 - •abdominal pain
-- 
-
 - •nausea
 
 The most commonly reported adverse reactions (incidence ≥ 2%) in the CRESTOR controlled clinical trial database of 5394 patients were:
 
 - •headache
-- 
-
 - •myalgia
-- 
-
 - •abdominal pain
-- 
-
 - •asthenia
-- 
-
 - •nausea
 - 
 
@@ -106,8 +92,10 @@ Four of 130 (3%) children treated with rosuvastatin (2 treated with 10 mg and 2 
 
 ## 6.3 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of CRESTOR: arthralgia, fatal and non-fatal hepatic failure, hepatitis, jaundice, depression, and sleep disorders (including insomnia and nightmares).
+The following adverse reactions have been identified during postapproval use of CRESTOR: arthralgia, fatal and non-fatal hepatic failure, hepatitis, jaundice, depression, sleep disorders (including insomnia and nightmares) and gynecomastia.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
 
 There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
 These cognitive issues have been reported for all statins.

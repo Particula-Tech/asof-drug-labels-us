@@ -53,7 +53,7 @@ Elderly patients are at higher risk of myopathy and CRESTOR should be prescribed
 ## 8.6 Renal Impairment
 
 Rosuvastatin exposure is not influenced by mild to moderate renal impairment (CLcr ≥ 30 mL/min/1.73 m2); however, exposure to rosuvastatin is increased to a clinically significant extent in patients with severe renal impairment who are not receiving hemodialysis.
-CRESTOR dosing should be adjusted in patients with severe renal impairment (CLcr < 30 mL/min/1.73 m2) not requiring hemodialysis [see Dosage and Administration (2.7), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+CRESTOR dosing should be adjusted in patients with severe renal impairment (CLcr < 30 mL/min/1.73 m2) not requiring hemodialysis [see Dosage and Administration (2.6), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
