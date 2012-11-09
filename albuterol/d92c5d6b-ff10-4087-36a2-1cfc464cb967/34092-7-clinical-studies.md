@@ -14,7 +14,7 @@ Results from the 2 clinical trials are described below.
 In a 12-week, randomized, double-blind study, VENTOLIN HFA (101 patients) was compared to CFC 11/12-propelled albuterol (99 patients) and an HFA-134a placebo inhaler (97 patients) in adolescent and adult patients 12 to 76 years of age with mild to moderate asthma.
 Serial FEV1 measurements [shown below as percent change from test-day baseline at Day 1 (n = 297) and at Week 12 (n = 249)] demonstrated that 2 inhalations of VENTOLIN HFA produced significantly greater improvement in FEV1 over the pretreatment value than placebo.
 
-FEV1 as Percent Change From Predose in a Large, 12-Week Clinical Trial
+FEV1 as Percent Change >From Predose in a Large, 12-Week Clinical Trial
 
 Day 1
 

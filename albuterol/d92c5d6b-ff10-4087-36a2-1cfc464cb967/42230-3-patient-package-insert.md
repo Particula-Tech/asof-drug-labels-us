@@ -87,10 +87,10 @@ VENTOLIN HFA may cause serious side effects, including:
 - •possible death in people with asthma who use too much VENTOLIN HFA
 - •allergic reactions.
   Call your healthcare provider right away if you have any of the following symptoms of an allergic reaction:
-  - oitchy skin
-  - oswelling beneath your skin or in your throat
-  - orash
-  - oworsening trouble breathing
+  - ∘itchy skin
+  - ∘swelling beneath your skin or in your throat
+  - ∘rash
+  - ∘worsening trouble breathing
 - •low potassium levels in your blood
 - •worsening of other medical problems in people who also use VENTOLIN HFA, including increases in blood sugar
 
@@ -190,12 +190,9 @@ Do not prime your VENTOLIN HFA every day.
 - •Remove the protective cap from the mouthpiece.
 - •Shake the inhaler well, and spray it into the air away from your face.
   See Figure C.
-- 
-
 - •Shake and spray the inhaler like this 3 more times to finish priming it.
   After you prime the actuator for the first time, the dose counter in the window on the back of the actuator should show the number 200 or 60, depending on which size inhaler you have.
   See Figure D.
-- 
 
 Each time you use your VENTOLIN HFA inhaler:
 
@@ -213,31 +210,34 @@ Reading the dose counter on your VENTOLIN HFA actuator:
 
 Using your VENTOLIN HFA inhaler:
 
-- Step 1.Shake the inhaler well before each spray.
-  Take the cap off the mouthpiece of the actuator.
-- Step 2.
-  Hold the inhaler with the mouthpiece down.
-  See Figure E.
-- 
+Step 1.Shake the inhaler well before each spray.
+Take the cap off the mouthpiece of the actuator.
 
-1. Step 3.
-   Breathe out through your mouth and push as much air from your lungs as you can.
-   Put the mouthpiece in your mouth and close your lips around it.
-   See Figure F.
-2. Step 4.
-   Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth.
-   See Figure F.
-3. 
+Step 2.
+Hold the inhaler with the mouthpiece down.
+See Figure E.
 
-1. Step 5.
-   Right after the spray comes out, take your finger off the canister.
-   After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
-2. Step 6.Hold your breath as long as you can, up to 10 seconds, then breathe normally.
-3. If your healthcare provider has told you to use more sprays, wait 1 minute and shake the inhaler again.
-   Repeat Steps 2 through Step 6.
-4. Step 7.
-   Put the cap back on the mouthpiece after every time you use the inhaler.
-   Make sure the cap snaps firmly into place.
+Step 3.
+Breathe out through your mouth and push as much air from your lungs as you can.
+Put the mouthpiece in your mouth and close your lips around it.
+See Figure F.
+
+Step 4.
+Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth.
+See Figure F.
+
+Step 5.
+Right after the spray comes out, take your finger off the canister.
+After you have breathed in all the way, take the inhaler out of your mouth and close your mouth.
+
+Step 6.Hold your breath as long as you can, up to 10 seconds, then breathe normally.
+
+If your healthcare provider has told you to use more sprays, wait 1 minute and shake the inhaler again.
+Repeat Steps 2 through Step 6.
+
+Step 7.
+Put the cap back on the mouthpiece after every time you use the inhaler.
+Make sure the cap snaps firmly into place.
 
 Cleaning your VENTOLIN HFA actuator:
 
@@ -247,32 +247,33 @@ See Figure G.
 - •Do not try to clean the metal canister or let it get wet.
   The inhaler may stop spraying if it is not cleaned correctly.
 - •Wash the actuator at least once a week as follows:
-- Step 8.
-  Take the canister out of the actuator, and take the cap off the mouthpiece.
-  The strap on the cap will stay attached to the actuator.
-- Step 9.
-  Hold the actuator under the faucet and run warm water through it for about 30 seconds.
-  See Figure H.
-- 
 
-- Step 10.
-  Turn the actuator upside down and run warm water through the mouthpiece for about 30 seconds.
-  See Figure I.
+Step 8.
+Take the canister out of the actuator, and take the cap off the mouthpiece.
+The strap on the cap will stay attached to the actuator.
 
-1. Step 11.
-   Shake off as much water from the actuator as you can.
-   Look into the mouthpiece to make sure any medicine build-up has been completely washed away.
-   If there is any build-up, repeat Steps 9 and 10.
-2. Step 12.
-   Let the actuator air-dry completely, such as overnight.
-   See Figure J.
-3. 
+Step 9.
+Hold the actuator under the faucet and run warm water through it for about 30 seconds.
+See Figure H.
 
-- Step 13.
-  When the actuator is dry, put the canister in the actuator and make sure it fits firmly.
-  Shake the inhaler well and spray it once into the air away from your face.
-  (The counter will count down by 1 number.)
-  Put the cap back on the mouthpiece.
+Step 10.
+Turn the actuator upside down and run warm water through the mouthpiece for about 30 seconds.
+See Figure I.
+
+Step 11.
+Shake off as much water from the actuator as you can.
+Look into the mouthpiece to make sure any medicine build-up has been completely washed away.
+If there is any build-up, repeat Steps 9 and 10.
+
+Step 12.
+Let the actuator air-dry completely, such as overnight.
+See Figure J.
+
+Step 13.
+When the actuator is dry, put the canister in the actuator and make sure it fits firmly.
+Shake the inhaler well and spray it once into the air away from your face.
+(The counter will count down by 1 number.)
+Put the cap back on the mouthpiece.
 
 If you need to use your inhaler before the actuator is completely dry:
 
@@ -280,7 +281,7 @@ If you need to use your inhaler before the actuator is completely dry:
 - •Put the canister in the actuator and make sure it fits firmly.
 - •Shake the inhaler well and spray it once into the air away from your face.
 - •Take your VENTOLIN HFA dose as prescribed.
-- •Follow cleaning Steps 9 through 13 above.
+- •Follow cleaning Steps 8 through 13 above.
 
 Replacing your VENTOLIN HFA inhaler:
 
@@ -291,7 +292,7 @@ Replacing your VENTOLIN HFA inhaler:
 
 VENTOLIN is a registered trademark of GlaxoSmithKline.
 
-This Patient Information and Instructions for Use has been approved by the U.S Food and Drug Administration.
+This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 GlaxoSmithKline
 
@@ -300,6 +301,6 @@ Research Triangle Park, NC 27709
 ©2012, GlaxoSmithKline.
 All rights reserved.
 
-September 2012
+October 2012
 
-VNT:7PIL
+VNT:8PIL
