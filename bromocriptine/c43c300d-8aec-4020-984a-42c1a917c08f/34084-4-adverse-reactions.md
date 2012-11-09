@@ -23,7 +23,7 @@ Rarely (less than 1 %) hair loss, alcohol potentiation, faintness, lightheadedne
 
 ## Parkinson's Disease
 
-In clinical trials in which bromocriptine was administered with concomitant reduction in the dose of levodopa/carbidopa, the most common newly appearing adverse reactions were: nausea, abnormal involuntary movements, hallucinations, confusion, “on-off” phenomenon, dizziness, drowsiness, faintness/ fainting, vomiting, asthenia, abdominal discomfort, visual disturbance, ataxia, insomnia, depression, hypotension, shortness of breath, constipation, and vertigo.
+In clinical trials in which bromocriptine mesylate was administered with concomitant reduction in the dose of levodopa/carbidopa, the most common newly appearing adverse reactions were: nausea, abnormal involuntary movements, hallucinations, confusion, “on-off” phenomenon, dizziness, drowsiness, faintness/ fainting, vomiting, asthenia, abdominal discomfort, visual disturbance, ataxia, insomnia, depression, hypotension, shortness of breath, constipation, and vertigo.
 
 Less common adverse reactions which may be encountered include: anorexia, anxiety, blepharospasm, dry mouth, dysphagia, edema of the feet and ankles, erythromelalgia, epileptiform seizure, fatigue, headache, lethargy, mottling of skin, nasal stuffiness, nervousness, nightmares, paresthesia, skin rash, urinary frequency, urinary incontinence, urinary retention, and rarely, signs and symptoms of ergotism such as tingling of fingers, cold feet, numbness, muscle cramps of feet and legs or exacerbation of Raynaud's syndrome.
 
@@ -31,15 +31,34 @@ Abnormalities in laboratory tests may include elevations in blood urea nitrogen,
 
 ## Adverse Reactions from Postmarketing Experience
 
-Pleural and pericardial effusions, pleural, and pulmonary fibrosis or retroperitoneal fibrosis and constrictive pericarditis have been reported rarely in patients treated with bromocriptine mesylate.
+The following adverse reactions have been reported during postapproval use of bromocriptine mesylate (All Indications Combined).
+Because adverse reactions from spontaneous reports are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Very rarely, a syndrome resembling Neuroleptic Malignant Syndrome has been reported on abrupt withdrawal of bromocriptine mesylate.
+Psychiatric Disorders: Confusion, psychomotor agitation/excitation, hallucinations, psychotic disorders, insomnia, libido increase, hypersexuality.
 
-Blurred vision, dyskinesia, and psychomotor agitation/excitation have also occurred in postmarketing experiences.
+Nervous System Disorders: Headache, drowsiness, dizziness, dyskinaesia, somnolence, paraesthesia, excess daytime somnolence, sudden onset of sleep.
 
-## Adverse Events Observed in Other Conditions: Postpartum Patients
+Eye Disorders: Visual disturbance, vision blurred.
 
-In postpartum studies with bromocriptine mesylate, 23 percent of postpartum patients treated had at least 1 side effect, but they were generally mild to moderate in degree.
+Ear and Labyrinth Disorders: Tinnitus.
+
+Cardiac Disorders: Pericardial effusion, constrictive pericarditis, tachycardia, bradycardia, arrhythmia, cardiac valve fibrosis.
+
+Vascular Disorders: Hypotension, orthostatic hypotension (very rarely leading to syncope), reversible pallor of fingers and toes induced by cold (especially in patients with history of Raynaud's phenomenon)
+
+Respiratory, Thoracic and Mediastinal Disorders: Nasal congestion, pleural effusion, pleural fibrosis, pleurisy, pulmonary fibrosis, dyspnoea.
+
+Gastrointestinal Disorders: Nausea, constipation, vomiting, dry mouth, diarrhoea, abdominal pain, retroperitoneal fibrosis, gastrointestinal ulcer, gastrointestinal haemorrhage.
+
+Skin and Subcutaneous Tissue Disorders: Allergic skin reactions, hair loss.
+
+Musculoskeletal and Connective Tissue Disorders: Leg cramps.
+
+General Disorders and Administration Site Conditions: Fatigue, peripheral edema, a syndrome resembling Neuroleptic Malignant Syndrome on abrupt withdrawal of bromocriptine mesylate (see PRECAUTIONS).
+
+## Adverse Events Observed in Other Conditions
+
+Postpartum Patients (see above WARNINGS): In postpartum studies with bromocriptine mesylate, 23 percent of postpartum patients treated had at least 1 side effect, but they were generally mild to moderate in degree.
 Therapy was discontinued in approximately 3% of patients.
 The most frequently occurring adverse reactions were: headache (10%), dizziness (8%), nausea (7%), vomiting (3%), fatigue (1.0%), syncope (0.7%), diarrhea (0.4%) and cramps (0.4%).
 Decreases in blood pressure (≥ 20 mm Hg systolic and ≥10 mm Hg diastolic) occurred in 28% of patients at least once during the first 3 postpartum days; these were usually of a transient nature.
@@ -51,3 +70,10 @@ Most patients had shown no evidence of any of the hypertensive disorders of preg
 One stroke case was associated with sagittal sinus thrombosis, and another was associated with cerebral and cerebellar vasculitis.
 One case of myocardial infarction was associated with unexplained disseminated intravascular coagulation and a second occurred in conjunction with use of another ergot alkaloid.
 The relationship of these adverse reactions to bromocriptine mesylate administration has not been established.
+
+In rare cases serious adverse events, including hypertension, myocardial infarction, seizures, stroke, or psychic disorders have been reported in postpartum women treated with bromocriptine mesylate.
+In some patients the development of seizures or stroke was preceded by severe headache and/or transient visual disturbances.
+Although the causal relationship of these events to the drug is uncertain, periodic monitoring of blood pressure is advisable in postpartum women receiving bromocriptine mesylate.
+If hypertension, severe, progressive, or unremitting headache (with or without visual disturbances), or evidence of CNS toxicity develop, the administration of bromocriptine mesylate should be discontinued and the patient should be evaluated promptly.
+
+Particular caution is required in patients who have recently been treated or are on concomitant therapy with drugs that can alter blood pressure, e.g. vasoconstrictors such as sympathomimetics or ergot alkaloids including ergometrine or methylergometrine and their concomitant use in the puerperium is not recommended.
