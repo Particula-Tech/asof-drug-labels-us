@@ -125,6 +125,9 @@ These serious side effects include:
 Call your doctor right away if you have:
 
 - muscle problems like weakness, tenderness, or pain that happen without a good reason, especially if you also have a fever or feel more tired than usual.
+  This may be an early sign of a rare muscle problem.
+- muscle problems that do not go away even after your doctor has advised you to stop taking LIPITOR.
+  Your doctor may do further tests to diagnose the cause of your muscle problems.
 - allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing which may require treatment right away.
 - nausea and vomiting.
 - passing brown or dark-colored urine.
@@ -169,4 +172,4 @@ Active Ingredient: atorvastatin calcium
 
 Inactive Ingredients: calcium carbonate, USP; candelilla wax, FCC; croscarmellose sodium, NF; hydroxypropyl cellulose, NF; lactose monohydrate, NF; magnesium stearate, NF; microcrystalline cellulose, NF; Opadry White YS-1-7040 (hypromellose, polyethylene glycol, talc, titanium dioxide); polysorbate 80, NF; simethicone emulsion.
 
-LAB-0348-7.0 February 2012
+LAB-0348-8.0 October 2012

@@ -1,47 +1,111 @@
-PRINCIPAL DISPLAY PANEL - 10 mg Tablets
+PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
 NDC 0071-0155-23
 
-90 Tablets Rx only
+Pfizer
 
-Lipitor® 10 (atorvastatin calcium) tablets
+Lipitor® (atorvastatin calcium)
 
 10 mg*
 
-Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
+tablets
 
-PRINCIPAL DISPLAY PANEL - 20 mg Tablets
+90 Tablets Rx only
+
+PRINCIPAL DISPLAY PANEL - 10 mg Blister Pack Carton
+
+Pfizer
+
+Lipitor® (atorvastatin calcium)
+
+10 mg*
+
+tablets
+
+For in-institution use only
+
+100 Tablets
+
+PRINCIPAL DISPLAY PANEL - 20 mg Tablet Bottle Label
 
 NDC 0071-0156-23
 
-90 Tablets Rx only
+Pfizer
 
-Lipitor® 20 (atorvastatin calcium) tablets
+Lipitor® (atorvastatin calcium)
 
 20 mg*
 
-Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
+tablets
 
-PRINCIPAL DISPLAY PANEL - 40 mg Tablets
+90 Tablets Rx only
+
+PRINCIPAL DISPLAY PANEL - 20 mg Blister Pack Carton
+
+Pfizer
+
+Lipitor® (atorvastatin calcium)
+
+20 mg*
+
+tablets
+
+For in-institution use only
+
+100 Tablets
+
+PRINCIPAL DISPLAY PANEL - 40 mg Tablet Bottle Label
 
 NDC 0071-0157-23
 
-90 Tablets Rx only
+Pfizer
 
-Lipitor® 40 (atorvastatin calcium) tablets
+Lipitor® (atorvastatin calcium)
 
 40 mg*
 
-Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
-
-PRINCIPAL DISPLAY PANEL - 80 mg Tablets
-
-NDC 0071-0158-23
+tablets
 
 90 Tablets Rx only
 
-Lipitor® 80 (atorvastatin calcium) tablets
+PRINCIPAL DISPLAY PANEL - 40 mg Blister Pack Carton
+
+Pfizer
+
+Lipitor® (atorvastatin calcium)
+
+40 mg*
+
+tablets
+
+For in-institution use only
+
+100 Tablets
+
+PRINCIPAL DISPLAY PANEL - 80 mg Tablet Bottle Label
+
+NDC 0071-0158-23
+
+Pfizer
+
+Lipitor® (atorvastatin calcium)
 
 80 mg*
 
-Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
+tablets
+
+90 Tablets Rx only
+
+PRINCIPAL DISPLAY PANEL - 80 mg Blister Pack Carton
+
+Pfizer
+
+Lipitor® (atorvastatin calcium)
+
+80 mg*
+
+tablets
+
+For in-institution use only
+
+64 Tablets

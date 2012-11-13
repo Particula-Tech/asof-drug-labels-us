@@ -15,6 +15,7 @@ The extent of interaction and potentiation of effects depend on the variability 
   Therefore, in patients taking the HIV protease inhibitor tipranavir plus ritonavir, or the hepatitis C protease inhibitor telaprevir, concomitant use of LIPITOR should be avoided.
   In patients taking the HIV protease inhibitor lopinavir plus ritonavir, caution should be used when prescribing LIPITOR and the lowest dose necessary should be used.
   In patients taking the HIV protease inhibitors saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, the dose of LIPITOR should not exceed 20 mg and should be used with caution [see Warnings and Precautions, Skeletal Muscle (5.1) and Dosage and Administration (2.6)].
+  In patients taking the HIV protease inhibitor nelfinavir or the hepatitis C protease inhibitor boceprevir, the dose of LIPITOR should not exceed 40 mg and close clinical monitoring is recommended.
 
 - Itraconazole: Atorvastatin AUC was significantly increased with concomitant administration of LIPITOR 40 mg and itraconazole 200 mg [see Clinical Pharmacology (12.3)].
   Therefore, in patients taking itraconazole, caution should be used when the LIPITOR dose exceeds 20 mg [see Warnings and Precautions, Skeletal Muscle (5.1) and Dosage and Administration (2.6)].

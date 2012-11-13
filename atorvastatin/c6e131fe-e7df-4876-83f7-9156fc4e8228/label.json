@@ -3,7 +3,7 @@
     "NDA020702"
   ],
   "inn": "atorvastatin",
-  "labeler": "Parke-Davis Division of Pfizer Inc",
+  "labeler": "Parke-Davis Div of Pfizer Inc",
   "package_ndcs": [
     "0071-0155-23",
     "0071-0155-34",
@@ -23,7 +23,7 @@
   "products": [
     {
       "form": "TABLET, FILM COATED",
-      "generic": "atorvastatin calcium trihydrate",
+      "generic": "atorvastatin calcium",
       "name": "Lipitor"
     }
   ],

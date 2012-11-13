@@ -7,7 +7,7 @@ Patients should also be advised to inform other healthcare professionals prescri
 
 ## 17.1 Muscle Pain
 
-All patients starting therapy with LIPITOR should be advised of the risk of myopathy and told to report promptly any unexplained muscle pain, tenderness, or weakness.
+All patients starting therapy with LIPITOR should be advised of the risk of myopathy and told to report promptly any unexplained muscle pain, tenderness, or weakness particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing LIPITOR.
 The risk of this occurring is increased when taking certain types of medication or consuming larger quantities (>1 liter) of grapefruit juice.
 They should discuss all medication, both prescription and over the counter, with their healthcare professional.
 
