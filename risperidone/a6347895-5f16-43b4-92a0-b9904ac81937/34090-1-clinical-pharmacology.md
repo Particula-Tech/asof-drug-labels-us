@@ -2,17 +2,16 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of risperidone, as with other drugs used to treat schizophrenia, is unknown.
-However, it has been proposed that the drug's therapeutic activity in schizophrenia is mediated through a combination of dopamine Type 2 (D2) and serotonin Type 2 (5HT2) receptor antagonism.
+The mechanism of action of risperidone, in schizophrenia, is unknown.
+However, it has been proposed that the drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D2) and serotonin Type 2 (5HT2) receptor antagonism.
+The clinical effect from risperidone results from the combined concentrations of risperidone and its major metabolite, 9-hydroxyrisperidone [see Clinical Pharmacology (12.3)].
+Antagonism at receptors other than D2 and 5HT2 [see Clinical Pharmacology (12.1)] may explain some of the other effects of risperidone.
+
+## 12.2 Pharmacodynamics
 
 Risperidone is a selective monoaminergic antagonist with high affinity (Ki of 0.12 to 7.3 nM) for the serotonin Type 2 (5HT2), dopamine Type 2 (D2), α1 and α2 adrenergic, and H1 histaminergic receptors.
 Risperidone acts as an antagonist at other receptors, but with lower potency.
 Risperidone has low to moderate affinity (Ki of 47 to 253 nM) for the serotonin 5HT1C, 5HT1D, and 5HT1A receptors, weak affinity (Ki of 620 to 800 nM) for the dopamine D1 and haloperidol-sensitive sigma site, and no affinity (when tested at concentrations >10-5 M) for cholinergic muscarinic or β1 and β2 adrenergic receptors.
-
-## 12.2 Pharmacodynamics
-
-The clinical effect from risperidone results from the combined concentrations of risperidone and its major metabolite, 9-hydroxyrisperidone [see Clinical Pharmacology (12.3)].
-Antagonism at receptors other than D2 and 5HT2[see Clinical Pharmacology (12.1)] may explain some of the other effects of risperidone.
 
 ## 12.3 Pharmacokinetics
 
@@ -28,7 +27,7 @@ Plasma concentrations of risperidone, its major metabolite, 9-hydroxyrisperidone
 Following oral administration of solution or tablet, mean peak plasma concentrations of risperidone occurred at about 1 hour.
 Peak concentrations of 9-hydroxyrisperidone occurred at about 3 hours in extensive metabolizers, and 17 hours in poor metabolizers.
 Steady-state concentrations of risperidone are reached in 1 day in extensive metabolizers and would be expected to reach steady-state in about 5 days in poor metabolizers.
-Steady-state concentrations of 9-hydroxyrisperidone are reached in 5-6 days (measured inextensive metabolizers).
+Steady-state concentrations of 9-hydroxyrisperidone are reached in 5-6 days (measured in extensive metabolizers).
 
 Food Effect
 
@@ -44,7 +43,7 @@ The plasma protein binding of risperidone is 90%, and that of its major metaboli
 Neither risperidone nor 9-hydroxyrisperidone displaces each other from plasma binding sites.
 High therapeutic concentrations of sulfamethazine (100 mcg/mL), warfarin (10 mcg/mL), and carbamazepine (10mcg/mL) caused only a slight increase in the free fraction of risperidone at 10 ng/mL and 9-hydroxyrisperidone at 50 ng/mL, changes of unknown clinical significance.
 
-Metabolism and Drug Interactions
+Metabolism
 
 Risperidone is extensively metabolized in the liver.
 The main metabolic pathway is through hydroxylation of risperidone to 9-hydroxyrisperidone by the enzyme, CYP 2D6.
@@ -58,12 +57,18 @@ Extensive CYP 2D6 metabolizers convert risperidone rapidly into 9-hydroxyrisperi
 Although extensive metabolizers have lower risperidone and higher 9-hydroxyrisperidone concentrations than poor metabolizers, the pharmacokinetics of risperidone and 9-hydroxyrisperidone combined, after single and multiple doses, are similar in extensive and poor metabolizers.
 
 Risperidone could be subject to two kinds of drug-drug interactions.
-First, inhibitors of CYP 2D6 interfere with conversion of risperidone to 9-hydroxyrisperidone [see Drug Interactions (7.12)].
+First, inhibitors of CYP 2D6 interfere with conversion of risperidone to 9-hydroxyrisperidone [see Drug Interactions (7)].
 This occurs with quinidine, giving essentially all recipients a risperidone pharmacokinetic profile typical of poor metabolizers.
-The therapeutic benefits and adverse effects of risperidone in patients receiving quinidine have not been evaluated, but observations in a modest number (n70) of poor metabolizers given risperidone do not suggest important differences between poor and extensive metabolizers.
-Second, co-administration of known enzyme inducers (e.g., carbamazepine, phenytoin, rifampin, and phenobarbital) with risperidone may cause a decrease in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone [see Drug Interactions (7.11)].
+The therapeutic benefits and adverse effects of risperidone in patients receiving quinidine have not been evaluated, but observations in a modest number (n≅70) of poor metabolizers given risperidone do not suggest important differences between poor and extensive metabolizers.
+Second, co-administration of known enzyme inducers (e.g., carbamazepine, phenytoin, rifampin, and phenobarbital) with risperidone may cause a decrease in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone [see Drug Interactions (7)].
 It would also be possible for risperidone to interfere with metabolism of other drugs metabolized by CYP 2D6.
-Relatively weak binding of risperidone to the enzyme suggests this is unlikely [see Drug Interactions (7.12)].
+Relatively weak binding of risperidone to the enzyme suggests this is unlikely [see Drug Interactions (7)].
+
+In vitro studies indicate that risperidone is a relatively weak inhibitor of CYP 2D6.
+Therefore, risperidone is not expected to substantially inhibit the clearance of drugs that are metabolized by this enzymatic pathway.
+In drug interaction studies, risperidone did not significantly affect the pharmacokinetics of donepezil and galantamine, which are metabolized by CYP 2D6.
+
+In vitro studies demonstrated that drugs metabolized by other CYP isozymes, including 1A1, 1A2, 2C9, 2C19, and 3A4, are only weak inhibitors of risperidone metabolism.
 
 Excretion
 
@@ -72,22 +77,22 @@ As illustrated by a mass balance study of a single 1 mg oral dose of 14C-risperi
 
 The apparent half-life of risperidone was 3 hours (CV=30%) in extensive metabolizers and 20 hours (CV=40%) in poor metabolizers.
 The apparent half-life of 9-hydroxyrisperidone was about 21 hours (CV=20%) in extensive metabolizers and 30 hours (CV=25%) in poor metabolizers.
-The pharmacokinetics of risperidone and 9-hydroxyrisperidone combined, after single and multiple doses were similar in extensive and poor metabolizers, with an overall mean elimination half-life of about 20 hours.
+The pharmacokinetics of risperidone and 9-hydroxyrisperidone combined, after single and multiple doses, were similar in extensive and poor metabolizers, with an overall mean elimination half-life of about 20 hours.
 
-Renal Impairment
+Drug-Drug Interaction Studies
 
-In patients with moderate to severe renal disease, clearance of the sum of risperidone and its active metabolite decreased by 60% compared to young healthy subjects.
-Risperidone doses should be reduced in patients with renal disease [see Dosage and Administration (2.4) and Warnings and Precautions (5.17)].
+[See Drug Interactions (7)].
 
-Hepatic Impairment
+Specific Populations
 
-While the pharmacokinetics of risperidone in subjects with liver disease were comparable to those in young healthy subjects, the mean free fraction of risperidone in plasma was increased by about 35% because of the diminished concentration of both albumin and α1-acid glycoprotein.
-Risperidone doses should be reduced in patients with liver disease [see Dosage and Administration (2.4) and Warnings and Precautions (5.17)].
+Renal and Hepatic Impairment
+
+[See Use in Specific Populations (8.6 and 8.7)].
 
 Elderly
 
 In healthy elderly subjects, renal clearance of both risperidone and 9-hydroxyrisperidone was decreased, and elimination half-lives were prolonged compared to young healthy subjects.
-Dosing should be modified accordingly in the elderly patients [see Dosage and Administration (2.4)].
+Dosing should be modified accordingly in the elderly patients [see Use in Specific Populations (8.5)].
 
 Pediatric
 
@@ -95,4 +100,4 @@ The pharmacokinetics of risperidone and 9-hydroxyrisperidone in children were si
 
 Race and Gender Effects
 
-No specific pharmacokinetic study was conducted to investigate race and gender effects, but population pharmacokinetic analysis did not identify important differences in the disposition of risperidone due to gender (whether corrected for body weight or not) or race.
+No specific pharmacokinetic study was conducted to investigate race and gender effects, but a population pharmacokinetic analysis did not identify important differences in the disposition of risperidone due to gender (whether corrected for body weight or not) or race.
