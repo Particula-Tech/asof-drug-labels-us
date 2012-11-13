@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091687"
+  ],
+  "inn": "dextromethorphan",
+  "labeler": "Tris Pharma Inc",
+  "package_ndcs": [
+    "27808-057-01"
+  ],
+  "products": [
+    {
+      "form": "SYRUP",
+      "generic": "promethazine hydrochloride and dextromethorphan hydrobromide",
+      "name": "Promethazine Hydrochloride and Dextromethorphan Hydrobromide"
+    }
+  ],
+  "setid": "a8b57027-a4b8-4149-93e8-aa3e7a6d6dc3",
+  "source": "dailymed"
+}
