@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA077652"
+  ],
+  "inn": "levofloxacin",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "65841-691-01",
+    "65841-691-05",
+    "65841-691-18",
+    "65841-692-01",
+    "65841-692-05",
+    "65841-692-10",
+    "65841-692-18",
+    "65841-693-01",
+    "65841-693-05",
+    "65841-693-18"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "levofloxacin",
+      "name": "levofloxacin"
+    }
+  ],
+  "setid": "ffa121b8-388f-4d7b-af48-d4aa8d9b5961",
+  "source": "dailymed"
+}
