@@ -46,17 +46,15 @@ Gender: Mean dose-normalized AUC and Cmax values were comparable between male (n
 
 Race: The effect of race on exposure to bortezomib could not be assessed as most of the patients were Caucasian.
 
-Hepatic Impairment: The effect of hepatic impairment (see Table 4 for definition of hepatic impairment) on the pharmacokinetics of bortezomib was assessed in 51 cancer patients at bortezomib doses ranging from 0.5 to 1.3 mg/m2.
+Hepatic Impairment: The effect of hepatic impairment (see Table 4 for definition of hepatic impairment) on the pharmacokinetics of bortezomib was assessed in 60 patients with cancer at bortezomib doses ranging from 0.5 to 1.3 mg/m2.
 When compared to patients with normal hepatic function, mild hepatic impairment did not alter dose-normalized bortezomib AUC.
 However, the dose-normalized mean AUC values were increased by approximately 60% in patients with moderate or severe hepatic impairment.
-A lower starting dose is recommended in patients with moderate or severe hepatic impairment, and those patients should be monitored closely.
-[see Dosage and Administration (2.6), Warnings and Precautions (5.10) and Use in Specific Populations (8.7)]
+A lower starting dose is recommended in patients with moderate or severe hepatic impairment, and those patients should be monitored closely [see Dosage and Administration (2.6) and Use in Specific Populations (8.7)].
 
 Renal Impairment: A pharmacokinetic study was conducted in patients with various degrees of renal impairment who were classified according to their creatinine clearance values (CrCl) into the following groups: Normal (CrCl ≥60 mL/min/1.73 m2, N=12), Mild (CrCl=40-59 mL/min/1.73 m2, N=10), Moderate (CrCl=20-39 mL/min/1.73 m2, N=9), and Severe (CrCl < 20 mL/min/1.73 m2, N=3).
 A group of dialysis patients who were dosed after dialysis was also included in the study (N=8).
 Patients were administered intravenous doses of 0.7 to 1.3 mg/m2 of bortezomib twice weekly.
-Exposure of bortezomib (dose-normalized AUC and Cmax) was comparable among all the groups.
-[see Use in Specific Populations (8.6)]
+Exposure of bortezomib (dose-normalized AUC and Cmax) was comparable among all the groups [see Use in Specific Populations (8.6)].
 
 Pediatric: There are no pharmacokinetic data in pediatric patients.
 

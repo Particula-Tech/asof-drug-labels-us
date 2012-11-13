@@ -5,7 +5,7 @@ Bortezomib is a substrate of cytochrome P450 enzyme 3A4, 2C19 and 1A2.
 ## 7.1 CYP3A4 inhibitors
 
 Co-administration of ketoconazole, a strong CYP3A4 inhibitor, increased the exposure of bortezomib by 35% in 12 patients.
-Therefore, patients should be closely monitored when given bortezomib in combination with strong CYP3A4 inhibitors (e.g. ketoconazole, ritonavir).
+Monitor patients for signs of bortezomib toxicity and consider a bortezomib dose reduction if bortezomib must be given in combination with strong CYP3A4 inhibitors (e.g. ketoconazole, ritonavir).
 
 ## 7.2 CYP2C19 inhibitors
 

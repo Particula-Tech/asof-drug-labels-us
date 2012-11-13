@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-There is no known specific antidote for VELCADE overdosage [see Warnings and Precautions (5) and Dosage and Administration (2)].
+There is no known specific antidote for VELCADE overdosage.
 In humans, fatal outcomes following the administration of more than twice the recommended therapeutic dose have been reported, which were associated with the acute onset of symptomatic hypotension (5.2) and thrombocytopenia (5.7).
 In the event of an overdosage, the patient's vital signs should be monitored and appropriate supportive care given.
 

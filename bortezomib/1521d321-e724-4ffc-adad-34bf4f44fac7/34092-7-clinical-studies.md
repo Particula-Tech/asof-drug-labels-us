@@ -19,9 +19,9 @@ In an updated analysis of overall survival based on 387 deaths (median follow-up
 
 Table 11: Summary of Efficacy Analyses in the Previously Untreated Multiple Myeloma Study
 
-| Efficacy Endpoint | VELCADE, Melphalan and Prednisone n=344 | Melphalan and Prednisone n=338 |
-| --- | --- | --- |
 | Time to Progression |  |  |
+| --- | --- | --- |
+| Efficacy Endpoint | VELCADE, Melphalan and Prednisone n=344 | Melphalan and Prednisone n=338 |
 | Events n (%) | 101 (29) | 152 (45) |
 | MedianKaplan-Meier estimate (months) (95% CI) | 20.7 (17.6, 24.7) | 15.0 (14.1, 17.9) |
 | Hazard ratioHazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: beta2-microglobulin, albumin, and region. A hazard ratio less than 1 indicates an advantage for VELCADE, melphalan and prednisone (95% CI) | 0.54 (0.42, 0.70) |  |
@@ -47,10 +47,16 @@ Table 11: Summary of Efficacy Analyses in the Previously Untreated Multiple Myel
 TTP was statistically significantly longer on the VELCADE, melphalan and prednisone arm (see Figure 1).
 (median follow-up 16.3 months)
 
+| Figure 1: Time to Progression VELCADE, Melphalan and Prednisone versus Melphalan and Prednisone |
+| --- |
+
 Overall survival was statistically significantly longer on the VELCADE, melphalan and prednisone arm (see Figure 2).
 (median follow-up 60.1 months)
 
-Randomized, Clinical Study in Relapsed Multiple Myeloma of VELCADE vs. Dexamethasone
+| Figure 2: Overall Survival VELCADE, Melphalan and Prednisone versus Melphalan and Prednisone |
+| --- |
+
+Randomized, Clinical Study in Relapsed Multiple Myeloma of VELCADE versus Dexamethasone
 
 A prospective phase 3, international, randomized (1:1), stratified, open-label clinical study enrolling 669 patients was designed to determine whether VELCADE resulted in improvement in time to progression (TTP) compared to high-dose dexamethasone in patients with progressive multiple myeloma following 1 to 3 prior therapies.
 Patients considered to be refractory to prior high-dose dexamethasone were excluded as were those with baseline Grade ≥ 2 peripheral neuropathy or platelet counts < 50,000/µL.
@@ -92,8 +98,7 @@ Table 12: Summary of Baseline Patient and Disease Characteristics in the Relapse
 Patients in the VELCADE treatment group were to receive eight 3-week treatment cycles followed by three 5-week treatment cycles of VELCADE.
 Patients achieving a CR were treated for 4 cycles beyond first evidence of CR.
 Within each 3-week treatment cycle, VELCADE 1.3 mg/m2/dose alone was administered by intravenous bolus twice weekly for 2 weeks on Days 1, 4, 8, and 11 followed by a 10-day rest period (Days 12 to 21).
-Within each 5-week treatment cycle, VELCADE 1.3 mg/m2/dose alone was administered by intravenous bolus once weekly for 4 weeks on Days 1, 8, 15, and 22 followed by a 13-day rest period (Days 23 to 35).
-[see Dosage and Administration (2.1)]
+Within each 5-week treatment cycle, VELCADE 1.3 mg/m2/dose alone was administered by intravenous bolus once weekly for 4 weeks on Days 1, 8, 15, and 22 followed by a 13-day rest period (Days 23 to 35) [see Dosage and Administration (2.2)].
 
 Patients in the dexamethasone treatment group were to receive four 5-week treatment cycles followed by five 4-week treatment cycles.
 Within each 5-week treatment cycle, dexamethasone 40 mg/day PO was administered once daily on Days 1 to 4, 9 to 12, and 17 to 20 followed by a 15-day rest period (Days 21-35).
@@ -133,13 +138,19 @@ Table 13: Summary of Efficacy Analyses in the Relapsed Multiple Myeloma Study
 
 TTP was statistically significantly longer on the VELCADE arm (see Figure 3).
 
+| Figure 3: Time to Progression Bortezomib versus Dexamethasone (relapsed multiple myeloma study) |
+| --- |
+
 As shown in Figure 4 VELCADE had a significant survival advantage relative to dexamethasone (p < 0.05).
 The median follow-up was 8.3 months.
+
+| Figure 4: Overall Survival Bortezomib versus Dexamethasone (relapsed multiple myeloma study) |
+| --- |
 
 For the 121 patients achieving a response (CR or PR) on the VELCADE arm, the median duration was 8.0 months (95% CI: 6.9, 11.5 months) compared to 5.6 months (95% CI: 4.8, 9.2 months) for the 56 responders on the dexamethasone arm.
 The response rate was significantly higher on the VELCADE arm regardless of β2-microglobulin levels at baseline.
 
-Randomized, Open-Label Clinical Study of VELCADE Subcutaneous vs. Intravenous in Relapsed Multiple Myeloma
+Randomized, Open-Label Clinical Study of VELCADE Subcutaneous versus Intravenous in Relapsed Multiple Myeloma
 
 An open-label, randomized, phase 3 non-inferiority study compared the efficacy and safety of the subcutaneous administration of VELCADE versus the intravenous administration.
 This study included 222 bortezomib naïve patients with relapsed multiple myeloma, who were randomized in a 2:1 ratio to receive 1.3 mg/m2 of VELCADE by either the subcutaneous (n=148) or intravenous (n=74) route for 8 cycles.
@@ -154,7 +165,7 @@ The baseline demographic and others characteristics of the two treatment groups 
 This study met its primary (non-inferiority) objective that single agent subcutaneous VELCADE retains at least 60% of the overall response rate after 4 cycles relative to single agent intravenous VELCADE.
 The results are provided in Table 14.
 
-Table 14: Summary of Efficacy Analyses in the Relapsed Multiple Myeloma Study of VELCADE Subcutaneous vs. Intravenous
+Table 14: Summary of Efficacy Analyses in the Relapsed Multiple Myeloma Study of VELCADE Subcutaneous versus Intravenous
 
 | Primary Endpoint |  |  |
 | --- | --- | --- |
@@ -189,8 +200,7 @@ Patients from the two phase 2 studies, who in the investigators' opinion would e
 Sixty-three (63) patients from the phase 2 multiple myeloma studies were enrolled and received a median of 7 additional cycles of VELCADE therapy for a total median of 14 cycles (range 7 to 32).
 The overall median dosing intensity was the same in both the parent protocol and extension study.
 Sixty-seven percent (67%) of patients initiated the extension study at the same or higher dose intensity at which they completed the parent protocol, and 89% of patients maintained the standard 3-week dosing schedule during the extension study.
-No new cumulative or new long-term toxicities were observed with prolonged VELCADE treatment.
-[see Adverse Reactions (6.1)]
+No new cumulative or new long-term toxicities were observed with prolonged VELCADE treatment [see Adverse Reactions (6.1)].
 
 ## 14.2 Mantle Cell Lymphoma
 
@@ -203,8 +213,7 @@ In 91% of the patients, prior therapy included all of the following: an anthracy
 A total of thirty seven percent (37%) of patients were refractory to their last prior therapy.
 An intravenous bolus injection of VELCADE 1.3 mg/m2/dose was administered twice weekly for 2 weeks on Days 1, 4, 8, and 11 followed by a 10-day rest period (Days 12 to 21) for a maximum of 17 treatment cycles.
 Patients achieving a CR or CRu were treated for 4 cycles beyond first evidence of CR or CRu.
-The study employed dose modifications for toxicity.
-[see Dosage and Administration (2.4, 2.5)]
+The study employed dose modifications for toxicity [see Dosage and Administration (2.4, 2.5)].
 
 Responses to VELCADE are shown in Table 15.
 Response rates to VELCADE were determined according to the International Workshop Response Criteria (IWRC) based on independent radiologic review of CT scans.
