@@ -55,7 +55,7 @@ The following table lists those adverse experiences which occurred in greater th
 
 |  | Lisinopril (n=407) Incidence (discontinuation) 12 weeks | Placebo (n=155) Incidence (discontinuation) 12 weeks |
 | --- | --- | --- |
-|  |  | Controlled Trials |
+|  | Controlled Trials |  |
 | Body as a Whole |  |  |
 | Chest Pain | 3.4 (0.2) | 1.3 (0.0) |
 | Abdominal Pain | 2.2 (0.7) | 1.9 (0.0) |

@@ -31,11 +31,13 @@ In the same patients, these reactions were avoided when ACE inhibitors were temp
 
 ### Anaphylactoid Reactions During Membrane Exposure:
 
-Sudden and potentially life threatening anaphylactoid reactions have been reported in some patients dialyzed with high-flux membranes (e.g., AN69®*) and treated concomitantly with an ACE inhibitor.
+Sudden and potentially life threatening anaphylactoid reactions have been reported in some patients dialyzed with high-flux membranes (e.g., *AN69®) and treated concomitantly with an ACE inhibitor.
 In such patients, dialysis must be stopped immediately, and aggressive therapy for anaphylactoid reactions must be initiated.
 Symptoms have not been relieved by antihistamines in these situations.
 In these patients, consideration should be given to using a different type of dialysis membrane or a different class of antihypertensive agent.
 Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
+
+* AN69® is a registered trademark of Hospal Ltd.
 
 ## Hypotension:
 
@@ -181,6 +183,12 @@ Monitor renal function periodically in patients receiving lisinopril and NSAID t
 
 The antihypertensive effect of ACE inhibitors, including lisinopril, may be attenuated by NSAIDs.
 
+Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function and electrolytes in patients on lisinopril and other agents that affect the RAS.
+
+Do not co-administer aliskiren with lisinopril in patients with diabetes.
+Avoid use of aliskiren with lisinopril in patients with renal impairment (GFR < 60 ml/min).
+
 Other Agents: Lisinopril has been used concomitantly with nitrates and/or digoxin without evidence of clinically significant adverse interactions.
 This included post myocardial infarction patients who were receiving intravenous or transdermal nitroglycerin.
 No clinically important pharmacokinetic interactions occurred when lisinopril was used concomitantly with propranolol or hydrochlorothiazide.
@@ -221,9 +229,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## Pediatric Use
 
-Neonates with a history of in utero exposure to lisinopril:
-
-If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
+Neonates with a history of in utero exposure to lisinopril: If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 Lisinopril, which crosses the placenta, has been removed from neonatal circulation by peritoneal dialysis with some clinical benefit, and theoretically may be removed by exchange transfusion, although there is no experience with the latter procedure.
 
