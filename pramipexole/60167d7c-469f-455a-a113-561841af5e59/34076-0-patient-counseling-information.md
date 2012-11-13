@@ -1,6 +1,6 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-See Medication Guide that accompanies the product.
+See Patient Information that accompanies the product.
 
 ## 17.1 Dosing Instructions
 
@@ -52,7 +52,7 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8037882 Revised October 2012
+8038475 Revised November 2012
 
 PATIENT INFORMATION
 
@@ -105,7 +105,7 @@ Especially tell your doctor if you take:
 - medicines called neuroleptics (phenothiazines, butyrophenones, thioxanthenes) or metoclopramide.
   Pramipexole dihydrochloride tablets may not work as well if you take these medicines.
 - extended-release pramipexole (MIRAPEX ER).
-  Pramipexole is the active ingredient in both Pramipexole dihydrochloride tablets and MIRAPEX ER.
+  Pramipexole is the active ingredient in both pramipexole dihydrochloride tablets and MIRAPEX ER.
   If you are taking MIRAPEX ER, you should not take pramipexole dihydrochloride tablets.
 - any other medicines that make you sleepy or may increase the effects of pramipexole dihydrochloride tablets, such as cimetidine (Tagamet).
 
@@ -245,4 +245,4 @@ For:
 
 TORRENT PHARMA INC., 5380 Holiday Terrace, Suite 40, Kalamazoo, Michigan 49009.
 
-8037782 Revised October 2012
+8038475 Revised November 2012
