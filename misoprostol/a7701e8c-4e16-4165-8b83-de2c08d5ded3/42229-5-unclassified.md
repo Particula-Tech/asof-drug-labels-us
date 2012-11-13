@@ -1,3 +1,3 @@
 Rx only
 
-LAB-0552-1.0 September 2011
+LAB-0552-2.0 May 2012
