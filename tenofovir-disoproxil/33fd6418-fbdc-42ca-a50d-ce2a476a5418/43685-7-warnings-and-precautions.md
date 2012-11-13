@@ -29,7 +29,7 @@ VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent.
 
 ## 5.4 Coadministration with Other Products
 
-VIREAD should not be used in combination with the fixed-dose combination products ATRIPLA, COMPLERA, or TRUVADA since tenofovir disoproxil fumarate is a component of these products.
+VIREAD should not be used in combination with the fixed-dose combination products ATRIPLA, COMPLERA, STRIBILD, or TRUVADA since tenofovir disoproxil fumarate is a component of these products.
 
 VIREAD should not be administered in combination with HEPSERA (adefovir dipivoxil) [See Drug Interactions (7.4)].
 

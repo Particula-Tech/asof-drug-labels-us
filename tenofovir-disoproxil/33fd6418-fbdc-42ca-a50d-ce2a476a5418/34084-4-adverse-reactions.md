@@ -61,9 +61,9 @@ Table 4 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reac
 | Rash eventRash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, and pustular rash. | 18% | 12% |
 
 Laboratory Abnormalities: With the exception of fasting cholesterol and fasting triglyceride elevations that were more common in the stavudine group (40% and 9%) compared with VIREAD (19% and 1%) respectively, laboratory abnormalities observed in this trial occurred with similar frequency in the VIREAD and stavudine treatment arms.
-A summary of Grade 3 and 4 laboratory abnormalities is provided in Table 5.
+A summary of Grades 3–4 laboratory abnormalities is provided in Table 5.
 
-Table 5 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Study 903 (0–144 Weeks)
+Table 5 Grades 3–4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Study 903 (0–144 Weeks)
 
 |  | N=299 | N=301 |
 | --- | --- | --- |
@@ -170,9 +170,9 @@ Table 8 Selected Treatment-Emergent Adverse ReactionsFrequencies of adverse reac
 | Weight loss | 2% | 1% | 4% | 2% |
 
 Laboratory Abnormalities: Laboratory abnormalities observed in this trial occurred with similar frequency in the VIREAD and placebo-treated groups.
-A summary of Grade 3 and 4 laboratory abnormalities is provided in Table 9.
+A summary of Grades 3–4 laboratory abnormalities is provided in Table 9.
 
-Table 9 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Study 907 (0–48 Weeks)
+Table 9 Grades 3–4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Study 907 (0–48 Weeks)
 
 |  | VIREAD (N=368) (Week 0–24) | Placebo (N=182) (Week 0–24) | VIREAD (N=368) (Week 0–48) | Placebo Crossover to VIREAD (N=170) (Week 24–48) |
 | --- | --- | --- | --- | --- |
@@ -205,10 +205,10 @@ Other treatment-emergent adverse reactions reported in more than 5% of subjects 
 During the open-label phase of treatment with VIREAD (weeks 48–240) in Studies 0102 and 0103, less than 1% of subjects (5/585) experienced a confirmed increase in serum creatinine of 0.5 mg/dL from baseline.
 No significant change in the tolerability profile was observed with continued treatment for up to 240 weeks.
 
-Laboratory Abnormalities: A summary of Grade 3 and 4 laboratory abnormalities through Week 48 is provided in Table 10.
-Grade 3/4 laboratory abnormalities were similar in subjects continuing VIREAD treatment for up to 240 weeks in these trials.
+Laboratory Abnormalities: A summary of Grades 3–4 laboratory abnormalities through Week 48 is provided in Table 10.
+Grades 3–4 laboratory abnormalities were similar in subjects continuing VIREAD treatment for up to 240 weeks in these trials.
 
-Table 10 Grade 3/4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Studies 0102 and 0103 (0–48 Weeks)
+Table 10 Grades 3–4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treated Subjects in Studies 0102 and 0103 (0–48 Weeks)
 
 |  | VIREAD (N=426) | HEPSERA (N=215) |
 | --- | --- | --- |
