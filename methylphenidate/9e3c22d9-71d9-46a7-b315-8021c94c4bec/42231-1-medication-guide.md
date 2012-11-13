@@ -1,4 +1,4 @@
-# MEDICATION GUIDE Methylin™ Oral Solution (methylphenidate HCl oral solution) 5 mg/5 mL and 10 mg/5 mL
+# MEDICATION GUIDE Methylin® Oral Solution (methylphenidate HCl oral solution) 5 mg/5 mL and 10 mg/5 mL
 
 CII
 
@@ -6,7 +6,7 @@ Read the Medication Guide that comes with Methylin Oral Solution before you or y
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your or your child's treatment with Methylin Oral Solution.
 
-| What is the most important information I should know about Methylin Oral Solution? The following have been reported with use of methylphenidate HCl oral solution and other stimulant medicines. 1. Heart-related problems: sudden death in patients who have heart problems or heart defectsstroke and heart attack in adultsincreased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting Methylin Oral Solution. Your doctor should check you or your child's blood pressure and heart rate regularly during treatment with Methylin Oral Solution. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Methylin Oral Solution. 2. Mental (Psychiatric) problems:All Patients new or worse behavior and thought problemsnew or worse bipolar illnessnew or worse aggressive behavior or hostility Children and Teenagers new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking Methylin Oral Solution, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. |
+| What is the most important information I should know about Methylin Oral Solution? The following have been reported with use of methylphenidate HCl oral solution and other stimulant medicines.1. Heart-related problems: sudden death in patients who have heart problems or heart defectsstroke and heart attack in adultsincreased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting Methylin Oral Solution. Your doctor should check you or your child's blood pressure and heart rate regularly during treatment with Methylin Oral Solution. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Methylin Oral Solution.2. Mental (Psychiatric) problems:All Patients new or worse behavior and thought problemsnew or worse bipolar illnessnew or worse aggressive behavior or hostility Children and Teenagers new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking Methylin Oral Solution, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. |
 | --- |
 
 What Is Methylin Oral Solution?
@@ -20,7 +20,7 @@ Methylin Oral Solution should be used as a part of a total treatment program for
 
 Methylin Oral Solution is also used in the treatment of a sleep disorder called narcolepsy.
 
-| Methylin Oral Solution is a federally controlled substance (CII) because it can be abused or lead to dependence. Keep Methylin Oral Solution in a safe place to prevent misuse and abuse. Selling or giving away Methylin Oral Solution may harm others, and is against the law. Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs. |
+| Methylin Oral Solution is a federally controlled substance (CII) because it can be abused or lead to dependence. Keep Methylin Oral Solution in a safe place to prevent misuse and abuse. Selling or giving away Methylin Oral Solution may harm others, and is against the law.Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs. |
 | --- |
 
 Who should not take Methylin Oral Solution?
@@ -125,7 +125,7 @@ It may harm them and it is against the law.
 This Medication Guide summarizes the most important information about Methylin Oral Solution.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Methylin Oral Solution that was written for healthcare professionals.
-For more information, please contact Shionogi Pharma, Inc. at 1-800-849-9707 or visit the website at www.methylinrx.com.
+For more information, please contact Shionogi Inc. at 1-800-849-9707 or visit the website at www.methylinrx.com.
 
 What are the ingredients in Methylin Oral Solution?
 
@@ -135,8 +135,8 @@ Inactive Ingredients: citric acid anhydrous, glycerin, N&A grape flavor, PEG 145
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Shionogi Pharma, Inc. Atlanta, GA 30328
+Distributed by: Shionogi Inc. Florham Park, NJ 07932
 
 Manufactured by: Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-Rev 10/2010
+MOS-MG-01 L20M31 Rev 05/2012

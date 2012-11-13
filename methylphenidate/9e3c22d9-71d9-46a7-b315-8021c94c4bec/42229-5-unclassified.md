@@ -22,7 +22,7 @@ After oral dosing of radiolabeled methylphenidate in humans, about 90% of the ra
 The main urinary metabolite was PPA, accounting for approximately 80% of the dose.
 
 The pharmacokinetics of the Methylin Oral Solution have been studied in healthy adult volunteers.
-The mean terminal half-life (t ½) of methylphenidate following administration of 20 mg Methylin (t ½ = 2.7 hours) is comparable to the mean terminal t ½ following administration of Ritalin® (methylphenidate hydrochloride immediate-release tablets) (t ½ = 2.8h) in healthy adult volunteers.
+The mean terminal half-life (t½) of methylphenidate following administration of 20 mg Methylin (t½ = 2.7 hours) is comparable to the mean terminal t½ following administration of Ritalin® (methylphenidate hydrochloride immediate-release tablets) (t½ = 2.8h) in healthy adult volunteers.
 
 # Special Populations
 
@@ -47,7 +47,7 @@ There is no experience with the use of Methylin Oral Solution in patients with h
 Attention Deficit Disorders (previously known as Minimal Brain Dysfunction in Children).
 Other terms being used to describe the behavioral syndrome below include: Hyperkinetic Child Syndrome, Minimal Brain Damage, Minimal Cerebral Dysfunction, Minor Cerebral Dysfunction.
 
-Methylin™ is indicated as an integral part of a total treatment program which typically includes other remedial measures (psychological, educational, social) for a stabilizing effect in children with a behavioral syndrome characterized by the following group of developmentally inappropriate symptoms: moderate-to-severe distractibility, short attention span, hyperactivity, emotional lability, and impulsivity.
+Methylin® is indicated as an integral part of a total treatment program which typically includes other remedial measures (psychological, educational, social) for a stabilizing effect in children with a behavioral syndrome characterized by the following group of developmentally inappropriate symptoms: moderate-to-severe distractibility, short attention span, hyperactivity, emotional lability, and impulsivity.
 The diagnosis of this syndrome should not be made with finality when these symptoms are only of comparatively recent origin.
 Nonlocalizing (soft) neurological signs, learning disability, and abnormal EEG may or may not be present, and a diagnosis of central nervous system dysfunction may or may not be warranted.
 
