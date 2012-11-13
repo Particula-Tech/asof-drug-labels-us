@@ -67,7 +67,7 @@ Who should not take EMTRIVA?
 - Do not take EMTRIVA if you are allergic to EMTRIVA or any of its ingredients.
   The active ingredient is emtricitabine.
   See the end of this leaflet for a complete list of ingredients.
-- Do not take EMTRIVA if you are already taking ATRIPLA®, COMPLERA®, TRUVADA®, Combivir, Epivir, Epivir-HBV, Epzicom, or Trizivir because these medicines contain the same or similar active ingredients.
+- Do not take EMTRIVA if you are already taking ATRIPLA®, COMPLERA®, STRIBILD™, TRUVADA®, Combivir, Epivir, Epivir-HBV, Epzicom, or Trizivir because these medicines contain the same or similar active ingredients.
 
 What should I tell my healthcare provider before taking EMTRIVA?
 
@@ -129,11 +129,9 @@ EMTRIVA may cause the following serious side effects (See "What is the most impo
 
 - lactic acidosis (buildup of an acid in the blood).
   Lactic acidosis can be a medical emergency and may need to be treated in the hospital.
-  Call your doctor right away if you get signs of lactic acidosis.
-  (See "What is the most important information I should know about EMTRIVA?")
+  Call your doctor right away if you get signs of lactic acidosis (See "What is the most important information I should know about EMTRIVA?").
 - serious liver problems (hepatotoxicity), with liver enlargement (hepatomegaly) and fat in the liver (steatosis).
-  Call your healthcare provider right away if you get any signs of liver problems.
-  (See "What is the most important information I should know about EMTRIVA?")
+  Call your healthcare provider right away if you get any signs of liver problems (See "What is the most important information I should know about EMTRIVA?").
 - "flare-ups" of Hepatitis B Virus infection, in which the disease suddenly returns in a worse way than before, can occur if you stop taking EMTRIVA.
   EMTRIVA is not for the treatment of Hepatitis B Virus (HBV) infection.
 
@@ -161,7 +159,7 @@ How do I store EMTRIVA?
 
 - Keep EMTRIVA and all other medicines out of reach of children.
 - Store EMTRIVA capsules between 59 °F and 86 °F (15 °C to 30 °C).
-- Store EMTRIVA oral solution in a refrigerator between 36 °F and 46 °F (2–8 °C).
+- Store EMTRIVA oral solution in a refrigerator between 36 °F and 46 °F (2 °C–8 °C).
   Do not freeze.
   Alternatively, the product may be stored at room temperature for up to 3 months and any remaining solution in the bottle must be discarded after the 3 months.
 - Do not keep your medicine in places that are too hot or cold.
@@ -189,10 +187,10 @@ Inactive Ingredients for EMTRIVA capsules: crospovidone, magnesium stearate, mic
 Inactive Ingredients for EMTRIVA oral solution: Cotton candy flavor, FD&C yellow No. 6, edetate disodium, methylparaben and propylparaben, sodium phosphate (monobasic), propylene glycol, water, and xylitol.
 Sodium hydroxide and hydrochloric acid may be used to adjust pH.
 
-July 2012
+November 2012
 
-COMPLERA, EMTRIVA, TRUVADA, and VIREAD are registered trademarks of Gilead Sciences, Inc., or its related companies.
+COMPLERA, EMTRIVA, STRIBILD, TRUVADA, and VIREAD are trademarks or registered trademarks of Gilead Sciences, Inc., or its related companies.
 ATRIPLA is a registered trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.
 All other trademarks referenced herein are the property of their respective owners.
 
-21-500-896-GS-016
+21-500-896-GS-017

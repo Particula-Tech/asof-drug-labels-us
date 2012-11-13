@@ -19,8 +19,8 @@ If appropriate, initiation of anti-Hepatitis B therapy may be warranted.
 
 ## 5.3 Coadministration with Related Products
 
-EMTRIVA is a component of ATRIPLA (a fixed-dose combination of efavirenz, emtricitabine, and tenofovir disoproxil fumarate), COMPLERA (a fixed-dose combination of emtricitabine, rilpivirine, and tenofovir disoproxil fumarate) and TRUVADA (a fixed-dose combination of emtricitabine and tenofovir disoproxil fumarate).
-EMTRIVA should not be coadministered with ATRIPLA, COMPLERA, or TRUVADA.
+EMTRIVA is a component of ATRIPLA (a fixed-dose combination of efavirenz, emtricitabine, and tenofovir disoproxil fumarate), COMPLERA (a fixed-dose combination of emtricitabine, rilpivirine, and tenofovir disoproxil fumarate), STRIBILD (a fixed-dose combination of elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate), and TRUVADA (a fixed-dose combination of emtricitabine and tenofovir disoproxil fumarate).
+EMTRIVA should not be coadministered with ATRIPLA, COMPLERA, STRIBILD, or TRUVADA.
 Due to similarities between emtricitabine and lamivudine, EMTRIVA should not be coadministered with other drugs containing lamivudine, including Combivir (lamivudine/zidovudine), Epivir or Epivir-HBV (lamivudine), Epzicom (abacavir sulfate/lamivudine), or Trizivir (abacavir sulfate/lamivudine/zidovudine).
 
 ## 5.4 New Onset or Worsening Renal Impairment

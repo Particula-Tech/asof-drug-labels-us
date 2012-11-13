@@ -56,9 +56,9 @@ Table 2 Selected Treatment-Emergent Adverse Reactions (All Grades, Regardless of
 | Rash eventRash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, pustular rash, and allergic reaction. | 17% | 14% | 30% | 33% |
 
 Studies 301A and 303 - Laboratory Abnormalities: Laboratory abnormalities in these trials occurred with similar frequency in the EMTRIVA and comparator groups.
-A summary of Grade 3 and 4 laboratory abnormalities is provided in Table 3 below.
+A summary of Grades 3–4 laboratory abnormalities is provided in Table 3 below.
 
-Table 3 Treatment-Emergent Grade 3/4 Laboratory Abnormalities Reported in ≥1% of EMTRIVA-Treated Subjects in Either Study 301A or 303
+Table 3 Treatment-Emergent Grades 3–4 Laboratory Abnormalities Reported in ≥1% of EMTRIVA-Treated Subjects in Either Study 301A or 303
 
 | EMTRIVA + ZDV/d4T + NNRTI/PI (N=294) | Lamivudine + ZDV/d4T + NNRTI/PI (N=146) | EMTRIVA + Didanosine + Efavirenz (N=286) | Stavudine + Didanosine + Efavirenz (N=285) |  |
 | --- | --- | --- | --- | --- |
@@ -132,4 +132,4 @@ Hyperpigmentation was more frequent in children.
 Additional adverse reactions identified from this trial include anemia.
 
 Selected treatment-emergent adverse events, regardless of causality, reported in subjects during 48 weeks of treatment were the following: infection (44%), hyperpigmentation (32%), increased cough (28%), vomiting (23%), otitis media (23%), rash (21%), rhinitis (20%), diarrhea (20%), fever (18%), pneumonia (15%), gastroenteritis (11%), abdominal pain (10%), and anemia (7%).
-Treatment-emergent grade 3/4 laboratory abnormalities were experienced by 9% of pediatric subjects, including elevated amylase (>2.0 × ULN) (n=4), decreased neutrophils (<750/mm3) (n=3), elevated ALT (>5 × ULN) (n=2), elevated CPK (>4 × ULN) (n=2) and one subject each with elevated bilirubin (>3.0 × ULN), elevated GGT (>10 × ULN), elevated lipase (>2.5 × ULN), decreased hemoglobin (<7 g/dL), and decreased glucose (<40 mg/dL).
+Treatment-emergent grades 3–4 laboratory abnormalities were experienced by 9% of pediatric subjects, including elevated amylase (>2.0 × ULN) (n=4), decreased neutrophils (<750/mm3) (n=3), elevated ALT (>5 × ULN) (n=2), elevated CPK (>4 × ULN) (n=2) and one subject each with elevated bilirubin (>3.0 × ULN), elevated GGT (>10 × ULN), elevated lipase (>2.5 × ULN), decreased hemoglobin (<7 g/dL), and decreased glucose (<40 mg/dL).
