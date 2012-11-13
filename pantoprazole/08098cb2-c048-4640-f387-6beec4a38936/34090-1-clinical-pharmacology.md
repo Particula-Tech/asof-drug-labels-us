@@ -13,9 +13,9 @@ In this multicenter, pharmacodynamic crossover study, a 40 mg oral dose of PROTO
 Both medications were administered thirty minutes before breakfast.
 Pentagastrin-stimulated (MAO) was assessed from hour 23 to 24 at steady state.
 
-### Antisecretory Activity
+Antisecretory Activity
 
-Under maximal acid stimulatory conditions using pentagastrin, a dose-dependent decrease in gastric acid output occurs after a single dose of oral (20-80 mg) or a single dose of intravenous (20-120 mg) pantoprazole in healthy volunteers.
+Under maximal acid stimulatory conditions using pentagastrin, a dose-dependent decrease in gastric acid output occurs after a single dose of oral (20–80 mg) or a single dose of intravenous (20–120 mg) pantoprazole in healthy volunteers.
 Pantoprazole given once daily results in increasing inhibition of gastric acid secretion.
 Following the initial oral dose of 40 mg pantoprazole, a 51% mean inhibition was achieved by 2.5 hours.
 With once-a-day dosing for 7 days, the mean inhibition was increased to 85%.
@@ -32,12 +32,11 @@ Table 4: Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
 | Time | Placebo | 20 mg | 40 mg | 80 mg |
 | --- | --- | --- | --- | --- |
 |  | –––––––––—––––––––Median pH on day 7—––––––––––––––––– |  |  |  |
-| 8 a.m. - 8 a.m. (24 hours) | 1.3 | 2.9* | 3.8*# | 3.9*# |
-| 8 a.m. - 10 p.m. (Daytime) | 1.6 | 3.2* | 4.4*# | 4.8*# |
-| 10 p.m. - 8 a.m. (Nighttime) | 1.2 | 2.1* | 3.0* | 2.6* |
-| * Significantly different from placebo# Significantly different from 20 mg |  |  |  |  |
+| 8 a.m. – 8 a.m. (24 hours) | 1.3 | 2.9Significantly different from placebo | 3.8?Significantly different from 20 mg | 3.9 |
+| 8 a.m. – 10 p.m. (Daytime) | 1.6 | 3.2 | 4.4 | 4.8 |
+| 10 p.m. – 8 a.m. (Nighttime) | 1.2 | 2.1 | 3.0 | 2.6 |
 
-### Serum Gastrin Effects
+Serum Gastrin Effects
 
 Fasting serum gastrin levels were assessed in two double-blind studies of the acute healing of erosive esophagitis (EE) in which 682 patients with gastroesophageal reflux disease (GERD) received 10, 20, or 40 mg of PROTONIX for up to 8 weeks.
 At 4 weeks of treatment there was an increase in mean gastrin levels of 7%, 35%, and 72% over pretreatment values in the 10, 20, and 40 mg treatment groups, respectively.
@@ -49,7 +48,7 @@ Fasting serum gastrin levels generally remained at approximately 2 to 3 times ba
 
 Following short-term treatment with PROTONIX, elevated gastrin levels return to normal by at least 3 months.
 
-### Enterochromaffin-Like (ECL) Cell Effects
+Enterochromaffin-Like (ECL) Cell Effects
 
 In 39 patients treated with oral pantoprazole 40 mg to 240 mg daily (majority receiving 40 mg to 80 mg) for up to 5 years, there was a moderate increase in ECL-cell density, starting after the first year of use, which appeared to plateau after 4 years.
 
@@ -67,7 +66,7 @@ Pantoprazole does not accumulate, and its pharmacokinetics are unaltered with mu
 Following oral or intravenous administration, the serum concentration of pantoprazole declines biexponentially, with a terminal elimination half-life of approximately one hour.
 
 In extensive metabolizers with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 μg/mL; the time to reach the peak concentration (tmax) is 2.5 h, and the mean total area under the plasma concentration versus time curve (AUC) is 4.8 μg•h/mL (range 1.4 to 13.3 μg•h/mL).
-Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6‑14.0 L/h, and its apparent volume of distribution is 11.0‑23.6 L.
+Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6‑14.0 L/h, and its apparent volume of distribution is 11.0–23.6 L.
 
 A single oral dose of PROTONIX For Delayed-Release Oral Suspension, 40 mg, was shown to be bioequivalent when administered to healthy subjects (N = 22) as granules sprinkled over a teaspoonful of applesauce, as granules mixed with apple juice, or mixed with apple juice followed by administration through a nasogastric tube.
 The plasma pharmacokinetic parameters from a crossover study in healthy subjects are summarized in Table 5.
@@ -76,12 +75,11 @@ Table 5: Pharmacokinetics Parameters (mean ± SD) of PROTONIX For Delayed-Releas
 
 | Pharmacokinetic Parameters | Granules in Applesauce | Granules in Apple Juice | Granules in Nasogastric Tube |
 | --- | --- | --- | --- |
-| AUC (µg•hr/mL) | 4.0 ± 1.5 | 4.0 ± 1.5 | 4.1 ± 1.7 |
+| AUC (µg∙hr/mL) | 4.0 ± 1.5 | 4.0 ± 1.5 | 4.1 ± 1.7 |
 | Cmax (µg/mL) | 2.0 ± 0.7 | 1.9 ± 0.5 | 2.2 ± 0.7 |
-| Tmax (hr)a | 2.0 | 2.5 | 2.0 |
-| a Median values are reported for Tmax. |  |  |  |
+| Tmax (hr)Median values are reported for Tmax. | 2.0 | 2.5 | 2.0 |
 
-### Absorption
+Absorption
 
 After administration of a single or multiple oral 40 mg doses of PROTONIX Delayed-Release Tablets, the peak plasma concentration of pantoprazole was achieved in approximately 2.5 hours, and Cmax was 2.5 μg/mL.
 Pantoprazole undergoes little first-pass metabolism, resulting in an absolute bioavailability of approximately 77%.
@@ -94,29 +92,29 @@ Administration of pantoprazole granules, 40 mg, with a high-fat meal delayed med
 With a concomitant high-fat meal, the Cmax and AUC of pantoprazole granules, 40 mg, sprinkled on applesauce decreased by 51% and 29%, respectively.
 Thus, PROTONIX For Delayed-Release Oral Suspension should be taken approximately 30 minutes before a meal.
 
-### Distribution
+Distribution
 
-The apparent volume of distribution of pantoprazole is approximately 11.0-23.6 L, distributing mainly in extracellular fluid.
+The apparent volume of distribution of pantoprazole is approximately 11.0–23.6 L, distributing mainly in extracellular fluid.
 The serum protein binding of pantoprazole is about 98%, primarily to albumin.
 
-### Metabolism
+Metabolism
 
 Pantoprazole is extensively metabolized in the liver through the cytochrome P450 (CYP) system.
 Pantoprazole metabolism is independent of the route of administration (intravenous or oral).
 The main metabolic pathway is demethylation, by CYP2C19, with subsequent sulfation; other metabolic pathways include oxidation by CYP3A4.
 There is no evidence that any of the pantoprazole metabolites have significant pharmacologic activity.
 
-### Elimination
+Elimination
 
 After a single oral or intravenous dose of 14C-labeled pantoprazole to healthy, normal metabolizer volunteers, approximately 71% of the dose was excreted in the urine, with 18% excreted in the feces through biliary excretion.
 There was no renal excretion of unchanged pantoprazole.
 
-### Geriatric
+Geriatric
 
 Only slight to moderate increases in pantoprazole AUC (43%) and Cmax (26%) were found in elderly volunteers (64 to 76 years of age) after repeated oral administration, compared with younger subjects.
 No dosage adjustment is recommended based on age.
 
-### Pediatric
+Pediatric
 
 The pharmacokinetics of pantoprazole were studied in children less than 16 years of age in four randomized, open‑label clinical trials in pediatric patients with presumed/proven GERD.
 A pediatric granule formulation was studied in children through 5 years of age, and PROTONIX Delayed‑Release Tablets were studied in children older than 5 years.
@@ -136,35 +134,34 @@ The geometric mean AUC estimated from population PK analysis after a 40 mg PROTO
 
 Table 6: PK Parameters in Children and Adolescents 6 through 16 years with GERD receiving 40 mg PROTONIX Tablets
 
-|  | 6-11 years (n=12) | 12-16 years (n=11) |
+|  | 6–11 years (n=12) | 12–16 years (n=11) |
 | --- | --- | --- |
-| Cmax (µg/mL)a | 1.8 | 1.8 |
-| tmax (h)b | 2.0 | 2.0 |
-| AUC (µg•h/mL)a | 6.9 | 5.5 |
-| CL/F (L/h)b | 6.6 | 6.8 |
-| a Geometric mean valuesb Median values |  |  |
+| Cmax (µg/mL) | 1.8 | 1.8 |
+| tmax (h) | 2.0 | 2.0 |
+| AUC (µg∙h/mL)Geometric mean values | 6.9 | 5.5 |
+| CL/F (L/h)Median values | 6.6 | 6.8 |
 
-### Gender
+Gender
 
 There is a modest increase in pantoprazole AUC and Cmax in women compared to men.
 However, weight-normalized clearance values are similar in women and men.
 No dosage adjustment is recommended based on gender.
 In pediatric patients ages 1 through 16 years there were no clinically relevant effects of gender on clearance of pantoprazole, as shown by population pharmacokinetic analysis.
 
-### Renal Impairment
+Renal Impairment
 
 In patients with severe renal impairment, pharmacokinetic parameters for pantoprazole were similar to those of healthy subjects.
 No dosage adjustment is necessary in patients with renal impairment or in patients undergoing hemodialysis.
 
-### Hepatic Impairment
+Hepatic Impairment
 
 In patients with mild to severe hepatic impairment (Child-Pugh A to C cirrhosis), maximum pantoprazole concentrations increased only slightly (1.5-fold) relative to healthy subjects.
-Although serum half-life values increased to 7-9 hours and AUC values increased by 5- to 7‑fold in hepatic-impaired patients, these increases were no greater than those observed in CYP2C19 poor metabolizers, where no dosage adjustment is warranted.
+Although serum half-life values increased to 7–9 hours and AUC values increased by 5- to 7‑fold in hepatic-impaired patients, these increases were no greater than those observed in CYP2C19 poor metabolizers, where no dosage adjustment is warranted.
 These pharmacokinetic changes in hepatic-impaired patients result in minimal drug accumulation following once-daily, multiple-dose administration.
 No dosage adjustment is needed in patients with mild to severe hepatic impairment.
 Doses higher than 40 mg/day have not been studied in hepatically impaired patients.
 
-### Drug-Drug Interactions
+Drug-Drug Interactions
 
 Pantoprazole is metabolized mainly by CYP2C19 and to minor extents by CYPs 3A4, 2D6, and 2C9.
 In in vivo drug-drug interaction studies with CYP2C19 substrates (diazepam [also a CYP3A4 substrate] and phenytoin [also a CYP3A4 inducer] and clopidogrel), nifedipine, midazolam, and clarithromycin (CYP3A4 substrates), metoprolol (a CYP2D6 substrate), diclofenac, naproxen and piroxicam (CYP2C9 substrates), and theophylline (a CYP1A2 substrate) in healthy subjects, the pharmacokinetics of pantoprazole were not significantly altered.
@@ -187,7 +184,7 @@ There have been postmarketing reports of increased INR and prothrombin time in p
 
 Although no significant drug-drug interactions have been observed in clinical studies, the potential for significant drug-drug interactions with more than once-daily dosing with high doses of pantoprazole has not been studied in poor metabolizers or individuals who are hepatically impaired.
 
-### Other Effects
+Other Effects
 
 In a clinical pharmacology study, PROTONIX 40 mg given once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T3), thyroxine (T4), thyroid-stimulating hormone (TSH), thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin, and growth hormone.
 

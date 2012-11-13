@@ -14,10 +14,9 @@ Table 7: Erosive Esophagitis Healing Rates (Per Protocol)
 
 | Week | 10 mg daily (n = 153) | 20 mg daily (n = 158) | 40 mg daily (n = 162) | (n = 68) |
 | --- | --- | --- | --- | --- |
-| –––––––––––––––PROTONIX––––––––––––––– |  |  |  | Placebo |
-| 4 | 45.6%+ | 58.4%+# | 75.0%+* | 14.3% |
-| 8 | 66.0%+ | 83.5%+# | 92.6%+* | 39.7% |
-| + (p < 0.001) PROTONIX versus placebo* (p < 0.05) versus 10 mg or 20 mg PROTONIX# (p < 0.05) versus 10 mg PROTONIX |  |  |  |  |
+|  | –––––––––––––––PROTONIX––––––––––––––– |  |  | Placebo |
+| 4 | 45.6%(p < 0.001) PROTONIX versus placebo | 58.4%(p < 0.05) versus 10 mg or 20 mg PROTONIX | 75.0%(p < 0.05) versus 10 mg PROTONIX | 14.3% |
+| 8 | 66.0% | 83.5% | 92.6% | 39.7% |
 
 In this study, all PROTONIX treatment groups had significantly greater healing rates than the placebo group.
 This was true regardless of H. pylori status for the 40 mg and 20 mg PROTONIX treatment groups.
@@ -31,12 +30,11 @@ The percentages of patients healed (per protocol, n = 212) are shown in Table 8.
 
 Table 8: Erosive Esophagitis Healing Rates (Per Protocol)
 
-| Week | 20 mg daily (n = 72) |  | 40 mg daily (n = 70) | 150 mg twice daily (n = 70) |
-| --- | --- | --- | --- | --- |
-|  |  | –––––––––––––––PROTONIX––––––––––––––– |  | Nizatidine |
-| 4 | 61.4%+ |  | 64.0%+ | 22.2% |
-| 8 | 79.2%+ |  | 82.9%+ | 41.4% |
-| + (p < 0.001) PROTONIX versus nizatidine |  |  |  |  |
+| Week | 20 mg daily (n = 72) | 40 mg daily (n = 70) | 150 mg twice daily (n = 70) |
+| --- | --- | --- | --- |
+|  | –––––––––––––––PROTONIX––––––––––––––– |  | Nizatidine |
+| 4 | 61.4%(p < 0.001) PROTONIX versus nizatidine | 64.0% | 22.2% |
+| 8 | 79.2% | 82.9% | 41.4% |
 
 Once-daily treatment with PROTONIX 40 mg or 20 mg resulted in significantly superior rates of healing at both 4 and 8 weeks compared with twice-daily treatment with 150 mg of nizatidine.
 For the 40 mg treatment group, significantly greater healing rates compared to nizatidine were achieved regardless of the H. pylori status.
@@ -62,9 +60,9 @@ Table 9: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Dis
 
 |  | PROTONIX 20 mg daily | PROTONIX 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |
-| Study 1 Month 1 Month 3 Month 6 Month 12 | n = 75 91* 82* 76* 70* | n = 74 99* 93*# 90*# 86*# | n = 75 68 54 44 35 |
-| Study 2 Month 1 Month 3 Month 6 Month 12 | n = 74 89* 78* 72* 72* | n = 88 92*# 91*# 88*# 83* | n = 84 62 47 39 37 |
-| * (p < 0.05 vs. ranitidine)# (p < 0.05 vs. PROTONIX 20 mg) Note: PROTONIX 10 mg was superior (p < 0.05) to ranitidine in Study 2, but not Study 1. |  |  |  |
+| Study 1 Month 1 Month 3 Month 6 Month 12 | n = 75 91(p < 0.05 vs. ranitidine) 82 76 70 | n = 74 99 93(p < 0.05 vs. PROTONIX 20 mg) 90 86 | n = 75 68 54 44 35 |
+| Study 2 Month 1 Month 3 Month 6 Month 12 | n = 74 89 78 72 72 | n = 88 92 91 88 83 | n = 84 62 47 39 37 |
+| Note: PROTONIX 10 mg was superior (p < 0.05) to ranitidine in Study 2, but not Study 1. |  |  |  |
 
 PROTONIX 40 mg was superior to ranitidine in reducing the number of daytime and nighttime heartburn episodes from the first through the twelfth month of treatment.
 PROTONIX 20 mg, administered once daily, was also effective in reducing episodes of daytime and nighttime heartburn in one trial, as presented in Table 10.
@@ -73,9 +71,8 @@ Table 10: Number of Episodes of Heartburn (mean ± SD)
 
 |  |  | PROTONIX 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |
-| Month 1 | Daytime Nighttime | 5.1 ± 1.6* 3.9 ± 1.1* | 18.3 ± 1.6 11.9 ± 1.1 |
-| Month 12 | Daytime Nighttime | 2.9 ± 1.5* 2.5 ± 1.2* | 17.5 ± 1.5 13.8 ± 1.3 |
-| * (p < 0.001 vs. ranitidine, combined data from the two US studies) |  |  |  |
+| Month 1 | Daytime Nighttime | 5.1 ± 1.6(p < 0.001 vs. ranitidine, combined data from the two US studies) 3.9 ± 1.1 | 18.3 ± 1.6 11.9 ± 1.1 |
+| Month 12 | Daytime Nighttime | 2.9 ± 1.5 2.5 ± 1.2 | 17.5 ± 1.5 13.8 ± 1.3 |
 
 ## 14.3 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
 

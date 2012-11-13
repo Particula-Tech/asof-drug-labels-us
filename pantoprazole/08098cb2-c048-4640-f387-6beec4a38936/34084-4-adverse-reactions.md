@@ -84,6 +84,8 @@ Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic f
 
 Immune System Disorders: anaphylaxis (including anaphylactic shock)
 
+Infections and Infestations: Clostridium difficile associated diarrhea
+
 Investigations: weight changes
 
 Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia

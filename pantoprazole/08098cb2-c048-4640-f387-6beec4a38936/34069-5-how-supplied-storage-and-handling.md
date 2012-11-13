@@ -17,5 +17,4 @@ PROTONIX (pantoprazole sodium) For Delayed-Release Oral Suspension 40 mg contain
 
 Storage
 
-Store PROTONIX For Delayed-Release Oral Suspension and PROTONIX Delayed-Release Tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature.]
+Store PROTONIX For Delayed-Release Oral Suspension and PROTONIX Delayed-Release Tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].

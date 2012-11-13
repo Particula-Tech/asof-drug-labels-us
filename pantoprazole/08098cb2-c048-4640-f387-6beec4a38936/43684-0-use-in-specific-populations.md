@@ -2,9 +2,9 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects
+Teratogenic Effects
 
-#### Pregnancy Category B
+Pregnancy Category B
 
 Reproduction studies have been performed in rats at oral doses up to 88 times the recommended human dose and in rabbits at oral doses up to 16 times the recommended human dose and have revealed no evidence of impaired fertility or harm to the fetus due to pantoprazole.
 There are, however, no adequate and well-controlled studies in pregnant women.
@@ -26,7 +26,7 @@ In addition, for patients less than 5 years of age, there is no appropriate dosa
 Therefore, PROTONIX is indicated for the short-term treatment of EE associated with GERD for patients 5 years and older.
 The safety and effectiveness of PROTONIX for pediatric uses other than EE have not been established.
 
-### 1 year through 16 years of age
+1 year through 16 years of age
 
 Use of PROTONIX in pediatric patients 1 year through 16 years of age for short-term treatment (up to eight weeks) of EE associated with GERD is supported by: a) extrapolation of results from adequate and well-controlled studies that supported the approval of PROTONIX for treatment of EE associated with GERD in adults, and b) safety, effectiveness, and pharmacokinetic studies performed in pediatric patients [see Clinical Studies (14.1), and Clinical Pharmacology (12.3)].
 
@@ -45,7 +45,7 @@ In a population pharmacokinetic analysis, clearance values in the children 1 to 
 Following a 1.2 mg/kg equivalent dose (15 mg for ≤ 12.5 kg and 20 mg for > 12.5 to < 25 kg), the plasma concentrations of pantoprazole were highly variable and the median time to peak plasma concentration was 3 to 6 hours.
 The estimated AUC for patients 1 to 5 years old was 37% higher than for adults receiving a single 40 mg tablet, with a geometric mean AUC value of 6.8 µg•hr/mL.
 
-### Neonates to less than one year of age
+Neonates to less than one year of age
 
 PROTONIX was not found to be effective in a multicenter, randomized, double-blind, placebo‑controlled, treatment-withdrawal study of 129 pediatric patients 1 through 11 months of age.
 Patients were enrolled if they had symptomatic GERD based on medical history and had not responded to non-pharmacologic interventions for GERD for two weeks.

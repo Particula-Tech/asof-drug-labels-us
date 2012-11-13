@@ -10,15 +10,14 @@ Table 1: Recommended Dosing Schedule for PROTONIX
 | Indication | Dose | Frequency |
 | --- | --- | --- |
 | Short-Term Treatment of Erosive Esophagitis Associated With GERD |  |  |
-| Adults | 40 mg | Once daily for up to 8 weeks* |
+| Adults | 40 mg | Once daily for up to 8 weeksFor adult patients who have not healed after 8 weeks of treatment, an additional 8-week course of PROTONIX may be considered. |
 | Children (5 years and older) |  |  |
 | ≥ 15 kg to < 40 kg | 20 mg | Once daily for up to 8 weeks |
 | ≥ 40 kg | 40 mg |  |
 | Maintenance of Healing of Erosive Esophagitis |  |  |
 | Adults | 40 mg | Once daily |
 | Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome |  |  |
-| Adults | 40 mg | Twice daily** |
-| * For adult patients who have not healed after 8 weeks of treatment, an additional 8-week course of PROTONIX may be considered.** Dosage regimens should be adjusted to individual patient needs and should continue for as long as clinically indicated. Doses up to 240 mg daily have been administered. |  |  |
+| Adults | 40 mg | Twice dailyDosage regimens should be adjusted to individual patient needs and should continue for as long as clinically indicated. Doses up to 240 mg daily have been administered. |
 
 ## 2.2 Administration Instructions
 
@@ -26,12 +25,11 @@ Directions for method of administration for each dosage form are presented in Ta
 
 Table 2: Administration Instructions
 
-| Formulation | Route | Instructions* |
+| Formulation | Route | InstructionsPatients should be cautioned that PROTONIX Delayed-Release Tablets and PROTONIX For Delayed-Release Oral Suspension should not be split, chewed, or crushed. |
 | --- | --- | --- |
 | Delayed-Release Tablets | Oral | Swallowed whole, with or without food |
 | For Delayed-Release Oral Suspension | Oral | Administered in 1 teaspoonful of applesauce or apple juice approximately 30 minutes prior to a meal |
 | For Delayed-Release Oral Suspension | Nasogastric tube | See instructions below |
-| * Patients should be cautioned that PROTONIX Delayed-Release Tablets and PROTONIX For Delayed-Release Oral Suspension should not be split, chewed, or crushed. |  |  |
 
 ### PROTONIX Delayed-Release Tablets
 
