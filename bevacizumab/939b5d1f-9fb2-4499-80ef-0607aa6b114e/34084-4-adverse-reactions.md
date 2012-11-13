@@ -5,7 +5,7 @@ The following serious adverse reactions are discussed in greater detail in other
 - Gastrointestinal Perforations [See Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.1).]
 - Surgery and Wound Healing Complications [See Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.2).]
 - Hemorrhage [See Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.3).]
-- Non‑Gastrointestinal Fistula Formation [See Dosage and Administration (2.4), Warnings and Precautions (5.4).]
+- Non-Gastrointestinal Fistula Formation [See Dosage and Administration (2.4), Warnings and Precautions (5.4).]
 - Arterial Thromboembolic Events [See Dosage and Administration (2.4), Warnings and Precautions (5.5).]
 - Hypertensive Crisis [See Dosage and Administration (2.4), Warnings and Precautions (5.6).]
 - Reversible Posterior Leukoencephalopathy Syndrome [See Dosage and Administration (2.4), Warnings and Precautions (5.7).]
@@ -20,26 +20,26 @@ Across all studies, Avastin was discontinued in 8.4 to 21% of patients because o
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data below reflect exposure to Avastin in 4198 patients with CRC, non‑squamous NSCLC, glioblastoma, or mRCC trials including controlled (Studies 1, 2, 4, and 7) or uncontrolled, single arm (Study 5) treated at the recommended dose and schedule for a median of 8 to 23 doses of Avastin.
+The data below reflect exposure to Avastin in 4198 patients with CRC, non-squamous NSCLC, glioblastoma, or mRCC trials including controlled (Studies 1, 2, 4, and 7) or uncontrolled, single arm (Study 5) treated at the recommended dose and schedule for a median of 8 to 23 doses of Avastin.
 [See Clinical Studies (14).]
-The population was aged 18–88 years (median 60 years), 43.6% male and 83.8% white.
-The population included 1783 first‑ and second‑line mCRC patients who received a median of 10 doses of Avastin, 480 first‑line metastatic NSCLC patients who received a median of 8 doses of Avastin, 163 glioblastoma patients who received a median of 9 doses of Avastin, and 337 mRCC patients who received a median of 16 doses of Avastin.
-These data also reflect exposure to Avastin in 363 patients with metastatic breast cancer (MBC) who received a median of 9.5 doses of Avastin, 669 female adjuvant CRC patients who received a median of 23 doses of Avastin and exposure to Avastin in 403 previously untreated patients with diffuse large B‑cell lymphoma (DLBCL) who received a median of 8 doses of Avastin.
+The population was aged 18-88 years (median 60 years), 43.6% male and 83.8% white.
+The population included 1783 first- and second-line mCRC patients who received a median of 10 doses of Avastin, 480 first-line metastatic NSCLC patients who received a median of 8 doses of Avastin, 163 glioblastoma patients who received a median of 9 doses of Avastin, and 337 mRCC patients who received a median of 16 doses of Avastin.
+These data also reflect exposure to Avastin in 363 patients with metastatic breast cancer (MBC) who received a median of 9.5 doses of Avastin, 669 female adjuvant CRC patients who received a median of 23 doses of Avastin and exposure to Avastin in 403 previously untreated patients with diffuse large B-cell lymphoma (DLBCL) who received a median of 8 doses of Avastin.
 Avastin is not approved for use in MBC, adjuvant CRC, or DLBCL.
 
 Surgery and Wound Healing Complications
 
-The incidence of post‑operative wound healing and/or bleeding complications was increased in patients with mCRC receiving Avastin as compared to patients receiving only chemotherapy.
-Among patients requiring surgery on or within 60 days of receiving study treatment, wound healing and/or bleeding complications occurred in 15% (6/39) of patients receiving bolus‑IFL plus Avastin as compared to 4% (1/25) of patients who received bolus‑IFL alone.
+The incidence of post-operative wound healing and/or bleeding complications was increased in patients with mCRC receiving Avastin as compared to patients receiving only chemotherapy.
+Among patients requiring surgery on or within 60 days of receiving study treatment, wound healing and/or bleeding complications occurred in 15% (6/39) of patients receiving bolus-IFL plus Avastin as compared to 4% (1/25) of patients who received bolus-IFL alone.
 
-In Study 5, events of post‑operative wound healing complications (craniotomy site wound dehiscence and cerebrospinal fluid leak) occurred in patients with previously treated glioblastoma: 3/84 patients in the Avastin alone arm and 1/79 patients in the Avastin plus irinotecan arm.
+In Study 5, events of post-operative wound healing complications (craniotomy site wound dehiscence and cerebrospinal fluid leak) occurred in patients with previously treated glioblastoma: 3/84 patients in the Avastin alone arm and 1/79 patients in the Avastin plus irinotecan arm.
 [See Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.2).]
 
 Hemorrhage
 
-The incidence of epistaxis was higher (35% vs. 10%) in patients with mCRC receiving bolus‑IFL plus Avastin compared with patients receiving bolus‑IFL plus placebo.
+The incidence of epistaxis was higher (35% vs. 10%) in patients with mCRC receiving bolus-IFL plus Avastin compared with patients receiving bolus-IFL plus placebo.
 All but one of these events were Grade 1 in severity and resolved without medical intervention.
-Grade 1 or 2 hemorrhagic events were more frequent in patients receiving bolus‑IFL plus Avastin when compared to those receiving bolus‑IFL plus placebo and included gastrointestinal hemorrhage (24% vs. 6%), minor gum bleeding (2% vs. 0), and vaginal hemorrhage (4% vs. 2%).
+Grade 1 or 2 hemorrhagic events were more frequent in patients receiving bolus-IFL plus Avastin when compared to those receiving bolus-IFL plus placebo and included gastrointestinal hemorrhage (24% vs. 6%), minor gum bleeding (2% vs. 0), and vaginal hemorrhage (4% vs. 2%).
 [See Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.3).]
 
 Venous Thromboembolic Events
@@ -70,7 +70,7 @@ The incidence of any grade of infection in patients receiving Avastin alone was 
 
 Proteinuria
 
-Grade 3‑4 proteinuria ranged from 0.7 to 7.4% in Studies 1, 2, 4 and 7.
+Grade 3–4 proteinuria ranged from 0.7 to 7.4% in Studies 1, 2, 4 and 7.
 The overall incidence of proteinuria (all grades) was only adequately assessed in Study 7, in which the incidence was 20%.
 Median onset of proteinuria was 5.6 months (range 15 days to 37 months) after initiation of Avastin.
 Median time to resolution was 6.1 months (95% CI 2.8 months, 11.3 months).
@@ -80,37 +80,37 @@ Proteinuria did not resolve in 40% of patients after median follow up of 11.2 mo
 Congestive Heart Failure (CHF)
 
 The incidence of Grade ≥ 3 left ventricular dysfunction was 1.0% in patients receiving Avastin compared to 0.6% in the control arm across indications.
-In patients with metastatic breast cancer (MBC), an indication for which Avastin is not approved, the incidence of Grade 3–4 CHF was increased in patients in the Avastin plus paclitaxel arm (2.2 %) as compared to the control arm (0.3%).
-Among patients receiving prior anthracyclines for MBC, the rate of CHF was 3.8% for patients receiving Avastin as compared to 0.6 % for patients receiving paclitaxel alone.
+In patients with metastatic breast cancer (MBC), an indication for which Avastin is not approved, the incidence of Grade 3–4 CHF was increased in patients in the Avastin plus paclitaxel arm (2.2%) as compared to the control arm (0.3%).
+Among patients receiving prior anthracyclines for MBC, the rate of CHF was 3.8% for patients receiving Avastin as compared to 0.6% for patients receiving paclitaxel alone.
 The safety of continuation or resumption of Avastin in patients with cardiac dysfunction has not been studied.
 
-In previously untreated patients with diffuse large B‑cell lymphoma (DLBCL), an indication for which Avastin is not approved, the incidence of CHF and decline in left-ventricular ejection fraction (LVEF) were signficantly increased in the Avastin plus R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone) arm (n=403) compared to the placebo plus R-CHOP arm (n=379); both regimens were given for 6 to 8 cycles.
+In previously untreated patients with diffuse large B-cell lymphoma (DLBCL), an indication for which Avastin is not approved, the incidence of CHF and decline in left-ventricular ejection fraction (LVEF) were signficantly increased in the Avastin plus R-CHOP (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone) arm (n=403) compared to the placebo plus R-CHOP arm (n=379); both regimens were given for 6 to 8 cycles.
 At the completion of R-CHOP therapy, the incidence of CHF was 10.9% in the Avastin plus R-CHOP arm compared to 5.0% in the R-CHOP alone arm [relative risk (95% CI) of 2.2 (1.3, 3.7)].
 The incidence of a LVEF event, defined as a decline from baseline of 20% or more in LVEF or a decline from baseline of 10% or more to a LVEF value of less than 50%, was also increased in the Avastin plus R-CHOP arm (10.4%) compared to the R-CHOP alone arm (5.0%).
-Time to onset of left-ventricular dysfunction or CHF was 1-6 months after initiation of therapy in at least 85% of the patients and was resolved in 62% of the patients experiencing CHF in the Avastin arm compared to 82% in the control arm.
+Time to onset of left-ventricular dysfunction or CHF was 1–6 months after initiation of therapy in at least 85% of the patients and was resolved in 62% of the patients experiencing CHF in the Avastin arm compared to 82% in the control arm.
 
 Ovarian Failure
 
-The incidence of new cases of ovarian failure (defined as amenorrhoea lasting 3 or more months, FSH level ≥30 mIU/mL and a negative serum β-HCG pregnancy test) was prospectively evaluated in a subset of 179 women receiving mFOLFOX chemotherapy alone (n=84 or with Avastin (n=95).
+The incidence of new cases of ovarian failure (defined as amenorrhoea lasting 3 or more months, FSH level ≥ 30 mIU/mL and a negative serum β-HCG pregnancy test) was prospectively evaluated in a subset of 179 women receiving mFOLFOX chemotherapy alone (n = 84) or with Avastin (n = 95).
 New cases of ovarian failure were identified in 34% (32/95) of women receiving Avastin in combination with chemotherapy compared with 2% (2/84) of women receiving chemotherapy alone [relative risk of 14 (95% CI 4, 53)].
 After discontinuation of Avastin treatment, recovery of ovarian function at all time points during the post-treatment period was demonstrated in 22% (7/32) of the Avastin-treated women.
-Recovery of ovarian function is defined as resumption of menses, a positive serum β -HCG pregnancy test, or a FSH level <30 mIU/mL during the post-treatment period.
+Recovery of ovarian function is defined as resumption of menses, a positive serum β-HCG pregnancy test, or a FSH level < 30 mIU/mL during the post-treatment period.
 Long term effects of Avastin exposure on fertility are unknown.
 [See Warnings and Precautions (5.10), Use in Specific Populations (8.6).]
 
 Metastatic Colorectal Cancer (mCRC)
 
-The data in Table 1 and Table 2 were obtained in Study 1, a randomized, double‑blind, controlled trial comparing chemotherapy plus Avastin with chemotherapy plus placebo.
+The data in Table 1 and Table 2 were obtained in Study 1, a randomized, double-blind, controlled trial comparing chemotherapy plus Avastin with chemotherapy plus placebo.
 Avastin was administered at 5 mg/kg every 2 weeks.
 
 All Grade 3–4 adverse events and selected Grade 1–2 adverse events (hypertension, proteinuria, thromboembolic events) were collected in the entire study population.
-Severe and life‑threatening (Grade 3–4) adverse events, which occurred at a higher incidence (≥ 2%) in patients receiving bolus‑IFL plus Avastin as compared to bolus‑IFL plus placebo, are presented in Table 1.
+Severe and life-threatening (Grade 3–4) adverse events, which occurred at a higher incidence (≥ 2%) in patients receiving bolus-IFL plus Avastin as compared to bolus-IFL plus placebo, are presented in Table 1.
 
-Table 1: NCI‑CTC Grade 3–4 Adverse Events in Study 1 (Occurring at Higher Incidence [≥ 2%] Avastin vs. Control)
+Table 1 NCI-CTC Grade 3–4 Adverse Events in Study 1 (Occurring at Higher Incidence [≥ 2%] Avastin vs. Control)
 
 |  | Arm 1 IFL + Placebo (n = 396) | Arm 2 IFL + Avastin (n = 392) |
 | --- | --- | --- |
-| NCI‑CTC Grade 3–4 Events | 74% | 87% |
+| NCI-CTC Grade 3-4 Events | 74% | 87% |
 | Body as a Whole |  |  |
 | Asthenia | 7% | 10% |
 | Abdominal Pain | 5% | 8% |
@@ -118,22 +118,21 @@ Table 1: NCI‑CTC Grade 3–4 Adverse Events in Study 1 (Occurring at Higher In
 | Cardiovascular |  |  |
 | Hypertension | 2% | 12% |
 | Deep Vein Thrombosis | 5% | 9% |
-| Intra‑Abdominal Thrombosis | 1% | 3% |
+| Intra-Abdominal Thrombosis | 1% | 3% |
 | Syncope | 1% | 3% |
 | Digestive |  |  |
 | Diarrhea | 25% | 34% |
 | Constipation | 2% | 4% |
 | Hemic/Lymphatic |  |  |
 | Leukopenia | 31% | 37% |
-| Neutropeniaa | 14% | 21% |
-| a Central laboratories were collected on Days 1 and 21 of each cycle. Neutrophil counts are available in 303 patients in Arm 1 and 276 in Arm 2. |  |  |
+| NeutropeniaCentral laboratories were collected on Days 1 and 21 of each cycle. Neutrophil counts are available in 303 patients in Arm 1 and 276 in Arm 2. | 14% | 21% |
 
-Grade 1–4 adverse events which occurred at a higher incidence (≥5%) in patients receiving bolus‑IFL plus Avastin as compared to the bolus‑IFL plus placebo arm, are presented in Table 2.
-Grade 1–4 adverse events were collected for the first approximately 100 patients in each of the three treatment arms who were enrolled until enrollment in Arm 3 (5‑FU/LV + Avastin) was discontinued.
+Grade 1–4 adverse events which occurred at a higher incidence (≥ 5%) in patients receiving bolus-IFL plus Avastin as compared to the bolus-IFL plus placebo arm are presented in Table 2.
+Grade 1–4 adverse events were collected for the first approximately 100 patients in each of the three treatment arms who were enrolled until enrollment in Arm 3 (5-FU/LV + Avastin) was discontinued.
 
-Table 2: NCI‑CTC Grade 1–4 Adverse Events in Study 1 (Occurring at Higher Incidence [≥ 5%] in IFL + Avastin vs. IFL)
+Table 2 NCI-CTC Grade 1–4 Adverse Events in Study 1 (Occurring at Higher Incidence [≥ 5%] in IFL + Avastin vs. IFL)
 
-|  | Arm 1 IFL + Placebo (n = 98) | Arm 2 IFL + Avastin (n = 102) | Arm 3 5‑FU/LV + Avastin (n = 109) |
+|  | Arm 1 IFL + Placebo (n = 98) | Arm 2 IFL + Avastin (n = 102) | Arm 3 5-FU/LV + Avastin (n = 109) |
 | --- | --- | --- | --- |
 | Body as a Whole |  |  |  |
 | Pain | 55% | 61% | 62% |
@@ -170,16 +169,16 @@ Table 2: NCI‑CTC Grade 1–4 Adverse Events in Study 1 (Occurring at Higher In
 | Urogenital |  |  |  |
 | Proteinuria | 24% | 36% | 36% |
 
-Avastin in Combination with FOLFOX4 in Second‑line mCRC
+Avastin in Combination with FOLFOX4 in Second-line mCRC
 
-Only Grade 3–5 non‑hematologic and Grade 4–5 hematologic adverse events related to treatment were collected in Study 2.
-The most frequent adverse events (selected Grade 3–5 non‑hematologic and Grade 4‑5 hematologic adverse events) occurring at a higher incidence (≥ 2%) in 287 patients receiving FOLFOX4 plus Avastin compared to 285 patients receiving FOLFOX4 alone were fatigue (19% vs. 13%), diarrhea (18% vs. 13%), sensory neuropathy (17% vs. 9%), nausea (12% vs. 5%), vomiting (11% vs. 4%), dehydration (10% vs. 5%), hypertension (9% vs. 2%), abdominal pain (8% vs. 5%), hemorrhage (5% vs. 1%), other neurological (5% vs. 3%), ileus (4% vs. 1%) and headache (3% vs. 0%).
-These data are likely to under‑estimate the true adverse event rates due to the reporting mechanisms used in Study 2.
+Only Grade 3-5 non-hematologic and Grade 4–5 hematologic adverse events related to treatment were collected in Study 2.
+The most frequent adverse events (selected Grade 3–5 non-hematologic and Grade 4–5 hematologic adverse events) occurring at a higher incidence (≥ 2%) in 287 patients receiving FOLFOX4 plus Avastin compared to 285 patients receiving FOLFOX4 alone were fatigue (19% vs. 13%), diarrhea (18% vs. 13%), sensory neuropathy (17% vs. 9%), nausea (12% vs. 5%), vomiting (11% vs. 4%), dehydration (10% vs. 5%), hypertension (9% vs. 2%), abdominal pain (8% vs. 5%), hemorrhage (5% vs. 1%), other neurological (5% vs. 3%), ileus (4% vs. 1%) and headache (3% vs. 0%).
+These data are likely to under-estimate the true adverse event rates due to the reporting mechanisms used in Study 2.
 
-Unresectable Non‑Squamous Non‑Small Cell Lung Cancer (NSCLC)
+Unresectable Non-Squamous Non-Small Cell Lung Cancer (NSCLC)
 
-Only Grade 3–5 non‑hematologic and Grade 4–5 hematologic adverse events were collected in Study 4.
-Grade 3–5 non‑hematologic and Grade 4–5 hematologic adverse events (occurring at a higher incidence (≥ 2%) in 427 patients receiving PC plus Avastin compared with 441 patients receiving PC alone were neutropenia (27% vs. 17%), fatigue (16% vs. 13%), hypertension (8% vs. 0.7%), infection without neutropenia (7% vs. 3%), venous thrombus/embolism (5% vs. 3%), febrile neutropenia (5% vs. 2%), pneumonitis/pulmonary infiltrates (5% vs. 3%), infection with Grade 3 or 4 neutropenia (4% vs. 2%), hyponatremia (4% vs. 1%), headache (3% vs. 1%) and proteinuria (3% vs. 0%).
+Only Grade 3-5 non-hematologic and Grade 4-5 hematologic adverse events were collected in Study 4.
+Grade 3–5 non-hematologic and Grade 4–5 hematologic adverse events (occurring at a higher incidence (≥ 2%) in 427 patients receiving PC plus Avastin compared with 441 patients receiving PC alone were neutropenia (27% vs. 17%), fatigue (16% vs. 13%), hypertension (8% vs. 0.7%), infection without neutropenia (7% vs. 3%), venous thrombus/embolism (5% vs. 3%), febrile neutropenia (5% vs. 2%), pneumonitis/pulmonary infiltrates (5% vs. 3%), infection with Grade 3 or 4 neutropenia (4% vs. 2%), hyponatremia (4% vs. 1%), headache (3% vs. 1%) and proteinuria (3% vs. 0%).
 
 Glioblastoma
 
@@ -188,23 +187,23 @@ All patients received prior radiotherapy and temozolomide.
 Avastin was administered at 10 mg/kg every 2 weeks alone or in combination with irinotecan.
 Avastin was discontinued due to adverse events in 4.8% of patients treated with Avastin alone.
 
-In patients receiving Avastin alone (N=84), the most frequently reported adverse events of any grade were infection (55%), fatigue (45%), headache (37%), hypertension (30%), epistaxis (19%) and diarrhea (21%).
-Of these, the incidence of Grade ≥3 adverse events was infection (10%), fatigue (4%), headache (4%), hypertension (8%) and diarrhea (1%).
+In patients receiving Avastin alone (N = 84), the most frequently reported adverse events of any grade were infection (55%), fatigue (45%), headache (37%), hypertension (30%), epistaxis (19%) and diarrhea (21%).
+Of these, the incidence of Grade ≥ 3 adverse events was infection (10%), fatigue (4%), headache (4%), hypertension (8%) and diarrhea (1%).
 Two deaths on study were possibly related to Avastin: one retroperitoneal hemorrhage and one neutropenic infection.
 
-In patients receiving Avastin alone or Avastin plus irinotecan (N=163), the incidence of Avastin–related adverse events (Grade 1–4) were bleeding/hemorrhage (40%), epistaxis (26%), CNS hemorrhage (5%), hypertension (32%), venous thromboembolic event (8%), arterial thromboembolic event (6%), wound‑healing complications (6%), proteinuria (4%), gastrointestinal perforation (2%), and RPLS (1%).
-The incidence of Grade 3–5 events in these 163 patients were bleeding/hemorrhage (2%), CNS hemorrhage (1%), hypertension (5%), venous thromboembolic event (7%), arterial thromboembolic event (3%), wound‑healing complications (3%), proteinuria (1%), and gastrointestinal perforation (2%).
+In patients receiving Avastin alone or Avastin plus irinotecan (N = 163), the incidence of Avastin–related adverse events (Grade 1–4) were bleeding/hemorrhage (40%), epistaxis (26%), CNS hemorrhage (5%), hypertension (32%), venous thromboembolic event (8%), arterial thromboembolic event (6%), wound-healing complications (6%), proteinuria (4%), gastrointestinal perforation (2%), and RPLS (1%).
+The incidence of Grade 3–5 events in these 163 patients were bleeding/hemorrhage (2%), CNS hemorrhage (1%), hypertension (5%), venous thromboembolic event (7%), arterial thromboembolic event (3%), wound-healing complications (3%), proteinuria (1%), and gastrointestinal perforation (2%).
 
 Metastatic Renal Cell Carcinoma (mRCC)
 
 All grade adverse events were collected in Study 7.
-Grade 3–5 adverse events occurring at a higher incidence (≥2%) in 337 patients receiving interferon alfa (IFN‑α) plus Avastin compared to 304 patients receiving IFN‑α plus placebo arm were fatigue (13% vs. 8%), asthenia (10% vs. 7%), proteinuria (7% vs. 0%), hypertension (6% vs. 1%; including hypertension and hypertensive crisis), and hemorrhage (3% vs. 0.3%; including epistaxis, small intestinal hemorrhage, aneurysm ruptured, gastric ulcer hemorrhage, gingival bleeding, haemoptysis, hemorrhage intracranial, large intestinal hemorrhage, respiratory tract hemorrhage, and traumatic hematoma).
+Grade 3–5 adverse events occurring at a higher incidence (≥ 2%) in 337 patients receiving interferon alfa (IFN-α) plus Avastin compared to 304 patients receiving IFN-α plus placebo arm were fatigue (13% vs. 8%), asthenia (10% vs. 7%), proteinuria (7% vs. 0%), hypertension (6% vs. 1%; including hypertension and hypertensive crisis), and hemorrhage (3% vs. 0.3%; including epistaxis, small intestinal hemorrhage, aneurysm ruptured, gastric ulcer hemorrhage, gingival bleeding, haemoptysis, hemorrhage intracranial, large intestinal hemorrhage, respiratory tract hemorrhage, and traumatic hematoma).
 
-Grade 1–5 adverse events occurring at a higher incidence (≥5%) in patients receiving IFN‑α plus Avastin compared to the IFN‑α plus placebo arm are presented in Table 3.
+Grade 1–5 adverse events occurring at a higher incidence (≥ 5%) in patients receiving IFN-α plus Avastin compared to the IFN-α plus placebo arm are presented in Table 3.
 
-Table 3: NCI‑CTC Grades 1–5 Adverse Events in Study 7 (Occurring at Higher Incidence [≥5%] in IFN‑α + Avastin vs. IFN‑α + Placebo)
+Table 3 NCI-CTC Grades 1–5 Adverse Events in Study 7 (Occurring at Higher Incidence [≥ 5%] in IFN-α + Avastin vs. IFN-α + Placebo)
 
-| System Organ Class/Preferred terma | IFN‑α + Placebo (n = 304) | IFN‑α + Avastin (n = 337) |
+| System Organ Class/Preferred termAdverse events were encoded using MedDRA, Version 10.1. | IFN-α + Placebo (n = 304) | IFN-α + Avastin (n = 337) |
 | --- | --- | --- |
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 16% | 21% |
@@ -226,24 +225,23 @@ Table 3: NCI‑CTC Grades 1–5 Adverse Events in Study 7 (Occurring at Higher I
 | Dysphonia | 0% | 5% |
 | Vascular disorders |  |  |
 | Hypertension | 9% | 28% |
-| aAdverse events were encoded using MedDRA, Version 10.1 |  |  |
 
-The following adverse events were reported at a 5‑fold greater incidence in the IFN‑α plus Avastin arm compared to IFN‑α alone and not represented in Table 3: gingival bleeding (13 patients vs. 1 patient); rhinitis (9 vs.0); blurred vision (8 vs. 0); gingivitis (8 vs. 1); gastroesophageal reflux disease (8 vs.1); tinnitus (7 vs. 1); tooth abscess (7 vs.0); mouth ulceration (6 vs. 0); acne (5 vs. 0); deafness (5 vs. 0); gastritis (5 vs. 0); gingival pain (5 vs. 0) and pulmonary embolism (5 vs. 1).
+The following adverse events were reported at a 5-fold greater incidence in the IFN-α plus Avastin arm compared to IFN-α alone and not represented in Table 3: gingival bleeding (13 patients vs. 1 patient); rhinitis (9 vs.0); blurred vision (8 vs. 0); gingivitis (8 vs. 1); gastroesophageal reflux disease (8 vs.1); tinnitus (7 vs. 1); tooth abscess (7 vs.0); mouth ulceration (6 vs. 0); acne (5 vs. 0); deafness (5 vs. 0); gastritis (5 vs. 0); gingival pain (5 vs. 0) and pulmonary embolism (5 vs. 1).
 
 ## 6.2 Immunogenicity
 
-As with all therapeutic proteins, there is a potential for immunogenicity.
-The incidence of antibody development in patients receiving Avastin has not been adequately determined because the assay sensitivity was inadequate to reliably detect lower titers.
-Enzyme‑linked immunosorbent assays (ELISAs) were performed on sera from approximately 500 patients treated with Avastin, primarily in combination with chemotherapy.
-High titer human anti‑Avastin antibodies were not detected.
+As with all therapeutic proteins, there is a potential for an immune response to Avastin.
 
-Immunogenicity data are highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody positivity in an assay may be influenced by several factors, including sample handling, timing of sample collection, concomitant medications, and underlying disease.
+In clinical trials of adjuvant colon carcinoma, 14 of 2233 evaluable patients (0.63%) tested positive for treatment-emergent anti-bevacizumab antibodies detected by an electrochemiluminescent (ECL) based assay.
+Among these 14 patients, three tested positive for neutralizing antibodies against bevacizumab using an enzyme-linked immunosorbent assay (ELISA).
+The clinical significance of these anti-product antibody responses to bevacizumab is unknown.
+
+Immunogenicity assay results are highly dependent on the sensitivity and specificity of the test method and may be influenced by several factors, including sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to Avastin with the incidence of antibodies to other products may be misleading.
 
 ## 6.3 Postmarketing Experience
 
-The following adverse reactions have been identified during post‑approval use of Avastin.
+The following adverse reactions have been identified during post-approval use of Avastin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a Whole: Polyserositis

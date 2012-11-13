@@ -16,12 +16,12 @@ Patients should continue treatment until disease progression or unacceptable tox
 
 Metastatic Colorectal Cancer (mCRC)
 
-The recommended doses are 5 mg/kg or 10 mg/kg every 2 weeks when used in combination with intravenous 5‑FU‑based chemotherapy.
+The recommended doses are 5 mg/kg or 10 mg/kg every 2 weeks when used in combination with intravenous 5-FU-based chemotherapy.
 
-- Administer 5 mg/kg when used in combination with bolus‑IFL.
+- Administer 5 mg/kg when used in combination with bolus-IFL.
 - Administer 10 mg/kg when used in combination with FOLFOX4.
 
-Non‑Squamous Non‑Small Cell Lung Cancer (NSCLC)
+Non-Squamous Non-Small Cell Lung Cancer (NSCLC)
 
 The recommended dose is 15 mg/kg every 3 weeks in combination with carboplatin and paclitaxel.
 
@@ -48,7 +48,7 @@ There are no recommended dose reductions.
 
 Discontinue Avastin for:
 
-- Gastrointestinal perforations (gastrointestinal perforations, fistula formation in the gastrointestinal tract, intra‑abdominal abscess), fistula formation involving an internal organ [See Boxed Warning, Warnings and Precautions (5.1, 5.4).]
+- Gastrointestinal perforations (gastrointestinal perforations, fistula formation in the gastrointestinal tract, intra-abdominal abscess), fistula formation involving an internal organ [See Boxed Warning, Warnings and Precautions (5.1, 5.4).]
 - Wound dehiscence and wound healing complications requiring medical intervention [See Warnings and Precautions (5.2).]
 - Serious hemorrhage (i.e., requiring medical intervention) [See Boxed Warning, Warnings and Precautions (5.3).]
 - Severe arterial thromboembolic events [See Warnings and Precautions (5.5).]
