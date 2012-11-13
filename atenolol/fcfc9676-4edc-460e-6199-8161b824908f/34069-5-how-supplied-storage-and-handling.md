@@ -8,19 +8,15 @@ Tablets of 50 mg atenolol, NDC 0310-0105 (round, flat, uncoated white tablets id
 
 Tablets of 100 mg atenolol, NDC 0310-0101 (round, flat, uncoated white tablets identified with "TENORMIN" debossed on one side and 101 debossed on the other side) are supplied in bottles of 100 tablets.
 
-## Storage
-
 Store at controlled room temperature, 20-25°C (68-77°F) [see USP].
 Dispense in well-closed, light-resistant containers.
 
 TENORMIN is a trademark of the AstraZeneca group of companies
 
-©AstraZeneca 2002, 2003, 2004, 2008
+©AstraZeneca 2012
 
 Distributed by:
 
 AstraZeneca Pharmaceuticals LP
 
-Wilmington, DE 19850
-
-02/2012
+Wilmington
