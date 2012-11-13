@@ -1,4 +1,4 @@
-# PATIENT INFORMATION
+PATIENT INFORMATION
 
 (CAD-oo-et)
 
@@ -24,7 +24,7 @@ It can also raise the levels of "good" cholesterol.
 
 Lipitor is also used to lower the risk for heart attack, stroke, certain types of heart surgery, and chest pain in patients who have heart disease or risk factors for heart disease such as:
 
-- age, smoking, high blood pressure, low HDL-C, heart disease in the family
+- age, smoking, high blood pressure, low levels of "good" cholesterol, heart disease in the family.
 
 Lipitor can lower the risk for heart attack or stroke in patients with diabetes and risk factors such as:
 
@@ -58,16 +58,12 @@ Tell your doctor about all of your health conditions, including, if you have:
 - kidney problems
 - or drink more than 2 glasses of alcohol daily
 
-Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins, and herbal supplements.
 CADUET and some other medicines can interact, causing serious side effects.
 Especially tell your doctor if you take medicines for:
 
-- your immune system
-- infections
-- cholesterol
-- birth control
-- heart failure
-- HIV (AIDS)
+| your immune systeminfectionscholesterol | birth controlheart failureHIV (AIDS) |
+| --- | --- |
 
 You can use nitroglycerin and CADUET together.
 If you take nitroglycerin for chest pain (angina), do not stop taking it while taking CADUET.
@@ -85,8 +81,6 @@ How should I take CADUET?
   Talk to your doctor if you have a problem swallowing pills.
 - Your doctor should start you on a low-fat diet before giving you CADUET.
   Stay on this low-fat diet when you take CADUET.
-- CADUET comes in many different strengths.
-  Your doctor will test your cholesterol and blood pressure to find the right dose for you.
 - If you miss a dose, take it as soon as you remember.
   Do not take CADUET if it has been more than 12 hours since your missed dose.
   Just take the next dose at your regular time.
@@ -112,41 +106,41 @@ These serious side effects include:
   CADUET can cause serious muscle problems that can lead to kidney problems, including kidney failure.
   You have a higher chance for muscle problems if you are taking certain other medicines with CADUET.
 - Liver problems.
-  CADUET can cause liver problems.
-  Your doctor may do blood tests to check your liver before you start taking CADUET and while you take it.
+  Your doctor should do blood tests to check your liver before you start taking CADUET and if you have symptoms of liver problems while you take CADUET.
+  Call your doctor right away if you have the following symptoms of liver problems:
+  - feel tired or weak
+  - loss of appetite
+  - upper belly pain
+  - dark amber colored urine
+  - yellowing of your skin or the whites of your eyes
+- Low blood pressure or dizziness
 
 Call your doctor right away if:
 
-- you have muscle problems like weakness, tenderness, or pain that happen without a good reason, especially if you also have a fever or feel more tired than usual
-- allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing which may require treatment right away.
+- you have muscle problems like weakness, tenderness, or pain that happen without a good reason, especially if you also have a fever or feel more tired than usual.
+  This may be an early sign of a rare muscle problem.
+- muscle problems that do not go away even after your doctor has advised you to stop taking CADUET.
+  Your doctor may do further tests to diagnose the cause of your muscle problems.
+- allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing which may require treatment right away
 - you have nausea and vomiting, stomach pain
 - you are passing brown or dark-colored urine
 - you feel more tired than usual
 - your skin and white of your eyes get yellow
-- allergic skin reactions.
-
+- you have allergic skin reactions
 - Chest pain that does not go away or gets worse.
-  Sometimes, when you start CADUET or increase your dose, chest pain can get worse or a heart attack can happen.
+  Sometimes when you start CADUET or increase your dose, chest pain can get worse or a heart attack can happen.
   If this happens, call your doctor or go to the emergency room right away.
 
 Common side effects of CADUET include:
 
-- headache
-- tiredness
-- stomach pain
-- upset stomach
-- swelling of your legs or ankles (edema)
-- hot or warm feeling in your face (flushing)
-- irregular heartbeat (arrhythmia)
-- very fast heartbeat (heart palpitations)
-- muscle and joint pain
-- alterations in some laboratory blood tests
-- dizziness
-- extreme sleepiness
-- nausea
-- diarrhea
+- Diarrhea
+- Swelling of your legs or ankles
+- Nausea
+- Upset stomach
+- Muscle and joint pain
+- Alterations in some laboratory blood tests
 
-Additional side effects have been reported: tendon problems.
+Additional side effects have been reported: tiredness, tendon problems, memory loss, and confusion.
 
 Talk to your doctor or pharmacist about side effects that bother you or do not go away.
 
@@ -166,11 +160,10 @@ Medicines are sometimes prescribed for conditions that are not mentioned in pati
 Do not use CADUET for a condition for which it was not prescribed.
 Do not give CADUET to other people, even if they have the same problem you have.
 It may harm them.
-
 This leaflet summarizes the most important information about CADUET.
 If you want more information, talk with your doctor.
 Ask your doctor or pharmacist for information about CADUET written for health professionals.
-You can also go to the CADUET website at www.CADUET.com, or call 866-514-0900.
+You can also go to the CADUET website at www.CADUET.com.
 
 What is high blood pressure (hypertension)?
 
@@ -210,6 +203,6 @@ Active ingredients: amlodipine besylate, atorvastatin calcium
 
 Inactive ingredients: calcium carbonate, croscarmellose sodium, microcrystalline cellulose, pregelatinized starch, polysorbate 80, hydroxypropyl cellulose, purified water, colloidal silicon dioxide (anhydrous), magnesium stearate
 
-Film coating: Opadry® II White 85F28751 (polyvinyl alcohol, titanium dioxide, PEG 3000 and talc) or Opadry® II Blue 85F10919 (polyvinyl alcohol, titanium dioxide, PEG 3000, talc, and FD&C blue #2)
+Film coating: Opadry® II White 85F28751 (polyvinyl alcohol, titanium dioxide, PEG 3000, and talc) or Opadry® II Blue 85F10919 (polyvinyl alcohol, titanium dioxide, PEG 3000, talc, and FD&C blue #2)
 
-LAB-0347- 5.0 January 2012
+LAB-0347-7.0 October 2012
