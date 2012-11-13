@@ -1,4 +1,4 @@
-Patient Information ULORIC (Ū – 'lor – ik) (febuxostat) tablets
+Patient Information ULORIC (Ū–'lor–ik) (febuxostat) tablets
 
 Read the Patient Information that comes with ULORIC before you start taking it and each time you get a refill.
 There may be new information.
@@ -14,8 +14,8 @@ Who should not take ULORIC?
 
 Do not take ULORIC if you:
 
-- take Azathioprine (Azasan, Imuran)
-- take Mercaptopurine (Purinethol)
+- •take azathioprine (Azasan, Imuran)
+- •take mercaptopurine (Purinethol)
 
 It is not known if ULORIC is safe and effective in children under 18 years of age.
 
@@ -23,14 +23,14 @@ What should I tell my healthcare provider before taking ULORIC?
 
 Before taking ULORIC tell your healthcare provider about all of your medical conditions, including if you:
 
-- have liver or kidney problems
-- have a history of heart disease or stroke
-- are pregnant or plan to become pregnant.
+- •have liver or kidney problems
+- •have a history of heart disease or stroke
+- •are pregnant or plan to become pregnant.
   It is not known if ULORIC will harm your unborn baby.
   Talk with your healthcare provider if you are pregnant or plan to become pregnant.
-- are breast-feeding or plan to breast-feed.
+- •are breastfeeding or plan to breastfeed.
   It is not known if ULORIC passes into your breast milk.
-  You and your healthcare provider should decide if you should take ULORIC while breast-feeding.
+  You and your healthcare provider should decide if you should take ULORIC while breastfeeding.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 ULORIC may affect the way other medicines work, and other medicines may affect how ULORIC works.
@@ -40,12 +40,12 @@ Keep a list of them and show it to your healthcare provider and pharmacist when 
 
 How should I take ULORIC?
 
-- Take ULORIC exactly as your healthcare provider tells you to take it.
-- ULORIC can be taken with or without food.
-- ULORIC can be taken with antacids.
-- Your gout may flare up when you start taking ULORIC, do not stop taking your ULORIC even if you have a flare.
+- •Take ULORIC exactly as your healthcare provider tells you to take it.
+- •ULORIC can be taken with or without food.
+- •ULORIC can be taken with antacids.
+- •Your gout may flare up when you start taking ULORIC, do not stop taking your ULORIC even if you have a flare.
   Your healthcare provider may give you other medicines to help prevent your gout flares.
-- Your healthcare provider may do certain tests while you take ULORIC.
+- •Your healthcare provider may do certain tests while you take ULORIC.
 
 What are the possible side effects of ULORIC?
 
@@ -55,11 +55,11 @@ It is not certain that ULORIC caused these events.
 
 The most common side effects of ULORIC include:
 
-- liver problems
-- nausea
-- gout flares
-- joint pain
-- rash
+- •liver problems
+- •nausea
+- •gout flares
+- •joint pain
+- •rash
 
 Tell your healthcare provider if you develop a rash, have any side effect that bothers you, or that does not go away.
 These are not all of the possible side effects of ULORIC.
@@ -70,7 +70,7 @@ You may report side effects to the FDA at 1-800-FDA-1088.
 
 How should I store ULORIC?
 
-Store ULORIC between 59°F to 86°F (15°C to 30°C).
+Store ULORIC between 59°F and 86°F (15°C to 30°C).
 
 Keep ULORIC out of the light.
 
@@ -93,3 +93,15 @@ What are the ingredients in ULORIC?
 Active Ingredient: febuxostat
 
 Inactive ingredients include: lactose monohydrate, microcrystalline cellulose, hydroxypropyl cellulose, sodium croscarmellose, silicon dioxide, magnesium stearate, and Opadry II, green
+
+Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
+
+Revised: November 2012
+
+ULORIC is a registered trademark of Teijin Pharma Limited registered in the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
+
+All other trademarks are the property of their respective owners.
+
+©2009, 2012 Takeda Pharmaceuticals America, Inc.
+
+ULR015 R3

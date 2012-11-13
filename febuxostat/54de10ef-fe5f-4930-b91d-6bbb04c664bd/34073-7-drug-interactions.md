@@ -4,7 +4,7 @@
 
 ULORIC is an XO inhibitor.
 Based on a drug interaction study in healthy subjects, febuxostat altered the metabolism of theophylline (a substrate of XO) in humans [see Clinical Pharmacology (12.3)].
-Therefore, use with caution when co-administering ULORIC with theophylline.
+Therefore, use with caution when coadministering ULORIC with theophylline.
 
 Drug interaction studies of ULORIC with other drugs that are metabolized by XO (e.g., mercaptopurine and azathioprine) have not been conducted.
 Inhibition of XO by ULORIC may cause increased plasma concentrations of these drugs leading to toxicity [see Clinical Pharmacology (12.3)].

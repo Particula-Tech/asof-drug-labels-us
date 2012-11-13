@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ULORIC 40 mg tablets are light green to green in color, round shaped, debossed with "TAP" on one side and "40" on the other side and supplied as:
+ULORIC 40 mg tablets are light green to green in color, round, debossed with "TAP" on one side and "40" on the other side and supplied as:
 
 | NDC Number | Size |
 | --- | --- |

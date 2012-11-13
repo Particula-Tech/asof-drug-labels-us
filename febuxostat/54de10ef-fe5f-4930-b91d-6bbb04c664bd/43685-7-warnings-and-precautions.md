@@ -3,18 +3,27 @@
 ## 5.1 Gout Flare
 
 After initiation of ULORIC, an increase in gout flares is frequently observed.
-This increase is due to reduction in serum uric acid levels resulting in mobilization of urate from tissue deposits.
+This increase is due to reduction in serum uric acid levels, resulting in mobilization of urate from tissue deposits.
 
 In order to prevent gout flares when ULORIC is initiated, concurrent prophylactic treatment with an NSAID or colchicine is recommended [see Dosage and Administration (2.4)].
 
 ## 5.2 Cardiovascular Events
 
-In the randomized controlled studies, there was a higher rate of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) in patients treated with ULORIC [0.74 per 100 P-Y (95% Confidence Interval (CI) 0.36-1.37)] than allopurinol [0.60 per 100 P-Y (95% CI 0.16-1.53)] [see Adverse Reactions (6.1)].
+In the randomized controlled studies, there was a higher rate of cardiovascular thromboembolic events (cardiovascular deaths, non-fatal myocardial infarctions, and non-fatal strokes) in patients treated with ULORIC (0.74 per 100 P-Y [95% Confidence Interval (CI) 0.36-1.37]) than allopurinol (0.60 per 100 P-Y [95% CI 0.16-1.53]) [see Adverse Reactions (6.1)].
 A causal relationship with ULORIC has not been established.
 Monitor for signs and symptoms of myocardial infarction (MI) and stroke.
 
-## 5.3 Liver Enzyme Elevations
+## 5.3 Hepatic Effects
 
-During randomized controlled studies, transaminase elevations greater than 3 times the upper limit of normal (ULN) were observed (AST: 2%, 2%, and ALT: 3%, 2% in ULORIC and allopurinol-treated patients, respectively).
-No dose-effect relationship for these transaminase elevations was noted.
-Laboratory assessment of liver function is recommended at, for example, 2 and 4 months following initiation of ULORIC and periodically thereafter.
+There have been postmarketing reports of fatal and non-fatal hepatic failure in patients taking ULORIC, although the reports contain insufficient information necessary to establish the probable cause.
+During randomized controlled studies, transaminase elevations greater than three times the upper limit of normal (ULN) were observed (AST: 2%, 2%, and ALT: 3%, 2% in ULORIC and allopurinol-treated patients, respectively).
+No dose-effect relationship for these transaminase elevations was noted [see Clinical Pharmacology (12.3)].
+
+Obtain a liver test panel (serum alanine aminotransferase [ALT], aspartate aminotransferase [AST], alkaline phosphatase, and total bilirubin) as a baseline before initiating ULORIC.
+
+Measure liver tests promptly in patients who report symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
+In this clinical context, if the patient is found to have abnormal liver tests (ALT greater than three times the upper limit of the reference range), ULORIC treatment should be interrupted and investigation done to establish the probable cause.
+ULORIC should not be restarted in these patients without another explanation for the liver test abnormalities.
+
+Patients who have serum ALT greater than three times the reference range with serum total bilirubin greater than two times the reference range without alternative etiologies are at risk for severe drug-induced liver injury and should not be restarted on ULORIC.
+For patients with lesser elevations of serum ALT or bilirubin and with an alternate probable cause, treatment with ULORIC can be used with caution.

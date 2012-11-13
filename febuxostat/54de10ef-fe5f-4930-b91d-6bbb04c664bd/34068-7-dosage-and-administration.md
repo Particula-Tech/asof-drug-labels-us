@@ -5,7 +5,7 @@
 For treatment of hyperuricemia in patients with gout, ULORIC is recommended at 40 mg or 80 mg once daily.
 
 The recommended starting dose of ULORIC is 40 mg once daily.
-For patients who do not achieve a serum uric acid (sUA) less than 6 mg per dL after 2 weeks with 40 mg, ULORIC 80 mg is recommended.
+For patients who do not achieve a serum uric acid (sUA) less than 6 mg/dL after two weeks with 40 mg, ULORIC 80 mg is recommended.
 
 ULORIC can be taken without regard to food or antacid use [see Clinical Pharmacology (12.3)].
 
@@ -13,13 +13,13 @@ ULORIC can be taken without regard to food or antacid use [see Clinical Pharmaco
 
 No dose adjustment is necessary when administering ULORIC in patients with mild to moderate renal impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 The recommended starting dose of ULORIC is 40 mg once daily.
-For patients who do not achieve a sUA less than 6 mg per dL after 2 weeks with 40 mg, ULORIC 80 mg is recommended.
+For patients who do not achieve a sUA less than 6 mg/dL after two weeks with 40 mg, ULORIC 80 mg is recommended.
 
 No dose adjustment is necessary in patients with mild to moderate hepatic impairment [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
 ## 2.3 Uric Acid Level
 
-Testing for the target serum uric acid level of less than 6 mg per dL may be performed as early as 2 weeks after initiating ULORIC therapy.
+Testing for the target serum uric acid level of less than 6 mg/dL may be performed as early as two weeks after initiating ULORIC therapy.
 
 ## 2.4 Gout Flares
 

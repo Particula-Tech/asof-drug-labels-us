@@ -7,13 +7,13 @@ ULORIC is not expected to inhibit other enzymes involved in purine and pyrimidin
 
 ## 12.2 Pharmacodynamics
 
-Effect on Uric Acid and Xanthine Concentrations: In healthy subjects, ULORIC resulted in a dose dependent decrease in 24-hour mean serum uric acid concentrations, and an increase in 24-hour mean serum xanthine concentrations.
+Effect on Uric Acid and Xanthine Concentrations: In healthy subjects, ULORIC resulted in a dose dependent decrease in 24-hour mean serum uric acid concentrations and an increase in 24-hour mean serum xanthine concentrations.
 In addition, there was a decrease in the total daily urinary uric acid excretion.
 Also, there was an increase in total daily urinary xanthine excretion.
-Percent reduction in 24-hour mean serum uric acid concentrations was between 40% to 55% at the exposure levels of 40 mg and 80 mg daily doses.
+Percent reduction in 24-hour mean serum uric acid concentrations was between 40% and 55% at the exposure levels of 40 mg and 80 mg daily doses.
 
 Effect on Cardiac Repolarization: The effect of ULORIC on cardiac repolarization as assessed by the QTc interval was evaluated in normal healthy subjects and in patients with gout.
-ULORIC in doses up to 300 mg daily, at steady state, did not demonstrate an effect on the QTc interval.
+ULORIC in doses up to 300 mg daily, at steady-state, did not demonstrate an effect on the QTc interval.
 
 ## 12.3 Pharmacokinetics
 
@@ -23,26 +23,26 @@ Febuxostat has an apparent mean terminal elimination half-life (t1/2) of approxi
 Febuxostat pharmacokinetic parameters for patients with hyperuricemia and gout estimated by population pharmacokinetic analyses were similar to those estimated in healthy subjects.
 
 Absorption: The absorption of radiolabeled febuxostat following oral dose administration was estimated to be at least 49% (based on total radioactivity recovered in urine).
-Maximum plasma concentrations of febuxostat occurred between 1 to 1.5 hours post-dose.
-After multiple oral 40 mg and 80 mg once daily doses, Cmax is approximately 1.6 ± 0.6 mcg per mL (N=30), and 2.6 ± 1.7 mcg per mL (N=227), respectively.
+Maximum plasma concentrations of febuxostat occurred between 1 and 1.5 hours post-dose.
+After multiple oral 40 mg and 80 mg once daily doses, Cmax is approximately 1.6 ± 0.6 mcg/mL (N=30), and 2.6 ± 1.7 mcg/mL (N=227), respectively.
 Absolute bioavailability of the febuxostat tablet has not been studied.
 
 Following multiple 80 mg once daily doses with a high fat meal, there was a 49% decrease in Cmax and an 18% decrease in AUC, respectively.
 However, no clinically significant change in the percent decrease in serum uric acid concentration was observed (58% fed vs. 51% fasting).
 Thus, ULORIC may be taken without regard to food.
 
-Concomitant ingestion of an antacid containing magnesium hydroxide and aluminum hydroxide with an 80 mg single dose of ULORIC has been shown to delay absorption of febuxostat (approximately 1 hour) and to cause a 31% decrease in Cmax and a 15% decrease in AUC∞.
+Concomitant ingestion of an antacid containing magnesium hydroxide and aluminum hydroxide with an 80 mg single dose of ULORIC has been shown to delay absorption of febuxostat (approximately one hour) and to cause a 31% decrease in Cmax and a 15% decrease in AUC∞.
 As AUC rather than Cmax was related to drug effect, change observed in AUC was not considered clinically significant.
 Therefore, ULORIC may be taken without regard to antacid use.
 
 Distribution: The mean apparent steady state volume of distribution (Vss/F) of febuxostat was approximately 50 L (CV ~40%).
-The plasma protein binding of febuxostat is approximately 99.2%, (primarily to albumin), and is constant over the concentration range achieved with 40 mg and 80 mg doses.
+The plasma protein binding of febuxostat is approximately 99.2% (primarily to albumin), and is constant over the concentration range achieved with 40 mg and 80 mg doses.
 
 Metabolism: Febuxostat is extensively metabolized by both conjugation via uridine diphosphate glucuronosyltransferase (UGT) enzymes including UGT1A1, UGT1A3, UGT1A9, and UGT2B7 and oxidation via cytochrome P450 (CYP) enzymes including CYP1A2, 2C8 and 2C9 and non-P450 enzymes.
 The relative contribution of each enzyme isoform in the metabolism of febuxostat is not clear.
 The oxidation of the isobutyl side chain leads to the formation of four pharmacologically active hydroxy metabolites, all of which occur in plasma of humans at a much lower extent than febuxostat.
 
-In urine and feces, acyl glucuronide metabolites of febuxostat (~35% of the dose), and oxidative metabolites, 67M-1 (~10% of the dose), 67M-2 (~11% of the dose), and 67M-4, a secondary metabolite from 67M-1, (~14% of the dose) appeared to be the major metabolites of febuxostat in vivo.
+In urine and feces, acyl glucuronide metabolites of febuxostat (~35% of the dose), and oxidative metabolites, 67M-1 (~10% of the dose), 67M-2 (~11% of the dose), and 67M-4, a secondary metabolite from 67M-1 (~14% of the dose), appeared to be the major metabolites of febuxostat in vivo.
 
 Elimination: Febuxostat is eliminated by both hepatic and renal pathways.
 Following an 80 mg oral dose of 14C-labeled febuxostat, approximately 49% of the dose was recovered in the urine as unchanged febuxostat (3%), the acyl glucuronide of the drug (30%), its known oxidative metabolites and their conjugates (13%), and other unknown metabolites (3%).
@@ -54,23 +54,24 @@ Special Populations
 
 Pediatric Use: The pharmacokinetics of ULORIC in patients under the age of 18 years have not been studied.
 
-Geriatric Use: The Cmax and AUC of febuxostat and its metabolites following multiple oral doses of ULORIC in geriatric subjects (≥ 65 years) were similar to those in younger subjects (18-40 years).
+Geriatric Use: The Cmax and AUC of febuxostat and its metabolites following multiple oral doses of ULORIC in geriatric subjects (≥65 years) were similar to those in younger subjects (18 to 40 years).
 In addition, the percent decrease in serum uric acid concentration was similar between elderly and younger subjects.
 No dose adjustment is necessary in geriatric patients [see Use in Specific Populations (8.5)].
 
-Renal Impairment: Following multiple 80 mg doses of ULORIC in healthy subjects with mild (Clcr 50-80 mL per min), moderate (Clcr 30-49 mL per min) or severe renal impairment (Clcr 10-29 mL per min), the Cmax of febuxostat did not change relative to subjects with normal renal function (Clcr greater than 80 mL per min). AUC and half-life of febuxostat increased in subjects with renal impairment in comparison to subjects with normal renal function, but values were similar among three renal impairment groups.
+Renal Impairment: Following multiple 80 mg doses of ULORIC in healthy subjects with mild (Clcr 50 to 80 mL/min), moderate (Clcr 30 to 49 mL/min) or severe renal impairment (Clcr 10 to 29 mL/min), the Cmax of febuxostat did not change relative to subjects with normal renal function (Clcr greater than 80 mL/min).
+AUC and half-life of febuxostat increased in subjects with renal impairment in comparison to subjects with normal renal function, but values were similar among three renal impairment groups.
 Mean febuxostat AUC values were up to 1.8 times higher in subjects with renal impairment compared to those with normal renal function.
-Mean Cmax and AUC values for 3 active metabolites increased up to 2- and 4-fold, respectively.
+Mean Cmax and AUC values for three active metabolites increased up to 2- and 4-fold, respectively.
 However, the percent decrease in serum uric acid concentration for subjects with renal impairment was comparable to those with normal renal function (58% in normal renal function group and 55% in the severe renal function group).
 
 No dose adjustment is necessary in patients with mild to moderate renal impairment [see Dosage and Administration (2) and Use in Specific Populations (8.6)].
 The recommended starting dose of ULORIC is 40 mg once daily.
-For patients who do not achieve a sUA less than 6 mg per dL after 2 weeks with 40 mg, ULORIC 80 mg is recommended.
+For patients who do not achieve a sUA less than 6 mg/dL after two weeks with 40 mg, ULORIC 80 mg is recommended.
 There is insufficient data in patients with severe renal impairment; caution should be exercised in those patients [see Use in Specific Populations (8.6)].
 
 ULORIC has not been studied in end stage renal impairment patients who are on dialysis.
 
-Hepatic Impairment: Following multiple 80 mg doses of ULORIC in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment, an average of 20-30% increase was observed for both Cmax and AUC24 (total and unbound) in hepatic impairment groups compared to subjects with normal hepatic function.
+Hepatic Impairment: Following multiple 80 mg doses of ULORIC in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment, an average of 20% to 30% increase was observed for both Cmax and AUC24 (total and unbound) in hepatic impairment groups compared to subjects with normal hepatic function.
 In addition, the percent decrease in serum uric acid concentration was comparable between different hepatic groups (62% in healthy group, 49% in mild hepatic impairment group, and 48% in moderate hepatic impairment group).
 No dose adjustment is necessary in patients with mild or moderate hepatic impairment.
 No studies have been conducted in subjects with severe hepatic impairment (Child-Pugh Class C); caution should be exercised in those patients [see Use in Specific Populations (8.7)].
@@ -87,8 +88,8 @@ Drug-Drug Interactions
 Effect of ULORIC on Other Drugs
 
 Xanthine Oxidase Substrate Drugs-Azathioprine, Mercaptopurine, and Theophylline: Febuxostat is an XO inhibitor.
-A drug-drug interaction study evaluating the effect of ULORIC upon the pharmacokinetics of theophylline (an XO substrate) in healthy subjects showed that co-administration of febuxostat with theophylline resulted in an approximately 400-fold increase in the amount of 1-methylxanthine, one of the major metabolites of theophylline, excreted in the urine.
-Since the long-term safety of exposure to 1-methylxanthine in humans is unknown, use with caution when co-administering febuxostat with theophylline.
+A drug-drug interaction study evaluating the effect of ULORIC upon the pharmacokinetics of theophylline (an XO substrate) in healthy subjects showed that coadministration of febuxostat with theophylline resulted in an approximately 400-fold increase in the amount of 1-methylxanthine, one of the major metabolites of theophylline, excreted in the urine.
+Since the long-term safety of exposure to 1-methylxanthine in humans is unknown, use with caution when coadministering febuxostat with theophylline.
 
 Drug interaction studies of ULORIC with other drugs that are metabolized by XO (e.g., mercaptopurine and azathioprine) have not been conducted.
 Inhibition of XO by ULORIC may cause increased plasma concentrations of these drugs leading to toxicity.
@@ -109,33 +110,33 @@ Drug interactions between ULORIC and a drug that inhibits or induces one particu
 
 In Vivo Drug Interaction Studies
 
-Theophylline: No dose adjustment is necessary for theophylline when co-administered with ULORIC.
+Theophylline: No dose adjustment is necessary for theophylline when coadministered with ULORIC.
 Administration of ULORIC (80 mg once daily) with theophylline resulted in an increase of 6% in Cmax and 6.5% in AUC of theophylline.
 These changes were not considered statistically significant.
 However, the study also showed an approximately 400-fold increase in the amount of 1-methylxanthine (one of the major theophylline metabolites) excreted in urine as a result of XO inhibition by ULORIC.
 The safety of long-term exposure to 1-methylxanthine has not been evaluated.
-This should be taken into consideration when deciding to co-administer Uloric and theophylline.
+This should be taken into consideration when deciding to coadminister ULORIC and theophylline.
 
-Colchicine: No dose adjustment is necessary for either ULORIC or colchicine when the two drugs are co-administered.
+Colchicine: No dose adjustment is necessary for either ULORIC or colchicine when the two drugs are coadministered.
 Administration of ULORIC (40 mg once daily) with colchicine (0.6 mg twice daily) resulted in an increase of 12% in Cmax and 7% in AUC24 of febuxostat.
-In addition, administration of colchicine (0.6 mg twice daily) with ULORIC (120 mg daily) resulted in less than 11% change in Cmax or AUC of colchicine for both AM and PM doses.
+In addition, administration of colchicine (0.6 mg twice daily) with ULORIC (120 mg daily) resulted in a less than 11% change in Cmax or AUC of colchicine for both AM and PM doses.
 These changes were not considered clinically significant.
 
-Naproxen: No dose adjustment is necessary for ULORIC or naproxen when the two drugs are co-administered.
+Naproxen: No dose adjustment is necessary for ULORIC or naproxen when the two drugs are coadministered.
 Administration of ULORIC (80 mg once daily) with naproxen (500 mg twice daily) resulted in a 28% increase in Cmax and a 40% increase in AUC of febuxostat.
 The increases were not considered clinically significant.
 In addition, there were no significant changes in the Cmax or AUC of naproxen (less than 2%).
 
-Indomethacin: No dose adjustment is necessary for either ULORIC or indomethacin when these two drugs are co-administered.
+Indomethacin: No dose adjustment is necessary for either ULORIC or indomethacin when these two drugs are coadministered.
 Administration of ULORIC (80 mg once daily) with indomethacin (50 mg twice daily) did not result in any significant changes in Cmax or AUC of febuxostat or indomethacin (less than 7%).
 
-Hydrochlorothiazide: No dose adjustment is necessary for ULORIC when co-administered with hydrochlorothiazide.
+Hydrochlorothiazide: No dose adjustment is necessary for ULORIC when coadministered with hydrochlorothiazide.
 Administration of ULORIC (80 mg) with hydrochlorothiazide (50 mg) did not result in any clinically significant changes in Cmax or AUC of febuxostat (less than 4%), and serum uric acid concentrations were not substantially affected.
 
-Warfarin: No dose adjustment is necessary for warfarin when co-administered with ULORIC.
+Warfarin: No dose adjustment is necessary for warfarin when coadministered with ULORIC.
 Administration of ULORIC (80 mg once daily) with warfarin had no effect on the pharmacokinetics of warfarin in healthy subjects.
-INR and Factor VII activity were also not affected by the co-administration of ULORIC.
+INR and Factor VII activity were also not affected by the coadministration of ULORIC.
 
-Desipramine: Co-administration of drugs that are CYP2D6 substrates (such as desipramine) with ULORIC are not expected to require dose adjustment.
+Desipramine: Coadministration of drugs that are CYP2D6 substrates (such as desipramine) with ULORIC are not expected to require dose adjustment.
 Febuxostat was shown to be a weak inhibitor of CYP2D6 in vitro and in vivo.
 Administration of ULORIC (120 mg once daily) with desipramine (25 mg) resulted in an increase in Cmax (16%) and AUC (22%) of desipramine, which was associated with a 17% decrease in the 2-hydroxydesipramine to desipramine metabolic ratio (based on AUC).
