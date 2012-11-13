@@ -4,7 +4,7 @@
 
 Anaphylactoid and Possibly Related Reactions: Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors (including ZESTORETIC) may be subject to a variety of adverse reactions, some of them serious.
 
-Head and Neck Angioedema: Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported in patients treated with angiotensin-converting enzyme inhibitors, including lisinopril.
+Head and Neck Angioedema:Angioedema of the face, extremities, lips, tongue, glottis and/or larynx has been reported in patients treated with angiotensin-converting enzyme inhibitors, including lisinopril.
 This may occur at any time during treatment.
 ACE inhibitors have been associated with a higher rate of angioedema in black than in nonblack patients.
 ZESTORETIC should be promptly discontinued and the appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms has occurred.

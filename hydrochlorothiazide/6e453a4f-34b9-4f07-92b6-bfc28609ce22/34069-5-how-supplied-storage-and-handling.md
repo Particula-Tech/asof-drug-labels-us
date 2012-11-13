@@ -15,7 +15,7 @@ Protect from excessive light and humidity.
 
 ZESTORETIC is a trademark of the AstraZeneca group of companies.
 
-© AstraZeneca 2011
+© AstraZeneca 2012
 
 Distributed by:
 
@@ -23,4 +23,4 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Revision: 8/2012
+Revision: 10/2012
