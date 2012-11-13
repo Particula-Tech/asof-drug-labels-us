@@ -1,4 +1,4 @@
-MEDICATION GUIDE PRADAXA (pra dax´ a) (dabigatran etexilate mesylate) capsules
+MEDICATION GUIDE PRADAXA (pra dax a) (dabigatran etexilate mesylate) capsules
 
 Read this Medication Guide before you start taking PRADAXA and each time you get a refill.
 There may be new information.
@@ -17,7 +17,7 @@ What is the most important information I should know about PRADAXA?
     - long-term (chronic) use of non-steroidal anti-inflammatory drugs (NSAIDs)
     - warfarin sodium (Coumadin®, Jantoven®)
     - a medicine that contains heparin
-    - clopidogrel (Plavix®)
+    - clopidogrel bisulfate (Plavix®)
     - prasugrel (Effient®)
   - have certain kidney problems and also take the medicines dronedarone (Multaq®) or ketoconazole tablets (Nizoral®).
     Tell your doctor if you take any of these medicines.
@@ -52,6 +52,8 @@ With atrial fibrillation, part of the heart does not beat the way it should.
 This can lead to blood clots forming and increase your risk of a stroke.
 PRADAXA is a blood thinner medicine that lowers the chance of blood clots forming in your body.
 
+PRADAXA is not for use in people with artificial (prosthetic) heart valves.
+
 It is not known if PRADAXA is safe and works in children.
 
 Who should not take PRADAXA?
@@ -59,7 +61,7 @@ Who should not take PRADAXA?
 Do not take PRADAXA if you:
 
 - currently have certain types of abnormal bleeding.
-  Talk to your doctor, before taking PRADAXA if you currently have unusual bleeding.
+  Talk to your doctor before taking PRADAXA if you currently have unusual bleeding.
 - have had a serious allergic reaction to PRADAXA.
   Ask your doctor if you are not sure.
 
@@ -70,6 +72,7 @@ Before you take PRADAXA, tell your doctor if you:
 - have kidney problems
 - have ever had bleeding problems
 - have ever had stomach ulcers
+- have ever had or plan to have a valve in your heart replaced
 - have any other medical condition
 - are pregnant or plan to become pregnant.
   It is not known if PRADAXA will harm your unborn baby.
@@ -83,7 +86,7 @@ Before you take PRADAXA, tell your doctor if you:
   See "What is the most important information I should know about PRADAXA?"
   Especially tell your doctor if you take: Know the medicines you take.
   Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
-  - rifampin (Rifater, Rifamate, Rimactane, Rifadin)
+  - rifampin (Rifater®, Rifamate®, Rimactane®, Rifadin®)
 
 How should I take PRADAXA?
 
@@ -111,12 +114,12 @@ How should I take PRADAXA?
   You may have to stop taking PRADAXA for a short time.
   See "What is the most important information I should know about PRADAXA?"
 - If you take too much PRADAXA, go to the nearest hospital emergency room or call your doctor.
-- Call your healthcare provider right away if you fall or injure yourself, especially if you hit your head.
-  Your healthcare provider may need to check you.
+- Call your doctor or healthcare provider right away if you fall or injure yourself, especially if you hit your head.
+  Your doctor or healthcare provider may need to check you.
 
 What are the possible side effects of PRADAXA?
 
-PRADAXA can cause serious side effects.
+PRADAXA can cause serious side effects, including:
 
 - See "What is the most important information I should know about PRADAXA?"
 - Allergic Reactions.
@@ -155,7 +158,7 @@ General information about PRADAXA
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use PRADAXA for a condition for which it was not prescribed.
-Do not give your PRADAXA to other people, even if they have the same symptoms.
+Do not give your PRADAXA to other people, even if they have the same symptoms that you have.
 It may harm them.
 
 This Medication Guide summarizes the most important information about PRADAXA.
@@ -175,14 +178,14 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Revised: May 2012
+Revised: November 2012
 
 The brands listed above are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The owners of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
 Copyright 2012 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-07 IT5060OF012012
+75461-08 IT5060QK052012
 
-75457-07 IT5400M
+75457-08 IT5400N
 
-301841-02 IT5624B
+301841-03 IT5624C

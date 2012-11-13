@@ -104,7 +104,8 @@ P-gp Inhibitors
 In studies with the P-gp inhibitors ketoconazole, amiodarone, verapamil, and quinidine, the time to peak, terminal half-life, and mean residence time of dabigatran were not affected.
 Any observed changes in Cmax and AUC are described below.
 
-Dronedarone: Exposure to dabigatran is 73-99% higher when it is administered with dronedarone than when it is administered alone.
+Dronedarone: Simultaneous administration of dabigatran etexilate and dronedarone (administered once or twice daily) increases exposure to dabigatran by 70 to 140% compared to dabigatran alone.
+The increase in exposure is only 30 to 60% higher compared to dabigatran alone when dronedarone is administered 2 hours after dabigatran etexilate.
 
 Ketoconazole: Systemic ketoconazole increased dabigatran AUC and Cmax values by 138% and 135%, respectively, after a single dose of 400 mg, and 153%, and 149%, respectively, after multiple daily doses of 400 mg.
 

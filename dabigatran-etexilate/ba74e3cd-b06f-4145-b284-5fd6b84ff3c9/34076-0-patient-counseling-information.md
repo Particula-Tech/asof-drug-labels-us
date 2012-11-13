@@ -50,12 +50,16 @@ Instruct patients to inform their health care provider that they are taking PRAD
 
 Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take so their health care provider knows about other treatments that may affect bleeding risk (e.g., aspirin or NSAIDs) or dabigatran exposure (e.g., dronedarone or systemic ketoconazole).
 
+## 17.6 Prosthetic Heart Valves
+
+Instruct patients to inform their health care provider if they will have or have had surgery to place a prosthetic heart valve.
+
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Copyright 2012 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-75461-07 IT5060OF012012
+75461-08 IT5060QK052012
 
-75457-07 IT5400M
+75457-08 IT5400N
 
-301841-02 IT5624B
+301841-03 IT5624C

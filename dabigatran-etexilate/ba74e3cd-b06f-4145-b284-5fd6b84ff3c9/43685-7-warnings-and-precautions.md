@@ -6,11 +6,11 @@ PRADAXA increases the risk of bleeding and can cause significant and, sometimes,
 Promptly evaluate any signs or symptoms of blood loss (e.g., a drop in hemoglobin and/or hematocrit or hypotension).
 Discontinue PRADAXA in patients with active pathological bleeding [see Dosage and Administration (2.2)].
 
-Risk factors for bleeding include the use of other drugs that increase the risk of bleeding (e.g., anti-platelet agents, heparin, fibrinolytic therapy, and chronic use of NSAIDs).
+Risk factors for bleeding include the concomitant use of other drugs that increase the risk of bleeding (e.g., anti-platelet agents, heparin, fibrinolytic therapy, and chronic use of NSAIDs).
 PRADAXA’s anticoagulant activity and half-life are increased in patients with renal impairment [see Clinical Pharmacology (12.2)].
 
 A specific reversal agent for dabigatran is not available.
-Dabigatran can be dialyzed (protein binding is low, with the removal of about 60% of drug over 2-3 hours); however the amount of data supporting this approach is limited.
+Hemodialysis can remove dabigatran; however the clinical experience supporting the use of hemodialysis as a treatment for bleeding is limited [see Overdosage (10)].
 Activated prothrombin complex concentrates (aPCCs, e.g., FEIBA), or recombinant Factor VIIa, or concentrates of coagulation factors II, IX or X may be considered but their use has not been evaluated in clinical trials.
 Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of dabigatran.
 Consider administration of platelet concentrates in cases where thrombocytopenia is present or long-acting antiplatelet drugs have been used.
@@ -29,3 +29,8 @@ Concomitant use of P-gp inhibitors in patients with renal impairment is expected
 
 Consider reducing the dose of PRADAXA to 75 mg twice daily when dronedarone or systemic ketoconazole is coadministered with PRADAXA in patients with moderate renal impairment (CrCl 30-50 mL/min).
 Avoid use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) [see Drug Interactions (7) and Use in Specific Populations (8.6)].
+
+## 5.4 Patients with Prosthetic Heart Valves
+
+The safety and efficacy of PRADAXA has not been studied in patients with prosthetic heart valves.
+Therefore, use of PRADAXA is not recommended in these patients.

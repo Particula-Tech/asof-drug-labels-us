@@ -55,3 +55,9 @@ These were commonly dyspepsia (including abdominal pain upper, abdominal pain, a
 Hypersensitivity Reactions
 
 In the RE-LY study, drug hypersensitivity (including urticaria, rash, and pruritus), allergic edema, anaphylactic reaction, and anaphylactic shock were reported in <0.1% of patients receiving PRADAXA.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of PRADAXA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reaction has been identified during postapproval use of PRADAXA: angioedema.
