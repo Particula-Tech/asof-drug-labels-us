@@ -28,8 +28,7 @@ Treatment-Emergent Adverse Events Reported by at Least 2% of Patients in 2 Contr
 | Chest discomfort/chest pain | 3 | <1 | 2 | 1 |
 | Neck/throat/jaw pain/tightness/pressure | 3 | 1 | 3 | 1 |
 
-- aEvents that occurred at a frequency of 2% or more in the group treated with TREXIMET and that occurred more frequently in the group treated with TREXIMET than in the placebo group.
-- 
+aEvents that occurred at a frequency of 2% or more in the group treated with TREXIMET and that occurred more frequently in the group treated with TREXIMET than in the placebo group.
 
 Other events that occurred in more than 1% of patients receiving TREXIMET and occurred at a frequency greater than the placebo group included asthenia, feeling hot, muscle tightness, and palpitations.
 

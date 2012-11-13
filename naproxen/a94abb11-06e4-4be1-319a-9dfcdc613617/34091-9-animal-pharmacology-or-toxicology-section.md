@@ -19,6 +19,6 @@ Research Triangle Park, NC 27709
 ©2012, GlaxoSmithKline.
 All rights reserved.
 
-March 2012
+October 2012
 
-TRX:8PI
+TRX:10PI
