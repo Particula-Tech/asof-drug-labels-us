@@ -92,8 +92,11 @@ Monitor renal function periodically in patients receiving losartan and NSAID the
 
 The antihypertensive effect of angiotensin II receptor antagonists, including losartan, may be attenuated by NSAIDs, including selective COX-2 inhibitors.
 
-Dual blockade of the renin-angiotensin-aldosterone system: Dual blockade of the renin-angiotensin-aldosterone system is associated with increased risk of hypotension, syncope, hyperkalemia, and changes in renal function (including acute renal failure).
-Closely monitor blood pressure, renal function, and electrolytes in patients on COZAAR and ACE inhibitors.
+Dual Blockade of the Renin-Angiotensin System (RAS): Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, syncope, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function, and electrolytes in patients on COZAAR and other agents that affect the RAS.
+
+Do not co-administer aliskiren with COZAAR in patients with diabetes.
+Avoid use of aliskiren with COZAAR in patients with renal impairment (GFR <60 ml/min).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 

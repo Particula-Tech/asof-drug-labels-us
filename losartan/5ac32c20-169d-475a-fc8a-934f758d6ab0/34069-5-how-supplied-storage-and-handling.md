@@ -5,7 +5,7 @@ They are supplied as follows:
 
 NDC 0006-0951-54 unit of use bottles of 90
 
-NDC 0006-0951-82 bottles of 1,000.
+NDC 0006-0951-82 bottles of 1000
 
 No. 8442 — Tablets COZAAR, 50 mg, are white, oval, film-coated tablets with code 952 on one side and scored on the other.
 They are supplied as follows:
@@ -14,7 +14,7 @@ NDC 0006-0952-31 unit of use bottles of 30
 
 NDC 0006-0952-54 unit of use bottles of 90
 
-NDC 0006-0952-82 bottles of 1,000.
+NDC 0006-0952-82 bottles of 1000
 
 No. 3849 — Tablets COZAAR, 100 mg, are white, teardrop-shaped, film-coated tablets with code 960 on one side and plain on the other.
 They are supplied as follows:
@@ -23,7 +23,7 @@ NDC 0006-0960-31 unit of use bottles of 30
 
 NDC 0006-0960-54 unit of use bottles of 90
 
-NDC 0006-0960-82 bottles of 1,000.
+NDC 0006-0960-82 bottles of 1000
 
 ## Storage
 

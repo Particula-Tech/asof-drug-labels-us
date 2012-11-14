@@ -91,11 +91,11 @@ Metabolic and Nutrition: Hyperkalemia, hyponatremia have been reported with losa
 
 Musculoskeletal: Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers.
 
-Nervous system disorders: Dysgeusia
+Nervous system disorders: Dysgeusia.
 
 Respiratory: Dry cough (see above).
 
-Skin: Erythroderma
+Skin: Erythroderma.
 
 ## Laboratory Test Findings
 
