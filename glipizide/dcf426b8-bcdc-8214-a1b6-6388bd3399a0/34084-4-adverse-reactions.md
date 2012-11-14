@@ -22,7 +22,7 @@ Porphyria cutanea tarda and photosensitivity reactions have been reported with s
 
 ## Hematologic
 
-Leukopenia, agranulocytosis, thrombocytopenia, hemolytic anemia, aplastic anemia, and pancytopenia have been reported with sulfonylureas.
+Leukopenia, agranulocytosis, thrombocytopenia, hemolytic anemia (see PRECAUTIONS), aplastic anemia, and pancytopenia have been reported with sulfonylureas.
 
 ## Metabolic
 
@@ -42,6 +42,14 @@ They are usually transient and seldom require discontinuance of therapy.
 ## Laboratory Tests
 
 The pattern of laboratory test abnormalities observed with glipizide was similar to that for other sulfonylureas.
-Occasional mild to moderate elevations of SGOT, LDH, alkaline phosphatase, BUN and creatinine were noted.
+Occasional mild to moderate elevations of SGOT, LDH, alkaline phosphatase, BUN, and creatinine were noted.
 One case of jaundice was reported.
 The relationship of these abnormalities to glipizide is uncertain, and they have rarely been associated with clinical symptoms.
+
+## Post-Marketing Experience
+
+The following adverse events have been reported in post-marketing surveillance
+
+### Hepatobiliary
+
+Cholestatic and hepatocellular forms of liver injury accompanied by jaundice have been reported rarely in association with glipizide; glipizide should be discontinued if this occurs.

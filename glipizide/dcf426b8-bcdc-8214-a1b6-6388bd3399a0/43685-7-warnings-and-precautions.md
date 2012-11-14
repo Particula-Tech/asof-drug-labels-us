@@ -6,7 +6,7 @@ The administration of oral hypoglycemic drugs has been reported to be associated
 This warning is based on the study conducted by the University Group Diabetes Program (UGDP), a long-term prospective clinical trial designed to evaluate the effectiveness of glucose-lowering drugs in preventing or delaying vascular complications in patients with non-insulin-dependent diabetes.
 The study involved 823 patients who were randomly assigned to one of four treatment groups (Diabetes, 19, supp.
 2: 747-830, 1970).
-UGDP reported that patients treated for 5 to 8 years with diet plus a fixed dose of tolbutamide (1.5 grams per day) had a rate of cardiovascular mortality approximately 2 1/2 times that of patients treated with diet alone.
+UGDP reported that patients treated for 5 to 8 years with diet plus a fixed dose of tolbutamide (1.5 grams per day) had a rate of cardiovascular mortality approximately 21/2 times that of patients treated with diet alone.
 A significant increase in total mortality was not observed, but the use of tolbutamide was discontinued based on the increase in cardiovascular mortality, thus limiting the opportunity for the study to show an increase in overall mortality.
 Despite controversy regarding the interpretation of these results, the findings of the UGDP study provide an adequate basis for this warning.
 The patient should be informed of the potential risks and advantages of glipizide and of alternative modes of therapy.
@@ -31,7 +31,7 @@ If hypoglycemia should occur in such patients, it may be prolonged and appropria
 All sulfonylurea drugs are capable of producing severe hypoglycemia.
 Proper patient selection, dosage, and instructions are important to avoid hypoglycemic episodes.
 Renal or hepatic insufficiency may cause elevated blood levels of glipizide and the latter may also diminish gluconeogenic capacity, both of which increase the risk of serious hypoglycemic reactions.
-Elderly, debilitated or malnourished patients, and those with adrenal or pituitary insufficiency are particularly susceptible to the hypoglycemic action of glucose-lowering drugs.
+Elderly, debilitated or malnourished patients, and those with adrenal or pituitary insufficiency, are particularly susceptible to the hypoglycemic action of glucose-lowering drugs.
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking beta-adrenergic blocking drugs.
 Hypoglycemia is more likely to occur when caloric intake is deficient, after severe or prolonged exercise, when alcohol is ingested, or when more than one glucose-lowering drug is used.
 
@@ -45,9 +45,9 @@ This phenomenon is known as secondary failure, to distinguish it from primary fa
 
 ### Hemolytic Anemia
 
-Treatment of patients with glucose 6-phosphate dehydrogenase (G6DP) deficiency with sulfonylurea agents can lead to hemolytic anemia.
+Treatment of patients with glucose 6-phosphate dehydrogenase (G6PD) deficiency with sulfonylurea agents can lead to hemolytic anemia.
 Because glipizide belongs to the class of sulfonylurea agents, caution should be used in patients with G6PD deficiency and a non-sulfonylurea alternative should be considered.
-In postmarketing reports, hemolytic anemia has also been reported in patients who did not have known G6PD deficiency.
+In post-marketing reports, hemolytic anemia has also been reported in patients who did not have known G6PD deficiency.
 
 ## Laboratory Tests
 
@@ -97,12 +97,14 @@ A twenty month study in rats and an eighteen month study in mice at doses up to 
 Bacterial and in vivo mutagenicity tests were uniformly negative.
 Studies in rats of both sexes at doses up to 75 times the human dose showed no effects on fertility.
 
-## Pregnancy: Pregnancy Category C
+## Pregnancy
+
+Pregnancy Category C
 
 Glipizide was found to be mildly fetotoxic in rat reproductive studies at all dose levels (5 to 50 mg/kg).
 This fetotoxicity has been similarly noted with other sulfonylureas, such as tolbutamide and tolazamide.
 The effect is perinatal and believed to be directly related to the pharmacologic (hypoglycemic) action of glipizide.
-In studies in rats and rabbits no teratogenic effects were found.
+In studies in rats and rabbits, no teratogenic effects were found.
 There are no adequate and well controlled studies in pregnant women.
 Glipizide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -128,4 +130,4 @@ Safety and effectiveness in children have not been established.
 
 A determination has not been made whether controlled clinical studies of glipizide included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

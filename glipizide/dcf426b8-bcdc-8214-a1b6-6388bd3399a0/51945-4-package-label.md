@@ -1,7 +1,5 @@
 # PRINCIPAL DISPLAY PANEL-5 mg
 
-Representative sample of labeling (see HOW SUPPLIED section of complete listing):
-
 APOTEX CORP. NDC 60505-0141-2
 
 Glipizide Tablets, USP
@@ -10,11 +8,9 @@ Glipizide Tablets, USP
 
 Rx
 
-500 count
+500 bottle count
 
 # PRINCIPAL DISPLAY PANEL-10 mg
-
-Representative sample of labeling (see HOW SUPPLIED section of complete listing):
 
 APOTEX CORP. NDC 60505-0142-2
 
@@ -24,4 +20,4 @@ Glipizide Tablets, USP
 
 Rx
 
-500 count
+500 bottle count

@@ -3,7 +3,7 @@
 ## Mechanism of Action
 
 The primary mode of action of glipizide in experimental animals appears to be the stimulation of insulin secretion from the beta cells of pancreatic islet tissue and is thus dependent on functioning beta cells in the pancreatic islets.
-In humans glipizide appears to lower the blood glucose acutely by stimulating the release of insulin from the pancreas, an effect dependent upon functioning beta cells in the pancreatic islets.
+In humans, glipizide appears to lower the blood glucose acutely by stimulating the release of insulin from the pancreas, an effect dependent upon functioning beta cells in the pancreatic islets.
 The mechanism by which glipizide lowers blood glucose during long-term administration has not been clearly established.
 In man, stimulation of insulin secretion by glipizide in response to a meal is undoubtedly of major importance.
 Fasting insulin levels are not elevated even on long-term glipizide administration, but the postprandial insulin response continues to be enhanced after at least 6 months of treatment.
@@ -19,7 +19,7 @@ Alternatively, glipizide may be effective in some patients who have not responde
 
 It has been shown that glipizide therapy was effective in controlling blood sugar without deleterious changes in the plasma lipoprotein profiles of patients treated for NIDDM.
 
-In a placebo-controlled, crossover study in normal volunteers, glipizide had no antidiuretic activity, and, in fact, led to a slight increase in free water clearance.
+In a placebo-controlled, crossover study in normal volunteers, glipizide had no antidiuretic activity and, in fact, led to a slight increase in free water clearance.
 
 ## Pharmacokinetics
 
@@ -29,10 +29,10 @@ The half-life of elimination ranges from 2 to 4 hours in normal subjects, whethe
 The metabolic and excretory patterns are similar with the two routes of administration, indicating that first-pass metabolism is not significant.
 Glipizide does not accumulate in plasma on repeated oral administration.
 Total absorption and disposition of an oral dose was unaffected by food in normal volunteers, but absorption was delayed by about 40 minutes.
-Thus glipizide was more effective when administered about 30 minutes before, rather than with, a test meal in diabetic patients.
+Thus, glipizide was more effective when administered about 30 minutes before, rather than with, a test meal in diabetic patients.
 Protein binding was studied in serum from volunteers who received either oral or intravenous glipizide and found to be 98 to 99% one hour after either route of administration.
 The apparent volume of distribution of glipizide after intravenous administration was 11 liters, indicative of localization within the extracellular fluid compartment.
-In mice no glipizide or metabolites were detectable autoradiographically in the brain or spinal cord of males or females, nor in the fetuses of pregnant females.
+In mice, no glipizide or metabolites were detectable autoradiographically in the brain or spinal cord of males or females, nor in the fetuses of pregnant females.
 In another study, however, very small amounts of radioactivity were detected in the fetuses of rats given labeled drug.
 
 The metabolism of glipizide is extensive and occurs mainly in the liver.
