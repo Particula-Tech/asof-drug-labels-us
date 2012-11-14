@@ -1,7 +1,7 @@
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 NDC 62856-604-22
 
-Label:
+Targretin® (bexarotene) 1% gel
 
-Carton:
+net wt 60 grams

@@ -21,9 +21,9 @@ As in the multicenter study, the most common adverse events regardless of relati
 Table 1.
 Incidence of All Adverse Events* and Application Site Adverse Events with Incidence ≥ 5% for All Application Frequencies of Targretin® Gel in the Multicenter CTCL Study
 
-| COSTART 5 Body System/Preferred Term | N = 50 n (%) | N = 50 n (%) |
-| --- | --- | --- |
 |  | All Adverse Events | Application Site Adverse Events |
+| --- | --- | --- |
+| COSTART 5 Body System/Preferred Term | N = 50 n (%) | N = 50 n (%) |
 | Skin and Appendages |  |  |
 | Contact Dermatitis1 | 7 (14) | 4 (8) |
 | Exfoliative Dermatitis | 3 (6) | 0 |

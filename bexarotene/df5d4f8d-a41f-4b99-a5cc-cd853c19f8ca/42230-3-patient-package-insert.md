@@ -1,4 +1,4 @@
-# Targretin® (bexarotene) 1% gel Patient's Instructions for Use
+Targretin® (bexarotene) 1% gel Patient's Instructions for Use
 
 (For Topical Use Only)
 
@@ -130,5 +130,5 @@ If you have questions about your treatment, talk with your health care provider.
 
 Eisai Inc. Woodcliff Lake, NJ 07677
 
-© 2009 Eisai Inc. (Rev.
-07/09)
+© 2010 Eisai Inc. (Rev.
+11/11)
