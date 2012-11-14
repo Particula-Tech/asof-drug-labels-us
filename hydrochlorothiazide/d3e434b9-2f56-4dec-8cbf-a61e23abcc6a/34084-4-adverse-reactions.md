@@ -47,10 +47,10 @@ Patients who had typical ACE-inhibitor cough when challenged with lisinopril, wh
 The double-blind treatment period lasted up to 8 weeks.
 The incidence of cough is shown below.
 
-| Study 1Demographics = (89% Caucasian, 64% female) | HCTZ | Losartan | Lisinopril |
+| Study 1Demographics = (89% Caucasian, 64% female). | HCTZ | Losartan | Lisinopril |
 | --- | --- | --- | --- |
 | Cough | 25% | 17% | 69% |
-| Study 2Demographics = (90% Caucasian, 51% female) | Placebo | Losartan | Lisinopril |
+| Study 2Demographics = (90% Caucasian, 51% female). | Placebo | Losartan | Lisinopril |
 | Cough | 35% | 29% | 62% |
 
 These studies demonstrate that the incidence of cough associated with losartan therapy, in a population that all had cough associated with ACE-inhibitor therapy, is similar to that associated with hydrochlorothiazide or placebo therapy.
