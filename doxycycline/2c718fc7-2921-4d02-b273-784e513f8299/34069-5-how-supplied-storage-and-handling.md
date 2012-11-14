@@ -9,7 +9,7 @@ The trayed product is available in a box of six (NDC 63646-191-05), a box of fou
 Each ATRIDOX® syringe system is intended for use in only one patient.
 Do not use if packaging has been previously opened or damaged.
 
-## Storage Conditions
+## Storage and Handling
 
 Store at 2°-30°C (36°-86°F).
 Rx Only

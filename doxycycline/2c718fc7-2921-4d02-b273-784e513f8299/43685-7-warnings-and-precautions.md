@@ -13,8 +13,6 @@ Patients apt to be exposed to direct sunlight or ultraviolet light should be adv
 
 # PRECAUTIONS
 
-## General
-
 ATRIDOX® has not been clinically tested in pregnant women.
 
 ATRIDOX® has not been clinically evaluated in patients with conditions involving extremely severe periodontal defects with very little remaining periodontium.
