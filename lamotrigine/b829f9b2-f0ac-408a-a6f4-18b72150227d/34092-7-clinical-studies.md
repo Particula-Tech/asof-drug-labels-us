@@ -2,7 +2,7 @@
 
 ## 14.1 Epilepsy
 
-Monotherapy With Lamotrigine in Adults With Partial Seizures Already Receiving Treatment With Carbamazepine, Phenytoin, Phenobarbital, or Primidone as the Single AED: The effectiveness of monotherapy with lamotrigine was established in a multicenter, double-blind clinical trial enrolling 156 adult outpatients with partial seizures.
+Monotherapy With Lamotrigine in Adults With Partial Seizures Already Receiving Treatment With Carbamazepine, Phenytoin, Phenobarbital, or Primidone as the Single Antiepileptic Drug: The effectiveness of monotherapy with lamotrigine was established in a multicenter, double-blind clinical trial enrolling 156 adult outpatients with partial seizures.
 The patients experienced at least 4 simple partial, complex partial, and/or secondarily generalized seizures during each of 2 consecutive 4-week periods while receiving carbamazepine or phenytoin monotherapy during baseline.
 Lamotrigine (target dose of 500 mg/day) or valproate (1,000 mg/day) was added to either carbamazepine or phenytoin monotherapy over a 4-week period.
 Patients were then converted to monotherapy with lamotrigine or valproate during the next 4 weeks, then continued on monotherapy for an additional 12-week period.
@@ -12,7 +12,7 @@ Criteria for escape relative to baseline were: (1) doubling of average monthly s
 The primary efficacy variable was the proportion of patients in each treatment group who met escape criteria.
 
 The percentages of patients who met escape criteria were 42% (32/76) in the group receiving lamotrigine and 69% (55/80) in the valproate group.
-The difference in the percentage of patients meeting escape criteria was statistically significant (p= 0.0012) in favor of lamotrigine.
+The difference in the percentage of patients meeting escape criteria was statistically significant (P= 0.0012) in favor of lamotrigine.
 No differences in efficacy based on age, sex, or race were detected.
 
 Patients in the control group were intentionally treated with a relatively low dose of valproate; as such, the sole objective of this study was to demonstrate the effectiveness and safety of monotherapy with lamotrigine, and cannot be interpreted to imply the superiority of lamotrigine to an adequate dose of valproate.
@@ -34,7 +34,7 @@ The seizure frequency reduction was statistically significant in the 500-mg/day 
 A second study (n = 98) was a double-blind, placebo-controlled, randomized, crossover trial consisting of two 14-week treatment periods (the last 2 weeks of which consisted of dose tapering) separated by a 4-week washout period.
 Patients could not be on more than 2 other anticonvulsants and valproate was not allowed.
 The target dose of lamotrigine was 400 mg/day.
-When the first 12 weeks of the treatment periods were analyzed, the median change in seizure frequency was a 25% reduction on lamotrigine compared with placebo (p<0.001).
+When the first 12 weeks of the treatment periods were analyzed, the median change in seizure frequency was a 25% reduction on lamotrigine compared with placebo (P<0.001).
 
 The third study (n = 41) was a double-blind, placebo-controlled, crossover trial consisting of two 12-week treatment periods separated by a 4-week washout period.
 Patients could not be on more than 2 other anticonvulsants.
@@ -88,4 +88,4 @@ In Study 2, patients received double-blind monotherapy with lamotrigine (100 to 
 Lamotrigine was superior to placebo in delaying time to occurrence of a mood episode.
 The mean dose of lamotrigine was about 211 mg/day.
 
-Although these studies were not designed to separately evaluate time to the occurrence of depression or mania, a combined analysis for the studies revealed a statistically significant benefit for lamotrigine over placebo in delaying the time to occurrence of both depression and mania, although the finding was more robust for depression.
+Although these studies were not designed to separately evaluate time to the occurrence of depression or mania, a combined analysis for the 2 studies revealed a statistically significant benefit for lamotrigine over placebo in delaying the time to occurrence of both depression and mania, although the finding was more robust for depression.

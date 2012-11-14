@@ -7,33 +7,31 @@ If you have questions about lamotrigine, ask your healthcare provider or pharmac
 
 What is the most important information I should know about Lamotrigine?
 
-- 1.Lamotrigine may cause a serious skin rash that may cause you to be hospitalized or even cause death.
-  There is no way to tell if a mild rash will become more serious.
-  A serious skin rash can happen at any time during your treatment with lamotrigine, but is more likely to happen within the first 2 to 8 weeks of treatment.
-  Children between 2 to 16 years of age have a higher chance of getting this serious skin rash while taking lamotrigine.
-  The risk of getting a serious skin rash is higher if you:Call your healthcare provider right away if you have any of the following:These symptoms may be the first signs of a serious skin reaction.
+- 1.Lamotrigine may cause a serious skin rash that may cause you to be hospitalized or to stop lamotrigine; it may rarely cause death.
+  There is no way to tell if a mild rash will develop into a more serious reaction.
+  These serious skin reactions are more likely to happen when you begin taking lamotrigine, within the first 2 to 8 weeks of treatment.
+  But it can happen in people who have taken lamotrigine for any period of time.
+  Children between 2 to 16 years of age have a higher chance of getting this serious skin reaction while taking lamotrigine.
+  The risk of getting a rash is higher if you:Lamotrigine can also cause other types of allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
+  You may or may not have a rash with these types of reactions.
+  Call your healthcare provider right away if you have any of the following:These symptoms may be the first signs of a serious reaction.
   A healthcare provider should examine you to decide if you should continue taking lamotrigine.
   - take lamotrigine while taking valproate [DEPAKENE® (valproic acid) or DEPAKOTE® (divalproex sodium)]
   - take a higher starting dose of lamotrigine than your healthcare provider prescribed
   - increase your dose of lamotrigine faster than prescribed.
   - a skin rash
-  - blistering or peeling of your skin
   - hives
-  - painful sores in your mouth or around your eyes
-- 2.Other serious reactions, including serious blood problems or liver problems.
-  Lamotrigine can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
-  You may or may not have a rash with these types of reactions.
-  Call your healthcare provider right away if you have any of these symptoms:
   - fever
-  - frequent infections
-  - severe muscle pain
-  - swelling of your face, eyes, lips, or tongue
   - swollen lymph glands
+  - painful sores in your mouth or around your eyes
+  - swelling of your lips or tongue
+  - yellowing of your skin or eyes
   - unusual bruising or bleeding
-  - weakness, fatigue
-  - yellowing of your skin or the white part of your eyes
-- 3.Like other antiepileptic drugs, lamotrigine may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-  Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:Do not stop Lamotrigine without first talking to a healthcare provider:How can I watch for early symptoms of suicidal thoughts and actions?
+  - severe fatigue or weakness
+  - severe muscle pain
+  - frequent infections
+- 2.Like other antiepileptic drugs, lamotrigine may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+  Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:Do not stop Lamotrigine without first talking to a healthcare provider.How can I watch for early symptoms of suicidal thoughts and actions?
   - thoughts about suicide or dying
   - attempt to commit suicide
   - new or worse depression
@@ -52,7 +50,7 @@ What is the most important information I should know about Lamotrigine?
   - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
   - Keep all follow-up visits with your healthcare provider as scheduled.
   - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
-- 4.Lamotrigine may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
+- 3.Lamotrigine may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
   Call your healthcare provider right away if you have any of the following symptoms:Meningitis has many causes other than lamotrigine, which your doctor would check for if you developed meningitis while taking lamotrigine.
   Lamotrigine can have other serious side effects.
   For more information ask your healthcare provider or pharmacist.
@@ -69,7 +67,7 @@ What is the most important information I should know about Lamotrigine?
   - chills
   - confusion
   - drowsiness
-- 5.Patients prescribed lamotrigine have sometimes been given the wrong medicine because many medicines have names similar to lamotrigine, so always check that you receive lamotrigine.
+- 4.Patients prescribed lamotrigine have sometimes been given the wrong medicine because many medicines have names similar to lamotrigine, so always check that you receive lamotrigine.
   Taking the wrong medication can cause serious health problems.
   When your healthcare provider gives you a prescription for lamotrigine:
   - Make sure you can read it clearly.
@@ -107,11 +105,10 @@ Before taking lamotrigine, tell your healthcare provider about all of your medic
 
 - have had a rash or allergic reaction to another antiseizure medicine.
 - have or have had depression, mood problems, or suicidal thoughts or behavior.
-- have had aseptic meningitis after taking lamotrigine.
 - are taking oral contraceptives (birth control pills) or other female hormonal medicines.
   Do not start or stop taking birth control pills or other female hormonal medicine until you have talked with your healthcare provider.
   Tell your healthcare provider if you have any changes in your menstrual pattern such as breakthrough bleeding.
-  Stopping these medicines may cause side effects (such as dizziness, lack of coordination, or double vision).
+  Stopping or starting these medicines may cause side effects (such as dizziness, lack of coordination, or double vision).
   Starting these medicines may lessen how well lamotrigine works.
 - are pregnant or plan to become pregnant.
   It is not known if lamotrigine will harm your unborn baby.
@@ -119,12 +116,13 @@ Before taking lamotrigine, tell your healthcare provider about all of your medic
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
 - are breastfeeding.
-  Lamotrigine can pass into your breast milk.
-  You and your healthcare provider should decide if you should take lamotrigine or breastfeed.
-  Breastfeeding while taking lamotrigine is not recommended.
+  Lamotrigine passes into breast milk and may cause side effects in a breastfed baby.
+  If you breastfeed while taking lamotrigine, watch your baby closely for trouble breathing, episodes of temporarily stopping breathing, sleepiness, or poor sucking.
+  Call your baby's healthcare provider right away if you see any of these problems.
+  Talk to your healthcare provider about the best way to feed your baby if you take lamotrigine.
 
 Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-If you use lamotrigine with certain other medicines, they can affect each other, causing side effects.
+Using lamotrigine with certain other medicines, can affect each other, causing side effects.
 
 How should I take Lamotrigine?
 
@@ -199,4 +197,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 DEPAKENE and DEPAKOTE are registered trademarks of Abbott Laboratories.
 
-Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 26110 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: March, 2012
+Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 26110 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: November, 2012
