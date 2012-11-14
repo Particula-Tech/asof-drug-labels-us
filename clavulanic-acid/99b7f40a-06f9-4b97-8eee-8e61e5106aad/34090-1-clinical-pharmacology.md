@@ -1,16 +1,16 @@
 # CLINICAL PHARMACOLOGY
 
-The pharmacokinetics of amoxicillin and clavulanate were determined in a study of 19 pediatric patients, 8 months to 11 years, given Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL at an amoxicillin dose of 45 mg/kg q12h with a snack or meal.
+The pharmacokinetics of amoxicillin and clavulanate were determined in a study of 19 pediatric patients, 8 months to 11 years, given Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL at an amoxicillin dose of 45 mg/kg every 12 hours with a snack or meal.
 The mean plasma amoxicillin and clavulanate pharmacokinetic parameter values are listed in the following table.
 
 Table 1.
-Mean (±SD) Plasma Amoxicillin and Clavulanate Pharmacokinetic Parameter Values Following Administration of 45 mg/kg of Amoxicillin and Clavulanate Potassium forOral Suspension 600 mg/42.9 mg per 5 mLEvery 12 Hours to Pediatric Patients.
+Mean (±SD) Plasma Amoxicillin and Clavulanate Pharmacokinetic Parameter Values Following Administration of 45 mg/kg of Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL Every 12 Hours to Pediatric Patients.
 
 | Parameter* | Amoxicillin | Clavulanate |
 | --- | --- | --- |
 | Cmax (mcg/mL) | 15.7 ± 7.7 | 1.7 ± 0.9 |
 | Tmax (hr) | 2 (1-4) | 1.1(1-4) |
-| AUC0-t (mcg•hr/mL) | 59.8 ± 20 | 4 ±1.9 |
+| AUC0-t (mcg•hr/mL) | 59.8 ± 20 | 4 ± 1.9 |
 | T½ (hr) | 1.4 ± 0.3 | 1.1 ± 0.3 |
 | CL/F (L/hr/kg) | 0.9 ± 0.4 | 1.1 ± 1.1 |
 
@@ -27,13 +27,19 @@ Neither component in Amoxicillin and Clavulanate Potassium for Oral Suspension 6
 Oral administration of a single dose of Amoxicillin and Clavulanate Potassium for Oral Suspension at 45 mg/kg (based on the amoxicillin component) to pediatric patients, 9 months to 8 years, yielded the following pharmacokinetic data for amoxicillin in plasma and middle ear fluid (MEF):
 
 Table 2.
-Amoxicillin Concentrations in Plasma and Middle Ear Fluid Following Administration of 45 mg/kg of Amoxicillin and Clavulanate Potassium for OralSuspensionto Pediatric Patients
+Amoxicillin Concentrations in Plasma and Middle Ear Fluid Following Administration of 45 mg/kg of Amoxicillin and Clavulanate Potassium for Oral Suspensionto Pediatric Patients
 
-| Timepoint |  | Amoxicillin concentration in plasma (mcg/mL) | Amoxicillin concentration in MEF (mcg/mL) |
+| Timepoint |  | Amoxicillin Concentration in Plasma (mcg/mL) | Amoxicillin Concentration in MEF (mcg/mL) |
 | --- | --- | --- | --- |
-| 1 hour | mean median range | 7.7 9.3 1.5-14 (n = 5) | 3.2 3.5 0.2-5.5 (n = 4) |
-| 2 hour | mean median range | 15.7 13 11-25(n = 7) | 3.3 2.41.9 - 6(n = 5) |
-| 3 hour | mean median range | 13 12 5.5-21 (n = 5) | 5.8 6.5 3.9-7.4 (n = 5) |
+| 1 hour | mean | 7.7 | 3.2 |
+| median | 9.3 | 3.5 |  |
+| range | 1.5-14(n=5) | 0.2-5.5(n=4) |  |
+| 2 hour | mean | 15.7 | 3.3 |
+| median | 13 | 2.4 |  |
+| range | 11-25(n = 7) | 1.9-6(n = 5) |  |
+| 3 hour | mean | 13 | 5.8 |
+| median | 12 | 6.5 |  |
+| range | 5.5-21 (n = 5) | 3.9-7.4(n = 5) |  |
 
 Dose administered immediately prior to eating.
 
@@ -54,13 +60,13 @@ Amoxicillin/clavulanic acid has been shown to be active against most isolates of
 
 Aerobic Gram-Positive Microorganisms:
 
-Streptococcus pneumoniae (including isolates with penicillin MICs ≤ 2 mcg/mL)
+Streptococcus pneumoniae(including isolates with penicillin MICs ≤ 2 mcg/mL)
 
 Aerobic Gram-Negative Microorganisms:
 
-Haemophilus influenzae (including β-lactamase–producing isolates)
+Haemophilusinfluenzae(including β-lactamase–producing isolates)
 
-Moraxella catarrhalis (including β-lactamase–producing isolates)
+Moraxella catarrhalis(including β-lactamase–producing isolates)
 
 The following in vitro data are available, but their clinical significance is unknown.
 
@@ -69,13 +75,13 @@ However, the safety and efficacy of amoxicillin/clavulanic acid in treating infe
 
 Aerobic Gram-Positive Microorganisms:
 
-Staphylococcus aureus (including β-lactamase–producing isolates)
+Staphylococcus aureus(including β-lactamase–producing isolates)
 
 NOTE: Staphylococci which are resistant to methicillin/oxacillin must be considered resistant to amoxicillin/clavulanic acid.
 
 Streptococcus pyogenes
 
-NOTE:S. pyogenes do not produce β-lactamase, and therefore, are susceptible to amoxicillin alone.
+NOTE: S. pyogenesdo not produce β-lactamase, and therefore, are susceptible to amoxicillin alone.
 Adequate and well-controlled clinical trials have established the effectiveness of amoxicillin alone in treating certain clinical infections due to S. pyogenes.
 
 ## Susceptibility Test Methods
@@ -87,7 +93,7 @@ These reports should aid the physician in selecting the most effective antimicro
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure.1,2 Standardized procedures are based on dilution methods (broth for S. pneumoniae and H. influenzae) or equivalent with standardized inoculum concentration and standardized concentrations of amoxicillin/clavulanate potassium powder.
+The MICs should be determined using a standardized procedure.1,2Standardized procedures are based on dilution methods (broth for S. pneumoniaeand H. influenzae) or equivalent with standardized inoculum concentration and standardized concentrations of amoxicillin/clavulanate potassium powder.
 
 The recommended dilution pattern utilizes a constant amoxicillin/clavulanate potassium ratio of 2 to 1 in all tubes with varying amounts of amoxicillin.
 MICs are expressed in terms of the amoxicillin concentration in the presence of clavulanic acid at a constant 2 parts amoxicillin to 1 part clavulanic acid.
@@ -102,17 +108,17 @@ Disk diffusion zone sizes should be interpreted according to criteria provided i
 Table 3.
 Susceptibility Test Result Interpretive Criteria for Amoxicillin/Clavulanate Potassium
 
-| Pathogen | Minimum Inhibitory Concentration (mcg/mL) |  |  | Disk Diffusion(Zone Diameter In mm) |  |  |
+| Pathogen | Minimum Inhibitory Concentration (mcg/mL) |  |  | Disk Diffusion(Zone Diameter in mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | S | I | R | S | I | R |  |
-| Streptococcus pneumoniae | ≤ 2/1 | 4/2 | ≥ 8/4 | Not applicable (NA) |  |  |
-| Haemophilus influenzae | ≤ 4/2 | NA | ≥ 8/4 | ≥ 20 | NA | ≤ 19 |
+| Streptococcus pneumoniae(non-meningitis isolates) | ≤ 2/1 | 4/2 | ≥ 8/4 | Not applicable (NA) |  |  |
+| Haemophilusinfluenzae | ≤ 4/2 | NA | ≥ 8/4 | ≥ 20 | NA | ≤ 19 |
 
-NOTE: Susceptibility of S. pneumoniae should be determined using a 1-mcg oxacillin disk.
+NOTE: Susceptibility of S. pneumoniaeshould be determined using a 1-mcg oxacillin disk.
 Isolates with oxacillin zone sizes of ≥ 20 mm are susceptible to amoxicillin/clavulanic acid.
-An amoxicillin/clavulanic acid MIC should be determined on isolates of S. pneumoniae with oxacillin zone sizes of ≤ 19 mm.
+An amoxicillin/clavulanic acid MIC should be determined on isolates of S. pneumoniaewith oxacillin zone sizes of ≤ 19 mm.
 
-NOTE: β-lactamase-negative, ampicillin-resistant H. influenzae isolates must be considered resistant to amoxicillin/clavulanic acid.
+NOTE: β-lactamase-negative, ampicillin-resistant H. influenzaeisolates must be considered resistant to amoxicillin/clavulanic acid.
 
 A report of S ("Susceptible") indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound in the blood reaches the concentration usually achievable.
 A report of I ("Intermediate") indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible antimicrobials, the test should be repeated.
@@ -129,9 +135,9 @@ Acceptable Quality Control Ranges for Amoxicillin/Clavulanate Potassium
 | Quality Control Organism | Minimum Inhibitory Concentration Range (mcg/mL) | Disk Diffusion (Zone Diameter Range in mm) |
 | --- | --- | --- |
 | Escherichia coli ATCC®* 35218† (H. influenzae quality control) | 4/2 to 16/8 | 17 to 22 |
-| Haemophilus influenzae ATCC 49247 | 2/1 to 16/8 | 15 to 23 |
-| Streptococcus pneumoniae ATCC 49619 | 0.03/0.016 to 0.12/0.06 | NA |
+| HaemophilusinfluenzaeATCC 49247 | 2/1 to 16/8 | 15 to 23 |
+| Streptococcus pneumoniaeATCC 49619 | 0.03/0.016 to 0.12/0.06 | NA |
 
 *ATCC is a trademark of the American Type Culture Collection.
 
-† When using Haemophilus Test Medium (HTM).
+† When using HaemophilusTest Medium (HTM).

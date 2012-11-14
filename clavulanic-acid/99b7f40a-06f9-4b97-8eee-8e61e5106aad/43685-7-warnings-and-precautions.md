@@ -12,7 +12,7 @@ Pseudomembranous colitis has been reported with nearly all antibacterial agents,
 Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
 
 Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is one primary cause of "antibiotic-associated colitis."
+Studies indicate that a toxin produced by Clostridium difficileis one primary cause of "antibiotic-associated colitis."
 
 After the diagnosis of pseudomembranous colitis has been established, appropriate therapeutic measures should be initiated.
 Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
@@ -43,6 +43,10 @@ Prescribing Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.
 Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg /42.9 mg per 5 mL should be taken every 12 hours with a meal or snack to reduce the possibility of gastrointestinal upset.
 If diarrhea develops and is severe or lasts more than 2 or 3 days, call your doctor.
 
+Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as 2 or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.
+
 Keep suspension refrigerated.
 Shake well before using.
 When dosing a child with the suspension (liquid) of Amoxicillin and Clavulanate Potassium for Oral Suspension, 600 mg/42.9 mg per 5 mL use a dosing spoon or medicine dropper.
@@ -62,6 +66,10 @@ Probenecid decreases the renal tubular secretion of amoxicillin.
 Concurrent use with Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL may result in increased and prolonged blood levels of amoxicillin.
 Co-administration of probenecid cannot be recommended.
 
+Abnormal prolongation of prothrombin time (increased international normalized ratio [INR]) has been reported rarely in patients receiving amoxicillin and oral anticoagulants.
+Appropriate monitoring should be undertaken when anticoagulants are prescribed concurrently.
+Adjustments in the dose of oral anticoagulants may be necessary to maintain the desired level of anticoagulation.
+
 The concurrent administration of allopurinol and ampicillin increases substantially the incidence of rashes in patients receiving both drugs as compared to patients receiving ampicillin alone.
 It is not known whether this potentiation of ampicillin rashes is due to allopurinol or the hyperuricemia present in these patients.
 There are no data with Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL and allopurinol administered concurrently.
@@ -70,7 +78,7 @@ In common with other broad-spectrum antibiotics, amoxicillin/clavulanate may red
 
 ## Drug/Laboratory Test Interactions
 
-Oral administration of amoxicillin and clavulanate potassium will result in high urine concentrations of amoxicillin.
+Oral administration of Amoxicillin and Clavulanate Potassium will result in high urine concentrations of amoxicillin.
 High urine concentrations of ampicillin may result in false-positive reactions when testing for the presence of glucose in urine using CLINITEST®, Benedict's Solution, or Fehling's Solution.
 Since this effect may also occur with amoxicillin and therefore Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL, it is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as CLINISTIX®) be used.
 
@@ -80,7 +88,7 @@ This effect may also occur with amoxicillin and therefore Amoxicillin and Clavul
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies in animals have not been performed to evaluate carcinogenic potential.
-The mutagenic potential of amoxicillin and clavulanate potassium was investigated in vitro with an Ames test, a human lymphocyte cytogenetic assay, a yeast test, and a mouse lymphoma forward mutation assay, and in vivo with mouse micronucleus tests and a dominant lethal test.
+The mutagenic potential of Amoxicillin and Clavulanate Potassium was investigated in vitro with an Ames test, a human lymphocyte cytogenetic assay, a yeast test, and a mouse lymphoma forward mutation assay, and in vivo with mouse micronucleus tests and a dominant lethal test.
 All were negative apart from the in vitro mouse lymphoma assay where weak activity was found at very high, cytotoxic concentrations.
 Amoxicillin and Clavulanate Potassium at oral doses of up to 1,200 mg/kg/day (5.7 times the maximum adult human dose based on body surface area) was found to have no effect on fertility and reproductive performance in rats, dosed with a 2:1 ratio formulation of amoxicillin:clavulanate.
 
@@ -107,4 +115,4 @@ Safety and efficacy of Amoxicillin and Clavulanate Potassium for Oral Suspension
 Safety and efficacy of Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL have been demonstrated for treatment of acute otitis media in infants and children 3 months to 12 years (see Description of Clinical Studies).
 
 The safety and effectiveness of Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL have been established for the treatment of pediatric patients (3 months to 12 years) with acute bacterial sinusitis.
-This use is supported by evidence from adequate and well-controlled studies of Amoxicillin and Clavulanate Potassium Extended Release Tablets in adults with acute bacterial sinusitis, studies of Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL in pediatric patients with acute otitis media, and by similar pharmacokinetics of amoxicillin and clavulanate in pediatric patients taking Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL (see CLINICAL PHARMACOLOGY) and adults taking Amoxicillin and Clavulanate Potassium Extended Release Tablets.
+This use is supported by evidence from adequate and well-controlled studies of Amoxicillin and Clavulanate Potassium Extended Release Tablets 1000 mg/62.5 mg in adults with acute bacterial sinusitis, studies of Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL in pediatric patients with acute otitis media, and by similar pharmacokinetics of amoxicillin and clavulanate in pediatric patients taking Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL (see CLINICAL PHARMACOLOGY) and adults taking Amoxicillin and Clavulanate Potassium Extended Release Tablets 1000 mg/62.5 mg.

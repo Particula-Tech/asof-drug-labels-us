@@ -6,11 +6,11 @@ Therefore, the 200 mg/28.5 mg per 5 mL and 400 mg/57 mg per 5 mL suspensions of 
 
 ## Dosage
 
-## Pediatric patients 3 months and older
+## Pediatric Patients 3 Months and Older
 
-Based on the amoxicillin component (600 mg/42.9 mg per 5 mL), the recommended dose of Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL is 90 mg/kg/day divided every 12 hours, administered for 10 days (see chart below).
+Based on the amoxicillin component (600 mg per 5 mL), the recommended dose of Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL is 90 mg/kg/day divided every 12 hours, administered for 10 days (see chart below).
 
-| Body Weight (kg) | Volume of Amoxicillin and Clavulanate Potassium for OralSuspension 600 mg/42.9 mg per 5 mLproviding 90 mg/kg/day |
+| Body Weight (kg) | Volume of Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL Providing 90 mg/kg/day |
 | --- | --- |
 | 8 | 3 mL twice daily |
 | 12 | 4.5 mL twice daily |
@@ -21,7 +21,7 @@ Based on the amoxicillin component (600 mg/42.9 mg per 5 mL), the recommended do
 | 32 | 12 mL twice daily |
 | 36 | 13.5 mL twice daily |
 
-## Pediatric patients weighing 40 kg and more
+## Pediatric Patients Weighing 40 kg and More
 
 Experience with Amoxicillin and Clavulanate Potassium for Oral Suspension (600 mg/42.9 mg per 5 mL formulation) in this group is not available.
 
@@ -29,8 +29,7 @@ Experience with Amoxicillin and Clavulanate Potassium for Oral Suspension (600 m
 
 Experience with Amoxicillin and Clavulanate Potassium for Oral Suspension (600 mg/5 mL formulation) in adults is not available and adults who have difficulty swallowing should not be given Amoxicillin and Clavulanate Potassium for Oral Suspension (600 mg/42.9 mg per 5 mL) in place of the 500 mg/125 mg or 875 mg/125 mg tablet of Amoxicillin and Clavulanate Potassium.
 
-Hepatically impaired patients should be dosed with caution and hepatic function monitored at regular intervals.
-(See WARNINGS.)
+Hepatically impaired patients should be dosed with caution and hepatic function monitored at regular intervals (see WARNINGS).
 
 ## Directions for Mixing Oral Suspension
 
@@ -49,10 +48,6 @@ Amoxicillin and Clavulanate Potassium for Oral Suspension (600 mg/42.9 mg per 5 
 Each teaspoonful (5 mL) will contain 600 mg amoxicillin as the trihydrate and 42.9 mg of clavulanic acid as the potassium salt.
 
 NOTE: SHAKE ORAL SUSPENSION WELL BEFORE USING.
-
-## Information for the Pharmacist
-
-The resulting suspension is stable for 10 days under refrigeration.
 
 ## Administration
 

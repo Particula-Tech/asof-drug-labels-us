@@ -1,3 +1,5 @@
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL and other antibacterial drugs, Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/ 42.9 mg per 5 mL should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+
 # OVERDOSAGE
 
 Following overdosage, patients have experienced primarily gastrointestinal symptoms including stomach and abdominal pain, vomiting, and diarrhea.
