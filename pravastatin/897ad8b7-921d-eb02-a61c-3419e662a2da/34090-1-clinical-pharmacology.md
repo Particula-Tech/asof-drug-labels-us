@@ -63,6 +63,7 @@ Table 3: Effect of Coadministered Drugs on the Pharmacokinetics of Pravastatin
 |  | Pravastatin |  |  |
 | Cyclosporine 5 mg/kg single dose | 40 mg single dose | ↑282% | ↑327% |
 | Clarithromycin 500 mg BID for 9 days | 40 mg OD for 8 days | ↑110% | ↑128% |
+| Boceprevir 800 mg TID for 6 days | 40 mg single dose | ↑63% | ↑49% |
 | Darunavir 600 mg BID/Ritonavir 100 mg BID for 7 days | 40 mg single dose | ↑81% | ↑63% |
 | Colestipol 10 g single dose | 20 mg single dose | ↓47% | ↓53% |
 | Cholestyramine 4 g single dose Administered simultaneously Administered 1 hour prior to cholestyramine Administered 4 hours after cholestyramine | 20 mg single dose | ↓40% ↑12% ↓12% | ↓39% ↑30% ↓6.8% |
