@@ -1,21 +1,21 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Norditropin FlexPro prefilled pens [somatropin (rDNA origin) injection] 5 mg/1.5 mL, 10 mg/1.5 mL, and 15 mg/1.5 mL:
+NorditropinFlexPro prefilled pens [somatropin (rDNA origin) injection] 5 mg/1.5 mL, 10 mg/1.5 mL, and 15 mg/1.5 mL:
 
 Norditropin FlexPro is individually cartoned in 5 mg/1.5 mL, 10 mg/1.5 mL, or 15 mg/1.5 mL prefilled pens.
 
-- Norditropin FlexPro 5 mg/1.5 mL (orange) NDC 0169-7704-21
-- Norditropin FlexPro 10 mg/1.5 mL (blue) NDC 0169-7705-21
-- Norditropin FlexPro 15 mg/1.5 mL (green) NDC 0169-7708-21
+- •Norditropin FlexPro 5 mg/1.5 mL (orange) NDC 0169-7704-21
+- •Norditropin FlexPro 10 mg/1.5 mL (blue) NDC 0169-7705-21
+- •Norditropin FlexPro 15 mg/1.5 mL (green) NDC 0169-7708-21
 
-Norditropin NordiFlex prefilled pens [somatropin (rDNA origin) injection] 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL and 30 mg/3 mL:
+NorditropinNordiFlex prefilled pens [somatropin (rDNA origin) injection] 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL and 30 mg/3 mL:
 
-Norditropin NordiFlex is individually cartoned in 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL or 30 mg/3 mL prefilled pens.
+NorditropinNordiFlex is individually cartoned in 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL or 30 mg/3 mL prefilled pens.
 
-- Norditropin NordiFlex 5 mg/1.5 mL (orange) NDC 0169-7704-11
-- Norditropin NordiFlex 10 mg/1.5 mL (blue) NDC 0169-7705-11
-- Norditropin NordiFlex 15 mg/1.5 mL (green) NDC 0169-7708-11
-- Norditropin NordiFlex 30 mg/3 mL (purple) NDC 0169-7703-11
+- •Norditropin NordiFlex 5 mg/1.5 mL (orange) NDC 0169-7704-11
+- •Norditropin NordiFlex 10 mg/1.5 mL (blue) NDC 0169-7705-11
+- •Norditropin NordiFlex 15 mg/1.5 mL (green) NDC 0169-7708-11
+- •Norditropin NordiFlex 30 mg/3 mL (purple) NDC 0169-7703-11
 
 Unused Norditropin NordiFlex and FlexPro prefilled pens must be stored at 2-8°C/36-46°F (refrigerator).
 Do not freeze.
@@ -35,8 +35,8 @@ Norditropin Cartridges [somatropin (rDNA origin) injection] 5 mg/1.5 mL and 15 m
 
 Norditropin is individually cartoned in 5 mg/1.5 mL or 15 mg/1.5 mL cartridges which must be administered using the corresponding color-coded NordiPen delivery system.
 
-- Norditropin Cartridges 5 mg/1.5 mL (orange) NDC 0169-7768-11
-- Norditropin Cartridges 15 mg/1.5 mL (green) NDC 0169-7770-11
+- •Norditropin Cartridges 5 mg/1.5 mL (orange) NDC 0169-7768-11
+- •Norditropin Cartridges 15 mg/1.5 mL (green) NDC 0169-7770-11
 
 Unused Norditropin cartridges must be stored at 2-8°C/36-46°F (refrigerator).
 Do not freeze.

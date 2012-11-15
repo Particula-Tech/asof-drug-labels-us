@@ -61,11 +61,11 @@ Oral estrogen administration may increase the dose requirements in women.
 
 ## 2.3 Preparation and Administration
 
-Norditropin® FlexPro® 5 mg/ 1.5 mL, 10 mg/1.5 mL and 15 mg/1.5 mL:
+Norditropin®FlexPro® 5 mg/ 1.5 mL, 10 mg/1.5 mL and 15 mg/1.5 mL:
 
 Instructions for delivering the dosage are provided in the PATIENT INFORMATION and INSTRUCTIONS FOR USE leaflets enclosed with the Norditropin FlexPro prefilled pen.
 
-Norditropin NordiFlex® 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL and 30 mg/3 mL:
+NorditropinNordiFlex® 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL and 30 mg/3 mL:
 
 Instructions for delivering the dosage are provided in the PATIENT INFORMATION and INSTRUCTIONS FOR USE leaflets enclosed with the Norditropin NordiFlex prefilled pen.
 

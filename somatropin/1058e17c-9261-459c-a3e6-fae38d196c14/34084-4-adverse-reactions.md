@@ -4,17 +4,17 @@
 
 This list presents the most seriousb and/or most frequently observeda adverse reactions during treatment with somatropin:
 
-- bSudden death in pediatric patients with Prader-Willi syndrome with risk factors including severe obesity, history of upper airway obstruction or sleep apnea and unidentified respiratory infection [see Contraindications (4.2) and Warnings and Precautions (5.2)]
-- bIntracranial tumors, in particular meningiomas, in teenagers/young adults treated with radiation to the head as children for a first neoplasm and somatropin [see Contraindications (4.3) and Warnings and Precautions (5.3)]
-- a,bGlucose intolerance including impaired glucose tolerance/impaired fasting glucose as well as overt diabetes mellitus [see Warnings and Precautions (5.4)]
-- bIntracranial hypertension [see Warnings and Precautions (5.5)]
-- bSignificant diabetic retinopathy [see Contraindications (4.4)]
-- bSlipped capital femoral epiphysis in pediatric patients [see Warnings and Precautions (5.8)]
-- bProgression of preexisting scoliosis in pediatric patients [see Warnings and Precautions (5.9)]
-- aFluid retention manifested by edema, arthralgia, myalgia, nerve compression syndromes including carpal tunnel syndrome/paraesthesias [see Warnings and Precautions (5.6)]
-- aUnmasking of latent central hypothyroidism [see Warnings and Precautions (5.7)]
-- aInjection site reactions/rashes and lipoatrophy (as well as rare generalized hypersensitivity reactions) [see Warnings and Precautions (5.12)]
-- Pancreatitis [see Warnings and Precautions (5.14)]
+- •bSudden death in pediatric patients with Prader-Willi syndrome with risk factors including severe obesity, history of upper airway obstruction or sleep apnea and unidentified respiratory infection [see Contraindications (4.2) and Warnings and Precautions (5.2)]
+- •bIntracranial tumors, in particular meningiomas, in teenagers/young adults treated with radiation to the head as children for a first neoplasm and somatropin [see Contraindications (4.3) and Warnings and Precautions (5.3)]
+- •a,bGlucose intolerance including impaired glucose tolerance/impaired fasting glucose as well as overt diabetes mellitus [see Warnings and Precautions (5.4)]
+- •bIntracranial hypertension [see Warnings and Precautions (5.5)]
+- •bSignificant diabetic retinopathy [see Contraindications (4.4)]
+- •bSlipped capital femoral epiphysis in pediatric patients [see Warnings and Precautions (5.8)]
+- •bProgression of preexisting scoliosis in pediatric patients [see Warnings and Precautions (5.9)]
+- •aFluid retention manifested by edema, arthralgia, myalgia, nerve compression syndromes including carpal tunnel syndrome/paraesthesias [see Warnings and Precautions (5.6)]
+- •aUnmasking of latent central hypothyroidism [see Warnings and Precautions (5.7)]
+- •aInjection site reactions/rashes and lipoatrophy (as well as rare generalized hypersensitivity reactions) [see Warnings and Precautions (5.12)]
+- •Pancreatitis [see Warnings and Precautions (5.14)]
 
 ## 6.2 Clinical Trials Experience
 
