@@ -178,8 +178,8 @@ This Patient Package Insert has been approved by the U.S. Food and Drug Administ
 
 Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-Revised: October 2011
+Revised: November 2012
 
 Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-1284903A0 Rev October 2011
+1284903A1 Rev November 2012
