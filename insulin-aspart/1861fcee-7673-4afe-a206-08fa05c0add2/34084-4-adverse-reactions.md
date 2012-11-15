@@ -4,31 +4,31 @@ Clinical Trial Experience
 
 Clinical trials are conducted under widely varying designs, therefore, the adverse reaction rates reported in one clinical trial may not be easily compared to those rates reported in another clinical trial, and may not reflect the rates actually observed in clinical practice.
 
-- Hypoglycemia
+- •Hypoglycemia
 
 Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including NovoLog Mix 70/30 [see Warnings and Precautions (5.2)].
 NovoLog Mix 70/30 should not be used during episodes of hypoglycemia [see Contraindications (4)] and [Warnings and Precautions (5)].
 
-- Insulin initiation and glucose control intensification
+- •Insulin initiation and glucose control intensification
 
 Intensification or rapid improvement in glucose control has been associated with transitory, reversible ophthalmologic refraction disorder, worsening of diabetic retinopathy, and acute painful peripheral neuropathy.
 However, long-term glycemic control decreases the risk of diabetic retinopathy and neuropathy.
 
-- Lipodystrophy
+- •Lipodystrophy
 
 Long-term use of insulin, including NovoLog Mix 70/30, can cause lipodystrophy at the site of repeated insulin injections.
 Lipodystrophy includes lipohypertrophy (thickening of adipose tissue) and lipoatrophy (thinning of adipose tissue), and may affect insulin absorption.
 Rotate insulin injection sites within the same region to reduce the risk of lipodystrophy.
 
-- Weight gain
+- •Weight gain
 
 Weight gain can occur with some insulin therapies, including NovoLog Mix 70/30, and has been attributed to the anabolic effects of insulin and the decrease in glycosuria.
 
-- Peripheral Edema
+- •Peripheral Edema
 
 Insulin may cause sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
 
-- Frequencies of adverse drug reactions
+- •Frequencies of adverse drug reactions
 
 The frequencies of adverse drug reactions during a clinical trial with NovoLog Mix 70/30 in patients with type 1 diabetes mellitus and type 2 diabetes mellitus are listed in the tables below.
 The trial was a three-month, open-label trial in patients with Type 1 or Type 2 diabetes who were treated twice daily (before breakfast and before supper) with NovoLog Mix 70/30.

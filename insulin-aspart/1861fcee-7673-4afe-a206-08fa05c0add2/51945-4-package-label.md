@@ -1,9 +1,5 @@
 # PRINCIPAL DISPLAY PANEL - VIAL 10ML
 
-NDC 0169-3685-12
-
-List 368512
-
 NovoLog® Mix 70/30
 
 70% insulin aspart protamine
@@ -20,6 +16,10 @@ See enclosed insert for proper technique.
 Rx only
 
 U-100
+
+NDC 0169-3685-12
+
+List 368512
 
 novo nordisk®
 
@@ -43,19 +43,16 @@ FlexPen® Prefilled Syringe
 
 Rx only
 
-Single patient use only
-
 Shake carefully before using.
-See
+See enclosed insert for
 
-enclosed insert for proper technique.
+proper technique.
 
-For use with NovoFine® disposable
+For use with NovoFine® disposable needles or other
 
-needles.
+products specifically recommended by Novo Nordisk.
 
 Keep in a cold place.
-
 Avoid freezing.
 
 Protect from light.
