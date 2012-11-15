@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA201739"
+  ],
+  "inn": "epinephrine",
+  "labeler": "sanofi-aventis U.S. LLC",
+  "package_ndcs": [
+    "0024-5831-00",
+    "0024-5831-02",
+    "0024-5833-00",
+    "0024-5833-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "epinephrine",
+      "name": "Auvi-Q"
+    }
+  ],
+  "setid": "4c550991-c4cf-11df-851a-0800200c9a66",
+  "source": "dailymed"
+}
