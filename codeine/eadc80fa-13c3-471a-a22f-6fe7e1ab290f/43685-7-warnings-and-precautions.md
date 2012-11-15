@@ -18,10 +18,10 @@ When physicians prescribe codeine-containing drugs, they should choose the lowes
 
 ## Information for Patients/Caregivers
 
-- Do not take acetaminophen and codeine phosphate tablets USP if you are allergic to any of its ingredients.
-- If you develop signs of allergy such as a rash or difficulty breathing stop taking acetaminophen and codeine phosphate tablets USP and contact your healthcare provider immediately.
-- Do not take more than 4000 milligrams of acetaminophen per day.
-  Call your doctor if you took more than the recommended dose.
+1. Do not take acetaminophen and codeine phosphate tablets USP if you are allergic to any of its ingredients.
+2. If you develop signs of allergy such as a rash or difficulty breathing stop taking acetaminophen and codeine phosphate tablets USP and contact your healthcare provider immediately.
+3. Do not take more than 4000 milligrams of acetaminophen per day.
+   Call your doctor if you took more than the recommended dose.
 
 Codeine may impair mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery.
 Such tasks should be avoided while taking this product.
