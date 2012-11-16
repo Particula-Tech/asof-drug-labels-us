@@ -6,13 +6,13 @@
   "labeler": "X-GEN Pharmaceuticals, Inc.",
   "package_ndcs": [
     "39822-0412-1",
-    "39822-0412-6"
+    "39822-0412-2"
   ],
   "products": [
     {
       "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
-      "generic": "tobramycin sulfate",
-      "name": "tobramycin"
+      "generic": "tobramycin",
+      "name": "Tobramycin"
     }
   ],
   "setid": "a384641c-04e3-4ab5-b152-7408cd07b64d",

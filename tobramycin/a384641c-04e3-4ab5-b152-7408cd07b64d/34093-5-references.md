@@ -1,9 +1,17 @@
 # REFERENCES
 
-1. National Committee for Clinical Laboratory Standards, Performance standards for antimicrobial disk susceptibility tests–5th ed.
-   Approved Standard NCCLS Document M2-A5, Vol 13, No 24, NCCLS, Villanova, PA, 1993.
-2. National Committee for Clinical Laboratory Standards, Methods for dilution antimicrobial susceptibility tests for bacteria that grow aerobically–3rd ed.
-   Approved Standard NCCLS Document M7-A3, Vol 13, No 25, NCCLS, Villanova, PA, 1993.
+1 Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard--8th ed., CLSI document M07-A8.
+Clinical and Laboratory Standards Institute, Wayne, PA.
+January, 2009.
+
+2 Performance Standards for Antimicrobial Susceptibility Testing; 21st Informational Supplement.
+CLSI document M100-S21.
+Clinical and Laboratory Standards Institute, Wayne, PA.
+January, 2011.
+
+3 Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard--10th ed., CLSI document M02-A10.
+Clinical and Laboratory Standards Institute, Wayne, PA.
+January, 2009.
 
 †Each vial contains tobramycin sulfate equivalent to 1200 mg of tobramycin.
 
@@ -11,8 +19,8 @@ Manufactured for:
 
 X-Gen Pharmaceuticals, Inc.
 
-Northport, NY 11768
+Big Flats, NY 14814
 
-Revised September 2006
+Revised June 2012
 
-TOB-P02
+TOBR-PI1-00

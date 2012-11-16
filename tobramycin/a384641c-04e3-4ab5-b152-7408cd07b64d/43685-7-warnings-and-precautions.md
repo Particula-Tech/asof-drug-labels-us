@@ -77,3 +77,7 @@ Pregnancy Category D– Aminoglycosides can cause fetal harm when administered t
 Aminoglycoside antibiotics cross the placenta, and there have been several reports of total irreversible bilateral congenital deafness in children whose mothers received streptomycin during pregnancy.
 Serious side effects to mother, fetus, or newborn have not been reported in the treatment of pregnant women with other aminoglycosides.
 If tobramycin is used during pregnancy or if the patient becomes pregnant while taking tobramycin, she should be apprised of the potential hazard to the fetus.
+
+Diarrhea is a common problem caused by antibiotics, which usually ends when the antibiotic is discontinued.
+Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+If this occurs, patients should contact their physician as soon as possible.

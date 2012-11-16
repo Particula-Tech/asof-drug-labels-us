@@ -14,3 +14,5 @@ In some other clinical studies, no significant difference in the incidence of ne
 
 Other reported adverse reactions possibly related to tobramycin include anemia, granulocytopenia, and thrombocytopenia; and fever, rash, exfoliative dermatitis, itching, urticaria, nausea, vomiting, diarrhea, headache, lethargy, pain at the injection site, mental confusion, and disorientation.
 Laboratory abnormalities possibly related to tobramycin include increased serum transaminases (AST, ALT); increased serum LDH and bilirubin; decreased serum calcium, magnesium, sodium, and potassium; and leukopenia, leukocytosis, and eosinophilia.
+
+To report SUSPECTED ADVERSE EVENTS, contact FDA at 1-800-FDA-1088 or www.fda.gov.

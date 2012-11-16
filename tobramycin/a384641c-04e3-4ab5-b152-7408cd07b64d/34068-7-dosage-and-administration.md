@@ -1,10 +1,8 @@
 # DOSAGE AND ADMINISTRATION
 
 This insert is for a Pharmacy Bulk Package and is intended for preparing intravenous admixtures only.
-Dosage recommendations and/or references to the intramuscular route of administration are for informational purposes only.
 
-Tobramycin for Injection may be given intramuscularly or intravenously.
-Recommended dosages are the same for both routes.
+Tobramycin for Injection may be given intravenously.
 The patient’s pretreatment body weight should be obtained for calculation of correct dosage.
 It is desirable to measure both peak and trough serum concentrations (see Warnings box and Precautions).
 
@@ -14,21 +12,12 @@ Adults With Life-Threatening Infections: Up to 5 mg/kg/day may be administered i
 The dosage should be reduced to 3 mg/kg/day as soon as clinically indicated.
 To prevent increased toxicity due to excessive blood levels, dosage should not exceed 5 mg/kg/day unless serum levels are monitored (see Warnings box and Precautions).
 
-Pediatric patients: 6 to 7.5 mg/kg/day in 3 or 4 equally divided doses (2 to 2.5 mg/kg every 8 hours or 1.5 to 1.89 mg/kg every 6 hours).
-
-Premature or Full-Term Neonates 1 Week of Age or Less: Up to 4 mg/kg/day may be administered in 2 equal doses every 12 hours.
-
-It is desirable to limit treatment to a short term.
-The usual duration of treatment is 7 to 10 days.
-A longer course of therapy may be necessary in difficult and complicated infections.
-In such cases, monitoring of renal, auditory, and vestibular functions is advised, because neurotoxicity is more likely to occur when treatment is extended longer than 10 days.
-
 Table 1: DOSAGE SCHEDULE GUIDE FOR ADULTS WITH NORMAL RENAL FUNCTION (Dosage at 8-Hour Intervals)
 
 | kg | lb | (Total, 3 mg/kg/day) |  |  | (Total, 5 mg/kg/day) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Usual Dose for |  |  | Maximum Dose for Life- |  |  |  |  |  |  |
-|  |  | Serious Infections |  |  | Threatening Infections |  |  |  |  |  |  |
+|  |  | Usual Dose for | Maximum Dose for Life- |  |  |  |  |  |  |  |  |
+|  |  | Serious Infections | Threatening Infections |  |  |  |  |  |  |  |  |
 | For |  |  |  |  | (Reduce | as |  | soon | as |  | possible) |
 | Patient |  |  |  |  |  |  |  |  |  |  |  |
 | Weighing |  | 1 mg/kg q8h |  |  | 1.66 mg/kg q8h |  |  |  |  |  |  |
@@ -52,6 +41,15 @@ Table 1: DOSAGE SCHEDULE GUIDE FOR ADULTS WITH NORMAL RENAL FUNCTION (Dosage at 
 | 45 | 99 | 45 mg |  | 1.1 mL | 75 mg |  |  |  |  | 1.9 mL |  |
 | 40 | 88 | 40 mg |  | 1 mL | 66 mg |  |  |  |  | 1.6 mL |  |
 
+Pediatric patients: 6 to 7.5 mg/kg/day in 3 or 4 equally divided doses (2 to 2.5 mg/kg every 8 hours or 1.5 to 1.89 mg/kg every 6 hours).
+
+Premature or Full-Term Neonates 1 Week of Age or Less: Up to 4 mg/kg/day may be administered in 2 equal doses every 12 hours.
+
+It is desirable to limit treatment to a short term.
+The usual duration of treatment is 7 to 10 days.
+A longer course of therapy may be necessary in difficult and complicated infections.
+In such cases, monitoring of renal, auditory, and vestibular functions is advised, because neurotoxicity is more likely to occur when treatment is extended longer than 10 days.
+
 Dosage in Patients with Cystic Fibrosis – In patients with cystic fibrosis, altered pharmacokinetics may result in reduced serum concentrations of aminoglycosides.
 Measurement of tobramycin serum concentration during treatment is especially important as a basis for determining appropriate dose.
 In patients with severe cystic fibrosis, an initial dosage regimen of 10 mg/kg/day in 4 equally divided doses is recommended.
@@ -74,9 +72,6 @@ Normal dosage at prolonged intervals: If the creatinine clearance rate is not av
 
 Dosage in Obese Patients - The appropriate dose may be calculated by using the patient’s estimated lean body weight plus 40% of the excess as the basic weight on which to figure mg/kg.
 
-Intramuscular Administration- Tobramycin for Injection may be administered by withdrawing the appropriate dose directly from a vial or by using a prefilled syringe.
-The Pharmacy Bulk Package is not intended for intramuscular administration.
-
 Intravenous Administration - For intravenous administration, the usual volume of diluent (0.9% Sodium Chloride Injection or 5% Dextrose Injection) is 50 to 100 mL for adult doses.
 For pediatric patients, the volume of diluent should be proportionately less than that for adults.
 The diluted solution usually should be infused over a period of 20 to 60 minutes.
@@ -90,11 +85,11 @@ Directions for Proper Use of Pharmacy Bulk Package– Not for direct infusion.
 The pharmacy bulk package is for use in the Hospital Pharmacy Admixture Service and only in a suitable work area, such as a laminar flow hood.
 Using aseptic technique, the closure may be penetrated only 1 time after reconstitution using a suitable sterile transfer device or dispensing set, which allows measured dispensing of the contents.
 Use of a syringe and needle is not recommended as it may cause leakage.
-After entry, enter contents of bulk vial should be dispensed within 24 hours.
+After entry, entire contents of Pharmacy Bulk Package bottle should be dispensed within 24 hours.
 
-Sterile tobramycin sulfate is supplied as a dry powder.
-The contents of the vial should be diluted with 30 mL of Sterile Water for Injection, USP, to provide a solution containing 40 mg of tobramycin per mL.
-Prior to reconstitution, the vial should be stored at controlled room temperature, 20º to 25ºC (68º to 77ºF).
+Tobramycin for Injection is supplied as a dry powder.
+The contents of the Pharmacy Bulk Package bottle should be diluted with 30 mL of Sterile Water for Injection, USP, to provide a solution containing 40 mg of tobramycin per mL.
+Prior to reconstitution, the Pharmacy Bulk Package bottle should be stored at controlled room temperature, 20º to 25ºC (68º to 77ºF).
 After reconstitution, the solution should be kept in a refrigerator and used within 96 hours.
 If kept at room temperature, the solution must be used within 24 hours.
 

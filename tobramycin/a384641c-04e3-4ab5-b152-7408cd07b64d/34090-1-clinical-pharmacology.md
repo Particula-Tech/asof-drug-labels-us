@@ -100,7 +100,7 @@ Tobramycin laboratory reagent should give the following MIC values:
 
 |  | Organism |  |  |  | MIC | Range | (mcg/mL) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| E. | faecalis | ATCC | 29212 |  | 8.0-32.0 |  |  |  |
+| E. | faecalis | ATCC | 29212 |  | 8-32 |  |  |  |
 | E. | coli | ATCC | 25922 |  | 0.25-1 |  |  |  |
-| P. | aeruginosa | ATCC | 27853 |  | 0.12-1 |  |  |  |
+| P. | aeruginosa | ATCC | 27853 |  | 0.25-1 |  |  |  |
 | S. | aureus | ATCC | 29213 |  | 0.12-1 |  |  |  |
