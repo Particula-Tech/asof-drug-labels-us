@@ -326,10 +326,10 @@ NDC 0054-3527-63: Bottles of 500 mL.
 Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
 Dispense in a tight container as defined in the USP/NF.
 
-4055500/08
+4055500/09
 
-Revised October 2011
+Revised October 2012
 
-© RLI, 2011
+© RLI, 2012
 
 Package Label - Lithium Carbonate Tablets USP
