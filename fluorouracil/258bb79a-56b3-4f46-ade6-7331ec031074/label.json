@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA016988"
+  ],
+  "inn": "fluorouracil",
+  "labeler": "Aqua Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "16110-812-30"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluorouracil",
+      "name": "Fluoroplex"
+    }
+  ],
+  "setid": "258bb79a-56b3-4f46-ade6-7331ec031074",
+  "source": "dailymed"
+}
