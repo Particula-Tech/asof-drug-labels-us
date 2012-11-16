@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Norethindrone acetate tablets, USP, 5 mg, are supplied as white to off-white oval, biconvex tablets debossed with “IP” bisect “195” on one side and plain on the other side.
+Norethindrone acetate tablets, USP, 5 mg, are supplied as white to off-white oval, biconvex tablets debossed with “AN” bisect “475” on one side and plain on the other side.
 
 They are available as follows:
 
