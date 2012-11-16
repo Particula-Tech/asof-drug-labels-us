@@ -10,11 +10,11 @@ DELAYED-RELEASE
 
 Capsules USP, 15 mg
 
-PHARMACIST: PLEASE
+PHARMACIST: Dispense the
 
-DISPENSE WTH ATTACHED
+accompanying Medication Guide
 
-PATIENT INFORMATION LEAFLET
+to each patient.
 
 Rx only
 
@@ -34,11 +34,11 @@ DELAYED-RELEASE
 
 Capsules USP, 30 mg
 
-PHARMACIST: PLEASE
+PHARMACIST: Dispense the
 
-DISPENSE WTH ATTACHED
+accompanying Medication Guide
 
-PATIENT INFORMATION LEAFLET
+to each patient.
 
 Rx only
 

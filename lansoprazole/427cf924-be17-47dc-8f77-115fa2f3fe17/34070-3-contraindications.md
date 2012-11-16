@@ -1,4 +1,5 @@
 # 4 CONTRAINDICATIONS
 
 Lansoprazole delayed-release capsules are contraindicated in patients with known severe hypersensitivity to any component of the formulation of lansoprazole delayed-release capsules.
-For information on contraindications for amoxicillin or clarithromycin, refer to their full prescribing information, CONTRAINDICATIONS sections.
+
+For information about contraindications of antibacterial agents (clarithromycin and amoxicillin) indicated in combination with lansoprazole delayed-release capsules, refer to the CONTRAINDICATIONS section of their package inserts.

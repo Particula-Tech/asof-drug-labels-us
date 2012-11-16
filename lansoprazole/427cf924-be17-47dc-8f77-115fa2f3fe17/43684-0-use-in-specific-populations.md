@@ -2,9 +2,9 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects
+Teratogenic Effects
 
-#### Pregnancy category B
+Pregnancy Category B
 
 Reproduction studies have been performed in pregnant rats at oral doses up to 40 times the recommended human dose and in pregnant rabbits at oral doses up to 16 times the recommended human dose and have revealed no evidence of impaired fertility or harm to the fetus due to lansoprazole.
 There are, however, no adequate or well-controlled studies in pregnant women.
@@ -30,7 +30,7 @@ Infants aged ≤ 10 weeks had clearance and exposure values that were similar to
 Infants aged greater than 10 weeks who received 1 mg/kg/day had mean AUC values that were similar to adults who received a 30 mg dose.
 
 Lansoprazole was not found to be effective in a U.S. and Polish 4 week multicenter, double-blind, placebo-controlled, parallel-group study of 162 patients between one month and less than 12 months of age with symptomatic GERD based on a medical history of crying/fussing/irritability associated with feedings who had not responded to conservative GERD management (i.e., non-pharmacologic intervention) for 7 to 14 days.
-Patients received lansoprazole as a suspension daily (0.2 to 0.3 mg/kg/day in infants ≤ 10 weeks of age or 1.0 to 1.5 mg/kg/day in infants greater than 10 weeks or placebo) for up to 4 weeks of double-blind treatment.
+Patients received lansoprazole as a suspension daily (0.2 to 0.3 mg/kg/day in infants ≤ 10 weeks of age or 1 to 1.5 mg/kg/day in infants greater than 10 weeks or placebo) for up to 4 weeks of double-blind treatment.
 
 The primary efficacy endpoint was assessed by greater than 50% reduction from baseline in either the percent of feedings with a crying/fussing/irritability episode or the duration (minutes) of a crying/fussing/irritability episode within one hour after feeding.
 

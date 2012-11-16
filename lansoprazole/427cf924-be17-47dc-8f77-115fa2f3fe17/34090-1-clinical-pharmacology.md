@@ -22,8 +22,8 @@ Table 4: Mean Antisecretory Effects After Single and Multiple Daily Lansoprazole
 | --- | --- | --- | --- | --- | --- |
 | Parameter | Baseline Value | 15 mg |  | 30 mg |  |
 | Day 1 | Day 5 | Day 1 | Day 5 |  |  |
-| Mean 24 Hour pH | 2.1 | 2.7(p < 0.05) versus baseline only. | 4.0 | 3.6(p < 0.05) versus baseline and lansoprazole 15 mg. | 4.9 |
-| Mean Nighttime pH | 1.9 | 2.4 | 3.0 | 2.6 | 3.8 |
+| Mean 24 Hour pH | 2.1 | 2.7(p < 0.05) versus baseline only. | 4 | 3.6(p < 0.05) versus baseline and lansoprazole 15 mg. | 4.9 |
+| Mean Nighttime pH | 1.9 | 2.4 | 3 | 2.6 | 3.8 |
 | % Time Gastric pH > 3 | 18 | 33 | 59 | 51 | 72 |
 | % Time Gastric pH > 4 | 12 | 22 | 49 | 41 | 66 |
 | NOTE: An intragastric pH of greater than 4 reflects a reduction in gastric acid by 99%. |  |  |  |  |  |
@@ -85,10 +85,10 @@ Lansoprazole, clarithromycin and/or amoxicillin have been shown to be active aga
 
 Helicobacter pylori Pretreatment Resistance
 
-Clarithromycin pretreatment resistance (≥ 2.0 mcg/mL) was 9.5% (91/960) by E-test and 11.3% (12/106) by agar dilution in the dual and triple therapy clinical trials (M93-125, M93-130, M93-131, M95-392, and M95-399).
+Clarithromycin pretreatment resistance (≥ 2 mcg/mL) was 9.5% (91/960) by E-test and 11.3% (12/106) by agar dilution in the dual and triple therapy clinical trials (M93-125, M93-130, M93-131, M95-392, and M95-399).
 
-Amoxicillin pretreatment susceptible isolates (≤ 0.25 mcg/mL) occurred in 97.8% (936/957) and 98.0% (98/100) of the patients in the dual and triple therapy clinical trials by E-test and agar dilution, respectively.
-Twenty-one of 957 patients (2.2%) by E-test, and 2 of 100 patients (2.0%) by agar dilution, had amoxicillin pretreatment MICs of greater than 0.25 mcg/mL.
+Amoxicillin pretreatment susceptible isolates (≤ 0.25 mcg/mL) occurred in 97.8% (936/957) and 98% (98/100) of the patients in the dual and triple therapy clinical trials by E-test and agar dilution, respectively.
+Twenty-one of 957 patients (2.2%) by E-test, and 2 of 100 patients (2%) by agar dilution, had amoxicillin pretreatment MICs of greater than 0.25 mcg/mL.
 One patient on the 14 day triple therapy regimen had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of greater than 256 mcg/mL by E-test and the patient was eradicated of H. pylori (Table 6).
 
 Table 6: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pretreatment clarithromycin susceptibility test results
@@ -97,7 +97,7 @@ Table 6: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  | H. pylori negative - eradicated | H. pylori positive – not eradicated |  |  |  |
 | Post-treatment susceptibility results |  |  |  |  |  |  |
-| SSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL | I | R | No MIC |  |  |  |
+| SSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL | I | R | No MIC |  |  |  |
 | Triple Therapy 14 Day (lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily) (M95-399, M93-131, M95-392) |  |  |  |  |  |  |
 | Susceptible | 112 | 105 |  |  |  | 7 |
 | Intermediate | 3 | 3 |  |  |  |  |
@@ -117,31 +117,7 @@ A total of 30% (21/70) of the patients failed lansoprazole 30 mg three times dai
 Post-treatment susceptibility results were not obtained on 11 of the patients who failed therapy.
 Nine of the 11 patients with amoxicillin post-treatment MICs that failed the triple therapy regimen also had clarithromycin resistant H. pylori isolates.
 
-Susceptibility Test for Helicobacter pylori: The reference methodology for susceptibility testing of H. pylori is agar dilution MICs.1 One to three microliters of an inoculum equivalent to a No. 2 McFarland standard (1 x 107 to 1 x 108 CFU/mL for H. pylori) are inoculated directly onto freshly prepared antimicrobial-containing Mueller-Hinton agar plates with 5% aged defibrinated sheep blood (≥ 2 weeks old).
-The agar dilution plates are incubated at 35°C in a microaerobic environment produced by a gas generating system suitable for campylobacters.
-
-After 3 days of incubation, the MICs are recorded as the lowest concentration of antimicrobial agent required to inhibit growth of the organism.
-The clarithromycin and amoxicillin MIC values should be interpreted according to the following criteria (Table 7):
-
-Table 7
-
-| Clarithromycin MIC (mcg/mL)These are tentative breakpoints for the agar dilution methodology and they should not be used to interpret results obtained using alternative methods. | Interpretation |
-| --- | --- |
-| ≤ 0.25 | Susceptible (S) |
-| 0.5 to 1.0 | Intermediate (I) |
-| ≥ 2.0 | Resistant (R) |
-| Amoxicillin MIC (mcg/mL),There were not enough organisms with MICs greater than 0.25 mcg/mL to determine a resistance breakpoint. | Interpretation |
-| ≤ 0.25 | Susceptible (S) |
-
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Standard clarithromycin and amoxicillin powders should provide the following MIC values (Table 8):
-
-Table 8
-
-| Microorganism | Antimicrobial Agent | MIC (mcg/mL)These are quality control ranges for the agar dilution methodology and they should not be used to control test results obtained using alternative methods. |
-| --- | --- | --- |
-| H. pylori ATCC 43504 | Clarithromycin | 0.015 to 0.12 |
-| H. pylori ATCC 43504 | Amoxicillin | 0.015 to 0.12 |
+Susceptibility Test for Helicobacter pylori: For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
 
 ## 12.3 Pharmacokinetics
 
@@ -152,12 +128,12 @@ After a single-dose administration of 15 mg to 60 mg of oral lansoprazole, the p
 Lansoprazole does not accumulate and its pharmacokinetics are unaltered by multiple dosing.
 
 Absorption: The absorption of lansoprazole is rapid, with the mean Cmax occurring approximately 1.7 hours after oral dosing, and the absolute bioavailability is over 80%.
-In healthy subjects, the mean (± SD) plasma half-life was 1.5 (± 1.0) hours.
+In healthy subjects, the mean (± SD) plasma half-life was 1.5 (± 1) hours.
 Both the Cmax and AUC are diminished by about 50% to 70% if lansoprazole is given 30 minutes after food, compared to the fasting condition.
 There is no significant food effect if lansoprazole is given before meals.
 
 Distribution: Lansoprazole is 97% bound to plasma proteins.
-Plasma protein binding is constant over the concentration range of 0.05 to 5.0 mcg/mL.
+Plasma protein binding is constant over the concentration range of 0.05 to 5 mcg/mL.
 
 Metabolism: Lansoprazole is extensively metabolized in the liver.
 Two metabolites have been identified in measurable quantities in plasma (the hydroxylated sulfinyl and sulfone derivatives of lansoprazole).
@@ -193,7 +169,7 @@ Because the mean half-life in the elderly remains between 1.9 to 2.9 hours, repe
 Peak plasma levels were not increased in the elderly.
 No dosage adjustment is necessary in the elderly [see Use in Specific Populations (8.5)].
 
-Renal Impairment: In patients with severe renal impairment, plasma protein binding decreased by 1.0% to 1.5% after administration of 60 mg of lansoprazole.
+Renal Impairment: In patients with severe renal impairment, plasma protein binding decreased by 1% to 1.5% after administration of 60 mg of lansoprazole.
 Patients with renal impairment had a shortened elimination half-life and decreased total AUC (free and bound).
 The AUC for free lansoprazole in plasma, however, was not related to the degree of renal impairment; and the Cmax and Tmax (time to reach the maximum concentration) were not different than the Cmax and Tmax from subjects with normal renal function.
 No dosage adjustment is necessary in patients with renal impairment [see Use in Specific Populations (8.6)].
