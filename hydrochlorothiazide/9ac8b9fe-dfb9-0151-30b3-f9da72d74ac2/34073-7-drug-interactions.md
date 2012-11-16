@@ -13,6 +13,14 @@ Monitor renal function periodically in patients receiving irbesartan and NSAID t
 
 The antihypertensive effect of angiotensin II receptor antagonists, including irbesartan, may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
+Dual Blockade of the Renin-Angiotensin System (RAS)
+
+Dual blockade of the RAS with angiotensin-receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Closely monitor blood pressure, renal function, and electrolytes in patients on AVALIDE and other agents that affect the RAS.
+
+Do not coadminister aliskiren with AVALIDE in patients with diabetes.
+Avoid use of aliskiren with AVALIDE in patients with renal impairment (GFR <60 mL/min).
+
 Hydrochlorothiazide
 
 When administered concurrently the following drugs may interact with thiazide diuretics:

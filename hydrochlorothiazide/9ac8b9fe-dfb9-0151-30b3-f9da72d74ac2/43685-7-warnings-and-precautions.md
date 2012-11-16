@@ -77,7 +77,7 @@ Thiazides should be used with caution in patients with impaired hepatic function
 
 ## 5.8 Impaired Renal Function
 
-As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals.
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals [see Drug Interactions (7)].
 In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with ACE inhibitors has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
 Irbesartan would be expected to behave similarly.
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or BUN have been reported.
