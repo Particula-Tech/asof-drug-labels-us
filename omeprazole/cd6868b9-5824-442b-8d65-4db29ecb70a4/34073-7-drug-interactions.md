@@ -19,6 +19,10 @@ Concomitant administration of omeprazole and voriconazole (a combined inhibitor 
 Dose adjustment of omeprazole is not normally required..
 When voriconazole (400 mg every 12 hours for one day, then 200 mg for 6 days) was given with omeprazole (40 mg once daily for 7 days) to healthy subjects, it significantly increased the steady-state Cmax and AUC0-24 of omeprazole, an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4) respectively as compared to when omeprazole was given without voriconazole.
 
+Drugs known to induce CYP2C19 or CYP3A4 (such as rifampin) may lead to decreased omeprazole serum levels.
+In a cross-over study in 12 healthy male subjects, St John's wort (300 mg three times daily for 14 days), an inducer of CYP3A4, decreased the systemic exposure of omeprazole in CYP2C19 poor metabolisers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolisers (Cmax and AUC decreased by 49.6% and 43.9%, respectively).
+Avoid concomitant use of St. John's Wort or rifampin with omeprazole.
+
 ## 7.3 Antiretroviral Agents
 
 Concomitant administration of atazanavir and proton pump inhibitors is not recommended.
@@ -32,52 +36,37 @@ For some antiretroviral drugs, such as atazanavir and nelfinavir, decreased seru
 Following multiple doses of nelfinavir (1250 mg, twice daily) and omeprazole (40 mg, daily), AUC was decreased by 36% and 92%, Cmax by 37% and 89% and Cmin by 39% and 75% respectively for nelfinavir and M8.
 Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hours before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
 Concomitant administration with omeprazole and drugs such as atazanavir and nelfinavir is therefore not recommended.
+
+Increased concentration of saquinavir
+
 For other antiretroviral drugs, such as saquinavir, elevated serum levels have been reported with an increase in AUC by 82%, in Cmax by 75% and in Cmin by 106% following multiple dosing of saquinavir/ritonavir (1000/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
 Dose reduction of saquinavir should be considered from the safety perspective for individual patients.
 There are also some antiretroviral drugs of which unchanged serum levels have been reported when given with omeprazole.
 
-## 7.4 Antimicrobials
+## 7.4 Combination Therapy with Clarithromycin
 
-Omeprazole 40 mg daily was given in combination with clarithromycin 500 mg every 8 hours to healthy adult male subjects.
-The steady state plasma concentrations of omeprazole were increased (Cmax, AUC0-24, and T1/2 increases of 30%, 89% and 34% respectively) by the concomitant administration of clarithromycin.
-The observed increases in omeprazole plasma concentration were associated with the following pharmacological effects.
-The mean 24-hour gastric pH value was 5.2 when omeprazole was administered alone and 5.7 when co-administered with clarithromycin.
-
-The plasma levels of clarithromycin and 14-hydroxyclarithromycin were increased by the concomitant administration of omeprazole.
-For clarithromycin, the mean Cmax was 10% greater, the mean Cmin was 27% greater, and the mean AUC0-8 was 15% greater when clarithromycin was administered with omeprazole than when clarithromycin was administered alone.
-Similar results were seen for 14-hydroxyclarithromycin, the mean Cmax was 45% greater, the mean Cmin was 57% greater, and the mean AUC0-8 was 45% greater.
-Clarithromycin concentrations in the gastric tissue and mucus were also increased by concomitant administration of omeprazole.
-
-Table 5: Clarithromycin Tissue Concentrations 2 hours after Dose1
-
-| Tissue | Clarithromycin | Clarithromycin + Omeprazole |
-| --- | --- | --- |
-| Antrum | 10.48 ± 2.01 (n = 5) | 19.96 ± 4.71 (n = 5) |
-| Fundus | 20.81 ± 7.64 (n = 5) | 24.25 ± 6.37 (n = 5) |
-| Mucus | 4.15 ± 7.74 (n = 4) | 39.29 ± 32.79 (n = 4) |
-|  | 1Mean ± (μg/g) |  |
+Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions due to drug interaction [See Warnings and Precautions in prescribing information for clarithromycin].
+Because of these drug interactions, clarithromycin is contraindicated for co-administration with certain drugs [See Contraindication in prescribing information for clarithromycin].
 
 ## 7.5 Clopidogrel
 
 Omeprazole is an inhibitor of CYP2C19 enzyme.
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
-Concomitant use of omeprazole 80 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition [see Warnings and Precautions (5.6)].
-
-In a crossover clinical study, 72 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone and with omeprazole (80 mg at the same time as clopidogrel) for 5 days.
-The exposure to the active metabolite of clopidogrel was decreased by 46% (Day 1) and 42% (Day 5) when clopidogrel and omeprazole were administered together.
-The active metabolite of clopidogrel selectively and irreversibly inhibits the binding of adenosine diphosphate (ADP) to its platelet P2Y12 receptor, thereby inhibiting platelet aggregation.
-The mean inhibition of platelet aggregation at 5 mcM ADP was diminished by 39% (Day 1) and 21% (Day 5) when clopidogrel and omeprazole were administered together.
-
-In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole but the drugs were administered12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction [see Warnings and Precautions (5.6)].
-
-There are no adequate combination studies of a lower dose of omeprazole or a higher dose of clopidogrel in comparison with the approved dose of clopidogrel.
+Concomitant use of omeprazole 80 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
+Avoid concomitant administration of Zegerid with clopidogrel.
+When using Zegerid, consider use of alternative anti-platelet therapy [see Pharmacokinetics (12.3)].
 
 ## 7.6 Tacrolimus
 
 Concomitant administration of omeprazole and tacrolimus may increase the serum levels of tacrolimus.
 
-## 7.7 Methotrexate
+## 7.7 Interactions With Investigations of Neuroendocrine Tumors
+
+Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors.
+[see Warnings and Precautions (5.7) and Clinical Pharmacology (12)].
+
+## 7.8 Methotrexate
 
 Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
 However, no formal drug interaction studies of methotrexate with PPIs have been conducted.
-[see Warnings and Precautions (5.7).
+[see Warnings and Precautions (5.10)].

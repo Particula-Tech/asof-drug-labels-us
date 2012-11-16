@@ -14,9 +14,9 @@ ZEGERID Capsules and Powder for Oral Suspension are immediate-release formulatio
 
 Antisecretory Activity
 
-Results from a PK/PD study of the antisecretory effect of repeated once-daily dosing of 40 mg and 20 mg of ZEGERID Oral Suspension in healthy subjects are shown in Table 6 below.
+Results from a PK/PD study of the antisecretory effect of repeated once-daily dosing of 40 mg and 20 mg of ZEGERID Oral Suspension in healthy subjects are shown in Table 5 below.
 
-Table 6: Effect of ZEGERID Oral Suspension on Intragastric pH, Day 7
+Table 5: Effect of ZEGERID Oral Suspension on Intragastric pH, Day 7
 
 |  | Omeprazole/Sodium Bicarbonate |  |
 | --- | --- | --- |
@@ -48,6 +48,9 @@ In studies involving more than 200 patients, serum gastrin levels increased duri
 No further increase in serum gastrin occurred with continued treatment.
 In comparison with histamine H2-receptor antagonists, the median increases produced by 20 mg doses of omeprazole were higher (1.3 to 3.6 fold vs. 1.1 to 1.8 fold increase).
 Gastrin values returned to pretreatment levels, usually within 1 to 2 weeks after discontinuation of therapy.
+
+Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors.
 
 Other Effects
 
@@ -101,6 +104,16 @@ Excretion
 
 Following single-dose oral administration of omeprazole, little if any, unchanged drug is excreted in urine.
 The mean plasma omeprazole half-life in healthy subjects is approximately 1 hour (range 0.4 to 3.2 hours) and the total body clearance is 500-600 mL/min.
+
+Concomitant Use with Clopidogrel
+
+In a crossover clinical study, 72 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone and with omeprazole (80 mg at the same time as clopidogrel) for 5 days.
+The exposure to the active metabolite of clopidogrel was decreased by 46% (Day 1) and 42% (Day 5) when clopidogrel and omeprazole were administered together.
+
+Results from another crossover study in healthy subjects showed a similar pharmacokinetic interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and omeprazole 80 mg daily when coadministered for 30 days.
+Exposure to the active metabolite of clopidogrel was reduced by 41% to 46% over this time period.
+
+In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction.
 
 Special Populations
 

@@ -121,6 +121,8 @@ This finding is believed to be a manifestation of the underlying condition, whic
 Hepatic: Mild and, rarely, marked elevations of liver function tests [ALT (SGPT), AST (SGOT), γ-glutamyl transpeptidase, alkaline phosphatase, and bilirubin (jaundice)].
 In rare instances, overt liver disease has occurred, including hepatocellular, cholestatic, or mixed hepatitis, liver necrosis (some fatal), hepatic failure (some fatal), and hepatic encephalopathy.
 
+Infections and Infestations: Clostridium difficile associated diarrhea.
+
 Metabolism and Nutritional Disorders: Hyponatremia, hypoglycemia, hypomagnesemia, and weight gain.
 
 Musculoskeletal: Muscle cramps, myalgia, muscle weakness, joint pain, bone fracture, and leg pain.

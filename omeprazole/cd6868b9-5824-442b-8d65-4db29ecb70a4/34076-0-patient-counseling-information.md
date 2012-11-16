@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling.
+See FDA-Approved Medication Guide.
 
 Instruct patients that ZEGERID should be taken on an empty stomach at least one hour prior to a meal.
 [See Dosage and Administration (2)]
@@ -46,7 +46,11 @@ Pregnant women should be advised that a harmful effect of ZEGERID on the fetus c
 Patients should be advised to use this drug with caution if they are regularly taking calcium supplements.
 [See Warnings and Precautions (5.3)]
 
-Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures and tetany as these may be signs of hypomagnesemia.[See Warnings and Precautions (5.5)]
+Advise patients to immediately report and seek care for diarrhea that does not improve.
+This may be a sign of Clostridium difficile associated diarrhea [see Warnings and Precautions (5.4)].
+
+Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures and tetany as these may be signs of hypomagnesemia.
+[See Warnings and Precautions (5.7)]
 
 SANTARUS,INC.®
 
@@ -60,4 +64,4 @@ ZEGERID® is a registered trademark of Santarus, Inc.
 
 © 2012 Santarus, Inc.
 
-S0015H
+S0015I

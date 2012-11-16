@@ -3,9 +3,9 @@
 ## 14.1 Duodenal Ulcer Disease
 
 Active Duodenal Ulcer – In a multicenter, double-blind, placebo controlled study of 147 patients with endoscopically documented duodenal ulcer, the percentage of patients healed (per protocol) at 2 and 4 weeks was significantly higher with omeprazole 20 mg once a day than with placebo (p ≤ 0.01).
-(See Table 7)
+(See Table 6)
 
-Table 7: Treatment of Active Duodenal Ulcer % of Patients Healed
+Table 6: Treatment of Active Duodenal Ulcer % of Patients Healed
 
 |  | Omeprazole 20 mg a.m. (n = 99) | Placebo a.m. (n = 48) |
 | --- | --- | --- |
@@ -18,9 +18,9 @@ At the end of the study, significantly more patients who had received omeprazole
 
 In a multicenter, double-blind study of 293 patients with endoscopically documented duodenal ulcer, the percentage of patients healed (per protocol) at 4 weeks was significantly higher with omeprazole 20 mg once a day than with ranitidine 150 mg b.i.d.
 (p < 0.01).
-(See Table 8)
+(See Table 7)
 
-Table 8: Treatment of Active Duodenal Ulcer % of Patients Healed
+Table 7: Treatment of Active Duodenal Ulcer % of Patients Healed
 
 |  | Omeprazole 20 mg a.m. (n = 145) | Ranitidine 150 mg b.i.d. (n = 148) |
 | --- | --- | --- |
@@ -33,9 +33,9 @@ Healing occurred significantly faster in patients treated with omeprazole than i
 
 In a foreign multinational randomized, double-blind study of 105 patients with endoscopically documented duodenal ulcer, 40 mg and 20 mg of omeprazole were compared to 150 mg b.i.d. of ranitidine at 2, 4 and 8 weeks.
 At 2 and 4 weeks both doses of omeprazole were statistically superior (per protocol) to ranitidine, but 40 mg was not superior to 20 mg of omeprazole, and at 8 weeks there was no significant difference between any of the active drugs.
-(See Table 9)
+(See Table 8)
 
-Table 9: Treatment of Active Duodenal Ulcer % of Patients Healed
+Table 8: Treatment of Active Duodenal Ulcer % of Patients Healed
 
 |  | Omeprazole |  | Ranitidine |
 | --- | --- | --- | --- |
@@ -48,9 +48,9 @@ Table 9: Treatment of Active Duodenal Ulcer % of Patients Healed
 ## 14.2 Gastric Ulcer
 
 In a U.S. multicenter, double-blind study of omeprazole 40 mg once a day, 20 mg once a day, and placebo in 520 patients with endoscopically diagnosed gastric ulcer, the following results were obtained.
-(See Table 10)
+(See Table 9)
 
-Table 10: Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
+Table 9: Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
 
 |  | Omeprazole 40 mg q.d. (n = 214) | Omeprazole 20 mg q.d. (n = 202) | Placebo (n = 104) |
 | --- | --- | --- | --- |
@@ -63,9 +63,9 @@ For the stratified groups of patients with ulcer size less than or equal to 1 cm
 For patients with ulcer size greater than 1 cm, 40 mg was significantly more effective than 20 mg at 8 weeks.
 
 In a foreign, multinational, double-blind study of 602 patients with endoscopically diagnosed gastric ulcer, omeprazole 40 mg once a day, 20 mg once a day, and ranitidine 150 mg twice a day were evaluated.
-(See Table 11)
+(See Table 10)
 
-Table 11: Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
+Table 10: Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
 
 |  | Omeprazole 40 mg q.d. (n = 187) | Omeprazole 20 mg q.d. (n = 200) | Ranitidine 150 mg b.i.d. (n = 199) |
 | --- | --- | --- | --- |
@@ -77,9 +77,9 @@ Table 11: Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated)
 ## 14.3 Gastroesophageal Reflux Disease (GERD)
 
 Symptomatic GERD - A placebo controlled study was conducted in Scandinavia to compare the efficacy of omeprazole 20 mg or 10 mg once daily for up to 4 weeks in the treatment of heartburn and other symptoms in GERD patients without erosive esophagitis.
-Results are shown in Table 12.
+Results are shown in Table 11.
 
-Table 12: % Successful Symptomatic Outcomea
+Table 11: % Successful Symptomatic Outcomea
 
 |  | Omeprazole 20 mg a.m. | Omeprazole 10 mg a.m. | Placebo a.m. |
 | --- | --- | --- | --- |
@@ -89,9 +89,9 @@ Table 12: % Successful Symptomatic Outcomea
 | * (p < 0.005) versus 10 mg |  |  |  |
 | † (p < 0.005) versus placebo |  |  |  |
 
-Erosive Esophagitis - In a U.S. multicenter double-blind placebo controlled study of 40 mg or 20 mg of omeprazole delayed release capsules in patients with symptoms of GERD and endoscopically diagnosed erosive esophagitis of grade 2 or above, the percentage healing rates (per protocol) were as shown in Table 13.
+Erosive Esophagitis - In a U.S. multicenter double-blind placebo controlled study of 40 mg or 20 mg of omeprazole delayed release capsules in patients with symptoms of GERD and endoscopically diagnosed erosive esophagitis of grade 2 or above, the percentage healing rates (per protocol) were as shown in Table 12.
 
-Table 13: % Patients Healed
+Table 12: % Patients Healed
 
 |  | Omeprazole 40 mg (n = 87) | Omeprazole 20 mg (n = 83) | Placebo (n = 43) |
 | --- | --- | --- | --- |
@@ -109,9 +109,9 @@ In this and five other controlled GERD studies, significantly more patients taki
 ## 14.4 Long Term Maintenance Treatment of Erosive Esophagitis
 
 In a U.S. double-blind, randomized, multicenter, placebo controlled study; two dose regimens of omeprazole were studied in patients with endoscopically confirmed healed esophagitis.
-Results to determine maintenance of healing of erosive esophagitis are shown in Table 14.
+Results to determine maintenance of healing of erosive esophagitis are shown in Table 13.
 
-Table 14: Life Table Analysis
+Table 13: Life Table Analysis
 
 |  | Omeprazole 20 mg q.d. (n = 138) | Omeprazole 20 mg 3 days per week (n = 137) | Placebo (n = 131) |
 | --- | --- | --- | --- |
@@ -119,9 +119,9 @@ Table 14: Life Table Analysis
 | * (p < 0.01) Omeprazole 20 mg once daily versus Omeprazole 20 mg 3 consecutive days per week or placebo. |  |  |  |
 
 In an international multicenter double-blind study, omeprazole 20 mg daily and 10 mg daily were compared to ranitidine 150 mg twice daily in patients with endoscopically confirmed healed esophagitis.
-Table 15 provides the results of this study for maintenance of healing of erosive esophagitis.
+Table 14 provides the results of this study for maintenance of healing of erosive esophagitis.
 
-Table 15: Life Table Analysis
+Table 14: Life Table Analysis
 
 |  | Omeprazole 20 mg q.d. (n = 131) | Omeprazole 10 mg q.d. (n = 133) | Ranitidine 150 mg b.i.d. (n = 128) |
 | --- | --- | --- | --- |
