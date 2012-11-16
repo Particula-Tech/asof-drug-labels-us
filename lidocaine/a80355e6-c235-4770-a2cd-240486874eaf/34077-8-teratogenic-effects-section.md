@@ -1,0 +1,3 @@
+Teratogenic Effects: Pregnancy Category B. Lidocaine was not teratogenic in rats at doses up to 60 mg/kg (360 mg/m2 or <1-fold the SDA), nor in rabbits at doses up to 15 mg/kg (180 mg/m2 or <1-fold the SDA).
+Tetracaine was not teratogenic in rats given subcutaneous doses up to 10 mg/kg (60 mg/m2), nor in rabbits at doses up to 5 mg/kg (60 mg/m2 or <1-fold the SDA), or in rabbits up to 5 mg/kg (60 mg/m2 or <1-fold the SDA).
+PLIAGLIS active components (lidocaine and tetracaine given as a 1:1 eutectic mixture) was not teratogenic in rats (60 mg/m2 or <1-fold the SDA) or rabbits (120 mg/m2 or <1- fold the SDA).

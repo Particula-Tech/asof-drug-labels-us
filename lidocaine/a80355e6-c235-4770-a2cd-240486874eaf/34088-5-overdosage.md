@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Application of 59 g of PLIAGLIS™ over 400 cm2 for up to 120 minutes to adults produces peak plasma concentrations of lidocaine of 220 ng/mL.
+Application of 59 g of PLIAGLIS over 400 cm2 for up to 120 minutes to adults produces peak plasma concentrations of lidocaine of 220 ng/mL.
 Toxic levels of lidocaine (>5000 ng/mL) cause CNS toxicity, including the risk of seizure.
 Signs of CNS toxicity may start at plasma concentrations of lidocaine as low as 1000 ng/mL, and the risk of seizures generally increases with increasing plasma levels.
 Very high levels of lidocaine can cause respiratory arrest, coma, decreases in cardiac output, total peripheral resistance and mean arterial pressure, ventricular arrhythmias and cardiac arrest.
