@@ -7,6 +7,8 @@ NDC 0054-3566-99 Bottle of 118 mL.
 Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
 [See USP Controlled Room Temperature].
 
-10000075/03Revised August 2007
+Rxane Laboratories, Inc. Columbus, Ohio 43216
 
-© RLI, 2007
+10000075/04 Revised September 2012
+
+© RLI, 2012
