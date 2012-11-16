@@ -70,7 +70,7 @@ There were no significant differences between the treatment groups for all-cause
 The proportions of subjects who experienced cardiovascular death were numerically smaller in the atorvastatin calcium 80 mg group (3.3%) than in the placebo group (4.1%).
 The proportions of subjects who experienced non-cardiovascular death were numerically larger in the atorvastatin calcium 80 mg group (5.0%) than in the placebo group (4.0%).
 
-## 6.2 Postintroduction Reports
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of atorvastatin calcium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

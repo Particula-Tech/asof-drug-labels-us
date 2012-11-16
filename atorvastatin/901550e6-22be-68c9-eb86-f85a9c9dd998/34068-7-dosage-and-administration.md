@@ -1,8 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Hyperlipidemia
-
-(Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia (Fredrickson Types IIa and IIb)
+## 2.1 Hyperlipidemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia (Fredrickson Types IIa and IIb)
 
 The recommended starting dose of atorvastatin calcium tablets is 10 or 20 mg once daily.
 Patients who require a large reduction in LDL-C (more than 45%) may be started at 40 mg once daily.
@@ -11,9 +9,7 @@ Atorvastatin calcium tablets can be administered as a single dose at any time of
 The starting dose and maintenance doses of atorvastatin calcium tablets should be individualized according to patient characteristics such as goal of therapy and response (see current NCEP Guidelines).
 After initiation and/or upon titration of atorvastatin calcium tablets, lipid levels should be analyzed within 2 to 4 weeks and dosage adjusted accordingly.
 
-## 2.2 Heterozygous Familial Hypercholesterolemia in Pediatric Patients
-
-(10-17 years of age)
+## 2.2 Heterozygous Familial Hypercholesterolemia in Pediatric Patients (10-17 years of age)
 
 The recommended starting dose of atorvastatin calcium tablets is 10 mg/day; the maximum recommended dose is 20 mg/day (doses greater than 20 mg have not been studied in this patient population).
 Doses should be individualized according to the recommended goal of therapy [see current NCEP Pediatric Panel Guidelines, Clinical Pharmacology (12), and Indications and Usage (1.2)].
