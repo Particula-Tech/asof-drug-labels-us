@@ -104,7 +104,7 @@ There was no significant difference between the treatment groups for the primary
 There were no significant differences between the treatment groups for all-cause mortality: 366 (8.2%) in the atorvastatin calcium 80 mg/day group vs. 374 (8.4%) in the simvastatin 20–40 mg/day group.
 The proportions of subjects who experienced CV or non-CV death were similar for the atorvastatin calcium 80 mg group and the simvastatin 20–40 mg group.
 
-## 14.2 Hyperlipidemia and Mixed Dyslipidemia
+## 14.2 Hyperlipidemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia (Fredrickson Types IIa and IIb)
 
 (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia (Fredrickson Types IIa and IIb)
 
@@ -162,9 +162,7 @@ The impact on clinical outcomes of the differences in lipid-altering effects bet
 Table 7 does not contain data comparing the effects of atorvastatin calcium 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
 The drugs compared in the studies summarized in the table are not necessarily interchangeable.
 
-## 14.3 Hypertriglyceridemia
-
-(FredricksonType IV)
+## 14.3 Hypertriglyceridemia (Fredrickson Type IV)
 
 The response to atorvastatin calcium in 64 patients with isolated hypertriglyceridemia treated across several clinical trials is shown in the table below (Table 8).
 For the atorvastatin calcium-treated patients, median (min, max) baseline TG level was 565 (267–1502).
