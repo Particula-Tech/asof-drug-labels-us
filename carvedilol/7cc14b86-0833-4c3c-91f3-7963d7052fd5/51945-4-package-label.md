@@ -1,4 +1,4 @@
-# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 3.125 mg (100 Tablet Bottle)
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL -3.125 mg (100 Tablet Bottle)
 
 NDC 65862-142-01 Carvedilol Tablets, USP 3.125 mg Pharmacist: Dispense the accompanying Patient Information Leaflet to each patient.
 Rx only 100 Tablets AUROBINDO

@@ -75,7 +75,7 @@ In patients with pheochromocytoma, an α-blocking agent should be initiated prio
 Although carvedilol has both α- and β-blocking pharmacologic activities, there has been no experience with its use in this condition.
 Therefore, caution should be taken in the administration of carvedilol to patients suspected of having pheochromocytoma.
 
-## 5.12 Prinzmetal’s Variant Angina
+## 5.12 Prinzmetal's Variant Angina
 
 Agents with non-selective β-blocking activity may provoke chest pain in patients with Prinzmetal’s variant angina.
 There has been no clinical experience with carvedilol in these patients although the α-blocking activity may prevent such symptoms.
