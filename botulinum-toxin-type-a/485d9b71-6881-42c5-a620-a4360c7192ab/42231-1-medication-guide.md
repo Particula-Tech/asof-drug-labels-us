@@ -1,6 +1,14 @@
-# MEDICATION GUIDE
+MEDICATION GUIDE
 
-BOTOX® BOTOX® Cosmetic (Boe-tox) (onabotulinumtoxinA) for Injection
+BOTOX®
+
+BOTOX® Cosmetic
+
+(Boe-tox)
+
+(onabotulinumtoxinA)
+
+for Injection
 
 Read the Medication Guide that comes with BOTOX or BOTOX Cosmetic before you start using it and each time it is given to you.
 There may be new information.
@@ -101,13 +109,13 @@ Tell your doctor about all your medical conditions, including if you:
 - have weakness of your forehead muscles, such as trouble raising your eyebrows
 - have drooping eyelids
 - have any other change in the way your face normally looks
-- have symptoms of a urinary tract infection (UTI) and are being treated for urinary incontinence.
-  Symptoms of a urinary tract infection may include pain or burning with urination, frequent urination, or fever.
-- have problems emptying your bladder on your own and are being treated for urinary incontinence
-- are pregnant or plan to become pregnant.
-  It is not known if BOTOX or BOTOX Cosmetic can harm your unborn baby.
-- are breast-feeding or plan to breastfeed.
-  It is not known if BOTOX or BOTOX Cosmetic passes into breast milk.
+  - have symptoms of a urinary tract infection (UTI) and are being treated for urinary incontinence.
+    Symptoms of a urinary tract infection may include pain or burning with urination, frequent urination, or fever.
+  - have problems emptying your bladder on your own and are being treated for urinary incontinence
+  - are pregnant or plan to become pregnant.
+    It is not known if BOTOX or BOTOX Cosmetic can harm your unborn baby.
+  - are breast-feeding or plan to breastfeed.
+    It is not known if BOTOX or BOTOX Cosmetic passes into breast milk.
 
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal products.
 Using BOTOX or BOTOX Cosmetic with certain other medicines may cause serious side effects.
@@ -189,9 +197,10 @@ Issued: 08/2011
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2011 Allergan, Inc. ® marks owned by Allergan, Inc. U.S. Patents 5,437,291; 5,714,468; 6,667,041; 6,683,049; 6,896,886; 6,974,578; 7,001,602; 7,429,387; and 7,449,192
+Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. 2525 Dupont Dr. Irvine, CA 92612 © 2012 Allergan, Inc. ® marks owned by Allergan, Inc. Patented.
+See: www.allergan.com/products/patent_notices
 
 Myobloc® is a registered trademark of Solstice Neurosciences, Inc. Dysport® is a registered trademark of Ipsen Biopharm Limited Company.
 Xeomin® is a registered trademark of Merz Pharma GmbH & Co KGaA.
 
-72284US13C
+72284US14
