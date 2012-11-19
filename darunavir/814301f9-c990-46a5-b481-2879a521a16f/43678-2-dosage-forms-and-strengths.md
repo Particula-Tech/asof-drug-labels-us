@@ -23,3 +23,8 @@ Each tablet is debossed with "400MG" on one side and "TMC" on the other side.
 
 PREZISTA (darunavir) 600 mg tablets are supplied as orange, oval-shaped, film-coated tablets containing darunavir ethanolate equivalent to 600 mg of darunavir per tablet.
 Each tablet is debossed with "600MG" on one side and "TMC" on the other side.
+
+## 3.6 PREZISTA 800 mg Tablets
+
+PREZISTA (darunavir) 800 mg tablets are supplied as dark red, oval-shaped, film-coated tablets containing darunavir ethanolate equivalent to 800 mg of darunavir per tablet.
+Each tablet is debossed with "800" on one side and "T" on the other side.

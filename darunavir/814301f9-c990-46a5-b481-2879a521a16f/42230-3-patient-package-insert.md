@@ -158,7 +158,7 @@ How should I take PREZISTA?
   Your child's healthcare provider will tell you how much PREZISTA (tablets or oral suspension) and how much ritonavir (NORVIR®) (capsules, tablets or solution) your child should take.
   Your child should take PREZISTA with ritonavir twice a day with food.
   If your child does not tolerate ritonavir oral solution, ask your child's healthcare provider for advice.
-- If you take too much PREZISTA, call your healthcare provider or go to the nearest hosptial emergency room right away.
+- If you take too much PREZISTA, call your healthcare provider or go to the nearest hospital emergency room right away.
 
 What should I do if I miss a dose?
 
@@ -257,6 +257,9 @@ The film
 
 coating contains: OPADRY® Orange (FD&C Yellow No. 6, polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, titanium dioxide).
 
+PREZISTA 800 mg Tablets: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose, hypromellose.
+The film coating contains: OPADRY® Dark Red (iron oxide red, polyethylene glycol 3350, polyvinyl alcohol-partially hydrolyzed, talc, titanium dioxide).
+
 This Patient Information has been approved by the U.S Food and Drug Administration.
 
 Manufactured by: PREZISTA Oral Suspension Janssen Pharmaceutica, N.V.
@@ -272,4 +275,4 @@ PREZISTA® is a registered trademark of Janssen Pharmaceuticals
 
 © Janssen Pharmaceuticals, Inc. 2006
 
-Revised: June 2012
+Revised: November 2012
