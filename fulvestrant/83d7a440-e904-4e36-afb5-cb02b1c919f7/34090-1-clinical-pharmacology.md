@@ -26,7 +26,7 @@ Absorption:
 The single dose and multiple dose PK parameters for the 500 mg dosing regimen with an additional dose (AD) at Day 15 are reported in Table 3.
 The additional dose of FASLODEX given two weeks after the initial dose allows for steady state concentrations to be reached within the first month of dosing.
 
-Table 3 Summary of fulvestrant pharmacokinetic parameters [gMean (CV%)] in postmenopausal advanced breast cancer patients after intramuscular administration 500 mg + AD dosing regimen
+Table 3: Summary of fulvestrant pharmacokinetic parameters [gMean (CV%)] in postmenopausal advanced breast cancer patients after intramuscular administration 500 mg + AD dosing regimen
 
 |  |  | Cmax (ng/mL) | Cmin (ng/mL) | AUC (ng.hr/mL) |
 | --- | --- | --- | --- | --- |

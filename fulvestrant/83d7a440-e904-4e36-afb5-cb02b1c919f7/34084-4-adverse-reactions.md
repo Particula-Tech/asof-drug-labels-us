@@ -11,7 +11,7 @@ The most frequently reported adverse reactions in the fulvestrant 500 mg group w
 
 Table 1 lists adverse reactions reported with an incidence of 5% or greater, regardless of assessed causality, from the controlled clinical trial Study 1 comparing the administration of FASLODEX 500 mg intramuscularly once a month with FASLODEX 250 mg intramuscularly once a month.
 
-Table 1 Summary of Most Commonly Reported Adverse Reactions in Study 1 (≥ 5% in either treatment group): Safety Population
+Table 1: Summary of Most Commonly Reported Adverse Reactions in Study 1 (≥ 5% in either treatment group): Safety Population
 
 | Body Systemand Adverse Reaction | Number (%) of Patients |  |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ Injection site reactions with mild transient pain and inflammation were seen wit
 
 Table 2 lists adverse reactions reported with an incidence of 5% or greater, regardless of assessed causality, from the two controlled clinical trials comparing the administration of FASLODEX 250 mg intramuscularly once a month with anastrozole 1 mg orally once a day.
 
-Table 2 Combined Data from Studies 2 and 3, Adverse Reactions ≥ 5%
+Table 2: Combined Data from Studies 2 and 3, Adverse Reactions ≥ 5%
 
 | Body System and Adverse ReactionA patient may have more than one adverse reaction. | FASLODEX 250 mg N=423 (%) | Anastrozole 1 mg N=423 (%) |
 | --- | --- | --- |

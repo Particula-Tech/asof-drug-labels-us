@@ -16,27 +16,28 @@ All patients had ER+ advanced breast cancer.
 Approximately 30% of subjects had no measurable disease.
 Approximately 55% of patients had visceral disease.
 
-Results of Study 1 after a minimum follow-up duration of 18 months are summarized in Table 4.
+Results of Study 1 are summarized in Table 4.
 The efficacy of FASLODEX 500 mg was compared to that of FASLODEX 250 mg.
-Figure 4 shows a Kaplan-Meier plot of the Progression Free Survival (PFS) data demonstrating statistically significant superiority of FASLODEX 500 mg vs FASLODEX 250 mg.
-Figure 5 shows a Kaplan-Meier plot of the Overall Survival (OS) data.
-There was no statistically significant difference in OS between the two treatment groups.
+Figure 4 shows a Kaplan-Meier plot of the Progression Free Survival (PFS) data after a minimum follow-up duration of 18 months demonstrating statistically significant superiority of FASLODEX 500 mg vs FASLODEX 250 mg.
+In the initial Overall Survival (OS) analysis after a minimum follow-up duration of 18 months, there was no statistically significant difference in OS between the two treatment groups.
+After a minimum follow-up duration of 50 months, an updated OS analysis was performed.
+Figure 5 shows a Kaplan-Meier plot of the updated OS data.
 
-Table 4 Efficacy Results Study 1: Intent To Treat (ITT) Population
+Table 4: Efficacy Results Study 1: Intent To Treat (ITT) Population
 
-| Endpoint | Fulvestrant 500 mg (N=362) | Fulvestrant 250 mg (N=374) |
+| Endpoint | Fulvestrant 500 mg(N=362) | Fulvestrant 250 mg(N=374) |
 | --- | --- | --- |
-| PFSPFS (Progression Free Survival) = the time between randomization and the earliest of progression or death from any causeMedian (months) | 6.5 | 5.4 |
-| Hazard RatioHazard ratio < 1 favors FASLODEX 500 mg. (95% CICI = Confidence Interval) | 0.80 (0.68-0.94) |  |
+| PFSPFS (Progression Free Survival) = the time between randomization and the earliest of progression or death from any cause. Minimum follow-up duration of 18 months.Median (months) | 6.5 | 5.4 |
+| Hazard RatioHazard ratio < 1 favors FASLODEX 500 mg. (95% CICI=Confidence Interval) | 0.80 (0.68-0.94) |  |
 | p-value | 0.006 |  |
-| OSOS = Overall SurvivalDied | 175 (48.3) | 203 (54.3) |
-| Median OS (months) | 25.1 | 22.8 |
-| Hazard Ratio (95% CI) | 0.84 (0.69-1.03) |  |
-| ORRORR (Objective Response Rate), defined as number (%) of patients with complete response or partial response, was analyzed in the evaluable patients with measureable disease at baseline (fulvestrant 500 mg N=240; fulvestrant 250 mg N=261). (95% CI) | 13.8% (9.7%, 18.8%)(33/240) | 14.6% (10.5%, 19.4%)(38/261) |
+| OSOS=Overall Survival Updated Analysis(% patients who died) | 261 (72.1%) | 293 (78.3%) |
+| Median OS (months) | 26.4 | 22.3 |
+| Hazard Ratio (95% CI) | 0.81 (0.69-0.96) |  |
+| ORRORR (Objective Response Rate), as defined as number (%) of patients with complete response or partial response, was analyzed in the evaluable patients with measureable disease at baseline (fulvestrant 500 mg N=240; fulvestrant 250 mg N=261). Minimum follow-up duration of 18 months.(95% CI) | 13.8% (9.7%, 18.8%)(33/240) | 14.6% (10.5%, 19.4%)38/261) |
 
 Figure 4 Kaplan-Meier PFS: Study 1 ITT Population
 
-Figure 5 Kaplan-Meier OS: Study 1 ITT Population
+Figure 5 Kaplan-Meier OS (minimum follow-up duration of 50 months): Study 1 ITT Population
 
 Comparison of FASLODEX 250 mg and Anastrozole 1 mg in Combined Data (Studies 2 and 3)
 
@@ -60,7 +61,7 @@ The effectiveness of FASLODEX 250 mg was determined by comparing Objective Respo
 The two studies ruled out (by one-sided 97.7% confidence limit) inferiority of FASLODEX to anastrozole of 6.3% and 1.4% in terms of ORR.
 There was no statistically significant difference in overall survival (OS) between the two treatment groups after a follow-up duration of 28.2 months in Study 2 and 24.4 months in Study 3.
 
-Table 5 Efficacy Results
+Table 5: Efficacy Results
 
 | Endpoint | 250 mg (n=206) | 1 mg (n=194) | 250 mg (n=222) | 1 mg (n=229) |
 | --- | --- | --- | --- | --- |
