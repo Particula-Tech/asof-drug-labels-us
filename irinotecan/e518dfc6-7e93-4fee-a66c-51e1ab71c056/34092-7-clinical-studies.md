@@ -25,7 +25,7 @@ Patient characteristics and major efficacy results are shown in Table 10.
 Table 10.
 Combination Dosage Schedule: Study Results
 
-|  | Irinotecan + Bolus 5-FU/LV weekly × 4 every 6 weeks | Bolus 5-FU/LV daily × 5 every 4 weeks | Irinotecan weekly × 4 every 6 weeks | Irinotecan - Infusional 5-FU/LV | Infusional 5-FU/LV |
+|  | Irinotecan + Bolus 5-FU/LV weekly × 4 every 6 weeks | Bolus 5-FU/LV daily × 5 every 4 weeks | Irinotecan weekly × 4 every 6 weeks | Irinotecan + Infusional 5-FU/LV | Infusional 5-FU/LV |
 | --- | --- | --- | --- | --- | --- |
 |  | Study 1 |  |  | Study 2 |  |
 | Number of patients | 231 | 226 | 226 | 198 | 187 |
