@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021724"
+  ],
+  "inn": "pregabalin",
+  "labeler": "U.S. Pharmaceuticals",
+  "package_ndcs": [
+    "63539-013-41",
+    "63539-014-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "pregabalin",
+      "name": "Lyrica"
+    }
+  ],
+  "setid": "ce1a4b9d-3127-4416-8bf2-fee5899fc0ba",
+  "source": "dailymed"
+}
