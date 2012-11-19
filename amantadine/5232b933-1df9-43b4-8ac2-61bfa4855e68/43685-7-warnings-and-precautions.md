@@ -6,24 +6,24 @@ Acute toxicity may be attributable to the anticholinergic effects of amantadine.
 Drug overdose has resulted in cardiac, respiratory, renal or central nervous system toxicity.
 Cardiac dysfunction includes arrhythmia, tachycardia and hypertension (see OVERDOSAGE).
 
-Deaths due to drug accumulation (overdosage) have been reported in patients with renal impairment, who were prescribed higher than recommended doses of Amantadine Hydrochloride Capsules, USP for their level of renal function (see DOSAGE AND ADMINISTRATION; Dosage of Impaired Renal Function and OVERDOSAGE).
+Deaths due to drug accumulation (overdosage) have been reported in patients with renal impairment, who were prescribed higher than recommended doses of Amantadine Hydrochloride Capsules for their level of renal function (see DOSAGE AND ADMINISTRATION; Dosage of Impaired Renal Function and OVERDOSAGE).
 
 Suicide Attempts: Suicide attempts, some of which have been fatal, have been reported in patients treated with amantadine hydrochloride, many of whom received short courses for influenza treatment or prophylaxis.
 The incidence of suicide attempts is not known and the pathophysiologic mechanism is not understood.
 Suicide attempts and suicidal ideation have been reported in patients with and without prior history of psychiatric illness.
 Amantadine hydrochloride can exacerbate mental problems in patients with a history of psychiatric disorders or substance abuse.
 Patients who attempt suicide may exhibit abnormal mental states which include disorientation, confusion, depression, personality changes, agitation, aggressive behavior, hallucinations, paranoia, other psychotic reactions, and somnolence or insomnia.
-Because of the possibility of serious adverse effects, caution should be observed when prescribing Amantadine Hydrochloride Capsules, USP to patients being treated with drugs having CNS effects, or for whom the potential risks outweigh the benefit of treatment.
+Because of the possibility of serious adverse effects, caution should be observed when prescribing Amantadine Hydrochloride Capsules to patients being treated with drugs having CNS effects, or for whom the potential risks outweigh the benefit of treatment.
 
 CNS Effects: Patients with a history of epilepsy or other “seizures” should be observed closely for possible increased seizure activity.
 
-Patients receiving Amantadine Hydrochloride Capsules, USP who note central nervous system effects or blurring of vision should be cautioned against driving or working in situations where alertness and adequate motor coordination are important.
+Patients receiving Amantadine Hydrochloride Capsules who note central nervous system effects or blurring of vision should be cautioned against driving or working in situations where alertness and adequate motor coordination are important.
 
-Other: Patients with a history of congestive heart failure or peripheral edema should be followed closely as there are patients who developed congestive heart failure while receiving Amantadine Hydrochloride Capsules, USP.
+Other: Patients with a history of congestive heart failure or peripheral edema should be followed closely as there are patients who developed congestive heart failure while receiving Amantadine Hydrochloride Capsules.
 
-Patients with Parkinson's disease improving on Amantadine Hydrochloride Capsules, USP should resume normal activities gradually and cautiously, consistent with other medical considerations, such as the presence of osteoporosis or phlebothrombosis.
+Patients with Parkinson's disease improving on Amantadine Hydrochloride Capsules should resume normal activities gradually and cautiously, consistent with other medical considerations, such as the presence of osteoporosis or phlebothrombosis.
 
-Because Amantadine Hydrochloride Capsules, USP have anticholinergic effects and may cause mydriasis, it should not be given to patients with untreated angle closure glaucoma.
+Because Amantadine Hydrochloride Capsules have anticholinergic effects and may cause mydriasis, it should not be given to patients with untreated angle closure glaucoma.
 
 # PRECAUTIONS
 
@@ -59,7 +59,7 @@ Physicians should consider dose reduction or stopping the medication if a patien
 Melanoma: Epidemiological studies have shown that patients with Parkinson's disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
 Whether the increased risk observed was due to Parkinson's disease or other factors, such as drugs used to treat Parkinson's disease, is unclear.
 
-For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using Amantadine Hydrochloride Capsules, USP for any indication.
+For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using Amantadine Hydrochloride Capsules for any indication.
 Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
 
 Other: The dose of amantadine hydrochloride may need careful adjustment in patients with congestive heart failure, peripheral edema, or orthostatic hypotension.

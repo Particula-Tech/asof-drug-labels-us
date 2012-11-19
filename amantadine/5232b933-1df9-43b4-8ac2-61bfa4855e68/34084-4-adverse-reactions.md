@@ -1,10 +1,10 @@
 # ADVERSE REACTIONS
 
-The adverse reactions reported most frequently at the recommended dose of amantadine hydrochloride (5 - 10%) are: nausea, dizziness (lightheadedness), and insomnia.
+The adverse reactions reported most frequently at the recommended dose of amantadine hydrochloride (5 to 10%) are: nausea, dizziness (lightheadedness), and insomnia.
 
-Less frequently (1 - 5%) reported adverse reactions are: depression, anxiety and irritability, hallucinations, confusion, anorexia, dry mouth, constipation, ataxia, livedo reticularis, peripheral edema, orthostatic hypotension, headache, somnolence, nervousness, dream abnormality, agitation, dry nose, diarrhea and fatigue.
+Less frequently (1 to 5%) reported adverse reactions are: depression, anxiety and irritability, hallucinations, confusion, anorexia, dry mouth, constipation, ataxia, livedo reticularis, peripheral edema, orthostatic hypotension, headache, somnolence, nervousness, dream abnormality, agitation, dry nose, diarrhea and fatigue.
 
-Infrequently (0.1 - 1%) occurring adverse reactions are: congestive heart failure, psychosis, urinary retention, dyspnea, skin rash, vomiting, weakness, slurred speech, euphoria, thinking abnormality, amnesia, hyperkinesia, hypertension, decreased libido, and visual disturbance, including punctate subepithelial or other corneal opacity, corneal edema, decreased visual acuity, sensitivity to light, and optic nerve palsy.
+Infrequently (0.1 to 1%) occurring adverse reactions are: congestive heart failure, psychosis, urinary retention, dyspnea, skin rash, vomiting, weakness, slurred speech, euphoria, thinking abnormality, amnesia, hyperkinesia, hypertension, decreased libido, and visual disturbance, including punctate subepithelial or other corneal opacity, corneal edema, decreased visual acuity, sensitivity to light, and optic nerve palsy.
 
 Rare (less than 0.1%) occurring adverse reactions are: instances of convulsion, leukopenia, neutropenia, eczematoid dermatitis, oculogyric episodes, suicidal attempt, suicide, and suicidal ideation (see WARNINGS).
 

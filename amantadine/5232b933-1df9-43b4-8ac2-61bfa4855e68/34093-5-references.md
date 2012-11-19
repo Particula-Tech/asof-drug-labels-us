@@ -16,6 +16,8 @@ J. Med.
 Berkowitz, J. Pediatr.
 95:144, 1979.
 
+Dyazide is a registered trademark of GlaxoSmithKline
+
 Manufactured for UPSHER-SMITH LABORATORIES, INC. Minneapolis, MN 55447 MADE IN CANADA
 
-104853-01 Revised 1011
+104853-01 Revised 0812
