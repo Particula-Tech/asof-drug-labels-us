@@ -132,7 +132,7 @@ Topiramate is cleared by hemodialysis at a rate that is 4 to 6 times greater tha
 Accordingly, a prolonged period of dialysis may cause topiramate concentration to fall below that required to maintain an anti-seizure effect.
 To avoid rapid drops in topiramate plasma concentration during hemodialysis, a supplemental dose of TOPAMAX® may be required.
 
-The actual adjustment should take into account the duration of dialysis period, the clearance rate of the dialysis system being used, and the effective renal clearance of topiramate in the patient being dialyzed [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)]
+The actual adjustment should take into account the duration of dialysis period, the clearance rate of the dialysis system being used, and the effective renal clearance of topiramate in the patient being dialyzed [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 ## 8.9 Women of Childbearing Potential
 

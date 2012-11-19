@@ -197,7 +197,7 @@ Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemic
 In most cases, symptoms and signs abated with discontinuation of either drug.
 This adverse reaction is not due to a pharmacokinetic interaction.
 
-Although TOPAMAX® is not indicated for use in infants/toddlers (1–24 months), VPA clearly produced a dose-related increase in the incidence of treatment-emergent hyperammonemia (above the upper limit of normal, 0% for placebo, 12% for 5 mg/kg/day, 7% for 15 mg/kg/day, 17% for 25 mg/kg/day) in an investigational program.
+Although TOPAMAX® is not indicated for use in infants/toddlers (1–24 months), TOPAMAX® with concomitant VPA clearly produced a dose-related increase in the incidence of treatment-emergent hyperammonemia (above the upper limit of normal, 0% for placebo, 12% for 5 mg/kg/day, 7% for 15 mg/kg/day, 17% for 25 mg/kg/day) in an investigational program.
 Markedly increased, dose-related hyperammonemia (0% for placebo and 5 mg/kg/day, 7% for 15 mg/kg/day, 8% for 25 mg/kg/day) also occurred in these infants/toddlers.
 Dose-related hyperammonemia was similarly observed in a long-term extension trial in these very young, pediatric patients [see Use in Specific Populations (8.4)].
 
