@@ -1,12 +1,12 @@
 {
   "application_numbers": [
-    "ANDA076758",
-    "ANDA078206"
+    "ANDA076758"
   ],
   "inn": "oxycodone",
   "labeler": "Mallinckrodt, Inc.",
   "package_ndcs": [
     "0406-0552-01",
+    "0406-0552-23",
     "0406-0552-62",
     "0406-8515-01",
     "0406-8530-01"
