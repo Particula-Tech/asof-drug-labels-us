@@ -25,6 +25,8 @@ Who should not take MICARDIS?
 
 You should not take MICARDIS tablets if you are allergic (hypersensitive) to the active ingredient (telmisartan) or any of the other ingredients listed at the end of this leaflet.
 
+For patients with diabetes, if you are taking MICARDIS you should not take aliskiren.
+
 What should I tell my doctor before taking MICARDIS tablets?
 
 Before you take MICARDIS tablets, tell your doctor if you:
@@ -43,9 +45,12 @@ Before you take MICARDIS tablets, tell your doctor if you:
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
+For patients with diabetes, if you are taking MICARDIS you should not take aliskiren.
+
 MICARDIS may affect the way other medicines work, and other medicines may affect how MICARDIS works.
 Especially tell your doctor if you take:
 
+- aliskiren
 - digoxin (Lanoxin®, Lanoxicaps®)
 - lithium (Eskalith®, Lithobid®)
 - medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
@@ -170,8 +175,8 @@ Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
 Copyright 2012 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: September 2012
+Revised: October 2012
 
-OT1200TI242012 090340194/13
+OT1200VJ312012 090340194/14
 
-IT12004P 10005385/10
+IT12004R 10005385/11
