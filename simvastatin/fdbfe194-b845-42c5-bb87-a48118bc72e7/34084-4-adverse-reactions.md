@@ -58,6 +58,8 @@ In a 48-week, controlled study in adolescent boys and girls who were at least 1 
 Because the below reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 The following additional adverse reactions have been identified during postapproval use of simvastatin: pruritus, alopecia, a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails), dizziness, muscle cramps, myalgia, pancreatitis, paresthesia, peripheral neuropathy, vomiting, anemia, erectile dysfunction, interstitial lung disease, rhabdomyolysis, hepatitis/jaundice, fatal and non-fatal hepatic failure, and depression.
 
+There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
+
 An apparent hypersensitivity syndrome has been reported rarely which has included some of the following features: anaphylaxis, angioedema, lupus erythematous-like syndrome, polymyalgia rheumatica, dermatomyositis, vasculitis, purpura, thrombocytopenia, leukopenia, hemolytic anemia, positive ANA, ESR increase, eosinophilia, arthritis, arthralgia, urticaria, asthenia, photosensitivity, fever, chills, flushing, malaise, dyspnea, toxic epidermal necrolysis, erythema multiforme, including Stevens-Johnson syndrome.
 
 There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.

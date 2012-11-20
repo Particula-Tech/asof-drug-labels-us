@@ -24,10 +24,13 @@ Patients should be advised of the increased risk of myopathy, including rhabdomy
 If symptoms occur, treatment should be discontinued immediately.
 [See Warnings and Precautions (5.2).]
 
-All patients starting therapy with simvastatin, or whose dose of simvastatin is being increased, should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness.
-Simvastatin therapy should be discontinued immediately if myopathy is diagnosed or suspected.
+There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
+IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
+
+All patients starting therapy with ZOCOR, or whose dose of ZOCOR is being increased, should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing ZOCOR.
+ZOCOR therapy should be discontinued immediately if myopathy is diagnosed or suspected.
 In most cases, muscle symptoms and CK increases resolved when treatment was promptly discontinued.
-Periodic CK determinations may be considered in patients starting therapy with simvastatin or whose dose is being increased, but there is no assurance that such monitoring will prevent myopathy.
+Periodic CK determinations may be considered in patients starting therapy with ZOCOR or whose dose is being increased, but there is no assurance that such monitoring will prevent myopathy.
 
 Many of the patients who have developed rhabdomyolysis on therapy with simvastatin have had complicated medical histories, including renal insufficiency usually as a consequence of long-standing diabetes mellitus.
 Such patients merit closer monitoring.
@@ -39,13 +42,10 @@ Drug Interactions
 The risk of myopathy and rhabdomyolysis is increased by high levels of statin activity in plasma.
 Simvastatin is metabolized by the cytochrome P450 isoform 3A4.
 Certain drugs which inhibit this metabolic pathway can raise the plasma levels of simvastatin and may increase the risk of myopathy.
-These include itraconazole, ketoconazole, and posaconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, boceprevir, telaprevir, the antidepressant nefazodone, or large quantities of grapefruit juice (>1 quart daily).
+These include itraconazole, ketoconazole, posaconazole, voriconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, boceprevir, telaprevir, the antidepressant nefazodone, or grapefruit juice [see Clinical Pharmacology (12.3)].
 Combination of these drugs with simvastatin is contraindicated.
-If treatment with itraconazole, ketoconazole, posaconazole, erythromycin, clarithromycin or telithromycin is unavoidable, therapy with simvastatin must be suspended during the course of treatment.
+If short-term treatment with strong CYP3A4 inhibitors is unavoidable, therapy with simvastatin must be suspended during the course of treatment.
 [See Contraindications (4) and Drug Interactions (7.1).]
-In vitro studies have demonstrated a potential for voriconazole to inhibit the metabolism of simvastatin.
-Adjustment of the simvastatin dose may be needed to reduce the risk of myopathy, including rhabdomyolysis, if voriconazole must be used concomitantly with simvastatin.
-[See Drug Interactions (7.1).]
 
 The combined use of simvastatin with gemfibrozil, cyclosporine, or danazol is contraindicated [see Contraindications (4) and Drug Interactions (7.1 and 7.2)].
 
@@ -53,7 +53,7 @@ Caution should be used when prescribing other fibrates with simvastatin, as thes
 
 Cases of myopathy, including rhabdomyolysis, have been reported with simvastatin coadministered with colchicine, and caution should be exercised when prescribing simvastatin with colchicine [see Drug Interactions (7.7)].
 
-The benefits of the combined use of simvastatin with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (other fibrates or ≥1 g/day of niacin), amiodarone, verapamil, diltiazem, amlodipine, or ranolazine [see Drug Interactions (7.3) and Table 3 in Clinical Pharmacology (12.3)].
+The benefits of the combined use of simvastatin with the following drugs should be carefully weighed against the potential risks of combinations: other lipid-lowering drugs (other fibrates or ≥1 g/day of niacin), amiodarone, dronedarone, verapamil, diltiazem, amlodipine, or ranolazine [see Drug Interactions (7.3) and Table 3 in Clinical Pharmacology (12.3)].
 
 Cases of myopathy, including rhabdomyolysis, have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
 In an ongoing, double-blind, randomized cardiovascular outcomes trial, an independent safety monitoring committee identified that the incidence of myopathy is higher in Chinese compared with non-Chinese patients taking simvastatin 40 mg coadministered with lipid-modifying doses of a niacin-containing product.
@@ -67,10 +67,10 @@ TABLE 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
-| Strong CYP3A4 Inhibitors, e.g.: Itraconazole Ketoconazole Posaconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Boceprevir Telaprevir NefazodoneGemfibrozilCyclosporineDanazol | Contraindicated with simvastatin |
-| Verapamil Diltiazem | Do not exceed 10 mg simvastatin daily |
+| Strong CYP3A4 Inhibitors, e.g.: Itraconazole Ketoconazole Posaconazole Voriconazole Erythromycin Clarithromycin Telithromycin HIV protease inhibitors Boceprevir Telaprevir NefazodoneGemfibrozilCyclosporineDanazol | Contraindicated with simvastatin |
+| Verapamil DiltiazemDronedarone | Do not exceed 10 mg simvastatin daily |
 | AmiodaroneAmlodipineRanolazine | Do not exceed 20 mg simvastatin daily |
-| Grapefruit juice | Avoid large quantities of grapefruit juice (>1 quart daily) |
+| Grapefruit juice | Avoid grapefruit juice |
 
 ## 5.2 Liver Dysfunction
 
