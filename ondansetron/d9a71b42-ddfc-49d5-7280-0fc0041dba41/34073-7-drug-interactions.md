@@ -8,7 +8,7 @@ On the basis of limited available data, no dosage adjustment is recommended for 
 
 ## 7.2 Apomorphine
 
-Based on reports of profound hypotension and loss of consciousness when apomorphine was administered with ondansetron, the concomitant use of apomorphine with ondansetron is contradindicated [see Contraindications (4)].
+Based on reports of profound hypotension and loss of consciousness when apomorphine was administered with ondansetron, the concomitant use of apomorphine with ondansetron is contraindicated [see Contraindications (4)].
 
 ## 7.3 Phenytoin, Carbamazepine, and Rifampin
 

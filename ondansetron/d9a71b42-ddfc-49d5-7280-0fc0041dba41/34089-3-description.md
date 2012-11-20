@@ -8,8 +8,6 @@ The empirical formula is C18H19N3O•HCl•2H2O, representing a molecular weight
 
 Ondansetron HCl is a white to off-white powder that is soluble in water and normal saline.
 
-Each 1 mL of aqueous solution in the 2 mL single-dose vial contains 2 mg of ondansetron as the hydrochloride dihydrate; 9 mg of sodium chloride, USP; and 0.5 mg of citric acid monohydrate, USP and 0.25 mg of sodium citrate dihydrate, USP as buffers in Water for Injection, USP.
-
 Each 1 mL of aqueous solution in the 20 mL multidose vial contains 2 mg of ondansetron as the hydrochloride dihydrate; 8.3 mg of sodium chloride, USP; 0.5 mg of citric acid monohydrate, USP and 0.25 mg of sodium citrate dihydrate, USP as buffers; and 1.2 mg of methylparaben, NF and 0.15 mg of propylparaben, NF as preservatives in Water for Injection, USP.
 
 ZOFRAN Injection is a clear, colorless, nonpyrogenic, sterile solution for intravenous use.

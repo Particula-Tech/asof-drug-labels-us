@@ -86,7 +86,7 @@ Rarely and predominantly with intravenous ondansetron, transient ECG changes inc
 ### General
 
 Flushing.
-Rare cases of hypersensitivity reactions, sometimes severe (e.g., anaphylatic reactions, angioedema, bronchospasm, cardiopulmonary arrest, hypotension, laryngeal edema, laryngospasm, shock, shortness of breath, stridor) have also been reported.
+Rare cases of hypersensitivity reactions, sometimes severe (e.g., anaphylactic reactions, angioedema, bronchospasm, cardiopulmonary arrest, hypotension, laryngeal edema, laryngospasm, shock, shortness of breath, stridor) have also been reported.
 A positive lymphocyte transformation test to ondansetron has been reported, which suggests immunologic sensitivity to ondansetron.
 
 ### Hepatobiliary

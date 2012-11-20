@@ -7,11 +7,10 @@ While ondansetron’s mechanism of action has not been fully characterized, it i
 
 ## 12.2 Pharmacodynamics
 
-The effect of ondansetron on the QTc interval was evaluated in a double blind, randomized, placebo and positive (moxifloxacin) controlled, crossover study in 58 healthy adult men and women.
-ZOFRAN doses included 8 mg and 32 mg infused intravenously over 15 minutes.
-At the highest tested dose of 32 mg, the maximum mean (upper limit of 90% CI) difference in QTcF from placebo after baseline-correction was 19.6 (21.5) msec.
-At the lower tested dose of 8 mg, the maximum mean (upper limit of 90% CI) difference in QTcF from placebo after baseline-correction was 5.8 (7.8) msec.
-In this study, there were no QTcF measurements greater than 480 msec and no QTcF prolongation was greater than 60 msec.
+QTc interval prolongation was studied in a double blind, single intravenous dose, placebo- and positive-controlled, crossover study in 58 healthy subjects.
+The maximum mean (95% upper confidence bound) difference in QTcF from placebo after baseline-correction was 19.5 (21.8) ms and 5.6 (7.4) ms after 15 minute intravenous infusions of 32mg and 8 mg ZOFRAN, respectively.
+A significant exposure-reponse relationship was identified between ondansetron concentration and ΔΔQTcF.
+Using the established exposure-response relationship, 24 mg infused intravenously over 15 min had a mean predicted (95% upper prediction interval) ΔΔQTcF of 14.0 (16.3) ms. In contrast, 16 mg infused intravenously over 15 min using the same model had a mean predicted (95% upper prediction interval) ΔΔQTcF of 9.1 (11.2) ms.
 
 In normal volunteers, single intravenous doses of 0.15 mg/kg of ondansetron had no effect on esophageal motility, gastric motility, lower esophageal sphincter pressure, or small intestinal transit time.
 In another study in six normal male volunteers, a 16-mg dose infused over 5 minutes showed no effect of the drug on cardiac output, heart rate, stroke volume, blood pressure, or electrocardiogram (ECG).
