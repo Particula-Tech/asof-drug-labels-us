@@ -1,4 +1,6 @@
-MEDICATION GUIDE LYRICA (LEER-i-kah) (pregabalin) Capsules and Oral Solution, CV
+MEDICATION GUIDE
+
+LYRICA (LEER-i-kah) (pregabalin) Capsules and Oral Solution, CV
 
 Read this Medication Guide before you start taking LYRICA and each time you get a refill.
 There may be new information.
@@ -16,39 +18,38 @@ LYRICA may cause serious side effects including:
 
 These serious side effects are described below:
 
-1. 1.Serious, even life-threatening, allergic reactions.
-   - Stop taking LYRICA and call your healthcare provider right away if you have any of these signs of a serious allergic reaction:
-     - swelling of your face, mouth, lips, gums, tongue, throat or neck
-     - trouble breathing
-     - rash, hives (raised bumps) or blisters
+- 1.Serious, even life-threatening, allergic reactions.Stop taking LYRICA and call your healthcare provider right away if you have any of these signs of a serious allergic reaction:
+  - swelling of your face, mouth, lips, gums, tongue, throat or neck
+  - trouble breathing
+  - rash, hives (raised bumps) or blisters
 
-1. 2.Like other antiepileptic drugs, LYRICA may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-   - Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
-     - thoughts about suicide or dying
-     - attempts to commit suicide
-     - new or worse depression
-     - new or worse anxiety
-     - feeling agitated or restless
-     - panic attacks
-     - trouble sleeping (insomnia)
-     - new or worse irritability
-     - acting aggressive, being angry, or violent
-     - acting on dangerous impulses
-     - an extreme increase in activity and talking (mania)
-     - other unusual changes in behavior or mood
-   - If you have suicidal thoughts or actions, do not stop LYRICA without first talking to a healthcare provider.
-     - Stopping LYRICA suddenly can cause serious problems.
-     - Suicidal thoughts or actions can be caused by things other than medicines.
-       If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
-   - How can I watch for early symptoms of suicidal thoughts and actions?
-     - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-     - Keep all follow-up visits with your healthcare provider as scheduled.
-     - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+- 2.Like other antiepileptic drugs, LYRICA may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+  Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:If you have suicidal thoughts or actions, do not stop LYRICA without first talking to a healthcare provider.How can I watch for early symptoms of suicidal thoughts and actions?
+  - thoughts about suicide or dying
+  - attempts to commit suicide
+  - new or worse depression
+  - new or worse anxiety
+  - feeling agitated or restless
+  - panic attacks
+  - trouble sleeping (insomnia)
+  - new or worse irritability
+  - acting aggressive, being angry, or violent
+  - acting on dangerous impulses
+  - an extreme increase in activity and talking (mania)
+  - other unusual changes in behavior or mood
+  - Stopping LYRICA suddenly can cause serious problems.
+  - Suicidal thoughts or actions can be caused by things other than medicines.
+    If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
+  - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+  - Keep all follow-up visits with your healthcare provider as scheduled.
+  - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
-1. 3.Swelling of your hands, legs and feet.
-   This swelling can be a serious problem for people with heart problems.
-2. 4.Dizziness and sleepiness.Do not drive a car, work with machines, or do other dangerous activities until you know how LYRICA affects you.
-   Ask your healthcare provider about when it will be okay to do these activities.
+- 3.Swelling of your hands, legs and feet.
+  This swelling can be a serious problem for people with heart problems.
+
+- 4.Dizziness and sleepiness.
+  Do not drive a car, work with machines, or do other dangerous activities until you know how LYRICA affects you.
+  Ask your healthcare provider about when it will be okay to do these activities.
 
 What is LYRICA?
 
@@ -58,13 +59,16 @@ LYRICA is a prescription medicine used in adults, 18 years and older, to treat:
 - pain from damaged nerves (neuropathic pain) that follows healing of shingles
 - partial seizures when taken together with other seizure medicines
 - fibromyalgia (pain all over your body)
+- pain from damaged nerves (neuropathic pain) that follows spinal cord injury
 
 LYRICA has not been studied in children under 18 years of age.
 
 Who Should Not Take LYRICA?
 
 Do not take LYRICA if you are allergic to pregabalin or any of the ingredients in LYRICA.
+
 See "What is the most important information I should know about LYRICA?" for the signs of an allergic reaction.
+
 See the end of this leaflet for a complete list of ingredients in LYRICA.
 
 What should I tell my healthcare provider before taking LYRICA?
@@ -118,7 +122,7 @@ How should I take LYRICA?
 - Your healthcare provider may change your dose.
   Do not change your dose without talking to your healthcare provider.
 - Do not stop taking LYRICA without talking to your healthcare provider.
-  If you stop taking LYRICA suddenly you may have headaches, nausea, diarrhea or trouble sleeping.
+  If you stop taking LYRICA suddenly you may have headaches, nausea, diarrhea, trouble sleeping, increased sweating, or you may feel anxious.
   If you have epilepsy and you stop taking LYRICA suddenly, you may have seizures more often.
   Talk with your healthcare provider about how to stop LYRICA slowly.
 - If you miss a dose, take it as soon as you remember.
@@ -204,9 +208,3 @@ Imprinting ink: shellac, black iron oxide, propylene glycol, potassium hydroxide
 LYRICA oral solution: methylparaben, propylparaben, monobasic sodium phosphate anhydrous, dibasic sodium phosphate anhydrous, sucralose, artificial strawberry #11545 and purified water.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Capsules manufactured by: Pfizer Pharmaceuticals LLC Vega Baja, PR 00694
-
-Oral Solution manufactured by: Pfizer Inc. Kalamazoo, MI 49001
-
-LAB-0299-10.0 06/2011

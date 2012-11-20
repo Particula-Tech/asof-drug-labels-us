@@ -57,4 +57,4 @@ In controlled clinical studies of LYRICA in fibromyalgia, 106 patients were 65 y
 Although the adverse reaction profile was similar between the two age groups, the following neurological adverse reactions were more frequent in patients 65 years of age or older: dizziness, vision blurred, balance disorder, tremor, confusional state, coordination abnormal, and lethargy.
 
 LYRICA is known to be substantially excreted by the kidney, and the risk of toxic reactions to LYRICA may be greater in patients with impaired renal function.
-Because LYRICA is eliminated primarily by renal excretion, adjust the dose for elderly patients with renal impairment [see Dosage and Administration (2.5)].
+Because LYRICA is eliminated primarily by renal excretion, adjust the dose for elderly patients with renal impairment [see Dosage and Administration (2.6)].

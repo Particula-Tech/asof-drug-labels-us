@@ -44,7 +44,7 @@ In preclinical studies, pregabalin (S-enantiomer) did not undergo racemization t
 Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug with a mean elimination half-life of 6.3 hours in subjects with normal renal function.
 Mean renal clearance was estimated to be 67.0 to 80.9 mL/min in young healthy subjects.
 Because pregabalin is not bound to plasma proteins this clearance rate indicates that renal tubular reabsorption is involved.
-Pregabalin elimination is nearly proportional to creatinine clearance (CLcr) [see Dosage and Administration, (2.5)].
+Pregabalin elimination is nearly proportional to creatinine clearance (CLcr) [see Dosage and Administration, (2.6)].
 
 Pharmacokinetics in Special Populations
 
@@ -62,13 +62,13 @@ Pregabalin clearance is nearly proportional to creatinine clearance (CLcr).
 Dosage reduction in patients with renal dysfunction is necessary.
 Pregabalin is effectively removed from plasma by hemodialysis.
 Following a 4-hour hemodialysis treatment, plasma pregabalin concentrations are reduced by approximately 50%.
-For patients on hemodialysis, dosing must be modified [see Dosage and Administration (2.5)].
+For patients on hemodialysis, dosing must be modified [see Dosage and Administration (2.6)].
 
 Elderly
 
 Pregabalin oral clearance tended to decrease with increasing age.
 This decrease in pregabalin oral clearance is consistent with age-related decreases in CLcr.
-Reduction of pregabalin dose may be required in patients who have age-related compromised renal function [see Dosage and Administration, (2.5)].
+Reduction of pregabalin dose may be required in patients who have age-related compromised renal function [see Dosage and Administration, (2.6)].
 
 Pediatric Pharmacokinetics
 
@@ -80,7 +80,7 @@ In Vitro Studies
 
 Pregabalin, at concentrations that were, in general, 10-times those attained in clinical trials, does not inhibit human CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4 enzyme systems.
 In vitro drug interaction studies demonstrate that pregabalin does not induce CYP1A2 or CYP3A4 activity.
-Therefore, an increase in the metabolism of coadministered CYP1A2 substrates (e.g. theophylline, caffeine) or CYP 3A4 substrates (e.g. midazolam, testosterone) is not anticipated.
+Therefore, an increase in the metabolism of coadministered CYP1A2 substrates (e.g. theophylline, caffeine) or CYP 3A4 substrates (e.g., midazolam, testosterone) is not anticipated.
 
 In Vivo Studies
 
@@ -122,5 +122,4 @@ Population pharmacokinetic analyses in patients treated with pregabalin and vari
 | Diuretics | Furosemide |
 | Antiepileptic Drugs | Tiagabine |
 | Concomitant drug has no effect on the pharmacokinetics of pregabalin and pregabalin has no effect on the pharmacokinetics of concomitant drug |  |
-| Antiepileptic Drugs | Carbamazepine, lamotrigine, phenobarbital, |
-|  | phenytoin, topiramate, valproic acid |
+| Antiepileptic Drugs | Carbamazepine, lamotrigine, phenobarbital, phenytoin, topiramate, valproic acid |

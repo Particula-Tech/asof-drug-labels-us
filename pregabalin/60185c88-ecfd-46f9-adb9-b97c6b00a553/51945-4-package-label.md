@@ -125,3 +125,35 @@ CV
 300 mg
 
 Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
+
+PRINCIPAL DISPLAY PANEL - 20 mg Bottle Label
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 0071-1020-01
+
+16 fl oz (473 mL) Rx only
+
+Lyrica® (pregabalin) oral solution CV
+
+20 mg per mL
+
+FOR ORAL USE ONLY
+
+Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017
+
+PRINCIPAL DISPLAY PANEL - 20 mg Bottle Carton
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 0071-1020-01 Rx only
+
+16 fl oz (473 mL)
+
+Lyrica® (pregabalin) oral solution CV
+
+20 mg per mL
+
+FOR ORAL USE ONLY
+
+Pfizer Distributed by Parke-Davis Division of Pfizer Inc, NY, NY 10017

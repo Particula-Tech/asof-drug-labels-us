@@ -36,7 +36,7 @@ For patients with preexisting cardiac conditions, this may increase the risk of 
 ## 17.7 Abrupt or Rapid Discontinuation
 
 Advise patients to take LYRICA as prescribed.
-Abrupt or rapid discontinuation may result in insomnia, nausea, headache, or diarrhea.
+Abrupt or rapid discontinuation may result in insomnia, nausea, headache, anxiety, hyperhidrosis, or diarrhea.
 [see Warnings and Precautions (5.8)].
 
 ## 17.8 Ophthalmological Effects
@@ -51,7 +51,7 @@ Instruct patients to promptly report unexplained muscle pain, tenderness, or wea
 
 ## 17.10 CNS Depressants
 
-Inform patients who require concomitant treatment with central nervous system depressants such as opiates or benzodiazepines that they may experience additive CNS side effects, such as somnolence.
+Inform patients who require concomitant treatment with central nervous system depressants such as opiates or benzodiazepines that they may experience additive CNS side effects, such as somnolence [see Warnings and Precautions (5.6) and Drug Interactions (7)].
 
 ## 17.11 Alcohol
 
@@ -75,9 +75,3 @@ The clinical significance of this finding is uncertain [see Nonclinical Toxicolo
 
 Instruct diabetic patients to pay particular attention to skin integrity while being treated with LYRICA.
 Some animals treated with pregabalin developed skin ulcerations, although no increased incidence of skin lesions associated with LYRICA was observed in clinical trials [see Nonclinical Toxicology (13.2)].
-
-Capsules manufactured by: Pfizer Pharmaceuticals LLC Vega Baja, PR 00694
-
-Oral Solution manufactured by: Pfizer Inc Kalamazoo, MI 49001
-
-LAB-0294-21.0 6/2011

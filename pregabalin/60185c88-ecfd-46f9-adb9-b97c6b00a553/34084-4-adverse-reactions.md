@@ -10,7 +10,7 @@ Approximately 5000 patients were treated for 6 months or more, over 3100 patient
 Adverse Reactions Most Commonly Leading to Discontinuation in All Premarketing Controlled Clinical Studies
 
 In premarketing controlled trials of all populations combined, 14% of patients treated with LYRICA and 7% of patients treated with placebo discontinued prematurely due to adverse reactions.
-In the LYRICA treatment group, the adverse reactions most frequently leading to discontinuation were dizziness (4%) and somnolence (3%).
+In the LYRICA treatment group, the adverse reactions most frequently leading to discontinuation were dizziness (4%) and somnolence (4%).
 In the placebo group, 1% of patients withdrew due to dizziness and <1% withdrew due to somnolence.
 Other adverse reactions that led to discontinuation from controlled trials more frequently in the LYRICA group compared to the placebo group were ataxia, confusion, asthenia, thinking abnormal, blurred vision, incoordination, and peripheral edema (1% each).
 
@@ -33,10 +33,12 @@ Most Common Adverse Reactions
 Table 3 lists all adverse reactions, regardless of causality, occurring in ≥1% of patients with neuropathic pain associated with diabetic neuropathy in the combined LYRICA group for which the incidence was greater in this combined LYRICA group than in the placebo group.
 A majority of pregabalin-treated patients in clinical studies had adverse reactions with a maximum intensity of "mild" or "moderate".
 
-Table 3 Treatment-emergent adverse reaction incidence in controlled trials in Neuropathic Pain Associated with Diabetic Peripheral Neuropathy (Events in at least 1% of all LYRICA-treated patients and at least numerically more in all LYRICA than in the placebo group)
+Table 3.
+Treatment-emergent adverse reaction incidence in controlled trials in neuropathic pain associated with diabetic peripheral neuropathy (events in at least 1% of all LYRICA-treated patients and at least numerically more in all LYRICA than in the placebo group)
 
-| Body system - Preferred term | 75 mg/day [N=77] % | 150 mg/day [N=212] % | 300 mg/day [N=321] % | 600 mg/day [N=369] % | All PGBPGB: pregabalin [N=979] % | Placebo [N=459] % |
+|  | [N=77] % | [N=212] % | [N=321] % | [N=369] % | [N=979] % | [N=459] % |
 | --- | --- | --- | --- | --- | --- | --- |
+| Body system Preferred term | 75 mg/day | 150 mg/day | 300 mg/day | 600 mg/day | All PGBPGB: pregabalin | Placebo |
 | Body as a whole |  |  |  |  |  |  |
 | Asthenia | 4 | 2 | 4 | 7 | 5 | 2 |
 | Accidental injury | 5 | 2 | 2 | 6 | 4 | 3 |
@@ -88,10 +90,12 @@ In addition, an event is included, even if the incidence in the all LYRICA group
 A majority of pregabalin-treated patients in clinical studies had adverse reactions with a maximum intensity of "mild" or "moderate".
 Overall, 12.4% of all pregabalin-treated patients and 9.0% of all placebo-treated patients had at least one severe event while 8% of pregabalin-treated patients and 4.3% of placebo-treated patients had at least one severe treatment-related adverse event.
 
-Table 4 Treatment-emergent adverse reaction incidence in controlled trials in Neuropathic Pain Associated with Postherpetic Neuralgia (Events in at least 1% of all LYRICA-treated patients and at least numerically more in all LYRICA than in the placebo group)
+Table 4.
+Treatment-emergent adverse reaction incidence in controlled trials in neuropathic pain associated with postherpetic neuralgia (events in at least 1% of all LYRICA-treated patients and at least numerically more in all LYRICA than in the placebo group)
 
-| Body system - Preferred term | 75 mg/d [N=84] % | 150 mg/d [N=302] % | 300 mg/d [N=312] % | 600 mg/d [N=154] % | All PGBPGB: pregabalin [N=852] % | Placebo [N=398] % |
+|  | [N=84] % | [N=302] % | [N=312] % | [N=154] % | [N=852] % | [N=398] % |
 | --- | --- | --- | --- | --- | --- | --- |
+| Body system Preferred term | 75 mg/d | 150 mg/d | 300 mg/d | 600 mg/d | All PGBPGB: pregabalin | Placebo |
 | Body as a whole |  |  |  |  |  |  |
 | Infection | 14 | 8 | 6 | 3 | 7 | 4 |
 | Headache | 5 | 9 | 5 | 8 | 7 | 5 |
@@ -148,12 +152,10 @@ Because patients were also treated with 1 to 3 other AEDs, it is not possible to
 A majority of pregabalin-treated patients in clinical studies had adverse reactions with a maximum intensity of "mild" or "moderate".
 
 Table 5.
-Dose-related treatment-emergent adverse reaction incidence in controlled trials in adjunctive therapy for adult patients with partial onset seizures (Events in at least 2% of all LYRICA-treated patients and the adverse reaction in the 600 mg/day group was ≥2% the rate in both the placebo and 150 mg/day groups
+Dose-related treatment-emergent adverse reaction incidence in controlled trials in adjunctive therapy for adult patients with partial onset seizures (events in at least 2% of all LYRICA-treated patients and the adverse reaction in the 600 mg/day group was ≥2% the rate in both the placebo and 150 mg/day groups)
 
-|  | % | % | % | % | % |
+| Body System Preferred Term | 150 mg/d [N = 185] % | 300 mg/d [N = 90] % | 600 mg/d [N = 395] % | All PGBPGB: pregabalin [N = 670]Excludes patients who received the 50 mg dose in Study E1. % | Placebo [N = 294] % |
 | --- | --- | --- | --- | --- | --- |
-| Body System | 150 mg/d | 300 mg/d | 600 mg/d | All PGBPGB: pregabalin | Placebo |
-| - Preferred Term | [N = 185] | [N = 90] | [N = 395] | [N = 670]Excludes patients who received the 50 mg dose in Study E1. | [N = 294] |
 | Body as a Whole |  |  |  |  |  |
 | Accidental Injury | 7 | 11 | 10 | 9 | 5 |
 | Pain | 3 | 2 | 5 | 4 | 3 |
@@ -197,10 +199,12 @@ Most Common Adverse Reactions
 Table 6 lists all adverse reactions, regardless of causality, occurring in ≥2% of patients with fibromyalgia in the 'all pregabalin' treatment group for which the incidence was greater than in the placebo treatment group.
 A majority of pregabalin-treated patients in clinical studies experienced adverse reactions with a maximum intensity of "mild" or "moderate".
 
-Table 6 Treatment-emergent adverse reaction incidence in controlled trials in Fibromyalgia (Events in at least 2% of all LYRICA-treated patients and occurring more frequently in the all pregabalin-group than in the placebo treatment group)
+Table 6.
+Treatment-emergent adverse reaction incidence in controlled trials in fibromyalgia (events) in at least 2% of all LYRICA-treated patients and occurring more frequently in the all pregabalin-group than in the placebo treatment group)
 
-| System Organ Class - Preferred term | 150 mg/d [N=132] % | 300 mg/d [N=502] % | 450 mg/d [N=505] % | 600 mg/d [N=378] % | All PGBPGB: pregabalin [N=1517] % | Placebo [N=505] % |
+|  | [N=132] % | [N=502] % | [N=505] % | [N=378] % | [N=1517] % | [N=505] % |
 | --- | --- | --- | --- | --- | --- | --- |
+| System Organ Class Preferred term | 150 mg/d | 300 mg/d | 450 mg/d | 600 mg/d | All PGBPGB: pregabalin | Placebo |
 | Ear and Labyrinth Disorders |  |  |  |  |  |  |
 | Vertigo | 2 | 2 | 2 | 1 | 2 | 0 |
 | Eye Disorders |  |  |  |  |  |  |
@@ -249,6 +253,69 @@ Table 6 Treatment-emergent adverse reaction incidence in controlled trials in Fi
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |
 | Pharyngolaryngeal pain | 2 | 1 | 3 | 3 | 2 | 2 |
 
+Controlled Studies in Neuropathic Pain Associated with Spinal Cord Injury
+
+Adverse Reactions Leading to Discontinuation
+
+In clinical trials of patients with neuropathic pain associated with spinal cord injury, 13% of patients treated with pregabalin and 10% of patients treated with placebo discontinued prematurely due to adverse reactions.
+In the pregabalin treatment group, the most common reasons for discontinuation due to adverse reactions were somnolence (3%) and edema (2%).
+In comparison, none of the placebo-treated patients withdrew due to somnolence and edema.
+Other reasons for discontinuation from the trials, occurring with greater frequency in the pregabalin treatment group than in the placebo treatment group, were fatigue and balance disorder.
+Each of these adverse reactions led to withdrawal in less than 2% of patients.
+
+Most Common Adverse Reactions
+
+Table 7 lists all adverse reactions, regardless of causality, occurring in ≥2% of patients with neuropathic pain associated with spinal cord injury in the controlled trials.
+A majority of pregabalin-treated patients in clinical studies experienced adverse reactions with a maximum intensity of "mild" or "moderate".
+
+Table 7.
+Treatment-emergent adverse reaction incidence in controlled trials in neuropathic pain associated with spinal cord injury (events in at least 2% of all LYRICA-treated patients and occurring more frequently in the all pregabalin-group than in the placebo treatment group)
+
+| % | % |  |
+| --- | --- | --- |
+| System Organ Class Preferred term | PGBPGB: Pregabalin (N=182) | Placebo (N=174) |
+| Ear and labryrinth disorders |  |  |
+| Vertigo | 2.7 | 1.1 |
+| Eye disorders |  |  |
+| Vision blurred | 6.6 | 1.1 |
+| Gastrointestinal disorders |  |  |
+| Dry mouth | 11.0 | 2.9 |
+| Constipation | 8.2 | 5.7 |
+| Nausea | 4.9 | 4.0 |
+| Vomiting | 2.7 | 1.1 |
+| General disorders and administration site conditions |  |  |
+| Fatigue | 11.0 | 4.0 |
+| Edema peripheral | 10.4 | 5.2 |
+| Edema | 8.2 | 1.1 |
+| Pain | 3.3 | 1.1 |
+| Infections and infestations |  |  |
+| Nasopharyngitis | 8.2 | 4.6 |
+| Investigations |  |  |
+| Weight increased | 3.3 | 1.1 |
+| Blood creatine phosphokinase increased | 2.7 | 0 |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Muscular weakness | 4.9 | 1.7 |
+| Pain in extremity | 3.3 | 2.3 |
+| Neck pain | 2.7 | 1.1 |
+| Back pain | 2.2 | 1.7 |
+| Joint swelling | 2.2 | 0 |
+| Nervous system disorders |  |  |
+| Somnolence | 35.7 | 11.5 |
+| Dizziness | 20.9 | 6.9 |
+| Disturbance in attention | 3.8 | 0 |
+| Memory impairment | 3.3 | 1.1 |
+| Paresthesia | 2.2 | 0.6 |
+| Psychiatric disorders |  |  |
+| Insomnia | 3.8 | 2.9 |
+| Euphoric mood | 2.2 | 0.6 |
+| Renal and urinary disorders |  |  |
+| Urinary incontinence | 2.7 | 1.1 |
+| Skin and subcutaneous tissue disorders |  |  |
+| Decubitus ulcer | 2.7 | 1.1 |
+| Vascular disorders |  |  |
+| Hypertension | 2.2 | 1.1 |
+| Hypotension | 2.2 | 0 |
+
 Other Adverse Reactions Observed During the Clinical Studies of LYRICA
 
 Following is a list of treatment-emergent adverse reactions reported by patients treated with LYRICA during all clinical trials.
@@ -269,7 +336,7 @@ Metabolic and Nutritional Disorders – Rare: Glucose Tolerance Decreased, Urate
 
 Musculoskeletal System – Frequent: Arthralgia, Leg cramps, Myalgia, Myasthenia; Infrequent: Arthrosis; Rare: Chondrodystrophy, Generalized Spasm
 
-Nervous System – Frequent: Anxiety, Depersonalization, Hypertonia, Hypesthesia, Libido decreased, Nystagmus, Paresthesia, Stupor, Twitching; Infrequent: Abnormal dreams, Agitation, Apathy, Aphasia, Circumoral paresthesia, Dysarthria, Hallucinations, Hostility, Hyperalgesia, Hyperesthesia, Hyperkinesia, Hypokinesia, Hypotonia, Libido increased, Myoclonus, Neuralgia, Rare: Addiction, Cerebellar syndrome, Cogwheel rigidity, Coma, Delirium, Delusions, Dysautonomia, Dyskinesia, Dystonia, Encephalopathy, Extrapyramidal syndrome, Guillain-Barré syndrome, Hypalgesia, Intracranial hypertension, Manic reaction, Paranoid reaction, Peripheral neuritis, Personality disorder, Psychotic depression, Schizophrenic reaction, Sleep disorder, Torticollis, Trismus
+Nervous System – Frequent: Anxiety, Depersonalization, Hypertonia, Hypesthesia, Libido decreased, Nystagmus, Paresthesia, Sedation, Stupor, Twitching; Infrequent: Abnormal dreams, Agitation, Apathy, Aphasia, Circumoral paresthesia, Dysarthria, Hallucinations, Hostility, Hyperalgesia, Hyperesthesia, Hyperkinesia, Hypokinesia, Hypotonia, Libido increased, Myoclonus, Neuralgia, Rare: Addiction, Cerebellar syndrome, Cogwheel rigidity, Coma, Delirium, Delusions, Dysautonomia, Dyskinesia, Dystonia, Encephalopathy, Extrapyramidal syndrome, Guillain-Barré syndrome, Hypalgesia, Intracranial hypertension, Manic reaction, Paranoid reaction, Peripheral neuritis, Personality disorder, Psychotic depression, Schizophrenic reaction, Sleep disorder, Torticollis, Trismus
 
 Respiratory System – Rare: Apnea, Atelectasis, Bronchiolitis, Hiccup, Laryngismus, Lung edema, Lung fibrosis, Yawn
 
@@ -294,3 +361,6 @@ Nervous System Disorders – Headache
 Gastrointestinal Disorders – Nausea, Diarrhea
 
 Reproductive System and Breast Disorders – Gynecomastia, Breast Enlargement
+
+In addition, there are post-marketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when LYRICA was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
+There are also post-marketing reports of respiratory failure and coma in patients taking pregabalin and other CNS depressant medications.

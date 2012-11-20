@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Neuropathic pain associated with diabetic peripheral neuropathy
+## 14.1 Neuropathic Pain Associated with Diabetic Peripheral Neuropathy
 
 The efficacy of the maximum recommended dose of LYRICA for the management of neuropathic pain associated with diabetic peripheral neuropathy was established in three double-blind, placebo-controlled, multicenter studies with three times a day dosing, two of which studied the maximum recommended dose.
 Patients were enrolled with either Type 1 or Type 2 diabetes mellitus and a diagnosis of painful distal symmetrical sensorimotor polyneuropathy for 1 to 5 years.
@@ -13,21 +13,21 @@ Patients recorded their pain daily in a diary.
 Study DPN 1: This 5-week study compared LYRICA 25, 100, or 200 mg three times a day with placebo.
 Treatment with LYRICA 100 and 200 mg three times a day statistically significantly improved the endpoint mean pain score and increased the proportion of patients with at least a 50% reduction in pain score from baseline.
 There was no evidence of a greater effect on pain scores of the 200 mg three times a day dose than the 100 mg three times a day dose, but there was evidence of dose dependent adverse reactions [see Adverse Reactions (6.1)].
-For a range of degrees of improvement in pain from baseline to study endpoint, Figure 1 shows the fraction of patients achieving that degree of improvement.
+For a range of levels of improvement in pain intensity from baseline to study endpoint, Figure 1 shows the fraction of patients achieving that level of improvement.
 The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
 
-Figure 1: Patients Achieving Various Levels of Pain Relief – Study DPN 1
+Figure 1: Patients Achieving Various Levels of Improvement in Pain Intensity – Study DPN 1
 
 Study DPN 2: This 8-week study compared LYRICA 100 mg three times a day with placebo.
 Treatment with LYRICA 100 mg three times a day statistically significantly improved the endpoint mean pain score and increased the proportion of patients with at least a 50% reduction in pain score from baseline.
-For various degrees of improvement in pain from baseline to study endpoint, Figure 2 shows the fraction of patients achieving that degree of improvement.
+For various levels of improvement in pain intensity from baseline to study endpoint, Figure 2 shows the fraction of patients achieving that level of improvement.
 The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
 
-Figure 2: Patients Achieving Various Levels of Pain Relief – Study DPN 2
+Figure 2: Patients Achieving Various Levels of Improvement in Pain Intensity– Study DPN 2
 
 ## 14.2 Postherpetic Neuralgia
 
@@ -43,32 +43,32 @@ Patients with creatinine clearance (CLcr) between 30 to 60 mL/min were randomize
 Patients with creatinine clearance greater than 60 mL/min were randomized to 75 mg, 150 mg, 300 mg or placebo twice daily.
 In patients with creatinine clearance greater than 60 mL/min treatment with all doses of LYRICA statistically significantly improved the endpoint mean pain score and increased the proportion of patients with at least a 50% reduction in pain score from baseline.
 Despite differences in dosing based on renal function, patients with creatinine clearance between 30 to 60 mL/min tolerated LYRICA less well than patients with creatinine clearance greater than 60 mL/min as evidenced by higher rates of discontinuation due to adverse reactions.
-For various degrees of improvement in pain from baseline to study endpoint, Figure 3 shows the fraction of patients achieving that degree of improvement.
+For various levels of improvement in pain intensity from baseline to study endpoint, Figure 3 shows the fraction of patients achieving that level of improvement.
 The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
 
-Figure 3: Patients Achieving Various Levels of Pain Relief – Study PHN 1
+Figure 3: Patients Achieving Various Levels of Improvement in Pain Intensity– Study PHN 1
 
 Study PHN 2: This 8-week study compared LYRICA 100 or 200 mg three times a day with placebo, with doses assigned based on creatinine clearance.
 Patients with creatinine clearance between 30 to 60 mL/min were treated with 100 mg three times a day, and patients with creatinine clearance greater than 60 mL/min were treated with 200 mg three times daily.
 Treatment with LYRICA statistically significantly improved the endpoint mean pain score and increased the proportion of patients with at least a 50% reduction in pain score from baseline.
-For various degrees of improvement in pain from baseline to study endpoint, Figure 4 shows the fraction of patients achieving that degree of improvement.
+For various levels of improvement in pain intensity from baseline to study endpoint, Figure 4 shows the fraction of patients achieving those levels of improvement.
 The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
 
-Figure 4: Patients Achieving Various Levels of Pain Relief – Study PHN 2
+Figure 4: Patients Achieving Various Levels of Improvement in Pain Intensity – Study PHN 2
 
 Study PHN 3: This 8-week study compared LYRICA 50 or 100 mg three times a day with placebo with doses assigned regardless of creatinine clearance.
 Treatment with LYRICA 50 and 100 mg three times a day statistically significantly improved the endpoint mean pain score and increased the proportion of patients with at least a 50% reduction in pain score from baseline.
 Patients with creatinine clearance between 30 to 60 mL/min tolerated LYRICA less well than patients with creatinine clearance greater than 60 mL/min as evidenced by markedly higher rates of discontinuation due to adverse reactions.
-For various degrees of improvement in pain from baseline to study endpoint, Figure 5 shows the fraction of patients achieving that degree of improvement.
+For various levels of improvement in pain intensity from baseline to study endpoint, Figure 5 shows the fraction of patients achieving that level of improvement.
 The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
 
-Figure 5: Patients Achieving Various Levels of Pain Relief – Study PHN 3
+Figure 5: Patients Achieving Various Levels of Improvement in Pain Intensity– Study PHN 3
 
 ## 14.3 Adjunctive Therapy for Adult Patients with Partial Onset Seizures
 
@@ -80,9 +80,10 @@ The mean duration of epilepsy was 25 years in these 3 studies and the mean and m
 Approximately half of the patients were taking 2 concurrent AEDs at baseline.
 Among the LYRICA-treated patients, 80% completed the double-blind phase of the studies.
 
-Table 7 shows median baseline seizure rates and median percent reduction in seizure frequency by dose.
+Table 8 shows median baseline seizure rates and median percent reduction in seizure frequency by dose.
 
-Table 7: Seizure Response in Controlled, Add-On Epilepsy Studies
+Table 8.
+Seizure Response in Controlled, Add-On Epilepsy Studies
 
 | Daily Dose of Pregabalin | Dosing Regimen | N | Baseline Seizure Frequency/mo | Median % Change from Baseline | p-value, vs. placebo |
 | --- | --- | --- | --- | --- | --- |
@@ -110,11 +111,9 @@ While the three times a day dosing group in Study E3 performed numerically bette
 A secondary outcome measure included the responder rate (proportion of patients with ≥50% reduction from baseline in partial seizure frequency).
 The following figure displays responder rate by dose for two of the studies.
 
-Figure 6.
-Responder rate by add-on epilepsy study
+Figure 6: Responder rate by add-on epilepsy study
 
-Figure 7.
-Seizure Reduction by Dose (All Partial Onset Seizures) for Studies E1, E2, and E3
+Figure 7: Seizure Reduction by Dose (All Partial Onset Seizures) for Studies E1, E2, and E3
 
 Subset evaluations of the antiseizure efficacy of LYRICA showed no clinically important differences as a function of age, gender, or race.
 
@@ -132,21 +131,22 @@ Responders to placebo in an initial one-week run-in phase were not randomized in
 A total of 64% of patients randomized to LYRICA completed the study.
 There was no evidence of a greater effect on pain scores of the 600 mg daily dose than the 450 mg daily dose, but there was evidence of dose-dependent adverse reactions [see Adverse Reactions (6.1)].
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
-The results are summarized in Figure 8 and Table 8.
+The results are summarized in Figure 8 and Table 9.
 
-For various degrees of improvement in pain from baseline to study endpoint, Figure 8 shows the fraction of patients achieving that degree of improvement.
+For various levels of improvement in pain intensity from baseline to study endpoint, Figure 8 shows the fraction of patients achieving that level of improvement.
 The figure is cumulative.
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
 
-Figure 8: Patients Achieving Various Levels of Pain Relief – Fibromyalgia Study F1
+Figure 8: Patients Achieving Various Levels of Improvement in Pain Intensity – Fibromyalgia Study F1
 
-Table 8: Patient Global Response in Fibromyalgia Study F1
+Table 9.
+Patient Global Response in Fibromyalgia Study F1
 
-| Placebo | 47.6 | (40.0,55.2) |
+| Treatment Group (mg/day) | % Any Improvement | 95% CI |
 | --- | --- | --- |
 | Patient Global Impression of Change |  |  |
-| Treatment Group (mg/day) | % Any Improvement | 95% CI |
+| Placebo | 47.6 | (40.0,55.2) |
 | PGB 300 | 68.1 | (60.9, 75.3) |
 | PGB 450 | 77.8 | (71.5, 84.0) |
 | PGB 600 | 66.1 | (59.1, 73.1) |
@@ -166,3 +166,30 @@ Fifty-three percent of the pregabalin-treated subjects compared to 33% of placeb
 Treatment with LYRICA also resulted in a longer time to loss of response based on the FIQTime to worsening of the FIQ was defined as the time to a 1-point increase from double-blind baseline in each of the subscales, and a 5-point increase from double-blind baseline evaluation for the FIQ total score., and longer time to loss of overall assessment of patient status, as measured by the PGICTime to PGIC lack of improvement was defined as time to PGIC assessments indicating less improvement than "much improvement.".
 
 Figure 9: Time to Loss of Therapeutic Response, Fibromyalgia Study F2 (Kaplan-Meier Analysis)
+
+## 14.5 Management of Neuropathic Pain Associated with Spinal Cord Injury
+
+The efficacy of LYRICA for the management of neuropathic pain associated with spinal cord injury was established in two double-blind, placebo-controlled, multicenter studies.
+Patients were enrolled with neuropathic pain associated with spinal cord injury that persisted continuously for at least three months or with relapses and remissions for at least six months.
+A total of 63% of patients completed study 1 and 84% completed study 2.
+The patients had a minimum mean baseline pain score of ≥4 on an 11-point numerical pain rating scale ranging from 0 (no pain) to 10 (worst possible pain).
+The baseline mean pain scores across the two studies ranged from 6.5 to 6.7.
+
+Patients were allowed to take opioids, non-opioid analgesics, antiepileptic drugs, muscle relaxants, and antidepressant drugs if the dose was stable for 30 days prior to screening.
+Patients were allowed to take acetaminophen and nonsteroidal anti-inflammatory drugs during the studies.
+
+Study SCI 1: This 12-week, randomized, double-blind, parallel-group, multicenter, flexible dose (150–600 mg/day) study compared pregabalin with placebo.
+The 12-week study consisted of a 3-week dose adjustment phase and a 9-week dose maintenance phase.
+Treatment with LYRICA 150–600 mg/day statistically significantly improved the endpoint weekly mean pain score, and increased the proportion of patients with at least a 30% and 50% reduction in pain score from baseline.
+The fraction of patients achieving various levels of improvement in pain intensity from baseline to Week 12 is presented in Figure 10.
+Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.
+
+Figure 10: Patients Achieving Various Levels of Improvement in Pain Intensity – Study SCI 1
+
+Study SCI 2: This 16-week, randomized, double-blind, placebo-controlled, parallel-group, multicenter, flexible dose (150–600 mg/day, in increments of 150 mg) study compared the efficacy, safety and tolerability of pregabalin with placebo.
+The 16-week study consisted of a 4-week dose adjustment phase and a 12-week dose maintenance phase.
+Treatment with LYRICA statistically significantly improved the endpoint weekly mean pain score, and increased the proportion of patients with at least a 30% and 50% reduction in pain score from baseline.
+The fraction of patients achieving various levels of improvement in pain intensity from baseline to Week 16 is presented in Figure 11.
+Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.
+
+Figure 11: Patients Achieving Various Levels of Improvement in Pain Intensity – Study SCI 2

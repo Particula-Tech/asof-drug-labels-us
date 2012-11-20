@@ -35,11 +35,12 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
-The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+The risk did not vary substantially by age (5–100 years) in the clinical trials analyzed.
 
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 2 Risk by indication for antiepileptic drugs in the pooled analysis
+Table 2.
+Risk by indication for antiepileptic drugs in the pooled analysis
 
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -80,10 +81,10 @@ Because there are limited data on congestive heart failure patients with New Yor
 LYRICA may cause dizziness and somnolence.
 Inform patients that LYRICA-related dizziness and somnolence may impair their ability to perform tasks such as driving or operating machinery [see Patient Counseling Information (17.5)].
 
-In the LYRICA controlled trials, dizziness was experienced by 31% of LYRICA-treated patients compared to 9% of placebo-treated patients; somnolence was experienced by 22% of LYRICA-treated patients compared to 7% of placebo-treated patients.
+In the LYRICA controlled trials, dizziness was experienced by 30% of LYRICA-treated patients compared to 8% of placebo-treated patients; somnolence was experienced by 23% of LYRICA-treated patients compared to 8% of placebo-treated patients.
 Dizziness and somnolence generally began shortly after the initiation of LYRICA therapy and occurred more frequently at higher doses.
 Dizziness and somnolence were the adverse reactions most frequently leading to withdrawal (4% each) from controlled studies.
-In LYRICA-treated patients reporting these adverse reactions in short-term, controlled studies, dizziness persisted until the last dose in 30% and somnolence persisted until the last dose in 42% of patients.
+In LYRICA-treated patients reporting these adverse reactions in short-term, controlled studies, dizziness persisted until the last dose in 30% and somnolence persisted until the last dose in 42% of patients [see Drug Interactions (7)].
 
 ## 5.7 Weight Gain
 
@@ -102,7 +103,7 @@ While the effects of LYRICA-associated weight gain on glycemic control have not 
 
 ## 5.8 Abrupt or Rapid Discontinuation
 
-Following abrupt or rapid discontinuation of LYRICA, some patients reported symptoms including insomnia, nausea, headache, and diarrhea.
+Following abrupt or rapid discontinuation of LYRICA, some patients reported symptoms including insomnia, nausea, headache, anxiety, hyperhidrosis, and diarrhea.
 Taper LYRICA gradually over a minimum of 1 week rather than discontinuing the drug abruptly.
 
 ## 5.9 Tumorigenic Potential
