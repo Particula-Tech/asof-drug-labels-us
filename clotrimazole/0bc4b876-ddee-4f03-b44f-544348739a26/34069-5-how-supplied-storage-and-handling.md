@@ -13,6 +13,6 @@ Clotrimazole Troche (clotrimazole lozenge), 10 mg
 Store below 86°F (30°C).
 Avoid freezing.
 
-10001777/04 Revised January 2012
+10001777/05 Revised October 2012
 
 © RLI, 2012
