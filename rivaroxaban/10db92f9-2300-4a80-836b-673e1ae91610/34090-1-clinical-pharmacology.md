@@ -16,11 +16,10 @@ Absorption
 
 The absolute bioavailability of rivaroxaban is dose-dependent.
 For the 10 mg dose, it is estimated to be 80% to 100% and is not affected by food.
-XARELTO 10 mg tablets can be taken with or without food [see Dosage and Administration (2.2)].
-
-The absolute bioavailability of rivaroxaban at a dose of 20 mg in the fasted state is approximately 66%.
+XARELTO 10 mg tablets can be taken with or without food.
+For the 20 mg dose in the fasted state, the absolute bioavailability is approximately 66%.
 Coadministration of XARELTO with food increases the bioavailability of the 20 mg dose (mean AUC and Cmax increasing by 39% and 76% respectively with food).
-XARELTO 15 mg and 20 mg tablets should be taken with the evening meal [see Dosage and Administration (2.1)].
+XARELTO 15 mg and 20 mg tablets should be taken with food [see Dosage and Administration (2.1)].
 
 The maximum concentrations (Cmax) of rivaroxaban appear 2 to 4 hours after tablet intake.
 The pharmacokinetics of rivaroxaban were not affected by drugs altering gastric pH.
@@ -73,11 +72,96 @@ Body Weight
 
 Extremes in body weight (<50 kg or >120 kg) did not influence (less than 25%) rivaroxaban exposure.
 
+Renal Impairment
+
+The safety and pharmacokinetics of single-dose XARELTO (10 mg) were evaluated in a study in healthy subjects [CrCl ≥80 mL/min (n=8)] and in subjects with varying degrees of renal impairment (see Table 7).
+Compared to healthy subjects with normal creatinine clearance, rivaroxaban exposure increased in subjects with renal impairment.
+Increases in pharmacodynamic effects were also observed.
+
+Table 7: Percent Increase of Rivaroxaban PK and PD Parameters from Normal in Subjects with Renal Insufficiency from a Dedicated Renal Impairment Study
+
+| Parameter |  | 50 to 79 N = 8 | 30 to 49 N = 8 | 15 to 29 N = 8 |
+| --- | --- | --- | --- | --- |
+|  |  | CrCl (mL/min) |  |  |
+| Exposure | AUC | 44 | 52 | 64 |
+| (% increase relative to normal) | Cmax | 28 | 12 | 26 |
+| FXa Inhibition | AUC | 50 | 86 | 100 |
+| (% increase relative to normal) | Emax | 9 | 10 | 12 |
+| PT Prolongation | AUC | 33 | 116 | 144 |
+| (% increase relative to normal) | Emax | 4 | 17 | 20 |
+| PT = Prothrombin time; FXa = Coagulation factor Xa; AUC = Area under the concentration or effect curve; Cmax = maximum concentration; Emax = maximum effect; and CrCl = creatinine clearance |  |  |  |  |
+
+Hepatic Impairment
+
+The safety and pharmacokinetics of single-dose XARELTO (10 mg) were evaluated in a study in healthy subjects (n=16) and subjects with varying degrees of hepatic impairment (see Table 8).
+No patients with severe hepatic impairment (Child-Pugh C) were studied.
+Compared to healthy subjects with normal liver function, significant increases in rivaroxaban exposure were observed in subjects with moderate hepatic impairment (Child-Pugh B). Increases in pharmacodynamic effects were also observed.
+
+Table 8: Percent Increase of Rivaroxaban PK and PD Parameters from Normal in Subjects with Hepatic Insufficiency from a Dedicated Hepatic Impairment Study
+
+| Parameter |  | Mild (Child-Pugh A) N = 8 | Moderate (Child-Pugh B) N = 8 |
+| --- | --- | --- | --- |
+|  |  | Hepatic Impairment Class (Child-Pugh Class) |  |
+| Exposure | AUC | 15 | 127 |
+| (% increase relative to normal) | Cmax | 0 | 27 |
+| FXa Inhibition | AUC | 8 | 159 |
+| (% increase relative to normal) | Emax | 0 | 24 |
+| PT Prolongation | AUC | 6 | 114 |
+| (% increase relative to normal) | Emax | 2 | 41 |
+| PT = Prothrombin time; FXa = Coagulation factor Xa; AUC = Area under the concentration or effect curve; Cmax = maximum concentration; Emax = maximum effect |  |  |  |
+
 Drug Interactions
 
 In vitro studies indicate that rivaroxaban neither inhibits the major cytochrome P450 enzymes CYP1A2, 2C8, 2C9, 2C19, 2D6, 2J2, and 3A4 nor induces CYP1A2, 2B6, 2C19, or 3A4.
-
 In vitro data also indicates a low rivaroxaban inhibitory potential for P-gp and ABCG2 transporters.
+
+Drugs that Inhibit Cytochrome P450 3A4 Enzymes and Drug Transport Systems
+
+In drug interaction studies evaluating the concomitant use with drugs that are combined P-gp and CYP3A4 inhibitors the following increases in rivaroxaban exposure were observed.
+Similar increases in pharmacodynamic effects (i.e., factor Xa inhibition and PT prolongation) were also observed.
+Significant increases in rivaroxaban exposure may increase bleeding risk.
+
+- Ketoconazole (combined P-gp and strong CYP3A4 inhibitor): Steady-state rivaroxaban AUC and Cmax increased by 160% and 70%, respectively.
+  Similar increases in pharmacodynamic effects were also observed.
+- Ritonavir (combined P-gp and strong CYP3A4 inhibitor): Single-dose rivaroxaban AUC and Cmax increased by 150% and 60%, respectively.
+  Similar increases in pharmacodynamic effects were also observed.
+- Clarithromycin (combined P-gp and strong CYP3A4 inhibitor): Single-dose rivaroxaban AUC and Cmax increased by 50% and 40%, respectively.
+  The smaller increases in exposure observed for clarithromycin compared to ketoconazole or ritonavir may be due to the relative difference in P-gp inhibition.
+- Erythromycin (combined P-gp and moderate CYP3A4 inhibitor): Both the single-dose rivaroxaban AUC and Cmax increased by 30%.
+- Fluconazole (moderate CYP3A4 inhibitor): Single-dose rivaroxaban AUC and Cmax increased by 40% and 30%, respectively.
+
+Drugs that Induce Cytochrome P450 3A4 Enzymes and Drug Transport Systems
+
+In a drug interaction study, coadministration of XARELTO (20 mg single dose with food) with a drug that is a combined P-gp and strong CYP3A4 inducer (rifampicin titrated up to 600 mg once daily) led to an approximate decrease of 50% and 22% in AUC and Cmax, respectively.
+Similar decreases in pharmacodynamic effects were also observed.
+These decreases in exposure to rivaroxaban may decrease efficacy.
+
+Anticoagulants
+
+In a drug interaction study, single doses of enoxaparin (40 mg subcutaneous) and XARELTO (10 mg) given concomitantly resulted in an additive effect on anti-factor Xa activity.
+Enoxaparin did not affect the pharmacokinetics of rivaroxaban.
+In another study, single doses of warfarin (15 mg) and XARELTO (5 mg) resulted in an additive effect on factor Xa inhibition and PT.
+Warfarin did not affect the pharmacokinetics of rivaroxaban.
+
+NSAIDs/Aspirin
+
+In ROCKET AF, concomitant aspirin use (almost exclusively at a dose of 100 mg or less) during the double-blind phase was identified as an independent risk factor for major bleeding.
+NSAIDs are known to increase bleeding, and bleeding risk may be increased when NSAIDs are used concomitantly with XARELTO.
+In a single-dose drug interaction study there were no pharmacokinetic or pharmacodynamic interactions observed after concomitant administration of naproxen or aspirin (acetylsalicylic acid) with XARELTO.
+
+Clopidogrel
+
+In two drug interaction studies where clopidogrel (300 mg loading dose followed by 75 mg daily maintenance dose) and XARELTO (15 mg single dose) were coadministered in healthy subjects, an increase in bleeding time to 45 minutes was observed in approximately 45% and 30% of subjects in these studies, respectively.
+The change in bleeding time was approximately twice the maximum increase seen with either drug alone.
+There was no change in the pharmacokinetics of either drug.
+
+Drug-Disease Interactions with Drugs that Inhibit Cytochrome P450 3A4 Enzymes and Drug Transport Systems
+
+Based on simulated pharmacokinetic data, patients with renal impairment receiving full dose XARELTO in combination with drugs classified as combined P-gp and weak or moderate CYP3A4 inhibitors may have increases in exposure compared with patients with normal renal function and no inhibitor use, since both pathways of rivaroxaban elimination are affected.
+
+While increases in rivaroxaban exposure can be expected under such conditions, results from an analysis in the ROCKET AF trial, which allowed concomitant use with combined P-gp and weak or moderate CYP3A4 inhibitors (e.g., amiodarone, diltiazem, verapamil, chloramphenicol, cimetidine, and erythromycin), did not show an increase in bleeding in patients with CrCl 30 to <50 mL/min [Hazard Ratio (95% CI): 1.05 (0.77, 1.42)] [see Use in Specific Populations (8.7)].
+
+Drugs that are Substrates of CYP3A4 and/or Drug Transport Systems
 
 In addition, there were no significant pharmacokinetic interactions observed in studies comparing concomitant rivaroxaban 20 mg and 7.5 mg single dose of midazolam (substrate of CYP3A4), 0.375 mg once-daily dose of digoxin (substrate of P-gp), or 20 mg once daily dose of atorvastatin (substrate of CYP3A4 and P-gp) in healthy volunteers.
 

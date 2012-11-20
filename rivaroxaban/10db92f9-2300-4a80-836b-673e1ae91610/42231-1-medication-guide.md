@@ -6,25 +6,20 @@ This Medication Guide does not take the place of talking with your doctor about 
 
 What is the most important information I should know about XARELTO?
 
-- For people taking XARELTO for atrial fibrillation: People with atrial fibrillation (an irregular heart beat) are at an increased risk of forming a blood clot in the heart, which can travel to the brain, causing a stroke, or to other parts of the body.
+- For people taking XARELTO for atrial fibrillation:People with atrial fibrillation (an irregular heart beat) are at an increased risk of forming a blood clot in the heart, which can travel to the brain, causing a stroke, or to other parts of the body.
   XARELTO lowers your chance of having a stroke by helping to prevent clots from forming.
-  If you stop taking XARELTO, you may have increased risk of forming a clot in your blood.
-  Do not stop taking XARELTO without talking to the doctor who prescribes it for you.
-  Stopping XARELTO increases your risk of having a stroke.
-  If you have to stop taking XARELTO, your doctor may prescribe another blood thinner medicine to prevent a blood clot from forming.
+  If you stop taking XARELTO, you may have increased risk of forming a clot in your blood.Do not stop taking XARELTO without talking to the doctor who prescribes it for you.
+  Stopping XARELTO increases your risk of having a stroke.If you have to stop taking XARELTO, your doctor may prescribe another blood thinner medicine to prevent a blood clot from forming.
 - XARELTO can cause bleeding which can be serious, and rarely may lead to death.
   This is because XARELTO is a blood thinner medicine that reduces blood clotting.
-  While you take XARELTO you are likely to bruise more easily and it may take longer for bleeding to stop.
-  You may have a higher risk of bleeding if you take XARELTO and take other medicines that increase your risk of bleeding, including: Tell your doctor if you take any of these medicines.
-  Ask your doctor or pharmacist if you are not sure if your medicine is one listed above.
-  Call your doctor or get medical help right away if you develop any of these signs or symptoms of bleeding:
+  While you take XARELTO you are likely to bruise more easily and it may take longer for bleeding to stop.You may have a higher risk of bleeding if you take XARELTO and take other medicines that increase your risk of bleeding, including:Tell your doctor if you take any of these medicines.
+  Ask your doctor or pharmacist if you are not sure if your medicine is one listed above.Call your doctor or get medical help right away if you develop any of these signs or symptoms of bleeding:
   - aspirin or aspirin containing products
   - non-steroidal anti-inflammatory drugs (NSAIDs)
   - warfarin sodium (Coumadin®, Jantoven®)
   - any medicine that contains heparin
   - clopidogrel (Plavix®)
-  - prasugrel (Effient®)
-  - ticagrelor (Brilinta®)
+  - other medicines to prevent or treat blood clots
   - unexpected bleeding or bleeding that lasts a long time, such as:
     - nose bleeds that happen often
     - unusual bleeding from the gums
@@ -36,16 +31,29 @@ What is the most important information I should know about XARELTO?
   - vomit blood or your vomit looks like "coffee grounds"
   - headaches, feeling dizzy or weak
   - pain, swelling, or new drainage at wound sites
+- Spinal or epidural blood clots (hematoma).
+  People who take a blood thinner medicine (anticoagulant) like XARELTO, and have medicine injected into their spinal and epidural area, or have a spinal puncture have a risk of forming a blood clot than can cause long-term or permanent loss of the ability to move (paralysis).
+  Your risk of developing a spinal or epidural blood clot is higher if:
+  - a thin tube called an epidural catheter is placed in your back to give you certain medicine.
+  - you take NSAIDs or a medicine to prevent blood from clotting
+  - you have a history of difficult or repeated epidural or spinal punctures
+  - you have a history of problems with your spine or have had surgery on your spine.
+
+If you take XARELTO and receive spinal anesthesia or have a spinal puncture, your doctor should watch you closely for symptoms of spinal or epidural blood clots.
+Tell your doctor right away if you have tingling, numbness, or muscle weakness, especially in your legs and feet.
 
 See "What are the possible side effects of XARELTO?" for more information about side effects.
 
 What is XARELTO?
 
-- XARELTO is a prescription medicine used to: It is not known if XARELTO is safe and works in children.
+- XARELTO is a prescription medicine used to:
   - reduce the risk of stroke and blood clots in people who have a medical condition called atrial fibrillation.
     With atrial fibrillation, part of the heart does not beat the way it should.
     This can lead to the formation of blood clots, which can travel to the brain, causing a stroke, or to other parts of the body.
+  - treat blood clots in the veins of your legs (deep vein thrombosis) or lungs (pulmonary embolism) and reduce the risk of them occurring again.
   - reduce the risk of forming a blood clot in the legs and lungs of people who have just had hip or knee replacement surgery.
+
+It is not known if XARELTO is safe and effective in children.
 
 Who should not take XARELTO?
 
@@ -63,8 +71,10 @@ Before you take XARELTO, tell your doctor if you:
 - have ever had bleeding problems
 - have liver or kidney problems
 - have any other medical condition
-- are pregnant or planning to become pregnant.
+- are pregnant or plan to become pregnant.
   It is not known if XARELTO will harm your unborn baby.
+  Tell your doctor right away if you become pregnant while taking XARELTO.
+  If you take XARELTO during pregnancy tell your doctor right away if you have any bleeding or symptoms of blood loss.
 - are breastfeeding or plan to breastfeed.
   It is not known if XARELTO passes into your breast milk.
   You and your doctor should decide if you will take XARELTO or breastfeed.
@@ -98,10 +108,15 @@ Keep a list of them to show your doctor and pharmacist when you get a new medici
 How should I take XARELTO?
 
 - Take XARELTO exactly as prescribed by your doctor.
-  Do not change your dose or stop taking XARELTO unless your doctor tells you to.
+- Do not change your dose or stop taking XARELTO unless your doctor tells you to.
+- Your doctor will tell you how much XARELTO to take and when to take it.
+- Your doctor may change your dose if needed.
 - For people who have:
   - atrial fibrillation: Take XARELTO 1 time a day with your evening meal.
     Stopping XARELTO may increase your risk of having a stroke or forming blood clots in other parts of your body.
+  - blood clots in the veins of your legs or lungs: To treat blood clots, take XARELTO once or twice a day according to your doctor's instructions.
+    XARELTO is usually taken with food.
+    Take XARELTO at the same time each day.
   - hip or knee replacement surgery: Take XARELTO 1 time a day with or without food.
 - Your doctor will decide how long you should take XARELTO.
   Do not stop taking XARELTO without talking with your doctor first.
@@ -110,7 +125,7 @@ How should I take XARELTO?
 - Do not run out of XARELTO.
   Refill your prescription of XARELTO before you run out.
   When leaving the hospital following a hip or knee replacement, be sure that you will have XARELTO available to avoid missing any doses.
-- If you miss a dose of XARELTO, take it as soon as you remember on the same day.
+- If you miss a dose of XARELTO, take it as soon as you remember on the same day and continue with your next regularly scheduled dose.
 - If you take too much XARELTO, go to the nearest hospital emergency room or call your doctor right away.
 
 What are the possible side effects of XARELTO?
@@ -124,7 +139,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store XARELTO?
 
-- Store XARELTO at room temperature between 59° to 86°F (15° to 30° C).
+- Store XARELTO at room temperature between 68°F to 77°F (20° to 25° C).
 
 Keep XARELTO and all medicines out of the reach of children.
 
@@ -153,6 +168,16 @@ The proprietary film coating mixture for XARELTO 15 mg tablets is Opadry® Red, 
 
 The proprietary film coating mixture for XARELTO 20 mg tablets is Opadry® II Dark Red, contains: ferric oxide red, polyethylene glycol 3350, polyvinyl alcohol (partially hydrolyzed), talc, and titanium dioxide.
 
-Revised: December 2011
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Finished Product Manufactured by: Janssen Ortho, LLC Gurabo, PR 00778
+
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+
+Licensed from: Bayer HealthCare AG 51368 Leverkusen, Germany
+
+Revised: November 2012
+
+© Janssen Pharmaceuticals, Inc. 2011
+
+Trademarks are property of their respective owners.

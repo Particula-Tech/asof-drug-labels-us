@@ -7,6 +7,7 @@ See FDA-approved patient labeling (Medication Guide).
 - Advise patients to take XARELTO only as directed.
 - Remind patients to not discontinue XARELTO without first talking to their healthcare professional.
 - Advise patients with atrial fibrillation to take XARELTO once daily with the evening meal.
+- Advise patients with DVT and/or PE to take XARELTO 15 mg or 20 mg tablets with food at approximately the same time every day [see Dosage and Administration (2.4)].
 - If a dose is missed, advise the patient to take XARELTO as soon as possible on the same day and continue on the following day with their recommended daily dose regimen.
 
 ## 17.2 Bleeding Risks
@@ -18,7 +19,7 @@ See FDA-approved patient labeling (Medication Guide).
 
 ## 17.3 Invasive or Surgical Procedures
 
-Instruct patients to inform their health care professional that they are taking XARELTO before any invasive procedure (including dental procedures) is scheduled.
+Instruct patients to inform their healthcare professional that they are taking XARELTO before any invasive procedure (including dental procedures) is scheduled.
 
 ## 17.4 Concomitant Medication and Herbals
 
@@ -27,7 +28,7 @@ Advise patients to inform their physicians and dentists if they are taking, or p
 ## 17.5 Pregnancy and Pregnancy-Related Hemorrhage
 
 - Advise patients to inform their physician immediately if they become pregnant or intend to become pregnant during treatment with XARELTO [see Use in Specific Populations (8.1)].
-- Advise pregnant women receiving XARELTO to immediately report to their physician any bleeding or symptoms of blood loss [see Warnings and Precautions (5.4)].
+- Advise pregnant women receiving XARELTO to immediately report to their physician any bleeding or symptoms of blood loss [see Warnings and Precautions (5.7)].
 
 ## 17.6 Nursing
 

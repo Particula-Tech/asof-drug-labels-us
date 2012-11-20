@@ -2,10 +2,22 @@
 
 ## 1.1 Reduction of Risk of Stroke and Systemic Embolism in Nonvalvular Atrial Fibrillation
 
-XARELTO (rivaroxaban) is indicated to reduce the risk of stroke and systemic embolism in patients with nonvalvular atrial fibrillation.
+XARELTO is indicated to reduce the risk of stroke and systemic embolism in patients with nonvalvular atrial fibrillation.
 
 There are limited data on the relative effectiveness of XARELTO and warfarin in reducing the risk of stroke and systemic embolism when warfarin therapy is well-controlled [see Clinical Studies (14.1)].
 
-## 1.2 Prophylaxis of Deep Vein Thrombosis
+## 1.2 Treatment of Deep Vein Thrombosis
 
-XARELTO (rivaroxaban) is indicated for the prophylaxis of deep vein thrombosis (DVT), which may lead to pulmonary embolism (PE) in patients undergoing knee or hip replacement surgery.
+XARELTO is indicated for the treatment of deep vein thrombosis (DVT).
+
+## 1.3 Treatment of Pulmonary Embolism
+
+XARELTO is indicated for the treatment of pulmonary embolism (PE).
+
+## 1.4 Reduction in the Risk of Recurrence of Deep Vein Thrombosis and of Pulmonary Embolism
+
+XARELTO is indicated for the reduction in the risk of recurrence of deep vein thrombosis and of pulmonary embolism following initial 6 months treatment for DVT and/or PE.
+
+## 1.5 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
+
+XARELTO is indicated for the prophylaxis of DVT, which may lead to PE in patients undergoing knee or hip replacement surgery.

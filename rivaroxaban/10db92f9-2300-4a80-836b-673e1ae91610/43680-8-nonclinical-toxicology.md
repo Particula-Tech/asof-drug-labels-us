@@ -1,6 +1,6 @@
 # 13 NON-CLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Rivaroxaban was not carcinogenic when administered by oral gavage to mice or rats for up to 2 years.
 The systemic exposures (AUCs) of unbound rivaroxaban in male and female mice at the highest dose tested (60 mg/kg/day) were 1- and 2-times, respectively, the human exposure of unbound drug at the human dose of 20 mg/day.

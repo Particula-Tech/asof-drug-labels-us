@@ -8,7 +8,7 @@ There are no adequate or well-controlled studies of XARELTO in pregnant women, a
 Use XARELTO with caution in pregnant patients because of the potential for pregnancy related hemorrhage and/or emergent delivery with an anticoagulant that is not readily reversible.
 The anticoagulant effect of XARELTO cannot be reliably monitored with standard laboratory testing.
 Animal reproduction studies showed no increased risk of structural malformations, but increased post-implantation pregnancy loss occurred in rabbits.
-XARELTO should be used during pregnancy only if the potential benefit justifies the potential risk to mother and fetus [see Warnings and Precautions (5.4)].
+XARELTO should be used during pregnancy only if the potential benefit justifies the potential risk to mother and fetus [see Warnings and Precautions (5.7)].
 
 Rivaroxaban crosses the placenta in animals.
 Animal reproduction studies have shown pronounced maternal hemorrhagic complications in rats and an increased incidence of post-implantation pregnancy loss in rabbits.
@@ -36,6 +36,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Of the total number of patients in the RECORD 1–3 clinical studies evaluating XARELTO, about 54% were 65 years and over, while about 15% were >75 years.
 In ROCKET AF, approximately 77% were 65 years and over and about 38% were >75 years.
+In the EINSTEIN DVT, PE and Extension clinical studies approximately 37% were 65 years and over and about 16% were >75 years.
 In clinical trials the efficacy of XARELTO in the elderly (65 years or older) was similar to that seen in patients younger than 65 years.
 Both thrombotic and bleeding event rates were higher in these older patients, but the risk-benefit profile was favorable in all age groups [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
 
@@ -45,55 +46,29 @@ Females of reproductive potential requiring anticoagulation should discuss pregn
 
 ## 8.7 Renal Impairment
 
-The safety and pharmacokinetics of single-dose XARELTO (10 mg) were evaluated in a study in healthy subjects [CrCl ≥80 mL/min (n=8)] and in subjects with varying degrees of renal impairment (see Table 4).
-Compared to healthy subjects with normal creatinine clearance, rivaroxaban exposure increased in subjects with renal impairment.
-Increases in pharmacodynamic effects were also observed.
-
-Table 4: Percent Increase of Rivaroxaban PK and PD Parameters from Normal in Subjects with Renal Insufficiency from a Dedicated Renal Impairment Study
-
-|  |  | [50 to 79] N=8 | [30 to 49] N=8 | [15 to 29] N=8 |
-| --- | --- | --- | --- | --- |
-|  |  | Renal Impairment Class [CrCl (mL/min)] |  |  |
-| Parameter |  | Mild | Moderate | Severe |
-| Exposure | AUC | 44 | 52 | 64 |
-| (% increase relative to normal) | Cmax | 28 | 12 | 26 |
-| FXa Inhibition | AUC | 50 | 86 | 100 |
-| (% increase relative to normal) | Emax | 9 | 10 | 12 |
-| PT Prolongation | AUC | 33 | 116 | 144 |
-| (% increase relative to normal) | Emax | 4 | 17 | 20 |
-| PT = Prothrombin time; FXa = Coagulation factor Xa; AUC = Area under the concentration or effect curve; Cmax = maximum concentration; Emax = maximum effect; and CrCl = creatinine clearance |  |  |  |  |
-
-Patients with renal impairment taking P-gp and weak to moderate CYP3A4 inhibitors may have significant increases in exposure which may increase bleeding risk [see Drug Interactions (7.6)].
+In a pharmacokinetic study, compared to healthy subjects with normal creatinine clearance, rivaroxaban exposure increased by approximately 44 to 64% in subjects with renal impairment.
+Increases in pharmacodynamic effects were also observed [see Clinical Pharmacology (12.3)].
 
 Nonvalvular Atrial Fibrillation
 
 In the ROCKET AF trial, patients with CrCl 30 to 50 mL/min were administered XARELTO 15 mg once daily resulting in serum concentrations of rivaroxaban and clinical outcomes similar to those in patients with better renal function administered XARELTO 20 mg once daily.
-Patients with CrCl 15 to 30 mL/min were not studied, but administration of XARELTO 15 mg once daily is also expected to result in serum concentrations of rivaroxaban similar to those in patients with normal renal function [see Dosage and Administration (2.1)].
+Patients with CrCl 15 to 30 mL/min were not studied, but administration of XARELTO 15 mg once daily is also expected to result in serum concentrations of rivaroxaban similar to those in patients with normal renal function [see Dosage and Administration (2.3)].
 
-Prophylaxis of Deep Vein Thrombosis
+Treatment of DVT and/or PE, and Reduction in the Risk of Recurrence of DVT and of PE
 
-The combined analysis of the RECORD 1–3 clinical efficacy studies did not show an increase in bleeding risk for patients with moderate renal impairment and reported a possible increase in total VTE in this population.
-Observe closely and promptly evaluate any signs or symptoms of blood loss in patients with moderate renal impairment (CrCl 30 to <50 mL/min).
-Avoid the use of XARELTO in patients with severe renal impairment (CrCl <30 mL/min) [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
+In the EINSTEIN trials, patients with CrCl values <30 mL/min at screening were excluded from the studies.
+Avoid the use of XARELTO in patients with CrCl <30 mL/min.
+
+Prophylaxis of DVT Following Hip or Knee Replacement Surgery
+
+The combined analysis of the RECORD 1–3 clinical efficacy studies did not show an increase in bleeding risk for patients with CrCl 30 to 50 mL/min and reported a possible increase in total venous thromboemboli in this population.
+Observe closely and promptly evaluate any signs or symptoms of blood loss in patients with CrCl 30 to 50 mL/min.
+Avoid the use of XARELTO in patients with CrCl <30 mL/min.
 
 ## 8.8 Hepatic Impairment
 
-The safety and pharmacokinetics of single-dose XARELTO (10 mg) were evaluated in a study in healthy subjects (n=16) and subjects with varying degrees of hepatic impairment (see Table 5).
-No patients with severe hepatic impairment (Child-Pugh C) were studied.
-Compared to healthy subjects with normal liver function, significant increases in rivaroxaban exposure were observed in subjects with moderate hepatic impairment (Child-Pugh B). Increases in pharmacodynamic effects were also observed.
+In a pharmacokinetic study, compared to healthy subjects with normal liver function, AUC increases of 127% were observed in subjects with moderate hepatic impairment (Child-Pugh B).
 
-Table 5: Percent Increase of Rivaroxaban PK and PD Parameters from Normal in Subjects with Hepatic Insufficiency from a Dedicated Hepatic Impairment Study
+The safety or PK of XARELTO in patients with severe hepatic impairment (Child-Pugh C) has not been evaluated [see Clinical Pharmacology (12.3)].
 
-|  |  | (Child-Pugh A) N=8 | (Child-Pugh B) N=8 |
-| --- | --- | --- | --- |
-|  |  | Hepatic Impairment Class (Child-Pugh Class) |  |
-| Parameter |  | Mild | Moderate |
-| Exposure | AUC | 15 | 127 |
-| (% increase relative to normal) | Cmax | 0 | 27 |
-| FXa Inhibition | AUC | 8 | 159 |
-| (% increase relative to normal) | Emax | 0 | 24 |
-| PT Prolongation | AUC | 6 | 114 |
-| (% increase relative to normal) | Emax | 2 | 41 |
-| PT = Prothrombin time; FXa = Coagulation factor Xa; AUC = Area under the concentration or effect curve; Cmax = maximum concentration; Emax = maximum effect |  |  |  |
-
-Avoid the use of XARELTO in patients with moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment or with any hepatic disease associated with coagulopathy [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
+Avoid the use of XARELTO in patients with moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment or with any hepatic disease associated with coagulopathy.
