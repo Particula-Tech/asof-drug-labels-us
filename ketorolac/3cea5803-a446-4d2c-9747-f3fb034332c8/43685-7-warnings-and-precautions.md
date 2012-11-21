@@ -6,9 +6,10 @@ Topical nonsteroidal anti-inflammatory drugs (NSAIDs) may slow or delay healing.
 Topical corticosteroids are also known to slow or delay healing.
 Concomitant use of topical NSAIDs and topical steroids may increase the potential for healing problems.
 
-## 5.2 Potential for Cross-Sensitivity
+## 5.2 Cross-Sensitivity or Hypersensitivity
 
 There is the potential for cross-sensitivity to acetylsalicylic acid, phenylacetic acid derivatives, and other NSAIDs.
+There have been reports of bronchospasm or exacerbation of asthma associated with the use of ketorolac tromethamine ophthalmic solution in patients who either have a known hypersensitivity to aspirin/non-steroidal anti-inflammatory drugs, or a past medical history of asthma.
 Therefore, caution should be used when treating individuals who have previously exhibited sensitivities to these drugs.
 
 ## 5.3 Increased Bleeding Time

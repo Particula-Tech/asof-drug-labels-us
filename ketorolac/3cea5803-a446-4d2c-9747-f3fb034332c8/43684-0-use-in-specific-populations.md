@@ -5,7 +5,7 @@
 Teratogenic Effects.
 
 Pregnancy Category C: Ketorolac tromethamine, administered during organogenesis, was not teratogenic in rabbits and rats at oral doses of 3.6 mg/kg/day and 10 mg/kg/day, respectively.
-These doses are approximately 600 times and 1700 times higher respectively than the typical human topical ophthalmic daily dose of 0.35 mg (4.5 mg/mL x 0.04 mL/drop, BID) to an affected eye on a mg/kg basis.
+These doses are approximately 600 times and 1700 times higher respectively than the typical human topical ophthalmic daily dose of 0.35 mg (4.5 mg/mL x 0.04 mL/drop, twice daily) to an affected eye on a mg/kg basis.
 Additionally, when administered to rats after Day 17 of gestation at oral doses up to 1.5 mg/kg/day (approximately 300 times the typical human topical ophthalmic daily dose), ketorolac tromethamine resulted in dystocia and increased pup mortality.
 There are no adequate and well-controlled studies in pregnant women.
 ACUVAIL® solution should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

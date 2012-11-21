@@ -6,7 +6,7 @@ Its molecular formula is C19H24N2O6.
 Its chemical structure is:
 
 ACUVAIL® solution is supplied as a sterile isotonic aqueous 0.45% preservative-free solution, with a pH of approximately 6.8.
-ACUVAIL® solution is a racemic mixture of R-(+) and S-(-)- ketorolac tromethamine.
+ACUVAIL® solution contains a racemic mixture of R-(+) and S-(-)- ketorolac tromethamine.
 Ketorolac tromethamine may exist in three crystal forms.
 All forms are equally soluble in water.
 The pKa of ketorolac is 3.5.
