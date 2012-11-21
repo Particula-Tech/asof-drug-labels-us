@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA202261"
+  ],
+  "inn": "minocycline",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-554-01",
+    "65862-554-30",
+    "65862-554-99",
+    "65862-556-01",
+    "65862-556-30",
+    "65862-556-99",
+    "65862-558-01",
+    "65862-558-30",
+    "65862-558-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "minocycline hydrochloride",
+      "name": "Minocycline Hydrochloride"
+    }
+  ],
+  "setid": "e7b88a48-12b3-461d-b356-0d7ae4e8fd44",
+  "source": "dailymed"
+}
