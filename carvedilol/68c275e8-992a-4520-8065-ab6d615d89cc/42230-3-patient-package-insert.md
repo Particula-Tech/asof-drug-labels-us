@@ -136,7 +136,7 @@ Medicines that lower blood pressure may lower your chance of having a stroke or 
 
 Manufactured In India By:
 
-PIRAMAL HEALTHCARE LIMITED
+PIRAMAL ENTERPRISES LIMITED
 
 Pithampur, Madhya Pradesh, India
 
@@ -147,4 +147,4 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-G 4/2011
+H 8/2012

@@ -4,8 +4,6 @@
 
 NDC 0093-0051-05
 
-New Product Appearance
-
 CARVEDILOL
 
 Tablets USP
@@ -27,8 +25,6 @@ TEVA
 ## Carvedilol Tablets USP 6.25 mg 500s Label Text
 
 NDC 0093-0135-05
-
-New Product Appearance
 
 CARVEDILOL
 
@@ -52,8 +48,6 @@ TEVA
 
 NDC 0093-7295-05
 
-New Product Appearance
-
 CARVEDILOL
 
 Tablets USP
@@ -75,8 +69,6 @@ TEVA
 ## Carvedilol Tablets USP 25 mg 500s Label Text
 
 NDC 0093-7296-05
-
-New Product Appearance
 
 CARVEDILOL
 

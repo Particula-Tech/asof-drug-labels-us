@@ -22,7 +22,7 @@ Patient labeling is provided at the end of this full prescribing information.
 
 Manufactured In India By:
 
-PIRAMAL HEALTHCARE LIMITED
+PIRAMAL ENTERPRISES LIMITED
 
 Pithampur, Madhya Pradesh, India
 
@@ -33,7 +33,7 @@ TEVA PHARMACEUTICALS USA
 Sellersville, PA 18960
 
 Rev.
-O 7/2011
+P 8/2012
 
 PHARMACIST - DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
